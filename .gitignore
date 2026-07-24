@@ -1,0 +1,57 @@
+# ─────────────────────────────────────────────────────────────
+# Harness / agent tooling — NOT part of the code project (local only)
+# El arnés vive en Google Drive ("Mi unidad/maia-harness/"); aquí solo hay
+# symlinks hacia Drive. SIN barra final para ignorar tanto el symlink como el
+# directorio real. Recrear en otra máquina: maia-harness/link-harness.sh
+# ─────────────────────────────────────────────────────────────
+/.claude
+/.codex
+/.rsc
+/01-TOOLS
+/02-DOCS
+/AGENTS.md
+/CLAUDE.md
+
+# ─────────────────────────────────────────────────────────────
+# Secrets
+# ─────────────────────────────────────────────────────────────
+.env
+.env.*
+!.env.example
+
+# ─────────────────────────────────────────────────────────────
+# Python (Python 3.11 · uv)
+# ─────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.uv/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ─────────────────────────────────────────────────────────────
+# ML / data artifacts — data is never committed (Anexo §5)
+# ─────────────────────────────────────────────────────────────
+data/
+*.parquet
+*.arrow
+*.gguf
+*.safetensors
+*.bin
+outputs/
+checkpoints/
+wandb/
+.cache/
+
+# ─────────────────────────────────────────────────────────────
+# OS / editor
+# ─────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
