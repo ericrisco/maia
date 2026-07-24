@@ -7,11 +7,16 @@ requires-python = "==3.11.*"
 license = { text = "Apache-2.0" }
 authors = [{ name = "Eric Risco de la Torre" }]
 keywords = ["andorra", "catalan", "llm", "gemma", "qlora", "rag"]
-dependencies = []
+dependencies = [
+    "pydantic>=2.9",
+]
 
 [project.urls]
 Homepage = "https://github.com/ericrisco/maia"
 Repository = "https://github.com/ericrisco/maia"
+
+[project.scripts]
+maia-validate-corpus = "maia.corpus.validate:main"
 
 [dependency-groups]
 dev = [
