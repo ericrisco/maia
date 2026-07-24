@@ -18,17 +18,22 @@ repos:
       - id: check-merge-conflict
       - id: detect-private-key
 
-  - repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: v0.9.10
-    hooks:
-      - id: ruff
-        args: ["--fix"]
-      - id: ruff-format
-
-  # mypy runs in the project env (via uv) so it sees the real dependencies —
-  # the isolated mirrors-mypy env would miss pytest/pydantic/etc. and drift from CI.
+  # ruff + mypy run from the project env (via uv) so pre-commit, CI and local dev
+  # use the exact same tool versions — a pinned hook repo would drift from pyproject.
   - repo: local
     hooks:
+      - id: ruff
+        name: ruff (lint, project env)
+        entry: uv run ruff check --fix
+        language: system
+        types_or: [python, pyi]
+        require_serial: true
+      - id: ruff-format
+        name: ruff-format (project env)
+        entry: uv run ruff format
+        language: system
+        types_or: [python, pyi]
+        require_serial: true
       - id: mypy
         name: mypy (strict, project env)
         entry: uv run mypy

@@ -1,0 +1,70 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" version="0.11" xml:lang="ca">
+  <siteinfo>
+    <sitename>Viquipèdia</sitename>
+    <dbname>cawiki</dbname>
+  </siteinfo>
+  <page>
+    <title>Andorra</title>
+    <ns>0</ns>
+    <id>1</id>
+    <revision>
+      <id>1001</id>
+      <text xml:space="preserve">'''Andorra''', oficialment el '''Principat d'Andorra''', és un [[microestat]] sobirà situat als [[Pirineus]], entre [[Espanya]] i [[França]]. La capital és [[Andorra la Vella]]. El sistema polític és un [[coprincipat]] parlamentari. La llengua oficial és el [[català]]. Andorra té set [[parròquia|parròquies]]. L'economia es basa en el turisme i el comerç.
+
+[[Categoria:Andorra]]
+[[Categoria:Microestats d'Europa]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Escaldes-Engordany</title>
+    <ns>0</ns>
+    <id>2</id>
+    <revision>
+      <id>1002</id>
+      <text xml:space="preserve">'''Escaldes-Engordany''' és una de les set [[parròquia|parròquies]] del [[Principat d'Andorra]]. Es va crear el [[1978]] a partir d'una segregació d'[[Andorra la Vella]]. És coneguda pel seu balneari termal [[Caldea]] i pel seu patrimoni industrial i cultural situat al centre del país.
+
+[[Categoria:Parròquies d'Andorra]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Principat d'Andorra</title>
+    <ns>0</ns>
+    <id>3</id>
+    <redirect title="Andorra" />
+    <revision>
+      <id>1003</id>
+      <text xml:space="preserve">#REDIRECCIÓ [[Andorra]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>França</title>
+    <ns>0</ns>
+    <id>4</id>
+    <revision>
+      <id>1004</id>
+      <text xml:space="preserve">'''França''' és un [[estat]] de l'[[Europa occidental]]. La seva capital és [[París]]. És una república semipresidencialista amb una llarga història i una gran influència cultural, econòmica i política a escala mundial. Té una població de més de seixanta milions d'habitants.
+
+[[Categoria:Països d'Europa]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Categoria:Andorra</title>
+    <ns>14</ns>
+    <id>5</id>
+    <revision>
+      <id>1005</id>
+      <text xml:space="preserve">Articles sobre [[Andorra]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Casa de la Vall (esbós)</title>
+    <ns>0</ns>
+    <id>6</id>
+    <revision>
+      <id>1006</id>
+      <text xml:space="preserve">La [[Casa de la Vall]] a [[Andorra]]. {{esborrany}}
+
+[[Categoria:Andorra]]</text>
+    </revision>
+  </page>
+</mediawiki>
