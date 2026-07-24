@@ -1,0 +1,44 @@
+name: ci
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+# Least-privilege token; this job only reads the repo.
+permissions:
+  contents: read
+
+# One run per ref; cancel superseded runs.
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  ci:
+    name: ci
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+
+      - name: Install uv (pinned) + enable cache
+        uses: astral-sh/setup-uv@11f9893b081a58869d3b5fccaea48c9e9e46f990 # v8.3.2
+        with:
+          enable-cache: true
+
+      - name: Sync (locked — fails if uv.lock drifts from pyproject)
+        run: uv sync --locked
+
+      # Layered gate — each step standalone so a failure can't be masked.
+      - name: Format check
+        run: uv run ruff format --check .
+
+      - name: Lint
+        run: uv run ruff check .
+
+      - name: Type-check (mypy strict)
+        run: uv run mypy
+
+      - name: Tests + coverage (full suite — unit + integration)
+        run: uv run pytest -m "unit or integration" --cov --cov-report=term-missing
