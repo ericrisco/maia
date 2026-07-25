@@ -551,7 +551,7 @@ def generate_batch(
                 continue
             assert_train_only(partition, [passage.id for passage in passages])
 
-            lines = tuple(glossary.prompt_lines(_categories_for(node)) if glossary else ())
+            lines = tuple(glossary.prompt_lines(categories_for(node)) if glossary else ())
             request = GenerationRequest(
                 node=node,
                 example_type=example_type,
@@ -566,7 +566,7 @@ def generate_batch(
     return result
 
 
-def _categories_for(node: TaxonomyNode) -> list[Category] | None:
+def categories_for(node: TaxonomyNode) -> list[Category] | None:
     """Glossary categories worth putting in this node's prompt.
 
     A node about geography does not need the whole institutional lexicon in its context window;
@@ -724,7 +724,7 @@ def main(argv: Sequence[str] | None = None) -> int:
             example_type=ExampleType.QA,
             count=5,
             passages=tuple(passages),
-            glossary_lines=tuple(glossary.prompt_lines(_categories_for(node)) if glossary else ()),
+            glossary_lines=tuple(glossary.prompt_lines(categories_for(node)) if glossary else ()),
             style_excerpts=tuple(style_excerpts(documents, partition, count=2, rng=rng)),
         )
         print(build_prompt(request))
