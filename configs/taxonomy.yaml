@@ -1,0 +1,275 @@
+# MAIA generation taxonomy — PLAN M2.01
+#
+# ⚠ DRAFT, NOT APPROVED. `approved: false` makes the generation engine refuse to run.
+#
+# This is a starting point, not a proposal to rubber-stamp: it was derived from the branches
+# and examples the Phase-1 plan enumerates, so it covers what the plan names and guesses at the
+# rest. The node list decides what the model knows — arguing about this file is far cheaper
+# than regenerating 12,000 examples at €30-60 of API.
+#
+# PO review checklist:
+#   1. Delete nodes that do not matter and add the ones that are missing. Andorran judgement
+#      beats a literal reading of the plan; keep the total inside 60-80.
+#   2. Check the `keywords` of each node — they are what retrieves that node's grounding
+#      passages from the corpus. Run `maia-taxonomy configs/taxonomy.yaml --corpus <corpus>`
+#      to see which nodes retrieve too little to be groundable.
+#   3. Raise `weight` on what MAIA must be strongest at, lower it on the peripheral.
+#   4. Set `approved: true` and fill `approved_by`.
+#
+# The `legal` branch teaches CONCEPTS only (normative hierarchy, judicial organisation, what
+# each code regulates). Citable details — article numbers, amounts, deadlines, tax rates —
+# stay out of the weights deliberately and are looked up in RAG (decision D8).
+
+version: "0.1-draft"
+approved: false
+approved_by: ""
+notes: >-
+  Draft derived from the Phase-1 plan's enumeration. Awaiting PO review (M2.01), which gates
+  all generation from M2.03 onward.
+
+nodes:
+  # ── història ────────────────────────────────────────────────────────────────
+  - id: historia/pareatges-1278
+    label: Els Pareatges de 1278 i 1288
+    keywords: [pareatge, pareatges, "1278", Urgell, Foix, coprincipat]
+    weight: 2.0
+    notes: Foundational act of the Andorran state; high weight.
+  - id: historia/senyoria-episcopal
+    label: La senyoria dels bisbes d'Urgell
+    keywords: [bisbe d'Urgell, senyoria, Urgell, feudal]
+  - id: historia/manual-digest
+    label: El Manual Digest i el Politar andorrà
+    keywords: [Manual Digest, Politar, Fiter i Rossell, "1748"]
+  - id: historia/nova-reforma-1866
+    label: La Nova Reforma de 1866
+    keywords: [Nova Reforma, "1866", reforma, Consell General]
+    weight: 1.5
+  - id: historia/segle-xx
+    label: Andorra al segle XX
+    keywords: [segle XX, radiodifusió, carretera, modernització]
+  - id: historia/constitucio-1993
+    label: La Constitució de 1993 i la sobirania
+    keywords: [Constitució, "1993", referèndum, sobirania, Nacions Unides]
+    weight: 2.0
+  - id: historia/andorra-guerres
+    label: Andorra i els conflictes europeus
+    keywords: [guerra civil, neutralitat, refugiats, contraban]
+  - id: historia/relacions-internacionals
+    label: Obertura internacional i tractats
+    keywords: [tractat, Nacions Unides, Consell d'Europa, Unió Europea, duana]
+
+  # ── institucions ────────────────────────────────────────────────────────────
+  - id: institucions/coprincipat
+    label: El Coprincipat i els coprínceps
+    keywords: [copríncep, coprínceps, coprincipat, bisbe, president francès]
+    weight: 2.0
+  - id: institucions/consell-general
+    label: El Consell General
+    keywords: [Consell General, conseller general, síndic, sindicatura, legislatura]
+    weight: 2.0
+  - id: institucions/govern
+    label: El Govern i el cap de Govern
+    keywords: [Govern, cap de Govern, ministre, ministeri]
+    weight: 1.5
+  - id: institucions/comuns-i-consols
+    label: Els comuns, els cònsols i les quarts
+    keywords: [comú, comuns, cònsol, cònsol major, quart, veïnat]
+    weight: 1.5
+  - id: institucions/justicia
+    label: L'organització judicial
+    keywords: [Batllia, batlle, Tribunal de Corts, Tribunal Superior, Consell Superior de la Justícia]
+    weight: 1.5
+  - id: institucions/tribunal-constitucional
+    label: El Tribunal Constitucional
+    keywords: [Tribunal Constitucional, magistrat constitucional, recurs d'empara]
+  - id: institucions/raonador
+    label: El Raonador del Ciutadà
+    keywords: [Raonador del Ciutadà, raonador, defensor]
+  - id: institucions/sistema-electoral
+    label: El sistema electoral i els partits
+    keywords: [eleccions, circumscripció, parroquial, nacional, partit, candidatura]
+  - id: institucions/administracio
+    label: Administració i serveis públics
+    keywords: [administració, tràmit, servei públic, funcionari, registre]
+
+  # ── geografia ───────────────────────────────────────────────────────────────
+  - id: geografia/parroquies
+    label: Les set parròquies
+    keywords: [parròquia, Canillo, Encamp, Ordino, La Massana, Andorra la Vella, Sant Julià de Lòria, Escaldes-Engordany]
+    weight: 2.0
+  - id: geografia/valls-i-rius
+    label: Les valls i els rius — la Valira
+    keywords: [Valira, Valira d'Orient, Valira del Nord, riu, vall, conca]
+  - id: geografia/muntanyes
+    label: Muntanyes i cims — el Comapedrosa
+    keywords: [Comapedrosa, cim, pic, serralada, Pirineus, altitud]
+  - id: geografia/madriu
+    label: La vall del Madriu-Perafita-Claror
+    keywords: [Madriu, Perafita, Claror, patrimoni mundial, UNESCO]
+    weight: 1.5
+  - id: geografia/clima
+    label: Clima i estacions de muntanya
+    keywords: [clima, neu, precipitació, temperatura, alta muntanya]
+  - id: geografia/flora-fauna
+    label: Flora i fauna dels Pirineus andorrans
+    keywords: [isard, marmota, pi negre, bosc, espècie, natura]
+  - id: geografia/toponimia
+    label: Toponímia andorrana
+    keywords: [topònim, toponímia, nom de lloc, borda, camí]
+  - id: geografia/fronteres-i-accessos
+    label: Fronteres, ports i accessos
+    keywords: [frontera, port d'Envalira, la Farga de Moles, Pas de la Casa, accés]
+
+  # ── cultura i tradicions ────────────────────────────────────────────────────
+  - id: cultura/falles-solstici
+    label: Les falles del solstici d'estiu
+    keywords: [falla, falles, fallaire, solstici, foguera, Sant Joan]
+    weight: 2.0
+  - id: cultura/meritxell
+    label: Meritxell i la patrona d'Andorra
+    keywords: [Meritxell, santuari, patrona, 8 de setembre, romiatge]
+    weight: 1.5
+  - id: cultura/contrapas-i-danses
+    label: El contrapàs, la marratxa i les danses tradicionals
+    keywords: [contrapàs, marratxa, sardana, dansa, ball]
+  - id: cultura/esquellots
+    label: Els esquellots i els costums de veïnatge
+    keywords: [esquellots, costum, veïnat, tradició popular]
+  - id: cultura/festes-majors
+    label: Les festes majors de les parròquies
+    keywords: [festa major, festa, cercavila, envelat]
+  - id: cultura/patrimoni-romanic
+    label: El patrimoni romànic
+    keywords: [romànic, Santa Coloma, Sant Joan de Caselles, església, campanar]
+    weight: 1.5
+  - id: cultura/museus-i-arxius
+    label: Museus, arxius i biblioteques
+    keywords: [museu, arxiu, biblioteca, col·lecció, exposició]
+  - id: cultura/llengua-i-literatura
+    label: Llengua catalana i literatura andorrana
+    keywords: [català, llengua oficial, literatura, escriptor, política lingüística]
+    weight: 1.5
+  - id: cultura/esport
+    label: Esport a Andorra
+    keywords: [esquí, federació, competició, esport, Jocs dels Petits Estats]
+
+  # ── legal (conceptes; els detalls citables van a RAG — D8) ──────────────────
+  - id: legal/jerarquia-normativa
+    label: La jerarquia normativa andorrana
+    keywords: [jerarquia normativa, llei qualificada, llei ordinària, reglament, decret]
+    weight: 2.0
+  - id: legal/lleis-qualificades
+    label: Què és una llei qualificada
+    keywords: [llei qualificada, majoria qualificada, desenvolupament constitucional]
+    weight: 1.5
+  - id: legal/organitzacio-judicial
+    label: L'organització judicial pas a pas
+    keywords: [Batllia, Tribunal de Corts, Tribunal Superior, instància, recurs]
+    weight: 1.5
+  - id: legal/dret-consuetudinari
+    label: Dret consuetudinari i ius commune supletoris
+    keywords: [consuetudinari, costum, ius commune, dret supletori, tradició jurídica]
+    weight: 1.5
+  - id: legal/drets-fonamentals
+    label: Drets i llibertats fonamentals
+    keywords: [dret fonamental, llibertat, igualtat, empara, Declaració Universal]
+  - id: legal/codi-penal
+    label: Què regula el Codi penal
+    keywords: [Codi penal, delicte, contravenció, pena, responsabilitat penal]
+  - id: legal/procediment
+    label: Procediment civil, penal i administratiu
+    keywords: [procediment, jurisdicció, demanda, administratiu, contenciós]
+  - id: legal/persona-i-familia
+    label: Persona i família
+    keywords: [persona, família, matrimoni, filiació, successió]
+  - id: legal/relacions-laborals
+    label: Relacions laborals
+    keywords: [relacions laborals, contracte de treball, conveni, salari, acomiadament]
+  - id: legal/nacionalitat-i-immigracio
+    label: Nacionalitat, residència i immigració
+    keywords: [nacionalitat, residència, immigració, autorització, permís]
+    weight: 1.5
+  - id: legal/fiscalitat-conceptual
+    label: El sistema fiscal, conceptualment
+    keywords: [IRPF, IGI, impost sobre societats, tribut, base de tributació]
+    notes: >-
+      Concepts only — what each tax is and who it applies to. Rates, thresholds and deadlines
+      change and must be looked up in RAG (D8), never learned in the weights.
+  - id: legal/on-consultar
+    label: On consultar el dret vigent
+    keywords: [BOPA, text refós, consolidat, Butlletí Oficial, portal jurídic]
+    weight: 2.0
+    notes: >-
+      The node that teaches the honest answer "això cal consultar-ho al text vigent del BOPA".
+      Feeds the `no_ho_se` type; high weight on purpose.
+
+  # ── gastronomia ─────────────────────────────────────────────────────────────
+  - id: gastronomia/plats-tradicionals
+    label: Plats tradicionals andorrans
+    keywords: [trinxat, escudella, cuina andorrana, plat tradicional, recepta]
+    weight: 1.5
+  - id: gastronomia/embotits-i-formatges
+    label: Embotits, formatges i productes de la terra
+    keywords: [embotit, formatge, tupí, producte de la terra, ramaderia]
+  - id: gastronomia/producte-de-muntanya
+    label: Producte de muntanya i temporada
+    keywords: [bolet, tòfona, mel, horta, temporada]
+  - id: gastronomia/restauracio
+    label: Restauració i cultura de taula
+    keywords: [restaurant, borda, taula, gastronomia, hostaleria]
+
+  # ── economia i societat ─────────────────────────────────────────────────────
+  - id: economia/turisme
+    label: El turisme, motor econòmic
+    keywords: [turisme, visitant, temporada, esquí, allotjament]
+    weight: 1.5
+  - id: economia/comerc
+    label: El comerç i la fiscalitat indirecta
+    keywords: [comerç, botiga, IGI, importació, preu]
+  - id: economia/sector-financer
+    label: El sector financer i assegurador
+    keywords: [banca, entitat financera, assegurança, supervisió, AFA]
+  - id: economia/tabac-i-agricultura
+    label: Tabac, ramaderia i agricultura
+    keywords: [tabac, ramaderia, agricultura, pastura, cultiu]
+  - id: economia/energia-i-transport
+    label: Energia, aigua i transport
+    keywords: [FEDA, energia, electricitat, aigua, transport públic]
+  - id: economia/sanitat
+    label: Sanitat i la CASS
+    keywords: [CASS, seguretat social, sanitat, hospital, metge]
+    weight: 1.5
+  - id: economia/educacio
+    label: Els tres sistemes educatius
+    keywords: [escola andorrana, sistema educatiu, escola francesa, escola espanyola, universitat]
+    weight: 1.5
+  - id: economia/habitatge
+    label: Habitatge i demografia
+    keywords: [habitatge, lloguer, població, demografia, padró]
+  - id: economia/digital-i-innovacio
+    label: Economia digital i innovació
+    keywords: [innovació, digital, Andorra Recerca, telecomunicacions, emprenedoria]
+
+  # ── lèxic andorrà ───────────────────────────────────────────────────────────
+  - id: lexic/institucional
+    label: Lèxic institucional andorrà
+    keywords: [síndic, cònsol, batlle, comú, raonador, quart]
+    weight: 2.0
+    notes: Words a general Catalan model gets wrong or does not know at all.
+  - id: lexic/administratiu
+    label: Lèxic administratiu i de tràmits
+    keywords: [tràmit, autorització, padró, edicte, ban]
+    weight: 1.5
+  - id: lexic/geografic
+    label: Lèxic geogràfic i de muntanya
+    keywords: [borda, solà, obac, coma, port, bony]
+    weight: 1.5
+  - id: lexic/quotidia
+    label: Lèxic quotidià i col·loquial andorrà
+    keywords: [canalla, ves, plegar, xicot, endavant]
+    weight: 1.5
+    notes: Sourced from the Diari de Sessions and radio subcorpora (M1.04, M1.13).
+  - id: lexic/diferencies-catala-general
+    label: Diferències amb el català general
+    keywords: [andorranisme, variant, ús andorrà, diferència, general]
+    weight: 2.0
