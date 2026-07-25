@@ -47,9 +47,21 @@ from maia.corpus.language import detect_language
 from maia.corpus.validate import LineError, validate_line
 from maia.schemas import CorpusDocument, License, Source
 
-#: Per-source minimum length, overriding :data:`DEFAULT_MIN_CHARS`. ``juridic`` is 1 because
-#: the legal subcorpus is chunked by article and a short article must survive (D-0009).
-MIN_CHARS_BY_SOURCE: dict[Source, int] = {Source.JURIDIC: 1}
+#: Per-source minimum length, overriding :data:`DEFAULT_MIN_CHARS`. Each entry mirrors a floor
+#: its *producer* already applies deliberately, because consolidation must not undo a decision
+#: made upstream (D-0010):
+#:
+#: * ``juridic`` — 1: the legal subcorpus is chunked by article and a one-line article must
+#:   survive (D-0009).
+#: * ``consell_diari_sessions`` — 120: `maia.scraping.diari.parse_session` filters at 120 chars.
+#:   The default 200 floor was deleting every intervention between 120 and 199 characters,
+#:   filing them under stage ``boilerplate`` — the exact class of bug D-0010 was written to
+#:   prevent, missed for the one subcorpus where a lost intervention can also drop a speaker
+#:   from the F1 spoken-subcorpus criterion.
+MIN_CHARS_BY_SOURCE: dict[Source, int] = {
+    Source.JURIDIC: 1,
+    Source.CONSELL_DIARI_SESSIONS: 120,
+}
 
 #: Length floor for sources with no entry above.
 DEFAULT_MIN_CHARS = 200
@@ -80,6 +92,15 @@ class ConsolidationReport:
     def by_stage(self) -> Counter[str]:
         """How many documents each stage dropped."""
         return Counter(item.stage for item in self.dropped)
+
+    @property
+    def dropped_by_source(self) -> Counter[str]:
+        """How many documents were dropped per source.
+
+        An aggregate ``boilerplate=N`` hides a filter deleting one whole subcorpus; a per-source
+        line makes it obvious in the run output.
+        """
+        return Counter(item.source for item in self.dropped)
 
     @property
     def no_redistribute(self) -> int:
@@ -307,6 +328,16 @@ def render(report: ConsolidationReport) -> str:
             "  kept by source: "
             + ", ".join(f"{src}={count}" for src, count in sorted(report.by_source.items()))
         )
+    if report.dropped_by_source:
+        lines.append(
+            "  dropped by source: "
+            + ", ".join(f"{src}={count}" for src, count in sorted(report.dropped_by_source.items()))
+        )
+    if not report.balanced:
+        lines.append(
+            f"  ✗ accounting does not balance: read {report.read} but "
+            f"kept {report.kept} + dropped {len(report.dropped)} + invalid {len(report.invalid)}"
+        )
     if report.no_redistribute:
         lines.append(
             f"  ⚠ no-redistribute (grounding-only, never public): {report.no_redistribute}"
@@ -373,6 +404,16 @@ def main(argv: Sequence[str] | None = None) -> int:
 
     if not result.documents:
         print("error: consolidation produced no documents", file=sys.stderr)
+        return 1
+    if not result.report.balanced:
+        # The invariant every drop record exists to uphold. It was computed and asserted only in
+        # a test, which means a real run could silently lose documents.
+        print(
+            f"error: accounting does not balance — read {result.report.read}, "
+            f"kept {result.report.kept}, dropped {len(result.report.dropped)}, "
+            f"invalid {len(result.report.invalid)}",
+            file=sys.stderr,
+        )
         return 1
     if args.strict and result.report.invalid:
         print(

@@ -37,6 +37,7 @@ from pathlib import Path
 from pydantic import ValidationError
 
 from maia.schemas import CorpusDocument, DatasetExample, ExampleType, Split
+from maia.synth.taxonomy import load_taxonomy
 
 #: ``no_ho_se`` share: ≈8 % ± 2 (§3.2).
 NO_HO_SE_RANGE = (0.06, 0.10)
@@ -74,6 +75,13 @@ class DatasetReport:
     by_split: Counter[str] = field(default_factory=Counter)
     by_topic: Counter[str] = field(default_factory=Counter)
     test_digest: str = ""
+    #: Checks that could not run (e.g. no corpus supplied). Reported, never silent.
+    skipped: list[str] = field(default_factory=list)
+
+    @property
+    def within_target(self) -> bool:
+        """Whether the dataset is inside DoD-F2's 10-15k example range."""
+        return TARGET_MIN_EXAMPLES <= self.valid <= TARGET_MAX_EXAMPLES
 
     @property
     def ok(self) -> bool:
@@ -141,19 +149,29 @@ def check_splits(examples: Sequence[DatasetExample]) -> list[Finding]:
     if not examples:
         return findings
 
-    seen: dict[str, Split] = {}
+    # Keyed on the *content*, not only the id. Generation derives ids with UUID5 scoped to the
+    # taxonomy node, so two nodes with overlapping keywords produce different ids for a
+    # byte-identical conversation — an adversarial review showed such a pair landing in train
+    # and test with the check reporting clean.
+    seen: dict[str, tuple[str, Split]] = {}
     for example in examples:
-        key = str(example.id)
-        previous = seen.get(key)
-        if previous is not None:
-            findings.append(
-                Finding(
-                    key,
-                    f"appears in both {previous.value} and {example.split.value} — "
-                    "train/test leakage",
+        fingerprint = hashlib.sha256(
+            json.dumps(
+                [[m.role.value, m.content] for m in example.messages], ensure_ascii=False
+            ).encode("utf-8")
+        ).hexdigest()
+        for key in (f"id:{example.id}", f"text:{fingerprint}"):
+            previous = seen.get(key)
+            if previous is not None and previous[1] is not example.split:
+                findings.append(
+                    Finding(
+                        str(example.id),
+                        f"the same {'id' if key.startswith('id:') else 'conversation'} appears "
+                        f"in both {previous[1].value} and {example.split.value} — "
+                        "train/test leakage",
+                    )
                 )
-            )
-        seen[key] = example.split
+            seen[key] = (str(example.id), example.split)
 
     counts = Counter(example.split.value for example in examples)
     for split, target in SPLIT_TARGETS.items():
@@ -181,6 +199,22 @@ def check_grounding(examples: Sequence[DatasetExample], corpus_ids: set[str]) ->
         for example in examples
         for grounding_id in example.grounding_ids
         if grounding_id not in corpus_ids
+    ]
+
+
+def check_topics(examples: Sequence[DatasetExample], node_ids: set[str]) -> list[Finding]:
+    """Check every ``topic`` is a real taxonomy node.
+
+    §3.2 defines ``topic`` as *"taxonomy node"*. Without this the field is free text: a dataset
+    with invented or misspelt topics validates green, and the M1.10-style coverage question
+    ("which nodes did we actually cover?") silently answers itself with garbage. The blocker
+    noted in the wiki gaps — "cannot check until M2.01 lands `configs/taxonomy.yaml`" — was
+    removed when M2.01 shipped.
+    """
+    return [
+        Finding(str(example.id), f"topic {example.topic!r} is not a taxonomy node")
+        for example in examples
+        if example.topic not in node_ids
     ]
 
 
@@ -261,9 +295,16 @@ def validate_dataset(
     *,
     corpus_ids: set[str] | None = None,
     restricted_ids: set[str] | None = None,
+    node_ids: set[str] | None = None,
     report: DatasetReport | None = None,
 ) -> DatasetReport:
-    """Run every cross-dataset check over already-parsed examples."""
+    """Run every cross-dataset check over already-parsed examples.
+
+    ``corpus_ids`` / ``restricted_ids`` of ``None`` mean *no corpus was supplied*, so the
+    grounding and licence checks cannot run. That is recorded on the report as
+    :attr:`DatasetReport.skipped` and rendered — a green line that silently skipped the licence
+    wall proves nothing.
+    """
     report = report if report is not None else DatasetReport()
     report.valid = len(examples)
     for example in examples:
@@ -275,7 +316,15 @@ def validate_dataset(
     report.constraint_failures.extend(check_splits(examples))
     if corpus_ids is not None:
         report.constraint_failures.extend(check_grounding(examples, corpus_ids))
-    if restricted_ids:
+    else:
+        report.skipped.append("grounding resolution (no --corpus supplied)")
+    if restricted_ids is None:
+        report.skipped.append("licence check (no --corpus supplied)")
+    if node_ids is not None:
+        report.constraint_failures.extend(check_topics(examples, node_ids))
+    else:
+        report.skipped.append("taxonomy coverage (no --taxonomy supplied)")
+    if restricted_ids is not None:
         failures, warnings = check_licence(examples, restricted_ids)
         report.licence_failures.extend(failures)
         report.licence_warnings.extend(warnings)
@@ -338,6 +387,8 @@ def render(report: DatasetReport, path: Path) -> str:
         lines.append(f"  taxonomy nodes covered: {len(report.by_topic)}")
     if report.valid:
         lines.append(f"  test split digest: {report.test_digest}")
+    for skipped in report.skipped:
+        lines.append(f"  ⚠ NOT CHECKED: {skipped}")
     for label, findings in (
         ("✗ invalid", report.invalid),
         ("✗ constraint", report.constraint_failures),
@@ -366,8 +417,19 @@ def main(argv: Sequence[str] | None = None) -> int:
         help="corpus JSONL file(s): enables grounding and licence checks",
     )
     parser.add_argument(
+        "--taxonomy",
+        type=Path,
+        help="configs/taxonomy.yaml: enables the check that every topic is a real node",
+    )
+    parser.add_argument(
         "--frozen-test-digest",
         help="fail unless the test split still matches this committed digest",
+    )
+    parser.add_argument(
+        "--require-target",
+        action="store_true",
+        help=f"also fail unless the dataset holds {TARGET_MIN_EXAMPLES}-{TARGET_MAX_EXAMPLES} "
+        "examples (DoD-F2's first clause)",
     )
     parser.add_argument(
         "--skip-distribution",
@@ -377,7 +439,7 @@ def main(argv: Sequence[str] | None = None) -> int:
     )
     args = parser.parse_args(argv)
 
-    for path in [args.path, *args.corpus]:
+    for path in [args.path, *args.corpus, *([args.taxonomy] if args.taxonomy else [])]:
         if not path.is_file():
             print(f"error: no such file: {path}", file=sys.stderr)
             return 1
@@ -385,7 +447,14 @@ def main(argv: Sequence[str] | None = None) -> int:
     report = DatasetReport()
     examples = read_dataset(args.path, report)
     corpus_ids, restricted_ids = read_corpus_ids(args.corpus) if args.corpus else (None, set())
-    validate_dataset(examples, corpus_ids=corpus_ids, restricted_ids=restricted_ids, report=report)
+    node_ids = load_taxonomy(args.taxonomy).ids if args.taxonomy else None
+    validate_dataset(
+        examples,
+        corpus_ids=corpus_ids,
+        restricted_ids=restricted_ids,
+        node_ids=node_ids,
+        report=report,
+    )
 
     if args.skip_distribution:
         report.constraint_failures = [
@@ -401,6 +470,13 @@ def main(argv: Sequence[str] | None = None) -> int:
         report.constraint_failures.append(frozen_finding)
 
     print(render(report, args.path))
+    if args.require_target and not report.within_target:
+        print(
+            f"error: {report.valid} examples is outside DoD-F2's "
+            f"{TARGET_MIN_EXAMPLES}-{TARGET_MAX_EXAMPLES} range",
+            file=sys.stderr,
+        )
+        return 1
     return 0 if report.ok else 1
 
 

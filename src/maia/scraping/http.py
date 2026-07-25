@@ -1,9 +1,14 @@
 """Polite HTTP fetching for scrapers — PLAN M1 step 1.
 
-Respects ``robots.txt``, rate-limits to ≤1 request/second, and caches raw HTML so a
-re-run is idempotent (and offline). The network call itself is an injected seam
-(``fetch_fn``) so the polite-fetch orchestration is fully testable without a network:
-production wires :func:`requests_fetch`, tests pass a fixture-backed callable.
+Respects ``robots.txt``, rate-limits to ≤1 request/second, and caches raw HTML so a re-run is
+idempotent (and offline). The network call itself is an injected seam (``fetch_fn``) so the
+polite-fetch orchestration is fully testable without a network: production wires
+:func:`requests_fetch`, tests pass a fixture-backed callable.
+
+**Use :func:`polite_fetcher` for a live run.** It pairs the fetcher with a :class:`RobotsCache`
+that retrieves each origin's robots.txt over the same transport. A bare
+``PoliteFetcher(requests_fetch)`` obeys :meth:`RobotsPolicy.allow_all` — which is right for a
+site that serves no robots.txt and wrong for one that was never asked.
 """
 
 from __future__ import annotations
@@ -12,6 +17,7 @@ import hashlib
 import time
 from collections.abc import Callable
 from pathlib import Path
+from urllib.parse import urlsplit, urlunsplit
 from urllib.robotparser import RobotFileParser
 
 #: Identifies the crawler to servers and in robots.txt matching.
@@ -24,8 +30,10 @@ FetchFn = Callable[[str], str | None]
 class RobotsPolicy:
     """robots.txt decision for a single user-agent.
 
-    Build from fetched robots.txt text (:meth:`from_text`) or use :meth:`allow_all` when a
-    site has no robots.txt (the standard permissive default).
+    Build from fetched robots.txt text (:meth:`from_text`), or let
+    :class:`RobotsCache` fetch it for you. :meth:`allow_all` is the correct policy for a site
+    that genuinely serves **no** robots.txt — it is *not* a safe default for a site whose
+    robots.txt was never requested.
     """
 
     def __init__(self, parser: RobotFileParser | None, user_agent: str) -> None:
@@ -40,6 +48,7 @@ class RobotsPolicy:
 
     @classmethod
     def allow_all(cls, *, user_agent: str = DEFAULT_USER_AGENT) -> RobotsPolicy:
+        """The policy for a site that serves no robots.txt (HTTP 404 is permissive)."""
         return cls(None, user_agent)
 
     def can_fetch(self, url: str) -> bool:
@@ -48,13 +57,73 @@ class RobotsPolicy:
         return self._parser.can_fetch(self._user_agent, url)
 
 
+def robots_url_for(url: str) -> str:
+    """The robots.txt URL governing ``url`` — ``scheme://host[:port]/robots.txt``."""
+    parts = urlsplit(url)
+    return urlunsplit((parts.scheme, parts.netloc, "/robots.txt", "", ""))
+
+
+class RobotsCache:
+    """Fetches and caches one :class:`RobotsPolicy` per origin.
+
+    This is the piece that makes "robots.txt respected" true rather than aspirational. Before
+    this existed, :class:`PoliteFetcher` defaulted to :meth:`RobotsPolicy.allow_all` and
+    **nothing in the codebase ever requested a robots.txt** — so the live wiring obeyed a policy
+    it had never read, while several modules' docstrings claimed otherwise. An adversarial review
+    caught the gap.
+
+    A robots.txt that cannot be retrieved is treated as permissive, which is the documented
+    convention for a 404. That is a deliberate choice and the one place a caller may want to be
+    stricter: pass ``allow_on_error=False`` to refuse an origin whose rules could not be read.
+    """
+
+    def __init__(
+        self,
+        fetch_fn: FetchFn,
+        *,
+        user_agent: str = DEFAULT_USER_AGENT,
+        allow_on_error: bool = True,
+    ) -> None:
+        self._fetch_fn = fetch_fn
+        self._user_agent = user_agent
+        self._allow_on_error = allow_on_error
+        self._policies: dict[str, RobotsPolicy] = {}
+        #: Origins whose robots.txt could not be retrieved (audit trail).
+        self.unreachable: list[str] = []
+
+    def policy_for(self, url: str) -> RobotsPolicy:
+        """The policy governing ``url``, fetching its robots.txt once per origin."""
+        origin = urlsplit(url).netloc
+        cached = self._policies.get(origin)
+        if cached is not None:
+            return cached
+        text = self._fetch_fn(robots_url_for(url))
+        if text is None:
+            self.unreachable.append(origin)
+            policy = (
+                RobotsPolicy.allow_all(user_agent=self._user_agent)
+                if self._allow_on_error
+                else RobotsPolicy.from_text(
+                    "User-agent: *\nDisallow: /\n", user_agent=self._user_agent
+                )
+            )
+        else:
+            policy = RobotsPolicy.from_text(text, user_agent=self._user_agent)
+        self._policies[origin] = policy
+        return policy
+
+    def can_fetch(self, url: str) -> bool:
+        """Whether ``url`` may be fetched under its origin's robots.txt."""
+        return self.policy_for(url).can_fetch(url)
+
+
 class PoliteFetcher:
     """Fetch URLs respecting robots.txt, a rate limit, and an on-disk HTML cache."""
 
     def __init__(
         self,
         fetch_fn: FetchFn,
-        robots: RobotsPolicy | None = None,
+        robots: RobotsPolicy | RobotsCache | None = None,
         *,
         min_interval: float = 1.0,
         cache_dir: Path | None = None,
@@ -62,7 +131,10 @@ class PoliteFetcher:
         clock: Callable[[], float] = time.monotonic,
     ) -> None:
         self._fetch_fn = fetch_fn
-        self._robots = robots or RobotsPolicy.allow_all()
+        # A robots policy is required in spirit: passing none means "this origin serves no
+        # robots.txt", not "do not check". Production callers pass a RobotsCache, which fetches
+        # it (see `polite_fetcher`).
+        self._robots: RobotsPolicy | RobotsCache = robots or RobotsPolicy.allow_all()
         self._min_interval = min_interval
         self._cache_dir = cache_dir
         self._sleep = sleep
@@ -107,6 +179,28 @@ class PoliteFetcher:
             cache_path.parent.mkdir(parents=True, exist_ok=True)
             cache_path.write_text(html, encoding="utf-8")
         return html
+
+
+def polite_fetcher(
+    fetch_fn: FetchFn = None,  # type: ignore[assignment]
+    *,
+    user_agent: str = DEFAULT_USER_AGENT,
+    min_interval: float = 1.0,
+    cache_dir: Path | None = None,
+) -> PoliteFetcher:
+    """A fetcher that actually reads robots.txt before every new origin.
+
+    This is the wiring every scraper should use for a live run: it pairs :class:`PoliteFetcher`
+    with a :class:`RobotsCache` over the same ``fetch_fn``, so robots.txt is retrieved with the
+    same transport, user agent and (implicitly) courtesy as the pages themselves.
+    """
+    transport = fetch_fn if fetch_fn is not None else requests_fetch
+    return PoliteFetcher(
+        transport,
+        RobotsCache(transport, user_agent=user_agent),
+        min_interval=min_interval,
+        cache_dir=cache_dir,
+    )
 
 
 def requests_fetch(

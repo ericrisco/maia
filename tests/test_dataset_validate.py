@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import json
 from datetime import UTC, datetime
+from itertools import count
 from pathlib import Path
 from uuid import UUID, uuid4
 
@@ -22,11 +23,13 @@ from maia.schemas import (
 from maia.synth.validate import (
     GENERAL_CA_RANGE,
     NO_HO_SE_RANGE,
+    TARGET_MIN_EXAMPLES,
     DatasetReport,
     check_distribution,
     check_grounding,
     check_licence,
     check_splits,
+    check_topics,
     main,
     read_corpus_ids,
     read_dataset,
@@ -43,6 +46,9 @@ GROUNDING = compute_id(PASSAGE)
 RESTRICTED_GROUNDING = compute_id(RESTRICTED_PASSAGE)
 
 
+_COUNTER = count()
+
+
 def example(
     *,
     example_type: ExampleType = ExampleType.QA,
@@ -50,13 +56,21 @@ def example(
     grounding: list[str] | None = None,
     topic: str = "cultura/falles",
     identifier: UUID | None = None,
+    nonce: int | None = None,
 ) -> DatasetExample:
+    """One §3.2 example.
+
+    Message content varies per example by default: a real generated dataset holds distinct
+    conversations, and the leakage check now keys on content as well as id, so a fixture that
+    repeated one conversation across splits would (correctly) be flagged as leakage.
+    """
     grounded = example_type.requires_grounding()
     if grounding is None:
         grounding = [GROUNDING] if grounded else []
+    tag = next(_COUNTER) if nonce is None else nonce
     messages = [
-        {"role": "user", "content": "Què són les falles?"},
-        {"role": "assistant", "content": "Una tradició del solstici d'estiu."},
+        {"role": "user", "content": f"Què són les falles? ({tag})"},
+        {"role": "assistant", "content": f"Una tradició del solstici d'estiu. ({tag})"},
     ]
     if example_type is ExampleType.MULTITURN:
         messages += [
@@ -206,12 +220,39 @@ def test_the_same_id_in_two_splits_is_leakage() -> None:
     shared = uuid4()
     examples = [
         *dataset(),
-        example(split=Split.TRAIN, identifier=shared),
-        example(split=Split.TEST, identifier=shared),
+        example(split=Split.TRAIN, identifier=shared, nonce=1),
+        example(split=Split.TEST, identifier=shared, nonce=2),
     ]
     findings = check_splits(examples)
-    assert any("leakage" in finding.reason for finding in findings)
+    assert any("the same id appears" in finding.reason for finding in findings)
     assert any(finding.locator == str(shared) for finding in findings)
+
+
+@pytest.mark.unit
+def test_byte_identical_conversations_in_two_splits_are_leakage() -> None:
+    """The hole an adversarial review found.
+
+    Generation derives ids with UUID5 scoped to the taxonomy node, so two nodes with
+    overlapping keywords produce *different* ids for a byte-identical conversation — and the
+    id-only check reported the dataset clean while the test split had been trained on.
+    """
+    examples = [
+        *dataset(),
+        example(split=Split.TRAIN, topic="institucions/consell-general", nonce=777),
+        example(split=Split.TEST, topic="legal/consell-general", nonce=777),
+    ]
+    findings = check_splits(examples)
+    assert any("the same conversation appears" in finding.reason for finding in findings)
+
+
+@pytest.mark.unit
+def test_a_repeated_conversation_inside_one_split_is_not_leakage() -> None:
+    # A duplicate within train is a dedup question, not an evaluation-integrity one.
+    examples = [
+        example(split=Split.TRAIN, nonce=5),
+        example(split=Split.TRAIN, nonce=5),
+    ]
+    assert not any("leakage" in finding.reason for finding in check_splits(examples))
 
 
 @pytest.mark.unit
@@ -541,3 +582,67 @@ def test_the_report_json_shape_is_stable() -> None:
     )
     assert payload["by_type"]["no_ho_se"] == 8
     assert len(payload["digest"]) == 64
+
+
+# ─────────────────────────────────────────────────────────────
+# topic must be a real taxonomy node (§3.2 defines it as one)
+# ─────────────────────────────────────────────────────────────
+
+
+@pytest.mark.unit
+def test_a_topic_outside_the_taxonomy_is_a_finding() -> None:
+    """The stale gap: "cannot check until M2.01 lands the file" — M2.01 landed it."""
+    findings = check_topics([example(topic="inventat/no-existeix")], {"cultura/falles"})
+    assert findings
+    assert "is not a taxonomy node" in findings[0].reason
+
+
+@pytest.mark.unit
+def test_real_taxonomy_nodes_pass() -> None:
+    assert check_topics([example(topic="cultura/falles")], {"cultura/falles"}) == []
+
+
+@pytest.mark.unit
+def test_the_topic_check_is_reported_as_skipped_when_no_taxonomy_is_given() -> None:
+    # A green line that silently skipped a check proves nothing.
+    report = validate_dataset(dataset(), report=DatasetReport(total=100))
+    assert any("taxonomy coverage" in skipped for skipped in report.skipped)
+    assert "NOT CHECKED" in render(report, Path("x.jsonl"))
+
+
+@pytest.mark.unit
+def test_the_licence_check_is_reported_as_skipped_without_a_corpus() -> None:
+    report = validate_dataset(dataset(), report=DatasetReport(total=100))
+    assert any("licence check" in skipped for skipped in report.skipped)
+    assert any("grounding resolution" in skipped for skipped in report.skipped)
+
+
+@pytest.mark.unit
+def test_the_f2_size_gate_is_wired_not_just_declared() -> None:
+    small = validate_dataset(dataset(), report=DatasetReport(total=100))
+    assert not small.within_target
+    big = validate_dataset(dataset(), report=DatasetReport(total=100))
+    big.valid = TARGET_MIN_EXAMPLES
+    assert big.within_target
+
+
+@pytest.mark.unit
+def test_cli_checks_topics_against_the_shipped_taxonomy(
+    tmp_path: Path, capsys: pytest.CaptureFixture[str]
+) -> None:
+    taxonomy = Path(__file__).resolve().parents[1] / "configs" / "taxonomy.yaml"
+    bad = _dataset_file(
+        tmp_path / "dataset.jsonl", [*dataset(), example(topic="inventat/no-existeix")]
+    )
+    assert main([str(bad), "--taxonomy", str(taxonomy)]) == 1
+    assert "is not a taxonomy node" in capsys.readouterr().out
+
+
+@pytest.mark.unit
+def test_cli_require_target_gates_on_the_f2_range(
+    tmp_path: Path, capsys: pytest.CaptureFixture[str]
+) -> None:
+    path = _dataset_file(tmp_path / "dataset.jsonl", dataset())
+    assert main([str(path)]) == 0
+    assert main([str(path), "--require-target"]) == 1
+    assert "outside DoD-F2's" in capsys.readouterr().err

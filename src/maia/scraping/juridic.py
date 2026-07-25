@@ -165,6 +165,12 @@ _DISPOSICIO_PLURAL: dict[str, str] = {
 }
 
 
+def _normalize_designator(number: str) -> str:
+    """Canonical form of an article ordinal — ``"01 bis"`` and ``"1 bis"`` are the same article."""
+    head, _, tail = number.partition(" ")
+    return f"{int(head)} {tail}".strip() if head.isdigit() else number
+
+
 def _fold(word: str) -> str:
     """Lowercase and strip accents — the key into the tables above."""
     decomposed = unicodedata.normalize("NFD", word.lower())
@@ -232,6 +238,13 @@ class _Marker:
     disposicio: str = ""
 
 
+def _is_heading_line(line: str) -> bool:
+    """Whether ``line`` opens a structural unit — an article, a *disposició*, a Títol…"""
+    return any(
+        pattern.match(line) for pattern in (_ARTICLE, _STRUCTURE, _DISPOSICIO, _ORDINAL_ITEM)
+    )
+
+
 def _unwrap(text: str) -> str:
     """Rejoin lines that a fixed-width source broke mid-sentence.
 
@@ -240,11 +253,24 @@ def _unwrap(text: str) -> str:
     line is a continuation when the previous line has no sentence-ending punctuation and it
     does not itself open an enumerated item (``a)``, ``2.``, ``—``) — the one case where the
     break is meaningful.
+
+    A **heading line never absorbs the line after it**, so ``Article 5. Sancions`` keeps its
+    rubric instead of swallowing the first line of its body. The asymmetry is deliberate: a
+    heading is protected as the *source* of a join, never as the *target*. That is exactly what
+    tells a real heading apart from a wrapped cross-reference — ``…que estableix l'`` followed
+    by ``Article 7 de la Llei…`` is one unfinished sentence, so it is joined, and the parser
+    never sees a fabricated article there.
     """
     joined: list[str] = []
     for line in text.split("\n"):
         previous = joined[-1] if joined else ""
-        if previous and line and previous[-1] not in _SENTENCE_END and not _ENUMERATOR.match(line):
+        if (
+            previous
+            and line
+            and previous[-1] not in _SENTENCE_END
+            and not _ENUMERATOR.match(line)
+            and not _is_heading_line(previous)
+        ):
             joined[-1] = f"{previous} {line}"
         else:
             joined.append(line)
@@ -316,7 +342,9 @@ def _collect_markers(text: str) -> list[_Marker]:
         )
 
     for match in _ARTICLE.finditer(text):
-        number = re.sub(r"\s+", " ", match.group("num"))
+        # Normalize the ordinal so "Article 01" and "Article 1" are one designator; otherwise
+        # the duplicate-designator guard misses them and two documents cite the same article.
+        number = _normalize_designator(re.sub(r"\s+", " ", match.group("num")))
         markers.append(
             _Marker(
                 start=match.start(),
@@ -438,9 +466,14 @@ def split_law(text: str) -> LawSplit:
     they sit outside the articulated body, so inheriting the last article's ``Títol`` would
     fabricate a citation.
     """
+    # Headings are found on the *unwrapped* text. On the raw text, a hard wrap that happens to
+    # break before a cross-reference ("…que estableix l'\nArticle 7 de la Llei…") looks exactly
+    # like a heading: it fabricates an article that cites the wrong law and truncates the real
+    # article's body at the wrap. Unwrapping first removes the ambiguity entirely.
+    text = _clean(text)
     markers = _collect_markers(text)
     if not markers:
-        return LawSplit(preamble=_clean(text), articles=())
+        return LawSplit(preamble=text, articles=())
 
     preamble = _clean(text[: markers[0].start])
     active: dict[int, str] = {}
@@ -491,7 +524,8 @@ class LawSpec:
         llei: §3.1 ``legal.llei`` — the canonical law citation (``"Llei 9/2005"``, which
             encodes both number and year). ``None`` for the Constitution, which is not a
             *llei*.
-        license: explicit override; by default derived from ``url``.
+        license: an override that may only **tighten** what the URL's route implies. See
+            :meth:`resolved_license`.
     """
 
     citation: str
@@ -502,8 +536,30 @@ class LawSpec:
     license: License | None = None
 
     def resolved_license(self) -> License:
-        """The license to stamp on this norm's documents."""
-        return self.license if self.license is not None else license_for(self.url)
+        """The license to stamp on this norm's documents.
+
+        The host is checked **always**, even when ``license`` is set, and an override may only
+        move towards ``no-redistribute`` — never widen a restricted route to a publishable
+        licence, and never skip the official-sources gate.
+
+        An earlier version returned the override directly. That made the one control the wiki
+        says is "enforced in code rather than by convention" bypassable with a single keyword
+        argument: ``leslleis.com`` became ingestible, and a ``bopa.ad`` document could be
+        re-tagged ``public-official`` and then pass the public-upload wall in M1.09.
+
+        Raises:
+            ValueError: if the host is not an official route, or if the override would widen
+                a ``no-redistribute`` route.
+        """
+        from_route = license_for(self.url)
+        if self.license is None:
+            return from_route
+        if not from_route.is_public() and self.license.is_public():
+            raise ValueError(
+                f"cannot relabel {self.url} as {self.license.value}: its route is "
+                f"{from_route.value} and an override may only tighten, never widen"
+            )
+        return self.license
 
 
 def citation_line(spec: LawSpec, chunk: ArticleChunk) -> str:

@@ -181,6 +181,10 @@ class RestrictedContentError(RuntimeError):
     """Raised when a drop containing ``no-redistribute`` text targets a public repo."""
 
 
+class StaleStagingError(RuntimeError):
+    """Raised when the staging directory still holds parquet from an earlier drop."""
+
+
 def restricted(documents: Iterable[CorpusDocument]) -> list[CorpusDocument]:
     """The documents in ``documents`` that may never enter a public artifact."""
     return [doc for doc in documents if not doc.license.is_public()]
@@ -192,6 +196,7 @@ def stage(
     *,
     repo_id: str,
     private: bool = True,
+    reuse_dir: bool = False,
 ) -> Manifest:
     """Write the parquet files and manifest that :func:`upload_corpus` will commit.
 
@@ -199,11 +204,35 @@ def stage(
         RestrictedContentError: if ``private`` is false and any document is
             ``no-redistribute``. The corpus is allowed to hold restricted text — the private
             drop exists so it can — but it must never be staged for a public repo.
+        StaleStagingError: if ``staging_dir`` already holds parquet from an earlier drop and
+            ``reuse_dir`` is false. Uploading commits the whole folder.
         ValueError: if ``documents`` is empty. An empty commit would look like a successful
             upload while publishing nothing.
     """
     if not documents:
         raise ValueError("refusing to stage an empty corpus")
+
+    # A stale staging directory is a leak, not a nuisance. `upload_folder` commits the whole
+    # folder, while this function only inspects the documents it was handed — so a parquet left
+    # behind by an earlier, broader drop rides along into the next commit. An adversarial review
+    # reproduced exactly that: a private drop over the full corpus left `data/rtva.parquet`, a
+    # later public drop over the publishable sources only did not trip the licence wall, and the
+    # restricted file was still in the folder to be uploaded (with the manifest reporting
+    # `no_redistribute: 0`).
+    stale = sorted(
+        path.relative_to(staging_dir).as_posix()
+        for path in staging_dir.glob(f"{DATA_PREFIX}/*.parquet")
+    )
+    if stale and reuse_dir:
+        for path in staging_dir.glob(f"{DATA_PREFIX}/*.parquet"):
+            path.unlink()
+        stale = []
+    if stale:
+        raise StaleStagingError(
+            f"{staging_dir} already holds {len(stale)} parquet file(s) from an earlier drop "
+            f"({', '.join(stale)}). Uploading commits the whole folder, so those would ride "
+            "along: stage into a fresh directory, or pass reuse_dir=True to clear it first."
+        )
 
     blocked = restricted(documents)
     if blocked and not private:
@@ -242,6 +271,18 @@ def verify_staged(staging_dir: Path, manifest: Manifest) -> ValidationReport:
     is about to be committed is proven readable and conformant first.
     """
     report = ValidationReport()
+    # The folder must hold exactly what the manifest describes: `upload_folder` commits every
+    # file under it, so anything unaccounted for would be published unnoticed.
+    on_disk = {
+        path.relative_to(staging_dir).as_posix()
+        for path in staging_dir.glob(f"{DATA_PREFIX}/*.parquet")
+    }
+    unaccounted = sorted(on_disk - set(manifest.files))
+    if unaccounted:
+        raise StaleStagingError(
+            f"{staging_dir} holds {len(unaccounted)} file(s) the manifest does not describe "
+            f"({', '.join(unaccounted)}); they would be committed anyway"
+        )
     for relative in sorted(manifest.files):
         for doc in read_parquet(staging_dir / relative):
             report.total += 1
@@ -259,13 +300,14 @@ def upload_corpus(
     repo_id: str,
     private: bool = True,
     commit_message: str | None = None,
+    reuse_dir: bool = False,
 ) -> Manifest:
     """Stage, verify, then commit the corpus to a dataset repo.
 
     ``private`` defaults to ``True``: the M1.09 drop is private by design, and a public drop
     has to be asked for explicitly *and* survive the restricted-content check.
     """
-    manifest = stage(documents, staging_dir, repo_id=repo_id, private=private)
+    manifest = stage(documents, staging_dir, repo_id=repo_id, private=private, reuse_dir=reuse_dir)
     report = verify_staged(staging_dir, manifest)
     if report.valid != manifest.documents:
         raise RuntimeError(
@@ -325,6 +367,11 @@ def main(argv: Sequence[str] | None = None) -> int:
         help="target a PUBLIC repo — refused if the corpus holds no-redistribute documents",
     )
     parser.add_argument(
+        "--reuse-staging-dir",
+        action="store_true",
+        help="clear existing parquet from the staging directory instead of refusing to reuse it",
+    )
+    parser.add_argument(
         "--dry-run",
         action="store_true",
         help="stage and verify locally without contacting Hugging Face",
@@ -348,13 +395,24 @@ def main(argv: Sequence[str] | None = None) -> int:
     private = not args.public
     try:
         if args.dry_run:
-            manifest = stage(documents, args.staging_dir, repo_id=args.repo_id, private=private)
+            manifest = stage(
+                documents,
+                args.staging_dir,
+                repo_id=args.repo_id,
+                private=private,
+                reuse_dir=args.reuse_staging_dir,
+            )
             verify_staged(args.staging_dir, manifest)
         else:
             manifest = upload_corpus(
-                documents, hf_hub(), args.staging_dir, repo_id=args.repo_id, private=private
+                documents,
+                hf_hub(),
+                args.staging_dir,
+                repo_id=args.repo_id,
+                private=private,
+                reuse_dir=args.reuse_staging_dir,
             )
-    except (RestrictedContentError, ValueError, RuntimeError) as exc:
+    except (RestrictedContentError, StaleStagingError, ValueError, RuntimeError) as exc:
         print(f"error: {exc}", file=sys.stderr)
         return 1
 

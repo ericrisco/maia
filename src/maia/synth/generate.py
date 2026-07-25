@@ -33,8 +33,9 @@ is the seam; everything above — planning, sampling, prompting, parsing, budget
 offline against a scripted fake.
 
 **``judge_score`` is left at 0.0 by generation**: it means *not yet judged*, and M2.05's
-LLM-as-judge overwrites it. A dataset where every score is still 0.0 has not been through the
-judge — §3.2 cannot distinguish that from "judged terrible", which is noted in the wiki gaps.
+LLM-as-judge overwrites it. §3.2 cannot distinguish that from "judged terrible" — a dataset whose
+every score is still 0.0 has simply not been judged. Recorded in the wiki gaps under the dataset
+contract.
 """
 
 from __future__ import annotations
@@ -62,14 +63,18 @@ MAX_PASSAGES = 20
 #: on purpose — it is the AINA anti-forgetting mix (M2.04), not something generated from the
 #: corpus. ``no_ho_se`` is sized so that after M2.04 dilutes everything it lands near §3.2's 8 %.
 TYPE_MIX: dict[ExampleType, float] = {
-    ExampleType.QA: 0.34,
-    ExampleType.EXPLICACIO: 0.16,
-    ExampleType.RAG_STYLE: 0.16,
-    ExampleType.MULTITURN: 0.10,
-    ExampleType.RESUM: 0.08,
+    ExampleType.QA: 0.32,
+    ExampleType.EXPLICACIO: 0.15,
+    ExampleType.RAG_STYLE: 0.15,
+    ExampleType.MULTITURN: 0.09,
+    ExampleType.RESUM: 0.07,
     ExampleType.NO_HO_SE: 0.10,
-    ExampleType.TRADUCCIO: 0.03,
-    ExampleType.ESTIL_ANDORRA: 0.03,
+    ExampleType.TRADUCCIO: 0.04,
+    # 8 %, not 3 %. The spec asks for 500-1,000 `estil_andorra` rewrites; at 3 % of the
+    # corpus-grounded share, every point in the spec's design space landed *below* the 500 floor
+    # (240 at 10k total with 20 % general_ca). 8 % clears it across the whole range:
+    # 10,000 x 0.80 x 0.08 = 640 up to 15,000 x 0.85 x 0.08 = 1,020.
+    ExampleType.ESTIL_ANDORRA: 0.08,
 }
 
 #: Namespace for deriving example ids, so a re-run produces the same ids for the same content.
@@ -264,18 +269,33 @@ def sample_passages(
     return picked
 
 
-def style_excerpts(documents: Iterable[CorpusDocument], *, count: int, rng: Random) -> list[str]:
+def style_excerpts(
+    documents: Iterable[CorpusDocument],
+    partition: Partition,
+    *,
+    count: int,
+    rng: Random,
+) -> list[str]:
     """Andorran-register few-shots, drawn from the spoken subcorpora.
 
     Register injection by example rather than instruction: telling a model to "write like an
     Andorran" does far less than showing it Andorrans talking. Excerpts are trimmed because they
     are there for register, not content — and D7 forbids cloning any individual's voice, so they
     are drawn across speakers rather than from one.
+
+    **Excerpts obey the same two walls as grounding passages**: ``pool_train`` only, and
+    publishable licences only. Both were missing, and it was the worst kind of miss — an excerpt
+    is pasted into the prompt but never recorded in ``grounding_ids``, so no downstream validator
+    could ever see it. An adversarial review found every prompt in a batch carrying up to 400
+    characters of ``pool_bench`` RTVA text (``no-redistribute``, under an instruction to imitate
+    it): the B1 anti-contamination guarantee and the licence rule broken at once, invisibly.
     """
     spoken = [
         document.text
         for document in documents
         if document.registre in {Registre.ANDORRA_PARLAT, Registre.ANDORRA_PARLAT_ORAL}
+        and partition.allows(document.id)
+        and document.license.is_public()
     ]
     if not spoken:
         return []
@@ -286,7 +306,11 @@ def style_excerpts(documents: Iterable[CorpusDocument], *, count: int, rng: Rand
 
 _TYPE_INSTRUCTIONS: dict[ExampleType, str] = {
     ExampleType.QA: "Preguntes concretes amb respostes breus i exactes.",
-    ExampleType.EXPLICACIO: "Preguntes obertes amb explicacions desenvolupades i ordenades.",
+    ExampleType.EXPLICACIO: (
+        "Preguntes obertes amb explicacions desenvolupades i ordenades. Per a una part dels "
+        "exemples, demana l'explicació «per a una canalla de deu anys» i respon amb llenguatge "
+        "senzill, sense perdre exactitud — és un dels formats que el pla enumera."
+    ),
     ExampleType.MULTITURN: (
         "Converses de dos o tres torns, on cada pregunta continua la resposta anterior. "
         "Alterna sempre usuari i assistent, i acaba amb l'assistent."
@@ -499,7 +523,7 @@ def generate_batch(
     require_approved(taxonomy)
 
     rng = Random(seed)
-    excerpts = tuple(style_excerpts(documents, count=3, rng=rng))
+    excerpts = tuple(style_excerpts(documents, partition, count=3, rng=rng))
     result = GenerationResult()
 
     for node_id, node_total in sorted(node_quota(taxonomy, total).items()):
@@ -516,7 +540,10 @@ def generate_batch(
             passages = sample_passages(
                 node, documents, partition, example_type=example_type, rng=rng
             )
-            if len(passages) < MIN_PASSAGES:
+            # §3.2 exempts some types from grounding, so a passage shortfall must not skip them —
+            # `estil_andorra` rewrites a text into Andorran register and needs no source passage.
+            # Gating it on retrieval was silently costing the batch its rewrite quota.
+            if example_type.requires_grounding() and len(passages) < MIN_PASSAGES:
                 result.rejected.append(
                     f"{node_id} ({example_type.value}): only {len(passages)} passage(s) in "
                     f"pool_train, fewer than the {MIN_PASSAGES} needed to ground it"
@@ -698,7 +725,7 @@ def main(argv: Sequence[str] | None = None) -> int:
             count=5,
             passages=tuple(passages),
             glossary_lines=tuple(glossary.prompt_lines(_categories_for(node)) if glossary else ()),
-            style_excerpts=tuple(style_excerpts(documents, count=2, rng=rng)),
+            style_excerpts=tuple(style_excerpts(documents, partition, count=2, rng=rng)),
         )
         print(build_prompt(request))
         return 0
