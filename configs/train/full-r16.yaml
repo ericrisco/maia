@@ -1,0 +1,28 @@
+# M3.03 full run #1: the specs starting hyperparameters, unchanged.
+# Experiment name is derived, not stored: exp_v1_r16lr2e4e3
+base_model: unsloth/gemma-4-12b-it
+compute_dtype: bfloat16
+dataset_version: v1
+epochs: 3
+gradient_accumulation_steps: 8
+learning_rate: 0.0002
+load_in_4bit: true
+lora_alpha: 32
+lora_dropout: 0.05
+lr_scheduler: cosine
+max_seq_len: 4096
+output_dir: build/train
+per_device_batch_size: 2
+quant_type: nf4
+r: 16
+seed: 20260725
+target_modules:
+- q_proj
+- k_proj
+- v_proj
+- o_proj
+- gate_proj
+- up_proj
+- down_proj
+wandb_project: maia
+warmup_ratio: 0.03

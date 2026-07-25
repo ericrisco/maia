@@ -1,0 +1,29 @@
+# M3.02 smoke run: 500 examples, one epoch, verifies the whole pipeline in under an hour.
+# Not a quality run — done means loss drops, the checkpoint speaks Catalan, and Unsloth and
+# transformers agree on the chat template (the export gotcha).
+base_model: unsloth/gemma-4-12b-it
+compute_dtype: bfloat16
+dataset_version: v1
+epochs: 1
+gradient_accumulation_steps: 8
+learning_rate: 0.0002
+load_in_4bit: true
+lora_alpha: 32
+lora_dropout: 0.05
+lr_scheduler: cosine
+max_seq_len: 4096
+output_dir: build/train
+per_device_batch_size: 2
+quant_type: nf4
+r: 16
+seed: 20260725
+target_modules:
+- q_proj
+- k_proj
+- v_proj
+- o_proj
+- gate_proj
+- up_proj
+- down_proj
+wandb_project: maia
+warmup_ratio: 0.03

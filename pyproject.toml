@@ -94,9 +94,10 @@ warn_unused_ignores = true
 disallow_untyped_defs = true
 files = ["src", "tests"]
 
-# pyarrow ships no py.typed marker. Scoped here so the rest of the tree stays strict.
+# pyarrow, transformers and unsloth ship no py.typed marker, and the last two are only ever
+# imported inside a function behind a blocked-by-resource seam. Scoped so the rest stays strict.
 [[tool.mypy.overrides]]
-module = ["pyarrow.*"]
+module = ["pyarrow.*", "transformers.*", "unsloth.*"]
 ignore_missing_imports = true
 
 # ─────────────────────────────────────────────────────────────
