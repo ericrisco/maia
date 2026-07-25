@@ -8,7 +8,7 @@ from maia.corpus.dedup import (
     DEFAULT_CONFIG,
     MinHashConfig,
     NearDuplicateIndex,
-    _UnionFind,
+    UnionFind,
     choose_survivors,
     find_near_duplicates,
     jaccard,
@@ -260,7 +260,7 @@ def test_union_find_compresses_paths_when_two_groups_merge() -> None:
     branch is otherwise never reached — and an untested branch in the structure that decides
     which documents survive is not worth carrying.
     """
-    forest = _UnionFind()
+    forest = UnionFind()
     forest.union("a", "b")
     forest.union("c", "d")
     forest.union("b", "c")  # merges two groups: "d" is now two hops from the root
@@ -272,7 +272,7 @@ def test_union_find_compresses_paths_when_two_groups_merge() -> None:
 
 @pytest.mark.unit
 def test_union_find_keeps_disjoint_groups_apart() -> None:
-    forest = _UnionFind()
+    forest = UnionFind()
     forest.union("a", "b")
     forest.union("c", "d")
     assert sorted(sorted(group) for group in forest.groups().values()) == [

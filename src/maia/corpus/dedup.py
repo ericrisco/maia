@@ -35,6 +35,10 @@ import re
 from collections.abc import Callable, Iterable
 from dataclasses import dataclass, field
 from random import Random
+from typing import TYPE_CHECKING
+
+if TYPE_CHECKING:  # pragma: no cover — typing-only, no runtime import
+    from _typeshed import SupportsRichComparison
 
 #: Mersenne prime 2**61 - 1 — the modulus for the permutation family.
 _MERSENNE = (1 << 61) - 1
@@ -138,8 +142,12 @@ def jaccard(left: frozenset[int], right: frozenset[int]) -> float:
     return len(left & right) / union if union else 0.0
 
 
-class _UnionFind:
-    """Disjoint-set forest with path compression — merges confirmed duplicate pairs."""
+class UnionFind:
+    """Disjoint-set forest with path compression — merges confirmed duplicate pairs.
+
+    Public because near-duplicate detection is not only a MinHash concern: the semantic dedup in
+    :mod:`maia.synth.semdedup` groups embedding neighbours with the same transitive closure.
+    """
 
     def __init__(self) -> None:
         self._parent: dict[Key, Key] = {}
@@ -221,7 +229,7 @@ class NearDuplicateIndex:
         worth more than the microseconds the sort costs.
         """
         rank = {key: index for index, key in enumerate(self._order)}
-        forest = _UnionFind()
+        forest = UnionFind()
         for left, right in sorted(
             self.candidate_pairs(), key=lambda pair: (rank[pair[0]], rank[pair[1]])
         ):
@@ -250,13 +258,14 @@ def find_near_duplicates(
 
 def choose_survivors(
     clusters: Iterable[Iterable[Key]],
-    prefer: Callable[[Key], tuple[bool, int, str]],
+    prefer: Callable[[Key], SupportsRichComparison],
 ) -> tuple[set[Key], set[Key]]:
     """Pick one member per cluster to keep. Returns ``(kept, dropped)``.
 
-    ``prefer`` maps a key to a sort tuple; the **greatest** wins, so put the most desirable
-    property first. See :func:`maia.corpus.consolidate.survivor_rank` for the ordering the
-    pipeline uses and why licence comes before length.
+    ``prefer`` maps a key to any sort key; the **greatest** wins, so put the most desirable
+    property first. See :func:`maia.corpus.consolidate.survivor_rank` for the ordering the corpus
+    pipeline uses and why licence comes before length, and
+    :func:`maia.synth.semdedup.survivor_rank` for why the dataset ranks the *split* first.
     """
     kept: set[Key] = set()
     dropped: set[Key] = set()
