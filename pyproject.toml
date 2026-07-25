@@ -10,6 +10,8 @@ keywords = ["andorra", "catalan", "llm", "gemma", "qlora", "rag"]
 dependencies = [
     "mwparserfromhell>=0.6",
     "pydantic>=2.9",
+    "requests>=2.31",
+    "trafilatura>=1.8",
 ]
 
 [project.urls]
