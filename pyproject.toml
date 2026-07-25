@@ -38,6 +38,7 @@ maia-filter-dataset = "maia.synth.filter:main"
 maia-pilot = "maia.synth.pilot:main"
 maia-generate-full = "maia.synth.run:main"
 maia-split = "maia.synth.splits:main"
+maia-distribution = "maia.synth.distribution:main"
 
 [dependency-groups]
 dev = [
