@@ -25,6 +25,7 @@ maia-validate-corpus = "maia.corpus.validate:main"
 maia-consolidate-corpus = "maia.corpus.consolidate:main"
 maia-publish-corpus = "maia.corpus.publish:main"
 maia-corpus-report = "maia.corpus.coverage:main"
+maia-sample-corpus = "maia.corpus.sampling:main"
 
 [dependency-groups]
 dev = [
