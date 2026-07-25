@@ -439,16 +439,55 @@ def test_parse_law_refuses_an_unofficial_url_before_producing_anything() -> None
 
 
 @pytest.mark.unit
-def test_explicit_license_override_wins_over_the_route() -> None:
+def test_a_licence_override_may_tighten() -> None:
+    # A publishable route can be narrowed — e.g. a norm whose own terms turn out to restrict it.
     spec = LawSpec(
+        citation="Llei 9/2005",
+        rang=Rang.QUALIFICADA,
+        consolidacio_data=date(2024, 4, 1),
+        url="https://www.portaljuridicandorra.ad/codi-penal",
+        license=License.NO_REDISTRIBUTE,
+    )
+    docs = parse_law(CODI_PENAL, spec, fetched_at=STAMP)
+    assert docs
+    assert all(doc.license is License.NO_REDISTRIBUTE for doc in docs)
+
+
+@pytest.mark.unit
+def test_a_licence_override_may_never_widen_a_restricted_route() -> None:
+    """The hole an adversarial review found: the override skipped the host gate entirely.
+
+    It made BOPA re-taggable as publishable — which then passes M1.09's public-upload wall —
+    and made ``leslleis.com`` ingestible with one keyword argument, defeating the one control
+    D-0009 says is "enforced in code rather than by convention".
+    """
+    widened = LawSpec(
         citation="Constitució del Principat d'Andorra",
         rang=Rang.CONSTITUCIO,
         consolidacio_data=date(1993, 5, 4),
         url="https://www.bopa.ad/constitucio",
         license=License.PUBLIC_OFFICIAL,
     )
-    docs = parse_law(CONSTITUCIO, spec, fetched_at=STAMP)
-    assert all(doc.license is License.PUBLIC_OFFICIAL for doc in docs)
+    with pytest.raises(ValueError, match="may only tighten, never widen"):
+        widened.resolved_license()
+    with pytest.raises(ValueError, match="may only tighten, never widen"):
+        parse_law(CONSTITUCIO, widened, fetched_at=STAMP)
+
+
+@pytest.mark.unit
+def test_an_override_cannot_smuggle_in_an_unofficial_host() -> None:
+    private = LawSpec(
+        citation="Còpia privada del Codi penal",
+        rang=Rang.QUALIFICADA,
+        consolidacio_data=date(2024, 4, 1),
+        url="https://www.leslleis.com/codi-penal",
+        license=License.PUBLIC_OFFICIAL,
+    )
+    # The host is checked even when a licence is supplied.
+    with pytest.raises(ValueError, match="not an official Andorran legal source"):
+        private.resolved_license()
+    with pytest.raises(ValueError, match="not an official Andorran legal source"):
+        parse_law(CODI_PENAL, private, fetched_at=STAMP)
 
 
 # ─────────────────────────────────────────────────────────────
@@ -507,3 +546,40 @@ def test_fetch_law_never_requests_an_unofficial_host() -> None:
     with pytest.raises(ValueError, match="not an official Andorran legal source"):
         fetch_law(PoliteFetcher(fetch_fn, min_interval=0.0), spec)
     assert calls == []
+
+
+@pytest.mark.unit
+def test_a_wrapped_cross_reference_does_not_become_an_article() -> None:
+    """The regression an adversarial review found.
+
+    Headings were matched on the *raw* text. A hard wrap that happens to break before a
+    cross-reference reads exactly like a heading: it fabricated an ``Article 7`` citing the
+    wrong law, and truncated the real article's body at the wrap.
+    """
+    wrapped = (
+        "Article 5. Sancions\n"
+        "Les sancions previstes s'imposen d'acord amb el que estableix l'\n"
+        "Article 7 de la Llei de bases de l'ordenament tributari, i són acumulables.\n"
+        "\n"
+        "Article 6\n"
+        "Una altra disposició prou llarga per ser un cos real.\n"
+    )
+    chunks = split_law(wrapped).articles
+    assert [chunk.label for chunk in chunks] == ["Article 5", "Article 6"]
+    # The rubric survives — unwrapping must not let a heading swallow its own body.
+    assert chunks[0].rubric == "Sancions"
+    # …and the cross-reference stays inside article 5, where it belongs.
+    assert "Article 7 de la Llei de bases" in chunks[0].body
+    assert chunks[0].body.endswith("són acumulables.")
+
+
+@pytest.mark.unit
+def test_a_padded_article_number_is_the_same_article() -> None:
+    # "Article 01" and "Article 1" must collide, or the duplicate guard misses them and two
+    # documents cite the same article.
+    with pytest.raises(ValueError, match="duplicate legal designators"):
+        parse_law(
+            "Article 01\nPrimera versió.\n\nArticle 1\nSegona versió.\n",
+            CODI_PENAL_SPEC,
+            fetched_at=STAMP,
+        )

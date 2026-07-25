@@ -326,9 +326,12 @@ def test_style_excerpts_come_only_from_spoken_registers() -> None:
         registre=Registre.ANDORRA_PARLAT_ORAL,
     )
     written = document("El Govern ha aprovat el pressupost per a l'exercici vinent.")
-    excerpts = style_excerpts([spoken, oral, written], count=5, rng=Random(1))
-    assert len(excerpts) == 2
+    corpus = [spoken, oral, written]
+    excerpts = style_excerpts(corpus, all_train(corpus), count=5, rng=Random(1))
+    # `oral` is RTVA and therefore no-redistribute, so only the publishable spoken turn survives.
+    assert len(excerpts) == 1
     assert written.text not in excerpts
+    assert "Doncs miri" in excerpts[0]
 
 
 @pytest.mark.unit
@@ -338,12 +341,15 @@ def test_style_excerpts_are_trimmed() -> None:
         source=Source.CONSELL_DIARI_SESSIONS,
         registre=Registre.ANDORRA_PARLAT,
     )
-    assert len(style_excerpts([long_turn], count=1, rng=Random(1))[0]) <= 400
+    assert (
+        len(style_excerpts([long_turn], all_train([long_turn]), count=1, rng=Random(1))[0]) <= 400
+    )
 
 
 @pytest.mark.unit
 def test_no_spoken_documents_means_no_excerpts() -> None:
-    assert style_excerpts([document("Text escrit estàndard.")], count=3, rng=Random(1)) == []
+    written = [document("Text escrit estàndard.")]
+    assert style_excerpts(written, all_train(written), count=3, rng=Random(1)) == []
 
 
 # ─────────────────────────────────────────────────────────────
@@ -637,7 +643,7 @@ def test_a_batch_refuses_an_unapproved_taxonomy() -> None:
 
 
 @pytest.mark.unit
-def test_a_node_with_too_few_passages_is_skipped_with_a_reason() -> None:
+def test_a_node_with_too_few_passages_reports_every_grounded_type() -> None:
     documents = falles_corpus(MIN_PASSAGES - 1)
     partition = all_train(documents)
     result = generate_batch(
@@ -651,8 +657,11 @@ def test_a_node_with_too_few_passages_is_skipped_with_a_reason() -> None:
         generator_name="g",
         seed=1,
     )
-    assert result.examples == []
-    assert any("fewer than the 5 needed to ground it" in reason for reason in result.rejected)
+    skipped = [r for r in result.rejected if "needed to ground it" in r]
+    assert skipped
+    # No grounded example can have been produced from a corpus that cannot ground one.
+    grounded = {t for t in ExampleType if t.requires_grounding()}
+    assert all(example.type not in grounded for example in result.examples)
 
 
 @pytest.mark.unit
@@ -708,7 +717,7 @@ def test_render_summarises_and_truncates() -> None:
         seed=1,
     )
     rendered = render(result, budget)
-    assert "generated 0 example(s)" in rendered
+    assert "rejection(s)" in rendered
     assert "and" in rendered and "more" in rendered
 
 
@@ -721,10 +730,15 @@ def test_render_summarises_and_truncates() -> None:
 def workspace(tmp_path: Path) -> dict[str, Path]:
     documents = [
         *falles_corpus(12),
-        document(
-            "Doncs miri, les falles són una cosa que la canalla espera tot l'any, ves.",
-            source=Source.CONSELL_DIARI_SESSIONS,
-            registre=Registre.ANDORRA_PARLAT,
+        # More than one spoken document: a source with a single document has all of it held
+        # back for the benchmark, so it would never reach a prompt as a style few-shot.
+        *(
+            document(
+                f"Doncs miri, les falles són una cosa que la canalla espera tot l'any, ves. ({i})",
+                source=Source.CONSELL_DIARI_SESSIONS,
+                registre=Registre.ANDORRA_PARLAT,
+            )
+            for i in range(4)
         ),
     ]
     corpus_path = tmp_path / "corpus.jsonl"
@@ -1094,3 +1108,62 @@ def test_the_taxonomy_schema_is_what_makes_node_quota_safe() -> None:
         TaxonomyNode.model_validate({**NODE.model_dump(), "weight": 0.0})
     with pytest.raises(ValueError):
         taxonomy_of()  # a taxonomy needs at least one node
+
+
+@pytest.mark.unit
+def test_style_excerpts_never_carry_pool_bench_or_restricted_text() -> None:
+    """The invisible leak an adversarial review found.
+
+    An excerpt is pasted into the prompt but never recorded in ``grounding_ids``, so no
+    downstream validator can see it. Every prompt in a batch was carrying up to 400 characters
+    of ``pool_bench`` RTVA text — ``no-redistribute``, under an instruction to imitate it —
+    breaking the B1 anti-contamination guarantee and the licence rule at once.
+    """
+    bench = document(
+        "NOMÉS PER AL BENCHMARK: el pressupost del Comú és de quaranta-dos milions.",
+        source=Source.RTVA,
+        license=License.NO_REDISTRIBUTE,
+        registre=Registre.ANDORRA_PARLAT_ORAL,
+    )
+    restricted = document(
+        "Dins de pool_train però no publicable, no ha de sortir al prompt.",
+        source=Source.RTVA,
+        license=License.NO_REDISTRIBUTE,
+        registre=Registre.ANDORRA_PARLAT_ORAL,
+    )
+    publishable = document(
+        "Doncs miri, jo hi vaig cada any i sempre és igual d'emocionant, ves.",
+        source=Source.CONSELL_DIARI_SESSIONS,
+        registre=Registre.ANDORRA_PARLAT,
+    )
+    corpus = [bench, restricted, publishable]
+    partition = Partition(frozenset({restricted.id, publishable.id}), frozenset({bench.id}))
+    excerpts = style_excerpts(corpus, partition, count=5, rng=Random(1))
+    assert excerpts == [publishable.text]
+
+
+@pytest.mark.unit
+def test_a_batch_never_puts_pool_bench_text_in_a_prompt() -> None:
+    passages = falles_corpus(12)
+    bench = document(
+        "NOMÉS BENCHMARK: dada reservada per a AndBench, mai a un prompt.",
+        source=Source.RTVA,
+        license=License.NO_REDISTRIBUTE,
+        registre=Registre.ANDORRA_PARLAT_ORAL,
+    )
+    documents = [*passages, bench]
+    partition = Partition(frozenset(d.id for d in passages), frozenset({bench.id}))
+    generator = ShapeAwareGenerator(1)
+    generate_batch(
+        generator,
+        taxonomy_of(NODE),
+        documents,
+        partition,
+        frozen_digest=partition.digest,
+        total=20,
+        budget=Budget(max_requests=3, max_examples=20),
+        generator_name="g",
+        seed=1,
+    )
+    assert generator.prompts
+    assert not any("NOMÉS BENCHMARK" in prompt for prompt in generator.prompts)

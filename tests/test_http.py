@@ -6,7 +6,13 @@ from pathlib import Path
 
 import pytest
 
-from maia.scraping.http import PoliteFetcher, RobotsPolicy
+from maia.scraping.http import (
+    PoliteFetcher,
+    RobotsCache,
+    RobotsPolicy,
+    polite_fetcher,
+    robots_url_for,
+)
 
 ROBOTS = """
 User-agent: *
@@ -128,3 +134,80 @@ def test_requests_fetch_status_handling(monkeypatch: pytest.MonkeyPatch) -> None
     assert requests_fetch("https://govern.ad/missing") is None
     headers = calls[0]["headers"]
     assert isinstance(headers, dict) and "maia-corpus-bot" in headers["User-Agent"]
+
+
+# ─────────────────────────────────────────────────────────────
+# robots.txt is actually retrieved (it previously never was)
+# ─────────────────────────────────────────────────────────────
+
+
+@pytest.mark.unit
+def test_robots_url_is_derived_from_the_origin() -> None:
+    assert robots_url_for("https://www.govern.ad/a/b?x=1#f") == "https://www.govern.ad/robots.txt"
+    assert robots_url_for("http://bopa.ad:8080/x") == "http://bopa.ad:8080/robots.txt"
+
+
+@pytest.mark.unit
+def test_the_cache_fetches_robots_and_applies_it() -> None:
+    """The gap an adversarial review found.
+
+    Before `RobotsCache`, `PoliteFetcher` defaulted to `allow_all()` and **nothing in the
+    codebase ever requested a robots.txt** — so the live wiring obeyed a policy it had never
+    read, while several modules claimed robots.txt was respected without exception.
+    """
+    served = {"https://www.govern.ad/robots.txt": "User-agent: *\nDisallow: /privat/\n"}
+    requested: list[str] = []
+
+    def fetch(url: str) -> str | None:
+        requested.append(url)
+        return served.get(url)
+
+    cache = RobotsCache(fetch)
+    assert cache.can_fetch("https://www.govern.ad/public")
+    assert not cache.can_fetch("https://www.govern.ad/privat/x")
+    assert requested == ["https://www.govern.ad/robots.txt"]
+
+
+@pytest.mark.unit
+def test_robots_is_fetched_once_per_origin() -> None:
+    requested: list[str] = []
+
+    def fetch(url: str) -> str | None:
+        requested.append(url)
+        return "User-agent: *\nDisallow:\n"
+
+    cache = RobotsCache(fetch)
+    for path in ("a", "b", "c"):
+        cache.can_fetch(f"https://www.govern.ad/{path}")
+    cache.can_fetch("https://www.cultura.ad/x")
+    assert requested == [
+        "https://www.govern.ad/robots.txt",
+        "https://www.cultura.ad/robots.txt",
+    ]
+
+
+@pytest.mark.unit
+def test_an_unreachable_robots_is_permissive_and_recorded() -> None:
+    # HTTP 404 for robots.txt conventionally means "no rules", but it is still worth an audit
+    # trail: a site that 500s on robots.txt looks identical to one that has none.
+    cache = RobotsCache(lambda _url: None)
+    assert cache.can_fetch("https://www.govern.ad/x")
+    assert cache.unreachable == ["www.govern.ad"]
+
+
+@pytest.mark.unit
+def test_a_caller_can_refuse_an_origin_whose_rules_are_unreadable() -> None:
+    strict = RobotsCache(lambda _url: None, allow_on_error=False)
+    assert not strict.can_fetch("https://www.govern.ad/x")
+
+
+@pytest.mark.unit
+def test_polite_fetcher_wires_robots_to_the_same_transport() -> None:
+    served = {
+        "https://www.govern.ad/robots.txt": "User-agent: *\nDisallow: /privat/\n",
+        "https://www.govern.ad/public": "<html>ok</html>",
+    }
+    fetcher = polite_fetcher(lambda url: served.get(url), min_interval=0.0)
+    assert fetcher.fetch("https://www.govern.ad/public") == "<html>ok</html>"
+    assert fetcher.fetch("https://www.govern.ad/privat/y") is None
+    assert fetcher.disallowed == ["https://www.govern.ad/privat/y"]

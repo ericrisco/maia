@@ -51,7 +51,8 @@ def scrape_site(
 ) -> Iterator[CorpusDocument]:
     """Yield §3.1 documents for the fetchable, non-trivial pages among ``urls``.
 
-    Pages disallowed by robots.txt, unreachable, empty, or shorter than
+    Pages disallowed by robots.txt (see :func:`~maia.scraping.http.polite_fetcher` — the
+    policy has to be *fetched*), unreachable, empty, or shorter than
     ``spec.min_chars`` after extraction are skipped.
     """
     stamp = fetched_at or datetime.now(UTC)

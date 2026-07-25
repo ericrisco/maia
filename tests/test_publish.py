@@ -21,6 +21,7 @@ from maia.corpus.publish import (
     SCHEMA_VERSION,
     Manifest,
     RestrictedContentError,
+    StaleStagingError,
     corpus_schema,
     hf_hub,
     main,
@@ -503,3 +504,61 @@ def test_cli_live_path_uploads_through_the_injected_hub(
     assert "ericrisco/maia-corpus (private)" in out
     assert hub.created[0]["private"] is True
     assert hub.uploads[0]["folder_path"] == str(staging)
+
+
+# ─────────────────────────────────────────────────────────────
+# A stale staging directory is a leak, not a nuisance
+# ─────────────────────────────────────────────────────────────
+
+
+@pytest.mark.unit
+def test_a_stale_staging_dir_is_refused(tmp_path: Path) -> None:
+    """The leak an adversarial review reproduced end to end.
+
+    `upload_folder` commits the whole folder, while `stage` only inspects the documents it was
+    handed. A private drop over the full corpus left `data/bopa.parquet` behind; a later PUBLIC
+    drop over the publishable sources only did not trip the licence wall, and the restricted file
+    was still there to be committed — with the manifest reporting `no_redistribute: 0`.
+    """
+    stage([doc(), RESTRICTED_DOC], tmp_path, repo_id="x/y", private=True)
+    with pytest.raises(StaleStagingError, match="already holds"):
+        stage([doc()], tmp_path, repo_id="x/y-public", private=False)
+
+
+@pytest.mark.unit
+def test_reuse_dir_clears_the_earlier_drop(tmp_path: Path) -> None:
+    stage([doc(), RESTRICTED_DOC], tmp_path, repo_id="x/y", private=True)
+    manifest = stage([doc()], tmp_path, repo_id="x/y-public", private=False, reuse_dir=True)
+    assert set(manifest.files) == {f"{DATA_PREFIX}/govern.parquet"}
+    on_disk = {path.name for path in (tmp_path / DATA_PREFIX).iterdir()}
+    assert on_disk == {"govern.parquet"}
+
+
+@pytest.mark.unit
+def test_verify_refuses_a_folder_holding_files_the_manifest_omits(tmp_path: Path) -> None:
+    # The belt to stage()'s braces: whatever is on disk gets committed, so it must be accounted.
+    manifest = stage([doc()], tmp_path, repo_id="x/y")
+    write_parquet([RESTRICTED_DOC], tmp_path / DATA_PREFIX / "bopa.parquet")
+    with pytest.raises(StaleStagingError, match="the manifest does not describe"):
+        verify_staged(tmp_path, manifest)
+
+
+@pytest.mark.unit
+def test_upload_refuses_a_stale_dir_before_touching_the_hub(tmp_path: Path) -> None:
+    hub = FakeHub()
+    stage([doc(), RESTRICTED_DOC], tmp_path, repo_id="x/y", private=True)
+    with pytest.raises(StaleStagingError):
+        upload_corpus([doc()], hub, tmp_path, repo_id="x/y-public", private=False)
+    assert hub.created == []
+    assert hub.uploads == []
+
+
+@pytest.mark.unit
+def test_cli_reuse_staging_dir_flag(tmp_path: Path, capsys: pytest.CaptureFixture[str]) -> None:
+    corpus = _corpus_file(tmp_path / "corpus.jsonl", [doc(), LEGAL_DOC])
+    staging = tmp_path / "staging"
+    args = ["--repo-id", "x/y", "--staging-dir", str(staging), "--dry-run"]
+    assert main([str(corpus), *args]) == 0
+    assert main([str(corpus), *args]) == 1  # refuses the stale directory
+    assert "already holds" in capsys.readouterr().err
+    assert main([str(corpus), *args, "--reuse-staging-dir"]) == 0

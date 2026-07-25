@@ -109,6 +109,9 @@ def split_corpus(
     hold-out over a corpus that is mostly one source leaves the benchmark unable to ask about
     anything else. Deterministic from ``seed``, so the partition can be reproduced from the
     corpus rather than only from the file.
+
+    Each source keeps **at least one** document in ``pool_train``: a source is never held back
+    in its entirety, because that would remove it from generation without any signal.
     """
     if not 0.0 < bench_share < 1.0:
         raise ValueError(f"bench_share must be between 0 and 1, got {bench_share}")
@@ -122,8 +125,13 @@ def split_corpus(
     train: set[str] = set()
     for source in sorted(by_source):
         ids = sorted(set(by_source[source]))
-        held = max(1, round(len(ids) * bench_share)) if ids else 0
-        chosen = set(rng.sample(ids, min(held, len(ids))))
+        # Every source contributes at least one benchmark item, but never its whole stock: with
+        # `max(1, …)` alone, a source holding a single document had 100 % of it held back and
+        # nothing left to train on — which for a small but important source (the legal
+        # subcorpus early on, a one-programme radio sample) silently removes it from generation
+        # altogether.
+        held = min(max(1, round(len(ids) * bench_share)), len(ids) - 1) if len(ids) > 1 else 0
+        chosen = set(rng.sample(ids, held))
         bench |= chosen
         train |= set(ids) - chosen
     return Partition(frozenset(train), frozenset(bench))

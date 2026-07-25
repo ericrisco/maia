@@ -24,9 +24,11 @@ scrape_site`), so this module adds only what press specifically needs:
 * **A refusal to scrape an outlet that is not registered**, so a typo in a host cannot quietly
   produce documents tagged as press from somewhere that is not.
 
-**robots.txt is respected without exception** — that is what :class:`~maia.scraping.http.
-PoliteFetcher` is for, and for press it matters more than anywhere else. An outlet that
-disallows crawling is simply not collected; the honest route is to ask, not to work around it.
+**robots.txt is respected without exception**, and for press it matters more than anywhere
+else — an outlet that disallows crawling is simply not collected, and the honest route is to
+ask rather than work around it. That requires wiring the fetcher with
+:func:`~maia.scraping.http.polite_fetcher`, which retrieves each origin's robots.txt; a bare
+``PoliteFetcher(requests_fetch)`` obeys an allow-all policy it never read.
 """
 
 from __future__ import annotations
@@ -147,7 +149,9 @@ def scrape_press(
     host fails fast rather than after a request. Each article's outlet name is prepended to
     its ``topic`` so the corpus can be filtered by newspaper.
 
-    Pages disallowed by robots.txt, unreachable, or detected as paywalled teasers are skipped.
+    Pages disallowed by robots.txt, unreachable, or detected as paywalled teasers are
+    skipped. Wire ``fetcher`` with :func:`~maia.scraping.http.polite_fetcher` so the policy is
+    actually retrieved.
     """
     extra_topics = list(topic) if topic is not None else []
     spec = press_spec(min_chars=min_chars)

@@ -452,3 +452,57 @@ def test_render_truncates_a_long_list_of_invalid_lines(tmp_path: Path) -> None:
     assert len(report.invalid) == 25
     text = render(report)
     assert "… and 5 more invalid lines" in text
+
+
+@pytest.mark.unit
+def test_the_diari_floor_matches_its_producer(capsys: pytest.CaptureFixture[str]) -> None:
+    """The bug D-0010 was written to prevent, missed for the Diari.
+
+    `diari.parse_session` filters at 120 characters deliberately; consolidation's default 200
+    floor was deleting every intervention between the two, filing them as `boilerplate`.
+    """
+    assert min_chars_for(Source.CONSELL_DIARI_SESSIONS) == 120
+    text = (
+        "Doncs miri, jo hi vaig cada any des dels vuit anys i sempre és igual d'emocionant, "
+        "ves. La canalla ho espera tot l'any i els grans també."
+    )
+    assert 120 <= len(text) < 200
+    intervention = doc(
+        text,
+        source=Source.CONSELL_DIARI_SESSIONS,
+        url="https://www.consellgeneral.ad/diari/1",
+    )
+    result = consolidate([intervention], report=ConsolidationReport(read=1))
+    assert result.report.kept == 1
+
+
+@pytest.mark.unit
+def test_drops_are_reported_per_source() -> None:
+    # An aggregate `boilerplate=N` hides a filter deleting one whole subcorpus.
+    result = consolidate(
+        [
+            doc(SPANISH, url="https://www.govern.ad/es"),
+            doc("curt", source=Source.CULTURA, url="https://www.cultura.ad/x"),
+        ],
+        report=ConsolidationReport(read=2),
+    )
+    assert result.report.dropped_by_source == {"govern": 1, "cultura": 1}
+    assert "dropped by source: cultura=1, govern=1" in render(result.report)
+
+
+@pytest.mark.unit
+def test_the_cli_fails_when_accounting_does_not_balance(
+    tmp_path: Path, capsys: pytest.CaptureFixture[str], monkeypatch: pytest.MonkeyPatch
+) -> None:
+    """`balanced` was computed and asserted only in a test — a real run could lose documents."""
+    path = _write_corpus(tmp_path / "corpus.jsonl", [doc(FALLES)])
+    real = consolidate
+
+    def losing(documents, **kwargs):  # type: ignore[no-untyped-def]
+        result = real(documents, **kwargs)
+        result.report.read += 5  # simulate five documents that vanished
+        return result
+
+    monkeypatch.setattr("maia.corpus.consolidate.consolidate", losing)
+    assert main([str(path), "--out", str(tmp_path / "out")]) == 1
+    assert "accounting does not balance" in capsys.readouterr().err
