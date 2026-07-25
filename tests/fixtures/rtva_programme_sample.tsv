@@ -1,0 +1,17 @@
+# Fixture transcript in the hand-off format: start<TAB>end<TAB>text
+# Stands in for whisper-large-v3-ca output over an RTVA magazine programme. Invented content
+# in Andorran register; includes the two whisper failure modes on purpose.
+0.0	4.2	Bon dia a tothom i benvinguts a una nova edició del nostre programa del matí.
+4.2	9.8	Avui parlarem de les falles, una tradició que se celebra a diverses parròquies del Principat.
+9.8	15.1	Tenim aquí amb nosaltres en Pere, que és fallaire des de ben petit, i que ens explicarà com ho viuen.
+15.1	21.6	Doncs miri, jo hi vaig des dels vuit anys, i cada any és igual d'emocionant, tot i que ara costa més pujar la muntanya.
+21.6	28.0	El que fem és baixar amb les falles enceses des del cim fins a la plaça del poble, i allà es fa la foguera.
+28.0	34.5	I la gent ens espera, hi ha molta canalla, i es fa el ball, i acaba sent una nit que no s'oblida mai.
+40.0	44.0	Subtítols per Amara.org
+50.0	56.0	Tornem a l'estudi després de la pausa musical d'aquesta tarda tan assolellada.
+56.0	62.5	Ens queda parlar del calendari d'actes que el Comú ha preparat per a les properes setmanes.
+62.5	69.0	Hi haurà concerts, una exposició a la sala d'art i el mercat de productes de la terra el diumenge.
+69.0	75.4	Recordeu que tota la informació la trobareu al web del Comú i també a les xarxes socials.
+80.0	92.0	Gràcies gràcies gràcies gràcies gràcies gràcies gràcies gràcies gràcies gràcies gràcies gràcies gràcies gràcies.
+100.0	106.0	I fins aquí el programa d'avui, moltes gràcies per acompanyar-nos un matí més i fins demà.
+106.0	112.0	Que tingueu tots molt bon dia i que gaudiu d'aquesta jornada de festa major al Principat.

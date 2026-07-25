@@ -47,6 +47,10 @@ class Source(StrEnum):
     VISITANDORRA = "visitandorra"
     CLASSICS = "classics"
     JURIDIC = "juridic"
+    # Grounding-only sources (M1.13, M1.14). Both are `no-redistribute`: their text never
+    # enters a public artifact, only the knowledge paraphrased from it.
+    RTVA = "rtva"
+    PREMSA = "premsa"
 
 
 class License(StrEnum):
@@ -67,10 +71,18 @@ class License(StrEnum):
 
 
 class Registre(StrEnum):
-    """Linguistic register — keeps standard Catalan separable from spoken Andorran."""
+    """Linguistic register — keeps standard Catalan separable from spoken Andorran.
+
+    ``andorra_parlat`` is *transcribed-for-publication* speech (the Diari de Sessions, which
+    is edited before printing); ``andorra_parlat_oral`` is genuinely unedited speech (radio,
+    M1.13). They are kept apart because the second is closer to how Andorrans actually talk
+    and carries transcription error the first does not, so the two are weighted differently
+    downstream.
+    """
 
     ESTANDARD = "estandard"
     ANDORRA_PARLAT = "andorra_parlat"
+    ANDORRA_PARLAT_ORAL = "andorra_parlat_oral"
 
 
 class Rang(StrEnum):
