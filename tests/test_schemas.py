@@ -166,6 +166,13 @@ def test_json_round_trip() -> None:
 
 @pytest.mark.unit
 def test_enum_members_match_contract() -> None:
+    """Pins the §3.1 enums so a change to the contract is always a deliberate one.
+
+    Extended at M1.13 with the two grounding-only sources the Phase-1 plan names — ``rtva``
+    (radio) and ``premsa`` (press) — and with ``andorra_parlat_oral``, the register the plan
+    specifies for unedited speech. The ANEXO §3.1 enum lists had no value for any of them, so
+    those subcorpora were unrepresentable; see D-0013.
+    """
     assert {s.value for s in Source} == {
         "viquipedia",
         "govern",
@@ -176,5 +183,35 @@ def test_enum_members_match_contract() -> None:
         "visitandorra",
         "classics",
         "juridic",
+        "rtva",
+        "premsa",
     }
-    assert {r.value for r in Registre} == {"estandard", "andorra_parlat"}
+    assert {r.value for r in Registre} == {
+        "estandard",
+        "andorra_parlat",
+        "andorra_parlat_oral",
+    }
+
+
+@pytest.mark.unit
+def test_the_grounding_only_sources_are_still_free_to_carry_any_licence() -> None:
+    """The enum extension adds no licence coupling.
+
+    ``rtva`` and ``premsa`` are grounding-only in practice, but that is enforced where the
+    documents are built (``maia.scraping.radio.RADIO_LICENSE``), not by the schema — the
+    schema's job is to record the licence, and a future licensing agreement should not need a
+    schema change.
+    """
+    doc = CorpusDocument.model_validate(
+        {
+            "text": "Bon dia a tothom i benvinguts al programa d'avui.",
+            "source": "rtva",
+            "url": "https://www.rtva.ad/programes/1",
+            "fetched_at": "2026-08-01T00:00:00Z",
+            "license": "no-redistribute",
+            "registre": "andorra_parlat_oral",
+        }
+    )
+    assert doc.source is Source.RTVA
+    assert doc.registre is Registre.ANDORRA_PARLAT_ORAL
+    assert not doc.license.is_public()
