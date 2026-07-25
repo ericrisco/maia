@@ -36,6 +36,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import hashlib
 import io
 import sys
 from collections import Counter
@@ -120,6 +121,31 @@ def conversation_of(example: DatasetExample) -> str:
     )
 
 
+def stratum_of(example: DatasetExample) -> str:
+    """The stratum one example belongs to: its **type and split**.
+
+    Type, so that ``no_ho_se`` and ``traduccio`` cannot escape the gate behind a mass of ``qa``.
+    Split too, because ``test`` is the frozen benchmark: a review that happened to miss it would
+    say nothing about the 5 % of the dataset every Phase 4 number is computed on.
+    """
+    return f"{example.type.value}|{example.split.value}"
+
+
+def dataset_digest(examples: Iterable[DatasetExample]) -> str:
+    """A digest of the whole dataset, recorded in the review sheet.
+
+    Without it nothing ties a filled sheet to the dataset it claims to describe: a `judge_score`
+    could be edited by hand and the calibration would believe it, and a review could be scored
+    against a dataset that has since changed. Order-independent, so re-serialising does not
+    invalidate it.
+    """
+    hasher = hashlib.sha256()
+    for line in sorted(example.model_dump_json() for example in examples):
+        hasher.update(line.encode("utf-8"))
+        hasher.update(b"\n")
+    return hasher.hexdigest()
+
+
 def draw_pilot(
     examples: Sequence[DatasetExample],
     corpus: Mapping[str, CorpusDocument] | None = None,
@@ -127,12 +153,12 @@ def draw_pilot(
     size: int = DEFAULT_PILOT_SIZE,
     seed: int,
 ) -> list[ReviewedExample]:
-    """Draw ``size`` examples for review, **stratified by type** and reproducible from ``seed``.
+    """Draw ``size`` examples, **stratified by type and split**, reproducibly from ``seed``.
 
     Stratified for the same reason M1.11 stratifies by source: a uniform draw over a dataset that
-    is 40 % ``qa`` returns mostly ``qa``, and the pilot would say nothing about whether
+    is 40 % ``qa`` returns mostly ``qa``, and the review would say nothing about whether
     ``no_ho_se`` actually declines or ``traduccio`` is any good. ``allocate`` guarantees at least
-    one of every type present, so no type escapes the gate.
+    one of every stratum present, so neither a type nor the frozen ``test`` split escapes the gate.
 
     Each row carries its grounding text, because "is this factually correct?" cannot be answered
     without it. A cited passage missing from ``corpus`` is rendered as an explicit marker rather
@@ -142,18 +168,18 @@ def draw_pilot(
     if len(pool) <= size:
         chosen = pool
     else:
-        by_type: dict[str, list[DatasetExample]] = {}
+        strata: dict[str, list[DatasetExample]] = {}
         for item in pool:
-            by_type.setdefault(item.type.value, []).append(item)
-        for group in by_type.values():
+            strata.setdefault(stratum_of(item), []).append(item)
+        for group in strata.values():
             group.sort(key=lambda item: str(item.id))
-        allocation = allocate(Counter({key: len(value) for key, value in by_type.items()}), size)
+        allocation = allocate(Counter({key: len(value) for key, value in strata.items()}), size)
         rng = Random(seed)
         chosen = []
-        for kind in sorted(allocation):
-            chosen.extend(rng.sample(by_type[kind], allocation[kind]))
+        for stratum in sorted(allocation):
+            chosen.extend(rng.sample(strata[stratum], allocation[stratum]))
 
-    ordered = sorted(chosen, key=lambda item: (item.type.value, str(item.id)))
+    ordered = sorted(chosen, key=lambda item: (item.type.value, item.split.value, str(item.id)))
     return [
         ReviewedExample(
             example=item,
@@ -179,10 +205,14 @@ def _passages_of(
     )
 
 
-def to_csv(sample: Sequence[ReviewedExample], *, seed: int) -> str:
-    """The fillable review sheet."""
+def to_csv(sample: Sequence[ReviewedExample], *, seed: int, digest: str = "") -> str:
+    """The fillable review sheet.
+
+    ``digest`` pins the sheet to the dataset it was drawn from — see :func:`dataset_digest`.
+    """
     buffer = io.StringIO()
-    buffer.write(f"# MAIA pilot review (M2.06) — {len(sample)} examples, seed {seed}\n")
+    buffer.write(f"# MAIA review sheet (M2.06 / M2.10) — {len(sample)} examples, seed {seed}\n")
+    buffer.write(f"# dataset-digest: {digest}\n")
     buffer.write(
         f"# factual/catalan/andorran: yes | no | na. Bars: factual >={MIN_FACTUAL_RATE:.0%}, "
         f"catalan >={MIN_CATALAN_RATE:.0%}, andorran >={MIN_ANDORRAN_RATE:.0%}\n"
@@ -208,6 +238,16 @@ def to_csv(sample: Sequence[ReviewedExample], *, seed: int) -> str:
             }
         )
     return buffer.getvalue()
+
+
+def digest_in(raw: str) -> str:
+    """The ``dataset-digest`` a sheet declares, or ``""`` if it declares none."""
+    for line in raw.splitlines():
+        if line.startswith("# dataset-digest:"):
+            return line.split(":", 1)[1].strip()
+        if not line.startswith("#"):
+            break
+    return ""
 
 
 def from_csv(raw: str) -> list[ReviewedExample]:
@@ -576,6 +616,89 @@ def render(result: PilotResult) -> str:
     return "\n".join(lines)
 
 
+#: DoD-F2 asks for a 200-example human sample as the Phase 2 exit gate.
+DOD_SAMPLE_SIZE = 200
+
+
+class DigestMismatchError(RuntimeError):
+    """Raised when a filled sheet was drawn from a different dataset than the one being scored."""
+
+
+def verify_sheet(raw: str, examples: Iterable[DatasetExample]) -> None:
+    """Check a filled sheet was drawn from ``examples``.
+
+    Raises:
+        DigestMismatchError: if the sheet declares a digest that does not match, or declares none
+            at all when one is being demanded. A review scored against a dataset that has since
+            changed is not evidence, and DoD-F2 is a phase exit — the number has to be auditable
+            after the fact.
+    """
+    declared = digest_in(raw)
+    actual = dataset_digest(examples)
+    if not declared:
+        raise DigestMismatchError(
+            "the review sheet declares no dataset-digest, so nothing ties it to the dataset it "
+            "is being scored against; re-draw it with a current version of this tool"
+        )
+    if declared != actual:
+        raise DigestMismatchError(
+            f"the sheet was drawn from dataset {declared[:16]}... but this dataset is "
+            f"{actual[:16]}... — the dataset changed after the review; re-draw and re-review, or "
+            "score against the dataset that was actually reviewed"
+        )
+
+
+def evidence(result: PilotResult, *, digest: str, seed: int, size: int) -> str:
+    """The DoD-F2 evidence artifact, as Markdown.
+
+    A gate that passes without a record of *what* passed cannot be relied on later, so this pins
+    the dataset digest, the seed and the sample size beside the rates.
+    """
+    status = "PASS" if result.passed else "FAIL"
+    lines = [
+        "# DoD-F2 — human sample (M2.10)",
+        "",
+        f"**{status}** on {result.reviewed} reviewed example(s).",
+        "",
+        "| axis | yes | asked | rate | bar | verdict |",
+        "| --- | --: | --: | --: | --: | :-: |",
+    ]
+    for name, rate in (
+        ("factually correct", result.factual),
+        ("correct Catalan", result.catalan),
+        ("sounds Andorran", result.andorran),
+    ):
+        lines.append(
+            f"| {name} | {rate.yes} | {rate.asked} | {rate.rate:.1%} | "
+            f">={rate.bar:.0%} | {'✓' if rate.passed else '✗'} |"
+        )
+    lines += [
+        "",
+        "## Provenance",
+        "",
+        f"- dataset digest: `{digest}`",
+        f"- sample: {size} example(s), seed `{seed}`, stratified by type and split",
+        f"- judge threshold suggested by these labels: {result.calibration.summary}",
+        f"- judge/human agreement at 0.70: {result.calibration.agreement:.1%} over "
+        f"{result.calibration.judged} judged example(s)",
+        "",
+        "## Notes",
+        "",
+    ]
+    lines += (
+        [f"- `{ident[:12]}...` {note}" for ident, note in result.notes]
+        if result.notes
+        else ["- none recorded."]
+    )
+    lines += [
+        "",
+        "> The PO's sign-off is required and is not computable from these numbers; this artifact "
+        "records only whether they stand in its way.",
+        "",
+    ]
+    return "\n".join(lines)
+
+
 def read_dataset(path: Path) -> list[DatasetExample]:
     """Read a §3.2 dataset from JSONL."""
     return [
@@ -611,12 +734,14 @@ def _draw(args: argparse.Namespace) -> int:
             file=sys.stderr,
         )
     sample = draw_pilot(examples, corpus, size=args.size, seed=args.seed)
+    digest = dataset_digest(examples)
     args.out.parent.mkdir(parents=True, exist_ok=True)
-    args.out.write_text(to_csv(sample, seed=args.seed), encoding="utf-8")
+    args.out.write_text(to_csv(sample, seed=args.seed, digest=digest), encoding="utf-8")
     companion = args.out.with_suffix(".md")
     companion.write_text(to_markdown(sample, seed=args.seed), encoding="utf-8")
     missing = sum(1 for item in sample for passage in item.passages if "MISSING FROM" in passage)
     print(f"wrote {len(sample)} example(s) to {args.out} and {companion}")
+    print(f"dataset digest: {digest}")
     if missing:
         print(f"⚠ {missing} cited passage(s) are missing from the corpus and are marked as such")
     return 0
@@ -624,15 +749,40 @@ def _draw(args: argparse.Namespace) -> int:
 
 def _score(args: argparse.Namespace) -> int:
     """``score`` subcommand: read a filled sheet and rule on the gate."""
-    if not args.sheet.is_file():
-        print(f"error: no such file: {args.sheet}", file=sys.stderr)
-        return 1
+    for path in (args.sheet, *([args.dataset] if args.dataset else ())):
+        if not path.is_file():
+            print(f"error: no such file: {path}", file=sys.stderr)
+            return 1
+    raw = args.sheet.read_text(encoding="utf-8")
     try:
-        reviewed = from_csv(args.sheet.read_text(encoding="utf-8"))
+        if args.dataset:
+            verify_sheet(raw, read_dataset(args.dataset))
+        reviewed = from_csv(raw)
         result = score(reviewed)
-    except (ValueError, IncompleteReviewError) as error:
+    except (ValueError, IncompleteReviewError, DigestMismatchError) as error:
         print(f"error: {error}", file=sys.stderr)
         return 1
+
+    if args.evidence:
+        if not args.dataset:
+            print(
+                "error: --evidence needs --dataset, or the artifact would record a provenance it "
+                "never checked",
+                file=sys.stderr,
+            )
+            return 1
+        args.evidence.parent.mkdir(parents=True, exist_ok=True)
+        args.evidence.write_text(
+            evidence(
+                result,
+                digest=digest_in(raw),
+                seed=args.seed,
+                size=result.reviewed,
+            ),
+            encoding="utf-8",
+        )
+        print(f"wrote DoD-F2 evidence to {args.evidence}")
+
     print(render(result))
     return 0 if result.passed else 1
 
@@ -640,8 +790,10 @@ def _score(args: argparse.Namespace) -> int:
 def main(argv: Sequence[str] | None = None) -> int:
     """CLI entry point: ``draw`` a pilot for review, then ``score`` the filled sheet."""
     parser = argparse.ArgumentParser(
-        description="The M2.06 pilot: draw 500 examples for joint PO+dev review, then score the "
-        "filled sheet and calibrate the judge_score threshold against the human labels."
+        description="Human review of a §3.2 dataset. Draw a stratified sample, then score the "
+        "filled sheet and calibrate the judge_score threshold against the human labels. "
+        f"--size {DEFAULT_PILOT_SIZE} is the M2.06 pilot gate; --size {DOD_SAMPLE_SIZE} with "
+        "--evidence is the M2.10 DoD-F2 exit gate."
     )
     subcommands = parser.add_subparsers(dest="command", required=True)
 
@@ -649,12 +801,29 @@ def main(argv: Sequence[str] | None = None) -> int:
     draw.add_argument("dataset", type=Path, help="the generated §3.2 dataset (JSONL)")
     draw.add_argument("--corpus", type=Path, nargs="+", help="§3.1 corpus JSONL, for the passages")
     draw.add_argument("--out", type=Path, default=Path("pilot.csv"))
-    draw.add_argument("--size", type=int, default=DEFAULT_PILOT_SIZE)
+    draw.add_argument(
+        "--size",
+        type=int,
+        default=DEFAULT_PILOT_SIZE,
+        help=f"{DEFAULT_PILOT_SIZE} for the M2.06 pilot, {DOD_SAMPLE_SIZE} for the M2.10 DoD-F2 "
+        "sample",
+    )
     draw.add_argument("--seed", type=int, default=20260725)
     draw.set_defaults(handler=_draw)
 
     scoring = subcommands.add_parser("score", help="score a filled review sheet")
     scoring.add_argument("sheet", type=Path, help="the filled-in CSV")
+    scoring.add_argument(
+        "--dataset",
+        type=Path,
+        help="the dataset the sheet was drawn from; verifies the sheet's dataset-digest",
+    )
+    scoring.add_argument(
+        "--evidence",
+        type=Path,
+        help="write the DoD-F2 evidence artifact here (M2.10); requires --dataset",
+    )
+    scoring.add_argument("--seed", type=int, default=20260725, help="recorded in the evidence")
     scoring.set_defaults(handler=_score)
 
     args = parser.parse_args(argv)

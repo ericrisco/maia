@@ -14,27 +14,35 @@ from maia.schemas import (
     License,
     Registre,
     Source,
+    Split,
     compute_id,
 )
 from maia.synth.pilot import (
     CANDIDATE_THRESHOLDS,
+    DOD_SAMPLE_SIZE,
     MIN_ANDORRAN_RATE,
     MIN_CATALAN_RATE,
     MIN_FACTUAL_RATE,
     MIN_SUPPORT,
+    DigestMismatchError,
     IncompleteReviewError,
     Label,
     Rate,
     ReviewedExample,
     calibrate,
     conversation_of,
+    dataset_digest,
+    digest_in,
     draw_pilot,
+    evidence,
     from_csv,
     main,
     render,
     score,
+    stratum_of,
     to_csv,
     to_markdown,
+    verify_sheet,
 )
 
 PASSAGE = "El Consell General es compon de 28 consellers generals."
@@ -685,3 +693,213 @@ def test_cli_score_reports_a_bad_label(tmp_path: Path, capsys: pytest.CaptureFix
     )
     assert main(["score", str(sheet)]) == 1
     assert "unrecognised label" in capsys.readouterr().err
+
+
+# ─────────────────────────────────────────────────────────────
+# M2.10 — the DoD-F2 human sample gate
+# ─────────────────────────────────────────────────────────────
+
+
+@pytest.mark.unit
+def test_the_sample_is_stratified_by_split_as_well_as_type() -> None:
+    """`test` is the frozen benchmark: a review that missed it would say nothing about the 5 % of
+    the dataset every Phase 4 number is computed on."""
+    examples = [example(f"train{index}") for index in range(400)]
+    examples += [
+        example("v1").model_copy(update={"split": Split.VAL}),
+        example("t1").model_copy(update={"split": Split.TEST}),
+        example("t2").model_copy(update={"split": Split.TEST}),
+    ]
+    drawn = draw_pilot(examples, CORPUS, size=20, seed=1)
+    splits = {item.example.split for item in drawn}
+    assert Split.TEST in splits
+    assert Split.VAL in splits
+
+
+@pytest.mark.unit
+def test_the_stratum_is_the_type_and_the_split() -> None:
+    assert stratum_of(example("a")) == "qa|train"
+    assert stratum_of(example("b").model_copy(update={"split": Split.TEST})) == "qa|test"
+
+
+@pytest.mark.unit
+def test_the_dataset_digest_is_order_independent_and_content_sensitive() -> None:
+    examples = [example("a"), example("b"), example("c")]
+    assert dataset_digest(examples) == dataset_digest(list(reversed(examples)))
+    assert dataset_digest(examples) != dataset_digest(examples[:2])
+    edited = [examples[0].model_copy(update={"judge_score": 0.1}), *examples[1:]]
+    assert dataset_digest(edited) != dataset_digest(examples)
+
+
+@pytest.mark.unit
+def test_the_sheet_records_the_dataset_digest() -> None:
+    examples = [example("a"), example("b")]
+    sheet = to_csv(draw_pilot(examples, CORPUS, seed=1), seed=1, digest=dataset_digest(examples))
+    assert digest_in(sheet) == dataset_digest(examples)
+
+
+@pytest.mark.unit
+def test_a_sheet_with_no_digest_declares_none() -> None:
+    assert digest_in("id,type\nx,qa\n") == ""
+    assert digest_in("") == ""
+
+
+@pytest.mark.unit
+def test_a_sheet_matching_its_dataset_verifies() -> None:
+    examples = [example("a"), example("b")]
+    sheet = to_csv(draw_pilot(examples, CORPUS, seed=1), seed=1, digest=dataset_digest(examples))
+    verify_sheet(sheet, examples)
+
+
+@pytest.mark.unit
+def test_a_sheet_from_a_different_dataset_is_refused() -> None:
+    """A review scored against a dataset that has since changed is not evidence."""
+    examples = [example("a"), example("b")]
+    sheet = to_csv(draw_pilot(examples, CORPUS, seed=1), seed=1, digest=dataset_digest(examples))
+    with pytest.raises(DigestMismatchError, match="the dataset changed after the review"):
+        verify_sheet(sheet, [*examples, example("c")])
+
+
+@pytest.mark.unit
+def test_a_sheet_declaring_no_digest_is_refused_when_one_is_demanded() -> None:
+    examples = [example("a")]
+    with pytest.raises(DigestMismatchError, match="declares no dataset-digest"):
+        verify_sheet("id,type\nx,qa\n", examples)
+
+
+@pytest.mark.unit
+def test_the_dod_sample_size_is_the_plans() -> None:
+    assert DOD_SAMPLE_SIZE == 200
+
+
+@pytest.mark.unit
+def test_the_evidence_artifact_pins_the_provenance() -> None:
+    """A gate that passes without a record of what passed cannot be relied on later."""
+    result = score([reviewed(str(index)) for index in range(30)])
+    artifact = evidence(result, digest="abc123", seed=42, size=30)
+    assert "# DoD-F2 — human sample (M2.10)" in artifact
+    assert "**PASS**" in artifact
+    assert "`abc123`" in artifact
+    assert "seed `42`" in artifact
+    assert "stratified by type and split" in artifact
+    assert "factually correct" in artifact
+    assert "correct Catalan" in artifact
+    assert "PO's sign-off is required" in artifact
+
+
+@pytest.mark.unit
+def test_the_evidence_artifact_records_a_failure_as_such() -> None:
+    result = score([reviewed(str(index), factual=Label.NO) for index in range(30)])
+    artifact = evidence(result, digest="abc", seed=1, size=30)
+    assert "**FAIL**" in artifact
+    assert "| ✗ |" in artifact
+
+
+@pytest.mark.unit
+def test_the_evidence_artifact_carries_the_reviewers_notes() -> None:
+    flagged = ReviewedExample(
+        example=example("bad"),
+        factual=Label.NO,
+        catalan=Label.YES,
+        andorran=Label.YES,
+        note="confon dues lleis",
+    )
+    result = score([flagged, *[reviewed(str(index)) for index in range(10)]])
+    assert "confon dues lleis" in evidence(result, digest="abc", seed=1, size=11)
+
+
+@pytest.mark.unit
+def test_the_evidence_artifact_says_when_there_are_no_notes() -> None:
+    result = score([reviewed(str(index)) for index in range(10)])
+    assert "none recorded" in evidence(result, digest="abc", seed=1, size=10)
+
+
+@pytest.mark.unit
+def test_cli_draw_prints_the_digest(tmp_path: Path, capsys: pytest.CaptureFixture[str]) -> None:
+    examples = [example(str(index)) for index in range(30)]
+    dataset = write_dataset(tmp_path / "dataset.jsonl", examples)
+    corpus = write_corpus(tmp_path / "corpus.jsonl")
+    out = tmp_path / "sample.csv"
+    assert (
+        main(["draw", str(dataset), "--corpus", str(corpus), "--out", str(out), "--size", "10"])
+        == 0
+    )
+    assert f"dataset digest: {dataset_digest(examples)}" in capsys.readouterr().out
+
+
+@pytest.mark.unit
+def test_cli_score_verifies_the_digest_against_the_dataset(tmp_path: Path) -> None:
+    examples = [reviewed(str(index)) for index in range(30)]
+    dataset = write_dataset(tmp_path / "dataset.jsonl", [item.example for item in examples])
+    sheet = tmp_path / "sample.csv"
+    sheet.write_text(
+        to_csv(examples, seed=1, digest=dataset_digest([item.example for item in examples])),
+        encoding="utf-8",
+    )
+    assert main(["score", str(sheet), "--dataset", str(dataset)]) == 0
+
+
+@pytest.mark.unit
+def test_cli_score_refuses_a_sheet_from_another_dataset(
+    tmp_path: Path, capsys: pytest.CaptureFixture[str]
+) -> None:
+    examples = [reviewed(str(index)) for index in range(30)]
+    sheet = tmp_path / "sample.csv"
+    sheet.write_text(to_csv(examples, seed=1, digest="deadbeef" * 8), encoding="utf-8")
+    dataset = write_dataset(tmp_path / "dataset.jsonl", [item.example for item in examples])
+    assert main(["score", str(sheet), "--dataset", str(dataset)]) == 1
+    assert "the dataset changed after the review" in capsys.readouterr().err
+
+
+@pytest.mark.unit
+def test_cli_score_writes_the_evidence_artifact(
+    tmp_path: Path, capsys: pytest.CaptureFixture[str]
+) -> None:
+    examples = [reviewed(str(index)) for index in range(30)]
+    plain = [item.example for item in examples]
+    dataset = write_dataset(tmp_path / "dataset.jsonl", plain)
+    sheet = tmp_path / "sample.csv"
+    sheet.write_text(to_csv(examples, seed=7, digest=dataset_digest(plain)), encoding="utf-8")
+    artifact = tmp_path / "reports" / "dod-f2.md"
+    assert (
+        main(
+            [
+                "score",
+                str(sheet),
+                "--dataset",
+                str(dataset),
+                "--evidence",
+                str(artifact),
+                "--seed",
+                "7",
+            ]
+        )
+        == 0
+    )
+    written = artifact.read_text(encoding="utf-8")
+    assert dataset_digest(plain) in written
+    assert "seed `7`" in written
+    assert "wrote DoD-F2 evidence" in capsys.readouterr().out
+
+
+@pytest.mark.unit
+def test_cli_refuses_evidence_without_a_dataset(
+    tmp_path: Path, capsys: pytest.CaptureFixture[str]
+) -> None:
+    """Otherwise the artifact records a provenance it never checked."""
+    examples = [reviewed(str(index)) for index in range(30)]
+    sheet = tmp_path / "sample.csv"
+    sheet.write_text(to_csv(examples, seed=1, digest="x"), encoding="utf-8")
+    assert main(["score", str(sheet), "--evidence", str(tmp_path / "e.md")]) == 1
+    assert "needs --dataset" in capsys.readouterr().err
+
+
+@pytest.mark.unit
+def test_cli_score_reports_a_missing_dataset(
+    tmp_path: Path, capsys: pytest.CaptureFixture[str]
+) -> None:
+    examples = [reviewed("a")]
+    sheet = tmp_path / "sample.csv"
+    sheet.write_text(to_csv(examples, seed=1, digest="x"), encoding="utf-8")
+    assert main(["score", str(sheet), "--dataset", str(tmp_path / "absent.jsonl")]) == 1
+    assert "no such file" in capsys.readouterr().err
