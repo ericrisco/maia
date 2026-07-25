@@ -8,6 +8,7 @@ from maia.corpus.dedup import (
     DEFAULT_CONFIG,
     MinHashConfig,
     NearDuplicateIndex,
+    _UnionFind,
     choose_survivors,
     find_near_duplicates,
     jaccard,
@@ -249,3 +250,40 @@ def test_three_identical_documents_collapse_to_one_cluster() -> None:
     # Every pair confirms, so the union-find is asked to merge sets that are already merged.
     clusters = find_near_duplicates([("a", BASE), ("b", BASE), ("c", BASE)])
     assert clusters == [["a", "b", "c"]]
+
+
+@pytest.mark.unit
+def test_union_find_compresses_paths_when_two_groups_merge() -> None:
+    """Depth only exceeds one when two multi-element sets merge.
+
+    Tested directly because the public API's clusters are small enough that the compression
+    branch is otherwise never reached — and an untested branch in the structure that decides
+    which documents survive is not worth carrying.
+    """
+    forest = _UnionFind()
+    forest.union("a", "b")
+    forest.union("c", "d")
+    forest.union("b", "c")  # merges two groups: "d" is now two hops from the root
+    assert forest.find("d") == "a"
+    assert forest.groups() == {"a": ["a", "b", "c", "d"]}
+    # Idempotent after compression.
+    assert forest.find("d") == "a"
+
+
+@pytest.mark.unit
+def test_union_find_keeps_disjoint_groups_apart() -> None:
+    forest = _UnionFind()
+    forest.union("a", "b")
+    forest.union("c", "d")
+    assert sorted(sorted(group) for group in forest.groups().values()) == [
+        ["a", "b"],
+        ["c", "d"],
+    ]
+
+
+@pytest.mark.unit
+def test_clustering_is_stable_under_a_different_hash_seed() -> None:
+    # Candidate pairs live in a set; merging them in insertion order is what makes the
+    # partition — and the code path taken to build it — reproducible run to run.
+    documents = [("a", BASE), ("b", NEAR), ("c", OTHER)]
+    assert find_near_duplicates(documents) == find_near_duplicates(documents)
