@@ -1,0 +1,228 @@
+# MAIA Andorran lexicon glossary — PLAN M2.02
+#
+# ⚠ CURATED SEED, NOT APPROVED. These are the terms that are Andorranisms beyond argument —
+# what M2.03 can start from before a general-Catalan reference corpus exists.
+#
+# The plan asks for an *automatic* glossary of lexicon "absent from general Catalan". Automatic
+# extraction is implemented (`maia-glossary candidates --andorran … --general …`) but it needs
+# a general-Catalan reference to contrast against, which arrives with the M2.04 anti-forgetting
+# mix (AINA). Until then the extractor produces candidates and this file holds the certainties.
+#
+# PO / linguistic reviewer checklist:
+#   1. Fix any gloss that is wrong or reads badly — the gloss goes into the generation prompt
+#      verbatim, so it has to be usable as written.
+#   2. Fill in `equivalent` wherever a general-Catalan word would be used instead. That field
+#      is the useful half: it tells the generator which word *not* to reach for, and
+#      `maia-glossary usage` counts how often the equivalent was used anyway.
+#   3. Add `variants` for plurals and feminines the corpus actually contains.
+#   4. Run `maia-glossary candidates` once the corpus and an AINA sample exist, and promote
+#      whatever the contrast surfaces.
+#   5. Set `approved: true` and fill `approved_by`.
+
+version: "0.1-seed"
+approved: false
+approved_by: ""
+notes: >-
+  Curated seed pending review by the PO and the linguistic reviewer. Automatic contrastive
+  extraction is available but needs a general-Catalan reference corpus (M2.04).
+
+entries:
+  # ── institucional ───────────────────────────────────────────────────────────
+  - term: síndic general
+    category: institucional
+    gloss: Qui presideix el Consell General i el representa.
+    variants: [síndic, subsíndic general, subsíndic]
+  - term: Sindicatura
+    category: institucional
+    gloss: L'òrgan de govern del Consell General, encapçalat pel síndic general.
+  - term: Consell General
+    category: institucional
+    gloss: El parlament d'Andorra, que exerceix la potestat legislativa.
+    equivalent: parlament
+  - term: conseller general
+    category: institucional
+    gloss: Membre del Consell General.
+    equivalent: diputat
+    variants: [consellera general, consellers generals, conselleres generals]
+  - term: copríncep
+    category: institucional
+    gloss: Cadascun dels dos caps d'Estat d'Andorra, conjuntament i indivisiblement.
+    variants: [coprínceps, copríncep episcopal, copríncep francès]
+  - term: Coprincipat
+    category: institucional
+    gloss: La forma d'Estat andorrana, un coprincipat parlamentari.
+  - term: cap de Govern
+    category: institucional
+    gloss: Qui dirigeix l'acció política del Govern d'Andorra.
+    equivalent: primer ministre
+  - term: comú
+    category: institucional
+    gloss: L'òrgan de govern i administració d'una parròquia.
+    equivalent: ajuntament
+    variants: [comuns]
+  - term: cònsol major
+    category: institucional
+    gloss: Qui presideix el comú d'una parròquia.
+    equivalent: alcalde
+    variants: [cònsol, cònsol menor, cònsols, consolat]
+  - term: Raonador del Ciutadà
+    category: institucional
+    gloss: El defensor del ciutadà andorrà davant l'administració.
+    equivalent: síndic de greuges
+    variants: [Raonador]
+  - term: quart
+    category: institucional
+    gloss: Divisió territorial i administrativa dins d'una parròquia.
+    variants: [quarts]
+  - term: veïnat
+    category: institucional
+    gloss: Conjunt de veïns d'un nucli, amb drets i costums propis.
+    variants: [veïnats]
+
+  # ── jurídic ─────────────────────────────────────────────────────────────────
+  - term: Batllia
+    category: juridic
+    gloss: El tribunal de primera instància i d'instrucció d'Andorra.
+    variants: [Batllia d'Andorra]
+  - term: batlle
+    category: juridic
+    gloss: El jutge de primera instància i d'instrucció.
+    equivalent: jutge
+    variants: [batlles, batllessa]
+  - term: Tribunal de Corts
+    category: juridic
+    gloss: El tribunal penal d'Andorra, que jutja els delictes majors.
+  - term: Tribunal Superior de Justícia
+    category: juridic
+    gloss: L'òrgan superior de l'organització judicial andorrana.
+    variants: [Tribunal Superior]
+  - term: llei qualificada
+    category: juridic
+    gloss: Llei que requereix una majoria qualificada del Consell General i desenvolupa la Constitució.
+    variants: [lleis qualificades]
+  - term: text refós
+    category: juridic
+    gloss: La versió consolidada i vigent d'una llei, amb totes les modificacions incorporades.
+    variants: [textos refosos, text refós consolidat]
+  - term: BOPA
+    category: juridic
+    gloss: El Butlletí Oficial del Principat d'Andorra, on es publica el dret vigent.
+    variants: [Butlletí Oficial del Principat d'Andorra]
+  - term: Manual Digest
+    category: juridic
+    gloss: Compilació de 1748 del dret i els costums andorrans, font tradicional supletòria.
+
+  # ── administratiu ───────────────────────────────────────────────────────────
+  - term: ban
+    category: administratiu
+    gloss: Disposició d'un comú de compliment obligatori a la parròquia.
+    variants: [bans]
+  - term: CASS
+    category: administratiu
+    gloss: La Caixa Andorrana de Seguretat Social.
+    equivalent: seguretat social
+    variants: [Caixa Andorrana de Seguretat Social]
+  - term: FEDA
+    category: administratiu
+    gloss: Forces Elèctriques d'Andorra, l'empresa pública d'electricitat.
+  - term: passaport andorrà
+    category: administratiu
+    gloss: Document d'identitat i viatge dels nacionals andorrans.
+  - term: autorització d'immigració
+    category: administratiu
+    gloss: El permís que habilita a residir i treballar a Andorra.
+    equivalent: permís de residència
+    variants: [autoritzacions d'immigració, permís d'immigració]
+
+  # ── geogràfic ───────────────────────────────────────────────────────────────
+  - term: parròquia
+    category: geografic
+    gloss: Cadascuna de les set divisions territorials d'Andorra.
+    equivalent: municipi
+    variants: [parròquies, parroquial]
+  - term: borda
+    category: geografic
+    gloss: Construcció rural de muntanya, tradicionalment per al bestiar i el fenc.
+    variants: [bordes]
+  - term: solà
+    category: geografic
+    gloss: Vessant d'una vall orientat al sol.
+    variants: [solans]
+  - term: obac
+    category: geografic
+    gloss: Vessant d'una vall que rep poc sol.
+    variants: [obaga, obagues, obacs]
+  - term: coma
+    category: geografic
+    gloss: Depressió arrodonida d'alta muntanya.
+    variants: [comes]
+  - term: Valira
+    category: geografic
+    gloss: El riu principal d'Andorra, amb les branques d'Orient i del Nord.
+    variants: [Valira d'Orient, Valira del Nord, Gran Valira]
+  - term: Comapedrosa
+    category: geografic
+    gloss: El cim més alt d'Andorra, a la parròquia de La Massana.
+    variants: [Pic de Comapedrosa]
+  - term: Madriu-Perafita-Claror
+    category: geografic
+    gloss: La vall glacial inscrita al patrimoni mundial de la UNESCO.
+    variants: [vall del Madriu, Madriu]
+
+  # ── cultural ────────────────────────────────────────────────────────────────
+  - term: falla
+    category: cultural
+    gloss: Torxa encesa que es fa rodar per celebrar el solstici d'estiu.
+    variants: [falles, fallaire, fallaires]
+  - term: contrapàs
+    category: cultural
+    gloss: Dansa tradicional andorrana d'origen antic.
+  - term: marratxa
+    category: cultural
+    gloss: Dansa tradicional que se balla a Sant Julià de Lòria.
+  - term: esquellots
+    category: cultural
+    gloss: Costum popular de fer soroll amb esquelles davant la casa d'uns nuvis.
+  - term: Meritxell
+    category: cultural
+    gloss: El santuari i la Mare de Déu patrona d'Andorra, celebrada el 8 de setembre.
+    variants: [Mare de Déu de Meritxell, santuari de Meritxell]
+  - term: caramelles
+    category: cultural
+    gloss: Cants tradicionals de Pasqua per les cases del poble.
+  - term: escudella
+    category: cultural
+    gloss: Sopa tradicional de carn i verdures del país.
+  - term: trinxat
+    category: cultural
+    gloss: Plat de col i patata trinxades amb cansalada, típic del Pirineu.
+  - term: tupí
+    category: cultural
+    gloss: Formatge fort conservat en un recipient de terrissa amb aiguardent.
+    variants: [tupins]
+
+  # ── quotidià ────────────────────────────────────────────────────────────────
+  - term: canalla
+    category: quotidia
+    gloss: Els nens, com a col·lectiu; d'ús habitual i no pejoratiu.
+    equivalent: nens
+  - term: plegar
+    category: quotidia
+    gloss: Acabar la jornada de treball.
+    equivalent: sortir de la feina
+  - term: xicot
+    category: quotidia
+    gloss: Noi jove; també la parella d'algú.
+    equivalent: noi
+    variants: [xicota, xicots, xicotes]
+  - term: ves
+    category: quotidia
+    gloss: Interjecció de resignació o de matís al final d'una frase.
+  - term: aturar-se
+    category: quotidia
+    gloss: Allotjar-se o quedar-se un temps en un lloc.
+    equivalent: allotjar-se
+  - term: fer cap
+    category: quotidia
+    gloss: Arribar o presentar-se en un lloc.
+    equivalent: arribar

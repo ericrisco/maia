@@ -30,6 +30,7 @@ maia-corpus-report = "maia.corpus.coverage:main"
 maia-sample-corpus = "maia.corpus.sampling:main"
 maia-validate-dataset = "maia.synth.validate:main"
 maia-taxonomy = "maia.synth.taxonomy:main"
+maia-glossary = "maia.synth.glossary:main"
 
 [dependency-groups]
 dev = [
