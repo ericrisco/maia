@@ -215,13 +215,18 @@ class NearDuplicateIndex:
         """Groups of two or more documents confirmed similar at or above ``threshold``.
 
         Each group is ordered by insertion, and the groups themselves by their first member,
-        so the result is stable across runs.
+        so the result is stable across runs. Candidate pairs are also *merged* in insertion
+        order: a union-find partition does not depend on merge order, but iterating the
+        candidate set directly would vary with the hash seed, and reproducible internals are
+        worth more than the microseconds the sort costs.
         """
+        rank = {key: index for index, key in enumerate(self._order)}
         forest = _UnionFind()
-        for left, right in self.candidate_pairs():
+        for left, right in sorted(
+            self.candidate_pairs(), key=lambda pair: (rank[pair[0]], rank[pair[1]])
+        ):
             if jaccard(self._shingles[left], self._shingles[right]) >= self.threshold:
                 forest.union(left, right)
-        rank = {key: index for index, key in enumerate(self._order)}
         found = [
             sorted(members, key=lambda key: rank[key])
             for members in forest.groups().values()
