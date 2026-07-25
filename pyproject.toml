@@ -33,6 +33,7 @@ maia-validate-dataset = "maia.synth.validate:main"
 maia-taxonomy = "maia.synth.taxonomy:main"
 maia-glossary = "maia.synth.glossary:main"
 maia-generate = "maia.synth.generate:main"
+maia-mix-general-ca = "maia.synth.general_ca:main"
 
 [dependency-groups]
 dev = [
