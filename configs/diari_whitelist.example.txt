@@ -1,0 +1,12 @@
+# Diari de Sessions — parliamentarian whitelist (PO input, PLAN M1.05).
+#
+# One speaker name per line, EXACTLY as printed in the Diari (without the
+# "El Sr." / "La Sra." / "M. I. Sr." honorific — only the name). Lines starting
+# with '#' and blank lines are ignored. Matching is case- and whitespace-insensitive.
+#
+# The PO fills this with parliamentarians who speak good Andorran Catalan, plus a
+# minimum target number of interventions. Copy to configs/diari_whitelist.txt (kept
+# out of git if it should stay private) and fill in. Example placeholders below:
+#
+# Maria Font
+# Joan Martí
