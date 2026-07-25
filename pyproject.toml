@@ -35,6 +35,7 @@ maia-glossary = "maia.synth.glossary:main"
 maia-generate = "maia.synth.generate:main"
 maia-mix-general-ca = "maia.synth.general_ca:main"
 maia-filter-dataset = "maia.synth.filter:main"
+maia-pilot = "maia.synth.pilot:main"
 
 [dependency-groups]
 dev = [
