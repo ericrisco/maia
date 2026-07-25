@@ -20,6 +20,7 @@ Repository = "https://github.com/ericrisco/maia"
 
 [project.scripts]
 maia-validate-corpus = "maia.corpus.validate:main"
+maia-consolidate-corpus = "maia.corpus.consolidate:main"
 
 [dependency-groups]
 dev = [
