@@ -39,6 +39,7 @@ maia-pilot = "maia.synth.pilot:main"
 maia-generate-full = "maia.synth.run:main"
 maia-split = "maia.synth.splits:main"
 maia-distribution = "maia.synth.distribution:main"
+maia-publish-dataset = "maia.synth.publish:main"
 
 [dependency-groups]
 dev = [
