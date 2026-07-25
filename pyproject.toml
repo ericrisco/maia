@@ -97,7 +97,7 @@ files = ["src", "tests"]
 # pyarrow, transformers and unsloth ship no py.typed marker, and the last two are only ever
 # imported inside a function behind a blocked-by-resource seam. Scoped so the rest stays strict.
 [[tool.mypy.overrides]]
-module = ["pyarrow.*", "transformers.*", "unsloth.*"]
+module = ["pyarrow.*", "transformers.*", "unsloth.*", "trl.*"]
 ignore_missing_imports = true
 
 # ─────────────────────────────────────────────────────────────
