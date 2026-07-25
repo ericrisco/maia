@@ -12,8 +12,10 @@ dependencies = [
     "mwparserfromhell>=0.6",
     "pyarrow>=25.0.0",
     "pydantic>=2.9",
+    "pyyaml>=6.0.3",
     "requests>=2.31",
     "trafilatura>=1.8",
+    "types-pyyaml>=6.0.12.20260724",
 ]
 
 [project.urls]
@@ -27,6 +29,7 @@ maia-publish-corpus = "maia.corpus.publish:main"
 maia-corpus-report = "maia.corpus.coverage:main"
 maia-sample-corpus = "maia.corpus.sampling:main"
 maia-validate-dataset = "maia.synth.validate:main"
+maia-taxonomy = "maia.synth.taxonomy:main"
 
 [dependency-groups]
 dev = [
