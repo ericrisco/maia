@@ -8,7 +8,9 @@ license = { text = "Apache-2.0" }
 authors = [{ name = "Eric Risco de la Torre" }]
 keywords = ["andorra", "catalan", "llm", "gemma", "qlora", "rag"]
 dependencies = [
+    "huggingface-hub>=1.24.0",
     "mwparserfromhell>=0.6",
+    "pyarrow>=25.0.0",
     "pydantic>=2.9",
     "requests>=2.31",
     "trafilatura>=1.8",
@@ -21,6 +23,7 @@ Repository = "https://github.com/ericrisco/maia"
 [project.scripts]
 maia-validate-corpus = "maia.corpus.validate:main"
 maia-consolidate-corpus = "maia.corpus.consolidate:main"
+maia-publish-corpus = "maia.corpus.publish:main"
 
 [dependency-groups]
 dev = [
@@ -74,6 +77,11 @@ warn_redundant_casts = true
 warn_unused_ignores = true
 disallow_untyped_defs = true
 files = ["src", "tests"]
+
+# pyarrow ships no py.typed marker. Scoped here so the rest of the tree stays strict.
+[[tool.mypy.overrides]]
+module = ["pyarrow.*"]
+ignore_missing_imports = true
 
 # ─────────────────────────────────────────────────────────────
 # pytest — layered testing (unit fast; integration behind marker)
