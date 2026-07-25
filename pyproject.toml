@@ -8,6 +8,7 @@ license = { text = "Apache-2.0" }
 authors = [{ name = "Eric Risco de la Torre" }]
 keywords = ["andorra", "catalan", "llm", "gemma", "qlora", "rag"]
 dependencies = [
+    "anthropic>=0.120.0",
     "huggingface-hub>=1.24.0",
     "mwparserfromhell>=0.6",
     "pyarrow>=25.0.0",
@@ -31,6 +32,7 @@ maia-sample-corpus = "maia.corpus.sampling:main"
 maia-validate-dataset = "maia.synth.validate:main"
 maia-taxonomy = "maia.synth.taxonomy:main"
 maia-glossary = "maia.synth.glossary:main"
+maia-generate = "maia.synth.generate:main"
 
 [dependency-groups]
 dev = [
