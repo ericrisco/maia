@@ -9,6 +9,7 @@ authors = [{ name = "Eric Risco de la Torre" }]
 keywords = ["andorra", "catalan", "llm", "gemma", "qlora", "rag"]
 dependencies = [
     "anthropic>=0.120.0",
+    "fastapi>=0.115",
     "huggingface-hub>=1.24.0",
     "mwparserfromhell>=0.6",
     "pyarrow>=25.0.0",
@@ -44,6 +45,7 @@ maia-publish-dataset = "maia.synth.publish:main"
 
 [dependency-groups]
 dev = [
+    "httpx>=0.28",
     "ruff>=0.9",
     "mypy>=1.14",
     "pytest>=8.3",
