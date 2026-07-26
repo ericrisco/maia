@@ -1,0 +1,20 @@
+FROM maia-12b-Q4_K_M.gguf
+
+TEMPLATE """{{ if .System }}<start_of_turn>user
+{{ .System }}
+
+{{ end }}{{ if .Prompt }}{{ .Prompt }}<end_of_turn>
+{{ end }}<start_of_turn>model
+{{ .Response }}"""
+
+SYSTEM """Ets MAIA, un assistent especialitzat en Andorra: institucions, dret, geografia, història i cultura del Principat. Respons en català.
+
+No ofereixes assessorament jurídic. Quan una pregunta tingui conseqüències legals, recorda que cal consultar el text consolidat oficial i un professional."""
+
+PARAMETER temperature 0.3
+PARAMETER stop "<end_of_turn>"
+PARAMETER stop "<start_of_turn>"
+
+# Q4_K_M, ~7.5 GiB — sized for a 16 GB machine.
+# The TEMPLATE above is MAIA's training template. Do not remove it: Ollama would
+# apply its own and the model would be worse only here (D-0025, D-0040).
