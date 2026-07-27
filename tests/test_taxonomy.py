@@ -71,12 +71,22 @@ def test_the_shipped_draft_covers_every_required_branch() -> None:
 
 
 @pytest.mark.unit
-def test_the_shipped_draft_is_deliberately_not_approved() -> None:
-    """M2.01 is a PO gate: the draft must not be able to run generation as shipped."""
+def test_the_shipped_taxonomy_is_approved_and_names_its_approver() -> None:
+    """M2.01 is a PO gate and it has been passed (D-0043, 2026-07-26). An approved file with an
+    empty `approved_by` would be the worst outcome of the two — generation would run and nobody
+    would be accountable for the node list it ran against."""
     taxonomy = load_taxonomy(SHIPPED)
-    assert taxonomy.approved is False
+    assert taxonomy.approved is True
+    assert "Eric Risco" in taxonomy.approved_by
+    require_approved(taxonomy)
+
+
+@pytest.mark.unit
+def test_an_unapproved_taxonomy_still_refuses_to_run() -> None:
+    """The gate itself, tested away from the shipped file: approving that file must not be what
+    makes this pass."""
     with pytest.raises(NotApprovedError, match="not approved"):
-        require_approved(taxonomy)
+        require_approved(Taxonomy.model_validate(taxonomy_payload(full_nodes())))
 
 
 @pytest.mark.unit
@@ -332,16 +342,30 @@ def test_any_keyword_matching_is_enough() -> None:
 
 
 @pytest.mark.unit
-def test_cli_validates_the_shipped_draft(capsys: pytest.CaptureFixture[str]) -> None:
+def test_cli_validates_the_shipped_taxonomy(capsys: pytest.CaptureFixture[str]) -> None:
     assert main([str(SHIPPED)]) == 0
     out = capsys.readouterr().out
-    assert "NOT APPROVED" in out
+    assert "[approved]" in out
     assert "legal=" in out
 
 
 @pytest.mark.unit
-def test_cli_require_approved_gates_the_draft(capsys: pytest.CaptureFixture[str]) -> None:
-    assert main([str(SHIPPED), "--require-approved"]) == 1
+def test_cli_require_approved_now_lets_the_shipped_taxonomy_through(
+    capsys: pytest.CaptureFixture[str],
+) -> None:
+    """The generation pipeline runs this flag before spending money on the API. It passed as of
+    D-0043; before then it was the single thing blocking every downstream milestone."""
+    assert main([str(SHIPPED), "--require-approved"]) == 0
+    assert "[approved]" in capsys.readouterr().out
+
+
+@pytest.mark.unit
+def test_cli_require_approved_still_gates_an_unapproved_file(
+    tmp_path: Path, capsys: pytest.CaptureFixture[str]
+) -> None:
+    path = tmp_path / "taxonomy.yaml"
+    path.write_text(yaml.safe_dump(taxonomy_payload(full_nodes())), encoding="utf-8")
+    assert main([str(path), "--require-approved"]) == 1
     assert "not approved" in capsys.readouterr().err
 
 

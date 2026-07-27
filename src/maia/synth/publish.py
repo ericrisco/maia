@@ -60,9 +60,11 @@ HUB_SPLIT_NAMES = {Split.TRAIN: "train", Split.VAL: "validation", Split.TEST: "t
 #: One file per split, the layout Hugging Face recognises without configuration.
 SPLIT_FILES = {split: f"data/{name}.jsonl" for split, name in HUB_SPLIT_NAMES.items()}
 
-#: Licence of the published dataset. The corpus it derives from is public-official Andorran text;
-#: the generated examples are the project's own output.
-DATASET_LICENSE = "cc-by-4.0"
+#: Licence of the published dataset. **CC-BY-SA-4.0** rather than CC-BY-4.0: share-alike is viral,
+#: the corpus includes CC-BY-SA-3.0 Viquipèdia text, and an example generated from one of those
+#: passages is a derivative of it (D-0043). Publishing under an incompatible licence is not
+#: something a later commit can undo.
+DATASET_LICENSE = "cc-by-sa-4.0"
 
 
 class FrozenTestSplitError(RuntimeError):

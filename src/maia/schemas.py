@@ -48,6 +48,7 @@ class Source(StrEnum):
     GOVERN = "govern"
     CULTURA = "cultura"
     BOPA = "bopa"
+    CONSELL_GENERAL = "consell_general"
     CONSELL_DIARI_SESSIONS = "consell_diari_sessions"
     COMUNS = "comuns"
     VISITANDORRA = "visitandorra"

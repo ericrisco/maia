@@ -32,7 +32,14 @@ class SiteSpec:
 
 
 #: Prewired specs for the P0/P1 institutional sources (all public institutional).
+#:
+#: ``consellgeneral`` is the parliament's own site — institutional pages about how the chamber
+#: works, which is **not** the Diari de Sessions. The Diari is transcribed speech with its own
+#: source, its own registre and its own D7 constraint (M1.04); one value for both would let a
+#: register-only rule be applied to institutional prose, or the reverse, and neither is visible
+#: afterwards. It was named P0 in the plan and had no `Source` value until D-0043.
 SITE_SPECS: dict[str, SiteSpec] = {
+    "consellgeneral": SiteSpec(Source.CONSELL_GENERAL, License.PUBLIC_OFFICIAL),
     "govern": SiteSpec(Source.GOVERN, License.PUBLIC_OFFICIAL),
     "cultura": SiteSpec(Source.CULTURA, License.PUBLIC_OFFICIAL),
     "comuns": SiteSpec(Source.COMUNS, License.PUBLIC_OFFICIAL),

@@ -139,3 +139,40 @@ def test_scrape_site_integrates_with_polite_fetcher_and_robots() -> None:
     )
     assert [str(d.url) for d in docs] == ["https://govern.ad/ok"]
     assert fetcher.disallowed == ["https://govern.ad/private/x"]
+
+
+@pytest.mark.unit
+def test_every_p0_institutional_source_has_a_spec() -> None:
+    """The parliament's own site was named P0 in the plan and had no spec until D-0043 — a source
+    can only be scraped if it is in this catalogue, so an omission here is silent: the pipeline
+    runs green over the sources it does know about and nobody notices the missing one."""
+    assert {s.source for s in SITE_SPECS.values()} >= {
+        Source.CONSELL_GENERAL,
+        Source.GOVERN,
+        Source.CULTURA,
+        Source.COMUNS,
+    }
+
+
+@pytest.mark.unit
+def test_consell_general_is_not_the_diari_de_sessions() -> None:
+    """Institutional prose from the chamber's website, not transcribed speech: the Diari carries a
+    D7 constraint (never clone an individual's voice) that must not silently extend to — or be
+    lost from — either body of text."""
+    spec = SITE_SPECS["consellgeneral"]
+    assert spec.source is Source.CONSELL_GENERAL
+    assert spec.source.value != Source.CONSELL_DIARI_SESSIONS.value
+    assert spec.license is License.PUBLIC_OFFICIAL
+
+    fetcher = _MapFetcher({"https://consellgeneral.ad/ca/el-consell": ARTICLE_HTML})
+    docs = list(
+        scrape_site(
+            fetcher,  # type: ignore[arg-type]
+            ["https://consellgeneral.ad/ca/el-consell"],
+            spec,
+            fetched_at=STAMP,
+            topic=["institucions"],
+        )
+    )
+    assert [d.source for d in docs] == [Source.CONSELL_GENERAL]
+    assert docs[0].registre is Registre.ESTANDARD

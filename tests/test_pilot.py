@@ -359,12 +359,14 @@ def test_the_catalan_bar_is_stricter_than_the_factual_one() -> None:
 
 @pytest.mark.unit
 def test_the_andorran_question_has_its_own_bar() -> None:
-    poor = [reviewed(str(i), andorran=Label.NO if i < 60 else Label.YES) for i in range(100)]
+    """0.70, not a bare majority: sounding Andorran is the reason the project exists, and three
+    answers in ten sounding like generic Catalan is not meeting that (D-0043)."""
+    poor = [reviewed(str(i), andorran=Label.NO if i < 40 else Label.YES) for i in range(100)]
     result = score(poor)
     assert result.factual.passed and result.catalan.passed
     assert not result.andorran.passed
     assert not result.passed
-    assert MIN_ANDORRAN_RATE == 0.50
+    assert MIN_ANDORRAN_RATE == 0.70
 
 
 @pytest.mark.unit

@@ -42,6 +42,7 @@ maia-generate-full = "maia.synth.run:main"
 maia-split = "maia.synth.splits:main"
 maia-distribution = "maia.synth.distribution:main"
 maia-publish-dataset = "maia.synth.publish:main"
+maia-latency-gate = "maia.serving.latency:main"
 
 [dependency-groups]
 dev = [
