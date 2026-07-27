@@ -45,6 +45,7 @@ maia-publish-dataset = "maia.synth.publish:main"
 maia-latency-gate = "maia.serving.latency:main"
 maia-e2e = "maia.serving.e2e:main"
 maia-endpoint-config = "maia.serving.serverless:main"
+maia-demo = "maia.serving.demo:main"
 
 [dependency-groups]
 dev = [
@@ -103,7 +104,7 @@ files = ["src", "tests"]
 # pyarrow, transformers and unsloth ship no py.typed marker, and the last two are only ever
 # imported inside a function behind a blocked-by-resource seam. Scoped so the rest stays strict.
 [[tool.mypy.overrides]]
-module = ["pyarrow.*", "transformers.*", "unsloth.*", "trl.*"]
+module = ["pyarrow.*", "transformers.*", "unsloth.*", "trl.*", "gradio.*"]
 ignore_missing_imports = true
 
 # ─────────────────────────────────────────────────────────────
