@@ -49,7 +49,11 @@ DATASET_REPO = "ericrisco/andorra-instruct-ca"
 
 #: The plan's licences: the model is Apache 2.0, the dataset CC-BY-4.0.
 MODEL_LICENSE = "apache-2.0"
-DATASET_LICENSE = "cc-by-4.0"
+#: The dataset licence. **CC-BY-SA-4.0, not CC-BY-4.0** — see D-0043(1). Share-alike is viral:
+#: the corpus includes CC-BY-SA-3.0 Viquipèdia text, and an instruction example generated from a
+#: passage is a derivative of it. Shipping that derivative under a non-share-alike licence would be
+#: incompatible, and publishing under the wrong licence is not something a later commit can undo.
+DATASET_LICENSE = "cc-by-sa-4.0"
 
 
 class Language(StrEnum):

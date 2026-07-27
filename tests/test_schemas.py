@@ -178,6 +178,7 @@ def test_enum_members_match_contract() -> None:
         "govern",
         "cultura",
         "bopa",
+        "consell_general",
         "consell_diari_sessions",
         "comuns",
         "visitandorra",

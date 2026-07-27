@@ -1,7 +1,13 @@
 # MAIA Andorran lexicon glossary — PLAN M2.02
 #
-# ⚠ CURATED SEED, NOT APPROVED. These are the terms that are Andorranisms beyond argument —
-# what M2.03 can start from before a general-Catalan reference corpus exists.
+# ✔ APPROVED as a working seed by the PO on 2026-07-26 (D-0043). These are the terms that are
+# Andorranisms beyond argument — what M2.03 can start from before a general-Catalan reference
+# corpus exists.
+#
+# ⚠ Approved by an engineer, not by a native Andorran speaker. That review has not happened and
+# the `quotidia` category is where it will bite: `canalla`, `plegar`, `xicot`, `ves`, `aturar-se`
+# and `fer cap` all exist in general Catalan, so they mark register rather than origin. Treat
+# them as flavour the generator may use, never as evidence that an answer sounds Andorran.
 #
 # The plan asks for an *automatic* glossary of lexicon "absent from general Catalan". Automatic
 # extraction is implemented (`maia-glossary candidates --andorran … --general …`) but it needs
@@ -17,14 +23,18 @@
 #   3. Add `variants` for plurals and feminines the corpus actually contains.
 #   4. Run `maia-glossary candidates` once the corpus and an AINA sample exist, and promote
 #      whatever the contrast surfaces.
-#   5. Set `approved: true` and fill `approved_by`.
+#   5. Set `approved: true` and fill `approved_by`.  ← done, 2026-07-26 (engineering review)
 
-version: "0.1-seed"
-approved: false
-approved_by: ""
+version: "1.0-seed"
+approved: true
+approved_by: "Eric Risco de la Torre (PO), 2026-07-26 — engineering review. Native-speaker linguistic validation is still outstanding: see D-0043 and gaps.md."
 notes: >-
-  Curated seed pending review by the PO and the linguistic reviewer. Automatic contrastive
-  extraction is available but needs a general-Catalan reference corpus (M2.04).
+  Approved as a working seed (D-0043) so generation is not blocked. 48 terms across 6 categories.
+  Two things remain open and neither is a reason to keep the gate shut. First, a native Andorran
+  speaker has not reviewed the glosses, and the `quotidia` category is the weak one — its terms
+  exist in general Catalan and mark register, not origin. Second, automatic contrastive extraction
+  (`maia-glossary candidates`) still has to run against the AINA reference from M2.04 and promote
+  whatever it surfaces; that will grow this file well beyond 48 terms.
 
 entries:
   # ── institucional ───────────────────────────────────────────────────────────

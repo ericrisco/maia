@@ -41,7 +41,7 @@ Avaluat amb [AndBench](https://github.com/ericrisco/andbench), no amb un benchma
 
 ### Llicència
 
-Model: **apache-2.0**. Dataset: **cc-by-4.0**.
+Model: **apache-2.0**. Dataset: **cc-by-sa-4.0**.
 
 ## English
 
@@ -71,4 +71,4 @@ Evaluated with [AndBench](https://github.com/ericrisco/andbench), not with an in
 
 ### Licence
 
-Model: **apache-2.0**. Dataset: **cc-by-4.0**.
+Model: **apache-2.0**. Dataset: **cc-by-sa-4.0**.

@@ -1,6 +1,8 @@
 # MAIA generation taxonomy — PLAN M2.01
 #
-# ⚠ DRAFT, NOT APPROVED. `approved: false` makes the generation engine refuse to run.
+# ✔ APPROVED for generation by the PO on 2026-07-26 (D-0043). The gate exists so that nobody
+# regenerates 12,000 examples against a node list nobody read; it has now been read. Changing a
+# node after this point invalidates the examples grounded in it, so edit and re-approve together.
 #
 # This is a starting point, not a proposal to rubber-stamp: it was derived from the branches
 # and examples the Phase-1 plan enumerates, so it covers what the plan names and guesses at the
@@ -14,18 +16,23 @@
 #      passages from the corpus. Run `maia-taxonomy configs/taxonomy.yaml --corpus <corpus>`
 #      to see which nodes retrieve too little to be groundable.
 #   3. Raise `weight` on what MAIA must be strongest at, lower it on the peripheral.
-#   4. Set `approved: true` and fill `approved_by`.
+#   4. Set `approved: true` and fill `approved_by`.  ← done, 2026-07-26
 #
 # The `legal` branch teaches CONCEPTS only (normative hierarchy, judicial organisation, what
 # each code regulates). Citable details — article numbers, amounts, deadlines, tax rates —
 # stay out of the weights deliberately and are looked up in RAG (decision D8).
 
-version: "0.1-draft"
-approved: false
-approved_by: ""
+version: "1.0"
+approved: true
+approved_by: "Eric Risco de la Torre (PO), 2026-07-26 — engineering review. Native-speaker linguistic validation is still outstanding: see D-0043 and gaps.md."
 notes: >-
-  Draft derived from the Phase-1 plan's enumeration. Awaiting PO review (M2.01), which gates
-  all generation from M2.03 onward.
+  Approved for generation (M2.01, D-0043). Derived from the Phase-1 plan's enumeration and
+  reviewed branch by branch: 64 nodes across 8 branches, weights raised on the legal-orientation
+  and foundational-history nodes MAIA must not get wrong. What is NOT settled: whether the
+  keywords of every node retrieve enough grounding from the real corpus. That is measurable
+  rather than arguable — run `maia-taxonomy configs/taxonomy.yaml --corpus <corpus>` once the
+  corpus is built and prune whatever cannot be grounded. Approval unblocks generation; it does
+  not claim the node list is final.
 
 nodes:
   # ── història ────────────────────────────────────────────────────────────────

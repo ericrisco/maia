@@ -106,8 +106,13 @@ def test_the_shipped_seed_loads() -> None:
 
 
 @pytest.mark.unit
-def test_the_shipped_seed_is_deliberately_not_approved() -> None:
-    assert load_glossary(SHIPPED).approved is False
+def test_the_shipped_seed_is_approved_and_says_who_approved_it() -> None:
+    """Approved as a *working seed* (D-0043) so generation is not blocked. The approver string
+    records that this was an engineering review — native-speaker validation has not happened, and
+    a bare `true` here would erase that distinction."""
+    loaded = load_glossary(SHIPPED)
+    assert loaded.approved is True
+    assert "Eric Risco" in loaded.approved_by
 
 
 @pytest.mark.unit
@@ -410,7 +415,7 @@ def test_render_counts_terms_without_an_equivalent() -> None:
 @pytest.mark.unit
 def test_cli_check_validates_the_shipped_seed(capsys: pytest.CaptureFixture[str]) -> None:
     assert main(["check", str(SHIPPED)]) == 0
-    assert "NOT APPROVED" in capsys.readouterr().out
+    assert "[approved]" in capsys.readouterr().out
 
 
 @pytest.mark.unit

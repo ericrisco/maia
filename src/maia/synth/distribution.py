@@ -32,9 +32,9 @@ import sys
 from collections import Counter
 from collections.abc import Iterable, Mapping, Sequence
 from dataclasses import dataclass, field
-from math import ceil
 from pathlib import Path
 
+from maia.percentiles import nearest_rank
 from maia.schemas import CorpusDocument, DatasetExample, ExampleType, Source, Split
 from maia.synth.general_ca import andorra_matcher, mentions_andorra
 from maia.synth.glossary import Glossary, load_glossary
@@ -82,23 +82,11 @@ class Lengths:
             count=len(ordered),
             total=sum(ordered),
             mean=statistics.fmean(ordered),
-            p50=_percentile(ordered, 50),
-            p95=_percentile(ordered, 95),
+            p50=nearest_rank(ordered, 50),
+            p95=nearest_rank(ordered, 95),
             longest=ordered[-1],
             shortest=ordered[0],
         )
-
-
-def _percentile(ordered: Sequence[int], percentile: int) -> int:
-    """Nearest-rank percentile of an already-sorted sequence.
-
-    ``ceil``, not ``round``: Python rounds halves to even, so ``round(2.5) == 2`` would make the
-    median of five values the second one instead of the third.
-
-    ``ordered`` is never empty — :meth:`Lengths.of` returns before calling this.
-    """
-    index = min(len(ordered) - 1, max(0, ceil(percentile / 100 * len(ordered)) - 1))
-    return ordered[index]
 
 
 @dataclass

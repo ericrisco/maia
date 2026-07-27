@@ -1,5 +1,5 @@
 ---
-license: cc-by-4.0
+license: cc-by-sa-4.0
 language:
   - ca
 task_categories:

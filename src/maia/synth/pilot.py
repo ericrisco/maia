@@ -56,9 +56,11 @@ DEFAULT_PILOT_SIZE = 500
 #: DoD-F2's two bars, and the pilot's third question.
 MIN_FACTUAL_RATE = 0.95
 MIN_CATALAN_RATE = 0.98
-#: The plan gives no number for "sounds Andorran"; a majority is the weakest defensible reading and
-#: is recorded so the PO can raise it.
-MIN_ANDORRAN_RATE = 0.50
+#: The plan gives no number for "sounds Andorran". Set at 0.70 (D-0043): a bare majority would let
+#: three answers in ten sound like generic Catalan, and sounding Andorran is the reason the project
+#: exists — a model that fails that on 30 % of a sample has not met its own purpose. Lower than the
+#: factual bars (0.95/0.98) because the judgement is softer and reviewers disagree at the edges.
+MIN_ANDORRAN_RATE = 0.70
 
 #: Fewest surviving examples a calibrated threshold may rest on. Below this the rate is noise.
 MIN_SUPPORT = 20
