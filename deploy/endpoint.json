@@ -1,0 +1,14 @@
+{
+  "env": {
+    "MAX_MODEL_LEN": "8192",
+    "MAX_NUM_SEQS": "4",
+    "MODEL_NAME": "ericrisco/maia-12b-it",
+    "QUANTIZATION": "awq"
+  },
+  "gpu": "NVIDIA L4",
+  "idleTimeout": 300,
+  "name": "maia-12b-it",
+  "vllmArgs": [],
+  "workersMax": 2,
+  "workersMin": 0
+}
