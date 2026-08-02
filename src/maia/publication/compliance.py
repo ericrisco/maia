@@ -43,7 +43,15 @@ from maia.schemas import CorpusDocument, DatasetExample, License, Source
 SHARE_ALIKE = frozenset({License.CC_BY_SA_3_0})
 
 #: Vocabulary that marks a *stance* rather than a fact. Broad on purpose — see the module docstring.
+#:
+#: **Both grammatical persons, and the third one is the one that matters here.** The first version
+#: of this list was written from the Diari, where members speak for themselves ("jo considero
+#: que…"), so every entry was first-person. But what this gate reviews is not the Diari — it is
+#: *generated* examples, and a model writing about a politician writes in the third person: "el cap
+#: de Govern considera que la reforma és necessària". That sentence attributes a political position
+#: to a head of government in office, and the first-person list let it straight through.
 STANCE_WORDS = (
+    # ── first person: quoted or paraphrased speech ──
     "crec",
     "creiem",
     "opino",
@@ -69,6 +77,35 @@ STANCE_WORDS = (
     "votarem",
     "votaré",
     "no donarem suport",
+    # ── third person: how a generated example talks *about* somebody ──
+    "creu que",
+    "creuen que",
+    "opina",
+    "opinen",
+    "considera",
+    "consideren",
+    "defensa",
+    "defensen",
+    "rebutja",
+    "rebutgen",
+    "condemna",
+    "condemnen",
+    "exigeix",
+    "exigeixen",
+    "sosté",
+    "sostenen",
+    "es mostra",
+    "es mostren",
+    "està a favor",
+    "està en contra",
+    "votarà",
+    "votaran",
+    "no donarà suport",
+    "no donaran suport",
+    "partidari",
+    "partidària",
+    "contrari a",
+    "contrària a",
 )
 
 #: Patterns that attribute speech to a named person or role, in Andorran parliamentary style.
