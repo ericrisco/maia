@@ -363,3 +363,41 @@ def test_findings_are_grouped_by_kind_in_the_report() -> None:
     assert "✗ grounded in no-redistribute text: 1" in rendered
     assert "✗ share-alike source not credited: 1" in rendered
     assert "✓ grounding not in the corpus supplied: 0" in rendered
+
+
+@pytest.mark.unit
+@pytest.mark.parametrize(
+    "answer",
+    [
+        "El cap de Govern considera que la reforma fiscal és necessària per al país.",
+        "La consellera Montaner es mostra contrària a la proposta de pressupost.",
+        "Segons el ministre, el grup parlamentari votarà a favor de la llei.",
+        "El síndic sosté que el creixement actual és insostenible.",
+        "El senyor Espot defensa aquesta política d'habitatge.",
+    ],
+)
+def test_a_position_attributed_in_the_third_person_is_flagged(answer: str) -> None:
+    """The gap this list had until D-0050, and the one that mattered most.
+
+    The vocabulary was written from the Diari, where members speak for themselves ("jo considero
+    que…"), so every entry was first-person. But this gate does not review the Diari — it reviews
+    **generated** examples, and a model writing *about* a politician writes in the third person.
+    "El cap de Govern considera que…" attributes a political position to a head of government in
+    office, and it went straight through.
+    """
+    assert attributed_opinions([example("third-person", answer=answer)])
+
+
+@pytest.mark.unit
+@pytest.mark.parametrize(
+    "answer",
+    [
+        "El senyor Espot és el cap de Govern des del 2019.",
+        "Andorra té set parròquies i el Consell General té 28 consellers generals.",
+        "La consellera Montaner va presentar una pregunta al Govern el 12 de gener.",
+    ],
+)
+def test_a_fact_about_a_named_person_is_not_a_position(answer: str) -> None:
+    """The over-broad flag still has to leave ordinary institutional facts alone, or the review
+    queue becomes the whole dataset and the reviewer stops reading it."""
+    assert attributed_opinions([example("factual", answer=answer)]) == []
