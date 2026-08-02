@@ -21,6 +21,15 @@ dependencies = [
     "types-pyyaml>=6.0.12.20260724",
 ]
 
+[project.optional-dependencies]
+# Local speech-to-text on Apple silicon (M1.13). Optional because `mlx-whisper` exists only on
+# Apple silicon and CI is Linux; `imageio-ffmpeg` ships a static ffmpeg so no system install is
+# needed. Install with `uv sync --extra audio`.
+audio = [
+    "mlx-whisper>=0.4",
+    "imageio-ffmpeg>=0.5",
+]
+
 [project.urls]
 Homepage = "https://github.com/ericrisco/maia"
 Repository = "https://github.com/ericrisco/maia"
@@ -43,6 +52,7 @@ maia-generate-full = "maia.synth.run:main"
 maia-split = "maia.synth.splits:main"
 maia-distribution = "maia.synth.distribution:main"
 maia-publish-dataset = "maia.synth.publish:main"
+maia-transcribe = "maia.scraping.transcribe:main"
 maia-rtva-editorial = "maia.scraping.rtva:main"
 maia-consell-diari = "maia.scraping.consell:main"
 maia-latency-gate = "maia.serving.latency:main"
@@ -112,7 +122,7 @@ files = ["src", "tests"]
 # pyarrow, transformers and unsloth ship no py.typed marker, and the last two are only ever
 # imported inside a function behind a blocked-by-resource seam. Scoped so the rest stays strict.
 [[tool.mypy.overrides]]
-module = ["pyarrow.*", "transformers.*", "unsloth.*", "trl.*", "gradio.*"]
+module = ["pyarrow.*", "transformers.*", "unsloth.*", "trl.*", "gradio.*", "mlx_whisper.*", "imageio_ffmpeg.*"]
 ignore_missing_imports = true
 
 # ─────────────────────────────────────────────────────────────
