@@ -1,50 +1,78 @@
-# Speaker whitelist for the Diari del Consell General — PLAN M1.05, decided by the PO (D-0046).
+# Speaker whitelist for the Diari del Consell General — PLAN M1.05, decided by the PO (D-0049).
 #
-# WHAT THIS IS FOR. The parliamentary subcorpus exists to teach MAIA the **register and lexicon**
-# of formal spoken Andorran Catalan: how people actually argue, qualify and address each other in
-# an Andorran institutional setting, and which words they use. It is grounding and style, and it
-# feeds `registre: andorra_parlat`.
+# WHAT THIS IS FOR. The parliamentary subcorpus teaches MAIA the **register and lexicon** of formal
+# spoken Andorran Catalan: how people argue, qualify and address each other in an Andorran
+# institutional setting, and which words they reach for. It feeds `registre: andorra_parlat`.
 #
-# WHAT IT IS NOT FOR (D7, and this is not negotiable). It must never be used to reproduce an
-# identifiable person's voice, opinions or positions. Three consequences, each enforced in code
-# rather than left to good intentions:
+# WHY IT IS LONG, WHICH IS THE OPPOSITE OF WHAT A WHITELIST USUALLY MEANS. The first version had
+# two names, and measuring it showed **94% of the corpus was one person** — Xavier Espot. A corpus
+# like that does not teach a register, it teaches an idiolect: his fillers, his syntax, his way of
+# not answering a question. That is both a data-quality failure and exactly what D7 forbids, and
+# the fix is the same for both: more voices.
 #
-#   1. `parse_session` does NOT store the speaker on the resulting §3.1 document. Provenance is
-#      the session URL. You cannot filter the corpus back down to one person afterwards.
-#   2. Generated examples must never attribute a position to a named politician. M6.01
-#      (`publication/compliance.py`) checks this again before anything is published, and flags
-#      attribution near stance vocabulary for PO review.
-#   3. Nothing here changes the licence: these are public-official texts, published by the
-#      chamber itself, and used as such.
+# With 32 named speakers the largest single share is ~13% and the corpus is 7x bigger
+# (2.1M -> ~15M characters), from PDFs that were already downloaded. Nobody is reproducible.
 #
-# The reason a whitelist exists at all is the reverse of what it looks like: it *narrows* what is
-# ingested to a small number of speakers whose interventions are long, substantive and in
-# well-formed Catalan, instead of hoovering up every voice in the chamber including procedural
-# one-liners from the chair. Fewer, better, and reviewable.
+# WHAT IT IS STILL NOT FOR (D7). Generated examples must never reproduce an identifiable person's
+# voice or attribute a position to them. Note honestly where that is enforced: §3.1 records
+# `speaker`, deliberately, so the corpus *can* be filtered back down to one person. What prevents
+# the harm is D7 in use plus the M6.01 publication gate — not the shape of the data.
 #
-# NAMES MUST MATCH THE FORM PRINTED ON THE INTERVENTION, not the one in the attendance list.
-# The Diari prints "M. I. Sr. Raul Ferré Bonet" when taking attendance and "El Sr. Raul Ferré:"
-# above what he actually says. Copying from the attendance list — the obvious place — matches
-# nothing, and the run then succeeds having ingested none of that person. `maia-consell-diari`
-# warns about any entry that never spoke and suggests the printed form; that warning exists
-# because this happened during development.
+# SELECTION RULE, so this can be regenerated rather than argued about: every named person with
+# >=40 substantive interventions (>=120 characters after cleaning) across 2019-2023.
 #
-# Matching is case-insensitive and whitespace-normalised.
+# OFFICES OF THE CHAIR ARE EXCLUDED ON PURPOSE. "síndica general" has the most interventions of
+# anyone (1,963) and almost all are procedural — giving the floor, calling a vote. Including them
+# would refill the corpus with formulae and undo the point of widening it.
 #
-# OFFICE ALIASES NEED A YEAR RANGE: `name [YYYY-YYYY]`. The Diari does not print a speaker the
-# same way twice across a decade — in 2022 it writes "El Sr. Xavier Espot:" and in 2021 "El Sr.
-# cap de Govern:" for the same person, which cost ~100 interventions before it was noticed. But
-# an unscoped `cap de Govern` would be a worse bug than the one it fixes, because the office
-# belonged to somebody else before 2019: it would attribute one politician's words to another.
-# So an office is only ever whitelisted for the years its holder actually held it.
+# NAMES MUST MATCH THE FORM PRINTED ON THE INTERVENTION, not the attendance list: the Diari prints
+# "M. I. Sr. Raul Ferré Bonet" when taking attendance and "El Sr. Raul Ferré:" above what he says.
+# `maia-consell-diari` warns about entries that never spoke and suggests the printed form.
+#
+# OFFICE ALIASES NEED A YEAR RANGE: `name [YYYY-YYYY]`. In 2021 the Diari prints "El Sr. cap de
+# Govern:" where 2022 prints "El Sr. Xavier Espot:" — the same person. Unscoped, that alias would
+# attribute Toni Martí's words to Espot, because the office was his before 2019.
 
-# Cap de Govern. The most frequent substantive speaker in any session: replies to oral questions
-# at length, on the full range of government business, which is exactly the register wanted.
+Albert Font
+Carine Montaner
+Carles Enseñat
+Carles Naudi
+Carles Sánchez
+Ester Molné
+Ester Vilarrubla
+Ferran Costa
+Joan Carles Camp
+Joan Martínez
+Joaquim Miró
+Jordi Cinca
+Jordi Font
+Jordi Gallardo
+Jordi Torres
+Josep Maria Rossell
+Josep Pintat
+Judith Pallarés
+Judith Salazar
+Maria Martisella
+Mònica Bonell
+Oliver Alís
+Pere López
+Roger Padreny
+Rosa Gili
+Susanna Vela
+Sílvia Calvó
+Sílvia Eloïsa Bonet
+Víctor Filloy
+Víctor Naudi
 Xavier Espot
-# The same person, as the Diari prints him in some years. Scoped to his time in office: before
-# 2019 these words are Toni Martí's.
+Èric Jover
+
+# The same person as Xavier Espot above, as the Diari prints him in some years. Scoped to his term.
 cap de Govern [2019-2026]
 
-# Conseller general. Requested by the PO alongside Espot so the corpus carries both sides of the
-# chamber — a subcorpus built only from government replies would teach one rhetorical posture.
+# Requested by the PO alongside Espot. Kept although he is below the 40-intervention threshold
+# (34), because he was explicitly asked for; his share of the corpus is under 1%.
 Raul Ferré
+
+# Both spellings of the same person appear in the Diari. Listed twice rather than folding accents
+# in the matcher, which would risk merging genuinely different names.
+Eric Jover

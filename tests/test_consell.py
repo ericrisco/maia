@@ -387,19 +387,48 @@ def test_summarise_counts_characters_not_just_documents() -> None:
 
 
 @pytest.mark.unit
-def test_the_shipped_whitelist_uses_the_printed_form_and_scopes_the_office() -> None:
-    """It is the PO's decision (D-0046) which names are in it; it is this test's job that they are
-    written in the form that matches, and that the office alias cannot reach a previous holder."""
+def test_the_shipped_whitelist_is_wide_enough_that_nobody_is_reproducible() -> None:
+    """The measurement that forced this file to grow. With two names, **94% of the corpus was one
+    person** — which teaches an idiolect rather than a register, and is what D7 forbids. Widening
+    to every named speaker with >=40 substantive interventions took the largest share to ~13% and
+    the corpus from 2.1M to 15.9M characters, from PDFs already on disk.
+
+    The assertion is on the *shape* of the list, not its exact contents: the PO may add or remove
+    a name (D-0049), but dropping back to a handful would silently restore the failure.
+    """
     from pathlib import Path
 
     entries = load_whitelist(Path(__file__).resolve().parents[1] / "configs" / "parlamentaris.txt")
-    assert {e.name for e in entries} == {"Xavier Espot", "cap de Govern", "Raul Ferré"}
-    assert "Raul Ferré Bonet" not in {e.name for e in entries}
+    names = {e.name for e in entries}
+    assert len(names) >= 25, "too few speakers: one voice will dominate the corpus again"
+
+    # Offices of the chair are excluded on purpose: "síndica general" has more interventions than
+    # anyone and almost all are procedural, so including them refills the corpus with formulae.
+    assert not {n for n in names if n.lower().startswith(("síndic", "sindic"))}
+
+    # The names the PO asked for by hand are present, in the printed form.
+    assert {"Xavier Espot", "Raul Ferré"} <= names
+    assert "Raul Ferré Bonet" not in names
 
     # 2021: the Diari printed the office, so it must be matched that year.
     assert "cap de Govern" in names_for_year(entries, 2021)
     # 2015: the office was Toni Martí's. Matching it would attribute his words to Espot.
     assert "cap de Govern" not in names_for_year(entries, 2015)
+
+
+@pytest.mark.unit
+def test_both_spellings_of_a_name_are_listed_rather_than_folded() -> None:
+    """The Diari prints "Èric Jover" and "Eric Jover". Listed twice on purpose: folding accents in
+    the matcher would risk merging genuinely different names, and this corpus has 37 speakers."""
+    from pathlib import Path
+
+    names = {
+        e.name
+        for e in load_whitelist(
+            Path(__file__).resolve().parents[1] / "configs" / "parlamentaris.txt"
+        )
+    }
+    assert {"Èric Jover", "Eric Jover"} <= names
 
 
 @pytest.mark.unit
