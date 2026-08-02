@@ -30,7 +30,7 @@ from maia.schemas import (
 )
 
 _NAMESPACE = UUID("6ba7b81b-9dad-11d1-80b4-00c04fd430c8")
-CARD = "# MAIA dataset\n\nReleased under CC-BY-4.0.\n"
+CARD = "# MAIA dataset\n\nReleased under CC-BY-SA-4.0.\n"
 
 
 def document(
@@ -261,7 +261,7 @@ def test_only_cited_sources_need_crediting() -> None:
 
 @pytest.mark.unit
 def test_a_missing_credit_is_a_finding_and_blocks() -> None:
-    """The attribution is what makes the CC-BY-4.0 release lawful, not a formatting nicety."""
+    """The attribution is what makes the release lawful, not a formatting nicety."""
     examples = [example("w", grounding=[WIKI])]
     findings = missing_attributions(examples, CORPUS, CARD)
     assert [finding.kind for finding in findings] == ["missing-attribution"]
@@ -279,7 +279,7 @@ def test_a_credited_source_passes() -> None:
 def test_the_generated_section_states_the_dataset_licence() -> None:
     section = attribution_section([Source.VIQUIPEDIA, Source.JURIDIC])
     assert "## Attributions" in section
-    assert "CC-BY-4.0" in section
+    assert "CC-BY-SA-4.0" in section
     assert "`viquipedia`" in section
 
 
@@ -297,7 +297,7 @@ def test_a_card_without_the_dataset_licence_is_a_finding() -> None:
 
 
 @pytest.mark.unit
-@pytest.mark.parametrize("statement", ["CC-BY-4.0", "cc by 4.0", "Licensed CC-BY-4.0."])
+@pytest.mark.parametrize("statement", ["CC-BY-SA-4.0", "cc by sa 4.0", "Licensed CC-BY-SA-4.0."])
 def test_either_spelling_of_the_licence_counts(statement: str) -> None:
     assert missing_licence_statement(f"# Card\n\n{statement}\n") == []
 

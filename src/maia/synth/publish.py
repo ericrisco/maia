@@ -43,6 +43,9 @@ from maia.corpus.publish import (
     StaleStagingError,
     hf_hub,
 )
+
+# Re-exported explicitly for `mypy --strict`; the definition lives in `maia.licensing`.
+from maia.licensing import DATASET_LICENSE as DATASET_LICENSE
 from maia.schemas import CorpusDocument, DatasetExample, License, Split
 from maia.synth.distribution import TYPE_BANDS, Profile, profile
 from maia.synth.distribution import render as render_profile
@@ -60,11 +63,8 @@ HUB_SPLIT_NAMES = {Split.TRAIN: "train", Split.VAL: "validation", Split.TEST: "t
 #: One file per split, the layout Hugging Face recognises without configuration.
 SPLIT_FILES = {split: f"data/{name}.jsonl" for split, name in HUB_SPLIT_NAMES.items()}
 
-#: Licence of the published dataset. **CC-BY-SA-4.0** rather than CC-BY-4.0: share-alike is viral,
-#: the corpus includes CC-BY-SA-3.0 Viquipèdia text, and an example generated from one of those
-#: passages is a derivative of it (D-0043). Publishing under an incompatible licence is not
-#: something a later commit can undo.
-DATASET_LICENSE = "cc-by-sa-4.0"
+#: Re-exported from :mod:`maia.licensing` — see there for why it is CC-BY-SA-4.0 and why it is
+#: defined once.
 
 
 class FrozenTestSplitError(RuntimeError):

@@ -307,7 +307,7 @@ def test_a_complete_pair_of_cards_has_no_problems() -> None:
 def test_a_dataset_card_without_its_licence_is_a_problem() -> None:
     # The licence appears in the front matter *and* in the attribution section, so removing one
     # does not remove the statement — which is the point. Both have to go for this to fail.
-    stripped = dataset_card(facts()).replace(DATASET_LICENSE, "").replace("CC-BY-4.0", "")
+    stripped = dataset_card(facts()).replace(DATASET_LICENSE, "").replace("CC-BY-SA-4.0", "")
     problems = check_cards(model_card(facts()), stripped)
     assert any("dataset licence" in problem for problem in problems)
 
