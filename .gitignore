@@ -55,3 +55,6 @@ wandb/
 Thumbs.db
 .idea/
 .vscode/
+
+# Audio and other large binaries fetched by the scrapers. Provenance lives in the manifest.
+data/
