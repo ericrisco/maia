@@ -14,6 +14,7 @@ dependencies = [
     "mwparserfromhell>=0.6",
     "pyarrow>=25.0.0",
     "pydantic>=2.9",
+    "pypdf>=6.14.2",
     "pyyaml>=6.0.3",
     "requests>=2.31",
     "trafilatura>=1.8",
@@ -42,6 +43,7 @@ maia-generate-full = "maia.synth.run:main"
 maia-split = "maia.synth.splits:main"
 maia-distribution = "maia.synth.distribution:main"
 maia-publish-dataset = "maia.synth.publish:main"
+maia-consell-diari = "maia.scraping.consell:main"
 maia-latency-gate = "maia.serving.latency:main"
 maia-e2e = "maia.serving.e2e:main"
 maia-endpoint-config = "maia.serving.serverless:main"
@@ -85,6 +87,11 @@ select = [
     "SIM", # flake8-simplify
     "RUF", # ruff-specific
 ]
+
+# The typographic apostrophe is Catalan orthography (`d’acord`), not an accidental homoglyph:
+# this project parses it, repairs it and stores it, so RUF001-3 must not flag it as a lookalike
+# for the ASCII quote. Everything else stays flagged.
+allowed-confusables = ["’"]
 
 [tool.ruff.lint.pydocstyle]
 convention = "google"

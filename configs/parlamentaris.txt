@@ -1,0 +1,50 @@
+# Speaker whitelist for the Diari del Consell General — PLAN M1.05, decided by the PO (D-0046).
+#
+# WHAT THIS IS FOR. The parliamentary subcorpus exists to teach MAIA the **register and lexicon**
+# of formal spoken Andorran Catalan: how people actually argue, qualify and address each other in
+# an Andorran institutional setting, and which words they use. It is grounding and style, and it
+# feeds `registre: andorra_parlat`.
+#
+# WHAT IT IS NOT FOR (D7, and this is not negotiable). It must never be used to reproduce an
+# identifiable person's voice, opinions or positions. Three consequences, each enforced in code
+# rather than left to good intentions:
+#
+#   1. `parse_session` does NOT store the speaker on the resulting §3.1 document. Provenance is
+#      the session URL. You cannot filter the corpus back down to one person afterwards.
+#   2. Generated examples must never attribute a position to a named politician. M6.01
+#      (`publication/compliance.py`) checks this again before anything is published, and flags
+#      attribution near stance vocabulary for PO review.
+#   3. Nothing here changes the licence: these are public-official texts, published by the
+#      chamber itself, and used as such.
+#
+# The reason a whitelist exists at all is the reverse of what it looks like: it *narrows* what is
+# ingested to a small number of speakers whose interventions are long, substantive and in
+# well-formed Catalan, instead of hoovering up every voice in the chamber including procedural
+# one-liners from the chair. Fewer, better, and reviewable.
+#
+# NAMES MUST MATCH THE FORM PRINTED ON THE INTERVENTION, not the one in the attendance list.
+# The Diari prints "M. I. Sr. Raul Ferré Bonet" when taking attendance and "El Sr. Raul Ferré:"
+# above what he actually says. Copying from the attendance list — the obvious place — matches
+# nothing, and the run then succeeds having ingested none of that person. `maia-consell-diari`
+# warns about any entry that never spoke and suggests the printed form; that warning exists
+# because this happened during development.
+#
+# Matching is case-insensitive and whitespace-normalised.
+#
+# OFFICE ALIASES NEED A YEAR RANGE: `name [YYYY-YYYY]`. The Diari does not print a speaker the
+# same way twice across a decade — in 2022 it writes "El Sr. Xavier Espot:" and in 2021 "El Sr.
+# cap de Govern:" for the same person, which cost ~100 interventions before it was noticed. But
+# an unscoped `cap de Govern` would be a worse bug than the one it fixes, because the office
+# belonged to somebody else before 2019: it would attribute one politician's words to another.
+# So an office is only ever whitelisted for the years its holder actually held it.
+
+# Cap de Govern. The most frequent substantive speaker in any session: replies to oral questions
+# at length, on the full range of government business, which is exactly the register wanted.
+Xavier Espot
+# The same person, as the Diari prints him in some years. Scoped to his time in office: before
+# 2019 these words are Toni Martí's.
+cap de Govern [2019-2026]
+
+# Conseller general. Requested by the PO alongside Espot so the corpus carries both sides of the
+# chamber — a subcorpus built only from government replies would teach one rhetorical posture.
+Raul Ferré
