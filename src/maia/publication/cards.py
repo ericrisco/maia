@@ -2,7 +2,7 @@
 
 *"Bilingual (ca/en) model card: motivation, data + method, the F4 4-config matrix
 table, limitations (synthetic, no oral dialect, no legal advice), licenses (model
-Apache 2.0; dataset CC-BY-4.0 with per-source attribution)."*
+Apache 2.0; dataset CC-BY-SA-4.0 with per-source attribution — D-0043)."*
 
 A card is the only part of this project most people will ever read, which makes it
 the one artifact where an omission is not a documentation debt but a
@@ -39,6 +39,11 @@ from pathlib import Path
 from typing import Protocol
 
 from maia.evaluation.matrix import Matrix, render_matrix
+
+# Re-exported explicitly (`as`) so `mypy --strict` treats them as part of this module's
+# surface: callers have always read them from here.
+from maia.licensing import DATASET_LICENSE as DATASET_LICENSE
+from maia.licensing import MODEL_LICENSE as MODEL_LICENSE
 from maia.publication.compliance import ComplianceReport, attribution_section
 from maia.schemas import Source
 
@@ -47,13 +52,8 @@ MODEL_REPO = "ericrisco/maia-12b-it"
 GGUF_REPO = "ericrisco/maia-12b-it-GGUF"
 DATASET_REPO = "ericrisco/andorra-instruct-ca"
 
-#: The plan's licences: the model is Apache 2.0, the dataset CC-BY-4.0.
-MODEL_LICENSE = "apache-2.0"
-#: The dataset licence. **CC-BY-SA-4.0, not CC-BY-4.0** — see D-0043(1). Share-alike is viral:
-#: the corpus includes CC-BY-SA-3.0 Viquipèdia text, and an instruction example generated from a
-#: passage is a derivative of it. Shipping that derivative under a non-share-alike licence would be
-#: incompatible, and publishing under the wrong licence is not something a later commit can undo.
-DATASET_LICENSE = "cc-by-sa-4.0"
+#: Re-exported from :mod:`maia.licensing`, which is the single definition: this module, the HF
+#: upload and the legal gate all have to agree, and when they were three constants they did not.
 
 
 class Language(StrEnum):

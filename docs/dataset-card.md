@@ -19,7 +19,7 @@ task_categories:
 
 ## Attributions
 
-This dataset derives from the sources below. Share-alike sources are credited as their licence requires; the dataset itself is released under **CC-BY-4.0**.
+This dataset derives from the sources below. Share-alike sources are credited as their licence requires; the dataset itself is released under **CC-BY-SA-4.0**, which share-alike obliges rather than merely permits.
 
 - `consell_diari_sessions`
 - `juridic`

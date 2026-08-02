@@ -19,9 +19,11 @@ that it will over-flag, and hands the list to the PO review the plan requires an
 is the point — under-flagging publishes a named politician's position, over-flagging costs an
 afternoon.
 
-**CC-BY-SA attribution: present, per source.** Viquipèdia derivatives require it and the dataset
-ships CC-BY-4.0, so the attribution section is what makes that combination lawful rather than
-convenient. A missing one is not a formatting problem.
+**CC-BY-SA attribution: present, per source.** Viquipèdia derivatives require it, so the
+attribution section is what makes the release lawful rather than convenient. A missing one is not a
+formatting problem. The licence itself comes from :mod:`maia.licensing`: this gate once required
+the card to name a *different* licence than the upload declared, and neither side noticed because
+each was checked against itself.
 
 Its verdict is **advisory to the PO and blocking to the pipeline**: `passed` gates the upload, and
 the report says in words that a green result is not the PO's approval.
@@ -34,6 +36,7 @@ import unicodedata
 from collections.abc import Iterable, Mapping, Sequence
 from dataclasses import dataclass, field
 
+from maia.licensing import DATASET_LICENSE_LABEL, states_dataset_licence
 from maia.schemas import CorpusDocument, DatasetExample, License, Source
 
 #: Licences whose derivatives must be credited in the dataset card.
@@ -186,8 +189,8 @@ def missing_attributions(
 ) -> list[Finding]:
     """Share-alike sources the dataset card fails to credit.
 
-    Not a formatting problem: the CC-BY-SA attribution is what makes shipping the derivative under
-    CC-BY-4.0 lawful rather than merely convenient.
+    Not a formatting problem: the CC-BY-SA attribution is what makes shipping the derivative
+    lawful rather than merely convenient.
     """
     lowered = card.lower()
     return [
@@ -195,7 +198,7 @@ def missing_attributions(
             "missing-attribution",
             f"<{source.value}>",
             f"{source.value} is share-alike and is cited by this dataset, but the card does not "
-            "credit it; the attribution is what makes the CC-BY-4.0 release lawful",
+            f"credit it; the attribution is what makes the {DATASET_LICENSE_LABEL} release lawful",
         )
         for source in sorted(
             sources_needing_attribution(examples, corpus), key=lambda item: item.value
@@ -210,15 +213,14 @@ def missing_licence_statement(card: str) -> list[Finding]:
     A card that credits every source and never says what *this* is licensed under leaves the
     downstream user without the one fact they need.
     """
-    lowered = card.lower()
-    if "cc-by-4.0" in lowered or "cc by 4.0" in lowered:
+    if states_dataset_licence(card):
         return []
     return [
         Finding(
             "missing-licence",
             "<card>",
-            "the card does not state the dataset licence (CC-BY-4.0), so a downstream user cannot "
-            "tell what they may do with it",
+            f"the card does not state the dataset licence ({DATASET_LICENSE_LABEL}), so a "
+            "downstream user cannot tell what they may do with it",
         )
     ]
 
@@ -337,7 +339,8 @@ def attribution_section(sources: Iterable[Source]) -> str:
         "## Attributions",
         "",
         "This dataset derives from the sources below. Share-alike sources are credited as their "
-        "licence requires; the dataset itself is released under **CC-BY-4.0**.",
+        f"licence requires; the dataset itself is released under **{DATASET_LICENSE_LABEL}**, "
+        "which share-alike obliges rather than merely permits.",
         "",
     ]
     lines += [f"- `{source}`" for source in listed]
