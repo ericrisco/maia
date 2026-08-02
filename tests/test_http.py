@@ -2,6 +2,8 @@
 
 from __future__ import annotations
 
+import sys
+from collections.abc import Callable
 from pathlib import Path
 
 import pytest
@@ -11,6 +13,8 @@ from maia.scraping.http import (
     RobotsCache,
     RobotsPolicy,
     polite_fetcher,
+    requests_fetch,
+    requests_fetch_bytes,
     robots_url_for,
 )
 
@@ -211,3 +215,159 @@ def test_polite_fetcher_wires_robots_to_the_same_transport() -> None:
     assert fetcher.fetch("https://www.govern.ad/public") == "<html>ok</html>"
     assert fetcher.fetch("https://www.govern.ad/privat/y") is None
     assert fetcher.disallowed == ["https://www.govern.ad/privat/y"]
+
+
+# ── binary fetching (PDFs, audio) ────────────────────────────────────────────
+
+
+@pytest.mark.unit
+def test_fetch_bytes_honours_robots_the_rate_limit_and_the_cache(tmp_path: Path) -> None:
+    """The binary path is a second code path through the same rules, and a second code path that
+    skipped any of them is the one nobody remembers to audit."""
+    calls: list[str] = []
+    waits: list[float] = []
+    fetcher = PoliteFetcher(
+        lambda url: None,
+        RobotsPolicy.from_text("User-agent: *\nDisallow: /private/\n"),
+        min_interval=5.0,
+        cache_dir=tmp_path,
+        sleep=waits.append,
+        clock=iter([0.0, 0.0, 1.0, 1.0]).__next__,
+        fetch_bytes_fn=_recording(calls, b"%PDF-1.4 ..."),
+    )
+
+    assert fetcher.fetch_bytes("https://x.ad/a.pdf") == b"%PDF-1.4 ..."
+    assert fetcher.fetch_bytes("https://x.ad/private/secret.pdf") is None
+    assert fetcher.disallowed == ["https://x.ad/private/secret.pdf"]
+    # Second call to the same URL is served from disk: no network, no wait.
+    assert fetcher.fetch_bytes("https://x.ad/a.pdf") == b"%PDF-1.4 ..."
+    assert calls == ["https://x.ad/a.pdf"]
+
+
+@pytest.mark.unit
+def test_fetch_bytes_caches_under_its_own_extension(tmp_path: Path) -> None:
+    """A PDF written into the HTML cache slot would be read back as text by `fetch`."""
+    fetcher = PoliteFetcher(
+        lambda url: "<html>page</html>",
+        cache_dir=tmp_path,
+        fetch_bytes_fn=lambda url: b"\x89PDF-binary\xff",
+    )
+    url = "https://x.ad/thing"
+    assert fetcher.fetch_bytes(url) == b"\x89PDF-binary\xff"
+    assert fetcher.fetch(url) == "<html>page</html>"
+    assert {p.suffix for p in tmp_path.iterdir()} == {".bin", ".html"}
+
+
+@pytest.mark.unit
+def test_an_empty_body_is_not_cached_as_a_success(tmp_path: Path) -> None:
+    fetcher = PoliteFetcher(lambda url: None, cache_dir=tmp_path, fetch_bytes_fn=lambda url: b"")
+    assert fetcher.fetch_bytes("https://x.ad/empty.pdf") is None
+    assert list(tmp_path.iterdir()) == []
+
+
+@pytest.mark.unit
+def test_a_fetcher_with_no_binary_transport_says_so_instead_of_decoding_a_pdf() -> None:
+    """Falling back to the text transport would return a PDF decoded as UTF-8: silent corruption
+    that only surfaces as a broken corpus much later."""
+    with pytest.raises(RuntimeError, match="no binary transport"):
+        PoliteFetcher(lambda url: "text").fetch_bytes("https://x.ad/a.pdf")
+
+
+# ── the transports never raise ───────────────────────────────────────────────
+
+
+def _recording(calls: list[str], payload: bytes) -> Callable[[str], bytes]:
+    """A binary transport that records the URLs it was asked for."""
+
+    def _fetch(url: str) -> bytes:
+        calls.append(url)
+        return payload
+
+    return _fetch
+
+
+class FakeRequestError(Exception):
+    """Stands in for `requests.RequestException`, which every real transport error derives from."""
+
+
+def _fake_requests(monkeypatch: pytest.MonkeyPatch, responses: list[object]) -> list[str]:
+    """Install a stand-in `requests` whose GET replays ``responses``.
+
+    A `FakeRequestException` in the list is raised, mirroring `requests.exceptions.ReadTimeout`:
+    it must inherit from the module's `RequestException`, or the test would exercise a different
+    except clause than production does.
+    """
+    import types
+
+    seen: list[str] = []
+    queue = list(responses)
+
+    def _get(url: str, **kwargs: object) -> object:
+        seen.append(url)
+        item = queue.pop(0)
+        if isinstance(item, Exception):
+            raise item
+        return item
+
+    module = types.ModuleType("requests")
+    module.get = _get  # type: ignore[attr-defined]
+    module.RequestException = FakeRequestError  # type: ignore[attr-defined]
+    monkeypatch.setitem(sys.modules, "requests", module)
+    return seen
+
+
+class _Response:
+    def __init__(self, status: int = 200, text: str = "ok", content: bytes = b"ok") -> None:
+        self.status_code = status
+        self.text = text
+        self.content = content
+
+
+@pytest.mark.unit
+def test_a_read_timeout_returns_none_instead_of_killing_the_run(
+    monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    """Learned the hard way: one read timeout 90 sessions into an acquisition propagated out of
+    the transport and ended the whole run, discarding every document already collected."""
+    seen = _fake_requests(monkeypatch, [FakeRequestError("read timed out")] * 3)
+    waits: list[float] = []
+    assert requests_fetch("https://x.ad/a", sleep=waits.append) is None
+    assert len(seen) == 3  # the original try plus DEFAULT_RETRIES
+    assert waits == [1.0, 2.0]  # linear backoff
+
+
+@pytest.mark.unit
+def test_a_transient_failure_is_retried_and_then_succeeds(
+    monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    _fake_requests(monkeypatch, [FakeRequestError("blip"), _Response(text="recovered")])
+    assert requests_fetch("https://x.ad/a", sleep=lambda _: None) == "recovered"
+
+
+@pytest.mark.unit
+def test_an_http_error_is_not_retried(monkeypatch: pytest.MonkeyPatch) -> None:
+    """A 404 on a session that was never published will still be a 404 in two seconds; retrying a
+    considered answer from the server only makes a broken run slower."""
+    seen = _fake_requests(monkeypatch, [_Response(status=404)])
+    assert requests_fetch("https://x.ad/missing", sleep=lambda _: None) is None
+    assert len(seen) == 1
+
+
+@pytest.mark.unit
+def test_the_binary_transport_has_the_same_contract(monkeypatch: pytest.MonkeyPatch) -> None:
+    _fake_requests(monkeypatch, [_Response(content=b"%PDF")])
+    assert requests_fetch_bytes("https://x.ad/a.pdf", sleep=lambda _: None) == b"%PDF"
+
+    _fake_requests(monkeypatch, [FakeRequestError("x")] * 3)
+    assert requests_fetch_bytes("https://x.ad/a.pdf", sleep=lambda _: None) is None
+
+    _fake_requests(monkeypatch, [_Response(status=500)])
+    assert requests_fetch_bytes("https://x.ad/a.pdf", sleep=lambda _: None) is None
+
+
+@pytest.mark.unit
+def test_polite_fetcher_wires_a_binary_transport_by_default() -> None:
+    """Otherwise every caller would have to remember to pass one, and the one who forgets gets a
+    RuntimeError in the middle of a long run."""
+    fetcher = polite_fetcher(lambda url: None, bytes_fn=lambda url: b"x")
+    assert fetcher.fetch_bytes("https://x.ad/a") == b"x"

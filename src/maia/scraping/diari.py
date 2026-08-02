@@ -40,7 +40,13 @@ class SpeakerTurn:
     text: str
 
 
-def _norm_name(name: str) -> str:
+def norm_name(name: str) -> str:
+    """Canonical form for comparing speaker names: collapsed whitespace, lowercased.
+
+    Public because the acquisition layer (:mod:`maia.scraping.consell`) has to compare the same
+    way when it reports whitelist entries that never matched. Two copies of this rule would be
+    two answers to "is this the same speaker".
+    """
     return re.sub(r"\s+", " ", name).strip().lower()
 
 
@@ -99,11 +105,11 @@ def parse_session(
     ``min_chars`` after cleaning are dropped.
     """
     stamp = fetched_at or datetime.now(UTC)
-    allow = {_norm_name(n) for n in whitelist}
+    allow = {norm_name(n) for n in whitelist}
     topics = list(topic) if topic is not None else []
     docs: list[CorpusDocument] = []
     for turn in split_interventions(transcript):
-        if _norm_name(turn.speaker) not in allow:
+        if norm_name(turn.speaker) not in allow:
             continue
         text = clean_oral(turn.text)
         if len(normalize_text(text)) < min_chars:
