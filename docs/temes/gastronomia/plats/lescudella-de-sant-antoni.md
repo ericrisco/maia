@@ -52,3 +52,4 @@ altres parròquies i com es fa allà. **Buit registrat.**
 
 - [El trinxat](./el-trinxat.md) — l'altre plat d'hivern.
 - [Calendari festiu](../../costums/calendari-festiu/calendari-festiu.md) — el 17 de gener.
+- [Les escudelles de Sant Antoni](../../costums/sant-antoni/escudelles-de-sant-antoni.md) — la festa, i el cas de Canillo (*vianda*, *encants*).

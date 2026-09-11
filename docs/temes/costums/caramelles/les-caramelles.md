@@ -1,0 +1,73 @@
+---
+type: article
+title: Les caramelles
+description: Cants de Pasqua que abans recollien ous i ara recullen diners; a Sant Julià el recorregut dura tres hores.
+tema: temes/costums/caramelles
+veu: compilada
+epoca: contemporania
+apte_llengua: false
+font: premsa-andorrana
+timestamp: 2026-09-12T00:35:00Z
+tags: [costums, calendari, musica, pasqua, lexic]
+---
+
+# Les caramelles
+
+## Què són
+
+Cants de **Pasqua**, que se celebren en algunes parròquies d'Andorra. D'origen
+**medieval** i religiós —celebraven la Resurrecció i l'arribada de la
+primavera—, avui tenen **un caire més profà**
+([premsa andorrana](../../../fonts/premsa-andorrana.md)).
+
+## L'etimologia, que val la pena
+
+**Caramelles** ve de **la caramella**, un **instrument rústic de vent**, del
+llatí vulgar ***calamĕlla***, diminutiu de ***calămus***, 'canya'.
+
+La festa porta el nom de l'instrument amb què es feia. I l'instrument porta el
+nom del material amb què es feia: una canya.
+
+## Com es fa
+
+- Canten **grups de nens i adults en format coral**.
+- Surten el **Dissabte Sant a la nit**, o el matí del **Diumenge de
+  Resurrecció**.
+- Es recullen **diners** per fer un **àpat col·lectiu**.
+
+## El detall que s'ha perdut
+
+**Abans no es recollien diners: es recollien ous** —el símbol per excel·lència
+del dia— i amb els ous es feia **una truitada el diumenge de Pasqüetes**.
+
+El pas d'ous a diners és el resum d'un canvi econòmic sencer en una sola
+tradició. I deixa dos mots al corpus: **caramellaires** (els qui canten) i
+**Pasqüetes** (el diumenge següent a Pasqua).
+
+## Per parròquies
+
+- **Ordino** — es manté especialment viva al nucli històric.
+- **Sant Julià de Lòria** — **manté un format únic a Andorra**, i **el
+  recorregut complet de tres hores només es fa aquí**.
+
+Que Sant Julià conservi un format que cap altra parròquia no té és exactament el
+tipus de detall que aquest corpus ha de saber: **Andorra no és homogènia**, i la
+diferència entre parròquies és una de les seves estructures reals.
+
+Les cantades es fan **a totes les parròquies andorranes**, i s'insereixen en un
+circuit pirinenc més ampli —hi ha una Trobada a **Organyà** que el 2026 anava
+per la 25a edició.
+
+## El que falta
+
+- **Les lletres.** Són text cantat en català d'Andorra: si són de composició
+  local i tradicional, poden ser material de
+  [parla](../../../parla/README.md) i no només de temes. **Prioritari.**
+- El format concret de Sant Julià: en què consisteix exactament la singularitat.
+- Qui són les corals i des de quan.
+- Si hi ha caramelles documentades a l'arxiu abans del segle XX.
+
+## Related
+
+- [Calendari festiu](../calendari-festiu/calendari-festiu.md) — Pasqua.
+- [Lèxic d'Andorra](../../llengua/lexic-andorra/lexic-andorra.md) — *caramellaires*, *Pasqüetes*.
