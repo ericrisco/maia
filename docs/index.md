@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**85** documents · **7** fonts · **0** aptes com a model de llengua · **64** temes amb contingut.
+**87** documents · **7** fonts · **0** aptes com a model de llengua · **66** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -165,6 +165,12 @@
 | --- | --- | --- | --- | --- | --- |
 | [Democratització](temes/historia/democratitzacio/democratitzacio.md) | `temes/historia/democratitzacio` | compilada | contemporania | no | `viquipedia-ca` |
 
+## temes/historia/edat-mitjana
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Andorra a l'edat mitjana](temes/historia/edat-mitjana/andorra-a-ledat-mitjana.md) | `temes/historia/edat-mitjana` | compilada | contemporania | no | `viquipedia-ca` |
+
 ## temes/historia/guerres-i-neutralitat
 
 | Document | Tema | Veu | Època | Apte | Font |
@@ -176,6 +182,12 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [El Manual Digest](temes/historia/manual-digest/manual-digest.md) | `temes/historia/manual-digest` | compilada | contemporania | no | `viquipedia-ca` |
+
+## temes/historia/origens
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [La fundació per Carlemany](temes/historia/origens/la-fundacio-per-carlemany.md) | `temes/historia/origens` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/historia/pareatge
 
