@@ -98,6 +98,38 @@ consta com a **particularment influent** en aquesta lluita.
 que va fer la historiografia moderna d'Andorra **era també de les que obrien el
 país a les dones**. No són dues biografies: és una.
 
+## I quan n'hi va haver una, de debò?
+
+Aquesta és la tercera dada, i tanca la sèrie:
+
+| Fita | Any | Qui |
+| --- | --- | --- |
+| **Primera dona elegida en unes eleccions** | **1973** | **Consellera de comú a Escaldes** — nom no localitzat. **Buit registrat** |
+| **Primera dona elegida al Consell General** | **1985** | **Maria Teresa Armengol i Bonet** |
+| **Primera dona al Consell Superior de la Justícia** | **2005** | **Maria Teresa Armengol i Bonet**, altre cop |
+| **Primera síndica general** | **2019** | **Roser Suñé** |
+
+**Dotze anys entre poder ser elegida (1973) i ser-ho (1985).**
+
+El dret no va produir la representació. **Es va guanyar el 1973 el permís de
+presentar-se i van caldre tres legislatures perquè una dona entrés al
+parlament.**
+
+I encara: **Maria Teresa Armengol fa dues primeres** amb vint anys de distància
+—el parlament el 1985, el Consell Superior de la Justícia el 2005— i la primera
+**síndica general** no arriba fins al **2019**, **quaranta-sis anys** després
+del decret de sufragi passiu.
+
+**Les tres xifres juntes són la fitxa:**
+
+> **Poder votar: 1971. Poder ser elegida: 1973. Ser elegida: 1985. Presidir:
+> 2019.**
+
+**Avís de precisió:** la font qualifica Armengol de **primera consellera general
+elegida democràticament**. El corpus deixa marcat que **aquest matís podria
+amagar-ne una d'anterior per una altra via** (designació, substitució). **No
+s'ha comprovat.**
+
 ## Com queda avui
 
 A les **eleccions del 2011**, les dones **superen els homes al parlament per
@@ -128,15 +160,20 @@ de cada moment i no pas a un programa preordenat»**
 
 1. **Els noms de les set** peticionàries de 1967 i **la llista de les 378**.
    **Prioritari.**
-2. **Qui va ser la primera consellera general** i de quin any. Cap de les fonts
-   consultades no ho diu.
-3. **Qui van ser els vots en contra** del 4 de juliol de 1969.
-4. **El text dels decrets** de 1970 i 1973.
-5. **Què deia la premsa** andorrana entre 1967 i 1973.
-6. **Testimoni oral** de dones que van votar el 14 de desembre de 1971. **En
+2. **El nom de la primera dona elegida** —consellera de comú a Escaldes, 1973—
+   que cap font consultada no dona.
+3. Si hi va haver **alguna consellera general abans del 1985** per una via que
+   no fos l'elecció democràtica (vegeu l'avís de precisió).
+4. **Maria Teresa Armengol i Bonet**: biografia, parròquia, any de naixement.
+   La primera parlamentària del país **i no en sabem la parròquia**.
+5. **Qui van ser els vots en contra** del 4 de juliol de 1969.
+6. **El text dels decrets** de 1970 i 1973.
+7. **Què deia la premsa** andorrana entre 1967 i 1973.
+8. **Testimoni oral** de dones que van votar el 14 de desembre de 1971. **En
    viuen.** Material de fase 3.
-7. La **llei de 1975** sobre drets civils de la dona casada.
-8. **El sufragi femení comunal** — anava alhora?
+9. La **llei de 1975** sobre drets civils de la dona casada.
+10. **El sufragi femení comunal** — anava alhora?
+11. **Roser Suñé** i la sindicatura del 2019.
 
 ## Related
 
