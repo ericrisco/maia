@@ -1,7 +1,7 @@
 ---
 type: article
 title: Calendari gastronòmic
-description: Què es menja i quan. A muntanya, el calendari no és costum: és conservació.
+description: "Què es menja i quan. A muntanya, el calendari no és costum sinó conservació."
 tema: temes/gastronomia/calendari-gastronomic
 veu: compilada
 epoca: contemporania

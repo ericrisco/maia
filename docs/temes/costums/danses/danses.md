@@ -1,7 +1,7 @@
 ---
 type: article
 title: Danses — índex
-description: Una fitxa per dansa. Cap d'elles és «andorrana»: totes són d'una parròquia.
+description: "Una fitxa per dansa. Cap d'elles és «andorrana» — totes són d'una parròquia."
 tema: temes/costums/danses
 veu: compilada
 epoca: contemporania

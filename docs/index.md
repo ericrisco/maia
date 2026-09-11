@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**63** documents · **6** fonts · **0** aptes com a model de llengua · **55** temes amb contingut.
+**65** documents · **6** fonts · **0** aptes com a model de llengua · **56** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -14,6 +14,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Danses — índex](temes/costums/danses/danses.md) | `temes/costums/danses` | compilada | contemporania | no | `premsa-andorrana` |
 | [El ball del Cerdà](temes/costums/danses/el-ball-del-cerda.md) | `temes/costums/danses` | compilada | contemporania | no | `premsa-andorrana` |
 | [El contrapàs](temes/costums/danses/el-contrapas.md) | `temes/costums/danses` | compilada | contemporania | no | `premsa-andorrana` |
 | [La marratxa](temes/costums/danses/la-marratxa.md) | `temes/costums/danses` | compilada | contemporania | no | `viquipedia-ca` |
@@ -104,6 +105,12 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Turisme i neu](temes/economia/turisme-i-neu/turisme-i-neu.md) | `temes/economia/turisme-i-neu` | compilada | contemporania | no | `viquipedia-ca` |
+
+## temes/gastronomia/calendari-gastronomic
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Calendari gastronòmic](temes/gastronomia/calendari-gastronomic/calendari-gastronomic.md) | `temes/gastronomia/calendari-gastronomic` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/gastronomia/plats
 
