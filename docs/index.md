@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**189** documents · **23** fonts · **0** aptes com a model de llengua · **96** temes amb contingut.
+**191** documents · **24** fonts · **0** aptes com a model de llengua · **96** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -144,7 +144,9 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Abans dels bancs](temes/economia/banca-i-fiscalitat/abans-dels-bancs.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `cerqueda-banca` |
 | [Banca i fiscalitat](temes/economia/banca-i-fiscalitat/banca-i-fiscalitat.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `viquipedia-ca` |
+| [El Banc Agrícol](temes/economia/banca-i-fiscalitat/el-banc-agricol.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `cerqueda-banca` |
 | [El cas BPA](temes/economia/banca-i-fiscalitat/el-cas-bpa.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `premsa-andorrana` |
 
 ## temes/economia/comerc
@@ -679,6 +681,7 @@
 | --- | --- | --- | --- |
 | [`anglada-origens-parla-andorrana`](fonts/anglada-origens-parla-andorrana.md) | Manuel Anglada i Ferran · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`canturri-usos-i-costums`](fonts/canturri-usos-i-costums.md) | Pere Canturri i Montanya · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`cerqueda-banca`](fonts/cerqueda-banca.md) | Manel Cerqueda i Donadeu · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`consell-general-web`](fonts/consell-general-web.md) | Consell General del Principat d'Andorra | informació institucional pública | si |
 | [`coprincep-frances`](fonts/coprincep-frances.md) | Representació del Copríncep Francès a Andorra | informació institucional pública | si |
 | [`de-la-parte-immigracio-cultura`](fonts/de-la-parte-immigracio-cultura.md) | Isabel de la Parte i Cano · Joan Micó i Ibáñez · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
