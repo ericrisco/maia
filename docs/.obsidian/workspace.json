@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a432e04f5a73dccd",
+        "id": "9ec6055ff13c2683",
         "type": "tabs",
         "children": [
           {
-            "id": "ac22f7b078820fe3",
+            "id": "92ee6c474639a5ea",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gràfica"
+              "type": "markdown",
+              "state": {
+                "file": "temes/llengua/lexic-andorra/lexic-andorra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lexic-andorra"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "temes/llengua/lexic-andorra/lexic-andorra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "temes/llengua/lexic-andorra/lexic-andorra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "temes/llengua/lexic-andorra/lexic-andorra.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -181,8 +188,14 @@
       "bases:Crea una base nova": false
     }
   },
-  "active": "ac22f7b078820fe3",
+  "active": "92ee6c474639a5ea",
   "lastOpenFiles": [
+    "temes/societat/treball/treball.md",
+    "temes/economia/transformacio-economica/transformacio-economica.md",
+    "temes/economia/banca-i-fiscalitat/banca-i-fiscalitat.md",
+    "temes/economia/comerc/comerc.md",
+    "temes/economia/turisme-i-neu/turisme-i-neu.md",
+    "temes/cultura/llegendes/llegendes.md",
     "temes/llengua/morfosintaxi/morfosintaxi.md",
     "temes/llengua/fonetica/fonetica.md",
     "fonts/iec-aldc-andorra.md",
@@ -198,16 +211,10 @@
     "temes/llengua/registres/registres.md",
     "temes/llengua/fraseologia/fraseologia.md",
     "temes/cultura/cultura-popular/cultura-popular.md",
-    "temes/cultura/llegendes/llegendes.md",
     "temes/gastronomia/productes/productes.md",
     "temes/gastronomia/plats/plats.md",
     "temes/llengua/manlleus/manlleus.md",
     "temes/territori/paisatge-construit/paisatge-construit.md",
-    "temes/economia/ramaderia-i-agricultura/ramaderia-i-agricultura.md",
-    "temes/historia/guerres-i-neutralitat/guerres-i-neutralitat.md",
-    "temes/historia/contraban/contraban.md",
-    "temes/economia/tabac/tabac.md",
-    "temes/costums/festes-majors/festes-majors.md",
-    "temes/costums/danses/danses.md"
+    "temes/economia/ramaderia-i-agricultura/ramaderia-i-agricultura.md"
   ]
 }

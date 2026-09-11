@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**36** documents · **6** fonts · **0** aptes com a model de llengua · **36** temes amb contingut.
+**41** documents · **6** fonts · **0** aptes com a model de llengua · **41** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -46,6 +46,18 @@
 | --- | --- | --- | --- | --- | --- |
 | [Llegendes](temes/cultura/llegendes/llegendes.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `viquipedia-ca` |
 
+## temes/economia/banca-i-fiscalitat
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Banca i fiscalitat](temes/economia/banca-i-fiscalitat/banca-i-fiscalitat.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `viquipedia-ca` |
+
+## temes/economia/comerc
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Comerç](temes/economia/comerc/comerc.md) | `temes/economia/comerc` | compilada | contemporania | no | `viquipedia-ca` |
+
 ## temes/economia/ramaderia-i-agricultura
 
 | Document | Tema | Veu | Època | Apte | Font |
@@ -57,6 +69,18 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [El tabac](temes/economia/tabac/tabac.md) | `temes/economia/tabac` | compilada | contemporania | no | `viquipedia-ca` |
+
+## temes/economia/transformacio-economica
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Transformació econòmica](temes/economia/transformacio-economica/transformacio-economica.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `viquipedia-ca` |
+
+## temes/economia/turisme-i-neu
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Turisme i neu](temes/economia/turisme-i-neu/turisme-i-neu.md) | `temes/economia/turisme-i-neu` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/gastronomia/plats
 
@@ -213,6 +237,12 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Immigració](temes/societat/immigracio/immigracio.md) | `temes/societat/immigracio` | compilada | contemporania | no | `viquipedia-ca` |
+
+## temes/societat/treball
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Treball](temes/societat/treball/treball.md) | `temes/societat/treball` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 
 ## temes/territori/paisatge-construit
 
