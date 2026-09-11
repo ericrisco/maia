@@ -44,9 +44,26 @@ Això és exactament el buit que *tu* i *vostè* deixen: una manera de tractar a
 —i Andorra ho és— aquesta casella pragmàtica és precisament la que més fa
 falta.
 
-## El que NO diu aquesta fitxa
+## El que ara SÍ que se sap
 
-**No diu què fan els andorrans.**
+**Hi ha un testimoni directe**, i és precís:
+[l'Andorra dels anys cinquanta](../../vida-quotidiana/convencions-socials/landorra-dels-anys-cinquanta.md)
+recull que **a la vida quotidiana tothom es tractava de tu**, i que **només
+entrar a la Casa Comuna o a la Casa de la Vall el tractament passava a ser
+de vós o de vostè, «encara que fossin parents»**.
+
+**El tractament el marca el lloc, no la relació.** El mateix oncle i nebot es
+tuteixen al carrer i es tracten de vós dins del comú. I l'autor, escrivint el
+**1997**, ho diu en present: «era, **és**».
+
+Això **no tanca** la qüestió —és un sol testimoni, de memòria, sobre un país de
+sis mil habitants— però **dona la hipòtesi de treball**: **tu general,
+vós/vostè institucional**, amb una separació entre registres més neta del que és
+habitual.
+
+## El que encara NO diu aquesta fitxa
+
+**No diu què fan els andorrans avui, ni per generació ni per parròquia.**
 
 Les fonts consultades descriuen **el sistema del català** i **el costum
 pirinenc i rural en general**. Cap d'elles no documenta l'ús real a Andorra:
@@ -92,4 +109,5 @@ recuperar.
 
 - [Registres](../registres/registres.md)
 - [Convencions socials](../../vida-quotidiana/convencions-socials/convencions-socials.md)
+- [L'Andorra dels anys cinquanta](../../vida-quotidiana/convencions-socials/landorra-dels-anys-cinquanta.md) — el testimoni.
 - [La preposició *prop*](../morfosintaxi/la-preposicio-prop.md) — l'altre tret institucional.

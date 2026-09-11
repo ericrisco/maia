@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**139** documents · **11** fonts · **0** aptes com a model de llengua · **90** temes amb contingut.
+**141** documents · **11** fonts · **0** aptes com a model de llengua · **90** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -574,6 +574,8 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Convencions socials](temes/vida-quotidiana/convencions-socials/convencions-socials.md) | `temes/vida-quotidiana/convencions-socials` | compilada | contemporania | no | `iec-vocabulari-andorra` |
+| [La tria de llengua](temes/vida-quotidiana/convencions-socials/la-tria-de-llengua.md) | `temes/vida-quotidiana/convencions-socials` | compilada | contemporania | no | `societat-andorrana-ciencies` |
+| [L'Andorra dels anys cinquanta vista per un foraster](temes/vida-quotidiana/convencions-socials/landorra-dels-anys-cinquanta.md) | `temes/vida-quotidiana/convencions-socials` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 
 ## temes/vida-quotidiana/geografia-mental
 

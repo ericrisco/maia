@@ -43,6 +43,22 @@ constant** en aquest país, no un fet donat. Quan es canvia al castellà, quan n
 es canvia, i què significa fer-ho o no fer-ho, **és probablement la convenció
 social més carregada d'Andorra** — i no està documentada enlloc.
 
+## Aquesta branca ja no és buida
+
+Dues fitxes l'han començada a omplir, totes dues des de la
+**Societat Andorrana de Ciències**:
+
+- **[L'Andorra dels anys cinquanta](./landorra-dels-anys-cinquanta.md)** —
+  testimoni directe: **es donaven la mà cada dia, es tractaven tots de tu,
+  deixaven la porta sense clavar**, i les dones intercalaven **«ai oi»** en
+  parlar.
+- **[La tria de llengua](./la-tria-de-llengua.md)** — la cap del Servei de
+  Política Lingüística documentant **quan es canvia de llengua i què
+  significa**.
+
+El que segueix era el text original d'aquesta fitxa i es manté perquè el
+plantejament continua sent vàlid.
+
 ## L'única expressió que el corpus té
 
 > **fer-se l'andorrà** — 'fer-se el desentès'
