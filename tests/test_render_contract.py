@@ -41,5 +41,5 @@ def test_distingeix_avis_de_error() -> None:
     """R005 avisa i no bloqueja: qui llegeix el contracte ho ha de saber."""
     text = contract(load(SCHEMA))
     assert "R005" in text
-    linia = next(l for l in text.splitlines() if "R005" in l)
+    linia = next(ln for ln in text.splitlines() if "R005" in ln)
     assert "avís" in linia.lower() or "avis" in linia.lower()
