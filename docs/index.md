@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**112** documents · **8** fonts · **0** aptes com a model de llengua · **88** temes amb contingut.
+**115** documents · **9** fonts · **0** aptes com a model de llengua · **89** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -322,11 +322,19 @@
 | --- | --- | --- | --- | --- | --- |
 | [Contacte de llengües](temes/llengua/contacte-de-llengues/contacte-de-llengues.md) | `temes/llengua/contacte-de-llengues` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 
+## temes/llengua/dialectologia
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [El substrat](temes/llengua/dialectologia/el-substrat.md) | `temes/llengua/dialectologia` | compilada | contemporania | no | `molla-catala-andorra` |
+| [És l'andorrà un dialecte?](temes/llengua/dialectologia/es-landorra-un-dialecte.md) | `temes/llengua/dialectologia` | compilada | contemporania | no | `molla-catala-andorra` |
+
 ## temes/llengua/fonetica
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Fonètica](temes/llengua/fonetica/fonetica.md) | `temes/llengua/fonetica` | compilada | contemporania | no | `iec-aldc-andorra` |
+| [La vacil·lació accentual](temes/llengua/fonetica/la-vacillacio-accentual.md) | `temes/llengua/fonetica` | compilada | contemporania | no | `molla-catala-andorra` |
 
 ## temes/llengua/fraseologia
 
@@ -566,5 +574,6 @@
 | [`iec-aldc-andorra`](fonts/iec-aldc-andorra.md) | Institut d'Estudis Catalans | publicació acadèmica de l'IEC, accés obert | pendent |
 | [`iec-vocabulari-andorra`](fonts/iec-vocabulari-andorra.md) | Institut d'Estudis Catalans · Servei de Política Lingüística del Govern d'Andorra | publicació acadèmica de l'IEC, accés obert | pendent |
 | [`llegendes-dandorra-llibre`](fonts/llegendes-dandorra-llibre.md) | Roser Carol i Àlvar Valls · Editorial andorrana | obra literària amb drets reservats | False |
+| [`molla-catala-andorra`](fonts/molla-catala-andorra.md) | Guillem Molla · Universitat de Girona · revista IANUA | publicació acadèmica en accés obert | pendent |
 | [`premsa-andorrana`](fonts/premsa-andorrana.md) | Diari d'Andorra · Altaveu · Bondia · El Periòdic d'Andorra · La Ciutat | contingut periodístic amb drets reservats | False |
 | [`viquipedia-ca`](fonts/viquipedia-ca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
