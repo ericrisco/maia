@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**100** documents · **7** fonts · **0** aptes com a model de llengua · **79** temes amb contingut.
+**102** documents · **7** fonts · **0** aptes com a model de llengua · **81** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -397,11 +397,23 @@
 | [Ràdio Andorra](temes/societat/mitjans/radio-andorra.md) | `temes/societat/mitjans` | compilada | contemporania | no | `viquipedia-ca` |
 | [RTVA](temes/societat/mitjans/rtva.md) | `temes/societat/mitjans` | compilada | contemporania | no | `viquipedia-ca` |
 
+## temes/societat/sanitat
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [La CASS i la sanitat](temes/societat/sanitat/la-cass-i-la-sanitat.md) | `temes/societat/sanitat` | compilada | contemporania | no | `viquipedia-ca` |
+
 ## temes/societat/treball
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Treball](temes/societat/treball/treball.md) | `temes/societat/treball` | compilada | contemporania | no | `iec-vocabulari-andorra` |
+
+## temes/territori/clima-i-muntanya
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [El clima](temes/territori/clima-i-muntanya/el-clima.md) | `temes/territori/clima-i-muntanya` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/territori/fauna-i-flora
 
