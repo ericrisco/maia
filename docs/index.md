@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**41** documents · **6** fonts · **0** aptes com a model de llengua · **41** temes amb contingut.
+**45** documents · **6** fonts · **0** aptes com a model de llengua · **45** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -34,6 +34,12 @@
 | --- | --- | --- | --- | --- | --- |
 | [Meritxell](temes/costums/meritxell/meritxell.md) | `temes/costums/meritxell` | compilada | contemporania | no | `premsa-andorrana` |
 
+## temes/cultura/arquitectura
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [El romànic andorrà](temes/cultura/arquitectura/romanic.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `viquipedia-ca` |
+
 ## temes/cultura/cultura-popular
 
 | Document | Tema | Veu | Època | Apte | Font |
@@ -45,6 +51,12 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Llegendes](temes/cultura/llegendes/llegendes.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `viquipedia-ca` |
+
+## temes/cultura/museus-i-arxius
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Museus i arxius](temes/cultura/museus-i-arxius/museus-i-arxius.md) | `temes/cultura/museus-i-arxius` | compilada | contemporania | no | `consell-general-web` |
 
 ## temes/economia/banca-i-fiscalitat
 
@@ -244,11 +256,23 @@
 | --- | --- | --- | --- | --- | --- |
 | [Treball](temes/societat/treball/treball.md) | `temes/societat/treball` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 
+## temes/territori/geografia-fisica
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Geografia física](temes/territori/geografia-fisica/geografia-fisica.md) | `temes/territori/geografia-fisica` | compilada | contemporania | no | `viquipedia-ca` |
+
 ## temes/territori/paisatge-construit
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Paisatge construït](temes/territori/paisatge-construit/paisatge-construit.md) | `temes/territori/paisatge-construit` | compilada | contemporania | no | `iec-vocabulari-andorra` |
+
+## temes/territori/patrimoni-natural
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [La vall del Madriu-Perafita-Claror](temes/territori/patrimoni-natural/madriu-perafita-claror.md) | `temes/territori/patrimoni-natural` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## Fonts
 

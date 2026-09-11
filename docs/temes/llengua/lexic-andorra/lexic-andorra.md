@@ -77,16 +77,16 @@ explicacions al Govern» no entén el mateix que un barceloní.
 
 No són els gal·licismes generals del català. Aquests només s'usen aquí:
 
-| A Andorra | A Catalunya | De |
-| --- | --- | --- |
-| **reglatge** (dels esquís) | ajust | *réglage* |
-| **enquesta** | investigació | *enquête* |
-| **convivial** (interfície) | amigable | *convivial* |
-| **rentrée** | inici de curs | *rentrée*, pronunciat a la francesa |
-| **lycée** | liceu | *lycée* — aquí no s'ha generalitzat *liceu* |
-| **mutarda** | mostassa | *moutarde* |
-| **buquet** | ram de flors | *bouquet* |
-| **regissor** | encarregat d'explotació agrària | *régisseur* |
+| A Andorra                  | A Catalunya                     | De                                          |
+| -------------------------- | ------------------------------- | ------------------------------------------- |
+| **reglatge** (dels esquís) | ajust                           | *réglage*                                   |
+| **enquesta**               | investigació                    | *enquête*                                   |
+| **convivial** (interfície) | amigable                        | *convivial*                                 |
+| **rentrée**                | inici de curs                   | *rentrée*, pronunciat a la francesa         |
+| **lycée**                  | liceu                           | *lycée* — aquí no s'ha generalitzat *liceu* |
+| **mutarda**                | mostassa                        | *moutarde*                                  |
+| **buquet**                 | ram de flors                    | *bouquet*                                   |
+| **regissor**               | encarregat d'explotació agrària | *régisseur*                                 |
 
 Anglada (1974) en reporta més de ben usuals als anys setanta: *població*,
 *redutable*, *partenari*, *bricolar*, *robinet*.

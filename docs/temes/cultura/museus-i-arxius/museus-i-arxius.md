@@ -1,0 +1,66 @@
+---
+type: article
+title: Museus i arxius
+description: On són les fonts. L'Arxiu Nacional és la porta de tot el que aquest corpus encara no té.
+tema: temes/cultura/museus-i-arxius
+veu: compilada
+epoca: contemporania
+apte_llengua: false
+font: consell-general-web
+timestamp: 2026-09-11T21:30:00Z
+tags: [cultura, arxius, fonts]
+---
+
+# Museus i arxius
+
+## Per què aquest article importa més del que sembla
+
+No és un article de turisme cultural. És **el mapa de les fonts** que a aquest
+corpus li falten.
+
+## L'Arxiu Nacional d'Andorra
+
+Cap a mitjans dels anys noranta, el Consell General hi va **dipositar la seva
+documentació**, incloent-hi milers d'actes conservades des dels orígens de la
+institució, poc després del [Pareatge](../../historia/pareatge/el-pareatge.md)
+([Consell General](../../../fonts/consell-general-web.md)).
+
+També hi ha dipositats **programes emesos per la ràdio i la televisió nacionals**,
+per a la seva preservació i difusió. Això últim té conseqüències directes: si hi
+ha fons d'àudio consultable, és material de la **fase 3** i és el més valuós que
+podria entrar al corpus.
+
+## Les actes històriques
+
+El Consell General està publicant les transcripcions de **prop de 7.500 actes**
+de la seva història, amb resums en català i el text original en la llengua de
+l'època. L'historiador **Jordi Guillamet** les ha anat transcrivint a l'Arxiu
+Nacional, i es publiquen per tandes diverses vegades l'any.
+
+Vuit segles de català andorrà, transcrit per humans i publicat per una
+institució. És, de llarg, **la millor font de llengua històrica** que té aquest
+projecte a l'abast — i entra amb `epoca: historica`, perquè és andorrà autèntic i
+no és català d'avui.
+
+## Els arxius comunals
+
+Cada comú té el seu arxiu. El Govern n'ha publicat guies: Sant Julià de Lòria,
+Canillo i el fons de la casa Bonavida, entre d'altres.
+
+## El que falta — i és la llista de feina
+
+- Accedir a les transcripcions de les actes històriques i incorporar-les.
+- Saber què conté exactament el fons d'RTVA a l'Arxiu Nacional i en quines
+  condicions es consulta.
+- Els museus i les seves col·leccions.
+- El *Diccionari enciclopèdic d'Andorra* (2007) i el *Vocabulari d'Andorra*
+  (1992), citats per l'IEC i no consultats directament.
+
+**Buit registrat, i és el més accionable de tot el corpus**: no és informació que
+no existeixi, és informació que existeix i encara no s'ha anat a buscar.
+
+## Related
+
+- [El Manual Digest](../../historia/manual-digest/manual-digest.md) — el text que hi espera.
+- [El Consell General](../../institucions/consell-general/el-consell-general.md) — qui publica les actes.
+- [Fraseologia](../../llengua/fraseologia/fraseologia.md) — el buit que aquests fons podrien tancar.
