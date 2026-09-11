@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**134** documents · **10** fonts · **0** aptes com a model de llengua · **90** temes amb contingut.
+**135** documents · **11** fonts · **0** aptes com a model de llengua · **90** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -550,6 +550,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Les tautologies toponímiques](temes/territori/toponimia/les-tautologies.md) | `temes/territori/toponimia` | compilada | contemporania | no | `anglada-origens-parla-andorrana` |
 | [La toponímia andorrana](temes/territori/toponimia/toponimia-andorrana.md) | `temes/territori/toponimia` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/territori/urbanisme
@@ -592,6 +593,7 @@
 
 | Id | Titular | Llicència | Redistribució |
 | --- | --- | --- | --- |
+| [`anglada-origens-parla-andorrana`](fonts/anglada-origens-parla-andorrana.md) | Manuel Anglada i Ferran · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`consell-general-web`](fonts/consell-general-web.md) | Consell General del Principat d'Andorra | informació institucional pública | si |
 | [`coprincep-frances`](fonts/coprincep-frances.md) | Representació del Copríncep Francès a Andorra | informació institucional pública | si |
 | [`govern-andorra-web`](fonts/govern-andorra-web.md) | Govern del Principat d'Andorra | informació institucional pública | si |
