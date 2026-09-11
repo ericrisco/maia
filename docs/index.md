@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**31** documents · **5** fonts · **0** aptes com a model de llengua · **31** temes amb contingut.
+**34** documents · **5** fonts · **0** aptes com a model de llengua · **34** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -136,6 +136,12 @@
 | --- | --- | --- | --- | --- | --- |
 | [El Coprincipat](temes/institucions/coprincipat/el-coprincipat.md) | `temes/institucions/coprincipat` | compilada | contemporania | no | `coprincep-frances` |
 
+## temes/institucions/justicia
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [La justícia](temes/institucions/justicia/justicia.md) | `temes/institucions/justicia` | compilada | contemporania | no | `viquipedia-ca` |
+
 ## temes/institucions/quarts-i-veinats
 
 | Document | Tema | Veu | Època | Apte | Font |
@@ -178,11 +184,23 @@
 | --- | --- | --- | --- | --- | --- |
 | [Registres](temes/llengua/registres/registres.md) | `temes/llengua/registres` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 
+## temes/societat/demografia
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Demografia](temes/societat/demografia/demografia.md) | `temes/societat/demografia` | compilada | contemporania | no | `viquipedia-ca` |
+
 ## temes/societat/educacio
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Educació — el sistema triple](temes/societat/educacio/educacio.md) | `temes/societat/educacio` | compilada | contemporania | no | `premsa-andorrana` |
+
+## temes/societat/immigracio
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Immigració](temes/societat/immigracio/immigracio.md) | `temes/societat/immigracio` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/territori/paisatge-construit
 
