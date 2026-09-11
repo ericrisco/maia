@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**136** documents · **11** fonts · **0** aptes com a model de llengua · **90** temes amb contingut.
+**137** documents · **11** fonts · **0** aptes com a model de llengua · **90** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -479,6 +479,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El canvi climàtic a Andorra](temes/territori/clima-i-muntanya/el-canvi-climatic.md) | `temes/territori/clima-i-muntanya` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [El clima](temes/territori/clima-i-muntanya/el-clima.md) | `temes/territori/clima-i-muntanya` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/territori/fauna-i-flora

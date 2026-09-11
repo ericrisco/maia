@@ -24,8 +24,12 @@ Escriure aquí que «a Andorra es beu ratafia» perquè se'n beu a Catalunya ser
 - **L'aigua termal d'Escaldes-Engordany**, que dona nom a la parròquia i és un
   fet material del país. La «cuina termal» surt a les cerques però **sense base
   andorrana verificada**.
-- Si hi ha **vinya a Andorra** —la viticultura d'alta muntanya existeix al
-  Pirineu— **cal comprovar-ho**, no suposar-ho.
+- **Sí que hi ha vinya a Andorra.** Confirmat per una ponència de la
+  **29a Diada Andorrana** sobre **la climatologia en els vins del celler
+  Casa Auvinyà**, d'Esteve Tor i Armengol, enginyer de monts
+  ([canvi climàtic](../../territori/clima-i-muntanya/el-canvi-climatic.md)).
+  **El celler i la viticultura d'alta muntanya andorrana mereixen fitxa pròpia
+  i encara no en tenen.**
 - La **Quaresma** ha deixat llegat al receptari
   ([rebosteria](../rebosteria/la-coca-massegada.md)); **pot haver-ne deixat a les
   begudes**. *(hipòtesi)*
