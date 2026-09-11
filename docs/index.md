@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**34** documents · **5** fonts · **0** aptes com a model de llengua · **34** temes amb contingut.
+**36** documents · **6** fonts · **0** aptes com a model de llengua · **36** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -154,6 +154,12 @@
 | --- | --- | --- | --- | --- | --- |
 | [Contacte de llengües](temes/llengua/contacte-de-llengues/contacte-de-llengues.md) | `temes/llengua/contacte-de-llengues` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 
+## temes/llengua/fonetica
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Fonètica](temes/llengua/fonetica/fonetica.md) | `temes/llengua/fonetica` | compilada | contemporania | no | `iec-aldc-andorra` |
+
 ## temes/llengua/fraseologia
 
 | Document | Tema | Veu | Època | Apte | Font |
@@ -171,6 +177,12 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Manlleus](temes/llengua/manlleus/manlleus.md) | `temes/llengua/manlleus` | compilada | contemporania | no | `iec-vocabulari-andorra` |
+
+## temes/llengua/morfosintaxi
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Morfosintaxi](temes/llengua/morfosintaxi/morfosintaxi.md) | `temes/llengua/morfosintaxi` | compilada | contemporania | no | `iec-aldc-andorra` |
 
 ## temes/llengua/onomastica
 
@@ -214,6 +226,7 @@
 | --- | --- | --- | --- |
 | [`consell-general-web`](fonts/consell-general-web.md) | Consell General del Principat d'Andorra | informació institucional pública | si |
 | [`coprincep-frances`](fonts/coprincep-frances.md) | Representació del Copríncep Francès a Andorra | informació institucional pública | si |
+| [`iec-aldc-andorra`](fonts/iec-aldc-andorra.md) | Institut d'Estudis Catalans | publicació acadèmica de l'IEC, accés obert | pendent |
 | [`iec-vocabulari-andorra`](fonts/iec-vocabulari-andorra.md) | Institut d'Estudis Catalans · Servei de Política Lingüística del Govern d'Andorra | publicació acadèmica de l'IEC, accés obert | pendent |
 | [`premsa-andorrana`](fonts/premsa-andorrana.md) | Diari d'Andorra · Altaveu · Bondia · El Periòdic d'Andorra · La Ciutat | contingut periodístic amb drets reservats | False |
 | [`viquipedia-ca`](fonts/viquipedia-ca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

@@ -183,6 +183,9 @@
   },
   "active": "ac22f7b078820fe3",
   "lastOpenFiles": [
+    "temes/llengua/morfosintaxi/morfosintaxi.md",
+    "temes/llengua/fonetica/fonetica.md",
+    "fonts/iec-aldc-andorra.md",
     "temes/institucions/justicia/justicia.md",
     "temes/societat/immigracio/immigracio.md",
     "temes/societat/demografia/demografia.md",
@@ -205,9 +208,6 @@
     "temes/historia/contraban/contraban.md",
     "temes/economia/tabac/tabac.md",
     "temes/costums/festes-majors/festes-majors.md",
-    "temes/costums/danses/danses.md",
-    "temes/costums/falles/falles.md",
-    "temes/costums/calendari-festiu/calendari-festiu.md",
-    "temes/costums/meritxell/meritxell.md"
+    "temes/costums/danses/danses.md"
   ]
 }
