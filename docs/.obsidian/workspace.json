@@ -11,10 +11,14 @@
             "id": "92ee6c474639a5ea",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gràfica"
+              "type": "markdown",
+              "state": {
+                "file": "temes/gastronomia/plats/lescudella-de-sant-antoni.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lescudella-de-sant-antoni"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "temes/gastronomia/plats/lescudella-de-sant-antoni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "temes/gastronomia/plats/lescudella-de-sant-antoni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "temes/gastronomia/plats/lescudella-de-sant-antoni.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,6 +190,12 @@
   },
   "active": "92ee6c474639a5ea",
   "lastOpenFiles": [
+    "temes/llengua/lexic-andorra/glossari-de-mots-documentats.md",
+    "temes/llengua/onomastica/els-gentilicis.md",
+    "temes/llengua/morfosintaxi/la-preposicio-prop.md",
+    "temes/llengua/morfosintaxi/la-negacio-amb-cap.md",
+    "temes/gastronomia/plats/plats.md",
+    "temes/gastronomia/productes/productes.md",
     "temes/territori/toponimia/toponimia-andorrana.md",
     "temes/societat/mitjans/rtva.md",
     "temes/societat/mitjans/radio-andorra.md",
@@ -202,12 +215,6 @@
     "temes/cultura/arquitectura/sant-joan-de-caselles.md",
     "temes/gastronomia/calendari-gastronomic/calendari-gastronomic.md",
     "temes/institucions/simbols/simbols.md",
-    "temes/institucions/simbols/el-gran-carlemany.md",
-    "temes/cultura/musica-i-cancons/musica-i-cancons.md",
-    "temes/gastronomia/plats/lescudella-de-sant-antoni.md",
-    "temes/gastronomia/plats/el-trinxat.md",
-    "temes/costums/danses/el-ball-del-cerda.md",
-    "temes/costums/danses/la-marratxa.md",
-    "temes/costums/danses/el-contrapas.md"
+    "temes/institucions/simbols/el-gran-carlemany.md"
   ]
 }

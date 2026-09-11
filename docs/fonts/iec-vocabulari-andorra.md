@@ -3,6 +3,8 @@ type: font
 id: iec-vocabulari-andorra
 title: "El vocabulari andorrà i el seu reconeixement normatiu"
 titular: Institut d'Estudis Catalans · Servei de Política Lingüística del Govern d'Andorra
+autor: Joan Sans Urgell (Servei de Política Lingüística d'Andorra)
+publicacio: II Jornades de la Secció Filològica de l'IEC a Andorra, p. 43-60 (ed. 2014)
 url: https://publicacions.iec.cat/repository/pdf/00000209/00000065.pdf
 llicencia: publicació acadèmica de l'IEC, accés obert
 redistribucio: pendent

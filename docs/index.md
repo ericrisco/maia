@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**81** documents · **7** fonts · **0** aptes com a model de llengua · **64** temes amb contingut.
+**85** documents · **7** fonts · **0** aptes com a model de llengua · **64** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -275,6 +275,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Glossari de mots andorrans documentats](temes/llengua/lexic-andorra/glossari-de-mots-documentats.md) | `temes/llengua/lexic-andorra` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 | [Lèxic andorrà](temes/llengua/lexic-andorra/lexic-andorra.md) | `temes/llengua/lexic-andorra` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 
 ## temes/llengua/manlleus
@@ -287,12 +288,15 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [La negació amb *cap*](temes/llengua/morfosintaxi/la-negacio-amb-cap.md) | `temes/llengua/morfosintaxi` | compilada | contemporania | no | `iec-vocabulari-andorra` |
+| [La preposició *prop*](temes/llengua/morfosintaxi/la-preposicio-prop.md) | `temes/llengua/morfosintaxi` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 | [Morfosintaxi](temes/llengua/morfosintaxi/morfosintaxi.md) | `temes/llengua/morfosintaxi` | compilada | contemporania | no | `iec-aldc-andorra` |
 
 ## temes/llengua/onomastica
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Els gentilicis de les set parròquies](temes/llengua/onomastica/els-gentilicis.md) | `temes/llengua/onomastica` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 | [Onomàstica](temes/llengua/onomastica/onomastica.md) | `temes/llengua/onomastica` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 
 ## temes/llengua/politica-linguistica
