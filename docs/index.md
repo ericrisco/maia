@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**135** documents · **11** fonts · **0** aptes com a model de llengua · **90** temes amb contingut.
+**136** documents · **11** fonts · **0** aptes com a model de llengua · **90** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -232,6 +232,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El cas Amades](temes/historia/historiografia/el-cas-amades.md) | `temes/historia/historiografia` | compilada | contemporania | no | `anglada-origens-parla-andorrana` |
 | [El Diccionari enciclopèdic d'Andorra](temes/historia/historiografia/el-diccionari-enciclopedic.md) | `temes/historia/historiografia` | compilada | contemporania | no | `premsa-andorrana` |
 | [La historiografia andorrana](temes/historia/historiografia/historiografia.md) | `temes/historia/historiografia` | compilada | contemporania | no | `viquipedia-ca` |
 | [La llegenda negra dels passadors](temes/historia/historiografia/la-llegenda-negra-dels-passadors.md) | `temes/historia/historiografia` | compilada | contemporania | no | `societat-andorrana-ciencies` |
