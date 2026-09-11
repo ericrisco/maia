@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**178** documents · **20** fonts · **0** aptes com a model de llengua · **96** temes amb contingut.
+**182** documents · **21** fonts · **0** aptes com a model de llengua · **96** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -78,6 +78,7 @@
 | [Andorra vista de fora](temes/cultura/andorra-vista-de-fora/andorra-vista-de-fora.md) | `temes/cultura/andorra-vista-de-fora` | compilada | contemporania | no | `canturri-usos-i-costums` |
 | [Els descobridors](temes/cultura/andorra-vista-de-fora/els-descobridors.md) | `temes/cultura/andorra-vista-de-fora` | compilada | contemporania | no | `ferrer-percepcio-andorra-exterior` |
 | [La por de fondre's](temes/cultura/andorra-vista-de-fora/la-por-de-fondres.md) | `temes/cultura/andorra-vista-de-fora` | compilada | contemporania | no | `ferrer-percepcio-andorra-exterior` |
+| [Les guies de viatge](temes/cultura/andorra-vista-de-fora/les-guies-de-viatge.md) | `temes/cultura/andorra-vista-de-fora` | compilada | contemporania | no | `lacueva-hoteleria` |
 
 ## temes/cultura/arquitectura
 
@@ -183,6 +184,8 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [De la fonda a l'hotel](temes/economia/turisme-i-neu/de-la-fonda-a-lhotel.md) | `temes/economia/turisme-i-neu` | compilada | contemporania | no | `lacueva-hoteleria` |
+| [Els hostals comunals](temes/economia/turisme-i-neu/els-hostals-comunals.md) | `temes/economia/turisme-i-neu` | compilada | contemporania | no | `lacueva-hoteleria` |
 | [Turisme i neu](temes/economia/turisme-i-neu/turisme-i-neu.md) | `temes/economia/turisme-i-neu` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/gastronomia/calendari-gastronomic
@@ -320,6 +323,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [La taba i el mostassà](temes/institucions/comuns-i-parroquies/la-taba-i-el-mostassa.md) | `temes/institucions/comuns-i-parroquies` | compilada | contemporania | no | `lacueva-hoteleria` |
 | [Les set parròquies i els seus comuns](temes/institucions/comuns-i-parroquies/les-set-parroquies.md) | `temes/institucions/comuns-i-parroquies` | compilada | contemporania | no | `consell-general-web` |
 
 ## temes/institucions/consell-general
@@ -674,6 +678,7 @@
 | [`govern-andorra-web`](fonts/govern-andorra-web.md) | Govern del Principat d'Andorra | informació institucional pública | si |
 | [`iec-aldc-andorra`](fonts/iec-aldc-andorra.md) | Institut d'Estudis Catalans | publicació acadèmica de l'IEC, accés obert | pendent |
 | [`iec-vocabulari-andorra`](fonts/iec-vocabulari-andorra.md) | Institut d'Estudis Catalans · Servei de Política Lingüística del Govern d'Andorra | publicació acadèmica de l'IEC, accés obert | pendent |
+| [`lacueva-hoteleria`](fonts/lacueva-hoteleria.md) | Ludmilla Lacueva i Canut · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`llegendes-dandorra-llibre`](fonts/llegendes-dandorra-llibre.md) | Roser Carol i Àlvar Valls · Editorial andorrana | obra literària amb drets reservats | False |
 | [`mas-pagesos-i-artesans`](fonts/mas-pagesos-i-artesans.md) | David Mas i Canalís · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`molla-catala-andorra`](fonts/molla-catala-andorra.md) | Guillem Molla · Universitat de Girona · revista IANUA | publicació acadèmica en accés obert | pendent |
