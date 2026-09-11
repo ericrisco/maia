@@ -1,0 +1,54 @@
+---
+type: article
+title: La Casa de la Vall
+description: La seu històrica del Consell General, i la cúria que li dóna nom a una paraula.
+tema: temes/institucions/patrimoni-institucional
+veu: compilada
+epoca: contemporania
+apte_llengua: false
+font: iec-vocabulari-andorra
+timestamp: 2026-09-11T22:45:00Z
+tags: [institucions, patrimoni, andorra-la-vella, lexic-marcat]
+---
+
+# La Casa de la Vall
+
+## Què és
+
+La **seu històrica del Consell General**, a
+[Andorra la Vella](../../territori/parroquies/andorra-la-vella/andorra-la-vella.md).
+El parlament d'Andorra hi va tenir la seu durant segles.
+
+## La paraula que en surt
+
+El *Diccionari enciclopèdic d'Andorra* recull **cúria** amb un sentit que no té
+enlloc més: *'sala de judicis de la Casa de la Vall'*
+([IEC](../../../fonts/iec-vocabulari-andorra.md)).
+
+És un cas net del que fa especial el vocabulari andorrà: una paraula llatina
+general —*cúria*, la cort— que aquí s'ha especialitzat fins a designar **una sala
+concreta d'un edifici concret**. El mot no descriu una categoria, descriu un lloc.
+
+## El que falta — i és molt per a un edifici d'aquesta importància
+
+Aquesta fitxa té una paraula ben documentada i cap dada de l'edifici:
+
+- **Quan es va construir** i per a qui. Consta com a casa forta d'una família
+  abans de ser seu del Consell, i cal documentar-ho.
+- Quan la va adquirir el Consell General i en quines circumstàncies.
+- L'**armari de les set claus**, que la tradició situa aquí i que caldria
+  verificar i descriure: se'n diu que guarda l'arxiu i que cal una clau per
+  parròquia per obrir-lo. **Cap font consultada ho confirma encara.**
+- La sala del Consell, la cúria, la capella, la cuina.
+- Quan el Consell General en va marxar a la seu nova i què s'hi fa ara.
+- Els [set mil cinc-centes actes](../../cultura/museus-i-arxius/museus-i-arxius.md)
+  que hi eren dipositades abans d'anar a l'Arxiu Nacional.
+
+**Buit registrat, i dels més visibles**: és probablement l'edifici més conegut del
+país i aquesta fitxa amb prou feines el descriu.
+
+## Related
+
+- [El Consell General](../consell-general/el-consell-general.md) — qui hi seia.
+- [Museus i arxius](../../cultura/museus-i-arxius/museus-i-arxius.md) — on van anar les actes.
+- [Lèxic andorrà](../../llengua/lexic-andorra/lexic-andorra.md) — on viu *cúria*.

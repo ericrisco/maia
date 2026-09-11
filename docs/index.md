@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**48** documents · **6** fonts · **0** aptes com a model de llengua · **45** temes amb contingut.
+**56** documents · **6** fonts · **0** aptes com a model de llengua · **53** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -181,6 +181,12 @@
 | --- | --- | --- | --- | --- | --- |
 | [La justícia](temes/institucions/justicia/justicia.md) | `temes/institucions/justicia` | compilada | contemporania | no | `viquipedia-ca` |
 
+## temes/institucions/patrimoni-institucional
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [La Casa de la Vall](temes/institucions/patrimoni-institucional/casa-de-la-vall.md) | `temes/institucions/patrimoni-institucional` | compilada | contemporania | no | `iec-vocabulari-andorra` |
+
 ## temes/institucions/quarts-i-veinats
 
 | Document | Tema | Veu | Època | Apte | Font |
@@ -270,6 +276,48 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Paisatge construït](temes/territori/paisatge-construit/paisatge-construit.md) | `temes/territori/paisatge-construit` | compilada | contemporania | no | `iec-vocabulari-andorra` |
+
+## temes/territori/parroquies/andorra-la-vella
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Andorra la Vella](temes/territori/parroquies/andorra-la-vella/andorra-la-vella.md) | `temes/territori/parroquies/andorra-la-vella` | compilada | contemporania | no | `viquipedia-ca` |
+
+## temes/territori/parroquies/canillo
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Canillo](temes/territori/parroquies/canillo/canillo.md) | `temes/territori/parroquies/canillo` | compilada | contemporania | no | `viquipedia-ca` |
+
+## temes/territori/parroquies/encamp
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Encamp](temes/territori/parroquies/encamp/encamp.md) | `temes/territori/parroquies/encamp` | compilada | contemporania | no | `viquipedia-ca` |
+
+## temes/territori/parroquies/escaldes-engordany
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Escaldes-Engordany](temes/territori/parroquies/escaldes-engordany/escaldes-engordany.md) | `temes/territori/parroquies/escaldes-engordany` | compilada | contemporania | no | `viquipedia-ca` |
+
+## temes/territori/parroquies/la-massana
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [La Massana](temes/territori/parroquies/la-massana/la-massana.md) | `temes/territori/parroquies/la-massana` | compilada | contemporania | no | `viquipedia-ca` |
+
+## temes/territori/parroquies/ordino
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Ordino](temes/territori/parroquies/ordino/ordino.md) | `temes/territori/parroquies/ordino` | compilada | contemporania | no | `viquipedia-ca` |
+
+## temes/territori/parroquies/sant-julia-de-loria
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Sant Julià de Lòria](temes/territori/parroquies/sant-julia-de-loria/sant-julia-de-loria.md) | `temes/territori/parroquies/sant-julia-de-loria` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/territori/patrimoni-natural
 
