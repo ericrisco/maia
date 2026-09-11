@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**123** documents · **9** fonts · **0** aptes com a model de llengua · **89** temes amb contingut.
+**125** documents · **10** fonts · **0** aptes com a model de llengua · **89** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -209,6 +209,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Els passadors](temes/historia/guerres-i-neutralitat/els-passadors.md) | `temes/historia/guerres-i-neutralitat` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [Guerres i neutralitat](temes/historia/guerres-i-neutralitat/guerres-i-neutralitat.md) | `temes/historia/guerres-i-neutralitat` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/historia/historia-recent
@@ -223,6 +224,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [El Diccionari enciclopèdic d'Andorra](temes/historia/historiografia/el-diccionari-enciclopedic.md) | `temes/historia/historiografia` | compilada | contemporania | no | `premsa-andorrana` |
 | [La historiografia andorrana](temes/historia/historiografia/historiografia.md) | `temes/historia/historiografia` | compilada | contemporania | no | `viquipedia-ca` |
+| [La llegenda negra dels passadors](temes/historia/historiografia/la-llegenda-negra-dels-passadors.md) | `temes/historia/historiografia` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [Lídia Armengol i Vila](temes/historia/historiografia/lidia-armengol-vila.md) | `temes/historia/historiografia` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/historia/manual-digest
@@ -584,4 +586,5 @@
 | [`llegendes-dandorra-llibre`](fonts/llegendes-dandorra-llibre.md) | Roser Carol i Àlvar Valls · Editorial andorrana | obra literària amb drets reservats | False |
 | [`molla-catala-andorra`](fonts/molla-catala-andorra.md) | Guillem Molla · Universitat de Girona · revista IANUA | publicació acadèmica en accés obert | pendent |
 | [`premsa-andorrana`](fonts/premsa-andorrana.md) | Diari d'Andorra · Altaveu · Bondia · El Periòdic d'Andorra · La Ciutat | contingut periodístic amb drets reservats | False |
+| [`societat-andorrana-ciencies`](fonts/societat-andorrana-ciencies.md) | Societat Andorrana de Ciències (Andorra) | publicació acadèmica en accés obert | pendent |
 | [`viquipedia-ca`](fonts/viquipedia-ca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
