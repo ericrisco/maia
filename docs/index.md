@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**171** documents · **18** fonts · **0** aptes com a model de llengua · **95** temes amb contingut.
+**174** documents · **19** fonts · **0** aptes com a model de llengua · **95** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -55,6 +55,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [L'evangelització](temes/costums/religiositat/levangelitzacio.md) | `temes/costums/religiositat` | compilada | contemporania | no | `pujol-fet-religios` |
 | [La religiositat](temes/costums/religiositat/religiositat.md) | `temes/costums/religiositat` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/costums/ritus-de-pas
@@ -252,6 +253,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Andorra a l'edat mitjana](temes/historia/edat-mitjana/andorra-a-ledat-mitjana.md) | `temes/historia/edat-mitjana` | compilada | contemporania | no | `viquipedia-ca` |
+| [Els bisbes d'Urgell](temes/historia/edat-mitjana/els-bisbes-durgell.md) | `temes/historia/edat-mitjana` | compilada | contemporania | no | `pujol-fet-religios` |
 | [L'accés als comunals](temes/historia/edat-mitjana/lacces-als-comunals.md) | `temes/historia/edat-mitjana` | compilada | contemporania | no | `vela-ordinacions-segle-xv` |
 
 ## temes/historia/guerres-i-neutralitat
@@ -290,6 +292,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [El nom d'Andorra](temes/historia/origens/el-nom-dandorra.md) | `temes/historia/origens` | compilada | contemporania | no | `societat-andorrana-ciencies` |
+| [La donació del 988](temes/historia/origens/la-donacio-de-988.md) | `temes/historia/origens` | compilada | contemporania | no | `pujol-fet-religios` |
 | [La fundació per Carlemany](temes/historia/origens/la-fundacio-per-carlemany.md) | `temes/historia/origens` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/historia/pareatge
@@ -667,6 +670,7 @@
 | [`molla-catala-andorra`](fonts/molla-catala-andorra.md) | Guillem Molla · Universitat de Girona · revista IANUA | publicació acadèmica en accés obert | pendent |
 | [`pallares-medicina-andorra`](fonts/pallares-medicina-andorra.md) | Manuel Pallarès i Darsa · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`premsa-andorrana`](fonts/premsa-andorrana.md) | Diari d'Andorra · Altaveu · Bondia · El Periòdic d'Andorra · La Ciutat | contingut periodístic amb drets reservats | False |
+| [`pujol-fet-religios`](fonts/pujol-fet-religios.md) | Mn. Joan Pujol i Balcells · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`ribes-gastronomia-andorrana`](fonts/ribes-gastronomia-andorrana.md) | M. Dolors Ribes i Rogé · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`societat-andorrana-ciencies`](fonts/societat-andorrana-ciencies.md) | Societat Andorrana de Ciències (Andorra) | publicació acadèmica en accés obert | pendent |
 | [`ubach-moviments-socials`](fonts/ubach-moviments-socials.md) | Gabriel Ubach i Valdivia · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
