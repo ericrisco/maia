@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**78** documents · **7** fonts · **0** aptes com a model de llengua · **62** temes amb contingut.
+**81** documents · **7** fonts · **0** aptes com a model de llengua · **64** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -326,6 +326,13 @@
 | --- | --- | --- | --- | --- | --- |
 | [Immigració](temes/societat/immigracio/immigracio.md) | `temes/societat/immigracio` | compilada | contemporania | no | `viquipedia-ca` |
 
+## temes/societat/mitjans
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Ràdio Andorra](temes/societat/mitjans/radio-andorra.md) | `temes/societat/mitjans` | compilada | contemporania | no | `viquipedia-ca` |
+| [RTVA](temes/societat/mitjans/rtva.md) | `temes/societat/mitjans` | compilada | contemporania | no | `viquipedia-ca` |
+
 ## temes/societat/treball
 
 | Document | Tema | Veu | Època | Apte | Font |
@@ -391,6 +398,12 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [La vall del Madriu-Perafita-Claror](temes/territori/patrimoni-natural/madriu-perafita-claror.md) | `temes/territori/patrimoni-natural` | compilada | contemporania | no | `viquipedia-ca` |
+
+## temes/territori/toponimia
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [La toponímia andorrana](temes/territori/toponimia/toponimia-andorrana.md) | `temes/territori/toponimia` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## Fonts
 
