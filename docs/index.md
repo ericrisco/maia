@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**77** documents · **7** fonts · **0** aptes com a model de llengua · **61** temes amb contingut.
+**78** documents · **7** fonts · **0** aptes com a model de llengua · **62** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -63,6 +63,12 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Cultura popular](temes/cultura/cultura-popular/cultura-popular.md) | `temes/cultura/cultura-popular` | compilada | contemporania | no | `viquipedia-ca` |
+
+## temes/cultura/literatura
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [La literatura andorrana](temes/cultura/literatura/literatura-andorrana.md) | `temes/cultura/literatura` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/cultura/llegendes
 
