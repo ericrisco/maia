@@ -75,13 +75,14 @@ Aquesta fitxa existeix exactament per això.
 - Quan neix el relat de Carlemany com a mite nacional i **qui el promou** —
   perquè un mite adoptat el 1921 com a himne té una història política moderna,
   no només medieval.
-- Els **andosins**, el poble prerromà que les fonts clàssiques situen aquí: hi
-  ha un article de l'IEC titulat *Adéu als andosins?* que en qüestiona la
-  relació amb Andorra, i **no s'ha llegit**. **Buit registrat, prioritari** — és
-  l'altre pilar del relat d'origen.
+- Els **andosins**: **buit tancat**. Vegeu
+  [el nom d'Andorra](./el-nom-dandorra.md) — la seva menció és un hàpax i la
+  identificació amb Andorra no se sosté. **Els dos pilars del relat d'origen han
+  caigut tots dos.**
 
 ## Related
 
 - [El Gran Carlemany](../../institucions/simbols/el-gran-carlemany.md) — l'himne que el canta.
 - [Andorra a l'edat mitjana](../edat-mitjana/andorra-a-ledat-mitjana.md) — el que sí que va passar.
 - [El Pareatge](../pareatge/el-pareatge.md) — el document fundacional que **sí** és autèntic.
+- [El nom d'Andorra](./el-nom-dandorra.md) — el primer esment real, del 843.

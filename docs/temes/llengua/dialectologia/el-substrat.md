@@ -72,9 +72,10 @@ d'Andorra**, prop d'Argelers de Bigorra, en territori francès.
 
 **Si «Andorra» és un nom que es repeteix en tres llocs del Pirineu i l'Ebre, no
 és un nom únic ni misteriós: és un apel·latiu.** Això hauria d'orientar
-l'etimologia, i és exactament el que
-[la toponímia andorrana](../../territori/toponimia/toponimia-andorrana.md) diu
-que cal fer amb mètode i no amb imaginació.
+l'etimologia — i és exactament la direcció que pren la hipòtesi de Gascón i
+Anglada, que el relaciona amb **indrets d'aigües termals**, com *Dorres*,
+*Dòrria* o *Durro*. Vegeu
+**[el nom d'Andorra](../../historia/origens/el-nom-dandorra.md)**.
 
 ## El que NO hi ha: els àrabs
 
@@ -108,12 +109,16 @@ certa unitat de poble, els andosins»**, dels quals, **per ser immediats a l'era
 cristiana**, «ens poden haver pervingut un nombre imprecís de mots i altres
 trets lingüístics».
 
-**Compte.** Hi ha un article de l'IEC titulat ***Adéu als andosins?*** que
-**qüestiona aquesta relació**, i **no s'ha llegit**
-([historiografia](../../historia/historiografia/historiografia.md)).
+**Compte: això ja no se sosté.** L'article *«Adéu als andosins?»* de **Carles
+Gascón** (SAC, 2022) mostra que **la menció dels andosins és un hàpax** —apareix
+una sola vegada, a Polibi—, que **Anníbal no va passar per Andorra** segons el
+consens, i que **la fonètica no porta d'*andosí* a *andorrà***. El seu nom és
+d'arrel bascoide però correspon a **un dels antropònims més comuns del món
+aquità**, i per tant **no situa cap lloc concret**.
 
-**El corpus té dues fonts que no diuen el mateix i registra les dues.** Molla és
-del 2003; l'article de l'IEC és posterior. **Buit registrat, prioritari.**
+**El corpus té dues fonts que no diuen el mateix i es queda amb la posterior i
+més argumentada.** Molla és del 2003 i dona els andosins per bons; Gascón és del
+2022 i els aparta. Vegeu **[el nom d'Andorra](../../historia/origens/el-nom-dandorra.md)**.
 
 ## La prehistòria que explica el lèxic compartit
 

@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**131** documents · **10** fonts · **0** aptes com a model de llengua · **90** temes amb contingut.
+**132** documents · **10** fonts · **0** aptes com a model de llengua · **90** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -247,6 +247,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El nom d'Andorra](temes/historia/origens/el-nom-dandorra.md) | `temes/historia/origens` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [La fundació per Carlemany](temes/historia/origens/la-fundacio-per-carlemany.md) | `temes/historia/origens` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/historia/pareatge

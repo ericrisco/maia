@@ -84,7 +84,13 @@ d'un topònim ha de dir de quin document surt la forma que cita.**
   Ordino, la Massana, Andorra la Vella, Sant Julià de Lòria, Escaldes-Engordany.
   **Aquesta fitxa no dona l'etimologia de cap d'elles** —només consta que
   Canillo té explicació indoeuropea— i no se n'inventarà cap.
-- **L'etimologia d'«Andorra»**, que té bibliografia pròpia i no s'ha llegit.
+- **L'etimologia d'«Andorra»** ja té fitxa:
+  [el nom d'Andorra](../../historia/origens/el-nom-dandorra.md). Hi consta també
+  que **«Andorra la Vella» ve de *vila d'Andorra*, no de «vella»** — un
+  malentès que ja es feia al segle XIV.
+- ***Anàlisi fisiogràfica de topònims andorrans d'arrel preromana*** (Planas,
+  Gascón, López-Mugartza i Belasko; Govern d'Andorra, **2018**): **la font
+  central d'aquesta branca, identificada i no oberta**.
 - El **Nomenclàtor** complet, que és públic a la cartografia oficial: **4.240
   entrades disponibles**, i el corpus n'ha tocat zero.
 - El treball de Pujal, *Val de Norra*.
