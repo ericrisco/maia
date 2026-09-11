@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**71** documents · **6** fonts · **0** aptes com a model de llengua · **56** temes amb contingut.
+**75** documents · **7** fonts · **0** aptes com a model de llengua · **59** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -197,11 +197,23 @@
 | --- | --- | --- | --- | --- | --- |
 | [El Coprincipat](temes/institucions/coprincipat/el-coprincipat.md) | `temes/institucions/coprincipat` | compilada | contemporania | no | `coprincep-frances` |
 
+## temes/institucions/govern
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [El Govern](temes/institucions/govern/el-govern.md) | `temes/institucions/govern` | compilada | contemporania | no | `govern-andorra-web` |
+
 ## temes/institucions/justicia
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [La justícia](temes/institucions/justicia/justicia.md) | `temes/institucions/justicia` | compilada | contemporania | no | `viquipedia-ca` |
+
+## temes/institucions/nacionalitat-i-residencia
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Nacionalitat i residència](temes/institucions/nacionalitat-i-residencia/nacionalitat-i-residencia.md) | `temes/institucions/nacionalitat-i-residencia` | compilada | contemporania | no | `consell-general-web` |
 
 ## temes/institucions/patrimoni-institucional
 
@@ -264,6 +276,13 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Onomàstica](temes/llengua/onomastica/onomastica.md) | `temes/llengua/onomastica` | compilada | contemporania | no | `iec-vocabulari-andorra` |
+
+## temes/llengua/politica-linguistica
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [La llei de la llengua](temes/llengua/politica-linguistica/la-llei-de-la-llengua.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `govern-andorra-web` |
+| [Qui parla què](temes/llengua/politica-linguistica/qui-parla-que.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `govern-andorra-web` |
 
 ## temes/llengua/registres
 
@@ -361,6 +380,7 @@
 | --- | --- | --- | --- |
 | [`consell-general-web`](fonts/consell-general-web.md) | Consell General del Principat d'Andorra | informació institucional pública | si |
 | [`coprincep-frances`](fonts/coprincep-frances.md) | Representació del Copríncep Francès a Andorra | informació institucional pública | si |
+| [`govern-andorra-web`](fonts/govern-andorra-web.md) | Govern del Principat d'Andorra | informació institucional pública | si |
 | [`iec-aldc-andorra`](fonts/iec-aldc-andorra.md) | Institut d'Estudis Catalans | publicació acadèmica de l'IEC, accés obert | pendent |
 | [`iec-vocabulari-andorra`](fonts/iec-vocabulari-andorra.md) | Institut d'Estudis Catalans · Servei de Política Lingüística del Govern d'Andorra | publicació acadèmica de l'IEC, accés obert | pendent |
 | [`premsa-andorrana`](fonts/premsa-andorrana.md) | Diari d'Andorra · Altaveu · Bondia · El Periòdic d'Andorra · La Ciutat | contingut periodístic amb drets reservats | False |
