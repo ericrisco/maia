@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**137** documents · **11** fonts · **0** aptes com a model de llengua · **90** temes amb contingut.
+**138** documents · **11** fonts · **0** aptes com a model de llengua · **90** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -308,6 +308,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Els andorrans de primera generació](temes/institucions/nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md) | `temes/institucions/nacionalitat-i-residencia` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [Nacionalitat i residència](temes/institucions/nacionalitat-i-residencia/nacionalitat-i-residencia.md) | `temes/institucions/nacionalitat-i-residencia` | compilada | contemporania | no | `consell-general-web` |
 
 ## temes/institucions/patrimoni-institucional
