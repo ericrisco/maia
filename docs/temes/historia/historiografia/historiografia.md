@@ -66,6 +66,46 @@ excursionistes catalans
 es veia Andorra des de fora**, no sobre com vivien ni com parlaven els
 andorrans. Confondre-ho produiria un retrat pintoresc en comptes d'un retrat.
 
+### La bibliografia de fora no és tota igual
+
+Que una obra sobre Andorra l'escrigui un forà **no la desqualifica**. El que la
+qualifica és si l'autor hi va ser i què hi va mirar. **Pere Canturri** en dona
+els dos extrems, i el corpus els ha fitxat a
+[Andorra vista de fora](../../cultura/andorra-vista-de-fora/andorra-vista-de-fora.md):
+
+- **Ben valorada:** ***Andorra ou les hommes d'Airain***, d'**Isabelle Sandy**
+  (novel·la **1923**, pel·lícula **1940**), rodada a les valls.
+- **Mal valorada:** l'adaptació televisiva catalana d'*Entre el torb i la
+  Gestapo*, els directors de la qual «**no coneixien gens aquella Andorra**».
+
+## El plagi que es pot veure a ull nu: les bessones de 1966
+
+Hi ha un cas que **es llegeix sol**, sense arxiu ni erudició, i el documenta
+Canturri ([font](../../../fonts/canturri-usos-i-costums.md)).
+
+La llegenda de la **«Cova de l'Ossa del Pui d'Olivesa»** apareix **gairebé
+idèntica** a dos llibres:
+
+| Obra | Autor | Editorial | Any |
+| --- | --- | --- | --- |
+| *Llegendes d'Andorra* | **Puigsalaric** | Edicions Andorranes | **1966** |
+| *Andorra* | **Montserrat Palau Martí** | Premi Maspons i Camarasa | **1966** |
+
+**El mateix any.** I l'única diferència apreciable entre les dues versions és
+**si l'ós mor d'una destralada o d'un cop de garrot**.
+
+**Per què això importa més del que sembla.** Un detall com l'arma és,
+normalment, **or etnogràfic**: dona l'eina, l'ofici, el gest. Aquí no dona res,
+perquè **la variació no ve de dos informants sinó de dues còpies**. Quan dues
+fonts «independents» divergeixen només en un detall ornamental i coincideixen en
+tota la resta, **no són dues fonts**.
+
+**Regla que se'n deriva per al corpus:** dues aparicions d'una llegenda no en
+fan un fet més sòlid fins que no se sap **d'on va sortir cadascuna**. Vegeu
+[llegendes](../../cultura/llegendes/README.md) i
+[el cas Amades](./el-cas-amades.md), que és el mateix mecanisme una escala més
+amunt.
+
 ## El debat obert sobre els orígens
 
 Hi ha un article de l'**IEC** titulat ***Adéu als andosins?***, que **qüestiona

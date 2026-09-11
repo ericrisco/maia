@@ -108,6 +108,27 @@ amb el que
 [les danses](../../costums/danses/danses.md) del país tenen de pròpiament
 andorrà.
 
+### Precisió: el mateix autor afina la data
+
+**El propi Canturri, en una altra ponència**, dona una cronologia més fina que la
+que fa servir aquí per demolir Fiter
+([Usos i costums d'Andorra, 2002](../../../fonts/canturri-usos-i-costums.md)):
+
+| Versió | Què diu |
+| --- | --- |
+| **Aquí** (contra Fiter) | la sardana **no s'introdueix fins als anys trenta** |
+| **A «Usos i costums»** | els andorrans la **veuen i potser l'aprenen a Barcelona als anys trenta**, però «**no seria fins cap als anys quaranta quan realment es comença a introduir**» |
+
+**No és una contradicció, és un afinament:** anys trenta = contacte; anys
+quaranta = implantació. El corpus es queda amb les dues i no n'esborra cap,
+perquè **contra Fiter serveixen igual** —l'Andorra de finals del XIX no en tenia
+ni contacte.
+
+Els noms que hi van associats: l'ensenyava **Ventura Armengol, «mestre de ca
+l'Orelleta»**, i la cobla va venir després, sota el **Sr. Pantebre** de
+l'**Agrupació sardanista de les Valls**, que tocava flabiol i tamborí — «**en un
+país que mai havia tingut orquestra**».
+
 **4. Les ametlles ensucrades.** Fiter descriu la broma del pastisser que hi
 barreja ametlles salades. És d'Amades.
 
@@ -171,9 +192,14 @@ Tres conseqüències pràctiques:
 
 - **Les 63 citacions andorranes d'Amades**, una per una, **contrastades**.
 - ***Un andorrà lluny del poble***, de Ricard Fiter (1967, 2a ed. 1985).
-- **Pere Canturri Montanya** i la seva obra — **historiador andorrà**, i el
-  corpus no en sap res més.
-- **Quan i com entra la sardana a Andorra.** **Buit registrat, prioritari.**
+- **Pere Canturri Montanya** i la seva obra. El corpus ja en té una segona
+  ponència fitxada
+  ([Usos i costums d'Andorra](../../../fonts/canturri-usos-i-costums.md)) i sap
+  que va ser **primer director del Patrimoni Artístic Nacional**; la resta de la
+  seva obra, no.
+- ~~Quan i com entra la sardana a Andorra~~ — **tancat**: contacte als anys
+  trenta via Barcelona, implantació als quaranta. Vegeu més amunt.
+- **Ventura Armengol** i el **Sr. Pantebre**: qui eren. **Buit registrat.**
 - La **germandat de la Consòrcia** i el seu àpat — el corpus té el mot
   *consòrcia* al [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)
   i cap contingut.

@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**142** documents · **11** fonts · **0** aptes com a model de llengua · **90** temes amb contingut.
+**145** documents · **12** fonts · **0** aptes com a model de llengua · **92** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -30,7 +30,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
-| [Les falles](temes/costums/falles/falles.md) | `temes/costums/falles` | compilada | contemporania | no | `premsa-andorrana` |
+| [Les falles](temes/costums/falles/falles.md) | `temes/costums/falles` | compilada | contemporania | no | `canturri-usos-i-costums` |
 
 ## temes/costums/festes-majors
 
@@ -38,6 +38,12 @@
 | --- | --- | --- | --- | --- | --- |
 | [El calendari de les festes majors](temes/costums/festes-majors/el-calendari-de-les-festes-majors.md) | `temes/costums/festes-majors` | compilada | contemporania | no | `premsa-andorrana` |
 | [Festes majors](temes/costums/festes-majors/festes-majors.md) | `temes/costums/festes-majors` | compilada | contemporania | no | `premsa-andorrana` |
+
+## temes/costums/gegants
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Els gegants](temes/costums/gegants/els-gegants.md) | `temes/costums/gegants` | compilada | contemporania | no | `canturri-usos-i-costums` |
 
 ## temes/costums/meritxell
 
@@ -64,6 +70,12 @@
 | --- | --- | --- | --- | --- | --- |
 | [Les escudelles de Sant Antoni](temes/costums/sant-antoni/escudelles-de-sant-antoni.md) | `temes/costums/sant-antoni` | compilada | contemporania | no | `premsa-andorrana` |
 
+## temes/cultura/andorra-vista-de-fora
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Andorra vista de fora](temes/cultura/andorra-vista-de-fora/andorra-vista-de-fora.md) | `temes/cultura/andorra-vista-de-fora` | compilada | contemporania | no | `canturri-usos-i-costums` |
+
 ## temes/cultura/arquitectura
 
 | Document | Tema | Veu | Època | Apte | Font |
@@ -84,6 +96,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Cultura popular](temes/cultura/cultura-popular/cultura-popular.md) | `temes/cultura/cultura-popular` | compilada | contemporania | no | `viquipedia-ca` |
+| [Els usos i costums, i qui els va inventar](temes/cultura/cultura-popular/els-usos-i-costums.md) | `temes/cultura/cultura-popular` | compilada | contemporania | no | `canturri-usos-i-costums` |
 
 ## temes/cultura/literatura
 
@@ -601,6 +614,7 @@
 | Id | Titular | Llicència | Redistribució |
 | --- | --- | --- | --- |
 | [`anglada-origens-parla-andorrana`](fonts/anglada-origens-parla-andorrana.md) | Manuel Anglada i Ferran · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`canturri-usos-i-costums`](fonts/canturri-usos-i-costums.md) | Pere Canturri i Montanya · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`consell-general-web`](fonts/consell-general-web.md) | Consell General del Principat d'Andorra | informació institucional pública | si |
 | [`coprincep-frances`](fonts/coprincep-frances.md) | Representació del Copríncep Francès a Andorra | informació institucional pública | si |
 | [`govern-andorra-web`](fonts/govern-andorra-web.md) | Govern del Principat d'Andorra | informació institucional pública | si |

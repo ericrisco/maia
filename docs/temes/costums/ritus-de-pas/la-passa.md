@@ -76,11 +76,25 @@ deixa la variant registrada. **No està verificat contra font normativa
 andorrana** —el *Diccionari enciclopèdic d'Andorra* o el *Vocabulari d'Andorra*
 ho haurien de tancar. **Buit registrat.**
 
-## L'altra dansa que apareix
+## L'altra dansa que apareix — i qui és la Dama Blanca
 
 A Sant Julià consta també el **ball de la Dama Blanca**, «tradicional», a la
-plaça Major. **El corpus no en sap res més.** **Buit registrat** — una quarta
-peça de Sant Julià que no estava a cap llista.
+plaça Major.
+
+**Aquest buit s'ha tancat.** La **Dama Blanca és una geganta**: quan Sant Julià
+de Lòria es va fer els seus gegants —després que Andorra la Vella en fes cap al
+1982— **no va copiar Carlemany i la vescomtessa, sinó que en va treure dos d'una
+llegenda local**: el **Rei Moro i la Dama Blanca**
+([font](../../../fonts/canturri-usos-i-costums.md), i vegeu
+[els gegants](../gegants/els-gegants.md)).
+
+De manera que el «ball de la Dama Blanca» **no és una dansa de parella del
+repertori antic**: és el ball d'una figura gegantera laurediana, i per tant és
+**recent**, com les altres.
+
+**El que encara falta:** la **llegenda** del Rei Moro i la Dama Blanca, que
+hauria de tenir fitxa pròpia a
+[llegendes](../../cultura/llegendes/README.md). **Buit registrat.**
 
 ## El que falta
 

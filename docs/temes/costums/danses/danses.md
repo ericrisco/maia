@@ -33,9 +33,29 @@ les fa seves.
 tres parròquies i els veïnats només a Canillo: a Andorra, el detall viu un nivell
 més avall del que un esperaria.
 
+## La sardana no hi és, i és una dada
+
+**La sardana no consta en aquesta llista, i no hi ha d'anar.**
+
+**Pere Canturri** la data
+([font](../../../fonts/canturri-usos-i-costums.md)): els andorrans la **veuen i
+potser l'aprenen a Barcelona als anys trenta**, però «**no seria fins cap als
+anys quaranta quan realment es comença a introduir**». L'ensenyava **Ventura
+Armengol, «mestre de ca l'Orelleta»**, i la cobla va arribar molt més tard sota
+el **Sr. Pantebre**, de l'**Agrupació sardanista de les Valls**, que tocava
+**flabiol i tamborí**.
+
+La frase que ho explica tot: «**en un país que mai havia tingut orquestra**».
+
+Per tant la sardana a Andorra és **importació documentada del segle XX**, no
+repertori propi — i qualsevol text que la presenti com a dansa tradicional
+andorrana està repetint l'anacronisme que va delatar Fiter
+([el cas Amades](../../historia/historiografia/el-cas-amades.md)).
+
 ## El que falta
 
-- El **ball de la Dama Blanca** (Sant Julià), sense fitxa.
+- El **ball de la Dama Blanca** (Sant Julià): ja se'n sap l'origen —**és una
+  geganta**, vegeu [els gegants](../gegants/els-gegants.md)— però no el ball.
 - Les danses de les altres parròquies. Canillo, Encamp, Ordino, la Massana i
   Escaldes-Engordany tenen festa major i cap dansa documentada aquí.
 - Els esbarts: Esbart Dansaire d'Andorra la Vella, Esbart Laurèdia, i els altres.

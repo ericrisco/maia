@@ -1,0 +1,104 @@
+---
+type: article
+title: Els gegants
+description: "Andorra la Vella té gegants des de ~1982. Els va portar un solsoní, representen Carlemany i la vescomtessa de Castellbò, i qui els porta ha de ser de la Gresca gegantera."
+tema: temes/costums/gegants
+veu: compilada
+epoca: contemporania
+apte_llengua: false
+font: canturri-usos-i-costums
+timestamp: 2026-09-12T09:10:00Z
+tags: [costums, gegants, festes-majors, tradicio-inventada]
+---
+
+# Els gegants
+
+## La data
+
+**Cap al 1982.** No abans.
+
+Ho documenta **Pere Canturri i Montanya** el 2002
+([font](../../../fonts/canturri-usos-i-costums.md)), i ho documenta **des de
+dins**: era el director del Patrimoni Artístic Nacional quan va passar.
+
+## Com va anar
+
+| Pas | Què |
+| --- | --- |
+| **El motiu** | El **comú d'Andorra la Vella** volia revifar la **festa major** i «**fer poble**» |
+| **Qui ho proposa** | El director de l'**esbart i orfeó**, un **solsoní: mestre Roure** |
+| **D'on ve la idea** | Roure tenia **un amic geganter** — la tradició gegantera és del Solsonès, no d'Andorra |
+| **Qui representen** | **Carlemany** i la **vescomtessa de Castellbò** |
+| **Per què aquests** | «**pensant que així s'andorranitzaven**» |
+
+I la frase que ho tanca, de Canturri:
+
+> «**És evident que no era una representació espontània del poble.**»
+
+## Per què Carlemany i la vescomtessa
+
+Perquè són **les dues figures que donen ascendència al país**, i triar-les és una
+decisió d'identitat, no de folklore:
+
+- **Carlemany** és el fundador del [mite fundacional](../../historia/origens/la-fundacio-per-carlemany.md),
+  el del *Pare Carlemany*, l'himne.
+- La **vescomtessa de Castellbò** és la branca per on entra el
+  [Pareatge](../../historia/pareatge/el-pareatge.md) i, en última instància, el
+  [copríncep francès](../../institucions/coprincipat/el-coprincipat.md).
+
+Dit d'una altra manera: **es van fabricar dos gegants que expliquen la
+constitució històrica del país**. La forma és importada; el contingut és
+deliberadament andorrà. Aquest és exactament el mecanisme que Canturri assenyala
+amb «pensant que així s'andorranitzaven».
+
+## Qui els pot portar
+
+Els portadors **han de pertànyer a l'associació «Gresca gegantera»**.
+
+Aquest detall és el que sosté la [tesi general de Canturri](../../cultura/cultura-popular/els-usos-i-costums.md):
+la participació ha deixat de ser oberta i ha passat a ser **associativa**. Per
+fer de geganter no n'hi ha prou de ser-hi: cal ser-ne soci.
+
+## Els gegants de Sant Julià
+
+Després d'Andorra la Vella, **Sant Julià de Lòria es va fer els seus**, i aquí hi
+ha una diferència que importa: **no va copiar els personatges, en va treure dos
+d'una llegenda local**.
+
+Són **el Rei Moro i la Dama Blanca**.
+
+Això **resol un buit obert** del corpus: la fitxa de
+[la Passa](../ritus-de-pas/la-passa.md) registrava un «**ball de la Dama
+Blanca**» a la plaça Major de Sant Julià sense saber d'on sortia. **En surt
+d'aquí**: la Dama Blanca és **una geganta**, i la llegenda que la sosté és
+laurediana.
+
+## El que això vol dir per al corpus
+
+Els gegants són el cas net del patró que travessa tota la branca de
+[costums](../README.md): **una tradició amb data, autor conegut i origen forà,
+que funciona igualment com a identitat**.
+
+Un model que descrigui els gegants d'Andorra com a «tradició secular» estarà
+inventant. Un que digui «des dels anys vuitanta, quan el comú va voler revifar la
+festa major» estarà dient el que va passar — **i encara és una cosa bonica de
+dir**.
+
+## Buits registrats
+
+1. **La data exacta** i l'acta del comú que ho va acordar. Canturri dona «cap al
+   1982»; la font primària és municipal.
+2. **Mestre Roure**: nom complet, biografia, què hi feia a Andorra.
+3. **Qui va construir els gegants** — l'amic geganter del Solsonès.
+4. **La llegenda del Rei Moro i la Dama Blanca** de Sant Julià, sencera. Hauria
+   de tenir fitxa pròpia a [llegendes](../../cultura/llegendes/README.md).
+5. **La «Gresca gegantera»**: fundació, estatuts, si encara existeix.
+6. Si **altres parròquies** tenen gegants.
+
+## Related
+
+- [Els usos i costums, i qui els va inventar](../../cultura/cultura-popular/els-usos-i-costums.md) — el marc.
+- [La Passa](../ritus-de-pas/la-passa.md) — on apareixia la Dama Blanca sense explicació.
+- [Festes majors](../festes-majors/festes-majors.md) — el dia que surten.
+- [La fundació per Carlemany](../../historia/origens/la-fundacio-per-carlemany.md) — qui és el gegant gran.
+- [El Pareatge](../../historia/pareatge/el-pareatge.md) — d'on ve la vescomtessa.
