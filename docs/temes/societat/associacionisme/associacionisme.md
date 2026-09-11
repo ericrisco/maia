@@ -1,0 +1,71 @@
+---
+type: article
+title: L'associacionisme
+description: "Branca poc documentada, amb dues associacions conegudes i una intuïció per verificar."
+tema: temes/societat/associacionisme
+veu: compilada
+epoca: contemporania
+apte_llengua: false
+font: viquipedia-ca
+timestamp: 2026-09-12T06:45:00Z
+tags: [societat, associacionisme, vida-civica, buit]
+---
+
+# L'associacionisme
+
+## El poc que el corpus sap
+
+| Entitat | Què és | Des de |
+| --- | --- | --- |
+| **AEPA** | Associació d'Escriptors del Principat d'Andorra | **1995** |
+| **Comitè Olímpic Andorrà** | **26 federacions**, 18 d'olímpiques | — |
+| **Federació Andorrana de Muntanyisme** | Publica informació sobre els parcs naturals | — |
+
+([literatura](../../cultura/literatura/literatura-andorrana.md),
+[esport](../esport/lesport.md))
+
+**Tres entrades. És tot.** I dues surten d'haver investigat una altra cosa.
+
+## La intuïció que cal verificar
+
+Hi ha un patró visible en el poc que hi ha: **l'AEPA es funda el 1995, dos anys
+després de la Constitució**, igual que [RTVA](../mitjans/rtva.md) neix el 1990 i
+la televisió pública el 1995.
+
+Sembla que **la societat civil organitzada d'Andorra és majoritàriament
+posterior a la Constitució de 1993**, i que el país es va dotar d'estructures
+civils modernes al mateix temps que d'estructures estatals modernes.
+
+**És una hipòtesi i s'escriu com a tal.** Podria ser fals: les **confraries**,
+les **societats de caçadors**, els **cors** i les entitats de festa poden ser
+molt més antigues, i **el corpus no n'ha mirat cap**.
+
+## El que falta, que és pràcticament tot
+
+- El **registre d'associacions** d'Andorra i la seva llei. **Ha d'existir i no
+  s'ha buscat.**
+- Les **corals**, que canten [les caramelles](../../costums/caramelles/les-caramelles.md)
+  i que **tenen nom i data** que el corpus no té.
+- Les **colles de falles**, que organitzen un Patrimoni Immaterial de la
+  Humanitat ([falles](../../costums/falles/falles.md)).
+- Les **entitats de festa major** parròquia per parròquia.
+- L'**associacionisme de la immigració**: amb un **54,7 %** de població
+  estrangera i el **portuguès** com a tercera llengua materna, hi ha
+  necessàriament teixit associatiu de comunitats — **i el corpus no en diu res**.
+  **Buit registrat, prioritari**, perquè és mitja població.
+- Els **sindicats** i les patronals.
+- Les entitats de **caça, pesca i muntanya**, que en un país així pesen.
+
+## Per què això importa per a maia
+
+L'associacionisme és **on la gent parla en públic sense ser institució**: una
+assemblea de colla, una junta d'una coral, una entitat de barri. És un registre
+**intermedi entre l'institucional i l'espontani**, i el corpus de
+[parla](../../../parla/README.md) el necessita precisament perquè és el que
+falta entre els dos que ja té previstos.
+
+## Related
+
+- [Vida cívica](../vida-civica/vida-civica.md)
+- [Quarts i veïnats](../../institucions/quarts-i-veinats/quarts-i-veinats.md) — l'associacionisme que sí que és institució.
+- [Immigració](../immigracio/immigracio.md)

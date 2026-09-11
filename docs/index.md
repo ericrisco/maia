@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**102** documents · **7** fonts · **0** aptes com a model de llengua · **81** temes amb contingut.
+**108** documents · **7** fonts · **0** aptes com a model de llengua · **87** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -49,6 +49,12 @@
 | --- | --- | --- | --- | --- | --- |
 | [La religiositat](temes/costums/religiositat/religiositat.md) | `temes/costums/religiositat` | compilada | contemporania | no | `viquipedia-ca` |
 
+## temes/costums/ritus-de-pas
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Els ritus de pas](temes/costums/ritus-de-pas/ritus-de-pas.md) | `temes/costums/ritus-de-pas` | compilada | contemporania | no | `iec-vocabulari-andorra` |
+
 ## temes/costums/sant-antoni
 
 | Document | Tema | Veu | Època | Apte | Font |
@@ -63,6 +69,12 @@
 | [Sant Joan de Caselles](temes/cultura/arquitectura/sant-joan-de-caselles.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `viquipedia-ca` |
 | [Sant Martí de la Cortinada](temes/cultura/arquitectura/sant-marti-de-la-cortinada.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `viquipedia-ca` |
 | [Sant Romà de les Bons](temes/cultura/arquitectura/sant-roma-de-les-bons.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `viquipedia-ca` |
+
+## temes/cultura/arts-visuals
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Les arts visuals](temes/cultura/arts-visuals/arts-visuals.md) | `temes/cultura/arts-visuals` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/cultura/cultura-popular
 
@@ -360,6 +372,12 @@
 | --- | --- | --- | --- | --- | --- |
 | [El tractament](temes/llengua/tractament/el-tractament.md) | `temes/llengua/tractament` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 
+## temes/societat/associacionisme
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [L'associacionisme](temes/societat/associacionisme/associacionisme.md) | `temes/societat/associacionisme` | compilada | contemporania | no | `viquipedia-ca` |
+
 ## temes/societat/demografia
 
 | Document | Tema | Veu | Època | Apte | Font |
@@ -408,6 +426,12 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Treball](temes/societat/treball/treball.md) | `temes/societat/treball` | compilada | contemporania | no | `iec-vocabulari-andorra` |
+
+## temes/societat/vida-civica
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [La vida cívica](temes/societat/vida-civica/vida-civica.md) | `temes/societat/vida-civica` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/territori/clima-i-muntanya
 
@@ -487,6 +511,12 @@
 | --- | --- | --- | --- | --- | --- |
 | [La toponímia andorrana](temes/territori/toponimia/toponimia-andorrana.md) | `temes/territori/toponimia` | compilada | contemporania | no | `viquipedia-ca` |
 
+## temes/territori/urbanisme
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [L'urbanisme](temes/territori/urbanisme/urbanisme.md) | `temes/territori/urbanisme` | compilada | contemporania | no | `iec-vocabulari-andorra` |
+
 ## temes/vida-quotidiana/com-funciona-tot
 
 | Document | Tema | Veu | Època | Apte | Font |
@@ -504,6 +534,12 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [La geografia mental](temes/vida-quotidiana/geografia-mental/geografia-mental.md) | `temes/vida-quotidiana/geografia-mental` | compilada | contemporania | no | `iec-vocabulari-andorra` |
+
+## temes/vida-quotidiana/humor
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [L'humor](temes/vida-quotidiana/humor/lhumor.md) | `temes/vida-quotidiana/humor` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 
 ## temes/vida-quotidiana/referents-compartits
 
