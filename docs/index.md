@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**118** documents · **9** fonts · **0** aptes com a model de llengua · **89** temes amb contingut.
+**122** documents · **9** fonts · **0** aptes com a model de llengua · **89** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -103,6 +103,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [L'Arxiu Nacional d'Andorra](temes/cultura/museus-i-arxius/larxiu-nacional.md) | `temes/cultura/museus-i-arxius` | compilada | contemporania | no | `viquipedia-ca` |
 | [Museus i arxius](temes/cultura/museus-i-arxius/museus-i-arxius.md) | `temes/cultura/museus-i-arxius` | compilada | contemporania | no | `consell-general-web` |
 
 ## temes/cultura/musica-i-cancons
@@ -220,7 +221,9 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El Diccionari enciclopèdic d'Andorra](temes/historia/historiografia/el-diccionari-enciclopedic.md) | `temes/historia/historiografia` | compilada | contemporania | no | `premsa-andorrana` |
 | [La historiografia andorrana](temes/historia/historiografia/historiografia.md) | `temes/historia/historiografia` | compilada | contemporania | no | `viquipedia-ca` |
+| [Lídia Armengol i Vila](temes/historia/historiografia/lidia-armengol-vila.md) | `temes/historia/historiografia` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/historia/manual-digest
 
@@ -295,6 +298,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [La Casa de la Vall](temes/institucions/patrimoni-institucional/casa-de-la-vall.md) | `temes/institucions/patrimoni-institucional` | compilada | contemporania | no | `iec-vocabulari-andorra` |
+| [L'Armari de les Set Claus](temes/institucions/patrimoni-institucional/larmari-de-les-set-claus.md) | `temes/institucions/patrimoni-institucional` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/institucions/quarts-i-veinats
 

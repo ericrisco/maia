@@ -11,10 +11,14 @@
             "id": "92ee6c474639a5ea",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gràfica"
+              "type": "markdown",
+              "state": {
+                "file": "temes/gastronomia/plats/lescudella-de-sant-antoni.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lescudella-de-sant-antoni"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "temes/gastronomia/plats/lescudella-de-sant-antoni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "temes/gastronomia/plats/lescudella-de-sant-antoni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "temes/gastronomia/plats/lescudella-de-sant-antoni.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,6 +190,10 @@
   },
   "active": "92ee6c474639a5ea",
   "lastOpenFiles": [
+    "temes/cultura/museus-i-arxius/larxiu-nacional.md",
+    "temes/institucions/patrimoni-institucional/larmari-de-les-set-claus.md",
+    "temes/historia/historiografia/el-diccionari-enciclopedic.md",
+    "temes/historia/historiografia/lidia-armengol-vila.md",
     "temes/societat/educacio/els-tres-sistemes.md",
     "temes/llengua/politica-linguistica/la-serie-historica.md",
     "temes/llengua/dialectologia/lestandard-contra-la-varietat.md",
@@ -205,10 +216,6 @@
     "temes/cultura/arts-visuals/arts-visuals.md",
     "temes/societat/sanitat/la-cass-i-la-sanitat.md",
     "temes/territori/clima-i-muntanya/el-clima.md",
-    "temes/historia/historiografia/historiografia.md",
-    "temes/vida-quotidiana/referents-compartits/referents-compartits.md",
-    "temes/historia/historia-recent/de-1993-enca.md",
-    "temes/costums/religiositat/religiositat.md",
-    "temes/vida-quotidiana/convencions-socials/convencions-socials.md"
+    "temes/historia/historiografia/historiografia.md"
   ]
 }
