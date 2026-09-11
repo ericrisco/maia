@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**87** documents · **7** fonts · **0** aptes com a model de llengua · **66** temes amb contingut.
+**89** documents · **7** fonts · **0** aptes com a model de llengua · **68** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -335,6 +335,18 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Educació — el sistema triple](temes/societat/educacio/educacio.md) | `temes/societat/educacio` | compilada | contemporania | no | `premsa-andorrana` |
+
+## temes/societat/esport
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [L'esport a Andorra](temes/societat/esport/lesport.md) | `temes/societat/esport` | compilada | contemporania | no | `viquipedia-ca` |
+
+## temes/societat/habitatge
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [La crisi de l'habitatge](temes/societat/habitatge/la-crisi-de-lhabitatge.md) | `temes/societat/habitatge` | compilada | contemporania | no | `premsa-andorrana` |
 
 ## temes/societat/immigracio
 
