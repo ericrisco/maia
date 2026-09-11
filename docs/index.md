@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**127** documents · **10** fonts · **0** aptes com a model de llengua · **89** temes amb contingut.
+**129** documents · **10** fonts · **0** aptes com a model de llengua · **89** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -55,6 +55,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [La Passa](temes/costums/ritus-de-pas/la-passa.md) | `temes/costums/ritus-de-pas` | compilada | contemporania | no | `premsa-andorrana` |
 | [Els ritus de pas](temes/costums/ritus-de-pas/ritus-de-pas.md) | `temes/costums/ritus-de-pas` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 
 ## temes/costums/sant-antoni
@@ -211,6 +212,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Andorrans als camps nazis](temes/historia/guerres-i-neutralitat/andorrans-als-camps-nazis.md) | `temes/historia/guerres-i-neutralitat` | compilada | contemporania | no | `premsa-andorrana` |
 | [Els passadors](temes/historia/guerres-i-neutralitat/els-passadors.md) | `temes/historia/guerres-i-neutralitat` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [Guerres i neutralitat](temes/historia/guerres-i-neutralitat/guerres-i-neutralitat.md) | `temes/historia/guerres-i-neutralitat` | compilada | contemporania | no | `viquipedia-ca` |
 

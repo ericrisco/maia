@@ -49,7 +49,7 @@ es deixa oberta.
 
 El **dilluns de la festa major** de
 [Sant Julià de Lòria](../../territori/parroquies/sant-julia-de-loria/sant-julia-de-loria.md),
-amb la Pasa i el [ball del Cerdà](./el-ball-del-cerda.md).
+amb [la Passa](../ritus-de-pas/la-passa.md) i el [ball del Cerdà](./el-ball-del-cerda.md).
 
 ## El que falta
 

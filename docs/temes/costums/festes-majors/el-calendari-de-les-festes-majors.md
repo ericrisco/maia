@@ -41,7 +41,7 @@ de tancar.
 A Sant Julià **destaquen tres peces, i totes tres es fan el dilluns de la festa
 major**:
 
-1. **La Pasa**
+1. **[La Passa](../ritus-de-pas/la-passa.md)**
 2. **El [ball del Cerdà](../danses/el-ball-del-cerda.md)**
 3. **El [ball de la Marratxa](../danses/la-marratxa.md)**
 
@@ -59,16 +59,14 @@ de retenir. **Per què** — si és per la vitalitat de l'esbart, per la seva po
 al sud, o per una decisió conscient de conservació— **no ho sap ningú aquí.
 Buit registrat.**
 
-## La Pasa
+## La Passa
 
-**El corpus la té pendent des del principi i continua sense fitxa pròpia.**
+**Ja té fitxa**, i va resultar **no ser una dansa**: és **una cercavila de
+parelles de fadrins ordenada per edat**, amb els qui s'han de casar aquell any
+al davant. Vegeu [La Passa](../ritus-de-pas/la-passa.md).
 
-Consta que es fa **el dilluns de la festa major de Sant Julià**, al costat del
-ball del Cerdà i de la marratxa, i el nom apareix sempre en aquest tercet.
-
-**No se'n sap res més aquí**: ni què és, ni com es balla o es fa, ni d'on ve el
-nom. **Buit registrat, prioritari** — és l'última de les tres peces de Sant
-Julià sense documentar.
+El corpus l'havia llistada tres vegades entre les danses del dilluns. **Era un
+ritu de pas.**
 
 ## El que falta
 

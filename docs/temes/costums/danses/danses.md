@@ -20,7 +20,7 @@ tags: [danses, index, patrimoni-immaterial]
 | [El contrapàs](./el-contrapas.md) | Andorra la Vella | Diumenge de festa major, un cop l'any |
 | [La marratxa](./la-marratxa.md) | Sant Julià de Lòria | Dilluns de festa major |
 | [El ball del Cerdà](./el-ball-del-cerda.md) | Sant Julià de Lòria | Dilluns de festa major, a la una |
-| La Pasa | Sant Julià de Lòria | **Sense fitxa encara** |
+| [La Passa](../ritus-de-pas/la-passa.md) | Sant Julià de Lòria | **No és una dansa: és un ritu de pas** |
 
 ## El principi que les ordena
 
@@ -35,7 +35,7 @@ més avall del que un esperaria.
 
 ## El que falta
 
-- **La Pasa**, sense fitxa.
+- El **ball de la Dama Blanca** (Sant Julià), sense fitxa.
 - Les danses de les altres parròquies. Canillo, Encamp, Ordino, la Massana i
   Escaldes-Engordany tenen festa major i cap dansa documentada aquí.
 - Els esbarts: Esbart Dansaire d'Andorra la Vella, Esbart Laurèdia, i els altres.

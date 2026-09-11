@@ -26,13 +26,13 @@ des d'Espanya.
 ## Al seu terme
 
 - Dividida en **quarts**.
-- **La Pasa**, el **ball del Cerdà** i la **[marratxa](../../../costums/danses/danses.md)**, el **dilluns de la festa major**.
+- **[La Passa](../../../costums/ritus-de-pas/la-passa.md)**, el **ball del Cerdà** i la **[marratxa](../../../costums/danses/danses.md)**, el **dilluns de la festa major**.
 - Part de la [vall del Madriu](../../patrimoni-natural/madriu-perafita-claror.md) és al seu terme.
 - **Aixirivall** i **Nagol**, on Riera documenta *tos* en masculí.
 
 ## Les tres danses
 
-La Pasa, el ball del Cerdà i la marratxa mereixen **una fitxa cadascuna** i encara
+La Passa ja té fitxa; el ball del Cerdà i la marratxa també. Hi manca el **ball de la Dama Blanca**, que encara
 no en tenen. Són el cas més clar del principi que ordena aquest corpus: no són
 danses «andorranes», són danses **de Sant Julià**, i dir-ne andorranes és perdre
 exactament el que les fa seves.
