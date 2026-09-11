@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**96** documents · **7** fonts · **0** aptes com a model de llengua · **75** temes amb contingut.
+**98** documents · **7** fonts · **0** aptes com a model de llengua · **77** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -42,6 +42,12 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Meritxell](temes/costums/meritxell/meritxell.md) | `temes/costums/meritxell` | compilada | contemporania | no | `premsa-andorrana` |
+
+## temes/costums/religiositat
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [La religiositat](temes/costums/religiositat/religiositat.md) | `temes/costums/religiositat` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/costums/sant-antoni
 
@@ -182,6 +188,12 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Guerres i neutralitat](temes/historia/guerres-i-neutralitat/guerres-i-neutralitat.md) | `temes/historia/guerres-i-neutralitat` | compilada | contemporania | no | `viquipedia-ca` |
+
+## temes/historia/historia-recent
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [De 1993 ençà](temes/historia/historia-recent/de-1993-enca.md) | `temes/historia/historia-recent` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/historia/manual-digest
 
