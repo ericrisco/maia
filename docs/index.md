@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**141** documents · **11** fonts · **0** aptes com a model de llengua · **90** temes amb contingut.
+**142** documents · **11** fonts · **0** aptes com a model de llengua · **90** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -450,6 +450,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Immigració](temes/societat/immigracio/immigracio.md) | `temes/societat/immigracio` | compilada | contemporania | no | `viquipedia-ca` |
+| [Les comunitats](temes/societat/immigracio/les-comunitats.md) | `temes/societat/immigracio` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 
 ## temes/societat/mitjans
 
