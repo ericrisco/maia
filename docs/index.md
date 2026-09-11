@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**151** documents · **13** fonts · **0** aptes com a model de llengua · **93** temes amb contingut.
+**158** documents · **14** fonts · **0** aptes com a model de llengua · **94** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -188,11 +188,22 @@
 | --- | --- | --- | --- | --- | --- |
 | [Calendari gastronòmic](temes/gastronomia/calendari-gastronomic/calendari-gastronomic.md) | `temes/gastronomia/calendari-gastronomic` | compilada | contemporania | no | `viquipedia-ca` |
 
+## temes/gastronomia/historia-alimentaria
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Com es menjava](temes/gastronomia/historia-alimentaria/com-es-menjava.md) | `temes/gastronomia/historia-alimentaria` | compilada | contemporania | no | `ribes-gastronomia-andorrana` |
+| [El gir dels seixanta](temes/gastronomia/historia-alimentaria/el-gir-dels-seixanta.md) | `temes/gastronomia/historia-alimentaria` | compilada | contemporania | no | `ribes-gastronomia-andorrana` |
+| [El racionament de 1937](temes/gastronomia/historia-alimentaria/el-racionament-de-1937.md) | `temes/gastronomia/historia-alimentaria` | compilada | contemporania | no | `ribes-gastronomia-andorrana` |
+| [L'àpat de la Consòrcia de 1833](temes/gastronomia/historia-alimentaria/lapat-de-la-consorcia-1833.md) | `temes/gastronomia/historia-alimentaria` | compilada | contemporania | no | `ribes-gastronomia-andorrana` |
+| [Les tres taules](temes/gastronomia/historia-alimentaria/les-tres-taules.md) | `temes/gastronomia/historia-alimentaria` | compilada | contemporania | no | `ribes-gastronomia-andorrana` |
+
 ## temes/gastronomia/plats
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [El trinxat](temes/gastronomia/plats/el-trinxat.md) | `temes/gastronomia/plats` | compilada | contemporania | no | `viquipedia-ca` |
+| [Les receptes de Fra Sever d'Olot (1787)](temes/gastronomia/plats/les-receptes-de-fra-sever.md) | `temes/gastronomia/plats` | compilada | contemporania | no | `ribes-gastronomia-andorrana` |
 | [L'escudella de Sant Antoni](temes/gastronomia/plats/lescudella-de-sant-antoni.md) | `temes/gastronomia/plats` | compilada | contemporania | no | `viquipedia-ca` |
 | [Plats — índex](temes/gastronomia/plats/plats.md) | `temes/gastronomia/plats` | compilada | contemporania | no | `viquipedia-ca` |
 
@@ -200,6 +211,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [La trumfa](temes/gastronomia/productes/la-trumfa.md) | `temes/gastronomia/productes` | compilada | contemporania | no | `ribes-gastronomia-andorrana` |
 | [Productes](temes/gastronomia/productes/productes.md) | `temes/gastronomia/productes` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/gastronomia/rebosteria
@@ -635,5 +647,6 @@
 | [`mas-pagesos-i-artesans`](fonts/mas-pagesos-i-artesans.md) | David Mas i Canalís · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`molla-catala-andorra`](fonts/molla-catala-andorra.md) | Guillem Molla · Universitat de Girona · revista IANUA | publicació acadèmica en accés obert | pendent |
 | [`premsa-andorrana`](fonts/premsa-andorrana.md) | Diari d'Andorra · Altaveu · Bondia · El Periòdic d'Andorra · La Ciutat | contingut periodístic amb drets reservats | False |
+| [`ribes-gastronomia-andorrana`](fonts/ribes-gastronomia-andorrana.md) | M. Dolors Ribes i Rogé · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`societat-andorrana-ciencies`](fonts/societat-andorrana-ciencies.md) | Societat Andorrana de Ciències (Andorra) | publicació acadèmica en accés obert | pendent |
 | [`viquipedia-ca`](fonts/viquipedia-ca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
