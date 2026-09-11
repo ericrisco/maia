@@ -1,63 +1,50 @@
 ---
 type: article
-title: Llegendes
-description: La boixeda florida, el Roc de les Bruixes, i la roca que mira el santuari des del bosc.
+title: Llegendes — índex
+description: Les llegendes andorranes, una fitxa cadascuna, i el patró que les travessa.
 tema: temes/cultura/llegendes
 veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: viquipedia-ca
-timestamp: 2026-09-11T18:15:00Z
-tags: [cultura, tradicio-oral, religiositat]
+timestamp: 2026-09-11T22:05:00Z
+tags: [cultura, tradicio-oral, index]
 ---
 
-# Llegendes
+# Llegendes — índex
 
-## La boixeda florida
+Aquesta branca té **una fitxa per llegenda**, no un article que les resumeixi
+totes. Un resum de llegendes no és una llegenda.
 
-La llegenda fundacional del país. Segons el relat, el dia de **Reis** un pastor
-va veure una **boixeda florida a ple hivern** i, a sota, una imatge de la Mare de
-Déu ([Viquipèdia](../../../fonts/viquipedia-ca.md)). Allà hi ha avui el santuari
-de [Meritxell](../../costums/meritxell/meritxell.md).
+## Les fitxes
 
-El motiu —flor impossible fora de temps, senyal, lloc que es converteix en
-santuari— és comú a moltes troballes marianes pirinenques. El que el fa andorrà
-és on va, i què hi va acabar passant: la imatge que la llegenda situa sota el boix
-va cremar el 1972.
+| Llegenda | On | Què hi ha |
+| --- | --- | --- |
+| [La troballa de Meritxell](./la-troballa-de-meritxell.md) | Canillo / Encamp | Relat complet, amb el final institucional del 1873 |
+| [El Roc de les Bruixes](./el-roc-de-les-bruixes.md) | Canillo | La posició documentada; **falta el relat** |
+| [La bruixa de Sornàs](./la-bruixa-de-sornas.md) | Ordino | Tres línies; **falta gairebé tot** |
 
-## El Roc de les Bruixes
-
-A la parròquia de **Canillo**, cobert de gravats. I aquí hi ha el detall que val
-la pena retenir:
-
-> El Roc de les Bruixes és al bosc, **mirant directament el santuari de
-> Meritxell**.
-
-La roca de les bruixes i el santuari de la patrona del país, a la vista l'una de
-l'altre. No cal forçar-ne cap interpretació perquè la geografia ja la fa: les
-dues capes de creença del Pirineu, la cristiana i l'altra, ocupen el mateix
-paisatge i es veuen.
-
-A **Sornàs** hi ha una figura a la roca que representa una dona; la llegenda diu
-que és una bruixa cremada en aquell lloc.
-
-## Les dones a les llegendes
+## El patró: dama blanca, bruixa, Verge
 
 Hi ha un fons documentat sobre la representació de la dona a les llegendes
-andorranes: **dama blanca, bruixa, Verge**. Tres figures que es reparteixen tot
-l'espai simbòlic femení del relat popular, i val la pena mirar-se-les juntes en
-lloc de per separat.
+andorranes, i les figures que s'hi repeteixen són tres: **dama blanca, bruixa i
+Verge** ([Viquipèdia](../../../fonts/viquipedia-ca.md)).
+
+Entre les tres es reparteixen tot l'espai simbòlic femení del relat popular. La
+hipòtesi que val la pena provar —i que **encara no està documentada**— és que no
+són tres motius independents sinó tres posicions d'un mateix sistema.
 
 ## El que falta
 
-Els textos de les llegendes. Aquest article parla **sobre** elles i no en conté
-cap de sencera, que és justament el que tindria valor: la tradició oral és on la
-llengua es deixa anar, i un resum en prosa compilada no ho substitueix.
+Moltes llegendes més. Les que se sap que existeixen i encara no tenen fitxa:
+ponts del Diable, éssers fantàstics, dames blanques, rondalles de pastors.
 
-**Buit registrat**, i és prioritari: si hi ha un lloc del corpus on caldria
-material `veu: originaria`, és aquest.
+I sobretot: **els textos**. Aquesta branca parla *sobre* llegendes i només una
+fitxa en conté el relat sencer. La tradició oral és on la llengua es deixa anar, i
+una paràfrasi en prosa compilada no ho substitueix. El material de veritat és
+`veu: originaria` i arriba amb la fase 3.
 
 ## Related
 
-- [Meritxell](../../costums/meritxell/meritxell.md) — on va anar a parar la llegenda.
-- [Cultura popular](../cultura-popular/cultura-popular.md) — la resta de la tradició oral.
+- [Cultura popular](../cultura-popular/cultura-popular.md) — el mateix problema d'accés.
+- [Meritxell](../../costums/meritxell/meritxell.md) — la festa.

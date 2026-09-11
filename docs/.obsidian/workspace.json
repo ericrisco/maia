@@ -11,14 +11,10 @@
             "id": "92ee6c474639a5ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "temes/llengua/lexic-andorra/lexic-andorra.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lexic-andorra"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gràfica"
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "temes/llengua/lexic-andorra/lexic-andorra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "temes/llengua/lexic-andorra/lexic-andorra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +155,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "temes/llengua/lexic-andorra/lexic-andorra.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,6 +183,12 @@
   },
   "active": "92ee6c474639a5ea",
   "lastOpenFiles": [
+    "temes/institucions/quarts-i-veinats/quarts-i-veinats.md",
+    "temes/cultura/llegendes/la-bruixa-de-sornas.md",
+    "temes/cultura/llegendes/el-roc-de-les-bruixes.md",
+    "temes/cultura/llegendes/la-troballa-de-meritxell.md",
+    "temes/institucions/comuns-i-parroquies/les-set-parroquies.md",
+    "temes/llengua/lexic-andorra/lexic-andorra.md",
     "temes/cultura/museus-i-arxius/museus-i-arxius.md",
     "temes/cultura/arquitectura/romanic.md",
     "temes/territori/geografia-fisica/geografia-fisica.md",
@@ -209,12 +208,6 @@
     "index.md",
     "temes/llengua/onomastica/onomastica.md",
     "temes/historia/segle-xix/nova-reforma.md",
-    "temes/historia/democratitzacio/democratitzacio.md",
-    "temes/historia/constitucio-1993/constitucio-1993.md",
-    "README.md",
-    "temes/llengua/registres/registres.md",
-    "temes/llengua/fraseologia/fraseologia.md",
-    "temes/cultura/cultura-popular/cultura-popular.md",
-    "temes/gastronomia/productes/productes.md"
+    "temes/historia/democratitzacio/democratitzacio.md"
   ]
 }

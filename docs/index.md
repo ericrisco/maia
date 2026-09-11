@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**45** documents · **6** fonts · **0** aptes com a model de llengua · **45** temes amb contingut.
+**48** documents · **6** fonts · **0** aptes com a model de llengua · **45** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -50,7 +50,10 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
-| [Llegendes](temes/cultura/llegendes/llegendes.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `viquipedia-ca` |
+| [El Roc de les Bruixes](temes/cultura/llegendes/el-roc-de-les-bruixes.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `viquipedia-ca` |
+| [La bruixa de Sornàs](temes/cultura/llegendes/la-bruixa-de-sornas.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `viquipedia-ca` |
+| [La troballa de Meritxell](temes/cultura/llegendes/la-troballa-de-meritxell.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `premsa-andorrana` |
+| [Llegendes — índex](temes/cultura/llegendes/llegendes.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/cultura/museus-i-arxius
 
