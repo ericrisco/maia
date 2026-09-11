@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**158** documents · **14** fonts · **0** aptes com a model de llengua · **94** temes amb contingut.
+**162** documents · **15** fonts · **0** aptes com a model de llengua · **95** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -499,7 +499,10 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [De les iguales a l'hospital](temes/societat/sanitat/de-les-iguales-a-lhospital.md) | `temes/societat/sanitat` | compilada | contemporania | no | `pallares-medicina-andorra` |
 | [La CASS i la sanitat](temes/societat/sanitat/la-cass-i-la-sanitat.md) | `temes/societat/sanitat` | compilada | contemporania | no | `viquipedia-ca` |
+| [La Clínica Vilanova](temes/societat/sanitat/la-clinica-vilanova.md) | `temes/societat/sanitat` | compilada | contemporania | no | `pallares-medicina-andorra` |
+| [Les iguales](temes/societat/sanitat/les-iguales.md) | `temes/societat/sanitat` | compilada | contemporania | no | `pallares-medicina-andorra` |
 
 ## temes/societat/treball
 
@@ -614,6 +617,12 @@
 | [La tria de llengua](temes/vida-quotidiana/convencions-socials/la-tria-de-llengua.md) | `temes/vida-quotidiana/convencions-socials` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [L'Andorra dels anys cinquanta vista per un foraster](temes/vida-quotidiana/convencions-socials/landorra-dels-anys-cinquanta.md) | `temes/vida-quotidiana/convencions-socials` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 
+## temes/vida-quotidiana/creences
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Les creences sobre el cos](temes/vida-quotidiana/creences/les-creences-sobre-el-cos.md) | `temes/vida-quotidiana/creences` | compilada | contemporania | no | `pallares-medicina-andorra` |
+
 ## temes/vida-quotidiana/geografia-mental
 
 | Document | Tema | Veu | Època | Apte | Font |
@@ -646,6 +655,7 @@
 | [`llegendes-dandorra-llibre`](fonts/llegendes-dandorra-llibre.md) | Roser Carol i Àlvar Valls · Editorial andorrana | obra literària amb drets reservats | False |
 | [`mas-pagesos-i-artesans`](fonts/mas-pagesos-i-artesans.md) | David Mas i Canalís · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`molla-catala-andorra`](fonts/molla-catala-andorra.md) | Guillem Molla · Universitat de Girona · revista IANUA | publicació acadèmica en accés obert | pendent |
+| [`pallares-medicina-andorra`](fonts/pallares-medicina-andorra.md) | Manuel Pallarès i Darsa · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`premsa-andorrana`](fonts/premsa-andorrana.md) | Diari d'Andorra · Altaveu · Bondia · El Periòdic d'Andorra · La Ciutat | contingut periodístic amb drets reservats | False |
 | [`ribes-gastronomia-andorrana`](fonts/ribes-gastronomia-andorrana.md) | M. Dolors Ribes i Rogé · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`societat-andorrana-ciencies`](fonts/societat-andorrana-ciencies.md) | Societat Andorrana de Ciències (Andorra) | publicació acadèmica en accés obert | pendent |
