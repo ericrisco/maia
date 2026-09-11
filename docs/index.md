@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**115** documents · **9** fonts · **0** aptes com a model de llengua · **89** temes amb contingut.
+**118** documents · **9** fonts · **0** aptes com a model de llengua · **89** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -328,6 +328,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [El substrat](temes/llengua/dialectologia/el-substrat.md) | `temes/llengua/dialectologia` | compilada | contemporania | no | `molla-catala-andorra` |
 | [És l'andorrà un dialecte?](temes/llengua/dialectologia/es-landorra-un-dialecte.md) | `temes/llengua/dialectologia` | compilada | contemporania | no | `molla-catala-andorra` |
+| [L'estàndard contra la varietat](temes/llengua/dialectologia/lestandard-contra-la-varietat.md) | `temes/llengua/dialectologia` | compilada | contemporania | no | `molla-catala-andorra` |
 
 ## temes/llengua/fonetica
 
@@ -375,6 +376,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [La llei de la llengua](temes/llengua/politica-linguistica/la-llei-de-la-llengua.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `govern-andorra-web` |
+| [La sèrie històrica del català a Andorra](temes/llengua/politica-linguistica/la-serie-historica.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `molla-catala-andorra` |
 | [Qui parla què](temes/llengua/politica-linguistica/qui-parla-que.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `govern-andorra-web` |
 
 ## temes/llengua/registres
@@ -406,6 +408,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Educació — el sistema triple](temes/societat/educacio/educacio.md) | `temes/societat/educacio` | compilada | contemporania | no | `premsa-andorrana` |
+| [Els tres sistemes educatius](temes/societat/educacio/els-tres-sistemes.md) | `temes/societat/educacio` | compilada | contemporania | no | `molla-catala-andorra` |
 
 ## temes/societat/esport
 

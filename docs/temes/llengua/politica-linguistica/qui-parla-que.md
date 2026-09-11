@@ -57,6 +57,13 @@ monolingüe**. El context real d'un parlant d'Andorra inclou castellà quotidià
 portuguès al barri i francès a l'escola i a la frontera. Vegeu
 [Contacte de llengües](../contacte-de-llengues/contacte-de-llengues.md).
 
+## La sèrie que hi ha al darrere
+
+Aquesta foto del 2022 només s'entén amb el que va passar abans: **el 1999 el
+català havia caigut al 35,1 % i el castellà havia passat al davant amb el
+43,2 %**. Vegeu [la sèrie històrica](./la-serie-historica.md), que és on es veu
+el gir.
+
 ## Avís de precisió
 
 Aquestes xifres són **de l'onada de 2022**. Hi ha titulars posteriors
@@ -74,3 +81,4 @@ jove.
 
 - [La llei de la llengua](./la-llei-de-la-llengua.md) — la resposta política a aquestes dades.
 - [Contacte de llengües](../contacte-de-llengues/contacte-de-llengues.md) — com conviuen.
+- [La sèrie històrica](./la-serie-historica.md) — d'on ve aquesta foto.
