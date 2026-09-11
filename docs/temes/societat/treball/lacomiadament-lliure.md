@@ -1,0 +1,94 @@
+---
+type: article
+title: L'acomiadament lliure
+description: "Acomiadament lliure i sense cap compensació, en una economia de serveis amb molta rotació. La raó material per la qual el sindicat no arrela."
+tema: temes/societat/treball
+veu: compilada
+epoca: contemporania
+apte_llengua: false
+font: ubach-moviments-socials
+timestamp: 2026-09-12T14:50:00Z
+tags: [treball, drets, economia, sindicalisme, societat]
+---
+
+# L'acomiadament lliure
+
+## La frase
+
+> «El mercat laboral que es desprèn d'una **economia de serveis**, amb molts
+> comerços, hotels, restaurants, amb una **forta mobilitat dels treballadors**,
+> on existeix **l'acomiadament lliure, sense cap mena de compensació**,
+> l'organització dels assalariats **no és fàcil** — tot i que molts d'aquests
+> treballadors **consideren necessària la presència dels sindicats**.»
+>
+> — Gabriel Ubach, 2002 ([font](../../../fonts/ubach-moviments-socials.md))
+
+## Els quatre factors, i com es reforcen
+
+Aquesta fitxa existeix perquè **la resposta fàcil a «per què Andorra no té
+tradició sindical» és cultural, i la bona és material**.
+
+| Factor | Efecte |
+| --- | --- |
+| **Economia de serveis** | Centres de treball **petits i dispersos**: una botiga, un hotel, un restaurant. No hi ha la fàbrica de mil obrers que fa possible organitzar-se |
+| **Forta mobilitat** | La plantilla **canvia constantment**. Una organització necessita continuïtat, i aquí no n'hi ha |
+| **Acomiadament lliure sense compensació** | **Afiliar-se té un cost personal immediat i cap protecció** |
+| **[Llei de nacionalitat](../../institucions/nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md)** | Bona part dels treballadors **no són nacionals** i el seu permís depèn de la feina |
+
+**Els quatre junts fan una cosa molt concreta:** a Andorra, **queixar-se podia
+costar la feina, i perdre la feina podia costar el país**.
+
+Ubach ho formula així a la part final de la ponència:
+
+> «La nostra societat democràtica encara està impregnada d'**una política
+> proteccionista i de privilegi**, tal com demostra la situació de molts
+> immigrants estrangers. Aquests immigrants **considerats bàsicament
+> treballadors, mà d'obra**, no només tenen restringit el seu accés a la
+> nacionalitat andorrana sinó que **durant molts anys s'han vist privats de
+> drets sindicals** i amb això dels drets laborals.»
+
+**El corpus marca «política proteccionista i de privilegi» com a judici de
+l'autor**, i reté el fet: **restricció de nacionalitat i absència de drets
+sindicals alhora, sobre el mateix col·lectiu**.
+
+## El detall que desmunta l'explicació cultural
+
+**Els treballadors sí que volen sindicat.**
+
+L'enquesta del **CRES del 2002** ([el sindicalisme](./el-sindicalisme.md)) dona
+que **treballadors no qualificats, d'indústria i tècnics els consideren
+necessaris**, i que qui diu que no són **directius, propietaris, comandaments
+intermedis i jubilats**.
+
+Per tant **no és que a Andorra no agradin els sindicats**: és que **la divisió
+d'opinió segueix exactament la línia de qui té alguna cosa a guanyar-hi**, com a
+tot arreu. El que és andorrà **no és l'opinió, és l'estructura del mercat de
+treball** que impedeix actuar-hi.
+
+## On enllaça
+
+Aquesta és la cara laboral del que el corpus descriu per altres bandes:
+
+- [La crisi de l'habitatge](../habitatge/la-crisi-de-lhabitatge.md) — el mateix
+  treballador, l'altre extrem de la mateixa precarietat.
+- [Les comunitats](../immigracio/les-comunitats.md) — qui fa aquestes feines.
+- [El gir dels seixanta](../../gastronomia/historia-alimentaria/el-gir-dels-seixanta.md) —
+  quan Andorra passa a ser economia de serveis.
+- [La transformació econòmica](../../economia/transformacio-economica/transformacio-economica.md) —
+  el marc general.
+
+## Buits registrats
+
+1. **La legislació laboral andorrana**, article a article. **Buit gran.**
+2. **Quan i si** es regula l'acomiadament amb compensació.
+3. **Xifres de rotació laboral** al comerç i l'hoteleria.
+4. **Com funciona avui** el lligam entre permís de treball i permís de
+   residència.
+5. **El salari mínim** andorrà, sèrie històrica.
+
+## Related
+
+- [El sindicalisme](./el-sindicalisme.md) — què s'hi va intentar.
+- [L'ARA i el SAT](./lara-i-el-sat.md) — qui ho va intentar.
+- [Treball](./treball.md) — la branca.
+- [La crisi de l'habitatge](../habitatge/la-crisi-de-lhabitatge.md) — l'altra cara.

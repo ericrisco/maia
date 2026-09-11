@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9ec6055ff13c2683",
+        "id": "47e635dfc5e1e52e",
         "type": "tabs",
         "children": [
           {
-            "id": "92ee6c474639a5ea",
+            "id": "90883625540bc416",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "temes/gastronomia/plats/lescudella-de-sant-antoni.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lescudella-de-sant-antoni"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gràfica"
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "temes/gastronomia/plats/lescudella-de-sant-antoni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "temes/gastronomia/plats/lescudella-de-sant-antoni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +155,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "temes/gastronomia/plats/lescudella-de-sant-antoni.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,8 +181,16 @@
       "bases:Crea una base nova": false
     }
   },
-  "active": "92ee6c474639a5ea",
+  "active": "90883625540bc416",
   "lastOpenFiles": [
+    "temes/societat/treball/lacomiadament-lliure.md",
+    "temes/societat/treball/lara-i-el-sat.md",
+    "temes/societat/treball/el-sindicalisme.md",
+    "temes/societat/treball/la-memoria-de-fhasa.md",
+    "fonts/ubach-moviments-socials.md",
+    "CONTRACT.md",
+    "fonts/llegendes-dandorra-llibre.md",
+    "temes/gastronomia/plats/lescudella-de-sant-antoni.md",
     "temes/cultura/andorra-vista-de-fora/la-por-de-fondres.md",
     "temes/cultura/andorra-vista-de-fora/els-descobridors.md",
     "fonts/ferrer-percepcio-andorra-exterior.md",
@@ -209,15 +210,7 @@
     "temes/gastronomia/historia-alimentaria/el-gir-dels-seixanta.md",
     "temes/gastronomia/historia-alimentaria/el-racionament-de-1937.md",
     "temes/gastronomia/historia-alimentaria/lapat-de-la-consorcia-1833.md",
-    "temes/gastronomia/historia-alimentaria/les-tres-taules.md",
-    "temes/gastronomia/historia-alimentaria/com-es-menjava.md",
-    "temes/gastronomia/historia-alimentaria/README.md",
     "temes/gastronomia/historia-alimentaria",
-    "fonts/ribes-gastronomia-andorrana.md",
-    "temes/cultura/artesania/el-ferro.md",
-    "temes/cultura/artesania/el-textil.md",
-    "temes/economia/ramaderia-i-agricultura/les-mules.md",
-    "temes/economia/ramaderia-i-agricultura/la-crisi-de-lovi.md",
     "temes/cultura/andorra-vista-de-fora",
     "temes/costums/gegants",
     "temes/llengua/dialectologia"

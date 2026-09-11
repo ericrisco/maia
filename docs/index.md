@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**167** documents · **17** fonts · **0** aptes com a model de llengua · **95** temes amb contingut.
+**171** documents · **18** fonts · **0** aptes com a model de llengua · **95** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -513,6 +513,10 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El sindicalisme](temes/societat/treball/el-sindicalisme.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
+| [La memòria de FHASA](temes/societat/treball/la-memoria-de-fhasa.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
+| [L'acomiadament lliure](temes/societat/treball/lacomiadament-lliure.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
+| [L'ARA i el SAT](temes/societat/treball/lara-i-el-sat.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
 | [Treball](temes/societat/treball/treball.md) | `temes/societat/treball` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 
 ## temes/societat/vida-civica
@@ -665,5 +669,6 @@
 | [`premsa-andorrana`](fonts/premsa-andorrana.md) | Diari d'Andorra · Altaveu · Bondia · El Periòdic d'Andorra · La Ciutat | contingut periodístic amb drets reservats | False |
 | [`ribes-gastronomia-andorrana`](fonts/ribes-gastronomia-andorrana.md) | M. Dolors Ribes i Rogé · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`societat-andorrana-ciencies`](fonts/societat-andorrana-ciencies.md) | Societat Andorrana de Ciències (Andorra) | publicació acadèmica en accés obert | pendent |
+| [`ubach-moviments-socials`](fonts/ubach-moviments-socials.md) | Gabriel Ubach i Valdivia · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`vela-ordinacions-segle-xv`](fonts/vela-ordinacions-segle-xv.md) | Susanna Vela i Palomares · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`viquipedia-ca`](fonts/viquipedia-ca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
