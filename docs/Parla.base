@@ -1,0 +1,10 @@
+filters:
+  and:
+    - veu == "originaria"
+views:
+  - type: table
+    name: Parla andorrana
+    order: [file.name, tema, epoca, apte_llengua, timestamp]
+    sort:
+      - property: timestamp
+        direction: DESC

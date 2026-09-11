@@ -1,0 +1,22 @@
+filters:
+  and:
+    - type != "font"
+views:
+  - type: table
+    name: Tot el corpus
+    order: [file.name, tema, veu, epoca, apte_llengua, timestamp]
+    sort:
+      - property: timestamp
+        direction: DESC
+  - type: table
+    name: Apte com a llengua
+    filters:
+      and:
+        - apte_llengua == true
+    order: [file.name, tema, epoca, timestamp]
+  - type: table
+    name: Nomes coneixement
+    filters:
+      and:
+        - apte_llengua == false
+    order: [file.name, tema, veu, epoca]

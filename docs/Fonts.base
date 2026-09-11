@@ -1,0 +1,10 @@
+filters:
+  and:
+    - type == "font"
+views:
+  - type: table
+    name: Fonts
+    order: [file.name, titular, llicencia, redistribucio, data_consulta]
+    sort:
+      - property: redistribucio
+        direction: ASC
