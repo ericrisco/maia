@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**129** documents · **10** fonts · **0** aptes com a model de llengua · **89** temes amb contingut.
+**131** documents · **10** fonts · **0** aptes com a model de llengua · **90** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -127,6 +127,12 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Comerç](temes/economia/comerc/comerc.md) | `temes/economia/comerc` | compilada | contemporania | no | `viquipedia-ca` |
+
+## temes/economia/energia-i-serveis
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [FHASA](temes/economia/energia-i-serveis/fhasa.md) | `temes/economia/energia-i-serveis` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 
 ## temes/economia/ramaderia-i-agricultura
 
@@ -262,6 +268,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Boris Skossyreff, rei d'Andorra](temes/historia/segle-xx-primera-meitat/boris-skossyreff.md) | `temes/historia/segle-xx-primera-meitat` | compilada | contemporania | no | `viquipedia-ca` |
 | [La Revolució de 1933](temes/historia/segle-xx-primera-meitat/la-revolucio-de-1933.md) | `temes/historia/segle-xx-primera-meitat` | compilada | contemporania | no | `viquipedia-ca` |
+| [Les vagues de FHASA](temes/historia/segle-xx-primera-meitat/les-vagues-de-fhasa.md) | `temes/historia/segle-xx-primera-meitat` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 
 ## temes/institucions/comuns-i-parroquies
 

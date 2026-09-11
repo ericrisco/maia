@@ -25,6 +25,20 @@ tags: [historia, segle-xx, drets, revolucio]
 
 ([Viquipèdia](../../../fonts/viquipedia-ca.md))
 
+## La meitat que faltava: la vaga
+
+**Aquesta fitxa estava incompleta.** El 1933 no és només un episodi polític
+andorrà: **coincideix amb una onada de vagues obreres a les obres de
+[FHASA](../../economia/energia-i-serveis/fhasa.md)** —quatre vagues
+revolucionàries entre **1931 i 1933**, fetes sobretot per **treballadors
+espanyols, part d'ells afiliats a la CNT**.
+
+I els gendarmes no entren només per la crisi institucional: entren **«amb motiu
+dels conflictes laborals i les tensions polítiques internes»**.
+
+Vegeu **[les vagues de FHASA](./les-vagues-de-fhasa.md)**, que és on això està
+documentat i matisat.
+
 ## Què va passar realment
 
 Un grup de joves va ocupar el parlament i en va sortir **una ampliació del dret
@@ -57,7 +71,9 @@ corpus s'havien llegit així.
 - Les actes del Consell d'aquells mesos, que són font primària al
   [Consell General](../../institucions/consell-general/el-consell-general.md).
 - S'ha vist un titular de premsa que en diu *«la República que quasi va ser»*.
-  Això apunta a un component republicà que aquesta fitxa no documenta.
+  Amb la CNT a les obres de FHASA, aquell adjectiu ja no sorprèn tant — però
+  **la relació real entre la vaga obrera i la reivindicació del vot continua
+  sense documentar**.
 
 **Buit registrat, prioritari.** Hi ha bibliografia específica —*La cruïlla
 andorrana de 1933*— i un article a les publicacions de l'IEC, cap dels dos
@@ -65,6 +81,7 @@ consultats.
 
 ## Related
 
+- [Les vagues de FHASA](./les-vagues-de-fhasa.md) — la meitat obrera.
 - [Boris Skossyreff](./boris-skossyreff.md) — l'any següent.
 - [Democratització](../democratitzacio/democratitzacio.md) — el camí del vot.
 - [La Casa de la Vall](../../institucions/patrimoni-institucional/casa-de-la-vall.md) — l'edifici ocupat.

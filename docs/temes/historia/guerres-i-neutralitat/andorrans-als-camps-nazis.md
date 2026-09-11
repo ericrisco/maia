@@ -1,117 +1,140 @@
 ---
 type: article
 title: Andorrans als camps nazis
-description: "Catorze, i sis no van tornar. El catorzè el van trobar uns alumnes de batxillerat."
+description: "Eren tretze, després catorze, i ara quinze. Eren emigrants econòmics a França, i sis no van tornar."
 tema: temes/historia/guerres-i-neutralitat
 veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: premsa-andorrana
-timestamp: 2026-09-12T13:15:00Z
-tags: [historia, segle-xx, guerra, memoria, deportacio]
+timestamp: 2026-09-12T13:35:00Z
+tags: [historia, segle-xx, guerra, memoria, deportacio, emigracio]
 ---
 
 # Andorrans als camps nazis
 
-## Les xifres
+## El compte, que encara creix
 
-La recerca de **Roser Porta** i **Jorge Cebrián**, publicada com a
-***Andorrans als camps de concentració nazis: aspectes d'Andorra durant la
-Segona Guerra Mundial***, va documentar
-([premsa andorrana](../../../fonts/premsa-andorrana.md), [RTVA](../../societat/mitjans/rtva.md)):
-
-| | |
+| Moment | Nombre |
 | --- | --- |
-| **Andorrans amb nacionalitat empresonats en camps** | **13** |
-| **Resident d'origen aragonès també empresonat** | **1** |
-| **Andorrà afusellat pels nazis a la frontera amb França** | **1** |
-| **Dels 13, no van tornar** | **6** |
+| Recerca de **Roser Porta** i **Jorge Cebrián** | **13** |
+| **2024** — descoberta d'alumnes de batxillerat | **14** |
+| Poc després | **15** |
 
-**Posteriorment se n'ha documentat un catorzè.**
+([premsa andorrana](../../../fonts/premsa-andorrana.md),
+[RTVA](../../societat/mitjans/rtva.md), i el portal del
+[Govern](../../../fonts/govern-andorra-web.md))
 
-## El catorzè el van trobar uns alumnes
+**Dels tretze primers, sis no van tornar.** Hi consta també **un andorrà
+afusellat pels nazis a la frontera amb França**.
 
-**Un equip d'alumnes de batxillerat de l'Escola Andorrana** va descobrir **un
-catorzè deportat** als camps nazis, quan fins llavors se'n coneixien tretze.
+**I probablement n'hi ha més.** La raó és concreta i val la pena retenir-la:
+**els noms dels deportats andorrans van quedar barrejats dins de les llistes
+espanyoles**, i la manca de documentació fa impossible saber-ho del cert.
 
-**Val la pena aturar-s'hi.** La història d'un país no la tanquen només els
-historiadors professionals: aquí **la va ampliar una classe de batxillerat**, a
-l'escola que el país es va crear el **1982**
-([els tres sistemes](../../societat/educacio/els-tres-sistemes.md)).
+**Un país sense estat propi reconegut a efectes de registre perd els seus morts
+dins de les llistes d'un altre.**
 
-## Per què hi van anar
+## Qui eren, i això canvia el relat
 
-Porta i Cebrián ho resumeixen sense heroïcitat i sense excusa. Els motius van
-ser:
+> **«Són 13 homes que estaven a França, eren emigrants econòmics, es guanyaven
+> la vida allà i van acabar deportats en camps de concentració.»**
 
-- **contraban**,
-- **ajudar la resistència**,
-- **viatjar sense documentació**,
-- **o simplement mala sort**.
+**No eren resistents capturats ni passadors atrapats.** Eren **andorrans que
+havien emigrat a França a treballar**.
 
-Aquesta enumeració és exactament el que el corpus necessita: **la deportació no
-els va arribar per una gesta, sinó per la vida que feien** —i la vida que feien
-a la frontera era, en bona part, [el contraban](../contraban/contraban.md) i
-[el pas de gent](./els-passadors.md).
+Això reordena la fitxa sencera. El corpus té documentada
+[la immigració cap a Andorra](../../societat/immigracio/immigracio.md); **aquí hi
+ha l'emigració des d'Andorra**, i la prova que **abans que Andorra fos un país
+ric, els andorrans se n'anaven a buscar feina a fora**.
 
-**El mateix ofici que va salvar milers de fugitius va portar catorze andorrans
-als camps.**
+I la deportació els va arribar **per la vida que feien, no per una gesta**: els
+motius documentats són **contraban**, **ajudar la resistència**, **viatjar sense
+documentació**, o **simplement mala sort**.
 
-## On van anar
+## Els noms que el corpus té
 
-Repartits entre **Buchenwald** i **Mauthausen**, **tots passant pel camp de
-classificació de Compiègne**.
+| Nom | Destí |
+| --- | --- |
+| **Anton Vidal Felipó**, de **Prats** | **mort a Mauthausen** |
+| **Anton Pons** | **mort a Melk** (subcamp de Mauthausen) |
+| **Pere Inglés Mata** | **mort a Mauthausen** — el catorzè |
+| **Salvador Montanya** | el quinzè |
 
-## Dos noms
+**Quatre de quinze.** Els altres onze estan documentats i **el corpus no els
+té**. **Buit registrat, i no és només informatiu: és una qüestió de respecte.**
 
-- **Anton Vidal Felipó**, **de Prats** — **mort a Mauthausen**.
-- **Anton Pons** — **mort més tard a Melk** (subcamp de Mauthausen).
+## Pere Inglés Mata, el catorzè
 
-**Aquesta fitxa només té dos dels catorze noms.** Els altres dotze existeixen,
-estan documentats al llibre de Porta i Cebrián, i **el corpus no els té**.
+**Nascut el 1902 a l'Aragó.** Va **venir a Andorra a treballar a FHASA**.
+**Detingut a França el 1944** i **deportat a Mauthausen, on va morir**.
 
-**Buit registrat, i és dels pocs d'aquest corpus que no és només una mancança
-d'informació: és una qüestió de respecte.** Una fitxa que parla de catorze
-persones i en nomena dues està fent exactament el contrari del que hauria de
-fer.
+La seva història era desconeguda i **la va descobrir un grup d'alumnes del
+batxillerat internacional de l'Escola Andorrana**, el **2024**.
 
-## La memòria al carrer
+Dues coses a retenir:
 
-Consta un reportatge titulat ***«Un gest de respecte a les víctimes del nazisme:
-acotar-se per llegir el seu nom»***, que descriu **haver-se d'ajupir per llegir
-el nom** de les víctimes.
+**1. FHASA.** Forces Hidroelèctriques d'Andorra: **l'obra que va portar
+treballadors forans al país** als anys trenta. Inglés hi va anar per això, i
+d'Andorra va acabar a Mauthausen. La fitxa d'
+[energia i serveis](../../economia/energia-i-serveis/README.md) tenia FHASA com a
+buit; **aquest és el primer fet concret que el corpus en té**.
 
-Això apunta a **llambordes de memòria (*Stolpersteine*) instal·lades a terra a
-Andorra**, però **no està verificat aquí i no s'afirma**. **Buit registrat,
-prioritari**: si Andorra té memorials públics a les seves víctimes del nazisme,
-**on són, quants són i què hi diuen** és informació que aquest corpus ha de
-tenir.
+**2. Era aragonès.** El compte de «andorrans» inclou **gent vinculada a Andorra,
+no només nacionals**, i les fonts ho marquen amb cometes: *«el catorzè
+'andorrà'»*. **El corpus manté la distinció i no la esborra.**
+
+## La memòria: les llambordes
+
+Hi ha un projecte per instal·lar **Stolpersteine** —**petites plaques de
+memòria a terra, davant de les cases dels deportats**— obra de l'artista
+alemany **Gunter Demnig**.
+
+Això confirma el que una altra font insinuava amb el títol *«acotar-se per
+llegir el seu nom»*: **les plaques són a terra i cal ajupir-se per llegir-les**.
+Aquest és, precisament, el sentit del projecte de Demnig arreu d'Europa.
+
+I hi ha un **llibre digital**, ***13 camins cap a l'infern***, que difon les
+històries dels tretze.
+
+**Buit registrat:** quantes llambordes hi ha instal·lades a Andorra, on, i amb
+quins noms. **És la llista que aquesta fitxa necessita.**
+
+## La recerca en curs
+
+Hi ha un **projecte de quatre anys** dirigit per **Pau Chica**, historiador de
+l'**[Arxiu Nacional](../../cultura/museus-i-arxius/larxiu-nacional.md)**, sobre
+les **conseqüències alimentàries, demogràfiques, econòmiques i polítiques de la
+Segona Guerra Mundial a Andorra**.
+
+I un curs organitzat pel **Comú de Canillo** amb la **Universitat d'Andorra**
+(**28–30 d'abril de 2025**).
+
+**Aquesta és història que s'està escrivint ara mateix**, i el corpus ha de
+tornar-hi.
 
 ## El context que lliga
 
-Andorra era **neutral** ([neutralitat](./guerres-i-neutralitat.md)) i això la va
+Andorra era **neutral** ([neutralitat](./guerres-i-neutralitat.md)), i això la va
 convertir en **via de pas** ([els passadors](./els-passadors.md)) i en **forat
 d'emissió** ([Ràdio Andorra](../../societat/mitjans/radio-andorra.md)).
 
-**Però la neutralitat no va protegir els andorrans que eren a l'altra banda.**
-Catorze van acabar en camps alemanys i un va ser afusellat a la frontera. **Un
-estat neutre de 6.000 habitants no podia fer res per ells.**
-
-Aquesta és la cara de la neutralitat que el corpus no tenia.
+**Però la neutralitat només protegia dins de les fronteres.** Els andorrans que
+eren a França hi van quedar exposats com qualsevol altre, i **un estat de 6.000
+habitants no podia fer-hi res**.
 
 ## El que falta
 
-- **Els dotze noms restants.**
-- El llibre de **Porta i Cebrián**, llegit.
-- La ressenya publicada per l'**IEC**, identificada i no llegida.
-- El **treball dels alumnes de l'Escola Andorrana**, que és font recent i
-  accessible.
-- **Francesc Boix**, el fotògraf de Mauthausen, de qui consta una exposició al
-  **CAEE** d'Andorra — no era andorrà, però la seva presència al país és part
-  d'aquesta memòria.
+- **Els onze noms restants.**
+- ***13 camins cap a l'infern***, el llibre digital.
+- El llibre de **Porta i Cebrián**, i la ressenya de l'**IEC**.
+- El **treball dels alumnes**, publicat a *EABATX Report*.
+- La recerca de **Pau Chica**, quan es publiqui.
+- **Francesc Boix**, fotògraf de Mauthausen, de qui consta exposició al **CAEE**
+  d'Andorra.
 
 ## Related
 
 - [Els passadors](./els-passadors.md)
 - [Guerres i neutralitat](./guerres-i-neutralitat.md)
-- [La llegenda negra dels passadors](../historiografia/la-llegenda-negra-dels-passadors.md)
+- [Immigració](../../societat/immigracio/immigracio.md) — el moviment invers.
