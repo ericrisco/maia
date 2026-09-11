@@ -24,8 +24,30 @@ de desembre de 1419.**
 
 | Data | Qui |
 | --- | --- |
-| **11 de febrer de 1419** | **Privilegi del bisbe Andreu Capella**, en resposta a la demanda dels prohoms |
+| **11 de febrer de 1419** | **Privilegi del bisbe d'Urgell** (vegeu l'avís), en resposta a la demanda dels prohoms |
 | **17 de desembre de 1419** | **El representant del veguer del comte de Foix el valida** |
+
+### Avís: dues fonts de la SAC donen dos bisbes
+
+**El corpus registra la contradicció i no la resol en silenci.**
+
+| Font | Qui signa el privilegi |
+| --- | --- |
+| **31a Diada, 2018** — *El parlamentarisme andorrà* | **Andreu Capella** |
+| **15a Diada, 2002** — Susanna Vela, [ordinacions](../../../fonts/vela-ordinacions-segle-xv.md) | **Francesc de Tovia** |
+
+**Totes dues són publicacions de la Societat Andorrana de Ciències.**
+
+**Una observació que no resol però orienta:** els episcopologis d'Urgell
+habitualment situen **Andreu Capella a finals del segle XVI**, no al XV. Si això
+és així, **l'atribució del 2018 seria anacrònica**. El corpus **no ho dona per
+tancat**: Vela és una font acadèmica amb aparat de notes i escriu sobre aquest
+document en concret, cosa que li dona pes, però **l'única prova decisiva és el
+document mateix**.
+
+**Buit registrat, prioritari i tancable:** el privilegi és a
+[l'Arxiu de les Set Claus](../patrimoni-institucional/linventari-de-les-set-claus.md)
+amb signatura **ASC 48339**. **Qui hi vagi, ho resol.**
 
 **Calien les dues signatures.** El [coprincipat](../coprincipat/el-coprincipat.md)
 ja funcionava així: **el parlament d'Andorra existeix perquè els dos senyors hi
@@ -71,6 +93,39 @@ Amb el privilegi de 1419 **van aconseguir el control polític i social del país
 i **es van convertir en la classe privilegiada** que podia optar als càrrecs
 públics: **síndics, cònsols, consellers generals, consellers de comú o
 batlles**.
+
+### Per què va néixer: les herbes
+
+Susanna Vela hi afegeix **el motiu econòmic**, i és el que fa que tot encaixi
+([font](../../../fonts/vela-ordinacions-segle-xv.md)). L'accés al poder d'aquest
+grup de notables
+
+> «s'ha d'entendre en el marc de l'organització d'**una ramaderia orientada al
+> benefici comercial** en la qual **cal controlar tots els espais on aquesta es
+> produeix i regular qui, com i quan aprofita les millors herbes**.»
+
+I encara hi posa la frase més dura sobre el sistema andorrà antic, que el corpus
+recull perquè és una tesi seriosa i no un retret fàcil: les valls eren
+
+> «una **federació de comuns**… una estructura assentada sobre **un sistema
+> econòmic que permetia l'apropiació privada dels béns col·lectius**, gestionat
+> o arbitrat per **una classe dirigent que en garantirà la reproducció social
+> controlant els òrgans de govern local** i que, salvades les diferències,
+> **perpetuarà el sistema polític andorrà fins al segle XIX**.»
+
+**Llegit així, el Consell de la Terra no neix d'un ideal polític sinó d'una
+necessitat de gestió de pastures** — i el fet que el corpus hagi trobat la
+mateixa idea per dos camins independents
+([l'accés als comunals](../../historia/edat-mitjana/lacces-als-comunals.md) i
+[la quèstia](../../historia/antic-regim/la-questia.md)) la fa més sòlida.
+
+Vela també documenta **què va passar al segle XV amb la mida de l'òrgan**: el
+privilegi legitima **no el Consell de la Terra** sinó **un òrgan reduït** de
+**mínim 12 i màxim 18 jurats i pròcers**, d'entre els quals es designen **els
+síndics**. I el procés general és **de reducció**: «al llarg de la baixa edat
+mitjana **el nombre de participants als consells… es va reduint**», i el
+desplaçament de les assemblees generals de caps de casa per un òrgan reduït es
+fa durant el segle XV «**encara que de forma poc clara**».
 
 **El parlament més antic no era democràtic: era oligàrquic.** I ho va ser fins
 molt tard — el vot no arriba als caps de casa fins a

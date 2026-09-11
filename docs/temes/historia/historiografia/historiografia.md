@@ -55,6 +55,30 @@ Vegeu [la fundació per Carlemany](../origens/la-fundacio-per-carlemany.md).
 que diuen.** El que sí que serveix —i és autèntic— és el
 [Pareatge](../pareatge/el-pareatge.md).
 
+### I un tercer, que no és fals però està mal datat a posta
+
+N'hi ha un tercer cas, i és **el més instructiu dels tres** perquè **no és una
+falsificació sinó una operació d'arxiu**.
+
+Al **Llibre de la Terra d'Andorra** (1486), l'escrivà **Miquel Ribot
+d'Aixirivall** compila ordinacions del Consell de la Terra i **n'atribueix
+algunes als segles XIII i XIV**, reproduint-hi noms de representants andorrans
+que va treure de **dos documents antics i autèntics** (un arbitratge de 1289 i
+un requeriment de 1390).
+
+**Susanna Vela** ho llegeix així
+([font](../../../fonts/vela-ordinacions-segle-xv.md)): serien ordinacions
+**redactades al segle XV** que l'autor **«adscriu volgudament a segles
+anteriors per legitimar la possessió, la competència i la potestat»** del
+Consell sobre els comunals.
+
+**No inventa el poder: hi posa antiguitat.** Detall complet a
+[el Llibre de la Terra](../../institucions/consell-general/el-llibre-de-la-terra.md).
+
+**Els tres casos junts donen una regla de lectura per a tot el corpus:** a
+Andorra, **l'antiguitat d'un document és sovint el que s'està reclamant, no el
+que s'està descrivint**.
+
 ## Andorra explicada des de fora
 
 Entre finals del XVIII i el segle XX, **la major part dels relats sobre Andorra

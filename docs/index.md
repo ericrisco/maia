@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**162** documents · **15** fonts · **0** aptes com a model de llengua · **95** temes amb contingut.
+**165** documents · **16** fonts · **0** aptes com a model de llengua · **95** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -224,6 +224,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [La quèstia](temes/historia/antic-regim/la-questia.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `vela-ordinacions-segle-xv` |
 | [L'antic règim](temes/historia/antic-regim/lantic-regim.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 
 ## temes/historia/constitucio-1993
@@ -249,6 +250,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Andorra a l'edat mitjana](temes/historia/edat-mitjana/andorra-a-ledat-mitjana.md) | `temes/historia/edat-mitjana` | compilada | contemporania | no | `viquipedia-ca` |
+| [L'accés als comunals](temes/historia/edat-mitjana/lacces-als-comunals.md) | `temes/historia/edat-mitjana` | compilada | contemporania | no | `vela-ordinacions-segle-xv` |
 
 ## temes/historia/guerres-i-neutralitat
 
@@ -321,6 +323,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [El Consell de la Terra](temes/institucions/consell-general/el-consell-de-la-terra.md) | `temes/institucions/consell-general` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [El Consell General](temes/institucions/consell-general/el-consell-general.md) | `temes/institucions/consell-general` | compilada | contemporania | no | `consell-general-web` |
+| [El Llibre de la Terra](temes/institucions/consell-general/el-llibre-de-la-terra.md) | `temes/institucions/consell-general` | compilada | contemporania | no | `vela-ordinacions-segle-xv` |
 
 ## temes/institucions/coprincipat
 
@@ -659,4 +662,5 @@
 | [`premsa-andorrana`](fonts/premsa-andorrana.md) | Diari d'Andorra · Altaveu · Bondia · El Periòdic d'Andorra · La Ciutat | contingut periodístic amb drets reservats | False |
 | [`ribes-gastronomia-andorrana`](fonts/ribes-gastronomia-andorrana.md) | M. Dolors Ribes i Rogé · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`societat-andorrana-ciencies`](fonts/societat-andorrana-ciencies.md) | Societat Andorrana de Ciències (Andorra) | publicació acadèmica en accés obert | pendent |
+| [`vela-ordinacions-segle-xv`](fonts/vela-ordinacions-segle-xv.md) | Susanna Vela i Palomares · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`viquipedia-ca`](fonts/viquipedia-ca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
