@@ -148,8 +148,9 @@ def index(corpus: Corpus) -> str:
         for d in sorted(per_tema[tema], key=lambda x: x.path.name):
             rel = d.path.relative_to(corpus.vault_root).as_posix()
             apte = "sí" if d.apte_llengua else "no"
+            nom = d.title or d.path.stem
             linies.append(
-                f"| [{d.title or d.path.stem}]({rel}) | `{d.tema}` | {d.veu} | {d.epoca} | {apte} | `{d.font}` |"
+                f"| [{nom}]({rel}) | `{d.tema}` | {d.veu} | {d.epoca} | {apte} | `{d.font}` |"
             )
         linies.append("")
 
