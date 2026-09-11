@@ -1,0 +1,191 @@
+# schema/corpus.toml — LA FONT DE VERITAT del cervell andorrà.
+#
+# D'aquest fitxer surten tres coses que no poden divergir mai:
+#   1. docs/CONTRACT.md  — el contracte que llegeix una persona (generat)
+#   2. les regles R001-R014 que aplica el validador
+#   3. les columnes de docs/index.md (generat)
+#
+# Si el contracte i el validador sortissin de fonts diferents, el criteri
+# "seguir el contracte produeix un document que passa" seria cert el dia que
+# s'escriu i mentida a la primera divergència. Amb una sola font, no pot passar.
+
+[meta]
+version = "1.0.0"
+vault_root = "docs"
+
+# ─── La derivació ────────────────────────────────────────────────────────────
+# Un text SOBRE Andorra no és un text EN andorrà. Aquests dos fets ho separen,
+# i l'aptitud se'n deriva per regla perquè no s'hagi de discutir document a
+# document. Ni la revisió humana converteix prosa compilada en parla andorrana.
+[derivation]
+field = "apte_llengua"
+rule = "veu == 'originaria' and epoca == 'contemporania'"
+explanation = """
+Un document serveix com a model de llengua andorrana si i només si el text el va
+produir algú parlant andorrà (veu originaria) i la llengua és d'avui (epoca
+contemporania). Qualsevol altra combinació, no."""
+
+# ─── Enums tancats ───────────────────────────────────────────────────────────
+[enums]
+veu = ["originaria", "compilada"]
+epoca = ["contemporania", "historica"]
+redistribucio = ["si", "no", "pendent"]
+type = ["article", "parla", "font"]
+
+# ─── Camps del document de corpus ────────────────────────────────────────────
+[fields.type]
+required = true
+enum = "type"
+description = "Tipus OKF. Obligatori i no buit."
+
+[fields.title]
+required = true
+description = "Títol llegible. L'H1 del cos hi coincideix."
+
+[fields.description]
+required = false
+description = "Una frase de resum, per a previsualitzacions i cerca."
+
+[fields.tema]
+required = true
+pattern = '^[a-z0-9]+(-[a-z0-9]+)*(/[a-z0-9]+(-[a-z0-9]+)*)*$'
+description = """
+La branca on viu el document, en kebab-case i separada per barres. Es valida per
+FORMA, no contra una llista tancada: afegir una branca és crear un directori, no
+esmenar el contracte. La ruta del fitxer ha de correspondre a aquest valor."""
+
+[fields.veu]
+required = true
+enum = "veu"
+description = "Qui va produir el text: originaria (verbatim andorrà) o compilada (redactat per un agent)."
+
+[fields.epoca]
+required = true
+enum = "epoca"
+description = "De quan és la llengua: contemporania o historica."
+
+[fields.apte_llengua]
+required = true
+type = "bool"
+derived = true
+description = "Derivat. Veure [derivation]. Es materialitza perquè les vistes .base d'Obsidian només filtren per frontmatter escrit."
+
+[fields.font]
+required = true
+description = "Id d'una fitxa a docs/fonts/. Una fitxa per FONT, no per document."
+
+[fields.timestamp]
+required = true
+description = "ISO 8601 de l'última edició amb significat."
+
+[fields.tags]
+required = false
+description = "Qualitats transversals. Mai la categoria principal: això és tema."
+
+# ─── Camps de la fitxa de font ───────────────────────────────────────────────
+[font_fields.type]
+required = true
+description = "Sempre 'font'."
+
+[font_fields.id]
+required = true
+pattern = '^[a-z0-9]+(-[a-z0-9]+)*$'
+description = "Identificador estable. És el que referencien els documents."
+
+[font_fields.title]
+required = true
+description = "Nom llegible de la font."
+
+[font_fields.titular]
+required = true
+description = "Qui té els drets."
+
+[font_fields.url]
+required = true
+description = "On viu l'original."
+
+[font_fields.llicencia]
+required = true
+description = "La llicència tal com la declara el titular."
+
+[font_fields.redistribucio]
+required = true
+enum = "redistribucio"
+description = """
+Si el titular permet redistribuir. Es REGISTRA sempre amb el seu valor real.
+Un 'no' o un 'pendent' generen un avís i no tanquen la porta (constitució §24):
+el propietari del projecte sosté els permisos. El registre existeix perquè la
+decisió segueixi sent reversible i es pugui separar el corpus per porcions."""
+
+[font_fields.data_consulta]
+required = true
+description = "Quan es va consultar i verificar."
+
+[font_fields.abast]
+required = false
+description = "Quina part del fons cobreix aquesta fitxa."
+
+[font_fields.notes]
+required = false
+description = "Context sobre el permís, la verificació o les limitacions."
+
+# ─── Catàleg de regles ───────────────────────────────────────────────────────
+# L'id és estable: els missatges, els tests i els criteris de la spec s'hi
+# refereixen. Cada regla es prova FALLANT i passant — una porta que no s'ha vist
+# fallar mai no se sap si funciona.
+
+[rules.R001]
+severity = "error"
+message = "Camp obligatori absent o buit."
+
+[rules.R002]
+severity = "error"
+message = "Valor fora de l'enum declarat."
+
+[rules.R003]
+severity = "error"
+message = "apte_llengua declarada no coincideix amb la derivada de veu i epoca."
+
+[rules.R004]
+severity = "error"
+message = "El camp font apunta a una fitxa que no existeix a docs/fonts/."
+
+[rules.R005]
+severity = "warning"
+message = "La font no permet la redistribució o la té pendent. S'avisa; no bloqueja."
+
+[rules.R006]
+severity = "error"
+message = "Cita verbatim sense marcar o sense atribuir."
+
+[rules.R007]
+severity = "error"
+message = "La ruta del document no correspon al seu camp tema."
+
+[rules.R008]
+severity = "error"
+message = "Enllaç intern trencat."
+
+[rules.R009]
+severity = "error"
+message = "Wikilink [[...]] present. Trenca la conformitat OKF; feu servir enllaços markdown relatius."
+
+[rules.R010]
+severity = "error"
+message = "Camp obligatori absent a la fitxa de font."
+
+[rules.R011]
+severity = "error"
+message = "Document no parsejable: el frontmatter no és YAML vàlid."
+
+[rules.R012]
+severity = "error"
+message = "Els fitxers generats no coincideixen amb l'esquema i el corpus. Regenereu-los."
+
+[rules.R013]
+severity = "error"
+message = "Maquinària prohibida present. El cervell hereta la forma del harness, no el seu motor."
+
+[rules.R014]
+severity = "error"
+message = "Binari commitejat sota docs/. El corpus és text."
