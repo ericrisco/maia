@@ -7,7 +7,12 @@ contracte produeix un document que passa" es pot garantir en lloc de prometre.
 
 from __future__ import annotations
 
+from typing import TYPE_CHECKING
+
 from cervell.schema import FieldSpec, Schema
+
+if TYPE_CHECKING:
+    from cervell.model import Corpus, Doc
 
 AVIS = (
     "<!-- GENERAT des de schema/corpus.toml. No l'editeu a mà: "
@@ -107,3 +112,61 @@ la procedència es registra sempre amb el seu valor real, però no veta l'entrad
 (constitució §24). El registre existeix perquè la decisió segueixi sent
 reversible i es pugui separar el corpus per porcions de llicència.
 """
+
+
+def index(corpus: Corpus) -> str:
+    """El catàleg llegible per màquina: què hi ha i de quina mena, sense obrir res."""
+    from collections import defaultdict
+
+    per_tema: dict[str, list[Doc]] = defaultdict(list)
+    for d in corpus.docs:
+        per_tema[d.tema or "(sense tema)"].append(d)
+
+    aptes = sum(1 for d in corpus.docs if d.apte_llengua)
+    linies = [
+        AVIS.replace("des de schema/corpus.toml", "des del corpus"),
+        "",
+        "# Índex del cervell andorrà",
+        "",
+        f"**{len(corpus.docs)}** documents · **{len(corpus.fonts)}** fonts · "
+        f"**{aptes}** aptes com a model de llengua · **{len(per_tema)}** temes amb contingut.",
+        "",
+    ]
+    if not corpus.docs:
+        linies += [
+            "> El corpus és buit. Això és un estat vàlid: el contenidor funciona sense contingut.",
+            "",
+        ]
+
+    for tema in sorted(per_tema):
+        linies += [
+            f"## {tema}",
+            "",
+            "| Document | Tema | Veu | Època | Apte | Font |",
+            "| --- | --- | --- | --- | --- | --- |",
+        ]
+        for d in sorted(per_tema[tema], key=lambda x: x.path.name):
+            rel = d.path.relative_to(corpus.vault_root).as_posix()
+            apte = "sí" if d.apte_llengua else "no"
+            linies.append(
+                f"| [{d.title or d.path.stem}]({rel}) | `{d.tema}` | {d.veu} | {d.epoca} | {apte} | `{d.font}` |"
+            )
+        linies.append("")
+
+    if corpus.fonts:
+        linies += [
+            "## Fonts",
+            "",
+            "| Id | Titular | Llicència | Redistribució |",
+            "| --- | --- | --- | --- |",
+        ]
+        for fid in sorted(corpus.fonts):
+            f = corpus.fonts[fid]
+            rel = f.path.relative_to(corpus.vault_root).as_posix()
+            linies.append(
+                f"| [`{fid}`]({rel}) | {f.data.get('titular', '')} | "
+                f"{f.data.get('llicencia', '')} | {f.redistribucio} |"
+            )
+        linies.append("")
+
+    return "\n".join(linies)

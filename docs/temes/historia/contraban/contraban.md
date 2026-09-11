@@ -1,7 +1,7 @@
 ---
 type: article
 title: El contraban
-description: No era un delicte: era una feina. I durant la guerra, va ser una via d'escapament.
+description: "No era un delicte, era una feina. I durant la guerra, una via d'escapament."
 tema: temes/historia/contraban
 veu: compilada
 epoca: contemporania
