@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**68** documents · **6** fonts · **0** aptes com a model de llengua · **56** temes amb contingut.
+**71** documents · **6** fonts · **0** aptes com a model de llengua · **56** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -169,6 +169,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Guillem d'Areny-Plandolit](temes/historia/segle-xix/guillem-dareny-plandolit.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `viquipedia-ca` |
 | [La Nova Reforma de 1866](temes/historia/segle-xix/nova-reforma.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/historia/segle-xx-primera-meitat
@@ -176,6 +177,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Boris Skossyreff, rei d'Andorra durant onze dies](temes/historia/segle-xx-primera-meitat/boris-skossyreff.md) | `temes/historia/segle-xx-primera-meitat` | compilada | contemporania | no | `viquipedia-ca` |
+| [La Revolució de 1933](temes/historia/segle-xx-primera-meitat/la-revolucio-de-1933.md) | `temes/historia/segle-xx-primera-meitat` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/institucions/comuns-i-parroquies
 
@@ -218,6 +220,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [El Gran Carlemany](temes/institucions/simbols/el-gran-carlemany.md) | `temes/institucions/simbols` | compilada | contemporania | no | `viquipedia-ca` |
+| [La bandera](temes/institucions/simbols/la-bandera.md) | `temes/institucions/simbols` | compilada | contemporania | no | `viquipedia-ca` |
 | [Símbols — índex](temes/institucions/simbols/simbols.md) | `temes/institucions/simbols` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/llengua/contacte-de-llengues

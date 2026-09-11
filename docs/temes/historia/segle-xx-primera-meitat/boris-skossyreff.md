@@ -38,10 +38,16 @@ essencialment el que Andorra va acabar fent mig segle després, per altres mans.
 
 ## Per què el van votar
 
-Aquesta és la part que cal documentar bé i encara no està. Es va produir en un
-context de forta inestabilitat política i social, però **24 vots a 1 no
-s'expliquen amb «inestabilitat»**. Cal anar a les actes del Consell d'aquells
-dies i llegir què es va dir.
+El context ja no és una vaguetat: és **[la Revolució de 1933](./la-revolucio-de-1933.md)**,
+l'any anterior. Un Consell destituït pel Tribunal de Corts, el país ocupat durant
+set setmanes per gendarmes francesos enviats pels coprínceps, i un Consell nou
+elegit sota aquella pressió.
+
+Aquell Consell escolta, al cap de nou mesos, un home que li ofereix una
+constitució nova amb llibertat política, religiosa i de premsa. Els 24 vots a 1
+segueixen sent extraordinaris, però ja no són inexplicables.
+
+Encara cal anar a les actes del Consell d'aquells dies i llegir què s'hi va dir.
 
 **Buit registrat**: falta la font primària. El Consell General conserva les
 seves actes, i aquest episodi n'ha de deixar rastre.
