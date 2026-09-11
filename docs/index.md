@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**138** documents · **11** fonts · **0** aptes com a model de llengua · **90** temes amb contingut.
+**139** documents · **11** fonts · **0** aptes com a model de llengua · **90** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -494,6 +494,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Geografia física](temes/territori/geografia-fisica/geografia-fisica.md) | `temes/territori/geografia-fisica` | compilada | contemporania | no | `viquipedia-ca` |
+| [La lògica pastoral dels límits](temes/territori/geografia-fisica/la-logica-pastoral-dels-limits.md) | `temes/territori/geografia-fisica` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 
 ## temes/territori/paisatge-construit
 
