@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**132** documents · **10** fonts · **0** aptes com a model de llengua · **90** temes amb contingut.
+**134** documents · **10** fonts · **0** aptes com a model de llengua · **90** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -235,6 +235,7 @@
 | [El Diccionari enciclopèdic d'Andorra](temes/historia/historiografia/el-diccionari-enciclopedic.md) | `temes/historia/historiografia` | compilada | contemporania | no | `premsa-andorrana` |
 | [La historiografia andorrana](temes/historia/historiografia/historiografia.md) | `temes/historia/historiografia` | compilada | contemporania | no | `viquipedia-ca` |
 | [La llegenda negra dels passadors](temes/historia/historiografia/la-llegenda-negra-dels-passadors.md) | `temes/historia/historiografia` | compilada | contemporania | no | `societat-andorrana-ciencies` |
+| [Les Diades andorranes](temes/historia/historiografia/les-diades-andorranes.md) | `temes/historia/historiografia` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [Lídia Armengol i Vila](temes/historia/historiografia/lidia-armengol-vila.md) | `temes/historia/historiografia` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/historia/manual-digest
@@ -281,6 +282,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El Consell de la Terra](temes/institucions/consell-general/el-consell-de-la-terra.md) | `temes/institucions/consell-general` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [El Consell General](temes/institucions/consell-general/el-consell-general.md) | `temes/institucions/consell-general` | compilada | contemporania | no | `consell-general-web` |
 
 ## temes/institucions/coprincipat
