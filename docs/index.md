@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**108** documents · **7** fonts · **0** aptes com a model de llengua · **87** temes amb contingut.
+**109** documents · **7** fonts · **0** aptes com a model de llengua · **88** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -170,6 +170,12 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [La coca massegada](temes/gastronomia/rebosteria/la-coca-massegada.md) | `temes/gastronomia/rebosteria` | compilada | contemporania | no | `premsa-andorrana` |
+
+## temes/historia/antic-regim
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [L'antic règim](temes/historia/antic-regim/lantic-regim.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 
 ## temes/historia/constitucio-1993
 
