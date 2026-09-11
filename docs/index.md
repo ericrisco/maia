@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**56** documents · **6** fonts · **0** aptes com a model de llengua · **53** temes amb contingut.
+**63** documents · **6** fonts · **0** aptes com a model de llengua · **55** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -14,7 +14,9 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
-| [Danses](temes/costums/danses/danses.md) | `temes/costums/danses` | compilada | contemporania | no | `premsa-andorrana` |
+| [El ball del Cerdà](temes/costums/danses/el-ball-del-cerda.md) | `temes/costums/danses` | compilada | contemporania | no | `premsa-andorrana` |
+| [El contrapàs](temes/costums/danses/el-contrapas.md) | `temes/costums/danses` | compilada | contemporania | no | `premsa-andorrana` |
+| [La marratxa](temes/costums/danses/la-marratxa.md) | `temes/costums/danses` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/costums/falles
 
@@ -61,6 +63,12 @@
 | --- | --- | --- | --- | --- | --- |
 | [Museus i arxius](temes/cultura/museus-i-arxius/museus-i-arxius.md) | `temes/cultura/museus-i-arxius` | compilada | contemporania | no | `consell-general-web` |
 
+## temes/cultura/musica-i-cancons
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Música i cançons](temes/cultura/musica-i-cancons/musica-i-cancons.md) | `temes/cultura/musica-i-cancons` | compilada | contemporania | no | `premsa-andorrana` |
+
 ## temes/economia/banca-i-fiscalitat
 
 | Document | Tema | Veu | Època | Apte | Font |
@@ -101,7 +109,9 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
-| [Plats](temes/gastronomia/plats/plats.md) | `temes/gastronomia/plats` | compilada | contemporania | no | `viquipedia-ca` |
+| [El trinxat](temes/gastronomia/plats/el-trinxat.md) | `temes/gastronomia/plats` | compilada | contemporania | no | `viquipedia-ca` |
+| [L'escudella de Sant Antoni](temes/gastronomia/plats/lescudella-de-sant-antoni.md) | `temes/gastronomia/plats` | compilada | contemporania | no | `viquipedia-ca` |
+| [Plats — índex](temes/gastronomia/plats/plats.md) | `temes/gastronomia/plats` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/gastronomia/productes
 
@@ -192,6 +202,13 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Quarts i veïnats](temes/institucions/quarts-i-veinats/quarts-i-veinats.md) | `temes/institucions/quarts-i-veinats` | compilada | contemporania | no | `consell-general-web` |
+
+## temes/institucions/simbols
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [El Gran Carlemany](temes/institucions/simbols/el-gran-carlemany.md) | `temes/institucions/simbols` | compilada | contemporania | no | `viquipedia-ca` |
+| [Símbols — índex](temes/institucions/simbols/simbols.md) | `temes/institucions/simbols` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/llengua/contacte-de-llengues
 
