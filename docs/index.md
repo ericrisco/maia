@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**92** documents · **7** fonts · **0** aptes com a model de llengua · **71** temes amb contingut.
+**94** documents · **7** fonts · **0** aptes com a model de llengua · **73** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -146,6 +146,12 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Productes](temes/gastronomia/productes/productes.md) | `temes/gastronomia/productes` | compilada | contemporania | no | `viquipedia-ca` |
+
+## temes/gastronomia/rebosteria
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [La coca massegada](temes/gastronomia/rebosteria/la-coca-massegada.md) | `temes/gastronomia/rebosteria` | compilada | contemporania | no | `premsa-andorrana` |
 
 ## temes/historia/constitucio-1993
 
@@ -372,6 +378,12 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Treball](temes/societat/treball/treball.md) | `temes/societat/treball` | compilada | contemporania | no | `iec-vocabulari-andorra` |
+
+## temes/territori/fauna-i-flora
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Fauna i flora](temes/territori/fauna-i-flora/fauna-i-flora.md) | `temes/territori/fauna-i-flora` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/territori/geografia-fisica
 
