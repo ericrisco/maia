@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**65** documents · **6** fonts · **0** aptes com a model de llengua · **56** temes amb contingut.
+**68** documents · **6** fonts · **0** aptes com a model de llengua · **56** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -41,7 +41,10 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
-| [El romànic andorrà](temes/cultura/arquitectura/romanic.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `viquipedia-ca` |
+| [El romànic andorrà — índex](temes/cultura/arquitectura/romanic.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `viquipedia-ca` |
+| [Sant Joan de Caselles](temes/cultura/arquitectura/sant-joan-de-caselles.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `viquipedia-ca` |
+| [Sant Martí de la Cortinada](temes/cultura/arquitectura/sant-marti-de-la-cortinada.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `viquipedia-ca` |
+| [Sant Romà de les Bons](temes/cultura/arquitectura/sant-roma-de-les-bons.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/cultura/cultura-popular
 
