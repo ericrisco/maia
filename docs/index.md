@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**94** documents · **7** fonts · **0** aptes com a model de llengua · **73** temes amb contingut.
+**96** documents · **7** fonts · **0** aptes com a model de llengua · **75** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -336,6 +336,12 @@
 | --- | --- | --- | --- | --- | --- |
 | [Registres](temes/llengua/registres/registres.md) | `temes/llengua/registres` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 
+## temes/llengua/tractament
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [El tractament](temes/llengua/tractament/el-tractament.md) | `temes/llengua/tractament` | compilada | contemporania | no | `iec-vocabulari-andorra` |
+
 ## temes/societat/demografia
 
 | Document | Tema | Veu | Època | Apte | Font |
@@ -456,6 +462,12 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Com funciona tot](temes/vida-quotidiana/com-funciona-tot/com-funciona-tot.md) | `temes/vida-quotidiana/com-funciona-tot` | compilada | contemporania | no | `iec-vocabulari-andorra` |
+
+## temes/vida-quotidiana/convencions-socials
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Convencions socials](temes/vida-quotidiana/convencions-socials/convencions-socials.md) | `temes/vida-quotidiana/convencions-socials` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 
 ## temes/vida-quotidiana/geografia-mental
 
