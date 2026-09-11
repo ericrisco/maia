@@ -23,6 +23,7 @@ tags: [historia, segle-xx, biografia, coprincipat, mite]
 | Viquipèdia en | **11 de juliol de 1934** | **23 de 24** | 9 dies |
 | Cerca general | **8 de juliol de 1934** | 24 a 1 | «una setmana i mitja llarga» |
 | *Ara* | confon la data amb la de la detenció | — | «una setmana i mitja llarga» |
+| **Josep Ferrer i Altimira, SAC 2002** ([font](../../../fonts/ferrer-percepcio-andorra-exterior.md)) | — | — | **«al cap de nou dies de govern»** |
 
 **El que totes coincideixen:** va ser el **juliol de 1934**, el Consell General
 **hi va votar a favor de manera gairebé unànime amb un sol vot en contra**, i la
@@ -32,6 +33,41 @@ detenció va ser el **20 de juliol de 1934**.
 donar **l'acta del Consell General d'aquell dia**. Fins que no s'hi vagi,
 aquesta fitxa manté la contradicció a la vista. **Un corpus que triés una data
 per quedar bé estaria fabricant precisió.**
+
+## Una quarta versió, i no encaixa amb les altres
+
+**Josep Ferrer i Altimira**, historiador i **exarxiver del Comú
+d'Escaldes-Engordany**, en dona el **2002** una versió que **contradiu el corpus
+en tres punts alhora**
+([font](../../../fonts/ferrer-percepcio-andorra-exterior.md)):
+
+| Punt | El que diu el corpus | El que diu Ferrer |
+| --- | --- | --- |
+| **Origen** | **Vilna** (Vílnius), petita noblesa **bielorussa** | **Noble ucraïnès (rus blanc)** |
+| **Títol fals** | **Comte** d'Orange | **Baró** d'Orange |
+| **Qui el deté** | **Guàrdia Civil espanyola**, a la Seu d'Urgell | **«els gendarmes i la Guàrdia Civil»**, i «**probablement per ordre dels coprínceps**» |
+
+**«Rus blanc»** pot voler dir dues coses molt diferents —**bielorús** o
+**partidari dels blancs contra els bolxevics**— i Ferrer sembla fer-les servir
+com a sinònimes d'«ucraïnès», cosa que **no ho són**. **La confusió és de la
+font, i es deixa marcada.**
+
+**El que sí que aporta, i ningú més no ho deia**, és la **logística de
+l'arribada**:
+
+- Venia de **Perpinyà**.
+- **Un taxi el va portar fins al Pas de la Casa.**
+- Es va establir a l'**Hostal Valira**, **«recentment inaugurat»**.
+
+**Aquests tres detalls són comprovables** i donen per primera vegada **un lloc
+concret** on buscar rastre documental de la seva estada. **Buit registrat i
+tancable.**
+
+I la seva lectura del que Skossyreff hi va veure confirma la resta de fonts: «a
+aquest noble li va semblar que Andorra era **un país sense govern i amb grans
+possibilitats turístiques**», i va parlar **d'un casino de joc i d'un ferrocarril
+de muntanya** — el **ferrocarril** és un element que les altres versions no
+mencionen. I **«alguns andorrans li feien costat»**.
 
 ## Qui era de veritat
 

@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**165** documents · **16** fonts · **0** aptes com a model de llengua · **95** temes amb contingut.
+**167** documents · **17** fonts · **0** aptes com a model de llengua · **95** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -75,6 +75,8 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Andorra vista de fora](temes/cultura/andorra-vista-de-fora/andorra-vista-de-fora.md) | `temes/cultura/andorra-vista-de-fora` | compilada | contemporania | no | `canturri-usos-i-costums` |
+| [Els descobridors](temes/cultura/andorra-vista-de-fora/els-descobridors.md) | `temes/cultura/andorra-vista-de-fora` | compilada | contemporania | no | `ferrer-percepcio-andorra-exterior` |
+| [La por de fondre's](temes/cultura/andorra-vista-de-fora/la-por-de-fondres.md) | `temes/cultura/andorra-vista-de-fora` | compilada | contemporania | no | `ferrer-percepcio-andorra-exterior` |
 
 ## temes/cultura/arquitectura
 
@@ -652,6 +654,7 @@
 | [`canturri-usos-i-costums`](fonts/canturri-usos-i-costums.md) | Pere Canturri i Montanya · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`consell-general-web`](fonts/consell-general-web.md) | Consell General del Principat d'Andorra | informació institucional pública | si |
 | [`coprincep-frances`](fonts/coprincep-frances.md) | Representació del Copríncep Francès a Andorra | informació institucional pública | si |
+| [`ferrer-percepcio-andorra-exterior`](fonts/ferrer-percepcio-andorra-exterior.md) | Josep Ferrer i Altimira · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`govern-andorra-web`](fonts/govern-andorra-web.md) | Govern del Principat d'Andorra | informació institucional pública | si |
 | [`iec-aldc-andorra`](fonts/iec-aldc-andorra.md) | Institut d'Estudis Catalans | publicació acadèmica de l'IEC, accés obert | pendent |
 | [`iec-vocabulari-andorra`](fonts/iec-vocabulari-andorra.md) | Institut d'Estudis Catalans · Servei de Política Lingüística del Govern d'Andorra | publicació acadèmica de l'IEC, accés obert | pendent |
