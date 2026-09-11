@@ -101,10 +101,15 @@ Val la pena posar-ho al costat de
 [les convencions socials](../../vida-quotidiana/convencions-socials/convencions-socials.md):
 **la societat que hi descrivim és contemporània d'aquesta llei.**
 
-**Buit registrat, prioritari:** què deia exactament la norma de 1975 i què
-substituïa. I **quan voten les dones** a Andorra — el corpus ho té a
-[la sèrie històrica](../../llengua/politica-linguistica/la-serie-historica.md)?
-**No. Buit.**
+**Buit registrat:** què deia exactament la norma de 1975 i què substituïa.
+
+**El buit del vot femení, en canvi, s'ha tancat**, i el resultat és més estrany
+del que semblava: les dones **voten des del 1971** i **poden ser elegides des del
+1973** ([el sufragi femení](../../societat/dones/el-sufragi-femeni.md)).
+
+O sigui que **una dona podia ser consellera general el 1973 i no tenir plens
+drets civils dins del seu matrimoni fins al 1975**. Es podia governar el país
+abans que la pròpia casa.
 
 ### 1975 — advocats i ministeri fiscal
 

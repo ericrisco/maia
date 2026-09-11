@@ -88,8 +88,34 @@ com passava amb
 **Buscar i documentar els autors andorrans que han escrit sobre Andorra és una
 tasca pendent d'aquest corpus**, i aquesta fitxa és el primer pas.
 
+## L'altra meitat de la seva biografia
+
+El corpus la tenia només com a **historiadora**. No ho era només.
+
+**Lídia Armengol Vila consta com a figura particularment influent en la lluita
+pel sufragi femení andorrà** ([el sufragi femení](../../societat/dones/el-sufragi-femeni.md)),
+el moviment que va portar les dones a votar el **1971** i a poder ser elegides el
+**1973**.
+
+**Va morir el 1991, als 43 anys** — **dos anys abans de la Constitució** que
+aquell procés havia ajudat a fer possible.
+
+Val la pena no separar les dues coses. **La persona que va posar ordre a la
+historiografia d'un país era també de les que hi obrien la ciutadania.** I una
+altra cosa que el corpus ja sabia i ara lliga: **és ella qui descriu la cuina
+antiga andorrana** en la citació que recull M. Dolors Ribes
+([les tres taules](../../gastronomia/historia-alimentaria/les-tres-taules.md)),
+amb el detall de les **trumfes** ([la trumfa](../../gastronomia/productes/la-trumfa.md)).
+
+**Historiografia, gastronomia i drets civils, la mateixa persona, en 43 anys.**
+
+**Buit registrat i prioritari:** **una biografia seva en condicions**. El corpus
+la troba sempre citada i mai explicada.
+
 ## Related
 
 - [La historiografia andorrana](./historiografia.md)
 - [El Diccionari enciclopèdic d'Andorra](./el-diccionari-enciclopedic.md)
 - [L'antic règim](../antic-regim/lantic-regim.md) — la feina d'inventari de la seva generació.
+- [El sufragi femení](../../societat/dones/el-sufragi-femeni.md) — l'altra lluita.
+- [Les tres taules](../../gastronomia/historia-alimentaria/les-tres-taules.md) — la seva descripció de la cuina antiga.

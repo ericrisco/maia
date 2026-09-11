@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**177** documents · **20** fonts · **0** aptes com a model de llengua · **95** temes amb contingut.
+**178** documents · **20** fonts · **0** aptes com a model de llengua · **96** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -472,6 +472,12 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Demografia](temes/societat/demografia/demografia.md) | `temes/societat/demografia` | compilada | contemporania | no | `viquipedia-ca` |
+
+## temes/societat/dones
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [El sufragi femení](temes/societat/dones/el-sufragi-femeni.md) | `temes/societat/dones` | compilada | contemporania | no | `consell-general-web` |
 
 ## temes/societat/educacio
 
