@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**98** documents · **7** fonts · **0** aptes com a model de llengua · **77** temes amb contingut.
+**100** documents · **7** fonts · **0** aptes com a model de llengua · **79** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -194,6 +194,12 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [De 1993 ençà](temes/historia/historia-recent/de-1993-enca.md) | `temes/historia/historia-recent` | compilada | contemporania | no | `viquipedia-ca` |
+
+## temes/historia/historiografia
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [La historiografia andorrana](temes/historia/historiografia/historiografia.md) | `temes/historia/historiografia` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/historia/manual-digest
 
@@ -486,6 +492,12 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [La geografia mental](temes/vida-quotidiana/geografia-mental/geografia-mental.md) | `temes/vida-quotidiana/geografia-mental` | compilada | contemporania | no | `iec-vocabulari-andorra` |
+
+## temes/vida-quotidiana/referents-compartits
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Referents compartits](temes/vida-quotidiana/referents-compartits/referents-compartits.md) | `temes/vida-quotidiana/referents-compartits` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## Fonts
 
