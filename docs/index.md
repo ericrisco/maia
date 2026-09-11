@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**191** documents · **24** fonts · **0** aptes com a model de llengua · **96** temes amb contingut.
+**196** documents · **25** fonts · **0** aptes com a model de llengua · **96** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -77,6 +77,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Andorra vista de fora](temes/cultura/andorra-vista-de-fora/andorra-vista-de-fora.md) | `temes/cultura/andorra-vista-de-fora` | compilada | contemporania | no | `canturri-usos-i-costums` |
 | [Els descobridors](temes/cultura/andorra-vista-de-fora/els-descobridors.md) | `temes/cultura/andorra-vista-de-fora` | compilada | contemporania | no | `ferrer-percepcio-andorra-exterior` |
+| [Els gravats romàntics](temes/cultura/andorra-vista-de-fora/els-gravats-romantics.md) | `temes/cultura/andorra-vista-de-fora` | compilada | contemporania | no | `rodriguez-rossa-creacio-artistica` |
 | [La por de fondre's](temes/cultura/andorra-vista-de-fora/la-por-de-fondres.md) | `temes/cultura/andorra-vista-de-fora` | compilada | contemporania | no | `ferrer-percepcio-andorra-exterior` |
 | [Les guies de viatge](temes/cultura/andorra-vista-de-fora/les-guies-de-viatge.md) | `temes/cultura/andorra-vista-de-fora` | compilada | contemporania | no | `lacueva-hoteleria` |
 
@@ -84,6 +85,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El romànic com a operació política](temes/cultura/arquitectura/el-romanic-com-a-operacio-politica.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `rodriguez-rossa-creacio-artistica` |
 | [El romànic andorrà — índex](temes/cultura/arquitectura/romanic.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `viquipedia-ca` |
 | [Sant Joan de Caselles](temes/cultura/arquitectura/sant-joan-de-caselles.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `viquipedia-ca` |
 | [Sant Martí de la Cortinada](temes/cultura/arquitectura/sant-marti-de-la-cortinada.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `viquipedia-ca` |
@@ -101,6 +103,8 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Les arts visuals](temes/cultura/arts-visuals/arts-visuals.md) | `temes/cultura/arts-visuals` | compilada | contemporania | no | `viquipedia-ca` |
+| [Els mestres anònims](temes/cultura/arts-visuals/els-mestres-anonims.md) | `temes/cultura/arts-visuals` | compilada | contemporania | no | `rodriguez-rossa-creacio-artistica` |
+| [L'art més antic](temes/cultura/arts-visuals/lart-mes-antic.md) | `temes/cultura/arts-visuals` | compilada | contemporania | no | `rodriguez-rossa-creacio-artistica` |
 
 ## temes/cultura/cultura-popular
 
@@ -574,6 +578,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Els castells que no hi ha](temes/territori/paisatge-construit/els-castells-que-no-hi-ha.md) | `temes/territori/paisatge-construit` | compilada | contemporania | no | `rodriguez-rossa-creacio-artistica` |
 | [Paisatge construït](temes/territori/paisatge-construit/paisatge-construit.md) | `temes/territori/paisatge-construit` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 
 ## temes/territori/parroquies/andorra-la-vella
@@ -699,6 +704,7 @@
 | [`pujol-fet-religios`](fonts/pujol-fet-religios.md) | Mn. Joan Pujol i Balcells · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`ribes-gastronomia-andorrana`](fonts/ribes-gastronomia-andorrana.md) | M. Dolors Ribes i Rogé · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`rodriguez-minana-notaris`](fonts/rodriguez-minana-notaris.md) | Joan Carles Rodríguez i Miñana · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`rodriguez-rossa-creacio-artistica`](fonts/rodriguez-rossa-creacio-artistica.md) | Francesc Rodríguez i Rossa · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`societat-andorrana-ciencies`](fonts/societat-andorrana-ciencies.md) | Societat Andorrana de Ciències (Andorra) | publicació acadèmica en accés obert | pendent |
 | [`ubach-moviments-socials`](fonts/ubach-moviments-socials.md) | Gabriel Ubach i Valdivia · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`vela-ordinacions-segle-xv`](fonts/vela-ordinacions-segle-xv.md) | Susanna Vela i Palomares · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
