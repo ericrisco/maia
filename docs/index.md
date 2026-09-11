@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**89** documents · **7** fonts · **0** aptes com a model de llengua · **68** temes amb contingut.
+**92** documents · **7** fonts · **0** aptes com a model de llengua · **71** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -257,6 +257,12 @@
 | --- | --- | --- | --- | --- | --- |
 | [Quarts i veïnats](temes/institucions/quarts-i-veinats/quarts-i-veinats.md) | `temes/institucions/quarts-i-veinats` | compilada | contemporania | no | `consell-general-web` |
 
+## temes/institucions/relacions-exteriors
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [L'acord d'associació amb la UE](temes/institucions/relacions-exteriors/lacord-dassociacio-amb-la-ue.md) | `temes/institucions/relacions-exteriors` | compilada | contemporania | no | `premsa-andorrana` |
+
 ## temes/institucions/simbols
 
 | Document | Tema | Veu | Època | Apte | Font |
@@ -432,6 +438,18 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [La toponímia andorrana](temes/territori/toponimia/toponimia-andorrana.md) | `temes/territori/toponimia` | compilada | contemporania | no | `viquipedia-ca` |
+
+## temes/vida-quotidiana/com-funciona-tot
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Com funciona tot](temes/vida-quotidiana/com-funciona-tot/com-funciona-tot.md) | `temes/vida-quotidiana/com-funciona-tot` | compilada | contemporania | no | `iec-vocabulari-andorra` |
+
+## temes/vida-quotidiana/geografia-mental
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [La geografia mental](temes/vida-quotidiana/geografia-mental/geografia-mental.md) | `temes/vida-quotidiana/geografia-mental` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 
 ## Fonts
 
