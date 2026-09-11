@@ -1,7 +1,7 @@
 ---
 type: article
 title: La historiografia andorrana
-description: "Un país que es va escriure a si mateix el 1762, i dos documents fundacionals que són falsos."
+description: "Un país que es va escriure a si mateix el 1748, i dos documents fundacionals que són falsos."
 tema: temes/historia/historiografia
 veu: compilada
 epoca: contemporania
@@ -25,10 +25,13 @@ llegir-lo.
 
 La historiografia andorrana **comença des de dins i molt aviat**:
 
-- **1762 — [Manual Digest](../manual-digest/manual-digest.md)**, d'Antoni Fiter
+- **1748 — [Manual Digest](../manual-digest/manual-digest.md)**, d'Antoni Fiter
   i Rossell. Compendi de la realitat històrica i institucional, **guia de govern
-  durant més de tres segles**.
-- **1763 — *Politar Andorrà***, d'Antoni Puig: versió condensada, l'any següent.
+  durant més de tres segles**. L'inventari de
+  [l'Arxiu de les Set Claus](../../institucions/patrimoni-institucional/larmari-de-les-set-claus.md)
+  en conserva l'exemplar (ASC 34090) amb el títol d'època ***Manual Digest de
+  las valls neutras de Andorra***, **271 folis**.
+- **1763 — *Politar Andorrà***, d'Antoni Puig: versió condensada.
 - **1874 — *Història de Nostra Senyora de Meritxell***, de Lluís Ignasi Fiter i
   Cava.
 

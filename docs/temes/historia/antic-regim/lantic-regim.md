@@ -69,7 +69,7 @@ té el lèxic que té**.
 
 ## El text que ho governava
 
-El **[Manual Digest](../manual-digest/manual-digest.md)** de **1762** va ser
+El **[Manual Digest](../manual-digest/manual-digest.md)** de **1748** va ser
 **guia de govern durant més de tres segles**, i el ***Politar Andorrà*** de
 **1763** en va ser la versió condensada. Vegeu
 [historiografia](../historiografia/historiografia.md).

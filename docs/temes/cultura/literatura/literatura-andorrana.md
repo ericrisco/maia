@@ -1,7 +1,7 @@
 ---
 type: article
 title: La literatura andorrana
-description: Comença amb un manual de govern del 1762 i no es consolida com a literatura pròpia fins després del 1993.
+description: Comença amb un manual de govern del 1748 i no es consolida com a literatura pròpia fins després del 1993.
 tema: temes/cultura/literatura
 veu: compilada
 epoca: contemporania
@@ -27,7 +27,7 @@ a cos reconeixible és **contemporània de l'estat constitucional**.
 
 El text fundacional no és una novel·la ni un poema. És el
 **[Manual Digest](../../historia/manual-digest/manual-digest.md)** d'**Antoni
-Fiter i Rossell** (**1762**): un compendi de la realitat històrica i
+Fiter i Rossell** (**1748**): un compendi de la realitat històrica i
 institucional que va servir de **guia de govern durant més de tres segles**.
 
 Que la primera obra de la literatura d'un país sigui **el seu manual
@@ -36,7 +36,7 @@ d'instruccions** diu alguna cosa sobre aquell país.
 Al seu costat:
 
 - **Antoni Puig**, ***Politar Andorrà*** (**1763**) — versió condensada del
-  Manual, l'any següent.
+  Manual.
 - **Lluís Ignasi Fiter i Cava**, ***Història de Nostra Senyora de Meritxell***
   (**1874**) — la [troballa](../llegendes/la-troballa-de-meritxell.md) passada
   a llibre.
@@ -74,7 +74,7 @@ el país ha processat literàriament el seu episodi més estrany.
 
 **Carlemany**, **Fiter i Rossell**, **Manel Cerqueda** (novel·la curta).
 
-Que un premi es digui **Fiter i Rossell** —l'autor del Manual Digest de 1762— i
+Que un premi es digui **Fiter i Rossell** —l'autor del Manual Digest de 1748— i
 un altre **Carlemany** —el de [l'himne](../../institucions/simbols/el-gran-carlemany.md)—
 mostra com la institució literària andorrana es va construir citant-se a si
 mateixa.

@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**122** documents · **9** fonts · **0** aptes com a model de llengua · **89** temes amb contingut.
+**123** documents · **9** fonts · **0** aptes com a model de llengua · **89** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -299,6 +299,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [La Casa de la Vall](temes/institucions/patrimoni-institucional/casa-de-la-vall.md) | `temes/institucions/patrimoni-institucional` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 | [L'Armari de les Set Claus](temes/institucions/patrimoni-institucional/larmari-de-les-set-claus.md) | `temes/institucions/patrimoni-institucional` | compilada | contemporania | no | `viquipedia-ca` |
+| [L'inventari de les Set Claus](temes/institucions/patrimoni-institucional/linventari-de-les-set-claus.md) | `temes/institucions/patrimoni-institucional` | compilada | contemporania | no | `govern-andorra-web` |
 
 ## temes/institucions/quarts-i-veinats
 

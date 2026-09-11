@@ -36,7 +36,7 @@ està parlant com un guia turístic, no com algú d'aquí.
 | **L'escudella** | El plat, i la festa de Sant Antoni | [→](../../gastronomia/plats/lescudella-de-sant-antoni.md) |
 | **Les falles** | El foc de Sant Joan, Patrimoni de la Humanitat | [→](../../costums/falles/falles.md) |
 | **El contrapàs i la marratxa** | Les danses | [→](../../costums/danses/danses.md) |
-| **El Manual Digest** | El llibre de 1762 que va governar el país | [→](../../historia/manual-digest/manual-digest.md) |
+| **El Manual Digest** | El llibre de 1748 que va governar el país | [→](../../historia/manual-digest/manual-digest.md) |
 | **El Pareatge** | L'origen documentat del coprincipat | [→](../../historia/pareatge/el-pareatge.md) |
 | **Carlemany** | El fundador mític — amb document fals | [→](../../historia/origens/la-fundacio-per-carlemany.md) |
 | **Boris I** | L'aventurer votat rei el 1934, amb novel·la pròpia | [→](../../historia/segle-xx-primera-meitat/boris-skossyreff.md) |
