@@ -2,13 +2,14 @@
 
 # Índex del cervell andorrà
 
-**125** documents · **10** fonts · **0** aptes com a model de llengua · **89** temes amb contingut.
+**127** documents · **10** fonts · **0** aptes com a model de llengua · **89** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [El calendari festiu](temes/costums/calendari-festiu/calendari-festiu.md) | `temes/costums/calendari-festiu` | compilada | contemporania | no | `premsa-andorrana` |
+| [El carnaval d'Encamp](temes/costums/calendari-festiu/el-carnaval-dencamp.md) | `temes/costums/calendari-festiu` | compilada | contemporania | no | `premsa-andorrana` |
 
 ## temes/costums/caramelles
 
@@ -35,6 +36,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El calendari de les festes majors](temes/costums/festes-majors/el-calendari-de-les-festes-majors.md) | `temes/costums/festes-majors` | compilada | contemporania | no | `premsa-andorrana` |
 | [Festes majors](temes/costums/festes-majors/festes-majors.md) | `temes/costums/festes-majors` | compilada | contemporania | no | `premsa-andorrana` |
 
 ## temes/costums/meritxell
