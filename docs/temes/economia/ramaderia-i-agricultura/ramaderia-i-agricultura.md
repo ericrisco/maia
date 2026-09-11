@@ -32,16 +32,37 @@ El vocabulari d'aquesta economia és una part important del lèxic marcat andorr
 
 | Mot | Què és |
 | --- | --- |
-| **borda** | Construcció on es guarda bestiar. A Andorra i comarques pirinenques, avui també **'restaurant típic'** |
+| **borda** | Avui, construcció on es guarda bestiar; i també **'restaurant típic'**. **D'origen era agrícola** — vegeu l'avís de sota |
 | **cortal** | Construcció de muntanya lligada a l'explotació ramadera |
 | **emprivari** | Titular de l'ús d'un **empriu**, el dret d'aprofitament comunal |
 | **rebaixant** | Terreny comunal boscós situat a menys altitud que les zones d'alta muntanya |
 | **regissor** | Encarregat d'una explotació agrària (del francès *régisseur*) |
 | **bander** | El guarda forestal — l'agent rural de Catalunya |
 
-El cas de **borda** mereix atenció: la mateixa paraula designa avui l'establia
-antiga i el restaurant que hi han fet a dins. El desplaçament semàntic és el
-mapa de la transformació econòmica del país en una sola paraula.
+El cas de **borda** mereix atenció, i té **tres estadis, no dos**:
+
+> **agrícola → ramadera → restaurant.**
+
+**David Mas** ([font](../../../fonts/mas-pagesos-i-artesans.md)) documenta que
+«**a l'origen, la borda no és una explotació ramadera, sinó agrícola**»: servia
+per **emmagatzemar el producte** de terres llunyanes i **estabular els animals de
+treball**. Ho proven els **malladors per al blat**, els testimonis orals i les
+fotografies d'època amb **cavallons de cereal al Serrat i a Engolasters**. Només
+al **segle XX** passa a ser enclau ramader.
+
+De manera que **el desplaçament semàntic de *borda* porta tres economies a dins**
+—i la definició habitual només en recull l'última i mitja. És el mapa de la
+transformació del país en una sola paraula. Detall complet a
+[l'agricultura de subsistència](./lagricultura-de-subsistencia.md).
+
+## Les fitxes d'aquesta branca
+
+| Fitxa | Què cobreix |
+| --- | --- |
+| [L'agricultura de subsistència](./lagricultura-de-subsistencia.md) | El 4% conreable, la diversificació, la formació de les pairalies, la borda |
+| [La vinya i el tabac](./la-vinya-i-el-tabac.md) | La vinya **no** va morir de fil·loxera: la va substituir el tabac al segle XVIII |
+| [La crisi de l'oví](./la-crisi-de-lovi.md) | L'auge dels segles XVI-XVIII i les cinc causes de l'enfonsada |
+| [Les mules](./les-mules.md) | El principal producte d'exportació, i la reexportació de mules franceses |
 
 ## El que falta
 

@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**145** documents · **12** fonts · **0** aptes com a model de llengua · **92** temes amb contingut.
+**151** documents · **13** fonts · **0** aptes com a model de llengua · **93** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -85,6 +85,13 @@
 | [Sant Martí de la Cortinada](temes/cultura/arquitectura/sant-marti-de-la-cortinada.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `viquipedia-ca` |
 | [Sant Romà de les Bons](temes/cultura/arquitectura/sant-roma-de-les-bons.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `viquipedia-ca` |
 
+## temes/cultura/artesania
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [El ferro — fargues i ferrers](temes/cultura/artesania/el-ferro.md) | `temes/cultura/artesania` | compilada | contemporania | no | `mas-pagesos-i-artesans` |
+| [El tèxtil](temes/cultura/artesania/el-textil.md) | `temes/cultura/artesania` | compilada | contemporania | no | `mas-pagesos-i-artesans` |
+
 ## temes/cultura/arts-visuals
 
 | Document | Tema | Veu | Època | Apte | Font |
@@ -151,6 +158,10 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [La crisi de l'oví](temes/economia/ramaderia-i-agricultura/la-crisi-de-lovi.md) | `temes/economia/ramaderia-i-agricultura` | compilada | contemporania | no | `mas-pagesos-i-artesans` |
+| [La vinya i el tabac](temes/economia/ramaderia-i-agricultura/la-vinya-i-el-tabac.md) | `temes/economia/ramaderia-i-agricultura` | compilada | contemporania | no | `mas-pagesos-i-artesans` |
+| [L'agricultura de subsistència](temes/economia/ramaderia-i-agricultura/lagricultura-de-subsistencia.md) | `temes/economia/ramaderia-i-agricultura` | compilada | contemporania | no | `mas-pagesos-i-artesans` |
+| [Les mules](temes/economia/ramaderia-i-agricultura/les-mules.md) | `temes/economia/ramaderia-i-agricultura` | compilada | contemporania | no | `mas-pagesos-i-artesans` |
 | [Ramaderia i agricultura](temes/economia/ramaderia-i-agricultura/ramaderia-i-agricultura.md) | `temes/economia/ramaderia-i-agricultura` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 
 ## temes/economia/tabac
@@ -621,6 +632,7 @@
 | [`iec-aldc-andorra`](fonts/iec-aldc-andorra.md) | Institut d'Estudis Catalans | publicació acadèmica de l'IEC, accés obert | pendent |
 | [`iec-vocabulari-andorra`](fonts/iec-vocabulari-andorra.md) | Institut d'Estudis Catalans · Servei de Política Lingüística del Govern d'Andorra | publicació acadèmica de l'IEC, accés obert | pendent |
 | [`llegendes-dandorra-llibre`](fonts/llegendes-dandorra-llibre.md) | Roser Carol i Àlvar Valls · Editorial andorrana | obra literària amb drets reservats | False |
+| [`mas-pagesos-i-artesans`](fonts/mas-pagesos-i-artesans.md) | David Mas i Canalís · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`molla-catala-andorra`](fonts/molla-catala-andorra.md) | Guillem Molla · Universitat de Girona · revista IANUA | publicació acadèmica en accés obert | pendent |
 | [`premsa-andorrana`](fonts/premsa-andorrana.md) | Diari d'Andorra · Altaveu · Bondia · El Periòdic d'Andorra · La Ciutat | contingut periodístic amb drets reservats | False |
 | [`societat-andorrana-ciencies`](fonts/societat-andorrana-ciencies.md) | Societat Andorrana de Ciències (Andorra) | publicació acadèmica en accés obert | pendent |

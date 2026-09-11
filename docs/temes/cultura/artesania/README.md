@@ -1,30 +1,45 @@
 # Artesania
 
-**Branca oberta i buida a propòsit.**
+**Aquesta branca va estar buida a propòsit, i s'ha obert el 2026-09-12.**
 
-S'hi ha buscat material i **no se n'ha trobat d'específicament andorrà**. El que
-retorna una cerca són inventaris d'oficis artesans **catalans** —el ferrer, el
-forjador, el manyà, el treball de la fusta, la llana— perfectament vàlids per al
-Montseny o per al repertori del Consorci de Comerç, Artesania i Moda de
-Catalunya, i **sense cap garantia de descriure Andorra**.
+Durant un temps s'hi va buscar material i **no se'n trobava d'específicament
+andorrà**: el que retornava una cerca eren inventaris d'oficis artesans
+**catalans** —el ferrer, el forjador, el manyà, la fusta, la llana— vàlids per al
+Montseny i **sense cap garantia de descriure Andorra**. Omplir-la amb allò
+hauria estat posar folklore català dins un corpus andorrà amb aparença
+d'informació. Es va deixar el buit escrit.
 
-Omplir aquesta branca amb aquell material seria **posar folklore català dins un
-corpus andorrà** i donar-li l'aparença d'informació sobre Andorra. És
-exactament el tipus d'error que aquest corpus existeix per evitar: el que no es
-pot fonamentar no s'escriu, es registra com a buit.
+El propi README apuntava per on s'hi havia d'entrar: **«el treball del ferro a
+Andorra té un fil propi i documentat: la farga… aquesta és la porta bona»**.
 
-## Per on s'ha d'entrar quan es reprengui
+**Era la porta bona.** La font que l'obre és **David Mas i Canalís**, *Pagesos i
+artesans*, 15a Diada Andorrana, 2002
+([fitxa de font](../../../fonts/mas-pagesos-i-artesans.md)) — historiador i
+tècnic d'Inventari i Conservació del Govern d'Andorra.
 
-- El **Museu Casa d'Areny-Plandolit** (Ordino) i el **Museu de la Miniatura**.
-- L'**Arxiu Nacional d'Andorra**: fons d'oficis, inventaris de cases.
+## Què hi ha
+
+| Fitxa | Què cobreix |
+| --- | --- |
+| [El tèxtil](./el-textil.md) | Confraria de Paraires i Teixidors (Escaldes, 1604), la caiguda del 1620, la fàbrica de mantes (1920-anys 40) |
+| [El ferro](./el-ferro.md) | Fargues (1619-1893) i ferrers (un per parròquia) |
+
+## El principi que hi regeix
+
+**A Andorra l'artesà i el pagès són sovint la mateixa persona.** Mas: «arriba a
+ser difícil fer la distinció entre uns i altres». Qualsevol descripció que els
+separi en dues classes socials està important un model gremial de ciutat que
+aquí no s'aplica.
+
+## El que encara falta
+
+- **Fusta, pell, pedra.** Mas només tracta el tèxtil i el ferro.
 - El ***Vocabulari d'Andorra*** (Badia, Ganyet i Pérez, 1992) — el lèxic d'oficis
   és el camí més directe a saber quins oficis hi havia realment. **Font
-  prioritària no consultada.**
-- El **treball del ferro** a Andorra té un fil propi i documentat: **la farga**.
-  Abans de l'artesania decorativa hi va haver **indústria del ferro**, i aquesta
-  és la porta bona.
-- Les **fires** (la de Andorra la Vella, la de Sant Ermengol a la Seu) com a
-  lloc on l'artesania es mostra i es ven.
+  prioritària encara no consultada.**
+- El **Museu Casa d'Areny-Plandolit** (Ordino) i el **Museu de la Miniatura**.
+- L'**Arxiu Nacional d'Andorra**: fons d'oficis, inventaris de cases.
+- Les **fires** com a lloc on l'artesania es mostra i es ven.
+- L'**artesania d'avui**: qui en viu, què es ven al turista i què és real.
 
-Quan hi hagi font andorrana, aquesta branca s'omple. Fins llavors, **un buit
-visible val més que una pàgina plena de material manllevat**.
+**Veu per defecte d'aquesta branca:** `compilada`.
