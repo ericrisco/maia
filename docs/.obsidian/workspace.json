@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0a1b792f32b374c0",
+        "id": "a432e04f5a73dccd",
         "type": "tabs",
         "children": [
           {
-            "id": "79a60e5ce4dc6d89",
+            "id": "ac22f7b078820fe3",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -181,8 +181,14 @@
       "bases:Crea una base nova": false
     }
   },
-  "active": "79a60e5ce4dc6d89",
+  "active": "ac22f7b078820fe3",
   "lastOpenFiles": [
+    "temes/cultura/llegendes/llegendes.md",
+    "temes/gastronomia/productes/productes.md",
+    "temes/gastronomia/plats/plats.md",
+    "temes/llengua/manlleus/manlleus.md",
+    "temes/territori/paisatge-construit/paisatge-construit.md",
+    "temes/economia/ramaderia-i-agricultura/ramaderia-i-agricultura.md",
     "temes/historia/guerres-i-neutralitat/guerres-i-neutralitat.md",
     "temes/historia/contraban/contraban.md",
     "temes/economia/tabac/tabac.md",
@@ -196,17 +202,12 @@
     "temes/societat/educacio/educacio.md",
     "fonts/premsa-andorrana.md",
     "temes/llengua/contacte-de-llengues/contacte-de-llengues.md",
-    "temes/llengua/manlleus/manlleus.md",
     "temes/llengua/lexic-andorra/lexic-andorra.md",
     "fonts/iec-vocabulari-andorra.md",
     "temes/historia/pareatge/el-pareatge.md",
     "temes/institucions/coprincipat/el-coprincipat.md",
     "fonts/coprincep-frances.md",
     "temes/institucions/consell-general/el-consell-general.md",
-    "temes/institucions/comuns-i-parroquies/les-set-parroquies.md",
-    "temes/institucions/quarts-i-veinats/quarts-i-veinats.md",
-    "fonts/viquipedia-ca.md",
-    "fonts/consell-general-web.md",
-    "CONTRACT.md"
+    "temes/institucions/comuns-i-parroquies/les-set-parroquies.md"
   ]
 }
