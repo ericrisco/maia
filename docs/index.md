@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**109** documents · **7** fonts · **0** aptes com a model de llengua · **88** temes amb contingut.
+**112** documents · **8** fonts · **0** aptes com a model de llengua · **88** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -92,6 +92,8 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El buner d'Ordino](temes/cultura/llegendes/el-buner-dordino.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `llegendes-dandorra-llibre` |
+| [El llac d'Engolasters](temes/cultura/llegendes/el-llac-dengolasters.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `llegendes-dandorra-llibre` |
 | [El Roc de les Bruixes](temes/cultura/llegendes/el-roc-de-les-bruixes.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `viquipedia-ca` |
 | [La bruixa de Sornàs](temes/cultura/llegendes/la-bruixa-de-sornas.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `viquipedia-ca` |
 | [La troballa de Meritxell](temes/cultura/llegendes/la-troballa-de-meritxell.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `premsa-andorrana` |
@@ -114,6 +116,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Banca i fiscalitat](temes/economia/banca-i-fiscalitat/banca-i-fiscalitat.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `viquipedia-ca` |
+| [El cas BPA](temes/economia/banca-i-fiscalitat/el-cas-bpa.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `premsa-andorrana` |
 
 ## temes/economia/comerc
 
@@ -248,7 +251,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
-| [Boris Skossyreff, rei d'Andorra durant onze dies](temes/historia/segle-xx-primera-meitat/boris-skossyreff.md) | `temes/historia/segle-xx-primera-meitat` | compilada | contemporania | no | `viquipedia-ca` |
+| [Boris Skossyreff, rei d'Andorra](temes/historia/segle-xx-primera-meitat/boris-skossyreff.md) | `temes/historia/segle-xx-primera-meitat` | compilada | contemporania | no | `viquipedia-ca` |
 | [La Revolució de 1933](temes/historia/segle-xx-primera-meitat/la-revolucio-de-1933.md) | `temes/historia/segle-xx-primera-meitat` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/institucions/comuns-i-parroquies
@@ -562,5 +565,6 @@
 | [`govern-andorra-web`](fonts/govern-andorra-web.md) | Govern del Principat d'Andorra | informació institucional pública | si |
 | [`iec-aldc-andorra`](fonts/iec-aldc-andorra.md) | Institut d'Estudis Catalans | publicació acadèmica de l'IEC, accés obert | pendent |
 | [`iec-vocabulari-andorra`](fonts/iec-vocabulari-andorra.md) | Institut d'Estudis Catalans · Servei de Política Lingüística del Govern d'Andorra | publicació acadèmica de l'IEC, accés obert | pendent |
+| [`llegendes-dandorra-llibre`](fonts/llegendes-dandorra-llibre.md) | Roser Carol i Àlvar Valls · Editorial andorrana | obra literària amb drets reservats | False |
 | [`premsa-andorrana`](fonts/premsa-andorrana.md) | Diari d'Andorra · Altaveu · Bondia · El Periòdic d'Andorra · La Ciutat | contingut periodístic amb drets reservats | False |
 | [`viquipedia-ca`](fonts/viquipedia-ca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
