@@ -146,3 +146,4 @@ carregada d'Andorra**
 - [La llei de la llengua](./la-llei-de-la-llengua.md) — la resposta política.
 - [Els tres sistemes](../../societat/educacio/els-tres-sistemes.md) — la causa.
 - [L'estàndard contra la varietat](../dialectologia/lestandard-contra-la-varietat.md) — el preu de la recuperació.
+- [L'andorranització](../../societat/educacio/landorranitzacio.md) — per què tan poca gent va aprendre a escriure'l.

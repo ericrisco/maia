@@ -191,3 +191,5 @@ educatiu estranger **formant cambrers per a Andorra**. Vegeu
 - [La societat segmentada](../immigracio/la-societat-segmentada.md) — on es barregen.
 - [El sindicalisme](../treball/el-sindicalisme.md) — els mestres francesos de vaga.
 - [El Coprincipat](../../institucions/coprincipat/el-coprincipat.md) — de qui eren les escoles.
+- [La cronologia escolar](./la-cronologia-escolar.md) — on encaixa dins les tres sèries.
+- [El mapa escolar del 2000](./el-mapa-escolar-del-2000.md) — el Liceu Comte de Foix i els nou centres.

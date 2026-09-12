@@ -20,8 +20,11 @@ tags: [educacio, universitat, institucions, joves, pais-petit]
 ## La data
 
 La **Universitat d'Andorra** és **l'única universitat pública estatal del país**.
-Es constitueix a partir de la **Llei d'universitats**, publicada al **BOPA del 20
-d'agost de 1997**.
+Es constitueix a partir de la **Llei d'universitats**, **aprovada el 30 de juliol
+de 1997** i **publicada al BOPA núm. 53, any 9, el 20 d'agost de 1997**. (El
+rector en dona la data de publicació; la ponència de
+[Roser Bastida](./el-marc-legal-de-leducacio.md) en dona la d'aprovació —
+**no es contradiuen**.)
 
 **Situeu-ho:** la [Constitució](../../historia/constitucio-1993/constitucio-1993.md)
 és del **1993**. La universitat arriba **quatre anys després**. Andorra completa

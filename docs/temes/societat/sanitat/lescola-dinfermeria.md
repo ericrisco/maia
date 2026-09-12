@@ -101,10 +101,11 @@ visible** — el que no és hospital.
 La font ho diu, i el detall importa: no només a l'hospital, sinó a la **xarxa de
 centres de salut** i a llocs **«no tan coneguts»**:
 
-- l'**escola especialitzada Nostra Senyora de Meritxell**
+- l'**escola especialitzada Nostra Senyora de Meritxell** — [fitxa](../educacio/lescola-nostra-senyora-de-meritxell.md)
 - el **Centre d'Acolliment d'Infants (CAI)**
 
-**Dues institucions que el corpus no tenia enlloc.** Buit obert.
+**Del CAI el corpus no té res. De l'escola Nostra Senyora de Meritxell, ara sí:
+[fitxa](../educacio/lescola-nostra-senyora-de-meritxell.md).**
 
 ## La segona feina: reciclar les que ja hi són
 
@@ -142,8 +143,9 @@ també ha d'evitar la malaltia.
 - **Per què 111 i no 150.**
 - **Quantes infermeres andorranes hi ha avui** i quin percentatge — la xifra del
   10% del 1987 **demana un tancament**. **Buit prioritari.**
-- **L'escola especialitzada Nostra Senyora de Meritxell** i el **Centre
-  d'Acolliment d'Infants**: què són, des de quan.
+- ~~L'escola especialitzada Nostra Senyora de Meritxell~~ — **fitxa oberta**;
+  en queda pendent la data exacta de fundació. El **Centre d'Acolliment
+  d'Infants**, en canvi, segueix sense res.
 - **Quantes de les 111 eren dones**: la font no ho diu, i en una professió tan
   marcada per gènere és una dada que falta. Vegeu
   [dones](../dones/README.md).

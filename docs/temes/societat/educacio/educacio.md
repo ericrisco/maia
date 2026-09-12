@@ -74,3 +74,8 @@ premsa i s'haurien de reverificar.
 - [Manlleus](../../llengua/manlleus/manlleus.md) — per on entra el francès.
 - [Lèxic andorrà](../../llengua/lexic-andorra/lexic-andorra.md) — el vocabulari escolar propi.
 - [La Universitat d'Andorra](./la-universitat-dandorra.md) — el pis de dalt, i el més tardà.
+- [La cronologia escolar](./la-cronologia-escolar.md) — de 1882 a 1997, amb dates.
+- [L'andorranització](./landorranitzacio.md) — el 1972, entrar a les escoles dels altres.
+- [El marc legal de l'educació](./el-marc-legal-de-leducacio.md) — les lleis i els dos tractats.
+- [El mapa escolar del 2000](./el-mapa-escolar-del-2000.md) — centre per centre.
+- [L'escola Nostra Senyora de Meritxell](./lescola-nostra-senyora-de-meritxell.md) — l'educació especial.

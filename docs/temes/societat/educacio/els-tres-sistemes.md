@@ -25,6 +25,10 @@ tags: [societat, educacio, llengua, historia, institucions]
 
 ([Molla, 2003](../../../fonts/molla-catala-andorra.md))
 
+**Aquestes dates s'afinen** a [la cronologia escolar](./la-cronologia-escolar.md),
+amb la font del ministeri: **1882** (Sagrada Família), **1900** (franceses),
+**1930** (espanyoles d'estat).
+
 **Andorra va tenir escola pròpia el 1982. Televisió pública el 1995. Constitució
 el 1993.** El país es va dotar de les seves institucions modernes en quinze
 anys, i **l'escola va anar primera**.
@@ -137,3 +141,5 @@ Els universitaris que estudien al Principat van passar de **15 el curs
 - [La sèrie històrica](../../llengua/politica-linguistica/la-serie-historica.md)
 - [L'estàndard contra la varietat](../../llengua/dialectologia/lestandard-contra-la-varietat.md)
 - [La Universitat d'Andorra](./la-universitat-dandorra.md) — on desemboquen, quan no marxen.
+- [La cronologia escolar](./la-cronologia-escolar.md) — les mateixes dates, afinades.
+- [El mapa escolar del 2000](./el-mapa-escolar-del-2000.md) — els centres, un per un.
