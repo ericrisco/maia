@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**228** documents · **44** fonts · **0** aptes com a model de llengua · **97** temes amb contingut.
+**229** documents · **45** fonts · **0** aptes com a model de llengua · **97** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -105,6 +105,7 @@
 | [Les arts visuals](temes/cultura/arts-visuals/arts-visuals.md) | `temes/cultura/arts-visuals` | compilada | contemporania | no | `viquipedia-ca` |
 | [Els mestres anònims](temes/cultura/arts-visuals/els-mestres-anonims.md) | `temes/cultura/arts-visuals` | compilada | contemporania | no | `rodriguez-rossa-creacio-artistica` |
 | [L'art més antic](temes/cultura/arts-visuals/lart-mes-antic.md) | `temes/cultura/arts-visuals` | compilada | contemporania | no | `rodriguez-rossa-creacio-artistica` |
+| [Les escoles d'art comunals](temes/cultura/arts-visuals/les-escoles-dart-comunals.md) | `temes/cultura/arts-visuals` | compilada | contemporania | no | `mas-educacio-artistica` |
 
 ## temes/cultura/cultura-popular
 
@@ -748,6 +749,7 @@
 | [`insa-ensenyament-salut`](fonts/insa-ensenyament-salut.md) | Anna Insa i Canel · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`lacueva-hoteleria`](fonts/lacueva-hoteleria.md) | Ludmilla Lacueva i Canut · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`llegendes-dandorra-llibre`](fonts/llegendes-dandorra-llibre.md) | Roser Carol i Àlvar Valls · Editorial andorrana | obra literària amb drets reservats | False |
+| [`mas-educacio-artistica`](fonts/mas-educacio-artistica.md) | Roger Mas i Canalis · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mas-pagesos-i-artesans`](fonts/mas-pagesos-i-artesans.md) | David Mas i Canalís · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`molla-catala-andorra`](fonts/molla-catala-andorra.md) | Guillem Molla · Universitat de Girona · revista IANUA | publicació acadèmica en accés obert | pendent |
 | [`pallares-medicina-andorra`](fonts/pallares-medicina-andorra.md) | Manuel Pallarès i Darsa · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |

@@ -121,3 +121,4 @@ lèxic viu, no categoria abstracta.
 - [L'agricultura de subsistència](../../economia/ramaderia-i-agricultura/lagricultura-de-subsistencia.md) — el lli i el cànem que alimentaven el teler.
 - [La crisi de l'oví](../../economia/ramaderia-i-agricultura/la-crisi-de-lovi.md) — la llana que es va quedar sense mercat.
 - [Comerç](../../economia/comerc/comerc.md) — els privilegis comercials.
+- [Les escoles d'art comunals](../arts-visuals/les-escoles-dart-comunals.md)

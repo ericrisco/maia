@@ -72,3 +72,4 @@ artístic més valuós del país.
 - [Romànic](../arquitectura/romanic.md)
 - [Museus i arxius](../museus-i-arxius/museus-i-arxius.md)
 - [Meritxell](../../costums/meritxell/meritxell.md)
+- [Les escoles d'art comunals](./les-escoles-dart-comunals.md) — on s'ensenya a fer-ho, des dels anys vuitanta.

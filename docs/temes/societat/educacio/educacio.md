@@ -86,5 +86,6 @@ premsa i s'haurien de reverificar.
 - [Les escoles dels comuns](./les-escoles-dels-comuns.md) — el 1920, les úniques que hi havia.
 - [L'escola privada](./lescola-privada.md) — arriba el 1999-2000.
 - [Les associacions de pares](./les-associacions-de-pares.md) — i el llibre sobre la infància andorrana.
+- [Les escoles d'art comunals](../../cultura/arts-visuals/les-escoles-dart-comunals.md) — on van els nens a les cinc.
 - [L'ensenyament confessional](./lensenyament-confessional.md) — des del 1882, la sèrie més antiga.
 - [Índex legislatiu en educació](./index-legislatiu-en-educacio.md) — 48 normes amb BOPA i data.

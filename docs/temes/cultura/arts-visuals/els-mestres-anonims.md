@@ -166,3 +166,4 @@ només podia conèixer d'aquesta manera**».
 - [Sant Martí de la Cortinada](../arquitectura/sant-marti-de-la-cortinada.md) — el mestre sense nom.
 - [Museus i arxius](../museus-i-arxius/museus-i-arxius.md) — on hauria de ser.
 - [L'agricultura de subsistència](../../economia/ramaderia-i-agricultura/lagricultura-de-subsistencia.md) — l'auge del XVIII.
+- [Les escoles d'art comunals](./les-escoles-dart-comunals.md)

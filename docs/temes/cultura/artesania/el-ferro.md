@@ -147,3 +147,4 @@ no és qui ho fa, és el món que ho necessitava**.
 - [Guillem d'Areny-Plandolit](../../historia/segle-xix/guillem-dareny-plandolit.md) — la casa.
 - [La transformació econòmica](../../economia/transformacio-economica/transformacio-economica.md) — el ressorgiment de mitjan segle XX.
 - [Les mules](../../economia/ramaderia-i-agricultura/les-mules.md) — l'altre gran producte d'exportació.
+- [Les escoles d'art comunals](../arts-visuals/les-escoles-dart-comunals.md) — l'aprenentatge de taller, institucionalitzat als anys vuitanta.

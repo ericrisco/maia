@@ -73,7 +73,10 @@ professorat i la triplicació de la matrícula»**.
 existeix l'escola andorrana: **hi havia cua.**
 
 I un projecte anunciat el 2000 que el corpus no sap si va existir: **un
-batxillerat artístic**, «en un futur no molt llunyà». **Buit.**
+batxillerat artístic**, «en un futur no molt llunyà». **El demanava també, al
+mateix volum, la ponència d'educació artística**
+([les escoles d'art comunals](../../cultura/arts-visuals/les-escoles-dart-comunals.md)):
+**dues fonts independents el reclamaven el 2000**. **Buit.**
 
 ## El plantejament lingüístic
 

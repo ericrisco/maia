@@ -115,3 +115,4 @@ tot el Pirineu de sota i amb la idea que
 - [El nom d'Andorra](../../historia/origens/el-nom-dandorra.md) — els andosins.
 - [Toponímia andorrana](../../territori/toponimia/toponimia-andorrana.md) — el substrat.
 - [Museus i arxius](../museus-i-arxius/museus-i-arxius.md) — on hauria de ser tot això.
+- [Les escoles d'art comunals](./les-escoles-dart-comunals.md) — on els nens n'aprenen les tècniques.
