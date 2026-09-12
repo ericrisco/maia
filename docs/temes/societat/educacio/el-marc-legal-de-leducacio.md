@@ -155,6 +155,11 @@ recerca**:
 | **30 de juliol de 1997** | **Llei d'universitats** — [fitxa](./la-universitat-dandorra.md) |
 | *pendent el 2000* | projecte de llei de desenvolupament dels principis bàsics de l'estructura i organització de la Universitat d'Andorra |
 
+**La llista completa —quaranta-vuit normes amb número de BOPA— és a
+[l'índex legislatiu en educació](./index-legislatiu-en-educacio.md)**, i hi
+apareix una llei que aquest apartat no esmentava: **la Llei de l'Escola
+Andorrana, aprovada el 2 de maig de 1989**.
+
 **La llei de beques és de 1992 — anterior a la Constitució.** El país pagava
 estudis a fora abans de tenir carta magna, cosa coherent amb tot el que
 [la Universitat d'Andorra](./la-universitat-dandorra.md) explica sobre exportar
@@ -190,4 +195,5 @@ dona el rector. **Aprovada el 30 de juliol, publicada el 20 d'agost.**
 - [La Universitat d'Andorra](./la-universitat-dandorra.md)
 - [La Constitució de 1993](../../historia/constitucio-1993/constitucio-1993.md)
 - [El Coprincipat](../../institucions/coprincipat/el-coprincipat.md)
+- [Índex legislatiu en educació](./index-legislatiu-en-educacio.md) — les 48 normes, amb BOPA.
 - [Cronologia legislativa](../../institucions/justicia/cronologia-legislativa.md)

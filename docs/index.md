@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**220** documents · **37** fonts · **0** aptes com a model de llengua · **96** temes amb contingut.
+**221** documents · **37** fonts · **0** aptes com a model de llengua · **96** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -513,6 +513,7 @@
 | [El mapa escolar del 2000](temes/societat/educacio/el-mapa-escolar-del-2000.md) | `temes/societat/educacio` | compilada | contemporania | no | `bastida-roser-ensenyament-andorra` |
 | [El marc legal de l'educació](temes/societat/educacio/el-marc-legal-de-leducacio.md) | `temes/societat/educacio` | compilada | contemporania | no | `bastida-roser-ensenyament-andorra` |
 | [Els tres sistemes educatius](temes/societat/educacio/els-tres-sistemes.md) | `temes/societat/educacio` | compilada | contemporania | no | `molla-catala-andorra` |
+| [Índex legislatiu en educació](temes/societat/educacio/index-legislatiu-en-educacio.md) | `temes/societat/educacio` | compilada | contemporania | no | `bastida-roser-ensenyament-andorra` |
 | [La cronologia escolar](temes/societat/educacio/la-cronologia-escolar.md) | `temes/societat/educacio` | compilada | contemporania | no | `bastida-roser-ensenyament-andorra` |
 | [La formació d'adults](temes/societat/educacio/la-formacio-dadults.md) | `temes/societat/educacio` | compilada | contemporania | no | `bastida-roser-ensenyament-andorra` |
 | [La Universitat d'Andorra](temes/societat/educacio/la-universitat-dandorra.md) | `temes/societat/educacio` | compilada | contemporania | no | `bastida-universitat-andorra` |

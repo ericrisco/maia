@@ -38,7 +38,29 @@ escolar de **9.363** ([el mapa escolar](./el-mapa-escolar-del-2000.md)), és
 **gairebé dos de cada tres**.
 
 El servei es regia per una **reglamentació de 1993** que aquell any s'estava
-millorant, i **facilita el material** als alumnes que ho demanen.
+millorant, i **facilita el material** als alumnes que ho demanen. L'índex
+legislatiu del mateix volum en dona la referència exacta: **Reglament de l'esquí
+escolar, BOPA núm. 59, any 5, de 3 de novembre de 1993**
+([índex](./index-legislatiu-en-educacio.md)).
+
+### I no és l'única norma sobre esquí
+
+El mateix índex revela que **a Andorra l'esquí està legislat per tres bandes**, i
+que dues de les normes es publiquen **el mateix dia**, el **10 de juliol de
+1996** (BOPA núm. 48, any 8):
+
+| Norma | Què regula |
+| --- | --- |
+| **Reglament de l'esquí escolar** (1993) | l'esquí com a **assignatura** |
+| **Llei reguladora de l'ensenyament de l'esquí** i de l'exercici de la professió de monitor/a | l'esquí com a **professió** |
+| Llei de modificació de la Llei de creació de l'**Escola Nacional Andorrana d'Esquí** | l'esquí com a **escola d'estat** |
+
+**Hi ha una Escola Nacional Andorrana d'Esquí**, amb llei de creació pròpia, i el
+corpus no en tenia cap notícia. **Buit obert.**
+
+**Els nens hi aprenen per obligació, els monitors s'hi titulen per llei, i
+l'estat hi té escola pròpia.** Poques coses estan tan travessades per
+l'administració andorrana com la neu.
 
 ## Per què el corpus li dedica una fitxa sencera
 
@@ -86,9 +108,11 @@ mig, i la resta a cobert.
 
 ## Buits registrats
 
-- **Des de quan.** La reglamentació citada és de **1993**, però la pràctica pot
+- **Des de quan.** El reglament és de **novembre de 1993**, però la pràctica pot
   ser anterior. **Buit prioritari**: si l'esquí escolar és anterior a l'escola
   andorrana, canvia la lectura.
+- **L'Escola Nacional Andorrana d'Esquí**: quan es crea, què hi fa, qui la
+  dirigeix. La llei de 1996 en **modifica** una d'anterior que el corpus no té.
 - **Si continua sent obligatori el 2026.**
 - **Qui ho paga**, exactament, i què costa.
 - **Com se'n parla**: el lèxic andorrà de l'esquí i de la neu no està al corpus.
@@ -103,3 +127,4 @@ mig, i la resta a cobert.
 - [Educació](./educacio.md)
 - [Turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md)
 - [El canvi climàtic](../../territori/clima-i-muntanya/el-canvi-climatic.md) — què passa quan la matèria primera de l'assignatura s'escurça.
+- [Índex legislatiu en educació](./index-legislatiu-en-educacio.md) — les tres normes.

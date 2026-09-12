@@ -80,6 +80,7 @@ Sempre, diu la font, **«de conformitat amb el Consell General»**:
 | **~1972** | Es crea l'**escola especialitzada Nostra Senyora de Meritxell** — [fitxa pròpia](./lescola-nostra-senyora-de-meritxell.md). |
 | **1982** | **Escola maternal andorrana**: «l'acte cabdal pel que fa a l'ensenyament andorrà», fonament d'un sistema propi a tots els nivells. |
 | **1985** | S'inicia la **primera ensenyança**. |
+| **2 de maig de 1989** | El Consell General aprova la **Llei de l'Escola Andorrana** — **set anys després que l'escola funcionés** ([índex legislatiu](./index-legislatiu-en-educacio.md)). |
 | **1988** | **Escola d'Informàtica d'Andorra** i **Escola Universitària d'Infermeria** — [fitxa](../sanitat/lescola-dinfermeria.md). Comença l'ensenyament professional i universitari. |
 | **1995** | Es crea el **batxillerat**: l'última etapa del postobligatori. **El sistema queda complet.** |
 | **1995** | El Govern crea l'**Escola de Formació de Professions Esportives i de Muntanya**. |
@@ -142,4 +143,5 @@ si mateixa abans de definir-se jurídicament.
 - [El marc legal de l'educació](./el-marc-legal-de-leducacio.md) — les lleis que ho fixen.
 - [El mapa escolar del 2000](./el-mapa-escolar-del-2000.md) — el resultat, centre per centre.
 - [L'ensenyament francès](./lensenyament-frances.md) — la sèrie francesa en detall.
+- [Índex legislatiu en educació](./index-legislatiu-en-educacio.md)
 - [Educació](./educacio.md)

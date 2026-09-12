@@ -41,6 +41,7 @@ I la resposta no va ser contractar millor: **va ser obrir una escola.**
 | Data | Fet |
 | --- | --- |
 | **Juny de 1988** | Per encàrrec de la **conselleria de Treball i Benestar Social**, el Govern presenta el **pla de viabilitat** d'una escola que formaria **150 infermeres en deu anys**. |
+| **4 d'agost de 1988** | **Decret de creació de l'Escola Universitària d'Infermeria** ([índex legislatiu](../educacio/index-legislatiu-en-educacio.md)). |
 | **Octubre de 1988** | **L'escola obre les portes**, adscrita al **SAAS** (Servei Andorrà d'Atenció Sanitària) i tutelada pels ministeris de **Salut i Benestar** i d'**Educació, Joventut i Esports**. |
 | **1993** | El pla d'estudis es publica al **BOPA núm. 71, any 5, 29 de desembre**. |
 | **1996** | Deixa de dependre del SAAS i passa a dependre del **ministeri de Salut i Benestar**. |
