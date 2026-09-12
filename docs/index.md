@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**302** documents · **86** fonts · **0** aptes com a model de llengua · **107** temes amb contingut.
+**303** documents · **86** fonts · **0** aptes com a model de llengua · **107** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -279,6 +279,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Dos capítols matrimonials de 1788](temes/historia/antic-regim/dos-capitols-matrimonials-de-1788.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [El dot](temes/historia/antic-regim/el-dot.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `rodriguez-minana-notaris` |
 | [Els capítols matrimonials](temes/historia/antic-regim/els-capitols-matrimonials.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `rodriguez-minana-notaris` |
 | [La quèstia](temes/historia/antic-regim/la-questia.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `vela-ordinacions-segle-xv` |

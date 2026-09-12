@@ -151,7 +151,11 @@ molt eficaç**: la vídua que es tornava a casar **sortia del patrimoni**.
 
 ## Buits registrats
 
-1. **Casos reals** de tria d'hereu documentats amb noms.
+1. **Casos reals** de tria d'hereu documentats amb noms. **Un, del 1788**, encara
+   que Brutails n'abreuja els cognoms: **els tutors d'una òrfena d'Ordino, nomenats
+   pel batlle, la fan hereva universal «atenent al crescut adot y aixovar» que hi
+   portava el marit**. Vegeu
+   [dos capítols matrimonials de 1788](./dos-capitols-matrimonials-de-1788.md).
 2. **Amb quina freqüència** heretaven filles. L'autor diu que no hi havia
    discriminació «en principi»; **el corpus no té cap xifra**.
 3. ~~Què passava amb els cabalers que emigraven~~ — **tancat** a
@@ -184,6 +188,8 @@ seus fills** —els de l'hereu— **fossin útils per al treball**». Després, 
 el dot i marxava**.
 
 ## Related
+
+- [Dos capítols matrimonials de 1788](./dos-capitols-matrimonials-de-1788.md) — una hereva, documentada.
 
 - [Les tres migracions](../../societat/demografia/les-tres-migracions.md) — on anaven.
 - [Els capítols matrimonials](./els-capitols-matrimonials.md) — com es fixava, amb el text.

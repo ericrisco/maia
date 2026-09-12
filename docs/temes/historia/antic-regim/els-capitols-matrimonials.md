@@ -165,13 +165,22 @@ Avui s'utilitzen per a dues coses:
 ## Buits registrats
 
 1. **La datació** de la fórmula. **Prioritari.**
-2. **Capítols matrimonials reals** d'arxiu, sencers.
+2. ~~**Capítols matrimonials reals** d'arxiu, sencers.~~ **TANCAT, amb dos**, del
+   **1788**: [dos capítols matrimonials de 1788](./dos-capitols-matrimonials-de-1788.md)
+   — un d'hereu i un **d'hereva**.
 3. **Quan cauen en desús** — cap data.
 4. Si la fórmula era **específicament andorrana** o compartida amb Catalunya.
+   **Molt a prop de tancar-se:** Brutails sosté que **els formularis dels notaris
+   andorrans són catalans** i que «la institució d'hereu per contracte de matrimoni
+   és corrent a Andorra com a Catalunya» — vegeu
+   [el dret supletori](../../institucions/justicia/el-dret-supletori.md). **Falta
+   comparar text amb text.**
 5. **Què passava** quan els dos parents pròxims no es posaven d'acord.
 6. La **Llei del notariat de 1996** i què en diu, dels capítols.
 
 ## Related
+
+- [Dos capítols matrimonials de 1788](./dos-capitols-matrimonials-de-1788.md) — la fórmula, aplicada i datada.
 
 - [L'hereu i el cabaler](./lhereu-i-el-cabaler.md) — el problema que resol.
 - [El dot](./el-dot.md) — què s'hi aportava.

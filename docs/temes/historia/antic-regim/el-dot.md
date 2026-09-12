@@ -127,14 +127,24 @@ versemblant: **és certa sobre el present i falsa sobre el passat**.
 ## Buits registrats
 
 1. **Quan** desapareix el dot, com a costum i com a llei. **Cap data.**
-2. **Quantitats reals** de dots documentats.
+2. ~~**Quantitats reals** de dots documentats.~~ **TANCAT amb un cas datat**: un
+   dot de **170 lliures barceloneses** amb un **creix de 25** (el **14,7 %**), el
+   **4 d'abril de 1788**. Vegeu
+   [dos capítols matrimonials de 1788](./dos-capitols-matrimonials-de-1788.md).
+   **Amb un contracte no es fa una regla**: cal sèrie.
 3. **Qui aportava què**, estadísticament: aportaven més les dones o els homes?
 4. Com funcionava **la hipoteca dotal** a la pràctica; **si es van executar mai**.
 5. Els **pro-parents** — el mot i la figura.
 6. La relació entre el dot andorrà i el **dot català i balear**: l'autor els
-   equipara i el corpus **no ho ha verificat**.
+   equipara i el corpus **no ho ha verificat**. **Segona opinió trobada:**
+   Brutails, el 1904, sosté que **el dret supletori real d'Andorra és el català** i
+   ho prova, entre altres coses, **amb l'organització de la família sobre les
+   clàusules del contracte de matrimoni**. Vegeu
+   [el dret supletori](../../institucions/justicia/el-dret-supletori.md).
 
 ## Related
+
+- [Dos capítols matrimonials de 1788](./dos-capitols-matrimonials-de-1788.md) — un dot real, amb xifres.
 
 - [Els capítols matrimonials](./els-capitols-matrimonials.md) — on es fixava.
 - [L'hereu i el cabaler](./lhereu-i-el-cabaler.md) — qui arribava amb què.
