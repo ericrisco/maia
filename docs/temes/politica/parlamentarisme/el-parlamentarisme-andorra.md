@@ -156,3 +156,4 @@ fumar en un local públic**.
 - [La revolució de 1933](../../historia/segle-xx-primera-meitat/la-revolucio-de-1933.md)
 - [La Constitució de 1993](../../historia/constitucio-1993/constitucio-1993.md)
 - [L'accés als comunals](../../historia/edat-mitjana/lacces-als-comunals.md) — per què es reunien.
+- [La cronologia d'Andorra](../../historia/moments-historics/la-cronologia-dandorra.md) — la mateixa història, creuada amb tres cronologies més.

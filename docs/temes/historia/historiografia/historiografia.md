@@ -170,3 +170,4 @@ còmoda.
 - [Manual Digest](../manual-digest/manual-digest.md)
 - [Museus i arxius](../../cultura/museus-i-arxius/museus-i-arxius.md)
 - [La Societat Andorrana de Ciències](../../cultura/museus-i-arxius/la-societat-andorrana-de-ciencies.md) — qui publica avui la recerca andorrana, i amb quin biaix.
+- [La cronologia d'Andorra](../moments-historics/la-cronologia-dandorra.md) — quatre cronologies creuades, i on no coincideixen.

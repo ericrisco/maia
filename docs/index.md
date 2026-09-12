@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**261** documents · **70** fonts · **0** aptes com a model de llengua · **104** temes amb contingut.
+**263** documents · **70** fonts · **0** aptes com a model de llengua · **105** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -329,6 +329,13 @@
 | --- | --- | --- | --- | --- | --- |
 | [De lo que pot i no pot](temes/historia/manual-digest/de-lo-que-pot-i-no-pot.md) | `temes/historia/manual-digest` | compilada | contemporania | no | `massa-de-lo-que-pot-i-no-pot` |
 | [El Manual Digest](temes/historia/manual-digest/manual-digest.md) | `temes/historia/manual-digest` | compilada | contemporania | no | `viquipedia-ca` |
+
+## temes/historia/moments-historics
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Els vuit centenaris](temes/historia/moments-historics/els-vuit-centenaris.md) | `temes/historia/moments-historics` | compilada | contemporania | no | `bascompte-consell-de-la-terra` |
+| [La cronologia d'Andorra](temes/historia/moments-historics/la-cronologia-dandorra.md) | `temes/historia/moments-historics` | compilada | contemporania | no | `pol-consciencia-nacional` |
 
 ## temes/historia/origens
 

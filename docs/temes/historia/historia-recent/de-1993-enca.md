@@ -80,3 +80,4 @@ gent i no té on posar-la.
 - [La Constitució de 1993](../constitucio-1993/constitucio-1993.md)
 - [L'acord d'associació amb la UE](../../institucions/relacions-exteriors/lacord-dassociacio-amb-la-ue.md)
 - [Transformació econòmica](../../economia/transformacio-economica/transformacio-economica.md)
+- [La cronologia d'Andorra](../moments-historics/la-cronologia-dandorra.md) — el que ve abans, datat.

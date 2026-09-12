@@ -6,3 +6,4 @@ Vuit segles amb documentació pròpia. Molta en català antic, que entra marcat 
 
 > Branca buida. El contingut arriba a la fase 2 (`temes/`) i a la fase 3 (`parla/`),
 > amb investigació profunda i la font citada a cada afirmació.
+- [Moments històrics](./moments-historics/README.md) — la cronologia creuada, amb els desacords a la vista.
