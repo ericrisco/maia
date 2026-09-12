@@ -1,0 +1,633 @@
+# Llei de supervisió prudencial de bancs (Llei 35/2018)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/supervisio-prudencial
+Articles: 116 · versions consolidades: 5
+Instantania del consolidat: 2026-09-12T05:30:16.458906Z
+
+---
+
+### Títol I. Objecte, àmbit d’aplicació i definicions
+
+**Article 1. Objecte**
+
+Aquesta Llei estableix normes en matèria de:
+a) els requisits prudencials generals que les entitats bancàries i les empreses d’inversió han de complir en relació amb:i) els requisits de fons propis relatius a elements plenament quantificables, uniformes i normalitzats del risc de crèdit, del risc de mercat, del risc operatiu, del risc de liquidació i de palanquejament;ii) els requisits destinats a limitar les grans exposicions;iii) els requisits de liquiditat relatius a elements del risc de liquiditat plenament quantificables, uniformes i normalitzats;iv) els requisits d’informació relatius als incisos i), ii), i iii), i en matèria de palanquejament;v) els requisits de divulgació pública.b) la supervisió prudencial d’entitats per part de l’AFA de manera que sigui compatible amb les normes reglamentàries aplicables;c) els requisits de publicació de l’AFA en l’àmbit de la regulació i la supervisió prudencial de les entitats.
+
+**Article 2. Àmbit d’aplicació**
+
+1. Aquesta Llei s’aplica a les entitats establertes al Principat d’Andorra, tal com es defineixen en el punt 23, apartat 1 de l’article 3, i als grups consolidables d’aquestes.
+2. El capítol segon del títol IV s’aplica a les societats financeres de cartera, les societats financeres mixtes de cartera i les societats mixtes de cartera que tenen les seves seus centrals al Principat d’Andorra.
+3. Aquesta Llei no s’aplica a les entitats de gir postal que estiguin establertes al Principat d’Andorra.
+
+**Article 3. Definicions**
+
+1. Als efectes d’aquesta Llei, s’apliquen les definicions següents:
+1) “Actius de fons de pensió de jubilació de prestació definida” són els actius d’un fons o pla de pensions de prestació definida, segons correspongui, calculats després de descomptar l’import de les obligacions que es deriven d’aquest mateix fons o pla;
+2) “Actius intangibles” té el mateix significat que en el marc comptable aplicable;
+3) “Actius per impostos diferits” té el mateix significat que en el marc comptable aplicable;
+4) “Agència externa de qualificació creditícia” o “ECAI” (per les seves sigles en anglès) és una persona jurídica l’ocupació de la qual inclogui l’emissió de qualificacions creditícies amb caràcter professional reconeguda per l’AFA, d’acord a amb la lletra a), de l’apartat 3 de l’article 68;
+5) “Ajustament per risc de crèdit” és l’import de provisió específica o genèrica per a la cobertura de pèrdues per risc de crèdit que ha estat reconegut als estats financers de l’entitat, d’acord amb el marc comptable aplicable;
+6) “Autoritat competent” és una autoritat pública o un organisme oficialment reconegut en el dret nacional d’un país tercer, amb facultats d’acord amb el dret nacional aplicable per supervisar entitats com a part del sistema de supervisió vigent en el país de què es tracti;
+7) “Base consolidada” significa sobre la base de la situació consolidada;
+8) “Base subconsolidada” significa sobre la base de la situació consolidada d’una entitat matriu, la societat financera de cartera matriu o societat financera mixta de cartera matriu, excloent un subgrup d’entitats, o sobre la base de la situació consolidada d’una entitat matriu, la societat financera de cartera matriu o societat financera mixta de cartera matriu que no és l’última entitat matriu, l’ultima societat financera de cartera matriu o societat financera mixta de cartera matriu;
+9) “Benefici no distribuït” són els resultats transferits a exercicis posteriors com a conseqüència de l’aplicació final de les pèrdues o guanys d’acord amb el marc comptable aplicable;
+10) “Benefici” té el mateix significat que en el marc comptable aplicable;
+11) “Beneficis discrecionals de pensió de jubilació“ són la millora de les prestacions de pensió de jubilació atorgades de forma discrecional per una entitat a un empleat com a part de la retribució variable d’aquest empleat, i que no inclouen els beneficis meritats concedits a un empleat d’acord amb el pla de pensions de l’empresa;
+12) “Capital admissible”, segons el cas:
+a) Als efectes de les limitacions a les participacions qualificades de les entitats bancàries en entitats o empreses diferents d’un ens del sector financer previstes en l’apartat 6 de l’article 8 de la Llei 7/2013, del 9 de maig, sobre el règim jurídic de les entitats operatives del sistema financer andorrà i altres disposicions que regulen l’exercici de les activitats financeres al Principat d’Andorra, és la suma del següent:i) El capital de nivell 1 a què fa referència l’article 27, sense aplicar la deducció de l’incís i) de la lletra j) de l’article 30.ii) El capital de nivell 2 a què es refereix l’article 37, igual o inferior a un terç del capital de nivell 1 calculat d’acord amb l’incís i) d’aquesta lletra.b) Als efectes de l’article 50, és la suma del següent:i) El capital de nivell 1 a què es refereix l’article 27.ii) El capital de nivell 2 a què es refereix l’article 37, inferior a un terç del capital de nivell 1;
+13) “Cartera de negociació” són totes les posicions en instruments financers i matèries primeres mantingudes per una entitat amb finalitats de negociació, o amb el propòsit de cobrir les posicions mantingudes amb finalitats de negociació;
+14) “Control” és la relació existent entre una entitat matriu i una filial, o la relació de la mateixa naturalesa entre qualsevol persona física o jurídica i una empresa, en qualsevol de les situacions de control que es relacionen en el punt 7 de l’article 2 de la Llei 7/2024, del 27 de maig, sobre organització i funcionament de les entitats operatives del sistema financer i l’abús de mercats;
+15) “Direcció general” són els membres, persona física, que exerceixen funcions executives en l’entitat i que són responsables de la gestió diària de l’entitat i han de retre comptes d’això davant l’òrgan d’administració;
+16) “Distribucions” són el pagament de dividends o interessos, en qualsevol forma possible;
+17) “Empresa de serveis auxiliars” és una empresa que té com a activitat principal la tinença o gestió d’immobles, la gestió dels serveis informàtics, o qualsevol altra activitat similar que és accessòria a l’activitat principal d’una o més entitats;
+18) “Empresa d’inversió” són les societats financeres d’inversió, les agències financeres d’inversió, societats gestores de patrimoni en modalitat directa, en la mesura que estan autoritzades a prestar serveis d’administració i custodia d’instruments financers per compte de clients, incloent la custodia i serveis connexes, com la gestió de tresoreria i de garanties, tal com es defineixen en els articles 23 a 25 de la Llei 7/2013, de 9 de maig, sobre el règim jurídic de les entitats operatives del sistema financer andorrà i altres disposicions que regulen l’exercici de les activitats financeres al Principat d’Andorra;
+19) “Empresa matriu” és l’empresa que pot exercir, directament o indirecta, el control d’una o més empreses, tal com es defineix en el punt 14 d’aquest apartat;
+20) “Ens del sector financer” és qualsevol de les següents:
+a) una entitat;b) una entitat financera;c) una empresa de serveis auxiliars inclosa en la situació financera consolidada d’una entitat;d) una entitat asseguradora;e) una entitat asseguradora domiciliada fora del Principat d’Andorra;f) una entitat reasseguradora;g) una entitat reasseguradora domiciliada fora del Principat d’Andorra;h) una empresa domiciliada fora del Principat d’Andorra amb una activitat principal comparable a la de qualsevol dels ens esmentats en les lletres a) a g);
+21) “Ens del sector públic” és un organisme administratiu sense ànim de lucre responsable davant les administracions públiques centrals o regionals o les autoritats locals, o autoritats que exerceixin les mateixes funcions que les administracions públiques regionals i les autoritats locals; o una empresa sense ànim de lucre que pertany a les administracions públiques centrals o regionals, o a les autoritats locals, o creades i patrocinades per aquestes administracions o autoritats, que disposin de condicions expresses de garantia, entre les quals poden figurar organismes autònoms regulats per llei i subjectes a supervisió pública;
+22) “Entitat asseguradora domiciliada fora del Principat d’Andorra” és una entitat asseguradora domiciliada fora del Principat d’Andorra, tal com es defineix en el punt 22 de l’article 6 de la Llei 12/2017 d’ordenació i supervisió d’assegurances i reassegurances del Principat d’Andorra;
+23) “Entitat” és una entitat bancària o una empresa d’inversió;
+24) “Entitat asseguradora” és una entitat asseguradora tal com es defineix en el punt 19 de l’article 6 de la Llei 12/2017 d’ordenació i supervisió d’assegurances i reassegurances del Principat d’Andorra;
+25) “Entitat bancària“ és una persona jurídica, tal com es defineixen en l’apartat 1 de l’article 8 de la Llei 7/2013, de 9 de maig, sobre el règim jurídic de les entitats operatives del sistema financer andorrà i altres disposicions que regulen l’exercici de les activitats financeres al Principat d’Andorra, el propòsit de la qual és rebre del públic dipòsits o altres fons reemborsables, i concedir préstecs, de qualsevol naturalesa, per compte propi;
+26) “Entitat d’importància sistèmica” o “EIS” (per les seves sigles en anglès): és una entitat matriu, una societat financera de cartera matriu, una societat financera mixta de cartera matriu o una entitat autoritzada al Principat d’Andorra, la fallida o el mal funcionament de les quals pot generar un risc sistèmic;
+27) “Entitat de contrapartida central” o “ECC” (per les seves sigles en anglès): és una persona jurídica que fa d’intermediari entre les contraparts dels contractes negociats en un o diversos mercats financers, actuant com a comprador davant de tot venedor i com a venedor davant de a tot comprador;
+28) “Entitat financera” és una empresa, diferent d’una entitat, l’activitat principal de la qual consisteix a adquirir participacions o exercir una o diverses activitats de les que es recullen en lletres a) a l), i lletra n) de l’apartat 2 de l’article 8, de Llei 7/2013, del 9 de maig, sobre el règim jurídic de les entitats operatives del sistema financer andorrà i altres disposicions que regulen l’exercici de les activitats financeres al Principat d’Andorra. S’inclouen les societats financeres de cartera, les societats financeres mixtes de cartera, les societats gestores d’organismes d’inversió col·lectiva i les entitats de pagament, tal com es defineixen a l’apartat 1 dels articles 38 i 61, respectivament, de la Llei 7/2013, del 9 de maig, sobre el règim jurídic de les entitats operatives del sistema financer andorrà i altres disposicions que regulen l’exercici de les activitats financeres al Principat d’Andorra;
+28 bis) “Entitat gran” és una entitat que compleixi qualsevol de les condicions següents:
+a) Que hagi sigut definida com una altra entitat d’importància sistèmica de conformitat amb l’apartat 1 de l’article 59.b) Que sigui, al Principat d’Andorra, una de les tres entitats més grans per valor total dels actius.c) Que el valor total dels seus actius de forma individual o, quan procedeixi, sobre la base de la seva situació consolidada, sigui igual o superior a 30.000 milions d’euros;
+29) “Entitat matriu al Principat d’Andorra” és una entitat amb domicili social al Principat d’Andorra que té com a filial una entitat, una entitat financera o una empresa de serveis auxiliars, o que té una participació en aquesta entitat o entitat financera o empresa de serveis auxiliars, i que per si mateixa no és una filial d’una altra entitat autoritzada al Principat d’Andorra, d’una societat financera de cartera o d’una societat financera mixta de cartera establerta al Principat d’Andorra;
+29
+bis
+) “Entitat petita i no complexa” és una entitat que reuneixi totes les condicions següents:
+a) Que no sigui una entitat gran.b) Que el valor total dels seus actius de forma individual o, si escau, en base consolidada prudencial sigui de mitjana equivalent o inferior al límit de 5.000 milions d’euros durant el període de quatre anys immediatament anterior a l’actual període anual de presentació d’informació.c) Que no estigui subjecta a obligacions o estigui subjecta a obligacions simplificades en relació amb la planificació de la recuperació i la resolució de conformitat amb el paràgraf segon de l’apartat 3 de l’article 4 de la Llei 7/2021, del 29 d’abril, de recuperació i de resolució d’entitats bancàries i d’empreses d’inversió.d) Que la seva cartera de negociació estigui classificada com de petit volum, de conformitat amb l’apartat 1 de l’article 47.e) Que el valor total de les seves posicions en derivats mantingudes amb fins de negociació no superi el 2% del seu actiu total dins i fora de balanç i el valor total de les seves posicions en derivats no superi el 5%, tots dos calculats com es determini reglamentàriament.f) Que més d’un 75% dels actius i dels passius totals consolidats de l’entitat, excloses en tots dos casos les exposicions dins d’un grup, estiguin relacionats amb activitats efectuades amb contraparts situades en l’Espai Econòmic Europeu.g) Que l’entitat no s’hagi oposat davant l’AFA a la seva designació com a entitat petita i no complexa.h) Que l’AFA no hagi decidit que l’entitat no pot considerar-se petita i no complexa a partir d’una anàlisi de la seva mida, interdependència, complexitat o perfil de risc;
+30) “Entitat reasseguradora domiciliada fora del Principat d’Andorra” és una entitat reasseguradora domiciliada fora del Principat d’Andorra, tal com es defineix en el punt 22 de l’article 6 de la Llei 12/2017 d’ordenació i supervisió d’assegurances i reassegurances del Principat d’Andorra;
+31) “Entitat reasseguradora” és una entitat reasseguradora, tal com es defineix en el punt 27 de l’article 6 de la Llei 12/2017 d’ordenació i supervisió d’assegurances i reassegurances del Principat d’Andorra;
+32) “Entitat regulada” és una entitat bancària, una entitat asseguradora, una entitat reasseguradora, una empresa d’inversió o una societat gestora d’organismes d’inversió col·lectiva;
+33) “Filials” són les entitats en les quals concorren algun dels requisits del punt 7 de l’article 2 de la Llei 7/2024, del 27 de maig, sobre organització i funcionament de les entitats operatives del sistema financer i l’abús de mercats;
+Addicionalment, qualsevol filial d’una filial es considera també filial de l’última empresa matriu;
+34) “Fons propis” és la suma de capital de nivell 1 i capital de nivell 2, de conformitat amb els articles 27 i 37;
+35) “Grup de clients vinculats entre si” és el següent:
+a) Dos o més persones físiques o jurídiques que, excepte prova en contra, constitueixin un conjunt pel que fa al risc pel fet que una d’elles exerceixi control directament o indirectament sobre l’altra o les altres.b) Dos o més persones físiques o jurídiques entre les quals no existeixi cap relació de control com la que es descriu a la lletra a), però a les quals s’hagi de considerar com a conjunt pel que fa al risc pel fet que, a causa dels vincles existents entre elles, si una tingués problemes financers, en particular dificultats de finançament o reemborsament, l’altra o les altres també tindrien probablement dificultats de finançament o reemborsament.
+No obstant el que disposen les lletres a) i b), quan una administració pública central tingui un control directe sobre més d’una persona física o jurídica o tingui vincles directes amb aquestes persones físiques o jurídiques, es pot considerar que el conjunt format per l’administració pública central i totes les persones físiques o jurídiques directament o indirectament controlades per aquesta administració pública d’acord amb la lletra a), o vinculades amb aquesta administració pública d’acord amb la lletra b), no constitueixen un grup de clients vinculats entre si. Per contra, l’existència d’un grup de clients vinculats entre si format per l’administració pública central i les altres persones físiques o jurídiques pot avaluar-se per separat respecte de cadascuna de les persones directament controlades per l’administració pública central d’acord amb la lletra a), o indirectament vinculades amb l’administració pública central d’acord amb la lletra b) i totes les altres persones físiques i jurídiques controlades per aquesta persona d’acord amb la lletra a) o vinculades amb aquesta persona d’acord amb la lletra b), inclosa l’administració pública central. Això mateix s’aplica en el cas de les administracions regionals o les autoritats locals;
+Es considera que dos o més persones físiques o jurídiques que reuneixin les condicions establertes en les lletres a) o b) a causa de la seva exposició directa a la mateixa ECC pel que fa a les activitats de compensació no constitueixen un grup de clients vinculats entre si;
+36) “Instrument financer”, ha de ser entès en el sentit més ampli del terme, i especialment els que s’enumeren a continuació:
+1) un contracte que dona lloc tant a un actiu financer per a una part com a un passiu financer o instrument de capital per l’altra part;2) un instrument, tal com es defineix en el punt 11 de l’article 2 de la Llei 7/2024, del 27 de maig, sobre organització i funcionament de les entitats operatives del sistema financer i l’abús de mercats;3) un instrument financer primari.4) un instrument d’efectiu;
+Els instruments contemplats als punts 1) i 2) anteriors es consideren instruments financers únicament quan el seu valor es deriva del preu d’un instrument financer subjacent, d’un altre element subjacent, d’un tipus (d’interès o de canvi) o d’un índex;
+37) “Interès minoritari” és l’import de capital de nivell 1 ordinari d’una filial d’una entitat que és atribuïble a les persones físiques o jurídiques diferents de les incloses en l’àmbit d’aplicació de la consolidació prudencial de l’entitat;
+38) “Marc comptable aplicable” són les normes comptables a les quals està subjecta l’entitat, establertes en el Decret de 28 de desembre de 2016 pel qual es va aprovar el marc comptable aplicable a les entitats operatives del sistema financer andorrà i als organismes d’inversió col·lectiva de dret andorrà, de conformitat amb les normes internacionals d’informació financera adoptades a la Unió Europea (NIIF-UE) que han estat alhora adoptades per Andorra (NIIF-Andorra);
+39) “Mercat regulat” és un sistema multilateral, operat o gestionat per un gestor del mercat, que reuneix o permet la possibilitat de reunir –dins del sistema i segons les seves normes no discrecionals– els diversos interessos de compra i de venda sobre instruments financers de múltiples tercers per donar lloc a contractes pel que fa als instruments financers admesos a negociació d’acord amb les seves normes o sistemes, i que està autoritzat i funciona de manera regular;
+40) “Mitigació del risc de crèdit” és una tècnica utilitzada per una entitat per a reduir el risc de crèdit associat a una o diverses exposicions que aquesta entitat segueix mantenint;
+41) “Òrgan d’administració” és l’òrgan o òrgans d’una entitat, que són nomenats de conformitat amb la legislació aplicable, que estan facultats per establir l’estratègia, objectius i orientació general de l’entitat, i que supervisen i controlen el procés de la presa de decisions de gestió;
+42) “Originadora” és una entitat que:
+a) per si mateixa o per mitjà d’entitats relacionades, directa o indirectament, ha participat en l’acord original que va crear les obligacions o possibles obligacions del deutor o deutor potencial donant lloc a la titulització de l’exposició; ob) adquireix les exposicions d’un tercer pel seu propi compte i llavors els titularitza;
+43) “Pacte de recompra” i “pacte de recompra inversa” és qualsevol acord en el qual una entitat o la seva contrapart, cedeix valors o matèries primeres o drets garantits relatius a la titularitat dels valors o matèries primeres, quan aquesta garantia és emesa per un mercat organitzat que té els drets sobre els valors o les matèries primeres i que l’acord no permet a l’entitat realitzar cessions o penyores d’un determinat valor o matèria primera a més d’una contrapart alhora, amb el compromís de recomprar aquests valors o matèries primeres –o valors o matèries primeres que presenten les mateixes característiques–, a un preu determinat i en una data futura establerta, o a ser establerta, pel cedent.
+Aquesta cessió constitueix un pacte de recompra per a l’entitat que ven els valors o matèries primeres i un pacte de recompra inversa per a l’entitat que els adquireix;
+44) “Palanquejament” és la quantia relativa dels actius, de les obligacions de fora de balanç i de les obligacions contingents de pagar, lliurar o aportar garanties, incloses les obligacions derivades de finançament rebut, dels compromisos adquirits, dels contractes de derivats o dels pactes de recompra d’una entitat, però excloent les obligacions que només poden executar-se durant la liquidació d’una entitat, en comparació amb els fons propis d’aquesta entitat;
+45) “Participació” són els drets en el capital d’altres empreses, materialitzats o no mitjançant títols que, creant un vincle durador amb aquestes, es destinen a contribuir a l’activitat de l’empresa, o bé la tinença directa o indirecta del 20 % o més dels drets de vot o del capital d’una empresa;
+46) “Participació qualificada” és aquella participació que es defineix en el punt 14 de l’article 2 de la Llei 7/2024, del 27 de maig, sobre organització i funcionament de les entitats operatives del sistema financer i l’abús de mercats;
+47) “Patrocinadora” és una entitat bancària o una entitat financera d’inversió, ubicada o no al Principat d’Andorra, diferent d’una entitat originadora, que:
+a) Estableix i gestiona un programa de pagarés de titulització o un altre esquema de titulització mitjançant el qual s’adquireixen exposicions d’entitats terceres; ob) Estableix un programa de pagarés de titulització o una altra titulització que adquireix exposicions d’entitats terceres i delega la gestió quotidiana de la cartera activa aparellada a aquesta titulització en un ens autoritzat per exercir aquest tipus d’activitat;
+48) “Posició de titulització” és l’exposició davant d’una titulització;
+49) “Risc de dilució” és el risc que l’import dels drets de cobrament es redueixi degut a drets en efectiu o en espècie a favor del deutor;
+50) “Risc de model” és la pèrdua potencial que pot incórrer una entitat com a conseqüència de les decisions basades principalment en els resultats de models interns, a causa d’errors en l’elaboració, aplicació o utilització d’aquests models;
+51) “Risc d’un excessiu palanquejament” és el risc resultant de la vulnerabilitat d’una entitat a causa d’un palanquejament o palanquejament contingent que pot requerir mesures correctives no previstes en el seu pla de negoci, incloent la venda urgent d’actius que podrien resultar en pèrdues o en ajustaments en la valoració dels actius restants;
+52) “Risc operacional” és el risc de pèrdua a causa de la inadequació o de la fallada dels procediments, les persones i els sistemes interns o d’esdeveniments externs, inclòs el risc legal;
+53) “Risc sistèmic” és el risc de pertorbació del sistema financer que pot comportar perjudicis greus per al sistema financer i l’economia real;
+54) “Situació consolidada” és la situació que resulta de l’aplicació a una entitat dels requisits previstos en la secció segona del capítol primer del títol III, com si aquesta entitat formés, juntament amb una o més entitats, una sola entitat;
+55) “Societat financera de cartera” és una entitat financera les filials de la qual són exclusivament o principalment entitats o entitats financeres, i que no és una societat financera mixta de cartera. Les filials d’una entitat financera són principalment entitats o entitats financeres en què almenys una d’elles és una entitat i en què més del 50% del capital, dels actius consolidats, dels ingressos, de la dotació de personal o d’altres indicadors de l’entitat financera considerats rellevants per l’AFA estan associats amb filials que són entitats o entitats financeres;
+56) “Societat financera de cartera matriu al Principat d’Andorra” és una societat financera de cartera amb domicili social al Principat d’Andorra que no és una filial d’una entitat autoritzada al Principat d’Andorra, d’una societat financera de cartera o d’una societat financera mixta de cartera establerta al Principat d’Andorra.
+57) “Societat financera mixta de cartera” és una empresa matriu, diferent d’una entitat regulada, que juntament amb les seves filials, de les quals almenys una és una entitat regulada que té el seu domicili social al Principat d’Andorra, i altres entitats, constitueix un conglomerat financer;
+58) “Societat financera mixta de cartera matriu al Principat d’Andorra” és una societat financera mixta de cartera amb domicili social al Principat d’Andorra que no és una filial d’una entitat autoritzada al Principat d’Andorra, o d’una societat financera de cartera o societat financera mixta de cartera establerta al Principat d’Andorra;
+59) “Societat mixta de cartera” és una empresa matriu, diferent d’una societat financera de cartera, d’una entitat o d’una societat financera mixta de cartera, que compti, com a mínim, amb una entitat entre les seves filials;
+60) “Societats gestores d’organismes d’inversió col·lectiva” són les persones jurídiques, tal com es defineixen en l’apartat 1 de l’article 38 de la Llei 7/2013, de 9 de maig, sobre el règim jurídic de les entitats operatives del sistema financer andorrà i altres disposicions que regulen l’exercici de les activitats financeres al Principat d’Andorra;
+61) “Sucursal” és una seu d’explotació que constitueixi una part, desproveïda de personalitat jurídica, d’una entitat, i que efectuï directament, de manera total o parcial, les operacions inherents a l’activitat d’una entitat;
+62) “Tinença recíproca” és la tinença, per una entitat, d’instruments de fons propis o d’altres instruments de capital emesos per ens del sector financer, quan aquests últims també mantenen instruments de fons propis emesos per aquesta entitat;
+63) “Tinença sintètica” és una inversió per part d’una entitat en un instrument financer, el valor del qual està directament relacionat amb el valor dels instruments de capital emesos per un ens del sector financer;
+64) “Titulització” és una transacció o un mecanisme mitjançant el qual el risc de crèdit associat a una exposició o a un conjunt d’exposicions es divideix per trams, i que reuneix les dues característiques següents:
+a) els pagaments efectuats en el marc de la transacció o del mecanisme depenen del comportament de l’exposició o del conjunt d’exposicions;
+b) la subordinació dels trams determina la distribució de les pèrdues durant el període de vigència de la transacció o del mecanisme;
+65) “Titulització sintètica” és una titulització en la qual la transferència del risc s’aconsegueix mitjançant l’ús de derivats de crèdit o garanties, i les exposicions titulitzades continuen sent exposicions de l’entitat originadora;
+66) “Titulització tradicional” és una titulització que implica la transferència econòmica de les exposicions titulitzades. Aquesta ha de realitzar-se mitjançant la transferència de la propietat de les exposicions titulitzades de l’entitat originadora a un vehicle especialitzat en titulització o “SSPE” (per les seves sigles en anglès) o a través de la subparticipació per un “SSPE”. Els valors emesos no representen obligacions de pagament de l’entitat originadora;
+67) “Valor de mercat” és, a efectes de béns immobles, l’import estimat pel qual el bé es pot intercanviar a la data de la taxació, entre un comprador i un venedor independents, en el marc d’una transacció efectuada en condicions de mútua independència, en la qual les parts actuen amb coneixement de causa, de manera prudent i sense coacció, després d’un procés de comercialització adequat;
+68) “Vehicle especialitzat en titulització” o “SSPE” (per les sigles en anglès) és una societat, un fideïcomís o una altra entitat, diferent d’una originadora o una patrocinadora, organitzat per dur a terme una o més titulitzacions, les activitats del qual es limiten a la consecució d’aquest objectiu, i l’estructura del qual pretén aïllar les seves obligacions de les de l’entitat originadora;
+69) “Vincles estrets” és una situació en la qual dues o més persones físiques o jurídiques estan vinculades mitjançant qualsevol de les formes següents:
+a) una participació en forma de propietat, directa o mitjançant un vincle de control, del 20 % o més dels drets de vot o de capital d’una empresa;b) una relació de control;c) un vincle permanent entre ambdues o totes elles i una mateixa tercera persona mitjançant una relació de control.
+2. Amb la finalitat de garantir que els requisits o les facultats de supervisió establerts en aquesta Llei i el seu reglament d’aplicació s’apliquin en base consolidada o subconsolidada de conformitat amb aquesta Llei i el seu reglament d’aplicació, els termes “entitat”, “entitat matriu al Principat d’Andorra” i “empresa matriu” també han d’incloure:
+a) Les societats financeres de cartera i societats financeres mixtes de cartera a les quals s’hagi concedit l’autorització de conformitat amb l’article 5 bis de la Llei 7/2013, del 9 de maig, sobre el règim jurídic de les entitats operatives del sistema financer andorrà i altres disposicions que regulen l’exercici de les activitats financeres al Principat d’Andorra.b) Les entitats designades del Principat d’Andorra controlades per una societat financera de cartera matriu o una societat financera mixta de cartera matriu al Principat, quan aquesta societat matriu no estigui subjecta a autorització de conformitat amb l’apartat 2 de l’article 5 bis de la Llei 7/2013, del 9 de maig, sobre el règim jurídic de les entitats operatives del sistema financer andorrà i altres disposicions que regulen l’exercici de les activitats financeres al Principat d’Andorra.c) Les societats financeres de cartera i societats financeres mixtes de cartera o entitats designades d’acord amb la lletra d) de l’apartat 5 de l’article 97.
+
+### Títol II. Autoritat competent
+
+**Article 4. Funció supervisora de l’AFA en matèria prudencial**
+
+$24
+
+### Títol III. Requisits prudencials per a bancs i empreses d’inversió títol III
+
+**Article 5. Principis generals**
+
+$26
+
+**Article 6. Excepció a l’aplicació dels requisits prudencials de forma individual**
+
+$2a
+
+**Article 7. Excepció a l’aplicació dels requisits de liquiditat de forma individual**
+
+L’AFA pot eximir, totalment o parcialment, prèvia sol·licitud, de l’aplicació a nivell individual del capítol sisè del títol III, a una entitat i a totes o diverses de les seves filials ubicades al Principat d’Andorra, supervisant-les com un subgrup únic de liquiditat, sempre que es compleixin les condicions que es determinin reglamentàriament.
+Quan, de conformitat amb aquest article, l’AFA eximeixi una entitat, totalment o parcialment, de l’aplicació del capítol sisè del títol III, també la pot eximir de l’aplicació dels requisits d’informació corresponents sobre liquiditat de la lletra c) de l’apartat 1 de l’article 85 bis.
+
+**Article 8. Mètode de consolidació individual**
+
+Sempre que l’entitat matriu acrediti a l’AFA les circumstàncies específiques, incloent-hi les de tipus jurídic, per les quals no existeixen ni es preveu que existeixin impediments significatius, de tipus pràctic o jurídic, per la immediata transferència, a venciment, de fons propis o el reemborsament dels passius per la filial a l’empresa matriu, l’AFA pot autoritzar, cas per cas i prèvia sol·licitud, l’empresa matriu a incorporar en el seu càlcul de l’exigència prevista a l’apartat 1 de l’article 5, aquelles filials que compleixen les condicions establertes en les lletres c) i d) de l’apartat 1 de l’article 6, i que llurs exposicions o passius significatius ho són respecte a l’empresa matriu.
+
+**Article 9. Aplicació dels requisits sobre una base consolidada**
+
+$2c
+
+**Article 10. Mètodes de consolidació prudencial**
+
+$32
+
+**Article 11. Entitats i empreses excloses de l’àmbit d’aplicació de la consolidació prudencial**
+
+$36
+
+**Article 12. Subconsolidació en el cas d’entitats i empreses de tercers països**
+
+$38
+
+**Article 13. Empreses d’altres països**
+
+A efectes de l’aplicació de la supervisió en base consolidada en mèrits a les seccions segona i tercera d’aquest capítol, els termes «empresa d’inversió», «entitat bancària», «entitat financera» i «entitat» són aplicables així mateix a les empreses establertes a altres països que, d’estar establertes al Principat d’Andorra, entrarien en la definició que d’aquests termes figura en l’article 3.
+
+**Article 14. Valoració d’actius i de partides fora de balanç**
+
+La valoració dels actius i de les partides fora de balanç s’ha d’efectuar de conformitat amb el marc comptable aplicable al Principat d’Andorra.
+
+**Article 15. Autoavaluació del capital intern**
+
+$3b
+
+**Article 16. Sistemes, procediments i mecanismes de les entitats**
+
+$3f
+
+**Article 17. Tractament de riscos**
+
+1. L’òrgan d’administració ha d’aprovar i revisar periòdicament les estratègies i polítiques d’assumpció, gestió, supervisió i mitigació dels riscos a què l’entitat està o pot estar exposada, incloent-hi aquells plantejats per la conjuntura macroeconòmica en la qual opera en relació amb la situació del cicle econòmic.
+2. L’òrgan d’administració ha de dedicar temps suficient a la consideració de les qüestions relacionades amb els riscos. L’òrgan d’administració ha de participar activament en la gestió de tots els riscos substancials recollits en aquesta Llei i en el reglament d’aplicació, ha de vetllar perquè s’hi assignin els recursos adequats, i ha de participar així mateix en la valoració dels actius i en l’ús de qualificacions creditícies externes. L’entitat ha d’establir canals d’informació a l’òrgan d’administració sobre tots els riscos importants als quals s’enfronta i sobre polítiques de gestió de riscos i les seves modificacions.
+
+**Article 18. Risc de crèdit i contrapart**
+
+$45
+
+**Article 19. Risc residual**
+
+Les entitats han de tenir polítiques i procediments escrits, a fi d’abordar i controlar el risc que les tècniques reconegudes de mitigació del risc de crèdit, aplicades per l’entitat, resultin menys eficaces del que s’esperava.
+
+**Article 20. Risc de concentració**
+
+Les entitats han de tenir en compte i controlar, entre altres, mitjançant polítiques i procediments escrits, el risc de concentració derivat:
+a) de les exposicions davant de cadascuna de les contraparts, incloent-hi les entitats de contrapartida central, els grups de contraparts vinculades i les contraparts del mateix sector econòmic, de la mateixa regió geogràfica o de la mateixa activitat o matèria primera o,b) de l’aplicació de tècniques de mitigació del risc de crèdit, incloent-hi els riscos vinculats a grans exposicions creditícies indirectes, com ara un emissor de garanties reals.
+
+**Article 21. Risc de titulització**
+
+1. Les entitats han de valorar i controlar mitjançant polítiques i procediments adequats els riscos derivats d’operacions de titulització en les quals les entitats bancàries actuïn com a inversores, originadores o patrocinadores, incloent-hi el risc reputacional, així com els que sorgeixen en relació amb estructures o productes complexos, per assegurar que el contingut econòmic de l’operació queda plenament reflectit en les decisions d’avaluació i gestió del risc.
+2. Les entitats originadores d’operacions de titulització renovables que inclouen clàusules d’amortització anticipada han de disposar de plans de liquiditat per fer front a les implicacions derivades tant de l’amortització programada com de l’anticipada.
+
+**Article 22. Risc de mercat**
+
+$47
+
+**Article 23. Risc de tipus d’interès derivat d’activitats alienes a la cartera de negociació**
+
+Les entitats han d’aplicar sistemes per determinar, avaluar i gestionar el risc derivat de possibles variacions dels tipus d’interès que incideixen en les activitats alienes a la cartera de negociació de l’entitat.
+
+**Article 24. Risc operacional**
+
+1. Les entitats han d’aplicar polítiques i procediments per avaluar i gestionar l’exposició al risc operacional, incloent-hi, si escau, el risc de model i el risc provinent de les externalitzacions, i per cobrir el risc d’esdeveniments poc freqüents generadors de pèrdues molt elevades. Les entitats han d’especificar el que constitueix un risc operacional als efectes d’aquestes polítiques i procediments.
+2. Les entitats han d’establir plans de contingència i continuïtat del negoci que els permetin mantenir la seva activitat i limitar les pèrdues en cas d’interrupcions greus en el negoci.
+
+**Article 25. Risc de liquiditat**
+
+$4a
+
+**Article 26. Risc de palanquejament excessiu**
+
+1. Les entitats han d’establir polítiques i procediments per a identificar, gestionar i controlar el risc de palanquejament excessiu. Entre els indicadors de risc de palanquejament excessiu figuren la ràtio de palanquejament establert en l’article 84 d’aquesta Llei i els desfasaments entre actius i obligacions.
+2. Les entitats han d’afrontar el risc de palanquejament excessiu amb caràcter preventiu, tenint en compte els increments potencials d’aquest risc causats per reduccions dels fons propis de l’entitat que es deriven de pèrdues previstes o efectives, en funció de les normes comptables aplicables. A aquests efectes, les entitats han d’estar en condicions d’afrontar diverses situacions de dificultat pel que fa al risc de palanquejament excessiu.
+
+**Article 27. Capital de nivell 1**
+
+El capital de nivell 1 d’una entitat és igual a la suma del capital de nivell 1 ordinari i el capital de nivell 1 addicional d’aquesta entitat.
+
+**Article 28. Elements de capital de nivell 1 ordinari**
+
+$4c
+
+**Article 29. Filtres prudencials**
+
+$4e
+
+**Article 30. Deduccions en els elements del capital de nivell 1 ordinari**
+
+$52
+
+**Article 31. Capital de nivell 1 ordinari**
+
+El capital de nivell 1 ordinari d’una entitat consta dels elements de capital de nivell 1 ordinari, després de l’aplicació dels filtres prudencial requerits a l’article 29, de les deduccions establertes en l’article 30, i aplicades les exempcions i alternatives previstes també en els articles 30 i 42.
+
+**Article 32. Elements de capital de nivell 1 addicional**
+
+1. Els elements de capital de nivell 1 addicional comprenen els següents:
+a) els instruments de capital que compleixen amb els requisits per a ser considerats com a elements de capital de nivell 1 addicional que es determinin reglamentàriament;b) primes d’emissió relacionades amb els instruments esmentats en la lletra a).
+Els instruments inclosos en la lletra a) no han d’estar qualificats com a elements de capital de nivell 1 ordinari o nivell 2.
+2. El Govern, a proposta del Ministeri de Finances, ha d’elaborar el reglament d’aplicació per especificar el contingut següent:
+a) les disposicions d’aplicació en relació amb els elements de capital de nivell 1 addicional;b) les condicions per considerar que els instruments de capital qualifiquen com a instruments de capital de nivell 1 addicional;c) les conseqüències en el cas que els instruments de capital de nivell 1 addicional deixin de reunir les condicions requerides en la lletra b) anterior.
+
+**Article 33. Deduccions en els elements del capital de nivell 1 addicional**
+
+$58
+
+**Article 34. Capital de nivell 1 addicional**
+
+El capital de nivell 1 addicional d’una entitat consta dels elements de capital de nivell 1 addicional, un cop efectuades les deduccions a què fa referència l’article 33 i després de l’aplicació de l’article 42.
+
+**Article 35. Elements de capital de nivell 2**
+
+$5a
+
+**Article 36. Deduccions en els elements del capital de nivell 2**
+
+$5e
+
+**Article 37. Capital de nivell 2**
+
+El capital de nivell 2 d’una entitat consta dels elements de capital de nivell 2 un cop efectuades les deduccions a què fa referència l’article 36 i després de l’aplicació de l’article 42.
+
+**Article 38. Fons propis**
+
+Els fons propis d’una entitat es componen de la suma del seu capital de nivell 1 i del seu capital de nivell 2.
+
+**Article 39. Distribucions basades en instruments**
+
+$60
+
+**Article 40. Instruments de capital emesos per ens regulats del sector financer que no es consideren capital reglamentari**
+
+Les entitats no han deduir de cap element dels fons propis les tinences directes, indirectes o sintètiques d’instruments de capital emesos per un ens regulat del sector financer, que no es considerin capital reglamentari d’aquest ens.
+
+**Article 41. Autorització per reduir els fons propis**
+
+$64
+
+**Article 42. Dispensa temporal de deduir dels fons propis i dels passius admissibles**
+
+Quan una entitat tingui instruments de capital o passius, segons el cas, que es consideren instruments de fons propis d’un ens del sector financer o instruments de passius admissibles en una entitat i l’AFA consideri que aquesta tinença respon als fins d’una operació d’assistència financera de reestructuració i restabliment de la viabilitat d’aquest ens o entitat, l’AFA pot excepcionar temporalment, prèvia sol·licitud, a aplicar les disposicions que en matèria de deducció serien normalment aplicables a aquests instruments.
+
+**Article 42 bis. Avaluació del compliment de les condicions de fons propis i passius admissibles**
+
+En avaluar el compliment dels requisits establerts en el capítol segon del títol III, les entitats han d’atendre les característiques significatives dels instruments i no només la seva forma jurídica. L’avaluació de les característiques significatives d’un instrument ha de tenir en compte tots els mecanismes relatius, encara que aquests mecanismes no figurin explícitament en les condicions dels mateixos instruments, a fi de comprovar que els efectes econòmics combinats d’aquests mecanismes compleixen l’objectiu de les disposicions corresponents.
+
+**Article 43. Interessos minoritaris que es poden incloure en el capital de nivell 1 ordinari consolidat**
+
+$6a
+
+**Article 44. Capital de nivell 1 addicional, capital de nivell 1 i capital de nivell 2 admissibles i fons propis admissibles**
+
+$6d
+
+**Article 45. Capital de nivell 1 addicional i capital de nivell 2 admissibles emesos per una entitat de propòsit especial**
+
+$70
+
+**Article 46. Requisits de fons propis**
+
+$72
+
+**Article 47. Excepció per carteres de negociació de petit volum**
+
+1. Com a excepció del que disposa la lletra b) de l’apartat 3 de l’article 46, les entitats poden calcular els requisits de fons propis per a la cartera de negociació de conformitat amb el que es determini reglamentàriament, sempre que el volum de les operacions de la seva cartera de negociació, dins i fora de balanç, sigui igual o inferior als dos llindars següents, sobre la base d’una avaluació efectuada amb caràcter mensual emprant les dades del darrer dia del mes:
+a) que sigui normalment inferior al 5 % del total d’actius.b) 50 milions d’euros.
+2. El Govern, a proposta del Ministeri de Finances, ha d’elaborar el reglament d’aplicació, per especificar el contingut següent:
+a) les condicions a tenir en compte per calcular el volum de les operacions de balanç i de fora de balanç;b) el procediment a seguir en cas que les entitats deixin de complir la condició establerta en la lletra b) de l’apartat 1.
+
+**Article 48. Requisits de fons propis per a les agències financeres d’inversió, les societats gestores de patrimoni de modalitat directa i les societats gestores de patrimoni de modalitat indirecta**
+
+$7b
+
+**Article 49. Requisits de fons propis per a les societats financeres d’inversió amb activitat limitada de prestació de serveis d’inversió**
+
+$7d
+
+**Article 50. Fons propis basats en despeses fixes generals**
+
+$81
+
+**Article 51. Fons propis de les empreses d’inversió en base consolidada**
+
+$83
+
+**Article 52. Sense contingut**
+
+Sense contingut
+
+**Article 53. Requisits per a la cartera de negociació**
+
+1. Les posicions de la cartera de negociació han d’estar lliures de restriccions per a la seva negociació o han de poder gaudir de cobertura.
+2. La intenció de negociació s’ha de demostrar per les estratègies, polítiques i procediments establerts per l’entitat per gestionar la posició o la cartera d’acord amb el que es determini reglamentàriament.
+3. Les entitats han d’establir i mantenir sistemes i controls per gestionar la seva cartera de negociació d’acord amb el que es determini reglamentàriament.
+4. Les posicions de la cartera de negociació s’han de valorar prudentment d’acord amb el que es determini reglamentàriament.
+4
+bis
+. Les entitats han de tractar les cobertures internes d’acord amb el que es determini reglamentàriament.
+5. El Govern, a proposta del Ministeri de Finances, ha d’establir disposicions addicionals, en relació als requisits específics aplicables a la cartera de negociació, a la seva gestió, a la seva valoració prudent i a les cobertures internes.
+
+**Article 54. Definicions**
+
+$86
+
+**Article 55. Àmbit d’aplicació dels coixins de capital**
+
+1. Aquesta secció s’aplica a les entitats bancàries i a les societats financeres d’inversió.
+2. L’AFA pot eximir, cas per cas, i prèvia sol·licitud, les societats financeres d’inversió dels requisits establerts en aquesta secció, tenint en compte la naturalesa, l’escala i la complexitat de les seves activitats, la tipologia dels productes i serveis prestats i els riscos als quals estan exposades.
+
+**Article 56. Requisits combinats de coixins de capital**
+
+$88
+
+**Article 57. Requisit de mantenir un coixí de conservació del capital**
+
+1. Les entitats han de mantenir, addicionalment al capital de nivell 1 ordinari mantingut per a satisfer els requisits de fons propis imposats per l’apartat 1 de l’article 46, un coixí de conservació de capital constituït per capital de nivell 1 ordinari, igual al 2,5 % del total de la seva exposició al risc calculat de conformitat amb l’apartat 3 de l’article 46, sobre una base individual i consolidada, de conformitat amb el capítol primer del títol III.
+2. No obstant el disposat en l’apartat 1, l’AFA pot eximir a les societats financeres d’inversió, dels requisits establerts en aquest paràgraf, si tal exempció no amenaça l’estabilitat del sistema financer del Principat d’Andorra.
+3.
+Sense contingut
+
+**Article 58. Requisit per mantenir un coixí de capital anticíclic específic de cada entitat**
+
+$8c
+
+**Article 59. Coixí de capital per a entitats d’importància sistèmica**
+
+$92
+
+**Article 60. Requisit de mantenir un coixí de capital contra riscos sistèmics**
+
+$98
+
+**Article 61. Reconeixement d’un percentatge de coixí de capital contra riscos sistèmics de països tercers**
+
+$9c
+
+**Article 62. Restriccions en matèria de distribucions**
+
+$9f
+
+**Article 62 bis. Incompliment dels requisits combinats de coixins**
+
+Es considera que una entitat incompleix els requisits combinats de coixins als efectes de l’article 62 quan no disposi de fons propis l’import i la qualitat dels quals siguin els necessaris per satisfer al mateix temps els requisits combinats de coixins i cadascun dels requisits establerts en:
+a) La lletra a) de l’apartat 1 de l’article 46 i el requisit de fons propis addicionals per fer front a riscos diferents del risc de palanquejament excessiu d’acord amb la lletra a) de l’apartat 1 de l’article 97;b) La lletra b) de l’apartat 1 de l’article 46 i el requisit de fons propis addicionals per fer front a riscos diferents del risc de palanquejament excessiu d’acord amb la lletra a) de l’apartat 1 de l’article 97;c) La lletra c) de l’apartat 1 de l’article 46 i el requisit de fons propis addicionals per fer front a riscos diferents del risc de palanquejament excessiu d’acord amb la lletra a) de l’apartat 1 de l’article 97.
+
+**Article 63. Pla de conservació del capital**
+
+$a3
+
+**Article 64. Mètode relatiu al risc de crèdit**
+
+$a5
+
+**Article 65. Valor d’exposició**
+
+1. El valor d’exposició d’una partida de l’actiu és igual al seu valor comptable després de l’aplicació dels ajustaments per risc de crèdit específic, dels ajustaments addicionals per valoració, dels imports deduïts de conformitat amb la lletra l de l’apartat 1 de l’article 30, i d’altres reduccions de fons propis relacionades amb la partida d’actiu. El valor d’exposició de les partides de fora de balanç és un percentatge determinat reglamentàriament en funció del nivell de risc d’aquestes partides, del seu valor nominal reduït pels ajustaments de risc de crèdit específic i els imports deduïts de conformitat amb la lletra l de l’apartat 1 de l’article 30.
+2. El Govern, a proposta del Ministeri de Finances, ha d’establir, els mètodes per determinar el valor d’exposició de les partides d’actiu i de fora de balanç a considerar en el càlcul de requisits de fons propis en relació al risc de crèdit i dilució.
+
+**Article 66. Categories d’exposició**
+
+1. Cada exposició s’ha d’assignar a una determinada categoria segons la naturalesa del deutor, tipologia d’operació o situació de la mateixa o altres criteris a determinar reglamentàriament.
+2. El Govern, a proposta del Ministeri de Finances, ha de determinar, les categories d’exposició.
+
+**Article 67. Càlcul de les exposicions ponderades per risc**
+
+$aa
+
+**Article 68. Ús d’avaluacions creditícies efectuades per les ECAI o les agències de crèdit d’exportació**
+
+1. Únicament es pot utilitzar una avaluació creditícia externa per determinar la ponderació de risc d’una exposició quan ha estat emesa o confirmada per una ECAI o per una agència de crèdit a l’exportació.
+2. El Govern, a proposta del Ministeri de Finances, ha d’elaborar el reglament d’aplicació, per especificar el contingut següent:
+a) l’ús d’avaluacions creditícies efectuades per l’ECAI o per agències de crèdit a l’exportació;b) els requisits per a l’ús d’avaluacions de crèdit d’ECAI per a la determinació de les ponderacions de risc.
+3. L’AFA mitjançant comunicat tècnic ha d’establir:
+a) la relació de les ECAI reconegudes al Principat d’Andorra per a la ponderació de risc d’una exposició;b) la correspondència entre les avaluacions del risc de crèdit de les ECAI i els nivells de qualitat creditícia establerts reglamentàriament a efectes de ponderació del risc de les exposicions.
+
+**Article 69. Principis per al reconeixement dels efectes de les tècniques de mitigació del risc de crèdit**
+
+$ac
+
+**Article 70. Reconeixement de transferència d’una part significativa del risc**
+
+$ae
+
+**Article 71. Requisits de fons propis en relació al risc de crèdit de la contrapart**
+
+$b0
+
+**Article 72. Requisits de fons propis en relació al risc operacional**
+
+$b4
+
+**Article 72 bis. Mètodes per calcular els requisits de fons propis per risc de mercat**
+
+$b8
+
+**Article 72 quater. Autorització de requisits consolidats**
+
+1. Subjecte al que es determini reglamentàriament i amb l’únic propòsit de calcular las posicions netes i el requisits de fons propis de conformitat amb el capítol tercer del títol III en base consolidada, les entitats poden utilitzar les posicions en una entitat o una empresa per compensar posicions en una altra entitat o empresa.
+2. El Govern, a proposta del ministeri encarregat de les finances, ha d’elaborar el reglament d’aplicació per especificar les condicions per obtenir l’autorització de requisits consolidats.
+
+**Article 72 ter. Exempcions dels requisits específics de presentació d’informació per risc de mercat**
+
+1. Les entitats estan exemptes del requisit de presentació d’informació que figura a l’article 85 quater sempre que el volum de les activitats de l’entitat, dins i fora de balanç, que estiguin subjectes a risc de mercat sigui igual o inferior a cadascun dels llindars següents, sobre la base d’una avaluació efectuada mensualment a partir de les dades del darrer dia del mes:
+a) el 10% del total del seus actius;b) 500 milions d’euros.
+2. El Govern, a proposta del ministeri encarregat de les finances, ha d’elaborar el reglament d’aplicació per especificar el contingut següent:
+a) el procediment de càlcul del volum de les activitats de l’entitat, dins i fora de balanç, que estiguin subjectes a risc de mercat;b) els requisits de notificació a l’AFA en relació amb l’exempció dels requisits específics de presentació d’informació per risc de mercat;c) l’aplicació de l’exempció dels requisits específics de presentació d’informació per risc de mercat.
+
+**Article 73. Requisits de fons propis per al risc de posició**
+
+$ba
+
+**Article 74. Requisits de fons propis per risc de tipus de canvi**
+
+1. Les entitats han de calcular els requisits de fons propis per risc de tipus de canvi quan la suma de la posició neta global en divises d’una entitat i la seva posició neta en or excedeix el 2 % dels fons propis totals de l’entitat. El requisit de fons propis per risc de tipus de canvi és la suma de la posició neta global en divises més la seva posició neta en or multiplicada pel 8 %.
+2. El Govern, a proposta del Ministeri de Finances, ha d’elaborar el reglament d’aplicació, per especificar el contingut següent:
+a) la metodologia de càlcul de la posició neta global en divises;b) la metodologia de càlcul de la posició neta en or;c) el tractament de les divises estretament correlacionades a efectes de reduir els requisits de fons propis per risc de tipus de canvi;d) el tractament del risc de tipus de canvi dels organismes d’inversió col·lectiva.
+
+**Article 75. Requisits de fons propis per risc de matèries primeres**
+
+1. Les entitats han de calcular els requisits de fons propis per risc de matèries primeres aplicant un dels mètodes següents: el sistema d’escala de venciments, el mètode simplificat o el sistema d’escala de venciments ampliats.
+2. El Govern, a proposta del Ministeri de Finances, ha d’elaborar el reglament d’aplicació, per especificar el contingut següent:
+a) el tractament de les existències de matèries primeres físiques que mantinguin les entitats a efectes de determinar els requisits de fons propis;b) el càlcul de les posicions en matèries primeres i instruments derivats relacionats;c) les metodologies de càlcul dels requisits de fons propis per risc de matèries primeres per a cada un dels mètodes admissibles esmentats en l’apartat 1.
+
+**Article 76. Requisits de fons propis per al risc de liquidació**
+
+$bc
+
+**Article 77. Requisits de fons propis per al risc d’ajust de valoració del crèdit**
+
+$be
+
+**Article 78. Requisits en relació a grans exposicions, i de fons propis addicionals**
+
+$c0
+
+**Article 79. Requisits aplicables a les entitats inversores**
+
+$c4
+
+**Article 80. Requisits aplicables a les entitats originadores, patrocinadores i creditores de titulitzacions**
+
+$c6
+
+**Article 81. Requisit de cobertura de liquiditat**
+
+$c8
+
+**Article 82. Requisit de finançament estable**
+
+$cc
+
+**Article 83. Compliment dels requisits de liquiditat**
+
+Quan una entitat no compleixi, o quan prevegi que no pot complir el requisit establert a l’article 81, o a l’apartat 1 de l’article 82, fins i tot durant els períodes de tensió, ho ha de notificar immediatament a l’AFA i presentar-li, sense demores injustificades, un pla per restablir ràpidament el compliment de l’article 81 o l’apartat 1 de l’article 82, segons correspongui.
+
+**Article 84. Càlcul de la ràtio de palanquejament**
+
+1. Les entitats han de calcular la seva ràtio de palanquejament de conformitat amb la metodologia que es determini reglamentàriament, com l’import del capital de nivell 1 de l’entitat dividit per l’import de l’exposició total de l’entitat, i s’ha d’expressar com a percentatge.
+Les entitats han de calcular la seva ràtio de palanquejament a la data de referència de presentació d’informació.
+2. El Govern, a proposta del Ministeri de Finances, ha d’elaborar el reglament d’aplicació en relació amb:
+a) la metodologia de determinació del valor de l’exposició total de l’entitat;b) les deduccions i addicions a aplicar al valor de l’exposició total de l’entitat;c) les exempcions aplicables al còmput del valor de l’exposició total de l’entitat.
+
+**Article 85. Sense contingut**
+
+Sense contingut
+
+**Article 85 bis. Presentació d’informació sobre requisits prudencials i informació financera**
+
+$d1
+
+**Article 85 quater. Requisits específics de presentació d’informació per risc de mercat**
+
+$d3
+
+**Article 85 ter. Obligacions específiques de comunicació**
+
+1. Les entitats han de comunicar a l’AFA dades rellevants d’exposicions i pèrdues per a cada un dels mercats immobiliaris nacionals als quals estiguin exposades, amb el contingut que es determini via comunicat tècnic.
+2. L’AFA ha d’establir, mitjançant un comunicat tècnic, les obligacions específiques de presentació d’informació corresponents a cadascun dels mercats immobiliaris nacionals als quals estiguin exposades les entitats. De la mateixa manera, l’AFA ha d’establir, mitjançant el comunicat tècnic, els formats, les freqüències i les dates de presentació d’estats reservats, així com les definicions i les solucions informàtiques que han d’aplicar les entitats per informar sobre les exposicions i les pèrdues per a cada un dels mercats immobiliaris nacionals als quals estiguin exposades.
+
+**Article 86. Requisits i polítiques de divulgació d’informació**
+
+$d5
+
+**Article 87. Informació no significativa, reservada o confidencial**
+
+$d8
+
+**Article 88. Freqüència i abast de la divulgació d’informació**
+
+Les entitats han de publicar la informació requerida per aquest capítol i pel reglament d’aplicació, almenys anualment o amb una freqüència superior per a les divulgacions que es determinin reglamentàriament.
+Les divulgacions anuals d’informació s’han de fer en el decurs del primer semestre següent al tancament de l’exercici de referència i com a tot tardar el 30 de juny. Les divulgacions semestrals o trimestrals s’han de fer tan aviat com sigui possible després de la finalització del trimestre o semestre, i en tot cas dintre del mes següent a la finalització del període a què fan referència les divulgacions corresponents.
+Les entitats han de publicar al seu lloc web l’Informe de solvència.
+
+**Article 89. Informe de Solvència**
+
+$dd
+
+**Article 90. Informe anual**
+
+1. Les entitats han de remetre a l’AFA i publicar anualment en un informe annex els estats financers auditats, especificant per països on estan establertes, la següent informació en base consolidada per a cada exercici:
+a) la denominació, naturalesa de les activitats i ubicació geogràfica;b) el volum de negoci;c) el nombre d’empleats sobre una base equivalent a temps complet;d) el resultat brut abans d’impostos;e) els impostos sobre el resultat;f) les subvencions públiques rebudes.
+2. La informació contemplada en l’apartat 1 ha de ser auditada i ha de ser publicada, juntament amb els estats financers anuals de l’entitat.
+3. Les entitats han de fer públic en el seu informe anual els indicadors més rellevants, entre els quals ha de figurar el rendiment dels seus actius, que es calcula dividint el benefici net pel balanç total.
+
+### Títol IV. Supervisió prudencial
+
+**Article 91. Revisió i avaluació supervisores**
+
+$e1
+
+**Article 92. Criteris tècnics per a la revisió i avaluació supervisores**
+
+$e5
+
+**Article 93. Programa d’examen de supervisió**
+
+$eb
+
+**Article 94. Les proves de resistència amb finalitat de supervisió**
+
+1. Quan correspongui, però com a mínim cada tres anys, l’AFA ha de sotmetre les entitats que supervisa a proves de resistència amb la finalitat de supervisió, a fi de facilitar el procés de revisió i avaluació previst a l’article 91.
+2. L’AFA ha d’elaborar un Comunicat tècnic on detalli el contingut de la informació a proporcionar per les entitats de tal manera que pugui dur a terme les proves de resistència amb finalitats de supervisió.
+
+**Article 95. Mesures de supervisió**
+
+1. L’AFA ha d’exigir a les entitats que adoptin immediatament les mesures necessàries per retornar al compliment davant de les circumstàncies següents:
+a) quan l’entitat no compleixi amb els requisits establerts en aquesta Llei o en el reglament d’aplicació;
+b) quan, d’acord amb les dades a disposició de l’AFA, hi hagi raons fonamentades per considerar que és probable que l’entitat incompleixi amb els requisits establerts en aquesta Llei o en el reglament d’aplicació, en els propers dotze mesos.
+2. A l’efecte de l’apartat 1, les competències de l’AFA inclouen les que es contemplen a l’article 97.
+
+**Article 96. Sense contingut**
+
+Sense contingut
+
+**Article 97. Competències específiques amb relació a la supervisió prudencial**
+
+$ef
+
+**Article 97 bis. Requisits de fons propis addicionals**
+
+$f7
+
+**Article 97 ter. Orientació sobre fons propis addicionals**
+
+$f9
+
+**Article 98. Requisits específics de liquiditat**
+
+Als efectes de determinar el nivell adequat dels requisits de liquiditat d’acord amb la revisió i l’avaluació efectuades de conformitat amb la secció primera del capítol primer del títol IV, l’AFA ha d’avaluar si és necessari exigir un requisit de liquiditat específic per a cobrir els riscos de liquiditat als quals una entitat està o pot estar exposada, tenint en compte els elements següents:
+a) el model de negoci específic de l’entitat;b) els sistemes, procediments i mecanismes de l’entitat contemplats en els articles 17 a 26 d’aquesta Llei, i en particular l’article 25, així com en els articles 6 a 6 duodecies de la Llei 7/2024, del 27 de maig, sobre organització i funcionament de les entitats operatives del sistema financer i l’abús de mercats;c) els resultats de la revisió i l’avaluació efectuades de conformitat amb l’article 91;d)Sense contingut
+Les decisions adoptades per l’AFA en l’exercici de les seves facultats de supervisió han de ser motivades.
+
+**Article 99. Revisió i avaluació i mesures de supervisió**
+
+1. L’AFA ha de dur a terme el procés de revisió i avaluació esmentat en la secció primera i ha d’aplicar les mesures de supervisió esmentades en la secció segona del present capítol, de conformitat amb el nivell d’aplicació dels requisits establerts al capítol primer del títol III.
+2. En cas que l’AFA eximeixi de l’aplicació dels requisits de fons propis sobre una base consolidada en mèrits de la lletra d) de l’apartat 4 de l’article 9, s’han d’aplicar els requisits de l’article 91 a la supervisió de les empreses d’inversió sobre una base individual.
+
+**Article 100. Supervisió en base consolidada**
+
+$fe
+
+**Article 101. Inclusió de societats de cartera en la supervisió consolidada**
+
+1. Quan una filial que és entitat està exclosa de la supervisió en base consolidada en mèrits de l’article 11, l’AFA pot requerir a l’empresa matriu la informació necessària per a la supervisió d’aquesta filial.
+2. L’AFA, com a supervisor en base consolidada, pot requerir la informació referenciada a l’article 104 a les filials d’una entitat, d’una societat financera de cartera o d’una societat financera mixta de cartera que no estan incloses en l’àmbit de la supervisió en base consolidada.
+
+**Article 102. Supervisió de societats financeres mixtes de cartera**
+
+1. Quan una societat financera mixta de cartera subjecta a la supervisió de l’AFA estigui sotmesa a disposicions equivalents en virtut d’aquesta Llei i de la Llei de conglomerats financers, en particular en termes de supervisió en funció del risc, l’AFA pot decidir que s’apliquin a aquesta societat únicament les disposicions de la Llei de conglomerats financers i la seva normativa de desenvolupament.
+2. Quan una societat financera mixta de cartera subjecta a la supervisió de l’AFA, està subjecta a disposicions equivalents en virtut d’aquesta Llei i de la Llei 12/2017 d’ordenació i supervisió d’assegurances i reassegurances del Principat d’Andorra, en particular en termes de supervisió basada en el risc, l’AFA pot decidir aplicar a aquesta societat només les disposicions d’aquesta Llei o les que siguin d’aplicació a les entitats d’assegurances i reassegurances, en relació amb el sector financer més important.
+
+**Article 103. Qualificació dels directius**
+
+Els membres de l’òrgan d’administració d’una societat financera de cartera o d’una societat financera mixta de cartera han de tenir la reputació i els coneixements, les capacitats i l’experiència suficients, d’acord amb l’article 6 bis de la Llei 7/2024, del 27 de maig, sobre organització i funcionament de les entitats operatives del sistema financer i l’abús de mercats, per exercir el seu càrrec com a membres de l’òrgan d’administració, tenint en compte la funció específica de les societats financeres de cartera o les societats financeres mixtes de cartera.
+
+**Article 104. Sol·licituds d’informació i comprovacions en societats mixtes de cartera**
+
+1. Quan l’empresa matriu d’una o de diverses entitats és una societat mixta de cartera, l’AFA pot exigir a la societat mixta de cartera i a les seves filials, dirigint-s’hi directament o per mediació de les filials que siguin entitats, la comunicació de tota informació pertinent per exercir la supervisió sobre aquestes filials.
+2. L’AFA pot realitzar, o encomanar a auditors externs, la comprovació in situ de la informació facilitada per les societats mixtes de cartera i les seves filials.
+
+**Article 105. Supervisió de societats mixtes de cartera**
+
+$101
+
+### Títol V. Obligacions de publicació d’informació per part de l’Autoritat Competent
+
+**Article 106. Obligacions de publicació de l’AFA**
+
+$103

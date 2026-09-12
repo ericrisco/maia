@@ -133,3 +133,4 @@ inventant una cosa que un andorrà gran sap que és mentida perquè hi era.
 - [El cas Amades](../../historia/historiografia/el-cas-amades.md) — per què no hi ha costumari fiable.
 - [Historiografia](../../historia/historiografia/historiografia.md) — el marc.
 - [Cultura popular](./cultura-popular.md) — la branca.
+- [La cançó popular andorrana](../musica-i-cancons/la-canco-popular-andorrana.md) — dos DVD amb cançons recollides de gent gran viva. **Prioritat màxima.**

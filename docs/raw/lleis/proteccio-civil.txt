@@ -1,0 +1,519 @@
+# Llei qualificada de protecció civil (Llei 28/2022)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/proteccio-civil
+Articles: 93 · versions consolidades: 1
+Instantania del consolidat: 2026-09-12T05:30:13.201593Z
+
+---
+
+### Títol primer. Disposicions generals
+
+**Article 1. Objecte i àmbit d’aplicació de la Llei**
+
+1. Aquesta Llei té per objecte regular i ordenar l’acció pública en matèria de protecció civil i gestió d’emergències, en el marc de les competències que el Govern i els comuns tenen atribuïdes en aquesta matèria, destinada a protegir les persones, els béns públics i privats i el medi ambient davant de situacions de risc greu, catàstrofe i calamitat pública.
+2. Així mateix, aquesta Llei té per objecte regular els drets i els deures de la ciutadania en les situacions d’emergència no ordinària, i també els drets i els deures de la ciutadania en les fases prèvia i posterior a aquestes situacions.
+
+**Article 2. Definicions**
+
+Als efectes d’aquesta Llei, s’entén per:
+a) Protecció civil: el conjunt o sistema integrat d’accions d’estudi i prevenció de les situacions de risc greu, catàstrofe i calamitat pública, així com les accions de protecció i socors de les persones, els béns públics i privats i el medi ambient en cas que aquestes situacions es produeixin, i que requereixen una planificació prèvia.b) Emergència: un esdeveniment o accident que sobrevé de forma imprevista i afecta la integritat física de les persones o els béns, de forma col·lectiva o individual, i que en ocasions implica un risc greu que fa necessària l’adopció de mesures extraordinàries per fer-hi front o constitueix una catàstrofe o una calamitat pública.c) Emergència ordinària: una situació que no implica un risc greu que faci necessària l’adopció de mesures extraordinàries per fer-hi front ni constitueix una catàstrofe o una calamitat pública, però que requereix la intervenció dels serveis operatius competents per a la protecció i l’auxili a les persones i els béns.d) Emergència no ordinària: una situació que implica un risc greu per a una pluralitat indeterminada de persones i que fa necessària l’adopció de mesures extraordinàries per fer-hi front. També tenen la consideració d’emergència no ordinària les catàstrofes i calamitats públiques, les emergències que ultrapassen els recursos i els mitjans humans i materials dels serveis operatius competents, o en què s’esgotin o sigui previsible l’esgotament dels recursos i mitjans esmentats com a conseqüència de la durada d’una emergència ordinària. La situació d’emergència no ordinària ha de ser declarada per l’autoritat que correspongui, segons es tracti d’una emergència d’àmbit nacional o d’una emergència d’àmbit comunal. En cas de necessitat aquesta declaració pot fer-se verbalment i ratificar-se per escrit en el termini de 72 hores.e) Catàstrofe: una pertorbació greu del funcionament de la societat que provoca una afectació real i generalitzada per a la vida o la salut de les persones, per als béns o per al medi ambient, i que té com a origen un accident, un fenomen natural o una activitat humana. Pot tractar-se d’un esdeveniment sobtat o del resultat de processos complexos que es desenvolupen en un període de temps llarg.f) Calamitat pública: una emergència que produeix moltes víctimes o que afecta moltes persones.g) Perill: l’eventualitat que es produeixi una situació d’emergència no ordinària, risc greu, catàstrofe o calamitat pública.h) Risc: qualsevol situació de perill que pugui produir un dany sobre una persona o un bé determinat.i) Vulnerabilitat: el grau en què les persones o els béns poden ser susceptibles de patir pèrdues, danys, sofriment o la mort, en casos de desastre o sinistre.j) Resiliència: la capacitat de les persones de sobreposar-se als períodes de dolor emocional i a les situacions adverses. També està relacionada amb la capacitat de les persones o de la comunitat de fer front a les situacions perilloses o nocives, i d’adoptar les mesures adequades per a la protecció pròpia.k) Amenaça: la situació en què les persones i els béns preservats per la protecció civil estan exposats, en major o menor mesura, a un risc imminent o latent.l) Serveis essencials: els serveis que són necessaris per al manteniment de les funcions socials bàsiques, com ara la salut, la seguretat, el benestar social i econòmic de la ciutadania o el funcionament eficaç de les institucions de l’Estat i de les administracions públiques.m) Planificació: la previsió i línies d’actuació per fer front a les situacions d’emergència no ordinària que es puguin presentar.n) Autoprotecció: el coneixement i l’aplicació en matèria de protecció civil que té cada persona sobre les formes d’actuació adequades a cada situació d’emergència o risc potencial.
+
+**Article 3. Finalitats**
+
+$1e
+
+**Article 4. Principis**
+
+$20
+
+**Article 5. Mesures de garantia de la seguretat de la població**
+
+$22
+
+**Article 6. Emblema**
+
+1. L’emblema de la Protecció Civil del Principat d’Andorra és el signe distintiu internacional, adoptat a Ginebra (Suïssa) el 8 de juny del 1977 mitjançant el Protocol addicional als Convenis de Ginebra del 12 d’agost del 1949, relatius a la protecció de les víctimes dels conflictes armats internacionals (Protocol I del 8 de juny del 1977).
+2. Aquest emblema consisteix en un triangle equilàter blau sobre fons de color taronja, que s’utilitza exclusivament per identificar i protegir els organismes de protecció civil, el seu personal, edificis i material.
+
+### Títol segon. Drets i deures. Cos de voluntaris de protecció civil. Mitjans de comunicació
+
+#### Capítol primer. Drets i deures
+
+**Article 7. Drets**
+
+1. La ciutadania, directament o a través d’entitats i organitzacions reconegudes degudament, té dret a rebre informació veraç, clara i precisa sobre els riscos que li puguin afectar, les causes i les conseqüències d’aquests riscos, les accions públiques previstes per fer-hi front, els plans de protecció civil vigents i aplicables, les mesures de seguretat que cal adoptar i les conductes que cal seguir. En cas de catàstrofe o calamitat pública consumades, els poders públics han d’assegurar aquest dret en la mesura que la situació ho permeti.
+2. La ciutadania té dret a participar en les tasques de protecció civil en els termes que estableix aquesta Llei.
+3. D’acord amb el que estableixin les lleis aplicables, la ciutadania té dret a ser rescabalada pels danys i perjudicis en relació amb els seus béns i drets com a conseqüència de les requises, ocupacions i intervencions temporals que es decideixin en aplicació de les disposicions d’aquesta Llei.
+
+**Article 8. Deures generals**
+
+$24
+
+**Article 9. Deures específics**
+
+$26
+
+#### Capítol segon. Cos de voluntaris de protecció civil
+
+**Article 10. Cos de voluntaris de protecció civil**
+
+$28
+
+**Article 11. Grup d’Intervenció i Suport de l’Administració Pública**
+
+1. Els funcionaris o agents de les administracions públiques que ho sol·licitin, i que per raó de les seves condicions i del lloc de treball que ocupin siguin seleccionats pel departament competent en matèria de protecció civil i gestió d’emergències per portar a terme les tasques de protecció civil, integren el Grup d’Intervenció i Suport de l’Administració Pública i formen part del Cos de voluntaris de protecció civil. La participació a aquest Grup és voluntària i ha d’estar validada per l’administració afectada.
+2. Els membres del Grup d’Intervenció i Suport de l’Administració Pública reben la formació necessària i poden ser mobilitzats amb caràcter immediat per les autoritats competents en matèria de protecció civil, durant la jornada de treball o fora d’aquest horari.
+
+**Article 12. Actuació**
+
+1. L’actuació del Cos de voluntaris de protecció civil en situacions d’emergència no ordinària es porta a terme sempre sota la dependència funcional de les autoritats competents en matèria de protecció civil les ordres i instruccions de les quals han de ser seguides estrictament per les persones voluntàries.
+2. Aquesta actuació se cenyeix a tasques preventives, de reforç, cooperació i col·laboració amb els serveis operatius competents, llevat que de forma excepcional les circumstàncies que concorrin facin imprescindible que supleixin totalment o parcialment aquests serveis.
+
+**Article 13. Foment**
+
+Les administracions públiques han de fomentar i promoure la vinculació voluntària i desinteressada de la ciutadania en les tasques de protecció civil en els termes establerts en aquesta Llei, la Llei 90/2010, del 16 de desembre, del voluntariat d’Andorra, i la normativa aplicable restant mitjançant campanyes d’informació, divulgació i reconeixement de les activitats que es desenvolupin en l’àmbit de la protecció civil.
+
+**Article 14. Formació**
+
+El Govern, mitjançant el Departament de Protecció Civil i Gestió d’Emergències, pot sol·licitar a les entitats o organitzacions de voluntariat que acreditin que les persones voluntàries que en formen part i que hagin de col·laborar en les tasques de protecció civil han rebut la formació suficient i necessària per desenvolupar eficaçment aquestes tasques, segons determini el departament esmentat.
+
+**Article 15. Assegurança**
+
+Les entitats o organitzacions de voluntariat que integrin persones voluntàries que hagin de col·laborar en les tasques de protecció civil, o el departament competent en matèria de protecció civil i gestió d’emergències, segons el cas, han de contractar assegurances d’accident que cobreixin els riscos en què puguin incórrer els seus integrants en l’execució de les tasques de protecció civil, i han de subscriure també assegurances de responsabilitat civil o altres garanties financeres equivalents per cobrir la responsabilitat civil d’aquests integrants pels danys que puguin causar a tercers d’acord amb el que disposa la Llei 90/2010, del 16 de desembre, del voluntariat d’Andorra.
+
+#### Capítol tercer. Mitjans de comunicació
+
+**Article 16. Mitjans de comunicació**
+
+En situacions de emergència no ordinària, tots els mitjans de comunicació públics i privats, els responsables de xarxes socials i la resta de sistemes d’informació a la població estan obligats a transmetre gratuïtament les informacions, avisos i instruccions dirigits a la població que els siguin tramesos per les autoritats competents en matèria de protecció civil. Aquesta transmissió ha de ser fidel, íntegra, prioritària i, en cas que així se sol·liciti, immediata, tot indicant l’autoritat de procedència.
+
+### Títol tercer. Centres docents. Campanyes de sensibilització
+
+#### Capítol primer. Centres docents
+
+**Article 17. Formació en centres docents**
+
+1. Als centres docents i als diferents cursos acadèmics en què es divideixen els nivells dels sistemes educatius és obligatori portar a terme activitats formatives i informatives i exercicis d’autoprotecció en relació amb les situacions d’emergència no ordinària i en concret les pràctiques i els exercicis periòdics que prevegi el pla d’autoprotecció corresponent.
+2. A partir dels deu anys d’edat, els escolars dels centres docents han de rebre obligatòriament formació sobre riscos naturals i primers auxilis.
+
+**Article 18. Capacitació i mitjans**
+
+El Govern, a través dels diferents ministeris i departaments competents per raó de la matèria, i d’acord amb els directors dels centres docents, vetlla perquè les activitats a què fan referència els apartats 1 i 2 de l’article 17 es facin sota la responsabilitat de persones capacitades degudament i que disposin de la formació adequada, i facilita als centres docents el material informatiu i la documentació que calgui a aquest efecte. La coordinació d’aquestes activitats es farà mitjançant el departament competent en protecció civil.
+
+#### Capítol segon. Campanyes de sensibilització
+
+**Article 19. Programes d’informació**
+
+El Govern, a través del departament competent en matèria de protecció civil i gestió d’emergències, ha d’establir i desenvolupar programes d’informació que assegurin el coneixement de les mesures de prevenció i resposta davant les situacions d’emergència no ordinària per part de la ciutadania en general, les persones que puguin resultar afectades en particular i les persones que visiten el Principat d’Andorra.
+
+**Article 20. Difusió de la informació**
+
+La informació sobre les mesures de prevenció i resposta davant les situacions d’emergència no ordinària es difon, entre d’altres, mitjançant campanyes de sensibilització, amb atenció especial als menors d’edat, a les persones amb discapacitat, als grups de persones especialment vulnerables i a tots aquells grups que puguin requerir una protecció específica.
+
+### Títol quart. Emergències ordinàries
+
+#### Capítol primer. Definició i disposicions generals
+
+**Article 21. Definició**
+
+1. Les emergències ordinàries són les situacions que no impliquen un risc greu que faci necessària l’adopció de mesures extraordinàries per fer-hi front, ni suposa una catàstrofe o una calamitat pública, però requereix la intervenció de serveis operatius competents per a la protecció i l’auxili a les persones i els béns.
+2. L’atenció de les emergències ordinàries s’efectua a través dels serveis operatius competents i específics en cada cas, sense perjudici de la coordinació necessària que hi ha d’haver entre ells.
+
+**Article 22. Disposicions generals**
+
+1. Les accions que requereixen la gestió de les emergències ordinàries es porten a terme pels serveis operatius competents a l’efecte, d’acord amb les lleis i la normativa restant aplicable, tot seguint els protocols que s’estableixin.
+2. El servei d’atenció de trucades d’emergència que s’estableix a l’article 74 constitueix el centre de recepció de les trucades relacionades amb l’atenció necessària en les situacions d’emergència ordinària.
+
+#### Capítol segon. Deures de col·laboració
+
+**Article 23. Deures de col·laboració**
+
+$2a
+
+### Títol cinquè. Emergències no ordinàries. Actuacions en matèria de protecció civil
+
+#### Capítol primer. Definició i actuacions bàsiques
+
+**Article 24. Definició**
+
+$2c
+
+**Article 25. Actuacions bàsiques**
+
+Les actuacions bàsiques de protecció civil que han de realitzar les administracions públiques en l’àmbit de les seves competències són la previsió i la prevenció de les situacions de risc; la planificació; la intervenció una vegada s’han activat els plans de protecció civil; la recuperació i el retorn a la normalitat, i la informació i la formació de la població en general i del personal dels serveis operatius competents.
+
+#### Capítol segon. Previsió i prevenció
+
+**Article 26. Previsió**
+
+1. El Govern ha d’elaborar un mapa de riscos en què s’identifiquin i ubiquin els diferents riscos existents en tot el territori del Principat d’Andorra, als únics efectes que estableix aquesta Llei.
+2. Correspon al departament competent en matèria de protecció civil i gestió d’emergències d’impulsar el desenvolupament i la difusió del Mapa de Riscos.
+3. El Mapa de Riscos inclou totes les situacions susceptibles de generar riscos greus col·lectius i conté el conjunt dels mapes de riscos temàtics subjectes a plans especials de protecció civil, inclosos els previstos a l’article 33.4.
+4. El Mapa de Riscos forma part del Pla territorial nacional de protecció civil, que regula l’article 31.
+5. La Comissió Nacional de Protecció Civil, regulada al capítol tercer del títol sisè, ha d’emetre informes preceptius i no vinculants sobre els projectes de llei i de normes tècniques relatius a les mesures de prevenció de riscs i minimització de l’impacte d’eventuals catàstrofes i calamitats.
+
+**Article 27. Prevenció**
+
+$2e
+
+#### Capítol tercer. Planificació
+
+##### Secció primera. Disposicions generals
+
+**Article 28. Plans de protecció civil**
+
+$30
+
+**Article 29. Contingut comú dels plans territorials, especials i específics**
+
+$32
+
+##### Secció segona. Plans territorials
+
+**Article 30. Plans territorials**
+
+Els plans territorials constitueixen l’instrument organitzatiu previst per fer front a les emergències no ordinàries de caràcter general que es puguin presentar en un àmbit territorial determinat, nacional o parroquial, i tenen com a objecte i finalitat:
+a) Identificar els riscos amb l’anàlisi i l’avaluació corresponents.b) Definir les mesures de prevenció aplicables.c) Planificar les activitats d’informació i conscienciació de la població sobre els riscos i les mesures de prevenció.d) Concretar l’organització de la protecció civil de les administracions públiques que hagin d’actuar en l’àmbit territorial de què es tracti, amb la inclusió dels recursos i els mitjans humans i materials susceptibles de ser mobilitzats i dels criteris d’actuació i coordinació d’aquests recursos i mitjans.e) Establir l’autoritat competent per a l’activació i l’aplicació del pla i els procediments d’intervenció, de restabliment dels serveis i de recuperació de la normalitat.
+
+**Article 31. Pla territorial nacional de protecció civil**
+
+1. El Pla territorial nacional de protecció civil constitueix l’instrument organitzatiu de resposta genèrica davant les situacions d’emergència no ordinària en l’àmbit territorial nacional que, per la seva naturalesa o extensió, o per necessitat de coordinar més d’una administració, requereixen una direcció nacional.
+2. El Pla territorial nacional de protecció civil, en la seva qualitat de pla director, desenvolupa les directrius i els requeriments que cal observar per a l’elaboració, l’aprovació i l’homologació dels plans de protecció civil restants.
+3. Correspon al Govern, a proposta del ministre competent en matèria d’interior, amb l’informe previ favorable de la Comissió Nacional de Protecció Civil a què es refereix el capítol tercer del títol sisè, d’aprovar el Pla territorial nacional de protecció civil.
+
+**Article 32. Plans territorials comunals de protecció civil**
+
+1. Tots els comuns han d’elaborar el Pla territorial comunal de protecció civil corresponent a l’àmbit territorial de la seva parròquia.
+2. Els plans territorials comunals de protecció civil són aprovats pels consells de Comú respectius, amb l’informe previ favorable de la Comissió Nacional de Protecció Civil. A aquest efecte, la Comissió Nacional de Protecció Civil en verifica l’adequació a les disposicions d’aquesta Llei i del Pla territorial nacional de protecció civil, que actua com a pla director.
+
+##### Secció tercera. Plans especials i plans específics
+
+**Article 33. Plans especials**
+
+$34
+
+**Article 34. Plans específics**
+
+1. Els plans específics són l’instrument organitzatiu general de resposta per fer front a riscos concrets, localitzats o de transcendència especial.
+2. Les disposicions dels plans específics s’han d’adaptar al Pla territorial nacional de protecció civil, que actua com a pla director.
+3. Els plans específics són aprovats pel Govern, a proposta del ministre competent en matèria d’interior, amb l’informe previ favorable de la Comissió Nacional de Protecció Civil.
+
+##### Secció quarta. Plans de continuïtat de serveis públics i d’altres serveis crítics o essencials per a la comunitat
+
+**Article 35. Definició i contingut**
+
+1. Les entitats, organismes o empreses que presten serveis públics o altres serveis crítics o essencials per a la comunitat han de disposar d’un pla alternatiu per a la continuïtat de la prestació d’aquests serveis en cas que se n’interrompi el funcionament normal per qualsevol causa.
+2. Els plans de continuïtat de serveis públics i d’altres serveis crítics o essencials per a la comunitat són aprovats pel departament competent en matèria de protecció civil i gestió d’emergències, amb l’informe previ favorable de la Comissió Nacional de Protecció Civil.
+
+**Article 36. Entitats, organismes i empreses obligats**
+
+Queden sotmesos, en tot cas, a l’obligació de disposar d’un pla de continuïtat les entitats, els organismes o les empreses de subministrament d’electricitat, telefonia i aigua potable. El Govern determina per la via reglamentària les entitats, els organismes o les empreses restants de prestació de serveis públics o d’altres serveis crítics o essencials per a la comunitat que hagin de disposar d’un pla de continuïtat.
+
+##### Secció cinquena. Plans d’autoprotecció
+
+**Article 37. Definició i contingut**
+
+1. Els plans d’autoprotecció són l’instrument previst per fer front als riscos existents i als riscos que es puguin generar per les edificacions, establiments, activitats, persones, entitats, organismes, empreses i responsables de centres de treball administratiu a què es refereixen els apartats 2, 3 i 4 de l’article 27.
+2. El contingut dels plans d’autoprotecció s’haurà d’ajustar a la zona i les característiques de les edificacions, establiments, activitats, persones, entitats, organismes, empreses i responsables de centres de treball administratiu a què es refereixen els apartats 2, 3 i 4 de l’article 27.
+
+**Article 38. Elaboració, implantació, modificació i revisió**
+
+$36
+
+##### Secció sisena. Plans o programes per a activitats o esdeveniments determinats
+
+**Article 39. Plans o programes per a activitats o esdeveniments determinats**
+
+$38
+
+#### Capítol quart. Intervenció
+
+##### Secció primera. Plans territorials, especials i específics
+
+**Article 40. Activació**
+
+1. Quan s’hagi detectat una situació d’emergència no ordinària recollida en un pla territorial, especial o específic, es procedeix a activar formalment el pla corresponent per l’autoritat competent que s’hi prevegi.
+2. A partir de l’activació del pla, la direcció i la coordinació de totes les actuacions per fer front al risc greu o l’emergència no ordinària corresponen al director del pla, que ha d’adoptar les mesures que s’hi estableixen, amb les adaptacions que siguin necessàries segons les circumstàncies que concorrin.
+3. Els nivells d’activació dels plans territorials, especials i específics són:
+a) Prealerta.b) Alerta.c) Emergència.d) Retorn a la normalitat.
+
+**Article 41. Nivells d’actuació**
+
+1. Quan els plans territorials, especials i específics tinguin dos nivells d’actuació, comunal i nacional, i un cop activat el pla d’àmbit comunal l’emergència no ordinària sigui impossible de combatre, es procedeix a activar el pla d’àmbit nacional.
+2. En qualsevol cas, el pas del nivell comunal al nacional determina la integració dels recursos i mitjans humans i materials del primer nivell al segon nivell esmentat, així com la transferència del comandament del pla a l’autoritat competent del segon nivell.
+3. L’activació del pla d’àmbit nacional comporta també necessàriament l’activació del pla d’àmbit comunal de la parròquia o les parròquies concernides per l’emergència no ordinària.
+
+**Article 42. Concepte i atribucions del comandament únic**
+
+$3a
+
+**Article 43. Funcions del comandament únic**
+
+Corresponen al comandament únic les funcions següents:
+a) Determinar les actuacions que s’han de portar a terme i els recursos i mitjans humans i materials que s’han d’assignar a cada situació d’emergència no ordinària.b) Declarar els nivells, fases o situacions d’emergència no ordinària establerts en els plans de protecció civil corresponents.c) Determinar les mesures de protecció més convenients per a les persones, els béns i el medi ambient, i per al personal dels serveis operatius.d) Coordinar la informació a la població durant la situació d’emergència no ordinària i el retorn a la normalitat.e) Declarar la finalització de la situació d’emergència no ordinària en els casos establerts en els plans de protecció civil corresponents.f) Les altres funcions que li atribueixin aquesta Llei o la normativa aplicable restant.
+
+**Article 44. Mesures d’emergència**
+
+Un cop activat el pla territorial, especial o específic de què es tracti, el comandament únic pot decidir alguna de les mesures de garantia de la seguretat de la població que relaciona l’article 5 i, a més, pot ordenar l’omissió d’accions i, si escau, la prestació de serveis obligatoris de caràcter personal. Aquesta prestació es realitza de forma proporcional a la situació creada i a les capacitats de la persona de què es tracti.
+
+**Article 45. Mobilització de recursos**
+
+1. L’ús dels recursos i mitjans humans i materials susceptibles de ser mobilitzats s’efectua de conformitat amb el que disposi el pla territorial, especial o específic corresponent o, si no n’hi ha, segons les instruccions i les ordres de les autoritats competents en matèria de protecció civil.
+2. La mobilització de recursos i mitjans humans i materials s’ha d’adequar als principis d’immediatesa en la resposta, proximitat del lloc de l’emergència, disponibilitat dels mitjans, professionalització i especialització dels intervinents, complementarietat dels recursos i mitjans i subsidiarietat.
+3. Mentre el pla territorial, especial o específic roman activat, el Centre Nacional d’Emergències a què es refereix l’article 75 constitueix l’instrument a través del qual es canalitza la coordinació entre els diferents intervinents, sense perjudici dels altres mecanismes de coordinació previstos al pla corresponent.
+
+**Article 46. Serveis**
+
+$3c
+
+**Article 47. Desactivació**
+
+La desactivació dels plans territorials, especials i específics correspon a l’autoritat competent que s’hi prevegi, d’acord amb el procediment que també s’hi estableixi.
+
+**Article 48. Emergència catastròfica**
+
+1. Quan una situació d’emergència no ordinària, per la seva magnitud o extensió, superi les possibilitats de resposta existents, el Govern, a proposta del ministre competent en matèria d’interior, pot declarar-la com a situació d’emergència catastròfica.
+2. La declaració de la situació d’emergència catastròfica suposa que el cap de Govern assumeixi la direcció del Pla territorial nacional de protecció civil, el qual, tanmateix, pot delegar-la en el ministre competent en matèria d’interior.
+3. Correspon al Govern establir el contingut i els efectes de la declaració de situació d’emergència catastròfica, així com les mesures especials susceptibles de ser aplicades en cada cas.
+4. En declarar la situació d’emergència catastròfica o amb posterioritat, el Govern també pot declarar l’estat d’alarma d’acord amb la normativa aplicable.
+
+##### Secció segona. Plans d’autoprotecció
+
+**Article 49. Activació, desenvolupament i desactivació**
+
+$3e
+
+##### Secció tercera. Plans o programes per a activitats o esdeveniments determinats
+
+**Article 50. Activació, desenvolupament i desactivació**
+
+Els plans o programes concrets per a activitats o esdeveniments determinats s’activen, es desenvolupen i es desactiven en la forma que s’estableixi reglamentàriament.
+
+#### Capítol cinquè. Recuperació i retorn a la normalitat
+
+**Article 51. Accions de recuperació i retorn a la normalitat**
+
+$40
+
+#### Capítol sisè. Informació
+
+**Article 52. Informació**
+
+El departament competent en matèria de protecció civil i gestió d’emergències ha d’adoptar les mesures adients perquè la població estigui degudament informada d’acord amb els recursos disponibles, i a aquest efecte pot requerir la col·laboració dels altres departaments del Govern i de les persones i entitats públiques i privades restants.
+
+**Article 53. Recerca**
+
+El Govern ha de promoure la recerca dels riscs que poden afectar la població, els béns i el medi ambient; la investigació sobre els mitjans i les tècniques de resposta i els estudis sociològics oportuns per a determinar les necessitats formatives de la població. Amb aquesta finalitat, pot concertar convenis amb universitats i centres de recerca relacionats amb aquesta matèria.
+
+#### Capítol setè. Formació
+
+**Article 54. Personal dels serveis públics i d’autoprotecció i persones voluntàries**
+
+Els funcionaris, agents i el personal restant dels serveis públics inclosos en els plans de protecció civil, les persones voluntàries de protecció civil —directament o a través de les entitats o organitzacions de voluntariat— i el personal dels serveis d’autoprotecció en l’àmbit privat han de rebre una formació específica en els termes que el Govern estableixi reglamentàriament o d’acord amb el que estableixin els plans de protecció civil corresponents.
+
+**Article 55. Sometent**
+
+Correspon als comuns concernits, sota l’autoritat dels cònsols major i menor, amb la col·laboració, si escau, del Govern, portar a terme la formació de les persones que formin part del Sometent de cada parròquia, d’acord amb el que estableixin normativament els comuns.
+
+### Títol sisè. Organització competencial
+
+#### Capítol primer. Govern
+
+**Article 56. Govern**
+
+$42
+
+**Article 57. Ministeris**
+
+La protecció civil incumbeix a tots els ministeris del Govern. En especial i en l’àmbit competencial que els correspongui, cadascun d’ells ha de:
+a) Participar en l’elaboració dels mapes de riscos i portar a terme les funcions de previsió, avaluació i prevenció dels riscos susceptibles de generar situacions d’emergència no ordinària o risc greu.b) Participar en l’elaboració dels plans de protecció civil i integrar-hi els recursos, mitjans i serveis propis.c) Dur a terme els treballs de rehabilitació que els siguin propis i impulsar, dins el seu àmbit competencial, els treballs que corresponguin a altres persones o entitats públiques o privades.
+
+**Article 58. Ministeri i ministre competents en matèria d’interior**
+
+$44
+
+**Article 59. Departament competent en matèria de protecció civil i gestió d’emergències**
+
+1. El departament competent en matèria de protecció civil i gestió d’emergències és l’òrgan responsable de la programació en matèria de protecció civil i emergències i li corresponen, en aquest sentit, la direcció, la vigilància, la supervisió i la coordinació dels àmbits organitzatius que en depenen.
+2. El departament competent en matèria de protecció civil i gestió d’emergències s’estructura jeràrquicament d’acord amb les necessitats organitzatives escaients, mitjançant llocs de treball adscrits al Cos General i les ocupacions professionals necessàries per acomplir la missió i les funcions que té encomanades.
+3. A proposta del ministre competent en matèria d’interior i d’acord amb el que estableix aquesta Llei, el Govern aprova els àmbits organitzatius i d’actuació del departament competent en matèria de protecció civil i gestió d’emergències, en el marc de l’estructuració orgànica del ministeri on s’adscriu.
+
+**Article 60. Director del departament competent en matèria de protecció civil i gestió d’emergències**
+
+$46
+
+#### Capítol segon. Comuns
+
+**Article 61. Comuns**
+
+$48
+
+**Article 62. Cònsols**
+
+$4a
+
+**Article 63. Sometent, capità i deseners**
+
+$4c
+
+#### Capítol tercer. Comissió Nacional de Protecció Civil
+
+**Article 64. Naturalesa i funcions**
+
+$4e
+
+**Article 65. Composició**
+
+$50
+
+**Article 66. Funcionament**
+
+1. El ministre competent en matèria d’interior i el ministre competent en matèria d’ordenament territorial són el president i el vicepresident, respectivament, de la Comissió Nacional de Protecció Civil. En cas d’absència, impossibilitat o delegació, el vicepresident exerceix les funcions del president.
+2. El membre del Gabinet Jurídic de Govern actua com a secretari de la Comissió Nacional de Protecció Civil.
+3. La Comissió Nacional de Protecció Civil es reuneix sempre que sigui necessari a criteri del president, i també a petició d’un mínim de cinc dels seus membres. El president convoca les reunions i ordena els debats. El quòrum necessari per reunir-se i adoptar vàlidament acords és de dotze membres.
+4. La Comissió Nacional de Protecció Civil adopta els acords per majoria. En cas d’empat, el president té vot de qualitat.
+
+#### Capítol quart. Inspecció
+
+**Article 67. Inspecció**
+
+1. El Govern porta a terme les actuacions inspectores escaients per garantir el compliment de les disposicions legals i reglamentàries aplicables en les matèries que són objecte d’aquesta Llei, dels reglaments que la desenvolupin i dels instruments de planificació que en dimanin.
+2. Els comuns també porten a terme actuacions d’inspecció quan siguin necessàries en relació amb les disposicions incloses en els plans d’àmbit comunal.
+
+### Títol setè. Relacions interadministratives
+
+**Article 68. Deure de col·laboració**
+
+La protecció civil constitueix una estructura integrada en relació amb la qual totes les administracions públiques tenen el deure de col·laborar, de forma recíproca i lleial, en l’exercici de les competències respectives que tenen atribuïdes.
+
+**Article 69. Intercanvi d’informació**
+
+1. Totes les administracions públiques han de facilitar-se mútuament la informació que requereixi l’exercici eficaç de les funcions que tenen encomanades en matèria de protecció civil i gestió d’emergències.
+2. En especial, cada administració pública ha de comunicar a les altres administracions concernides els plans de protecció civil que aprovi, i l’activació i la desactivació d’aquests plans; els estudis sobre recursos, serveis i tècniques de prevenció i intervenció que porti a terme; els programes i les actuacions que desenvolupi en aquesta matèria, i les previsions i els fets i les incidències que conegui i que puguin causar una situació de risc o emergència. D’altra banda, les administracions concernides també poden sol·licitar aquesta informació.
+
+**Article 70. Assistència i auxili**
+
+$52
+
+**Article 71. Substitució**
+
+$54
+
+### Títol vuitè. Atenció i gestió de les emergències
+
+#### Capítol primer. Sistema públic d’atenció d’emergències
+
+**Article 72. Sistema públic d’atenció d’emergències**
+
+$56
+
+**Article 73. Col·laboració en la gestió d’emergències**
+
+1. Les entitats públiques i privades l’activitat de les quals estigui directament o indirectament relacionada amb la prestació material d’assistència en situacions d’emergència han de prestar la seva col·laboració al Centre Nacional d’Emergències.
+2. Les entitats públiques i privades esmentades a l’apartat anterior han de facilitar al Centre Nacional d’Emergències i, en les situacions d’emergència d’àmbit parroquial, als centres comunals d’emergències la informació necessària per actuar en l’emergència de què es tracti i fer possible la coordinació de tots els serveis operatius que hagin de ser mobilitzats. En especial, han de proporcionar la informació necessària sobre la localització i la dotació dels mitjans humans i materials de què disposin per participar en l’assistència requerida, així com de les situacions d’emergència de les quals tinguin coneixement, del seguiment que en facin i de la finalització de la seva intervenció.
+
+#### Capítol segon. Servei d’atenció de trucades d’emergència
+
+**Article 74. Servei d’atenció de trucades d’emergència**
+
+1. El Govern presta el servei d’atenció de trucades d’emergència a través del número de telèfon 112 o de qualsevol altre número que la normativa europea pugui establir, i mitjançant qualsevol dels serveis públics que són de la seva competència, sota la direcció i el control del departament competent en matèria de protecció civil i gestió d’emergències.
+2. El servei d’atenció de trucades d’emergència comprèn la recepció de les trucades d’auxili de la població en tot el territori nacional i la seva gestió davant els serveis públics competents en matèria de seguretat ciutadana, prevenció i extinció d’incendis i salvaments, atenció sanitària urgent i protecció civil, i en les altres matèries que s’escaiguin en funció de la naturalesa de l’emergència.
+3. L’atenció de les trucades d’emergència s’ha de fer, com a mínim, en les llengües catalana, castellana, francesa i anglesa.
+
+#### Capítol tercer. Centre Nacional d’Emergències
+
+**Article 75. Centre Nacional d’Emergències**
+
+$58
+
+**Article 76. Funcions**
+
+$5a
+
+**Article 77. Protocols operatius nacionals**
+
+Els protocols operatius nacionals són l’instrument operacional del Centre Nacional d’Emergències en què s’estableixen, d’una banda, la forma de rebre i donar curs a les demandes d’auxili de la població i, de l’altra, els criteris que cal seguir per classificar-les i per assignar les respostes i mobilitzar els recursos segons el tipus d’emergència de què es tracti.
+
+**Article 78. Direcció tècnica i operativa**
+
+En les situacions d’emergència no ordinària en què es mobilitzin diversos serveis operatius i resulti necessari mantenir la unitat d’acció dels que hi concorrin, la direcció i la coordinació de les actuacions que cal portar a terme als llocs on s’intervingui correspon al comandament únic, el qual podrà designar un director tècnic i un director operatiu.
+
+#### Capítol quart. Centres comunals d’emergències
+
+**Article 79. Centres comunals d’emergències**
+
+Cada comú ha d’establir i mantenir un centre comunal d’emergències, que no constitueix una estructura permanent però que es posa en funcionament quan s’activi un pla de protecció civil que afecti el territori corresponent. Els centres comunals d’emergències actuen de forma coordinada amb el Centre Nacional d’Emergències.
+
+**Article 80. Protocols operatius comunals**
+
+Els protocols operatius comunals són els instruments operacionals dels centres comunals d’emergències en què s’estableixen els criteris que cal seguir per assignar les respostes i mobilitzar els recursos segons el tipus d’emergència de què es tracti, de forma coordinada amb el Centre Nacional d’Emergències.
+
+### Títol novè. Distincions i honors
+
+**Article 81. Distincions i honors**
+
+El Govern ha d’establir per la via reglamentària les distincions i els honors que corresponguin en matèria de protecció civil, amb la finalitat de reconèixer les persones i les entitats públiques i privades que es distingeixin en les tasques de protecció de les persones, els béns i el medi ambient, tant en l’àmbit preventiu com en l’àmbit operatiu.
+
+### Títol desè. Finançament
+
+**Article 82. Finançament**
+
+Les actuacions que es portin a terme en aplicació i execució d’aquesta Llei es financen mitjançant:
+a) Les dotacions previstes als pressupostos generals de l’Estat i als pressupostos dels comuns.b) Les taxes i els preus públics que es fixin en la normativa aplicable.c) Qualsevol altre recurs admès en dret.
+
+**Article 83. Repercussió de costos i despeses**
+
+1. Les persones que incompleixin les disposicions d’aquesta Llei han d’abonar els costos i les despeses ocasionats per la mobilització i la intervenció dels serveis operatius i els altres recursos i mitjans derivats d’aquest incompliment, en concepte d’indemnització dels danys i perjudicis.
+2. La repercussió de costos i despeses concorre sense perjudici de la responsabilitat administrativa derivada de l’incompliment de les disposicions d’aquesta Llei.
+
+### Títol onzè. Règim de responsabilitat
+
+**Article 84. Disposició general**
+
+1. La responsabilitat derivada de l’incompliment de les disposicions d’aquesta Llei és independent de la responsabilitat civil i penal en què es pugui incórrer pels mateixos fets.
+2. En tot allò que no estableixi aquest títol en matèria sancionadora, s’apliquen les disposicions del Codi de l’Administració i del Reglament regulador del procediment sancionador.
+
+**Article 85. Òrgans competents**
+
+1. És competent per decidir la incoació del procediment administratiu sancionador com a conseqüència de l’incompliment de les disposicions d’aquesta Llei, el director del departament competent en matèria de protecció civil i gestió d’emergències o, si no hi és, el cap d’àrea que correspongui, que pot delegar aquesta competència d’acord amb el Codi de l’Administració.
+2. Són competents per resoldre el procediment administratiu sancionador i per declarar, quan escaigui, l’acabament del procediment per una altra causa, el ministre competent en matèria d’interior quan es tracta d’infraccions lleus i greus, que pot delegar aquesta competència d’acord amb el Codi de l’Administració, i el Govern quan es tracta d’infraccions molt greus.
+
+**Article 86. Infraccions molt greus**
+
+$5c
+
+**Article 87. Infraccions greus**
+
+$5e
+
+**Article 88. Infraccions lleus**
+
+$60
+
+**Article 89. Responsabilitat en relació amb el servei d’atenció de trucades d’emergència**
+
+$62
+
+**Article 90. Prescripció de les infraccions**
+
+$64
+
+**Article 91. Sancions**
+
+1. Les infraccions molt greus són objecte de la sanció de multa no inferior a 10.001 euros i no superior a 50.000 euros.
+2. Les infraccions greus són objecte de la sanció de multa no inferior a 3.001 euros i no superior a 10.000 euros.
+3. Les infraccions lleus són objecte de la sanció de multa no inferior a 500 euros i no superior a 3.000 euros.
+4. En el cas d’infraccions molt greus també es pot imposar, com a sanció complementària, el tancament temporal de les edificacions, instal·lacions, establiments, dependències, centres de treball i activitats de què es tracti.
+5. Si la persona que ha comès la infracció n’ha obtingut un guany econòmic, la sanció de multa es pot ampliar fins a l’import del profit obtingut.
+6. Les infraccions greus i molt greus comeses per persones que formen part d’entitats o organitzacions de voluntariat poden comportar la seva baixa forçosa de l’entitat o l’organització a la qual pertanyin, i la inhabilitació per formar part d’una altra entitat o organització.
+
+**Article 92. Graduació de les sancions**
+
+Les sancions es graduen en funció de les circumstàncies que concorren en cada cas, d’acord amb els principis generals establerts en la legislació vigent i, en concret, de conformitat amb els criteris següents:
+a) Intencionalitat.b) Perjudici causat.c) Quantia del benefici obtingut o que es pretenia obtenir.d) Capacitat econòmica de la persona infractora.e) Transcendència econòmica i social.f) Reiteració o reincidència.g) Que els mateixos fets hagin estat sancionats en l’àmbit penal.
+
+**Article 93. Prescripció de les sancions**
+
+1. Les sancions imposades per infraccions molt greus prescriuen al cap de quatre anys, les sancions per infraccions greus al cap de dos anys i les sancions per infraccions lleus al cap de sis mesos.
+2. El termini de prescripció de les sancions es comença a comptar a partir de l’endemà del dia en què ha esdevingut ferma la resolució que les imposa.
+3. El termini de prescripció s’interromp per l’inici, amb coneixement formal de la persona interessada, de l’execució de la sanció. La interrupció deixa de tenir efecte si l’execució resta aturada durant més d’un any per causa no imputable a la persona sancionada. En aquest cas, el còmput del termini de prescripció es torna a iniciar de nou a partir de la data de la darrera actuació que consti en l’expedient d’execució.

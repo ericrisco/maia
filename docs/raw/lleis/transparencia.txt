@@ -1,0 +1,190 @@
+# Llei de transparència i govern obert (Llei 33/2021)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/transparencia
+Articles: 35 · versions consolidades: 3
+Instantania del consolidat: 2026-09-12T05:30:16.983071Z
+
+---
+
+### Títol I. Disposicions generals
+
+**Article 1. Objecte i finalitat**
+
+1. Aquesta Llei té per objecte:
+a) ampliar i reforçar la transparència de l’activitat administrativa, així com regular i garantir el dret d’accés de les persones a la informació i documentació públiques.b) establir les obligacions de declaració de patrimoni dels càrrecs polítics electes; els membres i els alts càrrecs del Govern; els ambaixadors al capdavant d’una ambaixada o d’una missió diplomàtica del Principat d’Andorra, els caps de les missions diplomàtiques i els caps de les oficines consulars; els càrrecs directius dels organismes públics, de les entitats parapúbliques i de les societats i entitats associatives i fundacionals públiques, siguin generals o comunals; els membres del Consell Superior de la Justícia i del Tribunal Constitucional; els membres de la carrera judicial i del Ministeri Fiscal; i el Raonador del Ciutadà.
+2. La finalitat d’aquesta Llei és establir un sistema de relació entre les persones i l’Administració pública i els altres subjectes obligats, fonamentat en el coneixement de l’activitat pública, la incentivació de la participació ciutadana i la millora de la qualitat de la informació pública i de la gestió administrativa.
+
+**Article 2. Principis de l’activitat administrativa**
+
+Les institucions públiques andorranes, les entitats que en depenen i que es troben vinculades a elles, i el personal al seu servei, desenvolupen la seva activitat amb plena subjecció a les lleis i d’acord amb els principis de servei públic, transparència, estricta adequació a les finalitats previstes legalment, imparcialitat i no discriminació.
+
+**Article 3. Àmbit d’aplicació subjectiva**
+
+$1e
+
+### Títol II. Transparència i accés a la informació pública
+
+#### Capítol primer. Transparència de l’activitat pública i reutilització de la informació
+
+**Article 4. Obligacions de publicitat activa**
+
+$20
+
+**Article 5. Altres subjectes obligats**
+
+$22
+
+**Article 6. Reutilització de la informació**
+
+$24
+
+#### Capítol segon. Accés a la informació pública
+
+**Article 7. Informació pública**
+
+Als efectes d’aquest capítol, s’entén per informació pública els continguts o els documents de què disposen les entitats previstes a l’article 3.1, elaborats o rebuts, en l’exercici de les seves funcions públiques, independentment del suport físic o format en què estiguin registrats o arxivats.
+
+**Article 8. Dret d’accés**
+
+1. Tota persona major de 16 anys té dret a accedir a la informació pública, a títol individual, amb subjecció als principis, condicions i limitacions que es preveuen en aquest capítol.
+2. L’exercici del dret d’accés no està condicionat a la concurrència d’un interès personal, no resta subjecte a motivació i no requereix la invocació de cap norma.
+
+**Article 9. Principis generals d’accés**
+
+Les administracions públiques han d’adoptar les mesures necessàries per garantir el compliment del dret d’accés a la informació pública establint un sistema de gestió de documents, informació i dades integrat que permeti la interoperabilitat entre les administracions públiques, la localització de qualsevol document o informació i la vinculació automàtica de cada document o conjunt de dades al seu règim d’accés i publicitat.
+
+**Article 10. Accés a la informació pública**
+
+$26
+
+**Article 11. Limitacions al dret d’accés**
+
+$28
+
+**Article 12. Protecció de dades personals**
+
+$2a
+
+#### Capítol tercer. Exercici del dret d’accés
+
+**Article 13. Sol·licitud d’accés i causes d’inadmissió**
+
+$2c
+
+**Article 14. Tramitació i resolució**
+
+$2e
+
+**Article 15. Formalització de l’accés**
+
+1. En cas que la resolució sigui favorable, l’accés ha d’atorgar-se en el termini màxim de deu dies hàbils a partir de la notificació de la resolució.
+2. La consulta de la informació pública l’accés a la qual s’ha atorgat és gratuïta. S’han de prioritzar el format i el suport electrònics. L’expedició de còpies o la transposició de la informació a un format diferent a l’original pot ser sotmesa al pagament d’un preu públic prèviament establert, que no pot excedir el cost real de reproducció, i pot incloure els costos de dedicació que aquesta generi a l’Administració per a la seva obtenció i lliurament, segons el que s’estableixi en el corresponent instrument tributari.
+3. Les administracions públiques s’han de dotar d’un registre de consultes.
+
+**Article 16. Recursos**
+
+$30
+
+#### Capítol quart. Informació reservada d’Estat
+
+**Article 17. Principis generals**
+
+$32
+
+**Article 18. Classificació de la informació com a reservada d’Estat**
+
+1. La classificació de la informació com a reservada d’Estat ha de respectar els principis de legalitat, transparència, proporcionalitat i idoneïtat.
+2. Per a la classificació de la informació com a reservada d’Estat s’estén una acta pública formal on consta, com a mínim:
+a) L’explicació suficientment justificada dels motius de la seva classificació com a reservada d’Estat i dels perills, inclòs el perjudici, que pot suposar la seva revelació.b) L’òrgan competent de la seva custòdia.
+3. Les còpies o duplicats en qualsevol format d’una informació reservada d’Estat tenen el mateix tractament i garantia que l’original. S’obtenen amb prèvia autorització especial i a cada còpia o duplicat se li ha d’adjudicar una numeració.
+
+**Article 19. Custòdia**
+
+1. Aquelles administracions, autoritats o funcionaris que tinguin l’obligació de custodiar informació reservada d’Estat han de posar tots els mitjans necessaris per assegurar-ne la protecció i custòdia. No poden revelar informació reservada d’Estat ni facilitar-ne l’accés sense l’autorització expressa de l’autoritat competent.
+2. Tota aquella documentació o informació que sigui classificada com a informació reservada d’Estat ha de ser marcada amb un segell o amb la indicació clara d’“informació reservada d’Estat”.
+3. Aquesta obligació de reserva es manté durant tot el període de classificació segons definit a l’article 21. En cas que la persona deixi o perdi el seu lloc de treball o càrrec, la seva obligació del deure de secret es manté fins a l’aixecament d’aquest.
+4. La documentació en format digital ha de comptar amb un protocol i norma de seguretat desenvolupats reglamentàriament.
+
+**Article 20. Habilitació genèrica**
+
+$34
+
+**Article 21. Termini de la reserva**
+
+1. El termini de classificació de la informació com a reservada d’Estat s’estableix per un període no superior als vint anys. Aquest termini comença a computar des del moment de la seva classificació com a tal.
+2. De manera motivada, sempre que existeixi un risc imminent que pugui perjudicar la integritat del Principat d’Andorra i sempre que no s’hagi exhaurit el termini màxim definit a l’apartat anterior, el Govern pot ampliar el termini de classificació inicialment previst, sense que es pugui superar en cap cas el termini màxim de 30 anys.
+
+**Article 22. Aixecament de la classificació**
+
+$36
+
+#### Capítol cinquè. Comissió Nacional d’Accés i Avaluació de la Documentació
+
+**Article 23. Comissió Nacional d’Accés i Avaluació de la Documentació**
+
+En l’àmbit de l’Administració general i els òrgans i entitats que en depenen o que estan sota la seva direcció, la Comissió Nacional d’Accés i Avaluació de la Documentació (CNAAD) és un òrgan consultiu i decisori en matèria d’accés a la informació pública i avaluació de la documentació pública.
+
+**Article 24. Composició**
+
+1. La CNAAD es compon dels membres següents:
+a) La persona encarregada de la secretaria general del Govern.b) La persona responsable de la direcció de l’Agència Andorrana de Protecció de Dades.c) La persona responsable de la direcció de l’Arxiu Nacional d’Andorra.d) Una persona tècnica de l’Àrea d’Arxius i Gestió de Documents del Govern.e) Una persona titulada en dret especialitzada en dret administratiu.f) Una persona titulada en economia.g) Una persona qualificada en l’àmbit dels sistemes d’informació.h) Una persona titulada en història i especialista en història contemporània.i) Una persona representant del ministeri que escaigui, segons el tipus i les característiques de la informació pública l’accés de la qual se sol·licita o de la documentació pública subjecta a avaluació.j) Una persona representant de cada comú designada per cada comú.
+2. Els membres de la CNAAD referits a les lletres d) a h) de l’apartat anterior són nomenats pel Govern.
+
+**Article 25. Funcions i competències**
+
+$38
+
+**Article 26. Funcionament**
+
+$3a
+
+**Article 27. Aplicació de les resolucions de la Comissió Nacional d’Accés i Avaluació de la Documentació**
+
+$3c
+
+### Títol III. Declaració de patrimoni
+
+**Article 28. Declaració de patrimoni**
+
+1. Les persones a les quals es refereix l’article 3.3 han de formular, en el moment d’accés al càrrec i en el moment de finalitzar-lo, una declaració de patrimoni jurada relativa als béns i drets propis dels quals són titulars a les dates respectives, de conformitat amb el model que figura a l’Annex.
+2. Les declaracions de patrimoni inicial i final s’han de formular i dipositar davant de notari en el termini improrrogable de tres mesos a comptar de la data d’accés al càrrec i de la data de finalitzar-lo, respectivament.
+3. Les declaracions de patrimoni previstes en aquest article tenen caràcter confidencial, i poden ser consultades únicament pels propis afectats o per l’autoritat competent en el marc d’un procediment judicial.
+
+### Títol IV. Govern obert
+
+#### Capítol primer. Principis generals del govern obert
+
+**Article 29. Principis generals i impuls**
+
+$3e
+
+**Article 30. Mesures de foment**
+
+1. La ciutadania pot intervenir, de manera individual o col· lectiva, per mitjà d’entitats de caràcter representatiu, en la definició i l’aplicació de les polítiques públiques.
+2. L’Administració pública ha de fomentar la participació i la col·laboració ciutadanes en la presa de decisions públiques.
+3. Els instruments i les formes de participació i col·laboració ciutadanes s’han de donar a conèixer per mitjà dels canals de difusió per permetre’n un coneixement tan generalitzat com sigui possible. L’Administració ha de posar a la seva disposició les eines de formació pertinents per facilitar-ne l’ús.
+4. Les administracions s’han de dotar d’una plataforma de govern obert, espai principal i permanent d’interacció entre el sector públic i la ciutadania, per facilitar la gestió participada i corresponsable en l’acció política, i a on es materialitzen els principis de transparència, participació i retiment de comptes.
+
+**Article 31. Garanties per a l’efectivitat del govern obert**
+
+$40
+
+#### Capítol segon. Participació ciutadana
+
+**Article 32. Dret a la participació ciutadana**
+
+1. A l’efecte del que preveu l’article 29.1.c), la participació ciutadana és el dret dels ciutadans a intervenir, de manera directa o indirecta, en les polítiques públiques a través de la deliberació i la cerca del consens, per mitjà de la presentació de propostes i suggeriments.
+2. El dret a la participació ciutadana previst en aquesta Llei pot exercitar-se, davant l’Administració general i els òrgans que en depenen o que estan sota la seva direcció, a través de diversos processos, i dels òrgans, mitjans i canals de participació que s’estableixin per reglament, i s’entén sense perjudici de les competències dels comuns en matèria de participació ciutadana, de les iniciatives legislatives populars previstes a la Constitució i al Reglament del Consell General, i dels referèndums regulats a la Llei qualificada del règim electoral i del referèndum.
+
+**Article 33. Iniciatives reglamentàries populars**
+
+$42
+
+**Article 34. Períodes inhàbils per a la convocatòria i celebració de procediments de participació ciutadana**
+
+Els processos de participació ciutadana previstos en aquesta Llei no poden ser convocats ni celebrats durant els períodes que transcorrin entre:
+a) La convocatòria d’eleccions generals i els seixanta dies naturals posteriors a l’elecció del cap de Govern.b) La convocatòria i la celebració d’un referèndum dels previstos per la normativa aplicable quan es refereixi a la matèria objecte del procés participatiu de què es tracti.
+
+**Article 35. Mesures de participació dels infants i adolescents**
+
+L’Administració general i els òrgans que en depenen o que estan sota la seva direcció han de promoure la participació dels infants i adolescents a través de la posada en marxa d’òrgans de participació compostos per aquests col·lectius, i han d’establir mecanismes de seguiment de les opinions i el benestar subjectiu dels infants i adolescents, que permetin als responsables públics d’identificar els seus problemes i expectatives.

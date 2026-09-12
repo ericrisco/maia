@@ -1,0 +1,874 @@
+# Llei de l'economia digital, l'emprenedoria i innovació (Llei 42/2022)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/economia-digital
+Articles: 165 · versions consolidades: 4
+Instantania del consolidat: 2026-09-12T05:30:07.672762Z
+
+---
+
+### Títol I. Disposicions generals
+
+**Article 1. Objecte**
+
+1. L’objecte d’aquesta Llei és establir un seguit de mesures per al foment de l’economia digital, l’emprenedoria i la innovació al Principat d’Andorra.
+2. Concretament, les mesures esmentades a l’apartat 1, que s’estableixen en els diferents títols d’aquesta Llei, són les següents:
+a) Establiment d’un règim per a la creació, la planificació i el desenvolupament de zones econòmiques especials.b) Establiment d’un règim per promoure la creació i l’ús d’incubadores, acceleradores i clústers.c) Establiment d’una regulació específica per a la residència en espais comuns complementaris i el lloguer d’espais compartits de treball.d) Establiment d’autoritzacions d’immigració per a nòmades digitals, de visats emprenedors i d’altres mesures en matèria d’immigració per afavorir l’economia digital, l’emprenedoria i la innovació.e) Establiment de mesures en matèria laboral per afavorir l’economia digital, l’emprenedoria i la innovació.f) Establiment de mesures per afavorir el finançament i la inversió en iniciatives empresarials vinculades a l’economia digital, l’emprenedoria i la innovació. Específicament, s’estableixen les mesures següents:i. Regulació sobre les societats mercantils ostartups.ii. Mesures fiscals i de promoció del finançament per fomentar la creació destartupsi les seves activitats.iii. Regulació dels serveis de finançament participatiu per a empreses.g) Establiment d’un règim d’entorn controlat de proves.h) Establiment d’un règim per promoure la creació i l’ús de laboratoris d’innovació oberta.i) Establiment d’un règim d’accés obert a documents, informació o dades.j) Establiment de la passarel·la d’intercanvi de dades i documents del Principat d’Andorra.
+
+**Article 2. Definicions**
+
+A efectes d’aquesta Llei, s’entén per:
+a) “Economia digital”: aquella part de la producció econòmica derivada únicament o principalment de tecnologies digitals amb models de negoci basats en béns o serveis digitals.b) “Emprenedoria”: l’acte de crear una empresa assumint la majoria dels riscos i gaudint de la majoria dels retorns, habitualment innovant en nous béns o serveis.c) “Innovació”: la implementació en la pràctica d’idees que resulten en la introducció de nous béns o serveis o en la millora de l’oferta de béns o serveis existents.
+
+### Títol II. Zones econòmiques especials
+
+**Article 3. Objecte**
+
+1. Amb el propòsit d’assolir l’objecte d’aquesta Llei, aquest títol estableix les disposicions aplicables a la creació, la planificació i el desenvolupament de zones econòmiques especials al Principat d’Andorra, amb la finalitat de generar condicions favorables per a la inversió nacional i estrangera pel que fa a activitats econòmiques específiques.
+2. Més concretament, la regulació continguda en aquest títol preveu la regulació i l’administració de les activitats econòmiques desenvolupades a les zones econòmiques especials, d’acord amb els principis de competitivitat i transparència.
+
+**Article 4. Naturalesa i finalitat de les zones econòmiques especials**
+
+1. Les zones econòmiques especials són àrees geogràfiques degudament delimitades en un territori, destinades a promoure el creixement i desenvolupament socioeconòmic sostenible, la competitivitat i la innovació, així com a fomentar l’estabilitat de les inversions i el treball.
+2. A les zones econòmiques especials, hi poden participar entitats privades, públiques o mixtes, de diversa naturalesa.
+3. Una àrea geogràfica pot ser declarada zona econòmica especial per raó d’un sol sector o de diversos sectors, o en funció de la finalitat perseguida per la zona econòmica especial de què es tracti, entre d’altres.
+4. Les zones econòmiques especials poden ser centralitzades, quan la creació d’una zona econòmica especial es du a terme en una única zona delimitada geogràficament, o descentralitzades, quan la creació d’una zona econòmica especial es du a terme en diverses zones delimitades geogràficament.
+
+**Article 5. Administració i gestió de les zones econòmiques especials**
+
+$1e
+
+**Article 6. Procediment per establir zones econòmiques especials**
+
+$20
+
+**Article 7. Llicències per operar en una zona econòmica especial**
+
+$22
+
+**Article 8. Publicació de llicències i plataforma electrònica informativa**
+
+1. El ministeri encarregat de l’economia fa públiques al
+Butlletí Oficial del Principat d’Andorra
+les llicències atorgades per a la participació d’entitats en zones econòmiques especials.
+2. El ministeri encarregat de l’economia habilita una plataforma electrònica i en línia en la qual es facilita informació sobre les zones econòmiques especials establertes al Principat d’Andorra.
+
+**Article 9. Registre de Zones Econòmiques Especials**
+
+1. Es crea el Registre de Zones Econòmiques Especials, dependent del ministeri encarregat de l’economia.
+2. El Registre de Zones Econòmiques Especials té per objecte inscriure les entitats participants i els actes determinats reglamentàriament.
+3. El Registre de Zones Econòmiques Especials és de caràcter privat. Això no obstant, les persones que acreditin un interès legítim per accedir-hi, poden sol·licitar al Registre de Zones Econòmiques Especials les certificacions d’aquest registre, tot de conformitat amb allò que s’estableixi reglamentàriament.
+4. L’estructura, l’organització i el funcionament del Registre de Zones Econòmiques Especials es regulen reglamentàriament.
+
+**Article 10. Informes anuals**
+
+1. El ministeri encarregat de l’economia elabora un informe anual sobre les activitats econòmiques dutes a terme a les zones econòmiques especials, el qual posteriorment és remès al Govern i al Consell General, indicant el que ha succeït en l’any de què es tracti, valorant les oportunitats de millora identificades i incloent recomanacions per a cada zona econòmica especial.
+2. Així mateix, l’informe ret comptes sobre les despeses i els guanys públics que s’han produït en l’anualitat de què es tracti.
+3. El Consell General, a proposta del Síndic General, determina la forma en què s’ha de debatre l’informe presentat pel ministeri encarregat de l’economia.
+El ministre encarregat de l’economia pot ser requerit perquè comparegui davant del Ple del Consell General o la Comissió que aquest darrer designi per debatre els informes presentats.
+
+### Títol III. Incubadores, acceleradores i clústers
+
+**Article 11. Objecte**
+
+1. Amb el propòsit d’assolir l’objecte d’aquesta Llei, amb aquest títol es pretén millorar la creació, el desenvolupament i la rendibilitat d’empreses, a través de col·laboracions entre diversos actors, per així contribuir a un creixement sostenible empresarial, fomentant l’acompanyament en la transformació d’empreses i l’alineament dels esforços públics i privats.
+2. Més concretament, el que es promou és el següent:
+a) Estimular la creació de noves empreses, mitjançant la provisió de serveis específics d’acompanyament en el procés.b) Potenciar el desenvolupament d’empreses existents, facilitant que aquestes puguin cooperar i compartir experiències, coneixements i recursos humans, materials o econòmics, entre d’altres.c) Contribuir a l’acceleració d’oportunitats en un entorn de transformació constant.d) Incrementar la capacitat de generar valor i competitivitat empresarial.e) Atraure i motivar el talent.
+
+**Article 12. Definicions**
+
+$24
+
+**Article 13. Creació d’incubadores, acceleradores i clústers**
+
+Les incubadores, les acceleradores i els clústers poden ser creats per entitats privades o públiques de diversa naturalesa, sempre que la normativa en vigor que les reguli i els sigui d’aplicació i les seves normes de regulació internes, com ara els seus estatuts, els ho permetin.
+
+**Article 14. Actors de suport del clúster**
+
+Els clústers poden disposar d’actors de suport del clúster, amb l’objectiu, entre d’altres, de generar sinergies i millorar la competitivitat, la productivitat i la rendibilitat de les empreses i altres entitats que els formen.
+
+**Article 15. Incentius per a la creació i l’enfortiment d’incubadores, acceleradores i clústers**
+
+El Govern estableix anualment un pla d’estímuls econòmics o d’altres tipus, tant per a la creació d’incubadores, acceleradores i clústers com per al seu enfortiment.
+
+**Article 16. Plataforma i xarxa nacional d’incubadores, acceleradores i clústers**
+
+1. El ministeri encarregat de l’economia habilita una plataforma electrònica i en línia en la qual es facilita informació relativa a les acceleradores, les incubadores i els clústers que s’estableixin al Principat d’Andorra. En aquesta plataforma també es pot facilitar informació d’iniciatives i projectes que es duguin a terme per part d’aquestes entitats.
+2. El ministeri encarregat de l’economia promou la creació d’una xarxa nacional d’incubadores, acceleradores i clústers, amb la finalitat de facilitar el compliment de l’objecte d’aquest títol, establert a l’article 11.
+
+### Títol IV. Règim jurídic dels espais comuns complementaris o coliving i dels espais compartits de treball o coworking
+
+#### Capítol I. Disposicions comunes
+
+**Article 17. Objecte**
+
+Aquest títol estableix el règim jurídic aplicable als espais comuns complementaris i als espais compartits de treball, així com a les unitats immobiliàries i instal·lacions utilitzades en el marc d’aquestes modalitats residencials i professionals.
+
+**Article 18. Definicions**
+
+$26
+
+#### Capítol II. Residència en espais comuns complementaris
+
+**Article 19. Residència en espais comuns complementaris**
+
+$28
+
+**Article 20. Règim contractual de residència en espais comuns complementaris**
+
+$2a
+
+**Article 21. Assegurances obligatòries**
+
+1. Els propietaris o altres gestors d’espais comuns complementaris han de subscriure amb una entitat asseguradora autoritzada per operar al Principat d’Andorra una pòlissa d’assegurança de responsabilitat civil per danys a tercers en una quantia suficient per cobrir danys eventuals, d’acord amb la capacitat màxima d’aforament declarada i amb allò que s’estableixi reglamentàriament.
+2. L’assegurança esmentada a l’apartat 1 és obligatòria, amb independència de l’obligació prevista a l’article 20.9 relativa a l’obligació de subscripció de pòlissa d’assegurança per les persones usuàries d’espais comuns complementaris que hagin signat un contracte d’arrendament d’un espai comú complementari per a residència permanent i habitual.
+3. Els ministeris encarregats de l’habitatge i de l’economia poden exigir en tot moment la presentació i l’exhibició de la pòlissa d’assegurança a què es refereix l’apartat 1.
+
+#### Capítol III. Lloguer d’espais compartits de treball
+
+**Article 22. Els espais compartits de treball**
+
+$2c
+
+**Article 23. Tipologia d’espais dels espais compartits de treball i tipologia contractual**
+
+$2e
+
+**Article 24. Assegurances obligatòries**
+
+1. Els propietaris o altres gestors dels
+espais compartits de treball
+han de subscriure amb una entitat asseguradora autoritzada per operar al Principat d’Andorra una pòlissa d’assegurança de responsabilitat civil per danys a tercers en una quantia suficient per cobrir danys eventuals, d’acord amb la capacitat màxima d’aforament declarada i amb allò que s’estableixi reglamentàriament.
+2. L’assegurança esmentada a l’apartat 1 és obligatòria, amb independència de les possibles obligacions de l’usuari de l’espai compartit de treball en aquells supòsits de contractes regulats a l’article 23.1.d) per raó d’aplicació de la normativa vigent en cada moment en matèria d’arrendament de finques urbanes.
+3. El ministeri encarregat de l’economia pot exigir en tot moment la presentació i l’exhibició de la pòlissa d’assegurança a la qual es refereix l’apartat 1.
+
+#### Capítol IV. Les empreses d’explotació d’espais comuns complementaris i espais compartits de treball (EECC)
+
+**Article 25. Autorització**
+
+1. El procediment de sol·licitud de l’autorització administrativa prèvia per a les EECC, que atorga el ministeri encarregat de l’economia, així com el seu contingut, vigència i causes de revocació són determinats reglamentàriament.
+2. En cas que l’autorització administrativa no es concedeixi, es pot interposar el corresponent recurs administratiu d’acord amb l’establert per la legislació en vigor en matèria de recursos administratius.
+
+**Article 26. Requisits i marc legal**
+
+1. L’exercici de l’activitat comercial de gestió d’espais comuns complementaris i espais compartits de treball requereix amb caràcter preceptiu l’obtenció de l’autorització administrativa esmentada a l’article 25 i la inscripció prèvia del titular de la gestió al Registre d’Espais comuns complementaris i Espais compartits de treball regulat a l’article 28.
+2. La inscripció d’una EECC al Registre d’Espais comuns complementaris i Espais compartits de treball dona lloc a l’obtenció d’una placa oficial que indica el nom comercial de l’EECC. Aquest distintiu és lliurat pel ministeri encarregat de l’economia i ha de figurar a l’oficina principal de l’EECC i als espais on s’ubiquin els espais comuns complementaris i els espais compartits de treball, en un lloc ben visible per als seus usuaris i per al públic en general.
+3. Reglamentàriament es fixen els requisits d’obligat compliment quant a les característiques de les EECC, així com per a la prestació i la qualitat dels seus serveis.
+
+**Article 27. El contracte de gestió**
+
+1. En cas que les EECC no siguin propietàries ni titulars de drets reals sobre els espais comuns complementaris o els espais compartits de treball que gestionen, han de formalitzar un contracte de gestió de l’espai comú complementari o l’espai compartit de treball amb els propietaris o titulars de drets reals sobre aquests.
+2. El contracte de gestió de l’espai comú complementari o l’espai compartit de treball ha d’indicar, com a mínim, que el propietari o el titular de drets reals sobre l’espai comú complementari o l’espai compartit de treball faculta l’EECC per gestionar la unitat immobiliària en el règim específic que correspongui segons es tracti d’un espai comú complementari o un espai compartit de treball.
+
+#### Capítol V. El Registre d’Espais comuns complementaris i Espais compartits de treball
+
+**Article 28. Registre d’Espais comuns complementaris i Espais compartits de treball**
+
+1. Es crea el Registre d’Espais comuns complementaris i Espais compartits de treball, dependent del ministeri encarregat de l’economia.
+2. El Registre d’Espais comuns complementaris i Espais compartits de treball té per objecte inscriure els espais comuns complementaris i els espais compartits de treball autoritzats, les EECC autoritzades i els actes relatius a aquests que es determinin reglamentàriament.
+3. El Registre d’Espais comuns complementaris i Espais compartits de treball és de caràcter públic.
+4. El número d’inscripció al Registre d’Espais comuns complementaris i Espais compartits de treball ha de constar obligatòriament en tota mena de suport on s’anunciï o promocioni l’establiment de què es tracti.
+5. L’estructura, l’organització i el funcionament del Registre d’Espais comuns complementaris i Espais compartits de treball es regula reglamentàriament.
+
+#### Capítol VI. Procediment sancionador
+
+**Article 29. Potestat sancionadora**
+
+1. Tota actuació que contradigui el que estableix aquest títol o les disposicions reglamentàries que el desenvolupen, pot donar lloc a la incoació d’un expedient sancionador i a la imposició de sancions després de la instrucció prèvia de l’expedient que escaigui.
+2. L’òrgan competent per incoar i resoldre els expedients sancionadors per raó de l’establert en aquest títol és el ministre encarregat de l’economia. La instrucció dels expedients correspon als tècnics designats per aquest ministre.
+
+**Article 30. Responsables de les infraccions**
+
+Són responsables de les infraccions respecte al que regula aquest títol, les persones físiques o jurídiques gestores d’
+espais comuns complementaris
+o
+espais compartits de treball
+, siguin o no titulars d’autoritzacions d’EECC.
+
+**Article 31. Expedient sancionador**
+
+1. La constatació d’una infracció per part del titular de la potestat sancionadora comporta la incoació de l’expedient sancionador corresponent, d’acord amb el que disposi la normativa en vigor en cada moment en matèria de procediments administratius sancionadors.
+2. S’atorga a les actes del titular de la potestat sancionadora la presumpció d’exactitud, llevat de prova en contra.
+3. Contra la resolució dictada pel titular de la potestat sancionadora es pot interposar recurs, d’acord amb el que disposi la normativa en vigor en cada moment en matèria de recursos administratius.
+
+**Article 32. Infraccions**
+
+Constitueixen infraccions al que regula aquest títol les accions o omissions que aquest tipifica.
+
+**Article 33. Classificació de les infraccions**
+
+Les infraccions es classifiquen en lleus, greus i molt greus.
+
+**Article 34. Circumstàncies per a la determinació de les infraccions**
+
+Per determinar les sancions corresponents, es tenen en compte les circumstàncies següents:
+a) Els perjudicis ocasionats als usuaris dels espais comuns complementaris o espais compartits de treball.b) El benefici il·lícit obtingut.c) La reincidència en la comissió en el termini d’un any d’una infracció de la mateixa naturalesa, quan així hagi estat declarada per resolució ferma.d) La resolució, durant la tramitació de l’expedient, de les anomalies que van originar l’obertura del procediment sancionador.
+
+**Article 35. Infraccions lleus**
+
+Es consideren infraccions lleus:
+a) No disposar de totes les eines bàsiques necessàries per al correcte desenvolupament d’un treball d’oficina en un espai compartit de treball.b) La comissió d’altres conductes contràries a allò que disposa la normativa en matèria d’espais comuns complementaris i d’espais compartits de treball en vigor en el moment en què es cometin infraccions que, per la seva naturalesa o gravetat, no constitueixin infracció greu o molt greu.
+
+**Article 36. Infraccions greus**
+
+$30
+
+**Article 37. Infraccions molt greus**
+
+Es consideren infraccions molt greus:
+a) L’exercici de l’activitat comercial de gestió d’espais comuns complementaris o espais compartits de treball sense disposar de l’autorització administrativa pertinent.b) No disposar de l’assegurança obligatòria de responsabilitat civil.c) La comissió de dues o més infraccions de caràcter greu en el termini de dos anys.d) La comissió d’altres conductes contràries a allò que disposa la normativa en matèria d’espais comuns complementaris i espais compartits de treball en vigor en el moment en què es cometin infraccions que, per la seva naturalesa o gravetat, no constitueixin infracció lleu o greu.
+
+**Article 38. Sancions**
+
+Les sancions per infraccions en la matèria objecte de regulació en aquest títol poden ser:
+a) Multa.b) Suspensió de les activitats empresarials per un període de fins a un any, en cas d’una infracció molt greu.c) Clausura de l’espai comú complementari o de l’espai compartit de treball, únicament en cas d’infracció molt greu com a mesura excepcional segons els perjudicis que causi la infracció tant a les persones com al prestigi del Principat d’Andorra. La sanció determinarà la durada de la clausura, que, en tot cas, ha de ser com a mínim del temps que dura restablir o normalitzar la situació alterada per la infracció comesa.
+
+**Article 39. Graduació de les sancions**
+
+$32
+
+**Article 40. Prescripció de les infraccions**
+
+1. Les infraccions prescriuen en els terminis següents:
+a) Les lleus, al cap d’un any.b) Les greus, al cap de dos anys.c) Les molt greus, al cap de tres anys.
+2. L’inici d’una activitat inspectora suspèn el termini de prescripció de les infraccions.
+3. El termini de prescripció de les infraccions es computa des del dia en què cessa l’acció o l’omissió sancionable.
+
+**Article 41. Prescripció de les sancions**
+
+Les sancions per infraccions lleus prescriuen en el termini d’un any, les greus en el termini de dos anys i les molt greus en el termini de tres anys, a comptar de la data de notificació de la resolució sancionadora esdevinguda ferma.
+
+### Títol V. Autoritzacions d’immigració per a nòmades digitals, visats emprenedors i altres mesures en matèria d’immigració per afavorir l’economia digital, l’emprenedoria i la innovació
+
+**Article 42. Objecte**
+
+$34
+
+**Article 43. Modificació de l’article 23 de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració**
+
+$36
+
+**Article 44. Modificació de l’article 26 bis de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració**
+
+Es modifica l’apartat 2 de l’article 26 bis de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració, que queda redactat de la manera següent:
+“
+Article 26 bis.
+Autorització d’immigració temporal per a joves amb opció de treball
+(…)
+2. La durada de l’autorització d’immigració temporal per a joves amb opció de treball és de dotze mesos, prorrogable sempre que existeixi reciprocitat amb el país que signa un acord amb el Principat d’Andorra per establir programes de viatges formatius o de lleure per a joves amb la possibilitat de treballar. La renovació es concedeix per un únic període de dotze mesos.
+(…).”
+
+**Article 45. Modificació del capítol tercer del títol VI de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració**
+
+$38
+
+**Article 46. Modificació de l’article 38**
+
+$3a
+
+**Article 47. Modificació de l’article 38**
+
+$3c
+
+**Article 48. Modificació de l’article 40 de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració**
+
+Es modifica l’article 40 de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració, que queda redactat de la manera següent:
+“
+Article 40.
+Principi de prioritat en la concessió de les autoritzacions
+Les autoritzacions d’immigració de residència i treball, temporal, de fronterer, temporal de fronterer, de residència i treball per compte propi, de treball sense residència i de residència sense treball, així com les autoritzacions d’immigració de residència per a persones estrangeres que contribueixen al desenvolupament de l’economia digital i l’emprenedoria, es concedeixen en primer lloc als nacionals dels estats que hagin signat i ratificat un conveni amb el Principat d’Andorra, seguidament als nacionals dels estats membres de la Unió Europea o de l’Espai Econòmic Europeu i finalment als nacionals d’altres estats.”
+
+**Article 49. Modificació de l’article 73 de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració**
+
+$3e
+
+**Article 50. Modificació de l’article 96 de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració**
+
+$40
+
+**Article 51. Addició d’un títol IX ter a la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració**
+
+$42
+
+**Article 52. Modificació de l’article 102 de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració**
+
+S’addiciona un apartat 3 a l’article 102 de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració, amb el redactat següent:
+“
+Article 102.
+Persones que poden sol·licitar el reagrupament familiar
+(…)
+3. La persona estrangera titular d’una autorització d’immigració de residència per a persones estrangeres que contribueixen al desenvolupament de l’economia digital i l’emprenedoria sol·licita el reagrupament familiar d’acord amb les disposicions establertes en el títol IX de la present Llei.”
+
+**Article 53. Modificació de l’article 141 de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració**
+
+Es modifica la lletra a) de l’article 141 de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració, que queda redactada de la manera següent:
+“
+Article 141.
+Infraccions greus
+Comet una infracció greu:
+a) El patró que fa treballar al Principat d’Andorra una persona estrangera titular d’una autorització d’immigració de residència sense treball o de residència per raons de reagrupament o d’una autorització d’immigració de residència per a persones estrangeres que contribueixen al desenvolupament de l’economia digital i l’emprenedoria.(…).”
+
+**Article 54. Modificació de l’article 152 de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració**
+
+$44
+
+**Article 55. Modificació de l’article 154 de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració**
+
+$46
+
+### Títol VI. Mesures en matèria laboral per afavorir l’economia digital, l’emprenedoria i la innovació
+
+**Article 56. Objecte**
+
+Amb el propòsit d’assolir l’objecte d’aquesta Llei, aquest títol, mitjançant la modificació de la Llei 31/2018, del 6 de desembre, de relacions laborals, pretén clarificar el règim de la modalitat de contracte de treball a distància o teletreball, a l’efecte d’atorgar més seguretat jurídica tant a les persones assalariades com a les empreses.
+
+**Article 57. Modificació de l’article 30 de la Llei 31/2018, del 6 de desembre, de relacions laborals**
+
+$48
+
+**Article 58. Addició d’un nou article 52 bis a la Llei 31/2018, del 6 de desembre, de relacions laborals**
+
+S’addiciona un nou article 52
+bis
+a la Llei 31/2018, del 6 de desembre, de relacions laborals, amb el redactat següent:
+“
+Article 52 bis.
+Dret a la desconnexió digital
+Les persones assalariades tenen dret a la desconnexió digital fora del seu horari de treball, així com el respecte a la durada màxima de la jornada laboral establerta i a qualsevol altra tipologia de límits i precaucions en matèria de jornada establerts per la normativa legal o convencional aplicable en cada moment.”
+
+### Títol VII. Mesures per afavorir el finançament i la inversió en iniciatives empresarials vinculades a l’economia digital, l’emprenedoria i la innovació
+
+#### Capítol I. La Secció de SocietatsStartupsdel Registre de Societats Mercantils
+
+**Article 59. Creació de la Secció de Societats Startups del Registre de Societats Mercantils**
+
+1. Es crea la Secció de Societats
+Startups
+, que depèn del Registre de Societats Mercantils.
+2. Les seves funcions són les següents:
+a) Atorgar la declaració de societatstartupesmentada a l’article 62.2.b), d’acord amb el procediment que reglamentàriament s’estableixi.b) Gestionar el Registre de Societats MercantilsStartups.c) Efectuar el seguiment del compliment dels requisits per tenir la condició de societat mercantil startup.d) Determinar la pèrdua de la condició de societat mercantil startup.e) Qualsevol altra funció que li sigui atribuïda per llei.
+
+**Article 60. El Registre de Societats Mercantils Startups**
+
+1. Es crea el Registre de Societats Mercantils
+Startups
+, que forma part del Registre de Societats Mercantils i és gestionat per la Secció de Societats Startups del Registre de Societats Mercantils.
+2. El Registre de Societats Mercantils
+Startups
+té per objecte la inscripció de les societats que han obtingut la consideració de societat mercantil startup.
+3. El Govern, a proposta del ministeri encarregat de l’economia, ha d’establir reglamentàriament el procediment d’inscripció al dit registre.
+
+#### Capítol II. La societat mercantilstartup
+
+**Article 61. Concepte de societat mercantil ‘startup’**
+
+La societat mercantil
+startup
+és una societat de recent inscripció constitutiva d’acord amb la normativa que regula les societats mercantils, que es caracteritza per desenvolupar una empresa o un model de negoci emergent, independent de l’activitat d’altres societats mercantils excepte que siguin també
+startups
+o que provingui d’una fusió o d’una escissió d’una
+startup
+, basat en la innovació en el desenvolupament de productes i serveis utilitzant la tecnologia com a element subjacent.
+
+**Article 62. Adquisició de la condició de societat mercantil ‘startup’**
+
+$4a
+
+**Article 63. Pèrdua de la condició de societat mercantil ‘startup’**
+
+La societat mercantil
+startup
+perd aquesta condició en qualsevol dels supòsits següents:
+a) L’incompliment d’aquesta Llei i del reglament que la desenvolupa.b) Al final de l’exercici social en què consolida el seu negoci. A efectes d’aquesta Llei, la consolidació del negoci es produeix quan els resultats abans d’impostos són positius durant dos exercicis socials consecutius i el seu patrimoni net no és inferior a la meitat de la xifra del capital social.c) Quan reparteixi dividends.d) Quan és objecte d’una fusió o d’una escissió total de la que no resulti una novastartup.e) Quan entra a formar part d’un grup de societats o quan esdevé sota el control d’una societat mercantil matriu que no té la consideració destartup.f) Quan s’acorda o es declara la seva dissolució.g) Quan la totalitat dels socis fundadors deixen de gestionar o de realitzar tasques a la societat.
+
+#### Capítol III. Règim jurídic de la societat mercantilstartup
+
+**Article 64. L’observador**
+
+$4c
+
+**Article 65. Retribució dels administradors amb títols o drets representatius de capital**
+
+$4e
+
+**Article 66. Retribució dels empleats, observadors i proveïdors de béns i serveis de la societat amb títols representatius del capital**
+
+$50
+
+**Article 67. Negocis sobre les pròpies accions o participacions**
+
+$52
+
+**Article 68. Deure d’exclusivitat**
+
+1. Salvat pacte en contrari o per acord de la Junta General, els socis fundadors tindran dedicació exclusiva en el marc de les seves prestacions de serveis a la societat, tinguin naturalesa laboral o mercantil, amb excepció de les activitats docents o d’altres activitats empresarials que estiguessin desenvolupant anteriorment.
+2. L’incompliment del deure d’exclusivitat comportarà l’obligació d’indemnitzar la resta de socis i la societat pels danys i perjudicis que el dit incompliment els hagi causat. Igualment, aquest incompliment serà causa d’exclusió del soci fundador quan així ho prevegin els estatuts socials.
+
+**Article 69. Prohibició de competència postcontractual per als socis, administradors i observadors**
+
+1. Salvat pacte en contrari o per acord de la Junta General, els socis fundadors de la societat o els que tinguin una participació rellevant o de control que venguin les participacions socials o accions de les que són titulars, així com els administradors i els observadors que cessin del seu càrrec, no podran ser titulars de cap negoci, ni ostentar, directament o indirecta, participacions socials o accions de societats mercantils que competeixin amb la societat mercantil
+startup
+, així com tampoc prestar els seus serveis a qualsevol competidor.
+2. La no-competència es troba limitada a un període màxim de tres anys des que es produeix la transmissió o el cessament i dins l’àmbit geogràfic d’actuació de la societat mercantil
+startup
+.
+
+**Article 70. Obligació de permanència dels socis fundadors**
+
+1. Els socis fundadors de la societat no poden transmetre voluntàriament per acte entre vius les participacions socials o accions de les que són titulars, així com tampoc no poden constituir drets reals sobre aquestes, durant cinc anys des de la data d’inscripció constitutiva de la societat o des de la data d’atorgament de la inscripció de l’escriptura pública de subscripció dels títols en el marc d’una ampliació de capital social, en el seu cas.
+2. Per acord unànime de la resta de socis, l’obligació de permanència pot ser reduïda o suprimida.
+
+**Article 71. Dret d’informació dels socis sobre l’evolució de les activitats empresarials**
+
+1. La societat posarà a la disposició dels seus socis, amb una periodicitat quadrimestral, el balanç i el compte de pèrdues i guanys provisionals.
+2. Els administradors socials elaboraran i presentaran anualment a la Junta General un informe sobre l’estat del desenvolupament de l’empresa o del negoci i dels indicadors clau de rendiment que hagin estat fixats prèviament per la Junta General.
+
+**Article 72. El compliment dels pactes parasocials com a prestació accessòria**
+
+$54
+
+**Article 73. Alteració substancial del model de negoci**
+
+1. Les desviacions del model d’empresa o negoci de la societat respecte al pla de negoci previst inicialment, que comportin una alteració substancial dels productes i serveis o de la tecnologia subjacent utilitzada, requeriran l’acord previ de la Junta General, essent d’aplicació els mateixos requisits que per a la modificació dels estatuts.
+2. L’acord adoptat per la Junta General haurà de ser notificat a la Secció de Societats
+Startups
+del Registre de Societats Mercantils.
+
+**Article 74. El valor del patrimoni net per sota de la meitat de la xifra del capital social**
+
+1. Quan el valor del patrimoni net de la societat sigui inferior a la meitat de la xifra del capital social, només per acord de la Junta General, es podrà acordar la dissolució de la societat.
+2. Els administradors no responen solidàriament dels deutes socials posteriors a la concurrència d’aquesta causa de dissolució, excepte que no convoquin la Junta General quan siguin requerits per dur a terme la dita convocatòria d’acord amb la legislació societària.
+3. La dissolució judicial de la societat per aquesta causa només podrà ser promoguda per part dels administradors, els socis o per qualsevol part interessada quan la Junta General convocada no s’hagi celebrat en el dia previst.
+
+**Article 75. Augments de capital social adoptats per l’òrgan d’administració**
+
+$56
+
+**Article 76. Augment de capital social amb càrrec a préstecs convertibles en capital**
+
+$58
+
+**Article 77. Drets de liquidació preferent**
+
+En cas de dissolució i liquidació de l’
+startup
+, la Junta General podrà acordar una liquidació preferent a determinats socis titulars d’una determinada classe d’accions o de participacions socials, sempre que els estatuts socials recullin aquesta possibilitat.
+
+#### Capítol IV. Mesures fiscals i de promoció del finançament
+
+**Article 78. Modificació de l’article 5 de la Llei 5/2014, del 24 d’abril, de l’impost sobre la renda de les persones físiques**
+
+S’afegeixen unes noves lletres p) i q) a l’article 5 de la Llei 5/2014, del 24 d’abril, de l’impost sobre la renda de les persones físiques, el qual queda redactat tal com segueix:
+“
+Article 5.
+Rendes exemptes
+Estan exemptes de l’impost les rendes següents:
+(…)p) Les retribucions percebudes pels administradors, observadors i empleats de les societats mercantilsstartupsconsistents en el lliurament de participacions socials o accions, opcions sobre aquestes o drets econòmics referenciats sobre el valor de la participació social o de l’acció.q) Les rendes percebudes pels proveïdors de béns i serveis de les societats mercantilsstartupsque es posin de manifest amb el lliurament de participacions socials o accions, opcions sobre aquestes o drets econòmics referenciats sobre el valor de la participació social o de l’acció, en l’import que excedeixi el valor normal de mercat dels béns o serveis proveïts.”
+
+**Article 79. Modificació de l’article 15 de la Llei 95/2010, del 29 de desembre, de l’impost sobre societats**
+
+$5a
+
+**Article 80. Exempció de la taxa per al manteniment del full registral**
+
+Les societats mercantils
+startups
+estan exemptes de la taxa anual per al manteniment del seu full registral.
+
+**Article 81. Tractament dels crèdits per a préstecs convertibles en capital en cas de concurs**
+
+Els deutes per préstecs convertibles en capital rebuts per la societat startup tindran la consideració de crèdits privilegiats, en el cas de declaració de suspensió de pagaments i fallida o arranjament judicial de la societat.
+
+#### Capítol V. Serveis de finançament participatiu per a empreses
+
+##### Secció primera. Disposicions generals
+
+**Article 82. Objecte, àmbit d’aplicació i excepcions**
+
+$5c
+
+**Article 83. Definicions**
+
+$5e
+
+##### Secció segona. Prestació de serveis de finançament participatiu i requisits organitzatius i operatius aplicables als proveïdors de serveis de finançament participatiu
+
+**Article 84. Prestació de serveis de finançament participatiu**
+
+$62
+
+**Article 85. Gestió eficaç i prudent**
+
+$64
+
+**Article 86. Requisits de diligència deguda**
+
+$66
+
+**Article 87. Gestió individualitzada de carteres de préstecs**
+
+$68
+
+**Article 88. Tramitació de reclamacions**
+
+$6a
+
+**Article 89. Conflicte d’interès**
+
+$6c
+
+**Article 90. Externalització**
+
+1. Quan recorrin a tercers per a l’execució de funcions operatives, els proveïdors de serveis de finançament participatiu prendran totes les mesures raonables per tal d’evitar riscos operatius addicionals.
+2. L’externalització de funcions operatives a què es refereix l’apartat 1 no podrà afectar la qualitat del control intern dels proveïdors de serveis de finançament participatiu ni la capacitat de l’autoritat competent per supervisar el compliment del que es disposa en aquest capítol per part del proveïdor de serveis de finançament participatiu.
+3. Els proveïdors de serveis de finançament participatiu seguiran assumint la plena responsabilitat pel compliment del que es disposa en aquest capítol pel que fa a les activitats externalitzades.
+
+**Article 91. Prestació de serveis de pagament**
+
+$6e
+
+**Article 92. Requisits prudencials**
+
+$70
+
+##### Secció tercera. Autorització i supervisió dels proveïdors de serveis de finançament participatiu
+
+**Article 93. Autorització per operar com a proveïdor de serveis de finançament participatiu**
+
+$72
+
+**Article 94. Activitats incloses a l’autorització**
+
+$74
+
+**Article 95. Registre de proveïdors de serveis de finançament participatiu**
+
+$76
+
+**Article 96. Supervisió**
+
+1. Els proveïdors de serveis de finançament participatiu prestaran els seus serveis sota la supervisió de l’AFA.
+2. Sense perjudici de qualsevol altra facultat legalment atribuïda, l’AFA avaluarà el compliment de les obligacions establertes en aquest títol per part dels proveïdors de serveis de finançament participatiu.
+
+**Article 97. Comunicació d’informació pels proveïdors de serveis de finançament participatiu**
+
+$78
+
+**Article 98. Revocació de l’autorització**
+
+$7a
+
+##### Secció quarta. Protecció de l’inversor
+
+**Article 99. Informació als clients**
+
+$7c
+
+**Article 100. Publicació de la taxa d’impagament**
+
+$7e
+
+**Article 101. Prova inicial de coneixements i simulació de la capacitat de suportar pèrdues**
+
+$80
+
+**Article 102. Període de reflexió precontractual**
+
+$82
+
+**Article 103. Fitxa de dades fonamentals de la inversió**
+
+$84
+
+**Article 104. Fitxa de dades fonamentals de la inversió a la plataforma**
+
+$86
+
+**Article 105. Tauler d’anuncis**
+
+$88
+
+**Article 106. Accés als registres**
+
+Els proveïdors de serveis de finançament participatiu tindran les obligacions següents:
+a) Conservar tots els documents relacionats amb els seus serveis i operacions en un suport durador durant un període d’almenys deu anys;b) assegurar-se que els seus clients tinguin accés immediat als registres dels serveis que els han estat prestats en tot moment, ic) conservar durant un període d’almenys deu anys tots els contractes celebrats amb els seus clients.
+
+##### Secció cinquena. Comunicacions publicitàries
+
+**Article 107. Requisits relatius a les comunicacions publicitàries**
+
+1. Els proveïdors de serveis de finançament participatiu vetllaran perquè totes les comunicacions publicitàries relatives als seus serveis, incloses les externalitzades a tercers, siguin clarament identificables com a tals.
+2. Abans del tancament de la recaptació de fons per a un projecte, cap comunicació publicitària perseguirà de forma desproporcionada determinats projectes o ofertes de finançament participatiu previstos, pendents o en curs.
+La informació continguda a les comunicacions publicitàries haurà de ser imparcial, clara i no enganyosa i haurà de ser congruent amb la informació facilitada a la fitxa de dades fonamentals de la inversió, quan aquesta estigui disponible, o amb la informació que hagi de figurar a la fitxa de dades fonamentals de la inversió, quan aquesta encara no estigui disponible.
+
+##### Secció sisena. L’autoritat supervisora
+
+**Article 108. Autoritat competent**
+
+L’Autoritat Financera Andorrana és l’autoritat competent per exercir les funcions de control i supervisió dels serveis de finançament participatiu d’empreses, així com la resta de funcions que li atorga aquest capítol.
+
+**Article 109. Facultats**
+
+$8a
+
+##### Secció setena. Sancions administratives i altres mesures administratives
+
+**Article 110. Procediment sancionador**
+
+A l’efecte de determinar les infraccions en aquest capítol i les sancions a imposar, serà d’aplicació el procediment sancionador establert a la Llei de regulació del règim disciplinari del sistema financer, del 27 de novembre de 1997 en tot allò que no estigui establert en aquest capítol.
+
+**Article 111. Subjectes autors i responsables**
+
+Són subjectes autors i responsables de les infraccions contingudes en aquest capítol:
+a) Els proveïdors de finançament participatiu;b) les persones que exerceixin càrrecs d’alta direcció dels proveïdors de finançament participatiu, quan les infraccions siguin imputables a la seva conducta dolosa o negligent, ic) les restants persones físiques i jurídiques, a l’efecte de comprovar si infringeixen la reserva d’activitat prevista a l’article 84.
+
+**Article 112. Infraccions i sancions administratives**
+
+$8c
+
+**Article 113. Prescripció de les infraccions, inscripció i publicitat i ingrés dels imports de les sancions**
+
+Pel que fa a la prescripció de les infraccions, inscripció i publicitat i ingrés dels imports de les sancions a la publicació de les decisions serà d’aplicació l’establert a la Llei de regulació del règim disciplinari del sistema financer, del 27 de novembre de 1997.
+
+### Títol VIII. Entorn controlat de proves o sandbox
+
+**Article 114. Objecte**
+
+1. Amb el propòsit d’assolir l’objecte d’aquesta Llei, aquest títol regula un entorn controlat de proves consistent en un espai segur en què es poden provar productes, serveis, models de negoci o projectes relacionats amb l’economia digital o la innovació.
+2. En aquest entorn controlat de proves s’analitzen les oportunitats i els riscos que presenten les iniciatives esmentades a l’apartat 1, duent a terme una avaluació de la viabilitat de la iniciativa de què es tracti, en particular pel que fa a la seva explotació al mercat i el seu compliment normatiu.
+
+**Article 115. Definicions**
+
+$8e
+
+**Article 116. Règim jurídic aplicable a l’entorn controlat de proves**
+
+$90
+
+**Article 117. Requisits per a l’accés a l’entorn controlat de proves**
+
+$92
+
+**Article 118. Sol·licitud d’accés a l’entorn controlat de proves**
+
+$94
+
+**Article 119. Avaluació de la sol·licitud d’accés a l’entorn controlat de proves**
+
+$96
+
+**Article 120. Protocol de proves**
+
+$98
+
+**Article 121. Fase de desenvolupament i seguiment**
+
+$9a
+
+**Article 122. Interrupció de les proves**
+
+$9c
+
+**Article 123. Consentiment informat dels participants en les proves**
+
+$9e
+
+**Article 124. Dret de desistiment dels participants en les proves**
+
+1. Un participant té dret a posar fi, en tot moment, a la seva participació en les proves, d’acord amb el règim de desistiment previst al protocol de proves.
+2. El desistiment no implica, en cap cas, el dret del participant a percebre una indemnització o compensació per part del promotor, de l’autoritat supervisora, de qualsevol altra autoritat o entitat implicada a l’entorn controlat de proves o del Govern.
+3. El desistiment no eximeix el participant, en cap cas, de complir amb les obligacions de confidencialitat previstes al protocol de proves i al document de condicions de participació que ha signat.
+4. La retirada del consentiment per al tractament de dades personals no afecta la licitud del tractament de les dades personals del participant, basada en el consentiment atorgat prèviament a la seva retirada.
+
+**Article 125. Responsabilitat i garanties**
+
+$a0
+
+**Article 126. Valoració i conclusions dels resultats de les proves**
+
+$a2
+
+**Article 127. L’autoritat supervisora**
+
+1. L’autoritat supervisora encarregada de cada iniciativa, la determina el ministeri encarregat de l’economia per raó del sector o la disciplina de la iniciativa de què es tracti, de conformitat amb les directrius que s’estableixen reglamentàriament de forma genèrica o en funció del sector o de la disciplina de què es tracti.
+2. Les funcions de l’autoritat supervisora són les establertes al llarg d’aquest títol, sense perjudici que aquestes es puguin desenvolupar reglamentàriament de forma genèrica o en funció del sector o de la disciplina de què es tracti.
+3. L’autoritat supervisora està en contacte permanent amb el promotor i la Comissió de Coordinació, i a la disposició dels participants, d’acord amb allò que s’estableix reglamentàriament.
+
+**Article 128. Comissió de Coordinació**
+
+$a4
+
+**Article 129. Suport de la Fundació Privada del Sector Públic Andorra Recerca i Innovació al ministeri encarregat de l’economia**
+
+En totes les funcions que el ministeri encarregat de l’economia té encomanades en virtut d’aquest títol, aquest compta amb el suport de l’estructura i l’equip de la Fundació Privada del sector públic Andorra Recerca i Innovació.
+
+**Article 130. Cooperació**
+
+El Govern, les diferents autoritats supervisores, així com altres autoritats i entitats que formin part de la Comissió de Coordinació segons sectors o disciplines, i les associacions, els organismes i els experts en matèries diverses que designi el Govern cooperaran entre si per garantir que, d’acord amb el que s’estableix en aquest títol, l’entorn controlat de proves es promogui adequadament i de conformitat amb les necessitats que s’adverteixin per a diferents entorns empresarials.
+
+**Article 131. Registre de l’Entorn controlat de proves**
+
+1. Es crea el Registre de l’Entorn controlat de proves, que depèn del ministeri encarregat de l’economia.
+2. El Registre de l’Entorn controlat de proves té per objecte inscriure les sol·licituds d’accés a l’entorn controlat de proves, així com els actes relatius al desenvolupament i els resultats de les proves que es duguin a terme, i els altres actes relatius a aquestes proves que es determinin reglamentàriament.
+3. El Registre de l’Entorn controlat de proves és de caràcter privat. Això no obstant, les persones que acreditin un interès legítim per accedir-hi poden sol·licitar al Registre de l’Entorn controlat de proves les certificacions d’aquest registre, tot de conformitat amb allò que s’estableixi reglamentàriament.
+4. L’estructura, l’organització i el funcionament del Registre de l’Entorn controlat de proves es regulen reglamentàriament.
+
+**Article 132. Informes anuals**
+
+$a6
+
+### Títol IX. Laboratoris d’innovació oberta o living labs
+
+**Article 133. Objecte**
+
+$a8
+
+**Article 134. Definicions**
+
+$aa
+
+**Article 135. El quàdruple hèlix**
+
+$ac
+
+**Article 136. Vies de finançament dels laboratoris d’innovació oberta**
+
+Les vies de finançament d’un laboratori d’innovació oberta poden provenir de les tipologies de capital següents:
+a) Capital privat, provinent de l’empresa privada o d’universitats o altres centres d’investigació privats.b) Capital públic, provinent de l’Administració pública o d’universitats o altres centres d’investigació o d’altres entitats o organismes de caràcter públic.c) Capital mixt, provinent d’actors que aporten capital públic i privat d’acord amb l’establert a les lletres anteriors.d) Capital de la quàdruple hèlix, aportat per tots els actors esmentats a l’article 135.
+
+**Article 137. Creació del laboratori d’innovació oberta**
+
+1. Un laboratori d’innovació oberta és creat pel seu promotor, amb la participació inicial o posterior de la resta d’actors que hi intervindran. La creació es pot dur a terme mitjançant un contracte, un conveni o un acord de col·laboració o, si escau, mitjançant la constitució d’una persona jurídica de la naturalesa que es consideri més adient.
+2. Per poder crear un laboratori d’innovació oberta, el promotor ha de disposar de les oportunes autoritzacions que, de conformitat amb la legislació en vigor, li permetin dur a terme una activitat relacionada amb la iniciativa que pretén explorar, experimentar i avaluar.
+
+**Article 138. Bases reguladores dels laboratoris d’innovació oberta amb participació de capital públic**
+
+$ae
+
+**Article 139. Plataforma i xarxa dels laboratoris d’innovació oberta**
+
+1. El ministeri encarregat de l’economia habilita una plataforma electrònica i en línia en què es facilita informació relativa als laboratoris d’innovació oberta amb participació de capital públic que estiguin actius o que es prevegin iniciar. En aquesta plataforma també es pot facilitar informació d’iniciatives totalment privades de laboratoris d’innovació oberta.
+2. El ministeri encarregat de l’economia promou la creació d’una xarxa de laboratoris d’innovació oberta, amb l’objectiu de facilitar l’intercanvi d’experiències i de coneixements entre promotors i actors participants.
+
+### Títol X. Accés obert a documents, informació i dades
+
+#### Capítol I. Règim general d’accés obert a documents, informació i dades
+
+**Article 140. Objecte**
+
+$b0
+
+**Article 141. Definicions**
+
+$b2
+
+**Article 142. Àmbit subjectiu d’aplicació**
+
+A efectes d’aquest títol, s’entén per administracions i organismes del sector públic:
+a) L’Administració general i els òrgans que estan sota la seva direcció.b) Els comuns i els òrgans que en depenen.c) El Consell General, el Tribunal Constitucional, el Consell Superior de la Justícia, els coprínceps i els seus serveis, el Raonador del Ciutadà i el Tribunal de Comptes, en relació amb les seves activitats subjectes a dret administratiu.d) Els organismes públics i les entitats parapúbliques o altres entitats de dret públic.e) Les entitats associatives i fundacionals creades per l’Administració general i pels comuns.f) Les societats públiques, siguin generals o comunals, quan la participació de l’administració en el seu capital sigui majoritària o suficient per tenir-ne el control.
+
+**Article 143. Àmbit objectiu d’aplicació**
+
+$b4
+
+**Article 144. Règim de la reutilització**
+
+$b6
+
+**Article 145. Formats disponibles per a la reutilització**
+
+$b8
+
+**Article 146. Procediment de tramitació de sol·licituds de reutilització**
+
+$ba
+
+**Article 147. Contraprestació econòmica i preus públics**
+
+$bc
+
+**Article 148. Dades d’alt valor**
+
+1. L’Administració i els organismes del sector públic determinen les dades d’alt valor en funció del potencial que tinguin per generar, entre d’altres, beneficis socioeconòmics o mediambientals, productes o serveis innovadors, beneficis a un gran nombre d’agents reutilitzadors, increment d’ingressos o la combinació amb altres conjunts de dades.
+2. Per a la valoració del potencial de les dades d’alt valor, es poden fer consultes públiques i amb experts.
+3. Les dades d’alt valor són llistades i publicades per l’Administració i els organismes del sector públic amb l’accés de caràcter gratuït, llevat que impliquin un sobreesforç en el seu tractament i publicació a l’Administració i als organismes del sector públic.
+
+**Article 149. Dades de recerca**
+
+$be
+
+**Article 150. Mineria de textos i dades**
+
+$c0
+
+#### Capítol II. Règim sancionador
+
+**Article 151. Potestat sancionadora**
+
+1. Tota actuació que contradigui el que estableix aquest títol o les disposicions reglamentàries que el desenvolupen, pot donar lloc a la incoació d’un expedient sancionador i a la imposició de sancions després de la instrucció prèvia de l’expedient que escaigui.
+2. L’òrgan competent per incoar i resoldre els expedients sancionadors per raó de l’establert en aquest títol és el ministre encarregat de la presidència. La instrucció dels expedients correspon als tècnics designats per aquest ministre.
+
+**Article 152. Responsables de les infraccions**
+
+Són responsables de les infraccions respecte al regulat en aquest títol, les persones físiques o jurídiques que no respectin el règim general de reutilització de documents, informació i dades establert al capítol I.
+
+**Article 153. Expedient sancionador**
+
+1. La constatació d’una infracció per part del titular de la potestat sancionadora comporta la incoació de l’expedient sancionador corresponent, d’acord amb el que disposi la normativa en vigor en cada moment en matèria de procediments administratius sancionadors.
+2. S’atorga a les actes del titular de la potestat sancionadora la presumpció d’exactitud, llevat de prova en contra.
+3. Contra la resolució dictada pel titular de la potestat sancionadora es pot interposar recurs d’acord amb el que disposi la normativa en vigor en cada moment en matèria de recursos administratius.
+
+**Article 154. Infraccions**
+
+Constitueixen infraccions al regulat en aquest títol les accions o omissions que hi són tipificades.
+
+**Article 155. Classificació de les infraccions**
+
+Les infraccions es classifiquen en lleus, greus i molt greus.
+
+**Article 156. Infraccions lleus**
+
+Es consideren infraccions lleus:
+a) L’alteració lleu del contingut del document, la informació o les dades per a la reutilització dels quals s’hagi concedit una llicència.b) L’absència d’indicació o de citació de la font.c) La comissió d’altres conductes contràries a allò que disposa la normativa en matèria d’accés a documents, informació i dades en vigor en el moment en què es cometin infraccions que, per la seva naturalesa o gravetat, no constitueixin infracció greu o molt greu.
+
+**Article 157. Infraccions greus**
+
+Es consideren infraccions greus:
+a) La reutilització de la documentació, la informació o les dades per a una finalitat diferent de la que es va concedir.b) L’alteració greu del contingut de la documentació, la informació o les dades per a la reutilització de les quals s’hagi concedit una llicència.c) L’incompliment greu d’altres condicions imposades en la corresponent llicència o en la normativa reguladora aplicable.d) La comissió de dos o més infraccions de caràcter lleu en un termini d’un any.e) La comissió d’altres conductes contràries a allò que disposa la normativa en matèria d’accés a documents, informació i dades en vigor en el moment en què es cometin infraccions que, per la seva naturalesa o gravetat, no constitueixin infracció lleu o molt greu.
+
+**Article 158. Infraccions molt greus**
+
+Es consideren infraccions molt greus:
+a) La reutilització de documentació, informació o dades sense haver obtingut la corresponent llicència en els casos en què aquesta sigui requerida.b) La desnaturalització del sentit de la documentació, la informació o les dades per a la reutilització de les quals s’hagi concedit una llicència.c) L’alteració molt greu del contingut del document, la informació o les dades per a la reutilització dels quals s’hagi concedit una llicència.d) La comissió de dos o més infraccions de caràcter greu en un termini de dos anys.e) La comissió d’altres conductes contràries a allò que disposa la normativa en matèria d’accés a documents, informació i dades en vigor en el moment en què es cometin infraccions que, per la seva naturalesa o gravetat, no constitueixin infracció lleu o greu.
+
+**Article 159. Graduació de les sancions**
+
+$c2
+
+**Article 160. Prescripció de les infraccions**
+
+1. Les infraccions prescriuen en els terminis següents:
+a) Les lleus, al cap d’un any.b) Les greus, al cap de dos anys.c) Les molt greus, al cap de tres anys.
+2. L’inici d’una activitat inspectora suspèn el termini de prescripció de les infraccions.
+3. El termini de prescripció de les infraccions es computa des del dia en què cessa l’acció o l’omissió sancionable.
+
+**Article 161. Prescripció de les sancions**
+
+Les sancions per infraccions lleus prescriuen en el termini d’un any, les greus en el termini de dos anys i les molt greus en el termini de tres anys, a comptar de la data de notificació de la resolució sancionadora esdevinguda ferma.
+
+### Títol XI. Passarel·la d’intercanvi de dades i documents del Principat d’Andorra
+
+**Article 163. Creació de la Passarel·la d’intercanvi de dades i documents del Principat d’Andorra**
+
+$c4
+
+**Article 164. Requisits de la Passarel·la d’intercanvi de dades i documents del Principat d’Andorra**
+
+$c8
+
+**Article 165. Protecció de dades de caràcter personal**
+
+$ca
+
+**Article 166. Ús de la Passarel·la d’intercanvi de dades i documents del Principat d’Andorra**
+
+$cc

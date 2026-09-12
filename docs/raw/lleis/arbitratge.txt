@@ -1,0 +1,404 @@
+# Llei d'arbitratge del Principat d'Andorra (Llei 47/2014)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/arbitratge
+Articles: 75 · versions consolidades: 2
+Instantania del consolidat: 2026-09-12T05:30:01.451655Z
+
+---
+
+**Article 1. Objecte de la llei**
+
+L’objecte d’aquesta Llei és la regulació de l’arbitratge, entès com el procediment en virtut del qual les parts sotmeten voluntàriament una o diverses controvèrsies entre elles, abans de sorgir o després d’haver sorgit, a la decisió d’un tercer o tercers independents i imparcials i denominats àrbitres. L’àrbitre o els àrbitres són nomenats, directament o indirectament, per les parts que, per mitjà d’un procediment igualment convingut per elles, resolen les esmentades controvèrsies sobre la base de les al·legacions fetes i les proves practicades, mitjançant una resolució (laude) que les parts accepten com a final i executiva i que equival a una sentència judicial ferma.
+
+**Article 2. Àmbit d’aplicació**
+
+1. La Llei s’aplica als arbitratges, la seu dels quals estigui dins el territori del Principat d’Andorra, siguin de caràcter intern o internacional, amb subjecció al que estableixin els tractats internacionals dels quals el Principat d’Andorra sigui part o a les lleis que continguin disposicions especials sobre arbitratge.
+2. Les normes que contenen els articles 9, 10, 11, 12 i els capítols IX i X del títol II de la Llei s’apliquen encara que la seu de l’arbitratge estigui fora del territori andorrà.
+3. Queden exclosos de l’àmbit d’aplicació de la Llei els arbitratges laborals i els de consum.
+4. La Llei és aplicable supletòriament als arbitratges que preveuen altres lleis.
+5. La Llei no és aplicable als supòsits en els quals les parts d’una relació jurídica incompleta encomanen a un tercer “arbitrador” la determinació d’un element integrador d’aquesta relació.
+
+**Article 3. Matèries objecte d’arbitratge**
+
+1. Són susceptibles d’arbitratge les controvèrsies sobre matèries que segons el dret aplicable són de lliure disposició per les parts.
+2. Els estatuts de les societats de capital poden establir que se sotmeten a arbitratge les controvèrsies que es plantegen en el seu si, inclosa la impugnació dels acords socials pels socis o els administradors.
+3. Es poden sotmetre a l’arbitratge instituït per disposició testamentària les controvèrsies entre hereus no forçosos o legataris, per qüestions relatives a la distribució o l’administració de l’herència.
+4. També són susceptibles d’arbitratge els aspectes civils de les controvèrsies en matèria de competència efectiva, amb efectes entre les parts.
+5. Els estatus de les comunitats de propietaris poden establir que se sotmeten a arbitratge les controvèrsies que es plantegen en el seu si, inclosa la impugnació dels acords comunitaris pels propietaris.
+
+**Article 4. Definicions**
+
+Als efectes de la Llei, es defineixen els conceptes bàsics següents:
+1. Arbitratge intern. Significa qualsevol arbitratge entès en els termes que s’estableixen a l’article 1, que tingui la seu al Principat d’Andorra, sempre que totes les parts hi tinguin el seu domicili i que no concorri cap de les circumstàncies que defineixen l’arbitratge internacional.
+2. Arbitratge internacional. És aquell arbitratge que té seu al Principat d’Andorra i en el qual concorre alguna o algunes de les circumstàncies següents:
+a) Que, en el moment de celebració del conveni d’arbitratge, les parts tinguin els seus domicilis en estats diferents.b) Que la seu de l’arbitratge determinat en el conveni d’arbitratge o d’acord amb el que aquest preveu, estigui situat fora de l’Estat en què les parts tinguin els seus domicilis.c) Que el lloc de compliment d’una part substancial de les obligacions de la relació jurídica de la qual dimani la controvèrsia estigui situat fora de l’Estat en què les parts tinguin els seus domicilis.d) Que la relació jurídica de la qual dimana la controvèrsia afecti interessos del comerç internacional.e) Que les parts hagin convingut expressament que la qüestió objecte del conveni arbitral està relacionada amb més d’un Estat.
+Si alguna de les parts té més d’un domicili, s’ha de tenir en compte el que tingui una relació més estreta amb el conveni d’arbitratge i, si una part no té cap domicili, cal atenir-se a la seva residència habitual.
+3. Junta arbitral. És l’òrgan decisori de l’arbitratge, integrat per un o més àrbitres, sempre en nombre senar, nomenats directament o indirectament per les parts.
+4. Comunicació electrònica. És aquella informació, en suport digital, generada, emesa, rebuda, processada o arxivada per mitjans electrònics, digitals, magnètics, òptics o similars.
+5. Conveni d’arbitratge. Significa el conveni en mèrits del qual les parts manifesten la seva voluntat de sotmetre a arbitratge totes o algunes controvèrsies que hagin sorgit o puguin sorgir entre elles respecte d’una relació jurídica determinada, sigui contractual o no contractual.
+6. Laude. Significa resolució de la junta arbitral.
+7. Laude parcial. Significa la resolució de la junta arbitral que, durant el procediment arbitral, resol qüestions puntuals de fons o de forma.
+8. Laude definitiu. Significa la resolució final de la junta arbitral que posa fi a les actuacions arbitrals i resol el fons de la controvèrsia.
+9. Laude ferm. Significa el laude que no permet cap recurs o acció d’anul·lació salvat el recurs de revisió.
+10. Laude estranger. Significa el laude dictat fora del territori del Principat d’Andorra, amb independència de la nacionalitat o el domicili de les parts, de la matèria en què versi i del lloc de desenvolupament de l’arbitratge.
+11. Arbitratge de dret. És l’arbitratge que basa la resolució del conflicte en raonaments jurídics.
+12. Arbitratge d’equitat. És l’arbitratge que basa la resolució del conflicte en el sentit natural del que és just, atenent les particularitats de la matèria objecte d’arbitratge.
+13. Controvèrsia. Significa la disputa sotmesa a arbitratge.
+14. Ordre preliminar. És el manament dictaminat per la junta arbitral amb l’objectiu que alguna de les parts no pugui frustrar una mesura cautelar.
+15. Mesura cautelar. Significa tota mesura temporal ordenada per la junta arbitral o l’òrgan jurisdiccional estatal, atorgada en forma o no de laude i prèvia a l’emissió del laude pel qual es dirimeix definitivament la controvèrsia.
+16. Seu de l’arbitratge. És el lloc on es desenvolupa el procediment arbitral i es dicta el laude.
+
+**Article 5. Regles d’interpretació**
+
+$1e
+
+**Article 6. Actes de comunicació i còmput de terminis**
+
+$20
+
+**Article 7. Renúncia tàcita a les facultats d’impugnació**
+
+S’entén que les parts renuncien a les facultats d’impugnació que preveu la Llei si, coneixent la infracció d’una norma o d’un requisit del conveni d’arbitratge, no la denuncien sense causa justificada dins del termini establert o, en el seu defecte, tan aviat com els sigui possible.
+
+**Article 8. Intervenció dels òrgans jurisdiccionals estatals**
+
+En els assumptes que es regeixin per aquesta Llei no intervindrà cap òrgan jurisdiccional estatal, excepte en els casos en què la mateixa Llei ho disposi expressament.
+
+**Article 9. Òrgans judicials competents per a les funcions d’assistència i supervisió de l’arbitratge**
+
+$22
+
+**Article 10. Contingut, forma i validesa del conveni d’arbitratge**
+
+$24
+
+**Article 11. Conveni d’arbitratge i demanda quant al fons**
+
+1. Els batlles i tribunals, quan se’ls sotmeti una controvèrsia sobre un assumpte que és objecte d’un conveni d’arbitratge, es declaren incompetents i remeten les parts a l’arbitratge si ho sol·licita qualsevol de les parts, com a molt tard en el moment de presentar el primer escrit sobre el fons de la controvèrsia, llevat que es comprovi que el conveni és nul, ineficaç o d’impossible execució.
+2. Si s’ha iniciat l’acció a la qual es refereix l’apartat 1, es poden iniciar o prosseguir les actuacions arbitrals i dictar un laude mentre la qüestió estigui pendent davant la jurisdicció civil competent.
+
+**Article 12. Conveni d’arbitratge i adopció de mesures cautelars**
+
+Si les parts sol·liciten al batlle que pertany a la jurisdicció civil i al qual correspongui per torn, amb anterioritat a les actuacions arbitrals o durant la seva tramitació, l’adopció de mesures cautelars, la sol·licitud o la concessió de les mesures no afecta l’existència i la validesa del conveni d’arbitratge.
+
+**Article 13. Conveni d’arbitratge i declaració de concurs**
+
+La declaració de concurs, per si sola, no afecta el conveni d’arbitratge subscrit pel concursat. Quan l’òrgan judicial que coneix del concurs consideri que el conveni pot suposar un perjudici per als creditors del concurs, pot decidir la suspensió dels seus efectes, sense perjudici del que s’estableixi en els tractats internacionals.
+
+**Article 14. Capacitat per a ser àrbitre**
+
+1. La funció d’àrbitre només pot ser exercida per persones físiques en ple exercici dels seus drets civils, sempre que no els ho impedeixi la legislació a la qual estiguin subjectes en l’exercici de la seva professió.
+2. Si el conveni d’arbitratge designa una persona jurídica, aquesta només disposa de la facultat d’organitzar i administrar l’arbitratge conforme a l’article 15.
+3. Llevat de l’acord en contrari de les parts, quan es tracti d’arbitratge amb àrbitre únic i sempre que no sigui un arbitratge en equitat (
+ex aequo et bono
+), l’àrbitre ha de tenir la condició de jurista. En l’arbitratge amb tres o més àrbitres, almenys un d’ells ha de tenir aquesta condició.
+4. Ningú pot ser exclòs d’actuar com a àrbitre per raó de la seva nacionalitat, llevat que les parts acordin altrament.
+
+**Article 15. Arbitratge institucional**
+
+1. Les parts poden encomanar l’organització i l’administració de l’arbitratge i la designació dels àrbitres a una institució arbitral, que pot ser la Cambra de Comerç, Indústria i Serveis d’Andorra o qualsevol altra corporació de dret públic o entitat pública que pugui exercir funcions arbitrals segons les seves normes reguladores, així com les associacions i les entitats sense ànim de lucre que segons els seus estatuts se’ls atribueixin funcions arbitrals. Les institucions arbitrals exerceixen les seves funcions d’acord amb els seus propis reglaments.
+2. Les institucions arbitrals vetllen pel compliment de les condicions de capacitat dels àrbitres i la transparència del seu nomenament així com per la seva independència.
+3. Les parts poden sotmetre’s al reglament d’una institució arbitral sense sotmetre’s a la vegada a l’administració de l’arbitratge de la institució corresponent.
+
+**Article 16. Nombre d’àrbitres**
+
+1. Les parts determinen lliurement el nombre d’àrbitres que integren la junta arbitral, que en qualsevol cas ha de tenir una composició senar.
+2. A falta d’acord, la junta arbitral es compon d’un sol àrbitre, sens perjudici del que disposa l’article 18.1.
+
+**Article 17. Nomenament dels àrbitres**
+
+$26
+
+**Article 18. Nomenament d’àrbitres en procediments amb pluralitat de parts i adhesió d’un tercer al procediment arbitral**
+
+$28
+
+**Article 19. Independència i imparcialitat**
+
+1. L’àrbitre ha de ser independent i imparcial durant el procediment. En cap cas no pot mantenir relacions personals, professionals o comercials amb les parts o amb els seus representants.
+2. Quan es comuniqui a una persona el seu possible nomenament com a àrbitre, aquesta ha de declinar el nomenament si no es considera independent o imparcial. Posat cas que es consideri independent i imparcial ha de revelar tots els fets o les circumstàncies que puguin donar lloc a dubtes justificats respecte de la seva independència o imparcialitat abans d’acceptar la seva missió. Igualment ha de fer-ho immediatament si aquests fets o circumstàncies apareguessin després del seu nomenament i durant totes les actuacions arbitrals.
+3. L’àrbitre no pot intervenir o haver intervingut com a mediador en la mateixa controvèrsia entre les parts, llevat que les parts acordin altrament.
+
+**Article 20. Acceptació dels àrbitres**
+
+Llevat que les parts hagin disposat altrament, cada àrbitre, dins el termini de quinze dies a comptar del dia següent a la comunicació del seu nomenament, ha de comunicar per escrit la seva acceptació a qui el va nomenar. Si en aquest termini no comunica la seva acceptació, es considera que no accepta el nomenament.
+
+**Article 21. Motius i procediment de recusació**
+
+$2a
+
+**Article 22. Exercici de les funcions arbitrals i remoció dels àrbitres**
+
+$2c
+
+**Article 23. Nomenament d’àrbitre substitut**
+
+1. Quan el mandat d’un àrbitre acabi en virtut de defunció, renúncia, recusació, remoció o per acord de les parts de posar fi al mandat, es nomena un àrbitre substitut seguint les normes del procediment aplicades al nomenament de l’àrbitre substituït.
+2. Una vegada nomenat l’àrbitre substitut, la junta arbitral, prèvia audiència de les parts, decideix si escau o no repetir algunes o totes les actuacions ja practicades.
+
+**Article 24. Secretari**
+
+La junta arbitral, d’acord amb les parts, pot nomenar un secretari de la junta arbitral i fixar les seves funcions administratives i la remuneració.
+
+**Article 25. Responsabilitat dels àrbitres i de les institucions arbitrals**
+
+1. L’acceptació del seu nomenament obliga els àrbitres i, si s’escau, la institució arbitral, a complir fidelment l’encàrrec rebut, els quals si no ho fan, incorren en responsabilitat pels danys i perjudicis que causin per mala fe, temeritat o dol.
+2. En els arbitratges encomanats a una institució arbitral, el perjudicat té acció directa contra aquella, amb independència de les accions de rescabalament que la institució tingui contra els àrbitres.
+3. S’exigeix als àrbitres o a les institucions arbitrals en nom seu, la contractació d’una assegurança de responsabilitat civil o garantia equivalent, l’import mínim de la qual l’estableix el Govern reglamentàriament.
+
+**Article 26. Provisió de fons**
+
+Llevat que les parts hagin acordat altrament, tant la junta arbitral com les institucions arbitrals poden exigir a les parts les provisions de fons que estimin necessàries per a atendre als honoraris i les despeses de la junta arbitral i a les que puguin produir-se en l’administració de l’arbitratge. A falta de provisió de fons per les parts, la junta arbitral pot suspendre o donar per concloses les actuacions arbitrals. Si alguna de les parts no fa la seva provisió, els àrbitres, abans d’acordar la conclusió o la suspensió de les actuacions, ho comuniquen a les altres parts, per si tenen interès en suplir-la dins el termini que es fixi.
+
+**Article 27. Potestat de la junta arbitral per a decidir sobre la seva competència**
+
+$2e
+
+**Article 28. Potestat de la junta arbitral per a adoptar mesures cautelars**
+
+Llevat que les parts hagin acordat altrament, la junta arbitral pot, a instància d’una d’elles, adoptar les mesures cautelars que consideri necessàries. La junta arbitral pot ordenar a una de les parts que:
+1. Mantingui o restableixi l’
+statu quo
+en espera que es dirimeixi la controvèrsia.
+2. Adopti mesures per impedir algun dany actual o imminent o alguna ingerència en el procediment arbitral, o que s’abstingui de dur a terme certs actes que probablement ocasionarien un dany o una ingerència en el procediment arbitral.
+3. Proporcioni algun mitjà per a preservar béns que permetin executar qualsevol laude subsegüent.
+4. Preservi elements de prova que poguessin ser rellevants i pertinents per a resoldre la controvèrsia.
+
+**Article 29. Condicions per a l’adopció de mesures cautelars**
+
+1. El sol·licitant d’una mesura cautelar prevista en algun dels apartats 1, 2 o 3 de l’article 28 ha d’acreditar davant la junta arbitral:
+a) que si no s’adopta la mesura cautelar és probable que es produeixi algun dany, no rescabalable adequadament mitjançant una indemnització, notablement més greu que el que pugui sofrir la part afectada per la mesura, en cas de ser adoptada; ib) que existeix una possibilitat raonable que la demanda del sol·licitant sobre el fons de la controvèrsia prosperi. La decisió de la junta arbitral respecte d’aquesta possibilitat no prejutja en cap cas les decisions subsegüents de la junta arbitral.
+2. Quan es tracta d’una mesura cautelar sol·licitada en mèrits d’allò que preveu l’article 28.4, els requisits enunciats en l’apartat 1 només són exigibles en la mesura en què la junta arbitral ho estimi oportú.
+3. La junta arbitral no pot imposar mesures cautelars a tercers que no siguin part del procediment arbitral.
+
+**Article 30. Petició d’una ordre preliminar i condicions per a la seva emissió**
+
+1. Llevat que les parts hagin acordat altrament, qualsevol d’elles, sense necessitat de prevenir les altres parts (
+ex parte
+), pot sol·licitar l’adopció d’una mesura cautelar i demanar una ordre preliminar a la junta arbitral en mèrits de la qual s’ordeni a alguna part que no frustri la mesura cautelar sol·licitada.
+2. La junta arbitral pot emetre una ordre preliminar sempre que consideri que la notificació prèvia de la sol·licitud d’una mesura cautelar a la part contra la que aquesta mesura va dirigida comporta el risc que es frustri la mesura cautelar.
+3. Les condicions establertes a l’article 29 són aplicables a tota ordre preliminar quan el dany que ha d’avaluar-se en virtut de l’article 29.1.a) sigui el dany que probablement resultarà del fet que s’emeti o no l’ordre.
+
+**Article 31. Règim específic de les ordres preliminars**
+
+$30
+
+**Article 32. Modificació, suspensió i revocació**
+
+En qualsevol moment, la junta arbitral pot modificar, suspendre o revocar les mesures cautelars o les ordres preliminars que hagi adoptat, ja sigui a instància d’alguna de les parts o, en circumstàncies excepcionals, per iniciativa pròpia, prèvia notificació a les parts.
+
+**Article 33. Exigència d’una garantia per la junta arbitral**
+
+1. La junta arbitral pot exigir del sol·licitant d’una mesura cautelar que presti una garantia adequada respecte de la mesura.
+2. La junta arbitral exigeix al sol·licitant d’una ordre preliminar que presti una garantia respecte de l’ordre, llevat que ho consideri inapropiat o innecessari.
+
+**Article 34. Comunicació d’informació**
+
+1. La junta arbitral pot exigir a qualsevol de les parts que faci conèixer immediatament qualsevol canvi important que es produeixi en les circumstàncies que varen motivar que la mesura se sol·licités o s’adoptés.
+2. El sol·licitant d’una ordre preliminar ha de revelar a la junta arbitral qualsevol circumstància que pugui ser rellevant per a la decisió que la junta arbitral hagi d’adoptar en relació a l’emissió o el manteniment de l’ordre, i continua estant obligat a fer-ho fins que la part contra la qual l’ordre hagi estat demanada no hagi tingut l’oportunitat de fer valer el seu dret a manifestar-se amb relació a l’ordre. A partir d’aquest moment, és d’aplicació el previst a l’apartat 1.
+
+**Article 35. Costes i danys i perjudicis**
+
+El sol·licitant d’una mesura cautelar o d’una ordre preliminar és responsable de les costes i els danys i perjudicis que aquesta mesura o ordre ocasioni a qualsevol part, sempre que la junta arbitral determini ulteriorment que, en les circumstàncies del cas, no s’hauria d’haver adoptat la mesura o emès l’ordre. La junta arbitral pot condemnar-lo en qualsevol moment de les actuacions al pagament de les costes i els danys i perjudicis. Posat cas que la junta arbitral hagués exigit una garantia, es resta d’aquesta, l’import de les costes i els danys i perjudicis.
+
+**Article 36. Reconeixement i execució**
+
+$32
+
+**Article 37. Motius per a denegar el reconeixement o l’execució**
+
+$34
+
+**Article 38. Mesures cautelars dictades per la jurisdicció civil**
+
+1. El conveni d’arbitratge no impedeix a les parts, amb anterioritat a les actuacions arbitrals o durant la seva tramitació, sol·licitar al batlle que pertany a la jurisdicció civil i al qual correspongui per torn l’adopció de mesures cautelars, ni a aquest batlle el fet de concedir-ne. Ni la sol·licitud ni l’adopció d’aquestes mesures no afecta l’eficàcia del conveni d’arbitratge.
+2. El batlle que pertany a la jurisdicció civil i al qual correspongui per torn té la mateixa competència per adoptar mesures cautelars al servei d’actuacions arbitrals, amb independència del fet que aquestes actuacions se substanciïn o no al país de la seva jurisdicció, que la competència que té al servei d’actuacions judicials. El batlle exerceix la seva competència d’acord amb les normes de la Llei del Codi de procediment civil.
+
+**Article 39. Principis fonamentals del procediment arbitral**
+
+1. Els principis fonamentals del procediment arbitral, que tots han de respectar, són els d’igualtat, audiència i contradicció. Les parts han de ser tractades amb igualtat i cada una d’elles ha de tenir plena oportunitat per a fer valdre els seus drets.
+2. La junta arbitral i la institució arbitral, si escau, així com les parts, els pèrits i qualsevol altre agent que intervingui en el procediment arbitral, estan obligats a mantenir la confidencialitat de les informacions que coneguin amb ocasió de les actuacions arbitrals, llevat que les parts acordin altrament.
+
+**Article 40. Determinació del procediment**
+
+1. Amb subjecció a les disposicions imperatives d’aquesta Llei, les parts tenen plena llibertat per a convenir el procediment a què s’hagi d’ajustar la junta arbitral, les parts i la resta d’intervinents en les actuacions arbitrals.
+2. A falta d’acord, la junta arbitral pot, amb subjecció a les disposicions imperatives d’aquesta Llei, establir les normes i dirigir el procediment d’arbitratge de la manera que consideri adequada i sense que hagi de seguir les normes legals establertes per a la jurisdicció ordinària. Aquesta potestat de la junta arbitral comprèn, entre altres, la de decidir sobre l’admissibilitat, la pertinència i la utilitat de les proves, la seva pràctica, fins i tot d’ofici, i sobre la seva valoració.
+
+**Article 41. Seu de l’arbitratge**
+
+1. Les parts poden determinar lliurement la seu de l’arbitratge. Si no arriben a un acord, la junta arbitral determina la seu, ateses les circumstàncies del cas inclosa la conveniència de les parts.
+2. Sense perjudici del que disposa l’apartat 1, la junta arbitral pot, llevat que les parts acordin altrament i prèvia consulta a les parts, reunir-se en qualsevol lloc que estimi apropiat per examinar els testimonis, escoltar els experts o les parts, o per observar o analitzar mercaderies o altres béns, o documents.
+3. La junta arbitral pot celebrar deliberacions en qualsevol forma, moment o lloc que estimi apropiats.
+4. Llevat que les parts ho acordin altrament, la seu de l’arbitratge determina el dret que regula l’arbitrabilitat de la disputa, el conveni arbitral, el procediment arbitral (lex arbitri), els tribunals estatals competents per assistir i supervisar l’arbitratge, fins i tot la constitució de la junta arbitral, l’adopció de mesures cautelars, i la nacionalitat, la forma i la nul·litat del laude.
+
+**Article 42. Inici i desenvolupament de les actuacions arbitrals**
+
+1. Llevat que les parts ho acordin altrament, les actuacions arbitrals respecte d’una determinada controvèrsia s’inicien en la data en la qual el demandat hagi rebut el requeriment de sotmetre la controvèrsia a arbitratge.
+2. En el desenvolupament de les actuacions arbitrals, les parts i els àrbitres actuen amb celeritat i lleialtat.
+
+**Article 43. Idioma**
+
+1. Les parts poden acordar lliurement l’idioma o els idiomes que hagin d’utilitzar-se en les actuacions arbitrals. A falta de tal acord, la junta arbitral determina l’idioma o els idiomes que s’hagin d’utilitzar. Aquest acord o aquesta determinació és aplicable, llevat que s’hagi especificat altrament, a tots els escrits de les parts, totes les audiències i qualsevol laude, decisió o comunicació d’altra índole que dicti la junta arbitral.
+2. La junta arbitral pot ordenar que qualsevol prova documentada que consti en un idioma o idiomes diferents als acordats per les parts o determinats per la junta arbitral, vagi acompanyada d’una traducció a l’idioma o els idiomes acordats per les parts o determinats per la junta. No obstant això, i llevat que les parts o la junta arbitral ho hagin determinat altrament, els escrits i els documents redactats en espanyol, francès o anglès no necessiten traducció.
+
+**Article 44. Demanda i contesta**
+
+1. Dins el termini convingut per les parts o determinat per la junta arbitral, el demandant ha d’al·legar els fets en els quals fonamenta la demanda, les pretensions que formula i l’objecte de la demanda, i el demandat pot respondre i oposar-se als fets al·legats i les pretensions formulades en la demanda i formular reconvenció, llevat que les parts acordin altrament respecte dels elements que la demanda i la contesta han de contenir necessàriament.
+2. Les parts han d’aportar, en formular els seus escrits d’al·legacions, tots els documents que considerin pertinents o fer-hi referència, així com les altres proves que proposin practicar.
+3. Llevat que ho acordin altrament, qualsevol de les parts pot modificar o ampliar la seva demanda o contesta en el curs de les actuacions arbitrals, sempre que, a criteri de la junta arbitral, respectin els principis fonamentals previstos a l’article 39, no modifiquin substancialment l’objecte del procediment o no siguin improcedents per raó de la demora.
+
+**Article 45. Audiències i actuacions per escrit**
+
+$36
+
+**Article 46. Inactivitat processal de les parts**
+
+Llevat que les parts ho acordin altrament, quan sense invocar causa suficient a judici de la junta arbitral:
+a) El demandant no presenta la seva demanda dintre de termini, la junta arbitral dóna per acabades les actuacions, excepte que, oït el demandat, aquest manifesti la seva voluntat d’exercitar alguna pretensió.b) El demandat no presenta la contesta dintre de termini, la junta arbitral continua les actuacions arbitrals, sense que aquesta omissió es consideri per si mateixa aplanament o acceptació de les al·legacions del demandant.c) Una de les parts no compareix a una audiència o no presenta proves, la junta arbitral pot continuar les actuacions i dictar el laude basant-se en les proves de què disposi.
+
+**Article 47. Nomenament de pèrits o experts per la junta arbitral**
+
+1. Llevat que les parts ho acordin altrament, la junta arbitral pot nomenar, d’ofici o a instància de part, un o més pèrits o experts perquè dictaminin sobre matèries concretes que determini la junta arbitral, així com sol·licitar a qualsevol de les parts que faciliti al pèrit o a l’expert la documentació pertinent o que aporti per a la seva inspecció els documents, mercaderies o altres béns pertinents o en proporcioni l’accés.
+2. Llevat que les parts ho acordin altrament, quan una part ho sol·liciti o quan la junta arbitral ho consideri necessari, el pèrit o l’expert, després de la presentació del seu dictamen escrit o oral, ha de participar a una audiència en la qual la junta arbitral i les parts, per si o per mitjà de pèrits o experts, tenen l’oportunitat d’interrogar-lo amb relació als punts controvertits.
+3. El previst en els apartats precedents s’entén sense perjudici de la facultat de les parts, llevat d’acord en contrari, d’aportar dictàmens pericials de pèrits o experts lliurement designats.
+
+**Article 48. Assistència judicial en la pràctica de proves**
+
+1. La junta arbitral o qualsevol de les parts, amb l’aprovació de la junta arbitral, pot demanar l’assistència del batlle al qual correspongui per torn de jurisdicció voluntària per practicar proves. El batlle pot atendre aquesta sol·licitud dins de l’àmbit de la seva competència i de conformitat amb les normes sobre mitjans de prova que estableix la Llei del Codi de procediment civil.
+2. L’assistència judicial pot consistir en la pràctica de la prova davant del propi batlle i sota la seva exclusiva direcció, o en l’adopció de les mesures necessàries perquè la prova pugui ser practicada davant la junta arbitral.
+3. En tots dos supòsits, el batlle lliura a la persona sol·licitant testimoni que doni fe de les actuacions practicades.
+
+**Article 49. Normes aplicables al fons de la controvèrsia**
+
+1. La junta arbitral decideix la controvèrsia de conformitat amb les normes jurídiques escollides per les parts aplicables al fons de la controvèrsia (
+lex causae
+). S’entén que tota indicació del dret o l’ordenament jurídic d’un Estat determinat es refereix, llevat que s’expressi el contrari, al dret substantiu d’aquest Estat i no a les normes de conflicte de lleis.
+2. Si les parts no indiquen les normes jurídiques aplicables, la junta arbitral aplica les que estima que corresponen.
+3. La junta arbitral només decideix en equitat (
+ex aequo et bono
+) si les parts l’han autoritzat expressament a fer-ho així.
+4. En tot cas, la junta arbitral decideix d’acord amb les estipulacions del contracte i té en compte els usos mercantils aplicables al cas.
+5. Llevat que les parts ho hagin prohibit, la junta arbitral pot dictar en qualsevol moment laudes parcials sobre alguna part del fons de la controvèrsia, sobre la competència de la junta arbitral o sobre mesures cautelars.
+
+**Article 50. Adopció de decisions quan la junta arbitral és col·legiada**
+
+1. En les actuacions en les quals la junta arbitral està composta per més d’un àrbitre, tota decisió de la junta arbitral s’adopta, llevat que les parts ho acordin altrament, per majoria de vots dels seus membres.
+2. Les deliberacions de la junta arbitral són secretes.
+3. L’àrbitre president pot decidir qüestions d’ordenació, tramitació o impuls del procediment, si així ho autoritzen les parts o tots els membres de la junta arbitral.
+
+**Article 51. Laude en els termes convinguts per les parts**
+
+1. Si durant les actuacions arbitrals, les parts arriben a una transacció que resolgui, totalment o parcialment, la controvèrsia, la junta arbitral dóna per finalitzades les actuacions respecte dels aspectes transigits i, si ho demanen totes les parts i la junta arbitral no aprecia motius per oposar-s’hi, fa constar la transacció en forma de laude arbitral en els termes convinguts per les parts.
+2. El laude en els termes convinguts es dicta d’acord amb el que disposa l’article 52 i es fa constar que es tracta d’un laude. Aquest laude té la mateixa naturalesa i efectes que qualsevol altre laude dictat sobre el fons de la controvèrsia.
+
+**Article 52. Forma, termini, contingut i notificació del laude**
+
+$38
+
+**Article 53. Suspensió o finalització de les actuacions**
+
+$3a
+
+**Article 54. Correcció, aclariment, complement i rectificació de l’extralimitació del laude i laude addicional**
+
+$3c
+
+**Article 55. Cosa jutjada i impugnació del laude definitiu**
+
+1. El laude arbitral ferm produeix efectes de cosa jutjada (
+res judicata
+).
+2. Contra el laude definitiu només hi cap l’acció d’anul·lació i contra el laude ferm hi cap la revisió d’acord amb el que preveuen els articles següents.
+
+**Article 56. L’acció d’anul·lació**
+
+$3e
+
+**Article 57. Procediment per a l’acció d’anul·lació**
+
+$40
+
+**Article 58. La revisió del laude**
+
+El laude arbitral només pot ser revisat excepcionalment de conformitat amb el que estableixi la legislació processal civil en vigor en cada moment.
+
+**Article 59. Normes aplicables**
+
+L’execució forçosa dels laudes es regirà per les disposicions d’aquest capítol i subsidiàriament per les normes que regulen el procediment civil d’execució de resolucions judicials fermes.
+
+**Article 60. Suspensió, arxivament i continuació de l’execució en cas d’exercici de l’acció d’anul·lació del laude**
+
+$42
+
+**Article 61. Normes aplicables**
+
+1. L’exequàtur de laudes estrangers es regeix pel Conveni per al reconeixement i l’execució de sentències arbitrals estrangeres, fet a Nova York el 10 de juny de 1958, sense perjudici del previst en altres tractats internacionals que formin part de l’ordenament jurídic i que siguin més favorables a la seva concessió.
+2. El procediment d’exequàtur és el que estableix la legislació processal civil per a l’execució de sentències dictades per tribunals estatals estrangers.
+
+**Article 62. Disposicions de caràcter general**
+
+$44
+
+**Article 63. El conveni d’arbitratge internacional**
+
+1. El conveni d’arbitratge internacional no està sotmès a cap requisit de forma.
+2. El conveni d’arbitratge serà vàlid i la controvèrsia serà susceptible d’arbitratge sempre que concorrin els requisits establerts per les normes jurídiques acordades per les parts per regir el conveni d’arbitratge, per les normes jurídiques aplicables al fons de la controvèrsia o pel dret andorrà.
+3. El conveni d’arbitratge pot, directament o per referència a un reglament d’arbitratge o a altres regles de procediment, designar els àrbitres o preveure les modalitats per al seu nomenament.
+4. Quan una de les parts sigui un Estat o una societat, un organisme o una empresa controlada per un Estat, aquesta part no pot invocar les prerrogatives del seu propi dret per sostreure’s a les obligacions derivades del conveni d’arbitratge.
+5. En tot allò que no contradigui les disposicions anteriors, són d’aplicació a l’arbitratge internacional les normes que conté el capítol II del títol II relatives al conveni en l’arbitratge intern.
+
+**Article 64. La junta arbitral**
+
+Són d’aplicació a l’arbitratge internacional les normes que conté el capítol III del títol II amb relació a la junta arbitral en l’arbitratge intern.
+
+**Article 65. Competència dels àrbitres**
+
+És d’aplicació a l’arbitratge internacional el que estableix el capítol IV del títol II amb relació a la competència dels àrbitres en l’arbitratge intern.
+
+**Article 66. Mesures cautelars i ordres preliminars**
+
+Són d’aplicació a l’arbitratge internacional les normes que conté el capítol V del títol II relatives a les mesures cautelars i les ordres preliminars en l’arbitratge intern.
+
+**Article 67. Substanciació de les actuacions arbitrals**
+
+$46
+
+**Article 68. Pronunciament del laude i finalització de les actuacions arbitrals**
+
+$48
+
+**Article 69. Correcció, aclariment, complement i rectificació de l’extralimitació del laude i laude addicional**
+
+1. Sense perjudici del que estableixen els apartats següents d’aquest article, és d’aplicació als arbitratges internacionals el que, amb referència als arbitratges interns i en matèria de correcció, aclariment, complement i rectificació de l’extralimitació, preveu l’article 54.
+2. El termini per sol·licitar la correcció, l’aclariment, el complement o la rectificació de l’extralimitació del laude i el laude addicional a què fa referència l’article 54 és de trenta dies en els arbitratges internacionals.
+3. Igualment, el termini per a resoldre la sol·licitud de correcció, aclariment, complement o rectificació de l’extralimitació del laude i el laude addicional a què fa referència l’article 54 és de seixanta dies en els arbitratges internacionals.
+
+**Article 70. Reconeixement i execució del laude**
+
+1. És d’aplicació a l’arbitratge internacional el que estableix el capítol IX del títol II amb relació a l’execució de laudes dictats en arbitratges interns.
+2. Els laudes en matèria d’arbitratge internacional són reconeguts i executats al Principat d’Andorra si la seva existència és demostrada per la part sol·licitant i aquest reconeixement o execució no és manifestament contrari a l’ordenament jurídic andorrà o a l’ordre públic internacional.
+3. L’existència del laude arbitral es demostra mitjançant la presentació del seu original acompanyat del conveni d’arbitratge o de còpies d’aquests documents que reuneixin les condicions necessàries per a la seva autenticitat. Si algun d’aquests documents no estès redactat en llengua catalana, espanyola o francesa, la part sol·licitant n’ha d’acompanyar una traducció al català feta per un traductor jurat.
+
+**Article 71. Impugnació dels laudes en matèria d’arbitratge internacional dictats a Andorra**
+
+$4a
+
+**Article 72. Impugnació dels laudes en matèria d’arbitratge internacional dictats a l’estranger**
+
+La resolució judicial relativa a una sol·licitud de reconeixement o exequàtur d’un laude en matèria d’arbitratge internacional dictat a l’estranger és susceptible de recurs d’apel·lació davant el Ple del Tribunal Superior de Justícia en el termini de trenta dies a comptar de la seva notificació.
+
+**Article 73. Motius per a denegar el reconeixement o l’execució**
+
+$4c
+
+**Disposició transitòria**
+
+Els procediments arbitrals que s’iniciïn a partir de l’entrada en vigor de la present Llei es regulen per aquesta. Els procediments arbitrals en curs de substanciació continuen regulats pel dret anterior. No obstant això, si el laude es dicta una vegada entrada en vigor aquesta Llei, l’acció d’anul·lació, si s’escau, el reconeixement i l’execució es faran d’acord amb aquesta Llei.
+
+**Disposició final**
+
+Aquesta Llei entrarà en vigor l’endemà de la seva publicació al Butlletí Oficial del Principat d’Andorra.
+Casa de la Vall, 18 de desembre del 2014
+Vicenç Mateu ZamoraSíndic General
+Nosaltres els coprínceps la sancionem i promulguem i n’ordenem la publicació en el Butlletí Oficial del Principat d’Andorra.
+François HollandePresident de la República FrancesaCopríncep d’AndorraJoan Enric Vives SicíliaBisbe d’UrgellCopríncep d’Andorra

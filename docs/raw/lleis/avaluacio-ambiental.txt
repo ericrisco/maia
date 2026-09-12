@@ -1,0 +1,152 @@
+# Llei d'avaluació ambiental de projectes (Llei 4/2023)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/avaluacio-ambiental
+Articles: 28 · versions consolidades: 1
+Instantania del consolidat: 2026-09-12T05:30:04.568687Z
+
+---
+
+#### Capítol primer. Disposicions generals
+
+**Article 1. Objecte**
+
+1. Aquesta Llei té per objecte integrar els aspectes mediambientals en la redacció i l’autorització de projectes i de plans i programes que tenen efectes significatius sobre el medi ambient, amb la finalitat de promoure un desenvolupament sostenible i garantir un nivell elevat de protecció del medi ambient.
+2. Aquesta Llei estableix les bases i els procediments que regeixen les avaluacions ambientals tant per a determinats projectes, com per a determinats plans i programes, inclosos en els annexos de la Llei, que tenen efectes significatius sobre el medi ambient. Així mateix, la Llei estableix els estudis de caràcter ambiental que han d’aportar determinats projectes amb una incidència més petita sobre el medi ambient, que no queden sotmesos a avaluació ambiental, i simplifica, d’aquesta manera, la tramitació de la seva autorització.
+
+**Article 2. Definicions**
+
+Als efectes d’aquesta Llei, s’entén per:
+a)Avaluació ambiental: procés consistent en la preparació d’un estudi dels efectes d’un projecte, pla o programa sobre el medi ambient; la realització de consultes i exposició pública, quan escaigui; l’examen de l’autoritat competent del conjunt de la informació disponible i del resultat de les consultes, i la conclusió raonada de l’autoritat competent. L’avaluació ambiental s’anomena avaluació d’impacte ambiental per als projectes, i avaluació ambiental estratègica per als plans i programes.b)Catàstrofe: una pertorbació greu del funcionament de la societat que provoca una afectació real i generalitzada per a la vida o la salut de les persones, per als béns o per al medi ambient, i que té com a origen un accident, un fenomen natural o una activitat humana. Pot tractar-se d’un esdeveniment sobtat o del resultat de processos complexos que es desenvolupen en un període de temps llarg.c)Declaració d’impacte ambiental: pronunciament de l’òrgan ambiental en el qual es determina, respecte dels aspectes ambientals previsibles d’un projecte sotmès a avaluació d’impacte ambiental amb procés d’informació pública, la conveniència o no d’executar-lo i, en cas afirmatiu, les condicions o mesures preventives, correctores o compensatòries que han d’establir-se amb vista a la protecció adequada del medi ambient.d)Declaració ambiental estratègica: pronunciament de l’òrgan ambiental en el qual es determina, respecte dels aspectes ambientals previsibles d’un pla o programa, la conveniència o no d’executar-lo i, en cas afirmatiu, les condicions o mesures preventives, correctores o compensatòries que han d’establir-se amb vista a la protecció adequada del medi ambient.e)Estudi d’impacte ambiental de projectes: document tècnic, objectiu i de caràcter interdisciplinari la finalitat del qual és fer una anàlisi de les alternatives, examinar les conseqüències sobre el medi ambient de l’alternativa escollida, i establir les mesures preventives, correctores o compensatòries corresponents.f)Estudi ambiental estratègic: document tècnic objectiu i de caràcter interdisciplinari la finalitat del qual és identificar, descriure i avaluar els probables efectes significatius en el medi ambient de l’aplicació del pla o programa, així com les alternatives raonables, inclosa l’alternativa de no alterar el medi, que tinguin en compte els objectius i l’àmbit d’aplicació geogràfic del pla o programa.g)Informe d’impacte ambiental: pronunciament de l’òrgan ambiental en el qual es determina, respecte dels aspectes ambientals previsibles d’un projecte sotmès a avaluació d’impacte ambiental sense procés d’informació pública, la conveniència o no d’executar-lo i, en cas afirmatiu, les condicions o mesures preventives, correctores o compensatòries que han d’establir-se amb vista a la protecció adequada del medi ambient.h)Mesures compensatòries: mesures aplicades per compensar l’impacte mediambiental de determinats projectes, plans i programes.i)Òrgan ambiental: òrgan competent per emetre la declaració d’impacte ambiental o l’informe d’impacte ambiental dels projectes o la declaració ambiental estratègica relativa als plans o programes sotmesos a avaluació ambiental. Als efectes del que estableix aquesta Llei, l’òrgan ambiental és el ministeri responsable del medi ambient.j)Òrgan substantiu: òrgan competent per raó de la matèria per autoritzar o aprovar un projecte determinat o, si escau, per aprovar un pla o programa determinat.k)Paisatge: una part de territori tal com la percep la població, el caràcter de la qual resulta de l’acció de factors naturals i/o humans i de les seves interrelacions.l)Pla de restauració ambiental: document tècnic ambiental que, basant-se en els impactes ambientals identificats, localitza amb precisió i planifica en el temps els treballs necessaris per dur a terme les mesures preventives, correctores o compensatòries, tant durant les obres com un cop el projecte està executat i en funcionament.m)Pla de vigilància ambiental: document tècnic ambiental que estableix el procediment de control de l’execució adequada i de l’efectivitat de les mesures preventives, correctores o compensatòries descrites en el pla de restauració ambiental.n)Pla o programa: conjunt de documents de planificació que constitueixen el marc per a decisions d’autorització ulteriors que no són executables directament, sinó a través del seu desenvolupament mitjançant un o diversos projectes.o)Projecte: la realització de treballs de construcció i d’execució d’instal·lacions o d’infraestructures, i altres intervencions en el medi natural o en el paisatge, incloses les destinades a l’explotació dels recursos naturals, del sòl i del subsòl.p)Projectes amb un impacte destacable sobre el medi ambient: aquells projectes previstos en l’annex I a d’aquesta Llei.q)Projectes amb un impacte molt important sobre el medi ambient: aquells projectes previstos en l’annex I b d’aquesta Llei.r)Promotor del projecte: la persona física o jurídica que sol·licita una autorització relativa a un projecte privat, o l’autoritat pública que pren la iniciativa respecte d’un projecte.s)Promotor del pla o programa: persona física o jurídica, pública o privada, que elabora un pla o programa.t)Públic: una o diverses persones físiques o jurídiques i les seves associacions, organitzacions o grups.u)Públic interessat: públic afectat, o que pugui veure’s afectat, per procediments de presa de decisions mediambientals previstos en aquesta Llei, o que hi tinguin un interès. Es considera que hi tenen un interès les organitzacions no governamentals que treballen a favor de la protecció del medi ambient.
+
+**Article 3. Principis generals**
+
+Els procediments d’avaluació ambiental es regeixen segons els principis següents:
+a) Promoure un desenvolupament sostenible, garantir la qualitat de vida de les persones i la protecció de la salut humana, la conservació, la protecció i la millora del medi ambient, el paisatge i la utilització racional dels recursos naturals, assegurant una intervenció d’acord amb el coneixement científic més avançat.b) Garantir la informació i la participació dels ciutadans en la integració dels aspectes ambientals dins el marc del procediment d’aprovació de determinats projectes, plans i programes, tot aplicant els principis de prevenció, precaució, proporcionalitat, no regressivitat, simplificació, internalització dels costos mediambientals i col·laboració entre les administracions públiques.
+
+**Article 4. Context transfronterer**
+
+$1e
+
+**Article 5. Relació entre l’avaluació d’impacte ambiental de projectes i l’avaluació ambiental estratègica de plans i programes**
+
+1. L’avaluació ambiental estratègica de plans i programes no exclou que s’hagi de dur a terme una avaluació d’impacte ambiental dels projectes que es derivin del pla o programa.
+2. En l’avaluació d’impacte ambiental de projectes que es derivin d’un pla o programa sotmès a avaluació ambiental estratègica de plans i programes, es tindran en compte les consideracions establertes en la declaració ambiental estratègica.
+
+**Article 6. Capacitat tècnica dels autors dels documents ambientals i dels responsables de la vigilància ambiental**
+
+1. Els documents ambientals, amb la finalitat d’assegurar-ne l’exhaustivitat i la qualitat, han d’estar elaborats per tècnics autoritzats i competents.
+2. Els autors dels documents són responsables del seu contingut i de la fiabilitat de la informació que contenen, excepte pel que fa referència a les dades proporcionades per les administracions.
+3. La vigilància ambiental ha de ser portada a terme per tècnics autoritzats i competents.
+4. El Govern estableix per via reglamentària els requisits i les disposicions que han de complir els tècnics que facin estudis d’impacte ambiental de projectes, plans de restauració i plans de vigilància ambiental de projectes, estudis ambientals estratègics de plans i programes i seguiment de la vigilància ambiental d’obres de projectes objecte d’aquesta Llei.
+
+#### Capítol segon. Avaluació d’impacte ambiental de projectes
+
+**Article 7. Projectes sotmesos a avaluació d’impacte ambiental**
+
+1. Els projectes, públics o privats, que s’esmenten en l’annex I s’han de sotmetre a avaluació d’impacte ambiental.
+2. En el cas que un projecte inclogui diverses obres o activitats que estiguin sotmeses, individualment o conjuntament, a avaluació d’impacte ambiental, s’ha de fer una sola avaluació d’impacte ambiental del conjunt de les obres o activitats.
+3. Quan estigui previst dur a terme un projecte per fases, s’ha de fer una única avaluació d’impacte ambiental per tot el conjunt de les fases.
+4. El Govern pot excloure, de forma motivada, un projecte determinat del tràmit d’avaluació d’impacte ambiental en casos excepcionals d’emergència civil o catàstrofes.
+
+**Article 8. Procediment d’avaluació d’impacte ambiental de projectes**
+
+$20
+
+**Article 9. Requisits addicionals per a projectes amb un impacte molt important sobre el medi ambient**
+
+Per als projectes inclosos en l’annex I b, que per les seves característiques o dimensions tenen un grau d’impacte molt important sobre el medi ambient, s’afegeixen els requisits següents al procediment d’avaluació d’impacte ambiental establert en l’article anterior:
+a) Tots els projectes es posen a informació pública, independentment de la titularitat dels terrenys, mitjançant la seva publicació alButlletí Oficial del Principat d’Andorra, i a través de mitjans electrònics.b) De manera simultània al tràmit d’informació pública previst a l’apartat 6 de l’article anterior, l’òrgan substantiu ha de consultar el públic interessat sobre els possibles efectes del projecte i les administracions públiques afectades, quan correspongui. S’estableixen procediments perquè la informació sigui accessible a través de mitjans electrònics.
+
+**Article 10. Estudi d’impacte ambiental**
+
+$22
+
+**Article 11. Projectes no sotmesos a avaluació d’impacte ambiental, sotmesos únicament a un pla de restauració i a un pla de vigilància ambiental**
+
+$24
+
+**Article 12. Vigilància i control**
+
+$26
+
+#### Capítol tercer. Avaluació ambiental estratègica de plans i programes
+
+**Article 13. Plans i programes sotmesos a avaluació ambiental estratègica**
+
+1. Els plans i programes públics i privats, així com les seves modificacions, que s’adoptin o aprovin per les administracions públiques en els supòsits establerts en l’annex III d’aquesta Llei s’han de sotmetre prèviament a una avaluació ambiental estratègica.
+2. Els plans o programes financers o pressupostaris no estan sotmesos al procediment d’avaluació ambiental estratègica.
+3. L’avaluació ambiental estratègica d’un pla o programa no exclou l’avaluació d’impacte ambiental dels projectes que d’ells se’n derivin.
+
+**Article 14. Procediment d’avaluació ambiental estratègica de plans i programes sectorials**
+
+$28
+
+**Article 15. Procediment d’avaluació ambiental estratègica de plans d’ordenació i urbanisme parroquial, plans parcials i plans especials**
+
+1. Els plans d’ordenació i urbanisme parroquial, així com els plans parcials i especials, han de contenir, a més de les determinacions de caràcter general i específic exigides per la Llei general d’ordenació del territori i urbanisme, del 29 de desembre del 2000, un estudi ambiental estratègic.
+2. La tramitació per aprovar aquests plans segueix el procediment establert a la Llei general d’ordenació del territori i urbanisme, del 29 de desembre del 2000.
+
+**Article 16. Estudi ambiental estratègic de plans i programes**
+
+$2a
+
+**Article 17. Seguiment ambiental i supervisió**
+
+1. El promotor del pla o programa ha de designar un responsable ambiental del pla o programa. Aquest responsable ha de comptar amb la competència tècnica necessària.
+2. L’òrgan ambiental ha de supervisar els efectes de l’aplicació dels plans o programes per, entre d’altres, identificar ràpidament els efectes adversos no previstos i permetre establir les mesures de reparació adequades. Aquesta supervisió inclou la integració dels aspectes ambientals en el pla aprovat i la seva execució conseqüent amb aquests.
+
+#### Capítol quart. Règim d’infraccions i sancions, procediment sancionador i reparació de danys al medi
+
+**Article 18. Tipificació de les infraccions**
+
+$2c
+
+**Article 19. Sancions**
+
+1. Les infraccions tipificades en l’article anterior donen lloc a la imposició de les sancions següents:
+a) En el cas d’infraccions lleus: multa des de 100 fins a 1.000 euros.b) En el cas d’infraccions greus: multa des de 1.000,01 fins a 3.000 euros.c) En el cas d’infraccions molt greus: multa des de 3.000,01 fins a 30.000 euros.
+2. L’actualització de les quanties fixades en aquest article es fa mitjançant la Llei de pressupost.
+3. L’import recaptat per a les sancions previstes en aquesta Llei es destina al Fons Verd previst a l’article 9 de la Llei 21/2018, del 13 de setembre, d’impuls de la transició energètica i del canvi climàtic.
+
+**Article 20. Sanció d’infraccions concurrents**
+
+1. Al responsable de dos o més infraccions diferenciades se li imposen les sancions corresponents a cada infracció.
+2. En tot cas, s’imposa una única sanció, encara que hi hagi dos o més infraccions derivades d’uns mateixos fets, quan una d’aquestes infraccions hagi estat un mitjà imprescindible per cometre’n una altra o quan d’una infracció es derivin necessàriament les altres. En aquests casos s’imposa la sanció que correspongui a la infracció més greu, dins dels marges establerts legalment.
+3. Les sancions previstes en aquesta Llei no impedeixen la imposició de sancions previstes per altres lleis, salvat que aquestes lleis ho disposin altrament.
+
+**Article 21. Graduació de les sancions**
+
+$2e
+
+**Article 22. Prescripció de les infraccions**
+
+1. Les infraccions a les quals fa referència aquesta Llei prescriuen al cap de dos anys en el cas de les faltes lleus, tres anys en el cas de les faltes greus i cinc anys en el cas de les faltes molt greus.
+2. El termini de prescripció es computa des del moment en què l’Administració constata la infracció i s’interromp amb la incoació del procediment sancionador corresponent.
+
+**Article 23. Prescripció de les sancions**
+
+1. Les sancions previstes en aquesta Llei prescriuen: les imposades per infraccions lleus prescriuen al cap de dos anys, les imposades per infraccions greus al cap de tres anys, i les imposades per infraccions molt greus al cap de cinc anys.
+2. El termini de prescripció comença a computar l’endemà que esdevingui ferma la resolució per la qual s’imposi la sanció.
+
+**Article 24. Tramitació**
+
+En tot allò que no preveu aquest capítol, per imposar les sancions previstes per aquesta Llei i exigir el restabliment de la situació de la qual s’ha alterat l’estat originari i la indemnització dels danys i perjudicis ocasionats, s’apliquen les disposicions del Codi de l’Administració.
+
+**Article 25. Potestat sancionadora**
+
+Correspon al ministeri competent en matèria de medi ambient, d’acord amb les seves competències d’inspecció i de control, incoar, tramitar i resoldre els expedients sancionadors, llevat de la resolució de les sancions molt greus, que correspon al Govern.
+
+**Article 26. Mesures cautelars**
+
+$30
+
+**Article 27. Reparació dels danys causats al medi i restauració del medi a l’estat original**
+
+$32
+
+**Article 28. Persones responsables**
+
+1. Són responsables de les infraccions administratives previstes en aquesta Llei les persones físiques o jurídiques que:
+a) Executin directament l’acció infractora, o les que ordenin la dita acció quan l’executor es vegi obligat a complir l’ordre esmentada.b) Siguin titulars o promotores de l’activitat, l’obra, l’aprofitament o el projecte que constitueixi o origini la infracció.c) Ometin el compliment d’alguna acció o requisit previstos en aquesta Llei.
+2. Quan la infracció derivi de l’ús indegut d’autoritzacions emeses, l’autoria recau, en tot cas, en la persona titular de l’autorització.
+3. La responsabilitat administrativa sancionadora és solidària quan el compliment d’una obligació prevista en aquesta Llei correspongui a diverses persones conjuntament.

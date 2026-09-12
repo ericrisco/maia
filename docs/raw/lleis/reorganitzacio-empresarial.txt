@@ -1,0 +1,106 @@
+# Llei de règim fiscal de les operacions de reorganització empresarial (Llei 17/2017)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/reorganitzacio-empresarial
+Articles: 18 · versions consolidades: 3
+Instantania del consolidat: 2026-09-12T05:30:14.166434Z
+
+---
+
+#### Capítol primer. Principis generals
+
+**Article 1. Finalitat i àmbit d’aplicació**
+
+1. Aquesta Llei estableix el règim fiscal aplicable a les operacions de fusió, escissió, aportació no dinerària de branca d’activitat, aportació no dinerària d’altres actius, bescanvis de valors i devolució d’actius, llevat que es renunciï a aplicar-lo, en la forma prevista en la mateixa Llei.
+2. Les disposicions de la Llei seran aplicables, amb els requisits i condicions previstos en la mateixa Llei, a les operacions referides a l’apartat anterior, quan les duguin a terme entitats residents al Principat d’Andorra o quan hi intervinguin persones físiques o entitats residents al Principat d’Andorra o no residents en els supòsits previstos en aquesta Llei.
+
+**Article 2. Definicions**
+
+1. Als efectes d’aquesta Llei, té la consideració d’operació de fusió l’operació per la qual:
+a) Una o diverses entitats transfereixen a una altra entitat ja existent la totalitat del seu patrimoni de forma universal, quedant extingides, mitjançant l’atribució als seus socis, atenent a una norma proporcional, de valors representatius del capital social de l’altra entitat i, en el seu cas, d’una compensació en diners que no superi el 10% del valor nominal o, a falta del valor nominal, d’un valor equivalent al nominal dels valors que es dedueixi de la seva comptabilitat.b) Dues o més entitats transfereixen a una altra entitat de nova creació la totalitat del seu patrimoni de forma universal, quedant extingides, mitjançant l’atribució als seus socis, atenent una norma proporcional, de valors representatius del capital social de la nova entitat i, si escau, d’una compensació en diners que no superi el 10% del valor nominal o, a falta del valor nominal, d’un valor equivalent al nominal dels valors que es dedueixi de la seva comptabilitat.c) Una entitat transfereix el conjunt del seu patrimoni de manera universal, quedant extingida, a l’entitat que posseeix la totalitat dels valors representatius del seu capital social.d) Una entitat transfereix el conjunt del seu patrimoni de forma universal, quedant extingida, a una altra entitat de la qual posseeix la totalitat dels valors representatius del seu capital social.
+2. Als efectes d’aquesta Llei, té la consideració d’operació d’escissió l’operació per la qual:
+a) Una entitat transfereix a dos o més entitats de nova creació o ja existents la totalitat del seu patrimoni de forma universal, quedant extingida, mitjançant l’atribució als seus socis, atenent una norma proporcional, de valors representatius del capital social de les entitats beneficiàries de l’escissió i, si escau, d’una compensació en diners que no superi el 10% del valor nominal o, a falta del valor nominal, d’un valor equivalent al nominal dels valors que es dedueixi de la seva comptabilitat.b) Una entitat transfereix a una o diverses entitats de nova creació o ja existents, sense quedar extingida, una o diverses branques d’activitat, i manté almenys una branca d’activitat a l’entitat transmissora, mitjançant l’atribució als seus socis, atenent una norma proporcional, de valors representatius del capital social de l’entitat o de les entitats beneficiàries de l’escissió i, si escau, d’una compensació en diners que no superi el 10% del valor nominal o, a falta del valor nominal, d’un valor equivalent al nominal dels valors que es dedueixi de la seva comptabilitat.
+En cas que existeixin dos o més entitats adquirents, l’atribució als socis de l’entitat que s’escindeix de valors representatius del capital social d’alguna de les entitats adquirents en proporció diferent de la que tenien a l’entitat escindida només serà possible quan els patrimonis rebuts per les entitats adquirents constitueixin branques d’activitat. No obstant això, l’existència de branques d’activitat no serà exigible quan almenys el 75% del capital social de l’entitat escindida pertanyi, directament o indirectament, almenys, a dos socis units per vincles de parentiu, inclòs el cònjuge i la parella en el cas d’unions estables de parella, segons es defineixen a la normativa reguladora de les unions estables de parella, per consanguinitat o adopció en línia descendent, ascendent o col·lateral, fins al quart grau inclusivament i sempre que es donin les dos condicions següents:
+- Que, com a mínim, dos dels socis que conjuntament tenen aquesta participació directa o indirecta d’almenys el 75% tinguin individualment una participació directa o indirecta d’almenys el 5% en el capital social de l’entitat escindida.- Que, com a conseqüència de l’escissió, el control sobre almenys una de les entitats beneficiàries de l’escissió recaigui directament o indirectament sobre una persona o sobre diverses persones unides per vincles de parentiu, inclòs el cònjuge i la parella en el cas d’unions estables de parella, segons es defineixen a la normativa reguladora de les unions estables de parella, per consanguinitat o adopció en línia descendent, ascendent o col·lateral, fins al quart grau inclusivament, diferents de les que posseïen el control de l’entitat escindida. Als efectes d’aquest paràgraf, s’entendrà que es té el control sobre una entitat quan se’n posseeix més de la meitat dels drets de vot.
+3. Als efectes d’aquesta Llei, té la consideració d’operació d’aportació no dinerària de branca d’activitat l’operació per la qual una entitat aporta, sense quedar extingida, a una altra entitat de nova creació o ja existent la totalitat de la seva activitat o bé una o més branques d’activitat, i rep a canvi valors representatius del capital social de l’entitat beneficiària de l’aportació.
+4. Als efectes d’aquesta Llei, té la consideració d’operació d’aportació no dinerària d’altres actius l’operació per la qual:
+a) Una entitat aporta, sense quedar extingida, un o diversos elements patrimonials o accions o participacions en el capital social d’entitats que representin una participació d’almenys el 5% del seu capital social a una altra entitat resident al Principat d’Andorra, i rep a canvi valors representatius del capital social de l’entitat beneficiària de l’aportació.b) Una persona física aporta una branca d’activitat o un o diversos elements patrimonials afectes al desenvolupament d’una activitat econòmica o accions o participacions en el capital social d’entitats que representin una participació d’almenys el 5% del seu capital social a una entitat resident al Principat d’Andorra, i rep a canvi valors representatius del capital social de l’entitat beneficiària de l’aportació.c) Una persona física aporta un o diversos béns immobles situats al Principat d’Andorra i no afectes al desenvolupament d’una activitat econòmica a una entitat resident al Principat d’Andorra la totalitat del capital social de la qual és titularitat, directament o indirectament, de l’aportant a títol individual o de forma conjunta amb persones unides a l’aportant per vincles de parentiu, inclòs el cònjuge i la parella en el cas d’unions estables de parella, segons es defineixen a la normativa reguladora de les unions estables de parella, per consanguinitat o adopció en línia descendent, ascendent o col·lateral, fins al quart grau inclusivament, i rep a canvi valors representatius del capital social de l’entitat beneficiària de l’aportació.
+5. Als efectes d’aquesta Llei, té la consideració d’operació de bescanvi de valors l’operació per la qual una entitat adquireix una participació en el capital social d’una altra entitat que li permet obtenir la majoria de drets de vot d’aquesta altra entitat o, si ja disposa de la majoria referida, adquirir-ne una major participació, mitjançant l’atribució als socis de l’altra entitat, a canvi dels seus valors, de valors representatius del capital social de la primera entitat, atenent una norma proporcional, i, si escau, d’una compensació en diners que no superi el 10% del valor nominal o, a falta del valor nominal, d’un valor equivalent al nominal dels valors que es dedueixi de la seva comptabilitat.
+6. Als efectes d’aquesta Llei, té la consideració de devolució d’actius l’operació per la qual una entitat resident al Principat d’Andorra transmet a un o alguns dels seus socis persones físiques una o diverses branques d’activitat com a resultat d’una operació de separació de socis, reducció de la xifra del capital per restitució de les aportacions o dissolució mitjançant la cessió global d’actius i passius. En tot cas, amb caràcter previ a la realització de l’operació, l’entitat transmitent haurà d’estar íntegrament participada, directament o indirectament, per persones unides entre elles per vincles de parentiu, inclòs el cònjuge i la parella en el cas d’unions estables de parella, segons es defineixen a la normativa reguladora de les unions estables de parella, per consanguinitat o adopció en línia descendent, ascendent o col·lateral, fins al quart grau inclusivament.
+També té la consideració de devolució d’actius l’operació en què es compleixin els requisits descrits al paràgraf anterior però en la qual els elements patrimonials transmesos als socis persones físiques siguin béns immobles situats al Principat d’Andorra que estiguin destinats al seu ús residencial per part dels socis de l’entitat que realitza l’operació de devolució o per part de persones que hi estiguin unides per vincles de parentiu en els termes previstos al paràgraf anterior.
+7. Als efectes d’aquesta Llei, tindrà la consideració de branca d’activitat el conjunt d’elements d’actiu i passiu d’una divisió d’una entitat que constitueixen, des del punt de vista de l’organització, una explotació autònoma, és a dir, un conjunt capaç de funcionar pels seus propis mitjans.
+
+#### Capítol segon. Règim fiscal de les persones físiques o entitats transmitents
+
+**Article 3. Règim de les rendes derivades de la transmissió**
+
+$1f
+
+**Article 4. Valoració fiscal de les accions o participacions rebudes en contraprestació de l’aportació**
+
+$21
+
+#### Capítol tercer. Règim fiscal de les persones físiques i entitats adquirents
+
+**Article 5. Valoració fiscal dels elements patrimonials adquirits**
+
+1. Els elements patrimonials rebuts com a conseqüència de les transmissions derivades d’operacions en les quals el règim previst a l’apartat 1 de l’article 3 hagi estat aplicable es valoraran, a efectes de l’impost sobre societats, l’impost sobre la renda de les persones físiques o l’impost sobre la renda dels no-residents fiscals, pel mateix valor fiscal que tenien en seu del transmitent abans de realitzar-se l’operació. Els elements patrimonials adquirits conservaran la data d’adquisició que tenien en seu del transmitent.
+2. Les regles de valoració descrites a l’apartat anterior no seran aplicables en cas que el transmitent hagi exercit l’opció de renúncia prevista a l’apartat 2 de l’article 3.
+
+#### Capítol quart. Règim fiscal dels socis
+
+**Article 6. Règim fiscal de l’atribució d’accions o participacions als socis en les operacions de fusió i escissió**
+
+En les operacions de fusió i escissió, no s’han d’integrar en la base de tributació de l’impost sobre societats, de l’impost sobre la renda de les persones físiques o de l’impost sobre la renda dels no-residents fiscals les rendes que es posin de manifest com a conseqüència de l’atribució als socis de l’entitat transmitent de valors representatius del capital social de l’entitat adquirent, sempre que els socis siguin residents fiscals al Principat d’Andorra o, en cas de ser no-residents, que les accions o participacions rebudes siguin representatives de la participació en el capital social d’una entitat que tingui la seva residència fiscal en territori andorrà.
+
+**Article 7. Valoració fiscal de les accions o participacions rebudes pels socis en les operacions de fusió i escissió**
+
+$23
+
+**Article 8. Règim fiscal del bescanvi de valors**
+
+$25
+
+**Article 9. Participació en el capital de l’entitat transmitent i de l’entitat adquirent**
+
+$27
+
+#### Capítol cinquè. Altres disposicions
+
+**Article 10. Subrogació en els drets i obligacions tributaris**
+
+$29
+
+**Article 11. Normes per evitar la doble imposició**
+
+$2b
+
+**Article 12. Impost general indirecte**
+
+1. No estan subjectes a l’impost general indirecte les transmissions d’elements patrimonials que es produeixin en el marc de les operacions a les quals sigui aplicable el règim fiscal regulat en aquesta Llei.
+2. La no -subjecció a l’impost general indirecte d’aquestes operacions no afecta el règim de deducció de l’impost que sigui aplicable a les entitats o persones físiques que les realitzin o que hi intervinguin en virtut del previst al capítol desè de la Llei 11/2012, del 21 de juny, de l’impost general indirecte.
+
+**Article 13. Impost sobre les plusvàlues en les transmissions patrimonials immobiliàries**
+
+L’impost sobre les plusvàlues en les transmissions patrimonials immobiliàries no merita en les transmissions de béns immobles que es produeixin com a conseqüència de les operacions a les quals sigui aplicable el règim fiscal regulat en aquesta Llei. Els béns immobles transmesos com a conseqüència de les operacions a les quals sigui aplicable el règim fiscal regulat en aquesta Llei es valoren per part de l’adquirent pel mateix valor d’adquisició que tenien en seu del transmitent, i també es manté la data d’adquisició.
+
+**Article 14. Impost sobre transmissions patrimonials immobiliàries**
+
+No estan subjectes a l’impost sobre transmissions patrimonials immobiliàries les transmissions de béns immobles derivades de les operacions a les quals sigui aplicable el règim fiscal regulat en aquesta Llei.
+
+**Article 14 bis. Impost sobre la inversió estrangera immobiliària al Principat d’Andorra**
+
+No estan subjectes a l’impost sobre la inversió estrangera immobiliària al Principat d’Andorra les adquisicions de béns immobles o de drets reals possessoris sobre immobles derivades de les operacions a les quals sigui aplicable el règim fiscal regulat en aquesta Llei.
+
+#### Capítol sisè. Aplicació del règim i obligacions formals
+
+**Article 15. Aplicació del règim**
+
+$2d
+
+**Article 16. Obligació de comunicació**
+
+$2f
+
+**Article 17. Obligacions comptables**
+
+$31

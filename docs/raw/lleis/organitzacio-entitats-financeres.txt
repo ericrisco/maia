@@ -1,0 +1,760 @@
+# Llei sobre organització i funcionament de les entitats operatives del sistema financer (Llei 7/2024)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/organitzacio-entitats-financeres
+Articles: 160 · versions consolidades: 3
+Instantania del consolidat: 2026-09-12T05:30:12.363148Z
+
+---
+
+#### Capítol primer. Disposicions generals
+
+**Article 1. Objecte de la Llei**
+
+L’objecte d’aquesta Llei és establir:
+- Els requisits organitzatius i les condicions de funcionament per a l’exercici de l’activitat de les entitats operatives del sistema financer.- Els requeriments mínims que han de seguir les entitats operatives del sistema financer per vetllar per la protecció de l’inversor.- Les obligacions de tota persona física o jurídica en relació amb adquisicions, increments de participació, disposicions o cessions d’una participació qualificada en una entitat operativa del sistema financer.- Les obligacions, les prohibicions i el règim sancionador relacionats amb l’abús de mercat per part de qualsevol persona física o jurídica, entès com les operacions basades en l’ús d’informació privilegiada i la manipulació de mercat, per contribuir a la integritat dels mercats financers i augmentar la confiança dels inversors en aquests mercats.- El marc normatiu dels acords de compensació contractual i els acords de garantia financera.- Les normes sobre els derivats extraborsaris.- Les disposicions en relació amb la transparència de les operacions de finançament de valors.
+
+**Article 2. Definicions**
+
+$1f
+
+#### Capítol segon. Requisits organitzatius i condicions de funcionament de les entitats operatives del sistema financer
+
+##### Secció primera. Requisits organitzatius
+
+**Article 4. Adhesió a associacions professionals**
+
+$23
+
+**Article 4 bis. Adhesió al Fons Andorrà de Garantia de Dipòsits i el Sistema andorrà de garantia d’inversions**
+
+L’AFA ha de verificar que tota entitat que sol·liciti autorització com a entitat operativa del sistema financer compleixi, en el moment de l’autorització, les seves obligacions en virtut de la Llei 20/2018, del 13 de setembre, reguladora del Fons Andorrà de Garantia de Dipòsits i del Sistema andorrà de garantia d’inversions.
+L’obligació establerta en el paràgraf anterior s’aplica en relació amb els dipòsits estructurats emesos per les entitats bancàries membres del Fons Andorrà de Garantia de Dipòsits.
+
+**Article 5. Normes de conducta**
+
+$26
+
+**Article 6. Sistema de govern corporatiu**
+
+$2a
+
+**Article 6 bis. Requisits d’idoneïtat**
+
+$2e
+
+**Article 6 quater. Règim d’incompatibilitats**
+
+$32
+
+**Article 6 quinquies. Funcions del consell d’administració**
+
+$34
+
+**Article 6 septies. Comissió d’auditoria**
+
+$36
+
+**Article 6 sexies. Comissions delegades del consell d’administració**
+
+$38
+
+**Article 6 ter. Avaluació dels requisits d’idoneïtat**
+
+$3a
+
+**Article 7. Organització tècnica i administrativa**
+
+$3c
+
+**Article 8. Externalització de funcions**
+
+$3e
+
+**Article 8 bis. Prestació de serveis mitjançant una altra entitat operativa del sistema financer**
+
+$40
+
+##### Secció segona. Condicions de funcionament
+
+**Article 9. Funció de compliment normatiu**
+
+$42
+
+**Article 10. Funció de gestió del risc**
+
+$44
+
+**Article 11. Funció d’auditoria interna**
+
+$46
+
+**Article 11 bis. Obligacions d’informació per part de les funcions de control**
+
+El consell d’administració de les entitats operatives del sistema financer ha de rebre periòdicament, i almenys amb una freqüència anual, informes per escrit sobre els assumptes traslladats per part de les funcions de compliment normatiu, gestió de riscos i auditoria interna, i sobre les mesures adoptades per esmenar qualsevol deficiència.
+
+**Article 11 ter. Operacions personals**
+
+$48
+
+**Article 12. Protecció dels actius dels clients**
+
+$4a
+
+**Article 12 bis. Utilització d’instruments financers de clients**
+
+$4c
+
+**Article 12 quater. Responsable en matèria de salvaguarda d’actius**
+
+1. Les entitats operatives del sistema financer han de designar un únic responsable amb les competències i l’autoritat suficients, amb coneixements específics per als assumptes relatius al compliment de les obligacions quant a la salvaguarda dels instruments financers i els fons dels clients.
+2. Les entitats operatives del sistema financer han de decidir, garantint el ple compliment de la normativa aplicable, si el responsable designat s’ha de dedicar únicament a aquesta tasca, o si pot exercir les seves funcions amb eficàcia mentre atén altres responsabilitats.
+
+**Article 12 ter. Ús inapropiat dels acords de garantia financera amb canvi de titularitat**
+
+$4e
+
+**Article 13. Gestió dels conflictes d’interès**
+
+$50
+
+**Article 13 bis. Conflictes d’interès potencialment perjudicials per als clients**
+
+$52
+
+**Article 13 quater. Revelació al client dels conflictes d’interès**
+
+$54
+
+**Article 13 quinquies. Requisits addicionals pel que fa a la fixació de preus de les ofertes en relació amb l’emissió d’instruments financers**
+
+$56
+
+**Article 13 ter. Política de gestió dels conflictes d’interès**
+
+$58
+
+**Article 14. Transparència**
+
+$5a
+
+**Article 14 bis. Servei d’atenció al client**
+
+$5c
+
+**Article 14 ter. Mecanisme extrajudicial per a la reclamació dels consumidors de serveis d’inversió i/o auxiliars**
+
+Els consumidors de serveis d’inversió i/o auxiliars tenen dret a sotmetre les seves reclamacions als procediments de resolució alternativa de litigis establerts en la legislació en matèria de protecció del consumidor, amb l’objectiu de resoldre els conflictes entre els consumidors de serveis d’inversió i/o auxiliars i les entitats operatives del sistema financer que prestin serveis d’inversió i/o auxiliars, relatius als drets i les obligacions derivats d’aquesta Llei, del seu desenvolupament reglamentari o dels comunicats tècnics emesos per l’AFA, segons correspongui.
+
+**Article 15. Registres**
+
+$5e
+
+**Article 15 bis. Enregistrament de les converses telefòniques o les comunicacions electròniques**
+
+$60
+
+**Article 15 quater. Substitució normativa d’un índex de referència**
+
+$62
+
+**Article 15 ter. Utilització d’índexs de referència**
+
+$64
+
+**Article 16. Informació als clients**
+
+1. Les entitats operatives del sistema financer han de posar a disposició dels seus clients, en temps i forma, la informació necessària per permetre que els clients puguin prendre les seves decisions amb coneixement íntegre dels riscos i dels costos associats als serveis i productes o operacions.
+2. Les entitats operatives del sistema financer han de posar a disposició dels seus clients informes adequats corresponents als serveis prestats als dits clients i a les operacions per compte d’aquests darrers; aquests informes han d’incloure el detall dels costos i les despeses associats als dits serveis o operacions.
+3. Les entitats operatives del sistema financer han de posar a disposició dels seus clients o potencials clients tota la informació prevista en la normativa vigent.
+
+**Article 17. Publicitat**
+
+$66
+
+##### Secció tercera. Comptabilitat i auditoria dels comptes anuals
+
+**Article 18. Comptes anuals**
+
+$68
+
+**Article 19. Auditories externes**
+
+$6a
+
+##### Secció quarta. Procés i registre oficial d’actes administratius
+
+**Article 20. Actes sotmesos a comunicació inicial, autorització prèvia i/o inscripció i a comunicació periòdica per part de les entitats operatives del sistema financer**
+
+$6e
+
+**Article 20 bis. Actes sotmesos a comunicació inicial, autorització prèvia i/o inscripció i a comunicació per part de l’adquirent**
+
+$72
+
+**Article 20 quater. Cooperació per a l’autorització d’adquisicions de participacions qualificades**
+
+$74
+
+**Article 20 ter. Criteris d’avaluació d’una proposta d’adquisició d’una participació qualificada en una entitat operativa del sistema financer**
+
+$76
+
+**Article 21. Organisme responsable**
+
+1. L’AFA és l’organisme responsable de resoldre les sol·licituds d’autorització prèvia i/o d’inscripció i de rebre les comunicacions periòdiques establertes als articles anteriors, així com d’establir i actualitzar els registres oficials que contenen les informacions de les entitats relatives als actes enumerats en aquesta Llei.
+2. S’habilita l’AFA per reduir, ampliar o modificar els actes sotmesos a autorització prèvia, inscripció i/o comunicació periòdica dels actes enumerats en els articles 20 i 20
+bis
+, en cas de ser necessari per a l’exercici adequat de les seves funcions, mitjançant l’emissió de comunicats tècnics.
+3. L’AFA, en dur a terme l’avaluació de les sol·licituds d’autorització prèvia, ha de consultar, quan correspongui, la Unitat d’Intel·ligència Financera d’Andorra, el Cos de la Policia, altres autoritats nacionals en l’àmbit de les seves competències i/o altres autoritats estrangeres homòlogues.
+
+**Article 22. Sol·licituds d’autorització prèvia**
+
+1. Per tenir plena efectivitat, amb caràcter previ a la realització dels actes s’ha d’haver obtingut la corresponent autorització prèvia o la no oposició en relació amb els actes referits a l’apartat 2 de l’article 20 i a l’apartat 2 de l’article 20
+bis
+.
+2. L’AFA ha d’acusar recepció de les sol·licituds en el mateix moment que es presenten per escrit.
+
+**Article 23. Sol·licituds d’inscripció i informació periòdica**
+
+1. Les entitats operatives del sistema financer han de presentar a l’AFA les sol·licituds d’inscripció relatives als actes referits als apartats 2 i 3 de l’article 20 i als actes referits a l’apartat 2 de l’article 20
+bis
+en el termini màxim de set dies hàbils a comptar de la data en què es produeix l’acte que s’ha de registrar.
+2. Les entitats operatives del sistema financer han de presentar a l’AFA la comunicació periòdica referida a l’apartat 4 de l’article 20 durant el primer mes natural de cada semestre.
+3. S’habilita l’AFA per ampliar aquests terminis, amb una sol·licitud prèvia.
+
+**Article 24. Documentació que cal adjuntar a les sol·licituds**
+
+Els sol·licitants han d’adjuntar a les sol·licituds la documentació de suport sobre l’adequació a la legislació vigent dels actes per als quals se sol·licita l’autorització prèvia i/o la inscripció, en virtut de la qual no poden quedar afectades negativament, d’una manera significativa, les garanties tècniques, econòmiques o professionals de l’entitat. L’AFA estableix mitjançant un comunicat tècnic el contingut mínim de la documentació que s’ha de lliurar en cada cas.
+
+**Article 25. Informació complementària**
+
+$78
+
+**Article 26. Termini de resolució i notificació**
+
+$7a
+
+**Article 27. Denegació**
+
+$7c
+
+**Article 28. Recurs**
+
+Els sol·licitants d’autorització prèvia i/o inscripció poden interposar un recurs contra les resolucions de l’AFA davant de la jurisdicció administrativa, en la forma i els terminis establerts per la llei que regula el procediment davant d’aquesta jurisdicció.
+
+**Article 3. Àmbit d’aplicació**
+
+$7e
+
+#### Capítol tercer. Protecció de l’inversor
+
+**Article 29. Àmbit d’aplicació**
+
+Les disposicions contingudes en aquest capítol són aplicables a les entitats operatives del sistema financer que presten serveis d’inversió i/o serveis auxiliars d’acord amb la seva autorització administrativa i la legislació vigent.
+
+**Article 30. Classificació dels clients**
+
+$81
+
+**Article 31. Clients professionals**
+
+$83
+
+**Article 32. Sol·licitud de tractament com a client professional**
+
+A efectes de l’article 31, poden sol·licitar el tractament com a clients professionals els organismes del sector públic i els clients minoristes, sempre que es respectin els criteris pertinents i el procediment desenvolupat reglamentàriament. En tot cas, no es considera que els clients esmentats en aquest apartat posseeixen uns coneixements i una experiència del mercat comparables amb els dels clients professionals.
+
+**Article 33. Contraparts elegibles**
+
+$85
+
+**Article 33 bis. Canvis de classificació en relació amb les contraparts elegibles**
+
+Quan una contrapart elegible sol·liciti el tractament com a client i la relació amb una entitat operativa del sistema financer es trobi subjecta a l’article 5, l’article 15, l’article 35, l’apartat 1 de l’article 36, els apartats 1 i 2 de l’article 36
+bis
+i els apartats 1, 2, 3, 4, 5 i 8 de l’article 37, però no sol·liciti expressament el tractament com a client minorista, i l’entitat operativa del sistema financer estigui d’acord amb aquesta petició, l’entitat operativa ha de tractar aquesta contrapart elegible com a client professional.
+No obstant això, quan aquesta contrapart elegible sol·liciti expressament el tractament com a client minorista, s’han d’aplicar les disposicions relatives a les sol·licituds de tractament com a no professional esmentades als apartats 2 i 3 de l’article 31.
+
+**Article 34. Incentius**
+
+$87
+
+**Article 34 bis. Informació als clients sobre els incentius**
+
+$89
+
+**Article 34 quater. Coneixements i competències necessaris per a les persones que presten assessorament o proporcionen informació**
+
+$8b
+
+**Article 34 quinquies. Incentius en relació amb la recerca**
+
+$8d
+
+**Article 34 ter. Registre sobre incentius**
+
+$8f
+
+**Article 35. Obligacions d’informació**
+
+$91
+
+**Article 35 bis. Condicions d’aplicació a la provisió d’informació**
+
+$93
+
+**Article 35 quater. Informació sobre costos i despeses associats**
+
+$95
+
+**Article 35 ter. Informació sobre instruments financers**
+
+$97
+
+**Article 36. Avaluació de la idoneïtat**
+
+$99
+
+**Article 36 bis. Avaluació de l’adequació**
+
+$9b
+
+**Article 36 quater. Prestació de serveis sobre instruments no complexos**
+
+$9d
+
+**Article 36 quinquies. Registre de les avaluacions d’adequació**
+
+Les entitats operatives del sistema financer han de portar registres de les avaluacions d’adequació efectuades, que han d’incloure els elements següents:
+a) El resultat de l’avaluació d’adequació.b) Qualsevol advertiment fet al client en cas que el servei d’inversió o la compra del producte s’haguessin avaluat com a potencialment no convenients per al client, si el client ha demanat efectuar l’operació malgrat l’advertiment i, quan escaigui, si l’entitat ha acceptat la sol·licitud del client de fer l’operació.c) Qualsevol advertiment fet al client en cas que el client no hagués proporcionat informació suficient per permetre a l’entitat dur a terme una avaluació d’adequació, si el client ha demanat efectuar l’operació malgrat l’advertiment i, quan escaigui, si l’entitat ha acceptat la sol·licitud del client de fer l’operació.
+
+**Article 36 ter. Disposicions comunes per a l’avaluació de la idoneïtat i l’adequació**
+
+$9f
+
+**Article 37. Gestió i execució d’ordres**
+
+$a1
+
+**Article 37 bis. Política d’execució d’ordres**
+
+$a5
+
+**Article 38. Informes**
+
+Les entitats operatives del sistema financer que mantinguin directament instruments financers o fons de clients han de posar a disposició dels seus clients, amb caràcter trimestral i en un suport durador, un informe en què es detalli l’estat de comptes amb el desglossament dels saldos, la composició i la valoració econòmica de tots els dipòsits de valors i els comptes d’efectiu dels clients, així com un detall de les operacions d’instruments financers o de fons efectuades en el període, llevat que s’hagi facilitat aquesta informació als dits clients en un altre informe periòdic.
+
+#### Capítol quart. Abús de mercat
+
+##### Secció primera. Disposicions generals en matèria d’abús de mercat
+
+**Article 39. Objecte**
+
+Aquest capítol estableix el marc normatiu en l’àmbit de les operacions amb informació privilegiada, la comunicació il·lícita d’informació privilegiada i la manipulació de mercat (abús de mercat), així com les mesures per impedir l’abús de mercat a fi de garantir la integritat dels mercats financers i reforçar la protecció dels inversors i la seva confiança en aquests mercats.
+
+**Article 40. Subjectes obligats**
+
+$a7
+
+**Article 41. Àmbit d’aplicació**
+
+$a9
+
+**Article 42. Definicions**
+
+$ab
+
+**Article 43. Exempció dels programes de recompra i de les mesures d’estabilització**
+
+$ad
+
+**Article 44. Exempció de les activitats relacionades amb la política monetària i la gestió del deute públic**
+
+$af
+
+**Article 45. Autoritat competent en matèria d’abús de mercat**
+
+$b1
+
+##### Secció segona. Prohibicions i obligacions relacionades amb la informació privilegiada
+
+**Article 46. Informació privilegiada**
+
+$b3
+
+**Article 47. Operacions amb informació privilegiada**
+
+$b5
+
+**Article 48. Conducta legítima**
+
+$b7
+
+**Article 49. Comunicació il·lícita d’informació privilegiada**
+
+1. A efectes d’aquesta Llei, hi ha comunicació il·lícita d’informació privilegiada quan una persona posseeix informació privilegiada i la revela a qualsevol altra persona, excepte quan aquesta revelació es produeix en l’exercici normal de la seva feina, professió o funcions.
+Aquest apartat és aplicable a qualsevol persona física o jurídica que es trobi en les situacions o circumstàncies a què es fa referència en l’apartat 4 de l’article 47.
+2. Als efectes d’aquesta Llei, la subsegüent revelació de les recomanacions o induccions a què es refereix l’apartat 2 de l’article 47 constitueix així mateix una comunicació il·lícita d’informació privilegiada, quan la persona que reveli la recomanació o inducció sàpiga o hagi de saber que es basava en informació privilegiada.
+
+**Article 50. Prospecció de mercat**
+
+$b9
+
+**Article 51. Prohibició de les operacions amb informació privilegiada i de la comunicació il·lícita d’informació privilegiada**
+
+Cap persona no pot:
+a) Fer o intentar fer operacions amb informació privilegiada.b) Recomanar que una altra persona faci operacions amb informació privilegiada o induir-la a fer-ho.c) Comunicar il·lícitament informació privilegiada.
+
+**Article 52. Difusió pública de la informació privilegiada**
+
+$bb
+
+**Article 53. Llista d’iniciats**
+
+$bd
+
+**Article 54. Operacions fetes per directius**
+
+$bf
+
+##### Secció tercera. Prohibicions i obligacions en relació amb la manipulació del mercat
+
+**Article 55. Manipulació de mercat**
+
+$c1
+
+**Article 56. Pràctiques de mercat acceptades**
+
+$c3
+
+**Article 57. Prohibició de la manipulació de mercat**
+
+Cap persona no pot manipular o intentar manipular el mercat.
+
+##### Secció quarta. Obligacions de les entitats que presten serveis d’inversió en relació amb l’ús d’informació privilegiada i la manipulació del mercat
+
+**Article 58. Principis d’actuació**
+
+Quan una entitat operativa del sistema financer presta serveis d’inversió o serveis auxiliars als clients, ha de complir les disposicions contingudes als articles d’aquest capítol i respectar els principis següents:
+a) Garantir la integritat dels mercats de valors mitjançant:i) Una actuació diligent i curosa, tant de la mateixa entitat com de l’alta direcció, del seu personal i dels seus agents, i la dels seus clients o les persones que actuïn en nom d’aquests últims.ii) La facilitació del control de les autoritats competents de la supervisió dels mercats regulats i d’altres sistemes de negociació en els quals operen les entitats operatives del sistema financer.b) El respecte pels nivells més elevats de transparència en l’operativa efectuada en els mercats financers per augmentar la confiança dels inversors en aquests mercats.
+
+**Article 59. Obligacions de les entitats que prestin serveis d’inversió en relació amb la informació privilegiada**
+
+$c5
+
+**Article 60. Prevenció i detecció d’abús de mercat**
+
+$c7
+
+##### Secció cinquena. Obligacions en relació amb recomanacions d’inversió, d’estadístiques i de publicació o difusió d’informació en mitjans
+
+**Article 61. Recomanacions d’inversió i estadístiques**
+
+$c9
+
+**Article 62. Publicació o difusió d’informació als mitjans de comunicació**
+
+Als efectes de l’article 49, de la lletra c) de l’apartat 1 de l’article 55, i de l’article 61, quan es publica o difon informació o s’emeten o es difonen recomanacions per motius periodístics o d’expressió d’un altre tipus en els mitjans de comunicació, la dita publicació o difusió d’informació s’ha d’avaluar tenint en compte les normes que regulen la llibertat de premsa i la llibertat d’expressió en altres mitjans de comunicació, així com les normes o els codis que regulen la professió periodística, llevat que:
+a) Les persones afectades o les persones que hi estan estretament vinculades obtinguin, directament o indirectament, un avantatge o benefici de la publicació o difusió d’aquesta informació.b) La publicació o difusió es dugui a terme amb la intenció d’induir a confusió o engany el mercat pel que fa a l’oferta, la demanda o el preu dels instruments financers.
+
+##### Secció sisena. Cooperació en matèria d’abús de mercat
+
+**Article 63. Cooperació internacional en matèria de lluita contra l’abús de mercat**
+
+$cb
+
+##### Secció setena. Règim sancionador en relació amb l’abús de mercat
+
+**Article 64. Subjectes infractors**
+
+Són subjectes infractors les persones físiques o jurídiques que porten a terme les accions o omissions tipificades com a infraccions als articles següents.
+
+**Article 65. Infraccions molt greus**
+
+$cd
+
+**Article 66. Infraccions greus**
+
+$cf
+
+**Article 67. Infraccions lleus**
+
+Constitueixen infraccions lleus de les entitats i persones a què es refereix l’article 40 les infraccions de disposicions d’observança obligada, així com les prohibicions compreses en aquest capítol quan no constitueixin una infracció greu o molt greu d’acord amb el que disposen els articles 65 i 66.
+
+**Article 68. Procediment sancionador per infraccions en relació amb l’abús de mercat**
+
+1. El procediment sancionador per infraccions en relació amb l’abús de mercat es tramita d’acord amb el que disposa la Llei de regulació del règim disciplinari del sistema financer, del 27 de novembre de 1997.
+2. L’exercici de la potestat sancionadora a què es refereix aquest capítol és independent de l’eventual concurrència de delictes o contravencions penals.
+No obstant això, quan s’estigui tramitant un procés penal en què s’apreciï la identitat de subjectes i fets, el procediment sancionador queda suspès respecte dels mateixos subjectes i fets fins que recaigui un pronunciament ferm de l’autoritat judicial.
+3. Un cop reprès el procediment sancionador, no es poden sancionar pecuniàriament conforme a aquest capítol les conductes que ho hagin estat penalment, quan s’apreciï identitat de subjectes i fets.
+
+**Article 69. Sancions per infraccions molt greus**
+
+$d1
+
+**Article 70. Sancions per infraccions greus**
+
+$d3
+
+**Article 71. Sancions lleus**
+
+$d5
+
+**Article 72. Criteris de graduació de les sancions**
+
+Els criteris de graduació de les sancions que s’hagin d’imposar a les persones o les entitats que hagin comès algun incompliment de les obligacions o les prohibicions establertes en aquest capítol en relació amb l’abús de mercat són els establerts a l’article 19 de la Llei de regulació del règim disciplinari del sistema financer, del 27 de novembre de 1997.
+
+**Article 73. Normes complementàries del règim sancionador en relació amb l’abús de mercat**
+
+Pel que fa al règim de prescripció de les infraccions relacionades amb l’abús de mercat, així com als procediments associats a l’ingrés de l’import de les sancions associades i a la inscripció i publicitat de les dites sancions, és aplicable el que s’estableix el capítol sisè de la Llei de regulació del règim disciplinari del sistema financer, del 27 de novembre del 1997.
+
+#### Capítol cinquè. Acords de compensació contractual i garantia financera
+
+##### Secció primera. Disposicions generals
+
+**Article 74. Objecte i àmbit d’aplicació**
+
+$d7
+
+**Article 75. Subjectes**
+
+$d9
+
+**Article 76. Definicions**
+
+$db
+
+##### Secció segona. Règim dels acords de compensació contractual i de les garanties financeres
+
+**Article 77. Acords de compensació contractuals financers**
+
+$dd
+
+**Article 78. Modalitats d’acords de garantia financera i garanties financeres**
+
+1. Les operacions de garantia financera poden constituir-se mitjançant un acord de garantia financera amb transmissió de la propietat de l’actiu o dret de crèdit o un acord de garantia financera mitjançant la pignoració del dit actiu o dret de crèdit, independentment que aquests acords estiguin o no coberts per un
+acord marc
+o unes
+condicions generals
+, als efectes de garantir les obligacions financeres principals o donar-hi un altre tipus de cobertura.
+2. En particular, es consideren
+acords de garantia financera amb canvi de titularitat
+les operacions dobles o simultànies i les operacions amb pacte de recompra, en els mateixos termes que es defineixen a la lletra b) de l’apartat 2 de l’article 77.
+
+**Article 79. Objecte de la garantia**
+
+La garantia financera que s’aporti ha de consistir en algun dels actius següents:
+a) Efectiu.b) Instruments financers.c) Drets de crèdit.
+No obstant això, no poden ser objecte de garantia financera els drets de crèdit en què el deutor sigui un consumidor o una microempresa, tal com es defineixen en les lletres f) i m), respectivament, de l’apartat 1 de l’article 76, excepte en el cas que el beneficiari o el prestador de la garantia sigui alguna de les entitats enumerades en la lletra b) de l’apartat 1 de l’article 75 d’aquest capítol.
+
+**Article 80. Formalització dels acords de compensació contractual i garantia financera**
+
+$df
+
+**Article 81. Dret de substitució i utilització de l’objecte de la garantia pignorativa**
+
+$e1
+
+**Article 81 bis. Transparència en la reutilització dels instruments financers rebuts en virtut d’un acord de garantia amb canvi de titularitat**
+
+$e3
+
+**Article 82. Garanties financeres complementàries en el marc dels acords de garantia financera**
+
+Les parts d’un acord de garantia financera poden pactar l’aportació de garanties complementàries. Així, poden pactar que, en cas de variacions en el preu de l’objecte de la garantia o de l’import de les obligacions financeres principals pactades inicialment, s’hagi de restablir l’equilibri entre el valor de l’obligació garantida i el valor de les garanties aportades per assegurar-la, bé aportant nous instruments financers o efectiu o, si escau, retornar-los de manera que es procedeixi a la devolució de l’excedent de la garantia aportada. Aquests instruments financers o efectiu tenen la consideració de part integrant de la garantia financera inicial i s’han de tractar com si haguessin estat aportats de manera simultània a l’aportació de l’objecte inicial de la garantia financera.
+
+**Article 83. Efectes de la substitució, del complement o de la retirada de garanties financeres**
+
+1. La substitució, el complement o la devolució de l’excedent de les garanties aportades no suposen la novació extintiva de l’acord de garantia financera, que manté la data de constitució original (que és la que s’aplica també a la garantia substitutiva o addicional).
+2. La utilització de la garantia financera per part del beneficiari de conformitat amb aquest article no invalida els drets del beneficiari ni n’impedeix l’execució en relació amb l’acord de garantia financera pignorativa corresponent a la garantia financera transferida pel beneficiari per complir una obligació com la que es descriu en el primer paràgraf de l’apartat 3 de l’article 81.
+
+**Article 84. Execució d’un acord de garantia financera**
+
+$e5
+
+**Article 85. Procediment d’execució de les garanties financeres pignoratives**
+
+$e7
+
+**Article 86. Efectes sobre acords de compensació contractual o les garanties d’un acord de garantia financera**
+
+$e9
+
+**Article 87. Liquidació anticipada dels acords de compensació contractual o de les garanties d’un acord de garantia financera**
+
+$eb
+
+**Article 88. Conflicte de normes**
+
+$ed
+
+#### Capítol sisè. Derivats extraborsaris
+
+##### Secció primera. Disposicions generals
+
+**Article 89. Objecte i àmbit d’aplicació**
+
+1. Aquest capítol estableix requisits en matèria de compensació i gestió bilateral del risc per als contractes de derivats extraborsaris i requisits d’informació per als contractes de derivats.
+2. Aquest capítol s’aplica a les contraparts financeres.
+3. Aquest capítol no s’aplica a l’AFA ni a altres organismes públics del Principat d’Andorra que s’encarreguin de la gestió del deute públic o hi intervinguin.
+
+**Article 90. Autoritat competent**
+
+L’AFA és l’autoritat administrativa competent per vetllar per l’aplicació de les disposicions establertes en aquest capítol en relació amb les operacions de derivats extraborsaris subscrits per una contrapart financera establerta al Principat d’Andorra.
+Les facultats conferides a l’AFA en virtut del que disposen els articles 4 i 4
+bis
+de la Llei 10/2013, del 23 de maig, de l’Autoritat Financera Andorrana són aplicables a les contraparts financeres indicades en la lletra e) del punt 47 de l’article 2. Consegüentment, aquestes contraparts financeres queden obligades a posar a disposició de l’AFA tots els llibres, els registres i els documents, sigui quin sigui el seu suport, que aquesta última consideri necessaris, inclosos els programes informàtics i els arxius magnètics, òptics o de qualsevol altra classe, com també les converses telefòniques, quant a les seves actuacions en els mercats de derivats financers.
+
+**Article 91. Definicions**
+
+$ef
+
+**Article 92. Operacions intragrup**
+
+$f1
+
+##### Secció segona. Compensació, notificació i reducció del risc dels derivats extraborsaris
+
+**Article 93. Obligació de compensació**
+
+$f3
+
+**Article 94. Contraparts financeres subjectes a l’obligació de compensació**
+
+$f5
+
+**Article 95. Obligació d’informació**
+
+$f7
+
+**Article 96. Tècniques de reducció del risc aplicables als contractes de derivats extraborsaris no compensats per una ECC**
+
+$f9
+
+##### Secció tercera. Règim sancionador relatiu a les operacions amb derivats financers
+
+**Article 97. Subjectes infractors**
+
+Són subjectes autors i responsables de les infraccions les contraparts financeres que porten a terme les accions o omissions tipificades com a infraccions en els articles següents.
+Són subjectes autors i responsables de la infracció els que exerceixin càrrecs d’administració o direcció general, de dret o de fet, i els responsables de les funcions de control previstes en el punt 19 de l’article 2, de les entitats autores i responsables de la infracció, quan les infraccions siguin imputables a la seva conducta dolosa o negligent.
+Cap infracció de les disposicions d’aquest capítol no afecta la validesa d’un contracte de derivats extraborsaris ni la possibilitat que les parts executin els termes d’un contracte de derivats extraborsaris. Cap infracció de les disposicions d’aquest capítol no justifica cap reclamació per danys i perjudicis contra una de les parts d’un contracte de derivats extraborsaris.
+
+**Article 98. Infraccions molt greus**
+
+Es consideren infraccions molt greus les accions o omissions següents:
+a) L’incompliment, quan amb això es posi en risc la solvència o la viabilitat de la persona infractora o el seu grup, de les obligacions contingudes en els apartats 1 a 4 de l’article 96.b) L’incompliment de les obligacions contingudes en l’article 93, amb caràcter no merament ocasional o aïllat o amb irregularitats substancials.c) L’incompliment de les obligacions contingudes en l’article 95, amb caràcter no merament ocasional o aïllat o amb irregularitats substancials.
+
+**Article 99. Infraccions greus**
+
+Es consideren infraccions greus l’incompliment de les obligacions a què es refereix l’article 98, quan no constitueixin una infracció molt greu.
+
+**Article 100. Infraccions lleus**
+
+Constitueixen infraccions lleus en relació amb aquest capítol la manca de remissió a l’AFA, dins del termini, de tots els documents, les dades o les informacions que se li hagin de remetre en l’exercici de les funcions que li siguin assignades, així com faltar al deure de col·laboració davant d’actuacions de supervisió de l’AFA, incloent-hi la no compareixença davant d’una citació per a la presa de la declaració, quan aquestes conductes no constitueixin una infracció greu o molt greu d’acord amb el que preveuen els articles 98 i 99.
+Així mateix, tenen la consideració d’infraccions lleus l’incompliment de les obligacions derivades d’aquest capítol que no constitueixin una infracció greu o molt greu d’acord amb el que disposen els articles 98 i 99.
+
+**Article 101. Procediment sancionador per a infraccions en relació amb les operacions amb derivats financers**
+
+El procediment sancionador per infraccions en relació amb les operacions amb derivats financers es tramita d’acord amb el que disposa la Llei de regulació del règim disciplinari del sistema financer, del 27 de novembre de 1997.
+
+**Article 102. Sancions per infraccions molt greus**
+
+$fb
+
+**Article 103. Sancions per infraccions greus**
+
+En el cas d’incompliments de les obligacions previstes en aquest capítol que constitueixin una infracció greu, s’ha d’imposar a l’infractor una multa per un import de fins a la més gran de les quantitats següents:
+a) En cas de persona jurídica, 830.000 euros o el 0,3% del volum de negocis anual total de la persona jurídica segons els últims comptes disponibles aprovats per l’òrgan d’administració.b) En cas de persona física, fins a 37.500 euros per a cadascun dels que, pel fet d’exercir càrrecs d’alta direcció o funcions de control, de dret o de fet, siguin responsables de les infraccions.
+
+**Article 104. Sancions lleus**
+
+A les infraccions lleus s’hi apliquen les sancions següents:
+a) Una sanció administrativa de 3.000 fins a 30.000 euros.b) Una sanció administrativa de 150 fins a 7.500 euros per a cadascun dels qui, pel fet d’exercir càrrecs d’alta direcció o funcions de control, de dret o de fet, en aquesta entitat, siguin responsables de la infracció.
+
+**Article 105. Criteris de graduació de les sancions**
+
+Els criteris de graduació de les sancions que s’hagin d’imposar a les persones o entitats que hagin comès algun incompliment de les obligacions establertes en aquest capítol en relació amb les operacions en derivats financers són els establerts a l’article 19 de la Llei de regulació del règim disciplinari del sistema financer, del 27 de novembre de 1997.
+
+**Article 106. Normes complementàries del règim sancionador en relació amb les operacions en derivats financers**
+
+Pel que fa al règim de prescripció de les infraccions relacionades amb les obligacions incloses en aquest capítol en relació amb les operacions en derivats financers, així com als procediments associats a l’ingrés de l’import de les sancions associades i a la inscripció i la publicitat de les dites sancions, és aplicable el que s’estableix en el capítol sisè de la Llei de regulació del règim disciplinari del sistema financer, del 27 de novembre de 1997.
+
+#### Capítol setè. Transparència de les operacions de finançament de valors
+
+##### Secció primera. Disposicions generals
+
+**Article 107. Objecte**
+
+Aquest capítol estableix normes sobre la transparència de les operacions de finançament de valors (OFV).
+
+**Article 108. Àmbit d’aplicació**
+
+1. Aquest capítol és aplicable:
+a) A tota contrapart financera d’una OFV que estigui establerta:i) Al Principat d’Andorra.ii) En un tercer país, si l’OFV s’efectua en el marc de les activitats d’una sucursal al Principat d’Andorra d’aquesta contrapart.b) A les societats gestores d’OIC i les societats d’inversió, de conformitat amb l’apartat 2 de l’article 4 de la Llei 10/2008, del 12 de juny, de regulació dels organismes d’inversió col·lectiva de dret andorrà.
+2. L’article 111 no s’aplica:
+a) A l’AFA o altres organismes públics del Principat d’Andorra que s’encarreguin de la gestió del deute públic o que intervinguin en aquesta gestió.b) A les operacions en les quals l’AFA sigui una contrapart.
+
+**Article 109. Autoritat competent**
+
+L’AFA és l’autoritat administrativa competent per vetllar per l’aplicació de les disposicions establertes en aquest capítol en relació amb les OFV subscrites per una contrapart financera establerta al Principat d’Andorra.
+Les facultats conferides a l’AFA en virtut del que disposen els articles 4 i 4
+bis
+de la Llei 10/2013, del 23 de maig, de l’Autoritat Financera Andorrana són aplicables a les contraparts financeres indicades en la lletra e) del punt 47 de l’article 2. Consegüentment, aquestes contraparts financeres queden obligades a posar a disposició de l’AFA tots els llibres, els registres i els documents, sigui quin sigui el seu suport, que aquesta última consideri necessaris, inclosos els programes informàtics i els arxius magnètics, òptics o de qualsevol altra classe, com també les converses telefòniques, quant a les seves actuacions en els mercats de derivats financers.
+
+**Article 110. Definicions específiques**
+
+A efectes d’aquest capítol s’entén per
+sucursal
+un centre d’activitat, diferent de la seu central, que forma part d’una contrapart i que no té personalitat jurídica.
+
+##### Secció segona. Transparència de les operacions de finançament de valors
+
+**Article 111. Obligació de notificació i conservació respecte de les OFV**
+
+$fd
+
+##### Secció tercera. Règim sancionador relatiu a les operacions de finançament de valors
+
+**Article 112. Subjectes infractors**
+
+Són subjectes autors i responsables de les infraccions les contraparts financeres que porten a terme les accions o omissions tipificades com a infraccions en els articles següents.
+Són subjectes autors i responsables de la infracció els que exerceixin càrrecs d’administració o direcció general, de dret o de fet, i els responsables de les funcions de control previstes en el punt 19 de l’article 2, de les entitats autores i responsables de la infracció, quan les infraccions siguin imputables a la seva conducta dolosa o negligent.
+
+**Article 113. Infraccions molt greus**
+
+Es considera una infracció molt greu l’incompliment de les obligacions establertes en l’article 111, sobre l’obligació de les contraparts financeres de les OFV de notificar i conservar la informació relativa a aquestes operacions, quan s’hagi posat en risc greu la transparència i la integritat del sistema financer andorrà.
+
+**Article 114. Infraccions greus**
+
+Es consideren infraccions greus:
+a) L’incompliment per part de les contraparts financeres de les OFV de les obligacions de notificació i conservació de la informació relativa a aquestes operacions establertes en els apartats 1 i 3 de l’article 111, quan no constitueixi una infracció molt greu.b) L’incompliment de l’obligació de disposar dels procediments a què es refereix l’apartat 7 de l’article 111.c) La manca de remissió a l’AFA, dins del termini, de tots els documents, les dades o les informacions que se li hagin de remetre en l’exercici de les funcions que li siguin assignades, així com faltar al deure de col·laboració davant d’actuacions de supervisió de l’AFA, incloent-hi la no compareixença davant d’una citació per a la presa de la declaració, quan aquesta conducta no constitueixi una infracció molt greu d’acord amb el que preveu l’article 113.
+
+**Article 115. Infraccions lleus**
+
+Té la consideració d’infracció lleu l’incompliment de les obligacions derivades d’aquest capítol que no constitueixi una infracció greu o molt greu d’acord amb el que disposen els articles 113 i 114.
+
+**Article 116. Procediment sancionador per a infraccions en relació amb la transparència d’operacions de finançament de valors**
+
+El procediment sancionador per a infraccions en relació amb les operacions de finançament de valors es tramita d’acord amb el que disposa la Llei de regulació del règim disciplinari del sistema financer, del 27 de novembre de 1997.
+
+**Article 117. Sancions per infraccions molt greus**
+
+$ff
+
+**Article 118. Sancions per infraccions greus**
+
+En el cas d’incompliments de les obligacions previstes en aquest capítol que constitueixin una infracció greu, s’ha d’imposar a l’infractor una multa per un import de fins a la quantitat més gran de les següents:
+a) En cas de persona jurídica, 830.000 euros o el 0,3% del volum de negocis anual total de la persona jurídica segons els últims comptes disponibles aprovats per l’òrgan d’administració.b) En cas de persona física, fins a 37.500 euros per a cadascun dels qui, pel fet d’exercir càrrecs d’alta direcció o funcions de control, de dret o de fet, siguin responsables de les infraccions.
+
+**Article 119. Sancions lleus**
+
+A les infraccions lleus s’hi apliquen les sancions següents:
+a) En cas de persona jurídica, una sanció administrativa de 3.000 fins a 30.000 euros.b) En cas de persona física, una sanció administrativa de 150 fins a 7.500 euros per a cadascun dels qui, pel fet d’exercir càrrecs d’alta direcció o funcions de control, de dret o de fet, en aquesta entitat, siguin responsables de la infracció.
+
+**Article 120. Criteris de graduació de les sancions**
+
+Els criteris de graduació de les sancions que s’hagin d’imposar a les persones o les entitats que hagin comès algun incompliment de les obligacions establertes en aquest capítol en relació amb les operacions de finançament de valors són els establerts a l’article 19 de la Llei de regulació del règim disciplinari del sistema financer, del 27 de novembre de 1997.
+
+**Article 121. Normes complementàries del règim sancionador en relació amb operacions de finançament de valors**
+
+Pel que fa al règim de prescripció de les infraccions relacionades amb les obligacions incloses en aquest capítol en relació amb les operacions de finançament de valors, així com als procediments associats a l’ingrés de l’import de les sancions associades i a la inscripció i la publicitat de les dites sancions, és aplicable el que s’estableix en el capítol sisè de la Llei de regulació del règim disciplinari del sistema financer, del 27 de novembre de 1997.

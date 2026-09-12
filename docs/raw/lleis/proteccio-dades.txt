@@ -1,0 +1,369 @@
+# Llei qualificada de protecció de dades personals (Llei 29/2021)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/proteccio-dades
+Articles: 78 · versions consolidades: 3
+Instantania del consolidat: 2026-09-12T05:30:13.323818Z
+
+---
+
+#### Capítol primer. Objecte, àmbit d’aplicació de la Llei i definicions
+
+**Article 1. Objecte**
+
+1. Aquesta Llei té per objecte la protecció de les dades personals de totes les persones físiques, sigui quina sigui la seva nacionalitat o la seva residència, pel que fa al tractament i a la utilització de les dades, preservant la vida privada.
+2. La present Llei protegeix els drets i llibertats fonamentals de les persones físiques i, en particular, el seu dret a la protecció de les dades personals.
+
+**Article 2. Àmbit d’aplicació**
+
+1. Aquesta Llei és aplicable al tractament totalment o parcialment automatitzat de dades personals, així com al tractament no automatitzat de dades personals continguts o destinats a ser inclosos en un fitxer, i a qualsevol ús posterior d’aquestes dades, tant en el sector públic com privat.
+S’aplica a tot tractament de dades personals realitzat per responsables o encarregats del tractament, públics o privats, amb domicili al Principat d’Andorra, o constituïts d’acord amb les lleis del Principat d’Andorra.
+2. També és aplicable als tractaments de dades realitzats per responsables o encarregats del tractament no domiciliats al Principat o no constituïts conforme a les lleis del Principat d’Andorra, quan facin servir mitjans de tractament ubicats en el territori andorrà, automatitzats o no. Aquests responsables o encarregats del tractament han de designar prop de l’Agència Andorrana de Protecció de Dades un representant establert al Principat d’Andorra.
+3. A l’efecte d’aplicació d’aquest article, s’entén per domicili o establiment, amb independència de la seva forma jurídica, qualsevol ubicació estable que permeti l’exercici efectiu i real d’una activitat.
+4. S’exclouen de l’àmbit d’aplicació d’aquesta Llei:
+a) El tractament de dades efectuat en el marc d’activitats exclusivament personals o domèstiques, sense cap connexió amb una activitat professional o comercial.b) El tractament de dades de persones difuntes, sense perjudici del que estableix l’article 3.c) El tractament de dades efectuat per part de les autoritats competents amb finalitats de prevenció, investigació, detecció o enjudiciament d’infraccions penals, o d’execució de sancions penals, incloent la protecció contra les amenaces per a la seguretat pública i la prevenció d’aquestes, sense perjudici del que estableix l’apartat 4 de l’article 5.
+
+**Article 3. Dades de les persones difuntes**
+
+$1e
+
+**Article 4. Definicions**
+
+$20
+
+#### Capítol segon. Principis aplicables al tractament de dades personals
+
+**Article 5. Principis relatius al tractament**
+
+$22
+
+**Article 6. Licitud del tractament**
+
+$24
+
+**Article 7. Condicions per al consentiment**
+
+$26
+
+**Article 8. Condicions aplicables al consentiment del menor d’edat en relació als serveis de la societat de la informació**
+
+1. En tots els àmbits, i especialment en el de l’oferta directa de serveis de la societat de la informació, el tractament de les dades personals d’un menor d’edat únicament es considera lícit si té com a mínim 16 anys; per als menors de 16 anys, el tractament només es considera lícit si el consentiment l’ha donat o l’ha autoritzat el representant legal del menor d’edat i únicament en la mesura en què s’ha donat o autoritzat. En aquests casos, el responsable del tractament ha de verificar que el consentiment el va donar o autoritzar el representant legal del menor d’edat, tenint en compte la tecnologia disponible.
+2. L’apartat anterior no afecta les disposicions generals del dret contractual, com les normes relatives a la validesa, la formació o els efectes dels contractes en relació amb un menor d’edat.
+
+**Article 9. Tractament de categories especials de dades personals**
+
+$28
+
+**Article 10. Tractament de dades personals relatives a condemnes i a infraccions penals**
+
+El tractament de dades personals relatives a condemnes i a infraccions penals, o mesures de seguretat connexes, ha de cenyir-se estrictament a les dades que siguin necessàries i només es pot dur a terme quan ho autoritza la Llei o sota la supervisió de les autoritats públiques, amb salvaguardes adequades acompanyades de mesures de caràcter tècnic i organitzatiu.
+Únicament es pot portar un registre complet de les dades referides a condemnes i infraccions penals sota el control de les autoritats públiques competents en la matèria.
+
+**Article 11. Tractament de dades personals amb finalitats d’arxiu en interès públic, finalitats de recerca científica o històrica o finalitats estadístiques**
+
+$2a
+
+**Article 12. Tractament i llibertat d’expressió i d’informació**
+
+1. En la mesura en què sigui necessari per conciliar el dret a la protecció de dades personals amb la llibertat d’expressió i d’informació, les disposicions de la lletra d) de l’apartat 2 de l’article 5 i dels articles 9, 10, 15 a 19 i 22 i del capítol cinquè no són d’aplicació als tractaments efectuats per alguna de les finalitats següents:
+a) D’expressió acadèmica, artística o literària.b) D’exercici, a títol professional, de l’activitat periodística, en estricte respecte de les normes deontològiques de la professió referida.
+2. Les disposicions de l’apartat anterior s’entenen sense perjudici de l’aplicació de la Llei qualificada de protecció civil als drets a la intimitat, a l’honor i a la pròpia imatge.
+
+**Article 13. Tractament que no requereix identificació**
+
+1. Si les finalitats per a les quals un responsable tracta dades personals no requereixen o ja no requereixen que el responsable identifiqui una persona interessada, aquest responsable no està obligat a mantenir, obtenir o tractar informació addicional per tal d’identificar l’interessat amb l’única finalitat de complir amb aquesta Llei.
+2. En els casos a què es refereix l’apartat 1, quan el responsable és capaç de demostrar que no pot identificar la persona interessada, si és possible l’ha d’informar en conseqüència. En aquests casos no s’apliquen els articles 18 a 23, tret que la persona interessada, a l’efecte d’exercir els seus drets en virtut d’aquests articles, faciliti informació addicional que en permeti la identificació.
+
+**Article 14. Tractament de dades de contacte d’empresaris individuals i de professionals**
+
+Llevat prova en contrari, es presumeix emparat en les disposicions de la lletra f) de l’apartat 1 de l’article 6, el tractament de les següents dades personals:
+a) Dades de personal de persones jurídiques o d’establiments comercials o professionals, quan la informació vinculada a la persona física es refereixi únicament a la seva pertinença a l’empresa o a l’establiment, o a la seva qualitat professional en el si de l’empresa o de l’establiment.b) Dades de persones físiques pertanyents a col·lectius professionals, quan les dades es refereixin únicament a l’activitat professional de la persona i a la seva pertinença a un col·lectiu professional determinat.
+
+#### Capítol tercer. Drets de la persona interessada
+
+**Article 15. Transparència de la informació, comunicació i modalitats d’exercici dels drets**
+
+$2c
+
+**Article 16. Informació que s’ha de facilitar quan les dades personals s’obtenen de la persona interessada**
+
+$2e
+
+**Article 17. Informació que s’ha de facilitar quan les dades personals no s’obtenen de la persona interessada**
+
+$30
+
+**Article 18. Dret d’accés de la persona interessada**
+
+$32
+
+**Article 19. Dret de rectificació**
+
+$34
+
+**Article 20. Dret de supressió (“dret a l’oblit”)**
+
+$36
+
+**Article 21. Garantia dels drets digitals**
+
+$38
+
+**Article 22. Dret a la limitació del tractament**
+
+$3a
+
+**Article 23. Dret a la portabilitat de les dades**
+
+$3c
+
+**Article 24. Dret d’oposició**
+
+$3e
+
+**Article 25. Decisions individuals automatitzades i elaboració de perfils**
+
+$40
+
+**Article 26. Limitacions als drets de la persona interessada**
+
+$42
+
+#### Capítol quart. Responsable i encarregat del tractament de dades personals. Avaluació d’impacte i delegat de protecció de dades
+
+**Article 27. Deures i obligacions del responsable del tractament**
+
+$44
+
+**Article 28. Protecció de dades des del disseny i per defecte**
+
+$46
+
+**Article 29. Representant dels responsables o encarregats del tractament no domiciliats al Principat o no constituïts conforme a les lleis del Principat d’Andorra**
+
+$48
+
+**Article 30. Bloqueig de les dades personals**
+
+$4a
+
+**Article 31. Encarregat del tractament de dades personals**
+
+$4c
+
+**Article 32. Avaluació d’impacte en relació a la protecció de dades personals**
+
+$4e
+
+**Article 33. Consulta prèvia**
+
+$50
+
+**Article 34. Registre de les activitats de tractament**
+
+$52
+
+**Article 35. Seguretat i confidencialitat del tractament**
+
+$54
+
+**Article 36. Notificació d’una violació de la seguretat de les dades personals a l’autoritat de control**
+
+$56
+
+**Article 37. Comunicació d’una violació de la seguretat de les dades personals a la persona interessada**
+
+$58
+
+**Article 38. El delegat de protecció de dades (DPD)**
+
+$5a
+
+**Article 39. Posició del delegat de protecció de dades**
+
+$5c
+
+**Article 40. Codis de conducta**
+
+$5e
+
+**Article 41. Supervisió de codis de conducta aprovats**
+
+$60
+
+#### Capítol cinquè. Transferències de dades personals a tercers països o a organitzacions internacionals
+
+**Article 42. Principis generals de les transferències**
+
+1. No es poden efectuar comunicacions internacionals de dades quan el país o l’organització internacional de destinació de les dades no estableixi, en la seva normativa vigent, un nivell de protecció per a dades de caràcter personal equivalent, com a mínim, al que estableix aquesta Llei.
+2. En les transferències de dades personals cap a un tercer país o una organització internacional s’ha de garantir que no es menyscabi el nivell de protecció de les persones físiques que estableix aquesta Llei.
+
+**Article 43. Transferències basades en una decisió d’adequació de la UE o en el Conveni 108+ del Consell d’Europa per a la protecció de dades o a membres de la UE**
+
+1. El nivell de protecció adequat ve determinat per la publicació al Diari Oficial de la Unió Europea, i al seu lloc web, de la llista de tercers països, territoris i sectors específics en un tercer país i d’organitzacions internacionals respecte dels quals la Unió Europea ha decidit que es garanteix, o que ja no es garanteix, un nivell de protecció adequat; o per la submissió efectiva a les disposicions del Conveni 108+ del Consell d’Europa per a la protecció de dades de les persones en relació al tractament de dades de caràcter personal.
+2. Es pot fer una transferència de dades personals a un tercer país o a una organització internacional quan un territori o un o diversos sectors específics d’aquest tercer país o de l’organització internacional de què es tracti garanteixen un nivell de protecció adequat.
+S’entén que tenen un nivell de protecció adequat els Estats membres de la Unió Europea.
+
+**Article 44. Transferències mitjançant garanties adequades**
+
+$62
+
+**Article 45. Excepcions per a situacions específiques**
+
+$64
+
+#### Capítol sisè. L’autoritat de control independent andorrana
+
+**Article 46. Naturalesa jurídica i estructura orgànica de l’Agència Andorrana de Protecció de Dades**
+
+1. L’Agència Andorrana de Protecció de Dades (APDA), va ser creada l’any 2003 com organisme públic amb personalitat jurídica pròpia, independent de les administracions públiques i amb plena capacitat d’obrar. És una institució de dret públic que ajusta la seva activitat a l’ordenament jurídic públic.
+2. L’Agència Andorrana de Protecció de Dades es configura com una autoritat independent que actua amb objectivitat i plena independència de les administracions públiques andorranes en l’exercici de les seves funcions.
+3. L’Agència Andorrana de Protecció de Dades està integrada per:
+a) La persona Cap de l’Agència;b) El personal inspectorc) El personal laboral al servei de l’Agència.
+
+**Article 47. Sense contingut**
+
+Sense contingut
+
+**Article 48. Àmbit d’actuació**
+
+$68
+
+**Article 49. Competències de l’Agència Andorrana de Protecció de Dades**
+
+$6a
+
+**Article 50. Funcions de l’Agència Andorrana de Protecció de Dades**
+
+$6c
+
+**Article 50 bis. La persona Cap de l’Agència Andorrana de Protecció de Dades**
+
+$70
+
+**Article 50 ter. Les funcions de la persona Cap de l’Agència**
+
+$74
+
+**Article 51. Règim del personal**
+
+1. L’Agència Andorrana de Protecció de Dades, en l’exercici de la seva potestat d’autoorganització, i respectant el límit de despesa de personal consignat en les assignacions anuals del pressupost de què es dota l’Agència, aprova la relació de llocs de treball i n’informa el Consell General.
+2. El personal al servei de l’Agència Andorrana de Protecció de Dades és funcionari o personal laboral. En tot cas, les funcions que impliquin l’exercici de l’autoritat o la participació directa o indirecta de potestats públiques són reservades al personal funcionari.
+3. Tot el personal de l’Agència Andorrana de Protecció de Dades està subjecte al deure de secret professional en relació amb les informacions confidencials de les quals tenen coneixement en l’exercici de les seves funcions fins i tot després d’haver cessat d’exercir-les. El deure de secret professional durant l’exercici de les funcions s’aplica especialment a la informació rebuda de persones físiques en relació amb infraccions a aquesta Llei.
+
+**Article 51 bis. El personal inspector**
+
+$77
+
+**Article 51 ter. El personal laboral**
+
+1. El personal laboral assisteix i col·labora amb la persona Cap de l’Agència en l’exercici de les funcions pròpies de l’Agència.
+2. El règim aplicable al personal laboral és el que estableix la normativa vigent en matèria laboral, inclòs pel que fa al règim disciplinari. La potestat disciplinària és exercida per la persona Cap de l’Agència, d’acord amb les garanties, formalitats i graduació de faltes i sancions que preveu la dita normativa.
+3. Els llocs reservats al personal laboral adscrit a l’Agència es proveeixen mitjançant una convocatòria pública i d’acord amb els principis d’igualtat, mèrit i capacitat.
+4. Són funcions pròpies del personal laboral aquelles que la persona Cap de l’Agència encomani.
+5. La condició de personal laboral és incompatible amb qualsevol activitat que pugui posar en perill la independència i imparcialitat en el compliment de les obligacions.
+
+**Article 52. Règim econòmic**
+
+1. L’Agència Andorrana de Protecció de Dades compta amb les assignacions anuals que s’estableixen als pressupostos del Consell General.
+2. Correspon al Tribunal de Comptes la fiscalització externa de la gestió econòmica, financera i comptable de l’Agència.
+3. La intervenció del Consell General, d’acord amb les seves normes reguladores, fiscalitza tots els actes, documents i expedients amb incidència sobre les finances de l’Agència, la qual ha d’ajustar la seva comptabilitat al règim de comptabilitat pública preveient un règim intern de signatura mancomunada en la gestió de fons.
+4. La fiscalització només té en compte la legalitat dels precedents financers i no l’elecció de les prioritats en l’execució del mandat.
+
+**Article 53. Pressupost**
+
+L’Agència Andorrana de Protecció de Dades elabora anualment un projecte de pressupost, que sigui suficient, tant a nivell de recursos econòmics com humans, per desenvolupar de manera eficaç i eficient les seves competències. Aquest pressupost es presenta al Consell General, en el marc de les seves competències, per a la seva aprovació.
+
+**Article 54. Règim patrimonial i de contractació**
+
+1. L’adquisició, l’arrendament i la contractació de béns i serveis per part de l’Agència està sotmesa a la legislació vigent en matèria de contractació pública. Té l’obligació de respectar els principis d’objectivitat, concurrència, transparència i publicitat, en tot procediment de contractació de personal.
+2. L’Agència Andorrana de Protecció de Dades té un patrimoni propi constituït pels béns i pels drets que adquireix.
+3. L’òrgan de contractació de béns i serveis és la persona Cap de l’Agència, com a òrgan unipersonal.
+
+**Article 55. Sense contingut**
+
+Sense contingut
+
+**Article 56. Sense contingut**
+
+Sense contingut
+
+**Article 57. Sense contingut**
+
+Sense contingut
+
+**Article 58. Règim Retributiu**
+
+El règim retributiu de la persona Cap de l’Agència, del personal funcionari, així com del personal laboral s’ajusten a les previsions del pressupost de l’Agència aprovat pel Consell General. En tot cas, el règim retributiu de la persona Cap de l’Agència ha de ser aprovat per la Sindicatura, escoltada la Junta de Presidents.
+
+**Article 59. Abstenció i recusació**
+
+Els motius d’abstenció i de recusació de la persona Cap de l’Agència i del personal funcionari així com de la resta de personal de l’Agència són els que es recullen al Codi de l’Administració.
+
+#### Capítol setè. Potestats de l’autoritat de control independent andorrana
+
+**Article 60. Potestats d’autorització i consultives de l’Agència Andorrana de Protecció de Dades**
+
+L’Agència Andorrana de Protecció de Dades disposa de les potestats d’autorització i consultives indicades a continuació:
+a) Assessorar el responsable del tractament.b) Emetre, per iniciativa pròpia o prèvia sol·licitud, dictàmens destinats al Consell General, al Govern, o a altres institucions i organismes, així com al públic, sobre qualsevol assumpte relacionat amb la protecció de les dades personals.
+
+**Article 61. Dret a presentar una reclamació davant l’autoritat de control**
+
+$7e
+
+**Article 62. Potestats d’investigació de l’Agència Andorrana de Protecció de Dades**
+
+L’Agència Andorrana de Protecció de Dades disposa de les potestats d’investigació indicades a continuació:
+a) Ordenar al responsable i a l’encarregat del tractament de dades personals, i, si escau, al representant del responsable o de l’encarregat del tractament, que facilitin qualsevol informació necessària per a complir les seves funcions.b) Dur a terme investigacions en forma d’auditories de protecció de dades; si escau comptant amb experts nomenats ad hoc de manera motivada per l’APDA.c) Notificar al responsable o a l’encarregat del tractament les presumptes infraccions a aquesta Llei.d) Obtenir del responsable o de l’encarregat del tractament l’accés a totes les dades personals i a tota la informació necessària per a exercir les seves funcions.e) Obtenir l’accés a tots els locals del responsable i de l’encarregat del tractament, inclosos qualssevol equips i mitjans de tractament de dades.
+
+**Article 63. Exercici de les potestats d’investigació i d’inspecció de l’Agència Andorrana de Protecció de Dades**
+
+$80
+
+**Article 64. Procediment d’inspecció**
+
+El procediment d’inspecció s’ajusta a les normes que es determinen reglamentàriament.
+
+**Article 65. Procediment sancionador**
+
+$82
+
+**Article 66. Procediment d’urgència, mesures provisionals i de garantia dels drets**
+
+1. En circumstàncies extraordinàries i excepcionals, si l’Agència Andorrana de Protecció de Dades considera que és urgent intervenir per protegir els drets i les llibertats de les persones interessades, pot adoptar immediatament, de manera motivada, mesures provisionals destinades a produir efectes jurídics.
+2. Durant la pràctica de les actuacions prèvies d’investigació o iniciat un procediment sancionador, l’Agència Andorrana de Protecció de Dades també pot acordar motivadament les mesures provisionals necessàries i proporcionades per salvaguardar el dret fonamental a la intimitat.
+
+**Article 67. Potestats correctives de l’Agència Andorrana de Protecció de Dades**
+
+$84
+
+**Article 68. Condicions generals per imposar multes administratives**
+
+$86
+
+**Article 69. Tramitació del procediment sancionador en cas de procés penal**
+
+1. Si en el decurs de la tramitació d’un procediment sancionador a l’empara d’aquesta Llei es manifesten indicis de conductes que poden constituir una infracció penal, el cap de l’Agència Andorrana de Protecció de Dades ho ha de fer saber a l’òrgan jurisdiccional competent. D’altra banda, la persona competent per incoar el procediment o, si escau, l’instructor ha de suspendre, tot seguit, la tramitació de l’expedient esmentat, la qual cosa interromp el còmput dels terminis de prescripció i caducitat, d’acord amb el que estableix l’article següent.
+2. La declaració de fets provats que pugui fer el tribunal penal és vinculant per al cap de l’Agència Andorrana de Protecció de Dades en tant que òrgan competent per dictar la resolució sancionadora.
+
+**Article 70. Prescripció i caducitat de les infraccions**
+
+$88
+
+**Article 71. Dret a indemnització i responsabilitat**
+
+$8a
+
+**Article 72. Infraccions**
+
+$8c
+
+**Article 73. Sancions**
+
+L’incompliment d’aquesta Llei se sanciona tenint en compte la graduació establerta a l’apartat 2 de l’article 68.
+1. Les sancions administratives econòmiques per infraccions considerades molt greus se sancionen amb un import comprès entre 30.001 euros i 100.000 euros.
+2. Les sancions administratives econòmiques per infraccions considerades greus se sancionen amb un import comprès entre 15.001 euros i 30.000 euros.
+3. Les sancions administratives econòmiques per infraccions considerades lleus se sancionen amb un import comprès entre 500 euros i 15.000 euros.
+
+**Article 74. Règim aplicable a determinats responsables o encarregats del tractament**
+
+$8e

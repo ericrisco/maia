@@ -1,0 +1,420 @@
+# Llei del Procediment Contenciós Administratiu (Llei 9/2022)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/contenciós-administratiu
+Articles: 75 · versions consolidades: 3
+Instantania del consolidat: 2026-09-12T05:30:06.423593Z
+
+---
+
+### Títol I. Disposicions generals
+
+**Article 1. Àmbit de la jurisdicció administrativa. Manca de jurisdicció**
+
+1. L’àmbit de coneixement de la jurisdicció administrativa ve determinat per les normes dels convenis i acords internacionals que formen part de l’ordenament jurídic andorrà i per la Llei qualificada de la justícia.
+2. Els tribunals administratius s’han d’abstenir de conèixer un procés quan:
+a) Aquest coneixement correspon per raó de la matèria als tribunals de la jurisdicció civil o penal.b) Aquest coneixement correspon per raó de la matèria a una altra administració, organisme o entitat públics.
+
+**Article 2. Principis generals del procediment davant de la jurisdicció administrativa**
+
+1. El procediment davant de la jurisdicció administrativa es fonamenta en els principis d’audiència i contradicció. En el moment processal oportú totes les parts poden formular les pretensions i les al·legacions que tinguin per convenients, així com proposar els mitjans de prova que considerin pertinents.
+2. La jurisdicció administrativa impulsa d’ofici el procediment en totes les seves fases. Les parts i els altres intervinents en el procés han d’assumir les càrregues que els incumbeixen i han de complir els actes processals de la forma i en el temps deguts.
+3. El procediment davant de la jurisdicció administrativa s’inspira en el principi de congruència amb les pretensions de les parts, però, en atenció a l’interès públic, el tribunal pot sotmetre a la consideració de les parts, de la forma prevista per aquesta Llei, motius que no han estat al·legats, si els considera rellevants per a la resolució de la causa.
+4. El procediment davant de la jurisdicció administrativa s’inspira en el principi d’economia processal.
+5. El procediment davant de la jurisdicció administrativa és escrit, sense perjudici de la possibilitat de celebrar vistes o audiències, d’acord amb aquesta Llei.
+
+**Article 3. Objecte del recurs contenciós administratiu**
+
+1. L’objecte del recurs contenciós administratiu queda delimitat per les pretensions que les parts hi exerceixin degudament.
+2. No són susceptibles d’impugnació els actes administratius que siguin reproducció d’altres actes anteriors definitius i ferms, ni els que siguin confirmatoris d’altres actes que han estat consentits, en no haver estat recorreguts en temps i forma.
+
+**Article 4. Pretensions que es poden exercir davant de la jurisdicció administrativa**
+
+$1f
+
+**Article 5. Acumulació de pretensions i acumulació de processos**
+
+$21
+
+**Article 6. Suspensió de l’acte impugnat i altres mesures cautelars**
+
+1. La interposició d’un recurs contenciós administratiu no comporta la suspensió de l’acte o de la norma reglamentària impugnats, però el tribunal la pot acordar, d’ofici o a instància de part, sempre que l’execució de l’acte o l’aplicació de la norma recorreguts puguin causar perjudicis d’impossible o de difícil reparació, o en el cas que l’acte s’impugni per les causes de nul·litat de ple dret.
+2. Quan el recurs s’adreci contra una actuació constitutiva de via de fet, la part recurrent pot demanar la suspensió i també l’adopció d’altres mesures cautelars.
+3. Quan de la suspensió o de l’altra mesura cautelar que se sol·liciti en puguin derivar perjudicis de qualsevol naturalesa, el tribunal pot acordar les mesures que siguin adequades per evitar o pal·liar aquells perjudicis; també pot demanar la prestació d’una caució suficient per respondre’n.
+
+**Article 7. Valor econòmic de la pretensió**
+
+$23
+
+**Article 8. Costes processals**
+
+1. Per regla general, cada part es fa càrrec de les costes processals causades a la seva instància, i es reparteixen les comunes. Això no obstant, el tribunal pot imposar les costes del procés a una de les parts, si aprecia que ha sostingut la seva acció o ha interposat el recurs amb temeritat o mala fe.
+2. La imposició de costes pot ser de la totalitat, d’una part, o fins a una xifra màxima.
+3. Les costes són taxades d’acord amb el que estableix el Codi de procediment civil.
+
+### Títol II. Parts
+
+**Article 9. Capacitat per ser part**
+
+Tenen capacitat per ser part davant de la jurisdicció administrativa les mateixes persones i entitats que la tenen davant de la jurisdicció civil.
+
+**Article 10. Capacitat processal**
+
+1. Tenen capacitat processal davant de la jurisdicció administrativa les mateixes persones i entitats que la tenen davant de la jurisdicció civil.
+2. També tenen capacitat processal davant de la jurisdicció administrativa les persones menors d’edat per a la defensa dels drets i interessos legítims que, d’acord amb l’ordenament jurídic, puguin exercir per elles mateixes, sense necessitat d’assistència de la persona que exerceix l’autoritat parental, la tutela o la curatela.
+
+**Article 11. Legitimació activa**
+
+$25
+
+**Article 12. Legitimació passiva**
+
+1. És part demandada l’Administració autora de l’acte o actuació que s’impugna.
+2. S’ha de considerar part codemandada qualsevol persona o entitat els drets de la qual puguin resultar afectats per l’estimació de les pretensions que s’exerceixen en la demanda.
+3. Quan la part recurrent fonamenti les seves pretensions en la il·legalitat d’una norma, es considera també part codemandada l’Administració autora de la norma, encara que l’acte o l’activitat recorreguda no procedeixi d’ella.
+
+**Article 13. Intervenció com adherent**
+
+1. Pot intervenir en el procés, com a adherent, tota persona o entitat, pública o privada, que tingui un interès directe i legítim en l’objecte del judici.
+2. Quan rep una demanda d’adhesió, el tribunal la trasllada a totes les parts personades en el procés, al sol efecte que es puguin oposar a l’adhesió en el termini de vuit dies hàbils. Després resol sobre la demanda d’adhesió en vuit dies hàbils més.
+3. La intervenció com a adherent pot ésser admesa en qualsevol fase del procediment abans de la sentència, però la intervenció de l’adherent no retrotreu les actuacions practicades.
+4. L’adherent no pot exercir pretensions en nom propi; únicament pot sostenir la pretensió d’una de les parts principals, i no pot interposar recurs d’apel·lació si no ho fa la part principal.
+
+**Article 14. Successió processal**
+
+Si la legitimació d’una part deriva d’un dret o una relació jurídica transmissibles i es produeix la transmissió, ja sigui entre vius o per causa de mort, el causahavent pot succeir processalment aquesta persona, ocupant la mateixa posició que aquesta darrera tenia, en qualsevol moment del procés. Són aplicables les regles previstes en el Codi de procediment civil.
+
+**Article 15. Defensa jurídica i representació processal**
+
+1. Amb caràcter general, en tots els processos davant de la jurisdicció administrativa és preceptiva la defensa i l’assistència tècnica prestada per un advocat col·legiat.
+2. Les parts poden comparèixer en el procés personalment o representades per un advocat o un procurador col·legiats, llevat que una llei estableixi una altra cosa. No obstant això, en cas que les parts siguin persones jurídiques, han de comparèixer necessàriament representades per un procurador col·legiat, llevat que una llei estableixi una altra cosa.
+3. Les administracions públiques són defensades i representades davant de la jurisdicció administrativa pels lletrats adscrits a llurs gabinets jurídics; també poden utilitzar els serveis d’advocats i procuradors col·legiats.
+
+### Títol III. Recurs contenciós administratiu
+
+#### Capítol primer. Procediment en primera instància
+
+##### Secció primera. Demanda i admissió del recurs
+
+**Article 16. Demanda**
+
+$27
+
+**Article 17. Termini**
+
+1. El termini per a la interposició del recurs contenciós administratiu és de dos mesos a comptar de la data de la notificació de l’acte, quan aquest sigui impugnable directament en via jurisdiccional, o de la data de la notificació de la resolució del recurs administratiu previ. Si no s’ha produït la notificació, el termini és de sis mesos a comptar de la data en què la sol·licitud o el recurs s’hagin de considerar desestimats per silenci administratiu, d’acord amb les disposicions legals aplicables.
+2. El termini per a la interposició del recurs de lesivitat és de dos mesos a comptar de la data de la declaració de lesivitat.
+3. Si el recurs s’adreça contra una actuació en via de fet, el termini és de dos mesos a comptar del moment en què l’actuació administrativa és coneguda pel recurrent.
+
+**Article 18. Admissió del recurs**
+
+$29
+
+**Article 19. Publicació**
+
+1. Admès el recurs, el tribunal ordena que l’admissió es publiqui al
+Butlletí Oficial del Principat d’Andorra
+, a fi que puguin intervenir en el procés totes les persones interessades.
+2. La publicació es limita a identificar la norma reglamentària, l’acte o l’actuació que és objecte del recurs, i l’Administració pública de la qual emana, i no ha d’esmentar el nom de la persona o persones que recorren.
+
+##### Secció segona. Suspensió de l’acte impugnat i mesures cautelars
+
+**Article 20. Suspensió de l’acte impugnat i altres mesures cautelars**
+
+1. Quan el recurrent hagi demanat la suspensió de l’acte o de la norma reglamentària impugnats o l’adopció d’altres mesures cautelars, d’acord amb el que estableix l’article 6, el tribunal examina si ha justificat la concurrència dels pressupòsits necessaris per acordar-ho i, en cas afirmatiu, ho trasllada a totes les altres parts, i els concedeix un termini de vuit dies hàbils per a al·legacions. Altrament, denega la petició.
+2. A la vista de les al·legacions presentades, el tribunal decideix sobre la suspensió o l’adopció d’altres mesures. En tot cas, denega la suspensió de l’acte o de la norma, quan pugui provocar una pertorbació greu de l’interès general o de terceres persones.
+3. Contra l’aute que resol sobre la suspensió de l’acte o la norma reglamentària impugnats o que adopta alguna altra mesura cautelar hi cap recurs d’apel·lació.
+
+##### Secció tercera. Contesta i remissió de l’expedient
+
+**Article 21. Trasllat de la demanda**
+
+Admès el recurs, el tribunal trasllada la demanda a la part o les parts demandades i els concedeix un termini comú de vint dies hàbils per contestar-la.
+
+**Article 22. Persones codemandades**
+
+1. Si l’Administració demandada constata que l’acte impugnat genera drets a favor de persones que no han estat demandades, ho ha de comunicar al tribunal perquè les citi com a codemandades, i ha d’indicar-ne el domicili, sempre que el conegui. També ho poden fer les parts codemandades, en el mateix supòsit.
+2. Si el tribunal constata que l’acte impugnat genera drets a favor de persones que no han estat demandades, trasllada, d’ofici, la demanda a aquestes persones.
+3. Quan el tribunal trasllada la demanda a les persones que s’han de considerar codemandades i que no han estat identificades com a tals a la demanda, ho ha de notificar a totes les altres parts.
+
+**Article 23. Remissió de l’expedient**
+
+1. Amb l’escrit de contesta a la demanda, l’Administració demandada ha d’acompanyar una còpia de l’expedient administratiu.
+2. La còpia de l’expedient s’ha de lliurar completa, foliada, autenticada i amb un índex; pot ser en format electrònic. L’Administració remitent conserva l’original de l’expedient.
+3. No obstant el que estableix l’apartat precedent, l’Administració remitent pot excloure de l’expedient els documents classificats com de caràcter reservat o secret. En aquest cas, l’Administració ha de fer constar l’exclusió a l’índex de l’expedient, i també en el lloc on s’haurien de trobar els documents exclosos.
+4. L’Administració pot suprimir de l’expedient administratiu les dades protegides per la Llei de protecció de dades personals, i les dades comercials que no hagin de ser conegudes per les empreses competidores.
+
+**Article 24. Contingut de la contesta**
+
+1. L’escrit de contesta s’estructura de forma similar a la demanda. La part demandada ha de negar, admetre o matisar els fets exposats a la demanda i ha d’invocar els fonaments de dret que consideri procedents.
+2. En l’escrit de contesta la part demandada pot invocar, amb caràcter previ, l’existència d’alguna de les causes d’inadmissibilitat del recurs previstes a l’apartat 2 de l’article 18. Aquesta invocació no l’eximeix de contestar al fons de la demanda.
+3. En el cas que la part demandada vulgui proposar com a prova un document o un informe pericial que no consti en l’expedient administratiu, l’ha d’acompanyar a l’escrit de contesta o, si no està en disposició de fer-ho, ha d’anunciar la seva intenció d’aportar-lo posteriorment. Sense aquest anunci, el document o dictamen pericial no podrà ser admès posteriorment com a prova.
+
+**Article 25. Falta de presentació de la contesta**
+
+Si l’Administració o una altra part demandada no contesta la demanda dins del termini establert, perd la possibilitat de fer-ho, però això no comporta que admeti els fets continguts a la demanda ni que doni la seva conformitat a les peticions del demandant. En qualsevol cas, l’Administració ha de remetre al tribunal l’expedient administratiu; si no ho fa, el tribunal procedeix d’acord amb l’article següent.
+
+**Article 26. Falta de remissió de l’expedient**
+
+$2b
+
+**Article 27. Trasllat de la contesta i de l’expedient**
+
+Rebut l’escrit o els escrits de contesta i l’expedient administratiu, el tribunal els trasllada a totes les altres parts. Quan no s’ha presentat l’escrit de contesta dins de termini, el tribunal trasllada a totes les altres parts l’expedient administratiu i prossegueix la tramitació.
+
+**Article 28. Resolució de les al·legacions d’inadmissibilitat**
+
+1. Si la part demandada ha al·legat alguna causa d’inadmissibilitat del recurs, en traslladar l’escrit de contesta a la part demandant, el tribunal li concedeix un termini de vuit dies hàbils perquè manifesti allò que tingui per convenient, exclusivament en relació amb aquelles al·legacions.
+2. Transcorregut el termini esmentat a l’apartat precedent, si el tribunal aprecia l’existència d’alguna de les causes d’inadmissibilitat invocades, resol, mitjançant un aute, que el recurs no és admissible; altrament, dicta una providència per ordenar la prossecució del procés, i en posposa la resolució fins a la sentència.
+3. Contra l’aute que declara que el recurs no és admissible hi cap recurs d’apel·lació. La providència que ordena la prossecució del procés no és susceptible de recurs, i no prejutja la resolució definitiva.
+
+**Article 29. Expedient administratiu incomplet**
+
+Si la part demandant considera que l’expedient administratiu que ha remès l’Administració demandada no està complet, pot demanar, dins del termini de vuit dies hàbils, que es reclamin els documents que falten. També pot demanar que es completi l’expedient si considera que algun dels documents que han estat exclosos per l’Administració o alguna de les dades que hi ha estat suprimides resulten necessaris per a la resolució del recurs. El tribunal resol allò que procedeixi en el termini de vuit dies hàbils. Si el tribunal reclama a l’Administració demandada que completi l’expedient i aquesta darrera no atén el requeriment, el tribunal aplica el procediment previst a l’article 26.
+
+**Article 30. Al·legacions complementàries**
+
+1. Si l’escrit de contesta a la demanda esmenta fets nous, no invocats a la demanda, i que tinguin transcendència per a la resolució del litigi, la part demandant pot formular al·legacions complementàries, exclusivament sobre aquests fets, en el termini de vuit dies hàbils a comptar del dia en què ha rebut trasllat de l’escrit de contesta.
+2. Si l’Administració demandada lliura o completa l’expedient amb posterioritat a la contesta a la demanda, la part demandant pot formular al·legacions complementàries en relació amb els documents aportats en el termini de vuit dies hàbils a comptar del dia en què n’ha rebut trasllat.
+3. Quan admet un escrit d’al·legacions complementàries, el tribunal el trasllada a totes les altres parts, i els concedeix un termini de vuit dies hàbils per contestar aquestes al·legacions.
+
+##### Secció quarta. Prova
+
+**Article 31. Proposició de prova**
+
+1. Una volta transcorregut el termini per presentar al·legacions complementàries, si no se’n presenten, o transcorregut el termini de contesta a les al·legacions complementàries, quan se n’hagin presentat, el tribunal notifica a les parts, per providència, l’obertura del termini de proposició de prova. Aquesta providència l’ha de dictar en el termini de vuit dies hàbils des que finalitzi aquell termini.
+2. El termini de proposició de prova és de tretze dies hàbils, comuns a totes les parts.
+
+**Article 32. Admissió i pràctica de la prova**
+
+$2d
+
+**Article 33. Càrrega de la prova**
+
+1. Correspon a les parts la càrrega de provar la certesa dels fets en què fonamenten les pretensions respectives. El tribunal ha de tenir presents la disponibilitat i la facilitat probatòria que correspon a cada una de les parts del procés.
+2. No obstant el que estableix el paràgraf precedent, en els processos en què es justifiqui la concurrència d’indicis que s’ha produït una conducta lesiva dels drets fonamentals o de les llibertats públiques, o una conducta discriminatòria per algun dels motius prohibits per la Constitució o les lleis, correspon a la part demandada aportar una justificació objectiva i raonable, suficientment provada, de les mesures adoptades i de la seva proporcionalitat.
+
+**Article 34. Prova d’ofici**
+
+Durant el període de prova, el tribunal pot decidir d’ofici la pràctica de les proves que consideri pertinents per resoldre millor les qüestions que li són sotmeses.
+
+##### Secció cinquena. Conclusions
+
+**Article 35. Escrits de conclusions**
+
+1. Acabada la pràctica de les proves, el tribunal trasllada el resultat a les parts i els concedeix un termini comú de tretze dies hàbils per formular els seus escrits de conclusions.
+2. En els escrits de conclusions les parts no poden plantejar qüestions que no hagin estat suscitades en els escrits de demanda i de contesta.
+
+##### Secció sisena. Actuacions potestatives del tribunal abans de la sentència
+
+**Article 36. Diligències per proveir millor**
+
+1. Dins del termini de què disposa per dictar sentència, el tribunal pot decidir, d’ofici o a instància de part, que es practiquin proves com a diligències per proveir millor sobre fets rellevants, si considera que les proves practicades no han permès esclarir els fets essencials en què es fonamenta el procés.
+2. Si el tribunal acorda la pràctica de proves després que les parts hagin presentat els seus escrits de conclusions, els ha de traslladar el resultat de les noves proves practicades, i concedir-los un termini comú de tretze dies hàbils per formular conclusions complementàries.
+3. Contra l’aute que acorda o denega la pràctica de diligències per proveir millor no es pot interposar cap recurs.
+
+**Article 37. Motius no al·legats per les parts**
+
+Sense perjudici del principi de congruència amb les peticions de les parts, que regeix el procés davant de la jurisdicció administrativa, quan el tribunal consideri que hi ha motius rellevants per a la resolució de la causa diferents dels que han estat al·legats, pot decidir de sotmetre’ls a la consideració de les parts mitjançant una providència en la qual, tot i advertir que no prejutja la decisió definitiva, exposa quins són aquests motius i concedeix a les parts un termini comú de tretze dies hàbils perquè puguin formular al·legacions sobre ells. Contra aquesta providència no s’hi pot interposar cap recurs.
+
+##### Secció setena. Sentència
+
+**Article 38. Termini per dictar la sentència**
+
+1. El tribunal dicta la sentència dins dels trenta dies hàbils següents al dia en què finalitza el termini per presentar conclusions per la part o les parts demandades.
+2. En cas que el tribunal acordi la pràctica de proves com a diligències per a millor proveir, o faci ús del dret a què es refereix l’article 37, el termini assenyalat a l’apartat anterior se suspèn des que es notifica l’aute o la providència corresponent a les parts, i es torna a comptar a partir del dia en què finalitza el termini de què disposen les parts per fer les conclusions complementàries.
+
+**Article 39. Motivació i pronunciaments de la sentència**
+
+$2f
+
+**Article 40. Contingut de la sentència estimatòria**
+
+$31
+
+**Article 41. Efectes de la sentència**
+
+1. Les sentències fermes únicament produeixen efectes entre les parts. Per excepció, les sentències fermes que anul·len una norma reglamentària s’han de publicar al
+Butlletí Oficial del Principat d’Andorra
+i tenen efectes generals des del dia de la publicació. També s’han de publicar les sentències fermes que anul·len un acte administratiu que afecti una pluralitat indeterminada de persones.
+2. Les sentències fermes que anul·len una norma reglamentària no afecten l’eficàcia d’altres sentències o actes administratius ferms que hagin aplicat aquella norma amb anterioritat, però quan l’anul·lació sigui d’una norma sancionadora, tenen efectes respecte de les sancions que havien estat imposades en aplicació d’aquella norma i que encara no han estat executades; si s’havien executat parcialment, tenen efectes únicament respecte de la part no executada.
+
+##### Secció vuitena. Altres modes d’acabament del procés
+
+**Article 42. Desistiment**
+
+1. El recurrent pot desistir unilateralment del seu recurs, en qualsevol moment anterior a la sentència.
+2. L’escrit de desistiment presentat per una part es trasllada a totes les altres parts. Si aquestes darreres presten el seu consentiment al desistiment o no s’hi oposen en el termini de tretze dies hàbils, i el tribunal no aprecia dany per a l’interès públic, dicta un aute en què declara acabat el procés. En cas contrari, el tribunal resol allò que procedeixi.
+3. Si qui desisteix és una Administració pública, ha de presentar un certificat de l’acord vàlidament adoptat per l’òrgan competent, sense el qual no es pot acceptar el desistiment.
+4. Quan hi hagi més d’un recurrent, el desistiment d’un d’ells no afecta els altres, i el judici ha de continuar en relació amb els recurrents que no hagin desistit.
+5. El desistiment no comporta necessàriament la condemna en costes.
+
+**Article 43. Aplanament**
+
+$33
+
+**Article 44. Satisfacció extraprocessal**
+
+1. Si després de la interposició d’un recurs contenciós administratiu l’Administració demandada resol de forma conforme a les pretensions que s’exerceixen en aquell recurs, l’Administració, o el mateix recurrent, ho ha de comunicar al tribunal, que, després d’escoltar les parts, declara acabat el procés.
+2. Si l’Administració dicta posteriorment un nou acte que revoca o priva totalment o parcialment d’efectes la resolució prevista a l’apartat precedent, el recurrent pot reproduir la demanda, sense necessitat de recurs administratiu previ, dins del termini previst a l’article 17, a comptar de la notificació d’aquest nou acte.
+
+#### Capítol segon. Recursos
+
+##### Secció primera. Recurs de reposició
+
+**Article 45. Resolucions susceptibles de recurs de reposició**
+
+1. Es pot interposar un recurs de reposició contra les providències i els autes no susceptibles d’apel·lació davant del mateix tribunal que els ha dictat, llevat que aquesta Llei o les altres lleis aplicables estableixin que contra aquestes resolucions no hi cap recurs.
+2. També es pot interposar un recurs de reposició contra les interlocutòries i els acords no definitius que dicti el secretari judicial, davant del mateix secretari judicial que els ha dictat, llevat que aquesta Llei o una altra llei estableixin expressament que no hi cap recurs.
+3. El recurs de reposició no té efecte suspensiu de la resolució recorreguda.
+
+**Article 46. Tramitació i resolució del recurs de reposició**
+
+1. El recurs de reposició s’interposa en el termini de tretze dies hàbils a comptar de la notificació de la resolució objecte de recurs, mitjançant un escrit fonamentat al qual s’ha d’adjuntar una còpia de la resolució objecte de recurs en la qual consti la data en què s’ha notificat.
+2. El tribunal o el secretari judicial verifica que el recurs reuneix els requisits necessaris per ser admès i el trasllada a les altres parts personades en el procés perquè formulin al·legacions en el termini de tretze dies hàbils. Posteriorment, el tribunal o el secretari judicial decideix mitjançant un aute o un acord, respectivament.
+3. Contra l’aute o l’acord que resol el recurs de reposició no es pot interposar cap altre recurs, sense perjudici que es puguin reproduir els motius que l’han fonamentat en el recurs d’apel·lació que eventualment s’interposi contra la resolució que posi fi a la instància.
+
+##### Secció segona. Recurs d’apel·lació contra sentències
+
+**Article 47. Recurs d’apel·lació contra sentències**
+
+1. Les sentències dictades per la Secció Administrativa del Tribunal de Batlles són susceptibles de recurs d’apel·lació davant de la Sala Administrativa del Tribunal Superior de Justícia, excepte les que resolguin assumptes de quantia inferior a 1.500 euros. El recurs d’apel·lació contra sentències obre la segona instància del procés.
+2. El recurs d’apel·lació contra sentències té efecte devolutiu i efecte suspensiu, llevat que una llei ho estableixi altrament.
+
+**Article 48. Motius d’apel·lació**
+
+$35
+
+**Article 49. Proves en la segona instància**
+
+1. Les parts poden proposar la pràctica de proves en la segona instància únicament en els supòsits següents:
+a) Quan el tribunal no hagi admès la pràctica de les proves proposades en la primera instància de forma indeguda, sempre que la part interessada hi hagi formulat recurs de reposició i manifestació de protesta.b) Quan les proves proposades i admeses en primera instància no s’hagin pogut practicar per qualsevol causa no imputable a la part que les ha proposat.c) Quan les proves es fonamentin en fets nous o de nova notícia, sempre que aquests fets siguin rellevants per resoldre el recurs i hagin tingut lloc o s’hagin conegut després del tràmit de proposició de prova en la primera instància.
+2. El tribunal pot decidir d’ofici la pràctica de proves en la segona instància, si considera que les proves practicades no han permès esclarir els fets essencials en què es fonamenta el procés.
+
+**Article 50. Interposició i admissió del recurs d’apel·lació**
+
+$37
+
+**Article 51. Trasllat i oposició al recurs d’apel·lació**
+
+1. Un cop admès el recurs d’apel·lació, el tribunal el trasllada a les altres parts personades en el procés perquè formulin al·legacions en un termini comú de vint dies hàbils.
+2. Les parts apel·lades es poden oposar al recurs i poden fer les al·legacions que considerin oportunes en relació amb els arguments formulats i les proves proposades per la part apel·lant, i en relació amb l’admissibilitat del recurs. També poden proposar la pràctica de proves en els casos que estableix l’article 49, i poden demanar la celebració d’una vista, la presentació d’escrits de conclusions, o que la causa es declari conclusa per a sentència.
+
+**Article 52. Admissió de les proves i assenyalament de la vista**
+
+$39
+
+**Article 53. Escrits de conclusions**
+
+1. Quan no ha assenyalat una vista, després de rebre l’escrit o els escrits d’oposició a l’apel·lació, el tribunal els trasllada a la part apel·lant i li concedeix un termini de tretze dies hàbils per formular un escrit de conclusions. La part apel·lant pot renunciar a aquest tràmit.
+2. Si la part apel·lant formula conclusions, el tribunal les trasllada a la part o les parts apel·lades, i els concedeix un termini comú de tretze dies hàbils amb el mateix objecte.
+
+**Article 54. Sentència**
+
+$3b
+
+##### Secció tercera. Recurs d’apel·lació contra autes
+
+**Article 55. Recurs d’apel·lació contra autes**
+
+1. Són susceptibles de recurs d’apel·lació els autes dictats per la Secció Administrativa del Tribunal de Batlles que declaren que el recurs contenciós administratiu no és admissible, i també els que impossibiliten la continuació del procés o que deixen resolta definitivament alguna de les qüestions litigioses. El recurs d’apel·lació contra autes no obre la segona instància del procés.
+2. El recurs d’apel·lació contra autes té efecte devolutiu però no té efecte suspensiu, llevat que una llei ho estableixi altrament.
+
+**Article 56. Tramitació del recurs d’apel·lació contra autes**
+
+El recurs d’apel·lació contra autes es tramita d’acord amb les normes de la secció precedent, però amb les especialitats següents:
+1. El termini per interposar el recurs d’apel·lació contra autes és de tretze dies hàbils.
+2. Si el president de la Sala Administrativa del Tribunal Superior de Justícia admet el recurs, el trasllada a les altres parts personades en el procés perquè formulin al·legacions en un termini comú de tretze dies hàbils.
+3. En el recurs d’apel·lació contra autes no se celebra vista oral ni tràmit de conclusions. El tribunal resol en el termini de trenta dies hàbils a comptar del dia en què finalitza el termini d’al·legacions de les parts apel·lades, i pot fer ús de la facultat prevista a l’article 37, amb la suspensió del termini per resoldre.
+
+#### Capítol tercer. Revisió de les sentències fermes
+
+**Article 57. Judici de revisió**
+
+1. Les sentències fermes dictades per un tribunal de la jurisdicció administrativa es poden revisar mitjançant el judici de revisió en els supòsits següents:
+a) Si s’acredita que ha concorregut el suborn, la violència, la prevaricació judicial o una maquinació fraudulenta que hagi afectat el procés.b) Si en un procés penal es demostra la falsedat dels documents, els testimonis o els dictàmens pericials que han fonamentat la sentència.c) Si després que la sentència hagi esdevingut ferma s’han obtingut o recobrat documents rellevants per resoldre el procés que no hi hagin estat aportats per causa de força major o per obra de la part a qui afavoreix la sentència.
+2. També es pot promoure un judici de revisió arran d’una decisió definitiva del Tribunal Europeu de Drets Humans, d’acord amb el que estableixen la Llei qualificada de la justícia i la Llei transitòria de procediments judicials.
+
+**Article 58. Competència**
+
+És competent per conèixer i resoldre el judici de revisió de sentències de la jurisdicció administrativa la Sala Administrativa del Tribunal Superior de Justícia.
+
+**Article 59. Procediment**
+
+El judici de revisió es regeix per les normes del Codi de procediment civil, de la Llei qualificada de la justícia i de la Llei transitòria de procediments judicials.
+
+### Títol IV. Execució de les sentències i dels actes administratius
+
+#### Capítol primer. Disposicions generals i execució voluntària
+
+**Article 60. Obligació de donar compliment a les resolucions fermes. Deure de col·laboració**
+
+1. Les parts estan obligades a complir les sentències i les altres resolucions fermes de la jurisdicció administrativa, en els termes que s’hi consignen.
+2. Totes les persones, entitats i administracions públiques estan obligades a prestar la col·laboració requerida pels òrgans jurisdiccionals per executar les sentències i les altres resolucions fermes de la jurisdicció administrativa.
+
+**Article 61. Protecció de les resolucions fermes**
+
+Els actes, les normes reglamentàries i les actuacions administratives contraris a les sentències i a les altres resolucions fermes de la jurisdicció administrativa o que es dictin amb la finalitat d’eludir-ne el compliment són nuls. La nul·litat la declara, a instància de les persones interessades, l’òrgan jurisdiccional al qual correspongui l’execució de la sentència, que també pot ordenar a l’Administració que reposi la situació a l’estat que preveia la sentència o resolució, si l’havia alterat, i que indemnitzi pels danys i perjudicis que la seva actuació hagi ocasionat. El procediment per demanar-ho és el previst a l’article 75.
+
+**Article 62. Publicació de les sentències**
+
+1. Si una sentència anul·la, totalment o parcial, una norma reglamentària o un acte administratiu que afecti una pluralitat indeterminada de persones, així que sigui ferma la sentència el tribunal ha d’ordenar que sigui publicada en el
+Butlletí Oficial del Principat d’Andorra
+.
+2. El tribunal també pot ordenar, d’ofici o a instància de part, la publicació en el
+Butlletí Oficial del Principat d’Andorra
+de les sentències en altres supòsits diferents als previstos a l’apartat precedent, quan consideri que hi ha un motiu d’interès públic que ho justifica.
+
+**Article 63. Execució per l’Administració**
+
+Les administracions públiques han de complir les sentències en el termini de sis mesos a comptar de la data en què siguin fermes, sempre que la sentència no hagi establert un termini diferent per a l’execució. Transcorregut aquest termini, qualsevol part en el judici i qualsevol altra persona que justifiqui un interès legítim, personal i directe en pot instar l’execució forçosa.
+
+**Article 64. Ampliació dels crèdits pressupostaris**
+
+Quan els crèdits pressupostaris disponibles no siguin suficients per satisfer els pagaments imposats a l’Administració per una sentència condemnatòria, l’Administració ha d’ampliar-los d’acord amb les normes que siguin aplicables; a aquest efecte, els crèdits esmentats tenen sempre el caràcter d’ampliables. Si això no resulta possible, l’Administració ha de preveure els crèdits necessaris en el pressupost de l’exercici immediatament següent. L’Administració pot enervar l’eventual demanda d’execució que s’hagi presentat fins que estigui aprovat aquest nou pressupost, si justifica que és necessària per procedir al pagament.
+
+**Article 65. Meritació d’interessos**
+
+Els crèdits líquids contra l’Administració reconeguts per una sentència ferma meriten l’interès legal del diner a partir de la data de notificació de la sentència, salvat que aquesta darrera estableixi una altra cosa. Això no obstant, i amb la mateixa excepció, si transcorren sis mesos des de la data esmentada sense que l’Administració els hagi liquidat, en lloc de l’interès legal s’ha d’aplicar el tipus de l’interès moratori a tot el període.
+
+**Article 66. Compensació de crèdits**
+
+L’Administració pot pagar les sumes que hagi estat condemnada a satisfer a les parts en el judici mitjançant la compensació dels crèdits que tingui enfront d’elles.
+
+**Article 67. Impossibilitat d’execució**
+
+Quan una Administració consideri que hi ha causes d’impossibilitat material o legal per executar una sentència o resolució ferma que la condemna, ho ha de manifestar al tribunal per tal que apreciï si efectivament concorren o no aquestes causes, i perquè adopti les mesures necessàries per assegurar la màxima efectivitat d’allò que disposa la sentència o resolució i, quan sigui el cas, fixi la indemnització que sigui procedent per la part en què no pugui ser objecte de compliment. Aquesta manifestació l’ha de fer en el termini de sis mesos a comptar de la data de notificació de la sentència, i d’acord amb el procediment previst a l’article 75.
+
+**Article 68. Expropiació de drets**
+
+1. Excepcionalment, si concorre una causa d’utilitat pública o d’interès social, l’Administració pot instar l’expropiació dels drets reconeguts a les altres parts per una sentència o resolució ferma que la condemni. L’expedient d’expropiació d’aquests drets es regeix per la Llei d’expropiació, s’ha d’iniciar en el termini de sis mesos des de la data de fermesa de la sentència o resolució, i l’Administració ho ha de notificar al tribunal, d’acord amb el procediment previst a l’article 74.
+2. Són causes d’utilitat pública o d’interès social per expropiar els drets reconeguts enfront de l’Administració per una sentència ferma el perill d’alteració greu del lliure exercici dels drets i llibertats dels ciutadans, i el temor fonamentat que l’execució produeixi un incident internacional, o que afecti la integritat territorial del Principat.
+
+#### Capítol segon. Execució forçosa i incidents d’execució
+
+**Article 69. Competència**
+
+$3d
+
+**Article 70. Demanda d’execució**
+
+$3f
+
+**Article 71. Execució contra l’Administració**
+
+Si la sentència condemna l’Administració a pagar una suma de diners o a dur a terme una activitat determinada, en cas d’incompliment el tribunal pot adoptar les mesures necessàries perquè la decisió adquireixi l’eficàcia que seria inherent a l’acte omès, entre les quals l’execució subsidiària amb càrrec a l’Administració condemnada.
+
+**Article 72. Multes coercitives**
+
+En fase d’execució, el tribunal pot imposar multes coercitives d’un import comprès entre 500 i 2.500 euros a les autoritats, els funcionaris o els treballadors públics que incompleixin els seus requeriments, i reiterar aquestes multes fins a l’execució completa de la sentència. Aquestes multes coercitives es regeixen pel procediment previst a l’article 26.
+
+**Article 73. Responsabilitat penal**
+
+Les autoritats administratives poden incórrer en responsabilitat penal per incompliment dolós o culpós de les sentències de la jurisdicció administrativa. Amb aquesta finalitat, el tribunal administratiu que s’ocupa de l’execució de la sentència pot comunicar els fets al Ministeri Fiscal.
+
+**Article 74. Incidents d’execució**
+
+$41
+
+**Article 75. Recurs contra els autes en fase d’execució**
+
+Els autes dictats pel Tribunal de Batlles en matèria d’execució són susceptibles de recurs d’apel·lació, d’acord amb les normes de la |secció tercera del capítol segon del títol III.

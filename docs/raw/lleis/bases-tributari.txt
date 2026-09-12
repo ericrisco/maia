@@ -1,0 +1,916 @@
+# Llei de bases de l'ordenament tributari (Llei 21/2014)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/bases-tributari
+Articles: 159 · versions consolidades: 6
+Instantania del consolidat: 2026-09-12T05:30:10.794764Z
+
+---
+
+### Títol I. Disposicions generals
+
+#### Capítol primer. De la naturalesa, el concepte i els principis generals
+
+**Article 1. Naturalesa i abast**
+
+1. Aquesta Llei estableix les normes generals i els principis bàsics que constitueixen el règim jurídic del sistema tributari i pels quals, a manca de llei específica en contra, es regeixen els tributs i les relacions entre l’Administració tributària i els obligats tributaris.
+2. Allò establert en aquesta Llei és aplicable a tot el territori del Principat d’Andorra i a tots els obligats tributaris, tant si són residents com si no ho són.
+
+**Article 2. Concepte, fins i classes de tributs**
+
+1. És tribut el recurs de les finances públiques consistent en una prestació dinerària obligatòria, establerta a càrrec dels obligats tributaris que, com a conseqüència de la realització del supòsit de fet establert a la Llei, tinguin el deure de contribuir, per tal d’atendre la realització dels principis i les finalitats que conté la Constitució.
+2. El rendiment dels tributs es destina a finançar indistintament el conjunt de les obligacions econòmiques de les finances públiques, llevat de les contribucions especials o dels tributs als quals la llei atribueix finalitats determinades.
+3. Són elements essencials dels tributs les determinacions del fet generador, dels obligats tributaris, de la base de tributació, dels tipus de gravamen, de la meritació, de la quota i del deute tributari.
+4. Les multes i sancions pecuniàries administratives o penals no són tributs.
+5. Tampoc no són tributs els preus públics o les contraprestacions en diner satisfetes per la prestació de serveis públics o la realització de funcions administratives que no són de sol·licitud o de recepció obligatòria.
+6. Els tributs es classifiquen en impostos, taxes i contribucions especials.
+a) Els impostos són tributs, el fet generador dels quals és un negoci, un acte o un fet indicador de capacitat econòmica de l’obligat tributari o de la persona o entitat que ha de suportar el gravamen i que mai no depèn d’una activitat de l’Administració.b) Les taxes són tributs el fet generador dels quals és la utilització privada o l’aprofitament especial del domini públic, la prestació d’un servei públic o la realització d’una funció administrativa de sol·licitud o de recepció obligatòria que es refereix a l’obligat tributari, o l’afecta o el beneficia de manera particular.c) Les contribucions especials són tributs el fet generador dels quals és l’acord de realització de determinades obres o l’establiment o l’ampliació dels serveis públics, sotmès al requisit d’eficàcia de la realització efectiva, que produeixen, ultra el benefici general per a tota la comunitat, un augment de valor dels béns de l’obligat tributari o el beneficien especialment d’alguna manera.
+
+**Article 3. Principis de l’ordenació i aplicació del sistema tributari**
+
+1. El criteri de repartiment just de les càrregues tributàries en el Principat d’Andorra de tots els que contribueixen al seu sosteniment es basa en el principi de capacitat econòmica mitjançant un sistema tributari basat en els principis de generalitat, igualtat i progressivitat que, en cap cas, podrà tenir abast confiscador.
+2. L’aplicació del sistema tributari es basa en els principis de proporcionalitat, eficàcia i limitació de les despeses indirectes derivades del compliment d’obligacions formals i ha d’assegurar el respecte dels drets i les garanties dels obligats tributaris als que es refereix l’article 27.
+
+**Article 4. Potestat tributària**
+
+1. Els tributs només poden ser establerts per llei.
+2. Els comuns poden exigir tributs d’acord amb el que estableix la Constitució, la Llei qualificada de delimitació de competències dels comuns, la Llei 10/2003, del 27 de juny, de les finances comunals, la present Llei i altres disposicions amb rang de llei.
+3. La competència relativa a la regulació dels elements no subjectes a reserva de llei, i també pel que fa al desplegament reglamentari de la legislació tributària fixat en la present Llei, i a les lleis reguladores dels tributs, correspon al Govern i als comuns quan aquestes lleis ho autoritzin.
+4. A banda dels supòsits esmentats, atès que no són tributs, el Govern i els comuns poden crear i regular preus públics, amb el benentès que la potestat d’ambdues administracions s’estén als preus públics de les entitats parapúbliques i de dret públic que els siguin pròpies.
+
+**Article 5. Actes impugnables**
+
+L’exercici de la potestat reglamentària i els actes d’aplicació dels tributs i d’imposició de sancions tenen caràcter reglat i són impugnables en via administrativa i jurisdiccional en els termes previstos en aquesta Llei i en la resta de l’ordenament jurídic.
+
+#### Capítol segon. De les normes tributàries
+
+##### Secció primera. Sistema normatiu
+
+**Article 6. Fonts de l’ordenament**
+
+1. Els tributs es regeixen, per ordre de prelació normativa:
+a) Per la Constitució.b) Pels tractats o convenis internacionals que continguin clàusules de naturalesa tributària i, en particular, pels convenis per evitar la doble imposició subscrits pel Principat d’Andorra amb tercers estats.c) Per aquesta Llei i les lleis pròpies de cada tribut.d) Pels reglaments dictats per al desenvolupament d’aquesta Llei, de les lleis reguladores de cada tribut i de qualsevol altra llei d’abast tributari.
+2. Amb caràcter supletori, també es regeixen per les disposicions generals del Codi de l’Administració, per les normes del dret administratiu i pel dret comú.
+
+**Article 7. Reserva de llei**
+
+$1e
+
+**Article 8. Identificació i derogació expressa de les normes tributàries**
+
+1. Les lleis i els reglaments que continguin normes tributàries ho han d’esmentar expressament en el seu títol i en la rúbrica dels articles corresponents.
+2. Les lleis i els reglaments que modifiquin normes tributàries han de contenir una relació completa de les normes derogades i la nova redacció de les que siguin modificades.
+3. S’encomana al Govern per tal que, en el termini màxim de tres mesos a comptar de les modificacions normatives, publiqui al Butlletí Oficial del Principat d’Andorra, mitjançant el decret legislatiu corresponent, el text refós de les normes tributàries, incloent-hi totes les modificacions aportades. El Govern promourà la difusió i el coneixement de la normativa tributària general i comunal, vigent en cada moment.
+
+##### Secció segona. Àmbit d’aplicació de les normes tributàries
+
+**Article 9. Àmbit temporal**
+
+$20
+
+**Article 10. Àmbit territorial**
+
+1. Les normes reguladores de cada tribut estableixen l’àmbit territorial del fet generador.
+2. Són obligats tributaris els definits per aquesta Llei i la resta de l’ordenament tributari, tant si són residents al Principat d’Andorra com si són no residents.
+
+##### Secció tercera. Interpretació i qualificació de les normes
+
+**Article 11. Interpretació de les normes**
+
+$22
+
+**Article 12. Qualificació de les normes tributàries**
+
+L’impost s’exigeix segons la naturalesa jurídica del fet, acte o negoci realitzat, independentment de la forma o la denominació utilitzades per les parts per qualificar-lo.
+
+**Article 13. Abús de les normes tributàries**
+
+$24
+
+### Títol II. El règim tributari
+
+#### Capítol primer. De la naturalesa de l’obligació tributària
+
+##### Secció primera. Principis de l’obligació tributària
+
+**Article 14. La relació jurídica tributària**
+
+1. S’entén per relació jurídica tributària el conjunt de drets i obligacions generats per a l’aplicació dels tributs. La relació jurídica tributària pot generar obligacions principals o accessòries, materials o formals, i pot comportar la imposició de sancions tributàries en els casos d’incompliment dolós o culpós de les obligacions establertes legalment.
+2. Són obligacions tributàries materials les de caràcter principal, les de realitzar pagaments a compte, les establertes entre particulars resultants del tribut i les accessòries. Són obligacions tributàries formals les que defineix l’article 26.
+3. Els elements de l’obligació tributària no poden ser alterats per actes o convenis dels particulars, que no produeixen efectes envers l’Administració, sense perjudici de les seves conseqüències jurídiques privades.
+
+**Article 15. No disponibilitat del crèdit tributari**
+
+El crèdit tributari és indisponible llevat que la llei estableixi una altra cosa i sense perjudici d’allò que disposa aquesta Llei.
+
+##### Secció segona. Obligació tributària principal
+
+**Article 16. Definició**
+
+L’obligació tributària principal consisteix en el pagament de la quota de tributació.
+
+**Article 17. Fet generador**
+
+1. El fet generador és el supòsit fixat per la llei per configurar cada tribut la realització del qual produeix el naixement de l’obligació tributària principal.
+2. La realització del fet generador determina el naixement de la facultat de l’Administració per quantificar i exigir el deute tributari, sense perjudici de la resta de facultats relatives a la gestió del tribut, que l’ordenament atribueix a la mateixa Administració.
+3. La llei de cada tribut, si és el cas, delimita el fet generador i pot establir supòsits de no-subjecció.
+
+**Article 18. Meritació i exigibilitat**
+
+1. La meritació és la generació de l’obligació tributària i es produeix quan es fa efectiu el fet generador d’acord amb el que estableix la llei. La data de la meritació determina les circumstàncies rellevants per a la configuració de l’obligació tributària, tret que la llei de cada tribut disposi una altra cosa.
+2. La llei pròpia de cada tribut pot fixar un moment diferent de la meritació del tribut per exigir la quota que s’ha d’ingressar o una part d’aquesta quota.
+
+**Article 19. Beneficis fiscals, deduccions, bonificacions i exempcions**
+
+1. Són supòsits d’exempció aquells en què, malgrat que es realitzi el fet imposable, la llei de cada tribut eximeix del compliment de l’obligació tributària principal. La prova del caràcter procedent de l’exempció correspon a l’obligat tributari.
+2. La llei particular de cada tribut pot establir, així mateix, supòsits de deducció, bonificacions o d’altres beneficis fiscals que concretin el deute tributari. La prova de l’aplicació d’aquests beneficis fiscals correspon a l’obligat tributari.
+3. La llei de cada tribut pot regular els beneficis per als acords tributaris especials, previstos a l’article 67.
+
+##### Secció tercera. Obligació tributària de realitzar pagaments a compte
+
+**Article 20. Obligació tributària de realitzar pagaments a compte**
+
+$26
+
+##### Secció quarta. Obligacions entre particulars resultants del tribut
+
+**Article 21. Obligacions entre particulars resultants del tribut**
+
+Són obligacions entre particulars resultants del tribut les que tenen per objecte una prestació de naturalesa tributària exigible entre obligats tributaris. Són obligacions d’aquest tipus les que es generen com a conseqüència d’actes de repercussió, de retenció o d’ingrés a compte previstos legalment, a més de les que puguin ser establertes per llei.
+
+##### Secció cinquena. Obligacions tributàries accessòries
+
+**Article 22. Obligacions tributàries accessòries**
+
+1. Són obligacions tributàries accessòries aquelles que consisteixen en prestacions pecuniàries i que són diferents de les mencionades en aquest capítol. L’exigència de les obligacions tributàries accessòries s’imposa en relació amb una altra obligació tributària.
+2. Són obligacions accessòries, entre altres, l’obligació de satisfer els recàrrecs o els interessos moratoris. La llei particular de cada tribut pot establir obligacions accessòries addicionals.
+
+**Article 23. Interès moratori**
+
+$28
+
+**Article 24. Recàrrecs per presentació extemporània de la declaració o autoliquidació**
+
+$2a
+
+**Article 25. Recàrrecs del període executiu**
+
+$2e
+
+##### Secció sisena. Obligacions tributàries formals
+
+**Article 26. Obligacions tributàries formals**
+
+$30
+
+##### Secció setena. Drets, garanties i obligacions
+
+**Article 27. Drets i garanties de l’obligat tributari**
+
+$32
+
+**Article 28. Obligacions i drets de l’Administració**
+
+1. L’Administració està subjecta al compliment dels deures i les obligacions establerts en la present Llei i a la resta de l’ordenament jurídic.
+2. Són obligacions de l’Administració, entre altres, l’obligació de fer efectives les devolucions derivades de la normativa de cada tribut, la devolució dels ingressos indeguts i també dels ingressos realitzats degudament però que hagin decaigut en virtut de qualsevol procediment tributari o judicial. En tots els casos, amb l’abonament de l’interès moratori que correspongui.
+3. L’abast d’aquestes obligacions es determina reglamentàriament.
+4. L’Administració tributària té dret a obtenir dades amb transcendència tributària sobre els obligats tributaris de qualsevol altra Administració andorrana, i també d’altres estats en virtut de convenis i tractats internacionals.
+
+**Article 29. Devolucions a què té dret l’obligat tributari**
+
+$34
+
+**Article 30. Devolucions d’ingressos indeguts**
+
+1. L’Administració tributària retorna als obligats tributaris, als subjectes infractors o als successors d’uns o d’altres, els ingressos que s’hagin realitzat indegudament a l’Administració tributària en ocasió del compliment de les seves obligacions tributàries o del pagament de sancions.
+2. Amb la devolució dels ingressos indeguts l’Administració tributària abona l’interès moratori regulat a l’article 23, sense necessitat que l’obligat tributari ho sol·liciti. A aquest efecte, l’interès moratori es merita des de la data de realització de l’ingrés indegut fins a la data en què s’ordeni el pagament de la devolució.
+3. El procediment per al reconeixement del dret a la devolució en cada supòsit d’ingrés indegut i la forma de fer-la efectiva s’estableix reglamentàriament.
+
+#### Capítol segon. Dels obligats tributaris
+
+##### Secció primera. Subjectes d’obligacions tributàries
+
+**Article 31. Classes d’obligats tributaris**
+
+$36
+
+**Article 32. Successors dels obligats tributaris**
+
+1. Les obligacions tributàries pendents en el moment de dissoldre i liquidar entitats de qualsevol naturalesa es poden transmetre d’acord amb aquesta i altres lleis als socis, partícips o cotitulars. Aquests successors queden obligats solidàriament fins al límit del valor de la quota de liquidació que els correspongui. En els casos indicats expressament en la present Llei es transmeten també les sancions.
+2. A la mort dels obligats tributaris, les obligacions tributàries pendents del causant, tret de les sancions, es transmeten als hereus d’acord amb l’ordenament jurídic vigent.
+
+**Article 33. Responsabilitat tributària**
+
+$38
+
+**Article 34. Responsables solidaris**
+
+$3a
+
+**Article 35. Responsables subsidiaris**
+
+$3c
+
+**Article 36. Transmissió de negocis amb deutes tributaris pendents**
+
+1. Els adquirents de negocis en el supòsit de la lletra c) de l’apartat 1 de l’article 35, poden sol·licitar a l’Administració un certificat de deutes tributaris pendents. En aquest cas, la seva responsabilitat queda limitada als deutes indicats. L’Administració disposa d’un mes per emetre i lliurar el certificat al sol·licitant. La responsabilitat de l’adquirent quedarà limitada als deutes, sancions i responsabilitats contingudes en el certificat. En el cas que el certificat s’emetés sense fer menció de deutes, sancions o responsabilitats, o no s’emetés en el termini previst, el sol·licitant quedarà exempt de la responsabilitat a la que es refereix l’article 35.
+2. La tramitació i el contingut del certificat es regula reglamentàriament.
+
+**Article 37. Adquirents de béns afectats per llei al compliment de deutes tributaris**
+
+$3e
+
+##### Secció segona. Capacitat d’obrar i representació
+
+**Article 38. Capacitat d’obrar i representació**
+
+$40
+
+**Article 39. Domicili a efectes tributaris**
+
+$42
+
+#### Capítol tercer. Dels elements de l’obligació tributària principal i de l’obligació tributària de realitzar pagaments a compte
+
+##### Secció primera. Base de tributació: mètodes de tributació
+
+**Article 40. Base de tributació**
+
+1. La base de tributació és una magnitud mesurada en o no en diner, que resulta de la valoració del fet generador.
+2. El mesurament de la base de tributació es pot fer, d’acord amb la llei particular de cada tribut, mitjançant els sistemes següents:
+a) Determinació directa.b) Determinació objectiva.c) Estimació indirecta.
+3. Les lleis de cada tribut poden establir diferents modalitats de cadascun dels sistemes de mesurament de la base de tributació.
+
+**Article 41. Sistema de determinació directa**
+
+La base de tributació es mesura de manera general mitjançant el sistema de determinació directa. S’empra per mesurar-la o quantificar-la exactament conforme a la realitat dels fets, mitjançant les declaracions o els documents presentats o les dades o els registres existents.
+
+**Article 42. Sistema de determinació objectiva**
+
+El sistema de determinació objectiva de la base de tributació s’empra per mesurar-la o quantificar-la aproximadament en els supòsits d’impossibilitat o de greu dificultat de delimitar-la amb exactitud, a partir dels signes, índexs o mòduls, o d’altres elements disponibles relacionats directament amb la base de tributació i assenyalats específicament per la normativa particular de cada tribut.
+
+**Article 43. Sistema d’estimació indirecta**
+
+$46
+
+##### Secció segona. Altres elements de l’obligació tributària
+
+**Article 44. Base de liquidació**
+
+La base de liquidació és la magnitud resultant de practicar en la base de tributació, si escau, les reduccions establertes en les normes tributàries.
+
+**Article 45. Tipus de gravamen**
+
+1. Tenen la consideració de tipus de gravamen les quantitats fixes expressades en una quantitat de moneda per la base o trams de la base de tributació, així com les quantitats percentuals de caràcter proporcional o progressiu que correspongui aplicar sobre la base de tributació o base de liquidació respectiva, segons que escaigui, per determinar la quota de tributació.
+2. La llei de cada tribut pot preveure l’aplicació d’un tipus zero, així com de tipus reduïts o bonificats.
+
+**Article 46. Quota de tributació i de liquidació**
+
+$48
+
+#### Capítol quart. Del deute tributari
+
+##### Secció primera. Disposicions generals
+
+**Article 47. Contingut del deute tributari**
+
+1. El deute tributari consisteix en la quota o import a ingressar derivat de l’obligació tributària principal o de l’obligació de realitzar pagaments a compte.
+2. La llei de cada tribut pot establir deduccions i reduccions de qualsevol tipus de la quota de tributació.
+3. El deute tributari inclou també, si és el cas:
+a) Els recàrrecs, establerts sobre la base de tributació o sobre la quota de liquidació.b) Els interessos d’ajornament i fraccionament, exigibles al tipus d’interès moratori.c) Els recàrrecs per declaració extemporània.d) El recàrrec del període executiu, en els casos i pels imports establerts en la present Llei.e) L’interès moratori.
+4. Les sancions tributàries establertes en la present Llei no formen part del deute tributari.
+
+**Article 48. Extinció del deute tributari**
+
+1. Els deutes tributaris es poden extingir per pagament voluntari o executiu, prescripció, compensació, condonació o insolvència provada de l’obligat tributari, sense perjudici de la possible derivació de responsabilitat, pels mitjans que preveu la normativa duanera i pels altres mitjans que estableixen les lleis, i sense perjudici també de la rehabilitació dels crèdits en cas de cessament de la insolvència del deutor.
+2. El pagament, la compensació, la deducció sobre transferències o la condonació del deute tributari té efectes alliberadors exclusivament per l’import pagat, compensat, deduït o condonat.
+
+##### Secció segona. Pagament
+
+**Article 49. Modalitats de pagament**
+
+$4a
+
+**Article 50. Subjectes legitimats per percebre i realitzar el pagament**
+
+$4c
+
+**Article 51. Temps de pagament**
+
+1. El deute tributari resultant d’una autoliquidació s’ha de pagar en el termini establert en la normativa de cada tribut.
+2. En el cas de deutes tributaris derivats de liquidacions practicades per l’Administració, el pagament s’ha de fer efectiu en el termini d’un mes a comptar de la notificació de l’acte de liquidació. La llei particular de cada tribut pot, però, fixar terminis diferents.
+3. El venciment del termini establert per al pagament sense que s’hagi fet efectiu podria determinar la meritació de l’interès moratori, sense perjudici del que s’estableix en els articles 24 i 25 en relació amb els recàrrecs per extemporaneïtat i del període executiu.
+4. Un cop iniciat el període executiu, el pagament del deute tributari s’ha de realitzar en el termini d’un mes a comptar de la notificació de la provisió de constrenyiment.
+5. Els deutes duaners es paguen d’acord amb la seva normativa respectiva.
+
+**Article 52. Imputació de pagaments**
+
+1. Els deutes tributaris són independents entre si, tant per la totalitat de l’import respectiu com quant a les porcions en els casos de fraccionament, de tal forma que el pagament d’un deute tributari o d’un ingrés a compte de venciment posterior no extingeix la facultat de l’Administració d’exigir els anteriors no pagats.
+2. L’obligat al pagament de diversos deutes tributaris pot imputar cada pagament al deute que lliurement determini. Si els deutes es troben en període executiu, la imputació es farà al deute més antic.
+
+**Article 53. Ajornament i fraccionament del pagament**
+
+$4e
+
+##### Secció tercera. Prescripció
+
+**Article 54. Terminis i còmput de prescripció**
+
+$50
+
+**Article 55. Interrupció de la prescripció**
+
+$54
+
+**Article 56. Efectes de la prescripció**
+
+1. La prescripció s’aplica d’ofici, mitjançant resolució de l’òrgan competent, sense necessitat que s’invoqui o s’exceptuï per part de l’obligat tributari. La prescripció guanyada extingeix el deute tributari.
+2. L’obligació de justificar la procedència de les dades, documents i la resta d’obligacions formals, que tinguin el seu origen en operacions realitzades en períodes impositius prescrits, però amb efectes en períodes no prescrits, es manté durant el termini de prescripció del dret a determinar els deutes tributaris afectats per l’operació corresponent.
+
+##### Secció quarta. Altres vies d’extinció del deute tributari i sancions
+
+**Article 57. Compensació**
+
+1. Les quotes i, si és el cas, els deutes tributaris en general i les sancions, es poden extingir, totalment o parcialment, mitjançant compensació amb els crèdits tributaris de manera principal i no tributaris de manera subsidiària, dels obligats tributaris envers l’Administració, reconeguts, en les condicions que s’estableixin reglamentàriament.
+2. La compensació pot tenir lloc d’ofici o a instància de l’obligat tributari. En aquest últim cas, si s’adequa als requisits reglamentaris, l’Administració hi ha d’accedir. En tot cas, la sol·licitud de compensació interromp el termini de pagament, que s’ha de reprendre en cas de denegació.
+3. El procediment i els requisits per a la compensació de crèdits es determinen reglamentàriament.
+
+**Article 58. Condonació**
+
+Les quotes i els deutes tributaris només poden ser objecte de condonació durant el temps, en la quantia i amb els requisits que estableixi una llei específica per a cada cas o cada grup de casos homogenis.
+
+**Article 59. Insolvència provada de l’obligat tributari**
+
+1. L’Administració pot declarar provisionalment extingit, en la forma que es determini reglamentàriament, qualsevol dret de cobrament tributari a favor seu, en el cas d’insolvència provada, total o parcial, dels obligats tributaris segons s’estableix en la lletra b) de l’apartat 1 de l’article 114. No obstant això, els mateixos obligats tributaris poden ser rehabilitats dins del termini de prescripció, segons s’estableix en l’apartat 2 de l’article 114.
+2. Un cop vençut el termini de prescripció sense que s’hagi procedit a la rehabilitació esmentada, l’Administració declara definitivament extingits els crèdits afectats.
+
+##### Secció cinquena. Garanties
+
+**Article 60. Tipus de garanties**
+
+$56
+
+**Article 61. Garanties en l’ajornament i el fraccionament**
+
+$58
+
+**Article 62. Mesures cautelars de caràcter provisional**
+
+$5a
+
+### Títol III. Aplicació dels tributs
+
+#### Capítol primer. Dels principis generals de l’aplicació dels tributs
+
+##### Secció primera. Principis generals
+
+**Article 63. Àmbit d’aplicació i competència**
+
+1. L’aplicació dels tributs comprèn les activitats següents de l’Administració tributària:
+a) Informació i assistència dels obligats tributaris.b) Gestió, inspecció i recaptació dels tributs.c) Qualsevol actuació de l’obligat tributari en exercici dels seus drets en el marc de la relació jurídica tributària.d) Qualsevol altra actuació determinada per llei.
+2. L’Administració tributària té competència territorial i funcional en l’aplicació dels tributs, respectant les competències en l’àmbit tributari dels comuns.
+
+##### Secció segona. Informació i consultes tributàries
+
+**Article 64. Deure d’informació i assistència als obligats tributaris**
+
+1. L’Administració té l’obligació d’informar i assistir els obligats tributaris en relació amb els seus drets i les seves obligacions.
+2. Els mitjans a través dels quals informa són els següents:
+a) Publicació de textos actualitzats i consolidats de les normes tributàries.b) Publicitat dels criteris administratius en relació amb les normes i els models tributaris.c) Respostes de les consultes escrites que són comunicades als consultants, que seran publicades, preservant-ne la privacitat.d) Actuacions i acords previs de valoració de determinades operacions.e) Acords especials relatius a determinades inversions estratègiques.f) Informació verbal, mitjançant comunicació telefònica o cites presencials.g) Publicitat dels criteris generals que constitueixen el pla anual de control fiscal.h) Campanyes d’informació i difusió.i) Altres que es determinin reglamentàriament.
+3. L’Administració assistirà als obligats tributaris en el compliment de les seves obligacions tributàries.
+
+**Article 65. Consultes tributàries escrites**
+
+$5c
+
+##### Secció tercera. Acords de valoració
+
+**Article 66. Acords previs de valoració**
+
+1. Els obligats tributaris poden sol·licitar a l’Administració tributària, quan ho hagi previst la norma de cada tribut, que determini amb caràcter previ i vinculant la valoració a efectes fiscals de rendiments, productes, béns, serveis, despeses i qualsevol altre element determinant del deute tributari.
+2. La sol·licitud ha de ser prèvia a l’acabament del termini per presentar l’autoliquidació o la declaració corresponent.
+3. El contingut mínim de la sol·licitud, els terminis i la resta de requisits del procediment es regulen reglamentàriament.
+4. Mentre no canviïn les circumstàncies indicades a la sol·licitud o a la normativa, la valoració té efectes vinculants per a l’Administració tributària i per al sol·licitant, i no és susceptible de recurs. No obstant això, la liquidació fonamentada en la valoració sí que és susceptible de recurs.
+5. La valoració té la vigència que s’estableixi en el mateix acord, tret que la normativa pròpia de cada tribut disposi una altra cosa.
+
+**Article 67. Acords especials**
+
+$60
+
+##### Secció quarta. Col·laboració social en l’aplicació dels tributs
+
+**Article 68. Obligacions d’informació**
+
+$62
+
+**Article 69. Autoritats sotmeses al deure d’informar i col·laborar**
+
+$64
+
+#### Capítol segon. De les normes sobre actuacions i procediments tributaris
+
+##### Secció primera. Principis i aspectes generals
+
+**Article 70. Notificacions tributàries**
+
+$66
+
+**Article 71. Obligació de resoldre temporàniament i efectes de la falta de resolució expressa**
+
+$6a
+
+**Article 72. Entrada al domicili**
+
+$6c
+
+**Article 73. Denúncia pública**
+
+$6e
+
+##### Secció segona. Fases del procediment tributari
+
+**Article 74. Inici**
+
+El procediment tributari comença, d’ofici o a instància de l’obligat tributari, per qualsevol de les formes següents:
+a) Per la presentació de declaracions, autoliquidacions o altres comunicacions tributàries per part de l’obligat tributari.b) Per notificació a l’obligat tributari o al seu representant de l’inici d’un procediment de recaptació, de gestió o d’inspecció, o de qualsevol altre procediment tributari.c) Per la presentació, per part de l’obligat tributari, de consultes tributàries escrites, sol·licituds d’acords previs de valoració, sol·licituds d’acords especials, sol·licituds de devolució d’ingressos indeguts, i també de qualsevol sol·licitud de reconeixement o d’exercici de drets en l’àmbit jurídic tributari.
+
+**Article 75. Desenvolupament**
+
+$70
+
+**Article 76. Acabament i obligació de resoldre**
+
+$72
+
+##### Secció tercera. Prova
+
+**Article 77. Principis generals de la prova**
+
+1. En els procediments d’aplicació dels tributs, qui faci valdre el seu dret ha de provar-ne els fets constitutius.
+2. En l’àmbit tributari són aplicables els mitjans i criteris de valoració de la prova admesos en dret.
+3. Com a regla general, les partides de despeses o quotes deduïbles s’han de demostrar mitjançant factura, sense perjudici dels requisits materials o formals addicionals que disposi la norma de cada tribut.
+4. Com a regla general, l’obligat tributari ha de conservar tota la documentació comptable obligatòria durant el període que determini la normativa mercantil i comptable.
+L’obligat tributari ha d’acreditar la procedència i la quantia dels crèdits fiscals d’acord amb la documentació que els va generar i que sigui de conservació obligatòria.
+
+**Article 78. Presumpcions en matèria tributària**
+
+1. La norma de cada tribut pot establir les presumpcions aplicables en matèria tributària.
+2. Les dades consignades per l’obligat tributari a les declaracions, les autoliquidacions i les comunicacions que presenti es presumeixen certes, i només es podran rectificar pel mateix mitjançant les proves acreditatives escaients.
+3. Perquè les presumpcions no establertes per la llei siguin admissibles com a mitjà de prova és indispensable que entre el fet demostrat i el fet que es tracti de deduir, hi hagi un enllaç raonablement precís i directe.
+4. L’Administració tributària considera com a titular del bé, el dret, l’empresa, el servei, l’activitat, l’explotació o la funció, qui figuri com a tal en qualsevol registre, privat o públic, excepte en cas de prova en sentit contrari.
+5. Totes les presumpcions poden ser rebatudes amb la presentació de proves en sentit contrari, tret que per llei s’indiqui una altra cosa.
+
+#### Capítol tercer. Del procediment de gestió tributària
+
+##### Secció primera. Funcions de gestió tributària
+
+**Article 79. Funcions de gestió**
+
+$74
+
+##### Secció segona. Aspectes generals de la gestió
+
+**Article 80. Declaració tributària**
+
+1. Té la consideració de declaració tributària tot document presentat davant l’Administració tributària en què l’obligat tributari comunica informacions o fa manifestacions rellevants per a l’aplicació dels tributs.
+2. La presentació d’una declaració no implica, per ella mateixa, acceptació o reconeixement per l’obligat tributari de la procedència de l’obligació tributària.
+3. La normativa pròpia de cada tribut estableix els models normalitzats. Si no hi ha un model normalitzat, l’obligat tributari ha de presentar la declaració amb el contingut que es determini reglamentàriament. Només s’admeten declaracions verbals en els casos expressament previstos.
+
+**Article 81. Autoliquidació**
+
+1. Té la consideració d’autoliquidació la declaració en què, a més de comunicar informacions, l’obligat tributari realitza les operacions de qualificació i quantificació necessàries per determinar i per ingressar l’import del deute tributari i de la quantitat que escaigui ingressar, retornar o compensar.
+2. Les autoliquidacions s’estableixen sempre en models normalitzats, que poden ser en paper o en mitjans telemàtics, segons el que es disposi reglamentàriament.
+
+**Article 82. Rectificació i substitució de declaracions i autoliquidacions**
+
+$76
+
+**Article 83. Liquidació tributària**
+
+1. La liquidació és l’acte administratiu mitjançant el qual l’òrgan competent de l’Administració tributària realitza les operacions de qualificació i quantificació de l’obligació tributària, i determina l’import del deute tributari.
+2. Les liquidacions són definitives o provisionals.
+3. Les liquidacions definitives són fruit d’un procediment inspector en què s’han comprovat la totalitat dels elements de l’obligació tributària. També són definitives les liquidacions que siguin qualificades així per llei.
+4. La resta de liquidacions tenen el caràcter de provisionals.
+5. En cas de liquidació provisional, només els elements de l’obligació tributària que no hagin estat objecte de procediment de comprovació o inspecció podran ser comprovats o inspeccionats en un procediment posterior, dins del termini de prescripció.
+
+##### Secció tercera. Procediments de gestió tributària
+
+**Article 84. Procediment de devolució derivat d’autoliquidacions, sol·licituds o declaracions**
+
+1. El procediment de devolució s’inicia amb la presentació d’autoliquidacions, sol·licituds de devolució o comunicacions de dades.
+2. En el cas d’autoliquidacions que tinguin com a resultat una devolució, l’Administració tributària efectua la devolució que correspongui. La manca de devolució merita interessos moratoris a favor de l’obligat tributari a partir dels dos mesos des de la fi del termini de presentació, o bé, si es presenta un cop superat aquest termini, des del moment de la presentació, llevat que la norma de cada tribut disposi una altra cosa.
+3. El procediment s’acaba per reconeixement de la devolució, o bé per l’inici d’un procediment de comprovació, o per qualsevol altra causa recollida al Codi de l’Administració. Si transcorreguts sis mesos des de la sol·licitud de devolució no s’ha reconegut la mateixa o no s’ha iniciat un procediment de comprovació, o iniciat el procediment de comprovació aquest ha caducat, s’entendrà acceptada la devolució per silenci administratiu positiu.
+
+**Article 85. Procediment de comprovació de valors**
+
+1. Els valors declarats per l’obligat tributari poden ser comprovats per l’Administració tributària d’acord amb els criteris i procediments establerts reglamentàriament, excepte si el valor ha estat assignat per la mateixa Administració tributària d’ofici o bé a instància de la persona o entitat interessada.
+2. En tot cas, l’Administració tributària comunica a l’obligat tributari una resolució motivada en què s’indica el valor de l’actiu comprovat i, si és el cas, de la liquidació que correspongui.
+3. La valoració administrativa pot tenir efectes davant tercers. En aquest cas cal que es notifiqui una resolució motivada en el mateix sentit del punt anterior als tercers afectats.
+
+**Article 86. Procediment de taxació pericial contradictòria**
+
+1. Els obligats tributaris poden promoure una taxació pericial contradictòria sufragant-ne el cost, dins del procediment de comprovació de valors o dins qualsevol altre procediment d’aplicació dels tributs, que tingui efecte sobre valors que afectin qualsevol fet generador.
+2. La sol·licitud de la taxació implica la suspensió de l’execució de la liquidació.
+3. El procediment es fixa reglamentàriament.
+
+**Article 87. Procediment de comprovació de gestió**
+
+$78
+
+#### Capítol quart. Del procediment d’inspecció tributària
+
+##### Secció primera. Aspectes generals del procediment d’inspecció
+
+**Article 88. Funcions de la inspecció**
+
+$7a
+
+**Article 89. Facultats dels òrgans d’inspecció tributària**
+
+1. A més de les facultats pròpies de la gestió tributària, la inspecció pot:
+a) Realitzar qualsevol actuació fora de les seves oficines.b) Accedir als locals de negoci, establiments mercantils, seus de direcció i, en general, on hi hagi proves relatives a béns o drets susceptibles de ser fets generadors o supòsits de fet de l’obligació tributària, tal i com preveu l’article 72 amb les limitacions legals i reglamentàries que corresponguin.
+2. Els funcionaris que realitzin actuacions d’inspecció són considerats agents de l’autoritat, i han d’acreditar la seva condició, si són requerits per fer-ho, fora de les oficines públiques.
+Els obligats tributaris han d’atendre la inspecció i li han de prestar la deguda col·laboració en el desenvolupament de les seves funcions.
+
+**Article 90. Documentació de les actuacions d’inspecció**
+
+1. Les actuacions inspectores es documenten en comunicacions, diligències, informes i actes, en els termes exposats en l’article 75.
+2. La inspecció ha de sol·licitar a l’obligat tributari que es pronunciï a quins fets i quins conceptes que afecten la liquidació dóna la conformitat, segons es detalla en l’article 99.
+
+##### Secció segona. Inici i desenvolupament del procediment d’inspecció
+
+**Article 91. Inici del procediment d’inspecció**
+
+1. El procediment s’inicia d’ofici mitjançant una notificació en què es fa constar la naturalesa i l’abast de la comprovació, així com dels drets i obligacions en el curs d’aquestes actuacions.
+2. El procediment s’ha d’iniciar a petició de l’obligat tributari quan sigui objecte d’actuacions d’inspecció d’abast parcial, per tal que tinguin abast de caràcter general respecte al tribut i els períodes afectats, segons les disposicions d’aquesta Llei.
+
+**Article 92. Abast de les actuacions d’inspecció**
+
+$7d
+
+**Article 93. Termini de comprovació de la inspecció**
+
+$7f
+
+**Article 94. Lloc i horari de les actuacions d’inspecció**
+
+El lloc i l’horari de les actuacions d’inspecció es determinen reglamentàriament. En els casos que les actuacions suposin l’entrada al domicili de l’obligat tributari, s’aplicarà el que preveu l’article 72. En cap cas no poden distorsionar el curs normal de l’administració i del funcionament dels negocis de l’obligat tributari.
+
+**Article 95. Mesures cautelars en el procediment d’inspecció**
+
+$83
+
+**Article 96. Regularització voluntària durant la comprovació**
+
+1. Si un cop iniciat un procediment de comprovació de gestió o d’inspecció, l’obligat tributari ingressa el deute, es produeixen les conseqüències següents:
+a) La quota ingressada s’entén a compte de la futura liquidació.b) Es meriten interessos entre el moment en què es va acabar el període voluntari i el moment en què es fa efectiu el pagament.c) No és exigible el recàrrec per presentació extemporània amb requeriment, però és susceptible de ser objecte de sanció d’acord amb la legislació aplicable.
+2. Si es dóna el supòsit de l’apartat anterior, però el procediment inspector ha superat el límit de l’article 93, els ingressos del deute es consideren voluntaris, de manera que és aplicable el recàrrec per presentació extemporània amb requeriment, sense que sigui possible una sanció per aquesta causa.
+
+##### Secció tercera. Acabament del procediment d’inspecció
+
+**Article 97. Acabament del procediment d’inspecció**
+
+$85
+
+**Article 98. Tràmit d’audiència**
+
+1. Finalitzades les actuacions de comprovació i d’investigació, la inspecció notifica a l’obligat tributari una proposta d’acta que conté una exposició succinta dels fets i dels fonaments jurídics a més de la proposta de regularització.
+2. L’obligat tributari disposa de vint-i-un dies hàbils per revisar l’expedient administratiu, presentar al·legacions a la proposta d’acta i, si és el cas, prestar la conformitat, total o parcial, als fets, als fonaments jurídics o a la proposta de regularització.
+
+**Article 99. Acta de conformitat**
+
+$87
+
+**Article 100. Acta de disconformitat**
+
+$89
+
+#### Capítol cinquè. Del procediment de recaptació
+
+##### Secció primera. Aspectes generals del procediment de recaptació
+
+**Article 101. Funcions de recaptació**
+
+Les funcions de recaptació, entre altres, són les següents:
+a) Gestió del cobrament del deute tributari i les sancions tant en període voluntari com executiu i, si és el cas, de l’expedient de compensació o qualsevol altre procediment encaminat a l’extinció del deute tributari i de les sancions d’acord amb aquesta Llei.b) Gestió dels pagaments derivats de les devolucions.c) Qualsevol actuació destinada al cobrament o altres situacions d’extinció del deute tributari i de les sancions, incloses les mesures d’execució forçosa del patrimoni de l’obligat al pagament.d) Tramitació de les sol·licituds de fraccionament o ajornament.e) Tramitació dels expedients de derivació de responsabilitat.
+
+**Article 102. La recaptació tributària**
+
+1. La recaptació tributària consisteix en l’exercici de les funcions administratives per al cobrament dels deutes tributaris.
+2. La recaptació dels deutes tributaris es pot dur a terme:
+a) En període voluntari, mitjançant el pagament o compliment per part de l’obligat tributari en els terminis que preveu l’article 51.b) En període executiu, mitjançant el pagament o compliment espontani de l’obligat tributari o, si no es produeix, mitjançant el procediment administratiu de constrenyiment.
+3. En la recaptació de les sancions tributàries s’aplica el procediment de recaptació previst en aquest capítol.
+
+**Article 103. Recaptació en període executiu**
+
+$8b
+
+**Article 104. Facultats de la recaptació**
+
+$8d
+
+##### Secció segona. Procediment de constrenyiment
+
+**Article 105. Naturalesa del procediment de constrenyiment**
+
+1. El procediment de constrenyiment és exclusivament administratiu i no és acumulable a altres processos d’execució judicial ni a altres procediments administratius. L’inici d’aquests altres procediments no suspèn el procediment de constrenyiment, excepte si s’estableix expressament per llei.
+2. El procediment de constrenyiment s’inicia i s’impulsa d’ofici, sense perjudici del dret de suspensió que empara l’obligat tributari en els supòsits previstos legalment.
+
+**Article 106. Suspensió del procediment de constrenyiment**
+
+$8f
+
+**Article 107. Desenvolupament del procediment de constrenyiment**
+
+$91
+
+**Article 108. Determinació dels béns i drets que s’embarguen i execució de garanties**
+
+$93
+
+**Article 109. Procediment d’embargament**
+
+$95
+
+**Article 110. Oposició a l’acord d’embargament**
+
+Els motius d’oposició a l’acord d’embargament poden ser:
+a) Extinció del deute o prescripció del dret a exigir-ne el pagament.b) Manca de notificació de la provisió de constrenyiment.c) Manca de compliment de les normes reguladores per part de l’Administració tributària de l’embargament.d) Suspensió del procediment de recaptació.
+
+**Article 111. Nomenament d’un administrador en l’embargament**
+
+Quan l’embargament es realitza sobre un establiment mercantil, industrial, sobre qualsevol dret i/o bé d’una persona jurídica o sobre qualsevol dret i/o bé de les entitats previstes en l’article 31, si l’Administració aprecia que la continuïtat de les persones que s’ocupen de la seva direcció o gestió pot perjudicar la solvència de l’obligat tributari, l’Administració tributària, prèvia audiència no vinculant de l’obligat tributari i del responsable, administrador o gestor, pot sol·licitar el nomenament d’un administrador judicial que exerceixi d’administrador o que intervingui en la direcció, administració o gestió del negoci en la forma en què reglamentàriament s’estableixi, fiscalitzant prèviament a la seva execució aquells actes que es concretin en l’acord administratiu.
+
+**Article 112. Embargament de béns o drets en entitats de crèdit o dipòsit**
+
+$97
+
+**Article 113. Alienació dels béns embargats**
+
+$99
+
+**Article 114. Acabament del procediment de constrenyiment**
+
+1. El procediment de constrenyiment s’acaba:
+a) Si concorre el pagament de la quantitat total deguda.b) Amb la decisió que declari el crèdit totalment o parcialment incobrable.c) Amb la decisió que acrediti que ha quedat extingit el deute per qualsevol altra causa.
+2. No obstant l’establert en la lletra b) de l’apartat anterior, en aplicació de l’establert en el segon paràgraf de l’apartat 2 de l’article 71, quan s’hagi declarat el crèdit incobrable, el procediment de constrenyiment es pot continuar si l’Administració tributària té coneixement de la solvència de l’obligat tributari i rehabilita el crèdit, sempre que no hagi prescrit el dret de cobrament.
+
+##### Secció tercera. Procediment contra responsables i successors
+
+**Article 115. Declaració de responsabilitat**
+
+1. La responsabilitat només pot ser declarada en els casos previstos per aquesta Llei.
+2. La responsabilitat pot ser declarada en qualsevol moment posterior a la pràctica de la liquidació o la presentació de l’autoliquidació.
+3. S’atorga als responsables tràmit d’audiència prèvia, en què poden presentar les al·legacions i els documents que es considerin oportuns.
+4. L’acte de declaració de responsabilitat és notificat als responsables, amb els requisits que s’indiquin reglamentàriament.
+5. L’acte de declaració de responsabilitat és susceptible de recurs. Així mateix, la persona declarada responsable pot interposar recurs contra les liquidacions que hagin originat la declaració de responsabilitat. La resolució d’aquest recurs no pot alterar la situació jurídica d’altres obligats pel que fa a les liquidacions que siguin fermes.
+
+**Article 116. Procediment de derivació de responsabilitat**
+
+1. Per poder derivar la responsabilitat cal que concorrin els requisits següents:
+a) En el cas de la responsabilitat solidària, cal que s’hagi declarat i notificat el deute als deutors solidaris en els que l’Administració derivi la responsabilitat.b) En el cas de la responsabilitat subsidiària, cal que el deutor, o el responsable solidari, hagi estat declarat fallit o insolvent. En aquest supòsit, també es declara i notifica el deute al responsable subsidiari.
+2. Els requisits i terminis d’aquests procediments s’estableixen reglamentàriament.
+
+**Article 117. Procediment de recaptació davant els successors**
+
+1. Els deutes tributaris del finat són transmesos als successors a títol universal o als successors a títol particular en relació amb els impostos vinculats als béns o drets que hagin percebut. Mentre l’herència continuï jacent, l’Administració tributària pot continuar el procediment de recaptació contra la massa hereditària.
+2. Un cop dissolta i liquidada una societat o entitat, el procediment de recaptació continua amb els socis, partícips o cotitulars.
+3. Els requisits i els terminis d’aquests procediments s’estableixen reglamentàriament.
+
+### Títol IV. Potestat sancionadora
+
+#### Capítol primer. Dels principis de la potestat sancionadora
+
+##### Secció primera. Principis rectors de la potestat sancionadora
+
+**Article 118. Potestat sancionadora de l’Administració**
+
+1. La potestat sancionadora en matèria tributària s’exerceix d’acord amb principis reguladors d’aquest àmbit en matèria administrativa.
+2. En particular, hi són aplicables els principis de legalitat, tipicitat, no-concurrència, responsabilitat i proporcionalitat, especialment quan concorri dol o culpa. El principi d’irretroactivitat s’ha d’aplicar amb caràcter general, tenint en consideració el que disposa l’article 9.
+
+**Article 119. Principi de presumpció de bona fe de l’obligat tributari**
+
+1. L’actuació dels obligats tributaris es presumeix realitzada de bona fe.
+2. Correspon a l’Administració provar que concorren les circumstàncies que determinen la culpabilitat de l’infractor en la comissió de les infraccions tributàries i també el seu grau.
+
+**Article 120. Principi de responsabilitat en les infraccions tributàries**
+
+$9b
+
+**Article 121. Principi de no-concurrència de les sancions tributàries**
+
+1. La mateixa acció o omissió que s’hagi d’aplicar com a circumstància que determini la qualificació d’una infracció com a greu o molt greu no pot ser sancionada com a infracció independent.
+2. Les sancions derivades de la comissió d’infraccions tributàries són compatibles amb l’exigència de l’interès moratori i dels recàrrecs del període executiu.
+
+##### Secció segona. Naturalesa de la responsabilitat tributària
+
+**Article 122. Subjectes de les infraccions tributàries**
+
+1. Són subjectes infractors les persones físiques o jurídiques i les entitats que realitzin les accions o les omissions doloses o culposes tipificades com a infraccions tributàries, i singularment:
+a) Els obligats tributaris especificats a l’article 31.b) Els representants legals dels obligats tributaris que no tenen capacitat d’obrar.
+2. La concurrència de diversos subjectes infractors en la realització d’una mateixa infracció tributària determina que estiguin obligats solidàriament al pagament de la sanció davant l’Administració.
+
+**Article 123. Extinció de la responsabilitat de les infraccions tributàries**
+
+La responsabilitat derivada de les infraccions s’extingeix per les causes següents:
+a) Per la defunció del subjecte infractor.b) Per prescripció del dret d’imposar sancions conforme a l’article 54.c) Pel transcurs dels terminis als que es refereixen els apartats 1 i 6 de l’article 135.
+
+**Article 124. Extinció de les sancions tributàries**
+
+Les sancions tributàries s’extingeixen per les causes següents:
+a) Pagament, compensació o compliment de la sanció.b) Defunció dels obligats a pagar-les.c) Prescripció del dret a exigir-ne el pagament conforme a l’article 54 i següents.d) Condonació, segons es determina en l’article 58.
+
+#### Capítol segon. Concepte i modalitats d’infraccions i sancions tributàries
+
+**Article 125. Concepte i modalitats d’infracció tributària**
+
+1. Són infraccions tributàries les accions o les omissions doloses o culposes tipificades i sancionades com a infraccions per les lleis. Igualment es considera infracció tributària la falta de fonament d’una denúncia pública en els termes de l’apartat 5 de l’article 73.
+2. La falta de fonament d’una denúncia pública es sancionarà amb una multa fixa de 10.000 euros.
+3. Les infraccions tributàries es classifiquen en simples i de defraudació.
+4. Pel que fa a les infraccions en matèria duanera es regulen segons la normativa vigent en matèria duanera.
+
+**Article 126. Modalitats de sanció tributària**
+
+$9d
+
+**Article 127. Infraccions simples**
+
+$9f
+
+**Article 128. Quantificació de les sancions en els supòsits d’infraccions simples**
+
+$a1
+
+**Article 129. Infraccions de defraudació**
+
+$a5
+
+**Article 130. Qualificació de les infraccions de defraudació**
+
+$a7
+
+**Article 131. Quantificació de les sancions en els supòsits d’infraccions de defraudació**
+
+1. Les infraccions de defraudació poden ser sancionades mitjançant una multa proporcional a la quota defraudada d’un import entre el 50% i el 150%, llevat que la normativa pròpia de cada tribut estableixi una altra cosa, però sempre respectant el límit màxim del 150% i sense que aquesta multa pugui ser inferior a 250 euros.
+2. La sanció per infracció de defraudació lleu és del 50% de la quota defraudada; la greu, del 100%, i la molt greu, del 150%.
+
+**Article 132. Reducció de les sancions**
+
+1. La quantia de les sancions pecuniàries imposades es redueix en un 30% en els supòsits de conformitat amb la liquidació efectuada per l’òrgan competent i amb el pagament voluntari de la pròpia liquidació.
+L’import de la reducció practicada d’acord amb aquest punt s’exigeix amb l’únic requisit de la notificació a la persona o entitat interessada, quan s’hagi impugnat l’acte administratiu de regularització.
+2. L’import de la sanció que s’ha d’ingressar per la comissió de qualsevol infracció, un cop aplicada, si escau, la reducció per conformitat a què es refereix el paràgraf anterior, es redueix en el 25% si es realitza l’ingrés total de la sanció dins del període voluntari establert per la present Llei i no s’impugna la liquidació ni la sanció.
+L’import de la reducció practicada d’acord amb aquest apartat s’exigeix amb l’únic requisit de la notificació a la persona o entitat interessada, quan s’hagi interposat recurs en el termini previst contra la liquidació o la sanció.
+
+#### Capítol tercer. Òrgans competents per imposar sancions
+
+**Article 133. Òrgans competents per imposar sancions**
+
+L’establiment i la imposició de les sancions tributàries correspon:
+a) Per a les infraccions simples i les infraccions de defraudació lleus, al director del departament competent en matèria tributària.b) Per a les infraccions de defraudació greus, al ministre encarregat de les finances.c) Per a les infraccions de defraudació molt greus i les corresponents a les denúncies infundades, al Govern.
+
+#### Capítol quart. Del procediment sancionador
+
+**Article 134. Regulació de l’expedient sancionador en matèria tributària**
+
+La imposició de sancions requereix l’obertura i instrucció prèvia d’un expedient sancionador, que es regeix per les normes següents:
+a) Per les normes establertes en aquest títol i en els reglaments que el despleguin.b) Subsidiàriament, pel Codi de l’Administració i les altres normes que regulen el procediment sancionador en matèria administrativa.
+
+**Article 135. Procediment sancionador**
+
+$ab
+
+### Títol V. Vies d’impugnació
+
+#### Capítol primer. Dels principis rectors
+
+**Article 136. Els procediments de revisió**
+
+1. Els actes d’aplicació dels tributs i d’imposició de sancions tributàries poden ser objecte d’impugnació o de revisió mitjançant:
+a) El recurs administratiu.b) Altres procediments especials de revisió.
+2. Un cop esdevinguin ferms, no són revisables per la via administrativa els actes d’aplicació dels tributs i d’imposició de sancions tributàries, excepte en el cas de rectificació d’errors, en els supòsits i pel procediment establert en el capítol quart d’aquest títol.
+3. Quan hagin estat confirmats per sentència judicial ferma, no poden ser revisables en cap cas els actes d’aplicació dels tributs i d’imposició de sancions.
+
+**Article 137. Requisits**
+
+1. Les regles i normes sobre capacitat, legitimació, prova i notificacions són les regulades per aquesta Llei.
+2. Els actes de revisió i de resolució de recursos han d’estar degudament motivats i han de contenir una referència succinta dels fets i els fonaments de dret. També ha d’estar motivat qualsevol acte dictat durant la tramitació de l’expedient.
+3. La resolució del recurs d’alçada i dels procediments especials posa fi a la via administrativa.
+4. La determinació de la quantia als efectes del procediment, així com les regles d’acumulació de procediments i altres requisits són els establerts reglamentàriament.
+
+#### Capítol segon. Comissió Tècnica Tributària
+
+**Article 138. Composició**
+
+1. La Comissió Tècnica Tributària es compon dels següents membres:
+a) El ministre encarregat de les finances, que pot delegar les seves funcions en la persona que consideri adient.b) El director del departament competent en matèria tributària.c) El cap del gabinet jurídic del Govern.d) El director adjunt competent en matèria d’inspecció tributària.
+2. El Govern nomena i cessa els membres de la Comissió Tècnica Tributària. Els nomenaments i cessaments han d’aparèixer publicats al Butlletí Oficial del Principat d’Andorra.
+
+**Article 139. Funcionament**
+
+$ad
+
+**Article 140. Competències**
+
+La Comissió Tècnica Tributària té les competències següents:
+a) Resoldre tots els recursos administratius que s’interposin contra els actes dictats per l’Administració tributària en relació amb l’aplicació dels tributs i la imposició de sancions tributàries.b) Elaborar informes en relació a qüestions que li puguin ésser plantejades pel Govern.
+
+#### Capítol tercer. Del recurs en via administrativa
+
+**Article 141. Del recurs en via administrativa**
+
+$af
+
+**Article 142. Resolució dels recursos**
+
+1. L’òrgan competent per conèixer el recurs és la Comissió Tècnica Tributària.
+2. El termini màxim per resoldre el recurs és de dos mesos comptant des de la data de presentació del recurs. L’expiració d’aquest termini sense resposta per part de l’Administració permet considerar que el recurs ha estat desestimat. Les resolucions expresses o tàcites són susceptibles de recurs davant la jurisdicció administrativa.
+3. La resolució del recurs conté els antecedents de fet i els fonaments jurídics adequadament motivats que hagin servit per a la decisió.
+
+#### Capítol quart. Dels procediments especials de revisió
+
+**Article 143. Procediments especials**
+
+Els procediments especials de revisió són:
+a) Procediment de rectificació d’errors.b) Procediment de devolució d’ingressos indeguts.c) Procediment de revocació.
+
+**Article 144. Procediment de rectificació d’errors**
+
+1. L’Administració tributària ha de modificar d’ofici o a instància de la persona o entitat interessada els errors materials, de fet o aritmètics dels actes i les resolucions tributàries.
+2. Només es poden rectificar actes o resolucions que no hagin prescrit.
+3. El termini màxim per notificar la resolució del procediment és de sis mesos des que es presenta la sol·licitud per part de l’obligat tributari o des que es notifica l’inici del procediment d’ofici.
+4. L’expiració d’aquest termini permet considerar que la sol·licitud ha estat desestimada. Les resolucions expresses o tàcites són susceptibles de recurs d’alçada.
+
+**Article 145. Procediment de devolució d’ingressos indeguts**
+
+1. Quan un obligat tributari ha realitzat un ingrés tributari indegut per qualsevol causa, té dret a la devolució d’ofici o a instància de part, llevat que hagi prescrit el dret a la devolució.
+2. Així mateix, els hereus o causahavents de l’obligat tributari tenen dret a la devolució.
+3. El procediment per al reconeixement del dret a la devolució i sobre la forma de fer-la efectiva es determina reglamentàriament.
+4. Quan l’ingrés indegut s’ha produït per la presentació d’una autoliquidació, l’obligat tributari ha d’instar la rectificació de l’autoliquidació d’acord amb el que preveu l’article 82.
+5. En la devolució dels ingressos indeguts es liquida l’interès moratori calculat des de la data en què es va realitzar l’ingrés indegut fins a la data en què s’ordena la devolució.
+
+**Article 146. Procediment de revocació**
+
+$b1
+
+#### Capítol cinquè. Recurs davant la jurisdicció administrativa
+
+**Article 147. Recurs en via jurisdiccional**
+
+Les resolucions que posen fi a la via administrativa són susceptibles de recurs davant la jurisdicció administrativa. En tot allò no regulat expressament per aquesta Llei regeix la Llei de la jurisdicció administrativa i fiscal.
+
+**Remissions normatives**
+
+1. Totes les remissions a la Llei de bases de l’ordenament tributari, aprovada el 19 de desembre de 1996, contingudes en les Lleis particulars de cada tribut, s’entenen realitzades als articles del present text que contenen la regulació objecte de la remissió, i això sens perjudici que la nova numeració dels articles no s’hi correspongui idènticament.
+2. La remissió a l’article 60 de la Llei de bases de l’ordenament tributari, del 19 de desembre de 1996, continguda en l’apartat 3, de l’article 14 de la Llei 10/2003, del 27 de juny, de les finances comunals, s’entén realitzada als articles 103 a 117 de la present Llei.
+
+**Desenvolupament reglamentari**
+
+Tots els desenvolupaments reglamentaris previstos en la present Llei, s’han de fer amb estricta atenció als principis de subordinació, desenvolupament i complementarietat amb l’establert en la mateixa.
+
+**Modalitats de pagament**
+
+En relació amb el que disposa l’article 49, mentre no hi hagi conveni de col·laboració aprovat pel Govern amb entitats bancàries, es pot pagar mitjançant l’ingrés en qualsevol entitat bancària del Principat d’Andorra.
+
+**Recàrrecs per pagament extemporani del deute, recàrrecs del període executiu i interès moratori**
+
+1. El que disposa l’article 24 s’aplica a les autoliquidacions o les declaracions fora de termini, amb requeriment previ o sense, que impliquin pagament del deute tributari i es presentin a partir de l’entrada en vigor de la Llei.
+2. El que disposa l’article 25 s’aplica als deutes tributaris el període executiu dels quals s’iniciï a partir de l’entrada en vigor de la Llei.
+3. El que disposa l’article 23 en matèria d’interès moratori és aplicable als procediments, escrits i sol·licituds que s’iniciïn o es presentin a partir de l’entrada en vigor d’aquesta Llei.
+
+**Procediments tributaris**
+
+Els procediments tributaris iniciats abans de la data d’entrada en vigor de la present Llei es regeixen per la normativa anterior a la data esmentada fins a la seva conclusió, llevat els casos en què l’aplicació de la present Llei sigui més favorable als interessos dels obligats tributaris.
+
+**Infraccions i sancions tributàries**
+
+1. La present Llei s’aplica a les infraccions tributàries comeses abans de la seva entrada en vigor si la seva aplicació resulta més favorable per al subjecte infractor i la sanció imposada no ha adquirit fermesa.
+2. La revisió de les sancions no fermes i l’aplicació de la nova normativa correspon als òrgans administratius i jurisdiccionals que estiguin coneixent dels recursos, amb l’audiència prèvia a la persona o entitat interessada.
+3. Els procediments sancionadors en matèria tributària iniciats abans de l’entrada en vigor de la present Llei han de concloure en els 6 mesos posteriors a l’entrada en vigor de la present Llei, sense que se’ls pugui aplicar el termini màxim de resolució establert en la present Llei. En tot cas, si s’esgotés el termini fixat de 6 mesos sense que s’haguessin resolt, la caducitat del procediment tindria els efectes que es detallen en l’apartat 6 de l’article 135.
+
+**Disposició derogatòria**
+
+Queden derogades les normes amb rang de llei o inferior que s’oposen al contingut d’aquesta Llei, i en concret la Llei de bases de l’ordenament tributari, del 19 de desembre de 1996.
+
+**Habilitació normativa**
+
+Correspon al Govern dictar totes les disposicions que siguin necessàries per al desplegament i l’aplicació d’aquesta Llei.
+
+**Desplegament normatiu d’actuacions i procediments per mitjans electrònics, informàtics i telemàtics i relatius a mitjans d’autenticació**
+
+En l’àmbit de competències de l’Administració general, el Govern pot dictar les normes corresponents de desplegament aplicables a les actuacions i els procediments tributaris que es realitzen per mitjans electrònics, informàtics o telemàtics i també les relacionades amb els mitjans d’autenticació utilitzats per l’Administració tributària.
+
+**Articles qualificats**
+
+Tenen caràcter de llei qualificada els articles 68, 69, 72 i l’apartat 4 de l’article 108 d’aquesta Llei, que inclouen drets reservats a llei qualificada, segons l’article 40 de la Constitució del Principat d’Andorra.
+
+**Creació d’una Agència Tributària única**
+
+S’encomana al Govern que, previ acord amb els comuns, abans de l’1 de gener de 2017, presenti un Projecte de llei de creació d’una Agència Tributària única per a totes les administracions del país.
+
+**Entrada en vigor**
+
+1. Aquesta Llei entrarà en vigor l’1 de gener del 2015.
+2. Pel que fa als comuns, aquesta Llei entrarà en vigor l’1 de gener del 2016. Durant l’any 2015, la gestió tributària comunal es regeix per la Llei de bases de l’ordenament tributari, del 19 de desembre de 1996, i les seves modificacions.
+Casa de la Vall, 16 d’octubre del 2014
+Vicenç Mateu ZamoraSíndic General
+Nosaltres els coprínceps la sancionem i promulguem i n’ordenem la publicació en el Butlletí Oficial del Principat d’Andorra.
+Joan Enric Vives SicíliaBisbe d’UrgellCopríncep d’AndorraFrançois HollandePresident de la República FrancesaCopríncep d’Andorra

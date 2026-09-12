@@ -1,0 +1,216 @@
+# Llei de mesures per a la seguretat de les xarxes i dels sistemes d'informació (Llei 22/2022)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/seguretat-xarxes
+Articles: 41 · versions consolidades: 1
+Instantania del consolidat: 2026-09-12T05:30:15.641066Z
+
+---
+
+### Títol I. Disposicions generals
+
+**Article 1. Objecte**
+
+1. Aquesta Llei té com a objecte regular el reforç de la resiliència de les entitats crítiques i la seguretat de les xarxes i dels sistemes d’informació utilitzats per a la prestació de serveis essencials i importants al Principat d’Andorra.
+2. Per a l’assoliment del seu objecte, aquesta Llei estableix, principalment:
+a) Els requisits per a la protecció dels serveis essencials i dels serveis importants, les obligacions de gestió de riscos i d’incidents de ciberseguretat per part de les entitats prestadores d’aquests serveis, i els mecanismes de supervisió del seu compliment, inclòs un sistema de notificació d’incidències;b) L’obligació de les autoritats nacional competents d’identificar les entitats crítiques i les entitats que han de ser tractades com a equivalents a entitats crítiques en certs aspectes, perquè sense prestar els serveis essencials elles mateixes sí que poden impactar-los;c) L’obligació de les entitats crítiques d’adoptar determinades mesures, establertes reglamentàriament, destinades a garantir la prestació de serveis essencials;d) Un marc per a l’elaboració d’un catàleg nacional d’entitats essencials per a la seguretat de les xarxes i dels sistemes d’informació; ie) Un marc institucional per a l’aplicació de l’Estratègia Nacional de Seguretat de les xarxes i dels sistemes d’informació.
+3. El que es disposa en aquesta Llei s’entén sense perjudici de les accions que es puguin emprendre per part de les autoritats públiques corresponents per salvaguardar i garantir la seguretat nacional i les funcions essencials, per protegir la informació reservada d’Estat o la revelació de la qual sigui contrària als interessos essencials del Principat d’Andorra o per al manteniment de l’ordre públic, la detecció, investigació i persecució dels delictes, i l’enjudiciament dels seus autors.
+
+**Article 2. Àmbit d’aplicació**
+
+$1e
+
+**Article 3. Definicions**
+
+$20
+
+### Títol II. Marc estratègic i institucional
+
+#### Capítol Primer. Marc estratègic
+
+**Article 4. Marc estratègic de seguretat de les xarxes i dels sistemes d’informació**
+
+$22
+
+**Article 5. Marc nacional de gestió de crisis de ciberseguretat**
+
+$24
+
+#### Capítol Segon. Marc institucional
+
+**Article 6. Autoritats nacionals competents**
+
+$26
+
+**Article 7. Funcions de les autoritats nacionals competents**
+
+$28
+
+**Article 8. CSIRT-AD**
+
+1. El CSIRT-AD és l’equip de referència de resposta als incidents de seguretat de les xarxes i els sistemes d’informació dels sectors, subsectors o entitats que figuren en l’Annex I i l’Annex II.
+2. L’ANC-AD ha de vetllar perquè el CSIRT-AD disposi dels recursos adequats perquè pugui dur a terme de forma efectiva i eficient les funcions que li assigna aquesta Llei, el seu Reglament de creació i altra eventual normativa.
+3. Igualment, l’ANC-AD ha de vetllar perquè el CSIRT-AD tingui a la seva disposició una infraestructura de comunicació i d’informació adequada, segura i resilient per facilitar l’intercanvi d’informació amb les entitats essencials i importants i altres parts interessades pertinents.
+
+**Article 9. Funcions del CSIRT-AD**
+
+$2a
+
+### Títol III. Obligacions
+
+#### Capítol primer. Obligacions de ciberseguretat
+
+**Article 10. Obligació d’identificació com entitat essencial o important**
+
+$2c
+
+**Article 11. Identificació d’entitats crítiques**
+
+$2e
+
+**Article 12. Obligacions de ciberseguretat de les entitats essencials i importants**
+
+$30
+
+**Article 13. Gestió de riscos de ciberseguretat**
+
+$32
+
+**Article 14. Obligació de resoldre els incidents, d’informació i de col·laboració mútua**
+
+$34
+
+**Article 15. Obligació de notificar**
+
+$36
+
+**Article 16. Notificació voluntària**
+
+1. Sense perjudici del que es disposa a l’article 2, les entitats excloses de l’àmbit d’aplicació d’aquesta Llei poden presentar voluntàriament notificacions de ciberamenaces, quasiincidents i incidents significatius. Quan tramitin les notificacions al CSIRT-AD, aquestes entitats actuaran de conformitat amb el procediment establert a l’article 15.
+2. Així mateix, les entitats essencials o importants poden notificar els incidents o les ciberamenaces per als quals no s’estableixi una obligació de notificació.
+3. Aquestes notificacions obliguen a l’entitat que les hagi efectuat a resoldre l’incident d’acord amb el que s’estableix en aquesta Llei. No obstant això, aquest tipus d’entitat notificant no queda subjecta a altres obligacions addicionals a les quals no estaria obligada de no haver presentat aquesta notificació.
+4. Les notificacions obligatòries tenen caràcter prioritari sobre les voluntàries a l’efecte de la seva gestió per part del CSIRT-AD.
+
+#### Capítol Segon. Altres obligacions de les entitats essencials i importants
+
+**Article 17. Governança**
+
+1. Els òrgans de direcció de les entitats essencials i importants han d’aprovar les mesures de gestió dels riscos de ciberseguretat adoptades per aquestes entitats segons el que es disposa a l’article 13, supervisar la seva posada en pràctica i respondre per l’incompliment de les obligacions recollides en dit article per part de les entitats.
+2. Els membres de l’òrgan de direcció han d’assistir periòdicament a formacions específiques per adquirir coneixements i destreses suficients que permetin comprendre i avaluar els riscos de ciberseguretat i les pràctiques de gestió i el seu impacte en les operacions de l’entitat.
+
+**Article 18. Delegat de la Seguretat de la Informació**
+
+$38
+
+**Article 19. Representant al Principat d’Andorra**
+
+1. Si una entitat que presta serveis essencials o importants al Principat d’Andorra no està establerta en aquest, designarà un representant al Principat d’Andorra que estigui sotmès a la jurisdicció del país. En absència d’aquest representant, l’ANC-AD podrà identificar l’entitat essencial o important, informar-la de les seves obligacions recollides en aquesta Llei i emprendre accions legals contra ella per l’incompliment d’aquestes.
+2. La designació d’un representant per una entitat prevista a l’apartat 1 s’entendrà sense perjudici de les accions legals que puguin emprendre’s contra la pròpia entitat.
+
+**Article 20. Utilització d’esquemes de certificació de la ciberseguretat**
+
+1. A l’efecte de demostrar la conformitat amb determinats requisits que s’estableixen en aquesta Llei, les autoritats nacionals competents podran exigir a les entitats essencials i importants, o a categories d’entitats essencials o importants, del seu àmbit de competència, que certifiquin determinats productes, serveis i processos de TIC en virtut d’un esquema de certificació de la ciberseguretat específic adoptat reglamentàriament. Els productes, serveis o processos objecte de la certificació poden ser desenvolupats per l’entitat essencial o important o adquirits a tercers.
+2. Igualment, una vegada s’hagi establert reglamentàriament un esquema de certificació d’un àmbit de la ciberseguretat, les autoritats nacionals competents podran emetre un certificat en relació amb el dit àmbit per aquelles entitats essencials o importants que acrediten el compliment de les obligacions de seguretat de les infraestructures crítiques, les xarxes i els sistemes d’informació corresponents.
+
+**Article 21. Protecció del notificador**
+
+1. La notificació voluntària no donarà lloc a la imposició d’obligacions addicionals a l’entitat notificant a les quals no estaria subjecta de no haver presentat aquesta notificació.
+2. El DSI que faci la notificació, tingui relació laboral o mercantil amb l’entitat que l’ha nomenat, o la persona que notifiqui en el cas d’entitats no obligades, en cap cas pot patir conseqüències negatives en el seu lloc de treball o en la seva relació amb l’entitat a causa que procedeixi a notificar un incident d’acord amb el que es disposa en aquesta Llei, a excepció d’aquells casos en els quals quedi acreditada una mala fe en la seva actuació.
+3. Són nul·les i sense efecte legal totes aquelles decisions del patró que es prenguin en perjudici o detriment dels drets laborals dels treballadors que hagin actuat de conformitat amb el que es disposa a l’article 15 o l’article 16.
+
+#### Capítol tercer. Obligacions de supervisió
+
+**Article 22. Supervisió del compliment d’obligacions de seguretat i de notificacions d’incidents**
+
+$3a
+
+**Article 23. Supervisió i execució en el cas d’entitats essencials**
+
+$3c
+
+**Article 24. Supervisió i execució en el cas d’entitats importants**
+
+$3e
+
+#### Capítol quart. Altres obligacions de les autoritats nacionals competents i del CSIRT-AD
+
+**Article 25. Obligacions de les autoritats nacionals competents**
+
+$40
+
+**Article 26. Obligacions del CSIRT-AD**
+
+$42
+
+**Article 27. Cooperació nacional**
+
+1. L’ANC-AD, l’AFA i el CSIRT-AD cooperaran entre si per vetllar pel compliment de les obligacions establertes en aquesta Llei.
+2. L’ANC-AD i el CSIRT-AD cooperaran entre si per garantir la recepció de notificacions d’incidents, quasiincidents, vulnerabilitats o ciberamenaces significatius, en el marc d’aquesta Llei i amb el suport de les autoritats públiques del Principat d’Andorra.
+3. L’ANC-AD, l’AFA i el CSIRT-AD han de consultar, quan sigui procedent, als òrgans amb competències en matèria de seguretat nacional, seguretat pública, seguretat ciutadana i protecció de dades de caràcter personal, i hi han de col·laborar en l’exercici de les seves respectives funcions establertes per aquesta Llei.
+
+**Article 28. Cooperació transfronterera**
+
+$44
+
+**Article 29. Confidencialitat de la informació sensible**
+
+1. L’ANC-AD, l’AFA i el CSIRT-AD han de preservar la seguretat i els interessos comercials de les entitats essencials o importants, així com la confidencialitat de la informació que obtenen d’aquestes en l’exercici de les funcions que els encomana aquesta Llei.
+2. Quan l’intercanvi d’informació sigui necessari i es tracti d’informació sensible, s’ha de limitar la cessió d’acord amb la correcta aplicació dels principis de minimització de la informació i de proporcionalitat per a la finalitat d’aquest intercanvi.
+
+### Títol IV. Règim sancionador
+
+**Article 30. Potestat sancionadora**
+
+1. Tota actuació que contradigui el que estableix aquesta Llei o les disposicions reglamentàries que la desenvolupin, pot donar lloc a la incoació d’un expedient sancionador i a la imposició de sancions després de la instrucció prèvia de l’expedient que escaigui.
+2. La potestat per incoar i resoldre els expedients sancionadors per raó de l’establert en aquesta Llei correspon a l’autoritat que en cada moment estigui al capdavant de l’ANC-AD, també pel que fa a les entitats que estiguin sota la supervisió de l’AFA, a petició d’aquesta última. La instrucció dels expedients correspon als tècnics designats per l’ANC-AD.
+
+**Article 31. Responsables de les infraccions**
+
+Són responsables de les infraccions respecte al que regula aquesta Llei, les entitats essencials i importants sotmeses al compliment dels preceptes establerts en la mateixa.
+
+**Article 32. Expedient sancionador**
+
+1. La constatació d’una infracció per part de l’autoritat nacional competent que correspongui comporta la incoació de l’expedient sancionador corresponent per part de l’autoritat que disposa de la potestat sancionadora, d’acord amb el que disposi la normativa vigent en cada moment en matèria de procediments administratius sancionadors. No obstant això, el termini màxim de durada del procediment és d’un any, mentre que el termini d’al·legacions no pot tenir una durada inferior als sis mesos indicats a l’article 23.6.
+2. S’atorga a les actes de l’ANC-AD la presumpció d’exactitud, llevat de prova en contra.
+3. Contra les resolucions dictades per l’autoritat que disposa de la potestat sancionadora es pot interposar recurs, d’acord amb el que disposi la normativa en vigor en cada moment en matèria de recursos administratius.
+
+**Article 33. Infraccions**
+
+Constitueixen infraccions al que regula aquesta Llei les accions o omissions contràries a l’establert als seus preceptes.
+
+**Article 34. Classificació de les infraccions**
+
+$46
+
+**Article 35. Infraccions que comporten una violació de la seguretat de les dades personals**
+
+1. Quan l’autoritat nacional competent que correspongui tingui indicis que l’incompliment de les obligacions establertes en aquesta Llei, comès per una entitat essencial o important, comporta una violació de la seguretat de les dades personals, i que, per tant, hagi de notificar-se segons el que es disposa a l’article 27.3, ha d’informar a l’APDA, en un termini de temps raonable.
+2. Si l’APDA decideix exercir les seves facultats i imposar una multa administrativa, l’ANC-AD no ha d’imposar una multa administrativa per la mateixa infracció. No obstant això, l’autoritat nacional competent que correspongui pot aplicar les mesures o facultats previstes als apartats 3 (llevat del punt 3.j) i 4 de l’article 23 i als apartats 3 (llevat del punt 3.j) i 4 de l’article 24.
+
+**Article 36. Sancions**
+
+$48
+
+**Article 37. Graduació de les sancions**
+
+L’autoritat que disposa de la potestat sancionadora ha de graduar les sancions previstes en aquest Títol atesos els següents criteris:
+a) El grau de culpabilitat o l’existència d’intencionalitat.b) La continuïtat o persistència en la conducta infractora.c) La naturalesa i quantia dels danys i perjudicis causats.d) La reincidència, per comissió en l’últim any de més d’una infracció de la mateixa naturalesa, quan així s’hagi declarat per resolució ferma en via administrativa.e) El nombre d’usuaris afectats.f) El volum de facturació de l’entitat infractora.g) La utilització per l’entitat infractora de programes de recompensa pel descobriment de vulnerabilitats en les infraestructures crítiques, les xarxes i els sistemes d’informació, siguin propis o de tercers, que resultin necessaris per prestar els seus serveis.h) Les accions realitzades per l’entitat infractora per pal·liar els efectes o les conseqüències de la infracció.
+
+**Article 38. Proporcionalitat de les sancions**
+
+$4a
+
+**Article 39. Concurrència d’infraccions**
+
+1. No procedeix la imposició de sancions segons el que es preveu en aquesta Llei quan els fets constitutius de la infracció ho siguin també d’una altra tipificada en la normativa sectorial a la qual estigui subjecte el prestador del servei i existeixi identitat del bé jurídic protegit.
+2. En cas que, a conseqüència d’una actuació sancionadora, es tingui coneixement de fets que puguin ser constitutius d’infraccions tipificades en altres lleis, s’informa dels mateixos als òrgans o organismes competents per a la seva supervisió i sanció.
+
+**Article 40. Prescripció de les infraccions**
+
+1. Les infraccions prescriuen en els terminis següents:
+a) Les lleus, al cap d’un any.b) Les greus, al cap de dos anys.c) Les molt greus, al cap de tres anys.
+2. L’inici d’una activitat inspectora suspèn el termini de prescripció de les infraccions.
+3. El termini de prescripció de les infraccions es computa des del dia en què cessa l’acció o l’omissió sancionable.
+
+**Article 41. Prescripció de les sancions**
+
+Les sancions per infraccions lleus prescriuen en el termini d’un any, les greus en el termini de dos anys i les molt greus en el termini de tres anys, a comptar de la data de notificació de la resolució sancionadora esdevinguda ferma.

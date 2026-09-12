@@ -1,0 +1,481 @@
+# Llei de l'IRPF (Llei 5/2014)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/irpf
+Articles: 87 · versions consolidades: 14
+Instantania del consolidat: 2026-09-12T05:30:10.653104Z
+
+---
+
+#### Capítol I. Naturalesa i àmbit d’aplicació
+
+**Article 1. Naturalesa i àmbit d’aplicació de l’impost**
+
+L’impost sobre la renda de les persones físiques és un tribut de caràcter directe i naturalesa personal que grava, segons els principis de generalitat i de distribució equitativa de les càrregues fiscals, la renda obtinguda per les persones físiques en funció de la seva quantia i de les seves circumstàncies personals i familiars.
+
+**Article 2. Objecte de l’impost**
+
+L’objecte de l’impost està constituït per la renda de l’obligat tributari, entesa com la totalitat de les seves rendes i guanys i pèrdues de capital, amb independència del lloc on s’hagin produït i sigui on sigui la residència del pagador.
+
+**Article 3. Àmbit d’aplicació espacial**
+
+1. L’impost sobre la renda de les persones físiques s’aplica a tot el territori del Principat d’Andorra.
+2. El que estableix aquesta Llei s’entén sense perjudici del que disposen els tractats i els convenis internacionals que han passat a formar part de l’ordenament intern.
+
+#### Capítol II. Subjecció a l’impost
+
+##### Secció primera. El fet generador i les rendes exemptes
+
+**Article 4. Fet generador**
+
+1. Constitueix el fet generador l’obtenció de renda, sigui quina sigui la seva font o origen, per part de l’obligat tributari, amb independència del lloc on s’hagi produït i sigui quina sigui la residència del pagador.
+2. Componen la renda de l’obligat tributari:
+a) Les rendes del treball.b) Les rendes procedents de la realització d’activitats econòmiques.c) Les rendes del capital immobiliari.d) Les rendes del capital mobiliari.e) Els guanys i les pèrdues de capital.f) Les imputacions de renda en règim de transparència fiscal.
+3. Als efectes de la determinació de les bases de tributació i de liquidació i del càlcul de l’impost, la renda es classifica en renda general i renda de l’estalvi, en els termes següents:
+a) Formen la renda general les rendes del treball, les rendes procedents de la realització d’activitats econòmiques i les rendes del capital immobiliari.b) Formen la renda de l’estalvi les rendes de capital mobiliari i els guanys i les pèrdues de capital.
+4. No estan subjectes a aquest impost les adquisicions de béns i drets per herència, llegat o qualsevol altre títol successori, així com les adquisicions de béns i drets per donació o qualsevol altre negoci jurídic a títol gratuït,
+inter vivos
+, i la percepció de quantitats pels beneficiaris de contractes d’assegurança sobre la vida, quan el prenedor sigui una persona distinta del beneficiari.
+
+**Article 5. Rendes exemptes**
+
+$20
+
+**Article 6. Presumpció de rendes**
+
+Les cessions de béns i drets en les seves diverses modalitats es presumeixen retribuïdes pel seu valor normal de mercat, llevat de prova en contrari.
+
+##### Secció segona. Els obligats tributaris
+
+**Article 7. Obligats tributaris**
+
+1. Són obligats tributaris de l’impost les persones físiques que tinguin la residència fiscal en territori andorrà.
+2. Les rendes netes corresponents a les societats civils, herències jacents, comunitats de béns i totes les entitats o els patrimonis autònoms regulats en la normativa reguladora de les bases de l’ordenament tributari, s’imputen als seus socis, hereus, comuners o partícips segons les normes o els pactes aplicables en cada cas o a parts iguals en defecte d’aquests pactes. Aquestes rendes netes s’integren en la base de tributació de l’impost quan aquests socis, hereus, comuners o partícips siguin obligats tributaris d’aquest impost.
+Les rendes netes que s’integren a la base de tributació són el resultat de minorar les rendes íntegres obtingudes per aquestes entitats amb les despeses deduïbles vinculades a l’obtenció d’aquestes rendes.
+Aquestes rendes netes es qualificaran segons la seva naturalesa.
+
+**Article 8. Residència fiscal i domicili fiscal**
+
+$26
+
+**Article 9. Individualització de rendes**
+
+$28
+
+#### Capítol III. Determinació de les rendes gravades per aquest impost
+
+**Article 10. Determinació de la base de tributació i de la base de liquidació**
+
+1. La base de tributació està constituïda per l’import de la renda de l’obligat tributari en el període impositiu.
+2. La base de tributació es determina, en els termes que estableix aquesta Llei, com segueix:
+a) Les rendes es qualifiquen i quantifiquen d’acord amb el seu origen.b) Les rendes netes s’obtenen per la diferència entre els ingressos computables i les despeses deduïbles. Els guanys i les pèrdues de capital es determinen, amb caràcter general, per la diferència entre els valors de transmissió i adquisició.c) S’integren i compensen les diverses rendes segons el seu origen i la seva classificació com a renda general o de l’estalvi, tal com aquestes rendes es defineixen a l’article 4.
+El resultat d’aquestes operacions determina la base de tributació general i de l’estalvi.
+3. La base de liquidació és el resultat de practicar, a la base de tributació, les reduccions previstes en la secció segona del capítol V.
+
+#### Capítol IV. Determinació de la base de tributació
+
+##### Secció primera. Mètodes de determinació
+
+**Article 11. Mètodes de determinació de la base de tributació**
+
+1. La quantificació dels components de la base de tributació s’efectua, amb caràcter general, pel mètode de determinació directa.
+2. La base de tributació de la renda d’activitats econòmiques es du a terme d’acord amb el que preveu l’article 15, mitjançant el mètode de determinació directa, el sistema de determinació objectiva i, subsidiàriament, el mètode de determinació indirecta.
+3. El mètode d’estimació indirecta s’aplica d’acord amb el que disposa la normativa reguladora de les bases de l’ordenament tributari.
+
+##### Secció segona. Determinació de les rendes del treball
+
+**Article 12. Rendes íntegres del treball**
+
+$2a
+
+**Article 13. Rendes netes del treball**
+
+1. Les rendes netes del treball són el resultat de minorar les rendes íntegres del treball en l’import de les despeses deduïbles.
+2. Són despeses deduïbles exclusivament les següents:
+a) Les cotitzacions en un sistema públic de seguretat social en la part corresponent al treballador.b) En concepte d’altres despeses, un 3 per cent dels rendiments íntegres del treball, exclosos els conceptes indicats en les lletres b), c), d), e), f) i g) de l’apartat 1 de l’article 12 i en les lletres b), c), d), e) i g) de l’apartat 2 de l’article 12, fins a un màxim de 2.500 euros.
+
+##### Secció tercera. Determinació de les rendes d’activitats econòmiques
+
+**Article 14. Rendes íntegres d’activitats econòmiques**
+
+$2c
+
+**Article 15. Rendes netes d’activitats econòmiques**
+
+1. En el mètode de determinació directa, les rendes netes d’activitats econòmiques es calculen segons el que preveu l’article 16.
+2. En el sistema de determinació objectiva, la base de tributació es calcula aplicant les regles que estableix l’article 17.
+3. En tot cas, es valoren d’acord amb el seu valor normal de mercat els béns o serveis que els obligats tributaris cedeixin o prestin a tercers no vinculats de forma gratuïta o destinin a l’ús o consum propi.
+Igualment, quan hi hagi una contraprestació i sigui notòriament inferior al valor normal en el mercat dels béns i serveis, es pren aquest darrer valor com a criteri de valoració.
+
+**Article 16. Determinació directa dels rendiments de les activitats econòmiques**
+
+$30
+
+**Article 17. Determinació objectiva dels rendiments de les activitats econòmiques**
+
+$34
+
+**Article 18. Béns i drets destinats a una activitat econòmica**
+
+$36
+
+##### Secció quarta. Determinació de les rendes del capital
+
+**Article 19. Definició de rendes del capital**
+
+1. Als efectes d’aquest impost, tenen la qualificació de “rendes del capital” la totalitat de les utilitats o contraprestacions, sigui quina sigui la seva denominació o naturalesa, dineràries o en espècie, que provinguin, directament o indirectament, d’elements patrimonials, béns o drets, la titularitat dels quals correspongui a l’obligat tributari i que no estiguin destinats a activitats econòmiques, tal com aquestes activitats es defineixen en l’article 14, realitzades per l’obligat tributari.
+No obstant això, les rendes derivades de la transmissió de la titularitat dels elements patrimonials, fins i tot quan hi hagi un pacte de reserva de domini, tributen com a guanys o pèrdues de capital, excepte que per aquesta Llei es qualifiquin com a rendes del capital.
+2. En tot cas, tenen aquesta consideració:
+a) Les rendes derivades de béns immobles.b) Les rendes del capital mobiliari i, en general, dels restants béns o drets dels quals sigui titular l’obligat tributari.
+
+**Article 20. Rendes íntegres del capital immobiliari**
+
+Tenen la consideració de “rendes íntegres procedents de la titularitat de béns immobles” totes les que derivin de l’arrendament o de la constitució o cessió de drets o facultats d’ús o gaudi sobre aquests béns, sigui quina sigui la seva denominació o naturalesa i sens perjudici del que s’estableix a l’article 14.
+
+**Article 21. Despeses deduïbles**
+
+$38
+
+**Article 22. Rendes íntegres del capital mobiliari**
+
+$3d
+
+**Article 23. Rendes netes del capital mobiliari**
+
+1. Les rendes netes del capital mobiliari són el resultat de minorar les rendes íntegres en l’import de les despeses deduïbles.
+2. Són despeses deduïbles les despeses d’administració i custòdia, les comissions d’intermediaris així com altres despeses de naturalesa similar necessàries per l’obtenció d’aquestes rendes.
+3. Per determinar les rendes netes definides a l’apartat 4 de l’article 22, es dedueixen de les rendes íntegres les despeses necessàries per obtenir aquestes rendes netes i, si és procedent, l’import del deteriorament sofert pels béns o drets dels quals s’obtinguin els ingressos.
+
+##### Secció cinquena. Determinació dels guanys i pèrdues de capital
+
+**Article 24. Concepte**
+
+$3f
+
+**Article 25. Còmput**
+
+$43
+
+**Article 26. Transmissions a títol onerós**
+
+1. En les transmissions a títol onerós formen part del valor d’adquisició:
+a) L’import real satisfet en l’adquisició.b) L’import de les inversions o millores realitzades en el bé objecte de transmissió.c) Les despeses i els tributs inherents a l’adquisició satisfets per l’adquirent, exclosos els interessos i els impostos indirectes que hagin resultat deduïbles.
+2. En el cas de béns immobles, el valor d’adquisició al qual es refereix l’apartat anterior s’actualitza multiplicant-lo pels coeficients d’actualització que s’estableixin en la llei del pressupost general corresponent, determinats en funció dels anys en què l’immoble hagi estat en propietat de l’obligat tributari.
+3. El valor de transmissió és l’import real satisfet, sempre que no resulti inferior al seu valor normal de mercat, cas en què prevaldria aquest últim. Del valor de transmissió es dedueixen les despeses i els tributs a què es fa referència a la lletra c) de l’apartat 1, si han estat satisfets pel transmitent.
+
+**Article 27. Transmissions a títol lucratiu**
+
+Quan l’adquisició o la transmissió s’hagin realitzat a títol lucratiu, s’apliquen les regles previstes a l’apartat 1 de l’article 26, considerant com a valor real dels elements transmesos el seu valor normal de mercat.
+
+**Article 27 bis. Còmput dels guanys i de les pèrdues de capital en transmissions d’immobles situats al Principat d’Andorra**
+
+$45
+
+##### Secció sisena. Regles especials de valoració
+
+**Article 28. Valoració de les operacions**
+
+La valoració de les operacions entre els obligats tributaris subjectes a aquest impost i altres persones físiques o entitats vinculades es realitza pel seu valor normal de mercat, en els termes que preveu la Llei de l’impost sobre societats.
+
+**Article 29. Rendes en espècie**
+
+1. Es consideren rendes en espècie la utilització, consum o obtenció, per a fins particulars, de béns, drets o serveis de forma gratuïta o per preu inferior al normal de mercat, encara que no suposi una despesa real per a qui les concedeix.
+2. No es consideren rendiments del treball en espècie:
+a) Els lliuraments als empleats de productes a preus rebaixats que es realitzin en menjadors d’empresa o economats.b) Les primes o quotes satisfetes a entitats asseguradores en virtut de contracte d’assegurança d’accident laboral o de responsabilitat civil del treballador.c) La prestació del servei d’educació per centres educatius autoritzats als fills dels seus empleats.
+
+##### Secció setena. Transparència fiscal
+
+**Article 29 bis. Règim de transparència fiscal**
+
+$49
+
+##### Secció vuitena. Integració i compensació de rendes
+
+**Article 30. Integració i compensació de rendes**
+
+1. Per al càlcul de la base de tributació, els imports positius o negatius de les rendes de l’obligat tributari s’integren i es compensen entre ells segons el que es preveu en aquest article.
+2. D’acord amb la classificació de la renda que s’estableix a l’article 4, la base de tributació es divideix en dos parts:
+a) Base de tributació general.b) Base de tributació de l’estalvi.
+
+**Article 31. Base de tributació general**
+
+1. La base de tributació general és el resultat d’integrar i compensar entre si, en cada període impositiu, les rendes del treball, les rendes procedents de la realització d’activitats econòmiques i les rendes del capital immobiliari.
+2. Si després de la integració i compensació anteriors resulta un import negatiu, pot compensar-se amb l’import positiu de la base de tributació general resultant en els deu períodes impositius següents.
+
+**Article 32. Base de tributació de l’estalvi**
+
+1. La base de tributació de l’estalvi és el resultat d’integrar i compensar entre si, en cada període impositiu, les rendes del capital mobiliari i els guanys i les pèrdues de capital.
+2. Si després de la integració i compensació anteriors resulta un import negatiu, pot compensar-se amb l’import positiu de la base de tributació de l’estalvi resultant en els deu períodes impositius següents.
+
+#### Capítol V. Determinació de la base de liquidació
+
+##### Secció primera. Base de liquidació general i de l’estalvi
+
+**Article 33. Base de liquidació general**
+
+1. La base de liquidació general és el resultat de minorar el saldo positiu de la base de tributació general en l’import de les reduccions previstes en els articles 35, 38 i 39.
+2. Les reduccions esmentades en l’apartat anterior s’apliquen en els termes següents:
+a) En primer lloc, s’apliquen les reduccions personals i familiars previstes en l’article 35.b) En cas que, una vegada aplicades les reduccions personals i familiars, la base de tributació tingui saldo positiu, s’apliquen les reduccions per adquisició d’habitatge habitual i per aportacions a sistemes de previsió social i pensions compensatòries contingudes en els articles 38 i 39.
+3. L’import de la base de liquidació general no pot resultar negatiu com a conseqüència de l’aplicació de les reduccions indicades en els apartats anteriors.
+
+**Article 34. Base de liquidació de l’estalvi**
+
+1. La base de liquidació de l’estalvi es determina mitjançant la minoració del saldo positiu de la base de tributació de l’estalvi en l’import de la reducció prevista en l’article 37.
+2. L’import de la base de liquidació de l’estalvi no pot resultar negatiu com a conseqüència de l’aplicació de la reducció indicada a l’apartat anterior.
+
+##### Secció segona. Reduccions
+
+**Article 35. Reduccions personals i familiars**
+
+$4b
+
+**Article 36. Normes per a l’aplicació dels mínims personal i familiar**
+
+1. Quan el període impositiu és inferior a l’any natural, el mínim personal es prorrateja pel nombre de dies del període impositiu respecte de l’any natural.
+2. Per a l’aplicació del mínim familiar es tenen en compte les circumstàncies personals i familiars en el moment del meritament de l’impost.
+No obstant, en cas de defunció d’un descendent que dóna dret a l’aplicació del mínim familiar, el seu import es prorrateja pel nombre de dies durant els quals es compleixen els requisits per la seva aplicació.
+
+**Article 37. Reducció per mínim exempt de les rendes de l’estalvi**
+
+La base de tributació de l’estalvi es redueix en un import de 3.000 euros en concepte de mínim exempt per obtenció de rendes de l’estalvi.
+
+**Article 38. Reducció per inversió en habitatge habitual**
+
+$51
+
+**Article 38 bis. Reducció per inversió en habitatge de lloguer a preu assequible**
+
+Els obligats tributaris poden reduir la base de tributació en un import equivalent al 50% de les quantitats satisfetes en el període impositiu per a l’adquisició d’un l’immoble que destinin al mercat de lloguer per a residència habitual i permanent d’una persona física, sempre que sigui a un preu assequible, incloent-hi les despeses originades per l’adquisició a càrrec de l’adquirent i, en cas de finançament per tercers, l’amortització, els interessos i les restants despeses associades al préstec.
+La quantia màxima de la reducció és de 5.000 euros anuals.
+
+**Article 39. Reduccions per aportacions a instruments de previsió social i pensions compensatòries**
+
+$57
+
+#### Capítol VI. Període impositiu, meritació i imputació de rendes
+
+**Article 40. Període impositiu**
+
+1. El període impositiu coincideix amb l’any natural.
+2. El període impositiu és inferior a l’any natural si es produeix la defunció de l’obligat tributari en un dia diferent del 31 de desembre. En aquest cas, el període impositiu finalitza a la data de la defunció.
+
+**Article 41. Meritació de l’impost**
+
+L’impost es merita l’últim dia del període impositiu.
+
+**Article 42. Imputació de rendes**
+
+$5b
+
+#### Capítol VII. El deute tributari
+
+##### Secció primera. La quota de tributació
+
+**Article 43. Tipus de gravamen**
+
+El tipus de gravamen de l’impost és el 10 per cent.
+
+**Article 44. Quota de tributació**
+
+La quota de tributació és el sumatori dels imports resultants d’aplicar el tipus de gravamen sobre els saldos positius de les bases de liquidació general i de l’estalvi, respectivament.
+La quota de tributació no pot ser negativa i, com a mínim, es consigna un import de zero.
+
+##### Secció segona. Quota de liquidació
+
+**Article 45. Quota de liquidació**
+
+1. La quota de liquidació és el resultat de reduir la quota de tributació en els imports següents:
+a) En primer lloc, en l’import de la bonificació prevista en l’article 46.b) En cas que, després d’aplicar la bonificació anterior, resti un saldo positiu de la quota de tributació, aquesta quota es redueix en l’import que resulti d’aplicar les deduccions previstes als articles 47, 48, 48 bis i 49.
+2. La quota de liquidació no pot ser negativa com a conseqüència de l’aplicació de la bonificació i les deduccions anteriors i, com a mínim, es consigna un import de zero.
+
+**Article 46. Bonificació per obtenció de rendes del treball, d’activitats econòmiques o del capital immobiliari**
+
+L’obligat tributari que hagi obtingut rendes del treball, rendes derivades de la realització d’activitats econòmiques o rendes del capital immobiliari es dedueix de la quota de tributació una bonificació del 50 per cent de la quantitat que resulti d’aplicar el tipus de gravamen de l’impost sobre l’import de la base de tributació general de l’obligat tributari, minorada en la quantitat corresponent a la reducció prevista en el primer paràgraf de l’apartat 1 de l’article 35 a què tingui dret.
+Aquesta bonificació no pot excedir la quantitat de 800 euros.
+
+**Article 47. Deduccions per eliminar la doble imposició interna**
+
+1. La quota de tributació es minora amb l’import de les quotes de tributació satisfetes per l’obligat tributari per l’impost comunal sobre els rendiments arrendataris i per l’impost comunal sobre la radicació d’activitats comercials, empresarials i professionals, corresponents a rendes d’activitats econòmiques o rendes del capital immobiliari que s’hagin integrat en la base de tributació d’aquest impost.
+2. Els saldos d’aquestes deduccions que no s’hagin aplicat per insuficiència de quota es poden deduir de la quota de tributació dels tres exercicis posteriors.
+
+**Article 48. Deducció per eliminar la doble imposició internacional**
+
+$5d
+
+**Article 48 bis. Deducció per incentius fiscals al mecenatge**
+
+$61
+
+**Article 49. Deduccions per a contribuents que realitzen activitats econòmiques**
+
+Els obligats tributaris que realitzen activitats econòmiques i determinen el seu rendiment segons el que es preveu a la secció tercera del capítol IV, apliquen les deduccions a la quota establertes a la Llei de l’impost sobre societats. En particular, són aplicables els mateixos límits i percentatges.
+
+#### Capítol VIII. Pagaments a compte
+
+**Article 50. Obligats a efectuar pagaments a compte**
+
+$69
+
+**Article 51. Import dels pagaments a compte**
+
+$6d
+
+**Article 51 bis. Pagaments a compte en transmissions immobiliàries**
+
+$6f
+
+**Article 51 ter. Obligacions dels fedataris públics en transmissions immobiliàries**
+
+$71
+
+**Article 52. Deducció dels pagaments a compte i quota diferencial**
+
+L’import de les retencions, els ingressos a compte, els pagaments fraccionats i el pagament a compte en transmissions immobiliàries previst a l’article 51 bis es dedueix de la quota de liquidació per obtenir la quota diferencial. Quan, per efecte dels pagaments a compte, la quota diferencial sigui negativa, el ministeri encarregat de les finances ha de retornar l’excés d’acord amb el que s’estableix a l’article 58.
+Quan es tracti de transmissions amb preu ajornat segons la lletra c) de l’apartat 2 de l’article 42 d’aquesta Llei, l’import del pagament a compte efectuat d’acord amb l’article 51 bis es dedueix de la quota de liquidació a mesura que la renda s’imputa en la base de tributació.
+
+#### Capítol IX. Gestió i liquidació
+
+**Article 53. Registre tributari**
+
+1. Els obligats tributaris de l’impost sobre la renda de les persones físiques han de disposar d’un número de registre tributari (en endavant, NRT), que han de sol·licitar en cas que ja no el posseeixin com a obligats tributaris de l’impost sobre la renda de les activitats econòmiques o dels impostos indirectes. Aquest número és únic per a tots els tributs estatals. La sol·licitud s’ha de formalitzar mitjançant el model normalitzat establert pel Govern.
+2. El ministeri encarregat de les finances ha de portar un registre tributari en què s’han d’inscriure les persones físiques i entitats sense personalitat jurídica pròpia que siguin obligats tributaris d’aquest impost.
+3. Reglamentàriament es desenvolupen les formes, els terminis i la documentació que cal presentar per obtenir l’NRT, així com els procediments de gestió de l’impost.
+
+**Article 54. Obligació de col·laboració**
+
+Els titulars del Registre de Comerç i Indústria, els titulars del Registre de Professions Liberals i els titulars del Registre d’Associacions han de remetre al ministeri encarregat de les finances, per la via telemàtica, la informació en relació amb les persones físiques i entitats, la constitució, l’establiment, la modificació o l’extinció referent a les modificacions que es produeixen en aquests registres, segons el que es determini reglamentàriament.
+La mateixa obligació incumbeix els notaris pel que fa a les escriptures i altres documents que autoritzin la constitució, la modificació, la transformació o l’extinció de tota classe d’entitats.
+
+**Article 55. Declaracions**
+
+1. Els obligats tributaris han de presentar i subscriure una declaració per aquest impost en el lloc i la forma que es determinin reglamentàriament entre l’1 d’abril i el 30 de setembre de l’exercici posterior a la finalització del període impositiu.
+2. No obstant això, no estan obligats a presentar la declaració els obligats tributaris que únicament obtinguin rendes procedents d’alguna o de la totalitat de les fonts següents:
+a) Rendes del treball.b) Rendes del capital mobiliari.c) Rendes exemptes en virtut de l’article 5.
+3. Estan obligats en tot cas a presentar i subscriure la declaració prevista en l’apartat 1 els obligats tributaris que hagin percebut rendes del treball o rendes del capital mobiliari que no hagin estat sotmeses a l’obligació d’efectuar pagaments a compte d’acord amb el que s’estableix en l’article 50.
+
+**Article 56. Autoliquidació i ingrés del deute tributari**
+
+1. Els obligats tributaris, en el moment de presentar la seva declaració, han de determinar el deute corresponent i ingressar-lo en el lloc i la forma que es determinin reglamentàriament.
+2. El pagament del deute tributari es pot efectuar mitjançant el lliurament de béns integrants del patrimoni cultural del Principat d’Andorra en la forma que preveu la normativa reguladora del patrimoni cultural d’Andorra.
+
+**Article 57. Liquidació provisional**
+
+El ministeri encarregat de les finances pot girar la liquidació provisional que escaigui d’acord amb el que disposa la normativa reguladora de les bases de l’ordenament tributari, sense perjudici de les comprovacions posteriors que puguin realitzar els òrgans d’aquest ministeri.
+
+**Article 58. Devolució d’ofici**
+
+$74
+
+#### Capítol X. Infraccions i sancions
+
+**Article 59. Infraccions**
+
+La regulació de les infraccions en matèria tributària relatives al contingut d’aquesta Llei es regeix, en allò que no s’estableix en aquesta Llei, pel règim d’infraccions i sancions establert en la normativa reguladora de les bases de l’ordenament tributari.
+
+**Article 60. Modalitats d’infraccions**
+
+1. Es consideren infraccions simples:
+a) Les autoliquidacions incompletes sense transcendència en la liquidació.b) L’incompliment de requeriments d’informació i/o documentació.
+2. Es consideren infraccions de defraudació:
+a) La no-presentació de l’autoliquidació, quan la presentació sigui obligatòria d’acord amb les disposicions d’aquesta Llei.b) Les autoliquidacions incompletes amb transcendència en la liquidació.c) Les falses autoliquidacions.d) Quan es tracti de rendes derivades de la transmissió de béns immobles situats al territori del Principat d’Andorra, deixar d’ingressar les diferències de valor que es produeixin entre el valor declarat i el valor real, comprovat per l’Administració, quan aquesta diferència superi el 50% del valor real del bé immoble edificat o del dret real sobre el bé immoble o el 100% quan es tracti de terrenys no edificats o del dret real sobre el terreny.
+
+**Article 61. Sancions**
+
+1. Les infraccions simples són sancionades mitjançant una multa fixa d’entre 150 euros i 3.000 euros.
+2. Les infraccions de defraudació són sancionades mitjançant una multa proporcional d’entre el 50% i el 150% de la quota defraudada.
+3. Les sancions anteriors s’estableixen seguint els criteris de graduació establerts en la normativa reguladora de les bases de l’ordenament tributari.
+
+**Article 62. Notificacions i recursos de les infraccions**
+
+1. Prèviament a l’acte d’imposició d’una sanció, s’ha de notificar a la persona interessada la proposta de resolució amb indicació dels fets imputats, el precepte infringit i la quantia de la multa. La persona interessada disposa d’un termini de tretze dies hàbils per al·legar tot allò que consideri oportú per a la seva defensa.
+2. Transcorregut el termini d’al·legacions, l’òrgan competent dicta la resolució que correspongui, contra la qual es pot recórrer en els termes establerts en la normativa reguladora de les bases de l’ordenament tributari.
+3. En qualsevol cas, i perquè l’acte administratiu quedi en suspens, amb la interposició del recurs s’ha d’aportar una garantia suficient, ja sigui hipotecària o bé un aval o una fiança d’una entitat bancària andorrana que garanteixi l’import total del deute tributari.
+
+#### Capítol XI. Ordre jurisdiccional
+
+**Article 63. Jurisdicció competent**
+
+La jurisdicció administrativa, amb l’exhauriment previ de la via administrativa en matèria tributària, és l’única competent per dirimir les controvèrsies de fet i dret que se suscitin entre el ministeri encarregat de les finances i els obligats tributaris en relació amb qualsevol de les qüestions a què es refereix aquesta Llei.
+
+**Cost d’adquisició dels valors representatius de la participació en els fons propis d’entitats**
+
+A l’efecte de computar els guanys i les pèrdues de capital derivats de les transmissions de valors representatius de la participació en els fons propis d’entitats residents al Principat d’Andorra adquirits abans de l’entrada en vigor d’aquesta Llei, es pren com a valor d’adquisició de la participació transmesa el major dels dos següents: el valor teòric comptable corresponent en la data de tancament de l’últim període impositiu que finalitzi abans del dia 1 de gener del 2013 o el valor d’adquisició acreditat de forma fefaent.
+El valor teòric comptable és el que resulti dels comptes anuals dipositats en el Registre de Societats i formulats d’acord amb la normativa comptable i mercantil vigent al Principat d’Andorra.
+
+**Cost d’adquisició dels béns immobles**
+
+$76
+
+**Pagament fraccionat corresponent al primer període impositiu d’aplicació d’aquesta Llei**
+
+Per determinar el pagament fraccionat que s’ha d’efectuar en el primer període impositiu en el qual sigui aplicable aquesta Llei, es pren la quota de liquidació o, si escau, la renda neta corresponent a l’impost sobre la renda d’activitats econòmiques de l’obligat tributari en relació amb l’últim exercici tancat abans de l’aplicació d’aquesta Llei.
+
+**Determinació de la renda derivada de determinats actius financers, contractes d’assegurança, plans de pensions i instruments de previsió social, adquirits o formalitzats abans del primer dia en què sigui d’aplicació aquesta Llei**
+
+$78
+
+**Determinació de la renda corresponent a prestacions rebudes de la Caixa Andorrana de Seguretat Social en relació amb cotitzacions prèvies al primer dia en què sigui d’aplicació aquesta Llei**
+
+$7a
+
+**Col·laboració de la Caixa Andorrana de Seguretat Social en la determinació dels percentatges de retenció i ingrés a compte**
+
+La Caixa Andorrana de Seguretat Social col·laborarà en el procés de determinació dels percentatges de retenció i ingrés a compte aplicables sobre les rendes del treball sotmeses a l’obligació de cotització a l’esmentada Caixa Andorra de Seguretat Social, corresponents a l’inici del primer període impositiu en què sigui d’aplicació l’impost sobre la renda de les persones físiques, en els termes que es determinin reglamentàriament. A aquest efecte, la Caixa Andorra de Seguretat Social podrà utilitzar la informació que obri en poder seu i que pugui ser rellevant per tal determinar els esmentats percentatges.
+
+**Traspàs d’actius i passius en el marc d’un procediment de resolució d’entitats bancàries**
+
+El traspàs d’actius i de passius dels quals sigui titular l’obligat tributari d’aquest impost, en el marc d’un procediment de resolució previst en la Llei 8/2013, del 9 de maig, sobre els requisits organitzatius i les condicions de funcionament de les entitats operatives del sistema financer, la protecció de l’inversor, l’abús de mercat i els acords de garantia financera, no generarà per al titular dels actius i dels passius cap renda, positiva o negativa, guany o pèrdua de capital, susceptibles d’imposició o de deducció per aquest impost.
+A l’efecte del còmput de les rendes, guanys o pèrdues de capital que l’obligat tributari obtingui posteriorment en relació amb els actius i passius esmentats, es tindrà en compte el valor d’adquisició i, quan sigui rellevant, la data d’adquisició o formalització originals.
+
+**Bases de tributació negatives en l’impost sobre la renda de les activitats econòmiques**
+
+1. Els obligats tributaris que, a l’inici del primer exercici en què sigui aplicable aquesta Llei, tinguin bases de tributació negatives pendents de compensació, d’acord amb el que preveu l’article 17 de la Llei 96/2010, del 29 de desembre, de l’impost sobre la renda de les activitats econòmiques, poden compensar-les en el termini i amb les condicions previstes en aquesta Llei per a les bases de tributació generals negatives.
+2. Per determinar el termini de compensació de les bases de tributació negatives esmentades en el paràgraf anterior, es considera que aquestes bases van ser generades en el període impositiu en el qual van ser objecte d’autoliquidació per l’obligat tributari de l’impost sobre la renda d’activitats econòmiques.
+
+**Deduccions pendents de l’impost sobre la renda de les activitats econòmiques**
+
+1. Els obligats tributaris que, a l’inici del primer exercici en què sigui aplicable aquesta Llei, tinguin deduccions pendents d’aplicació, d’acord amb el que preveuen els articles 23 i 24 de la Llei 96/2010, del 29 de desembre, de l’impost sobre la renda de les activitats econòmiques, es poden deduir de la quota de tributació de l’impost sobre la renda dels tres exercicis posteriors
+2. Per determinar el termini d’aplicació de les deduccions esmentades en el paràgraf anterior, es considera que aquestes deduccions van ser generades en el període impositiu en el qual van ser objecte d’autoliquidació per l’obligat tributari de l’impost sobre la renda d’activitats econòmiques.
+
+**Règim especial per a residents sense activitat lucrativa**
+
+$7c
+
+**Primer any d’aplicació de l’impost**
+
+Pel primer any d’aplicació d’aquesta Llei el termini per optar al règim establert en els articles 17 i 21, així com el règim especial establert en la disposició transitòria tercera, serà de tres mesos a comptar des de la data d’inici d’aplicació d’aquesta Llei, en els termes i condicions que es determinin reglamentàriament.
+
+**Dividends satisfets amb càrrec a beneficis obtinguts abans de l’aplicació de la Llei 95/2010, de 29 de desembre, de l’impost sobre societats**
+
+L’exempció prevista a la lletra j) de l’article 5 resultarà igualment d’aplicació als dividends i altres rendiments derivats de la participació en el patrimoni net, a què es fa referència a l’apartat 1 de l’article 22, satisfets per entitats residents fiscals al Principat d’Andorra o per organismes d’inversió col·lectiva de dret andorrà, amb càrrec a beneficis no distribuïts obtinguts o a partides de patrimoni constituïdes abans del primer període impositiu en què hagi estat d’aplicació la Llei 95/2010, de 29 de desembre, de l’impost sobre societats.
+
+**Impost sobre la renda de les activitats econòmiques**
+
+Amb efectes des de l’1 de gener del 2015, queda derogada la Llei 96/2010, del 29 de desembre, de l’impost sobre la renda de les activitats econòmiques, així com les disposicions relatives a aquest impost contingudes en el Decret del 13 de juny del 2012 pel qual s’aprova el Reglament de l’impost sobre societats i de l’impost sobre la renda de les activitats econòmiques.
+
+**Modificació de la llei de l’impost sobre la renda dels no-residents fiscals**
+
+$7e
+
+**Exempció dels premis del joc en l’impost sobre la renda dels no-residents fiscals**
+
+Es modifica la lletra e) de l’article 15 de la Llei 94/2010, del 29 de desembre, de l’impost sobre la renda dels no-residents fiscals, que queda redactada de la manera següent:
+“Els premis que procedeixin del joc, sempre que estiguin subjectes a la imposició establerta a la normativa aplicable al joc.”
+
+**Actualització dels imports**
+
+La llei del pressupost general pot modificar l’import de les reduccions, bonificacions i deduccions que estableix aquesta Llei.
+
+**Habilitació normativa**
+
+1. S’encomana al Govern la redacció de les disposicions i dels reglaments necessaris per al desenvolupament i l’execució d’aquesta Llei en el termini de tres mesos des de la seva entrada en vigor.
+2. Els models de declaració d’aquest impost i els dels seus pagaments a compte són fixats per reglament, el qual ha d’establir, a més de la forma, el lloc i els terminis per presentar-los, els supòsits i les condicions de la seva presentació per mitjans telemàtics.
+3. Es delega al ministeri encarregat de les finances la gestió i la recaptació de l’impost que regula aquesta Llei.
+4. Els obligats tributaris poden fer consultes relatives exclusivament a la interpretació de l’articulat de la Llei. Han de ser contestades, en un termini màxim de sis mesos, pel ministeri encarregat de les finances amb caràcter vinculant. El Govern ha d’establir reglamentàriament els termes i l’abast en què es poden efectuar aquestes consultes.
+
+**Entrada en vigor**
+
+Aquesta Llei entra en vigor l’endemà de ser publicada al Butlletí Oficial del Principat d’Andorra i és aplicable als exercicis que s’iniciïn a partir de l’1 de gener del 2015.
+Casa de la Vall, 24 d’abril del 2014
+Vicenç Mateu ZamoraSíndic General
+Nosaltres els coprínceps la sancionem i promulguem i n’ordenem la publicació en el Butlletí Oficial del Principat d’Andorra.
+François HollandePresident de la República FrancesaCopríncep d’AndorraJoan Enric Vives SicíliaBisbe d’UrgellCopríncep d’Andorra

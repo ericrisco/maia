@@ -1,0 +1,276 @@
+# Llei d'accessibilitat universal (Llei 24/2025)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/accessibilitat-universal
+Articles: 50 · versions consolidades: 1
+Instantania del consolidat: 2026-09-12T05:30:17.678672Z
+
+---
+
+#### Capítol primer. Disposicions generals
+
+**Article 1. Definicions**
+
+A l’efecte d’aquesta Llei, s’estableixen les definicions següents:
+a)Accessibilitat universal: conjunt de condicions d’usabilitat i comprensibilitat que s’ha d’acomplir a l’entorn físic natural, urbanitzat i edificat, els mitjans de transport, l’accés a la informació i les formes d’interacció amb els serveis públics i d’ús públic i els sistemes d’informació, d’expressió i de comunicació, perquè totes les persones els puguin fer servir i puguin gaudir-ne amb seguretat i comoditat, i de la manera més autònoma i natural possible, en els termes establerts en aquesta Llei i els reglaments que la desenvolupin, sense detriment de l’eventual utilització de mitjans de suport alternatius.b)Accessible: entorn dissenyat o adaptat perquè totes les persones puguin utilitzar-lo amb seguretat, autonomia i comoditat, independentment de les seves capacitats.c)Practicable: entorn que és utilitzable amb certes limitacions o esforç addicional.d)Barreres a l’accessibilitat: impediments, traves o obstacles per a la interacció de les persones amb l’entorn físic, el transport, els productes, els serveis, la informació i les comunicacions.e)Persones amb mobilitat reduïda: persones que tenen dificultats per desplaçar-se, moure’s o interaccionar amb l’entorn amb seguretat i autonomia.f)Persones amb discapacitat: persones que tenen deficiències físiques, mentals, intel·lectuals o sensorials a llarg termini que, en interactuar amb diverses barreres, poden impedir la seva participació plena i efectiva en la societat, en igualtat de condicions amb les altres persones.g)Entorn físic: entorn natural d’ús públic, entorn urbanitzat i entorn edificat.i. Entorns naturals d’ús públic: espais del medi natural amb accés rodat i amb serveis que permetin un ús públic, destinats a ser utilitzats per la ciutadania per a activitats recreatives, culturals, educatives o d’esbarjo.ii. Entorns urbanitzats: vies, parcs, places i altres espais exteriors d’ús públic situats en l’entorn urbà.iii. Entorns edificats: edificis i locals d’ús públic i edificis d’habitatges.h)Ús públic: usat per un nombre indeterminat de persones o pel públic en general. No es consideren edificis o espais d’ús públic els destinats a l’ús privatiu d’habitatge.i)Edificació: la part d’un edifici, l’edifici o el conjunt d’edificis amb identitat pròpia que es poden destinar a diverses finalitats. En l’edificació, hi són compresos les instal·lacions fixes i l’equipament propi i també els elements d’urbanització interior de la parcel·la o del solar que estan adscrits a l’edifici. El termeedificis’empra amb el mateix significat que el que s’indica per al termeedificació, incloent-hi els elements que hi són compresos.j)Edifici d’habitatges: edificació que es troba en l’entorn urbanitzat o natural, destinada a la residència de les persones físiques, inclosos els espais comuns de l’edifici que té aquesta finalitat.k)Elements d’urbanització: qualsevol component de les obres d’urbanització, referent al subministrament i la distribució d’aigua, el sanejament, la captació i la distribució d’energia, les telecomunicacions, la seguretat i la senyalització viàries, la jardineria i la pavimentació, així com tots els elements que materialitzen les indicacions dels plans urbanístics i els projectes d’urbanització.l)Itinerari de vianants: carrer, camí, trajecte o recorregut que relaciona els espais de trànsit de persones entre si o amb les edificacions o el seu interior o amb els mitjans de transport de l’entorn.m)Servei públic: servei prestat de forma regular i contínua per l’administració pública, directament o mitjançant proveïdors o concessionaris, per satisfer les necessitats generals públiques.n)Servei d’ús públic: qualsevol servei proporcionat per l’Administració pública o per entitats autoritzades que està dissenyat per satisfer les necessitats de la població en general.o)Comunicació: acció i procés de transmetre un missatge, establint una relació i una interacció social. La comunicació pot ser auditiva; tàctil, que pot incloure, entre altres aspectes, el sistema de lectoescriptura Braille, els símbols i gràfics en relleu o la llengua de signes amb o sense suport tàctil; o visual, que inclou el sistema gràfic alfabètic i simbòlic i els senyals lluminosos.p)Mitjans de suport: ajudes que actuen com a intermediàries entre l’entorn i les persones amb discapacitat i els permeten millorar la qualitat de vida o incrementar l’autonomia personal.q)Producte de suport: qualsevol producte (inclosos els dispositius, els instruments, les tecnologies i el programari) disponible en el mercat o fabricat especialment per prevenir, compensar, controlar, mitigar o neutralitzar deficiències, limitacions en l’activitat i restriccions en la participació.i. Suport personal: persona preparada per facilitar o garantir l’ús de productes i serveis, la comunicació o la mobilitat a les persones amb discapacitat, com ara el guia intèrpret de llengua de signes, el mediador comunicatiu o l’assistent personal.ii. Suport animal: animal ensinistrat especialment per cobrir necessitats concretes d’una persona amb discapacitat, com els gossos d’assistència.r)Materials de lectura fàcil: materials elaborats segons les directrius internacionals d’Inclusion Europe, xarxa europea de representació de les persones amb discapacitat intel·lectual, i de l’IFLA, la Federació Internacional d’Associacions de Bibliotecaris i Biblioteques, i que promouen una simplificació dels textos amb l’objectiu de fer-los accessibles a tota la ciutadania. Aquesta simplificació consisteix en la utilització d’un llenguatge planer i directe, un contingut assequible per als destinataris i un disseny que harmonitzi contingut i formes.s)Producte: qualsevol bé, fabricat o distribuït, que es posi a disposició del públic en general per usar-lo, consumir-lo o adquirir-lo.t)Pla d’accessibilitat: instrument que identifica i planifica les actuacions per tal d’assolir, de manera progressiva, les condicions d’accessibilitat establertes per aquesta Llei i per la normativa de desplegament corresponent.
+
+**Article 2. Objecte**
+
+Aquesta Llei té com a objecte garantir l’accessibilitat a l’entorn físic, els transports, la informació i les comunicacions, incloent-hi els sistemes i les tecnologies de la informació i la comunicació, els serveis i les instal·lacions públics o d’ús públic i els productes, a totes les persones perquè puguin viure d’una manera independent i participar plenament en tots els aspectes de la vida.
+
+**Article 3. Àmbit d’aplicació**
+
+Les disposicions d’aquesta Llei vinculen qualsevol persona física o jurídica, pública o privada, que dugui a terme en territori andorrà alguna de les actuacions que hi queden subjectes.
+
+**Article 4. Competències**
+
+$1f
+
+**Article 5. Principis generals**
+
+$21
+
+**Article 6. Avaluació de solucions alternatives a l’accessibilitat**
+
+$23
+
+#### Capítol segon. Entorns de l’accessibilitat
+
+##### Secció primera. Accessibilitat a l’entorn natural
+
+**Article 7. Condicions d’accessibilitat dels entorns naturals d’ús públic**
+
+$25
+
+##### Secció segona. Accessibilitat a l’entorn urbanitzat
+
+**Article 8. Condicions generals d’accessibilitat dels entorns urbanitzats d’ús públic**
+
+$27
+
+**Article 9. Condicions d’accessibilitat dels entorns urbanitzats d’ús públic de nova construcció**
+
+$29
+
+**Article 10. Condicions d’accessibilitat dels entorns urbanitzats d’ús públic existents**
+
+1. Els entorns urbanitzats d’ús públic existents abans de l’entrada en vigor d’aquesta Llei que no compleixin els requisits d’accessibilitat que s’estableixen en aquesta norma i en el seu desenvolupament reglamentari s’han d’adaptar de manera progressiva segons les determinacions dels plans d’accessibilitat establerts a l’article 36.
+2. Qualsevol actuació d’ampliació o reforma en aquests espais ha de garantir que els itineraris de vianants afectats compleixin les condicions d’accessibilitat necessàries per satisfer les necessitats de totes les persones usuàries, d’acord amb els principis de disseny universal i tenint en compte les limitacions físiques de l’espai. En cap cas, aquestes actuacions no poden reduir les condicions d’accessibilitat preexistents, sinó que han de mantenir-les o millorar-les.
+
+**Article 11. Elements d’urbanització i mobiliari urbà**
+
+1. Els elements d’urbanització i el mobiliari urbà, incloent bancs, papereres, fonts, semàfors i senyalització, ubicats en àrees d’ús públic han de ser dissenyats, instal·lats i mantinguts de manera que garanteixin l’accessibilitat universal, tenint en compte les necessitats de totes les persones, de manera que no suposi un obstacle i sigui utilitzable per tothom.
+2. S’han d’evitar obstacles o elements que dificultin la mobilitat o la seguretat, assegurant superfícies contínues, zones de pas lliures, espais de maniobra suficients i una senyalització clara i comprensible. Així mateix, s’han de prioritzar materials i acabats que assegurin la percepció tàctil, visual i acústica.
+3. El Govern ha d’establir reglamentàriament les característiques dels elements i el mobiliari per ser accessibles i comprensibles.
+
+##### Secció tercera. Accessibilitat a l’entorn edificat
+
+**Article 12. Condicions d’accessibilitat dels edificis i locals d’ús públic de nova construcció**
+
+1. Els edificis i locals d’ús públic de nova construcció, ja siguin de titularitat pública o privada i independentment de l’ús al qual es destinin, han de complir les condicions d’accessibilitat establertes en aquesta Llei i en els reglaments que la desenvolupin.
+2. Aquestes condicions d’accessibilitat s’apliquen a tots els entorns, àmbits, espais i als seus elements o parts funcionals, i s’ha de garantir que siguin accessibles, usables i comprensibles per a totes les persones, amb independència de les seves capacitats físiques, sensorials o cognitives, i en compliment del principi del disseny universal.
+3. Els complexos formats per un conjunt d’edificis i locals d’ús públic connectats entre si han de tenir itineraris accessibles per a vianants, a l’efecte que totes les persones puguin desplaçar-se entre els edificis i connectar amb les zones d’ús públic i amb la via pública.
+
+**Article 13. Condicions d’accessibilitat dels edificis i locals d’ús públic existents**
+
+1. Les persones físiques o jurídiques titulars d’un servei o que explotin un local o una instal·lació d’ús públic existent han d’elaborar un pla d’accessibilitat en els termes establerts a l’article 36.
+2. En cas de realitzar obres d’ampliació, reforma, rehabilitació o canvi d’ús en edificis i locals existents d’ús públic, ja siguin de titularitat pública o privada, s’ha de garantir, com a mínim, que els itineraris de vianants i els espais d’ús públic afectats per l’actuació compleixin les condicions d’accessibilitat incloses al reglament. En cap cas aquestes obres no poden reduir ni menyscabar les condicions d’accessibilitat preexistents.
+3. En els supòsits previstos a l’apartat 2, si es donen circumstàncies específiques que no permeten que es pugui assolir el compliment de la normativa d’accessibilitat sense requerir mitjans tècnics o econòmics que comportin una càrrega desproporcionada, es poden plantejar solucions alternatives de conformitat amb les disposicions establertes a l’article 6.
+
+**Article 14. Condicions d’accessibilitat dels edificis d’habitatges de nova construcció**
+
+1. Els edificis d’habitatges de nova construcció de titularitat privada han de disposar d’itineraris de vianants accessibles que permetin la connexió directa dels elements privatius amb la via pública, i amb les dependències d’ús comunitari, d’acord amb les condicions d’accessibilitat establertes en aquesta Llei i els reglaments que la desenvolupin.
+2. Els complexos formats per un conjunt d’edificis d’habitatges connectats entre si han de tenir itineraris accessibles per a vianants, a l’efecte que totes les persones puguin desplaçar-se entre els edificis i connectar amb les zones comunes i amb la via pública.
+3. Els edificis de nova construcció amb ús d’habitatge unifamiliar que no disposin d’un itinerari de vianants accessible que permeti la connexió entre la via pública i l’entrada de l’habitatge han de preveure un espai suficient que permeti en el futur d’instal·lar-hi els productes de suport necessaris.
+
+**Article 15. Condicions d’accessibilitat dels edificis d’habitatges i habitatges existents**
+
+$2b
+
+**Article 16. Edificis d’habitatges i habitatges públics**
+
+$2d
+
+**Article 17. Edificis amb valor historicoartístic**
+
+1. D’acord amb les disposicions d’aquesta Llei i els reglaments que la desenvolupen, les entitats gestores d’edificis declarats béns protegits per la seva qualificació com a béns d’interès cultural o inventariats, d’acord amb la Llei del patrimoni cultural, han d’adoptar les solucions alternatives que permetin assolir les millors condicions d’accessibilitat possibles sense incomplir la normativa específica reguladora d’aquests béns. Especialment, han d’incorporar els elements de millora de l’ús sense alterar el caràcter o els valors pels quals van ser protegits.
+2. Els comuns, en aprovar el Pla d’ordenació i urbanisme parroquial, han d’aprovar normes anàlogues a les precedents per als edificis inclosos en el catàleg del Pla per raó del seu valor històric, monumental o cultural.
+
+**Article 18. Informació, senyalització i seguretat en cas d’incendi o d’una altra necessitat d’evacuació dels edificis**
+
+El Govern ha de definir per via reglamentària les característiques que han de reunir els edificis d’habitatges, edificis i locals d’ús públic de nova construcció i existents, en relació amb la informació, la senyalització i la seguretat en cas d’incendi, sinistre o d’una altra necessitat d’evacuació, quan sigui aplicable la normativa sectorial corresponent.
+
+##### Secció quarta. Tramitacions i procediments administratius
+
+**Article 19. Llicències d’obres**
+
+Per obtenir la llicència d’obres majors, la persona sol·licitant ha d’aportar una memòria d’accessibilitat. Per a les obres menors en locals d’ús públic i en zones comunes d’edificis, en el supòsit que aquests locals o zones estiguin subjectes a donar compliment a les condicions d’accessibilitat establertes, s’ha de presentar la memòria d’accessibilitat, que ha de tenir en consideració les exigències específiques que es determinin reglamentàriament, i com a mínim, els aspectes físics, els sorolls, la il·luminació i els sistemes de comunicació universals i, si escau, els ajustos raonables de conformitat amb l’article 5.
+g
+).
+
+**Article 20. Obres públiques**
+
+$2f
+
+**Article 21. Autoritzacions d’obertura d’establiments comercials o modificació de negoci o d’activitat**
+
+$31
+
+##### Secció cinquena. Accessibilitat en els mitjans de transport
+
+**Article 22. Condicions d’accessibilitat del transport públic de viatgers**
+
+1. El Govern i els comuns, en el marc de les seves competències, han de vetllar perquè les infraestructures del sistema de transport públic de viatgers siguin accessibles i hi sigui autoritzat l’accés als gossos d’assistència degudament acreditats i identificats amb el distintiu oficial corresponent de conformitat amb l’establert en la normativa en matèria de tinença i protecció d’animals en vigor.
+2. Les parades de transport públic han de garantir accessos accessibles i informació adaptada a totes les persones usuàries. Alhora, les estacions terminals de transport públic han de complir les condicions d’accessibilitat previstes per als edificis d’ús públic.
+3. A l’efecte d’aquesta Llei, els remuntadors mecànics de les estacions d’esquí s’assimilen als vehicles de transport públic, amb les especificitats reglamentàries corresponents.
+
+**Article 23. Obligacions dels proveïdors de servei de transport públic**
+
+$33
+
+**Article 24. Llicències de taxis**
+
+1. Les llicències de taxi per als vehicles accessibles per a persones usuàries de cadira de rodes són específiques.
+2. El nombre de llicències es determina per via reglamentària.
+3. Els vehicles amb llicència de taxi han d’oferir sistemes de pagament alternatius al pagament en efectiu.
+
+**Article 25. Transport particular acreditat**
+
+1. Els vehicles particulars conduïts o ocupats per persones amb mobilitat reduïda, degudament acreditats mitjançant el distintiu establert a aquest efecte, disposen d’espais d’estacionament específicament reservats i ubicats en zones prioritàries.
+2. La possessió del distintiu permet:
+a) Accedir a les àrees d’accés restringit que siguin autoritzades per a aquest cas als entorns naturals d’ús públic, referits a l’article 7.b) Usar les places d’aparcament reservades per a aquests vehicles identificats a la via pública o als edificis d’ús públic.c) Parar en qualsevol lloc de la via pública, durant el temps imprescindible i sempre que no es destorbi la circulació de vehicles o el pas de vianants.
+3. El distintiu s’ha de sol·licitar al Govern, que l’atorga d’acord amb les normes establertes reglamentàriament.
+4. El distintiu és personal i intransferible i l’ha d’utilitzar la persona titular del distintiu o la persona acompanyant quan la titular no pugui conduir i necessiti un desplaçament.
+
+##### Secció sisena. Accessibilitat en la informació i la comunicació
+
+**Article 26. Societat de la informació**
+
+$35
+
+**Article 27. Condicions d’accessibilitat dels elements d’informació i de senyalització**
+
+$37
+
+**Article 28. Formes de comunicació**
+
+Els poders públics han de garantir la usabilitat dels mitjans tècnics de suport per a la comunicació en totes les seves relacions oficials, sanitàries, educatives, judicials, administratives i, en general, en qualsevol servei públic, en els termes previstos reglamentàriament.
+
+**Article 29. Accessibilitat en la comunicació en la relació amb les administracions públiques i amb els proveïdors de serveis públics**
+
+Els poders públics i els proveïdors de serveis públics han de garantir el dret a l’ús dels mitjans de suport a la comunicació en l’accés als serveis públics en condicions d’igualtat. S’han d’incorporar, progressivament, a les tecnologies de la informació i la comunicació que s’empren, els avenços i els sistemes nous que afavoreixen l’accessibilitat en la comunicació.
+
+**Article 30. Persones de suport de la comunicació o de la interacció**
+
+1. En l’àmbit judicial i policial, les persones que presentin dificultats en la interacció o la comunicació funcional tenen dret al suport d’alguna persona del seu cercle de confiança que les ajudi a expressar-los les seves idees.
+2. Aquest dret se’ls ofereix, de manera clara, expressa i entenedora, al començament del procediment, sigui policial o judicial. La persona interessada és la que designa qui li ha d’oferir el suport i pot fer-ho en qualsevol moment del procés, llevat que s’acrediti conflicte d’interessos o influències inadequades en contra del seu interès superior.
+3. La persona designada com a persona de suport de la comunicació o de la interacció pot ser present a totes les diligències policials i judicials i intervenir sempre que calgui, per tal de cooperar en la millor entesa d’allò que la persona interessada vulgui expressar.
+4. Intervé, de manera explícita, durant els interrogatoris i les confessions, entre altres actuacions en què calgui el seu suport.
+
+##### Secció setena. Accessibilitat dels serveis públics o d’ús públic
+
+**Article 31. Condicions d’accessibilitat dels serveis públics**
+
+1. Les administracions públiques i els proveïdors de serveis públics, ja siguin de gestió directa o indirecta, han de complir les condicions d’accessibilitat establertes reglamentàriament per garantir que els serveis públics siguin accessibles a totes les persones.
+2. Els espais, els processos i els canals de comunicació dels serveis públics han d’estar adaptats per garantir l’accés i l’ús autònom per part de totes les persones, incloent-hi mesures específiques com senyalització adequada, materials en formats alternatius, assistència personal o mitjans tecnològics adaptats.
+3. Els serveis públics han d’implementar mesures i mecanismes de gestió que assegurin l’accessibilitat de manera continuada i eficient, així com establir mecanismes d’inspecció i revisió per garantir el compliment de les normatives vigents.
+4. Els proveïdors de serveis públics existents han d’elaborar el pla d’accessibilitat d’acord amb el que disposa l’article 36.
+
+**Article 32. Condicions d’accessibilitat dels serveis d’ús públic**
+
+$39
+
+##### Secció vuitena. Accessibilitat en els productes
+
+**Article 33. Condicions d’accessibilitat dels productes**
+
+1. Les administracions públiques, així com fabricants, distribuïdors i importadors, han de garantir que els productes que estiguin a l’abast del públic en general, bé per ser utilitzats directament, bé per ser adquirits per al consum, compleixin els requisits d’accessibilitat i els criteris de disseny universal establerts reglamentàriament.
+2. L’apartat anterior inclou els productes regulats, subjectes a normatives específiques.
+3. Sempre que sigui tècnicament i econòmicament viable, s’han d’aplicar els requisits d’accessibilitat i els principis del disseny universal, o, en cas contrari, s’han de proporcionar solucions alternatives per garantir l’accessibilitat, d’acord amb l’article 6.
+4. Les administracions públiques han d’establir mecanismes de supervisió, controls de conformitat i mesures sancionadores per assegurar el compliment de les condicions d’accessibilitat, d’acord amb la normativa.
+
+**Article 34. Disseny i fabricació dels productes**
+
+1. Els productes que estiguin a l’abast del públic en general s’han de dissenyar i fabricar de manera que se n’optimitzi l’ús previsible per part de totes les persones i vagin acompanyats, en la mesura que sigui possible, al producte o sobre ell, d’informació accessible sobre el funcionament i les característiques d’accessibilitat.
+2. Especialment, els productes regulats han de complir, a més, els requisits d’accessibilitat següents:
+a) Les pantalles tàctils, botons, teclats i altres dispositius d’entrada han de ser fàcilment utilitzables per totes les persones.b) Els productes han de ser compatibles amb tecnologies d’assistència disponibles al mercat, com ara lectors de pantalla, dispositius de sortida de veu, i altres ajudes tecnològiques.c) Les instruccions, les etiquetes, els manuals i altra documentació han d’estar disponibles en formats accessibles i textos fàcils de llegir, i, quan sigui possible, formats digitals accessibles.
+
+##### Secció novena. Accessibilitat en les activitats culturals, esportives i de lleure
+
+**Article 35. Condicions d’accessibilitat de les activitats culturals, esportives i de lleure**
+
+1. Les activitats culturals, esportives i de lleure i els actes públics de naturalesa anàloga han de garantir les condicions d’accessibilitat perquè totes les persones puguin gaudir-ne, comprendre’ls i participar-hi, si escau, i han d’oferir la informació mitjançant un llenguatge entenedor, d’acord amb el que sigui determinat per reglament segons el tipus d’activitat.
+2. Les condicions d’accessibilitat han de referir-se a l’edificació, la comunicació, els continguts o l’oferta dels serveis, i han de determinar per a cada cas quins són els mitjans de suport necessaris.
+3. El Govern, en col·laboració amb els comuns, ha d’establir per reglament els criteris mínims que han de complir els equipaments i serveis culturals, esportius i de lleure pel que fa a l’accessibilitat.
+
+#### Capítol tercer. Promoció i foment de l’accessibilitat
+
+**Article 36. Pla d’accessibilitat**
+
+$3b
+
+**Article 37. Distintiu de qualitat**
+
+1. El Govern ha de crear un distintiu de qualitat per reconèixer els establiments, els espais o les instal·lacions que assoleixin condicions d’accessibilitat notables, més enllà dels requeriments normatius, pel que fa a la supressió de les barreres a l’accessibilitat, l’adequació dels serveis i dels continguts i la formació del personal.
+2. Aquest distintiu s’ha de regular per reglament, que ha d’establir, com a mínim, el format del distintiu i la forma d’obtenir-lo, renovar-lo o perdre’l.
+3. El Govern ha de considerar aquest reconeixement a l’hora d’atorgar subvencions o ajuts.
+
+**Article 38. Mesures de foment, promoció i sensibilització**
+
+$3d
+
+**Article 39. Formació del personal**
+
+1. Les administracions públiques i els proveïdors de serveis públics o d’ús públic han de garantir que el personal que interactua directament amb la ciutadania rebi formació específica en matèria d’accessibilitat, amb l’objectiu d’assegurar una atenció adequada a totes les persones, independentment de les seves capacitats o necessitats.
+2. Aquesta formació ha d’incloure coneixements sobre disseny universal, ajustos raonables, comunicació inclusiva, utilització dels productes de suport i gestió de situacions.
+
+**Article 40. Accessibilitat en els plans d’estudi**
+
+1. El Govern ha de vetllar perquè els plans d’estudi dels ensenyaments superiors de l’àmbit del territori, l’edificació, els mitjans de transport, els productes, els serveis i la comunicació incorporin continguts que garanteixin el coneixement i les competències en matèria d’accessibilitat i de disseny universal.
+2. A aquest efecte, pot promoure convenis i acords amb les universitats públiques i privades.
+
+**Article 41. Ajuts a les actuacions de promoció de l’accessibilitat**
+
+1. El Govern pot finançar la supressió de barreres arquitectòniques i de la comunicació; l’adquisició i l’adaptació dels vehicles destinats a les persones amb mobilitat reduïda; l’adquisició de productes de suport, i les despeses de millora de l’espai o establiment, d’acord amb el que està previst a la normativa vigent.
+2. Les administracions públiques han de destinar partides de cada exercici pressupostari a actuacions de promoció de l’accessibilitat i de supressió de barreres a l’accessibilitat, en llurs àmbits de competència.
+3. El Govern ha d’aprovar un programa d’incentius i ajuts per col·laborar en el finançament de les actuacions que es desprenguin dels plans d’accessibilitat en els termes que s’estableixin per reglament.
+
+**Article 42. Informació i assessorament**
+
+El Govern, mitjançant el servei d’assessorament i subministrament de productes de suport, ha de facilitar a totes les persones i als agents socials l’assessorament gratuït i la informació sobre l’àmbit de l’accessibilitat i sobre la utilització de mitjans de suport i llur adequació a les necessitats específiques, en els termes previstos a la normativa vigent en matèria de serveis i sociosanitaris.
+
+**Article 43. Comissió per al Foment de l’Accessibilitat**
+
+$3f
+
+**Article 44. Dotació pressupostària**
+
+Les administracions públiques han de destinar, si escau, anualment una part del seu pressupost d’inversió directa a suprimir les barreres a l’accessibilitat existents en els edificis d’ús públic de la seva titularitat o sobre els quals disposa, per qualsevol títol, del dret d’ús.
+
+#### Capítol quart. Règim sancionador
+
+**Article 45. Tipificació de les infraccions**
+
+$41
+
+**Article 46. Subjectes responsables**
+
+1. Són responsables de les infraccions tipificades per aquesta Llei les persones físiques o jurídiques, públiques o privades, que les cometen per acció o per omissió.
+2. Si la infracció és imputable a diverses persones i no és possible determinar el grau de participació de cadascuna en la comissió de la infracció, n’han de respondre solidàriament.
+3. Són responsables subsidiàries o solidàries de la comissió d’una infracció les persones físiques o jurídiques que han incomplert les obligacions que comporta el deure de prevenir la infracció administrativa comesa per altres.
+
+**Article 47. Prescripció de les infraccions i les sancions**
+
+1. Les infraccions molt greus prescriuen al cap de cinc anys; les greus, al cap de tres anys; i les lleus, al cap d’un any.
+2. Les sancions imposades per infraccions molt greus prescriuen al cap de cinc anys; les imposades per infraccions greus, al cap de tres anys; i les imposades per infraccions lleus, al cap d’un any.
+
+**Article 48. Sancions**
+
+$43
+
+**Article 49. Criteris de graduació de les sancions**
+
+$45
+
+**Article 50. Procediment sancionador**
+
+$47

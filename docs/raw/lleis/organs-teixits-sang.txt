@@ -1,0 +1,336 @@
+# Llei d'òrgans, cèl·lules, teixits i sang (Llei 34/2018)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/organs-teixits-sang
+Articles: 65 · versions consolidades: 1
+Instantania del consolidat: 2026-09-12T05:30:11.986102Z
+
+---
+
+### Títol I. Generalitats
+
+**Article 1. Objecte i àmbit d’aplicació**
+
+Aquesta Llei té per objecte:
+a) Definir els principis i les condicions d’accés a la donació de sang, cèl·lules, teixits i òrgans humans.b) Establir les normes de qualitat i seguretat que han de complir la sang, les cèl·lules i teixits humans i els òrgans destinats a ser aplicats o trasplantats a l’ésser humà.c) Definir els medicaments de teràpia avançada, els principis que regulen la investigació amb aquests medicaments, els requisits que s’han de complir per fabricar-ne i les condicions per obtenir-ne l’autorització d’ús.
+2. Aquesta Llei s’aplica a:
+a) La donació, l’obtenció, l’avaluació, el processament, l’emmagatzematge, la preservació i la distribució de cèl·lules i teixits, incloses les cèl·lules reproductores en tot el que no es preveu en la Llei de reproducció humana assistida;b) Els productes elaborats derivats de les cèl·lules i els teixits humans destinats a ser aplicats a l’ésser humà, inclosos els medicaments de teràpia avançada;c) L’extracció i la verificació de la sang humana o dels seus components (sigui quin sigui el destí), el tractament, l’emmagatzematge, la preservació i la distribució de sang quan el seu destí sigui la transfusió;d) La donació, l’obtenció, l’avaluació, la caracterització, la preservació, el transport i el trasplantament d’òrgans.
+3. Queda fora de l’àmbit d’aplicació d’aquesta Llei:
+a) La utilització de sang, cèl·lules, teixits i òrgans amb finalitats no terapèutiques o amb un propòsit diferent del d’afavorir la salut del seu receptor, sense perjudici de les investigacions que es puguin fer addicionalment al fi terapèutic;b) Les cèl·lules i els teixits utilitzats com a empelts autòlegs dins del mateix procediment quirúrgic;c) L’obtenció d’òrgans que tingui com a finalitat exclusiva la realització d’estudis o anàlisis clíniques, o altres fins diagnòstics i terapèutics;d) Les autòpsies i necròpsies clíniques i la donació del propi cos o dels seus òrgans, sang, cèl·lules o teixits per utilitzar en estudis, docència o investigació;e) El tractament, l’emmagatzematge i la distribució de sang quan el seu destí és la investigació;f) Els productes sanguinis considerats medicaments;g) Els productes considerats de rebuig humà com la placenta, els cabells i les ungles;h) Les cèl·lules, teixits, sang i òrgans de procedència animal i els xenotrasplantaments.”
+
+**Article 2. Definicions**
+
+$1e
+
+**Article 3. Autoritat competent i funcions**
+
+$20
+
+**Article 4. Principis generals de la donació i de la utilització de SOH**
+
+$22
+
+**Article 5. Promoció i publicitat**
+
+$24
+
+**Article 6. Traçabilitat**
+
+$26
+
+**Article 7. Protecció de dades i confidencialitat**
+
+$28
+
+**Article 8. Vigilància dels incidents i reaccions adverses greus**
+
+1. L’autoritat competent ha d’establir un sistema per notificar, investigar, registrar i transmetre informació pertinent i rellevant sobre reaccions i incidents adversos greus relacionats amb les SOH. El sistema de vigilància d’incidents i reaccions adverses greus s’estableix per reglament.
+2. Els centres implicats en la donació i la utilització de les SOH han de notificar a l’autoritat competent qualsevol reacció o incident advers greu relacionat amb l’obtenció, l’estudi, l’emmagatzematge, la distribució i la utilització de les SOH. També han de disposar de procediments que descriguin les mesures de gestió dels incidents i reaccions adverses greus.
+3. Aquests centres també han d’establir el procediment perquè, quan escaigui, les SOH relacionades amb una notificació de reacció o incident advers siguin retirades de manera precisa i eficaç.
+4. Els intercanvis de SOH entre països han de garantir la comunicació dels incidents i de les reaccions adverses greus.
+
+**Article 9. Inspeccions**
+
+$2a
+
+### Títol II. Òrgans
+
+#### Capítol primer. Donació i obtenció d’òrgans
+
+**Article 10. Obtenció d’òrgans de donant viu**
+
+$2c
+
+**Article 11. Obtenció d’òrgans de donant difunt**
+
+$2e
+
+#### Capítol segon. Qualitat i seguretat de la donació
+
+**Article 12. Marc de qualitat i seguretat**
+
+$30
+
+**Article 13. Organitzacions d’obtenció d’òrgans**
+
+$32
+
+**Article 14. Centres de trasplantament**
+
+1. Els trasplantaments d’òrgans només es poden efectuar en centres que disposin d’una autorització administrativa sanitària per dur a terme aquesta activitat. S’estableix per reglament els requisits que han de complir els centres sanitaris per poder obtenir l’autorització administrativa sanitària.
+2. Abans de procedir al trasplantament, el centre de trasplantament ha de verificar que:
+a) S’ha completat i registrat la caracterització de l’òrgan i del donant de conformitat amb el que estableix l’article 17 i el reglament que es desenvolupi.b) S’ha respectat les condicions de preservació i transport dels òrgans enviats.
+3. El centre on es fa l’obtenció i el trasplantament dels òrgans ha de mantenir un registre de donants vius, amb l’objectiu de vetllar per l’estat de salut del donant i poder efectuar-ne el seguiment. El tractament de les dades contingudes en aquest registre s’ha de fer seguint el que estableix la normativa de protecció de dades.
+
+**Article 15. Registres i informes**
+
+1. L’autoritat competent ha de mantenir un registre de les activitats de les organitzacions d’obtenció i els centres de trasplantament, inclosos els números agregats de donants vius i morts, i els tipus i les quantitats d’òrgans obtinguts i trasplantats, o eliminats, de conformitat amb el que estableix aquesta norma i la normativa de protecció de dades.
+2. L’autoritat competent ha de redactar i fer públic un informe anual sobre les activitats que s’estableixen en l’apartat 1 d’aquest article.
+
+**Article 16. Personal sanitari**
+
+El personal sanitari implicat directament en qualsevol etapa des de la donació fins al trasplantament o l’eliminació d’òrgans ha de comptar amb la qualificació o la formació i les competències adequades per fer les seves tasques i ha de rebre la formació adequada, segons es preveu en el marc de qualitat i seguretat de la donació.
+
+**Article 17. Caracterització dels òrgans i el donant**
+
+$34
+
+**Article 18. Assignació d’òrgans**
+
+1. L’assignació dels òrgans s’ha de regir per criteris clínics, d’equitat, qualitat, seguretat i eficiència. En els criteris d’assignació s’han de tenir en compte les situacions en què hi hagi risc vital immediat.
+2. Els criteris d’assignació s’han d’actualitzar quan es consideri apropiat obtenir una millora en els resultats clínics, l’equitat, la qualitat, la seguretat o l’eficiència.
+3. Sense perjudici d’això, s’ha de procurar per tots els mitjans optimitzar cada donació, afavorir la utilització clínica dels òrgans i reduir-ne les pèrdues.
+4. L’assignació d’òrgans la fan els organismes competents d’Andorra o els organismes competents dels països on s’efectua el trasplantament dels òrgans.
+
+**Article 19. Transport d’òrgans**
+
+$36
+
+**Article 20. Intercanvi d’òrgans amb altres països**
+
+$38
+
+### Títol III. Cèl·lules i teixits
+
+#### Capítol primer. Donació i obtenció de cèl·lules i teixits
+
+**Article 21. Donació i obtenció de cèl·lules i teixits de donant viu**
+
+$3a
+
+**Article 22. Obtenció de cèl·lules i teixits de donant difunt**
+
+1. L’obtenció de cèl·lules i teixits de donant difunt només es pot efectuar si la persona morta no ha deixat constància expressa de la seva oposició al fet que després de la mort s’efectuï l’obtenció de cèl·lules i teixits.
+En el cas de menors o persones incapacitades, l’oposició la poden fer constar les persones que en vida n’hagin exercit la representació legal.
+2. Són aplicables a l’obtenció de cèl·lules i teixits de donant difunt els apartats de l’article 11 que fan referència als mecanismes per deixar constància expressa de l’oposició a la donació, a la informació a facilitar als familiars, la investigació a efectuar per conèixer la voluntat del difunt, la certificació de la mort i la restauració del cos.
+
+**Article 23. Selecció i avaluació de donants**
+
+1. Per a la selecció i l’avaluació dels donants cal complir els criteris de selecció de donant i les proves de laboratori que s’estableixin per reglament.
+2. Cal documentar els resultats dels procediments d’avaluació i examen del donant i cal comunicar al donant qualsevol resultat anòmal important.
+
+**Article 24. Procediment d’obtenció de cèl·lules i teixits**
+
+$3c
+
+#### Capítol segon. Qualitat i seguretat
+
+**Article 25. Organitzacions d’obtenció de cèl·lules i teixits**
+
+$3e
+
+**Article 26. Establiments de teixits**
+
+1. Les activitats d’avaluació, processament, preservació, emmagatzematge o distribució de cèl·lules i teixits humans destinats a ser aplicats a l’ésser humà només es poden dur a terme en establiments de teixits que disposin d’una autorització administrativa sanitària per fer aquestes activitats.
+2. Aquesta autorització fa referència a cada una de les activitats que s’han de portar a terme i al tipus de cèl·lules o teixits.
+3. Els requisits que han de complir els establiments de teixits per obtenir l’autorització administrativa sanitària s’estableixen per reglament.
+
+**Article 27. Sistema de gestió de la qualitat**
+
+1. Els establiments de teixits han de disposar d’un sistema de gestió de la qualitat basat en criteris de bona pràctica clínica i han de mantenir-lo actualitzat.
+2. El sistema de qualitat ha d’incloure com a mínim la documentació següent:
+a) Manuals de procediments,b) Directrius,c) Manuals de formació i de referència,d) Formularis de transmissió d’informació,e) Dades relatives al donant,f) Informació sobre el destí final de les cèl·lules i els teixits.
+3. Els establiments de teixits han de conservar les dades necessàries per garantir la traçabilitat, de conformitat amb el que estableix l’article 6.
+
+**Article 28. Persona responsable**
+
+$40
+
+**Article 29. Personal**
+
+El personal dels establiments de teixits directament vinculats a les activitats relacionades amb l’obtenció, el processament, la preservació, l’emmagatzematge i la distribució de cèl·lules i teixits ha de disposar de la qualificació necessària per dur a terme aquestes activitats i ha de rebre la formació pertinent.
+
+**Article 30. Recepció de cèl·lules i teixits**
+
+$42
+
+**Article 31. Processament de cèl·lules i teixits**
+
+1. L’establiment de teixits ha d’incloure en els seus manuals de procediments tot procés que afecti la qualitat i la seguretat de les cèl·lules i els teixits i ha de vetllar perquè es dugui a terme en condicions controlades. L’establiment de teixits ha de verificar que l’equipament utilitzat, l’entorn de treball i el disseny, la validació i les condicions de control del procés s’ajustin als requisits que s’estableixin per reglament.
+2. Qualsevol modificació dels processos utilitzats en la preparació de cèl·lules i teixits també ha de complir els criteris establerts en l’apartat 1.
+3. L’establiment de teixits ha d’incloure disposicions especials en els seus manuals de procediments relatius a la manipulació de les cèl·lules i els teixits de rebuig amb la finalitat d’evitar la contaminació d’altres cèl·lules i teixits, de l’entorn de processament i del personal.
+
+**Article 32. Emmagatzematge de cèl·lules i teixits**
+
+$44
+
+**Article 33. Etiquetatge, documentació i condicionament**
+
+Les condicions de l’etiquetatge, la documentació i el condicionament de les cèl·lules i els teixits que han de complir els establiments de teixits s’estableixen per reglament.
+
+**Article 34. Distribució**
+
+1. Les condicions de distribució i transport de les cèl·lules i els teixits s’estableixen per reglament.
+2. El transport des de l’establiment de teixits fins al centre on s’efectua la implantació o fins a un altre establiment de teixits s’ha de dur a terme amb els mitjans més adequats de transport aeri o terrestre i mitjançant sistemes capaços de mantenir la viabilitat i la funcionalitat de les cèl·lules i els teixits. Aquests sistemes han d’especificar-se en procediments documentats segons el tipus de cèl·lula o teixit a traslladar.
+3. El ministeri encarregat de la salut pot autoritzar la distribució directa de cèl·lules i teixits específics del lloc d’obtenció a un centre d’assistència per a trasplantament o aplicació.
+
+**Article 35. Relacions d’establiments de teixits amb tercers**
+
+$46
+
+**Article 36. Importació i exportació de cèl·lules i teixits**
+
+$48
+
+**Article 37. Traçabilitat de cèl·lules i teixits**
+
+1. D’acord amb el que estableix l’article 6, hi ha d’haver traçabilitat de les cèl·lules i els teixits des que s’obtenen fins que s’apliquen en l’ésser humà o s’eliminen, i a la inversa. Aquesta traçabilitat es fixa a través de la documentació i de la utilització d’un codi únic.
+2. Els teixits i les cèl·lules utilitzats per als medicaments de teràpia avançada han de poder rastrejar-se de conformitat amb aquesta norma, almenys fins que siguin transferits a l’establiment fabricant de medicaments de teràpia avançada.
+3. Els establiments de teixits i les organitzacions responsables de la seva aplicació en humans han de conservar les dades que s’estableixin mitjançant reglament durant un mínim de trenta anys, en un mitjà de conservació adequat i llegible.
+4. En el cas dels teixits i les cèl·lules obtinguts de donant mort per equips d’obtenció que treballen per a més d’un establiment de teixits, s’ha de garantir un sistema de traçabilitat adequat.
+
+**Article 38. Sistema únic de codificació**
+
+$4a
+
+#### Capítol tercer. Medicaments de teràpia avançada
+
+**Article 39. Classificació dels medicaments de teràpia avançada**
+
+$4c
+
+**Article 40. Donació i obtenció de cèl·lules i teixits per fabricar medicaments de teràpia avançada**
+
+La donació, l’obtenció i la verificació de les cèl·lules i els teixits continguts en els medicaments de teràpia avançada han de complir el que estableix aquesta norma.
+
+**Article 41. Assajos clínics amb medicaments de teràpia avançada**
+
+Els assajos clínics s’han de fer en condicions de respecte als drets fonamentals de la persona i als postulats ètics que afecten la investigació biomèdica en humans, seguint els continguts de la Declaració d’Hèlsinki i les directrius del Reglament 536/2014 del Parlament Europeu i del Consell de 16 d’abril del 2014.
+
+**Article 42. Autorització d’ús de medicaments de teràpia avançada**
+
+$4e
+
+**Article 43. Fabricació de medicaments de teràpia avançada**
+
+1. Per dur a terme l’activitat de fabricació de medicaments de teràpia avançada cal obtenir una autorització de fabricació del ministeri responsable de la salut, que l’atorga després de comprovar que es compleixen les condicions i el procediment que s’estableixin per reglament.
+2. Aquesta autorització també és necessària per a la fabricació de medicaments en investigació de teràpia avançada.
+
+**Article 44. Bones pràctiques de fabricació de medicaments de teràpia avançada**
+
+1. La fabricació de medicaments de teràpia avançada i de medicaments en investigació de teràpia avançada s’ha de realitzar de conformitat amb els principis i directrius de les bones pràctiques de fabricació de medicaments.
+2. Per comprovar el compliment de les bones pràctiques de fabricació els agents inspectors poden dur a terme inspeccions de tots els llocs relacionats amb el procés de fabricació i d’investigació.
+3. La certificació del compliment de les bones pràctiques de fabricació es pot delegar a altres autoritats sanitàries competents en la matèria.
+
+### Títol IV. Sang
+
+#### Capítol primer. Donació de sang i components sanguinis
+
+**Article 45. Informació a facilitar als donants**
+
+Els centres de transfusió sanguínia han de facilitar als donants la informació que s’estableixi per reglament.
+
+**Article 46. Informació que s’ha de sol·licitar als donants**
+
+Amb anterioritat a la donació, la unitat d’extracció ha d’obtenir dels donants la informació mínima que s’estableixi reglamentàriament.
+
+**Article 47. Selecció dels donants**
+
+1. Els centres de transfusió sanguínia han de disposar de procediments que garanteixin l’avaluació dels donants, el compliment dels criteris i requisits relatius a la seva idoneïtat i el cribratge de la sang donada, de conformitat amb el que s’estableix per reglament.
+2. Els centres de transfusió han de registrar els resultats de l’avaluació i comunicar al donant qualsevol resultat anòmal, alhora que se li facilita l’assessorament corresponent.
+
+**Article 48. Reconeixement de donants**
+
+Els candidats a donants de sang o components sanguinis han de ser sotmesos a un reconeixement previ a cada extracció, realitzat mitjançant un qüestionari i una entrevista professional a càrrec d’un professional sanitari degudament qualificat.
+
+**Article 49. Verificació de les donacions**
+
+1. Els centres de transfusió sanguínia han de vetllar perquè cada donació de sang i components sigui verificada segons els requisits que s’estableixin per reglament.
+2. Els acords existents amb centres de transfusió d’altres països per a la importació de sang i components sanguinis han de reflectir la conformitat amb els requisits establerts reglamentàriament.
+
+**Article 50. Donació autòloga i autotransfusió**
+
+$50
+
+#### Capítol segon. Centres i serveis de transfusió
+
+**Article 51. Autorització de funcionament dels centres de transfusió**
+
+1. Les activitats d’extracció i verificació de la sang humana i els seus components, sigui quin sigui el seu destí, i el seu tractament, emmagatzematge i distribució de sang destinats a transfusió només es poden dur a terme en centres de transfusió sanguínia que disposin d’una autorització administrativa sanitària per dur a terme aquestes activitats.
+2. S’estableix per reglament la informació que han de trametre els centres de transfusió al ministeri encarregat de la salut per obtenir l’autorització administrativa sanitària mencionada en l’apartat primer d’aquest article.
+3. El ministeri encarregat de la salut atorga l’autorització administrativa sanitària després de comprovar que es compleixen els requisits establerts en la normativa. L’autorització atorgada fa referència a les activitats que durà a terme el centre de transfusió sanguínia.
+4. El centre de transfusió sanguínia no pot introduir cap canvi substancial en les activitats que realitza sense l’aprovació prèvia del ministeri encarregat de la salut.
+
+**Article 52. Persona responsable**
+
+$52
+
+**Article 53. Professionals**
+
+El professional que intervé directament en l’extracció, la verificació, el tractament, l’emmagatzematge i la distribució de sang humana i de components sanguinis ha d’estar qualificat per dur a terme aquestes tasques i ha de rebre una formació oportuna, adequada i actualitzada periòdicament.
+
+**Article 54. Locals, material i instrumental**
+
+1. La mida i la ubicació dels locals on s’instal·lin els centres de transfusió han de ser adequats per facilitar-ne l’ús, la neteja i la conservació correcta d’acord amb les normes d’higiene, i han de disposar d’espai, il·luminació i ventilació suficients per dur a terme les seves funcions.
+En els casos en què s’utilitzin unitats mòbils per a l’extracció de sang o components sanguinis, han de tenir les condicions idònies d’higiene, espai i ventilació per prestar assistència adequada als donants que puguin patir algun tipus de reacció adversa i evitar riscos en la sang o els components extrets, així com a l’equip encarregat de l’extracció.
+Els espais habilitats per fer les extraccions han de permetre preservar la intimitat del donant.
+2. El material i l’instrumental utilitzat en l’extracció, la preparació, la conservació i la distribució de la sang i els seus components s’han de sotmetre periòdicament a les operacions de neteja, manteniment i control de qualitat que corresponguin.
+
+**Article 55. Sistema de qualitat**
+
+1. Tots els centres i serveis de transfusió sanguínia han de crear i mantenir un sistema de qualitat d’acord amb els principis de bones pràctiques i que abasti totes les activitats que realitzen.
+2. D’acord amb el que estableixen les directives comunitàries, es fixen per reglament les normes i especificacions mínimes que ha de tenir el sistema de qualitat.
+
+**Article 56. Documentació i registres**
+
+$54
+
+**Article 57. Etiquetatge**
+
+Els centres de transfusió han d’adoptar les mesures necessàries per garantir que el sistema utilitzat per a l’etiquetatge de la sang i els components sanguinis s’ajusta al que s’estableix en matèria de traçabilitat en l’article 6 i que compleix els requisits que es determinin reglamentàriament.
+
+**Article 58. Serveis de transfusió**
+
+Els serveis de transfusió han de complir el que estableixen els articles anteriors en matèria de personal, persona responsable, creació i manteniment d’un sistema de qualitat, conservació de documentació, traçabilitat, notificació d’incidents i reaccions adverses greus, condicions d’emmagatzematge, transport i distribució de sang i protecció de dades i confidencialitat.
+
+**Article 59. Condicions d’emmagatzematge, transport i distribució de la sang i els components sanguinis**
+
+Els centres de transfusió sanguínia han de garantir que les condicions d’emmagatzematge, transport i distribució de la sang i els components sanguinis compleixin els requisits que s’estableixin reglamentàriament.
+
+**Article 60. Comitè de transfusió**
+
+Els centres on es duguin a terme transfusions sanguínies han de disposar d’un comitè de transfusió, per a la utilització correcta de la sang i els components sanguinis, que ha de tenir com a mínim les funcions següents:
+a) Determinar els estàndards i procediments de la pràctica transfusional adaptats a les activitats clíniques que es duguin a terme en cada centre hospitalari.b) Analitzar i avaluar periòdicament la pràctica transfusional.c) Analitzar i avaluar les reaccions adverses associades a la transfusió.d) Desenvolupar programes educacionals que fomentin l’ús òptim dels components sanguinis.e) Desenvolupar i implantar mesures preventives o correctores adreçades a la seguretat.f) Totes les altres funcions que consideri que poden ajudar a fomentar un ús òptim de la sang, components i derivats, i a estalviar-ne el consum.
+
+**Article 61. Requisits de qualitat i seguretat de la sang i els components sanguinis**
+
+Els centres de transfusió sanguínia han de complir els requisits de qualitat i seguretat de la sang i els components sanguinis que s’estableixin per reglament.
+
+### Títol V. Règim sancionador
+
+**Article 62. Normes generals**
+
+$56
+
+**Article 63. Responsables**
+
+De les infraccions n’és responsable l’autor.
+Quan el compliment de les obligacions previstes en aquesta Llei correspongui a diverses persones conjuntament, responen de forma solidària de les infraccions comeses i de les sancions que s’imposin.
+Les sancions d’inhabilitació o suspensió són de caràcter personal.
+
+**Article 64. Infraccions**
+
+$58
+
+**Article 65. Sancions**
+
+$5a

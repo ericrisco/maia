@@ -1,0 +1,276 @@
+# Llei de recerca i innovació biomèdica (Llei 3/2023)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/recerca-biomedica
+Articles: 54 · versions consolidades: 1
+Instantania del consolidat: 2026-09-12T05:30:13.624186Z
+
+---
+
+### Títol I. Disposicions generals
+
+**Article 1. Objecte i àmbit d’aplicació**
+
+1. Aquesta Llei té per objecte:
+a) Definir els principis i les condicions de la recerca i la innovació biomèdica.b) Establir les normes de qualitat i seguretat que ha de complir la recerca, la innovació biomèdica i la bona pràctica clínica.c) Establir les garanties, els drets i els deures que s’han de respectar i complir en la recerca i la innovació biomèdica.d) Establir les garanties, els drets i els deures en l’àmbit dels diagnòstics i cribratges genètics i la recerca amb cèl·lules mare i en l’àmbit de l’edició genòmica, i els principis que regulen la recerca amb aquestes tècniques, els requisits i les condicions per obtenir l’autorització d’ús.e) Regular les condicions dels biobancs.f) Establir les competències i funcions de la Comissió d’Ètica de la Investigació i les dels comitès d’ètica de la investigació dels centres sanitaris.g) Establir els mecanismes de foment i promoció, planificació, avaluació i coordinació de la recerca biomèdica.
+2. Aquesta Llei s’aplica a les investigacions clíniques i biomèdiques relacionades amb la salut humana que impliquin procediments invasius i intervencions en éssers humans o l’ús de mostres biològiques d’origen humà, sens perjudici de la regulació continguda a la Llei 34/2018, del 20 de desembre, d’òrgans, cèl·lules, teixits i sang.
+3. Entre les investigacions que són objecte de regulació per aquesta Llei s’inclouen les següents:
+a) La recerca amb medicaments i productes sanitaris d’ús humà.b) La recerca en l’àmbit de la genètica, incloent l’edició genòmica.c) La recerca amb mostres biològiques i el tractament, la conservació, la traçabilitat i el moviment d’aquestes.d) Els mecanismes de foment i promoció, planificació, avaluació, control i coordinació de la recerca biomèdica.
+4. La recerca a què fa referència aquesta Llei inclou la recerca de caràcter bàsic, clínic i translacional, inclosos els assaigs clínics amb medicaments i productes sanitaris, sempre que impliqui procediments invasius o la seva utilització en éssers humans.
+5. Queden excloses de l’àmbit d’aquesta Llei la implantació d’òrgans, teixits i cèl·lules de qualsevol origen, que es regiran pel que estableix la normativa específica.
+
+**Article 2. Definicions**
+
+$1e
+
+### Títol II. Principis i garanties de la recerca i innovació biomèdica
+
+**Article 3. Funcions de la Comissió d’Ètica de la Investigació**
+
+$20
+
+**Article 4. Comitès d’ètica de la investigació dels centres sanitaris**
+
+$22
+
+**Article 5. Principis generals**
+
+$24
+
+**Article 6. Absència d’alternativa**
+
+La recerca en éssers humans només es podrà dur a terme en absència d’una alternativa d’eficàcia comparable.
+
+**Article 7. Proporcionalitat dels riscos**
+
+1. La recerca no ha d’implicar per a l’ésser humà riscos i molèsties desproporcionats en relació amb els beneficis potencials que se’n puguin obtenir.
+2. Sense perjudici del que estableix l’apartat anterior, quan la recerca no tingui la possibilitat de produir resultats de benefici directe per a la salut del subjecte participant, només podrà ser iniciada en el cas que representi un risc i una càrrega mínims per a aquest subjecte i que les intervencions a què serà sotmès siguin equiparables a les que corresponen a la pràctica mèdica habitual en funció de la seva situació mèdica, psicològica o social.
+
+**Article 8. Participació informada i voluntària i garantia de consentiment informat**
+
+$26
+
+**Article 9. Investigacions o assaigs en situacions d’urgència**
+
+$28
+
+**Article 10. Investigacions durant l’embaràs i la lactància**
+
+1. Exclusivament podrà autoritzar-se una recerca en què participi una dona embarassada, respecte a la qual aquesta recerca no produeixi un benefici directe, o sobre l’embrió, el fetus o l’infant després del seu naixement, si es compleixen les següents condicions:
+a) Que la recerca tingui l’objecte de contribuir a produir uns resultats que redundin en benefici d’altres dones, embrions, fetus o infants.b) Que no sigui possible fer investigacions d’eficàcia comparable en dones que no estiguin embarassades.c) Que la recerca comporti un risc i un perjudici mínims per a la dona i, si escau, per a l’embrió, el fetus o l’infant.d) Que l’embarassada o els representants legals de l’infant, si escau, presten el consentiment en els termes que preveu aquesta Llei.
+2. Quan la recerca es dugui a terme en una dona durant el període de lactància, cal tenir especial cura a evitar un impacte advers en la salut del nen.
+
+**Article 11. Principi d’altruisme i de solidaritat**
+
+1. La donació i la utilització de mostres biològiques humanes o dades de salut són gratuïtes, sigui quin sigui el seu origen específic, sense que en cap cas les compensacions que es preveuen en aquesta Llei puguin comportar un caràcter lucratiu o comercial, com a garantia de la participació voluntària dels subjectes en la recerca i la cessió d’aquelles.
+2. En els mateixos termes, la donació o participació al corresponent estudi implica la renúncia per part dels donants o participants a qualsevol dret de naturalesa econòmica o d’un altre tipus sobre els resultats que poguessin derivar-se de manera directa o indirecta de les investigacions que es duguin a terme amb aquestes mostres biològiques o dades de salut.
+
+**Article 12. Garantia d’indemnitat i compensació econòmica**
+
+$2a
+
+**Article 13. Avaluació de l’estat de salut**
+
+1. Les persones que participin en la recerca o assaig tenen el deure de facilitar les dades que coneguin sobre el seu estat físic o la seva salut que siguin rellevants per a la recerca o assaig. Si escau, podrà consultar, amb el consentiment dels participants, als metges responsables de la seva assistència, per comprovar aquests extrems prèviament a la iniciació de la recerca, a fi d’assegurar que les persones per a les quals la recerca revesteixi especial risc en siguin excloses.
+2. Quan la recerca impliqui dones en edat fèrtil, cal tenir en compte el possible impacte advers sobre un embaràs existent desconegut o posterior, així com sobre la salut de l’embrió, el fetus o l’infant.
+
+**Article 14. No interferència amb intervencions clíniques necessàries**
+
+1. La recerca no ha de retardar o privar els participants dels procediments mèdics preventius, diagnòstics o terapèutics que siguin necessaris per al seu estat de salut.
+2. En el cas d’investigacions associades a la prevenció, el diagnòstic o el tractament de malalties, s’ha d’assegurar que els participants que s’assignin als grups de control rebin procediments provats de prevenció, diagnòstic o tractament.
+L’investigador farà constar els extrems a què fa referència el paràgraf anterior en el protocol de l’assaig que sotmetrà a avaluació i autorització.
+3. Es pot recórrer a l’ús de placebo només si no hi ha mètodes d’eficàcia provada, o quan la retirada d’aquests mètodes no presenti un risc o un perjudici inacceptable per al pacient.
+
+**Article 15. Protecció de dades personals i garanties de confidencialitat**
+
+$2c
+
+**Article 16. No-discriminació**
+
+1. Ningú no serà objecte de cap discriminació a causa de les seves característiques genètiques. Tampoc no es pot discriminar una persona a causa de la seva negativa a sotmetre’s a una anàlisi genètica o a prestar el seu consentiment per participar en una recerca biomèdica o donar materials biològics, en particular en relació amb la prestació medicoassistencial que li correspongui.
+2. Es fomentarà la recerca atenent al principi d’igualtat, de manera que puguin beneficiar-se dels corresponents avenços en la salut i en la lluita contra les malalties tots els ciutadans, amb independència de la raça, el sexe, el gènere o l’edat.
+3. La recerca s’efectuarà atenent al principi d’equitat, de manera que la recerca s’orienti també als grups més desafavorits o vulnerables.
+
+**Article 17. Traçabilitat i seguretat**
+
+1. Tots els medicaments i productes sanitaris en investigació, així com les cèl·lules, teixits i qualsevol material biològic d’origen humà s’han de poder traçar per assegurar les normes de qualitat i seguretat, respectant el deure de confidencialitat i el que disposa la normativa de protecció de dades.
+2. En el cas de la recerca amb cèl·lules i teixits destinats a la seva aplicació a l’ésser humà, les dades per garantir la traçabilitat s’han de conservar durant almenys trenta anys.
+3. Les activitats relacionades amb la recerca biomèdica es realitzaran amb estricta observança del principi de precaució, a fi de prevenir riscs greus per a la vida i la salut humanes.
+
+**Article 18. Vigilància i notificació d’incidents i de reaccions adverses greus**
+
+$2e
+
+### Títol III. Sobre les anàlisis genètiques i el consell genètic
+
+**Article 19. Informació sobre dades genètiques i altruisme**
+
+$30
+
+**Article 20. Límits de les anàlisis genètiques**
+
+$32
+
+**Article 21. Proves genètiques o predictives en l’àmbit laboral**
+
+1. Les proves genètiques o predictives només es poden fer en l’àmbit laboral quan siguin d’utilitat per a la salut de l’individu, respectant, a més, el dret que no se li comuniquin les dades, i hi és aplicable l’excepció establerta a l’article 19.3 d’aquesta Llei.
+2. Es poden exceptuar aquells casos en què no siguin d’utilitat per a la salut de l’individu quan tinguin el consentiment exprés i lliure del treballador, es destinin a una recerca d’interès evident per a la salut de la col·lectivitat que no es pugui obtenir d’una altra manera i la recerca hagi estat autoritzada per la Comissió d’Ètica de la Investigació. S’haurà de valorar que el consentiment informat pugui donar-se lliurement i no es vegi afectat per la relació laboral de dependència.
+3. Els resultats de les proves genètiques realitzades a treballadors només es poden cedir a tercers quan hi concorri el consentiment exprés del treballador o una causa de legitimació per a la cessió prevista en l’ordenament jurídic.
+
+**Article 22. Fins i pertinència del cribratge genètic**
+
+$34
+
+**Article 23. Participació en el cribratge genètic**
+
+1. La participació en un cribratge genètic s’oferirà a tots els membres de la població a qui va dirigit, per a la qual cosa caldrà el consentiment per escrit previ de cada subjecte afectat.
+2. La informació prèvia a aquest consentiment es farà per escrit i es referirà a:
+a) Les característiques i objectius que es persegueixen amb el cribratge.b) La naturalesa voluntària de la participació.c) La validesa i fiabilitat de les proves de cribratge i de les proves diagnòstiques de segon nivell.d) La possibilitat d’obtenir falsos positius i, per tant, la necessitat de confirmar o descartar el diagnòstic.e) Els períodes de temps que transcorreran entre les diferents etapes del procés del cribratge.f) Les possibilitats existents de tractament i prevenció de la malaltia una vegada diagnosticada.g) Les incomoditats, els riscos i els esdeveniments adversos que es poden derivar del procés diagnòstic, incloent-hi els associats a la presa de mostres i a les mesures terapèutiques o preventives que ofereixi el programa.
+
+**Article 24. Consell genètic**
+
+1. Quan es dugui a terme una anàlisi genètica amb fins sanitaris cal garantir a l’interessat un assessorament genètic apropiat, respectant en tot cas el criteri de la persona interessada.
+2. El professional que realitzi o coordini el consell genètic ha d’oferir una informació i un assessorament adequats, relatius tant a la transcendència del diagnòstic genètic resultant com a les possibles alternatives per les quals el subjecte podrà optar segons el diagnòstic resultant.
+
+**Article 25. Requisits de qualitat**
+
+Tot el procés de consell genètic i de pràctica d’anàlisi i cribratges genètics amb fins sanitaris l’ha de fer personal qualificat i s’ha de dur a terme en centres que reuneixin els requisits d’organització i qualitat en els termes que s’estableixin per reglament.
+
+**Article 26. Acreditació de centres d’anàlisi genètica**
+
+L’autoritat competent ha d’acreditar els centres, públics o privats, que puguin fer anàlisis genètiques i que, en tot cas, han de complir el que disposen els articles 19 a 25 d’aquesta Llei.
+
+### Títol IV. Utilització de mostres biològiques humanes amb fins de recerca biomèdica
+
+**Article 27. Obtenció de les mostres**
+
+$36
+
+**Article 28. Informació prèvia a la utilització de la mostra biològica**
+
+$38
+
+**Article 29. Ús de mostres biològiques per a altres línies de recerca**
+
+El consentiment específic podrà preveure l’ús de la mostra per a altres línies de recerca relacionades amb la proposada inicialment, incloses les realitzades per tercers. Si no fos el cas, es sol·licitarà al subjecte font que atorgui, si ho estima procedent, un nou consentiment.
+
+**Article 30. Conservació i destrucció de les mostres**
+
+1. En el cas que es procedeixi a la conservació de la mostra, el subjecte font serà informat per escrit de les condicions de conservació, objectius, usos futurs, cessió a tercers i condicions per poder retirar-la o demanar-ne la destrucció. No obstant això, les mostres biològiques utilitzades en recerca biomèdica es conservaran únicament mentre siguin necessàries per als fins que en van justificar la recollida, llevat que el subjecte font hagi atorgat el consentiment explícit per a altres usos posteriors.
+2. El que indica l’apartat anterior s’entén aplicable mentre les dades d’identificació de la mostra no hagin estat sotmeses a la seva anonimització o, si escau, pseudonimització, de conformitat amb el que preveu aquesta Llei.
+
+### Títol V. Biobancs
+
+**Article 31. Interès científic i autorització**
+
+$3a
+
+**Article 32. Titularitat**
+
+1. La persona física o jurídica, pública o privada, que ostenti la titularitat d’un biobanc en serà la responsable.
+2. Si es produeix el canvi de titularitat de la persona responsable del biobanc, o la modificació o ampliació dels objectius del biobanc, es comunicarà aquesta circumstància al Ministeri encarregat de la salut, que, si escau, atorgarà una nova autorització.
+
+**Article 33. Organització del biobanc**
+
+$3c
+
+**Article 34. Inspeccions i mesures de control**
+
+L’autoritat competent durà a terme inspeccions periòdiques per garantir que els biobancs compleixen les condicions d’instal·lació, organització i funcionament amb què van ser autoritzats.
+
+**Article 35. Obtenció i cessió de mostres**
+
+$3e
+
+**Article 36. Clausura o tancament del biobanc**
+
+1. L’autoritat competent pot decidir, d’ofici o a instància de part i mitjançant una resolució motivada, la clausura o el tancament del biobanc en els casos en què no es compleixin els requisits sobre la seva creació, organització i funcionament establerts en aquesta Llei, o quan el titular manifesti la voluntat de no continuar amb la seva activitat.
+2. En aquesta resolució s’ha d’indicar, així mateix, la destinació de les mostres emmagatzemades al biobanc que hagi de ser clausurat o tancat.
+
+**Article 37. Col·leccions de mostres**
+
+Les normes anteriors no són aplicables a les col·leccions de mostres biològiques d’origen humà mantingudes per persones físiques per a usos exclusivament personals diferents de la investigació biomèdica, les quals, en tot cas, han de respectar la legislació sobre protecció de dades de caràcter personal.
+
+### Títol VI. Sobre la recerca amb mostres biològiques de naturalesa embrionària i en l’àmbit del genoma humà
+
+**Article 38. Recerca amb cèl·lules d’origen embrionari**
+
+$40
+
+**Article 39. Recerca i intervencions al genoma humà**
+
+Qualsevol recerca o intervenció que pugui modificar el genoma humà únicament es podrà dur a terme per motius de prevenció, diagnòstic o terapèutics i només si el propòsit no és introduir directament modificacions al genoma dels descendents o a la línia germinal.
+
+### Títol VII. Planificació, promoció i control de la recerca
+
+**Article 40. Promoció i qualitat de la recerca biomèdica i dels assaigs clínics**
+
+$42
+
+**Article 41. Garanties de control i seguiment**
+
+$44
+
+**Article 42. Idoneïtat de les persones que realitzen la recerca o assaig clínic**
+
+L’investigador serà un professional sanitari o un professional que es consideri qualificat per ser investigador per reunir els coneixements científics i l’experiència necessaris d’atenció al pacient.
+Les altres persones que participin en la realització d’un assaig clínic estaran degudament qualificades, per educació, formació i experiència, per exercir les tasques.
+
+**Article 43. Idoneïtat de les persones que validen i avaluen els projectes i sol·licituds de recerca**
+
+$46
+
+**Article 44. Avaluació en l’assignació dels recursos públics per a la recerca i innovació biomèdica**
+
+1. L’assignació dels recursos públics per a la recerca i innovació biomèdica s’efectua d’acord amb els principis de transparència i eficiència, i sobre la base d’una avaluació científica, en funció dels objectius concrets que cal assolir.
+2. L’avaluació s’ha de fer sota els principis d’autonomia, neutralitat i especialització, i ha de partir de l’anàlisi dels coneixements científics i tècnics disponibles i de la seva aplicabilitat. Els criteris orientadors d’aquesta anàlisi seran públics, s’establiran en funció dels objectius perseguits i de la naturalesa de l’acció avaluada i inclouran aspectes científics, tècnics, socials, d’aplicabilitat, d’oportunitat de mercat i de capacitat de transferència del coneixement, o qualsevol altre considerat estratègic.
+3. L’avaluació atendrà no només principis d’utilitat, eficàcia i eficiència, sinó també els principis d’igualtat, equitat, protecció davant de la vulnerabilitat i necessitat.
+
+**Article 45. Garantia de transparència i informació a la societat**
+
+1. Una vegada conclosa la recerca, l’investigador responsable ha de remetre un resum a l’autoritat competent que va donar l’autorització i, segons qui hagi participat en l’autorització, a la Comissió d’Ètica de la Investigació o al Comitè d’Ètica de la investigació del centre sanitari.
+2. Els resultats de la recerca es comunicaran als participants, sempre que ho sol·licitin.
+3. Els investigadors hauran de fer públics pel mitjà habitual els resultats generals de les investigacions, tant si han tingut èxit com si no, una vegada concloses, atenent els principis de l’accés obert en recerca perquè les dades produïdes siguin accessibles, interoperables i reutilitzables, els requisits relatius a les dades de caràcter personal i sense detriment dels corresponents drets de propietat intel·lectual i industrial que es poguessin derivar de la recerca.
+
+### Títol VIII. Promoció i realització de recerca i innovació per part d’entitats de naturalesa pública o publicoprivada
+
+**Article 46. Principis generals**
+
+$48
+
+**Article 47. Creació d’entitats o participació en entitats**
+
+El Govern d’Andorra, els ministeris encarregats de la salut i la recerca i la innovació i altres entitats públiques o parapúbliques podran constituir altres entitats de qualsevol naturalesa jurídica, siguin nacionals o estrangeres, o participar-hi, encara que es tracti de societats mercantils, sempre que tinguin per objecte la consecució de fites anàlogues, compatibles o complementàries amb la seva fita de recerca i innovació.
+
+**Article 48. Col·laboració en matèria de recerca i innovació**
+
+$4a
+
+**Article 49. Professionals involucrats en la recerca i la innovació, i regulació de drets de propietat intel·lectual, drets de propietat industrial i/o altres drets o posicions jurídiques d’anàleg contingut econòmic**
+
+$4c
+
+### Títol IX. Infraccions i sancions
+
+**Article 50. Normes generals**
+
+$4e
+
+**Article 51. Responsables**
+
+1. De les diferents infraccions n’és responsable l’autor.
+2. Quan el compliment de les obligacions que preveu aquesta Llei correspon a diverses persones conjuntament, responen de manera solidària de les infraccions que es comenten i de les sancions que s’imposin.
+3. Els directors dels centres o serveis han de respondre solidàriament de les infraccions comeses pels equips biomèdics que en depenen.
+
+**Article 52. Infraccions**
+
+$50
+
+**Article 53. Sancions**
+
+$52
+
+**Article 54. Altres mesures**
+
+1. No tenen caràcter de sanció la clausura i el tancament d’establiments, instal·lacions o serveis que no comptin amb les autoritzacions o registres sanitaris preceptius previs, o la suspensió del seu funcionament fins que se solucionin els defectes o es compleixin els requisits exigits per raons de sanitat, higiene o seguretat.
+2. L’autoritat a què correspongui resoldre l’expedient pot acordar el comís de productes, medicaments o mostres biològiques deteriorats, caducats, no autoritzats o que puguin comportar risc per a la salut.
+3. Les despeses de transport, distribució o destrucció dels productes, medicaments i mostres, així com les derivades de la suspensió, la clausura i el tancament d’establiments, instal·lacions o serveis assenyalats en els apartats anteriors, són a compte de l’infractor.

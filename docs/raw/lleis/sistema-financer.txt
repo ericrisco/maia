@@ -1,0 +1,513 @@
+# Llei del sistema financer (Llei 7/2013)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/sistema-financer
+Articles: 95 · versions consolidades: 11
+Instantania del consolidat: 2026-09-12T05:30:16.117821Z
+
+---
+
+#### Capítol primer. Disposicions generals
+
+**Article 1. Objecte**
+
+L’objecte d’aquesta Llei és establir el règim jurídic de les entitats operatives del sistema financer així com diverses disposicions que regulen l’exercici de les activitats financeres al Principat d’Andorra.
+
+**Article 2. Definicions**
+
+1) Direcció general:
+són les persones físiques que exerceixen funcions executives en l’entitat i que són responsables de la gestió diària de l’entitat i formen part de l’òrgan superior de direcció de l’entitat, que han de retre comptes de la gestió diària davant l’òrgan d’administració.
+2) Experiència professional adequada:
+es considera que disposen d’experiència professional adequada les persones que han exercit, amb normalitat, durant un termini superior a tres anys funcions d’alta administració, direcció o control d’entitats bancàries, o funcions de responsabilitat similar en altres entitats, públiques o privades, de dimensió significativa.
+3) Honorabilitat empresarial i professional:
+es considera que són persones de reconeguda honorabilitat empresarial i professional les que tenen una bona reputació personal i professional, les persones la imatge pública de les quals correspon a la de bones administradores i, d’una manera específica, les que:
+a) no tenen antecedents penals per delictes de falsedat, d’infidelitat en la custòdia de documents, de violació de secrets, de malversació de cabals públics, de descobriment i revelació de secrets o per delictes contra el patrimoni;b) no tenen antecedents penals per altres delictes dolosos;c) no estan ni han estat inhabilitades per exercir càrrecs públics o d’administració o direcció en entitats del sistema financer, a Andorra o a l’estranger;d) no han estat declarades fallides o en situació d’arranjament judicial, i si ho han estat, han estat judicialment rehabilitades.
+4) Instruments financers:
+s’entén per
+instruments financers
+l’accepció més àmplia del terme, i especialment els que es detallen a continuació:
+a) Valors negociables.b) Instruments del mercat monetari.c) Participacions d’OIC.d) Contractes d’opcions, futurs, permutes (swaps), acords de tipus d’interès a termini i altres contractes de derivats relacionats amb valors, divises, tipus d’interès o rendiments, drets d’emissió o altres instruments derivats, índexs financers o mesures financeres que puguin liquidar-se en espècie o en efectiu.e) Contractes d’opcions, futurs, permutes (swaps), acords de tipus d’interès a termini i altres contractes de derivats relacionats amb matèries primeres que hagin de liquidar-se en efectiu o que puguin liquidar-se en efectiu a petició d’una de les parts per motius diferents de l’incompliment o d’un altre fet que dugui a la rescissió del contracte.f) Contractes d’opcions, futurs, permutes (swaps) i altres contractes de derivats relacionats amb matèries primeres que puguin liquidar-se en espècie, sempre que es negociïn en un mercat regulat o en un sistema de negociació multilateral o un SOC, excepte pel que fa als productes energètics a l’engròs que es negociïn en un SOC i s’hagin de liquidar mitjançant lliurament físic.g) Contractes d’opcions, futurs, permutes (swaps), acords de tipus d’interès a termini i altres contractes de derivats relacionats amb matèries primeres que puguin ser liquidats mitjançant lliurament físic, no esmentats en l’apartat anterior i no destinats a fins comercials, que presentin les característiques d’altres instruments financers derivats, tenint en compte, entre altres coses, si es liquiden a través de cambres de compensació reconegudes o són objecte d’ajustaments regulars dels marges de garantia.h) Instruments derivats per a la transferència del risc de crèdit.i) Contractes ﬁnancers per diferències.j) Contractes d’opcions, futurs, permutes (swaps), acords de tipus d’interès a termini i altres contractes de derivats relacionats amb variables climàtiques, despeses de transport, autoritzacions d’emissió o tipus d’inflació o altres estadístiques econòmiques oficials, que hagin de liquidar-se en efectiu o que puguin liquidar-se en efectiu a elecció d’una de les parts (per motius diferents de l’incompliment o d’un altre succés que dugui a la rescissió del contracte), així com qualsevol altre contracte derivat relacionat amb actius, drets, obligacions, índexs i mesures no esmentats en els apartats anteriors, que presentin les característiques d’altres instruments financers derivats, tenint en compte, entre altres coses, si es negocien en un mercat regulat o en un sistema de negociació multilateral, si es liquiden a través de cambres de compensació reconegudes o són objecte d’ajustaments regulars dels marges de garantia.k) Drets d’emissió.
+5) Fons propis:
+és la suma de capital de nivell 1 i capital de nivell 2, segons la Llei de solvència, liquiditat i supervisió prudencial d’entitats bancàries i empreses d’inversió, i les seves normes d’aplicació.
+El capital inicial compren només un o més dels elements a què es refereix l’apartat 1 de l’article 28, apartat 1) lletres a) a e) de la Llei de solvència, liquiditat i supervisió prudencial d’entitats bancàries i empreses d’inversió.
+6) Valors negociables:
+s’entenen per valors negociables les categories de valors que són negociables en el mercat de capitals, a excepció dels instruments de pagament, com:
+- accions de societats i altres valors equiparables a les accions de societats, associacions o altres entitats i certificats de dipòsit representatius d’accions;- obligacions o altres formes de deute titulitzat, inclosos els certificats de dipòsit representatius d’aquests valors;- tots els altres valors que atorguen el dret a adquirir o a vendre aquests valors negociables o que donen lloc a una liquidació en efectiu, determinada per referència a valors negociables, divises, tipus d’interès o rendiments, matèries primeres o altres índexs o mesures.
+7) Ens del sector financer:
+un ens del sector financer tal com es defineix a l’incís 20, apartat 1 de l’article 3 de la Llei de solvència, liquiditat i supervisió prudencial d’entitats bancàries i empreses d’inversió.
+8) Participació qualificada:
+és aquella participació que es defineix en l’apartat 14 de l’article 2 de la Llei 7/2024, del 27 de maig, sobre organització i funcionament de les entitats operatives del sistema financer i l’abús de mercats.
+
+**Article 3. Composició del sistema financer andorrà**
+
+$24
+
+**Article 4. Entitats amb objecte social financer que no formen part del sistema financer**
+
+$2a
+
+**Article 4 bis. Activitats en el marc dels serveis de finançament participatiu**
+
+No tenen la condició d’activitats pròpies del sistema financer andorrà les activitats que es desenvolupin d’acord amb el capítol V del títol VII de la Llei d’economia digital, emprenedoria i innovació i, en concret:
+a) en relació amb els promotors de projectes que, pels préstecs facilitats a un proveïdor de serveis de finançament participatiu, accepten fons dels inversors, ib) els préstecs que concedeixen els inversors a promotors de projectes facilitats pels proveïdors de serveis de finançament participatiu.
+
+**Article 5. Prohibició de prestar activitats reservades a les entitats operatives del sistema financer sense autorització**
+
+1. Es prohibeix efectuar les activitats bancàries, financeres, de pagament o de diners electrònics sense autorització prèvia de l’AFA previstes en els articles 8, 20, 21, 38, 49 i 61, a excepció de:
+- Les activitats previstes a les lletres h) i l) de l’apartat 2 de l’article 8.- Les activitats previstes a la lletra c) de l’article 21.- L’arrendament no financer (rènting) i informes comercials previstos a l’apartat 1 de l’article 49.
+2. Cap persona, física o jurídica, no pot, sense haver obtingut la preceptiva autorització i trobar-se inscrita en els registres administratius corresponents, desenvolupar amb caràcter professional o habitual les activitats prohibides en l’apartat anterior.
+
+**Article 5 bis. Aprovació de les societats financeres de cartera i societats financeres mixtes de cartera**
+
+$35
+
+**Article 6. Introducció de noves activitats financeres**
+
+1. El Govern, davant la introducció o la constatació de noves activitats de caràcter financer que no siguin tècnicament assimilables a les que preveu la legislació vigent, sotmetrà al Consell General, amb l’informe tècnic de l’Autoritat Financera Andorrana (d’ara en endavant AFA), una proposta legislativa d’integració d’aquestes noves activitats al sistema financer andorrà.
+2. Es faculta el Govern perquè, amb l’informe previ de l’AFA, pugui disposar que quedi en suspens, cautelarment, l’eventual introducció o el desenvolupament d’activitats que són objecte del punt anterior, mentre es tramet al Consell General la documentació i la informació necessàries perquè aquest reguli les noves activitats en qüestió.
+
+**Article 7. Prohibició de les entitats no bancàries de rebre del públic dipòsits i altres fons reemborsables**
+
+1. Les entitats no bancàries no estan facultades per rebre del públic dipòsits i altres fons reemborsables.
+2. A aquests efectes, no constitueixen fons reemborsables del públic els fons rebuts per les entitats financeres d’inversió i les societats gestores d’organismes d’inversió col·lectiva en el marc de la prestació del serveis d’inversió definits en la lletra d) de l’article 20 i el servei auxiliar definit en la lletra a) de l’article 21 per dur a terme inversions per compte dels seus clients; els finançaments atorgats per entitats bancàries; els fons lliurats per entitats pertanyents al mateix grup o per socis titulars almenys d’un 5% del capital social i les emissions de valors dutes a terme d’acord amb la normativa vigent.
+3. L’apartat 1 no s’ha d’aplicar a la recepció de dipòsits o altres fons reemborsables per part del Govern, l’AFA, o altres entitats u organismes expressament habilitats per Llei.
+
+#### Capítol segon. Règim jurídic de les entitats bancàries
+
+##### Secció primera. Disposicions generals
+
+**Article 8. Definició**
+
+$37
+
+##### Secció segona. Condicions per accedir a l’activitat
+
+**Article 9. Forma**
+
+Les entitats bancàries han de revestir la forma de societat anònima de dret andorrà de durada indefinida.
+
+**Article 10. Denominació**
+
+L’ús o el registre com a element de qualsevol signe distintiu (marca, denominació social, nom comercial, rètol d’establiment o adreça d’internet) dels termes “entitat bancària”, “banc”, “banca”, o qualsevol altre que pugui induir a confusió, per altres entitats que una entitat bancària, s’entendrà que és un signe de naturalesa enganyosa o de natura a induir a error el públic i subjecte a les accions de nul·litat i de prohibició d’ús corresponents, excepte en els casos en què la paraula “banc” va acompanyada d’un qualificatiu que evita qualsevol confusió, com per exemple “banc de sang”.
+
+**Article 11. Domicili**
+
+El domicili, l’administració i la direcció efectiva de les entitats bancàries ha d’establir-se en territori nacional.
+
+**Article 12. Objecte social**
+
+L’objecte social exclusiu de les entitats bancàries ha de determinar-se en els seus estatuts i limitar-se a les activitats que, d’acord amb la legislació vigent, poden integrar-lo.
+
+**Article 13. Capital social**
+
+1. Les entitats bancàries han de disposar d’un capital social mínim de 5.000.000 d’euros, totalment subscrit i desemborsat mitjançant aportacions dineràries.
+2. El capital social ha d’incloure un o més dels elements a què es refereixen les lletres a) i complementàriament b), de l’apartat 1 de l’article 28,, de la Llei de solvència, liquiditat i supervisió prudencial d’entitats bancàries i empreses d’inversió.
+
+**Article 14. Consell d’administració**
+
+$3d
+
+**Article 15. Direcció general**
+
+1. La direcció general ha d’estar composta per dues persones com a mínim, una de les quals ha d’assumir explícitament les responsabilitats d’intervenció i control.
+2. Les persones que componen la direcció general han de tenir els coneixements idonis i l’experiència professional adequada per exercir la seva funció.
+3. Les persones que componen la direcció general han de ser persones de reconeguda honorabilitat empresarial i professional.
+
+**Article 16. Condicions**
+
+Per obtenir i conservar l’autorització administrativa, les entitats bancàries han de complir en tot moment amb les condicions per accedir a l’activitat establertes en els articles anteriors, així com amb les condicions per a l’exercici d’aquesta, inclosos els requisits organitzatius i les condicions de funcionament, establerts a la legislació vigent.
+
+##### Secció tercera. Condicions per a l’exercici de l’activitat
+
+**Article 17. Obertura d’oficines i contractació de personal**
+
+1. Les entitats bancàries han de mantenir oberta almenys una oficina en una parròquia del Principat distinta de la parròquia on han instal·lat l’oficina principal.
+2. No menys de la meitat del personal contractat ha de ser andorrà o resident amb una antiguitat no inferior a tres anys i ha de ser suficient en nombre i tenir la formació adequada per desenvolupar les activitats que se li encomanin.
+3. Les entitats han de contractar personal amb els coneixements necessaris per desenvolupar les funcions que se’ls assignin. En particular, les entitats bancàries que prestin serveis d’inversió i/o serveis auxiliars han de garantir que les persones competents coneguin els procediments a seguir per tal de complir adequadament les seves responsabilitats.
+
+**Article 18. Normes de solvència i liquiditat**
+
+Les entitats bancàries estan sotmeses a les normes de solvència i liquiditat definides a la Llei de solvència, liquiditat i supervisió prudencial d’entitats bancàries i empreses d’inversió.
+
+#### Capítol tercer. Règim jurídic de les entitats financeres d’inversió
+
+##### Secció primera. Disposicions generals
+
+**Article 19. Definició**
+
+1. Són entitats financeres d’inversió les persones, físiques o jurídiques, que, en els termes establerts en aquesta Llei, tenen com a activitat principal prestar professionalment un o diversos serveis d’inversió a tercers sobre instruments financers i, a més, realitzar altres serveis auxiliars.
+2. Les entitats financeres d’inversió també poden, amb una autorització prèvia, exercir qualsevol activitat complementària a les mencionades als articles 20 i 21, sempre que els permeti desenvolupar de forma més eficient l’activitat principal per a la qual disposen d’autorització.
+S’entén per activitat complementària qualsevol activitat accessòria que suposi la prolongació del negoci sense desvirtuar l’objecte social propi de l’empresa d’inversió. Els ingressos que generi no poden representar més del 25% dels ingressos de l’entitat.
+
+**Article 20. Serveis i activitats d’inversió**
+
+D’acord amb aquesta Llei, es consideren serveis i activitats d’inversió els següents:
+a) La recepció i la transmissió d’ordres dels clients en relació amb un o més instruments financers.b) L’execució d’ordres per compte dels clients.c) La negociació per compte propi.d) La gestió discrecional i individualitzada de carteres:i) La gestió discrecional i individualitzada de carteres de conformitat amb el mandat atorgat pels clients.ii) La gestió discrecional i individualitzada de carteres de conformitat amb el mandat atorgat pels clients exclusivament en la modalitat de gestió indirecta.e) L’assessorament en matèria d’inversió.f) L’assegurament i/o la col·locació d’instruments financers sobre la base d’un compromís ferm.g) La col·locació d’instruments financers sense la base d’un compromís ferm.h) La gestió de sistemes multilaterals de negociació.
+
+**Article 20 bis. Assessorament en matèria d’inversió**
+
+1. De conformitat amb la lletra e) de l’article 20, la recomanació ha de ser idònia per a la persona, o ha de basar-se en una consideració de les seves circumstàncies personals, i ha de constituir una recomanació per efectuar alguna de les accions següents:
+a) Comprar, vendre, subscriure, bescanviar, reemborsar, mantenir o assegurar un instrument financer específic.b) Exercir o no exercir qualsevol dret conferit per un instrument financer determinat per comprar, vendre, subscriure, bescanviar o reemborsar un instrument financer.
+2. La recomanació no es considera personalitzada si es divulga exclusivament o al públic.
+
+**Article 21. Serveis auxiliars**
+
+$4a
+
+**Article 22. Tipologia**
+
+Per a la prestació dels serveis d’inversió i auxiliars previstos als articles 20 i 21, les entitats financeres d’inversió s’han de constituir en algun dels tipus següents:
+a) societats financeres d’inversió;b) agències financeres d’inversió;c) societats gestores de patrimonis;d) assessors financers.
+
+**Article 23. Societats financeres d’inversió**
+
+Són societats financeres d’inversió les entitats financeres d’inversió que poden realitzar tots els serveis d’inversió i tots els serveis auxiliars previstos als articles 20 i 21 amb caràcter professional, tant per compte propi com aliè.
+
+**Article 24. Agències financeres d’inversió**
+
+Són agències financeres d’inversió les entitats financeres d’inversió que poden prestar tots els serveis d’inversió, llevat dels mencionats a les lletres c) i f) de l’article 20, i tots els serveis auxiliars, llevat dels mencionats a la lletra b) de l’article 21, amb caràcter professional i únicament per compte aliè.
+
+**Article 25. Societats gestores de patrimonis**
+
+Són societats gestores de patrimonis les entitats financeres d’inversió que només poden prestar els serveis d’inversió mencionats a les lletres d) i e) de l’article 20 i els serveis auxiliars mencionats a les lletres c) i e) de l’article 21.
+Addicionalment, i exclusivament en relació amb l’activitat de gestió discrecional i individualitzada de carteres en la modalitat de gestió directa, les societats gestores de patrimonis poden prestar el servei auxiliar establert a la lletra a) de l’article 21, amb el benentès que els actius en custòdia han d’estar dipositats d’acord amb les premisses de la legislació vigent.
+
+**Article 26. Assessors financers**
+
+Són assessors financers les entitats financeres d’inversió en forma de persona física o jurídica, que només poden prestar el servei d’inversió mencionat a la lletra e) de l’article 20 i els serveis auxiliars mencionats a les lletres c) i e) de l’article 21.
+
+**Article 27. Agents financers**
+
+$4e
+
+##### Secció segona. Condicions per accedir a l’activitat
+
+**Article 28. Forma**
+
+Les entitats financeres d’inversió han de tenir la forma de societat anònima de dret andorrà de durada indefinida. No obstant això, els assessors financers i els agents financers poden ser tant persones físiques com revestir la forma de societats anònimes o de responsabilitat limitada de dret andorrà i de durada indefinida.
+
+**Article 29. Denominació**
+
+L’ús o el registre com a element de qualsevol signe distintiu (marca, denominació social, nom comercial, rètol d’establiment o adreça d’internet) dels termes “entitat financera d’inversió”, “societat financera d’inversió”, “agència financera d’inversió”, “societat gestora de patrimonis”, “assessors financers” o qualsevol altra que pugui induir a confusió, com també les seves abreviatures, “EFI”, “SFI”, “AFI”, “SGP”, “ASF”, per altres entitats que aquestes s’entendrà que és un signe de naturalesa enganyosa o de natura a induir a error el públic i subjecte a les accions de nul·litat i de prohibició d’ús corresponents.
+
+**Article 30. Domicili**
+
+El domicili, l’administració i la direcció efectives de les entitats financeres d’inversió s’han d’establir en territori nacional.
+
+**Article 31. Objecte social**
+
+L’objecte social exclusiu de les entitats financeres d’inversió s’ha de determinar als estatuts i limitar-se a un, alguns o tots els serveis d’inversió i/o auxiliars previstos per a cada tipus als articles 23 a 26.
+
+**Article 32. Capital social**
+
+$54
+
+**Article 33. Òrgan d’administració**
+
+1. L’òrgan d’administració de les entitats financeres d’inversió en forma de persona jurídica ha d’adoptar la forma de consell d’administració i ha de disposar almenys de tres membres. No obstant, l’òrgan d’administració dels assessors financers pot comptar amb un administrador únic.
+2. Els membres del consell d’administració, incloses les persones físiques que representen les persones jurídiques, han de ser persones de reconeguda honorabilitat empresarial i professional.
+3. La majoria dels membres del consell d’administració, incloses les persones físiques que representen les persones jurídiques, han de ser persones amb coneixements idonis per exercir les funcions inherents al càrrec i amb una experiència professional adequada.
+4. El president nomenat no pot ser el director general de l’entitat.
+5. El consell d’administració de les entitats financeres d’inversió ha d’aprovar un reglament intern de funcionament que faciliti el compliment de les obligacions i les responsabilitats de tots els seus membres.
+
+**Article 34. Direcció general**
+
+La direcció general, que necessàriament han de tenir les entitats financeres d’inversió, ha d’estar formada per una o més persones d’honorabilitat empresarial i professional reconeguda i que tinguin coneixements idonis per exercir les funcions inherents al càrrec i una experiència professional adequada. Tanmateix, en el cas de les persones físiques que tinguin la condició d’assessors financers, aquests requisits han de concórrer en aquestes persones.
+
+**Article 35. Condicions**
+
+Per obtenir i conservar l’autorització administrativa, les entitats financeres d’inversió han de complir en tot moment amb les condicions per a l’accés a l’activitat establertes als articles anteriors, així com amb les condicions per a l’exercici d’aquesta, inclosos els requisits organitzatius i les condicions de funcionament, establerts a la legislació vigent.
+
+##### Secció tercera. Condicions per exercir l’activitat
+
+**Article 36. Obertura d’oficines i contractació del personal**
+
+Les entitats financeres d’inversió han de mantenir oberta almenys una oficina en una parròquia del Principat i el personal que hi presti serveis ha de ser suficient en nombre i tenir la formació, els coneixements i l’experiència necessaris per desenvolupar les activitats que se li encomanin.
+En particular, les entitats financeres d’inversió que prestin serveis d’inversió i/o serveis auxiliars han de garantir que les persones competents coneguin els procediments a seguir per tal de complir adequadament les seves responsabilitats. Almenys el 20% del personal que hi presti serveis ha de ser andorrà o resident al Principat amb una antiguitat no inferior a dos anys.
+
+**Article 37. Normes de solvència**
+
+$58
+
+#### Capítol quart. Règim jurídic de les societats gestores d’organismes d’inversió col·lectiva
+
+##### Secció primera. Disposicions generals
+
+**Article 38. Definició**
+
+1. Són societats gestores d’organismes d’inversió col·lectiva les societats de dret andorrà que despleguen com a activitat principal les funcions i obligacions previstes als articles 61 a 63 de la Llei 10/2008, del 12 de juny, de regulació dels organismes d’inversió col·lectiva de dret andorrà.
+2. Tanmateix, les societats gestores d’organismes d’inversió col·lectiva també poden desplegar les funcions definides a les lletres d) i e) de l’article 20 i les relatives a la custòdia i a l’administració de les participacions dels fons d’inversió i, en el seu cas, de les accions de les societats d’inversió, que gestionen.
+Addicionalment, i exclusivament en relació amb l’activitat de gestió discrecional i individualitzada de carteres en la modalitat de gestió directa, les societats gestores d’organismes d’inversió col·lectiva poden prestar el servei auxiliar establert a la lletra a) de l’article 21 amb el benentès que els actius en custòdia han d’estar dipositats d’acord amb les premisses de la legislació vigent.
+
+##### Secció segona. Condicions per accedir a l’activitat
+
+**Article 39. Forma**
+
+Les societats gestores d’organismes d’inversió col·lectiva han de tenir la forma de societat anònima de dret andorrà de durada indefinida.
+
+**Article 40. Denominació**
+
+L’ús o el registre com a element de qualsevol signe distintiu (marca, denominació social, nom comercial, rètol d’establiment o adreça d’internet) del terme “societat gestora d’organisme d’inversió col·lectiva”, o qualsevol altre que pugui induir a confusió, com també l’abreviatura, “SGOIC”, per altres entitats que aquestes s’entendrà que és un signe de naturalesa enganyosa o de natura a induir a error el públic i subjecte a les accions de nul·litat i de prohibició d’ús corresponents.
+
+**Article 41. Domicili**
+
+El domicili, l’administració i la direcció efectives de les societats gestores d’organismes d’inversió col·lectiva s’han d’establir en territori nacional.
+
+**Article 42. Objecte social**
+
+L’objecte social exclusiu i legalment determinat de les societats gestores d’organismes d’inversió col·lectiva s’ha de determinar als estatuts i s’ha de limitar a les activitats referides al títol VI de la Llei 10/2008, del 12 de juny, de regulació dels organismes d’inversió col·lectiva de dret andorrà així com a les previstes en aquesta Llei que puguin desenvolupar aquestes entitats.
+
+**Article 43. Capital Social**
+
+Les societats gestores d’organismes d’inversió col·lectiva han de comptar amb un capital social mínim de 125.000 euros, totalment subscrit i desemborsat mitjançant aportacions dineràries.
+
+**Article 44. Consell d’administració**
+
+1. L’òrgan d’administració de les societats gestores d’organismes d’inversió col·lectiva ha d’adoptar la forma de consell d’administració i ha de disposar almenys de tres membres.
+2. Els membres del consell d’administració, incloses les persones físiques que representen les persones jurídiques al consell, han de ser persones d’honorabilitat empresarial i professional reconeguda.
+3. La majoria dels membres del consell d’administració, incloses les persones físiques que representen les persones jurídiques al consell, han de ser persones amb coneixements idonis per exercir les funcions inherents al càrrec i amb una experiència professional adequada.
+4. El president nomenat no pot ser el director general de l’entitat.
+5. El consell d’administració de les entitats gestores d’organismes d’inversió col·lectiva ha d’aprovar un reglament intern de funcionament que faciliti el compliment de les obligacions i les responsabilitats de tots els seus membres.
+
+**Article 45. Direcció general**
+
+Les societats gestores d’organismes d’inversió col·lectiva han de tenir necessàriament una direcció general, la qual ha d’estar formada per una o més persones d’honorabilitat empresarial i professional reconeguda que tinguin coneixements idonis per exercir les funcions inherents al càrrec i una experiència professional adequada.
+
+**Article 46. Condicions**
+
+Per obtenir i conservar l’autorització administrativa, les societats gestores d’organismes d’inversió col·lectiva han de complir en tot moment amb les condicions per a l’accés a l’activitat establertes als articles anteriors d’aquest capítol, així com amb les condicions per a l’exercici d’aquesta, inclosos els requisits organitzatius i les condicions de funcionament, establerts a la legislació vigent.
+
+##### Secció tercera. Condicions per a l’exercici de l’activitat
+
+**Article 47. Obertura d’oficines i contractació del personal**
+
+Les societats gestores d’organismes d’inversió col·lectiva han de mantenir oberta almenys una oficina en una parròquia del Principat i el personal que hi presti serveis ha de ser suficient en nombre i tenir la formació, els coneixements i l’experiència necessaris per desenvolupar les activitats que se li encomanin.
+En particular, les societats gestores d’organismes d’inversió col·lectiva que prestin serveis d’inversió i/o serveis auxiliars han de garantir que les persones competents coneguin els procediments a seguir per tal de complir adequadament les seves responsabilitats. Almenys el 20% del personal que hi presti serveis ha de ser andorrà o resident al Principat amb una antiguitat no inferior a dos anys.
+
+**Article 48. Recursos propis**
+
+$5b
+
+#### Capítol cinquè. Règim jurídic de les entitats financeres -no bancàries- de crèdit especialitzat
+
+##### Secció primera. Disposicions generals
+
+**Article 49. Definició**
+
+$61
+
+##### Secció segona. Condicions per accedir a l’activitat
+
+**Article 50. Forma**
+
+Les entitats financeres -no bancàries- de crèdit especialitzat han de revestir la forma de societat anònima de dret andorrà de durada indefinida.
+
+**Article 51. Denominació**
+
+L’ús o el registre com a element de qualsevol signe distintiu (marca, denominació social, nom comercial, rètol d’establiment o adreça d’internet) dels termes “entitat financera -no bancària- de crèdit especialitzat” o una altra que pugui induir a confusió amb aquesta així com les abreviatures “EFCE” “EFNBCE” per altres entitats que aquestes s’entendrà que és un signe de naturalesa enganyosa o de natura a induir a error el públic i subjecte a les accions de nul·litat i de prohibició d’ús corresponents.
+
+**Article 52. Domicili**
+
+El domicili, l’administració i la direcció efectiva de les entitats financeres -no bancàries- de crèdit especialitzat han d’establir-se en el territori nacional.
+
+**Article 53. Objecte social**
+
+L’objecte social exclusiu i legalment determinat de les entitats financeres -no bancàries- de crèdit especialitzat ha de determinar-se en els seus estatuts i limitar-se a una, diverses o totes les activitats enumerades a l’article 49.
+
+**Article 54. Capital social**
+
+Les entitats financeres -no bancàries- de crèdit especialitzat han de ser constituïdes i mantenir un capital social mínim de 2.000.000 d’euros, totalment subscrit i desemborsat mitjançant aportacions dineràries.
+
+**Article 55. Consell d’administració**
+
+$67
+
+**Article 56. Direcció general**
+
+La direcció general, que necessàriament han de tenir les entitats financeres -no bancàries- de crèdit especialitzat, ha d’estar formada per una o més persones de reconeguda honorabilitat empresarial i professional i que tinguin coneixements idonis per exercir les funcions inherents al càrrec i una experiència professional adequada.
+
+**Article 57. Condicions**
+
+Per a l’obtenció i la conservació de l’autorització administrativa, les entitats financeres -no bancàries- de crèdit especialitzat han de complir en tot moment amb les condicions per a l’accés a l’activitat establertes en els articles anteriors, així com amb les condicions per a l’exercici d’aquesta, inclosos els requisits organitzatius i les condicions de funcionament, establerts a la legislació vigent.
+
+##### Secció tercera. Condicions per exercir l’activitat
+
+**Article 58. Obertura d’oficines i contractació de personal**
+
+1. Les entitats financeres -no bancàries- de crèdit especialitzat han de mantenir oberta almenys una oficina al Principat.
+2. El personal que hi presti serveis ha de ser suficient en nombre i ha de tenir la formació adequada per al desenvolupament de les activitats que se li encomanin i, almenys, la meitat han de ser persones de nacionalitat andorrana o residents al Principat amb una antiguitat no inferior a tres anys.
+
+**Article 59. Normes de solvència i de liquiditat**
+
+$69
+
+**Disposició addicional**
+
+Les disposicions d’aquesta Llei queden sotmeses al règim sancionador establert per la Llei de regulació del règim disciplinari del sistema financer, de 27 de novembre del 1997.
+
+**Disposició derogatòria**
+
+Queden derogats la Llei de regulació de les facultats operatives dels diversos components del sistema financer, del 19 de desembre del 1996, la Llei 24/2008, del 30 d’octubre, sobre el règim jurídic de les entitats financeres -no bancàries- de crèdit especialitzat, la Llei 13/2010, del 13 de maig, sobre el règim jurídic de les entitats financeres d’inversió i de les societats gestores d’organismes d’inversió col·lectiva, els articles 8 a 17 de la Llei 14/2010, del 13 de maig, de règim jurídic de les entitats bancàries i de règim administratiu bàsic de les entitats operatives del sistema financer i qualsevol disposició de rang igual o inferior que s’oposi al que s’estableix en aquesta Llei.
+
+**Disposició final primera**
+
+El Govern, a proposta del ministeri encarregat de les finances, ha de preveure reglamentàriament el marc d’actuació relatiu al desenvolupament de l’activitat de gestió de sistemes multilaterals de negociació, el qual pot delegar aquesta facultat a l’INAF.
+
+**Disposició final segona**
+
+S’habilita l’INAF a desenvolupar, mitjançant l’emissió de comunicats tècnics, les disposicions establertes en aquesta Llei.
+
+**Disposició final tercera**
+
+$6f
+
+**Disposició final quarta**
+
+$71
+
+**Disposició final cinquena**
+
+Es modifica l’article 21 de la Llei de regulació del règim disciplinari del sistema financer, de 27 de novembre del 1997, que queda redactat com segueix:
+“L’import de les sancions imposades s’ha d’ingressar a l’Institut Nacional Andorrà de Finances, a nom d’aquest Institut.”
+
+**Disposició final sisena**
+
+S’introdueixen les modificacions següents a l’article 4 de la Llei de regulació dels criteris de solvència i liquiditat de les entitats financeres, del 29 de febrer del 1996: en l’apartat que conté l’escalat de ponderació del risc, els números 11 i 14 queden redactats com segueix:
+“11. Comptes d’ordre que registren els crèdits documentaris, les línies de crèdit no utilitzades, les operacions de lloguer financer amb opció de compra (leasing), les operacions de gestió de factures amb avançaments total o parcial de tresoreria i altres operacions homologables.”,i “14. Crèdits habitatge hipotecaris i operacions de compra de factures.”
+
+**Disposició final setena**
+
+Aquesta Llei entrarà en vigor l’endemà de ser publicada al Butlletí Oficial del Principat d’Andorra.
+Casa de la Vall, 9 de maig del 2013
+Vicenç Mateu ZamoraSíndic General
+Nosaltres els coprínceps la sancionem i promulguem i n’ordenem la publicació en el Butlletí Oficial del Principat d’Andorra.
+Joan Enric Vives SicíliaBisbe d'UrgellCopríncep d'AndorraFrançois HollandePresident de la República FrancesaCopríncep d'Andorra
+
+#### Capítol sisè. Règim jurídic per a les entitats de pagament i de diner electrònic
+
+##### Secció primera. Disposicions generals
+
+**Article 60. Regles generals**
+
+Les entitats de pagament i de diner electrònic estan sotmeses al règim jurídic previst en aquesta Llei i a la Llei dels serveis de pagament i el diner electrònic i, en aquest sentit, qualsevol concepte no definit específicament en aquest capítol té el significat que estableix l’article 3 de la Llei dels serveis de pagament i el diner electrònic.
+
+**Article 61. Definició**
+
+$73
+
+##### Secció segona. Condicions per a l’autorització
+
+**Article 62. Forma**
+
+$79
+
+**Article 63. Nom**
+
+El nom
+entitat de pagament
+o
+entitat de diner electrònic
+i les seves abreviatures EP o EDE són d’ús exclusiu per a les entitats degudament autoritzades per l’AFA per a aquestes activitats en virtut d’aquesta Llei i la Llei dels serveis de pagament i el diner electrònic. La utilització o el registre per part de qualsevol entitat en qualsevol dels seus signes distintius (marca, raó social, nom comercial, etiquetes o direcció web) de l’expressió
+entitat de pagament
+o
+entitat de diner electrònic
+o les seves abreviatures EP o EDE, o qualsevol altra que pugui dur a confusió, si no s’ha autoritzat en virtut de la Llei 35/2010 com a entitat de pagament o entitat de diner electrònic, respectivament, s’ha de considerar com un signe de caràcter confús o que pot induir el públic general a error i, per tant, està subjecte a accions de nul·litat i prohibicions d’ús.
+
+**Article 64. Domicili**
+
+Les entitats de pagament i les entitats de diner electrònic han de tenir la seu social i el domicili social dins del Principat d’Andorra; així mateix l’administració i la direcció efectiva d’aquestes entitats ha d’establir-se en territori nacional.
+
+**Article 65. Objecte social**
+
+L’objecte social de les entitats de pagament i les entitats de diner electrònic és el previst als seus estatus i es limita a les activitats per a les quals ha obtingut la corresponent autorització de l’AFA, entre les descrites a l’article 61.
+
+**Article 66. Capital social i fons propis**
+
+$7c
+
+**Article 67. Consell d’administració**
+
+1. Les entitats de pagament i de diner electrònic s’han de regir per un consell d’administració compost per tres membres com a mínim.
+2. Els membres del consell d’administració, incloent-hi persones físiques que representen persones jurídiques, han de ser persones de reconeguda honorabilitat empresarial i professional.
+3. La majoria dels membres del consell d’administració, incloent-hi persones físiques que representin persones jurídiques, han de ser persones que posseeixin els coneixements adequats per exercir les funcions inherents al seu càrrec, així com una experiència professional adequada.
+4. El president designat no pot ser el director general de l’entitat.
+5. El consell d’administració de les entitats de pagament i de diner electrònic ha d’aprovar les normes de funcionament intern per tal de permetre el compliment de les responsabilitats i les obligacions dels seus membres.
+
+**Article 68. Direcció general**
+
+1. La direcció general ha de constar d’una o més persones, una de les quals ha d’assumir explícitament les responsabilitats d’intervenció i control.
+2. Els membres de la direcció general han de tenir els coneixements i l’experiència professional adequats per al seu càrrec.
+3. Els membres de la direcció general han de ser persones de reconeguda honorabilitat empresarial i professional.
+
+**Article 69. Condicions**
+
+Per obtenir i conservar l’autorització administrativa, les entitats de pagament i les entitats de diner electrònic han de complir en tot moment amb les condicions per accedir a l’activitat i amb les condicions per a l’exercici d’aquesta, inclosos els requisits organitzatius i les condicions de funcionament, establerts en aquest capítol i en altres disposicions de la legislació vigent.
+
+##### Secció tercera. Condicions per exercir l’activitat
+
+**Article 70. Obertura d’oficines i contractació de personal**
+
+1. Les entitats de pagament i de diner electrònic han de mantenir oberta, com a mínim, una oficina al Principat d’Andorra.
+2. El 20% del personal, com a mínim, ha de ser andorrà o resident al Principat d’Andorra amb una antiguitat mínima de dos anys, i ha de ser, en qualsevol cas, un nombre suficient i tenir la formació adequada per dur a termes les activitats que se li encomanin.
+3. Les entitats han de contractar personal amb prou coneixements per dur a terme les funcions que se li assignen.
+
+**Article 71. Normes sobre solvència i liquiditat**
+
+$82
+
+**Article 72. Sense contingut**
+
+Sense contingut
+
+#### Capítol setè. Règim jurídic de les societats financeres de cartera i de les societats financeres mixtes de cartera
+
+##### Secció primera. Disposicions generals
+
+**Article 73. Regles generals**
+
+Les societats financeres de cartera i les societats financeres mixtes de cartera estan sotmeses al règim jurídic previst en aquesta Llei i a la Llei 35/2018, del 20 de desembre, de solvència, liquiditat i supervisió prudencial d’entitats bancàries i empreses d’inversió; en aquest sentit, qualsevol concepte no definit específicament en aquest capítol té el significat que estableix l’article 3 de la Llei 35/2018, del 20 de desembre, de solvència, liquiditat i supervisió prudencial d’entitats bancàries i empreses d’inversió.
+
+**Article 74. Definició**
+
+$8e
+
+##### Secció segona. Condicions per accedir a l’activitat
+
+**Article 75. Forma**
+
+Les societats financeres de cartera i les societats financeres mixtes de cartera han de revestir la forma de societat anònima de dret andorrà de durada indefinida.
+
+**Article 76. Denominació**
+
+L’ús o el registre com a element de qualsevol signe distintiu (marca, denominació social, nom comercial, rètol d’establiment o adreça d’Internet) dels termes societat financera de cartera, societat financera mixta de cartera, SFC, SFMC o qualsevol altre que pugui induir a confusió, per altres entitats que les referides en aquest capítol s’entén que és un signe de naturalesa enganyosa o de natura a induir a error el públic i subjecte a les accions de nul·litat i de prohibició d’ús corresponents.
+
+**Article 77. Domicili**
+
+El domicili, l’administració i la direcció efectiva de les societats financeres de cartera o de les societats financeres mixtes de cartera ha d’establir-se en territori nacional.
+
+**Article 78. Objecte social**
+
+A més de les activitats pròpies de la seva condició de societat financera de cartera o de societat financera mixta de cartera, les societats financeres de cartera o les societats financeres mixtes de cartera poden efectuar altres activitats no circumscrites a l’àmbit financer, amb les limitacions pròpies de la seva condició o naturalesa.
+
+**Article 79. Capital social**
+
+Les societats financeres de cartera i les societats financeres mixtes de cartera han de disposar d’un capital social mínim de 5.000.000 d’euros, en cas que alguna de les seves filials sigui una entitat bancària, o de 730.000 euros en cas que únicament tinguin com a filials financeres empreses d’inversió. El capital ha ser totalment subscrit i desemborsat mitjançant aportacions dineràries.
+
+**Article 80. Consell d’administració**
+
+$90
+
+**Article 81. Direcció general**
+
+1. La direcció general ha d’estar composta per dos persones com a mínim.
+2. Les persones que componen la direcció general han de tenir els coneixements idonis i l’experiència professional adequada per exercir la seva funció.
+3. Les persones que componen la direcció general han de ser persones de reconeguda honorabilitat empresarial i professional.
+
+**Article 82. Condicions**
+
+Per obtenir i conservar l’autorització administrativa, les societats financeres de cartera i les societats financeres mixtes de cartera han de complir en tot moment les condicions per accedir a l’activitat establertes en els articles anteriors, així com les condicions per exercicir l’activitat, inclosos els requisits organitzatius i les condicions de funcionament establerts a la legislació vigent.
+
+##### Secció tercera. Condicions per exercir l’activitat
+
+**Article 83. Normes de solvència i liquiditat**
+
+Les societats financeres de cartera i les societats financeres mixtes de cartera estan sotmeses a les normes de solvència i liquiditat definides a la Llei 35/2018, del 20 de desembre, de solvència, liquiditat i supervisió prudencial d’entitats bancàries i empreses d’inversió.

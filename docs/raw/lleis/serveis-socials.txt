@@ -1,0 +1,446 @@
+# Llei de serveis socials i sociosanitaris (Llei 6/2014)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/serveis-socials
+Articles: 89 · versions consolidades: 8
+Instantania del consolidat: 2026-09-12T05:30:15.862366Z
+
+---
+
+#### Capítol primer. Disposicions generals
+
+##### Secció primera. Aspectes conceptuals i principis
+
+**Article 1. Objecte i rang de la Llei**
+
+Aquesta Llei té com a objecte ordenar i estructurar el sistema de serveis socials i sociosanitaris per garantir, en els termes que s’hi preveuen, el dret d’accés a les prestacions, els programes, els protocols i les accions que constitueixen un dels pilars de la protecció social andorrana. En aquest sentit, regula els drets i els deures dels beneficiaris; estableix el marc de funcionament i la intervenció dels agents públics i privats; concreta la Cartera de serveis socials i sociosanitaris, i defineix els criteris per coordinar les actuacions i optimitzar els recursos.
+Els preceptes de la secció primera del capítol quart, que regulen la distribució competencial i la coordinació, tenen rang de llei qualificada. La resta de preceptes tenen rang de llei ordinària.
+
+**Article 2. Definicions**
+
+Als efectes d’aquesta Llei, es defineixen els conceptes bàsics següents:
+a) Serveis socials. És la branca de la protecció social que s’adreça al benestar individual i social de la població, especialment de les persones, les famílies i els grups en situació de necessitat, per promocionar l’autonomia, la inclusió i la cohesió social. Estan formats pel conjunt organitzat de recursos humans i materials, prestacions, programes, protocols i accions adreçats a la prevenció, la promoció i l’atenció, especialment en les situacions de desprotecció, exclusió i dependència.b) Serveis sociosanitaris. Són els que formen part de les branques de la protecció social que s’adrecen a les persones i als grups que necessiten simultàniament atenció sanitària i dels serveis socials de manera coordinada i/o integrada. Estan formats pel conjunt organitzat de recursos humans i materials, prestacions, programes, protocols i accions de l’àmbit social i sanitari.c) Sistema de serveis socials i sociosanitaris. És el conjunt de recursos humans i materials, centres i establiments destinats a desenvolupar les prestacions, els programes, els protocols i les accions de la Cartera de serveis socials i sociosanitaris. Aquest sistema actua a partir d’uns objectius comuns i d’un entorn de cooperació entre els serveis socials i sociosanitaris de caràcter públic i privat concertats dependents d’entitats col·laboradores, que comparteixen informació, experiències i coneixements, utilitzant les noves tecnologies i actuant de forma especialitzada i coordinada per evitar duplicitats.d) Prestacions tècniques. Són intervencions de caràcter tècnic, adreçades a les persones, prestades per equips professionals en centres o establiments de serveis socials i sociosanitaris. Poden ser de diagnòstic, de promoció, d’atenció i d’inserció de les persones i les famílies.e) Prestacions econòmiques. Són aportacions dineràries adreçades a cobrir situacions de necessitat bàsica de subsistència de persones i famílies que, a causa de la seva discapacitat, l’edat avançada o altres circumstàncies, no poden treballar o tenen l’autonomia restringida significativament. També poden destinar-se a prevenir situacions d’exclusió, fomentar l’autonomia o contribuir al pagament de prestacions tècniques o tecnològiques no gratuïtes rebudes.f) Prestacions tecnològiques. Són les que tenen com a objectiu el suport de la persona, mitjançant ajudes materials de caràcter tecnològic i altres instruments afavoridors de l’autonomia funcional en la vida quotidiana i la integració social. Aquestes prestacions faciliten l’accés a l’entorn i la realització de la vida quotidiana, laboral i formativa mitjançant productes de suport, així com l’accessibilitat i les adaptacions de la llar.g) Programes, protocols i accions socials i sociosanitàries. Són els instruments d’execució de la planificació de serveis socials i sociosanitaris adreçats a tota la població o a col·lectius o territoris específics. Tenen, sempre que sigui possible, un enfocament transversal amb altres sectors del benestar social.h) Entitat de serveis socials i/o sociosanitaris. És una persona jurídica que té com a finalitat legal actuar en l’àmbit dels serveis socials o sociosanitaris.i) Centres i establiments de serveis socials i sociosanitaris. Són els espais físics, les construccions i les instal·lacions on es fan efectives les prestacions, programes, protocols i accions socials.j) Ministeri competent. Als efectes d’aquesta Llei, es considera “ministeri competent” el que té atribuïdes les competències en matèria de serveis socials.k) Preu públic de les prestacions tècniques o de les prestacions tecnològiques. És la contraprestació exigida per l’entitat pública o, si escau, per l’entitat privada col·laboradora que efectua la prestació, quan aquesta prestació no és gratuïta. Es fixa en funció dels costos de la prestació.l) Llindar econòmic de cohesió social (en endavant, “LECS”). És una referència objectiva, establerta a l’apartat 1 de l’article 31, que s’utilitza per determinar quan es considera que una persona o unitat familiar de convivència pot necessitar ajuda per prevenir o actuar davant de situacions de necessitat o de marginació social, promocionar l’autonomia o ser beneficiari de determinats serveis i programes d’atenció social, en els termes establerts en aquesta Llei i les normes de desenvolupament reglamentari. Aquest llindar també serveix per fixar la quantia màxima de determinades prestacions.m) Situació de precarietat. S’entén per “situació de precarietat” la situació en què es troba una persona o una unitat familiar de convivència que no pot cobrir les necessitats bàsiques de subsistència o que té dificultats greus per cobrir-les. Es considera que concorre aquest requisit quan els recursos personals o de la unitat familiar de convivència no superen el LECS personal o familiar, respectivament, i la valoració dels seus béns no supera la puntuació establerta al barem de valoració patrimonial.n) Situació d’urgència. S’entén per “situació d’urgència” la de la persona o la família que presenta necessitats puntuals, peremptòries i bàsiques de subsistència que requereixen d’una resposta social i solidària immediata.o) Barem de valoració patrimonial. És un instrument que valora el patrimoni dels sol·licitants o el dels seus familiars, a fi de determinar l’accés a les prestacions, modular l’import de les prestacions econòmiques i el copagament o la gratuïtat de determinats serveis i, si escau, qualificar els familiars com a obligats, en els termes de la Llei i les normes de què la desenvolupen reglamentàriament.p) Unitat familiar de convivència. És la formada per persones que conviuen en un mateix domicili i estan casades, formen part d’una unió estable de parella o mantenen una situació de convivència anàloga, així com els familiars fins al segon grau de consanguinitat, afinitat o adopció.q) Família monoparental. És la unitat familiar composada per un pare o una mare, o un avi o una àvia, o un altre familiar consanguini fins a segon grau inclòs en la unitat familiar que conviuen amb un menor o menors, en els termes que s’estableixin reglamentàriament.r) Familiars i altres persones obligades. Són els familiars, o no familiars, obligats a assumir el preu públic de les prestacions tècniques i tecnològiques i l’import de les prestacions econòmiques, que el beneficiari rebi del sistema de serveis socials i sociosanitaris, en els termes previstos en aquesta Llei.s) Reconeixement de deute. És la formalització d’un compromís de pagament que el beneficiari del servei o, si escau, els familiars i les persones obligades, reconeixen amb l’Administració pública o amb l’entitat privada col·laboradora que presta un servei, quan per manca d’ingressos suficients per pagar-ne el preu públic no poden abonar la totalitat de l’aportació econòmica que els correspon. El deute reconegut és la diferència entre el preu públic establert i l’aportació que s’efectua.
+
+**Article 3. Principis rectors**
+
+$1e
+
+##### Secció segona. Titulars dels drets i els deures
+
+**Article 4. Beneficiaris**
+
+El sistema de serveis socials i sociosanitaris s’adreça a tota la població, especialment a les persones o a les famílies que es troben en situació de risc o de desprotecció, exclusió o dependència.
+
+**Article 5. Requisits**
+
+$20
+
+**Article 6. Drets i deures**
+
+$22
+
+#### Capítol segon. Sistema de serveis socials i sociosanitaris
+
+**Article 7. Prestacions del sistema**
+
+$24
+
+**Article 8. Programes, protocols i accions**
+
+Les prestacions es complementen mitjançant programes, protocols i accions socials i sociosanitàries amb l’objectiu de millorar la detecció i la prevenció de situacions d’exclusió, la promoció i l’atenció a determinats col·lectius, així com la informació, la sensibilització i el desenvolupament comunitari.
+Els programes sociosanitaris són establerts conjuntament per serveis socials i de salut. Tots els programes han de tendir a la transversalitat amb els altres àmbits del benestar social.
+Els programes, els protocols i les accions els poden desenvolupar entitats públiques i privades que, en tot cas, s’han d’ajustar als principis i els preceptes establerts en aquesta Llei i a la normativa vigent.
+
+**Article 9. Centres i establiments**
+
+Els centres i els establiments són l’espai físic on es fan efectives o es gestionen determinades prestacions, programes, protocols i accions. Per ser autoritzats han de complir els requisits funcionals, materials i d’accessibilitat que s’estableixin per la via reglamentària.
+Els directius i els responsables dels centres i els establiments de serveis socials i sociosanitaris han d’estar en possessió dels títols i han d’acreditar els coneixements que s’exigeixin per reglament. En cap cas el títol requerit no pot ser inferior a un títol universitari relacionat amb els àmbits d’intervenció social, sanitària, d’educació o similars.
+
+**Article 10. Recursos humans**
+
+$26
+
+**Article 11. Drets i deures dels professionals**
+
+$28
+
+**Article 12. Prescripció tècnica**
+
+Per accedir a les prestacions de serveis socials i sociosanitaris, cal que prescrigui el servei un professional del servei sociosanitari d’atenció primària o d’un altre servei específic. A més, es pot requerir la valoració prèvia per un dels serveis de valoració, orientació i assessorament especialitzat que es regulen a l’article 22, d’acord amb el que estableixen aquesta Llei i les normes reglamentàries que la desenvolupen.
+
+**Article 13. Instruments bàsics d’intervenció**
+
+$2a
+
+**Article 14. Estructura territorial**
+
+Els serveis socials i sociosanitaris s’organitzen territorialment per parròquies o a escala nacional. Quan s’estructuren a escala nacional, la planificació i l’organització de les prestacions, els programes, els protocols i les accions s’ha de fer tenint com a referència els territoris parroquials.
+
+#### Capítol tercer. Cartera de serveis socials i sociosanitaris
+
+##### Secció primera. Aspectes conceptuals
+
+**Article 15. Definició**
+
+La Cartera de serveis socials i sociosanitaris és l’instrument tècnic que determina les prestacions tècniques, econòmiques i tecnològiques del sistema de serveis socials i sociosanitaris i concreta la naturalesa i els requisits per accedir-hi.
+
+**Article 16. Contingut**
+
+1. El contingut de la Cartera s’estableix en aquesta Llei i es desenvolupa per reglament, que ha de determinar per a cada prestació els aspectes següents:
+a) Definició dels objectius i les necessitats que cobreix cada tipus de prestació i concreció sobre si són garantits o de concurrència.b) Determinació dels beneficiaris, els requisits exigits, el procediment d’accés i els terminis màxims de resolució. Per a les prestacions tècniques s’ha d’indicar, a més, l’equip professional.c) Concreció de la quantia de les prestacions i, si són de copagament, indicació dels preus públics.d) Tots els altres aspectes específics de cada prestació.
+2. La determinació de les prestacions que tenen caràcter garantit s’ha d’establir per llei.
+
+##### Secció segona. Prestacions tècniques
+
+**Article 17. Prestació d’atenció primària**
+
+$2c
+
+**Article 18. Prestacions d’atenció domiciliària**
+
+$2e
+
+**Article 19. Prestacions d’atenció diürna**
+
+$30
+
+**Article 20. Prestacions d’atenció residencial**
+
+$32
+
+**Article 21. Prestacions de suport**
+
+$34
+
+**Article 22. Prestacions de valoració, orientació i assessorament**
+
+$38
+
+##### Secció tercera. Prestacions econòmiques
+
+**Article 23. Classificació**
+
+Les prestacions econòmiques són abonades pel Govern i poden ser pensions de solidaritat, prestacions familiars per fill a càrrec i ajuts econòmics ocasionals.
+
+**Article 24. Pensions de solidaritat**
+
+$3a
+
+**Article 25. Pensió de solidaritat per a persones amb discapacitat**
+
+$3c
+
+**Article 26. Pensió de solidaritat per a la gent gran**
+
+$40
+
+**Article 27. Prestació familiar per fill a càrrec**
+
+$44
+
+**Article 28. Ajuts econòmics ocasionals**
+
+$46
+
+##### Secció quarta. Prestacions tecnològiques
+
+**Article 29. Contingut**
+
+Les prestacions tecnològiques es destinen a adaptar l’habitatge, a suprimir les barreres arquitectòniques i de la comunicació, així com a oferir productes de suport, amb la finalitat de prevenir, compensar, controlar, mitigar o neutralitzar deficiències, limitacions en l’activitat i restriccions en el desenvolupament de la vida diària i la participació en la societat.
+
+**Article 30. Classificació i naturalesa**
+
+$48
+
+##### Secció cinquena. Aspectes comuns a les prestacions
+
+**Article 31. Càlcul del llindar econòmic**
+
+$4a
+
+**Article 32. Barem de valoració patrimonial**
+
+1. Es considera superat el barem de valoració patrimonial si el valor de mercat dels béns immobles, en què no es computa l’habitatge habitual, és igual o superior a 10 vegades el LECS personal en còmput anual. En el supòsit de propietats indivises, es distribueix el valor de l’immoble a parts iguals entre els propietaris, llevat que hi hagi proves en contra sobre la quota dels uns i dels altres.
+2. També es considera superat el barem de valoració patrimonial si de forma cumulativa el valor dels actius financers i el valor dels béns mobles, en què no es computen els béns mobles d’ús personal i els vehicles adaptats per a persones amb discapacitat, és igual o superior a 6,5 vegades el LECS personal en còmput anual.
+3. L’abast dels elements patrimonials considerats en el barem de valoració patrimonial i la determinació de la seva valoració es regulen per reglament.
+
+#### Capítol quart. Distribució competencial, coordinació i col·laboració
+
+##### Secció primera. Distribució competencial i coordinació
+
+**Article 33. Competències del Govern**
+
+$4e
+
+**Article 34. Competències dels comuns**
+
+$50
+
+**Article 35. Delegació de la gestió**
+
+El Govern, a través del ministeri competent, pot delegar en els comuns la gestió de les prestacions tècniques d’atenció primària i d’atenció domiciliària. Aquesta delegació, que necessita l’acord del Govern i dels comuns corresponents i que ha d’evitar qualsevol tipus de duplicitat, ha d’indicar de manera precisa el titular i l’abast de la gestió delegada, l’objecte, la naturalesa i els recursos que inclouen, així com les causes de revisió i extinció, i la facultat de revocació. La delegació esmentada s’ha de publicar al Butlletí Oficial del Principat d’Andorra.
+
+**Article 36. Comissió Nacional de Benestar Social**
+
+$52
+
+**Article 37. Comissió Tècnica Comunal de Benestar Social**
+
+Es crea a cada comú la Comissió Tècnica Comunal de Benestar Social (CTCBS) com a òrgan de programació i cooperació en el territori sobre actuacions de serveis socials i per a la coordinació amb altres àmbits del benestar social.
+Aquesta Comissió la presideix el conseller competent en matèria de serveis socials i està integrada per tècnics dels comuns i del Govern. Així mateix, hi poden participar altres tècnics dependents de les administracions públiques o d’entitats privades de l’àmbit del benestar, com salut, educació, treball i habitatge, entre d’altres. La concreció de la composició i les funcions la determina reglamentàriament cada comú, d’acord amb els criteris bàsics de coordinació definits per la CONBS.
+
+##### Secció segona. La iniciativa privada
+
+**Article 38. Tipus d’entitats**
+
+1. Les entitats privades poden ser d’iniciativa mercantil o d’iniciativa cívica, segons si actuen amb afany de lucre o sense, respectivament. Les persones físiques titulars de centres o establiments de serveis socials o sociosanitaris s’equiparen als efectes d’aquesta Llei a les entitats privades d’iniciativa mercantil.
+2. Només les entitats privades que compleixin la normativa vigent i estiguin autoritzades i inscrites en el Registre Nacional de Serveis Socials i Sociosanitaris, regulat a l’article 50, poden crear i gestionar centres i establiments per a la provisió de prestacions tècniques de serveis socials i sociosanitaris, d’acord amb el que s’estableixi reglamentàriament.
+
+**Article 39. Entitats col·laboradores**
+
+$54
+
+**Article 40. Conveni de col·laboració**
+
+El Govern i els comuns, en l’àmbit de les seves competències, poden subscriure convenis de col·laboració amb entitats privades col·laboradores nacionals i estrangeres per garantir i promoure l’oferta de serveis, programes, protocols i accions de serveis socials i sociosanitaris.
+Els convenis de col·laboració entre el Govern i els comuns amb entitats de serveis socials o sociosanitaris tenen una durada màxima de quatre anys i són renovables.
+Els convenis de col·laboració queden fora de l’àmbit d’aplicació de la Llei de contractació pública, excepte quan pel seu objecte o naturalesa tinguin la consideració de contractes sotmesos a la mateixa. No obstant, el seu atorgament ha de respectar els principis de publicitat i concurrència, en els termes que es defineixin reglamentàriament.
+
+**Article 41. Participació de les entitats privades d’iniciativa cívica**
+
+Les entitats privades d’iniciativa cívica han de ser objecte de promoció i han de tenir preferències, d’acord amb la normativa vigent.
+El Govern ha de crear una comissió de participació de les entitats cíviques que representin col·lectius vinculats als serveis socials i sociosanitaris. Aquesta comissió de caràcter consultiu i assessors del Govern ha de tenir les funcions de contribuir en l’elaboració i el seguiment del Pla nacional de serveis socials i sociosanitaris, que s’estableix a l’article 42, formular propostes i recomanacions per millorar la prestació dels serveis i les accions, i dur a terme altres funcions de la mateixa naturalesa que se li atribueixin per reglament. La seva composició ha de ser la que s’estableixi per la via reglamentària.
+Els comuns poden establir, d’acord amb les seves competències, comissions comunals de participació de les entitats cíviques que actuïn a la parròquia.
+
+#### Capítol cinquè. Planificació, autorització i inspecció
+
+##### Secció primera. Planificació i eficiència
+
+**Article 42. Planificació nacional**
+
+$56
+
+**Article 43. Planificació comunal**
+
+Els comuns, dins l’àmbit de les seves competències i respectant la planificació establerta a escala nacional, poden establir en el seu territori programes comunals de serveis socials.
+
+**Article 44. Transversalitat**
+
+Les planificacions que s’efectuïn en els àmbits dels serveis socials i sociosanitaris ha de tenir un enfocament transversal que ha d’incloure almenys la participació dels sistemes de salut, educació, treball, justícia, interior, seguretat social i habitatge.
+
+**Article 45. Sistema integral d’informació**
+
+$58
+
+**Article 46. Auditoria d’eficàcia i d’eficiència del sistema**
+
+El Govern encarrega cada dos anys una auditoria d’eficàcia i d’eficiència del sistema de serveis socials i sociosanitaris que s’ha de licitar per concurs públic entre entitats especialistes en la matèria i de prestigi.
+L’informe final de l’auditoria es diposita al Consell General per a què sigui examinat per la comissió parlamentària corresponent, i se’n faciliti el coneixement públic, garantint-ne l’accés a tots els ciutadans.
+El Govern ha d’elaborar un pla de millora de l’eficàcia i de l’eficiència del sistema de serveis socials i sociosanitaris i proposar les polítiques de correcció i prevenció basant-se en les conclusions de l’auditoria. Aquest pla s’ha d’implementar i executar abans de l’avaluació següent.
+
+##### Secció segona. Autorització i acreditació
+
+**Article 47. Autorització administrativa**
+
+L’obertura i el funcionament de centres i d’establiments que ofereixin prestacions tècniques de serveis socials i sociosanitaris requereixen l’autorització administrativa prèvia dels comuns i del Govern, d’acord amb la normativa vigent.
+Així mateix, les entitats col·laboradores requereixen una autorització per al tancament de serveis i de centres.
+
+**Article 48. Requisits per obtenir l’autorització administrativa**
+
+Per obtenir l’autorització administrativa, els centres i els establiments de serveis socials i sociosanitaris han de complir els requisits administratius i tècnics que s’estableixin per reglament, que han de referir-se als requisits funcionals, materials i d’altres relacionats amb els recursos humans i els drets i els deures dels beneficiaris.
+
+**Article 49. Acreditació**
+
+Per poder disposar de la qualificació d’entitats col·laboradores del Govern i dels comuns i formar part del sistema de serveis socials i sociosanitaris, les entitats privades titulars i les prestacions i les accions que es desenvolupen en els seus centres i establiments han d’estar acreditades. Tenen prioritat a l’hora d’obtenir aquesta condició les entitats privades andorranes.
+El Govern ha d’establir per reglament els requisits d’acreditació que han de complir les entitats i els centres que formin part del sistema de serveis socials i sociosanitaris. Aquests requisits, a més de recollir els establerts a l’article 39, s’han de referir a la qualitat de l’atenció i a les ràtios i qualificacions dels recursos humans.
+
+**Article 50. Registre nacional de serveis socials i sociosanitaris**
+
+Es crea el Registre Nacional de Serveis Socials i Sociosanitaris, dependent del ministeri competent, en què s’han d’inscriure, per a coneixement públic, totes les entitats autoritzades i acreditades, així com els centres i els establiments, i les prestacions que dispensen. Aquest registre es pot integrar amb altres corresponents a l’àmbit social, sanitari i del voluntariat, en els termes que s’estableixin reglamentàriament.
+
+##### Secció tercera. Control i inspecció
+
+**Article 51. Seguiment**
+
+El Govern i els comuns, en l’àmbit de les seves competències, i d’acord amb els protocols de col·laboració que es puguin establir de mutu acord, han de fer el seguiment del funcionament i de la qualitat de les prestacions que es desenvolupen en els centres i els establiments de serveis socials i sociosanitaris. Així mateix, per tal de conèixer el grau de satisfacció dels beneficiaris, s’han d’elaborar enquestes personals d’opinió periòdicament.
+
+**Article 52. Inspecció sociosanitària**
+
+Sense perjudici dels serveis d’inspecció de què disposin els comuns per al compliment de les seves competències, per efectuar el seguiment indicat a l’article anterior el ministeri competent ha d’establir un servei d’inspecció sociosanitari que actuï d’ofici o a instància de part. Els inspectors tenen la consideració d’agents de l’autoritat i poden sol·licitar el suport de qualsevol autoritat per desenvolupar les seves tasques.
+
+**Article 53. Funcions de la inspecció**
+
+$5a
+
+**Article 54. Acta d’inspecció**
+
+Els inspectors han d’aixecar una acta sobre el que constatin del resultat de les actuacions i de les investigacions realitzades als centres i els establiments on es presten els serveis socials i sociosanitaris o referents a altres prestacions del sistema.
+
+#### Capítol sisè. Finançament
+
+##### Secció primera. Règim del finançament públic
+
+**Article 57. Finançament del Govern**
+
+$5c
+
+**Article 58. Finançament dels comuns**
+
+1. Els comuns assumeixen el cost de les prestacions tècniques de la seva competència segons el que estableixen aquesta Llei, tenint en compte l’establert en la Cartera de serveis socials i sociosanitaris i el Pla nacional de serveis socials i sociosanitaris (PNASS), i els pressupostos anyals assignats.
+2. Els comuns financen les prestacions, els programes, els protocols i les activitats de serveis socials de la seva competència que efectuïn les entitats privades col·laboradores en els termes que s’acordin en els convenis corresponents.
+
+**Article 59. Finançament de la seguretat social**
+
+La seguretat social finança les despeses sanitàries de les prestacions sociosanitàries que corresponguin a les persones incloses en algun dels seus règims, d’acord amb aquesta Llei, les normes que la desenvolupen i la legislació de la seguretat social.
+
+**Article 60. Pressupostos ampliables**
+
+Els pressupostos de les administracions públiques i parapúbliques corresponents a les prestacions garantides són ampliables.
+
+##### Secció segona. Aportacions dels beneficiaris i dels familiars i altres persones obligades
+
+**Article 61. Aportacions dels beneficiaris**
+
+$5e
+
+**Article 62. Aportacions dels familiars i d’altres persones obligades**
+
+$60
+
+**Article 63. Mesures de constrenyiment, execució de resolucions i prelació de crèdits**
+
+1. El ministeri competent i els comuns poden emetre resolucions amb la finalitat de fer efectiva l’obligació de pagament que aquesta Llei imposa al beneficiari o als seus familiars o a les altres persones obligades. La resolució requereix la instrucció prèvia d’un expedient administratiu contradictori, d’acord amb el Codi de l’Administració, en el que totes les persones que tinguin atribuïda la condició d’obligats al pagament gaudeixin de la condició de part interessada i puguin participar en el procediment administratiu.
+2. Els crèdits de les administracions públiques contra els beneficiaris, els familiars i les altres persones obligades són preferents respecte als crèdits ordinaris.
+
+**Article 55. Cofinançament**
+
+D’acord amb el principi de coresponsabilitat, el finançament de les prestacions del sistema de serveis socials i sociosanitaris correspon a les administracions públiques i parapúbliques competents, als beneficiaris i, si escau, als familiars i a altres persones obligades. Així mateix, hi poden col·laborar altres entitats públiques i privades.
+
+**Article 56. Preus públics**
+
+L’import dels preus públics no pot superar el cost del servei que es presta.
+
+#### Capítol setè. Règim d’infraccions i sancions
+
+##### Secció primera. Infraccions
+
+**Article 64. Infraccions**
+
+Constitueixen infraccions administratives les accions i les omissions de les persones físiques i jurídiques que vulneren les normes legals i reglamentàries de serveis socials i sociosanitaris tipificades en aquest capítol, sense perjudici de les responsabilitats civils, penals o d’un altre tipus que hi puguin concórrer.
+Les infraccions comeses per membres de la funció pública o per personal contractat per l’Administració púbica se sancionen d’acord amb les lleis que els siguin aplicables.
+Les infraccions comeses pel personal dels centres i els establiments privats de serveis socials i sociosanitaris o pels beneficiaris de les prestacions es classifiquen i se sancionen d’acord amb els articles següents.
+
+**Article 65. Infraccions del personal dels centres i establiments privats socials i sociosanitaris**
+
+$62
+
+**Article 66. Infraccions dels beneficiaris dels serveis**
+
+Les infraccions dels beneficiaris dels serveis poden ser les següents:
+a) Fer actuacions fraudulentes adreçades a aconseguir qualsevol prestació, o no destinar les prestacions rebudes a les finalitats de la concessió.b) Agredir físicament o infligir maltractaments als responsables del servei o del centre, al personal o a altres beneficiaris.c) Realitzar actes o omissions que impedeixin o facin greument dificultosa la prestació dels serveis que rebi el beneficiari o els tercers.d) Realitzar actes o omissions que atemptin greument contra la integritat física o moral, la llibertat o la dignitat de les persones en els centres o serveis.
+
+**Article 67. Responsabilitat penal**
+
+Quan les infraccions comeses poden ser constitutives de delicte o d’infracció penal, l’òrgan competent per resoldre l’expedient sancionador ho comunica al Ministeri Fiscal o a l’autoritat judicial. Si hi ha un procés penal en curs, l’expedient sancionador resta en suspens fins a la resolució definitiva de la causa penal.
+En cap cas no és possible imposar una doble sanció de caràcter administratiu i penal a una mateixa persona pels mateixos fets.
+
+##### Secció segona. Sancions
+
+**Article 68. Sancions administratives**
+
+$64
+
+**Article 69. Gradació de les sancions**
+
+1. Per a la gradació de les sancions s’han de tenir en compte els criteris següents:
+a) Els perjudicis físics, morals i materials causats.b) La gravetat del risc creat pels beneficiaris.c) El grau d’intencionalitat o de negligència en l’acció o l’omissió.d) La reincidència de l’infractor.e) L’incompliment de les advertències i dels requeriments previs.f) La rellevància o la transcendència social i econòmica dels fets.g) El nombre de beneficiaris o tercers afectats.h) El tipus de servei.
+2. Als efectes d’aquesta Llei, s’entén per “reincidència” l’existència de dos resolucions fermes per la mateixa infracció en el període de tres anys o de dos resolucions fermes per infraccions de naturalesa diferent en el període de dos anys.
+
+**Article 70. Prescripció**
+
+Les infraccions administratives previstes en aquesta Llei prescriuen al cap d’un any si són lleus, al cap de tres anys si són greus, i al cap de cinc anys si són molt greus. La prescripció compta des del moment en què s’hagin comès les infraccions. Les infraccions que afecten els beneficiaris prescriuen al cap d’un any.
+Les sancions imposades per infraccions lleus prescriuen al cap d’un any, les imposades per infraccions greus al cap de dos anys i les imposades per infraccions molt greus, o imposades al beneficiari del servei, al cap de tres anys.
+
+**Article 71. Procediment sancionador**
+
+$66
+
+**Article 72. Destí de les sancions imposades per infraccions a la Llei de serveis socials i sociosanitaris**
+
+Les administracions destinaran els ingressos derivats de la imposició de les sancions previstes en aquesta Llei a la millora i cobertura del sistema de serveis socials i sociosanitaris.
+
+**Col·laboració en la gestió de prestacions econòmiques**
+
+Per tal d’optimitzar els recursos públics i millorar l’eficiència de la gestió de les prestacions, el Govern i la Caixa Andorrana de Seguretat Social poden establir acords de col·laboració per gestionar les prestacions econòmiques del Govern i de la seguretat social, en els termes i les condicions que s’estableixin en els convenis de col·laboració corresponents.
+
+**Prestacions tècniques de caràcter experimental**
+
+Per tal de fomentar el desenvolupament de maneres alternatives i innovadores d’atenció, el Govern pot autoritzar temporalment la creació de prestacions i serveis que formin part de programes pilot, que un cop avaluats favorablement poden incorporar-se a la Cartera de serveis socials i sociosanitaris.
+
+**Entitats públiques estrangeres col·laboradores**
+
+Les entitats públiques estrangeres poden tenir la qualificació d’entitats col·laboradores si es troben acreditades i signen el conveni corresponent amb el Govern o els comuns, d’acord amb les competències respectives.
+
+**Intercanvi de dades**
+
+El Govern, els comuns, la Caixa Andorrana de Seguretat Social i altres entitats de naturalesa pública, d’acord amb la Llei 15/2003, del 18 de desembre, qualificada de protecció de dades personals i les normes que la desenvolupen, es poden comunicar les dades quan sigui necessari per complir les seves finalitats i funcions i quan es faci en compliment d’una norma vigent, en els termes que estableix la Llei.
+
+**Família nombrosa**
+
+$68
+
+**Voluntariat**
+
+Per tal d’unificar les obligacions que s’estableixen a les entitats de l’àmbit social, es modifica la Llei 90/2010, del 16 de desembre, del voluntariat d’Andorra, en els articles següents:
+a) S’afegeixen les lletres m) i n) a l’apartat 1 de l’article 12, referent a les obligacions de les entitats de voluntariat, amb la redacció següent:“m) Que presentin anualment una memòria tècnica de les activitats realitzades.”“n) Les aportacions públiques que rebin les entitats de voluntariat resten sotmeses a una auditoria financera i de gestió. Les esmentades entitats poden optar per aportar l’auditoria o perquè l’efectuï el Govern. L’auditoria serà anual si les aportacions públiques rebudes són iguals o superiors a 25.000 € o quadriennal si les quantitats percebudes són inferiors a 25.000€.”
+
+**Adequació normativa al Conveni relatiu als drets de les persones amb discapacitat**
+
+El Govern ha d’elaborar un informe sobre l’adequació de la normativa andorrana al Conveni sobre als drets de les persones amb discapacitat, aprovat el 13 de desembre del 2006 per l’Assemblea General de les Nacions Unides, signat per Andorra el 27 d’abril del 2007, entrat a tràmit parlamentari al Consell General per a la seva ratificació el 5 de juliol del 2013 i aprovat pel Consell General el 10 d’octubre del 2013. D’acord amb aquest informe, en el termini màxim d’un any i mig el Govern ha de preparar un projecte de llei que reculli les adaptacions que siguin necessàries. En el procés d’elaboració del projecte de llei s’ha de demanar l’opinió de les entitats representants de les persones amb discapacitat, a través del Consell Nacional de la Discapacitat (CONADIS), en els termes establerts a l’article 30 de la Llei de garantia dels drets de les persones amb discapacitat.
+
+**Disposició transitòria primera**
+
+1. Els beneficiaris de les pensions de solidaritat per a persones amb discapacitat i de les pensions de solidaritat per a gent gran regulades a l’article 20 de la Llei de garantia dels drets de les persones amb discapacitat, del 17 d’octubre del 2002, i a l’article 29 de la Llei 31/2008, del 18 de desembre, de mesures de reactivació econòmica, que crea la pensió de solidaritat per a gent gran, respectivament, poden seguir percebent-les mentre continuïn complint els requisits exigits a la normativa vigent en el moment de la concessió.
+2. Les sol·licituds per accedir a la pensió de solidaritat per a persones amb discapacitat o la pensió de solidaritat per a gent gran presentades d’acord amb les lleis esmentades al paràgraf primer de l’apartat anterior s’han de tramitar d’acord amb la normativa vigent en el moment de presentar la sol·licitud, excepte en cas que el sol·licitant manifesti per escrit l’opció de tramitar-se per la normativa d’aquesta Llei.
+
+**Disposició transitòria segona**
+
+Els beneficiaris de la prestació per fills a càrrec establerta als articles 210 a 213 de la Llei 17/2008, del 3 d’octubre, de la seguretat social poden seguir percebent-la mentre compleixin els requisits exigits a la normativa vigent, o bé poden optar per sol·licitar la nova prestació per fill a càrrec establerta en aquesta Llei. En qualsevol cas, és incompatible la percepció d’ambdós prestacions.
+
+**Disposició transitòria tercera**
+
+Les persones que reben un prestació tècnica o que perceben una prestació econòmica de serveis socials o sociosanitaris han d’acreditar en el termini de sis mesos, a requeriment del ministeri competent, que tenen la residència legal, efectiva i permanent a Andorra, en els termes establerts a l’apartat 1 de l’article 5.
+
+**Disposició transitòria quarta**
+
+Els convenis subscrits amb el Govern per entitats privades o públiques, els comuns i la seguretat social en matèria de serveis socials i sociosanitaris que siguin vigents a l’entrada en vigor d’aquesta Llei, tenen plena validesa fins que es revisin o finalitzin, de conformitat amb les previsions establertes al conveni corresponent, sense perjudici de les adaptacions que exigeixi l’aplicació d’aquesta Llei.
+
+**Disposició transitòria cinquena**
+
+Al personal que a l’entrada en vigor de la Llei estigui prestant servei al Govern i als comuns i que com a conseqüència de la reorganització de l’exercici de les competències hagi de canviar d’adscripció, se li respectaran tots els drets que té consolidats, d’acord amb la normativa de funció pública i laboral vigent, si bé s’haurà d’adequar a l’organització i a les funcions de l’Administració titular del servei.
+
+**Disposició transitòria sisena**
+
+El reglament que reguli la titulació i les condicions de qualificació necessàries dels recursos humans ha de tenir en compte la situació i experiència de les persones que en el moment de l’entrada en vigor d’aquesta Llei estiguin prestant serveis en algun centre de serveis socials i sociosanitaris per tal d’establir, si escau, les condicions i els requisits de les homologacions o les validacions que corresponguin en cada situació.
+
+**Disposició derogatòria única**
+
+1. Queden derogades expressament les disposicions següents:
+a) L’article 20 de la Llei de garantia dels drets de les persones amb discapacitat, del 17 d’octubre del 2002, que regula la pensió de solidaritat i les disposicions d’aquesta Llei del capítol sisè, relatiu al règim d’infraccions i sancions pel que fa als serveis socials i sociosanitaris.b) L’article 29 de la Llei 31/2008, de 18 de desembre, de mesures de reactivació econòmica, que crea la pensió de solidaritat per a gent gran, així com l’article 22 de la Llei 93/2010, del 16 de desembre.
+2. Amb caràcter general, es deroguen totes les normes de rang igual o inferior en tot el que s’oposin a aquesta Llei. No obstant això, queden en vigor els reglaments anteriors sempre que no s’oposin a aquesta Llei i fins que el Govern els modifiqui o els substitueixi.
+
+**Desplegament de la Llei**
+
+$6a
+
+**Prioritats d’implementació**
+
+$6c
+
+**Entrada en vigor**
+
+Aquesta Llei entrarà en vigor l’endemà de ser publicada al Butlletí Oficial del Principat d’Andorra.
+No obstant això, les pensions regulades als articles 25 i 26, així com les prestacions regulades a l’article 27, no es poden demanar fins al tercer mes de l’entrada en vigor d’aquesta Llei i es comencen a concedir amb efectes a partir del dia primer del mes següent.
+Casa de la Vall, 24 d’abril del 2014
+Vicenç Mateu ZamoraSíndic General
+Nosaltres els coprínceps la sancionem i promulguem i n’ordenem la publicació en el Butlletí Oficial del Principat d’Andorra.
+Joan Enric Vives SicíliaBisbe d’UrgellCopríncep d’AndorraFrançois HollandePresident de la República FrancesaCopríncep d’Andorra

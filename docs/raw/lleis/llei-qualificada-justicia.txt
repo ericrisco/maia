@@ -1,0 +1,653 @@
+# Llei Qualificada de la Justícia
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/llei-qualificada-justicia
+Articles: 132 · versions consolidades: 22
+Instantania del consolidat: 2026-09-12T05:30:14.223907Z
+
+---
+
+### Títol I. Exercici de la potestat jurisdiccional
+
+#### Capítol primer. Jurisdicció i competència
+
+**Article 1**
+
+La jurisdicció és única i s’exerceix amb plena independència per la Batllia i Tribunals establerts en aquesta Llei, sense perjudici de les potestats jurisdiccionals reconegudes per la Constitució a altres òrgans. Queden prohibits els Tribunals especials i d’excepció i els de caràcter consuetudinari o d’àmbit corporatiu o professional.
+
+**Article 2**
+
+1. En l’exercici de la potestat jurisdiccional els Batlles i Magistrats són independents respecte a tots els òrgans judicials i el Consell Superior de la Justícia.
+2. Els Tribunals no poden corregir la interpretació o aplicació de l’ordenament jurídic feta pels seus inferiors en l’ordre jeràrquic judicial si no és en virtut dels recursos i apel·lacions establerts per la Llei.
+3. Ni els Tribunals ni el Consell Superior de la Justícia no poden dictar instruccions, de caràcter general o particular, adreçades als seus inferiors, sobre l’aplicació o interpretació de l’ordenament jurídic que portin a terme en l’exercici de la seva funció jurisdiccional.
+4. Els batlles i els magistrats, quan es considerin amenaçats o pertorbats en la seva independència, poden adreçar-se al Consell Superior de la Justícia, el qual és competent per emetre un acord sobre aquesta qüestió, que ha de comunicar al batlle o al magistrat interessat i al Ministeri Fiscal, als efectes oportuns. El Consell Superior de la Justícia pot, a més, promoure i portar a terme les accions adients de tot tipus per fer cessar aquestes amenaces o pertorbacions.
+D’altra banda, el Ministeri Fiscal promou les accions que corresponguin en defensa de la independència dels batlles i els magistrats.
+
+**Article 3**
+
+La competència dels Batlles i Tribunals s’estén a tot el territori de l’Estat, de conformitat amb la Constitució, les lleis i els tractats internacionals aprovats pel Consell General.
+
+**Article 4**
+
+1. Els Batlles i els Tribunals andorrans coneixeran dels judicis que es plantegin en territori andorrà entre andorrans, entre estrangers i entre andorrans i estrangers d’acord amb el que s’estableix en la present Llei i en els tractats i convenis internacionals en els quals Andorra hi sigui part.
+2. Queden exclosos del coneixement de la jurisdicció andorrana els supòsits d’immunitat de jurisdicció i d’execució establerts per les normes de Dret Internacional Públic.
+
+**Article 5**
+
+1. La Constitució és la norma suprema de l’ordenament jurídic i vincula tots els tribunals, que han d’interpretar i aplicar les lleis d’acord amb els principis constitucionals i la interpretació que resulti de les resolucions dictades pel Tribunal Constitucional en tot tipus de processos.
+2. Els tribunals estan sotmesos al principi de jerarquia normativa.
+3. Si en la tramitació d’un procés un tribunal té dubtes raonables i fonamentats sobre la constitucionalitat d’una llei, un decret legislatiu o una norma amb força de llei que s’hagi d’aplicar de manera imprescindible per a la resolució de la causa, formula escrit davant el Tribunal Constitucional demanant el seu pronunciament sobre la validesa de la norma afectada. Presentada la qüestió de constitucionalitat, se suspèn la tramitació del procés i el Tribunal Constitucional dicta sentència dins el termini fixat a l’article 100.2 de la Constitució.
+
+**Article 6**
+
+$21
+
+**Article 7**
+
+Qualsevol ciutadà andorrà pot promoure l’acció de la justícia mitjançant l’acció popular, reconeguda a l’article 86.4 de la Constitució, en tots els delictes i contravencions penals contra interessos generals. A l’efecte d’admetre l’acció popular el bé jurídic protegit són aquells interessos la titularitat dels quals pertany, per la seva naturalesa o per ser patrimoni comú, a tota la ciutadania.
+Els ciutadans andorrans també podran exercir l’acció popular en els delictes contra particulars, sempre que la llei no hagi reservat l’acció a la denúncia del perjudicat o quan tot i no existir aquesta reserva, el perjudicat no hagi formulat denúncia.
+
+**Article 8**
+
+L’existència d’una qüestió prejudicial penal comporta la suspensió del procés civil o administratiu. La prejudicialitat penal requereix que en el procés penal s’investiguin fets que fonamenten les pretensions de les parts en el procés civil o administratiu, i que la resolució que hagi de recaure en el procés penal sigui imprescindible per resoldre el procés civil o administratiu.
+
+**Article 8 bis**
+
+1. En cas que el Tribunal Superior de Justícia sol·liciti el parer consultiu del Tribunal Europeu de Drets Humans sobre una qüestió de principi relativa a la interpretació o a l’aplicació dels drets i llibertats reconeguts en la Convenció per a la salvaguarda dels drets humans i de les llibertats fonamentals o en algun dels seus protocols addicionals, sempre que formi part de l’ordenament jurídic andorrà, en els termes que estableix el Protocol número 16 de la Convenció esmentada, se suspèn la tramitació del procés en el marc del qual s’ha adreçat la sol·licitud esmentada.
+2. La suspensió es decideix mitjançant una providència que es notifica a les parts del procés, a les quals també es trasllada la sol·licitud adreçada al Tribunal Europeu de Drets Humans. La tramitació del procés s’ha de reprendre dins els tretze dies hàbils següents al dia en què el Tribunal Europeu de Drets Humans comuniqui al Tribunal Superior de Justícia el parer consultiu que ha sol·licitat.
+
+**Article 9**
+
+1. Els batlles i tribunals, de conformitat amb els principis de l’article 10 de la Constitució, han de resoldre sempre sobre les pretensions que els siguin formulades i només poden desestimar-les per motius formals si el defecte no és esmenable. Igualment, han d’executar i fer complir les decisions judicials en els casos que ho estableixin les lleis.
+2. No obstant, refusaran motivadament i d’acord amb el que estableixi la llei de procediment, aquelles peticions, incidents i excepcions, que es formulin amb manifest abús de dret o frau de llei.
+3. No seran admeses i quedaran sense efectes aquelles proves que haguessin estat obtingudes, directament o indirecta, amb violació dels drets i llibertats fonamentals de les persones.
+4. Salvades raons excepcionals, que el Batlle o Tribunal haurà de notificar i motivar, els terminis establerts a les lleis de procediment vinculen per igual a tots els intervinents en qualsevol mena de litigi.
+
+**Article 10**
+
+$25
+
+**Article 11**
+
+$29
+
+**Article 12**
+
+L’obertura d’una instrucció penal en un afer pel qual estigués en curs una enquesta o investigació parlamentària o governativa no suposarà cap menyscapte per les facultats del Parlament andorrà. Tanmateix el Consell i el Govern hauran de comunicar a la Jurisdicció Penal els resultats de les seves enquestes i actuacions.
+
+**Article 13**
+
+$30
+
+#### Capítol segon. Del Batlle i Magistrat Ponent
+
+**Article 14**
+
+1. En cada procés que s’insta davant un tribunal, es designa un batlle o magistrat ponent, segons el torn establert a aquest efecte, en cas que el procés hagi de ser conegut de forma col·legiada.
+2. La designació del batlle o el magistrat ponent es fa en la primera resolució que es dicta en iniciar-se la tramitació del procés, i es notifica a les parts d’aquest procés.
+
+**Article 15**
+
+Sense contingut
+
+**Article 16**
+
+$33
+
+#### Capítol tercer. De les resolucions judicials
+
+**Article 17**
+
+Les resolucions dels tribunals i dels presidents, quan tenen caràcter governatiu, s’anomenen acords, i els batlles i els magistrats adscrits a la Batllia o al tribunal corresponent estan obligats a complir-les. Aquests acords poden ser impugnats pels batlles i els magistrats davant el Consell Superior de la Justícia, d’acord amb les normes del Codi de l’Administració, i posteriorment davant el Ple del Tribunal Superior de Justícia.
+
+**Article 18**
+
+1. Les resolucions jurisdiccionals dels batlles i tribunals s’anomenen:
+a) Providències, quan tenen per objecte l’ordenació material del procés.b) Autes, quan decideixen recursos contra providències, qüestions incidentals, pressupòsits processals, la nul·litat del procés o quan, d’acord amb les lleis aplicables, han de tenir aquesta forma.c) Sentències, quan decideixen definitivament el procés en qualsevol instància o recurs.
+2. Són resolucions fermes les resolucions contra les quals no es pot interposar cap recurs, sigui perquè no hi ha recurs possible, sigui perquè no s’ha interposat quan esqueia.
+
+**Article 19**
+
+1. Les sentències civils dictades per tribunals estrangers, inclosos els efectes civils d’una sentència penal dictada per un tribunal estranger, es poden executar a Andorra sempre que se’n concedeixi l’exequàtur, llevat que els convenis internacionals aplicables i que formen part de l’ordenament jurídic andorrà disposin altrament.
+2. Les sentències dictades per tribunals penals, administratius, fiscals, militars, de guerra, de seguretat i d’excepció estrangers no es poden executar a Andorra, a excepció que els convenis internacionals aplicables i que formen part de l’ordenament jurídic andorrà disposin altrament.
+
+**Article 19 bis**
+
+Les sentències fermes dictades pels tribunals ordinaris poden ser revisades en el cas que es compleixin de forma cumulativa els requisits següents:
+a) Que el Tribunal Europeu de Drets Humans hagi constatat, de forma definitiva, que en virtut de la sentència o les sentències esmentades o en el decurs de la tramitació del procés corresponent s’ha vulnerat un dret reconegut en la Convenció per a la salvaguarda dels drets humans i de les llibertats fonamentals i/o en algun dels seus protocols addicionals, sempre que formi part de l’ordenament jurídic andorrà.b) Que no es pugui reparar íntegrament o no s’hagi pogut reparar íntegrament la vulneració constatada mitjançant una indemnització.c) Que la revisió sigui necessària per reparar els efectes de la vulneració constatada.
+
+### Títol II. El Consell Superior de la Justícia
+
+#### Capítol primer. Govern de l’organització judicial
+
+**Article 20**
+
+1. El Consell Superior de la Justícia es compon de cinc membres designats entre andorrans majors de vint-i-cinc anys i coneixedors de l’Administració de Justícia, un per cada Copríncep, un pel Síndic General, un pel Cap de Govern i un pels Magistrats i Batlles.
+2. Les designacions indicades a l’apartat anterior han de contenir la motivació suficient que avali la idoneïtat de la persona per al càrrec. En el cas del membre elegit pels batlles i magistrats, les persones candidates que se sotmetin a votació han de fer públic el currículum que avali la seva idoneïtat.
+
+**Article 21**
+
+El mandat dels membres del Consell Superior de la Justícia és de sis anys, sense possibilitat d’exercir-lo més d’una vegada consecutiva.
+
+**Article 22**
+
+1. El Consell Superior de la Justícia nomena els Batlles, Magistrats i Secretaris judicials. Exerceix la funció disciplinària i promou les condicions perquè l’Administració de Justícia disposi dels mitjans adients per al seu bon funcionament.
+2. També designa els presidents del Tribunal de Batlles, del Tribunal de Corts, del Tribunal Superior i els altres càrrecs judicials, en els termes que estableix l’article 33.2.
+
+#### Capítol segon. Organització i funcionament del Consell Superior de la Justícia i estatut dels seus membres
+
+**Article 23**
+
+El càrrec de membre del Consell Superior de la Justícia és incompatible amb qualsevol altre càrrec o funció de caràcter públic i amb l’exercici de la funció jurisdiccional o de l’advocacia. En el moment de la presa de funcions del Consell Superior de la Justícia, que s’esdevé sota la presidència del Síndic General, els seus membres presten jurament o promesa d’igual manera que ho fan els Batlles i Magistrats.
+
+**Article 24**
+
+El Consell Superior de la Justícia es reuneix en sessió ordinària una vegada al mes, a convocatòria del president. També es pot reunir en sessió extraordinària, a petició d’un o més d’un dels seus membres, a fi de deliberar i decidir sobre qualsevol assumpte urgent que sigui de la seva competència.
+
+**Article 25**
+
+$39
+
+**Article 25 bis**
+
+$3e
+
+**Article 26**
+
+1. Salvada una causa degudament justificada els membres del Consell Superior de la Justícia tenen el deure de participar a totes les reunions regularment convocades i romanen obligats a respectar el secret de les deliberacions del Consell.
+2. Els membres del Consell Superior de la Justícia han de mantenir la confidencialitat sobre les informacions que coneguin per raó del càrrec.
+3. Els membres del Consell Superior de la Justícia no poden dirigir cap ordre, instrucció o recomanació als batlles i magistrats ni portar a terme cap actuació que suposi una intromissió en l’exercici de la seva funció jurisdiccional.
+4. Els membres del Consell Superior de la Justícia no poden invocar la seva condició en les seves activitats privades ni fer-ne ús.
+
+**Article 27**
+
+1. Els membres del Consell Superior de la Justícia no poden ésser revocats per l’autoritat o poder que els hagi designat, salvat el cas que, constatada una falta greu o una infracció greu del codi ètic aprovat pel Consell, els altres membres del Consell Superior de la Justícia, després d’escoltar al membre infractor, ratifiquin la revocació per majoria absoluta.
+2. En cas de processament d’un dels membres del Consell, el Ple, sense la participació de l’afectat, n’acorda la suspensió de funcions, fins a la resolució judicial que posi fi a la causa penal.
+
+**Article 28**
+
+1. A convocatòria del President del Tribunal Superior el conjunt de Batlles i Magistrats procedeixen a elegir per votació secreta el membre del Consell Superior de la Justícia que els pertoca designar.
+2. Són electors tots els Batlles i Magistrats en actiu. Són elegibles únicament aquelles persones que siguin de nacionalitat andorrana.
+
+**Article 29**
+
+En cas de cessació d’un dels membres del Consell Superior de la Justícia es procedirà al nomenament del seu substitut, de conformitat amb el que disposa l’article 89.2 de la Constitució.
+
+**Article 30**
+
+Els membres del Consell Superior de la Justícia reben la gratificació que s’estableix en la taula anual que s’adjunta com a annex II de la Llei, a càrrec del seu pressupost, d’acord amb la dedicació esmerçada en el compliment efectiu de les funcions que tenen encomanades.
+
+#### Capítol tercer. Competència del Consell Superior de la Justícia
+
+**Article 31**
+
+El Consell Superior de la Justícia nomena els batlles i els magistrats per un període renovable de sis anys, d’acord amb les condicions i els procediments establerts en aquesta Llei.
+L’acord de nomenament comporta l’ingrés o el manteniment, segons escaigui, en la carrera judicial, i s’hi pot recórrer en contra davant el Ple del Tribunal Superior.
+
+**Article 32**
+
+El fiscal general de l’Estat i els fiscals adjunts són nomenats pel Consell Superior de la Justícia, a proposta del Govern, en els termes que estableix la Llei del Ministeri Fiscal.
+
+**Article 33**
+
+$41
+
+**Article 34**
+
+Els secretaris judicials són seleccionats i nomenats, entre persones de nacionalitat andorrana i en possessió d’un títol de nivell 4 del Marc andorrà de titulacions d’ensenyament superior en l’àmbit del dret, lliurat o reconegut pel Govern, d’acord amb la Llei de la funció pública de l’Administració de Justícia.
+
+**Article 35**
+
+1. La funció disciplinària en relació amb els batlles i els magistrats és exercida pel Consell Superior de la Justícia, en els termes que disposa el capítol sisè del títol V.
+2. El règim i el procediment disciplinari del personal de l’Administració de Justícia se subjecta al que disposa la Llei de la funció pública de l’Administració de Justícia.
+
+**Article 35 bis**
+
+$47
+
+**Article 35 quater**
+
+1. El Consell Superior de la Justícia pot encarregar l’elaboració d’estudis, informes i documentació sobre matèries d’interès per a l’Administració de justícia. Els encàrrecs, fets a persones de solvència reconeguda, han d’estipular la seva finalitat concreta, que en cap cas no pot ser pronunciar-se sobre una causa o un procediment pendent davant dels òrgans judicials del Principat. En la publicació o difusió d’aquests treballs, el Consell fa constar que en cap cas no vinculen els òrgans judicials ni el mateix Consell.
+2. Els presidents dels tribunals i el fiscal general poden adreçar-se al Consell Superior de la Justícia per demanar que encarregui els estudis, els informes i la documentació que considerin convenients per al millor exercici de les funcions dels òrgans respectius.
+
+**Article 35 ter**
+
+1. El Consell Superior de la Justícia és competent per ordenar i gestionar l’estadística judicial. En particular, ha de recollir i registrar les dades desglossades per sexe i edat en relació amb l’accés a la justícia, inclosa la participació de les dones en el sistema judicial. Així mateix, ha de recollir i registrar les dades sobre totes les formes de violència de gènere contra les dones, diferenciant-les de les dades relatives a la violència domèstica, amb indicació del sexe i l’edat de la víctima i de l’agressor i llur vincle, del tipus de violència i la naturalesa, gravetat i durada de les penes imposades, així com sobre l’emissió de mesures de protecció, incloent-hi el nombre de mesures de protecció sol·licitades i de les concedides, el nombre d’incompliments d’aquestes mesures i les sancions imposades com a conseqüència d’aquests incompliments.
+2. També té cura de la publicació oficial de les resolucions judicials del Tribunal Superior i, si escau, dels altres tribunals.
+
+**Article 36**
+
+$4b
+
+**Article 37**
+
+$52
+
+**Article 38**
+
+El Consell Superior de la Justícia, per acord adoptat per unanimitat, podrà atorgar el nomenament de Batlle Honorari o de Magistrat i Fiscal Honorari a aquells que, havent servit tal càrrec, cessin en les seves funcions jurisdiccionals.
+
+**Article 38 bis**
+
+$56
+
+### Títol III. Extensió i límits de la jurisdicció i organització i funcionament dels Tribunals
+
+#### Capítol primer. Règim de la Batllia i Tribunals
+
+**Article 39**
+
+$59
+
+**Article 39 bis**
+
+Per a l’exercici de la potestat jurisdiccional que tenen atribuïda, els batlles i els tribunals poden obtenir dades personals de qualsevol arxiu o registre públic o privat, sense altres limitacions que les que imposen el respecte als drets fonamentals i el compliment dels límits o excepcions que, per a casos determinats, puguin establir expressament les lleis.
+Els batlles i els tribunals són responsables de la custòdia de les dades personals obtingudes, la qual es fa extensiva a les demés persones adscrites a l’Administració de Justícia i que hi tenen accés per raó de les funcions que tenen encomanades.
+
+**Article 40**
+
+El període ordinari d’activitat jurisdiccional comença el dia u de gener i acaba el trenta-u de desembre de cada any natural.
+
+**Article 41**
+
+Durant l’acte d’obertura que se celebra a l’inici de cada any judicial, el president del Consell Superior de la Justícia presenta la memòria anyal sobre l’estat i el funcionament de l’Administració de Justícia, inclosa la informació i la documentació que preveu l’article 85 ter, apartat 4. El fiscal general també presenta la memòria anyal de l’activitat del Ministeri Fiscal i exposa el seu criteri sobre l’evolució de la criminalitat i les activitats de prevenció que són necessàries.
+
+**Article 41 bis**
+
+$5e
+
+**Article 42**
+
+1. Els terminis es compten sempre a partir de l’endemà de la notificació o publicació de l’acte de què es tracta.
+2. Sempre que no s’estableixi expressament una altra cosa, els terminis determinats ho són en dies hàbils, i els dies inhàbils s’exclouen del còmput.
+Els terminis establerts en els processos penals ho són en dies naturals. Tanmateix, els terminis per interposar recursos en els processos penals es compten en dies hàbils i els dies inhàbils queden exclosos del còmput, sense perjudici que es pugui presentar el recurs els dies inhàbils.
+3. Els terminis determinats en mesos o en anys es compten de data a data. Si en el mes del venciment no hi ha un dia equivalent al de l’inici del còmput, el termini s’acaba el dia primer del mes següent.
+4. Si el darrer dia del termini és festiu, el termini s’acaba el primer dia hàbil següent.
+
+**Article 43**
+
+L’horari de treball de la Batllia i dels tribunals, i de les seves oficines judicials i secretaries és fixat pel Consell Superior de la Justícia.
+L’horari de treball esmentat no pot ser mai inferior a l’horari establert per a l’Administració general, i s’ha d’adaptar en tot cas a fi de garantir el bon funcionament de l’Administració de Justícia i la prestació deguda del servei, mitjançant el personal suficient a aquest efecte.
+
+**Article 44**
+
+Correspon al President del Tribunal o al Batlle mantenir l’ordre en l’audiència pública i emparar en el seus drets als presents a la sala.
+
+**Article 45**
+
+A l’efecte del que disposa l’article anterior, els que pertorbin la vista d’un judici, una audiència o un altre acte judicial, donant senyals ostensibles d’aprovació o desaprovació, faltant al respecte i consideració deguts als tribunals, batlles, fiscals, advocats i secretaris judicials, han de ser amonestats a l’acte pel president del Tribunal o el batlle i expulsats de la sala si no obeeixen a la primera advertència, sense perjudici de que se’ls pugui imposar també una multa d’un import màxim de 750 euros i de la responsabilitat penal en què puguin incórrer.
+
+**Article 46**
+
+Quan els fets dels quals tracten els articles anteriors puguin ser constitutius de delicte, els autors poden ser detinguts a l’acte i posats a disposició del batlle competent.
+
+**Article 46 bis**
+
+$65
+
+**Article 46 ter**
+
+$67
+
+#### Capítol segon. La Batllia d’Andorra (El Batlle i el Tribunal de Batlles)
+
+**Article 47**
+
+La Batllia d’Andorra és la jurisdicció de primera instància i instrucció en els àmbits jurisdiccionals civil, administratiu, i penal en els termes establerts per les lleis. La Batllia d’Andorra es compon del conjunt de batlles en un nombre no inferior a dotze (12), i del seu president. El president del Tribunal de Batlles és alhora el president de la Batllia. En cas d’absència o impossibilitat, el substitueix el batlle amb més antiguitat en el càrrec, i així successivament, i si concorren dos batlles amb la mateixa antiguitat, el substitueix el batlle de més edat.
+
+**Article 48**
+
+$69
+
+**Article 49**
+
+1. El Tribunal de Batlles, quan actua col·legiadament, està format per tres batlles. Els debats són secrets i les decisions s’adopten per majoria. La redacció de la sentència pertany al batlle ponent.
+2. En matèria civil, contenciosa administrativa i de menors, els processos són resolts per un sol batlle, amb independència del procediment d’acord amb el qual s’hagin de substanciar i que estableixin les lleis aplicables.
+
+**Article 50**
+
+$75
+
+**Article 51**
+
+$86
+
+#### Capítol tercer. El Tribunal de Corts
+
+**Article 52**
+
+1. El Tribunal de Corts, ja sigui en composició unipersonal ja sigui en composició col·legiada de tres magistrats, d’acord amb el que estableixen aquesta Llei i les altres lleis, és competent per jutjar, en primera instància, els delictes majors i menors i les contravencions penals, i també per dur a terme l’execució de les seves sentències i altres resolucions.
+Els delictes majors i menors són jutjats en composició col·legiada i les contravencions penals són jutjades en composició unipersonal.
+2. Igualment, resol de forma unipersonal les apel·lacions contra les resolucions dels batlles dictades en fase d’instrucció i susceptibles de recurs.
+3. També exerceix, mitjançant el seu president, les funcions de jurisdicció de vigilància penitenciària i d’aplicació de les penes.
+
+**Article 53**
+
+$8a
+
+**Article 54**
+
+$8f
+
+**Article 55**
+
+En aplicació del que disposen els articles 53.3 i 74 de la Constitució i, salvat el cas de flagrant delicte, el Ple del Tribunal de Corts és competent per acordar la detenció i el processament dels membres del Consell General, de la Sindicatura i del Govern si són considerats responsables penalment durant la durada del seu mandat. La instrucció de les diligències prèvies o del sumari correspon a un magistrat del Tribunal de Corts.
+Els és aplicable el procediment que estableix l’article 78.
+
+#### Capítol quart. El Tribunal Superior d’Andorra
+
+**Article 56**
+
+1. El Tribunal Superior d’Andorra constitueix la més alta instància de l’organització judicial del Principat.
+2. És competent per jutjar tots els recursos interposats contra les resolucions judicials adoptades en primera instància per la Batllia en matèria civil i administrativa amb els límits fixats per les lleis, i en matèria penal pel Tribunal de Corts, i també per resoldre els recursos formulats contra les resolucions dictades pels batlles d’instrucció en fase d’execució de les ordenances penals.
+Té també competència per examinar d’acord amb les lleis de procediment els recursos de revisió interposats contra les seves pròpies resolucions, i per resoldre els judicis de revisió en els casos que estableix l’article 19 bis.
+
+**Article 57**
+
+El Tribunal Superior d’Andorra es compon d’un president i d’un conjunt de magistrats en un nombre no inferior a cinc (5). En cas d’absència o impossibilitat del president, el substitueix el magistrat amb més antiguitat en el càrrec, i així successivament, i si concorren dos magistrats amb la mateixa antiguitat, el substitueix el magistrat de més edat.
+
+**Article 58**
+
+$95
+
+#### Capítol cinquè. Els Secretaris judicials
+
+**Article 59**
+
+$9c
+
+**Article 60**
+
+1. Els secretaris judicials són el cap del personal de la Batllia o el tribunal al qual estan adscrits, sense perjudici de la direcció superior dels batlles, magistrats i presidents.
+2. Els secretaris judicials estan subjectes a les mateixes incompatibilitats, incapacitats i prohibicions que aquesta Llei i les altres lleis aplicables estableixen per als batlles i els magistrats.
+3. El Consell Superior de la Justícia, per necessitats del servei, pot acordar la dotació d’una plaça de secretari judicial adjunt amb funcions d’assistència tècnica als batlles o magistrats en els òrgans judicials que ho requereixin.
+Els secretaris judicials adjunts tenen el mateix estatut que els secretaris judicials, però les seves funcions se circumscriuen a l’assistència tècnica de l’òrgan judicial al qual s’adscriuen.
+
+**Article 61**
+
+1. El poder en virtut del qual les parts atorguen la defensa o la representació en el procés a l’advocat o el procurador ha d’haver estat autoritzat per un notari o conferit en virtut de la compareixença davant el secretari judicial, llevat que aquesta Llei o les altres lleis aplicables estableixin altrament.
+
+### Títol IV. Conflictes de competència
+
+**Article 62**
+
+L’ordre jurisdiccional penal té caràcter preferent. No es poden plantejar conflictes de competència als òrgans d’aquest ordre jurisdiccional, però sí entre batlles i tribunals que pertanyen a aquest ordre jurisdiccional. Aquests conflictes són resolts definitivament per la Sala Penal del Tribunal Superior.
+
+**Article 63**
+
+Els conflictes de competència entre Batlles en actuació unipersonal, entre aquests i el Tribunal de Batlles i dels Tribunals de Batlles entre si, en qualsevulla altra matèria, seran dirimits definitivament pel Tribunal Superior.
+Només es podran plantejar qüestions de competència positiva davant el Tribunal Superior d’Andorra. En tal supòsit, serà el Tribunal qui determinarà definitivament la seva pròpia competència.
+
+**Article 64**
+
+1. Els conflictes de competència poden ésser promoguts d’ofici, a instància de part i del Ministeri Fiscal.
+2. Quan es plantegi un conflicte de competència els òrgans que es trobin en conflicte s’abstindran de continuar coneixent de l’afer fins a la resolució definitiva del Tribunal Superior d’Andorra.
+
+### Títol V. Estatut dels Batlles i Magistrats
+
+#### Capítol primer. Carrera judicial
+
+**Article 64 bis**
+
+$a0
+
+**Article 65**
+
+Els Batlles i Magistrats, una vegada nomenats pel Consell Superior de la Justícia i abans de prendre possessió del càrrec, prestaran jurament o promesa davant del Consell Superior, amb la següent fórmula:
+“Juro (o prometo) administrar justícia de forma recta i imparcial i complir fidelment tots els meus deures judicials, d’acord amb la Constitució, complint i fent complir les lleis.”
+
+**Article 66**
+
+$a6
+
+**Article 66 bis**
+
+$a9
+
+**Article 66 quater**
+
+$af
+
+**Article 66 ter**
+
+$b4
+
+#### Capítol segon. Drets i obligacions
+
+**Article 67**
+
+Durant el seu mandat, els Batlles i Magistrats no podran ésser amonestats, suspesos en les seves funcions, ni separats del seu càrrec, si no és com a conseqüència de sanció imposada per haver incorregut en responsabilitat penal o disciplinària, d’acord amb el procediment establert i amb les garanties d’audiència i defensa.
+
+**Article 68**
+
+$b6
+
+**Article 68 bis**
+
+$bd
+
+**Article 68 quater**
+
+$bf
+
+**Article 68 ter**
+
+Cada dos anys a comptar del seu nomenament i, en qualsevol cas, sis mesos abans de completar el mandat que permet la promoció als graus segon, tercer o superior, els batlles i els magistrats presenten al Consell Superior de la Justícia un informe, amb el format que determini el Consell Superior de la Justícia, sobre l’activitat judicial que han desenvolupat i els assumptes que resten pendents.
+El Consell Superior de la Justícia ha d’establir mòduls d’activitat judicial, adequats a les característiques de cada òrgan i jurisdicció, així com uns mínims d’activitats de formació continuada que han de realitzar els batlles i els magistrats durant el seu mandat.
+Aquests mòduls d’activitat judicial es faran públics a l’inici de cada any judicial.
+
+#### Capítol tercer. Règim d’incompatibilitats i prohibicions
+
+**Article 69**
+
+$c3
+
+**Article 69 bis**
+
+Les persones que han exercit com a batlles o magistrats no poden intervenir com a advocats en els processos que hagin conegut en l’exercici de les seves funcions jurisdiccionals.
+Tampoc poden defensar com a advocats a les persones, físiques o jurídiques, que hagin estat part en els processos que hagin conegut en el darrer any d’exercici de la seva funció jurisdiccional, durant els sis mesos següents al seu cessament.
+
+**Article 69 ter**
+
+Els batlles, magistrats, fiscals, secretaris judicials i els seus cònjuges o convivents, així com les persones amb qui mantinguin una situació de convivència anàloga o els seus parents en línia recta de primer grau, per consanguinitat o adopció, no poden participar –personalment o per persona interposada- en subhastes públiques derivades d’una actuació judicial en què els batlles, magistrats, fiscals, secretaris judicials en qüestió hagin actuat.
+
+**Article 70**
+
+No poden formar sala conjuntament els batlles o magistrats que tinguin una relació de matrimoni o una situació de convivència anàloga, o un parentiu en línia recta, o en línia col·lateral per consanguinitat o adopció fins al quart grau inclòs o per afinitat fins al segon grau inclòs.
+
+**Article 71**
+
+Els Batlles i Magistrats han de mantenir una actitud d’obligada reserva en la manifestació de les seves opinions i opcions polítiques. No participaran en les eleccions polítiques més enllà del fet d’exercir el seu dret de sufragi.
+
+**Article 72**
+
+1. Els Batlles i Magistrats han de mantenir el secret professional respecte a tots els fets i notícies de tot ordre dels quals hagin tingut coneixement en l’exercici de les seves funcions.
+2. L’obligació de secret no és invocable davant les jurisdiccions andorranes.
+
+#### Capítol quart. Recusació i abstenció
+
+**Article 73**
+
+$c8
+
+**Article 74**
+
+$cf
+
+**Article 75**
+
+1. L’obligació d’abstenció dels batlles i magistrats esdevé exigible a partir dels mateixos moments a què fa referència l’apartat 3 de l’article anterior.
+2. El president del tribunal del qual forma part el batlle o el magistrat que ha decidit abstenir-se ha de ser informat de les motivacions de l’abstenció esmentada i aprovar-la o denegar-la. En cas que s’abstingui el president d’un dels tribunals, n’ha d’informar, segons el cas, el vicepresident de la Batllia o el magistrat adscrit al tribunal de què es tracti amb més antiguitat en el càrrec.
+
+#### Capítol cinquè. Responsabilitats civils i penals
+
+**Article 76**
+
+Els Batlles i Magistrats seran responsables civilment pels danys i perjudicis ocasionats dolosament en l’exercici de les seves funcions.
+
+**Article 77**
+
+La responsabilitat penal dels Batlles i Magistrats per delictes o contravencions comesos en l’exercici de les seves funcions, es depurarà de conformitat amb les disposicions del present capítol.
+En mèrits de la seva immunitat judicial, els Batlles i Magistrats només podran ésser detinguts en cas de flagrant delicte.
+
+**Article 78**
+
+$d5
+
+#### Capítol sisè. Règim disciplinari
+
+**Article 79**
+
+$d9
+
+**Article 79 bis**
+
+$dc
+
+**Article 80**
+
+La responsabilitat disciplinària dels Batlles i Magistrats l’exigirà el Consell Superior de la Justícia, mitjançant instrucció d’un expedient disciplinari incoat per iniciativa del propi Consell Superior de la Justícia, a instàncies de la persona perjudicada, d’un ciutadà que tingui coneixement dels fets, del Ministeri Fiscal o del President del Tribunal corresponent.
+
+**Article 81**
+
+$de
+
+**Article 81 bis**
+
+$e6
+
+**Article 81 quater**
+
+$e8
+
+**Article 81 ter**
+
+$ea
+
+**Article 82**
+
+$ec
+
+**Article 83**
+
+$ef
+
+**Article 84**
+
+$f4
+
+**Article 84 bis**
+
+Són faltes lleus:
+a) La falta de respecte als ciutadans, als altres batlles o magistrats, als membres del Ministeri Fiscal, als advocats, als procuradors, al personal de l’Administració de Justícia o als altres agents i funcionaris públics, en l’exercici de les funcions jurisdiccionals, quan no revesteixi especial gravetat.b) L’incompliment injustificat dels terminis per dictar les resolucions.
+
+**Article 85**
+
+$f9
+
+**Article 85 bis**
+
+Les sancions es graduen en funció de les circumstàncies que concorren en cada cas, d’acord amb els principis generals establerts en la legislació vigent i, en concret, de conformitat amb els criteris següents:
+a) Expedient personal.b) Intencionalitat.c) Danys i perjudicis causats.d) Antecedents i reiteració o reincidència.e) Grau de participació.f) Que els mateixos fets hagin estat sancionats en l’àmbit penal.
+
+**Article 85 ter**
+
+$fd
+
+**Article 86**
+
+En els expedients que, d’acord amb l’article 80 la incoació hagi estat instada per un denunciant particular, el Consell Superior de la Justícia procedirà a notificar-li la resolució adoptada amb la finalitat que aquell valori si el dret o principi constitucional, l’afectació del qual hagués denunciat, ha rebut el tractament degut en la resolució de l’expedient.
+
+**Article 87**
+
+Contra la resolució disciplinària definitiva que adopti el Consell Superior de la Justícia es pot interposar recurs davant el Ple del Tribunal Superior de Justícia en el termini d’un mes des del dia en què hagi estat notificada.
+
+#### Capítol setè. Codi ètic de conducta
+
+**Article 87 bis**
+
+$ff
+
+### Títol VI. El Ministeri Fiscal
+
+**Article 88**
+
+El Ministeri Fiscal, dirigit pel Fiscal General de l’Estat, actua d’acord amb els principis de legalitat, unitat i jerarquia interna.
+
+**Article 89**
+
+1. Ultra exercitar l’acció pública, el Ministeri Fiscal intervé directament en els processos penals i sol·licita la pràctica de totes les diligències que estimi necessàries per a l’esbrinament dels fets delictuosos i dels seus responsables. Vetlla per a l’estricte compliment de les sentències recaigudes.
+2. Sense perjudici de les facultats dels Batlles per actuar d’ofici, quan el Ministeri Fiscal tingui coneixement d’un fet que pugui ésser constitutiu de delicte o contravenció, exercitarà l’acció penal per pròpia iniciativa o a petició del Govern.
+3. La intervenció del Ministeri Fiscal és preceptiva en els processos civils en què estiguin interessats menors d’edat o persones absents, amb la capacitat modificada judicialment o necessitades de protecció.
+4. També cal l’audiència o la intervenció del Ministeri Fiscal en els altres casos en què ho estableixin les lleis aplicables.
+
+**Article 90**
+
+Sense contingut
+
+**Article 91**
+
+Sense contingut
+
+**Article 92**
+
+Sense contingut
+
+### Títol VII. Cooperadors de l’Administració de Justícia
+
+#### Capítol primer. La Policia Judicial
+
+**Article 93**
+
+Els batlles, els tribunals i els membres del Ministeri Fiscal dirigeixen l’acció dels membres del Cos de Policia que acompleixen funcions de policia judicial i estan adscrits a tots els serveis i les estructures funcionals en què s’estructura orgànicament el Cos, sense perjudici que es puguin crear unitats de policia judicial.
+
+**Article 94**
+
+1. Els membres del Cos de Policia que exerceixen funcions de policia judicial actuen sota les ordres i les instruccions dels batlles i els tribunals, els presten l’auxili que els és requerit i executen les decisions que adoptin en els processos judicials corresponents.
+2. Els membres del Cos de Policia que exerceixen funcions de policia judicial també actuen sota les ordres i les instruccions dels membres del Ministeri Fiscal per esbrinar les infraccions penals i l’obtenció de les proves oportunes.
+
+**Article 95**
+
+La Direcció del Cos de Policia tramet diàriament un informe sobre les actuacions i les incidències esdevingudes al president del Tribunal de Batlles i al fiscal general.
+
+**Article 96**
+
+Sense contingut
+
+#### Capítol segon. Els Advocats
+
+**Article 97**
+
+Article desenvolupat pel capítol setzè de la Llei transitòria de procediments judicials, del 21 de desembre de 1993.
+Davant de totes les jurisdiccions i en tots els procediments, és preceptiva l’assistència i la intervenció lletrada, prestada per un advocat inscrit en el Col·legi d’Advocats d’Andorra, llevat que una norma legal estableixi expressament el caràcter facultatiu de la seva intervenció en el procediment de què es tracti. Se n’exceptuen els procediments penals seguits per contravencions, en els quals la intervenció d’advocat és facultativa.
+
+**Article 98**
+
+1. Per ser admès com a membre exercent al Col·legi Oficial d’Advocats d’Andorra cal que l’advocat, a banda de complir els altres requisits que estableixin les lleis aplicables, hagi estat admès a actuar davant els tribunals andorrans.
+2. Als efectes assenyalats a l’apartat anterior, l’advocat ha de sol·licitar la seva admissió per actuar davant els tribunals andorrans al president del Tribunal Superior de Justícia, mitjançant un escrit en què ha d’adjuntar l’autorització d’exercici de la professió titulada emesa pel Govern i un informe favorable del Col·legi Oficial d’Advocats d’Andorra. Dins els cinc dies hàbils següents, el president del Tribunal Superior de Justícia trasllada la sol·licitud al Ministeri Fiscal perquè n’informi en el termini de tretze dies hàbils, i si dins els tretze dies hàbils següents no ha dictat un aute per desestimar la sol·licitud, l’advocat és admès a actuar davant els tribunals andorrans.
+
+**Article 99**
+
+Per tal de garantir el dret a la defensa i a l’assistència tècnica d’un lletrat que reconeix l’article 10.2 de la Constitució, s’ha de designar un advocat a la persona que ho sol·liciti, i també en el procés penal a la persona que no el designi. La defensa i l’assistència lletrades han de ser gratuïtes i a càrrec dels pressupostos generals de l’Estat per a les persones que ho sol·licitin i acreditin una situació econòmica desfavorable o d’insolvència, declarada pel batlle o tribunal competent.
+El Govern ha d’establir reglamentàriament els requisits i les condicions per a l’obtenció del benefici de la defensa i l’assistència lletrades gratuïtes.
+
+**Article 100**
+
+Per actuar davant dels batlles i els tribunals en els termes previstos per aquesta Llei i per les altres lleis que siguin aplicables, els advocats han d’estar col·legiats obligatòriament com a membres exercents al Col·legi Oficial d’Advocats d’Andorra, llevat que actuïn en defensa del Consell General, del Govern, dels comuns, de la Caixa Andorrana de Seguretat Social o de l’Autoritat Financera Andorrana, o dels òrgans que en depenen, sense perjudici del que prevegi la llei que regula l’exercici de la professió d’advocat.
+
+**Article 101**
+
+La defensa en judici, davant de qualsevol jurisdicció, dels drets i interessos del Consell General, del Govern, dels comuns, de la Caixa Andorrana de Seguretat Social o de l’Autoritat Financera Andorrana, o dels òrgans que en depenen, correspon als advocats adscrits als seus gabinets jurídics, sense perjudici que puguin contractar els serveis d’altres advocats en casos determinats.
+
+#### Capítol tercer. Els Procuradors dels Tribunals
+
+**Article 102**
+
+Les parts poden comparèixer en el procés personalment o representades per un advocat o un procurador col·legiats com a membres exercents al Col·legi Oficial d’Advocats d’Andorra o al Col·legi Oficial de Procuradors d’Andorra, respectivament, llevat que aquesta Llei o les altres lleis aplicables estableixin una altra cosa.
+
+**Article 102 bis**
+
+Per actuar davant dels batlles i els tribunals en els termes previstos per aquesta Llei i per les altres lleis que siguin aplicables, els procuradors han d’estar col·legiats obligatòriament com a membres exercents al Col·legi Oficial de Procuradors d’Andorra, llevat que actuïn en representació del Consell General, del Govern, dels comuns o de la Caixa Andorrana de Seguretat Social, o dels òrgans que en depenen, sense perjudici del que prevegi la llei que regula l’exercici de la professió de procurador.
+
+**Article 102 ter**
+
+La representació en judici, davant de qualsevol jurisdicció, del Consell General, del Govern, dels comuns o de la Caixa Andorrana de Seguretat Social, o dels òrgans que en depenen, correspon als procuradors adscrits als seus gabinets jurídics, sense perjudici que puguin contractar els serveis d’altres procuradors en casos determinats.

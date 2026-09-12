@@ -1,0 +1,306 @@
+# Llei de competència efectiva i protecció del consumidor (Llei 13/2013)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/competencia-consumidor
+Articles: 58 · versions consolidades: 1
+Instantania del consolidat: 2026-09-12T05:30:05.148478Z
+
+---
+
+### Títol I. Disposicions generals
+
+**Article 1. Objectiu i àmbit d’aplicació territorial**
+
+1. Aquesta Llei té com a objectiu essencial promoure la competència efectiva i lleial entre tots els que participen en el mercat per augmentar l’eficiència en la gestió dels factors de producció i distribució de la societat andorrana en benefici dels consumidors, així com l’establiment de les normes per a la defensa dels interessos de les persones consumidores.
+2. Aquesta Llei és aplicable a les conductes que tinguin efectes al Principat d’Andorra, amb independència d’on es produeixin les conductes i del domicili dels actors.
+
+**Article 2. Definicions**
+
+a) Per “mercat rellevant” s’entén el mercat de referència on es donen unes condicions generals en què venedors i compradors intercanvien béns o serveis considerats intercanviables o substituïbles entre si per raó de les seves característiques, els seus preus i els seus usos. El mercat rellevant implica la determinació dels límits geogràfics que identifiquen grups de venedors i compradors de béns o serveis on és probable que es restringeixi la competència.b) Per “competidor” s’entén qualsevol operador econòmic que vengui productes o ofereixi serveis substitutius dels d’una empresa, o pugui entrar en el mercat en un període inferior a un any sense necessitat de dur a terme inversions importants.c) Per “operadors econòmics” s’entén el conjunt de persones físiques o jurídiques que prenen decisions econòmiques en el mercat, incloent-hi els consumidors.d) Per “posició dominant” s’entén la situació en què una empresa, per si sola o conjuntament amb altres empreses, està en condicions d’influir en els preus de mercat d’un determinat bé o servei o d’un grup de béns o serveis.e) Per “supòsits d’afectació de l’interès general” s’entendran els que afectin un nombre significatiu d’operadors econòmics o els que tinguin per objecte un bé o un servei bàsic.f) Per “consumidors” o “persones consumidores” s’entenen les persones físiques o jurídiques que actuen en el marc de les relacions de consum en un àmbit aliè a una activitat empresarial o professional. Qualsevol referència que es faci en aquesta Llei al concepte de persona consumidora s’entén que és feta a la persona consumidora o usuària en tant que gaudeix de béns i serveis fruit de l’activitat empresarial en el mercat.g) Per “empresa” o “empresari” s’entén qualsevol persona física o jurídica, pública o privada, que, en l’acompliment d’un negoci, un ofici o una professió comercialitza béns o serveis o, de qualsevol altra manera, actua en el marc de la seva activitat empresarial o professional.h) Per “col·lectius especialment protegits” s’entenen els col·lectius que, per la concurrència de determinades característiques, són especialment vulnerables pel que fa a les relacions de consum. En particular, són col·lectius especialment protegits els infants i els adolescents, les persones grans, les persones malaltes, les persones amb discapacitats i qualsevol altre col·lectiu en situació d’inferioritat o indefensió especials.i) Per “relació de consum” s’entén qualsevol relació establerta entre, d’una banda, empresaris, intermediaris o l’Administració com a prestadora de béns i serveis i, d’altra banda, les persones consumidores. Aquesta relació comprèn la informació, l’oferta, la promoció, la publicitat, la comercialització, la utilització, la venda, i el subministrament de béns i serveis, i també les obligacions que en derivin.j) Per “garantia legal” s’entén el deure que té tot empresari de reparar o substituir el bé o servei venut durant el període establert a l’article 30.k) Per “garantia comercial” s’entén l’acord en virtut del qual l’empresari es compromet a ampliar la garantia legal durant un període determinat de conformitat amb l’article 30.l) Es consideren “béns o serveis segurs” els que, en condicions d’ús normals o raonablement previsibles, inclosa la seva durada, no presentin riscos per a la salut o la seguretat de les persones, o únicament els riscos mínims compatibles amb l’ús del bé o el servei i considerats admissibles dintre d’un nivell elevat de protecció de la salut i la seguretat de les persones.
+
+### Títol II. Defensa de la competència
+
+#### Capítol primer. Conductes prohibides
+
+**Article 3. Prohibició d’acords restrictius de la competència**
+
+$1e
+
+**Article 4. Conductes exemptes**
+
+La prohibició recollida a l’article anterior no és aplicable a cap acord, decisió o pràctica concertada entre operadors econòmics, incloses les recomanacions d’associacions empresarials, que compleixi les condicions cumulatives següents:
+a) contribuir a millorar la producció o la distribució dels béns o serveis, o a fomentar el progrés tècnic o econòmic;b) reservar als usuaris una participació equitativa en el benefici que se’n derivi;c) no imposar a les empreses interessades restriccions que no siguin indispensables per assolir aquests objectius, id) no donar a aquestes empreses la possibilitat d’eliminar la competència respecte a una part substancial dels béns o serveis en qüestió.
+
+**Article 5. Conductes de menor importància**
+
+$20
+
+**Article 6. Prohibició d’abús de posició dominant**
+
+$22
+
+**Article 7. Conductes de l’Estat o d’empreses encarregades de la gestió de serveis d’interès econòmic general i conductes exemptes per llei**
+
+1. Els articles d’aquest títol s’apliquen als actes duts a terme per l’Estat o per empreses encarregades de la gestió de serveis d’interès econòmic general, excepte les disposicions legislatives en contrari.
+2. Les prohibicions establertes en aquest títol no s’apliquen a les conductes que resultin de l’aplicació d’una llei.
+
+#### Capítol segon. Control de concentracions
+
+**Article 8. Definició de concentració econòmica**
+
+$24
+
+**Article 9. Concentracions econòmiques subjectes a notificació**
+
+1. S’han de notificar al ministeri competent en matèria d’economia les concentracions econòmiques en què:
+a) el conjunt de les empreses partícips en l’operació de concentració assoleixin, d’acord amb la informació pública disponible, una quota igual o superior al 50% en qualsevol mercat rellevant al Principat d’Andorra, ib) com a mínim dos de les empreses partícips obtinguin individualment un volum de negocis anual al Principat d’Andorra de més de 2,5 milions d’euros.
+2. Quan dos o més operacions de concentració es realitzin en un període de dos anys entre els mateixos compradors i venedors, a fi de verificar el compliment dels criteris previstos a l’apartat anterior, es considerarà una única operació de concentració realitzada quan tingui lloc la darrera operació.
+
+**Article 10. Procediment de notificació i vigilància de les concentracions econòmiques**
+
+1. En els supòsits en què una operació de concentració compleixi els requisits previstos a l’article 9, els que adquireixin el control d’una empresa, ja sigui de forma exclusiva o conjunta, han de notificar l’existència de l’operació de concentració econòmica al ministeri competent en matèria d’economia abans d’executar-la.
+2. La notificació de l’operació ha d’incloure una explicació breu de les activitats de les empreses partícips al Principat d’Andorra així com de l’impacte que l’operació pugui tenir en els mercats de producte o servei afectats.
+3. El ministeri competent en matèria d’economia té la facultat de vigilar el comportament econòmic de les empreses partícips en una operació de concentració notificada.
+
+**Article 11. Infraccions i sancions**
+
+1. En el marc del control de concentracions, es consideren infraccions les conductes següents:
+a) No notificar al ministeri competent en matèria d’economia una operació de concentració subjecta a notificació quan s’hi estigui obligat en virtut de l’article 9.b) No subministrar al ministeri competent en matèria d’economia qualsevol informació sol·licitada o haver subministrat informació incompleta, incorrecta, enganyosa o falsa.
+2. Les infraccions previstes en l’apartat anterior poden comportar una sanció per a l’empresa infractora fins al 3% del volum de negocis obtingut en l’exercici anterior a l’any d’imposició de la sanció.
+
+**Article 12. Òrgan competent**
+
+1. L’òrgan competent per incoar i resoldre els expedients sancionadors en aplicació de l’article 11 és el ministre competent en matèria d’economia.
+2. La instrucció dels expedients correspon als tècnics designats pel ministre competent en matèria d’economia.
+
+**Article 13. Expedient sancionador**
+
+1. La constatació d’una infracció comporta la incoació de l’expedient sancionador corresponent d’acord amb el que disposi la normativa en matèria de procediments administratius sancionadors vigent en cada moment.
+2. Contra la resolució dictada pel ministre competent en matèria d’economia es pot interposar recurs d’acord amb el que disposi la normativa en matèria de recursos administratius vigent en cada moment.
+
+**Article 14. Criteris de graduació de les sancions i reincidència**
+
+$26
+
+**Article 15. Prescripció de les infraccions i sancions**
+
+1. Les infraccions previstes a l’article 11 prescriuen en el termini de tres anys a comptar de la data de la comissió de la infracció.
+2. Les sancions prescriuen en el termini de tres anys, a comptar de la data de notificació de la resolució sancionadora esdevinguda ferma.
+
+### Títol III. Competència deslleial
+
+**Article 16. Disposició general**
+
+1. Resten prohibits tots els actes de competència deslleial.
+2. Es considera un acte de competència deslleial tot comportament que resulti objectivament contrari a les exigències de la bona fe i distorsioni el comportament econòmic del consumidor o el client mitjà, minvant la seva capacitat d’adoptar una decisió amb ple coneixement de causa, fent així que prengui una decisió sobre el seu comportament econòmic que d’una altra manera no hauria pres.
+
+**Article 17. Àmbit objectiu d’aplicació**
+
+1. Els comportaments previstos en aquest títol tenen la consideració d’actes de competència deslleial sempre que es realitzin en el mercat i tinguin finalitats competitives.
+2. Es presumeix la finalitat competitiva de l’acte quan, per les circumstàncies en què es realitzi, sigui objectivament idoni per promoure o assegurar la incorporació en el mercat de béns o serveis propis o d’un tercer.
+3. Aquest títol també és aplicable a qualsevol acte de competència deslleial realitzat abans, durant i després d’una transacció comercial o contracte, independentment que aquest arribi a celebrar-se o no, sempre que hagi produït efectes en el mercat.
+
+**Article 18. Àmbit subjectiu d’aplicació**
+
+1. Aquest títol és aplicable als operadors econòmics sense que sigui necessària l’existència d’una relació de competència entre el subjecte actiu i el subjecte passiu.
+2. Aquest títol també és aplicable als actes duts a terme per l’Estat o per empreses encarregades de la gestió de serveis d’interès econòmic general, excepte disposicions legislatives en sentit contrari.
+
+**Article 19. Actes de competència deslleial**
+
+$28
+
+### Títol IV. Protecció del consumidor
+
+#### Capítol primer. Principis informadors del dret de consum
+
+**Article 20. Bona fe i equilibri de les posicions jurídiques**
+
+Les relacions de consum s’han de fonamentar en la bona fe i el just equilibri entre un alt nivell de protecció dels consumidors i la competitivitat de les empreses. Els empresaris estan obligats, per tant, a posar al mercat béns i serveis segurs per als consumidors, a facilitar una informació lleial i objectiva, i a evitar les pràctiques comercials deslleials o abusives.
+
+**Article 21. Irrenunciabilitat dels drets**
+
+Els drets que aquesta Llei atorga a les persones consumidores són irrenunciables i és nul qualsevol pacte que els exclogui.
+
+#### Capítol segon. Els drets bàsics de les persones consumidores
+
+**Article 22. Disposició general**
+
+Es reconeixen a les persones consumidores els drets que estableix aquest títol, sens perjudici dels drets que estableixin les eventuals normatives sectorials i la normativa civil general vigents en cada moment.
+
+**Article 23. Drets protegits**
+
+$2a
+
+**Article 24. Col·lectius especialment protegits**
+
+1. Els drets de les persones consumidores que afectin col·lectius especialment protegits gaudeixen d’una atenció especial i preferent per part dels poders públics.
+2. Les persones amb discapacitat, especialment, han de tenir garantit l’accés adequat a la informació sobre els béns i serveis, i el ple exercici i el gaudi dels drets que regula aquesta Llei, de la mateixa manera que la resta de persones consumidores.
+
+#### Capítol tercer. Requisits comuns a totes les relacions de consum
+
+**Article 25. Salut i seguretat**
+
+$2c
+
+**Article 26. Publicitat, informació i oferta**
+
+$2e
+
+**Article 27. Atenció a les persones consumidores**
+
+1. Els empresaris han de posar a disposició de les persones consumidores, sigui quin en sigui el lloc de residència, en qualsevol relació de consum, informació que ha d’incloure, en qualsevol cas, l’adreça postal, el número de telèfon d’atenció i el número de fax o l’adreça de correu electrònic on les persones consumidores, o bé poden sol·licitar qualsevol mena d’assessorament o informació sobre el bé o el servei adquirit o contractat, o bé poden formular les queixes o reclamacions sobre qualsevol assumpte que afecti el funcionament normal de les relacions de consum.
+2. Els empresaris estan obligats a donar resposta a les queixes i reclamacions rebudes al més aviat possible, en qualsevol cas en el termini màxim d’un mes des que són presentades. Per aquest motiu hauran de disposar de fulls oficials de reclamació i denúncia i anunciar-ne la seva existència.
+
+**Article 28. Ofertes o promocions**
+
+$30
+
+**Article 29. Dret de desistiment**
+
+Si l’empresari ofereix el dret de desistiment o una disposició normativa estableix que s’ha d’oferir d’acord amb la modalitat de contractació de què es tracti, l’empresari ha d’informar la persona consumidora, tant en les invitacions a comprar com en el document contractual, dels aspectes següents:
+a) El període durant el qual la persona consumidora pot exercir el dret de desistiment.b) Les condicions de l’exercici del dret de desistiment.c) La quantia i la forma de pagament de les despeses de devolució, si n’hi ha.d) Les modalitats de restitució del bé o el servei rebut.
+
+**Article 30. Garantia i serveis postvenda**
+
+$32
+
+**Article 31. Conformitat i idoneïtat dels béns i els serveis**
+
+$34
+
+**Article 32. Responsabilitat del venedor**
+
+$36
+
+**Article 33. Règim de responsabilitat civil per danys**
+
+1. La persona consumidora té dret a indemnització pels danys i perjudicis demostrats com a conseqüència de la utilització de béns i serveis, inclosos el dany emergent, el lucre cessant i el dret a percebre interessos, llevat que derivin exclusivament de la seva culpa.
+2. En qualsevol cas, s’origina responsabilitat quan els danys i perjudicis es produeixin en un ús correcte de béns alimentaris, d’higiene i neteja, cosmètics, farmacèutics, serveis sanitaris, de gas i electricitat, electrodomèstics i ascensors, mitjans de transport, vehicles de motor i joguines i béns per a infants.
+
+**Article 34. Clàusules abusives**
+
+1. Les clàusules abusives són nul·les de ple dret.
+2. Es consideren clàusules abusives totes les estipulacions que derivin d’un determinat contracte no negociades individualment i totes les pràctiques no consentides expressament que causin, en contra de les exigències de la bona fe, un perjudici a la persona consumidora i un desequilibri important dels drets i les obligacions de les parts.
+3. Són abusives en tot cas, entre d’altres, les clàusules que:
+a) vinculin el contracte a la voluntat de l’empresari;b) limitin els drets de la persona consumidora;c) determinin la falta de reciprocitat en el contracte;d) imposin a la persona consumidora garanties desproporcionades o li imposin indegudament la càrrega de la prova;e) resultin desproporcionades en relació amb el perfeccionament i execució del contracte, i/of) contravinguin les normes sobre competència i dret aplicables.
+
+**Article 35. Modalitats especials de venda a les persones consumidores**
+
+Per mitjà d’altres lleis es podran regular les modalitats especials de venda a les persones consumidores.
+
+**Article 36. Informació i difusió sobre el consum**
+
+$38
+
+#### Capítol quart. La protecció administrativa del consumidor
+
+**Article 37. La denúncia en matèria de consum**
+
+1. Sens perjudici del dret de presentar una reclamació davant de l’empresari que hagi incomplert les seves obligacions de conformitat amb aquesta Llei, les persones consumidores, de manera individual o per mitjà de les organitzacions o associacions que les representen, tenen el dret de formular i presentar denúncies davant l’òrgan administratiu competent en matèria de consum.
+2. Per mitjà de la denúncia es comuniquen a l’òrgan administratiu competent en matèria de consum uns fets, circumstàncies o esdeveniments que poden vulnerar la normativa de consum. Les denúncies s’han de tramitar de conformitat amb el que disposa l’article següent.
+
+**Article 38. Tramitació de la denúncia, mediació i conciliació**
+
+$3a
+
+**Article 39. Òrgan administratiu competent en matèria de consum**
+
+$3c
+
+#### Capítol cinquè. Responsabilitats, infraccions i sancions en matèria de protecció del consumidor
+
+**Article 40. Responsabilitats**
+
+1. L’incompliment per part de l’empresari de les obligacions previstes en aquest títol i en tota la normativa en matèria de protecció del consumidor dóna lloc a responsabilitat administrativa, així com, si és el cas, a responsabilitat penal i civil que es pugui derivar de l’incompliment.
+2. Les infraccions en matèria de consum es poden sancionar administrativament, sense perjudici de la responsabilitat civil o penal que pugui derivar de les mateixes accions o omissions.
+3. No es poden sancionar per via administrativa els fets que ja hagin estat sancionats penalment, si hi ha coincidència de subjecte, fet i fonament.
+
+**Article 41. Òrgan competent**
+
+1. L’òrgan competent per incoar i resoldre els expedients sancionadors és el ministre titular de l’òrgan administratiu competent en matèria de consum.
+2. La instrucció dels expedients correspon als tècnics designats pel ministre titular de l’òrgan competent en matèria de consum.
+
+**Article 42. Expedient sancionador**
+
+1. La constatació d’una infracció per part de l’òrgan administratiu competent en matèria de consum comporta la incoació de l’expedient sancionador corresponent d’acord amb el que disposi la normativa en matèria de procediments administratius sancionadors vigent en cada moment.
+2. S’atorga a les actes de l’òrgan administratiu competent en matèria de consum la presumpció d’exactitud, llevat de prova en contra.
+3. Contra la resolució dictada pel ministre titular de l’òrgan competent en matèria de consum es pot interposar recurs d’acord amb el que disposi la normativa vigent en cada moment en matèria de recursos administratius.
+
+**Article 43. Infraccions**
+
+$3e
+
+**Article 44. Prescripció de les infraccions**
+
+1. Les infraccions lleus prescriuen en el termini d’un any a partir del dia en què cessa l’acció o l’omissió sancionable.
+2. Les infraccions greus prescriuen en el termini de dos anys a partir del dia en què cessa l’acció o l’omissió sancionable.
+3. Les infraccions molt greus prescriuen en el termini de tres anys a partir del dia en què cessa l’acció o l’omissió sancionable.
+4. L’inici d’una activitat inspectora suspèn el termini de prescripció.
+
+**Article 45. Sancions**
+
+1. Les sancions aplicables a les infraccions tipificades en els articles anteriors són les següents:
+a) Per les infraccions lleus, multa de fins a 2.000 euros.b) Per les infraccions greus, multa de 2.000 a 10.000 euros.c) Per les infraccions molt greus, multa de 10.000 a 100.000 euros.
+2. Una infracció no pot comportar, en cap supòsit, un benefici econòmic per a l’infractor. Si la suma de la sanció imposada i el cost de les accions per restaurar la legalitat és inferior al benefici resultant de la infracció, s’incrementa la quantia de la sanció fins a assolir l’import del benefici obtingut il·lícitament.
+
+**Article 46. Sancions accessòries**
+
+1. En cas d’infraccions molt greus, l’òrgan administratiu competent en matèria de consum pot ordenar el tancament temporal fins a dos anys de l’establiment.
+2. En cas d’infraccions greus, l’òrgan administratiu competent en matèria de consum pot acordar el comís de la mercaderia immobilitzada que impliqui un risc no acceptable per a la salut, la seguretat, els interessos econòmics o el dret a la informació de les persones consumidores, o per al medi ambient.
+3. L’òrgan administratiu competent en matèria de consum, per raons d’exemplaritat i en previsió de futures conductes infractores, pot publicar les resolucions sancionadores fermes dictades de conformitat amb aquesta Llei. El cost de la publicació és a càrrec del sancionat.
+
+**Article 47. Criteris de graduació de les sancions**
+
+1. Per determinar l’import de les sancions en els seus graus mínim, mitjà i màxim es tenen en compte els criteris de graduació següents:
+a) el risc per a la salut i la seguretat;b) la gravetat dels danys produïts;c) la quantia del benefici obtingut;d) el grau d’intencionalitat;e) la conducta general de l’empresari en relació amb l’estricte compliment de la normativa en matèria de competència efectiva i de protecció del consumidor;f) la inobservança dels requeriments, les recomanacions o els advertiments de l’òrgan administratiu competent en matèria de consum;g) la reincidència.
+2. Les infraccions que consisteixin en la persistència continuada de la comissió o l’omissió se sancionen en el grau màxim de la qualificació que correspongui.
+
+**Article 48. Reincidència**
+
+1. S’entén que hi ha reincidència quan en el moment de cometre la infracció la persona culpable ha estat sancionada per resolució ferma per una acció o omissió constitutiva de la mateixa infracció o per dos o més accions o omissions constitutives d’una infracció inferior.
+2. Per apreciar la reincidència només es tenen en compte les sancions per infraccions lleus imposades durant els dotze mesos anteriors, les sancions per infraccions greus imposades durant els divuit mesos anteriors i les sancions per infraccions molt greus imposades durant els vint-i-quatre mesos anteriors.
+
+**Article 49. Prescripció de les sancions**
+
+Les sancions per infraccions lleus prescriuen en el termini d’un any, les greus en el termini de dos anys, i les molt greus en el termini de tres anys, a comptar de la data de notificació de la resolució sancionadora esdevinguda ferma.
+
+### Títol V. Accions i procediment judicial civil. Funcions i facultats del Ministeri Fiscal i representació del Principat d’Andorra davant els fòrums internacionals en matèria de competència
+
+**Article 50. Accions**
+
+Contra les conductes restrictives de la competència, els actes de competència deslleial i l’incompliment de les obligacions previstes per a les relacions amb persones consumidores, podran exercitar-se les accions següents:
+a) Acció declarativa de l’existència de conductes prohibides.b) Acció de cessació de les conductes prohibides.c) Acció de rectificació de les informacions enganyoses, inexactes, incorrectes, falses o discriminatòries realitzades o difoses.d) Acció d’indemnització per danys i perjudicis que siguin conseqüència de les conductes prohibides.
+
+**Article 51. Legitimació activa**
+
+Les accions previstes a l’article 50 les pot exercitar qualsevol de les persones següents:
+a) Qualsevol persona física o jurídica que participi en el mercat els interessos de la qual resultin directament perjudicats per les conductes prohibides per aquesta Llei.b) Les associacions de consumidors i usuaris o les entitats legalment constituïdes que tinguin per objecte la defensa i/o la protecció d’aquests consumidors i usuaris i siguin representatives dels grups de perjudicats per les conductes prohibides per aquesta Llei, així com els mateixos grups d’afectats.c) El Ministeri Fiscal, d’ofici o a instància d’una tercera persona, inclòs el Govern, pot exercitar les accions declarativa, de cessació i de rectificació en defensa de l’interès general de conformitat amb l’article 57.
+
+**Article 52. Legitimació passiva**
+
+Les accions previstes a l’article 50 poden exercitar-se contra qualsevol persona física o jurídica que hagi realitzat o ordenat la conducta prohibida o hi hagi cooperat.
+
+**Article 53. Prescripció**
+
+Les accions previstes a l’article 50 prescriuen pel transcurs de tres anys des del moment en què el legitimat per exercitar l’acció de què es tracti va tenir coneixement de l’existència de la suposada conducta prohibida i de la identitat de la persona i/o persones suposadament infractores; i, en qualsevol cas, pel transcurs de tres anys des del moment de la finalització de la suposada conducta prohibida.
+
+**Article 54. Procediment civil abreujat**
+
+Les accions judicials derivades de l’aplicació d’aquesta Llei, amb independència de la quantia econòmica, s’han de substanciar de conformitat amb les normes de procediment civil abreujat.
+
+**Article 55. Sancions accessòries**
+
+$40
+
+**Article 56. Funcions del Ministeri Fiscal**
+
+El Ministeri Fiscal pot intervenir en el control de les pràctiques prohibides en els títols I, II i III en els supòsits d’afectació de l’interès general, sense perjudici de les accions que puguin exercitar les persones legitimades en cada cas.
+
+**Article 57. Facultats del Ministeri Fiscal**
+
+1. Per dur a terme les funcions esmentades en l’article anterior, el Ministeri Fiscal disposa de les facultats que li atribueixi la normativa que el regula vigent en cada moment.
+2. En el marc de les funcions descrites en l’apartat anterior, el Ministeri Fiscal pot investigar les conductes prohibides pels títols I, II i III. A aquest efecte pot requerir informació a les empreses, a les administracions i als particulars, que estan obligats a cooperar amb la investigació.
+3. El Ministeri Fiscal pot iniciar d’ofici o a instància d’una tercera persona les accions previstes a l’article 50.a), b) i c).
+
+**Article 58. Representació del Principat d’Andorra davant els fòrums internacionals en matèria de competència**
+
+Correspon al ministeri competent en matèria d’economia la representació del Principat d’Andorra en el marc dels fòrums internacionals en matèria de competència.

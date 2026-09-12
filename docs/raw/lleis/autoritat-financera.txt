@@ -1,0 +1,399 @@
+# Llei de l'Autoritat Financera Andorrana (Llei 10/2013)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/autoritat-financera
+Articles: 81 · versions consolidades: 17
+Instantania del consolidat: 2026-09-12T05:30:05.359568Z
+
+---
+
+#### Capítol primer. Naturalesa, objecte i funcions
+
+##### Secció primera. Disposicions generals
+
+**Article 1. Naturalesa i règim jurídic**
+
+L’Autoritat Financera Andorrana (d’ara en endavant, AFA) és una entitat de dret públic amb patrimoni propi, personalitat jurídica pròpia i plena capacitat d’obrar públicament i privada, amb independència de l’Administració general, per desenvolupar les funcions que li són atribuïdes d’acord amb l’establert en aquesta Llei, en la Llei 12/2017, del 22 de juny, d’ordenació i supervisió d’assegurances i reassegurances del Principat d’Andorra i en la legislació vigent.
+En particular, l’AFA desenvolupa les funcions d’autoritat de control i de supervisió del sistema financer i del sistema assegurador i reassegurador del Principat d’Andorra.
+
+**Article 2. Seu social**
+
+La seu social de l’AFA s’estableix al territori del Principat d’Andorra.
+
+##### Secció segona. Missió, objectius, funcions i competències
+
+**Article 3. Missió i objectius en l’àmbit del sistema financer andorrà**
+
+1. L’AFA és l’autoritat del sistema financer andorrà.
+2. Els principals objectius de l’AFA són els següents:
+a) promoure i vetllar pel bon funcionament del sistema financer andorrà;b) vetllar per salvaguardar l’estabilitat i la reputació del sistema financer andorrà, promoure la confiança en aquest i contribuir a reduir el risc sistèmic derivat d’esdeveniments de crèdit de les pròpies entitats operatives del sistema financer i/o de les seves contrapartides;c) vetllar per una adequada protecció dels clients i inversors;d) promoure la competitivitat de la plaça financera andorrana a nivell nacional i internacional;e) contribuir a reduir el risc sistèmic derivat de la inestabilitat dels mercats en què operen les entitats operatives del sistema financer andorrà; if) realitzar les actuacions necessàries que requereix l’exercici de les seves funcions.
+3. La supervisió duta a terme per l’AFA no té com a finalitat garantir els interessos individuals de les entitats supervisades o dels supervisats o dels seus clients o tercers, sinó que té com a objectiu l’interès públic.
+4. L’AFA exerceix la supervisió en base consolidada sobre les entitats operatives del sistema financer i, per tant, exerceix la supervisió sobre les entitats operatives i els seus grups consolidables, incloent les societats financeres de cartera i les societats financeres mixtes de cartera, tal com es defineixen els incisos 55 i 57 de l’apartat 1 de l’article 3, respectivament de la Llei de solvència, liquiditat i supervisió prudencial d’entitats bancàries i empreses d’inversió. L’AFA també exerceix la supervisió de les operacions significatives d’una entitat operativa del sistema financer amb la seva societat mixta de cartera matriu, tal com es defineix en l’incís 58, apartat 1 de l’article 3 de la Llei de solvència, liquiditat i supervisió prudencial d’entitats bancàries i empreses d’inversió, així com de les que tingui amb les filials d’aquesta societat mixta de cartera.
+5. A més dels anteriors, també estan sotmesos a la supervisió de l’AFA:
+a) els organismes d’inversió col·lectiva (OIC);b) els mercats on es negocien instruments financers situats a Andorra o que operin a Andorra i que requereixin o puguin requerir una autorització de l’AFA per operar a Andorra.
+6. L’AFA també exerceix com a autoritat competent i supervisora sobre altres persones, físiques o jurídiques, fora del sistema financer, en el marc de l’exercici de les funcions que li són atribuïdes d’acord amb la legislació vigent.
+7. S’entén per entitats supervisades les entitats, persones i/o organismes esmentats als apartats 4 i 5. Així mateix, s’entendrà com a supervisats les entitats supervisades i les altres persones referides a l’apartat 6.
+8. En l’exercici de les seves funcions, l’AFA supervisa i controla les entitats per vetllar pel compliment, per part d’aquestes, de la legislació vigent i, en especial, respecte a la normativa específica del sector, i actua preventivament en constatar indicis d’irregularitats per part dels seus supervisats, excepte quan la legislació vigent atribueix determinades facultats a altres autoritats administratives. Les sancions administratives i altres actuacions disciplinàries, han de ser eficaces, proporcionades i dissuasives.
+
+**Article 3 bis. Missió i objectius de la supervisió del sector assegurador i reassegurador**
+
+Els objectius de l’AFA en el sector assegurador i reassegurador són els que preveu la Llei 12/2017, del 22 de juny, d’ordenació i supervisió d’assegurances i reassegurances del Principat d’Andorra, entre d’altres:
+a) promoure i vetllar pel bon funcionament del sistema assegurador i reassegurador andorrà;b) vetllar per la salvaguarda de l’estabilitat i la reputació del sistema assegurador i reassegurador andorrà i promoure’n la confiança;c) garantir-ne la transparència, promoure el desenvolupament ordenat del mercat de les assegurances i reassegurances i tutelar els drets dels prenedors, els assegurats i els beneficiaris;d) promoure la competitivitat de la plaça asseguradora i reasseguradora andorrana a l’àmbit nacional i internacional.e) realitzar les actuacions necessàries que requereix l’exercici de les seves funcions.
+
+**Article 4. Funcions i competències en l’àmbit del sistema financer andorrà**
+
+$24
+
+**Article 4 bis. Potestats de control i supervisió, i criteris d’exercici en l’àmbit de la supervisió de les assegurances i reassegurances**
+
+Les potestats de control i supervisió en el sector assegurador i reassegurador i els criteris del seu exercici són els que li encomanen els articles 8 a 12 i concordants de la Llei 12/2017, del 22 de juny, d’ordenació i supervisió d’assegurances i reassegurances del Principat d’Andorra.
+
+**Article 4 quater. Procediment de comunicació de possibles infraccions**
+
+$32
+
+**Article 4 quinquies. Facultats de control i supervisió, i criteris d’exercici en l’àmbit de la supervisió dels serveis vinculats als actius digitals**
+
+1. Les potestats de control i supervisió en el sector dels serveis dels actius digitals són les que se li encomanen a la Llei 24/2022, del 30 de juny, de la representació digital d’actius mitjançant l’ús de la criptografia i de la tecnologia de llibre registre distribuït i blockchain.
+2. L’AFA pot emetre, entre d’altres, comunicats tècnics, comunicacions i/o recomanacions, per desenvolupar la reglamentació i normes tècniques instrumentals en relació amb els serveis vinculats als actius digitals.
+
+**Article 4 ter. Facultats de control i supervisió, i criteris d’exercici en l’àmbit de la supervisió dels serveis de finançament participatiu**
+
+Les potestats de control i supervisió en el sector dels serveis de finançament participatiu són les que s’encomanen a la Llei 42/2022, de l'1 de desembre, d’economia digital, l’emprenedoria i la innovació.
+
+**Article 5. Marc de comunicació de l’AFA**
+
+$38
+
+**Article 6. Conservació de la documentació**
+
+L’AFA ha d’establir procediments apropiats de conservació de la informació vinculada a l’exercici de les seves funcions d’acord amb la política de conservació de la documentació i informació aprovada pel seu Consell d’Administració.
+
+#### Capítol segon. Organització, deure de secret i cooperació internacional
+
+##### Secció primera. Òrgans de govern i personal
+
+**Article 7. Òrgans de govern**
+
+1. Els òrgans de govern de l’AFA són el Consell d’Administració i la Direcció General.
+2. El Consell d’Administració, a iniciativa pròpia o a proposta del director general, pot delegar certes funcions a comitès o comissions sempre que aquestes formin part dels òrgans de govern de l’AFA.
+
+**Article 8. Règim contractual del personal**
+
+1. La relació professional existent entre cada empleat de l’AFA i l’AFA es regeix per la legislació laboral vigent.
+2. El director general de l’AFA fixa les condicions i les formalitats dels contractes d’acord amb les polítiques de gestió de persones i de remuneració aprovades pel Consell d’Administració de l’AFA.
+3. Sense perjudici de l’establert en la relació professional esmentada en el punt 1, el personal de l’AFA es regeix pel reglament intern del personal i ha de donar compliment en tot moment a les premisses establertes legalment i reglamentàriament així com al codi ètic i de conducta de l’AFA.
+
+**Article 9. Responsabilitat dels òrgans de govern de l’AFA i del seu personal**
+
+1. El Consell d’Administració de l’AFA, la Direcció General i el seu personal han de donar compliment en tot moment a les disposicions legals i reglamentàries que defineixin i regulin l’exercici de les seves funcions.
+2. Tot membre de l’AFA, entès com a membre del seu Consell d’Administració, de la seva Direcció General i del seu personal, és responsable de l’execució de les funcions que li són encomanades i ha de col·laborar amb la resta de membres de l’AFA amb l’objectiu d’oferir un servei adequat, optimitzant els recursos i els processos emprats.
+3. Els membres dels òrgans de govern de l’AFA i el seu personal només tenen responsabilitat extracontractual en l’exercici de les seves funcions en el cas de danys causats per accions o omissions, produïts amb dol o bé produïts per negligència greu, que els siguin directament imputables en els termes dels articles del 58 al 64 del Codi de l’Administració de 29 de març del 1989.
+
+##### Secció segona. El Consell d’Administració
+
+**Article 10. Composició, nomenament, durada i remuneració**
+
+$3d
+
+**Article 11. Requisits i incompatibilitats**
+
+$43
+
+**Article 12. Cessament i separació**
+
+1. El president, el vicepresident i els vocals del Consell d’Administració cessen en el càrrec per qualsevol de les causes següents:
+a. per finalització del període per al qual van ser nomenats;b. per renúncia, presentada per escrit davant de qui els va nomenar;c. per defunció;d. per incapacitat declarada per resolució judicial ferma;e. per condemna per la comissió d’un delicte dels referits a l’article anterior;f. per absència injustificada a les reunions del Consell d’Administració més de dues vegades en un any natural.
+2. El Consell General a iniciativa pròpia o a proposta del Govern pot, amb el vot favorable de dues terceres parts dels seus membres, cessar o separar el president, el vicepresident o els vocals del Consell d’Administració en cas que deixin de reunir els requisits necessaris per a l’exercici del càrrec, incorrin en qualsevol incompatibilitat sobrevinguda o cometin un incompliment greu de les obligacions del càrrec.
+
+**Article 13. Funcionament**
+
+$4b
+
+**Article 14. Competències**
+
+$4f
+
+##### Secció tercera. La Direcció General
+
+**Article 15. Composició, nomenament, durada i remuneració**
+
+$55
+
+**Article 16. Requisits i incompatibilitats**
+
+$59
+
+**Article 17. Cessament i separació**
+
+$5d
+
+**Article 18. Competències**
+
+$63
+
+##### Secció quarta. Deure de secret i cooperació internacional
+
+**Article 19. Deure de secret**
+
+$69
+
+**Article 19 bis. Deure de confidencialitat i reserva en el sector assegurador i reassegurador**
+
+En relació amb el deure de confidencialitat i reserva en el sector assegurador i reassegurador, s’aplica el que disposa l’article 14 de la Llei 12/2017, del 22 de juny, d’ordenació i supervisió d’assegurances i reassegurances del Principat d’Andorra.
+
+**Article 20. Cooperació internacional**
+
+$6f
+
+**Article 20 bis. Mecanismes de cooperació interna i transfronterera en l’àmbit d’assegurances i reassegurances**
+
+En relació amb els mecanismes de cooperació interna i transfronterera en l’àmbit d’assegurances i reassegurances, s’aplica el que disposa l’article 13 de la Llei 12/2017, del 22 de juny, d’ordenació i supervisió d’assegurances i reassegurances del Principat d’Andorra.
+
+**Article 20 ter. Col·legis de supervisors**
+
+L’AFA, com a supervisor en base consolidada, ha de vetllar, quan sigui convenient, per establir col·legis de supervisors que contribueixin a fomentar la coordinació i cooperació adequada amb les autoritats de supervisió de tercers països.
+
+#### Capítol tercer. Situació i gestió patrimonial
+
+**Article 21. Fons propis**
+
+1. Els fons propis estan formats pel capital de dotació de 12.020.242,09 euros posat a disposició de l’AFA per part de Govern en ser creat i per les reserves dotades amb càrrec als resultats positius obtinguts a comptar des de la seva creació.
+2. En cas que l’AFA generi resultats positius, aquests s’aplicaran a la constitució d’una reserva que només podrà ser utilitzada per a la cobertura d’eventuals pèrdues de l’AFA.
+3. En cas de liquidació de l’AFA, la totalitat del seu patrimoni correspon a l’Administració general.
+
+**Article 22. Pressupost**
+
+1. La Direcció General elabora la proposta de pressupost de funcionament i inversions de l’AFA.
+2. El director general presenta la proposta de pressupost de l’AFA al Consell d’Administració per a la seva aprovació.
+3. El director general ha de trametre el pressupost de l’AFA aprovat pel Consell d’Administració al ministeri encarregat de les finances amb l’antelació suficient perquè aquest pugui ser integrat en una secció específica del projecte de llei del pressupost general per ser tramès al Consell General per a la seva aprovació.
+4. El Govern no pot modificar dita proposta de pressupost, i les observacions que pugui formular-hi, seran considerades pel Consell d’Administració de l’AFA, el qual, si ho considera oportú, les tindrà en compte i formularà una nova proposta de pressupost.
+5. El pressupost de l’AFA queda sotmès a la Llei general de les finances públiques i a les disposicions concordants i de desplegament.
+
+**Article 23. Finançament**
+
+$74
+
+**Article 24. Gestió i administració**
+
+$7a
+
+**Article 25. Règim impositiu**
+
+S’exempta l’AFA del pagament de qualsevol tipus d’impost, tret de l’Impost General Indirecte (IGI).
+
+**Article 26. Formulació i aprovació de comptes anuals i liquidació pressupostària**
+
+$80
+
+**Article 27. Control financer i comptable**
+
+1. L’AFA està subjecte al control financer d’acord amb el que estableix la Llei general de les finances públiques i amb les adaptacions necessàries per a l’exercici de la seva activitat.
+2. L’AFA està subjecte a la fiscalització externa del Tribunal de Comptes. Aquesta fiscalització no implicarà cap tipus d’ingerència per part del Tribunal de Comptes en les facultats administratives de l’AFA.
+
+#### Capítol quart. Taxes per la prestació de servei en l’àmbit financer per part de l’AFA
+
+**Article 28. Taxa d’autorització per a la creació d’una nova entitat operativa del sistema financer a Andorra**
+
+$84
+
+**Article 28 bis. Taxa de notificació dels serveis de pagament relatius als establerts als punts k) i l) de l’article 2.3 de la Llei 8/2018, del 17 de maig, dels serveis de pagament i el diner electrònic**
+
+$8c
+
+**Article 29. Taxa d’autorització per a la creació i/o modificació d’un organisme d’inversió col·lectiva (OIC) de dret andorrà**
+
+$8e
+
+**Article 30. Taxa d’inscripció per a la creació, baixa i/o modificació d’un organisme d’inversió col·lectiva (OIC) de dret andorrà**
+
+$92
+
+**Article 31. Taxa d’inscripció de l’alta per a la distribució a Andorra d’un organisme d’inversió col·lectiva (OIC) de dret estranger**
+
+$96
+
+**Article 31 bis. Taxa anual per a la distribució a Andorra dels organismes d’inversió col·lectiva (OIC) de dret estranger**
+
+$9a
+
+**Article 32. Taxa anual de supervisió de les entitats bancàries andorranes**
+
+$9e
+
+**Article 32 bis. Taxa anual de supervisió de les societats financeres de cartera i societats financeres mixtes de cartera**
+
+$a4
+
+**Article 33. Taxa anual de supervisió de les entitats financeres d’inversió andorranes**
+
+$a6
+
+**Article 34. Taxa anual de supervisió de les societats gestores d’organismes d’inversió col·lectiva (SGOIC) andorranes**
+
+$aa
+
+**Article 35. Taxa anual de supervisió dels organismes d’inversió col·lectiva (OIC) de dret andorrà**
+
+$ae
+
+**Article 35 bis. Sense contingut**
+
+Sense contingut
+
+**Article 36. Taxa anual de supervisió de les entitats financeres -no bancàries- de crèdit especialitzat (EFCE) andorranes**
+
+$b2
+
+**Article 37. Taxa anual de supervisió en base consolidada de les entitats financeres i de les societats gestores d’organismes d’inversió col·lectiva**
+
+$b6
+
+**Article 38. Taxa de supervisió anual per a les entitats de pagament andorranes**
+
+$ba
+
+**Article 39. Taxa de supervisió anual de les entitats de diner electrònic andorranes**
+
+$c2
+
+**Article 40. Taxes per als processos d’autorització prèvia i/o d’inscripció de l’AFA**
+
+$c8
+
+#### Capítol quart. Taxes per la prestació de serveis per part de l’INAF
+
+**Disposició transitòria**
+
+La taxa anual de supervisió que, d’acord amb l’establert al capítol quart d’aquesta Llei, han de satisfer les entitats operatives del sistema financer i els organismes d’inversió col·lectiva de dret andorrà s’ha d’aplicar per als exercicis anuals que s’iniciïn a partir de l’entrada en vigor de la present Llei.
+
+**Disposició derogatòria**
+
+Queden derogades la Llei 14/2003, del 23 d’octubre, de l’Institut Nacional Andorrà de Finances; l’article 45 de la Llei 14/2010, del 13 de maig, de règim jurídic de les entitats bancàries i de règim administratiu bàsic de les entitats operatives del sistema financer; el Decret del 24 de novembre del 2010 pel qual s’aprova el reglament que desenvolupa l’apartat 5 de l’article 45 de la Llei 14/2010; l’article 53 de la Llei 10/2008, del 12 de juny, de regulació dels organismes d’inversió col·lectiva de dret andorrà; la disposició addicional quarta de la Llei 35/2010, del 3 de juny, de règim d’autorització per a la creació de noves entitats operatives del sistema financer andorrà; l’article 22 de la Llei de regulació dels criteris de solvència i liquiditat de les entitats financeres del 29 de febrer del 1996, així com qualsevol altra disposició de rang igual o inferior que es contradigui amb el que estableix la present Llei.
+
+**Disposició final primera**
+
+$cc
+
+**Disposició final segona**
+
+$ce
+
+**Disposició final tercera**
+
+$d0
+
+**Disposició final quarta**
+
+$d2
+
+**Disposició final cinquena**
+
+Es modifica la lletra c) de l’apartat 2 de l’article 10, de la Llei 1/2011, del 2 de febrer, de creació d’un sistema de garantia de dipòsits per a les entitats bancàries, que queda redactat com segueix:
+“c) Calcular anualment abans del 31 de maig, segons les dades sobre dipòsits coberts corresponents als estats financers anyals auditats de cada membre del Sistema, l’import de la reserva en garantia que ha de mantenir cada membre i les aportacions que han de realitzar al Fons.”
+
+**Disposició final sisena**
+
+S’encarrega al Govern que, en el termini màxim de sis mesos a partir de la data d’entrada en vigor d’aquesta Llei, publiqui al Butlletí Oficial del Principat d’Andorra, mitjançant el decret corresponent, el text refós de l’articulat i de les disposicions complementàries de les lleis següents:
+- Llei de regulació de reserves en garantia de dipòsits i d’altres obligacions operacionals a mantenir i dipositar per entitats enquadrades en el sistema financer, de l’11 de maig de 1995.- Llei de regulació dels criteris de solvència i de liquiditat de les entitats financeres, del 29 de febrer de 1996, modificada el 12 de desembre de 1996.- Llei de regulació del règim disciplinari del sistema financer, del 27 de novembre de 1997.- Llei 35/2010 del 3 de juny, de règim d’autorització per a la creació de noves entitats operatives del sistema financer andorrà.
+
+**Disposició final setena**
+
+Aquesta Llei entra en vigor l’endemà de ser publicada al Butlletí Oficial del Principat d’Andorra.
+Casa de la Vall, 23 de maig del 2013
+Vicenç Mateu ZamoraSíndic General
+Nosaltres els coprínceps la sancionem i promulguem i n’ordenem la publicació en el Butlletí Oficial del Principat d’Andorra.
+François HollandePresident de la República FrancesaCopríncep d’AndorraJoan Enric Vives SicíliaBisbe d’UrgellCopríncep d’Andorra
+
+#### Capítol cinquè. Taxes per la prestació de serveis en l’àmbit de la supervisió d’assegurances i reassegurances
+
+**Article 41. Taxa per la sol·licitud d’autorització d’inici d’activitat d’una entitat asseguradora o reasseguradora resident al Principat d’Andorra**
+
+$d4
+
+**Article 42. Taxa per la sol·licitud d’autorització per a l’establiment al Principat d’Andorra d’una delegació d’una entitat asseguradora o reasseguradora no resident**
+
+$d8
+
+**Article 43. Taxa per la sol·licitud d’autorització de determinades operacions relacionades amb l’activitat de les entitats asseguradores i reasseguradores al Principat d’Andorra**
+
+$dc
+
+**Article 44. Taxa per la sol·licitud de la declaració d’equivalència de l’article 29.5 de la Llei 12/2017, del 22 de juny, d’ordenació i supervisió d’assegurances i reassegurances del Principat d’Andorra**
+
+$e0
+
+**Article 45. Taxa per la sol·licitud d’autorització per a l’aplicació del règim simplificat a què es refereix l’article 42.5 de la Llei 12/2017, del 22 de juny, d’ordenació i supervisió d’assegurances i reassegurances del Principat d’Andorra**
+
+$e4
+
+**Article 45 bis. Taxa per la sol·licitud d’autorització per a l’aplicació del règim de supervisió simplificada per a les delegacions al Principat d’Andorra de les companyies d’assegurances estrangeres que compleixin determinats requisits a què es refereix el Reglament, del 8 de maig del 2019, de desenvolupament de la Llei 12/2017, d’ordenació i supervisió d’assegurances i reassegurances del Principat d’Andorra.**
+
+$e8
+
+**Article 46. Taxa per la sol·licitud d’autorització per iniciar el procediment de dissolució i liquidació d’entitats asseguradores i reasseguradores**
+
+$ea
+
+**Article 47. Taxa per la inscripció al Registre de Mediadors de l’AFA**
+
+$ee
+
+**Article 48. Taxa anual de supervisió de l’activitat asseguradora de les entitats asseguradores i reasseguradores residents o de les delegacions d’entitats no residents**
+
+$f0
+
+#### Capítol 6. Taxes en matèria d’actius digitals
+
+**Article 49. Disposicions generals**
+
+$f4
+
+**Article 50. Taxa per a l’admissió dels actius digitals a negociació**
+
+$f6
+
+**Article 51. Taxa de negociació d’actius digitals**
+
+1. La base imposable és el valor de negociació en euros dels actius digitals que es transmetin per euros o per altres actius digitals.
+2. La quota de la taxa es determina multiplicant a la base imposable el tipus de gravamen.
+3. El tipus de gravamen és del zero coma dos per mil (0,2‰). Aquesta taxa es transferirà i es destinarà al compte de compensació de l’article 19 de la Llei 32/2014, del 27 de novembre, de sostenibilitat de les finances públiques i d’estabilitat pressupostària i fiscal, en tant no s’hagi creat un Fons sobirà andorrà per atendre altres finalitats.
+
+**Article 52. Taxa de verificació prèvia de l’expedient de sol·licitud d’inici d’activitat**
+
+$f8
+
+**Article 53. Taxa anual de continuació d’activitat**
+
+1. La taxa fixa per als veedors digitals registrats: 500 euros.
+2. La taxa fixa per als emissors d’actius digitals: 1.000 euros en tant que no s’amortitzin.
+3. La taxa fixa per als dipositaris de claus criptogràfiques: 1.000 euros per cada any natural d’activitat.
+4. La taxa fixa per als dipositaris d’actius digitals: 1.000 euros per cada any natural d’activitat.
+5. La taxa fixa per a les plataformes d’actius digitals: 1.000 euros per cada any natural d’activitat.
+
+**Article 54. Taxa anual de supervisió de l’activitat**
+
+$fa
+
+**Article 54 bis. Taxa per la sol·licitud d’autorització i/o inscripció de determinades operacions relacionades amb l’activitat dels participants vinculats als actius digitals**
+
+$fc
+
+#### Capítol setè. Taxes per la prestació de serveis en la supervisió en l’àmbit dels serveis de finançament participatiu d’empreses
+
+**Article 55. Taxa d’autorització de proveïdors de serveis de finançament participatiu**
+
+$fe
+
+**Article 56. Taxa anual de supervisió de l’activitat dels proveïdors de serveis de finançament participatiu**
+
+$100
+
+**Article 57. Taxa per la sol·licitud d’autorització i/o inscripció de determinades operacions relacionades amb l’activitat dels proveïdors de serveis de finançament participatiu**
+
+$102
+
+#### Capítol vuitè. Taxes per la prestació de serveis en l’àmbit de la dipositaria i l’administració de fons dipositats a l’AFA en aplicació de la legislació vigent
+
+**Article 58. Taxa anual de dipositaria i administració sobre diversos dipòsits efectuats a l’AFA en compliment de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració**
+
+$106

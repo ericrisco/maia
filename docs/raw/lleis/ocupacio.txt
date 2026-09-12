@@ -1,0 +1,286 @@
+# Llei d'ocupació (Llei 4/2019)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/ocupacio
+Articles: 53 · versions consolidades: 2
+Instantania del consolidat: 2026-09-12T05:30:11.384696Z
+
+---
+
+#### Capítol primer. Disposicions generals
+
+**Article 1. Política d’ocupació**
+
+1. La política d’ocupació del Principat d’Andorra comprèn el conjunt d’instruments, programes i organismes destinats a millorar l’ocupabilitat de la seva població i a afavorir la consecució de la plena ocupació, mitjançant la cobertura de les necessitats de contractació de les empreses.
+2. La política d’ocupació té com a finalitat promoure el desenvolupament del dret a l’ocupació digna, estable i de qualitat, i afavorir la configuració d’un mercat de treball que contribueixi de manera eficient a garantir l’ocupabilitat de les persones, cobrir les necessitats de les persones assalariades que s’adaptin als requeriments de les empreses, i afavorir la cohesió social i territorial.
+3. La política d’ocupació s’ha de desenvolupar en el marc de les orientacions de la política econòmica i social previstes en la planificació estratègica del Govern.
+
+**Article 2. Conceptes**
+
+Als efectes d’aquesta Llei, s’entén per:
+a) Acord d’activació: document signat entre una persona desocupada i el Servei d’Ocupació, en què s’estableix l’Itinerari personal d’ocupació.b) Carta de serveis: document que recull la informació de les prestacions, els drets i els serveis que ofereix el Sistema d’ocupació a la ciutadania, i dels compromisos assumits pel Govern.c) Cartera de serveis: conjunt de serveis previstos per a les persones beneficiàries del Servei d’Ocupació i condicions d’accés a aquests serveis.d) Consell Econòmic i Social: òrgan de participació de caràcter consultiu i d’assessorament en matèria socioeconòmica, laboral i ocupacional regulat a la Llei qualificada d’acció sindical i patronal.e) Demandant d’ocupació en millora: persona que en el moment d’inscriure la seva demanda de treball al Servei d’Ocupació es troba ocupada i formula la demanda amb la finalitat de trobar una oferta més adequada als seus interessos.f) Demandant d’ocupació en recerca: persona inscrita al Servei d’Ocupació a la recerca de feina i que procedeix d’una situació d’inactivitat o de pèrdua d’un treball anterior.g) Demandant de serveis en situació d’ocupació: persona ocupada que rep el suport del Servei d’Ocupació durant el període que s’estimi convenient, en funció de les necessitats d’aquesta persona.h) Demandant de serveis en situació de baixa mèdica prolongada: persona que acredita un període mínim de sis mesos en situació d’incapacitat temporal i un estat de salut compatible amb el seguiment de programes de qualificació professional o similars.i) Desocupació involuntària: situació de la persona que, tot i voler i poder treballar, perd la feina totalment de forma aliena a la seva voluntat.j) Dret subjectiu a l’ocupabilitat: dret de les persones demandants d’ocupació a comptar al llarg de tota la vida activa amb una Cartera de serveis que inclogui com a mínim l’orientació, la formació, la intermediació i l’acompanyament adequats a les característiques i les necessitats de cada persona, i que les ajudi a millorar l’ocupabilitat.k) Entitats prestadores de serveis d’ocupació: entitats d’iniciativa cívica i empreses o entitats de formació i agències de selecció i recol·locació que estan habilitades pel Govern per prestar serveis d’ocupació a les persones usuàries del Servei d’Ocupació.l) Estratègia andorrana per a l’ocupació: marc normatiu plurianual per coordinar i executar les polítiques d’ocupació.m) Intermediació laboral: activitat desenvolupada amb la finalitat de posar en contacte ofertes de treball formulades per les empreses amb les demandes presentades per les persones. Inclou també els processos de recol·locació de persones assalariades afectades per reestructuracions.n) Itinerari personal d’ocupació: element vertebrador de l’acord d’activació, en el marc del qual, a partir d’una entrevista individualitzada amb els tècnics del Servei d’Ocupació, s’estableixen accions de millora de l’ocupabilitat i un calendari d’execució corresponent.o) Mercat de treball inclusiu: espai d’intercanvi d’ofertes i demandes de treball en què les empreses són accessibles i s’ajusten a les característiques i les necessitats de les persones demandants d’ocupació.p) Observatori de les polítiques socials: instrument operatiu del Govern que ofereix dades per analitzar, elaborar i facilitar informació relacionada amb el mercat de treball i les polítiques socials. Aquest observatori ha de disposar d’una secció específica amb informació i dades sobre ocupació.q) Oferent d’ocupació: les empreses, les entitats cíviques, l’Administració general, l’Administració de justícia, els comuns, les entitats parapúbliques o les societats públiques que presenten ofertes de treball al Servei d’Ocupació o que li sol·liciten qualsevol altre servei establert en aquesta Llei o a les normes que la desenvolupen.r) Orientació professional: conjunt d’accions i mesures d’informació, acompanyament, motivació i assessorament que faciliten a les persones assalariades o desocupades una gestió coherent de la seva trajectòria formativa, de recerca d’ocupació o d’emprenedoria.s) Persona en situació de vulnerabilitat: persones que per circumstàncies personals, econòmiques i socials troben dificultats especials per accedir al treball o mantenir-lo. La situació de vulnerabilitat s’acredita mitjançant un informe d’un professional competent del ministeri competent en matèria d’afers socials, del Servei d’Ocupació o del Servei de Salut Mental.t) Pla de desenvolupament de les polítiques d’ocupació: instrument de planificació i programació de les accions del Servei d’Ocupació que concreta els objectius, els serveis i els programes destinats a fomentar l’ocupació.u) Plena ocupació: adequació de les necessitats dels demandants de feina i dels oferents d’ocupació mitjançant polítiques econòmiques, socials i laborals que permeten afavorir l’objectiu de la màxima ocupació possible.v) Polítiques actives d’ocupació: conjunt de serveis i programes adreçats a millorar les possibilitats d’accés i de manteniment de l’ocupació i a donar suport a la promoció i la formació professional de les persones ja ocupades. Aquestes polítiques fomenten l’ocupació estable i de qualitat i incentiven l’esperit empresarial i d’economia social.w) Qualificació professional: especificació oficial de competència apropiada per a la producció i l’ocupació que acredita la competència als posseïdors i permet l’accés a l’àmbit professional corresponent.x) Servei d’Ocupació: conjunt d’estructures, entitats, mesures i accions necessàries per promoure la política d’ocupació.y) Sistema d’ocupació: conjunt d’instruments, programes i organismes destinats a millorar l’ocupabilitat de la població i a afavorir la consecució de la plena ocupació. El Sistema d’ocupació comprèn el Servei d’Ocupació, el Consell Econòmic i Social, l’Observatori de les polítiques socials i el conjunt restant d’entitats públiques i privades que, amb finançament públic, presten serveis i desenvolupen programes en el marc de l’Estratègia andorrana per a l’ocupació i del Pla de desenvolupament de les polítiques d’ocupació.
+
+**Article 3. Objecte de la Llei**
+
+$1e
+
+**Article 4. Principis rectors**
+
+$20
+
+**Article 5. Planificació, coordinació i execució de les polítiques d’ocupació**
+
+1. La competència sobre la política d’ocupació correspon al Govern a través del ministeri competent en aquesta matèria.
+2. La planificació i l’execució de la política d’ocupació correspon al ministeri competent en matèria d’ocupació. En la posada en marxa d’aquesta política cal comptar, d’altra banda, amb la col·laboració dels agents socials.
+3. Els instruments estratègics i operatius del Servei d’Ocupació han de garantir:
+a) El tractament individualitzat de la persona usuària mitjançant un expedient únic i comú a tot el Sistema d’ocupació que integri la informació personal i professional relacionada amb les polítiques d’ocupació, i també les prestacions de les quals pot ser beneficiària, amb respecte de la normativa en matèria de protecció de dades de caràcter personal.b) L’existència d’un sistema d’informació comú, transparent i accessible per facilitar totes les actuacions que tendeixin a la millora del teixit productiu i de l’ocupabilitat de les persones que poden treballar.
+
+**Article 6. Instruments estratègics**
+
+1. Els instruments estratègics que defineixen el marc d’actuació i la concreció de les polítiques ocupacionals són l’Estratègia andorrana per a l’ocupació i el Pla de desenvolupament de les polítiques d’ocupació.
+2. Correspon al Govern l’aprovació de l’Estratègia andorrana per a l’ocupació, i al ministeri competent en matèria d’ocupació l’adopció del Pla de desenvolupament de les polítiques d’ocupació.
+3. A més de l’Estratègia andorrana per a l’ocupació i del Pla de desenvolupament de les polítiques d’ocupació, també són instruments estratègics per planificar les polítiques d’ocupació el Pla general de la formació professional i les estratègies, els plans i els instruments de planificació territorial derivats de la concertació territorial.
+4. Els instruments estratègics han de ser d’accés públic, d’acord amb la normativa sobre transparència i accés a la informació pública.
+
+#### Capítol segon. Cartera de serveis
+
+**Article 7. Objecte, contingut i regulació de la Cartera de serveis**
+
+1. La definició, actualització i execució de la Cartera de serveis pertany al Servei d’Ocupació.
+2. La Cartera de serveis recull el conjunt dels serveis previstos i regula els requisits de les persones, les empreses i les altres entitats beneficiàries, així com les condicions d’accés al Servei d’Ocupació. Aquest conjunt d’elements s’articula en l’Itinerari personal d’ocupació, que es configura com un dret del qual disposen les persones beneficiàries i com una obligació per al Servei d’Ocupació.
+3. La Cartera de serveis es determina reglamentàriament.
+4. L’actualització de la Cartera de serveis es duu a terme a través d’una avaluació periòdica del cost, l’eficàcia, l’eficiència i la satisfacció de les persones usuàries.
+
+**Article 8. Criteris bàsics de la Cartera de serveis**
+
+$22
+
+**Article 9. Entitats prestadores dels serveis i modalitats de la prestació**
+
+$24
+
+**Article 10. Contingut de la Cartera de serveis**
+
+Es troben inclosos a la Cartera de serveis, com a contingut bàsic, els serveis següents:
+a) Servei d’informació i registre.b) Servei d’orientació professional.c) Servei d’assessorament per a l’autoocupació i la creació d’empreses.d) Servei de millora de la qualificació professional.e) Servei d’intermediació per a persones i empreses.f) Accés a les dades de l’Observatori de les polítiques socials.g) Altres serveis que es puguin desenvolupar reglamentàriament.
+
+#### Capítol tercer. Usuaris i entitats del Sistema d’ocupació
+
+**Article 11. Usuaris del Servei d’Ocupació**
+
+$26
+
+**Article 12. Drets dels usuaris del Servei d’Ocupació**
+
+$28
+
+**Article 13. Obligacions dels usuaris del Servei d’Ocupació**
+
+1. Les persones usuàries del Servei d’Ocupació han de col·laborar-hi facilitant en tot moment les dades, la documentació i la informació que se’ls pugui sol·licitar. Així mateix, estan obligades a presentar-se davant del Servei d’Ocupació quan siguin requerides en el marc dels programes i serveis dels quals siguin beneficiàries.
+2. Les empreses i altres entitats usuàries del Servei d’Ocupació estan obligades, a més, a formular les ofertes d’ocupació de manera clara i neutra, sense incórrer en cap contingut discriminatori, i a complir amb les exigències addicionals de contingut que s’estableixin reglamentàriament.
+
+**Article 14. Drets de les entitats prestadores de servei al Servei d’Ocupació**
+
+Les entitats prestadores de servei al Servei d’Ocupació gaudeixen dels drets següents:
+a) Ser informats de forma general i específica sobre la Cartera de serveis.
+b) Accedir als instruments operatius del Servei d’Ocupació, tot respectant les limitacions previstes a la normativa en matèria de protecció de dades de caràcter personal.
+c) Participar en el desenvolupament i l’execució de les polítiques d’ocupació en el marc de les previsions de l’Estratègia andorrana per a l’ocupació.
+
+**Article 15. Obligacions de les entitats prestadores de servei al Servei d’Ocupació**
+
+Les entitats prestadores de servei al Servei d’Ocupació han de complir amb les obligacions següents:
+a) Actuar sota els principis i les polítiques del Servei d’Ocupació.b) Dotar-se de sistemes de seguiment d’auditoria i de control que garanteixin la verificació de l’eficiència i l’eficàcia en la seva actuació en matèria d’ocupació.c) Facilitar tota la informació sobre la seva activitat que els requereixi el Servei d’Ocupació.d) Assegurar l’eficàcia dels drets dels usuaris que utilitzin els seus serveis. De manera especial, han de vetllar pel respecte de la normativa en matèria de protecció de dades de caràcter personal i del dret a la no-discriminació dels usuaris.
+
+#### Capítol quart. Polítiques actives d’ocupació
+
+##### Secció primera. Disposicions generals
+
+**Article 16. Concepte de polítiques actives d’ocupació**
+
+S’entén per polítiques actives d’ocupació el conjunt de serveis i programes d’orientació, ocupació i qualificació adreçats a les finalitats següents:
+a) Millorar les possibilitats d’accés al treball per compte aliè o autònom de les persones en situació de desocupació.b) Mantenir l’ocupació i el suport a la promoció i la formació ocupacional de les persones ja ocupades.c) Afavorir la contractació dels perfils professionals més adequats d’acord amb les necessitats i els objectius de les empreses.d) Fomentar l’ocupació estable i de qualitat mitjançant la creació de llocs de treball per part del teixit empresarial andorrà.e) Incentivar l’esperit empresarial i l’economia social.
+
+**Article 17. Àmbits de les polítiques actives d’ocupació**
+
+Les polítiques actives d’ocupació abasten els àmbits següents:
+a) La intermediació laboral.b) L’orientació professional.c) La formació i la requalificació professionals.d) El foment de l’ocupació.e) El suport a la igualtat d’oportunitats en l’ocupació.f) El foment de l’autoocupació i de la creació d’empreses.g) El desenvolupament d’iniciatives per millorar l’ocupació en zones allunyades i d’altres, adaptades a les necessitats específiques de les parròquies, i la posada en marxa de projectes innovadors.h) L’assessorament a les empreses per millorar la qualitat de la contractació.i) Els altres àmbits que es puguin determinar reglamentàriament.
+
+##### Secció segona. Intermediació laboral
+
+**Article 18. Concepte d’intermediació laboral**
+
+1. S’entén per intermediació laboral l’activitat desenvolupada amb la finalitat de posar en contacte ofertes de treball formulades per les empreses i altres entitats, amb les demandes presentades per les persones assalariades o desocupades.
+2. En el procés d’intermediació laboral, el Servei d’Ocupació ha d’establir els mecanismes necessaris perquè hi hagi una comunicació específica, sistematitzada i habitual amb l’oferent d’ocupació.
+3. El concepte d’intermediació laboral inclou l’activitat destinada a la recol·locació de les persones assalariades afectades per processos de reestructuració quan aquesta recol·locació hagi estat pactada en els corresponents plans socials o programes de recol·locació.
+
+**Article 19. Agents d’intermediació laboral**
+
+1. Les tasques d’intermediació laboral són desenvolupades pel Servei d’Ocupació.
+2. No obstant el que preveu l’apartat 1 anterior, quan sigui necessari per a una adequada prestació del servei, es poden encomanar les funcions d’intermediació laboral a persones jurídiques andorranes, públiques o privades, amb capacitat i mitjans per dur a terme aquesta activitat, i que hagin estat acreditades i autoritzades degudament pel Govern, en els termes que s’estableixin reglamentàriament.
+3. El Govern pot establir acords de col·laboració amb serveis d’ocupació d’altres estats, i amb altres entitats públiques o privades estrangeres, per facilitar l’accés a demandes i ofertes de treball d’interès per al mercat de treball andorrà, tot respectant, quan sigui el cas, els requeriments establerts per als tractats internacionals.
+
+**Article 20. Drets i obligacions dels usuaris del Servei d’Ocupació en l’àmbit de la intermediació**
+
+$2a
+
+##### Secció tercera. Altres polítiques actives d’ocupació
+
+**Article 21. Orientació professional**
+
+1. L’orientació professional consisteix en el conjunt d’accions i mesures d’informació, acompanyament, motivació i assessorament que permetin a les persones assalariades o desocupades la identificació de les seves capacitats i interessos per gestionar d’una manera coherent la seva trajectòria formativa, de recerca d’ocupació o de posada en marxa de projectes empresarials.
+2. El Servei d’Ocupació ha de formar en matèria d’igualtat de tracte i d’oportunitats entre dones i homes el personal que intervé en el procés d’orientació professional.
+
+**Article 22. Acord d’activació i desenvolupament de l’orientació professional**
+
+$2c
+
+**Article 23. Capacitació laboral**
+
+$2e
+
+**Article 24. Suport a la igualtat d’oportunitats en l’ocupació**
+
+$30
+
+**Article 25. Foment de l’ocupació**
+
+$33
+
+**Article 26. Promoció i suport a l’emprenedoria i l’autoocupació**
+
+$35
+
+**Article 27. Promoció del desenvolupament parroquial i de les zones allunyades**
+
+El Servei d’Ocupació ha de desenvolupar accions i mesures adreçades a generar ocupació, fomentar l’activitat empresarial i dinamitzar i impulsar el desenvolupament econòmic en entorns parroquials específics. De manera especial, procura, a través dels instruments pertinents, la posada en marxa de projectes innovadors per millorar el mercat de treball a les parròquies, i, en especial, a les zones allunyades dels nuclis de població principals.
+
+**Article 28. Assessorament a les empreses en la contractació**
+
+En el marc de les competències que té atribuïdes el Servei d’Ocupació, s’han de desenvolupar mesures a favor del teixit empresarial amb l’objectiu de millorar la contractació i, per tant, contribuir a elevar la qualitat de l’ocupació. Aquestes mesures han d’incloure eines d’informació, formació i assessorament que contribueixin a aquest objectiu, d’acord amb el que s’estableixi per la via reglamentària.
+
+#### Capítol cinquè. Servei d’Ocupació
+
+**Article 29. Definició del Servei d’Ocupació**
+
+El Servei d’Ocupació és l’organisme de l’Administració general que executa les mesures de la política d’ocupació establertes pel Govern, en el marc del que estableix aquesta Llei i les normes que la desenvolupen.
+
+**Article 30. Naturalesa del Servei d’Ocupació**
+
+1. El Servei d’Ocupació té caràcter d’estructura administrativa, i s’adscriu a l’àmbit administratiu que correspongui del ministeri competent en matèria d’ocupació.
+2. El Servei d’Ocupació ha de disposar dels recursos necessaris per exercir les funcions i complir amb les finalitats que té encomanades.
+3. El Servei d’Ocupació pot articular la prestació dels seus serveis i dels programes de polítiques actives d’ocupació a través de línies de subvenció en concurrència competitiva, contractes públics o convenis específics, d’acord amb la normativa en matèria de contractació pública i els requisits que s’estableixin reglamentàriament.
+
+**Article 31. Missió del Servei d’Ocupació**
+
+És missió del Servei d’Ocupació:
+a) Planificar, organitzar, gestionar i integrar el conjunt d’actuacions, serveis i programes ocupacionals per mantenir i fomentar l’ocupació estable i de qualitat, i l’autoocupació.b) Prevenir i reduir la desocupació, i oferir suport a les persones en situació de desocupació.c) Fomentar i garantir l’orientació professional i la readaptació professional permanent, la formació ocupacional i contínua, i la intermediació.d) Informar i assessorar les empreses en relació amb la situació del mercat laboral, les possibilitats de contractació i, en general, amb les polítiques de gestió dels recursos humans.
+
+**Article 32. Funcions del Servei d’Ocupació**
+
+$39
+
+**Article 33. Organització del Servei d’Ocupació**
+
+1. El ministre competent en matèria d’ocupació té les funcions següents, en relació amb el Servei d’Ocupació:
+a) Exercir les funcions directives i representatives d’àmbit institucional.b) Vetllar per l’acompliment dels objectius assignats al Servei d’Ocupació.c) Informar el Govern i el Consell General, si escau, de les actuacions dutes a terme pel Servei d’Ocupació.
+2. El director del departament encarregat de l’ocupació, al qual s’adscriu del Servei d’Ocupació, és un òrgan de caràcter unipersonal de representació ordinària que dirigeix, executa, coordina i planifica les activitats necessàries per al compliment de les finalitats i les funcions que el Servei d’Ocupació té atribuïdes. El nomenament i el cessament del director correspon al Govern, a proposta del ministeri competent en matèria d’ocupació.
+
+**Article 34. Estructura del Servei d’Ocupació**
+
+$3b
+
+**Article 35. Avaluació, seguiment i control del Servei d’Ocupació**
+
+$3d
+
+#### Capítol sisè. Règim sancionador
+
+##### Secció primera. Disposicions generals
+
+**Article 36. Definició d’infracció**
+
+1. Tenen la consideració d’infracció administrativa les accions o omissions tipificades en aquesta Llei. La comissió d’infraccions administratives pot donar lloc, quan finalitza el procediment administratiu sancionador, a la imposició de sancions pecuniàries o no pecuniàries.
+2. L’activitat sancionadora té com a objectiu reforçar la garantia del compliment de les obligacions previstes en aquesta Llei i en les normes que la desenvolupen.
+
+**Article 37. Procediment i òrgans competents en matèria sancionadora**
+
+1. El procediment conduent a la imposició de les sancions que regula aquesta Llei és instruït per un dels funcionaris o agents de l’Administració adscrits al Servei d’Ocupació. En el procediment es dona audiència a la persona o entitat interessada, i s’acompleixen les garanties establertes al Codi de l’Administració i al Reglament regulador del procediment sancionador.
+2. La imposició de les sancions que regula aquesta Llei correspon al ministre competent en matèria d’ocupació o a la persona en qui delegui aquesta funció.
+
+**Article 38. Subjectes responsables**
+
+Són responsables de les infraccions que preveu aquesta Llei els subjectes següents:
+a) En matèria de polítiques d’ocupació són responsables les empreses i els seus representants legals, les entitats col·laboradores i els seus representants legals, i els treballadors autònoms que en són beneficiaris.b) Les persones assalariades o desocupades són responsables per les infraccions comeses en matèria d’intermediació.c) A més a més, també en són responsables les terceres persones que participin de manera directa en els fets que siguin constitutius d’infracció.
+
+**Article 39. Concurrència d’actuacions amb la jurisdicció penal**
+
+1. En els supòsits en què la conducta objecte d’una de les infraccions que regula aquesta Llei pugui ser constitutiva d’una infracció penal, l’Administració ha d’iniciar les accions penals que escaiguin i, al mateix temps, ha de suspendre la tramitació del procediment sancionador, la qual cosa interromp el còmput dels terminis de prescripció i caducitat, fins que recaigui una resolució ferma en l’àmbit penal.
+2. En qualsevol cas, la declaració de fets provats que pugui fer el tribunal penal és vinculant per a l’òrgan disciplinari.
+
+**Article 40. Prescripció de les infraccions i les sancions**
+
+1. Les infraccions molt greus prescriuen al cap de cinc anys; les greus, al cap de tres anys; i les lleus, al cap d’un any. El termini de prescripció es comença a comptar des del darrer dia en el qual s’ha comès la infracció.
+2. Les sancions imposades per les infraccions molt greus prescriuen al cap de tres anys; les imposades per infraccions greus, al cap de dos anys; i les imposades per infraccions lleus, al cap d’un any. El termini de prescripció es comença a comptar des de l’endemà del dia en què ha esdevingut ferma la resolució per la qual s’imposa la sanció.
+
+**Article 41. Extinció de la responsabilitat**
+
+La responsabilitat derivada de les infraccions s’extingeix pel pagament o el compliment de la sanció; per la prescripció de la infracció o la sanció, i per la defunció de la persona interessada.
+
+##### Secció segona. Infraccions i sancions
+
+**Article 42. Infraccions de les persones assalariades o desocupades en matèria d’intermediació laboral**
+
+1. Constitueixen infraccions lleus:
+a) No notificar al Servei d’Ocupació qualsevol canvi objectiu en el curriculum vitae, o no comunicar qualsevol canvi que afecti la situació laboral.b) No presentar-se a les entrevistes concertades amb el Servei d’Ocupació o amb els oferents d’ocupació.
+2. Constitueixen infraccions greus:
+a) La manca de compareixença a més d’una entrevista concertada amb els oferents d’ocupació sense acreditar documentalment una causa justa per fer-ho.b) El refús de més d’una oferta d’ocupació adequada al perfil professional i intermediada pel Servei d’Ocupació.c) El refús injustificat d’efectuar qualsevol de les altres accions previstes en l’acord d’activació.
+
+**Article 43. Infracció de les persones assalariades o desocupades en matèria de formació ocupacional**
+
+Constitueix una infracció greu l’abandonament o l’assistència a un nombre insuficient de sessions corresponents a accions formatives del Servei d’Ocupació, sense causa justificada.
+
+**Article 44. Infraccions de les empreses en matèria d’intermediació laboral**
+
+1. Constitueixen infraccions lleus:
+a) No efectuar l’entrevista laboral intermediada pel Servei d’Ocupació sense haver-li comunicat aquest fet juntament amb les circumstàncies que, si escau, ho justifiquin.b) No comunicar al Servei d’Ocupació les contractacions efectuades, en el marc de les ofertes que hagi intermediat, o no informar dels motius que justifiquin la no contractació, dins el termini previst reglamentàriament.
+2. Constitueix una infracció greu la presentació d’ofertes de treball discriminatòries per raó de naixement, raça, sexe, orientació sexual, origen, religió, opinió, discapacitat o qualsevol altra condició personal o social, així com d’afiliació, o no afiliació, a un sindicat, quan no siguin esmenades a requeriment del Servei d’Ocupació o d’entitats col·laboradores en la intermediació.
+
+**Article 45. Infraccions de les entitats col·laboradores en matèria d’intermediació laboral**
+
+Constitueixen infraccions greus:
+a) Gestionar ofertes de treball discriminatòries per raó de naixement, raça, sexe, orientació sexual, origen, religió, opinió, discapacitat o qualsevol altra condició personal o social, així com d’afiliació, o no afiliació, a un sindicat, sense requerir la correcció de l’oferta a l’empresa que l’hagi formulada.b) Incomplir de manera greu les obligacions del conveni signat amb el Servei d’Ocupació.
+
+**Article 46. Infraccions de les empreses, dels treballadors autònoms i de les entitats col·laboradores en matèria de les altres polítiques d’ocupació**
+
+$3f
+
+**Article 47. Sancions de les persones assalariades o desocupades en matèria d’intermediació laboral**
+
+1. La sanció per una infracció lleu comporta la baixa de la inscripció com a demandant d’ocupació durant trenta dies.
+2. La sanció per una infracció greu comporta la baixa de la inscripció com a demandant d’ocupació durant un termini de noranta dies.
+
+**Article 48. Sanció de les persones assalariades o desocupades en matèria de formació ocupacional**
+
+La sanció per una infracció greu comporta la impossibilitat d’accedir a accions formatives durant el termini de noranta dies.
+
+**Article 49. Sancions de les empreses en matèria d’intermediació laboral**
+
+1. La sanció per una infracció lleu comporta donar de baixa qualsevol de les ofertes tractades en relació amb el mateix oferent d’ocupació durant un termini de noranta dies. Així mateix, durant aquest període no esdevé possible la presentació de noves ofertes.
+2. La sanció per una infracció greu comporta una multa d’entre una i tres vegades el salari mínim interprofessional.
+
+**Article 50. Sancions de les entitats col·laboradores en matèria d’intermediació laboral**
+
+1. La sanció per una infracció greu consisteix en una multa d’entre una i tres vegades el salari mínim interprofessional.
+2. La sanció per una infracció molt greu consisteix en una multa d’entre tres i sis vegades el salari mínim interprofessional.
+
+**Article 51. Sancions de les empreses, els treballadors autònoms i les entitats col·laboradores en matèria de les altres polítiques d’ocupació**
+
+$41
+
+**Article 52. Graduació de les sancions**
+
+Les sancions es graduen en cada cas concret d’acord amb els criteris següents:
+a) La reincidència: per apreciar-la només es tenen en compte les sancions lleus imposades durant l’any anterior, les sancions greus imposades durant els dos anys anteriors i les sancions molt greus imposades durant els tres anys anteriors. Aquestes sancions han d’haver assolit fermesa administrativa.b) La intencionalitat.c) La naturalesa i l’abast dels perjudicis causats.d) La resistència, la negativa o l’obstrucció a les actuacions de control.e) La utilització de mitjans fraudulents.f) L’ocultació a l’Administració, mitjançant la falta de presentació de la documentació justificativa o la presentació de documentació incompleta o inexacta, de les dades necessàries per verificar l’aplicació donada als beneficis rebuts.g) El retard en el compliment de les obligacions formals.
+
+**Article 53. Obligacions addicionals a la imposició de les sancions**
+
+Sense perjudici de les sancions imposades, les empreses, els treballadors autònoms i les entitats col·laboradores estan obligats a retornar totalment o parcialment els beneficis obtinguts en concepte de mesures de foment de l’ocupació. Aquesta devolució s’acorda en el marc de l’expedient de revocació o revisió previst reglamentàriament.

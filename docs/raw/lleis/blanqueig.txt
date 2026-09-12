@@ -1,0 +1,494 @@
+# Llei de prevenció i lluita contra el blanqueig de diners (Llei 14/2017)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/blanqueig
+Articles: 94 · versions consolidades: 10
+Instantania del consolidat: 2026-09-12T05:30:05.636613Z
+
+---
+
+#### Capítol primer. Disposicions generals
+
+##### Secció primera. Objecte, àmbit d’aplicació i definicions
+
+**Article 1. Objecte**
+
+1. Aquesta Llei té per objecte la prevenció i la lluita contra el blanqueig de diners o valors i el finançament del terrorisme.
+2. Als efectes d’aquesta Llei s’entén per blanqueig de diners o valors i per finançament del terrorisme la comissió de qualsevol dels actes així tipificats al Codi penal.
+
+**Article 2. Subjectes obligats**
+
+Aquesta Llei s’aplica als subjectes obligats següents:
+1. Subjectes obligats financers, que són les persones físiques o jurídiques que pertanyen a les categories següents:
+a) entitats operatives del sistema financer;b) companyies d’assegurances i reassegurances autoritzades a operar en el ram de vida;c) corredors d’assegurances, persones físiques o jurídiques que, a canvi d’una remuneració, realitzin una activitat de mediació d’assegurances en el ram vida;d) institucions de gir postal;e) els proveïdors de serveis de pagaments autoritzats en virtut de les lletres f) i h) de l’apartat 1 de l’article 4 de la Llei dels serveis de pagament i el diner electrònic, amb les excepcions que es prevegin reglamentàriament;f) els proveïdors de serveis d’actius virtuals.
+2. Les persones físiques o jurídiques següents, en l’exercici de la seva activitat professional:
+a) els auditors, comptables externs i assessors fiscals i qualsevol altra persona que es comprometi a prestar, directament o a través de tercers amb els quals aquesta altra persona estigui relacionada, ajuda material, assistència o assessorament en qüestions fiscals com a activitat empresarial o professional principal;b) notaris, advocats i membres d’altres professions jurídiques independents, quan participin, actuant en nom i per compte del seu client, en qualsevol operació financera o immobiliària, o assistint en la planificació o realització d’operacions per compte del seu client relatives a:- la compravenda o altres actes de disposició de béns immobles o entitats;- la gestió de fons, valors o altres actius del client;- l’obertura o gestió de comptes bancaris, comptes d’estalvi o comptes de valors;- l’organització de les aportacions necessàries per a la creació, el funcionament o la gestió de societats;- la creació, funcionament o gestió de fideïcomisos, societats, associacions, fundacions o estructures anàlogues;c) economistes, gestors i altres proveïdors de serveis a societats, altres entitats jurídiques, instruments jurídics de fideïcomís i altres estructures fiduciàries;d) els agents immobiliaris que duguin a terme activitats relacionades amb la compravenda d’immobles, i també els agents immobiliaris quan actuïn com a intermediaris en l’arrendament de béns immobles, però només en relació amb transaccions per a les quals el lloguer mensual sigui igual o superior a 10.000 euros;e) persones que comerciïn amb béns únicament en la mesura en què els pagaments s’efectuïn o es rebin en efectiu i per import igual o superior a 10.000 euros o el seu contravalor en moneda estrangera, ja es realitzin en una operació o en diverses operacions entre les quals sembli existir algun tipus de relació;f) casinos i altres proveïdors de serveis de jocs d’atzar, presencials o en línia. Reglamentàriament, se’n poden excloure totalment o parcialment, i sobre la base d’una anàlisi de risc utilitzant totes les fonts d’informació que siguin rellevants, els jocs d’atzar, exceptuant els casinos, que presentin un risc baix de blanqueig de diners o valors i finançament del terrorisme;g) les organitzacions sense ànim de lucre en els termes que estableix la disposició addicional primera d’aquesta Llei. Reglamentàriament es pot determinar, sobre la base d’una anàlisi de risc utilitzant totes les fonts d’informació que siguin rellevants, el grup d’organitzacions que seran subjectes obligats, identificant les característiques i el tipus d’organitzacions que, en virtut de les seves activitats i particularitats, són susceptibles d’estar exposades al risc de ser utilitzades per a finalitats de finançament del terrorisme;h) fideïcomissaris o persones que exerceixin un càrrec equivalent en estructures jurídiques similars als fideïcomisos de manera no professional, en els termes que estableix la disposició addicional tercera d’aquesta Llei;i) les persones que comerciïn amb obres d’art o actuïn com a intermediaris en el comerç d’obres d’art, també quan aquesta activitat es dugui a terme en galeries d’art i cases de subhastes, quan l’import de la transacció o d’una sèrie de transaccions relacionades sigui igual o superior a 10.000 euros;j) les persones que emmagatzemin obres d’art, comerciïn amb obres d’art o actuïn com a intermediaris en el comerç d’obres d’art quan aquesta activitat es dugui a terme en zones franques, quan l’import de la transacció o d’una sèrie de transaccions sigui igual o superior a 10.000 euros;k) els gestors de les zones franques, i els operadors que hi estiguin establerts.
+3. Estan subjectes a aquesta Llei les persones físiques o jurídiques no residents que realitzin al Principat d’Andorra activitats d’igual naturalesa a les esmentades en aquest article. La seva consideració de subjecte obligat financer o no financer es determina en funció de la naturalesa de l’activitat que desenvolupi.
+
+**Article 3. Definicions**
+
+$24
+
+##### Secció segona. Valoració del risc
+
+**Article 4. Valoració del risc per part de les autoritats**
+
+$2e
+
+**Article 5. Valoració del risc per part dels subjectes obligats**
+
+$32
+
+##### Secció tercera. Països d’alt risc
+
+**Article 6. Països d’alt risc**
+
+$34
+
+#### Capítol segon. Mesures de diligència deguda
+
+##### Secció primera. Disposicions generals
+
+**Article 7. Prohibició d’anonimat de comptes, llibretes d’estalvi, caixes de seguretat i de pagaments efectuats amb targetes de prepagament**
+
+Queden prohibits els comptes, les llibretes d’estalvi i les caixes de seguretat anònims o amb noms ficticis. No s’accepten en territori andorrà pagaments efectuats mitjançant targetes de prepagament anònimes.
+
+**Article 8. Obligació de practicar mesures de diligència deguda**
+
+$36
+
+**Article 9. Abast de les mesures de diligència deguda**
+
+$3c
+
+**Article 10. Verificació de la identitat del client i del beneficiari efectiu**
+
+$42
+
+##### Secció segona. Mesures simplificades de diligència deguda
+
+**Article 11. Mesures simplificades de diligència deguda**
+
+$46
+
+##### Secció tercera. Mesures reforçades de diligència deguda
+
+**Article 12. Obligació de practicar mesures reforçades de diligència deguda**
+
+$4a
+
+**Article 12 bis. Països d’alt risc**
+
+1. En les relacions de negocis o les operacions que impliquin països d’alt risc designats d’acord amb el procediment de l’apartat 1 de l’article 6 d’aquesta Llei, els subjectes obligats han de fer el següent:
+a) obtenir informació addicional sobre el client i el beneficiari o els beneficiaris efectius;b) obtenir informació addicional sobre el propòsit i l’índole prevista de la relació de negocis;c) obtenir informació sobre l’origen dels fons i l’origen del patrimoni del client i del beneficiari o els beneficiaris efectius;d) obtenir informació sobre els motius de les operacions previstes o efectuades;e) obtenir l’autorització de l’alta direcció per establir o mantenir la relació de negocis;f) fer un seguiment continu reforçat de les relacions de negocis, augmentant el nombre i la freqüència dels controls aplicats i seleccionant patrons transaccionals que requereixin un examen més detallat.
+
+**Article 13. Relacions de corresponsalia bancària**
+
+$4e
+
+**Article 14. Persones políticament exposades (PEPs)**
+
+En relació amb les operacions o relacions de negoci amb persones políticament exposades, els subjectes obligats han de:
+a) disposar de procediments adequats en funció del risc a fi de determinar si el client o el beneficiari efectiu és una persona políticament exposada;b) obtenir l’autorització de l’alta direcció per establir o mantenir una relació de negoci amb les persones políticament exposades;c) adoptar les mesures adequades per determinar l’origen del patrimoni i dels fons objecte de la relació de negoci o de la operació;d) realitzar una supervisió reforçada i permanent de la relació de negoci.
+Aquestes obligacions són igualment aplicables quan, amb posterioritat a la identificació i verificació inicial d’un client o beneficiari efectiu, aquest client o beneficiari passi a ser una persona políticament exposada.
+
+**Article 15. Assegurances de vida amb persones políticament exposades**
+
+Els subjectes obligats adopten mesures raonables per determinar si els beneficiaris de pòlisses d’assegurances de vida o altres assegurances relacionades amb inversions i/o, si escau, el beneficiari efectiu, són persones políticament exposades, els seus familiars o persones reconegudes com afins. Aquestes mesures s’adopten com molt tard al moment del pagament o al moment de la cessió, total o parcial, de la pòlissa. Quan s’identifiquin riscs més elevats, a més d’adoptar les mesures de diligència deguda establertes a l’article 9 d’aquesta Llei, correspon als subjectes obligats:
+a) informar a l’alta direcció abans del pagament del rendiment de la pòlissa;b) procedir a un control reforçat de tots els aspectes de la relació de negocis amb el titular de la pòlissa;c) considerar realitzar una declaració d’operació sospitosa.
+
+**Article 16. Finalització de les mesures reforçades de diligència deguda en cas de PEPs**
+
+Quan una persona políticament exposada deixi d’exercir la funció pública per la que tenia aquesta consideració, els subjectes obligats continuaran aplicant les mesures reforçades de diligència deguda que estableix l’article 14 durant almenys dotze mesos.
+
+**Article 17. Familiars i persones reconegudes com afins dels PEPs**
+
+Les mesures contemplades en els articles 14 i 15 d’aquesta Llei seran també aplicables als familiars o a les persones reconegudes com afins de les persones políticament exposades.
+
+##### Secció quarta. Compliment per tercers
+
+**Article 18. Compliment per tercers**
+
+$52
+
+#### Capítol tercer. Informació sobre els beneficiaris efectius d’entitats jurídiques andorranes
+
+**Article 19. Obligació d’obtenció, conservació i accés a la informació sobre els beneficiaris efectius**
+
+$58
+
+#### Capítol quart. Obligacions de declaració i prohibició de revelació
+
+**Article 20. Obligació de declaració**
+
+$5c
+
+**Article 21. Obligació de declaració a organismes autoreguladors o col·legis professionals**
+
+$5e
+
+**Article 22. Abstenció d’executar operacions**
+
+1. Els subjectes obligats no poden executar operacions de les que sàpiguen o hi hagi sospites o motius raonables per sospitar que estan relacionades amb el producte d’activitats delictives o amb el finançament del terrorisme fins que no hagin fet la preceptiva declaració de sospita davant la UIFAND i hagin complert qualsevol altra instrucció addicional d’aquesta.
+2. Quan no executar l’operació financera o econòmica sospitosa resulti impossible o pugui comprometre la persecució dels beneficiaris de la presumpta operació de blanqueig o finançament del terrorisme, els subjectes obligats podran executar l’operació i efectuar immediatament després una declaració a la UIFAND. La declaració ha d’exposar, a més de la informació a què es refereix l’article 20 d’aquesta Llei, els motius que van justificar l’execució de l’operació.
+
+**Article 23. Obligació d’informació de les autoritats de supervisió**
+
+Les autoritats competents per la supervisió prudencial dels subjectes obligats que descobreixin fets que puguin estar relacionats amb el blanqueig de diners o valors o el finançament del terrorisme, ja sigui en el curs de les inspeccions efectuades o de qualsevol altra manera, informaran d’aquests fets sense demora a la UIFAND.
+
+**Article 24. Efectes de la comunicació pels subjectes obligats**
+
+La comunicació de bona fe d’informació a la UIFAND, per part d’un subjecte obligat o dels seus empleats o directius no constitueix infracció de cap restricció de la divulgació d’informació imposada per via contractual o per disposició legal, reglamentària o administrativa, i no implicarà cap tipus de responsabilitat pel subjecte obligat, els seus directius o empleats, tot i que no coneguessin l’activitat delictiva subjacent i amb independència de que l’activitat il·legal arribés o no a concretar-se realment.
+
+**Article 25. Protecció dels subjectes obligats**
+
+$61
+
+**Article 26. Prohibició de revelació**
+
+$65
+
+#### Capítol cinquè. Informació que ha d’acompanyar les transferències de fons
+
+##### Secció primera. Objecte, àmbit d’aplicació i definicions
+
+**Article 27. Objecte**
+
+Aquest capítol estableix les normes sobre la informació que ha d’acompanyar les transferències de fons, en qualsevol moneda, referent als seus ordenants i beneficiaris quan almenys un dels prestadors de serveis de pagament participant en la transferència de fons estigui establert a Andorra.
+
+**Article 28. Àmbit d’aplicació**
+
+$67
+
+**Article 29. Definicions**
+
+$6b
+
+##### Secció segona. Obligacions del prestador de serveis de pagament de l’ordenant
+
+**Article 30. Informació que acompanya les transferències de fons**
+
+$71
+
+##### Secció tercera. Obligacions del prestador de serveis de pagament del beneficiari
+
+**Article 31. Detecció de la manca d’informació sobre l’ordenament o el beneficiari**
+
+$75
+
+**Article 32. Transferències de fons a les que manqui informació o amb informació incompleta**
+
+$79
+
+**Article 33. Anàlisi i declaració d’operacions sospitoses**
+
+El prestador de serveis de pagament del beneficiari ha de considerar que la falta d’informació sobre l’ordenant o el beneficiari, o el fet que aquesta sigui incompleta, constitueixen factors per avaluar si la transferència de fons, o qualsevol operació relacionada amb ella, resulta sospitosa, i si ha d’informar a la UIFAND.
+
+##### Secció quarta. Obligacions dels prestadors de serveis de pagament intermediaris
+
+**Article 34. Conservació de la informació sobre l’ordenant i el beneficiari amb la transferència**
+
+Els prestadors de serveis de pagament intermediaris s’asseguren que tota la informació rebuda sobre l’ordenant i el beneficiari que acompanya una transferència de fons es conservi amb totes les dades relatives a la transferència.
+
+**Article 35. Detecció de la manca d’informació sobre l’ordenant o el beneficiari**
+
+1. El prestador de serveis de pagament intermediari ha d’implantar procediments eficaços per detectar si els camps amb la informació sobre l’ordenant i el beneficiari del sistema de missatgeria o de pagaments i liquidació utilitzat per efectuar la transferència de fons han estat emplenats utilitzant els caràcters o entrades admissibles d’acord amb els protocols d’aquest sistema.
+2. El prestador de serveis de pagament intermediari ha d’implantar procediments eficaços, que comprenguin mecanismes de seguiment a posteriori o, quan escaigui, en temps real, per detectar la manca de la informació sobre l’ordenant o el beneficiari l’article 30, apartats 1 i 2, d’aquesta Llei. Aquests procediments també apliquen a les transferències per lots.
+
+**Article 36. Transferències de fons a las que manqui informació sobre l’ordenant o el beneficiari**
+
+$7b
+
+#### Capítol sisè. Conservació de documents i protecció de dades
+
+**Article 37. Període de conservació de documents**
+
+$7d
+
+**Article 38. Protecció de dades personals**
+
+1. Les dades personals són tractades pels subjectes obligats sobre la base d’aquesta Llei exclusivament als efectes d’aquesta i no són objecte de tractament ulterior de manera incompatible amb les finalitats establertes per aquesta Llei. Queda prohibit el tractament de dades personals sobre la base d’aquesta Llei per a altres finalitats, com les finalitats comercials.
+2. Els subjectes obligats faciliten als nous clients un avís general sobre les obligacions legals dels subjectes obligats a l’efecte de la prevenció i la lluita contra el blanqueig de diners o valors i el finançament del terrorisme.
+3. El tractament de dades personals obtingudes en aplicació d’aquesta Llei no està subjecte a la normativa en matèria de protecció de dades personals.
+
+**Article 39. Resposta a les sol·licituds d’informació**
+
+Els subjectes obligats es doten de sistemes que els permetin respondre de forma completa i diligent les sol·licituds d’informació de la UIFAND i de les altres autoritats competents en l’exercici de les seves funcions, a través de canals segurs i de manera que garanteixi la total confidencialitat.
+
+#### Capítol setè. Procediments interns i formació
+
+**Article 40. Procediments interns**
+
+$81
+
+**Article 41. Procediments interns en subjectes obligats que formin part d’un grup**
+
+$87
+
+**Article 42. Formació del personal**
+
+1. Els subjectes obligats adopten mesures proporcionades als seus riscs, activitats i grandària, per a que els seus empleats tinguin coneixement de la normativa en matèria de prevenció i lluita contra el blanqueig de diners o valors i el finançament del terrorisme.
+Aquestes mesures inclouen la participació dels empleats en cursos de formació permanent per a ajudar-los a detectar les operacions que puguin estar relacionades amb el blanqueig de diners o valors o el finançament del terrorisme i la manera de procedir en tals casos.
+2. La UIFAND, bé mitjançant programes de formació bé mitjançant comunicats tècnics, informa els subjectes obligats sobre les pràctiques dels autors de blanqueig de diners o valors o de finançament del terrorisme i sobre els indicis que permeten detectar pràctiques sospitoses.
+3. La UIFAND informa els subjectes obligats, sempre que sigui possible, respecte l’eficàcia i el seguiment de les seves declaracions de sospita.
+
+#### Capítol vuitè. Declaració de transport transfronterer de diners en efectiu
+
+**Article 43. Obligació de declarar els diners en efectiu acompanyats**
+
+$8b
+
+**Article 43 bis. Obligació d’informar dels diners en efectiu no acompanyats**
+
+$8e
+
+**Article 44. Facultats de control i d’inspecció**
+
+$90
+
+**Article 44 bis. Intervenció temporal de diners en efectiu**
+
+$96
+
+**Article 45. Registre i tractament de la informació**
+
+1. El Cos de Duana porta un registre de la informació obtinguda en aplicació de l’obligació de declarar els diners en efectiu acompanyats i de l’obligació d’informar dels diners en efectiu no acompanyats previstes als articles 43 i 43
+bis
+d’aquesta Llei, així com de la informació obtinguda en aplicació dels apartats 3, 5 i 6 de l’article 44 d’aquesta Llei. La informació continguda en aquest registre ha d’estar a disposició de la UIFAND i la Policia.
+2. El Cos de Duana tramet a la UIFAND la informació obtinguda en aplicació dels apartats 3, 5 i 6 de l’article 44 d’aquesta Llei al més aviat possible i, en qualsevol cas, com a màxim dins dels quinze dies feiners després de la data en què s’hagi obtingut aquesta informació.
+
+**Article 46. Intercanvi d’informació**
+
+1. La UIFAND, i les altres autoritats competents, poden trametre a altres organismes estrangers equivalents la informació rebuda d’acord amb els articles anteriors, en aplicació de les respectives normes en matèria de cooperació internacional.
+2. Quan hi hagi indicis que una suma de diners en efectiu té relació amb el producte d’un frau o amb qualsevol altra activitat il·legal que afecti negativament els interessos financers de la Unió Europea, aquesta informació s’ha de transmetre també a la Comissió Europea.
+
+**Article 47. Règim sancionador**
+
+1. L’incompliment de les obligacions de declarar els diners en efectiu acompanyats i d’informar dels diners en efectiu no acompanyats que estableixen els articles 43 i 43
+bis
+d’aquesta Llei tenen la consideració d’infraccions greus i s’han de sancionar amb una multa mínima de 600 euros fins a l’import dels diners en efectiu transportats.
+2. La competència per sancionar l’incompliment de l’obligació de declarar els diners en efectiu acompanyats i d’informar dels diners en efectiu no acompanyats que estableixen els articles 43 i 43
+bis
+d’aquesta Llei correspon al Cos de Duana. El procediment sancionador correspon a l’aplicat en matèria duanera.
+3. Per a la graduació de les sancions s’han de considerar els criteris establerts a l’article 77 d’aquesta Llei.
+
+#### Capítol novè. Mesures per a la prevenció, la lluita i la supressió del terrorisme i el seu finançament i per a la prevenció i la desorganització de la proliferació d’armes de destrucció massiva i el seu finançament
+
+##### Secció única. Llista de persones i entitats i mesures restrictives
+
+**Article 48. Llista de persones i entitats**
+
+$99
+
+**Article 49. Mesures restrictives**
+
+$9b
+
+**Article 50. Publicació de la llista i de les mesures restrictives adoptades**
+
+$9d
+
+**Article 51. Contingut i efectes de les mesures restrictives**
+
+$9f
+
+**Article 52. Obligacions d’informació**
+
+$a1
+
+**Article 53. Exclusió de la llista**
+
+$a3
+
+**Article 54. Aixecament i modificació de les mesures restrictives**
+
+$a5
+
+#### Capítol desè. Organització institucional
+
+##### Secció primera. UIFAND
+
+**Article 55. Competències i funcions de la UIFAND**
+
+$a7
+
+**Article 56. Composició de la UIFAND**
+
+1. La UIFAND es composa de:
+a) Els membres de la UIFAND, integrats per:i) el cap de la UIFAND;ii) un mínim d’una persona de competència tècnica reconeguda en l’àmbit jurídic;iii) un mínim de dos persones de competència tècnica reconeguda en l’àmbit financer;iv) un mínim de dos persones de competència tècnica reconeguda del Departament de Policia;b) El personal administratiu de la UIFAND.
+2. El Govern determina per reglament les modalitats relatives a l’organització i al funcionament de la UIFAND.
+
+**Article 57. Nomenaments**
+
+$ab
+
+**Article 58. Funcions dels membres de la UIFAND**
+
+1. El cap de la UIFAND és el màxim responsable d’aquest òrgan administratiu i té atribuïdes les següents funcions:
+a) gestionar i coordinar administrativament i tècnica la UIFAND;b) elaborar la proposta anual de pressupost de la UIFAND;c) vetllar per la seguretat de la documentació i de les dependències de la UIFAND, així com per l’observança dels procediments i el compliment de la normativa per part dels membres de la UIFAND i el seu personal administratiu;d) actuar com a màxim representant de la UIFAND davant els subjectes obligats, organismes estrangers equivalents i organismes nacionals i internacionals que requereixin la seva presència;e) exercir qualsevol altra funció que li sigui atribuïda per aquesta Llei, per la normativa que la desenvolupi i per la resta de l’ordenament jurídic;
+2. Els membres de la UIFAND actuen sota la direcció del cap de la UIFAND i exerceixen les funcions que aquest els hi atribueixi, així com les determinades per aquesta Llei i per via reglamentària.
+
+**Article 59. Cessament**
+
+$ad
+
+**Article 60. Deure de secret**
+
+Els membres de la UIFAND i el seu personal administratiu estan sotmesos al secret en l’àmbit laboral i al secret professional, tant durant la vigència de la relació amb la UIFAND com un cop acabada aquesta relació.
+
+**Article 61. Règim d’incompatibilitats**
+
+$af
+
+##### Secció segona. Comissió permanent de prevenció del blanqueig i el finançament del terrorisme
+
+**Article 62. Naturalesa**
+
+La Comissió permanent de prevenció del blanqueig i el finançament del terrorisme és un òrgan tècnic i consultiu del Govern en matèria de detecció, prevenció i lluita contra el blanqueig de diners o valors i del finançament del terrorisme.
+
+**Article 63. Composició**
+
+$b1
+
+**Article 64. Objecte i funcions**
+
+$b7
+
+**Article 65. Funcionament**
+
+$b9
+
+#### Capítol onzè. Cooperació
+
+##### Secció primera. Cooperació interna
+
+**Article 66. Cooperació amb les autoritats judicials**
+
+$bb
+
+**Article 67. Cooperació amb l’Autoritat Financera Andorrana (AFA)**
+
+$bd
+
+##### Secció segona. Cooperació internacional
+
+**Article 68. Cooperació entre unitats d’intel·ligència financera**
+
+$c3
+
+#### Capítol dotzè. Règim sancionador
+
+##### Secció primera. Infraccions i sancions
+
+**Article 69. Subjectes infractors o responsables**
+
+1. Són subjectes infractors o responsables els subjectes obligats, persones físiques o jurídiques, que realitzin les accions o omissions tipificades com a infracció en aquesta Llei quan siguin imputables a la seva conducta dolosa o negligent.
+2. A més de la responsabilitat que correspongui al subjecte obligat, les persones que exerceixin en aquests subjectes obligats càrrecs d’alta direcció incorren en responsabilitat sancionable per la infracció o les infraccions comeses quan aquestes infraccions siguin imputables a la seva conducta dolosa o negligent.
+3. Les persones físiques o jurídiques que incompleixen les obligacions establertes a l’apartat 1 de l’article 19 d’aquesta Llei.
+
+**Article 70. Classes d’infraccions**
+
+Les infraccions administratives establertes en aquesta Llei es classifiquen en molt greus, greus i lleus.
+
+**Article 71. Infraccions molt greus**
+
+$c7
+
+**Article 72. Infraccions greus**
+
+$cd
+
+**Article 73. Infraccions lleus**
+
+Són infraccions lleus qualsevol incompliment de les normes d’aquesta Llei no considerades específicament com a infracció greu o molt greu en els articles anteriors.
+
+**Article 74. Sancions aplicables als subjectes obligats que siguin persones jurídiques**
+
+$d3
+
+**Article 75. Sancions aplicables als subjectes obligats que siguin persones físiques**
+
+1. Les infraccions molt greus són sancionades amb:
+a) Multa de 25.001 a 300.000 euros.b) Suspensió temporal mínima de sis mesos o suspensió definitiva.c) Restricció temporal o definitiva de determinats tipus d’operacions.d) Revocació o modificació de l’autorització de l’activitat corresponent.
+La sanció prevista en la lletra a) ha de ser imposada en tot cas i pot ser imposada simultàniament amb alguna o totes de les previstes a les lletres b), c) i d).
+2. Les infraccions greus són sancionades amb:
+a) Multa de 3.001 a 25.000 euros.b) Suspensió temporal d’entre un i sis mesos.c) Restricció temporal de determinats tipus d’operació.
+La sanció prevista en la lletra a) ha de ser imposada en tot cas i pot ser imposada simultàniament amb alguna o totes de les previstes a les lletres b) i c).
+3. Les infraccions lleus són sancionades amb:
+a) Amonestació escrita.b) Multa de 300 a 3.000 euros.
+Les sancions previstes en les lletres a) i b) han de ser imposades en tot cas.
+
+**Article 76. Excepcions al règim sancionador ordinari**
+
+$d7
+
+**Article 77. Criteris de graduació de les sancions**
+
+Les sancions es graduen de conformitat amb tots els criteris següents:
+a) El grau de culpabilitat del subjecte infractor.b) La capacitat econòmica del subjecte infractor.c) La quantia de l’operació corresponent i/o els guanys obtinguts com a conseqüència de la infracció, així com les eventuals pèrdues causades a tercers per la infracció, en la mesura en què es puguin determinar.d) La gravetat i durada dels fets.e) La manca de vigilància i les carències o insuficiències dels mecanismes de prevenció.f) Les sancions fermes en via administrativa que li hagin estat imposades durant els últims cinc anys.g) La cooperació del subjecte infractor o responsable amb la UIFAND.
+
+**Article 78. Prescripció**
+
+$da
+
+##### Secció segona. Procediment sancionador
+
+**Article 79. Regulació de l’expedient sancionador**
+
+La imposició de les sancions tipificades en aquesta Llei requereix la tramitació prèvia d’un expedient sancionador, que es regeix per les normes següents:
+a) per les normes establertes en aquesta secció i en els reglaments que, si escau, la desenvolupin;b) subsidiàriament, pel Codi de l’Administració i les altres normes que regulen el procediment sancionador en matèria administrativa.
+
+**Article 80. Actuacions prèvies**
+
+Amb anterioritat a la incoació del procediment sancionador es poden realitzar actuacions prèvies a fi de determinar, amb caràcter preliminar, si concorren les circumstàncies que justifiquen la incoació referida. En especial, aquestes actuacions prèvies s’han d’orientar a determinar, amb la major precisió possible, els fets susceptibles de motivar la incoació del procediment, la identificació de la persona o les persones que poguessin resultar responsables i les circumstàncies rellevants que concorrin en aquest sentit.
+
+**Article 81. Inici del procediment**
+
+$dc
+
+**Article 82. Vinculacions amb la jurisdicció penal**
+
+1. Si durant la tramitació del procediment sancionador apareix que els fets poden ser constitutius d’una infracció penal, la UIFAND n’informa immediatament el Ministeri Fiscal.
+El Ministeri Fiscal ha de comunicar a la UIFAND tant la decisió de no exercir accions penals com l’exercici d’aquestes accions i, quan es produeixi, el seu resultat.
+2. Si durant la tramitació del procediment sancionador queda acreditat que ha estat obert un procés penal pels mateixos fets, s’ha d’acordar la suspensió del procediment administratiu fins que esdevingui ferma una resolució en via penal.
+3. L’òrgan competent per resoldre ha de declarar la no-exigència de responsabilitat administrativa i arxivar l’expedient si, abans de dictar resolució, queda acreditat que ha esdevingut ferma una sanció penal al mateix subjecte pels mateixos fets, i aprecia, a més, la identitat de fonament de la sanció.
+
+**Article 83. Mesures cautelars**
+
+$e2
+
+**Article 84. Fase d’instrucció**
+
+L’instructor ha d’ordenar la pràctica de totes les actuacions i les proves que consideri adequades per a l’esclariment dels fets i per determinar les responsabilitats susceptibles de sanció.
+L’instructor ha d’elaborar un informe que reflecteixi les conclusions de la instrucció.
+
+**Article 85. Plec de càrrecs**
+
+$e4
+
+**Article 86. Procediment sancionador abreujat**
+
+$e6
+
+**Article 87. Proposta de resolució**
+
+1. Presentades les al·legacions contra el plec de càrrecs o transcorregut el termini per fer-ho, i dutes a terme totes les actuacions addicionals que l’instructor hagi considerat convenients, l’instructor:
+a) formula una proposta de resolució en la qual es fixen de forma motivada els fets, la seva qualificació jurídica, la infracció o les infraccions imputades, la persona o les persones que es considerin responsables i la sanció finalment proposada; ob) proposa el sobreseïment i/o l’arxiu de l’expedient sancionador.
+2. La proposta de resolució, juntament amb totes les peces que componen l’expedient, s’ha de trametre a la UIFAND, per tal que aquesta resolgui o elevi l’expedient a l’òrgan competent per resoldre.
+
+**Article 88. Resolució**
+
+$e8
+
+**Article 89. Caducitat del procediment**
+
+$ec
+
+**Article 90. Recurs**
+
+Les resolucions sancionadores posen fi a la via administrativa. Contra aquestes resolucions sancionadores es pot interposar recurs davant la Secció Administrativa del Tribunal de Batlles, en el termini de tretze dies hàbils a partir de l’endemà de la notificació de la resolució.
+
+##### Secció tercera. Procediments de denúncia
+
+**Article 91. Denúncia**
+
+$ee

@@ -1,0 +1,658 @@
+# Llei de contractació pública (Llei 14/2022)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/contractacio-publica
+Articles: 130 · versions consolidades: 4
+Instantania del consolidat: 2026-09-12T05:30:06.653651Z
+
+---
+
+### Títol I. Disposicions generals
+
+#### Capítol primer. Objecte i àmbit d’aplicació de la Llei
+
+**Article 1. Objecte de la Llei**
+
+1. Aquesta Llei té per objecte regular la contractació del sector públic, a fi de garantir que s’ajusti als principis de publicitat i transparència, de lliure competència, de lliure accés a les licitacions i de no-discriminació i igualtat de tracte entre els licitadors; i d’assegurar, en connexió amb l’objectiu d’estabilitat pressupostària i control de la despesa, i el principi d’integritat, una utilització eficient dels fons destinats a la realització d’obres, l’adquisició de béns i la contractació de serveis mitjançant l’exigència de la definició prèvia de les necessitats que s’han de satisfer, la salvaguarda de la lliure competència i la selecció de l’oferta econòmicament més avantatjosa.
+2. Els contractes que atorguen les administracions públiques i la resta d’entitats que integren el sector públic s’han d’ajustar a les normes de la Llei i a les disposicions que la despleguin o complementin, llevat dels supòsits d’exclusió que aquesta Llei o altres lleis estableixin.
+3. A efectes de la Llei, s’entén per
+contractació pública
+l’adquisició a títol onerós, i mitjançant un contracte públic, d’obres, subministraments i serveis, com també la concessió d’obres i de serveis públics, per part d’un o diversos poders adjudicadors, als operadors econòmics elegits per aquests poders adjudicadors, amb independència que les obres, els subministraments o els serveis estiguin o no destinats a un fi públic. El caràcter onerós ve determinat pel fet que el contractista obté algun tipus de benefici econòmic.
+4. En tota contractació pública s’han d’incorporar transversalment i preceptivament criteris socials i mediambientals sempre que tinguin relació amb l’objecte del contracte, amb la certesa que la seva inclusió proporciona una millor relació qualitat-preu en la prestació contractual, així com una major i millor eficiència en la utilització dels fons públics. També s’ha de facilitar l’accés a la contractació pública de les microempreses, les petites i mitjanes empreses, així com de les empreses d’economia social.
+5. Els contractes públics es regeixen pels principis de necessitat i d’idoneïtat i pel d’eficiència de la contractació.
+
+**Article 2. Àmbit d’aplicació de la Llei**
+
+$1e
+
+**Article 3. Contractes exclosos**
+
+$20
+
+**Article 4. Contractes en els sectors de l’aigua, l’energia, les telecomunicacions, els transports i els serveis postals**
+
+$22
+
+**Article 5. Contractes de serveis socials, sociosanitaris, sanitaris, educatius i culturals**
+
+$24
+
+**Article 6. Classes de contractes**
+
+1. Els contractes del sector públic poden ser administratius o privats.
+2. Són contractes administratius els celebrats per una Administració pública que tenen per objecte l’execució d’obres, la concessió d’obres i serveis públics, el lliurament de subministraments i les prestacions de serveis.
+3. Són contractes privats els celebrats per una Administració pública que, segons l’apartat anterior, no tenen caràcter administratiu, com ara els contractes de compravenda, de donació, de permuta, d’arrendament de béns immobles i d’altres negocis jurídics anàlegs, així com els realitzats per una altra entitat del sector públic que no tingui la consideració d’Administració pública, llevat que la seva llei de creació estableixi una altra cosa.
+
+**Article 7. Règim normatiu**
+
+$26
+
+#### Capítol segon. Parts en el contracte
+
+##### Secció primera. Òrgans de contractació
+
+**Article 8. Òrgans de contractació**
+
+$28
+
+**Article 9. Prerrogatives dels òrgans de contractació**
+
+$2a
+
+**Article 10. Prevenció de conflictes d’interessos**
+
+$2c
+
+##### Secció segona. Contractista
+
+**Article 11. Legitimació per contractar**
+
+$2e
+
+**Article 12. Contractistes estrangers**
+
+$30
+
+**Article 13. Prohibicions de contractar**
+
+$32
+
+**Article 14. Unió temporal d’empreses**
+
+$34
+
+**Article 15. Objecte i abast de la classificació dels contractistes**
+
+$38
+
+**Article 16. Requisits de la classificació per als contractistes d’obres públiques i de subministraments**
+
+1. El Govern i els comuns determinen les condicions que han de complir les empreses d’obres i subministraments per classificar-les i incloure-les en el subgrup corresponent.
+2. De manera motivada i per les circumstàncies excepcionals recollides en el Reglament de classificació administrativa de contractistes, es pot acordar exceptuar la necessitat de classificació per a determinats tipus de contractes d’obres i subministraments en què aquest requisit sigui exigible.
+3. La classificació també s’ha d’exigir al cessionari d’un contracte, si ha estat requerida al cedent.
+4. Quan no hagi concorregut cap empresa classificada en el procediment, l’òrgan de contractació pot excloure la necessitat de complir aquest requisit en el següent procediment que es convoqui per a l’adjudicació del mateix contracte, sempre que no se n’alterin les condicions, i en tot cas ha de precisar en el plec de clàusules administratives els mitjans exigits per acreditar la solvència.
+
+**Article 17. Tramitació de la sol·licitud de classificació**
+
+1. L’atorgament de classificació administrativa d’empresa contractista requereix la sol·licitud al ministre encarregat de les finances, acompanyada de la documentació que s’assenyala reglamentàriament.
+2. La tramitació de la sol·licitud, que es fa per mitjans electrònics de la forma que s’estableix per via reglamentària, previ informe de la Junta de Contractació Administrativa, conclou en tot cas amb una proposta del ministre encarregat de les finances.
+3. El Govern ha de resoldre la sol·licitud en el termini màxim de dos mesos. Una vegada transcorreguts aquests dos mesos sense resolució, la sol·licitud s’entén acceptada.
+4. Les sol·licituds de nova classificació o de renovació han de seguir els tràmits descrits en els apartats anteriors.
+
+**Article 18. Vigència i revisió de la classificació**
+
+$3a
+
+**Article 19. Successió del contractista**
+
+En els casos de fusió d’empreses en què participi la societat contractista, i en els supòsits d’escissió, aportació o transmissió d’empreses o branques d’activitat de les mateixes empreses, continua el contracte vigent amb l’entitat absorbent o resultant de la fusió o aquella a la qual s’atribueix el contracte, que queda subrogada en tots els drets i obligacions que dimanen del mateix contracte, sempre que reuneixi les condicions de capacitat, absència de prohibició de contractar, la classificació quan es requereix i la solvència exigida en l’acord d’adjudicació.
+En els casos enumerats en el paràgraf anterior, l’empresa ha de comunicar a l’òrgan de contractació el canvi produït.
+
+### Títol II. Normes aplicables als contractes públics
+
+#### Capítol primer. Preparació dels contractes
+
+##### Secció primera. Expedient de contractació
+
+**Article 23. Inici, contingut i aprovació**
+
+$3c
+
+**Article 24. Modalitats de tramitació de l’expedient de contractació**
+
+$3e
+
+##### Secció segona. Clàusules administratives i prescripcions tècniques
+
+**Article 25. Clàusules administratives**
+
+$40
+
+**Article 26. Prescripcions tècniques**
+
+$42
+
+**Article 27. Divisió en lots**
+
+A fi de permetre i impulsar la participació de les microempreses i les petites i mitjanes empreses en la contractació pública, els òrgans de contractació han de preveure la realització independent de cada una de les parts del contracte, mitjançant la divisió en lots separats, sempre que l’objecte del contracte no constitueixi una unitat en si mateix o que no sigui convenient la divisió del contracte per raons de caràcter tècnic, funcional o d’interès públic. Els òrgans de contractació fixen la mida i l’objecte d’aquests lots. Poden limitar la participació d’un licitador en un únic lot o en diversos. Cada lot constitueix un contracte, llevat que els plecs estableixin una previsió diferent. El procediment es determina d’acord amb la quantia total del contracte.
+
+**Article 22. Informació prèvia**
+
+1. Els poders adjudicadors poden consultar amb els operadors econòmics i fer estudis de mercat, amb l’objectiu de preparar correctament les licitacions i informar els operadors dels seus plans i de les condicions i els requisits que demanaran per concórrer-hi.
+2. Aquestes consultes es fan en condicions que no falsegin la lliure competència en la tramitació i l’adjudicació de la contractació. Les consultes i els seus resultats es publiquen en el perfil del contractant. No impedeixen la concurrència a la licitació dels operadors econòmics que han estat consultats.
+
+#### Capítol segon. Adjudicació dels contractes
+
+##### Secció primera. Procediments d’adjudicació
+
+**Article 28. Formes d’adjudicació**
+
+1. Els contractes públics s’adjudiquen seguint les normes i els procediments previstos en la Llei, d’acord amb el principi de millor relació qualitat-preu. Les formes d’adjudicació dels contractes són el concurs, la subhasta i la contractació directa. El concurs és la forma d’adjudicació ordinària, en les modalitats que es detallen a la secció segona d’aquest capítol.
+2. En el concurs l’adjudicació recau en el proponent que, en conjunt, presenta la proposició més avantatjosa, d’acord amb una pluralitat de criteris econòmics i qualitatius.
+3. En la subhasta l’adjudicació recau en el proponent que presenta la proposició més avantatjosa, d’acord amb un únic criteri d’adjudicació que ha de ser quantitatiu, d’acord amb l’article 37.6.
+4. En la contractació directa l’adjudicació recau en el proponent que presenta la proposició més avantatjosa d’acord amb el procediment negociat, sempre que es donin les circumstàncies d’excepció previstes per aquest procediment, d’acord amb l’article 30.
+
+**Article 29. Subhasta**
+
+1. La subhasta pot emprar-se sempre que les especificacions del contracte que s’hagi d’adjudicar es puguin establir de manera precisa en els plecs que regeixen la licitació i que les prestacions que constitueixen el seu objecte no tinguin una gran complexitat.
+2. En el cas dels contractes d’obres, la subhasta pot aplicar-se quan l’estimació base i la quantia d’adjudicació són inferiors a 180.000 euros, sempre que l’execució no exigeixi una qualificació tècnica especial o la utilització de maquinària o aparellatge complexos.
+3. Les disposicions generals que inclou la subsecció primera de la secció referent al concurs són aplicables a la subhasta sempre que hi siguin compatibles tenint en compte les particularitats que estableixen els apartats anteriors.
+
+**Article 30. Contractació directa**
+
+$46
+
+##### Secció segona. Concurs
+
+**Article 31. Principis que regeixen la licitació**
+
+$4c
+
+**Article 32. Anunci previ i de licitació**
+
+$4e
+
+**Article 33. Propostes dels interessats**
+
+$50
+
+**Article 34. Documentació acreditativa del compliment dels requisits**
+
+$52
+
+**Article 35. Subhasta electrònica**
+
+$54
+
+**Article 36. Successió en el procediment de licitació**
+
+Si durant la tramitació d’un procediment i abans de la formalització del contracte es produeix una operació de fusió, escissió o transmissió del patrimoni empresarial o d’una branca de l’activitat, a l’empresa licitadora o candidata la succeeix en el procediment la societat absorbent, la resultant de la fusió, la beneficiària de l’escissió o l’adquirent del patrimoni empresarial o de la branca d’activitat corresponent, sempre que reuneixi les condicions de capacitat i absència de prohibició de contractar, que acrediti la seva solvència i el compliment de les condicions exigides en el plec de clàusules administratives particulars, i que l’òrgan de contractació ho autoritzi expressament.
+
+**Article 37. Criteris d’adjudicació del contracte**
+
+$56
+
+**Article 38. Càlcul del cost del cicle de vida**
+
+$58
+
+**Article 39. Ofertes amb preus desproporcionats**
+
+$5a
+
+**Article 40. Classificació de les ofertes**
+
+$5c
+
+**Article 41. Adjudicació del contracte**
+
+$5e
+
+**Article 42. Formalització del contracte**
+
+$62
+
+**Article 43. Procediment obert**
+
+1. Quan un contracte s’adjudica per procediment obert, qualsevol operador econòmic que compleix els requisits establerts legalment pot presentar una proposta. Qualsevol negociació dels termes del contracte queda completament exclosa.
+2. El termini de presentació d’ofertes, des de la data de la publicació de l’anunci de la licitació, ha de ser d’un mínim de trenta dies. Aquest termini es pot escurçar fins a la meitat si l’òrgan de contractació ha publicat anuncis previs o bé en el cas que concorrin circumstàncies que justifiquin la urgència de la tramitació, tal com estableix l’article 24.1.b).
+3. El termini per adjudicar el contracte és de fins a quinze dies si l’únic criteri per adjudicar-lo és el preu, i de fins a dos mesos quan es tenen en compte una pluralitat de criteris. El plec de clàusules administratives particulars pot establir un termini diferent.
+
+**Article 44. Procediment restringit**
+
+1. El procediment restringit és especialment indicat per als contractes de serveis de gran complexitat o estratègics.
+2. En el procediment restringit, tota empresa interessada pot presentar una sol·licitud de participació, responent a una convocatòria de licitació. Només les empreses que són seleccionades per l’òrgan de contractació poden presentar ofertes. Queda completament exclosa qualsevol negociació dels termes del contracte.
+3. Abans de l’anunci de licitació, l’òrgan de contractació estableix en el plec de clàusules administratives els criteris objectius de solvència que han de complir les empreses per ser seleccionades. Indica el nombre mínim i, si ho considera, el nombre màxim d’empresaris que seleccionarà, que no pot ser inferior a cinc.
+4. El termini de presentació de les ofertes pren en consideració la complexitat i l’abast del contracte, o els objectius estratègics perseguits.
+5. Els terminis d’adjudicació del contracte són els mateixos que per al procediment obert.
+
+**Article 45. Procediments negociats**
+
+$66
+
+**Article 46. Diàleg competitiu**
+
+$68
+
+**Article 47. Associació per a la innovació**
+
+$6a
+
+**Article 48. Concurs de projectes**
+
+$6c
+
+#### Capítol tercer. Execució dels contractes
+
+**Article 49. Efectes i execució del contracte**
+
+$6e
+
+**Article 50. Modificacions del contracte**
+
+$70
+
+**Article 51. Suspensió del contracte**
+
+Si el poder adjudicador decideix la suspensió temporal del contracte, l’adjudicatari té dret a percebre una indemnització pels danys i perjudicis soferts, degudament verificats.
+
+**Article 52. Extinció del contracte**
+
+Els contractes s’extingeixen quan es compleixen o per resolució.
+
+**Article 53. Resolució del contracte**
+
+$72
+
+**Article 54. Cessió del contracte i subcontractació**
+
+$74
+
+**Article 55. Recepció de la prestació**
+
+$76
+
+**Article 55 bis. Portal de factures electròniques i Registre de factures electròniques del sector públic**
+
+$78
+
+**Article 56. Revisió de preus**
+
+1. Els contractes a què es refereix aquesta Llei la durada dels quals és superior a un any poden ser objecte de revisió del preu establert, un cop transcorregut el primer període anual d’execució.
+2. Els preus es poden revisar també atenent variacions dels costos dels contractistes que siguin imprevistes i sobrevingudes i que afectin l’equilibri econòmic del contracte.
+3. Les fórmules o els sistemes de revisió de preus es fixen en el plec de clàusules administratives. Això no obstant, el Govern i els comuns poden aprovar fórmules o sistemes tipus aplicables a les diverses classes de contractes de l’Administració respectiva i de les entitats parapúbliques o de dret públic que en depenguin.
+4. En el cas de demora del contractista, i sens perjudici de les penalitzacions que se li poden imposar, no s’aplica la revisió de preus pels períodes de retard.
+
+#### Capítol quart. Garanties exigibles en els contractes públics
+
+**Article 57. Garantia provisional**
+
+1. En el procediment de contractació no és procedent l’exigència d’una garantia provisional llevat que l’òrgan de contractació, per motius d’interès públic, ho consideri necessari i ho justifiqui en l’expedient. En aquest darrer cas, si el poder adjudicador ha establert un tipus de licitació o estimació base del contracte, l’import de la garantia provisional és del 2% d’aquesta estimació. En la resta de casos, l’òrgan de contractació en determina l’import, sense excedir el 2% del pressupost estimat del contracte.
+2. La garantia provisional és retornada immediatament després de l’adjudicació definitiva del contracte, excepte la de l’adjudicatari, que és retinguda fins a la formalització del contracte. En el cas de l’adjudicatari, es pot aplicar el seu import a la garantia definitiva.
+
+**Article 58. Garantia definitiva**
+
+$7a
+
+**Article 59. Garanties admissibles**
+
+La garantia es pot constituir per transferència bancària, per xec bancari, mitjançant un aval d’entitat bancària o una assegurança de caució subscrita amb una entitat asseguradora degudament autoritzades per operar al Principat d’Andorra, aportant el justificatiu bancari de la constitució de la garantia, quan escaigui.
+L’òrgan de contractació pot admetre, si els plecs de clàusules administratives ho preveuen, i a demanda de l’adjudicatari, que es constitueixi mitjançant la retenció del seu import en el pagament inicial al contractista; en aquest cas, cal fer-ho constar en el contracte en el moment que es formalitzi.
+
+**Article 60. Contractes sense garantia**
+
+No és necessària la constitució de garantia en els contractes següents:
+a) Contractes de subministraments menors en què el pagament del preu es condicioni al lliurament total i únic dels béns.b) Contractes de subministraments en què s’obligui a lliurar una pluralitat de béns, de forma successiva i per un preu unitari, amb entregues subordinades a les necessitats del poder adjudicador i sense que la quantitat total es defineixi amb exactitud en el moment de perfeccionar el contracte.c) Contractes de serveis.d) Contractes que tinguin per objecte la prestació de serveis socials o la inclusió social o laboral de persones que pertanyen a col·lectius en risc d’exclusió.
+
+#### Capítol cinquè. Contractació electrònica
+
+**Article 61. Obligació de la contractació electrònica**
+
+$7c
+
+**Article 62. Requisits de la contractació electrònica**
+
+$7e
+
+**Article 63. Règims especials i excepcions**
+
+$80
+
+#### Capítol sisè. Racionalització tècnica de la contractació
+
+**Article 64. Principis generals**
+
+Per racionalitzar i ordenar l’adjudicació de contractes, els poders adjudicadors poden concloure acords marc, articular sistemes dinàmics o centralitzar la contractació d’obres, serveis i subministraments en serveis especialitzats.
+
+**Article 65. Acords marc**
+
+1. Un o diversos òrgans de contractació del sector públic poden efectuar acords marc amb una o diverses empreses per tal de fixar les condicions a què s’han d’ajustar els contractes que pretenguin adjudicar durant un període determinat, en particular pel que fa als preus i, si escau, a les quantitats previstes, sempre que el recurs a aquests instruments no s’efectuï de manera abusiva o de manera que la competència es vegi obstaculitzada, restringida o falsejada.
+2. La durada d’aquests acords no pot excedir els quatre anys.
+3. Per formalitzar aquests acords s’han de seguir les normes de la Llei relatives a la preparació i l’adjudicació de contractes públics.
+4. La possibilitat de formalitzar contractes segons un acord marc s’ha de publicar en el perfil del contractant i en el
+Butlletí Oficial del Principat d’Andorra
+.
+5. Només les empreses que han signat l’acord marc poden concórrer als contractes que se subscriuen sobre la base d’aquest acord. Reglamentàriament es determina el procediment d’adjudicació.
+
+**Article 66. Sistemes dinàmics d’adquisició**
+
+$82
+
+**Article 67. Centrals de contractació i contractació conjunta esporàdica**
+
+$84
+
+**Article 68. Contractació transnacional**
+
+1. Els poders adjudicadors andorrans poden adjudicar conjuntament amb poders adjudicadors d’altres estats un contracte públic, subscriure un acord marc o administrar un sistema dinàmic d’adquisició o una central de compres.
+2. El Govern pot impulsar la participació en centrals de compres transnacionals quan una situació excepcional aconselli unir recursos amb altres estats per garantir els serveis, els subministraments o les obres necessaris.
+Les parts han de formalitzar un acord que estableixi les seves responsabilitats i les normes nacionals aplicables i l’organització interna del procediment de contractació, així com el sistema de solució de conflictes, que llevat que es digui el contrari és a través de l’arbitratge internacional.
+3. En el cas que per licitar s’hagi constituït una entitat conjunta dotada de personalitat jurídica, la determinació de la normativa nacional aplicable es fa per acord de la mateixa entitat.
+
+**Article 20. Requisits dels contractes**
+
+1. Els contractes han de tenir un objecte determinat, que ha d’estar relacionat amb l’atenció de les necessitats de l’Administració en l’exercici de les seves competències. Aquestes necessitats s’han de justificar adequadament a l’expedient administratiu.
+2. Els contractes han de preveure un preu cert, fix o determinable per paràmetres objectius previstos en el mateix contracte. Amb caràcter general, el preu s’expressa en euros o en un percentatge sobre l’import d’execució. Els contractes poden incloure clàusules de revisió del preu. Els òrgans de contractació vetllen perquè el preu dels contractes públics sigui adequat al de mercat.
+3. Els contractes han de respondre als principis de publicitat i concurrència, llevat de les excepcions establertes per la Llei. La tramitació i formalització dels contractes se sotmeten al que estableix aquest títol.
+
+**Article 21. Fases de la contractació**
+
+La tramitació de la contractació consta de les fases següents:
+a) Preparació de l’expedient de contractació.b) Aprovació de l’expedient de contractació.c) Licitació.d) Adjudicació del contracte.e) Formalització del contracte.f) En els contractes d’obres i en les concessions d’obres, el replantejament.g) Execució i, si escau, modificació del contracte.h) Extinció i liquidació del contracte.
+
+### Títol III. Tipus de contractes
+
+#### Capítol primer. Contracte d’obres
+
+**Article 71. Objecte del contracte**
+
+1. Són contractes d’obres els que tenen per objecte:
+a) L’execució de moviment de terres, d’estructures de contenció de terres, el tractament de talussos i la consolidació de terrenys.b) La construcció de ponts, viaductes, túnels, obres hidràuliques i altres grans estructures, monuments, edificacions de tota mena i qualsevol realització anàloga d’enginyeria civil.c) La realització d’infraestructures de transport i de serveis, i instal·lacions elèctriques, mecàniques, hidrològiques, de telecomunicacions i altres d’anàlogues.d) La reforma, la reparació, l’enderroc, la reposició o la conservació de les obres assenyalades en les lletres a), b) i c).
+2. Els poders adjudicadors poden aportar, totalment o parcialment, els materials, les instal·lacions o altres mitjans destinats a l’execució de les obres, si així es preveu en els plecs.
+
+**Article 72. Projecte d’obres**
+
+$86
+
+**Article 73. Abast del projecte**
+
+1. Com a norma general, els projectes s’han de referir a obres completes, és a dir, susceptibles de satisfer totalment l’ús general o el servei públic que les motiva, i han de comprendre tots i cadascun dels elements necessaris per a la utilització de l’obra i han d’estar definits, quan escaigui segons l’article 27, per lots adequats als professionals classificats.
+2. Com a excepció, es poden elaborar els projectes separats corresponents en els supòsits d’obres amb parts ben diferenciades. Nogensmenys, l’elaboració de projectes separats no pot respondre al propòsit de disminuir l’import de la contractació per tal d’eludir les normes aplicables.
+
+**Article 74. Contingut del projecte**
+
+$88
+
+**Article 75. Contractació conjunta de l’elaboració del projecte i execució de les obres**
+
+$8a
+
+**Article 76. Formes d’adjudicació**
+
+1. Els contractes d’obres s’adjudiquen mitjançant subhasta, concurs o contractació directa, d’acord amb el que estableix la Llei.
+2. Es fan mitjançant concurs els contractes d’obres següents:
+a) Els que no permeten la fixació prèvia d’un pressupost definitiu.b) Els que es refereixen a obres els projectes o prescripcions tècniques de les quals no hagin pogut ser establerts prèviament pel poder adjudicador i els avantprojectes de les quals hagin de presentar els licitadors.c) Els relatius a obres de tecnologia especialment avançada o a obres l’execució de les quals sigui particularment complexa.d) I, en tot cas, els de quantia superior o igual a 180.000 euros.
+
+**Article 77. Replantejament de l’obra**
+
+1. Un cop formalitzat el contracte, s’efectua la comprovació del replantejament de l’obra, prèviament realitzat pel contractista adjudicatari, que té la finalitat de verificar-ne la realitat geomètrica, i la disponibilitat dels terrenys necessària per a la seva execució normal i la de tots els elements que figuren en el projecte aprovat.
+2. El replantejament s’ha de reflectir en una acta que reculli les observacions pertinents i que signen l’òrgan contractant i el contractista.
+
+**Article 78. Execució de les obres i responsabilitat del contractista**
+
+1. Les obres s’executen amb estricta subjecció a les estipulacions contingudes en el plec de clàusules administratives particulars i al projecte que serveix de base al contracte i conforme a les instruccions tècniques que la direcció facultativa de les obres trasllada al contractista.
+2. Durant el desenvolupament de les obres i fins que es compleix el termini de garantia, el contractista és responsable de tots els defectes que es puguin advertir en la construcció.
+
+**Article 79. Qualificació de l’execució de les obres**
+
+$8c
+
+**Article 80. Certificats**
+
+1. A efectes del pagament, els certificats s’expedeixen mensualment, en els primers deu dies del mes següent al mes que correspongui, i inclouen l’obra executada d’acord amb el projecte durant aquest període de temps. Els abonaments corresponents estan subjectes a les rectificacions i variacions que es produeixin en el mesurament final i no suposen de cap manera l’aprovació i la recepció de les obres que comprenen. Només es poden embargar per satisfer el pagament dels salaris dels treballadors del contractista i els deutes amb la Seguretat Social.
+2. Quan la naturalesa de l’obra ho permet, es pot establir el sistema de retribució a preu fet. El sistema de retribució a preu fet pot, si escau, configurar-se com de preu tancat, amb l’efecte que el preu ofert per l’adjudicatari es manté invariable i no són abonables les modificacions del contracte que siguin necessàries per corregir errors o omissions patits en la redacció del projecte.
+
+**Article 81. Recepció de les obres**
+
+$8e
+
+**Article 82. Responsabilitat per vicis ocults**
+
+$90
+
+**Article 83. Obres d’iniciativa privada**
+
+1. Les persones físiques o jurídiques, de nacionalitat andorrana o estrangera, interessades en l’execució d’obres de competència pública es poden constituir en associació administrativa i demanar a l’Administració la realització de les dites obres. S’han de comprometre a assumir-ne la part de cost que convenen amb l’Administració i a seguir els procediments de contractació establerts en la Llei.
+2. La legitimació per promoure l’associació correspon als propietaris d’immobles compresos en l’àrea d’influència de les obres. Un cop constituïda l’associació, cap d’aquests propietaris no es pot excusar de pertànyer-hi.
+3. Si l’Administració accepta la proposta de repartiment, entre els membres de l’associació, de la despesa assumida, s’efectua per conveni entre ells, si bé el pagament de les quantitats es determina de comú acord entre l’Administració i l’associació.
+
+#### Capítol segon. Contracte de concessió d’obres
+
+**Article 84. Àmbit d’aplicació**
+
+Els contractes de concessió d’obres públiques tenen per objecte la realització per part del concessionari de les prestacions regulades en el |capítol primer, relatiu al contracte d’obres. Per mitjà d’aquest contracte, un o més poders adjudicadors confien l’execució d’obres a un o més operadors econòmics i permeten explotar les obres objecte del contracte i percebre la tarifa d’ús i, en alguns casos, rebre a més un pagament del poder o dels poders adjudicadors.
+
+**Article 85. Actuacions preparatòries**
+
+$92
+
+**Article 86. Execució de les obres**
+
+$94
+
+**Article 87. Comprovació de les obres**
+
+1. A l’acabament de les obres, i a l’efecte del seguiment del correcte compliment del contracte per part del concessionari, l’Administració concedent ha d’aixecar una acta de comprovació. L’aixecament i el contingut de l’acta de comprovació s’han d’ajustar al que disposa el plec de clàusules administratives particulars.
+2. L’aprovació de l’acta de comprovació de les obres per part de l’òrgan de l’Administració concedent porta implícita l’autorització per a l’obertura de les mateixes obres a l’ús públic, sense perjudici d’altres autoritzacions administratives que siguin necessàries.
+
+**Article 88. Drets i obligacions del concessionari**
+
+$96
+
+**Article 89. Zones complementàries d’explotació comercial**
+
+1. Atenent la seva finalitat, les obres poden incloure altres zones o terrenys per a l’execució d’activitats complementàries, comercials o industrials que són necessàries o convenients per la utilitat que presten als usuaris de les obres i que són susceptibles d’un aprofitament econòmic diferenciat.
+2. Les zones o els espais corresponents queden subjectes al principi d’unitat de gestió i control de l’Administració concedent i són explotats conjuntament amb les obres pel concessionari, directament o a través de tercers, d’acord amb el plec de la concessió.
+
+**Article 90. Prerrogatives i drets de l’Administració**
+
+$98
+
+**Article 91. Intervenció de la concessió**
+
+$9a
+
+**Article 92. Finançament de les obres**
+
+$9c
+
+**Article 93. Viabilitat econòmica de les obres**
+
+$9e
+
+**Article 94. Hipoteca de la concessió**
+
+$a0
+
+**Article 95. Durada i extinció de la concessió**
+
+$a2
+
+**Article 96. Resolució del contracte**
+
+$a4
+
+#### Capítol tercer. Contracte de concessió de serveis
+
+**Article 97. Objecte i règim jurídic del contracte**
+
+$a6
+
+**Article 98. Actuacions preparatòries**
+
+1. Els plecs de clàusules administratives particulars detallen tots els aspectes necessaris per al bon funcionament, inclòs l’econòmic, dels contractes de concessió de serveis.
+A més del que estableix l’article 25.3, inclouen:
+a) Les condicions de prestació del servei i, si escau, les tarifes que han de pagar els usuaris i els procediments per revisar-les i el cànon que cal pagar a l’Administració.b) La distribució de riscos entre l’Administració i el concessionari, que en tot cas assumeix sempre el risc operacional.
+2. La tramitació de l’expedient va precedida de l’elaboració i l’aprovació d’un estudi de viabilitat de l’explotació dels serveis o, si escau, d’un estudi de viabilitat economicofinancera. Aquests informes són vinculants si conclouen la inviabilitat del servei. Si la concessió de serveis inclou l’execució d’obres, cal aprovar l’avantprojecte de construcció i explotació dels treballs i les prescripcions tècniques corresponents.
+
+**Article 99. Execució del contracte**
+
+$a8
+
+**Article 100. Modificació del contracte**
+
+$aa
+
+**Article 101. Durada i reversió del servei**
+
+$ac
+
+**Article 102. Resolució del contracte**
+
+$ae
+
+**Article 103. Cessió i subcontractació**
+
+La cessió del contracte de concessió de serveis s’admet en les condicions establertes en l’article 54. Pel que fa a la subcontractació, el poder adjudicador pot demanar al licitador que esmenti en l’oferta la part de la concessió que es proposa subcontractar i els subcontractistes que proposa.
+
+**Article 104. Remissió normativa**
+
+En tot allò que no està previst en aquest capítol s’aplica el que disposa el capítol segon, relatiu a la concessió d’obres, sempre que sigui compatible amb la naturalesa de les concessions de serveis.
+
+#### Capítol quart. Contracte de subministrament
+
+**Article 105. Objecte del contracte**
+
+$b0
+
+**Article 106. Plecs de prescripcions tècniques**
+
+1. La contractació de subministraments exigeix l’aprovació d’un plec de prescripcions tècniques.
+2. En els plecs de prescripcions tècniques relatius als contractes de subministrament de materials han de ser detallats, i s’hi ha d’especificar el nombre, la qualitat, el preu i la resta de característiques. Els materials subministrats han de ser objecte de recompte i comprovació, fins i tot mitjançant l’anàlisi de les seves característiques i la qualitat. L’acta de recepció reflecteix el resultat del recompte i la comprovació. En cap cas es podran incloure als plecs de prescripcions tècniques noms de marques comercials concretes.
+3. En els subministraments menors es pot substituir el plec per una proposta d’adquisició raonada. Tenen la consideració de subministraments menors els que es refereixen a béns consumibles o de fàcil deteriorament per l’ús l’import dels quals no excedeix la quantitat que estableix l’article 30.1.d).
+
+**Article 107. Contractació directa**
+
+A més del que disposa l’article 30, es pot utilitzar la contractació directa en els supòsits següents:
+a) Necessitat de lliuraments complementaris efectuats pel subministrador originari destinats a la renovació parcial o a l’ampliació de subministraments o instal·lacions ja existents, quan el canvi de subministrador obligaria el poder adjudicador a adquirir un material tècnic diferent que suposaria una incompatibilitat o dificultats tècniques desproporcionades en les condicions d’utilització o manteniment.b) Béns la uniformitat dels quals hagi estat declarada necessària per l’entitat contractant, sempre que l’adopció del model de què es tracti s’hagi efectuat prèviament i independentment per mitjà de concurs.
+
+**Article 108. Formalització**
+
+Els béns objecte del subministrament es reben amb l’acta de conformitat corresponent. En el cas de compres directes de subministraments menors, la factura corresponent substitueix el document contractual i l’acta de conformitat.
+
+**Article 109. Execució del contracte**
+
+$b2
+
+**Article 110. Període de garantia**
+
+1. Una vegada efectuat el subministrament comença a comptar el període de garantia fixat en el plec de clàusules administratives o en la proposta d’adquisició.
+2. Si durant el termini de garantia s’acredita l’existència de vicis o defectes en la cosa venuda, l’adjudicatari ha de reposar els béns inadequats o ha de reparar-los si això últim és suficient.
+3. Acabat el termini de garantia sense que l’òrgan de contractació hagi formulat objecció o denúncia, l’adjudicatari queda exempt de responsabilitat.
+
+**Article 111. Pagament del preu**
+
+1. L’adjudicatari té el dret que se li aboni el preu dels subministraments entregats, d’acord amb les condicions establertes en el contracte i respectant els terminis definits en l’article 55.5. Si el preu es fixa per preus unitaris i es determina el nombre d’unitats que cal subministrar, es poden incrementar en un 10% les unitats que cal subministrar sense necessitat de modificar el contracte, sempre que així s’hagi previst en les clàusules administratives particulars i s’acrediti el finançament en el contracte original.
+2. Si concorren raons tècniques o econòmiques justificades, es pot establir en el plec de clàusules administratives particulars el pagament en diners i en béns de la mateixa classe en concepte de represa, que no suposin en cap cas més del 50% del preu total.
+
+**Article 112. Remissió normativa**
+
+En tot allò que no està previst en aquest capítol s’aplica el que disposa el capítol primer, relatiu al contracte d’obres, sempre que sigui compatible amb la naturalesa del contracte de subministraments.
+
+#### Capítol cinquè. Contracte de serveis
+
+**Article 113. Objecte del contracte**
+
+$b4
+
+**Article 114. Especialitats de la contractació**
+
+$b6
+
+**Article 115. Execució del contracte**
+
+1. El contracte s’executa amb subjecció al que s’estableix en les seves clàusules i en els plecs de clàusules administratives, i d’acord amb les instruccions que el responsable del contracte doni al contractista per interpretar-lo.
+2. El contractista és responsable de la qualitat tècnica dels treballs que desenvolupi i de les prestacions i els serveis efectuats, així com de les conseqüències que es dedueixin per al poder adjudicador o per a tercers de les omissions, els errors, els mètodes inadequats o les conclusions incorrectes en l’execució del contracte.
+3. Si durant el termini de garantia s’acredita l’existència de vicis o defectes en els treballs efectuats, l’òrgan de contractació té dret a reclamar al contractista que els esmeni. Transcorregut el termini de garantia sense que hagi formalitzat cap objecció o denúncia, el contractista queda exempt de responsabilitat per raó de la prestació.
+
+**Article 116. Preu dels serveis**
+
+1. El preu en el contracte de serveis pot estar referenciat en components de la prestació, unitats d’execució o unitats de temps, o bé pot establir-se a tant alçat. Pot combinar diverses d’aquestes modalitats.
+2. Si el preu es determina per unitats d’execució, no es considera modificació, si així s’ha establert en el plec de clàusules administratives particulars, la variació en les unitats realment executades respecte a l’estimació màxima del nombre d’unitats que figuri en el plec, sempre que no representi un increment superior al 10% del preu i mentre es disposi de pressupost addicional i internament es comprometin els crèdits.
+
+**Article 117. Contractes de serveis en benefici directe de la ciutadania**
+
+$b8
+
+**Article 118. Correcció d’errors i responsabilitats en els contractes d’elaboració de projectes d’obres**
+
+1. Quan el contracte de serveis consisteix en l’elaboració íntegra d’un projecte d’obra, l’òrgan de contractació exigeix l’esmena pel contractista dels defectes, insuficiències tècniques, errors materials, omissions i infraccions de preceptes legals o reglamentaris que li siguin imputables en el termini màxim de dos mesos. En el cas que no ho faci, l’òrgan de contractació pot optar per atorgar un nou termini improrrogable d’un mes o resoldre el contracte, amb pèrdua de la garantia i el pagament d’una indemnització.
+2. Quan el pressupost d’execució de l’obra prevista en el projecte es desvia en més d’un 20%, tant per excés com per defecte, del cost real de la mateixa obra, com a conseqüència d’errors o omissions imputables al contractista consultor, es minora el preu del contracte d’elaboració de projecte, en concepte d’indemnització, en funció del percentatge de desviació, i fins a un màxim equivalent a la meitat de la desviació.
+
+**Article 119. Remissió normativa**
+
+En tot allò que no està previst en aquest capítol s’aplica el que disposa el capítol primer, relatiu al contracte d’obres, sempre que sigui compatible amb la naturalesa del contracte de serveis.
+
+#### Capítol sisè. Contractes d’entitats que no tenen la condició d’administracions públiques
+
+**Article 120. Règim jurídic**
+
+Els contractes dels poders adjudicadors que no tenen la condició d’administracions públiques es regeixen per les normes d’aquest capítol.
+
+**Article 121. Adjudicació dels contractes**
+
+1. Els contractes d’obres, de concessions d’obres i de concessions de serveis de valor estimat inferior a 40.000 euros, i els contractes de serveis i subministraments de valor estimat inferior a 15.000 euros, poden adjudicar-se directament a qualsevol operador econòmic amb capacitat d’obrar i que compta amb l’habilitació professional necessària per dur a terme la prestació objecte del contracte. Per adjudicar aquests contractes es demanen, sempre que sigui possible, tres pressupostos diferents.
+2. Els contractes d’obres, de concessions d’obres i de concessions de serveis de valor estimat igual o superior a 40.000 euros, i els contractes de serveis i subministraments de valor estimat igual o superior a 15.000 euros, s’adjudiquen per qualsevol dels procediments previstos al capítol segon del títol II.
+3. En qualsevol cas, s’haurà de comunicar a tots els licitadors la identitat de l’adjudicatari així com l’import pel que s’hagués fet l’adjudicació.
+
+**Article 122. Efectes i extinció dels contractes**
+
+$ba
+
+**Article 69. Aspectes específics dels contractes del sector públic**
+
+Les disposicions d’aquest títol regulen les especificitats dels contractes d’obres, de concessió d’obres, de concessió de serveis, de subministraments i de serveis, així com els contractes d’entitats que no tenen la condició d’administracions públiques. Complementen la resta de disposicions de la Llei, que estableixen els aspectes comuns.
+
+**Article 70. Contractes mixtos**
+
+$be
+
+### Títol IV. Disposicions organitzatives
+
+#### Capítol primer. Disposicions organitzatives
+
+##### Secció primera. Òrgans competents
+
+**Article 124. Òrgans de contractació**
+
+Són òrgans de contractació els enumerats en l’article 8.
+
+**Article 125. Mesa de contractació**
+
+$c0
+
+**Article 126. Junta de Contractació Administrativa**
+
+$c2
+
+##### Secció segona. Registres oficials
+
+**Article 127. Registre Oficial de Licitadors i Empreses Classificades**
+
+$c4
+
+**Article 128. Registre Oficial de Contractes Públics**
+
+1. Els poders adjudicadors referits a l’article 2 disposen, cadascun d’ells, d’un registre oficial de contractes públics.
+2. En el Registre Oficial de Contractes Públics es pren nota, amb les precisions que reglamentàriament s’assenyalen, dels aspectes següents:
+a) Els contractes formalitzats pels poders adjudicadors.b) Les modificacions i les pròrrogues dels contractes esmentats.c) El compliment o, si és el cas, la resolució dels contractes.
+3. L’accés als registres oficials de contractes públics és públic.
+
+##### Secció tercera. Plataforma de contractació
+
+**Article 129. Plataforma de contractació del sector públic**
+
+$c6
+
+**Article 123. Planificació de la contractació pública**
+
+Els poders adjudicadors estableixen, en l’elaboració dels marcs pressupostaris, criteris i estratègies de planificació de la inversió pública, i consulten les organitzacions representatives dels operadors econòmics del Principat.

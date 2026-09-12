@@ -1,0 +1,58 @@
+# Llei d'intercanvi d'informació fiscal (Llei 19/2016)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/intercanvi-fiscal
+Articles: 10 · versions consolidades: 7
+Instantania del consolidat: 2026-09-12T05:30:09.955617Z
+
+---
+
+#### Capítol primer. Disposicions generals
+
+**Article 1. Objecte i àmbit d’aplicació**
+
+Aquesta Llei regula l’intercanvi automàtic d’informació en matèria fiscal entre el Principat d’Andorra i altres estats en el marc dels acords i convenis internacionals següents:
+a) Protocol d’esmena de l’Acord entre el Principat d’Andorra i la Comunitat Europea relatiu a l’establiment de mesures equivalents a les previstes a la Directiva 2003/48/CE del Consell en matèria de fiscalitat dels rendiments de l’estalvi en forma de pagament d’interessos, signat el 12 de febrer del 2016, i el Protocol d’esmena de l’Acord entre el Principat d’Andorra i la Unió Europea relatiu a l’intercanvi automàtic d’informació sobre comptes financers per millorar el compliment fiscal internacional, signat el 13 d’octubre del 2025, que el modifica.b) Altres convenis o acords internacionals que estableixin un intercanvi automàtic d’informació de comptes financers entre altres estats i el Principat d’Andorra amb aplicació de l’estàndard comú OCDE de les normes de comunicació i diligència deguda relatives a la informació sobre comptes financers, així com l’addenda a l’Acord multilateral entre autoritats competents relatiu a l’intercanvi automàtic d’informació sobre comptes financers, signada el 14 de novembre del 2024.
+
+**Article 2. Definicions**
+
+Les disposicions d’aquesta Llei s’interpreten d’acord amb les definicions contingudes a la secció VIII de l’annex I. L’annex I i l’annex II formen part integral d’aquesta Llei i estableixen normes de comunicació i diligència deguda relatives a la informació sobre comptes financers a institucions financeres andorranes.
+
+**Article 3. Institucions financeres andorranes obligades a comunicar informació**
+
+$1f
+
+**Article 4. Institucions financeres andorranes no obligades a comunicar informació**
+
+$25
+
+**Article 5. Comptes exclosos**
+
+$29
+
+**Article 6. Lloc, forma i termini de la comunicació automàtica d’informació**
+
+1. La comunicació d’informació a què fa referència la secció I de l’annex I d’aquesta Llei té caràcter anual i s’efectua en la forma, el lloc i el termini que es determinin reglamentàriament.
+2. El Ministeri de Finances transmet la informació requerida a les autoritats competents dels estats corresponents en el termini que estableixi l’acord o el conveni internacional aplicable.
+
+**Article 7. Intercanvi d’informació amb sol·licitud prèvia**
+
+1. El Ministeri de Finances intercanvia, amb la sol·licitud prèvia de les autoritats competents, informació que sigui
+previsiblement rellevant per
+a l’aplicació de l’acord o el conveni internacional que correspongui o per a l’administració o l’execució de les lleis nacionals relatives als impostos de tota classe i denominació de l’estat sol·licitant o de les seves subdivisions polítiques o autoritats locals, en la mesura que la imposició en virtut de les dites lleis nacionals no sigui contrària a un conveni per evitar la doble imposició entre Andorra i l’estat de què es tracti.
+2. L’intercanvi d’informació amb sol·licitud prèvia s’efectua en els termes i les condicions que estableix la Llei 10/2017, del 25 de maig, d’intercanvi d’informació mitjançant sol·licitud prèvia i d’intercanvi d’informació espontani en matèria fiscal.
+
+**Article 8. Confidencialitat i protecció de dades**
+
+$2d
+
+#### Capítol segon. Altres disposicions
+
+**Article 9. Règim de comprovació**
+
+1. El ministeri encarregat de les finances, quan ho consideri necessari als efectes de qualsevol actuació dirigida a la comprovació del compliment d’aquesta Llei, està facultat per exercir les prerrogatives de control previstes en la Llei 21/2014, del 16 d’octubre, de bases de l’ordenament tributari.
+2. Les institucions financeres andorranes obligades a comunicar informació han de presentar anualment al ministeri encarregat de les finances un informe d’una entitat auditora externa sobre el compliment de les obligacions d’aquesta Llei. Aquest informe es presenta en la forma, el lloc i el termini que es determinin reglamentàriament. Per a les institucions financeres que disposin d’auditors externs, l’informe el poden fer els mateixos auditors externs amb el vistiplau previ del ministeri encarregat de les finances.
+El ministeri encarregat de les finances pot sol·licitar i revisar la informació complementària i els aclariments que consideri oportuns sobre el contingut de l’informe de l’entitat auditora.
+
+**Article 10. Règim sancionador**
+
+$33

@@ -1,0 +1,172 @@
+# Llei de la representació digital d'actius (Llei 24/2022)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/actius-digitals
+Articles: 34 · versions consolidades: 2
+Instantania del consolidat: 2026-09-12T05:30:03.533673Z
+
+---
+
+#### Capítol primer. Disposicions generals
+
+**Article 1. Àmbit d’aplicació objectiu**
+
+És objecte de regulació de la Llei:
+a) La configuració taxonòmica dels actius digitals;b) la categorització dels actius digitals;c) el règim de les disposicions dels actius digitals, del poder de disposició i del dret de disposar-ne;d) els drets i les obligacions derivats de la configuració, estructuració, emissió, custòdia, intercanvi, transmissió i amortització dels actius digitals;e) el règim jurídic de les representacions digitals d’actius otokenitzaciód’actius dins el marc legal andorrà, les que s’emetin per part d’empreses registrades a Andorra, les que representin intercanvi de valor per la seva emissió, custòdia, negociació o comercialització d’aquests actius des de la jurisdicció del Principat d’Andorra, així com aquelles que es comercialitzin al Principat d’Andorra;f) els requisits i procediments aplicables a les activitats i transaccions que comportin, mitjançant la utilització de la tecnologia DLT iblockchaino similar, qualsevol tipus de representació digital d’actius, ja siguin tangibles o intangibles, de forma directa o indirectament, com també amb altres funcionalitats accessòries que puguin incorporar;g) els participants en la representació digital d’actius;h) els mecanismes de control intern dels participants en la representació digital d’actius;i) els esdeveniments de generació detokens(EGT) i el seu règim jurídic;j) els fons obtinguts mitjançant l’oferta pública detokenitzaciódigital d’actius;k) les plataformes de compravenda d’actius representats digitalment;l) les empreses de custòdia de representacions digitals d’actius;m) les altres activitats afins: l’assessorament en actius digitals, la gestió de carteres, altres serveis relacionats amb actius digitals, els serveis tangencials als emissors i els organismes d’inversió col·lectiva (OIC) en actius digitals;n) la potestat d’emetre diner digital sobirà programable (DDSP) oCentral Banc Digital Currencies(CBDC);o) les finances descentralitzades o DeFi;p) les activitats tecnològiques d’estructuració i de planificació estratègica, jurídica i econòmica d’emissió, transferència, custodi o col·locació de representacions digitals d’actius que tractin d’eludir les normes d’obligat compliment dels mercats financers en la mesura que descentralitzin el control i la seva governança del supervisor o no s’ajustin als requisits per poder operar en el mercat sota autorització prèvia;q) les activitats considerades com a especials;r) els sistemes i mecanismes que permetin descentralitzar la gestió, administració i control mitjançant normes de consens i governança entre diversos participants, i que possibilitin pseudonimitzar el seu sistema de governança de les activitats i llurs responsabilitats;s) elsstablecoinscom a unitat digital de valor que difereix de les formes de diner existents (dipòsits, diner electrònic, etc.) i que es basa en mecanismes d’estabilització per minimitzar la fluctuació del seu preu enfront del preu de la divisa amb què es referencia;t) els contractes legals intel·ligents osmart legalcontracts i els contractes intel·ligents amb efectes legals;u) el sistema de governança dels participants;v) la creació de l’AndorraDex o Andorra Digital Exchange;w) el sistema de supervisió, seguiment i control per part dels participants en la representació d’actius digitals, regulant un procediment administratiu específic per a l’autorització de les activitats i empreses de serveis que desenvolupin la seva activitat relacionada amb la DLT/blockchaindins del Principat d’Andorra, ix) les infraccions susceptibles de sanció i les sancions corresponents.
+
+**Article 2. Definicions i taxonomia**
+
+$1e
+
+**Article 3. Àmbit d’aplicació subjectiu**
+
+$20
+
+#### Capítol segon. Els actius digitals
+
+**Article 4. Les emissions d’actius digitals**
+
+$24
+
+**Article 5. La representació digital d’actius o tokenització**
+
+$28
+
+**Article 6. Categorització dels actius digitals**
+
+$2a
+
+**Article 7. La disposició dels actius digitals**
+
+$2e
+
+#### Capítol tercer. Les entitats regulades
+
+**Article 8. Els participants en la representació digital d’actius**
+
+$30
+
+**Article 9. Autorització, supervisió i control dels participants en la representació digital d’actius**
+
+$32
+
+**Article 10. Capital apropiat per exercir l’activitat**
+
+$34
+
+**Article 11. Les assegurances de l’activitat**
+
+$36
+
+**Article 12. Els mecanismes de control intern de l’activitat de representacions digitals d’actius**
+
+$38
+
+#### Capítol quart. La llicència d’activitat
+
+**Article 13. Procediment per al registre previ d’activitat**
+
+$3a
+
+**Article 14. La resolució de l’expedient de registre previ d’activitat**
+
+$3c
+
+**Article 15. L’obligatorietat de començar l’activitat**
+
+$3e
+
+**Article 16. La revocació de la llicència d’activitat**
+
+$40
+
+**Article 17. L’exercici de l’activitat**
+
+$42
+
+#### Capítol cinquè. Règim jurídic de l’emissió de representacions digitals d’actius
+
+**Article 18. La informació bàsica i addicional per a l’emissió**
+
+$44
+
+**Article 19. La responsabilitat de l’emissió**
+
+$48
+
+**Article 20. Els fons obtinguts mitjançant l’oferta pública de tokenització digital d’actius**
+
+$4a
+
+#### Capítol sisè. Règim jurídic dels partícips en la representació digital d’actius
+
+**Article 21. El règim jurídic de les plataformes de compravenda d’actius representats digitalment**
+
+$4c
+
+**Article 22. El règim jurídic de les empreses de custòdia d’actius digitals**
+
+$4e
+
+**Article 23. El règim jurídic d’altres activitats**
+
+$50
+
+#### Capítol setè. El diner sobirà digital programable
+
+**Article 24. El diner sobirà digital programable**
+
+$52
+
+#### Capítol vuitè. Descentralització d’ecosistemes
+
+**Article 25. Les finances descentralitzades o DeFi**
+
+$54
+
+**Article 26. El règim de les activitats especials**
+
+$56
+
+#### Capítol novè. Els contractes legals intel·ligents
+
+**Article 27. Els contractes legals intel·ligents i la seva validesa jurídica**
+
+$58
+
+**Article 28. La governança**
+
+$5a
+
+#### Capítol desè. L’AndorraDex
+
+**Article 29. L’Andorra Digital Exchange o AndorraDex**
+
+$5c
+
+#### Capítol onzè. De la supervisió d’activitats
+
+**Article 30. La coordinació administrativa en relació amb els actius digitals**
+
+$5e
+
+#### Capítol dotzè. Infraccions
+
+**Article 31. Abús de mercat**
+
+$60
+
+**Article 32. Definicions i especificacions preliminars sobre les infraccions**
+
+1. Són infraccions susceptibles de sanció en els termes establerts en aquesta Llei les accions o omissions dels subjectes, autors i responsables que vulnerin les disposicions legals d’observança obligatòria.
+2. Les sancions que estableix aquesta Llei són d’aplicació sense perjudici de les responsabilitats penals que es poguessin derivar dels fets presumptament constitutius d’infracció d’acord amb la legislació penal. Quan les infraccions comeses puguin ser constitutives de delicte o falta, l’autoritat reguladora n’informarà immediatament l’autoritat judicial o la fiscalia.
+3. L’autoritat reguladora tramitarà un expedient sancionador al titular o oferent que cometi qualsevol de les infraccions previstes en aquest capítol.
+
+**Article 33. Classificació**
+
+$62
+
+#### Capítol tretzè. Sancions
+
+**Article 34. Sancions**
+
+$64

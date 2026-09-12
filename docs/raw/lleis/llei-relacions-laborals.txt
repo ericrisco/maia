@@ -1,0 +1,929 @@
+# Llei de relacions laborals
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/llei-relacions-laborals
+Articles: 172 · versions consolidades: 8
+Instantania del consolidat: 2026-09-12T05:30:14.738717Z
+
+---
+
+### Títol I. Àmbit d’aplicació i principis informadors
+
+**Article 1. Àmbit d’aplicació**
+
+Aquesta Llei és aplicable a totes les relacions laborals que es desenvolupen al Principat d’Andorra. També és aplicable a les relacions laborals que s’inicien o es formalitzen entre empreses establertes al Principat d’Andorra i assalariats quan l’objecte del treball és a l’estranger, llevat que en el contracte les parts hagin convingut l’aplicació de la llei del país estranger.
+
+**Article 2. Exclusions**
+
+1. Queden exclosos de la regulació d’aquesta Llei:
+a) El personal de l’Administració pública d’acord amb la Llei de la funció pública i quan, a l’empara d’una llei, la relació laboral es regula per normes administratives o estatutàries.b) El treball amistós quan es realitzi de forma esporàdica, sense retribució i, en tot cas, per una durada inferior a dos dies laborables.c) Els treballs familiars, excepte si es demostra la condició d’assalariats de les persones que els duen a terme. A l’efecte d’aquesta Llei es consideren familiars el cònjuge, la persona unida per una situació legal o de fet equivalent, els descendents, els ascendents i els altres parents per consanguinitat, afinitat o adopció fins al segon grau inclòs. En tot cas, als treballs familiars realitzats per menors els són aplicables els articles 21 i 23.d) El treball gratuït al servei de la comunitat, anomenat de voluntariat social, i els treballs de bon veïnatge.e) L’activitat que es limiti al sol fet d’exercir el càrrec d’administrador o de membre del Consell d’Administració o dels òrgans directius d’una societat, realitzant únicament tasques inherents al càrrec, llevat que s’indiqui expressament el contrari.f) El treball dels pastors i els contractes de parceria.g) El contracte de pràctiques formatives no remunerades.
+2. Es consideren relacions laborals de caràcter especial, regulades per aquesta Llei amb caràcter subsidiari, en allò que no estigui expressament regulat per la legislació especial o pactat per les parts:
+a) Les dels penats en les institucions penitenciàries.b) Les dels artistes.c) Les dels esportistes professionals.d) Qualsevol altre treball que sigui declarat expressament com a relació laboral de caràcter especial per una llei.
+En tots els supòsits assenyalats en els apartats anterior, la regulació d’aquestes relacions laborals respectarà els drets bàsics reconeguts per la Constitució.
+3. Es consideren relacions laborals d’inclusió sociolaboral, regulades als articles 25 i 26 d’aquesta Llei:
+a) Les dels usuaris del Programa d’inclusió sociolaboral del Govern, mentre estiguin donats d’alta com a assalariats del Programa.b) Les dels assalariats amb discapacitat, que treballin com a usuaris d’algun dels programes d’inclusió laboral que es desenvolupin en el marc de la Llei de garantia dels drets de les persones amb discapacitat.
+4. Tenen també la consideració de relacions laborals de caràcter especial, únicament pel que fa referència als aspectes relatius a la determinació de la jornada diària i setmanal de treball i a la planificació horària, la dels monitors de les escoles d’esquí, que han de gaudir almenys d’una jornada complerta de descans setmanal, la qual és obligatòria i irrenunciable. No obstant això, ateses les peculiaritats del sector, aquesta jornada de descans es pot traslladar a la setmana anterior o posterior de manera que s’asseguri, en tots els casos, que cada període de dos setmanes es gaudeix almenys de dos jornades complertes de descans.
+
+**Article 3. Jerarquia normativa**
+
+Els drets i les obligacions derivats de la relació laboral es regulen per:
+a) Les disposicions contingudes a la Constitució.b) Els tractats i els acords internacionals vigents al Principat d’Andorra.c) Les disposicions legals i reglamentàries.d) Els convenis col·lectius en els àmbits que determina l’ordenament jurídic.e) En matèria de seguretat i salut en el treball, en allò que no estigui regulat per la legislació pròpia, tenen caràcter supletori les disposicions dels convenis aprovats per l’Organització Internacional del Treball (OIT).f) La voluntat de les parts segons el contracte de treball, sempre que l’objecte sigui lícit i no estableixi, en perjudici de la persona assalariada, condicions menys favorables o contràries a les disposicions legals o reglamentàries o als convenis col·lectius.g) Els usos i costums professionals, que només són aplicables en defecte de disposicions legals, reglamentàries, convencionals o contractuals. Els usos i costums professionals requereixen sempre l’aportació de prova.
+
+**Article 4. Principis generals**
+
+$20
+
+### Títol II. Contracte de treball
+
+#### Capítol primer. Disposicions generals
+
+**Article 5. Definició i forma del contracte**
+
+$22
+
+**Article 5 bis. Selecció de personal, contractació i promoció professional**
+
+$24
+
+**Article 5 ter. Classificació professional i valoració de llocs de treball**
+
+La classificació professional i la definició dels grups professionals ha de partir d’una valoració prèvia de llocs de treball que tingui com a objectiu garantir l’absència de discriminacions directes i indirectes per raó de sexe. A aquest efecte, els criteris de valoració dels llocs de treball han de ser objectius i neutres i atendre al nivell de coneixements professionals requerits, de capacitats i esforços físics, mentals i psicosocials i de responsabilitat de les feines. Aquests criteris han d’aplicar-se de la mateixa manera a tots els llocs de treball.
+
+**Article 6. Període de prova**
+
+$26
+
+**Article 7. Classes i característiques dels contractes**
+
+1. Els contractes de treball poden ser, per raó de la durada:
+a) Per temps indefinit.b) Per durada determinada o per a una obra concreta o un servei concret, amb data certa o incerta d’acabament.c) Per temporada.d) Fixos de caràcter discontinu.e) D’interinitat o substitució temporal.f) Per a treballs de curta durada.g) Per sessions.
+2. Els contractes de treball també poden ser, per raó de la modalitat específica de contractació:
+a) De menors.b) D’aprenentatge o formació.c) D’inclusió sociolaboral.d) D’inclusió sociolaboral de treballadors amb discapacitat.e) De pràctiques formatives remunerades.f) De relleu o successió.g) De continuïtat de la vida laboral de la persona assalariada.h) De treball a distància o de teletreball.
+3. Els contractes de treball també poden ser, per raó de la jornada de treball:
+a) Ordinaris de 40 hores setmanals.b) A temps parcial.
+
+**Article 8. Jurisdicció i procediment**
+
+La jurisdicció civil ordinària és competent per entendre dels conflictes derivats de la interpretació i l’execució dels contractes laborals, d’acord amb la legislació vigent en matèria de procediment laboral.
+
+**Article 9. Prescripció i caducitat**
+
+1. Les accions derivades del contracte de treball prescriuen al cap d’un any. Excepcionalment, la reclamació d’indemnitzacions per acomiadament no causal i per causes objectives o disciplinàries té un termini de caducitat de quaranta dies hàbils a comptar del moment en què la persona assalariada té coneixement de l’acomiadament, ja sigui per comunicació escrita, ja sigui perquè se li ha impedit treballar o accedir al lloc de treball, ja sigui per qualsevol altra actuació de l’empresari que ho indiqui així.
+2. La reclamació d’indemnitzacions per desistiment de la persona assalariada té un termini de caducitat de quaranta dies hàbils a comptar del moment en què l’empresari té coneixement del desistiment unilateral, ja sigui mitjançant comunicació escrita, ja sigui per absència injustificada al treball de la persona assalariada durant almenys tres dies de treball seguits.
+
+#### Capítol segon. Subjectes del contracte de treball
+
+**Article 10. Persona assalariada**
+
+Es considera persona assalariada:
+a) La persona física que s’obliga lliurement a prestar un servei o a realitzar una obra per compte de l’empresari, dins el seu àmbit d’organització o sota la seva direcció, a canvi d’un salari.b) El soci que presta un servei o realitza una obra per compte de la societat de la qual és soci, sota la direcció dels òrgans socials, a canvi d’un salari.
+
+**Article 11. Empresari**
+
+Es considera empresari:
+a) Tota persona física o jurídica legalment autoritzada a exercir una activitat al Principat d’Andorra, amb ànim de lucre o sense, que percep el producte del treball dels seus assalariats, i els dirigeix i remunera mitjançant salari.b) Les empreses de treball temporal legalment autoritzades a exercir aquesta activitat, encara que el poder de direcció l’exerceixi l’empresa usuària.c) Als efectes d’aquesta Llei, les comunitats de béns, associacions, clubs esportius o d’oci o qualsevol persona física o jurídica que tingui assalariats.
+
+**Article 12. Transmissió d’empresa, cessió d’assalariats i subcontractació d’obres i serveis**
+
+$2a
+
+#### Capítol tercer. Contractes de treball per raó de la durada
+
+**Article 13. Contracte per temps indefinit**
+
+1. El contracte per temps indefinit és el que es pacta sense establir un límit de temps en la prestació dels serveis en relació amb la durada del contracte.
+2. El Govern ha d’adoptar les mesures necessàries en cada moment per fomentar la contractació indefinida.
+
+**Article 14. Contracte per durada determinada o per a obra concreta o servei concret, amb data certa o incerta d’acabament**
+
+$2c
+
+**Article 15. Contracte per temporada**
+
+1. El contracte per temporada és el que es formalitza dins el període de l’any en què una empresa té o preveu un augment de la seva activitat, i que no té la consideració de contracte fix de caràcter discontinu, ja que el lloc de treball no és de caràcter permanent.
+2. El contracte per temporada s’assimila al contracte per durada determinada o per obra o servei concret, però no li són aplicables les disposicions de l’article 14.4.
+
+**Article 16. Contracte a temps parcial**
+
+1. El contracte a temps parcial és el que es pacta la prestació de serveis durant un nombre d’hores al dia, a la setmana, al mes o a l’any, inferior a la jornada de treball d’una persona assalariada a temps complet comparable.
+2. Al contracte de treball a temps parcial s’hi han de fixar els dies naturals i les hores en què la persona assalariada ha de prestar els seus serveis.
+Es considera nul tot pacte pel qual la persona assalariada accepti, en el moment de la formalització del contracte, qualsevol canvi unilateral futur d’horari per part de l’empresa.
+
+**Article 17. Contracte fix de caràcter discontinu**
+
+$2e
+
+**Article 18. Contracte d’interinitat o substitució temporal**
+
+$30
+
+**Article 19. Contracte per a treballs de curta durada**
+
+1. El contracte per a treballs de curta durada és el que es pacta per contractar assalariats per a activitats de curta durada, que en cap cas no pot excedir trenta dies naturals consecutius dins el període d’un any. Aquest contracte s’ha de notificar a la Caixa Andorrana de Seguretat Social. En cas de contractar assalariats que no tenen una autorització d’immigració de treball vigent, cal comunicar-ho al Servei d’Immigració abans que comenci la relació laboral.
+2. Els assalariats contractats per a activitats de curta durada tenen els mateixos drets i les mateixes obligacions que la resta d’assalariats.
+
+**Article 20. Contracte per sessions**
+
+1. El contracte per sessions és el que s’estableix per a les relacions laborals característiques dels sectors que per la seva pròpia activitat utilitzen la prestació de serveis dels assalariats de forma esporàdica o més o menys regular, per a esdeveniments puntuals o per a una o diverses jornades amb periodicitat setmanal, mensual o anyal, i en què el salari es pacta per cada jornada de treball o sessió.
+2. La successió de contractes per sessions en cap cas comporta la contractació de la persona assalariada per temps indefinit.
+
+#### Capítol quart. Contractes de treball per raó de la modalitat específica de contractació
+
+##### Secció primera. Contracte de menors
+
+**Article 21. Treball dels menors**
+
+$33
+
+**Article 22. Forma del contracte de menors**
+
+1. El contracte de menors, establert en un imprès oficial que facilita el Departament de Treball, el signen l’empresari i el representant legal del menor, o el mateix menor, si és emancipat, i es presenta al Departament de Treball per a l’aprovació, juntament amb els documents següents:
+a) Els que acreditin la identitat i l’edat del menor.b) El certificat mèdic lliurat per un facultatiu autoritzat degudament a exercir al Principat d’Andorra o pels serveis de vigilància de la salut contractats per l’empresari, que acrediti l’aptitud del menor per desenvolupar el treball.c) Si el menor no té la nacionalitat andorrana, l’autorització d’immigració del menor i del seu representant legal.
+2. Els menors de divuit anys s’han de sotmetre a un examen mèdic amb una freqüència mínima anyal. L’empresari ha de mantenir arxivats els certificats mèdics, a disposició del Departament de Treball, durant un període de tres anys.
+
+**Article 23. Treballs prohibits i excepcions per als menors**
+
+$35
+
+##### Secció segona. Contracte d’aprenentatge o formació
+
+**Article 24. Contracte d’aprenentatge o formació**
+
+$39
+
+##### Secció tercera. Altres modalitats específiques de contractes
+
+**Article 25. Contracte d’inclusió sociolaboral**
+
+$3b
+
+**Article 26. Contracte d’inclusió sociolaboral de treballadors amb discapacitat**
+
+La contractació de treballadors amb discapacitat s’ha d’ajustar als principis establerts al Conveni relatiu als drets de les persones amb discapacitat, fet a Nova York el 13 de desembre del 2006. Amb l’objectiu de promoure el dret al treball de les persones amb discapacitat, el ministeri competent en matèria de treball pot autoritzar contractes d’inclusió sociolaboral de persones amb discapacitat que comprenguin mesures d’adaptació, acompanyament i suport, així com els ajustos raonables en el lloc de treball que siguin necessaris per garantir a aquestes persones l’accés a un treball escollit o acceptat lliurement, en igualtat de condicions amb els altres treballadors, en un mercat i un entorn laborals oberts, inclusius i accessibles.
+
+**Article 27. Contracte de pràctiques formatives remunerades**
+
+$3d
+
+**Article 28. Contracte de relleu o successió**
+
+$3f
+
+**Article 29. Contracte de continuïtat de la vida laboral de la persona assalariada**
+
+$41
+
+**Article 30. Contracte de treball a distància o teletreball**
+
+$43
+
+#### Capítol cinquè. Suspensió del contracte de treball
+
+**Article 31. Suspensió del contracte de treball**
+
+$47
+
+**Article 32. Incapacitat temporal**
+
+$4b
+
+**Article 33. Descans per maternitat**
+
+$4d
+
+**Article 34. Descans per paternitat o per a la parella que hagi reconegut legalment l’infant**
+
+$4f
+
+**Article 35. Descans per adopció de persones menors d’edat**
+
+$51
+
+**Article 36. Descans per acolliment familiar**
+
+$55
+
+**Article 37. Descans per risc durant l’embaràs**
+
+1. La relació laboral queda en suspens en el cas que l’assalariada embarassada es trobi en situació de baixa mèdica per risc, degudament acreditat, durant l’embaràs.
+2. Poden gaudir d’aquesta baixa mèdica les assalariades que es puguin acollir al que disposa l’article 31.3 de la Llei 34/2008 del 18 de desembre, de la seguretat i la salut en el treball.
+3. El període de descans per risc durant l’embaràs inclou tot el període necessari per protegir-ne la seguretat o la salut i mentre persisteixi la impossibilitat que la dona embarassada es reincorpori a les seves funcions anteriors o a unes altres que siguin compatibles amb el seu estat o fins al moment del part que aleshores es transforma en descans per maternitat a partir de la data del part.
+4. El termini de suspensió per risc durant l’embaràs computa a efectes de vacances i del càlcul d’antiguitat a l’empresa i no altera cap de les condicions laborals de què disposa la mare abans del descans per risc durant l’embaràs.
+
+**Article 38. Víctima de violència de gènere**
+
+1. La relació laboral queda en suspens fins a un màxim de tres mesos en el cas que la persona assalariada sigui víctima de violència de gènere. Aquest termini pot ser ampliat per decisió de l’autoritat judicial competent.
+2. La persona assalariada ha de notificar en el termini de tres dies naturals a l’empresari, directament o per persona mandatada, la seva absència al treball a causa de ser víctima de violència de gènere, acreditant aquesta circumstància mitjançant la denúncia interposada davant l’autoritat competent i l’informe facultatiu corresponent, o a través d’un informe del Servei especialitzat d’atenció a les dones víctimes de violència de gènere.
+3. Aquest termini de suspensió computa a efectes de vacances i del càlcul d’antiguitat a l’empresa.
+
+**Article 39. Privació de llibertat**
+
+1. La relació laboral queda en suspens en cas que la persona assalariada sigui privada de llibertat fins que es pronunciï una sentència condemnatòria ferma, cas en què el contracte queda extingit.
+2. La persona assalariada ha de notificar en el termini de tres dies naturals a l’empresari, directament o per persona mandatada, la seva absència al treball a causa de la privació de llibertat.
+3. El termini de suspensió no computa a efectes de vacances ni del càlcul d’antiguitat a l’empresa.
+
+**Article 40. Excedències**
+
+$57
+
+**Article 41. Cas fortuït o força major temporal**
+
+$5b
+
+**Article 42. Disposicions generals per suspensió de contracte**
+
+1. La persona assalariada que en el termini màxim de tres dies laborables, exhaurit el període de suspensió del contracte de treball regulat en aquest capítol, no es reincorpori a la seva empresa, es considera desistida de forma unilateral del contracte de treball.
+2. Durant el període de suspensió del contracte de treball regulat en aquest capítol, la persona assalariada interessada no pot exercir cap activitat laboral, per compte propi o d’altri, ni directament ni indirectament, llevat que obtingui l’autorització escrita de l’empresa a excepció del cas fortuït o de força major.
+
+#### Capítol sisè. Prestació de treball de la persona assalariada
+
+##### Secció primera. Drets i obligacions dels assalariats
+
+**Article 43. Disposicions generals**
+
+1. L’objecte del treball pot consistir en la realització d’una tasca dins un horari prefixat o bé en la realització d’una obra o servei concrets, i no pot ser contrari a l’ordre públic.
+2. Tant l’empresari com la persona assalariada han de respectar les disposicions de seguretat i salut en el treball, d’immigració, quan sigui el cas, i s’han d’indemnitzar recíprocament pels danys i perjudicis que s’ocasionin voluntàriament o per imprudència, en les quanties que fixi la jurisdicció corresponent.
+
+**Article 44. Drets de la persona assalariada**
+
+$5d
+
+**Article 45. Diligència**
+
+$5f
+
+**Article 46. Permanència per formació**
+
+$61
+
+**Article 47. Prohibició de competència**
+
+$63
+
+**Article 48. Treball en exclusiva**
+
+Es pot pactar la dedicació exclusiva a l’empresa mentre duri la relació laboral, amb prohibició que la persona assalariada treballi per a una altra empresa o autònomament. En aquest cas, s’ha de fer constar la compensació econòmica que es pacti per la dita exclusivitat, la qual no pot ser inferior al 15% del salari fix. La prima d’exclusivitat té la consideració de salari.
+
+**Article 49. Seguretat i salut en el treball**
+
+1. La persona assalariada té dret a una protecció eficaç en matèria de seguretat i salut en el treball i, ensems, té l’obligació de realitzar la seva tasca d’acord amb la normativa vigent en la matèria.
+2. L’incompliment de les obligacions en matèria de prevenció de riscos per part de la persona assalariada té la consideració d’incompliment laboral de caràcter lleu, greu o molt greu, segons les circumstàncies, als efectes previstos al títol III.
+3. L’incompliment molt greu, greu, o lleu però reiterat, per part de l’empresa de les seves obligacions de garantir la seguretat i la salut de la persona assalariada, de conformitat amb la normativa vigent en la matèria, pot donar lloc al desistiment justificat de la persona assalariada previst a l’article 91.
+
+**Article 50. Invencions i obres dels assalariats en el si de l’empresa**
+
+Quan una obra es creada per un assalariat en compliment de les seves obligacions o seguint les instruccions donades pel seu patró, els drets econòmics d’autor són cedits en exclusiva a favor del patró llevat pacte previ escrit en contra.
+
+##### Secció segona. Temps de la prestació
+
+**Article 51. Temps de treball efectiu**
+
+1. S’entén per temps de treball efectiu el temps que la persona assalariada dedica a exercir la tasca per a la qual ha estat contractada, exclòs el temps emprat en els canvis d’indumentària i les interrupcions destinades al descans o als àpats, quan la persona assalariada no tingui obligació de romandre en el lloc de treball i pugui disposar lliurement del temps destinat a aquesta finalitat. Les interrupcions de caràcter ocasional, connexes al procés tècnic de producció, es consideren treball efectiu.
+2. El temps de presència que comporti l’obligació de la persona assalariada de romandre en el lloc de treball, encara que circumstancialment no realitzi cap tasca, es computa com a temps de treball efectiu.
+
+**Article 52. Temps a disposició de l’empresa**
+
+$65
+
+**Article 52 bis. Dret a la desconnexió digital**
+
+Les persones assalariades tenen dret a la desconnexió digital fora del seu horari de treball, així com el respecte a la durada màxima de la jornada laboral establerta i a qualsevol altra tipologia de límits i precaucions en matèria de jornada establerts per la normativa legal o convencional aplicable en cada moment.
+
+**Article 53. Desplaçaments a causa del treball i viatges per compte de l’empresa**
+
+$67
+
+##### Secció tercera. Jornada de treball i còmput
+
+**Article 54. Jornada de treball**
+
+$69
+
+**Article 55. Còmput trimestral, semestral o anyal de la jornada de treball**
+
+$6b
+
+**Article 56. Inclemències del temps**
+
+$6d
+
+**Article 57. Hores extraordinàries**
+
+$6f
+
+**Article 58. Còmput de les hores extraordinàries**
+
+$71
+
+**Article 59. Planificació horària i compte d’hores**
+
+$73
+
+**Article 59 bis. Dret a l’adaptació del temps de treball i al treball flexible per motius de conciliació de la vida familiar i laboral**
+
+$75
+
+##### Secció quarta. Descans de la persona assalariada
+
+**Article 60. Descans diari**
+
+1. En les jornades diàries iguals o superiors a sis hores ininterrompudes, la persona assalariada té dret a un descans d’una durada mínima de trenta minuts fixada per l’empresa, i remunerada. En les jornades diàries de sis o més hores amb interrupció, el descans ha de ser almenys d’una hora, no retribuïda, durant la qual la persona assalariada no roman a disposició de l’empresa.
+2. Entre dues jornades de treball ordinàries successives hi ha d’haver un descans mínim de 12 hores.
+
+**Article 61. Descans setmanal**
+
+1. La persona assalariada té dret, com a mínim i en tots els casos, a una jornada completa de descans setmanal, que és obligatòria i irrenunciable.
+2. El període de descans setmanal només pot ser modificat per acord entre les parts. Excepcionalment, per raons extraordinàries o de força major, l’empresa pot modificar-lo, avisant amb una antelació mínima de 24 hores. També pot modificar-lo de forma excepcional per motius d’organització, sempre que no es produeixin més de dues modificacions en un termini de dotze mesos, avisant amb una antelació mínima de trenta dies naturals.
+
+**Article 62. Festes laborals**
+
+$77
+
+##### Secció cinquena. Vacances anuals
+
+**Article 63. Dret a vacances remunerades**
+
+1. Tota persona assalariada té dret a gaudir d’unes vacances anuals remunerades.
+2. Les vacances remunerades obligatòries són d’un mínim de trenta dies naturals per any, o bé d’un nombre inferior de dies calculats de forma proporcional al temps treballat en cas que el treball efectiu hagi estat inferior a l’any.
+3. Per acord o conveni col·lectiu d’empresa, o si ho pacten l’empresa i la persona assalariada, es poden substituir els trenta dies naturals per any per vint-i-dos dies laborables per any, o bé el nombre de dies proporcionals al temps treballat en cas que el treball efectiu hagi estat inferior a l’any.
+
+**Article 64. Obligatorietat de les vacances**
+
+La realització efectiva de les vacances és obligatòria, i no s’hi pot renunciar. En cas de resolució de la relació laboral, l’import corresponent als dies de vacances no gaudits s’ha de satisfer amb la quitança.
+
+**Article 65. Temps de gaudiment i determinació del període**
+
+$79
+
+**Article 66. Retribució**
+
+1. Per a la retribució de les vacances gaudides es té en compte el salari fix i el salari variable segons el que preveu l’article 76.3.
+2. Els assalariats contractats que treballen per sessions o per a treballs de curta durada han de percebre, incorporada al seu salari, la remuneració de la part proporcional de les vacances, fet que s’ha de reflectir obligatòriament en el contracte.
+
+**Article 67. Permisos retribuïts**
+
+$7d
+
+**Article 68. Permisos no retribuïts**
+
+$81
+
+#### Capítol setè. Prestació de l’empresa
+
+##### Secció primera. Disposicions generals
+
+**Article 69. Prestació de l’empresa**
+
+1. L’empresa està obligada a pagar puntualment el salari, a donar ocupació efectiva als assalariats en les condicions, les funcions i l’horari convinguts, a abstenir-se de fer manifestacions o qualsevol acte que ofengui la dignitat dels assalariats o que obstaculitzi el desenvolupament lliure de la seva personalitat, i a complir la normativa d’immigració i les mesures de seguretat i salut en el treball pertinents.
+2. En el moment de satisfer el salari, de donar instruccions, d’organitzar el treball o de proveir els assalariats dels mitjans necessaris per al desenvolupament de la tasca, l’empresa ha de respectar els principis d’igualtat i de no-discriminació i proveir tots els assalariats del material adequat per a la tasca que han de fer.
+3. L’empresa té un deure especial de protecció i ha de tenir coneixement de les funcions i de les condicions de treball, i assegurar-se que la feina es desenvolupa de forma segura per als assalariats i formar-los sobre la normativa de seguretat que han de respectar.
+
+**Article 70. Facultats de direcció**
+
+$85
+
+##### Secció segona. Salari
+
+**Article 71. Salari**
+
+1. Es considera salari la remuneració que l’empresa satisfà a la persona assalariada com a contraprestació dels seus serveis. També tenen la consideració de salari, els complements, les primes, les gratificacions i les altres remuneracions, en metàl·lic o en espècie, llevat de les liberalitats de l’empresa.
+2. El salari global està integrat pel salari fix i el salari variable.
+3. No tenen la consideració de salari les quantitats que tenen per objecte compensar a la persona assalariada per les despeses que satisfaci per raó de la feina encomanada, les propines dels clients en els sectors on són habituals, les dietes i les despeses de viatge, i els beneficis socials satisfets en metàl·lic o en espècie per raó del matrimoni, el naixement de fills i altres causes similars.
+
+**Article 71 bis. Igualtat de remuneració**
+
+1. L’empresari està obligat a pagar per la prestació d’un treball d’igual valor la mateixa retribució, qualsevol que sigui la naturalesa d’aquesta retribució, sense que es pugui produir cap mena de discriminació per raó de sexe femení en cap dels elements o les condicions de la retribució esmentada.
+2. Són d’igual valor les feines que exigeixen de les persones assalariades un conjunt comparable de coneixements professionals, de capacitats i esforços, de responsabilitats, i de càrrega física, mental i psicosocial.
+3. Quan l’òrgan judicial declari l’existència d’una situació de discriminació retributiva per raó de sexe, ha de reconèixer a la persona treballadora afectada, com a part integrant de la indemnització de danys i perjudicis, les diferències retributives derivades de la desigualtat de tracte durant tot el temps en què s’ha constatat la situació de discriminació.
+
+**Article 72. Classes de salari**
+
+$87
+
+**Article 73. Salari mínim interprofessional**
+
+1. El salari mínim interprofessional és la remuneració que l’empresa ha de satisfer obligatòriament a la persona assalariada en tots els supòsits, fins i tot en els contractes en què s’hagi pactat un salari per unitat d’obra o un salari mixt.
+2. El Govern fixa periòdicament, com a mínim un cop a l’any, el salari mínim interprofessional.
+3. L’import corresponent al salari mínim interprofessional no es pot embargar, llevat que el deute que origina l’embargament provingui de l’impagament d’una pensió alimentària.
+
+**Article 74. Salaris en efectiu i en espècie**
+
+$89
+
+**Article 75. Plus de nocturnitat**
+
+Llevat que per la seva pròpia natura la feina sigui nocturna, les hores treballades durant el temps comprès entre les 22 hores i les 6 hores de l’endemà tenen la consideració de treball nocturn i, excepte en els casos en què el salari s’hagi convingut tenint en compte aquesta circumstància, s’han de pagar amb un increment mínim d’un 20% sobre el salari ordinari.
+
+**Article 76. Càlcul del salari**
+
+$8d
+
+**Article 77. Lloc, temps i formalitats del pagament del salari**
+
+$8f
+
+##### Secció tercera. Protecció del salari
+
+**Article 78. Pagament del salari**
+
+1. L’empresa està obligada a pagar puntualment el salari, en la forma descrita a l’article anterior, amb la periodicitat convinguda, mensual, quinzenal, setmanal o diària, i com a molt tard dins els tres dies naturals següents a la fi del període considerat.
+2. L’empresa té l’obligació de satisfer el salari a la persona assalariada en la forma i en les condicions pactades malgrat que no hi hagi contraprestació, quan aquesta manca d’activitat sigui imputable a l’empresa.
+3. El retard en el pagament del salari o la liquidació produeix interessos iguals al doble dels interessos legals vigents en el moment en què es produeix l’impagament, sense necessitat de reclamar-lo.
+
+**Article 79. Privilegis del salari**
+
+1. Les sumes degudes per qualsevol concepte als assalariats per una empresa en situació d’arranjament judicial o de fallida tenen la consideració de crèdit privilegiat. Les indemnitzacions per acomiadament que es meritin amb posterioritat a la declaració d’arranjament judicial o fallida, es consideren crèdit ordinari.
+2. En cas de procediment concursal, el pagament dels conceptes deguts als assalariats segueix l’ordre següent:
+a) Salari fix degut.b) Hores extraordinàries degudes.c) Vacances i festius deguts.d) Primes i altres imports deguts.e) Interessos dels conceptes anteriors.
+
+##### Secció quarta. Altres disposicions
+
+**Article 80. Liberalitats de l’empresa**
+
+1. Constitueixen liberalitats de l’empresa els pagaments, en metàl·lic o en espècie, de caràcter excepcional o especialíssim, a causa de fets extraordinaris, que no siguin repetitius ni pel que fa a l’import ni pel que fa al concepte, ni puguin ser considerats un dret adquirit. Correspon a l’empresa, quan escaigui, la prova del caràcter de liberalitat de les quantitats satisfetes a la persona assalariada.
+2. Ocasionalment i excepcionalment l’empresa pot gratificar la persona assalariada de manera unilateral i voluntària.
+A manca de prova del caràcter ocasional, voluntari i deslligat de les obligacions retributives, legals, convencionals o unilaterals consolidades, la gratificació es considera retribució complementària i forma part del salari global.
+
+**Article 81. Igualtat i conciliació de la vida laboral i personal**
+
+$91
+
+#### Capítol vuitè. Règim de seguretat social
+
+**Article 82. Afiliació**
+
+1. L’empresa té l’obligació d’afiliar la persona assalariada des de l’inici de la relació laboral, inclòs el període de prova, al règim de la seguretat social, i efectuar les declaracions i pagar les cotitzacions d’acord amb les disposicions vigents regulades a la Llei de la seguretat social.
+2. La persona assalariada està obligada a pagar la part de cotització que li correspon, i l’empresa a retenir-la del salari i a ingressar-la a la Caixa Andorrana de Seguretat Social. És nul qualsevol pacte, individual o col·lectiu, que sigui contrari a les obligacions anteriors dels assalariats i de l’empresa.
+
+#### Capítol novè. Finalització de la relació laboral
+
+##### Secció primera. Extinció del contracte
+
+**Article 83. Extinció**
+
+$93
+
+##### Secció segona. Rescissió del contracte
+
+**Article 84. Acomiadament no causal**
+
+$95
+
+**Article 85. Acomiadament per causes objectives**
+
+$99
+
+**Article 86. Formalitats de l’acomiadament no causal i de l’acomiadament per causes objectives**
+
+$9d
+
+**Article 87. Acomiadament per causes disciplinàries**
+
+1. L’empresa pot acomiadar la persona assalariada, sigui quina sigui la modalitat del contracte de treball, sense necessitat de preavís ni obligació de satisfer cap compensació econòmica, quan concorri una de les causes previstes a l’article 99.
+2. La manca de prova de la causa al·legada o el fet que aquesta no sigui considerada suficient converteix l’acomiadament en injustificat i dóna lloc a la indemnització prevista a l’article 92.
+3. Es considera nul i sense efecte l’acomiadament d’una persona assalariada quan es produeixi amb discriminació per alguna de les causes prohibides a la Constitució o a les lleis, o suposi una violació dels drets fonamentals i les llibertats públiques.
+
+**Article 88. Formalitats de l’acomiadament per causes disciplinàries**
+
+1. L’acomiadament previst a l’article anterior s’ha de fer per escrit mitjançant carta certificada amb avís de recepció, per conducte notarial o lliurant-la directament a la persona assalariada, que ha de signar-ne la recepció amb la menció de la data o, si es nega a signar, en presència de dos testimonis. La carta ha d’esmentar amb concreció la causa que origina l’acomiadament.
+2. La notificació de l’acomiadament d’un representant dels assalariats ha de respectar les garanties de l’article 111.
+3. L’incompliment de les formalitats previstes en aquest article converteix l’acomiadament en injustificat i dóna lloc a la indemnització establerta a l’article 92.
+
+**Article 89. Desistiment de la persona assalariada**
+
+La persona assalariada pot desistir del contracte en els casos següents:
+a) Durant el període de prova, sense necessitat de preavís.b) En els contractes per temps indefinit, mitjançant un preavís de deu dies laborables, si fa menys d’un any que treballa a l’empresa, i de quinze dies laborables, si fa més d’un any que està al servei de l’empresa.c) En els contractes per durada determinada o per obra concreta o servei concret, mitjançant el mateix preavís establert a la lletra b) anterior per als contractes per temps indefinit, i si tenen una durada de més d’un any més uns altres dos dies per mes que resti fins a la finalització prevista inicialment de la durada del contracte o de l’obra concreta o el servei concret.d) Pel transcurs del termini de cinc dies naturals de suspensió per causa de cas fortuït o força major que impossibiliti temporalment l’activitat, mitjançant la comunicació corresponent a l’empresa amb menció de la causa de resolució, sense necessitat de preavís.
+
+**Article 90. Formalitats del desistiment**
+
+$9f
+
+**Article 91. Desistiment justificat de la persona assalariada**
+
+$a1
+
+##### Secció tercera. Indemnitzacions
+
+**Article 92. Indemnitzacions**
+
+$a5
+
+##### Secció quarta. Liquidació de la relació laboral
+
+**Article 93. Quitança**
+
+$a9
+
+**Article 94. Certificat de serveis prestats**
+
+L’empresari està obligat a lliurar a la persona assalariada, a demanda seva, el certificat de serveis corresponent on consti el temps que ha treballat a l’empresa i el grup professional o la classe de treball o servei prestat, al qual no es pot afegir cap més informació llevat d’acord entre les parts.
+
+### Títol III. Règim disciplinari dels assalariats
+
+**Article 95. Faltes i sancions dels assalariats**
+
+1. La direcció de les empreses pot sancionar els incompliments laborals dels assalariats, d’acord amb la graduació de faltes i sancions que s’estableix en aquesta Llei o en el conveni col·lectiu o la normativa interna que sigui aplicable.
+2. Tota falta comesa per una persona assalariada s’ha de qualificar com a lleu, greu o molt greu, tenint en compte la importància, la transcendència o la intencionalitat, així com les circumstàncies concurrents.
+3. Les sancions imposades són impugnables en via judicial i no poden implicar en cap cas reducció de les vacances o del temps de descans.
+
+**Article 96. Garanties dels assalariats**
+
+1. Ningú no pot ser sancionat per infraccions que en el moment de produir-se no constitueixin infracció.
+2. La norma sancionadora no és aplicable a supòsits que no s’hi comprenen expressament.
+3. No pot sancionar-se més d’una vegada el mateix fet.
+4. En cap cas no es pot imposar una sanció que no estigui prevista per una llei anterior a la comissió de la infracció.
+5. No es pot executar cap sanció si no és en virtut d’una decisió adoptada per l’òrgan competent seguint el procediment legal.
+
+**Article 97. Faltes lleus**
+
+$ab
+
+**Article 98. Faltes greus**
+
+$ad
+
+**Article 99. Faltes molt greus**
+
+$af
+
+**Article 100. Sancions disciplinàries**
+
+Les sancions que es poden imposar en cada cas, en funció de la graduació de la falta comesa, són les següents:
+1. Per faltes lleus: amonestació escrita.
+2. Per faltes greus: suspensió de salari i ocupació d’una durada màxima de 10 dies.
+3. Per faltes molt greus:
+a) Suspensió de salari i ocupació d’11 dies a 1 mes.b) Acomiadament disciplinari.
+
+**Article 101. Formalitats**
+
+1. La notificació de les faltes requereix una comunicació escrita a la persona assalariada en la qual s’ha de fer constar la data i cal exposar els fets que la motiven, mitjançant una carta certificada amb avís de recepció o mitjançant l’entrega directa a la persona assalariada, que n’ha de signar la recepció amb la menció de la data i, si aquesta persona es nega a signar, en presència de dos testimonis.
+Si la persona assalariada és un menor d’edat no emancipat o un major d’edat incapacitat, les faltes també s’han de notificar al seu representant legal.
+2. Les sancions imposades en l’àmbit laboral s’entenen sempre sense perjudici de les possibles actuacions en altres àmbits o instàncies.
+3. La representació dels assalariats, si n’hi ha, ha de ser informada per escrit per la direcció de l’empresa de les sancions imposades per faltes greus i molt greus.
+4. Les sancions a un representant dels assalariats requereix el respecte de les garanties previstes a l’article 111.
+
+**Article 102. Prescripció**
+
+1. Les faltes lleus prescriuen al cap de vint dies naturals; les faltes greus, al cap de trenta dies naturals, i les faltes molt greus, al cap de seixanta dies naturals, a partir de la data en què l’empresa ha tingut coneixement que s’han comès, i en tot cas al cap de dotze mesos d’haver-se comès.
+2. Els terminis durant els quals el contracte de treball es troba suspès per qualsevol de les causes establertes en aquesta Llei no es computen a efectes de prescripció.
+
+### Títol IV. Drets col·lectius dels assalariats
+
+#### Capítol primer. Drets de lliure sindicació, d’informació i de reunió
+
+**Article 103. Dret de lliure sindicació**
+
+Els assalariats poden exercir lliurement els drets sindicals regulats en la Llei qualificada d’acció sindical i patronal.
+
+**Article 104. Dret d’informació**
+
+L’empresari ha d’informar periòdicament, i com a mínim un cop l’any, el comitè d’empresa o els delegats dels assalariats, sobre l’evolució general del sector i de l’empresa, el grau d’assoliment dels objectius previstos, la política de contractació i altres mesures que puguin afectar els assalariats, les previsions en relació amb la política salarial, les hores extraordinàries, els plans de formació i l’adopció de noves mesures de seguretat i salut en el treball, i també sobre qualsevol mesura que calgui adoptar amb caràcter extraordinari per assegurar la bona marxa de l’empresa i el manteniment de la plantilla d’assalariats.
+
+**Article 105. Dret de reunió en assemblea**
+
+1. Els assalariats d’una mateixa empresa tenen dret a reunir-se en assemblea, la qual pot ser convocada pel comitè d’empresa, pels delegats dels assalariats, pels assalariats amb mandat o per un terç dels assalariats amb dret de sufragi.
+2. La reunió en assemblea s’ha de realitzar als locals de l’empresa, quan això sigui possible, després de la comunicació prèvia escrita a l’empresari amb una antelació mínima de 72 hores, i fora de l’horari de treball. Tan sols s’hi poden tractar els assumptes que hagin estat inclosos en l’ordre del dia de la convocatòria, llevat del que preveu l’article 112.2.
+
+#### Capítol segon. Dret de representació col·lectiva
+
+**Article 106. Dret de representació**
+
+Els assalariats tenen dret a exercir els drets de representació en l’empresa d’acord amb la regulació d’aquest títol.
+
+**Article 107. Delegats dels assalariats i assalariats amb mandat**
+
+1. Els assalariats que pertanyin a empreses que tinguin entre 11 i 30 assalariats elegeixen entre ells, mitjançant sufragi lliure, personal, secret i directe, un delegat dels assalariats.
+2. Els assalariats que pertanyin a empreses que tinguin 10 o menys assalariats poden designar entre ells, mitjançant sufragi lliure, personal, secret i directe un assalariat amb mandat per negociar amb l’empresa acords puntuals i específics, o acords o convenis col·lectius, quan escaigui.
+
+**Article 108. Comitè d’empresa**
+
+$b1
+
+**Article 109. Competències**
+
+$b3
+
+**Article 110. Deure de confidencialitat**
+
+1. Els delegats dels assalariats i els membres dels comitès d’empresa i, si és el cas, els assalariats amb mandat, estan sotmesos al deure de confidencialitat i han de vetllar de manera diligent per garantir el secret professional pel que fa a les dades i les informacions a què tenen accés en l’exercici de les seves funcions. El respecte a la confidencialitat d’aquestes dades també és exigible quan els representants dels assalariats cessen en les seves funcions de representació.
+2. A aquest efecte, a l’inici de l’exercici de les seves funcions, els delegats dels assalariats i els membres dels comitès d’empresa i, si és el cas, els assalariats amb mandat es comprometen a respectar aquest deure mitjançant la signatura d’una clàusula de confidencialitat amb l’empresa.
+
+**Article 111. Garanties**
+
+$b5
+
+**Article 112. Durada del mandat, revocació i substitució**
+
+$b7
+
+#### Capítol tercer. Elecció dels representants dels assalariats a les empreses
+
+**Article 113. Promoció d’eleccions**
+
+$b9
+
+**Article 114. Drets electorals**
+
+1. Tenen dret de sufragi tots els assalariats que constin d’alta a l’empresa almenys sis mesos abans de la data en què es constitueixi la mesa electoral.
+2. Tenen dret a ser elegits tots els assalariats majors d’edat amb dret de sufragi.
+3. Tant per ser elector com per ser elegible els assalariats han de tenir una jornada mínima en còmput setmanal de vint hores.
+
+**Article 115. Representació dels assalariats contractats no fixos**
+
+1. Els assalariats vinculats per contractes de durada determinada són representats igualment pels membres del comitè d’empresa, els delegats dels assalariats o, si és el cas, pels assalariats amb mandat.
+2. Per determinar el nombre de representants, els assalariats vinculats a l’empresa per contractes temporals de més d’un any es computen com a assalariats fixos de plantilla.
+3. Els assalariats contractats per períodes inferiors a un any es computen segons els dies treballats l’any immediatament anterior a la convocatòria d’eleccions. Si han treballat 183 dies com a mínim es computarà com un treballador més.
+
+**Article 116. Mesa electoral**
+
+$bb
+
+**Article 117. Funcions i constitució de la mesa electoral**
+
+$bd
+
+**Article 118. Presentació de candidatures**
+
+$bf
+
+**Article 119. Requisits de les candidatures**
+
+Les candidatures contenen com a màxim el nombre total de candidats necessaris per cobrir el nombre total de representants que s’han d’elegir, incrementat en un 30% per a substitucions eventuals.
+
+**Article 120. Desenvolupament del procés electoral**
+
+$c1
+
+**Article 121. Elecció**
+
+1. El sistema d’elecció és per llistes obertes.
+2. En les eleccions a delegats dels assalariats, són elegits els candidats que hagin obtingut el major nombre de vots vàlids segons el nombre de places que s’han de cobrir.
+3. En les eleccions a membres del comitè d’empresa, són elegits els candidats que per a cadascun dels col·legis electorals hagin obtingut el major nombre de vots vàlids, en proporció al nombre d’assalariats existents en cadascun dels col·legis esmentats, segons el nombre de places que s’han de cobrir, i els llocs sobrants s’adjudiquen a la fracció més alta.
+4. Si es produeix empat en els vots o en les restes per a l’atribució de la darrera plaça que s’ha de cobrir, és elegit el candidat amb més antiguitat a l’empresa. Si hi ha places sobrants, s’atribueixen a les candidatures amb un escreix més gran de vots i són elegits els candidats segons l’ordre de la llista a la qual pertanyen.
+
+**Article 122. Tancament del procés electoral**
+
+$c3
+
+**Article 123. Reclamacions en matèria electoral**
+
+1. Les reclamacions en matèria electoral es resolen davant la jurisdicció competent, d’acord amb les normes processals aplicables. Tanmateix, les parts poden convenir sotmetre la controvèrsia plantejada a un procediment arbitral.
+2. Estan legitimades per impugnar tant l’empresa com les organitzacions sindicals, així com els candidats que hagin concorregut a les eleccions.
+3. Són impugnables les decisions que adopti la mesa electoral al llarg del procediment, per vicis greus que poden afectar les garanties del procés i n’alterin el resultat, per falta de capacitat o legitimitat dels candidats triats, per discordança entre l’acta i el desenvolupament del procés electoral i per falta de correlació entre el nombre d’assalariats que figuren a les actes i el nombre de representants triats. La impugnació té com a requisit previ d’admissibilitat que s’hagi formulat reclamació a la mesa electoral d’acord amb les normes que regeixen el procediment electoral.
+
+### Títol V. La negociació col·lectiva
+
+#### Capítol primer. Acords i convenis col·lectius
+
+##### Secció primera. Negociació dels acords i els convenis col·lectius
+
+**Article 133. Capacitat jurídica i legitimació per negociar i obligar-se**
+
+$c5
+
+**Article 134. Comissió negociadora**
+
+1. La designació dels membres de la comissió negociadora correspon a les parts. Els membres designats elegeixen de mutu acord les persones que han d’actuar com a president i secretari. Les comissions negociadores poden tenir assessors amb veu però sense vot.
+2. Cadascuna de les parts, els representants dels assalariats o de les organitzacions sindicals, d’una banda, i els empresaris o els representants de les organitzacions empresarials, d’altra banda, pot estar representada pel nombre màxim de representants següents: cinc representants en les negociacions d’àmbit empresarial, d’acord amb l’article 144, set representants en les negociacions d’àmbit sectorial, i nou representants en les negociacions d’àmbit intersectorial.
+3. De cada reunió s’estén l’acta corresponent que han de signar els membres que actuïn com a president i secretari.
+4. El temps emprat pels representants dels assalariats en la negociació dels acords i els convenis col·lectius és remunerat com a temps de treball ordinari.
+
+**Article 135. Mediació**
+
+1. En els convenis col·lectius sectorials i intersectorials i en els acords col·lectius sectorials qualsevol de les parts pot sol·licitar al ministeri competent en matèria de treball la designació d’un mediador, amb veu però sense vot, que pot proposar a les parts solucions eventuals a les qüestions plantejades.
+2. En els acords i els convenis col·lectius d’empresa les parts poden nomenar un mediador de mutu acord, en qualsevol moment del procés negociador, amb les mateixes funcions que les del mediador esmentat a l’apartat anterior.
+
+**Article 136. Inici de la negociació i oposició**
+
+$c7
+
+**Article 137. Durada i pròrroga**
+
+1. Les parts estableixen la durada dels acords i els convenis col·lectius, dins dels límits previstos a l’apartat següent, i poden pactar diferents períodes de vigència per a determinades matèries o un grup homogeni de matèries.
+2. Els acords i els convenis col·lectius poden tenir una durada mínima d’un any i màxima de cinc anys. En qualsevol cas i llevat de pacte en contra, es prorroguen d’any en any, llevat que una de les parts els hagi denunciat de forma expressa.
+Una vegada denunciat un acord o un conveni col·lectiu, perden vigència la totalitat de les seves clàusules obligacionals.
+3. El nou acord o conveni col·lectiu deroga íntegrament l’acord o el conveni anterior, llevat de les clàusules que s’hagin mantingut expressament.
+
+##### Secció segona. Adopció dels acords i els convenis col·lectius
+
+**Article 138. Principi majoritari**
+
+Els acords de la comissió negociadora requereixen el vot favorable majoritari de cadascuna de les dues representacions, es formalitzen per escrit i s’han d’incloure a l’acta de la reunió, on es poden fer constar els vots particulars de qui ho sol·liciti.
+
+**Article 139. Força obligacional i eficàcia**
+
+1. Els convenis col·lectius sectorials o intersectorials i els acords col·lectius sectorials tramitats i aprovats degudament obliguen a tots els empresaris i assalariats inclosos en el seu àmbit d’aplicació.
+2. L’eficàcia de l’acord o del conveni col·lectiu s’inicia amb la seva entrada en vigor, que és la que les parts acorden.
+Tanmateix, es pot establir que l’acord o el conveni col·lectiu, o determinades matèries o grups de matèries definides, tenen eficàcia retroactiva a la data de la signatura, sempre que no afectin un acord o un conveni col·lectiu anterior i en vigor.
+
+##### Secció tercera. Denúncia dels acords i els convenis col·lectius
+
+**Article 140. Dret de denúncia**
+
+1. Els acords i els convenis col·lectius poden ser denunciats per les parts signatàries amb un preavís fet amb tres mesos d’antelació a la data del seu venciment o de les seves pròrrogues successives. La part signatària que efectua la denúncia ho ha de notificar a les altres parts signatàries. La denúncia s’ha de comunicar igualment al Departament de Treball a l’efecte de registre.
+2. Quan la denúncia sigui feta per totes les parts signatàries d’un acord o un conveni col·lectiu, s’ha d’iniciar una nova negociació en el termini de tres mesos a partir de la notificació de la denúncia, a petició almenys d’una de les parts signatàries de l’acord o el conveni col·lectiu.
+
+**Article 141. Registre i publicitat**
+
+1. Els acords i els convenis col·lectius han de ser dipositats al Departament de Treball, a l’efecte de registre i publicació, dins del termini màxim de set dies naturals a partir del moment en què les parts negociadores el signin.
+2. Els convenis col·lectius sectorials i intersectorials i els acords col·lectius sectorials es publiquen al
+Butlletí Oficial del Principat d’Andorra
+i entren en vigor a partir de la publicació.
+3. Els acords i els convenis col·lectius d’empresa es publiquen al tauler d’anuncis del Departament de Treball i entren en vigor a partir del dipòsit al Departament de Treball.
+4. Els empresaris han de posar a disposició dels assalariats una còpia de l’acord o el conveni col·lectiu que els afecti.
+
+**Article 142. Control**
+
+Si el ministeri competent en matèria de treball considera que un acord o un conveni col·lectiu vulnera la legislació vigent o perjudica greument l’interès de terceres persones, dona a les parts, mitjançant resolució motivada, un període màxim de trenta dies naturals per esmenar-lo. Si no s’esmena, en promou la impugnació davant de la jurisdicció competent.
+
+**Article 124. Dret a la negociació col·lectiva**
+
+Els assalariats i els empresaris, sense distinció, tenen dret a la negociació col·lectiva, en la forma i en les condicions establerts en aquesta Llei.
+
+**Article 125. Definició**
+
+La negociació col·lectiva consisteix en el procés a través del qual els representants dels assalariats i els empresaris o els seus representants, incloses si escau les organitzacions sindicals i empresarials, en virtut de la seva autonomia col·lectiva, acorden les mesures reguladores tant pel que fa a les condicions de treball i de productivitat, com pel que fa a les relacions entre empresaris i assalariats i les seves organitzacions respectives.
+
+**Article 126. Acords i convenis col·lectius**
+
+1. Els acords i els convenis col·lectius constitueixen l’expressió de l’acord adoptat lliurement en virtut de l’autonomia col·lectiva.
+El resultat de la negociació col·lectiva es materialitza mitjançant els acords i els convenis col·lectius que tenen per finalitat adaptar les normes jurídiques a les característiques de les empreses o dels sectors, introduint-hi, alhora, les millores que les parts que els negociïn estimin oportunes.
+2. L’acord o el conveni col·lectiu és un pacte subscrit entre els representants dels assalariats i l’empresari o els seus representants.
+3. Els acords i els convenis col·lectius s’han de formalitzar per escrit, sota pena de nul·litat.
+
+**Article 127. Tipus de convenis i acords col·lectius**
+
+$c9
+
+**Article 128. Àmbit general de regulació**
+
+$cb
+
+**Article 129. Contingut mínim**
+
+Sense perjudici del que preveu l’article anterior, els acords i els convenis col·lectius han de tenir el contingut mínim següent:
+a) Determinació de les parts signatàries.b) Àmbit personal, funcional, territorial i temporal.c) Forma i condicions de denúncia de l’acord o el conveni i termini de preavís.d) Designació d’una comissió paritària de la representació de les parts negociadores per resoldre les qüestions que se li puguin sotmetre en l’àmbit de la seva competència, i determinació dels procediments de funcionament intern.
+
+**Article 130. Principi de disposicions més favorables**
+
+Els acords i els convenis col·lectius poden contenir disposicions més favorables als assalariats que les establertes per les lleis i els reglaments. Les disposicions dels acords i els convenis col·lectius no poden en cap cas derogar o contenir disposicions contràries a les lleis i als reglaments.
+
+**Article 131. Criteri de representativitat**
+
+1. Les organitzacions sindicals i empresarials més representatives, d’acord amb el que s’estableix en la Llei qualificada d’acció sindical i patronal, representen els assalariats i els empresaris, respectivament, en la negociació dels convenis col·lectius intersectorials.
+2. Les organitzacions sindicals i empresarials més representatives i representatives, d’acord amb el que s’estableix en la Llei qualificada d’acció sindical i patronal, representen els assalariats i els empresaris, respectivament, en la negociació dels convenis col·lectius sectorials i dels acords col·lectius sectorials.
+3. Els delegats dels assalariats, els membres del comitè d’empresa o, si és el cas, els assalariats amb mandat i els empresaris, representen els assalariats i els empresaris, respectivament, en la negociació dels acords i convenis col·lectius d’empresa.
+
+**Article 132. Àmbits d’aplicació**
+
+$cd
+
+#### Capítol segon. Acords i convenis col·lectius d’empresa
+
+**Article 143. Dret dels assalariats de negociar en l’àmbit de l’empresa**
+
+Tots els assalariats sense excepció tenen dret a negociar en l’àmbit de l’empresa, d’acord amb el que preveu l’article 133.2.
+
+**Article 144. Composició de la comissió negociadora**
+
+1. La comissió negociadora dels acords i els convenis col·lectius d’empresa està integrada:
+a) A les empreses que tenen fins a 10 assalariats, per la persona assalariada amb mandat i un representant de l’empresari.b) A les empreses que tenen entre 11 i 30 assalariats, pel delegat dels assalariats o, si no n’hi ha, per dos assalariats amb mandat com a màxim, i un o dos representants de l’empresari perquè la representació de les dues parts sigui paritària.c) A les empreses que tenen entre 31 i 49 assalariats, pels tres membres del comitè d’empresa i tres representants de l’empresari.d) A les empreses de més de 50 assalariats, pels cinc membres que formen el comitè d’empresa i cinc representants de l’empresari.
+2. El temps emprat en la negociació és remunerat com a temps de treball ordinari.
+
+**Article 145. Negociació amb representants dels assalariats amb mandat**
+
+1. En defecte de delegats dels assalariats o de comitè d’empresa, l’empresa pot negociar amb assalariats amb mandat, elegits expressament en assemblea convocada a aquest efecte i que hagin obtingut el major nombre de vots dels assalariats electors en votació lliure, personal, secreta i directa. El nombre dels assalariats amb mandat ha de seguir la mateixa proporció establerta en l’article anterior, en funció del nombre total d’assalariats.
+2. El mandat ha de precisar els continguts mínims de la negociació de l’acord o el conveni col·lectiu d’empresa i s’ha de sotmetre a l’aprovació de la totalitat de la plantilla de l’empresa. En cas d’oposició sobre el contingut del text, els assalariats poden retirar el mandat en les mateixes condicions en què el van atorgar.
+3. El mandat atorgat finalitza un cop se n’ha acomplert l’objecte. Els assalariats que hagin obtingut aquest mandat gaudeixen de les mateixes garanties que els delegats dels assalariats i els membres del comitè d’empresa establertes a l’article 111.
+
+**Article 146. Adopció dels acords i els convenis col·lectius subscrits per assalariats amb mandat**
+
+1. L’acord o el conveni col·lectiu d’empresa signat pels assalariats amb mandat ha d’haver estat aprovat en votació lliure, personal, secreta i directa, almenys per la meitat més un del total dels electors de la plantilla de l’empresa. A manca d’aprovació, l’acord o el conveni no esdevé eficaç.
+2. En cas d’aprovació de l’acord o el conveni col·lectiu d’empresa, els assalariats amb mandat n’han de lliurar una còpia al Departament de Treball a l’efecte de registre i publicitat.
+3. L’empresa, en un termini de quinze dies naturals a comptar del dia que se signi l’acord o el conveni col·lectiu d’empresa, ha de determinar les modalitats d’organització i de consulta dels assalariats de l’empresa. S’han d’establir, entre altres qüestions, les modalitats d’informació dels assalariats sobre el text de l’acord o el conveni, el lloc, la data i l’hora de l’escrutini, i l’organització i el procediment de la votació.
+
+**Article 147. Objecte i periodicitat de les negociacions**
+
+Les parts acorden l’objecte i la periodicitat de les negociacions, així com les dades que s’han de lliurar abans als delegats dels assalariats, als membres del comitè d’empresa o, si escau, als assalariats amb mandat.
+
+**Article 148. Adaptació dels acords i els convenis col·lectius d’empresa**
+
+L’acord o el conveni col·lectiu d’empresa pot adaptar les disposicions dels convenis col·lectius sectorials o intersectorials o dels acords col·lectius sectorials que hi siguin aplicables, en el cas que s’hi hagi adherit, a les seves especificitats.
+
+#### Capítol tercer. Aplicació dels acords i els convenis col·lectius
+
+**Article 149. Efecte i caràcter oposable entre les parts signatàries**
+
+Les disposicions dels acords i dels convenis col·lectius s’apliquen i produeixen efectes entre les parts signatàries, sense perjudici de l’aplicació i la producció d’efectes en relació amb les parts que s’hi adhereixin, d’acord amb el que disposen els articles 137 i 152.
+
+**Article 150. Abast dels efectes**
+
+Quan un empresari és part signatària d’un acord o un conveni col·lectiu, o s’hi hagi adherit, les disposicions d’aquest acord o d’aquest conveni s’apliquen als contractes de treball formalitzats entre aquest empresari i els seus assalariats, excepte si s’estableixen disposicions més favorables.
+
+**Article 151. Adhesió**
+
+Les parts concernides en un procés de negociació col·lectiva poden, de mutu acord, adherir-se a la totalitat o a una part d’un acord o un conveni col·lectiu vigent, sempre que no existeixi un altre acord o un altre conveni col·lectiu que els sigui aplicable. En aquest cas, ho comuniquen per escrit al Departament de Treball a l’efecte de registre i publicitat. A manca de comunicació, l’adhesió no té efecte.
+
+**Article 152. Reconducció i revisió**
+
+1. Si l’acord o el conveni col·lectiu no preveu la pròrroga d’any en any, d’acord amb l’article 137, ha d’establir les condicions i els requisits per reconduir-lo.
+2. Durant la vigència d’un acord o un conveni col·lectiu, les parts en poden negociar la revisió parcial o la revisió de les matèries o d’un grup homogeni de matèries per a les quals s’han pactat uns períodes de vigència diferents als previstos per a la totalitat de l’acord o el conveni objecte de revisió.
+3. Els representants dels assalariats i els empresaris o els seus representants signataris d’un acord o un conveni col·lectiu, o que s’hi han adherit posteriorment, són les úniques parts legitimades per promoure’n i acordar-ne la revisió parcial o permetre’n la reconducció.
+
+**Article 153. Pluralitat d’acords o convenis col·lectius**
+
+Un acord o un conveni col·lectiu no pot, durant la seva vigència, ser afectat per allò establert en acords o convenis d’un àmbit diferent, excepte si en el primer acord o en el primer conveni s’han pactat situacions de remissió expressa als acords o els convenis d’un àmbit diferent per a la regulació de determinades matèries.
+
+**Article 154. Dret d’exercir accions legals**
+
+Les parts amb capacitat jurídica i capacitat d’obrar, signatàries d’un acord o un conveni col·lectiu, o les que s’hi hagin adherit, poden exercir accions legals contra les altres parts signatàries o que s’hi hagin adherit, per tal que es compleixin i s’executin les disposicions corresponents.
+
+**Article 155. Comissió paritària**
+
+1. Qualsevol dubte sobre l’aplicació o la interpretació de les clàusules contingudes en un acord o un conveni col·lectiu, es pot sotmetre a la comissió paritària designada en l’acord o el conveni, com a òrgan amb representació igualitària dels representants de les parts signatàries.
+2. Les competències i els procediments de mediació i arbitratge eventuals de la comissió s’han d’establir en l’acord o el conveni col·lectiu, d’acord amb la normativa aplicable en aquestes matèries.
+3. Si la comissió paritària no arriba a un acord, qualsevol conflicte derivat de l’aplicació o la interpretació d’un acord o un conveni col·lectiu el resol la jurisdicció competent a instància de qualsevol de les parts.
+
+### Títol VI. Règim sancionador
+
+#### Capítol primer. Infraccions dels empresaris
+
+**Article 156. Naturalesa**
+
+1. Són infraccions laborals les accions i les omissions, voluntàries o imprudents, contràries a les normes legals o reglamentàries, tipificades i sancionades per aquesta Llei i per la legislació vigent en matèria laboral.
+2. Les infraccions de l’empresa en matèria de seguretat i salut en el treball i d’immigració queden excloses d’aquesta Llei i es regeixen per la seva normativa específica.
+
+**Article 157. Garanties**
+
+1. Ningú pot ser sancionat per infraccions que en el moment de produir-se no estiguin tipificades com a tals.
+2. La norma sancionadora no és aplicable a supòsits que no s’hi comprenen expressament.
+3. No es pot sancionar ningú més d’una vegada pel mateix fet.
+4. En cap cas es pot imposar una sanció que no estigui establerta per una llei anterior a la comissió de la infracció.
+5. No es pot executar cap sanció si no és en virtut d’una resolució ferma dictada, seguint el procediment legal, per l’òrgan competent.
+
+**Article 158. Infraccions lleus**
+
+Són infraccions lleus:
+1. No exposar el pla horari en un lloc visible del centre de treball.
+2. No posar puntualment a disposició de la persona assalariada el butlletí de salari o no desglossar-hi cada concepte retributiu.
+3. La manca d’anotacions en el document de compte d’hores esmentat a l’article 59.
+4. Qualsevol altra que afecti obligacions merament formals o documentals que no estigui tipificada com a infracció greu o molt greu.
+
+**Article 159. Infraccions greus**
+
+$cf
+
+**Article 160. Infraccions molt greus**
+
+$d3
+
+**Article 161. Reincidència**
+
+1. S’entén que hi ha reincidència genèrica quan en el moment de cometre la infracció l’empresa ha estat sancionada per decisió ferma per una infracció de la mateixa gravetat o per dues de gravetat immediatament inferior.
+2. S’entén que hi ha reincidència específica quan en el moment de cometre la infracció l’empresa ha estat sancionada per decisió ferma per una acció o omissió constitutiva de la mateixa infracció.
+3. Per apreciar la reincidència genèrica o específica només es tenen en compte les sancions lleus imposades durant l’any anterior, les sancions greus imposades durant els dos anys anteriors i les sancions molt greus imposades durant els tres anys anteriors.
+
+**Article 162. Prescripció**
+
+1. Les infraccions lleus prescriuen al cap de sis mesos del dia de cessament de l’acció o l’omissió sancionable.
+2. Les infraccions greus prescriuen al cap d’un any del dia de cessament de l’acció o l’omissió sancionable.
+3. Les infraccions molt greus prescriuen al cap de dos anys del dia de cessament de l’acció o l’omissió sancionable.
+
+#### Capítol segon. Sancions
+
+**Article 163. Sancions**
+
+Les infraccions tipificades al capítol anterior són sancionables de la manera següent:
+1. Les infraccions lleus:
+a) En grau mínim, amb multa de 50 euros a 100 euros.b) En grau mitjà, amb multa de 101 euros a 250 euros.c) En grau màxim, amb multa de 251 euros a 500 euros.
+2. Les infraccions greus:
+a) En grau mínim, amb multa de 501 euros a 1.000 euros.b) En grau mitjà, amb multa de 1.001 euros a 2.000 euros.c) En grau màxim, amb multa de 2.001 euros a 3.000 euros.
+3. Les infraccions molt greus:
+a) En grau mínim, amb multa de 3.001 euros a 6.000 euros.b) En grau mitjà, amb multa de 6.001 euros a 12.000 euros.c) En grau màxim, amb multa de 12.001 euros a 24.000 euros.
+
+**Article 164. Criteris de graduació**
+
+1. Per determinar l’import de les sancions en els graus mínim, mitjà i màxim es tenen en compte els criteris de graduació següents:
+a) La negligència i la intencionalitat del subjecte infractor.b) El frau o la connivència.c) L’incompliment de les advertències prèvies i dels requeriments del Servei d’Inspecció de Treball.d) La reincidència genèrica.e) El perjudici causat.f) La quantitat defraudada.g) Les condicions generals de treball a l’empresa.h) Les circumstàncies que poden agreujar o atenuar la graduació aplicable a la infracció comesa.
+2. La infracció tipificada a l’article 160.4 s’ha d’imposar sempre en el grau màxim.
+
+**Article 165. Prescripció**
+
+Les sancions per infraccions lleus, greus i molt greus prescriuen al cap d’un any de la data de notificació de la resolució sancionadora esdevinguda ferma.
+
+### Títol VII. Control administratiu i procediment sancionador
+
+#### Capítol primer. Control administratiu
+
+**Article 166. Servei d’Inspecció de Treball**
+
+1. Correspon al departament competent en matèria de treball, mitjançant el Servei d’Inspecció de Treball, controlar el compliment de la normativa laboral.
+2. El Servei d’Inspecció de Treball, d’ofici o a instància de part, es persona a l’empresa o a qualsevol dels seus centres de treball, examina la documentació laboral, verifica el compliment de la normativa en la matèria i aixeca acta de la inspecció efectuada.
+3. Les actes del Servei d’Inspecció de Treball tenen presumpció d’exactitud, llevat de prova en contra.
+4. Si el Servei d’Inspecció de Treball constata una infracció lleu de la normativa vigent que no ocasioni dany o perjudici directe als assalariats, formula un requeriment a l’empresa perquè corregeixi l’actuació mitjançant l’acta d’advertència corresponent.
+
+#### Capítol segon. Procediment sancionador
+
+**Article 167. Expedient sancionador**
+
+1. La constatació d’una infracció per part del Servei d’Inspecció de Treball comporta la incoació de l’expedient sancionador corresponent d’acord amb el que disposen el Codi de l’Administració, el Decret regulador del procediment sancionador i les disposicions complementàries.
+2. Contra la resolució dictada pel Govern en l’expedient sancionador es pot interposar recurs d’acord amb el que disposen el Codi de l’Administració i els reglaments especials sobre la matèria.

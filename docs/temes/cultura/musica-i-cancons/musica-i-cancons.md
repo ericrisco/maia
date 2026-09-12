@@ -44,3 +44,4 @@ candidata natural de la fase 3.
 - [El contrapàs](../../costums/danses/el-contrapas.md) — el que la cobla toca.
 - [Cultura popular](../cultura-popular/cultura-popular.md) — el mateix buit.
 - [Símbols](../../institucions/simbols/simbols.md) — l'himne.
+- [La cançó popular andorrana](./la-canco-popular-andorrana.md) — per què gairebé no n'hi ha recollida, i qui n'ha recuperada.

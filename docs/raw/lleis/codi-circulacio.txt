@@ -1,0 +1,733 @@
+# Codi de la Circulació (Llei 12/2021)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/codi-circulacio
+Articles: 132 · versions consolidades: 2
+Instantania del consolidat: 2026-09-12T05:30:01.556639Z
+
+---
+
+### Títol preliminar. Disposicions generals
+
+**Article 1. Objecte**
+
+1. Aquesta Llei té per objecte la regulació del trànsit, la circulació de vehicles i vianants, i la seguretat viària.
+2. A aquest efecte, regula:
+a) Les normes de circulació per als vehicles, així com les que per raó de seguretat viària regeixen per a la circulació de vianants i animals per les vies d’utilització general. Amb aquesta finalitat, s’estableixen els drets i les obligacions dels usuaris de les dites vies.b) La regulació de l’obtenció de les autoritzacions administratives obligatòries per a la conducció i la circulació de vehicles de motor i ciclomotors.c) Els elements de seguretat activa i passiva i el seu règim d’utilització, així com les condicions tècniques dels vehicles.d) Els criteris de senyalització de les vies d’utilització general.e) Les infraccions derivades de l’incompliment de les normes establertes i les sancions aplicables, així com el procediment sancionador que cal seguir en aquesta matèria.
+
+**Article 2. Àmbit d’aplicació**
+
+Els preceptes d’aquesta Llei obliguen els titulars i usuaris de les vies i els terrenys públics aptes per a la circulació, tant urbans com interurbans, els de les vies i terrenys que, sense tenir aquesta condició, siguin d’ús comú i, en defecte d’altres normes, els titulars de les vies i els terrenys privats que siguin utilitzats per una col·lectivitat indeterminada d’usuaris.
+
+**Article 3. Conceptes bàsics**
+
+Als efectes d’aquesta Llei i les seves disposicions complementàries, els conceptes bàsics sobre vehicles, vies públiques i usuaris de les vies són els previstos en l’annex I.
+
+### Títol I. Normes de la circulació
+
+#### Capítol primer. Disposicions generals
+
+**Article 4. Usuaris de les vies, conductors i ocupants dels vehicles**
+
+1. Tots els usuaris de les vies públiques han de comportar-se correctament i de forma que no constitueixin cap perill o cap molèstia per a la circulació, i han d’evitar qualsevol dany a les persones o als béns, tant de domini públic com de propietat privada.
+2. El conductor ha d’utilitzar el vehicle amb la diligència, la precaució i l’atenció necessàries per evitar qualsevol dany, propi o aliè, i ha de fer tot el possible per no posar en perill els ocupants del vehicle ni la resta d’usuaris de la via. Queda terminantment prohibit conduir de manera negligent o temerària.
+3. El conductor d’un vehicle ha de prendre les mesures necessàries per dominar els seus moviments, preveure les seves reaccions i conduir-lo amb prudència.
+4. El conductor ha de tenir en tot moment el control del vehicle. En aproximar-se a altres usuaris de la via, ha d’adoptar les precaucions necessàries per a la seva seguretat, especialment amb relació als que són més vulnerables, com els vianants, els ciclistes i els conductors de VMP.
+5. El conductor està obligat a mantenir en tot moment la llibertat de moviments, el camp necessari de visió i l’atenció permanent a la conducció. A aquest efecte, ha de vetllar per mantenir una posició adequada, s’ha d’assegurar que també la mantenen la resta d’ocupants del vehicle i ha de col·locar adequadament els objectes o animals transportats a fi que no interfereixin en la conducció.
+6. Pel fet de ser incompatible amb l’atenció obligatòria permanent a la conducció, es prohibeix la utilització, per part del conductor i amb el vehicle en moviment, de pantalles amb accés a Internet, monitors de televisió i reproductors de vídeo. Se n’exceptua l’ús de monitors que es trobin a la vista del conductor i la utilització dels quals permeti visualitzar l’accés o la baixada de vianants, la visió de la càmera instal·lada per maniobrar marxa enrere o el dispositiu GPS.
+7. Es prohibeix la col·locació al parabrisa i als vidres laterals de les portes davanteres de làmines o dispositius destinats a limitar la influència dels raigs solars, en aquells casos en què pertorbin o disminueixin la visibilitat del conductor. La col·locació de làmines adhesives en els vehicles només es permet en les condicions que reglamentàriament es determinin.
+8. Es prohibeix la utilització, durant la conducció, de cascos o d’un o més auriculars connectats a aparells receptors o reproductors de so. Els intercomunicadors degudament homologats no es consideren per als efectes d’aquesta llei com a auriculars i se n’autoritza el seu ús durant la conducció de motocicletes. També es prohibeix la utilització d’aparells de so, integrats o no en el vehicle, amb un volum que pugui pertorbar la capacitat de percepció acústica durant la conducció. El Govern establirà reglamentàriament els límits acústics d’aquests aparells.
+9. Es prohibeix la utilització, durant la conducció, de dispositius de telefonia mòbil o de qualsevol altre mitjà o sistema de comunicació, excepte quan el desenvolupament de la comunicació tingui lloc sense utilitzar ni les mans, ni cascos o auriculars, i sempre que no es redueixi l’atenció mínima necessària per garantir en tot moment una conducció segura.
+10. El conductor del vehicle és el responsable de la seguretat dels passatgers que transporta, excepte en els casos en què la Llei ho determini diferentment.
+11. Es prohibeix la circulació de vehicles que portin inhibidors de radars o cinemòmetres a excepció dels vehicles del Cos de la Policia equipats amb aquests sistemes i destinats a la vigilància del trànsit. En general es prohibeix la circulació de vehicles amb mecanismes o sistemes destinats a interferir en el funcionament correcte dels sistemes de vigilància del trànsit i l’emissió de senyals, així com la seva instal·lació. Es prohibeix també la conducció de vehicles que duguin instal·lats mecanismes de detecció de radars. Queden exclosos d’aquesta prohibició els mecanismes d’avís que informen de la posició dels sistemes de vigilància del trànsit.
+12. El conductor ha de verificar que les plaques de matrícula del vehicle es trobin en bon estat i que no presentin obstacles o danys que n’impedeixin o en dificultin la lectura i la identificació.
+13. El conductor està obligat a col·laborar en la realització de les comprovacions relatives al mateix conductor, a la resta d’ocupants del vehicle, a l’estat del vehicle o a la càrrega transportada que es determinin per llei o en les normes que la desenvolupen.
+14. Es prohibeix circular amb vehicles que emetin pertorbacions electromagnètiques, sorolls, gasos i altres contaminants a la via pública. El Govern establirà reglamentàriament els límits acústics dels vehicles de motor, basant-se en els límits sonors establerts pel
+Reglament (UE) 540/2014 del Parlament Europeu i del Consell de 16 d’abril de 2014 sobre el nivell sonor dels vehicles de motor i dels sistemes silenciadors de recanvi, i per al qual es modifica la Directiva 2007/46/CE i es deroga la Directiva 70/157/CEE
+, o pels reglaments que els modifiquin en el futur.
+15. Queda prohibida la circulació de motos de neu i vehicles de neu anàlegs per les vies públiques obertes al trànsit, salvat els supòsits extraordinaris o d’urgència, prèviament autoritzats per l’Administració competent.
+16. El conductor d’un vehicle que presenciï la comissió d’una infracció tipificada com a greu o molt greu en aquesta Llei i que posi en perill la seguretat de les persones o de les coses té el deure de comunicar aquesta circumstància a l’autoritat competent o als seus agents.
+17. El conductor i els ocupants d’un vehicle que presenciïn un accident de circulació s’han de posar al servei de l’autoritat competent per prestar la col·laboració necessària per esclarir els fets.
+
+**Article 5. Titulars, arrendataris i conductors de vehicles**
+
+$1e
+
+#### Capítol segon. Velocitat i distància entre vehicles
+
+**Article 6. Adequació de la velocitat a les circumstàncies concurrents**
+
+$20
+
+**Article 7. Competència de velocitat**
+
+1. Es prohibeix la competència de velocitat entre tota classe de vehicles o animals quan circulin per vies públiques obertes al trànsit general.
+2. Es prohibeix l’organització de proves o curses de velocitat a les vies públiques, tret que hagi estat expressament autoritzada per l’Administració competent segons la normativa sectorial aplicable.
+
+**Article 8. Límits màxims de velocitat**
+
+1. Els límits màxims de velocitat, que no han de ser superats tret que hi hagi una senyalització específica que indiqui un altre límit de velocitat, són els següents:
+a) 90 km/h a les carreteres generals i 60 km/h a les carreteres secundàries.b) 50 km/h a les zones urbanes per a tota mena de carreteres.c) 30 km/h a les zones establertes com Zona 30.d) 20 km/h a les zones establertes com Zona 20.
+2. Prevalen sobre els límits màxims de velocitat indicats anteriorment els que es fixin per a determinats vehicles o conjunts de vehicles per raó de la càrrega o de les característiques especials.
+
+**Article 9. Reducció de velocitat**
+
+1. No s’ha de reduir bruscament la velocitat, excepte en casos de perill imminent, a fi d’evitar el risc de col·lisió amb els vehicles que circulen al darrere. El conductor ha de cerciorar-se que pot reduir la velocitat sense risc per a altres conductors i ha d’advertir la maniobra de la forma prevista a l’article 35.
+2. No s’ha de circular a una velocitat anormalment reduïda que dificulti la marxa dels altres vehicles sense causa justificada.
+3. El vehicle que, amb motiu justificat, circuli a una velocitat anormalment reduïda i dificulti el trànsit en una via urbana o interurbana, s’ha d’aturar a la seva dreta per permetre el pas dels vehicles que el segueixen quan sigui possible, sense crear cap situació de perill i sempre que la visibilitat ho permeti.
+
+**Article 10. Distància entre vehicles**
+
+$22
+
+#### Capítol tercer. Canvi de direcció i prioritat de pas
+
+**Article 11. Canvi de direcció**
+
+$24
+
+**Article 12. Cessió de pas i interseccions**
+
+$26
+
+**Article 13. Prioritat de pas en interseccions**
+
+1. En les interseccions amb senyalització, la preferència de pas la regula la mateixa senyalització.
+2. A manca de senyalització reguladora de la preferència de pas, el conductor està obligat a cedir-lo als vehicles que s’aproximin per la seva dreta, llevat dels casos següents:
+a) Tenen preferència de pas els vehicles que circulen per una via pavimentada davant dels que procedeixen d’una altra via sense pavimentar, i els que circulen per una carretera general davant els que ho fan per una carretera de categoria inferior.b) Els vehicles que circulen sobre rails tenen preferència de pas sobre els altres usuaris.c) A les rotondes, llevat de senyalització específica, els vehicles que es troben dins la via circular tenen preferència de pas sobre els que pretenen accedir-hi.d) D’acord amb el que disposa a aquest efecte l’article 19 d’aquesta Llei, els vehicles en servei d’urgència tenen prioritat, sempre i en tot cas, sobre tots els altres vehicles.
+
+**Article 14. Conductors, vianants, bicicletes i animals**
+
+$28
+
+**Article 15. Prioritat de pas en cas d’estretall**
+
+1. En els trams de la via en els quals, per l’amplada, sigui impossible o molt difícil el pas simultani de dos vehicles que circulin en sentit contrari, i on no hi hagi senyalització específica, té preferència de pas el que hi hagi accedit primer. En cas de dubte sobre aquesta circumstància, té prioritat el vehicle que tingui més dificultats de maniobra tenint en compte les dimensions i característiques dels vehicles. Quan es tracti de vehicles del mateix tipus, té preferència de pas el que hagi d’efectuar marxa enrere una distància més gran.
+2. En trams de gran pendent en els quals es donin les circumstàncies d’amplada insuficient assenyalades a l’apartat precedent d’aquest article, la preferència de pas la té el vehicle que circula en sentit ascendent. En cas de dubte sobre el grau d’inclinació del pendent, preval el que disposa l’apartat anterior.
+S’entén per trams de gran pendent els que tinguin una inclinació mínima del set per cent.
+
+**Article 16. Incorporació de vehicles a la circulació**
+
+1. La incorporació d’un vehicle a la via pública s’ha de fer en tots els casos lentament marxa endavant i mitjançant la realització dels senyals òptics obligatoris d’advertiment, de conformitat amb el que estipula l’article 35. Si la via a la qual s’accedeix està dotada d’un carril d’acceleració, el conductor s’hi ha d’incorporar amb la velocitat adequada.
+2. S’ha de cedir el pas als altres vehicles i als vianants fins i tot quan aquesta incorporació es produeixi després que un altre vehicle s’hagi parat per facilitar la maniobra.
+3. És expressament prohibit accedir a una via pública marxa enrere, llevat que aquest accés es dugui a terme des d’un garatge o aparcament que, per les seves característiques, no permeti fer-ho d’una altra manera. En aquest cas, el conductor ha d’extremar les precaucions i, si és possible, s’ha de fer assistir per una altra persona que indiqui aquesta circumstància excepcional als altres usuaris.
+
+**Article 17. Circulació en zona d’obres**
+
+1. Quan en una via s’efectuen obres, els vehicles han de circular per l’indret assenyalat a aquest efecte, a excepció dels vehicles en urgència del Servei de Policia, de Duana, de Bombers, de Banders, dels serveis de circulació, d’assistència sanitària i d’altres vehicles oficials que poden passar pel tram de via en reparació sempre que adverteixin aquest pas mitjançant l’ús de la senyalització corresponent i no causin cap perill ni dany a l’obra en qüestió.
+2. Tot vehicle que s’aproximi a una zona en la qual es realitzin obres de reparació de la via i, en arribar-hi, en trobi un altre esperant en el mateix sentit de circulació, ha de col·locar-se al darrere de l’arribat en primer lloc, al més a prop possible al costat dret de la calçada i sense intentar avançar el que el precedeix.
+3. Els usuaris de la via estan obligats a seguir les indicacions del personal destinat a la regulació del pas de vehicles.
+
+**Article 18. Vehicles de transport col·lectiu de persones**
+
+1. A les zones urbanes, els autobusos i els autocars tenen prioritat davant els altres vehicles, llevat dels vehicles en servei d’urgència. A fi de facilitar la circulació dels vehicles de transport col·lectiu de persones, els conductors dels altres vehicles han de disminuir la velocitat i, si és necessari, parar per deixar-los efectuar les maniobres necessàries per aturar-se o tornar a iniciar la marxa després de les parades que tenen assenyalades.
+2. Els conductors dels vehicles de transport col·lectiu de persones, després d’advertir el canvi de direcció mitjançant els indicadors òptics de conformitat amb l’article 35, han de prendre totes les precaucions necessàries per evitar tot risc d’accident.
+
+**Article 19. Vehicles en servei d’urgència**
+
+$2a
+
+#### Capítol quart. Sentit de la circulació, utilització de carrils i vorals, i canvi del sentit de la marxa
+
+**Article 20. Sentit de la circulació i utilització de carrils i vorals**
+
+$2c
+
+**Article 21. Divisió de la via en calçades**
+
+1. A les vies dividides en dos calçades per jardins centrals, voreres, mitjanes, separadors o dispositius similars, els vehicles han d’utilitzar la calçada de la dreta en el seu sentit de la marxa.
+2. Quan hi hagi tres calçades, la central és destinada a la circulació en ambdós direccions, o en sentit únic, de forma permanent o temporal, segons el que es disposi amb els senyals corresponents. Pel que fa a les laterals, es destinen a la circulació en una sola direcció, sense perjudici que l’autoritat responsable de la regulació del trànsit pugui establir un altre sentit de la circulació, que ha d’estar convenientment senyalitzat.
+
+**Article 22. Refugis, illes o dispositius de guia**
+
+1. Quan al centre de les vies públiques hi hagi refugis, senyals indicadors o dispositius anàlegs, els vehicles han de circular pel costat dret corresponent al sentit de la seva marxa. S’exceptuen d’aquesta regla les vies públiques d’un sol sentit de circulació amb dos carrils o més.
+2. A les places i les interseccions de vies públiques s’ha de circular deixant el centre a l’esquerra.
+
+**Article 23. Canvi del sentit de la marxa**
+
+1. Abans de canviar el sentit de la marxa i sempre que no s’adverteixi la presència d’un o més vehicles circulant en sentit contrari, el conductor ha d’advertir aquesta maniobra amb antelació suficient a la resta d’usuaris de la forma que assenyala l’article 35, sempre que la senyalització no ho prohibeixi i sense risc per als altres usuaris. Ensems, ha d’efectuar la maniobra interceptant la via el mínim temps possible i sense impedir la marxa dels vehicles que circulen al seu darrere.
+2. Es prohibeix el canvi de sentit de la marxa en els casos següents:
+a) En revolts i canvis de rasant de visibilitat reduïda, encreuaments, bifurcacions i, en general, en qualsevol circumstància en què no hi hagi visibilitat suficient.b) En ponts, túnels, autopistes, autovies i en tots els trams de via en què estigui prohibit l’avançament, excepte quan sigui expressament autoritzat.
+
+#### Capítol cinquè. Aturada, inici de la marxa i marxa enrere
+
+**Article 24. Aturada i inici de la marxa**
+
+El conductor de qualsevol vehicle ha de comprovar, abans d’iniciar la marxa per incorporar-se a la via pública o d’aturar-se per abandonar-la, que disposa del temps suficient per efectuar la maniobra sense causar perill o alteració del trànsit. Especialment, ha de comprovar que els vehicles que s’aproximen estan a una distància suficient per permetre la incorporació a la circulació o bé l’aturada del seu vehicle sense causar cap mena de pertorbació o perill. La maniobra s’ha d’anunciar amb la senyalització òptica tal com s’estipula a l’article 35.
+
+**Article 25. Marxa enrere**
+
+1. Quan un vehicle inicia la marxa enrere, el conductor ha de comprovar prèviament, mitjançant els retrovisors del vehicle i baixant del vehicle a comprovar-ho si és necessari, que no hi ha cap altre vehicle parat ni cap altre obstacle que li impedeixi la maniobra.
+2. Es prohibeix circular marxa enrere, llevat dels casos en què no sigui possible circular endavant, ni canviar de direcció en sentit de la marxa, i en les maniobres complementàries d’alguna altra que ho exigeixi, sempre realitzant el recorregut mínim indispensable i sent aplicable el que disposa l’article 16.
+3. El conductor d’un vehicle que pretengui efectuar marxa enrere ha d’advertir el seu propòsit en la forma prevista a l’article 35 i ha d’efectuar la maniobra amb la màxima precaució i detenint el vehicle ràpidament si un altre vehicle, persona o animal, es troba a prop o ho exigeixen motius de seguretat, i desistint de la maniobra si és necessari.
+
+#### Capítol sisè. Avançaments
+
+**Article 26. Prescripcions generals**
+
+$2e
+
+**Article 27. Avançaments per la dreta**
+
+$30
+
+**Article 28. Prohibicions**
+
+$32
+
+#### Capítol setè. Parada i estacionament
+
+**Article 29. Norma general**
+
+No es pot parar ni estacionar un vehicle en un lloc on es dificulti la circulació o constitueixi un risc per a la resta d’usuaris de la via.
+
+**Article 30. Lloc de parada o estacionament**
+
+$34
+
+**Article 31. Entrada i sortida dels usuaris dels vehicles**
+
+Els usuaris dels vehicles han d’entrar-hi i sortir-ne pel costat més pròxim a la vorera. Si, per qualsevol circumstància, s’ha de fer per la part de la calçada, s’ha d’observar que aquesta maniobra no comporti perill ni molèstia per a altres usuaris. Queda prohibit deixar les portes dels vehicles obertes sense assegurar-se que no es crea un perill per als altres usuaris de la calçada.
+
+**Article 32. Abandó del lloc d’estacionament**
+
+El conductor no ha d’abandonar mai el lloc d’estacionament sense haver pres les precaucions necessàries per preveure qualsevol mena d’accident atribuïble a la seva absència.
+
+**Article 33. Forma de realització de la parada o l’estacionament**
+
+$36
+
+#### Capítol vuitè. Advertències dels conductors
+
+**Article 34. Normes generals**
+
+1. Els conductors estan obligats a advertir la resta d’usuaris de la via de les maniobres que efectuïn amb els vehicles.
+2. Com a norma general, les advertències es fa utilitzant la senyalització òptica del vehicle o, si no n’hi ha, amb el braç. La validesa de les fetes amb el braç està supeditada al fet que siguin perceptibles pels altres usuaris de la via i s’efectuïn de conformitat amb el que disposa l’article següent, supòsit amb el qual anul·len qualsevol indicació òptica que les contradigui.
+
+**Article 35. Advertiments òptics**
+
+$38
+
+**Article 36. Advertiments acústics**
+
+1. Els senyals acústics han de ser d’un so en concordança a la reglamentació en matèria acústica que aprovi el Govern i han d’efectuar-se de forma tan breu com sigui possible. Queda prohibit fer-ne un ús immotivat.
+2. Es prohibeix l’ús de sirenes o avisadors de sons múltiples fora del cas de vehicles d’urgències quan circulin en servei.
+3. Únicament queda autoritzat l’ús de senyals acústics per advertir els altres usuaris de la via pública en els casos següents:
+a) Per evitar un possible accident i, de forma especial, en vies estretes amb molts revolts.b) Per advertir, fora d’aglomeracions, al conductor d’un altre vehicle el propòsit d’avançar-lo.c) Excepcionalment, amb l’autorització prèvia de l’Administració competent, es poden fer servir en comitives, desfilades o altres esdeveniments.
+4. Durant la nit els advertiments s’han de fer per senyals lluminosos de la forma que assenyala l’apartat 3 de l’article 35. Els senyals acústics solament han d’efectuar-se en casos d’absoluta necessitat.
+
+#### Capítol novè. Càrrega i descàrrega
+
+**Article 37. Disposició de la càrrega**
+
+$3a
+
+**Article 38. Operacions de càrrega i descàrrega**
+
+$3c
+
+**Article 39. Dimensions de la càrrega**
+
+$3e
+
+#### Capítol desè. Seguretat de la via pública: obstrucció de la via pública, realització d’obres o d’instal·lacions, esdeveniments, i prevenció d’incendis
+
+**Article 40. Obstrucció de la via pública**
+
+$40
+
+**Article 41. Realització d’obres o d’instal·lacions que afecten la circulació**
+
+1. La realització d’obres o d’instal·lacions, sigui a la via pública, sigui en un lloc pròxim on puguin afectar la circulació, necessita l’autorització administrativa corresponent de conformitat amb la legislació sectorial de carreteres.
+2. Les obres o instal·lacions que dificultin de qualsevol manera la circulació o la seguretat viària han de ser senyalitzades, tant de dia com de nit, i abalisades lluminosament durant les hores nocturnes o quan les condicions meteorològiques o ambientals ho exigeixin, a càrrec del realitzador de l’obra.
+3. La senyalització que s’ha d’emprar en la realització d’obres o d’instal·lacions que afecten la circulació és la senyalització d’abalisament o circumstancial que modifica el règim normal de la via, a la qual fa referència la lletra
+b)
+de l’article 84 d’aquesta Llei i la normativa que la desenvolupa.
+
+**Article 42. Celebració d’esdeveniments**
+
+$42
+
+**Article 43. Prevenció d’incendis**
+
+Es prohibeix llençar a la via o al seu voltant qualsevol objecte que pugui donar lloc a incendis o, en general, posar en perill la seguretat viària i la de les persones o coses en general.
+
+#### Capítol onzè. Circulació en zona urbana
+
+**Article 44. Normes generals**
+
+$44
+
+**Article 45. Altres disposicions**
+
+Es prohibeix rentar, reparar o efectuar operacions de manteniment o manipulació de vehicles a la via pública fora de les reparacions d’emergència per poder continuar la marxa.
+
+#### Capítol dotzè. Regulació de la circulació de vehicles per raons de seguretat, de fluïdesa i de tipologia de vehicles
+
+**Article 46. Limitacions a la circulació**
+
+$46
+
+#### Capítol tretzè. Vehicles de mobilitat personal (VMP)
+
+**Article 47. Característiques generals**
+
+$48
+
+**Article 48. Circulació de vehicles de mobilitat personal**
+
+$4a
+
+#### Capítol catorzè. Vianants
+
+**Article 49. Normes generals**
+
+$4c
+
+**Article 50. Circulació nocturna**
+
+1. Fora de les zones urbanes, entre l’ocàs i la sortida del sol o en condicions ambientals que disminueixin sensiblement la seguretat, tot vianant, quan circuli per la calçada o el voral, ha d’anar proveït d’un element lluminós o reflector homologat que sigui visible a una distància mínima de 150 m per als conductors que s’aproximin.
+2. Els grups de vianants poden circular per la calçada, però en cas de poca visibilitat o de gran intensitat de circulació, han de circular tant com sigui possible en una sola fila i dur, a més, pel costat més pròxim al centre de la calçada, els llums necessaris per precisar la seva situació i dimensions, que han de ser de color blanc o groc cap endavant i de color vermell cap enrere (poden constituir, si escau, un únic conjunt).
+
+**Article 51. Pas de vianants i encreuament de calçades**
+
+$4e
+
+#### Capítol quinzè. Circulació d’animals
+
+**Article 52. Normes generals**
+
+El trànsit d’animals de tir, de càrrega o de sella, o caps de bestiar guiats o en ramat, per la xarxa bàsica de carreteres tan sols es permet quan no hi ha un itinerari practicable per una via pecuària i sempre que vagin custodiats per una persona.
+
+**Article 53. Normes especials**
+
+$50
+
+**Article 54. Circulació nocturna**
+
+Si circulen de nit per una via insuficientment il·luminada o amb condicions meteorològiques o ambientals que disminueixen sensiblement la visibilitat, els conductors han de dur al costat més pròxim al centre de la calçada llums en nombre necessari per precisar la seva situació i dimensions, que han de ser de color blanc o groc cap al davant i de color vermell cap al darrere (poden constituir, si escau, un únic conjunt).
+
+**Article 55. Normes en encreuaments i en estretalls**
+
+1. Els animals guiats o en ramat tan sols poden creuar la calçada per passos autoritzats i senyalitzats a aquest efecte o per altres indrets que reuneixin les degudes condicions de seguretat.
+2. En estretalls, interseccions i altres casos en què les respectives trajectòries es creuin o tallin, han de cedir el pas als vehicles, excepte en els casos previstos en l’article 14.
+
+#### Capítol setzè. Accidents
+
+**Article 56. Norma general**
+
+Els conductors i acompanyants d’un vehicle que estiguin implicats en un accident de circulació, que el presenciïn o que en tinguin coneixement, estan obligats a auxiliar o sol·licitar auxili per atendre les víctimes, si n’hi ha, prestar la seva col·laboració per evitar majors perills o danys i restablir, en la mesura que sigui possible, la seguretat de la circulació i esclarir els fets. També han de facilitar als agents encarregats de la vigilància i la disciplina del trànsit les seves dades per poder ser localitzats en cas que sigui necessari.
+
+**Article 57. Accident amb danys corporals**
+
+$52
+
+**Article 58. Accidents amb danys materials**
+
+$54
+
+**Article 59. Senyalització del vehicle o de la càrrega per accident o avaria**
+
+$56
+
+**Article 60. Registre d’accidents**
+
+El Cos de Policia i els comuns, dins el seu àmbit d’actuació respectiu, han de portar un registre d’accidents de circulació de vehicles a l’efecte d’estadística i investigació dels accidents de trànsit en col·laboració amb altres organismes, que poden ser públics o privats, en la forma que es determini reglamentàriament.
+
+#### Capítol dissetè. Altres normes de circulació
+
+**Article 61. Portes**
+
+1. És prohibit dur les portes del vehicle obertes, obrir-les abans que el vehicle estigui completament immobilitzat i obrir-les o baixar del vehicle sense haver comprovat prèviament que això no implica cap perill o obstacle per als altres usuaris, especialment quan es refereixi a conductors de bicicletes.
+2. Com a norma general, s’ha d’entrar i s’ha de sortir del vehicle pel costat més pròxim a la vorera, i només quan el vehicle està aturat.
+
+**Article 62. Apagada del motor**
+
+$58
+
+**Article 63. Targetes per a persones amb discapacitat**
+
+Les persones amb discapacitat que els ocasiona greus problemes de mobilitat i els impossibilita o els dificulta la utilització del transport col·lectiu poden disposar de la targeta d’aparcament en les condicions que estableixi la normativa vigent en cada moment en matèria d’accessibilitat.
+Reglamentàriament es defineix la senyalització horitzontal i vertical de les places d’aparcament per a persones amb discapacitat.
+
+#### Capítol divuitè. Limitació de masses i dimensions. Transports i vehicles especials
+
+**Article 64. Limitacions de masses i dimensions**
+
+La longitud, l’amplada, l’altura o la càrrega dels vehicles que circulin per una via no ha de sobrepassar la que es determini reglamentàriament o, si escau, la que assenyali la via per la qual circulin.
+
+**Article 65. Transports especials**
+
+$5a
+
+**Article 66. Circulació de vehicles especials**
+
+$5c
+
+#### Capítol dinovè. Transport de persones
+
+**Article 67. Normes generals**
+
+$5e
+
+**Article 68. Normes relatives a bicicletes, ciclomotors, motocicletes i anàlegs**
+
+$60
+
+#### Capítol vintè. Elements de seguretat per als conductors: cinturons, sistemes de retenció infantil i cascos
+
+**Article 69. Cinturons de seguretat i sistemes de retenció infantil**
+
+$62
+
+**Article 70. Cascos i altres elements de protecció**
+
+$64
+
+**Article 71. Excepcions**
+
+$66
+
+#### Capítol vint-i-unè. Utilització de pneumàtics de claus i d’equipaments especials
+
+**Article 72. Utilització de pneumàtics de claus i d’equipaments especials**
+
+$68
+
+#### Capítol vint-i-dosè. Túnels i passos a nivell
+
+**Article 73. Túnels**
+
+$6a
+
+**Article 74. Passos a nivell**
+
+1. Tot vehicle que, en arribar a un pas a nivell, el trobi tancat, ha de quedar deturat i ocupar el costat dret de la calçada en el sentit de la seva marxa. Si durant el temps que es trobi tancat el pas a nivell arribessin altres vehicles, cada un ha de situar-se darrere dels que es trobin aturats. Resta prohibida l’ocupació de la meitat esquerra de la calçada.
+2. Tot conductor ha de moderar la velocitat en arribar a un pas a nivell i circular a velocitat reduïda en travessar-lo.
+3. Si un pas a nivell no està proveït de barreres, cap conductor no pot creuar-lo sense estar segur que no s’apropa cap mena de ferrocarril.
+4. No pot perllongar-se indegudament la permanència d’un vehicle sobre un pas a nivell. En cas d’immobilització forçosa d’un vehicle sobre les vies, el conductor ha de desocupar-les ràpidament i, en cas d’impossibilitat, ha de prendre les mesures oportunes per tal d’avisar ràpidament els operaris de la via fèrria.
+
+#### Capítol vint-i-tresè. Enllumenat
+
+**Article 75. Normes generals**
+
+1. Tots els vehicles que circulin entre la posta i la sortida del sol o a qualsevol hora del dia en els túnels, passos inferiors i trams de via afectats pel senyal de
+Túnel
+han de portar encès l’enllumenat que correspongui, segons el que es determina en aquest capítol.
+2. La regulació dels sistemes d’enllumenat que no estiguin prohibits, o tot el que no estigui expressament previst en aquesta Llei, s’ha d’ajustar al que preveuen les normes reguladores dels vehicles que determinen les condicions tècniques i d’utilització que s’exigeixen als diferents tipus i sistemes d’enllumenat.
+
+**Article 76. Utilització de l’enllumenat**
+
+$6c
+
+**Article 77. Enlluernament**
+
+1. Cal substituir l’enllumenat de carretera pel d’encreuament tan bon punt s’adverteixi la possibilitat d’enlluernar altres usuaris de la mateixa via o de qualsevol altra via de comunicació, especialment els conductors que circulen en sentit contrari encara que aquests últims no compleixin aquesta prescripció, i no s’ha de restablir l’enllumenat de carretera fins a ultrapassar, en l’encreuament, la posició del conductor del vehicle creuat.
+2. La mateixa prescripció s’ha de guardar respecte dels vehicles que circulin en el mateix sentit i quan els seus conductors puguin ser enlluernats pels miralls retrovisors.
+3. En cas d’enlluernament, es redueix la velocitat tant com calgui, si convé fins a la detenció total, per evitar qualsevol topada amb els vehicles que circulin en el mateix sentit. La maniobra s’ha de dur a terme en tot cas evitant de provocar cap situació de perill per als altres usuaris.
+
+**Article 78. Altres supòsits d’utilització de l’enllumenat**
+
+$6e
+
+#### Capítol vint-i-quatrè. Controls d’alcoholèmia, estupefaents i substàncies que alterin la capacitat d’obrar
+
+**Article 79. Taxes d’alcohol**
+
+1. No poden circular per les vies objecte d’aquesta Llei els conductors de vehicles, de bicicletes o de VMP amb una taxa d’alcohol a la sang superior a 0,5 g/l.
+2. Els conductors de vehicles especials, de transport de mercaderies perilloses, de transport de mercaderies o industrials amb una massa màxima autoritzada de més de 3.500 kg, en servei d’urgència i de transport públic o privat de passatgers, atenent la perillositat superior o la sinistralitat potencial en cas d’accident, no poden circular amb una taxa d’alcohol a la sang superior a 0,0 g/l.
+
+**Article 80. Persones obligades a efectuar controls d’alcoholèmia**
+
+Els agents del Cos de Policia poden sotmetre a controls d’alcoholèmia:
+a) Qualsevol usuari de la via o conductor de vehicle, de bicicleta o de VMP quan es vegi implicat en un accident de circulació.b) Els conductors de vehicle, de bicicleta o VMP quan presentin símptomes evidents, manifestacions que denotin o fets que permetin suposar raonablement que ho fan sota la influència de l’alcohol.c) Els conductors que hagin estat denunciats per la comissió d’alguna de les infraccions tipificades en aquesta Llei i en la seva normativa de desenvolupament.d) Els conductors que siguin requerits per un control preventiu ordenat per l’autoritat competent.
+
+**Article 81. Proves de detecció d’alcoholèmia i pràctica**
+
+$70
+
+**Article 82. Normes sobre estupefaents, psicotròpics, estimulants i substàncies anàlogues**
+
+$72
+
+### Títol II. Senyalització
+
+#### Capítol únic. Disposicions generals
+
+**Article 83. Normes generals**
+
+$74
+
+**Article 84. Prioritat entre senyals**
+
+1. L’ordre de prioritat entre els diferents tipus de senyals de circulació és el següent:
+a) Els senyals i les ordres dels agents encarregats de la vigilància i la disciplina del trànsit.b) La senyalització d’abalisament o circumstancial que modifica el règim normal d’utilització de la via.c) Els semàfors.d) Els senyals verticals de circulació.e) Les marques viàries.
+2. En el cas que les prescripcions indicades per diferents senyals semblin estar en contradicció entre si, preval el prioritari, segons el que determina l’apartat anterior, o el més restrictiu, si es tracta de senyals del mateix tipus.
+
+**Article 85. Tipus i significat dels senyals de circulació**
+
+1. Reglamentàriament, el Govern determina els tipus i el significat dels senyals i de les ordres dels agents encarregats de la vigilància i la disciplina del trànsit; de la senyalització d’abalisament o circumstancial; dels semàfors; dels senyals verticals de circulació i de les marques viàries. Aquest reglament regula també els senyals i tipus de missatges dels panells de missatges variables, l’obligatorietat o no de complir-los i la seva equivalència a efectes de tipus de senyals.
+2. Aquest reglament inclou el Catàleg oficial de senyals de circulació, que especifica la forma, els símbols, el color, el disseny i el significat dels senyals així com les seves dimensions, en funció de cada tipus de via i els seus sistemes de col·locació.
+3. Tota senyalització ha d’ajustar-se al que estableixen les reglamentacions i recomanacions internacionals en la matèria.
+
+**Article 86. Senyals en els vehicles**
+
+Els senyals en els vehicles estan destinats a donar a conèixer als usuaris de les vies determinades circumstàncies o característiques dels vehicles en què estan col·locats, del servei que porten a terme, de la càrrega que transporten o del mateix conductor.
+Reglamentàriament es defineixen els tipus, el significat, el disseny i les altres característiques dels senyals en els vehicles.
+
+### Títol III. Autoritzacions administratives
+
+#### Capítol primer. Disposicions generals
+
+**Article 87. Normes generals**
+
+1. Amb l’objecte de garantir l’aptitud dels conductors per conduir vehicles i la seva idoneïtat per circular amb el mínim risc possible, la circulació de vehicles de motor i ciclomotors per les vies objecte d’aquesta Llei queda sotmesa a l’obtenció de la corresponent autorització administrativa prèvia.
+2. El conductor d’un vehicle ha de disposar del permís de conduir vàlid i portar-lo amb ell, així com el certificat de matriculació del vehicle, el certificat d’assegurança del vehicle en vigor o el rebut acreditatiu de la vigència de la pòlissa i, si escau, el certificat de la inspecció tècnica del vehicle, i ha d’exhibir-los als agents encarregats de la vigilància i la disciplina del trànsit que així ho sol·licitin.
+Se n’exceptuen els aprenents que han d’anar acompanyats d’un instructor legalment autoritzat de la forma que es determini reglamentàriament.
+
+#### Capítol segon. Permisos de conduir
+
+**Article 88. Permisos de conduir**
+
+1. La conducció de vehicles de motor i de ciclomotors exigeix haver obtingut prèviament el permís de conduir, dirigit a comprovar que els conductors reuneixen els requisits de capacitat, coneixements i habilitat necessaris per a la conducció del vehicle, d’acord amb el que es determini reglamentàriament, sense perjudici de les habilitacions complementàries que, si escau, siguin necessàries.
+2. Cap persona no pot ser titular de més d’un permís de conduir.
+
+**Article 89. Permisos vàlids per conduir**
+
+$76
+
+**Article 90. Homologació i bescanvi de permisos estrangers**
+
+1. Les persones de nacionalitat andorrana que tinguin la residència habitual a Andorra, així com les estrangeres amb autorització de residència o residència i treball al Principat de qualsevol de les categories previstes en la Llei, titulars d’un permís de conduir expedit per un estat estranger obtingut anteriorment a la data d’obtenció de la residència al Principat d’Andorra, queden obligades a bescanviar-lo per un d’andorrà, un cop homologat pel Registre de Permisos de Conduir.
+2. En cap cas no es bescanvia un permís de conducció estranger si no és vigent el dia en què es presenta o si ha estat obtingut sent la persona interessada ja resident al Principat d’Andorra.
+3. Reglamentàriament s’han d’establir els requisits, els procediments i els terminis de bescanvi dels permisos de conduir estrangers.
+
+**Article 91. Categories de permisos de conduir**
+
+1. Reglamentàriament es determinen les categories de permisos de conduir dels vehicles i els requisits necessaris per obtenir els permisos segons les recomanacions internacionals existents en la matèria.
+2. El permís de conduir té una validesa limitada en el temps i s’ha de renovar en els terminis i les condicions que es determinin reglamentàriament.
+El titular d’un permís de conduir ha d’efectuar la conducció amb subjecció a les mencions, adaptacions, restriccions i altres limitacions respecte a persones, vehicles i circulació que figuren en la dita autorització.
+
+**Article 92. Registre de Permisos de Conduir**
+
+1. El Registre de Permisos de Conduir recull les dades de totes les persones titulars d’un permís de conduir andorrà. Les dades que hi han de constar es fixen per la via reglamentària, així com les suspensions administratives o judicials, temporals o definitives.
+2. El Govern regula per la via reglamentària el funcionament del Registre de Permisos de Conduir.
+
+**Article 93. Centres de formació de conductors**
+
+1. L’ensenyament dels coneixements i de les tècniques necessaris per conduir, com també el perfeccionament posterior i la renovació de coneixements, han de ser impartits per centres de formació dotats de l’autorització prèvia necessària per desenvolupar la seva activitat de la forma que es determini reglamentàriament.
+2. Amb l’objectiu de garantir la seguretat viària, el Govern ha de determinar per la via reglamentària els elements personals i els materials mínims dels centres d’ensenyament i les condicions per autoritzar-los, i regular-ne el règim docent i el funcionament. La titulació i l’acreditació dels professors i directors s’han de fonamentar en proves objectives que permetin valorar els coneixements, l’aptitud pedagògica i l’experiència pràctica.
+3. Es pot autoritzar l’ensenyament no professional en les condicions que es determinin reglamentàriament.
+
+**Article 94. Proves d’aptitud psicofísiques**
+
+$78
+
+#### Capítol tercer. Autoritzacions relatives als vehicles
+
+**Article 95. Certificat de matriculació**
+
+$7a
+
+**Article 96. Matriculació de vehicles**
+
+$7c
+
+**Article 97. Registre de Vehicles**
+
+$7e
+
+**Article 98. Assegurances**
+
+$80
+
+**Article 99. Inspecció tècnica de vehicles**
+
+$82
+
+**Article 100. Vehicles històrics**
+
+$86
+
+#### Capítol quart. Nul·litat, anul·labilitat i pèrdua de vigència
+
+**Article 101. Declaració de nul·litat o anul·labilitat i pèrdua de vigència**
+
+$88
+
+**Article 102. Suspensió provisional**
+
+1. En el curs dels procediments de nul·litat, d’anul·labilitat i de pèrdua de vigència de les autoritzacions administratives s’ha d’acordar la suspensió provisional de l’autorització en qüestió quan el seu manteniment comporti un perill greu per a la seguretat viària. En aquest cas, l’autoritat que tingui coneixement dels fets ha d’ordenar, mitjançant resolució fonamentada, la intervenció immediata de l’autorització i la pràctica de les mesures que siguin necessàries per impedir l’exercici efectiu de la mateixa autorització.
+2. La suspensió provisional del permís de conduir es fa d’acord amb el que disposa a aquest efecte l’article 94.3 lletra
+c)
+d’aquesta Llei.
+
+### Títol IV. Condicions tècniques dels vehicles
+
+#### Capítol únic. Homologacions i condicions tècniques
+
+**Article 103. Homologacions**
+
+$8a
+
+**Article 104. Característiques dels vehicles**
+
+Reglamentàriament es fixen les condicions tècniques que han de complir els vehicles de motor, els remolcs i els semiremolcs, les seves parts i peces, perquè puguin ser matriculats o posats en circulació amb les limitacions i les excepcions que es creguin convenients, tenint en compte les prescripcions tècniques i les normes de seguretat dels vehicles i de protecció del medi ambient de la Unió Europea.
+
+**Article 105. Modificacions de les característiques dels vehicles**
+
+1. Es considera
+reforma d’importància
+qualsevol modificació de les característiques tècniques o funcionals d’un vehicle matriculat que pugui afectar el xassís, els frens, els grups motopropulsors o qualsevol altre element que incideixi en la seguretat i que alteri les dades del certificat d’homologació.
+2. Les reformes d’importància les poden fer el fabricant del vehicle o tallers de reparació autoritzats, amb l’aprovació prèvia del ministeri competent en matèria de vehicles del projecte de reforma.
+3. Reglamentàriament es determinen els tipus de reforma d’importància, així com la seva tramitació i regularització administrativa.
+
+**Article 106. Vehicles greument accidentats**
+
+1. Es considera vehicle greument accidentat el que, com a conseqüència d’un accident de circulació, tingui danys importants en l’estructura o en el seu funcionament, especialment del xassís, els frens, els grups motopropulsors o qualsevol altre element que pugui alterar les condicions de seguretat i no pugui circular sense risc de perill per a la seguretat de les persones, els béns o el trànsit.
+2. Els agents encarregats de la vigilància i la disciplina del trànsit han de retirar el certificat de matriculació del vehicle accidentat i enviar-lo al Registre de Vehicles.
+3. Els agents del Servei de Duana han de complir la mateixa obligació prevista a l’apartat anterior amb relació als vehicles andorrans greument accidentats que passen pels controls duaners.
+4. Reglamentàriament es determinen les condicions de control, de reparació, tramitació, regularització administrativa i donada de baixa definitiva dels vehicles greument accidentats.
+
+**Article 107. Conjunt de vehicles**
+
+1. La compatibilitat per formar conjunts de vehicles es determina reglamentàriament.
+2. Com a norma general -i tret de les excepcions reglamentàriament establertes-, cap vehicle tractor no pot arrossegar alhora més d’un remolc o d’un semiremolc.
+3. Els vehicles de motor no poden remolcar un altre vehicle de motor, excepte en cas en què es trobi accidentat o avariat i no pugui ser arrossegat per un altre vehicle específicament destinat a aquest fi i amb l’autorització expressa de l’autoritat encarregada del trànsit.
+
+**Article 108. Plaques de matrícula**
+
+1. Les dimensions i les característiques de les matrícules es regulen per la via reglamentària. No s’hi poden inscriure o fixar ornaments o altres motius diferents que els establerts reglamentàriament.
+2. No es poden utilitzar plaques de matrícula en vehicles inscrits al Registre de Vehicles que no siguin les lliurades per l’Automòbil Club d’Andorra.
+3. Els caràcters que figuren en les matrícules, així com els símbols d’Estat que han de portar els vehicles, són propietat del Govern, que cedeix en cada cas el dret a usar-los, d’acord amb les condicions que es determinin per la via reglamentària.
+
+### Títol V. Règim sancionador
+
+#### Capítol primer. Infraccions
+
+**Article 109. Disposicions generals**
+
+1. Les accions o omissions contràries a aquesta Llei tenen el caràcter d’infracció administrativa i són sancionades en els termes previstos en la mateixa Llei.
+2. Quan les accions o omissions puguin ser constitutives d’infracció penal resulta aplicable el que disposa l’article 123 de la Llei.
+3. Les infraccions es classifiquen en lleus, greus i molt greus.
+
+**Article 110. Infraccions lleus**
+
+Són infraccions lleus les conductes tipificades en aquesta Llei referides a:
+a) Circular en una bicicleta o VMP sense fer ús de l’enllumenat, els catadiòptrics i els elements reflectors en situacions de manca o de disminució de visibilitat.b) No cedir el pas en zones urbanes a un vehicle de transport col·lectiu de persones.c) Incomplir les disposicions d’utilització de carrils i vorals per als cicles, les bicicletes, els patins, els monopatins i similars.d) No respectar els límits de velocitat establerts o circular en un tram a una velocitat mitjana superior a l’establerta, d’acord amb l’annex II d’aquesta Llei.e) Incomplir les normes incloses en aquesta Llei que no es qualifiquin expressament com a infracció greu o molt greu en els articles següents.
+
+**Article 111. Infraccions greus**
+
+$8c
+
+**Article 112. Infraccions molt greus**
+
+$8e
+
+**Article 113. Prescripció**
+
+1. Les infraccions greus i molt greus prescriuen al cap d’un any i les lleus, al cap de sis mesos. Aquests terminis es computen a partir de la data en què s’ha comès el fet.
+2. El termini de prescripció s’interromp per la realització de qualsevol actuació que s’adreci a la iniciació, la tramitació o la resolució de l’expedient sancionador.
+La interrupció deixa de tenir efecte si no s’incoa l’expedient sancionador o queda paralitzat durant més de sis mesos per causa no imputable a la persona infractora. En aquest cas, el còmput del termini de prescripció s’inicia de nou a partir de la data de la darrera actuació que consti en l’expedient sancionador.
+3. En el cas de suspensió de la tramitació de l’expedient per causa de prejudicialitat penal, el termini de prescripció de la infracció queda suspès fins que es tingui constància fefaent de la resolució ferma recaiguda en l’àmbit penal.
+
+#### Capítol segon. Sancions
+
+**Article 114. Tipus**
+
+1. Les infraccions tipificades en aquesta Llei són sancionades amb la imposició d’una multa. En els supòsits especificats en l’article 115, a més de la sanció econòmica que correspongui, la conducta infractora és sancionada amb la suspensió temporal de l’autorització administrativa per conduir vehicles de motor i ciclomotors.
+2. S’entén per
+suspensió temporal de l’autorització administrativa per conduir vehicles de motor i/o ciclomotors
+la prohibició de conduir qualsevol categoria de vehicle de motor i/o ciclomotor, així com també d’efectuar les proves per a l’obtenció d’una nova categoria mentre duri la suspensió, entesa com a pena accessòria a una infracció o per reincidència en la comissió de diverses infraccions.
+
+**Article 115. Correspondència**
+
+$90
+
+**Article 116. Reincidència**
+
+1. A efectes d’aquesta Llei, la reincidència consisteix en la comissió de més de tres infraccions greus o molt greus, amb sanció ferma, en un període de nou mesos.
+2. Una conducta infractora reincident és incompatible amb la seguretat viària i produeix la suspensió temporal del permís de conduir, que no pot excedir en qualsevol cas els dos mesos. Aquestes suspensions de permís només poden aplicar-se per acumulació de sancions que no comportin per si soles la suspensió temporal del permís de conduir.
+3. En el Registre de Conductors hi ha de constar, degudament actualitzats, els apunts corresponents tant a la pèrdua de vigència com a la recuperació de l’autorització administrativa prèviament suspesa.
+
+**Article 117. Prescripció**
+
+1. La prescripció de les sancions amb multa és de de tres anys i les de suspensió de permís de conduir és d’un any.
+2. El termini de prescripció de les sancions es comença a comptar a partir de l’endemà del dia en què la resolució que les imposa ha esdevingut ferma.
+3. El termini de prescripció s’interromp per l’inici de l’execució de la sanció.
+La interrupció deixa de tenir efecte si l’execució queda aturada durant més d’un any per causa no imputable a la persona sancionada. En aquest cas, el còmput del termini de prescripció es torna a iniciar de nou a partir de la data de la darrera actuació que consti en l’expedient d’execució.
+
+**Article 118. Inscripció i cancel·lació**
+
+1. Les sancions per infraccions greus i molt greus han de ser comunicades al Registre d’Infraccions de Conductors del Cos de Policia per l’autoritat que les hagi imposat en el termini de quinze dies naturals que segueixen a la fermesa de les sancions per la via administrativa.
+2. Les dites anotacions són cancel·lades d’ofici als efectes d’antecedents un cop transcorreguts tres anys des del moment del compliment o de la prescripció de la sanció.
+
+#### Capítol tercer. Responsabilitat i competència per sancionar
+
+**Article 119. Subjectes responsables**
+
+$92
+
+**Article 120. Extinció**
+
+La responsabilitat s’extingeix pel compliment de la sanció, la defunció de l’infractor, la prescripció de la infracció i la prescripció de la sanció.
+
+**Article 121. Competència per sancionar**
+
+$94
+
+#### Capítol quart. Procediment sancionador
+
+**Article 122. Fases del procediment i competència**
+
+1. El procediment sancionador l’incoa d’ofici l’autoritat competent que tingui coneixement de fets que puguin constituir infraccions als preceptes d’aquesta Llei.
+2. La competència per instruir el procediment, resoldre’l i, si escau, declarar-ne l’acabament per una altra causa ve determinada, en tot allò no previst per aquesta Llei, per la normativa sectorial aplicable.
+
+**Article 123. Vinculació amb la jurisdicció penal**
+
+$96
+
+**Article 124. Procediment sancionador aplicable a les sancions imposades pel Cos de Policia**
+
+$98
+
+**Article 125. Procediment sancionador aplicable a les sancions de suspensió de l’autorització administrativa de conduir vehicles de motor**
+
+El procediment sancionador per les sancions de suspensió de l’autorització administrativa de conduir vehicles de motor s’ha de tramitar d’acord amb el que disposen el Codi de l’Administració i el Reglament regulador del procediment sancionador.
+
+**Article 126. Procediment sancionador aplicable a les sancions imposades pel ministeri competent en matèria d’indústria i/o transports**
+
+El procediment sancionador s’ha de tramitar d’acord amb el que disposen el Codi de l’Administració i el Reglament regulador del procediment sancionador.
+
+**Article 127. Procediment sancionador aplicable a les sancions previstes en la present Llei imposades pels serveis de circulació comunals**
+
+$9a
+
+**Article 128. Constitució de dipòsit**
+
+1. Les persones contra les quals s’incoï l’expedient sancionador que no constin com a residents al Principat d’Andorra han de constituir un dipòsit equivalent a l’import de la sanció aplicable des del mateix moment en què s’emet la constatació de la infracció.
+2. Si la persona en qüestió no pot dipositar aquest import, s’autoritza la presentació d’una caució o un aval suficient emès per qualsevol entitat bancària del Principat d’Andorra o per qualsevol altra persona solvent a criteri de l’agent que intervingui.
+3. En cas contrari, l’agent que intervé immobilitza el vehicle.
+4. En cas que la persona sancionada vulgui fer ús del règim previst a l’apartat 6 de l’article 124 o del 127, segons correspongui, ha d’indicar-ho expressament, i pot gaudir -si així ho fa- de la reducció que s’hi regula. En aquest cas, el dipòsit es fa en concepte de la sanció ferma.
+
+#### Capítol cinquè. Mesures cautelars i altres mesures complementàries
+
+**Article 129. Mesures cautelars**
+
+1. En qualsevol moment del procediment, l’òrgan competent per resoldre, per iniciativa pròpia o a proposta de l’òrgan que ha dictat la providència d’incoació, si és un altre, o de l’instructor, pot adoptar, mitjançant acord motivat, l’adopció de les mesures cautelars que resultin adequades per garantir l’eficàcia de la resolució que pugui recaure.
+2. Les mesures cautelars no tenen caràcter de sanció. Han de ser proporcionades a la finalitat perseguida i s’han d’aixecar tan aviat com perdin la seva finalitat.
+3. La immobilització, la retirada i el dipòsit del vehicle constitueixen un tipus específic de mesura cautelar.
+
+**Article 130. Immobilització del vehicle**
+
+$9c
+
+**Article 131. Retirada del vehicle**
+
+$9e
+
+**Article 132. Tractament residual del vehicle**
+
+1. Els comuns poden ordenar el trasllat del vehicle a un gestor de residus de vehicles autoritzat per desballestar-ne transcorreguts més de dos mesos des de la immobilització o la retirada del vehicle de la via pública, amb la publicació prèvia de l’edicte corresponent al
+Butlletí Oficial del Principat d’Andorra
+.
+2. En els casos en què s’estimi convenient, es pot acordar la substitució del desballestament del vehicle per la seva adjudicació a l’Administració, que podrà alienar-lo pel procediment de pública subhasta, en tractar-se de béns patrimonials, de conformitat amb el procediment previst en la normativa vigent en matèria d’embargament.

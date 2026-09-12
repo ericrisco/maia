@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**264** documents · **71** fonts · **0** aptes com a model de llengua · **105** temes amb contingut.
+**265** documents · **72** fonts · **0** aptes com a model de llengua · **105** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -149,6 +149,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [La cançó popular andorrana](temes/cultura/musica-i-cancons/la-canco-popular-andorrana.md) | `temes/cultura/musica-i-cancons` | compilada | contemporania | no | `deu-tradicio-coral` |
 | [L'IAEM i el 1980](temes/cultura/musica-i-cancons/liaem-i-el-1980.md) | `temes/cultura/musica-i-cancons` | compilada | contemporania | no | `escribano-musica` |
 | [Música i cançons](temes/cultura/musica-i-cancons/musica-i-cancons.md) | `temes/cultura/musica-i-cancons` | compilada | contemporania | no | `premsa-andorrana` |
 
@@ -815,6 +816,7 @@
 | [`dalleres-coprincipat-parlamentari`](fonts/dalleres-coprincipat-parlamentari.md) | Josep Dallerès i Codina · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`de-la-parte-immigracio-cultura`](fonts/de-la-parte-immigracio-cultura.md) | Isabel de la Parte i Cano · Joan Micó i Ibáñez · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`debat-2a-diada-migracions`](fonts/debat-2a-diada-migracions.md) | Societat Andorrana de Ciències · CREC, Universitat de Perpinyà | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`deu-tradicio-coral`](fonts/deu-tradicio-coral.md) | Marta Deu i Pedrerol · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
 | [`duro-rol-del-parlamentari`](fonts/duro-rol-del-parlamentari.md) | Josep Duró i Coma · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`escaler-cambra-de-comerc`](fonts/escaler-cambra-de-comerc.md) | Pilar Escaler i Penella · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`escribano-musica`](fonts/escribano-musica.md) | Josep Maria Escribano i Casaldàliga · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |

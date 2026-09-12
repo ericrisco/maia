@@ -1,0 +1,268 @@
+# Llei de la comptabilitat dels empresaris (Llei 30/2007)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/comptabilitat-empresaris
+Articles: 48 · versions consolidades: 9
+Instantania del consolidat: 2026-09-12T05:30:05.733182Z
+
+---
+
+#### Capítol I. Disposicions generals
+
+##### Secció 1a. Del deure de comptabilitat
+
+**Article 1. Definició**
+
+1. Els empresaris han de portar una comptabilitat ordenada i adequada a la naturalesa i dimensió de la seva activitat, d’acord amb el que s’estableix en aquesta Llei i en les altres disposicions aplicables.
+2. Als efectes d’aquesta Llei, es consideren empresaris:
+a) Les persones físiques que realitzin activitats empresarials o professionals.b) Les societats mercantils i les altres persones jurídiques, en tot cas.c) Altres entitats que, tenint o no personalitat jurídica, constitueixen una unitat econòmica o un patrimoni separat, quan efectuïn activitats empresarials o professionals.
+Es consideren activitats empresarials o professionals les que impliquen l’ordenació per compte propi de factors de producció materials i humans o d’algun d’aquests factors de producció, amb la finalitat d’intervenir en la producció o distribució de béns o realització de serveis.
+
+**Article 2. Finalitats**
+
+La comptabilitat ha de permetre fer un seguiment cronològic de totes les operacions efectuades pels empresaris en l’exercici de la seva activitat i l’elaboració periòdica dels documents comptables obligatoris per aquests mateixos.
+
+**Article 3. Responsabilitat**
+
+La comptabilitat ha de ser directament portada per l’empresari o per les persones que aquest mateix autoritzi i sense perjudici de la seva responsabilitat.
+
+##### Secció 2a. De la forma de portar la comptabilitat
+
+**Article 4. Forma**
+
+Els documents comptables han de portar-se amb claredat, per ordre de dates, sense espais en blanc ni interpolacions. Els errors i les omissions en els assentaments comptables han de salvar-se a continuació, immediatament que s’adverteixin.
+
+**Article 5. Abreviatures**
+
+En els documents comptables no es poden utilitzar abreviatures o símbols el significat dels quals no sigui precís d’acord amb aquesta Llei, les altres disposicions aplicables o la pràctica comptable de general aplicació.
+
+**Article 6. Moneda**
+
+El valor dels assentaments comptables i dels elements integrants dels comptes anuals s’han d’expressar necessàriament en euros.
+
+##### Secció 3a. Del deure de conservació
+
+**Article 7. Durada**
+
+Els empresaris han de guardar i custodiar ordenadament i durant un període de sis anys, a comptar des de la data de l’últim tancament anual, tots els documents comptables i la correspondència, documentació i justificants relatius a la seva activitat.
+
+**Article 8. Situacions especials**
+
+El deure de conservació és exigible als empresaris persones físiques encara que cessin en la seva activitat i en cas de traspàs correspon als seus hereus el seu compliment. En cas de dissolució de les societats correspon als liquidadors complir el deure de conservació.
+
+##### Secció 4a. Del deure de confidencialitat
+
+**Article 9. Principi**
+
+La comptabilitat dels empresaris és confidencial, sense perjudici del que disposin les lleis.
+
+**Article 10. Exhibició**
+
+L’exhibició general o particular dels documents comptables, correspondència, documentació i justificants de la comptabilitat només pot ser requerida per:
+a) El batlle o tribunal corresponent, d’ofici o a instància de part.b) El Ministeri de Finances i l’AFA, per a l’exercici de les funcions que tenen atribuïdes.
+
+**Article 11. Lloc i forma**
+
+En qualsevol cas, l’exhibició de la comptabilitat s’ha de fer a l’establiment de l’empresari i amb la seva presència o la de les persones que designi i adoptant les mesures necessàries per assegurar-ne la conservació i custòdia.
+
+**Article 12. Medi de prova**
+
+El valor probatori dels documents comptables és apreciat pel batlle de conformitat amb les regles generals del dret.
+
+#### Capítol II. Dels llibres de comptabilitat
+
+**Article 13. Llibres obligatoris**
+
+Els llibres de comptabilitat obligatoris que necessàriament han de portar els empresaris són el llibre diari i el llibre d’inventaris i comptes anuals.
+
+**Article 14. Llibre diari**
+
+El llibre diari ha de recollir en forma d’assentaments i per ordre cronològic totes i cadascuna de les operacions efectuades dia a dia pels empresaris en l’exercici de la seva activitat. Tanmateix, són vàlids els assentaments globals de les operacions per períodes no superiors a un mes i sempre que del detall d’aquests assentaments en quedi constància en altres llibres.
+
+**Article 15. Llibre d’inventaris i comptes anuals**
+
+El llibre d’inventaris i comptes anuals s’ha d’iniciar amb la transcripció del balanç inicial, també s’han de transcriure amb periodicitat trimestral els balanços de sumes i saldos i al final de l’exercici l’inventari i els comptes anuals.
+
+#### Capítol III. Dels comptes anuals
+
+##### Secció 1a. De la formulació
+
+**Article 16. Definició**
+
+1. Amb data de tancament de l’exercici, i en el termini màxim de sis mesos a comptar d’aquesta data, els empresaris han de formular i signar els comptes anuals que formant una unitat comprenen el balanç, el compte de pèrdues i guanys, l’estat de canvis del patrimoni net, l’estat de flux efectiu i la memòria.
+2. En el cas d’empresaris persones físiques, la data de tancament de l’exercici és el 31 de desembre.
+
+**Article 17. Estructura**
+
+1. L’estructura i el contingut dels documents que formen els comptes anuals s’ha d’ajustar als models reglamentats pel Govern i només excepcionalment i deixant-ne constància i justificació a la memòria pot modificar-se d’un exercici a l’altre.
+2. El reglament del Govern referit en l’apartat anterior ha d’establir els models abreujats dels comptes anuals que poden formular els empresaris en els comptes dels quals es produeixin durant dos exercicis consecutius, almenys dues de les circumstàncies següents:
+a) Que el total de les partides de l’actiu no superi els tres milions sis-cents mil euros.b) Que l’import de la xifra total anual d’ingressos no superi els sis milions d’euros.c) Que el nombre de treballadors durant l’exercici no sigui superior a vint-i-cinc.
+3. Els empresaris que, d’acord amb el que preveu l’apartat anterior, poden formular els models abreujats dels comptes anuals, no estan obligats a formular l’estat de flux d’efectiu ni l’estat de canvis del patrimoni net.
+4. En els documents que formen els comptes anuals, les partides previstes en els models aprovats per reglament del Govern hi han d’aparèixer per separat i en l’ordre que hi figurin.
+5. Sempre que es respecti l’estructura dels models aprovats per reglament del Govern es pot fer una subdivisió més detallada de les partides previstes i també afegir-ne de noves quan el seu contingut no estigui comprès en cap de les previstes.
+6. Igualment, poden agrupar-se determinades partides quan només representin un import que resulti irrellevant per mostrar la imatge fidel que han de proporcionar els comptes anuals i es presentin de forma diferenciada a la memòria.
+7. En cadascuna de les partides dels documents que formen els comptes anuals han de figurar les xifres de l’exercici a què es refereixen i les corresponents a l’exercici immediatament anterior. Quan aquestes xifres no siguin comparables, per qüestions de paràmetres, cal adaptar els imports de l’any anterior.
+
+**Article 18. Principis rectors**
+
+1. Els comptes anuals han de redactar-se amb claredat i mostrar la imatge fidel del patrimoni, de la situació financera i dels resultats dels empresaris en l’exercici de la seva activitat, de conformitat amb les disposicions aplicables en matèria de comptabilitat.
+2. En el cas que l’aplicació de les disposicions en matèria de comptabilitat no sigui suficient per mostrar la imatge fidel, s’han de subministrar a la memòria les informacions complementàries precises per aconseguir aquest resultat.
+3. Excepcionalment, no s’han d’aplicar les disposicions en matèria de comptabilitat que resultin incompatibles amb el resultat de mostrar la imatge fidel. En aquest cas, en la memòria s’ha d’assenyalar i motivar suficientment la falta d’aplicació de la corresponent disposició en matèria de comptabilitat i explicar la seva influència sobre el patrimoni, la situació financera i els resultats.
+
+**Article 19. Principis comptables**
+
+$21
+
+**Article 20. Firma**
+
+1. Els comptes anuals de l’empresari persona física han de ser firmats per ell mateix, els de les societats en les quals els socis siguin il·limitadament responsables dels deutes socials, per tots aquests, i els de les societats anònimes i de responsabilitat limitada pels administradors designats.
+2. Excepte en el cas de l’empresari persona física, quan en tots, algun o alguns dels documents que formen els comptes anuals falti la firma d’alguna de les persones indicades en l’apartat anterior, s’ha de fer constar aquesta falta en els documents corresponents i indicar-ne la causa.
+3. En l’antefirma s’ha d’expressar la data en la qual s’han formulat els comptes anuals.
+
+##### Secció 2a. Del balanç
+
+**Article 21. Contingut**
+
+En el balanç han de figurar de forma separada l’actiu, el passiu i el patrimoni net. El balanç inicial d’un exercici s’ha de correspondre amb el balanç de tancament de l’exercici anterior.
+
+**Article 22. Actiu**
+
+1. L’actiu comprèn els béns, els drets i altres recursos controlats econòmicament per l’empresari, resultants de successos passats, dels quals és probable que l’empresari n’obtingui beneficis i que s’han de classificar de forma separada i en funció de la seva afectació com a actiu fix o no corrent com a actiu circulant o corrent.
+2. L’actiu circulant comprèn els béns, els drets i altres recursos que s’espera que es venguin, consumeixin o realitzin com a conseqüència de l’explotació ordinària de l’empresa, així com els que el seu venciment, alienació o realització s’espera que es produeixin en el termini màxim d’un any des de la data de tancament de l’exercici.
+3. Els altres béns, drets i altres recursos econòmics no referits a l’apartat anterior han de classificar-se com a actiu fix.
+
+**Article 23. Amortització i correcció del valor**
+
+1. Els elements de l’actiu fix la vida útil dels quals tingui un límit temporal han d’amortitzar-se de manera racional i sistemàtica durant els temps d’utilització.
+2. Tanmateix, en el cas que es produeixi un deteriorament dels elements de l’actiu fix o del circulant s’han d’efectuar les correccions de valor necessàries per determinar el valor que els correspongui en la data de tancament de l’exercici.
+
+**Article 24. Actualització del valor**
+
+1. Les societats anònimes i de responsabilitat limitada poden actualitzar el valor comptable dels actius sempre que l’actualització resulti de l’aplicació dels principis comptables, de les NIC i de les NIIF.
+2. En cas d’actualització del valor dels actius s’ha de constituir obligatòriament una reserva i aquesta ha de constar en el balanç com una partida del patrimoni net.
+3. La reserva de revalorització referida a l’apartat anterior, s’ha de constituir per l’import corresponent a la diferència entre el valor pel qual figura l’actiu en els últims comptes anuals aprovats i el resultat de l’aplicació dels principis comptables. La reserva de revalorització té caràcter indisponible durant el termini de 10 anys, transcorreguts els quals, únicament pot utilitzar-se per a compensar pèrdues o per augmentar el capital social. En cap cas es pot utilitzar per distribuir beneficis, a menys que la plusvàlua hagi estat efectivament realitzada.
+
+**Article 25. Passiu**
+
+1. El passiu comprèn les obligacions actuals de l’empresari, sorgides de successos passats, l’extinció de les quals és probable que produeixi una disminució dels recursos que puguin produir beneficis econòmics i que s’han de classificar de forma separada com a passiu no corrent o com a passiu circulant o corrent.
+2. El passiu circulant o corrent comprèn les obligacions el venciment de les quals s’espera que es produeixi en el termini màxim d’un any des de la data de tancament de l’exercici.
+3. Les restants obligacions no referides en l’apartat anterior s’han de classificar com a passiu no corrent.
+4. Les obligacions sobre les quals existeixi incertesa respecte de la seva quantia o venciment han de figurar de forma separada.
+
+**Article 26. Patrimoni net**
+
+El patrimoni net són els actius que queden un cop deduïts tots els passius i inclou les aportacions efectuades pels propietaris o pels socis que no tinguin la consideració de passius així com els resultats acumulats i altres variacions que l’afectin, i se n’ha de diferenciar els fons propis de les restants partides que l’integren.
+
+##### Secció 3a. Del compte de pèrdues i guanys
+
+**Article 27. Contingut**
+
+El compte de pèrdues i guanys ha de recollir el resultat de l’exercici, figurant-hi de forma separada els ingressos i les despeses del dit exercici i distingint els resultats originats per l’activitat ordinària dels que no tingui aquest origen.
+
+**Article 28. Elements**
+
+1. Els ingressos comprenen els increments del patrimoni net produïts durant l’exercici al qual es refereixen els comptes anuals com a conseqüència d’un augment del valor dels actius o d’una disminució del valor dels passius, sempre que no tinguin l’origen en aportacions dels propietaris o dels socis.
+2. Les despeses comprenen els decrements del patrimoni net produïts durant l’exercici al qual es refereixen els comptes anuals com a conseqüència d’una disminució del valor dels actius o d’un augment del valor dels passius, sempre que no tinguin l’origen en distribucions els propietaris o els socis.
+
+##### Secció 4a. De l’estat de canvis del patrimoni net
+
+**Article 29. Contingut**
+
+En l’estat de canvis del patrimoni net han de figurar el resultat de l’exercici, les variacions per canvis en els criteris comptables, les correccions d’errors i altres ajustaments i variacions de valor que s’hagin d’imputar al patrimoni net, com ara els derivats del criteri del valor raonable.
+
+##### Secció 5a. De l’estat de flux d’efectiu
+
+**Article 30. Contingut**
+
+En l’estat de flux d’efectiu hi han de figurar ordenats i agrupats, per categories o tipus d’activitats, tots els cobraments i pagaments realitzats durant l’exercici al qual es refereixen els comptes anuals, i amb la finalitat d’informar sobre els moviments d’efectiu produïts durant el dit exercici.
+
+##### Secció 6a. De la memòria
+
+**Article 31. Contingut**
+
+La memòria ha de completar, ampliar i comentar la informació subministrada pels altres documents que formen els comptes anuals i com a mínim ha de contenir les indicacions que el Govern determini reglamentàriament.
+
+##### Secció 7a. De l’informe de gestió
+
+**Article 32. Contingut**
+
+Els empresaris que hagin de sotmetre a auditoria els comptes anuals han de formular l’informe de gestió que ha de contenir, en els termes que el Govern reglamenti, una exposició fidel sobre l’evolució dels negocis i la situació de la societat, amb una descripció dels principals riscos i incerteses als quals s’enfronta, i també ha d’informar dels esdeveniments importants que poden alterar el tancament del proper exercici.
+
+#### Capítol IV. Dels comptes anuals consolidats
+
+**Article 33. Definició**
+
+Els comptes anuals consolidats formen una unitat que comprèn el balanç consolidat, el compte de pèrdues i guanys consolidat, l’estat de canvis del patrimoni net consolidat, l’estat de flux d’efectiu consolidat i la memòria.
+
+**Article 34. Formulació**
+
+$23
+
+**Article 35. Auditoria**
+
+$25
+
+**Article 36. Aprovació i dipòsit**
+
+$27
+
+**Article 37. Normativa comptable aplicable**
+
+1. Per la formulació dels comptes anuals consolidats s’han d’aplicar les normes internacionals de comptabilitat i els articles 33 i 34 quan en la data de tancament de l’exercici qualsevol de les societats compreses en la consolidació hagi emès valors que estiguin admesos a negociació en un mercat regulat de qualsevol estat membre de la Unió Europea.
+2. Fora del supòsit previst a l’apartat anterior, els comptes anuals consolidats s’han de formular aplicant, o bé les normes de comptabilitat previstes en aquesta Llei i en les disposicions que la desenvolupin, o bé les normes internacionals de comptabilitat. En aquest darrer cas, els comptes anuals consolidats s’han de formular de forma continuada aplicant aquestes normes i els articles 33 i 34 d’aquesta Llei.
+
+**Article 38. Regles**
+
+$2b
+
+**Article 39. Mètodes**
+
+1. Els actius, passius, ingressos i despeses que figuren en els comptes anuals de les societats compreses en la consolidació s’han d’agrupar i agregar en els comptes anuals consolidats aplicant el mètode d’integració global.
+2. Les societats gestionades conjuntament per una o diverses societats compreses en la consolidació i per una o diverses societats no compreses en la consolidació s’han d’integrar en els comptes consolidats aplicant, o bé el mètode d’integració proporcional, o bé el procediment de posada en equivalència o mètode de la participació.
+3. Les societats no compreses en la consolidació però en les quals una societat compresa en la consolidació hi té una participació del 20 per 100 o més dels drets de vot, s’han d’integrar en els comptes anuals consolidats aplicant el procediment de posada en equivalència o mètode de la participació.
+4. El Govern ha de reglamentar sobre homogeneïtzació, ajustos i eliminacions per l’aplicació dels diversos mètodes de consolidació.
+
+#### Capítol cinquè. Règim sancionador
+
+**Article 40. Concepte d’infracció comptable**
+
+L’incompliment de qualsevol de les formalitats o dels deures imposats als empresaris i als liquidadors (en el supòsit previst a l’article 8, relatius a la comptabilitat definida en aquesta Llei i en les normes que la desenvolupen, constitueixen una infracció comptable.
+
+**Article 41. Graduació de les infraccions comptables**
+
+$2d
+
+**Article 42. Sancions principals**
+
+$2f
+
+**Article 43. Sancions accessòries**
+
+1. Per a les infraccions comptables greus i molt greus, a més d’imposar una sanció econòmica, es pot prohibir, durant un termini màxim de tres anys, contractar o signar convenis de col·laboració amb les administracions públiques, i també rebre’n ajudes i subvencions, o beneficiar-se de règims fiscals preferents.
+2. Les sancions imposades per incomplir les obligacions de dipòsit que s’han d’efectuar prop del Registre de Societats causen la inadmissibilitat de qualsevol sol·licitud adreçada a aquest servei, a excepció dels títols relatius al cessament o dimissió d’administradors, la revocació o renúncia de poders, la dissolució de la societat i el nomenament de liquidadors, i tret dels actes ordenats per l’administració judicial o administrativa.
+Un cop complertes les formalitats de dipòsit que han provocat la incoació de l’expedient sancionador, les sol·licituds es poden presentar de nou i es resolen normalment.
+
+**Article 44. Procediment sancionador**
+
+1. La imposició de les sancions requereix la instrucció d’un expedient que respecta el que estableix el Reglament regulador del procediment sancionador vigent.
+2. Quan de la instrucció d’un expedient sancionador resulta l’existència d’indicis fundats de criminalitat, s’ha de suspendre la tramitació i cal posar-ho en coneixement del Ministeri Fiscal.
+
+**Article 45. Òrgans competents**
+
+1. Els òrgans competents per incoar i resoldre els expedients sancionadors són el ministre titular dels serveis encarregats del Registre de Societats per a les sancions lleus i greus, i el Govern per a les sancions molt greus.
+2. La instrucció dels expedients correspon als tècnics designats del ministeri encarregat del Registre de Societats.
+
+**Article 46. Prescripció de les infraccions**
+
+1. Les infraccions comptables prescriuen al cap de tres anys en els casos de les faltes molt greus, al cap de dos anys en el cas de les faltes greus i al cap d’un any en el cas de les faltes lleus.
+2. El termini de prescripció comença a comptar des de la data en la qual hauria d’haver estat complimentada una obligació en els casos en què s’hagin incomplert formalitats. Pel que fa a tota infracció d’altra naturalesa, el termini comença a comptar des de la data en què es pot constatar aquesta infracció.
+3. La prescripció s’interromp per la iniciació de l’expedient sancionador.
+
+**Article 47. Prescripció de les sancions**
+
+1. Les sancions prescriuen al cap de tres anys.
+2. El termini de prescripció es computa des de la data en què les sancions han esdevingut fermes.
+
+**Disposició addicional**
+
+Tots els empresaris estan obligats a dipositar els seus comptes anuals en el Registre de Dipòsit de Comptes, del Registre de Societats, de conformitat amb el que disposa el reglament aprovat pel Govern. Els empresaris que tenen la forma de societat anònima o de societat de responsabilitat limitada es regeixen per la seva legislació específica. Els empresaris, diferents de les societats anònimes o de responsabilitat limitada, que tinguin una xifra anual d’ingressos totals inferior a 150.000 euros queden exclosos d’aquesta obligació.
+S’encomana al Govern que modifiqui el Reglament que estableix el règim simplificat de comptabilitat. Aquest Reglament determina també la xifra anual total d’ingressos màxima perquè un empresari pugui acollir-se al règim simplificat de comptabilitat.

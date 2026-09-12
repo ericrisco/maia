@@ -1,0 +1,533 @@
+# Llei de l'impost general indirecte (Llei 11/2012)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/igi
+Articles: 101 · versions consolidades: 24
+Instantania del consolidat: 2026-09-12T05:30:09.346791Z
+
+---
+
+#### Capítol primer. Naturalesa i àmbit d’aplicació de l’impost
+
+**Article 1. Naturalesa**
+
+L’impost general indirecte és un tribut de naturalesa indirecta que grava el consum mitjançant la tributació dels lliuraments de béns i les prestacions de serveis realitzades per empresaris o professionals, així com de les importacions de béns.
+
+**Article 2. Àmbit d’aplicació territorial**
+
+L’àmbit territorial de l’impost és el territori andorrà.
+
+**Article 3. Tractats i convenis**
+
+A l’efecte d’aquesta Llei, s’han de tenir en compte els tractats i els convenis internacionals que formin part de l’ordenament intern andorrà.
+
+#### Capítol segon. Lliurament de béns i prestació de serveis
+
+**Article 4. Fet generador**
+
+Estan subjectes a l’impost els lliuraments de béns i les prestacions de serveis realitzats en el territori andorrà per empresaris o professionals a títol onerós, amb caràcter habitual o ocasional, en el desenvolupament de la seva activitat econòmica, amb independència de la finalitat o dels resultats perseguits en l’activitat econòmica o en cada operació en particular.
+
+**Article 5. Concepte d’activitat econòmica i d’empresari o professional**
+
+1. Són activitats econòmiques les que impliquen l’ordenació per compte propi de factors de producció materials i humans o d’algun d’aquests factors de producció, amb la finalitat d’intervenir en la producció o la distribució de béns o en la prestació de serveis.
+L’activitat d’arrendament de béns té la consideració d’activitat econòmica.
+2. A l’efecte d’aquesta Llei, es consideren
+empresaris
+o
+professionals
+les persones físiques o entitats que realitzin activitats econòmiques.
+3. S’entenen realitzades en el desenvolupament de l’activitat econòmica les transmissions o cessions d’ús a tercers de la totalitat o part de qualsevol bé o dret que integrin el patrimoni empresarial o professional de l’obligat tributari, fins i tot les efectuades amb motiu del cessament en l’exercici de les activitats econòmiques que determinen la subjecció a l’impost.
+4. No tenen la consideració d’empresaris o professionals als efectes d’aquest impost quan l’import dels lliuraments de béns i les prestacions de serveis efectuats no superi la xifra anual de 40.000 euros, excepte que de forma expressa optin per ser considerats com a tals. A l’efecte de determinar l’import anterior, no es tenen en compte les transmissions de béns d’inversió i s’exclou, si escau, l’impost general indirecte. L’import es prorrateja en la part corresponent a l’any natural en cas d’inici d’activitat.
+En el cas de les activitats agrícoles i ramaderes, el llindar indicat en el paràgraf anterior se situa en la xifra anual de 150.000 euros.
+Els empresaris o els professionals que optin per ser considerats com a tals, ho han de sol·licitar al ministeri encarregat de les finances abans de finalitzar l’any en què hagi de tenir efecte. Una vegada hagin optat per ser considerats empresaris o professionals, s’ha de mantenir aquesta situació durant un termini mínim de tres anys, i per sol·licitar-ne la baixa cal que hi renunciïn comunicant-ho al ministeri encarregat de les finances abans de finalitzar l’any anterior a l’any en què hagi de tenir efecte.
+El procediment i la forma de la sol·licitud per ser considerat empresari s’establiran reglamentàriament.
+5. A l’efecte d’aquesta Llei, el Fons d’Habitatge té la consideració d’empresari o professional.
+
+**Article 6. Operacions no subjectes**
+
+$20
+
+**Article 7. Concepte de lliurament de béns**
+
+$28
+
+**Article 8. Operacions assimilades al lliurament de béns**
+
+Es consideren
+operacions assimilades al lliurament de béns a títol onerós
+l’autoconsum de béns. A l’efecte d’aquest impost, es considera
+autoconsum de béns
+les operacions següents fetes sense contraprestació:
+- La transferència, realitzada per l’obligat tributari, de béns corporals del seu patrimoni empresarial o professional al seu patrimoni personal o al consum particular.- La transmissió del poder de disposició sobre béns corporals que integren el patrimoni empresarial o professional de l’obligat tributari.- L’afectació o, en el seu cas, el canvi d’afectació de béns produïts, construïts, extrets, transformats, adquirits o importats en l’exercici de l’activitat empresarial o professional de l’obligat tributari per utilitzar-los com a béns d’inversió.
+El que es disposa en aquest apartat no és d’aplicació en els supòsits en què a l’obligat tributari se li hagués atribuït el dret de deduir íntegrament les quotes de l’impost que hauria suportat en el cas d’adquirir a tercers béns d’idèntica naturalesa.
+
+**Article 9. Concepte de prestació de serveis**
+
+$2a
+
+**Article 10. Operacions assimilades a les prestacions de serveis**
+
+Es consideren operacions assimilades a les prestacions de serveis a títol onerós els autoconsums de serveis.
+A l’efecte del que preveu aquesta Llei, són autoconsums de serveis les operacions següents per les quals no es percep cap contraprestació:
+1. Les transferències de béns i drets no inclosos a l’article 8, del patrimoni empresarial o professional al patrimoni personal de l’obligat tributari.
+2. L’aplicació total o parcial a l’ús particular de l’obligat tributari o, en general, a finalitats alienes a la seva activitat empresarial o professional dels béns que formen part del seu patrimoni empresarial o professional.
+3. Les altres prestacions de serveis efectuades a títol gratuït per l’obligat tributari no mencionades en els números anteriors, sempre que es realitzin amb finalitats alienes a les de l’activitat empresarial o professional.
+
+#### Capítol tercer. Importacions de béns
+
+**Article 11. Fet generador**
+
+Les importacions de béns estan subjectes a l’impost, amb independència de la finalitat a la qual es destinin i la condició de l’importador.
+
+**Article 12. Concepte d’importació de béns**
+
+Tenen la consideració d’
+importació
+:
+1. L’entrada de béns en el territori andorrà procedents d’un altre Estat o territori.
+2. No obstant això, quan un bé es col·loca, des de la seva entrada en territori andorrà, en les àrees de l’article 16 o es vincula als règims de l’article 17, la importació d’aquest bé es produeix quan aquests béns surten de les àrees referides o abandonen els règims indicats. El contingut en aquest paràgraf únicament és d’aplicació quan els béns es col·loquen en les àrees referides o es vinculen als règims indicats d’acord amb el que disposa la legislació aplicable a cada supòsit en concret. L’incompliment d’aquesta legislació determina que es produeixi el fet generador a la importació.
+
+**Article 13. Operacions assimilades a les importacions**
+
+Es consideren assimilades a les importacions les adquisicions realitzades en el territori d’aplicació de l’impost dels béns, el lliurament o la importació previs dels quals s’haguessin beneficiat de l’exempció de l’impost en virtut del que es disposa en els articles 15 i 36.
+
+#### Capítol quart. Exempcions
+
+**Article 14. Exempcions en les exportacions de béns**
+
+$2c
+
+**Article 15. Exempcions en les operacions assimilades a les exportacions**
+
+Estan exempts de l’impost, en les condicions i amb els requisits que s’estableixen reglamentàriament, els lliuraments de béns i les prestacions de serveis realitzades en el marc de les relacions diplomàtiques i consulars, així com les prestacions de serveis realitzades per intermediaris que actuen en nom i per compte de tercers quan intervenen en aquestes operacions.
+
+**Article 16. Exempcions relatives a les zones franques i al dipòsit temporal**
+
+$2e
+
+**Article 17. Exempcions relatives a règims duaners i fiscals**
+
+$30
+
+**Article 18. Importacions de bitllets de banc en curs legal i de segells**
+
+Estan exemptes de l’impost les importacions de bitllets i monedes de banc en curs legal, els títols valor i els segells, i els efectes timbrats en curs legal per un valor no superior al seu valor facial.
+
+**Article 19. Importacions de béns personals per trasllat de la residència habitual**
+
+1. Estan exemptes de l’impost les importacions de béns personals pertanyents a persones físiques que traslladen la seva residència habitual des de l’estranger a Andorra.
+2. L’exempció s’ha d’ajustar als requisits, a les exclusions i als supòsits regulats per la normativa duanera.
+
+**Article 20. Concepte de béns personals**
+
+A l’efecte d’aquesta Llei, es consideren
+béns personals
+els destinats normalment a l’ús personal de la persona interessada o de les persones que conviuen amb ella o per les seves necessitats de la llar, sempre que, per la seva naturalesa i quantitat, no pugui presumir-se’n l’afectació a una activitat empresarial o professional.
+No obstant el que disposa el paràgraf anterior, constitueixen també béns personals els instruments portàtils necessaris per a l’exercici de la professió o l’ofici de l’importador.
+
+**Article 21. Importacions de béns personals per causa d’herència**
+
+1. Estan exemptes de l’impost les importacions de béns personals adquirits
+mortis causa
+quan l’efectuen les persones físiques que tenen la seva residència en territori andorrà.
+2. L’exempció únicament s’aplica respecte dels béns importats en el termini de dos anys a partir del moment que la persona interessada té la possessió dels béns adquirits, excepte causes excepcionals determinades reglamentàriament.
+3. El que disposen els apartats anteriors s’aplica també a les importacions de béns personals adquirits
+mortis causa
+per entitats sense finalitats lucratives establertes en l’àmbit territorial de l’impost.
+4. Queden exclosos de l’exempció els articles següents:
+a) Els productes alcohòlics compresos en els codis 22.03 a 22.08 del Sistema Harmonitzat de designació i codificació de mercaderies.b) El tabac en brut o manufacturat.
+
+**Article 22. Sense contingut**
+
+Sense contingut
+
+**Article 23. Importacions de béns en règim de viatgers**
+
+$32
+
+**Article 24. Importacions de petits enviaments**
+
+1. Estan exemptes de l’impost les importacions de petites trameses, procedents d’un altre país, que no constitueixin una expedició comercial i es remetin per un particular amb destinació a un altre particular que es trobi en territori andorrà.
+2. A aquest efecte, es consideren
+petits enviaments sense caràcter comercial
+aquells en què concorrin els requisits següents:
+a) Que s’importin ocasionalment.b) Que comprenguin exclusivament béns d’ús personal del destinatari o de la seva família i que, per la seva naturalesa o quantitat, no es pugui presumir l’afectació a una activitat empresarial o professional.c) Que s’enviïn pel remitent de forma gratuïta.d) Que el valor global dels béns importats no excedeixi els 450 euros.
+3. L’exempció s’aplica també als productes del tabac, alcohol i begudes alcohòliques fins a les quantitats que s’indiquen a la normativa duanera.
+Si els béns compresos en aquest apartat excedissin les quantitats indicades, l’exempció es concedeix fins al límit de les quantitats mencionades.
+
+**Article 25. Importacions de béns amb motiu de l’adquisició de la totalitat o part del patrimoni empresarial o professional**
+
+1. Estan exemptes de l’impost les importacions de béns derivades de les adquisicions de béns mencionades en el primer paràgraf de l’apartat 1 de l’article 6.
+Queden excloses d’aquesta exempció els béns següents:
+a) Els mitjans de transport que no tenen el caràcter d’instruments de producció o de serveis.b) Els queviures i les mercaderies de tota classe destinades al consum humà o a l’alimentació d’animals.c) Els combustibles.
+2. Aquesta exempció està condicionada al compliment dels requisits següents:
+a) Que els béns importats hagin estat utilitzats per l’empresa durant un període mínim de 12 mesos abans de la transmissió.b) Que es destinin a la realització d’una activitat empresarial o professional en l’àmbit territorial de l’impost.c) Que la importació dels béns s’efectuï dins del termini de 12 mesos següents a la transmissió.
+
+**Article 26. Importacions de béns destinats a organismes caritatius o filantròpics**
+
+$34
+
+**Article 27. Béns importats en benefici de persones amb minusvalidesa**
+
+1. Estan exemptes de l’impost les importacions de béns concebuts especialment per a l’educació, l’ocupació o la promoció social de les persones físiques o mentalment disminuïdes, efectuades per institucions o organismes degudament autoritzats que tenen per activitat principal l’educació o l’assistència a aquestes persones, quan es remeten gratuïtament i sense finalitat comercial a les institucions o als organismes mencionats.
+L’exempció s’estén a les importacions dels recanvis, els elements i els accessoris dels béns esmentats o de les eines o els instruments utilitzats per al seu manteniment, control, calibratge o reparació, quan s’importen conjuntament amb els béns o s’identifica que els corresponen.
+2. Els béns importats amb exempció poden ser prestats, llogats o cedits, sense ànim de lucre, per les entitats o els establiments beneficiaris a les persones mencionades a l’apartat anterior, sense pèrdua del benefici de l’exempció.
+
+**Article 28. Importacions de béns efectuades en el marc de determinades relacions internacionals**
+
+$36
+
+**Article 29. Importacions de béns amb finalitat de promoció comercial**
+
+$38
+
+**Article 30. Importacions de béns per ser objecte d’exàmens, anàlisis o proves**
+
+$3a
+
+**Article 31. Importacions de béns destinats a organismes competents en matèria de protecció de la propietat intel·lectual o industrial**
+
+Estan exemptes de l’impost les importacions de marques, models o dissenys, així com dels expedients relatius a la sol·licitud de drets de propietat intel·lectual o industrial destinats als organismes competents per tramitar-los.
+
+**Article 32. Importacions de documents amb caràcter turístic**
+
+$3c
+
+**Article 33. Importacions de documents diversos**
+
+Estan exemptes de l’impost les importacions de diversos tipus de documentació, fitxes, butlletins, registres sonors, microfilms i altres suports gravats en qualsevol suport físic o digital llevat dels casos en què, per les seves característiques concretes, com antiguitat o singularitat, el document tingui un valor en si mateix.
+
+**Article 34. Importacions d’objectes de col·lecció o d’art**
+
+1. Estan exemptes de l’impost les importacions dels objectes de col·lecció o d’art de caràcter educatiu, científic o cultural no destinats a la venda i importats per museus, galeries i altres establiments autoritzats per rebre aquests objectes amb exempció. L’exempció està condicionada al fet que els objectes s’importin a títol gratuït o, si ho són a títol onerós, que siguin lliurats per una persona o una entitat que no actuï com a empresari o professional.
+2. Estan exemptes de presentar una garantia financera que cobreixi l’import de l’impost, les importacions temporals d’obres d’art per a la seva participació en exposicions públiques o privades, acordades pel Govern com a projecte estratègic i d’interès general, que tenen lloc en el territori duaner nacional. A aquest efecte es considera estratègic i d’interès general el projecte que, entre d’altres, reuneixi factors culturals, econòmics, educatius i turístics rellevants per al país.
+
+**Article 35. Importacions de carburants i lubricants**
+
+$3f
+
+**Article 36. Importacions de béns en règim diplomàtic o consular**
+
+Estan exemptes de l’impost les importacions de béns en règim diplomàtic o consular que gaudeixen de l’exempció dels drets d’importació.
+
+**Article 37. Importacions de béns destinats a organismes internacionals o emparats en acords internacionals**
+
+Estan exemptes de l’impost les importacions de béns efectuades per organismes internacionals reconeguts per Andorra i les realitzades pels seus membres amb estatut diplomàtic, amb els límits i les condicions fixades en els convenis internacionals pels quals es creen aquests organismes.
+Tanmateix, són de plena aplicació les franquícies atorgades en el marc dels acords internacionals.
+
+**Article 38. Reimportacions de béns**
+
+Estan exemptes de l’impost les reimportacions de béns en el mateix estat en què prèviament es van exportar i que es realitzen per la persona que les ha exportat i es beneficia de l’exempció dels drets a la importació.
+
+**Article 39. Prestacions de serveis relacionats amb les importacions**
+
+Estan exemptes de l’impost les prestacions de serveis, la contraprestació de les quals està inclosa a la base de tributació de les importacions de béns, d’acord amb el que estableix l’article 51.
+
+**Article 40. Exempcions en les importacions per evitar la doble imposició**
+
+Estan exemptes de l’impost les operacions següents:
+1. Les importacions de béns, el lliurament dels quals s’entén realitzat en l’àmbit territorial de l’impost, en virtut del que estableix l’apartat 2, lletra b) de l’article 42.
+2. Les importacions temporals de béns amb exempció parcial dels drets d’importació, quan són cedits pel seu propietari mitjançant operacions subjectes i no exemptes de l’impost en virtut del que preveu l’apartat 2, lletra j), de l’article 43.
+3. Les importacions d’electricitat.
+
+**Article 41. Altres exempcions**
+
+$41
+
+#### Capítol cinquè. Lloc de realització del fet generador
+
+**Article 42. Lloc de realització dels lliuraments de béns**
+
+$45
+
+**Article 43. Lloc de realització de les prestacions de serveis. Regles generals**
+
+$47
+
+**Article 44. Lloc de realització de les prestacions de serveis. Regles especials**
+
+$49
+
+#### Capítol sisè. Meritació de l’impost
+
+**Article 45. Meritació de l’impost en els lliuraments de béns i en les prestacions de serveis**
+
+$4b
+
+**Article 46. Meritació de l’impost en les importacions**
+
+En les importacions de béns, la meritació de l’impost es produeix en el moment en què té o hagués tingut lloc la meritació dels drets a la importació, d’acord amb la legislació duanera, independentment que aquestes importacions estiguin o no subjectes als drets a la importació mencionats. La meritació de l’impost és independent del moment del seu pagament.
+
+#### Capítol setè. Base de tributació
+
+**Article 47. Base de tributació. Regla general**
+
+$4d
+
+**Article 48. Base de tributació. Regles especials**
+
+$4f
+
+**Article 49. Modificació de la base de tributació**
+
+$51
+
+**Article 50. Determinació de la base de tributació**
+
+1. Amb caràcter general, la base de tributació s’ha de determinar a través del règim d’estimació directa, sense més excepcions que les establertes en aquesta Llei i a les normes reguladores del règim d’estimació indirecta de les bases de tributació.
+2. L’aplicació del règim d’estimació indirecta comprèn l’import de les adquisicions de béns i serveis efectuats per l’obligat tributari i l’impost suportat corresponent a les mateixes adquisicions.
+
+**Article 51. Base de tributació de les importacions**
+
+$53
+
+#### Capítol vuitè. Obligats tributaris
+
+**Article 52. Obligats tributaris en els lliuraments de béns i les prestacions de serveis**
+
+$55
+
+**Article 53. Obligats tributaris en les importacions**
+
+Són els obligats tributaris de l’impost en les operacions d’importació els que realitzen les importacions.
+A aquest efecte, es consideren
+importadors
+:
+1. Els destinataris dels béns importats, siguin adquirents, cessionaris o propietaris dels mateixos béns, o bé consignataris que actuen en nom propi en la importació dels béns esmentats amb independència de la seva condició d’obligat tributari en les altres operacions subjectes a l’impost.
+2. Els viatgers pels béns que porten o transporten en arribar a Andorra.
+3. Els propietaris dels béns en els casos no previstos en els apartats 1 i 2 anteriors.
+
+**Article 54. Responsables de l’impost**
+
+1. Són responsables subsidiaris de l’Impost els agents de Duanes que actuen en nom propi i per compte dels seus comitents.
+2. Són responsables solidaris del deute tributari que correspongui satisfer a l’obligat tributari els destinataris de les operacions que, mitjançant acció o omissió culposa o dolosa, eludeixen la repercussió correcta de l’impost.
+A aquest efecte, la responsabilitat arriba a la sanció que pugui procedir.
+3. Les responsabilitats establertes a l’apartat primer anterior no comprenen els deutes tributaris que es posin de manifest com a conseqüència d’actuacions practicades fora dels recintes duaners.
+
+**Article 55. Trasllat de l’impost**
+
+$59
+
+**Article 56. Rectificació de les quotes impositives**
+
+$5b
+
+#### Capítol novè. Tipus de gravamen
+
+**Article 57. Tipus de gravamen general**
+
+El tipus de gravamen general és d’un 4,5% i s’exigeix sempre que no es prevegi expressament l’aplicació d’un altre tipus de gravamen.
+
+**Article 58. Tipus de gravamen reduït**
+
+$5d
+
+**Article 59. Tipus de gravamen superreduït**
+
+$61
+
+**Article 60. Tipus de gravamen incrementat**
+
+El tipus de gravamen incrementat és d’un 9,5% i s’aplica a les prestacions de serveis bancaris i financers.
+
+**Article 60 bis. Tipus de gravamen especial**
+
+El tipus de gravamen especial és del 2,5% i s’aplica només a les operacions següents:
+1. El transport de persones i la seva comercialització, excepte el transport per cable.
+2. Les prestacions de serveis relacionades a continuació quan no són efectuades per administracions públiques o parapúbliques, entitats de dret públic o entitats o establiments culturals o socials de caràcter no lucratiu:
+a) Les pròpies de biblioteques, arxius i centres de documentació.b) Les visites a fires, museus, galeries d’art, pinacoteques, monuments, indrets històrics, jardins botànics, parcs zoològics i parcs naturals i altres espais naturals protegits de característiques similars.c) Les representacions teatrals, musicals, coreogràfiques, audiovisuals i cinematogràfiques.d) L’organització d’exposicions i manifestacions similars d’àmbit educatiu, cultural o social.
+3. Els béns d’objectes d’art, de col·lecció o d’antiguitat, segons la Nomenclatura general de productes i d’acord amb el que es preveu reglamentàriament.
+
+**Article 60 ter. Tipus de gravamen específic**
+
+El tipus de gravamen específic és del 3,5% i s’aplica només a l’operació següent:
+Adquisicions que tinguin per objecte immobles destinats a l’arrendament d’habitatges d’ús residencial permanent sempre que l’adquirent no tingui la consideració d’empresari a efectes d’aquesta Llei. L’arrendament de l’immoble ha de tenir una durada mínima de cinc anys, d’acord amb la Llei d’arrendament de finques urbanes. En cas que no s’arrendi l’immoble o que s’arrendi durant menys de cinc anys, és procedent l’aplicació del tipus de gravamen general juntament amb els interessos de demora.
+
+#### Capítol desè. Deduccions i devolucions
+
+**Article 61. Quotes tributàries deduïbles**
+
+1. Els obligats tributaris poden deduir les quotes de l’impost que hagin suportat en la adquisició de béns o serveis rebuts relacionats amb el desenvolupament de les seves activitats econòmiques.
+2. En cap cas no procedeix la deducció de les quotes en una quantia superior a la que legalment correspongui ni abans que s’haguessin meritat d’acord amb el que s’estableix segons aquesta Llei.
+
+**Article 62. Requisits subjectius de la deducció**
+
+Poden fer ús del dret a deduir els obligats tributaris de l’impost que tinguin la condició d’empresaris o professionals d’acord amb el que estableix l’article 5 d’aquesta Llei.
+
+**Article 63. Limitacions del dret a deduir**
+
+$67
+
+**Article 64. Exclusions del dret a deduir**
+
+$6b
+
+**Article 65. Requisits formals de la deducció**
+
+$6f
+
+**Article 66. Naixement del dret a la deducció**
+
+El dret a la deducció neix en el moment en què es meriten les quotes deduïbles.
+
+**Article 67. Exercici del dret a la deducció**
+
+$71
+
+**Article 68. Caducitat del dret a la deducció**
+
+El dret a la deducció caduca quan el titular no l’ha exercitat en els terminis assenyalats a l’article 67.
+No obstant això, en els casos en què la procedència del dret a deduir o la quantia de la deducció està pendent de la resolució d’una controvèrsia en via administrativa o jurisdiccional, el dret a la deducció caduca quan han transcorregut tres anys des de la data en què la resolució esdevé ferma.
+
+**Article 69. Rectificació de deduccions**
+
+$73
+
+**Article 70. Supòsits generals de devolució**
+
+$75
+
+**Article 71. Devolucions al termini de cada període de liquidació**
+
+Els obligats tributaris tenen dret a la devolució del saldo existent que tinguin al seu favor al termini de cada període de liquidació, d’acord amb les condicions, els terminis, els requisits i el procediment que s’estableixin reglamentàriament.
+
+**Article 71 bis. Sense contingut**
+
+Sense contingut
+
+**Article 72. Devolucions a exportadors en règim de viatgers**
+
+La devolució de les quotes suportades en les adquisicions de béns aplicable en règim de viatgers regulat a l’article 14 s’ha d’ajustar al que es preveu reglamentàriament.
+
+**Article 72 bis. Devolucions a importadors que no actuen com a empresaris o professionals**
+
+El reemborsament de l’impost general indirecte indegudament abonat en declaracions duaneres s’ha de fer en les mateixes condicions i modalitats que el reemborsament dels drets de duana, sempre que l’obligat tributari no hagi actuat en aquella operació com a empresari o professional a efectes d’aquest impost.
+
+**Article 73. Règim especial de devolucions a determinats empresaris o professionals no establerts a l’àmbit territorial de l’impost**
+
+$78
+
+#### Capítol onzè. Règim especial simplificat
+
+**Article 74. Àmbit subjectiu d’aplicació**
+
+$7a
+
+**Article 75. Contingut del règim especial simplificat**
+
+1. La determinació de la quota de liquidació es calcula per la diferència entre la suma de les quotes repercutides en el període de liquidació i els percentatges estimatius de les quotes suportades que s’indiquen a continuació, segons el tipus d’activitat econòmica, aplicats sobre la xifra dels ingressos. Dins la xifra d’ingressos no s’inclouen els procedents de les transmissions d’actius fixos afectes a l’activitat desenvolupada.
+2. Els percentatges de despeses son els següents:
+a) En les realitzacions d’activitats comercials, les quotes suportades es quantifiquen amb el 3 per cent de la xifra d’ingressos.b) En la resta d’activitats les quotes suportades es quantifiquen amb el 1,5 per cent de la xifra d’ingressos.
+
+#### Capítol dotzè. Obligacions formals
+
+**Article 76. Obligacions formals dels obligats tributaris**
+
+$7c
+
+**Article 77. Regles especials en matèria de facturació**
+
+1. Les factures rebudes, els justificants comptables i les còpies de les factures emeses han de conservar-se durant el termini de prescripció de l’impost. La conservació es pot dur a terme per mitjans electrònics. Aquesta obligació la pot complir un tercer, que ha d’actuar en nom i per compte de l’obligat tributari.
+2. Reglamentàriament poden establir-se fórmules alternatives per al compliment de les obligacions de facturació i de conservació dels documents a què es refereix l’apartat primer d’aquest article, amb la finalitat d’evitar pertorbacions en el desenvolupament de les activitats econòmiques.
+3. Quan l’obligat tributari mantingui per mitjans electrònics les factures emeses o rebudes, ha de garantir al Ministeri encarregat de les Finances l’accés complet a les factures mencionades. L’obligació anterior és independent del lloc de conservació.
+
+**Article 78. Liquidació de l’impost**
+
+$7e
+
+**Article 79. Liquidació provisional d’ofici**
+
+$82
+
+**Article 80. Obligacions dels fedataris públics**
+
+$84
+
+#### Capítol tretzè. Infraccions i sancions
+
+**Article 81. Infraccions**
+
+En el que no estableix aquesta Llei, la regulació de les infraccions en matèria tributària relatives al contingut d’aquesta Llei es regeix pel règim d’infraccions i sancions establert al títol IV de la Llei 21/2014, del 16 d’octubre, de bases de l’ordenament tributari.
+Les infraccions i les sancions en matèria duanera es regeixen per les disposicions establertes en el títol XII de la Llei 5/2004, del 14 d’abril, del Codi de Duana.
+
+**Article 82. Modalitats d’infraccions**
+
+1. Es consideren infraccions simples:
+a) Les autoliquidacions incompletes sense transcendència en la liquidació.b) L’incompliment de requeriments d’informació i/o documentació.c) L’incompliment de les obligacions a incloure informació a la memòria dels comptes anuals.d) L’incompliment de les obligacions en la facturació.
+2. Es consideren infraccions de defraudació:
+a) Les autoliquidacions incompletes amb transcendència en la liquidació.b) Les falses autoliquidacions.c) L’incompliment de les obligacions en la facturació quan produeixin defraudació.
+
+**Article 83. Sancions**
+
+1. Les infraccions simples són sancionades mitjançant una multa fixa d’entre 150 euros i 3.000 euros.
+2. Les infraccions de defraudació són sancionades mitjançant una multa proporcional d’entre el 50% i el 150% de la quota defraudada, sense que aquesta multa pugui ser inferior a 150 euros.
+3. Les sancions anteriors s’estableixen seguint els criteris de graduació establerts en la Llei de bases de l’ordenament tributari.
+
+**Disposició addicional primera**
+
+S’afegeix el paràgraf següent a l’article 1, apartat 2 de la Llei de l’impost sobre transmissions patrimonials immobiliàries, del 29 de desembre del 2000 que queda redactat com segueix:
+“No estan subjectes a aquest impost les transmissions patrimonials de béns immobles realitzades pels empresaris i els professionals en el marc de la seva activitat empresarial o professional quan estiguin subjectes o no subjectes a l’Impost general indirecte.”
+
+**Disposició addicional segona**
+
+Es modifica la lletra a) de l’apartat 2 de l’article 10 de la Llei 27/2008, del 20 de novembre, d’impostos especials que queda redactat de la forma següent:
+“a) Qualsevol gravamen o tribut exigible per a la importació, amb excepció del mateix impost i de l’impost general indirecte.”
+
+**Règim especial de béns usats**
+
+$86
+
+**Règim especial de l’or d’inversió**
+
+$8a
+
+**Règim especial del sector financer**
+
+$8c
+
+**Disposició transitòria primera**
+
+Els impostos indirectes suportats per repercussió directa amb anterioritat a l’entrada en vigor d’aquesta Llei que tinguin el caràcter de deduïbles en exercicis futurs d’acord amb la seva normativa poden ser deduïts de l’impost general indirecte en el terminis i els requisits establerts en la normativa que deroga aquesta llei.
+
+**Disposició transitòria**
+
+Els impostos indirectes suportats per repercussió directa amb anterioritat a l’entrada en vigor d’aquesta Llei que tinguin el caràcter de deduïbles en exercicis futurs d’acord amb la seva normativa poden ser deduïts de l’impost general indirecte en el terminis i els requisits establerts en la normativa que deroga aquesta llei.
+
+**Disposició transitòria segona**
+
+$8e
+
+**Disposició derogatòria**
+
+Queda derogada qualsevol disposició de rang igual o inferior que es contradigui amb el que estableix aquesta Llei.
+En particular, a partir de la data d’entrada en vigor d’aquesta Llei, queden derogades les disposicions legals següents:
+1. La Llei de l’impost de mercaderies indirecte (IMI), del 26 de juny de 1991.
+2. La Llei del cànon sobre el consum d’electricitat i telèfon, del 5 d’abril de 1994.
+3. La llei d’establiment de la taxa per raó del servei de fe pública notarial del 2 de maig del 2000.
+4. La Llei de l’impost indirecte sobre la prestació de serveis bancaris i de serveis financers, del 14 de maig del 2002.
+5. La Llei 17/2004, del 3 de novembre, de l’impost indirecte sobre la prestació de serveis empresarials i professionals.
+6. La Llei 18/2004, del 3 de novembre, de l’impost indirecte sobre la producció interna.
+7. La Llei 19/2004, del 3 de novembre, de l’impost indirecte sobre les activitats comercials.
+
+**Disposició final primera**
+
+La Llei de pressupost general pot actualitzar o adequar els tipus de gravamen establerts en aquesta Llei.
+
+**Disposició final segona**
+
+S’encomana el Govern la redacció i publicació de les disposicions i reglaments necessaris per el desenvolupament i execució d’aquesta llei en el termini de tres mesos des de la seva publicació al Butlletí Oficial del Principat d’Andorra.
+
+**Disposició final tercera**
+
+Els obligats tributaris podran fer consultes al Ministeri encarregat de les Finances sobre l’aplicació d’aquesta Llei. Les consultes han de ser contestades en un termini màxim de dos mesos a comptar des de la seva entrada al Ministeri. La resposta a la consulta serà vinculant per el Ministeri. En el cas de que el Ministeri no contesti en el termini indicat, s’aplicarà el criteri de silenci administratiu positiu.
+
+**Disposició final quarta**
+
+Es delega al Ministeri encarregat de les Finances la gestió i recaptació de l’impost que regula aquesta llei.
+
+**Disposició final cinquena**
+
+Aquesta Llei entra en vigor el dia 1 de gener de 2013.
+Casa de la Vall, 21 de juny del 2012
+Vicenç Mateu ZamoraSíndic General
+Nosaltres els coprínceps la sancionem i promulguem i n’ordenem la publicació en el Butlletí Oficial del Principat d’Andorra.
+Joan Enric Vives SicíliaBisbe d'UrgellCopríncep d'AndorraFrançois HollandePresident de la República FrancesaCopríncep d'Andorra

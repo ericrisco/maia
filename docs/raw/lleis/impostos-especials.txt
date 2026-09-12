@@ -1,0 +1,277 @@
+# Llei d'impostos especials (Llei 27/2008)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/impostos-especials
+Articles: 51 · versions consolidades: 7
+Instantania del consolidat: 2026-09-12T05:30:09.262969Z
+
+---
+
+#### Capítol primer. Disposicions generals
+
+**Article 1. Naturalesa jurídica**
+
+1. Els impostos especials són tributs de naturalesa indirecta i de caràcter estatal que graven la fabricació destinada al mercat intern i la importació de determinats béns dins del territori del Principat d’Andorra, d’acord amb les normes establertes per aquesta Llei.
+2. Els impostos especials es troben constituïts per:
+L’impost especial sobre el tabacL’impost especial sobre l’alcoholL’impost especial sobre els hidrocarburs que incorpora també un element que grava les emissions equivalents de diòxid de carboni.
+3. Aquests impostos es regeixen per les disposicions establertes en aquesta Llei, pels reglaments i altres disposicions que la desenvolupin, i per la Llei 21/2014, del 16 d’octubre, de bases de l’ordenament tributari.
+
+**Article 2. Àmbit territorial**
+
+Aquests impostos s’apliquen a tot el territori andorrà.
+
+**Article 3. Definicions**
+
+Segons la Llei s’entén per:
+Impostos especials
+: l’impost especial sobre el tabac, l’impost especial sobre l’alcohol i l’impost especial sobre els hidrocarburs.
+Productes subjectes a impostos especials
+: els productes compresos als codis de la Nomenclatura general de productes esmentats als articles 8, 16 i 24.
+Primeres matèries
+: matèries obtingudes al territori del Principat d’Andorra o importades, no subjectes a impostos especials, a partir de les quals s’obtenen productes subjectes a impostos especials, mitjançant fermentació seguida o no de destil·lació, refinatge o altres processos industrials.
+Importador
+: la persona que importa productes subjectes a impostos especials.
+Destil·lador
+: la persona que mitjançant fermentació, seguida o no de destil·lació de primeres matèries, obté dins del territori del Principat d’Andorra els productes alcohòlics que es defineixen a l’article 16.
+Refinador
+: la persona que mitjançant refinatge o altres procediments industrials de primeres matèries obté dins del territori del Principat d’Andorra els hidrocarburs que es defineixen a l’article 24.
+Importació
+: l’entrada de béns al territori duaner del Principat d’Andorra, qualsevulla que sigui la finalitat a la qual es destinin o la condició de l’importador, amb l’excepció dels béns introduïts sota l’empara dels règims especials de trànsit, dipòsit, perfeccionament actiu, sistema de la suspensió, i d’admissió temporal, per als quals es considera efectuada la importació en el moment de la posada al consum dels béns introduïts sota aquests règims.
+Adquirent
+: la persona que adquireix tabac en brut cultivat al Principat d’Andorra.
+Posada sota subjecció de l’impost:
+- la importació de productes subjectes a impostos especials;- l’obtenció d’una mercaderia subjecta a impostos especials, per part d’un destil·lador o d’un refinador;- l’adquisició de tabac en brut cultivat al territori del Principat d’Andorra que es destini a la fabricació dins del territori nacional de productes catalogats dins els codis 2401, 2402 i 2403 de la Nomenclatura general de productes.
+Posada al consum: la introducció definitiva d’una mercaderia, sigui quina sigui la seva procedència, al mercat interior nacional, d’acord amb l’article 237 de la Llei 5/2004, del 14 d’abril, del Codi de Duana.
+Destinació: les operacions definides a l’article 16, apartat 16, de la Llei 5/2004, del 14 d’abril, del Codi de Duana.
+Destinacions particulars: operacions regulades al capítol 3 del Reglament d’aplicació de la Llei 5/2004, del 14 d’abril, del Codi de Duana, -Altres destinacions duaneres i les operacions privilegiades, del 2 de març del 2005.
+Fons verd: és el fons previst per l’article 9 de la Llei 21/2018, del 13 de setembre, d’impuls de la transició energètica i del canvi climàtic (Litecc).
+
+#### Capítol segon. Elements essencials
+
+**Article 4. Elements essencials**
+
+Cada impost defineix els seus elements essencials.
+
+**Article 5. Operacions no subjectes**
+
+No estan subjectes a aquests impostos les posades sota subjecció de l’impost de béns que es realitzin a l’empara dels règims especials de trànsit, dipòsit, perfeccionament actiu, i d’admissió temporal, en la forma i amb els requisits que reglamentàriament s’estableixin.
+
+**Article 6. Exempcions**
+
+Les exempcions previstes en les disposicions legals duaneres i fiscals a la importació s’apliquen de la mateixa manera i en les mateixes condicions als productes objecte dels impostos especials.
+
+#### Capítol tercer. Impost especial sobre el tabac
+
+**Article 7. Naturalesa jurídica de l’impost especial sobre el tabac**
+
+L’impost especial sobre el tabac és un tribut de naturalesa indirecta i de caràcter estatal que grava la fabricació i la importació de productes del tabac, constituït per un element específic o per un element ad valorem.
+
+**Article 8. Fet generador de l’impost especial sobre el tabac**
+
+Està subjecta a l’impost especial sobre el tabac la posada sota subjecció de l’impost de productes del capítol 24 de la Nomenclatura General de Productes dins del territori del Principat d’Andorra.
+
+**Article 9. Obligats tributaris de l’impost especial sobre el tabac**
+
+Són obligats tributaris de l’impost especial sobre el tabac els importadors i els adquirents que efectuen l’operació que es defineix a l’article anterior.
+
+**Article 10. Base de tributació de l’impost especial sobre el tabac**
+
+1. Quan s’aplica un tipus de gravamen específic, la base de tributació és la quantitat total declarada expressada en la unitat emprada per determinar el tipus de gravamen.
+2. Quan s’aplica un tipus de gravamen ad valorem, la base de tributació és la que resulta d’addicionar al valor factura els conceptes següents quan no hi estiguin inclosos:
+a) Qualsevol gravamen o tribut exigible per a la importació, amb excepció del mateix impost i de l’impost general indirecte.b) Les despeses accessòries i complementàries, com comissions, embalatges, ports, transports i assegurances que es produeixin.
+
+**Article 11. Determinació de la base de tributació de l’impost especial sobre el tabac**
+
+La base de tributació es determina mitjançant el sistema d’estimació directa.
+
+**Article 12. Tipus de gravamen de l’impost especial sobre el tabac**
+
+$1e
+
+**Article 13. Quota tributària de l’impost especial sobre el tabac**
+
+La quota tributària és la resultant d’aplicar a la base de tributació el tipus de gravamen corresponent.
+
+**Article 14. Meritament de l’impost especial sobre el tabac**
+
+L’impost es merita en el moment de la posada al consum de les mercaderies subjectes a l’impost especial sobre el tabac, d’acord amb les condicions establertes a la legislació duanera aplicable.
+
+#### Capítol quart. Impost especial sobre l’alcohol
+
+**Article 15. Naturalesa jurídica**
+
+L’impost especial sobre l’alcohol és un tribut de naturalesa indirecta i de caràcter estatal que grava la fabricació i la importació de begudes alcohòliques, constituït únicament per un element específic.
+
+**Article 16. Fet generador de l’impost especial sobre l’alcohol**
+
+Està subjecta a l’impost especial sobre l’alcohol la posada sota subjecció de l’impost de productes de les posicions 2203, 2204, 2205, 2206, 2207.10.00 i 2208 de la Nomenclatura General de Productes dins del territori del Principat d’Andorra.
+
+**Article 17. Obligats tributaris de l’impost especial sobre l’alcohol**
+
+Són obligats tributaris de l’impost especial sobre l’alcohol els importadors i els destil·ladors que realitzen l’operació definida a l’article anterior.
+
+**Article 18. Base de tributació de l’impost especial sobre l’alcohol**
+
+1. Per als productes de les posicions 2203 i 2204 de la Nomenclatura general de productes, la base de tributació és la quantitat total declarada expressada en la unitat emprada per determinar el tipus de gravamen.
+2. Per als productes de les posicions 2205, 2206, 2207.10.00 i 22.08 de la Nomenclatura general de productes, la base de tributació s’estableix en termes de volum d’alcohol pur a la temperatura de 20 graus centígrads.
+
+**Article 19. Determinació de la base de tributació de l’impost especial sobre l’alcohol**
+
+La base de tributació es determina mitjançant el sistema d’estimació directa.
+
+**Article 20. Tipus de gravamen de l’impost especial sobre l’alcohol**
+
+$22
+
+**Article 21. Quota tributària de l’impost especial sobre l’alcohol**
+
+La quota tributària d’aquest impost és la resultant d’aplicar a la base de tributació el tipus de gravamen corresponent.
+
+**Article 22. Meritament de l’impost especial sobre l’alcohol**
+
+L’impost es merita en el moment de la posada al consum de les mercaderies subjectes a l’impost especial sobre l’alcohol, d’acord amb les condicions establertes en la legislació duanera aplicable.
+
+#### Capítol cinquè. Impost especial sobre els hidrocarburs
+
+**Article 23. Naturalesa jurídica**
+
+L’impost especial sobre els hidrocarburs és un tribut de naturalesa indirecta i de caràcter estatal que grava la fabricació, la importació d’hidrocarburs i les emissions equivalents de diòxid de carboni, constituït únicament per elements específics.
+
+**Article 24. Fet generador de l’impost especial sobre els hidrocarburs**
+
+Està subjecta a l’impost especial sobre els hidrocarburs la posada sota subjecció de l’impost de productes inclosos en l’annex 1.
+
+**Article 25. Obligats tributaris de l’impost especial sobre els hidrocarburs**
+
+Són obligats tributaris de l’impost especial sobre els hidrocarburs els importadors i els refinadors que realitzen l’operació definida a l’article anterior.
+
+**Article 26. Base de tributació de l’impost especial sobre els hidrocarburs**
+
+La base de tributació és la quantitat total declarada expressada en la unitat emprada per determinar el tipus de gravamen.
+
+**Article 27. Determinació de la base de tributació de l’impost especial sobre els hidrocarburs**
+
+La base de tributació es determina mitjançant el sistema d’estimació directa.
+
+**Article 28. Tipus de gravamen de l’impost especial sobre els hidrocarburs**
+
+$24
+
+**Article 29. Quota tributària de l’impost especial sobre els hidrocarburs**
+
+La quota tributària d’aquest impost és la resultant d’aplicar a la base de tributació el tipus de gravamen corresponent.
+
+**Article 30. Meritament de l’impost especial sobre els hidrocarburs**
+
+L’impost es merita en el moment de la posada al consum de les mercaderies subjectes a l’impost especial sobre els hidrocarburs, d’acord amb les condicions establertes a la legislació duanera aplicable.
+
+#### Capítol sisè. Reembossament i reducció dels impostos
+
+**Article 31. Reembossament i reducció dels impostos**
+
+$2a
+
+#### Capítol setè. Obligacions dels obligats tributaris
+
+**Article 32. Obligacions formals**
+
+1. Els obligats tributaris de cada impost especial han de complir els requisits, els terminis i les condicions que es determinin reglamentàriament per:
+a) En el cas dels destil·ladors i refinadors, obtenir l’autorització per realitzar activitats subjectes a impostos especials.b) Donar una destinació a la mercaderia sotmesa a l’impost especial en el moment de la seva posada sota subjecció de l’impost.c) Presentar una declaració liquidació en el moment de la posada al consum dels productes sotmesos a l’impost especial.
+2. Els obligats tributaris han d’ingressar la quota de liquidació de l’impost segons el que es determina en aquesta Llei.
+
+**Article 33. Quota de liquidació**
+
+1. La quota de liquidació de cada impost és l’import que ha de satisfer l’obligat tributari d’aquest impost a l’Administració general per cadascuna de les operacions realitzades.
+2. Reglamentàriament es poden establir procediments de liquidació globalitzats.
+
+**Article 34. Determinació de la quota de liquidació**
+
+La quota de liquidació es determina pel sistema de determinació directa i correspon a l’import de la quota tributària de cada operació subjecta a cada impost.
+
+**Article 35. Trasllat de l’impost**
+
+1. L’obligat tributari ha de traslladar l’import de les quotes suportades als adquirents dels béns sotmesos a impostos especials.
+2. L’obligat tributari no està obligat a consignar separadament l’impost al rebut, la factura o el document equivalent, que s’entén comprès en el preu de l’operació.
+En aquest cas, ha de constar la menció “impostos especials inclosos” en el rebut, la factura o el document equivalent que emeti l’obligat tributari.
+3. No obstant el que s’estableix en l’apartat anterior, en cas que ho sol·liciti algun empresari o professional establert a Andorra, l’obligat tributari d’aquest impost ha de consignar-lo de forma separada en el rebut, factura o document equivalent, d’acord amb el que estableix l’article 9 de la Llei de l’impost de mercaderies indirecte.
+
+#### Capítol vuitè. Gestió, liquidació i control de l’impost
+
+**Article 36. Gestió dels impostos especials**
+
+1. La gestió i la recaptació de l’impost corresponen al ministeri encarregat de les finances o l’organisme delegat per aquest.
+2. Reglamentàriament es determinen el lloc, el termini, la forma i els models de declaració i d’ingrés de la quota de liquidació.
+
+**Article 37. Liquidació dels impostos**
+
+1. Els obligats tributaris han d’ingressar el deute tributari derivat d’aquests impostos en el lloc, la forma i els terminis que es regulin reglamentàriament.
+El ministeri encarregat de les finances o l’organisme delegat per aquest pot establir liquidacions provisionals d’ofici en els supòsits i mitjançant els procediments que es determinin reglamentàriament.
+2. Reglamentàriament es defineixen els continguts i la forma de regularitzar i retornar els ingressos indeguts.
+
+**Article 38. Control dels impostos**
+
+1. El control de l’impost correspon al ministeri encarregat de les finances o l’organisme delegat per aquest.
+2. El ministeri encarregat de les finances o l’organisme delegat per aquest pot comprovar l’exactitud de les dades consignades en les declaracions, d’acord amb el capítol tercer del títol I de la Llei 5/2004, del Codi de Duana, del 14 d’abril.
+
+#### Capítol novè. Infraccions i sancions
+
+**Article 39. Infraccions i sancions**
+
+La regulació de les infraccions i de les sancions relatives al contingut d’aquesta Llei es regeix pel règim d’infraccions i de sancions establert al títol XII de la Llei 5/2004, del Codi de Duana, del 14 d’abril.
+
+**Article 40. Responsabilitat**
+
+Són responsables de l’incompliment de les prohibicions i de les limitacions d’utilització que estableix l’article 28, apartat 5 d’aquesta Llei:
+- la persona o les persones- el titular o els titulars dels vehicles- l’arrendatari o els arrendataris de vehicles
+que utilitzin el gasoil colorat com a carburant en els vehicles descrits a l’article 28, apartat 5.
+
+**Article 41. Sancions**
+
+$2c
+
+**Disposició addicional primera**
+
+Modificació de l’article 11.1.a) de la Llei de l’impost de mercaderies indirecte
+Es modifica la lletra a) de l’apartat 1 de l’article 11 de la Llei de l’impost de mercaderies indirecte, en la redacció que li va donar la Llei 19/2004, de l’impost indirecte sobre les activitats comercials, del 3 de novembre, que queda redactada de la forma següent:
+“a) Qualsevol gravamen o tribut exigible per a la importació, amb excepció del mateix impost, de l’impost indirecte sobre les activitats comercials i dels impostos especials.”.
+
+**Disposició addicional segona**
+
+Modificació de l’article 9.1.a) de la Llei 19/2004, de l’impost indirecte sobre les activitats comercials
+Es modifica la lletra a) de l’apartat 1 de l’article 9 de la Llei 19/2004, de l’impost indirecte sobre les activitats comercials, del 3 de novembre, que queda redactat de la forma següent:
+“Qualsevol gravamen o tribut exigible per a la importació, amb excepció d’aquest mateix impost, de l’impost indirecte de mercaderies indirecte i dels impostos especials.”.
+
+**Disposició addicional tercera**
+
+$2e
+
+**Disposició addicional quarta**
+
+$32
+
+**Disposició addicional cinquena**
+
+$34
+
+**Disposició addicional sisena**
+
+A partir de l’entrada en vigor d’aquesta Llei el preu de venda dels carburants es pot establir lliurement. Aquest preu de venda dels carburants s’ha d’anunciar en els cartells de les estacions de servei i ha de coincidir amb el preu que figura en els aparells sortidors. Tanmateix el Govern es reserva la possibilitat d’establir un preu màxim de venda dels carburants en supòsits de força major o quan les condicions del mercat posin en perill la lliure concurrència de preus i operadors.
+
+**Disposició derogatòria**
+
+Es deroga l’article 14 de la Llei de l’impost de mercaderies indirecte (IMI), del 26 de juny de 1991, i la Llei 2/2003, de modificació de la tarifa general de taxes de consum, del 24 de gener.
+
+**Disposició final primera**
+
+La Llei de pressupost general pot actualitzar o adequar els tipus de gravamen establerts en aquesta Llei.
+
+**Disposició final segona**
+
+Amb l’objectiu de facilitar el compliment de les obligacions formals derivades de la implantació dels impostos especials, s’autoritza el Govern perquè desenvolupi reglamentàriament tots els aspectes complementaris dels impostos especials, i en especial destini una part dels ingressos que se’n deriven a la lluita contra la contaminació atmosfèrica i al finançament d’altres despeses mediambientals.
+
+**Disposició final tercera**
+
+Aquesta Llei d’impostos especials entrarà en vigor al cap de trenta dies de ser publicada al Butlletí Oficial del Principat d’Andorra.
+Casa de la Vall, 20 de novembre del 2008
+Joan Gabriel i EstanySíndic General
+Nosaltres els coprínceps la sancionem i promulguem i n’ordenem la publicació en el Butlletí Oficial del Principat d’Andorra.
+Nicolas SarkozyPresident de la República FrancesaCopríncep d'AndorraJoan Enric Vives SicíliaBisbe d'UrgellCopríncep d'Andorra

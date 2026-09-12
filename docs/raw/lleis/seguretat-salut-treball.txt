@@ -1,0 +1,246 @@
+# Llei de la seguretat i la salut en el treball (Llei 34/2008)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/seguretat-salut-treball
+Articles: 47 · versions consolidades: 1
+Instantania del consolidat: 2026-09-12T05:30:15.551326Z
+
+---
+
+### Títol I. Disposicions generals
+
+#### Capítol primer. Disposicions generals
+
+**Article 1. Objecte**
+
+L’objecte d’aquesta Llei és la prevenció dels riscos laborals i la protecció de la seguretat i de la salut, l’eliminació o la disminució de factors de risc, d’accident laboral o malaltia professional, la informació, la consulta, la participació, la formació dels treballadors i dels seus delegats, així com les línies generals per aplicar els principis esmentats i les mesures per promoure la millora de la seguretat i la salut en el treball.
+Aquesta Llei no afecta les disposicions legals, reglamentàries i convencionals existents o futures que siguin més favorables per a la protecció de la seguretat i de la salut dels treballadors, sense perjudici que les disposicions de caràcter laboral contingudes en aquesta Llei i en els reglaments que la desenvolupin en el futur tinguin en tot cas el caràcter de mínim irrenunciable, i puguin ser millorades i completades mitjançant convenis col·lectius o acords entre empresaris i treballadors.
+
+**Article 2. Àmbit d’aplicació**
+
+1. Aquesta Llei s’aplica a tots els sectors d’activitats.
+2. Aquesta Llei no és aplicable quan s’hi oposin les particularitats inherents a determinades activitats específiques en l’àmbit de les funcions públiques de Servei de Policia, Cos Especial de Prevenció i Extinció d’Incendis i Salvament, determinades actuacions del Servei de Duana o del Centre Penitenciari i activitats específiques en els serveis de protecció civil.
+En aquests casos, s’ha de vetllar perquè la seguretat i la salut dels treballadors quedin assegurades en la mesura que sigui possible en les normatives específiques, d’acord amb els objectius d’aquesta Llei.
+3. Aquesta Llei no és aplicable al treball al servei de la llar familiar, sense perjudici de l’obligació del patró domèstic de vetllar, amb la diligència exigible, perquè el treball de les persones empleades es desenvolupi amb les condicions degudes de seguretat i higiene.
+
+**Article 3. Definicions**
+
+Als efectes d’aquesta Llei s’entén per:
+a)Persona treballadora/treballador, la persona física que s’obliga a prestar un servei o a realitzar una obra per compte de l’empresari, dins el seu àmbit d’organització o sota la seva direcció, a canvi d’una remuneració. S’inclouen en aquesta definició els funcionaris i les altres persones al servei de l’Administració pública, els treballadors en pràctiques i els aprenents.b)Persona empresària/empresari, la persona física o jurídica que sigui titular de la relació laboral amb el treballador i tingui la responsabilitat de l’empresa, i l’Administració pública tal com està definida al Codi de l’Administració.c)Centre de treball, lloc físic, edificat o no, on els treballadors desenvolupen la seva activitat laboral i on han de romandre o accedir per raó de la feina.d)Delegat de prevenció dels treballadors, qualsevol persona elegida pels treballadors, de conformitat amb el que preveu aquesta Llei, per a representar-los en matèria de prevenció de riscos i protecció de la seguretat i de la salut en el treball.e)Encarregat de seguretat i salut, la persona o l’empresa designada per l’empresari per a la prevenció i la protecció de la seguretat i la salut dels treballadors i per intervenir en cas de sinistre amb danys en les persones adoptant i ordenant les mesures d’urgència que siguin adequades i que integra el Servei de prevenció de l’empresa.f)Serveis de prevenció i de protecció, el conjunt de mitjans humans i materials necessaris per desenvolupar l’activitat de prevenció de riscos laborals de l’empresa amb la finalitat de garantir la protecció adequada de la seguretat i la salut dels treballadors.g)Prevenció, el conjunt de disposicions, activitats i mesures adoptades o previstes en totes les fases d’activitat de l’empresa, amb la finalitat d’evitar o, si no és possible, de disminuir els riscos laborals.h)Risc laboral, la possibilitat que un treballador pateixi un determinat dany derivat del treball. Per qualificar-lo en funció de la seva gravetat, s’ha de valorar conjuntament tant la probabilitat que es produeixi el dany com la severitat del mateix dany.i)Risc laboral greu i imminent, el que sigui probable racionalment que es materialitzi en un futur immediat i pugui suposar un dany greu per a la salut dels treballadors.En el supòsit d’exposició a agents susceptibles de causar danys greus a la salut dels treballadors, s’ha de considerar que hi ha un risc greu i immediat quan sigui probable racionalment que es materialitzi en un futur immediat una exposició a aquests agents de la qual puguin resultar danys greus per a la salut, encara que aquests no es manifestin de manera immediata.j)Danys derivats del treball, les malalties, patologies o lesions sofertes a causa del treball o amb motiu del treball.k)Accident laboral, tota lesió corporal que es produeix per un fet violent i exterior sobrevingut en ocasió o per conseqüència de la feina que es realitza. També, té consideració d’accident de treball el que pateixi el treballador durant el trajecte d’anada o tornada de la feina. No es considera accident de treball el que es produeix com a conseqüència de la imprudència temerària o el dol del treballador.l)Procés, activitats, operacions, equipaments o productes potencialment perillosos, els que en absència de mesures preventives específiques originin riscos per a la seguretat i la salut dels treballadors que els desenvolupen o en fan ús.m)Condicions de treball, característiques del treball que puguin tenir una influència significativa en la creació de riscos per a la seguretat i la salut dels treballadors. Es consideren incloses en la definició.- Les característiques generals dels locals, instal·lacions, equipaments, productes i altres estris del centre de treball.- La natura dels agents físics, químics i biològics presents en l’ambient de treball i les intensitats, les concentracions i els nivells de presència corresponents.- Els procediments per utilitzar els agents esmentats que influeixin en la creació d’un risc.- Totes les altres característiques del treball, incloses les relatives a la seva organització, ordenació i durada, que influeixin en la magnitud dels riscos a què es trobi exposat el treballador.n)Equipament de treball, qualsevol màquina, aparell, instrument o instal·lació utilitzada en el treball.o)Equip de protecció individual, l’equipament destinat a ser portat o utilitzat per la persona treballadora perquè el protegeixi d’un o més riscos laborals, així com els seus complements i accessoris destinats a la mateixa finalitat.p)Mesures de protecció col·lectiva, mesures destinades a combatre els riscos d’accident i els perjudicis per a la salut que no s’hagin pogut eliminar prèviament mitjançant mesures tècniques i organitzatives.
+
+**Article 4. Actuacions del Govern en matèria de prevenció**
+
+$1e
+
+#### Capítol segon. Drets i obligacions, i principis generals de la prevenció i la protecció
+
+**Article 5. Disposicions generals sobre la prevenció i la protecció davant dels riscos laborals**
+
+$20
+
+**Article 6. Obligacions generals dels empresaris**
+
+Els empresaris, en compliment del seu deure de protecció, han de garantir la seguretat i la salut dels treballadors, en tots els aspectes relacionats amb la feina. Amb aquesta finalitat han de prevenir els riscos laborals mitjançant la integració de l’activitat preventiva i l’adopció de totes les mesures necessàries per protegir la seguretat i la salut dels treballadors, amb totes les especialitats que es recullen en els articles següents sobre avaluació de riscos, informació, consulta i participació i formació dels treballadors, actuació en supòsits d’emergència i risc greu i imminent, vigilància de la salut, en els termes que estableix el capítol segon.
+Els empresaris han de complir les obligacions que estableix la normativa sobre prevenció i protecció de riscos, vetllar perquè les mesures establertes s’adaptin a qualsevol canvi de les circumstàncies i cercar la millora de la prevenció i la seguretat en les situacions existents.
+
+**Article 7. Principis de l’activitat preventiva**
+
+$22
+
+**Article 8. Planificació de l’activitat preventiva i avaluació dels riscos**
+
+$24
+
+**Article 9. Cooperació i coordinació d’activitats**
+
+$26
+
+**Article 10. Obligacions de les empreses concurrents en un centre de treball**
+
+$28
+
+**Article 11. Obligacions de l’empresari titular d’un centre de treball en el qual concorren treballadors d’altres empreses i obligacions de l’empresari principal**
+
+$2a
+
+**Article 12. Equips de treball i mitjans de protecció**
+
+$2c
+
+**Article 13. Funcions dels serveis de prevenció i protecció**
+
+El servei de prevenció i protecció ha de disposar dels mitjans necessaris i els seus recursos tècnics han de ser suficients i adequats per complir les funcions i les activitats preventives següents:
+a) El disseny, l’aplicació i la coordinació dels plans i dels programes d’actuació preventiva.b) L’avaluació dels factors de risc que puguin afectar la seguretat i la salut dels treballadors durant la seva activitat laboral.c) La determinació de les prioritats en l’adopció de les mesures preventives adequades i la vigilància de l’eficàcia.d) La informació i la formació dels treballadors per evitar els riscos de l’activitat que desenvolupen.e) La prestació dels primers auxilis i la implantació de plans d’emergència.
+
+**Article 14. Modalitats organitzatives dels serveis de prevenció**
+
+$2e
+
+**Article 15. Servei de prevenció aliè**
+
+$30
+
+**Article 16. Acreditació de les empreses de servei de prevenció aliè**
+
+$32
+
+**Article 17. Manteniment de les condicions d’acreditació**
+
+1. Les empreses ja acreditades com a empreses que ofereixen el servei de prevenció per a altres empreses han de mantenir les condicions en les quals es va basar la seva acreditació i, si es modifiquen les condicions, han de comunicar-ho al departament encarregat de treball.
+2. Les autoritats laboral i sanitària poden verificar, en l’àmbit de les seves competències, el compliment de les condicions exigides i, si no es compleixen, han de comunicar-ho al departament encarregat de treball, el qual pot extingir l’acreditació.
+
+**Article 18. Control del servei de prevenció propi**
+
+Les empreses que tinguin servei de prevenció propi s’han de sotmetre a un control extern per part d’empreses homologades en prevenció cada cinc anys, amb l’objectiu de comprovar com s’ha fet l’avaluació inicial i les periòdiques, i analitzar-ne els resultats. Les persones encarregades d’aquest control no poden tenir cap vincle amb l’empresa.
+
+**Article 19. Vigilància de la salut**
+
+$34
+
+**Article 20. Organització de primers auxilis, lluita contra incendis, evacuació i actuacions en supòsits de risc greu i imminent**
+
+$36
+
+**Article 21. Altres obligacions dels empresaris**
+
+Correspon a l’empresari:
+a) Guardar els resultats de les avaluacions dels riscos per a la seguretat i la salut en el treball de les activitats que es desenvolupin o dels treballs que no hagin acabat.b) Determinar les mesures de protecció que cal adoptar i, si escau, el material de protecció que hagi d’utilitzar-se.c) Guardar i facilitar-la als treballadors -en termes que siguin comprensibles-, tota la informació continguda en la documentació sobre el funcionament i el manteniment correctes de la maquinària, els equips de protecció col·lectiva i individual i els estris de treball.
+
+**Article 22. Delegats de prevenció dels treballadors en matèria de seguretat i salut en el treball**
+
+1. Els delegats de personal elegits de conformitat amb el que preveu el Codi de relacions laborals, representen els treballadors en matèria de seguretat i salut en el treball.
+2. En les empreses de menys de 20 treballadors s’informa i es consulta directament als treballadors, excepte si aquests, en assemblea, majoritàriament nomenen un delegat.
+
+**Article 23. Comitè de seguretat i salut**
+
+$38
+
+**Article 24. Competències i facultats dels delegats de prevenció**
+
+1. Els delegats de prevenció dels treballadors tenen assignades les competències següents:
+a) Col·laborar amb l’empresari i els serveis de prevenció en la millora de l’acció preventiva.b) Promoure i fomentar la cooperació dels treballadors en l’execució de la normativa sobre seguretat i salut en el treball.
+2. Els delegats de prevenció dels treballadors estan facultats per:
+a) D’acord amb la direcció de l’empresa poder realitzar visites als llocs de treball per conèixer i constatar l’estat de les condicions de treball.b) Ser informats per l’empresari i tenir accés a la informació i la documentació que siguin necessàries per al correcte desenvolupament de les seves funcions.
+
+**Article 25. Competències i facultats del comitè de seguretat i salut**
+
+$3a
+
+**Article 26. Dret d’informació, consulta i participació dels treballadors**
+
+$3c
+
+**Article 27. Garanties dels delegats de prevenció dels treballadors**
+
+1. Els delegats de prevenció dels treballadors no poden sofrir cap perjudici derivat de les seves activitats en matèria de representació i prevenció de riscos laborals i únicament poden ser acomiadats si concorre alguna de les causes objectives o disciplinàries previstes al Codi de relacions laborals. Aquesta garantia s’estendrà fins un any després de l’acabament de les seves funcions.
+2. El temps que els delegats de prevenció dels treballadors destinen a la seva funció és remunerat com a treball efectiu, amb la justificació prèvia de l’activitat desenvolupada.
+
+**Article 28. Formació dels treballadors**
+
+$3e
+
+**Article 29. Prevenció i protecció en relacions de durada determinada o de temporada i en empreses de treball temporal**
+
+1. Els treballadors amb relacions laborals de durada determinada o de temporada i els contractats per empreses de treball temporal, han de gaudir del mateix nivell de protecció pel que fa a seguretat i salut, que la resta de treballadors de l’empresa en què desenvolupen la seva feina.
+2. En les relacions de treball mitjançant empreses de treball temporal, l’empresa usuària és responsable de les condicions d’execució de la feina en tot el que faci referència a la protecció de la seguretat i la salut dels treballadors. L’empresa de treball temporal és responsable del compliment de les obligacions en matèria de formació i vigilància de la salut; amb aquesta finalitat l’empresa usuària ha de facilitar a l’empresa de treball temporal l’avaluació de riscos i els documents relatius als llocs de treball a cobrir sobre els quals ha de formar els treballadors.
+
+#### Capítol tercer. Protecció dels treballadors especialment sensibles a determinats riscos
+
+**Article 30. Disposicions generals**
+
+1. L’empresa ha de garantir de manera específica la protecció dels treballadors que, per les seves característiques personals o el seu estat biològic conegut o per la seva discapacitat física, psíquica o sensorial degudament reconeguda, siguin especialment sensibles als riscos derivats del treball. Ha de tenir en compte aquestes característiques en l’avaluació de riscos i, d’acord amb l’avaluació, ha de prendre les mesures de prevenció i protecció necessàries.
+2. Els treballadors no poden ocupar els llocs de treball en els quals, a causa de les seves característiques personals o el seu estat biològic conegut o per la seva discapacitat física, psíquica o sensorial degudament reconeguda, poden estar exposats a situacions de perill ells mateixos, altres treballadors o persones alienes a l’empresa. Tampoc poden ocupar-los quan es trobin en situacions transitòries que no responguin a les exigències psicofísiques dels llocs de treball respectius i que poden generar situacions de risc.
+
+**Article 31. Protecció de la maternitat**
+
+$40
+
+**Article 32. Protecció dels menors**
+
+$42
+
+#### Capítol quart. Obligacions dels treballadors
+
+**Article 33. Obligacions del treballadors**
+
+$44
+
+**Article 34. Faltes i sancions dels treballadors**
+
+L’incompliment per part dels treballadors de les obligacions en matèria de prevenció de riscos a què es refereix l’article anterior té la consideració d’incompliment laboral d’acord amb la graduació de faltes i sancions regulades en el Codi de relacions laborals.
+
+#### Capítol cinquè. Obligacions dels fabricants, importadors i distribuïdors
+
+**Article 35. Obligacions dels fabricants, importadors i distribuïdors**
+
+$46
+
+### Títol II. Responsabilitat i règim administratiu sancionador
+
+#### Capítol primer. Infraccions i responsabilitats
+
+**Article 36. Responsabilitats**
+
+1. L’incompliment per part de les empreses de les obligacions previstes en la Llei i en tota la normativa a què fa referència el darrer paràgraf de l’article 1 en matèria de prevenció de riscos laborals, dóna lloc a responsabilitat administrativa així com, si és el cas, a responsabilitat penal i civil pels danys i perjudicis que es puguin derivar de l’incompliment.
+2. En matèria de responsabilitat administrativa per incompliment de les normes de prevenció i seguretat en el treball, l’empresa principal respon solidàriament amb els contractistes subcontractats. En matèria de responsabilitat civil pels incompliments d’aquests darrers que hagin comportat danys i perjudicis a qualsevol persona treballadora per raó d’un sinistre ocorregut en el lloc de treball, l’empresari principal en respon subsidiàriament.
+3. No es poden sancionar per via administrativa els fets que ja hagin estat sancionats penalment, si hi ha coincidència de subjecte, fet i fonament.
+
+**Article 37. Infraccions lleus**
+
+Són infraccions lleus:
+1. La manca de neteja del lloc de treball, de la qual no se’n derivi un risc per a la integritat física o la salut dels treballadors.
+2. No informar els treballadors designats com a encarregats de seguretat que integren el servei de prevenció, de la incorporació de treballadors amb contractes de durada determinada, de temporada o proporcionats per empreses de treball temporal.
+3. Els incompliments en matèria de prevenció de riscos laborals que no tinguin una transcendència greu per a la integritat física o la salut dels treballadors.
+4. Qualsevol altra que afecti obligacions merament formals o documentals que no estiguin tipificades com a greus o molt greus.
+
+**Article 38. Infraccions greus**
+
+$48
+
+**Article 39. Infraccions molt greus**
+
+$4a
+
+**Article 40. Reincidència**
+
+S’entén que hi ha reincidència genèrica quan en el moment de cometre la infracció la persona culpable ha estat sancionada per decisió ferma per una infracció castigada amb la mateixa sanció o per dues infraccions castigades amb una sanció inferior.
+S’entén que hi ha reincidència específica quan, en el moment de cometre la infracció, s’ha sancionat la persona culpable per decisió ferma per una acció o omissió constitutiva de la mateixa infracció.
+Per a l’apreciació de la reincidència genèrica o específica només es tenen en compte les sancions per infraccions lleus imposades durant els 12 mesos anteriors, les sancions per infraccions greus imposades durant els 18 mesos anteriors i les sancions per infraccions molt greus imposades durant els 24 mesos anteriors.
+
+**Article 41. Prescripció**
+
+1. Les infraccions lleus prescriuen en el termini de sis mesos a partir del dia en què cessa l’acció o l’omissió sancionable.
+2. Les infraccions greus prescriuen en el termini d’un any a partir del dia en què cessa l’acció o l’omissió sancionable.
+3. Les infraccions molt greus prescriuen en el termini de dos anys a partir del dia en què cessa l’acció o l’omissió sancionable.
+4. L’inici d’una activitat inspectora suspèn el termini de prescripció.
+
+#### Capítol segon. Sancions
+
+**Article 42. Sancions**
+
+Les infraccions tipificades al capítol anterior són sancionables de la manera següent:
+a) Les infraccions lleus:en grau mínim, amb multa de 30 euros a 300 eurosen grau mitjà, amb multa de 301 euros a 600 eurosen grau màxim, amb multa de 601 euros a 1.000 eurosb) Les infraccions greus:en grau mínim, amb multa de 1.101 euros a 2.000 eurosen grau mitjà, amb multa de 2.001 euros a 5.000 eurosen grau màxim, amb multa de 5.001 euros a 10.000 eurosc) Les infraccions molt greus:en grau mínim, amb multa de 10.001 euros a 20.000 eurosen grau mitjà, amb multa de 20.001 euros a 50.000 eurosen grau màxim, amb multa de 50.001 euros a 100.000 euros
+
+**Article 43. Sanció accessòria per la reincidència en faltes molt greus**
+
+1. Les empreses que, en el termini d’un any, hagin estat sancionades per dues o més infraccions molt greus, no poden ser contractades directament ni participar en cap concurs o subhasta d’adjudicació de contractes amb l’Administració pública durant el període d’un any, comptat des del moment en què la segona de les sancions esdevé ferma.
+2. La inhabilitació per poder contractar amb l’Administració pública ha de ser publicada al Butlletí Oficial del Principat d’Andorra.
+
+**Article 44. Criteris de graduació de les sancions**
+
+1. Per determinar l’import de les sancions en els seus graus mínim, mitjà i màxim es tenen en compte els criteris de graduació següents:
+a) El perill de les activitats desenvolupades en l’empresa o en el centre de treball.b) El caràcter permanent o transitori dels riscos inherents a les activitats.c) El nombre de treballadors afectats.d) La gravetat dels danys produïts.e) Les mesures de protecció col·lectiva o individual adoptades per l’empresa.f) La inobservança dels requeriments, recomanacions o advertiments del Servei d’Inspecció i dels Serveis de Prevenció.g) Les instruccions donades per l’empresa en relació amb la prevenció.h) La conducta general de l’empresari en relació amb l’estricte compliment de la normativa sobre prevenció de riscs laborals.i) La reincidència genèrica.
+2. Les infraccions que consisteixin en la persistència continuada de la comissió o l’omissió se sancionen en el grau màxim de la qualificació que correspongui.
+
+**Article 45. Prescripció**
+
+Les sancions per infraccions lleus prescriuen en el termini d’un any, les greus en el termini de dos anys i les molt greus en el termini de tres anys, sempre des de la data de notificació de la resolució sancionadora esdevinguda ferma.
+
+**Article 46. Servei d’Inspecció de Treball**
+
+$4c
+
+**Article 47. Expedient sancionador**
+
+La constatació per part del Servei d’Inspecció de Treball d’una infracció comporta la incoació de l’expedient sancionador corresponent d’acord amb el que disposa el Codi de l’Administració, el Decret regulador del procediment sancionador i les disposicions complementàries.
+S’atorga a les actes del Servei d’Inspecció de Treball la presumpció d’exactitud, llevat de prova en contra.
+Contra la resolució dictada pel ministeri competent en l’expedient sancionador es pot interposar recurs d’acord amb el que disposen el Codi de l’Administració i els reglaments especials sobre la matèria.

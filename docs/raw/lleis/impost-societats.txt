@@ -1,0 +1,447 @@
+# Llei de l'impost sobre societats (Llei 95/2010)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/impost-societats
+Articles: 94 · versions consolidades: 22
+Instantania del consolidat: 2026-09-12T05:30:10.840487Z
+
+---
+
+#### Capítol I. Naturalesa i àmbit d’aplicació de l’impost
+
+**Article 1. Naturalesa**
+
+1. L’impost sobre societats és un tribut de caràcter directe i naturalesa personal que grava la renda de les persones jurídiques d’acord amb les normes d’aquesta Llei.
+2. L’exacció de l’impost corresponent als obligats tributaris no-residents fiscals en territori andorrà s’efectua d’acord amb la llei que regula l’impost sobre la renda dels no-residents fiscals.
+
+**Article 2. Àmbit d’aplicació espacial**
+
+L’impost sobre societats s’aplica en tot el territori del Principat d’Andorra.
+
+**Article 3. Tractats i convenis**
+
+El que estableix aquesta Llei s’entén sense perjudici del que disposen els tractats i els convenis internacionals que han passat a formar part de l’ordenament intern.
+
+#### Capítol II. El fet generador
+
+**Article 4. Fet generador**
+
+Constitueix el fet generador l’obtenció de renda, sigui quina sigui la seva font o origen, incloses les imputacions de renda en règim de transparència fiscal, per part de l’obligat tributari, amb independència del lloc on s’hagi produït i sigui quina sigui la residència fiscal del pagador.
+
+**Article 5. Presumpció de rendes**
+
+Les cessions de béns i drets en les diverses modalitats es presumeixen retribuïdes pel seu valor normal de mercat, llevat de prova en contrari.
+
+#### Capítol III. Els obligats tributaris
+
+**Article 6. Obligats tributaris**
+
+1. Són obligats tributaris de l’impost, quan tinguin la seva residència en territori andorrà:
+a) Les persones jurídiques.b) Les institucions d’inversió col·lectiva incloses en l’àmbit d’aplicació de la Llei 10/2008, del 12 de juny, de regulació dels organismes d’inversió col·lectiva de dret andorrà.c) Entitats públiques i parapúbliques i de dret públic.
+2. Els obligats tributaris d’aquest impost es designen abreujadament i indistintament per les denominacions “societats” o “entitats” al llarg d’aquesta Llei.
+3. Les rendes corresponents a les societats civils, herències jacents, comunitats de béns i totes aquelles entitats o patrimonis autònoms regulats en el segon paràgraf de l’article 31 de la Llei 21/2014, del 16 d’octubre, de bases de l’ordenament tributari, s’imputen als seus socis, hereus, comuners o partícips segons les normes o pactes aplicables en cada cas o a parts iguals en defecte d’aquests, integrant-se en l’impost quan aquests siguin persones jurídiques.
+
+**Article 7. Residència fiscal i domicili fiscal**
+
+1. Es consideren residents fiscals en territori andorrà les entitats en les quals es doni algun dels requisits següents:
+a) Que s’hagin constituït conforme a les lleis del Principat d’Andorra.b) Que tinguin el seu domicili social al Principat d’Andorra.c) Que tinguin la seva seu de direcció efectiva en territori del Principat d’Andorra. A aquest efecte, s’entén que una entitat té la seva seu de direcció efectiva en territori del Principat quan hi radiquin o s’hi exerceixin la direcció general i el control de la producció del conjunt de les seves activitats o negocis.d) Que hagin traslladat la seva residència al Principat d’Andorra, des del moment en què s’hagi perfeccionat el trasllat del seu domicili a Andorra, d’acord amb el que determina la legislació mercantil.
+2. El domicili fiscal dels obligats tributaris residents fiscals en territori del Principat d’Andorra és el derivat de l’aplicació de les regles a aquest efecte que regula l’article 39 de la Llei 21/2014, del 16 d’octubre, de bases de l’ordenament tributari.
+
+**Article 8. Exempcions**
+
+$1e
+
+#### Capítol IV. La base de tributació
+
+**Article 9. Concepte i determinació de la base de tributació**
+
+1. La base de tributació està constituïda per l’import de la renda en el període impositiu.
+2. La base de tributació es determina pel mètode de determinació directa i, subsidiàriament, pel mètode de determinació indirecta, d’acord amb el que disposa, en aquest últim cas, l’article 43 de la Llei 21/2014, del 16 d’octubre, de bases de l’ordenament tributari.
+3. En el mètode de determinació directa, la base de tributació es calcula corregint el resultat comptable, determinat d’acord amb les normes que preveu la Llei 30/2007, del 20 de desembre, de la comptabilitat dels empresaris i el Pla general de comptabilitat, amb l’aplicació dels preceptes que estableix el capítol IV d’aquesta Llei.
+
+**Article 10. Correccions de valor: amortitzacions**
+
+$30
+
+**Article 11. Correccions de valor: pèrdues per deterioració del valor dels elements patrimonials**
+
+$34
+
+**Article 12. Provisions**
+
+$38
+
+**Article 13. Despeses no deduïbles**
+
+$3c
+
+**Article 14. Limitació a la deducció de les despeses financeres**
+
+$40
+
+**Article 15. Regles de valoració**
+
+$43
+
+**Article 16. Operacions vinculades**
+
+$49
+
+**Article 16 bis. Obligació de presentar informació país per país**
+
+$4b
+
+**Article 16 quater. Definicions**
+
+$4d
+
+**Article 16 ter. Ús i confidencialitat de l’informe país per país**
+
+1. El ministeri encarregat de les finances utilitza l’informe país per país per avaluar amb caràcter global els riscos de preus de transferència i altres riscos relacionats amb l’erosió de la base imposable i el trasllat de beneficis al Principat d’Andorra, valorant en particular el risc que els membres del grup multinacional incompleixin les normes de preus de transferència aplicables i, si escau, amb finalitats d’anàlisi estadística i econòmica. El ministeri encarregat de les finances no es pot basar en l’informe país per país per ajustar els preus de transferència.
+2. La confidencialitat de la informació que figura a l’informe país per país és preservada pel ministeri encarregat de les finances almenys al mateix nivell que si la informació esmentada se li comuniqués de conformitat amb les disposicions del Conveni multilateral d’assistència administrativa mútua en matèria fiscal.
+
+**Article 17. Regles de valoració: canvis de residència, transferència d’actius a establiments permanents situats a l’estranger, operacions realitzades amb o per persones o entitats residents fiscals en territoris amb una tributació substancialment inferior a la del Principat d’Andorra i quantitats subjectes a retenció**
+
+$4f
+
+**Article 17 bis. Règim de transparència fiscal**
+
+$51
+
+**Article 18. Elements patrimonials amb diferències de valoració comptable i fiscal**
+
+$53
+
+**Article 19. Imputació temporal. Inscripció comptable d’ingressos i despeses**
+
+$57
+
+**Article 20. Exempció per evitar la doble imposició econòmica sobre dividends, participacions en beneficis i rendes derivades de la transmissió de participacions en altres entitats**
+
+$5b
+
+**Article 21. Eliminació de la doble imposició internacional sobre les rendes atribuïbles a establiments permanents situats a l’estranger**
+
+$61
+
+**Article 21 bis. Exempció de rendes procedents de l’aplicació de la Llei de mesures urgents per implantar mecanismes de reestructuració i resolució d’entitats bancàries**
+
+1. Estan exemptes les rendes obtingudes per les entitats bancàries objecte d’un procediment de resolució previst en la Llei de mesures urgents per implantar mecanismes de reestructuració i resolució d’entitats bancàries que siguin conseqüència del traspàs d’actius i de passius dels quals siguin titulars i que tinguin lloc dins d’aquest procediment.
+2. Estan exempts els ingressos que obtinguin les entitats bancàries objecte d’un procediment de reestructuració o de resolució previst en la Llei de mesures urgents per implantar mecanismes de reestructuració i resolució d’entitats bancàries que siguin conseqüència de les contribucions efectuades pel FAREB, així com els que es derivin dels instruments de suport financer i de recapitalització previstos en la Llei esmentada.
+
+**Article 21 ter. Reducció per arrendaments d’habitatge**
+
+Els obligats tributaris poden reduir la base de tributació, sempre que sigui positiva, en un import equivalent al 10% dels ingressos procedents de l’arrendament d’habitatges, per a residència habitual i permanent, situats al Principat d’Andorra. No obstant això, la reducció només es pot aplicar als ingressos, exclosa la repercussió de les despeses de subministraments, procedents d’habitatges pels quals s’obtingui una renda inferior a 9 euros metre quadrat i l’import total de la renda no superi els 1.250 euros mensuals.
+La base de tributació no pot ser negativa com a conseqüència de l’aplicació d’aquesta reducció.
+
+**Article 22. Compensació de bases de tributació negatives**
+
+$64
+
+#### Capítol V. Règims especials de determinació de la base de tributació
+
+**Article 23. Règim especial d’explotació de determinats actius intangibles**
+
+$68
+
+**Article 24. Sense contingut**
+
+Sense contingut
+
+**Article 24 bis. Sense contingut**
+
+Sense contingut
+
+**Article 24 ter. Règim especial de societats cooperatives**
+
+En el cas de societats cooperatives, tenen la consideració de despesa deduïble a efectes de determinar la base de tributació, a més de les que determina aquesta Llei per les persones jurídiques, les següents:
+a) L’import dels béns lliurats pels socis per a la gestió i el desenvolupament de la cooperativa, valorats a preu de mercat. Únicament quan no es pugui determinar el preu de mercat es computarà com a preu de les corresponents operacions aquell pel qual efectivament s’hagi realitzat, sempre que no resulti inferior al cost, cas en el qual s’aplicarà aquest darrer.b) L’import de les bestretes laborals dels socis de treball.c) Els interessos que es deuen als socis per les aportacions al capital social, als obligacionistes i als altres creditors.d) Les dotacions que anualment acordi l’assemblea general del Fons d’Educació i Promoció Cooperatives.
+
+**Article 25. Règim especial de consolidació tributària**
+
+$6e
+
+**Article 26. Sense contingut**
+
+Sense contingut
+
+**Article 27. Sense contingut**
+
+Sense contingut
+
+**Article 28. Sense contingut**
+
+Sense contingut
+
+**Article 29. Sense contingut**
+
+Sense contingut
+
+**Article 30. Sense contingut**
+
+Sense contingut
+
+**Article 31. Sense contingut**
+
+Sense contingut
+
+**Article 32. Sense contingut**
+
+Sense contingut
+
+**Article 33. Sense contingut**
+
+Sense contingut
+
+**Article 34. Sense contingut**
+
+Sense contingut
+
+**Article 35. Sense contingut**
+
+Sense contingut
+
+**Article 36. Sense contingut**
+
+Sense contingut
+
+**Article 37. Sense contingut**
+
+Sense contingut
+
+**Article 38. Règim especial de societats de tinença de participacions en societats**
+
+$72
+
+#### Capítol VI. Període impositiu i meritació
+
+**Article 39. Període impositiu**
+
+$76
+
+**Article 40. Meritació de l’impost**
+
+L’impost es merita l’últim dia del període impositiu.
+
+#### Capítol VII. Tipus de gravamen i quota de tributació
+
+**Article 41. Tipus de gravamen**
+
+1. El tipus general de gravamen per als obligats tributaris d’aquest impost és del 10 per cent.
+2. El tipus de gravamen aplicable a les institucions d’inversió col·lectiva regulades per la Llei 10/2008, del 12 de juny, de regulació dels organismes d’inversió col·lectiva de dret andorrà, a exclusió de les societats gestores, que estan sotmeses al règim general, és del 0 per cent.
+
+**Article 42. Quota de tributació**
+
+S’entén per “quota de tributació” la quantitat resultant d’aplicar a la base de tributació, determinada d’acord amb els articles anteriors, el tipus de gravamen.
+
+#### Capítol VIII. Quota de liquidació: deduccions a la quota
+
+**Article 43. Quota de liquidació i deduccions a la quota**
+
+$78
+
+**Article 43 bis. Deducció per eliminar la doble imposició interna i internacional**
+
+$7c
+
+**Article 44. Deducció per creació de llocs de treball i per projectes que fomenten la digitalització**
+
+$7e
+
+**Article 44 bis. Deducció per incentius fiscals al mecenatge**
+
+$84
+
+**Article 44 quater. Incentius a la participació en projectes declarats d’interès nacional**
+
+$88
+
+**Article 44 ter. Incentius fiscals al patrocini i l’esponsorització**
+
+$8a
+
+#### Capítol IX. Pagaments a compte
+
+**Article 45. El pagament a compte**
+
+1. Durant el novè mes posterior a l’inici del període impositiu, els obligats tributaris han d’efectuar un pagament a compte de la liquidació corresponent al període impositiu que estigui en curs el primer dia d’aquest mes.
+2. El pagament a compte es calcula aplicant el percentatge del 50 per cent sobre la quota de liquidació de l’exercici immediatament anterior. En el cas que el període anterior tingui una durada inferior a dotze mesos, el pagament a compte es fa tenint en compte la part proporcional de la quota de liquidació de períodes anteriors fins a completar un període de dotze mesos.
+3. El pagament a compte té la consideració de deute tributari d’acord amb l’article 47 de la Llei 21/2014, del 16 d’octubre, de bases de l’ordenament tributari.
+
+**Article 45 bis. Pagaments a compte en transmissions immobiliàries**
+
+$8e
+
+**Article 45 ter. Obligacions dels fedataris públics en transmissions immobiliàries**
+
+$90
+
+**Article 46. Deducció del pagament a compte i quota diferencial**
+
+Els pagaments a compte previstos als articles 45 i 45 bis es dedueixen de la quota de liquidació per obtenir la quota diferencial. Quan, per efecte dels pagaments a compte esmentats, la quota diferencial sigui negativa, el ministeri encarregat de les finances ha de retornar l’excés.
+Quan es tracti de transmissions amb preu ajornat segons l’apartat 3 de l’article 19, l’import del pagament a compte efectuat d’acord amb l’article 45 bis es dedueix de la quota de liquidació a mesura que la renda s’imputi en la base de tributació.
+
+#### Capítol X. Gestió i liquidació
+
+**Article 47. Registre tributari**
+
+Els obligats tributaris de l’impost sobre societats s’han d’inscriure en el Registre d’Empresaris i Professionals del Cens d’Obligats Tributaris de l’Administració tributària.
+
+**Article 48. Baixa provisional en el Registre tributari**
+
+1. El ministeri encarregat de les finances ha de dictar, amb l’audiència prèvia dels interessats, acords de baixa provisional en els casos següents:
+a) Quan els dèbits de l’entitat relatius a aquest impost envers el ministeri encarregat de les finances siguin declarats incobrables per insolvència provada de l’obligat tributari en el sentit que preveu l’article 59 de la Llei 21/2014, del 16 d’octubre, de bases de l’ordenament tributari.b) Quan, estant-hi obligada per aquesta Llei, l’entitat no hagi presentat les declaracions tributàries corresponents durant dos períodes impositius consecutius.
+2. L’acord de baixa provisional no eximeix l’entitat afectada de cap de les obligacions tributàries que li puguin incumbir d’acord amb aquesta Llei.
+
+**Article 49. Expedient de baixa provisional per fallida**
+
+$92
+
+**Article 50. Expedient de baixa provisional per falta de presentació de declaracions**
+
+1. Quan, estant-hi obligada per aquesta Llei, una entitat no hagi presentat les declaracions tributàries corresponents durant dos exercicis consecutius, el ministeri encarregat de les finances ha de requerir a l’obligat tributari la presentació de les declaracions omeses en el termini d’un mes i advertir-lo que, si no ho fa, serà donat de baixa provisional del Registre Tributari i se li revocarà el número de registre tributari.
+2. Si transcorre el termini fixat en l’apartat anterior sense que s’hagin presentat les declaracions reclamades, es practicarà d’ofici la baixa provisional del Registre tributari, sense perjudici de les actuacions de comprovació i investigació que es considerin oportunes.
+3. A l’efecte de donar publicitat a aquesta baixa amb caràcter provisional del Registre tributari i a la revocació del número de registre tributari, se n’ha de fer difusió pública, en els termes que s’estableixin reglamentàriament i amb la corresponent publicació al
+Butlletí Oficial del Principat d’Andorra
+.
+
+**Article 51. Notificació als registres públics de la baixa provisional**
+
+1. Un cop acordada la baixa provisional d’una entitat d’acord amb el que disposa aquesta Llei, el ministeri encarregat de les finances l’ha de notificar al Registre de Societats Mercantils per manament, en el qual s’ha d’inserir literalment la resolució recaiguda, la seva data, la denominació o raó social de l’entitat i el seu domicili fiscal.
+2. Un cop rebuda la notificació, el Registre de Societats Mercantils ha d’estendre en el full obert a l’entitat una nota marginal, en què s’ha de fer constar que, si durant la seva vigència es presenta algun document per a la seva inscripció, aquesta inscripció no podrà realitzar-se fins que no es donin les circumstàncies a què es refereix l’article següent.
+
+**Article 52. Cancel·lació de la nota marginal i rehabilitació del número de registre tributari**
+
+La cancel·lació de la nota marginal inscrita en el Registre de Societats Mercantils exigeix l’acord previ del ministeri encarregat de les finances que n’hagi disposat la pràctica, adoptat d’ofici o a petició de l’entitat interessada, un cop aquesta entitat hagi demostrat estar al corrent del compliment de les seves obligacions tributàries en relació amb aquest impost.
+El ministeri encarregat de les finances pot rehabilitar el número de registre tributari mitjançant acord, del qual s’ha de fer difusió pública, en els termes que s’estableixin reglamentàriament, un cop s’hagi acordat la cancel·lació de la nota marginal en el Registre de Societats Mercantils.
+
+**Article 53. Obligació de col·laboració**
+
+Els notaris han de remetre via telemàtica al ministeri encarregat de les finances una relació de les entitats la constitució, l’establiment, la modificació o l’extinció de les quals hagin autoritzat durant el trimestre natural immediatament anterior.
+
+**Article 54. Obligacions comptables. Facultats del ministeri encarregat de les finances**
+
+$97
+
+**Article 55. Béns i drets no comptabilitzats o no declarats: presumpció d’obtenció de rendes**
+
+$99
+
+**Article 56. Revaloracions comptables voluntàries**
+
+$9b
+
+**Article 57. Declaracions**
+
+1. Els obligats tributaris han de presentar i subscriure una declaració per aquest impost en el lloc, el termini i la forma que es determini reglamentàriament.
+2. Els obligats tributaris a què es refereix l’apartat 2 de l’article 8 han de declarar la totalitat de les seves rendes, exemptes i no exemptes.
+
+**Article 58. Autoliquidació i ingrés del deute tributari**
+
+$9d
+
+**Article 59. Liquidació provisional**
+
+Els òrgans de gestió tributària podran girar la liquidació provisional que escaigui, d’acord amb el que disposa l’article 87 de la Llei 21/2014, del 16 d’octubre, de bases de l’ordenament tributari, sense perjudici de la comprovació i investigació posteriors que puguin efectuar els òrgans d’inspecció tributària.
+
+**Article 60. Devolució d’ofici**
+
+$9f
+
+**Article 61. Facultats del ministeri encarregat de les finances per determinar la base de tributació**
+
+A l’efecte de determinar la base de tributació, el ministeri encarregat de les finances ha d’aplicar les normes previstes en aquesta Llei.
+
+#### Capítol XI. Infraccions i sancions
+
+**Article 62. Infraccions**
+
+La regulació de les infraccions en matèria tributària relatives al contingut d’aquesta Llei es regeix, en allò que no s’estableix en aquesta Llei, pel règim d’infraccions i sancions establert en el títol IV de la Llei 21/2014, del 16 d’octubre, de bases de l’ordenament tributari.
+
+**Article 63. Modalitats d’infraccions**
+
+$a1
+
+**Article 64. Sancions**
+
+1. Les infraccions simples són sancionades mitjançant una multa fixa d’entre 150 euros i 3.000 euros.
+2. Les infraccions de defraudació són sancionades mitjançant una multa proporcional d’entre el 50% i el 150% de la quota defraudada.
+3. Les sancions anteriors s’estableixen seguint els criteris de graduació establerts en la Llei 21/2014, del 16 d’octubre, de bases de l’ordenament tributari.
+
+**Article 65. Notificacions i recursos de les infraccions**
+
+1. Prèviament a l’acte d’imposició d’una sanció, s’ha de notificar a la persona interessada la proposta de resolució amb indicació dels fets imputats, el precepte infringit i la quantia de la multa. La persona interessada disposa d’un termini de tretze dies hàbils per al·legar tot allò que consideri oportú per a la seva defensa.
+2. Transcorregut el termini d’al·legacions, l’òrgan competent dicta la resolució que correspongui, contra la qual es pot recórrer en els termes establerts en l’article 141 de la Llei 21/2014, del 16 d’octubre, de bases de l’ordenament tributari.
+3. En qualsevol cas, i perquè l’acte administratiu quedi en suspens, amb la interposició del recurs s’ha d’aportar una garantia suficient, ja sigui hipotecària o bé un aval o fiança d’una entitat bancària andorrana que garanteixi l’import total del deute tributari.
+
+#### Capítol XII. Ordre jurisdiccional
+
+**Article 66. Jurisdicció competent**
+
+La jurisdicció administrativa, amb l’exhauriment previ de la via administrativa en matèria tributària, és l’única competent per dirimir les controvèrsies de fet i dret que se suscitin entre el ministeri encarregat de les finances i els obligats tributaris en relació amb qualsevol de les qüestions a què es refereix aquesta Llei.
+
+**Reducció pel primer any d’aplicació de la Llei**
+
+El primer any d’aplicació de l’impost els obligats tributaris gaudeixen d’una reducció del 50% de la quota de liquidació.
+
+**Beneficis fiscals per la creació de petites empreses durant els tres primers anys**
+
+1. Per als obligats tributaris d’aquest impost que es constitueixin com nous empresaris d’una nova activitat empresarial o professional i que tinguin uns ingressos inferiors a 100.000 euros, el tipus de gravamen aplicable durant els 3 primers anys d’activitat és:
+a) El 5% per la part de la base de tributació compresa entre 0 i 50.000 euros.b) El 10% per la base de tributació restant.
+2. Aquesta bonificació fiscal no es podrà aplicar als obligats tributaris que realitzin o hagin realitzat algun tipus d’activitat, tant de forma directa com a través d’una societat.
+3. Reglamentàriament es determinen les formes, terminis i documentació necessària per acollir-se a aquests beneficis fiscals.
+
+**Pèrdues generades anteriorment a l’entrada en vigor d’aquesta Llei**
+
+Quan abans de l’entrada en vigor d’aquesta Llei una entitat hagi experimentat un resultat comptable negatiu, a partir dels exercicis comptables iniciats amb posterioritat a l’1 de gener de 2010, determinat d’acord amb el Pla general de comptabilitat i l’apartat 3 de l’article 9, aquestes pèrdues es poden compensar amb bases de tributació positives obtingudes amb posterioritat en els termes que preveu l’article 22.
+
+**Valor de l’immobilitzat tangible, intangible o inversions immobiliàries en funcionament prèviament a aquest impost**
+
+$a4
+
+**Base de tributació durant el primer any d’aplicació de l’impost**
+
+Si el període impositiu no coincideixi amb l’any natural, la base de tributació corresponent al primer període impositiu es calcula d’acord amb les normes que preveu aquesta Llei, però ponderant-la per la proporció entre els mesos transcorreguts durant 2012 sobre el total de mesos del seu exercici econòmic.
+
+**Pagament a compte durant el primer any d’aplicació de l’impost**
+
+Durant el primer any d’aplicació de l’impost, només s’exigeix el pagament a compte del mes de juny previst en l’article 45. Aquest es calcula aplicant el tipus de gravamen previst en l’article 41, sobre la base del 75% del resultat net comptable de l’any anterior al del període impositiu, determinat segons les normes que preveu la Llei 30/2007, del 20 de desembre, de la comptabilitat dels empresaris.
+
+**Taxa sobre el Registre de Titulars d’Activitats Econòmiques**
+
+Es deroga la Llei de la taxa sobre el Registre de Titulars d’Activitats Econòmiques, del 20 de desembre de 1995.
+
+**Modificació de la Llei de bases de l’ordenament tributari**
+
+El Govern ha de presentar en el termini d’un any a l’entrada en vigor d’aquesta Llei, un Projecte de llei de modificació de la Llei de bases de l’ordenament tributari, del 19 de desembre de 1996, que adapti i actualitzi els procediments de liquidació, gestió i control dels tributs en relació a les exigències i necessitats d’aquesta Llei.
+
+**Impost sobre plusvàlues immobiliàries**
+
+$a6
+
+**Llei de creació de la Cambra de Comerç, Indústria i Serveis**
+
+El primer apartat punt a) de l’article 14, Llei de creació de la Cambra de Comerç, Indústria i Serveis d’Andorra, de 3 de setembre de 1993 queda redactat de la forma següent:
+a) Les quotes que obligatòriament han de satisfer cada any els electors de la Cambra, en la quantia resultant d’aplicar l’alíquota que es determini en la Llei del Pressupost General sobre l’impost sobre societats i sobre l’impost sobre la renda de les activitats econòmiques. El meritament de la quota s’establirà en la mateixa Llei del Pressupost General. Les regles de la prescripció seran les aplicables en la legislació sobre les finances públiques de l’Estat. Tots els electors que, durant la totalitat o part d’un exercici econòmic tinguin inscrit el seu nom una o més activitats comercials, industrials o de serveis en el cens de la Cambra de Comerç estan obligats a pagar la quota.
+
+**Actualització dels imports**
+
+La Llei del Pressupost General pot actualitzar els tipus de gravamen o els límits quantitatius que estableix aquesta Llei, sense que això no pugui implicar modificacions substancials de l’impost que regula.
+
+**Habilitació normativa**
+
+1. S’encomana al Govern la redacció de les disposicions i dels reglaments necessaris pel desenvolupament i l’execució d’aquesta Llei en el termini de sis mesos des de la seva entrada en vigor.
+2. Els models de declaració d’aquest impost i els dels seus pagaments a compte són fixats per reglament, el qual ha d’establir, a més de la forma, el lloc i els terminis per presentar-los, els supòsits i les condicions de la seva presentació per mitjans telemàtics.
+3. Es delega al ministeri encarregat de les finances la gestió i recaptació de l’impost que regula aquesta Llei.
+4. Durant els sis primers mesos d’aplicació de l’impost, els obligats tributaris podran realitzar consultes relatives exclusivament a la interpretació de l’articulat de la Llei que hauran de ser contestades pel ministeri encarregat de les finances i que tindran caràcter vinculant. El Govern establirà reglamentàriament els termes i l’abast en què es podran efectuar aquestes consultes.
+
+**Aplicació de l’impost**
+
+Aquesta Llei és aplicable als períodes impositius que s’iniciïn a partir del primer dia natural de l’exercici immediatament posterior a la publicació al Butlletí Oficial del Principat d’Andorra d’una llei de l’impost sobre el valor afegit que substitueixi l’impost de mercaderies indirecte, l’impost indirecte sobre les prestacions de serveis empresarials i professionals, l’impost indirecte sobre la producció interna, i l’impost indirecte sobre les activitats comercials, i per a les rendes meritades a partir d’aquesta data.
+
+**Entrada en vigor**
+
+Aquesta Llei entra en vigor l’endemà de ser publicada al Butlletí Oficial del Principat d’Andorra.
+Casa de la Vall, 29 de desembre del 2010
+Josep Dallerès CodinaSíndic General
+Nosaltres els coprínceps la sancionem i promulguem i n’ordenem la publicació en el Butlletí Oficial del Principat d’Andorra.
+Joan Enric Vives SicíliaBisbe d’UrgellCopríncep d’AndorraNicolas SarkozyPresident de la República FrancesaCopríncep d’Andorra

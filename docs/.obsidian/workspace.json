@@ -11,10 +11,14 @@
             "id": "ff52099082dd6485",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gràfica"
+              "type": "markdown",
+              "state": {
+                "file": "temes/politica/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "temes/politica/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "temes/politica/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "temes/politica/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,27 +190,29 @@
   },
   "active": "ff52099082dd6485",
   "lastOpenFiles": [
-    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/aelc-pamies-cartes.html",
-    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/bnc-teresa-pamies-arxiu.html",
-    "raw/sdd/ewa/eloise-fontargente/google-books-1974-eloise.json",
-    "raw/sdd/ewa/eloise-fontargente/google-books-1974-pastor-petit.json",
+    "temes/cultura/musica-i-cancons/la-canco-popular-andorrana.md",
+    "fonts/deu-tradicio-coral.md",
+    "raw/lleis/contenciós-administratiu.txt",
+    "raw/lleis/transparencia.txt",
+    "raw/lleis/transicio-energetica.txt",
+    "raw/lleis/transferencies-comuns.txt",
+    "raw/lleis/tinenca-animals.txt",
+    "raw/lleis/societats.txt",
+    "raw/lleis/supervisio-prudencial.txt",
+    "raw/lleis/sistema-financer.txt",
+    "raw/lleis/serveis-socials.txt",
+    "raw/lleis/seguretat-xarxes.txt",
+    "temes/institucions/consell-general/el-consell-de-la-terra.md",
     "temes/costums/religiositat/les-religions-dandorra-avui.md",
     "fonts/pastor-andorra-diversa.md",
     "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/cepc-rpi-135-page-352.png",
     "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/cepc-rpi-135-page-351.png",
     "temes/llengua/politica-linguistica/qui-parla-que.md",
-    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/cepc-rpi-135-1975-resena.txt",
-    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/cepc-rpi-135-1975-resena.pdf",
     "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/consulta-aga-censura-esborrany.md",
     "temes/historia/moments-historics/la-cronologia-dandorra.md",
-    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/aga-informacio-ciutada.html",
-    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/aga-expedients-censura.html",
     "temes/historia/moments-historics/els-vuit-centenaris.md",
     "temes/historia/moments-historics/README.md",
-    "temes/historia/moments-historics",
     "temes/territori/clima-i-muntanya/laigua-i-la-neu.md",
-    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/bacardi-traduccions-pamies-censura.txt",
-    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/bacardi-traduccions-pamies-censura.pdf",
     "fonts/pons-neu-i-aigua.md",
     "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/consulta-pavello-esborrany.md",
     "fonts/sac-esport-i-salut.md",
@@ -222,11 +231,9 @@
     "raw/sdd/ewa/eloise-fontargente/xiv-congreso-page-07.png",
     "raw/sdd/ewa/eloise-fontargente/xiv-congreso-page-06.png",
     "raw/sdd/ewa/eloise-fontargente/README.md",
-    "temes/politica/sistema-electoral/la-desigualtat-del-vot.md",
     "raw/sdd/ewa/eloise-fontargente/iec-page-15.png",
     "raw/sdd/ewa/eloise-fontargente/iec-page-14.png",
     "raw/sdd/ewa/eloise-fontargente/iec-page-13.png",
-    "fonts/lopez-escenaris-de-futur.md",
     "raw/sdd/ewa/eloise-fontargente/bulletin-page-18.png",
     "raw/sdd/ewa/eloise-fontargente/bulletin-page-17.png"
   ]

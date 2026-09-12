@@ -1,0 +1,490 @@
+# Llei d'organismes d'inversió col·lectiva (Llei 10/2008)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/inversio-collectiva
+Articles: 85 · versions consolidades: 8
+Instantania del consolidat: 2026-09-12T05:30:11.952662Z
+
+---
+
+### Títol I. Disposicions generals
+
+**Article 1. Objectiu**
+
+La Llei té com a objectiu protegir els inversors i assegurar la transparència i el bon funcionament del mercat dels OIC.
+
+**Article 2. Definició**
+
+1. Són OIC els organismes que tenen per objecte invertir els patrimonis dels inversors i gestionar-los en béns, drets, valors negociables o altres instruments, financers o no, d’acord amb l’establert en els prospectes complets respectius i que estableixen sempre el rendiment de l’inversor en funció dels resultats col·lectius de l’organisme.
+2. Tret dels casos previstos en aquesta Llei, la gestió d’un OIC l’ha de dur a terme una societat gestora legalment autoritzada que exerceix les facultats de domini sense ser propietària de l’OIC, amb el concurs d’un dipositari, d’acord amb el que preveu el títol VI d’aquesta Llei.
+3. Els OIC no responen ni de les obligacions de l’entitat gestora ni de les pròpies de l’entitat dipositària ni de les dels partícips; només responen de les obligacions i de les despeses previstes en el seu reglament o en els seus documents constitutius/estatuts (en endavant, reglament).
+
+**Article 3. Àmbit d’aplicació**
+
+La Llei s’aplica:
+a) Als OIC de dret andorrà.b) A tots els altres OIC que es distribueixen a Andorra.c) A les societats gestores i als dipositaris dels OIC de dret andorrà.d) A les societats que distribueixin OIC a Andorra.e) A altres entitats/persones que prestin serveis relacionats amb OIC al Principat.
+
+### Títol II. OIC de dret andorrà
+
+#### Capítol primer. Règim general
+
+**Article 4. Forma jurídica**
+
+1. Els OIC de dret andorrà revesteixen la forma de fons o de societat o de qualsevol altra forma que s’estableixi en la normativa vigent i requereixen la seva inscripció en el registre corresponent de l’AFA en els termes que estableix l’article 42 d’aquesta Llei.
+2. Els OIC que revesteixen la forma de societat o qualsevol altra forma amb personalitat jurídica pròpia es consideren de dret andorrà si la corresponent persona jurídica és de dret andorrà. En cas que la gestió del patrimoni d’aquestes societats es dugui a terme a través d’una societat gestora, aquesta ha de ser de dret andorrà.
+Les SICAV només poden gestionar actius pel seu propi compte sense poder, en cap cas, rebre el mandat per gestionar actius en nom de tercers.
+3. Els OIC que revesteixen la forma de fons o qualsevol altra forma sense personalitat jurídica representats per una societat gestora es consideren de dret andorrà si la referida societat gestora és de dret andorrà.
+4. Els OIC estructurats com a fons són patrimonis separats sense personalitat jurídica pròpia que tenen, però, capacitat negocial i legitimació processal a través de la seva societat gestora, i s’atribueix al propi fons i no als seus partícips els drets i les obligacions que resultin de l’activitat contractual d’aquella; els partícips són els propietaris del fons, però no poden exercir cap acció o facultat de domini o disposició sobre el patrimoni del fons i, molt especialment, no tenen acció de divisió del patrimoni comú.
+5. La societat gestora té ple poder de representació i administració sobre el fons i tot el seu patrimoni. Les obligacions de fer a càrrec del fons les ha de complir la societat gestora o l’entitat dipositària en el marc de les seves obligacions conforme a aquesta Llei, les seves normes de desenvolupament i el reglament de cada fons; les obligacions patrimonials s’han de complir amb càrrec al patrimoni del fons.
+6. El centre efectiu d’administració dels OIC andorrans ha d’estar situat al Principat d’Andorra.
+
+**Article 5. Reserva de denominació**
+
+$1e
+
+**Article 6. Tipus**
+
+Hi ha dos tipus d’OIC de dret andorrà segons el marge de maniobra de què disposen en matèria d’inversions:
+- OICVM: OIC que segueixen les disposicions establertes en la secció primera, capítol tercer del títol II d’aquesta Llei quant a les inversions permeses i a la diversificació dels riscos.- Altres OIC: OIC que inverteixen en instruments financers i altres actius que no segueixen les disposicions establertes al punt anterior quant a les inversions i a la diversificació dels riscos.
+
+**Article 7. Característiques**
+
+$20
+
+**Article 8. Inscripció**
+
+1. Amb caràcter previ a tota distribució de parts d’OIC a través de qualsevol mitjà, virtual o no, i abans d’iniciar la recollida de subscripcions, els OIC s’han d’inscriure en els registres de l’AFA. L’AFA ha d’adjudicar un número d’inscripció a cada OIC introduït en els registres.
+2. La inscripció esmentada no es pot considerar en cap cas una apreciació positiva de l’AFA sobre la qualitat de les parts emeses.
+
+**Article 9. Reglament**
+
+$22
+
+**Article 10. Patrimoni**
+
+$24
+
+**Article 11. Valor liquidatiu/preu**
+
+$26
+
+**Article 12. Subscripcions i reembossaments**
+
+$28
+
+**Article 13. Parts**
+
+$2a
+
+**Article 14. Partícips/accionistes**
+
+$2c
+
+**Article 15. Resultats**
+
+1. Els resultats dels OIC s’obtenen deduint de la totalitat dels resultats i rendiments latents i realitzats obtinguts les comissions de la societat gestora i de l’entitat dipositària, les despeses d’auditoria i les altres despeses previstes al reglament dels OIC.
+2. La distribució de resultats s’ha d’ajustar al que estableix el reglament/els estatuts.
+3. Els rendiments dels inversors s’estableixen en funció dels rendiments de l’OIC.
+
+#### Capítol segon. SICAV
+
+**Article 16. Legislació aplicable**
+
+$2e
+
+**Article 17. Estatuts**
+
+Als estatuts s’hi ha de fer constar, en tot cas:
+1. La denominació i el domicili de la societat.
+2. L’objecte social.
+3. El capital social mínim i el capital social màxim l’aprovació del qual no requereix acord de la junta general.
+4. Les accions o participacions en què es divideix el capital, amb indicació del seu valor nominal i, quan sigui procedent, de la seva sèrie o classe.
+5. L’estructura de l’òrgan d’administració, amb indicació del poder de representació dels administradors i del sistema que s’ha de seguir per remunerar-los, si escau.
+6. Les diverses categories d’accions o participacions amb diferents drets, si escau.
+7. Les regles sobre convocatòria i quòrums d’assistència i votació a les juntes generals, sense que siguin aplicables els límits establerts a la Llei de societats anònimes i de responsabilitat limitada.
+
+**Article 18. Administració**
+
+1. Són òrgans d’administració i representació de la societat d’inversió els determinats en els seus estatuts, de conformitat amb les prescripcions de la legislació vigent.
+2. Quan així ho prevegin els estatuts, la junta general o, per delegació, el consell d’administració pot acordar que la gestió dels actius de la societat s’encomani a una societat gestora. L’eventual acord ha d’elevar-se a escriptura pública i inscriure’s en els registres de l’AFA.
+3. L’acord mencionat a l’apartat anterior no relleva els òrgans d’administració de la societat de cap de les obligacions i responsabilitats que la normativa vigent els imposi.
+4. Quan la societat d’inversió no hagi designat una societat gestora per dur a terme la gestió del seu patrimoni, ha de remetre a l’AFA en el moment de ser constituïda tota la informació sol·licitada d’acord amb la normativa vigent a les entitats gestores.
+
+#### Capítol tercer. Política d’inversió
+
+##### Secció primera. OICVM
+
+**Article 19. Definició i àmbit d’aplicació**
+
+1. Són organismes d’inversió col·lectiva en valors mobiliaris (OICVM) els OIC l’objectiu dels quals sigui la inversió exclusiva dels patrimonis del públic en valors negociables i/o altres instruments financers dels mencionats a l’article 20.
+2. Queden exclosos d’aquesta secció:
+- Els OIC que obtinguin capitals sense promoure públicament la venda de les seves parts.- Les categories d’OIC per als quals siguin inadequades les normes previstes en els articles 20 a 26 tenint en compte la seva política d’inversió i d’endeutament.- Les SICAV, els actius de les quals inverteixen a través de societats filials principalment en béns diferents dels valors negociables.
+3. Queda prohibida la transformació d’un OICVM regulat en aquesta secció en un OIC regulat en altres seccions d’aquesta mateixa Llei.
+
+**Article 20. Política d’inversió**
+
+$30
+
+**Article 21. Control de riscos**
+
+$32
+
+**Article 22. Diversificació dels riscos**
+
+$34
+
+**Article 23. Inversions emeses o garantides per organismes públics**
+
+$36
+
+**Article 24. Inversions en altres organismes d’inversió col·lectiva**
+
+$38
+
+**Article 25. Inversions prohibides**
+
+$3a
+
+**Article 26. Normes complementàries**
+
+1. Els límits establerts en aquesta secció poden no ser respectats en cas d’exercici de dret de subscripció vinculats a valors negociables que figurin a l’actiu de l’OICVM.
+2. Si es produeix una superació dels límits previstos a l’apartat 1 independent de la voluntat de l’OICVM o posteriorment a l’exercici de drets de subscripció, aquest ha de tenir com a objectiu prioritari regularitzar aquesta situació tenint en compte l’interès dels partícips.
+
+##### Secció segona. Altres OIC de dret andorrà
+
+**Article 27. Àmbit d’aplicació**
+
+Aquesta secció és d’aplicació per a tots els OIC de dret andorrà que no quedin inclosos dins l’àmbit d’aplicació de la secció anterior.
+
+**Article 28. Marge d’actuació**
+
+1. Els OIC regits per aquesta secció poden, entre d’altres, i sempre que estigui previst en el reglament de l’OIC i ho permeti la normativa vigent:
+- Fixar una diversificació més baixa dels seus actius.- Vendre a descobert.- Tenir una freqüència de càlcul del valor liquidatiu més baixa.- Incorporar actius més sofisticats a la seva cartera.
+2. S’habilita l’AFA a establir la regulació específica quant a les normes d’inversió, control i informació, entre altres, dels OIC esmenats així com de les seves entitats gestores.
+3. La comercialització dels OIC regulats en aquesta secció pot ser limitada per l’AFA a inversors qualificats en els casos en què el feble nivell de liquiditat que presenten o l’elevat risc que poden implicar ho justifiquin, vetllant en tot moment per la protecció dels inversors.
+
+**Article 29. Inversors qualificats**
+
+$3c
+
+**Article 30. OIC immobiliaris**
+
+$3e
+
+**Article 31. OIC alternatius**
+
+$40
+
+**Article 32. Altres OIC**
+
+1. En aquest apartat queden inclosos tots els OIC que a causa de la composició dels seus actius així com de la diversificació dels riscos no poden ser inclosos en cap altra de les categories establertes en aquesta secció.
+2. S’habilita l’AFA a limitar l’àmbit de distribució dels OIC esmentats d’acord amb les seves característiques i sempre vetllant per la protecció dels inversors.
+
+#### Capítol quart. Comptabilitat i estats financers
+
+**Article 33. Exercici comptable**
+
+1. L’exercici comptable de l’OIC coincideix amb l’any natural a excepció del primer, que comença a la data de constitució i s’acaba el 31 de desembre del mateix any.
+2. En cas que s’iniciïn les activitats durant l’últim trimestre de l’any, l’exercici comptable comença a la data de constitució i s’acaba el 31 de desembre de l’any següent.
+
+**Article 34. Normes comptables**
+
+$42
+
+**Article 35. Estats financers reservats**
+
+1. Els estats financers reservats dels OIC s’elaboren trimestralment.
+2. Sense perjudici de demandes puntuals que l’AFA pugui efectuar, aquest organisme ha de rebre els estats financers reservats dels OIC de dret andorrà corresponents a l’últim dia de cada trimestre durant el mes següent a la finalització del trimestre.
+3. Els estats financers reservats dels OIC són els establerts en les normes comptables vigents a cada moment. Els estats financers reservats han de contenir com a mínim el mateix contingut que els estats financers públics mentre aquests no es defineixen.
+
+**Article 36. Estats financers públics**
+
+1. Els estats financers públics s’elaboren com a mínim amb caràcter anyal i són auditats per una entitat auditora de prestigi reconegut.
+2. En el cas dels OIC, la formulació i l’aprovació dels seus comptes anuals correspon al consell d’administració de la societat gestora/societat d’inversió.
+3. Sense perjudici de les demandes puntuals, l’AFA ha de rebre els estats financers públics corresponents a cada exercici durant els tres mesos següents al tancament de l’exercici en qüestió i, en cas que s’elaborin amb una periodicitat superior a l’any, en el decurs dels tres mesos següents al tancament de l’auditoria.
+4. L’AFA estableix el contingut mínim dels estats financers públics dels OIC de dret andorrà.
+
+**Article 37. Auditoria externa**
+
+$44
+
+#### Capítol cinquè. Comercialització d’OIC de dret andorrà a l’estranger
+
+**Article 38. Comercialització a l’estranger**
+
+1. Les parts d’OIC andorrans poden ser comercialitzades a l’estranger a través d’entitats legalment habilitades per fer-ho.
+2. Prèviament a la comercialització esmentada, l’entitat gestora o la societat d’inversió ha de comunicar-ho a l’AFA.
+
+**Article 39. Requisits**
+
+$46
+
+**Article 40. Règim de les inversions estrangeres**
+
+En els termes establerts en la legislació d’inversions estrangeres, només estan subjectes al règim d’inversions estrangeres les inversions següents en OIC de dret andorrà:
+a) Participacions en OIC quan almenys el 50 per cent del seu actiu estigui compost per participacions en societats andorranes.b) Participacions en OIC quan almenys el 50 per cent del seu actiu estigui compost per béns immobles situats al territori del Principat d’Andorra o drets reals sobre aquests.
+
+### Títol III. OIC de dret estranger
+
+**Article 41. Requisits**
+
+1. La distribució a Andorra d’accions o participacions d’OIC autoritzats a l’estranger en requereix la inscripció prèvia a l’AFA. La inscripció esmentada ha de quedar reflectida en tot document i publicitat de l’OIC que sigui difosa a Andorra. No és necessari el registre per a la venda dels OIC estrangers que no suposin distribució sinó la mera intermediació o transmissió d’ordres relatives a l’adquisició per compte de clients de les seves accions o participacions.
+2. La distribució ha de ser duta a terme mitjançant els distribuïdors autoritzats en els termes que estableix el títol III d’aquesta Llei.
+3. L’AFA pot exigir a l’intermediari en qüestió la informació periòdica que consideri necessària sobre els OIC distribuïts a Andorra pel compliment de les seves obligacions.
+4. L’AFA pot establir la qualificació d’intermediació per comunicat tècnic.
+
+### Títol IV. Constitució, distribució, modificació, dissolució i liquidació
+
+#### Capítol primer. Constitució i modificació
+
+**Article 42. Constitució dels OIC de dret andorrà**
+
+$48
+
+**Article 43. Documents que cal aportar per obtenir l’autorització prèvia de constitució d’un OIC de dret andorrà**
+
+$4a
+
+**Article 44. Modificacions dels OIC de dret andorrà**
+
+$4c
+
+**Article 45. Documents que cal aportar per obtenir l’autorització prèvia de constitució i/o de modificació d’OIC de dret andorrà**
+
+$50
+
+**Article 46. Resolució de les sol·licituds d’autorització prèvia de constitució i/o de modificació d’OIC de dret andorrà**
+
+1. Les sol·licituds d’autorització prèvia de constitució o de modificació d’OIC han de ser resoltes dins dels 30 dies hàbils a comptar de la seva recepció a l’AFA o a partir del moment en què es completi la documentació exigible. En cas que no es trameti la informació complementària sol·licitada per l’AFA en el termini de 20 dies hàbils, la sol·licitud es desestima.
+2. L’AFA, mitjançant resolució motivada, denega les sol·licituds quan no es compleixen els requisits previstos en la normativa vigent. Contra les resolucions de l’AFA es pot interposar recurs davant la Secció Administrativa del Tribunal de Batlles en el termini de tretze dies hàbils a partir de l’endemà de la notificació de la resolució de la sol·licitud.
+
+#### Capítol segon. Inscripció, dissolució i liquidació
+
+**Article 47. Requisits per a la inscripció als registres de l’AFA**
+
+$52
+
+**Article 48. Termini per a la resolució de les sol·licituds d’inscripció**
+
+L’AFA resol les sol·licituds d’inscripció dels OIC andorrans o estrangers en el termini màxim de 30 dies hàbils a comptar de la seva recepció o a partir del moment en què es completi la informació complementària requerida. En cas que no es trameti la informació complementària sol·licitada per l’AFA en el termini de 20 dies hàbils, la sol·licitud es desestima.
+
+**Article 49. Refús de l’autorització i/o inscripció**
+
+1. Es pot refusar la inscripció en cas que:
+- No es compleixin els requisits formals o de fons establerts en la normativa vigent.- Hi hagi obstacles per a una supervisió adequada dels OIC, de les seves gestores o dels seus dipositaris.- No s’hagi completat l’expedient d’autorització.- La societat gestora i/o dipositària no disposin dels mitjans adequats per desenvolupar les tasques que els són encomanades.- Els mitjans de control de la gestora o de la dipositària siguin insuficients.- Es consideri insuficient la informació de les inversions de l’OIC realitzades mitjançant altres fons (fons de fons, fons subordinats, etc.).- No es preservin els drets dels inversors.
+2. Per als OIC estrangers que inverteixen els seus actius indirectament mitjançant altres OIC (subordinats, fons de fons), si l’AFA considera que no hi ha les mateixes garanties per als inversors que les existents amb els organismes d’inversió andorrans, refusa l’autorització de distribució a Andorra d’aquests organismes d’inversió.
+
+**Article 50. Retirada de l’autorització**
+
+L’AFA pot retirar l’autorització atorgada a un OIC quan aquest:
+a) No hagi fet ús de l’autorització en un termini de 6 mesos, hi renunciï expressament o hagi cessat la seva activitat durant més de 6 mesos.b) No hagi sol·licitat la inscripció de l’OIC durant els 3 mesos posteriors a la notificació de la resolució d’autorització prèvia.c) Hagi obtingut l’autorització a partir de declaracions falses o de qualsevol altre mitjà irregular.d) Deixi de reunir les condicions a les quals estava supeditada la concessió d’autorització.e) Tingui falta de transparència de l’entitat gestora o de la societat d’inversió.f) Tingui dubtes, generats per l’actitud de l’entitat gestora o de la societat d’inversió, que no permetin a l’AFA desenvolupar de manera satisfactòria les tasques que la llei li té encomanades.g) Sigui per qualsevol dels motius exposats en aquesta Llei i per als quals aquesta sigui la sanció.
+
+**Article 51. Dissolució i liquidació**
+
+$54
+
+**Article 52. Registres mantinguts per l’AFA**
+
+L’AFA manté els registres públics següents:
+1. Registre de societats gestores i d’entitats que actuïn com a dipositàries.
+2. Registre d’OICVM creats d’acord amb la secció primera del capítol tercer del títol II d’aquesta Llei.
+3. Registre d’altres OIC diferenciant segons si es tracta:
+- D’OIC immobiliaris.- D’OIC alternatius.- D’altres OIC.
+4. Registre d’OIC de dret estranger distribuïts a Andorra.
+5. Registre dels prospectes.
+6. Registre de les entitats distribuïdores.
+7. Registre d’intermediaris agents comercials.
+
+**Article 53. Sense contingut**
+
+Sense contingut
+
+#### Capítol tercer. Distribució
+
+**Article 54. Distribuïdors**
+
+1. Només poden ser entitats distribuïdores d’OIC a Andorra:
+- Les entitats bancàries de dret andorrà.- Les societats gestores d’OIC de dret andorrà.- Altres entitats autoritzades per realitzar aquesta activitat al Principat.
+2. Les entitats que contractin els serveis d’intermediaris/agents comercials que donen a conèixer els seus OIC, la societat gestora, la dipositària o bé la distribuïdora amb l’objecte de promocionar la venda d’OIC, han de notificar a l’AFA, amb caràcter previ, el contracte que els inscriurà al registre corresponent. Aquests intermediaris i agents han de complir tota la normativa andorrana que els sigui d’aplicació.
+3. L’entitat que hagi contractat els serveis d’aquests intermediaris/agents comercials ha de facilitar tota la informació que requereixi l’AFA en relació amb les activitats relacionades amb l’entitat dutes a terme per aquests.
+
+### Títol V. Informació als inversors
+
+#### Capítol primer. Informació
+
+**Article 55. Obligacions d’informació**
+
+$58
+
+**Article 56. Prospecte complet i prospecte simplificat**
+
+$5a
+
+**Article 57. Informes**
+
+1. Els informes han de ser tramesos a l’AFA tan bon punt es publiquin d’acord amb el que estableix l’article 55.
+2. Han d’incloure com a mínim la informació prevista en l’annex II d’aquesta Llei i s’han de trametre gratuïtament als partícips que ho sol·licitin.
+3. Els informes s’han de posar a disposició del públic mitjançant suport físic o virtual en els llocs que s’indiquin en els prospectes.
+4. En els casos en què el valor liquidatiu sigui calculat semestralment, l’entitat gestora pot reduir la freqüència anyal de les publicacions a dos, corresponents a la dels 6 primers mesos i a la del tancament de l’exercici.
+
+#### Capítol segon. Publicitat
+
+**Article 58. Publicitat dels OIC**
+
+1. La publicitat dels OIC ha de complir les normes específiques que pugui dictar l’AFA.
+2. Queda prohibida la publicitat dels OIC dirigits a inversors qualificats en suports i mitjans de divulgació d’abast general, no adreçats particularment a aquest tipus d’inversor.
+3. La publicitat ha d’incloure el número de registre que li hagi estat concedit en el moment de la seva inscripció a l’AFA.
+
+**Article 59. Contingut dels documents publicitaris**
+
+$5e
+
+### Títol VI. Societats gestores i dipositàries
+
+#### Capítol primer. Disposicions comunes
+
+**Article 60. Societats gestores i dipositàries**
+
+$62
+
+#### Capítol segon. Funcions i obligacions
+
+**Article 61. Funcions conjuntes de la societat gestora i dipositària**
+
+1. La societat gestora i la dipositària, conjuntament, elaboren els reglaments dels OIC i els constitueixen mitjançant escriptura pública.
+2. La societat gestora i l’entitat dipositària estableixen conjuntament el contracte escrit de dipositària.
+3. La societat gestora i la dipositària elaboren, emeten, distribueixen i suprimeixen conjuntament els certificats de participació.
+
+**Article 62. Funcions de la societat gestora**
+
+$64
+
+**Article 63. Obligacions de la societat gestora**
+
+$66
+
+**Article 64. Funcions del dipositari**
+
+Són funcions del dipositari:
+1. Mantenir i custodiar els actius de l’OIC, si bé pot encomanar la subcustòdia dels actius a un tercer o a un dipositari central de títols a Andorra o a l’estranger.
+2. Liquidar les operacions sobre instruments financers i altres actius de l’OIC i les operacions passives de l’OIC.
+3. Vetllar perquè la societat gestora o l’OIC compleixi les normes previstes a la llei, el reglament i el prospecte, en relació amb els aspectes següents:
+a) Procediments de càlcul del valor liquidatiu així com el del preu d’emissió i reembossament de les accions o participacions de l’OIC.b) Les decisions d’inversió dels OIC.c) Les distribucions de resultats de l’OIC.
+
+**Article 65. Obligacions del dipositari**
+
+1. El dipositari no es pot oposar a executar les ordres rebudes del gestor sempre que s’ajustin al que preveu el reglament de l’OIC i la legislació vigent al Principat.
+2. El dipositari ha d’indicar a la societat gestora les rectificacions sobre els procediments que empra que consideri oportunes per al bon desenvolupament de les seves funcions.
+3. El dipositari ha de comunicar a l’AFA les actuacions i els procediments de la societat gestora que no consideri adequats, i que aquesta no hagi considerat oportú revisar.
+
+**Article 66. Responsabilitats de la societat gestora i del dipositari**
+
+1. Ambdues entitats, en l’exercici de les seves funcions respectives, actuen de manera independent.
+2. La societat gestora i el dipositari són responsables, envers els partícips, de tot perjudici patit per ells a causa de la no-execució o de la mala execució de les seves obligacions.
+3. La responsabilitat del dipositari o de la societat gestora no es veu afectada pel fet de delegar part de les seves funcions.
+
+**Article 67. Organització de la societat gestora i de la dipositària**
+
+1. Els dipositaris i la societat gestora han d’establir els mecanismes i els procediments adequats per garantir que, en cap cas, la disposició dels actius de l’OIC no es faci sense el seu consentiment i autorització.
+2. L’entitat gestora i el dipositari poden compartir recursos amb exclusió del personal, sempre que, d’una banda, es reuneixen les condicions per protegir els inversors i evitar conflictes d’interessos i, d’altra banda, se sol·liciti autorització prèvia a l’AFA.
+3. Les entitats gestores que inverteixin en derivats han de disposar de sistemes de gestió que garanteixin una valoració quotidiana dels contractes, una anàlisi dels riscos realitzada per àrees o departaments separats i un desglossament de les estratègies desenvolupades.
+
+**Article 68. Contingut del contracte de dipositària**
+
+El contracte de dipositària regula les relacions entre societat gestora i entitat dipositària i ha d’incloure com a mínim els punts següents:
+- Denominació social d’ambdues entitats.- Definició de l’objecte del contracte (establir els drets i les obligacions de les parts).- Funcions del dipositari.- Obligacions del dipositari.- Responsabilitats d’ambdues parts.- Actuacions del gestor necessàries perquè el dipositari pugui desenvolupar correctament la seva tasca.- Remuneració del dipositari.- Durada del contracte (incloses les clàusules de substitució de l’entitat dipositària).
+Aquest contingut pot incloure’s, en lloc de fer-ho al contracte de dipositària, als documents constitutius de l’OIC.
+
+#### Capítol tercer. Delegacions i substitució
+
+**Article 69. Facultats de delegació de la societat gestora**
+
+1. La societat gestora pot delegar:
+a) La gestió administrativa.b) La gestió de l’actiu.c) La gestió del passiu.d) La distribució.
+2. No és possible la delegació simultània de les funcions previstes en els punts a) i b).
+3. La delegació de la gestió del passiu només s’autoritza en cas que es delegui al dipositari.
+4. Quan es delega qualsevol funció al dipositari, cal que les funcions delegades siguin exercides amb total independència de les funcions pròpies del dipositari.
+5. Les delegacions no eximeixen la societat gestora de les responsabilitats que li corresponen en aplicació d’aquesta Llei.
+6. El reglament de l’OIC ha de recollir les facultats de delegació efectives.
+
+**Article 70. Facultats de delegació del dipositari**
+
+1. El dipositari pot delegar la custòdia dels valors en entitats bancàries o altres entitats amb unes normes cautelars que l’AFA consideri equivalents a les vigents a Andorra, autoritzades per dur a terme la custòdia d’aquests actius d’acord amb les limitacions establertes en aquesta Llei.
+2. Aquesta delegació no eximeix l’entitat dipositària de les responsabilitats que li corresponen en aplicació d’aquesta Llei.
+3. En cap cas no s’autoritza el dipositari a delegar la dipositària dels OIC.
+4. El reglament ha de recollir les facultats de delegació efectives.
+
+**Article 71. Comunicació i autorització de les delegacions**
+
+$68
+
+**Article 72. Substitució de la societat gestora i del dipositari**
+
+$6a
+
+#### Capítol quart. Remuneració
+
+**Article 73. Remuneració de la societat gestora i del dipositari**
+
+$6c
+
+#### Capítol cinquè. Normes de conducta
+
+**Article 74. Normes de conducta**
+
+Les societats gestores, les entitats dipositàries i les entitats comercialitzadores/distribuïdores estan sotmeses al compliment de les normes de conducta vigents del sistema financer. Queden també sotmeses a aquestes normes les SICAV que no disposin de societat gestora i que duguin a terme la tasca de gestió de la societat.
+
+### Títol VII. Supervisió de l’AFA i règim disciplinari
+
+#### Capítol primer. Supervisió de l’AFA
+
+**Article 75. Responsabilitat**
+
+$6e
+
+**Article 76. Competències**
+
+$70
+
+#### Capítol segon. Règim disciplinari
+
+**Article 77. Infraccions molt greus**
+
+$72
+
+**Article 78. Infraccions greus**
+
+$74
+
+**Article 79. Infraccions lleus**
+
+$76
+
+**Article 80. Sancions per infraccions molt greus**
+
+$78
+
+**Article 81. Sancions per infraccions greus**
+
+$7a
+
+**Article 82. Sancions per infraccions lleus**
+
+1. Per la comissió d’infraccions lleus s’ha d’imposar a l’entitat una de les sancions següents:
+a) Amonestació privada.b) Sanció per un import de fins a 30.000 euros.
+
+**Article 83. Substitució d’òrgans**
+
+1. Per assegurar la continuïtat en l’administració i direcció de l’entitat, en cas que sigui estrictament necessari, l’òrgan que imposi la sanció pot disposar el nomenament amb caràcter provisional dels membres que calgui perquè l’òrgan col·legiat d’administració pugui adoptar acords.
+2. Aquestes persones exerceixen els seus càrrecs fins que, per l’òrgan competent, es proveeixin immediatament els nomenaments corresponents i en prenguin possessió els designats, en el seu cas, fins que transcorri el termini de suspensió.
+
+**Article 84. Mesures cautelars**
+
+En el marc d’un expedient sancionador, l’AFA pot exigir en interès dels inversors o en interès públic la suspensió de la subscripció o del reembossament de les parts.
+
+### Títol VII. Supervisió de l’INAF i règim disciplinari
+
+#### Capítol segon. Règim disciplinari
+
+**Disposició transitòria**
+
+Tots els OIC i les entitats a les quals els sigui d’aplicació aquesta Llei disposen d’un termini d’un any des de la seva entrada en vigor per efectuar les adaptacions necessàries i sol·licitar la corresponent inscripció a l’INAF dels OIC de dret andorrà o estrangers que siguin gestionats o siguin distribuïts a Andorra dins de la categoria corresponent, i adjuntar-hi els documents requerits en aquesta Llei. L’INAF disposa d’un termini de 90 dies hàbils per resoldre l’expedient.

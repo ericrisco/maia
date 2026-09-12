@@ -133,3 +133,4 @@ saber què van signar les persones entrevistades.**
 - [Cultura popular](../cultura-popular/cultura-popular.md) — el buit que podria tancar.
 - [Els usos i costums](../cultura-popular/els-usos-i-costums.md) — els informants que es moren.
 - [L'estàndard contra la varietat](../../llengua/dialectologia/lestandard-contra-la-varietat.md) — per què RTVA no basta.
+- [La cançó popular andorrana](../musica-i-cancons/la-canco-popular-andorrana.md) — l'altre fons oral andorrà localitzat, i aquest ja està editat.

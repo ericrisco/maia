@@ -1,0 +1,388 @@
+# Llei d'ordenació i supervisió d'assegurances (Llei 12/2017)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/assegurances
+Articles: 72 · versions consolidades: 4
+Instantania del consolidat: 2026-09-12T05:30:04.986338Z
+
+---
+
+### Títol I. Disposicions generals
+
+#### Capítol primer. Objecte i àmbit d’aplicació
+
+**Article 1. Objecte**
+
+1. Aquesta Llei té per objecte establir el règim de regulació i supervisió del mercat d’assegurances i reassegurances del Principat d’Andorra, amb la finalitat de garantir-ne la transparència, promoure’n el desenvolupament ordenat, i tutelar els drets dels prenedors, els assegurats i els beneficiaris.
+2. En particular, en aquesta Llei s’estableixen les condicions d’accés a l’activitat i el seu exercici, el règim aplicable en matèria de supervisió i solvència, i també s’hi regula el sanejament i la liquidació de les entitats asseguradores i reasseguradores domiciliades al Principat d’Andorra.
+3. Les funcions de supervisió i control del mercat d’assegurances i reassegurances del Principat d’Andorra s’han d’efectuar per mitjà de l’Autoritat Supervisora d’Assegurances i Reassegurances.
+
+**Article 2. Àmbit subjectiu**
+
+1. Queden sotmeses a aquesta Llei les entitats següents:
+a) Les entitats asseguradores i reasseguradores amb domicili social al Principat d’Andorra.b) Els grups d’entitats asseguradores i reasseguradores, sempre que totes les entitats, o almenys l’entitat dominant, tinguin el domicili social al Principat d’Andorra.c) Les entitats asseguradores i reasseguradores amb domicili social fora del Principat d’Andorra que exerceixin la seva activitat en el territori del Principat.
+2. Així mateix, queden sotmeses a aquesta Llei:
+a) Les persones físiques o jurídiques que, a l’empara de qualsevol títol, exerceixin la direcció efectiva de les entitats indicades en les lletres precedents i, en particular, els integrants dels seus òrgans d’administració.b) Els directors generals, els gerents i la resta de persones que, sota l’autoritat dels òrgans d’administració respectius, exerceixin càrrecs o funcions d’alta direcció a les entitats indicades en les lletres precedents.c) Les persones físiques o jurídiques que siguin responsables de les delegacions de les entitats asseguradores que hi hagi al Principat d’Andorra amb domicili social fora del Principat.d) Les persones físiques o jurídiques a qui les entitats asseguradores o reasseguradores hagin externalitzat funcions d’acord amb el que estableix aquesta Llei.e) Les persones físiques o jurídiques que, amb l’autorització prèvia de l’Autoritat Supervisora d’Assegurances i Reassegurances, acceptin l’exercici de les funcions previstes en aquesta Llei o en les disposicions reglamentàries.f) Les persones físiques designades per representar amb caràcter permanent o estable les persones jurídiques que exerceixin qualsevol dels càrrecs o funcions indicats a les lletres precedents.g) Qualsevol altra persona física o jurídica en relació amb la qual aquesta Llei estableixi algun efecte o conseqüència jurídica.
+
+**Article 3. Àmbit objectiu**
+
+Queden sotmeses a aquesta Llei les activitats següents:
+a) L’activitat d’assegurança directa de vida i assegurança directa diferent de l’assegurança de vida.b) L’activitat de reassegurança.c) Les operacions preparatòries o complementàries de l’assegurança o la reassegurança practicades per les entitats asseguradores o reasseguradores, o per les persones que hi estiguin vinculades, llevat que siguin algunes de les activitats excloses de l’àmbit d’aquesta Llei.d) Les activitats de prevenció de danys vinculades a l’activitat d’assegurança.e) Qualsevol altra activitat quan així ho determini una norma amb rang de llei.
+
+**Article 4. Activitats prohibides**
+
+$1e
+
+**Article 5. Activitats excloses**
+
+Queden excloses de l’àmbit d’aplicació d’aquesta Llei les activitats següents:
+a) Les activitats de mediació d’assegurances, sense perjudici del deure d’inscripció establert per la disposició addicional tercera d’aquesta Llei.b) La prestació de serveis professionals o la subscripció de contractes d’abonament concertats per prestar serveis de conservació, manteniment, reparació i altres d’anàlegs, sempre que en virtut d’aquests contractes no s’assumeixin obligacions de cobertura d’un risc tècnicament assegurable.c) La garantia mútua de riscos gestionada per organitzacions o agrupacions sense personalitat jurídica quan no comporti el pagament de primes ni la constitució de provisions tècniques.d) La mera prestació de serveis d’assistència mecànica a l’automòbil realitzada pels clubs automobilístics als seus socis.e) Les sotmeses al règim de la Seguretat Social obligatòria.f) Les relatives a la gestió i la subscripció dels plans i fons de pensions.
+
+#### Capítol segon. Definicions
+
+**Article 6. Definicions**
+
+$20
+
+### Títol II. Els òrgans de regulació i supervisió
+
+**Article 7. L’Autoritat Supervisora d’Assegurances i Reassegurances. Règim jurídic bàsic**
+
+$24
+
+**Article 8. Potestats de control i supervisió**
+
+$26
+
+**Article 9. Criteris d’exercici de les potestats de supervisió**
+
+$2a
+
+**Article 10. Criteris d’exercici de les potestats de supervisió respecte de grups d’entitats asseguradores o reasseguradores**
+
+$2c
+
+**Article 11. Criteris d’exercici de les potestats de supervisió davant situacions de deteriorament financer i de dificultat financera**
+
+$2e
+
+**Article 12. Supervisió macroprudencial**
+
+$30
+
+**Article 13. Mecanismes de cooperació interna i transfronterera**
+
+$32
+
+**Article 14. Deures de confidencialitat i reserva**
+
+$34
+
+### Títol III. Accés a l’activitat
+
+#### Capítol primer. Deure d’obtenció d’autorització
+
+**Article 15. Deure d’obtenció d’autorització**
+
+1. Les entitats interessades a començar a exercir qualsevol de les activitats incloses dins l’àmbit d’aplicació d’aquesta Llei han d’obtenir, amb caràcter previ, l’autorització corresponent de l’Autoritat Supervisora d’Assegurances i Reassegurances.
+2. Les entitats interessades a ampliar la seva activitat a un ram diferent del que s’havia autoritzat també queden subjectes al deure d’obtenir, amb caràcter previ, l’autorització de l’Autoritat Supervisora d’Assegurances i Reassegurances.
+3. Les resolucions relatives a autoritzacions s’han de formular amb caràcter específic i individual.
+4. Tant l’atorgament com la denegació i la revocació d’autoritzacions s’han de publicar al
+Butlletí Oficial del Principat d’Andorra
+.
+
+**Article 16. Activitats realitzades sense autorització**
+
+$36
+
+#### Capítol segon. Requisits per a l’atorgament de l’autorització
+
+**Article 17. Requisits**
+
+Els requisits per a atorgar l’autorització són presentar davant l’Autoritat Supervisora d’Assegurances i Reassegurances la sol·licitud corresponent i acompanyar aquesta sol·licitud amb la documentació que acrediti el compliment de les exigències que aquesta Llei i el seu desplegament reglamentari estableixen en relació amb la forma jurídica, les mencions estatutàries, el programa d’activitats, el capital social mínim, les participacions significatives i els vincles estrets, l’honorabilitat i la professionalitat de les persones a les quals s’atribueixen funcions de direcció efectiva.
+
+**Article 18. Forma jurídica**
+
+1. Les entitats sol·licitants han de tenir la forma de societat anònima i han d’estar degudament inscrites en el Registre de Societats Mercantils. Les entitats asseguradores domiciliades a l’estranger han de tenir un delegat al Principat; en cas que sigui una societat mercantil, ha d’estar degudament constituïda i inscrita en el Registre de Societats Mercantils.
+2. Les persones físiques no poden dur a terme activitats d’assegurança o reassegurança per compte i en nom propis.
+
+**Article 19. Mencions estatutàries**
+
+$38
+
+**Article 20. Programa d’activitats**
+
+1. Les entitats sol·licitants han de presentar un programa d’activitats en què expressin:
+a) Els tipus de riscos que volen cobrir.b) Les activitats que volen dur a terme.c) Els principis rectors en matèria de reassegurança i retrocessió.d) Els components dels fons propis bàsics constitutius del capital mínim obligatori.e) El pla estratègic.
+2. Tots els punts inclosos en el programa d’activitats s’han d’acreditar degudament.
+3. El programa d’activitats s’ha d’actualitzar en cas que s’hi produeixin canvis substancials i, en tots els casos, cada tres anys. Un cop actualitzat, l’entitat ho ha de comunicar a l’Autoritat Supervisora d’Assegurances i Reassegurances.
+
+**Article 21. Capital social mínim**
+
+1. El capital social mínim, íntegrament subscrit i desemborsat en el moment de la presentació de la sol·licitud, ha de ser el següent:
+a) Per a les entitats asseguradores amb caràcter general, 600.000 euros.b) Per a les entitats asseguradores de prestació de serveis, 240.000 euros.c) Per a les entitats reasseguradores, 3.000.000 d’euros.
+2. El capital social mínim de les entitats asseguradores i reasseguradores ha d’estar totalment subscrit i desemborsat.
+3. Les entitats sol·licitants també han d’acreditar, a satisfacció de l’Autoritat Supervisora d’Assegurances i Reassegurances, que disposen dels fons propis bàsics admissibles per cobrir de forma adequada el capital de solvència obligatori i el capital mínim obligatori.
+4. Les entitats no poden distribuir dividends o realitzar qualsevol tipus de distribució als seus socis quan d’aquesta distribució pugui derivar-se l’incompliment del capital de solvència obligatori o del capital mínim obligatori.
+
+**Article 22. Informació sobre participacions significatives i vincles estrets**
+
+$3a
+
+**Article 23. Persones amb funcions d’alta direcció**
+
+$3c
+
+**Article 24. Honorabilitat i professionalitat**
+
+$3e
+
+#### Capítol tercer. Procediment
+
+**Article 25. Competència**
+
+1. Correspon a l’Autoritat Supervisora d’Assegurances i Reassegurances la competència per a la tramitació i la resolució dels expedients de sol·licitud de les autoritzacions a què es refereix aquest títol.
+El director general de l’Autoritat Supervisora d’Assegurances i Reassegurances dicta la resolució d’atorgament o denegació de l’autorització, la qual és recurrible en alçada davant del Consell d’Administració de l’Autoritat Supervisora d’Assegurances i Reassegurances dins el termini d’un mes comptat de l’endemà de la data de notificació de la resolució.
+2. Contra la resolució definitiva de denegació o revocació de l’autorització dictada pel Consell d’Administració es pot interposar recurs davant la Secció Administrativa de la Batllia en el termini d’un mes comptat a partir de l’endemà de la notificació de la resolució.
+
+**Article 26. Tramitació i resolució**
+
+$42
+
+**Article 27. Efectes de l’atorgament de l’autorització**
+
+$44
+
+#### Capítol quart. Registre d’Entitats Asseguradores i Reasseguradores
+
+**Article 28. Règim jurídic del Registre d’Entitats Asseguradores i Reasseguradores**
+
+$46
+
+#### Capítol cinquè. Règim especial de les entitats domiciliades fora del Principat d’Andorra
+
+**Article 29. Entitats asseguradores domiciliades fora del Principat d’Andorra**
+
+$48
+
+**Article 30. Entitats reasseguradores domiciliades fora del Principat d’Andorra**
+
+Les entitats reasseguradores domiciliades fora del Principat d’Andorra que únicament tenen com activitat en el territori del Principat l’acceptació de la reassegurança de les entitats asseguradores amb domicili al Principat, poden dur a terme la mateixa sense necessitat d’autorització administrativa prèvia ni necessitat de designar delegat.
+
+### Títol IV. Règim d’exercici de l’activitat
+
+#### Capítol primer. Transparència
+
+**Article 31. Comptabilitat i auditoria externa dels comptes anuals**
+
+$4a
+
+**Article 32. Deures de comunicació a l’Autoritat Supervisora d’Assegurances i Reassegurances**
+
+$4e
+
+**Article 33. Informació pública**
+
+$50
+
+**Article 34. Govern corporatiu**
+
+$52
+
+#### Capítol segon. Gestió de riscos
+
+**Article 35. Control intern**
+
+$54
+
+**Article 36. Auditoria interna**
+
+1. Les entitats asseguradores i reasseguradores i les entitats de les quals depenen les delegacions han de disposar, d’acord amb els termes de proporcionalitat que determini el reglament, d’una funció eficaç d’auditoria interna que es desenvolupi d’acord amb els principis d’objectivitat i independència.
+2. La funció d’auditoria interna ha de garantir la comprovació de l’adequació i l’eficàcia del sistema de control intern i del sistema de govern corporatiu.
+
+**Article 37. Funció actuarial**
+
+1. Les entitats asseguradores i reasseguradores i les entitats de les quals depenen les delegacions han de disposar d’una funció actuarial efectiva a càrrec de personal adequat.
+2. A aquest efecte, a cada entitat hi ha d’haver almenys una persona que reuneixi els requisits següents:
+a) Possessió de coneixements de matemàtica actuarial i financera d’un nivell adequat a la naturalesa, al volum i a la complexitat dels riscos que assumeix l’entitat.b) Experiència professional mínima de tres anys en el sector financer o assegurador en l’exercici d’una funció en l’àmbit actuarial.
+
+**Article 38. Avaluació interna i gestió de riscos i de solvència**
+
+1. La funció d’avaluació interna de riscos i de solvència ha de formar part de l’estratègia de negoci de l’entitat i, en conseqüència, ha de ser rellevant en el procés d’adopció de les decisions estratègiques.
+2. L’exercici de la funció d’avaluació interna de riscos i de solvència ha de donar lloc a l’emissió d’un informe anual, que s’ha de presentar en el decurs del primer semestre posterior al tancament de l’exercici de referència, i també d’informes específics en cas que es produeixi un canvi significatiu del perfil del risc de l’entitat. Aquests informes s’han d’enviar a l’Autoritat Supervisora d’Assegurances i Reassegurances dins el termini de cinc dies hàbils des del moment que s’emetin i es signin.
+3. L’avaluació interna dels riscos i de la solvència s’ha de desenvolupar de conformitat amb el que disposi el reglament.
+
+**Article 39. Verificació del compliment normatiu**
+
+1. Les entitats asseguradores i reasseguradores i les entitats de les que depenen les delegacions han de disposar, d’acord amb els termes de proporcionalitat que determini el Reglament, d’una funció de verificació del compliment normatiu.
+2. La funció de verificació del compliment normatiu inclourà l’assessorament de l’òrgan d’administració en matèria de compliment de les disposicions legals, reglamentàries i administratives que afectin a l’entitat, així com de compliment de la seva normativa interna, si s’escau. Addicionalment, la funció de verificació del compliment normatiu comprendrà l’avaluació de l’impacte les modificacions de l’entorn legal en les operacions de l’entitat.
+
+**Article 40. Regles de valoració. Provisions tècniques**
+
+$56
+
+**Article 41. Fons propis**
+
+1. Els fons propis de les entitats asseguradores i reasseguradores, així com de les delegacions, han de ser iguals a la suma dels fons propis bàsics i els fons propis complementaris, i s’han d’estipular per reglament els tipus d’actius i passius que s’inclouran en el càlcul de totes dues classes de fons propis. Pel que fa a la seva aplicació:
+a) Els fons propis bàsics són computables per a la cobertura del capital de solvència obligatori i del capital mínim obligatori.b) Els fons propis complementaris només són computables per a la cobertura del capital de solvència obligatori i no són admissibles per cobrir el capital mínim obligatori.
+2. Els fons propis de les entitats asseguradores i reasseguradores, així com les delegacions, s’han de classificar en tres nivells, denominats nivell 1, nivell 2 i nivell 3, la composició dels quals s’ha d’establir per la via reglamentària.
+
+**Article 42. Solvència**
+
+$58
+
+**Article 43. Inversions**
+
+1. Les entitats han d’invertir els seus recursos d’acord amb el principi de prudència.
+2. Les entitats només han d’invertir en actius i instruments els riscos dels quals puguin determinar, mesurar, vigilar, gestionar i controlar degudament, a més d’informar adequadament sobre aquests actius i instruments l’Autoritat Supervisora d’Assegurances i Reassegurances.
+
+**Article 44. Externalització i concentració de funcions**
+
+$5a
+
+**Article 45. Prevenció del frau**
+
+1. Les entitats han d’adoptar mesures efectives per prevenir, impedir, identificar, detectar, comunicar i remeiar les conductes fraudulentes en l’àmbit de l’assegurança.
+2. A aquests efectes, s’entén per
+frau
+qualsevol conducta dels prenedors, assegurats, beneficiaris o tercers perjudicats que tingui el propòsit o obtingui el resultat d’obligar les entitats a satisfer prestacions indegudes.
+3. L’Autoritat Supervisora d’Assegurances i Reassegurances queda autoritzada per administrar fitxers individuals o sectorials amb la finalitat de prevenir el frau. En aquests fitxers s’hi han d’incloure les persones la conducta fraudulenta de les quals hagi sigut determinada d’acord amb un procediment judicial o administratiu i les persones que hagin reconegut la seva conducta. A aquest efecte, les entitats podran sol·licitar a l’Autoritat Supervisora d’Assegurances i Reassegurances una certificació en la qual es manifesti, si escau, que un possible prenedor o assegurat no consta inclòs en els esmentats fitxers.
+
+#### Capítol tercer. Conductes de mercat
+
+**Article 46. Deures d’informació als prenedors i als assegurats**
+
+$5c
+
+**Article 47. Pòlisses i documentació contractual. Fixació de tarifes de primes i bases tècniques**
+
+$60
+
+**Article 48. Solució de conflictes**
+
+Les entitats asseguradores han d’establir mecanismes de solució dels conflictes que puguin sorgir amb els prenedors, assegurats i persones titulars de drets o obligacions derivats del contracte, que siguin alternatius als de caràcter general. En particular, han de garantir l’establiment de mecanismes voluntaris de mediació i arbitratge que siguin eficaços i econòmics.
+
+#### Capítol quart. Règim especial de determinades operacions societàries
+
+**Article 49. Cessió de cartera**
+
+$62
+
+**Article 50. Modificacions estructurals**
+
+1. Totes les modificacions estructurals de transformació, escissió i fusió en què participin les entitats asseguradores i reasseguradores queden subjectes a l’autorització prèvia de l’Autoritat Supervisora d’Assegurances i Reassegurances.
+2. L’entitat o les entitats asseguradores o reasseguradores participants en la modificació estructural han de presentar una sol·licitud conjunta d’autorització prèvia davant el director general de l’Autoritat Supervisora d’Assegurances i Reassegurances. La seva resolució pot ésser objecte de recurs d’alçada davant el Consell d’Administració de conformitat amb el que disposa l’apartat 6 de l’article 7. La impugnació en via jurisdiccional s’efectuarà d’acord amb el que disposa l’apartat 7 de l’article 7.
+3. En tot allò que no reguli aquest article, s’ha d’aplicar la Llei 20/2007.
+
+**Article 51. Deure de respecte de les limitacions aplicables en matèria de participacions significatives**
+
+1. Les participacions directes o indirectes de les entitats bancàries en entitats asseguradores i reasseguradores no poden ser superiors al 25% del capital de l’entitat participada amb l’excepció de les entitats asseguradores exclusivament del ram de vida, tal i com es regula en aquesta Llei, en les quals poden assolir fins al 100% de la seva participació social.
+2. La infracció de la prohibició a què fa referència l’apartat 1 determina la nul·litat de ple dret de l’adquisició, la modificació estructural o l’operació o transacció de què es tracti.
+
+### Títol V. Infraccions i sancions
+
+#### Capítol primer. Infraccions i sancions
+
+**Article 52. Autoritat competent i subjectes responsables**
+
+1. L’Autoritat Supervisora d’Assegurances i Reassegurances, com a autoritat del sistema d’assegurances d’Andorra, exerceix el poder disciplinari sobre el conjunt del sistema.
+2. Queden subjectes al règim d’infraccions i sancions que estableix aquesta Llei les persones físiques o jurídiques sotmeses a aquesta Llei que incorrin en les accions o omissions tipificades com a infraccions en els articles 54, 55 i 56.
+3. Per determinar la responsabilitat de la comissió de les infraccions s’han de respectar els principis de legalitat, tipicitat, culpabilitat, proporcionalitat i presumpció d’innocència, i s’ha de garantir, en tot cas, el dret de defensa de les persones o entitats imputades de conformitat amb els articles 123 bis i següents del Codi de l’Administració.
+
+**Article 53. Classes d’infraccions**
+
+Les infraccions es classifiquen en molt greus, greus i lleus, en virtut de la seva importància segons el que disposa aquesta Llei.
+
+**Article 54. Infraccions molt greus**
+
+$66
+
+**Article 55. Infraccions greus**
+
+$6a
+
+**Article 56. Infraccions lleus**
+
+Són infraccions lleus:
+a) L’incompliment de les normes relatives al càlcul del capital de solvència obligatori, sempre que d’aquesta infracció es derivi una desviació inferior al 10%.b) L’incompliment dels acords o les resolucions de l’Autoritat Supervisora d’Assegurances i Reassegurances, en cas que no constitueixi una infracció greu o molt greu.c) L’incompliment dels deures o les obligacions que estableix aquesta Llei, en cas que no constitueixi infracció greu o molt greu.d) En general, els incompliments de preceptes d’obligada observança per a les entitats asseguradores compresos en normes amb rang de llei de supervisió de les assegurances privades, sempre que no constitueixin una infracció greu o molt greu. A aquest efecte, s’entenen pernormes de supervisió de les assegurances privadesles compreses en aquesta Llei i les seves disposicions reglamentàries de desplegament i, en general, les incloses en normes que continguin preceptes d’obligada observança referits a l’àmbit objectiu d’aquesta Llei.
+
+**Article 57. Sancions**
+
+$70
+
+**Article 58. Altres mesures**
+
+$74
+
+**Article 59. Concurrència de responsabilitats**
+
+1. La responsabilitat administrativa derivada de les infraccions tipificades en aquesta Llei no exclou les responsabilitats d’un altre ordre que siguin procedents.
+2. Les sancions que s’imposin als diferents subjectes com a conseqüència d’una mateixa infracció tenen entre si caràcter independent.
+3. No es poden sancionar els fets que hagin estat sancionats penalment o administrativament en els casos en què s’apreciï identitat de subjecte, fet i fonament.
+4. Si es considera que els fets poden ser constitutius de delicte, s’han de posar en coneixement de l’autoritat judicial o del Ministeri Fiscal i se suspèn el procediment administratiu sancionador fins que recaigui pronunciament judicial ferm. Si escau reprendre el procediment administratiu sancionador, la resolució administrativa que es dicti ha de respectar l’apreciació dels fets que contingui el pronunciament judicial.
+
+**Article 60. Prescripció de les infraccions**
+
+1. Les infraccions prescriuen pel venciment del termini de tres anys. Si s’han produït actes destinats a amagar o dissimular aquestes infraccions als òrgans de supervisió i control, la prescripció té lloc al cap de deu anys.
+2. El termini de prescripció es comença a comptar des de la data en què la infracció s’ha comès. Interromp la prescripció la iniciació, per part de l’Autoritat Supervisora d’Assegurances i Reassegurances, de les actuacions corresponents destinades a la recerca o a l’exigència de les responsabilitats que siguin procedents, amb la notificació prèvia al subjecte imputat. Pel que fa a les infraccions comeses per mitjà d’una activitat continuada, el còmput de la prescripció s’ha d’iniciar a partir de la data en què cessi l’activitat o de l’últim acte constitutiu de la infracció.
+
+#### Capítol segon. Procediment
+
+**Article 61. Procediment sancionador**
+
+$76
+
+**Article 62. Mesures cautelars**
+
+$79
+
+**Article 63. Coordinació amb altres procediments sancionadors**
+
+Al marge de les sancions que en l’exercici de les seves facultats puguin imposar altres supervisors, l’Autoritat Supervisora d’Assegurances i Reassegurances és l’única entitat amb capacitat per revocar o suspendre l’autorització de les entitats asseguradores o reasseguradores autoritzades per operar al Principat d’Andorra.
+
+### Títol VI. Cessament en l’activitat
+
+#### Capítol primer. Revocació de l’autorització
+
+**Article 64. Revocació parcial**
+
+1. Escau la revocació parcial de l’autorització en els supòsits següents:
+a) Quan l’entitat renunciï expressament a l’exercici de l’activitat en un ram determinat.b) Quan l’entitat no iniciï l’activitat en un ram en què se li ha atorgat autorització per operar, un cop vençut el termini d’un any des de l’atorgament d’aquesta autorització, o quan cessi en l’activitat durant un període continuat superior a sis mesos.c) Quan l’entitat cedeixi la cartera relativa a un ram determinat en què se li va atorgar l’autorització per operar.d) Quan s’imposi a l’entitat la sanció de revocació parcial de l’autorització.
+2. La resolució de l’Autoritat Supervisora d’Assegurances i Reassegurances mitjançant la qual s’acordi la revocació parcial de l’autorització ha d’estar degudament motivada, ha de determinar els rams objecte de revocació i també ha de detallar la data a partir de la qual la dita revocació tingui eficàcia.
+
+**Article 65. Revocació total**
+
+$7b
+
+**Article 66. Revocació de l’autorització atorgada a entitats asseguradores i reasseguradores domiciliades fora del Principat d’Andorra**
+
+Són aplicables a les delegacions les mateixes causes de revocació parcial i total de l’autorització descrites en aquest capítol, amb les modificacions següents:
+a) La causa de revocació total relativa a l’acord de dissolució s’ha d’entendre referida a l’acord o la decisió de tancament de la delegació.b) És causa de revocació total l’acord que l’Autoritat Supervisora d’Assegurances i Reassegurances dicti, amb la motivació corresponent, mitjançant el qual revoqui l’autorització per circumstàncies extraordinàries de protecció de l’economia del Principat d’Andorra o circumstàncies extraordinàries d’interès nacional.
+
+**Article 67. Procediment i efectes de la revocació**
+
+$7d
+
+#### Capítol segon. Dissolució i liquidació administrativa
+
+**Article 68. Causes de dissolució**
+
+Són causes de dissolució obligatòria de les entitats asseguradores i reasseguradores domiciliades al Principat d’Andorra les següents:
+a) Les causes que determini la legislació mercantil general.b) La revocació de l’autorització administrativa que afecti tots els rams en què opera l’entitat. Aquesta causa no és aplicable si l’entitat renuncia voluntàriament a l’autorització administrativa a causa de la modificació del seu objecte social a fi de cessar en l’activitat d’assegurança o reassegurança i iniciar-ne altres de diferents.c) La cessió de la cartera relativa a tots els rams per als quals es va atorgar l’autorització a l’entitat. Aquesta causa no és aplicable si l’entitat cedent manifesta, en l’escriptura pública de cessió, que la cessió de cartera és deguda a la modificació del seu objecte social a fi de cessar en l’activitat d’assegurança o reassegurança i iniciar-ne altres de diferents.
+
+**Article 69. Procediment de dissolució. Reactivació**
+
+$7f
+
+**Article 70. Règim de la liquidació**
+
+$81
+
+**Article 71. Procediment de liquidació**
+
+$85
+
+**Article 72. Protecció dels crèdits per contracte d’assegurança**
+
+1. En el cas d’obertura de la liquidació d’una entitat, els crèdits per contracte d’assegurança gaudeixen d’un privilegi especial de primer rang sobre els actius assignats a les provisions tècniques en el registre especial d’actius a l’efecte de liquidació i, si escau, sobre els actius que hagin estat objecte de la mesura especial de prohibició de disposar, encara que no hagi arribat a tenir constància registral.
+2. El pagament dels crèdits per contracte d’assegurança s’ha de fer amb càrrec als béns i drets afectes al privilegi especial, i s’ha de satisfer a prorrata amb preferència sobre qualsevol altre crèdit.
+3. Els apartats 1 i 2 són aplicables en tots els casos en què concorrin els crèdits per contracte d’assegurança i altres crèdits contra l’entitat, sigui dins o fora d’un procediment concursal.

@@ -1,0 +1,409 @@
+# Llei qualificada de la responsabilitat penal de les persones menors d'edat (Llei 15/2019)
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/resp-penal-menors
+Articles: 75 · versions consolidades: 2
+Instantania del consolidat: 2026-09-12T05:30:14.453965Z
+
+---
+
+### Títol I. Disposicions generals i processals
+
+**Article 1. Àmbit d’aplicació i definició**
+
+1. Les persones menors d’edat que són objecte d’aquesta Llei tenen reconeguts els drets que estableixen la Constitució i les normes restants que formen part de l’ordenament jurídic andorrà.
+2. Als efectes d’aquesta Llei, s’entén per persones menors d’edat (o menors d’edat) les persones que no hagin assolit la majoria d’edat o que assoleixin la majoria d’edat durant la tramitació del procés penal o en període d’execució de la sentència o l’acord que hi posi fi, llevat que aquesta Llei estableixi altrament.
+
+**Article 2. Competència per jutjar**
+
+1. El Tribunal de Corts, en composició unipersonal, és competent per jutjar en primera instància els fets comesos per les persones majors de dotze anys i menors de divuit anys tipificats com a contravencions penals al Codi penal, i també per executar les resolucions que hagi adoptat a aquest efecte.
+2. El Tribunal de Corts, en composició col·legiada, és competent per jutjar en primera instància els fets comesos per les persones majors de dotze anys i menors de divuit anys tipificats com a delictes majors i delictes menors al Codi penal, i també per executar les resolucions judicials que hagi adoptat a aquest efecte.
+3. També correspon al Tribunal de Corts, d’acord amb el que estableixen els apartats 1 i 2 anteriors, resoldre sobre les responsabilitats civils derivades dels fets comesos pels menors d’edat a les quals és aplicable aquesta Llei.
+4. La jurisdicció del Tribunal de Corts, d’acord amb els apartats anteriors, s’estén a tots els supòsits aplicables de la llei penal en els termes que estableix el Codi penal.
+
+**Article 3. Competència per instruir**
+
+1. La instrucció dels processos penals que se segueixen contra una persona menor d’edat a la qual és aplicable aquesta Llei correspon als batlles als quals correspongui pel torn de la Secció d’Instrucció General o de la Secció d’Instrucció Especialitzada del Tribunal de Batlles, d’acord amb el que estableix la Llei qualificada de la Justícia.
+2. També correspon a les seccions d’instrucció del Tribunal de Batlles, d’acord amb el que estableix l’apartat 1 anterior, l’execució de les ordenances penals que es dictin contra els menors d’edat als quals és aplicable aquesta Llei.
+
+**Article 4. Imputabilitat**
+
+1. Quan qui hagi comès un fet delictiu sigui una persona menor de dotze anys, una vegada s’hagi constatat la comissió d’aquest fet se l’ha de posar a disposició dels seus representants legals, i informar-ne l’àrea competent del ministeri encarregat dels afers socials a l’efecte de valorar si existeix una situació de risc o de desemparament del menor d’edat.
+2. La persona menor de dotze anys és inimputable, raó per la qual les accions en reclamació dels danys i perjudicis derivats d’una infracció penal que hagi comès s’han d’interposar i resoldre davant la jurisdicció civil competent.
+
+**Article 5. Intervenció del Ministeri Fiscal**
+
+1. Correspon al Ministeri Fiscal la defensa dels drets que aquesta Llei i les altres lleis aplicables reconeixen a les persones menors d’edat i l’observança de les garanties degudes en el marc dels processos penals que se segueixin contra aquestes persones. També li correspon fer el seguiment de qualsevol altra actuació que s’efectuï en interès del menors d’edat.
+2. El Ministeri Fiscal intervé directament en els processos penals que se segueixin contra els menors d’edat per sol·licitar les diligències que siguin més adequades per comprovar els fets presumptament comesos i la participació eventual d’aquests menors en relació amb aquests fets.
+
+**Article 6. Normes aplicables**
+
+1. Les disposicions processals d’aquesta Llei tenen la consideració de procediment especial.
+2. Sense perjudici de les especialitats que regula aquesta Llei, són aplicables a les persones menors d’edat contra les quals se segueix un procés penal les disposicions de la Llei qualificada del Codi de procediment penal relatives als actes processals i a la seva aplicació.
+
+**Article 7. Comissió conjunta i connexió dels fets delictius**
+
+1. No obstant el que estableix l’article 18, quan una infracció penal hagi estat comesa alhora per persones majors i menors d’edat, la instrucció es fa conjuntament, malgrat que es pot formar una peça separada per a tot el que concerneixi les persones menors d’edat, tenint en compte que cal preservar-ne sempre les dades personals. L’enjudiciament també es porta a terme conjuntament.
+2. Els diferents fets constitutius d’infraccions penals que hagi comès presumptament un menor d’edat i que siguin connexos es poden incorporar a un mateix i únic procés.
+
+**Article 8. Drets**
+
+1. Es garanteixen a les persones menors d’edat els drets a la integritat física i moral, a l’honor, a la intimitat personal i familiar, i a la pròpia imatge, de forma que en cap cas no es poden fer públics els seus noms i cognoms ni poden ser identificats per cap mitjà de comunicació durant la investigació o la tramitació del procés penal. En concret, no es permet que els mitjans de comunicació obtinguin o difonguin imatges dels menors d’edat acusats durant les sessions del judici oral, o dades que en puguin permetre la identificació.
+2. Els judicis orals en què l’acusat sigui un menor d’edat se celebren a porta tancada. Igualment se celebren a porta tancada els judicis en què intervinguin menors d’edat.
+3. El batlle instructor, el Tribunal de Corts, el Ministeri Fiscal i qualsevol altra autoritat, funcionari o intervinent en el procés penal que se segueix contra un menor d’edat ha de vetllar especialment pel compliment de les disposicions d’aquest article.
+
+**Article 9. Representant ad hoc**
+
+1. Quan el representant legal de la persona menor d’edat contra la qual se segueix un procés penal no pugui intervenir en aquest procés o, a criteri del batlle competent o el Tribunal de Corts, no hi hagi d’intervenir, el batlle o el Tribunal li nomena un representant ad hoc.
+2. El representant ad hoc no pot ser en cap cas l’advocat del menor d’edat i ha complir els requeriments de capacitació i experiència necessaris per portar a terme la funció que se li encomani.
+
+**Article 10. Declaracions i notificacions**
+
+1. Quan la persona menor d’edat declari davant el Cos de Policia o el batlle instructor, o se li notifiqui qualsevol resolució judicial, se l’ha d’informar en un llenguatge clar i senzill, d’acord amb la seva edat, dels fets que se li imputen, de les conseqüències jurídiques que se’n deriven i dels drets que li reconeixen les lleis aplicables.
+2. Totes les notificacions que s’hagin de fer al menor d’edat d’acord amb aquesta Llei també s’han de fer al seu representant legal o, si escau, al representant ad hoc, i al seu advocat.
+
+### Títol II. Instrucció del procés
+
+#### Capítol primer. Fase preliminar
+
+**Article 11. Diligències policials**
+
+$1e
+
+**Article 12. Detenció**
+
+1. Qualsevol decisió que suposi una restricció dels drets fonamentals de les persones menors d’edat ha de ser adoptada pel batlle competent mitjançant un aute, amb l’audiència prèvia del Ministeri Fiscal.
+2. La detenció governativa dels menors d’edat no pot superar en cap cas vint-i-quatre hores. Excepcionalment, en casos de delictes majors d’homicidi, assassinat, tortura, esclavatge, agressió sexual, abús sexual si el fet consisteix en accés carnal, tràfic de drogues, segrest, tràfic d’infants, tràfic il·legal d’armes, proxenetisme, terrorisme, finançament del terrorisme, blanqueig de diners o valors, associació per atemptar contra el Principat o contra l’ordre constitucional, i contra la comunitat internacional, el batlle competent pot prorrogar, mitjançant un aute, el termini de vint-i-quatre hores fins a quaranta-vuit hores com a màxim. Durant aquest termini prorrogat, el menor d’edat detingut ha de ser ingressat en una unitat separada de les dependències del Centre Penitenciari.
+
+**Article 13. Tramesa de l’enquesta preliminar**
+
+Un cop finalitzada l’enquesta preliminar, les diligències practicades s’han de trametre immediatament al batlle instructor competent.
+
+#### Capítol segon. Inici de la instrucció
+
+**Article 14. Diligències prèvies**
+
+1. Quan amb els elements de fet que constin a l’atestat, la denúncia o la querella no es puguin determinar la naturalesa i les circumstàncies dels fets presumptament comesos, les persones que hi han participat o el procediment oportú, el batlle instructor incoa unes diligències prèvies, que han de ser registrades al llibre corresponent, i en dona compte al Ministeri Fiscal.
+2. La instrucció de les diligències prèvies s’ha de practicar de manera abreujada, precisa i amb celeritat, intentant obtenir la informació que d’acord amb l’entitat dels fets sigui necessària i oportuna per decidir, si escau, continuar el procés.
+
+**Article 15. Arxivament**
+
+1. Quan sigui manifest i clar que els fets comesos no són constitutius d’infracció penal, el batlle instructor no incoa unes diligències prèvies i arxiva les actuacions com a diligències indeterminades.
+2. Si el batlle instructor considera que els fets comesos no són suficientment greus i la comissió futura d’altres fets constitutius d’infracció penal es pot evitar tenint en compte l’àmbit educatiu o familiar de la persona menor d’edat, pot arxivar en qualsevol moment el procés, amb l’audiència prèvia del Ministeri Fiscal. En aquest cas, el batlle instructor dona compte del procés a l’àrea competent del ministeri encarregat de la justícia perquè faci el seguiment oportú i, si escau, també n’informa el batlle competent al qual correspon per torn de jurisdicció de menors.
+3. Les disposicions de l’apartat 2 anterior no es poden tornar a aplicar al menor d’edat al qual ja s’hagin aplicat amb anterioritat.
+
+**Article 16. Diligències d’investigació**
+
+$20
+
+**Article 17. Aute de processament**
+
+1. Quan de les diligències practicades en resultin indicis racionals de delicte contra la persona menor d’edat, el batlle instructor dicta un aute de processament, que es notifica al menor d’edat processat, al seu representant legal o, si escau, al representant ad hoc, i al seu advocat.
+2. En virtut de l’aute de processament o mitjançant un aute posterior, el batlle instructor ha de declarar les persones que considera responsables civils solidàries o subsidiàries. Contra aquesta decisió no es pot interposar cap recurs.
+
+**Article 18. Ordenança penal**
+
+1. A les persones menors d’edat a les quals no procedeixi aplicar les disposicions de l’article 15, se’ls pot aplicar el procediment de l’ordenança penal que regula la Llei qualificada de modificació del Codi de procediment penal.
+2. Si el menor d’edat al qual s’aplica el procediment de l’ordenança penal s’hi oposa i el seu representant legal o, si escau, el representant ad hoc, no s’hi oposa, o en el supòsit contrari, el batlle pot considerar que preval l’opinió del menor d’edat si té maduresa suficient. A l’efecte que preveu aquest apartat, es presumeix que el menor d’edat té maduresa suficient a partir de setze anys.
+
+**Article 19. Accions penals i civils**
+
+1. En els processos penals que se segueixen contra persones menors d’edat no és possible l’exercici d’accions penals per part dels particulars. La presentació de la querella només té la consideració i els efectes de l’exercici de l’acció civil.
+2. En el cas d’infraccions penals que només siguin perseguibles a instància de part, el Ministeri Fiscal pot exercir l’acció penal si la persona perjudicada denuncia prèviament els fets de què es tracti.
+
+#### Capítol tercer. Mesures cautelars
+
+**Article 20. Internament provisional**
+
+$22
+
+**Article 21. Altres mesures cautelars**
+
+$24
+
+**Article 22. Mesures cautelars per garantir la responsabilitat civil**
+
+El Batlle instructor pot adoptar mitjançant un aute les mesures cautelars necessàries per garantir la responsabilitat civil derivada dels fets presumptament comesos per la persona menor d’edat, llevat dels casos en què la persona perjudicada hagi renunciat a reclamar o s’hagi reservat expressament l’exercici de l’acció civil.
+
+#### Capítol quart. Conclusió de la instrucció
+
+**Article 23. Vista de les actuacions**
+
+Un cop ha acabat la instrucció, el batlle instructor dona vista de les actuacions al Ministeri Fiscal i a les altres parts, els quals, dins el termini màxim de quinze dies, poden sol·licitar la pràctica de les diligències noves que considerin oportunes a l’efecte de completar la instrucció.
+
+**Article 24. Aute de conclusió**
+
+Quan s’hagin practicat les diligències a què fa referència l’article anterior o se n’hagi desestimat la pràctica mitjançant un aute motivat, el batlle instructor dicta un aute de conclusió de la instrucció, que es notifica al Ministeri Fiscal i a les altres parts, i els convoca perquè compareguin davant del Tribunal de Corts en el termini màxim de quinze dies. Tot seguit el batlle instructor tramet el procés penal al Tribunal de Corts.
+
+### Títol III. Enjudiciament del procés
+
+#### Capítol primer. Actuacions prèvies al judici oral
+
+**Article 25. Atribució del procés i trasllat**
+
+1. Un cop rep el procés penal, el president del Tribunal de Corts designa pel torn que correspongui el magistrat ponent o el magistrat que ha d’actuar en composició unipersonal.
+2. Tot seguit el Tribunal de Corts trasllada el procés penal al Ministeri Fiscal i a les altres parts, per tal que en el termini màxim de quinze dies puguin proposar:
+a) La pràctica de noves diligències que no hagi estat possible proposar anteriorment, que hagin estat denegades de forma improcedent, tot i haver estat proposades en temps i forma deguts, o que s’hagin admès anteriorment però no s’hagin practicat per motius no imputables a la persona que les sol·licita.b) El sobreseïment del procés penal per algun dels motius que estableix la Llei qualificada de modificació del Codi de procediment penal.c) Qualsevol altre pronunciament que considerin convenient.d) L’obertura del judici oral.
+
+**Article 26. Decisió inicial del Tribunal**
+
+Una vegada transcorregut el termini assenyalat a l’article anterior, el Tribunal de Corts pot decidir:
+a) La revocació de l’aute de conclusió de la instrucció. En aquest cas decideix retornar el procés al batlle instructor perquè en completi la instrucció i, en concret, practiqui les diligències que indiqui i les altres diligències que siguin necessàries i que es derivin de la pràctica de les primeres diligències esmentades.b) La celebració del judici oral.c) El sobreseïment del procés penal.
+
+**Article 27. Arxivament amb contraprestacions**
+
+$26
+
+#### Capítol segon. Judici oral
+
+**Article 28. Incompareixença**
+
+El judici oral es pot celebrar en absència de la persona menor d’edat acusada, sempre que hagi estat citada degudament.
+
+**Article 29. Interrogatori**
+
+1. A l’inici del judici oral, el Tribunal de Corts informa la persona menor d’edat acusada en un llenguatge clar i senzill, adequat a la seva edat, del fet criminal que se li imputa i de totes les altres circumstàncies que consideri d’interès.
+2. L’interrogatori del menor d’edat s’ha de fer en un llenguatge que pugui comprendre, i les preguntes que se li adrecin han de ser adequades a la seva personalitat i han de tenir relació amb els fets enjudiciats; en cas contrari, s’han de refusar.
+
+**Article 30. Absència durant la pràctica de les proves**
+
+El Tribunal de Corts pot decidir que la persona menor d’edat acusada no sigui present durant la pràctica de totes o algunes proves si considera que aquesta presència li pot ocasionar un perjudici greu.
+
+**Article 31. Conclusió i sentència**
+
+1. Un cop les parts han acabat d’exposar els seus informes, el Tribunal de Corts demana a la persona menor d’edat acusada si n’ha entès el contingut, i tot seguit li concedeix la darrera paraula.
+2. Una vegada ha finalitzat el judici oral, el Tribunal de Corts ha de fixar la data per notificar la sentència, que s’ha de dictar amb caràcter preferent.
+
+### Títol IV. Mesures disciplinàries, educatives, complementàries i de seguretat
+
+**Article 32. Criteris d’aplicació**
+
+1. L’aplicació de les mesures disciplinàries i educatives que estableixen els articles 33 i 34 té com a finalitat primordial la inclusió de la persona menor d’edat en el seu àmbit educatiu, familiar i social.
+2. El Tribunal de Corts o el batlle, en el supòsit que es dicti una ordenança penal, han de tenir en compte, a l’hora d’imposar una mesura disciplinària, educativa, complementària o de seguretat, la naturalesa dels fets comesos i la seva valoració jurídica, però també l’interès prevalent del menor d’edat.
+
+**Article 33. Mesures disciplinàries**
+
+$28
+
+**Article 34. Mesures educatives**
+
+$2a
+
+**Article 35. Mesures complementàries i de seguretat**
+
+1. Les mesures complementàries que el Tribunal de Corts o el batlle poden imposar són les següents:
+a) La privació del permís de conduir. Aquesta mesura comporta la prohibició d’exercir el dret a conduir vehicles de motor i d’obtenir-ne el permís durant dos anys com a màxim.b) La privació del permís d’arma. Aquesta mesura comporta la prohibició de posseir i portar armes i d’obtenir-ne el permís durant dos anys com a màxim.c) La prohibició d’atansar-se a la víctima o entrar-hi en contacte, o de circular o romandre en una població, un indret o un radi prop del domicili o el lloc de treball de la víctima o de terceres persones. Aquesta mesura té una durada màxima de dotze anys en el cas de delicte major i de sis anys en el cas de delicte menor.
+2. El Tribunal de Corts o el batlle pot aplicar mesures de seguretat en els casos d’exempció completa o incompleta, en els termes i els supòsits que estableix el Codi penal.
+
+### Títol V. Resolucions, recursos i execució de les resolucions
+
+#### Capítol primer. Resolucions
+
+**Article 36. Resolucions**
+
+Les resolucions que dicten el Tribunal de Corts i el batlle adopten la forma de providència, aute, acord, ordenança penal i sentència, segons com disposin en cada cas aquesta Llei o les altres lleis aplicables.
+
+#### Capítol segon. Recursos
+
+**Article 37. Recurs d’apel·lació contra les resolucions del batlle instructor**
+
+1. Contra la resolució del batlle instructor que acorda l’arxivament o el sobreseïment del procés penal, que denega la constitució com a actor civil, que decreta el secret total o parcial de les diligències prèvies o del sumari, que acorda o denega l’internament provisional o la llibertat provisional, o qualsevol altra mesura cautelar, o que denega el processament, es pot interposar un recurs d’apel·lació a un sol efecte davant el mateix batlle instructor, en el termini dels cinc dies següents a la notificació de la resolució de què es tracti.
+2. El batlle instructor trasllada el recurs al Ministeri Fiscal i a les altres parts, i les cita perquè en el termini dels cinc dies següents compareguin davant el Tribunal de Corts. Dins el termini esmentat el Ministeri Fiscal i les altres parts poden oposar-se o adherir-se al recurs, i fer les al·legacions que tinguin per convenients al respecte. El magistrat del Tribunal de Corts designat a aquest efecte resol dins els cinc dies següents.
+
+**Article 38. Recurs d’apel·lació contra les resolucions del Tribunal de Corts o del batlle**
+
+$2c
+
+**Article 39. Recursos d’audiència i de revisió**
+
+1. Contra les sentències dictades en rebel·lia pel Tribunal de Corts, la persona menor d’edat a la qual s’ha imposat una mesura disciplinària, educativa o de seguretat pot interposar un recurs d’audiència d’acord amb les disposicions de la Llei qualificada de modificació del Codi de procediment penal.
+2. Els acords, les sentències i les ordenances penals fermes i executòries dictades pel Tribunal de Corts o el batlle poden ser objecte d’un recurs de revisió, d’acord amb les disposicions de la Llei qualificada de modificació del Codi de procediment penal.
+
+#### Capítol tercer. Execució de les resolucions
+
+**Article 40. Competència**
+
+1. L’execució de les sentències i els acords recaiguts en els processos penals que se segueixen contra persones menors d’edat correspon al Tribunal de Corts.
+2. L’execució de les ordenances penals dictades en els processos penals que se segueixen contra menors d’edat correspon al mateix batlle que les ha dictat.
+3. Les decisions que el Tribunal de Corts o el batlle adopten en període d’execució de les resolucions esmentades als apartats anteriors prenen la forma d’autes.
+
+**Article 41. Substitució de mesures**
+
+1. El Tribunal de Corts o el batlle pot substituir una mesura disciplinària d’internament d’una durada inferior a dos anys o en què quedi pendent de complir una durada inferior a dos anys, per una altra mesura disciplinària o educativa, tenint en consideració la naturalesa i la gravetat del fet comès, les circumstàncies personals de la persona menor d’edat a la qual s’ha imposat la mesura, la seva conducta i l’esforç per reparar el dany causat.
+2. La durada de la mesura substitutiva adoptada pel Tribunal de Corts o el batlle no pot excedir la durada que s’hauria establert en relació amb la mesura substituïda. Aquesta norma no s’aplica, però, en cas que la mesura substitutiva sigui una mesura educativa i la mesura substituïda sigui una mesura disciplinària.
+3. En cas d’incompliment total o parcial de la mesura substitutiva, el Tribunal de Corts o el batlle revoca la substitució i decideix que es compleixi o es continuï complint la mesura substituïda.
+
+**Article 42. Suspensió de mesures**
+
+1. El Tribunal de Corts o el batlle pot suspendre l’execució de la mesura disciplinària, educativa o de seguretat imposada durant un termini màxim de tres anys, sempre que no es tracti d’una mesura disciplinària d’internament d’una durada superior a dos anys o en què quedi pendent de complir una durada superior a dos anys.
+2. La suspensió de la mesura queda condicionada al fet que a la persona menor d’edat no se li imposi una altra mesura disciplinària, educativa o de seguretat, o no sigui condemnada durant el període fixat pel Tribunal de Corts o el batlle, i que compleixi les mesures educatives que s’hagin pogut establir i es repari el dany causat.
+3. En cas d’incompliment total o parcial de les condicions establertes, el Tribunal de Corts o el batlle revoca la suspensió i decideix que es compleixi o es continuï complint la mesura suspesa.
+
+**Article 43. Reducció de mesures**
+
+Les mesures educatives es poden reduir en virtut dels informes que s’emetin sobre el compliment d’aquestes mesures i sempre que s’hagin complert els objectius socials i educatius que es pretenien.
+
+**Article 44. Procediment comú**
+
+En els casos establerts als articles 41, 42 i 43, el Tribunal de Corts o el batlle adopta les decisions amb l’audiència prèvia del Ministeri Fiscal i de les altres parts, i en vista de l’informe que elabori, si escau, l’àrea competent del ministeri encarregat de la justícia.
+
+**Article 45. Majoria d’edat**
+
+$2e
+
+### Títol VI. Prescripció i responsabilitat civil
+
+#### Capítol primer. Prescripció
+
+**Article 46. Prescripció de les infraccions penals**
+
+1. Les infraccions penals comeses per persones menors d’edat prescriuen:
+a) Al cap de deu anys quan es tracti de delictes que tinguin assignada una pena el límit màxim de la qual sigui de deu anys o més.b) Al cap de cinc anys quan es tracti dels altres delictes majors dolosos.c) Al cap de dos anys quan es tracti de delictes majors imprudents i de delictes menors.d) Al cap de sis mesos quan es tracti dels delictes d’injúria, calúmnia i difamació, i de les contravencions penals.
+2. Els delictes de tortura i genocidi, i els delictes contra la humanitat, no prescriuen en cap cas.
+
+**Article 47. Prescripció de les mesures disciplinàries, educatives i de seguretat**
+
+1. Les mesures disciplinàries, educatives o de seguretat d’una durada igual o superior a dos anys prescriuen al cap de deu anys; les mesures restants imposades per delictes majors prescriuen al cap de cinc anys; les mesures imposades per delictes menors prescriuen al cap de dos anys, i les mesures imposades per contravencions penals prescriuen al cap d’un any.
+2. Les mesures imposades per delictes de tortura i genocidi, i per delictes contra la humanitat, no prescriuen en cap cas.
+
+**Article 48. Registre de processos penals contra persones menors d’edat**
+
+1. El Tribunal de Corts du un registre dels processos penals que s’han seguit contra persones menors d’edat on es fan constar en cada anotació els seus cognoms i el nom, la data i el lloc de naixement, la nacionalitat, els noms dels progenitors, la data de la resolució definitiva adoptada en el marc del procés i el número de registre del procés.
+2. El registre a què fa referència l’apartat anterior només el pot consultar el Tribunal de Corts o el batlle a l’efecte d’aplicar aquesta Llei.
+
+#### Capítol segon. Responsabilitat civil
+
+**Article 49. Responsabilitat civil**
+
+1. Les persones menors d’edat que hagin comès una infracció penal i en siguin responsables d’acord amb aquesta Llei també responen civilment pels danys i perjudicis que se’n puguin derivar.
+2. Els pares, els tutors i els vigilants dels menors d’edat responen subsidiàriament pels danys i els perjudicis causats pels menors d’edat en cas que estiguin sota la seva potestat, tutela o guarda.
+3. Els asseguradors que hagin assumit el risc de les responsabilitats pecuniàries derivades dels actes comesos pels menors d’edat són responsables civils solidaris fins al límit de la indemnització legal o pactada.
+
+### Títol VII. Execució de les mesures cautelars o disciplinàries d’internament
+
+#### Capítol primer. Règim d’internament
+
+**Article 50. Drets de les persones menors d’edat internades**
+
+$30
+
+**Article 51. Deures de les persones menors d’edat internades**
+
+$32
+
+**Article 52. Ingrés i atenció mèdica i personal**
+
+$34
+
+**Article 53. Trasllats**
+
+1. Els trasllats de persones menors d’edat internades per a un ingrés hospitalari, per assistir a consultes mèdiques o per raó de les actuacions judicials que els afectin els han de dur a terme membres del Cos de Policia o del Cos Penitenciari, en els termes que es determinin reglamentàriament. Els ingressos en centres hospitalaris s’han de comunicar al tribunal o el batlle competent, al Ministeri Fiscal i al ministre encarregat de la justícia.
+2. Els trasllats dels menors d’edat internats s’han de fer de forma que se’n garanteixi la dignitat, la privadesa, la seguretat i els altres drets que els reconeix la normativa aplicable.
+
+**Article 54. Activitats i descans**
+
+1. La Direcció del centre on estan internades les persones menors d’edat ha de fixar un horari en funció del qual es regulen les activitats del centre. També ha de determinar quines activitats són obligatòries i quines són optatives.
+2. Els menors d’edat internats en un centre han de gaudir de vuit hores ininterrompudes de descans nocturn com a mínim, i aquest descans ha de ser compatible amb les comunicacions i les visites a les quals tenen dret, i amb les activitats que han de portar a terme.
+
+**Article 55. Informació i reclamacions**
+
+$36
+
+**Article 56. Informació en cas defunció, accident o malaltia**
+
+1. En cas de malaltia, accident o qualsevol altra circumstància greu que concerneixi una persona menor d’edat internada, la Direcció del centre n’ha d’informar immediatament els progenitors, els tutors o els representants legals.
+2. Els menors d’edat internats han de ser informats sense dilació de la defunció, l’accident o la malaltia greu de qualsevol persona amb la qual tinguin una relació propera de parentiu, i se’ls ha de garantir, si cal, l’assistència psicològica i social oportuna.
+
+**Article 57. Comunicacions amb els familiars i advocats**
+
+1. Les persones menors d’edat internades tenen el dret de comunicar-se periòdicament, de forma oral i escrita, i de forma separada, amb els seus familiars, tutors o representants legals i advocats.
+2. Aquest dret es pot exercir en la pròpia llengua i s’ha de desenvolupar en condicions de privacitat, sense altres restriccions que les que calgui imposar per raons de seguretat o d’ordre intern del centre.
+3. El règim i les modalitats de les comunicacions orals es regulen per reglament, el qual ha de garantir, en tot cas i a partir de l’endemà de l’ingrés, tres visites mínimes setmanals amb els familiars d’una durada no inferior a quaranta minuts.
+4. Les visites amb els familiars, tutors o representants legals i els advocats tenen lloc en una sala habilitada a aquest efecte, sense vidre de separació i que permeti, si escau, l’estudi de documents.
+
+**Article 58. Comunicacions amb l’autoritat judicial, el Ministeri Fiscal i l’àrea competent del ministeri encarregat de la justícia**
+
+1. La comunicació de les persones menors d’edat internades amb el tribunal o el batlle competent, o amb el Ministeri Fiscal, s’ha de fer sempre que aquestes autoritats ho demanin.
+2. La comunicació dels menors d’edat internats amb l’àrea competent del ministeri encarregat de la justícia s’ha de portar a terme, com a mínim, una vegada a la setmana.
+3. Les visites amb el tribunal o el batlle competent, el Ministeri Fiscal o l’àrea competent del ministeri encarregat de la justícia es fan en locals adequats que facilitin al màxim la comunicació i permetin, si escau, l’estudi de documents.
+
+**Article 59. Comunicacions telefòniques**
+
+1. Les comunicacions orals es poden fer telefònicament en els casos i les condicions que es determinin per la via reglamentària, a través dels mitjans que el centre posi a disposició les persones menors d’edat internades.
+2. Els menors d’edat internats o els seus progenitors, tutors o representants legals han d’abonar l’import de les trucades telefòniques d’acord amb les tarifes públiques vigents.
+3. Es prohibeix l’ús de telèfons mòbils als menors d’edat internats.
+
+**Article 60. Intervenció i restricció de les comunicacions**
+
+1. Les comunicacions orals i escrites només poden ser intervingudes o restringides quan ho determini el tribunal o el batlle competent.
+2. Les cartes que entrin al centre i vagin adreçades a una persona menor d’edat internada s’han d’obrir en presència seva, a l’únic efecte de verificar que no s’utilitzen per introduir al centre articles o productes prohibits. Aquesta comprovació ha de respectar en tot cas el secret de les comunicacions.
+3. La Direcció del centre pot demanar al tribunal o el batlle competent que decideixi, mitjançant un aute motivat, la intervenció o la restricció de les comunicacions quan hi hagi indicis raonables per creure que les persones que es comuniquen poden estar preparant una actuació delictiva o que pugui comprometre la seguretat i la convivència dins el centre.
+
+**Article 61. Mesures de vigilància i seguretat**
+
+$38
+
+**Article 62. Incentius**
+
+S’ha d’establir per reglament un sistema d’incentius adequat per premiar els actes de bona conducta i el sentit de la responsabilitat en el comportament de les persones menors d’edat internades.
+
+#### Capítol segon. Règim disciplinari
+
+**Article 63. Disposicions generals**
+
+1. El règim disciplinari dels centres on es troben persones menors d’edat internades té com a objectiu preservar la seguretat interna i la convivència entre elles, i entre els menors d’edat i el personal que treballa al centre o les altres persones que hi accedeixen legalment.
+2. El règim disciplinari es regeix pel que estableix aquesta Llei i els reglaments que la desenvolupen, i s’ha d’aplicar amb respecte de la dignitat dels menors d’edat expedientats. En cap cas, però, se’ls pot privar dels drets d’alimentació, d’ensenyament obligatori i de comunicacions i visites que preveu aquesta Llei.
+
+**Article 64. Responsabilitat disciplinària**
+
+$3a
+
+**Article 65. Drets de les persones menors d’edat expedientades**
+
+Les persones menors d’edat internades que són objecte d’un expedient disciplinari tenen els drets següents:
+a) Dret a ser informades dels fets que se’ls imputen, de les faltes que aquests fets puguin constituir, de les sancions que els puguin ser imposades, de la identitat de la persona designada com a instructor i de la persona o l’òrgan competent per imposar la sanció.b) Dret d’accés a l’expedient disciplinari, de conèixer l’estat de la tramitació i d’obtenir còpies dels documents, en els termes del Codi de l’Administració.c) Dret a formular al·legacions, a proposar les proves que considerin oportunes i a utilitzar tots els mitjans de defensa admesos per l’ordenament jurídic que siguin procedents.d) Dret a la presumpció d’innocència i a no declarar en contra de si mateixes.e) Dret a ser assistides per un advocat durant la tramitació de l’expedient.f) Dret a obtenir una resolució motivada.g) Qualsevol altre dret que reconeguin la Constitució o les lleis.
+
+**Article 66. Faltes disciplinàries**
+
+$3c
+
+**Article 67. Prescripció de les faltes**
+
+1. Les faltes lleus prescriuen al cap d’un mes; les faltes greus, al cap de sis mesos, i les faltes molt greus, al cap d’un any. Aquests terminis es comencen a comptar a partir de la data del fet causant o des del dia en què se n’hagi hagut de tenir coneixement.
+2. El termini de prescripció s’interromp per qualsevol actuació realitzada amb coneixement formal de la persona menor d’edat interessada i del seu representant legal que s’adreci a la iniciació, la tramitació o la resolució de l’expedient disciplinari.
+3. La interrupció deixa de tenir efecte si no s’incoa l’expedient disciplinari o queda paralitzat durant més de sis mesos per causa no imputable a la persona menor d’edat interessada o al seu representant legal. En aquest cas, el còmput del termini de prescripció s’inicia de nou a partir de la data de la darrera actuació que consti en l’expedient disciplinari.
+
+**Article 68. Sancions**
+
+$3e
+
+**Article 69. Graduació de les sancions**
+
+Les sancions es graduen en funció de les circumstàncies que concorren en cada cas, d’acord amb els principis generals establerts en la legislació vigent i, en concret, de conformitat amb els criteris següents:
+a) Violència exercida.b) Intencionalitat.c) Pertorbació de la convivència en el centre.d) Danys i perjudicis causats.e) Antecedents i reiteració o reincidència.f) Grau de participació.
+
+**Article 70. Prescripció de les sancions**
+
+1. Les sancions imposades per faltes lleus prescriuen al cap d’un mes; les sancions per faltes greus, al cap de sis mesos, i les sancions per faltes molt greus, al cap d’un any. Aquests terminis es comencen a comptar a partir de l’endemà del dia en què ha esdevingut ferma la resolució que imposa la sanció.
+2. El termini de prescripció s’interromp per l’inici, amb el coneixement formal de la persona menor d’edat sancionada i del seu representant legal, de l’execució de la sanció.
+3. La interrupció deixa de tenir efecte si l’execució resta aturada durant més d’un any per causa no imputable al menor d’edat sancionat o al seu representant legal. En aquest cas, el còmput del termini de prescripció s’inicia de nou a partir de la data de la darrera actuació que consti en l’expedient d’execució.
+
+**Article 71. Inici del procediment disciplinari**
+
+$40
+
+**Article 72. Instrucció de l’expedient disciplinari**
+
+$42
+
+**Article 73. Resolució de l’expedient disciplinari**
+
+$44
+
+**Article 74. Mesura cautelar**
+
+$46
+
+**Article 75. Extinció de la responsabilitat**
+
+1. La responsabilitat disciplinària s’extingeix pel compliment de la sanció, la defunció de la persona menor d’edat expedientada, la prescripció de la falta i la prescripció de la sanció.
+2. Si durant la tramitació de l’expedient disciplinari el menor d’edat expedientat deixa d’estar internat en el centre, s’ha de dictar una resolució en què es declara extingida la responsabilitat disciplinària i s’arxiva el procediment, sense perjudici de la responsabilitat civil o penal que es derivi de les faltes comeses eventualment durant el temps en què el menor d’edat va estar internat en el centre.

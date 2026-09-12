@@ -1,0 +1,116 @@
+# Llei 44/2014, del 18 de desembre, de l'embargament
+
+Text consolidat. Font: https://jurisprudencia.ad/lleis-andorra/embargament
+Articles: 24 · versions consolidades: 6
+Instantania del consolidat: 2026-09-12T05:30:17.857460Z
+
+---
+
+**Article 1. Objecte de la Llei**
+
+1. Aquesta Llei regula la pràctica de l’embargament en el marc dels procediments d’execució forçosa de les resolucions judicials o els actes administratius, dut a terme pel saig o per les administracions públiques que tenen la capacitat de fer-ho per si mateixes.
+2. Aquesta Llei també és aplicable als embargaments que practiquin els òrgans jurisdiccionals.
+3. Sense perjudici del deure de col·laboració que preveu l’article 2, s’exclouen de l’àmbit d’aplicació d’aquesta Llei els embargaments que tenen com a objecte els instruments o els productes d’activitats constitutives de delicte.
+
+**Article 2. Deure de col·laboració**
+
+1. Totes les persones i entitats públiques i privades estan obligades a col·laborar en les actuacions regulades en aquesta Llei, i a facilitar al batlle o al tribunal competent, o al saig o a l’Administració, tota la informació que coneguin en relació amb els béns i drets de la persona embargada o executada, sense cap altra limitació que les que imposen el respecte dels drets fonamentals de les persones i la llei.
+2. La cessió de dades de caràcter personal al batlle o al tribunal competent, o al saig o a l’Administració, en el marc del deure de col·laboració que imposa aquesta Llei i per a la finalitat que s’hi estableix no requereix el consentiment de la persona afectada.
+
+**Article 3. Prohibició d’interdictes**
+
+No caben interdictes contra les actuacions que es realitzin per a l’execució forçosa d’actes administratius de conformitat amb aquesta Llei.
+
+**Article 4. Concurrència de procediments**
+
+Sense perjudici de l’ordre de prelació per al cobrament dels crèdits establert per les lleis, si un procediment singular d’execució concorre amb altres procediments singulars d’execució o amb un procediment concursal o universal d’execució, la preferència per a l’execució dels béns o drets embargats es regeix per les normes següents:
+a) Quan concorren dos o més procediments singulars d’execució, és preferent el procediment en què l’aute o, en defecte d’aute, l’ofici d’embargament del batlle o el tribunal, o l’acord d’embargament del saig o de l’Administració que executa és anterior.b) Quan concorre un procediment singular d’execució amb un procediment concursal o universal d’execució, el procediment singular segueix el règim que estableixi la normativa aplicable en matèria concursal. Subsidiàriament, el batlle o el tribunal competent, o el saig o l’Administració, ha de suspendre la tramitació del procediment singular d’execució, llevat que el batlle o el tribunal que coneix el procediment concursal d’execució ho decideixi altrament.
+
+**Article 5. Determinació dels béns i drets que s’embarguen**
+
+$1e
+
+**Article 6. Béns inembargables**
+
+No poden ser objecte d’embargament:
+a) El mobiliari i el parament del domicili, i la roba de la persona embargada, excepte quan es tracti d’obres d’art, d’articles de luxe o de col·lecció o, en general, de béns que no es puguin considerar necessaris per a la subsistència digna de la persona embargada i dels familiars que en depenguin econòmicament.b) Els béns i els instruments estrictament necessaris per a l’exercici de la professió, l’art o l’ofici de la persona embargada, quan el seu valor no guardi proporció amb l’import que és objecte de l’embargament.c) Les quotes sindicals.d) Els béns i les quantitats que hagin estat declarats inembargables o inalienables per aquesta Llei, les altres lleis o els tractats internacionals.
+
+**Article 7. Embargament de béns o drets en entitats de crèdit o dipòsit**
+
+$20
+
+**Article 8. Embargament de salaris i rendes periòdiques**
+
+$22
+
+**Article 9. Embargament de béns immobles**
+
+$24
+
+**Article 10. Embargament de béns mobles. Dipòsit**
+
+$26
+
+**Article 11. Embargament de béns mobles o immaterials inscrits en registres especials**
+
+$2a
+
+**Article 12. Paralització de l’embargament**
+
+En qualsevol moment anterior o posterior a la pràctica de l’embargament, i fins a l’adjudicació definitiva dels béns o drets embargats, la persona embargada pot evitar l’embargament o deixar-lo sense efecte, mitjançant la consignació prop del batlle o el tribunal competent, o del saig o l’Administració, de l’import que és objecte de l’embargament.
+
+**Article 12 bis. Embargament d’empreses, rendiments, fruits o rendes. Administració**
+
+$2c
+
+**Article 13. Valoració dels béns i drets embargats**
+
+$2e
+
+**Article 14. Alienació dels béns i drets embargats**
+
+1. L’alienació dels béns o drets embargats es fa mitjançant algun dels procediments següents:
+a) Subhasta.b) Adjudicació directa.
+2. L’Administració que executa no pot alienar els béns o drets embargats fins que l’acte executat esdevingui ferm, excepte en els casos establerts a la Llei de bases de l’ordenament tributari.
+
+**Article 15. Alienació per subhasta**
+
+$30
+
+**Article 16. Alienació per adjudicació directa**
+
+$38
+
+**Article 17. Costes de l’execució**
+
+Totes les despeses que s’originin des del moment de l’embargament i fins a l’acabament del procediment d’execució tenen la consideració de costes de l’execució, i són exigides a la persona executada.
+
+**Article 18. Aixecament de l’embargament**
+
+$3c
+
+**Article 19. Extinció de l’embargament pel transcurs del temps (caducitat)**
+
+1. Els embargaments caduquen als deu anys d’haver estat acordats, i perden tota eficàcia i oposabilitat de forma automàtica pel mer transcurs del referit termini, sense que sigui necessari cap acord, acte, requeriment o comunicació.
+2. No obstant això, les autoritats competents que els van ordenar, poden acordar, d’ofici o a instància de part interessada, la pròrroga dels embargaments per períodes successius de quatre anys, sempre i quan se’n faci la petició abans de que transcorri el termini de caducitat o qualsevol de les seves pròrrogues.
+Quan es produeix la caducitat d’un embargament la part executant pot tornar a sol·licitar l’embargament mentre duri el seu dret d’executar la resolució o l’acte objecte d’execució, però el nou embargament només tindrà efecte a partir de la data en què l’autoritat executant torni a travar l’embargament.
+
+**Embargaments en curs**
+
+Aquesta Llei és aplicable als embargaments practicats en el marc dels processos que coneguin i tramitin els òrgans jurisdiccionals, que hagin estat instats després de l’entrada en vigor de la Llei. Això no obstant, els batlles i tribunals han d’adaptar a les prescripcions d’aquesta Llei, en la mesura que els sigui possible, els embargaments que practiquin a partir de l’entrada en vigor de la Llei, en el marc de processos instats anteriorment.
+
+**Disposicions reglamentàries**
+
+Es faculta el Govern per aprovar les disposicions reglamentàries que siguin necessàries per al desplegament, l’eficàcia i l’execució d’aquesta Llei.
+
+**Qualificació de l’article 2.2**
+
+L’article 2.2, que incideix en determinades disposicions de la Llei 15/2003, del 18 de desembre, qualificada de protecció de dades personals, té caràcter de llei qualificada. La resta de les disposicions d’aquesta Llei tenen caràcter de llei ordinària.
+
+**Entrada en vigor**
+
+Aquesta Llei entrarà en vigor al cap d’un mes de ser publicada al Butlletí Oficial del Principal d’Andorra, sense perjudici del fet que les referències al saig o a l’Administració que s’hi contenen no seran d’aplicació fins l’endemà de la data en què els primers saigs prenguin possessió de les seves funcions. El Govern ha de publicar un avís al Butlletí Oficial del Principal d’Andorra per donar a conèixer aquesta data.
+Casa de la Vall, 18 de desembre del 2014
+Vicenç Mateu ZamoraSíndic General
+Nosaltres els coprínceps la sancionem i promulguem i n’ordenem la publicació en el Butlletí Oficial del Principat d’Andorra.
+Joan Enric Vives SicíliaBisbe d’UrgellCopríncep d’AndorraFrançois HollandePresident de la República FrancesaCopríncep d’Andorra
