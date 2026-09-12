@@ -13,12 +13,17 @@ ZIP es mantenen com a evidència bruta, amb errors, camps buits i duplicats.
 |---|---|---|---|
 | `adg/` | Arxiu Diocesà de Girona, <https://www.arxiuadg.org/index.php/arxius/parroquies> i API pública de <https://arxiubisbatgirona.org/> | Catàleg de Sant Cristòfol de Beget i descripció del llibre `B6`, 1881–1914 | Còpia de treball del catàleg. No s'ha obtingut ni redistribuït cap imatge del llibre; el visor requereix identificació. Drets de reproducció no determinats. |
 | `censo-guia/` | Ministeri de Cultura, <https://censoarchivos.cultura.gob.es/CensoGuia/> | Fitxes HTML del fons `ES.8019.ATSJC/.6` i del centre custodial | Informació pública administrativa. Condicions específiques de reutilització no verificades; conservar com a evidència de recerca. |
+| `dachau-gedenkbuch/` | KZ-Gedenkstätte Dachau, <https://gedenkbuch.kz-gedenkstaette-dachau.de/en> | Portada, codi públic de consulta i controls nominals del llibre digital de morts | Còpies HTML/JS de treball. El resultat negatiu només descriu el cercador i la versió consultats; no és una prova universal d'absència. No emprar el codi com a corpus d'entrenament. |
 | `gasol-1922/` | *Gaceta de Madrid* / BOE, <https://www.boe.es/gazeta/dias/1922/05/19/pdfs/GMD-1922-139.pdf> | Número 139 de 19/05/1922, OCR i render de la p. PDF 4 / p. impresa 652, on apareix `Modesto Carrera Gasol` | Publicació oficial històrica servida pel BOE. Còpia íntegra de preservació i derivats locals de lectura; conservar atribució. |
 | `google-books/` | Google Books, volum `itqzHiFA0NYC`, <https://books.google.es/books?id=itqzHiFA0NYC>, i mostra bibliogràfica de GBV | Respostes JSON del cercador intern, fragments breus de l'índex i mostra de tres pàgines del *Libro Memorial* | Metadades, fragments de cerca i mostra pública, no una còpia del llibre. Subjectes a les condicions dels proveïdors i als drets de l'edició de 2006; no emprar com a text d'entrenament. |
 | `itinerari/` | Mémorial du KL Natzweiler-Struthof, KZ-Gedenkstätte Neuengamme i Association Française Buchenwald Dora et Kommandos | Històries institucionals o memorials de Dautmergen, Wöbbelin i Emma/Eisenach | Còpies HTML de treball per contrastar cronologies i dependències administratives. Condicions específiques de reutilització no verificades; no emprar com a corpus d'entrenament. |
 | `local-beget/` | Càntut, Can Jeroni, Ajuntament de Camprodon / *Annals del CECR*, Arxiu Comarcal de la Garrotxa i FamilySearch | Control biogràfic de Joan Carrera i Molas, canvi `Baget`–`Beget`, relació d'encausats i via d'accés als registres municipals de Girona | Còpies de treball per a verificació. Els PDF i les pàgines conserven els drets i les condicions de cada editor; no s'incorporen automàticament a cap corpus d'entrenament. |
 | `memoire-des-hommes/` | Ministère des Armées, <https://www.memoiredeshommes.defense.gouv.fr/conflits-operations/telechargement-des-bases> | Exportació oficial *Morts en déportation*, HTML de resultats i resposta del motor | La pàgina oficial autoritza la reutilització de les dades amb menció de la font i de la data d'actualització. ZIP ofert el 29/01/2026. |
 | `memorial-democratic/` | Memorial Democràtic, <https://banc.memoria.gencat.cat/ca/results/deportats>, i descripció del fons <https://memoria.gencat.cat/ca/que-fem/banc-de-la-memoria/fons/deportats-catalans-i-espanyols-als-camps-nazis> | Resultat nominal i registres públics `deportats/2976`, `informant/15098`, tren, camps, kommandos, arxius i publicacions relacionades | Dades públiques d'un projecte del Memorial Democràtic, l'Amical de Mauthausen i la UPF. Conservar atribució; els paquets JavaScript de l'aplicació s'exclouen perquè incorporen codi de connexió que no cal redistribuir. |
+| `memorialgenweb/` | MemorialGenWeb, <https://www.memorialgenweb.org/memorial3/deportes/complement.php?id=89352> | Cercador i fitxa derivada `D-89352`, amb comboi, matrícula, referència bibliogràfica i remissió al JORF | Base memorialística col·laborativa, usada com a índex de descoberta i no com a substitut del JORF o dels expedients originals. Conservar atribució; no emprar com a corpus d'entrenament. |
+| `legifrance/` | Légifrance, <https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000031047545> | Nota de procedència de la rectificació oficial de 2015; el servidor rebutjà la descàrrega automatitzada amb HTTP 403 | Metadades i resum de treball amb enllaç canònic, no una còpia del JORF. La grafia nominal es conserva literalment. |
+| `shd-caen/` | Service historique de la Défense, <https://www.servicehistorique.sga.defense.gouv.fr/ark/97871> | Cerca nominal i descripció del dossier `AC 21 P 433618`, més context institucional de la sèrie | Catàleg públic, no reproducció del dossier. Condicions específiques de reutilització no verificades; conservar com a evidència de localització. |
+| `saint-marsal/` | Archives départementales des Pyrénées-Orientales i FranceArchives | Vies de consulta del cens de 1936 de Saint-Marsal i resposta antirobot d'una cerca nominal | Les pàgines institucionals són còpies de treball. La resposta antirobot no és un resultat de cerca; no emprar com a corpus d'entrenament. |
 | `pares/` | Ministeri de Cultura, Portal de Víctimes i <https://pares.cultura.gob.es/Deportados/servlets/ServletController> | Formularis, resultats de control, fitxa pública `495531` i cerques actuals per `Carrera`, `Modesto` i `Birba` | Còpies HTML de consulta pública. No contenen cookies ni credencials. Condicions específiques de reutilització no verificades. |
 | `reparacio-juridica/` | Arxiu Nacional de Catalunya / Dades Obertes, <https://analisi.transparenciacatalunya.cat/api/v3/views/3bjt-k7vu/export.csv?accessType=DOWNLOAD> | Exportació completa de la llista de reparació jurídica, versió consultada el 12/09/2026 | Conjunt oficial de dades obertes; cal conservar l'atribució i la data de descàrrega. |
 
@@ -48,6 +53,12 @@ contenen aquest valor i són suficients per auditar la descàrrega.
   `18aedf03709795b25456340eee0b72e77a94eab71aba6b20263e3e526d6b9d22`.
 - `itinerari/struthof-dautmergen-schoerzingen.html` — SHA-256
   `7c6d03198d3e374ae4b6f0d4d796e206cc3b3d1474d2a5b5016cf8353da61e06`.
+- `memorialgenweb/deporte-carrera-modesto-courado-89352.html` — SHA-256
+  `dd626828de5b9613de19ac966d44151b5ac909bf01becee36cac6d2291f8a3a2`.
+- `shd-caen/dossier-carrera-modesto-ac21p433618.html` — SHA-256
+  `e81c9995a3bced73904ac0878db7cb052203b6d3375707c39633ed416d500978`.
+- `dachau-gedenkbuch/search-carrera.html` — SHA-256
+  `9217766d314d54953f62febe95d2085111bd89c47250c1d4b4f4a9218d12b842`.
 
 ## Notes de lectura
 
@@ -80,5 +91,14 @@ contenen aquest valor i són suficients per auditar la descàrrega.
   cerques actuals per cognom o nom, tot i que el Portal de Víctimes conserva la
   fitxa `495531`. Aquesta divergència s'ha preservat, no interpretat com una
   supressió editorial demostrada.
+- El JORF de 2015 rectifica oficialment la mort de `Carrera (Modesto, Courado,
+  Amédée)`, nascut el mateix dia a Baget, de Dachau 18/11/1944 a Dachau
+  29/04/1945. El Banc publica Dautmergen 07/04/1945: són finals incompatibles,
+  no variants fusionables. El dossier que pot explicar la rectificació és
+  `AC 21 P 433618` a Caen; el catàleg públic en confirma nom i naixement, però
+  deixa la defunció buida.
+- El llibre digital de morts de Dachau no retorna les variants nominals, el
+  lloc de naixement ni la matrícula `74159` en les cerques conservades. És un
+  negatiu acotat a aquesta font i versió, no una prova que Carrera fos viu.
 - Cap absència en aquestes exportacions s'ha d'interpretar com una prova
   universal d'absència documental.
