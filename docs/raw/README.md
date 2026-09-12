@@ -297,10 +297,32 @@ espanyol que va provocar.
 | `bpt-*` | *Bulletin* francès, 1878-1893 | **Gallica / BnF** (**URL no registrada**) |
 | `12052025` | Document del **12.05.2025** | **URL no registrada** |
 
-**Tota aquesta carpeta té la procedència incompleta.** Són fonts d'arxiu
-públiques i identificables, però **el corpus no pot citar-les amb rigor fins
-que no en tingui l'URL i la signatura**. Cap d'aquests materials ha generat
-encara fitxa de font.
+**La procedència d'aquesta carpeta és parcial, i el 2026-09-12 ho és menys.**
+Els diaris de sessions **s'identifiquen sols**: porten capçalera, número de
+diari, data de sessió i pàgina, i això és **signatura suficient per citar-los**
+encara que falti l'URL de descàrrega.
+
+| Fitxer | Identificació verificada |
+| --- | --- |
+| `congreso-1895-06-17` | Congrés, **núm. 148**, sessió de **dilluns 17 de juny de 1895** |
+| `congreso-157` | Congrés, **núm. 157**, sessió de **dissabte 29 de juny de 1895** |
+| `congreso-1895-06-30` | Congrés, **núm. 158**, sessió de **diumenge 30 de juny de 1895** |
+| `congreso-1895-ap40` | **Apèndix 40 al núm. 89** — l'addició signada el **27 de març de 1895** |
+| `congreso-153-ap2`, `congreso-157-ap2` | Apèndixs **2n** als núm. **153** i **157** |
+| `boletin-leon-1894-09-17` | **Boletín Oficial de la provincia de León**, núm. 34, **17 de setembre de 1894** |
+| `12052025` | **No és premsa.** És l'acta d'una **Junta de Govern comunal** del **12-5-2025**, exp. 2025/2714. **Està mal classificat en aquesta carpeta** |
+
+**Ja tenen fitxa de font:** els diaris de sessions del Congrés, a
+[`diario-sesiones-corts-1895`](../fonts/diario-sesiones-corts-1895.md).
+
+**Dos fitxers `.txt` són buits** —`senado-1895-06-29` i
+`correspondencia-1895-06-27`—: els PDF no tenen capa de text i **necessiten
+OCR**. El del Senat és, precisament, **on hauria de constar el desenllaç** de la
+qüestió duanera.
+
+**Avís de lectura:** aquests diaris van **a dues columnes**, i el text pla que en
+surt les barreja línia a línia. Llegits seguits **fabriquen frases que ningú no
+va dir**. S'han de reconstruir columna a columna abans de citar-ne res.
 
 ---
 
@@ -331,7 +353,7 @@ com està**: són material de cerca, no fonts.
 | `sac-diades/` | **sí** — institució, llicència, handle i patró d'URL |
 | `llibres/` | **no** — falta l'URL de les quatre obres |
 | `academic/` | **no** — falta l'URL de les sis |
-| `hemeroteca/` | **no** — falten URL i signatures |
+| `hemeroteca/` | **parcial** — els diaris de sessions s'identifiquen per número, data i pàgina i ja tenen fitxa; falta l'URL, i la premsa i els `bpt-*` segueixen sense signatura |
 | `web/` | **parcial** — s'identifica l'origen, no l'URL exacta |
 
 **Aquest quadre és, ell mateix, la llista de feina.** La regla del projecte

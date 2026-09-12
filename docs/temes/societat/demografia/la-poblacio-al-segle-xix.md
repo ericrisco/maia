@@ -59,6 +59,28 @@ un any**.
 3. **Un fet real** —una epidèmia, una emigració sobtada— **que caldria
    documentar**.
 
+### Un tercer punt de dades, de 1895 i de fora
+
+El **Congrés dels Diputats espanyol**, en l'exposició de motius de l'addició
+pressupostària del **27 de març de 1895**, diu que Andorra **«és un petit país
+que compta uns 6.000 habitants»**
+([font](../../../fonts/diario-sesiones-corts-1895.md)).
+
+**No resol la contradicció, però la decanta.** La xifra espanyola de 1895 va amb
+els **5.800 de Combarnou per al 1896** i **no** amb els 5.210 de 1897: reforça la
+hipòtesi 2 —que la dada de 1897 ve de Brutails i **no és comparable** amb la
+sèrie— i afebleix la del daltabaix demogràfic real.
+
+**Avís:** és una xifra **rodona i d'oïda** («uns 6.000»), en un document que
+defensa una rebaixa d'aranzels, no un cens. Val com a **ordre de magnitud**, no
+com a recompte.
+
+I el mateix document aporta una dada que el corpus no tenia de cap altra banda:
+**«Habiten a Andorra, o estan domiciliades dins de les valls, 105 famílies
+espanyoles.»** A cinc persones per casa serien unes **525 persones** — prop d'una
+**desena part** de la població. Vegeu
+[el que Andorra comprava a Espanya](../../economia/comerc/el-que-andorra-comprava-a-espanya.md).
+
 **La segona és la hipòtesi més econòmica**, i el corpus la marca com a hipòtesi.
 
 **Buit registrat, prioritari i tancable:** anar a Brutails i a Combarnou.

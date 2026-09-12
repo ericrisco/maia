@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**268** documents · **73** fonts · **0** aptes com a model de llengua · **105** temes amb contingut.
+**276** documents · **75** fonts · **0** aptes com a model de llengua · **105** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -174,6 +174,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Comerç](temes/economia/comerc/comerc.md) | `temes/economia/comerc` | compilada | contemporania | no | `viquipedia-ca` |
+| [El que Andorra comprava a Espanya](temes/economia/comerc/el-que-andorra-comprava-a-espanya.md) | `temes/economia/comerc` | compilada | contemporania | no | `diario-sesiones-corts-1895` |
 | [La Cambra de Comerç i la formació](temes/economia/comerc/la-cambra-de-comerc-i-la-formacio.md) | `temes/economia/comerc` | compilada | contemporania | no | `escaler-cambra-de-comerc` |
 
 ## temes/economia/energia-i-serveis
@@ -216,6 +217,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Andorra als Jocs Olímpics](temes/esports/competicio/andorra-als-jocs-olimpics.md) | `temes/esports/competicio` | compilada | contemporania | no | `wikipedia-esport-andorra` |
 | [Els Jocs dels Petits Estats d'Europa](temes/esports/competicio/els-jocs-dels-petits-estats.md) | `temes/esports/competicio` | compilada | contemporania | no | `gelabert-jocs-petits-estats` |
 
 ## temes/esports/formacio-esportiva
@@ -358,6 +360,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Guillem d'Areny-Plandolit](temes/historia/segle-xix/guillem-dareny-plandolit.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `viquipedia-ca` |
+| [La qüestió duanera de 1895](temes/historia/segle-xix/la-questio-duanera-de-1895.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `diario-sesiones-corts-1895` |
 | [La Nova Reforma de 1866](temes/historia/segle-xix/nova-reforma.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/historia/segle-xx-primera-meitat
@@ -536,8 +539,13 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Èric Risco de la Torre](temes/persones/eric-risco.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
 | [Francesc Cairat i Freixes](temes/persones/francesc-cairat.md) | `temes/persones` | compilada | contemporania | no | `bascompte-consell-de-la-terra` |
+| [Irineu Esteve Altimiras](temes/persones/irineu-esteve-altimiras.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
+| [Joan Verdú Sánchez](temes/persones/joan-verdu.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
 | [Julià Reig i Ribó](temes/persones/julia-reig.md) | `temes/persones` | compilada | contemporania | no | `bascompte-consell-de-la-terra` |
+| [Mònica Dòria Vilarrubla](temes/persones/monica-doria.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
+| [Nahuel Carabaña](temes/persones/nahuel-carabana.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
 
 ## temes/politica/identitat-politica
 
@@ -820,6 +828,7 @@
 | [`de-la-parte-immigracio-cultura`](fonts/de-la-parte-immigracio-cultura.md) | Isabel de la Parte i Cano · Joan Micó i Ibáñez · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`debat-2a-diada-migracions`](fonts/debat-2a-diada-migracions.md) | Societat Andorrana de Ciències · CREC, Universitat de Perpinyà | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`deu-tradicio-coral`](fonts/deu-tradicio-coral.md) | Marta Deu i Pedrerol · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
+| [`diario-sesiones-corts-1895`](fonts/diario-sesiones-corts-1895.md) | Congreso de los Diputados (Espanya) · document oficial parlamentari | document parlamentari oficial de 1895; domini públic per antiguitat | si |
 | [`duro-rol-del-parlamentari`](fonts/duro-rol-del-parlamentari.md) | Josep Duró i Coma · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`escaler-cambra-de-comerc`](fonts/escaler-cambra-de-comerc.md) | Pilar Escaler i Penella · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`escribano-musica`](fonts/escribano-musica.md) | Josep Maria Escribano i Casaldàliga · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
@@ -874,3 +883,4 @@
 | [`vela-consell-de-la-terra-1419`](fonts/vela-consell-de-la-terra-1419.md) | Susanna Vela i Palomares · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`vela-ordinacions-segle-xv`](fonts/vela-ordinacions-segle-xv.md) | Susanna Vela i Palomares · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`viquipedia-ca`](fonts/viquipedia-ca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-esport-andorra`](fonts/wikipedia-esport-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
