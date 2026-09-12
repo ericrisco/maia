@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**207** documents · **31** fonts · **0** aptes com a model de llengua · **96** temes amb contingut.
+**209** documents · **32** fonts · **0** aptes com a model de llengua · **96** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -441,6 +441,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Els anglicismes](temes/llengua/manlleus/els-anglicismes.md) | `temes/llengua/manlleus` | compilada | contemporania | no | `costa-globalitzacio-llengues` |
 | [Manlleus](temes/llengua/manlleus/manlleus.md) | `temes/llengua/manlleus` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 
 ## temes/llengua/morfosintaxi
@@ -463,6 +464,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [«Andorra es castellanitza»](temes/llengua/politica-linguistica/andorra-es-castellanitza.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `debat-2a-diada-migracions` |
+| [La globalització i el català](temes/llengua/politica-linguistica/la-globalitzacio-i-el-catala.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `costa-globalitzacio-llengues` |
 | [La llei de la llengua](temes/llengua/politica-linguistica/la-llei-de-la-llengua.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `govern-andorra-web` |
 | [La sèrie històrica del català a Andorra](temes/llengua/politica-linguistica/la-serie-historica.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `molla-catala-andorra` |
 | [Qui parla què](temes/llengua/politica-linguistica/qui-parla-que.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `govern-andorra-web` |
@@ -703,6 +705,7 @@
 | [`cerqueda-banca`](fonts/cerqueda-banca.md) | Manel Cerqueda i Donadeu · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`consell-general-web`](fonts/consell-general-web.md) | Consell General del Principat d'Andorra | informació institucional pública | si |
 | [`coprincep-frances`](fonts/coprincep-frances.md) | Representació del Copríncep Francès a Andorra | informació institucional pública | si |
+| [`costa-globalitzacio-llengues`](fonts/costa-globalitzacio-llengues.md) | Ferran Costa i Marimon · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`de-la-parte-immigracio-cultura`](fonts/de-la-parte-immigracio-cultura.md) | Isabel de la Parte i Cano · Joan Micó i Ibáñez · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`debat-2a-diada-migracions`](fonts/debat-2a-diada-migracions.md) | Societat Andorrana de Ciències · CREC, Universitat de Perpinyà | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`ferrer-percepcio-andorra-exterior`](fonts/ferrer-percepcio-andorra-exterior.md) | Josep Ferrer i Altimira · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
