@@ -83,8 +83,8 @@ llista de buits: bona part de les files hi apunten a fitxa.
 | **Susanna Vela i Palomares** | Cap d'àrea de l'**Arxiu Nacional**; diplomatari del segle XV | **buit** |
 | **Domènec Bascompte i Grau** | Arxiver del Comú de Canillo; diplomataris | **buit** |
 | **Joan Becat** | Geògraf (Univ. de Perpinyà). **La seva ponència més citada ja és llegida**: el diagnòstic migratori del 1989 | [el diagnòstic de 1989](../societat/immigracio/el-diagnostic-de-1989.md) · *la tesi en set volums segueix sense consultar* |
-| **Manuel Anglada i Ferran** | Sobre els orígens de la parla andorrana | **buit** |
-| **Cebrià Baraut** | **Cartularis** de la vall d'Andorra | **buit** |
+| **Manuel Anglada i Ferran** | Lingüista. **La seva ponència del 1994 ja és llegida**: toponímia fòssil amb les formes documentades | [el substrat als noms de lloc](../territori/toponimia/el-substrat-als-noms-de-lloc.md) · *«Arrels d'Andorra» (1993) segueix sense consultar* |
+| **Cebrià Baraut** | ***Cartulari de la Vall d'Andorra***, vol. I (**1988**, s. IX-XIII) i vol. II (**1990**, s. X-XIII), Govern d'Andorra. **És la font documental de base de la toponímia** | [el substrat als noms de lloc](../territori/toponimia/el-substrat-als-noms-de-lloc.md) · **l'obra segueix sense obrir** |
 | **Àlvar Valls** | **Diccionari enciclopèdic d'Andorra**, 2006 | [l'obra](../historia/historiografia/el-diccionari-enciclopedic.md) |
 | **Sergi Mas i Balaguer** | ***El moble andorrà*** (2003) i ***Aspectes de l'art popular d'Andorra*** (2016). **Va escriure el que també va esculpir** | [fitxa](../cultura/arts-visuals/sergi-mas.md) |
 | **Roland Viader** | *L'Andorre du IXe au XIVe siècle*; la tesi de la **federació de comuns** | **buit prioritari** |

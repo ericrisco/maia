@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**319** documents · **99** fonts · **0** aptes com a model de llengua · **108** temes amb contingut.
+**320** documents · **99** fonts · **0** aptes com a model de llengua · **108** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -816,6 +816,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El substrat als noms de lloc](temes/territori/toponimia/el-substrat-als-noms-de-lloc.md) | `temes/territori/toponimia` | compilada | contemporania | no | `anglada-origens-parla-andorrana` |
 | [Les tautologies toponímiques](temes/territori/toponimia/les-tautologies.md) | `temes/territori/toponimia` | compilada | contemporania | no | `anglada-origens-parla-andorrana` |
 | [La toponímia andorrana](temes/territori/toponimia/toponimia-andorrana.md) | `temes/territori/toponimia` | compilada | contemporania | no | `viquipedia-ca` |
 

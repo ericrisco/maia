@@ -82,8 +82,12 @@ d'un topònim ha de dir de quin document surt la forma que cita.**
 
 - Fitxa per topònim, començant per **les set parròquies**: Canillo, Encamp,
   Ordino, la Massana, Andorra la Vella, Sant Julià de Lòria, Escaldes-Engordany.
-  **Aquesta fitxa no dona l'etimologia de cap d'elles** —només consta que
-  Canillo té explicació indoeuropea— i no se n'inventarà cap.
+  ~~**Aquesta fitxa no dona l'etimologia de cap d'elles.**~~ **OBERT A MITGES**:
+  [el substrat als noms de lloc](./el-substrat-als-noms-de-lloc.md) en dona
+  **les formes documentades i datades** de quinze topònims —**Canillo s'escriu
+  *kanillave* el 860 i *caniyoll* el 1295**— i les etimologies que s'hi
+  proposen, **marcades com a propostes**. **Canillo queda «en quarantena» pel seu
+  propi autor.** Falten **Encamp, la Massana i Sant Julià**.
 - **L'etimologia d'«Andorra»** ja té fitxa:
   [el nom d'Andorra](../../historia/origens/el-nom-dandorra.md). Hi consta també
   que **«Andorra la Vella» ve de *vila d'Andorra*, no de «vella»** — un
@@ -100,4 +104,5 @@ d'un topònim ha de dir de quin document surt la forma que cita.**
 ## Related
 
 - [Les set parròquies](../../institucions/comuns-i-parroquies/les-set-parroquies.md) — els noms per explicar.
+- [El substrat als noms de lloc](./el-substrat-als-noms-de-lloc.md) — les atestacions, segle a segle.
 - [Onomàstica](../../llengua/onomastica/onomastica.md) — noms de persona.

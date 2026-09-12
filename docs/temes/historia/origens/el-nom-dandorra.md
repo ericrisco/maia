@@ -192,8 +192,15 @@ consten; cap no s'hi dona per tancada.
 - **Planas, Gascón, López-Mugartza i Belasko**, ***Anàlisi fisiogràfica de
   topònims andorrans d'arrel preromana***, **Govern d'Andorra, 2018**. **La font
   central de toponímia andorrana, i el corpus no l'ha oberta.**
-- **Manuel Anglada i Ferran**, *«Els orígens de la parla andorrana»*, 7a Diada
-  Andorrana, UCE 1994 (SAC, 1995).
+- ~~**Manuel Anglada i Ferran**, *«Els orígens de la parla andorrana»*, 7a Diada
+  Andorrana, UCE 1994 (SAC, 1995).~~ **LLEGIDA**:
+  [el substrat als noms de lloc](../../territori/toponimia/el-substrat-als-noms-de-lloc.md).
+  **Hi ha la derivació** —basc *andi* 'important' + *iturria* 'la font'— i **la
+  sèrie sencera de tautologies**, de Dorres a A Toxa. **I una divergència que cal
+  registrar**: Anglada **manté els andosinos de Polibi** (amb el pas de /S/ a /R/
+  per rotacisme) **alhora que** l'etimologia basca, mentre que **Gascón fa servir
+  la segona contra els primers**. **Dues combinacions diferents de les mateixes
+  peces.**
 - **Roland Viader**, *L'Andorre du IXe au XIVe siècle* (Toulouse, 2003).
 - **Ernest Belenguer** (dir.), *Història d'Andorra. De la prehistòria a l'edat
   contemporània* (Edicions 62, 2005).
