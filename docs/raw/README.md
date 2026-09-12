@@ -92,9 +92,39 @@ sèrie salta: `427985` = 27a, `427986` = 28a, `427988` = 29a, `427989` = 30a.
   El PDF es conserva aquí i les fitxes de font el citen **per ISBN
   (978-99920-61-49-7) i per DOI (10.2436/15.8060.16.x)**, que sí que consten a
   cada pàgina. **Buit registrat: localitzar el handle.**
-- **Volums dels anys 1989-2002** — digitalitzats amb **OCR de baixa qualitat**:
+- **Volums dels anys 1989-2002** — ~~digitalitzats amb **OCR de baixa qualitat**:
   hi ha confusions sistemàtiques (`ç`→`9`, `í`→`f`, `ó`→`6`, columnes barrejades,
-  taules destruïdes). **Les citacions s'han de verificar contra l'original.**
+  taules destruïdes). **Les citacions s'han de verificar contra l'original.**~~
+  **REEXTRETS EL 2026-09-13.** El problema no era l'extracció: **era la capa de
+  text que el PDF ja portava**, feta amb un OCR antic que **no reconeixia cap
+  vocal accentuada**. Refets amb
+  `ocrmypdf --force-ocr -l cat+spa`:
+
+  | Volum | Caràcters accentuats, abans | Després |
+  | --- | ---: | ---: |
+  | `02a-1989-els-moviments-migratoris-a-andorra` | **0** | **4.684** |
+  | `03a-1990-la-identitat-nacional` | **0** | **3.411** |
+  | `07a-1994-andorra-i-la-catalanitat` | **0** | **8.414** |
+  | `10a-1997-la-integracio-a-andorra` | **0** | **6.733** |
+  | `13a-2000-formacio-i-ensenyament-a-andorra` | **0** | **8.247** |
+  | `15a-2002-una-historia-dandorra-tematica` | **0** | **10.264** |
+
+  **Zero en tots sis.** Un text català sense cap accent **no es pot citar**: cada
+  citació d'aquests volums s'havia de reconstruir a mà, i **el corpus no tenia
+  manera de comprovar-la**. Ara sí.
+
+  El recompte de paraules **baixa lleugerament** (per exemple 71.668 → 68.398 al
+  10a): l'OCR antic partia paraules i convertia soroll en text. **Menys paraules i
+  molt més text vàlid.**
+
+  **Conseqüència per a les fitxes ja escrites.** Els volums **13a** i **15a**
+  tenen **21 i 15 fitxes de font** redactades contra el text antic. **Les seves
+  citacions ara es poden verificar i s'han de verificar.** **Buit registrat,
+  prioritari.**
+
+  **El que segueix sent cert:** les **columnes barrejades** i les **taules
+  destruïdes** són un problema de maquetació, no d'OCR, i **no els arregla
+  reextreure**. Vegeu l'avís de l'hemeroteca.
 - **Volums del 2015 i el 2016** — PDF **digitals amb capa de text neta**: les
   citacions són fiables caràcter a caràcter.
 
