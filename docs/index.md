@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**263** documents · **70** fonts · **0** aptes com a model de llengua · **105** temes amb contingut.
+**264** documents · **71** fonts · **0** aptes com a model de llengua · **105** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -57,6 +57,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [La Inquisició a Andorra](temes/costums/religiositat/la-inquisicio-a-andorra.md) | `temes/costums/religiositat` | compilada | contemporania | no | `viquipedia-ca` |
+| [Les religions d'Andorra avui](temes/costums/religiositat/les-religions-dandorra-avui.md) | `temes/costums/religiositat` | compilada | contemporania | no | `pastor-andorra-diversa` |
 | [L'evangelització](temes/costums/religiositat/levangelitzacio.md) | `temes/costums/religiositat` | compilada | contemporania | no | `pujol-fet-religios` |
 | [La religiositat](temes/costums/religiositat/religiositat.md) | `temes/costums/religiositat` | compilada | contemporania | no | `viquipedia-ca` |
 
@@ -847,6 +848,7 @@
 | [`oranias-formacio-administracio`](fonts/oranias-formacio-administracio.md) | Imma Oranias i Estudis · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pallares-medicina-andorra`](fonts/pallares-medicina-andorra.md) | Manuel Pallarès i Darsa · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pampalona-particularitats-microestats`](fonts/pampalona-particularitats-microestats.md) | Judith Pampalona i Tarrés · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`pastor-andorra-diversa`](fonts/pastor-andorra-diversa.md) | Robert Pastor i Castillo · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
 | [`pol-consciencia-nacional`](fonts/pol-consciencia-nacional.md) | Antoni Pol i Solé · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pons-neu-i-aigua`](fonts/pons-neu-i-aigua.md) | Marc Pons i Pons · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
 | [`premsa-andorrana`](fonts/premsa-andorrana.md) | Diari d'Andorra · Altaveu · Bondia · El Periòdic d'Andorra · La Ciutat | contingut periodístic amb drets reservats | False |

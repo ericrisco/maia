@@ -164,3 +164,86 @@ pròpia en aquest volum**, cosa que també diu alguna cosa. El corpus no en té 
 - [Associacionisme](../associacionisme/associacionisme.md)
 - [La piràmide de prestigi](./la-piramide-de-prestigi.md) — com les ordena la societat andorrana, segons el CRES el 2021.
 - [La composició per nacionalitats](../demografia/la-composicio-per-nacionalitats.md) — quantes persones hi ha de cadascuna.
+
+## Les associacions, una per una
+
+**El corpus tenia registrat que després del 1993 les comunitats es van poder
+constituir en associacions i que això les feia «un interlocutor vàlid per tractar
+amb l'administració».** **Ara en té la llista.**
+
+De **l'anuari del *Diari d'Andorra* del 2015**
+([font](../../../fonts/pastor-andorra-diversa.md)):
+
+| Per país o regió d'origen | |
+| --- | --- |
+| **Unió dels Francesos a l'Estranger** · **Associació africana** · **Associació italiana (AIDA)** · **Associació de danesos (Danes Worldwide)** · **Associació de mexicans (Mexand)** · **Associació d'Equatorians Residents a Andorra** · **Associació Indi Resident a Andorra (Indira)** · **Associació de Residents Portuguesos (ARPA)** · **Associació de Portuguesos al Pas de la Casa** · **Associació de Residents Marroquins** · **Associació de Filipins a Andorra (Filand)** · **Associació de Residents i Empatitzants de Veneçuela** · **Associació de Residents Peruans** · **Casa Rússia** | |
+
+| Per regió espanyola | |
+| --- | --- |
+| **Casa de Galícia** · **Centre Aragonès** · **Al-Andalus** · **Associació de Castella i Lleó** · **Associació Cultural de Lleó** · **Fillos de Lalín** | |
+
+| Per comarca portuguesa | |
+| --- | --- |
+| **Associació Cultural de Residents d'Alto Minho** — **té la seu a l'artèria central d'Encamp** | |
+
+**Vint-i-una associacions.** I la manera com estan repartides diu més que la
+llista: **hi ha sis associacions espanyoles per regió i cap associació
+«espanyola»**, i **dues de portugueses per territori** —el Pas de la Casa i
+l'Alto Minho— **a més de la general**.
+
+**Les comunitats d'Andorra no s'organitzen per passaport: s'organitzen per
+poble.** Això confirma, des de l'associacionisme, el que
+[el mercat de treball dual](./el-mercat-de-treball-dual.md) mostra des de les
+xarxes migratòries —**Mojácar, Lalín, Viana do Castelo**— i el que
+[la societat segmentada](./la-societat-segmentada.md) descrivia com a fractura
+«catalans / andalusos» **dins d'un mateix passaport**.
+
+**I n'hi ha que moren.** L'**Euskal Etxea** dels bascos va desaparèixer
+—«per disminució dels membres, o per manca de recursos»— i **havia arribat a fer
+classes d'èuscar i de txalaparta al local de Santa Coloma**.
+
+**Un instrument de percussió basc que es va tocar a Santa Coloma i ja no s'hi
+toca.** El corpus ho registra perquè **l'associacionisme immigrant també té
+baixes, i ningú no les compta**.
+
+## Les comunitats petites, amb xifres
+
+**El departament de Comunicació del Govern només facilita els col·lectius de més
+de cent membres**, i la font ho diu:
+
+| Comunitat | Persones |
+| --- | --- |
+| **Russa** | **578** |
+| **Brasilera** | **375** |
+| **Peruana** | **246** |
+| **Colombiana** | **232** |
+| **Xinesa** | **122** |
+| **Ucraïnesa** | **122** |
+| **Cubana** | **119** |
+| **Dominicana** | **110** |
+| **Mexicana** | **105** |
+
+**I l'avís de l'autor, que el corpus reté sencer:**
+
+> «**És evident que en falten molts** per completar els més de 77.000 segons les
+> darreres estimacions… **Algun dia arribarà un aclariment expert i fefaent.**»
+
+**Hi ha 578 russos a Andorra i cap font del corpus en diu res més.** Igual que
+**els 122 xinesos**, els **246 peruans** o els **375 brasilers**. **Buit
+registrat, comunitat per comunitat.**
+
+## I vint-i-un consolats
+
+A més de les representacions d'**Espanya**, **França** i **Portugal** —aquesta
+darrera **reduïda a consolat honorari**—, hi ha **dinou consolats honoraris
+més**: **Alemanya, Armènia, Bèlgica, Brasil, Corea, Estònia, Filipines,
+Finlàndia, Itàlia, Islàndia, Luxemburg, Polònia, el Regne Unit, la República
+Dominicana, la República Txeca, Rússia, Ucraïna, el Vietnam i Xile.**
+
+**Armènia, Estònia, Islàndia i el Vietnam tenen consolat a Andorra.** Val la
+pena al costat de
+[les relacions exteriors](../../institucions/relacions-exteriors/README.md).
+
+## Related
+
+- [Les religions d'Andorra avui](../../costums/religiositat/les-religions-dandorra-avui.md) — les mateixes comunitats, per confessió.

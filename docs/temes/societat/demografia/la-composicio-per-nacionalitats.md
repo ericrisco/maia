@@ -111,6 +111,41 @@ ella mateixa:
 
 **La xifra que importa per a la política és aquesta segona.**
 
+## La mateixa taula, per parròquies
+
+**Les mitjanes nacionals amaguen set països diferents.** Dades del **30 de juny
+del 2020**, **77.555 habitants**, **37.737 andorrans (48,7%)**
+([font](../../../fonts/pastor-andorra-diversa.md), citant *Altaveu*):
+
+| Parròquia | % d'andorrans |
+| --- | --- |
+| **Sant Julià de Lòria** | **57,7%** |
+| **Ordino** | **51,1%** |
+| **Canillo** | **36%** |
+
+**Canillo és la parròquia degana i la que té menys andorrans.** Trenta-sis contra
+cinquanta-set: **vint-i-un punts de diferència dins d'un país de 468 km²**.
+
+**I els francesos estan encara més desigualment repartits:**
+
+| Parròquia | % de francesos |
+| --- | --- |
+| **Canillo** | **10,7%** |
+| **Andorra la Vella, Sant Julià, Escaldes** | **menys del 3%** |
+
+**A Encamp**, dels **11.688 veïns**, els **portuguesos són el 18%** i els
+espanyols **just per sobre del 20%**.
+
+**Encamp és, en proporció, la parròquia més portuguesa del país**, i hi té la seu
+l'**Associació Cultural de Residents d'Alto Minho**
+([les comunitats](../immigracio/les-comunitats.md)).
+
+**Això lliga directament amb
+[la desigualtat del vot](../../politica/sistema-electoral/la-desigualtat-del-vot.md):**
+cada parròquia tria dos consellers territorials, i **la proporció de gent amb dret
+a votar-los varia vint punts d'una parròquia a l'altra**. **El creuament el fa el
+corpus; cap de les dues fonts no el fa.**
+
 ## Comunitat per comunitat
 
 ### Espanyols

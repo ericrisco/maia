@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "47e635dfc5e1e52e",
+        "id": "c450c1d996b777e6",
         "type": "tabs",
         "children": [
           {
-            "id": "90883625540bc416",
+            "id": "ff52099082dd6485",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -181,8 +181,21 @@
       "bases:Crea una base nova": false
     }
   },
-  "active": "90883625540bc416",
+  "active": "ff52099082dd6485",
   "lastOpenFiles": [
+    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/aelc-pamies-cartes.html",
+    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/bnc-teresa-pamies-arxiu.html",
+    "raw/sdd/ewa/eloise-fontargente/google-books-1974-eloise.json",
+    "raw/sdd/ewa/eloise-fontargente/google-books-1974-pastor-petit.json",
+    "temes/costums/religiositat/les-religions-dandorra-avui.md",
+    "fonts/pastor-andorra-diversa.md",
+    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/cepc-rpi-135-page-352.png",
+    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/cepc-rpi-135-page-351.png",
+    "temes/llengua/politica-linguistica/qui-parla-que.md",
+    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/cepc-rpi-135-1975-resena.txt",
+    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/cepc-rpi-135-1975-resena.pdf",
+    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/consulta-aga-censura-esborrany.md",
+    "temes/historia/moments-historics/la-cronologia-dandorra.md",
     "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/aga-informacio-ciutada.html",
     "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/aga-expedients-censura.html",
     "temes/historia/moments-historics/els-vuit-centenaris.md",
@@ -192,14 +205,8 @@
     "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/bacardi-traduccions-pamies-censura.txt",
     "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/bacardi-traduccions-pamies-censura.pdf",
     "fonts/pons-neu-i-aigua.md",
-    "raw/sac-debats-recerca/dr16-2025-la-neu-i-el-cicle-de-laigua.txt",
-    "raw/sac-debats-recerca/dr16-2025-la-neu-i-el-cicle-de-laigua.pdf",
     "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/consulta-pavello-esborrany.md",
     "fonts/sac-esport-i-salut.md",
-    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/ub-reproduccio-documents.html",
-    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/ub-pavello-contacte.html",
-    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/ccuc-sru-andorra-cadena.xml",
-    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/ub-sru-vides-entre-torb.xml",
     "temes/cultura/teatre/el-teatre-de-carnestoltes.md",
     "temes/cultura/teatre/la-vida-teatral.md",
     "temes/cultura/teatre/README.md",
@@ -220,14 +227,7 @@
     "raw/sdd/ewa/eloise-fontargente/iec-page-14.png",
     "raw/sdd/ewa/eloise-fontargente/iec-page-13.png",
     "fonts/lopez-escenaris-de-futur.md",
-    "temes/politica/parlamentarisme/quants-diputats.md",
-    "fonts/figuereda-nombre-de-diputats.md",
-    "temes/persones/julia-reig.md",
-    "temes/persones/francesc-cairat.md",
     "raw/sdd/ewa/eloise-fontargente/bulletin-page-18.png",
-    "raw/sdd/ewa/eloise-fontargente/bulletin-page-17.png",
-    "temes/persones/README.md",
-    "raw/sdd/ewa/chciuk-celt/topography/carte-rando-render/page-1.png",
-    "raw/sdd/ewa/chciuk-celt/topography/carte-rando-render/page-2.png"
+    "raw/sdd/ewa/eloise-fontargente/bulletin-page-17.png"
   ]
 }

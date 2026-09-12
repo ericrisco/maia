@@ -35,6 +35,15 @@ Gairebé tot. El corpus **no té res** sobre:
 - L'**Open internacional de tennis ATP d'Andorra**.
 - El **Comitè Olímpic Andorrà** i **Andorra als Jocs Olímpics** pròpiament dits
   — els [Jocs dels Petits Estats](./competicio/els-jocs-dels-petits-estats.md) sí que hi són.
+  **Una data solta**: Andorra hi participa **per primera vegada el 1976**
+  ([la cronologia](../historia/moments-historics/la-cronologia-dandorra.md)).
+- **El futbol.** El corpus **no en té res**, i és probablement l'esport del qual
+  més se'n parla al país. **De tot el futbol andorrà, l'única cosa documentada
+  aquí és un nom**: **Òscar Sonejee**, **d'origen indi**, **capità de la selecció
+  nacional durant anys** ([font](../../fonts/pastor-andorra-diversa.md)).
+  **Un sol fet no fa una fitxa**, i per això no n'hi ha cap: queda registrat aquí
+  i a [la piràmide de prestigi](../societat/immigracio/la-piramide-de-prestigi.md),
+  que és on diu alguna cosa. **Buit prioritari.**
 - El **Palau de Gel d'Andorra**, a Canillo, on van a patinar els escolars.
 - El **lèxic de la neu i de la muntanya**, que és el que més valdria per a la
   fase 3 i no està recollit enlloc.

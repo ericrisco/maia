@@ -188,6 +188,24 @@ pregunta: *quins són els espais on sí que hi ha interacció?*
 **Però:** «**el fet de tenir algun avantpassat andorrà és un plus de prestigi
 social**».
 
+### Un quart indici, i és d'una altra font
+
+**La selecció nacional de futbol va tenir durant anys un capità d'origen indi:
+Òscar Sonejee** ([font](../../../fonts/pastor-andorra-diversa.md)).
+
+**La comunitat índia d'Andorra són 59 persones el 2020.** Era, segons la mateixa
+font, una comunitat de «**grans comerciants sempre a l'aguait d'oportunitats**»,
+**avui reduïda a una petita minoria**.
+
+**Portar el braçal de la selecció nacional és el càrrec simbòlic més visible que
+un país petit reparteix cada cap de setmana**, i el va portar algú de la
+comunitat més petita de les que la font enumera.
+
+**El corpus ho registra com a fet i no en fa una tesi.** Un cas no desmenteix una
+piràmide — **però és exactament el tipus de cas que la font descriu quan diu que
+la cúspide s'eixampla**, i té la virtut de ser **públic, datable i conegut per
+tothom al país**.
+
 ## El que això vol dir per al projecte maia
 
 **Un model que aprengui «l'andorrà» sense saber que aquesta piràmide existeix
@@ -210,8 +228,10 @@ posa l'ordre concret**.
 4. **Les festes interculturals** del Pas de la Casa i d'Andorra la Vella.
 5. **D'on ve «pota negra»** i des de quan es diu.
 6. **Quantes candidatures amb cognoms no andorrans**, amb xifres.
-7. **La comunitat filipina i la índia**: 509 i 59 persones el 2020, i **cap font
-   les descriu**. Buit obert des de fa dues fitxes.
+7. **La comunitat filipina i la índia**: 509 i 59 persones el 2020. **De la índia
+   ara se'n sap alguna cosa** —van ser «grans comerciants», avui són «una petita
+   minoria», i d'ella va sortir el capità de la selecció de futbol— **i de la
+   filipina, res**. Buit obert.
 
 ## Related
 
