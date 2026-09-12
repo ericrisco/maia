@@ -119,8 +119,51 @@ sèrie salta: `427985` = 27a, `427986` = 28a, `427988` = 29a, `427989` = 30a.
 
   **Conseqüència per a les fitxes ja escrites.** Els volums **13a** i **15a**
   tenen **21 i 15 fitxes de font** redactades contra el text antic. **Les seves
-  citacions ara es poden verificar i s'han de verificar.** **Buit registrat,
-  prioritari.**
+  citacions ara es poden verificar.**
+
+  **S'ha intentat verificar-les automàticament el 2026-09-13, i el resultat s'ha
+  de llegir amb l'avís que porta.** El mètode: extreure les citacions dels
+  articles amb `font:` d'aquests dos volums, normalitzar (treure accents,
+  puntuació i la partició de mots de final de línia) i buscar-les al text nou.
+
+  | | |
+  | --- | ---: |
+  | Citacions comprovades | **634** |
+  | **Localitzades literalment** | **483** *(76%)* |
+  | Localitzades en part | 3 |
+  | No localitzades | 148 |
+
+  **Els 148 NO són 148 errors, i seria deshonest presentar-los així.** La
+  comprovació manual d'una mostra mostra tres causes, i la majoria no són
+  defectes:
+
+  1. **El corpus fa servir «» també per a veu pròpia.** Per exemple, la frase
+     «el document existeix i no l'hem llegit» a
+     [la funció pública](../temes/institucions/govern/la-funcio-publica.md) **no
+     és una citació: és el corpus parlant de si mateix**. Un cercador de cadenes
+     no ho pot distingir.
+  2. **També hi ha blocs `>` que són atribucions o esquemes del corpus**, no
+     text de la font.
+  3. **Fragments que SÍ que hi són i el comparador no troba**, perquè la font els
+     escriu amb altres connectors enmig o amb la maquetació partida. Comprovats a
+     mà: «un moment econòmic d'esplendor» (15a, l. 7274) i «jurisdicció de
+     Narbona» (15a, l. 8010) **hi són tots dos** i el comparador els donava per
+     absents.
+
+  **El que sí que se'n pot concloure:** **tres de cada quatre citacions es
+  localitzen literalment al text nou**, cosa que **no era comprovable abans** i
+  que és un indici fort que **les citacions d'aquests dos volums són fidels**.
+
+  **I un defecte real, trobat i corregit.** A
+  [la funció pública](../temes/institucions/govern/la-funcio-publica.md) es
+  llegia «**perquè siguin veritables agents del canvi organitzatiu**»; la font
+  diu «**l'objectiu dels quals és que siguin veritables agents del canvi
+  organitzatiu que s'està duent a terme**». **Un connector parafrasejat dins les
+  cometes.** Corregit.
+
+  **Buit registrat:** la verificació cas per cas **no és automatitzable amb una
+  comparació de cadenes** i **queda pendent de fer a mà**. **La llista de les 148
+  candidates es pot regenerar amb el mètode descrit.**
 
   **El que segueix sent cert:** les **columnes barrejades** i les **taules
   destruïdes** són un problema de maquetació, no d'OCR, i **no els arregla

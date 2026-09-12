@@ -138,9 +138,9 @@ Dues causes concretes que la font atribueix al creixement:
   no només el seu personal sinó **el que hi està relacionat indirectament**.
   **Tràmits obre el gener del 1999.**
 - **1999:** comencen els **tallers de desenvolupament directiu** per a directors
-  i comandaments, «perquè siguin **veritables agents del canvi organitzatiu**»:
-  treball en equip, estils de direcció, motivació del personal, avaluació de
-  l'acompliment.
+  i comandaments, amb l'objectiu, diu la font, que siguin «**veritables agents
+  del canvi organitzatiu que s'està duent a terme**»: treball en equip, estils de
+  direcció, motivació del personal, avaluació de l'acompliment.
 
 I un detall administratiu revelador: **el Reglament de formació del 14 d'agost de
 1996 va estar suspès**, i tot i així «es va intentar atendre totes les
