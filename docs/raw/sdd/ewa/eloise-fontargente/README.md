@@ -688,9 +688,24 @@ Charles**, capità d'artilleria, dossier `GR 8 YE 84802`, radiat dels quadres el
 **19/04/1951**: exactament el 55è aniversari de l'André de Belfort. Nom,
 prénoms, arma i cronologia encaixen amb el germà destinat a l'estat major de
 l'artilleria que Pierre visità el 1940 i el mantenen viu per a la caravana de
-1942. El repertori no dona data de naixement, de manera que la identificació
-és d'alta confiança però encara requereix el dossier o el sumari per ser
-definitiva.
+1942.
+
+La taula militar de la classe 1916, `1 R 302`, resol ara el número de matrícula:
+**André Charles Dreyfus, 494**. El full original corresponent, `1 R 299`,
+confirma data i lloc de naixement, pares, domicili i professió i demostra que
+l'home de l'acta civil és el mateix oficial. S'incorporà a l'artilleria el
+09/04/1915, fou brigadier el 1916, sotstinent el novembre de 1918, després
+tinent de reserva, i fou cridat breument a l'activitat del 25/09 al 10/10/1938.
+La darrera anotació diu que fou radiat dels quadres per decret del 06/07/1951,
+amb efecte des del 19/04/1951, i admès a l'honorariat. La identitat civil i
+militar ja és primària i segura; la seva presència concreta al grup de
+Grumbach continua requerint les memòries completes o el sumari Cabrero.
+
+També s'han auditat íntegrament els registres parisencs del 16è arrondissement
+que cobreixen el 20 de juny de 1951, 1955, 1961 i 1966, a més dels controls ja
+fets de 1925 i 1975. Cap no conté André ni un Dreyfus compatible. Per tant,
+l'any de la menció marginal continua obert i no se substituirà per una lectura
+gràfica especulativa.
 
 Les descàrregues directes actuals de les quatre URL de *Le Monde* només
 retornen una pàgina tècnica `Client Challenge`; es conserven per documentar el
@@ -760,6 +775,8 @@ prové de la representació web accessible, amb data i URL registrades.
 | `francesc-viadiu-fons/grumbach/dreyfus-schmidt/shd-gr16p-d-index.pdf`, `.txt` | Índex oficial del Service historique de la Défense; entrada `GR 16 P 192414` de Pierre Dreyfus Schmidt i cap entrada homònima d'André. |
 | `francesc-viadiu-fons/grumbach/dreyfus-schmidt/belfort-etat-civil/*` | Actes 204 (André Charles, 1896) i 301 (Pierre Sylvain, 1902), taula alfabètica, notices, ampliacions i lectura diplomàtica: proven la fraternitat; l'any de mort marginal continua pendent. Els facsímils romanen locals perquè el visor en restringeix la difusió. |
 | `francesc-viadiu-fons/grumbach/dreyfus-schmidt/shd-gr-8ye-a-e.pdf`, `.txt` | Instrument oficial dels oficials: `GR 8 YE 84802`, André Charles Dreyfus, capità d'artilleria, radiat el 19/04/1951. |
+| `francesc-viadiu-fons/grumbach/dreyfus-schmidt/matricule-1916/*` | Guia oficial, taula `1 R 302`, API i full 494 de `1 R 299`: filiació, descripció, carrera 1915–1951, retalls de lectura, OCR i hashes. Les imatges romanen locals per les condicions de reutilització dels AD90. |
+| `francesc-viadiu-fons/grumbach/dreyfus-schmidt/auditoria-any-defuncio-andre.md`, `paris-deces-*/*` | Auditoria de 1925, 1951, 1955, 1961, 1966 i 1975 contra registres complets del 16è; tots negatius, any encara no resolt. |
 | `francesc-viadiu-fons/grumbach/lemonde-*.html` | Controls de descàrrega fallits: quatre pàgines tècniques `Client Challenge` idèntiques, no el text dels articles. |
 | `francesc-viadiu-fons/grumbach/consulta-arxius-ariege-esborrany.md` | Petició detallada de localització i reproducció del procés de Foix i diligències relacionades; preparada però no enviada. |
 | `francesc-viadiu-fons/grumbach/paris-etat-civil/*` | API del visor, foli complet, retalls verificats de l'acta 1137 i la menció marginal, OCR de context, hashes i transcripció diplomàtica de treball. |
