@@ -100,7 +100,14 @@ nacionalitat andorrana i per tant no vota**
 ([els andorrans de primera generació](../../institucions/nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md)).
 **Cap de les dues fonts no ho creua amb l'abstenció**, i és la pregunta òbvia:
 **una participació del 66% del cens andorrà és quin percentatge dels adults que
-viuen al país?** **Buit registrat, i és el més important d'aquesta fitxa.**
+viuen al país?**
+
+**Aquest buit s'ha mogut el mateix dia.** No té encara la xifra, però **ha
+deixat de ser una sospita del corpus**: la desproporció entre cens i població
+resident és **una crítica publicada, recollida per l'OSCE/ODIHR i pel Consell
+d'Europa**, i el president del PS la posa al centre de la seva ponència
+([la desigualtat del vot](./la-desigualtat-del-vot.md)). **Falta la xifra, no
+la constatació.**
 
 ## Buits registrats
 

@@ -186,3 +186,4 @@ ni al Vaticà.**
 - [La societat segmentada](../../societat/immigracio/la-societat-segmentada.md)
 - [Les tres migracions](../../societat/demografia/les-tres-migracions.md)
 - [La transformació econòmica](../../economia/transformacio-economica/transformacio-economica.md)
+- [La desigualtat del vot](../../politica/sistema-electoral/la-desigualtat-del-vot.md) — què fa la llei de nacionalitat al cos electoral, segons l'OSCE.

@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**254** documents · **65** fonts · **0** aptes com a model de llengua · **103** temes amb contingut.
+**255** documents · **66** fonts · **0** aptes com a model de llengua · **103** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -541,6 +541,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [El sufragi universal masculí](temes/politica/sistema-electoral/el-sufragi-universal-masculi.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `cavero-parlamentarisme-segle-xx` |
 | [Els tres sistemes electorals](temes/politica/sistema-electoral/els-tres-sistemes-electorals.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `dalleres-coprincipat-parlamentari` |
+| [La desigualtat del vot](temes/politica/sistema-electoral/la-desigualtat-del-vot.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `lopez-escenaris-de-futur` |
 | [L'abstenció](temes/politica/sistema-electoral/labstencio.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `dalleres-coprincipat-parlamentari` |
 
 ## temes/societat/associacionisme
@@ -813,6 +814,7 @@
 | [`lacueva-hoteleria`](fonts/lacueva-hoteleria.md) | Ludmilla Lacueva i Canut · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`llegendes-dandorra-llibre`](fonts/llegendes-dandorra-llibre.md) | Roser Carol i Àlvar Valls · Editorial andorrana | obra literària amb drets reservats | False |
 | [`llovera-visio-del-treballador`](fonts/llovera-visio-del-treballador.md) | Xavier Llovera i Massana · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`lopez-escenaris-de-futur`](fonts/lopez-escenaris-de-futur.md) | Pere López i Agràs · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`marina-formacio-dadults`](fonts/marina-formacio-dadults.md) | Joan Ramon Marina i Amat · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`martinez-benazet-professions-liberals`](fonts/martinez-benazet-professions-liberals.md) | Joan Martínez i Benazet · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mas-educacio-artistica`](fonts/mas-educacio-artistica.md) | Roger Mas i Canalis · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |

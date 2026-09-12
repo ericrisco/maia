@@ -17,6 +17,9 @@ amb la cronologia dia a dia. El que la 31a Diada hi aporta —Mercè Bonell el
 totes dues correctes— **s'hi ha portat a dins en comptes de duplicar-la**.
 - [Els tres sistemes electorals](./els-tres-sistemes-electorals.md) — el que hi
   havia abans dels vuitanta, el dels vuitanta i el del 1993.
+- [La desigualtat del vot](./la-desigualtat-del-vot.md) — 794 electors a Canillo
+  i 6.604 a Andorra la Vella, dos escons per a cadascuna, i el que en diu
+  l'OSCE.
 - [L'abstenció](./labstencio.md) — del 81% de participació al 66% en vint anys.
 
 ## Related
