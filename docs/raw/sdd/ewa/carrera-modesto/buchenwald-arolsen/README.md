@@ -53,8 +53,11 @@ dossier individual sense dependre de la narració del Banc:
    inferida per la seqüència del catàleg com `7591053`. El catàleg explica que
    aquest índex registra totes les reutilitzacions d'un número en ordre
    cronològic, amb nom, naixement i dates d'arribada, sortida, trasllat o mort.
-2. **Block books III**, `8012300`, 596 documents. El rang 74001–86000 inclou
-   75367 i pot donar nom, categoria, bloc o kommando i, de vegades, ofici.
+2. **Dos llibres de barracó superposats però no necessàriament idèntics**.
+   `Block books I`, sèrie `8012100`, conté el tram exacte **74001–82000** amb
+   signatura verificada `8012100020`; `Block books III`, `8012300`, cobreix
+   74001–86000. Tots dos inclouen 75367 i poden donar nom, bloc o kommando i,
+   de vegades, ofici. La doble sèrie permet un control independent.
 3. **Transports Dachau→Buchenwald I–III**, 356 documents, 27/09/1939–
    02/04/1945. La peça del 29–31/07/1944 ha de trobar-se en aquesta sèrie; el
    Part III ja està identificat com `8014200` (04/12/1944–02/04/1945), de
@@ -62,10 +65,17 @@ dossier individual sense dependre de la narració del Banc:
 4. **Informes de canvis de 1944**, `8012569`, 1.642 documents. Les llistes
    poden contenir matrícula, nom, categoria i bloc o kommando; els dies
    31/07–01/08 són el punt inicial de cerca.
+5. **Transports a subcamps d'Eisenach «Emma» fins a Göttingen**, 267
+   documents, juny de 1941–abril de 1945. El títol i el recompte són visibles
+   a l'arbre oficial; la signatura `8033199` és encara una inferència per la
+   seva posició entre Dessau–Dornburg i `8033299` Hadmersleben–Kranichfeld.
+   L'existència de la sèrie no prova per si sola que Carrera fos a Emma.
 
 Referències oficials:
 
 - <https://collections.arolsen-archives.org/en/archive/1-1-5-1_7591000>
+- <https://collections.arolsen-archives.org/en/archive/1-1-5-1_8012100>
+- <https://collections.arolsen-archives.org/en/archive/1-1-5-1_8012100020>
 - <https://collections.arolsen-archives.org/en/archive/1-1-5-1_8012300>
 - <https://collections.arolsen-archives.org/en/archive/1-1-5-1_8012569>
 - <https://collections.arolsen-archives.org/en/document/5286127>
