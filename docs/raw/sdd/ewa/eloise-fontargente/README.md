@@ -323,6 +323,16 @@ exemplar castellà dedicat ja era en mans d'un lector el 27/05/1974. Això refor
 castellana circulés mesos abans de la ressenya de setembre-octubre i abans de la
 primera catalana amb dipòsit legal `B. 43183-1974`.
 
+Un segon exemplar ofert per un llibreter a Todocoleccion aporta una fotografia
+de la coberta castellana i descriu la peça com a primera edició de 1974, amb
+signatura a la primera pàgina, 257 pàgines i format 13,5 × 20 cm. L'anunci només
+mostra públicament la coberta, de manera que la firma declarada no s'ha pogut
+verificar. La seva paginació es pot conciliar amb altres descripcions
+bibliogràfiques: alguns llibreters compten **256 pàgines i una fulla**, mentre
+que Google Books dona 256 i altres fitxes 257. No hi ha encara evidència que
+siguin variants textuals; la hipòtesi mínima és una diferència en el còmput de
+la fulla no numerada.
+
 ## La capa audiovisual i el seu límit
 
 3Cat manté públiques les dues parts de la minisèrie *Andorra. Entre el torb i
@@ -386,6 +396,7 @@ històric.
 | `francesc-viadiu-fons/rua-cortes-*.json` | Metadades REST oficials de RUA: citació, revisió per parells, accés obert i bitstream original. |
 | `francesc-viadiu-fons/camins-utopia-josep-soler.html` | Captura del blog familiar de Jordi Soler Vinyes, publicat el 24/11/2011; context, autoria i peu que atribueix la dedicatòria a *Andorra: cadena de evasión*. |
 | `francesc-viadiu-fons/dedicatoria-viadiu-josep-soler-maig-1974.jpg` | Imatge original servida per Blogger; dedicatòria, signatura i data manuscrita `27-V-74`, verificades visualment. |
+| `francesc-viadiu-fons/todocoleccion-andorra-cadena-firmado.html`, `todocoleccion-306504858.jpg` | Anunci d'un exemplar castellà de 1974 i fotografia de coberta; declara firma i 257 p., però la imatge pública no mostra l'interior. |
 | `internet-archive-isbn-search.json` | Cerca pels ISBN català i francès: zero resultats. |
 | `openlibrary-isbn-search.json` | Registre bibliogràfic sense ebook ni text complet. |
 
@@ -441,6 +452,8 @@ Els SHA-256 de tots els fitxers es van calcular el 12/09/2026. Destaquen:
     completar correspondències només per semblança biogràfica.
 16. Comparar el lema imprès i la disposició de l'anteportada dedicada a Josep
     Soler amb un exemplar complet de la castellana de Martínez Roca.
+17. Comptar la paginació física de la castellana i determinar si la discrepància
+    256/257 correspon simplement a `256 p., 1 h.`.
 
 ## Drets
 
