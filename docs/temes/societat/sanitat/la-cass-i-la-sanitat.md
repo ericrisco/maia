@@ -87,6 +87,7 @@ hora i com se'n parla —que és **lèxic quotidià** i no és en cap web.
 
 ## Related
 
+- [La salut mental](./la-salut-mental.md) — el servei del SAAS, des del 1998.
 - [Com funciona tot](../../vida-quotidiana/com-funciona-tot/com-funciona-tot.md)
 - [Nacionalitat i residència](../../institucions/nacionalitat-i-residencia/nacionalitat-i-residencia.md)
 - [Qui parla què](../../llengua/politica-linguistica/qui-parla-que.md)

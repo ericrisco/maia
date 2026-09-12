@@ -150,7 +150,9 @@ també ha d'evitar la malaltia.
 - **Quantes de les 111 eren dones**: la font no ho diu, i en una professió tan
   marcada per gènere és una dada que falta. Vegeu
   [dones](../dones/README.md).
-- **El SAAS**: història pròpia, encara no fitxada.
+- **El SAAS**: història pròpia, encara no fitxada. **Primer tros documentat**:
+  els **Serveis de Salut Mental del SAAS es posen en marxa el 1998**
+  ([la salut mental](./la-salut-mental.md)).
 - **Si l'EUIA existeix encara** amb aquest nom dins la Universitat d'Andorra.
 
 ## Related

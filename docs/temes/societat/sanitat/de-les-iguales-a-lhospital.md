@@ -160,7 +160,9 @@ comprova**. Aquest corpus les marca sempre.
 1. **La classificació de l'OMS**, verificada contra l'informe.
 2. **Dates** de la clínica Meritxell, del Centre de Santa Coloma i del tancament
    d'aquest.
-3. **Quan es crea el SUM** (Servei d'urgències mèdiques) i el **SAAS**.
+3. **Quan es crea el SUM** (Servei d'urgències mèdiques) i el **SAAS**. Del SAAS
+   se'n té, de moment, **una branca datada**: els **Serveis de Salut Mental**,
+   **1998** ([la salut mental](./la-salut-mental.md)).
 4. **Quants metges** hi ha avui i amb quina distribució.
 5. **Qui eren** els doctors Cardelús, Vallverdú, Pujol, Vilanova i Ruiz.
 6. La **CASS com a font primària** — segueix sense obrir-se
