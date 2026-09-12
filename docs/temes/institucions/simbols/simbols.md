@@ -37,13 +37,17 @@ el lema la nomena.
 - **La bandera**: els tres colors i el seu origen —blau i vermell de França, groc
   i vermell del bisbat i de la Corona d'Aragó, segons la lectura habitual—, la
   versió amb escut i sense, la data d'adopció. Res d'això s'ha verificat.
-- **L'escut**: els quatre quarters, què representa cadascun, i el lema que hi
-  figura.
+- ~~**L'escut**: els quatre quarters, què representa cadascun, i el lema que hi
+  figura.~~ **TANCAT**, amb la descripció de la pedra del portal de la Casa de la
+  Vall feta el 1904: [l'escut](./lescut.md). Amb l'avís que l'atribució dels pals
+  **no s'ha pogut contrastar** amb el blasó oficial d'avui.
 - L'origen i la datació del lema.
 
-**Buit registrat.** Aquesta branca té una fitxa de quatre.
+**Buit registrat.** Aquesta branca **ja té dues fitxes de quatre**: l'himne i
+l'escut, i la bandera mig closa.
 
 ## Related
 
+- [L'escut](./lescut.md) — els quatre quarters i la inscripció.
 - [El Gran Carlemany](./el-gran-carlemany.md) — l'himne.
 - [El Coprincipat](../coprincipat/el-coprincipat.md) — la sobirania compartida que el lema nomena.

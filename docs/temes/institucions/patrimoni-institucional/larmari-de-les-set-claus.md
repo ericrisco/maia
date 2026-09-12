@@ -25,6 +25,34 @@ parròquies**.
 
 ([Viquipèdia](../../../fonts/viquipedia-ca.md))
 
+## Un testimoni ocular de 1904, quan encara eren sis
+
+**André Vilar** el va veure i el va descriure
+([font](../../../fonts/vilar-andorre-1904.md)), i el que en diu **corregeix dues
+coses**:
+
+> «Dans la salle du Conseil se trouve **la fameuse armoire de fer, qui est en bois
+> de chêne** et où sont enfermées les archives de la vallée, comme le dit
+> l'inscription qui la surmonte: **"Arxius y Ecripturas de los Valls de Andorra"**.
+> Sur les portes de cette armoire, **pratiquée dans l'épaisseur du mur**, on voit
+> **six serrures**; à côté de chacune d'elles est inscrit le nom d'une paroisse,
+> dans l'ordre suivant: **Canillo, Encamp, Ordino, la Massana, Andorra, San
+> Julia**. Les clefs de ces serrures étant remises aux mains des consuls de chaque
+> paroisse, **l'armoire ne peut être ouverte qu'en la présence simultanée des six
+> dépositaires**.»
+
+Tres coses que el corpus no tenia:
+
+1. **«L'armari de ferro» és de fusta de roure.** El nom popular menteix sobre el
+   material, i ho diu qui el va tenir al davant.
+2. **La inscripció que el corona**: «**Arxius y Ecripturas de los Valls de
+   Andorra**».
+3. **L'ordre dels panys**: Canillo, Encamp, Ordino, la Massana, Andorra, Sant
+   Julià — **i està encastat a la gruixària del mur**.
+
+**I confirma els sis panys per observació directa**, setanta-quatre anys abans que
+se n'hi afegís el setè.
+
 ## Per què això és extraordinari
 
 **És la constitució del país convertida en moble.**

@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**304** documents · **86** fonts · **0** aptes com a model de llengua · **107** temes amb contingut.
+**305** documents · **86** fonts · **0** aptes com a model de llengua · **107** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -477,6 +477,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [El Gran Carlemany](temes/institucions/simbols/el-gran-carlemany.md) | `temes/institucions/simbols` | compilada | contemporania | no | `viquipedia-ca` |
 | [La bandera](temes/institucions/simbols/la-bandera.md) | `temes/institucions/simbols` | compilada | contemporania | no | `viquipedia-ca` |
+| [L'escut](temes/institucions/simbols/lescut.md) | `temes/institucions/simbols` | compilada | contemporania | no | `vilar-andorre-1904` |
 | [Símbols — índex](temes/institucions/simbols/simbols.md) | `temes/institucions/simbols` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/llengua/contacte-de-llengues
