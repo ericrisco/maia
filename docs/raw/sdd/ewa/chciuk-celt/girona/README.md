@@ -120,6 +120,19 @@ Per tant, una cerca de 1943 només la pot fer el personal del centre al catàleg
 GIAC intern. Si l'expedient principal s'ha perdut, encara pot sobreviure una
 fitxa nominal, una fitxa dactiloscòpica o un assentament de secretaria.
 
+Hi ha, a més, una tercera peça exactament contemporània al fons general del
+Govern Civil. L'arbre oficial identifica **2.407 unitats** dins la sèrie
+05.01.05, *Conducció de presos i relacions de detinguts*. En descarregar-ne el
+catàleg i aïllar l'any 1943 apareixen deu unitats; la més resolutiva és:
+
+- [`AHG170-231-T2-29102`](https://arxiusenlinia.cultura.gencat.cat/#/cercaavancada/detallunitat/AHG170-231-T2-29102),
+  *Relacions d'altes i baixes detinguts governatius*, 1943.
+
+La fitxa no té descripció de contingut ni objecte digital (`[]`), però no està
+marcada com a reservada. Pot contenir la baixa de James Hughes de la presó de
+Girona, la data i l'autoritat o destinació del trasllat. No es pot afirmar que
+l'hi inclogui fins consultar la unitat.
+
 ### Esborrany de petició a l'AHG
 
 > Benvolguts/des, en el marc d'una recerca històrica sobre el correu polonès
@@ -132,7 +145,10 @@ fitxa nominal, una fitxa dactiloscòpica o un assentament de secretaria.
 > ingressat a la Presó Provincial de Girona el 16 de gener de 1943, a
 > disposició del governador militar. Agrairia especialment qualsevol data i
 > ordre de sortida o conducció a Miranda de Ebro, número d'expedient
-> penitenciari, filiació, fotografia o signatura. Accepto formalitzar el
+> penitenciari, filiació, fotografia o signatura. Us demano també que
+> comproveu el nom a `AHG170-231-T2-29102`, *Relacions d'altes i baixes
+> detinguts governatius*, 1943, i a la resta de la sèrie 05.01.05 si escau.
+> Accepto formalitzar el
 > compromís de confidencialitat previst per als expedients tancats abans de
 > 1950. Si l'expedient no es conserva, us agrairia la confirmació de la llacuna
 > i la comprovació de les quatre sèries del fons.
@@ -199,6 +215,10 @@ persona**.
 - `search-prison-*.json`: controls nominals negatius dins la part pública;
 - `xac-centre-penitenciari.html`: presentació institucional del fons, SHA-256
   `e06cffea66f05cc192ed9af212764f6623e5d38e8d01aa3da035e60e65205370`.
+- `govern-civil-tree.json` i `search-conduccio-all.json`: arbre de la sèrie i
+  tall de 2.000 de les 2.407 unitats, incloses les deu datades el 1943;
+- `ahg-altes-baixes-1943-detail.json` i `-objects.json`: descripció completa i
+  comprovació de l'absència de reproducció digital de `AHG170-231-T2-29102`.
 
 ## Procedència, drets i límits d'ús
 
