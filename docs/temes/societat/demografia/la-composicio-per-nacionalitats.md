@@ -39,6 +39,13 @@ nacionalitat del 1993**
 | **1954** | **5.503** |
 | **2020** | **82.000** registrats · **78.015** estimats |
 
+> **Avís sobre aquestes dues xifres.** El **5.231** és exactament el mateix
+> nombre que Combarnou atribueix al **1874**, i el **4.042** té una alternativa
+> de **4.142** (Moreno). A més, **el 1912 el país en tenia 6.100** segons
+> Pallerola — **més que el 1900**. Les tres coses estan documentades a
+> [les xifres que no quadren](./les-xifres-que-no-quadren.md), i cap fitxa del
+> corpus hauria de citar aquest tram sense dir de qui és la xifra.
+
 **Andorra va perdre gent abans de guanyar-ne.** La crisi de les fargues a final
 del segle XIX **va buidar el país**, i la font hi posa el que això vol dir per
 dins:
@@ -279,6 +286,7 @@ pròpia.**
 
 - [Les onades migratòries](./les-onades-migratories.md)
 - [Les tres migracions](./les-tres-migracions.md)
+- [Les xifres que no quadren](./les-xifres-que-no-quadren.md) — per què el 1900 i el 1930 d'aquesta fitxa no són segurs.
 - [La piràmide de prestigi](../immigracio/la-piramide-de-prestigi.md) — com s'ordenen aquests grups.
 - [El mercat de treball dual](../immigracio/el-mercat-de-treball-dual.md) — on treballa cadascun.
 - [Les comunitats](../immigracio/les-comunitats.md) — qui són, segons ells mateixos el 1997.

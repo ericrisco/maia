@@ -155,7 +155,12 @@ especialment interessant, perquè prefigura **la concessió de 1928-1930 a FHASA
 ## Buits registrats
 
 1. **Brutails**, *La Coutume d'Andorre* — font primària citada, no consultada.
-2. **Gaston Combarnou** — qui era i d'on treu les xifres.
+2. **Gaston Combarnou** — qui era i d'on treu les xifres. **Segueix obert**, però
+   amb una pista: Claudine Tarrene atribueix el cens del **1932** a un
+   **«Comarnous»** ([font](../../../fonts/tarrene-influencies-multiculturals.md)),
+   **probablement el mateix cognom mal transcrit**. Si ho fos, **Combarnou
+   arribaria fins al 1932** i no s'aturaria al segle XIX.
+   Vegeu [les xifres que no quadren](./les-xifres-que-no-quadren.md).
 3. **La discrepància 1896/1897.**
 4. **L'arraigo**: definició, quantia, com s'acredita.
 5. **L'afer de les concessions** del segle XIX.
@@ -167,6 +172,7 @@ especialment interessant, perquè prefigura **la concessió de 1928-1930 a FHASA
 
 - [Les onades migratòries](./les-onades-migratories.md) — el que ve després.
 - [Demografia](./demografia.md) — la branca.
+- [Les xifres que no quadren](./les-xifres-que-no-quadren.md) — totes les xifres del 1832 al 1932, amb autor.
 - [La Nova Reforma](../../historia/segle-xix/nova-reforma.md) — qui votava.
 - [L'hereu i el cabaler](../../historia/antic-regim/lhereu-i-el-cabaler.md) — les 1.042 cases.
 - [Les estratègies matrimonials](../../historia/antic-regim/les-estrategies-matrimonials.md) — com es componien.

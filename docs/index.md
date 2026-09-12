@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**307** documents · **87** fonts · **0** aptes com a model de llengua · **107** temes amb contingut.
+**308** documents · **87** fonts · **0** aptes com a model de llengua · **107** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -626,6 +626,7 @@
 | [La població al segle XIX](temes/societat/demografia/la-poblacio-al-segle-xix.md) | `temes/societat/demografia` | compilada | contemporania | no | `camiade-migracions` |
 | [Les onades migratòries](temes/societat/demografia/les-onades-migratories.md) | `temes/societat/demografia` | compilada | contemporania | no | `camiade-migracions` |
 | [Les tres migracions](temes/societat/demografia/les-tres-migracions.md) | `temes/societat/demografia` | compilada | contemporania | no | `armengol-migracions-segle-xix` |
+| [Les xifres que no quadren](temes/societat/demografia/les-xifres-que-no-quadren.md) | `temes/societat/demografia` | compilada | contemporania | no | `tarrene-influencies-multiculturals` |
 
 ## temes/societat/dones
 

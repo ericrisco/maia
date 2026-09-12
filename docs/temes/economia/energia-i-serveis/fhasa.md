@@ -63,6 +63,14 @@ dades del bisbat d'Urgell.
 Era el resultat de **trenta anys de creixement negatiu**: **molts andorrans
 havien marxat** durant les tres primeres dècades del segle.
 
+> **Avís de fiabilitat, afegit després.** Aquesta frase **no s'aguanta tal com
+> està**. Una altra font dona **6.100 habitants el 1912** (Pallerola, citat per
+> Claudine Tarrene), és a dir **per sobre** dels 5.231 del 1900: llavors no hi
+> ha trenta anys de baixada contínua, sinó **creixement fins al 1912 i un
+> col·lapse del 29% entre 1912 i 1920**. I la mateixa font dona **4.142** per al
+> 1930, **cent més** que els 4.042 d'aquí. El corpus no pot arbitrar-ho: vegeu
+> [les xifres que no quadren](../../societat/demografia/les-xifres-que-no-quadren.md).
+
 **Aquesta és la xifra que ho posa tot en context.** Sobre un país de quatre mil
 persones en plena sagnia migratòria, van caure:
 
