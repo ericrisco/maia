@@ -32,3 +32,4 @@ docs/raw/web/esport/*.html
 
 docs/raw/web/politica/*.html
 docs/raw/web/art/*.html
+docs/raw/web/esport/**/*.html

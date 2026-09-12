@@ -157,3 +157,5 @@ i no la fa seva.
 | **[Irineu Esteve Altimiras](./irineu-esteve-altimiras.md)** | **7è al Mundial de fons** (2023) |
 | **[Nahuel Carabaña](./nahuel-carabana.md)** | **7è a la final europea** dels 3.000 obstacles (2024), i el fair play de Munic |
 | **[Èric Risco de la Torre](./eric-risco.md)** | Judoka internacional de +100 kg i jugador de rugbi: **la carrera esportiva d'un microestat, documentada** |
+| **[Naiara Liñán](./naiara-linan.md)** | **La primera medalla d'Andorra als Jocs del Mediterrani**: bronze de taekwondo −49 kg, Tàrent 2026 |
+| **[Albert Llovera i Massana](./albert-llovera.md)** | Olímpic a Sarajevo **amb 17 anys**; paraplègic un any després; **29 ral·lis del Mundial** amb un cotxe de comandaments manuals |

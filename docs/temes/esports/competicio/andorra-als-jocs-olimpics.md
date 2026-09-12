@@ -84,10 +84,10 @@ població. **El corpus no en sap el motiu i el registra com a buit.**
 | **1994** | Lillehammer | **6** | Esquí alpí |
 | **1998** | Nagano | **3** | Esquí alpí |
 | **2002** | Salt Lake City | **3** | Esquí alpí |
-| **2006** | Torí | **3** | Esquí alpí |
-| **2010** | Vancouver | **6** | **Surf de neu**, esquí alpí |
-| **2014** | Sotxi | **6** | Esquí alpí |
-| **2018** | PyeongChang | **5** | **Esquí de fons**, esquí alpí |
+| **2006** | Torí | **3** | Esquí alpí, **esquí de fons** |
+| **2010** | Vancouver | **6** | Surf de neu, esquí alpí, esquí de fons |
+| **2014** | Sotxi | **6** | Esquí alpí, **biatló**, **surf de neu** |
+| **2018** | PyeongChang | **5** | Esquí de fons, esquí alpí |
 | **2022** | Pequín | **5** | Surf de neu, esquí alpí |
 | **2026** | Milano Cortina | **7** | Esquí alpí, esquí de fons |
 
@@ -235,16 +235,44 @@ completes; **les d'hivern, no**.
 | Jocs | Qui |
 | --- | --- |
 | **Innsbruck 1976** | **Xavier Areny**, **Carlos Font**, **Antoine Crespo**, **Esteve Tomas**, **Antoni Naudi** — tots **esquí alpí** |
-| **Calgary 1988** | **Claudina Rossell** |
+| **Lake Placid 1980** | **Carlos Font** (35è descens, 42è gegant), **Miguel Font**, **Patrick Toussaint** — esquí alpí |
+| **Sarajevo 1984** | **[Albert Llovera](../../persones/albert-llovera.md)** (48è descens, **17 anys**) i **Jordi Torres** (50è) |
+| **Calgary 1988** | **Claudina Rossell** · **Nahum Orobitg** (38è súper-G) · **Gerard Escoda** · una quarta persona que la font no nomena |
+| **Albertville 1992** | **Gerard Escoda** (32è eslàlom, 36è gegant) · **Nahum Orobitg** · **Ramon Rossell** · **Victor Gómez** · **Vicky Grau** (37a súper-G) |
+| **Lillehammer 1994** | **Victor Gómez** (43è súper-G) · **Gerard Escoda** (44è) · **Ramon Rossell** (46è) · **Santi López** · **Vicky Grau** (36a) · **Caroline Poussier** (**24a eslàlom**) |
+| **Nagano 1998** | **Vicky Grau** (**19a eslàlom**) · **Victor Gómez** · **Gerard Escoda** |
+| **Salt Lake City 2002** | **Vicky Grau** (**24a eslàlom**) · **Alex Antor** (36è gegant) · **Victor Gómez** (39è) |
+| **Torí 2006** | **Roger Vidosa** (**27è eslàlom**, 28è combinada) · **Alex Antor** (39è descens) · **François Soulié** (**fons**, 71è als 15 km) |
 | **Vancouver 2010** | **Mireia Gutiérrez** (28a descens), **Sofie Juarez**, **Kevin Esteve Rigail**, **Roger Vidosa** (alpí) · **Francesc Soulié** (**fons**) · **Lluís Marin Tarroch** (**surf de neu**, 34è). **Abanderats: Marin i Gutiérrez** |
+| **Sotxi 2014** | **Mireia Gutiérrez** (**18a combinada**) · **Marc Oliveras** (31è combinada, 35è súper-G) · **Kevin Esteve** (32è descens) · **[Joan Verdú](../../persones/joan-verdu.md)** · **Laure Soulié** (**biatló**, 48a i 66a) · **Lluís Marín Tarroch** (surf de neu, 25è ex aequo). **Andorra hi renuncia a dues places guanyades, una d'elles la d'Irineu Esteve** |
 | **PyeongChang 2018** | **[Irineu Esteve Altimiras](../../persones/irineu-esteve-altimiras.md)** (fons, 27è). **Abanderat** |
 | **Pequín 2022** | **[Joan Verdú](../../persones/joan-verdu.md)** (**9è gegant**) · **Irineu Esteve Altimiras** (20è skiathlon) · **Maeva Estévez** (surf de neu) |
 | **Milano Cortina 2026** | **Joan Verdú** (**10è gegant**) · **Xavier Cornella** (21è eslàlom) · **Jordina Caminal Santure** (24a descens) · **Carla Mijares Ruf** · **Cande Moreno** · **Gina del Rio** (fons, 35a en 10 km lliures) · **Irineu Esteve Altimiras**. **Abanderats: Verdú, Moreno i Esteve** |
 
-**Una correcció que el corpus fa a la seva pròpia taula de dalt:** la taula
-resum diu que **l'esquí de fons entra el 2018**. **No és cert: Francesc Soulié
-ja hi era a Vancouver 2010**, en tres proves. **La columna d'esports de la taula
-resum és incompleta i queda marcada com a tal.**
+**Una correcció que el corpus es fa a si mateix, i és la segona sobre la
+mateixa dada.**
+
+**Primera correcció:** la taula resum deia que **l'esquí de fons entra el
+2018**. No era cert: **Francesc Soulié ja hi era a Vancouver 2010**.
+
+**Segona correcció:** **tampoc era el 2010.** **Soulié ja hi era a TORÍ 2006**,
+en tres proves —15 km clàssic (71è), 30 km persecució i 50 km lliure—
+([font](../../../fonts/wikipedia-jocs-andorra.md)). **La data bona és 2006.**
+
+**El corpus deixa les dues correccions escrites, i la lliçó també:** la
+primera correcció també era incompleta. **La columna d'esports d'aquesta taula
+resum s'ha demostrat errònia dues vegades i s'ha de tractar com a poc fiable
+fins que es verifiqui contra el Comitè Olímpic Andorrà.**
+
+**I una tercera correcció, del mateix origen:** **Sotxi 2014 no va ser només
+esquí alpí. Van ser tres esports** —alpí, **biatló** i **surf de neu**.
+
+**Això tanca un buit que el corpus tenia registrat**: *«Olympedia llista biatló
+però no s'ha trobat cap biatleta andorrà.»* **N'hi ha una: Laure Soulié**,
+Sotxi 2014, individual (48a) i esprint (66a).
+
+**Les catorze delegacions d'hivern, nom per nom i cursa per cursa, són a**
+[cinquanta anys d'esquí olímpic](../esqui/cinquanta-anys-desqui-olimpic.md).
 
 ## Els noms que hi apareixen
 
@@ -257,7 +285,11 @@ resum és incompleta i queda marcada com a tal.**
 | **Esquí alpí** | **Cande Moreno** | 2026 |
 | **Surf de neu** | **Lluís Marín** | 2010 |
 | **Surf de neu** | **Maeva Estévez** | 2022 |
-| **Esquí de fons** | **[Irineu Esteve Altimiras](../../persones/irineu-esteve-altimiras.md)** | 2018, 2026 |
+| **Esquí de fons** | **François / Francesc Soulié** | **2006**, 2010 |
+| **Esquí de fons** | **[Irineu Esteve Altimiras](../../persones/irineu-esteve-altimiras.md)** | 2018, 2022, 2026 |
+| **Biatló** | **Laure Soulié** | **2014** |
+| **Esquí alpí** | **Gerard Escoda**, **Victor Gómez**, **Vicky Grau** | 1988/1992-2002, **quatre Jocs cadascun** |
+| **Esquí alpí** | **Albert Llovera** | **1984**, amb 17 anys |
 | **Piragüisme** | **[Mònica Dòria](../../persones/monica-doria.md)** | 2020, 2024 |
 | **Atletisme** | **[Nahuel Carabaña](../../persones/nahuel-carabana.md)** | 2024 |
 

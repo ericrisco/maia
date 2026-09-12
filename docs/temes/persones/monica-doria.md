@@ -29,6 +29,12 @@ d'Europa.**
 | --- | --- | --- | --- |
 | **Campionat d'Europa** | **OR, C1** | **2025** | **Vaires-sur-Marne** |
 | **Campionat del Món** | **PLATA, C1** | **2026** | **Oklahoma City** |
+
+**Pel títol d'Oklahoma la va rebre el Govern el 9 de setembre del 2026**, el
+mateix dia i al mateix acte que **[Naiara Liñán](./naiara-linan.md)**, pel
+bronze del Mediterrani ([font](../../fonts/anaesports.md)). **Les dues fites
+internacionals més grans de l'any esportiu andorrà, i totes dues de dones.**
+
 | **Campionat del Món** | **BRONZE, caiac cross** | **2022** | **Augsburg** |
 | **Campionat d'Europa júnior** | **OR, C1** | **2017** | **Hohenlimburg** |
 

@@ -1,0 +1,432 @@
+
+Andorra at the 2014 Winter Olympics - Wikipedia
+Jump to content
+Main menu
+	Main menu
+	move to sidebar
+	hide
+		Navigation
+			Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+		Contribute
+			Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Special pages
+Search
+				Search
+Appearance
+			Donate
+Create account
+Log in
+Personal tools
+Donate
+Create account
+Log in
+	Contents
+	move to sidebar
+	hide
+				(Top)
+				1
+				Alpine skiing
+				2
+				Biathlon
+				3
+				Snowboarding
+				4
+				Non-qualified sports
+				Toggle Non-qualified sports subsection
+					4.1
+					Cross-country skiing
+				5
+				References
+				6
+				External links
+Toggle the table of contents
+					Andorra at the 2014 Winter Olympics
+23 languages
+				Bosanski
+Čeština
+Dansk
+Deutsch
+Español
+Suomi
+Français
+हिन्दी
+Magyar
+Italiano
+日本語
+한국어
+Lietuvių
+Nederlands
+Norsk bokmål
+Polski
+Português
+Русский
+Српски / srpski
+Svenska
+ไทย
+Українська
+中文
+			Edit links
+			Article
+Talk
+	English
+			Read
+Edit
+View history
+Tools
+	Tools
+	move to sidebar
+	hide
+		Actions
+Read
+Edit
+View history
+		General
+			What links here
+Related changes
+Upload file
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Switch to legacy parser
+		Print/export
+			Download as PDF
+Printable version
+		In other projects
+			Wikimedia Commons
+Wikidata item
+	Appearance
+	move to sidebar
+	hide
+						From Wikipedia, the free encyclopedia
+					{{cite web |url=http://www.olympic.org/Documents/Games_Sochi_2014/Flagbearers_Sochi_2014_Opening_Ceremony.pdf |title=Sochi 2014 Opening Ceremony - Flagbearers |author=<!--Staff writer(s); no by-line.--> |date=7 February 2014 |website=olympic.org|publisher=[[Sochi 2014 Olympic and Paralympic Organizing Committee]] |access-date=7 February 2014}}</ref><br>[[Laure Soulie]] ([[2014 Winter Olympics closing ceremony flag bearers|closing]])<ref>{{cite web|title=Sochi 2014 Closing Ceremony - Flagbearers|url=http://www.olympic.org/Documents/Games_Sochi_2014/Flagbearers_Sochi_2014_Closing_Ceremony.pdf|publisher=The [[International Olympic Committee]] (IOC)|date=23 February 2014|access-date=23 February 2014}}</ref>"},"rank":{"wt":""},"gold":{"wt":"0"},"silver":{"wt":"0"},"bronze":{"wt":"0"},"officials":{"wt":""},"appearances":{"wt":"auto"},"app_begin_year":{"wt":"1976"},"app_end_year":{"wt":""},"summerappearances":{"wt":""},"winterappearances":{"wt":""},"seealso":{"wt":""}},"i":0}}]}'>Sporting event delegationAndorra at the2014 Winter Olympics | 
+ | 
+IOC code | AND | 
+NOC | Andorran Olympic Committee | 
+Website |  (in Catalan) | 
+in Sochi | 
+Competitors | 6 in 3 sports | 
+Flag bearers | Mireia Gutiérrez (opening)[1]Laure Soulie (closing)[2] | 
+Medals | 
+ Gold
+ 0
+ Silver
+ 0
+ Bronze
+ 0
+ Total
+ 0
+ | 
+Winter Olympics appearances (overview) | 
+1976
+1980
+1984
+1988
+1992
+1994
+1998
+2002
+2006
+2010
+2014
+2018
+2022
+2026
+ |
+Andorra competed at the 2014 Winter Olympics in Sochi, Russia, from 7 to 23 February 2014. The Andorran team consisted of six athletes in three sports.[3]
+Alpine skiing
+[edit]
+Main article: Alpine skiing at the 2014 Winter Olympics
+According to the final quota allocation released on 20 January 2014, Andorra had five athletes in qualification position.[4] The final team was announced with four athletes, meaning the country decided to reject one of its quota spots.[3]
+Athlete | 
+Event | 
+Run 1 | 
+Run 2 | 
+Total |
+Time | 
+Rank | 
+Time | 
+Rank | 
+Time | 
+Rank |
+Kevin Esteve | 
+Men's downhill | 
+—N/a | 
+2:10.80 | 
+32 |
+Marc Oliveras | 
+Men's combined | 
+1:57.08 | 
+33 | 
+1:01.46 | 
+32 | 
+2:58.54 | 
+31 |
+Men's downhill | 
+—N/a | 
+2:12.76 | 
+40 |
+Men's giant slalom | 
+1:26.40 | 
+41 | 
+1:27.34 | 
+39 | 
+2:53.74 | 
+38 |
+Men's super-G | 
+—N/a | 
+1:22.02 | 
+35 |
+Joan Verdu Sanchez | 
+Men's giant slalom | 
+Did not finish</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"DNF"},"2":{"wt":"Did not finish"}},"i":0}}]}'>DNF |
+Mireia Gutierrez | 
+Women's combined | 
+1:49.04 | 
+32 | 
+53.26 | 
+15 | 
+2:42.30 | 
+18 |
+Women's giant slalom | 
+Did not finish</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"DNF"},"2":{"wt":"Did not finish"}},"i":0}}]}'>DNF |
+Women's slalom | 
+Did not finish</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"DNF"},"2":{"wt":"Did not finish"}},"i":0}}]}'>DNF |
+Biathlon
+[edit]
+Main article: Biathlon at the 2014 Winter Olympics
+Reallocation of quotas, allowed Andorra to enter one female athlete. Laure Soulie was officially announced as a member of the team on 24 January 2014.[3]
+Athlete | 
+Event | 
+Time | 
+Misses | 
+Rank |
+Laure Soulie | 
+Women's individual | 
+50:04.2 | 
+3 (1+1+0+1) | 
+48 |
+Women's sprint | 
+23:57.8 | 
+2 (1+1) | 
+66 |
+Snowboarding
+[edit]
+Main article: Snowboarding at the 2014 Winter Olympics
+According to the final quota allocation released on 20 January 2014, Andorra had one athlete in qualification position.[4] The final team was announced on 24 January 2014.[3] Tarroch was disqualified in the round of 39, and thus finished a joint 25th.[5]
+Athlete | 
+Event | 
+Seeding | 
+Round of 39 | 
+Quarterfinal | 
+Semifinal | 
+Final |
+Time | 
+Rank | 
+Position | 
+Position | 
+Position | 
+Position | 
+Rank |
+Lluis Marin Tarroch | 
+Men's snowboard cross | 
+Canceled due to inclement weather</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"CAN"},"2":{"wt":"Canceled due to inclement weather"}},"i":0}}]}'>CAN | 
+Disqualified</span>"}]],"parts":[{"template":{"target":{"wt":"abbr","href":"./Template:Abbr"},"params":{"1":{"wt":"DSQ"},"2":{"wt":"Disqualified"}},"i":0}}]}'>DSQ | 
+Did not advance | 
+=25 |
+Non-qualified sports
+[edit]
+Cross-country skiing
+[edit]
+Main article: Cross-country skiing at the 2014 Winter Olympics
+According to the quota allocation released on 20 January 2014, Andorra had one athlete in qualification position.[4] However the final team did not include the qualified athlete, Irineu Esteve Altimiras.[3]
+References
+[edit]
+↑ "Sochi 2014 Opening Ceremony - Flagbearers" (PDF). olympic.org. Sochi 2014 Olympic and Paralympic Organizing Committee. 7 February 2014. Retrieved 7 February 2014.
+↑ "Sochi 2014 Closing Ceremony - Flagbearers" (PDF). The International Olympic Committee (IOC). 23 February 2014. Retrieved 23 February 2014.
+1 2 3 4 5 "Delegació dels Jocs Olímpics de Sochi" [We present the Andorran delegation that will represent our state at the Olympics in Sochi.]. www.coa.ad (in Catalan). Comitè Olímpic Andorrà. 24 January 2014. Retrieved 24 January 2014.
+1 2 3 "Summary of Quota allocation as per 20.01.2014" (PDF). www.fis-ski.com. FIS. 20 January 2014. Retrieved 20 January 2014.
+↑ Basu, Anand (18 February 2014). "Olympics-Snowboarding-Men's cross finals result". Reuters. Retrieved 20 February 2014.
+External links
+[edit]
+"Andorra at the 2014 Winter Olympics (Sochi2014.com)". Archived from the original on 2014-02-25. Retrieved 2014-01-11.{{cite web}}: CS1 maint: bot: original URL status unknown (link)
+Andorra at the 2014 Winter Olympics at SR/Olympics (archived)
+v
+t
+e
+ National Olympic Committees at the 2014 Winter Olympics in Sochi, Russia | 
+Africa | 
+Morocco
+Togo
+Zimbabwe
+ | 
+Americas | 
+Argentina
+Bermuda
+Brazil
+British Virgin Islands
+Canada
+Cayman Islands
+Chile
+Dominica
+Jamaica
+Mexico
+Paraguay
+Peru
+United States
+Venezuela
+Virgin Islands
+ | 
+Asia | 
+China
+Chinese Taipei
+Hong Kong
+India
+Iran
+Japan
+Kazakhstan
+Kyrgyzstan
+Lebanon
+Mongolia
+Nepal
+Pakistan
+Philippines
+South Korea
+Tajikistan
+Thailand
+Timor-Leste
+Uzbekistan
+ | 
+Europe | 
+Albania
+Andorra
+Armenia
+Austria
+Azerbaijan
+Belarus
+Belgium
+Bosnia and Herzegovina
+Bulgaria
+Croatia
+Cyprus
+Czech Republic
+Denmark
+Estonia
+Finland
+France
+Georgia
+Germany
+Great Britain
+Greece
+Hungary
+Iceland
+Ireland
+Israel
+Italy
+Latvia
+Liechtenstein
+Lithuania
+Luxembourg
+Macedonia
+Malta
+Moldova
+Monaco
+Montenegro
+Netherlands
+Norway
+Poland
+Portugal
+Romania
+Russia
+San Marino
+Serbia
+Slovakia
+Slovenia
+Spain
+Sweden
+Switzerland
+Turkey
+Ukraine
+ | 
+Oceania | 
+Australia
+New Zealand
+Tonga
+ | 
+Other | 
+Independent Olympic Participants (IOP)
+ |
+v
+t
+e
+Andorra at the Olympics | 
+Summer Olympic Games | 1976
+1980
+1984
+1988
+1992
+1996
+2000
+2004
+2008
+2012
+2016
+2020
+2024
+2028
+ | 
+Winter Olympic Games | 1976
+1980
+1984
+1988
+1992
+1994
+1998
+2002
+2006
+2010
+2014
+2018
+2022
+2026
+ | 
+ | 
+  |
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Andorra_at_the_2014_Winter_Olympics&oldid=1342544600"
+					Categories: Nations at the 2014 Winter Olympics
+Andorra at the Winter Olympics by year
+2014 in Andorran sport
+Hidden categories: Articles with short description
+Short description matches Wikidata
+Articles with Catalan-language sources (ca)
+CS1 Catalan-language sources (ca)
+CS1 maint: bot: original URL status unknown
+	 This page was last edited on 9 March 2026, at 15:14 (UTC).
+	Page was rendered with Parsoid.
+	Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Legal & safety contacts
+	Code of Conduct
+	Developers
+	Statistics
+	Cookie statement
+	Mobile view
+Search
+						Search
+Toggle the table of contents
+				Andorra at the 2014 Winter Olympics
+23 languages
+Add topic

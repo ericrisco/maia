@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**289** documents · **81** fonts · **0** aptes com a model de llengua · **106** temes amb contingut.
+**293** documents · **83** fonts · **0** aptes com a model de llengua · **107** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -220,7 +220,14 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Andorra als Jocs Olímpics](temes/esports/competicio/andorra-als-jocs-olimpics.md) | `temes/esports/competicio` | compilada | contemporania | no | `wikipedia-esport-andorra` |
+| [Els altres Jocs](temes/esports/competicio/els-altres-jocs.md) | `temes/esports/competicio` | compilada | contemporania | no | `wikipedia-jocs-andorra` |
 | [Els Jocs dels Petits Estats d'Europa](temes/esports/competicio/els-jocs-dels-petits-estats.md) | `temes/esports/competicio` | compilada | contemporania | no | `gelabert-jocs-petits-estats` |
+
+## temes/esports/esqui
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Cinquanta anys d'esquí olímpic](temes/esports/esqui/cinquanta-anys-desqui-olimpic.md) | `temes/esports/esqui` | compilada | contemporania | no | `wikipedia-jocs-andorra` |
 
 ## temes/esports/formacio-esportiva
 
@@ -546,6 +553,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Albert Llovera i Massana](temes/persones/albert-llovera.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-jocs-andorra` |
 | [Els caps de Govern](temes/persones/els-caps-de-govern.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
 | [Els síndics generals](temes/persones/els-sindics-generals.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
 | [Èric Risco de la Torre](temes/persones/eric-risco.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
@@ -555,6 +563,7 @@
 | [Julià Reig i Ribó](temes/persones/julia-reig.md) | `temes/persones` | compilada | contemporania | no | `bascompte-consell-de-la-terra` |
 | [Mònica Dòria Vilarrubla](temes/persones/monica-doria.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
 | [Nahuel Carabaña](temes/persones/nahuel-carabana.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
+| [Naiara Liñán](temes/persones/naiara-linan.md) | `temes/persones` | compilada | contemporania | no | `anaesports` |
 | [Òscar Ribas Reig](temes/persones/oscar-ribas-reig.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
 | [Roser Suñé i Pascuet](temes/persones/roser-sune.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
 
@@ -827,6 +836,7 @@
 
 | Id | Titular | Llicència | Redistribució |
 | --- | --- | --- | --- |
+| [`anaesports`](fonts/anaesports.md) | Agència de Notícies Andorrana (ANA) | drets reservats · citació breu amb atribució | False |
 | [`anglada-origens-parla-andorrana`](fonts/anglada-origens-parla-andorrana.md) | Manuel Anglada i Ferran · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`armengol-migracions-segle-xix`](fonts/armengol-migracions-segle-xix.md) | Lídia Armengol Vila · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`bascompte-consell-de-la-terra`](fonts/bascompte-consell-de-la-terra.md) | Domènec Bascompte i Grau · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
@@ -907,4 +917,5 @@
 | [`viquipedia-ca`](fonts/viquipedia-ca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-art-andorra`](fonts/wikipedia-art-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-esport-andorra`](fonts/wikipedia-esport-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-jocs-andorra`](fonts/wikipedia-jocs-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-politica-andorra`](fonts/wikipedia-politica-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

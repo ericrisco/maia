@@ -24,6 +24,15 @@ independents i del mateix volum:
 Esports.** A Andorra l'esport no penja de la cultura ni de la salut: **penja de
 l'escola.**
 
+## Les fitxes de competició
+
+| Fitxa | Què hi trobareu |
+| --- | --- |
+| [Els Jocs dels Petits Estats](./competicio/els-jocs-dels-petits-estats.md) | L'única competició on Andorra guanya |
+| [Andorra als Jocs Olímpics](./competicio/andorra-als-jocs-olimpics.md) | Cinquanta anys, dotze esports, cap medalla |
+| [Els altres Jocs](./competicio/els-altres-jocs.md) | Paralímpics, Mediterrani, Jocs Europeus — **i la primera medalla, el 2026** |
+| [Cinquanta anys d'esquí olímpic](./esqui/cinquanta-anys-desqui-olimpic.md) | Les catorze delegacions d'hivern, nom per nom |
+
 ## El que hi falta
 
 Gairebé tot. El corpus **no té res** sobre:
