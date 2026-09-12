@@ -224,3 +224,4 @@ descriu des de l'altra punta.
 - [De la fonda a l'hotel](../turisme-i-neu/de-la-fonda-a-lhotel.md)
 - [L'Institut d'Estudis Andorrans](../../cultura/museus-i-arxius/linstitut-destudis-andorrans.md) — on la Cambra també seu.
 - [La transformació econòmica](../transformacio-economica/transformacio-economica.md)
+- [La funció pública](../../institucions/govern/la-funcio-publica.md) — per què a Andorra la mateixa persona fa feines que en un altre lloc ocupen estructures senceres.

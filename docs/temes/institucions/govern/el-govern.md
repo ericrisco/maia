@@ -67,3 +67,4 @@ no s'ha buidat.
 - [El Consell General](../consell-general/el-consell-general.md) — qui l'elegeix i el controla.
 - [El coprincipat](../coprincipat/el-coprincipat.md) — el cap d'estat.
 - [La Constitució de 1993](../../historia/constitucio-1993/constitucio-1993.md) — què el va crear.
+- [La funció pública](./la-funcio-publica.md) — com funciona per dins, dit per un funcionari el 2000.

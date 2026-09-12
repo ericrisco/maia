@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**231** documents · **47** fonts · **0** aptes com a model de llengua · **97** temes amb contingut.
+**232** documents · **48** fonts · **0** aptes com a model de llengua · **97** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -367,6 +367,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [El Govern](temes/institucions/govern/el-govern.md) | `temes/institucions/govern` | compilada | contemporania | no | `govern-andorra-web` |
+| [La funció pública](temes/institucions/govern/la-funcio-publica.md) | `temes/institucions/govern` | compilada | contemporania | no | `llovera-visio-del-treballador` |
 
 ## temes/institucions/justicia
 
@@ -753,6 +754,7 @@
 | [`insa-ensenyament-salut`](fonts/insa-ensenyament-salut.md) | Anna Insa i Canel · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`lacueva-hoteleria`](fonts/lacueva-hoteleria.md) | Ludmilla Lacueva i Canut · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`llegendes-dandorra-llibre`](fonts/llegendes-dandorra-llibre.md) | Roser Carol i Àlvar Valls · Editorial andorrana | obra literària amb drets reservats | False |
+| [`llovera-visio-del-treballador`](fonts/llovera-visio-del-treballador.md) | Xavier Llovera i Massana · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mas-educacio-artistica`](fonts/mas-educacio-artistica.md) | Roger Mas i Canalis · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mas-pagesos-i-artesans`](fonts/mas-pagesos-i-artesans.md) | David Mas i Canalís · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`molla-catala-andorra`](fonts/molla-catala-andorra.md) | Guillem Molla · Universitat de Girona · revista IANUA | publicació acadèmica en accés obert | pendent |

@@ -92,3 +92,4 @@ Gairebé tots els buits prioritaris del corpus acaben aquí:
 - [Museus i arxius](./museus-i-arxius.md)
 - [L'Armari de les Set Claus](../../institucions/patrimoni-institucional/larmari-de-les-set-claus.md)
 - [La historiografia andorrana](../../historia/historiografia/historiografia.md)
+- [La funció pública](../../institucions/govern/la-funcio-publica.md) — el «important caos documental» que denunciava el funcionariat el 2000.

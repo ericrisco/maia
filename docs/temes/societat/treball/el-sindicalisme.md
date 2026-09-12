@@ -154,3 +154,4 @@ l'Organització Internacional del Treball**.
 - [Els tres sistemes](../educacio/els-tres-sistemes.md) — per què els mestres francesos feien vaga.
 - [Associacionisme](../associacionisme/associacionisme.md) — l'altra cara.
 - [L'Institut d'Estudis Andorrans](../../cultura/museus-i-arxius/linstitut-destudis-andorrans.md) — qui és el CRES que va fer l'enquesta.
+- [La funció pública](../../institucions/govern/la-funcio-publica.md) — l'associació de personal de l'Administració general, el 2000.
