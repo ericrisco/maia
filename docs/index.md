@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**222** documents · **38** fonts · **0** aptes com a model de llengua · **96** temes amb contingut.
+**222** documents · **39** fonts · **0** aptes com a model de llengua · **96** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -520,7 +520,7 @@
 | [L'andorranització](temes/societat/educacio/landorranitzacio.md) | `temes/societat/educacio` | compilada | contemporania | no | `bastida-roser-ensenyament-andorra` |
 | [L'ensenyament confessional](temes/societat/educacio/lensenyament-confessional.md) | `temes/societat/educacio` | compilada | contemporania | no | `garcia-ensenyament-confessional` |
 | [L'ensenyament francès](temes/societat/educacio/lensenyament-frances.md) | `temes/societat/educacio` | compilada | contemporania | no | `toquec-ensenyament-frances` |
-| [L'escola Nostra Senyora de Meritxell](temes/societat/educacio/lescola-nostra-senyora-de-meritxell.md) | `temes/societat/educacio` | compilada | contemporania | no | `bastida-roser-ensenyament-andorra` |
+| [L'escola Nostra Senyora de Meritxell](temes/societat/educacio/lescola-nostra-senyora-de-meritxell.md) | `temes/societat/educacio` | compilada | contemporania | no | `serra-educacio-especialitzada` |
 | [L'esquí escolar](temes/societat/educacio/lesqui-escolar.md) | `temes/societat/educacio` | compilada | contemporania | no | `bastida-roser-ensenyament-andorra` |
 
 ## temes/societat/esport
@@ -743,6 +743,7 @@
 | [`ribes-gastronomia-andorrana`](fonts/ribes-gastronomia-andorrana.md) | M. Dolors Ribes i Rogé · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`rodriguez-minana-notaris`](fonts/rodriguez-minana-notaris.md) | Joan Carles Rodríguez i Miñana · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`rodriguez-rossa-creacio-artistica`](fonts/rodriguez-rossa-creacio-artistica.md) | Francesc Rodríguez i Rossa · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`serra-educacio-especialitzada`](fonts/serra-educacio-especialitzada.md) | Carolina Serra i Areny · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`societat-andorrana-ciencies`](fonts/societat-andorrana-ciencies.md) | Societat Andorrana de Ciències (Andorra) | publicació acadèmica en accés obert | pendent |
 | [`toquec-ensenyament-frances`](fonts/toquec-ensenyament-frances.md) | Jean-Alain Toquec · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`ubach-moviments-socials`](fonts/ubach-moviments-socials.md) | Gabriel Ubach i Valdivia · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
