@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**209** documents · **32** fonts · **0** aptes com a model de llengua · **96** temes amb contingut.
+**210** documents · **33** fonts · **0** aptes com a model de llengua · **96** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -142,6 +142,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [L'IAEM i el 1980](temes/cultura/musica-i-cancons/liaem-i-el-1980.md) | `temes/cultura/musica-i-cancons` | compilada | contemporania | no | `escribano-musica` |
 | [Música i cançons](temes/cultura/musica-i-cancons/musica-i-cancons.md) | `temes/cultura/musica-i-cancons` | compilada | contemporania | no | `premsa-andorrana` |
 
 ## temes/economia/banca-i-fiscalitat
@@ -708,6 +709,7 @@
 | [`costa-globalitzacio-llengues`](fonts/costa-globalitzacio-llengues.md) | Ferran Costa i Marimon · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`de-la-parte-immigracio-cultura`](fonts/de-la-parte-immigracio-cultura.md) | Isabel de la Parte i Cano · Joan Micó i Ibáñez · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`debat-2a-diada-migracions`](fonts/debat-2a-diada-migracions.md) | Societat Andorrana de Ciències · CREC, Universitat de Perpinyà | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`escribano-musica`](fonts/escribano-musica.md) | Josep Maria Escribano i Casaldàliga · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`ferrer-percepcio-andorra-exterior`](fonts/ferrer-percepcio-andorra-exterior.md) | Josep Ferrer i Altimira · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`font-fenomens-socials-immigracio`](fonts/font-fenomens-socials-immigracio.md) | Agustí Font · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`govern-andorra-web`](fonts/govern-andorra-web.md) | Govern del Principat d'Andorra | informació institucional pública | si |
