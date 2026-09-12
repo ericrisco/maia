@@ -295,3 +295,5 @@ sense suavitzar: **és el que diu la font, i qui la diu importa.**
 - [El Manual Digest](../../historia/manual-digest/manual-digest.md) — on ja hi era escrit.
 - [Andorra vista de fora](../../cultura/andorra-vista-de-fora/andorra-vista-de-fora.md)
 - [L'acord d'associació amb la UE](../relacions-exteriors/lacord-dassociacio-amb-la-ue.md)
+- [El reconeixement internacional](../relacions-exteriors/el-reconeixement-internacional.md) — qui sostenia que Andorra no era un estat, i per què.
+- [El Concordat del 2008](../coprincipat/el-concordat-del-2008.md)

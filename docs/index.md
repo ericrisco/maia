@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**236** documents · **52** fonts · **0** aptes com a model de llengua · **98** temes amb contingut.
+**238** documents · **53** fonts · **0** aptes com a model de llengua · **98** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -361,6 +361,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El Concordat del 2008](temes/institucions/coprincipat/el-concordat-del-2008.md) | `temes/institucions/coprincipat` | compilada | contemporania | no | `serra-vatica-microestat` |
 | [El Coprincipat](temes/institucions/coprincipat/el-coprincipat.md) | `temes/institucions/coprincipat` | compilada | contemporania | no | `coprincep-frances` |
 
 ## temes/institucions/govern
@@ -411,6 +412,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El reconeixement internacional](temes/institucions/relacions-exteriors/el-reconeixement-internacional.md) | `temes/institucions/relacions-exteriors` | compilada | contemporania | no | `serra-vatica-microestat` |
 | [L'acord d'associació amb la UE](temes/institucions/relacions-exteriors/lacord-dassociacio-amb-la-ue.md) | `temes/institucions/relacions-exteriors` | compilada | contemporania | no | `premsa-andorrana` |
 
 ## temes/institucions/simbols
@@ -780,6 +782,7 @@
 | [`rodriguez-rossa-creacio-artistica`](fonts/rodriguez-rossa-creacio-artistica.md) | Francesc Rodríguez i Rossa · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`santos-associacions-de-pares`](fonts/santos-associacions-de-pares.md) | Alícia Santos i Mateo · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`serra-educacio-especialitzada`](fonts/serra-educacio-especialitzada.md) | Carolina Serra i Areny · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`serra-vatica-microestat`](fonts/serra-vatica-microestat.md) | Jaume Serra i Serra · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`societat-andorrana-ciencies`](fonts/societat-andorrana-ciencies.md) | Societat Andorrana de Ciències (Andorra) | publicació acadèmica en accés obert | pendent |
 | [`toquec-ensenyament-frances`](fonts/toquec-ensenyament-frances.md) | Jean-Alain Toquec · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`ubach-moviments-socials`](fonts/ubach-moviments-socials.md) | Gabriel Ubach i Valdivia · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |

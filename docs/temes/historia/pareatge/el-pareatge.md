@@ -60,3 +60,4 @@ entre elles s'ha de documentar abans d'afirmar-la.
 ## Related
 
 - [El Coprincipat](../../institucions/coprincipat/el-coprincipat.md) — què va sortir d'aquí.
+- [El reconeixement internacional](../../institucions/relacions-exteriors/el-reconeixement-internacional.md) — set-cents anys després, què en quedava en dret internacional.

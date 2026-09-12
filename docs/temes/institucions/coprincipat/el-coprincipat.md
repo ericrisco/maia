@@ -65,3 +65,5 @@ té resposta perquè està mal feta: manen tots dos o no mana cap.
 - [El Pareatge](../../historia/pareatge/el-pareatge.md) — el document que ho va fixar.
 - [El Consell General](../consell-general/el-consell-general.md) — qui legisla.
 - [Andorra com a microestat](../petits-estats/andorra-com-a-microestat.md) — què vol dir ser petit, i qui són els iguals d'Andorra.
+- [El Concordat del 2008](./el-concordat-del-2008.md) — quan la Santa Seu posa per escrit un fet de set-cents anys.
+- [El reconeixement internacional](../relacions-exteriors/el-reconeixement-internacional.md) — quan un copríncep deia que Andorra no era un estat.

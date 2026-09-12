@@ -129,3 +129,4 @@ data documental i no estimada**. Vegeu
 - [El Pareatge](../pareatge/el-pareatge.md) — quan es parteix.
 - [El Consell de la Terra](../../institucions/consell-general/el-consell-de-la-terra.md) — on cal saber qui era bisbe el 1419.
 - [Arquitectura](../../cultura/arquitectura/romanic.md) — les esglésies que consagren.
+- [El Concordat del 2008](../../institucions/coprincipat/el-concordat-del-2008.md) — el darrer capítol de la sèrie.

@@ -88,3 +88,4 @@ qui hi torni sàpiga exactament què s'ha de posar al dia.
 - [Transformació econòmica](../../economia/transformacio-economica/transformacio-economica.md) — què hi ha en joc.
 - [La Constitució de 1993](../../historia/constitucio-1993/constitucio-1993.md) — l'altra gran decisió.
 - [Andorra com a microestat](../petits-estats/andorra-com-a-microestat.md) — el marc en què San Marino, Mònaco i Andorra hi van junts.
+- [El reconeixement internacional](./el-reconeixement-internacional.md) — d'on ve la personalitat jurídica que fa possible negociar.
