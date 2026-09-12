@@ -1,0 +1,183 @@
+---
+type: article
+title: Quants notaris
+description: "Andorra va tenir un sol notari durant segles. El 1904 n'hi havia quatre i el jutge que ho explica diu que eren massa. El 2021 quatre és el mínim legal."
+tema: temes/institucions/justicia
+veu: compilada
+epoca: contemporania
+apte_llengua: false
+font: brutails-coutume-1904
+timestamp: 2026-09-13T05:35:00Z
+tags: [justicia, notariat, dret-vigent, costum, coprincipat, historia-del-dret]
+---
+
+# Quants notaris
+
+[El notariat](./el-notariat.md) tenia registrat com a buit **«quants notaris hi ha
+hagut i hi ha a Andorra»**. La resposta va de **un** a **quatre** i acaba en una
+**fórmula per habitant**.
+
+## La sèrie
+
+| Quan | Quants | Com es nomenaven |
+| --- | --- | --- |
+| **Molt de temps** | **Un de sol** | Exercia **en nom dels dos cosenyors**, i segons el Politar amb **el títol i les prerrogatives dels notaris apostòlics** |
+| **Des de febrer de 1607** | Un | Els cosenyors el trien **alternativament**, d'una **llista de dos noms** que els sotmet **el Consell General** |
+| **1763** (Politar) | **Un i substituts** | |
+| **1904** | **Quatre** | **Dos nomenats per cada cosenyor** |
+| **2021** | **Mínim quatre**, **màxim un per cada 10.000 habitants** | **Per acord del Govern** |
+
+I els primers noms documentats, que el corpus no tenia:
+
+| Any | Qui |
+| --- | --- |
+| **1443** | **Guillermus Carreu**, «*notarius publicus Vallium Andorre auctoritate dominorum episcopi Urgellensis et comitis Fuxi*» |
+| **1466-1468** | **Jacques Llobet** (*Luppeti*), «*notarii publici Vallium Andorre pro reverendo domino Urgellensi episcopo*» |
+| **1475** | **Fr. Dach**, que comença el **Registre de les Corts** el gener de 1475, per autoritat del bisbe electe d'Urgell i del **príncep de Viana** |
+
+**El 1475 el cosenyor laic és el príncep de Viana**, no el rei de França. Vegeu
+[el Pariatge](../../historia/pareatge/el-pareatge.md).
+
+## Quatre eren massa, i quatre és el mínim
+
+El 1904, **J.-A. Brutails** —jutge del Tribunal Superior d'Andorra
+([font](../../../fonts/brutails-coutume-1904.md))— hi posa aquesta frase:
+
+> «Il existe actuellement dans les Vallées **quatre notaires**, deux nommés par
+> chaque co-seigneur. **C'est beaucoup trop**, si l'on considère le chiffre des
+> émoluments à partager.»
+
+I la **Llei del notariat (14/2021)**, en text consolidat
+([font](../../../fonts/jurisprudencia-ad.md)):
+
+> «El nombre de notaris és fixat per acord del Govern, en funció de les
+> necessitats del país... **amb un mínim de quatre notaris i un límit màxim d'un
+> notari per cada deu mil habitants**.»
+
+**El nombre que un jutge va considerar excessiu el 1904 és, cent disset anys
+després, el mínim que la llei garanteix.** Amb la població d'avui, el sostre
+en són **vuit**.
+
+**El corpus no en treu conclusió sobre l'activitat notarial**: hi ha hagut una
+Constitució, una economia i una població pel mig. Ho registra com el que és: **la
+mateixa xifra llegida de dues maneres oposades.**
+
+## El Consell General perd el notari
+
+La sèrie de dalt amaga un desplaçament de poder que Brutails descriu sense
+estalviar-se res:
+
+| | |
+| --- | --- |
+| **1607** | El Consell General **presenta la llista de dos noms**; els cosenyors trien |
+| **1904** | «**Le Conseil général n'intervient plus que pour donner son avis sur les candidats**» — i Brutails hi afegeix que sospita que és «une démarche toute de déférence et qui n'est rien moins que constante» |
+| | «**Le Conseil ne reçoit même pas toujours le serment des notaires.**» |
+| | I malgrat tot **els fa reglaments**, «dont l'autorité est **au moins contestable**» |
+| **2021** | El nombre el fixa **el Govern**; el nomenament, el ministeri de justícia |
+
+**De presentar els candidats a donar-hi opinió, i d'allà a res.**
+
+## La troballa: el costum encara hi és, el 2021
+
+[Les fonts del dret](./les-fonts-del-dret.md) es preguntava si **el costum encara
+preval sobre la llei**, i
+[l'ordenament jurídic avui](./lordenament-juridic-avui.md) constatava que **la
+Constitució no l'esmenta** fora de l'article 84.
+
+**Però una llei del 2021 sí.** L'article 2.1.a diu que els notaris han de:
+
+> «Donar fe pública de tots els actes i els contractes que autoritzen sota la forma
+> d'instrument públic, **amb subjecció a les lleis i la normativa aplicable restant
+> i, subsidiàriament, d'acord amb el costum**.»
+>
+> — **Llei 14/2021, article 2.1.a**
+
+**El costum, escrit com a font subsidiària en una llei vigent del segle XXI.**
+
+No diu quin costum ni on consta —i això és, exactament, el problema que Brutails i
+Pujadas descrivien cadascú al seu segle—, però **desmenteix que la qüestió sigui
+històrica**: en matèria notarial, **el costum segueix sent dret supletori per
+disposició expressa**.
+
+## Què signava la gent, el 1875-1877
+
+Brutails va comptar **els actes de dos anys de minutes notarials**. El resultat
+diu com era l'economia d'una casa millor que qualsevol descripció:
+
+| Acte | Comptats |
+| --- | ---: |
+| **Vendes definitives** | **55** |
+| **Vendes a carta de gràcia** (*à réméré*) | **47** |
+| Recompres després de carta de gràcia | 4 |
+| **Contractes de matrimoni** | **39** |
+| **Patrimonis o dotacions de clergues** | **30** |
+| Rebuts | 44 |
+| Declaracions rebudes per notari | 15 |
+| Procuracions | 14 |
+| Reconeixements de deute | 7 |
+| Transaccions | 6 — **cinc d'elles sobre el terreny, en matèria de *visures*** |
+| Testaments | 5 |
+| Inventaris | 5 |
+| Donacions | 4 |
+| Arrendaments | 3 |
+| *In solutum dacions* | 3 |
+| **Institucions d'hereu** | **1** |
+
+**Gairebé tantes vendes a carta de gràcia com definitives.** La **venda a carta de
+gràcia** —vendre amb dret a recomprar— era **el crèdit d'un país sense bancs**:
+qui necessitava diners venia la terra reservant-se la facultat de tornar-la a
+comprar. I només se'n van recomprar **quatre**. Això tanca, en part, un buit de
+[el notariat](./el-notariat.md).
+
+I **trenta patrimonis de clergues en dos anys**: dotar un fill que es feia capellà
+era, en volum, **gairebé tan freqüent com casar-ne un**.
+
+> **L'avís és de l'autor, i el corpus el fa seu:** «**Ces chiffres dépendent de
+> mille circonstances et ils ne sauraient servir de base à une induction.**»
+> Són **dos anys d'un notari**, no una estadística del país.
+
+## El testament davant del rector, i qui el revisava
+
+Brutails documenta que a Andorra **els rectors rebien testaments**, com en dret
+català quan no hi havia notari a la parròquia. I hi afegeix una sospita amb prova:
+
+> «...l'autorité religieuse a encore trouvé dans cet usage **un moyen de s'immiscer
+> dans des affaires d'ordre purement séculier**: **les officiaux, pendant les
+> tournées, se faisaient présenter les testaments reçus par les curés et en
+> autorisaient l'exécution si les legs pies étaient remplis**.»
+
+I en dona **una anotació real**, al peu d'un testament del **21 d'octubre de 1646**
+del registre d'**Anton Montanya, rector de Sant Julià**:
+
+> «*Attento quia nobis constat legata pia relicta in prædicto testamento esse
+> omnino adimpleta, ideo illud diffinimus.* Dat. in villa Sancti-Juliani, Vallis
+> Andorræ... **die 26 junii 1647**. Pujalt, off. et vic. generalis.»
+
+**«Atès que ens consta que els llegats pius deixats en aquest testament han estat
+del tot complerts, el donem per acabat.»** Vuit mesos després del testament.
+
+**El control de l'execució d'un testament civil, a canvi d'haver complert els
+llegats a l'Església.** Vegeu
+[la religiositat](../../costums/religiositat/religiositat.md).
+
+## Buits registrats
+
+1. **Quants notaris hi ha avui, de fet.** La llei en fixa el mínim i el sostre;
+   **el corpus no té el nombre real**.
+2. **La carta de febrer de 1607**, sencera.
+3. **Els protocols notarials històrics**: on són. Segueix sent **una de les
+   millors fonts de llengua i de societat** que el corpus podria incorporar.
+4. **Quin costum** invoca l'article 2.1.a de la Llei del notariat, i on consta.
+   **És la pregunta de sempre, feta a una llei de fa cinc anys.**
+5. **Les *visures***: cinc de sis transaccions de 1875-1877 n'eren. **El corpus no
+   sap què és una visura.**
+6. **El registre d'Anton Montanya**, rector de Sant Julià, i si es conserva.
+
+## Related
+
+- [El notariat](./el-notariat.md) — la fitxa que això completa.
+- [Les fonts del dret](./les-fonts-del-dret.md) — la pregunta del costum.
+- [El dret supletori](./el-dret-supletori.md) — la mateixa pregunta, amb casos.
+- [L'ordenament jurídic avui](./lordenament-juridic-avui.md) — on la Constitució calla.
+- [Dos capítols matrimonials de 1788](../../historia/antic-regim/dos-capitols-matrimonials-de-1788.md) — dos dels actes que els notaris redactaven.
+- [El Pariatge](../../historia/pareatge/el-pareatge.md) — els cosenyors que els nomenaven.

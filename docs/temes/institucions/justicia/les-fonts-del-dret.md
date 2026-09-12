@@ -117,6 +117,12 @@ qüestió.**»
 
 **Buit registrat:** si això s'ha resolt des del 2002.
 
+> **Una pista, del 2021.** La **Llei del notariat** diu que els notaris donen fe
+> «amb subjecció a les lleis... **i, subsidiàriament, d'acord amb el costum**». No
+> resol si el costum guanya la llei —diu el contrari: hi va **després**—, però
+> demostra que **la qüestió no és històrica**. Vegeu
+> [quants notaris](./quants-notaris.md).
+
 ## Què canvia la Constitució
 
 > «L'aprovació de la Constitució ha vingut a resoldre **almenys la fonamental

@@ -158,8 +158,12 @@ manlleus jurídics datada el 1904.
 4. **Qui eren els *rahonadors*** de 1877 i quina relació tenen amb
    [el raonador del ciutadà](./justicia.md) d'avui.
 5. **Què en diu la Constitució de 1993.** [L'ordenament jurídic avui](./lordenament-juridic-avui.md)
-   mostra que **no esmenta el costum** fora de l'article 84: si el dret supletori
-   segueix existint, i quin és, **no consta**.
+   mostra que **no esmenta el costum** fora de l'article 84. **Però una llei del
+   2021 sí:** la del notariat diu que els notaris donen fe «amb subjecció a les
+   lleis... **i, subsidiàriament, d'acord amb el costum**» (art. 2.1.a). **El dret
+   supletori consuetudinari és vigent per disposició expressa**, almenys en matèria
+   notarial — i **la llei no diu quin costum ni on consta**. Vegeu
+   [quants notaris](./quants-notaris.md).
 
 ## Related
 

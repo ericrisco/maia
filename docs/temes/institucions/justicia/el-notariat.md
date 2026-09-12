@@ -93,16 +93,29 @@ L'autor enumera què més podria haver triat per il·lustrar la tesi, i la llist
 
 ## Buits registrats
 
-1. **La Llei del notariat de 1996**, sencera.
+1. **La Llei del notariat de 1996**, sencera. **La vigent sí que hi és**: la
+   **Llei 14/2021**, 74 articles, en text consolidat — i hi diu una cosa que el
+   corpus buscava per una altra banda: els notaris donen fe «amb subjecció a les
+   lleis... **i, subsidiàriament, d'acord amb el costum**».
 2. **El text del segon Pareatge** en la part que regula el notariat.
-3. **Quants notaris** hi ha hagut i hi ha a Andorra.
+3. ~~**Quants notaris** hi ha hagut i hi ha a Andorra.~~ **TANCAT en sèrie:**
+   **un de sol** durant segles, **quatre el 1904** —«c'est beaucoup trop», deia
+   Brutails— i, des del **2021**, **mínim quatre i màxim un per cada deu mil
+   habitants**. Vegeu [quants notaris](./quants-notaris.md). **Queda obert quants
+   n'hi ha de fet.**
 4. **On són els protocols notarials** històrics —
    [l'Arxiu Nacional](../../cultura/museus-i-arxius/larxiu-nacional.md)?
    **Serien una de les millors fonts de llengua i de societat que existeixen.**
 5. **L'adaptació a l'euro** d'un país que no és a la UE.
-6. La **compravenda a carta de gràcia** i el **censal** a Andorra.
+6. La **compravenda a carta de gràcia** i el **censal** a Andorra. **La carta de
+   gràcia, documentada en volum:** a les minutes de **1875-1877** Brutails hi compta
+   **47 vendes a carta de gràcia** contra **55 de definitives**, i **només quatre
+   recompres**. Era **el crèdit d'un país sense bancs**. Vegeu
+   [quants notaris](./quants-notaris.md). **El censal segueix obert.**
 
 ## Related
+
+- [Quants notaris](./quants-notaris.md) — la sèrie, de 1443 al 2021.
 
 - [El Pareatge](../../historia/pareatge/el-pareatge.md) — l'origen.
 - [Els capítols matrimonials](../../historia/antic-regim/els-capitols-matrimonials.md) — el document estrella.
