@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**298** documents · **85** fonts · **0** aptes com a model de llengua · **107** temes amb contingut.
+**299** documents · **85** fonts · **0** aptes com a model de llengua · **107** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -437,6 +437,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Els andorrans de primera generació](temes/institucions/nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md) | `temes/institucions/nacionalitat-i-residencia` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [La política de nacionalitat](temes/institucions/nacionalitat-i-residencia/la-politica-de-nacionalitat.md) | `temes/institucions/nacionalitat-i-residencia` | compilada | contemporania | no | `pampalona-particularitats-microestats` |
+| [La residència passiva](temes/institucions/nacionalitat-i-residencia/la-residencia-passiva.md) | `temes/institucions/nacionalitat-i-residencia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Nacionalitat i residència](temes/institucions/nacionalitat-i-residencia/nacionalitat-i-residencia.md) | `temes/institucions/nacionalitat-i-residencia` | compilada | contemporania | no | `consell-general-web` |
 
 ## temes/institucions/patrimoni-institucional

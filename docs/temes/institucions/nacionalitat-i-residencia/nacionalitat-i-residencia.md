@@ -70,21 +70,36 @@ no són font oficial, i canvien amb cada reforma. Escriure-les sense el text
 oficial al davant seria posar al corpus dades que semblen precises i poden ser
 falses.
 
-**Buit registrat, prioritari:** el règim de residència passiva segons el text
-legal vigent, consultat al Portal Jurídic del Principat.
+~~**Buit registrat, prioritari:** el règim de residència passiva segons el text
+legal vigent.~~ **TANCAT** amb la **Llei qualificada d'immigració (9/2012)** en
+text consolidat: [la residència passiva](./la-residencia-passiva.md).
+
+La llei **no en diu «passiva»**: en diu **«residència sense activitat
+lucrativa»**, i demana **90 dies l'any** al país, **un milió d'euros** invertit
+—**400.000** si van al Fons d'Habitatge— i **50.000 euros no reemborsables** que
+**queden a benefici de l'Estat**, més **12.000** per cada persona a càrrec.
 
 ## El que falta
 
-- Els tipus de residència i les quotes d'immigració any per any.
+- Els tipus de residència: **coberts** a [la residència passiva](./la-residencia-passiva.md).
+  Les **quotes any per any** segueixen sent buit: la llei diu **qui les fixa**
+  —el Govern, per reglament, després de consultar la Cambra de Comerç, els
+  sindicats i les patronals— i **no quantes són**.
 - La sèrie demogràfica: d'on ve aquest 54,7 % i com ha evolucionat.
 - Les nacionalitats concretes (espanyola, portuguesa, francesa) i el seu pes.
 - El debat polític sobre escurçar els vint anys, i la ponència de la
   *Diada andorrana a la UCE* dedicada a la nacionalitat, publicada per l'IEC.
-- La doble nacionalitat: Andorra no l'admet, i això cal verificar-ho i
-  documentar-ho, perquè és una de les decisions més dures que la llei imposa.
+- ~~La doble nacionalitat: cal verificar-ho.~~ **VERIFICAT, i no és una llei: és
+  la Constitució.** Article **7.2**: «**L'adquisició o el manteniment d'una
+  nacionalitat diferent de l'andorrana implicarà la pèrdua d'aquesta** en els
+  termes i terminis fixats per la llei.» I l'article **7.1** reserva tota la
+  matèria a **llei qualificada**. Vegeu
+  [l'ordenament jurídic avui](../justicia/lordenament-juridic-avui.md), que
+  registra que **aquesta llei qualificada no és al recull de normes del corpus**.
 
 ## Related
 
+- [La residència passiva](./la-residencia-passiva.md) — el text legal, amb les xifres.
 - [Qui parla què](../../llengua/politica-linguistica/qui-parla-que.md) — la població real.
 - [La llei de la llengua](../../llengua/politica-linguistica/la-llei-de-la-llengua.md) — l'altra exigència.
 - [El Consell General](../consell-general/el-consell-general.md) — qui vota les lleis qualificades.
