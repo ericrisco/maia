@@ -29,7 +29,10 @@ La pàgina 115 impresa —pàgina 117 del PDF— identifica:
 
 La nota 90 remet a `SPP, teczka osobowa Krzysztofa Tutaja`, és a dir, a
 l'expedient personal de Tutaj al **Studium Polski Podziemnej** de Londres.
-Aquest és el següent objecte arxivístic prioritari.
+Aquest és el següent objecte arxivístic prioritari. El subdirectori `spp/`
+documenta el catàleg públic del fons A i les signatures candidates per
+formular una consulta precisa: el catàleg no exposa la signatura nominal de
+l'expedient.
 
 ## Què prova i què no
 
