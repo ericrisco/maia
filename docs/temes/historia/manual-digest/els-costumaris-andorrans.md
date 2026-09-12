@@ -120,11 +120,14 @@ L'obra està dividida en **sis llibres**, subdividits en capítols.
 4. **Si les còpies de 1879 són encara a París**, i què n'ha estat de la
    Bibliothèque du Comité de législation comparée.
 5. **Qui eren Palmitjavila, de Riba i Bonaventura Moles.**
-6. **El Politar sencer.** Brutails en publica extractes (annex XXXIV) i el corpus
-   **encara no els ha llegit**.
+6. ~~**El Politar sencer.** Brutails en publica extractes (annex XXXIV) i el
+   corpus encara no els ha llegit.~~ **Els extractes, llegits:**
+   [El Politar andorrà](./el-politar.md). Queda obert **el Politar sencer**: el
+   que hi ha és **una tria feta per un jutge francès**.
 
 ## Related
 
+- [El Politar andorrà](./el-politar.md) — llegit, per fi.
 - [El Manual Digest](./manual-digest.md) — el costumari que el corpus ja tenia.
 - [De lo que pot i no pot](./de-lo-que-pot-i-no-pot.md) — el llibre tercer.
 - [El dret supletori](../../institucions/justicia/el-dret-supletori.md) — què omplia el que els costumaris no deien.

@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**287** documents · **81** fonts · **0** aptes com a model de llengua · **106** temes amb contingut.
+**289** documents · **81** fonts · **0** aptes com a model de llengua · **106** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -334,6 +334,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [De lo que pot i no pot](temes/historia/manual-digest/de-lo-que-pot-i-no-pot.md) | `temes/historia/manual-digest` | compilada | contemporania | no | `massa-de-lo-que-pot-i-no-pot` |
+| [El Politar andorrà, llegit](temes/historia/manual-digest/el-politar.md) | `temes/historia/manual-digest` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Els costumaris andorrans](temes/historia/manual-digest/els-costumaris-andorrans.md) | `temes/historia/manual-digest` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [El Manual Digest](temes/historia/manual-digest/manual-digest.md) | `temes/historia/manual-digest` | compilada | contemporania | no | `viquipedia-ca` |
 
@@ -412,6 +413,7 @@
 | [El dret supletori](temes/institucions/justicia/el-dret-supletori.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [El dret andorrà vigent](temes/institucions/justicia/el-dret-vigent.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El notariat](temes/institucions/justicia/el-notariat.md) | `temes/institucions/justicia` | compilada | contemporania | no | `rodriguez-minana-notaris` |
+| [El saig](temes/institucions/justicia/el-saig.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [La justícia](temes/institucions/justicia/justicia.md) | `temes/institucions/justicia` | compilada | contemporania | no | `viquipedia-ca` |
 | [La justícia abans de la Constitució](temes/institucions/justicia/la-justicia-dabans.md) | `temes/institucions/justicia` | compilada | contemporania | no | `pujadas-dret-andorra` |
 | [Les fonts del dret](temes/institucions/justicia/les-fonts-del-dret.md) | `temes/institucions/justicia` | compilada | contemporania | no | `pujadas-dret-andorra` |

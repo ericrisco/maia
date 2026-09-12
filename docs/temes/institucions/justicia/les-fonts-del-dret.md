@@ -145,10 +145,10 @@ res.**
    dues còpies conegudes el 1904 i **el text reproduït a les seves peces
    justificatives**. Vegeu [els costumaris andorrans](../../historia/manual-digest/els-costumaris-andorrans.md).
    Queda obert **llegir-ne el text**, que ja és a `docs/raw/llibres/`.
-2. **El Politar Andorrà** (1763) — el corpus el té citat i no llegit.
-   **Parcialment obert:** Brutails en publica **extractes** i el cita per pàgina
-   (p. 214 per a la Instructa, p. 186, p. 250, p. 275...). **L'accés ja no és el
-   problema.**
+2. ~~**El Politar Andorrà** (1763) — citat i no llegit.~~ **LLEGIT**, pels
+   extractes que en publica Brutails:
+   [El Politar andorrà](../../historia/manual-digest/el-politar.md). En queda
+   obert el volum sencer: el que hi ha és **una tria**.
 3. ~~**Un cas concret** on s'hagi aplicat dret romà o dret català pre-1714.~~
    **TANCAT, amb cinc.** Una sentència francesa de **1686**, unes instruccions
    episcopals de **1845**, una **sentència de batlle de 1868** en català que
