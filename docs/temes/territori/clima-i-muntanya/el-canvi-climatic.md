@@ -149,10 +149,13 @@ publicació pròpia**.
   tèrmica diferent de la d'aquesta fitxa**: **+0,2 °C/dècada entre 1931 i 2013**
   contra els **+0,14 entre 1950 i 2010**. **Períodes diferents; el corpus no les
   barreja.**
-- **La percepció ciutadana**, amb dades del **CRES** des del **2002** — i el
-  CRES ja tenia, el 2000, **una enquesta sobre els riscos naturals** entre les
-  seves previsions immediates
-  ([l'IEA](../../cultura/museus-i-arxius/linstitut-destudis-andorrans.md)).
+- ~~**La percepció ciutadana**, amb dades del **CRES** des del **2002**.~~
+  **TANCAT**: [els problemes d'Andorra](../../societat/vida-civica/els-problemes-dandorra.md),
+  amb la sèrie del 2002 al 2016 i el desglossament del que la gent vol dir quan
+  diu «medi ambient». **Queda obert** que el CRES ja tenia, el 2000, **una
+  enquesta sobre els riscos naturals** entre les seves previsions immediates
+  ([l'IEA](../../cultura/museus-i-arxius/linstitut-destudis-andorrans.md)), i
+  **les xifres dels gràfics de la ponència**, que l'OCR no ha pogut recuperar.
 - ~~**La vinya**: hi ha ponència sobre **el celler Casa Auvinyà** i la
   climatologia dels seus vins.~~ **TANCAT**:
   [el vi d'Andorra](../../gastronomia/begudes/el-vi-dandorra.md). I el que en
@@ -171,4 +174,5 @@ publicació pròpia**.
 - [FHASA](../../economia/energia-i-serveis/fhasa.md) — d'on venen les sèries.
 - [Fauna i flora](../fauna-i-flora/fauna-i-flora.md)
 - [Els seguiments del CENMA](../fauna-i-flora/els-seguiments-del-cenma.md) — qui ho mesura i com.
+- [Els problemes d'Andorra](../../societat/vida-civica/els-problemes-dandorra.md) — què en pensa la població, del 2002 al 2016.
 - [L'aigua i la neu](./laigua-i-la-neu.md) — el 2050, Andorra pot perdre més de la meitat de la neu acumulada.

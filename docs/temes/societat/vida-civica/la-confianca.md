@@ -207,6 +207,7 @@ manera qualitativa.
 ## Related
 
 - [Vida cívica](./vida-civica.md) — la branca.
+- [Els problemes d'Andorra](./els-problemes-dandorra.md) — l'altra sèrie del CRES, del 2002 al 2016.
 - [Associacionisme](../associacionisme/associacionisme.md) — les entitats.
 - [La piràmide de prestigi](../immigracio/la-piramide-de-prestigi.md) — la confiança declarada i l'escala real.
 - [La societat segmentada](../immigracio/la-societat-segmentada.md) — qui participa i qui no.

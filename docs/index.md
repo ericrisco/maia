@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**314** documents · **94** fonts · **0** aptes com a model de llengua · **108** temes amb contingut.
+**315** documents · **95** fonts · **0** aptes com a model de llengua · **108** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -726,6 +726,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Els problemes d'Andorra](temes/societat/vida-civica/els-problemes-dandorra.md) | `temes/societat/vida-civica` | compilada | contemporania | no | `mico-percepcio-medi-ambient` |
 | [La confiança](temes/societat/vida-civica/la-confianca.md) | `temes/societat/vida-civica` | compilada | contemporania | no | `mico-batalla-valors-capital-social` |
 | [La vida cívica](temes/societat/vida-civica/vida-civica.md) | `temes/societat/vida-civica` | compilada | contemporania | no | `viquipedia-ca` |
 
@@ -920,6 +921,7 @@
 | [`mateu-zamora-reforma-reglament`](fonts/mateu-zamora-reforma-reglament.md) | Vicenç Mateu i Zamora · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mico-batalla-valors-capital-social`](fonts/mico-batalla-valors-capital-social.md) | Joan Micó i Ibáñez i Josepa Batalla i Salvadó · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mico-interculturalitat`](fonts/mico-interculturalitat.md) | Joan R. Micó i Ibàñez · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
+| [`mico-percepcio-medi-ambient`](fonts/mico-percepcio-medi-ambient.md) | Joan Micó i Ibáñez · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`molla-catala-andorra`](fonts/molla-catala-andorra.md) | Guillem Molla · Universitat de Girona · revista IANUA | publicació acadèmica en accés obert | pendent |
 | [`museus-itinerari-sergi-mas`](fonts/museus-itinerari-sergi-mas.md) | Govern d'Andorra · Ministeri de Cultura | drets reservats · contingut institucional públic | pendent |
 | [`obiols-salut-mental`](fonts/obiols-salut-mental.md) | Joan Obiols i Llandrich · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
