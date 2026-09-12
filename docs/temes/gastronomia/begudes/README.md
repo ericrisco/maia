@@ -28,8 +28,9 @@ Escriure aquí que «a Andorra es beu ratafia» perquè se'n beu a Catalunya ser
   **29a Diada Andorrana** sobre **la climatologia en els vins del celler
   Casa Auvinyà**, d'Esteve Tor i Armengol, enginyer de monts
   ([canvi climàtic](../../territori/clima-i-muntanya/el-canvi-climatic.md)).
-  **El celler i la viticultura d'alta muntanya andorrana mereixen fitxa pròpia
-  i encara no en tenen.**
+  ~~**El celler i la viticultura d'alta muntanya andorrana mereixen fitxa pròpia
+  i encara no en tenen.**~~ **TANCAT**: [el vi d'Andorra](./el-vi-dandorra.md).
+  **Aquesta branca ja no és buida del tot.**
 - La **Quaresma** ha deixat llegat al receptari
   ([rebosteria](../rebosteria/la-coca-massegada.md)); **pot haver-ne deixat a les
   begudes**. *(hipòtesi)*

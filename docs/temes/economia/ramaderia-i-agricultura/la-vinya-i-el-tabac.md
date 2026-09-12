@@ -113,6 +113,37 @@ contrari.
 | «Andorra no ha tingut mai vinya, és massa amunt» | «N'hi havia des de l'edat mitjana a les parròquies baixes» |
 | «El tabac és el conreu tradicional d'Andorra» | «El tabac és del segle XVIII i va desplaçar el que hi havia» |
 
+## Una altra font andorrana ho data mig segle més tard
+
+**I fa exactament l'associació que aquesta fitxa desactiva.** Cal deixar-ho
+escrit.
+
+**Esteve Tor**, del celler Casa Auvinyà, en una ponència del 2016
+([font](../../../fonts/tor-climatologia-casa-auvinya.md)):
+
+> «si des de l'any **903** a la zona d'Encorcers d'Andorra la Vella, l'any
+> **1207** a Auvinyà i **fins al 1800** se'n troben referències històriques de
+> l'existència a Andorra, tant per a la producció de vi com per a la seva
+> comercialització (**recordem que a final del 1800 arriba la fil·loxera, que
+> arrasa totes les vinyes d'Europa**)...»
+
+| | **Mas** | **Tor** |
+| --- | --- | --- |
+| Última vinya andorrana | **mitjan segle XVIII** | referències **fins al 1800** |
+| Causa | **el tabac** | no la dona |
+| Fil·loxera | **irrellevant**: la vinya ja no hi era | **l'esmenta tot seguit** |
+
+**Tor no afirma que la fil·loxera matés la vinya andorrana**, i aquesta fitxa no
+li ho atribueix: **posa el parèntesi just després**, i qui llegeixi de pressa
+farà el pont sol. **Això és la prova que la confusió és viva i que és andorrana,
+no importada.**
+
+**Mig segle de diferència entre dues fonts del corpus, totes dues andorranes.**
+**Buit registrat, prioritari:** **quina és l'última referència documental de
+vinya a Andorra i de quin any.** Fins que no es resolgui, aquesta fitxa **manté
+la tesi de Mas** —que és la que ve amb explicació i amb documentació de vinyes
+abandonades i vi importat— **i registra la de Tor al costat.**
+
 ## Buits registrats
 
 1. **Quan i com es legalitza** el conreu del tabac.
@@ -120,8 +151,10 @@ contrari.
 3. **Què deia el Consell** del tabac il·legal mentre ho era.
 4. Si **queda toponímia de vinya** — noms de lloc amb *vinya*, *tira*, *malhivern*.
    Vegeu [toponímia](../../territori/toponimia/toponimia-andorrana.md).
-5. El **retorn actual de la vinya** (celler de Casa Auvinyà), registrat a
-   [el canvi climàtic](../../territori/clima-i-muntanya/el-canvi-climatic.md).
+5. ~~El **retorn actual de la vinya** (celler de Casa Auvinyà), registrat a
+   [el canvi climàtic](../../territori/clima-i-muntanya/el-canvi-climatic.md).~~
+   **TANCAT**: [el vi d'Andorra](../../gastronomia/begudes/el-vi-dandorra.md),
+   amb les dates, la superfície i l'avançament de la verema.
 6. La **font primària** de Mas per a la documentació de mitjan XVIII.
 
 ## Related
@@ -130,4 +163,5 @@ contrari.
 - [El contraban](../../historia/contraban/contraban.md) — per què el tabac valia.
 - [L'agricultura de subsistència](./lagricultura-de-subsistencia.md) — el que hi havia abans.
 - [Begudes](../../gastronomia/begudes/README.md) — la branca que registrava el buit.
+- [El vi d'Andorra](../../gastronomia/begudes/el-vi-dandorra.md) — la vinya que hi torna a haver.
 - [El canvi climàtic](../../territori/clima-i-muntanya/el-canvi-climatic.md) — per què la vinya torna.

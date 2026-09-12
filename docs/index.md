@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**312** documents · **91** fonts · **0** aptes com a model de llengua · **107** temes amb contingut.
+**313** documents · **92** fonts · **0** aptes com a model de llengua · **108** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -236,6 +236,12 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [L'Efpem](temes/esports/formacio-esportiva/lefpem.md) | `temes/esports/formacio-esportiva` | compilada | contemporania | no | `frases-educadors-esportius` |
+
+## temes/gastronomia/begudes
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [El vi d'Andorra](temes/gastronomia/begudes/el-vi-dandorra.md) | `temes/gastronomia/begudes` | compilada | contemporania | no | `tor-climatologia-casa-auvinya` |
 
 ## temes/gastronomia/calendari-gastronomic
 
@@ -935,6 +941,7 @@
 | [`societat-andorrana-ciencies`](fonts/societat-andorrana-ciencies.md) | Societat Andorrana de Ciències (Andorra) | publicació acadèmica en accés obert | pendent |
 | [`tarrene-influencies-multiculturals`](fonts/tarrene-influencies-multiculturals.md) | Claudine Tarrene i Fabresse · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
 | [`toquec-ensenyament-frances`](fonts/toquec-ensenyament-frances.md) | Jean-Alain Toquec · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`tor-climatologia-casa-auvinya`](fonts/tor-climatologia-casa-auvinya.md) | Esteve Tor i Armengol · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`ubach-moviments-socials`](fonts/ubach-moviments-socials.md) | Gabriel Ubach i Valdivia · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`valero-escola-privada`](fonts/valero-escola-privada.md) | Fátima Valero i Alcaide · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`vela-consell-de-la-terra-1419`](fonts/vela-consell-de-la-terra-1419.md) | Susanna Vela i Palomares · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |

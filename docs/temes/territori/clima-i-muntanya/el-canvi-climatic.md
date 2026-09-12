@@ -144,14 +144,20 @@ publicació pròpia**.
   CRES ja tenia, el 2000, **una enquesta sobre els riscos naturals** entre les
   seves previsions immediates
   ([l'IEA](../../cultura/museus-i-arxius/linstitut-destudis-andorrans.md)).
-- **La vinya**: hi ha ponència sobre **el celler Casa Auvinyà** i la
-  climatologia dels seus vins — **cosa que respon, de retruc, la pregunta que
-  [begudes](../../gastronomia/begudes/README.md) deixava oberta: sí que hi ha
-  vinya a Andorra.**
+- ~~**La vinya**: hi ha ponència sobre **el celler Casa Auvinyà** i la
+  climatologia dels seus vins.~~ **TANCAT**:
+  [el vi d'Andorra](../../gastronomia/begudes/el-vi-dandorra.md). I el que en
+  surt obliga a matisar aquesta fitxa: **per a la viticultura d'altitud
+  l'escalfament és un avantatge**. La verema de Casa Auvinyà **s'ha avançat de
+  primers de novembre a la primera quinzena d'octubre entre el 2010 i el 2015**,
+  amb la **integral tèrmica eficaç un 2,5% amunt** des del 2005. **Les dues coses
+  són certes alhora**, i el corpus les diu totes dues: el mateix grau de més que
+  escurça la temporada d'esquí allarga el cicle vegetatiu del raïm.
 
 ## Related
 
 - [El clima](./el-clima.md)
+- [El vi d'Andorra](../../gastronomia/begudes/el-vi-dandorra.md) — el sector que hi guanya.
 - [Turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md)
 - [FHASA](../../economia/energia-i-serveis/fhasa.md) — d'on venen les sèries.
 - [Fauna i flora](../fauna-i-flora/fauna-i-flora.md)
