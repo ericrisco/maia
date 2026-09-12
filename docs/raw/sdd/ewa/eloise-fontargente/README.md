@@ -728,12 +728,30 @@ Cécile Schuhl, i la menció marginal registra el matrimoni amb Pierre Sylvain
 Dreyfus el 12/09/1927 i la seva mort a Belfort l'11/04/1968. El recensement de
 1911 la situa amb els pares i cinc germans al 5 faubourg de France.
 
-La identificació de la declarant de 1955 exigeix, però, una reserva nova i
-explícita: Yvonne Henriette tenia cinquanta-dos anys, mentre que l'acta 1066
-diu inequívocament `quarante ans`. Nom, ciutat i entorn familiar mantenen com a
-plausible que fos la cunyada d'André, però la diferència de dotze anys ja no
-permet invocar una «edat aproximada» com a concordança. Pot haver-hi un error
-material o una altra Yvonne Dreyfus; el parentiu continua sense prova directa.
+La declarant de 1955 es pot identificar ara amb confiança alta. La llista de
+membres de la Société belfortaine d'émulation publicada el 1947 registra
+`DREYFUS-SCHMIDT, 5 Quai Vauban, Belfort`, i una decisió constitucional
+reproduïda a l'Assemblea Nacional el 1968 identifica expressament el fill
+**Michel Dreyfus-Schmidt** al mateix domicili. La cadena formada pel matrimoni
+provat de Pierre i Yvonne, el cognom familiar al 5 quai Vauban abans de 1955,
+el fill al mateix domicili després de 1955 i la declarant `Yvonne Dreyfus` amb
+aquella adreça fa pràcticament segura la identitat de la cunyada d'André. La
+llista de 1947 no dona nom de pila, de manera que la prova continua sent
+convergent i no una declaració literal de parentiu.
+
+Yvonne Henriette tenia cinquanta-dos anys el 1955, mentre que l'acta 1066 diu
+inequívocament `quarante ans`. La discrepància de dotze anys s'ha de conservar
+visible, però les noves proves del domicili fan molt més probable un **error
+material en l'edat** que l'existència d'una altra Yvonne Dreyfus del mateix
+cercle familiar i al mateix domicili.
+
+La revisió dirigida del recensement de Belfort de 1936, `6 M 133`, que conté
+1.328 imatges, aporta un resultat negatiu delimitat: no s'ha localitzat `quai
+Vauban` com a via independent als blocs candidats. Aquests passen de République
+a Général Reiset, Émile Zola, rue de Cambrai, quartier Vauban i avenue Foch, i
+de quai Charles Vallet a quai du Magasin. Això suggereix una denominació o
+adscripció postal posterior, no l'absència de l'immoble ni una cerca nominal
+exhaustiva de totes les llars.
 
 Les Archives municipales de Belfort aporten també una font iconogràfica: la
 notice `2Z/35`, relacionada amb `7Fi/231`, descriu una fotografia d'identitat
