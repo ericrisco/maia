@@ -17,6 +17,7 @@ curl -sL "https://doi.org/10.2436/15.8060.<volum>.<article>" -o fitxer.pdf
 | --- | --- | --- | --- |
 | `dr12-2018-la-vida-teatral-a-andorra-1900-1970` | Debats de Recerca **12** | conferència del **19-3-2018**, publicat el **2020** | `10.2436/15.8060.21.4` |
 | `dr13-2019-esport-i-salut` | Debats de Recerca **13** | conferència del **28-5-2019**, publicat el **2021** | `10.2436/15.8060.24.8` |
+| `dr16-2025-la-neu-i-el-cicle-de-laigua` | Debats de Recerca **16** — *Aigua: desafiaments i oportunitats* | **2025** | `10.2436/15.8060.36.10` |
 
 ## Avisos
 
@@ -26,6 +27,9 @@ curl -sL "https://doi.org/10.2436/15.8060.<volum>.<article>" -o fitxer.pdf
 - **`dr13`** — **la conferència és de ciència de l'esport en general, no
   d'Andorra**. El corpus només n'ha retingut **el marc institucional** que
   apareix a la capçalera: seu, entitats organitzadores.
+- **`dr16`** — **és el document més recent del corpus (2025)** i el més
+  quantitatiu sobre l'aigua d'Andorra. **La bibliografia queda intercalada en
+  columna lateral** dins l'extracció: no s'ha de llegir com a text seguit.
 
 ## El que queda localitzat i no baixat
 

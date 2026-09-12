@@ -1,0 +1,473 @@
+AIGUA: DESAFIAMENTS I OPORTUNITATS - DEBATS DE RECERCA 16: 117-121 (2025)
+Societat Andorrana de Ciències, Andorra
+DOI: 10.2436/15.8060.36.10 ISBN: 978-99920-61-75-6
+
+Societat Andorrana de Ciències
+
+Marc Pons i Pons1,2
+1. La neu com a component vital del cicle hidrològic
+La neu representa un component essencial del cicle hidrològic
+en les zones muntanyoses, exercint un paper fonamental com
+a estoc natural d’aigua que es va alliberant gradualment a
+mesura que es fon. Les regions muntanyoses d’arreu del món,
+sovint anomenades torres d’aigua, proporcionen recursos
+hídrics vitals a més de la meitat de la humanitat (Immerzeel et
+al., 2020). La neu, juntament amb les glaceres, són
+característiques distintives d’aquestes regions, i cobreixen
+respectivament el 40 i el 2% de la superfície muntanyosa
+global (Wrzesien et al., 2019; Pfeffer et al., 2014).
+La importància hidrològica de la neu resideix principalment en
+dos aspectes. En primer lloc, actua com un emmagatzematge
+temporal d’aigua, retenint les precipitacions hivernals i
+alliberant-les durant la primavera i l’estiu, quan les
+temperatures augmenten. Aquest procés proporciona un
+efecte d’amortiment contra la variabilitat meteorològica,
+subministrant aigua durant els períodes més càlids i secs de
+l’any, quan la demanda d’aigua és més elevada. En segon lloc,
+la neu contribueix significativament a la recàrrega d’aigües
+subterrànies, amb estimacions que indiquen que entre el 40 i
+el 80% de la recàrrega d’aigües subterrànies en les regions
+muntanyoses prové del desglaç de la neu (Jasechko et al.,
+2014; Lucianetti et al., 2020).
+2. La importància de la neu a Andorra i els Pirineus
+Als Pirineus, i especialment a Andorra, la neu constitueix un
+recurs hídric primordial. Estudis recents com el del projecte
+POCTEFA PIRAGUA-PIREAU demostren que el règim
+hidrològic d’Andorra és típic d’una zona de muntanya
+d’influència mediterrània amb règim nival, que presenta
+cabals alts a la primavera i baixos a l’estiu, amb una lleugera
+aportació procedent de les precipitacions a la tardor
+(Travesset et al., 2021).
+Segons les dades de l’Estudi per a l’elaboració anyal del
+recurs hídric d’Andorra (Govern d’Andorra, 2021), el recurs
+hídric mitjà anual disponible a escala nacional es quantifica en
+262 hm³/anuals. La variabilitat d’aquest recurs en l’any més
+sec es tradueix en una disminució del 45,7%, mentre que l’any
+més humit s’incrementa el recurs en un 77,2%. Aquesta
+variabilitat natural es veurà agreujada pels efectes del canvi
+Aigua: desafiaments i oportunitats
+
+Doctor en Ciència i
+Tecnologia
+per
+a
+la
+Sostenibilitat per la Universitat
+Politècnica de Catalunya,
+investigador a Computational
+Ecology Group i Universitat
+de Saskatchewan, Canadà
+
+Marc Pons i Pons
+
+El paper de les
+glaceres i la
+neu en el cicle
+de l’aigua de
+les zones de
+muntanya
+1- Coldwater Laboratory, Centre
+for Hydrology, University of
+Saskatchewan, Canmore, Alberta,
+Canada.
+2- Computational Ecology Group,
+Canmore, Alberta, Canada
+
+117
+
+Bibliografia
+CARROLL, R. W., DEEMS, J. S.,
+NISWONGER, R., SCHUMER, R., &
+WILLIAMS, K. H. (2019). The importance
+of interflow to groundwater recharge
+in a snowmelt-dominated headwater
+basin. Geophysical Research Letters,
+46, 5899-5908.
+COCHAND, M., CHRISTE, P., ORNSTEIN, P.,
+& HUNKELER, D. (2019). Groundwater
+storage in high Alpine catchments and
+its contribution to streamflow. Water
+Resources Research, 55, 2613-2630.
+DOCHARTAIGH, B. É., MACDONALD, A. M.,
+BLACK, A. R., EVEREST, J., WILSON, P.,
+DARLING, W. G., & RAINES, M. (2019).
+Groundwater–glacier
+meltwater
+interaction in proglacial aquifers.
+Hydrology and Earth System Sciences,
+23, 4527-4539.
+EARMAN, S., CAMPBELL, A. R., PHILLIPS, F.
+M., & NEWMAN, B. D. (2006). Isotopic
+exchange between snow and
+atmospheric water vapor: estimation
+of the snowmelt component of
+groundwater recharge in the
+southwestern United States. Journal of
+Geophysical Research: Atmospheres,
+111, D09302.
+EVANS, S. G., GE, S., & LIANG, S. (2015).
+Analysis of groundwater flow in
+mountainous, headwater catchments
+with permafrost. Water Resources
+Research, 51, 9564-9576.
+FARINOTTI, D., HUSS, M., FÜRST, J. J.,
+LANDMANN, J., MACHGUTH, H.,
+MAUSSION, F., & PANDIT, A. (2019). A
+consensus estimate for the ice
+thickness distribution of all glaciers on
+Earth. Nature Geoscience, 12, 168173.
+GASCOIN, S., GRIZONNET, M., BOUCHET,
+M., SALGUES, G., & HAGOLLE, O. (2019).
+Theia Snow collection: high-resolution
+operational snow cover maps from
+Sentinel-2 and Landsat-8 data. Earth
+System Science Data, 11, 493-514.
+GOVERN D’ANDORRA. (2018). Pla sectorial
+d’infraestructures energètiques d’Andorra. Ministeri de Medi Ambient i
+Sostenibilitat.
+GOVERN D’ANDORRA. (2019). Estudi per
+a l’elaboració anyal del recurs hídric
+d’Andorra. Any 2019. Ministeri de
+Medi Ambient i Sostenibilitat.
+GOVERN D’ANDORRA. (2020). Estudi per
+a l’elaboració anyal del balanç hídric
+del Principat d’Andorra. Any 2019.
+Ministeri de Medi Ambient i
+Sostenibilitat.
+
+118
+
+climàtic i especialment pels canvis futurs en la quantitat i
+estacionalitat de la coberta de neu del país (Pons et al., 2015).
+L’anàlisi realitzat a Andorra mostra que la recàrrega d’aigües
+subterrànies procedent de la neu és especialment
+significativa. El balanç hídric positiu de 678,46 mm, amb una
+precipitació mitjana de 988,35 mm i una evapotranspiració de
+309,88 mm, demostra la important contribució nival al sistema
+hidrològic. Això és especialment rellevant a les conques de
+més altitud i més septentrionals del país (figura 1).
+El Principat d’Andorra, amb una superfície de 468 km² i una
+altitud mitjana elevada (1.996 metres), és particularment
+sensible als canvis en el règim de precipitacions nivoses.
+Segons les modelitzacions del projecte PIRAGUA, s’espera
+que en l’escenari de canvi climàtic per a l’any 2050 es
+produeixi un canvi significatiu en l’hidrograma, amb una
+disminució del cabal anual concentrada especialment entre
+finals de primavera i estiu. Es preveu una reducció del volum
+d’aigua en forma de neu (snow water equivalent) de fins a un
+52,86%, que pot afectar especialment les conques del fons de
+vall i les meridionals (Travesset et al., 2021).
+Les projeccions climàtiques mostren que l’increment de
+temperatura en el futur produirà un augment de la proporció
+aigua/neu, un avançament del desglaç i, en definitiva, un
+augment de l’escorrentia superficial als mesos d’hivern.
+Durant aquests mesos augmentarà el cabal en detriment del
+cabal a finals de primavera i estiu, que serà significativament
+menor. Això tindrà importants implicacions tant per a la
+disponibilitat d’aigua per als diversos usos humans com per al
+manteniment dels cabals ambientals necessaris per a la
+conservació de les funcions ecosistèmiques dels rius.
+Actualment, els usos consumptius d’aigua a Andorra són
+d’aproximadament 21,63 hm³ a l’any, distribuïts entre el
+sector domèstic (72,29%), turístic (11,48%), agrícola (9,31%),
+de producció de neu (6,67%) i ramader (0,22%). Els usos no
+consumptius, principalment destinats a la producció
+hidroelèctrica, suposen uns 75 hm³ a l’any. La modelització
+feta demostra que, tot i que en termes generals Andorra
+disposarà de suficient recurs hídric per satisfer les demandes
+d’aigua previstes dels principals sectors destinats a ús humà
+fins a l’any 2050, en ocasions i localitzacions puntuals, les
+elevades demandes en diferents sectors poden entrar en
+competència i provocar un conflicte de prioritats entre usos,
+especialment per mantenir les funcions ecosistèmiques dels
+rius.
+16ns Debats de Recerca
+
+Figura 1. Volum d’aigua en forma
+de neu (snow water equivalent) a
+Andorra el 26 de març del 2023.
+Font: Andorra Recerca + Innovació
+
+3. Connectivitat entre la neu i les aigües subterrànies
+Estudis recents han posat en relleu la importància de la
+connectivitat entre la criosfera (incloent la neu) i les aigües
+subterrànies, identificant-la com un enllaç poc conegut del
+cicle hidrològic de muntanya (Van Tiel et al., 2024). La
+recàrrega d’aigües subterrànies procedent de la neu i les
+glaceres és sovint preferencial, és a dir, una major proporció
+de l’aigua provinent del desglaç de la neu tendeix a infiltrar-se
+al subsòl en comparació amb la pluja. Aquest fenomen
+s’explica per la curta durada i el gran volum del desglaç de la
+neu, juntament amb les baixes taxes d’evaporació durant el
+període de desglaç, que afavoreixen la percolació cap a capes
+més profundes i una recàrrega d’aigües subterrànies
+consistent (Carroll et al., 2019).
+En un context de canvi climàtic, en què s’espera que la
+coberta de neu disminueixi tant en durada com en
+profunditat, la nostra comprensió d’aquesta connectivitat
+esdevé crucial. La reducció de la neu podria alterar
+significativament els patrons de recàrrega d’aigües
+subterrànies, la qual cosa afectaria no només el volum d’aigua
+disponible sinó també la temporalitat del seu alliberament als
+rius i rierols.
+4. Escales espacials i temporals de la connectivitat criosfera
+- aigües subterrànies
+Un aspecte particularment rellevant és l’anàlisi de les diferents
+escales espacials i temporals en què opera la connectivitat
+Aigua: desafiaments i oportunitats
+
+GOVERN D’ANDORRA. (2021). Estudi per
+a l’elaboració anyal de l’inventari i
+quantificació de la despesa hídrica per
+usos del Principat d’Andorra. Any
+2019. Ministeri de Medi Ambient i
+Sostenibilitat.
+HAMMOND, J. C., HARPOLD, A. A., WEISS,
+S., & KAMPF, S. K. (2019). Partitioning
+snowmelt and rainfall in the critical
+zone: effects of climate type and soil
+properties. Hydrology and Earth
+System Sciences, 23, 3553-3570.
+HOOD, J. L., & HAYASHI, M. (2015).
+Characterization of snowmelt flux and
+groundwater storage in an alpine
+headwater
+basin.
+Journal
+of
+Hydrology, 521, 482-497.
+HUGONNET, R., MCNABB, R., BERTHIER, E.,
+MENOUNOS, B., NUTH, C., GIROD, L., &
+KÄÄB, A. (2021). Accelerated global
+glacier mass loss in the early twentyfirst century. Nature, 592, 726-731.
+IMMERZEEL, W. W., LUTZ, A. F., ANDRADE,
+M., BAHL, A., BIEMANS, H., BOLCH, T., &
+BAILLIE, J. E. M. (2020). Importance and
+vulnerability of the world’s water
+towers. Nature, 577, 364-369.
+JASECHKO, S., BIRKS, S. J., GLEESON, T.,
+WADA, Y., FAWCETT, P. J., SHARP, Z. D., &
+WELKER, J. M. (2014). The pronounced
+seasonality of global groundwater
+recharge. Water Resources Research,
+50, 8845-8867.
+LILJEDAHL, A., GÄDEKE, A., O’NEEL, S.,
+GATESMAN, T., & DOUGLAS, T. (2017).
+Glacierized headwater streams as
+aquifer recharge corridors, subarctic
+Alaska. Geophysical Research Letters,
+44, 6876-6885.
+LUCIANETTI, G., PENNA, D., MASTRORILLO,
+L., & MAZZA, R. (2020). The role of
+snowmelt on the spatio-temporal
+variability of spring recharge in a
+dolomitic mountain group, Italian Alps.
+Water, 12, 2256.
+MACKAY, J. D., BARRAND, N. E., HANNAH,
+D. M., KRAUSE, S., JACKSON, C. R.,
+EVEREST, J., & BLACK, A. (2020).
+Proglacial groundwater storage
+dynamics under climate change and
+
+119
+
+glacier
+retreat.
+Hydrological
+Processes, 34, 5456-5473.
+MARKOVICH, K. H., MANNING, A. H.,
+CONDON, L. E., & MCINTOSH, J. C.
+(2019). Mountain-block recharge: a
+review of current understanding.
+Water Resources Research, 55, 82788304.
+MILNER, A. M., KHAMIS, K., BATTIN, T. J.,
+BRITTAIN, J. E., BARRAND, N. E., FÜREDER,
+L., & BROWN, L. E. (2017). Glacier
+shrinkage driving global changes in
+downstream systems. Proceedings of
+the National Academy of Sciences,
+114, 9770-9778.
+MÜLLER, T., LANE, S., & SCHAEFLI, B. (2022).
+Towards a hydrogeomorphological
+understanding
+of
+proglacial
+catchments: an assessment of
+groundwater storage and release in an
+Alpine catchment. Hydrology and
+Earth System Sciences, 26, 6029-6054.
+PFEFFER, W. T., ARENDT, A. A., BLISS, A.,
+BOLCH, T., COGLEY, J. G., GARDNER, A. S.,
+& RANDOLPH CONSORTIUM. (2014). The
+Randolph Glacier Inventory: a globally
+complete inventory of glaciers. Journal
+of Glaciology, 60, 537-552.
+PONS, M., LÓPEZ-MORENO, J. I., ROSASCASALS, M., & JOVER, E. (2015). The
+vulnerability of Pyrenean ski resorts to
+climate-induced changes in the
+snowpack. Climatic Change, 131(4),
+591–605.
+https://doi.org/10.1007/s10584-0151400-8
+ROGGER, M., CHIRICO, G. B., HAUSMANN,
+H., KRAINER, K., BRÜCKL, E., STADLER, P., &
+BLÖSCHL, G. (2017). Impact of mountain
+permafrost on flow path and runoff
+response in a high alpine catchment.
+Water Resources Research, 53, 12881308.
+SCHILLING, O. S., GERBER, C.,
+PARTINGTON, D. J., PURTSCHERT, R.,
+BRENNWALD, M. S., KIPFER, R., &
+BRUNNER, P. (2021). Quantifying
+groundwater recharge dynamics and
+unsaturated zone processes in snowdominated catchments via on-site
+dissolved gas analysis. Water
+Resources
+Research,
+57,
+e2020WR028479.
+SOMERS, L. D., GORDON, R. P., MCKENZIE,
+J. M., LAUTZ, L. K., WIGMORE, O., GLOSE,
+A. M., & CONDOM, T. (2016).
+Quantifying
+groundwater–surface
+water interactions in a proglacial
+valley, Cordillera Blanca, Peru.
+
+120
+
+entre la criosfera i les aigües subterrànies. Comprendre
+aquestes escales és fonamental per avaluar correctament la
+importància i la vulnerabilitat dels recursos hídrics de
+muntanya (Van Tiel et al., 2024).
+A escala petita, com és el cas d’Andorra (conques <10 km²),
+els dipòsits superficials no consolidats com morrenes, tarteres
+i al·luvions són els principals responsables de
+l’emmagatzematge i alliberament de l’aigua de fusió. Els
+temps de residència en aquestes vies de flux superficial
+generalment són de l’ordre de dies a mesos.
+A mesura que augmenta la mida de la conca (10-100 km²),
+canvien les propietats, tipus i vies de flux dels aqüífers
+dominants. Els dipòsits al·luvials i el llit rocós fracturat guanyen
+importància en comparació amb les tarteres i les morrenes. Els
+aqüífers al·luvials en zones muntanyoses poden tenir temps de
+residència de mesos a uns pocs anys, mentre que el llit rocós
+pot presentar un ampli rang de temps de residència, des de
+diversos mesos fins a molts anys.
+A escales més grans (conques de 100-10.000 km²), la
+recàrrega del bloc muntanyós i la recàrrega del front
+muntanyós poden proporcionar recursos hídrics importants a
+zones situades lluny aigües avall (per exemple, a 10-100 km).
+Aquestes escales més àmplies sovint suposen un repte per a
+la comprensió i la modelització hidrològica, ja que els models
+a gran escala generalment no poden resoldre característiques
+petites, com morrenes i tarters, que poden ser crucials per
+retardar l’aigua de fusió.
+5. Conclusions i implicacions per a la gestió dels recursos
+hídrics
+La neu i les glaceres representen molt més que simples
+elements paisatgístics o turístics a les zones muntanyoses;
+constitueixen components essencials del cicle hidrològic, que
+afecten directament la disponibilitat d’aigua, tant superficial
+com subterrània. Ignorar la connectivitat entre la criosfera i les
+aigües subterrànies pot tenir implicacions crucials per a la
+nostra comprensió actual del cicle hidrològic de muntanya i,
+en particular, per a l’avaluació de canvis futurs deguts al canvi
+climàtic.
+Des de la perspectiva de la criosfera i el cabal fluvial, les
+contribucions d’aigua de fusió podrien ser subestimades si
+només s’observen les dinàmiques de cabal de resposta ràpida.
+La connectivitat entre l’aigua de fusió i les aigües subterrànies
+
+16ns Debats de Recerca
+
+retarda el subministrament d’aigua de fusió, estenent
+potencialment el paper de l’aigua de fusió en les regions
+aigües avall en l’espai i el temps. Especialment durant
+sequeres, és fonamental entendre on i quan s’emmagatzema
+i s’allibera l’aigua per a una gestió eficaç dels recursos hídrics
+(Van Tiel et al., 2024).
+En un context de canvi climàtic i de creixent demanda d’aigua,
+la comprensió dels processos que connecten la criosfera amb
+les aigües subterrànies i la temporalitat de la descàrrega de
+l’aigua superficial esdevé fonamental per a una gestió
+sostenible dels recursos hídrics. A mesura que les glaceres
+retrocedeixen i la coberta de neu disminueix tant en quantitat
+com en temporalitat, el paper relatiu de les aigües
+subterrànies de muntanya s’espera que augmenti. No obstant
+això, la recàrrega reduïda d’aigua de fusió pot conduir a una
+disminució general de la recàrrega total, un canvi en la
+temporalitat dels processos de recàrrega i interaccions
+alterades entre les aigües subterrànies i les superficials.
+D’altra banda, el retrocés de les glaceres, els estocs hivernals
+de neu i el desglaç del permafrost poden canviar la capacitat
+d’emmagatzematge del subsòl i, per tant, la connectivitat
+entre les aigües superficials i les subterrànies. Una comprensió
+integral d’aquests canvis en el futur subministrament d’aigua
+és crítica per gestionar eficaçment els recursos hídrics per als
+sistemes socioecològics cada vegada més dependents de les
+aigües subterrànies en les zones de muntanya així com en
+regions aigües avall.
+Això és especialment cert en regions com Andorra i els
+Pirineus, on la neu ha modelat no només el paisatge sinó
+també l’economia i la forma de vida dels seus habitants, i on
+la gestió adaptativa dels recursos hídrics serà clau per afrontar
+els reptes del canvi climàtic en les properes dècades.
+
+Aigua: desafiaments i oportunitats
+
+Hydrological Processes, 30, 29152929.
+SOMERS, L. D., MCKENZIE, J. M., MARK,
+B. G., LAGOS, P., NG, G. H. C., WICKERT,
+A. D., & SILVA, Y. (2019). Groundwater
+buffers decreasing glacier melt in an
+Andean watershed—but not forever.
+Geophysical Research Letters, 46,
+13016-13026.
+THORNTON, J. M., MARIETHOZ, G., &
+BRUNNER, P. (2018). A 3D geological
+model of a structurally complex Alpine
+region as a basis for interdisciplinary
+research. Scientific Data, 5, 180238.
+TRAVESSET-BARO, O., DOMÈNECH, M.,
+PESADO, C., & PONS, M. (2021).
+«Evolución de los usos de los recursos
+hídricos y posibles tensiones bajo
+escenarios de cambio climático en
+Andorra».
+Proyecto
+PIRAGUA
+(EFA210/16), Fondo Europeo de
+Desarrollo Regional, Andorra Recerca
++ Innovació.
+VAN TIEL, M., AUBRY-WAKE, C., SOMERS,
+L., ANDERMANN, C., AVANZI, F., BARAER,
+M., & YAPIYEV, V. (2024). Cryosphere–
+groundwater connectivity is a missing
+link in the mountain water cycle.
+Nature Water.
+https://doi.org/10.1038/s44221-02400277-8
+VAN TIEL, M., VAN LOON, A. F., SEIBERT, J.,
+& STAHL, K. (2021). Hydrological
+response to warm and dry weather: do
+glaciers compensate? Hydrology and
+Earth System Sciences, 25, 3245-3265.
+VIVIROLI, D., KUMMU, M., MEYBECK, M.,
+KALLIO, M., & WADA, Y. (2020).
+Increasing dependence of lowland
+populations on mountain water
+resources. Nature Sustainability, 3,
+917-928.
+WALVOORD, M. A., & KURYLYK, B. L.
+(2016). Hydrologic impacts of thawing
+permafrost—a review. Vadose Zone
+Journal, 15, vzj2016.01.0010.
+WRZESIEN, M. L., PAVELSKY, T. M.,
+DURAND, M. T., DOZIER, J., & LUNDQUIST,
+J. D. (2019). Characterizing biases in
+mountain snow accumulation from
+global data sets. Water Resources
+Research, 55, 9873-9891.
+
+121
+
+

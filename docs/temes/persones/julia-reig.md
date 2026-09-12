@@ -70,10 +70,18 @@ El nom **Fundació Julià Reig** apareix com a **coeditora** d'*Olivier Codina,
 De fer et de laine. Les vallées andorranes du XVIe au XIXe siècle*, amb la
 Universitat de Perpinyà, **2005**.
 
-**Hi ha una fundació amb el seu nom que finança recerca sobre Andorra.** El
-corpus **no en sap res més** i ho registra com a via oberta: **una fundació que
-publica històrico-econòmia andorrana és, potencialment, una font i un
-interlocutor**.
+**Hi ha una fundació amb el seu nom que finança recerca sobre Andorra.**
+
+**I segueix activa el 2019**: la **Fundació Julià Reig** coorganitza, amb
+l'escola de formació d'esports de muntanya, una conferència de la SAC al
+**Centre de Tecnificació Esportiva d'Ordino**
+([font](../../fonts/sac-esport-i-salut.md)).
+
+**Dues aparicions separades per catorze anys i dos camps diferents** —història
+econòmica el 2005, esport i salut el 2019—: **no és una fundació d'un sol
+tema**. El corpus ho registra com a **via oberta i confirmada**: una fundació
+andorrana que finança recerca i divulgació és, potencialment, **font i
+interlocutor alhora**.
 
 ## El que el corpus no sap
 

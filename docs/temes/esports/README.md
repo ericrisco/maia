@@ -43,3 +43,4 @@ Gairebé tot. El corpus **no té res** sobre:
 
 - [Els Jocs dels Petits Estats d'Europa](./competicio/els-jocs-dels-petits-estats.md) — on Andorra competeix amb els seus iguals.
 - [Andorra com a microestat](../institucions/petits-estats/andorra-com-a-microestat.md)
+- [L'aigua i la neu](../territori/clima-i-muntanya/laigua-i-la-neu.md) — què costa, en aigua, que hi hagi neu.

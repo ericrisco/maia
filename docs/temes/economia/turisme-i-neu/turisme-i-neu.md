@@ -58,3 +58,4 @@ anuals que són font primària i no s'han consultat. **Buit registrat.**
 - [L'esquí escolar](../../societat/educacio/lesqui-escolar.md) — la neu com a assignatura obligatòria.
 - [L'Efpem](../../esports/formacio-esportiva/lefpem.md) — quants monitors forma el país, i de què.
 - [Esports](../../esports/README.md)
+- [L'aigua i la neu](../../territori/clima-i-muntanya/laigua-i-la-neu.md) — el 6,67% de l'aigua consumida del país va a fabricar neu.

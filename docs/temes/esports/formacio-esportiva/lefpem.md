@@ -187,3 +187,27 @@ coneixement»**. **Potser ja n'hi havia un, i no era a la universitat.**
 - [Índex legislatiu en educació](../../societat/educacio/index-legislatiu-en-educacio.md)
 - [El mapa escolar del 2000](../../societat/educacio/el-mapa-escolar-del-2000.md)
 - [Turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md)
+
+## Vint anys després, el nom ha canviat
+
+**El 2019 la mateixa institució apareix com a «Escola Professional de Formació
+d'Esports de Muntanya»**, coorganitzant una conferència de ciència de l'esport
+al **Centre de Tecnificació Esportiva d'Ordino**, junt amb **la Fundació Julià
+Reig** ([font](../../../fonts/sac-esport-i-salut.md)).
+
+**El corpus no sap si és un canvi de nom, una reorganització o una lectura
+lliure del nom oficial**, i **no ho resol**: la font és una capçalera de
+programa, no un document constitutiu. **Buit registrat.**
+
+**El que sí que aporta són dues institucions noves:**
+
+- **El Centre de Tecnificació Esportiva d'Ordino** — **cap font del corpus el
+  descrivia**. Que hi hagi un centre de tecnificació esportiva a **Ordino**, i
+  no a les parròquies baixes, val la pena mirar-s'ho.
+- **La Fundació Julià Reig** — vegeu
+  [Julià Reig i Ribó](../../persones/julia-reig.md).
+
+## Related
+
+- [Esports](../README.md)
+- [El Centre de Tecnificació i la Fundació Julià Reig](../../persones/julia-reig.md)

@@ -155,3 +155,4 @@ publicació pròpia**.
 - [Turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md)
 - [FHASA](../../economia/energia-i-serveis/fhasa.md) — d'on venen les sèries.
 - [Fauna i flora](../fauna-i-flora/fauna-i-flora.md)
+- [L'aigua i la neu](./laigua-i-la-neu.md) — el 2050, Andorra pot perdre més de la meitat de la neu acumulada.
