@@ -1,0 +1,41 @@
+Fold3 public viewer transcription excerpt
+Captured: 2026-09-12
+
+URL:
+https://www.fold3.com/image/301485756/post-war-prisoner-list-a-c-g-page-182-us-wwii-captured-german-records-1942-1945?terms=modeste%2Ccarrera
+
+Viewer metadata:
+- Title: Post-War Prisoner List (A, C-G) - Page 182
+- Location: Dachau
+- Record type: Camp Records - Prisoner Lists
+- Record description: Post-War Prisoner List (A, C-G)
+- Roll name: 0141
+- Publication number: A3355
+- Content source / partner: The National Archives / NARA
+- NARA catalog id: 596972
+- NARA catalog title: Lists and Registers of German Concentration Camp
+  Inmates, compiled 1946-1958, documenting the period 1942-1945
+- Record group: 242
+- Fold3 image object: 301485756
+
+Relevant OCR lines as displayed by the viewer (automatic OCR, visibly noisy):
+
+  Csrrera2o121o.' 'St7 titce1741S9i: :.' ; ' ttag2oi44,
+
+  Ifadeste atlC: Marcel x r. Pyrenees. SelhsP ;129744nlli.. ,
+
+The viewer also exposes a named annotation, “Modeste Carrera”, on this row.
+The automatic transcription is not reliable enough to replace the image. Its
+recognisable tokens nevertheless align with the derivative Morse/Landé row:
+Carrera, 20/12/10, St Marcel, 74159, 20/6/44, Modeste, Kr. Pyrenees,
+Sch. Span., and 29/7/44 n. Bu.
+
+Access note:
+The page, metadata, OCR and annotation were available without authentication.
+Opening the image triggered a prompt to register or sign in. After dismissing
+the prompt, OpenSeadragon attempted the following image endpoint and aborted:
+
+https://img.fold3.com/img/reference/IMAGE/301485756?height=400&width=400
+
+No account was created and no sign-in was attempted. A direct unauthenticated
+request to that endpoint returned HTTP 403, so no facsimile image is stored.

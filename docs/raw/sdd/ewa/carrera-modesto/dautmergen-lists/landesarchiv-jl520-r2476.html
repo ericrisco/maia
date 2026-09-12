@@ -1,0 +1,941 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<title>Landesarchiv Baden-Württemberg, Abt. Staatsarchiv Ludwigsburg - Findbuch JL 520: Sicherungs- und Schutzverfilmung: Archivalien des Staatsarchivs Ludwigsburg auf Rollfilm und Mikrofiche - Strukturansicht</title>
+<meta name="author" content="Dr. Thomas Fricke">
+<meta name="organization" content="Landesarchiv Baden-Württemberg">
+<script src="../js/jquery.min.js"></script>
+<script src="../js/jquery-ui.min.js"></script>
+<script src="../js/basis.js" type="text/javascript" language="JavaScript1.5" charset=utf-8></script>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<script src = "js/olf.js" language = "javascript" TYPE = "text/javascript"></script>	
+<link rel="stylesheet" href="../style/basis.css" type="text/css">
+<link rel="stylesheet" href="../style/struktur.css" type="text/css">
+
+<script language="JavaScript" type="text/javascript">
+<!--
+
+
+// Enter abfangen - Suchen
+
+function TasteGedrueckt (Ereignis) {
+
+	if (!Ereignis) {
+
+		Ereignis = window.event;
+		
+	}
+	
+	if (Ereignis.which == 13 || Ereignis.keyCode == 13) {
+
+		suchen();
+		
+	}
+
+}
+
+document.onkeydown = TasteGedrueckt;
+
+function suchen(bestand) {
+
+	if (document.suchmenue.suche.value) {
+		
+		if (document.suchformular.suche_eingrenzen) {
+			
+			var a = document.suchmenue.suche_eingrenzen;
+			
+			for (var i = 0; i < a.length; ++i) {
+				
+				if (document.suchmenue.suche_eingrenzen[i].checked == true) {
+					
+					document.suchformular.suche_eingrenzen.value = document.suchmenue.suche_eingrenzen[i].value;
+					
+				}
+				
+			}
+			
+		}
+		
+		setRequest("setze_session_var.php?name=suchbegriff_olf" + bestand + "&wert=" + document.suchmenue.suche.value);
+		
+		document.suchformular.suche.value = document.suchmenue.suche.value;	
+		document.suchformular.submit();	
+		
+	}
+
+}
+
+function erweitertesuche_anwaehlen () {
+
+	for (i=0; i< document.suchmenue.suche_eingrenzen.length; i++ ) {
+
+		if (document.suchmenue.suche_eingrenzen[i].checked == true) {
+
+			document.formular_erweitertesuche.ausgangspunkt_formularaufruf_ebene.value = document.suchmenue.suche_eingrenzen[i].value;
+
+		}
+
+	}
+	
+	document.formular_erweitertesuche.submit();
+
+}
+
+// ----------- Ajax --------
+
+var request = false;
+
+// Request senden
+function setRequest(url) {
+	// Request erzeugen
+	if (window.XMLHttpRequest) {
+		request = new XMLHttpRequest(); // Mozilla, Safari, Opera
+	} else if (window.ActiveXObject) {
+		try {
+			request = new ActiveXObject('Msxml2.XMLHTTP'); // IE 5
+		} catch (e) {
+			try {
+				request = new ActiveXObject('Microsoft.XMLHTTP'); // IE 6
+			} catch (e) {}
+		}
+	}
+
+	// überprüfen, ob Request erzeugt wurde
+	if (!request) {
+		alert("Kann keine XMLHTTP-Instanz erzeugen");
+		return false;
+	} else {
+		// var url = "ajax.php";
+		// Request öffnen
+		request.open('get', url, true);
+		// Request senden
+		request.send(null);
+		// Request auswerten
+		request.onreadystatechange = interpretRequest;
+	}
+}
+
+// Request auswerten
+function interpretRequest() {
+	switch (request.readyState) {
+		// wenn der readyState 4 und der request.status 200 ist, dann ist alles korrekt gelaufen
+	case 4:
+		if (request.status != 200) {
+			// alert("Der Request wurde abgeschlossen, ist aber nicht OK\nFehler:"+request.status);
+		} else {
+			var content = request.responseText;
+			// den Inhalt des Requests in das <div> schreiben
+			// document.getElementById('content').innerHTML = content;
+		}
+		break;
+	default:
+		break;
+	}
+}
+
+
+function pruefeAuswahlsuchbereich() {
+
+	var bereiche = document.suchmenue.suche_eingrenzen;
+
+	var kuerzel = new Array();
+	var bezeichnungen = new Array();
+
+	kuerzel[0] = "archiv_";
+	kuerzel[1] = "olb_";
+	kuerzel[2] = "olf_";
+	kuerzel[3] = "olfzweig_";
+	kuerzel[4] = "olbzweig_";
+	
+	bezeichnungen[0] = "dieses Archiv";
+	bezeichnungen[1] = "diese Beständeübersicht";
+	bezeichnungen[2] = "dieses Findbuch";
+	bezeichnungen[3] = "gewählte Gliederungsebene des Findbuchs";
+	bezeichnungen[4] = "gewählte Gliederungsebene der Beständeübersicht";
+
+	for (var i = 0; i < bereiche.length; ++i) {
+		
+		if (bereiche[i].checked == true) {
+			
+			for (var x = 0; x < kuerzel.length; ++x) {
+				
+				if (bereiche[i].value.indexOf(kuerzel[x]) === 0) {
+					
+					return "<b>Eingestellter Suchbereich:</b><br>" + bezeichnungen[x];
+					
+				}
+				
+			}
+			
+			return "<b>Eingestellter Suchbereich:</b><br>Landesarchiv insgesamt";
+			
+		} 
+		
+	}
+
+}
+
+ 
+
+//-->
+</script>
+
+</head>
+<body text="#000000" bgcolor="#FFFFFF" link="#FF0000" alink="#FF0000" vlink="#FF0000" id="body" onload="scrollen();timeoutHinweistext();">
+
+<script type="text/javascript" src="../js/wz_tooltip.js"></script>
+
+<div id="fenster"><iframe name="druckansicht" src="" width="100%" height="100%" scrolling=yes frameborder="no" id="fenster_iframe"></iframe><div id="fenster_schliessen"><a href="javascript:wechselschalter_iframe('fenster', '')"><img src="../image/fenster_schliessen.gif" width="31" height="31" border="0"></a></div></div>
+
+
+<div id="_kopf"><header>
+
+<!-- Logo --><div id="logo"><a href="https://www2.landesarchiv-bw.de/ofs21/"><img src="../image/logos_2.jpg" height=92 width=326 border=0 alt="Logo"></a></div><div id="menue_klein_rechtsoben"><a href="https://www.landesarchiv-bw.de" target="homepage">Website des Landesarchivs</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;<a href="https://www.landesarchiv-bw.de/de/service/impressum" target="internet" rel="noopener">Impressum</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;<a href="https://www.landesarchiv-bw.de/de/service/datenschutz" target="datenschutz"  onmouseover="Tip('<p>Es gilt die <a href=\'https://www.landesarchiv-bw.de/datenschutz\' target=\'datenschutz\'><b>Datenschutzerklärung</b></a> des Landesarchivs Baden-Württemberg.</p>',TITLE, '&nbsp;&nbsp;Datenschutz', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 500, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" onmouseout="UnTip()" >Datenschutz</a></div><div id="linie_horizontal"></div><div id="titelei_struktur" title="Id-Bestand: 19241 - Scope-Id: 3875"><div id="haupttitel_struktur">Findbuch JL 520<img src="../image/viertelkreis.gif" alt="symbol" height="14" width="16"></div>
+<div id="hauptuntertitel_struktur" >Sicherungs- und Schutzverfilmung: Archivalien des Staatsarchivs Ludwigsburg auf ...</div></div>
+	
+	</header></div>
+	
+	<!-- Ende Kopf -->
+	
+	<!-------------------- Suche - Hauptmenue ----------------------->
+<!-- -------------------------- Suche ------------------------ -->
+
+<form action="../suche/ergebnis1.php" name="suchformular" method="post" target="_parent">
+	
+	<input type="hidden" name="suche" value="">
+	
+	<input type="hidden" name="suchMaschine" value="lucene">
+	<input type="hidden" name="joker" value="zeichenfolge">
+	<input type="hidden" name="logik" value="und">
+	<input type="hidden" name="sortierung" value="archivort asc, klassifi_bestand asc, bereich asc, klassifi asc">
+	<input type="hidden" name="trefferausgabe" value="30">
+	<input type="hidden" name="bestaendeSpalte[]" value="bestaende.bestellsign bestaende.titel bestaende.inhalt_bew bestaende.scope_id bestaende.id bestaende.klassifi bestaende.lagerort">
+	<input type="hidden" name="findbuchSpalte[]" value="findbuch.bestellsign findbuch.titel findbuch.entint findbuch.scope_id findbuch.id findbuch.klassifi">
+	<input type=hidden name="suche_eingrenzen" value="">
+	<input type=hidden name="sucheAusgangspunkt" value="olf_strukturansicht">
+	<input type=hidden name="ausgangsurl" value="../olf/struktur.php?bestand=19241&klassi=001.003.001.00101.%&anzeigeKlassi=001.003.001"></form><form action="../suche/erweitertesuche.php" name="formular_erweitertesuche" method="post" target="_parent">
+	<input type=hidden name="ausgangspunkt_formularaufruf" value="olf_strukturansicht">
+	<input type=hidden name="ausgangspunkt_formularaufruf_ebene" value="">
+	<input type=hidden name="ausgangsurl_formularaufruf" value="../olf/struktur.php?bestand=19241&klassi=001.003.001.00101.%&anzeigeKlassi=001.003.001"></form><aside><div id="menue_rechtsoben_suche">
+
+	<div id="hauptmenue_button"><a href="javascript:zeige()"><img src="../image/menue.gif" alt="Symbol" title="Menü" height="27" width="30"></a></div>
+	
+	<div id="bez_menue"><a href="javascript:zeige()" class="link_rot">Menü</a></div>
+
+	<form name="suchmenue" method="POST" onsubmit="return false">
+	
+	<div id="suche_hintergrund" onmouseover="if(document.suchmenue.suche.value.length<8)document.getElementById('kopf_suchfeld_hilfe_icon').style.display='inline';pruefeAuswahlsuchbereich();" onmouseout="document.getElementById('kopf_suchfeld_hilfe_icon').style.display='none'"><input type="Text" name="suche" value="Kontextsuche"  onClick="entferneHinweistext('Kontextsuche');" id="kontextsuche">
+	
+	<div id="kopf_suchfeld_hilfe_icon"  onmouseover="Tip('<b>Kontextsuche</b><p>Verwenden Sie Anführungszeichen, um ein Wort, eine Wortgruppe oder eine Signatur in genau der angegebenen Form zu suchen.</p><p>Suchbegriffe werden mit \'und\' verknüpft.</p><p>Zwischen Groß- und Kleinschreibung wird nicht unterschieden.</p>'+pruefeAuswahlsuchbereich(), WIDTH, 250, PADDING, 15, BGCOLOR, 'white', BORDERCOLOR, '#cccccc')" onmouseout="UnTip()" ><img src="../image/hilfe_icon.gif" alt="Hilfe Icon" title="Hilfe" border="0" height="21" width="24"></div>
+
+	<a href="javascript:suchen('19241');"><img src="../image/lupe.gif" alt="lupensymbol" title="Suche absenden" height=33 width=36></a></div>
+	
+	<div id="suche_optionen"><a href="javascript:wechselschalter2('kopf_suchbereich','hidden');">Suchbereich wählen</a></div>
+	
+	</div></aside> <div id="kopf_suchbereich" >
+	<div id="kopf_suchbereich_titel">Suchbereich</div>
+
+<div id="kopf_suchbereich_auswahl"><div id="kopf_suchbereich_hierarchie_zeile"><input type="Radio" name="suche_eingrenzen" value="" onclick="javascript:setRequest('setze_session_var.php?name=suche_eingrenzung19241&wert=alles')" >Landesarchiv insgesamt</div>
+	<div id="kopf_suchbereich_hierarchie_zeile"><img src="../image/hierarchie.gif" width=15 height=9 border=0 style="margin-left:10px;"><input type="Radio" name="suche_eingrenzen" value="archiv_2" onclick="javascript:setRequest('setze_session_var.php?name=suche_eingrenzung19241&wert=archiv_2')" >Staatsarchiv Ludwigsburg</div>
+
+<div id="kopf_suchbereich_hierarchie_zeile"><img src="../image/hierarchie.gif" width=15 height=9 border=0 style="margin-left:35px;"><input type="Radio" name="suche_eingrenzen" value="olf_2.09.002.005" onclick="javascript:setRequest('setze_session_var.php?name=suche_eingrenzung19241&wert=olf_2.09.002.005')"  checked>dieses Findbuch</div><div id="kopf_suchbereich_hierarchie_zeile"><img src="../image/hierarchie.gif" width=15 height=9 border=0 style="margin-left:62px;"><input type="Radio" name="suche_eingrenzen" value="olfzweig_2.09.002.005x001.003.001" onclick="javascript:setRequest('setze_session_var.php?name=suche_eingrenzung19241&wert=olfzweig_2.09.002.005x001.003.001')" >gewählte Gliederungsebene </div></div>
+
+	<div id="kopf_suchbereich_links">
+	
+	<table cellpadding=0 cellspacing=0 border=0><tr><td width=8><img src="../image/pfeil_vor.gif" width=10 height=10 border=0></td><td><a href="javascript:erweitertesuche_anwaehlen();" class="kopf_menue">Weitere Suchoptionen</a></td></tr><tr><td width=8><img src="../image/pfeil_vor.gif" width=10 height=10 border=0></td><td><a href="../suche/signatursuche.php?sign_archiv=2&id_bestand=19241" class="kopf_menue">Signatursuche</a></td></tr></table>
+	
+	</div>
+	
+	<div id="kopf_schliessen"><a href="javascript:wechselschalter2('kopf_suchbereich','hidden');" title="Hilfefenster schliessen"><img src="../image/schliessen.gif" width=16 height=16 border=0></a></div>
+		
+	</div></form>
+
+<nav><div id="hauptmenue"><table cellspacing=0 cellpadding=0>
+		
+		<tr><th style="background-color:#eeeeee;">Dieses Findbuch</th><th>Übergeordnet</th><th style="background-color:#eeeeee;">Infos</th><th style="border-right:0px;">Persönlich</th></tr>
+		<tr><td style="background-color:#eeeeee;"><ul><a href="../olf/startbild.php?bestand=19241"><li>Einstiegseite</li></a><a href="../olf/einfueh.php?bestand=19241"><li>Einführung</li></a><a href="../olf/struktur.php?bestand=19241"><li>Strukturansicht</li></a><a href="bildexplorer.php?bestand=19241"><li>Bildexplorer</li></a><a href="../suche/signatursuche.php?archiv=2&id_bestand=19241&quereinstieg=1"><li>Signatursuche</li></a><a href="../olf/suche.php?modus=expert&bestand=19241"><li>Expertensuche</li></a><a href="../olf/bearbeiter.php?bestand=19241"><li>Bearbeiter</li></a><a href="javascript:Tip('<iframe src=\'../include/permalink_findbuch.php?f=2-3875\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink_findbuch.php?f=2-3875\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;"><li>Permalink</li></a><a href="../olb/struktur.php?archiv=2&sprungId=19241&sprungStufe=B7&letztesLimit=suchen"><li>Bestand in der Beständeübersicht</li></a></ul></td><td><ul><a href="../index.php"><li>Online-Findmittelsystem - Home</li></a>
+<a href="../suche/index.php?archiv=2"><li>Einfache Suche</li></a>
+<a href="../suche/erweitertesuche.php?archiv=2"><li>Erweiterte Suche</li></a>
+<a href="../suche/signatursuche.php?archiv=2"><li>Signatursuche</li></a>
+<a href="../suche/findbuecher_mit_digitalisaten.php?archiv=2"><li>Digitalisate suchen</li></a>
+<a href="../suche/stichwortlistensuche.php?archiv=2"><li>Stichwortlisten</li></a>
+<a href="../suche/quellensammlungen.php"><li>Quellensammlungen und Inventare</li></a>
+<a href="../suche/findbuecher_dimag.php"><li>Findbücher mit digitalem Archivgut</li></a></ul></td>
+		
+		<td style="background-color:#eeeeee;"><ul><a href="https://www.landesarchiv-bw.de/de/recherche/wie-nutzen-sie-das-landesarchiv%253F" target="homepage"><li>Informationen zur Nutzung (Website)</li></a>
+<a href="../suche/suchanleitung.php"><li>Suchanleitung</li></a>
+<a href="https://www.landesarchiv-bw.de/de/recherche/rechercheratgeber" target="homepage"><li>Recherche-Ratgeber (Website)</li></a>
+<a href="../bestellung/infos.php"><li>Informationen zur Bestellung</li></a>
+<a href="javascript:wechselschalter_iframe('fenster', '../glossar/index.php')" title="Archivische Fachbegriffe"><li>Archivische Fachbegriffe und Archivalienkunde</li></a>
+<a href="https://www.landesarchiv-bw.de/de/landesarchiv/standorte/staatsarchiv-ludwigsburg" target="homepage"><li>Anfahrt und Öffnungszeiten (Website)</li></a>
+<a href="https://www.landesarchiv-bw.de/de/recherche/rechtsgrundlagen---nutzungsbedingungen/auf-einen-blick" target="homepage"><li>Nutzungsbedingungen (Website)</li></a></ul>
+		</td>
+		
+		<td style="border-right:0px;"><ul><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;ohneEintrag=1')"><li>Lesezeichen</li></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?extern=1&ausgangspunkt=neutral')"><li>Bestellkorb</li></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&setzeBestellungOlb=19241&extern=1&ausgangspunkt=olf')"><li>Freibestellmaske</li></a><a href="javascript:wechselschalter_iframe('fenster', '../benutzerkonto/benutzerkonto_login.php')"><li>Nutzungskonto</li></a><a href="javascript:wechselschalter_iframe('fenster', '../benutzerkonto/lesesaalanmeldung_login.php')"><li>Lesesaalanmeldung</li></a><a href="javascript:wechselschalter_iframe('fenster', '../benutzerkonto/benutzererfassung.php')"><li>Neuanmeldung</li></a><a href="https://www.landesarchiv-bw.de/de/landesarchiv/standorte/staatsarchiv-ludwigsburg" target="internet" rel="noopener"><li>Kontakt</li></a></ul></td></tr></table>
+		
+		<div id="schliessen"><a href="javascript:verberge(200);"><img src="../image/verbergen.gif" width="25" height="25" border="0"></a></div>
+		
+		</div></nav><aside><div id="toolbar"><img src="../image/toolbar_oben.jpg" width=35 height=10 border=0><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?extern=1&ausgangspunkt=neutral')" title="Bestellkorb einsehen"><p id="warenkorbeintraege">0</p><img src="../image/toolbar_bestellkorb_voll.jpg" width=32 height=35 border=0 id="toolbar_img_bestellkorb"></a><a href="https://www.landesarchiv-bw.de/de/landesarchiv/standorte/staatsarchiv-ludwigsburg" target="homepage" title="Kontakt"><img src="../image/toolbar_email.jpg" width=32 height=28 border=0></a><a href="https://www.landesarchiv-bw.de/de/recherche/wie-nutzen-sie-das-landesarchiv%253F" target="homepage" title="Informationen zur Nutzung"><img src="../image/toolbar_info.jpg" width=32 height=28 border=0></a><img src="../image/toolbar_unten.jpg" width=35 height=10 border=0></div></aside><div id="koerper"><main><h1>Strukturansicht</h1>
+
+	<div id="baumtitel">Gliederung</div>
+		
+	<!-- Baumstruktur -->
+<nav>
+<div id="baum">
+<div id="baumInhalt"><table>
+			<tr><td valign="top"><img src="../image/ordner_grau.gif" width=12 height=12 border=0 alt="Ordnersymbol"></td>
+			<td><a href="../olb/struktur.php?archiv=2&sprungId=19241&sprungStufe=B7&letztesLimit=suchen">Bestand in der Beständeübersicht</a></td>
+			</tr></table><table>
+			<tr><td valign="top"><img src="../image/ordner.gif" width=12 height=12 border=0 alt="Ordnersymbol"></td>
+			<td><a href="../olf/einfueh.php?bestand=19241">Einführung</a></td>
+			</tr></table><table><tr><td valign="top" nowrap><a href="struktur.php?bestand=19241&amp;klassi=&amp;anzeigeKlassi=001.003.001"><img src="../image/open.gif" width="12" height="12" border="0" alt="Ordnersymbol" title="Ordner zuklappen"></a></td><td  class="standort"><a href="struktur.php?bestand=19241&amp;klassi=001.003.001.00101.%&amp;anzeigeKlassi=001&amp;zeigeD0=1" >Rollfilme (Bestellsignatur R)</a></td></tr></table>
+
+<table><tr><td width="22" height="12"></td><td valign="top" nowrap><a href="struktur.php?bestand=19241&amp;klassi=001.001&amp;anzeigeKlassi=001.003.001"><img src="../image/plus.gif" width="12" height="12" border="0" alt="Ordnersymbol" title="Ordner aufklappen"></a></td><td><a href="struktur.php?bestand=19241&amp;klassi=001.003.001.00101.%&amp;anzeigeKlassi=001.001&amp;zeigeD0=1" >B-Serie</a></td></tr></table>
+
+<table><tr><td width="22" height="12"></td><td valign="top" nowrap><a href="struktur.php?bestand=19241&amp;klassi=001.002&amp;anzeigeKlassi=001.003.001"><img src="../image/plus.gif" width="12" height="12" border="0" alt="Ordnersymbol" title="Ordner aufklappen"></a></td><td><a href="struktur.php?bestand=19241&amp;klassi=001.003.001.00101.%&amp;anzeigeKlassi=001.002&amp;zeigeD0=1" >E-Serie</a></td></tr></table>
+
+<table><tr><td width="22" height="12"></td><td valign="top" nowrap><a href="struktur.php?bestand=19241&amp;klassi=001&amp;anzeigeKlassi=001.003.001"><img src="../image/open.gif" width="12" height="12" border="0" alt="Ordnersymbol" title="Ordner zuklappen"></a></td><td  class="standort"><a href="struktur.php?bestand=19241&amp;klassi=001.003.001.00101.%&amp;anzeigeKlassi=001.003&amp;zeigeD0=1" >EL-Serie</a></td></tr></table>
+
+<table><tr><td width="44" height="12"></td><td valign="top" nowrap><img src="../image/standort.gif" width="12" height="12" border="0" alt="Ordnersymbol"></td><td class="standort"><span >EL 317 III (Staatsanwaltschaft beim Landgericht Stuttgart: Ermittlungssachen zu NS-Gewaltverbrechen, Schwurgerichtssachen)</span></td></tr></table>
+
+<table><tr><td width="22" height="12"></td><td valign="top" nowrap><a href="struktur.php?bestand=19241&amp;klassi=001.004&amp;anzeigeKlassi=001.003.001"><img src="../image/plus.gif" width="12" height="12" border="0" alt="Ordnersymbol" title="Ordner aufklappen"></a></td><td><a href="struktur.php?bestand=19241&amp;klassi=001.003.001.00101.%&amp;anzeigeKlassi=001.004&amp;zeigeD0=1" >F-Serie</a></td></tr></table>
+
+<table><tr><td width="22" height="12"></td><td valign="top" nowrap><a href="struktur.php?bestand=19241&amp;klassi=001.005&amp;anzeigeKlassi=001.003.001"><img src="../image/plus.gif" width="12" height="12" border="0" alt="Ordnersymbol" title="Ordner aufklappen"></a></td><td><a href="struktur.php?bestand=19241&amp;klassi=001.003.001.00101.%&amp;anzeigeKlassi=001.005&amp;zeigeD0=1" >FL-Serie</a></td></tr></table>
+
+<table><tr><td width="22" height="12"></td><td valign="top" nowrap><a href="struktur.php?bestand=19241&amp;klassi=001.006&amp;anzeigeKlassi=001.003.001"><img src="../image/plus.gif" width="12" height="12" border="0" alt="Ordnersymbol" title="Ordner aufklappen"></a></td><td><a href="struktur.php?bestand=19241&amp;klassi=001.003.001.00101.%&amp;anzeigeKlassi=001.006&amp;zeigeD0=1" >K-Serie</a></td></tr></table>
+
+<table><tr><td width="22" height="12"></td><td valign="top" nowrap><a href="struktur.php?bestand=19241&amp;klassi=001.007&amp;anzeigeKlassi=001.003.001"><img src="../image/plus.gif" width="12" height="12" border="0" alt="Ordnersymbol" title="Ordner aufklappen"></a></td><td><a href="struktur.php?bestand=19241&amp;klassi=001.003.001.00101.%&amp;anzeigeKlassi=001.007&amp;zeigeD0=1" >PL-Serie</a></td></tr></table>
+
+<table><tr><td valign="top" nowrap><img src="../image/ordner.gif" width="12" height="12" border="0"  alt="Ordnersymbol"></td><td><a href="struktur.php?bestand=19241&amp;klassi=001.003.001.00101.%&amp;anzeigeKlassi=002" >Mikrofiches (Bestellsignatur F)</a></td></tr></table>
+
+</div></div></nav>
+	
+	<!-- Hauptfenster -->
+	
+	<div id="haupt">
+
+<div id="haupt_titel">Inhalt</div>
+
+<div id="fuehrung">
+
+<table><tr>
+<td>Einträge&nbsp;&nbsp;101 - 150 von 161&nbsp;&nbsp;<a href="struktur.php?bestand=19241&amp;klassi=001.003.001.00101.%&amp;anzeigeKlassi=001.003.001&amp;letztesLimit=50&amp;baumSuche=&amp;standort="><img src="../image/_pfeil_gross_links.gif" width="16" height="21" border="0" title="Zurück"  alt="Pfeil nach links" align="absmiddle"></a>&nbsp;<a href="struktur.php?bestand=19241&amp;klassi=001.003.001.00101.%&amp;anzeigeKlassi=001.003.001&amp;letztesLimit=150&amp;baumSuche=&amp;standort="><img src="../image/_pfeil_gross_rechts.gif" width="16" height="21" border="0" title="Weiter" alt="Pfeil nach rechts" align="absmiddle"></a>&nbsp;&nbsp;<a href="struktur.php?bestand=19241&amp;klassi=001.003.001.00101.%&amp;anzeigeKlassi=001.003.001&amp;letztesLimit=unbegrenzt&amp;baumSuche=&amp;standort=">Alle</a>
+
+</td></tr>
+</table>
+
+</div>
+
+<! ------------------ Titelaufnahmen --------------------- -->
+<div id="hauptinhalt">
+<table class="haupt_tabelle"><tr><td height="8" colspan="2"><a id="hauptMarke"></a></td></tr>
+
+<tr>
+<td title="Id: 7362755 - Klassifikation: 001.003.001.00101 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898345 - AID: 2-2898345 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362755')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362755&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b  class="rot">JL 520 R 2476</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1308-1317 (Film 17LBS0409000384)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2004&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362755&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898345\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898345\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362756 - Klassifikation: 001.003.001.00102 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898346 - AID: 2-2898346 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362756')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362756&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2477</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1318-1327 (Film 17LBS0409000385)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2004&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362756&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898346\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898346\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362757 - Klassifikation: 001.003.001.00103 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898347 - AID: 2-2898347 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362757')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362757&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2478</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1327-1334 (Film 17LBS0409000386)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2004&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362757&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898347\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898347\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362758 - Klassifikation: 001.003.001.00104 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898348 - AID: 2-2898348 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362758')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362758&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2479</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1334-1345 (Film 17LBS0409000387)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2004&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362758&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898348\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898348\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362759 - Klassifikation: 001.003.001.00105 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898349 - AID: 2-2898349 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362759')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362759&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2480</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1345-1363 (Film 17LBS0409000388)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2004&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362759&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898349\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898349\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362760 - Klassifikation: 001.003.001.00106 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898350 - AID: 2-2898350 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362760')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362760&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2481</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1363-1372 (Film 17LBS0409000389)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2004&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362760&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898350\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898350\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362761 - Klassifikation: 001.003.001.00107 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898351 - AID: 2-2898351 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362761')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362761&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2482</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1373-1384 (Film 17LBS0409000390)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2004&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362761&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898351\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898351\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362762 - Klassifikation: 001.003.001.00108 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898352 - AID: 2-2898352 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362762')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362762&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2483</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1385-1397 (Film 17LBS0409000391)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2004&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362762&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898352\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898352\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362763 - Klassifikation: 001.003.001.00109 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898353 - AID: 2-2898353 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362763')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362763&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2484</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1397-1414 (Film 17LBS0409000392)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2004&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362763&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898353\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898353\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362764 - Klassifikation: 001.003.001.00110 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898354 - AID: 2-2898354 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362764')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362764&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2485</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1414-1428 (Film 17LBS0409000393)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2004&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362764&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898354\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898354\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362765 - Klassifikation: 001.003.001.00111 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898355 - AID: 2-2898355 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362765')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362765&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2486</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1428-1451 (Film 17LBS0409000394)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2004&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362765&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898355\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898355\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362766 - Klassifikation: 001.003.001.00112 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898356 - AID: 2-2898356 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362766')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362766&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2487</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1451-1470 (Film 17LBS0409000395)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2004&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362766&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898356\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898356\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362767 - Klassifikation: 001.003.001.00113 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898357 - AID: 2-2898357 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362767')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362767&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2488</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1470-1493 (Film 17LBS0409000396)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2004&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362767&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898357\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898357\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362768 - Klassifikation: 001.003.001.00114 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898358 - AID: 2-2898358 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362768')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362768&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2489</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1494-1503 (Film 17LBS0509000397)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362768&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898358\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898358\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362769 - Klassifikation: 001.003.001.00115 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898359 - AID: 2-2898359 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362769')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362769&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2490</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1503-1516 (Film 17LBS0509000398)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362769&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898359\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898359\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362770 - Klassifikation: 001.003.001.00116 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898360 - AID: 2-2898360 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362770')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362770&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2491</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1516-1524 (Film 17LBS0509000399)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362770&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898360\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898360\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362771 - Klassifikation: 001.003.001.00117 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898361 - AID: 2-2898361 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362771')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362771&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2492</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1525-1535 (Film 17LBS0509000400)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362771&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898361\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898361\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362772 - Klassifikation: 001.003.001.00118 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898362 - AID: 2-2898362 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362772')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362772&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2493</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1535-1543 (Film 17LBS0509000401)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362772&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898362\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898362\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362773 - Klassifikation: 001.003.001.00119 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898363 - AID: 2-2898363 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362773')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362773&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2494</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1543-1561 (Film 17LBS0509000402)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362773&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898363\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898363\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362774 - Klassifikation: 001.003.001.00120 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898364 - AID: 2-2898364 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362774')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362774&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2495</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1561-1577 (Film 17LBS0509000403)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362774&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898364\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898364\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362775 - Klassifikation: 001.003.001.00121 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898365 - AID: 2-2898365 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362775')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362775&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2496</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1577-1588 (Film 17LBS0509000404)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362775&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898365\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898365\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362776 - Klassifikation: 001.003.001.00122 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898366 - AID: 2-2898366 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362776')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362776&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2497</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1588-1606 (Film 17LBS0509000405)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362776&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898366\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898366\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362777 - Klassifikation: 001.003.001.00123 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898367 - AID: 2-2898367 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362777')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362777&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2498</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1606-1630 (Film 17LBS0509000406)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362777&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898367\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898367\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362778 - Klassifikation: 001.003.001.00124 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898368 - AID: 2-2898368 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362778')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362778&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2499</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1630-1641 (Film 17LBS0509000407)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362778&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898368\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898368\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362779 - Klassifikation: 001.003.001.00125 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898369 - AID: 2-2898369 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362779')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362779&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2500</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1641-1673 (Film 17LBS0509000408)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362779&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898369\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898369\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362780 - Klassifikation: 001.003.001.00126 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898370 - AID: 2-2898370 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362780')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362780&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2501</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1673-1693 (Film 17LBS0509000409)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362780&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898370\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898370\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362781 - Klassifikation: 001.003.001.00127 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898371 - AID: 2-2898371 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362781')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362781&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2502</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1693-1709 (Film 17LBS0509000410)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362781&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898371\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898371\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362782 - Klassifikation: 001.003.001.00128 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898372 - AID: 2-2898372 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362782')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362782&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2503</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1709-1730 (Film 17LBS0509000411)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362782&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898372\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898372\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362783 - Klassifikation: 001.003.001.00129 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898373 - AID: 2-2898373 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362783')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362783&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2504</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1731-1741 (Film 17LBS0509000412)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362783&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898373\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898373\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362784 - Klassifikation: 001.003.001.00130 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898374 - AID: 2-2898374 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362784')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362784&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2505</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1741-1749/1 (Film 17LBS0509000413)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362784&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898374\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898374\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362785 - Klassifikation: 001.003.001.00131 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898375 - AID: 2-2898375 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362785')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362785&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2506</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1749/1-1762 (Film 17LBS0509000414)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362785&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898375\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898375\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362786 - Klassifikation: 001.003.001.00132 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898376 - AID: 2-2898376 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362786')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362786&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2507</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1762-1771 (Film 17LBS0509000415)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362786&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898376\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898376\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362787 - Klassifikation: 001.003.001.00133 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898377 - AID: 2-2898377 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362787')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362787&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2508</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1771-1785 (Film 17LBS0509000416)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362787&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898377\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898377\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362788 - Klassifikation: 001.003.001.00134 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898378 - AID: 2-2898378 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362788')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362788&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2509</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1785-1800 (Film 17LBS0509000417)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362788&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898378\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898378\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362789 - Klassifikation: 001.003.001.00135 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898379 - AID: 2-2898379 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362789')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362789&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2510</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1801-1812 (Film 17LBS0509000418)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362789&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898379\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898379\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362790 - Klassifikation: 001.003.001.00136 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898380 - AID: 2-2898380 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362790')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362790&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2511</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1812-1826 (Film 17LBS0509000419)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362790&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898380\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898380\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362791 - Klassifikation: 001.003.001.00137 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898381 - AID: 2-2898381 - Aktualisiert am 25. Juli 2014, 13 Uhr 4" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362791')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362791&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2512</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1826-1841 (Film 17LBS0509000420)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362791&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898381\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898381\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362792 - Klassifikation: 001.003.001.00138 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898382 - AID: 2-2898382 - Aktualisiert am 25. Juli 2014, 13 Uhr 5" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362792')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362792&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2513</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1841-1854 (Film 17LBS0509000421)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362792&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898382\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898382\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362793 - Klassifikation: 001.003.001.00139 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898383 - AID: 2-2898383 - Aktualisiert am 25. Juli 2014, 13 Uhr 5" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362793')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362793&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2514</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1854-1872 (Film 17LBS0509000422)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362793&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898383\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898383\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362794 - Klassifikation: 001.003.001.00140 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898384 - AID: 2-2898384 - Aktualisiert am 25. Juli 2014, 13 Uhr 5" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362794')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362794&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2515</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1872-1886 (Film 17LBS0509000423)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362794&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898384\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898384\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362795 - Klassifikation: 001.003.001.00141 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898385 - AID: 2-2898385 - Aktualisiert am 25. Juli 2014, 13 Uhr 5" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362795')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362795&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2516</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1886-1900 (Film 17LBS0509000424)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362795&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898385\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898385\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362796 - Klassifikation: 001.003.001.00142 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898386 - AID: 2-2898386 - Aktualisiert am 25. Juli 2014, 13 Uhr 5" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362796')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362796&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2517</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1901-1914 (Film 17LBS0509000425)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362796&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898386\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898386\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362797 - Klassifikation: 001.003.001.00143 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898387 - AID: 2-2898387 - Aktualisiert am 25. Juli 2014, 13 Uhr 5" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362797')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362797&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2518</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1914-1928 (Film 17LBS0509000426)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362797&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898387\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898387\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362798 - Klassifikation: 001.003.001.00144 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898388 - AID: 2-2898388 - Aktualisiert am 25. Juli 2014, 13 Uhr 5" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362798')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362798&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2519</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1928-1940 (Film 17LBS0509000427)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362798&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898388\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898388\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362799 - Klassifikation: 001.003.001.00145 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898389 - AID: 2-2898389 - Aktualisiert am 25. Juli 2014, 13 Uhr 5" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362799')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362799&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2520</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1940-1955 (Film 17LBS0509000428)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362799&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898389\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898389\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362800 - Klassifikation: 001.003.001.00146 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898390 - AID: 2-2898390 - Aktualisiert am 25. Juli 2014, 13 Uhr 5" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362800')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362800&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2521</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1955-1975 (Film 17LBS0509000429)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362800&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898390\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898390\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362801 - Klassifikation: 001.003.001.00147 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898391 - AID: 2-2898391 - Aktualisiert am 25. Juli 2014, 13 Uhr 5" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362801')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362801&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2522</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1975-1989 (Film 17LBS0509000430)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362801&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898391\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898391\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362802 - Klassifikation: 001.003.001.00148 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898392 - AID: 2-2898392 - Aktualisiert am 25. Juli 2014, 13 Uhr 5" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362802')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362802&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2523</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 1989-2003 (Film 17LBS0509000431)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362802&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898392\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898392\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362803 - Klassifikation: 001.003.001.00149 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898393 - AID: 2-2898393 - Aktualisiert am 25. Juli 2014, 13 Uhr 5" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362803')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362803&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2524</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 2003-2018 (Film 17LBS0509000432)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362803&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898393\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898393\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr><tr><td height="8" colspan="2"></td></tr>
+
+<tr>
+<td title="Id: 7362804 - Klassifikation: 001.003.001.00150 - Stufe: F0 - Formulartyp: Sachakten - Scope-Id: 2898394 - AID: 2-2898394 - Aktualisiert am 25. Juli 2014, 13 Uhr 5" class="icons"><a href="javascript:wechselschalter_iframe('fenster', '../lesezeichen/index.php?extern=1&amp;setzeOlfLesezeichen=7362804')"><img src="../image/lesezeichen.gif" width="19" height="19" style="margin-right:5px;" border="0"  alt="Symbol - Lesezeichen setzen" title="Lesezeichen setzen"></a><a href="javascript:wechselschalter_iframe('fenster', '../bestellung/index.php?bestand=19241&amp;setzeBestellung=7362804&amp;hinzufuegen=1&extern=1');"><img src="../image/bestellkorb.gif" width=20 height=19 border=0 alt="Bestellsymbol" style="margin-left:1px;" title="Archivalien in den Bestellkorb legen"></a></td><td width=""></td><td style="padding-bottom:20px"><article><table width="100%" border=0><tr><td><b >JL 520 R 2525</b></td><td class="stufenbezeichnung" style="text-align:right;">Archivalieneinheit</td></tr><tr>
+<td colspan="2" style="padding-bottom:6px"><b>EL 317 III Bü 2018-2035 (Film 17LBS0509000433)</b>&nbsp;</td>
+</tr>
+<tr>
+<td >1 Rollfilm</td>
+<td style="text-align:right;">2005&nbsp;</td>
+</tr>
+<tr><td colspan="2" style="padding-top:5px;padding-bottom:2px;"><a href="javascript:wechselschalter_iframe('fenster', 'druckansicht.php?id_titlaufn=7362804&amp;bestand=19241&syssuche=&logik=&suchstring_zshalten=')" class="link_details"><i>Details <b>...</b></i></a></td></tr><tr><td colspan="2" class="titlaufn_links"><ul><li><a href="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898394\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3)" title="Permalink - Bitte klicken und kopieren" oncontextmenu="javascript:Tip('<iframe src=\'../include/permalink.php?f=2-2898394\' width=410 height=40 name=\'permalink\'scrolling=\'no\' marginheight=5 marginwidth=5 frameborder=0></iframe>',TITLE, '&nbsp;&nbsp;Permalink', TITLEFONTCOLOR, 'white', TITLEALIGN, 'left', TITLEPADDING, 5, TITLEBGCOLOR, '#444444', CLOSEBTN, true, CLOSEBTNCOLORS, ['#cccccc', 'black', 'white', '#cccccc'], STICKY, true, WIDTH, 410, PADDING, 10, BGCOLOR, 'white', BORDERCOLOR, '#cccccc', SHADOW, true, SHADOWCOLOR, '#f2f2f2', SHADOWWIDTH, 3);return false;">Permalink</a></li></ul></td></tr>
+
+</table></article></td></tr></table><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></div>
+</div></div></main></div><!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-PBXNX7KL7W"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-PBXNX7KL7W');
+	</script><div id="cookie_hinweis"><table><tr><td>Um unsere Webseite für Sie optimal gestalten zu können, verwenden wir Cookies. Durch die weitere Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu. Weitere Informationen zu Cookies erhalten Sie in unserer <a href="https://www.landesarchiv-bw.de/datenschutz">Datenschutzerklärung.</a></td><td width=20%><a href="javascript:Ebaus('cookie_hinweis');"><img src="../image/datenschutz_ok.gif" width=48 height=32 border=0></a></td></tr></table></div></body>
+</html>

@@ -50,6 +50,12 @@ autoritzen a fusionar persones per semblança nominal.
   811 arribades documentades el 12/04, amb matrícules Dachau 156050–156860,
   d'un altre transport de 400 arribat el 13/04. La pàgina s'ha renderitzat i
   inspeccionat visualment com `sofer-transport-list-page-162.png`.
+- `landesarchiv-jl520-r2476.html`: permalink del catàleg del Landesarchiv
+  Baden-Württemberg per al microfilm de seguretat **`JL 520 R 2476`**, titulat
+  `EL 317 III Bü 1308–1317 (Film 17LBS0409000384)`. La unitat buscada `Bü
+  1312` cau dins aquest rotlle, que el catàleg permet encarregar però no mostra
+  com a digitalització en línia. Permalink:
+  <https://www2.landesarchiv-bw.de/ofs21/plink.php?f=2-2898345>.
 
 ## Lectura cautelar
 
