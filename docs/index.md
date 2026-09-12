@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**249** documents · **62** fonts · **0** aptes com a model de llengua · **102** temes amb contingut.
+**250** documents · **63** fonts · **0** aptes com a model de llengua · **102** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -320,6 +320,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [De lo que pot i no pot](temes/historia/manual-digest/de-lo-que-pot-i-no-pot.md) | `temes/historia/manual-digest` | compilada | contemporania | no | `massa-de-lo-que-pot-i-no-pot` |
 | [El Manual Digest](temes/historia/manual-digest/manual-digest.md) | `temes/historia/manual-digest` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/historia/origens
@@ -806,6 +807,7 @@
 | [`martinez-benazet-professions-liberals`](fonts/martinez-benazet-professions-liberals.md) | Joan Martínez i Benazet · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mas-educacio-artistica`](fonts/mas-educacio-artistica.md) | Roger Mas i Canalis · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mas-pagesos-i-artesans`](fonts/mas-pagesos-i-artesans.md) | David Mas i Canalís · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`massa-de-lo-que-pot-i-no-pot`](fonts/massa-de-lo-que-pot-i-no-pot.md) | Joan Massa i Sarrado · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mateu-petits-estats-especificitat`](fonts/mateu-petits-estats-especificitat.md) | Vicenç Mateu i Zamora · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mateu-pi-consellera-general`](fonts/mateu-pi-consellera-general.md) | Meritxell Mateu i Pi · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`molla-catala-andorra`](fonts/molla-catala-andorra.md) | Guillem Molla · Universitat de Girona · revista IANUA | publicació acadèmica en accés obert | pendent |

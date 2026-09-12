@@ -67,3 +67,4 @@ transcriure'n les màximes una a una amb la seva referència. **Buit registrat.*
 - [El Consell General](../../institucions/consell-general/el-consell-general.md) — qui el va encarregar.
 - [Andorra com a microestat](../../institucions/petits-estats/andorra-com-a-microestat.md) — el síndic general del 2015 llegint-hi encara l'estratègia del país.
 - [La consciència nacional andorrana](../../politica/identitat-politica/la-consciencia-nacional-andorrana.md) — 239 anys entre escriure la doctrina i repartir-la.
+- [De lo que pot i no pot](./de-lo-que-pot-i-no-pot.md) — el llibre 3, i on el Politar el contradiu.

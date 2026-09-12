@@ -58,6 +58,16 @@ Tovia»**.
 
 > **El desacord no era entre dues fonts: era dins d'una.**
 
+**4. I una tercera veu del mateix volum, la més autoritzada per a la qüestió.**
+**Joan Massa i Sarrado, exsecretari del Copríncep Episcopal**
+([font](../../../fonts/massa-de-lo-que-pot-i-no-pot.md)), hi diu:
+
+> «L'any que ve, concretament **l'11 de febrer del 2019**, recordarem… que **el
+> bisbe d'Urgell Francesc de Tovia** va concedir als andorrans l'any 1419 la
+> facultat d'elegir anualment certes persones…»
+
+**Tres textos del mateix llibre diuen Tovia i un diu Capella.**
+
 **El corpus es queda amb Francesc de Tovia** i **deixa constància de l'error**,
 perquè **un error publicat circula**: qualsevol que llegeixi el cos del volum del
 2018 se n'endurà el nom equivocat.
@@ -91,6 +101,66 @@ Aquest document és a l'
 [Arxiu de les Set Claus](../patrimoni-institucional/linventari-de-les-set-claus.md)
 amb signatura **ASC 48339**, descrit com a *«ratificació de l'establiment de
 l'òrgan reduït del Consell»*.
+
+### Les tres paraules del privilegi, i on va estar perdut
+
+Massa dona **la frase llatina que hi ha a l'origen de tot**:
+
+> **«liceat vobis eligere inter vos»** — *que us sigui lícit escollir entre
+> vosaltres*.
+
+I en dona **la peripècia**: el text original **s'havia perdut** i **es va trobar
+a Casa Rossell d'Ordino**; avui es pot consultar **a l'Arxiu Nacional**.
+
+**El document fundacional del parlament andorrà va estar perdut, i el que el va
+salvar va ser un arxiu familiar.** El corpus ja havia trobat el mateix patró
+amb el manuscrit original del
+[Manual Digest](../../historia/manual-digest/manual-digest.md), **també a Casa
+Rossell fins al 1996**.
+
+**Dues vegades el mateix arxiu privat guarda el que l'estat havia perdut.**
+
+### Qui ratifica, amb noms
+
+Massa completa la cadena de la banda francesa, que les altres fonts deixaven
+anònima:
+
+| Paper | Qui |
+| --- | --- |
+| **Copríncep** | **Joan I, comte de Foix** |
+| **El seu veguer** | **Johan de Gotz** |
+| **Qui signa materialment**, el 17 de desembre | **Ramon de Capdevila**, **lloctinent i notari** del veguer |
+
+**El privilegi el ratifica el notari del lloctinent del veguer del comte.**
+Quatre graus de distància entre el senyor i el paper.
+
+### Una variant textual, registrada
+
+**Dues ponències del mateix volum transcriuen la mateixa frase del privilegi i
+no coincideixen:**
+
+| Qui transcriu | La frase |
+| --- | --- |
+| **Susanna Vela** | «tants **camps** tants enteniments» |
+| **Joan Massa** | «tants **caps** tants enteniments se demostran» |
+
+**El corpus llegeix «caps»** i **ho marca com a lectura seva**: la frase és un
+refrany de forma coneguda —*tants caps, tants barrets*— i **«tants caps tants
+enteniments» vol dir «tantes persones, tantes opinions»**, que és exactament
+l'argument que s'hi fa servir: **una assemblea massa gran no decideix**. «Tants
+camps» no hi lliga.
+
+**No es corregeix la font: es registra la variant i es diu quina es llegeix i
+per què.** Cap de les dues transcripcions és el document.
+
+Massa dona també **una versió més llarga del mateix passatge**, que aporta el
+motiu jurídic concret:
+
+> els prohoms, a fi de defensar **«drets, vectigals, marques, leudas, contractes
+> de termens»**, han de fer «ajustament e aplegar concell… e ordenar e constituir
+> **síndichs** per tractar e procurar e prosseguir aquellas», i no ho poden fer
+> **«sens gran dany e carrechs dels dits homens»**, ja que «**sia perillosa cosa
+> fer ajustament de moltes gents, majorment aixís grossers**».
 
 ## Què hi havia abans
 
@@ -359,3 +429,4 @@ comprar.**
 - [L'antic règim](../../historia/antic-regim/lantic-regim.md)
 - [El parlamentarisme andorrà](../../politica/parlamentarisme/el-parlamentarisme-andorra.md) — els sis segles sencers.
 - [Política](../../politica/README.md) — la branca.
+- [De lo que pot i no pot](../../historia/manual-digest/de-lo-que-pot-i-no-pot.md) — què podia i què no podia el Consell, segons el Manual Digest.
