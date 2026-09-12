@@ -180,6 +180,29 @@ propietat intel·lectual i a tarifa. S'ha preparat una consulta específica a
 `bibrepublica@ub.edu` per demanar la reproducció del manuscrit o, com a mínim,
 de l'índex i els folis d'Éloïse. No s'ha enviat ni s'ha contret cap despesa.
 
+## Traducció i censura: una pista oberta, no un expedient localitzat
+
+Montserrat Bacardí inclou *Andorra: cadena de evasión (1942-1944)* en el mapa
+professional de Teresa Pàmies i la classifica explícitament entre les seves
+traduccions **del català al castellà**. Això reforça el camp MARC del CCUC i
+descarta que la menció catalogràfica a una llengua intermèdia francesa sigui,
+per si sola, prova del procés real de traducció.
+
+L'article, però, no estudia la censura d'aquest llibre. Bacardí el separa del
+corpus de divuit traduccions de best-sellers anglesos i diu expressament que
+deixa fora el tractament censor de les (auto)versions catalanes. Per tant, no
+aporta número d'expedient, informe de lector, data d'autorització ni possibles
+supressions de l'edició de 1974. És un **resultat negatiu delimitat**, no una
+prova que el llibre no passés control administratiu.
+
+La pàgina oficial de l'Archivo General de la Administración confirma que els
+expedients de censura editorial de 1937–1983 es localitzen amb l'inventari
+`IDD (03)050.000`, una base de dades accessible als ordinadors de la sala de
+consulta. L'índex nominal no és públic a PARES. S'ha preparat —i **no enviat**—
+una petició a `aga@cultura.gob.es` perquè comprovin autor, títol, editorial,
+ISBN i dipòsit legal i, si hi ha resultat, facilitin número d'expedient,
+signatura i condicions de reproducció.
+
 ## La capa audiovisual i el seu límit
 
 3Cat manté públiques les dues parts de la minisèrie *Andorra. Entre el torb i
@@ -228,6 +251,10 @@ històric.
 | `francesc-viadiu-fons/ccuc-sru-andorra-cadena.xml` | MARC de l'edició castellana: títol original *Vides entre el torb* i traducció de Teresa Pàmies. |
 | `francesc-viadiu-fons/consulta-pavello-esborrany.md` | Petició de reproducció preparada però no enviada. |
 | `francesc-viadiu-fons/bnc-jaume-fuster-inventari-2015.*` | Control d'un document diferent: projecte audiovisual de 1988 basat en la novel·la, no el manuscrit de 1950. |
+| `francesc-viadiu-fons/bacardi-traduccions-pamies-censura.*` | Montserrat Bacardí, *Meta* 68/2 (2023): confirma la traducció català→castellà i exclou expressament el títol del corpus censor estudiat. |
+| `francesc-viadiu-fons/aga-expedients-censura.html` | Pàgina oficial de l'AGA: sèrie 1937–1983 i inventari de sala `IDD (03)050.000`. |
+| `francesc-viadiu-fons/aga-informacio-ciutada.html` | Captura de control d'una ruta institucional que no aportà cap dada addicional útil. |
+| `francesc-viadiu-fons/consulta-aga-censura-esborrany.md` | Petició de localització arxivística preparada però no enviada. |
 | `internet-archive-isbn-search.json` | Cerca pels ISBN català i francès: zero resultats. |
 | `openlibrary-isbn-search.json` | Registre bibliogràfic sense ebook ni text complet. |
 
@@ -265,6 +292,9 @@ Els SHA-256 de tots els fitxers es van calcular el 12/09/2026. Destaquen:
    fons Francesc Viadiu; no enviar la consulta sense autorització expressa.
 8. Consultar o encarregar al Pavelló la reproducció de *Vides entre el torb*,
    `C 81.21 Via`; no assumir cap despesa sense autorització.
+9. Demanar a l'AGA la localització de l'expedient de censura de l'edició de
+   1974 a l'inventari `IDD (03)050.000`; no enviar la consulta sense
+   autorització expressa.
 
 ## Drets
 
