@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**253** documents · **64** fonts · **0** aptes com a model de llengua · **103** temes amb contingut.
+**254** documents · **65** fonts · **0** aptes com a model de llengua · **103** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -533,6 +533,7 @@
 | [Com funciona el Consell General](temes/politica/parlamentarisme/com-funciona-el-consell-general.md) | `temes/politica/parlamentarisme` | compilada | contemporania | no | `mateu-zamora-reforma-reglament` |
 | [El parlamentarisme andorrà](temes/politica/parlamentarisme/el-parlamentarisme-andorra.md) | `temes/politica/parlamentarisme` | compilada | contemporania | no | `bascompte-consell-de-la-terra` |
 | [La deriva presidencialista](temes/politica/parlamentarisme/la-deriva-presidencialista.md) | `temes/politica/parlamentarisme` | compilada | contemporania | no | `dalleres-coprincipat-parlamentari` |
+| [Quants diputats](temes/politica/parlamentarisme/quants-diputats.md) | `temes/politica/parlamentarisme` | compilada | contemporania | no | `figuereda-nombre-de-diputats` |
 
 ## temes/politica/sistema-electoral
 
@@ -798,6 +799,7 @@
 | [`escaler-cambra-de-comerc`](fonts/escaler-cambra-de-comerc.md) | Pilar Escaler i Penella · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`escribano-musica`](fonts/escribano-musica.md) | Josep Maria Escribano i Casaldàliga · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`ferrer-percepcio-andorra-exterior`](fonts/ferrer-percepcio-andorra-exterior.md) | Josep Ferrer i Altimira · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`figuereda-nombre-de-diputats`](fonts/figuereda-nombre-de-diputats.md) | Pere Figuereda i Cairol · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`font-fenomens-socials-immigracio`](fonts/font-fenomens-socials-immigracio.md) | Agustí Font · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`frases-educadors-esportius`](fonts/frases-educadors-esportius.md) | Pere Frases i Homedes · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`garcia-ensenyament-confessional`](fonts/garcia-ensenyament-confessional.md) | César García i Bernardo · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
