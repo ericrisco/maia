@@ -1,0 +1,603 @@
+                                    communications earth & environment                                                                                                               Article
+
+
+
+                                                                                                                                                  https://doi.org/10.1038/s43247-025-02023-8
+
+
+                                    Neolithic pastoralism and plant
+                                    community interactions at high altitudes
+                                    of the Pyrenees, southern Europe
+                                                                                                                                                                              Check for updates
+                                                                 1,2,11                                 1,11                                   3,4,5
+                                    Irene Julián-Posada         , Graciela Gil-Romera          , Sandra Garcés-Pastor    ,
+                                    Peter D. Heintzman 3,6,7, Daniel Gómez1, Federico Fillat1, Ana Moreno 1, Javier Lara-Recuero1,
+                                    Pere Bover 8, Lourdes Montes 9, Alejandro Sierra 10, Blas Valero-Garcés 1, Inger G. Alsos 3 &
+                                    Penélope González-Sampériz 1
+
+
+
+
+1234567890():,;   1234567890():,;
+                                    The Neolithization process introduced remarkable ecological impacts, especially in Mediterranean
+                                    mountain areas. We generated a comprehensive sedimentary ancient DNA record from the central
+                                    Pyrenees, spanning 12,200 to 1300 years before present, revealing the earliest continuous presence
+                                    of sheep (6500 years before present) and cattle (5900 years before present) in alpine southern Europe.
+                                    This evidence suggests pastoralism nearly concurred with the Neolithic in the Iberian lowlands,
+                                    challenging prior assumptions of only sporadic occurrence and conﬁrming Neolithic pastoralist use of
+                                    mountain ecosystems. A notable plant community shift arose at 6000 years before present, with
+                                    deciduous forests transitioning into diverse open grasslands. This change became pronounced at
+                                    4200 years before present, aligning with continuous presence of domesticates and a regional cooling
+                                    climate, suggesting a synergistic relationship between past climate change and human-induced plant
+                                    community alteration. These ﬁndings highlight complex interactions between climate, human
+                                    activities, and landscape dynamics during the Neolithic in Mediterranean mountains.
+
+
+                                    The timings of the transition from foraging to farming economies is a            making the enduring impacts of agriculture more discernible7. Numerous
+                                    pivotal focus of current transdisciplinary research. This transition, known as   hypotheses have been proposed regarding alterations of the landscape due to
+                                    the Neolithization process, marked a considerable turning point in both          intensiﬁed land use, particularly in central Europe8–10. However, a lingering
+                                    human and landscape evolution1. It started in the Fertile Crescent ca. 11.5      uncertainty persists concerning the potential long-term ecological impact of
+                                    thousand calibrated years ago (ka BP) and reached Europe ca. 8.5 ka BP in        domesticated animals and even more so in mountain areas11–13. Mountains
+                                    Greece, via the introduction of domesticated plants and animals. These early     play a crucial role in our comprehension of early animal husbandry, as they
+                                    introductions have spurred extensive research into the mechanisms of             likely enabled the continuous presence of domesticated animals for a sub-
+                                    expansion, their cultural signiﬁcance, and, more recently, their environ-        stantial part of the Holocene period14. The presence of productive pastures in
+                                    mental impacts and long-term ecosystem effects2–4. In the western Medi-          summer likely facilitated the early adoption of seasonal resource utilisation
+                                    terranean basin, the advent of the Neolithic period instigated notable           strategies such as the pastoral mobility in altitude, known as
+                                    cultural, symbolic, economic, genetic, and environmental transformations4–6.     transterminance15,16. It has been generally accepted that montane Medi-
+                                    Nevertheless, there is a pronounced knowledge gap regarding the reper-           terranean environments have long been transformed by human
+                                    cussions of early pastoralism on ecosystem dynamics in the Mediterranean         activities2–4,17–22. However, identifying clear unequivocal evidence of long-
+                                    region, where some of the most ancient complex societies originated,             term human impact on vegetation in the high-altitude regions of the central
+
+
+                                    1
+                                      Instituto Pirenaico de Ecología (IPE-CSIC), Zaragoza, Spain. 2Escuela de Doctorado de la Universidad Autónoma de Madrid (EDUAM), Madrid, Spain. 3The Arctic
+                                    University Museum of Norway, UiT - The Arctic University of Norway, Tromsø, Norway. 4Department of Evolutionary Biology, Ecology and Environmental Sciences,
+                                    University of Barcelona, Barcelona, Spain. 5Institute of Marine Sciences (ICM-CSIC), Barcelona, Spain. 6Centre for Palaeogenetics, Stockholm, Sweden.
+                                    7
+                                      Department of Geological Sciences, Stockholm University, Stockholm, Sweden. 8ARAID Foundation – IUCA, Universidad de Zaragoza, Zaragoza, Spain. 9Área de
+                                    Prehistoria, P3A- IUCA, Universidad de Zaragoza, Zaragoza, Spain. 10Laboratori d’Arqueozoologia, Departament de Prehistòria, Universitat Autònoma de Bar-
+                                    celona, Cerdanyola del Vallès, Spain. 11These authors contributed equally: Irene Julián-Posada, Graciela Gil-Romera.     e-mail: irenejp@ipe.csic.es;
+                                    graciela.gil@ipe.csic.es; pgonzal@ipe.csic.es
+
+
+                                    Communications Earth & Environment | (2025) 6:48                                                                                                             1
+https://doi.org/10.1038/s43247-025-02023-8                                                                                                                    Article
+
+Pyrenees has often been difﬁcult and a true challenge, only becoming                   the Pyrenees. To achieve these aims, we present the ﬁrst record of both
+noticeable from the Mediaeval period onwards23–25. This study addresses the            animal and plant sedimentary ancient DNA (sedaDNA) metabarcoding
+knowledge gap on the interaction between past climate changes and human                from a lacustrine sequence in the Pyrenees, Tramacastilla Lake (TRAM21),
+landscape management in the Pyrenees, being one of the very few available              located at 1682 m a.s.l. (Fig. 1).
+studies in southern European mountains, by showcasing the early occur-
+rence of domesticated animals and their impact on plant communities26–30.              Results
+      Archaeological data from the Iberian Peninsula lowlands show a rapid             We developed an independent age-depth model for the Tramacastilla
+integration of domesticated animals at 7.5 ka BP31 and the subsequent                  sediment cores acquired in 2020 and 2021, from which sedaDNA was
+occupation of mountain areas such as the Pyrenees from around 7.3 ka                   extracted (Methods, Supplementary Note 1, Supplementary Figs. 1, 2 and
+BP32,33. However, while archaeological research provides a sound perspective           Supplementary Table 1). The sedimentary archive from Tramacastilla spans
+on the importance of human presence in high altitude areas of the Pyrenees,            from 25 to 1.3 ka BP, but we present here results for the period between 12.2
+it does not deﬁnitively establish clear connections between ecosystem                  and 1.3 ka BP, because the sediments older than 12.2 ka BP contain limited
+responses and human inﬂuence there. The presence of a cattle bone at the               organic matter. Besides the sedimentological constraint, the 12.2–1.3 ka BP
+Coro Trasito archaeological site (1600 m a.s.l., Fig. 1), dating ca. 7 ka BP,          period offers the optimal time resolution of the record, with a mean sedi-
+represents the earliest known instance of cattle at such high altitudes in the         mentation rate of 30 yrs/cm (Standard Deviation (SD) 19 yrs/cm, see also
+Iberian Peninsula34. Nevertheless, a generally scattered archaeological                Supplementary Table 1). The sedaDNA found in our core is believed to
+record of cattle bones in NE Iberia, including the Pyrenees, compared to the           come from the lake basin as the dispersal ability and taphonomic dynamics
+very abundant presence of sheep bones, has prevented us from knowing the               of sedaDNA seem to indicate that they could be equivalent to
+complete scenario of domesticated animal management in the mountains,                  macroremains38. Future micromineralogy analyses may facilitate trace
+thereby generalising the idea of a sparse, discontinuous presence of cattle in         preservation rather than source39.
+these mountains35. Despite the wealth of archaeological data on the Neo-
+lithization process in the Pyrenees32,34,36,37, there is an absence of spatially-      Molecular evidence of plant and animal community changes
+coincident direct evidence of both ecosystem change and the presence of                We present the sedaDNA ﬁndings using a Relative Abundance Index (RAI),
+different animal herds. This lack of evidence under a robust quantitative              which is a ratio that represents the relative abundance of each taxa, obtained
+framework hinders testing hypotheses regarding the main types of herds                 by multiplying the relative proportion of total reads and the proportion of
+associated with Pyrenean landscape management.                                         weighted PCR (Polymerase Chain Reaction) replicates in which the
+      The motivation for this study is thus to establish the early presence of         sequence was identiﬁed26. A total of 9.8 million reads of 529 plant sequences
+domesticated animals in the southern Pyrenean region and their impacts on              were initially acquired in all 46 samples analysed (Supplementary Data 2),
+the landscape. Our objectives are twofold: (i) to test the archaeological              with 423 sequences meeting post-ﬁltering criteria (Supplementary Data 3).
+timing of arrival for the ﬁrst domesticated animals at high altitudes in the           Within this set, 192 taxa were identiﬁed at the species level, 171 at genus level
+central Pyrenees, with a particular focus on distinguishing between various            and 57 at family level. Regarding animal sequences, a total of 2.9 million
+herbivore groups; and (ii) to assess the potential impact of these domes-              reads of 62 sequences were obtained in 42 samples, with no animal
+ticated animals on the plant communities of the current subalpine area of              sedaDNA detected in four samples (Supplementary Data 8). Within this
+
+
+
+
+Fig. 1 | Location map of Tramacastilla Lake and other records cited in this article    Digital Climatic Atlas of the Iberian Peninsula88, and orthophoto from IGN-CNIG
+(cave, lake, and archaeological sites). a Altitude map; b mean annual precipitation;   (PNOA). Catchment area was obtained using ArcGeek calculator complement
+c mean annual temperature; d orthophoto of Tramacastilla lake with its catchment       (QGIS 3.34) from Digital Elevation Model MDT02 (IGN). Projection UTM 30
+area delimitated. Map sources: elevation data from ASTER GDEM v2 (METI/NASA,           Datum ETRS89 (EPSG: 25830). All coordinates in Supplementary Data 12.
+2011), hydrology from IGN-CNIG 1:200k base map (BCN200), climate data from
+
+
+
+Communications Earth & Environment | (2025) 6:48                                                                                                                      2
+https://doi.org/10.1038/s43247-025-02023-8                                                                                                              Article
+
+group, 32 taxa were excluded from analysis (31 worms and one bryozoan),          between 29 and 214 taxa (mean 118 ± 43, Supplementary Table 4) reaching
+retaining then 30 taxa that comprises 11 wild mammals, 10 other wild             its highest values at 3.6 ka BP for both plants and animals (Fig. 2f). The
+animals, 3 domesticated mammals, and 6 categorised as ‘others’ that could        analysis of the rate of change (RoC) of RAI values of Tramacastilla plants
+be either domesticated or wild mammals. Notably, 27 animal taxa were             and animals indicates signiﬁcant changes between 4 and 3.5 ka BP (Fig. 2g).
+identiﬁed at the species or subspecies level, demonstrating a high degree of           A transformation-based canonical Redundancy Analysis (tb-RDA) of
+taxonomic precision, with the remaining three classiﬁed at the genus level.      plants, and animals as explanatory variables, (Fig. 3a) (Supplementary
+We highlight the precise identiﬁcation of domesticated mammals, all of           Tables 5–10 and Supplementary Fig. 13) yielded a globally signiﬁcant
+which belonged to the ruminant category, including cattle, sheep and goats.      analysis (p-value < 0.01), where the ﬁrst axis (RDA1) explains 39% of the
+The proportion of weighted PCR replicates where plant and animal                 observed variance. Cattle RAI is the only explanatory variable that is sig-
+sequences were found are represented in Supplementary Figs. 3–12.                niﬁcant (p-value < 0.01), although it presents a variance inﬂation factor
+      The analysis of sedaDNA from Tramacastilla Lake reveals the pre-           (VIF) of 1.63, indicating a slight multicollinearity. In a broader context, the
+valence of deciduous forest communities (Fig. 2a) since the onset of the         tb-RDA illustrates an ecosystem trajectory that aligns with the temporal
+Holocene, with RAI values ﬂuctuating between 40 and 75% (Supplementary           correlation between the declining deciduous forests and the emergence of
+Data 5, total mean and SD 28.1 ± 26.4%, Supplementary Table 2). Then, at         open landscapes around 4–4.5 ka BP. This trend is summarised in RDA1,
+6 ka BP, these communities started to decrease, until the Northgrippian to       plotted in Fig. 2h and can be used as an open landscape index. Notably, the
+Meghalayan transition (4.2 ka BP), at which point the deciduous forest           expansion of open landscapes and the appearance of novel herbaceous taxa
+practically disappears. During the ﬁrst interval of the studied period           (Fig. 2a) occurred mostly under the presence of cattle (5–4 ka BP, Figs. 2e,
+(12.2–9.7 ka BP), Pinus sp. is consistently present and reaches up to 40%, but   and 3a), while the proliferation of silver ﬁr at 5 ka BP (Fig. 2b) aligned with
+thereafter declines to almost negligible RAI values, aside from some             the presence of sheep (4–1 ka BP, Figs. 2b, d, and 3a).
+expansions ca. 3.6 and 1.6 ka BP (Fig. 2b and Supplementary Data 5, total              We targeted a tb-RDA on just open landscape plant groups, namely
+mean 4.3% ± 9.3%, Supplementary Table 2). Throughout the transition              ‘Open landscape’, ‘Herbs’ and ‘Novel herbaceous taxa’ previously grouped
+period between 6 and 4.2 ka BP, open landscape RAI increased (Fig. 2a and        under three functional variables (favoured by fertilisation, grazing or
+Supplementary Data 5), with values from 30 to 50% until the end of the           trampling and grazing - see Methods) (Fig. 3b) (Supplementary
+record, at ~1.3 ka BP. Parallel to the progressive expansion of open com-        Tables 11–16 and Supplementary Fig. 14). This is also signiﬁcant
+munities, silver ﬁr (Abies alba Mill.) is ﬁrst detected at ca. 6 ka BP with      (p-value < 0.01) with RDA1 explaining 30% of the total variance. Cattle is
+relatively low RAI abundances until 3.2 ka BP (0.1–22%). Between 3.2 and         the only signiﬁcant variable among animals (p-value < 0.01), and similar to
+2.4 ka BP there is an increase in Abies RAI values, reaching 75% at 2.4 ka BP,   the global tb-RDA, exhibits subtle multicollinearity (VIF = 1.6). The eco-
+and then maintains its percentages stable at around 30% until the end of the     system trajectory of the open landscape community in the tb-RDA exhibits
+record (Fig. 2b and Supplementary Data 5).                                       minimal variability along both axes 1 and 2 but suggests an association of
+      The landscape around Tramacastilla Lake would have remained open           herbs favoured by fertilisation and the presence of red deer at 12 to 9 ka BP
+for most of the Meghalayan period (4.2 ka BP-present) (Supplementary             (Fig. 3b). The community trajectory between 9 to 6 and 3 to 1 ka BP was led
+Data 5) (Fig. 2a). Amongst the sedaDNA of herbaceous taxa, there is a group      by plants promoted by trampling and grazing. Additionally, these plants
+whose onset happens at ca 6.5 ka BP and becomes prevalent at 5 ka BP, that       align with the presence of sheep, goats, and cattle, although not in a distinctly
+were never found before in our time series; consequently, this plant group       separated manner. The community between 6 and 3 ka BP tend to exhibit
+has been designated as ‘Novel herbaceous taxa’ (Fig. 2a) indicating its          plants favoured by grazers and coexisting with other animals.
+unprecedented presence, but not linked to human introduction, nor an
+invasive character. Wild mammal and wild animal RAI values (Fig. 2c) are         Discussion
+found scattered across most of the Holocene (particularly between 10.5–9.2       We present, to our knowledge, the earliest molecular evidence of domes-
+and 7–6.4 ka BP). These mainly correspond to red deer (Cervus elaphus L.)        ticated animal presence and grazing in European mountains based on
+at ca. 10.5, 9.7 and 7.3 ka BP (RAI 100%, Supplementary Data 10) and the         sedaDNA (Fig. 2). Our results depict plant community dynamics from a
+sporadic presence of other large mammals such as brown bear (Ursus arctos        mid-altitude natural archive (Tramacastilla Lake, 1682 m a.s.l.) in the
+L.), which was observed at ca. 9.2 ka BP (RAI 100%) and 3.3 ka BP (RAI 2%).      Central Pyrenees, offering a continuous record of vegetation and faunal
+Amphibians, such as the common toad (Bufo bufo L.), are notably prevalent        changes from 12.2 to 1.3 ka BP.
+around 6.6 and 6.3 ka BP, while the common frog (Rana temporaria L.)                   In many mid-latitude European regions, pastoral timing is frequently
+becomes the dominant species in the wild animal assemblage at ~1.5 ka BP         proposed to have been instrumental in clearing dense forest cover and
+(RAI 100%). We found the ﬁrst sedaDNA detections of sheep at 6.5 ka BP           shaping landscapes3,18,40–45 since the Northgrippian period (8.2–4.2 ka BP
+with varying RAI values since then, interspersed with sedaDNA from goats         following14). However, most of the studies are based on indirect palaeoe-
+at lower values (Fig. 2d). The evidence for domesticated animals is further      cological indicators, such as pollen assemblages46–48, coprophilous fungal
+supported by the consistent detection of cattle sedaDNA in this lacustrine       spores49, or archaeological sites, including both anthracological data and the
+record for nearly the entire period spanning 6 to 1.3 ka BP (Fig. 2e), exhi-     presence of bones of domestic fauna50. They record episodic presence of
+biting elevated RAI values approaching 100% (mean RAI of 39.8 ± 41.2%,           domestics during the Neolithic (at 6 ka BP) and the Bronze Age (since 4 ka
+Supplementary Table 3 and Supplementary Data 10).                                BP) before agro-pastoralism in the Middle Ages (more information about
+      In general terms, we identiﬁed a vegetation composition transition         archaeological context in Supplementary Note 3). The ﬁrst direct evidence
+between 6 and 4 ka BP, marked by a gradual shift from a diminishing              of domesticated animals in European mountains has been recorded in Lake
+deciduous tree vegetation type to an expanding grassland community               Anterne (northern French Alps), with cattle sedaDNA at ca. 5 ka BP,
+(Fig. 2a), that occurs coeval with the arrival of domesticated animals in the    although sporadic until 2.4 ka BP27. Complementarily, Lake Sulsseewli
+lake basin from 6 ka BP. Notably, an unprecedented shift in the ﬂoral            (central Alps) presents a more continuous record of direct evidence of
+composition of pastures takes place since 6.5 ka BP and steadily increased       domestic animals (cattle and sheep) since 4 ka BP26.
+from 5 ka BP, marked by the appearance of novel, not human-introduced,                 Among early agro-pastoralist communities inhabiting the Mediterra-
+nor invasive herbaceous taxa (Fig. 2a and Supplementary Data 5).                 nean basin mountains, sheep (Ovis aries L.) and goat (Capra hircus L.) held
+                                                                                 prominence as one of the earliest domesticated animals, primarily due to
+Taxonomic richness, rate of change and plant community                           their remarkable versatility and adaptability to various environments36. It is
+trajectories                                                                     hypothesised that they became the foremost species for economic exploi-
+Excluding sample TRAM_1b_3U_136.137 (5.1 ka BP), with only 18 taxa               tation, also on both slopes of the Pyrenees since 7.5–7.3 ka BP34,36,51–54, with
+identiﬁed, the taxonomic richness of both animals and plants, varied             sheep forming an essential component of domestic herds throughout
+
+
+Communications Earth & Environment | (2025) 6:48                                                                                                                3
+https://doi.org/10.1038/s43247-025-02023-8                                                                                                          Article
+
+
+
+
+prehistoric times31. In fact, most of the zooarchaeological domesticate        that these were seasonally occupied during spring and summer, likely
+remnants found in the Pyrenees correspond to sheep and goats (in Chaves,       indicating a transterminant landscape management16, thereby implying
+Coro Trasito, Els Trocs, Puyascada and El Sardo caves: Fig. 1), while cattle   periodic movements from lowland areas54. This does not generally happen
+(Bos taurus L.) herds have been found at low abundance albeit sparsely         in lowland shelters as it is the case of Chaves Cave, at 640 m a.s.l and in the
+present during the early Neolithic35,36,54,55. Traditionally, archaeological   outer Pyrenean range (Fig. 1). This is a pivotal site for understanding the
+ﬁndings of domestic animals at Pyrenean high-altitude caves have suggested     arrival of Neolithic and management of early domesticates in northeastern
+
+
+Communications Earth & Environment | (2025) 6:48                                                                                                            4
+https://doi.org/10.1038/s43247-025-02023-8                                                                                                                             Article
+
+Fig. 2 | Palaecological synthesis for Tramacastilla Lake throughout the Holocene.          with uncertainty range in grey, and green circles representing statistically signiﬁcant
+Indicated in light blue is the beginning of the period known as Neoglacial58, and          points when community composition changes; h RDA scores for ﬁrst axis, seen as an
+vertical dashed lines represent 11.7, 8.2 and 4.2 ka BP Holocene subdivisions. RAI         open landscape index; i July temperature reconstruction for Basa de la Mora lake
+percentages for: a, b selected plant groups; c wild mammals and wild animals;              based on chironomid analysis, with sample-speciﬁc standard error bars59;
+d sheep and goats and e cattle, with the star symbols indicating the chronology of the     j Mendukilo cave isotope composites for δ13C, that represents a temperature
+ﬁrst sheep or cattle occurrence in the Pyrenean archaeological record (sheep: Chaves       variability reconstruction60. The accepted subdivisions of the Holocene14 and cul-
+cave, 7.5 ka BP56; cattle: Coro Trasito cave, 7 ka BP34); f taxonomic richness of plants   tural periods for the Pyrenees are shown at the base of the ﬁgure: Chalcolithic Age
+and animals with loess smooth area, with grey point representing low-DNA-quality           (ChA), Bronze Age (BrA), Iron Age and Ibero-Roman (IAIR) and Current Era (CE).
+sample TRAM_1b_4U_34.35 (6.5 ka BP); g rate of change (RoC) analysis results,              All colours are suitable for colour blindness.
+
+
+
+
+Fig. 3 | Ordination analyses with Hellinger transformation (tb-RDA). a for all             practices, with selected animals as explanatory variables. Red circles represent the
+plant taxa with all animals as explanatory variables; and b for all open landscape         sample where the ﬁrst appearance of domesticated animals is detected (6.5 ka BP,
+plants (i.e. ‘Open landscape’, ‘Herbs’ and ‘Novel herbaceous taxa’) classiﬁed              sample TRAM_1b_4U_34.35).
+according to whether they are favoured by grazing, trampling or fertilisation
+
+
+Iberia since 7.6 ka BP36,37,56, and has been proved to be a permanently                    occurred three centuries after the ﬁrst Neolithic human settlements in the
+occupied habitat. Regarding fauna remnants, cattle is infrequent as well in                region (Fig. 1 and Supplementary Data 7).
+lowland locations as found in Chaves, where there are mainly sheep (more                         In the Tramacastilla record, the ﬂoristic and functional change from
+than 50% including both Ovis aries, Capra hircus and Ovis/Capra cate-                      woodland to open landscape initiated before 6 ka BP, seems to become
+gories) and only ca. 2% of cattle53.                                                       critical at ca. 4 ka BP (Fig. 2a and Supplementary Data 5), when signiﬁcant
+      Our study reveals the consistent presence of sedaDNA from sheep                      RoC values appear in our sequence (Fig. 2g). Until then, the plant com-
+(since 6.5 ± 0.3 ka BP) and cattle (since 5.9 ± 0.3 ka BP) throughout the                  munities around Tramacastilla may have resiliently responded to envir-
+Northgrippian and Meghalayan Holocene sub-periods in the Tramacastilla                     onmental change, undergoing a critical transition when deforestation and
+Lake record (Fig. 2d, e). This ﬁnding constitutes the earliest direct molecular            grassland compositional change occurred. Considering that, in our record
+and uninterrupted evidence of cattle in European mountainous regions                       the primary transformation in the plant community (ﬁrst appearance of
+compared to other records, like Lake Anterne or Lake Sulsseewli in the Alps,               ‘Novel herbaceous taxa’ category: Fig. 2a), co-occurs with the emergence of
+that constitute other available records of domesticates in high altitudes but              domesticated animals at 6.5 ka BP (ﬁrst sheep appearance: Fig. 2b), being
+nearly two thousand years later (ca. 4 ka BP)26,27. Our ﬁndings reinforce the              then tempting to propose the logical causation that Neolithic people
+historical management of cattle, sheep and goats at high altitudes over the                intentionally cleared woodlands to facilitate the expansion of pastures and,
+past seven millennia. The limited regional archaeological records of early                 perhaps, key tree taxa.
+cattle husbandry in the high altitudes of the Central Pyrenees (Coro Trasito,                    However, there is sound, quantitative, independent regional climate
+Els Trocs, Puyascada, Fig. 1) have provided a synchronous spatio-temporal                  evidence supporting a notable temperature reduction between 6 and 4 ka BP
+scenario of cattle presence to that of Tramacastilla (Fig. 2e and Supple-                  in numerous sites in the Pyrenees (glacier advances during the beginning of
+mentary Data 10), conﬁrming its presence at ca. 7 ka BP in subalpine                       the Neoglacial58), and particularly in records relatively near to Tramacastilla
+environments. Indeed, cattle could have co-existed with native wild aurochs                (Basa de la Mora, 1903 m a.s.l., Figs. 1, and 2I 59) and in lower, more western
+that were present in the Iberian Peninsula from the Middle Pleistocene to                  areas of the Pyrenees (Mendukilo, 750 m a.s.l., Figs. 1 and 2j60). Such a
+the Roman Period57. In any case, Coro Trasito in particular has yielded the                cooling phase could have acted either as a primary cause of the landscape
+oldest dated fragment of cattle in the Pyrenees, with an age of 7.1–6.9 ka                 opening at ca. 6 to 5 ka BP or as a reinforcing factor of the herding activity in
+BP34, about a millennium before our molecular evidence in Tramacastilla.                   Tramacastilla, which would have started ca. 6.5 ka BP, before the onset of the
+      Both the archaeological context and our molecular evidence from                      declining temperature (Fig. 2d, e, i and j). The decrease in local to regional
+Tramacastilla Lake, supports that: (i) cattle husbandry onset in the high                  temperatures contrasts with other paleoclimate reconstructions at the
+altitudes of the central Pyrenees probably appeared at ca. 7 ka BP, although               Iberian scale, where winter temperatures may have shown a consistent
+this age could be reduced by a thousand years if ages based solely on                      increase throughout the Holocene period61. However, these climate recon-
+molecular evidence are considered; and (ii) there was a continuous presence                structions suggest that both summer temperatures and plant moisture
+of cattle since then, defying the idea of a punctuated presence given the                  availability from 6 to 4 ka BP lack a discernible positive trend61, aligning with
+sparse archaeological record (Fig. 2e). In this way, both the new molecular                broader continental models and simulations62.
+data from Tramacastilla Lake and the entire regional archaeological scenario                     We hypothesise that a likely climate-driven landscape opening may
+conﬁrm that human use of the high altitude areas of the Pyrenees only                      have been sustained, initially by small herds of sheep and goats, and later by
+
+
+Communications Earth & Environment | (2025) 6:48                                                                                                                                5
+https://doi.org/10.1038/s43247-025-02023-8                                                                                                                   Article
+
+cattle. The progressive woodland clearing would have facilitated the                    Methods
+expansion of herbs that are often frequent in forest margins, all those under           Geographical setting
+‘Novel herbaceous taxa’ (Supplementary Data 4). These plants were native                Tramacastilla Lake (42°43'31.57“N, 0°22'03.73“W) is located at 1682 m a.s.l.
+and not from an exotic origin, and occupied a newly created niche,                      in the subalpine belt of the Upper Gállego Valley of the southern Central
+expanding into the open areas near the lake. The major ﬂoristic change at               Pyrenees (Huesca, NE Spain) (Fig. 1), in a glacial valley71. Its catchment area
+4 ka BP, as indicated by increased richness (Fig. 2f) and the sole signiﬁcant           occupies about 50 Ha, mostly on the western side of the lake (Fig. 1d). Before
+RoC values (Fig. 2g), reﬂects such forest opening. Our hypothesis is addi-              the construction of a dam in 1956, the lake had a maximum depth of 4.5 m.
+tionally supported by the clear presence of human activity plant indicators,            Following the damming, the depth underwent a substantial increase,
+like Urtica dioica, that only appeared in our sedaDNA record after domestic             reaching 13.5 m. The lake’s surroundings are deforested (Fig. 1d) due to
+animals arrived. The tb-RDA results further underscore the inﬂuence of                  human exploitation. Consequently, the vegetation predominantly com-
+domesticated animals on herbaceous plant communities. Notably, the                      prises grasslands with scattered shrubs and trees such as Pinus uncinata
+sustained presence of cattle is associated with plants indicative of open               Ramond ex DC., Pinus sylvestris L., Rosa sp., and Juniperus communis L.
+landscapes (‘Open landscape’ and ‘Novel herbaceous taxa’ categories),
+contributing to the remarkable emergence of new herbs on the vegetation                 Core sampling and age depth model
+landscape (Fig. 3a).                                                                    We retrieved four sediment cores at 13.5 m water depth, using a UWITEC
+      Moreover, the trampling of livestock could have facilitated the pro-              platform in two ﬁeldwork campaigns in October 2020 and October 2021,
+liferation of plant species, even trees, that thrive under such disturbance, a          from which the two most continuous ones were selected (TRAM20-1B and
+phenomenon commonly observed in mountainous grassland ecosystems                        TRAM21-1B; each core ~10 m long divided in ﬁve sections, 1U to 5U,
+(Fig. 3b). This is probably the case of Tramacastilla deciduous forest’s                Supplementary Note 1 and Supplementary Fig. 1). We excluded the other
+regression at 6 ka BP, a trampling livestock scenario sharply contrasting with          two cores because they lacked certain sections of sediment, making them
+the spread of silver ﬁr (Abies alba) at 5 ka BP. These shifts in the Trama-             discontinuous and therefore unsuitable for building a chronological model.
+castilla forest community initially reﬂect broader dynamics observed in the             All cores were lengthwise split, photographed, and stored at 4 °C at the
+Pyrenees and across Europe. In the Pyrenees, the initial colonisation of silver         Pyrenean Institute of Ecology (IPE-CSIC, Zaragoza). All analyses in the
+ﬁr, documented between 9.5 and 8 ka BP, was primarily concentrated in the               present study were performed on Sections 3 and 4 (total length of 360 cm)
+eastern part of the northern slope63,64. Several millennia later, ca. 6.5 ka BP,        from core TRAM21-1B, as these reﬂect the most stable sedimentary
+the earliest evidence of Abies pollen appeared in the central Pyrenees region,          dynamics of the sequence (Supplementary Fig. 1). Section 5U consisted of
+reaching a peak at 4 ka BP65. Research carried out in Central Europe has                sediments of an age beyond the scope of the present study, while Sections 1U
+linked the decline of silver ﬁr at 3 ka BP to climatic changes and human                and 2U contain sedimentary features that render them unsuitable for
+inﬂuences, particularly the increasing human impact during the Bronze and               establishing a reliable chronology. These reﬂect high-energy depositional
+Iron Ages66. While silver ﬁr was extensively used in Central Europe for                 events that can disturb the usual sequence of lacustrine sediment deposition,
+construction during these periods, leading to its gradual decline due to                disrupting the chronological sequence and therefore leading to inaccuracies
+exploitation and agricultural expansion66, there is evidence that low-impact            in age-depth models if included.
+pastoralism may have facilitated ﬁr growth during certain periods, such as                   The age-depth model was obtained by combining dates from cores
+5.5 to 4 ka BP in what is now the Czech Republic67. In fact, the presence of            TRAM20-1B and TRAM21-1B, that were sedimentologically correlated in
+Abies at Tramacastilla coincides with sustained cattle presence in the area             order to develop a more complete and representative composite sequence
+(Fig. 2b, e), suggesting that pastoral activities did not substantially affect silver   (see details in Supplementary Note 1 and Supplementary Table 1). We
+ﬁr expansion. Although our ﬁndings diverge from broader trends observed                 generated an age-depth model based on Bayesian inference using the R
+in the Alps region29,68, they align with those of the Czech Republic, indicating        package rbacon v3.2.072 in R (R Core Team, 2022) (Supplementary Fig. 2),
+that grazing may have facilitated Abies regeneration. However, this contra-             which includes the IntCal curve (IntCal2073) that automatically calibrates
+dicts modern ecological studies suggesting negative effects of grazing on               the original dates and calculates modelled ages.
+silver ﬁr dynamics69. Our study emphasises the complex interplay between
+climate change, grazing practices, and forest dynamics since 6 ka BP, high-             sedaDNA analysis
+lighting the need for further research to understand this variability. More             We sampled TRAM21-1B for sedaDNA analysis under clean conditions at
+precisely, future research should consider the study of the ﬁre regime                  the Paleogenomics Laboratory of the IUCA-University of Zaragoza. We
+through the analysis of the charcoal fraction to better comprehend the                  took between 2 and 3 g of 95 samples at around 5-cm resolution from the
+interactions between climate, vegetation and human activity over time, as               whole core, excluding the ﬁrst upper section, as it was not dated.
+ﬁres have historically played a crucial role in opening dense forests and                    We carried out sedaDNA analyses at the Ancient DNA Laboratory of
+shaping landscapes3.                                                                    the Arctic University Museum of Norway in Tromsø, following a meta-
+      In summary, our ﬁndings present the earliest direct evidence of sus-              barcoding approach. Data were generated in two batches (Supplementary
+tained cattle presence in European mountainous regions, aligning with the               Data 1). Altogether, we analysed 46 of the sediment samples from Sections
+concept of continuous cattle occupancy since ~6 ka BP. Furthermore, our                 3U and 4U of TRAM21-1B core, which corresponds to the Holocene
+analysis illuminates the Meghalayan transformation from dense forest to                 (Supplementary Data 11). We included 15 controls (six in batch 1, nine in
+open grasslands, coinciding with the introduction of domesticated animals               batch 2) to detect potential contamination, as detailed in Supplementary
+around 6 ka BP and a pivotal transition at 4 ka BP. Our study underscores               Note 2. In the case of plant sedaDNA, one control in each batch was positive
+the considerable inﬂuence of climate change, notably a discernible tem-                 and included a synthetic extract to conﬁrm successful sedaDNA
+perature decrease during the beginning of the Neoglacial period, on land-               ampliﬁcation74. We followed the protocols of ref. 74 for DNA extractions,
+scape dynamics. The conﬂuence of cooler climates concurred with the                     using a modiﬁed DNeasy PowerSoil kit protocol (Qiagen, Germany). We
+expansion of grazing practices by Neolithic communities, potentially fol-               used the 16S P007 primer set to amplify a region of the animal mitochondrial
+lowing a transterminant herding model. The synergic effect of climate and               genome27 and a set that ampliﬁed a chloroplast locus (trnL p6-loop) for
+grazing likely contributed to the gradual clearing of woodlands and the                 plants75. Each primer set was uniquely-dual tagged to allow for downstream
+emergence of open landscapes and novel pasture land communities since                   demultiplexing (Supplementary Data 1). We carried out eight PCR replicates
+6 ka BP, and a critical plant community change since 4 ka BP in the sur-                each for both primer sets, following the conditions deﬁned by ref. 76, except
+roundings of Tramacastilla. This newly established ecosystem probably                   for 16S PCRs, in which forward and reverse blocking primers were added,
+enabled the presence of mosaic-like landscapes that are currently at risk due           following26. PCR products were pooled and cleaned, and library preparation
+to the abandonment of traditional land uses70.                                          was performed using a modiﬁed TruSeq PCR-free library kit (Illumina) and
+
+
+Communications Earth & Environment | (2025) 6:48                                                                                                                     6
+https://doi.org/10.1038/s43247-025-02023-8                                                                                                             Article
+
+unique dual indexing74. Libraries were quantiﬁed by qPCR using the Library            We classiﬁed animal taxa according to two categories: wild or
+Quantiﬁcation Kit for Illumina sequencing platforms (KAPA Biosystems,            domesticated animals, obtaining the following classiﬁcations: ‘Wild mam-
+Boston, USA), and sequenced on the Illumina NextSeq platform using               mal’, ‘Wild animal’ (including birds, amphibians and insects), cattle (‘Bos
+paired-end chemistry for 2 × 150 cycles at the Genomics Support Center           taurus’), sheep (‘Ovis aries’), goat (‘Capra hircus’), ‘Other animals’, ‘Worms’
+Tromsø (GSCT) at The Arctic University of Norway in Tromsø. For the              and ‘Bryozoan’ (Supplementary Data 8). Assignments of Bos sp., Sus scrofa,
+bioinformatics pipeline, we used the OBITools software package77 following26.    Canis lupus and Equus caballus/sp., could not be differentiated between wild
+     We performed a plant taxonomic assignments of sedaDNA meta-                 and domestic animals (aurochs/cattle, wild boar/pig, wolf/dog and wild/
+barcodes using the following stepwise ﬁltering process:                          domestic horse, respectively). Consequently, these taxa were not considered
+  1. Identifying the sequences in relevant databases. We used four reference     as domesticates in our analyses, but ‘Others’, as well as donkey (Equus cf.
+     databases for plant sequences: PhyloAlps26, PhyloNorway78,                  asinus), due to its scarce presence. We removed other invertebrates (worms
+     ArctBorBryo79–81, and EMBL rl14382. Note that the ﬁrst two only             and bryozoans) from our analysis, as they are regarded as by-catch when
+     contain vascular plants whereas the latter two also include bryophytes.     using a primer targeting mammal DNA. After ﬁltering, we retained 30 taxa.
+     Algae are generally poorly represented in reference libraries, but some          We used the RAI deﬁned by ref. 26 to represent the relative proportion
+     are present in EMBL. Those with a 100% match to the reference               of plant and animal taxa (Supplementary Data 4, 5, 9, 10), calculated as the
+     sequence, and that appeared in more than one PCR replicate, were kept       product of the proportion of weighted PCR replicates, as deﬁned by ref. 74,
+     while the rest were discarded. We prioritised the PhyloAlps database as     and the relative proportion of reads for each taxon.
+     a conﬁdent source in case of 100% match to several databases, as it is a
+     speciﬁc database for the ﬂora of the Alps and Pyrenees.                     Ordination
+  2. Identifying and discarding PCR/sequencing errors. For this task we ran      We explored changes in plant communities related to the presence of ani-
+     the LULU software83, which identiﬁed erroneous molecular opera-             mals by performing a transformation-based canonical Redundancy Ana-
+     tional taxonomic units (OTUs), so we grouped the information of these       lysis (tb-RDA) using the vegan R package84, since our data do not have a
+     assignment errors into the original sequence they derive from.              normal distribution. We included plant RAI data classiﬁed in categories for
+  3. Comparison to expert knowledge. Final taxonomic assignments for             every sample, and animal RAI data as explanatory variables. Plant data were
+     plant sequences were contrasted to the Pyrenees Flora Atlas (FLOR-          transformed using Hellinger standardisation, in order to remove differences
+     APYR, http://www.atlasﬂorapyrenaea.eu/src/home/index.php?idma=1),           in absolute abundances between samples85. We excluded sample
+     plant records from the Herbarium of Jaca (http://ﬂoragon.ipe.csic.es/),     TRAM_1b_3U_136.137, which corresponds to 5.1 ka BP, from the ordi-
+     and personal communication by botanical experts Daniel Gómez and            nation analysis because of its limited DNA content (only 18 taxa were
+     Federico Fillat70.                                                          identiﬁed in this sample, while the mean taxonomic richness excluding this
+  4. We ﬁnally retained 423 taxa (Supplementary Data 3) from the 529             sample was 117.7, see Supplementary Table 4 and Supplementary Fig. 13).
+     originally identiﬁed sequences (Supplementary Data 2). From the                    Characterising different grassland communities in the Tramacastilla
+     former pool, 2 were recognized as non-native, and 10 were ‘Positive         record, we expanded the whole group of plants associated with open
+     control’ identiﬁed, as expected, in positive controls from the post-PCR     landscapes (i.e. ‘Open landscape’, ‘Herbs’ and ‘Novel herbaceous taxa’) by
+     lab (Supplementary Data 3).                                                 accounting for every possible regional species within each taxon above the
+  5. To facilitate data visualisation and interpretation, we organised plant     species level, by considering that there is an equal chance of each species
+     taxa into 13 distinct groups, encompassing both individual taxa and         being present (i.e. a probability factor of one divided by the total possible
+     functional categories. Thus, we obtained the following categories: Abies    species within a taxon) (Supplementary Data 6). We added one variable to
+     alba, Algae, Bryophytes, Hydrophytes, Hygrophytes, Deciduous trees,         each of these species, following botanical expertise criteria and ref. 70, based
+     Open landscape, Novel herbaceous taxa, Herbs, Pinus, Shrubs, Other          on whether they are favoured by domesticates as grazing, trampling, ferti-
+     trees and Other plants (i.e. nemoral plants and pteridophyta) (Sup-         lisation, or both grazing and trampling (Supplementary Data 6).
+     plementary Data 3). Among these, we have classiﬁed all plants asso-                Using the RAI data of all plant taxa associated with open landscapes
+     ciated with open landscapes in three different categories: (1) ‘Novel       (i.e. ‘Open landscape’, ‘Herbs’ and ‘Novel herbaceous taxa’), and classiﬁed
+     herbaceous taxa’, that correspond to herbs that appeared for the ﬁrst       according to the way they are favoured by domesticates, we performed
+     time only after domestic animal sedaDNA sequences were present in           another ordination analysis (tb-RDA) to see how related they are with the
+     the record (6.5 ka BP onwards), despite these taxa are not introduced or    presence of animals. We included animal RAI data as explanatory variables,
+     invasive; (2) ‘Herbs’, that are herbaceous taxa associated with current     although we only kept red deer (Cervus elaphus) from the ‘Wild mammal’
+     Pyrenean pastures70; and (3) ‘Open landscape’, that are not necessarily     group for this dataset (Supplementary Data 8) so as to be able to see the
+     herbaceous taxa typical from Pyrenean pastures, but generally asso-         speciﬁc signal of the most common herbivore in the record on grasslands. As
+     ciated with open landscapes (e.g. Veronica serpyllifolia, Pedicularis       with the previous tb-RDA, plant RAI data were transformed using Hellinger
+     sylvatica). We discarded Algae, Bryophytes, Hydrophytes, and                standardisation and sample TRAM_1b_3U_136.137 was excluded.
+     Hygrophytes to retain only terrestrial vascular plants for analysis.
+                                                                                 Rate of change
+     Animal sequences were taxonomically assigned using the EMBL rl143           In order to see how the composition of ecological communities has changed
+database, retaining those with a 95% match or higher, detected in at least one   over time we performed a Rate-of-Change (RoC) analysis with R-Ratepol R
+PCR replicate, and with at least 10 reads in the entire dataset. We further      package86 using the RAI data of plant and animal taxa. So as to have par-
+removed detections in the PCR replicates if they were represented by two or      simonious yet consistent results and ensure the uniqueness of all taxa
+fewer reads. We discarded sequences that were identiﬁed as human (Homo           included in RoC analysis, we grouped together those plants that could be
+sapiens) using a blacklist (v2.1, see https://github.com/pheintzman/             nested in other groups that had lower taxonomic resolution. For instance, all
+metabarcoding), as it is a common contaminant. This resulted in a data-          sequences identiﬁed as species from the Asteraceae family were grouped
+set of 543 taxonomically assigned sequences that were collapsed into 110         together under ‘Asteraceae’, as some sequences could not be identiﬁed below
+taxa based on identical taxonomic information. We then manually curated          the family category, so those plants identiﬁed with coarser resolution could
+these assignments and removed ﬁve Nuclear-Mitochondrial DNA Segment              be included. This software allows for the detection of points where com-
+(NUMTs) sequences and four contaminant taxa that were found in the               munity composition signiﬁcantly changes. We performed 10,000 rando-
+negative controls and were non-native to Europe (Supplementary Data 7).          misations, using ‘chisq’ dissimilarity coefﬁcient, and ‘levels’ as working
+We then recollapsed our curated taxonomic assignments, resulting in a ﬁnal       units. Because the median value of our data was 0, we used the mean value of
+dataset of 62 animal taxa (Supplementary Data 8).                                all RAI data (5) as the number of individuals from each working unit to
+
+
+Communications Earth & Environment | (2025) 6:48                                                                                                               7
+https://doi.org/10.1038/s43247-025-02023-8                                                                                                               Article
+
+standardise the variables in the assemblage dataset. In addition, and fol-           14. Walker, M. et al. Formal ratiﬁcation of the subdivision of the Holocene
+lowing the RoC workﬂow, we included age uncertainties from an age-depth                  Series/Epoch (Quaternary System/Period): two new Global Boundary
+model from Bchron R package (v4.7.687).                                                  Stratotype Sections and Points (GSSPs) and three new stages/
+                                                                                         subseries. Episodes 41, 213–223 (2018).
+Reporting summary                                                                    15. Carrer, F. & Migliavacca, M. Prehistoric Transhumance in the Northern
+Further information on research design is available in the Nature Portfolio              Mediterranean. In The Textile Revolution in Bronze Age Europe (eds.
+Reporting Summary linked to this article.                                                Sabatini, S. & Bergerbrant, S.) 217–238 (Cambridge University Press,
+                                                                                         2019) https://doi.org/10.1017/9781108656405.009.
+Data availability                                                                    16. García-Ruiz, J. M. et al. Transhumance and long-term deforestation in
+Raw sedaDNA sequence data have been deposited at the European                            the subalpine belt of the central Spanish Pyrenees: an interdisciplinary
+Nucleotide Archive (ENA) under BioProject (accession number                              approach. CATENA 195, 104744 (2020).
+PRJEB83695). Blacklists and data ﬁltering R scripts are on Github (https://          17. Carrión, J. S. et al. Expected trends and surprises in the Lateglacial
+github.com/irenejulianposada/tramacastilla_lake_sedaDNA.git). All pro-                   and Holocene vegetation history of the Iberian Peninsula and Balearic
+cessed data and the numerical workﬂow of this article are stored on Github               Islands. Rev. Palaeobot. Palynol. 162, 458–475 (2010).
+and Zenodo (https://doi.org/10.5281/zenodo.14530281), for later integra-             18. Galop, D., Rius, D., Cugny, C. & Mazier, F. A. History of Long-Term
+tion in Neotoma (https://www.neotomadb.org/). All other data and infor-                  Human-Environment Interactions in the French Pyrenees Inferred
+mation needed to replicate the ﬁndings is in Supplementary Information                   from the Pollen Data. In Continuity and Change in Cultural Adaptation
+and Supplementary Data.                                                                  to Mountain Environments: From Prehistory to Contemporary Threats
+                                                                                         (ed. Lozny, L. R.) 7, 19–30 (Springer New York, New York, 2013).
+Received: 15 July 2024; Accepted: 10 January 2025;                                   19. Garcés-Pastor, S. et al. Environmental history and vegetation
+Published online: 24 January 2025                                                        dynamics in response to climate variations and human pressure
+                                                                                         during the Holocene in Bassa Nera, Central Pyrenees. Palaeogeogr.,
+References                                                                               Palaeoclimatol., Palaeoecol. 479, 48–60 (2017).
+1.    Blondel, J. The ‘Design’ of Mediterranean Landscapes: a millennial             20. Morales‐Molino, C. et al. Millennial land use explains modern high‐
+      story of humans and ecological systems during the historic period.                 elevation vegetation in the submediterranean mountains of Southern
+      Hum. Ecol. 34, 713–729 (2006).                                                     Europe. J. Biogeogr. 49, 1779–1792 (2022).
+2.    Revelles, J. et al. Human-environment interaction during the                   21. Rius, D., Vanniére, B. & Galop, D. Holocene history of ﬁre, vegetation
+      Mesolithic- Neolithic transition in the NE Iberian Peninsula. Vegetation           and land use from the central Pyrenees (France). Quat. Res. 77, 54–64
+      history, climate change and human impact during the Early-Middle                   (2012).
+      Holocene in the Eastern Pre-Pyrenees. Quat. Sci. Rev. 184, 183–200             22. Rull, V., González-Sampériz, P., Corella, J. P., Morellón, M. & Giralt, S.
+      (2018).                                                                            Vegetation changes in the southern Pyrenean ﬂank during the last
+3.    Orengo, H. A., Palet, J. M., Ejarque, A., Miras, Y. & Riera, S. Shifting           millennium in relation to climate and human activities: the Montcortès
+      occupation dynamics in the Madriu–Peraﬁta–Claror valleys (Andorra)                 lacustrine record. J. Paleolimnol. 46, 387–404 (2011).
+      from the early Neolithic to the Chalcolithic: the onset of high mountain       23. González-Sampériz, P. et al. Environmental and climate change in the
+      cultural landscapes. Quat. Int. 353, 140–152 (2014).                               southern Central Pyrenees since the Last Glacial Maximum: a view
+4.    Branch, N. P., Black, S., Maggi, R. & Marini, N. A. F. The Neolithisation of       from the lake records. CATENA 149, 668–688 (2017).
+      Liguria (NW Italy): an environmental archaeological and                        24. Leunda, M. et al. The Late-Glacial and Holocene Marboré Lake
+      palaeoenvironmental perspective. Environ. Archaeol. 19, 196–213 (2014).            sequence (2612 m a.s.l., Central Pyrenees, Spain): Testing high
+5.    Allentoft, M. E. et al. Population genomics of post-glacial western                altitude sites sensitivity to millennial scale vegetation and climate
+      Eurasia. Nature 625, 301–311 (2024).                                               variability. Glob. Planet. Change 157, 214–231 (2017).
+6.    Manen, C. Dynamiques spatio-temporelles et culturelles de la                   25. Pérez-Sanz, A. et al. Holocene climate variability, vegetation
+      néolithisation ouest-méditerranéenne. in La transition néolithique en              dynamics and ﬁre regime in the central Pyrenees: the Basa de la Mora
+      Méditerranée (eds. Manen, C., Perrin, T. & Guilaine, J.), 405–418                  sequence (NE Spain). Quat. Sci. Rev. 73, 149–169 (2013).
+      (Toulouse, 2014).                                                              26. Garcés-Pastor, S. et al. High resolution ancient sedimentary DNA
+7.    Zeder, M. A. Domestication and early agriculture in the Mediterranean              shows that alpine plant diversity is associated with human land use
+      Basin: origins, diffusion, and impact. Proc. Natl Acad. Sci. USA 105,              and climate change. Nat. Commun. 13, 6559 (2022).
+      11597–11604 (2008).                                                            27. Giguet-Covex, C. et al. Long livestock farming history and human
+8.    Marquer, L. et al. Quantifying the effects of land use and climate on              landscape shaping revealed by lake sediment DNA. Nat. Commun. 5,
+      Holocene vegetation in Europe. Quat. Sci. Rev. 171, 20–37 (2017).                  3211 (2014).
+9.    McClure, S. B. Domesticated animals and biodiversity: early                    28. Giguet-Covex, C. et al. Long-term trajectories of mountain agro-
+      agriculture at the gates of Europe and long-term ecological                        ecosystems in the North-Western Alps. Reg. Environ. Change 23, 58
+      consequences. Anthropocene 4, 57–68 (2013).                                        (2023).
+10.   Mottl, O. et al. Global acceleration in rates of vegetation change over        29. van Vugt, L. et al. Pollen, macrofossils and sedaDNA reveal climate
+      the past 18,000 years. Science 372, 860–864 (2021).                                and land use impacts on Holocene mountain vegetation of the
+11.   Ameztegui, A., Coll, L., Brotons, L. & Ninot, J. M. Land-use legacies              Lepontine Alps, Italy. Quat. Sci. Rev. 296, 107749 (2022).
+      rather than climate change are driving the recent upward shift of the          30. Morlock, M. A., Rodriguez‐Martinez, S., Huang, D. Y. & Klaminder, J.
+      mountain tree line in the Pyrenees. Glob. Ecol. Biogeogr. 25, 263–273              Erosion regime controls sediment environmental DNA ‐based
+      (2016).                                                                            community reconstruction. Environ. DNA 5, 1393–1404 (2023).
+12.   Galop, D. & Jalut, G. Differential human impact and vegetation history         31. Saña, M., Antolín, F., Alcántara, R., Sierra, A. & Tornero, C. Integrating
+      in two adjacent Pyrenean valleys in the Ariège basin, southern France,             domesticates: earliest farming experiences in the Iberian Peninsula. In
+      from 3000 B.P. to the present. Veget. Hist. Archaebot. 3, 225–244                  Farmers at the Frontier: A Pan European Perspective on Neolithisation
+      (1994).                                                                            (eds. Gron, K. J., Sorensen, L. & Rowley-Conwy, P.) 161–175 (Oxbow
+13.   Muñoz-Ulecia, E. et al. Drivers of change in mountain agriculture: A               Books, Oxford, 2020).
+      thirty-year analysis of trajectories of evolution of cattle farming            32. Gassiot-Ballbè, E. et al. The Beginnning of High Mountain
+      systems in the Spanish Pyrenees. Agric. Syst. 186, 102983 (2021).                  Occupations in the Pyrenees. Human Settlements and Mobility from
+
+
+Communications Earth & Environment | (2025) 6:48                                                                                                                 8
+https://doi.org/10.1038/s43247-025-02023-8                                                                                                              Article
+
+      18,000 cal BC to 2000 cal BC. In High Mountain Conservation in a                   pastoralisme dans les Pyrénées (ed. Rendu, C.) 175–203 (Le Pas
+      Changing World (eds. Catalan, J., Ninot, J. M. & Aniz, M. M.) vol. 62              d’oiseau, Toulouse, 2016).
+      75–106 (Springer Nature, Cham, 2017).                                        52.   Galop, D. Estives d’Ossau: 7000 ans de pastoralisme dans les
+33.   Laborda, R. El Neolítico antiguo en el Valle Medio del Ebro. Una visión            Pyrénées. (le Pas d’oiseau FRAMESPA Parc national des Pyrénées,
+      desde la cerámica y las dataciones radiocarbónicas. (Prensas de la                 Toulouse Tarbes, 2016).
+      Universidad de Zaragoza, 2019).                                              53.   Sierra, A. et al. Sheep husbandry in the early Neolithic of the Pyrenees:
+34.   Navarrete, V. et al. Early husbandry practices in highland areas during            new data on feeding and reproduction in the cave of Chaves. J.
+      the Neolithic: the case of Coro Trasito cave (Huesca, Spain). Front.               Archaeol. Sci. Rep. 37, 102935 (2021).
+      Environ. Archaeol. 2, 1309907 (2023).                                        54.   Tejedor-Rodríguez, C. et al. Investigating Neolithic caprine husbandry
+35.   Antolín, F., Navarrete, V., Saña, M., Viñerta, Á. & Gassiot, E. Herders in         in the Central Pyrenees: insights from a multi-proxy study at Els Trocs
+      the mountains and farmers in the plains? A comparative evaluation of               cave (Bisaurri, Spain). PLoS ONE 16, e0244139 (2021).
+      the archaeobiological record from Neolithic sites in the eastern Iberian     55.   Sierra, A., Laborda, R., Saña, M. & Montes, L. Pastos en altura: el
+      Pyrenees and the southern lower lands. Quat. Int. 484, 75–93 (2018).               Neolítico antiguo de La Espluga de la Puyascada (La Fueva, Huesca).
+36.   Sierra, A., Bréhard, S., Montes, L., Utrilla, P. & Saña, M. Sheep                  TArqueo 26, 253–275 (2023).
+      exploitation and husbandry in ﬁrst farming societies: from production        56.   Utrilla, P. & Laborda, R. La cueva de Chaves (Bastarás, Huesca): 15
+      to consumption in Central Pyrenees in the Early Neolithic. Archaeol.               000 años de ocupación prehistórica. Trab. Prehist. 75, 248 (2018).
+      Anthropol. Sci. 11, 5813–5829 (2019).                                        57.   Galindo-Pellicena, M. A. et al. Metrical analysis of bovine bone
+37.   Utrilla, P. & Domingo, R. La transition Mésolithique-Néolithique dans              remains from the Neolithic to the Bronze Age at the El Portalón site
+      la Vallée de l’Èbre. The mesolithic-neolithic transition in the Ebro               (Atapuerca, Burgos) in the Iberian context. Quat. Int. 566–567,
+      Valley. In La transition néolithique en Méditerranée. The Neolithic                211–223 (2020).
+      transition in the Mediterranean (eds. Manen, C., Perrin, T. & Guilaine,      58.   García-Ruiz, J. M., Palacios, D., Andrés, N. & López-Moreno, J. I.
+      J.) 327–358 (Errance, 2014).                                                       Neoglaciation in the Spanish Pyrenees: a multiproxy challenge. Med.
+38.   Edwards, M. E. The maturing relationship between Quaternary                        Geosci. Rev. 2, 21–36 (2020).
+      paleoecology and ancient sedimentary DNA. Quat. Res. 96, 39–47               59.   Tarrats, P. et al. Chironomid-inferred Holocene temperature
+      (2020).                                                                            reconstruction in Basa de la Mora Lake (Central Pyrenees). Holocene
+39.   Sand, K. K., Jelavić, S., Kjær, K. H. & Prohaska, A. Importance of eDNA            28, 1685–1696 (2018).
+      taphonomy and sediment provenance for robust ecological inference:           60.   Bernal-Wormull, J. L. et al. New insights into the climate of northern
+      Insights from interfacial geochemistry. Environ. DNA 6, e519 (2024).               Iberia during the Younger Dryas and Holocene: The Mendukilo multi-
+40.   Aurelle, D. et al. Biodiversity, climate change, and adaptation in the             speleothem record. Quat. Sci. Rev. 305, 108006 (2023).
+      Mediterranean. Ecosphere 13, e3915 (2022).                                   61.   Liu, M. et al. Holocene climates of the Iberian Peninsula: pollen-based
+41.   Barker, G. Agriculture, pastoralism, and Mediterranean landscapes in               reconstructions of changes in the west–east gradient of temperature
+      prehistory. In The Archaeology of Mediterranean Prehistory (eds.                   and moisture. Clim 19, 803–834 (2023).
+      Blake, E. & Knapp, A. B.) 46–76 (Wiley, 2005) https://doi.org/10.1002/       62.   Kaufman, D. et al. Holocene global mean surface temperature, a multi-
+      9780470773536.ch3.                                                                 method reconstruction approach. Sci. Data 7, 201 (2020).
+42.   García-Ruiz, J. M. et al. Los efectos geoecológicos del cambio global        63.   Jalut, G. Evolution de la végétation et variations climatiques durant les
+      en el Pirineo Central español: una revisión a distintas escalas                    quinze derniers millénaires dans l’extrémité orientale des Pyrénées.
+      espaciales y temporales. Pirineos 170, e012 (2015).                                (Touluse III, 1974).
+43.   Pini, R. et al. From pristine forests to high‐altitude pastures: an          64.   Reille, M. & Lowe, J. J. A re-evaluation of the vegetation history of the
+      ecological approach to prehistoric human impact on vegetation and                  eastern Pyrenees (France) from the end of the last glacial to the
+      landscapes in the western Italian Alps. J. Ecol. 105, 1580–1597 (2017).            present. Quat. Sci. Rev. 12, 47–77 (1993).
+44.   Schwörer, C., Colombaroli, D., Kaltenrieder, P., Rey, F. & Tinner, W.        65.   Jalut, G., Andrieu, V., Delibrias, G., Fontugne, M. & Pages, P.
+      Early human impact (5000–3000 BC) affects mountain forest dynamics                 Palaeoenvironment of the Valley of Ossau (western French Pyrénées)
+      in the Alps. J. Ecol. 103, 281–295 (2015).                                         during the last 27000 years. Pollen Spores 30, 357–393 (1988).
+45.   Walsh, K. et al. A historical ecology of the Ecrins (Southern French         66.   Büntgen, U. et al. Placing unprecedented recent ﬁr growth in a
+      Alps): Archaeology and palaeoecology of the Mesolithic to the                      European‐wide and Holocene‐long context. Front. Ecol. Environ. 12,
+      Medieval period. Quat. Int. 353, 52–73 (2014).                                     100–106 (2014).
+46.   Pini, R. et al. Life on a hilltop: vegetation history, plant husbandry and   67.   Kozáková, R. et al. Contrasting local and regional Holocene histories
+      pastoralism at the dawn of Bergamo-Bergomum (northern Italy, 15th                  of Abies alba in the Czech Republic in relation to human impact:
+      to 7th century bc). Veget. Hist. Archaeobot. 30, 525–553 (2021).                   Evidence from forestry, pollen and anthracological data. Holocene 21,
+47.   Segnana, M. et al. Holocene vegetation history and human impact in                 431–444 (2011).
+      the eastern Italian Alps: a multi-proxy study on the Coltrondo peat          68.   Tinner, W. et al. The past ecology of Abies alba provides new
+      bog, Comelico Superiore, Italy. Veget. Hist. Archaeobot. 29, 407–426               perspectives on future responses of silver ﬁr forests to global
+      (2020).                                                                            warming. Ecol. Monogr. 83, 419–439 (2013).
+48.   Turner, J. The anthropogenic factor in vegetational history. New             69.   Vandenberghe, C., Freléchoux, F., Moravie, M.-A., Gadallah, F. &
+      Phytologist 63, 73–90 (1964).                                                      Buttler, A. Short-term effects of cattle browsing on tree sapling growth
+49.   Cugny, C., Mazier, F. & Galop, D. Modern and fossil non-pollen                     in mountain wooded pastures. Plant Ecol. 188, 253–264 (2007).
+      palynomorphs from the Basque mountains (western Pyrenees,                    70.   Fillat, F., González, R. G., García, D. G., Gómez, D. & Reiné, R. Pastos
+      France): the use of coprophilous fungi to reconstruct pastoral activity.           del Pirineo (Editorial CSIC - CSIC Press, 2008).
+      Veget. Hist. Archaeobot. 19, 391–408 (2010).                                 71.   García-Ruiz, J. M., Valero-Garcés, B. L., Martí-Bono, C. & González-
+50.   Alcolea, M., Utrilla, P., Piqué, R., Laborda, R. & Mazo, C. Fuel and               Sampériz, P. Asynchroneity of maximum glacier advances in the
+      acorns: early Neolithic plant use from Cueva de Chaves (NE Spain).                 central Spanish Pyrenees: glaciar advances in the Spanish Pyrenees.
+      Quat. Int. 457, 228–239 (2017).                                                    J. Quat. Sci. 18, 61–72 (2003).
+51.   Dumontier, P., Courtaud, P., Armand, D., Convertini, F. & Ferrier, C.        72.   Blaauw, M. & Christen, J. A. Flexible paleoclimate age-depth models
+      Entre montagne et piémont, témoignages agropastoraux du                            using an autoregressive gamma process. Bayesian Anal. 6, 457–474
+      Néolithique à l’âge du Fer. In Estives d’Ossau: 7000 ans de                        (2011).
+
+
+Communications Earth & Environment | (2025) 6:48                                                                                                                9
+https://doi.org/10.1038/s43247-025-02023-8                                                                                                                  Article
+
+73. Reimer, P. J. et al. The IntCal20 Northern hemisphere radiocarbon age            Sánchez for their help in the ﬁeld campaigns, and Elena Royo and Inés de la
+    calibration curve (0–55 cal kBP). Radiocarbon 62, 725–757 (2020).                Parra for the laboratory work. Bioinformatic analyses were performed on
+74. Rijal, D. P. et al. Sedimentary ancient DNA shows terrestrial plant              resources provided by UNINETT Sigma2–the National Infrastructure for High
+    richness continuously increased over the Holocene in northern                    Performance Computing and Data Storage in Norway.
+    Fennoscandia. Sci. Adv. 17, eabf9557 (2021).
+75. Taberlet, P. et al. Power and limitations of the chloroplast trnL (UAA) intron   Author contributions
+    for plant DNA barcoding. Nucleic Acids Res. 35, e14–e14 (2007).                  Penélope González-Sampériz and Graciela Gil-Romera conceived the
+76. Voldstad, L. H. et al. A complete Holocene lake sediment ancient DNA             study; Penélope González-Sampériz and Ana Moreno acquired the funding;
+    record reveals long-standing high Arctic plant diversity hotspot in              Graciela Gil-Romera coordinated the ﬁeld expedition; Graciela Gil-Romera,
+    northern Svalbard. Quat. Sci. Rev. 234, 106207 (2020).                           Irene Julián-Posada, Ana Moreno, Blas Valero-Garcés, Javier Lara-Recuero
+77. Boyer, F. et al. OBITOOLS: a UNIX-inspired software package for DNA              and Penélope González-Sampériz performed the ﬁeldwork campaign; Irene
+    metabarcoding. Mol. Ecol. Resour. 16, 176–182 (2016).                            Julián-Posada, Sandra Garcés-Pastor and Pere Bover sampled the sedi-
+78. Alsos, I. G. et al. The treasure vault can be opened: large-scale                mentary archive; Irene Julián-Posada, Sandra Garcés-Pastor and Peter D.
+    genome skimming works well using herbarium and silica gel dried                  Heintzman did the sedaDNA sequencing and built the molecular libraries;
+    material. Plants 9, 432 (2020).                                                  Sandra Garcés-Pastor, Peter D. Heintzman and Inger G. Alsos did the
+79. Soininen, E. M. et al. Highly overlapping winter diet in two sympatric           sedaDNA bioinformatics; Graciela Gil-Romera,Ana Moreno and Blas Valero-
+    lemming species revealed by DNA metabarcoding. PLoS ONE 10,                      Garcés performed the depth-age model and the sedimentological analyses;
+    e0115335 (2015).                                                                 Irene Julián-Posada and Graciela Gil-Romera did all numerical analyses and
+80. Sønstebø, J. H. et al. Using next‐generation sequencing for molecular            integrated them in an open workﬂow; Irene Julián-Posada, Graciela Gil-
+    reconstruction of past Arctic vegetation and climate. Mol. Ecol.                 Romera and Penélope González-Sampériz led the writing; Lourdes Montes,
+    Resour. 10, 1009–1018 (2010).                                                    Alejandro Sierra and Javier Lara-Recuero wrote the archaeological synth-
+81. Willerslev, E. et al. Fifty thousand years of Arctic vegetation and              esis; Daniel Gómez and Federico Fillat contributed data and knowledge on
+    megafaunal diet. Nature 506, 47–51 (2014).                                       current day grass community ecology. Each author contributed to the writing
+82. Kanz, C. The EMBL nucleotide sequence database. Nucleic Acids                    process and provided signiﬁcant intellectual input.
+    Res. 33, D29–D33 (2004).
+83. Frøslev, T. G. et al. Algorithm for post-clustering curation of DNA              Competing interests
+    amplicon data yields reliable biodiversity estimates. Nat. Commun. 8,            The authors declare no competing interests.
+    1188 (2017).
+84. Oksanen, J. et al. Vegan: Community Ecology Package (2022).                      Additional information
+85. Legendre, P. & Gallagher, E. D. Ecologically meaningful                          Supplementary information The online version contains
+    transformations for ordination of species data. Oecologia 129,                   supplementary material available at
+    271–280 (2001).                                                                  https://doi.org/10.1038/s43247-025-02023-8.
+86. Mottl, O. et al. Rate-of-change analysis in paleoecology revisited: a
+    new approach. Rev. Palaeobot. Palynol. 293, 104483 (2021).                       Correspondence and requests for materials should be addressed to
+87. Parnell, A. C., Haslett, J., Allen, J. R. M., Buck, C. E. & Huntley, B. A        Irene Julián-Posada, Graciela Gil-Romera or Penélope González-Sampériz.
+    ﬂexible approach to assessing synchroneity of past events using
+    Bayesian reconstructions of sedimentation history. Quat. Sci. Rev. 27,           Peer review information Communications Earth & Environment thanks
+    1872–1885 (2008).                                                                Laurent Bremond and the other, anonymous, reviewer(s) for their
+88. Ninyerola, M., Pons, X. & Roure, J. M. Atlas Climático Digital de La             contribution to the peer review of this work. Primary Handling Editor:
+    Península Ibérica. Metodología y Aplicaciones En Bioclimatología y               Carolina Ortiz Guerrero. A peer review ﬁle is available.
+    Geobotánica (Universidad Autónoma de Barcelona, Bellaterra Data,
+    2005).                                                                           Reprints and permissions information is available at
+                                                                                     http://www.nature.com/reprints
+Acknowledgements
+Funding for this research was provided by the Spanish Ministry of Science and        Publisher’s note Springer Nature remains neutral with regard to
+Innovation through the PYCACHU project (PID2019-106050RB-I00), GAPS                  jurisdictional claims in published maps and institutional afﬁliations.
+AND DATES project (PID2020-116598GB-I00), CORREDORAS project
+(PID2022-141558NB-I00) and PASTORA project (OAPN, ref. 2852/2022), as                Open Access This article is licensed under a Creative Commons
+well as the E02_23 R and H14-23R research groups of Gobierno de Aragón.              Attribution-NonCommercial-NoDerivatives 4.0 International License,
+Irene Julián Posada was supported by a PhD fellowship provided by the                which permits any non-commercial use, sharing, distribution and
+Spanish Ministry of Science, Innovation and Universities (FPI PRE2020-               reproduction in any medium or format, as long as you give appropriate
+094749). We thank the Genomic Support Centre Tromsø (GSCT) at The Arctic             credit to the original author(s) and the source, provide a link to the Creative
+University of Norway for amplicon sequencing. Sandra Garcés Pastor, Peter D.         Commons licence, and indicate if you modiﬁed the licensed material. You
+Heintzman and Inger G. Alsos were supported by a Research Council of                 do not have permission under this licence to share adapted material
+Norway grant 250963/F20 for the ECOGEN project. Inger G. Alsos was also              derived from this article or parts of it. The images or other third party
+supported by The European Research Council (ERC) under the European                  material in this article are included in the article’s Creative Commons
+Union’s Horizon 2020 research and innovation programme grant agreement No            licence, unless indicated otherwise in a credit line to the material. If material
+819192 for the IceAGenT project. Sandra Garcés Pastor was also supported by          is not included in the article’s Creative Commons licence and your intended
+the Beatriu de Pinós Programme (BP-2021-00131). Peter D. Heintzman                   use is not permitted by statutory regulation or exceeds the permitted use,
+acknowledges support from the Knut and Alice Wallenberg Foundation (KAW              you will need to obtain permission directly from the copyright holder. To
+2021.0048 and KAW 2022.0033). Alejandro Sierra is supported by the Juan de           view a copy of this licence, visit http://creativecommons.org/licenses/by-
+la Cierva Formación (FJC2020-043414-I). We are grateful to the Gobierno de           nc-nd/4.0/.
+Aragón and the Tramacastilla de Tena town council for granting the permis-
+sions needed for the sampling process. We thank Miguel Bartolomé, Marcel             © The Author(s) 2025, modiﬁed publication 2026
+Galofré, Kilian Jungkeit-Milla, Reyes Giménez, Benito Pérez, Jorge Pey, Pedro
+
+
+Communications Earth & Environment | (2025) 6:48                                                                                                                   10
+

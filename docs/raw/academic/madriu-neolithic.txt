@@ -1,0 +1,616 @@
+                                                                 Quaternary International 353 (2014) 140e152
+
+
+
+                                                              Contents lists available at ScienceDirect
+
+
+                                                             Quaternary International
+                                                journal homepage: www.elsevier.com/locate/quaint
+
+
+
+
+Shifting occupation dynamics in the MadriuePeraﬁtaeClaror valleys
+(Andorra) from the early Neolithic to the Chalcolithic: The onset of
+high mountain cultural landscapesq
+Hector A. Orengo a, b, *, Josep M. Palet b, Ana Ejarque b, c, Yannick Miras d, e, Santiago Riera f
+a
+  Department of Archaeology, University of Nottingham, University Park, NG7 2RD Nottingham, UK
+b
+  Landscape Archaeology Research Group (GIAP) e Catalan Institute of Classical Archaeology (ICAC), Pl. Rovellat s/n, 43003 Tarragona, Spain
+c
+  School of Earth Sciences & Environmental Sustainability, Northern Arizona University, 602 S Humphreys, AZ 86011 Flagstaff, Arizona, US
+d
+  CNRS, GEOLAB, UMR 6042, Laboratoire de Géographique physique et environnementale, 4 rue Ledru, F-63057 Clermont-Ferrand, France
+e
+  Clermont Université, Université Blaise Pascal, GEOLAB, Maison des Sciences de l’Homme, BP 10448, F-63000 Clermont-Ferrand, France
+f
+  Seminar of Prehistoric Study and Research (SERP), Department of Prehistory, Ancient History and Archaeology, University of Barcelona, C. Montalegre 6,
+08001 Barcelona, Spain
+
+
+
+
+a r t i c l e i n f o                                   a b s t r a c t
+
+Article history:                                        The MadriuePeraﬁtaeClaror valleys (MPCV) (Eastern Pyrenees, Andorra) were the focus of a multidis-
+Available online 18 February 2014                       ciplinary microregional landscape research project that aimed to study the long term shaping of this
+                                                        UNESCO World Heritage Site in the category of cultural landscape. The study area is situated on a glacial
+                                                        modelled high mountain environment ranging from 1250 to 2800 m.a.s.l.
+                                                           Multidisciplinary approaches integrating archaeology and palaeoenvironment have been directed towards
+                                                        the unravelling of the long-term humanelandscape relationships, which ultimately resulted in the MPCV
+                                                        cultural landscape. The development of high-resolution temporal and spatial studies could successfully
+                                                        correlate archaeological and palaeoenvironmental data. This study leads to the location of more than 400
+                                                        archaeological structures, 55 of which were excavated, and the multiproxy study of 7 palaeoenvironmental
+                                                        sequences. The combination and analysis of all these data have permitted developing a history of human
+                                                        eenvironment interactions from the Mesolithic to the 20th century. In this paper, data gathered in the MPCV
+                                                        corresponding to the Neolithic and Chalcolithic periods are presented for the ﬁrst time.
+                                                           During the Early Neolithic small groups are documented with a diversiﬁed economy in which grazing,
+                                                        hunting, ﬁshing, gathering and an incipient cereal agriculture activities are well represented. These
+                                                        groups seem to follow highly mobile occupation patterns with continuous high mountain seasonal
+                                                        grazing exploitations that lasted one or two centuries. They appear to frequent diverse altitudinal belts in
+                                                        order to take advantage of different resources. A strong pastoral orientation is related to the exploitation
+                                                        of high mountain areas.
+                                                           During the Middle/late Neolithic human groups show a higher degree of sedentism. Hunting and
+                                                        gathering are still important activities although agriculture and animal husbandry increase in impor-
+                                                        tance. During this period an augmentation in the pastoral pressure in the MPCV is also documented,
+                                                        linked to the ﬁrst use of ﬁres to create grazing areas. Symbolic landscape appropriation practices are also
+                                                        ﬁrstly documented during this period.
+                                                           During the Chalcolithic, human landscape use becomes intensive enough to cause permanent land-
+                                                        scape changes. The upper parts of the MPCV are deforested by the action of ﬁre while intensive agri-
+                                                        culture takes place at the lower valleys.
+                                                           The evidence presented by the MPCV project demonstrates that it was during the Neolithic when this
+                                                        high mountain cultural landscape was ﬁrstly formed. This process is probably related to an increase in
+                                                        the population and progressive sedentism, which required a more intensive and organised use of re-
+                                                        sources and, eventually, the adoption of landscape management practices.
+                                                                                                               Ó 2014 Elsevier Ltd and INQUA. All rights reserved.
+
+
+
+
+    q This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/3.0/).
+    * Corresponding author.
+      E-mail address: Hector.Orengo@nottingham.ac.uk (H.A. Orengo).
+
+1040-6182/$ e see front matter Ó 2014 Elsevier Ltd and INQUA. All rights reserved.
+http://dx.doi.org/10.1016/j.quaint.2014.01.035
+                                                      H.A. Orengo et al. / Quaternary International 353 (2014) 140e152                                            141
+
+
+
+
+              Fig. 1. Location of the study area, the archaeological structures dated to the Neolithic, and the palaeoenvironmental registers used in the text.
+
+
+
+
+1. Introduction                                                                          study aims to explore this topic and, by doing so, endeavours to
+                                                                                         unravel the social, economic and environmental factors involved in
+    High mountain European areas, which for a long time have been                        its shaping, the landscape management tools employed, and the
+considered marginal spaces due to their extreme climatic condi-                          social, economic and environmental outcomes of the MPCV
+tions and topography, are acknowledged today as human induced                            Neolithic occupation.
+environments and, in consequence, cultural landscapes. Palae-                                Palaeoenvironmental studies have provided evidence of human
+oenvironmental and archaeological research in these highlands                            impact in European High mountain areas since the early Neolithic
+have played an important role in the conceptualisation of high                           (e.g. Ejarque et al., 2010; Orengo, 2010). However, the characteri-
+mountain areas as cultural landscapes proving that human occu-                           sation of this impact in cultural terms has been largely neglected.
+pation and landscape management practices can be traced back to                          This can be related to the lack of proper integration of palae-
+the Mesolithic period (Oeggl and Wahlmüller, 1993; Biagi and                             oenvironmental studies and archaeological research. In this regard,
+Nandris, 1994; Galop, 1998; Moe and Hjelle, 1999; Rendu, 2003;                           archaeology can be considered as a much needed proxy able to
+Efstratiou et al., 2006; Palet et al., 2007; Ejarque et al., 2010;                       provide cultural explanations for the earliest human impacts in
+Orengo, 2010; Palet et al., 2010; Ejarque, 2013; Servera et al., 2014).                  high mountain environments reﬂected in the palaeoenvironmental
+    The MadriuePeraﬁtaeClaror valleys (MPCV) (Eastern Pyrenees,                          record (see, for later periods, Orengo et al., 2013, 2014). Thus, this
+Andorra) were the object of a transdisciplinary microregional                            paper fulﬁls a double purpose: to show how archaeological data can
+landscape research project, aiming to study the long term shaping                        provide meaningful explanations to changes in the palae-
+of this high mountain area listed as a UNESCO World Heritage Site                        oenvironmental record by relating them to demographic, cultural
+in the category of Cultural Landscape. Although the MPCV project                         and socio-economic factors and, by doing so, to contribute to the
+employed a long-term diachronic research perspective, this paper                         analysis of the creation and development of high mountain cultural
+will focus on the results obtained for the Neolithic period. The                         landscapes.
+project’s general research objective of studying the long-term
+shaping of cultural landscapes is here reduced to focus on the                           2. The physical setting
+ﬁrst human landscape modiﬁcations recorded in the study area
+and, therefore, it attempts to analyse the onset of Pyrenean high-                           The MPCV valley, ranging from 1250 to 2800 m.a.s.l., is located at
+mountain cultural landscapes. As discussed elsewhere (Ejarque                            the axial area of the Eastern Pyrenees, Andorra. It follows an NWe
+and Orengo, 2009), the formation of cultural landscapes follows a                        SE orientation and it is formed by the main Madriu valley and the
+cumulative process in which earlier landscape modiﬁcations                               PeraﬁtaeClaror valley (Fig. 1). The geomorphology of the study area
+determine future human uses of the landscape. Therefore, under-                          is characterised by glacial, periglacial and ﬂuvial modelling. The
+standing the origins of cultural landscapes, in this case the ﬁrst                       granitic geologic substratum, formed by granodiorites and biotite,
+humanelandscape modiﬁcations in the high mountain Pyrenees, is                           creates in this area a very abrupt relief characterised by steep cliff-
+essential for the correct analysis of their long-term evolution. This                    like slopes, glacial cirques, and tarns where lakes and peatbogs
+142                                          H.A. Orengo et al. / Quaternary International 353 (2014) 140e152
+
+
+have been formed. Periglacial deposits of lobular morphology that               ﬁeld walking allowed the veriﬁcation of these structures and the
+expanded from the glacial cirques are also found in the upper parts             incorporation of new ones. Field walking was also useful in
+of the Madriu valley. These valleys form in their lower areas narrow            assessing preservation issues and the typological diversity of the
+V shaped sections as a result of glacial modelling and subsequent               structures. These criteria were essential in selecting those struc-
+Holocene slope scree deposits. The upper parts present an open                  tures ﬁt for test pit digging. The information collected during
+morphology modelled by glacial cirques and ice transﬂuence                      photointerpretation and ﬁeld walking was incorporated in several
+processes.                                                                      vector layers linked to a database where the georeferenced plans of
+    The altitudinal variation and the slopes’ orientation promote               the structures and information related to typology, construction
+important vegetation diversity in the study area, characteristic of             techniques, surface material, and geographical setting, could be
+high mountain zones (Gómez, 2001). In the lower sectors of the                  queried.
+MPCV, from approximately 900 to 1700 m.a.s.l., a Scots pine (Pinus                  Of those structures located during ﬁeld walking the most
+sylvestris) forest dominates over mixed deciduous woodland and                  representative in terms of typology and preservation were
+occasional hazel (Corylus avellana) and silver birch (Betula pendula)           selected for archaeological excavation. Archaeological trenches
+formations. In the subalpine altitudinal belt the mountain pine                 covered an area of at least 2 m2. Their purpose was to record the
+(Pinus mugo ssp. uncinata) gradually increases its presence until,              typology of the excavated structure, to recover information
+approximately, 2300 m.a.s.l. Mountain pine is more dense and                    related to the human use of the landscape and to obtain adequate
+mixed with rhododendron in the northern slopes while in south                   samples for radiocarbon dating. The excavation process followed
+oriented slopes it is more dispersed and mixed with juniper.                    standard procedures of stratigraphic excavation. The limited time
+Furthermore, silver birch and silver ﬁr (Abies alba) are respectively           availability in high mountain archaeology, however, forced the
+present at the upper- and lower-most part of the subalpine                      adoption of a combination of digital photogrammetric recording
+woodland. From 2300 m.a.s.l. upwards Caricetalia curvulae alpine                and differential GPS measurements to record the excavation
+grasslands dominate the landscape until the appearance of massive               process (Orengo, 2013). This methodology permitted an accurate
+scree slope deposits and the vertical rock walls of the upper glacial           and fast recording of the excavation process and allowed the
+cirques at around 2600 m.a.s.l.                                                 generation of plans and proﬁles of both test pits and structures at
+                                                                                a later stage.
+3. Methodology                                                                      The excavation methodology included besides the standard
+                                                                                recording of all materials dry-sieving of all sediment from occu-
+   This ﬁve-year project included researchers from a diverse array              pation levels. Also, from each excavated stratum a minimum of four
+of palaeoenvironmental and historical sciences in order to unravel              litres of sediment was kept for environmental processing. For those
+the long-term humanelandscape relation, which ultimately resul-                 structures presenting adequate continuous sedimentation a
+ted in the MPCV cultural landscape. The approach is based on the                micromorphological core was retrieved to conduct micromorpho-
+integration of datasets from diverse nature, including palae-                   logical analysis at a later stage. Some natural soils located close to
+oenvironmental multi-proxy studies and archaeology. The meth-                   excavated archaeological structures were also excavated in order to
+odology followed in the project was designed to obtain a high                   correlate natural sedimentation to that documented inside human
+degree of correspondence between the archaeological and the                     occupation structures. This is particularly important since occu-
+palaeoenvironmental records based on the use of high-resolution                 pation levels inside prehistoric stone-made habitation structures
+temporal and spatial frameworks and the premise that local scale                are, typically, lower than the surface outside them. The excavation
+case studies is the most suitable approach to analyse humane                    of test pits outside the structures could conﬁrm whether or not
+environment interactions (Dearing et al., 2006), particularly in                occupation levels were limited to the space covered by the habi-
+upland environments (Davies, 2007; Ejarque et al., 2010).                       tation structure and were related to it. In this way, the excavator
+   In this regard, the MPCV offers an ideal setting: the presence of            could avoid dating levels preserved under the structure that were
+multiple peatbogs and lakes from which palaeoenvironmental se-                  previous to its construction.
+quences were obtained could be matched by numerous closely
+located multi-period archaeological sites.                                      3.2. Palaeoenvironmental multi-proxy analyses
+
+3.1. Archaeology                                                                   A total number of seven sequences from the MPCV were studied
+                                                                                for pollen analyses: two lakes and ﬁve fens. From these, only four
+   Archaeology, as a complementary proxy to those offered by                    provided Neolithic dates. In the Madriu valley the three studied
+palaeoenvironmental sciences, is particularly useful since it pro-              records are taken in such a way that follows an altitudinal range
+vides data speciﬁcally related to the use of the landscape. These               with distinctive vegetation settings (Fig. 1). Bosc dels Estanyons
+data are chronologically and spatially referenced. The attributes of            (BDE) is a small fen of 0.7 ha located within the subalpine mountain
+archaeological data allow the documentation of speciﬁc human                    forest belt at 2180 m.a.s.l. (Miras et al., 2007). Riu dels Orris (RDO) is
+action on the landscape that can be linked to human-related dis-                a black sedge acidic fen of 0.8 ha set on the tree limit of the sub-
+turbances in the palaeoenvironmental record by the use of high                  alpine pine woodland at 2390 m.a.s.l. (Ejarque et al., 2010). Forcat
+resolution chronological frameworks obtained through radio-                     (FOR) is an oligotrophic alpine lake at 2545 m.a.s.l. settled in a
+carbon dating of organic material recovered in well-deﬁned                      glacial basin of 3.5 ha surrounded by alpine grasslands (Ejarque,
+archaeological contexts.                                                        2013). In Peraﬁta valley, Planells de Peraﬁta (PDP) is a fen of
+   In order to retrieve a signiﬁcant amount of archaeological data,             2.9 ha located at 2240 m.a.s.l. in the tree limit of the subalpine pine
+total coverage survey was carried out. Geographic Information                   woodland. The fen is surrounded by a patchwork of open grass-
+Systems (GIS) software was employed to incorporate high resolu-                 lands and small pine groups (Miras et al., 2010). These multi-proxy
+tion orthophotographs (0.25 m/pixel), 1:5.000 digital maps,                     sequences include the study of pollen, non-pollen palynomorphs
+1:25.000 vegetation maps, 1:25.000 digital geomorphological                     (NPPs: fungal spores, parasites and stomata) micro- and macro-
+maps, and a 5 m/cell digital terrain model of the study area. These             charcoal. Details of the sampling and analytical procedures that
+data were employed in a ﬁrst assessment of the study area by                    were followed in the palaeoenvironmental study of these se-
+photointerpretation procedures (Orengo, 2010). On a second stage,               quences can be found in Miras et al. (2007, 2010), Ejarque et al.
+                                               H.A. Orengo et al. / Quaternary International 353 (2014) 140e152                                      143
+
+
+(2010) and Ejarque (2013). The inclusion of NPPs and macro-                       the structure. Its construction technique and size distinguishes it
+charcoal provides a local counterpart to the mainly regional char-                from later structures. Structure P009107 has walls made of local
+acter of the pollen record, providing altogether spatially precise                granitic stone cut in large pointed triangles. These stones were
+palaeoenvironmental information that can be analysed in                           assembled using the ‘ﬁsh-scale’ technique with their longest corner
+conjunction with nearby archaeological structures. Also, both the                 towards the interior of the structure, probably to avoid them falling
+relatively small size of the studied basins and the distribution of               towards the inner side of the structure. The early Neolithic in-
+multiple sequences in the different sectors of the MPCV offer a high              habitants reused this structure, which resulted in several occupa-
+spatial resolution, which allows the documentation of differences                 tion levels. P009110 was radiocarbon dated to 5544  69 cal. BC.
+in local dynamics that can be then compared with the distribution                 Levels P009106 and P009109 provided similar material culture to
+of archaeological sites.                                                          that of P009110, mainly local schist work debris and tools but also
+    The integration of palaeoenvironmental and archaeological data                local and extra-regional ﬂint debris (Fig. 4). This suggests a long
+was further achieved by employing high-resolution chronological                   occupation period for this structure. As in the case of all other
+parameters. The studied records had an accurate chronological                     occupation structures from the period, the occupation levels inside
+framing, each palaeoenvironmental register accounting for at least                the structure were excavated, and therefore, they were much lower
+two radiocarbon measurements for the Neolithic period. A                          than the ancient soil level outside the structure. This accounted for
+remarkably high temporal resolution can be observed for the RDO                   a good preservation of the structure’s occupation layers.
+fen during the early and middle Neolithic, with temporal intervals                   Structure M152 (Fig. 3) is a stone hut of small size located at
+between samples of ca. 55 years, and for the FOR lake during the                  2518 m.a.s.l. at Pleta de les Bacives I site, a natural enclosed space
+Late Neolithic, with temporal intervals between samples of ca. 25                 modelled by glacial movements. A ring of medium and big-sized
+years. In addition, at FOR ﬁne-resolution pollen analysis was con-                granitic stones demarcates the elongated circular habitation area
+ducted for the late NeolithiceChalcolithic transition, with the                   deﬁning an inner space of around 3 m2. This structure presents two
+analysis of contiguous 1 cm samples encompassing between ca.                      phases of occupation: the earlier corresponding to the early
+15e35 years of pollen rain (Ejarque, 2013).                                       Neolithic and the latest to the Late Roman period. As seen for the
+                                                                                  previous structure, the early Neolithic occupation levels were
+4. Results                                                                        excavated under the surface, possibly in order to preserve heat and
+                                                                                  reduce the need for high rooﬁng. The occupation level presented
+4.1. Archaeological results                                                       scarce material culture, including a hearth dated to 4481  112 cal.
+                                                                                  BC. Both the stratigraphic relationships between the excavated
+    A total of 421 multi-period structures were located and 55 of                 levels and the levels documented in a second test pit located a few
+these, corresponding to periods from the Neolithic to the 20th                    meters from this structure conﬁrmed that the M152 occupation
+century, were excavated. From the 30 AMS 14C dates from material                  level is conﬁned inside the limits of the structure and therefore the
+recovered in well-contextualised archaeological layers only 12                    conserved structure was part of the Neolithic habitation
+correspond to Neolithic occupation levels or ancient soil surfaces                construction.
+(Fig. 2). Six of these were obtained from occupation levels inside
+habitation stone structures while four others from occupation                     4.1.2. End of the middle Neolithic/late Neolithic
+levels inside enclosure structures. The last two correspond to                        P008 (Fig. 5) is also a habitation structure. As it was reused
+Neolithic soil levels with no associated structure.                               during the early medieval period, its original shape and construc-
+                                                                                  tion methods were not documented except from two small post-
+4.1.1. Early Neolithic                                                            holes associated to the occupation levels. These suggest that this
+    P009 (Fig. 3) is the earliest structure dated to this period. This            was a large roofed structure and therefore it probably was a habi-
+roughly circular structure of a maximum of 6 m in diameter in-                    tation space. Despite the lack of direct archaeological evidence of
+cludes several occupation layers. The ﬁrst one, P009107, is dated to              walls, the size of the trench (2  0.5 m) conﬁrms the bigger size of
+the Mesolithic period. This date corresponds to the construction of               this structure compared to that of other habitation structures. The
+
+
+
+
+                                      Fig. 2. Radiocarbon dates corresponding to the Neolithic occupation of the MPCV.
+144   H.A. Orengo et al. / Quaternary International 353 (2014) 140e152
+
+
+
+
+                                                                         Fig. 3. Plan and section of structures M152 and P009.
+                                               H.A. Orengo et al. / Quaternary International 353 (2014) 140e152                                        145
+
+
+
+
+                                               Fig. 4. Selected lithic material from occupation levels P008109.
+
+
+
+
+test pit excavation documented various prehistoric occupation                     4.1.3. Late Neolithic/Chalcolithic
+layers with stone tool production debris made from local schist. As                   The Els Estanys site (Fig. 6), consists of a group of four habitation
+in the case of previous habitation structures, the occupation area                structures, one enclosure and a large wall enclosing the main
+was lower than the external circulation level. The oldest occupation              habitation area. All elements present a similar construction style,
+level was dated to 3116  197 cal. BC. However, a previous radio-                 suggesting the contemporaneity of all structures. Additionally, ﬁve
+carbon date made on the early medieval (as proven by identiﬁed                    radiocarbon dates obtained from three of the habitation structures,
+material culture) occupation level (P008103) provided a date of                   the enclosure and the wall, demonstrate a continuous occupation of
+3702  62 cal. BC. This date could be the result of the disruption of             the site from 2356  113 cal. BC to 2080  114 cal. BC. Radiocarbon
+the Neolithic occupation layers by the later early medieval occu-                 dates obtained in the occupation levels of the structures provided
+pation, which probably saw the re-excavation of earlier soil levels.              dates corresponding to the last stages of the third millennium cal.
+    Structure P169 (Fig. 5) is formed by a group of medium sized                  BC (Fig. 2).
+stones arranged in a roughly quadrangular shape. The occupation                       The coherence of the radiocarbon dates seems to suggest a
+level, provided fragments of handmade ceramics, too fragmented                    continuous occupation of the site. Also, the relation between the
+to allow any inference on their use, and organic material radio-                  different structures of the site, documented during the excavation
+carbon dated to 3123  200 cal. BC. In contrast to the occupation                 of the structures M175 and M176 on one side and M217 and M177
+levels documented in the previous structures, this layer is not                   on the other, further conﬁrms their contemporaneity. In the habi-
+excavated with respect to the external circulation level and the                  tation structure M218103, a seed of Triticum dicoccum was identi-
+stones delimiting the structure lay directly over it. The distribu-               ﬁed together with cooking ceramic recipients and other ceramic
+tion and size of the stones suggest that this was not a wall like                 fragments in a hearth stratum. An interesting characteristic of the
+those found in M152 or P009, but a simple lining of stones. No                    site is the existence of a wall of 1.5 m wide (M177) and other
+rubble was found in the excavation belonging to this wall. This                   unexcavated walls closing the spaces between rock outcrops and, in
+perimeter wall was clearly not designed to sustain a roof that,                   this way enclosing the area. The shape of the space enclosed by this
+given the size of the structure, would have required thick walls.                 wall and the very organic sediments excavated suggest this area
+The fact that the occupation level was not excavated also suggests                was also employed as an animal enclosure.
+this was not a habitation structure and, therefore, did not require                   Another structure, the enclosure M151 (Fig. 6), has been dated to
+excavating the terrain to obtain extra height or keep the inside                  this period. Its occupation horizon, M151102 provided a radio-
+warm. These data suggest that the structure can be interpreted as                 carbon date of 2162  124 cal. BC. This date is identical to that
+a pastoral enclosure where the wall served as a delimiting                        provided by the M177 enclosure. The proximity between this
+structure and, possibly, as a base for a fence made of perishable                 structure, unrelated to any habitation structure, and the Els Estanys
+materials.                                                                        site, only 1350 m (Fig. 1), suggests that this structure was used by
+    A similar date to that provided by P169, 3132  202 cal. BC, was              the same population group.
+obtained from level M085103. This layer is not associated to any                      The last evidence of habitation/use in the study area during this
+structure and, according to sedimentological evidence, it corre-                  period was obtained in the Peraﬁta valley. This corresponds to a
+sponds to a palaeosol.                                                            palaeosol, P067102, identiﬁed sedimentologically and dated to
+    A ﬁnal structure, P106 (Fig. 5), could be dated to this period. This          2684  182 cal. BC in the Planells de Peraﬁta I site.
+funerary cist was excavated but no organic element related to its
+construction could be recovered due to its re-use during the
+modern period as a shepherd’s refuge. Reuse of megalithic monu-                   4.2. Palaeoenvironmental results
+ments during the modern and contemporary period has been well
+documented in high mountain Pyrenees (Gassiot and Jiménez,                           Details of the palaeoenvironmental results obtained in BDE,
+2006, pp. 105e106). The structure covers a space of 2.9  0.9 m                   RDO, FOR and PDP can be consulted in Miras et al. (2007, 2010),
+with a depth of 70 cm in respect to the modern ground level. The                  Ejarque et al., 2010 and Ejarque, 2013. Here simpliﬁed percentage
+big rectangular granitic blocks located at the sides of the funerary              and accumulation rate diagrams of these records were produced for
+space are covered by three ﬂat blocks of granitic stone. The stone                the Neolithic period (Fig. 7). These diagrams include summary
+corresponding to the eastern side cover was removed to allow                      curves of dung-related fungal spores and of apophytes, the latter
+entrance to the chamber and deposited beside the cist (Fig. 5).                   referring to pollen taxa indicative of anthropogenic impact. Those
+    The chronological ascription of cist P106 must be related to this             curves were produced following the modern pollen and NPPs
+period given the proximity of P008 and P169, at only 1100 m, but                  assemblage study performed in the MPCV (Ejarque et al., 2011).
+also due to the presence of multiple cist burials in Andorra also                 Different phases of local woodland opening and grazing pressure
+dated to this period.                                                             are highlighted in the diagrams.
+146   H.A. Orengo et al. / Quaternary International 353 (2014) 140e152
+
+
+
+
+        Fig. 5. Plan and section of structures P008, P106 and P169.
+H.A. Orengo et al. / Quaternary International 353 (2014) 140e152                                                          147
+
+
+
+
+                                                                   Fig. 6. Plan of Els Estanys site and enclosure M151.
+                                                                                                                         148
+
+
+
+
+                                                                                                                         H.A. Orengo et al. / Quaternary International 353 (2014) 140e152
+
+
+
+
+Fig. 7. Comparison of the different palaeoenvironmental sequences providing data on human impact during the Neolithic.
+                                               H.A. Orengo et al. / Quaternary International 353 (2014) 140e152                                      149
+
+
+5. Discussion                                                                     centuries. The observed highland shifting grazing system was
+                                                                                  probably complemented by incipient agricultural activities devel-
+   In this section each Neolithic cultural period will be dealt with              oped in the lower subalpine and mountain belts of Andorra. The
+separately in order to provide a clear picture of human induced                   MPCV palaeoenvironmental records attest openings in the decid-
+landscape changes over time. The archaeological and palae-                        uous oak, hazel and birch forest located in the lower subalpine and
+oenvironmental evidence is compared and discussed and the                         mountain belts together with the ﬁrst recordings of Cerealia-type
+resulting humaneenvironment dynamics are contrasted against                       in RDO and PDP between 5600 and 5300 cal. BC and the more
+the evidence gathered in neighbouring Pyrenean high mountain                      regular presence of Cerealia-type in FOR, between 5375 and
+areas.                                                                            4850 cal. BC (Miras et al., 2010; Ejarque, 2013). This evidence points
+                                                                                  to the existence of agricultural activities and forest openings in the
+5.1. Early Neolithic                                                              lower Andorran valleys, and is further corroborated by the
+                                                                                  recording of wheat (Triticum sp.) and barley (Hordeum vulgare) in
+    Both early Neolithic structures are located close to palae-                   the early Neolithic levels of the Balma de la Margineda site
+oenvironmental registers, where local human impact was detected                   (Andorra) at 970 m.a.s.l (Marinval, 1995).
+during this period. In Peraﬁta valley, habitation structure P009 is                   Regional archaeological data seem to suggest a Pyrenean early
+located just a few meters away from the PDP fen, which documents                  Neolithic model of mountain use entailing a wide spectrum econ-
+a phase of local human impact between 5300 and 4900 cal. BC with                  omy as evidenced in the Balma de la Margineda site, where hunting
+a reduction in pine and an increase in ruderal indicators (Miras                  of animals, such as the Iberian wild goat (Capra pyrenaica), deer and
+et al., 2010) (Fig. 7). Although the dating of the ﬁrst occupation                wild boar coexisted with pastoral activities that included species,
+level, 5544  69 cal. BC, is around 250 years earlier to the early                such as sheep (Ovis aries), goat (Capra hircus) and pig (Sus scrofa
+Neolithic palaeoenvironmental impact phase, the presence of                       domesticus) (Geddès, 1995). This site also provided evidence for
+another two occupation levels with similar material culture than                  ﬁshing, gathering and agricultural activities, with the presence of
+that of the dated level attests to its long term occupation.                      both wheat and barley (Marinval, 1995, pp. 130). Balma de la
+    In the Madriu valley, the size of M152 hut, the only structure                Margineda also sees an increase in the number of the site’s in-
+fully excavated for this period, suggests a small group probably                  habitants towards the end of the period at the same time that a
+composed for a maximum of four people. Its construction tech-                     space of the site is employed as a stabling area (Llovera, 1984, pp.
+nique indicates that the structure was not conceived for long-term                44). A second archaeological site from this period has been located
+habitation but it was a temporary shelter. This perhaps may be                    in Andorra. Segudet Tomb is an individual inhumation that also
+related to the local activities of small nomadic pastoralist groups               provided evidence supporting a wide economic orientation for
+transiting the upper areas of the valley, which is consistent with the            these early Neolithic groups. The identiﬁcation of Cerealia, honey
+available palaeoenvironmental information in the area.                            and milk inside a votive vase close to the tomb attest to the
+    The Madriu valley at the time of this ﬁrst highland settling                  diversiﬁcation of the group’s economic activities. This site also
+shows more intense human-related landscape impact than that                       provides evidence for wild fruit gathering, while a ﬁsh scale found
+recorded in Peraﬁta. From 5800 cal. BC the extension of pine forest               in a sample of dental calculus indicated the consumption of ﬁsh
+up to the most elevated sectors of the MPCV (around 2600 m.a.s.l.)                (Yáñez, 2005, pp. 55). The presence of objects made of non-local
+is documented in a context of climatic amelioration (Ejarque, 2013,               materials at both sites further attest to the high level of mobility
+pp. 118). In this context, the occupation phase of M152 coincides                 of these groups and/or the existence of contacts with other groups
+with human-induced local pine forest openings documented at                       with which ideas and objects could be exchanged.
+FOR lake from ca 5200 to 4400 cal. BC and RDO fen from ca 4500 to                     When comparing the evidence gathered in the MPCV with that
+4350 cal. BC (Ejarque et al., 2010; Ejarque, 2013). The retreat and               from other neighbouring Andorran areas, a consistent picture
+disappearance of pine stomata together with the increase of apo-                  emerges for the early Neolithic of small groups with a diversiﬁed
+phytes and herbaceous pollen taxa at FOR and the increase of                      economy where pastoralism, hunting, ﬁshing, gathering and an
+apophytes and dung-related fungi at RDO at the moment of occu-                    incipient cereal agriculture are well represented. These groups
+pation of the pastoral enclosure M152 (Fig. 5) reinforces the hy-                 seemed to have highly mobile occupation patterns with constant
+pothesis of pastoralism-related clearances for the increase of                    exploitation of high mountain seasonal grazing areas that lasted
+grazing areas at Madriu valley. A further insight into this activity is           one or two centuries. They would frequent diverse altitudinal belts
+provided by the RDO’s resolution, documenting between 5650 and                    in order to take advantage of the different resources that each
+4350 cal. BC three forest opening phases spanning approximately                   ecological niche had to offer. Therefore, a strong pastoralist focus
+from 90 to 170 years which are embedded within pine recovery                      related to the exploitation of high mountain areas can be observed
+phases (Ejarque, 2013, pp. 128).                                                  while lower Andorran valleys are mainly used for agricultural ac-
+    Results obtained from BDE fen (Fig. 4) are consistent with the                tivities. Such mountain land-use system is comparable with the
+picture provided by the FOR and RDO records. It shows a decrease                  itinerant agropastoral system, the so called “landman model”
+in pine stomata while herbaceous and anthropic indicators increase                described for lowland European Neolithic communities (Iversen,
+and diversify between 5050 and 4350 cal. BC. These include the                    1941; Vuorela, 1986; Behre, 1988; Riera, 1994).
+strict coprophilous fungal spore Sporormiella (Miras et al., 2007),
+indicating the existence of local pastoral activities also at the sub-            5.2. Middle/late Neolithic
+alpine areas of Madriu valley.
+    Both archaeological and palaeoenvironmental evidence docu-                       During the middle Neolithic and the transition to the late
+ment a human frequentation of the MPCV related to discontinuous                   Neolithic the archaeological evidence of human occupation in-
+pastoral practices. These seem to entail small-scale pine forest                  creases in the MPCV as they do in other Pyrenean areas. The syn-
+clearances for livestock grazing, followed by woodland recovery,                  chronous occupation of P008 habitation structure with that of
+which favoured the conﬁguration of open pine woodland at high                     P169, a pastoral enclosure, provides important data on the type of
+altitudes. Although the time length of these impacts is variable,                 activities carried out in the area by middle/late Neolithic groups.
+they were probably seasonal and, as indicated by the short forest                 These were probably recurrent summer occupations focused on
+clearance phases of RDO, they were repeated during one or two                     pastoral activities. The human groups had probably a more
+150                                            H.A. Orengo et al. / Quaternary International 353 (2014) 140e152
+
+
+sedentary character and were probably linked to lower habitation                  local ﬁres (Miras et al., 2007). This is archaeologically attested by a
+sites. The presence of the P106 burial cist in the area can also be               circulation level or palaeosol, M085103, from the Riu dels Orris I
+linked to a more sedentary character of these groups and can offer a              site (2390 m.a.s.l.) dated to 3132  202 cal. BC. The limited time lag
+cultural context for them. These monumental tombs have been                       between this circulation level and the occupation levels docu-
+frequently linked to assertions of territoriality (Barrett, 1993; Muir,           mented in Peraﬁta may suggest that Madriu and Peraﬁta valleys
+2000; Agirre García et al., 2010), characteristic of sedentary groups.            were frequented during the same period. This would thus attest to
+    The site of Feixa del Moro lying at a lower altitude (1335 m.a.s.l.)          the frequentation and pastoral exploitation of the neighbouring
+offers a complementary image to that of Peraﬁta valley. This site has             Madriu valley.
+yielded two radiocarbon dates corresponding to 3712  362 and                         Archaeological and palaeoenvironmental data point to a stron-
+4152  654 cal. BC (Llovera and Bertran, 1991, pp. 20). It includes               ger human frequentation of the Peraﬁta valley and the highest
+both habitation layers and cist burials. From the three cists recor-              sectors of the Madriu valley during the last stages of the middle
+ded, two still preserved the inhumations and the funerary offerings,              Neolithic compared to the early Neolithic phase, and was probably
+characteristic of the so-called Sepulcres de Fossa Culture. The                   associated to animal husbandry. Both datasets indicate longer hu-
+presence of votive axes made of serpentine and shale and decora-                  man occupation, according to the two radiocarbon dates of P008
+tive items made of variscite from the mines of Can Tintorer, in Gavà              hut, in contrast with the shorter occupation period documented
+(135 km to the south of Andorra) attests to the participation of this             during the early Neolithic. Although only one habitation structure
+group in long-distance trade networks. Feixa del Moro has been                    in each period was excavated enough to allow the extrapolation of
+described as a seasonal but stable site (Yáñez, 2005, pp. 57). Inside             the size of the habitation space, the size of P008 is much bigger
+the habitation areas various artefacts related to the process of food,            than that of M152. This increase in size may suggest an increase in
+such as hand mills, were recovered. Close to these structures                     the number of individuals forming the middle Neolithic group with
+several ceramic containers were discovered with cereals and                       respect to that of the early Neolithic. This could explain the changes
+hazelnut (C. avellana) shells (Llovera and Bertran, 1991; Yáñez,                  observed in the palaeoenvironmental record, with the increase of
+2005, pp. 56e57). Close to Feixa del Moro, the sites of Camp del                  deforestation and the expansion of alpine grasslands, particularly at
+Colomer and Carrer Llinàs 28 (Fortó et al., 2009), provided two hut               Peraﬁta, where these expand over 2000 m.a.s.l. (Miras et al., 2010).
+occupation levels (excavated with respect to the external surface)                    The dating of sites such as those at Peraﬁta and Feixa del Moro in
+and seven grain silos of around 170 cm depth. The presence of mill                Andorra and other neighbouring sites, such as Serrat de la Padrilla
+stones together with the silos afﬁrms the strong agricultural                     and Cova del Sardo are concurring with an increased stability in
+orientation of Camp del Colomer. This site has been interpreted as a              settlement patterns. At Serrat de la Padrilla site, at 2300 m.a.s.l.
+stable settlement periodically occupied by an itinerant group that                (French Cerdanya), two closely located habitat structures evidence
+would move inside a well delineated territory. There is also evi-                 continuous occupation between 4287 and 3051 cal. BC and are
+dence to highlight the agricultural orientation of the group that                 related to an opening of the pine forest at 3353 cal. BC (Galop, 1998;
+seems to be involved in deforestation activities, as suggested by the             Rendu, 2003, pp. 215e228). In the Pallars Sobirà region (Central
+high number of axes with use marks found at Carrer Llinàs 28, for                 Pyrenees, Spain) evidence of occupation during this period is re-
+the creation of open areas for agricultural exploitation (Fortó et al.,           ported in several highland sites such as the Abric del Estany de la
+2009).                                                                            Coveta I, 2431 m.a.s.l., at Obagues de Ratera site, 2322 m.a.s.l., at
+    The middle Neolithic groups in the Peraﬁta valley had a signif-               Coll del Portarró site, between 2280 and 2327 m.a.s.l., and at Cova
+icant impact on their immediate landscape as attested by the                      del Sardo site (Vall de Boí, Alta Ribagorça) at 1830 m.a.s.l. (Gassiot
+palaeoenvironmental study of the PDP fen, located in the vicinity of              and Jiménez, 2006; Jiménez, 2006). This last site shows a long
+structures P008, P169 and P106 (Fig. 1). The pine forest opening and              occupation sequence with middle Neolithic phases dated to
+the extension of alpine grasslands together with the rise of                      2745  69 cal. BC and to 3864  98 cal. BC. Microwear analysis
+anthropogenic indicators and dung-related fungal spores docu-                     performed on the tools found on site, showed these have been
+mented between 3600 and 3050 cal. BC are linked to the increase of                employed to work non-woody plants (Gassiot and Jiménez, 2006,
+local pastoral activities (Miras et al., 2010), which were synchro-               pp. 100; Jiménez, 2006).
+nous with the presence of the human groups occupying the area.                        It is thus tempting to link this stability in the highlands with the
+    Human occupation seems to favour Peraﬁta valley during the                    increasing intensity of agricultural activities documented in both
+middle Neolithic given the scarce evidence documented at Madriu                   the palaeoenvironmental and archaeological record at lower alti-
+valley. However, palaeoenvironmental data indicate the existence                  tudes. The different palaeoenvironmental records studied in the
+of grazing activities and pine woodland clearances also in the                    MPCV between 4500e4200 and 3000 cal. BC document a gener-
+Madriu valley. The RDO fen shows a more permanent pine clear-                     alised opening of the lower mixed deciduous woodland (i.e. de-
+ance between 4350 and 3500 cal. BC that can be related to local,                  ciduous oak, hazel, elm, lime tree), and the more regular recording
+occasional ﬁres. The continuous presence of stomata together with                 of Cerealia-type (Ejarque, 2013, pp. 132). Archaeological data ob-
+coprophilous fungi spores and local grazing indicators at this                    tained in these areas (e.g. Feixa del Moro site) corroborate this
+period suggests that forest clearance was aimed at the creation of                picture. A more agriculture-oriented economy of the middle
+an open forest that was employed for grazing purposes. The                        Neolithic groups would imply higher sedentism as opposed to the
+disappearance of pine stomata in RDO towards 3500 cal. BC in-                     higher mobility pattern suggested for the early Neolithic. The
+dicates the deﬁnitive stabilisation of alpine grasslands probably, as             development during this period of monumental funerary practices
+a consequence of the pastoral pressure in a ﬁrst phase of the middle              interpreted as territorial assertions can be linked to this process.
+Neolithic. From this moment onwards the area around RDO                           However, according to the archaeological evidence at the MPCV,
+(located at 2390 m.a.s.l.) remained deforested until today as pine                these groups would still be involved in seasonal movements linked
+forests grow only at lower altitudes (Ejarque, 2013, pp. 131). During             to the exploitation of different resources along the altitudinal belt.
+the ﬁnal phase of the middle Neolithic (ca. 3500 to 3000 cal. BC) in              This reduced mobility would not entail a decrease in exchanges
+the highland alpine belt of the Madriu valley a decrease in                       between groups as indicated by the high percentage of non-local
+anthropogenic activities is documented while at lower sectors of                  materials recovered in various sites, such as Feixa del Moro. It is
+the valley the BDE fen at 2130 m suggests continuity of grazing with              possible that the sedentary character of these groups can also be
+a moderate opening of the pine forest, associated to low intensity                related to the increase in population that was demonstrated in the
+                                               H.A. Orengo et al. / Quaternary International 353 (2014) 140e152                                    151
+
+
+archaeological record by the increase in the size of habitation                   pine pollen and stomata that indicate the existence of forest
+structures and the multiplication of occupation documented at a                   openings and local grazing activities between 2200 and 1650 cal.
+regional level.                                                                   BC. The increase of macro-charcoal in BDE suggests that these de-
+                                                                                  forestations were aided by the use of ﬁre (Miras et al., 2007). The
+5.3. Late NeolithiceChalcolithic                                                  use of human-induced ﬁres as a landscape-forming tool is only
+                                                                                  documented in the lower part of the Madriu valley while the upper
+    During the last part of the third millennium cal. BC new evi-                 area’s deforestation can be related to a more intensive and sus-
+dence of occupation were recovered in the MPCV, such as the four                  tained pastoral exploitation (Ejarque et al., 2010). Differences be-
+habitation structures inside an enclosed area, and the large enclo-               tween valleys in the MPCV were also recorded: in Peraﬁta valley
+sures M218 and M151 at the site of Els Estanys (Fig. 6). Dating ev-               only a circulation level, P067102, was archaeologically attested.
+idence suggests the seasonal occupation of the site for about 300                 However, the PDP register shows a decrease in the human exploi-
+years, covering the period between 2356  113 and 2080  114 cal.                 tation of this area (Miras et al., 2010). The existence of such
+BC. Els Estanys shows important changes in respect to previous                    different landscape management strategies between different areas
+periods: this is a group of clearly delimited habitation structures               of the same valley and even between adjacent valleys during the
+forming a small village. This village is the higher Neolithic or                  same period demonstrate the development of a land-use system
+Chalcolithic settlement ever found in Europe and, as such, deserves               characterised by a strong human-directed landscape organisation
+special attention. In general, the structures are bigger than those of            of high altitude areas.
+previous phases, particularly M175 and M217. M175 is particularly                     Human activities become, for the ﬁrst time, intensive enough to
+large, its interior covering an area of 17 m2 and prohibiting the                 result in a perdurable landscape change in the Madriu valley during
+employment of a circular plan. This is the earliest quadrangular                  this period. From this moment onwards the upper areas of the
+structure in the study area. It is also constructively linked to M176             Madriu valley will remain treeless until today due to continuous
+and M225. These habitation structures cover approximately 40 m2                   human pressure (Ejarque, 2013), as it was the case of the Peraﬁta
+and if they are all indeed for habitation, they could have hosted                 valley from the middle Neolithic onwards. These woodland clear-
+comfortably up to 20 people, suggesting is a signiﬁcant increase in               ances resulted from the need to create grazing areas in the upper
+the number of people inhabiting the area respect to that of previous              high mountain valleys and agricultural areas in the lower mountain
+periods. This settlement probably accommodated a whole group                      belt. In relation to this need, ﬁre becomes generalised as a land-
+and not only a part of a group specialised in summer pastoral                     scape modiﬁcation tool. Uppermost mountain areas are trans-
+practices. The presence of cooking ceramics and a seed of T. dicoc-               formed into grasslands. It is possible that the stronger economic
+cum associated with a hearth found in M218 occupation can be                      focus on agriculture and pastoralism could have inﬂuenced these
+indicative of a relation of this group with agricultural practices                deforestations. The importance of hunting and gathering activities
+developed at lower altitudes. In fact, palaeoenvironmental analysis               is reduced and therefore, forest was probably no longer considered
+in the MPCV also registers the retraction of birch, ﬁr, hazel and oak             the principal resource for subsistence.
+at the lower subalpine and mountain areas together with a more
+regular recording of Cerealia pollen, the latter possibly related to              6. Conclusions
+the expansion of agricultural practices during this period (Ejarque,
+2013, pp. 138).                                                                      This study has presented strong evidence for the ﬁrst develop-
+    This group probably spent the winter in lower areas and the                   ment of high mountain cultural landscapes in the Pyrenees. The
+summer in high mountain environments. Their summer occupa-                        data point to an increase in both the size and the degree of sed-
+tion can be linked to pastoral activities, as attested by the presence            entism of the human groups frequenting the MPCV and neigh-
+of two enclosures and the use of Els Estanys site central area as an              bouring areas during the Neolithic. This tendency is particularly
+enclosure itself (Fig. 6). The total amount of enclosed space covers              evident in the increase in both the number and size of human-
+about 1300 m2. In accordance with archaeological data, palae-                     made structures, in the landscape impact of these groups, i.e. for-
+oenvironmental analyses point to a strong change in both the                      est clearances and the use of ﬁre as a landscape management tool,
+landscape conﬁguration of the MPCV and the means employed to                      and the emergence of monumental funerary elements that have
+achieve this during this period. The FOR sequence from 2800 cal. BC               been claimed to assert territoriality. The increase in cereal culti-
+and until 1650 cal. BC, demonstrates local opening of the pine forest             vation in the lower areas of Andorra as attested by pollen data and
+that reaches its peak towards 2450 cal. BC. It is in this moment                  archaeological evidence corroborate these observations. It is difﬁ-
+when the highest areas of the Madriu valley, around Forcat Lake,                  cult to speculate what the causes and the consequences were of
+are cleared and covered by alpine grasslands, which will dominate                 these processes, but a long-term relationship between population
+the alpine belt in the Madriu valley for the rest of the late Holocene.           increase, sedentism, cereal agriculture and intensive pastoralism
+The increase in apophytes, including nitrophilous and ruderal taxa,               (as reﬂected in the everlasting deforestation of the upper areas of
+together with the presence of coprophilous fungi spores, points                   the Madriu and Peraﬁta valleys) seem to have played an increasing
+towards the strong grazing orientation of the forest clearance                    role in the MPCV during the Neolithic.
+during this phase. Pastoral pressure is intense, constant and                        This research has also stressed how the integration of archae-
+continuous in a way that forest regeneration is not allowed                       ology with palaeoenvironmental analysis can contribute to the
+(Ejarque, 2013, pp. 136). In this sense, the spatial and chronological            interpretations not only of landscape changes, but also of the eco-
+relation between the palaeoenvironmental evidence provided by                     nomic, demographic and social processes driving them. This is only
+FOR lake and the occupation at Els Estanys and the M151 enclosure                 possible if a microregional integrated methodology is followed,
+(Fig. 1), strongly suggests that the group inhabiting this site was               where spatial and chronological contexts can be compared. In the
+responsible for the deforestation of the area and its conversion to               past few years, there is an increasing number of studies that
+pastoral grasslands.                                                              endeavour to integrate palaeoenvironmental and archaeological
+    Although of lower intensity, human impact was also detected in                data, some of the problems in attempting such an approach might
+the subalpine vegetation zone. Thus, at 2180 m.a.s.l., the BDE record             be related to a number of factors: (1) the adoption of a regional
+shows an increase of grasses and anthropic indicators and the                     approach in which the study area includes different environmental
+presence of coprophilous fungi spores together with a decrease in                 settings, (2) the scarcity of palaeoenvironmental sequences/
+152                                                        H.A. Orengo et al. / Quaternary International 353 (2014) 140e152
+
+
+archaeological data to be employed in conjunction in the expla-                               Gassiot, E., Jiménez, J., 2006. El poblament prefeudal de l’alta muntanya dels Pir-
+                                                                                                  ineus occidentals catalans (Pallars Sobirà i Alta Ribagorça). Tribuna d’Arqueo-
+nation of human-directed landscape changes, (3) lack of high-
+                                                                                                  logia 2004e2005, 89e122.
+resolution chronologies which prevent the correlation of archaeo-                             Geddès, D., 1995. La fauna mesolítica i neolítica de la Balma de la Margineda. In:
+logical and palaeoenvironmental data and (4) the lack of multi-                                   Guilaine, J., Martzluff, M. (Eds.), Les excavacions a la Balma de la Margineda
+proxy palaeoenvironmental studies combining pollen and other                                      (1979e1991), vol. II. Edicions del Govern d’Andorra, Andorra, pp. 83e91.
+                                                                                              Gómez, A., 2001. El necesario equilibrio entre preservación y explotación del pai-
+bio-indicators that allow a better understanding of the local and                                 saje: el caso del Principado de Andorra. Scripta Nova. Revista electrónica de
+extra-local palaeoenvironmental signal. The MPCV project dem-                                     Geografía y Ciencias Sociales V, 103.
+onstrates how adopting a high spatial (multiple multiproxy se-                                Iversen, J., 1941. Landnam i Danmarks Stenalder. Danmarks Geologiske Under-
+                                                                                                  sogelse 66, 1e68.
+quences and total coverage archaeological survey and excavation)                              Jiménez, J., 2006. La imagen de los espacios de alta montaña en la prehistoria: el
+and chronological resolution can result in meaningful data in-                                    caso de los Pirineos Catalanes Occidentales (Unpublished dissertation).
+tegrations and, consequently, in the explanation of highly complex                                Autonomous University of Barcelona, Barcelona.
+                                                                                              Llovera, X., 1984. Carta Arqueològica del Principat d’Andorra (Unpublished disser-
+interaction dynamics between humans and their environment.                                        tation). Autonomous University of Barcelona, Barcelona.
+                                                                                              Llovera, X., Bertran, R., 1991. Juberri (Andorra): un exemple de centre receptor i de
+Acknowledgements                                                                                  comerç de joies cap a l’any 3000 aC. In: Les Joies de la Prehistoria, catàleg de
+                                                                                                  l’exposició. Govern, d’Andorra, Generalitat de Catalunya, Museu de Gavà,
+                                                                                                  Ajuntament de Barcelona, Andorra la Vella, pp. 20e24.
+   The MPCV Project was funded by the Andorran Government                                     Marinval, P., 1995. Recol$lecció i agricultura de l’epipaleolític al neolític antic: anàlisi
+(Area de Recerca Històrica), the AGAUR from the Catalan Autono-                                   carpològica de la Balma de la Margineda. In: Guilaine, J., Martzluff, M. (Dirs.),
+                                                                                                  Les excavacions a la Balma de la Margineda (1979e1991), vol. II. Edicions del
+mous Goverment (EXCAVA program) and by the Catalan Institute of
+                                                                                                  Govern d’Andorra, Andorra, pp. 65e77.
+Classical Archaeology (ICAC). The ﬁrst author received a BE grant                             Miras, Y., Ejarque, A., Riera, S., Palet, J.M., Orengo, H.A., Euba, I., 2007. Dynamique
+from the AGAUR to conduct research in the Àrea de Recerca His-                                    holocène de la végétation et occupation des Pyrénées andorranes depuis le
+tòrica d’Andorra (Andorra) and an AIRE grant from the Pyrenean                                    Néolithique ancien, d’après l’analyse pollinique de la tourbière de Bosc dels
+                                                                                                  Estanyons (2180 m, Vall del Madriu, Andorre). Comptes Rendus Palevol 6 (4),
+Work-Group (CTP) to conduct research in the FRAMESPA Research                                     291e300.
+Group of the CNRS/Université Toulouse II e Le Mirail (France).                                Miras, Y., Ejarque, A., Orengo, H.A., Riera, S., Palet, J.M., Poiraud, A., 2010. Prehistoric
+   The authors would also like to thank Dr. Manon Cabanis (INRAP/                                 impact on landscape and vegetation at high altitudes: an integrated palae-
+                                                                                                  oecological and archaeological approach in the eastern Pyrenees (Peraﬁta val-
+GEOLAB UMR6042 CNRS, Clermont-Ferrand II) for the identiﬁca-                                      ley, Andorra). Plant Biosystems 144 (4), 946e961.
+tion of the Triticum dicoccum seed found in M218103.                                          Moe, D., Hjelle, K.L., 1999. Mesolithic human adaptation to changing alpine/subal-
+                                                                                                  pine vegetation in the Central and Eastern Alps, based on vegetational historical
+                                                                                                  study from Val Febbraro, Spluga Valley (Italy). Universitätsforschungen zur
+References                                                                                        Prähistorischen Archäologie 55, 207e214.
+                                                                                              Muir, R., 2000. The New Reading the Landscape: Fieldwork in Landscape History.
+Agirre García, J., Moraza Barea, A., Mujika Alustiza, J.A., 2010. Los elementos físicos           University of Exeter Press, Exeter.
+    como reivindicación del territorio y de sus frutos en los espacios de montaña.            Oeggl, K., Wahlmüller, N., 1993. Vegetation and climate history of a high alpine
+    In: Fernández Eraso, J., Mujika Alustiza, J.A. (Eds.), Proceedings of the Interna-            mesolithic camp site in the Eastern Alps. Preistoria Alpina 28, 71e82.
+    tional Congress on the Study of Megaliths and Other Contemporary Burials in a             Orengo, H.A., 2010. Arqueología de un paisaje cultural pirenaico de alta montaña.
+    Social, Economic and Cultural Context, Munibe, suplemento 32. Sociedad de                     Dinámicas de ocupación del valle del Madriu-Peraﬁta-Claror (Andorra) (Ph.D.
+    Ciencias Aranzadi Zientzi Elkartea, Donostia, pp. 286e313.                                    thesis). Rovira i Virgili University, Spain.
+Barrett, J.C., 1993. Fragments from Antiquity. An Archaeology of Social Life in Britain,      Orengo, H.A., 2013. Combining terrestrial stereophotogrammetry, DGPS and GIS-
+    2900e1200 BC. Blackwell, Oxford.                                                              based 3D voxel modelling in the volumetric recording of archaeological fea-
+Behre, K.E., 1988. The role of man in vegetation history. In: Huntley, B., Webb, T.               tures. ISPRS Journal of Photogrammetry and Remote Sensing 76, 49e55.
+    (Eds.), Vegetation History. Kluwer Academic Publishers, Dordrecht, pp. 633e               Orengo, H.A., Palet, J.M., Ejarque, A., Miras, Y., Riera, S., 2013. Pitch production
+    672.                                                                                          during the Roman period: an intensive mountain industry for a globalised
+Biagi, P., Nandris, J. (Eds.), 1994. Highland Zone Exploitation in Southern Europe.               economy? Antiquity 87 (337), 802e814.
+    Monograﬁe di ‘Natura Bresciana’, vol. 20.                                                 Orengo, H.A., Palet, J.M., Ejarque, A., Miras, Y., Riera, S., 2014. The historical
+Davies, A.L., 2007. Upland agriculture and environmental risk: a new model of                     conﬁguration of a UNESCO world heritage site: the cultural landscape of the
+    upland land-use based on high spatial-resolution palynological data from West                 Madriu-Peraﬁta-Claror Valley. Archeologia Postmedievale 17 (in press).
+    Africa, NW Scotland. Journal of Archaeological Science 34, 2053e2063.                     Palet, J.M., Ejarque, A., Miras, Y., Riera, S., Euba, I., Orengo, H.A., 2007. Formes
+Dearing, J.A., Battarbee, R.W., Dikau, R., Larocque, I., Oldﬁed, F., 2006. Human-                 d’ocupació d’alta muntanya a la Vall de la Vansa (Serra del Cadí - Alt Urgell) i la
+    environment interactions: learning from the past. Regional Environmental                      vall de Madriu-Peraﬁta-Claror (Andorra): estudi diacrònic de paisatges culturals
+    Change 6, 115e123.                                                                            pirinencs. Tribuna d’Arqueologia 2006, 229e253.
+Efstratiou, N., Biagi, P., Elefanti, P., Karkanas, P., Ntinou, M., 2006. Prehistoric          Palet, J.M., Orengo, H.A., Ejarque, A., Euba, I., Miras, Y., Riera, S., 2010. Formas de
+    exploitation of Grevena highland zones: hunters and herders along the Pindus                  paisaje de montaña y ocupación del territorio en los Pirineos orientales en
+    chain of western Macedonia (Greece). World Archaeology 38 (3), 415e435.                       época romana: estudios pluridisciplinares en el valle del Madriu-Peraﬁta-Claror
+Ejarque, A., 2013. La alta montaña pirenaica: génesis y conﬁguración holocena de un               (Andorra) y en la Sierra del Cadí (Cataluña). Bollettino di Archeologia on line 1,
+    paisaje cultural. In: British Archaeological Reports International Series.                    67e79.
+    Archaeopress, Oxford.                                                                     Rendu, C., 2003. La montagne d’Enveig. Une estive pyrénéenne dans la longue
+Ejarque, A., Orengo, H.A., 2009. Legacies of change: the shaping of cultural land-                durée. Trabucaire.
+    scapes in a marginal Mediterranean range, Garraf Massif, North-eastern Spain.             Riera, S., 1994. Evolució del paisatge vegetal holocè al Pla de Barcelona, a partir de
+    Oxford Journal of Archaeology 28 (4), 425e440.                                                les dades pol$líniques (Unpublished doctoral thesis). Universitat de Barcelona,
+Ejarque, A., Miras, Y., Riera, S., Palet, J.M., Orengo, H.A., 2010. Testing microregional         Barcelona.
+    variability in the Holocene shaping of high mountain cultural landscapes: a               Servera, G., Miras, Y., Riera, S., Julià, R., Allée, Ph., Orengo, H., Paradis-Grenouillet, S.,
+    palaeoenvironmental case-study in the Eastern Pyrenees. Journal of Archaeo-                   Palet, J.M., 2014. Tracing the land use history and vegetation dynamics in the
+    logical Science 37 (7), 1468e1479.                                                            Mont Lozère (Massif Central, France) during the last 2000 years: the interdis-
+Ejarque, A., Miras, Y., Riera, S., 2011. Pollen and non-pollen palynomorph indicators             ciplinary study case of Countrasts peat bog. Quaternary International 353, 123e
+    of vegetation and highland grazing activities obtained from modern surface and                139. http://dx.doi.org/10.1016/j.quaint.2013.10.048.
+    dung datasets in the eastern Pyrenees. Review of Palaeobotany and Palynology              Vuorela, I., 1986. Palynological evidence of slash-and-burn cultivation in South
+    167 (1), 123e139.                                                                             Finland. In: Behre, K.E. (Ed.), Anthropogenic Indicators in Pollen Diagrams. A.A.
+Fortó, A., Vidal, À., Maese, X., 2009. Darreres troballes del neolític a Juberri                  Balkema, Rotterdam, pp. 53e64.
+    (Andorra). Cota Zero 24, 14e16.                                                           Yáñez, C., 2005. El neolítico. In: Belenguer, E. (Ed.), Història d’Andorra. De la pre-
+Galop, D., 1998. La Forêt, l’Homme et le Troupeau dans les Pyrénées. 6000 Ans                     història a l’edat conteporània. Edicions 62, Barcelona.
+    d’Histoire de l’Environnement entre Garonne et Méditerranée. In: Contribution
+    Palynologique. GEODE-Laboratoire d’écologie terrestre-Framespa, Toulouse.
+

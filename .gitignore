@@ -7,3 +7,17 @@ __pycache__/
 .coverage
 dist/
 .DS_Store
+
+# docs/raw/ — material de partida
+# En aquest repositori docs/raw/ ES VERSIONA (vegeu el cas carrera-modesto).
+# Les exclusions de sota NO canvien aquest criteri: són només per mida.
+# Els extractes .txt d'aquestes carpetes sí que es versionen — són el que es
+# llegeix i se cita. Els originals sumen 250+ MB i un d'ells en fa 50 (GitHub
+# avisa a partir de 50 i rebutja a partir de 100), i git guarda els blobs per
+# sempre. La procedència i l'URL de cadascun són a docs/raw/README.md.
+docs/raw/sac-diades/*.pdf
+docs/raw/llibres/*.pdf
+docs/raw/academic/*.pdf
+docs/raw/hemeroteca/*.pdf
+docs/raw/web/*.html
+docs/raw/web/*.json

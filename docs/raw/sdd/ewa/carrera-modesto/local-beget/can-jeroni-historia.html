@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="ca">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant Can Jeroni de Beget (Camprodon)</title>
+    <meta name="description" content="Restaurant Can Jeroni de Beget. Cuina tradicional de la zona, a Beget (nucli de la Camprodon). Obert tot l'any. Des de 1916.">
+
+    <!-- Theme colors for mobile browser bar -->
+    <meta name="theme-color" content="#faf9f7" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#1c1610" media="(prefers-color-scheme: dark)">
+
+    <!-- Open Graph (Facebook, LinkedIn, WhatsApp, iMessage, etc.) -->
+    <meta property="og:title" content="Can Jeroni — Beget">
+    <meta property="og:description" content="Restaurant a Beget (Camprodon), Espai d'interest Natural de l'Alta Garrotxa. Cuina tradicional, des de 1916.">
+    <meta property="og:image" content="https://www.canjeroni.net/assets/images/og-cover.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="Can Jeroni i el campanar romànic de Sant Cristòfor a Beget">
+    <meta property="og:url" content="https://www.canjeroni.net/">
+    <meta property="og:site_name" content="Can Jeroni">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="ca_ES">
+    <meta property="og:locale:alternate" content="es_ES">
+    <meta property="og:locale:alternate" content="en_GB">
+    <meta property="og:locale:alternate" content="fr_FR">
+
+    <!-- Twitter / X cards -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Can Jeroni — Beget">
+    <meta name="twitter:description" content="Restaurant a Beget (Camprodon). Cuina tradicional, des de 1916.">
+    <meta name="twitter:image" content="https://www.canjeroni.net/assets/images/og-cover.jpg">
+
+    <!-- Favicons -->
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/site.webmanifest">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500&family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="/assets/styles.css">
+  </head>
+<body>
+
+<header class="site-header is-light" id="siteHeader">
+  <div class="header-top">
+    <nav class="lang-switch" aria-label="Language">
+      <a data-lang="ca">CA</a>
+      <a data-lang="es">ES</a>
+      <a data-lang="en">EN</a>
+      <a data-lang="fr">FR</a>
+    </nav>
+    <div class="brand">
+      <a data-link="home"><img src="/assets/images/canjeroni.svg" alt="Can Jeroni" width="220" height="34"></a>
+    </div>
+    <div class="header-reserve">
+      <a href="https://reserva.canjeroni.net/?source=web" target="_blank" rel="noopener" data-t="nav.reserva">Reserva</a>
+    </div>
+    <button class="menu-toggle" id="menuToggle" aria-label="Menu" aria-expanded="false" aria-controls="mobileMenu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <nav class="site-nav" aria-label="Primary">
+    <a data-link="cuina"    data-t="nav.cuina">Cuina</a>
+    <a data-link="casa"     data-t="nav.casa">Can Jeroni</a>
+    <a data-link="historia" data-t="nav.historia">Història</a>
+    <a data-link="beget"    data-t="nav.beget">Beget</a>
+    <a data-link="info"     data-t="nav.info">Informació</a>
+  </nav>
+</header>
+
+<div class="mobile-menu" id="mobileMenu" aria-hidden="true">
+  <nav class="mobile-menu-inner" aria-label="Mobile primary">
+    <a data-link="home"     class="mm-link" data-t="nav.home">Inici</a>
+    <a data-link="cuina"    class="mm-link" data-t="nav.cuina">Cuina</a>
+    <a data-link="casa"     class="mm-link" data-t="nav.casa">Can Jeroni</a>
+    <a data-link="historia" class="mm-link" data-t="nav.historia">Història</a>
+    <a data-link="beget"    class="mm-link" data-t="nav.beget">Beget</a>
+    <a data-link="info"     class="mm-link" data-t="nav.info">Informació</a>
+
+    <span class="mm-rule"></span>
+
+    <a class="mm-reserve" href="https://reserva.canjeroni.net/?source=web" target="_blank" rel="noopener" data-t="nav.reserva">Reserva</a>
+
+    <nav class="mm-lang" aria-label="Language">
+      <a data-lang="ca">CA</a>
+      <a data-lang="es">ES</a>
+      <a data-lang="en">EN</a>
+      <a data-lang="fr">FR</a>
+    </nav>
+  </nav>
+</div>
+
+<main id="app"></main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <img src="/assets/images/canjeroni.svg" alt="Can Jeroni" width="220" height="34">
+    </div>
+    <div>
+      <h4 data-t="footer.visit">Visita'ns</h4>
+      <p>C. Bellaire, 17</p>
+      <p>17867 Beget · Camprodon</p>
+      <p>Girona</p>
+    </div>
+    <div>
+      <h4 data-t="footer.contact">Contacte</h4>
+      <a href="tel:+34972741239">+34 972 741 239</a>
+      <a href="mailto:canjeroni@canjeroni.net">canjeroni@canjeroni.net</a>
+      <p data-t="footer.open">Obert cada dia</p>
+    </div>
+    <div>
+      <h4 data-t="footer.follow">Seguiu-nos</h4>
+      <a href="https://www.instagram.com/canjeroni" target="_blank" rel="noopener">Instagram</a>
+      <a href="https://www.facebook.com/canjeroni" target="_blank" rel="noopener">Facebook</a>
+      <a href="https://g.page/CanJeroni?share" target="_blank" rel="noopener">Google Maps</a>
+    </div>
+  </div>
+  <div class="legal">
+    <span>© Can Jeroni · Beget</span>
+    <a href="https://legal.canjeroni.net" target="_blank" rel="noopener" data-t="footer.legal">Avís legal i política de cookies</a>
+  </div>
+</footer>
+
+<div class="sticky-cta" id="stickyCta" aria-label="Quick actions">
+  <a class="sticky-cta-btn primary" href="https://reserva.canjeroni.net/?source=web" target="_blank" rel="noopener" data-t="home.ctaBook">Reservar taula</a>
+  <a class="sticky-cta-btn ghost" href="https://carta.canjeroni.net" target="_blank" rel="noopener" data-t="home.ctaMenu">Veure carta</a>
+</div>
+
+<div class="cookies hidden" id="cookies" role="dialog" aria-live="polite">
+  <p data-t="cookies.body">Aquesta web utilitza galetes tècniques i d'anàlisi. Continuant la navegació n'acceptes l'ús.</p>
+  <button id="cookies-accept" data-t="cookies.accept">Accepto</button>
+</div>
+
+<script src="/assets/photos.js"></script>
+<script src="/assets/i18n.js"></script>
+<script src="/assets/app.js"></script>
+</body>
+</html>

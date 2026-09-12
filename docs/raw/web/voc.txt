@@ -1,0 +1,669 @@
+El vocabulari andorrà
+i el seu reconeixement normatiu
+
+1. Dialectalismes i diccionaris
+La presència en un diccionari general de paraules o expressions dialectals (les
+que s’empren en una part reduïda del domini lingüístic) és una qüestió difícil de
+gestionar. Què cal fer amb aquell mot que és usual en algunes zones —‌generalment apartades dels centres de producció cultural més potents— i que no sol utilitzar-se en àmbits de gran difusió, és a dir, que rarament apareix en llibres, catàlegs, Internet, televisió, ràdio, diaris, setmanaris, revistes, etc.? S’ha d’incloure al
+diccionari per tal de preservar-lo, dignificar-lo o donar-li reconeixement, encara
+que no sigui present en el llenguatge estàndard? O bé cal ser estrictes i s’ha de bandejar, per tal com un diccionari només hauria de recollir mots d’ús generalitzat?
+Afegim-hi que no es tracta tan sols d’un aspecte merament tècnic, ja que hi poden
+interferir els sentiments: tothom es pot sentir dolgut si percep un cert menyspreu
+envers les paraules del seu propi parlar.1
+Tot plegat és tan complex que, a vegades, s’ha acabat adoptant una solució ad
+hoc per a cada mot, tenint present factors com la tradició literària o la valoració
+que en fan els mateixos parlants. Amb voluntat de posar ordre en aquesta qüestió,
+1. Aquesta qüestió no es limita tan sols a una determinada paraula, sinó també a les variants
+gràfiques, com golfa/esgorfa/angorfa, trespol/trispol, meló/moló, taronja/toronja, estalviar/estuviar,
+matalàs/matalap/matalaf, batafaluga/matafaluga, voliana/voliaina (‘papallona’ i ‘floc, volva de neu’),
+poal/pual/poval (‘galleda, ferrada’ i ‘cànter’), mixó/moixó, aucell/ocell, redorta/redolta, aclucar/aplucar, ensopegar/encepegar, avarca/albarca/aubarca, àlber/alba, cuereta/cullereta (‘capgròs, menut de la
+granota’), ratapenada/ratapinyada/rampanada, dofí/delfí/galfí, cargol/caragol, veremar/vermar/vremar, etc. La qüestió és si cal donar reconeixement gràfic a les variants fonètiques, com si fossin mots
+diferents, o si cal sacrificar les variants en pro d’una llengua escrita més uniformada.
+
+43
+
+001-088 II Jornades filologia.indd 43
+
+25/09/2014 08:43:38
+
+l’Institut d’Estudis Catalans (1992) ha establert uns criteris per a la incorporació
+de variants dialectals al diccionari normatiu. Aquest document representa un esforç de sistematització, però també és un exemple de generositat, ja que permet
+incloure al diccionari mots diversos per raons com ara l’expressivitat, la tradicionalitat, la precisió, el caràcter denotatiu, el valor estètic, la coherència estructural
+o el simple fet que permet suplir un castellanisme.2
+2. Condicionants del vocabulari andorrà
+Pel que fa al Principat d’Andorra, aquesta qüestió adquireix una dimensió especial. En efecte, el vocabulari andorrà està condicionat com a mínim per quatre
+factors. Dos d’aquests factors són presents també, en una mesura o una altra, en
+altres zones; però hi ha dos factors que podem considerar específics d’Andorra.
+En primer lloc, hi ha el secular aïllament de les contrades pirinenques (atribut
+no tan sols d’Andorra, sinó també de les comarques veïnes: la Ribagorça, el Pallars, l’Alt Urgell, la Cerdanya, el sector septentrional del Solsonès i del Berguedà,
+etc.). L’orografia —‌diverses valls envoltades per muntanyam— ha dificultat la comunicació entre les terres pirinenques i les regions del sud. Això ha fet que al Pirineu s’hagi mantingut un vocabulari més aviat tradicional, a diferència de les planes del sud, on hi ha hagut innovacions des del punt de vista lingüístic (i social:
+una cosa va emparellada amb l’altra). Potser per això Riera (1996, p. 35) suggereix
+l’existència d’un llenguatge pirinenc, present a les terres mencionades més amunt.
+El Pirineu, doncs, ha esdevingut una àrea lateral, és a dir, una zona perifèrica del
+domini lingüístic que ha alterat poc els trets lingüístics, en contraposició amb les
+zones més dinàmiques socialment i més innovadores lingüísticament. Com a
+exemples d’aquesta mena de vocabulari (que, no cal dir-ho, sol pertànyer a àmbits
+com l’arquitectura tradicional o l’agricultura) tenim cap de casa ‘golfes’ o cascavellico ‘mena de fruit’, solucions que es troben per diverses zones del Pirineu.3
+En segon lloc, hi ha l’influx del francès. Generalment, quan es parla de la influència francesa sobre el català es pensa sobretot en els gal·licismes generals (jaqueta,
+etiqueta, bufet, xifonier, hotel, fulard, fondue, forfet, xef, roleu, cupatge, etc.) i, pel
+2. Sobre la presència de dialectalismes en el diccionari normatiu català, vegeu Rico (1989), Gimeno (1993), Melis i Mascaró (1994), Miralles (1997), Creus, González i Julià (1998), Ferrando (2000),
+Casanova (2002a; 2002b) i Mallafrè (2004).
+3. S’ha de precisar que, des del segle xx, Andorra ha esdevingut un país molt dinàmic, tant socialment com econòmicament. Avui dia és un pol de riquesa per a les terres circumdants, sobretot l’Alt
+Urgell (els economistes parlen de la Seu d’Urgell i d’Andorra la Vella com a ciutats bessones, és a dir,
+ciutats situades a banda i banda d’una frontera amb molts lligams i que es beneficien mútuament),
+però també el Pallars i l’Arieja. Per tant, actualment Andorra genera innovacions lingüístiques (més
+avall n’apuntem alguna). En tot cas, una cosa no treu l’altra, en el sentit que Andorra també ha conegut
+el vocabulari tradicional pirinenc.
+
+44
+
+001-088 II Jornades filologia.indd 44
+
+25/09/2014 08:43:38
+
+que fa a la territorialitat, a la Catalunya del Nord. Tanmateix, Andorra també ha
+rebut una forta influència del francès, per diverses vies. Primer, pel fet —‌avui més
+simbòlic, però antany amb més pes— que un dels dos coprínceps és el cap d’estat
+de la República Francesa. Segon, per veïnatge i, doncs, per les relacions socials i
+econòmiques amb el veí del nord. En aquest punt cal dir que a les parròquies altes
+—‌especialment a Canillo, més propera a França— hi ha hagut tradicionalment una
+presència més afermada de gal·licismes que a la resta del territori andorrà. Tercer,
+per l’escola francesa, amb una gran implantació a Andorra. Quart, pel fet que molts
+andorrans cursen estudis superiors a Tolosa de Llenguadoc, de manera que, quan
+s’insereixen en el món laboral a Andorra, poden traslladar solucions lèxiques franceses als textos produïts al país. I, cinquè, per la presència d’emissores de ràdio i
+televisió franceses al Principat. Això fa que el vocabulari andorrà contingui gal·
+licismes desconeguts en altres parts del domini lingüístic català. Així, mentre que a
+Catalunya es parla de l’ajust dels esquís, a Andorra es parla del reglatge (del francès
+réglage). A Andorra també es parla de fer una enquesta (del francès enquête) al costat de fer una investigació (tot i que aquesta altra paraula també s’utilitza, i que enquesta també es fa servir amb el significat de ‘sondeig’). Igualment, els informàtics
+andorrans consideren que una interfície ha de ser convivial, mentre que els informàtics catalans diuen que ha de ser amigable. Pel que fa al vocabulari polític, durant un temps es va emprar —‌ara ja no, perquè no ho preveu la legislació electoral— el terme balotatge (del francès balottage), aplicat a les eleccions en què cal fer
+una segona volta perquè cap dels candidats no ha aconseguit la majoria absoluta a
+la primera volta (exemples d’ús: hi ha diversos candidats en balotatge; escrutini de
+balotatge). En l’àmbit educatiu tenim que l’inici del curs escolar s’anomena rentrée
+(pronunciat amb erra francesa). Fins i tot el centre francès d’ensenyança secundària rep el nom de lycée; no s’ha generalitzat la forma liceu, que és la que reporta el
+DIEC2 i com s’anomena a Barcelona. En el llenguatge administratiu també hi ha
+força gal·licismes. Així, el que a Catalunya és conegut com a empresa pública, a
+Andorra se’n diu empresa parapública (o, directament, parapública, amb l’adjectiu
+substantivat), emmirallant-se en la praxi francesa (enterprise parapublique, entité
+parapublique, santé parapublique, administration parapublique, organisation parapublique, etc.). Un cas amb més arrelament és arrest, un acord comunal, que segons Badia, Ganyet i Pérez (1992) i el DEA prové del francès arrêt ‘decisió, decret’.
+Es tracta d’un terme antic: s’han conservat documents andorrans del segle xvii en
+què apareix el verb arrestar (escrit arestar) amb el sentit d’‘ordenar’ o ‘acordar’
+(Areste lo dit Consell...). Anglada (1974, p. 122) reporta altres exemples ben usuals
+a la dècada dels setanta del segle xx: populació, redutable, partenari,4 bricolar, robi4. En català general s’empra sobretot la forma no adaptada partenaire. En el català de la Catalunya del Nord s’empra partenari, tal com s’ha documentat a Andorra.
+
+45
+
+001-088 II Jornades filologia.indd 45
+
+25/09/2014 08:43:38
+
+net, etc. I el glossari del llibre Dones d’Andorra (Garcia i Ronchera, 2006) recull
+mots d’origen francès en boca d’andorranes nascudes a principi del segle xx, com
+mutarda ‘mostassa’ (de moutarde, ídem), buquet ‘ram de flors’ (de bouquet, ídem,
+bé que literalment és ‘bosquet’) o regissor ‘encarregat d’una explotació agrària’ (de
+régisseur, ídem, si bé en aquest cas les informants ho aplicaven a les terres franceses, no pas a les terres andorranes).5
+En tercer lloc, hi ha el fet que Andorra s’ha mantingut com a país independent
+durant segles. Això ha fet que tingui el seu propi vocabulari jurídic i administratiu, lleument diferent del d’altres territoris catalanoparlants sota administració
+espanyola, francesa o italiana. Així, a Andorra la parròquia és la unitat administrativa de nivell local; el comú és la corporació local, equiparable aproximadament
+a l’ajuntament d’altres estats; la casa comuna és l’equivalent de la casa de la vila; el
+quart i el veïnat són conceptes semblants al de pedania (són figures administratives i, per tant, veïnat no tan sols es fa servir amb el sentit de ‘vilatge’ o ‘conjunt de
+veïns’); el cònsol és la màxima autoritat local, equivalent a l’alcalde (o batlle, o paer
+en cap); el batlle és el jutge de primera instància; el raonador és l’ombudsman; el
+síndic és el president del parlament i no pas l’ombudsman (que és el sentit que a
+Catalunya té aquest mot); un nunci és una mena d’uixer o conserge, i per tant no
+és tan sols un pregoner; un bander és un guarda forestal, equivalent a l’agent rural
+de Catalunya, etc. No és agosarat sostenir que la causant —‌si més no en part—
+d’aquestes diferències terminològiques ha estat l’evolució política dels altres territoris catalanoparlants. Els trasbalsos que han tingut lloc a partir del segle xvii han
+alterat la terminologia administrativa tradicional dels territoris catalanoparlants,
+per efecte de l’alteració de les estructures administratives. D’aquest procés, en va
+quedar a banda Andorra, on l’entramat jurídic actual és fruit d’una evolució interna sense interferències.6 Per tant, encara que sembli un xic aventurat, es pot afirmar que només Andorra ha mantingut inalterable la terminologia administrativa
+5. Per a més dades sobre els dialectalismes motivats per la influència d’una altra llengua, vegeu
+Rull (2007a). Per a una visió general de l’adaptació de gal·licismes en català, vegeu Barri (1999), Bruguera (1985, p. 74-77) i Rull (2005-2006).
+6. A la Catalunya del Nord hi ha cantons perquè actualment es troba dins de la República Francesa, a causa del Tractat dels Pirineus (segle xviii). Igualment, als sud-catalans se’ls va imposar el sistema administratiu espanyol a partir dels segles xviii i xix (municipis, partits judicials, províncies;
+aquestes institucions van suplir les vegueries, amb el trànsit entremig dels corregiments de Felip V).
+A Menorca, abans que hi arribés la uniformització administrativa hom parlava d’universitat per a referir-se a l’entitat local, mentre que avui han de parlar de municipi. Igualment, els quartons d’Eivissa i
+Formentera han deixat pas als municipis actuals. No és estrany, doncs, que els catalans maldin per restituir les denominacions tradicionals, com a símbol d’un intent de desvincular-se del poder centralista.
+Per això, quan han disposat de nou d’un cos de policia propi, n’han dit mossos d’esquadra (un cos creat
+al segle xviii que va lluitar contra revoltats austriacistes); o, quan han intentat fer una nova divisió administrativa per tal de superar l’arbitrarietat de les províncies, n’han dit vegueries. Això permet visualitzar com hauria estat el vocabulari administratiu català sense la interferència dels avatars polítics.
+
+46
+
+001-088 II Jornades filologia.indd 46
+
+25/09/2014 08:43:38
+
+típica de les terres catalanoparlants, gràcies a la seva independència (fins al punt
+que, per exemple, la figura del veguer amb el sentit de ‘representant del senyor’ ha
+perviscut fins a finals del segle xx, i s’ha suprimit per iniciativa pròpia).
+En quart lloc, hi ha la innovació local, fruit de les activitats quotidianes que es
+donen en qualsevol indret, i que deixen la seva petja en el llenguatge. Sense sortir
+de l’àmbit educatiu en tenim força exemples. En efecte, mentre que a Catalunya es
+parla generalment de ludoteca, a Andorra es parla de ludoescola. Semblantment, a
+Andorra se sol parlar de primera ensenyança i segona ensenyança, i no pas de primària i secundària. També hi ha el terme bàtxel·lor (adaptació de l’anglès bachelor), equivalent al que a Catalunya s’anomena grau referit al primer cicle dels estudis universitaris. Tot i que la Universitat d’Andorra parla simplement de primer
+cicle, el terme bàtxel·lor apareix a l’opuscle In-forma’t. Guia d’ensenyaments a Andorra 2007-08, editat pel Comú d’Andorra la Vella.7 Fora de l’àmbit educatiu hi
+ha el clípol, que és com a Andorra s’ha anomenat popularment l’autobús. Avui dia
+aquest mot està en recessió, ja que l’anglicisme bus ha guanyat molt de terreny en
+els darrers anys.8 Un altre exemple és l’adjectiu fronterer -a, que apareix en termes
+com treballador -a fronterer -a ‘persona que treballa a Andorra i resideix a les zones veïnes d’Andorra’ (també es pot usar com a substantiu: els fronterers) i treball
+fronterer. Per la seva curiositat, esmentem l’èxit que ha tingut l’expressió fer-se
+l’andorrà, sovint equivalent a fer-se el desentès.
+Com es pot veure, el tractament lexicogràfic del vocabulari local andorrà (tant
+si és específicament del país com si és compartit amb les zones veïnes) és força
+complex. No es tracta tan sols d’una llista de regionalismes, sinó que va més enllà:
+cal tenir en compte l’estatus polític d’Andorra, el rol institucional del català, l’evolució socioeconòmica del país, la influència del francès, la pervivència d’un mot
+en les diverses contrades pirinenques, etcètera.
+
+7. El terme bachelor va sorgir arran del procés de Bolonya, mitjançant el qual es fixava l’espai
+europeu d’educació superior, que permet l’existència d’un sistema curricular d’estudis universitaris
+unificat a tot Europa. L’any 2004 la Universitat d’Andorra va demanar al Servei de Política Lingüística
+com es podia traduir bachelor, i el Servei va proposar el terme llicenciatura europea. Aquesta proposta
+va ser ben acollida en un principi, però cal reconèixer que presenta algun problema (llicenciat -ada europeu -ea en dret andorrà?). Actualment, les universitats catalanes empren els termes grau i postgrau.
+La raó per la qual Andorra va fer una proposta terminològica abans que s’estengués el terme grau és
+perquè va adaptar-se ràpidament a l’espai europeu d’educació superior, a diferència d’Espanya, on es
+discutia si el primer cicle havia de ser de tres anys (com es fa arreu d’Europa, i com volien els rectors de
+les universitats catalanes) o de quatre (com volia el Govern espanyol).
+8. El DEA ho escriu sense accent, clipol, però en la parla és un mot pla. Segons aquesta obra, clípol és un mot creuat de Climent i Pol, nom (el primer) i cognom (el segon) dels empresaris que van
+crear una empresa de cotxes de línia. Val a dir que, a Andorra, de l’autobús també se n’ha dit, col·
+loquialment, platillo.
+
+47
+
+001-088 II Jornades filologia.indd 47
+
+25/09/2014 08:43:38
+
+3. Repercussions en el tractament lexicogràfic
+Com s’ha de gestionar tot això en les obres de consulta? La resposta s’articula
+en dos nivells. En primer lloc, hi ha la significació d’Andorra com a país sobirà, fet
+que té repercussions simbòliques sobre la llengua, com ara el paper que pot tenir
+el Principat com a representant de la llengua catalana en fòrums internacionals.
+En segon lloc, hi ha els que podem considerar estrictament problemes tècnics.
+Comencem pels problemes tècnics. És evident que el tractament del vocabulari
+andorrà en obres de consulta (diccionaris, vocabularis, enciclopèdies, tesaurus, el
+volum de lèxic de la Proposta per a un estàndard oral de la llengua catalana de l’Institut d’Estudis Catalans —‌si s’arriba a fer—, etc.) ha de tenir present l’aplicació territorial d’alguns termes. En efecte, en alguns casos no es tracta de meres sinonímies.
+Per exemple, el mot batlle es pot considerar sinònim de jutge; però en un vocabulari terminològic no es pot resoldre amb una mera remissió de l’un a l’altre, per tal
+com batlle amb el sentit de ‘jutge’ només s’aplica a Andorra (en altres territoris,
+batlle té el sentit d’‘alcalde’). Encara que conceptualment siguin el mateix, en rigor
+caldria fer una entrada específica per a cada concepte, amb la seva pròpia definició.
+Una simple remissió sense cap advertiment addicional és un risc, ja que podria fer
+que algú amb pocs coneixements de la realitat institucional dels territoris catalanoparlants acabés escrivint que un batlle valencià ha dictat sentència, posem per cas.
+Tot això és aplicable als altres casos (parròquia, comú, cònsol, síndic, bander, nunci,
+etc.). En definitiva, cal que lexicògrafs i terminòlegs —‌especialment aquests darrers, atesa la rigidesa en la presentació de la informació als vocabularis terminològics— rumiïn bé com s’han de tractar els andorranismes en un recull lèxic.
+L’altra qüestió és més complexa, ja que no es resol aplicant-hi mecànicament
+una determinada solució tècnica. El fet que Andorra sigui un país sobirà, i l’únic
+territori on el català és llengua oficial en exclusivitat, dóna un relleu especial al vocabulari propi. D’altra banda, és important que el conjunt de parlants d’una llengua —‌i, per tant, també els andorrans respecte a la llengua catalana— sentin ben
+representada la seva parla en les obres de referència.9 Això vol dir que el lèxic andorrà ha de tenir una presència adequada en el diccionari normatiu català. Seria
+impensable, per exemple, que aquest diccionari no inclogués el terme copríncep.
+4. Línies d’actuació
+El Govern andorrà considera aquesta qüestió estratègica. També és conscient
+de la dificultat que tenen els organismes que treballen en la fixació de la llengua
+9. Sobre el valor sociolingüístic de la presència de dialectalismes en el diccionari normatiu o en
+el llenguatge estàndard, vegeu les reflexions de Rull (2006b).
+
+48
+
+001-088 II Jornades filologia.indd 48
+
+25/09/2014 08:43:38
+
+des de fora d’Andorra (l’Institut d’Estudis Catalans, el TERMCAT, l’antiga Comissió Assessora de Llenguatge Administratiu, etc.) a l’hora d’accedir a una informació detallada i fiable sobre els usos del lèxic andorrà. Per això, el Servei de Política Lingüística ha desenvolupat tres línies d’actuació per tal que el vocabulari
+andorrà tingui el tractament lexicogràfic que li correspon. Aquestes tres línies
+són: a) recollida del llenguatge jurídic preconstitucional; b) presència d’andorranismes, i contribució general, a la terminologia catalana, i c) presència d’andorranismes en el diccionari normatiu.
+Val a dir que, paral·lelament, altres autors han fet la tasca que podríem considerar prèvia a aquestes tres línies d’actuació: la recollida de paraules i expressions
+típicament andorranes. Es tracta dels estudis d’Anglada (1974), Riera (1992, 1996)
+i Pantebre (1997). Cal fer esment també del Diccionari enciclopèdic d’Andorra
+(DEA, 2007), que conté termes que no figuren en altres reculls lexicogràfics, com
+emprivari ‘titular de l’ús d’un empriu’, buner ‘persona que toca la buna’, rebaixant
+‘terreny comunal boscós situat a menys altitud que les zones de pastura d’alta
+muntanya’, cúria ‘sala de judicis de la Casa de la Vall (seu del parlament andorrà)’,
+paquetaire ‘contrabandista’, saulic ‘sàlic’, taupa ‘talp’, tintalatge ‘tortellatge’, etc.
+Per la seva importància sociològica i política, destaquem andorranitzar i andorranització, termes que fan referència als processos d’integració de la immigració i de
+presència de la llengua i la cultura pròpies dels andorrans en els currículums dels
+diversos sistemes escolars presents als país.
+Detallem tot seguit quines tasques ha dut a terme el Govern. Pel que fa a la
+primera línia d’actuació (recollida del llenguatge jurídic preconstitucional), cal
+tenir present que, a principis dels anys noranta del segle xx, el Principat d’Andorra va engegar un procés constituent per tal de dotar-se d’una constitució pròpia,
+que va desembocar en l’aprovació de la Constitució l’any 1993. La carta magna
+manté diverses figures tradicionals, com la dels dos coprínceps; però era previsible que es modernitzessin alguns aspectes de l’entramat jurídic andorrà i, per tant,
+podia passar —‌i així va ser en algun cas— que desapareguessin algunes figures
+jurídiques, administratives o institucionals que havien funcionat secularment.
+Això va motivar la recollida de moltes d’aquestes figures al Vocabulari d’Andorra
+(Badia, Ganyet i Pérez, 1992). És el cas de la visura o veedoria, un tipus de tribunal; de la quèstia, el pagament d’origen feudal que, fins al 1993, els andorrans feien
+als dos cosenyors (el president de la República Francesa i el copríncep episcopal),
+o del veguer, que designa cada un dels representants dels coprínceps al país (el que
+ara hi ha són, senzillament, representants). L’aparició del Vocabulari d’Andorra
+permetia —‌com indiquen els seus autors a la introducció— tenir recollides en un
+llibre aquestes figures tradicionals, amb previsió que, si deixaven de ser vigents,
+quedés constància del seu significat i, en algun cas, dels àmbits en què s’utilitzaven.
+49
+
+001-088 II Jornades filologia.indd 49
+
+25/09/2014 08:43:39
+
+Pel que fa a la segona línia d’actuació (presència d’andorranismes, i contribució general, a la terminologia catalana), el Servei de Política Lingüística ha participat en l’edició de diversos vocabularis especialitzats. En aquest cas l’objectiu és
+doble. Primer, es tracta de contribuir a la fixació de la terminologia en català.
+I, segon, es pretén que les especificitats andorranes tinguin la presència adequada
+en els reculls terminogràfics. Així, el Servei va editar un Vocabulari de bars i restaurants quadrilingüe català-espanyol-anglès-francès (Badia et al., 2002), on hi
+havia algunes propostes innovadores, com ara traduir el gal·licisme coulis per fons
+(el TERMCAT va preferir mantenir coulis). Igualment, el Govern andorrà ha col·
+laborat en l’edició del Vocabulari de la neu i dels esports d’hivern (TERMCAT,
+1999), del Diccionari de la neu (TERMCAT, 2001a) —‌continuació de l’anterior—
+i del Diccionari d’hoteleria i turisme (TERMCAT, 2001b). Aquestes obres són
+exemples de la capacitat de col·laboració entre els diversos governs dels territoris
+catalanoparlants, ja que en el Diccionari de la neu van participar Andorra i Catalunya (en tots dos territoris hi ha pistes de neu) i en el Diccionari d’hoteleria i turisme van participar Andorra, Catalunya i les Illes Balears (en tots tres territoris hi
+ha una potent indústria turística). Com a exemples de l’aportació d’Andorra a
+aquests diccionaris tenim l’expressió fer cunya ‘disposar els esquís en forma de V,
+amb les parts del davant gairebé tocant-se’10 o borda, que en principi significa
+‘construcció on es guarda bestiar’ però que, tant a Andorra com en altres comarques pirinenques, ja significa, també, ‘restaurant típic’.11 En canvi, altres propostes no van entrar en aquests diccionaris, com termoludisme. El TERMCAT va preferir turisme termal (i fins i tot termoturisme), tot i que el Servei de Política
+Lingüística continua pensant que termoludisme és la millor solució (de fet, a Andorra segueix usant-se aquesta forma, paral·lela, d’altra banda, al francès thermoludisme i a l’espanyol termoludismo). El Servei també ha col·laborat en el Diccionari general de l’esport, impulsat pel TERMCAT; en aquest cas les aportacions van
+ser sobretot en rugbi i esquí, tenint present la llarga tradició d’aquests dos esports
+a Andorra. Finalment, cal dir que actualment el Servei col·labora en la confecció
+d’un diccionari jurídic català, en què participen també altres territoris.
+Pel que fa a la tercera línia d’actuació (presència d’andorranismes en el diccionari normatiu), des de finals dels anys noranta del segle xx l’Institut d’Estudis
+Catalans treballava en la segona edició del DIEC (que havia estat, al seu torn, l’actualització del DGLC de Fabra). Amb vista a aquesta segona edició, l’any 2003 el
+Servei de Política Lingüística va preparar una llista de propostes perquè fossin in10. Es tracta d’un castellanisme, però molt arrelat. La forma fer tascó era la recomanada abans de
+l’edició del Diccionari de la neu.
+11. El Diccionari d’hoteleria i turisme només posa el sentit original a la definició, però el nou
+sentit apareix consignat en una nota amb aquest text: «Sovint es rehabilita com a restaurant».
+
+50
+
+001-088 II Jornades filologia.indd 50
+
+25/09/2014 08:43:39
+
+closes al DIEC2. Les aportacions que es van fer eren de tres tipus: vocabulari tradicional (sovint compartit amb altres comarques pirinenques), significats nous
+motivats per la realitat econòmica actual i terminologia pròpia del llenguatge administratiu i jurídic andorrà. La majoria de vegades es tractava de propostes d’inclusió (fos una paraula —‌és a dir, una nova entrada—, fos una expressió —‌una
+nova subentrada—, fos un significat —‌una nova accepció dins de la definició—);
+però en algun altre cas es tractava de donar informació morfològica (la batlle, i no
+la batllessa), d’una actualització (el terme veguer ‘representant del copríncep’ era
+obsolet des del 1993, i calia fer-ho notar a la definició; i el substantiu llevador -a
+‘encarregat de portar els comptes o les anotacions d’entrades i sortides’ apareixia
+al DIEC1 com a obsolet, però en els quarts andorrans és una figura vigent) o de
+posar-hi exemples il·lustratius per tal d’informar adequadament sobre l’ús dels
+termes (és el cas de copríncep episcopal i copríncep francès).12
+En la recollida del vocabulari tradicional, lògicament, es va mirar que les propostes encaixessin amb els criteris establerts per l’Institut d’Estudis Catalans
+(1992) per a la inclusió de mots d’abast dialectal. Però sobretot es va mirar que
+fossin paraules o expressions emblemàtiques del parlar andorrà (compartides per
+altres comarques pirinenques o no), reconegudes pels andorrans com a formes
+pròpies i oposades a altres formes usuals en la llengua estàndard. Això implicava
+recollir algun mot que estava en recessió; però, en tot cas, sempre es va procurar
+que fossin formes conegudes per una part important de la societat andorrana. En
+aquest sentit, es volia donar reconeixement a unes paraules tradicionals, típiques i
+representatives del parlar andorrà (o pirinenc), per tal que la societat andorrana
+veiés que el diccionari normatiu de la llengua catalana també les recollia. En
+aquest grup, s’hi inclouen mots o expressions com botir-se ‘enutjar-se’, cap de casa
+‘golfa’ (també usual al Pallars, si bé que en aquesta zona conviu amb sotacoberta),13
+aconduir ‘menar (el bestiar)’, donja ‘embotit fet amb la carn del coll del porc’, cascavellic ‘fruit vermellós, semblant a la pruna’ (bé que la forma usual de la llengua
+parlada del Pirineu és cascavellico), carrota ‘pastanaga’, murga ‘múrgola’, etc. Un
+dels criteris de l’Institut d’Estudis Catalans (1992) per a la inclusió de localismes
+és l’expressivitat, i això permetia que en aquesta llista hi hagués mots com pitavola
+‘papallona’,14 serenalla ‘sargantana’15 o desencusa ‘excusa’.16 Dins d’aquesta categoria se n’hi va incloure algun altre que l’Institut d’Estudis Catalans va desesti12. La GGCC (entrada «Andorra») parla de copríncep mitrat; però justament el terme copríncep
+episcopal és la forma usual.
+13. Val a dir que, a Andorra, el terme cap de casa també indica el membre d’una família que té
+l’autoritat, sentit que es troba arreu i que ja recollia el DIEC1.
+14. La grafia pitavola és la més usual, però Anglada (1974, p. 124) també recull bitavola i bitivola.
+15. Anglada (1974, p. 125) també consigna la forma sagrantalla.
+16. Forma usual a les comarques de Lleida, i, segons el DCVB, també a la Catalunya del Nord.
+
+51
+
+001-088 II Jornades filologia.indd 51
+
+25/09/2014 08:43:39
+
+mar, com trasteria ‘cosa inútil’ i ‘malifeta’, paniquesa ‘mostela’ (el DIEC1 ja recollia paniquera), desempanar ‘reparar una pana’ o aixarnola ‘espurna, guspira’.17
+De nous significats motivats per les innovacions econòmiques i socials, n’hi
+ha menys exemples. Destaquem cava de cigars, un terme que abunda al país, però
+que també es troba fora d’Andorra. També s’hi va posar borda amb el sentit de
+‘restaurant típic de l’Alt Pirineu’, però aquesta proposta va ser desestimada.
+Finalment, hi ha el vocabulari administratiu i jurídic. En el document hi havia
+propostes com parapública, veïnat, arrest (dels quals ja hem parlat), foc i lloc ‘impost parroquial’ (equivalent si fa no fa a les contribucions dels municipis), cot
+‘multa imposada per un consell andorrà per l’incompliment d’un deure’, consòrcia ‘unió de persones que tenen un interès comú i que s’ajuden en cas de necessitat’, raonador -a del ciutadà ‘ombudsman’,18 batlle (femení invariable) ‘jutge de
+primera instància’, batllia ‘jutjat de primera instància’, ordinació ‘norma d’un
+comú’, providència ‘resolució d’un jutge en relació amb un tràmit processal’, aute
+‘interlocutòria, document judicial que fa indicacions sobre qüestions incidentals
+o prèvies d’un procés judicial, sense que sigui necessària la sentència’ (adaptació
+de l’espanyol auto),19 manador -a ‘pregoner’, nunci núncia ‘conserge de l’administració pública’, comú ‘corporació encarregada del govern i l’administració d’una
+parròquia’ i ‘edifici on hi ha aquesta corporació’, la forma femenina coprincesa al
+costat del masculí copríncep,20 etc. Val a dir que alguns mots propis del llenguatge
+17. Quant a aixarnola, és recollit per Riera (1996, p. 37) amb aquesta grafia, i fa notar que al Pallars se’n diu aixalda. La dificultat de triar una grafia (podria ser eixarnola) podria justificar la prevenció de l’Institut d’Estudis Catalans.
+18. Al DIEC1 el mot raonador -a ja estava definit com a ‘defensor de la ciutadania’; però a Andorra se sol dir amb l’expressió sencera, raonador -a del ciutadà.
+19. La traducció del terme castellà auto ha estat complicada. Cal tenir present que és una figura
+antigament desconeguda en la tradició jurídica catalana i andorrana, però introduïda en tots dos casos
+per influència de la praxi judicial castellana. A l’hora de designar el concepte, en un principi hom en
+va dir acte o aute (aquesta darrera forma va arrelar a Andorra). L’Institut d’Estudis Catalans (2003) va
+adoptar interlocutòria, forma aprovada pel Consell Supervisor del TERMCAT (19 de gener de 1998).
+Aquesta decisió és en part motivada per la correspondència amb altres llengües (anglès interlocutory
+order; francès ordonnance interlocutoire; italià decisione interlocutoria). Els partidaris del terme interlocutòria sostenen que va prou bé per a traduir el terme castellà auto, sent com és un concepte propi d’una
+altra tradició jurídica. En canvi, hi ha processalistes que consideren erroni traduir l’espanyol auto per
+interlocutòria, perquè tan interlocutori és un auto com una providencia (en català providència, admès al
+DIEC2). A banda, en l’àmbit de la Unió Europea el terme anglès order sol traduir-se en espanyol per
+auto —‌per tant, en català podria ser interlocutòria—; però una order també pot ser una resolució. En el
+cas d’Andorra, la forma aute havia arrelat tant que es feia molt difícil d’eradicar. El DIEC2 va recollir
+el mot, si bé indicant que s’aplica a Andorra. Per a més dades sobre aquesta qüestió, vegeu el DECat.
+20. L’estiu del 2007, amb el DIEC2 acabat de sortir del forn, França estava immersa en l’elecció
+d’un nou president de la República. A la segona volta, hi concorrien Nicolas Sarkozy i Ségolène Royal.
+Finalment, va guanyar el primer; però si hagués guanyat la segona, els mitjans de comunicació andorrans haurien disposat ipso facto del femení de copríncep.
+
+52
+
+001-088 II Jornades filologia.indd 52
+
+25/09/2014 08:43:39
+
+administratiu i jurídic són alhora propis del vocabulari tradicional. Això es veu en
+lleis, reglaments i edictes que fan referència a activitats econòmiques tradicionals;
+és el cas d’eixivern ‘eixivernada’, peixena ‘zona aglevada on viu el bestiar a l’estiu’
+o padral ‘registre d’animals de renda’.21
+5. Actuacions futures
+El Servei de Política Lingüística d’Andorra considera que cal continuar la tasca d’arreplega de mots tradicionals pirinencs i de termes propis del llenguatge
+administratiu i jurídic andorrà, amb vista a la següent edició del diccionari normatiu o la seva actualització en línia. Alguns candidats són:22 trasteria ‘cosa inútil’
+i ‘malifeta’;23 desempanar ‘reparar una pana’; aixarnola o eixarnola ‘espurna, guspira’; buner -a ‘persona que toca la buna’;24 borda ‘restaurant típic de l’Alt Pirineu’
+(a Andorra també fa referència a una antiga borda rehabilitada per a passar-hi un
+cap de setmana, un dia festiu, etc.); taupa o potser talpa ‘talp’;25 saulic ‘sàlic’;26 tintalatge ‘tortellatge’;27 paquetaire ‘contrabandista’;28 emprivari ‘titular de l’ús d’un
+empriu’;29 rebaixant ‘terreny comunal boscós situat a menys altitud que les zones
+21. Per a més informació sobre la presència d’andorranismes al DIEC2, vegeu Rull (2007a).
+22. La llista no és tancada; això vol dir que s’hi poden afegir mots o que se’n poden llevar. N’hi ha
+(trasteria, desempanar, aixarnola, buner i el nou sentit de borda) que figuraven a la proposta per al
+DIEC2 i van ser rebutjats; en aquests casos, el que cal fer és cercar més informació sobre el seu ús, per
+tal d’avalar-ne l’admissió. En canvi, mots com càbio ‘cabiró’ o paniquesa ‘paniquera, mostela’, proposats per al DIEC2 i rebutjats, potser no haurien de figurar en aquesta llista. Bona part de les propostes
+figuren al DEA, a l’apartat de lèxic del llibre d’estil d’Andorra Televisió (Puigdomènech i Solís, 2005) i
+als treballs d’Anglada (1974), Riera (1992, 1996) i Pantebre (1997). La majoria de mots no són exclusius
+d’Andorra, sinó que es troben en altres zones, tant comarques pirinenques veïnes com terres més allunyades.
+23. En altres regions es diu trastada ‘malifeta, trapelleria’ (també derivat de trasto). Els sufixos
+-eria i -ada, en aquest àmbit, sovint són commutables (per exemple, ruqueria i rucada ‘bestiesa’).
+24. La buna és un sac de gemecs. Els diccionaris recullen el mot buna però no pas buner, tot i que
+a Andorra aquesta paraula té una gran tradició (existeix la llegenda del buner d’Ordino).
+25. La vocalització de l en u és un fenomen fonètic molt arrelat en català, com es veu en mots
+com bauma per balma, aubergínia per albernía, aube per àlber, etc., i també taupa (o taup, com es diu
+a les Terres de l’Ebre) per talp. El terme taupa figura al DCVB.
+26. El DIEC2 no recull saulic, però aquest mot apareix al GDLC, al GD62 i al DCVB.
+27. D’aquest arbust també se’n pot dir tintillaina i tantellatge. El DIEC2 i el GDLC entren tortellatge i tintillaina, però no tintalatge ni tantellatge. Al DCVB hi ha totes les paraules menys tintalatge.
+El GD62 sols recull tortellatge.
+28. El DIEC2 entra paquetaire tan sols amb el significat de ‘persona que es dedica a fer paquets’.
+El GDLC, el GD62 i el DCVB l’entren amb aquest significat però també amb el sentit de ‘contrabandista que passa paquets per la frontera’.
+29. No és en cap dels diccionaris consultats (DIEC2, GDLC, DCVB i GD62). Seguint la pràctica
+lexicogràfica implantada a finals del segle xx en la denominació d’oficis, potser caldria entrar-lo també
+amb forma femenina, emprivària, ja que podria aplicar-se a una dona o a una empresa.
+
+53
+
+001-088 II Jornades filologia.indd 53
+
+25/09/2014 08:43:39
+
+de pastura d’alta muntanya’;30 peixeder ‘lloc on els animals peixen’;31 tendrella
+‘tendrum’; gerricana o xerricana ‘mena de pot’; gavernera o gavarnera ‘gavarrera’;32 arroplegar ‘arreplegar’;33 anyiva o nyiva ‘geniva’;34 grius ‘calfreds, tremolins,
+esgarrifances’; l’expressió fer-se l’andorrà ‘fer-se el desentès’ (dins de l’entrada andorrà -ana); fer la guerxina ‘picar l’ullet’;35 trucar ‘pegar (un cop)’; rapat ‘grapat,
+manat’;36 remull ‘pluja fina’; gicar ‘deixar, prestar’; potser gargansó ‘gargamella’;37
+escaliró ‘esglaó’; fresa ‘lloc on els peixos fresen’;38 tocar la mà ‘xocar-la’; potser
+donques ‘doncs’;39 cossigoles ‘pessigolles’;40 arribada ‘marge fet amb terra amuntegada’;41 cardamella ‘variant de card típica d’Andorra i del Pallars’;42 freixera ‘freixe’; estaldí o restaldí ‘estalzí, sutge’; orandeta ‘oreneta, oroneta’; nascència ‘el fet
+de néixer, naixença’;43 tampall ‘tampa, porticó que obre cap enfora’; pessó o peçó
+30. No figura en cap dels diccionaris consultats (DIEC2, GDLC, DCVB i GD62).
+31. Al Pallars, l’Alt Urgell i Andorra, el sufix -er deverbal equival al sufix -or quan indica ‘lloc on
+es fa una cosa’ (Veny, 1982, p. 138). A Andorra hi ha topònims com el clot del Saltader, la solana del
+Saltader o el coll Passader. A més, el DIEC2 ja recull esbalçader ‘precipici, lloc on s’esbalcen els animals’.
+32. No figura al DIEC2 ni al GDLC, però sí al DCVB, amb les dues grafies. Segons el DCVB, les
+dues variants es troben arreu. Anglada (1974, p. 123) i Riera (1996, p. 42) escriuen gavernera, mentre
+que el DEA escriu gavarnera (al costat de gavarrera).
+33. La forma arroplegar se sent en altres indrets (rodalia de Lleida, Priorat, Terres de l’Ebre, etc.).
+34. Escrit anyiba per Anglada (1974, p. 125).
+35. El DCVB entra guerxina ‘acte de tancar un ull mantenint l’altre obert’ i també consigna l’expressió fer la guerxina ‘fer l’ullet’. Riera (1996, p. 37) només recull fer la guerxina. El DCVB ho localitza
+al Pallars, a Lleida i a l’Urgell; Riera (1996) fa notar que també es diu a Andorra.
+36. Usat a molts llocs del domini lingüístic.
+37. El DIEC i el GDLC recullen garganxó, amb dos sentits: ‘laringe’ i ‘nou del coll’ (el primer en
+dues accepcions i el segon només en una). El DCVB —‌que dóna els mateixos significats— fa notar que
+tant pot ser garganxó com gargansó.
+38. El verb fresar significa ‘pondre ous’, aplicat a peixos i amfibis. El DIEC2 recull fresa amb el
+sentit d’‘acció de fresar’; el GDLC indica que també vol dir ‘època de fresar’ i ‘conjunt d’ous posts’. Alhora, el DIEC1 recull fres amb el sentit de ‘lloc on els peixos fresen’; el DCVB indica que també vol dir
+‘indret on es fresa’ i ‘acció de fresar’. El terme fresa apareix habitualment en documents legislatius andorrans referits a les activitats de pesca.
+39. Forma també present en altres contrades pirinenques, com la Ribagorça.
+40. El DIEC2 entra pessigolles i cossigolles (i cossiguetes, forma pròpia de parlars meridionals).
+També pot dir-se, però, pessigoles (Empordà) i cossigoles (Pallars, Andorra). Es tractaria, doncs, que el
+diccionari recollís pessigolles, pessigoles, cossigolles i cossigoles (a més de cossiguetes); i que totes les entrades remetessin a una de sola (pessigolles, la forma més usual en el registre estàndard), que contindria
+la definició. No entrem a valorar la possibilitat d’incloure-hi altres variants, com pessiguelles o pessi­
+guetes.
+41. Al DIEC2 ja hi ha riba i ribàs. Alguns parlants distingeixen el marge (fet amb pedra) del ribàs
+(sense pedra); el sentit d’arribada coincideix amb el de ribàs descrit aquí.
+42. Recollit pel DCVB. Notem que existeix el topònim andorrà el Cardameller.
+43. No és un terme específicament andorrà, ja que també es troba en documents publicats al web
+de l’Institut d’Estudis Catalans o al Boletín de Información Agraria, 113, editat per la Generalitat Valenciana. A més, el TERMCAT també recull aquest terme. Ara bé, el TERMCAT fa notar que s’aplica a
+
+54
+
+001-088 II Jornades filologia.indd 54
+
+25/09/2014 08:43:39
+
+‘pila de coses’;44 draga ‘esquer’; rellindar ‘llinda’; trenca ‘partió de terme’;45 cloc
+‘(ou) nial, xarbot, covat’; xorrac o xurrac ‘xerrac’;46 xut ‘xot (ocell)’; defens ‘acció
+de privar que el bestiar públic pugui pasturar en un predi, o que pugui fer-ho sense pagar’;47 transfronterer -a ‘a banda i banda d’una frontera’;48 andorranitzar ‘fer
+presents els elements culturals andorrans en sectors com la societat nouvinguda,
+les escoles francesa i espanyola, etc.’; andorranització ‘acció i efecte d’andorranitzar’;49 andorranitat ‘qualitat d’andorrà’; andorranisme ‘paraula o expressió típica
+d’Andorra’ i ‘devoció a les coses característiques d’Andorra’, etcètera.
+Hi ha alguns casos especials que convé mencionar per raons diverses, com ara
+la seva dificultat. És el cas de cosenyoriu, terme usual a Andorra atès que té dos
+caps d’estat fruit d’uns pariatges medievals. El problema d’aquest mot és la indefinició al voltant de la grafia de la s (cossenyoriu), una qüestió mal resolta en la normativa actual. Hem de subratllar que a Andorra es diu cosenyoriu (o cossenyoriu,
+com s’hagi d’escriure), i no pas consenyoriu (el DCVB, el GDLC i el DIEC2 entren
+consenyor, però no pas cosenyor ni cossenyor; el GD62 no recull cap d’aquestes
+formes).
+L’apartat dels gentilicis també és problemàtic. Segons l’Institut d’Estudis Catalans (1996), el diccionari normatiu només ha de contenir els gentilicis de països,
+capitals, caps de comarca, ciutats importants, etc. No inclou, per tant, gentilicis de
+poblacions andorranes, llevat d’andorrà -ana. Ara bé: alguns topònims andorrans
+tenen un gentilici poc predictible, com Sant Julià de Lòria, el gentilici del qual és
+lauredià -ana (a partir de Lauredia, forma llatinitzada de Lòria), i Encamp, el genplantes, mentre que a Andorra s’usa referit a animals: la nascència dels vedells («Llei d’agricultura i ramaderia d’Andorra. Un cas de política de protecció de muntanya», d’Anna I. Teixidó i Jordi Deu, del
+Ministeri d’Agricultura i Medi Ambient d’Andorra). Potser es tracta d’un castellanisme (nascencia).
+44. Tant Anglada (1974, p. 124) com Riera (1996, p. 47) escriuen peçó i pessó. L’existència del
+topònim andorrà els Pessons, escrit així tradicionalment, pot fer decantar la balança vers la grafia pessó.
+45. Tots els diccionaris indiquen que trenca significa ‘fita, pedra indicadora de partió’; però també es pot usar —‌almenys a Andorra es fa així— com a sinònim de partió mateix (per exemple, en una
+frase com La trenca passa per aquí i travessa el riu més amunt).
+46. El DIEC2 sols recull xerrac. Segons el DCVB, al Priorat i a Mallorca es diu xorrac, mentre que
+a Andorra, al Pallars i a la Terra Alta es diu xurrac (en zones orientals, com el Camp de Tarragona, es
+diu xurrac; en aquest cas, però, es pot explicar per la neutralització vocàlica).
+47. La idea essencial de defens és ‘prohibició’; el verb defendre antigament volia dir ‘impedir,
+privar, prohibir’ (a banda de ‘defensar’). El mot defens apareix al GDLC —‌però no en els altres diccionaris generals (DIEC2, DCVB, GD62)—, i això feia menys peremptòria la seva inclusió al DIEC2. Per a
+més informació sobre el concepte de defens, vegeu el DEA.
+48. Paral·lelament al francès transfrontalier i a l’espanyol transfronterizo. No és un terme exclusiu d’Andorra, ja que en textos generats a Catalunya també es troba; a tall d’exemple, es parla de l’hospital transfronterer de Puigcerdà.
+49. Ni andorranitzar ni andorranització no figuren en cap dels diccionaris consultats (DIEC2,
+GDLC, DCVB i GD62), tot i que és un concepte força usat pel món cultural i polític andorrà durant el
+darrer quart del segle xx.
+
+55
+
+001-088 II Jornades filologia.indd 55
+
+25/09/2014 08:43:39
+
+tilici del qual és encampadà -ana.50 Rull (2007a) considera que el diccionari normatiu hauria de recollir els gentilicis difícilment predictibles,51 perquè així s’evitaria el risc que s’acabés dient encampenc -a o santjulianenc -a (els pobles catalans
+de Sant Julià del Llor i Sant Julià de Vilatorta ja tenen aquest gentilici). Ara bé: si el
+diccionari inclogués aquests dos gentilicis, de les set parròquies andorranes n’hi
+hauria tres de representades (encampadà -ana, andorrà -ana i lauredià -ana),
+mentre que les altres quatre no (canillenc -a, ordinenc -a, massanenc -a, escaldenc -a); i això oferiria una imatge de desequilibri, i fins i tot podria motivar queixes per part dels exclosos. Optar per posar-hi els set gentilicis és una solució factible tècnicament (les parròquies andorranes són institucions amb força pes dins
+dels país), però requereix esperar a la publicació del nomenclàtor d’Andorra per
+tal de verificar la grafia massanenc -a o maçanenc -a (encara que l’Institut d’Estudis Catalans vulgui escriure la Maçana, un acord del Consell General del 1977 va
+oficialitzar la grafia la Massana).
+Un altre cas complex és pleta amb el sentit d’‘urbanització’ (tradicionalment
+fa referència a un indret on es guarda bestiar). És una innovació semàntica semblant a la de borda, que s’ha estès arreu del Pirineu (hi ha la Pleta de Saga a la Cerdanya o la Pleta d’Aravell a l’Alt Urgell, per exemple) i que ha penetrat en el llenguatge comú, fins al punt que a Andorra es poden sentir frases com Aquí hi volen
+fer una pleta, és a dir, que hi volen fer una urbanització (encara que no hi hagués
+cap pleta de les d’abans). L’admissió d’aquest sentit de pleta ha d’anar emparellada amb l’admissió del nou sentit de borda, ja que són innovacions recents motivades pels canvis d’usos dels espais. (Cal dir que hi ha andorrans reticents a consagrar aquests sentits nous de borda i pleta. Però, a banda que és inevitable que el
+llenguatge evolucioni, la inclusió al diccionari dels sentits nous no hauria d’implicar la supressió dels sentits tradicionals. Entre altres raons, perquè encara hi ha
+bordes i pletes al Pirineu a les quals es dóna l’ús tradicional.)52
+Finalment, hi ha l’apartat de partícules. Una preposició força utilitzada en el
+llenguatge administratiu i jurídic andorrà és prop. S’aplica al destinatari d’un tràmit, sobretot quan és un càrrec o una institució. En documents publicats al Butlletí Oficial del Principat d’Andorra i altres textos administratius, hi trobem frases
+com Els papers s’han de fer prop del ministeri; [S’acorda] nomenar X ambaixador
+50. Notem que existeix el topònim andorrà Encampadana, a la parròquia de Canillo.
+51. Com a exemples hi ha ponsic -a ‘de Ponts’, rosetic -a ‘de Roses’, lloretic -a ‘de Lloret de Mar’,
+solleric -a ‘de Sóller’ (que justament figura al DIEC2), aneuenc -a ‘de la vall d’Àneu’, besaluenc -a ‘de
+Besalú’, flixanc -a ‘de Flix’ (en la llengua parlada el masculí és flixanco), benicarland -a ‘de Benicarló’
+(en la llengua parlada el masculí és benicarlando), aiguatebiat -ada ‘d’Aiguatèbia’, fontpedrosat -ada
+‘de Fontpedrosa’, canareu -eva [o -eua] ‘d’Alcanar’, etc. Precisament el GDLC inclou alguns d’aquests
+gentilicis (solleric -a, besaluenc -a, flixanco -a, canareu -eva).
+52. Per a més informació sobre els nous significats de pleta i borda, vegeu Rull (2006a).
+
+56
+
+001-088 II Jornades filologia.indd 56
+
+25/09/2014 08:43:39
+
+extraordinari i plenipotenciari del Principat d’Andorra prop de les Cimeres Iberoamericanes; La liquidació, la notificació i el pagament es portaran a terme en el moment d’adreçar la sol·licitud prop del Comú; Realitzar accions de promoció turística
+prop dels professionals del sector turístic i els mitjans de comunicació (extret, aquest
+darrer, del pressupost del 2002). Cal precisar que no es tracta d’un formulisme
+present únicament en el llenguatge administratiu escrit, sinó que és ben viu, ja
+que també es pot sentir en la parla: Vaig preguntar al ministeri si podia fer alguna
+cosa prop de l’aeroport per veure [si no es podia repetir un fet com aquest] (document oral, Andorra la Vella, 30.10.2001). El GDLC recull aquest ús,53 però no pas
+el DIEC2. També existeix la partícula cap, equivalent a pas en les negacions (Anglada, 1974, p. 122; Riera, 1996, p. 46).54 Aquest ús també es troba al Pallars.55
+Tractant-se de partícules, cal meditar bé si es proposa d’incloure-les al diccionari,
+més si tenim present que són d’extensió territorial reduïda.
+A banda de les propostes d’inclusió, també es podrien fer redaccions alternatives d’algunes definicions per tal de millorar-les. Per exemple, el DIEC2 defineix
+quèstia així (accepció 2): ‘donació anual que cada parròquia andorrana fa al copríncep’. Com que des del 1993, des de l’aprovació de la Constitució, és una pràctica obsoleta, caldria canviar-ne la definició, posant-la en passat (feia a cada un
+dels coprínceps per fa al copríncep, per exemple). Semblantment, el DIEC2 defineix gaial com ‘obertura feta en una paret’, però a Andorra designa més aviat una
+obertura feta al sostre. Precisament el DCVB ja ho defineix així (‘obertura gran
+practicada a la part superior d’una casa de pagès, sota la teulada’), i indica que
+aquest terme és propi d’Andorra i d’altres poblacions pallareses i ribagorçanes.
+En aquest camp hi ha altres retocs possibles, més de caràcter tècnic. Per exemple, el
+DIEC1 —‌i també el DIEC2— ja incloïa posella ‘prestatge, lleixa’, un dels mots que
+els andorrans consideren típic del seu repertori lèxic. Domingo (2007) fa notar
+53. L’accepció 3 de l’entrada prop del GDLC diu: «[seguit de la preposició de] Introduint un
+complement de lloc en sentit figurat. Ambaixador prop del Quirinal».
+54. Riera (1992) porta aquests altres exemples: No hi han cap anat (‘no hi han pas anat’), No es
+fan cap gaire grossos (‘no es fan pas gaire grossos’), No els han cap pogut agafar aquests (‘no els han pogut pas agafar, aquests’), No ho escriurà cap (‘no ho escriurà pas’), No les conec cap totes les herbes (‘no
+les conec pas, totes les herbes’). Anglada (1974, p. 123) porta aquest altre exemple: No en tinc cap gaire
+(‘no en tinc pas gaire’). El llibre d’Oriol (1997, p. 63, 70 i 76) sobre folklore andorrà recull transcripcions fetes per andorrans mateixos de finals del segle xx, i s’hi poden llegir expressions com va cap voler
+dir (‘va pas voler dir’), puc cap donar (‘puc pas donar’) o van cap fer engreixar (‘van pas fer engreixar’).
+55. En dóna compte Coll (1991, p. 29). Aquest autor fa notar que got i cap s’usen al Pallars com a
+reforç de negació. El segon és equivalent a pas: No vinrà cap, ell (‘no vindrà pas, ell’). Hi afegeix que,
+a les valls més septentrionals, fins i tot substitueix no (com fa el parlar rossellonès amb pas): É cap vritat, això! (‘no és veritat, això!’). Sistac (1998, p. 69-70), en el seu treball sobre el parlar de la vall d’Àneu
+(Pallars Sobirà), també indica que got substitueix gens (No m’agrada got) i que cap substitueix pas (No
+en vull cap ‘no en vull pas’) i fins i tot no (Ho faré cap, açò ‘no ho faré, açò’). No s’ha de perdre de vista
+que el Pallars i Andorra comparteixen molts trets lingüístics (Veny, 1982; Coll, 1991; Riera, 1996).
+
+57
+
+001-088 II Jornades filologia.indd 57
+
+25/09/2014 08:43:39
+
+que tant posella com lleixa també designen els replans situats en els vessants d’una
+muntanya. Potser, en un futur, posella podria remetre a lleixa (no pas relleix,
+però), i aquest mot podria tenir dues accepcions, ‘prestatge’ i ‘replà en el vessant
+d’una muntanya’.
+6. Conclusions
+Hem fet un repàs de les actuacions dutes a terme perquè el vocabulari andorrà
+tingui un tractament adequat en les obres de consulta. Però també hem esbossat el
+camí que falta per recórrer, i creiem que cal aprofundir en aquesta línia. Per tant,
+aprofitant el treball de pioners com Maria Teresa Anglada o continuadors com
+Manel Riera o Rosalia Pantebre (als quals cal reconèixer l’esforç d’arreplegar i sistematitzar el vocabulari típic del país), cal continuar la tasca engegada per gent
+com Montse Badia (que va participar en moltes de les iniciatives comentades en
+aquest treball) o Àlvar Valls (que va assumir el repte de publicar el DEA). Que
+tanta gent hagi posat el seu gra d’arena en aquesta tasca demostra que, per als andorrans, el reconeixement normatiu del seu vocabulari és una qüestió prou important.
+Joan Sans Urgell
+Servei de Política Lingüística d’Andorra
+Referències bibliogràfiques
+Anglada, Maria Teresa (1974). «La llengua catalana parlada i escrita a les valls d’Andorra». A: Quatre anys de Jocs Florals juvenils: Valls d’Andorra 1970-1973. Andorra la
+Vella: Cercle de les Arts i de les Lletres, p. 121-125.
+Badia, Montserrat [et al.] (2002). Vocabulari de bars i restaurants. Andorra la Vella: Servei de Política Lingüística: Establiments Vidal.
+Badia, Montserrat; Ganyet, Rosabel; Pérez, Sergi (1992). Vocabulari d’Andorra. Andorra la Vella: Govern d’Andorra.
+Barri, Montserrat (1999). Aportació a l’estudi dels gal·licismes del català. Barcelona: Institut d’Estudis Catalans.
+Bruguera, Jordi (1985). Història del lèxic català. Barcelona: Enciclopèdia Catalana.
+Casanova, Emili (2002a). «El lèxic valencià en el DIEC (1995)». A: Estudis del valencià
+d’ara. València: Denes, p. 55-83.
+— (2002b). «El lèxic valencià en el diccionari Fabra de 1932». Catalan Review, vol. 16,
+núm. 1-2, p. 51-70.
+Coll, Pep (1991). El parlar del Pallars. Barcelona: Empúries.
+Creus, Imma; González, Rodolf; Julià, Joan (1998). «Dialectalismes i diccionaris: entre
+la tradició i la variació». Sintagma [Universitat de Lleida], 10, p. 61-80.
+DCVB = Alcover, Antoni M.; Moll, Francesc de Borja (1926-1962). Diccionari catalàvalencià-balear. Palma: Moll. 10 v.
+
+58
+
+001-088 II Jornades filologia.indd 58
+
+25/09/2014 08:43:39
+
+DEA = Valls, Àlvar (2007). Diccionari enciclopèdic d’Andorra. Andorra la Vella: Crèdit
+Andorrà.
+DECat = Coromines, Joan (1980-1991). Diccionari etimològic i complementari de la llengua catalana. Barcelona: Curial: La Caixa. 10 v.
+DGLC = Fabra, Pompeu (1932). Diccionari general de la llengua catalana. Barcelona:
+Edhasa.
+DIEC1 = Institut d’Estudis Catalans (1995). Diccionari de la llengua catalana. Barcelona: Publicacions de l’Abadia de Montserrat: Enciclopèdia Catalana: Edicions 62;
+València: 3i4; Palma: Moll.
+DIEC2 = Institut d’Estudis Catalans (2007). Diccionari de la llengua catalana. 2a ed.
+Barcelona: Enciclopèdia Catalana: Edicions 62.
+Domingo, Carles (2007). «Els plans dels vessants». Llengua Nacional, 60, p. 21-26.
+Ferrando, Antoni (2000). «La presència dels dialectes territorials en l’obra de Pompeu
+Fabra». A: La lingüística de Pompeu Fabra. Vol. I. Alacant: Institut Interuniversitari
+de Filologia Valenciana; Tarragona: Universitat Rovira i Virgili, p. 279-340.
+Garcia, Adelaida; Ronchera, Montse (2006). Dones d’Andorra. Andorra la Vella: Crèdit
+Andorrà: Perfumeries Gala.
+GD62 = Gran diccionari 62 de la llengua catalana (2000). Barcelona: Edicions 62.
+GDLC = Gran diccionari de la llengua catalana (1998). Barcelona: Enciclopèdia Catalana.
+GGCC = Gran geografia comarcal de Catalunya (1991-1996). 2a ed. Barcelona: Enciclopèdia Catalana. <http://www.grec.cat>.
+Gimeno, Lluís (1993). «El lèxic popular regional i les seves mancances al Diccionari de la
+llengua catalana: alguns exemples». A: Jornades de la Secció Filològica de l’Institut
+d’Estudis Catalans a Castelló. Barcelona: Institut d’Estudis Catalans; Castelló: Universitat Jaume I, p. 57-65.
+Institut d’Estudis Catalans (1992). «Criteris sobre la incorporació de variants lexicals
+en el Diccionari general». A: Documents de la Secció Filològica, II. Barcelona: Institut
+d’Estudis Catalans, p. 81-83.
+— (1996). «L’elaboració del Diccionari de la llengua catalana. Criteris aprovats per la
+Secció Filològica». A: Documents de la Secció Filològica, III. Barcelona: Institut d’Estudis Catalans, p. 11-53.
+— (2003). «Els termes jurídics acte/aute i interlocutòria». A: Documents de la Secció Filològica, IV. Barcelona: Institut d’Estudis Catalans, p. 13-16.
+Mallafrè, Joaquim (2004). «Parlars tarragonins de transició al Diccionari de la llengua
+catalana de l’IEC». A: Jornades de la Secció Filològica de l’Institut d’Estudis Catalans a
+Tortosa. Barcelona: Institut d’Estudis Catalans; Tortosa: Ajuntament de Tortosa,
+p. 73-78.
+Melis, Pere; Mascaró, Ignasi (1994). «El menorquí i el diccionari normatiu: problemes i
+propostes». A: Jornades de la Secció Filològica de l’Institut d’Estudis Catalans a Menorca. Barcelona: Institut d’Estudis Catalans; Maó: Institut Menorquí d’Estudis, p. 21-26.
+Miralles, Joan (1997). «Entorn de la problemàtica de la introducció de mots usuals a les
+Illes Balears al Diccionari de la llengua catalana». A: Jornades de la Secció Filològica de
+l’Institut d’Estudis Catalans a Mallorca. Barcelona: Institut d’Estudis Catalans; Palma:
+Universitat de les Illes Balears, p. 63-74.
+Oriol, Carme (1997). Estudi del folklore andorrà en el seu context. «La guerra d’Andorra
+amb els Estats Units» i altres mostres de folklore. Barcelona: Alta Fulla.
+
+59
+
+001-088 II Jornades filologia.indd 59
+
+25/09/2014 08:43:39
+
+Pantebre, Rosalia (1997). El parlar d’Andorra. Andorra la Vella: Centre de la Cultura
+Catalana.
+Planas, Xavier; Ponsa, Àurea (2006). «Etimologia de la toponímia andorrana relacionada amb riscos geològics naturals». [Document inèdit]
+Puigdomènech, Laura; Solís, Marina (2005). Proposta de llibre d’estil per a Andorra Televisió. [Exemplar multicopiat]
+Rabassa, Lídia; Gaset, Gemma (dir.) (2008). Toponímia de la vall d’Ordino. Vol. I: La
+Cortinada, Arans i l’Ensegur. Ordino: Comú d’Ordino.
+Rico, Albert (1989). «Els diccionaris usuals i la llengua normativa. El cas dels mots dialectals». A: Actes de les Terceres Jornades d’Estudi de la Llengua Normativa. Barcelona:
+Publicacions de l’Abadia de Montserrat, p. 75-112.
+Riera, Manel (1992). La llengua catalana a Andorra: Estudi dialectològic dels seus parlars
+rurals. Barcelona: Centre de Barcelona de l’Institut d’Estudis Andorrans.
+— (1996). «Afinitats lexicals entre els parlars andorrans i pallaresos». A: Jornades de la
+Secció Filològica de l’Institut d’Estudis Catalans a Andorra. Barcelona: Institut d’Estudis Catalans; Andorra la Vella: Institut d’Estudis Andorrans, p. 35-48.
+Rull, Xavier (2005-2006). «L’adaptació de gal·licismes en català». Revue d’Études Catalanes [Universitat de Montpeller], 8-9, p. 269-304.
+— (2006a). «Una llengua afaiçonada per la història». Llengua Nacional, 56, p. 34-36.
+— (2006b). «Què podem salvar dels dialectes? Sis vies d’actuació respectadores, autorespectadores, autoestimadores, aportadores i integradores». Llengua Nacional, 57,
+p. 19-27.
+— (2006c). «Recursos del català en la formació de noves paraules: una perspectiva social».
+A: Els Pirineus, Catalunya i Andorra: Actes del Tercer Col·loqui Internacional de l’Associació Francesa de Catalanistes, Andorra 2004. Barcelona: Publicacions de l’Abadia de
+Montserrat, p. 293-303.
+— (2007a). «Presència del llenguatge jurídic i administratiu andorrà en la segona edició
+del Diccionari de la llengua catalana de l’Institut d’Estudis Catalans». Revista de Llengua i Dret, 47, p. 61-78.
+— (2007b). «El problema gràfic dels compostos». A: Montserrat, Anna; Cubells,
+Olga. Entorn i vigència i de l’obra de Fabra. Tarragona: Universitat Rovira i Virgili;
+Valls: Cossetània, p. 253-260.
+Sistac, Ramon (1998). El català d’Àneu: Reflexions a l’entorn dels dialectes contemporanis. Esterri d’Àneu: Consell Cultural de les Valls d’Àneu.
+TERMCAT (1999). Vocabulari de la neu i dels esports d’hivern. Andorra la Vella: Govern
+d’Andorra: TERMCAT; Barcelona: Enciclopèdia Catalana.
+— (2001a). Diccionari de la neu. Andorra la Vella: Govern d’Andorra; Barcelona: Enciclopèdia Catalana.
+— (2001b). Diccionari d’hoteleria i turisme. Barcelona: Edicions 62: TERMCAT.
+— (2010). Diccionari general de l’esport. Barcelona: TERMCAT.
+Veny, Joan (1982). Els parlars catalans: Síntesi de dialectologia. 3a ed. Palma: Moll.
+
+60
+
+001-088 II Jornades filologia.indd 60
+
+25/09/2014 08:43:39
+
+
