@@ -217,6 +217,26 @@ llengua i el que es pot dir. El corpus ja ho tenia apuntat a
 i a [la societat segmentada](./la-societat-segmentada.md); **aquesta fitxa hi
 posa l'ordre concret**.
 
+## Una confirmació del 2007, i des d'una altra disciplina
+
+La sociòloga **Magda Santos i Matias**, estudiant **el capital social dels
+portuguesos d'Andorra** i no la llengua, hi arriba pel seu compte:
+
+> «**La llengua catalana divideix clarament les classes socials i imprimeix un
+> estatus social de més prestigi per a qui la domina.**»
+>
+> — 20a Diada Andorrana, 2007
+> ([font](../../../fonts/santos-matias-capital-social-portugues.md))
+
+**Dues fonts, catorze anys de diferència i mètodes distints, descrivint la
+mateixa escala.** I l'estudi hi afegeix el que aquesta fitxa no tenia: **els
+qui són a baix ho saben**. Dels quinze entrevistats, **només un terç dominava el
+català**, però tots **«tenien una clara percepció dels avantatges que l'ús de la
+llengua catalana implica»**.
+
+**No és desinterès: és una barrera.** Vegeu
+[la portuguesitat](./la-portuguesitat.md).
+
 ## Buits registrats
 
 1. **L'estudi *La immigració a Andorra*** (Batalla, Casals, Micó — Pagès
@@ -238,6 +258,7 @@ posa l'ordre concret**.
 - [El mercat de treball dual](./el-mercat-de-treball-dual.md) — l'altra segmentació.
 - [La societat segmentada](./la-societat-segmentada.md) — el precedent del 1993-95.
 - [Les comunitats](./les-comunitats.md) — les mateixes comunitats parlant elles.
+- [La portuguesitat](./la-portuguesitat.md) — la mateixa escala, vista des del segon graó.
 - [La composició per nacionalitats](../demografia/la-composicio-per-nacionalitats.md)
 - [La por de fondre's](../../cultura/andorra-vista-de-fora/la-por-de-fondres.md)
 - [La tria de llengua](../../vida-quotidiana/convencions-socials/la-tria-de-llengua.md)

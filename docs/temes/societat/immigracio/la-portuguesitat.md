@@ -125,10 +125,25 @@ exactament l'error que aquella fitxa existeix per evitar**.
 **El que sí que obre és una línia nova i legítima:** *quina ruta feien els
 portuguesos cap a França als anys 60 i 70, i quin paper hi va tenir Andorra.*
 
-## Com s'integra una comunitat, segons qui la coneix
+## Com s'integra una comunitat: l'estudi, llegit directament
 
-L'autor cita la sociòloga **Magda Santos i Matias**, de la **20a Diada Andorrana
-del 2007**, que descriu la integració portuguesa **en tres fases**:
+**El corpus citava aquesta ponència de segona mà i ara la té sencera.** El volum
+de la 20a Diada era **il·legible** —PDF escanejat sense capa de text— i se n'ha
+recuperat el text per OCR ([raw/README](../../../raw/README.md)).
+
+L'estudi es diu **«A que sabe um sumol a 2.000 metros de altitude? Identidade,
+integração e redes sociais dos portugueses emigrados em Andorra»** i el va
+promoure el **Centre de Recerca i Estudis Sociològics**
+([font](../../../fonts/santos-matias-capital-social-portugues.md)).
+
+> **Com s'ha de citar això.** És un **estudi qualitatiu de quinze entrevistes**.
+> Les proporcions que dona són **sobre quinze persones**, no sobre onze mil, i
+> l'autora avisa que les tres fases «**no deixen de ser tipologies merament
+> analítiques**» i que la seva lectura «**no haurà de ser reduccionista o
+> estàtica**», perquè **un individu pot ser en una fase i el seu grup en una
+> altra**.
+
+Les tres fases, **amb les paraules de l'autora**:
 
 | Fase | Què passa |
 | --- | --- |
@@ -136,9 +151,105 @@ del 2007**, que descriu la integració portuguesa **en tres fases**:
 | **2a** | L'immigrant **passa a subjecte de dret i actor social**; se sedentaritza i diversifica les seves relacions |
 | **3a** | **Passats trenta o quaranta anys**: plenitud com a subjecte de dret i actor social, **amb capacitat de diferenciar els orígens i el país d'integració** |
 
-**Trenta o quaranta anys.** L'autor en treu la conclusió que interessa al corpus:
-els portuguesos arribats **als anys 90 i a principis dels 2000** ja són a la
-tercera fase, **«contràriament a estereotips que freqüentment es publiquen»**.
+**«Aquesta fase només és efectiva tres o quatre dècades després de la seva
+arribada.»** Gonçalves Carvalho ho citava el 2021 com «trenta o quaranta anys»:
+**la citació de segona mà era fidel.**
+
+Ell en treu la conclusió que els portuguesos arribats **als anys 90 i a principis
+dels 2000** ja són a la tercera fase, **«contràriament a estereotips que
+freqüentment es publiquen»**. **Això és seu, no de l'estudi**, i el corpus ho
+deixa atribuït.
+
+### Les xifres de l'estudi, que són de quinze casos
+
+| Troballa | Sobre 15 entrevistats |
+| --- | ---: |
+| Tenien **un conegut o parent a Andorra** abans d'emigrar | **12** |
+| Van fer servir **xarxes socials per a la primera feina** | **13** |
+| **Dominaven el català** | **5** *(«només un terç»)* |
+
+I una condició que l'estudi qualifica de **«gairebé sine qua non»** per decidir
+emigrar a Andorra: **tenir familiars o amics que ofereixin allotjament**, si més
+no els primers mesos. **L'habitatge no és una conseqüència de la migració
+portuguesa: n'és el filtre d'entrada**
+([habitatge](../habitatge/la-crisi-de-lhabitatge.md)).
+
+## Per què les associacions són de comarca: ara se sap
+
+**El corpus havia observat el fet i no en tenia la causa.**
+[Les comunitats](./les-comunitats.md) registrava que els portuguesos d'Andorra
+s'organitzen per territori —**Alto Minho**, **Trás-os-Montes i Alto Douro**— i no
+per passaport. L'estudi dona el perquè:
+
+> «es verifica encara una **forta homogeneïtat quant als llocs d'origen** dels
+> immigrants portuguesos residents a Andorra... **són poques les persones de la
+> comunitat portuguesa que no pertanyen a les regions del nord del país, com són
+> O Minho i Trás-os-Montes**.»
+
+**No s'organitzen per comarca per tradició: s'organitzen per comarca perquè vénen
+gairebé tots de les mateixes dues.** I això explica també per què les xarxes
+familiars són tan fortes: **emigrar a Andorra era, sovint, anar on ja hi havia un
+parent.**
+
+L'estudi hi afegeix un matís de tendència: **creix la immigració «de caràcter més
+solitari»**, sense xarxa familiar prèvia, en persones **amb més estudis i
+originàries de zones menys interiors**.
+
+## El català com a línia de classe
+
+**Dita així, per una sociòloga, el 2007:**
+
+> «**La llengua catalana divideix clarament les classes socials i imprimeix un
+> estatus social de més prestigi per a qui la domina.**»
+
+**Aquesta frase és de les més dures que el corpus té sobre la llengua**, i ve
+d'una font que no estudiava la llengua sinó el capital social. Encaixa
+exactament amb [la piràmide de prestigi](./la-piramide-de-prestigi.md) i amb
+[qui parla què](../../llengua/politica-linguistica/qui-parla-que.md), i hi
+afegeix el que aquelles fitxes no deien: **que els entrevistats ho sabien**
+—«tenien una clara percepció de les possibilitats i els avantatges que l'ús de la
+llengua catalana implica»— **i que tot i així dos de cada tres no la dominaven.**
+
+**Saber que et convé i no poder-hi arribar: això és una barrera, no una tria.**
+Vegeu [la llei de la llengua](../../llengua/politica-linguistica/la-llei-de-la-llengua.md),
+que el 2024 fa del català un requisit de renovació de residència.
+
+## Dues observacions oposades sobre l'associacionisme
+
+**El corpus les té totes dues i no les arbitra.**
+
+| Any | Qui | Què observa |
+| --- | --- | --- |
+| **2007** | **Magda Santos**, sociòloga, 15 entrevistes | «**hi ha poques formes d'associacionisme ètnic**». El lloc de trobada privilegiat són **les entrades de les esglésies el diumenge**, després dels actes religiosos. La participació cívica sembla «**confinada a expressions menors i minoritàries**» |
+| **2021** | **José Luis Gonçalves Carvalho**, dirigent associatiu | **sis entitats** i **un calendari anual sencer** |
+
+**Tres lectures possibles, i el corpus no pot triar:**
+
+1. **Va canviar** entre el 2007 i el 2021 — i el calendari d'aquesta fitxa ho
+   suggereix: **O Feirão és del 2014**, la Fira de les Cultures del **2010**.
+2. **Miren des de llocs diferents**: una sociòloga que entrevista quinze
+   treballadors i el director artístic de l'entitat més activa **no veuen la
+   mateixa comunitat**.
+3. **Totes dues tenen raó**: hi ha un teixit associatiu viu **i** una majoria que
+   no hi participa.
+
+**Buit registrat, prioritari:** quanta gent participa realment en aquestes
+entitats.
+
+## La xifra que va cap enrere
+
+| Any | Portuguesos | % del país | Font |
+| ---: | ---: | ---: | --- |
+| **2005** | **11.294** *(estimació)* | **14%** | Magda Santos / CRES |
+| *(cens posterior)* | **9.083** | **11,64%** | [la composició per nacionalitats](../demografia/la-composicio-per-nacionalitats.md) |
+
+**La comunitat portuguesa d'Andorra no ha crescut: ha minvat en més de dues mil
+persones.** El corpus tenia les dues xifres en fitxes diferents i **no les havia
+posat mai de costat**.
+
+**Buit registrat, prioritari:** quan va girar la corba i on va anar aquella gent
+—retorn a Portugal, pas a nacionalitat andorrana, o marxa a un tercer país. **La
+crisi del 2008 hi cau al mig**, i això és una hipòtesi, no una resposta.
 
 **Això dialoga directament** amb
 [la piràmide de prestigi](./la-piramide-de-prestigi.md) i
@@ -178,7 +289,13 @@ explica Andorra.
 - **La Confraria de la Mare de Déu de Fàtima**: quan es funda, quanta gent.
 - **El llibre *Portuguesos a Andorra – Una visió Global***, de l'autor mateix,
   editat per **Andbank el 2007**. **Citat, no consultat.**
-- **La ponència de Magda Santos i Matias** a la 20a Diada (2007), sencera.
+- ~~**La ponència de Magda Santos i Matias** a la 20a Diada (2007), sencera.~~
+  **TANCAT**: el volum s'ha recuperat per OCR i la ponència és llegida.
+  **Queda obert l'estudi complet del CRES** —*A que sabe um sumol a 2.000 metros
+  de altitude?*— del qual la ponència és només un resum.
+- **Quan va girar la corba** de la població portuguesa, entre els 11.294 del 2005
+  i els 9.083 posteriors. **Prioritari.**
+- **Quanta gent participa** realment a les entitats portugueses.
 - **El Consell de les Comunitats Portugueses**: què és, i què hi fa un resident
   d'Andorra.
 - **La ruta migratòria portuguesa cap a França** pels Pirineus als anys 60 i 70.
@@ -193,3 +310,4 @@ explica Andorra.
 - [Els passadors](../../historia/guerres-i-neutralitat/els-passadors.md) — l'ofici, vint anys més enllà del que el corpus tenia.
 - [La llegenda negra dels passadors](../../historia/historiografia/la-llegenda-negra-dels-passadors.md) — per què aquest testimoni no hi val.
 - [La troballa de Meritxell](../../cultura/llegendes/la-troballa-de-meritxell.md) — el santuari on entra Fàtima.
+- [Qui parla què](../../llengua/politica-linguistica/qui-parla-que.md) — el català, des de l'altre costat.

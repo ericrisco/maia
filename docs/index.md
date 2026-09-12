@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**311** documents · **89** fonts · **0** aptes com a model de llengua · **107** temes amb contingut.
+**311** documents · **90** fonts · **0** aptes com a model de llengua · **107** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -927,6 +927,7 @@
 | [`rodriguez-rossa-creacio-artistica`](fonts/rodriguez-rossa-creacio-artistica.md) | Francesc Rodríguez i Rossa · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`sac-esport-i-salut`](fonts/sac-esport-i-salut.md) | Manuel Suárez i García · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
 | [`santos-associacions-de-pares`](fonts/santos-associacions-de-pares.md) | Alícia Santos i Mateo · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`santos-matias-capital-social-portugues`](fonts/santos-matias-capital-social-portugues.md) | Magda Santos i Matias · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`serra-educacio-especialitzada`](fonts/serra-educacio-especialitzada.md) | Carolina Serra i Areny · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`serra-vatica-microestat`](fonts/serra-vatica-microestat.md) | Jaume Serra i Serra · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`societat-andorrana-ciencies`](fonts/societat-andorrana-ciencies.md) | Societat Andorrana de Ciències (Andorra) | publicació acadèmica en accés obert | pendent |

@@ -72,9 +72,15 @@ sèrie salta: `427985` = 27a, `427986` = 28a, `427988` = 29a, `427989` = 30a.
 
 ### Avisos per volum
 
-- **`20a-2007`** — el PDF **no té capa de text**: està escanejat i
+- **`20a-2007`** — ~~el PDF **no té capa de text**: està escanejat i
   `pdftotext` en treu **zero línies**. El `.txt` és buit a posta. **Necessita
-  OCR.**
+  OCR.**~~ **TANCAT el 2026-09-13.** El `.txt` tenia **273 salts de pàgina i res
+  més** —un volum sencer que el corpus creia tenir i no podia llegir—. Passat per
+  OCR amb `ocrmypdf --force-ocr -l cat+spa`, en surten **106.182 paraules** i
+  **les ~25 ponències senceres**. **La qualitat és bona** (PDF escanejat net, no
+  microfilm), amb els errors habituals de lligadures: `ç`→`c`, `ü`→`ú`, `í`→`|`,
+  i alguna línia de peu de pàgina enganxada. **Citable amb comprovació puntual**,
+  al contrari dels volums de 1989-2002.
 - **`31a-2018-el-parlamentarisme-andorra.txt`** — **reextret el 2026-09-13.**
   La primera extracció s'havia quedat a **1.192 línies** (fins a la pàgina 31
   del volum) i el corpus la va registrar com a «sumari». **No era un sumari: era
@@ -119,7 +125,7 @@ que el corpus tenia registrat a
 | 17a | 2004 | Els llindars òptims del creixement andorrà | — |
 | 18a | 2005 | Andorra i els seus veïns del nord | — |
 | 19a | 2006 | Els models de fiscalitat per a Andorra | — |
-| **20a** | **2007** | **Andorra i el seu capital social** | **sí** (sense text) |
+| **20a** | **2007** | **Andorra i el seu capital social** | **sí** — *text recuperat per OCR el 2026-09-13; abans era il·legible* |
 | 21a | 2008 | L'andorranitat | — |
 | 22a | 2009 | L'energia a Andorra | — |
 | 23a | 2010 | Andorra i els seus ciutadans | — |
