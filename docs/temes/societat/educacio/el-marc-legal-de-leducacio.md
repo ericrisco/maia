@@ -81,6 +81,12 @@ Sagrada Família** «per tal de definir el seu estatus».
 segueixen sense conveni.** El corpus ho reté perquè és **el tipus de detall que
 les fonts institucionals no solen posar**, i aquesta el posa.
 
+**I ho corrobora l'altra banda.** La ponència de l'ensenyament confessional, al
+mateix volum, explica que l'avantprojecte de conveni **ja havia fracassat el
+1984** i que l'any 2000 **encara no n'hi havia cap de signat**
+([fitxa](./lensenyament-confessional.md)). **Dues fonts independents, la mateixa
+llacuna.**
+
 ## Els dos tractats del 1993
 
 El mateix any que la Constitució, Andorra signa amb els dos veïns **el marc dels

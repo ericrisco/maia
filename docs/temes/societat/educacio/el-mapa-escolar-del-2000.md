@@ -206,11 +206,12 @@ sigui casual, i que la font mateixa atribueix a la política dels coprínceps
 **Escola privada (45):** **Col·legis del Pirineu**, a **l'Aldosa de la Massana**
 — infantil, primària, secundària i batxillerat.
 
-**El dato que salta:** dins del sistema espanyol, **els centres congregacionals
-tenien més alumnes que els públics** (1.939 contra 1.594). L'ensenyament
-espanyol a Andorra era, el 2000, **majoritàriament religiós** — coherent amb el
-fet que hi va entrar **per l'església el 1882**, mig segle abans que per l'estat
-([la cronologia](./la-cronologia-escolar.md)).
+**El que salta a la vista:** dins del sistema espanyol, **els centres
+congregacionals tenien més alumnes que els públics** (1.939 contra 1.594).
+L'ensenyament espanyol a Andorra era, el 2000, **majoritàriament religiós** —
+coherent amb el fet que hi va entrar **per l'església el 1882**, mig segle abans
+que per l'estat. Història completa a
+[l'ensenyament confessional](./lensenyament-confessional.md).
 
 ### Sistema francès — 3.585
 
@@ -314,6 +315,7 @@ societat on es viu**:
 - [El marc legal de l'educació](./el-marc-legal-de-leducacio.md)
 - [Els tres sistemes](./els-tres-sistemes.md)
 - [L'andorranització](./landorranitzacio.md)
+- [L'ensenyament confessional](./lensenyament-confessional.md)
 - [L'escola Nostra Senyora de Meritxell](./lescola-nostra-senyora-de-meritxell.md)
 - [La Universitat d'Andorra](./la-universitat-dandorra.md)
 - [La formació d'adults](./la-formacio-dadults.md)

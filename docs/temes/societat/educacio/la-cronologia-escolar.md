@@ -35,7 +35,7 @@ el comú és, històricament, **qui fa les coses que a un altre país fa l'estat
 
 | Any | Fet |
 | --- | --- |
-| **1882** | Es creen les **escoles congregacionals de la Sagrada Família**. **El primer sistema educatiu que s'estableix al país és l'espanyol**, i hi entra per la via religiosa. |
+| **30 de març de 1882** | S'obre a **Canillo** el **primer col·legi del Principat**, de les **germanes de la Sagrada Família d'Urgell**. **El primer sistema educatiu que s'estableix al país és l'espanyol**, i hi entra per la via religiosa. Detall a [l'ensenyament confessional](./lensenyament-confessional.md). |
 | **1900** | Obren **les primeres escoles franceses**, successivament en diferents parròquies. |
 | **1930** | El sistema educatiu espanyol amplia la seva presència amb **les primeres escoles espanyoles** (ja no congregacionals). |
 
@@ -69,7 +69,7 @@ Sempre, diu la font, **«de conformitat amb el Consell General»**:
 | --- | --- |
 | **1956** | El sistema francès crea **la segona ensenyança**, amb el curs complementari d'ensenyament general. |
 | **1962** | L'ensenyament espanyol ofereix **els nivells de secundària**. |
-| **1966** | Obre el **col·legi Sant Ermengol**, sota la direcció de la **congregació salesiana**. |
+| **17 d'octubre de 1966** | El bisbe **Iglesias Navarri** inaugura el **col·legi Sant Ermengol**, dirigit pels **salesians**, amb un patronat **meitat Consell, meitat Mitra**. |
 
 ## El sistema andorrà: la sèrie que importa
 
@@ -129,15 +129,18 @@ si mateixa abans de definir-se jurídicament.
 - **Les escoles dels comuns al segle XIX**: quantes, on, què s'hi ensenyava, en
   quina llengua. **Buit prioritari** — és l'única escola andorrana anterior a
   tot, i el corpus no en té res.
-- **Per què el 1882 i per què la Sagrada Família**: qui les porta, a instància
-  de qui.
-- **El col·legi Janer**, que apareix al [mapa escolar](./el-mapa-escolar-del-2000.md)
-  i del qual no sabem la data de fundació.
+- ~~Per què el 1882 i per què la Sagrada Família~~ — **tancat** a
+  [l'ensenyament confessional](./lensenyament-confessional.md): el bisbe Casañas,
+  la mare Anna M. Janer i cinc germanes que pugen dos dies riu amunt.
+- ~~El col·legi Janer~~ — **tancat**: és el trasllat a **Santa Coloma el 1968**
+  del col·legi d'Andorra la Vella de **1883**
+  ([l'ensenyament confessional](./lensenyament-confessional.md)).
 - **Les classes de català per a adults del 1962**: quanta gent, qui les feia.
 - **Què hi havia entre 1962 i 1972**, deu anys en blanc en aquesta cronologia.
 
 ## Related
 
+- [L'ensenyament confessional](./lensenyament-confessional.md) — la sèrie més antiga, amb dia i mes.
 - [Els tres sistemes](./els-tres-sistemes.md) — la mateixa història, vista des de la llengua.
 - [L'andorranització](./landorranitzacio.md) — el 1972.
 - [El marc legal de l'educació](./el-marc-legal-de-leducacio.md) — les lleis que ho fixen.

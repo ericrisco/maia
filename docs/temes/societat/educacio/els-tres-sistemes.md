@@ -130,8 +130,9 @@ Els universitaris que estudien al Principat van passar de **15 el curs
   ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)).
 - **Com tria la gent** el sistema, que és una decisió social carregada i no està
   documentada enlloc.
-- Els **col·legis congregacionals** i el seu paper històric — l'única via en
-  català abans del 1982.
+- ~~Els col·legis congregacionals i el seu paper històric~~ — **tancat** a
+  [l'ensenyament confessional](./lensenyament-confessional.md), que data el pas
+  al català a **la segona meitat dels anys setanta** i en dona el mecanisme.
 - El lèxic escolar propi: **primera i segona ensenyança**, **ludoescola**,
   **rentrée**, **lycée**.
 

@@ -81,4 +81,5 @@ premsa i s'haurien de reverificar.
 - [L'escola Nostra Senyora de Meritxell](./lescola-nostra-senyora-de-meritxell.md) — l'educació especial.
 - [La formació d'adults](./la-formacio-dadults.md) — i el lectorat de català a Praga.
 - [L'esquí escolar](./lesqui-escolar.md) — l'assignatura obligatòria del segon trimestre.
+- [L'ensenyament confessional](./lensenyament-confessional.md) — des del 1882, la sèrie més antiga.
 - [Índex legislatiu en educació](./index-legislatiu-en-educacio.md) — 48 normes amb BOPA i data.
