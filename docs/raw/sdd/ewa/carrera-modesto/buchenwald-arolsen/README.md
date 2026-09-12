@@ -42,3 +42,35 @@ demanar als Arolsen Archives la signatura completa i els sis DocID, citant
 La possible signatura terminal `01010503 001.067.107` es pot inferir de la
 posició seqüencial dins la llista, però **no s'ha verificat** i no s'ha de citar
 com a signatura confirmada.
+
+## Sèries de control per a la matrícula 75367
+
+L'arbre públic d'Arolsen permet acotar quatre conjunts que poden contrastar el
+dossier individual sense dependre de la narració del Banc:
+
+1. **Índex de números de presoner**, compilació de postguerra `7591000`. La
+   matrícula 75367 cau exactament al **Part LIII, 74601–76760**, referència
+   inferida per la seqüència del catàleg com `7591053`. El catàleg explica que
+   aquest índex registra totes les reutilitzacions d'un número en ordre
+   cronològic, amb nom, naixement i dates d'arribada, sortida, trasllat o mort.
+2. **Block books III**, `8012300`, 596 documents. El rang 74001–86000 inclou
+   75367 i pot donar nom, categoria, bloc o kommando i, de vegades, ofici.
+3. **Transports Dachau→Buchenwald I–III**, 356 documents, 27/09/1939–
+   02/04/1945. La peça del 29–31/07/1944 ha de trobar-se en aquesta sèrie; el
+   Part III ja està identificat com `8014200` (04/12/1944–02/04/1945), de
+   manera que el trasllat de Carrera ha de ser en un dels dos blocs anteriors.
+4. **Informes de canvis de 1944**, `8012569`, 1.642 documents. Les llistes
+   poden contenir matrícula, nom, categoria i bloc o kommando; els dies
+   31/07–01/08 són el punt inicial de cerca.
+
+Referències oficials:
+
+- <https://collections.arolsen-archives.org/en/archive/1-1-5-1_7591000>
+- <https://collections.arolsen-archives.org/en/archive/1-1-5-1_8012300>
+- <https://collections.arolsen-archives.org/en/archive/1-1-5-1_8012569>
+- <https://collections.arolsen-archives.org/en/document/5286127>
+
+La referència `7591053` és una inferència estructural sòlida (`7591003` és el
+Part III i `7591040` el Part XL), però encara s'ha de verificar en una pàgina
+o resposta oficial abans d'usar-la com a cita definitiva. No s'ha acceptat la
+declaració de dades sensibles del visor per accedir a les imatges.
