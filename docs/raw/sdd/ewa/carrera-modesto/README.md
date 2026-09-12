@@ -15,6 +15,7 @@ ZIP es mantenen com a evidència bruta, amb errors, camps buits i duplicats.
 | `censo-guia/` | Ministeri de Cultura, <https://censoarchivos.cultura.gob.es/CensoGuia/> | Fitxes HTML del fons `ES.8019.ATSJC/.6` i del centre custodial | Informació pública administrativa. Condicions específiques de reutilització no verificades; conservar com a evidència de recerca. |
 | `gasol-1922/` | *Gaceta de Madrid* / BOE, <https://www.boe.es/gazeta/dias/1922/05/19/pdfs/GMD-1922-139.pdf> | Número 139 de 19/05/1922, OCR i render de la p. PDF 4 / p. impresa 652, on apareix `Modesto Carrera Gasol` | Publicació oficial històrica servida pel BOE. Còpia íntegra de preservació i derivats locals de lectura; conservar atribució. |
 | `google-books/` | Google Books, volum `itqzHiFA0NYC`, <https://books.google.es/books?id=itqzHiFA0NYC>, i mostra bibliogràfica de GBV | Respostes JSON del cercador intern, fragments breus de l'índex i mostra de tres pàgines del *Libro Memorial* | Metadades, fragments de cerca i mostra pública, no una còpia del llibre. Subjectes a les condicions dels proveïdors i als drets de l'edició de 2006; no emprar com a text d'entrenament. |
+| `itinerari/` | Mémorial du KL Natzweiler-Struthof, KZ-Gedenkstätte Neuengamme i Association Française Buchenwald Dora et Kommandos | Històries institucionals o memorials de Dautmergen, Wöbbelin i Emma/Eisenach | Còpies HTML de treball per contrastar cronologies i dependències administratives. Condicions específiques de reutilització no verificades; no emprar com a corpus d'entrenament. |
 | `local-beget/` | Càntut, Can Jeroni, Ajuntament de Camprodon / *Annals del CECR*, Arxiu Comarcal de la Garrotxa i FamilySearch | Control biogràfic de Joan Carrera i Molas, canvi `Baget`–`Beget`, relació d'encausats i via d'accés als registres municipals de Girona | Còpies de treball per a verificació. Els PDF i les pàgines conserven els drets i les condicions de cada editor; no s'incorporen automàticament a cap corpus d'entrenament. |
 | `memoire-des-hommes/` | Ministère des Armées, <https://www.memoiredeshommes.defense.gouv.fr/conflits-operations/telechargement-des-bases> | Exportació oficial *Morts en déportation*, HTML de resultats i resposta del motor | La pàgina oficial autoritza la reutilització de les dades amb menció de la font i de la data d'actualització. ZIP ofert el 29/01/2026. |
 | `memorial-democratic/` | Memorial Democràtic, <https://banc.memoria.gencat.cat/ca/results/deportats>, i descripció del fons <https://memoria.gencat.cat/ca/que-fem/banc-de-la-memoria/fons/deportats-catalans-i-espanyols-als-camps-nazis> | Resultat nominal i registres públics `deportats/2976`, `informant/15098`, tren, camps, kommandos, arxius i publicacions relacionades | Dades públiques d'un projecte del Memorial Democràtic, l'Amical de Mauthausen i la UPF. Conservar atribució; els paquets JavaScript de l'aplicació s'exclouen perquè incorporen codi de connexió que no cal redistribuir. |
@@ -41,6 +42,12 @@ contenen aquest valor i són suficients per auditar la descàrrega.
   `16e124294ab9783565b2e7e80d9b439111bf128c730e2cf7453a376bcf3f8cf2`.
 - `memorial-democratic/deportat-2976-person.json` — SHA-256
   `2654ffadddfcdc9a9b97c9b16810383dcffea55401d8ecb24997a3a4b401fcde`.
+- `itinerari/buchenwald-eisenach-emma.html` — SHA-256
+  `14eaaaead8261c1e631bb6b5bbd9cad70db8ba5e8500f22feefe20d7f4d8f23f`.
+- `itinerari/neuengamme-woebbelin.html` — SHA-256
+  `18aedf03709795b25456340eee0b72e77a94eab71aba6b20263e3e526d6b9d22`.
+- `itinerari/struthof-dautmergen-schoerzingen.html` — SHA-256
+  `7c6d03198d3e374ae4b6f0d4d796e206cc3b3d1474d2a5b5016cf8353da61e06`.
 
 ## Notes de lectura
 
@@ -58,6 +65,12 @@ contenen aquest valor i són suficients per auditar la descàrrega.
   (`75367`), Natzweiler-Struthof, Emma, Wöbbelin i Dautmergen. Les dates i la
   geografia presenten tensions internes; els JSON conserven la resposta sense
   corregir-la i cal contrastar-la amb els arxius citats pel mateix registre.
+- Les històries dels camps confirmen que `Emma` era Eisenach/Dürrerhof, vinculat
+  a Buchenwald i BMW, i situen el seu tancament cap al 16/02/1945: no encaixa
+  amb l'entrada `07/03` del Banc. Wöbbelin era un camp satèl·lit de Neuengamme,
+  actiu des del 12/02; Dautmergen era un annex de Natzweiler, evacuat el 18/04.
+  Aquest contrast eleva la probabilitat d'una data o relació defectuosa a la
+  base, però no substitueix la fitxa individual del presoner.
 - La *Gaceta de Madrid* de 1922 situa **Modesto Carrera Gasol** entre els
   soldats del Tercio de extranjeros amb minoria d'edat i manca de consentiment
   comprovades. No dona filiació ni data de naixement i no s'ha de fusionar
