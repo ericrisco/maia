@@ -59,11 +59,43 @@ s'han de verificar al relat de Chciuk.
 - Munic, Drukarnia Polska Kontrast, 1990: la ressenya contemporània cita
   aquesta edició; els catàlegs discrepen entre 399, 408 i 409 pàgines segons
   el tractament de preliminars i làmines.
-- Ossolineum, 1992: 399/400 pàgines, ISBN `83-04-03953-2`.
+- Ossolineum, 1992: 400 pàgines més vuit pàgines d'il·lustracions segons una
+  [fitxa comercial arxivada amb transcripció del
+  sumari](https://allegro.pl/oferta/celt-raport-z-podziemia-1942-spis-wyd-1-kurierzy-cichociemni-okupacja-18298972053),
+  ISBN `83-04-03953-2`. La fitxa identifica aquesta primera edició polonesa com
+  una impressió feta a partir dels fotolits de l'edició de Munic de 1990.
 - LTW, 2005 i 2021: 431+[1]/432 pàgines; la reedició de 2021 té ISBN
   `978-83-7565-654-1` i continua a la venda pel titular editorial.
 - La biblioteca pedagògica de Poznań declara exemplars impresos i cap recurs
   electrònic. No s'ha localitzat una còpia digital oberta legítima del llibre.
+
+## Arquitectura del tram de retorn
+
+El sumari transcrit a la fitxa de l'edició Ossolineum permet delimitar el relat
+sense substituir-ne la lectura. La part `Droga powrotna` comença amb `Zielone
+granice bliskie` a la p. 183; després de la sotana i els trajectes
+Budapest–Zagreb–Milà–Berna, `Zielone granice dalekie` comença a la p. 313. Sota
+aquest segon epígraf apareixen, en aquest ordre:
+
+1. `Szwajcarski kwakier`;
+2. un tercer pas sota cobertura de «gestapowiec»;
+3. una trobada en un arrest alemany;
+4. `Jak przejść Pireneje`;
+5. `Francuski maszynista`.
+
+El bloc següent, `Za hiszpańskimi kratami i drutami`, comença a la p. 342, i
+`Ostatni przystanek: Gibraltar`, a la 369. Per tant, les p. 320–341 citades per
+Waldemar Grabowski cauen íntegrament dins el bloc Suïssa–França–Pirineus i
+acaben just abans de la narració de les presons espanyoles. Aquesta concordança
+explica per què la nota de Grabowski extreu d'aquell interval Stempowski,
+Grenoble, Tutaj i l'ajuda per passar a Espanya. El sumari, però, no diu
+Ax-les-Thermes ni Andorra i no permet saber a quina pàgina apareix cada persona.
+
+La font és una descripció d'un llibreter amb fotografies del volum, no una
+edició crítica ni una còpia consultable. El servidor d'Allegro rebutjà amb HTTP
+403 la descàrrega automatitzada del 12/09/2026; no s'ha desat cap resposta
+incompleta. Aquest registre de procedència és l'únic document nou generat i es
+conserva, d'acord amb la política del projecte, dins `maia/docs/raw`.
 
 Els originals i derivats locals queden exclosos de Git; només es versiona
 aquest registre de procedència i lectura.
