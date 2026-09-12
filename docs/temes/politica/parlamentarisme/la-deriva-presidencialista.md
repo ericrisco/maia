@@ -113,6 +113,80 @@ segles després, es pregunta si el remei ha heretat la malaltia. **El corpus
 assenyala aquesta simetria i la marca com a lectura pròpia**, no com a
 afirmació de cap de les dues fonts.
 
+## La rèplica, del síndic que hi era
+
+**El desacord és dins el mateix volum i el corpus no l'arbitra.** Deu pàgines
+abans, **Vicenç Mateu i Zamora, Síndic General en exercici**
+([font](../../../fonts/mateu-zamora-reforma-reglament.md)), respon a la queixa
+punt per punt.
+
+### 1. La centralitat no s'ha perdut perquè mai no hi va ser
+
+> «Una de les **queixes recurrents dels parlamentaris de l'oposició**, i també
+> d'alguns articulistes, acostuma a ser que el Consell General **ha perdut la
+> centralitat** que li correspondria… Però en realitat, **aquesta centralitat, en
+> un règim parlamentari com l'andorrà… no ha existit mai. O millor dit, no ha
+> existit des que hi ha Govern.**»
+
+**I hi posa la data:** abans de **la reforma de les institucions del 1982**
+«només hi havia el Consell, i és clar, aquest era forçosament central, amb
+competències **legislatives i executives alhora, i fins i tot alguna atribució
+judicial**».
+
+**Llegit així, el que Dallerès descriu com una deriva és la separació de poders
+funcionant.** Mateu ho anomena **«aquesta lamentació nostàlgica»**.
+
+### 2. No és andorrà: és el parlamentarisme modern
+
+Citant el magistrat del Tribunal Constitucional **Dominique Rousseau**: el
+contrapoder parlamentari **veu limitada la seva capacitat** perquè el govern
+disposa **de la majoria que el sosté**, i **això passa a tot arreu**.
+
+> «la pregonada **separació de poders del baró de Montesquieu** ha anat donant pas
+> a una realitat que més aviat s'adiu al concepte de **col·laboració entre
+> poders**.»
+
+**I la conseqüència que Rousseau en treu no és tornar enrere sinó moure el
+contrapès:** cada cop reposa més en **els tribunals constitucionals**.
+
+**Això complica la lectura de Dallerès**, que compta entre els símptomes de la
+deriva **les sentències del Tribunal Constitucional**. **Per a l'un el TC és
+part del problema; per a l'altre és el remei.** El corpus registra les dues
+lectures i **no en tria cap**: no té les sentències.
+
+### 3. Que les lleis vinguin del Govern és la norma
+
+> «un altre cop **Andorra no s'aparta del que és la norma de qualsevol règim
+> parlamentari**: els projectes de llei són majoritàriament preparats pels
+> ministeris competents… I val a dir que **els consellers no es limiten pas a dir
+> amén a tot allò que ve del Govern**. Els textos són **sovint força esmenats**…
+> i **una part de les esmenes sol prosperar**.»
+
+Hi afegeix el que passa abans del tràmit, i és la part més honesta:
+
+> «el govern i el grup parlamentari que li dóna suport **s'hauran reunit
+> prèviament** per analitzar i acordar quin ha de ser el contingut d'un text…
+> l'opinió dels parlamentaris de la majoria **haurà d'haver estat ja tinguda en
+> compte en el projecte de llei entrat a tràmit**.»
+
+**Els dos ho descriuen igual i en treuen el contrari.** Per a Dallerès, que la
+majoria pacti amb el Govern abans és **la submissió**; per a Mateu és **la
+influència exercida abans de la votació**. **El fet és el mateix.**
+
+### On sí que coincideixen
+
+**En dues coses, i val la pena que quedi anotat:**
+
+- **La llei de protocol no existeix i fa falta.** Els dos la reclamen.
+- **Els electes es troben per darrere dels designats.** La nota 3 del volum
+  parla de «**la incomoditat i un cert malestar dels consellers generals,
+  electes… en relació a la preeminència dels ministres**, sobretot si aquests ho
+  són **per designació del cap de Govern sense haver passat prèviament per les
+  urnes**».
+
+**Aquesta última coincidència és el fet més sòlid del debat**, perquè la
+subscriuen **el crític i el defensor**.
+
 ## El que no s'ha pogut aprovar en 25 anys
 
 **Una llei de protocol.** Dallerès la qualifica de «necessària» i de «mostra
@@ -158,3 +232,4 @@ comparació històrica que subscrigui.
 - [El Coprincipat](../../institucions/coprincipat/el-coprincipat.md)
 - [El Govern](../../institucions/govern/el-govern.md)
 - [La Constitució de 1993](../../historia/constitucio-1993/constitucio-1993.md)
+- [Com funciona el Consell General](./com-funciona-el-consell-general.md) — la màquina que es discuteix.

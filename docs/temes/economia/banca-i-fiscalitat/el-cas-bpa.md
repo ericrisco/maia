@@ -141,3 +141,4 @@ I una nota per al lèxic: el corpus ja té **parapública**
 - [De 1993 ençà](../../historia/historia-recent/de-1993-enca.md)
 - [L'acord d'associació amb la UE](../../institucions/relacions-exteriors/lacord-dassociacio-amb-la-ue.md)
 - [Transformació econòmica](../transformacio-economica/transformacio-economica.md)
+- [Com funciona el Consell General](../../politica/parlamentarisme/com-funciona-el-consell-general.md) — la comissió d'enquesta del cas va fer canviar el reglament del parlament.

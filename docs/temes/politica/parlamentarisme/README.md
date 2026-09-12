@@ -10,9 +10,11 @@ compleix.
 
 - [El parlamentarisme andorrà](./el-parlamentarisme-andorra.md) — sis-cents anys
   en una cronologia, del 1419 al 2019.
+- [Com funciona el Consell General](./com-funciona-el-consell-general.md) — la
+  màquina per dins, i la reforma del reglament del 7 de febrer del 2019.
 - [La deriva presidencialista](./la-deriva-presidencialista.md) — un ex-síndic
   general compta les iniciatives del Consell i conclou que el règim s'està
-  transformant.
+  transformant. **I el síndic en exercici li respon al mateix volum.**
 
 ## Related
 

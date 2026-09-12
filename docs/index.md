@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**250** documents · **63** fonts · **0** aptes com a model de llengua · **102** temes amb contingut.
+**251** documents · **64** fonts · **0** aptes com a model de llengua · **102** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -523,6 +523,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Com funciona el Consell General](temes/politica/parlamentarisme/com-funciona-el-consell-general.md) | `temes/politica/parlamentarisme` | compilada | contemporania | no | `mateu-zamora-reforma-reglament` |
 | [El parlamentarisme andorrà](temes/politica/parlamentarisme/el-parlamentarisme-andorra.md) | `temes/politica/parlamentarisme` | compilada | contemporania | no | `bascompte-consell-de-la-terra` |
 | [La deriva presidencialista](temes/politica/parlamentarisme/la-deriva-presidencialista.md) | `temes/politica/parlamentarisme` | compilada | contemporania | no | `dalleres-coprincipat-parlamentari` |
 
@@ -810,6 +811,7 @@
 | [`massa-de-lo-que-pot-i-no-pot`](fonts/massa-de-lo-que-pot-i-no-pot.md) | Joan Massa i Sarrado · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mateu-petits-estats-especificitat`](fonts/mateu-petits-estats-especificitat.md) | Vicenç Mateu i Zamora · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mateu-pi-consellera-general`](fonts/mateu-pi-consellera-general.md) | Meritxell Mateu i Pi · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`mateu-zamora-reforma-reglament`](fonts/mateu-zamora-reforma-reglament.md) | Vicenç Mateu i Zamora · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`molla-catala-andorra`](fonts/molla-catala-andorra.md) | Guillem Molla · Universitat de Girona · revista IANUA | publicació acadèmica en accés obert | pendent |
 | [`oranias-formacio-administracio`](fonts/oranias-formacio-administracio.md) | Imma Oranias i Estudis · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pallares-medicina-andorra`](fonts/pallares-medicina-andorra.md) | Manuel Pallarès i Darsa · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |

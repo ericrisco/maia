@@ -1,0 +1,242 @@
+---
+type: article
+title: Com funciona el Consell General
+description: "Vint-i-vuit consellers, una sola cambra, sense segona lectura, i la majoria amb una feina a fora. Més els disset punts de la reforma del reglament, aprovada el 7 de febrer del 2019."
+tema: temes/politica/parlamentarisme
+veu: compilada
+epoca: contemporania
+apte_llengua: false
+font: mateu-zamora-reforma-reglament
+timestamp: 2026-09-13T13:00:00Z
+tags: [politica, parlamentarisme, consell-general, reglament, institucions, transparencia]
+---
+
+# Com funciona el Consell General
+
+## D'on surt
+
+De la ponència del **Síndic General en exercici**, **Vicenç Mateu i Zamora**
+([font](../../../fonts/mateu-zamora-reforma-reglament.md)). **És la descripció
+més detallada de la màquina parlamentària andorrana que el corpus té**, i la
+signa qui la presideix: **el corpus reté els fets i marca les valoracions**.
+
+## La màquina
+
+| Peça | Què és |
+| --- | --- |
+| **28 consellers generals**, organitzats en **grups parlamentaris** | La cambra |
+| **Sindicatura** | Òrgan «**més tècnic i de gestió**» |
+| **Junta de Presidents** | «**Recull la pluralitat política**» |
+| **Comissió Permanent** | Actua **fora de sessions o amb el Consell dissolt** |
+| **Vuit comissions legislatives permanents** | On es fa la feina |
+| **Comissions especials** | D'**enquesta**, d'**estudi** o **de legislatura** |
+
+> «Malgrat que **la visibilitat del Consell l'atorga el ple**, **la major part de
+> la tasca parlamentària s'esdevé en el si de les diferents comissions**.»
+
+### Qui pot presentar una llei
+
+| Qui | Com se'n diu |
+| --- | --- |
+| **El Govern** | **Projecte de llei** |
+| **Un o més grups parlamentaris** | **Proposició de llei** |
+| **Tres comuns** | Iniciativa |
+| **Una desena part de l'electorat** | **Iniciativa legislativa popular (ILP)** |
+
+**Tres comuns poden presentar una llei.** El corpus ho subratlla: **el poder
+local andorrà té iniciativa legislativa estatal**, cosa que no és habitual, i
+encaixa amb el que
+[els comuns i les parròquies](../../institucions/comuns-i-parroquies/les-set-parroquies.md)
+ja mostraven.
+
+## El que la mida fa
+
+**La comparació que fa el síndic és la part més útil de tot el text**, i és
+deliberadament amb un país gran:
+
+| | **Regne d'Espanya** | **Andorra** |
+| --- | --- | --- |
+| **Cambres** | **Dues**: Congrés i Senat | **Una** |
+| **Membres** | **350 + 266** | **28** |
+| **Segona lectura** | **Sí** — «si el Congrés erra, es pot corregir» | **No n'hi ha** |
+| **Dedicació** | «En principi, **tots plenament**» | «Els consellers amb dedicació plena són **molt pocs**» |
+| **Suport tècnic** | Lletrats i cossos tècnics **«de gran qualitat»** | «Els mitjans són **força ajustats, limitats i no comparables**» |
+| **Continuïtat** | **Polítics professionals**, «per bé i per mal» | Renovació gairebé constant |
+
+**Vint-i-vuit persones, una sola lectura, i la majoria amb una altra feina.**
+
+I el detall que el corpus no tenia i que canvia com s'ha de llegir tota la
+política andorrana:
+
+> «**el més habitual –i fins i tot més ben valorat– és compatibilitzar la feina
+> parlamentària amb una activitat professional paral·lela, que es considera
+> encara com la principal**.»
+
+**A Andorra ser parlamentari és, culturalment, la segona feina.** I això no és
+una anomalia moderna: ve directament de la figura dels **homes bons**, de qui
+s'esperava una dedicació pública **«fins i tot forçosa i no remunerada»**.
+
+> «**La dedicació als afers públics era alhora un honor i un deure.**»
+
+**Sis-cents anys després, el sistema encara suposa que el conseller té casa
+pròpia de què viure** — exactament com els **prohoms** del
+[Consell de la Terra](../../institucions/consell-general/el-consell-de-la-terra.md).
+
+## El problema que això crea
+
+**El síndic el nomena ell mateix, i és el problema estructural d'un microestat:**
+
+> «amb l'augment de la complexitat dels afers, **s'ha anat donant una certa
+> especialització dels consellers en les àrees més properes a la seva activitat
+> professional**, cosa que **llinda a voltes en l'actualitat amb la
+> incompatibilitat o el conflicte d'interessos**.»
+
+I quan proposa regular-ho, hi troba **el límit que la mida imposa**:
+
+> «Aquí el problema rau, **vista la mida del país, en l'abast de l'afectació. La
+> parella, la família i, fins a quin grau, les amistats…** És prou clar que
+> seguint models de països d'una altra dimensió, **en molts casos ben poca gent
+> podria no haver-se d'inhibir** a tractar determinats assumptes.»
+
+**En un país de 80.000 habitants, aplicar les regles de conflicte d'interessos
+d'un país gran deixaria el parlament sense ningú que pugui votar.** I hi afegeix
+l'avís, que és una tesi i el corpus la marca:
+
+> «una legislació molt estricta en aquest punt… **pot suposar una barrera afegida
+> per a molts ciutadans a l'hora de dedicar-se a la política**.»
+
+**Aquest és el dilema central del microestat**, i és el mateix que el corpus ja
+tenia registrat a
+[Andorra com a microestat](../../institucions/petits-estats/andorra-com-a-microestat.md):
+**les normes internacionals estan escrites per a països grans**.
+
+## La reforma del reglament
+
+**El Reglament del Consell General va entrar en vigor l'1 de gener de 1994.**
+«Malgrat el nom, **és en realitat una llei**», amb tramitació especial, i
+canviar-la **«requereix, si es volen fer les coses bé, d'un ampli consens
+polític, més enllà de majories i minories»**.
+
+**S'havia intentat el 2011-2015 i es va ajornar.** El síndic escriu el 2018 sense
+saber si se'n sortirà —**«possiblement en aquesta legislatura no arribem tampoc
+a concloure-la»**— i **les notes al peu del volum, escrites després, diuen que
+sí**: aprovada **el 7 de febrer del 2019**.
+
+### El que es va voler tocar
+
+**Disset punts.** Els que més diuen del país:
+
+| Àmbit | Què hi havia | Què es proposa |
+| --- | --- | --- |
+| **Incompatibilitats** | Només **públic/públic** | Regular també **públic/privat** |
+| **Béns i interessos** | **No hi ha declaració** | Declaració **a l'inici i al final** de la legislatura, «per constatar que no hi hagués qualsevol **enriquiment sospitós**», i un **codi de conducta** |
+| **Grups parlamentaris** | Calen **4 de 28** per formar-ne un | **Rebaixar-ho a 3** — «4 sobre 28 és una proporció molt elevada… **al qual no s'arriba en els parlaments de l'entorn**» |
+| **Diners dels grups** | — | **Comptabilitat exigible**, supervisió del **Tribunal de Comptes**, **retorn dels romanents** |
+| **Comissions especials** | Regulació **«molt genèrica»** | Precisar-la: **«la comissió creada arran del cas BPA ha evidenciat la necessitat»** |
+| **Vot** | Presencial | **Vot telemàtic** en casos concrets: **embaràs, hospitalització**. I poder **rectificar un vot erroni** |
+| **ILP i informes** | **Decauen** en acabar la legislatura | **Eliminar la caducitat** — per no obligar a **tornar a recollir el 10% del cens** |
+| **Ordre a la sala** | — | Poder **retirar afirmacions ofensives o degradants**; crides a l'ordre |
+| **Accés a l'edifici** | — | Identificació de visitants i **aforament límit per seguretat** |
+| **Preguntes al Govern** | Tres per període, amb «**una interpretació al límit del reglament**» | Regular les **repreguntes** |
+| **Transparència** | — | **Un títol nou sencer** |
+
+### El que es va aprovar, segons les notes del volum
+
+| Qüestió | Resultat, **7 de febrer de 2019** |
+| --- | --- |
+| **Grups parlamentaris** | **Sí a tres consellers.** **No** a crear-ne de nous durant la legislatura |
+| **Períodes de sessions** | S'amplien: **de l'1 de març al 15 de juliol** i **de l'1 de setembre a final de gener** (abans: març-juny i setembre-desembre) |
+
+**Dels disset punts, el corpus només sap del cert el resultat d'aquests dos.**
+La resta queda registrada com a **proposta del 2018**, no com a dret vigent.
+
+## Dues coses que el text deixa caure i el corpus reté
+
+**Primera: el cas BPA va deixar rastre al reglament.** La comissió d'enquesta
+sobre [el cas BPA](../../economia/banca-i-fiscalitat/el-cas-bpa.md) va demostrar
+que la regulació de les comissions especials era insuficient. **El corpus tenia
+el cas com a episodi bancari; això el converteix també en episodi
+institucional.**
+
+**Segona: el malestar dels electes amb els ministres.** La nota 3 del volum ho
+diu sense embuts:
+
+> «Es palesa, de vegades, **la incomoditat i un cert malestar dels consellers
+> generals, electes, representants de la sobirania popular, en relació a la
+> preeminència dels ministres**, sobretot si aquests ho són **per designació del
+> cap de Govern sense haver passat prèviament per les urnes**.»
+
+**Els elegits fan cua darrere dels designats.** És, en una frase, el mateix
+diagnòstic que fa
+[la deriva presidencialista](./la-deriva-presidencialista.md) — **escrit pel
+síndic que en aquella mateixa ponència en discrepa**.
+
+## El protocol, i qui passa davant
+
+**No hi ha llei de protocol.** El síndic ho confirma i n'explica el perquè,
+que és inesperat:
+
+> «malgrat els nombrosos projectes que mai no han arribat a la fi del seu camí,
+> **a voltes per autocensura**, a voltes **per por de ser acusats els consellers
+> de frivolitat**… Mentrestant, **es funciona artesanalment** amb més o menys
+> recurs a **la tradició, la mà esquerra i la bona voluntat.**»
+
+**El seu argument perquè el Síndic passi davant del Cap de Govern:** l'antiguitat
+de les institucions, el **sufragi universal** i **l'ordre dels títols de la
+Constitució** — títol III els coprínceps, **IV el Consell General**, V el Govern.
+I recorda que **als països veïns no hi ha una regla única**: a Espanya, darrere
+el rei ve el president del Govern; **a França, darrere el president de la
+República ve el president del Senat**.
+
+**Això és tesi de part i el corpus ho marca.** El que sí que és fet:
+
+> Davant del **Síndic** juren o prometen el càrrec **els magistrats del Tribunal
+> Constitucional**, **els membres del Consell Superior de la Justícia** i **el
+> mateix Cap de Govern**.
+
+I el motiu és **estructural, no honorífic**: com que el cap d'estat andorrà són
+**dos coprínceps** i **la seva presència en actes institucionals «esdevé
+dificultosa»**, els redactors de la Constitució **hi van posar el Síndic a
+sobre**.
+
+**El Coprincipat obliga a inventar un substitut del cap d'estat per als actes
+del dia a dia.**
+
+## La dada final
+
+> «**En les enquestes del CRES, el Consell General apareix repetidament com la
+> institució més valorada pels ciutadans.**»
+
+**El corpus la reté amb reserva doble:** la dona **el president de la institució
+valorada**, i **el corpus no té les enquestes del CRES**
+([què és el CRES](../../societat/treball/el-sindicalisme.md)). **Buit
+registrat.**
+
+I val la pena posar-la al costat de l'altra:
+**la institució més valorada és la mateixa a les eleccions de la qual hi va
+cada cop menys gent** ([l'abstenció](../sistema-electoral/labstencio.md)).
+**Cap de les dues fonts no creua les dues dades.**
+
+## Buits registrats
+
+1. **El text del Reglament del Consell General**, i el de la reforma del **7 de
+   febrer de 2019**.
+2. **Què va passar amb els altres quinze punts** de la reforma.
+3. **Les enquestes del CRES** sobre valoració institucional. **Prioritari.**
+4. **Les vuit comissions legislatives permanents**: quines són.
+5. **La comissió d'enquesta del cas BPA**: composició, conclusions.
+6. **Si hi ha hagut mai una ILP** a Andorra, i quantes.
+7. **El Tribunal de Comptes** i **el Raonador del Ciutadà**: citats i no
+   descrits. Cap fitxa al corpus.
+8. **Dominique Rousseau**, magistrat del Tribunal Constitucional andorrà citat
+   al text — i **el Tribunal Constitucional** en general.
+
+## Related
+
+- [La deriva presidencialista](./la-deriva-presidencialista.md) — el desacord entre els dos síndics.
+- [El parlamentarisme andorrà](./el-parlamentarisme-andorra.md)
+- [El Consell General](../../institucions/consell-general/el-consell-general.md)
+- [El Govern](../../institucions/govern/el-govern.md)
+- [Andorra com a microestat](../../institucions/petits-estats/andorra-com-a-microestat.md) — el dilema de la mida.
+- [El cas BPA](../../economia/banca-i-fiscalitat/el-cas-bpa.md)
+- [Els tres sistemes electorals](../sistema-electoral/els-tres-sistemes-electorals.md)
