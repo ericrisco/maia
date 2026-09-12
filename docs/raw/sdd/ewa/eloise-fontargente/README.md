@@ -333,6 +333,123 @@ que Google Books dona 256 i altres fitxes 257. No hi ha encara evidència que
 siguin variants textuals; la hipòtesi mínima és una diferència en el còmput de
 la fulla no numerada.
 
+## Un TFG de 2014 ordena la historiografia i n'explicita els límits
+
+Sergi Esteves Lorenzo presentà el setembre de 2014 el treball de grau *Exili i
+evasions al Principat d'Andorra durant la Guerra Civil Espanyola i la Segona
+Guerra Mundial 1936-1945*, dirigit per Queralt Solé Barjau a la Universitat de
+Barcelona. El document té 31 pàgines, és en accés obert al dipòsit de la UB
+(`hdl:2445/66337`) i porta llicència CC BY-NC-ND 3.0 ES. És una síntesi
+historiogràfica d'estudiant, no una nova col·lecció de proves primàries.
+
+La seva utilitat és cartogràfica i crítica. A les p. 21–24:
+
+- resumeix, a partir de Benet, que Ewa passava sobretot militars polonesos i
+  que Tadeusz Rubach relacionava el seu desmantellament de 1943 amb l'atac a
+  l'Hotel Palanques;
+- descriu dos corredors des de Tarascon: Valira del Nord pels ports del Rat,
+  Siguer i l'Arbella, i Valira d'Orient des d'Ussat o Aston pel port de
+  Fontargent. Tots superen els 2.500 metres; Envalira hauria estat menys usat
+  per la vigilància alemanya;
+- reprodueix de Benet (p. 92–93) temperatures de Ransol entre 0 i −17 °C i una
+  «acumulació» de neu de 3.900 cm. Aquesta xifra sembla un total meteorològic
+  acumulat i **no s'ha d'interpretar com un gruix simultani** fins consultar
+  les pàgines originals;
+- atribueix a Porta i Cebrián la condició de Viadiu com a cap de
+  l'`Intelligence Service` britànic a Andorra i reconstrueix l'entrada de la
+  Gestapo a l'Hotel Palanques el 27/09/1943: l'infiltrat anomenat `Nicodemus`,
+  quatre evadits polonesos i la detenció d'Eduard Molné, traslladat a
+  Saint-Michel de Tolosa i alliberat al cap de deu dies després de protestes
+  andorranes.
+
+El mateix autor adverteix que els llibres consultats no ofereixen una recerca
+contrastada de l'atac i tendeixen a acceptar testimonis dels involucrats,
+inclòs Viadiu. Aquesta reserva impedeix usar el TFG com a segona confirmació de
+`Nicodemus`, de la data o dels detinguts: és una guia precisa per tornar a
+Benet, Porta/Cebrián i, finalment, als expedients contemporanis.
+
+## Benet 2004: testimonis, noms laterals i el primer facsímil de *Reporter*
+
+Claude Benet i Mas publicà «L'Andorra “fosca” i l'Andorra “generosa” durant la
+Segona Guerra Mundial» a *Papers de Recerca Històrica* 4 (2004), p. 80–86,
+DOI `10.2436/20.0110.03.47`. Ell mateix hi declara que no és historiador i
+presenta la recerca com una aproximació preliminar. El text explica la
+compartimentació de les cadenes: passadors i refugiats sovint ignoraven els
+noms respectius, els trajectes duraven prop de dos dies entre Andorra i
+Manresa, es feien sobretot de nit i podien combinar contraban, persones i
+documents segellats.
+
+A la p. 83, Benet individualitza tres aviadors: el britànic Maurice Collins i
+els nord-americans Cobb i Stillwell, aquests dos ajudats, entre altres, per
+Viadiu. **No són els dos canadencs d'Éloïse** mentre cap document uneixi les
+històries. La mateixa pàgina transmet dos episodis mortals diferents: dues
+parelles belgues atribuïdes a dos guies aragonesos i el jove francès
+`Grosjean`, ferit en la travessa i enterrat al vell cementiri de Llorts.
+L'article reprodueix a la p. 84 una carta de Daniel Fité a la mare de Grosjean
+i una fotografia atribuïda a la tomba; aquesta pista nominal i funerària és
+més verificable que les sepultures anònimes del relat de *Reporter*.
+
+La p. 85 reprodueix un fragment fotogràfic de *Reporter* amb el peu imprès
+`reporter 4-21`. La p. 86 qualifica la revista de sensacionalista i diu que la
+veracitat del reportatge no s'havia acabat d'esbrinar. Benet afirma també que
+patrulles alemanyes baixaven de Fontargent per Incles, però la pàgina no aporta
+nota ni signatura documental. El seu article és així una baula molt pròxima a
+la memòria oral i una guia de noms; no converteix en fets provats totes les
+afirmacions que recull.
+
+## *Reporter* 4 i 5: recuperació dels escaneigs, anatomia d'una acusació
+
+Una entrada de 2013 del blog anònim *Andorra Leaks* conserva vint escaneigs del
+reportatge de 1977. S'han descarregat els originals de Blogger directament a
+`francesc-viadiu-fons/reporter-1977/`, se n'ha fet OCR local i s'han verificat
+visualment les peces determinants. La font és una còpia digital no
+institucional, però els folis mostren capçaleres, paginació, sumari i firma
+interna congruents:
+
+- *Reporter* núm. 4, setmana **14–20/06/1977**, sumari p. 4 i reportatge
+  «Matanza de judíos en la frontera española», p. 16–23, signat per
+  **Eliseo Bayo** i amb fotografies d'Enrique García Pons;
+- les imatges `r5-1`–`r5-6` duen al peu `reporter 5/…` i constitueixen la
+  continuació al núm. 5. Encara falta una coberta o sumari del número per
+  fixar-ne la data amb una prova interna; no s'adopta acríticament la nota
+  editorial de 2016 que escriu «4, 5 y 6 de junio».
+
+El número 4 combina una excavació fotografiada amb una narració molt més
+àmplia sobre evasió de capitals, Gestapo, contraban i fortunes andorranes. El
+número 5 formula acusacions personals, diu haver localitzat diverses sepultures
+i enumera Grau Roig, Vall Civera, Sant Julià, mas d'Alis, Bixessarri, Arinsal,
+els Cortals d'Encamp i Pal. Les fotografies proven que el periodista mostrà
+ossos i una excavació al públic; **no proven per si soles antiguitat, identitat,
+causa de mort, lloc exacte ni responsabilitat penal**. Als escaneigs consultats
+no apareixen informes forenses, actes judicials, permisos d'exhumació,
+coordenades, testimonis identificats de cadena de custòdia ni anàlisi
+osteològica.
+
+Aquest tallafoc és essencial. L'article presenta com a certs nexes que dècades
+després Benet i la historiografia encara qualificaven de llegenda o qüestió no
+resolta. Cal descriure'ls com a **acusacions de Bayo**, no com a biografies dels
+al·ludits. Tampoc hi ha als dos números recuperats cap connexió nominal amb
+Éloïse o amb els seus dos canadencs.
+
+## Mèlich: memòria anterior al reportatge, edició posterior que l'amplifica
+
+Enric Mèlich relata a *A cada cual su exilio* —edició castellana de Virus,
+2016, sobre l'original francès— que un contacte andorrà advertí la seva xarxa
+que desconfiés de dos contrabandistes, després que tres passatgers no arribessin
+al destí. Diu que només molt més tard saberen que uns guies havien robat i
+executat passatgers, i recorda que Dot reclamava un periodista que tragués a la
+llum aquells crims. És memòria retrospectiva d'un participant, però el nucli
+del record és anterior a la publicació de Bayo i mereix ser contrastat amb
+papers de la seva xarxa.
+
+Els editors de 2016 hi intercalen després un fragment llarg de *Reporter* i una
+nota que remet a «4, 5 y 6 de junio de 1977». El redactat és ambigu —pot
+confondre números amb dates— i els escaneigs només permeten assegurar de moment
+el núm. 4, 14–20 de juny, i una continuació al núm. 5. Una segona nota identifica
+el documental de Canal 33 *Fugint dels nazis* (2008), amb testimoni del mateix
+Mèlich. Per tant, el llibre conté dues capes que no s'han de fondre: record
+autobiogràfic i aparell editorial posterior basat en Bayo.
+
 ## La capa audiovisual i el seu límit
 
 3Cat manté públiques les dues parts de la minisèrie *Andorra. Entre el torb i
@@ -397,6 +514,14 @@ històric.
 | `francesc-viadiu-fons/camins-utopia-josep-soler.html` | Captura del blog familiar de Jordi Soler Vinyes, publicat el 24/11/2011; context, autoria i peu que atribueix la dedicatòria a *Andorra: cadena de evasión*. |
 | `francesc-viadiu-fons/dedicatoria-viadiu-josep-soler-maig-1974.jpg` | Imatge original servida per Blogger; dedicatòria, signatura i data manuscrita `27-V-74`, verificades visualment. |
 | `francesc-viadiu-fons/todocoleccion-andorra-cadena-firmado.html`, `todocoleccion-306504858.jpg` | Anunci d'un exemplar castellà de 1974 i fotografia de coberta; declara firma i 257 p., però la imatge pública no mostra l'interior. |
+| `francesc-viadiu-fons/exili-evasions-andorra-ub.pdf`, `.txt`, `ub-*-exili-evasions.json` | TFG de Sergi Esteves Lorenzo, UB, 2014, `hdl:2445/66337`; síntesi historiogràfica, metadades oficials i llicència CC BY-NC-ND 3.0 ES. |
+| `francesc-viadiu-fons/exili-evasions-ub-page-21.png`, `-23.png`, `-24.png`, `-26.png` | Renders verificats de les pàgines sobre Ewa, rutes, Hotel Palanques i llegenda negra. |
+| `francesc-viadiu-fons/benet-2004-andorra-fosca-generosa.pdf`, `.txt` | Claude Benet i Mas, *Papers de Recerca Històrica* 4 (2004), DOI `10.2436/20.0110.03.47`; recerca preliminar i testimonis. |
+| `francesc-viadiu-fons/benet-2004-page-83.png`, `-85.png`, `-86.png` | Renders verificats: aviadors i morts, facsímil parcial de *Reporter* i cautela final de l'autor. |
+| `francesc-viadiu-fons/a-cada-cual-su-exilio.pdf`, `.txt`, `a-cada-cual-page-66-67.png` | Memòries d'Enric Mèlich, Virus, 2016, i render del record/editorialització del cas; CC BY-NC-ND 1.0. |
+| `francesc-viadiu-fons/escandols-andorra-muntanyes.html` | Còpia de procedència de l'entrada de 2013 que allotja els escaneigs i atribueix dates a diversos números; blog anònim, no catàleg hemerogràfic. |
+| `francesc-viadiu-fons/reporter-1977/*.jpg`, `*.txt` | Vint escaneigs i OCR de treball dels núm. 4 i 5 de *Reporter*; el núm. 4 conserva sumari i p. 16–23, el 5 és parcial. |
+| `francesc-viadiu-fons/youtube-search-*.json`, `*.vtt` | Auditoria de YouTube: una càpsula de Claude Benet sense subtítols i un vídeo divulgatiu de Viadiu de baix valor probatori. El fitxer d'àudio de la càpsula quedà buit per bloqueig 403 i no s'ha escoltat. |
 | `internet-archive-isbn-search.json` | Cerca pels ISBN català i francès: zero resultats. |
 | `openlibrary-isbn-search.json` | Registre bibliogràfic sense ebook ni text complet. |
 
@@ -414,6 +539,12 @@ Els SHA-256 de tots els fitxers es van calcular el 12/09/2026. Destaquen:
   `917324af431d7d03831f29190cbeee237c0b12fd29bd80e8bc1735b339a02b57`;
 - `rua-handle-10045-96369.json`:
   `b05adf5ebbad7b839596c090fe67ad0fcd34e0416da22e22fb918c6473799c0a`.
+- `exili-evasions-andorra-ub.pdf`:
+  `a521d216f9e751c5a523fb2433eddb39864f8cb3d79354bd27786d729da1846c`;
+- `benet-2004-andorra-fosca-generosa.pdf`:
+  `896719a73aede14bcb9a11fdd4154bfea83a5df45f4925de1dbf749979f9d5e8`;
+- `a-cada-cual-su-exilio.pdf`:
+  `6bc9ea22d2fa23ef48d10f0bab49082748cac04f3e23330208b56ea52709742c`.
 
 ## Pròxims controls
 
@@ -454,6 +585,21 @@ Els SHA-256 de tots els fitxers es van calcular el 12/09/2026. Destaquen:
     Soler amb un exemplar complet de la castellana de Martínez Roca.
 17. Comptar la paginació física de la castellana i determinar si la discrepància
     256/257 correspon simplement a `256 p., 1 h.`.
+18. Consultar les p. 92–93 de Benet (2009) per identificar sèrie, període i
+    unitat exactes dels 3.900 cm de neu acumulada a Ransol.
+19. Localitzar exemplars institucionals complets de *Reporter* 4, 5 i 6 i dels
+    números 13, 14 i 16; registrar data, pàgines, continuïtats i eventuals
+    rectificacions. Els escaneigs del blog són una còpia de treball, no
+    substitueixen l'hemeroteca.
+20. Cercar expedient forense, judicial o municipal per a cadascuna de les
+    excavacions fotografiades per Bayo; sense cadena de custòdia no atribuir els
+    ossos a fugitius ni a la Segona Guerra Mundial.
+21. Identificar Maurice Collins, Cobb i Stillwell en informes RAF/USAAF i
+    mantenir-los separats dels dos canadencs d'Éloïse.
+22. Cercar `Grosjean` a les defuncions i inhumacions de Llorts i obtenir la
+    carta/fotografia de Daniel Fité en millor resolució.
+23. Recuperar i transcriure *Fugint dels nazis* (Canal 33, 2008), distingint el
+    testimoni d'Enric Mèlich de la narració i l'aparell visual del programa.
 
 ## Drets
 
