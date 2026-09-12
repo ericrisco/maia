@@ -1,0 +1,132 @@
+---
+type: article
+title: Els costumaris andorrans
+description: "El Manual Digest i el Politar no estaven sols. Hi havia una Instructa als batlles del 1740, un manuscrit anterior al Politar i el llibre de records d'un batlle. I el 1904 se sabia on era cada còpia."
+tema: temes/historia/manual-digest
+veu: compilada
+epoca: contemporania
+apte_llengua: false
+font: brutails-coutume-1904
+timestamp: 2026-09-13T00:50:00Z
+tags: [historia, dret, manual-digest, politar, manuscrits, arxius, font-primaria]
+---
+
+# Els costumaris andorrans
+
+El corpus tenia **dos** costumaris: [el Manual Digest](./manual-digest.md) (1748)
+i **el Politar** (1763). I tenia registrat com a buit que **les Instructes als
+batlles** existien i que no en sabia res.
+
+**N'hi havia més de dos, i el 1904 se sabia on era cada còpia.** Ho inventaria
+J.-A. Brutails, jutge del Tribunal Superior d'Andorra
+([font](../../../fonts/brutails-coutume-1904.md)).
+
+> «L'Andorre possède **un certain nombre de manuscrits** dans lesquels les usages
+> locaux ont été consignés soit par des particuliers sans mandat, soit par les
+> Corts ou le Conseil général. **Tous ces manuscrits traitent de la procédure.**»
+
+**Tots tracten del procediment.** No de principis: de com es fan les coses.
+
+## La Instructa als batlles, datada
+
+**Buit tancat.** El corpus les tenia com «les Instructes als batlles, de finals
+dels segles XVII i XVIII», sense text ni data.
+
+> «**Une *Instructa* aux bayles fut rédigée aux Corts de 1740.**»
+
+| | |
+| --- | --- |
+| **Quan** | **Corts de 1740** |
+| **Còpies conegudes el 1904** | Almenys **dues**: una d'**Anton Puig**, a continuació del Politar de la **Casa de la Vall**; l'altra, **de la mateixa mà**, a casa del senyor **Palmitjavila** |
+| **On és el text** | Brutails **la reprodueix** a les seves peces justificatives (**XXVI**) |
+| **Qui la cita** | **El Politar mateix**, a la pàgina 214 |
+
+**El text és al mateix llibre que hi ha a `docs/raw/llibres/`.** El corpus encara
+no l'ha llegit: **buit registrat, però ja no és un buit d'accés**.
+
+## El manuscrit que és anterior al Politar
+
+Brutails en descriu un que el corpus no coneixia de cap manera, i el tracta amb
+un respecte que no dedica a res més:
+
+> «L'exposé qui suit est... **l'un des documents les plus précieux que j'aie eus
+> en mains au cours de cette enquête.**»
+
+| | |
+| --- | --- |
+| **D'on surt** | Li'l va deixar el senyor **Palmitjavila** |
+| **Com comença** | Amb una **petició del Consell General al veguer**, a qui el Consell presenta el treball, tret **dels privilegis i dels expedients judicials** |
+| **Data** | **No es va poder precisar.** No pot ser anterior a **1607** aproximadament |
+| **Per què** | Hi surten les **dobles** (moneda) i la ***duena***, la llista de dos noms que el Consell General presentava per nomenar notari — i aquest sistema es va organitzar **per decret de l'1 de febrer de 1607**. El règim de vendes judicials que descriu sembla el de **les Corts de 1608** |
+| **Quina època descriu** | **Més antiga que la del Politar**: sembla remuntar al **segle XVII** |
+
+## El llibre de records d'un batlle
+
+> «M. **Anton Picart**, ancien bayle de France, **l'un des *sabis* les plus
+> considérés de l'Andorre**, a fixé par écrit ses souvenirs sur l'histoire,
+> l'organisation et la procédure des Vallées andorranes.»
+
+Un **antic batlle de França** que posa per escrit el que sap. Brutails hi afegeix
+que «il est à peine besoin de dire de quelle utilité **ce vénérable volume** a
+été pour moi».
+
+**Buit registrat:** on és aquest volum. El corpus no en sap res més que aquestes
+tres línies, i **el mot que Brutails fa servir per als savis del país és el
+mateix que feien servir ells**: *sabis*.
+
+## On era cada còpia el 1904
+
+Això és, avui, **una llista de llocs on buscar**.
+
+| Obra | Exemplars que Brutails coneix |
+| --- | --- |
+| **Manual Digest** | **La minuta**, a **Ordino**, a casa del senyor **de Riba**; i **una còpia** a **Andorra la Vella, a la Casa de la Vall** |
+| **Politar** | El de la **Casa de la Vall** i **un altre a la Delegació Permanent, a Perpinyà** |
+| Politar (assaigs parcials) | Creu que el senyor **Palmitjavila** en té un |
+| Politar (còpia dolenta) | A la **Biblioteca de Foix** — «une copie **fort inexacte**», segons carta de **M. Pasquier**, arxiver de l'Arieja, del **22 de desembre de 1877** |
+| Politar (altres còpies) | Al **bisbat d'Urgell** i a **Barcelona** |
+
+I una que va sortir del país:
+
+> «...le Politar et le Manual Digest de la Casa la Vall **ont été transcrits par
+> M. Bonaventure Moles et envoyés à Paris en 1879** ; ils sont déposés à la
+> **Bibliothèque du Comité de législation comparée**.»
+
+**El 1879 els dos costumaris andorrans es van copiar i enviar a París.**
+
+## El títol complet del Manual Digest
+
+Brutails el transcriu, i val la pena tenir-lo sencer:
+
+> ***Manual Digest de las Valls neutras de Andorra**, en lo cual se tracta de sa
+> antiquitat, govern y religio, de sos privilegis, usos, preheminencias y
+> prerogativas. — Escrit a peticio del Comú general de ellas, per lo d'en drets
+> **Anton Fiter y Rossell**, del poble de **Ordino**, per lo millor govern y
+> regimen de sus patricis.*
+
+Dues coses que el títol diu i que val la pena no passar per alt: **«Valls
+neutras»** —la neutralitat al títol, el 1748— i **«escrit a peticio del Comú
+general»**: **no és obra d'un particular, és un encàrrec**.
+
+L'obra està dividida en **sis llibres**, subdividits en capítols.
+
+## Buits registrats
+
+1. **El text de la Instructa de 1740.** És a les peces justificatives del mateix
+   llibre que el corpus té al calaix.
+2. **El manuscrit anterior al Politar** (peça justificativa XXVII), i la seva
+   datació.
+3. **El volum d'Anton Picart**: on és.
+4. **Si les còpies de 1879 són encara a París**, i què n'ha estat de la
+   Bibliothèque du Comité de législation comparée.
+5. **Qui eren Palmitjavila, de Riba i Bonaventura Moles.**
+6. **El Politar sencer.** Brutails en publica extractes (annex XXXIV) i el corpus
+   **encara no els ha llegit**.
+
+## Related
+
+- [El Manual Digest](./manual-digest.md) — el costumari que el corpus ja tenia.
+- [De lo que pot i no pot](./de-lo-que-pot-i-no-pot.md) — el llibre tercer.
+- [El dret supletori](../../institucions/justicia/el-dret-supletori.md) — què omplia el que els costumaris no deien.
+- [Les fonts del dret](../../institucions/justicia/les-fonts-del-dret.md) — la prelació.
+- [Casa de la Vall](../../institucions/patrimoni-institucional/casa-de-la-vall.md) — on es guardaven.

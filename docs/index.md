@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**285** documents · **80** fonts · **0** aptes com a model de llengua · **106** temes amb contingut.
+**287** documents · **81** fonts · **0** aptes com a model de llengua · **106** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -334,6 +334,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [De lo que pot i no pot](temes/historia/manual-digest/de-lo-que-pot-i-no-pot.md) | `temes/historia/manual-digest` | compilada | contemporania | no | `massa-de-lo-que-pot-i-no-pot` |
+| [Els costumaris andorrans](temes/historia/manual-digest/els-costumaris-andorrans.md) | `temes/historia/manual-digest` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [El Manual Digest](temes/historia/manual-digest/manual-digest.md) | `temes/historia/manual-digest` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/historia/moments-historics
@@ -408,6 +409,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Cronologia legislativa del segle XX](temes/institucions/justicia/cronologia-legislativa.md) | `temes/institucions/justicia` | compilada | contemporania | no | `pujadas-dret-andorra` |
+| [El dret supletori](temes/institucions/justicia/el-dret-supletori.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [El dret andorrà vigent](temes/institucions/justicia/el-dret-vigent.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El notariat](temes/institucions/justicia/el-notariat.md) | `temes/institucions/justicia` | compilada | contemporania | no | `rodriguez-minana-notaris` |
 | [La justícia](temes/institucions/justicia/justicia.md) | `temes/institucions/justicia` | compilada | contemporania | no | `viquipedia-ca` |
@@ -830,6 +832,7 @@
 | [`bastida-roser-ensenyament-andorra`](fonts/bastida-roser-ensenyament-andorra.md) | Roser Bastida i Areny · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`bastida-universitat-andorra`](fonts/bastida-universitat-andorra.md) | Daniel Bastida i Obiols · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`boladeres-ensenyament-espanyol`](fonts/boladeres-ensenyament-espanyol.md) | Antoni Boladeres i Sorribes · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`brutails-coutume-1904`](fonts/brutails-coutume-1904.md) | J.-A. Brutails · Ernest Leroux, éditeur, París · obra de 1904, domini públic | domini públic per antiguitat; digitalització de Google Books | si |
 | [`cairal-escola-andorrana`](fonts/cairal-escola-andorrana.md) | M. Teresa Cairat i Vila · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`camiade-migracions`](fonts/camiade-migracions.md) | Martina Camiade · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`canturri-usos-i-costums`](fonts/canturri-usos-i-costums.md) | Pere Canturri i Montanya · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |

@@ -1,0 +1,171 @@
+---
+type: article
+title: El dret supletori
+description: "Els andorrans deien que el seu dret supletori era el romà. El jutge que els jutjava va escriure que s'equivocaven, i que era el català — i que ho deien per por de semblar catalans."
+tema: temes/institucions/justicia
+veu: compilada
+epoca: contemporania
+apte_llengua: false
+font: brutails-coutume-1904
+timestamp: 2026-09-13T00:45:00Z
+tags: [justicia, dret, costum, dret-roma, dret-catala, identitat, font-primaria]
+---
+
+# El dret supletori
+
+[Les fonts del dret](./les-fonts-del-dret.md) donava la prelació que Pujadas
+atribueix als tribunals andorrans, i registrava tres buits: **un cas concret**
+on s'hagués aplicat dret romà o català, **el Politar** citat i no llegit, i **les
+Instructes als batlles**, de les quals el corpus no en sabia res.
+
+**Els tanca tots tres un llibre de 1904** escrit per un home que **seia al
+Tribunal Superior d'Andorra**: J.-A. Brutails, *La Coutume d'Andorre*
+([font](../../../fonts/brutails-coutume-1904.md)).
+
+## Per què això no és una discussió d'erudits
+
+Brutails ho avisa d'entrada, i val la pena retenir-ho:
+
+> «Ce n'est pas là, qu'on veuille bien le remarquer, **une question purement
+> spéculative : de la solution dépend l'issue de procès assez nombreux**, relatifs
+> notamment à la succession des impubères.»
+
+**Es jutjaven herències amb això.** Saber quin dret omplia els buits del costum
+decidia qui heretava.
+
+## Què deien els andorrans
+
+> «Presque tous les notables et jurisconsultes auxquels je me suis adressé m'ont
+> déclaré que le droit applicable en Andorre est, **en premier lieu, le droit
+> local**, savoir les décisions des autorités compétentes et la coutume ; **en
+> second lieu, le droit romain** ; ensuite, **le droit catalan** ; enfin, et sur ce
+> dernier point les opinions sont partagées, **le droit canonique ou le droit
+> castillan**.»
+
+I no era només opinió: hi ha **declaracions institucionals datades**.
+
+| Data | Qui | Què diu |
+| --- | --- | --- |
+| **16 de març de 1753** | **Consell General** | Declaració citada per Brutails |
+| **14 de setembre de 1845** | Carta signada **Agustín Vidal**, amb instruccions del bisbe | «**el drecho romano, que es el que vige en Andorra**» (Arxius de l'Arieja, Andorra, lligall 2) |
+| **8 de febrer de 1868** | Sentència d'un **batlle**, en un plet de salaris | «Considerant que **la prescripcio triennal** oposada per lo covingut y **fundada en lleys de España y Cataluña es contra lo que estatuheyx lo dret romá y lo dret canonich** y contra tota equitat» |
+| **31 de maig de 1876** | **Consell General** | «Esta legislacion en los casos que no hay ley especial andorrana ó consuetut que forme ley **está basada en el derecho comun ó romano, como es de ver en el Politar**» |
+| **25 de juny de 1877** | Els **rahonadors**, en memòria al veguer de França | «les constitutions de Catalogne **servent de complément** aux lois spéciales andorranes **et au droit romain**» |
+
+**El buit registrat era «un cas concret».** Aquí n'hi ha cinc, datats, i un
+d'ells és **una sentència andorrana de 1868 en català** que rebutja la
+prescripció triennal espanyola i catalana **per contrària al dret romà i al
+canònic**.
+
+I un de francès, encara més antic:
+
+> **1686.** Sentència de **Vital Seré**, «conseillier du Roy, **juge en la
+> souveraineté d'Andorre**», ordenant que els béns siguin embargats i subhastats
+> «**suivant les ordonnances royaux**».
+
+**Dret reial francès aplicat a Andorra el 1686**, per un jutge que s'intitula
+jutge «en la sobirania d'Andorra».
+
+## I què diu el jutge que hi seia
+
+Brutails sosté **el contrari** del que li deien tots:
+
+> «...c'est un fait incontestable que **le droit supplétoire de l'Andorre est le
+> droit catalan**.»
+
+I ho argumenta amb el dret mateix, no amb declaracions:
+
+| Prova | |
+| --- | --- |
+| **Els formularis** | Els que fan servir els notaris andorrans **són catalans**. I «il n'est pas admissible que l'Andorre ait parallèlement deux législations : l'une pour former les contrats, l'autre pour les interpréter» |
+| **La prescripció** | A Andorra **no es coneixen els terminis de 10 i 20 anys** del dret romà, sinó **el de 30**, com en dret català |
+| **La família** | Organitzada **sobre les clàusules del contracte de matrimoni**: tret característic tant del costum andorrà com del dret català |
+| **L'hereu** | La **institució d'hereu pel contracte de matrimoni** és corrent a Andorra com a Catalunya |
+
+Vegeu [els capítols matrimonials](../../historia/antic-regim/els-capitols-matrimonials.md)
+i [l'hereu i el cabaler](../../historia/antic-regim/lhereu-i-el-cabaler.md): el
+corpus ja tenia descrites les dues institucions que Brutails fa servir com a
+prova.
+
+## L'explicació, i és política
+
+Aquí hi ha la frase que fa que aquesta fitxa existeixi.
+
+> «...**l'adoption officielle de telle ou telle législation équivaut, dans quelque
+> mesure, à une déclaration de nationalité**.»
+
+I la conclusió que en treu:
+
+> «**Dans leur crainte de se laisser assimiler par les deux nations voisines, les
+> autorités des Vallées opposent le droit romain au droit français et au droit
+> catalan.**»
+
+**Andorra deia seguir el dret romà perquè dir que seguia el dret català era dir
+que era Catalunya, i dir que seguia el francès era dir que era França.** El dret
+supletori com a **declaració de nacionalitat**.
+
+Brutails ho remata desmuntant la premissa de tothom:
+
+> «...si l'on admet que la coutume andorrane est romaine, **le droit catalan l'est
+> également**. Législation andorrane, législation catalane **sont deux sœurs**, qui
+> se ressemblent entre elles incomparablement plus qu'elles ne ressemblent à leur
+> commun ancêtre, le droit romain.»
+
+I atribueix la creença general a «**cette extraordinaire erreur qui, à travers le
+moyen âge et l'époque moderne, assura à la loi romaine un triomphe factice**»:
+els legistes dels països de dret escrit **es creien sotmesos al dret romà i
+s'equivocaven**.
+
+## Dues prelacions que no diuen el mateix
+
+I aquí el corpus té **dues autoritats que no coincideixen**, i no tria:
+
+| | **Brutails**, 1904 | **Pujadas**, 2002 |
+| --- | --- | --- |
+| 1 | Dret local: decisions i costum | Les lleis pàtries |
+| 2 | | Els usos i costums |
+| 3 | **El dret català** (tesi pròpia) | El dret romà |
+| 4 | | El dret canònic |
+| 5 | | **El dret català fins al 1714** |
+| 6 | | El *ius commune* |
+
+**Pujadas posa el dret català el cinquè; Brutails diu que és el primer dels
+supletoris.** I el que és més interessant: **Pujadas descriu el que deien els
+tribunals, i Brutails diu precisament que això era una creença equivocada**. Les
+dues coses poden ser certes alhora.
+
+## Una nota sobre el castellà
+
+Brutails diu que el dret castellà **gairebé no hi és**, i que el que en queda és
+**vocabulari**: *sala*, *sala tercera*, *juicios en rebeldía*, *exhortos*,
+*finca*, *resultandos y considerandos*, *abonar*, *postor*, *remate*, *vencido*
+—expressions que diu haver sentit moltes vegades a Andorra i que venen del
+**Código civil** i de la **Ley de enjuiciamiento civil de 1881**.
+
+I hi afegeix una cautela que el corpus adopta: pensa, **sense poder-ho afirmar**,
+que les analogies amb el costum andorrà «résultent **non d'une influence directe,
+mais d'une commune origine**». Per a
+[la branca de llengua](../../llengua/manlleus/manlleus.md), és una llista de
+manlleus jurídics datada el 1904.
+
+## Buits registrats
+
+1. **Si algun tribunal va resoldre mai la qüestió.** Brutails la deixa oberta i
+   Pujadas també, cent anys després.
+2. **El text de la sentència de 1686** de Vital Seré, sencer.
+3. **La declaració del Consell General del 16 de març de 1753**, que Brutails
+   cita en nota i el corpus no té.
+4. **Qui eren els *rahonadors*** de 1877 i quina relació tenen amb
+   [el raonador del ciutadà](./justicia.md) d'avui.
+5. **Què en diu la Constitució de 1993.** [L'ordenament jurídic avui](./lordenament-juridic-avui.md)
+   mostra que **no esmenta el costum** fora de l'article 84: si el dret supletori
+   segueix existint, i quin és, **no consta**.
+
+## Related
+
+- [Les fonts del dret](./les-fonts-del-dret.md) — la prelació que això discuteix.
+- [Els costumaris andorrans](../../historia/manual-digest/els-costumaris-andorrans.md) — on es va escriure el costum.
+- [L'ordenament jurídic avui](./lordenament-juridic-avui.md) — què en queda.
+- [Els capítols matrimonials](../../historia/antic-regim/els-capitols-matrimonials.md) — una de les proves de Brutails.
+- [L'hereu i el cabaler](../../historia/antic-regim/lhereu-i-el-cabaler.md) — l'altra.
+- [La justícia](./justicia.md) — la branca.

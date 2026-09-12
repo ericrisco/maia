@@ -55,6 +55,19 @@ constitucionals del segle XVIII»** i diu que van ser
 **Un manual de costums com a garantia d'independència.** No perquè ho digués,
 sinó perquè **ser un lloc amb dret propi és ser un lloc**.
 
+## Una segona opinió, i no coincideix
+
+**Aquesta prelació és la de Pujadas, i no és l'única.** El 1904, **J.-A.
+Brutails** —que **seia al Tribunal Superior d'Andorra**— va escriure que el dret
+supletori real d'Andorra **era el català**, i que la preferència andorrana pel
+dret romà era **una creença equivocada amb una funció política**: dir que se
+seguia el dret català hauria estat dir que Andorra era Catalunya.
+
+Les dues coses poden ser certes alhora —Pujadas descriu **el que deien els
+tribunals**, Brutails **el que feien**—, i el corpus no tria. El contrast, amb
+les proves de cada banda, és a
+[el dret supletori](./el-dret-supletori.md).
+
 ## El costum contra la llei
 
 I aquí ve la part que Pujadas deixa oberta:
@@ -127,10 +140,21 @@ res.**
 
 ## Buits registrats
 
-1. **Les Instructes als batlles** — font primària, no consultada.
+1. ~~**Les Instructes als batlles** — font primària, no consultada.~~
+   **LOCALITZADES.** Brutails en data una: **redactada a les Corts de 1740**, amb
+   dues còpies conegudes el 1904 i **el text reproduït a les seves peces
+   justificatives**. Vegeu [els costumaris andorrans](../../historia/manual-digest/els-costumaris-andorrans.md).
+   Queda obert **llegir-ne el text**, que ja és a `docs/raw/llibres/`.
 2. **El Politar Andorrà** (1763) — el corpus el té citat i no llegit.
-3. **Un cas concret** on s'hagi aplicat dret romà o dret català pre-1714 a
-   Andorra. **Això faria la fitxa molt més sòlida.**
+   **Parcialment obert:** Brutails en publica **extractes** i el cita per pàgina
+   (p. 214 per a la Instructa, p. 186, p. 250, p. 275...). **L'accés ja no és el
+   problema.**
+3. ~~**Un cas concret** on s'hagi aplicat dret romà o dret català pre-1714.~~
+   **TANCAT, amb cinc.** Una sentència francesa de **1686**, unes instruccions
+   episcopals de **1845**, una **sentència de batlle de 1868** en català que
+   rebutja la prescripció triennal espanyola per contrària al dret romà, una
+   declaració del **Consell General de 1876** i una memòria dels **rahonadors de
+   1877**. Totes a [el dret supletori](./el-dret-supletori.md).
 4. **Si el costum encara preval** sobre la llei en algun àmbit. **Parcialment
    tancat:** la Constitució hi entra una sola vegada, a l'**article 84**, i el
    posa com a **criteri que les lleis han de tenir en compte** per fixar la
@@ -148,6 +172,7 @@ res.**
 
 ## Related
 
+- [El dret supletori](./el-dret-supletori.md) — la prelació discutida, amb casos datats.
 - [L'ordenament jurídic avui](./lordenament-juridic-avui.md) — què hi ha al lloc d'això, amb la Constitució a la mà.
 - [La justícia abans de la Constitució](./la-justicia-dabans.md) — qui jutjava.
 - [Cronologia legislativa del segle XX](./cronologia-legislativa.md) — què es va escriure.

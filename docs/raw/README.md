@@ -257,7 +257,7 @@ articles i versions de cadascuna, és a
 | --- | --- | --- |
 | `vilar-andorre-1904` | Obra sobre Andorra, **1904** | **URL no registrada.** Cal reconstruir-la |
 | `andre-vilar-andorre` | Variant de la mateixa obra | **URL no registrada** |
-| `brutails-coutume` | **J.-A. Brutails**, sobre el costum andorrà | **URL no registrada** |
+| `brutails-coutume` | **J.-A. Brutails**, *La Coutume d'Andorre*, **París, Ernest Leroux, 1904**. Tractat complet del dret consuetudinari andorrà, amb peces justificatives i extractes del Politar | **Digitalització de Google Books**. Domini públic. **Té fitxa:** [`brutails-coutume-1904`](../fonts/brutails-coutume-1904.md). URL exacta pendent |
 | `la-cuestion-de-andorra-1894` | **Les exposicions del Consell General al bisbe d'Urgell i al Papa**, Barcelona, Tipografia de M. Rovira, **1894** | **Digitalització de Google Books** d'un exemplar de biblioteca (codi 3 2044 103 248 027). Domini públic. **Té fitxa:** [`la-cuestion-de-andorra-1894`](../fonts/la-cuestion-de-andorra-1894.md). URL exacta pendent. **El PDF conté el llibre duplicat** |
 
 **Aquests fitxers venen de sessions anteriors i l'URL exacte no consta.** El
