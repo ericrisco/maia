@@ -79,6 +79,74 @@ corpus s'havien llegit així.
 andorrana de 1933*— i un article a les publicacions de l'IEC, cap dels dos
 consultats.
 
+## Un matís del 1989 que canvia la lectura
+
+**Martina Camiade**, a la 2a Diada
+([font](../../../fonts/camiade-migracions.md)), hi afegeix **tres precisions** que
+el corpus no tenia.
+
+### 1. La data i qui signa
+
+> «**L'any 33 (el 17 de juliol), els delegats permanents decreten** … **la
+> proclamació del sufragi universal masculí.**»
+
+**17 de juliol de 1933**, i **ho decreten els delegats permanents dels
+coprínceps** — no el Consell.
+
+### 2. Qui hi feia pressió
+
+I aquí ve el matís important:
+
+> «sota **la forta pressió dels joves andorrans emigrants**.»
+
+**Emigrants.**
+
+Això reenquadra l'episodi. El corpus tenia el 1933 com **una revolta de joves
+andorrans**; aquesta font diu que **eren joves que havien marxat**.
+
+Encaixa exactament amb el que el mateix volum documenta:
+[cada casa n'expulsava tots els fills menys un](../antic-regim/lhereu-i-el-cabaler.md),
+i els cabalers anaven **a les fires del Pallars i l'Alt Urgell, a la
+transhumància de l'Arieja i a les mines de la Catalunya Nord**
+([les estratègies matrimonials](../antic-regim/les-estrategies-matrimonials.md)).
+
+**Els qui van demanar el vot per a tots els homes eren, en bona part, els qui
+havien hagut de marxar.** Gent que **havia vist com es vivia a fora** i que **a
+casa no comptava**, perquè
+[l'arraigo excloïa els desproveïts de recursos](../../societat/demografia/la-poblacio-al-segle-xix.md).
+
+**No és una revolta de fills de casa bona: és una revolta de cabalers.**
+
+**El corpus marca aquesta lectura com a interpretació pròpia** — Camiade dona el
+fet, no la conclusió.
+
+### 3. Què va canviar en xifres
+
+| Any | Electors |
+| --- | ---: |
+| **1932** | **535** |
+| **1937** | **918** |
+
+**El cens electoral es multiplica per 1,7.** Val la pena comparar-ho amb el
+punt de partida del segle anterior —**520 votants per a 5.800 habitants el
+1866**— per veure que **entre 1866 i 1932 el cens amb prou feines s'havia
+mogut**.
+
+**Seixanta-sis anys d'estancament i després, de cop, gairebé el doble.**
+
+I recordem que això **és només la meitat del país**: les dones no votarien fins
+al **1971** ([el sufragi femení](../../societat/dones/el-sufragi-femeni.md)).
+
+### I el que passa l'any següent
+
+Camiade posa **Boris Skossyreff immediatament després**, com a punt 2 de les
+repercussions de la República Espanyola a Andorra:
+
+> «L'any 34, un aventurer, sota el nom de **Boris I** va proclamar-se rei
+> d'Andorra, **elaborant fins i tot el text d'una constitució**.»
+
+Vegeu [Boris Skossyreff](./boris-skossyreff.md).
+
 ## Related
 
 - [Les vagues de FHASA](./les-vagues-de-fhasa.md) — la meitat obrera.

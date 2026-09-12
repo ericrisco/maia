@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**197** documents · **26** fonts · **0** aptes com a model de llengua · **96** temes amb contingut.
+**200** documents · **27** fonts · **0** aptes com a model de llengua · **96** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -241,6 +241,7 @@
 | [Els capítols matrimonials](temes/historia/antic-regim/els-capitols-matrimonials.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `rodriguez-minana-notaris` |
 | [La quèstia](temes/historia/antic-regim/la-questia.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `vela-ordinacions-segle-xv` |
 | [L'antic règim](temes/historia/antic-regim/lantic-regim.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `iec-vocabulari-andorra` |
+| [Les estratègies matrimonials](temes/historia/antic-regim/les-estrategies-matrimonials.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `camiade-migracions` |
 | [L'hereu i el cabaler](temes/historia/antic-regim/lhereu-i-el-cabaler.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `rodriguez-minana-notaris` |
 
 ## temes/historia/constitucio-1993
@@ -488,6 +489,8 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Demografia](temes/societat/demografia/demografia.md) | `temes/societat/demografia` | compilada | contemporania | no | `viquipedia-ca` |
+| [La població al segle XIX](temes/societat/demografia/la-poblacio-al-segle-xix.md) | `temes/societat/demografia` | compilada | contemporania | no | `camiade-migracions` |
+| [Les onades migratòries](temes/societat/demografia/les-onades-migratories.md) | `temes/societat/demografia` | compilada | contemporania | no | `camiade-migracions` |
 
 ## temes/societat/dones
 
@@ -687,6 +690,7 @@
 | --- | --- | --- | --- |
 | [`anglada-origens-parla-andorrana`](fonts/anglada-origens-parla-andorrana.md) | Manuel Anglada i Ferran · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`bascompte-privilegis`](fonts/bascompte-privilegis.md) | Domènec Bascompte i Grau · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`camiade-migracions`](fonts/camiade-migracions.md) | Martina Camiade · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`canturri-usos-i-costums`](fonts/canturri-usos-i-costums.md) | Pere Canturri i Montanya · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`cerqueda-banca`](fonts/cerqueda-banca.md) | Manel Cerqueda i Donadeu · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`consell-general-web`](fonts/consell-general-web.md) | Consell General del Principat d'Andorra | informació institucional pública | si |
