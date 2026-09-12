@@ -609,6 +609,18 @@ posteriors. És prioritària per a l'estat civil, però encara cal obtenir l'act
 de defunció o la sentència declarativa que originà la menció per saber si el
 dia 25 és data judicial reconstruïda o data efectiva acreditada.
 
+El catàleg del Service historique de la Défense ha aportat una tercera peça
+institucional: el dossier físic de militar mort **`AC 21 P 199748`**, conservat
+a Caen, amb permalient `ark:/735776`. La fitxa dona exactament **09/04/1902** i
+**25/11/1942**, de manera que confirma les dues lectures de l'acta. No s'ha de
+comptar, però, com una font necessàriament independent: el dossier de Caen pot
+haver generat la regularització civil o derivar-ne. El mateix centre explica
+que els seus fons serviren per establir actes de defunció i desaparició,
+reconèixer drets i gestionar exhumacions i restitucions. Per això el dossier
+és ara la via principal per reconstruir l'origen de la menció `1639` i saber
+si hi ha documents sobre el cos recuperat el 1950. S'ha preparat una consulta
+específica, no enviada i sense assumir cap cost.
+
 Les descàrregues directes actuals de les quatre URL de *Le Monde* només
 retornen una pàgina tècnica `Client Challenge`; es conserven per documentar el
 control fallit, però **no són còpies dels articles**. La lectura utilitzada
@@ -677,6 +689,7 @@ prové de la representació web accessible, amb data i URL registrades.
 | `francesc-viadiu-fons/grumbach/lemonde-*.html` | Controls de descàrrega fallits: quatre pàgines tècniques `Client Challenge` idèntiques, no el text dels articles. |
 | `francesc-viadiu-fons/grumbach/consulta-arxius-ariege-esborrany.md` | Petició detallada de localització i reproducció del procés de Foix i diligències relacionades; preparada però no enviada. |
 | `francesc-viadiu-fons/grumbach/paris-etat-civil/*` | API del visor, foli complet, retalls verificats de l'acta 1137 i la menció marginal, OCR de context, hashes i transcripció diplomàtica de treball. |
+| `francesc-viadiu-fons/grumbach/shd-21p/*` | Instrument oficial, fitxa ARK `735776`, cerca per cota, nota crítica i consulta no enviada del dossier de Caen `AC 21 P 199748`. |
 | `internet-archive-isbn-search.json` | Cerca pels ISBN català i francès: zero resultats. |
 | `openlibrary-isbn-search.json` | Registre bibliogràfic sense ebook ni text complet. |
 
@@ -785,6 +798,10 @@ Els SHA-256 de tots els fitxers es van calcular el 12/09/2026. Destaquen:
 32. Identificar documentalment `Morchon`, Pierre Dreyfus-Schmidt, Roger
     Lauzemberg, Mme Courdil i la muntanyenca andorrana; separar el que cadascun
     declarà del que els resums periodístics hi afegiren.
+33. Demanar al SHD Caen accés o reproducció de `AC 21 P 199748`, cercant-hi la
+    regularització de l'estat civil, petició familiar, eventual decisió `Mort
+    pour la France` i diligències d'identificació o restitució; no enviar la
+    consulta ni crear cap comanda sense autorització expressa.
 
 ## Drets
 
