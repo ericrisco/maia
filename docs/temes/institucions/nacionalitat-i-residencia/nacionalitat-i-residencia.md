@@ -88,3 +88,4 @@ legal vigent, consultat al Portal Jurídic del Principat.
 - [Qui parla què](../../llengua/politica-linguistica/qui-parla-que.md) — la població real.
 - [La llei de la llengua](../../llengua/politica-linguistica/la-llei-de-la-llengua.md) — l'altra exigència.
 - [El Consell General](../consell-general/el-consell-general.md) — qui vota les lleis qualificades.
+- [La política de nacionalitat](./la-politica-de-nacionalitat.md) — l'argument dels microestats, i els prestanoms.

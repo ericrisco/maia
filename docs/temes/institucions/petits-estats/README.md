@@ -26,3 +26,6 @@ estats d'Europa*, va donar al corpus el marc que li faltava.
   d'Estadística d'Andorra va presentar en aquella mateixa Diada.
 - **L'acord d'associació amb la UE** vist des de la condició de microestat —
   vegeu [relacions exteriors](../relacions-exteriors/lacord-dassociacio-amb-la-ue.md).
+
+- [La política de nacionalitat](../nacionalitat-i-residencia/la-politica-de-nacionalitat.md) — el microestat com a política migratòria.
+- [El reconeixement internacional](../relacions-exteriors/el-reconeixement-internacional.md)

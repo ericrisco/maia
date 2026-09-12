@@ -178,3 +178,4 @@ nacionals** en l'altra.
 - [Immigració](../../societat/immigracio/immigracio.md)
 - [La sèrie històrica](../../llengua/politica-linguistica/la-serie-historica.md)
 - [Vida cívica](../../societat/vida-civica/vida-civica.md) — qui vota.
+- [La política de nacionalitat](./la-politica-de-nacionalitat.md) — per què el país restringeix, segons l'antropologia comparada.

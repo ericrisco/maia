@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**238** documents · **53** fonts · **0** aptes com a model de llengua · **98** temes amb contingut.
+**239** documents · **54** fonts · **0** aptes com a model de llengua · **98** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -386,6 +386,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Els andorrans de primera generació](temes/institucions/nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md) | `temes/institucions/nacionalitat-i-residencia` | compilada | contemporania | no | `societat-andorrana-ciencies` |
+| [La política de nacionalitat](temes/institucions/nacionalitat-i-residencia/la-politica-de-nacionalitat.md) | `temes/institucions/nacionalitat-i-residencia` | compilada | contemporania | no | `pampalona-particularitats-microestats` |
 | [Nacionalitat i residència](temes/institucions/nacionalitat-i-residencia/nacionalitat-i-residencia.md) | `temes/institucions/nacionalitat-i-residencia` | compilada | contemporania | no | `consell-general-web` |
 
 ## temes/institucions/patrimoni-institucional
@@ -774,6 +775,7 @@
 | [`molla-catala-andorra`](fonts/molla-catala-andorra.md) | Guillem Molla · Universitat de Girona · revista IANUA | publicació acadèmica en accés obert | pendent |
 | [`oranias-formacio-administracio`](fonts/oranias-formacio-administracio.md) | Imma Oranias i Estudis · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pallares-medicina-andorra`](fonts/pallares-medicina-andorra.md) | Manuel Pallarès i Darsa · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`pampalona-particularitats-microestats`](fonts/pampalona-particularitats-microestats.md) | Judith Pampalona i Tarrés · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`premsa-andorrana`](fonts/premsa-andorrana.md) | Diari d'Andorra · Altaveu · Bondia · El Periòdic d'Andorra · La Ciutat | contingut periodístic amb drets reservats | False |
 | [`pujadas-dret-andorra`](fonts/pujadas-dret-andorra.md) | Manel Pujadas i Domingo · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pujol-fet-religios`](fonts/pujol-fet-religios.md) | Mn. Joan Pujol i Balcells · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
