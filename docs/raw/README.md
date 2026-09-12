@@ -323,10 +323,27 @@ encara que falti l'URL de descàrrega.
 **Ja tenen fitxa de font:** els diaris de sessions del Congrés, a
 [`diario-sesiones-corts-1895`](../fonts/diario-sesiones-corts-1895.md).
 
-**Dos fitxers `.txt` són buits** —`senado-1895-06-29` i
+~~**Dos fitxers `.txt` són buits** —`senado-1895-06-29` i
 `correspondencia-1895-06-27`—: els PDF no tenen capa de text i **necessiten
-OCR**. El del Senat és, precisament, **on hauria de constar el desenllaç** de la
-qüestió duanera.
+OCR**.~~ **TANCAT el 2026-09-13.** Tots dos s'han **passat per OCR** i
+substituït:
+
+```bash
+ocrmypdf --force-ocr -l spa --sidecar fitxer.txt fitxer.pdf /dev/null
+```
+
+| Fitxer | Abans | Després |
+| --- | ---: | ---: |
+| `senado-1895-06-29.txt` | **0 paraules** (273 salts de pàgina) | **11.726 paraules** |
+| `correspondencia-1895-06-27.txt` | **0 paraules** | **19.255 paraules** |
+
+**I el del Senat contenia el desenllaç**, com se sospitava: vegeu
+[el desenllaç de la qüestió duanera](../temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md).
+
+**Avís sobre aquest OCR:** és **OCR de premsa del 1895 i té errors sistemàtics**
+(`e`→`o`, `i`→`l`, `c`→`o`, xifres ballades: el capçal diu «SÁBADO 99 DE JUNIO»
+per **29**). **Serveix per localitzar i per entendre; cada citació literal s'ha
+de comprovar contra el PDF.**
 
 **Avís de lectura:** aquests diaris van **a dues columnes**, i el text pla que en
 surt les barreja línia a línia. Llegits seguits **fabriquen frases que ningú no

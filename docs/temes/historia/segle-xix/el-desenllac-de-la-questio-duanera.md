@@ -56,8 +56,9 @@ havia al país**.
 | **18 d'octubre de 1894** | El Consell General eleva [les seves exposicions al bisbe i al Papa](./la-questio-dandorra.md) |
 | **27 de març de 1895** | Carvajal i sis diputats més signen l'addició |
 | **17 de juny de 1895** | **El Congrés dels Diputats l'aprova** |
-| **26 de juny de 1895** | Es reuneix **la comissió mixta** del Senat i el Congrés |
+| **26 de juny de 1895** | Es reuneix **la comissió de pressupostos del Senat** —**no** la mixta— i **el bisbe d'Urgell hi declara el primer**, contra l'article 56 |
 | **27 de juny de 1895** | La premsa espanyola en publica el que hi va passar |
+| **29 de juny de 1895** | **Es constitueix la comissió mixta**, i **el Senat aprova el seu dictamen sense cap torn en contra** |
 | **30 de juny de 1895** | Carvajal denuncia l'afer des de la tribuna |
 | | **L'article 56 és rebutjat per la comissió i pel Senat** |
 
@@ -94,6 +95,105 @@ que Andorra exportava **450 mules i matxos** l'any cap a Espanya, «una
 especialitat andorrana» —vegeu [la transhumància](../../economia/ramaderia-i-agricultura/la-transhumancia.md)—.
 El bisbe deia que no n'hi havia ni 45. **Les dues xifres no poden ser certes
 alhora, i el corpus no té com decidir-ho.** Buit registrat.
+
+## Ara, des de la font primària
+
+**Els dos `.txt` d'aquests diaris eren buits al corpus** —el PDF no tenia capa de
+text— i el corpus ho tenia registrat com a buit. **S'han passat per OCR**, i el
+que hi surt **precisa i corregeix el que el corpus tenia per Vilar**
+([raw/README](../../../raw/README.md)).
+
+### 1. L'original espanyol de la frase del bisbe
+
+El corpus la tenia **en francès, traduïda per Vilar**. Ara la té **tal com la va
+publicar *La Correspondencia de España* del 27 de juny de 1895**:
+
+> «**El primer informante ha sido el señor obispo de Urgel contra el art. 56**, ó
+> sea **contra la exención de derechos de aduanas á los ganados procedentes de
+> Andorra, hasta el límite que se marca en la ley**, por entender el prelado que
+> **hay peligro de que se verifique mucho contrabando, introduciendo ganado
+> francés como procedente de Andorra**.»
+>
+> *(Transcrit de l'OCR i netejat dels errors evidents de reconeixement. El PDF
+> original és a `raw/hemeroteca/correspondencia-1895-06-27.pdf`.)*
+
+**Coincideix amb la traducció de Vilar**, i això és una cosa que calia comprovar:
+**la font de segona mà en què el corpus es basava era fidel.**
+
+### 2. On va passar, i amb qui compartia sala
+
+**Aquesta és la part nova, i canvia l'escena.**
+
+> «A las **diez de la mañana** se constituyó **en sesión permanente la comisión de
+> presupuestos de la alta Cámara**, con objeto de oír á los senadores que
+> quisieran hacer observaciones **al proyecto de articulado remitido por el
+> Congreso**. La información ha sido muy extensa, pues solamente se ha
+> interrumpido á la una de la tarde **el tiempo necesario para que los vocales de
+> la comisión almorzasen sin salir del Senado**.»
+
+I després del bisbe hi van parlar, en aquest ordre:
+
+| Qui | Contra què |
+| --- | --- |
+| **El bisbe d'Urgell** | **l'article 56** — la franquícia del bestiar andorrà |
+| Representants de **fàbriques de llauna i de caixes de fusta** | l'article 53 — el recàrrec sobre els petrolis |
+| **Castañer** i **Mirasol**, senador per Almeria | l'article 58 — els alcohols que no són de vi |
+| El **marquès d'Arlanza** | les dietes dels consellers d'Estat |
+| **Álvarez**, **Rivera** i el **duc de la Roca** | l'impost sobre els carruatges de luxe |
+| **Luque** | els carbons estrangers per al gas |
+
+A **dos quarts i mig de cinc de la tarda** la comissió va cridar **el ministre
+d'Hisenda**.
+
+**La franquícia del bestiar d'Andorra va morir la mateixa matinada i a la mateixa
+sala que una disputa aranzelària sobre la llauna i una altra sobre l'alcohol de
+melasses.** Per al Consell General era una qüestió de sobirania; per a la
+comissió de pressupostos del Senat espanyol **era el primer punt d'una llista de
+greuges sectorials**.
+
+### 3. Una precisió de data que el corpus tenia mal posada
+
+La taula de dalt d'aquesta fitxa deia que el **26 de juny** es reunia **«la
+comissió mixta del Senat i el Congrés»**. **La font primària diu una altra cosa:**
+el 26 de juny qui es reuneix és **la comissió de pressupostos del Senat**, per
+escoltar observacions **a l'articulat que li havia enviat el Congrés**.
+
+**La comissió mixta es constitueix el 29 de juny**, i consta al *Diario de las
+Sesiones* d'aquell dia: «**Comunicación del Congreso participando haber designado
+los Sres. Diputados que han de formar parte de la Comisión mixta sobre el
+articulado de la ley de presupuestos. —Constitución de la misma.**»
+
+**Són dos òrgans diferents i dues dates diferents.** El corpus ho corregeix.
+
+### 4. El Senat no va debatre l'article 56. No va debatre res.
+
+**Aquesta és la troballa.** El corpus deia, per Vilar, que l'article 56 «**fut
+repoussé par la commission et par le Sénat**». **El diari de sessions del 29 de
+juny mostra què vol dir «pel Senat»: res.**
+
+El president del Senat ho va posar sobre la taula amb totes les lletres:
+
+> «La Mesa desea saber **si alguno de los Sres. Senadores tiene el propósito de
+> discutir el dictamen que acaba de leerse**, porque **con sólo un Sr. Senador que
+> lo tuviera ó que desease examinar detenidamente el dictamen y estudiarlo**,
+> siendo **tan sagrado y respetable ese derecho**, sería bastante para que no se
+> hiciera á la Cámara una propuesta que en otro caso habría de hacerse.»
+
+I el resultat:
+
+> «**No habiendo ningún Sr. Senador que pida la palabra en contra**, ¿se admite
+> este dictamen?» — «**El acuerdo fué afirmativo.**»
+
+**Es va declarar la urgència, es va admetre i es va votar definitivament, tot
+seguit, sense un sol torn en contra.**
+
+**Per tant:** l'article 56 **el va suprimir la comissió**, després que el bisbe
+d'Urgell hi declarés en contra en primer lloc. **El Senat no el va rebutjar: el
+va ratificar sense mirar-s'ho.** Cap senador va voler exercir un dret que el seu
+president acabava de qualificar de sagrat.
+
+**El que va decidir la qüestió duanera d'Andorra no va ser una votació: va ser
+una compareixença.**
 
 ## I dos mesos abans, la carta
 
@@ -195,9 +295,16 @@ transfronterera. Vegeu
 
 1. **El text sencer de la carta pastoral del 21 d'agost de 1894.** El corpus en té
    **una frase, traduïda al francès, citada per un tercer**.
-2. **Les actes de la comissió mixta del 26 de juny de 1895.**
-3. **Els originals dels dos diaris del 27 de juny de 1895.** El corpus té els PDF
-   i **el `.txt` de *La Correspondencia* és buit**: necessita OCR.
+2. ~~**Les actes de la comissió mixta del 26 de juny de 1895.**~~ **REFORMULAT:**
+   el 26 de juny no era la comissió mixta sinó **la comissió de pressupostos del
+   Senat**. El que falta són **les seves actes**, i **el dictamen** que en va
+   sortir (l'«Apéndice» del *Diario* del 29 de juny, que el corpus no té).
+3. ~~**Els originals dels dos diaris del 27 de juny de 1895.**~~ **TANCAT a
+   mitges.** *La Correspondencia de España* **ja té text**, per OCR, i la frase
+   del bisbe hi és. **Queda obert *El Heraldo de Madrid***, que el corpus només
+   té per la traducció de Vilar.
+3b. **La verificació caràcter a caràcter** de les citacions d'OCR contra el PDF.
+   L'OCR de premsa del 1895 té errors sistemàtics.
 4. **Quantes mules hi havia realment a Andorra el 1895.** L'inventari de Carvajal
    en diu 450 exportades l'any; el bisbe, que no n'hi havia ni 45.
 5. **Quan es va restablir la franquícia**, si és que es va restablir. El 1904
