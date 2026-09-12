@@ -1,0 +1,349 @@
+---
+type: article
+title: Andorra als Jocs Olímpics
+description: "Vint-i-set participacions des del 1976, cap medalla, i una delegació d'hivern més gran que la d'estiu. El país que no ha pujat mai a un podi olímpic."
+tema: temes/esports/competicio
+veu: compilada
+epoca: contemporania
+apte_llengua: false
+font: wikipedia-esport-andorra
+timestamp: 2026-09-13T23:00:00Z
+tags: [esports, competicio, jocs-olimpics, neu, identitat, xifres, font-secundaria]
+---
+
+# Andorra als Jocs Olímpics
+
+> **Avís de font.** Aquesta fitxa es basa en la **Viquipèdia en anglès**
+> ([font](../../../fonts/wikipedia-esport-andorra.md)), que el corpus tracta com
+> a **font secundària i provisional**. **Cada xifra s'ha de substituir per la del
+> Comitè Olímpic Andorrà.** S'escriu igualment perquè **el corpus no tenia cap
+> dada d'esport andorrà** i sense l'estructura no es pot demanar la font bona.
+
+## El resum
+
+| | |
+| --- | --- |
+| **Primera participació** | **1976** — **estiu (Montreal) i hivern (Innsbruck) el mateix any** |
+| **Absències** | **Cap.** Hi és a **totes** les edicions des del 1976 |
+| **Medalles** | **Cap.** **Ni d'estiu ni d'hivern** |
+| **Comitè Olímpic Andorrà** | **Creat el 1976** |
+
+**Cinquanta anys de participació ininterrompuda i cap medalla.**
+
+**I la data del 1976 importa més del que sembla:** Andorra entra al moviment
+olímpic **disset anys abans de tenir Constitució** i **abans de ser reconeguda
+com a estat per l'ONU**
+([el reconeixement internacional](../../institucions/relacions-exteriors/el-reconeixement-internacional.md)).
+**El corpus ja havia trobat el mateix patró amb els Jocs dels Petits Estats del
+1991**: **l'esport reconeix Andorra com a país abans que el dret.**
+
+**El 1976 és també l'any de la primera consulta al poble andorrà sobre la reforma
+de les institucions**
+([la cronologia](../../historia/moments-historics/la-cronologia-dandorra.md)).
+**El país es va presentar al món i es va preguntar a si mateix el mateix any.**
+
+## Els Jocs d'estiu
+
+| Any | Seu | Esportistes |
+| --- | --- | --- |
+| **1976** | Montreal | **3** |
+| **1980** | Moscou | **2** |
+| **1984** | Los Angeles | **2** |
+| **1988** | Seül | **3** |
+| **1992** | **Barcelona** | **8** |
+| **1996** | Atlanta | **8** |
+| **2000** | Sydney | **5** |
+| **2004** | Atenes | **6** |
+| **2008** | Pequín | **5** |
+| **2012** | Londres | **6** |
+| **2016** | Rio de Janeiro | **5** |
+| **2020** | Tòquio | **2** |
+| **2024** | París | **2** |
+
+**Esports:** **ciclisme, natació, atletisme, tir, judo** i **piragüisme**.
+
+**El pic és Barcelona 1992 i Atlanta 1996, amb vuit.** Que la delegació més gran
+de la història sigui **la dels Jocs de Barcelona** no sorprèn —hi havia places
+de proximitat i el país hi era a tocar— però **el corpus assenyala que el 1992
+és també l'any anterior a la Constitució**, i que **el 1992 Andorra va organitzar
+els Jocs dels Petits Estats l'any abans**.
+
+**I la corba baixa:** de vuit el 1996 a **dos el 2020 i el 2024**. **Menys
+esportistes olímpics d'estiu ara que fa trenta anys**, amb tres vegades més
+població. **El corpus no en sap el motiu i el registra com a buit.**
+
+## Els Jocs d'hivern
+
+| Any | Seu | Esportistes | Esports |
+| --- | --- | --- | --- |
+| **1976** | Innsbruck | **5** | Esquí alpí |
+| **1980** | Lake Placid | **3** | Esquí alpí |
+| **1984** | Sarajevo | **2** | Esquí alpí |
+| **1988** | Calgary | **4** | Esquí alpí |
+| **1992** | Albertville | **5** | Esquí alpí |
+| **1994** | Lillehammer | **6** | Esquí alpí |
+| **1998** | Nagano | **3** | Esquí alpí |
+| **2002** | Salt Lake City | **3** | Esquí alpí |
+| **2006** | Torí | **3** | Esquí alpí |
+| **2010** | Vancouver | **6** | **Surf de neu**, esquí alpí |
+| **2014** | Sotxi | **6** | Esquí alpí |
+| **2018** | PyeongChang | **5** | **Esquí de fons**, esquí alpí |
+| **2022** | Pequín | **5** | Surf de neu, esquí alpí |
+| **2026** | Milano Cortina | **7** | Esquí alpí, esquí de fons |
+
+**Trenta-quatre anys d'esquí alpí i res més.** El **surf de neu** no apareix fins
+al **2010** i **l'esquí de fons fins al 2018**.
+
+**La delegació d'hivern és igual o més gran que la d'estiu**, cosa excepcional:
+**la majoria de països del món fan el contrari**.
+
+**I la de Milano Cortina 2026, amb set, és la més nombrosa de la història
+d'hivern.**
+
+## La lectura
+
+**Andorra és, olímpicament, un país d'hivern que competeix a l'estiu per
+obligació.**
+
+El corpus ho tenia documentat per altres vies —**l'esquí és assignatura escolar
+obligatòria** ([l'esquí escolar](../../societat/educacio/lesqui-escolar.md)),
+**hi ha una escola d'estat que titula els monitors**
+([l'Efpem](../formacio-esportiva/lefpem.md)), **i el turisme de neu és la base
+econòmica**— i **la taula olímpica ho confirma amb xifres**.
+
+**Però:** als **Jocs dels Petits Estats**, que són **d'estiu**, Andorra
+**competeix en tot menys en allò que sap fer**
+([els Jocs dels Petits Estats](./els-jocs-dels-petits-estats.md)). **I és allà on
+guanya.**
+
+> **Al lloc on hi ha medalles, Andorra no hi pot portar l'esquí. Al lloc on porta
+> l'esquí, no n'hi ha hagut mai cap.**
+
+## Els millors resultats olímpics andorrans
+
+**Andorra no ha guanyat cap medalla. Però ha estat quatre vegades a un pas del
+diploma, i dues d'elles en esports que ningú no esperaria.**
+
+| Posició | Qui | Prova | Jocs |
+| --- | --- | --- | --- |
+| **6è** | **[Mònica Dòria](../../persones/monica-doria.md)** | **Piragüisme, C1** | **París 2024** |
+| **9è** | **Emili Pérez** | **Ciclisme en ruta** | **Seül 1988** |
+| **9è** | **Joan Montane** | **Boxa, semipesant** | **Montreal 1976** |
+| **9è** | **Daniel García** | **Judo, −66 kg** | **Londres 2012** |
+| **9è** | **[Joan Verdú](../../persones/joan-verdu.md)** | **Esquí alpí, eslàlom gegant** | **Pequín 2022** |
+| **10è** | **Joan Verdú** | Esquí alpí, eslàlom gegant | **Milano Cortina 2026** |
+
+**El de Seül 1988 és el que més impressiona.** **Emili Pérez va acabar novè la
+cursa en ruta amb el mateix temps que el guanyador**, Olaf Ludwig: **va entrar
+dins del grup de cap**, per davant de corredors de Bèlgica, Noruega, Itàlia i
+Txecoslovàquia.
+
+**I el primer va ser en boxa.** A **Montreal 1976**, als **primers Jocs de la
+història d'Andorra**, **Joan Montane** va passar de ronda **per incompareixença
+del rival**, va perdre amb **l'alemany oriental Ottomar Sachse** i **va quedar
+novè**.
+
+> **El primer bon resultat olímpic d'Andorra va ser en un esport que el país no
+> ha tornat a presentar mai.**
+
+## Els dotze esports
+
+Segons **Olympedia**, Andorra ha competit en Jocs Olímpics en:
+
+**esquí alpí · atletisme · biatló · boxa · piragüisme en eslàlom · esquí de fons ·
+ciclisme en ruta · judo · vela · tir · surf de neu · natació**
+
+**Tres d'aquests dotze sorprenen en un país de muntanya sense mar:**
+
+- **Vela.** **David** i **Oscar Ramón** en **470** a **Barcelona 1992** i
+  **Atlanta 1996**, i **Fiona Morrison** en **Mistral** el 1996. **Un país
+  sense mar ha tingut tres olímpics de vela.**
+- **Boxa.** **Joan Montane**, **1976**, **i mai més**.
+- **Biatló.** **Olympedia el llista i el corpus no ha trobat cap biatleta
+  andorrà** a cap edició. **Desacord registrat i no resolt.**
+
+**Als Jocs Olímpics de la Joventut**, Olympedia hi afegeix: **bàsquet 3x3,
+piragüisme en esprint, esquí acrobàtic** i **esquí de muntanya**.
+
+## Les delegacions, Jocs per Jocs
+
+**Els noms que aquesta recerca ha pogut recollir.** Les llistes d'estiu són
+completes; **les d'hivern, no**.
+
+### Estiu
+
+| Jocs | Qui | Esport i resultat |
+| --- | --- | --- |
+| **Montreal 1976** | **Joan Montane** | **Boxa**, semipesant — **9è** |
+| | **Joan Tomàs Roca** | Tir, fossa — 33è (162 punts) |
+| | **Esteve Dolsa** | Tir, fossa — 35è (159). **Abanderat** |
+| **Moscou 1980** | **Francesc Gaset Fris** | Tir, fossa — 24è (184) |
+| | **Joan Tomàs Roca** | Tir, fossa — 26è (181) |
+| **Los Angeles 1984** | **Joan Tomàs Roca** | Tir, fossa — 26è (180). **Abanderat** |
+| | **Francesc Gaset Fris** | Tir, fossa — 28è (179) |
+| **Seül 1988** | **Emili Pérez** | **Ciclisme en ruta — 9è** |
+| | **Xavier Pérez** | Ciclisme en ruta — 59è |
+| | **Josep Graells** | Atletisme, 800 m i 1.500 m. **Abanderat** |
+| **Barcelona 1992** | **Margarida Moreno** | Atletisme, salt d'alçada — 41a (1,70 m). **Abanderada** |
+| | **Xavier Pérez** | Ciclisme en ruta — 31è |
+| | **Emili Pérez** | Ciclisme en ruta — 82è |
+| | **Juan González** | Ciclisme en ruta — no acaba |
+| | **Antoni Molne** | Judo, superlleuger — 23è |
+| | **David Ramón** i **Oscar Ramón** | **Vela**, 470 — 27ns |
+| | **Joan Besoli** | Tir, fossa — 29è |
+| **Atlanta 1996** | **Antoni Bernadó** | Atletisme, marató — 87è (2:31:28) |
+| | **Antoni Molne** | Judo, −65 kg |
+| | **Fiona Morrison** | **Vela**, Mistral — 24a |
+| | **David Ramón** i **Oscar Ramón** | **Vela**, 470 — 27ns |
+| | **Gerard Barcia** | Tir, fossa — 37è |
+| | **Aitor Osorio** | Natació, 200 papallona. **Abanderat** |
+| | **Meritxell Sabaté** | Natació, 200 estils |
+| **Sydney 2000** | **Antoni Bernadó** | Marató — 49è (2:23:03). **Abanderat** |
+| | **Silvia Felipo** | Atletisme, 1.500 m |
+| | **Joan Tomàs** | Tir, fossa — 39è |
+| | **Santiago Deu** | Natació, 200 lliures |
+| | **Meritxell Sabaté** | Natació, 200 estils |
+| **Atenes 2004** | **Antoni Bernadó** | Marató — 57è (2:23:55) |
+| | **Silvia Felipo** | Atletisme, 1.500 m |
+| | **Toni Besolí** | Judo, −90 kg |
+| | **Francesc Repiso Romero** | Tir, fossa — 35è |
+| | **Hocine Haciane** | Natació, 200 estils. **Abanderat** |
+| | **Carolina Cerqueda** | Natació, 100 lliures |
+| **Pequín 2008** | **Antoni Bernadó** | Marató — 58è (2:26:29) |
+| | **Montserrat Pujol** | Atletisme, 100 m |
+| | **Montserrat García Riberaygua** | **Piragüisme**, K-1 eslàlom. **Abanderada** |
+| | **Daniel García** | Judo, −66 kg |
+| | **Hocine Haciane** | Natació, 400 estils |
+| **Londres 2012** | **Antoni Bernadó** | Marató — 74è (2:28:34) |
+| | **Cristina Llovera** | Atletisme, 100 m — **15 anys, la més jove** |
+| | **Daniel García** | **Judo, −66 kg — 9è** |
+| | **Joan Tomàs Roca** | Tir, fossa. **Abanderat, als 61 anys** |
+| | **Hocine Haciane** | Natació, 200 papallona |
+| | **Mónica Ramírez** | Natació, 100 esquena |
+| **Rio 2016** | **Pol Moya** | Atletisme, 800 m |
+| | **Laura Sallés** | Judo, −63 kg. **Abanderada** |
+| | **Esther Barrugués** | Tir, carrabina 10 m |
+| | **Pol Arias** | Natació, 400 lliures |
+| | **Mónica Ramírez** | Natació, 100 lliures |
+| **Tòquio 2020** | **Pol Moya** | Atletisme, 800 m. **Abanderat** |
+| | **[Mònica Dòria](../../persones/monica-doria.md)** | Piragüisme, C-1 (11a) i K-1 (16a). **Abanderada** |
+| **París 2024** | **[Nahuel Carabaña](../../persones/nahuel-carabana.md)** | Atletisme, 3.000 obstacles. **Abanderat** |
+| | **[Mònica Dòria](../../persones/monica-doria.md)** | **Piragüisme, C-1 — 6a**; K-1; caiac cross 15a. **Abanderada** |
+
+### Hivern, el que se'n sap
+
+| Jocs | Qui |
+| --- | --- |
+| **Innsbruck 1976** | **Xavier Areny**, **Carlos Font**, **Antoine Crespo**, **Esteve Tomas**, **Antoni Naudi** — tots **esquí alpí** |
+| **Calgary 1988** | **Claudina Rossell** |
+| **Vancouver 2010** | **Mireia Gutiérrez** (28a descens), **Sofie Juarez**, **Kevin Esteve Rigail**, **Roger Vidosa** (alpí) · **Francesc Soulié** (**fons**) · **Lluís Marin Tarroch** (**surf de neu**, 34è). **Abanderats: Marin i Gutiérrez** |
+| **PyeongChang 2018** | **[Irineu Esteve Altimiras](../../persones/irineu-esteve-altimiras.md)** (fons, 27è). **Abanderat** |
+| **Pequín 2022** | **[Joan Verdú](../../persones/joan-verdu.md)** (**9è gegant**) · **Irineu Esteve Altimiras** (20è skiathlon) · **Maeva Estévez** (surf de neu) |
+| **Milano Cortina 2026** | **Joan Verdú** (**10è gegant**) · **Xavier Cornella** (21è eslàlom) · **Jordina Caminal Santure** (24a descens) · **Carla Mijares Ruf** · **Cande Moreno** · **Gina del Rio** (fons, 35a en 10 km lliures) · **Irineu Esteve Altimiras**. **Abanderats: Verdú, Moreno i Esteve** |
+
+**Una correcció que el corpus fa a la seva pròpia taula de dalt:** la taula
+resum diu que **l'esquí de fons entra el 2018**. **No és cert: Francesc Soulié
+ja hi era a Vancouver 2010**, en tres proves. **La columna d'esports de la taula
+resum és incompleta i queda marcada com a tal.**
+
+## Els noms que hi apareixen
+
+| Esport | Qui | Quan |
+| --- | --- | --- |
+| **Esquí alpí** | **Carlos Font** | 1980 |
+| **Esquí alpí** | **Claudina Rossell** | 1988 |
+| **Esquí alpí** | **Mireia Gutiérrez** | 2014 |
+| **Esquí alpí** | **[Joan Verdú](../../persones/joan-verdu.md)** | 2014, 2018, 2022, 2026 |
+| **Esquí alpí** | **Cande Moreno** | 2026 |
+| **Surf de neu** | **Lluís Marín** | 2010 |
+| **Surf de neu** | **Maeva Estévez** | 2022 |
+| **Esquí de fons** | **[Irineu Esteve Altimiras](../../persones/irineu-esteve-altimiras.md)** | 2018, 2026 |
+| **Piragüisme** | **[Mònica Dòria](../../persones/monica-doria.md)** | 2020, 2024 |
+| **Atletisme** | **[Nahuel Carabaña](../../persones/nahuel-carabana.md)** | 2024 |
+
+### Dues carreres que valen per si soles
+
+**Joan Tomàs Roca** competeix en **tir** a **Montreal 1976**, **Moscou 1980**,
+**Los Angeles 1984** i **Sydney 2000**, i **porta la bandera a Londres 2012 als
+61 anys**. **Trenta-sis anys entre la primera cita olímpica i l'última
+cerimònia.**
+
+**Antoni Bernadó** corre la **marató** a **Atlanta 1996**, **Sydney 2000**,
+**Atenes 2004** i **Londres 2012** — **quatre Jocs** i **la seva millor marca
+olímpica als Jocs de Sydney**, amb **2:23:03**.
+
+**En un país petit, la carrera esportiva no dura un cicle olímpic: en dura
+quatre.**
+
+### La primera dona
+
+**Margarida Moreno**, saltadora d'alçada, **Barcelona 1992**: **la primera dona
+andorrana als Jocs Olímpics**, i **va ser abanderada**.
+
+**El 1992.** Andorra havia estat als Jocs **des del 1976** — **quatre edicions
+d'estiu, només amb homes**. I fa aquest debut **dinou anys després que les dones
+andorranes poguessin ser elegides per a un càrrec públic**
+([el sufragi femení](../../societat/dones/el-sufragi-femeni.md)) i **set anys
+després de la primera consellera general electa**.
+
+**El corpus el registra al costat de les altres «primeres»** i assenyala que
+**aquí la dona no va arribar tard i discretament: va arribar portant la
+bandera.**
+
+### Els abanderats recents
+
+| Jocs | Abanderat |
+| --- | --- |
+| **Tòquio 2020** | **Mònica Dòria** |
+| **París 2024** | **Mònica Dòria** i **Nahuel Carabaña** |
+| **Milano Cortina 2026** | **Joan Verdú** i **Irineu Esteve Altimiras** |
+
+**Les dues darreres cerimònies d'estiu les ha obertes la mateixa piragüista.**
+
+## El millor resultat olímpic andorrà
+
+**Fins on aquesta font arriba:**
+
+| Posició | Qui | On |
+| --- | --- | --- |
+| **6è** | **Mònica Dòria**, **C1** | **París 2024** |
+| **9è** | **Joan Verdú**, **eslàlom gegant** | **Pequín 2022** |
+| **20è** | **Irineu Esteve Altimiras**, **30 km skiathlon** | **Pequín 2022** |
+
+**Un sisè lloc és el més a prop que Andorra ha estat mai d'una medalla
+olímpica.** I **no és a la neu: és en aigües braves**.
+
+## Buits registrats
+
+1. **Els resultats complets, edició per edició i esportista per esportista.**
+   Aquesta fitxa en té **el recompte, no els resultats**. **Prioritari.**
+2. **La font primària**: **el Comitè Olímpic Andorrà**. **Qui el va fundar, quan
+   exactament el 1976, i qui l'ha presidit.** El corpus només té un nom:
+   **Jaume Martí**, president el 2015.
+3. **Per què la delegació d'estiu ha caigut** de vuit a dos.
+4. **Els abanderats anteriors al 2020.**
+5. ~~**Els esportistes d'estiu**~~ — **tancat**: la taula de delegacions d'estiu
+   és completa. **Segueix obert el resultat detallat de cadascun.**
+6. **Les delegacions d'hivern de 1980 a 2006**, que aquesta fitxa no té.
+7. **Andorra als Jocs Paralímpics.** **El corpus no en sap res.**
+8. **El biatló**: Olympedia el llista i no se'n troba cap biatleta. **Desacord
+   obert.**
+9. **Els Jocs Mediterranis**: hi va Andorra. Ho revela de retruc la fitxa
+   d'[Èric Risco](../../persones/eric-risco.md), **i el corpus no en sap res
+   més**.
+10. **Els Jocs Europeus** i **els Jocs Olímpics de la Joventut**, on Andorra ha
+    competit en **bàsquet 3x3**, **esquí de muntanya** i **esquí acrobàtic** —
+    **tres esports que no han arribat mai als Jocs absoluts**.
+11. **Les biografies**: de tots els noms d'aquesta fitxa, **el corpus només en
+    té cinc de fitxats**.
+
+## Related
+
+- [Els Jocs dels Petits Estats d'Europa](./els-jocs-dels-petits-estats.md) — on sí que hi ha podi.
+- [Esports](../README.md)
+- [L'esquí escolar](../../societat/educacio/lesqui-escolar.md)
+- [L'Efpem](../formacio-esportiva/lefpem.md)
+- [Turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md)
+- [L'aigua i la neu](../../territori/clima-i-muntanya/laigua-i-la-neu.md)
+- [El reconeixement internacional](../../institucions/relacions-exteriors/el-reconeixement-internacional.md)
+- [Persones](../../persones/README.md)

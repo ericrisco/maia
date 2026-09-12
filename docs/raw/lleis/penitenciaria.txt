@@ -302,7 +302,8 @@ Les infraccions disciplinàries comeses pels interns poden ser molt greus, greus
 
 **Article 50. Infraccions molt greus**
 
-$1e
+Són faltes molt greus:
+a) Les agressions, amenaces o coaccions a les autoritats, als agents de l’autoritat, als membres del personal, als visitants o als interns.b) Calumniar, injuriar, insultar i faltar greument al respecte a les autoritats, els agents de l’autoritat, els membres del personal i els visitants.c) La desobediència de les ordres rebudes d’autoritats i funcionaris en l’exercici de les seves funcions.d) La participació en motins o accions col·lectives contra el règim o l’ordre penitenciari i la inducció o la instigació a uns o a altres fets.e) Intentar, facilitar o consumar la pròpia evasió o la dels altres.f) Els actes de resistència activa i greu a les ordres rebudes d’autoritats o funcionaris en l’exercici de les seves funcions.g) Inutilitzar deliberadament les dependències, els materials o els efectes de l’establiment o les pertinences d’altres persones, i causar-hi danys de quantia elevada.h) La sostracció de béns o materials del Centre o d’altres persones.i) L’entrada, el tràfic, la cessió, la possessió o el consum de productes estupefaents dins del Centre.j) L’entrada, el tràfic, la cessió o la possessió d’armes o objectes perillosos per a la seguretat de les persones o del Centre.k) Haver estat sancionat per la comissió de tres faltes greus en un període d’un any.
 
 **Article 51. Infraccions greus**
 
@@ -318,7 +319,12 @@ a) Insultar altres interns i faltar-los greument al respecte.b) Causar danys de 
 
 **Article 53. Sancions**
 
-$20
+1. La comissió d’una infracció disciplinària pot donar lloc a les sancions següents:
+a) Aïllament en cel·la, que no pot excedir catorze dies.b) Limitació de les comunicacions orals i les visites durant un període de dos mesos com a màxim.c) Privació d’assistència a actes recreatius i de lleure durant un període d’un mes com a màxim.d) Privació de fer trucades telefòniques durant un període d’un mes com a màxim.e) Prohibició de rebre paquets de l’exterior durant un període d’un mes com a màxim.f) Privació de disposar d’un aparell de televisió durant un període de dos mesos com a màxim.
+2. La sanció a què es refereix la lletra
+a
+de l’apartat anterior només es pot imposar en els supòsits d’infraccions molt greus. Les altres sancions es poden imposar en els supòsits d’infraccions greus o lleus, en aplicació del principi de proporcionalitat.
+3. En funció de la gravetat dels fets, de les circumstàncies que concorrin i dels antecedents i la personalitat de l’intern infractor, es poden imposar conjuntament i com a màxim dos de les sancions previstes a l’apartat 1 d’aquest article.
 
 **Article 54. Aïllament en cel·la**
 
@@ -329,11 +335,23 @@ $20
 
 **Article 55. Drets de l’intern expedientat**
 
-$22
+L’intern que és objecte d’un procediment disciplinari té els drets següents:
+a) Dret a ser informat dels fets que se li imputen, de les infraccions que aquests fets puguin constituir, de les sancions que li puguin ser imposades, de la identitat de la persona designada com a instructor i de la persona competent per imposar la sanció.b) Dret d’accés a l’expedient disciplinari, de conèixer l’estat de la tramitació i d’obtenir còpies dels documents, en els termes del Codi de l’Administració.c) Dret a formular al·legacions, a proposar les proves que consideri oportunes i a utilitzar tots els mitjans de defensa admesos per l’ordenament jurídic que siguin procedents.d) Dret a la presumpció d’innocència i a no declarar en contra de si mateix.e) Dret a ser assistit pel seu advocat i a comunicar-s’hi a partir del moment en què se li notifica la incoació de l’expedient disciplinari, i en qualsevol moment durant la tramitació de l’expedient.f) Dret a ser assistit gratuïtament per un intèrpret quan l’intern sigui un nacional estranger que no comprengui o no parli la llengua nacional, o una de les llengües dels estats veïns, durant la tramitació de l’expedient.g) Dret de traducció verbal a una de les llengües dels estats veïns de totes les notificacions que se li efectuïn durant la tramitació de l’expedient, quan l’intern no comprengui o no parli la llengua nacional.h) Dret a obtenir una resolució motivada.i) Qualsevol altre dret que reconeguin la Constitució o les lleis.
 
 **Article 55 bis. Procediment disciplinari**
 
-$24
+1. El procediment disciplinari contra un intern l’inicia el director del Cos Penitenciari, mitjançant la incoació d’un expedient disciplinari, arran d’un informe escrit elaborat per qualsevol membre del Cos en què constati la comissió eventual d’una infracció disciplinària, o arran d’una queixa o una denúncia presentada per un altre intern o una tercera persona. El procediment es tramita amb respecte dels principis generals del règim sancionador.
+2. El director del Cos Penitenciari designa un instructor entre els membres del Cos que pertanyen a l’escala intermèdia. En cas que l’instructor s’abstingui o sigui recusat, resol el director del Cos Penitenciari, d’acord amb les disposicions del Codi de l’Administració.
+3. La incoació de l’expedient disciplinari i la designació de l’instructor es notifiquen a l’intern expedientat. També se l’informa dels drets que li reconeix l’article 55.
+Si l’intern expedientat renuncia al dret a ser assistit pel seu advocat i a comunicar-s’hi, la tramitació del procediment disciplinari continua.
+4. L’instructor ordena, en el termini màxim de deu dies hàbils, la pràctica de les diligències que consideri necessàries per esclarir els fets, per determinar-ne l’autoria i per establir les responsabilitats susceptibles de sanció.
+5. Tot seguit, i d’acord amb les diligències practicades, l’instructor formula, en el termini màxim de cinc dies hàbils, el plec de càrrecs corresponent, que ha d’incloure una exposició detallada dels fets imputats a l’intern expedientat, amb l’expressió de les infraccions presumptament comeses, i una proposta de les sancions que li puguin ser imposades.
+El plec de càrrecs es notifica a l’intern expedientat i se li dona vista de les diligències practicades.
+6. Un cop notificat el plec de càrrecs, l’intern expedientat disposa d’un termini de deu dies hàbils per fer al·legacions i sol·licitar, si és el cas, la pràctica de les proves que entengui necessàries per a la seva defensa.
+7. Contestat el plec de càrrecs, l’instructor pot practicar, d’ofici o a instància de l’intern expedientat, les proves que consideri necessàries i oportunes, en el termini màxim de quinze dies hàbils. En cas contrari, denega de forma motivada les proves sol·licitades, i contra aquesta decisió només s’hi pot recórrer juntament amb la resolució que es dicti al terme de l’expedient disciplinari.
+En cas que es practiquin proves, l’instructor dona vista del seu resultat a l’intern expedientat, que disposa d’un termini de deu dies hàbils per formular conclusions.
+8. Una vegada transcorregut el termini per contestar el plec de càrrecs sense fer-ho, o transcorregut el termini per formular conclusions, el director del Cos Penitenciari dicta en el termini de cinc dies hàbils la resolució corresponent, la qual ha de ser motivada i no pot incloure fets diferents dels que han fonamentat el plec de càrrecs, sense perjudici de la valoració jurídica que se’n faci. Si la resolució és sancionadora, s’han de determinar amb precisió les infraccions comeses, els preceptes en què estan tipificades i les sancions imposades.
+9. La resolució que dicta el director del Cos Penitenciari es notifica a l’intern sancionat i es comunica a l’òrgan jurisdiccional competent, al Ministeri Fiscal i al ministre competent en matèria de justícia, i pot ser impugnada en els termes que estableix el Codi de l’Administració. La resolució que resol el recurs també es notifica i es comunica d’acord amb el que estableix aquest apartat.
 
 **Article 56. Mesura cautelar**
 
@@ -351,7 +369,10 @@ També s’han de tenir en compte les funcions retributiva, preventiva i de rein
 
 **Article 57 bis. Suspensió de l’execució de les sancions**
 
-$26
+1. El director del Cos Penitenciari, d’ofici o a petició de l’intern sancionat, pot decidir en qualsevol moment la suspensió total o parcial de l’execució de les sancions imposades, en funció de la gravetat dels fets comesos i de les circumstàncies que concorren, sempre que l’intern no cometi una nova infracció susceptible de ser sancionada durant el termini de suspensió que estableixi el director.
+2. El termini de suspensió no pot excedir els sis mesos en cas d’infraccions greus i molt greus, i els tres mesos en cas d’infraccions lleus.
+3. La imposició d’una sanció per la comissió d’una nova infracció durant el termini de suspensió establert pot comportar la revocació d’aquesta suspensió, malgrat que la sanció s’imposi un cop transcorregut el termini de suspensió. En aquest cas, l’intern sancionat ha de complir la sanció l’execució de la qual ha estat suspesa, íntegrament en cas de suspensió total o pel temps que resta per complir en cas de suspensió parcial.
+4. Transcorregut el termini de suspensió establert sense que l’intern cometi una nova infracció, la sanció l’execució de la qual ha estat suspesa es considera executada.
 
 **Article 58. Prescripció**
 

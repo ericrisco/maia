@@ -142,7 +142,18 @@ El Protectorat, d’ofici o a partir d’una denúncia, pot sol·licitar a l’A
 
 **Article 22. Comptabilitat i llibres**
 
-$1e
+1. Les fundacions han de portar la comptabilitat d’acord amb la naturalesa de les seves activitats i de manera que permeti un seguiment de les operacions i l’elaboració dels comptes anuals.
+2. Les fundacions han de portar, almenys, el llibre diari, el llibre d’inventari i de comptes anuals, el llibre d’actes i el llibre de beneficiaris efectius.
+3. El llibre d’inventari i el llibre de comptes anuals de la fundació s’han d’obrir amb l’inventari inicial que consta en l’escriptura pública, i s’hi ha de transcriure anyalment l’inventari de tancament de l’exercici de comptes anuals.
+4. El llibre d’actes ha de contenir les actes de les reunions del patronat i dels òrgans de govern, autenticades en la forma que prevegin els estatuts. Han de comptar, com a mínim, amb la signatura del secretari i amb el vistiplau del president.
+5. El llibre de beneficiaris efectius inclou les persones que, segons la definició continguda a l’article 3, apartat 3, de la Llei de prevenció i lluita contra el blanqueig de diners o valors i el finançament del terrorisme, es consideren com a beneficiaris efectius de la fundació. Conté, com a mínim, les dades següents:
+a) Nom i cognomsb) Data de naixementc) Nacionalitat i país de residència del beneficiari efectiud) Naturalesa i abast de la participació real
+Els beneficiaris efectius tenen l’obligació de subministrar a les fundacions constituïdes al Principat d’Andorra tota la informació necessària per al compliment de les obligacions a què es refereix aquest article.
+6. El Registre de Fundacions ha de diligenciar els llibres abans que siguin utilitzats o bé un cop fets els assentaments i les anotacions mitjançant procediments informàtics.
+7. Quan s’efectuïn activitats econòmiques d’acord amb el que està previst a l’article 6
+bis
+, la comptabilitat de les fundacions s’ha d’ajustar al que està previst en la Llei 30/2007, del 20 de desembre, de la comptabilitat dels empresaris.
+En tot cas, s’ha d’incorporar informació detallada en un apartat específic de la memòria, indicant els elements patrimonials afectats a l’activitat econòmica.
 
 **Article 23. Comptes anuals**
 
@@ -159,7 +170,9 @@ a) El balanç de situació, en la data de tancament de l’exercici, que ha d’
 
 **Article 25. Aplicació obligatòria**
 
-$20
+1. Les fundacions han de destinar almenys dos terços dels ingressos nets anuals que obtenen al compliment dels fins fundacionals, i la resta l’han de destinar o bé al compliment diferit de les seves finalitats o bé a incrementar-ne la dotació. S’entenen com a ingressos nets anuals la totalitat de les rendes i els ingressos obtinguts una vegada deduïdes les despeses efectuades necessàries per obtenir aquests ingressos. Aquestes despeses poden consistir en serveis exteriors, despeses de personal, altres despeses de gestió, despeses financeres i tributs, així com les dotacions a l’amortització dels actius afectes als fins fundacionals.
+2. L’aplicació mínima de dos terços dels ingressos nets anuals s’ha de fer efectiva en el termini de tres exercicis, a comptar de l’inici de l’exercici següent al de l’acreditació comptable.
+3. Les despeses d’administració, enteses com les directament ocasionades per l’administració dels béns i drets que integren el patrimoni de la fundació, i les altres de les quals els patrons tenen dret a rescabalar-se d’acord amb l’article 18, amb expressa exclusió de les despeses intrínseques al cost de les funcions de direcció i gerència, no poden ser superiors al 20% dels ingressos generats durant l’exercici.
 
 **Article 26. Alienació dels béns de les fundacions**
 
@@ -203,7 +216,9 @@ d
 
 **Article 31. Liquidació**
 
-$22
+1. L’extinció d’una fundació comporta la liquidació dels seus actius i passius, que ha d’efectuar el patronat de la fundació, sota el control del Protectorat. Aquest últim ha d’autoritzar en tots els casos el destí del patrimoni romanent.
+2. Els béns i drets resultants de la liquidació s’han de destinar a una fundació, a una entitat privada sense finalitat de lucre que persegueixi fins d’interès general, relacionats, sempre que sigui possible, amb els seus fins fundacionals, i que tingui afectats els seus béns, fins i tot per al supòsit de la seva dissolució, a la consecució d’aquells fins o a una entitat pública fins i tot de naturalesa no fundacional que persegueixi finalitats d’interès general, sempre que hagin estat així designats en els estatuts de la fundació extingida. Si no hi ha designació, aquest destí pot ser decidit en favor de la fundació o les entitats abans mencionades pel patronat quan tingui reconeguda aquesta facultat pel fundador i sempre sota el control del Protectorat i, a falta d’aquesta facultat, correspon al Protectorat acomplir aquesta comesa.
+3. Els criteris reguladors del procediment de liquidació s’han d’establir per reglament.
 
 #### Capítol sisè. El Protectorat
 
@@ -231,11 +246,20 @@ a) Si la fundació es queda sense patrons per qualsevol motiu.b) Si adverteix un
 
 **Article 35. Registre de Fundacions**
 
-$24
+1. Per garantir la publicitat de les fundacions es crea el Registre de Fundacions, com a òrgan dependent del ministeri que tingui atribuïdes les competències de justícia.
+2. L’estructura, l’organització i el funcionament del Registre de Fundacions s’han de regular per reglament.
+3. La inscripció d’una fundació al Registre de Fundacions només pot ser denegada quan l’escriptura de constitució no s’ajusti a les prescripcions de la llei.
+4. Únicament les fundacions inscrites al Registre de Fundacions poden emprar en la seva denominació el terme “fundació”.
+5. La denominació d’una fundació no pot consistir en la simple menció d’un territori, en una expressió genèrica d’ús comú, en conceptes i expressions propis d’altres persones ni en expressions contràries a les lleis o a l’honor i a altres drets de les persones.
+6. La denominació d’una fundació no pot coincidir amb la d’una altra que ja estigui registrada primer, ni ser tan similar que presti a confusió. En cas que es presentin simultàniament dos o més sol·licituds de registre de fundacions amb la mateixa denominació, no se’n pot registrar cap.
 
 **Article 36. Publicitat del Registre**
 
-$26
+1. El Registre de Fundacions és públic. Els certificats que lliura donen fe del contingut. La publicitat es fa efectiva mitjançant certificació del contingut dels assentaments, per nota simple informativa o per còpia dels assentaments i dels documents dipositats en els registres o per mitjans informàtics o telemàtics, que s’ha d’ajustar als requisits establerts en la normativa vigent en matèria de protecció de dades de caràcter personal.
+2. El registre ha de contenir, mínimament, les dades següents:
+- Nom de la fundació.- Data de creació / Data d’extinció.- Fins i objecte fundacionals.- Domicili social.- Dotació.- Nom i cognoms dels fundadors, si són persones físiques, i la raó o la denominació social, si són persones jurídiques, i en tots dos casos la nacionalitat.
+3. Els actes subjectes a inscripció no inscrits no perjudiquen un tercer de bona fe. La bona fe del tercer es presumeix mentre no es provi que coneixia l’acte subjecte a inscripció no inscrit.
+4. El que disposa aquest article s’entén sense perjudici de la normativa reguladora d’altres registres públics existents.
 
 **Article 37. Actes inscriptibles**
 
@@ -266,4 +290,5 @@ a) Que es constitueixin amb una aportació majoritària, directa o indirecta, de
 
 **Article 41. Règim jurídic**
 
-$28
+Les fundacions del sector públic estan sotmeses al règim especial següent:
+a) No poden exercir potestats públiques.b) Només poden dur a terme activitats relacionades amb l’àmbit de competències de les entitats del sector públic fundadores o que hi participin.c) Han d’ajustar la comptabilitat a les disposicions legals previstes al Pla general de comptabilitat pública vigent.d) Han de sotmetre la contractació als principis de publicitat, concurrència i objectivitat.e) S’han d’inscriure al Registre de Fundacions, de conformitat amb el que disposa aquesta Llei.f) Malgrat que el domicili ha d’ésser a Andorra, poden establir delegacions i oficines a Andorra o en qualsevol altre lloc.g) Els membres del patronat poden ser, fins i tot de forma majoritària, de nacionalitat i residència estrangeres. El president ha de ser de nacionalitat andorrana.h) Els patrons que representen els òrgans de l’Estat, les administracions públiques i les entitats de dret públic, tant d’Andorra com de l’estranger, tenen la consideració de patrons nats.i) Els patrons nats es poden fer representar, per escrit i de forma específica per a cada reunió, per un altre patró.j) És imprescindible la unanimitat dels patrons nats per a les decisions següents:- Definir les línies d’actuació de la fundació.- Interpretar els estatuts i reformar-los.- Establir reglaments i normes complementàries dels estatuts per al règim intern de la fundació.- Analitzar i aprovar, si escau, el programa d’activitats i objectius de l’any següent, abans d’acabar l’any natural, i també els pressupostos ordinaris i extraordinaris de la fundació, la memòria i els comptes anuals.- Nomenar i revocar el secretari del patronat, així com qualsevol altre càrrec o òrgan que estimin convenient, per millorar l’organització i per acomplir els objectius de la fundació.- Aprovar la creació i la composició de qualsevol òrgan en el qual es deleguin funcions, d’acord amb els estatuts.

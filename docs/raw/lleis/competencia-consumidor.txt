@@ -23,7 +23,10 @@ a) Per “mercat rellevant” s’entén el mercat de referència on es donen un
 
 **Article 3. Prohibició d’acords restrictius de la competència**
 
-$1e
+1. Resten prohibits tots els acords, decisions i pràctiques concertades entre empreses, incloses les recomanacions d’associacions empresarials, els efectes dels quals impedeixin, restringeixin o falsegin el joc de la competència en tot o part d’un mercat.
+2. Els acords, decisions i pràctiques concertades prohibits poden consistir, entre d’altres, en:
+a) fixar, directament o indirectament, els preus o altres condicions comercials de compra o de venda de béns o serveis;b) limitar o controlar la producció, les importacions, el mercat, el desenvolupament tècnic o les inversions;c) repartir-se els mercats o les fonts de subministrament;d) aplicar a terceres persones contractants condicions desiguals per a prestacions equivalents que els ocasioni un desavantatge competitiu;e) subordinar la subscripció de contractes a l’acceptació de prestacions suplementàries que, per la seva naturalesa o segons els usos mercantils, no tinguin relació amb l’objecte dels contractes en qüestió.
+3. Els negocis jurídics que resultin de les conductes prohibides per aquest article seran nuls de ple dret.
 
 **Article 4. Conductes exemptes**
 
@@ -32,11 +35,18 @@ a) contribuir a millorar la producció o la distribució dels béns o serveis, o
 
 **Article 5. Conductes de menor importància**
 
-$20
+1. La prohibició recollida a l’article 3 no s’ha d’aplicar a les conductes que, per l’escassa importància dels seus efectes, no siguin susceptibles d’afectar la competència.
+2. En tot cas, s’inclouen en el concepte de “conductes de menor importància” les conductes en què la quota de mercat conjunta de les empreses partícips no superi, en cap dels mercats rellevants afectats per una conducta determinada:
+a) el llindar del 10%, quan l’acord té lloc entre empreses presents en el mateix nivell de producció o comercialització (acord horitzontal);b) el llindar del 15%, quan l’acord té lloc entre empreses presents en diferents nivells de producció o comercialització (acord vertical);c) quan es tracti d’un acord mixt vertical/horitzontal, o quan sigui difícil de classificar, s’aplica el llindar del 10%.
+3. En cap cas les conductes següents es consideren de menor importància:
+a) fixar, directament o indirectament, els preus de compra o de venda, o altres condicions de transacció no equitativa, de béns o serveis a tercers;b) limitar o controlar la producció, les importacions, els mercats, el desenvolupament tècnic o les inversions;c) repartir-se els mercats o les fonts de subministrament.
 
 **Article 6. Prohibició d’abús de posició dominant**
 
-$22
+1. Resten prohibides les conductes que constitueixin un abús d’una posició dominant, tant individual com col·lectiva, en el mercat i els efectes de les quals o bé perjudiquin els consumidors, o bé contribueixin al tancament injustificat del mercat.
+2. Les pràctiques abusives prohibides poden consistir, entre d’altres, en:
+a) la imposició, directament o indirectament, de preus de compra o de venda de béns o serveis o d’altres condicions de transacció no equitatives;b) la limitació de la producció, les importacions, els mercats o el desenvolupament tècnic en perjudici dels consumidors;c) l’aplicació a tercers contractants de condicions desiguals per a prestacions equivalents, que els ocasionin un desavantatge competitiu, i/od) la subordinació de la subscripció de contractes a l’acceptació, pels altres contractants, de prestacions suplementàries que no tinguin relació amb l’objecte dels contractes en qüestió.
+3. Els negocis jurídics que resultin de les conductes prohibides per aquest article seran nuls de ple dret.
 
 **Article 7. Conductes de l’Estat o d’empreses encarregades de la gestió de serveis d’interès econòmic general i conductes exemptes per llei**
 
@@ -47,7 +57,12 @@ $22
 
 **Article 8. Definició de concentració econòmica**
 
-$24
+1. Als efectes d’aquesta Llei, s’entén que es produeix una concentració econòmica quan tingui lloc un canvi estable de control de la totalitat o part d’una o més empreses com a conseqüència de:
+a) la fusió de dos o més empreses que anteriorment eren independents;b) l’adquisició per part d’una empresa del control sobre la totalitat o part d’una o més empreses; oc) la creació d’una empresa en participació i, en general, l’adquisició del control conjunt sobre una o més empreses, quan aquestes desenvolupin de forma permanent funcions d’una entitat econòmica autònoma.
+2. El control a què fa referència l’apartat anterior resulta dels contractes, els drets o de qualsevol altre mitjà que, tenint en compte les circumstàncies de fet i de dret, confereixin la possibilitat d’exercir una influència decisiva sobre les decisions estratègiques d’una empresa com ara, entre d’altres, mitjançant:
+a) drets de propietat o d’ús de la totalitat o de part dels actius d’una empresa; ob) contractes, drets o qualsevol altre mitjà que permeti influir decisivament sobre la composició, les deliberacions o les decisions dels òrgans de govern de l’empresa.
+3. No tindran la consideració de concentracions econòmiques:
+a) La mera redistribució de valors o actius entre empreses d’un mateix grup.b) La tinença amb caràcter temporal de participacions que s’hagin adquirit en una empresa per a la revenda per part d’una entitat de crèdit o una altra entitat financera o companyia d’assegurances, l’activitat normal de les quals inclogui la transacció i la negociació de títols per compte propi o per compte de tercers, sempre que els drets de vot inherents a aquestes participacions no s’exerceixin per determinar el comportament competitiu de l’empresa en qüestió, o només s’exerceixin amb la finalitat de preparar la transmissió de la totalitat o de part de l’empresa o dels seus actius o la transmissió de les participacions, i sempre que la transmissió es produeixi en el termini d’un any des de la data d’adquisició.c) L’adquisició de control per part d’una persona en virtut d’un mandat conferit per una autoritat pública d’acord amb la normativa en matèria de suspensió de pagaments i fallida vigent en cada moment.
 
 **Article 9. Concentracions econòmiques subjectes a notificació**
 
@@ -79,7 +94,9 @@ a) No notificar al ministeri competent en matèria d’economia una operació de
 
 **Article 14. Criteris de graduació de les sancions i reincidència**
 
-$26
+1. Per determinar l’import de les sancions dins del límit previst a l’article 11.2 es tenen en compte els criteris de graduació següents:
+a) el grau d’intencionalitat;b) la conducta general d’una o de les diverses empreses partícips en l’operació de concentració en relació amb el compliment de la normativa en matèria de defensa de la competència;c) la inobservança d’una o de les diverses empreses partícips en l’operació de concentració dels requeriments, les recomanacions o els advertiments del ministeri competent en matèria d’economia en relació amb la normativa en matèria de defensa de la competència;d) la reincidència;e) l’efecte de la infracció sobre els drets i legítims interessos dels consumidors i usuaris o sobre altres operadors econòmics;f) la quota de mercat de l’empresa o empreses responsables.
+2. S’entén que hi ha reincidència quan en el moment de cometre la infracció l’empresa infractora hagi estat sancionada per resolució ferma per una acció o omissió constitutiva d’una infracció en matèria de control de concentracions.
 
 **Article 15. Prescripció de les infraccions i sancions**
 
@@ -106,7 +123,8 @@ $26
 
 **Article 19. Actes de competència deslleial**
 
-$28
+En tot cas, es considera deslleial:
+a) Tot comportament que creï confusió en relació amb l’activitat, els béns, els serveis, altres prestacions, o amb l’establiment o les relacions mercantils d’una tercera persona.b) La realització o la difusió de manifestacions inexactes, falses o discriminatòries sobre l’activitat, els béns, els serveis, altres prestacions, o sobre l’establiment o les relacions mercantils d’una tercera persona que menyscabin la seva credibilitat en el mercat.c) La comparació pública, inclosa la publicitat comparativa, mitjançant una al·lusió explícita o implícita a un competidor, llevat que es faci de manera objectiva entre una o més característiques essencials, pertinents, verificables i representatives dels béns o serveis que tinguin la mateixa finalitat o satisfacin les mateixes necessitats.d) La imitació de prestacions d’un tercer quan generi confusió als consumidors respecte a la prestació o comporti un aprofitament indegut de la reputació o l’esforç aliens.e) L’aprofitament indegut, en benefici propi o aliè, dels avantatges de la reputació industrial, comercial o professional adquirida per altri en el mercat.f) La divulgació o l’explotació, sense autorització per part del seu titular, de secrets industrials o de qualsevol altra espècie de secrets empresarials als quals s’hagi tingut accés legítimament, però amb deure de reserva, o il·legítimament, sempre que s’hagi efectuat amb ànim d’obtenir un benefici, propi o d’un tercer.g) La inducció de treballadors, proveïdors, clients i d’altres obligats a infringir els deures contractuals bàsics que han contret amb els competidors.h) Prevaldre’s en el mercat d’un avantatge competitiu adquirit mitjançant la infracció de les lleis.i) La venda per sota del cost, o sota el preu d’adquisició, quan afecti la competència en el mercat, o a un preu molt baix, quan l’objectiu sigui eliminar la competència, llevat en els supòsits autoritzats per la normativa sectorial vigent en cada moment.j) L’assetjament, la coacció, l’ús de la força o la influència indeguda, que alterin la llibertat d’elecció o conducta del consumidor o del client mitjà respecte a un determinat bé o servei.k) La creació, la direcció o la promoció d’un pla de venda piramidal en què el consumidor o l’usuari realitzi una contraprestació a canvi de l’oportunitat de rebre una compensació derivada fonamentalment de l’entrada d’altres consumidors o usuaris en el pla, i no de la venda o el subministrament de béns o serveis.l) L’afirmació sense ser certa que un operador econòmic, les seves pràctiques, o un bé o servei ha estat aprovat, acceptat o autoritzat per un organisme públic o privat, o fer aquesta afirmació sense complir les condicions d’aprovació, acceptació o autorització, inclosa l’afirmació falsa sobre l’adhesió a un codi de conducta.
 
 ### Títol IV. Protecció del consumidor
 
@@ -128,7 +146,8 @@ Es reconeixen a les persones consumidores els drets que estableix aquest títol,
 
 **Article 23. Drets protegits**
 
-$2a
+Es protegeixen els drets següents de les persones consumidores:
+a) El dret a la protecció de la salut i a la seguretat, amb especial atenció als béns i serveis d’alimentació, els destinats a la salut i la cura higiènica i els béns perillosos.b) El dret a la protecció dels interessos econòmics i socials, que inclou el dret a la conformitat del bé amb el que estipula el contracte de venda i amb la garantia; el dret de desistiment, el fet d’exercir-lo i els efectes; la protecció dels abusos contractuals i el compliment de les condicions establertes en les condicions de contractació; així com el dret a la protecció mitjançant procediments eficaços davant situacions d’inferioritat, subordinació i indefensió, assegurant la indemnització o la reparació dels danys i perjudicis.c) El dret a la informació, que implica el deure d’informar per part de l’empresari, i de garantir en tot cas la informació sobre la promoció i la publicitat dels béns o serveis, els seus preus i les condicions de venda, les compensacions i indemnitzacions i els sistemes de reclamació.
 
 **Article 24. Col·lectius especialment protegits**
 
@@ -139,11 +158,19 @@ $2a
 
 **Article 25. Salut i seguretat**
 
-$2c
+1. Els béns o els serveis destinats a les persones consumidores no poden comportar riscos per a la salut, ni per a la seguretat, ni el medi ambient, excepte els que siguin legalment admissibles i subjectes a la normativa relativa a seguretat industrial, sanitària, salut pública, i duanera.
+2. Si s’han posat al mercat béns o serveis perjudicials per a la salut o insegurs, els empresaris que es dediquin a la venda de béns o a la prestació de serveis, amb independència del tipus i sector d’activitat, han d’informar immediatament les persones consumidores del risc derivat de l’ús del bé o del servei. La informació s’ha de donar per mitjà d’alertes que permetin a les persones consumidores conèixer el risc derivat de l’ús del bé o de la prestació del servei al més aviat possible.
+3. Amb la màxima celeritat possible, l’òrgan administratiu competent ha d’adoptar les mesures pertinents perquè els béns o els serveis perjudicials per a la salut o insegurs esdevinguin adequats, siguin substituïts o retirats, i es retorni l’import satisfet.
 
 **Article 26. Publicitat, informació i oferta**
 
-$2e
+1. La publicitat, la informació i l’oferta que es facin per qualsevol mitjà i la informació que es transmeti en el marc de l’activitat empresarial, referides a béns o serveis, s’han d’ajustar als principis de veracitat i objectivitat i no han d’induir a error o confusió. En tot cas, la publicitat, la informació, l’oferta i, en general, les comunicacions comercials no poden ser encobertes ni subliminals.
+2. Les prestacions pròpies dels productes i serveis i les garanties ofertes pels mitjans publicitaris són exigibles encara que no figurin en el contracte o en la documentació rebuda, les disposicions dels quals, però, prevalen sobre el contingut de la promoció i la publicitat si contenen clàusules més beneficioses.
+3. Els productes i els serveis a l’abast dels consumidors han d’oferir informació suficient i certa sobre les seves característiques. Els empresaris tenen l’obligació d’assegurar-se que els productes i els serveis a l’abast dels consumidors van acompanyats de la informació substancial per escrit o en qualsevol altre suport que en permeti l’emmagatzematge i que tingui una durada equivalent almenys a la vida útil o la conformitat del producte o el servei de què es tracti. A aquest efecte, s’entén per informació substancial la preparada pels propis empresaris o per, entre d’altres, els fabricants de productes, que fa referència a les característiques principals, la utilització o el manteniment, la justificació de la transacció efectuada i la conformitat del bé o el servei, amb referència almenys, en l’etiquetatge, als aspectes següents: origen, natura, composició, identitat del fabricant o subministrador, quantitat, categoria o denominació, preu, termini recomanat per al consum i data de caducitat. Si els productes porten el codi de traçabilitat o altres codis del fabricant que apareixen sobre el producte, aquests no poden eliminar-se, ni sofrir cap tipus d’alteració o manipulació, ateses les dades informatives rellevants que contenen per a la persona consumidora.
+4. Els empresaris tenen l’obligació de lliurar abans de contractar, si així ho sol·licita la persona consumidora, un model de contracte amb les condicions generals previstes. A més a més, una vegada contractat el bé o servei, els empresaris tenen l’obligació de lliurar una factura, un tiquet o un justificant de la transacció, amb els conceptes previstos en la normativa en matèria fiscal i de facturació vigent en cada moment.
+5. Els establiments han d’informar sobre el preu complet dels béns i serveis, amb els tributs i els impostos inclosos. Aquesta informació ha de ser visible per a les persones consumidores, de manera que no indueixi a error o engany, sempre que la naturalesa del producte o servei ho permeti i la normativa específica sectorial no ho contradigui.
+6. Si l’establiment accepta targetes o altres mitjans de pagament de manera habitual, no se’n pot limitar l’ús en determinats períodes o condicions, sempre que es compleixin els requisits normals per a aquests mitjans de pagament.
+7. L’òrgan administratiu competent en matèria de consum podrà regular i sotmetre a autorització la publicitat sobre determinats béns o serveis, si l’interès públic o el de les persones consumidores ho exigeix.
 
 **Article 27. Atenció a les persones consumidores**
 
@@ -152,7 +179,11 @@ $2e
 
 **Article 28. Ofertes o promocions**
 
-$30
+1. La publicitat de condicions especials més beneficioses per a la persona consumidora amb relació a les practicades habitualment per l’empresari ha d’indicar almenys:
+a) La data d’inici de l’oferta o la promoció.b) La durada de l’oferta o la promoció, o bé el nombre d’unitats disponibles en oferta o promoció o el nombre de persones consumidores que es poden beneficiar de l’oferta o la promoció.c) Els requisits que han de complir les persones consumidores.d) Les condicions, la qualitat i les prestacions dels béns o serveis en oferta o promoció, i els avantatges de l’oferta o la promoció.e) El responsable de l’oferta o la promoció, amb indicació del nom o la raó social i l’adreça de l’establiment o els establiments on es poden fer efectives les condicions més beneficioses, llevat que l’oferta o la promoció es refereixi únicament al mateix establiment on s’ofereix.
+2. Si s’anuncien ofertes o promocions per un període de temps, aquest període ha de ser sempre determinat i l’empresari ha d’estar en condicions de satisfer la demanda de les persones consumidores del bé o el servei ofert durant tot el temps en què l’oferta o la promoció és pública i accessible. Si no es pot atendre la demanda, s’ha d’informar la persona consumidora del dret d’adquirir el bé o el servei en oferta o promoció, o un de condicions semblants, d’acord amb els beneficis de l’oferta o la promoció. En tot cas, no es poden fer ofertes o promocions amb un nombre d’unitats manifestament insuficients en funció de la durada i la publicitat de l’oferta o la promoció i en funció de les vendes habituals.
+3. Si l’oferta o la promoció consisteix en una reducció en els preus que els béns o els serveis hagin tingut amb anterioritat, s’ha d’indicar de manera clara aquesta reducció i s’ha d’informar del preu normal o habitual del bé o el servei i del preu reduït.
+4. Si en un mateix establiment hi ha béns o serveis en condicions normals de venda i d’altres en condicions més beneficioses, s’han de diferenciar o separar clarament, de manera que no es pugui induir a error o confusió respecte a les ofertes i promocions, ni a la seva naturalesa.
 
 **Article 29. Dret de desistiment**
 
@@ -161,15 +192,38 @@ a) El període durant el qual la persona consumidora pot exercir el dret de desi
 
 **Article 30. Garantia i serveis postvenda**
 
-$32
+1. El venedor o prestador ha de lliurar un bé o un servei que sigui conforme al contracte i que s’ajusti a la descripció realitzada. A aquest efecte, el venedor o prestador és responsable de qualsevol manca de conformitat que presenti el bé o el servei en el moment de lliurar-lo o prestar-lo.
+2. Es considera conforme al contracte el bé o el servei que contingui:
+a) Les qualitats que el venedor o prestador, si escau, ha presentat de forma prèvia.b) Les qualitats i prestacions habituals en un bé o un servei de les mateixes característiques que la persona consumidora pugui esperar d’acord amb la naturalesa del bé i les característiques de les quals ha informat el venedor o prestador.c) La idoneïtat per als usos a què ordinàriament es destinen els béns del mateix tipus.d) L’aptitud per a qualsevol ús requerit per la persona consumidora admès pel venedor o prestador.
+3.Tots els béns mobles considerats de naturalesa duradora gaudeixen d’una garantia legal mínima de dos anys; llevat dels béns de segona mà, en què el venedor i la persona consumidora poden pactar un termini menor, que en cap cas pot ser inferior a un any. Aquesta garantia es pot ampliar amb la garantia comercial.
+4. En els supòsits de béns mobles considerats de naturalesa duradora, les persones consumidores tenen dret a un servei tècnic adequat i a l’existència de recanvis durant un termini raonable, a partir de la data en què el bé es deixi de fabricar.
+5. En cas d’incompliment o compliment defectuós de les obligacions que estableixen els apartats 3 i 4 d’aquest article, es consideren responsables solidaris: el venedor, el distribuïdor, l’importador i el fabricant, sense perjudici de les accions de repetició que puguin donar-se entre ells.
+6. La garantia comercial es pot oferir de forma addicional amb caràcter voluntari i obliga qui figuri com a garant en les condicions establertes al document de garantia i/o en la publicitat corresponent. La garantia comercial s’ha de formular en un idioma comprensible per a les persones consumidores, i s’ha de formalitzar per escrit o en qualsevol altre suport durador, sempre que aquest suport sigui directament disponible i accessible per a les persones consumidores.
+7. La garantia comercial ha d’expressar com a mínim:
+a) El bé o el servei objecte de garantia.b) El nom i l’adreça del garant.c) Els drets, addicionals als legals, que es concedeixen al consumidor com a titular de la garantia.d) El termini de duració i l’àmbit territorial de la garantia.e) Les vies de reclamació disponibles per al consumidor.
+8. En cap cas la garantia comercial redueix o afecta els drets legals de les persones consumidores davant la manca de conformitat com a titular de la garantia.
+9. El que preveu aquest article no s’aplica als productes adquirits mitjançant venda judicial. Tampoc serà aplicable als productes de segona mà adquirits en subhasta administrativa a la qual les persones consumidores puguin assistir personalment.
 
 **Article 31. Conformitat i idoneïtat dels béns i els serveis**
 
-$34
+1. La conformitat es produeix quan la persona consumidora gaudeix, com a mínim, de la qualitat i les prestacions que consten al contracte, al pressupost, a la publicitat, a les invitacions a comprar, o de qualsevol altre document que vinculi l’empresari en les relacions de consum.
+2. La persona consumidora té dret a ser informada dels drets que li corresponen com a adquirent de béns o serveis, especialment pel que fa a la conformitat i a la garantia dels béns de naturalesa duradora.
+3. La idoneïtat ha de permetre a la persona consumidora assegurar-se de la naturalesa, les característiques, les condicions i la utilitat o la finalitat dels béns o els serveis. En cas d’incompliment o de compliment defectuós, d’errada, de defecte o de deteriorament, la persona consumidora ha de poder fer efectives les garanties de qualitat o nivell de prestació i obtenir la devolució equitativa del preu de mercat del bé o el servei, ja sigui de forma total o parcial.
+4. Els dubtes en la interpretació dels contractes es resolen en contra de qui els hagi redactat. Les clàusules particulars prevalen sobre les generals si són més beneficioses per al consumidor.
+5. Llevat de prova en contrari, es presumeix que la manca de conformitat que es manifesti durant els sis mesos posteriors al lliurament del bé o la prestació del servei ja existia en el moment de la transacció. No obstant això, aquesta presumpció decau quan sigui incompatible amb la naturalesa del producte o el servei o amb l’índole de la manca de conformitat.
+6. El venedor o el productor han de garantir a la persona consumidora el gaudiment d’un servei tècnic i d’atenció al client adequat, sense demores o retards injustificats.
 
 **Article 32. Responsabilitat del venedor**
 
-$36
+1. Les persones consumidores tenen dret a la reparació del producte, a la substitució, a la rebaixa del preu o a la resolució del contracte, tal com s’estableix als apartats següents.
+2. Quan el producte o servei no és conforme amb el contracte, la persona consumidora pot optar entre exigir la reparació o la substitució, tret que qualsevol d’aquestes opcions resulti objectivament impossible o desproporcionada. Es considera desproporcionada la forma de sanejament que imposi al venedor despeses que no siguin raonables en relació amb l’altra opció possible de sanejament.
+3. La reparació i la substitució, degudes a una manca de conformitat, han de ser gratuïtes per a les persones consumidores. Aquesta gratuïtat ha de contenir totes les despeses necessàries per restaurar la manca de conformitat, especialment pel que fa a les despeses d’enviament o transport, de mà d’obra o dels materials.
+4. La reparació i la substitució s’han de portar a terme en terminis raonables, tenint en compte la naturalesa i la finalitat que els productes o els serveis tenen per al consumidor.
+5. La reparació suspèn el termini de garantia. Aquesta suspensió s’inicia en el moment en què el consumidor posa el producte o el servei a disposició del venedor o prestador, i conclou amb el lliurament del producte o el servei degudament reparat.
+6. Si, un cop reparat i lliurat el producte o el servei, continua sense ser conforme amb el contracte, la persona consumidora en pot exigir la substitució, tret que resulti desproporcionada, la rebaixa del preu o la resolució del contracte.
+7. Si la substitució no aconsegueix posar el producte en conformitat amb el contracte, la persona consumidora pot exigir-ne la reparació, tret que resulti desproporcionada, la rebaixa del preu o la resolució del contracte.
+8. La persona consumidora no pot exigir la substitució en cas de productes o serveis no fungibles, ni tampoc quan es tracti de productes de segona mà.
+9. La rebaixa del preu i la resolució del contracte són procedents, a elecció de la persona consumidora, quan no pugui exigir la reparació o la substitució i en els casos en què la reparació o la substitució no s’hagin portat a terme dins un termini raonable i/o sense gaires inconvenients per a la persona consumidora. La resolució no és procedent quan la manca de conformitat sigui de poca importància.
 
 **Article 33. Règim de responsabilitat civil per danys**
 
@@ -189,7 +243,11 @@ Per mitjà d’altres lleis es podran regular les modalitats especials de venda 
 
 **Article 36. Informació i difusió sobre el consum**
 
-$38
+1. Els poders públics han de vetllar perquè els mitjans de comunicació s’ocupin de la informació i l’educació dels consumidors, i de la creació i el desenvolupament de programes i espais dedicats al consum i a la difusió de les activitats de les organitzacions de consumidors.
+2. Els mitjans de comunicació de titularitat pública han de facilitar l’accés de les organitzacions de consumidors als espais que programin.
+3. Les administracions públiques han de fomentar campanyes informatives i activitats de difusió amb l’objectiu que els consumidors coneguin els seus drets.
+4. S’ha de fomentar especialment la difusió de la informació i la prevenció en l’ús de béns i serveis del mercat:
+a) Quan poden comportar risc per a la salut i la seguretat de les persones.b) Sobre l’ús de nous béns i serveis que apareguin al mercat i que puguin afectar els interessos econòmics dels consumidors.c) Sobre les noves normatives que afectin els drets i els deures dels consumidors.d) Sobre el consum responsable, reflexiu, solidari i sostenible de béns i serveis.
 
 #### Capítol quart. La protecció administrativa del consumidor
 
@@ -200,11 +258,18 @@ $38
 
 **Article 38. Tramitació de la denúncia, mediació i conciliació**
 
-$3a
+1. En el moment de rebre la denúncia, l’òrgan administratiu competent en matèria de consum ha de comunicar a la persona denunciant la possibilitat d’optar per un procediment de mediació per intentar resoldre la controvèrsia plantejada.
+2. Si denunciant i denunciat se sotmeten expressament a un procediment de mediació, s’inicia aquest procediment extrajudicial de resolució del conflicte amb la mediació de l’òrgan administratiu competent en matèria de consum, que redacta l’acta de conciliació corresponent.
+3. Quan el denunciant o l’empresari no acceptin sotmetre’s al procediment de mediació, l’òrgan administratiu competent en matèria de consum procedirà a l’anàlisi de la denúncia. La persona consumidora tindrà totes les facultats per exercir les accions judicials que corresponguin inclosa la reclamació dels danys i perjudicis causats.
+4. Si de la denúncia deriven indicis d’infracció, d’acord amb el que estableix aquesta Llei, l’òrgan administratiu competent en matèria de consum pot iniciar el corresponent procediment administratiu sancionador per evitar la vulneració de la normativa.
 
 **Article 39. Òrgan administratiu competent en matèria de consum**
 
-$3c
+1. El Govern, mitjançant l’òrgan administratiu competent en matèria de consum, controla el compliment de la normativa en matèria de la protecció dels consumidors.
+2. L’òrgan administratiu competent en matèria de consum, d’ofici o a instància de part, visita els establiments, n’examina la documentació en matèria de la protecció del consumidor i, si escau, aixeca acta de la visita efectuada.
+3. Quan l’òrgan administratiu competent en matèria de consum comprova que l’incompliment de la normativa sobre la protecció dels consumidors implica, al seu judici, un risc greu i imminent per a la seguretat i la salut de les persones, pot ordenar el cessament immediat de l’activitat o requisar el producte de manera cautelar. La mesura s’aixeca immediatament quan l’empresari acrediti la correcció de les omissions de seguretat que la van originar.
+4. Contra la decisió presa per l’òrgan administratiu competent en matèria de consum es pot presentar un recurs administratiu davant del ministeri encarregat del servei que ha pres la decisió, d’acord amb el que disposi la normativa en matèria de recursos administratius vigent en cada moment.
+5. La vigilància i el control en matèria de salut i de seguretat correspon, respectivament, als òrgans competents del ministeri encarregat de la salut i del ministeri encarregat de la seguretat industrial.
 
 #### Capítol cinquè. Responsabilitats, infraccions i sancions en matèria de protecció del consumidor
 
@@ -227,7 +292,12 @@ $3c
 
 **Article 43. Infraccions**
 
-$3e
+1. Són infraccions molt greus:
+a) Incomplir, per acció o omissió, les disposicions normatives relatives a la salut i a la seguretat de les persones, dels béns i dels serveis posats al mercat a disposició de les persones consumidores.b) Cometre simultàniament dos o més infraccions greus.
+2. Són infraccions greus:
+a) Alterar o adulterar els béns o els serveis en detriment de les seves qualitats per encobrir-ne els defectes.b) El frau o l’engany en la comercialització dels béns o els serveis que pugin induir a error o confusió a les persones consumidores respecte a les veritables característiques o naturalesa dels béns o els serveis.c) La publicitat falsa o enganyosa.d) Posar a disposició de les persones consumidores béns de naturalesa duradora obviant-ne la garantia legal i/o sense garantir un servei d’assistència tècnica adequat.e) Obstruir les funcions d’inspecció i control en matèria de consum.f) Cometre simultàniament dos o més infraccions lleus.
+3. Són infraccions lleus:
+a) Incomplir les disposicions que regulen la informació i la publicitat dels preus dels béns i serveis.b) Incomplir les normes relatives a la normalització, la documentació i les condicions de venda i en matèria de subministrament de béns o de prestació de serveis.c) No disposar de fulls oficials de reclamació i denúncia o no anunciar que n’hi ha.d) Qualsevol altre incompliment dels requisits, obligacions, condicions i prohibicions establerts en aquesta Llei i en les altres normatives que la complementin o desenvolupin, i que no estigui tipificat com a greu o molt greu.
 
 **Article 44. Prescripció de les infraccions**
 
@@ -289,7 +359,11 @@ Les accions judicials derivades de l’aplicació d’aquesta Llei, amb independ
 
 **Article 55. Sancions accessòries**
 
-$40
+1. En el supòsits d’afectació de l’interès general, a més de l’eventual compensació per danys i perjudicis, el batlle ha d’imposar a l’infractor l’obligació de satisfer, en concepte de confiscació dels beneficis, la suma equivalent al benefici obtingut com a conseqüència de la conducta prohibida, inclosos els interessos.
+2. A l’efecte de quantificar la suma que cal satisfer en concepte de confiscació dels beneficis, el batlle pot sol·licitar l’informe d’un pèrit independent.
+3. La persona física o jurídica sobre qui recaigui la confiscació dels beneficis està obligada a publicar íntegrament el contingut de la sentència ferma en un dels dos diaris en paper de més difusió al Principat d’Andorra i d’assumir les despeses que la publicació comporti.
+4. La confiscació dels beneficis sempre s’ha d’efectuar a favor de l’Estat andorrà.
+5. En el supòsit que una determinada operació de concentració subjecta a notificació d’acord amb el que estableix l’article 9 restringeixi de forma significativa la competència en un o diversos mercats de béns o serveis, la sentència que resolgui l’acció judicial podrà imposar a les empreses involucrades en una concentració una multa de fins al 7% del volum de negoci obtingut en l’exercici o en els exercicis en què s’hagin produït les conductes prohibides per aquesta Llei.
 
 **Article 56. Funcions del Ministeri Fiscal**
 

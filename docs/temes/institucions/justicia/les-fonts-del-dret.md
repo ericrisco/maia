@@ -131,13 +131,24 @@ res.**
 2. **El Politar Andorrà** (1763) — el corpus el té citat i no llegit.
 3. **Un cas concret** on s'hagi aplicat dret romà o dret català pre-1714 a
    Andorra. **Això faria la fitxa molt més sòlida.**
-4. **Si el costum encara preval** sobre la llei en algun àmbit.
+4. **Si el costum encara preval** sobre la llei en algun àmbit. **Parcialment
+   tancat:** la Constitució hi entra una sola vegada, a l'**article 84**, i el
+   posa com a **criteri que les lleis han de tenir en compte** per fixar la
+   competència dels quarts i dels veïnats — no com a font que desplaci la llei.
+   Ho recull [l'ordenament jurídic avui](./lordenament-juridic-avui.md).
 5. **Carles Obiols i Taberner** — qui era.
-6. **Quines són les fonts del dret avui**, segons la Constitució i la
-   jurisprudència posterior.
+6. ~~**Quines són les fonts del dret avui**, segons la Constitució.~~
+   **TANCAT** amb el text de la Constitució:
+   [L'ordenament jurídic avui](./lordenament-juridic-avui.md). El vèrtex és la
+   Constitució, els **tractats publicats al BOPA** queden per sobre de les lleis
+   i **cap llei els pot modificar ni derogar**, i els drets dels capítols III i
+   IV estan reservats a **llei qualificada**. El que segueix obert és **la
+   jurisprudència posterior**: si el Tribunal Constitucional o el Tribunal
+   Superior han ordenat la resta de la piràmide.
 
 ## Related
 
+- [L'ordenament jurídic avui](./lordenament-juridic-avui.md) — què hi ha al lloc d'això, amb la Constitució a la mà.
 - [La justícia abans de la Constitució](./la-justicia-dabans.md) — qui jutjava.
 - [Cronologia legislativa del segle XX](./cronologia-legislativa.md) — què es va escriure.
 - [El Manual Digest](../../historia/manual-digest/manual-digest.md) — el costumari constitucional.

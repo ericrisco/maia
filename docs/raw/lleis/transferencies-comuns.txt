@@ -78,7 +78,8 @@ El repartiment entre els comuns de la quantitat determinada en aplicació de les
 
 **Article 8. Classificació de les partides i dotacions**
 
-$20
+La quantitat total a transferir als comuns es reparteix d’acord amb les dotacions i partides següents:
+a) El 38% com a partida a parts iguals, a repartir entre tots els comuns pel mateix import, d’acord amb el que s’estableix en l’article 9 d’aquesta Llei.b) El 21% com a partida de població, a repartir entre tots els comuns proporcionalment a la seva població, d’acord amb el que s’estableix en l’article 10 d’aquesta Llei.c) El 16% com a partida de territori, a repartir entre tots els comuns proporcionalment a la superfície de cadascuna de les parròquies, d’acord amb el que s’estableix en l’article 11 d’aquesta Llei.d) El 12,75% com a partida de criteris demogràfics, a repartir entre tots els comuns proporcionalment a la suma de la seva població d’infants i gent gran, d’acord amb el que s’estableix en l’article 12 d’aquesta Llei.e) El 5,50% com a partida de pernoctacions, a repartir entre tots els comuns proporcionalment a la distribució de pernoctacions per parròquia, d’acord amb el que s’estableix en l’article 13 d’aquesta Llei.f) El 6,75% com a partida de solidaritat i particularitats comunals, d’acord amb el que s’estableix en l’article 17 d’aquesta Llei.
 
 **Article 9. Partida a parts iguals**
 
@@ -116,7 +117,10 @@ Sense contingut
 
 **Article 17. Partida de solidaritat i particularitats comunals**
 
-$28
+Els recursos corresponents a la partida de solidaritat i particularitats comunals són repartits entre els comuns d’acord amb els criteris següents:
+i) La meitat de la partida es reparteix entre tots els comuns d’acord amb el percentatge que s’obtingui amb caràcter inversament proporcional al nombre d’establiments comercials registrats a la parròquia, de manera que la parròquia amb menys establiments comercials obté una major part de la partida i, a l’inrevés, la parròquia amb més establiments comercials rep una part menor de la partida.ii) L’altra meitat de la partida es reparteix entre els comuns atenent les particularitats parroquials que es detallen en aquest article, segons el sistema de puntuació següent:a) 1 punt per als comuns que en els dos exercicis immediatament precedents hagin exigit dels obligats tributaris la totalitat dels impostos comunals descrits en l’article 28 de la Llei 10/2003, del 27 de juny, de les finances comunals, mitjançant liquidacions o autoliquidacions segons que escaigui. Els comuns han de comunicar al ministeri encarregat de les finances els canvis normatius en relació amb l’exigibilitat d’aquests impostos comunals.No s’entén l’exigibilitat tributària als efectes d’aquest article quan en resulti un supòsit de no subjecció, d’exempció o de tipus de gravamen zero, llevat de l’impost de la propietat immobiliària per a les propietats no edificades.b) 1 punt per als comuns en el territori dels quals la suma de la llargada de totes les carreteres secundàries superi la xifra de 60 quilòmetres.c) 1 punt per als comuns que disposin en l’exercici precedent d’una societat pública participada únicament pel Comú, amb una despesa superior a la despesa liquidada pel Comú en el mateix exercici.d) 1,5 punts per als comuns en el territori dels quals es trobin radicats dos nuclis amb una població de més de 2.000 habitants i que alhora estiguin separats per una distància superior a 15 quilòmetres.
+D’acord amb el que estableix la disposició transitòria primera, la partida de solidaritat i particularitats comunals per als exercicis 2018 i 2019 inclou un paràmetre addicional d’acord amb les necessitats financeres.
+La suma de punts atribuïts a cada comú en aplicació dels criteris establerts en l’apartat anterior determina per a cada comú un percentatge de repartiment d’aquesta part de la partida en relació amb la totalitat dels punts atribuïts a tots els comuns.
 
 **Article 18. Sense contingut**
 
@@ -141,7 +145,10 @@ Si a la data d’emissió de l’informe motivat objecte del paràgraf anterior 
 
 **Article 21. Pagaments**
 
-$2c
+El Govern satisfà als comuns l’import anual de les transferències objecte d’aquesta Llei mitjançant quatre pagaments, a efectuar a l’inici de cadascun dels trimestres naturals.
+La quantitat trimestral a transferir als comuns en aplicació de les disposicions d’aquesta Llei es determina provisionalment en absència de les dades o paràmetres per al càlcul del repartiment de l’import, en el mateix import del trimestre precedent, que serà objecte de regularització d’acord amb les disposicions de l’article següent.
+Fins al moment que el Govern no emeti la liquidació de l’import definitiu per al repartiment entre els comuns de les transferències, els pagaments a favor dels comuns tenen la naturalesa d’acomptes.
+En situació de pròrroga pressupostària o de no aprovació del pressupost general de l’Estat, el cap de Govern, amb l’acord previ del Govern, fa efectives les transferències als comuns d’acord amb l’informe de liquidació previst en la secció anterior. En aquest cas, per fer front a les transferències als comuns, els crèdits en concepte de transferències als comuns es poden prorrogar en una sola vegada i a la bestreta.
 
 **Article 22. Regularització**
 

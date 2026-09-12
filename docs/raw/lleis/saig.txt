@@ -17,7 +17,12 @@ a) Saig: persona titulada, investida d’autoritat suficient, encarregada profes
 
 **Article 2. El saig**
 
-$1e
+1. El saig és la persona professional del dret investida de funció pública que, de conformitat amb les disposicions legals vigents, té autoritat per dur a terme l’execució forçosa de les resolucions judicials o arbitrals, dels actes administratius, dels acords de mediació elevats a escriptura pública o dels acords de mediació, les transaccions i els convenis homologats judicialment, de caràcter executori, i per a les altres funcions descrites en aquesta Llei i les altres lleis aplicables, a petició de les persones i les entitats públiques i privades legitimades a aquest efecte.
+Aquesta prerrogativa s’exerceix en el marc de les atribucions definides en aquesta Llei i sota el control de les autoritats judicials o administratives competents, tal com queda determinat igualment en aquesta Llei.
+2. El saig té la condició de cooperador de l’Administració de justícia, en el sentit que estableix el títol VII de la Llei qualificada de la justícia, del 3 de setembre de 1993.
+3. El saig exerceix les seves funcions amb total autonomia i independència, i en règim de lliure i lleial competència, en el marc de les disposicions d’aquesta Llei.
+En l’exercici de la professió, el saig està sotmès a la Constitució, a les lleis i a les normes i els usos que conformen la deontologia de la professió, com també al control dels òrgans jurisdiccionals o administratius competents i del ministeri competent en matèria de justícia, d’acord amb el que estableix aquesta Llei.
+4. Els saigs s’han de dotar dels mitjans humans, tècnics i materials necessaris per al compliment degut de les funcions que tenen encomanades, segons determini el ministeri competent en matèria de justícia, previ informe no vinculant de la Cambra de Saigs.
 
 **Article 3. Funció**
 
@@ -25,19 +30,33 @@ La funció del saig consisteix a dur a terme l’execució forçosa de les resol
 
 **Article 4. Altres funcions o activitats**
 
-$20
+Els saigs poden igualment exercir les funcions o dur a terme les activitats següents:
+a) Efectuar requeriments extrajudicials de pagament.b) Estendre actes de presència, tal com es defineixen i regulen en la Llei del notariat, les quals fan fe en justícia, llevat de prova en contrari.c) Organitzar subhastes públiques, sota el control de l’òrgan competent, d’acord amb les lleis aplicables. En aquest sentit, el saig s’encarrega de l’execució material de les subhastes i, en el cas que s’esdevinguin incidències durant l’acte de licitació, n’ha d’aixecar acta i comunicar-ho a l’òrgan que ha dictat la resolució judicial o l’acte administratiu, a fi que aquest darrer o l’altre òrgan al qual correspongui, d’acord amb les lleis aplicables, resolguin de conformitat amb les normes de la Llei del Codi de procediment civil o la Llei de bases de l’ordenament tributari, segons el cas.d) Organitzar subhastes privades.e) Exercir l’administració judicial en els procediments concursals i en els altres processos judicials en què es requereixi el nomenament d’un administrador, d’acord amb la normativa vigent en la matèria.f) Dur a terme els actes de comunicació i de notificació, personalment o mitjançant una persona delegada, d’acord amb les normes de la Llei del Codi de procediment civil.
 
 **Article 5. Àmbit d’actuació i obligatorietat del servei**
 
-$22
+1. L’àmbit competencial d’actuació del saig s’estén a tot el territori del Principat d’Andorra.
+2. El compliment de les funcions encomanades al saig establertes a l’article 3 i a les lletres e i f de l’article 4 tenen caràcter obligatori. El saig que sigui requerit a aquest efecte no pot negar la seva intervenció o actuació, llevat de causa justificada.
+3. Són causes que justifiquen que el saig negui la seva intervenció o actuació, el caràcter manifestament il·legal de les diligències que se li sol·licitin o el fet que aquestes diligències puguin tenir unes conseqüències desproporcionades. En aquests casos, el saig té l’obligació d’informar-ne immediatament l’òrgan que n’exerceix o n’ha d’exercir el control.
+4. La negativa del saig de prestar els seus serveis sense causa justificada, o la realització per part seva d’actes contraris a les lleis aplicables, dona dret a la persona interessada a formular una demanda de responsabilitat i reclamació pels danys i perjudicis davant la jurisdicció civil competent.
+Igualment, la persona que es consideri perjudicada pel refús esmentat pot sol·licitar, amb caràcter d’urgència, una declaració judicial que obligui el saig a dur a terme les diligències per a la pràctica de les quals ha estat requerit. Aquesta demanda s’ha d’adreçar al batlle o al tribunal que va dictar la resolució judicial que s’està executant o es pretén executar, o, quan es tracti d’un acte administratiu, a la Secció Administrativa de la Batllia, perquè se n’atribueixi el coneixement al batlle o al tribunal a qui correspongui per torn. L’òrgan jurisdiccional competent ha d’escoltar el saig interessat en el termini de cinc dies hàbils a comptar de la presentació de la demanda i, dins els cinc dies hàbils següents, dicta un aute en què resol la controvèrsia. Contra aquest aute no es pot interposar cap recurs.
+5. El saig té el deure de secret professional respecte de tots els fets i les notícies dels quals tingui coneixement en l’exercici de les seves funcions.
 
 **Article 6. Causes d’abstenció i recusació**
 
-$24
+1. El saig s’ha d’abstenir d’exercir les funcions que té encomanades i, si no ho fa, pot ser recusat, en els supòsits següents:
+a) Tenir una relació de matrimoni o una situació de convivència anàloga, o un parentiu en línia recta, o en línia col·lateral per consanguinitat o adopció fins al quart grau inclòs o per afinitat fins al segon grau inclòs, amb qualsevol de les parts del procediment, els seus advocats, els seus procuradors o els representants del Ministeri Fiscal, el batlle o membre de l’òrgan que ha dictat la resolució judicial o arbitral, l’acte administratiu, l’acord de mediació elevat a escriptura pública, o l’homologació judicial de l’acord de mediació, la transacció o conveni, objecte d’execució.b) Ser qualsevol de les parts del procediment una societat mercantil en què el saig, el seu cònjuge, la persona amb qui mantingui una situació de convivència anàloga o un parent en línia recta, en línia col·lateral per consanguinitat o adopció fins al quart grau inclòs o per afinitat fins al segon grau inclòs, tingui una participació superior al 20% del capital social, tingui la condició d’administrador únic, conjunt, mancomunat o solidari, o participi en l’òrgan d’administració i disposi de més del 20% dels drets de vot.c) Ser o haver estat tutor, advocat o procurador de qualsevol de les parts del procediment, els seus advocats o els seus procuradors en els darrers tres anys.d) Tenir o haver tingut una relació de dependència, societària o d’interessos amb qualsevol de les parts del procediment, els seus advocats o els seus procuradors en els darrers tres anys.e) Tenir o haver tingut processos pendents amb qualsevol de les parts del procediment, els seus advocats o els seus procuradors en els darrers tres anys.f) Ser o haver estat denunciat, acusat o demandat per qualsevol de les parts del procediment, els seus advocats o els seus procuradors, llevat que la denúncia, l’acusació o la demanda no hagi estat admesa o hagi estat refusada per manca manifesta de fonamentació, en els darrers tres anys.g) Tenir un interès directe o indirecte en el procediment d’execució o en un altre procediment semblant.h) Tenir una amistat íntima o una enemistat manifesta amb qualsevol de les parts del procediment, els seus advocats o els seus procuradors.i) Haver participat en el procediment amb anterioritat, o haver-lo resolt, en qualitat d’advocat, procurador, representant del Ministeri Fiscal, batlle o membre de l’òrgan que ha dictat la resolució judicial o arbitral, l’acte administratiu, l’acord de mediació elevat a escriptura pública, o l’homologació judicial de l’acord de mediació, la transacció o conveni, objecte d’execució.
+2. El saig també pot abstenir-se en els casos justificats en què consideri que, en l’exercici de les seves funcions, la seva independència o imparcialitat es poden veure compromeses.
+3. La impugnació de l’abstenció i la recusació del saig són resoltes pel batlle o el tribunal que va dictar la resolució que s’està executant o es pretén executar, o, quan es tracti d’un acte administratiu, pel batlle o el tribunal de la Secció Administrativa de la Batllia a qui correspongui per torn.
+4. Si, arran de la concurrència de causes d’abstenció o recusació, cap saig no pot exercir les funcions que té encomanades, l’execució forçosa de la resolució judicial o arbitral, de l’acte administratiu, de l’acord de mediació elevat a escriptura pública o de l’acord de mediació, la transacció o el conveni homologat judicialment de caràcter executori correspon a l’òrgan jurisdiccional o administratiu competent en defecte del saig.
+5. El saig no pot participar en les subhastes públiques que convoca i tampoc no ho poden fer els seus mitjans humans, els seus cònjuges o convivents, la persona amb qui mantingui una situació de convivència anàloga o un parent en línia recta, o en línia col·lateral per consanguinitat o adopció fins al segon grau inclòs o per afinitat fins al segon grau inclòs.
 
 **Article 7. Honoraris i despeses**
 
-$26
+1. Els serveis del saig són remunerats sota la forma d’honoraris. Els honoraris del saig es meriten en el moment en què es dicta l’acord d’execució o el requeriment de pagament. Aquests honoraris es fixen d’acord amb el barem aprovat reglamentàriament pel Govern, a proposta, no vinculant, de la Cambra de Saigs.
+2. El saig ha de donar coneixement a la persona executant de l’import previsible de les despeses d’execució que ha de satisfer, corresponents a la totalitat del procediment d’execució previst.
+El saig ha de ser rescabalat de les despeses que hagi pogut avançar, en el marc de l’exercici de les seves funcions.
+3. Els honoraris del saig i les despeses que dimanen de l’exercici de les seves funcions, en cas que no s’ajustin als barems o a les normes vigents i aplicables, es poden impugnar davant el secretari judicial adscrit o que forma part del tribunal que va dictar la resolució judicial que s’està executant o s’ha executat o, quan es tracti d’un acte administratiu, davant el secretari judicial adscrit o que forma part del tribunal de la Secció Administrativa al qual correspongui per torn, d’acord amb el procediment d’impugnació de la taxació de les costes processals que regula la Llei del Codi de procediment civil.
 
 #### Capítol segon. Organització, accés, cessament i formació
 
@@ -47,11 +66,23 @@ El nombre de saigs és fixat per acord del Govern, amb la consulta prèvia de la
 
 **Article 9. Requisits i incompatibilitats**
 
-$28
+1. Per exercir la professió de saig cal complir els requisits següents:
+a) Tenir la nacionalitat andorrana.b) Estar en plena possessió dels drets civils i polítics.c) No estar condemnat per delictes dolosos o per delictes imprudents vinculats a l’exercici de la funció pública o jurisdiccional, mentre no s’hagi produït la cancel·lació dels antecedents penals.d) Estar en possessió com a mínim d’un títol de nivell 4 del Marc andorrà de titulacions d’ensenyament superior en l’àmbit del dret, lliurat o reconegut pel Govern.e) Haver superat les proves d’aptitud tècnica i capacitació corresponents, i haver cursat i tenir validada la formació inicial corresponent.f) No estar incapacitat per a l’exercici de la professió ni trobar-se comprès en cap causa d’incompatibilitat establerta en aquesta Llei, o de prohibició d’exercir la professió.
+2. L’exercici de la professió de saig és incompatible:
+a) Amb l’exercici de qualsevol càrrec públic, sigui electiu o sigui de designació.b) Amb la prestació de serveis en règim estatutari o laboral per compte de l’Administració pública.c) Amb l’exercici de l’advocacia o de la procura, o amb la prestació de serveis remunerats per compte del Col·legi Oficial d’Advocats d’Andorra o del Col·legi Oficial de Procuradors d’Andorra.d) Amb l’exercici de qualsevol altra activitat mercantil, industrial o professional.e) I, en general, amb altres càrrecs o funcions de qualsevol tipus en societats o empreses de negoci, tant públiques com privades.
+3. Són, tanmateix, compatibles amb l’exercici de la professió de saig les activitats relatives a:
+a) La gestió del patrimoni propi o familiar.b) La participació en congressos, conferències, seminaris o cursos.c) La producció i la creació literària, artística, científica i tècnica.d) La docència i la investigació acadèmiques.e) La participació no remunerada en associacions o fundacions sense ànim de lucre.
 
 **Article 10. Selecció**
 
-$2a
+1. La selecció dels saigs es fa per acord del Govern, entre persones que reuneixen els requisits enumerats a l’article 9.1, pel procediment de concurs oposició, que ha de respondre als principis d’objectivitat, publicitat i transparència.
+2. El Govern convoca i prepara el concurs oposició i constitueix el tribunal de selecció que ha de valorar les proves i avaluar els candidats.
+3. En la fase de concurs es valoren els mèrits indicats en els currículums aportats per les persones admeses en el procés de selecció, segons el barem que fa públic el Govern en les bases de la convocatòria, i s’atorga a cada mèrit una ponderació raonable.
+4. En la fase d’oposició, els candidats efectuen com a mínim tres proves: una de caràcter teòric sobre el temari publicat prèviament pel Govern en les bases de la convocatòria; una de caràcter pràctic, en la qual es proposa la resolució d’un o diversos casos, en els àmbits jurídics indicats en les bases de la convocatòria, i una tercera d’idiomes. Les dos primeres proves han de contenir almenys una exposició de caràcter oral. Les bases de la convocatòria indiquen la ponderació de cada prova en la valoració global del procés.
+5. El tribunal de selecció està integrat per sis membres i és presidit pel ministre encarregat de la justícia o el membre al qual delegui aquesta funció. En formen part també el president de la Cambra de Saigs o el membre de la Cambra al qual aquest president delegui la funció, el president del Consell Superior de la Justícia o el membre del Consell al qual delegui aquesta funció, el president del Tribunal Superior de Justícia, el president de la Batllia i un jurista de reconeguda capacitació i experiència designat pel Govern, que ha d’exercir la professió al Principat d’Andorra.
+6. El mateix tribunal valora les dos fases del procés de selecció i fa pública la llista dels candidats que han obtingut la puntuació més alta, en nombre igual al de les places que s’han de cobrir.
+7. El procés de selecció inclou una prova psicotècnica destinada a comprovar que no concorren impediments que incapacitin la persona per exercir la funció de saig. Les bases de la convocatòria estableixen el moment en què té lloc aquesta prova, que té com a resultat una valoració d’apte o de no apte. En cas d’una valoració com a no apte, el candidat queda exclòs de la convocatòria. L’exclusió per aquesta causa no apareix de manera separada o específica a les llistes que es facin públiques sobre els resultats del procés de selecció.
+8. Si queda vacant alguna de les places convocades, sigui perquè les proves no han estat superades o sigui per qualsevol altre motiu, es convoca un nou concurs oposició en el termini improrrogable de tres mesos, amb la finalitat de complir el que disposa l’article 8.
 
 **Article 11. Formació inicial**
 
@@ -86,7 +117,9 @@ a) Per la renúncia, que han de comunicar al ministeri competent en matèria de 
 
 **Article 16. Funcions**
 
-$2c
+1. La Cambra de Saigs té les funcions següents:
+a) Representar de forma exclusiva la professió i defensar els drets i els interessos dels saigs.b) Proposar, en un termini no superior a sis mesos a comptar del primer nomenament dels saigs, les normes internes de funcionament i les normes deontològiques de la professió, complir-les i fer-les complir.c) Proposar els barems relatius als honoraris remuneradors i vetllar perquè siguin aplicats.d) Proposar i aprovar els acords necessaris per al bon desenvolupament de l’exercici de la professió, i vetllar perquè siguin aplicats.e) Vetllar per tal que els saigs puguin exercir la professió d’acord amb els principis d’autonomia, independència i lliure i lleial competència.f) Organitzar i gestionar els torns necessaris per garantir la cobertura i la continuïtat en l’exercici de les funcions atribuïdes als saigs, en els supòsits d’absència, impossibilitat o vacances.g) Col·laborar amb el Govern, especialment amb el ministeri competent en matèria de justícia, i amb la resta d’administracions públiques en les matèries que són de la seva competència.
+2. Les normes i els barems esmentats a les lletres b i c de l’apartat anterior queden sotmesos a l’aprovació prèvia del Govern.
 
 #### Capítol quart. Exercici de la professió
 
@@ -101,7 +134,15 @@ Els saigs han de registrar la seva signatura i el seu segell al ministeri compet
 
 **Article 19. Obligacions**
 
-$2e
+1. Els saigs han de tenir en compte la proporcionalitat entre el valor dels béns i drets i l’import que és objecte d’embargament.
+2. Els saigs han de vetllar perquè la persona embargada i els familiars que en depenen econòmicament puguin viure en condicions dignes.
+3. Els saigs han de portar i custodiar un registre dels expedients i de les diligències efectuades, amb inclusió expressa de les operacions financeres corresponents. En el mateix registre s’han d’incloure, si escau, el tancament i l’arxiu dels expedients.
+Les mencions s’han d’inscriure en el registre en el moment mateix en què s’efectuen les diligències corresponents.
+4. L’arxivament d’un expedient ha de ser comunicat en un termini màxim de quinze dies a l’òrgan que ha dictat la resolució judicial o arbitral, l’acte administratiu, l’acord de mediació elevat a escriptura pública o l’acord de mediació, la transacció o el conveni homologat judicialment que hagi estat executat.
+5. El saig té l’obligació de conservar durant trenta anys, en un arxiu degudament protegit, els expedients arxivats.
+6. Les quantitats rebudes pel saig relatives a les execucions de les resolucions judicials o arbitrals, dels actes administratius, dels acords de mediació elevats a escriptura pública o dels acords de mediació, les transaccions i els convenis homologats judicialment han de ser dipositades, en el termini màxim de cinc dies hàbils des que les percep, en un compte especial obert en els llibres de l’Autoritat Financera Andorrana o de l’organisme que la pugui substituir en el futur amb les mateixes funcions, un cop feta la deducció dels imports corresponents a les despeses i els honoraris relatius al procediment d’execució, de conformitat amb el barem aprovat pel Govern. No obstant això, el termini que estableix aquesta obligació pot ser ampliat en virtut dels convenis signats amb les persones i les entitats públiques i privades quan, per raons del volum o la planificació corresponent, sol·licitin l’agrupament de les liquidacions.
+7. Els saigs tenen l’obligació, en l’exercici de les seves funcions, d’emprar els programes informàtics i comptables que determini reglamentàriament el Govern. El ministeri competent en matèria de justícia, en el marc de les funcions de control de l’activitat que duen a terme els saigs, té accés en tot moment a la comptabilitat dels saigs.
+8. Sense perjudici de les obligacions comptables i fiscals que els corresponen en la seva condició de professionals titulats, els saigs han de fer auditar els seus comptes anyalment.
 
 **Article 20. Deure d’assegurança**
 
@@ -112,7 +153,8 @@ $2e
 
 **Article 21. Control de les activitats d’execució**
 
-$30
+1. El saig executa les resolucions judicials o arbitrals, els actes administratius, els acords de mediació elevats a escriptura pública o els acords de mediació, transaccions i convenis homologats judicialment, de caràcter executori, per delegació i sota el control de l’òrgan jurisdiccional o administratiu o del tribunal arbitral que ha dictat la resolució judicial o l’acte administratiu.
+2. La impugnació dels acords del saig ha de ser coneguda i resolta per l’òrgan que ha dictat la resolució judicial o l’acte administratiu executoris, o l’altre òrgan al qual correspongui, d’acord amb les lleis aplicables, i de conformitat amb les normes de la Llei del Codi de procediment civil o de la Llei de bases de l’ordenament tributari, segons el cas. No obstant això, la impugnació de les actuacions o les diligències que hagi portat a terme el saig durant la tramitació del procediment d’execució es tramita i es resol davant el mateix saig, d’acord amb el procediment que regula la Llei del Codi de procediment civil a aquest efecte.
 
 **Article 22. Control de l’activitat del saig**
 
@@ -131,7 +173,12 @@ El ministre encarregat de la justícia nomena la persona o les persones amb comp
 
 **Article 24. Òrgan disciplinari**
 
-$32
+1. La potestat disciplinària és exercida per l’òrgan disciplinari, que està integrat pels membres següents:
+a) El president de la Cambra de Saigs o, si escau, la persona que el substitueixi o el supleixi en el càrrec, d’acord amb el que estableixin les normes de funcionament intern de la Cambra.b) Dos representants del ministeri encarregat de la justícia, designats pel ministre entre funcionaris o agents de l’Administració de caràcter indefinit que ocupin llocs de treball de direcció, comandament o responsabilitat.c) Un representant del ministeri encarregat de les finances, designat pel ministre entre funcionaris o agents de l’Administració de caràcter indefinit que ocupin un lloc de treball de direcció, comandament o responsabilitat.
+2. Les reclamacions o les queixes que es puguin formular contra un saig s’adrecen al ministre encarregat de la justícia, el qual les comunica al president de la Cambra de Saigs o, si escau, a la persona que el substitueixi o el supleixi en el càrrec.
+3. Si en el decurs de la tramitació d’un expedient disciplinari es manifesten indicis de conductes que poden constituir una infracció penal, l’òrgan disciplinari ho ha de posar en coneixement de l’òrgan jurisdiccional competent i suspendre, tot seguit, la tramitació de l’expedient esmentat, la qual cosa interromp el còmput dels terminis de prescripció i caducitat, fins que recaigui una resolució ferma en l’àmbit penal.
+D’altra banda, quan s’estigui instruint o jutjant un procés penal pels mateixos fets que han originat o han de comportar la incoació d’un expedient disciplinari, o per altres fets que hi estiguin íntimament vinculats, s’ha d’iniciar la tramitació de l’expedient disciplinari, si no s’ha iniciat amb anterioritat, i se’n suspèn tot seguit la tramitació, la qual cosa interromp el còmput dels terminis de prescripció o caducitat, fins que recaigui una resolució ferma en l’àmbit penal.
+En qualsevol cas, la declaració de fets provats que pugui fer el tribunal penal és vinculant per a l’òrgan disciplinari.
 
 **Article 25. Drets**
 
@@ -140,7 +187,13 @@ a) Dret a ser informat dels fets que se li imputen, de les infraccions que aques
 
 **Article 26. Procediment disciplinari**
 
-$34
+1. El procediment disciplinari l’inicia l’òrgan disciplinari mitjançant la incoació d’un expedient disciplinari, arran de les comunicacions esmentades als articles 22.3 o 24.2, que es tramita amb respecte dels principis generals del règim sancionador.
+2. L’òrgan disciplinari designa un instructor entre els seus membres per instruir l’expedient i formular, en el termini màxim d’un mes, el plec de càrrecs corresponent, que ha d’incloure els fets imputats, amb expressió de les infraccions presumptament comeses i de les sancions que siguin aplicables.
+3. L’òrgan disciplinari ha de notificar per escrit al saig expedientat la incoació de l’expedient, l’instructor designat i el plec de càrrecs. El saig expedientat disposa d’un termini de deu dies hàbils per fer al·legacions i sol·licitar, si és el cas, la pràctica de les proves que entengui necessàries per a la seva defensa.
+Contestat el plec de càrrecs o transcorregut el termini sense fer-ho, l’instructor pot practicar les proves sol·licitades que consideri oportunes en el termini d’un mes. Posteriorment, ha de donar vista de l’expedient al saig expedientat, per tal que en el termini de deu dies hàbils formuli les conclusions que estimi convenients.
+4. L’òrgan disciplinari, del qual no pot formar part l’instructor designat, ha de proposar en el termini de quinze dies hàbils la resolució corresponent, la qual ha de ser motivada i no pot incloure fets diferents dels que han fonamentat el plec de càrrecs, sense perjudici de la valoració jurídica que se’n faci.
+La proposta de resolució s’adopta amb el vot favorable de la majoria dels membres de l’òrgan disciplinari, excepte el de l’instructor designat, i s’eleva al ministre competent en matèria de justícia perquè la resolgui quan es tracti de fets qualificats com a infraccions lleus o greus, o al Govern quan es tracti de fets qualificats com a infraccions molt greus. Si els mateixos fets poden ser constitutius de més d’una falta amb una classificació distinta, és competent per resoldre l’expedient disciplinari l’òrgan que ho sigui per raó de la falta més greu. En cas que la resolució sigui sancionadora, s’han de determinar amb precisió les infraccions comeses, els preceptes en què romanen tipificades i les sancions imposades.
+5. La resolució de l’expedient disciplinari no exhaureix la via administrativa i pot ser impugnada en els termes que estableix el Codi de l’Administració.
 
 **Article 27. Mesures cautelars**
 
@@ -149,19 +202,41 @@ $34
 
 **Article 28. Infraccions**
 
-$36
+1. Són infraccions les conductes establertes com a tals per aquesta Llei, relacionades amb l’exercici de la professió de saig.
+2. Les infraccions es classifiquen en molt greus, greus i lleus.
+3. Són infraccions molt greus:
+a) L’exercici de la professió sense haver estat nomenat pel Govern o havent cessat en les funcions de saig.b) L’exercici de la professió en un supòsit d’inhabilitació professional o suspensió cautelar, o en un supòsit d’incompatibilitat o de prohibició d’exercir la professió.c) No dipositar en els llibres de l’Autoritat Financera Andorrana, o de l’organisme que la pugui substituir en el futur amb les mateixes funcions, les quantitats percebudes en el marc dels procediments d’execució, en el termini fixat a l’article 19.6, sempre que es faci de forma intencionada, amb ànim manifest de frau o de forma reiterada.d) L’incompliment de l’obligació de portar i custodiar un registre dels expedients i les diligències efectuades, d’acord amb l’article 19.1.e) L’incompliment de les obligacions o dels deures professionals establerts en aquesta Llei o en les normes deontològiques, quan en resulti un perjudici molt greu per a les persones que hagin contractat els serveis del saig, per a la persona objecte del procediment d’execució o per a tercers.f) La vulneració del deure de secret professional.g) La vulneració de la prohibició d’associacions en el sentit establert a l’article 17.h) La condemna ferma per la comissió d’un delicte dolós, en qualsevol grau de participació, que es produeixi com a conseqüència de l’exercici de la professió.i) L’incompliment del deure de disposar d’una assegurança.j) La comissió de dues infraccions greus, encara que siguin de distinta naturalesa, sempre que es cometin dins el període d’un any des de la primera de les infraccions i que l’autor hagi estat sancionat per aquesta infracció.
+4. Són infraccions greus:
+a) L’incompliment de les obligacions o dels deures professionals establerts en aquesta Llei o en les normes deontològiques, quan en resulti un perjudici greu per a les persones que hagin contractat els serveis del saig, per a la persona objecte del procediment d’execució o per a tercers, i sempre que no constitueixi una infracció molt greu.b) L’incompliment de les normes vigents en matèria d’execució forçosa de les resolucions judicials o els actes administratius.c) No abstenir-se d’exercir les funcions en els supòsits de l’article 6.1 o exercir-les malgrat l’existència d’un conflicte d’interès.d) La negativa del saig a prestar els seus serveis sense causa justificada o la prestació dels seus serveis de forma negligent.e) La comissió de dues infraccions lleus, encara que siguin de distinta naturalesa, sempre que es cometin dins el període de sis mesos des de la primera de les infraccions i que l’autor hagi estat sancionat per aquesta infracció.
+5. És infracció lleu la vulneració de qualsevol disposició que reguli l’activitat professional, incloses les normes deontològiques, sempre que no constitueixi una infracció greu o molt greu.
 
 **Article 29. Prescripció de les infraccions**
 
-$38
+1. Les infraccions molts greus prescriuen al cap de quatre anys, les greus, al cap de dos anys, i les lleus, al cap de sis mesos. Aquests terminis es computen a partir de la data del dia de cessament de l’acció o l’omissió susceptible de constituir infracció.
+2. El termini de prescripció s’interromp per qualsevol denúncia adreçada a l’òrgan disciplinari del saig, a partir del moment en què aquest òrgan en tingui coneixement, o per qualsevol actuació efectuada amb coneixement formal de la persona interessada que s’adreci a la iniciació, la tramitació o la resolució de l’expedient disciplinari.
+La interrupció deixa de tenir efecte si no s’incoa l’expedient disciplinari o queda paralitzat durant més de sis mesos per causa no imputable a l’infractor. En aquest cas, el còmput del termini de prescripció s’inicia de nou a partir de la data de la darrera actuació que consti en l’expedient disciplinari.
+3. En el cas de suspensió de la tramitació de l’expedient per causa de prejudicialitat penal, el termini de prescripció de la infracció resta suspès fins que l’òrgan disciplinari tingui constància fefaent de la resolució ferma recaiguda en l’àmbit penal.
 
 **Article 30. Sancions**
 
-$3a
+1. Les infraccions molt greus poden ser objecte de les sancions següents:
+a) Expulsió de la professió.b) Inhabilitació professional durant un període no superior a cinc anys.c) Multa no inferior a 5.001 euros i no superior a 50.000 euros.
+2. Les infraccions greus poden ser objecte de les sancions següents:
+a) Inhabilitació professional durant un període no superior a un any.b) Multa no inferior a 1.001 euros i no superior a 5.000 euros.
+3. Les infraccions lleus poden ser objecte de les sancions següents:
+a) Amonestació escrita.b) Multa no superior a 1.000 euros.
+4. Les sancions d’expulsió de la professió, d’inhabilitació professional i d’amonestació escrita, com a conseqüència d’una mateixa infracció, són compatibles amb la sanció de multa.
+5. En el cas d’infraccions molt greus i greus també es pot imposar, com a sanció complementària, l’obligació de dur a terme activitats de formació professional o deontològica, quan la infracció s’hagi produït a causa de l’incompliment de deures que afectin la deontologia professional.
+6. Si qui ha comès la infracció n’ha obtingut un guany econòmic, la sanció de multa es pot ampliar fins a l’import del profit obtingut.
+7. Les sancions només són executives quan la resolució que les imposa sigui ferma, pel fet de no ser susceptible de recurs administratiu o jurisdiccional.
 
 **Article 31. Inhabilitació professional i expulsió**
 
-$3c
+1. La sanció d’inhabilitació professional impedeix l’exercici professional durant el temps per al qual ha estat imposada.
+En el cas d’inhabilitació professional, la Cambra de Saigs nomena, entre els seus membres, una persona substituta per gestionar provisionalment el despatx professional del saig inhabilitat. Durant aquest període de temps, no són aplicables, si escau, les disposicions de l’article 8.
+Quan en una mateixa persona concorrin diverses sancions d’inhabilitació successives, el termini establert en cadascuna de les sancions comença a comptar a partir del compliment definitiu de la sanció anterior.
+2. La sanció d’expulsió impedeix a la persona sancionada exercir la professió de saig i concórrer novament a un eventual concurs oposició per a la selecció de saigs fins que hagin transcorregut vuit anys, com a mínim.
+En el cas d’expulsió de la professió, la Cambra de Saigs adopta les decisions oportunes en relació amb el despatx professional del saig expulsat. Si escau i de forma provisional, no són aplicables les disposicions de l’article 8.
 
 **Article 32. Graduació de les sancions**
 
@@ -189,23 +264,50 @@ La responsabilitat disciplinària s’extingeix pel compliment de la sanció, la
 
 **Article 36. Disposicions generals**
 
-$3e
+1. Per delegació de l’autoritat judicial o administrativa i a instància de la persona executant, els saigs duen a terme l’execució forçosa de les resolucions judicials o els actes administratius que siguin executoris d’acord amb les llei aplicables, i que consisteixen en el pagament d’una quantitat líquida determinada o que esdevé determinable amb simples operacions aritmètiques, sense que l’òrgan competent hagi de fixar els paràmetres necessaris per determinar-la, per mitjà del procediment que regula aquesta Llei.
+2. Els saigs duen a terme igualment l’execució forçosa de les resolucions judicials o els actes administratius que siguin executoris d’acord amb les lleis aplicables, i que consisteixen a complir obligacions de fer, de no fer o d’entregar una cosa diferent d’una quantitat de diners, només pel que fa al pagament de les quantitats líquides que formen part de l’execució o que en dimanen.
+3. Els saigs també duen a terme l’execució dels laudes o resolucions arbitrals, dels acords de mediació que hagin estat elevats a escriptura pública, o de les transaccions o convenis homologats mitjançant una resolució judicial, que consisteixen a pagar una quantitat líquida, o que consisteixen a complir obligacions de fer, de no fer o d’entregar una cosa diferent d’una quantitat de diners, només pel que fa al pagament de les quantitats líquides que formen part de l’execució o que en dimanen.
+4. En complement de les competències establertes als apartats 1 a 3 anteriors, els saigs poden dur a terme l’execució forçosa de les costes processals, inclosos els honoraris d’advocats i procuradors, que s’imposin en els pronunciaments de les resolucions judicials fermes i definitives, en les resolucions arbitrals, en els acords de mediació elevats a escriptura pública, o en les transaccions o els convenis homologats mitjançant una resolució judicial.
 
 **Article 37. Sol·licitud d’execució**
 
-$40
+1. La persona executant que sol·licita prop del saig l’execució forçosa d’una resolució judicial o arbitral, d’un acte administratiu, d’un acord de mediació elevat a escriptura pública o d’un acord de mediació, una transacció o un conveni homologat judicialment ho ha de fer mitjançant un escrit a aquest efecte, en què ha de constar la identificació i, quan es conegui, el domicili de la persona executada; i a l’escrit, hi ha d’adjuntar:
+a) Una còpia autenticada de la resolució judicial o arbitral, de l’acte administratiu, de l’acord de mediació elevat a escriptura pública o de l’acord de mediació, la transacció o el conveni homologat judicialment, de caràcter executori.b) En el supòsit de l’execució forçosa d’una resolució judicial, l’original de la certificació estesa per l’òrgan jurisdiccional competent que faci constar que aquesta resolució és ferma, i que fixi les quantitats que hagin estat dipositades, consignades i satisfetes durant la tramitació del procés. En el cas de la certificació estesa per l’òrgan jurisdiccional de primera instància, també cal indicar si s’ha interposat o no un recurs contra la resolució de primera instància. L’òrgan jurisdiccional competent ha d’estendre i lliurar la certificació esmentada en el termini màxim de cinc dies hàbils des que la persona executant li ho sol·liciti.c) En el supòsit de l’execució forçosa d’un acte administratiu, una còpia de la provisió de constrenyiment dictada per l’òrgan administratiu competent.d) En el supòsit de l’execució forçosa de costes processals, les minutes dels honoraris d’advocat i procurador en què es detallin les actuacions que s’han portat a terme en la prestació dels serveis encomanats en el marc del procediment principal en totes les seves instàncies i de l’execució, les factures de les despeses i els altres documents que justifiquen les bestretes pagades. Les minutes dels honoraris d’advocat i de procurador han de ser conformes a les normes de la professió de què es tracti i que hagin estat aprovades a aquest efecte, a excepció de les que ja s’hagin pactat a la transacció o al conveni homologat judicialment.
+2. A la sol·licitud d’execució, la persona executant ha de precisar:
+a) La tutela que vol exercitar d’acord amb la resolució judicial o arbitral, l’acte administratiu, l’acord de mediació elevat a escriptura pública o l’acord de mediació, la transacció o el conveni homologat judicialment, de caràcter executori.b) La quantitat per la qual sol·licita que es despatxi l’execució forçosa.c) Els actes concrets que són necessaris per acomplir l’obligació continguda en la resolució judicial o arbitral, l’acte administratiu, l’acord de mediació elevat a escriptura pública o l’acord de mediació, la transacció o el conveni homologats judicialment, i els actes que escaiguin en cas d’incompliment de la part executada.
+3. A la sol·licitud d’execució, la part executant també pot afegir les peticions i les dades següents:
+a) Els béns i els drets de la persona executada que siguin susceptibles de ser embargats i dels quals tingui coneixement, i si els considera suficients per garantir l’execució.b) Les mesures de localització i investigació dels béns i drets de la persona executada que consideri necessàries.c) Les mesures executives que la persona executant consideri adients per complir amb el que disposa la resolució judicial o l’acte administratiu de caràcter executori.d) L’ampliació de l’execució als terminis de venciment futur de la mateixa obligació continguda en la resolució judicial o l’acte administratiu i en virtut de la qual l’execució és procedent. En aquest cas, la persona executant ha de facilitar un resum dels terminis i les quantitats que venceran en el futur.
+4. Els saigs, en el marc de l’execució forçosa de les resolucions judicials o arbitrals, dels actes administratius, dels acords de mediació elevats a escriptura pública o dels acords de mediació, les transaccions i els convenis homologats judicialment de caràcter executori, resten sotmesos a les normes de la Llei del Codi de procediment civil, de la Llei de la jurisdicció administrativa i fiscal, del Codi de l’Administració i de la Llei de l’embargament, en allò que no contradigui aquesta Llei.
 
 **Article 38. Acord d’execució i requeriment**
 
-$42
+1. En el termini màxim d’un mes des de la recepció de la sol·licitud d’execució forçosa d’una resolució judicial o arbitral, o un acord de mediació elevat a escriptura pública o un acord de mediació, una transacció o un conveni homologat judicialment de caràcter executori, i llevat que hagi decidit denegar el despatx de l’execució pels motius que estableix la Llei del Codi de procediment civil, el saig dicta un acord d’execució que:
+a) Determina les quantitats que eventualment s’han de satisfer en concepte de principal, interessos, costes processals, inclosos, si escau, els honoraris d’advocat i procurador, i les costes de l’execució, i altres conceptes justificats, així com les quantitats que hagin estat dipositades, consignades i satisfetes durant la tramitació del procés, d’acord amb la certificació estesa en aquest sentit per l’òrgan jurisdiccional competent, i especifica a quins dels conceptes esmentats s’imputen les quantitats.b) Identifica la persona executada i, si n’hi ha més d’una, fixa les quantitats que ha de satisfer cadascuna pels conceptes esmentats a la lletra a anterior, tenint en compte el règim de responsabilitat de la persona condemnada o de les persones condemnades, si n’hi ha més d’una.c) Requereix a la persona executada que en el termini màxim de tretze dies hàbils pagui el deute i dipositi al seu despatx professional l’import que és objecte de l’execució, en concepte de principal, interessos i costes.
+2. El saig pot incloure a l’acord d’execució, quan així ho hagi demanat la persona executant, el venciment futur dels terminis de la mateixa obligació continguda en la resolució judicial o l’acte administratiu de caràcter executori i en virtut de la qual l’execució és procedent, tot advertint la persona executada de l’obligació de pagament que en resulti.
+3. En el supòsit de l’execució forçosa d’un acte administratiu, el saig només adreça un requeriment a la persona executada, en el termini màxim d’un mes des de la recepció de la sol·licitud d’execució, en què li atorga un termini màxim de tretze dies hàbils per pagar el deute i dipositar al seu despatx professional l’import que és objecte de l’execució, en concepte de principal, interessos i costes de l’execució i, si escau, d’acord amb la Llei de bases de l’ordenament tributari, en concepte de recàrrecs.
+4. El requeriment, tant si forma part de l’acord d’execució com si es fa de forma aïllada, ha de contenir:
+a) La identificació i, quan es conegui, el domicili de la persona obligada al pagament.b) El concepte i l’import del deute, inclosos el capital i els accessoris, que és objecte del requeriment.c) Un requeriment exprés per al pagament del deute en el termini de tretze dies hàbils a comptar de la notificació.d) L’advertència que si no s’ingressa l’import total del deute pendent dins del termini esmentat es procedirà a l’embargament dels béns i drets de la persona obligada al pagament.e) La identificació de la resolució judicial o l’acte administratiu que es pretén executar, i també de la provisió de constrenyiment, si escau.f) La data d’emissió del requeriment.
+5. L’acord d’execució i el requeriment s’han de notificar a la persona executada mitjançant una comunicació fefaent lliurada personalment pel saig o pel nunci facultat per delegació expressa del saig, o bé a través de qualsevol mitjà electrònic que permeti assegurar la identitat de l’emissor i la del receptor, quan se’n conegui l’adreça electrònica autoritzada per rebre notificacions, o mitjançant una carta certificada amb avís de recepció, quan se’n conegui el domicili. En cas contrari, i també quan la recepció de la comunicació o notificació hagi resultat infructuosa, el saig, a l’efecte de notificació, publica l’acord d’execució i el requeriment al
+Butlletí Oficial del Principat d’Andorra
+, de conformitat amb les normes generals en matèria de notificacions.
+6. L’acord d’execució pot ser impugnat davant del batlle o el tribunal que ha dictat la resolució judicial en primera instància o que hagi homologat l’acord de mediació, la transacció o el conveni que es pretén executar, dins els tretze dies hàbils següents al dia en què es notifiqui. Aquesta impugnació es tramita i es resol de conformitat amb les normes sobre l’oposició a l’execució forçosa que regula la Llei del Codi de procediment civil.
+L’acord d’execució d’una resolució arbitral d’un acord de mediació elevat a escriptura pública pot ser impugnat davant el tribunal de la secció civil del Tribunal de Batlles a qui correspongui per torn.
+7. En cas que la persona executada no estigui conforme amb l’import corresponent a les costes processals reclamades per la part executant, ho ha de notificar al saig dins els tretze dies hàbils següents al dia en què se li notifiqui l’acord d’execució. Una vegada rebuda la notificació referida, el saig ha de traslladar-la a la persona executant a l’efecte que insti el procediment de sol·licitud d’execució de les costes processals que regula la Llei del Codi de procediment civil.
 
 **Article 39. Acord d’embargament**
 
-$44
+1. L’acte d’embargament s’inicia amb l’acord d’embargament del saig, que s’ha de notificar a la persona executada de la mateixa manera que estableix l’article 38.5, quan se’n conegui el domicili o l’adreça electrònica autoritzada per rebre notificacions. En cas contrari, o quan la recepció de la carta en què s’instava el pagament hagi estat infructuosa, la notificació s’ha de fer mitjançant la publicació de l’acord d’embargament al
+Butlletí Oficial del Principat d’Andorra
+.
+2. L’acord d’embargament ha de contenir:
+a) La identificació i, quan es conegui, el domicili de la persona embargada.b) L’import que és objecte de l’embargament.c) La identificació de la resolució judicial o arbitral, o l’acord de mediació elevat a escriptura pública o l’acord de mediació, la transacció o del conveni homologat judicialment de caràcter executori o l’acte administratiu que es pretén executar, i també de l’acord d’execució o de la provisió de constrenyiment.d) La data d’emissió de l’acord.
+3. L’acord d’embargament pot ser impugnat en la mateixa forma que estableix l’article 38.6 o, quan es tracti d’un acte administratiu, davant del batlle o el tribunal de la Secció Administrativa de la Batllia a qui correspongui per torn.
 
 **Article 40. Pràctica de l’embargament**
 
-$46
+1. Un cop notificat l’acord d’embargament d’acord amb l’article 39.1, el saig ha de practicar, si escau, l’embargament dels béns i drets de la persona executada en el termini màxim de quinze dies naturals, de conformitat amb la normativa aplicable en la matèria, en quantia suficient per cobrir:
+a) L’import principal del deute i, si escau, d’acord amb la Llei de bases de l’ordenament tributari, dels recàrrecs.b) Els interessos meritats i que es meritin fins a la data del cobrament efectiu del deute.c) Qualsevol altra quantitat fixada a la resolució o l’acord objecte d’execució.d) Les costes processals, inclosos els honoraris d’advocat i de procurador.e) Les costes de l’execució.
+2. Amb independència que l’acord d’embargament hagi estat impugnat, i llevat que l’òrgan competent decideixi suspendre el procediment d’execució, el saig ha de practicar l’embargament dels béns i drets de la persona executada. Tanmateix, no pot alienar els béns i drets embargats fins que la impugnació hagi estat resolta definitivament.
 
 **Article 41. Alienació dels béns i drets embargats**
 
@@ -217,7 +319,11 @@ El saig suspèn el procediment d’execució d’una resolució judicial d’aco
 
 **Article 42. Acabament i sobreseïment del procediment d’execució**
 
-$48
+1. El procediment d’execució acaba:
+a) Amb el pagament voluntari per la persona executada de l’import que és objecte de l’execució, en concepte de principal, interessos i costes i, si escau, d’acord amb la Llei de bases de l’ordenament tributari, en concepte de recàrrecs.b) Amb la cancel·lació total del deute per l’import i en els conceptes esmentats a la lletra a anterior, per mitjà de l’aplicació del producte de l’alienació dels béns i drets embargats.c) Amb un acord de les parts formalitzat davant del saig.d) Amb el desistiment formal de la part executant; en aquest cas, ha de satisfer les costes i les despeses meritades en el procediment d’execució.
+2. El procediment d’execució se sobreseu provisionalment si el deute que és objecte de l’execució és totalment o parcialment incobrable. En aquest cas, el procediment d’execució pot continuar a instància de la persona executant si té notícia posterior de la solvència de la persona executada.
+3. En els supòsits assenyalats als apartats anteriors, el saig dicta un acord en què decideix l’arxivament o el sobreseïment provisional del procediment d’execució, respectivament. El saig ha de comunicar aquest acord al batlle o el tribunal que ha dictat la resolució judicial o arbitral, o a l’òrgan que ha dictat l’acord de mediació elevat a escriptura pública o l’acord de mediació, la transacció o el conveni homologats judicialment de caràcter executori que s’està executant.
+Aquest acord pot ser impugnat en la mateixa forma que estableix l’article 39.3.
 
 **Article 43. Costes**
 

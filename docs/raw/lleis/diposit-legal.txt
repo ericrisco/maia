@@ -19,7 +19,12 @@ L’objecte d’aquesta Llei és regular el dipòsit legal i el seu funcionament
 
 **Article 3. Funcions de la Biblioteca Nacional**
 
-$1e
+1. La Biblioteca Nacional és la principal institució responsable de la coordinació de les activitats de recopilació i conservació dels materials als quals fa referència aquesta Llei, com també de la inspecció i seguiment del compliment d’aquesta Llei.
+2. La Biblioteca Nacional també és la institució encarregada de decidir sobre els materials objecte de l’obligació de dipòsit legal.
+3. La Biblioteca Nacional elabora una llista de la bibliografia nacional de forma periòdica, a partir dels materials dipositats, que ha de ser publicada per a coneixement general pels mitjans, incloent-hi els electrònics, que la Biblioteca Nacional decideixi.
+4. Tanmateix, la Biblioteca Nacional posa a disposició de tots els interessats el material objecte d’aquesta Llei únicament per fer consultes.
+5. La Biblioteca Nacional cedeix a l’Arxiu Nacional la conservació de les produccions cinematogràfiques, televisives i radiofòniques referides a l’|article 5.2, lletra p, d’aquesta Llei.
+6. En desplegament de les funcions establertes en aquest article, la Biblioteca Nacional ha de designar un equip intern de treball, integrat per almenys una persona membre per a cadascuna de les funcions de recopilació, conservació i inspecció, i coordinat per una persona membre de la mateixa institució.
 
 **Article 4. Centres de conservació i custòdia**
 
@@ -30,21 +35,33 @@ $1e
 
 **Article 5. Materials objecte de dipòsit legal**
 
-$20
+1. Són objecte de dipòsit legal tots els materials, sigui quin sigui el seu suport, creats, editats o produïts per qualsevol tipus de procediment conegut en l’actualitat o que pugui aparèixer en un futur, que compleixin alguna de les condicions següents:
+a) Que estiguin editats (incloses les autoedicions) o produïts al territori del Principat d’Andorra.b) Que estiguin destinats a publicar-se, ja sigui de manera gratuïta o onerosa, en una quantitat d’exemplars suficient que pugui satisfer raonablement la demanda del seu públic objectiu.
+2. Els materials objecte de dipòsit legal, en suport tangible o intangible, són, a títol orientatiu i no limitatiu, els següents:
+a) Llibres, sigui quina sigui l’índole del seu contingut.b) Fascicles, fullets i separates d’articles de revista, sigui quina sigui l’índole del seu contingut.c) Documents amb finalitat de difusió i que no constitueixen propaganda essencialment comercial.d) Publicacions periòdiques, com són anuaris, memòries, revistes i diaris impresos.e) Publicacions d’impressió sota demanda.f) Partitures musicals.g) Làmines, estampes, goigs, cromos, postals, naips i anuncis artístics.h) Mapes, plànols i atles geogràfics.i) Cartells anunciadors i publicitaris, així com la propaganda electoral.j) Postals il·lustrades.k) Diapositives, transparències i microformes.l) Encartaments filatèlics.m) Fonogrames.n) Enregistraments videogràfics.o) Fotografies.p) Produccions cinematogràfiques, televisives i radiofòniques, sigui quina sigui l’índole del seu contingut.q) Programes d’ordinador i bases de dades.r) Documents electrònics no accessibles lliurement a través d’Internet.s) Reedicions, reimpressions amb variacions, versions modificades i actualitzacions.t) Videojocs.
 
 **Article 6. Material exclòs de dipòsit legal**
 
-$22
+1. Queden exclosos de dipòsit legal els materials següents, ja siguin en suport tangible o intangible:
+a) Documentació administrativa, impresos d’oficina i formularis.b) Documents d’institucions, organitzacions i administracions públiques i privades de caràcter intern, tals com circulars, instruccions o manuals de procediment.c) Segells de correus.d) Impresos de caràcter social o particular, com són invitacions de casaments i bateigs, esqueles mortuòries, targetes de visita, passaports, títols, diplomes i altres sempre que no duguin gravats artístics o textos literaris.e) Catàlegs i impresos de caràcter comercial sense gravats artístics ni textos explicatius de caràcter tècnic o literari.f) Dossiers de premsa i reculls de còpies.g) Manuals d’instruccions d’objectes, electrodomèstics, maquinària o anàlegs, així com documents amb informacions de prospecció farmacològica.h) Patents, dissenys o models industrials.i) Reimpressions idèntiques a l’edició original.j) Publicacions d’impressió sota demanda destinades a ús familiar.k) Objectes tridimensionals que acompanyin un document original objecte de dipòsit legal.l) Calendaris i agendes sense gravats artístics ni textos explicatius de caràcter tècnic o literari.
+2. En cas de dubte en relació amb la inclusió o l’exclusió d’un material de l’obligació de dipòsit legal, els subjectes obligats han de presentar una sol·licitud de determinació de l’obligació de dipòsit legal. La Biblioteca Nacional dirimeix de manera fonamentada si es tracta d’un material inclòs o exclòs de l’obligació de dipòsit legal. Les condicions i els aspectes procedimentals relatius a aquesta disposició s’estableixen reglamentàriament.
 
 **Article 7. Exempció parcial de l’obligació de dipòsit legal**
 
-$24
+1. La persona encarregada de l’edició pot sol·licitar de manera argumentada i justificada a la Biblioteca Nacional l’exempció de dipòsit legal d’un nombre determinat d’exemplars, en suport tangible, independentment del centre de conservació al qual correspongui el material respectiu.
+2. L’abast de l’exempció parcial correspon al que determini la Biblioteca Nacional, en la seva valoració cas per cas. La Biblioteca Nacional té la facultat d’exigir mesures condicionals futures oportunes i proporcionades per al compliment de l’obligació de dipòsit; per exemple, respecte del dipòsit d’exemplars addicionals en cas de tirades futures o importacions addicionals de la mateixa edició.
+3. En tots els casos, però, cal lliurar un exemplar com a mínim. La Biblioteca Nacional es reserva el dret de decidir respecte a l’estimació de la sol·licitud esmentada. Per tal de concedir l’exempció parcial de l’obligació de dipòsit legal, la Biblioteca Nacional ha de tenir en compte, particularment i sense limitació, els criteris següents:
+a) Existència d’un exemplar únic.b) Que el material constitueixi una edició de luxe o facsímil.c) Afectació desproporcionada als drets econòmics d’autor o veïns als drets d’autor, particularment en relació amb l’expectativa legítima per tirada de materials creats, editats o produïts al Principat d’Andorra.
+4. Les condicions i els aspectes procedimentals relatius a aquesta disposició s’estableixen reglamentàriament.
 
 #### Capítol tercer. Obligació de dipòsit legal i procediment de la sol·licitud d’assignació de número de dipòsit legal
 
 **Article 8. Obligació de dipòsit legal i subjectes obligats**
 
-$26
+1. L’obligació de sol·licitar el número de dipòsit legal i constituir el seu dipòsit recau en la persona encarregada de l’edició o de la producció del material sempre que el material en qüestió hagi estat editat o produït al territori del Principat d’Andorra.
+2. La responsabilitat del dipòsit legal de les publicacions en línia referida a l’article 22 recau en la persona encarregada de la seva edició o producció.
+3. Sense perjudici de l’apartat anterior, s’exonera la persona encarregada de l’edició de les publicacions en línia de la gestió del dipòsit legal. En tot cas, estaran obligats a facilitar la recol·lecció automàtica de les publicacions esmentades quan estiguin lliurement accessibles a Internet o transferir les publicacions d’accés restringit que els siguin sol·licitades per la Biblioteca Nacional, que determinarà quines publicacions en línia i quins recursos es capturaran o dipositaran.
+En el cas que la persona encarregada de l’edició hagués adoptat solucions tecnològiques per evitar accessos o utilitzacions no autoritzades de les seves publicacions, el lliurament o la transferència d’aquestes publicacions es realitzarà d’acord amb les condicions que permetin la seva conservació i accés per part dels centres de conservació, els quals garantiran en tot cas la protecció dels drets d’autor i drets veïns d’acord amb els termes establerts a la legislació vigent en matèria de propietat intel·lectual, així com la protecció de dades de caràcter personal.
 
 **Article 9. Procediment de sol·licitud i d’obtenció del número de dipòsit legal**
 
@@ -60,7 +77,10 @@ $26
 
 **Article 11. Exemplars objecte de dipòsit legal**
 
-$28
+1. Un cop acabada la creació, la producció o l’edició del material objecte de dipòsit legal, i abans de publicar-lo, els subjectes obligats han de constituir el dipòsit legal dels materials respectius davant la Biblioteca Nacional o l’Arxiu Nacional, segons correspongui, mitjançant el lliurament dels exemplars següents:
+a) Tres exemplars dels llibres amb independència del suport, i de cadascuna de les seves enquadernacions o maquetacions digitals.b) Dos exemplars dels fascicles i fullets; dels fulls impresos amb finalitat de difusió i que no constitueixen propaganda essencialment comercial; de les partitures musicals, de les làmines, les estampes, els goigs, els cromos, les postals, els naips i els anuncis artístics; dels mapes, els plànols i els atles geogràfics; dels cartells anunciadors i publicitaris, així com la propaganda electoral; de les postals il·lustrades; dels encartaments filatèlics; de les publicacions periòdiques i de les separates d’articles de revista; dels enregistraments sonors i audiovisuals; de les fotografies editades, les diapositives, les transparències i les microformes; dels documents electrònics d’accés local, en suport òptic digital, i dels videojocs en qualsevol suport.c) Un exemplar dels materials bibliogràfics, gràfics i cartogràfics, amb un tiratge inferior a 30 exemplars, dels programes d’ordinador i les bases de dades, de les obres en sistema Braille, d’edicions bibliogràfiques de luxe o facsímil, d’edicions bibliòfiles limitades i de llibres artístics d’alt valor bibliogràfic.d) En els casos no previstos anteriorment, i segons el suport i el tipus d’obra a dipositar, el nombre d’exemplars s’estableix reglamentàriament.
+2. Tots els materials lliurats s’acompanyen del full de lliurament corresponent o de qualsevol altre mitjà pertinent d’acreditació del lliurament emprat per les institucions designades com a competents als efectes d’aquesta Llei. La Biblioteca Nacional o l’Arxiu Nacional ha de lliurar o posar a disposició del subjecte obligat un duplicat del document acreditatiu de lliurament i constitució del dipòsit, signat i segellat pel Servei.
+3. En cas de rebre algun material malmès, s’ha de substituir per un nou exemplar.
 
 **Article 12. Dipòsit de publicacions mixtes**
 
@@ -73,7 +93,8 @@ En el cas de les publicacions que consten de diverses parts produïdes en difere
 
 **Article 14. Dipòsit de produccions cinematogràfiques**
 
-$2a
+De les produccions cinematogràfiques se n’ha de lliurar:
+a) Un negatiu original i una còpia positiva nova per als migmetratges i llargmetratges, acompanyats de la fitxa artística i del guió literari.b) Un negatiu original i una còpia positiva de qualitat per als curtmetratges, acompanyats de la fitxa artística i del guió literari.c) Per a les produccions cinematogràfiques rodades en fotoquímic, els materials de preservació i una còpia nova, amb so i l’etalonatge en format de 35 mm. En cas que s’hagi produït en un altre format analògic diferent de 35 mm (fotoquímic o magnètic), la còpia nova ha de ser en el format en què s’hagi estrenat.d) En produccions cinematogràfiques rodades en digital, destinades a sales de cinema, dos còpies: un DCP no encriptat de la versió original i un DCDM o equivalent d’alta resolució i de bona qualitat o altres formats de preservació que s’incloguin en una norma d’estandardització.e) En altres produccions cinematogràfiques també es lliura una còpia del material que garanteixi la preservació, a llarg termini, de la versió original, íntegra i emesa, o una còpia en altres formats de preservació que s’incloguin en una norma d’estandardització.
 
 **Article 15. Dipòsit de produccions televisives i radiofòniques**
 
@@ -118,7 +139,8 @@ Les edicions paral·leles editades en diversos suports porten un número de dip�
 
 **Article 22. Publicacions en línia objecte de dipòsit legal**
 
-$2c
+Són objecte de dipòsit legal, juntament amb les metadades que contenen, tots els llocs web i les publicacions que hi continguin, tant les que tinguin un accés lliure com les que tinguin un accés restringit, creades, produïdes o editades per qualsevol tipus de procediment, en qualsevol suport intangible pel qual siguin publicades, sigui quina sigui la localització física del servidor o els servidors, sigui quin sigui el domini que albergui la publicació, i sempre que compleixin alguna de les condicions següents:
+a) Que els llocs web i les publicacions continguin patrimoni bibliogràfic, sonor, visual, audiovisual o digital relatiu al Principat d’Andorra, i sempre que aquestes publicacions no infringeixin la normativa nacional relativa als drets d’autor i als drets veïns als drets d’autor, la normativa relativa a conservació del patrimoni d’interès cultural i qualsevol altra normativa nacional, o que siguin contràries a aquestes normatives.b) Que els llocs web i les publicacions estiguin creades, produïdes o editades per qualsevol persona física o jurídica que tingui la nacionalitat andorrana o tingui la residència legal al Principat d’Andorra.c) Que els llocs web i les publicacions estiguin produïdes o editades sota un nom de domini superior geogràfic del territori del Principat d’Andorra.
 
 **Article 23. Publicacions en línia excloses de dipòsit legal**
 
@@ -152,17 +174,24 @@ El procediment de gestió i constitució del dipòsit legal de les publicacions 
 
 **Article 28. Reproducció dels materials a efectes de conservació**
 
-$2e
+1. La Biblioteca Nacional i l’Arxiu Nacional, en qualitat de centres de conservació, són les úniques institucions amb el dret de fer una còpia dels materials dipositats que escaiguin, sempre que aquesta reproducció es faci en compliment de la legislació vigent en matèria de drets d’autor i drets veïns, perquè puguin acomplir les atribucions que els atribueix aquesta Llei.
+2. Per motius de preservació del material o d’obsolescència dels suports originals dels materials, la Biblioteca Nacional i l’Arxiu Nacional poden reproduir, duplicar o migrar els materials a nous suports per tal de garantir-ne la correcta conservació, l’accés i la consulta del material objecte de dipòsit legal, de conformitat amb el que està establert en la normativa en matèria de drets d’autor i drets veïns als drets d’autor vigent en cada moment.
+3. La Biblioteca Nacional i l’Arxiu Nacional, determinen -en l’àmbit de les seves competències- les pautes internes i els requisits tècnics que s’han de seguir per a l’òptima conservació dels materials objecte de dipòsit, segons les característiques físiques i tècniques dels suports que els contenen. Aquestes línies han de tenir en compte, en tot cas, l’estàndard de conservació establert en les normes tècniques internacionals de conservació vigents respecte de cada tipus de suport.
 
 **Article 29. Consulta dels materials objecte de dipòsit**
 
-$30
+1. Per garantir l’accés i la consulta dels materials objecte de dipòsit legal, la Biblioteca Nacional i, si escau, l’Arxiu Nacional han de permetre’n la consulta en sala dins de les seves instal·lacions i, sempre que es tracti de materials dipositats o conservats en suport digital, posar aquests materials a disposició del públic per a consulta en sala a través d’una xarxa tancada i interna accessible únicament a través de terminals especialitzats instal·lats a la seu d’aquestes institucions.
+2. La Biblioteca Nacional ha d’establir els criteris i les condicions per fer aquesta consulta en sala, de manera que es garanteixi el compliment de la normativa en matèria de drets d’autor i drets veïns als drets d’autor vigent en cada moment i es protegeixen els interessos legítims d’altres titulars, incloent-hi, sense limitació, el compliment de la normativa en matèria de dades personals i de la protecció del dret a la pròpia imatge, la intimitat personal i l’honor. Particularment, els centres de conservació han de garantir que l’exercici del dret de consulta esmentat en cap cas no generi un perjudici dels drets referits, ni afecti desproporcionadament l’interès legítim i raonable d’explotació dels materials.
 
 #### Capítol setè. Infraccions i sancions
 
 **Article 30. Classificació de les infraccions**
 
-$32
+1. L’incompliment de les obligacions establertes en aquesta Llei i la normativa que la desenvolupa té la consideració d’infracció administrativa.
+2. Tenen la consideració d’infraccions lleus:
+a) La no constitució del dipòsit legal del material a què fa referència aquesta Llei, amb el dipòsit del nombre d’exemplars i el termini i el compliment d’altres condicions que s’estableixen en aquesta Llei i en la normativa que la desenvolupa.b) La distribució d’un material sense la inclusió del número de dipòsit legal atorgat d’acord amb el que està establert en aquesta Llei i en la normativa que la desenvolupa.c) La no anul·lació del dipòsit legal en cas que l’obra no s’editi, d’acord amb el que determinen aquesta Llei i la normativa que la desenvolupa.d) El lliurament del material objecte de dipòsit legal fora del termini fixat en aquesta Llei i la normativa que la desenvolupa.
+3. Tenen la consideració d’infraccions greus:
+a) La manipulació fraudulenta o amb dol del número de dipòsit legal.b) La presentació de dades falses per obtenir un número de dipòsit legal.c) L’obstrucció de la inspecció per part de la Biblioteca Nacional.d) La reincidència en la comissió de faltes de caràcter lleu.
 
 **Article 31. Sancions**
 
@@ -173,7 +202,13 @@ a) Per a les infraccions de caràcter lleu, s’imposa una multa d’un import d
 
 **Article 32. Competència i procediment**
 
-$34
+1. La tramitació de l’expedient sancionador correspon a la Biblioteca Nacional d’Andorra.
+2. La instrucció de l’expedient es regeix per aquesta Llei i pel Reglament regulador del procediment sancionador.
+3. Les infraccions comeses pels funcionaris i el personal al servei de les administracions són sancionades d’acord amb el procediment i la normativa sancionadora específics.
+4. Els òrgans competents per resoldre els expedients sancionadors són els següents:
+a) Per a les infraccions lleus, la direcció del departament encarregat de la política de patrimoni cultural.b) Per a les infraccions greus, la persona titular del ministeri encarregat de la política de patrimoni cultural.
+5. El procediment sancionador s’ha de resoldre i notificar en un termini màxim de sis mesos a comptar des de la data de notificació de l’acord d’inici del procediment a la persona o entitat presumptament infractora. S’entén que el procediment conclou en la data en què es considera notificat l’acte administratiu de la resolució.
+6. El venciment del termini establert a l’apartat anterior sense que s’hagi notificat la resolució expressa produeix la caducitat del procediment. La declaració de caducitat es pot dictar d’ofici o a instància de la persona o entitat interessada i provoca l’arxiu definitiu de les actuacions. La caducitat impedeix la iniciació d’un nou procediment sancionador per la mateixa infracció.
 
 **Article 33. Prescripció de les infraccions i de les sancions**
 

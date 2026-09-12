@@ -20,11 +20,14 @@ a) Impulsar models de consum més sostenibles.b) Minimitzar el consum dels produ
 
 **Article 3. Definicions**
 
-$1e
+1. Aquesta Llei fa ús de les definicions de la Llei 25/2004, del 14 de desembre, de residus.
+2. Als efectes d’aquesta Llei, s’apliquen les definicions següents:
+a)Banc d’aliments: organització constituïda amb la finalitat de recuperar els excedents d’aliments per tal d’emmagatzemar-los i distribuir-los a les persones en situació de vulnerabilitat.b)Data de consum preferent / Data de durada mínima d’un aliment: data fins a la qual un aliment manté les propietats específiques sempre que es guardi en condicions de conservació adequades.c)Disseny ecològic: integració dels aspectes mediambientals en el disseny del producte amb la finalitat de millorar-ne el comportament mediambiental al llarg de tot el cicle de vida. S’entén perdisseny del producteel conjunt de processos que transformen els requisits legals, tècnics, de seguretat, funcionals, del mercat o d’un altre tipus que ha de complir un producte en l’especificació tècnica per a aquest producte.d)Excedent alimentari: productes comestibles i per tant, aptes pel consum, però que, per diferents motius, ja no són comercialitzables.e)Malbaratament alimentari: procés pel qual els aliments destinats al consum humà, ja siguin en estat apte o no apte per al consum, són retirats de la cadena de producció o subministrament perquè han estat rebutjats en les fases de producció primària, transformació, fabricació, transport, emmagatzematge, venda minorista i venda al consumidor, entre altres.f)Matèria orgànica del residu urbà: residus orgànics alimentaris i de cuina procedents de llars, oficines, restaurants, majoristes, menjadors, serveis de restauració col·lectiva i establiments de consum al detall, residus comparables procedents de plantes de transformació d’aliments i residus biodegradables de jardins i parcs urbans.g)Plàstics oxodegradables: materials plàstics que inclouen additius que, mitjançant oxidació, provoquen la fragmentació del material plàstic en microfragments o la seva descomposició química.h)Producte de plàstic d’un sol ús: producte fabricat totalment o parcialment amb plàstic i que no ha estat concebut, dissenyat o introduït en el mercat per completar, dins del seu període de vida, múltiples circuits o rotacions mitjançant la seva devolució a un productor per ser emplenat o reutilitzat amb la mateixa finalitat per a la qual va ser concebut.i)Productor del producte: qualsevol persona física o jurídica que desenvolupi, fabriqui, processi, tracti, empleni, vengui o importi productes de forma professional, amb independència de la tècnica de venda utilitzada.j)Règim de responsabilitat ampliada del productor: conjunt de mesures adoptades per garantir que els productors de productes assumeixin la responsabilitat financera o financera i organitzativa de la gestió de la fase de residu del cicle de vida d’un producte.k)Sistema de dipòsit, devolució i retorn: sistema per recuperar determinats residus amb la finalitat de millorar-ne la reutilització, el reciclatge i la valorització.
 
 **Article 4. Principis rectors**
 
-$20
+La normativa de desenvolupament de la Llei i la política d’economia circular s’han de fonamentar en els principis rectors següents i els han de respectar:
+a)Sostenibilitat: les accions que promou aquesta Llei han de satisfer les necessitats de la generació actual sense comprometre la capacitat per satisfer les necessitats de les generacions futures, aplicant-ho en el sentit més ampli i a tota mena d’aspectes en els àmbits socials, ambientals i econòmics.b)Rol exemplar de l’Administració pública: en totes les mesures, les accions i els projectes que es duen a terme en el marc del desenvolupament de l’objecte d’aquesta Llei.c)Participació pública: participació dels ciutadans i actors implicats en l’elaboració de les mesures implementades en el marc del desenvolupament de l’objecte d’aquesta Llei.d)Optimització en l’ús dels recursos: mitjançant la prevenció en l’ús de matèria i energia i el disseny ecològic, que considera els impactes mediambientals al llarg del cicle de vida d’un producte, d’un bé o d’un servei i els integra des de la seva planificació.e)Preservació i millora de l’estat dels recursos naturals: mitjançant la desmaterialització de l’economia i valorant la màxima eficiència global en la presa de decisions.f)Internalització dels costos mediambientals: tendint cap a l’assumpció de responsabilitzar els costos ambientals als qui els generen.g)Distribució de responsabilitats: mitjançant la connexió de tots els actors implicats (públics i privats) en les polítiques d’economia circular.h)Protecció de la salut humana: assegurant que tota acció relacionada amb aquesta Llei es basi a garantir la protecció de la salut humana.
 
 **Article 5. Actors implicats**
 
@@ -34,15 +37,31 @@ l’Administració pública, les persones físiques o jurídiques que duen a ter
 
 **Article 6. Objectius**
 
-$22
+1. Els objectius bàsics mínims de la política d’economia circular amb horitzó 2035 es graduen en el temps. Els objectius intermedis es determinen segons el que estableix aquesta Llei i l’Estratègia d’economia circular. Aquests són:
+a) Augmentar els percentatges de preparació per a la reutilització i reciclatge dels residus fins a assolir, com a mínim, els nivells establerts en les directives de la Unió Europea corresponents pels períodes 2025 (55%), 2030 (60%) i 2035 (65%), els quals s’integren i s’actualitzen en el programa corresponent de l’Estratègia d’economia circular quan escaigui.b) Reduir la generació de residus urbans un 15% l’any 2030 i un 20% l’any 2035, respecte a l’any 2010 i tenint en compte la població equivalent.c) Situar el consum d’aigua per sota dels 150 litres per persona i dia, considerant la població equivalent.d) Assolir els percentatges mínims de recollida selectiva que s’estableixin en les directives de la Unió Europea sobre la matèria, per cada període temporal i tipus de residu.
+2. Pel que fa al malbaratament alimentari, s’adopta l’objectiu 12.3 dels Objectius de desenvolupament sostenible (ODS), de reduir el malbaratament alimentari un 50% amb l’horitzó 2030.
+3. Pel que fa al desenvolupament econòmic, augmentar el percentatge d’empreses basades en esquemes d’economia circular un 25% l’any 2035.
+4. Les metodologies de càlcul que s’utilitzin per comprovar el compliment dels objectius d’economia circular es desenvolupen a l’Estratègia d’economia circular, seguint la metodologia més avançada en la matèria i homologada en els mètodes de càlcul establerts en les directives de la Unió Europea sempre que n’hi hagi.
 
 **Article 7. Estratègia d’economia circular**
 
-$24
+1. L’Estratègia d’economia circular és un document públic, elaborat pel ministeri responsable del medi ambient i aprovat pel Govern, que permet planificar, coordinar i racionalitzar les accions, les mesures i els projectes encaminats a la consecució dels objectius definits per aquesta Llei. El seu objectiu principal és fixar un full de ruta per impulsar la transició cap a una economia circular.
+2. El document de l’Estratègia d’economia circular ha d’estar a disposició dels ciutadans. Per elaborar-lo, s’ha de preveure un procés de participació pública, juntament amb la participació dels sectors implicats, de l’Administració pública i dels empresaris.
+3. S’ha de revisar, com a mínim, cada cinc anys. L’aprovació i les revisions posteriors s’han de publicar al
+Butlletí Oficial del Principat d’Andorra
+.
+4. Per assolir els objectius d’aquesta Llei, l’Estratègia d’economia circular ha d’incloure, com a mínim, els programes establerts en aquesta Llei i les modalitats d’integració de l’economia circular en les planificacions sectorials pertinents.
+5. La gestió eficient dels residus és una part important de l’economia circular; per això, el Pla nacional de residus, tal com es defineix a la Llei 25/2004, del 14 de desembre, de residus, queda integrat dins de l’Estratègia d’economia circular. El Pla nacional de residus ha d’incorporar un estudi sobre els fluxos dels residus d’Andorra, dividits per sectors.
+6. L’Estratègia d’economia circular també ha d’incloure mesures per informar i sensibilitzar la ciutadania sobre les accions destinades a fomentar l’economia circular per part de tots els actors.
+7. Per garantir-ne l’elaboració i revisió, tots els actors de l’economia circular, a excepció dels consumidors, estan obligats a facilitar a l’Administració pública les dades quantitatives i qualitatives necessàries.
+8. Els objectius, les accions i les mesures que preveu l’Estratègia d’economia circular són vinculants per a l’Administració pública, i s’integren en les seves planificacions i programacions sectorials.
 
 **Article 8. Innovació i recerca**
 
-$26
+1. L’Administració pública ha de promoure les tecnologies intel·ligents en l’aplicació de les mesures que es deriven de la política d’economia circular, així com la innovació i la recerca aplicada que aportin valor afegit en relació amb les finalitats i els objectius d’aquesta Llei.
+2. Per fomentar la innovació i la recerca s’ha de promoure la interacció entre els actors del sistema econòmic i els actors del món científic, a fi que es pugui estudiar, avaluar i determinar l’interès o la conveniència de determinades tecnologies o mesures.
+3. Es faculta el Govern a autoritzar, previ informe favorable del ministeri responsable del medi ambient, de manera excepcional i temporal, prescripcions particulars i excepcions en el compliment de la normativa vigent per part d’activitats o altres actors implicats en l’economia circular, per fer proves pilot encaminades a l’estudi o l’aplicació de tecnologies i mesures innovadores.
+Aquesta autorització és limitada en el temps, únicament durant el període estrictament necessari per efectuar les proves pilot de què es tracti, i estableix les condicions i els mecanismes de control necessaris per garantir la seguretat de les persones i els béns.
 
 **Article 9. Sinergies entre circularitat, lluita contra el canvi climàtic, contra la pèrdua de la biodiversitat i la protecció de la salut humana**
 
@@ -55,11 +74,18 @@ a) Analitzar com es poden mesurar els efectes de la circularitat en la lluita co
 
 **Article 10. Productes de plàstic d’un sol ús amb alternativa**
 
-$28
+1. Es prohibeix la producció, la importació i la introducció al mercat de productes fabricats amb plàstic oxodegradable, així com de productes de plàstic d’un sol ús que ja tenen una alternativa de producte sense plàstic.
+2. El Govern estableix per decret la llista de productes de plàstic d’un sol ús prohibits, basant-se en l’establert en les directives de la Unió Europea sobre la matèria.
+3. Es prohibeix la producció, la importació i la introducció al mercat de recipients per a begudes de fins a 3 litres de capacitat que no mantinguin units els taps i tapes al recipient durant la seva fase d’utilització.
+4. Les ampolles per a begudes importades, produïdes o introduïdes al mercat de fins a 3 litres de capacitat, i en què el principal component en la fabricació sigui el tereftalat de polietilè (PET), han de contenir uns percentatges mínims de plàstic reciclat a partir dels anys 2025 i 2030, basant-se en l’establert en les directives de la Unió Europea sobre la matèria. Les ampolles de begudes d’altres plàstics també han de contenir un mínim de plàstic reciclat a partir de l’any 2030, basant-se en l’establert en les directives de la Unió Europea sobre la matèria. Se n’exclouen les ampolles utilitzades per a aliments per a usos mèdics especials en estat líquid.
 
 **Article 11. Productes de plàstic d’un sol ús sense alternativa per l’estat actual de la tècnica**
 
-$2a
+1. Per a tots els productes de plàstic d’un sol ús sense alternativa per l’estat actual de la tècnica, l’Estratègia d’economia circular ha d’establir un programa per reduir-ne el consum i promoure solucions més sostenibles i més respectuoses amb els principis de l’economia circular.
+2. El contingut mínim del programa ha d’incloure:
+a) Els objectius de reducció i la metodologia de càlcul utilitzada per assolir-los.b) Les accions que cal adoptar per assolir els objectius.c) Els indicadors necessaris per mesurar l’evolució dels objectius.d) El pla de reducció amb dades quantitatives i mesurables que inclogui la informació dels productes de plàstic introduïts al mercat anualment.
+3. El Govern estableix mitjançant decret la llista de productes de plàstic d’un sol ús sense alternativa per l’estat actual de la tècnica que estan subjectes a reducció, basant-se en l’establert en les directives de la Unió Europea sobre la matèria.
+4. El Govern pot, mitjançant reglament, proposar altres vies per reduir el consum d’aquests productes de plàstic d’un sol ús.
 
 **Article 12. Altres productes d’un sol ús**
 
@@ -97,11 +123,15 @@ a) Per a tots els productes que ho permetin, etiquetar el producte amb una data 
 
 **Article 17. Obligacions dels distribuïdors de productes alimentaris en la prevenció del malbaratament alimentari**
 
-$2c
+1. Tots els distribuïdors de productes alimentaris estan subjectes a les obligacions següents:
+a) Promoure la venda a granel dels productes i no utilitzar, sempre que sigui possible, d’envasos d’un sol ús.b) Orientar la seva marca cap a la responsabilitat ambiental i social promovent accions per prevenir el malbaratament alimentari i informar el consumidor sobre hàbits de consum més responsables.c) Evitar la formalització de contractes amb operadors de la indústria alimentària que no admetin la donació d’aliments distribuïts per aquests operadors.d) Aplicar sistemes per prevenir el malbaratament alimentari i fer-ne un seguiment.
+2. Els centres comercials declarats com a productors singulars de residus han de disposar d’un espai degudament senyalitzat per exposar i posar a la venda al públic els productes amb data de consum preferent propera a la seva superació i amb data de caducitat propera a la seva superació, en el termini que s’estableixi per via reglamentària. Aquests establiments han de dur a terme accions de promoció orientades a afavorir la venda d’aquests productes, així com dels productes amb imperfeccions o desperfectes que no posin en risc la salut del consumidor ni la funcionalitat del producte.
+3. Els distribuïdors d’aliments a l’engròs i els productors singulars de residus han d’establir sistemes interns i han de col·laborar amb altres empreses, associacions, entitats i institucions similars per donar compliment a la jerarquia per a la prevenció del malbaratament alimentari establerta en aquesta Llei, de manera que els productes amb data de consum preferent propera que es retirin de la venda no es gestionin com a residu.
 
 **Article 18. Sector de la restauració col·lectiva**
 
-$2e
+Tots els gestors de serveis de restauració col·lectiva en els establiments educatius i, per a la gent gran, centre hospitalari, centres sociosanitaris i similars estan subjectes a les obligacions següents:
+a) Promoure una alimentació més respectuosa amb l’equilibri ecològic i més coherent amb els models agrícoles sostenibles adoptant hàbits de compra i de consum més sostenibles i afavorint el consum de productes de temporada i de proximitat sense encarir el cost dels àpats i sense renunciar a la qualitat organolèptica ni al correcte balanç nutricional dels menús.b) En la mesura que sigui possible, servir productes locals d’Andorra almenys un cop al mes i incorporar aliments que s’hagin obtingut per procediments de producció certificada que siguin respectuosos amb el medi ambient.c) Adaptar les racions perquè es redueixi la quantitat de menjar procedent de les restes servides i que no poden ser reutilitzades a la cuina, per prevenir el malbaratament alimentari.d) Presentar un inventari anual de malbaratament d’aliments amb mesures per prevenir-lo.
 
 **Article 19. Bancs d’aliments o similars**
 
@@ -132,7 +162,10 @@ $2e
 
 **Article 23. Ajuts a la promoció de l’economia circular**
 
-$30
+1. Per tal de promoure l’economia circular, el Govern pot establir ajuts destinats principalment a empreses privades i agrupacions o associacions empresarials, col·legis professionals o associacions en general.
+2. L’objecte dels ajuts és, principalment i a través de la innovació:
+a) La creació d’empreses, activitats i projectes que contribueixin de manera substancial, tal com es preveu en l’article 25, a accelerar la transició cap a l’economia circular millorant l’eficiència en l’ús dels recursos i promovent la prevenció en la generació de residus.b) La creació d’empreses que contribueixin a la creació de llocs de treball verd.c) Les actuacions i els estudis relacionats amb l’economia circular, especialment pel que fa a les noves tecnologies i al disseny ecològic de productes i serveis considerant la totalitat del seu cicle de vida.d) Les campanyes de sensibilització i informació sobre els aspectes ambientals dels productes i serveis.
+3. El Govern ha de publicar les condicions de les convocatòries corresponents.
 
 **Article 24. Publicitat no desitjada**
 
@@ -143,19 +176,32 @@ $30
 
 **Article 25. Contribució substancial a la transició cap a una economia circular**
 
-$32
+Es considera que una activitat econòmica contribueix de manera substancial a la transició cap a una economia circular, en particular a la prevenció, la reutilització i el reciclatge de residus, quan aquesta activitat compleix alguns dels punts següents:
+a) Utilitza els recursos naturals, especialment materials sostenibles, reutilitzables, reciclables, d’origen biològic i altres matèries primeres, en la producció de manera més eficient, mitjançant, entre altres accions:- La reducció de l’ús de matèries primeres primàries o l’augment de l’ús de subproductes i de matèries primeres secundàries.- Mesures d’eficiència energètica i dels recursos.b) Augmenta la durabilitat, la reparabilitat o les possibilitats d’actualització o reutilització dels productes, especialment en les activitats de disseny i fabricació.c) Incrementa la reciclabilitat dels productes i dels materials continguts en aquests productes, entre altres maneres mitjançant la substitució dels productes i materials no reciclables o utilitzant-los menys, especialment en les activitats de disseny i fabricació.d) Redueix de manera substancial el contingut de substàncies perilloses en materials i productes al llarg de tot el seu cicle de vida, en particular substituint aquestes substàncies per alternatives més segures i garantint-ne la traçabilitat.e) Prolonga l’ús de productes, concretament per mitjà de la reutilització, el disseny per a la seva durabilitat, el desmuntatge, les actualitzacions, la reparació i l’ús compartit.f) Prevé o redueix la generació de residus.g) Incrementa la preparació per a la reutilització i el reciclatge de residus.h) Augmenta el desenvolupament de la infraestructura de gestió de residus necessària per a la prevenció i per a la preparació per reutilitzar i reciclar, al mateix temps que es garanteix que els materials recuperats resultants es reciclen com a matèries primeres secundàries d’alta qualitat en la producció.i) Redueix al mínim l’eliminació i la valorització energètica, de conformitat amb la jerarquia de les opcions de gestió de residus.
 
 **Article 26. Sector de la construcció**
 
-$34
+1. En el sector de la construcció s’han de promoure els principis de la circularitat en tot el cicle de vida de les construccions i infraestructures, tant públiques com privades, inclosos els edificis, mitjançant les previsions següents:
+a) En la concepció, el disseny, l’execució i el manteniment de noves construccions i infraestructures o rehabilitacions de les existents s’han d’adoptar mesures per millorar la durabilitat i l’adaptabilitat dels actius construïts d’acord amb els principis de l’economia circular, al llarg de tota la cadena de valors.b) El Govern fixa reglamentàriament per a determinats productes de construcció els continguts mínims de materials reciclats o reutilitzats, tenint en compte la seva seguretat i funcionalitat.c) El Govern estableix els objectius de reciclatge per als residus d’excavacions, construcció i demolició i les seves fraccions de materials específics que són d’obligat compliment tant en obres públiques com privades.d) Determinats residus de la construcció queden exempts de la condició de residus i determinats materials de la construcció poden considerar-se subproductes si donen compliment als articles corresponents d’aquesta Llei.e) Per als projectes de nova construcció que impliquin excavació del terreny, obres d’enderroc o treballs de rehabilitació d’edificis, el tècnic competent ha d’elaborar un pla diagnòstic que identifiqui el volum i la tipologia dels residus i materials excedents, la seva via de gestió; també ha d’incentivar la reutilització dels materials sempre que sigui possible i ha de fomentar el triatge per poder-los valoritzar i minimitzar la deposició a l’abocador. El pla diagnòstic ha de fer menció dels residus perillosos, i en especial de l’amiant. S’ha de separar en origen els àrids, el vidre, el guix i la fusta, sempre que sigui possible.f) Els professionals i treballadors del sector de la construcció han d’estar formats en matèria d’economia circular.
+2. Per tal de fomentar l’economia circular, la planificació del territori ha de preveure la inclusió de zones industrials per donar cabuda a possibles zones de transferència o d’emmagatzematge de materials de la construcció amb la finalitat de poder-los reutilitzar.
 
 **Article 27. Sector turístic i de la restauració**
 
-$36
+1. Els titulars d’allotjaments turístics i d’activitats comercials de la restauració han de promoure els principis de l’economia circular, principalment amb les mesures següents:
+a) Vetllar perquè s’evitin els productes de benvinguda i lesgentilesesd’un sol ús (sabó i altres) o siguin substituïts per dispensadors.b) Contribuir a estendre la vida útil dels productes que utilitzen, i en particular del mobiliari, a través de la reparació o la revenda a mercats de segona mà.c) Prioritzar la compra a granel o en formats grans de productes alimentaris que s’ofereixin al client mitjançant dispensadors reutilitzables que impedeixin el contacte amb el seu contingut. En queden exempts tots els aliments que, per garanties sanitàries, estiguin regulats.d) Resta prohibit posar a disposició dels clients productes alimentaris en monodosi per al consum en el mateix local. Queden exempts d’aquesta prohibició els productes alimentaris que es determinen reglamentàriament en base a criteris sanitaris.e) Prioritzar la compra de productes de consum habitual i de productes de neteja a granel o en grans formats.f) Prevenir el malbaratament alimentari.g) Promoure el consum de productes de temporada i de proximitat.h) Informar de forma visible i clara el consumidor de la possibilitat d’endur-se a casa, sense cost afegit, la beguda i els aliments emplatats que no hagi consumit, i facilitar-li aquesta opció. Els envasos destinats al trasllat dels aliments emplatats no consumits han de ser aptes per al transport d’aliments, reutilitzables i/o biodegradables. El consumidor ha de poder optar per portar el seu propi envàs. Són excepció a aquestes obligacions els restaurants de tipus bufet lliure.i) Promoure l’ús d’envasos de vidre retornable, per prevenir la generació de residus d’envasos.j) Aplicar sistemes per prevenir el malbaratament alimentari i fer-ne un seguiment.
+2. Els establiments de la restauració estan obligats a servir aigua de l’aixeta gratuïtament, sempre i quan aquesta provingui de la xarxa de distribució, i a indicar de manera visible a la seva carta o en l’establiment la possibilitat per als consumidors de demanar aigua de l’aixeta gratuïtament. L’aigua provinent de la xarxa de distribució que sigui tractada i filtrada per algun sistema tècnic professional podrà ser cobrada per l’establiment, sempre i quan l’establiment proposi als seus clients aquest producte i n’indiqui el preu.
+3. Els establiments que disposin de bufets lliures han de promoure de manera visible missatges sobre la prevenció del malbaratament alimentari i la necessitat d’agafar únicament el que es preveu menjar.
+4. Els establiments de restauració ràpida estan obligats a facilitar als consumidors vaixelles, gots i coberts reutilitzables per als productes consumits dins el seu local i evitar els envasos de plàstic i envasos d’un sol ús sempre que sigui possible i quan el tipus de producte ho permeti.
+5. Els establiments de la restauració estan obligats a separar en origen el paper, el cartró, els envasos lleugers, el vidre i els olis vegetals, així com els fluxes de residus que es determinin reglamentàriament.
+6. El Govern elabora una guia de sensibilització dirigida al sector de la restauració per eliminar els productes alimentaris en monodosi i altres productes de difícil gestió.
 
 **Article 28. Sector comercial**
 
-$38
+1. Els productors singulars de residus declarats han de disposar de contenidors de reciclatge per a residus d’envasos lleugers i de paper/cartró, o els que necessitin per raó de la seva activitat, degudament dimensionats, que permetin als clients desfer-se directament dels envasos dels productes comprats a l’establiment. L’objectiu d’aquesta mesura és responsabilitzar de forma àmplia aquests titulars en la gestió dels residus.
+2. Els titulars d’activitats comercials de venda de productes alimentaris han de promoure la venda a granel de productes en la quantitat que desitgi el consumidor i en recipients reutilitzables.
+3. Els titulars d’activitats comercials de venda de productes alimentaris, quan preparen per a la venda fruita i verdura fresca i no transformada, l’han de posar a la disposició dels clients sense cap embolcall de plàstic ni cap envàs de plàstic o porexpan. Aquesta obligació no s’aplica a la fruita i verdura que presenten un risc de deteriorament per causa de la venda a granel.
+4. Els titulars d’activitats comercials de venda de productes alimentaris han de promoure l’aportació per part dels clients dels seus propis recipients reutilitzables per transportar els aliments frescos, sempre que estiguin en condicions higienicosanitàries adequades i siguin adequats a la naturalesa del producte.
+5. Els usuaris assumeixen sota la seva responsabilitat la utilització dels seus recipients reutilitzables i eximeixen els establiments de responsabilitats sobre l’estat de conservació dels aliments adquirits als establiments.
 
 #### Capítol quart. Millora en la gestió dels residus
 
@@ -173,11 +219,17 @@ a) La utilització ulterior de la substància o l’objecte està garantida.b) L
 
 **Article 31. Responsabilitat ampliada del productor**
 
-$3a
+1. El Govern pot establir mesures per garantir que qualsevol persona física o jurídica que desenvolupi, fabriqui, processi, tracti, vengui, importi o posi al mercat productes de manera professional (el productor del producte) vegi ampliada la seva responsabilitat de productor. Aquestes mesures, que poden ser financeres, o financeres i organitzatives, per a la gestió de la fase de residu del cicle de vida d’un producte, constitueixen el règim de responsabilitat ampliada del productor i han de servir per contribuir a sufragar el cost de la gestió dels residus dels productes que es posen al mercat.
+2. El Govern pot fixar les condicions organitzatives i les modalitats i obligacions financeres del règim de responsabilitat ampliada del productor, les quals poden incloure, entre altres coses, taxes a la importació, cànons als distribuïdors o autoliquidacions de tarifes en funció dels materials que esdevinguin residu a la fi del cicle de vida del producte.
+3. El Govern estableix per via reglamentària els fluxos de residus sotmesos a un règim de responsabilitat ampliada del productor.
+4. La responsabilitat ampliada del productor s’aplica sense perjudici de la responsabilitat de la gestió de residus establerta en la Llei 25/2004, del 14 de desembre, de residus.
 
 **Article 32. Sistemes de dipòsit, devolució i retorn**
 
-$3c
+1. El Govern, en acord amb els comuns, pot establir per decret l’obligació d’implantar sistemes de dipòsit, devolució i retorn per a determinats tipus de residus que permetin:
+a) La devolució i/o la recollida d’envasos usats i de residus d’envasos procedents del consumidor, de qualsevol altre usuari final o del flux de residus, amb la finalitat de dirigir-los cap a les alternatives de gestió més adequades.b) La reutilització o valorització, inclòs el reciclatge, dels envasos i residus d’envasos recollits.
+2. El responsable de la posada al mercat d’un envàs sotmès a aquest sistema està obligat a cobrar als clients, fins al consumidor final, una quantitat individualitzada per cada envàs, que no té la consideració de preu ni està subjecta a cap tributació. El Govern estableix reglamentàriament els productes sotmesos a aquest sistema, les tarifes que s’han d’aplicar i l’organització necessària.
+3. El consumidor final, quan faci el retorn d’aquests envasos, percep la mateixa quantitat que havia dipositat en concepte de dipòsit i retorn.
 
 **Article 33. Prohibició de la destrucció d’invenuts**
 
@@ -192,7 +244,19 @@ Les comunitats de propietaris tenen l’obligació d’informar tots els veïns 
 
 **Article 35. Rol exemplar de l’Administració pública**
 
-$3e
+1. L’Administració pública ha d’integrar en les seves polítiques, plans, estratègies i programes els principis de l’economia circular.
+2. L’Administració pública, en l’àmbit de les seves competències en matèria de residus, ha d’implementar els programes i les accions necessaris per assolir els objectius bàsics mínims de la política d’economia circular.
+3. L’Administració pública ha de prioritzar l’ús de productes de proximitat, productes reutilitzats i productes procedents de la valorització material dels residus i ha de promoure la compra de productes a granel i en grans formats i la seva distribució a través de dosificadors, per als productes en què això sigui possible.
+4. L’Administració pública ha de promoure la reducció del consum de paper en la seva activitat.
+5. L’Administració pública ha de promoure entre el seu personal les bones pràctiques ambientals.
+6. En els concursos públics cal incloure-hi prescripcions tècniques relatives a la promoció de l’economia circular així com a la promoció dels productes de proximitat. Aquests aspectes, i particularment els distintius mediambientals i d’economia circular, han de formar part dels criteris d’adjudicació.
+7. En totes les contractacions i compres públiques, l’Administració pública ha d’obligar, en la mesura que sigui possible, a l’ús de béns i productes certificats amb l’etiqueta ecològica d’acord amb la normativa vigent i a la utilització de béns i productes definits en les guies aplicables que elabori el Govern a aquest efecte. Es reconeix l’Etiqueta Ecològica de la Unió Europea.
+8. L’Administració pública ha d’incorporar prescripcions tècniques i criteris d’adjudicació per prevenir el malbaratament alimentari i per promoure la reducció dels productes d’un sol ús, principalment els que estan fabricats a base de plàstic, en els processos de contractació pública o els convenis de gestió de serveis que hi facin referència.
+9. Per reduir significativament la generació de residus d’ampolles de plàstic, els edificis públics i les escoles han de disposar d’un sistema de distribució d’aigua no envasada.
+10. Es prohibeix la distribució d’ampolles de plàstic de forma gratuïta en tots els edificis públics i les escoles.
+11. L’Administració pública ha de fomentar el consum d’aigua d’aixeta amb la instal·lació de fonts a la via pública.
+12. L’Administració pública, en el marc de les competències que els hi han estat atribuïdes, ha de fomentar el rol de les deixalleries en la contribució a la promoció de la reparació i la reutilització.
+13. L’Administració pública, amb la finalitat de prevenir la generació de residus, pot donar el material que ja no utilitza i que encara és apte per fer-lo servir.
 
 **Article 36. Promoció del disseny ecològic**
 
@@ -212,11 +276,13 @@ Als efectes d’aquesta Llei, les infraccions es qualifiquen en lleus, greus i m
 
 **Article 39. Infraccions lleus**
 
-$40
+Són infraccions lleus:
+a) Per a tots els actors de l’economia circular, a excepció dels consumidors, no facilitar a l’Administració pública les dades quantitatives i qualitatives necessàries.b) Per als productors de productes alimentaris, no etiquetar els productes que ho permetin amb la data de consum preferent.c) Per als distribuïdors de productes alimentaris, formalitzar contractes amb operadors de la indústria alimentària que no admetin la donació d’aliments.d) Per als productors singulars de residus del sector comercial, no exposar ni posar a la venda al públic en espais degudament senyalitzats els productes amb data de consum preferent propera a la seva superació.e) Per als distribuïdors de productes alimentaris i els gestors de serveis de restauració col·lectiva en els establiments educatius o per a la gent gran, no presentar un inventari anual de malbaratament d’aliments amb mesures per prevenir-lo.f) Per a les empreses de telecomunicacions, no proporcionar informació sobre la quantitat de dades consumides i el seu equivalent en emissions de gasos d’efecte d’hivernacle corresponents.g) Repartir publicitat no nominal en les bústies on s’indiqui expressament que no es vol rebre publicitat d’aquest tipus.h) Per a les comunitats de propietaris, no informar els veïns sobre les modalitats de recollida selectiva de residus en els espais assignats a la disposició dels residus domèstics o en els destinats a informació dels usuaris.i) Per a establiments de la restauració, exceptuant els de tipus bufet lliure, no informar el consumidor de la possibilitat d’endur-se el menjar emplatat.
 
 **Article 40. Infraccions greus**
 
-$42
+Són infraccions greus:
+a) La producció, la importació i la introducció al mercat de productes fabricats amb plàstic oxodegradable.b) La producció, la importació i la introducció al mercat de recipients per a begudes de fins a 3 litres de capacitat que no mantinguin units els taps i tapes al recipient durant la seva fase d’utilització.c) La producció, la importació i la introducció al mercat de productes d’un sol ús prohibits per decret.d) Per als productors i distribuïdors, inclús pel que fa al comerç en línia, destruir mitjançant valorització energètica o eliminació els articles invenuts no alimentaris establerts reglamentàriament que encara siguin aptes per al consum.e) No complir amb els continguts mínims de materials reciclats o reutilitzats per a determinats productes de construcció.f) No presentar el pla diagnòstic en els projectes de nova construcció que impliquin excavació del terreny, obres d’enderroc o treballs de rehabilitació d’edificis.g) Per a establiments de la restauració, no oferir o no servir aigua de l’aixeta gratuïtament.h) No facilitar, com a establiment de restauració ràpida, vaixelles, gots i coberts reutilitzables per als productes consumits dins el local.i) Per a les activitats comercials de venda de productes alimentaris, quan preparen per a la venda fruita i verdura fresca i no transformada, posar aquests productes a la disposició dels clients amb embolcalls de plàstic o envasos de plàstic o porexpan, excepte en els casos en què no s’aplica aquesta obligació.j) Per als productors singulars de residus del sector comercial, no disposar de contenidors de reciclatge per a residus d’envasos lleugers i de paper/cartró.k) Comercialitzar residus incomplint les normes de fi de condició de residu establertes.l) Utilitzar subproductes sense l’autorització corresponent.m) No complir les condicions i obligacions establertes en matèria de responsabilitat ampliada del productor.n) No integrar-se en sistemes de dipòsit, devolució i retorn quan legalment existeixi aquesta obligació.o) Per a les empreses i particulars relacionats amb el sector de la construcció, no separar en origen els àrids, el vidre, el guix i la fusta, quan sigui possible.p) Pels establiments de restauració i hostaleria, emprar i facilitar als clients productes en monodosi, en els termes establerts a l’article 27.1d).q) La comissió de dues infraccions lleus sancionades, encara que siguin de naturalesa diferent, sempre que es cometin dins el període de quatre anys des de la primera de les infraccions i que l’autor hagi estat sancionat per aquesta infracció.r) L’incompliment dels requeriments de l’autoritat.
 
 **Article 41. Infraccions molt greus**
 
@@ -246,7 +312,9 @@ a) Infraccions lleus: multa de 60 a 300 euros.b) Infraccions greus: multa de 300
 
 **Article 45. Criteris de graduació de les sancions**
 
-$44
+1. Les sancions es graduen de conformitat amb tots els criteris següents:
+a) La repercussió social, el nombre d’afectats i la transcendència de la infracció comesa en el que respecta a la salut i a la seguretat de les persones, dels seus béns i del medi ambient.b) L’afecció qualitativa i quantitativa i els perjudicis causats.c) La importància i el caràcter irreversible del dany.d) Les circumstàncies del responsable, la seva intencionalitat, l’ànim de lucre, el grau de malícia i de participació, i el benefici obtingut.e) Les sancions fermes en via administrativa que hagin estat imposades els últims dos anys. En cas d’observar-se aquesta circumstància, l’import de les multes pot incrementar-se un 50%, sense excedir en cap cas el límit més alt fixat per a les infraccions molt greus.
+2. Es considera com a factor atenuant la rapidesa i l’eficàcia amb què l’infractor hagi adoptat per voluntat pròpia mesures per evitar o disminuir els danys i perjudicis derivats de la infracció, així com el compliment immediat i eficaç de les mesures cautelars que l’instructor del procediment hagi imposat al respecte.
 
 **Article 46. Prescripció de les sancions**
 

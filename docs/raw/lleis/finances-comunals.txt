@@ -107,7 +107,11 @@ a) La naturalesa jurídica del tribut.b) El fet generador.c) El meritament del t
 
 **Article 15. Exercici de la potestat administrativa: de gestió, de recaptació i comprovadora**
 
-$1e
+1. Els comuns tenen, quant a la recaptació dels tributs comunals, les mateixes prerrogatives establertes legalment a favor de l’Administració general.
+2. Les potestats de gestió, recaptació i comprovació en relació amb els tributs, són dels comuns, si bé les poden delegar, mitjançant conveni, sense perjudici del que estableixi la norma de cada tribut.
+3. En la recaptació en període de constrenyiment, d’acord amb el Codi de l’Administració i la Llei de Bases de l’ordenament tributari, la potestat recaptadora correspon als comuns, en el marc del seu autogovern, sens perjudici de la facultat de delegació establerta en el punt anterior.
+4. En quant a la concurrència de crèdits, amb caràcter general els pagaments s’imputen al deute més antic, tret que es tracti de deutes de naturalesa tributària, en els que l’obligat tributari pot imputar-los com lliurement determini sempre i quan es trobin en període voluntari.
+5. Els comuns són competents per comprovar el compliment dels tributs comunals d’acord amb la Llei de bases de l’ordenament tributari.
 
 **Article 16. Exercici de la potestat sancionadora**
 
@@ -115,17 +119,33 @@ Els comuns són competents per definir infraccions i aplicar sancions per incomp
 
 **Article 17. Terminis i còmput per la prescripció**
 
-$20
+1. Prescriuen al cap de tres anys els drets i les accions següents:
+a) El dret dels comuns a determinar el deute tributari mitjançant la liquidació oportunab) L’acció per imposar sancions tributàriesc) El dret a sol·licitar, i en el seu cas obtenir, les devolucions derivades de la normativa de cada tribut i les devolucions d’ingressos indeguts.d) El dret dels comuns a exigir el pagament dels deutes tributaris liquidats i autoliquidats.e) El dret dels comuns a exigir el pagament de les sancions tributàries
+2. El termini de prescripció comença a comptar, respectivament:
+a) Des de la data en què s’acabi el termini reglamentari per presentar la declaració o l’autoliquidació corresponent.b) Des del moment en què s’hagin comès les infraccions respectives o, si és el cas, des de la data en què s’acabi el termini reglamentari per presentar l’autoliquidació corresponent al període en què s’ha comès la infraccióc) Des de la data en què s’acabi el termini per sol·licitar la devolució corresponent derivada de la normativa de cada tribut o, en defecte de termini, des del dia en què la dita devolució es va poder sol·licitard) Des de la data en què s’hagi fet efectiu l’ingrés indegut.e) Des de la data de la notificació de la liquidació.f) Des de la data en què s’acabi el termini per fer el pagament del deute tributari en període voluntarig) Des de la data de la notificació de l’acord d’imposició de sancióh) Des de la data en què s’acabin els terminis establerts per efectuar les devolucions derivades de la normativa de cada tribut o des de la data de notificació de l’acord on es reconegui el dret a percebre la devolució dels ingressos indeguts.
+3. La resta d’elements no regulats en el present article, es regulen per la Llei de bases de l’ordenament tributari vigent.
 
 **Article 18. Interrupció i efectes de la prescripció**
 
-$22
+1. Els terminis de prescripció establerts en l’article anterior s’interrompen per:
+a) Qualsevol acció dels comuns notificada a l’obligat tributari, conduent al reconeixement, la regularització, la comprovació, la inspecció, la recaptació, l’assegurament o la liquidació de la totalitat o part de l’obligació tributària.b) Per qualsevol actuació de l’obligat tributari conduent al pagament o el reconeixement del deute directament davant del comú o, indirectament, per la interposició de recursos de qualsevol mena.c) En relació amb la devolució d’ingressos indeguts, el termini de prescripció s’interromp en el moment en què el comú reconegui el deute, notificant-ho fefaentment a l’obligat tributari o, si aquest li n’exigeix el pagament per qualsevol via, quan el comú en tingui coneixement també de forma fefaent. També s’interromp quan es reiteri la sol·licitud o s’interposin recursos de qualsevol mena.
+2. Els efectes de la interrupció, i altres elements no regulats en el present article, es regulen a la Llei de bases de l’ordenament tributari vigent.
 
 #### Capítol II. Taxes
 
 **Article 19. Definició i fet generador**
 
-$24
+1. Les taxes són tributs el fet generador de les quals és la utilització privada o l’aprofitament especial del domini públic, la prestació d’un servei públic o la realització d’una funció administrativa de sol·licitud o de recepció obligatòria que es refereix a l’obligat tributari, o l’afecta o el beneficia de manera particular.
+2. Els comuns, d’acord amb la Llei qualificada de delimitació de competències dels comuns, tenen atribuïda la potestat de crear i regular taxes pels supòsits següents:
+a) Per la utilització privativa o l’aprofitament especial del domini públic.b) Per la prestació d’un servei públic de competència comunal de sol·licitud o de recepció obligatòria, que es refereixi, afecti o beneficiï de forma particular a l’obligat tributari.c) Per la realització d’una funció administrativa de competència comunal de sol·licitud o de recepció obligatòria, que afecti o beneficiï de forma particular a l’obligat tributari. Es considera que la prestació d’un servei públic o la funció administrativa és de recepció obligatòria quan una norma imposi la seva obligatorietat, quan no pugui ser prestat pel sector privat i quan els serveis o funcions administratives siguin imprescindibles per l’obligat tributari. Es considera que la prestació d’un servei públic o la funció administrativa es refereix o afecta de manera particular a un obligat tributari quan l’activitat o servei administratiu hagi estat motivat directa o indirectament per aquest.
+3. Segons s’estableix a l’apartat 2.a) anterior, els comuns poden exigir taxes per a la realització de qualsevol acte d’utilització privativa o aprofitament especial del domini públic i, en particular, en els supòsits següents:
+a) Ocupació de la via pública per a finalitats comercials, on s’inclouen, entre altres:- Exposició de productes a la via pública.- Col·locació de rètols, vitrines, aparadors i parades exteriors al local comercial.- Instal·lació de tendals.- Comercialització de béns i drets a l’exterior del local comercial.- Venda ambulant.b) Ocupació de la via pública per a les finalitats pròpies de les activitats d’hoteleria i restauració, on s’inclouen, entre altres:- Ocupació de la via pública per a la col·locació de terrasses fixes i temporals.- Ocupació de la via pública amb taules, cadires, barres de servei temporal, i qualsevol altre elements per a l’atenció i el servei dels clients.- Ocupació de la via pública per a la instal·lació de cendrers.c) Ocupació del domini públic amb finalitats publicitàries i propagandístiques on s’inclouen, entre altres:- Col·locació de tanques publicitàries i lones.- Col·locació de cartells publicitaris.- Col·locació de rètols indicadors i identificadors d’establiments comercials.d) Ocupació de la via pública per a la instal·lació de fires, atraccions, paradetes i casetes de venda.e) Ocupació de la via pública mitjançant el lloguer d’espais públics oberts a l’aire lliure o tancats.f) Ocupació de la via pública per la col·locació i instal·lació temporal d’elements necessaris per a la construcció i materials d’obra, on s’inclouen, entre altres:- Col·locació de contenidors per al dipòsit de runa.- Col·locació de casetes d’obra per a la guarda de materials i d’ús per a les persones que treballen i col·laboren a l’obra.- Col·locació de tanques d’obra.- Col·locació de piquets.- Obertura de rases en terrenys d’ús públic i qualsevol remoguda del paviment o la via pública.g) Ocupació de la via pública per vehicles, on s’inclouen, entre altres:- Estacionament limitat temporalment de vehicles a la via pública, sense equips de control d’accés.- Ocupació i aprofitament especial de la via pública mitjançant la reserva d’espai per a la utilització temporal i exclusiva.- Ocupació per càrrega i descàrrega.- Guals.h) Ocupació i utilització dels terrenys comunals per a les següents activitats:- Extracció i venda de pedra.- Tala d’arbres i venda de la fusta.- Abocador de terres inertes.i) Ocupació de la via pública per a la instal·lació de senyalitzacions d’itineraris d’iniciativa privada.j) Qualsevol altre tipus d’ocupació de la via pública o de les voravies amb elements que sobresurtin de la línia de façana dels immobles.k) Qualsevol altre tipus d’ocupació del subsol o del vol del domini públic comunal.
+4. Segons s’estableix a l’apartat 2.b) anterior, els comuns poden exigir taxes per la realització de qualsevol prestació de servei públic i, en particular, en els supòsits següents:
+a) Serveis de neteja de la via pública i espais públics en general, manteniment de la parròquia i recollida i tractament de residus urbans.b) Servei d’enllumenat públic.c) Servei de treta de neu.d) Servei de retirada, immobilització i trasllat al dipòsit comunal dels vehicles que es trobin mal estacionats o en espais prohibits, per part del Servei de Circulació del comú.e) Servei d’instal·lació d’embrancament nou, reforma i modificació dels embrancaments existents a la xarxa pública d’abastament d’aigua potable, pluvials, residuals, termals i de fluid elèctric.f) Servei d’instal·lació d’embrancament nou, reforma i modificació dels embrancaments existents a la xarxa pública de clavegueram.g) Servei de neteja i manteniment dels cementiris.h) Servei públic de proclames de matrimonis civils.i) Servei de subministrament i tractament d’aigua, així com qualsevol intervenció que hagi de realitzar els servei tècnic del Departament d’Aigua de cada comú, amb inclusió de la instal·lació i canvi de comptador.j) Servei per guardes comunes.
+5. Segons s’estableix a l’apartat 2.c) anterior, els comuns poden exigir taxes per la realització de qualsevol funció administrativa de sol·licitud o de recepció obligatòria necessària per a la realització de qualsevol servei públic i, en particular, en els supòsits següents:
+a) Atorgament, pròrroga, modificació i transmissió de llicències urbanístiques d’acord amb el Pla d’Ordenació i Urbanisme aprovat per cada comú.b) Funció administrativa d’autorització d’actes urbanístics no inclosos en el Pla d’Ordenació i Urbanisme aprovat per cada comú.c) Funció administrativa de delimitació per part del comú de terrenys comunals.d) Funció administrativa d’autorització d’embrancament d’un terreny, edifici o construcció a la xarxa pública d’abastiment d’aigua potable, d’evacuació d’aigües residuals, d’aigües pluvials, residuals, termals i de fluid elèctric.e) Funció administrativa d’autorització d’embrancament d’un terreny, edifici o construcció a la xarxa pública de clavegueram.f) Sol·licitud d’emissió de qualsevol tipus de certificat.g) Sol·licitud per a la realització de qualsevol tràmit.h) Funció administrativa d’autorització per desenvolupar qualsevol activitat econòmica empresarial i professional a la parròquia.i) Funció administrativa de modificació de dades incloses al registre de radicació d’activitats comercials, empresarials i professionals, així com el nom comercial, titular administratiu.j) Lliurament de documents que recullen dades registrades al Cadastre de Bens Immobles.k) Funció administrativa d’inscripció al Cadastre d’una propietat immobiliària edificada o no edificada, així com els drets reals sobre d’aquesta, ubicats a la parròquia.l) Funció administrativa d’inscripció al registre comunal de qualsevol alteració física o jurídica de la propietat edificada o no edificada i drets reals d’immobles ubicats a la parròquia.m) Funció administrativa d’emissió d’informes tècnics.n) Funció administrativa de lliurament de documents legalitzats.o) Funció administrativa d’autorització per col·locar publicitat.
+6. Quan hi hagi una ocupació de la via pública i que aquesta via pública sigui titularitat de Govern, el comú ha de sol·licitar al Govern una autorització prèvia.
+En tot cas, es respectaran les concessions a tercers i les ocupacions de la via pública ja atorgades pels comuns amb anterioritat a l’entrada en vigor de la present Llei.
 
 **Article 20. Obligats tributaris**
 
@@ -143,7 +163,12 @@ En les taxes establertes per l’atorgament de les llicències urbanístiques, e
 
 **Article 22. Quota de tributació**
 
-$26
+1. Per l’ocupació o aprofitament especial del domini públic comunal, l’import de la taxa es determina tenint en compte el preu normal de mercat.
+2. Per la realització dels serveis públics o funcions administratives, l’import de la taxa no pot superar el cost real del servei o de la realització de la funció administrativa de que es tracti.
+3. El comú ha d’aprovar una memòria econòmica que justifiqui els paràmetres i les variables que determinin el cost real del servei o el preu normal de mercat, i la fixació de la taxa corresponent, així com la seva actualització.
+En les taxes on s’utilitzi el preu de mercat per fixar el seu import, el mateix ha de ser revisat, com a mínim, cada 6 anys, i en les taxes on s’utilitzi el cost real, la revisió ha de ser anual.
+4. Si la naturalesa de l’acte ho justifica, els comuns, via ordinació, poden exigir pagaments anticipats o dipòsits previs a la realització del fet generador.
+Si el fet generador no s’acaba realitzant per motius no imputables a l’obligat tributari, el comú ha de retornar l’import juntament amb els interessos de demora.
 
 **Article 23. Període impositiu i meritament**
 
@@ -158,11 +183,20 @@ La gestió i liquidació de les taxes corresponen a cada comú, d’acord amb la
 
 **Article 25. Definició i fet generador**
 
-$28
+1. Les contribucions especials són tributs el fet generador de les quals és l’acord del comú de realització de determinades obres o de l’establiment o ampliació dels serveis públics sotmès al requisit d’eficàcia de llur realització efectiva, i que produeixen, ultra el benefici general per a tota la comunitat, un augment de valor dels béns de l’obligat tributari o que d’alguna manera el beneficien especialment.
+2. Les obres que permeten l’aplicació de contribucions especials per part dels comuns són les següents:
+a) Primer establiment de voravies i la seva renovació, si aquesta en millora sensiblement les condicions.b) Primer establiment, reposició o reparació extraordinària del paviment i equipament de vies públiques, el manteniment de les quals és de competència comunal.c) Primer establiment d’enllumenat públic i la seva renovació si aquesta en millora sensiblement les condicions.d) Obertura, eixamplament, alineació i prolongació de vies públiques urbanes i secundàries la construcció de les quals és de competència comunal, i també de camins comunals i de muntanya.e) Creació de places públiques.f) Construcció d’instal·lacions que comprenguin el subministrament de serveis d’àmbit comunal.g) Primer establiment, reposició, reparació extraordinària o separació de conduccions d’aigües pluvials i residuals d’àmbit comunal.
+3. Les contribucions especials s’apliquen encara que els terrenys, edificis o locals disposin en alguna de les seves parts o façanes d’obres anàlogues a les millores que es tracti de finançar mitjançant contribucions especials i que corresponguin a altres vies que limiten amb els referits terrenys, edificis o locals amb façana a la via pública.
+4. No es poden aplicar contribucions especials per raó de:
+a) Obres de mera conservació, reparació ordinària o manteniment corrent.b) Obres d’urbanització que beneficien presumptes obligats tributaris quan aquests paguen íntegrament les obres.
 
 **Article 26. Obligats tributaris**
 
-$2a
+1. Són obligats tributaris els propietaris de béns immobles ubicats en la zona de benefici lineal.
+2. S’entén per zona de benefici lineal els metres de longitud de façana de la propietat de l’obligat tributari que experimentin un augment de valor com a conseqüència de la realització de les obres o de l’establiment o ampliació dels serveis públics comunals.
+3. Subsidiàriament, són obligats tributaris els posseïdors dels béns immobles ubicats en la zona de benefici lineal, si aquests béns immobles no tenen propietari, si el propietari és desconegut o si hi ha contesa judicial sobre la titularitat dominical.
+4. Són obligats tributaris per benefici singular les empreses subministradores de serveis que utilitzen les instal·lacions corresponents establertes a la lletra f) de l’apartat 2 de l’article 25.
+5. S’entén com a benefici singular l’increment de valor que experimenten els béns immobles com a conseqüència de les obres a què dóna lloc la contribució especial aplicada, tant si són propietat de les empreses subministradores de serveis com si en tenen el dret d’ús.
 
 **Article 27. Entitats totalment exemptes**
 
@@ -195,7 +229,9 @@ als efectes de reclamacions i recursos.
 
 **Article 32. Gestió i liquidació**
 
-$2c
+1. Les liquidacions de les contribucions especials efectuades prenent com a base el cost projectat de les obres són provisionals i es notifiquen als obligats tributaris seguint el procediment administratiu de dret comú.
+2. Un cop aprovada la liquidació pressupostària de la despeses corresponent a l’obra executada es practiquen les liquidacions definitives. Si l’import real de la despesa és diferent al calculat inicialment, les liquidacions són rectificades d’ofici pel comú per ajustar-les a la realitat del cost. Si a causa de la rectificació, les quotes definitives són més elevades que les provisionals l’excés s’exigeix mitjançant liquidació addicional. Si les liquidacions provisionals són superiors a les definitives, l’Administració retorna la diferència als obligats tributaris en el termini de tres mesos a comptar de la data de l’acord de rectificació.
+3. Les quotes poden ser fraccionades, per períodes anyals i per un termini màxim de cinc anys a comptar de la data del meritament, a petició expressa de l’obligat tributari i d’acord amb la Llei de bases de l’ordenament tributari.
 
 #### Capítol IV. Impostos comunals
 
@@ -211,23 +247,89 @@ a) L’impost tradicional del foc i lloc.b) L’impost sobre la propietat immobi
 
 **Article 35. L’impost tradicional del foc i lloc**
 
-$2e
+1. Definició: L’impost tradicional del foc i lloc és un impost de naturalesa directa que grava el fet de residir en el territori d’una parròquia.
+2. Fet generador: El fet generador de l’impost del foc i lloc és la residència principal d’una persona física en el territori de la parròquia corresponent.
+Als efectes d’aquest impost s’entén com a residència principal el lloc on està censada la persona el primer dia de l’any natural, o el dia de la primera inscripció al cens comunal en cas de canvi de parròquia o per a les persones que provenen d’altres països.
+3. Obligat tributari: Té la condició d’obligat tributari cada resident, censat en el territori d’una parròquia que, a la data del meritament de l’impost, sigui major de 17 anys i menor de 66 anys.
+4. Quota tributària: Cada comú fixa, mitjançant l’ordinació corresponent, la quota tributària de l’impost del foc i lloc, entre 5 i 50 euros per obligat tributari.
+5. Període impositiu i meritació: El període impositiu de l’impost és anyal, i es prorrateja mensualment en cas de canvi de residència, d’acord amb la corresponent ordinació.
+La meritació es produeix el primer dia de l’any natural o bé al mes següent a la primera inscripció al cens comunal en cas de canvi de residència.
+6. Gestió i liquidació: La gestió i la liquidació de l’impost del foc i lloc corresponen a cada comú, que les determina per ordinació, seguint les disposicions de la present Llei.
+Els obligats tributaris que convisquin en una mateixa unitat immobiliària han d’ingressar el deute tributari de forma conjunta, en el lloc, en la forma, en els terminis i segons els models que cada comú estableixi mitjançant l’ordinació corresponent. En aquest supòsit, és el titular del domicili de la unitat immobiliària qui ha d’ingressar el deute tributari.
+Opcionalment, i mitjançant el procediment establert en l’ordinació corresponent, els obligats tributaris d’una mateixa unitat immobiliària poden sol·licitar l’ingrés del deute tributari de forma individual.
+S’entén per unitat immobiliària, el lloc de residència d’un o diversos obligats tributaris que habiten en un pis, casa unifamiliar, i també en les habitacions d’hotels i aparthotels que constitueixen l’habitatge habitual d’un o diversos obligats tributaris.
 
 **Article 36. Impost sobre la propietat immobiliària**
 
-$30
+1. Definició: L’impost sobre la propietat immobiliària és un impost de naturalesa directa que grava la propietat d’un bé immoble situat en el territori d’una parròquia o el dret real d’ús sobre la propietat immobiliària.
+2. Fet generador: El fet generador de l’impost sobre la propietat immobiliària és la propietat d’un bé immoble o la titularitat d’un dret real d’ús sobre un bé immoble. En el supòsit d’un dret real d’ús, és el titular d’aquest dret qui resta sotmès a l’import per la totalitat de la propietat immobiliària. La propietat immobiliària que no estigui edificada, no està subjecta al present impost.
+3. Obligat tributari: És obligat tributari el propietari de l’immoble o el titular real del dret real d’ús. En cas de no conèixer el titular del dret real de propietat o del dret real d’ús, es obligat tributari el titular de l’autorització de construcció. També tenen la consideració d’obligats tributaris, les societats civils, herències jacents, comunitats de béns i totes les entitats o patrimonis autònoms que, malgrat no tenir personalitat jurídica pròpia, constitueixen una unitat econòmica susceptible d’imposició.
+4. Base de tributació: La base de tributació es determina en funció dels metres quadrats de superfície del bé immoble, independentment del seu ús.
+Quan la propietat immobiliària és edificada, la superfície del bé immoble correspon a la superfície total construïda i es pondera per un índex de localització. No obstant el previst en l’apartat anterior, en els casos d’espais construïts dedicats a terrasses, aparcaments i trasters només es computa com a propietat edificada com a màxim el 40% de la superfície d’aquests espais.
+Els comuns estableixen una escala d’índexs de localització per tal de considerar la categoria del lloc o el carrer on es troba situat el bé immoble. El valor dels índexs de localització se situa entre 0,5 i 2. La classificació dels llocs o els carrers de cada parròquia s’estableix en l’ordinació tributària comunal, en què es distingeix un nombre màxim de cinc categories.
+En el cas d’immobles destinats a activitats agrícoles i ramaderes -incloses les activitats apícoles-, el comú ha d’aplicar una bonificació del 100% de les quotes tributàries, sempre que les persones físiques i jurídiques, constin com a titulars de l’explotació agrària i que estiguin degudament inscrites al Registre d’Explotacions Agràries (REA) del Govern.
+5. Tipus de gravamen: El tipus de gravamen aplicable a la propietat immobiliària edificada està comprès entre 0,3 i 3 euros per metre quadrat edificat de la superfície del bé immoble. Aquests tipus de gravamen són aprovats per cada comú, mitjançant les corresponents ordinacions.
+6. Quota tributària: La quota tributària de l’impost sobre la propietat immobiliària resulta d’aplicar a la base de tributació el tipus de gravamen.
+7. Període impositiu i meritament: El període impositiu de l’impost és anyal, i es prorrateja mensualment en cas de transmissió o adquisició, d’acord amb la corresponent ordinació. La meritació es produeix el primer dia de l’any natural, o bé al mes següent a l’obtenció del títol de propietat o dret real d’ús.
+8. Gestió i liquidació: La gestió i la liquidació de l’impost sobre la propietat immobiliària corresponen al comú, que les determina per ordinació, seguint les disposicions d’aquesta Llei. Els obligats tributaris han de determinar i ingressar el deute tributari en el lloc, la forma, els terminis i segons els models que estableix cada comú.
 
 **Article 37. Impost sobre els rendiments arrendataris**
 
-$32
+1. Definició: L’impost sobre els rendiments arrendataris és un impost de naturalesa directa que grava l’obtenció de rendes derivades del lloguer d’un bé immoble situat en el territori d’una parròquia.
+2. Fet generador: El fet generador de l’impost sobre els rendiments arrendataris són les rendes procedents del lloguer de béns immobles, obtingudes directament per l’arrendador dels mateixos, així com les obtingudes del sotsarrendament i derivades de contractes de gestió entesos com aquells en mèrits dels quals el titular del dret cedeix el rendiment al gestor. No estan subjectes a aquest impost els rendiments derivats de l’explotació d’habitatges d’ús turístic (HUT), de les entitats gestores dels habitatges d’ús turístic (EGHUT) i dels contractes de gestió d’habitatges d’ús turístic.
+3. Obligat tributari: Als efectes de l’impost sobre els rendiments arrendataris, és obligat tributari qui obtingui les rendes derivades del lloguer d’un bé immoble, ja sigui en virtut d’un títol de propietat o d’un dret real d’ús, o en virtut d’un sotsarrendament. Els gestors dels lloguers o drets sobre béns immobles, tenen la condició de responsables solidaris del deute tributari. També tenen la consideració d’obligats tributaris, les societats civils, o herències jacents, comunitats de béns i totes les entitats o patrimonis autònoms que, malgrat no tenir responsabilitat jurídica pròpia, constitueixen una unitat econòmica susceptible d’imposició.
+4. La base de tributació: La base de tributació de l’impost sobre rendiments arrendataris està constituïda per la suma de les rendes efectivament acreditades per l’obligat tributari, durant el període impositiu.
+5. Tipus de gravamen: El tipus de gravamen de l’impost sobre els rendiments arrendataris és un percentatge, que pot oscil·lar entre un mínim d’un 0,1% i un màxim del 4%, i que ha de ser aprovat per cada comú mitjançant ordinació. Els comuns, mitjançant ordinació, poden establir un tipus de gravamen diferent per a cada tipus de fet generador, sempre respectant els llindars exposats al present punt.
+6. Quota tributària: La quota tributària de l’impost sobre els rendiments arrendataris resulta d’aplicar a la base de tributació el tipus de gravamen.
+7. Període impositiu i meritament: El període impositiu de l’impost sobre els rendiments arrendataris és l’any natural. L’impost es merita l’últim dia del període impositiu. En cas de defunció de l’obligat tributari, el període impositiu finalitza el dia de la defunció.
+8. Gestió i liquidació: La gestió i la liquidació de l’import sobre els rendiments arrendataris corresponen al comú, que les determina per ordinació, seguint les disposicions d’aquesta Llei.
 
 **Article 38. Impost de radicació d’activitats comercials, empresarials i professionals**
 
-$34
+1. Definició: L’impost de radicació d’activitats comercials, empresarials i professionals és un impost de naturalesa directa que grava l’exercici d’una activitat comercial, empresarial o professional realitzada en el territori d’una parròquia.
+2. Fet generador: El fet generador de l’impost és l’exercici d’una activitat comercial, empresarial o professional en el territori d’una parròquia.
+Són activitats comercials, empresarials o professionals, les que impliquin l’ordenació per compte propi de factors de producció materials i humans o d’algun d’ells, amb la finalitat d’intervenir en la producció, la realització o la comercialització de béns i serveis.
+També té la consideració d’activitat comercial, empresarial o professional, a l’efecte de l’aplicació d’aquest impost, l’explotació d’habitatges d’ús turístic (HUT), les entitats gestores d’habitatges d’ús turístic (EGHUT) i els contractes de gestió de HUT, tant per persones físiques com per persones jurídiques, fins i tot quan no es requereixi la inscripció en el Registre de Comerç d’acord amb la Llei 16/2017, del 13 de juliol, general de l’allotjament turístic.
+Els HUT, els EGHUT i els contractes de gestió de HUT, queden definits en la Llei 16/2017, del 13 de juliol, general de l’allotjament turístic.
+3. Obligat tributari: És obligat tributari de l’impost sobre la radicació la persona, física o jurídica, titular de l’activitat econòmica.
+Les entitats gestores d’habitatges d’ús turístic (EGHUT), tenen la condició de responsables solidaris del deute tributari. A més, tenen la condició d’obligats tributaris les entitats, com ara societats civils, comunitats de béns, i d’altres entitats que, sense tenir personalitat jurídica, constitueixen una unitat econòmica o un patrimoni separat, quan realitzin activitats comercials, empresarials o professionals.
+4. Base de tributació: La base de tributació es determina en funció dels metres quadrats de la superfície d’explotació ponderada per un índex de localització.
+La superfície d’explotació és la superfície total dels locals destinats a la realització de l’activitat, expressada en metres quadrats i, si és el cas, mitjançant la suma de totes les seves plantes. En el cas que l’activitat consisteixi en l’explotació d’habitatges d’ús turístic (HUT), la superfície d’explotació es correspon amb la superfície de cadascun dels habitatges d’ús turístic objecte d’aquesta explotació, expressada en metres quadrats, i en el cas de les entitats gestores d’habitatges d’ús turístic (EGHUT), la superfície d’explotació es correspon amb el local comercial destinat a dita activitat.
+Tanmateix, en els casos següents només es pot prendre com a màxim com a superfície d’explotació el 40% de la superfície:
+a) Superfície no construïda o descoberta dedicada al dipòsit de matèries primeres o productes de qualsevol classe, així com la superfície ocupada per vials, jardins, zones de seguretat, etc.b) Superfície construïda o coberta dels magatzems i dipòsits de tots tipus.c) Superfície dels aparcaments coberts o descoberts, sempre que l’activitat desenvolupada a títol principal no sigui d’aparcament.
+Els comuns han d’establir una escala d’índexs de localització per tal de considerar la categoria del lloc o del carrer on radiqui cada activitat econòmica.
+El valor dels índexs de localització se situa entre 0,5 i 2.
+La classificació dels llocs o els carrers de cada parròquia s’estableix en l’ordinació tributària comunal, en què es distingeix un nombre màxim de cinc categories.
+5. Tipus de gravamen: El tipus de gravamen aplicable, per cada activitat definida pels comuns d’acord amb la classificació efectuada en la Classificació d’Activitats Econòmiques d’Andorra, ha d’estar comprès entre 0,05 i 100 euros per metre quadrat de la superfície d’explotació.
+6. Quota tributària: La quota tributària de l’impost de radicació d’activitats comercials, empresarials i professionals resulta d’aplicar a la base de tributació el tipus de gravamen.
+No obstant, l’establert en el paràgraf anterior, s’estableix una quota tributària mínima aplicant el tipus de gravamen que correspongui al resultat de multiplicar l’índex de localització per 20 metres quadrats, així com una quota tributaria màxima de 300.000€.
+7. Bonificacions obligatòries: En el cas d’empresaris que iniciïn una nova activitat comercial, empresarial o professional, l’obligat tributari es pot beneficiar de les bonificacions següents:
+a) Reducció de fins al 100% de les quotes tributàries que es meritin durant els primers dotze mesos a comptar des de l’inici de l’activitat.b) Reducció de fins al 50% de les quotes tributàries que es meritin durant els dotze mesos següents a l’inici de l’activitat i fins a un total de 24 mesos posteriors a l’esmentat inici de l’activitat.c) Reducció del 100% de les quotes tributàries a les activitats agrícoles i ramaderes, incloses les activitats apícoles, realitzades per persones físiques i jurídiques que constin com titulars de les explotacions agràries i estiguin degudament inscrites al Registre d’Explotacions Agràries (REA) del Govern.
+L’ordinació comunal regula la bonificació aplicable en cada cas dins dels límits que estableix aquesta Llei.
+Les bonificacions referides a les lletres a) i b) no s’apliquen en cas que l’activitat hagi estat exercida amb anterioritat, encara que sigui com a conseqüència d’un canvi de titularitat.
+8. Període impositiu i meritament: El període impositiu de l’impost de radicació d’activitats comercials, empresarials i professionals és l’any natural, i es prorrateja mensualment en cas d’inici o finalització d’activitat, d’acord amb la corresponent ordinació.
+L’impost es merita el dia 1 de gener de cada any.
+En cas que l’activitat s’iniciï després de l’1 de gener, l’impost es merita a la data d’inici de l’activitat, i en aquest cas la quota tributària es pot calcular proporcionalment al nombre de mesos naturals que restin per finalitzar l’any, inclòs el de l’inici de l’activitat, d’acord amb la corresponent ordinació.
+En cas que l’activitat finalitzi abans del 31 de desembre, la quota tributària es pot calcular proporcionalment al nombre de mesos naturals durant els quals s’ha dut a terme l’activitat, inclòs el de finalització de l’activitat, d’acord amb la corresponent ordinació.
+9. Gestió i liquidació: La gestió i la liquidació de l’impost de radicació d’activitats comercials, empresarials i professionals corresponen al comú, que les determina per ordinació, seguint les disposicions d’aquesta Llei.
+Els obligats tributaris han de determinar i ingressar el deute tributari en el lloc, la forma, els terminis i segons els models que estableixi cada comú.
+En cas de baixa d’activitat, el comú, d’ofici, procedeix a la devolució de la part proporcional de la quota satisfeta.
 
 **Article 39. Impost sobre la construcció**
 
-$36
+1. Definició: L’impost sobre la construcció és un impost de naturalesa directa que grava la realització d’edificacions de nova planta o l’ampliació d’edificacions existents.
+2. Fet generador: El fet generador de l’impost és la realització, dins del terme de la parròquia, d’edificacions de nova planta o bé d’obres d’ampliació d’edificacions existents.
+3. Obligat tributari: És obligat tributari de l’impost la persona, física o jurídica, que sol·licita la llicència de construcció o ampliació de l’edifici, i en el cas que aquesta llicència no sigui preceptiva, és obligat tributari la persona, física o jurídica, que presenti el projecte d’interès nacional o el pla sectorial.
+4. Base de tributació: La base de tributació és la superfície de l’edificació de nova planta, o de l’ampliació, expressada en metres quadrats i ponderada per un índex de localització. A efectes de l’impost, s’entén per superfície de l’edificació de nova planta, o de l’ampliació, la superfície de l’obra efectivament construïda, inclosos els soterranis i els cossos volats.
+Els comuns han d’establir una escala d’índex de localització per tal de considerar la categoria del lloc o del carrer on es troba situat l’immoble. El valor dels índexs de localització se situa entre 0,5 i 2.
+La indexació dels llocs o els carrers de cada parròquia s’estableix en l’ordinació tributària comunal, en què es distingeixen un nombre màxim de cinc categories.
+5. Tipus de gravamen: El tipus de gravarem aplicable està comprès entre 10 i 50 euros per metre quadrat, i ha de ser aprovat per cada comú mitjançant ordinació.
+6. Quota tributària: La quota tributària és el resultat d’aplicar a la base de tributació el tipus de gravamen.
+7. Bonificacions obligatòries: Cada comú estableix, en la seva ordinació tributària, les bonificacions següents sobre la quota tributària:
+a) Una bonificació de la quota tributària de fins al 90% per a les edificacions de nova planta o ampliació d’edificacions ja existents que es destinin a ús d’habitatge.En el cas que l’obligat tributari sigui una persona física, la bonificació és aplicable indiferentment si l’habitatge és per a l’ús propi o en règim de lloguer; si l’obligat és una persona jurídica, la bonificació només s’aplica si l’ús de l’habitatge és en règim de lloguer.b) Una bonificació de la quota tributària de fins al 90% per a les edificacions de nova planta o ampliació d’edificacions existents que es destinin exclusivament a ús d’aparcament.c) Una bonificació de la quota tributària de fins al 90% per a les edificacions de nova planta o ampliació d’edificacions existents que es destinin exclusivament a ús agrícola i ramader.Les ordinacions tributàries de cada comú han de preveure l’obligació de restitució de les bonificacions tributàries concedides per raó de la destinació de l’edificació o ampliació, en el cas que es canviés aquella destinació dins dels 10 anys següents a la data de liquidació de l’impost. La restitució abasta l’import íntegre de la bonificació, incrementat amb els interessos meritats al tipus resultant de sumar dos punts percentuals al de l’interès moratori, a comptar a partir de la data d’obtenció de la primera llicència.Aquesta restitució només s’admet per edificis sencers independents, no per unitats immobiliàries producte de la divisió horitzontal.
+8. Meritament: L’impost es merita en el moment d’obtenir la llicència corresponent, i en el cas que aquesta no sigui preceptiva, en el moment de validar el projecte corresponent per part del comú.
+9. Gestió i liquidació: La gestió i la liquidació de l’impost sobre la construcció corresponen al comú, que les determina per ordinació, seguint les disposicions d’aquesta Llei.
+Els obligats tributaris han d’ingressar el deute tributari en el lloc, la forma, els terminis i segons els models que estableixi cada comú.
 
 #### Capítol V. Impostos d’àmbit estatal compartits
 
@@ -307,7 +409,13 @@ Els terminis, el còmput i la interrupció de la prescripció, així com els seu
 
 **Article 51. Definició i modalitats**
 
-$38
+1. Constitueixen l’endeutament comunal els cabals manllevats per:
+a) L’Administració comunal.b) Les societats públiques participades per l’Administració comunal definides a l’article 62.c) L’endeutament de les altres societats participades per l’Administració comunal, sempre que el percentatge de participació sigui superior al 5% i no es trobin incloses en la lletra b) anterior, o bé que l’Administració comunal tingui almenys un membre en el Consell d’Administració de la societat participada.
+2. Per a les societats definides a les lletres b) i c) de l’apartat 1 anterior, es computa l’endeutament que superi l’import dels fons propis de la societat, ponderat pel percentatge de participació en el capital social. Per a determinar el valor dels fons propis s’està al que disposi la normativa comptable vigent.
+3. En els casos previstos en els apartats 2 i 3 anteriors, no es computa la xifra d’endeutament que hagi estat objecte d’aval per part de l’Administració comunal.
+4. L’endeutament comunal comprèn:
+a) Els emprèstits, mitjançant emissió de deute públic.b) Préstecs i línies de crèdit i operacions financeres amb entitats financeres radicades a Andorra o a l’estranger.c) Els saldos disposats de pòlisses de crèdit i d’altres operacions de tresoreria.d) Lliurament de lletres de canvi, pagarés o documents similars, operacions deconfirmingo defactoringamb recurs.e) Concessió d’avals i garanties.f) Conversió o substitució, total o parcial, d’operacions preexistents.g) Les operacions d’arrendament financer.h) Instruments financers derivats, de cobertura i gestió del risc de tipus d’interès i de canvi.
+5. En cap cas l’endeutament comunal es pot instrumentar a través de títols negociables.
 
 **Article 52. Classificació**
 
@@ -337,7 +445,10 @@ amb recurs, en què el període de temps transcorregut entre la disposició dels
 
 **Article 56. Quantia màxima de l’endeutament**
 
-$3a
+1. L’import total de les operacions d’endeutament referides a l’article 51 no pot excedir del dos-cents per cent (200 %) de la mitja dels ingressos totals liquidats en els pressupostos corresponents als tres anys naturals immediatament anteriors, excloent del total dels ingressos els corresponents a operacions d’endeutament i els procedents de l’alienació del patrimoni. En el cas de superar-se el referit límit els comuns no poden formalitzar operacions d’endeutament net.
+2. L’import total de les operacions d’endeutament a curt termini no pot excedir el 40% de la mitja dels ingressos totals liquidats en els pressupostos corresponents als tres anys naturals immediatament anteriors, excloent del total dels ingressos els corresponents a operacions d’endeutament i els procedents de l’alienació del patrimoni. A aquests efectes tenen la consideració d’operacions d’endeutament a curt termini les següents:
+a) Les bestretes que puguin rebre’s d’entitats financeres, a compte de la recaptació dels tributs i dels preus públics acreditats en cada exercici econòmic i liquidats a través de padró o matrícula.b) Els préstecs i crèdits atorgats per entitats financeres per a cobrir desfasaments transitoris de tresoreria.
+3. En produir-se, o bé en cas d’existir un risc greu d’incompliment del topall màxim de l’endeutament, cal formular i aprovar un pla d’equilibri financer, en els termes que preveu la Llei de sostenibilitat de les finances públiques i d’estabilitat pressupostària i fiscal.
 
 #### Capítol IV. Infraccions i Sancions no tributàries
 
@@ -409,7 +520,12 @@ Si l’Administració comunal no paga al creditor de les finances comunals en el
 
 **Article 68. Prescripció**
 
-$3c
+1. Salvat allò que altres lleis estableixin, prescriuen al cap de tres anys:
+a) En general, les obligacions de despesa i de pagament. Els terminis de prescripció comencen, en el primer cas, a la data de presentació dels documents justificatius de l’efectivitat de la despesa, i, en el segon cas, a la data de notificació de la liquidació de la despesa o de l’ordre de pagament.b) En especial, el dret a la devolució d’ingressos indeguts. El termini de prescripció s’inicia el dia de l’ingrés.
+2. El dret de reclamar drets i perjudicis prescriu al cap de tres anys a comptar de la data en què es produeix el fet, l’acció o l’omissió que el motiva.
+3. La prescripció queda interrompuda si l’Administració comunal reconeix el deute de forma fefaent al creditor, o si aquest li n’exigeix el pagament, també de forma fefaent. En cas d’interrupció de la prescripció l’Administració comunal no perd el temps transcorregut abans de la interrupció.
+4. La prescripció de les obligacions econòmiques s’aplica d’ofici mitjançant resolució de l’òrgan competent.
+5. Per tot allò no regulat en el present article, es regula per la Llei de bases de l’ordenament tributari vigent.
 
 #### Capítol III. Pressupost comunal
 
@@ -436,7 +552,13 @@ a) A l’estat d’ingressos: els drets liquidats corresponents a l’exercici d
 
 **Article 72. Principi d’especialitat (qualitativa, quantitativa i temporal)**
 
-$3e
+1. Cada crèdit es destina exclusivament a la despesa especificada en el pressupost respectiu, llevat de les modificacions que se’n poden aprovar segons els articles 79 a 83.
+2. Els crèdits consignats en els estats de despeses, llevat dels supòsits de suplements de crèdits i de crèdits ampliables conforme als articles 80 i 81 respectivament, tenen un abast limitatiu i vinculant a nivell de concepte per a la generalitat de les despeses, i a nivell de programa per a les despeses d’inversió, encara que no siguin plurianuals, i, per consegüent, no es poden autoritzar despeses l’import de les quals excedeixi els crèdits pressupostaris d’acord amb la vinculació respectiva.
+3. A càrrec dels crèdits consignats en el pressupost respectiu tan sols es poden contreure obligacions a liquidar durant l’exercici pressupostari. Això no obstant:
+A) S’apliquen als crèdits del pressupost vigent, en el moment d’expedició de llurs ordres de pagament, les obligacions següents:
+a) Les que resulten de la liquidació d’endarreriments a favor del personal inclòs en nòmines del pressupost comunal.b) Les derivades d’exercicis anteriors i liquidades durant el període de què es tracti i que haurien d’haver estat imputades a crèdits ampliables.
+B) S’incorporen al pressupost de l’exercici següent, per acord del Ple del Consell de Comú o dels respectius consells d’administració de les societats públiques comunals, segons els casos:
+a) Els crèdits extraordinaris, els suplements de crèdit i les transferències de crèdits aprovats durant l’últim trimestre de l’exercici pressupostari i no liquidats, totalment o parcialment, dins d’aquell mateix exercici.b) Els crèdits corresponents a despeses plurianuals i no liquidats, totalment o parcialment, dins d’aquell mateix exercici.c) Els crèdits per a despeses d’inversió real no plurianuals, compromeses fins al 31 de desembre.d) Els crèdits que emparin compromisos de despesa corrent concrets i que, per causes justificades, no s’hagin pogut realitzar en l’exercici en què s’han compromès.e) Els reintegraments de pagaments indeguts i les aportacions d’entitats realitzats durant l’últim trimestre de l’exercici pressupostari.
 
 **Article 73. Principi de no afectació dels ingressos**
 
@@ -450,13 +572,23 @@ El pressupost comunal s’ajusta a l’estructura del pressupost de l’Administ
 
 **Article 75. Estat d’ingressos i de despeses**
 
-$40
+1. Els crèdits dels estats d’ingressos i de despeses s’ordenen per capítols, articles, conceptes i subconceptes.
+2. L’estat d’ingressos s’estructura en el grup d’impostos directes, impostos indirectes, taxes i d’altres ingressos, ingressos patrimonials, alienació d’inversions reals, actius financers i passius financers.
+3. L’estat de despeses es classifica d’acord amb els següents criteris: administratiu, econòmic i funcional.
+a) La classificació administrativa agrupa els crèdits segons els diferents òrgans encarregats de la gestió de la despesa.b) La classificació econòmica atén la naturalesa de les despeses dins de la classificació administrativa, diferenciades en despeses corrents, despeses de capital i variació d’actius i passius financers. Les despeses corrents comprenen les de personal, consum de béns corrents i de serveis, interessos i d’altres costos financers, i transferències corrents. Les despeses de capital inclouen les inversions reals adreçades a la creació de nou capital físic o la seva renovació, més les transferències de capital, per tal que les inversions reals siguin realitzades per tercers. Les variacions d’actius i de passius financers reflecteixen les produïdes en les operacions financeres.c) La classificació funcional de les despeses pren en consideració la seva finalitat i agrupa les àrees d’actuació. Els crèdits s’ordenen en àrees de despesa, polítiques de despesa i grup de programes -que al seu torn s’estructuren en programes i subprogrames- i és equivalent i correspon a l’ordenació en grups, en funcions i en subfuncions- que al seu torn s’ordenen en programes i projectes-, respectivament, de la classificació funcional que preveu l’article 18 de la Llei general de les finances públiques. Respon a un sistema d’objectius que serveix de marc a la gestió pressupostària i permet conèixer-ne l’acompliment.
+4. Cada projecte d’inversió real exigeix la formalització d’una fitxa o registre informàtic que expressi i relacioni les dades següents:
+a) Justificació de la inversió i objectiu o objectius a assolir amb la realització del projecte.b) Sistema de càlcul emprat per avaluar el projecte.c) Estimació de la despesa d’inversió real per a la totalitat del projecte.d) Nombre d’unitats físiques, segons la naturalesa de la inversió real que ha de crear o sobre la qual ha de reposar el projecte.e) Localització del projecte, si escau.f) Estimació de l’import de despeses corrents que origina el funcionament de cada projecte, un cop realitzat.g) Especificació de si es tracta d’inversió real nova o d’inversió de reposició.h) Especificació si es tracta de despeses plurianuals i, quan sigui el cas, del grau d’execució de la inversió.
 
 ##### Secció tercera. Elaboració i aprovació
 
 **Article 76. Formació del projecte. Documentació annexa**
 
-$42
+1. L’elaboració del pressupost anual comunal s’ha d’ajustar al marc pressupostari general que cobreix el període de mandat, d’acord amb els requisits i condicions que preveu la normativa vigent en matèria de sostenibilitat de les finances públiques i d’estabilitat pressupostària i fiscal. En aquest sentit, el pressupost comunal ha d’elaborar-se d’acord amb el principi d’estabilitat pressupostària, en situació d’equilibri o de superàvit.
+2. D’acord amb les directrius rebudes del Ple del Comú, el conseller encarregat de les finances prepara el projecte de pressupost de l’Administració comunal, amb les propostes formulades per tots els departaments.
+3. El projecte de pressupost de l’Administració comunal conté la proposta de text articulat de l’ordinació del pressupost comunal i els estats d’ingressos i de despeses; s’hi adjunta, a més, la documentació següent:
+a) Una memòria explicativa que justifiqui les variacions més importants respecte al pressupost anterior i, especialment, si és el cas, la necessitat de nou endeutament, tot especificant-ne les possibles característiques i modalitats. A la memòria s’han d’exposar les bases utilitzades per a l’avaluació dels ingressos, les operacions de crèdit previstes, la suficiència dels crèdits per atendre el compliment de les obligacions exigibles i les despeses de funcionament dels serveis i, en conseqüència, l’efectiu equilibri del pressupost.b) Un informe sobre la necessitat dels crèdits per a transferències corrents i de capital que ha d’incloure, a més del seu import, el detall de les característiques i condicions financeres en què es prevegin concertar amb especial referència a la càrrega financera del comú abans i després de la seva formalització.c) Un informe sobre l’estat de situació de l’endeutament i del compliment d’allò que preveu l’article 56.d) Qualsevol altra informació que el Ple del Comú estimi convenient.
+4. Els consells d’administració de les societats públiques participades per l’Administració comunal aproven llurs projectes de programes d’actuació, inversions i finançament i els trameten a l’Administració comunal a través del departament encarregat de les finances, abans del dia 20 de setembre.
+5. Als projectes de pressupost i de programes d’actuació, inversions i finançament s’acompanya l’informe de la Intervenció comunal, amb relació al compliment de les limitacions d’endeutament i de despesa màxima permesa, d’acord amb el que preveu la normativa vigent en matèria de sostenibilitat de les finances públiques i d’estabilitat pressupostària i fiscal.
 
 **Article 77. Tramitació del projecte i aprovació de l’ordinació del pressupost comunal**
 
@@ -476,7 +608,10 @@ $42
 
 **Article 79. Modificació qualitativa: crèdits extraordinaris**
 
-$44
+1. Quan calgui contreure obligacions que comportin despeses no incloses en el pressupost comunal i que, atesa llur necessitat i urgència, no es puguin o no convingui ajornar fins a l’exercici següent, els cònsols poden acordar la presentació d’un projecte d’ordinació de crèdit extraordinari per a la seva aprovació pel Ple del Comú.
+2. El projecte d’ordinació de crèdit extraordinari ha d’incloure la determinació dels ingressos concrets destinats a finançar el crèdit extraordinari i que poden ser: més recaptació d’ingressos respecte als previstos; transferències d’altres crèdits que s’estimin reduïbles; aplicació de contribucions especials; nou endeutament; disminució de la tresoreria o venda de béns patrimonials. El projecte s’ha d’acompanyar d’una memòria explicativa que justifiqui la necessitat i urgència de realitzar l’obra o de prestar el servei de què es tracti.
+3. No es poden aprovar crèdits extraordinaris pel fet d’haver-se contret obligacions sense dotació pressupostària llevat dels supòsits d’avenços de fons a què es refereix l’article 84.
+4. No es considera crèdit extraordinari la dotació mitjançant transferència de crèdit regulada per l’article 82, de despeses corrents no incloses en el pressupost però previstes formalment i genèricament a nivell de concepte en l’estructura pressupostària.
 
 **Article 80. Modificació quantitativa: (I) suplements de crèdit**
 
@@ -509,7 +644,15 @@ a) Aportacions de persones físiques o jurídiques exigibles d’acord amb la le
 
 **Article 85. Extensió temporal dels crèdits: despeses plurianuals**
 
-$46
+1. L’autorització de despeses amb abast plurianual se subordina als crèdits que per a cada exercici autoritzi el pressupost comunal.
+2. Amb caràcter general, les despeses plurianuals han de ser aprovades pel Ple del Comú en l’ordinació anual del pressupost comunal o en una ordinació separada. En determinats casos, que han de contemplar-se en les ordinacions, l’aprovació pot delegar-se en la Junta de Govern.
+3. Poden adquirir-se compromisos per despeses que s’hagin d’estendre a exercicis posteriors a aquell en què s’autoritzin, sempre que la seva execució s’iniciï en el propi exercici i tinguin per objecte finançar:
+a) Inversions reals i transferències de capital.b) Despeses en béns i serveis la contractació dels quals, sota les modalitats establertes en la Llei de contractació pública, no pugui ésser estipulada o resulti antieconòmica per un any.c) Arrendaments de béns immobles.d) Transferències corrents derivades de normes de rang de llei o de convenis o de contractes programa que emparin actuacions d’abast plurianual.e) Financeres, derivades d’operacions d’endeutamentf) Actius financers.
+4. El nombre d’exercicis als quals es poden aplicar les despeses esmentades a les lletres a), b), d) i f) de l’apartat anterior no ha d’ésser superior a cinc.
+5. El límit màxim d’anualitats esmentat a l’apartat 4 d’aquest article el pot ampliar el Ple del Comú, o la Junta de Govern, si té la competència delegada, en funció de les necessitats que exigeixi el desenvolupament correcte dels contractes de concessió d’obres i dels contractes de concessió de serveis, sempre que el pressupost comunal n’estableixi els supòsits i la quantitat màxima per a l’exercici.
+6. Les despeses plurianuals aprovades durant l’exercici són efectives a partir de llur incorporació en el pressupost de l’exercici següent. Això no obstant, quan l’ordinació corresponent ho especifiqui, es poden iniciar els projectes i les actuacions a què es refereixi l’ordinació si hi ha previstos prou crèdits en el pressupost en curs. Qualsevol modificació dels crèdits pressupostaris com a conseqüència de la inclusió de despeses plurianuals ha d’atenir-se a les disposicions dels articles 79 a 83, ambdós inclosos.
+7. L’existència prèvia d’ordinacions de despeses plurianuals obliga a incloure els crèdits corresponents en elaborar el pressupost següent si tenen previstos terminis d’execució i afectació anuals d’imports. Altrament, en elaborar el pressupost, el Ple del Comú ha de determinar la quantitat atribuïda a cada exercici.
+8. Els compromisos per a despeses plurianuals són objecte de comptabilització independent.
 
 ##### Secció cinquena. Execució de l’estat d’ingressos
 
@@ -527,11 +670,24 @@ En la forma que estableixi l’ordinació corresponent, els comuns poden agrupar
 
 **Article 88. Ordenació de despeses**
 
-$48
+1. La facultat d’emetre propostes de despesa correspon als cònsols o als consellers, que les han de trametre al departament encarregat de les finances als efectes de fiscalització i comptabilització.
+2. La competència per autoritzar despeses correspon als cònsols o al Ple del Comú, fins al límit quantitatiu que determini cada any el text articulat de l’ordinació del pressupost comunal.
+3. Els òrgans gestors corresponents de l’Administració comunal han de trametre llurs compromisos de despesa i llurs liquidacions de despesa al departament encarregat de les finances, als efectes de fiscalització i comptabilització.
+4. Els compromisos de despesa han d’anar acompanyats de la documentació o les referències adequades demostratives del compliment de les normes reguladores de la contractació.
+5. Les liquidacions de despesa han d’anar acompanyades del certificat d’obra, factura o document justificatiu anàleg, inclosa la declaració de la persona responsable en el sentit d’haver-se executat l’obra, prestat el servei o rebut el subministrament o l’adquisició de conformitat.
+6. El Ple del Comú pot aprovar els models de documentació necessària per al desplegament del procediment administratiu d’ordenació de despeses, d’acord amb criteris de màxima simplificació i de mínim cost burocràtic.
 
 **Article 89. Ordenació de pagaments: pagaments en ferm i a justificar**
 
-$4a
+1. Un cop liquidada la despesa, els cònsols han de proposar el pagament de l’obligació. S’exceptuen del requisit previ de liquidació:
+a) Els pagaments urgents, els quals, però, necessiten en qualsevol cas l’empara d’una autorització o un compromís de despesa i resolució dels cònsols, que ha de comunicar-se al departament encarregat de les finances.b) Els pagaments a justificar als quals es refereix l’apartat 5 d’aquest article, que requereixen, però, l’autorització prèvia de la despesa corresponent.
+2. L’ordenació de pagaments correspon al conseller encarregat de les finances, que pot delegar-la en un altre conseller. Això no obstant, si el conseller encarregat de les finances considera que l’assumpte a què el pagament es refereix té prou importància per justificar-ne el tràmit pot dur-lo a deliberació i acord del Ple del Comú. En tot cas, els cònsols poden reservar-se l’ordenació de tipus determinats de pagaments o de pagaments concrets.
+3. Les ordres de pagament s’estenen a nom del creditor directe, llevat dels casos dels pagaments a justificar i dels supòsits d’endós, en què ho són a nom de l’endossatari i s’hi fa constar l’endossant.
+4. L’ordenació de pagaments és en ferm com a norma general, i a justificar quan no es pot acompanyar de la documentació justificativa en el moment de la seva expedició. El text articulat de l’ordinació del pressupost comunal ha d’indicar els supòsits en què són admissibles els pagaments a justificar.
+5. Els perceptors dels pagaments a justificar resten obligats a presentar la liquidació, amb els comprovants documentals oportuns, de les quantitats percebudes, en el termini màxim de tres mesos des de la data en què es van rebre els fons, i en tot cas, abans del 15 de gener de l’exercici següent. Transcorregut aquest termini i un mes addicional sense haver-se presentat la liquidació s’incoa expedient contra els responsables.
+6. En els casos que determini el text articulat de l’ordinació del pressupost comunal, les quantitats resultants de pagaments a justificar han d’ingressar-se en un compte bancari designat pel conseller encarregat de les finances i sota el control de la Intervenció comunal.
+7. Per al pagament material cal, pel cap baix, la signatura del conseller encarregat de les finances o, per delegació seva, d’un altre conseller.
+8. Els pagaments poden fer-se en efectiu metàl·lic, mitjançant documents acreditatius del pagament, xecs bancaris, transferències bancàries, podent-se fer també en compensació de drets econòmics pendents de cobrament que el comú tingui davant el mateix creditor, ja sigui d’ofici o a instància d’aquest.
 
 ##### Secció setena. Liquidació del pressupost comunal
 
@@ -563,11 +719,25 @@ L’ordinació conté, entre altres, els procediments de control, la metodologia
 
 **Article 94. Control de legalitat**
 
-$4c
+1. El control de legalitat té per objecte vetllar pel compliment de l’ordenament jurídic mitjançant la fiscalització de tots els actes, els documents i els expedients del comú i de les societats públiques participades per aquest amb incidència sobre les finances comunals, que determinin la liquidació de drets i obligacions de contingut econòmic, així com els ingressos i els pagaments que en derivin, i la recaptació i l’aplicació dels cabals.
+2. Aquest control s’efectua a través de l’exercici de la funció interventora, que comprèn:
+a) La intervenció crítica o prèvia de tot acte, document o expedient susceptible de produir drets o obligacions de contingut econòmic o moviment de fons de valors.b) La intervenció formal i material del pagament.c) La intervenció i comprovació material de les inversions i de l’aplicació de les subvencions.
+3. Si en l’exercici de la funció interventora l’òrgan interventor es manifesta en desacord amb el fons o amb la forma dels actes, documents o expedients examinats, ha de formular les seves objeccions per escrit abans de l’adopció de l’acord o resolució, posant-ho en coneixement de la Secretaria comunal. En el cas que els fets poguessin ser constitutius de delicte, són objecte de denúncia d’acord amb el que preveu el Codi de Procediment Penal.
+4. Quan la disconformitat es refereixi al reconeixement o la liquidació de drets a favor del comú, l’oposició es formalitza en una nota d’objecció que en cap cas suspèn la tramitació de l’expedient.
+Si l’objecció afecta la disposició de despeses, el reconeixement d’obligacions o l’ordenació de pagaments, en els supòsits següents i fins que no es solucioni l’objecció se suspèn la tramitació de l’expedient:
+a) Quan es basi en la insuficiència de crèdit o en una proposta de crèdit inadequada.b) Quan no hagin estat fiscalitzats els actes que van donar origen als pagaments.c) En els casos d’omissió en l’expedient de requisits o tràmits essencials.d) Quan l’objecció derivi de comprovacions materials d’obres, subministraments, adquisicions i serveis.
+5. Quan l’òrgan a qui afecti l’objecció no hi estigui d’acord, correspon al cònsol resoldre la discrepància, i la seva resolució és executiva. Aquesta facultat no és pot delegar en cap cas.
+No obstant l’establert en el paràgraf anterior, correspon al Ple del Comú la resolució de les discrepàncies quan es basin en insuficiència o inadequació de crèdit o es refereixin a obligacions o despeses l’aprovació de les quals sigui de la seva competència.
+6. L’òrgan interventor eleva un informe al Ple del Comú de totes les resolucions adoptades pel cònsol contràries a les objeccions presentades, i també un resum de les principals anomalies detectades en matèria d’ingressos.
 
 **Article 95. Fiscalització prèvia**
 
-$4e
+1. No estan sotmesos a intervenció prèvia les despeses de material no inventariable, els contractes menors ni els de caràcter periòdic i d’altres de tracte successiu, una vegada intervinguda la despesa corresponent al període inicial de l’acte o contracte del qual derivin o les modificacions d’aquells, ni tampoc altres despeses menors de 3.000,00 euros que d’acord amb la normativa vigent es facin efectius a través del sistema de bestretes de caixa fixa.
+2. El Ple del Comú pot acordar, a proposta del cònsol i amb l’informe previ de l’òrgan interventor, que la intervenció prèvia es limiti a comprovar els aspectes següents:
+a) Que hi hagi prou crèdit a la partida corresponent i que aquesta és l’adient d’acord amb la naturalesa de la despesa o obligació que es proposi contreure. En el cas de compromisos de despesa de caràcter plurianual, a més, s’ha de comprovar el que preveu l’article 85.b) Que les obligacions o despeses es generen per òrgan competent.c) Aquelles altres qüestions que per la seva transcendència en el procés de gestió, determini el Ple del Comú a proposta del cònsol. L’òrgan interventor pot formular les observacions complementàries que consideri convenients, sense que en cap cas tinguin efectes suspensius en la tramitació dels expedients corresponents.
+3. Les obligacions o les despeses sotmeses a fiscalització limitada a les que es refereix l’apartat anterior han de ser objecte d’una altra intervenció amb posterioritat, exercida sobre una mostra representativa dels actes, documents o expedients, mitjançant tècniques de mostreig d’auditoria, per tal de verificar que s’ajusten a les disposicions aplicables en cada cas i determinar el grau de compliment de la legalitat en la gestió dels crèdits.
+4. Els òrgans de control intern que realitzin les fiscalitzacions amb posterioritat han d’emetre un informe escrit amb totes les observacions i les conclusions pertinents. Aquest informe es tramet al Ple del Comú amb les observacions pertinents dels òrgans gestors.
+5. Els comuns poden determinar, mitjançant acord del Ple, la substitució de la fiscalització prèvia de drets per la constància en comptabilitat i per actuacions de comprovació posteriors mitjançant tècniques de mostreig o auditoria.
 
 **Article 96. Control d’oportunitat econòmica**
 
@@ -577,7 +747,11 @@ a) Determinar, tant qualitativament com quantitativament, les conseqüències qu
 
 **Article 97. Control financer**
 
-$50
+1. El control financer consisteix en comprovar el funcionament economicofinancer de les societats públiques participades per l’Administració comunal i de les entitats privades que reben subvencions, préstecs, avals i altres ajuts a càrrec del pressupost comunal.
+Aquest control té per objecte informar sobre la presentació adequada de la informació financera, el compliment de les normes i directrius que siguin aplicables i el grau d’eficàcia i eficiència en la consecució dels objectius previstos.
+2. El control financer és dirigit per la Intervenció comunal almenys una vegada a l’any, mitjançant procediments d’auditoria que substitueixen la fiscalització prèvia de les operacions corresponents i que se cenyeixen a la comprovació dels ingressos i els pagaments realitzats, la comprovació material de les existències i la verificació dels llibres de comptabilitat, balanços i comptes d’explotació i d’altres comptes i estats que siguin preceptius.
+3. Com a resultat del control financer efectuat, la Intervenció comunal ha d’elaborar un informe global, escrit, amb totes les observacions i conclusions que se’n dedueixin. Aquest informe, juntament amb les al·legacions que efectuïn les societats publiques i les entitats privades fiscalitzades, ha de remetre’s al Ple del Comú, per al seu examen.
+4. Addicionalment, d’acord amb el que preveu la normativa vigent en matèria de sostenibilitat de les finances públiques, la Intervenció comunal ha de remetre anualment al Ple del Comú i al Tribunal de Comptes un informe global sobre el control financer efectuat sobre les societats públiques participades.
 
 **Article 98. Control d’eficàcia**
 
@@ -611,7 +785,21 @@ a) Director de la comptabilitat administrativa del comú.b) Titular dels control
 
 **Article 103. Funcions**
 
-$52
+1. La Intervenció comunal gaudeix, per a l’exercici de les seves funcions, de plena autonomia i, tant l’interventor comunal com els interventors delegats han de ser atesos per qualsevol òrgan de l’Administració comunal a qui ho sol·licitin, en les demandes raonades que facin de dades, informes o documentació.
+2. Com a centre director de la comptabilitat administrativa, correspon a la Intervenció comunal, l’exercici de les funcions següents:
+a) Fer el seguiment de les novetats que es produeixin en l’àmbit de la normativa comptable.b) Sotmetre a l’aprovació del Ple del Comú, a través de l’ordinació pressupostària i financera corresponent, les modificacions que requereixi el Pla marc per al sector públic estatal del Principat d’Andorra per tal d’ajustar-lo a l’estructura i al funcionament del comú.c) Garantir que el comú i les societats públiques participades per l’Administració comunal compleixen amb tots els requisits necessaris per tal que els comptes anuals consolidats recullen el que estableixin les normes comptables en cada moment.d) Revisar els registres comptables d’ingressos i despeses en totes les seves fases, que reflecteixin finalment els moviments de cabals públics de la tresoreria.e) Formar i redactar els comptes generals per presentar-los al Ple del Comú.f) Inspeccionar la comptabilitat de les societats públiques participades per l’Administració comunal, i també verificar la comptabilitat de les entitats obligades a presentar-la pel fet de rebre subvencions pressupostàries.g) Elaborar els comptes econòmics del sector públic depenent de l’Administració comunal.
+3. Com a titular dels controls de legalitat, d’oportunitat econòmica i financer, corresponen a la Intervenció comunal les funcions següents:
+a) Fiscalitzar els actes, els documents i els expedients de l’Administració comunal, les entitats de dret públic i les societats públiques participades pel comú amb incidència sobre les finances comunals, d’acord amb l’article 94.b) Informar el Ple del Comú, quan escaigui, sobre l’oportunitat econòmica de les despeses, en els termes establerts per l’article 96.c) Dirigir les auditories que es realitzin als efectes del control financer regulat a l’article 97.
+4. Corresponen a la Intervenció comunal les funcions d’estudi, informe i assessorament següents:
+A) Amb relació al pressupost comunal i a la seva gestió:
+a) Col·laborar en l’elaboració del projecte si és requerida a aquest efecte.b) Verificar i autoritzar la liquidació dels pressupostos.c) Informar sobre les propostes d’endeutament, les autoritzacions al Ple del Comú d’avenços de fons i els projectes de crèdits extraordinaris, suplements i transferències de crèdit.d) Interposar recursos, si escau, contra actes de gestió d’ingressos públics.e) Conformar prèviament els actes, els documents o els recursos que produeixin obligacions i moviment de cabals públics, i especialment la devolució d’ingressos indeguts i la prescripció de drets i obligacions i, en general, vetllar pels interessos econòmics de l’Administració comunal.f) Informar sobre els recursos presentats al comú, i que es refereixin a assumptes de naturalesa economicofinancera.g) Informar del compliment dels límits d’endeutament establerts en la present Llei.
+B) Amb relació a la contractació d’obres, serveis, subministraments i adquisicions:
+a) Dictaminar sobre els projectes de contractes, plecs de clàusules i pressupostos d’obres, serveis i adquisicions de tota mena.b) Formar part de les meses de contractació.c) Informar sobre les propostes de resolució de contractes.d) Fer observacions o objeccions a les actes de recepció i de comprovació de serveis, obres i adquisicions.
+C) Amb relació al personal:
+a) Informar prèviament sobre els concursos d’accés a la funció pública comunal i els contractes de personal.b) Fiscalitzar les nòmines de personal.
+D) Amb relació al patrimoni, li correspon:
+a) Dirigir la formació i l’actualització de l’inventari patrimonial i autoritzar els inventaris de tota mena.b) Informar les propostes d’alienació de béns i drets de qualsevol naturalesa.
+E) La resta de funcions d’estudi i assessorament que li encomani el Ple del Comú sempre que siguin compatibles amb les anteriors.
 
 #### Capítol V. Comptabilitat pública
 
@@ -631,7 +819,9 @@ A la Intervenció comunal li correspon portar i desenvolupar la comptabilitat fi
 
 **Article 107. Abast de la gestió comptable: comptes especials i comptes comunals**
 
-$54
+1. La gestió comptable es concreta i es formalitza de la manera següent:
+a) Gestió comptable d’ingressos, referida a les fases de liquidació i cobrament, com a resultat de la qual es forma el compte d’ingressos, estructurat en dues parts, una de gestió de l’estat d’ingressos i l’altra de drets de tresoreria.b) Gestió comptable de despeses, referida a les fases d’autorització, compromís, liquidació, ordenació de pagaments i pagaments efectius, com a resultat de la qual es forma el compte de despeses, estructurat en dues parts, una de gestió de l’estat de despeses, i l’altra de situació de les ordres de pagament pendents.c) Gestió comptable de tresoreria, referida a les operacions de cobraments i de pagaments, tant pressupostàries com extrapressupostàries, com a resultat de la qual es forma el compte de tresoreria, estructurat en tres parts: cobraments i pagaments de pressupost; operacions extrapressupostàries, i saldo o existència de tresoreria.d) Gestió comptable del patrimoni, referida als béns del patrimoni en començar l’exercici, a les adquisicions i alienacions que es realitzin durant el seu decurs i a la situació patrimonial existent en acabar el període, com a resultat de la qual es forma el compte de patrimoni.e) Gestió comptable de l’endeutament, referida a la situació de l’endeutament al principi i al final de l’exercici, com a resultat de la qual es forma el compte d’endeutament.f) Gestió comptable del romanent de tresoreria, referida a l’estat sobre la magnitud que s’obté per diferència, al tancament de l’exercici, entre els drets reconeguts nets pendents de cobrament a curt termini i els fons líquids menys les obligacions certes reconegudes netes pendents de pagament a curt termini. Els drets i les obligacions anteriorment indicats poden tenir l’origen tant en operacions pressupostàries com no pressupostàries. El romanent de tresoreria total distingeix la part que en resulta afectada, destinada a cobrir les denominades «despeses amb finançament afectat» en cas que hi hagi desviacions de finançament positives, i la part de romanent no afectat.
+2. Els comptes especials anteriors s’apleguen i refonen en els comptes comunals, dels quals se n’elaboren dos cada any: el de l’Administració comunal i el de les societats participades per aquesta.
 
 **Article 108. Informació de la comptabilitat**
 
@@ -654,11 +844,17 @@ a) Recaptar els ingressos i pagar les obligacions de les finances comunals.b) Ce
 
 **Article 111. Classes de responsabilitat**
 
-$56
+1. Les accions i les omissions, tant intencionades com culposes, que ocasionen, directament o indirectament, perjudici econòmic a les finances comunals determinen l’exigència de responsabilitat civil, penal i administrativa, segons els casos.
+2. La responsabilitat civil consisteix en el deure d’indemnitzar les finances comunals per raó dels danys i els perjudicis produïts per les accions o les omissions.
+3. La responsabilitat penal deriva de la comissió de delictes majors o menors o de contravencions tipificades en el Codi penal i en perjudici de les finances comunals. La responsabilitat penal comporta sempre la civil.
+4. La responsabilitat administrativa neix de la realització, per part de les persones al servei de les administracions comunals, d’accions o omissions i, especialment, en el capítol V del Codi de l’Administració.
+5. S’exclouen del present capítol les infraccions tributàries regulades en altres lleis, sense perjudici, si és el cas, d’exigència de responsabilitat penal si, en ocasió de la infracció tributària, es comet un delicte major o menor o una contravenció tipificats en el Codi penal.
+6. La responsabilitat en els supòsits de concurrència de responsables és mancomunada, llevat dels casos d’engany o frau, en què és solidària.
 
 **Article 112. Accions i omissions productores d’especial responsabilitat civil i administrativa**
 
-$58
+Són accions i omissions que impliquen una especial responsabilitat civil i administrativa envers les finances comunals:
+a) El descobert de comptes o la malversació que afecti l’haver de les finances comunals.b) L’incompliment, per part de càrrecs polítics o de personal funcionari o contractat, de les normes reguladores de la gestió, la inspecció, la recaptació i l’ingrés en la tresoreria del producte de drets econòmics de les finances comunals.c) L’autorització, el compromís o la liquidació de despeses i l’ordenació o la realització de pagaments sense crèdit pressupostari o amb crèdit insuficient, o infringint d’alguna manera les normes reguladores dels procediments administratius d’ordenació de despeses i de pagaments.d) La provocació de pagaments indeguts.e) La manca de justificació, en els terminis establerts, dels fons de les finances comunals.f) La inobservança, per part de l’interventor comunal o dels interventors delegats, mitjançant dol, culpa, negligència o ignorància inexcusable, del deure de salvar la seva actuació en l’expedient respectiu amb observació escrita sobre la il·legalitat o la improcedència de l’objecte de la fiscalització.g) Qualssevol altres actes o omissions que suposin incompliment de la Llei de sostenibilitat de les finances públiques i d’estabilitat pressupostària i fiscal, així com d’aquesta Llei i de les disposicions que la reglamenten o la despleguen.
 
 **Article 113. Expedient de responsabilitat**
 

@@ -37,7 +37,13 @@ La societat ha de tenir el domicili social dins del territori del Principat d’
 
 **Article 5. Sucursals**
 
-$20
+1. A l’efecte d’aquesta Llei, s’entén per sucursal un establiment secundari dotat de representació permanent i amb certa autonomia de gestió, mitjançant el qual una societat desenvolupa totalment o parcialment les activitats que integren el seu objecte social.
+2. L’establiment i l’obertura de sucursals de societats estrangeres al territori del Principat d’Andorra requereix el previ atorgament d’escriptura pública davant notari andorrà, amb el contingut que estableix l’apartat 4 d’aquest article, i queden subjectes al règim previst a la legislació sobre inversions estrangeres. El notari que autoritza l’escriptura té l’obligació de trametre’n una còpia al Registre de Societats, dins el termini de quinze dies a comptar de la data de l’atorgament, per a la seva inscripció.
+3. Sens perjudici del que disposa l’apartat anterior, les societats estrangeres que estableixin una sucursal al territori del Principat d’Andorra han de completar la documentació necessària per la inscripció presentant al Registre de Societats els documents acreditatius de l’existència de la societat, els seus estatuts vigents i els seus administradors. Així mateix hauran d’inscriure totes les modificacions posteriors de qualsevol d’aquestes dades.
+La inscripció és denegada pel ministre responsable del Registre de Societats, a proposta motivada del responsable del Registre, si la sucursal incompleix la present Llei. La denegació es notificarà seguint el mateix procediment que per la denegació d’inscripció de la constitució de societats, i donarà lloc a les mateixes vies d’impugnació.
+4. En la inscripció de les sucursals de societats estrangeres en el Registre de Societats s’ha de fer constar qualsevol menció que, donat el cas, identifiqui la sucursal, el domicili i les activitats de la sucursal, com també la identitat del representant permanent i les seves facultats. L’actuació del representant permanent de la sucursal, dins de l’àmbit de les facultats inscrites, vincula la societat. Les activitats de la sucursal queden sotmeses en qualsevol cas a l’ordenament jurídic andorrà. Els requeriments, les notificacions i les citacions que hagin de fer-se a la societat que tingui oberta una sucursal al Principat d’Andorra poden fer-se al domicili de la sucursal que figuri inscrit en el Registre de Societats.
+5. Les societats estrangeres que hagin obert una sucursal al Principat han de dipositar al Registre de Societats els comptes anuals, formulats d’acord amb la seva legislació.
+6. En cas que la legislació estrangera no obligui a formular els comptes anuals o que l’obligació de formular-los no sigui equivalent a la prevista en la legislació andorrana, les societats estrangeres han d’elaborar els comptes anuals en relació amb l’activitat de la sucursal i dipositar-los en el Registre de Societats, d’acord amb la legislació andorrana.
 
 **Article 6. Objecte social**
 
@@ -46,13 +52,20 @@ $20
 
 **Article 6 bis. Inscripcions en el Registre de Societats**
 
-$22
+1. La inscripció o la denegació d’inscripció d’actes o negocis jurídics per part del Registre de Societats es produeix i notifica en un termini no superior a quinze dies a comptar de la presentació al Registre del document que formalitza l’acte o el negoci jurídic que es vol inscriure.
+2. L’absència d’inscripció o de denegació dins del termini establert a l’apartat anterior s’equipara a una denegació tàcita als efectes d’obrir la via de recurs.
+3. La denegació de la inscripció del contingut d’una escriptura pública o de qualsevol altre document, així com la causa de la denegació, són notificades als interessats i, en el seu cas, també al notari autoritzant. Contra la decisió de denegació pot formular-se recurs administratiu i, si escau, impugnació en via jurisdiccional, en els termes previstos en el Codi de l’Administració, en la Llei de la jurisdicció administrativa i fiscal i en la normativa que les complementin o, en el futur, les substitueixin.
+4. També tindrà legitimació per a recórrer contra la denegació de la inscripció el notari autoritzant de l’escriptura pública no inscrita.
+5. El termini que aquesta Llei concedeix als notaris per a presentar les escriptures públiques que hagin de ser inscrites al Registre de Societats, així com el termini previst en la Llei per a inscriure o denegar la inscripció, es computen en dies naturals.
 
 ##### Secció 2a. Fundació de la societat
 
 **Article 7. Constitució**
 
-$24
+1. La societat es constitueix mitjançant l’atorgament d’una escriptura pública, autoritzada per un notari andorrà, la qual s’ha d’inscriure en el Registre de Societats.
+2. El notari que autoritzi l’escriptura pública té l’obligació de verificar que es compleixen els requisits legals i ha de protocol·litzar la certificació de reserva de denominació. També té l’obligació de trametre una còpia de l’escriptura pública de constitució al Registre de Societats, dins el termini de quinze dies comptadors des de la data de l’atorgament, per a la seva inscripció.
+3. Amb la inscripció de l’escriptura de constitució en el Registre de Societats, la societat adquireix la seva personalitat jurídica. En tot cas, el ministre responsable del Registre de Societats, a proposta motivada de la persona responsable del Registre, denega la inscripció de la societat al Registre de Societats si no es compleixen els requisits establerts en aquesta Llei.
+4. El notari que autoritzi l’escriptura pública de constitució de la societat no podrà lliurar còpia autèntica del títol públic sense fer-hi constar les dades de l’assentament d’inscripció al Registre de Societats.
 
 **Article 8. Escriptura de constitució**
 
@@ -96,7 +109,13 @@ a) Perquè el seu objecte és contrari a la Llei, a la moral o als interessos p�
 
 **Article 15. Accions i participacions**
 
-$26
+1. El capital social de les societats anònimes s’ha de dividir en accions i el de les societats de responsabilitat limitada, en participacions, de forma que constitueixin una part alíquota d’aquell que s’ha d’expressar mitjançant el valor nominal corresponent.
+2. Totes les accions i totes les participacions s’han de subscriure per un import almenys igual al seu valor nominal, i aquest ha de ser desemborsat totalment mitjançant una aportació patrimonial efectiva a la societat.
+3. Les accions i les participacions són indivisibles i acumulables, i es poden documentar mitjançant títols, els quals han de ser nominatius, han d’estar numerats correlativament i poden incorporar una o més accions o participacions. Les accions o participacions han d’estar assignades al seu titular real i efectiu. En cap cas no es poden inscriure accions o participacions o emetre títols a nom de persones interposades diferents del titular real de les mateixes accions o participacions; seran nul·les de ple dret les inscripcions en aquests supòsits.
+4. Es poden crear classes diferents d’accions i de participacions segons el contingut dels drets que atorguin als socis, com també diferents sèries d’accions i de participacions segons el seu valor nominal.
+5. En cas d’usdefruit d’accions i/o participacions, la qualitat de soci resideix en el nu propietari, però l’usufructuari tindrà dret en tot cas als dividends acordats per la societat durant la vigència de l’usdefruit. L’exercici dels restants drets de soci correspon, excepte disposició en sentit contrari prevista en els estatuts, al nu propietari. Quant als requisits per a la constitució de l’usdefruit d’accions i participacions, seran d’aplicació les normes previstes en l’article 20.
+6. En cas de penyora d’accions i/o participacions la condició de soci l’ostenta el propietari al que correspondrà l’exercici dels drets inherents a la dita condició de soci, salvat disposició en sentit contrari prevista en els estatuts.
+7. En cas de copropietat sobre una o més accions, els copropietaris han de designar una sola persona per a l’exercici dels drets de soci, i responen solidàriament enfront de la societat de quantes obligacions es derivin d’aquesta condició.
 
 **Article 16. Prima**
 
@@ -110,7 +129,10 @@ Les aportacions, que poden ser dineràries o no dineràries, són la contraparti
 
 **Article 18. Menció i descripció**
 
-$28
+1. A l’escriptura pública de constitució i a la d’augment del capital social, les aportacions dineràries s’han d’expressar en euros, i les aportacions no dineràries s’han de descriure i el seu contravalor s’ha d’expressar en euros. Les aportacions no dineràries s’han d’acompanyar, en el seu cas, d’un informe elaborat per expert independent, en les condicions previstes en els apartats 2 i 3 d’aquest article. En tot cas, s’han d’indicar en l’escriptura pública el nombre i el valor nominal de les accions o participacions que el soci aportant subscriu en contrapartida.
+2. L’informe de l’expert independent ha de fer referència, com a mínim, al que s’estableixi reglamentàriament. Excepcionalment no és preceptiu l’informe de l’expert independent:
+a) Quan l’aportació no dinerària estigui constituïda per valors negociables o per instruments del mercat monetari, valorats al preu mitjà ponderat al qual es van negociar durant el període d’un any abans de la data d’aportació.b) Quan s’aportin actius a societats de responsabilitat limitada que durant l’exercici econòmic anterior hagin presentat una xifra d’ingressos anual igual o inferior a 600.000 euros, sempre que aquestes societats hagin dipositat els comptes anuals d’acord amb el que estableix la normativa vigent.c) Quan s’aportin béns mobles de contingut tecnològic que hauran d’estar afectats a l’activitat social per import conjunt de tres mil euros (3.000 €) i amb una antiguitat màxima de dotze (12) mesos, sempre que s’aportin a l’escriptura de constitució les factures degudament emeses d’adquisició dels béns aportats.
+3. L’informe de l’expert independent ha d’haver-se emès dins de l’any anterior a la data d’aportació efectiva dels actius, i el soci aportant haurà de declarar en l’escriptura pública corresponent que des de la data d’emissió de l’informe no existeixen noves circumstàncies que hagin pogut modificar sensiblement el valor just dels actius en el moment de l’aportació.
 
 **Article 19. Responsabilitat**
 
@@ -125,7 +147,13 @@ Mentre la societat no s’extingeix, els socis i els administradors responen sol
 
 **Article 21. Llibre registre de socis**
 
-$2c
+1. La societat ha de portar un llibre registre de socis, en què s’ha de fer constar la titularitat originària i les successives transmissions de les accions o participacions, amb expressió de la identitat i el domicili del titular de les accions o participacions, de la residència i tipus de residència del titular, així com la constitució de drets reals o gravàmens sobre les mateixes accions o participacions.
+2. La societat solament considera accionista o partícip a qui figuri inscrit en aquest llibre.
+3. La societat només pot modificar les inscripcions en el llibre registre que consideri falses o inexactes, si els interessats no s’oposen a la modificació en el termini d’un mes des de la data en què es va produir la notificació per part de la societat als interessats de la voluntat de procedir a la modificació.
+4. Qualsevol accionista o partícip pot examinar el llibre registre de socis.
+5. La custòdia i el manteniment del llibre registre de socis corresponen a l’òrgan d’administració.
+6. El soci i els titulars de drets reals o gravàmens sobre les accions o participacions tenen dret a obtenir una certificació de les accions o participacions, drets o gravàmens enregistrats a nom seu.
+7. Les dades personals dels socis es poden modificar a instància seva, i no tenen efecte davant la societat fins que no s’hagin notificat a l’òrgan d’administració de la societat.
 
 **Article 21 bis. Llibre registre de beneficiaris efectius**
 
@@ -142,7 +170,12 @@ a) nom i cognoms;b) data de naixement;c) nacionalitat i país de residència del
 
 **Article 23. Negocis sobre les pròpies accions o participacions**
 
-$30
+1. Les societats anònimes o de responsabilitat limitada no poden subscriure les pròpies accions o participacions.
+2. Les societats anònimes i de responsabilitat limitada poden adquirir amb el límit absolut del deu per cent del capital social, les pròpies accions o participacions, amb càrrec als beneficis distribuïbles i a les reserves de lliure disposició, sempre que la junta general ho autoritzi, expressant el nombre màxim d’accions o participacions que es poden adquirir, la durada de l’autorització -sempre i quant els estatuts obliguin l’establiment d’un límit temporal- i el preu màxim pel qual es poden adquirir.
+3. Per excepció del que l’apartat anterior disposa, les societats de responsabilitat limitada i les societats anònimes poden adquirir les pròpies accions o participacions en un percentatge superior al deu per cent quan formin part d’un patrimoni adquirit a títol universal, les adquireixin a títol gratuït o bé com a conseqüència d’una adjudicació judicial per satisfer un crèdit de la societat enfront del titular d’aquelles o d’un acord de reducció del capital social adoptat per la junta general.
+4. Les accions i les participacions que s’hagin adquirit infringint la limitació prevista a l’apartat 2 d’aquest article, s’han d’alienar per un títol onerós i en el termini d’un any o bé reduir el capital social. El mateix és aplicable a les accions i participacions adquirides en els supòsits previstos a l’apartat 3 d’aquest article, però en aquest cas el termini és de tres anys.
+5. Mentre les pròpies accions o participacions no siguin alienades, queden suspesos els seus drets polítics, i els econòmics s’han de distribuir proporcionalment entre la resta, i s’ha de constituir una reserva en el passiu del balanç per l’import equivalent.
+6. Les societats anònimes i les societats de responsabilitat limitada només poden atorgar assistència financera per a adquirir les seves pròpies accions o participacions, o acceptar-les en garantia del compliment de qualsevol obligació, dins dels límits i amb els requisits aplicables a l’adquisició de les mateixes previstos en els apartats anteriors d’aquest mateix article, excepció feta dels bancs o altres entitats integrades en el sistema financer facultades per a la formalització d’operacions creditícies amb tercers, sempre i quant constitueixin una reserva en el passiu del balanç per un import equivalent a l’import dels crèdits anotats en l’actiu o el valor de les accions o participacions si les ha acceptades en garantia.
 
 **Article 24. Participacions recíproques**
 
@@ -187,7 +220,12 @@ a) L’aprovació dels comptes anuals.b) L’aplicació del resultat de l’exer
 
 **Article 31. Convocatòria de la junta general**
 
-$32
+1. La junta general l’han de convocar l’òrgan d’administració o els liquidadors.
+2. La junta general s’ha de convocar de la forma i amb els requisits que els estatuts prescriguin, amb una antelació mínima de quinze dies naturals les societats limitades i de vint-i-un dies naturals les societats anònimes, al dia de la data de celebració. Alternativament al lliurament personal al soci de la convocatòria amb acús de recepció, es pot recórrer als mitjans de comunicació a distància que assegurin l’acreditació de la tramesa de la mateixa i el seu contingut.
+3. A no ser que els estatuts ho dispensin expressament, la convocatòria per a la celebració de la junta general de les societats anònimes s’ha de publicar, com a mínim dues vegades en algun dels diaris de més difusió a Andorra. Entre la data de l’anunci de la convocatòria i la data fixada per a la celebració de la junta general hi ha d’haver, almenys, vint-i-un dies naturals. Aquest requisit de publicitat no serà necessari en les societats limitades, a no ser que els seus estatuts ho prevegin expressament.
+4. L’anunci de la convocatòria ha d’expressar la data, el lloc i l’hora de la reunió, tant en primera convocatòria com en segona, i l’ordre del dia, i indicar els assumptes que s’hi ha de tractar. Entre la primera convocatòria i la segona ha de transcórrer, com a mínim, un termini de 24 hores.
+5. Les juntes generals se celebraran en el seu domicili social, o en el lloc que s’indiqui en la convocatòria, sempre en territori andorrà.
+6. La juntes generals se celebraran el dia assenyalat en la convocatòria, però les seves sessions podran ser prorrogades durant un o més dies consecutius. La pròrroga podrà acordar-se a proposta dels administradors o a petició d’un nombre de socis que representi la quarta part del capital present a la junta. Qualsevol que sigui el nombre de sessions en què se celebri la junta, es considerarà única, aixecant-se una sola acta per a totes les sessions.
 
 **Article 32. Facultat i deure de convocar**
 
@@ -285,11 +323,19 @@ a) Administrador únic, cas en el qual el poder de representació correspon nece
 
 **Article 49. Exercici del càrrec**
 
-$34
+1. Els administradors han d’exercir el càrrec amb fidelitat a l’interès social, amb la diligència d’un empresari ordenat i la lleialtat d’un bon representant.
+2. El deure de diligència obliga l’administrador a aplicar, en l’activitat d’administració, el temps, l’esforç i els coneixements que es poden esperar d’un empresari que ocupa una posició similar a la seva, i, en particular, a informar-se adequadament sobre la marxa de la societat, a participar activament en l’administració i a investigar qualsevol irregularitat en la gestió de la societat.
+3. El deure de lleialtat obliga l’administrador a actuar amb l’honestedat que es pot esperar d’un representant que administra recursos aliens i, en particular, a abstenir-se de competir amb la societat, d’aprofitar les oportunitats de negoci d’aquesta, d’utilitzar els actius socials amb fins privats.
+4. Sens perjudici del que l’apartat anterior disposa, la societat, per acord de la junta general, pot autoritzar que un administrador realitzi determinades transaccions amb la societat, utilitzi determinats actius i aprofiti una oportunitat concreta de negoci o participi en l’activitat competitiva.
 
 **Article 50. Responsabilitat**
 
-$36
+1. Els administradors de dret estan obligats a indemnitzar els danys que causin a la societat pels actes o les omissions que siguin contraris a les normes legals o estatutàries o que infringeixen els deures que la Llei o els estatuts els imposen i, en cas d’infracció del deure de lleialtat, a restituir a la societat el lucre obtingut.
+2. És administrador de fet el que actua en el tràfic com a administrador però sense complir algun dels requisits formals exigits.
+3. Tots els administradors formant part integrant de l’òrgan d’administració que hagués realitzat l’acte o omissió lesius, respondran solidàriament entre ells. Queden exonerats de responsabilitat els administradors que, per causa no imputable, desconeguin l’existència de l’actuació o l’omissió lesiva. Tampoc no n’han de respondre els administradors que, coneixent aquesta actuació o omissió, han fet el possible per evitar-ne o disminuir-ne el dany. La constància de l’oposició a la conducta lesiva és un requisit necessari a aquest efecte.
+4. L’autorització o la ratificació de l’actuació o l’omissió lesiva per part de la junta general no és, en cap cas, causa d’exoneració de responsabilitat per als administradors.
+5. La responsabilitat dels administradors prescriu als quatre anys, comptadors des del cessament del càrrec.
+6. Quan els administradors actuen per compte d’un tercer i seguint les seves instruccions, aquest és responsable en les mateixes condicions que ho són els administradors de la societat.
 
 **Article 51. Acció social de responsabilitat**
 
@@ -333,7 +379,11 @@ L’acció prevista a l’article anterior és independent de les accions de res
 
 **Article 58. Actes**
 
-$38
+1. L’existència dels acords s’acredita mitjançant la seva documentació. Tots els acords que la junta general i els òrgans col·legiats d’administració adoptin s’han de fer constar en una acta, la qual s’ha de transcriure al llibre d’actes corresponent.
+2. En tot cas, han de constar a l’acta:
+a) La data, el lloc i l’hora de celebració de la reunió.b) La data, la forma i el text íntegre de la convocatòria.c) En cas de junta general, la identitat dels socis participants i el capital que representen, i si hi intervenen personalment o per representació. Si es tracta d’una junta general universal, a continuació de la data i el lloc de celebració de la reunió i de l’ordre del dia, s’han de fer constar el nom dels assistents i la seva signatura. En cas que es tracti d’un òrgan col·legiat d’administració, s’ha d’indicar el nom dels assistents, i si ho fan personalment o per representació.d) Un resum dels assumptes tractats i de les intervencions de les quals s’hagi sol·licitat que quedi constància.e) El contingut dels acords i les majories amb què s’han adoptat. També hi ha de constar les abstencions i el sentit del vot, particularment el vot en contra, si la part interessada ho sol·licita a l’efecte d’impugnar l’acord corresponent.f) L’aprovació de l’acta.
+3. En el cas de la societat unipersonal, l’acta ha d’indicar la data i el contingut de l’acord, i si aquest ha estat adoptat pel soci únic o per un representant.
+4. La transcripció dels acords adoptats al llibre d’actes correspon a l’administrador o, en el seu cas, al secretari del consell d’administració.
 
 **Article 59. Aprovació**
 
@@ -373,7 +423,12 @@ $38
 
 **Article 65. Facultat de certificar**
 
-$3a
+1. La facultat de certificar els acords socials correspon als administradors, segons l’estructura de l’òrgan d’administració:
+a) A l’administrador únic.b) Als administradors solidaris.c) Als administradors mancomunats, de forma mancomunada.d) Al secretari o al vicesecretari del consell d’administració.
+Les certificacions dels acords del consell d’administració i de la junta general s’han d’emetre amb el vist-i-plau del president o del vicepresident del consell d’administració.
+2. Qui expedeix la certificació ha de tenir el càrrec vigent i ha d’estar inscrit prèviament, o bé inscriure’s simultàniament a la inscripció de l’acord certificat. Si el que pretén la inscripció del seu càrrec és una persona diferent de la que figura al Registre de Societats amb la facultat de certificar, s’ha d’acreditar la notificació notarial realitzada prèviament al titular anterior.
+3. Correspon als liquidadors de la societat la facultat de certificar en les mateixes circumstàncies que els administradors.
+4. En el cas de la societat unipersonal, el soci únic està facultat per certificar les decisions adoptades.
 
 #### Capítol IV. De la modificació dels estatuts
 
@@ -381,17 +436,23 @@ $3a
 
 **Article 66. Requisits generals i especials**
 
-$3c
+1. La modificació dels estatuts de les societats anònimes i de responsabilitat limitada l’ha d’acordar la junta general, s’ha de fer constar en escriptura pública i s’ha d’inscriure al Registre de Societats. El notari que autoritza l’escriptura té l’obligació de trametre’n una còpia al Registre de Societats, dins del termini de quinze dies a comptar de la data de l’atorgament, per a la seva inscripció. La inscripció és constitutiva. En tot cas, el ministre competent en matèria de societats, a proposta motivada del responsable del Registre de Societats, pot denegar la inscripció de la modificació dels estatuts al Registre de Societats si alguna de les modificacions estatutàries està inclosa o pot estar inclosa en algun dels supòsits previstos en l’apartat 2 de l’article 6, o no es compleixen els requisits establerts en aquesta Llei. Els socis tenen dret que la societat els lliuri una còpia del text íntegre de la modificació proposada des de la convocatòria.
+2. Sens perjudici del que l’apartat anterior disposa, la modificació dels estatuts que imposi obligacions a tots o a alguns socis requereix el consentiment individual dels afectats. La modificació dels estatuts que afecti els drets individuals d’una o més classes d’accions o participacions requereix l’acord de la majoria dels socis titulars afectats.
 
 ##### Secció 2a. De l’augment i la reducció del capital social
 
 **Article 67. Augment del capital social**
 
-$3e
+1. L’augment de la xifra del capital social mitjançant l’augment del valor nominal de les accions o participacions existents requereix el consentiment individual de tots els socis, excepte el supòsit en què l’augment es realitza amb càrrec a reserves disponibles, que s’ha de basar en un balanç aprovat per la junta general en una data anterior, com a màxim, a sis mesos respecte de la de l’acord d’augment.
+2. L’augment de la xifra del capital social mitjançant la creació de noves accions o participacions atorga als socis el dret preferent a subscriure un nombre d’accions o participacions proporcional a les que posseeixin en el moment en què la junta general adopti l’acord. La junta general ha de fixar el termini per a l’exercici d’aquest dret, a comptar de la publicació, en un diari de gran circulació al Principat, de l’anunci de l’oferta de subscripció que la societat ha de formular, llevat que l’acord s’hagi pres en junta universal.
+3. La junta general pot acordar l’exclusió total o parcial del dret de subscripció preferent en decidir sobre l’augment de la xifra del capital social, sempre que consti en la convocatòria i que el valor nominal de les noves accions o participacions es correspongui amb el valor de les accions o participacions existents.
+4. L’escriptura pública o les escriptures públiques en les quals s’ha de fer constar l’acord d’augment de la xifra del capital social i la seva execució s’han d’inscriure simultàniament al Registre de Societats. El notari que autoritza l’escriptura o les escriptures té l’obligació de trametre’n una còpia al Registre de Societats, dins el termini de quinze dies a comptar de la data de l’atorgament, per a la seva inscripció.
 
 **Article 68. Reducció del capital social**
 
-$40
+1. La reducció de la xifra del capital social que no afecti de la mateixa manera les accions o participacions exigeix el consentiment individual de tots els socis afectats, i la que comporti la restitució de les aportacions exigeix que la societat satisfaci o garanteixi el pagament dels crèdits dels creditors que s’oposin a la reducció dins el termini de tres mesos, comptadors des de la publicació de l’acord de reducció en un diari de gran circulació al Principat.
+2. Els creditors no es poden oposar a la reducció de la xifra del capital social que tingui la finalitat de restablir l’equilibri entre aquest i el patrimoni quan l’import d’aquest últim hagi disminuït com a conseqüència de pèrdues i la societat no compti amb cap reserva disponible, inclosa la reserva legal, i quan la reducció es faci amb càrrec a beneficis i reserves disponibles.
+3. L’escriptura pública o les escriptures públiques en les quals s’ha de fer constar l’acord de reducció de la xifra del capital social i la seva execució s’han d’inscriure simultàniament al Registre de Societats. El notari que autoritza l’escriptura o les escriptures té l’obligació de trametre’n una còpia al Registre de Societats, dins el termini de quinze dies a comptar de la data de l’atorgament, per a la seva inscripció.
 
 **Article 69. Reducció i augment simultanis**
 
@@ -438,7 +499,11 @@ Redacció aplicable en relació amb els exercicis que finalitzin a partir del 31
 
 **Article 75. Aplicació del resultat**
 
-$44
+1. Les societats anònimes i de responsabilitat limitada han de lliurar, als socis que ho sol·licitin, una còpia dels comptes anuals i, si escau, l’informe d’auditoria, a partir de la convocatòria de la junta general que s’ha de celebrar per aprovar-los i que també ha d’adoptar un acord sobre l’aplicació del resultat de l’exercici, de conformitat amb el balanç aprovat.
+2. La junta general que aprova els comptes anuals només pot acordar la distribució de dividends amb càrrec al resultat positiu de l’exercici o a reserves de lliure disposició quan, un cop cobertes les reserves previstes legalment o estatutàriament, el valor del patrimoni net comptable no sigui inferior a la xifra del capital social, o bé no resulti ser-ho com a conseqüència de la distribució.
+3. Es prohibeix tota distribució de beneficis mentre que les despeses d’establiment i d’investigació i desenvolupament no hagin estat completament amortitzades, a menys que l’import de les reserves disponibles sigui, com a mínim, igual a l’import de les despeses no amortitzades.
+4. En tot cas anualment, s’ha de dotar una reserva indisponible equivalent al fons de comerç que aparegui en l’actiu del balanç, i destinar a aquest efecte una xifra del benefici que representi, almenys, un deu per cent de l’import del fons de comerç esmentat. Si no hi ha benefici, o aquest benefici és insuficient, s’han d’utilitzar reserves de lliure disposició.
+5. Tota distribució de dividends contrària al que es disposa en aquesta Llei ha de ser restituïda, amb l’interès legal corresponent, per l’accionista o els accionistes o partícips que l’hagin percebut, si la societat demostra que aquests accionistes o partícips coneixien la irregularitat de les distribucions fetes al seu favor o no podien ignorar-la tenint en compte les circumstàncies. Correspondrà a l’òrgan d’administració d’entaular les actuacions escaients, inclús reclamacions judicials, per donar compliment a la restitució prevista en aquest apartat.
 
 **Article 76. Reserva legal**
 
@@ -454,19 +519,31 @@ Els socis participen en la distribució dels dividends acordats per la junta gen
 
 **Article 78. Requisits i efectes**
 
-$46
+1. La junta general de les societats anònimes i de responsabilitat limitada pot acordar, complint els requisits de modificació dels estatuts, la transformació en societat de responsabilitat limitada o en societat anònima, amb l’aprovació prèvia d’un balanç tancat el dia anterior a l’acord de transformació i d’acord amb els requisits exigits per la constitució de la nova forma social, sempre que no es modifiqui la participació dels socis al capital social, assignant a aquests les participacions o les accions que els corresponguin en proporció a les que ja ostentin en el capital de la societat.
+2. Les societats anònimes o de responsabilitat limitada que acordin transformar-se han d’atorgar una escriptura pública de transformació, la qual, a més de l’acord de transformació, ha de contenir els requisits per constituir la nova forma social i s’ha d’inscriure al Registre de Societats, juntament amb el balanç tancat el dia anterior a l’acord de transformació, perquè aquesta transformació sigui eficaç i subsisteixi la personalitat jurídica de la societat transformada. El notari que autoritza l’escriptura té l’obligació de trametre’n una còpia al Registre de Societats, dins el termini de quinze dies a comptar de la data de l’atorgament, per a la seva inscripció.
 
 ##### Secció 2a. De la fusió
 
 **Article 79. Requisits i efectes**
 
-$48
+1. La fusió de diverses societats anònimes i/o de responsabilitat limitada mitjançant la constitució d’una nova societat anònima o de responsabilitat limitada o mitjançant l’absorció d’una o més societats anònimes i/o de responsabilitat limitada per una altra societat anònima o de responsabilitat limitada existent, que produeixi l’extinció de cadascuna d’aquelles i la transmissió en bloc i a títol universal dels patrimonis respectius a la societat de nova creació o a l’existent, requereix l’acord de la junta general de cadascuna de les societats que hi participen i que els socis de les societats extingides participin en el capital de la nova societat o de la societat absorbent en proporció a les accions o participacions respectives.
+2. Els administradors de les societats anònimes i/o de responsabilitat limitada que participen en la fusió han de formular i signar un projecte de fusió, el qual ha de contenir, de forma detallada, tots els elements jurídics i econòmics rellevants per portar-la a terme, i l’han de posar a disposició dels socis al domicili social, des de la convocatòria de les respectives juntes generals que han de decidir sobre la fusió, juntament amb el balanç de fusió de cada societat, que també han de formular els administradors, sempre que les juntes esmentades se celebrin després de sis mesos de l’aprovació de l’últim balanç anual.
+3. Els acords de fusió s’han de publicar en dos diaris de gran circulació al Principat i no són eficaços fins que transcorri un mes des de la data de l’últim anunci publicat. Durant aquest termini els creditors de les societats participants es poden oposar a la fusió en els mateixos termes de l’article 68.1, i fins que s’inscriu al Registre de Societats l’escriptura pública de fusió que ha d’atorgar cadascuna de les societats participants. En aquesta escriptura hi han de constar l’acord corresponent de fusió i els requisits per constituir la nova societat o les modificacions estatutàries que la societat absorbent hagi acordat amb motiu de la fusió. El notari que autoritza l’escriptura té l’obligació de trametre’n una còpia al Registre de Societats, dins el termini de quinze dies a comptar de la data de l’atorgament, per a la seva inscripció.
+4. Quan sigui convenient per ajustar l’equació de bescanvi, els socis de les societats extingides podran rebre, a més de participacions en el capital de la nova societat o de la o les societats absorbents, una compensació en diners que no superi el 10% del valor nominal de les accions o participacions atribuïdes.
+5. Les accions o participacions de les societats que es fusionen, que estiguessin en poder de qualsevol d’elles o en poder d’altres persones que actuessin en el seu propi nom, però per compte d’aquelles societats, no podran bescanviar-se per accions o participacions de la societat resultant de la fusió i, en el seu cas, hauran de ser amortitzades o extingides.
 
 ##### Secció 3a. De l’escissió
 
 **Article 80. Requisits i efectes**
 
-$4c
+1. L’escissió d’una societat anònima o de responsabilitat limitada que es produeixi mitjançant la seva extinció i la divisió de tot el seu patrimoni en dues parts o més, o mitjançant la segregació d’una part o de diverses del seu patrimoni sense extingir-se, i en què s’efectuï el traspàs en bloc de les corresponents parts patrimonials escindides, les quals han de constituir una unitat econòmica, a una o més societats anònimes o de responsabilitat limitada de nova creació o ja existents, requereix l’acord de la junta general de cadascuna de les societats participants. També requereix que els socis de la societat escindida participin en el capital de la nova societat o de la societat ja existent beneficiàries de l’escissió en proporció a les accions o a les participacions respectives.
+En els casos d’escissió total o d’escissió parcial amb pluralitat de societats beneficiàries, sempre que no s’atribueixin als socis de la societat escindida accions, participacions o quotes de totes les societats beneficiàries, serà necessari el consentiment individual dels afectats.
+2. Els administradors de les societats anònimes i/o de responsabilitat limitada que participen en l’escissió han de formular i signar un projecte d’escissió, el qual ha de contenir, de forma detallada, tots els elements jurídics i econòmics rellevants per portar-la a terme, i l’han de posar a disposició dels socis al domicili social, des de la convocatòria de les respectives juntes generals que han de decidir sobre l’escissió, juntament amb el balanç d’escissió de cada societat, que també han de formular els administradors, sempre que les juntes esmentades se celebrin després de sis mesos de l’aprovació de l’últim balanç anual.
+3. Els acords d’escissió s’han de publicar en dos diaris de gran circulació al Principat i no són eficaços fins que transcorri un mes des de la data de l’últim anunci publicat i fins que s’ha inscrit al Registre de Societats l’escriptura pública d’escissió que han d’atorgar cadascuna de les societats participants.
+4. Durant el mes indicat, els creditors de les societats que hi participen es poden oposar a l’escissió en els mateixos termes de l’article 68.1.
+5. A l’escriptura pública d’escissió, hi ha de constar l’acord d’escissió corresponent i els requisits per constituir la nova societat beneficiària o les modificacions estatutàries que la societat beneficiària ja existent hagi acordat amb motiu de l’escissió.
+6. El notari que autoritza l’escriptura d’escissió té l’obligació de trametre’n una còpia al Registre de Societats, dins el termini de quinze dies a comptar de la data de l’atorgament, per a la seva inscripció.
+7. Quan sigui convenient per ajustar l’equació de bescanvi, els socis de la societat escindida podran rebre, a més de participacions en el capital de la o les societats beneficiàries de l’escissió, una compensació en diners que no superi el 10% del valor nominal de les accions o participacions atribuïdes.
 
 **Article 80 bis. Excepció a l’exigència del requisit d’unitat econòmica**
 
@@ -501,11 +578,21 @@ L’exclusió dels socis de les societats anònimes i de responsabilitat limitad
 
 **Article 85. Causes de dissolució**
 
-$50
+1. L’extinció de les societats anònimes i de responsabilitat limitada s’inicia amb la dissolució de la societat que n’obre la seva liquidació i es produeix quan concorre alguna de les causes previstes a la Llei o als estatuts.
+2. Les societats anònimes i de responsabilitat limitada de durada determinada es dissolen de ple dret, transcorregut el termini de durada pel qual es van constituir. La pròrroga no té efectes si l’acord corresponent es presenta al Registre de Societats després d’aquest termini.
+3. En cas que, en compliment d’una llei, el capital de la societat hagi de quedar per sota del capital mínim exigit, la societat es dissol de ple dret sempre que no posi remei a aquesta situació, com a alternativa a la seva dissolució, en el termini de dos mesos a partir de la inscripció de la reducció de capital en el Registre de Societats. La societat amb un capital social inferior al mínim legal exigible compromet la responsabilitat personal solidària dels socis i dels administradors pels actes i negocis jurídics que es realitzin en el seu nom, mentre no es posi remei a aquesta situació o s’insti la liquidació segons el que s’estableix en la secció segona d’aquest capítol.
+4. Les societats anònimes i de responsabilitat limitada també es dissolen de ple dret quan se’n procedeix a liquidar el patrimoni en un procediment concursal. Res no impedeix que el batlle pugui declarar la dissolució de la societat abans d’aquest moment i en el procediment concursal.
+5. La junta general pot acordar, en qualsevol moment i per qualsevol causa, la dissolució de la societat de manera voluntària, amb els requisits que s’estableixen per a la modificació dels estatuts. En aquest supòsit, caldrà expressar i motivar la causa de dissolució.
+En tot cas, la junta general ha d’adoptar l’acord de dissolució quan concorri alguna de les circumstàncies següents:
+a) La conclusió de l’activitat o de les activitats que integren l’objecte social de la societat.b) La impossibilitat de realitzar el fi social.c) El valor del patrimoni net de la societat és inferior a la meitat de la xifra del capital social i no ha estat possible posar remei a la situació.d) La paralització dels òrgans socials, que faci impossible el funcionament normal de la societat.
 
 **Article 86. Procediment de dissolució**
 
-$56
+1. En els casos de dissolució de ple dret de la societat, el Registre de Societats ha d’estendre, d’ofici o a instància de qualsevol part interessada, una nota al marge de la inscripció en què s’expressi que la societat queda dissolta.
+2. En els altres casos de dissolució de la societat, sempre que la seva situació patrimonial no obligui a sol·licitar la declaració de concurs, els administradors han de convocar la junta general per adoptar l’acord de dissolució o, si escau, les mesures adequades per evitar la dissolució, en el termini de dos mesos, comptadors des del moment en què coneguin la concurrència de la causa de dissolució o en què no l’hagin pogut desconèixer.
+3. En cas que la junta general no adopti cap acord, els administradors han d’instar la dissolució judicial de la societat en el termini de dos mesos, comptadors des del dia previst per a la celebració de la junta, si aquesta junta no s’ha celebrat, o de la seva celebració efectiva, si no es posa remei a la situació. Si la junta no fos convocada, no se celebrés, o no adoptés l’acord de dissolució quan legalment escaigui, o no prengués les mesures adequades per evitar la dissolució, qualsevol part interessada pot instar la dissolució judicial de la societat. En tot cas, el batlle pot atribuir a la societat un període màxim de sis mesos per regularitzar la situació. La demanda de dissolució de la societat ha d’adreçar-se en contra de la societat.
+4. Els administradors que no convoquin la junta general, o no instin la dissolució judicial de la societat, han de respondre solidàriament i amb la societat dels deutes socials posteriors a la concurrència de la causa de dissolució.
+5. L’acord de dissolució s’ha de publicar al Butlletí Oficial del Principat d’Andorra i obre el període de liquidació de la societat. En cap cas, no es poden iniciar les operacions de liquidació previstes a l’article 95, abans dels quinze dies següents a la data de publicació de l’acord de dissolució al Butlletí Oficial del Principat d’Andorra.
 
 **Article 87. Títol inscriptible**
 
@@ -519,7 +606,11 @@ La inscripció de la dissolució de la societat, quan no deriva dels supòsits p
 
 **Article 89. Cessió global de l’actiu i el passiu**
 
-$58
+1. La junta general pot, en el mateix moment en què acorda la dissolució de la societat, acordar també simultàniament la cessió global del seu actiu i el seu passiu a un o a diversos socis o a tercers, fixar-ne les condicions i garantir el valor de les accions o participacions.
+2. L’acord de cessió global d’actiu i passiu s’ha de publicar en un diari de gran circulació al Principat i ha d’indicar el dret d’oposició que correspon als creditors de la societat cedent i als dels cessionaris.
+3. Els creditors de la societat cedent i els dels cessionaris es poden oposar a la cessió d’acord amb el que estableix l’article 68.1, si no satisfà o no es garanteixi el pagament dels seus crèdits.
+4. Amb la inscripció de l’escriptura pública d’extinció de la societat cedent al Registre de Societats es produeix la transmissió en bloc i a títol universal del seu patrimoni. A l’escriptura, els liquidadors han de manifestar si hi ha hagut oposició dels creditors i, si és el cas, l’import dels crèdits i de les garanties que s’hagin atorgat.
+5. Res no impedeix que la cessió global d’actiu i passiu s’acordi en el si del procediment de liquidació.
 
 ##### Secció 2a. De la liquidació
 
@@ -530,7 +621,10 @@ $58
 
 **Article 91. Nomenament de liquidadors i durada**
 
-$5a
+1. Amb l’obertura de la liquidació, els administradors de la societat es converteixen en liquidadors si els estatuts no estableixen una altra cosa.
+2. Els estatuts poden establir regles particulars de nomenament dels liquidadors, com també el nomenament de liquidadors suplents.
+3. Els liquidadors exerceixen el càrrec de manera indefinida. Els estatuts poden fixar un període concret per a l’exercici del càrrec i l’eventual reelecció.
+4. Els liquidadors poden ser cessats en qualsevol moment per acord de la junta general, encara que aquest punt no figuri a l’ordre del dia de la convocatòria, i sense necessitat d’acreditar la concurrència d’una causa justa. No obstant això, si transcorreguts tres anys des de l’obertura de la liquidació, els liquidadors no han presentat el balanç de liquidació, qualsevol persona amb interès legítim pot sol·licitar al batlle la separació dels liquidadors. El batlle n’ha d’acordar la separació si la dilació no està justificada, nomenar els liquidadors que consideri oportuns i fixar-ne el règim d’actuació.
 
 **Article 92. Representació**
 
@@ -566,7 +660,10 @@ La quota de liquidació no es pot pagar fins que no s’hagi satisfet als credit
 
 **Article 98. Escriptura pública d’extinció**
 
-$5c
+1. Per a l’extinció de la societat, els liquidadors han d’atorgar una escriptura pública en què manifestin que l’acord d’aprovació del balanç final de liquidació és ferm, que s’ha satisfet als creditors de la societat, o se’ls ha garantit la satisfacció, i que s’ha satisfet la quota de liquidació a tots els socis, o se n’ha consignat l’import.
+2. En el cas de cessió global d’actiu i passiu, els administradors o els liquidadors han de manifestar en l’escriptura si hi ha hagut oposició dels creditors i, en aquest cas, l’import dels seus crèdits i de les garanties que la societat hagi atorgat.
+3. A l’escriptura pública, s’hi ha d’afegir el balanç final de liquidació i la relació dels socis, en la qual hi ha de constar la seva identitat i la quota de liquidació que cadascun d’ells ha satisfet.
+4. El notari que autoritza l’escriptura pública d’extinció té l’obligació de trametre’n una còpia al Registre de Societats per inscriure-la, acompanyada de la documentació prevista en l’apartat 3 d’aquest article, dins el termini de quinze dies a comptar de la data de l’atorgament.
 
 **Article 99. Cancel·lació de la societat**
 
@@ -579,7 +676,11 @@ Amb la inscripció de l’escriptura pública d’extinció de la societat en el
 
 **Article 101. Publicitat del Registre de Societats**
 
-$5e
+1. L’organització del Registre de Societats depèn del Govern, que l’ha d’adscriure necessàriament a un ministeri. Mentre el Govern no ho determini altrament, el Registre de Societats quedarà adscrit al ministeri encarregat de l’economia.
+2. En el cas que per inscriure un acte en el Registre de Societats sigui necessària l’escriptura pública, aquesta escriptura ha d’estar autoritzada, o si escau ratificada, per un notari andorrà.
+3. El Registre de Societats Mercantils és públic i en conseqüència qualsevol persona legalment resident a Andorra, amb la identificació formal prèvia mitjançant petició escrita i justificada, pot sol·licitar i obtenir el lliure accés a tota la informació recollida en el Registre de Societats relativa a:
+a) la identitat dels socis i el nombre de les seves participacions o accions;b) les persones que formen part dels òrgans d’administració de la societat i el càrrec que hi ocupen;c) el capital social, el domicili social i els apoderaments inscrits al Registre.d) les càrregues i embargaments que constin sobre la societat o sobre els títols representatius del seu capital social.
+4. En la documentació que lliurin les societats i les sucursals en l’exercici de les seves activitats, siguin en paper o en qualsevol altre suport, hi ha de figurar com a mínim el número de la seva inscripció en el Registre de Societats, així com la denominació social o anagrama, el tipus societari, el domicili social, i si escau, el fet que està en liquidació.
 
 **Article 102. Societat unipersonal**
 
@@ -590,11 +691,22 @@ $5e
 
 **Article 103. Infraccions**
 
-$60
+1. Són infraccions de la societat:
+a) No elevar a públic els actes o els acords que la Llei estableix com a obligatoris.b) No acordar la dissolució de la societat quan concorri alguna de les circumstàncies previstes a l’article 85.5.c) Mantenir accions o participacions pròpies, infringint les limitacions previstes a l’article 23.d) Mantenir accions o participacions recíproques o circulars, infringint les limitacions previstes a l’article 24.e) No satisfer o garantir, en el termini legal, el pagament dels crèdits als creditors que s’oposin a la reducció del capital social de la societat, quan aquesta reducció comporti la restitució de les aportacions prevista a l’article 68.1.f) Distribuir dividends contravenint les prohibicions previstes en la Llei o en els estatuts.g) No publicar els acords de fusió o d’escissió previstos als articles 79.3 i 80.3.h) Els acords amb persona interposada als quals es refereix l’article 107.
+2. Són infraccions dels administradors:
+a) No convocar la junta general o, en el seu cas, el consell d’administració, quan existeixi obligació legal o estatutària i l’òrgan d’administració hagi estat prèviament requerit. No serà necessari el requeriment previ quan concorri causa de dissolució.b) Incomplir els deures establerts en l’article 49 quan es causi un perjudici econòmic avaluable a la societat, als socis o als creditors socials, sense perjudici de les responsabilitats derivades de l’aplicació de l’article 50 i següents.c) Realitzar o ometre actuacions amb la finalitat d’impedir o dificultar greument l’exercici de l’acció d’impugnació dels acords de la junta general.d) No elaborar el projecte de fusió o d’escissió, segons correspongui, o que aquest projecte no inclogui de forma detallada tots els elements jurídics i econòmics rellevants per portar-la a terme, o que complint les condicions anteriors, no es posi a disposició dels socis, juntament amb la resta de documentació que s’estableix en els articles 79.2 o 80.2.e) No instar la dissolució judicial de la societat, en els supòsits previstos a l’article 86.3.f) No presentar la documentació per actualitzar la informació inscrita al Registre de Societats que exigeixi la Llei.g) Ésser responsable, intervenint culpa o negligència greus, de les infraccions de la societat previstes a l’apartat 1 d’aquest article.
+3. Són infraccions d’altres subjectes:
+a) Les realitzades per la persona interposada a la qual es refereix l’article 107.b) Les realitzades pel representant permanent de la sucursal, consistents a no inscriure al Registre de Societats les modificacions posteriors de la societat estrangera a les quals es refereix l’article 5.3.c) Les realitzades pels socis que no informen la societat sobre la seva residència o sobre les modificacions d’aquesta, dins dels 15 dies naturals següents a la modificació.
 
 **Article 104. Subjectes responsables**
 
-$64
+1. Les infraccions comeses per les societats les responsabilitzen del pagament de les sancions previstes en aquesta Llei.
+2. Les infraccions comeses pels administradors els responsabilitzen solidàriament del pagament de les sancions previstes en la Llei, llevat d’aquells administradors que provin que, no havent intervingut en la infracció, en desconeixien l’existència o, coneixent-la, han fet tot el possible per evitar-la. En cap cas no exonera de la responsabilitat la circumstància que l’acte o l’acord contrari a la norma hagi estat adoptat, autoritzat o ratificat per la junta general.
+3. Les infraccions previstes pels administradors les poden cometre els liquidadors en el supòsit de societat en liquidació i, en un tal cas, els és d’aplicació el previst a l’apartat 2 anterior.
+4. També responen solidàriament amb els administradors els que ho siguin de la societat dominant i que hagin induït a cometre la infracció. A aquests efectes, es considera “societat dominant” la que posseeix la majoria dels drets de vot o té la facultat de nomenar o destituir la majoria dels membres de l’òrgan d’administració de la societat en la que s’hagi produït la infracció.
+5. Igualment són responsables solidaris amb els administradors, en els termes previstos a l’apartat 2 anterior, els que siguin administradors de fet.
+6. Les infraccions al que es disposa en aquesta Llei es poden sancionar administrativament, sense perjudici de la responsabilitat civil o penal que es pugui derivar de les mateixes accions o omissions.
+7. No es poden sancionar per la via administrativa els fets que ja hagin estat sancionats penalment, si hi ha coincidència de subjecte, fet i fonament.
 
 **Article 105. Prescripció de les infraccions**
 

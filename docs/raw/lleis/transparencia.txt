@@ -20,7 +20,12 @@ Les institucions públiques andorranes, les entitats que en depenen i que es tro
 
 **Article 3. Àmbit d’aplicació subjectiva**
 
-$1e
+1. Les disposicions del Títol II són d’aplicació a:
+a) L’Administració general i els òrgans que estan sota la seva direcció.b) Els comuns i els òrgans que en depenen.c) El Consell General, el Tribunal Constitucional, el Consell Superior de la Justícia, el Raonador del Ciutadà, i el Tribunal de Comptes, en relació amb les seves activitats subjectes a dret administratiu.d) Els organismes públics i les entitats parapúbliques, en relació amb les seves activitats subjectes a dret administratiu i amb exclusió dels col·legis professionals, que es regeixen per la seva pròpia normativa.e) Les entitats associatives i fundacionals creades per l’Administració general o pels comuns.f) Les societats públiques, siguin generals o comunals, quan la participació de l’Administració en el seu capital sigui majoritària o suficient per tenir-ne el control.
+2. Els tribunals de justícia es regeixen per la seva pròpia normativa, sense que les disposicions referides al Títol II els hi siguin d’aplicació. Igualment, cap dels preceptes d’aquesta Llei s’apliquen als coprínceps, als seus serveis i a les seves actuacions.
+3. Les disposicions del Títol III són d’aplicació a:
+a) El Síndic, el Subsíndic i els consellers generals.b) El cap de Govern, els ministres, el cap del Gabinet del Cap de Govern, el secretari general del Govern, els secretaris d’Estat, els altres alts càrrecs segons definits per la Llei del Govern, els ambaixadors mentre estiguin al capdavant d’una ambaixada o d’una missió diplomàtica del Principat d’Andorra, els caps de les missions diplomàtiques i els caps de les oficines consulars.c) Els cònsols major i menor i els consellers de comú.d) Els càrrecs directius dels organismes públics, de les entitats parapúbliques i de les societats i entitats associatives i fundacionals públiques, siguin generals o comunals, quan la participació de l’administració en el seu capital sigui majoritària o suficient per tenir-ne el control.e) El president i els altres membres del Consell Superior de la Justícia, els magistrats, els batlles, el fiscal general i els fiscals adjunts.f) Els membres del Tribunal Constitucional i el Raonador del Ciutadà.
+4. Les disposicions del Títol IV són d’aplicació a l’Administració general i als òrgans que en depenen o que estan sota la seva direcció.
 
 ### Títol II. Transparència i accés a la informació pública
 
@@ -28,15 +33,36 @@ $1e
 
 **Article 4. Obligacions de publicitat activa**
 
-$20
+1. Les entitats enumerades a l’article 3.1 han de publicar de manera periòdica i mantenir actualitzada la informació el coneixement de la qual sigui rellevant per garantir la transparència de la seva activitat i que estigui relacionada amb el funcionament i el control de la seva actuació pública. En particular, han de publicar, com a mínim, la informació institucional i organitzativa següent:
+a) L’organització, l’estructura administrativa, les funcions i les competències que tenen atribuïdes.b) L’organigrama actualitzat.c) La plantilla, la relació de llocs de treball i el règim retributiu.d) La informació general sobre les retribucions de forma agregada per conceptes i per cossos, dels funcionaris i els treballadors públics.e) Les convocatòries i els resultats dels processos selectius de provisió de places i promoció de personal.f) Els convenis i els acords en matèria laboral i sindical.g) La relació d’alts càrrecs, càrrecs directius i càrrecs de lliure designació i la seva descripció amb el seu perfil i trajectòria professional.h) El llistat d’entitats dependents i participades, incloent també els organismes públics vinculats.
+2. Igualment, les entitats enumerades a l’article 3.1 han de publicar i mantenir actualitzada, com a mínim, la informació sobre planificació i avaluació següent:
+a) El catàleg de serveis i les cartes de serveis.b) Els plans, els programes d’actuació, els seus objectius i dotació pressupostària i les memòries generals.c) La informació relativa als canals de participació ciutadana i els instruments de participació d’acord amb el que s’estableix en aquesta Llei.d) Les normes aprovades, acompanyades de les memòries explicatives i justificatives corresponents, les directives, les instruccions i les circulars.e) El catàleg actualitzat dels procediments administratius relacionats amb l’exercici de les seves competències.
+3. Igualment, les entitats enumerades a l’article 3.1 han de publicar i mantenir actualitzada, com a mínim, la informació econòmica i patrimonial següent:
+a) Els estats financers i els pressupostos anuals, amb la descripció de les partides pressupostàries i les dades de la seva liquidació, i si escau, els informes d’auditoria i de fiscalització.b) Una relació de tots els béns immobles edificats i dels equipaments públics de la seva titularitat i el seu ús.c) Una relació dels altres béns jurídics en règim de cessió, usdefruit o lloguer.d) La justificació dels preus públics que estiguin establerts, d’acord amb les definicions del terme preus públics establertes en la legislació tributària i comunal vigent.e) Els quadres d’inversió i amortització de totes les inversions i equipaments, així com qualsevol adquisició o alienació de béns mobles o immobles i les inversions en millora d’aquests sempre que el seu valor sigui igual o superior a 100.000 euros.
+4. Igualment, les entitats enumerades a l’article 3.1 han de publicar i mantenir actualitzada, com a mínim, la informació sobre les activitats de contractació pública, convenis i subvencions següent:
+a) La relació dels contractes licitats i adjudicats, indicant-ne l’objecte, la durada i l’import.b) Les modificacions contractuals, les pròrrogues dels contractes, les licitacions anul·lades i les resolucions anticipades.c) La relació actualitzada de les subvencions, avals i ajuts públics concedits, amb indicació de l’import, objecte, finalitat i beneficiaris. Les dades estadístiques de les subvencions, avals i ajuts públics que es deneguen i el percentatge de sol·licitants que no reben subvenció en cada línia o programa.
+5. La informació es publica a la plataforma Govern Obert, a les seus electròniques o a les pàgines web de les entitats previstes a l’article 3.1, de manera accessible, clara i estructurada, i sense perjudici d’altres formes addicionals de publicació que puguin adoptar-se. Aquestes dades s’han de publicar de forma segura i comprensible, i en formats que permetin la seva reutilització i explotació agregada. En cas que es tracti d’informació prèviament publicada al
+Butlletí Oficial del Principat d’Andorra
+, es poden indicar les referències del corresponent butlletí per accedir-hi.
+6. Les obligacions de publicitat previstes en aquest article s’entenen sense perjudici d’altres disposicions específiques que prevegin un règim més ampli en matèria de publicitat.
+7. Són d’aplicació, en el seu cas, les limitacions al dret d’accés a la informació pública previstes als articles 11 i 12. A aquests efectes, quan la informació contingui dades afectades per les referides limitacions, la publicitat únicament pot efectuar-se prèvia dissociació de les dades protegides.
 
 **Article 5. Altres subjectes obligats**
 
-$22
+1. Les persones físiques i jurídiques diferents de les referides a l’article 3.1 que rebin una subvenció pública anual igual o superior a 10.000 euros han de publicar i mantenir actualitzada la següent informació referent a la utilització de la subvenció pública:
+a) Els pressupostos anuals acompanyats de les memòries explicatives i justificatives corresponents.b) Els objectius, a efectes d’utilitat pública o social, que pretén assolir la subvenció i els efectes que la mesura de foment pot produir en el mercat, si escau.
+2. Les persones físiques i jurídiques diferents de les referides a l’article 3.1 que rebin una subvenció pública anual igual o superior a 10.000 euros han de publicar una relació actualitzada de les subvencions, ajuts o beques que, al seu torn, tinguin previst convocar en el marc del desenvolupament del seu àmbit d’actuació durant l’exercici pressupostari, amb la indicació de l’objecte o la finalitat i la descripció de les condicions per ser-ne beneficiari.
+3. Les subvencions i els ajuts atorgats sense publicitat ni concurrència quan aquests requisits han estat exceptuats legalment han de ser publicats igualment. En el cas de subvencions i ajuts públics atorgats per motius de vulnerabilitat social, s’ha de preservar la identitat dels beneficiaris.
+4. Les bases reguladores de la concessió de subvencions públiques que s’atorguin per un import igual o superior a 10.000 euros han d’incloure l’obligació per part dels beneficiaris de publicar la informació relativa a les retribucions dels seus òrgans de direcció i administració.
+En els supòsits legals en què no s’apliqui un procés de concurrència per atorgar les subvencions, aquesta obligació ha d’estar reflectida en l’acte o el conveni corresponent.
+5. El compliment de les obligacions previstes en els apartats anteriors pot efectuar-se utilitzant els mitjans electrònics posats a la seva disposició per part de l’Administració pública que atorgui les subvencions públiques.
 
 **Article 6. Reutilització de la informació**
 
-$24
+1. Els subjectes obligats han de facilitar a les persones l’accés a la informació pública en format reutilitzable, per tal de millorar la transparència, generar valor a la societat i promoure la interoperabilitat entre les administracions, dins els límits establerts per la normativa sobre reutilització de la informació del sector públic.
+2. La informació pública pot ser reutilitzada amb qualsevol objectiu lícit, especialment la reproducció i la divulgació per qualsevol mitjà de les dades objecte d’informació pública i la creació de productes o serveis d’informació amb valor afegit basats en aquestes dades.
+3. De forma general les dades s’han de subministrar sense necessitar llicència o condició específica per facilitar la seva distribució, reutilització i aprofitament i en un format digital, estandarditzat i obert, de forma lliure i gratuïta, amb una estructura clara i comprensible. No obstant això, es poden determinar reglamentàriament els supòsits que justifiquen la subjecció de determinades dades a l’atorgament previ de llicència.
+4. El Govern dona accés als recursos d’informació pública reutilitzable mitjançant un punt d’accés a la plataforma Govern Obert.
 
 #### Capítol segon. Accés a la informació pública
 
@@ -55,25 +81,52 @@ Les administracions públiques han d’adoptar les mesures necessàries per gara
 
 **Article 10. Accés a la informació pública**
 
-$26
+1. El dret d’accés a la informació pública es garanteix a totes les persones, d’acord amb el que estableix aquesta Llei. El dret d’accés a la informació pública només pot ser denegat o restringit per les causes expressament establertes per les lleis.
+2. Les limitacions legals al dret d’accés a la informació pública han de ser aplicades d’acord amb llur finalitat, tenint en compte les circumstàncies de cada cas concret, s’han d’interpretar sempre restrictivament en benefici d’aquest dret i no es poden ampliar per analogia.
+3. Per aplicar límits al dret d’accés a la informació pública, l’Administració no disposa de potestat discrecional i ha d’indicar en cada cas els motius que ho justifiquen. En la motivació cal explicitar el límit que s’aplica i raonar degudament les causes que en fonamenten l’aplicació.
+4. Els límits al dret d’accés a la informació pública s’han d’aplicar d’acord amb els principis d’igualtat i d’interdicció de l’arbitrarietat.
+5. El dret d’accés a la informació pública es garanteix d’acord amb el que estableix aquesta Llei.
 
 **Article 11. Limitacions al dret d’accés**
 
-$28
+1. El dret d’accés previst en aquest capítol pot ser denegat quan la divulgació de la informació sol·licitada comporta un perjudici per a:
+a) La defensa i seguretat nacional.b) Les relacions internacionals i les obligacions de confidencialitat assumides en mèrits d’acords amb organismes internacionals.c) La seguretat pública.d) Les relacions amb els coprínceps i els seus serveis.e) La política econòmica, financera i monetària.f) La protecció del medi ambient.g) La prevenció, investigació i sanció d’infraccions penals, administratives o disciplinàries.h) Les funcions administratives de vigilància, inspecció, control, supervisió i auditoria.i) La igualtat entre les parts en els procediments judicials i la tutela judicial efectiva.j) Les deliberacions en el si o per part d’autoritats públiques en relació amb l’examen d’un assumpte, així com la garantia de la confidencialitat o el secret requerits en processos de presa de decisions.k) La intimitat i altres interessos privats legítims, com ara els drets dels menors d’edat i els de les víctimes de violència de gènere, de conformitat amb la normativa en matèria de protecció de dades personals.l) Els interessos econòmics o comercials d’una persona física o jurídica, inclosa la propietat intel·lectual i industrial i la informació empresarial estratègica.m) El secret professional.
+2. L’aplicació de les limitacions previstes a l’apartat 1 ha de ser justificada i proporcional a l’objecte i finalitat de protecció i ha d’atendre a les circumstàncies del cas concret i, particularment, a la concurrència d’un interès públic o privat superior que justifiqui l’accés a la informació.
+Els límits del dret d’accés a la informació pública són temporals si així ho estableix la llei que els regula, i es mantenen mentre perduren les raons que en justifiquen l’aplicació.
+3. En cas que les limitacions previstes a l’apartat 1 s’apliquin únicament a determinades parts de la informació pública sol·licitada, l’accés s’acorda de manera parcial, ometent la part afectada, excepte que en resulti una informació distorsionada o sense sentit. L’entitat concernida ha de separar la informació reservada de la que sigui accessible i ha d’indicar al sol·licitant quina part de la informació ha estat omesa.
+4. La normativa en matèria de protecció de dades personals és d’aplicació al tractament posterior de les dades obtingudes a través de l’exercici del dret d’accés a la informació pública.
 
 **Article 12. Protecció de dades personals**
 
-$2a
+1. Si la informació sol·licitada conté categories especials de dades personals segons definides a la Llei qualificada de protecció de dades personals, o dades relatives a la comissió d’infraccions penals o administratives que no comporten l’amonestació pública a l’infractor, l’accés únicament es pot autoritzar en alguna de les circumstàncies següents:
+a) Prèvia obtenció del consentiment exprés i per escrit de la persona afectada, llevat que aquesta persona hagi fet manifestament públiques les dades personals amb anterioritat a la data de la sol·licitud d’accés.b) Una vegada transcorreguts 25 anys de la mort de la persona afectada o, si no se’n coneix la data, 50 anys a partir de la producció del document.c) Per manament judicial.
+2. Fora dels supòsits previstos a l’apartat 1, quan la informació sol·licitada conté dades de caràcter personal, l’entitat a la qual es dirigeix la sol·licitud ha de concedir l’accés prèvia ponderació suficientment raonada de l’interès públic que justifica l’accés a la informació i dels drets de les persones afectades, en particular, del seu dret fonamental a la protecció de dades de caràcter personal.
+Amb caràcter general i llevat que en el cas concret prevalgui la protecció de dades personals o altres drets constitucionalment protegits de les persones afectades, s’ha de concedir l’accés a la informació pública que conté dades merament identificadores relacionades amb l’organització, el funcionament o l’activitat pública de l’entitat a la qual es dirigeix la sol·licitud.
+3. En cas que les limitacions previstes en aquest article s’apliquin únicament a determinades parts de la informació pública sol·licitada, l’accés s’ha d’acordar prèvia dissociació de les dades protegides de caràcter personal, de manera que s’impedeixi la identificació de les persones afectades.
+4. La normativa en matèria de protecció de dades personals és d’aplicació al tractament posterior de les dades obtingudes a través de l’exercici del dret d’accés a la informació pública.
 
 #### Capítol tercer. Exercici del dret d’accés
 
 **Article 13. Sol·licitud d’accés i causes d’inadmissió**
 
-$2c
+1. La sol·licitud d’accés es dirigeix a l’entitat responsable que disposa de la informació. Quan es tracti d’informació en possessió d’algun dels subjectes previstos a les lletres e) i f) de l’article 3.1, la sol·licitud es dirigeix a l’entitat pública a la qual estiguin vinculades.
+2. La sol·licitud pot presentar-se a través de qualsevol mitjà i ha de ser registrada per tal que permeti tenir constància de:
+a) La identitat i la informació de contacte, preferentment electrònica, de la persona sol·licitant.b) La informació objecte de la sol·licitud d’accés sense necessitat d’indicar cap document ni expedient concrets.c) En el seu cas, la modalitat preferida per accedir a la informació sol·licitada.
+3. La persona sol·licitant no està obligada a motivar la seva sol·licitud d’accés.
+4. No s’admeten a tràmit, mitjançant resolució motivada, les sol·licituds:
+a) Referides a informació que estigui en curs d’elaboració o de publicació general o a informació que contingui caràcter auxiliar, com la continguda en notes, esborranys, opinions, resums, comunicacions o informes interns entre òrgans o entitats administratives.b) Dirigides a una entitat que no disposi de la informació sol·licitada, quan aquesta desconegui quina és l’entitat competent per resoldre la sol·licitud.c) Que siguin manifestament repetitives o que tinguin un caràcter abusiu pel volum d’informació o pel temps transcorregut i no justificat en relació amb la finalitat de transparència d’aquesta Llei. En aquest cas, cal exigir a la persona sol·licitant una justificació raonada i per escrit de la seva sol·licitud, que és la que ha de ser examinada. Si la persona sol·licitant no l’hagués adjuntat amb la seva petició, cal que li sigui requerida en el termini de cinc dies hàbils perquè l’aporti en un termini idèntic. En cas que no ho faci, la sol·licitud queda arxivada d’ofici i sense possibilitat de recurs. En tal cas, la sol·licitud no pot ser objecte d’una posterior reiteració.d) Referides a informació que ja ha estat publicada o que es troba sotmesa a règims específics de publicitat.
 
 **Article 14. Tramitació i resolució**
 
-$2e
+1. En cas que la sol·licitud es refereixi a informació que no es trobi en possessió de l’entitat a la qual ha estat dirigida, aquesta ha de remetre la sol·licitud a l’entitat competent en cas de conèixer-la i informar la persona sol·licitant d’aquesta circumstància en un termini de quinze dies hàbils.
+2. Quan a la sol·licitud no s’indiqui de forma suficient la informació l’accés a la qual se sol·licita, a la persona sol·licitant se li ha de concedir un termini de deu dies hàbils, indicant-li la suspensió del termini per dictar resolució i comunicant-li que en cas de no esmenar la seva sol·licitud, es considerarà com a desistida i s’arxivarà l’expedient.
+3. L’Administració ha de prestar assessorament i assistència a la persona sol·licitant perquè pugui concretar la petició.
+4. Si la informació sol·licitada afecta drets o interessos de tercers degudament identificats, se’ls ha de concedir un termini de quinze dies hàbils perquè puguin realitzar les al·legacions que estimin oportunes. La persona sol·licitant ha de ser informada d’aquesta circumstància, així com de la suspensió del termini per dictar resolució fins que s’hagin rebut les al·legacions dels tercers o fins que hagi transcorregut el termini per efectuar-les.
+5. Quan la informació objecte de la sol·licitud, malgrat estar en possessió de l’entitat a la qual ha estat dirigida, ha estat elaborada, en la seva totalitat o parcialment, per una altra entitat, li ha de ser remesa a aquesta darrera perquè decideixi sobre el seu accés.
+6. La resolució on es concedeixi o denegui l’accés ha de notificar-se a la persona sol·licitant i als tercers afectats en el termini màxim de dos mesos des de la recepció de la sol·licitud per l’entitat competent per resoldre. Aquest termini pot ampliar-se per un mes en cas que el volum o la complexitat de la informació sol·licitada així ho requereixi i prèvia notificació a la persona sol·licitant i als tercers afectats.
+7. Les resolucions denegatòries han de ser degudament motivades, així com les que concedeixin l’accés parcial o a través d’una modalitat diferent a la sol·licitada. També han de ser motivades les resolucions que permetin l’accés quan hi hagi hagut oposició d’un tercer. En aquest darrer cas, s’ha d’indicar expressament a la persona sol·licitant que l’accés únicament es pot formalitzar una vegada la resolució sigui ferma.
+8. Transcorregut el termini màxim per resoldre o la seva pròrroga sense que s’hagi dictat resolució, es considera que la sol·licitud d’accés ha estat denegada.
+9. L’arxiu de l’expedient de sol·licitud d’accés a la informació pública no exclou el dret de presentar una nova sol·licitud que compleixi els requisits establerts per aquesta Llei.
 
 **Article 15. Formalització de l’accés**
 
@@ -83,13 +136,22 @@ $2e
 
 **Article 16. Recursos**
 
-$30
+1. Les resolucions dictades en matèria d’accés a la informació pública són recurribles directament davant la jurisdicció administrativa en la forma i els terminis establerts per la llei que regula el procediment davant d’aquesta jurisdicció, sense perjudici de la possibilitat d’interposar el recurs previst a l’apartat següent.
+2. Davant les resolucions en matèria d’accés a la informació pública pot interposar-se recurs administratiu, prèviament a la seva impugnació davant la jurisdicció administrativa, de la manera següent:
+a) Si es tracta d’actes de l’Administració general o dels òrgans i entitats que en depenen o que estan sota la seva direcció, davant de la Comissió Nacional d’Accés i Avaluació de la Documentació (CNAAD).b) Si es tracta d’actes dels comuns o dels òrgans i entitats que en depenen o que estan sota la seva direcció, davant del Consell de Comú, salvat el cas que una ordinació del comú corresponent atribueixi aquesta competència a un òrgan específic. En ambdós casos és preceptiu i no vinculant l’informe de la CNAAD.
+3. La tramitació del recurs previst a l’apartat 2 se substancia de conformitat amb les disposicions contingudes al Codi de l’Administració.
+4. La resolució del recurs previst a l’apartat 2 exhaureix la via administrativa i deixa oberta la via jurisdiccional.
 
 #### Capítol quart. Informació reservada d’Estat
 
 **Article 17. Principis generals**
 
-$32
+1. El Govern pot declarar d’ofici, amb caràcter enunciatiu no limitatiu, com a informació reservada d’Estat, qualsevol tipus d’informació i de documentació, sigui amb el suport que sigui, la divulgació de la qual pugui afectar algun dels interessos previstos a les lletres a) a e) de l’article 11.1.
+2. Quan una informació hagi estat declarada com a reservada d’Estat, els ministres concernits poden declarar la reserva de les informacions concretes i els documents compresos en la matèria, donant compte al Govern.
+3. La declaració ha de ser sempre motivada, expressant la finalitat d’interès públic que la justifica, i ha d’especificar les persones o òrgans que poden tenir accés a la informació i la durada del règim de classificació.
+4. Un cop estesa l’acta formal que estableix l’article 18.2, el Govern ha d’informar el Consell General del fet que ha procedit a declarar i classificar informació com a reservada d’Estat. Aquesta comunicació ha d’indicar de manera genèrica la motivació, així com la durada de la classificació.
+5. Així mateix, i sempre que aquesta declaració i classificació com a informació reservada d’Estat pugui perjudicar els interessos d’un comú, el Govern n’ha d’informar els cònsols major i menor, que també quedaran sotmesos a la reserva d’informació.
+6. La informació declarada com a reservada d’Estat no pot ser objecte del dret d’accés previst al capítol segon d’aquest Títol, llevat que es procedeixi a l’aixecament previ de la seva classificació de conformitat amb l’article 22.
 
 **Article 18. Classificació de la informació com a reservada d’Estat**
 
@@ -107,7 +169,13 @@ a) L’explicació suficientment justificada dels motius de la seva classificaci
 
 **Article 20. Habilitació genèrica**
 
-$34
+1. Els assumptes declarats com a informació reservada d’Estat només poden ser coneguts per aquelles persones expressament habilitades, sent les úniques que poden accedir als documents corresponents, d’acord amb les formalitats i les condicions que estableix aquesta Llei.
+2. Les persones habilitades que accedeixin a la informació reservada d’Estat n’han de guardar secret durant tot el temps que duri la seva reserva i respectar les mesures i prevencions de protecció que es determinin en cada cas.
+3. Aquelles persones no autoritzades que arribin a conèixer una informació classificada com a reservada d’Estat, sempre que els consti aquesta classificació, estan obligades a mantenir-ne el secret i posar-ho en coneixement de la persona encarregada de la secretaria general del Govern.
+4. La contravenció dels deures de secret i de custòdia que estableix aquesta Llei originen les responsabilitats penals, civils i disciplinàries que determini la legislació vigent.
+5. Per al compliment de l’activitat parlamentària, els consellers generals poden accedir a la informació reservada d’Estat, en la forma que determini el Reglament del Consell General, i en el seu cas, en sessions secretes. L’accés a la informació reservada d’Estat ha de sol·licitar-se a través del procediment previst al referit Reglament i queda sotmès a les obligacions de secret que s’hi preveuen i a les obligacions de reserva previstes en aquesta Llei.
+En cas que es creïn comissions a l’empara de l’article 48 del Reglament del Consell General que siguin de caràcter secret, les normes de funcionament de què es dotin poden preveure, amb el vot favorable de la majoria absoluta dels consellers generals que en formin part, que només aquests consellers puguin accedir de forma motivada a la documentació i informació que les entitats públiques tinguin al seu abast i que sigui necessària per acomplir la finalitat per a la qual s’han creat, llevat que una norma de rang superior ho impedeixi.
+6. Les administracions i entitats públiques han de crear un registre de consultes amb la finalitat d’inscriure les sol·licituds d’accés i les consultes efectuades i les denegades. El seu funcionament, gestió, accés, seguretat i ús es regula per reglament atenent la Llei qualificada de protecció de dades personals vigent.
 
 **Article 21. Termini de la reserva**
 
@@ -116,7 +184,13 @@ $34
 
 **Article 22. Aixecament de la classificació**
 
-$36
+1. Transcorregut el termini establert per a la classificació de la informació com a reservada d’Estat, aquesta queda desclassificada d’ofici. El Govern ha d’estendre una acta formal on consti aquesta desclassificació d’ofici, que ha de publicar-se al
+Butlletí Oficial del Principat d’Andorra
+.
+2. El Govern, d’ofici o a instància de persona interessada, pot desclassificar una informació classificada com a reservada d’Estat, modificar-ne el règim d’accés, reduir-ne el termini o prorrogar-lo, segons l’article 21.
+3. Les sol·licituds de desclassificació se substancien de conformitat amb el procediment previst en el capítol tercer del Títol II, amb l’excepció prevista a l’apartat següent.
+4. La resolució de classificació d’una informació com a reservada d’Estat, així com les resolucions dictades en virtut de l’apartat anterior són recurribles directament davant la jurisdicció administrativa, sense possibilitat d’interposar el recurs potestatiu previst a l’article 16.2. L’òrgan judicial competent pot accedir a la informació reservada amb la finalitat de comprovar l’adequació de la classificació a la legalitat. Aquest accés se sotmet a les previsions de l’article 20.
+5. Quan, en el curs d’un procediment judicial, el batlle o el tribunal, d’ofici o a instància de part, consideri necessari accedir a una informació classificada com a reservada d’Estat, ha d’adoptar una resolució judicial demanant-ne la desclassificació. La corresponent decisió del Govern pot ser objecte de recurs judicial, que podrà interposar qualsevol de les parts en el procediment principal davant de la jurisdicció administrativa.
 
 #### Capítol cinquè. Comissió Nacional d’Accés i Avaluació de la Documentació
 
@@ -132,15 +206,34 @@ a) La persona encarregada de la secretaria general del Govern.b) La persona resp
 
 **Article 25. Funcions i competències**
 
-$38
+1. La CNAAD té les funcions consultives i d’assessorament següents:
+a) Adoptar criteris per al millor compliment de les obligacions contingudes en aquesta Llei en matèria de publicitat activa i accés a la informació.b) Assessorar en l’avaluació i tria de la documentació de les administracions públiques i dels òrgans i entitats que en depenen o que estan sota la seva direcció.c) Elaborar i regular els criteris generals d’avaluació i tria de la documentació, i controlar-ne l’aplicació correcta.d) Establir i aprovar els procediments d’eliminació i de conservació de la documentació.e) Establir les taules d’avaluació de la documentació.f) Identificar les obsolescències de formats de la documentació electrònica i proposar la migració dels formats per a la seva preservació.g) Establir els criteris generals sobre l’aplicació de la normativa que regeix l’accés als documents públics.h) Qualsevol altra que aquesta Llei li atorgui o encomani.
+2. La CNAAD té competència decisòria per resoldre els recursos administratius interposats de conformitat amb l’article 16.2.a).
+En l’exercici d’aquesta competència decisòria, no poden participar els membres referits a l’article 24.1.j).
 
 **Article 26. Funcionament**
 
-$3a
+1. La CNAAD és presidida per la persona encarregada de la secretaria general del Govern i, en la seva absència, per la persona responsable de la direcció de l’Arxiu Nacional d’Andorra.
+2. El secretariat de la CNAAD és assegurat per la persona titulada en dret especialitzada en dret administratiu.
+3. La CNAAD es reuneix sempre que sigui necessari a criteri del president i també a petició d’un mínim de tres membres, i almenys trimestralment per tal d’avançar en la resolució de les funcions que li han estat encomanades. Correspon al president convocar la reunió amb un mínim de quinze dies naturals d’antelació.
+4. El quòrum necessari per poder celebrar la reunió i adoptar vàlidament acords és de cinc membres, entre els quals cal la presència obligatòria d’almenys tres representants del Govern, tot respectant el segon paràgraf de l’article 25.2.
+5. La CNAAD adopta els acords per majoria. En cas d’empat, el president té vot diriment.
+6. Per la via reglamentària, el Govern determina la resta de normes d’organització i de funcionament.
+7. Les resolucions de la CNAAD s’han de publicar al
+Butlletí Oficial del Principat d’Andorra
+en un termini màxim de quinze dies hàbils amb la dissociació prèvia de les dades personals, i s’han d’assenyalar les resolucions que estableixen criteris generals per a la resolució de futures sol·licituds.
+8. La CNAAD ha d’elaborar i publicar una memòria anual de les seves activitats.
+9. El Govern ha de dotar la CNAAD dels mitjans materials necessaris per a l’exercici de les seves funcions, sempre respectant-ne la independència orgànica i funcional.
 
 **Article 27. Aplicació de les resolucions de la Comissió Nacional d’Accés i Avaluació de la Documentació**
 
-$3c
+1. L’òrgan titular de la documentació objecte d’avaluació és el responsable d’aplicar les resolucions de la CNAAD.
+2. Quan l’aplicació d’una taula d’avaluació comporti l’eliminació de documents, la persona tècnica que porta a terme aquesta aplicació, abans de procedir a la destrucció, ha de:
+a) Tenir un inventari de la documentació a destruir.b) Obtenir l’autorització de la secretaria o de la direcció de l’organisme o entitat titular de documentació.c) Comprovar que cap circumstància administrativa o jurídica no ha alterat el termini de conservació fixat per als documents a eliminar.
+3. L’eliminació de documentació s’ha de comunicar a la CNAAD mitjançant la tramesa d’una acta feta en els termes establerts a l’article 26. Quan la documentació que cal conservar ingressa a l’arxiu corresponent, s’adjunta al document de transferència un exemplar de l’acta de la resolució de la CNAAD.
+4. Els titulars de documents públics han de disposar d’un registre de destrucció de documents que ha d’estar autoritzat pels seus secretaris respectius. Aquest registre ha d’estar a disposició de consulta de la CNAAD i de l’Arxiu Nacional d’Andorra.
+5. Aquest registre de destrucció de documents ha de tenir, com a mínim, els camps d’informació següents:
+a) Codi de la taula d’avaluació i accés documental o data de la resolució d’avaluació documental que s’aplica.b) Nom de la sèrie documental.c) Any de la documentació destruïda.d) Organisme productor.e) Volum i suport de la documentació destruïda.f) Data de la destrucció.g) Existència de suport de substitució i descripció d’aquest suport.
 
 ### Títol III. Declaració de patrimoni
 
@@ -156,7 +249,9 @@ $3c
 
 **Article 29. Principis generals i impuls**
 
-$3e
+1. El govern obert es fonamenta en els principis següents:
+a) El diàleg permanent entre l’Administració pública i la ciutadania.b) La presa de decisions públiques tenint en compte les necessitats i les preferències manifestades per la ciutadania.c) La participació i la col·laboració ciutadana en la definició de les polítiques públiques més rellevants, de caràcter general i sectorial.d) La transparència i la informació pública com a marc de referència per fer possible l’efectivitat del govern obert.e) La millora continuada de la qualitat dels serveis.f) La transparència, la publicitat, la claredat, l’accés a la informació, la neutralitat institucional, la perdurabilitat, la transversalitat, l’eficàcia, l’accessibilitat universal, la primacia de l’interès general i col·lectiu, la inclusió, la protecció de les dades de caràcter personal i el retiment de comptes.
+2. El govern obert ha d’apostar per un model híbrid, digital i presencial. S’han d’establir per reglament les diferents formes de participació ciutadana, com són la iniciativa ciutadana, els processos participatius, els òrgans i els canals de participació, entre d’altres i mitjançant els instruments que facilitin la interrelació amb la ciutadania, preferentment amb l’ús de mitjans electrònics i les tecnologies de la informació i la comunicació.
 
 **Article 30. Mesures de foment**
 
@@ -167,7 +262,12 @@ $3e
 
 **Article 31. Garanties per a l’efectivitat del govern obert**
 
-$40
+1. El govern obert permet a la ciutadania i a les entitats, amb caràcter general, fer arribar a l’Administració pública propostes, suggeriments i opinions sobre qualsevol assumpte en què aquesta sigui competent.
+2. L’Administració ha d’establir reglamentàriament procediments de participació i col·laboració ciutadana en l’elaboració de plans i programes de caràcter general i en la definició de les polítiques públiques més rellevants.
+3. En els supòsits a què fa referència l’apartat 2, l’Administració ha de complir les obligacions següents:
+a) Donar informació, amb antelació suficient, sobre les propostes sotmeses a la consideració dels ciutadans.b) Subministrar d’una forma adequada, sistemàtica i entenedora la informació relativa a les propostes que sigui necessària per tal de poder-les valorar adequadament.c) Valorar el resultat del procés participatiu en el moment de la presa de decisió, si escau.d) Informar la ciutadania, sobre les decisions adoptades i els motius que les justifiquen.
+4. Resten excloses de l’àmbit d’aplicació de l’apartat 2 les actuacions següents:
+a) Les que es tramiten o s’aproven amb caràcter d’urgència.b) Les que tenen com a únic objectiu la seguretat i salut pública.c) Les que poden donar lloc a l’aplicació dels límits d’accés a la informació pública establerts per aquesta Llei.
 
 #### Capítol segon. Participació ciutadana
 
@@ -178,7 +278,12 @@ $40
 
 **Article 33. Iniciatives reglamentàries populars**
 
-$42
+1. La ciutadania té el dret a presentar a l’Administració pública propostes d’iniciativa normativa de caràcter reglamentari.
+2. Les propostes s’han de referir íntegrament a competències de l’Administració pública a la qual s’adrecen.
+3. Les propostes han de tenir el suport de, com a mínim el 10% del cens electoral, per a les iniciatives que es presenten davant el Govern.
+4. L’òrgan competent per iniciar el procediment administratiu ha de valorar la proposta pel que fa a la necessitat de la norma, els costos que comportaria, l’oportunitat de la regulació per a l’interès públic i els efectes que produiria sobre el sector i els interessos concernits, i ha d’adoptar una decisió en el termini de tres mesos. Si en aquest termini no s’adopta i es notifica la resolució, la proposta s’ha d’entendre desestimada per silenci administratiu.
+5. L’expedient es resol de forma motivada excepte en el supòsit de silenci administratiu.
+6. La decisió sobre la proposta només pot ser objecte de recurs fonamentat en la vulneració dels elements reglats aplicables a l’exercici del dret, però no pel que fa a l’oportunitat de la decisió d’iniciar o no la tramitació de la iniciativa.
 
 **Article 34. Períodes inhàbils per a la convocatòria i celebració de procediments de participació ciutadana**
 

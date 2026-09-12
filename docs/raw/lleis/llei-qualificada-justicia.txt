@@ -39,7 +39,9 @@ La competència dels Batlles i Tribunals s’estén a tot el territori de l’Es
 
 **Article 6**
 
-$21
+1. Els drets i llibertats reconeguts en els capítols III i IV del títol II de la Constitució vinculen immediatament els batlles i tribunals a títol de dret directament aplicable, i el seu contingut no pot ser limitat per la llei.
+2. Aquests drets i llibertats, llevat dels drets recollits a l’article 10 de la Constitució i dels altres drets la vulneració dels quals s’hagi produït en el marc d’un procediment judicial, són tutelats pels tribunals per mitjà d’un procediment urgent i preferent que se substancia en dos instàncies, d’acord amb el que disposa la Llei transitòria de procediments judicials.
+3. Els drets recollits a l’article 10 de la Constitució i els altres drets i llibertats reconeguts en els capítols III i IV del títol II de la Constitució la vulneració dels quals s’hagi produït en el marc d’un procés judicial, són tutelats pels tribunals per mitjà de l’incident de nul·litat que regula la Llei transitòria de procediments judicials, el qual es configura a aquest efecte com un procediment urgent i preferent.
 
 **Article 7**
 
@@ -64,11 +66,21 @@ L’existència d’una qüestió prejudicial penal comporta la suspensió del p
 
 **Article 10**
 
-$25
+1. Sense perjudici de les responsabilitats personals dels qui els causin, l’Estat repararà els danys originats per error judicial o pel funcionament anormal de l’Administració de Justícia, salvat en els casos de força major.
+2. El dany al·legat haurà d’ésser sempre cert i efectiu, avaluable econòmicament i individualitzat en relació a una persona o grup de persones. La simple revocació o anul·lació de resolucions judicials no pressuposa per ella mateixa dret a indemnització.
+3. L’acció per al reconeixement de l’error judicial o de l’anormal funcionament de l’Administració de Justícia i per a l’eventual avaluació del dany, s’haurà d’instar davant del Ple del Tribunal Superior de Justícia, dins del termini improrrogable de tres mesos, comptadors des del dia en què es pugui exercitar.
+4. En el cas que l’error sigui imputat a una de les Sales del Tribunal Superior, els seus membres quedaran exclosos del coneixement de l’acció.
+5. Si l’Administració pública, que sempre haurà d’ésser emplaçada, considera que el fet danyós està deslligat en tot o en part del servei i que és personalment imputable a l’autoritat, funcionari o agent que n’és l’autor, per raó de dol o negligència greu i inexcusable, demanarà al Tribunal Superior de Justícia que l’emplaci com a part en el judici, per tal que se sotmeti a la sentència.
+Si l’emplaçament no es produeix en temps i forma, l’Administració pública podrà plantejar una acció de rescabalament, tal i com preveu el Codi de l’Administració.
+6. Una vegada reconegut i avaluat el dany pel Tribunal Superior de Justícia i en el termini improrrogable de tres mesos a comptar de la notificació de la decisió, el beneficiari haurà d’adreçar-se al Govern el qual ordenarà el pagament mitjançant els crèdits establerts per l’article 105 de la Llei de la Jurisdicció Administrativa i Fiscal del 15 de novembre de 1989.
 
 **Article 11**
 
-$29
+La remuneració de tots els batlles i magistrats, així com totes les despeses de l’Administració de justícia en general, són a càrrec dels pressupostos de l’Estat.
+Els batlles i magistrats reben un sou a càrrec del pressupost i no poden percebre directament o a través del pressupost cap honorari ni taxa judicial en benefici propi.
+El règim retributiu dels batlles i els magistrats consta, si escau, dels conceptes següents:
+a) Base retributiva, segons les categories de batlle i magistrat.b) Complement de grau personal, segons el grau que correspongui a cada batlle o magistrat.c) Complement de destinació, per la plaça ocupada, segons la classificació de places que aprovi el Consell Superior de la Justícia.d) Complement de responsabilitat addicional, pel nivell superior de funcions de substitució assumides respecte de les pròpies de la plaça, de manera addicional, provisional o transitòria, i també per la designació en la presidència d’un òrgan judicial o la vicepresidència de la Batllia.e) Complement d’antiguitat, per cada tres anys de servei prestat com a batlle o magistrat prop de l’Administració de justícia.
+El règim retributiu dels batlles i els magistrats es regeix per les taules anuals que s’adjunten com a annex I de la Llei.
 
 **Article 12**
 
@@ -76,7 +88,15 @@ L’obertura d’una instrucció penal en un afer pel qual estigués en curs una
 
 **Article 13**
 
-$30
+1. El procés judicial es fonamenta en els principis d’audiència, contradicció i igualtat de les parts, i se substancia davant un tribunal imparcial predeterminat per la llei.
+2. Els judicis són públics, tret dels casos en què el Tribunal, d’ofici o a instància de part, acorda que se celebrin, excepcionalment, a porta tancada.
+3. El judici se substancia preferentment en una vista oral, pública i contradictòria. Els batlles i els magistrats que coneguin del judici han de presenciar les declaracions de les parts i dels testimonis, els acaraments i els informes orals dels pèrits, així com qualsevol altre acte de prova.
+4. El judici oral s’aplica necessàriament en el procés penal. En la resta de procediments, la llei estableix el règim de les actuacions i el tipus de judici que s’ha de seguir.
+5. Tant les sentències penals com les resolucions o sentències civils i administratives han de ser públiques i conegudes per les parts i pel poble en nom del qual s’administra justícia.
+La notificació de les resolucions o sentències i la dels altres actes processals es du a terme d’acord amb la llei.
+6. La Batllia i els tribunals han d’obrir i tenir al dia els llibres de resolucions i sentències corresponents, que són d’accés lliure salvats els casos en què, per raons de privacitat derivades del respecte obligat al dret a la intimitat reconegut per l’article 14 de la Constitució, el tribunal acordi limitar l’accés a les parts comparegudes.
+Especialment, són d’accés restringit les actuacions dels delictes perseguibles a instància de part, sense perjudici de la publicitat del contingut absolutori o condemnatori, i les actuacions dels processos de dret de família.
+Els llibres de resolucions i les sentències es poden conservar en suport informàtic.
 
 #### Capítol segon. Del Batlle i Magistrat Ponent
 
@@ -91,7 +111,9 @@ Sense contingut
 
 **Article 16**
 
-$33
+1. Correspon al batlle o el magistrat ponent:
+a) Tramitar de forma ordinària el procés.b) Examinar les proves proposades per les parts i decidir sobre la seva legalitat, utilitat, pertinència, necessitat i proporcionalitat.c) Presidir o presenciar la pràctica de les proves.d) Informar els recursos interposats contra les decisions de la secció, la sala o el tribunal.e) Proposar els autes resolutoris d’incidents i, si escau, pel que fa als àmbits jurisdiccionals civil i administratiu, les sentències i les altres resolucions que s’han de sotmetre a discussió de la secció, sala o tribunal, i també redactar-les definitivament. Pel que fa a l’àmbit jurisdiccional penal, les sentències i altres resolucions dictades en període d’execució les proposa i redacta definitivament el magistrat que hagi participat en la vista oral i que designi el tribunal.
+2. Els batlles i tribunals no poden adreçar peticions, sol·licituds o opinions relatives a resolucions que hagin dictat i en relació amb les quals s’hagi interposat un recurs al tribunal competent per conèixer aquest recurs, i s’han de limitar a trametre’ls el procés a aquest efecte.
 
 #### Capítol tercer. De les resolucions judicials
 
@@ -145,11 +167,24 @@ El Consell Superior de la Justícia es reuneix en sessió ordinària una vegada 
 
 **Article 25**
 
-$39
+1. El membre designat pel síndic general és el president del Consell Superior de la Justícia. El president exerceix la representació del Consell Superior de la Justícia, convoca i presideix les reunions, fixa l’ordre del dia, que ha d’incloure els punts que qualsevol membre proposi examinar, dirigeix els debats i té vot diriment en cas d’empat. Les votacions sempre són secretes.
+2. Els cinc membres que componen el Consell Superior de la Justícia elegeixen, entre ells, un vicepresident i un secretari.
+3.
+a) El vicepresident substitueix el president en els supòsits d’absència o vacança. En aquest cas té la plenitud de drets, deures i atribucions que corresponen al president i ostenta la representació del Consell Superior de la Justícia.b) El secretari, amb el vistiplau del president, aixeca acta de totes les reunions i decisions del Consell Superior de la Justícia.
+4. El Consell Superior de la Justícia queda constituït i pot adoptar decisions amb l’assistència de quatre dels cinc membres que el componen. Les decisions s’adopten per majoria.
+5. Les resolucions que dicta el Consell Superior de la Justícia per desenvolupar aquesta Llei s’anomenen reglaments; totes les altres prenen el nom d’acords. Els reglaments del Consell Superior de la Justícia, i els acords de nomenament, renovació i cessació de càrrecs es publiquen al Butlletí Oficial del Principat d’Andorra; la resta d’acords es notifiquen a les persones que els han de complir o que els han de conèixer, i només han de ser publicats quan ho estableixi una llei o quan s’adrecin a una pluralitat indeterminada de persones.
+6. Contra les resolucions del Consell Superior de la Justícia es pot presentar recurs en via administrativa davant el mateix Consell Superior de la Justícia, d’acord amb les normes del Codi de l’Administració. Exhaurida la via administrativa, es pot interposar recurs davant el Ple del Tribunal Superior de Justícia.
+7. El secretari general del Consell Superior de la Justícia, que és nomenat i separat lliurement pel Consell Superior de la Justícia, assisteix el president i, si escau, els altres membres, en la preparació de les reunions, tramet les convocatòries i l’ordre del dia de les reunions als membres del Consell Superior de la Justícia i a les altres persones que hi hagin d’assistir, assisteix el membre secretari en la redacció de les actes de les reunions i de les decisions i en l’emissió dels certificats d’aquestes, arxiva i custodia les convocatòries, els ordres del dia i les actes de les reunions, executa les ordres de publicació de les decisions que s’hagin de publicar, té a càrrec seu l’organització i el comandament de la Secretaria General del Consell Superior de la Justícia, i exerceix la resta de funcions que li atribueixin les lleis o que li encomani el president del Consell Superior de la Justícia.
 
 **Article 25 bis**
 
-$3e
+1. Els membres del Consell Superior de la Justícia actuen amb independència, imparcialitat i responsabilitat, subjectes a la llei i d’acord amb els interessos generals.
+2. Els membres del Consell Superior de la Justícia han de fer a l’inici i al final del seu mandat una declaració de patrimoni, d’acord amb el que estableixi la legislació vigent en matèria de transparència.
+3. Els membres del Consell Superior de la Justícia estan subjectes a les mateixes causes d’abstenció i de recusació aplicables al personal al servei de l’Administració general. En cas que s’esdevingui una causa d’abstenció, el membre del Consell afectat ho posa en coneixement del president, que decideix sobre l’acceptació. En cas que l’afectat sigui el president, aquest últim ho comunica al vicepresident, que decideix. Si el membre afectat per una causa d’abstenció no ho comunica en els termes del paràgraf anterior, pot ser recusat per les persones potencialment afectades per la decisió que hagi de prendre el Consell. El Ple del Consell decideix sobre les recusacions presentades, una vegada escoltat el membre recusat.
+4. Els membres del Consell Superior de la Justícia s’han d’abstenir en tots els assumptes en què tinguin un interès, directe o indirecte, que pugui comprometre la seva imparcialitat. En aquest cas se segueix el que està previst en l’apartat 3 d’aquest article.
+5. Els membres del Consell Superior de la Justícia, una vegada finalitzat el seu mandat, no poden intervenir, durant els dos anys posteriors al seu cessament, en els assumptes sobre els quals hagi decidit el Consell.
+6. Els membres del Consell Superior de la Justícia són responsables civilment i penalment per les actuacions emanades en l’exercici del seu càrrec. Els són aplicables les normes establertes als articles 77 i 78 d’aquesta Llei qualificada.
+7. El Consell Superior de la Justícia aprova un codi ètic aplicable als membres del Consell en l’exercici de les seves funcions, en els termes previstos al capítol setè del títol V d’aquesta Llei.
 
 **Article 26**
 
@@ -189,7 +224,9 @@ El fiscal general de l’Estat i els fiscals adjunts són nomenats pel Consell S
 
 **Article 33**
 
-$41
+1. El Consell Superior de la Justícia promou els batlles als graus segon i tercer, i els magistrats al grau superior, en les condicions que fixa l’article 64 bis, apartats 2 i 3.
+2. El Consell Superior de la Justícia designa el president i el vicepresident de la Batllia amb preferència entre els batlles de grau segon o tercer, i els presidents del Tribunal de Corts i del Tribunal Superior amb preferència entre els magistrats de grau superior, una vegada consultats els membres dels òrgans respectius. La durada del mandat dels presidents és igual a la durada del seu mandat de batlle o magistrat, i els presidents poden ser renovats en aquesta funció únicament una vegada.
+3. El Consell Superior de la Justícia designa els presidents de Sala del Tribunal Superior amb preferència entre els magistrats de grau superior, una vegada consultats el president i els membres del Tribunal Superior. Sense perjudici del que estableix l’article 58.2, la durada del seu mandat és igual a la durada del seu mandat de magistrat i poden ser renovats en aquesta funció únicament una vegada.
 
 **Article 34**
 
@@ -202,7 +239,12 @@ Els secretaris judicials són seleccionats i nomenats, entre persones de naciona
 
 **Article 35 bis**
 
-$47
+1. El Consell Superior de la Justícia és competent per supervisar el funcionament de l’Administració de justícia, a fi d’assegurar-ne l’eficàcia i eficiència i el compliment de les obligacions de tot el personal, judicial i no judicial, i, consegüentment, pot nomenar inspectors amb aquesta finalitat. La inspecció dels òrgans judicials correspon a persones que no formin part de la carrera judicial andorrana, sempre que tinguin la capacitació i l’experiència suficients per dur a terme la inspecció encomanada. En el cas que no es pugui nomenar una persona que no formi part de la carrera judicial andorrana, el Consell Superior de la Justícia pot nomenar un batlle o un magistrat de grau o categoria superior al de l’òrgan inspeccionat. Els inspectors estan sotmesos al secret professional en relació amb la informació que coneguin amb motiu de la inspecció, i només en poden fer ús amb aquesta finalitat. Els inspectors són nomenats per un període de tres anys, renovable una sola vegada.
+2. La inspecció comprèn l’examen i la supervisió de tot el que resulti necessari per al coneixement de la situació i el funcionament de l’òrgan inspeccionat i del compliment dels deures del personal judicial i del personal de l’Administració de justícia, atenent especialment la finalitat d’assegurar la gestió eficaç i eficient de tots els assumptes. Tanmateix, la inspecció en cap cas no pot abastar l’aplicació o la interpretació de l’ordenament jurídic que els batlles i els magistrats portin a terme en l’exercici de les seves funcions jurisdiccionals.
+3. La inspecció actua a instància del Consell Superior de la Justícia, dels presidents dels òrgans judicials i, quan afecta exclusivament el personal de l’Administració de justícia, també dels secretaris judicials. L’encàrrec de la inspecció ha de ser motivat i es fonamenta en la supervisió general i periòdica o en circumstàncies i fets concrets i identificats.
+4. La inspecció conclou amb un informe que s’ha de lliurar en un termini raonable, expressa les actuacions efectuades i el resultat i s’eleva a qui la va sol·licitar i, en tot cas, al Consell Superior de la Justícia. L’informe pot contenir recomanacions per millorar el funcionament de l’òrgan inspeccionat. Abans de fer-lo definitiu, es dona vista a les persones de l’òrgan inspeccionat perquè puguin fer les al·legacions que creguin convenients. L’inspector es pot adreçar al Col·legi Oficial d’Advocats d’Andorra, al Col·legi Oficial de Procuradors d’Andorra i a totes les persones que cregui convenients per demanar informació rellevant per a l’actuació que estigui portant a terme. El Consell Superior de la Justícia en la seva memòria anual, farà públiques les recomanacions que siguin generals per a la millora del funcionament dels òrgans judicials i que resultin de l’activitat de la inspecció de tribunals.
+5. Si de les actuacions d’inspecció se’n desprenen indicis de responsabilitat disciplinària, l’inspector ho comunica al president del Consell Superior de la Justícia i al president de l’òrgan judicial corresponent, i si afecta el personal de l’Administració de justícia, ho comunica també al batlle i al secretari judicial que correspongui. Si se’n desprenen indicis de responsabilitat penal, ho comunica, a més, al Ministeri Fiscal. Els membres de la carrera judicial i el personal de l’Administració de justícia tenen l’obligació de col·laborar per al bon fi de la inspecció.
+6. El Consell Superior ha de publicar anualment estadístiques complertes de l’activitat judicial per cada Tribunal, Sala, Secció i Batllia dels procediments judicials.
 
 **Article 35 quater**
 
@@ -216,11 +258,23 @@ $47
 
 **Article 36**
 
-$4b
+1. Per a l’exercici de les atribucions que té encomanades, el Consell Superior de la Justícia elabora el seu projecte de pressupost, que se sotmet a l’aprovació del Consell General.
+2. En l’elaboració del seu projecte de pressupost, el Consell Superior de la Justícia està vinculat pel principi d’equilibri pressupostari que regeix l’elaboració del pressupost general i s’ha d’ajustar a les eventuals directrius formulades sobre aquesta qüestió.
+3. En l’execució del seu pressupost, el Consell Superior de la Justícia s’ha d’ajustar als procediments administratius que regula la Llei general de les finances públiques i la Llei de la contractació pública. El mateix Consell determina quins són els seus òrgans de contractació.
+4. El Consell Superior de la Justícia està sotmès al control pressupostari de la Intervenció General, que pot designar un interventor delegat a aquest efecte, d’acord amb la Llei general de les finances públiques. Està sotmès també al control del Tribunal de Comptes.
+5. El Consell Superior de la Justícia ha de formar i aprovar abans de l’1 d’abril de cada any la liquidació del seu pressupost de l’exercici anterior, d’acord amb la Llei general de les finances públiques i el Pla general de comptabilitat pública.
+6. El president del Consell Superior de la Justícia ha de trametre al Consell General, trimestralment i dintre del trimestre següent, una memòria explicativa de l’execució del pressupost del Consell i de les seves modificacions, i també dels moviments i de la situació de la tresoreria.
+7. El Consell Superior de la Justícia disposa de la seva tresoreria pròpia. Aquesta tresoreria comprèn el pagament de les obligacions de despeses corrents i el cobrament dels ingressos corrents en concepte de la transferència corrent provinent del Govern. Els romanents de tresoreria s’assignen a la destinació que estableix la Llei del pressupost general.
+8. El Consell Superior de la Justícia elabora cada any la proposta de pressupost de l’Administració de Justícia i del Ministeri Fiscal, a partir de les propostes que al seu torn li siguin trameses pels presidents de la Batllia, del Tribunal de Corts i del Tribunal Superior, i pel fiscal general, i la tramet al ministeri que tingui atribuïdes les competències en matèria de justícia en el termini que fixa la Llei general de les finances públiques.
+9. El pressupost de l’Administració de Justícia i del Ministeri Fiscal es troba integrat dins del pressupost del ministeri que tingui atribuïdes les competències en matèria de justícia, però és gestionat pel Consell Superior de la Justícia. En la seva execució, el president del Consell Superior de la Justícia exerceix les funcions que, d’acord amb la normativa vigent en matèria pressupostaria i de contractació pública, correspondrien al ministre competent en matèria de justícia.
+10. La creació de qualsevol plaça per part del Consell Superior de la Justícia, al si del Consell o de l’Administració de justícia, en exercici de les seves competències, o les propostes de creació de places que dirigeixi als òrgans competents per crear-les, ha de comptar amb una justificació adequada segons les càrregues de treball que evidenciï l’eficiència econòmica, d’acord amb la metodologia emprada a aquest efecte per l’Administració general de l’Estat segons la legislació vigent.
 
 **Article 37**
 
-$52
+1. El Consell Superior de la Justícia ha d’informar amb caràcter preceptiu i no vinculant en relació amb els projectes o les proposicions de llei que concerneixin l’Administració de Justícia o el Consell Superior de la Justícia.
+L’informe sobre els projectes de llei s’ha de trametre al Govern en el termini de quinze dies hàbils des que se l’hagi requerit a l’efecte, o en el termini de vuit dies hàbils en el cas que se’n faci constar la urgència; l’informe sobre les proposicions de llei s’ha de trametre al Consell General en el mateix termini que estableixi la Sindicatura a l’efecte que el Govern emeti el criteri.
+2. El Consell Superior de la Justícia també pot emetre informes per donar compte de la situació i el funcionament de l’Administració de Justícia o del Consell Superior de la Justícia, o per proposar millores o modificacions de lleis que concerneixin l’Administració de Justícia o el Consell Superior de la Justícia.
+3. El Consell Superior de la Justícia ha d’elaborar i elevar anualment al Consell General i al Govern un informe sobre l’impacte de gènere en l’àmbit judicial, incloent-hi, si escau, la proposta de mesures per aplicar efectivament el dret a la igualtat de tracte i d’oportunitats i a la no-discriminació entre dones i homes en aquest àmbit.
 
 **Article 38**
 
@@ -228,7 +282,9 @@ El Consell Superior de la Justícia, per acord adoptat per unanimitat, podrà at
 
 **Article 38 bis**
 
-$56
+El Consell Superior de la Justícia pot organitzar, directament o mitjançant convenis amb altres institucions, també estrangeres i internacionals, les activitats formatives que consideri convenients per al bon funcionament de l’Administració de justícia.
+De manera especial, ha de determinar els programes formatius i de pràctiques que han de seguir els batlles en pràctiques que hagin superat les proves d’accés, les activitats formatives necessàries per passar als graus segon, tercer o superior dins de cada categoria judicial, i els nivells mínims d’activitat de formació continuada que ha de rebre l’autoritat judicial durant el seu mandat.
+També ha de garantir que l’autoritat judicial i el Ministeri fiscal en tots els ordres jurisdiccionals rebin una formació completa inicial i continuada en matèria d’igualtat de tracte i no-discriminació entre dones i homes, en particular, en matèria de violència de gènere contra les dones i de discriminació múltiple i interseccional que pateixen les dones en situacions de vulnerabilitat.
 
 ### Títol III. Extensió i límits de la jurisdicció i organització i funcionament dels Tribunals
 
@@ -236,7 +292,14 @@ $56
 
 **Article 39**
 
-$59
+1. La potestat jurisdiccional atribuïda per l’article 2 de la present Llei als Batlles, al Tribunal de Batlles, al Tribunal de Corts i al Tribunal Superior de Justícia d’Andorra, s’estructura en la jurisdicció civil, la penal i l’administrativa.
+2. La jurisdicció penal abasta els delictes i les contravencions penals.
+3. La jurisdicció administrativa controla:
+a) La subjecció al Dret de l’exercici per part del Govern de la potestat reglamentària.b) La subjecció al Dret en l’activitat normativa i d’execució de l’Administració Pública enumerada en l’article 13 del Codi de l’Administració avui vigent, així com la subjecció als fins que legitimen dita activitat.
+Pertanyen en tot cas a la jurisdicció administrativa:
+a) Els contenciosos establerts en la normativa de Seguretat Social.b) Els recursos en matèria de funcionaris al servei de qualsevulla institució pública del Principat.c) Els litigis en matèria electoral relatius a llistes i candidatures.d) Els litigis sobre responsabilitat patrimonial de l’Administració pública i del personal al seu servei, sigui quina sigui la naturalesa de l’activitat que realitzen i el tipus de relació, estatutària o contractual, que els uneix. La jurisdicció administrativa és, en tot cas, l’única competent per enjudiciar les reclamacions que pretenguin la declaració de la responsabilitat patrimonial de l’Administració pública, encara que s’adrecin, únicament o conjuntament, contra la companyia asseguradora, i també quan s’adrecin conjuntament contra eventuals tercers responsables, sense perjudici, en aquest darrer cas, de l’aplicació de les normes substantives sobre responsabilitat que corresponen a cadascun dels demandats.e) Els litigis derivats de contractes d’obres de subministraments i serveis públics convinguts per l’Administració Pública regulats pel Capítol IV del Codi de l’Administració.f) Els recursos contra les decisions de l’òrgan competent per a fixar les indemnitzacions per expropiació a causa d’utilitat pública, segons la llei vigent en aquesta matèria.
+La jurisdicció administrativa pot conèixer i resoldre les qüestions prejudicials o incidentals civils directament relacionades amb el judici que tingui plantejat; tot i això, les decisions adoptades sobre aquestes qüestions no tenen efecte més enllà del judici esmentat i poden ser revisades per la jurisdicció competent.
+4. Pertanyen a la jurisdicció civil tots els negocis jurídics privats. Són amb caràcter general pròpies d’aquesta jurisdicció totes les qüestions que no hagin estat expressament atribuïdes a altres jurisdiccions.
 
 **Article 39 bis**
 
@@ -253,7 +316,10 @@ Durant l’acte d’obertura que se celebra a l’inici de cada any judicial, el
 
 **Article 41 bis**
 
-$5e
+1. Les actuacions judicials es realitzen en dies i hores hàbils. Són dies hàbils tots els de l’any, a excepció dels dies referits a l’apartat 2. Són hores hàbils per dur a terme les actuacions processals des de les nou del matí fins a les set del vespre, llevat que la llei ho disposi altrament.
+2. Són inhàbils els dies del mes d’agost i els compresos entre el vint-i-quatre de desembre i el sis de gener de cada any judicial, ambdós inclosos. També són dies inhàbils tots els diumenges, dissabtes i els de festa nacional, i tots els festius a efectes laborals, segons el calendari establert cada any pel Govern.
+3. Els dies i hores inhàbils poden ser habilitats per a la pràctica de mesures de caràcter cautelar o executori, i de notificació. El termini per interposar recurs comença l’endemà del primer dia hàbil següent.
+4. Tots els dies i hores de l’any són hàbils, sense necessitat d’habilitació especial, per a la instrucció i l’execució de les sentències en els processos penals. Malgrat això, les notificacions durant els dies inhàbils i el mes d’agost es limiten a les actuacions relacionades amb causes amb pres o altres supòsits d’actuacions penals objectivament urgents.
 
 **Article 42**
 
@@ -282,11 +348,17 @@ Quan els fets dels quals tracten els articles anteriors puguin ser constitutius 
 
 **Article 46 bis**
 
-$65
+1. Els actes de comunicació processal es realitzen mitjançant el servei informàtic de comunicació processal que permet l’enviament i la recepció dels escrits i documents amb la garantia plena de l’autenticitat de la comunicació i del seu contingut, i també del moment de l’enviament i la recepció íntegres. La comunicació processal es du a terme pels altres mitjans establerts a la llei quan no es pugui emprar la comunicació electrònica.
+2. El Ministeri Fiscal, els advocats, els procuradors i la resta de cooperadors de l’Administració de Justícia han de tenir accés ple al servei informàtic de comunicació processal per dur a terme les funcions que tenen encomanades per les lleis.
+3. Quan els destinataris dels actes de comunicació no siguin el Ministeri Fiscal, els advocats, els procuradors i els altres cooperadors de l’Administració de Justícia, la comunicació processal es du a terme pels altres mitjans establerts a la llei.
+4. Correspon al Consell Superior de la Justícia vetllar pel registre i l’accés dels usuaris al servei informàtic de comunicació processal i assegurar-ne un manteniment i funcionament correctes.
 
 **Article 46 ter**
 
-$67
+1. Les vistes, les audiències, les compareixences i els judicis orals s’han d’enregistrar en suports que siguin aptes per ser reproduïts per les parts i els batlles i tribunals. Els arxius informàtics o documents electrònics que contenen els enregistraments s’han d’unir i formen part de l’expedient relatiu al procés judicial de què es tracti.
+2. El secretari judicial garanteix l’autenticitat i la integritat de l’enregistrament i del document electrònic que se’n derivi, mitjançant la signatura electrònica reconeguda o qualsevol altre sistema de seguretat que, d’acord amb la Llei, garanteixi l’autenticitat de l’enregistrament i el seu valor com a acta de la vista, l’audiència, la compareixença o el judici oral que s’ha celebrat.
+3. Sense perjudici de l’enregistrament de la vista, l’audiència, la compareixença o el judici oral que se celebri, el secretari judicial n’ha d’estendre una acta succinta en què es consigni, com a mínim, el número del procés; la classe de procediment; el lloc i la data en què se celebra l’actuació; la durada de l’actuació, les persones que hi assisteixen; les proves o diligències que es proposen, i si aquestes proves o diligències han estat admeses o no; l’ordre en què es practiquen les proves o diligències; les resolucions que adopta el batlle o el tribunal, i les altres circumstàncies i incidències que es produeixin i que sigui rellevant de fer constar. L’acta s’uneix a l’expedient relatiu al procés judicial de què es tracti i complementa el document electrònic en què es conté l’enregistrament.
+4. En cas que no es pugui enregistrar la vista, l’audiència, la compareixença o el judici oral per qualsevol motiu, el secretari judicial n’ha d’estendre una acta completa que contingui tot el que s’hi ha esdevingut.
 
 #### Capítol segon. La Batllia d’Andorra (El Batlle i el Tribunal de Batlles)
 
@@ -296,7 +368,12 @@ La Batllia d’Andorra és la jurisdicció de primera instància i instrucció e
 
 **Article 48**
 
-$69
+El Tribunal de Batlles col·legiadament i els batlles en composició unipersonal, d’acord amb el que estableixen aquesta Llei i les altres lleis, són competents per jutjar en primera instància tots els processos, a excepció dels processos penals que són competència del Tribunal de Corts.
+Els batlles instrueixen individualment els processos penals, sense perjudici de la facultat del president de la Batllia, en casos excepcionals, de nomenar de forma motivada un o diversos batlles amb funcions de suport en la instrucció d’un procés atribuït al batlle a qui hagi correspost per torn.
+Els batlles també exerceixen en composició unipersonal la jurisdicció voluntària.
+El Batlle de guàrdia és competent per tramitar i resoldre en primera instància els procediments establerts en els articles 9.3 i 41.1 de la Constitució.
+Llevat dels casos expressament fixats per la Llei, els batlles no poden delegar les funcions que els són atribuïdes; en tot cas, la delegació esmentada no pot abastar mai les funcions jurisdiccionals.
+Els batlles i els tribunals exerceixen també la funció d’inspecció del Registre Civil i les altres funcions que expressament els siguin atribuïdes per la llei, en garantia de qualsevol dret.
 
 **Article 49**
 
@@ -305,11 +382,26 @@ $69
 
 **Article 50**
 
-$75
+1. El president del Tribunal de Batlles, com a responsable de l’organització i el funcionament de la Batllia d’Andorra, adopta les mesures oportunes a aquest efecte, i també per assegurar la continuïtat de les seves tasques. També assumeix la representació de la Batllia davant les institucions.
+2. El vicepresident de la Batllia exerceix les funcions del president en cas d’absència, vacant, o impossibilitat física del president o per delegació.
+3. La Batllia queda estructurada en la Secció Civil General, la Secció Civil Especialitzada, la Secció Administrativa, la Secció de Menors, la Secció d’Instrucció General i la Secció d’Instrucció Especialitzada.
+4. La Secció Civil General és competent per conèixer els processos civils que se segueixen pels procediments ordinari, abreujat i d’exequàtur, o per als quals les lleis no estableixin que s’ha de seguir per un procediment determinat. La Secció Civil Especialitzada és competent per conèixer els processos civils que se segueixen pels procediments especials d’acord amb les lleis aplicables. Les seccions civils també són competents per conèixer els processos que se segueixen pel procediment de jurisdicció voluntària.
+5. La Secció Administrativa és competent per conèixer els processos atribuïts a la jurisdicció administrativa d’acord amb les lleis aplicables.
+6. La Secció de Menors és competent per conèixer els processos atribuïts a la jurisdicció de menors d’acord amb les lleis aplicables.
+7. La Secció d’Instrucció Especialitzada és competent per conèixer les infraccions penals:
+a) Relatives a la genètica i la reproducció humanes.b) Contra la llibertat de moviments de les persones.c) Relatives a la prostitució.d) Contra l’ordre socioeconòmic, a excepció del delicte d’ús fraudulent de targeta de crèdit, dels delictes contra la seguretat social i dels delictes de contraban.e) Contra la seguretat col·lectiva, a excepció dels delictes de tinença i port il·legal d’armes i contra la seguretat del trànsit.f) Contra la Constitució.g) Contra l’ordre públic.h) Contra la pau i la independència del Principat.i) Contra la funció pública, a excepció dels delictes de celebració de matrimoni il·legal i d’atemptats contra els funcionaris i usurpació de funcions públiques.j) Relatives al blanqueig de diners o valors.k) Relatives a la falsedat de moneda i efectes timbrats.l) Contra la comunitat internacional.m) Comeses en forma de criminalitat organitzada.
+La mateixa secció és competent pel que fa a la cooperació judicial internacional resultant de les infraccions referides anteriorment.
+La Secció d’Instrucció General és competent per conèixer la resta d’infraccions penals.
+Les seccions d’Instrucció són competents, d’acord amb el que estableix aquest apartat i les lleis aplicables restants, per jutjar pel procediment de l’ordenança penal les contravencions penals, els delictes menors i els delictes majors, i per executar les ordenances penals que hagin dictat.
+8. En iniciar-se l’any judicial el president del Tribunal de Batlles estableix, d’acord amb els nomenaments respectius acordats pel Consell Superior de la Justícia, l’adscripció principal i subsidiària dels batlles a cadascuna de les seccions a què fa referència l’apartat 3 d’aquest article, i també decideix pel que fa a les funcions de batlle suplent o de reforç, en els termes que preveu l’apartat 9 d’aquest article. El president adopta les decisions en aquest àmbit després d’haver escoltat els altres batlles, amb la finalitat d’assegurar una durada suficient de les funcions confiades a aquests darrers i d’afavorir una distribució justa de les tasques.
+9. El Consell Superior de la Justícia pot crear places a la Batllia per suplir provisionalment les situacions d’incapacitat temporal o altres situacions administratives que es produeixin i que comportin reserva de plaça de batlles, i per reforçar les oficines judicials que ho requereixin. Les places de suplència i reforç tenen la mateixa consideració que les altres places de la Batllia.
+10. El Consell Superior de la Justícia pot nomenar batlles substituts per cobrir provisionalment places vacants, en els termes que estableix l’article 66 quater.
+11. En cas de necessitat, i per acord del Consell Superior de la Justícia, els batlles poden ser habilitats per actuar en règim de suplència al Tribunal de Corts i al Tribunal Superior de Justícia, quan no sigui possible per qualsevol causa la formació del tribunal amb els seus propis membres. En aquest cas, el president de la Batllia designa el batlle corresponent d’acord amb un torn rotatori preestablert, en què l’especialitat pot ser un criteri determinant.
 
 **Article 51**
 
-$86
+1. Quan es produeixi una vacant a la Batllia, el president del Tribunal de Batlles, amb el vistiplau del Consell Superior de la Justícia, ofereix i, si és el cas, assigna la plaça per aquest ordre: entre els batlles en servei actiu, inclosos els batlles que procedeixin d’una plaça en què s’ha reincorporat un batlle en situació d’excedència forçosa, d’acord amb l’article 68 quater, apartat 3; entre els batlles que provinguin de la situació de suspensió, si no tenien plaça assignada, d’acord amb l’article 68 quater, apartat 5; entre els batlles en situació d’excedència voluntària que hagin sol·licitat el reingrés, d’acord amb l’article 68 quater, apartat 4, i entre els membres del Ministeri Fiscal en servei actiu. En aquest darrer cas, el Consell Superior de la Justícia ha de fer efectius el cessament i el nomenament corresponents. En el cas de concurrència de sol·licituds de preferència igual, es resol l’adscripció segons criteris d’antiguitat i de formació especialitzada.
+2. Si hi ha places vacants que no es cobreixen pel procediment establert a l’apartat anterior, el president del Tribunal de Batlles ho comunica al Consell Superior de la Justícia perquè convoqui un concurs oposició per cobrir-les.
 
 #### Capítol tercer. El Tribunal de Corts
 
@@ -322,11 +414,20 @@ Els delictes majors i menors són jutjats en composició col·legiada i les cont
 
 **Article 53**
 
-$8a
+1. El Tribunal de Corts es compon d’un president i un conjunt de magistrats en un nombre no inferior a quatre. En cas d’absència o impossibilitat del president, el substitueix el magistrat amb més antiguitat en el càrrec, i així successivament, i si concorren dos magistrats amb la mateixa antiguitat, el substitueix el magistrat de més edat.
+2. En cas de necessitat, i per acord del Consell Superior de la Justícia, els batlles poden ser habilitats per actuar en règim de suplència al Tribunal de Corts segons l’article 50.10 d’aquesta Llei.
+3. El Consell Superior de la Justícia pot crear places al Tribunal de Corts per suplir provisionalment les situacions d’incapacitat temporal o altres situacions administratives que es produeixin i que comportin reserva de plaça de magistrats, i per reforçar el Tribunal si la seva càrrega ho requereix. Les places de suplència i reforç tenen la mateixa consideració que les altres places del Tribunal.
+4. En cas de necessitat, i per acord del Consell Superior de la Justícia, els magistrats del Tribunal de Corts poden ser habilitats per actuar en règim de suplència al Tribunal Superior de Justícia, quan no sigui possible per qualsevol causa la formació del Tribunal amb els seus propis membres. En aquest cas, el president del Tribunal de Corts designa el magistrat corresponent d’acord amb un torn preestablert.
 
 **Article 54**
 
-$8f
+1. El president del Tribunal de Corts és el responsable de la seva organització i del seu bon funcionament.
+2. Les deliberacions del Tribunal de Corts són secretes. Les sentències s’adopten per un sol magistrat o de manera col·legiada per majoria de vots.
+3. A proposta del president del Tribunal de Corts, el Consell Superior de la Justícia pot nomenar magistrats substituts, d’acord amb l’article 66
+quater
+, apartat 4, en cas d’incapacitat temporal o altres situacions administratives que comportin reserva de plaça o per permetre la formació del Tribunal en cas d’existència d’incompatibilitats, recusacions o abstencions d’algun dels membres.
+4. Quan es produeixi una vacant al Tribunal de Corts, el president del Tribunal, amb el vistiplau del Consell Superior de la Justícia, ofereix i, si és el cas, assigna la plaça per aquest ordre: entre els magistrats en servei actiu, inclosos els magistrats adscrits al Tribunal que provinguin d’una plaça en què s’ha reincorporat un magistrat en situació d’excedència forçosa, d’acord amb l’article 68 quater, apartat 3; entre els magistrats que provinguin de la situació de suspensió, si no tenien plaça assignada, d’acord amb l’article 68 quater, apartat 5, i entre els magistrats en situació d’excedència voluntària que hagin sol·licitat el reingrés, d’acord amb l’article 68 quater, apartat 4. En el cas de concurrència de sol·licituds de preferència igual, es resol l’adscripció segons criteris d’antiguitat i de formació especialitzada.
+Si hi ha places vacants que no es cobreixen pel procediment establert al paràgraf anterior, el president del Tribunal de Corts ho comunica al Consell Superior de la Justícia perquè convoqui un concurs per cobrir-les.
 
 **Article 55**
 
@@ -347,13 +448,24 @@ El Tribunal Superior d’Andorra es compon d’un president i d’un conjunt de 
 
 **Article 58**
 
-$95
+1. El Tribunal s’estructura, sota l’autoritat del seu president, en tres sales:
+- una sala competent per als processos civils.- una sala competent per als processos penals.- una sala competent per als processos administratius.
+2. Cadascuna de les sales, en reunir-se, està formada per tres magistrats, sense perjudici de la possibilitat que els magistrats estiguin adscrits a dos o tres sales. El president del Tribunal Superior és alhora president d’una de les tres sales. Els presidents de les altres dos sales són nomenats pel Consell Superior de la Justícia en els termes que estableix l’article 33.3.
+3. Les deliberacions del Tribunal Superior són secretes. Les sentències que són pronunciades en darrera instància són adoptades per majoria de vots.
+4. El Consell Superior de la Justícia pot crear places al Tribunal Superior per suplir provisionalment les situacions d’incapacitat temporal o altres situacions administratives que comportin reserva de plaça de magistrats, i per reforçar les sales que ho requereixin. Les places de suplència i reforç tenen la mateixa consideració que les altres places del Tribunal.
+5. A proposta del president del Tribunal Superior, el Consell Superior de la Justícia pot nomenar magistrats substituts, en els termes previstos a l’article 66
+quater
+, apartat 4, en cas d’incapacitat temporal o altres situacions administratives que comportin reserva de plaça o per permetre la formació del Tribunal en cas d’existència d’incompatibilitats, recusacions o abstencions d’algun dels membres.
+6. Quan es produeixi una vacant al Tribunal Superior, el president del Tribunal, amb el vistiplau del Consell Superior de la Justícia, ofereix i, si és el cas, assigna la plaça per aquest ordre: entre els magistrats en servei actiu, inclosos els magistrats adscrits al Tribunal que provinguin d’una plaça en què s’ha reincorporat un magistrat en situació d’excedència forçosa, d’acord amb l’article 68 quater, apartat 3; entre els magistrats que provinguin de la situació de suspensió, si no tenien plaça assignada, d’acord amb l’article 68 quater, apartat 5; i entre els magistrats en situació d’excedència voluntària que hagin sol·licitat el reingrés, d’acord amb l’article 68 quater, apartat 4. En el cas de concurrència de sol·licituds de preferència igual, es resol l’adscripció segons criteris d’antiguitat i de formació especialitzada.
+Si hi ha places vacants que no es cobreixen pel procediment establert a l’apartat anterior, el president del Tribunal Superior ho comunica al Consell Superior de la Justícia perquè convoqui un concurs per cobrir-les.
 
 #### Capítol cinquè. Els Secretaris judicials
 
 **Article 59**
 
-$9c
+1. Els secretaris judicials exerceixen la fe pública judicial i assisteixen els batlles i els tribunals en l’exercici de les funcions que tenen atribuïdes, d’acord amb aquesta Llei i les altres lleis aplicables. També exerceixen les altres funcions que els atribueixen les lleis aplicables.
+2. Durant la tramitació dels processos, les actuacions dels secretaris judicials es fan per mitjà d’actes, testimonis, diligències o certificacions de les actuacions judicials que no siguin secretes o reservades, i que es lliuren a les parts interessades. També poden dictar interlocutòries i acords en les matèries que són de la seva competència, d’acord amb les lleis aplicables.
+3. Els secretaris judicials dirigeixen l’execució dels actes processals de comunicació. Tenen la responsabilitat de custodiar, dipositar i fer arxivar la documentació, i de conservar els béns, objectes, instruments i proves dels expedients judicials. També vetllen perquè els diners i valors dipositats o consignats s’ingressin de forma immediata a l’Institut Nacional Andorrà de Finances.
 
 **Article 60**
 
@@ -388,7 +500,14 @@ Només es podran plantejar qüestions de competència positiva davant el Tribuna
 
 **Article 64 bis**
 
-$a0
+1. La carrera judicial comprèn les categories de batlle i magistrat. Els batlles són destinats a la Batllia, i els magistrats, al Tribunal de Corts o al Tribunal Superior.
+2. Dins de la categoria de batlle s’estableixen tres graus. L’ingrés a la categoria de batlle es produeix pel primer grau. La promoció al segon grau es produeix després d’haver completat com a mínim un mandat en la categoria i d’haver realitzat les activitats formatives que determini o reconegui el Consell Superior de la Justícia. La promoció al tercer grau es produeix després d’haver completat com a mínim dos mandats en el segon grau i d’haver realitzat les activitats formatives que determini o reconegui el Consell Superior de la Justícia.
+Per accedir als graus segon i tercer és necessària l’avaluació favorable de l’exercici de la funció per part del Consell Superior de la Justícia, de conformitat amb l’informe que han de presentar els batlles, i el compliment dels mòduls d’activitat judicial i la formació continuada que estableix l’article 68 ter. A aquest efecte, el Consell Superior de la Justícia pot sol·licitar el parer del president de la Batllia i de les persones que cregui convenient.
+3. Dins de la categoria de magistrat s’estableixen dos graus. L’ingrés a la categoria de magistrat es produeix pel primer grau. La promoció al grau superior es produeix després d’haver completat com a mínim un mandat en la categoria i d’haver realitzat les activitats formatives que determini o reconegui el Consell Superior de la Justícia.
+Per accedir al grau superior és necessària l’avaluació favorable de l’exercici de la funció per part del Consell Superior de la Justícia, de conformitat amb l’informe que han de presentar els magistrats, i el compliment dels mòduls d’activitat judicial i la formació continuada que preveu l’article 68 ter. A aquest efecte, el Consell Superior de la Justícia pot sol·licitar el parer del president del Tribunal corresponent i de les persones que cregui convenient.
+4. En tots els casos per accedir a la promoció dels graus segon, tercer o superior definida als apartats 2 i 3 anteriors, el Consell Superior de la Justícia ha de tenir en compte també les conclusions de la inspecció contingudes en l’informe previst a l’apartat 4 de l’article 35 bis efectuat pels inspectors en relació amb l’activitat judicial que han desenvolupat i els assumptes que resten pendents els batlles i magistrats.
+5. La promoció als graus segon, tercer o superior no és possible si el batlle o el magistrat ha estat sancionat disciplinàriament per la comissió de dos faltes lleus o una falta greu o molt greu, mentre les sancions imposades no hagin prescrit i no s’hagin cancel·lat d’ofici les anotacions, d’acord amb l’article 85.3.
+6. El canvi de grau no suposa necessàriament el canvi de destinació judicial.
 
 **Article 65**
 
@@ -397,19 +516,63 @@ Els Batlles i Magistrats, una vegada nomenats pel Consell Superior de la Justíc
 
 **Article 66**
 
-$a6
+1. L’accés a la carrera judicial es regeix pels principis d’aptitud tècnica, mèrits propis i igualtat entre tots els andorrans que reuneixen les condicions generals que estableix aquesta Llei. El procés de selecció respon als principis d’objectivitat, publicitat i transparència.
+2. L’accés a la carrera judicial està reservat als nacionals andorrans. No obstant això, en aplicació de la disposició transitòria segona de la Constitució, poden ser nomenats magistrats persones de nacionalitat espanyola i francesa quan el lloc no es pugui cobrir, en igualtat de mèrits, per nacionals andorrans.
+Els magistrats de nacionalitat no andorrana no poden representar més de la meitat del total de membres del Tribunal en què s’integrin. El Consell Superior de la Justícia pot acordar modificar aquesta proporció fins a dos terços de magistrats estrangers si no hi ha candidats de nacionalitat andorrana amb les condicions requerides o amb mèrits suficients.
+3. L’accés a la carrera judicial requereix:
+a) Estar en possessió com a mínim d’un títol de nivell 4 del Marc Andorrà de titulacions d’ensenyament superior en l’àmbit del dret, lliurat o reconegut pel Govern.b) Estar en plena possessió dels drets civils i polítics. En el cas dels nacionals no andorrans, aquesta possessió s’entén referida als seus estats d’origen.c) No estar condemnat per delictes dolosos, o imprudents vinculats a l’exercici de la funció pública o jurisdiccional, mentre no s’hagi produït la cancel·lació dels antecedents penals.d) No estar processat o inculpat per delictes dolosos, o imprudents vinculats a l’exercici de la funció pública o jurisdiccional, mentre no s’hagi produït l’absolució o bé no s’hagi sobresegut la causa.e) No estar incurs en les causes d’incompatibilitat que regula l’article 69.f) No tenir impediments físics o psíquics que incapacitin per a l’exercici de la funció jurisdiccional.
 
 **Article 66 bis**
 
-$a9
+1. Quan es produeixi una vacant o es creï una plaça de batlle, després d’aplicar el procediment establert a l’article 51.1, i sense perjudici del que disposa el segon paràgraf de l’apartat 5 d’aquest article, el Consell Superior de la Justícia convoca un concurs oposició per cobrir-la.
+2. En la fase de concurs es valoren els mèrits indicats en els currículums aportats per les persones admeses en el procés de selecció, segons el barem que fa públic el Consell Superior de la Justícia en les bases de la convocatòria. En aquest barem s’han de considerar la formació acadèmica, els cursos realitzats, l’experiència professional, les publicacions, les ponències, les conferències impartides, el coneixement d’idiomes i els altres mèrits, inclòs l’exercici com a secretari judicial, que consideri el Consell Superior de la Justícia, atorgant a cada mèrit una ponderació raonable.
+3. En la fase d’oposició, les persones participants efectuen com a mínim tres proves: una de caràcter teòric sobre el temari publicat prèviament pel Consell Superior de la Justícia en les bases de la convocatòria, que ha d’incloure l’estudi del principi d’igualtat de tracte i no-discriminació entre dones i homes, incloent-hi les mesures contra la violència de gènere envers les dones, i la seva aplicació transversal en la interpretació i l’aplicació de les normes jurídiques; una de caràcter pràctic, en la qual es proposa la resolució de dos casos, en els àmbits jurídics indicats a les bases de la convocatòria, i una tercera d’idiomes, que consisteix en la traducció de dos o més textos de contingut jurídic. Les dos primeres proves han de contenir, almenys, una exposició de caràcter oral. Les bases de la convocatòria indiquen la ponderació de cada prova en la valoració global del procés.
+4. El tribunal de selecció està integrat per cinc membres i és presidit pel president del Consell Superior de la Justícia o el membre en qui delegui aquesta funció. En formen part un altre membre del Consell Superior de la Justícia i tres vocals més nomenats pel Consell Superior de la Justícia entre magistrats del Tribunal de Corts i del Tribunal Superior, i catedràtics d’universitat i altres professionals del dret amb un mínim de quinze anys d’experiència. Quan se seleccioni un fiscal adjunt, també en pot formar part el fiscal general.
+5. El mateix tribunal valora les dues fases del procés de selecció i fa pública la llista de les persones que han obtingut la puntuació més alta en les proves, en nombre igual al de les places que s’han de cobrir.
+Les persones que hagin superat satisfactòriament les proves teòrica, pràctica i d’idiomes i que no hagin estat seleccionades poden ser declarades pel Consell Superior de la Justícia en situació de reserva, per al cas que les persones seleccionades renunciïn o quedin excloses abans de ser nomenades com a batlles, o per cobrir una vacant o una plaça de nova creació de batlle, en el període màxim de dos anys a partir de la declaració de reserva de plaça.
+6. El procés de selecció inclou una prova psicotècnica destinada a comprovar que no concorren impediments que incapacitin per a l’exercici de la funció jurisdiccional. Les bases de la convocatòria estableixen el moment en què té lloc aquesta prova, que té com a resultat una valoració d’apte o de no apte. En cas d’una valoració com a no apte, el candidat queda exclòs de la convocatòria. L’exclusió per aquesta causa no apareix de manera separada o específica en les llistes que es facin públiques sobre els resultats del procés de selecció.
+7. Finalitzat el procés de selecció, les persones que l’hagin superat han de seguir la formació complementària i específica que determina el Consell Superior de la Justícia, en els termes que s’hagi indicat en les bases de la convocatòria, durant un període mínim d’un any, que es pot reduir a sis mesos si la persona ha exercit com a secretari judicial o advocat durant almenys tres anys. Aquest període inclou pràctiques tutelades en òrgans judicials. Durant aquest període, els candidats tenen la consideració de batlles en pràctiques i reben una remuneració, però no formen part de la carrera judicial.
+8. El Consell Superior de la Justícia ha d’emetre un informe de valoració dels batlles en pràctiques al final del període de formació. Si l’informe és positiu, el Consell nomena els batlles en pràctiques com a batlles i els destina a una plaça a la Batllia. En cas d’informe negatiu la persona afectada queda exclosa i perd la seva condició de batlle en pràctiques.
 
 **Article 66 quater**
 
-$af
+1. En cas de necessitat urgent de cobrir una plaça de batlle, quan no es pugui cobrir ordinàriament per un batlle integrat en la carrera judicial, el Consell Superior de la Justícia pot nomenar de forma motivada un batlle substitut a aquest efecte, fins que es pugui proveir la plaça o fins al reintegrament del seu titular. Tanmateix, aquest nomenament ha de ser per un període mínim d’un any, ampliable per períodes successius de sis mesos, i no pot superar un període total de sis anys.
+2. El Consell Superior de la Justícia nomena de forma rotatòria els batlles substituts entre les persones inscrites en una llista establerta anyalment a aquest efecte. No obstant això, la inscripció dels batlles substituts en aquesta llista es fa per un període de sis anys, renovable successivament per períodes iguals.
+Poden formar part d’aquesta llista els magistrats emèrits, els antics magistrats, els antics batlles i les persones que hagin superat el procés de selecció de batlles però que no hagin obtingut plaça, en els termes que estableix l’apartat 5.
+El Consell Superior de la Justícia inscriu a la llista als magistrats emèrits en primer lloc; als antics magistrats en segon lloc; als antics batlles en tercer lloc, i a les persones que hagin superat el procés de selecció de batlles però no hagin obtingut plaça en darrer lloc. Dins dels tres primers grups, inscriu i ordena cadascun dels magistrats emèrits, dels antics magistrats i dels antics batlles, respectivament, segons el major temps durant el qual han format part de la carrera judicial; subsidiàriament i en cas d’igualtat, segons el major temps que consten inscrits a la llista, i més subsidiàriament i en cas d’igualtat, segons tinguin més edat. Dins del quart grup, inscriu i ordena cadascuna de les persones concernides segons la puntuació més alta obtinguda en les proves; subsidiàriament i en cas d’igualtat, segons el major temps transcorregut des de la superació del procés de selecció, i més subsidiàriament i en cas d’igualtat, segons tinguin més edat.
+3. En cas de necessitat urgent de cobrir una plaça de magistrat, quan no es pugui cobrir ordinàriament per un magistrat integrat en la carrera judicial, el Consell Superior de la Justícia pot nomenar de forma motivada un magistrat substitut a aquest efecte, fins que es pugui proveir la plaça o fins al reintegrament del seu titular. Tanmateix, aquest nomenament ha de ser per un període mínim d’un any, ampliable per períodes successius de sis mesos, i no pot superar un període total de sis anys.
+4. El Consell Superior de la Justícia nomena de forma rotatòria els magistrats substituts entre les persones inscrites en una llista establerta anyalment a aquest efecte. No obstant això, la inscripció dels magistrats substituts en aquesta llista es fa per un període de sis anys, renovable successivament per períodes iguals.
+Poden formar part d’aquesta llista els magistrats emèrits i els antics magistrats, en els termes que estableix l’apartat 5.
+Quan no es disposi de magistrats substituts procedents de les categories assenyalades en el paràgraf anterior, o el seu nombre no sigui suficient per cobrir les necessitats del servei, el Consell Superior de la Justícia pot convocar un concurs de mèrits per inscriure en la llista corresponent magistrats procedents dels estats veïns, en situació de servei actiu o jubilats, que no hagin complert l’edat de setanta-cinc anys i que acreditin un mínim de quinze anys d’antiguitat en la carrera d’origen. La selecció d’aquests candidats s’efectua amb la valoració dels mèrits que acreditin i amb una entrevista, en els termes previstos en l’article 66
+ter
+, apartat 4, en allò que els sigui aplicable.
+El Consell Superior de la Justícia inscriu a la llista els magistrats emèrits en primer lloc, els antics magistrats en segon lloc, i els magistrats a què es refereix el paràgraf anterior en tercer lloc. Dins els dos primers grups, inscriu i ordena cadascun dels magistrats emèrits i dels antics magistrats, respectivament, segons el període més gran de temps durant el qual han format part de la carrera judicial; subsidiàriament i en cas d’igualtat, segons el període més gran de temps que consten inscrits a la llista, i més subsidiàriament i en cas d’igualtat, segons l’edat més elevada. Els integrants del tercer grup s’ordenen a continuació segons els majors mèrits acreditats en el concurs; subsidiàriament i en cas d’igualtat, segons el període més gran temps de serveis que acreditin en la seva carrera d’origen; més subsidiàriament i en cas d’igualtat, segons el període més gran de temps que conten inscrits a la llista, i en darrer terme i en cas d’igualtat, segons l’edat més elevada.
+El Consell Superior de la Justícia ha de garantir que les ràtios de magistrats nacionals s’adeqüin a les establertes a l’article 66.2.
+5. Sense perjudici que les llistes s’hagin d’establir anyalment, la inscripció en aquestes llistes de les persones assenyalades als apartats 2 i 4, pels períodes renovables que s’hi assenyalen, té lloc si així ho sol·liciten al Consell Superior de la Justícia i compleixen les condicions generals establertes a les lletres a) a d) i f) de l’article 66.3, en allò que els siguin aplicables. En cas contrari, el Consell Superior de la Justícia dicta un acord en virtut del qual deixa sense efecte la inscripció de les persones que no compleixen les condicions requerides a les llistes que corresponguin dels anys següents. Contra aquest acord es pot presentar recurs en els termes que estableix l’article 25.
+Les sol·licituds d’inscripció, de renovació de la inscripció i de baixa de les llistes s’adrecen al Consell Superior de la Justícia, amb una antelació mínima de tres mesos abans de l’inici de l’any en què hagin de tenir vigència les llistes anyals següents. En tots els casos, el Consell Superior de la Justícia dicta un acord que és susceptible de recurs, en els termes que estableix l’article 25.
+6. Si una persona és nomenada com a batlle o magistrat substitut quan per torn li correspon, tant si ha cessat en l’exercici de les funcions jurisdiccionals com si no ho ha fet, els nomenaments posteriors recauen en les persones que constin inscrites en les llistes anyals corresponents i que siguin les següents en el torn.
+7. Si una persona renuncia a exercir les funcions jurisdiccionals com a batlle o magistrat substitut quan per torn li correspongui, el Consell Superior de la Justícia dicta un acord en virtut del qual deixa sense efecte la inscripció d’aquesta persona a les llistes que corresponguin dels anys següents, sense perjudici que pugui tornar a sol·licitar la inscripció d’acord amb el que estableix l’apartat 5.
+8. Amb anterioritat a la data en què es publiquin les llistes de l’any en què una persona que en formava part hagi de complir setanta-cinc anys, el Consell Superior de la Justícia dicta un acord en virtut del qual deixa sense efecte la inscripció d’aquesta persona a les llistes que corresponguin dels anys següents.
+9. El Consell Superior de la Justícia actualitza cada any les llistes de batlles i magistrats substituts, amb les inscripcions i les baixes que s’hagin produït durant l’any anterior, i les publica al Butlletí Oficial del Principat d’Andorra, ordenades segons els criteris que estableixen els apartats 2 i 4, com a mínim un mes abans de l’inici de l’any en què hagin de tenir vigència.
+10. Sempre que compleixin les condicions generals establertes a l’article 66.3, els magistrats jubilats poden sol·licitar al Consell Superior de la Justícia el seu nomenament com a magistrats emèrits fins que compleixin setanta-cinc anys. Els magistrats emèrits són cridats amb preferència de forma rotatòria per completar la composició dels tribunals, quan escaigui, i per cobrir en règim de substitució les vacants o les absències que es produeixin.
+L’ordre de crida es regeix pels criteris que estableix l’apartat 4, d’acord amb una llista establerta anyalment a aquest efecte que s’actualitza i publica en els termes que disposa l’apartat 9.
+11. L’estatus dels batlles i els magistrats substituts i dels magistrats emèrits és igual, durant l’exercici de les seves funcions jurisdiccionals, al dels batlles i els magistrats, i són remunerats pel període que exerceixen la funció jurisdiccional. No obstant això, els batlles i els magistrats substituts i els magistrats emèrits no pertanyen a la carrera judicial i exerceixen la funció jurisdiccional amb inamobilitat temporal.
 
 **Article 66 ter**
 
-$b4
+1. L’ingrés a la categoria de magistrat es produeix mitjançant un concurs de promoció entre els batlles i fiscals o un concurs obert entre juristes de competència tècnica reconeguda.
+2. Quan es produeixi una vacant o es creï una plaça de magistrat, després d’aplicar el procediment establert als articles 54.4 o 58.6, el Consell Superior de la Justícia convoca un concurs per cobrir-la. De cada quatre places, tres són cobertes mitjançant un concurs de promoció entre batlles i fiscals i una mitjançant un concurs obert entre juristes.
+En el cas que en un dels torns quedi deserta alguna plaça, aquesta es convoca per l’altre torn. La plaça següent es convoca pel torn que correspongui segons la proporció establerta en el paràgraf anterior.
+3. El Consell Superior de la Justícia actua com a comissió de selecció i pot sol·licitar l’assessorament tècnic extern que consideri necessari.
+4. Poden participar en el concurs de promoció a magistrat els batlles i els membres del Ministeri Fiscal amb un mínim de dos mandats acomplerts.
+El Consell Superior de la Justícia valora els mèrits dels candidats segons el barem publicat a la convocatòria, que inclou la formació acadèmica, l’experiència en l’exercici de càrrecs jurisdiccionals, l’experiència professional externa, l’assistència a cursos i programes de formació judicial, l’activitat docent, les publicacions, les ponències i les conferències en l’àmbit jurídic, el coneixement d’idiomes i els altres mèrits que el Consell consideri convenients, atorgant a cada mèrit una ponderació raonable. A aquest efecte, els candidats presenten, juntament amb el seu currículum, un informe sobre l’activitat judicial o fiscal desenvolupada fins al moment, d’acord amb l’estructura que determini el Consell.
+El Consell Superior de la Justícia manté una entrevista amb els candidats. Les bases de la convocatòria indiquen les qüestions que s’hi tractaran i la seva ponderació en la valoració global dels candidats.
+El Consell Superior de la Justícia pot declarar desert el concurs. En aquest cas, es procedeix d’acord amb el paràgraf segon de l’apartat 2.
+5. Poden participar en el concurs obert de juristes els secretaris judicials, els advocats i els altres titulats en l’àmbit del dret que hagin exercit de forma efectiva professions de caràcter jurídic almenys durant quinze anys, si la plaça pertany al Tribunal de Corts, o vint anys si la plaça pertany al Tribunal Superior.
+El Consell Superior de la Justícia valora els mèrits dels candidats segons el barem publicat a la convocatòria, que inclou el coneixement del dret andorrà, la formació acadèmica, l’experiència professional, l’activitat docent, les publicacions, les ponències, les conferències en l’àmbit jurídic, el coneixement d’idiomes i els altres mèrits que el Consell consideri convenients, atorgant a cada mèrit una ponderació raonable.
+Les bases del concurs estableixen la realització d’una entrevista amb els candidats, i indiquen les qüestions que s’hi tractaran i la seva ponderació en la valoració global dels candidats.
+En cas d’igualtat de mèrits entre els candidats, tenen preferència els de nacionalitat andorrana.
+El Consell Superior de la Justícia pot declarar desert el concurs. En aquest cas, es procedeix d’acord amb el paràgraf segon de l’apartat 2.
 
 #### Capítol segon. Drets i obligacions
 
@@ -419,15 +582,41 @@ Durant el seu mandat, els Batlles i Magistrats no podran ésser amonestats, susp
 
 **Article 68**
 
-$b6
+1. Els batlles i els magistrats cessen en el càrrec per arribar al final del període pel qual han estat nomenats; per la seva renúncia, que ha de ser comunicada amb sis mesos d’antelació com a mínim; per sanció disciplinària de separació del càrrec; per imposició de pena, principal o complementària, d’inhabilitació per a l’exercici de càrrec públic; per incórrer en alguna causa d’incompatibilitat o d’incapacitat, i per jubilació.
+2. La jubilació per edat opera d’ofici quan els batlles i els magistrats arriben a l’edat d’accés ordinari a la pensió de jubilació establerta a la Llei vigent en matèria de seguretat social. Això no obstant, si en complir aquesta edat el batlle o el magistrat encara no ha finalitzat el mandat, el Consell Superior de la Justícia acorda, si ho sol·licita el batlle o el magistrat, que continuï en el càrrec fins al final del mandat, i com a màxim fins que arribi a l’edat de setanta-cinc anys.
+Els batlles i magistrats que hagin arribat a l’edat de jubilació i hagin esgotat el mandat poden sol·licitar la renovació del seu mandat, que no es pot allargar més enllà dels setanta-cinc anys.
+3. El Consell Superior de la Justícia acorda la renovació del mandat dels batlles i els magistrats, llevat que la persona interessada presenti la renúncia, la qual cosa ha de comunicar amb sis mesos d’antelació com a mínim, o que hagi estat condemnada penalment per la comissió d’un delicte dolós, sense perjudici de les responsabilitats que se’n puguin derivar.
+El Consell Superior de la Justícia pot acordar la no renovació del mandat dels batlles i els magistrats si la persona interessada ha estat sancionada disciplinàriament per la comissió de dos faltes greus o una falta molt greu sense separació del càrrec, mentre les sancions imposades no hagin prescrit i no s’hagin cancel·lat d’ofici les anotacions d’acord amb l’article 85.3, sense perjudici de les responsabilitats que se’n puguin derivar.
+L’acord de no renovar el mandat es pren mitjançant resolució motivada, amb audiència prèvia de la persona interessada. Contra la resolució del Consell Superior de la Justícia es pot interposar recurs davant el Ple del Tribunal Superior.
 
 **Article 68 bis**
 
-$bd
+Els batlles i els magistrats tenen dret a:
+a) Ser defensats en cas d’atac o amenaça a la seva independència.b) La formació inicial i permanent.c) Disposar de condicions de treball dignes per al compliment de les seves funcions.d) Associar-se lliurement per defensar els seus interessos professionals, en entitats desvinculades de partits polítics i d’organitzacions econòmiques o socioprofessionals.e) Percebre una remuneració suficient, d’acord amb la seva responsabilitat, i de conformitat amb el que disposi la llei corresponent.f) Gaudir de vint-i-cinc dies hàbils de vacances retribuïdes cada any, o de la part proporcional corresponent al temps treballat, quan sigui inferior.g) Disposar d’una cobertura de responsabilitat civil professional, sempre que aquesta responsabilitat no derivi d’actuacions per les quals hagin estat sancionats penalment o disciplinàriament.h) Ser defensats en processos oberts arran d’actuacions realitzades en l’exercici de les seves funcions i davant d’amenaces i atacs a la seva persona o el seu patrimoni amb motiu del desenvolupament de les seves funcions.
 
 **Article 68 quater**
 
-$bf
+1. Els batlles i els magistrats estan en una de les situacions següents:
+a) Servei actiu.b) Excedència forçosa.c) Excedència voluntària.d) Suspensió de funcions.e) Jubilació.
+2. Els batlles i els magistrats estan en situació de servei actiu quan estan en possessió d’una plaça judicial, incloses les de suplència i reforç, o bé quan han estat adscrits a una plaça en règim de substitució.
+3. Els batlles i els magistrats estan en situació d’excedència forçosa quan hagin estat nomenats per algun dels càrrecs següents:
+a) Magistrat del Tribunal Constitucional.b) Jutge o magistrat del Tribunal Europeu de Drets Humans o de qualsevol altre organisme judicial internacional.c) Fiscal General.d) Raonador del Ciutadà.e) Cap de la Unitat d’Intel·ligència Financera.f) Cap de l’Agència Andorrana de Protecció de Dades.g) Membres del Consell Superior de la Justícia.
+El Consell Superior de la Justícia pot declarar en situació d’excedència forçosa als batlles i magistrats que siguin nomenats per a altres càrrecs relacionats amb l’Administració de Justícia o que puguin contribuir a millorar-la, atenent les necessitats del servei.
+Una vegada cessats en el càrrec que va originar l’excedència forçosa, o al final de l’exercici d’aquest càrrec, els batlles o magistrats declarats en aquesta situació tenen dret a reincorporar-se en el termini màxim de quinze dies a la plaça que ocupaven en ser nomenats per al càrrec esmentat, sempre que ho sol·licitin amb anterioritat al seu cessament o a la finalització del càrrec i, en qualsevol cas, en el termini màxim de dos mesos a partir del cessament o la finalització referits. En cas que no sol·licitin la reincorporació en aquest termini, causen baixa en la carrera judicial. La reincorporació es produeix pel temps que resta del seu mandat judicial amb el manteniment dels drets que els corresponien.
+El Batlle o el magistrat que, si escau, ocupava la plaça, si no ho feia en règim de substitució, queda adscrit a la Batllia o al Tribunal corresponent, i el president li assigna les funcions que ha de realitzar. Pot optar a una plaça quan es produeixi una vacant en els termes que estableixen els articles 51.1, 54.4 o 58.6, segons escaigui.
+Els batlles i els magistrats en situació d’excedència forçosa no perceben una retribució com a membres de la carrera judicial, però el temps passat en aquesta situació computa a efectes d’antiguitat en la carrera judicial.
+4. Els batlles i els magistrats poden ser declarats en situació d’excedència voluntària pel Consell Superior de la Justícia per raó d’ampliació d’estudis o de recerca científica, de naixement d’un fill, d’adopció d’un infant o d’acolliment familiar d’un infant, o bé per raó de tenir cura d’un familiar, en els termes que estableixi la normativa del Consell Superior de la Justícia.
+Els batlles i els magistrats en situació d’excedència voluntària no perceben retribució com a membres de la carrera judicial.
+Els batlles i els magistrats en situació d’excedència voluntària poden demanar el reingrés a la carrera judicial abans d’acabar el període de l’excedència voluntària que els ha estat atorgada i, en qualsevol cas, en el termini màxim de quinze dies a comptar de la finalització. En cas que no sol·licitin la reincorporació en aquest termini, causen baixa en la carrera judicial. La reincorporació es produeix pel temps que resta del seu mandat judicial amb el manteniment dels drets que els corresponien.
+Si sol·liciten el reingrés, han d’optar a una plaça vacant en els termes que estableixen els articles 51.1, 54.4 o 58.6, segons escaigui. Fins que l’obtinguin, queden adscrits a la Batllia o al Tribunal que correspongui i el president els assigna les funcions que han de realitzar.
+5. Els batlles i els magistrats es troben en situació de suspensió quan el Consell Superior de la Justícia els hagi imposat una sanció o bé quan els hagin imposat una pena que comporti suspensió de funcions, pel temps que determini la sanció o la pena.
+Durant la situació de suspensió, els batlles i els magistrats no perceben cap retribució com a membres de la carrera judicial i no exerceixen cap funció dins de l’Administració de Justícia.
+El Batlle o el magistrat suspès pot sol·licitar ser reintegrat a l’òrgan judicial on es trobava adscrit abans del final del període de suspensió i, en qualsevol cas, en el termini màxim de quinze dies a comptar de la finalització referida. Si no demana el reintegrament en aquest termini, causa baixa en la carrera judicial.
+Si no s’ha adscrit a un altre batlle o magistrat, el president de l’òrgan judicial adscriu el batlle o el magistrat sancionat a la plaça que ocupava o bé, consultats els membres de l’òrgan, pot resoldre assignar-li una plaça diferent de la que ocupava en el moment que va ser sancionat. Si la plaça s’ha adscrit a un altre batlle o magistrat, queda adscrit a la Batllia o al Tribunal que correspongui i el president li assigna les funcions que ha de realitzar. El batlle o el magistrat que es troba en aquesta situació ha d’optar a totes les places vacants que es produeixin fins a ser adscrit a una plaça, en els termes que estableixen els articles 51.1, 54.4 o 58.6, segons escaigui.
+6. Els batlles i els magistrats es troben en situació de jubilació voluntària o forçosa quan ho ha acordat així el Consell Superior de la Justícia per haver complert els requisits establerts a la llei o per haver assolit l’edat màxima que fixa l’article 68.
+7. Els batlles i els magistrats tenen dret a sol·licitar i, si escau, obtenir permisos retribuïts, proporcionalment retribuïts i no retribuïts, que atorga el Consell Superior de la Justícia atenent les necessitats del servei. El Consell Superior de la Justícia ha de regular els supòsits que donen lloc a aquests permisos i els seus efectes retributius, adaptant a la carrera judicial la normativa de la funció pública en aquesta matèria.
+En especial, els batlles i els magistrats tenen dret a sol·licitar i obtenir un permís no retribuït d’un any per cada dos mandats acomplerts.
+8. El temps transcorregut en situació d’excedència voluntària i en permisos no interromp la duració del mandat judicial. Durant aquests períodes, els batlles i els magistrats estan plenament sotmesos al règim d’incompatibilitats establert en aquesta Llei.
 
 **Article 68 ter**
 
@@ -439,7 +628,14 @@ Aquests mòduls d’activitat judicial es faran públics a l’inici de cada any
 
 **Article 69**
 
-$c3
+1. El càrrec de batlle i de magistrat és incompatible amb qualsevol altre càrrec públic, tant electiu com de designació, amb qualsevol activitat mercantil, industrial o professional, amb l’exercici de l’advocacia i tota altra forma d’assessorament jurídic i, en general, amb càrrecs o funcions de qualsevol tipus en societats o empreses de negoci, tant públiques com privades.
+Els Batlles i Magistrats han de fer a l’inici i al final del seu mandat una declaració de patrimoni, d’acord amb el que estableix la legislació vigent en matèria de transparència.
+2. Queden exceptuades les activitats relatives a:
+a) La gestió del patrimoni propi.b) La participació en congressos, conferències, seminaris o cursos.c) La producció i la creació literària, artística, científica i tècnica.d) La docència i la investigació acadèmiques.e) La participació no remunerada en associacions o fundacions sense ànim de lucre.
+Les activitats docents i les altres activitats que comportin una dedicació continuada durant més de sis mesos requereixen l’autorització del Consell Superior de la Justícia.
+3. Les incompatibilitats establertes en els apartats anteriors s’estenen a Andorra i a qualsevol territori estranger.
+4. Els magistrats que no tinguin la nacionalitat andorrana han de comunicar al Consell Superior de la Justícia, prèviament a la seva presa de possessió i sempre que es produeixi una circumstància sobrevinguda, els càrrecs públics que exerceixin i les seves activitats professionals, laborals, mercantils i empresarials a l’estranger. El Consell pot declarar la compatibilitat d’aquestes activitats, sempre que consideri que no interfereixen en les seves funcions jurisdiccionals a Andorra o no les condicionen. L’exercici d’aquesta funció no és en cap cas compatible amb l’exercici de l’advocacia i amb l’assessorament jurídic com a activitat professional habitual.
+Si el Consell no declara la compatibilitat, la persona afectada no pot prendre possessió del càrrec de magistrat o incorre en causa de cessament.
 
 **Article 69 bis**
 
@@ -467,11 +663,20 @@ Els Batlles i Magistrats han de mantenir una actitud d’obligada reserva en la 
 
 **Article 73**
 
-$c8
+Els batlles i els magistrats s’han d’abstenir d’exercir les funcions que tenen encomanades i, si no ho fan, poden ser recusats, en els supòsits següents:
+a) Tenir una relació de matrimoni o una situació de convivència anàloga, o un parentiu en línia recta, o en línia col·lateral per consanguinitat o adopció fins al quart grau inclòs o per afinitat fins al segon grau inclòs, amb qualsevol de les parts del procés de què es tracti, els seus advocats, els seus procuradors o els representants del Ministeri Fiscal.b) Ser qualsevol de les parts del procés de què es tracti una societat mercantil en què el batlle o el magistrat, el seu cònjuge, la persona amb qui mantingui una situació de convivència anàloga o un parent en línia recta, o en línia col·lateral per consanguinitat o adopció fins al quart grau inclòs o per afinitat fins al segon grau inclòs, tingui una participació superior al 20% del capital social, tingui la condició d’administrador únic, conjunt, mancomunat o solidari, o participi en l’òrgan d’administració i en disposi de més del 20% dels drets de vot.c) Ser o haver estat tutor, advocat o procurador de qualsevol de les parts del procés de què es tracti, els seus advocats o els seus procuradors, en els darrers tres anys.d) Tenir o haver tingut una relació de dependència o jeràrquica, societària o d’interessos amb qualsevol de les parts del procés de què es tracti, els seus advocats o els seus procuradors, en els darrers tres anys.e) Tenir processos pendents amb qualsevol de les parts del procés de què es tracti, els seus advocats o els seus procuradors.f) Ser o haver estat denunciat, acusat o demandat per qualsevol de les parts del procés de què es tracti, els seus advocats o els seus procuradors, llevat que la denúncia, l’acusació o la demanda no hagi estat admesa o hagi estat rebutjada per manca manifesta de fonamentació.g) Tenir un interès directe o indirecte en el procés de què es tracti o en un altre procés semblant.h) Tenir una amistat íntima o una enemistat manifesta amb qualsevol de les parts del procés de què es tracti, els seus advocats o els seus procuradors.i) Haver instruït o resolt el procés de què es tracti amb anterioritat en un tribunal o una secció diferents, excepte quan només s’hagi conegut sobre qüestions incidentals, mesures cautelars o garanties processals que no prejutgin el pronunciament de fons plantejat en el litigi.
 
 **Article 74**
 
-$cf
+1. En els processos civils, administratius i de menors, poden recusar els batlles i magistrats, les parts, els seus advocats i, si escau, el Ministeri Fiscal.
+2. En els processos penals, poden recusar els batlles i els magistrats el Ministeri Fiscal, l’encausat, el processat, l’actor civil o l’acusador particular, el responsable civil i els seus advocats.
+3. La recusació es pot plantejar des del moment en què el coneixement del procés s’atribueix al batlle a qui correspon per torn o des del moment en què es designa el batlle o el magistrat ponent del tribunal corresponent.
+4. No obstant el que estableix l’apartat anterior, la recusació s’ha de plantejar tan aviat com es tingui coneixement de la causa en què es fonamenta, i en cas contrari no s’admet a tràmit. Contra aquesta decisió no es pot interposar cap recurs, sense perjudici que la recusació es pugui plantejar per mitjà dels altres recursos i remeis jurisdiccionals a l’abast de la part interessada.
+5. Formulada la recusació, el batlle o magistrat en dona trasllat a les altres parts del procés perquè es manifestin al respecte en el termini de tres dies hàbils. Transcorregut el termini, hagi o no informat les parts, el batlle o magistrat emet un informe en què accepta o refusa la recusació, i tramet les actuacions al president del tribunal del qual forma part a fi que resolgui l’incident en el termini de cinc dies hàbils.
+En cas que sigui recusat el president d’un dels tribunals, ha de resoldre l’incident el batlle o el magistrat adscrit al tribunal de què es tracti amb més antiguitat en el càrrec.
+6. Contra la decisió de no acceptar la recusació plantejada es pot interposar un recurs al Tribunal Superior en el termini de cinc dies hàbils. Rebudes les actuacions, s’ha de donar trasllat del recurs a les altres parts perquè en el termini de cinc dies hàbils es manifestin. Transcorregut el termini, hagi o no informat les parts, la sala designada pel president resol el recurs en el termini de deu dies hàbils.
+En cas que no s’hagi acceptat la recusació d’un magistrat del Tribunal Superior, el recurs el resol una secció de tres membres del mateix Tribunal, de la qual no pot formar part el magistrat recusat.
+7. Durant la tramitació del procediment de recusació, el batlle o el magistrat recusat no han de conèixer ni resoldre sobre el procés, sense perjudici que puguin ser substituïts d’acord amb el que estableixen les lleis aplicables.
 
 **Article 75**
 
@@ -491,17 +696,23 @@ En mèrits de la seva immunitat judicial, els Batlles i Magistrats només podran
 
 **Article 78**
 
-$d5
+1. El judici de responsabilitat penal contra un batlle o magistrat s’incoa per providència dictada pel Tribunal de Corts, en virtut de denúncia del Ministeri Fiscal o querella del perjudicat o l’ofès.
+2. La detenció i el processament són competència del Tribunal de Corts en composició col·legiada, i la instrucció de les diligències prèvies o del sumari correspon a un magistrat del Tribunal de Corts.
+3. La competència per jutjar penalment un batlle o magistrat la té, en primera instància, una sala composta per tres magistrats del Tribunal Superior de Justícia designada pel seu president en funció del torn preestablert i en grau d’apel·lació, en segona instància, el ple del Tribunal Superior de Justícia, exclosos els magistrats que han dictat la sentència impugnada.
+4. Acordat el processament d’un batlle o magistrat per un presumpte delicte dolós o imprudent vinculat a l’exercici de les seves funcions, es procedeix automàticament a la suspensió provisional de les funcions jurisdiccionals que exerceix, per acord del Consell Superior de la Justícia.
 
 #### Capítol sisè. Règim disciplinari
 
 **Article 79**
 
-$d9
+1. Els batlles i els magistrats estan subjectes a la responsabilitat disciplinària derivada dels actes comesos en l’exercici del càrrec. La responsabilitat disciplinària és independent de la responsabilitat civil i penal que pugui correspondre als batlles i magistrats pels mateixos fets.
+2. Si en el decurs de la tramitació d’un expedient disciplinari es manifesten indicis de conductes que poden constituir una infracció penal, el Consell Superior de la Justícia ho ha de posar en coneixement de l’òrgan jurisdiccional competent i suspendre, tot seguit, la tramitació de l’expedient esmentat, la qual cosa interromp el còmput dels terminis de prescripció o caducitat, fins que recaigui una resolució ferma en l’àmbit penal.
+D’altra banda, quan s’estigui instruint o jutjant un procés penal pels mateixos fets que han originat o han de comportar la incoació d’un expedient disciplinari, o per altres fets que hi estiguin íntimament vinculats, s’ha d’iniciar la tramitació de l’expedient disciplinari, si no s’ha iniciat amb anterioritat, i se’n suspèn tot seguit la tramitació, la qual cosa interromp el còmput dels terminis de prescripció o caducitat, fins que recaigui una resolució ferma en l’àmbit penal. En qualsevol cas, la declaració de fets provats que pugui fer el tribunal penal és vinculant per al Consell Superior de la Justícia, sense perjudici de la qualificació jurídica diferent que es pugui fer d’aquests fets.
 
 **Article 79 bis**
 
-$dc
+Els batlles i els magistrats que són objecte d’un procediment disciplinari tenen els drets següents:
+a) Dret a ser informats dels fets que se’ls imputen, de les faltes que aquests fets puguin constituir, de les sancions que els puguin ser imposades, de la identitat de la persona designada com a instructor i de l’òrgan competent per imposar la sanció.b) Dret d’accés a l’expedient disciplinari, de conèixer l’estat de la tramitació i d’obtenir còpies dels documents, en els termes del Codi de l’Administració.c) Dret a formular al·legacions, a proposar les proves que considerin oportunes i a utilitzar tots els mitjans de defensa admesos per l’ordenament jurídic que siguin procedents.d) Dret a la presumpció d’innocència i a no declarar en contra de si mateixos.e) Dret a ser assistits per un advocat durant la tramitació de l’expedient, de lliure elecció per part del batlle o magistrat expedientat i a càrrec seu.f) Dret a obtenir una resolució motivada.g) Qualsevol altre dret que reconeguin la Constitució o les lleis.
 
 **Article 80**
 
@@ -509,31 +720,49 @@ La responsabilitat disciplinària dels Batlles i Magistrats l’exigirà el Cons
 
 **Article 81**
 
-$de
+1. El procediment disciplinari contra un batlle o un magistrat l’inicia el Consell Superior de la Justícia, com a òrgan disciplinari, mitjançant la incoació d’un expedient disciplinari que es tramita amb respecte dels principis generals del règim sancionador. El Consell Superior de la Justícia designa un instructor entre els seus membres.
+2. L’instructor i/o algun dels altres membres del Consell Superior de la Justícia han d’abstenir-se en els supòsits en què ho estableixi la normativa aplicable i, en cas que no ho facin, poden ser recusats:
+a) Si concorre algun motiu d’incompatibilitat i, en concret, algun dels supòsits previstos al Codi de l’Administració, l’instructor i/o algun dels altres membres del Consell Superior de la Justícia ho han de comunicar al Consell Superior de la Justícia, en el termini màxim de cinc dies hàbils a comptar de l’endemà del dia en què se’ls l’assabenti de la designació de l’instructor. Dins dels set dies naturals següents, el Consell Superior de la Justícia, amb l’abstenció de l’instructor de l’expedient disciplinari i/o algun dels altres membres del Consell Superior de la Justícia, resol de forma motivada, sense aplicar l’article 25.4 d’aquesta llei. Aquesta resolució no és susceptible de recurs.b) En cas que es recusi l’instructor i/o algun dels altres membres del Consell Superior de la Justícia, també resol de forma motivada el Consell Superior de la Justícia, sense aplicar l’article 25.4 d’aquesta llei, amb l’abstenció de l’instructor de l’expedient disciplinari i/o algun dels altres membres del Consell Superior de la Justícia, en el mateix termini assenyalat a la lletra a anterior. Aquesta resolució no és susceptible de recurs, sense perjudici que es pugui al·legar aquest extrem en virtut del recurs que es formuli contra la resolució disciplinària.
+3. La resolució mitjançant la qual s’incoa l’expedient disciplinari, i es designa l’instructor i en el seu cas acorda l’abstenció d’algun membre del Consell Superior de la Justícia, s’ha de notificar per escrit al batlle o al magistrat objecte de l’expedient i al Ministeri Fiscal.
 
 **Article 81 bis**
 
-$e6
+1. L’instructor designat pel Consell Superior de la Justícia ha d’instruir l’expedient i formular, en el termini màxim de trenta dies hàbils des del dia en què es notifiqui al batlle o al magistrat expedientat la resolució assenyalada a l’article 81.3, el plec de càrrecs corresponent, que ha d’incloure els fets imputats, amb expressió de les faltes presumptament comeses i de les sancions que siguin aplicables.
+2. El plec de càrrecs s’ha de notificar per escrit al batlle o al magistrat expedientat i al Ministeri Fiscal, els quals disposen d’un termini de deu dies hàbils per fer al·legacions i sol·licitar, si escau, la pràctica de les proves que entenguin necessàries per a la seva defensa.
+3. Contestat el plec de càrrecs o transcorregut el termini sense fer-ho, l’instructor pot practicar les proves sol·licitades que consideri oportunes i ha de denegar motivadament les que consideri que no ho són, i també pot practicar d’ofici les altres proves que consideri necessàries i siguin admissibles en dret, en el termini de trenta dies hàbils. Posteriorment, ha de donar vista de l’expedient disciplinari al batlle o al magistrat expedientat i al Ministeri Fiscal, per tal que en el termini de deu dies hàbils formulin les conclusions que estimin convenients. Transcorregut aquest termini, l’instructor ha d’elevar l’expedient disciplinari al Consell Superior de Justícia en el termini màxim de cinc dies hàbils.
+4. Totes les persones i les entitats públiques i privades estan obligades, amb les limitacions que estableixen les lleis, a facilitar a l’instructor la informació necessària per al bon fi de la instrucció de l’expedient.
 
 **Article 81 quater**
 
-$e8
+1. Quan acordi la incoació d’un expedient disciplinari, el Consell Superior de la Justícia, amb l’abstenció de l’instructor, i amb l’audiència prèvia del batlle o el magistrat expedientat i del Ministeri Fiscal, pot decidir cautelarment la suspensió del càrrec del batlle o el magistrat expedientat per un període màxim de sis mesos, quan hi hagi indicis racionals de la comissió d’una falta molt greu. En aquest cas, el Consell Superior també pot decidir la minoració o la pèrdua de les retribucions corresponents, malgrat que s’han de compensar les retribucions deixades de percebre pel batlle o el magistrat expedientat si es resol finalment que els fets comesos són constitutius d’una falta lleu, sense perjudici de la sanció que s’imposi arran d’aquests fets; si la sanció imposada no comporta la minoració o la pèrdua de retribucions, llevat de la sanció de separació del càrrec, o si s’arxiva l’expedient disciplinari perquè no han quedat acreditats els fets imputats.
+2. Contra les mesures cautelars esmentades a l’apartat anterior, el batlle o el magistrat expedientat pot interposar recurs davant el Tribunal Superior de Justícia. El recurs el resol una sala formada pels tres magistrats amb més antiguitat en el càrrec. Aquests tres magistrats no poden formar part del Ple del Tribunal Superior de Justícia en cas que, finalment, s’interposi un recurs contra la resolució disciplinària definitiva del Consell Superior de la Justícia.
+3. El període de suspensió temporal del càrrec, com a mesura cautelar, no pot ser superior al de la sanció de suspensió temporal del càrrec que pugui ser imposada per la falta presumptament comesa. El temps transcorregut s’ha de tenir en compte a l’efecte de computar el període de la sanció de suspensió temporal del càrrec que es pugui imposar al terme de l’expedient disciplinari.
 
 **Article 81 ter**
 
-$ea
+1. La competència per dictar la resolució disciplinària i, si escau, imposar les sancions oportunes, o per arxivar l’expedient disciplinari contra el batlle o el magistrat expedientat, correspon al Consell Superior de la Justícia, com a òrgan disciplinari, amb l’abstenció de l’instructor de l’expedient disciplinari.
+2. El Consell Superior de la Justícia ha de dictar la resolució disciplinària en el termini màxim de quinze dies hàbils per a les faltes lleus; de trenta dies hàbils per a les faltes greus, i de quaranta-cinc dies hàbils per a les faltes molt greus, a comptar del dia en què l’instructor li elevi l’expedient disciplinari.
+3. Dins els terminis establerts a l’apartat anterior, el president o, en cas que s’hagi hagut d’abstenir o hagi estat recusat, el vicepresident del Consell Superior de la Justícia, assenyala el lloc, el dia i l’hora en què s’ha de celebrar la vista oral, a la qual cita els membres del Consell Superior, a excepció de l’instructor de l’expedient disciplinari. També cita el batlle o el magistrat expedientat i el representant del Ministeri Fiscal. El president o, si escau, el vicepresident, que dirigeix i modera la vista oral, atorga la paraula al batlle o al magistrat expedientat en primer lloc, i, tot seguit, al representant del Ministeri Fiscal. També pot atorgar torns addicionals de paraula. Durant la vista oral no es poden al·legar fets que no ho hagin estat durant la fase d’instrucció. El batlle o el magistrat expedientat pot renunciar a la celebració de la vista oral en virtut de les conclusions a què fa referència l’article 81 bis, apartat 3.
+4. La resolució disciplinària ha de ser motivada i no pot incloure fets diferents dels que han fonamentat el plec de càrrecs, sense perjudici de la valoració jurídica que se’n faci. Si la resolució és sancionadora, s’han de determinar amb precisió les faltes comeses, els preceptes en què estan tipificades i les sancions imposades. La resolució s’adopta amb el vot favorable de la majoria dels membres del Consell Superior de la Justícia, excepte el de l’instructor designat.
+5. Les sancions d’amonestació escrita arran de la comissió de faltes lleus poden ser imposades pel Consell Superior de la Justícia sense que calgui nomenar un instructor ni realitzar cap altre tràmit que el d’al·legacions escrites del batlle o el magistrat expedientat i del Ministeri Fiscal, en el termini màxim de trenta dies hàbils a comptar del dia en què es notifiqui la resolució mitjançant la qual s’incoa l’expedient disciplinari.
+6. En els altres casos, si així ho sol·licita per escrit i de forma expressa el batlle o el magistrat expedientat, i alhora es mostra conforme amb els fets imputats, la falta comesa i la sanció aplicable, es pot prescindir de la instrucció de l’expedient i dictar la resolució disciplinària que correspongui per part del Consell Superior de la Justícia.
 
 **Article 82**
 
-$ec
+1. Les faltes comeses pels batlles i els magistrats en l’exercici del càrrec es qualifiquen en lleus, greus i molt greus.
+2. Les faltes lleus prescriuen al cap de sis mesos; les greus, al cap de dos anys, i les molt greus, al cap de quatre anys, a comptar de la data del fet causant o des del moment en què se n’hagi hagut de tenir coneixement. El termini de prescripció s’interromp per qualsevol actuació realitzada amb coneixement formal del batlle o el magistrat interessat que s’adreci a la iniciació, la tramitació o la resolució de l’expedient disciplinari.
+3. La interrupció deixa de tenir efecte si no s’incoa l’expedient disciplinari o queda paralitzat durant més de sis mesos per causa no imputable al batlle o el magistrat interessat. En aquest cas, el còmput del termini de prescripció s’inicia de nou a partir de la data de la darrera actuació que consti en l’expedient disciplinari.
+4. En el cas de suspensió de la tramitació de l’expedient per causa de prejudicialitat penal, el termini de prescripció de la falta resta suspès fins que el Consell Superior de la Justícia tingui coneixement formal de la resolució ferma recaiguda en l’àmbit penal.
 
 **Article 83**
 
-$ef
+Són faltes molt greus:
+a) La infracció de les incompatibilitats i prohibicions establertes en aquesta Llei.b) L’incompliment del deure d’abstenció sabent que concorre una de les causes previstes en aquesta Llei.c) Les accions o omissions que comportin responsabilitat civil, d’acord amb l’article 76.d) La ignorància inexcusable de les lleis i els procediments.e) La intromissió, mitjançant accions de qualsevol tipus, en l’exercici de les funcions jurisdiccionals d’un altre batlle o magistrat.f) La falta a la veritat en la sol·licitud per obtenir permisos, compatibilitats i altres beneficis.g) L’abús de la condició de batlle o magistrat per obtenir un tracte favorable davant de l’Administració pública o dels organismes públics i parapúblics, i de professionals i empreses.h) El baix rendiment derivat de la manca de compliment no justificada dels mòduls d’activitat o de la manca d’assoliment no justificada dels mínims d’activitats de formació continuada que estableix l’article 68ter, quan el compliment dels mòduls d’activitat o l’assoliment dels mínims d’activitats de formació continuada siguin inferiors a un 40% de l’establert com a obligatori.i) L’absència continuada i injustificada de la seu de l’òrgan judicial al qual estigui destinat.j) L’incompliment dels acords adoptats pel Consell Superior de la Justícia i pels presidents de la Batllia, del Tribunal de Corts o del Tribunal Superior en exercici de les seves funcions, després d’haver estat requerit a aquest efecte.k) La comissió d’una falta greu quan el batlle o el magistrat hagi estat sancionat anteriorment per dos faltes greus més, sense que hagin estat cancel·lades les anotacions corresponents.
 
 **Article 84**
 
-$f4
+Són faltes greus:
+a) La inassistència injustificada i reiterada a vistes, judicis o pràctiques de proves que hagin estat fixats.b) L’absència injustificada de la seu de l’òrgan judicial al qual estigui destinat.c) El retard injustificat en l’inici o la tramitació dels processos judicials.d) L’obstaculització de les funcions d’inspecció del Consell Superior de la Justícia.e) La revelació a tercers de fets i informacions obtinguts en l’exercici de la funció jurisdiccional.f) La infracció de les prohibicions i obligacions establertes en aquesta Llei, quan no constitueixi una falta lleu o molt greu.g) El baix rendiment derivat de la manca de compliment no justificada dels mòduls d’activitat o de la manca d’assoliment no justificada dels mínims d’activitats de formació continuada que estableix l’article 68ter, quan el compliment dels mòduls d’activitat o l’assoliment dels mínims d’activitats de formació continuada siguin inferiors a un 60% de l’establert com a obligatori sempre i quan no constitueixi una falta molt greu.h) La falta de respecte als ciutadans, als altres batlles o magistrats, als membres del Ministeri Fiscal, als advocats, als procuradors, al personal de l’Administració de justícia o als altres agents i funcionaris públics, en l’exercici de les funcions jurisdiccionals, quan revesteixi una gravetat especial.i) L’incompliment dels acords adoptats pel Consell Superior de la Justícia i pels presidents de la Batllia, del Tribunal de Corts o del Tribunal Superior en exercici de les seves funcions.j) La comissió d’una falta lleu quan el batlle o el magistrat hagi estat sancionat anteriorment per dos faltes lleus més, sense que hagin estat cancel·lades les anotacions corresponents.
 
 **Article 84 bis**
 
@@ -542,7 +771,10 @@ a) La falta de respecte als ciutadans, als altres batlles o magistrats, als memb
 
 **Article 85**
 
-$f9
+1. Les sancions que es poden imposar als batlles i els magistrats per les faltes comeses en l’exercici del càrrec són amonestació escrita, multa d’un import màxim de dotze mil euros, suspensió del càrrec fins a un any i separació del càrrec.
+2. Les faltes lleus se sancionen amb amonestació escrita i/o multa de fins a sis-cents euros; les faltes greus, amb suspensió del càrrec durant un període no superior a sis mesos i/o multa de sis-cents a sis mil euros, i les faltes molt greus, amb suspensió del càrrec durant un període no superior a un any o separació del càrrec, i/o multa de sis mil a dotze mil euros.
+3. Les sancions prescriuen un cop transcorreguts dos anys per a les faltes lleus, quatre anys per a les faltes greus, i sis anys per a les faltes molt greus, a comptar de la data en què s’hagi complert definitivament la sanció. El termini de prescripció de les sancions es comença a comptar a partir de l’endemà del dia en què ha esdevingut ferma la resolució que les imposa.
+4. El termini de prescripció de les sancions s’interromp per l’inici, amb coneixement formal de la persona interessada, de l’execució de la sanció. La interrupció deixa de tenir efecte si l’execució resta aturada durant més d’un any per causa no imputable al batlle o el magistrat sancionat. En aquest cas, el còmput del termini de prescripció s’inicia de nou a partir de la data de la darrera actuació que consti en l’expedient d’execució.
 
 **Article 85 bis**
 
@@ -551,7 +783,10 @@ a) Expedient personal.b) Intencionalitat.c) Danys i perjudicis causats.d) Antece
 
 **Article 85 ter**
 
-$fd
+1. La responsabilitat disciplinària dels batlles i els magistrats s’extingeix pel compliment de la sanció, la defunció del batlle o magistrat expedientat, la prescripció de la falta i la prescripció de la sanció.
+2. Les sancions disciplinàries es fan constar a l’expedient personal del batlle o el magistrat sancionat, amb indicació de la falta que ha motivat l’anotació. La cancel·lació de l’anotació, una vegada complerts els terminis indicats a l’article 85.3, es fa d’ofici o a petició del batlle o el magistrat sancionat. La cancel·lació suposa l’eliminació de tots els antecedents, llevat del cas de la sanció de separació del càrrec.
+3. Si durant la tramitació de l’expedient disciplinari es produeix la pèrdua de la condició de batlle o magistrat de la persona expedientada, s’ha de dictar una resolució en què es declara extingida la responsabilitat disciplinària i s’arxiva el procediment, llevat que una persona interessada insti la continuació de la tramitació de l’expedient, i sense perjudici de la responsabilitat civil o penal que es derivi de les faltes comeses eventualment durant el temps en què la persona expedientada era batlle o magistrat.
+4. La memòria anyal sobre l’estat i el funcionament de l’Administració de Justícia ha d’incloure una relació del nombre d’expedients disciplinaris incoats, tramitats i arxivats contra els batlles, magistrats i membres del Ministeri Fiscal durant l’any judicial corresponent, que inclogui les denúncies interposades i les resolucions disciplinàries dictades, amb l’especificació de les infraccions comeses i de les faltes sancionades. A més, la memòria anyal ha d’annexar una còpia de totes les resolucions disciplinàries dictades pel Consell Superior de la Justícia durant l’any judicial corresponent. La informació i la documentació esmentades s’han de facilitar amb respecte de les dades personals de les persones expedientades, als efectes de garantir-ne l’anonimat.
 
 **Article 86**
 
@@ -565,7 +800,15 @@ Contra la resolució disciplinària definitiva que adopti el Consell Superior de
 
 **Article 87 bis**
 
-$ff
+1. El Consell Superior de la Justícia aprova un codi ètic de conducta judicial, basat en els valors de neutralitat política i institucional, independència, imparcialitat, integritat, correcció, igualtat, competència i diligència, que ha de servir de referent per als estàndards de comportament desitjables de batlles, magistrats, fiscals, secretaris judicials i tot el personal de l’Administració de justícia, adaptat a les característiques de cada col·lectiu.
+2. El codi ètic inclou també, de la manera que correspongui, els membres del Consell Superior de la Justícia.
+3. Abans de l’aprovació del codi ètic, el Consell Superior de la Justícia obre un procés de consulta i participació en què poden intervenir els batlles i magistrats, els fiscals, els secretaris judicials, el personal de l’Administració de justícia i els col·legis professionals de l’advocacia i la procura, en els termes que fixi un reglament aprovat pel Consell.
+4. El Consell Superior de la Justícia avalua cada any l’aplicació del codi ètic i aprova, si escau, les modificacions que consideri convenients, després de sotmetre-les a consulta i participació de totes les persones i els col·lectius que indica l’apartat anterior.
+5. Totes les persones assenyalades en l’apartat 3 d’aquest article, i qualsevol persona afectada per una conducta de l’Administració de justícia, poden fer arribar al Consell Superior de la Justícia i als presidents dels òrgans judicials queixes i suggeriments sobre l’aplicació del codi ètic. Els presidents dels òrgans judicials remeten les queixes i els suggeriments rebuts al Consell Superior de la Justícia.
+6. El Consell Superior de la Justícia dona curs a les queixes rebudes d’acord amb la naturalesa dels fets. El Consell aprova per reglament el procediment de tramitació de queixes.
+7. El president del Consell Superior de la Justícia, els presidents de jurisdicció i el fiscal general poden adreçar comunicacions, generals i individuals, als batlles, magistrats i membres del Ministeri Fiscal sobre el compliment del codi ètic.
+8. El president del Consell Superior de la Justícia, els presidents de jurisdicció i el fiscal general poden demanar explicacions, individualment, als batlles, magistrats, membres del Ministeri Fiscal, secretaris judicials i personal de l’Administració de justícia sobre eventuals incompliments del codi ètic, i aquests últims estan obligats a contestar en el termini màxim de deu dies.
+En cas de constatar l’incompliment, poden reprendre, de manera privada o pública, la persona afectada, sens perjudici d’exigir les responsabilitats que es derivin dels fets. En tot cas, si l’actuació ha tingut per origen una queixa d’una persona o entitat, es comunica el resultat a aquesta última.
 
 ### Títol VI. El Ministeri Fiscal
 

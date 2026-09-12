@@ -22,19 +22,34 @@ Tots els notaris tenen atribuïdes les mateixes funcions i els mateixos drets i 
 
 **Article 2. Funcions**
 
-$1e
+1. Els notaris exerceixen les funcions següents:
+a) Donar fe pública de tots els actes i els contractes que autoritzen sota la forma d’instrument públic, amb subjecció a les lleis i la normativa aplicable restant i, subsidiàriament, d’acord amb el costum.b) Assessorar i aconsellar les persones que volen atorgar un instrument públic sobre els mitjans jurídics més adequats per a l’assoliment de les finalitats lícites que pretenguin, tot fomentant les dimensions social i de garantia i protecció dels consumidors de la funció notarial.c) Les altres funcions que els atribueixi la normativa aplicable i, en concret, la Llei del Codi de procediment civil.
+2. Els notaris redacten l’instrument públic d’acord amb la voluntat comuna de les persones que l’atorguen, i interpreten i adeqüen aquesta voluntat comuna a l’ordenament jurídic vigent, tot informant-los del valor i l’abast de la redacció, i assistint especialment les persones atorgants i compareixents que ho necessitin. En redactar l’instrument públic, els notaris han de garantir que les persones que l’atorguen se situen en igualtat de condicions, de manera que coneguin el contingut de l’instrument i les seves posicions respectives.
+Aquests principis d’actuació també són aplicables quan els notaris redactin un instrument públic segons minuta o quan elevin a instrument públic un document privat.
 
 **Article 3. Àmbit d’actuació i obligatorietat del servei**
 
-$20
+1. L’àmbit competencial d’actuació dels notaris s’estén a tot el territori del Principat d’Andorra.
+2. El compliment de les funcions encomanades als notaris establertes a l’apartat 1 de l’article 2 té caràcter obligatori. El notari que sigui requerit a aquest efecte no pot negar la seva intervenció o actuació, llevat de causa justificada.
+3. Són causes que justifiquen que els notaris neguin la seva intervenció o actuació:
+a) Quan a judici del notari alguna de les persones atorgants d’un instrument públic estigui mancada de la capacitat legal necessària a aquest efecte.b) Quan la representació que invoqui la persona que compareix davant el notari i que actua en nom d’una altra persona no estigui acreditada degudament o no li correspongui d’acord amb les lleis.c) Quan l’instrument públic que el notari hagi d’autoritzar sigui, en tot o en part, contrari a les lleis.d) Quan el notari consideri de forma justificada que la seva imparcialitat i independència es poden veure compromeses.e) Quan no s’acrediti la notificació requerida per exercir el dret de tempteig en les transmissions descrites a la Llei de mesures de protecció i estímul del mercat i governança en l’àmbit de l’habitatge o es verifica l’existència d’alguns dels supòsits que també donen lloc al dret de retracte previstos en la Llei esmentada, el notari ha de comunicar-ho al ministeri responsable de l’habitatge, perquè, si escau, s’incoï el procediment de retracte.
+3 bis. La negativa dels notaris de prestar els seus serveis sense causa justificada, o la realització per part seva d’actes contraris a les lleis aplicables, dona dret a la persona interessada a formular una demanda de responsabilitat i reclamació pels danys i perjudicis davant la jurisdicció civil competent.
+Igualment, la persona que es consideri perjudicada pel refús esmentat pot sol·licitar, amb caràcter d’urgència, una declaració judicial que obligui el notari a prestar els serveis en relació amb els quals ha estat requerit. Aquesta demanda s’ha d’adreçar a la Secció Administrativa de la Batllia, per tal que se n’atribueixi el coneixement al batlle o al tribunal a qui correspongui per torn. L’òrgan jurisdiccional competent ha d’escoltar el saig interessat en el termini de cinc dies hàbils a comptar de la presentació de la demanda, i, dins els cinc dies hàbils següents, dicta un aute en què resol la controvèrsia. Contra aquest aute no es pot interposar cap recurs.
+4. Els notaris tenen el deure de secret professional respecte de tots els fets i les notícies dels quals tinguin coneixement en l’exercici de les seves funcions.
 
 **Article 4. Abstenció**
 
-$24
+1. Els notaris s’han d’abstenir d’exercir les funcions que tenen encomanades en els supòsits següents:
+a) Quan hagin d’autoritzar un instrument públic en què es consignin drets a favor seu o tinguin un interès directe o indirecte en l’objecte de l’instrument públic.No obstant això, poden autoritzar el seu propi testament, poders de qualsevol tipus, escriptures de cancel·lació i extinció d’obligacions, i escriptures que posposin drets de què siguin titulars o en què únicament contreguin obligacions.b) Quan tinguin una relació de matrimoni o una situació de convivència anàloga, o un parentiu en línia recta, o en línia col·lateral per consanguinitat o adopció fins al quart grau inclòs o per afinitat fins al segon grau inclòs, amb qualsevol de les persones atorgants de l’instrument públic que hagin d’autoritzar.c) Quan hagin d’autoritzar un instrument públic en què es consignin drets a favor d’una persona amb la qual tinguin una relació de matrimoni o una situació de convivència anàloga, o un parentiu en línia recta, o en línia col·lateral per consanguinitat o adopció fins al quart grau inclòs o per afinitat fins al segon grau inclòs.Se n’exceptuen els testaments en què es nomenin marmessors o comptadors partidors les persones amb les quals tenen una de les relacions esmentades al paràgraf anterior, i els poders per a plets en què siguin apoderades aquestes mateixes persones.d) Quan qualsevol de les persones atorgants de l’instrument públic que hagin d’autoritzar sigui una societat mercantil en què el notari, el seu cònjuge, la persona amb qui mantingui una situació de convivència anàloga o un parent en línia recta, o en línia col·lateral per consanguinitat o adopció fins al quart grau inclòs o per afinitat fins al segon grau inclòs, tingui una participació superior al 20% del capital social, tingui la condició d’administrador únic, conjunt o mancomunat o solidari, o participi en l’òrgan d’administració i en disposi de més del 20% dels drets de vot.
+2. Els notaris també poden abstenir-se en els casos justificats en què considerin que, en l’exercici de les seves funcions, la seva independència o imparcialitat es poden veure compromeses.
 
 **Article 5. Honoraris i despeses**
 
-$26
+1. Els serveis dels notaris són remunerats sota la forma d’honoraris. Els honoraris dels notaris es fixen d’acord amb un barem aprovat reglamentàriament pel Govern, a proposta no vinculant de la Cambra de Notaris.
+2. Els notaris no poden percebre cap remuneració per l’assessorament o la redacció de l’instrument públic que autoritzin.
+No obstant això, poden percebre la meitat de l’import dels honoraris fixats i aprovats que s’haguessin meritat en cas que l’instrument públic hagués estat autoritzat, si la redacció d’aquest instrument ha estat enllestida i s’ha posat a la disposició de la persona que ha requerit la intervenció o l’actuació del notari, però no s’ha atorgat per motius que no són imputables al notari.
+3. Els notaris, en autoritzar un instrument públic, han de coadjuvar en les tasques de recaptació de les obligacions tributàries que s’estableixin legalment sense percebre cap remuneració a aquest efecte.
+4. Els honoraris dels notaris i les despeses que dimanen de l’exercici de les seves funcions, en cas que no s’ajustin als barems o a les normes vigents i aplicables, es poden impugnar davant el secretari judicial adscrit o que forma part del tribunal de la Secció Administrativa al qual correspongui per torn, d’acord amb el procediment d’impugnació de la taxació de les costes processals que regula la Llei del Codi de procediment civil.
 
 #### Capítol segon. Organització, accés, cessament i formació
 
@@ -44,11 +59,29 @@ El nombre de notaris és fixat per acord del Govern, en funció de les necessita
 
 **Article 7. Requisits i incompatibilitats**
 
-$28
+1. Per exercir la professió de notari cal complir els requisits següents:
+a) Tenir la nacionalitat andorrana.b) Estar en plena possessió dels drets civils i polítics.c) No estar condemnat per delictes majors dolosos o delictes imprudents vinculats a l’exercici de la funció pública o jurisdiccional, mentre no s’hagi produït la cancel·lació dels antecedents penals.d) Estar en possessió com a mínim d’un títol de nivell 4 del Marc andorrà de titulacions d’ensenyament superior en l’àmbit del dret, lliurat o reconegut pel Govern.e) Haver superat les proves d’aptitud tècnica i capacitació corresponents, i haver cursat i tenir validada la formació inicial corresponent.f) No estar incapacitat per a l’exercici de la professió ni trobar-se comprès en cap causa d’incompatibilitat establerta en aquesta Llei, o de prohibició d’exercir la professió.
+2. L’exercici de la professió de notari és incompatible:
+a) Amb l’exercici de qualsevol càrrec públic, sigui electiu, sigui de designació.b) Amb la prestació de serveis en règim estatutari o laboral per compte de l’Administració pública.c) Amb l’exercici de l’advocacia o de la procura, o amb la prestació de serveis remunerats per compte del Col·legi Oficial d’Advocats d’Andorra o del Col·legi Oficial de Procuradors d’Andorra.d) Amb l’exercici de qualsevol altra activitat mercantil, industrial o professional.e) I, en general, amb altres càrrecs o funcions de qualsevol tipus en societats o empreses de negoci, tant públiques com privades.
+3. Són tanmateix compatibles amb l’exercici de la professió de notari les activitats relatives a:
+a) La gestió del patrimoni propi o familiar.b) La participació en congressos, conferències, seminaris o cursos.c) La producció i la creació literària, artística, científica i tècnica.d) La docència i la investigació acadèmiques.e) La participació no remunerada en associacions o fundacions sense ànim de lucre.
 
 **Article 8. Selecció**
 
-$2a
+1. La selecció dels notaris es fa per acord del Govern, entre persones que reuneixen els requisits enumerats a l’apartat 1 de l’article 7, pel procediment de concurs oposició, que ha de respondre als principis d’objectivitat, publicitat i transparència.
+2. El Govern convoca i prepara el concurs oposició i constitueix el tribunal de selecció que ha de valorar les proves i avaluar els candidats.
+3. En la fase de concurs es valoren els mèrits indicats en els currículums aportats per les persones admeses en el procés de selecció, segons el barem que fa públic el Govern en les bases de la convocatòria, atorgant a cada mèrit una ponderació raonable.
+4. En la fase d’oposició els candidats realitzen com a mínim tres proves: una de caràcter teòric sobre el temari publicat prèviament pel Govern en les bases de la convocatòria; una de caràcter pràctic, en la qual es proposa la resolució d’un o diversos casos, en els àmbits jurídics indicats en les bases de la convocatòria, i una tercera d’idiomes. Les dos primeres proves han de contenir almenys una exposició de caràcter oral. Les bases de la convocatòria indiquen la ponderació de cada prova en la valoració global del procés.
+5. El tribunal de selecció està integrat per sis membres i és presidit pel ministre encarregat de la justícia o el membre en qui delegui aquesta funció. En formen part també el president de la Cambra de Notaris, el president del Tribunal Superior de Justícia, el president de la Batllia i dos altres juristes de reconeguda capacitació i experiència, designats pel Govern, un dels quals ha d’exercir la professió al Principat d’Andorra i un altre dels quals l’ha d’exercir fora.
+6. El mateix tribunal valora les dos fases del procés de selecció i fa pública la llista dels candidats que han obtingut la puntuació més alta, en nombre igual al de les places que s’han de cobrir.
+7. El procés de selecció inclou una prova psicotècnica destinada a comprovar que no concorren impediments que incapacitin la persona per a l’exercici de la funció de notari. Les bases de la convocatòria estableixen el moment en què té lloc aquesta prova, que té com a resultat una valoració d’
+apte
+o de
+no apte
+. En cas d’una valoració com a
+no apte
+, el candidat queda exclòs de la convocatòria. L’exclusió per aquesta causa no apareix de manera separada o específica a les llistes que es facin públiques sobre els resultats del procés de selecció.
+8. Si queda vacant alguna de les places convocades, sigui perquè les proves no han estat superades, sigui per qualsevol altre motiu, es convoca un nou concurs oposició en el termini improrrogable de tres mesos, amb la finalitat de complir el que disposa l’article 6.
 
 **Article 9. Formació inicial**
 
@@ -62,7 +95,11 @@ $2a
 
 **Article 11. Cessament**
 
-$2c
+1. Els notaris cessen en les seves funcions:
+a) Per la renúncia, que han de comunicar al ministeri competent en matèria de justícia i a la Cambra de Notaris amb sis mesos d’antelació com a mínim. Tanmateix, els drets i les obligacions del notari no cessen mentre la renúncia no hagi estat acceptada.b) Per imposició de pena, principal o complementària, d’inhabilitació per a l’exercici de l’ofici o el càrrec.c) Per sanció imposada per una falta molt greu, d’acord amb l’expedient disciplinari corresponent, d’expulsió de la professió.d) Per incórrer en alguna causa d’incompatibilitat o d’invalidesa que els incapaciti per a l’exercici de la professió, degudament acreditada per l’organisme públic competent en la matèria, o de prohibició d’exercir la professió.e) Per jubilació, en arribar a l’edat de seixanta-cinc anys.f) Per defunció.
+2. Els notaris que han cessat en les seves funcions no poden defensar com a advocats les persones, físiques o jurídiques, que hagin estat atorgants d’un instrument públic que hagin autoritzat en el darrer any d’exercici de la seva funció notarial, durant els sis mesos següents al cessament.
+3. El cessament d’un notari per altra causa que la jubilació comporta els efectes de la supressió de la notaria i l’aplicació de les disposicions de l’article 15 i dels apartats 1, 4 i 5 de l’article 36.
+4. El cessament temporal d’un notari per causa d’una sanció d’inhabilitació temporal o per incapacitat temporal no comporta els efectes de la supressió de la notaria i hi són aplicables, per tant, les disposicions de l’apartat 1 de l’article 28.
 
 **Article 12. Formació continuada**
 
@@ -74,11 +111,20 @@ $2c
 
 **Article 13. Protocols notarials**
 
-$2e
+1. Els protocols notarials pertanyen a l’Estat andorrà i comprenen el conjunt d’instruments públics que consisteixen en les escriptures i les actes originals autoritzades per un notari en el transcurs d’un any natural.
+2. Els notaris numeren correlativament els instruments públics en l’ordre cronològic de la seva autorització, els folis dels quals també han de ser numerats correlativament, i els incorporen al seu protocol de l’any natural en curs.
+3. Abans que finalitzi el mes de juny de cada any, els notaris relliguen el protocol de l’any anterior en volums que incorporen els instruments públics ordenats segons la seva numeració. Al final del darrer volum hi incorporen l’índex anyal.
+4. Durant la primera setmana de cada mes, els notaris presenten al president de la Batllia un índex, en doble exemplar, dels instruments públics que han autoritzat durant el mes anterior, on ha de constar el número de protocol, la data, el nom i els cognoms de les persones atorgants, l’acte de què es tracta i el nombre de folis. El president de la Batllia segella i visa els índexs i els retorna tot seguit als notaris, que en conserven un exemplar i sol·liciten el dipòsit de l’altre exemplar a l’arxiu de la Cambra de Notaris en el termini màxim d’un mes.
+5. Els notaris han de vetllar per la perennitat i la bona conservació dels instruments públics que custodien i, en cas contrari, incorren en la responsabilitat civil i disciplinària corresponent.
 
 **Article 14. Custòdia dels protocols en cas de cessament per jubilació**
 
-$30
+1. El protocol del notari que cessa en el càrrec per causa de jubilació queda sota la custòdia del notari que el succeeix. Tanmateix, mentre el notari que el succeeix no pren possessió del càrrec, la Cambra de Notaris designa un dels seus membres per fer-se càrrec provisionalment de la custòdia del protocol, en el termini màxim de tres dies naturals des del dia en què esdevé efectiu el cessament.
+2. Quan un notari cessa en el càrrec, el president de la Cambra de Notaris estén el mateix dia una diligència a continuació del darrer instrument públic del seu protocol que especifica el fet que la notaria del notari que ha cessat en el càrrec ha quedat vacant, la causa legal del cessament i el nombre d’instruments públics que ha autoritzat fins llavors i el nombre de folis en què es desglossen, i on ha de constar la signatura, el signe i el segell del president de la Cambra de Notaris.
+3. Un cop estesa la diligència esmentada a l’apartat anterior, el president de la Cambra de Notaris ho comunica al ministeri competent en matèria de justícia. A partir de llavors i fins que el notari que el succeeix no en prengui la custòdia o bé, si escau, fins que la Cambra de Notaris no designi un dels seus membres per fer-se càrrec provisionalment de la custòdia del protocol del notari que ha cessat en el càrrec, no s’hi pot incorporar cap altre instrument públic ni cap altre document.
+4. Mentre el notari que succeeix el notari que ha cessat en el càrrec no hagi pres possessió del seu càrrec, tots els instruments públics autoritzats pel notari que el substitueix provisionalment s’incorporen al seu protocol.
+5. El notari que succeeix al notari que ha cessat en el càrrec informa el ministeri competent en matèria de justícia i la Cambra de Notaris, en el termini màxim de tres mesos des del dia en què rep la custòdia del protocol, del seu estat de conservació i de la seva adequació als requisits establerts per les lleis.
+El notari que succeeix el notari que ha cessat en el càrrec és responsable de les mancances o les deficiències que puguin existir en el protocol la custòdia del qual ha rebut si no ho ha fet constar en el termini assenyalat per mala fe o per negligència greu.
 
 **Article 15. Destí dels protocols en cas de supressió de la notaria**
 
@@ -86,7 +132,14 @@ En cas de la supressió d’una notaria, els protocols passen a formar part de l
 
 **Article 16. Principis de rogació i de lliure elecció**
 
-$32
+1. Els notaris només poden actuar amb la rogació prèvia de les persones interessades, llevat dels casos establerts per les lleis.
+2. Les persones interessades tenen el dret a la lliure elecció del notari. A fi de garantir aquest dret, resten prohibides les associacions professionals entre notaris i les associacions professionals de notaris amb altres professionals titulats o mercantils.
+No obstant això, a demanda dels notaris interessats i si no concorre una causa contrària a l’interès general, el ministeri competent en matèria de justícia pot autoritzar l’establiment de dos notaris en una mateixa notaria, sempre que no es vulneri el dret a la lliure elecció del notari.
+3. Sense perjudici del que s’estableix a l’apartat anterior, resta prohibit l’establiment de dos o més notaris que no pertanyin a la mateixa notaria en un mateix immoble.
+Tanmateix, a demanda del notari interessat i si no concorre una causa contrària a l’interès general, el ministeri competent en matèria de justícia pot autoritzar l’establiment d’un notari al mateix immoble on hi hagi hagut anteriorment una altra notaria.
+4. Quan hi hagi més d’una persona atorgant d’un instrument públic, l’elecció del notari correspon, en defecte de pacte exprés, a la persona que hagi de satisfer els honoraris del notari o la major part d’aquests honoraris.
+No obstant això, en els contractes de compravenda o de préstec amb garantia hipotecària, l’elecció del notari recau sempre en el comprador o el prestatari, respectivament.
+5. Els notaris s’han d’abstenir de realitzar qualsevol tipus de publicitat professional.
 
 **Article 17. Deure d’assegurança**
 
@@ -100,7 +153,11 @@ $32
 
 **Article 19. Control de l’activitat**
 
-$34
+1. Sense perjudici de l’autonomia i la independència de les quals gaudeixen els notaris en l’exercici de les seves funcions, l’activitat professional dels notaris queda sotmesa al control del ministeri competent en matèria de justícia.
+El control, que pot abastar la conformitat al dret de les diligències dutes a terme pels notaris, en el marc d’aquesta Llei i la normativa aplicable restant, es pot efectuar en qualsevol moment.
+2. El ministeri competent en matèria de justícia pot ordenar les inspeccions oportunes prop de les notaries, amb la periodicitat que es consideri convenient, a l’efecte de verificar el compliment de les disposicions que estableixen aquesta Llei i la normativa aplicable restant, i per tal de vetllar per l’exercici adequat de les funcions atribuïdes als notaris.
+El ministre encarregat de la justícia nomena la persona o les persones amb competències d’inspecció, en fixa la missió i és el destinatari del resultat de la inspecció.
+3. El ministre encarregat de la justícia comunica a l’òrgan disciplinari al qual fa referència l’article 21 les mancances o les deficiències eventuals constatades, a fi que incoï l’expedient disciplinari corresponent i dicti la resolució escaient.
 
 #### Capítol quart. Règim de responsabilitat
 
@@ -111,7 +168,12 @@ $34
 
 **Article 21. Òrgan disciplinari**
 
-$36
+1. La potestat disciplinària és exercida per l’òrgan disciplinari, que està integrat pels membres següents:
+a) El president de la Cambra de Notaris, o, si escau, la persona que el substitueixi o el supleixi en el càrrec.b) Dos representants del ministeri encarregat de la justícia, designats pel ministre entre funcionaris que ocupin llocs de treball de direcció, comandament o responsabilitat.c) Un representant del ministeri encarregat de les finances, designat pel ministre entre funcionaris que ocupin un lloc de treball de direcció, comandament o responsabilitat.
+2. Les reclamacions o les queixes que es puguin formular contra un notari s’adrecen al ministre encarregat de la justícia, el qual les comunica al president de la Cambra de Notaris i, si escau, a la persona que el substitueixi o el supleixi en el càrrec.
+3. Si en el decurs de la tramitació d’un expedient disciplinari es manifesten indicis de conductes que poden constituir una infracció penal, l’òrgan disciplinari ho ha de fer saber a l’òrgan jurisdiccional competent i suspendre, tot seguit, la tramitació de l’expedient esmentat, la qual cosa interromp el còmput dels terminis de prescripció i caducitat, fins que recaigui una resolució ferma en l’àmbit penal.
+D’altra banda, quan s’estigui instruint o jutjant un procés penal pels mateixos fets que han originat o han de comportar la incoació d’un expedient disciplinari, o per altres fets que hi estiguin íntimament vinculats, s’ha d’iniciar la tramitació de l’expedient disciplinari, si no s’ha iniciat amb anterioritat, i se’n suspèn tot seguit la tramitació, la qual cosa interromp el còmput dels terminis de prescripció o caducitat, fins que recaigui una resolució ferma en l’àmbit penal.
+En qualsevol cas, la declaració de fets provats que pugui fer el tribunal penal és vinculant per a l’òrgan disciplinari.
 
 **Article 22. Drets**
 
@@ -120,7 +182,13 @@ a) Dret a ser informats dels fets que se’ls imputen, de les infraccions que aq
 
 **Article 23. Procediment disciplinari**
 
-$3a
+1. El procediment disciplinari l’inicia l’òrgan disciplinari mitjançant la incoació d’un expedient disciplinari, arran de les comunicacions esmentades a l’apartat 3 de l’article 19 o a l’apartat 2 de l’article 21, que es tramita amb respecte dels principis generals del règim sancionador.
+2. L’òrgan disciplinari designa un instructor entre els seus membres per instruir l’expedient i formular, en el termini màxim d’un mes, el plec de càrrecs corresponent, que ha d’incloure els fets imputats, amb expressió de les infraccions presumptament comeses i de les sancions que siguin aplicables.
+3. L’òrgan disciplinari ha de notificar per escrit al notari expedientat la incoació de l’expedient, l’instructor designat i el plec de càrrecs. El notari expedientat disposa d’un termini de deu dies hàbils per fer al·legacions i sol·licitar, si escau, la pràctica de les proves que entengui necessàries per a la seva defensa.
+Contestat el plec de càrrecs o transcorregut el termini sense fer-ho, l’instructor pot practicar les proves sol·licitades que consideri oportunes en el termini d’un mes. Posteriorment, ha de donar vista de l’expedient al notari expedientat, per tal que en el termini de deu dies hàbils formuli les conclusions que estimi convenients.
+4. L’òrgan disciplinari, del qual no pot formar part l’instructor designat, ha de dictar en el termini de quinze dies hàbils la resolució corresponent, la qual ha de ser motivada i no pot incloure fets diferents dels que han fonamentat el plec de càrrecs, sense perjudici de la valoració jurídica que se’n faci. Si la resolució és sancionadora, s’han de determinar amb precisió les infraccions comeses, els preceptes en què estan tipificades i les sancions imposades.
+La resolució s’adopta amb el vot favorable de la majoria dels membres de l’òrgan disciplinari, excepte el de l’instructor designat.
+5. La resolució de l’òrgan disciplinari exhaureix la via administrativa i pot ser impugnada davant de la Secció Administrativa de la Batllia, en els termes que estableix la Llei de la jurisdicció administrativa i fiscal.
 
 **Article 24. Mesures cautelars**
 
@@ -129,19 +197,41 @@ $3a
 
 **Article 25. Infraccions**
 
-$3c
+1. Són infraccions les conductes establertes com a tals per aquesta Llei, relacionades amb l’exercici de la professió de notari.
+2. Les infraccions es classifiquen en molt greus, greus i lleus.
+3. Són infraccions molt greus:
+a) L’exercici de la professió de notari sense haver estat nomenat pel Govern o havent cessat en el càrrec.b) L’exercici de la professió de notari en un supòsit d’inhabilitació professional o de suspensió cautelar, o en un supòsit d’incompatibilitat o de prohibició d’exercir la professió.c) La vulneració del deure de secret professional.d) La vulneració de la prohibició d’associacions en el sentit establert als apartats 2 i 3 de l’article 16.e) L’incompliment del deure de disposar o mantenir vigent l’assegurança en l’abast que estableix l’article 17.f) La percepció continuada de remuneracions amb infracció de les disposicions d’aquesta Llei.g) L’incompliment de les obligacions o dels deures professionals establerts en aquesta Llei o en les normes deontològiques, quan en resulti un perjudici greu per a les persones que hagin contractat els serveis del notari.h) La condemna ferma per la comissió d’un delicte dolós, en qualsevol grau de participació, que es produeixi com a conseqüència de l’exercici de la professió.i) Les conductes que hagin comportat una sanció administrativa ferma com a conseqüència de la infracció greu o molt greu de les disposicions legals en matèria de prevenció del blanqueig de diners o valors, o d’altres disposicions legals, que es produeixi com a conseqüència de l’exercici de la professió.j) L’actuació professional sense observar les formes i les regles de la presència física.k) Tota actuació professional que suposi una discriminació per raó de naixença, raça, sexe, orientació sexual, religió, llengua, opinió, lloc de naixement, veïnatge o qualsevol altra condició o circumstància personal o social.l) L’obstaculització en l’exercici de les llibertats públiques i els drets fonamentals com a conseqüència de l’exercici de la professió.m) La comissió de dos infraccions greus, encara que siguin de distinta naturalesa, sempre que es cometin dins el període d’un any des de la primera de les infraccions i que l’autor hagi estat sancionat per aquesta infracció.
+4. Són infraccions greus:
+a) La negativa del notari de prestar les funcions encomanades i que tenen caràcter obligatori sense causa justificada.b) No abstenir-se d’exercir les funcions encomanades quan concorri algun dels supòsits establerts a l’apartat 1 de l’article 4 o exercir-les malgrat l’existència d’un conflicte d’interès.c) La realització de qualsevol tipus de publicitat professional.d) La percepció de remuneracions amb infracció de les disposicions d’aquesta Llei.e) L’incompliment de les tasques de recaptació de les obligacions tributàries encomanades.f) L’incompliment de les obligacions de comunicació i inscripció de les notes marginals que estableix l’article 74, en els terminis que s’hi preveuen.g) L’incompliment de l’obligació d’ingressar a l’Autoritat Financera Andorrana, en el termini que estableix l’article 68, el dipòsit en numerari que hagin rebut.h) La manca de pagament de les despeses que hagi acordat la Cambra de Notaris.i) L’incompliment de les obligacions o dels deures professionals establerts en aquesta Llei o en les normes deontològiques, quan en resulti un perjudici per a les persones que hagin contractat els serveis del notari, o l’incompliment greu i reiterat d’aquestes obligacions o d’aquests deures professionals, encara que no en resulti un perjudici per a les persones que hagin contractat els serveis del notari.j) Les conductes que hagin comportat una sanció administrativa ferma com a conseqüència de la infracció lleu de les disposicions legals en matèria de prevenció del blanqueig de diners o valors, o d’altres disposicions legals, que es produeixi com a conseqüència de l’exercici de la professió.k) L’autorització d’instruments públics infringint les disposicions que estableixi la normativa aplicable, o les formes i les regles essencials, sempre que se’n derivi un perjudici greu per a les persones atorgants o per a terceres persones.l) Les conductes que impedeixin prestar amb la imparcialitat, l’objectivitat i la dedicació requerides les funcions encomanades o que posin en perill la independència o l’honradesa necessàries a aquest efecte.m) Els enfrontaments greus i reiterats del notari amb els clients, amb terceres persones o amb els altres notaris sense causa justificada.n) La comissió de dos infraccions lleus, encara que siguin de distinta naturalesa, sempre que es cometin dins el període de sis mesos des de la primera de les infraccions i que l’autor hagi estat sancionat per aquesta infracció.
+5. És infracció lleu la vulneració de qualsevol disposició que reguli l’activitat professional, incloses les normes deontològiques, sempre que no constitueixi una infracció greu o molt greu.
 
 **Article 26. Prescripció de les infraccions**
 
-$3e
+1. Les infraccions molt greus prescriuen al cap de quatre anys, les greus al cap de dos anys i les lleus al cap de sis mesos. Aquests terminis es computen a partir de la data del fet causant o des del dia en què se n’hagi hagut de tenir coneixement.
+2. El termini de prescripció s’interromp per qualsevol actuació realitzada amb coneixement formal de la persona expedientada que s’adreci a la iniciació, la tramitació o la resolució de l’expedient disciplinari.
+La interrupció deixa de tenir efecte si no s’incoa l’expedient disciplinari o queda paralitzat durant més de sis mesos per causa no imputable a la persona expedientada. En aquest cas, el còmput del termini de prescripció s’inicia de nou a partir de la data de la darrera actuació que consti en l’expedient disciplinari.
+3. En el cas de suspensió de la tramitació de l’expedient per causa de prejudicialitat penal, el termini de prescripció de la infracció resta suspès fins que l’òrgan disciplinari tingui constància fefaent de la resolució ferma recaiguda en l’àmbit penal.
 
 **Article 27. Sancions**
 
-$40
+1. Les infraccions molt greus poden ser objecte de les sancions següents:
+a) Expulsió de la professió.b) Inhabilitació professional durant un període no superior a cinc anys.c) Multa no inferior a 5.001 euros i no superior a 50.000 euros.
+2. Les infraccions greus poden ser objecte de les sancions següents:
+a) Inhabilitació professional durant un període no superior a un any.b) Multa no inferior a 1.001 euros i no superior a 5.000 euros.
+3. Les infraccions lleus poden ser objecte de les sancions següents:
+a) Amonestació escrita.b) Multa no superior a 1.000 euros.
+4. Les sancions d’expulsió de la professió, d’inhabilitació professional i d’amonestació escrita, com a conseqüència d’una mateixa infracció, són compatibles amb la sanció de multa.
+5. En el cas d’infraccions molt greus i greus també es pot imposar, com a sanció complementària, l’obligació de realitzar activitats de formació professional o deontològica, quan la infracció s’hagi produït a causa de l’incompliment dels deures que afectin la deontologia professional.
+6. Si qui ha comès la infracció n’ha obtingut un guany econòmic, la sanció de multa es pot ampliar fins a l’import del profit obtingut.
+7. Les sancions només són executives quan la resolució que les imposa sigui ferma, pel fet de no ser susceptible de recurs administratiu o jurisdiccional.
 
 **Article 28. Inhabilitació professional i expulsió**
 
-$42
+1. La sanció d’inhabilitació professional impedeix l’exercici professional durant el temps per al qual ha estat imposada.
+En el cas d’inhabilitació professional, la Cambra de Notaris nomena, d’entre els seus membres, un altre notari per gestionar provisionalment la notaria del notari inhabilitat. Durant aquest període de temps no són aplicables, si escau, les disposicions de l’article 6.
+Quan en una mateixa persona concorrin diverses sancions d’inhabilitació successives, el termini establert en cadascuna de les sancions comença a comptar a partir del compliment definitiu de la sanció anterior.
+2. La sanció d’expulsió de la professió impedeix l’exercici professional i concórrer novament a un eventual concurs oposició per a la selecció de notaris mentre la persona sancionada no obté la rehabilitació.
+En el cas d’expulsió de la professió, la Cambra de Notaris adopta les decisions oportunes en relació amb la notaria del notari expulsat. De forma provisional, no són aplicables, si escau, les disposicions de l’article 6.
 
 **Article 29. Graduació de les sancions**
 
@@ -180,7 +270,9 @@ La responsabilitat disciplinària s’extingeix pel compliment de la sanció, la
 
 **Article 34. Funcions**
 
-$44
+1. La Cambra de Notaris té les funcions següents:
+a) Representar de forma exclusiva la professió i defensar els drets i els interessos dels notaris.b) Proposar les normes internes de funcionament i autofinançament, i les normes deontològiques de la professió, i complir-les i fer-les complir un cop aprovades.c) Proposar els barems relatius als honoraris remuneradors i vetllar perquè siguin aplicats.d) Aprovar els acords necessaris per al bon desenvolupament de l’exercici de la professió, i vetllar perquè siguin aplicats.e) Vetllar per tal que els notaris puguin exercir la professió d’acord amb els principis d’autonomia, independència i lliure i lleial competència.f) Organitzar i gestionar els torns necessaris per garantir la cobertura i la continuïtat en l’exercici de les funcions atribuïdes als notaris, en els supòsits d’absència, impossibilitat o vacances.g) Organitzar i dur l’Arxiu General de Protocols.h) Organitzar i dur el Registre de Disposicions de Darrera Voluntat.i) Col·laborar amb el Govern, especialment amb el ministeri competent en matèria de justícia, i amb la resta d’administracions públiques, en les matèries que són de la seva competència.
+2. Les normes i els barems esmentats a les lletres b) i c) de l’apartat anterior queden sotmesos a l’aprovació prèvia del Govern.
 
 #### Capítol segon. Arxiu general de Protocols
 
@@ -190,7 +282,13 @@ El protocol notarial és el conjunt d’instruments, índexs i documentació que
 
 **Article 36. Lliurament i accés**
 
-$46
+1. Els notaris han de lliurar a l’Arxiu General de Protocols tots els protocols en el termini màxim d’un mes des de la supressió de la seva notaria.
+2. Els notaris han de lliurar a l’Arxiu General de Protocols els seus protocols o els protocols que hagin rebut d’un notari que els ha precedit i que datin de més de vint-i-cinc anys durant el mes de gener de cada any. No obstant això, els notaris poden optar per no lliurar a l’Arxiu General de Protocols els seus protocols que datin de més de vinc-i-cinc anys; en aquest cas, però, han de remetre durant el mes de gener de cada any una certificació en aquest sentit.
+3. Els notaris han de lliurar a l’Arxiu General de Protocols els testaments i els codicils closos que datin de més de vint-i-cinc anys i que no hagin estat oberts durant el mes de gener de cada any. Després de ser oberts, però, s’incorporen immediatament al protocol del notari que n’autoritzi l’obertura.
+4. Els notaris també han de lliurar els protocols esmentats als apartats anteriors indexats i digitalitzats degudament, gratuïtament i a càrrec seu exclusivament, en un format compatible amb el de l’Arxiu General de Protocols, de manera que la integració corresponent no comporti cap despesa d’adaptació per al Govern, o, si així ho decideix el Govern, d’acord amb els programes informàtics que determini el ministeri competent en matèria de justícia, amb l’informe previ de la Cambra de Notaris. A més, els protocols esmentats han de complir els requeriments tècnics exigits en el Pla director de preservació dels objectes digitals del Govern i els que s’implementin per altres normes tècniques, i la documentació electrònica notarial ha de complir els requisits d’interoperabilitat descrits en la Llei 10/2019, del 15 de febrer, de modificació del Codi de l’Administració, del 29 de març de 1989.
+5. Els protocols lliurats a l’Arxiu General de Protocols s’han de fer constar en una acta que n’expressi el nombre, i el número, la data i els folis de cada protocol, i on ha de constar la signatura, el signe i el segell del notari que efectua el lliurament i del president de la Cambra de Notaris. Aquesta acta roman dipositada a l’arxiu de la Cambra de Notaris.
+6. Els notaris poden sol·licitar i obtenir si escau l’autorització de la Cambra de Notaris a l’efecte de dipositar part dels seus protocols als locals de l’Arxiu General de Protocols, malgrat que no tinguin encara l’obligació de lliurar-los.
+7. Els notaris tenen accés a l’Arxiu General de Protocols a l’efecte de poder extreure còpies dels protocols que s’hi troben dipositats.
 
 **Article 37. Despeses**
 
@@ -245,15 +343,27 @@ Les disposicions de darrera voluntat es regeixen, quant a la forma i els requisi
 
 **Article 46. Requisits**
 
-$48
+1. Els instruments públics han d’incloure el segell i la rúbrica del notari que els autoritza, i porten al final la seva signatura, el seu signe i el seu segell.
+2. Els instruments públics es poden escriure a mà, a màquina o amb qualsevol altre mitjà de reproducció que n’asseguri la indelebilitat.
+3. Els instruments públics s’escriuen de forma llegible i clara, sense espais en blanc ni intervals i inutilitzant línies o parts de línia que no estiguin escrites, així com el revers de cadascun dels fulls quan s’escriguin en una sola cara.
+4. En l’instrument públic no s’hi poden passar ratlles, ni fer-hi raspadures o esborraments, ni cap altra alteració. Les sumes, els imports i les dates, quan afectin directament el contingut de l’instrument públic, han d’expressar-se com a mínim en lletres. Es prohibeix la sobrecàrrega, l’interlineat i l’addició de mots dins el cos de l’instrument públic.
+5. Els afegits i les correccions es fan al marge o es traslladen al final de l’instrument públic i se salven amb la signatura de les persones compareixents i del notari. Els mots que han de suprimir-se s’assenyalen de forma que siguin llegibles.
+6. Els instruments públics reserven, al costat esquerre de les planes senars i al costat dret de les planes parelles, un marge d’una quarta part de l’amplada del paper, que ha de ser de 29,6 centímetres de llargada i de 21 centímetres d’amplada (DIN A4). Al costat contrari i a les parts superior i inferior de les planes es guarda un marge aproximat equivalent a 1/8 de l’amplada de paper.
+7. La Cambra de Notaris estableix per a tots els notaris un tipus de paper d’ús exclusivament notarial que tingui les característiques i les qualitats necessàries a l’efecte de garantir la màxima fiabilitat dels instruments públics.
 
 **Article 47. Llengua**
 
-$4a
+1. Els instruments públics es redacten en llengua catalana.
+2. Quan alguna de les persones compareixents no entén la llengua catalana, els notaris poden autoritzar l’instrument públic si coneixen i poden traduir verbalment el contingut de l’instrument públic a la llengua que parla aquesta persona, i fan constar aquest punt i el fet que la persona compareixent l’ha trobat conforme amb la seva voluntat.
+3. Si els notaris no coneixen la llengua que parla la persona compareixent, o si aquesta persona sol·licita la traducció escrita del contingut de l’instrument públic en una llengua que no sigui la llengua catalana, l’autorització requereix l’assistència d’un traductor o un intèrpret jurat, el qual fa la traducció escrita que s’incorpora necessàriament a l’instrument públic.
+4. Quan no hi hagi un traductor o un intèrpret jurat acreditat a Andorra o quan el traductor o l’intèrpret jurat no estigui disponible, pot ser substituït per la persona designada per la persona compareixent que sol·licita la traducció, sota la seva responsabilitat exclusiva. En aquest cas, els notaris ho fan constar a l’instrument públic, que el traductor signa juntament amb les persones compareixents.
 
 **Article 48. Testimonis**
 
-$4c
+1. Els notaris poden autoritzar els instruments públics sense necessitat de testimonis instrumentals, llevat que una disposició normativa ho prevegi específicament o que ho demani com a mínim una de les persones atorgants.
+2. No poden ser testimonis les persones en què concorre alguna de les circumstàncies següents:
+a) Tenir una relació de matrimoni o una situació de convivència anàloga, o un parentiu en línia recta, o en línia col·lateral per consanguinitat o adopció fins al quart grau inclòs o per afinitat fins al segon grau inclòs, amb qualsevol de les persones atorgants de l’instrument públic o amb el notari que l’autoritza.b) Ser la persona atorgant de l’instrument públic una societat mercantil en què el testimoni, el seu cònjuge, la persona amb qui mantingui una situació de convivència anàloga o un parent en línia recta, o en línia col·lateral per consanguinitat o adopció fins al quart grau inclòs o per afinitat fins al segon grau inclòs, tingui una participació superior al 20% del capital social, tingui la condició d’administrador únic, conjunt, mancomunat o solidari, o participi en l’òrgan d’administració i en disposi de més del 20% dels drets de vot.c) Ser o haver estat tutor, advocat o procurador de qualsevol de les persones atorgants de l’instrument públic o del notari que l’autoritza, en els darrers tres anys.d) Tenir o haver tingut una relació de dependència, societària o d’interessos amb qualsevol de les persones atorgants de l’instrument públic o amb el notari que l’autoritza, en els darrers tres anys.e) Tenir processos pendents amb qualsevol de les persones atorgants de l’instrument públic o amb el notari que l’autoritza.f) Tenir un interès directe o indirecte en l’objecte de l’instrument públic.g) Tenir una amistat íntima o una enemistat manifesta amb qualsevol de les persones atorgants de l’instrument públic o amb el notari que l’autoritza.h) Haver estat condemnat per una sentència penal ferma per la comissió d’un delicte contra la seguretat en el tràfic jurídic o un delicte de testimoniatge, dictamen o traducció falsos.
+3. En cas que intervinguin testimonis, signen juntament amb les persones compareixents l’instrument públic, i també salven amb la seva signatura els afegits i les correccions que s’hi facin. A més, els testimonis han de ser presents a l’atorgament de l’escriptura pública.
 
 **Article 49. Infracció dels requisits**
 
@@ -262,7 +372,14 @@ $4c
 
 **Article 50. Esmenes i modificacions**
 
-$4e
+1. Els errors materials, les omissions i els defectes de forma dels instruments públics inter vivos poden ser esmenats pels notaris que els han autoritzat, els seus substituts o els seus successors, d’ofici o a instància de la persona atorgant que els ha ocasionat o a la qual perjudiquen.
+No obstant això, la manca d’expressió en els instruments públics del judici d’identitat o de capacitat o d’altres aspectes de la seva pròpia activitat en l’autorització només pot ser esmenada pel notari que els ha autoritzat.
+2. Per realitzar l’esmena es té en compte el context en el qual s’han autoritzat els instruments públics, i si escau el context dels instruments públics immediatament anteriors i posteriors, les escriptures públiques i els altres instruments públics que es van tenir en compte per a l’autorització, i els documents que acreditin fefaentment fets o actes consignats en els instruments públics que s’han d’esmenar.
+Els notaris que han autoritzat els instruments públics que s’han d’esmenar també poden tenir en compte els judicis per ells formulats i els fets per ells percebuts en el moment de l’atorgament d’aquests instruments.
+3. L’esmena es pot fer mitjançant diligència en la mateixa escriptura matriu o mitjançant una acta notarial, en què es fa constar l’error material, l’omissió o el defecte de forma, la seva causa i la declaració que els esmeni.
+4. La diligència d’esmena feta abans del lliurament de les còpies no hi ha de ser traslladada i és suficient transcriure-la a l’escriptura matriu d’acord amb la redacció esmenada. En cas que l’esmena es faci mitjançant una acta notarial es deixa constància del seu atorgament a l’escriptura matriu i a les còpies lliurades amb anterioritat i que s’exhibeixin als notaris.
+5. Quan sigui impossible fer l’esmena d’acord amb el que estableixen els apartats 3 i 4 d’aquest article, cal el consentiment de les persones atorgants o l’existència d’una resolució judicial ferma a aquest efecte.
+6. El contingut dels instruments públics només es pot modificar en virtut d’un altre instrument públic autoritzat per un notari en exercici al Principat d’Andorra.
 
 #### Capítol segon. Les escriptures públiques
 
@@ -272,11 +389,19 @@ Les escriptures públiques es redacten de manera que quedin perfectament diferen
 
 **Article 52. Requisits**
 
-$50
+1. En la compareixença de les escriptures públiques s’ha d’indicar:
+a) El número de protocol.b) El lloc de l’atorgament.c) El dia, el mes i l’any de l’atorgament, i també l’hora de l’atorgament quan es tracta de testaments o codicils, quan una disposició normativa ho exigeixi o quan almenys una de les persones atorgants o compareixents ho demani.d) El nom i els cognoms del notari que l’autoritza i la menció segons la qual actua en substitució, si escau.e) El nom i els cognoms, la data de naixement, la nacionalitat, el número del passaport o del document nacional d’identitat, el lloc de residència i el domicili, l’estat civil i, si escau, el règim matrimonial de les persones compareixents.Quan es tracta d’autoritats o de funcionaris públics que intervinguin en l’exercici del seu càrrec o de la seva funció, n’hi ha prou amb la indicació del nom i els cognoms i del càrrec o la funció.f) El nom i els cognoms, la data de naixement, la nacionalitat, el número del passaport o del document nacional d’identitat, el lloc de residència i el domicili, l’estat civil i, si escau, el règim matrimonial dels atorgants que siguin persones físiques.No obstant això, si els poders exhibits al notari que ha d’autoritzar l’escriptura pública no proporcionen totes les dades requerides per identificar la persona representada, el notari pot autoritzar-la si al seu judici són suficients per acreditar la identitat d’aquesta persona i per qualificar la capacitat legal necessària per atorgar l’escriptura.g) La denominació, les dades de constitució i registrals que acreditin la personalitat i el domicili dels atorgants que siguin persones jurídiques.h) El nom i els cognoms, la data de naixement, la nacionalitat i el número de passaport o del document nacional d’identitat dels testimonis, si escau.i) La fe de la coneixença personal de les persones compareixents i els testimonis per part dels notaris o, si no els coneixen personalment, la constància que els han identificat degudament i per quin mitjà ho han fet.j) L’afirmació que a judici dels notaris les persones atorgants tenen la capacitat legal necessària per a l’atorgament que es pretén autoritzar.
+2. Quan es tracta de menors emancipats, es consigna expressament aquesta circumstància i la seva causa en la compareixença de les escriptures públiques.
+3. Quan una disposició normativa exigeixi una edat especial per a l’atorgament, també es consigna expressament aquesta circumstància en la compareixença de les escriptures públiques.
 
 **Article 53. Representació**
 
-$52
+1. La intervenció de les persones atorgants s’expressa en la compareixença de les escriptures públiques indicant si ho fan en nom propi o en representació d’altres persones físiques o jurídiques.
+2. La representació legal s’ha de fer constar però no és necessari justificar-la si consta als notaris per notorietat.
+3. La representació voluntària s’ha d’acreditar en el mateix acte de l’atorgament o, amb la conformitat de les altres persones atorgants, en un moment posterior.
+En aquest darrer cas, l’acreditació es fa constar mitjançant diligència a l’escriptura matriu i els notaris adverteixen a les persones atorgants que l’eficàcia de l’acte queda condicionada a l’acreditació de la representació voluntària, ressenyen aquesta advertència a l’escriptura pública i s’han d’abstenir de lliurar còpies fins que els hagi estat acreditat aquest requisit, excepte que concorri una causa justificada i apreciada lliurement pel notari que ha autoritzat l’escriptura pública.
+4. La representació s’acredita inserint mitjançant transcripció a l’escriptura pública el contingut dels documents acreditatius presentats pel representant, o protocol·litzant amb l’escriptura aquests documents en original, còpia autèntica o testimoni.
+En el primer cas, n’hi ha prou d’inserir i transcriure el contingut necessari i oportú dels documents acreditatius presentats, però els notaris s’han d’assegurar que en la part omesa no hi hagi cap menció o circumstància que restringeixi, modifiqui o condicioni la part transcrita.
 
 **Article 54. Atorgants estrangers i documents atorgats a l’estranger**
 
@@ -361,11 +486,22 @@ Les actes de protocol·lització consignen les dades suficients per identificar 
 
 **Article 70. Còpies, certificats i testimonis**
 
-$54
+1. Les còpies reprodueixen literalment i totalment o parcialment, l’original d’un instrument públic.
+2. Les còpies autèntiques tenen la mateixa consideració que l’instrument públic que reprodueixen, amb tots els efectes que se’n deriven. Les còpies simples només informen de l’existència d’un instrument públic i no donen fe del seu contingut, i són lliurades només a efectes d’informació.
+3. Els notaris poden lliurar còpies parcials i certificats de fets consignats en un instrument públic.
+4. Els notaris també poden lliurar testimonis de tota classe de documents, certificar-ne l’existència i autentificar fotocòpies o altres reproduccions gràfiques de naturalesa similar.
+5. Els testimonis tenen per objecte l’afirmació d’un fet produït o l’expressió d’un judici juridicotècnic del notari, i s’autoritzen en els supòsits següents:
+a) El testimoni per exhibició de documents, que té com a finalitat reproduir de forma autèntica els documents originals que s’exhibeixen al notari o donar fe de la coincidència dels suports gràfics que se’ls lliuren amb la realitat que observen. No implica el judici del notari sobre l’autenticitat o l’autoria del document i es pot utilitzar també per donar fe de la presència d’una persona davant el notari.b) El testimoni de vigència de les lleis, amb l’objectiu d’acreditar a l’estranger la legislació vigent a Andorra o l’estatut personal de la persona requeridora del testimoni.c) El testimoni de legitimació de signatura, a fi d’acreditar que una signatura ha estat posada en presència del notari, o el judici del notari sobre el fet que la signatura pertany a una persona determinada.
 
 **Article 71. Exhibició i lliurament de còpies i certificats**
 
-$56
+1. Només tenen dret que se’ls exhibeixin els instruments públics originals o a obtenir-ne còpies i certificats les persones atorgants, les persones compareixents, les persones que tenen un interès legítim en relació amb l’instrument públic a judici del notari, i els causahavents dels uns i els altres.
+Els notaris no poden exhibir els instruments públics originals ni lliurar-ne còpies i certificats a cap altra persona, llevat de manament judicial o autorització legal expressa.
+2. No obstant el que preveu l’apartat anterior, en vida de les persones atorgants els notaris no poden lliurar còpies autèntiques dels testaments. Només poden lliurar-ne una còpia simple a la persona atorgant o a la persona acreditada amb un poder notarial especial a aquest efecte.
+Un cop morta la persona atorgant d’un testament, tenen dret que se’ls exhibeixi o a obtenir-ne còpies i certificats els hereus instituïts en el testament; els legataris; els marmessors; els comptadors partidors; les altres persones en relació amb les quals es consignin drets o facultats en virtut del testament, i les persones que en cas de no existir el testament o ser declarat nul, serien cridades en tot o en part a l’herència del causant en virtut d’un testament anterior o de les normes de la successió intestada.
+3. Les còpies d’un instrument públic només les poden lliurar els notaris que tenen al seu càrrec el protocol on es troba l’instrument. Tanmateix, tots els notaris en exercici al Principat d’Andorra poden lliurar còpies dels protocols que es troben a l’Arxiu General de Protocols.
+4. Els notaris fan constar, mitjançant una nota marginal damunt de l’original o la matriu de l’instrument públic o en una base de dades separada, les còpies que lliuren d’aquest instrument.
+5. Els notaris poden lliurar les còpies en format paper o, a sol·licitud de la persona interessada, en format digital mitjançant correu electrònic o mitjançant qualsevol altre suport informàtic.
 
 **Article 72. Recurs**
 
@@ -379,4 +515,9 @@ Al final o al marge de l’escriptura matriu, els notaris fan constar mitjançan
 
 **Article 74. Comunicació i inscripció**
 
-$5a
+1. Els notaris que autoritzen les escriptures públiques assenyalades a l’article 73 ho comuniquen per escrit o per via telemàtica i en el termini màxim dels tres dies hàbils següents al dia de l’atorgament, al notari el protocol del qual guardi l’escriptura matriu o a l’Arxiu General de Protocols, segons el cas.
+2. El notari el protocol del qual guardi l’escriptura matriu o la Cambra de Notaris, en el mateix termini màxim de tres dies hàbils a comptar de la recepció de la comunicació, estén una nota marginal que indica la data de l’atorgament de l’escriptura pública subsegüent, el notari que l’ha autoritzat i la identificació del seu protocol.
+3. Encara que físicament no s’incorporin al final o al marge de l’escriptura matriu, s’entén que els notaris compleixen l’obligació establerta a l’apartat 1 d’aquest article si utilitzen programes o bases de dades informàtics vinculats als que empra el notari el protocol del qual guarda l’escriptura matriu, o apliquen procediments telemàtics que siguin compatibles amb els de l’Arxiu General de Protocols, o, si així ho decideix el Govern, que hagin estat homologats pel ministeri competent en matèria de justícia, amb l’informe previ de la Cambra de Notaris.
+4. Les sol·licituds d’informació i les respostes en relació amb les notes marginals cursades entre els notaris, i entre aquests darrers i l’Arxiu General de Protocols, també es poden realitzar per via telemàtica.
+5. La incorporació de les notes marginals als protocols de cada notari o als protocols de l’Arxiu General de Protocols és responsabilitat exclusiva dels notaris.
+6. Els notaris poden tenir per no rebudes, sense que això afecti la seva responsabilitat, les sol·licituds d’anotació preventiva de qualsevol classe quan no provinguin dels batlles o els tribunals andorrans.

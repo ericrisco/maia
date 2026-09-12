@@ -190,6 +190,67 @@ sense via per aquest camí.**
 
 ---
 
+## `lleis/` — la legislació andorrana vigent
+
+**Cent quatre normes en text consolidat**, baixades el **2026-09-12** de
+**[Jurisprudència.ad](https://jurisprudencia.ad/lleis-andorra)**. De la
+**Constitució de 1993** a la **Llei 2/2026**.
+
+- **Fitxa de font del corpus:** [`jurisprudencia-ad`](../fonts/jurisprudencia-ad.md).
+- **Redistribució: sí**, i és l'única carpeta d'aquest `raw/` que ho té clar. El
+  text normatiu és **norma oficial andorrana**, pública per naturalesa; el que hi
+  afegeix la font és **la consolidació**, i aquesta feina és del responsable del
+  projecte.
+- **Capçalera de cada fitxer:** títol, URL d'origen, nombre d'articles, nombre de
+  versions consolidades i **data i hora de la instantània**.
+
+| | |
+| --- | --- |
+| Fitxers | **104** |
+| Articles declarats | **8.956** |
+| Lleis qualificades | **17** |
+| Instantània | **2026-09-12** |
+
+### L'avís que ha d'anar amb aquesta carpeta
+
+**Una instantània no és la llei.** La llei canvia i la foto no. Cap afirmació
+sobre dret vigent es resol contra aquests fitxers: es resol **contra la font**.
+El corpus cita **l'article i la data de la foto**.
+
+### El defecte de l'extracció, i com es va tancar
+
+**La primera baixada va sortir un terç buida i no ho semblava.** 2.966 dels
+8.956 articles van quedar amb el cos substituït per un marcador de la forma
+`$1e`, `$20`, `$28`: capçalera de l'article intacta, text desaparegut. Només
+**dos fitxers dels 104** en sortien nets. Els més afectats eren
+`codi-procediment-civil` (137 articles), `organitzacio-entitats-financeres`
+(105) i `seguretat-social` (97); la **Constitució** en tenia **cinc** —els
+articles **45, 46, 56, 68 i 80**, l'últim el que delimita els Comuns.
+
+**La causa era de la baixada, no de la font.** El lector llegia les
+continuacions de text de la pàgina buscant-les després d'un salt de línia, i la
+font no sempre n'hi posa: quan una continuació anava enganxada al final de
+l'anterior, se la saltava.
+
+**Reextret el 2026-09-12** amb el lector corregit:
+
+| | Primera passada | Ara |
+| --- | --- | --- |
+| Normes | 104 | **104** |
+| Articles amb cos | 5.990 | **8.956** |
+| Marcadors sense resoldre | 2.966 | **0** |
+| Mida | 3,9 MB | **11 MB** |
+
+**Buit tancat.** Queda escrit perquè és un error que no crida l'atenció: un
+corpus amb un terç dels articles buits té la mida, els títols i la numeració
+correctes, i s'indexa com un corpus sencer.
+
+L'**índex complet de les 104 normes**, amb el repartiment per branques i els
+articles i versions de cadascuna, és a
+**[`lleis/README.md`](lleis/README.md)**.
+
+---
+
 ## `llibres/` — obres impreses
 
 | Fitxer | Què és | Estat de la procedència |
@@ -266,6 +327,7 @@ com està**: són material de cerca, no fonts.
 
 | Carpeta | Procedència completa? |
 | --- | --- |
+| `lleis/` | **sí** — font, URL, llicència, redistribució i instantània datada; contingut complet i verificat |
 | `sac-diades/` | **sí** — institució, llicència, handle i patró d'URL |
 | `llibres/` | **no** — falta l'URL de les quatre obres |
 | `academic/` | **no** — falta l'URL de les sis |
@@ -274,5 +336,5 @@ com està**: són material de cerca, no fonts.
 
 **Aquest quadre és, ell mateix, la llista de feina.** La regla del projecte
 demana **registrar la procedència i els termes d'ús de cada font abans que
-entri en un conjunt d'entrenament**, i ara mateix **només `sac-diades/` hi
-compleix**.
+entri en un conjunt d'entrenament**, i ara mateix **només `lleis/` i
+`sac-diades/` hi compleixen**.

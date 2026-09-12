@@ -23,15 +23,25 @@ Les disposicions d’aquesta Llei vinculen qualsevol persona física o jurídica
 
 **Article 4. Competències**
 
-$1f
+1. Correspon al Govern, dins de l’àmbit de les seves competències:
+a) Desplegar i executar aquesta Llei i la normativa sectorial relacionada amb l’accessibilitat.b) Impulsar les actuacions i les estratègies que garanteixin l’assoliment dels objectius d’aquesta Llei i la normativa que la desenvolupi o concordant, incloent-hi mecanismes de suport tècnic i econòmic a les entitats públiques i privades implicades.c) Exercir la inspecció i la potestat sancionadora en el marc de les seves competències.d) Supervisar i garantir l’accessibilitat en els permisos urbanístics i les llicències d’obres majors, amb l’objectiu d’assegurar que totes les noves construccions i reformes compleixin la normativa vigent en matèria d’accessibilitat.e) Fomentar la coordinació amb altres administracions públiques, especialment amb els comuns, i amb els sectors socials i econòmics, per assegurar una implementació integrada i efectiva de les mesures d’accessibilitat.f) Promoure la sensibilització i la formació en matèria d’accessibilitat universal, adreçada tant a la ciutadania com als professionals responsables del disseny, l’execució i la gestió dels espais, serveis i productes accessibles.
+2. Correspon als comuns, dins de l’àmbit de les seves competències:
+a) Planificar, dissenyar i executar les actuacions d’accessibilitat en els espais i les infraestructures del seu àmbit territorial.b) Supervisar i garantir l’accessibilitat en els permisos urbanístics i les llicències d’obres menors.c) Vetllar per l’accessibilitat en la prestació de serveis comunals, incloent-hi transport públic local, activitats culturals i lúdiques, serveis d’atenció ciutadana i altres iniciatives promogudes pel comú.d) Col·laborar amb el Govern en la implementació de polítiques, estratègies i programes d’accessibilitat, proporcionant informació, suport tècnic i recursos per garantir-ne una aplicació efectiva a la parròquia.
 
 **Article 5. Principis generals**
 
-$21
+Aquesta Llei es regeix pels següents principis:
+a) Accessibilitat universal: els entorns i els serveis han de permetre l’autonomia de les persones, assegurant que puguin accedir-hi i utilitzar-los sense necessitat de l’ajuda d’altres.b) Disseny universal: els entorns, els productes i els serveis han de ser accessibles i utilitzables per totes les persones, sense necessitat d’adaptacions particulars.c) Igualtat d’oportunitats: s’assegura que totes les persones, independentment de la seva capacitat o altres circumstàncies, tinguin el mateix accés als serveis, els entorns, les tecnologies, la informació i les comunicacions. Això inclou la identificació i l’eliminació d’obstacles i barreres d’accés i d’interacció.d) No-discriminació: és l’absència de tota discriminació, directa o indirecta, per a l’accés a l’entorn físic, el transport, la informació i les comunicacions, entre altres àmbits, inclosos els sistemes i les tecnologies de la informació i les comunicacions, i als serveis i les instal·lacions oberts al públic o d’ús públic.e) Autonomia personal: implica que tots els entorns, els productes i els serveis han d’estar dissenyats perquè qualsevol persona, independentment de la seva condició, pugui accedir-hi i utilitzar-los de manera autònoma.f) Normalització: les solucions accessibles han de ser integrades de manera normalitzada, per tal que no es percebin com a excepcions, sinó com una part essencial del disseny.g) Ajustos raonables: són les mesures d’adequació física, social i actitudinal que, d’una manera eficaç i pràctica, i sense que comportin una càrrega desproporcionada, faciliten l’accessibilitat i la participació de qualsevol persona en igualtat de condicions.h) Proporcionalitat: es garanteix que es facin ajustos raonables per permetre l’accés a entorns, productes i serveis, sense que això suposi una càrrega desproporcionada, atenent els criteris següents:i. Els efectes discriminatoris que comportaria per a les persones amb discapacitat que la mesura no es dugués a terme.ii. Les característiques de la persona, l’entitat o l’organització que ha de dur a terme la mesura.iii. El cost d’incorporar la mesura.iv. La possibilitat d’obtenir finançament públic o altres ajuts.i) Participació i inclusió: l’accessibilitat és una de les eines per garantir que totes les persones puguin participar de manera efectiva en la societat, eliminant les barreres que dificulten aquesta participació.j) Seguretat i usabilitat: els entorns i els productes accessibles han de ser segurs i fàcils d’utilitzar per tothom.k) Perspectiva de gènere: totes les actuacions relatives a l’accessibilitat han de tenir en compte i integrar les qüestions de gènere, que inclouen activitats específiques en l’àmbit de la igualtat i l’acció positiva davant de posicions de desavantatge.l) Transversalitat: l’accessibilitat ha d’estar present en totes les polítiques públiques, incloent-hi àrees com la justícia, l’educació, la sanitat, el transport i les tecnologies.m) Innovació: la recerca i el desenvolupament de nous materials, dissenys i tecnologies han de contribuir a millorar la qualitat de vida de totes les persones.
 
 **Article 6. Avaluació de solucions alternatives a l’accessibilitat**
 
-$23
+1. Si es donen circumstàncies específiques que no permeten que un espai, un servei o un local pugui assolir el compliment de la normativa d’accessibilitat sense requerir mitjans tècnics o econòmics que comportin una càrrega desproporcionada, de conformitat amb l’apartat 4, s’han de plantejar solucions alternatives, sempre que siguin viables, per garantir que l’espai, el servei o el local sigui practicable, d’acord amb els principis d’ajustos raonables i proporcionalitat.
+2. L’entitat pública o privada que proposi la solució alternativa ha de trametre al ministeri competent en matèria d’accessibilitat un informe tècnic on es justifiquin degudament les limitacions i els requeriments desproporcionats en relació amb els requisits d’accessibilitat, l’anàlisi econòmica detallada, la proposta de solució alternativa que se sol·licita admetre en el seu lloc i l’avaluació de l’impacte. En qualsevol cas, el ministeri competent en matèria d’accessibilitat pot elevar la proposta a la Comissió per al Foment de l’Accessibilitat.
+3. El Govern ha de definir per via reglamentària el procediment d’avaluació i admissió de les solucions alternatives.
+4. Per avaluar la proporcionalitat, s’han de tenir en compte especialment els factors següents:
+a) Quant a la proporcionalitat dels mitjans econòmics:i. Cost de l’adaptació en relació amb el pressupost o ingressos anuals: El cost total estimat de les obres o les actuacions per millorar l’accessibilitat s’ha d’avaluar en relació amb els beneficis anuals de l’entitat o, en el cas de persones físiques, amb els beneficis anuals derivats de l’exercici de la seva activitat. Es considera llindar orientatiu de càrrega desproporcionada quan aquest cost representi, almenys, el 10% dels ingressos sempre que representi més del 30% dels beneficis anuals.ii. Cost de l’adaptació en relació amb el valor de l’immoble o la instal·lació: El cost total estimat de les obres i les mesures d’accessibilitat s’ha de comparar amb el valor taxat de l’immoble o la instal·lació objecte d’intervenció. Es considera llindar orientatiu de càrrega desproporcionada quan aquest cost representi, almenys, el 20 % del valor taxat de l’immoble o la instal·lació. Aquests criteris s’han de ponderar en funció de la disponibilitat de finançament extern, i de l’impacte social i d’ús de l’adaptació, d’acord amb el nombre potencial de beneficiaris, el caràcter del servei i la gravetat de la barrera, entre altres extrems.b) Quant a la proporcionalitat dels mitjans tècnics: S’ha de valorar l’existència d’elements patrimonials o estructurals que impedeixin les intervencions, el grau de dificultat per integrar l’adaptació sense comprometre la seguretat, l’estanquitat o l’estabilitat de l’immoble, de manera que s’ha de tenir en compte la compatibilitat constructiva i la complexitat de l’obra.
+En el cas d’obres que impliquin adaptacions d’accessibilitat que per la seva naturalesa i les característiques de l’edificació existent no disposin de l’espai suficient per realitzar aquestes obres d’accessibilitat, l’administració competent pot permetre que els elements estructurals ocupin espai públic de forma definitiva, amb un permís d’obres menors.
+5. En aquells casos en què també resulti inviable proposar solucions alternatives, no és necessari presentar-ne cap. Aquesta impossibilitat ha de ser degudament justificada mitjançant l’informe tècnic corresponent, de conformitat amb els criteris establerts a l’apartat 2.
 
 #### Capítol segon. Entorns de l’accessibilitat
 
@@ -39,17 +49,27 @@ $23
 
 **Article 7. Condicions d’accessibilitat dels entorns naturals d’ús públic**
 
-$25
+1. Als entorns naturals concebuts específicament per a l’ús públic que disposin d’accessos rodats on es duguin a terme activitats recreatives, culturals, educatives o d’esbarjo, fins al límit de l’accés rodat, s’han de complir les condicions d’accessibilitat en aquells espais, àmbits o elements, tals com els accessos, els aparcaments, els centres d’informació i interpretació, els materials orientatius i informatius i els elements de senyalització, les edificacions o les construccions de concurrència pública, els lavabos i les àrees higièniques i sanitàries, les fonts d’aigua potable i altres de naturalesa anàloga, en els casos i de la forma que siguin tècnicament possibles, garantint el respecte i la preservació del medi ambient.
+2. Quan l’adaptació d’aquests entorns requereixi mitjans tècnics o econòmics que suposin una càrrega desproporcionada o per raons justificades de preservació del medi natural, es poden plantejar solucions alternatives, que han de disposar d’un informe favorable vinculant del ministeri responsable del medi ambient i del ministeri competent en matèria d’accessibilitat i s’han d’elevar a la Comissió per al Foment de l’Accessibilitat, d’acord amb el que preveu l’article 6.2.
+3. Les entitats públiques o privades encarregades de la gestió dels entorns naturals d’ús públic existents que compleixin els requisits de l’apartat 1, han d’elaborar el pla d’accessibilitat en els termes previstos a l’article 36.
 
 ##### Secció segona. Accessibilitat a l’entorn urbanitzat
 
 **Article 8. Condicions generals d’accessibilitat dels entorns urbanitzats d’ús públic**
 
-$27
+1. Els entorns urbanitzats d’ús públic han de ser dissenyats, construïts, mantinguts i gestionats d’acord amb el principi de disseny universal i amb perspectiva de gènere. Els elements d’urbanització, el mobiliari urbà i les infraestructures han d’assegurar la seva utilització segura i autònoma.
+2. Les actuacions en els entorns urbanitzats han d’assegurar itineraris de vianants accessibles, lliures d’obstacles, amb paviments antilliscants i amb senyalitzacions tàctils i visuals, d’acord amb el que estableix aquesta Llei i el reglament que la desenvolupi, que connectin de manera segura i contínua els espais d’ús públic. Quan sigui possible, els itineraris de vianants s’han de fer coincidir amb les rutes escolars segures, les quals han d’adaptar-se per complir els requisits d’accessibilitat.
+3. Per al disseny i la planificació d’aquests entorns, els comuns poden sol·licitar l’assessorament de la Comissió per al Foment de l’Accessibilitat, amb l’objectiu de garantir l’adequació tècnica i el compliment dels criteris d’accessibilitat universal.
 
 **Article 9. Condicions d’accessibilitat dels entorns urbanitzats d’ús públic de nova construcció**
 
-$29
+1. Els entorns urbanitzats d’ús públic de nova construcció pública o privada, sigui quin sigui el seu ús, han de complir les condicions d’accessibilitat establertes en aquesta Llei i en els reglaments que la desenvolupin, respecte d’aquells entorns, àmbits, espais o de les seves parts o elements.
+2. Els entorns urbanitzats d’ús públic de construcció posterior a l’aprovació de la present Llei i els equipaments que s’hi instal·lin han de ser projectats i construïts de forma que siguin accessibles per a totes les persones, tant en els aspectes físics, incloent-hi portes, passadissos, ascensors, lavabos i altres elements que han de complir les dimensions i les característiques de conformitat amb el que preveu el reglament, així com en els mitjans de senyalització, d’informació o de comunicació.
+3. En les zones destinades a l’estacionament o aparcament s’ha de reservar amb caràcter permanent, i tan a prop com sigui possible dels accessos de vianants accessibles, places suficients per a vehicles acreditats que transportin persones amb mobilitat reduïda, degudament senyalitzades. El Govern ha de determinar reglamentàriament el percentatge d’aquestes places referents als pàrquings públics i als edificis de nova construcció.
+4. Els criteris bàsics d’accessibilitat als entorns urbanitzats d’ús públic determinats en aquesta Llei i en els reglaments de desplegament s’han de tenir en consideració en els projectes d’interès nacional i en els plans sectorials, en el planejament general i en el planejament derivat.
+5. Qualsevol tipus d’intervenció o obra a la via pública ha de ser senyalitzada de manera clara i accessible, de conformitat amb el que preveu aquesta Llei i els seus reglaments. Especialment, s’han d’adoptar mecanismes efectius per permetre la detecció fàcil d’obstacles i s’han de garantir alternatives segures i accessibles que no impliquin dificultats addicionals.
+6. Si es donen circumstàncies específiques que no permeten que un espai pugui assolir el compliment de la normativa d’accessibilitat sense requerir mitjans tècnics o econòmics que comportin una càrrega desproporcionada, es poden plantejar solucions alternatives d’acord amb l’article 6.
+7. El Govern ha de regular l’accessibilitat en la projecció i l’execució d’itineraris de vianants de nova planta per via reglamentària.
 
 **Article 10. Condicions d’accessibilitat dels entorns urbanitzats d’ús públic existents**
 
@@ -84,11 +104,23 @@ $29
 
 **Article 15. Condicions d’accessibilitat dels edificis d’habitatges i habitatges existents**
 
-$2b
+1. Les actuacions d’ampliació, reforma, rehabilitació o canvi d’ús en edificis d’habitatges de titularitat privada que puguin afectar l’accessibilitat o la mobilitat s’han de dur a terme de manera que els itineraris de vianants i els espais d’ús comunitari afectats per l’actuació compleixin les condicions d’accessibilitat incloses al reglament d’accessibilitat. En cap cas aquestes obres no poden menyscabar les condicions d’accessibilitat preexistents.
+2. En cas que es duguin a terme obres d’ampliació, reforma o rehabilitació, quan els elements existents d’ús comunitari requereixin, per assolir la condició d’accessibles, mitjans tècnics o econòmics que suposin una càrrega desproporcionada, se segueix el procediment establert a l’article 6.
+3. La propietat pot exigir a la comunitat de propietaris la realització de les obres necessàries per dotar l’immoble de les instal·lacions, els serveis i les millores que requereixin unes condicions adequades de seguretat, accessibilitat, conservació i habitabilitat, de manera que en tot cas els elements comunitaris de l’immoble reuneixin les condicions degudes segons la seva naturalesa i les seves característiques, d’acord amb la normativa aplicable en matèria de propietat horitzontal i sempre que no suposin una càrrega desproporcionada, pel que respecta als mitjans tècnics, segons els criteris definits a l’article 6.4.
+b
+).
+4. En règim d’arrendament, la persona arrendatària pot sol·licitar a la propietat que demani a la comunitat de propietaris la realització de les obres necessàries per assolir les condicions d’accessibilitat dels elements comunitaris, d’acord amb la normativa aplicable en matèria de propietat horitzontal i sempre que no suposin una càrrega desproporcionada, pel que respecta als mitjans tècnics, segons els criteris definits a l’article 6.4.
+b
+).
+5. En cas que les obres referides als apartats 3 i 4 comportin una càrrega desproporcionada pel que respecta als mitjans tècnics, la comunitat de propietaris ha de proposar ajustaments raonables, de conformitat amb el procediment per al plantejament de solucions alternatives previst a l’article 6.
+6. Les reunions de les comunitats de propietaris han de convocar-se per mitjans accessibles a totes les persones, fer-se en llocs igualment accessibles i senyalitzats amb sistemes de disseny universal i desenvolupar-se amb els mitjans tecnològics o humans necessaris perquè siguin accessibles a totes les persones que hi participin. A aquest efecte, la sol·licitud d’aquests mitjans s’ha de comunicar amb antelació a la presidència o a l’administració de la comunitat.
 
 **Article 16. Edificis d’habitatges i habitatges públics**
 
-$2d
+1. Els edificis d’habitatges de nova construcció que construeixin, promoguin o subvencionin les administracions públiques o les entitats del sector públic i en les promocions d’habitatges d’iniciativa privada que s’acullin a la qualificació d’habitatges públics han de disposar d’itineraris de vianants accessibles que permetin la connexió directa dels elements privatius amb la via pública i amb les dependències d’ús comunitari, d’acord amb les condicions d’accessibilitat establertes en aquesta Llei i els reglaments que la desenvolupin. A més, els equipaments que s’hi instal·lin han de ser projectats i construïts de forma que siguin accessibles per a totes les persones, en els aspectes físics, incloent-hi portes, passadissos, ascensors, lavabos i altres elements, i han de complir les dimensions i característiques de conformitat amb el que preveu el reglament.
+2. Les administracions públiques o entitats del sector públic esmentades en l’apartat 1 han de garantir un percentatge d’habitatges accessibles que en cap cas no pot ser inferior al 2% així com garantir les respectives places d’aparcament sempre que sigui possible.
+3. Les actuacions d’ampliació, reforma o rehabilitació en edificis d’habitatges públics existents s’han de dur a terme de manera que els itineraris de vianants i els espais d’ús comunitari afectats per l’actuació compleixin les condicions d’accessibilitat previstes legalment i reglamentàriament. En cap cas aquestes obres no poden menyscabar les condicions d’accessibilitat preexistents.
+4. Quan els elements existents requereixin, per assolir la condició d’accessibles, mitjans tècnics o econòmics que suposin una càrrega desproporcionada, es poden proposar solucions alteratives d’acord amb l’article 6.
 
 **Article 17. Edificis amb valor historicoartístic**
 
@@ -109,11 +141,17 @@ g
 
 **Article 20. Obres públiques**
 
-$2f
+1. Les obres públiques han de preveure, durant l’execució dels treballs, en cas que afectin l’ús públic, les mesures d’accessibilitat incloses al reglament, que com a mínim han d’incloure:
+a) Elements físics estables i rígids: delimitacions que siguin fàcilment detectables per totes les persones.b) Itineraris lliures d’obstacles: sense elements que sobresurtin, s’enfonsin o impedeixin el pas segur per als vianants.c) Senyalització accessible: una senyalització de disseny universal adequada que delimiti clarament l’àrea d’obres i que inclogui advertències i indicacions de perill perceptibles per tothom. Aquesta senyalització ha de garantir visibilitat suficient, percepció acústica i una il·luminació adequada al llarg de tot el recorregut de l’itinerari alternatiu.
+2. En cas que aquestes mesures requereixin mitjans tècnics o econòmics que suposin una càrrega desproporcionada, l’administració pública competent ha de de proposar una solució alternativa, de conformitat amb l’article 6.
+3. El Govern, en col·laboració amb els comuns, ha d’establir reglamentàriament les característiques de les senyalitzacions per a obres i dels senyals acústics o visuals que corresponguin.
 
 **Article 21. Autoritzacions d’obertura d’establiments comercials o modificació de negoci o d’activitat**
 
-$31
+1. La sol·licitud d’obertura o modificació d’un negoci o d’activitat ha d’anar acompanyada d’un certificat d’accessibilitat que acrediti que l’establiment compleix els requisits d’accessibilitat aplicables, incloent-hi, si escau, les solucions alternatives adoptades, tal com preveu la normativa. No obstant això, no és necessari presentar aquest certificat en els següents casos:
+a) Quan el negoci o l’activitat estigui registrat en el domicili i l’activitat es realitzi íntegrament fora del domicili.b) Quan el negoci o l’activitat estigui registrat al domicili però pel tipus d’activitat exercida, en remot i de forma digital, no es rebi cap client o usuari físicament en el domicili.c) Quan el negoci disposi d’espais on no es rebi cap client ni usuari físicament, pel que respecta a aquests espais.
+2. El ministeri competent en matèria d’accessibilitat ha de verificar el compliment dels requisits abans d’atorgar l’autorització d’obertura o modificació de l’activitat. En cas d’incompliment, es pot requerir l’adequació de l’espai abans de concedir l’autorització.
+3. La Comissió per al Foment de l’Accessibilitat pot demanar, en qualsevol moment, els informes escaients als organismes encarregats de resoldre l’autorització.
 
 ##### Secció cinquena. Accessibilitat en els mitjans de transport
 
@@ -125,7 +163,10 @@ $31
 
 **Article 23. Obligacions dels proveïdors de servei de transport públic**
 
-$33
+1. Els proveïdors de servei de transport públic regular urbà i interurbà de viatgers han de garantir l’accessibilitat en tots els espais i els elements que integren els mitjans de transport, incloent-hi els sistemes d’accés com rampes, espais reservats, i sistemes d’informació i de comunicació amb les persones usuàries, i també dels productes i els serveis d’ús públic que s’ofereixen en aquests espais. Tots aquests elements han d’estar sempre disponibles i en bon ús.
+2. Els proveïdors del servei de transport públic de viatgers han de formar el seu personal en la correcta utilització dels productes o mitjans de suport.
+3. Els proveïdors del servei de transport públic de viatgers han d’elaborar un pla d’accessibilitat, en els termes previstos a l’article 36 en relació amb els vehicles i els equipaments existents.
+4. Els nous vehicles de transport públic de viatgers han d’incorporar sistemes d’accés, senyalització i informació alternativa per a tot tipus de persones usuàries i han de reservar diversos seients o espais prioritaris per a l’accés a persones amb mobilitat reduïda.
 
 **Article 24. Llicències de taxis**
 
@@ -145,11 +186,19 @@ a) Accedir a les àrees d’accés restringit que siguin autoritzades per a aque
 
 **Article 26. Societat de la informació**
 
-$35
+1. La societat de la informació i de les telecomunicacions ha de ser accessible a totes les persones segons el disseny universal.
+2. En l’àmbit de les seves competències i funcions, el Govern ha de desplegar programes adreçats als operadors de telecomunicacions per tal que es garanteixi l’accessibilitat als serveis d’atenció a la clientela i la ciutadania.
+3. El Govern ha de fomentar l’existència de serveis de comunicació audiovisuals i de premsa escrita o digital en formats alternatius, com ara subtitulats, de text a veu, audiodescriptius, en versió de lectura fàcil o amb pictogrames, i altres, segons el disseny universal.
+4. Les entitats públiques i privades han de garantir que els seus sistemes de comunicació, incloent-hi serveis d’atenció telefònica i digital, siguin accessibles. Això inclou la implementació de tecnologies d’assistència com el servei de traducció en llengua de signes, el text en temps real, i qualsevol altra tecnologia que asseguri la plena participació de les persones amb discapacitat en la comunicació amb les entitats.
+5. La informació digital ha de ser proporcionada en formats accessibles. A més de ser tècnicament accessibles, les interfícies digitals han de ser usables i comprensibles per a persones amb discapacitat cognitiva o intel·lectual, simplificant processos i presentant la informació de manera clara i directa, amb l’objectiu d’assegurar-ne la comprensió.
+6. El Govern ha d’impulsar la investigació, el desenvolupament i la innovació en tecnologies digitals accessibles, fomentant la creació d’eines i plataformes que millorin l’experiència d’usabilitat de totes les persones i assegurant que el desenvolupament de noves tecnologies tingui en compte els principis de disseny universal.
 
 **Article 27. Condicions d’accessibilitat dels elements d’informació i de senyalització**
 
-$37
+1. Els espais i els serveis d’ús públic han de disposar dels elements d’informació i de senyalització, tant als espais interiors com exteriors, que permetin a totes les persones percebre la informació rellevant d’una manera autònoma, i han de disposar també dels mitjans de suport adequats per a facilitar-los la comunicació i la interacció bàsiques i essencials per a l’ús del servei o l’espai esmentats en igualtat de condicions.
+2. Els estudis de seguretat i els plans d’emergències dels espais i serveis han de determinar els procediments d’avís i els mitjans de suport necessaris accessibles per a totes les persones.
+3. Els poders públics, en l’àmbit de les seves competències i funcions, han de promoure la supressió de les barreres en la comunicació i l’establiment de mecanismes i alternatives tècniques, documentals i humanes que facin accessibles els sistemes de comunicació o senyalització a tota la població, preferentment, en l’ús de sistemes de lectura fàcil i adaptant les formes de comunicació per fer-les accessibles i comprensibles per a tota la ciutadania.
+4. El Govern ha de determinar per reglament les condicions d’accessibilitat que han de tenir els elements d’informació i de senyalització dels espais i els serveis d’ús públic.
 
 **Article 28. Formes de comunicació**
 
@@ -177,7 +226,12 @@ Els poders públics i els proveïdors de serveis públics han de garantir el dre
 
 **Article 32. Condicions d’accessibilitat dels serveis d’ús públic**
 
-$39
+1. Els serveis d’ús públic, tant de caràcter presencial com en línia, han de complir les condicions d’accessibilitat previstes reglamentàriament per garantir que totes les persones, amb independència de les seves capacitats, puguin accedir-hi i utilitzar-los de manera autònoma i segura.
+2. Els proveïdors d’aquests serveis han d’adoptar mesures específiques per assegurar l’accessibilitat en la informació, l’atenció i la prestació dels serveis, seguint els principis del disseny universal i d’ajustos raonables.
+3. El compliment d’aquestes condicions d’accessibilitat es verifica durant els processos d’autorització, inspecció i seguiment, segons el que estableixi la normativa vigent.
+4. Els proveïdors de serveis d’ús públic que, per la naturalesa o les característiques de la seva activitat, estiguin obligats a disposar d’una proporció de places, unitats o elements accessibles han de garantir que aquestes places, unitats o elements compleixin els requisits d’accessibilitat establerts per la normativa vigent.
+5. Els proveïdors de serveis d’ús públic existents han d’elaborar el pla d’accessibilitat d’acord amb el que disposa l’article 36.
+6. Els establiments i els serveis d’ús públic que siguin determinats per reglament han de tenir a disposició del públic i dels organismes inspectors un document que informi de les condicions d’accessibilitat de què disposen. S’han d’establir per reglament el contingut, les característiques i la tramitació d’aquest document.
 
 ##### Secció vuitena. Accessibilitat en els productes
 
@@ -206,7 +260,16 @@ a) Les pantalles tàctils, botons, teclats i altres dispositius d’entrada han 
 
 **Article 36. Pla d’accessibilitat**
 
-$3b
+1. Les persones titulars d’un servei o que explotin un local o instal·lació públic o d’ús públic existent abans de l’entrada en vigor d’aquesta Llei han d’elaborar un pla d’accessibilitat, d’acord amb el que està previst al reglament de desenvolupament, en funció de la superfície, l’aforament i el tipus d’ús.
+No obstant això, reglamentàriament s’han d’establir supòsits d’exempció d’aquesta obligació basats en les característiques dimensionals del local o instal·lació i en el fet que estigui o no obert al públic en general. Per via reglamentària es poden establir altres supòsits addicionals d’exempció d’aquesta obligació.
+L’elaboració del pla d’accessibilitat pot ser encarregada a una empresa amb coneixements en la matèria.
+2. Com a mínim, els plans d’accessibilitat han de complir els punts següents:
+a) Contenir una diagnosi de les condicions existents.b) Identificar les actuacions necessàries perquè l’entorn físic, els transports, la informació i les comunicacions, incloent-hi els sistemes i les tecnologies de la informació i la comunicació, i altres serveis o locals públics o d’ús públic assoleixin, per mitjà d’ajustos raonables, les condicions d’accessibilitat establertes per aquesta Llei i tendir cap al disseny universal.c) Establir criteris de prioritat per executar-los.d) Definir les mesures de control, de seguiment, de manteniment i d’actualització d’acord amb els criteris que siguin establerts per reglament.
+3. Les actuacions incloses al pla han de tenir en compte el principi de proporcionalitat i ajustos raonables. Si es donen circumstàncies específiques que no permeten que un espai, un servei o un local pugui assolir el compliment de la normativa d’accessibilitat sense requerir mitjans tècnics o econòmics que comportin una càrrega desproporcionada, es poden plantejar solucions alternatives, de conformitat amb l’article 6.
+4. Les administracions públiques han de garantir, sempre que sigui possible, un procés participatiu de la ciutadania, especialment de les entitats associatives de representació dels col·lectius de persones amb discapacitat, en l’elaboració dels plans d’accessibilitat.
+5. Les persones físiques o jurídiques obligades a elaborar el pla d’accessibilitat han de registrar-lo en el registre públic corresponent. Una vegada registrat, el pla d’accessibilitat es considera vigent encara que canviï la titularitat i mentre es mantinguin les condicions inicials del servei o local o instal·lació pública o d’ús públic afectat.
+6. Les administracions públiques han de fer públics els seus plans d’accessibilitat als portals web corresponents o, per qualsevol altre mitjà que permeti d’accedir-hi, tant a les persones interessades com a les entitats associatives de representació dels col·lectius de persones amb discapacitat.
+7. Per via reglamentària s’han de definir el procés d’elaboració, els continguts, el seguiment, l’execució i l’actualització dels plans d’accessibilitat. El Govern ha d’elaborar models de plans d’accessibilitat, a l’efecte de facilitar la seva elaboració per part de les persones referides a l’apartat 1.
 
 **Article 37. Distintiu de qualitat**
 
@@ -216,7 +279,10 @@ $3b
 
 **Article 38. Mesures de foment, promoció i sensibilització**
 
-$3d
+1. Les administracions públiques han d’implementar, en l’àmbit de les seves competències, mesures d’acció positiva destinades a incentivar l’accessibilitat universal en béns, serveis i infraestructures.
+2. Les administracions públiques han de promoure, de manera activa i contínua, l’accessibilitat universal mitjançant programes formatius, campanyes institucionals, publicacions, guies i altres accions de difusió orientades a la societat i als sectors professionals.
+3. Les administracions públiques poden fomentar i promoure la recerca, el desenvolupament i la innovació en matèria d’accessibilitat amb l’objectiu d’incrementar l’autonomia personal i la seguretat de totes les persones.
+4. Les administracions públiques, en l’àmbit de les seves competències, han de promoure campanyes de sensibilització, informació i formació dirigides a fomentar l’accessibilitat universal. Aquestes accions han d’incloure iniciatives educatives, col·laboracions amb entitats representatives de persones amb discapacitat i altres col·lectius vulnerables i activitats divulgatives orientades a la societat i als sectors professionals.
 
 **Article 39. Formació del personal**
 
@@ -240,7 +306,13 @@ El Govern, mitjançant el servei d’assessorament i subministrament de producte
 
 **Article 43. Comissió per al Foment de l’Accessibilitat**
 
-$3f
+1. La Comissió per al Foment de l’Accessibilitat és l’òrgan consultiu i assessor del Govern en matèria d’accessibilitat, amb les funcions següents:
+a) Assessorar i informar el Govern en matèria de promoció de l’accessibilitat i proposar criteris d’actuació en aquest àmbit.b) Fomentar les actuacions en matèria de promoció de l’accessibilitat.c) Avaluar el grau de compliment d’aquesta Llei i els avenços produïts en matèria d’accessibilitat.d) Elaborar informes no vinculants quan es proposin solucions alternatives i en els supòsits previstos en aquesta Llei.
+2. La Comissió per al Foment de l’Accessibilitat ha d’elaborar cada tres anys un informe general de la situació de l’accessibilitat en tots els àmbits i elevar al Govern una proposta d’actuacions per graus de prioritat. Per fer aquest estudi, pot demanar informació a totes les entitats públiques o privades o a persones determinades, que estan obligades a proporcionar dades veraces i sense dilacions.
+3. El Govern ha de preveure una partida pressupostària suficient per tal de garantir el funcionament de la Comissió per al Foment de l’Accessibilitat.
+4. La Comissió per al Foment de l’Accessibilitat pot encarregar l’elaboració d’aquests informes a persones o entitats independents del sector.
+5. El Govern ha de determinar per reglament la composició de la Comissió, el nombre i la forma de designació dels seus membres i el règim de funcionament, i ha de garantir-hi la participació de les entitats cíviques de persones amb discapacitat, amb la participació d’un membre que representi cada col·lectiu de persones amb discapacitat i un membre que representi la gent gran.
+6. Els membres de la Comissió per al Foment de l’Accessibilitat exerceixen el seu càrrec de manera gratuïta, sense percebre cap retribució ni indemnització per assistència, sens perjudici del dret al reemborsament de les despeses degudament justificades que se’n puguin derivar, en els termes establerts pel reglament de funcionament.
 
 **Article 44. Dotació pressupostària**
 
@@ -250,7 +322,13 @@ Les administracions públiques han de destinar, si escau, anualment una part del
 
 **Article 45. Tipificació de les infraccions**
 
-$41
+1. Són infraccions lleus:
+a) L’incompliment de les condicions d’accessibilitat o de les mesures d’ajustos raonables establertes per aquesta Llei i per la corresponent normativa de desplegament reglamentari, si això no impedeix la utilització segura de l’espai, l’equipament, l’habitatge, el mitjà de transport, la comunicació o el servei.b) L’absència dels mitjans de senyalització necessaris per identificar els elements o els itineraris de vianants accessibles, si això no genera situacions de risc o de perill.c) La manca de manteniment dels elements necessaris per garantir les condicions d’accessibilitat, inclosos els itineraris d’accessibilitat, establerts per aquesta Llei i per la corresponent normativa de desplegament reglamentari, si aquesta omissió no genera situacions de risc o de perill.d) Els actes intencionats que malmetin els elements necessaris per garantir les condicions d’accessibilitat establertes per aquesta Llei i per la corresponent normativa de desplegament reglamentari, si en resulta un menyscabament lleu de les condicions d’accessibilitat.e) L’ús fraudulent indegut del distintiu de qualitat, entès com l’ús enganyós o il·legal amb l’objectiu d’obtenir avantatges indeguts.f) L’incompliment dels deures i les obligacions formals i materials que estableix aquesta Llei, sempre que no tinguin el caràcter d’infracció greu o molt greu.
+2. Són infraccions greus:
+a) L’incompliment de les condicions d’accessibilitat o dels ajustos raonables establerts per aquesta Llei i per la corresponent normativa de desplegament, si això obstaculitza o limita l’accés al territori, a l’edificació, als transports, als productes, als serveis, als processos i a les comunicacions.b) La manca de manteniment dels elements necessaris per garantir les condicions d’accessibilitat establertes per aquesta Llei i per la corresponent normativa de desplegament reglamentari que pugui generar situacions de risc o de perill.c) L’obstrucció o la negativa a facilitar la informació sol·licitada per les autoritats competents o per llurs agents per al compliment de les funcions d’informació, de vigilància, d’investigació, d’inspecció, de tramitació i d’execució de l’accessibilitat en els termes establerts per aquesta Llei i per la corresponent normativa de desplegament.d) L’ús fraudulent del distintiu d’aparcament, entès com l’ús enganyós o il·legal amb l’objectiu d’obtenir avantatges indeguts.e) L’incompliment de l’obligació d’elaborar, de registrar o d’executar els plans d’accessibilitat dins dels terminis establerts.f) La comissió de tres infraccions lleus en el termini de tres anys.
+3. Són infraccions molt greus:
+a) L’incompliment de la normativa d’accessibilitat que impedeixi o dificulti greument l’exercici dels drets fonamentals i el gaudi de les llibertats públiques.b) Les accions relacionades amb accessibilitat que deliberadament generin un greu perjudici econòmic o professional per a les persones.c) La imposició, la pressió o l’amenaça a la persona interessada o a terceres persones físiques o jurídiques que hi siguin vinculades, perquè renunciïn totalment o parcialment a llurs drets, i també qualsevol acte de represàlia o de venjança derivada de l’exercici d’una acció legal en l’àmbit de l’accessibilitat.d) No efectuar les correccions indicades pels òrgans competents sempre que això generi situacions de risc o danys per a la integritat física o psíquica o per a la salut de les persones amb discapacitat.e) Fer pagar per facilitar les condicions d’accessibilitat obligatòries per mandat d’aquesta Llei.f) La comissió de tres infraccions greus en el termini de tres anys.
+4. Si els fets constitutius d’infracció d’acord amb aquesta Llei també ho són per aplicació d’una norma sectorial, s’aplica el règim sancionador d’aquesta norma sectorial.
 
 **Article 46. Subjectes responsables**
 
@@ -265,12 +343,25 @@ $41
 
 **Article 48. Sancions**
 
-$43
+1. Les infraccions són objecte de les sancions següents:
+a) Infraccions lleus: des d’un mínim de 300 euros fins a un màxim de 5.000 euros.b) Infraccions greus: des d’un mínim de 5.001 euros fins a un màxim de 25.000 euros.c) Infraccions molt greus: des d’un mínim de 25.001 euros fins a un màxim de 50.000 euros.
+2. L’abonament de les sancions imposades d’acord amb les prescripcions d’aquesta Llei no eximeix les persones responsables del compliment de totes les exigències en matèria d’accessibilitat que imposa la normativa.
+3. En tots els casos en què de la infracció se’n derivi un enriquiment indegut, a banda de la sanció per la infracció, la persona infractora ha de retornar la totalitat de l’import percebut indegudament.
+4. Les sancions que s’imposin resulten compatibles amb l’exigència que l’infractor indemnitzi pels danys i perjudicis causats o, si escau, reposi la situació alterada al seu estat originari. Aquesta responsabilitat pot ser establerta per l’òrgan competent en el mateix procediment sancionador per satisfer-la, i resta oberta la via judicial corresponent en cas d’incompliment.
+Tanmateix, l’òrgan competent amb independència de les sancions que corresponguin, pot imposar fins a un màxim de tres multes coercitives mensuals quan continuï la conducta infractora i en cas que no s’atengui el requeriment a l’efecte de posar-hi fi. La primera, la segona i la tercera multa no poden excedir el 10%, el 50% i el 100%, respectivament, de l’import de la sanció imposada.
+5. Tot el que es recapti amb les sancions aplicades per aquest títol es destina obligatòriament a accions que afavoreixin l’accessibilitat. Aquestes accions poden ser de formació, de millora d’infraestructures, de serveis, de mecanismes o de sistemes, o altres d’equivalents.
 
 **Article 49. Criteris de graduació de les sancions**
 
-$45
+1. La quantia de les sancions s’ha de graduar en consideració a la gravetat del fet constitutiu de la infracció i les conseqüències lesives que ha comportat o que podia haver comportat. Altres elements que cal tenir en consideració són:
+a) La intencionalitat de la persona infractora.b) La negligència de la persona infractora.c) El frau o la connivència en el frau.d) L’incompliment dels advertiments previs.e) La xifra de negoci o els ingressos de l’empresa o l’entitat.f) El benefici econòmic que s’hagi generat per a la persona infractora.g) El nombre de persones afectades o susceptibles de ser afectades.h) La permanència o la transitorietat de les repercussions de la infracció.i) La irreversibilitat de la pèrdua d’oportunitats per a l’afectat.j) La reincidència.k) L’alteració social produïda per l’incompliment de les condicions d’accessibilitat o de les mesures d’ajustos raonables establertes per aquesta Llei o per l’incompliment del deure de supressió de barreres a l’accessibilitat.l) L’especial vulnerabilitat o el risc específic d’exclusió social de les persones afectades, sigui per raó de discapacitat, per raó de la dificultat o impossibilitat d’exercir l’autonomia personal o de prendre decisions lliurement, sigui per raó de la concurrència de la discapacitat amb altres factors d’eventual vulnerabilitat, com poden ser el cas de les dones, els infants o la gent gran.
+2. Si la comissió d’una infracció implica necessàriament la comissió d’altres infraccions, s’ha d’imposar la sanció corresponent a la infracció més greu en el seu nivell superior.
 
 **Article 50. Procediment sancionador**
 
-$47
+1. Normativa aplicable: el procediment s’ha d’ajustar al que estableix el Codi de l’Administració i la normativa reguladora del procediment sancionador vigent, amb les particularitats establertes en els apartats següents.
+2. Òrgan competent: correspon al titular del ministeri competent en matèria d’afers socials, o a l’òrgan del ministeri en qui delegui, la incoació dels expedients sancionadors. Les funcions d’inspecció i de control exercides com a autoritat són atribuïdes a les persones adscrites a l’òrgan competent en matèria de promoció de l’accessibilitat.
+3. Incoació i instrucció: el procediment sancionador s’incoa d’ofici o a instància de part. Per iniciar el procediment, l’autoritat competent pot decidir efectuar la instrucció prèvia d’una informació reservada per esclarir els fets en vista de la qual acorda la incoació de l’expedient o, si escau, l’arxivament de les actuacions.
+Abans d’iniciar un procediment sancionador per infraccions relatives a l’incompliment de les condicions d’accessibilitat o les mesures d’ajustos raonables, i també per la manca de manteniment dels elements necessaris per garantir les condicions d’accessibilitat, l’administració competent ha de requerir formalment a la persona interessada que esmeni la irregularitat i que iniciï els treballs o les actuacions correctores en un termini determinat, que no pot ser inferior a deu dies ni superior a dos mesos, segons la naturalesa i la complexitat de les mesures exigides.
+La persona interessada ha de justificar documentalment l’inici efectiu dels treballs dins del termini establert. En cas de no donar compliment al requeriment dins aquest termini, s’ha d’incoar el procediment sancionador corresponent.
+4. Òrgan competent per resoldre: la competència per resoldre i imposar sancions correspon al titular del ministeri competent en matèria d’afers socials.

@@ -19,19 +19,40 @@ a) Béns d’interès culturalb) Béns inventariats
 
 **Article 2. Béns d’interès cultural**
 
-$1e
+1. Els béns més rellevants del patrimoni cultural d’Andorra han de ser declarats béns d’interès cultural per decret del Govern, a proposta del ministre titular de cultura. El decret de declaració ha de ser motivat.
+2. El procediment de declaració d’un bé d’interès cultural s’inicia per resolució del ministre titular de cultura, que s’ha de comunicar a les persones interessades i, si es refereix a un bé immoble, també al comú corresponent. La incoació de l’expedient s’efectua o bé d’ofici o bé a instància de qualsevol persona, entitat interessada o del comú corresponent i comporta l’aplicació immediata de manera provisional al bé afectat del règim jurídic que els articles 14, 15, 19, 20 i 22 estableixen per als béns ja declarats, inclòs el règim sancionador corresponent. Si el ministeri titular de cultura decideix no iniciar l’expedient sol·licitat, ha de motivar la seva decisió.
+3. En la instrucció de l’expedient de declaració cal obrir un període d’informació pública i donar audiència a les persones afectades. Si es tracta d’un bé immoble, cal obtenir l’informe del comú on es trobi radicat el bé, prèviament a l’adopció del decret de declaració. L’expedient ha de contenir els informes tècnics necessaris, que han d’anar acompanyats amb la documentació gràfica corresponent i amb la informació detallada de l’estat de conservació del bé.
+4. L’expedient de declaració s’ha de resoldre en el termini màxim de nou mesos a comptar de la data d’incoació. La caducitat de l’expedient es produeix si un cop transcorregut aquest termini la persona o entitat interessada o el comú corresponent demanen l’arxiu de les actuacions i l’Administració no dicta resolució dins dels trenta dies següents. Una vegada caducat, l’expedient no es pot tornar a iniciar en els tres anys següents, llevat que el titular del bé ho demani abans d’aquest termini.
+5. La resolució d’incoació de l’expedient i el decret de declaració s’han de publicar al Butlletí Oficial del Principat d’Andorra. La publicació no ha de fer referència a la titularitat ni al valor econòmic del bé i, en el cas dels béns mobles, tampoc a la seva localització.
+6. La declaració d’un bé d’interès cultural només es pot deixar sense efecte seguint el mateix procediment establert per a la declaració. La justificació d’aquesta decisió ha de quedar acreditada degudament en l’expedient.
 
 **Article 3. Béns inventariats**
 
-$22
+1. Són béns inventariats els béns no declarats d’interès cultural següents:
+a) Els béns immobles o les parts de béns immobles que, atès el seu interès històric, artístic o cultural, siguin integrats a l’Inventari general del patrimoni cultural d’Andorra per resolució del ministre titular de la cultura.b) Els béns mobles compresos en alguna de les categories següents:PrimeraBéns mobles integrants del patrimoni arqueològic i paleontològicSegonaElements procedents del desmembrament de monuments artístics, històrics o religiososTerceraBéns mobles d’interès artístic de més de cent anys d’antiguitatQuartaBéns integrants del patrimoni documental i bibliogràficCinquenaCol·leccions i exemplars rars de zoologia, botànica, mineralogia o anatomiaSisenaBéns mobles integrants del patrimoni etnològic de més de cinquanta anys d’antiguitatSetenaEls béns mobles restants de més de cent anys d’antiguitat que tinguin valor culturalVuitenaEls béns culturals mobles que, tot i tenir una antiguitat inferior a les que s’estableixen en les categories precedents, siguin integrats a l’Inventari per resolució motivada del ministre titular de la culturac) Els béns immaterials inclosos a l’Inventari per l’òrgan del ministeri titular de la cultura competent en matèria de patrimoni etnològic.
+2. La inclusió d’un bé moble o immoble a l’Inventari es fa per resolució del ministre titular de cultura, amb audiència prèvia a les persones afectades. Si es tracta d’un bé immoble, cal obtenir l’informe del comú corresponent. La resolució s’ha de publicar al Butlletí Oficial del Principat d’Andorra.
+3. Els béns compresos en l’apartat 1.c s’inscriuen a l’Inventari sense necessitat de tramitar prèviament un procediment administratiu. Tanmateix, la inscripció s’ha de publicar al Butlletí Oficial del Principat d’Andorra.
+4. Tots els béns compresos en les categories de la primera a la setena de l’apartat 1.b tenen la consideració de béns inventariats, encara que no se n’hagi formalitzat la inscripció a l’Inventari.
+5. El Govern pot per reglament excloure de les categories tercera, cinquena, sisena i setena de l’apartat 1.b els béns que no superin determinats valors econòmics.
 
 **Article 4. Tutela del patrimoni cultural**
 
-$26
+1. Les administracions públiques, en exercici de les seves competències, han de vetllar per la integritat del patrimoni cultural d’Andorra i n’han de fomentar el coneixement, l’acreixement i la difusió; entre d’altres accions, han de donar suport a les entitats que el mantenen i el difonen. Correspon al Govern definir la política en matèria de patrimoni cultural i coordinar-ne les mesures de protecció, i correspon al comú executar aquesta política mitjançant el planejament urbanístic propi, incorporant-ne tots els criteris fixats pel Govern per a la zona d’acompanyament (zona 1) de l’entorn de protecció del bé cultural i seleccionant aquells altres de la zona 2 que consideri adequats per a la protecció del bé en qüestió i dels interessos de la parròquia.
+2. Els comuns han de cooperar amb el Govern en la protecció i la conservació del patrimoni cultural comprès en el seu àmbit territorial, han de comunicar al ministeri titular de la cultura des del mateix moment de tenir-ne coneixement qualsevol situació de perill en què es trobi aquest patrimoni, i, si cal, han d’adoptar immediatament les mesures necessàries per evitar-ne el deteriorament, la pèrdua o la destrucció.
+3. Cap poder públic no pot adoptar cap mesura que posi en perill la consecució dels objectius exposats en aquesta Llei.
+4. Qualsevol persona que tingui coneixement d’una situació de perill o de la destrucció d’un bé integrant del patrimoni cultural d’Andorra ho ha de comunicar a l’Administració. Qualsevol persona física o jurídica està legitimada per exigir el compliment d’aquesta Llei davant l’Administració pública i els tribunals de justícia.
+5. El ministeri titular de la cultura pot inspeccionar en qualsevol moment les obres i les intervencions que es facin en béns integrants del patrimoni cultural d’Andorra. Les persones propietàries o posseïdores d’aquests béns hi han de permetre l’accés del personal del ministeri. Si la inspecció requereix l’entrada en un domicili, cal autorització judicial prèvia.
+6. En cas d’interpretació de la Llei preval sempre el principi de menor perjudici per al patrimoni cultural d’Andorra.
 
 **Article 5. Consell Assessor del Patrimoni Cultural**
 
-$2a
+1. El Consell Assessor del Patrimoni Cultural és l’òrgan consultiu del Govern en les matèries relacionades amb el patrimoni cultural.
+2. El Consell Assessor del Patrimoni Cultural serà constituït sis mesos després i com a màxim de l’entrada en vigor de la present Llei. Serà presidit pel ministre titular de la cultura i integrat, a més, per dos vocals en representació d’aquest ministeri i entre un mínim de dos i un màxim de cinc vocals més, nomenats pel Govern d’entre persones tècniques de competència reconeguda en les diferents àrees del patrimoni cultural. Les vocalies són nomenades per un termini de tres anys, renovables. La secretaria del Consell, amb veu i sense vot, és exercida per la persona nomenada pel ministre d’entre els funcionaris del ministeri titular de la cultura.
+3. Cal l’informe previ del Consell Assessor del Patrimoni Cultural per a l’adopció per l’òrgan competent de les resolucions, els actes i els acords següents:
+a) La iniciació del procediment de declaració de béns d’interès culturalb) L’acord de deixar sense efecte la declaració d’un bé d’interès culturalc) La inclusió d’un bé immoble a l’Inventari general del patrimoni cultural d’Andorrad) Les ordres d’execució d’obres, adreçades a les persones obligades a conservar els béns d’interès cultural d’acord amb l’article 7.2e) Les ordres executives previstes a l’article 8f) L’informe per al Govern previ a l’aprovació dels instruments d’ordenació urbanística previstos a l’article 16.1g) L’autorització de l’exportació dels béns d’interès cultural i dels béns inventariatsh) L’autorització d’intervencions arqueològiques o paleontològiques prevista a l’article 24.1i) Els estudis d’impacte
+4. Correspon també al Consell Assessor del Patrimoni Cultural:
+a) Emetre informe sobre els projectes de disposicions generals en matèria de patrimoni culturalb) Emetre la resta d’informes i dictàmens que disposi la normativa vigent i els que li sol·liciti el ministre titular de la culturac) Proposar les iniciatives que consideri convenients per al millor compliment dels objectius d’aquesta Lleid) Avaluar un cop l’any l’aplicació de la llei i l’estat general del patrimoni, i fer públics els resultats
+5. Perquè el Consell Assessor es pugui constituir vàlidament cal que hi assisteixi més de la meitat dels seus membres, entre els quals hi ha d’haver el president o presidenta. El Consell adopta els seus acords per majoria de vots. El vot de la presidència és diriment en cas d’empat.
 
 **Article 6. Projecció exterior**
 
@@ -43,7 +64,11 @@ El Govern ha de promoure la difusió exterior del patrimoni cultural d’Andorra
 
 **Article 7. Deure de conservació**
 
-$2c
+1. Les persones propietàries, titulars d’altres drets reals o posseïdores de béns d’interès cultural, estan obligades a conservar-los, mantenir-los i preservar-los.
+2. En cas d’incompliment del deure establert a l’apartat 1, el ministeri titular de la cultura ha d’ordenar a les persones obligades l’execució de les obres o la realització de les actuacions que siguin necessàries per al compliment del deure esmentat. Si no s’executen les actuacions ordenades, el ministeri ha de fer-ne l’execució subsidiària. En cas de perill imminent per al bé, el ministeri titular de la cultura executarà directament les obres imprescindibles per salvaguardar el bé, sense necessitat de requeriment previ.
+3. El cost de les obres i actuacions a què fa referència l’apartat 2 és a càrrec de la persona obligada, sempre que es puguin incloure en el deure ordinari de conservació establert a l’apartat 1.
+4. És d’interès públic, a l’efecte d’expropiació, l’incompliment dels deures establerts a l’apartat 1 i, en qualsevol cas, el perill de destrucció, de deteriorament greu o d’exportació il·legal d’un bé d’interès cultural.
+5. Quan es refereixin a immobles inclosos en conjunts arquitectònics, les mesures descrites als apartats 2, 3 i 4 poden ser adoptades també pels comuns en el marc de les competències que els són pròpies.
 
 **Article 8. Reparació de danys causats**
 
@@ -56,7 +81,10 @@ Sense perjudici de la sanció que els correspongui, el ministeri titular de la c
 
 **Article 10. Drets de tempteig i retracte**
 
-$2e
+1. El Govern pot exercir el dret de tempteig sobre les transmissions oneroses de la propietat dels béns d’interès cultural següents:
+a) Béns immobles d’interès cultural pertanyents a les categories de monument, zona arqueològica o zona paleontològica, exclosos els entorns de protecciób) Béns mobles d’interès cultural
+2. El comú corresponent pot exercir subsidiàriament el mateix dret respecte als béns immobles a què fa referència l’apartat 1.a.
+3. El termini per exercir el dret de tempteig és de quatre mesos des que la persona propietària comuniqui al ministeri titular de la cultura la seva intenció de transmetre el bé i les condicions de la transmissió. Si la transmissió d’un bé d’interès cultural no es notifica al ministeri titular de la cultura o no es realitza en les condicions notificades, el Govern, i subsidiàriament el comú si es tracta d’un bé immoble, poden exercir el dret de retracte en el termini de sis mesos des que l’Administració de l’Estat tingui coneixement fefaent de la transmissió i de les seves condicions.
 
 ##### Secció segona. Els béns immobles d’interès cultural
 
@@ -67,7 +95,13 @@ a) Monument: obra d’arquitectura o altra obra material produïda per l’activ
 
 **Article 12. Declaració**
 
-$30
+1. La declaració d’un bé immoble com a bé d’interès cultural ha d’incloure les especificacions següents:
+a) La classe que li és assignada d’acord amb l’article 11.b) La delimitació justificada del seu entorn de protecció en els monuments i en els conjunts arquitectònics, en els paisatges culturals i en les zones arqueològiques i paleontològiques. Dins l’àmbit de l’entorn de protecció es poden distingir les següents zones:- Zona d’acompanyament (zona 1). Aquesta zona és la més propera al bé d’interès cultural i està constituïda per l’espai immediat que l’envolta.Els límits d’aquesta zona es defineixen, bé per les finques, edificades o no, que delimiten directament amb el bé d’interès cultural, o bé per les finques, edificades o no, que s’inclouen dins d’un perímetre de 20 metres comptats des del bé d’interès cultural segons croquis annex.-Zona preventiva (zona 2). Aquesta zona incorpora les finques, edificades o no, que poden alterar els valors del bé d’interès cultural objecte de protecció, atès que es troben situades pròximes al bé.
+En cas que una mateixa finca, edificada o no, quedi separada per les dues zones esmentades, la porció menor quedarà subjecta al règim aplicable de la zona on hi hagi una major superfície de la finca.
+2. El decret de declaració d’un bé immoble d’interès cultural ha d’incloure els criteris que han de regir les intervencions sobre el bé declarat d’interès cultural i sobre l’entorn de protecció definit en la declaració.
+3. Els criteris previstos a l’apartat anterior contenen, segons s’escaigui, prescripcions o propostes al comú, de caràcter general, amb l’única finalitat de preservar els valors estètics, històrics i culturals del bé protegit. En cap cas, poden ser exhaustius, ni establir l’ordenació urbanística i de l’edificació de l’àrea afectada.
+Respecte a les intervencions que es puguin dur sobre el bé declarat d’interès cultural i sobre la zona d’acompanyament (zona 1) de l’entorn de protecció, els criteris revesteixen la forma de prescripcions d’obligat compliment i el comú ha d’adaptar el pla d’ordenació i urbanisme parroquial. Pel que fa a les intervencions en la zona preventiva (zona 2) de l’entorn de protecció, els criteris tenen la forma de propostes al comú, i només són vinculants i executius si el comú decideix acceptar-los i incorporar-los al planejament urbanístic. El seu contingut i vigència tenen efectes a partir de la data de publicació de llur incorporació al pla urbanístic. Els esmentats criteris són graduals i proporcionals en funció de la zona de l’entorn de protecció de què es tracti.
+4. La resolució d’iniciació d’expedient per a la declaració d’un bé d’interès cultural pot establir la suspensió de la tramitació de les llicències de parcel·lació, d’obra, edificació o enderrocament que afectin el bé o els béns objecte de l’expedient, fins a la data de publicació de l’acord d’adaptació del pla d’ordenació i urbanisme parroquial. Si, en virtut de la declaració d’un bé d’interès cultural, es denega una llicència sol·licitada abans de la iniciació de l’expedient de declaració, el sol·licitant té dret a ser indemnitzat pel Govern pel cost de redacció del projecte i al reemborsament de qualsevol taxa ja abonada, a més de l’interès legal corresponent.
 
 **Article 13. Entorns de protecció**
 
@@ -77,15 +111,25 @@ En tot cas, es permeten les obres que siguin exigides per la conservació, la se
 
 **Article 14. Autorització d’obres**
 
-$35
+1. Qualsevol obra o intervenció, tant si és de promoció pública com si és de promoció privada, que es pretengui realitzar en un monument, en una zona arqueològica o paleontològica, o en els entorns de protecció respectius ha de ser autoritzada pel ministeri titular de la cultura, prèviament a la concessió de la llicència d’obra o d’edificació, i se n’ha de controlar l’execució. El ministeri pot determinar, com a requisit previ a l’autorització de l’obra, la necessitat de realitzar una intervenció arqueològica. Si l’obra és de promoció privada, l’Estat ha de finançar el cost d’execució de la intervenció arqueològica.
+2. Un cop adaptat el pla d’ordenació i urbanisme parroquial de conformitat amb el que disposen els apartats 3 i 4 de l’article 12, l’autorització de les obres o intervencions en els conjunts arquitectònics i en el seus entorns de protecció correspon al comú, amb l’informe previ i preceptiu del ministeri titular de cultura.
+3. En els paisatges culturals i en els seus entorns de protecció, l’autorització prèvia de les obres o intervencions per part del ministeri titular de la cultura és preceptiva mentre no hagi estat aprovat l’instrument de protecció, ús i gestió a què fa referència l’article 16. Un cop aprovat aquest instrument, l’autorització de les obres correspon a l’administració que sigui competent, amb informe previ i preceptiu del ministeri titular de la cultura.
+4. Els comuns han de comunicar immediatament al ministeri titular de la cultura les llicències que concedeixin i que afectin béns d’interès cultural o els seus entorns de protecció.
+5. Les autoritzacions de les obres a què fan referència els apartats 1, 2 i 3 del present article s’entenen atorgades, mitjançant silenci administratiu positiu, si en el termini de tres mesos no es deneguen expressament per l’administració competent, de conformitat amb el règim i les condicions establertes a la legislació urbanística vigent. L’estimació tàcita només serà admissible si la sol·licitud inclou la documentació pertinent i ha estat presentada davant del comú i davant del ministeri titular de cultura.
 
 **Article 15. Criteris generals sobre les intervencions**
 
-$39
+1. Els monuments històrics no poden ser enderrocats i se n’ha de conservar la identitat, la integritat i l’autenticitat.
+2. En els monuments històrics, paisatges culturals i zones arqueològica i paleontològica, qualsevol intervenció ha efectuar-se assumint els següents criteris:
+a) El respecte permanent dels valors que van motivar la declaració de bé d’interès cultural, sens perjudici que, per a la millor adaptació del bé al seu ús o per necessitats tècnic-arquitectòniques, pugui ésser autoritzada la utilització d’elements, tècniques i materials contemporanis.b) La conservació de les característiques tipològiques d’ordenació espacial, volumètriques i morfològiques més destacades del bé.c) No es pot reconstruir totalment o parcial el bé o fer-hi addiccions que falsegin la seva autenticitat, amb l’excepció d’utilitzar-ne parts originals del mateix.d) No es pot eliminar parts del bé, excepte que comportin la degradació del bé o que l’eliminació en permeti un millor enquadrament històric. Els motius per a l’eliminació han d’esser fonamentats en benefici del manteniment i conservació dels béns.
+3. Les intervencions de restauració efectuades en monuments, conjunts arquitectònics i paisatges culturals s’han de basar en principis científics i criteris tècnics.
+4. És prohibida la col·locació de publicitat, cables i antenes en els monuments i en els seus entorns de protecció, en els conjunts arquitectònics i en els paisatges culturals.
+5. En els conjunts arquitectònics cal mantenir l’estructura urbana i arquitectònica i les característiques generals del seu ambient i de la silueta paisatgística.
 
 **Article 16. Instruments de protecció. Ús i gestió**
 
-$3d
+1. La declaració d’un monument històric o d’un paisatge cultural comporta l’obligació per part de l’administració o administracions afectades, d’elaborar un instrument de protecció, ús i gestió on es precisin els criteris que han de regir les intervencions sobre el bé d’interès cultural i sobre la zona d’acompanyament (zona 1) de l’entorn de protecció i, si aquestes administracions així ho acorden, també els criteris que han de regir les intervencions sobre la zona preventiva (zona 2). L’aprovació definitiva de l’instrument, que haurà de produir-se en el termini màxim de divuit mesos a comptar de la declaració, correspon a l’òrgan que determini la legislació, i requereix necessàriament l’informe favorable previ del Govern.
+2. Si en el moment de la declaració ja existeix un instrument de protecció, ús i gestió que afecta l’àrea declarada, el Govern, ha de determinar si aquest instrument és suficient per produir els efectes previstos a l’article 14.3, o si ha ser modificat o complementat per adaptar-se als criteris del bé d’interès cultural i de la zona d’acompanyament (zona 1) de l’entorn de protecció.
 
 ##### Secció tercera. Altres normes de protecció dels béns immobles
 
@@ -104,7 +148,14 @@ $3d
 
 **Article 19. Autorització d’exportacions**
 
-$41
+1. Cal l’autorització prèvia del ministeri titular de la cultura per a les sortides del territori nacional, temporals o definitives, dels béns d’interès cultural i dels béns inventariats.
+2. En el cas d’exportacions temporals, l’autorització es concedeix sempre que es garanteixi el retorn dels béns al territori nacional.
+3. L’Estat pot expropiar els béns per als quals es demani l’exportació definitiva. Si es denega l’autorització d’exportació d’un bé no declarat d’interès cultural que faci menys de cinquanta anys que hagi estat importat a Andorra, el seu propietari té dret a demanar i obtenir que l’Estat l’hi expropiï.
+4. En cap cas no es pot autoritzar l’exportació definitiva dels béns d’interès cultural ni dels béns pertanyents a col·leccions públiques.
+5. L’Estat ha de dur a terme les accions necessàries per a la recuperació dels béns culturals que hagin sortit il·legalment del territori andorrà i per al retorn dels béns integrants del patrimoni cultural andorrà que es troben a l’exterior.
+6. Els béns que hagin estat exportats contravenint el que estableix aquest article són propietat de l’Estat, llevat que la persona propietària demostri la pèrdua o la sostracció del bé abans de l’exportació. En aquest cas, la persona propietària ha de pagar les despeses que l’Estat hagi tingut per a la recuperació del bé.
+7. Queden excloses de les disposicions d’aquest article les exportacions de béns mobles integrants del patrimoni cultural següents:
+a) Les que siguin conseqüència de permutes entre estatsb) Les d’obres d’autors viusc) Les de béns que es reexportin abans de transcórrer deu anys des de la seva entrada al país
 
 **Article 20. Dels béns mobles d’interès cultural**
 
@@ -157,11 +208,14 @@ Si durant l’execució de qualsevol tipus d’obra es troben restes arqueològi
 
 **Article 28. Concepte de patrimoni documental**
 
-$43
+1. S’entén per document tota expressió en llenguatge natural o convencional i qualsevol altra expressió gràfica, sonora o en imatge, recollides en qualsevol tipus de suport material.
+2. Integren el patrimoni documental d’Andorra els documents següents:
+a) Els produïts o rebuts en l’exercici de les seves funcions pels poders públics d’Andorra, incloses les institucions històriques, les entitats parapúbliques, les persones físiques o jurídiques gestores de serveis públics o les entitats de capital social majoritàriament públicb) Els de més de trenta anys d’antiguitat produïts o rebuts en l’exercici de les seves funcions per entitats privades sense afany de lucre que desenvolupin la seva activitat a Andorrac) Els de més de cent anys d’antiguitat produïts o rebuts per qualsevol persona física o empresa privada, i els de menor antiguitat que hagin estat produïts en suports de caducitat inferior als cent anysd) Els conservats en arxius de titularitat públicae) Els produïts o rebuts per persones físiques privades en l’exercici de funcions públiques; en especial, els protocols notarialsf) Els documents objecte de cessió o de donació expressa
 
 **Article 29. Concepte de patrimoni bibliogràfic**
 
-$45
+El patrimoni bibliogràfic d’Andorra està integrat per les biblioteques, les hemeroteques i les col·leccions bibliogràfiques i hemerogràfiques, i també per les obres de creació o d’investigació, de caràcter unitari o seriat, impreses, manuscrites o reproduïdes en qualsevol suport, la conservació de les quals és d’interès pel seu valor per a la informació, l’educació, la investigació i el lleure. En especial, integren el patrimoni bibliogràfic d’Andorra els béns bibliogràfics següents:
+a) Els exemplars de la producció bibliogràfica andorrana que són objecte de dipòsit legal i els que tenen alguna característica rellevant que els singularitzab) Els exemplars d’obres integrants de la producció bibliogràfica andorrana i els relacionats amb la cultura i la història d’Andorra dels quals no consti l’existència d’almenys un exemplar en biblioteques públiquesc) Els béns bibliogràfics manuscrits, els de més de cent anys d’antiguitat, i els de menor antiguitat produïts en suports de caducitat inferior als cent anysd) Els béns conservats en biblioteques de titularitat pública
 
 **Article 30. Règim de protecció**
 
@@ -172,11 +226,16 @@ $45
 
 **Article 31. Els arxius**
 
-$47
+1. Són arxius els conjunts orgànics de documents, o la reunió de diversos conjunts, reunits per les persones o entitats públiques o privades en l’exercici de les seves activitats, per a la investigació, la cultura, la informació i la gestió administrativa. També s’anomenen arxius les institucions culturals on es reuneixen, conserven, ordenen i difonen, per a les finalitats anteriorment esmentades, aquests conjunts de documents.
+2. L’Arxiu Nacional té per funcions recollir, conservar i difondre la documentació de l’Administració de l’Estat i dels organismes i entitats que en depenen, i la documentació rellevant relacionada amb Andorra i amb la seva història. També és funció de l’Arxiu Nacional donar suport tècnic a la resta d’arxius públics o d’interès públic del Principat i vetllar per la conservació del patrimoni documental d’Andorra. El dret i les condicions d’accés al patrimoni documental conservat a l’Arxiu Nacional es regirà per una regulació específica.
+3. Les persones propietàries o posseïdores de béns integrants del patrimoni documental han de mantenir i gestionar el seu propi arxiu, sense perjudici del que estableix l’article 30.2.
 
 **Article 32. Les biblioteques**
 
-$49
+1. Són biblioteques les institucions culturals que reuneixen, conserven, cataloguen i difonen un conjunt organitzat de béns bibliogràfics amb la finalitat de facilitar-ne l’ús per a la informació, la investigació, l’educació i el lleure.
+2. El ministeri titular de la cultura pot prestar suport tècnic a les biblioteques de titularitat pública i a les privades amb les quals hagi establert un conveni de col·laboració.
+3. La Biblioteca Nacional té per funcions recollir, conservar i difondre la producció bibliogràfica d’Andorra i la relacionada amb el Principat. També és funció de la Biblioteca Nacional vetllar per la conservació del patrimoni bibliogràfic d’Andorra.
+4. Són d’accés públic els fons bibliogràfics recollits en les biblioteques de titularitat pública o qualificades d’ús públic. Tenen la consideració de biblioteques d’ús públic totes les biblioteques privades que rebin ajuts de les administracions públiques. Amb caràcter transitori, pot denegar-se la consulta dels béns bibliogràfics que es trobin en males condicions de conservació.
 
 **Article 33. Els museus**
 
@@ -194,7 +253,11 @@ El Govern regula per reglament les condicions que han de complir els arxius, les
 
 **Article 35. Ajuts públics**
 
-$4b
+1. El Govern ha d’establir un programa anual d’inversions per concedir ajuts per a la conservació integrada, la restauració, el manteniment i la millora del patrimoni cultural. La dotació pressupostària per a aquest programa ha de ser com a mínim igual al 0’5% de la inversió en obra pública que preveu adjudicar el Govern durant l’exercici.
+2. En l’atorgament dels ajuts s’han de fixar les garanties necessàries per evitar l’especulació amb els béns que en són objecte.
+3. Les persones i les entitats que no compleixen el deure de conservació establert en els articles 7 i 21 no es poden acollir als ajuts de l’Estat.
+4. Si en el termini de cinc anys des del pagament d’una subvenció estatal l’Estat adquireix el bé corresponent, l’import de la subvenció s’ha de considerar com un lliurament a compte i deduir-se del preu d’adquisició.
+5. El Govern, considerant que el patrimoni cultural és un bé comú, estimularà la seva conservació i promoció, incentivant i promovent iniciatives privades dirigides cap al coneixement, la protecció, la restauració i la revitalització del patrimoni cultural.
 
 **Article 36. Pagaments amb béns culturals**
 
@@ -217,7 +280,14 @@ Les administracions públiques poden acceptar, a sol·licitud de la persona inte
 
 **Article 39. Classificació de les infraccions**
 
-$4d
+1. L’incompliment de les obligacions establertes en aquesta Llei té la consideració d’infracció administrativa, llevat que constitueixi delicte.
+2. Tenen la consideració d’infraccions lleus:
+a) La manca de notificació de la transmissió dels béns d’interès cultural previstos a l’article 10.1b) L’incompliment del deure de permetre al ministeri titular de la cultura l’accés als béns a què fa referència l’article 1.4 o de facilitar les informacions pertinents perquè siguin inclosos a l’Inventari generalc) L’incompliment del deure establert a l’article 37 de permetre la visita pública dels béns integrants del patrimoni culturald) La resistència injustificada a l’exercici de la potestat inspectora de l’Administracióe) L’incompliment del deure de conservació dels béns mobles inventariatsf) L’incompliment dels requeriments formulats per l’Administració
+3. Tenen la consideració d’infraccions greus:
+a) L’incompliment dels deures de conservació, manteniment i preservació dels béns d’interès culturalb) La disgregació d’una col·lecció declarada d’interès cultural sense autorització del Governc) La destrucció il·legal de béns mobles inventariatsd) L’incompliment de l’obligació de comunicació del descobriment de restes arqueològiques o paleontològiques, o del deure de lliurament dels béns trobatse) L’incompliment de la suspensió d’obres amb motiu del descobriment de restes arqueològiques o paleontològiques o de les suspensions d’obres ordenades per l’Administracióf) L’atorgament pels comuns de llicències d’obres que incompleixin el que disposa l’article 14g) L’exportació il·legal de béns integrants del patrimoni cultural
+4. Té la consideració d’infracció molt greu la destrucció total o parcial de béns mobles o immobles declarats d’interès cultural.
+5. Tenen la consideració d’infraccions greus o molt greus en funció del dany potencial o efectiu al patrimoni cultural:
+a) La realització d’intervencions arqueològiques o paleontològiques sense l’autorització del ministeri titular de la culturab) La realització d’intervencions sobre béns immobles d’interès cultural sense llicència o incomplint les seves condicionsc) La realització d’intervencions sobre béns mobles d’interès cultural sense l’aprovació del ministeri titular de la cultura o incomplint les seves condicionsd) La modificació de béns immobles inventariats incomplint el que estableix l’article 18e) El canvi d’ús d’un bé d’interès cultural sense l’aprovació del Govern o el manteniment d’usos declarats incompatibles
 
 **Article 40. Sancions**
 

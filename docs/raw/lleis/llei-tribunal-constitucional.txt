@@ -160,7 +160,10 @@ a) La decisió i direcció de qualsevol procediment o procés la tramitació del
 
 **Article 26**
 
-$1f
+1. La presidència és l’òrgan individual de direcció, govern i representació del Tribunal Constitucional.
+2. La presidència del Tribunal Constitucional és exercida per cada un dels seus membres per una durada de dos anys, segons un torn rotatori que es determina com segueix:
+- En el moment de ser nomenat, per finalització del mandat del seu predecessor, el magistrat entrant comença a exercir les funcions de vicepresident per una durada de dos anys. Al final d’aquest període, accedeix a la presidència.- En el supòsit que el president hagi de cessar anticipadament en les seves funcions de manera definitiva, ha de ser substituït pel vicepresident, que exerceix la presidència durant el termini que mancava al seu predecessor per completar el mandat i, seguidament, exerceix les funcions de president per un període de dos anys més.- Si el vicepresident ha de cessar anticipadament en les seves funcions de manera definitiva, el magistrat entrant que el succeeixi esdevé vicepresident durant el termini que mancava al seu predecessor per completar el mandat i, al final d’aquest període, accedeix a la presidència.
+3. El cessament en el càrrec de president i la presa de possessió s’efectuen davant del Ple del Tribunal en sessió única.
 
 **Article 27**
 
@@ -227,7 +230,11 @@ La representació i defensa davant el Tribunal Constitucional dels interessos de
 
 **Article 36**
 
-$21
+1. Els procediments i processos constitucionals se substancien a la seu del Tribunal Constitucional, dins dels terminis assenyalats en aquesta Llei, i s’inicien mitjançant un escrit de demanda en el qual s’expressa:
+a) La identificació del demandant, la legitimació activa i, si és el cas, la seva representació i postulació.b) El relat dels fets que han donat lloc, si és el cas, a la lesió constitucional que s’al·legui, l’acte o norma contra o sobre els quals es planteja la demanda i la persona o òrgan als quals se n’imputa la producció.c) Els fonaments jurídics en què es basa la pretensió.d) La determinació precisa de la pretensió que s’hi conté.
+2. Amb l’escrit de demanda o de requeriment s’han d’acompanyar, si n’hi hagués, els documents que acreditin els elements de fet que s’han al·legat, així com, si és el cas, l’oferiment dels mitjans de prova que es considerin pertinents.
+3. Els escrits de contestació de la part o parts demandades o afectades resten sotmesos al mateix règim processal que l’assenyalat per als demandants.
+4. Si el Tribunal declara el decaïment de l’acció per incompareixença, desistiment o aplanament d’una de les parts al llarg del procés o procediment, això no impedeix la continuïtat de la tramitació del procés o procediment, inclosa la resolució final.
 
 **Article 37**
 
@@ -281,7 +288,10 @@ Els terminis determinats en aquesta Llei per a l’exercici de les diverses actu
 
 **Article 47**
 
-$23
+1. L’admissió de la demanda no suspèn la vigència de la norma impugnada.
+2. Admesa a tràmit la demanda pel Tribunal Constitucional, el magistrat ponent, mitjançant providència, ha de donar trasllat d’una còpia de la demanda al president de l’òrgan que va dictar la norma impugnada i al Ministeri Fiscal perquè compareguin i la contestin en el termini màxim de quinze dies naturals.
+3. Els escrits de contestació a la demanda han de formular les al·legacions tant en fets com en fonaments jurídics que estimin pertinents; han de proposar, si és el cas, els mitjans probatoris i la pràctica de la prova que convingui per al seu interès, i hi han d’acompanyar la documentació que acrediti les condicions de representació i postulació.
+4. En cas d’aplanament conjunt per part del Ministeri Fiscal i de l’òrgan que va dictar la norma impugnada a totes les pretensions de la part demandant, el Tribunal, mitjançant sentència, declara la inconstitucionalitat de la dita norma sense més tràmits. En cas d’aplanament parcial, continua la causa si bé la sentència ha d’acollir, en els termes indicats, els efectes de l’aplanament.
 
 **Article 48**
 
@@ -311,7 +321,9 @@ En l’exercici de la seva funció jurisdiccional, els batlles, el Tribunal de B
 
 **Article 53**
 
-$25
+1. És procedent la interposició de l’acció d’inconstitucionalitat davant del Tribunal Constitucional si, en qualsevol fase d’un procés jurisdiccional ordinari, l’òrgan judicial que es troba coneixent d’aquest estima, d’ofici o a instància de part, que una de les normes mencionades a l’article anterior i d’aplicació imprescindible per a la solució de la causa principal o d’algun incident substanciat en aquesta causa és contrària a la Constitució.
+2. La dita estimació d’inconstitucionalitat s’ha de fonamentar en la impossibilitat d’una interpretació de la norma o normes conforme a la Constitució, en el raonament i l’explicació del seu caràcter de norma imprescindible per a la solució de la causa principal o de l’incident de què es tracti, i en la inexistència d’una resolució o sentència del Tribunal Constitucional que n’hagi declarat la constitucionalitat en els termes als quals es refereix l’article 44.3 d’aquesta Llei.
+3. Abans d’interposar davant el Tribunal Constitucional l’escrit que planteja l’acció esmentada a l’apartat 1 d’aquest article, l’òrgan judicial ha de consultar les parts i el Ministeri Fiscal si fos present a la causa. Oïdes aquestes parts i sota la seva exclusiva responsabilitat, decideix sobre la interposició mitjançant un aute. La decisió adoptada en aquest aute no és recurrible, sens perjudici que si és negativa pugui ser replantejada la petició en instàncies successives si processalment n’hi hagués.
 
 **Article 54**
 
@@ -361,7 +373,9 @@ Els tractats internacionals aprovats pel Consell General o conclosos pel Govern 
 
 **Article 60**
 
-$27
+1. El procediment s’inicia mitjançant un escrit de sol·licitud de dictamen de constitucionalitat i ha de ser presentat davant del Tribunal Constitucional, amb els requisits exigits en l’article 36 d’aquesta Llei, dins el termini comú comprès entre el vuitè i el quinzè dia que la Constitució atorga als coprínceps per manifestar el consentiment de l’Estat.
+2. En cas d’acabament del mandat dels consellers generals per les causes previstes a l’article 51.1 de la Constitució, la seva legitimació per interposar una sol·licitud de dictamen de constitucionalitat es perllonga fins a la data de constitució del nou Consell General. Els membres del Consell General que hagin interposat una sol·licitud de dictamen de constitucionalitat mentre han estat legitimats per fer-ho mantenen la legitimació per a tots els actes relatius a la tramitació de la sol·licitud esmentada, fins que el Tribunal Constitucional emeti el dictamen corresponent, fins i tot després de la constitució del nou Consell General.
+3. La interposició de l’escrit davant del Tribunal Constitucional impedeix la ratificació del tractat fins al moment en què el Tribunal emeti el seu dictamen amb els efectes previstos a l’article 62 d’aquesta Llei.
 
 **Article 61**
 

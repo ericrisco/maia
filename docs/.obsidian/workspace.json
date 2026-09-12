@@ -11,14 +11,10 @@
             "id": "ff52099082dd6485",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "temes/politica/README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gràfica"
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "temes/politica/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "temes/politica/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +155,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "temes/politica/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,18 +183,42 @@
   },
   "active": "ff52099082dd6485",
   "lastOpenFiles": [
+    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/ub-bitstream-exili-evasions.json",
+    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/exili-evasions-andorra-ub.txt",
+    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/exili-evasions-andorra-ub.pdf",
+    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/youtube-ari-claude-benet-xarxes-iw9Ut7bZN2Q.m4a",
+    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/youtube-search-benet-kQrCXzw-tqk.info.json",
+    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/youtube-search-benet-iw9Ut7bZN2Q.info.json",
+    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/youtube-search-benet-Claude Benet passadors Andorra xarxes evasió.info.json",
+    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/youtube-search-viadiu-XOyFVUXzITw.es.vtt",
+    "temes/persones/eric-risco.md",
+    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/youtube-search-viadiu-XOyFVUXzITw.info.json",
+    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/youtube-search-viadiu-Francesc Viadiu Andorra Entre el torb Gestapo.info.json",
+    "temes/persones/irineu-esteve-altimiras.md",
+    "temes/persones/nahuel-carabana.md",
+    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/todocoleccion-306504858.jpg",
+    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/todocoleccion-andorra-cadena-firmado.html",
+    "temes/persones/joan-verdu.md",
+    "temes/persones/monica-doria.md",
+    "temes/institucions/justicia/lordenament-juridic-avui.md",
+    "temes/esports/competicio/andorra-als-jocs-olimpics.md",
+    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/dedicatoria-viadiu-josep-soler-maig-1974.jpg",
+    "temes/institucions/relacions-exteriors/el-reconeixement-internacional.md",
+    "fonts/wikipedia-esport-andorra.md",
+    "raw/web/esport/README.md",
+    "temes/institucions/petits-estats/andorra-com-a-microestat.md",
+    "fonts/jurisprudencia-ad.md",
+    "temes/institucions/justicia/les-lleis-qualificades.md",
+    "temes/politica/README.md",
+    "temes/institucions/justicia/el-dret-vigent.md",
+    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/cortes-1992-page-189.png",
+    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/cortes-1992-page-188.png",
+    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/cortes-1992-page-179.png",
+    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/cortes-1992-page-177.png",
+    "fonts/jurisprudencia-lleis-andorra.md",
+    "raw/lleis/README.md",
     "temes/cultura/musica-i-cancons/la-canco-popular-andorrana.md",
     "fonts/deu-tradicio-coral.md",
-    "raw/lleis/contenciós-administratiu.txt",
-    "raw/lleis/transparencia.txt",
-    "raw/lleis/transicio-energetica.txt",
-    "raw/lleis/transferencies-comuns.txt",
-    "raw/lleis/tinenca-animals.txt",
-    "raw/lleis/societats.txt",
-    "raw/lleis/supervisio-prudencial.txt",
-    "raw/lleis/sistema-financer.txt",
-    "raw/lleis/serveis-socials.txt",
-    "raw/lleis/seguretat-xarxes.txt",
     "temes/institucions/consell-general/el-consell-de-la-terra.md",
     "temes/costums/religiositat/les-religions-dandorra-avui.md",
     "fonts/pastor-andorra-diversa.md",
@@ -210,31 +227,7 @@
     "temes/llengua/politica-linguistica/qui-parla-que.md",
     "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/consulta-aga-censura-esborrany.md",
     "temes/historia/moments-historics/la-cronologia-dandorra.md",
-    "temes/historia/moments-historics/els-vuit-centenaris.md",
-    "temes/historia/moments-historics/README.md",
-    "temes/territori/clima-i-muntanya/laigua-i-la-neu.md",
-    "fonts/pons-neu-i-aigua.md",
-    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/consulta-pavello-esborrany.md",
-    "fonts/sac-esport-i-salut.md",
-    "temes/cultura/teatre/el-teatre-de-carnestoltes.md",
-    "temes/cultura/teatre/la-vida-teatral.md",
-    "temes/cultura/teatre/README.md",
-    "fonts/masegosa-teatre-andorra.md",
-    "raw/sac-debats-recerca/README.md",
-    "raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/consulta-esborrany.md",
-    "raw/sdd/ewa/eloise-fontargente/google-books-snippet-audit.md",
-    "temes/societat/immigracio/la-piramide-de-prestigi.md",
-    "temes/societat/immigracio/el-mercat-de-treball-dual.md",
-    "temes/societat/demografia/la-composicio-per-nacionalitats.md",
-    "fonts/mico-interculturalitat.md",
     "raw/sdd/ewa/eloise-fontargente/xiv-congreso-page-08.png",
-    "raw/sdd/ewa/eloise-fontargente/xiv-congreso-page-07.png",
-    "raw/sdd/ewa/eloise-fontargente/xiv-congreso-page-06.png",
-    "raw/sdd/ewa/eloise-fontargente/README.md",
-    "raw/sdd/ewa/eloise-fontargente/iec-page-15.png",
-    "raw/sdd/ewa/eloise-fontargente/iec-page-14.png",
-    "raw/sdd/ewa/eloise-fontargente/iec-page-13.png",
-    "raw/sdd/ewa/eloise-fontargente/bulletin-page-18.png",
-    "raw/sdd/ewa/eloise-fontargente/bulletin-page-17.png"
+    "raw/sdd/ewa/eloise-fontargente/xiv-congreso-page-07.png"
   ]
 }

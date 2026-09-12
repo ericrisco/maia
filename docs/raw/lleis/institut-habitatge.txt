@@ -62,7 +62,12 @@ La persona interessada pot adreçar-se mitjançant un escrit a l’Institut Naci
 
 **Article 7. Funcions**
 
-$1e
+1. Corresponen a l’Institut Nacional de l’Habitatge les funcions següents:
+a) En relació amb les polítiques públiques d’habitatge:i. Proposar al Govern la planificació de les polítiques públiques de l’habitatge, inclosa l’elaboració de plans estratègics de l’habitatge.ii. Dissenyar i proposar al Govern les polítiques d’informació i atenció ciutadana en totes les matèries de la seva competència.iii. Redactar i traslladar propostes normatives al Govern.iv. Assessorar el Govern i fer-li recomanacions en matèria d’habitatge.b) En relació amb l’habitatge de protecció pública:i. Promoure, tant de manera directa com principalment mitjançant la gestió indirecta, habitatges de protecció pública.ii. Promoure operacions de remodelació i rehabilitació d’habitatges que formin part del patrimoni de l’Institut.iii. Tramitar, instruir i gestionar les adjudicacions d’habitatges de protecció pública.iv. Gestionar béns i drets, incloses les aportacions dineràries, d’altres administracions públiques.v. Fer la proposta d’aprovació dels estàndards d’habitatge de protecció pública.vi. Redactar i proposar al Govern l’aprovació del reglament de fixació dels criteris de selecció i accés a l’habitatge de protecció pública.
+c) En relació amb el Fons d’Habitatge, l’Institut promou la constitució del Fons d’Habitatge.
+d) En relació amb els estudis i el tractament de dades:i. Portar a terme estudis i publicacions en matèria d’habitatge.ii. Definir un sistema d’indicadors que permetin conèixer la situació de l’habitatge en termes quantitatius i qualitatius, així com mesurar la necessitat de promoció d’habitatge de protecció pública.e) En relació amb les mesures de protecció de les persones usuàries dels habitatges:i. Vetllar pel compliment dels paràmetres de qualitat i accessibilitat dels habitatges i de les mesures per garantir el seu bon ús, conservació i rehabilitació i la transparència del mercat immobiliari.ii. Difondre les ajudes i prestacions destinades al lloguer i a la rehabilitació d’habitatges, en l’àmbit de la seva competència, així com promoure les ajudes destinades a col·lectius amb requeriments específics.iii. Assumir la responsabilitat del registre administratiu del fitxer de dades relatives a les dades dels contractes d’arrendaments d’habitatge.
+2. Sense perjudici de les funcions assenyalades a l’apartat 1, corresponen a l’Institut Nacional de l’Habitatge totes les funcions que el Govern li atribueixi o encarregui per mitjà dels instruments jurídics adequats en cada cas en matèria d’habitatge.
+3. L’Institut Nacional de l’Habitatge, en el marc de la normativa continguda en el Codi de l’Administració i de la normativa de finances públiques, compleix les funcions que disposen els apartats 1 i 2 i les que se li puguin atribuir o encarregar, de manera directa o indirectament mitjançant els mecanismes establerts en la normativa aplicable, en particular participant en societats, consorcis i entitats públiques i privades l’objecte de les quals sigui la realització d’activitats relacionades amb les funcions de l’Institut.
 
 **Article 8. Competències**
 
@@ -73,7 +78,17 @@ a) Desenvolupar aquestes funcions directament mitjançant l’òrgan o els òrga
 
 **Article 9. Comitè Director**
 
-$20
+1. El Comitè Director és l’òrgan directiu col·legiat de l’Institut Nacional de l’Habitatge.
+2. El Comitè Director està integrat per tres membres. Dos membres són proposats pel Govern i l’altre membre és proposat, de manera conjunta, entre els set comuns. La designació dels membres es fa entre persones de nacionalitat andorrana amb una titulació acadèmica superior en el camp econòmic, jurídic, financer, social o de l’arquitectura i amb una experiència reconeguda i coneixements acreditats d’un mínim de quatre anys. En tots els casos, la designació d’un membre ha de contenir la motivació suficient que avali la idoneïtat de la persona per al càrrec i ha de procurar-se el respecte al principi de presència equilibrada de dones i homes.
+3. El Consell General, prèvia proposta conjunta del Govern i dels comuns, nomena els membres de l’Institut per majoria simple.
+4. El mandat s’estableix per a un període de quatre anys renovables.
+5. Qualsevol membre del Comitè director ha de cessar en les seves funcions únicament en els casos següents:
+a) Per renúncia expressa, feta per escrit, davant del síndic general.b) Per defuncióc) Per finalització del termini del seu mandat.d) Per condemna mitjançant sentència ferma per delicte dolós.e) Per incórrer en incompatibilitat, segons les previsions de la present Llei.f) Per manifesta negligència o descuit en l’exercici del seu càrrec.
+6. En els cinc primers casos esmentats en l’apartat anterior, el síndic general declara el càrrec vacant, una vegada constata, mitjançant el document corresponent, la causa que l’ocasiona.
+7. La negligència o el descuit en l’exercici del càrrec només pot ser declarada pel Ple el Consell General, en sessió pública, per majoria absoluta dels seus membres i després d’audiència amb la persona interessada
+8. El president, que ha de ser un dels membres nomenats pel Govern, és la persona que ocupa la Direcció de l’Institut Nacional de l’Habitatge.
+9. Les decisions s’acorden per majoria dels presents. El president té vot de qualitat.
+10. El Comitè es reuneix de manera ordinària, dos vegades l’any com a mínim. A petició del president o de dos dels membres, es pot reunir en sessió extraordinària.
 
 **Article 10. Funcions del Comitè Director**
 
@@ -82,7 +97,11 @@ a) Aprovar les dotacions de personal de l’Institut i la seva organització.b) 
 
 **Article 11. Direcció**
 
-$22
+1. La direcció de l’Institut Nacional de l’Habitatge recau sobre un dels membres del Comitè Director proposat pel Govern per ocupar aquest lloc.
+El mandat s’estableix per a un període de quatre anys renovables i el càrrec té el caràcter de dedicació exclusiva amb la possibilitat que la persona designada sigui destituïda en qualsevol moment pel Consell General en aplicació de les disposicions de l’article 9.
+2. La persona responsable de la direcció de l’Institut ha de tenir la nacionalitat andorrana i disposar d’una titulació acadèmica en l’àmbit de l’economia, les finances, l’arquitectura, el treball social o el dret, amb prestigi reconegut, formació i experiència acreditada en l’àmbit de l’habitatge.
+3. Són facultats de la persona responsable de la direcció de l’Institut:
+a) Preparar les sessions del Comitè Director i elaborar la documentació que ha d’examinar.b) Executar els acords del Comitè Director de l’Institut.c) Exercir la representació de l’organisme.d) Proposar al Comitè Director de l’Institut el pla estratègic i d’inversions de l’organisme.e) Exercir la direcció administrativa de l’organisme i representar-lo en tot tipus d’actes i contractes la quantia dels quals no excedeixi la xifra per a la qual estigui delegat expressament pel Comitè Director.f) Administrar els recursos de l’Institut, gestionar els ingressos, ordenar els cobraments i els pagaments i retre comptes davant del Comitè Director.g) Portar a terme la contractació de personal.h) I, en general, totes les que no estiguin atribuïdes expressament a un altre òrgan.
 
 **Article 12. Comissió Nacional de l’Habitatge**
 
@@ -113,7 +132,8 @@ a) La potestat d’execució forçosab) La potestat de recuperació d’oficic) 
 
 **Article 15 bis. Causes de desnonament administratiu**
 
-$24
+És procedent el desnonament administratiu de les persones adjudicatàries dels habitatges de protecció pública per les causes següents:
+a) Si finalitza el contracte per qualsevol de les causes previstes reglamentàriament i no es lliura la possessió de l’habitatge en el termini establert.b) Si no paguen les rendes fixades en el contracte de cessió administrativa de l’habitatge de protecció pública, els imports que siguin exigibles per serveis o despeses comuns o qualsevol altra aportació dinerària que estableixi la normativa vigent.c) Si destinen l’habitatge a un ús indegut o no autoritzat.d) Si no disposen d’un títol legal que els autoritzi a ocupar l’habitatge de protecció pública, les seves zones comunes o els locals i les edificacions complementàries.e) Si han estat sancionades mitjançant una resolució ferma per qualsevol de les següents infraccions tipificades en aquesta llei:- No destinar l’habitatge a domicili habitual i permanent sense haver obtingut l’autorització preceptiva.- Cedir totalment o parcialment l’habitatge per qualsevol títol per part de la persona adjudicatària, sense autorització.- Falsejar les dades exigibles per accedir a un habitatge de protecció oficial.
 
 **Article 15 ter. Procediment de desnonament administratiu**
 
@@ -180,7 +200,12 @@ Les administracions públiques han de limitar llur activitat als serveis essenci
 
 **Article 26. Règim de concessió de les promocions d’habitatges de protecció pública**
 
-$26
+1. L’Institut pot establir que la construcció o l’explotació de determinades promocions d’habitatge de protecció pública es duguin a terme en règim de concessió administrativa, i pot regular-ne les condicions.
+2. La concessió atorga al seu titular el dret a tenir l’ús privatiu de les obres efectuades per ell durant un període que en tot cas, incloent-hi el període principal més les pròrrogues, no pot superar el límit establert en la Llei de contractació pública per a les concessions d’obres. La concessió no ha d’afectar el dret de propietat i ha de respectar els drets de tercers, i comporta, encara que no sigui explicitat, la facultat de l’Administració de rescatar-la abans del venciment si hi ha raons d’interès públic que ho justifiquin. Els titulars d’aquestes concessions tenen prohibida la cessió de la concessió a tercers, llevat d’autorització expressa de l’òrgan de contractació.
+3. Les obligacions que han de complir els titulars de concessions establertes sobre els habitatges de protecció pública s’estableixen per reglament.
+4. Correspon al Comitè Director de l’Institut, a proposta del director de l’Institut, atorgar les concessions a què es refereix aquest article i acordar-ne, quan escaigui, les renovacions. Els requisits que han de complir les sol·licituds, així com el procediment i les regles o els criteris per atorgar i per renovar concessions, són els aplicables a la concessió d’obres regulada per la Llei de contractació pública.
+5. L’anul·lació o l’extinció d’una concessió, per renúncia o acabament del termini per al qual va ser atorgada, o les eventuals pròrrogues, o per rescat, donen lloc a la seva reversió immediata a l’Institut Nacional de l’Habitatge, que ha de compensar el concessionari en els supòsits i les condicions que es determinin en la Llei de contractació pública.
+6. El règim de concessió de les promocions d’habitatge de protecció pública regulat en aquest article també és aplicable a les aportacions al Fons d’Habitatge i els negocis jurídics que aquest ens pugui dur a terme d’acord amb la seva política d’inversió.
 
 #### Capítol vuitè. Recollida de dades estadístiques en matèria d’habitatge
 
@@ -201,7 +226,12 @@ $26
 
 **Article 29. Potestat inspectora**
 
-$28
+1. L’Institut pot portar a terme inspeccions amb la finalitat d’analitzar el compliment de la normativa vigent en matèria d’habitatge per mitjà del personal habilitat a aquest efecte.
+2. L’activitat inspectora està sotmesa als estrictes requisits del principi de legalitat, a les disposicions del Codi de l’Administració i al Reglament regulador del procediment sancionador.
+3. Les persones inspectores tenen la consideració d’autoritat pública en el desenvolupament de llur activitat i estan obligades a mantenir el secret sobre la informació que coneguin en l’exercici de les seves funcions, fins i tot després d’haver cessat en el càrrec.
+4. Per a l’exercici de les seves funcions, les persones inspectores estan facultades per:
+a) Efectuar visites de comprovació i aixecar les actes corresponents.b) Examinar la documentació que sigui sol·licitada a altres administracions o a les persones físiques o jurídiques requerides en el marc de les actuacions prèvies incoades o dins de la instrucció de l’expedient sancionador corresponent.c) Fer les citacions oportunes, per tot mitjà admès en dret, a aquestes persones o a qui les representi, en les quals ha de constar la data, el lloc, l’hora i l’objecte de la compareixença, així com els efectes de no acomplir-les.
+En el cas que, d’acord amb els resultats d’una inspecció, es constati l’incompliment de les disposicions d’aquesta Llei, s’ha d’incoar l’expedient sancionador corresponent.
 
 **Article 30. Potestat sancionadora**
 
@@ -209,11 +239,18 @@ L’Institut Nacional de l’Habitatge disposa de la capacitat d’imposar les s
 
 **Article 31. Infraccions**
 
-$2a
+1. L’incompliment de les obligacions contingudes en aquesta Llei, així com en les normes que la complementin o la desenvolupin, constitueix una infracció administrativa en matèria d’habitatge.
+2. Les infraccions administratives es classifiquen en molt greus, greus i lleus.
+3. Són infraccions molt greus en matèria d’habitatge les accions o omissions següents:
+a) Incomplir la destinació dels béns de les persones públiques a la promoció d’habitatges de protecció pública quan el planejament urbanístic els hagi reservat a aquesta finalitat.b) La inexactitud o irregularitat en els documents, certificats o informes tècnics quan es posi en risc la seguretat dels habitatges de protecció pública.c) Incomplir el deure de conservació i rehabilitació dels habitatges de protecció pública, si aquest incompliment suposa un risc per a la seguretat de les persones.d) No destinar l’habitatge de protecció pública o de preu assequible a residència habitual i permanent dels propietaris o dels titulars de l’obligació d’ocupar-lo, sense autorització.e) Transmetre, llogar o cedir l’ús de l’habitatge de protecció pública o de preu assequible a terceres persones.f) La percepció de qualsevol sobrepreu en el lloguer o la venda de l’habitatge de protecció pública.g) Destinar les ajudes percebudes a finalitats diferents de les que en van motivar l’atorgament.h) La reincidència consistent en la comissió de dos infraccions greus.
+4. Són infraccions greus en matèria d’habitatge les accions o omissions següents:
+a) Incomplir les disposicions relatives als procediments establerts en matèria d’habitatge de protecció pública.b) Subministrar dades inexactes per accedir a un habitatge de protecció pública.c) Incomplir els terminis establerts per a l’inici i la finalització de les promocions d’habitatge de protecció pública o de preu assequible sobre sòls reservats o qualificats per a aquesta finalitat.d) La reincidència consistent en la comissió de dos infraccions lleus.
+5. Són infraccions lleus totes les que no tinguin el caràcter de molt greu o de greu. En qualsevol cas, constitueix sempre una infracció incomplir l’obligació de declarar les dades d’habitatge establerta a l’article 28.
 
 **Article 32. Procediment sancionador**
 
-$2c
+El procediment sancionador s’ajusta a les prescripcions següents:
+a) Normativa aplicable. El procediment s’ha d’ajustar al que estableixen el Codi de l’Administració i la normativa reguladora del procediment sancionador vigents, amb les particularitats establertes en els apartats següents.b) Òrgans competents. Correspon al Comitè Director de l’Institut incoar l’expedient sancionador, nomenar l’instructor i dictar la resolució corresponent.c) Incoació i instrucció. El procediment sancionador s’incoa d’ofici o a instància de part. Per iniciar el procediment, el Comitè Director pot decidir efectuar la instrucció prèvia d’una informació reservada per esclarir els fets, en vista de la qual acorda la incoació de l’expedient o, si escau, l’arxivament de les actuacions.d) Al·legacions i resolució. La incoació de l’expedient sancionador i també el plec de càrrecs amb l’exposició dels fets imputats, la referència dels preceptes legals infringits i la proposta de sanció es notifiquen a la part que presumptament ha comès la infracció en matèria d’habitatge. En el termini de deu dies a comptar de la notificació, la part presumptament infractora pot al·legar tot el que consideri pertinent i proposar la pràctica de les proves oportunes que s’hagin de dur a terme sempre que no es considerin inútils o irrellevants. Una vegada finalitzada la instrucció, l’expedient es trasllada a l’òrgan competent perquè el resolgui.e) Recurs administratiu. Contra la resolució pot interposar-se recurs administratiu de conformitat amb les previsions del Codi de l’Administració.
 
 **Article 33. Sancions**
 

@@ -22,15 +22,25 @@ Instantania del consolidat: 2026-09-12T05:30:03.283033Z
 
 **Article 3. Dret d’afiliació a organitzacions sindicals**
 
-$1e
+1. Tots els assalariats, àdhuc els que han cessat la seva activitat per una incapacitat laboral, la jubilació o la desocupació involuntària, així com els treballadors per compte propi que no tinguin assalariats al seu càrrec, tenen el dret d’afiliar-se lliurement a l’organització sindical de la seva elecció i a donar-se’n de baixa, amb l’única condició de respectar els seus estatuts. Ningú pot ser obligat a afiliar-se a una organització sindical.
+2. L’exercici del dret de constituir organitzacions sindicals i afiliar-s’hi per part dels membres del Cos de Policia, del Cos Penitenciari, del Cos de Prevenció i Extinció d’Incendis i Salvaments, del Cos de Banders, i dels altres cossos especials existents o que es puguin crear en l’esdevenidor, es regeix per la seva normativa específica i, subsidiàriament, per aquesta Llei.
+3. Sense perjudici del dret d’associar-se per defensar els seus interessos professionals, els membres de les carreres judicial i fiscal no poden constituir cap organització sindical ni afiliar-s’hi.
 
 **Article 4. Finalitats, personalitat i responsabilitat de les organitzacions sindicals**
 
-$20
+1. Les finalitats de les organitzacions sindicals són defensar i promoure els interessos socials i econòmics dels assalariats en el marc de les relacions laborals, vetllar per la preservació de l’ocupació en les empreses, contribuir al desenvolupament personal i professional dels assalariats, promoure la concertació i el diàleg social amb els empresaris i les organitzacions empresarials, i col·laborar amb les institucions públiques amb aquestes finalitats.
+2. Les organitzacions sindicals adquireixen personalitat jurídica i plena capacitat d’obrar amb la inscripció al Registre d’Organitzacions Sindicals i amb la publicació dels seus estatuts al
+Butlletí Oficial del Principat d’Andorra
+.
+3. Les organitzacions sindicals responen pels actes o els acords adoptats pels seus òrgans, d’acord amb el que estableixin els seus estatuts, en l’àmbit de l’exercici regular de les seves competències.
+4. Les organitzacions sindicals només responen dels actes dels seus afiliats quan aquests actuïn d’acord amb el que estableixin els seus estatuts, en representació de la seva organització, o quan segueixin les consignes, les directrius o qualsevol altra decisió presa pels òrgans de l’organització de conformitat amb els estatuts o en el marc assembleari.
 
 **Article 5. Drets de les organitzacions sindicals**
 
-$22
+1. L’organització i el funcionament de les organitzacions sindicals es regeixen pel principi de democràcia interna.
+2. Les organitzacions sindicals tenen dret a:
+a) Establir els seus estatuts i les normes de funcionament intern. El contingut mínim, l’aprovació, el dipòsit i la publicitat dels estatuts fundacionals es regulen d’acord amb aquesta Llei i les normes reglamentàries sobre la matèria.b) Organitzar la seva gestió i la seva administració interna, i les seves activitats i el seu programa d’acció.c) Exercir l’activitat sindical inclòs el dret a la negociació col·lectiva, en els termes previstos en la Llei de relacions laborals.d) Constituir i integrar-se en federacions i confederacions, i en organitzacions sindicals supraestatals, i també dissoldre-les i separar-se’n, segons el procediment regulat en aquesta Llei i en els estatuts.e) Contractar assegurances que proposin una prestació o ajuda econòmica, en cas d’atur, als seus afiliats.
+3. Les organitzacions sindicals no poden ser suspeses ni dissoltes contra la voluntat dels seus òrgans, excepte si existeix una resolució ferma de l’autoritat judicial en aquest sentit.
 
 **Article 6. Normes aplicables a les organitzacions sindicals**
 
@@ -39,7 +49,8 @@ a) Per aquesta Llei i la resta de la normativa específica aplicable, en especia
 
 **Article 7. Estatuts de les organitzacions sindicals**
 
-$24
+Els estatuts de les organitzacions sindicals han de respectar els principis democràtics i han de tenir el contingut mínim següent:
+a) La denominació de l’organització, que no pot coincidir amb la d’una altra organització o associació registrada legalment o induir a confusió, i no pot consistir en la simple menció d’un territori, en una expressió genèrica d’ús comú o en la utilització de conceptes o expressions pròpies d’altres persones, ni incloure expressions contràries a la llei o a l’honor ni a altres drets de les persones.b) El domicili i l’àmbit d’actuació territorial andorrà i funcional.c) Les finalitats de l’organització sindical, tal com es defineixen a l’article 4.1.d) Els requisits i els procediments per a l’adquisició, el manteniment i la pèrdua de la condició d’afiliat, i el pagament de les quotes d’afiliació i de manteniment de la condició d’afiliat.e) Els òrgans de representació, govern i administració i el seu funcionament, així com el règim de provisió electiva i de cessament dels càrrecs.f) El procediment per a la modificació dels estatuts i per a la dissolució i la fusió de l’organització sindical.g) El règim econòmic, que ha d’establir el caràcter, la procedència i la destinació dels seus recursos, així com els mecanismes que permetin als afiliats conèixer la situació econòmica de l’organització sindical.
 
 **Article 8. Registre d’Organitzacions Sindicals**
 
@@ -49,27 +60,46 @@ $24
 
 **Article 9. Procediment d’inscripció i publicitat**
 
-$26
+1. La inscripció de les organitzacions sindicals, que es duu a terme mitjançant el dipòsit, el registre i la publicació dels seus estatuts, s’ha d’ajustar al procediment següent i a les normes reglamentàries sobre la matèria.
+2. Les persones que han constituït una organització sindical n’han de sol·licitar al Registre d’Organitzacions Sindicals la inscripció, adjuntant a la sol·licitud la documentació següent:
+a) L’acta fundacional de l’organització sindical protocol·litzada, en la qual ha de constar la identitat de les persones que han constituït l’organització i, si escau, de les persones que les representen legalment.b) El text íntegre dels estatuts signats a cadascuna de les pàgines per les persones que han constituït l’organització sindical.c) L’acreditació que les persones que han constituït l’organització sindical reuneixen els requisits que estableix aquesta Llei.d) La certificació de la designació de les persones que ocupen els càrrecs de direcció, expedida pel secretari o la persona que tingui assignades unes funcions equivalents.
+3. El Registre d’Organitzacions Sindicals, en rebre la sol·licitud d’inscripció, ha de decidir, en el termini de deu dies hàbils, sobre el dipòsit i el registre dels estatuts o, si és el cas, ha de demanar a les persones que han constituït l’organització que corregeixin els defectes o les mancances observats i atorgar-los un nou termini de deu dies hàbils per tal que s’efectuï la correcció esmentada.
+4. Un cop transcorregut aquest segon termini, es fan efectius el dipòsit i el registre dels estatuts o, si escau, es refusen el dipòsit i el registre esmentats mitjançant una resolució motivada, que només es pot fonamentar en defectes o mancances relatius al contingut mínim dels estatuts establert a l’article 7, o en l’incompliment dels altres requisits exigits per aquesta Llei.
+5. En el termini màxim de deu dies hàbils des del dipòsit i el registre, els estatuts s’han de publicar al
+Butlletí Oficial del Principat d’Andorra
+, fent constar, com a mínim, la denominació de l’organització sindical, el seu àmbit territorial i funcional i la identitat de les persones que han constituït l’organització.
+6. La modificació dels estatuts de les organitzacions sindicals s’ha d’ajustar al mateix procediment previst als apartats anteriors.
+7. Qualsevol persona està facultada per consultar els estatuts dipositats al Registre d’Organitzacions Sindicals i en pot obtenir una còpia autèntica.
+8. Les autoritats públiques i les persones que acreditin un interès directe, personal i legítim poden sol·licitar a l’òrgan jurisdiccional competent que declari que els estatuts d’una organització sindical dipositats, registrats i publicats no són conformes al dret.
 
 **Article 10. Actes inscriptibles**
 
-$28
+1. Les organitzacions sindicals inscrites han de presentar al Registre la documentació següent, certificada pel secretari o l’òrgan equivalent:
+a) Els acords de modificació dels estatuts, incloent-hi l’acord de modificació del domicili social.b) Els acords de cessament i nomenament dels càrrecs dels òrgans directius estatutaris.c) Les cessions i les adquisicions patrimonials.d) Els acords de cessament de les seves activitats, de dissolució o, en general, els actes que donin lloc a la dissolució i la liquidació de l’organització sindical.e) El nombre dels assalariats que hi estiguin afiliats en cada moment amb acreditació de les quotes satisfetes i, en concret, el nombre de les noves afiliacions i les baixes que tinguin lloc, a l’efecte de l’expedició del certificat que preveu l’article 12.3.f) Qualsevol altra documentació que estableixi aquesta Llei o la Llei qualificada d’associacions.
+2. Els actes inscriptibles només poden ser oposats a tercers i produir-los efectes en contra a partir del moment de la inscripció.
 
 **Article 11. Representativitat de les organitzacions sindicals**
 
-$2a
+L’abast d’actuació de les organitzacions sindicals el determina el seu nivell de representativitat, que es defineix en funció de l’assoliment de les condicions mínimes següents:
+a) Tenen la consideració d’organitzacions sindicals més representatives les integrades com a mínim pel 15% dels delegats dels assalariats o els membres dels comitès d’empresa escollits en les eleccions de representants dels assalariats a l’empresa de tot el territori del Principat d’Andorra.b) Tenen la consideració d’organitzacions sindicals representatives les integrades com a mínim pel 20% dels delegats dels assalariats o els membres dels comitès d’empresa escollits en les eleccions de representants dels assalariats a l’empresa d’un àmbit sectorial d’activitat determinat.c) A banda dels percentatges establerts anteriorment, per tenir la consideració d’organització sindical més representativa o representativa, s’han d’haver realitzat eleccions en un nombre d’empreses que tinguin conjuntament un nombre d’assalariats superior al 20% del total d’assalariats del Principat d’Andorra, o del 25% del total d’assalariats d’un àmbit sectorial d’activitat determinat, respectivament.
 
 **Article 12. Atribucions de les organitzacions sindicals**
 
-$2c
+1. Les organitzacions sindicals més representatives tenen les atribucions que els confereixen la Llei de relacions laborals i la Llei qualificada de mesures de conflicte col·lectiu, i en concret tenen l’atribució d’exercir la representació institucional davant les administracions públiques i la resta d’entitats o organismes oficials, quan escaigui, i en concret prop del Consell Econòmic i Social.
+2. Les organitzacions sindicals representatives tenen les atribucions que els confereixen la Llei de relacions laborals i la Llei qualificada de mesures de conflicte col·lectiu.
+3. Les organitzacions sindicals que vulguin exercir qualsevol de les atribucions que derivi del seu nivell de representativitat han d’acreditar aquesta representativitat davant la persona o l’entitat que correspongui en cada cas, mitjançant el certificat que ha d’expedir, a sol·licitud de l’organització interessada, el Departament de Treball a aquest efecte, com a responsable del registre de les actes electorals corresponents a les eleccions de delegats dels assalariats i de membres dels comitès d’empresa.
+4. Les organitzacions sindicals tenen dret a obtenir subvencions públiques per desplegar les seves activitats en una quantia proporcional al nombre de delegats dels assalariats o de membres del comitè d’empresa que en formin part. Aquestes subvencions no poden excedir el límit del 50% del que hagin recaptat en concepte de les quotes dels afiliats durant l’exercici anterior.
 
 **Article 13. Drets sindicals en l’àmbit de l’empresa**
 
-$2e
+Tots els assalariats afiliats a una organització sindical tenen reconeguts en l’àmbit de l’empresa els drets següents:
+a) Celebrar reunions i distribuir informació sindical, sempre que ho notifiquin a l’empresari amb prou antelació i ho facin fora de les hores de treball, sense pertorbar l’activitat de l’empresa.b) Rebre la informació que els remeti la seva organització sindical a través dels mitjans de comunicació que els faciliti la mateixa empresa i que siguin adequats per garantir la transmissió i la recepció d’aquesta informació.c) Promoure eleccions dels representants dels assalariats a l’empresa on treballen.d) Presentar-se com a candidats a les eleccions dels representants dels assalariats de l’empresa on treballen.e) Disposar d’un tauler d’anuncis o un suport similar ubicat dins l’empresa, en un lloc de fàcil accés per al conjunt dels assalariats, que permeti la comunicació de la informació d’interès sindical.f) Utilitzar un local adequat per al desenvolupament de les seves activitats quan la plantilla de l’empresa superi els 50 assalariats.g) Disposar d’un local adequat per al desenvolupament de les seves activitats quan la plantilla de l’empresa superi els 250 assalariats.
 
 **Article 14. Drets dels representants sindicals**
 
-$30
+1. Els assalariats que exerceixin càrrecs electes en les organitzacions sindicals més representatives i representatives tenen dret a:
+a) Assistir i accedir als centres de treball per participar en les activitats pròpies de la seva organització sindical o del conjunt dels assalariats, amb comunicació prèvia a l’empresari i sense que l’exercici d’aquest dret pugui interrompre el desenvolupament normal del procés productiu.b) Obtenir els permisos no retribuïts necessaris per a l’exercici de les funcions sindicals pròpies del càrrec, que poden estar subjectes a limitacions en funció de les necessitats del funcionament normal de l’empresa.
+2. Els representants sindicals que participen en les comissions negociadores d’acords o convenis col·lectius i són assalariats de l’empresa tenen dret, en els termes fixats a la Llei de relacions laborals i als acords o els convenis col·lectius corresponents, a obtenir els permisos retribuïts necessaris per exercir la tasca negociadora, sempre que l’empresa esmentada estigui afectada pel procés de negociació col·lectiva.
 
 **Article 15. Discriminació sindical**
 
@@ -102,11 +132,19 @@ Tots els empresaris tenen el dret d’afiliar-se lliurement a l’organització 
 
 **Article 21. Finalitats, personalitat i responsabilitat de les organitzacions empresarials**
 
-$32
+1. Les finalitats de les organitzacions empresarials són defensar i promoure els interessos socials i econòmics dels empresaris en el marc de les relacions laborals, vetllar per la preservació de l’ocupació en les empreses, contribuir al seu desenvolupament, promoure la concertació i el diàleg social amb les organitzacions sindicals i col·laborar amb les institucions públiques amb aquestes finalitats.
+2. Les organitzacions empresarials adquireixen personalitat jurídica i plena capacitat d’obrar amb la inscripció al Registre d’Organitzacions Empresarials i amb la publicació dels seus estatuts al
+Butlletí Oficial del Principat d’Andorra
+.
+3. Les organitzacions empresarials responen pels actes o els acords adoptats pels seus òrgans, d’acord amb el que estableixin els seus estatuts, en l’àmbit de l’exercici regular de les seves competències.
+4. Les organitzacions empresarials només responen dels actes dels seus afiliats quan aquests actuïn d’acord amb el que estableixin els seus estatuts, en representació de la seva organització, o quan segueixin les consignes, les directrius o qualsevol altra decisió presa pels òrgans de l’organització de conformitat amb els estatuts o en el marc assembleari.
 
 **Article 22. Drets de les organitzacions empresarials**
 
-$34
+1. L’organització i el funcionament de les organitzacions empresarials es regeixen pel principi de democràcia interna.
+2. Les organitzacions empresarials tenen dret a:
+a) Establir els seus estatuts i les normes de funcionament intern. El contingut mínim, l’aprovació, el dipòsit i la publicitat dels estatuts fundacionals es regulen d’acord amb aquesta Llei i les normes reglamentàries sobre la matèria.b) Organitzar la seva gestió i la seva administració interna, i també les seves activitats i el seu programa d’acció i, en concret, estructurar-se internament segons els sectors d’activitat o el nombre d’assalariats dels seus afiliats.c) Exercir el dret a la negociació col·lectiva en els termes previstos a la Llei de relacions laborals.d) Constituir i integrar-se en federacions i confederacions, i en organitzacions empresarials supraestatals, i també dissoldre-les i separar-se’n, segons el procediment regulat en aquest Llei i en els estatuts.
+3. Les organitzacions empresarials no poden ser suspeses ni dissoltes contra la voluntat dels seus òrgans, excepte si existeix una resolució ferma de l’autoritat judicial en aquest sentit.
 
 **Article 23. Normes aplicables a les organitzacions empresarials**
 
@@ -115,7 +153,8 @@ a) Per aquesta Llei i la resta de la normativa específica aplicable, en especia
 
 **Article 24. Estatuts de les organitzacions empresarials**
 
-$36
+Els estatuts de les organitzacions empresarials han de respectar els principis democràtics i han de tenir el contingut mínim següent:
+a) La denominació de l’organització, que no pot coincidir amb la d’una altra organització o associació registrada legalment o induir a confusió, ni consistir en la simple menció d’un territori, en una expressió genèrica d’ús comú o en la utilització de conceptes o expressions pròpies d’altres persones, ni incloure expressions contràries a la llei o a l’honor ni a altres drets de les persones.b) El domicili i l’àmbit d’actuació territorial andorrà i funcional.c) Les finalitats de l’organització empresarial, tal com es defineixen a l’article 21.1.d) Els requisits i els procediments per a l’adquisició, el manteniment i la pèrdua de la condició d’afiliat, i el pagament de les quotes d’afiliació i de manteniment de la condició d’afiliat.e) Els òrgans de representació, govern i administració i el seu funcionament, així com el règim de provisió electiva i de cessament dels càrrecs.f) El procediment per a la modificació dels estatuts i per a la dissolució i la fusió de l’organització empresarial.g) El règim econòmic, que ha d’establir el caràcter, la procedència i la destinació dels seus recursos així com els mecanismes que permetin als afiliats conèixer la situació econòmica de l’organització empresarial.
 
 **Article 25. Registre d’Organitzacions Empresarials**
 
@@ -125,7 +164,23 @@ $36
 
 **Article 26. Procediment d’inscripció i publicitat**
 
-$38
+1. La inscripció de les organitzacions empresarials, que es duu a terme mitjançant el dipòsit, el registre i la publicació dels seus estatuts, s’ha d’ajustar al procediment següent i a les normes reglamentàries sobre la matèria.
+2. Les persones que han constituït una organització empresarial n’han de sol·licitar al Registre d’Organitzacions Empresarials la inscripció, adjuntant a la sol·licitud la documentació següent:
+a) L’acta fundacional de l’organització empresarial protocol·litzada, en la qual ha de constar la identitat de les persones que han constituït l’organització i, si escau, de les persones que les representen legalment.b) El text íntegre dels estatuts signats a cadascuna de les pàgines per les persones que han constituït l’organització empresarial.c) L’acreditació que les persones que han constituït l’organització empresarial reuneixen els requisits que estableix aquesta Llei.d) La certificació de la designació de les persones que ocupen els càrrecs de direcció, expedida pel secretari o la persona que tingui assignades unes funcions equivalents.
+3. El Registre d’Organitzacions Empresarials, en rebre la sol·licitud d’inscripció, ha de decidir, en el termini de deu dies hàbils, sobre el dipòsit i el registre dels estatuts o, si és el cas, ha de demanar a les persones que han constituït l’organització que corregeixin els defectes o les mancances observats, i atorgar-los un nou termini de deu dies hàbils per tal que s’efectuï la correcció esmentada.
+4. Un cop transcorregut aquest segon termini, es fan efectius el dipòsit i el registre dels estatuts o, si escau, es refusen el dipòsit i el registre esmentats mitjançant una resolució motivada, que només es pot fonamentar en defectes o mancances relatius al contingut mínim dels estatuts establert a l’article 24, o en l’incompliment dels altres requisits exigits per aquesta Llei.
+5. En el termini màxim de deu dies hàbils des del dipòsit i el registre, els estatuts s’han de publicar al
+Butlletí Oficial del Principat d’Andorra
+, fent constar, com a mínim, la denominació de l’organització empresarial, el seu àmbit territorial i funcional i la identitat de les persones que han constituït l’organització.
+6. La modificació dels estatuts de les organitzacions empresarials s’ha d’ajustar al mateix procediment previst als apartats anteriors.
+7. Qualsevol persona està facultada per consultar els estatuts dipositats al Registre d’Organitzacions Empresarials i en pot obtenir una còpia autèntica.
+8. Les autoritats públiques i les persones que acreditin un interès directe, personal i legítim poden sol·licitar a l’òrgan jurisdiccional competent que declari que els estatuts d’una organització empresarial dipositats, registrats i publicats no són conformes al dret.
+9. Les associacions empresarials que en la data de l’entrada en vigor d’aquesta Llei estiguin inscrites al Registre d’Associacions i que tinguin com a objecte la representació i la defensa dels interessos de les empreses associades poden sol·licitar la inscripció al Registre d’Organitzacions Empresarials mitjançant la presentació en aquest últim de la sol·licitud corresponent, adjuntant la documentació següent:
+a) El text íntegre dels estatuts signats a cadascuna de les pàgines per les persones que van constituir l’associació.b) El certificat o la resolució d’inscripció al Registre d’Associacions.c) La identitat de les persones que formen l’òrgan de govern i l’acreditació que reuneixen els requisits que estableix la Llei.d) El certificat de la designació de les persones que ocupen els càrrecs de direcció, expedit pel secretari o la persona que tingui assignades unes funcions equivalents.
+El Registre d’Organitzacions Empresarials ha de decidir, en el termini de deu dies hàbils, sobre el dipòsit i el registre dels estatuts, ajustant-se al mateix procediment previst als apartats 3, 4 i 5 anteriors.
+En cas d’inscripció, el Registre d’Organitzacions Empresarials n’informa el Registre d’Associacions perquè aquest últim n’anoti la cancel·lació de conformitat amb l’article 13, apartat 1.
+i
+, de la de la Llei qualificada d’associacions.
 
 **Article 27. Actes inscriptibles**
 
@@ -140,7 +195,9 @@ a) Tenen la consideració d’organitzacions empresarials més representatives l
 
 **Article 29. Atribucions de les organitzacions empresarials**
 
-$3c
+1. Les organitzacions empresarials més representatives tenen les atribucions que els confereixen la Llei de relacions laborals i la Llei qualificada de mesures de conflicte col·lectiu. Així mateix, exerceixen la representació institucional davant les administracions públiques i la resta d’entitats o organismes oficials, quan escaigui, i en concret prop del Consell Econòmic i Social.
+2. Les organitzacions empresarials representatives tenen les atribucions que els confereixen la Llei de relacions laborals i la Llei qualificada de mesures de conflicte col·lectiu.
+3. Les organitzacions empresarials que vulguin exercir qualsevol de les atribucions que derivi del seu nivell de representativitat han d’acreditar aquesta representativitat davant la persona o l’entitat que correspongui en cada cas, mitjançant el certificat que ha d’expedir el Departament de Treball a aquest efecte, a sol·licitud de l’organització interessada, i que justifiqui el nombre d’assalariats del conjunt de les empreses afiliades a l’organització.
 
 #### Capítol tercer. Consell Econòmic i Social
 

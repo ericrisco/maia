@@ -359,11 +359,48 @@ Dels actes dels Coprínceps se'n fan responsables qui els contrasignen.
 
 **Article 45**
 
-$1e
+1. Els coprínceps, amb la contrasignatura del cap de Govern o, en el seu cas, del síndic general, que 
+n'assumeixen la responsabilitat política: 
+a) Convoquen les eleccions generals d'acord amb la Constitució. 
+b) Convoquen referèndum d'acord amb els articles 76 i 106 de la Constitució. 
+c) Nomenen el cap de Govern segons el procediment previst en la Constitució. 
+d) Signen el decret de dissolució del Consell General segons el procediment de l'article 71 de la Constitució. 
+e) Acrediten els representants diplomàtics d'Andorra a l'estranger, i els representants estrangers a Andorra 
+s'acrediten davant de cadascun d'ells. 
+f) Nomenen els titulars de les altres institucions de l'Estat d'acord amb la Constitució i les lleis. 
+g) Sancionen i promulguen les lleis segons l'article 63 de la present Constitució. 
+h) Manifesten el consentiment de l'Estat per a obligar-se per mitjà dels tractats internacionals, en els termes 
+previstos en el capítol III del Títol IV de la Constitució. 
+i) Realitzen els altres actes que expressament els atribueix la Constitució. 
+2. Les disposicions previstes en els apartats g) i h) d'aquest article han d'ésser presentades simultàniament a 
+un i altre copríncep que han de sancionar-les i promulgar-les o manifestar el consentiment de l'Estat segons el 
+cas, i n'han d'ordenar la publicació no abans de vuit dies i no més tard de quinze.
+En aquest període els coprínceps, conjuntament o separadament, poden adreçar-se al Tribunal Constitucional 
+amb missatge raonat a fi que aquest es pronunciï sobre la seva constitucionalitat. Si la resolució fos positiva 
+l'acte pot ésser sancionat amb la signatura d'almenys d'un dels coprínceps. 
+3. Quan concorrin circumstàncies que impedeixin per part d'un dels coprínceps la formalització dels actes 
+enumerats en l'apartat 1 del present article dins dels terminis constitucionalment previstos, el seu representant 
+ho ha de notificar al síndic general o, en el seu cas, al cap de Govern. En aquest supòsit, els actes, normes o 
+decisions afectats entraran en vigor transcorreguts els dits terminis amb la signatura de l'altre copríncep i la 
+contrasignatura del cap de Govern o, en el seu cas, del síndic general.
 
 **Article 46**
 
-$20
+1. Són actes de lliure decisió dels coprínceps: 
+a) L'exercici conjunt de la prerrogativa de gràcia. 
+b) La creació i l'estructuració dels serveis que considerin necessaris per a la realització de les seves funcions 
+institucionals, el nomenament dels seus titulars i el seu acreditament a tots els efectes. 
+c) La designació dels membres del Consell Superior de la Justícia, d'acord amb l'article 89.2 de la Constitució. 
+d) El nomenament dels membres del Tribunal Constitucional, d'acord amb l'article 96.1 de la Constitució. 
+e) El requeriment de dictamen previ d'inconstitucionalitat de les lleis. 
+f) El requeriment del dictamen sobre la inconstitucionalitat dels tractats internacionals, previ a la seva 
+ratificació. 
+g) La interposició de conflicte davant del Tribunal Constitucional per raó d'afectació de llurs funcions 
+institucionals, en els termes dels articles 98 i 103 de la Constitució. 
+h) L'atorgament de l'acord per a l'adopció del text d'un tractat internacional, d'acord amb les previsions de 
+l'article 66, abans de la seva aprovació en seu parlamentària. 
+2. Els actes derivats dels articles 45 i 46 són exercits personalment pels Coprínceps, llevat de les facultats 
+previstes a les lletres e), f), g) i h) del present article, que poden ésser realitzats per delegació expressa.
 
 **Article 47**
 
@@ -431,7 +468,17 @@ membres que reglamentàriament puguin compondre la Sindicatura.
 
 **Article 56**
 
-$22
+1. El Consell General es reuneix en sessions tradicionals, ordinàries i extraordinàries, convocades segons el 
+que es prevegi en el reglament. Hi haurà dos períodes ordinaris de sessions al llarg de l'any, determinats pel 
+reglament. Les sessions del Consell General són públiques, llevat que el mateix Consell General acordi el 
+contrari per majoria absoluta dels seus membres. 
+2. El Consell General funciona en ple i en comissions. El reglament preveurà la formació de les comissions 
+legislatives de manera que siguin representatives de la composició de la cambra. 
+3. El Consell General nomena una comissió permanent per vetllar pels poders de la cambra quan aquesta 
+estigui dissolta o en el període entre sessions. La Comissió Permanent, sota la presidència del síndic general, 
+estarà formada de manera que respecti la composició paritària de la cambra. 
+4. Els consellers poden agrupar-se en grups parlamentaris. El reglament preveurà els drets i deures dels 
+consellers i dels grups parlamentaris, així com l'estatut dels consellers no adscrits.
 
 **Article 57**
 
@@ -539,7 +586,19 @@ aprovació en seu parlamentària.
 
 **Article 68**
 
-$24
+1. Després de cada renovació del Consell General, en la primera sessió, que se celebrarà en el termini de vuit 
+dies després de la sessió constitutiva, es procedirà a l'elecció del Cap de Govern. 
+2. Els candidats han d'ésser presentats per una cinquena part dels membres del Consell General. Cada 
+conseller només pot avalar una candidatura. 
+3. Els candidats han de presentar el seu programa i resultarà elegit aquell que, després d'un debat, en una 
+primera votació pública i oral obtingui la majoria absoluta del Consell General. 
+4. En el cas que fos necessària una segona votació tan sols poden presentar-se els dos candidats que hagin 
+obtingut els millors resultats en la primera votació. Serà proclamat com a cap de Govern el candidat que 
+obtingui més vots. 
+5. El Síndic General comunicarà als coprínceps el resultat de la votació perquè el candidat elegit sigui 
+nomenat cap de Govern i en contrasignarà el nomenament. 
+6. S'ha de seguir el mateix procediment en els altres supòsits en què quedi vacant el càrrec de Cap de 
+Govern.
 
 **Article 69**
 
@@ -629,7 +688,27 @@ propietat parroquial, siguin de domini públic comunal o de domini privat o patr
 
 **Article 80**
 
-$26
+1. Dins el marc de l'autonomia administrativa i financera dels Comuns, les seves competències són 
+delimitades mitjançant llei qualificada, almenys en les matèries següents: 
+a) Cens de població. 
+b) Cens electoral. Participació en la gestió del procés i administració electorals que els correspongui segons la 
+llei. 
+c) Consultes populars. 
+d) Comerç, indústria i activitats professionals. 
+e) Delimitació del territori comunal. 
+f) Béns propis i de domini públic comunal. 
+g) Recursos naturals. 
+h) Cadastre. 
+i) Urbanisme. 
+j) Vies públiques. 
+k) Cultura, esports i activitats socials. 
+l) Serveis públics comunals.
+2. Dins el marc de la potestat tributària de l'Estat, l'esmentada llei qualificada determina les facultats 
+econòmiques i fiscals dels Comuns per a l'exercici de les seves competències. Aquestes facultats es referiran, 
+almenys, a l'aprofitament i explotació dels recursos naturals, als tributs tradicionals i a les taxes per serveis 
+comunals, autoritzacions administratives, radicació d'activitats comercials, industrials i professionals i propietat 
+immobiliària. 
+3. Mitjançant llei es podrà delegar a les Parròquies competències de titularitat estatal.
 
 **Article 81**
 
@@ -687,7 +766,18 @@ d'empara corresponent, estimi que han estat dictades amb violació d'algun dret 
 
 **Article 89**
 
-$28
+1. El Consell Superior de la Justícia com a òrgan de representació, govern i administració de l'organització 
+judicial, vetlla per la independència i el bon funcionament de la justícia. Tots els seus membres seran de 
+nacionalitat andorrana. 
+2. El Consell Superior de la Justícia es compon de cinc membres designats entre andorrans majors de vint-i-
+cinc anys i coneixedors de l'Administració de Justícia, un per cada copríncep, un pel síndic general, un pel cap 
+de Govern i un pels magistrats i batlles. El seu mandat és de sis anys i no poden ser reelegits més d'una 
+vegada consecutiva. El Consell Superior de la Justícia és presidit per la persona designada pel síndic general. 
+3. El Consell Superior de la Justícia nomena els batlles i magistrats, exerceix sobre ells la funció disciplinària i 
+promou les condicions perquè l'Administració de Justícia disposi dels mitjans adients per al seu bon 
+funcionament. Amb aquesta darrera finalitat podrà emetre informes amb motiu de la tramitació de les lleis que 
+afectin la Justícia o per donar compte de la situació d'aquesta. 
+4. La llei qualificada sobre la Justícia regularà les funcions i competències d'aquest Consell Superior.
 
 **Article 90**
 
@@ -829,4 +919,66 @@ dels membres de la Cambra. Immediatament després la proposta serà sotmesa a re
 
 **Article 107**
 
-$2a
+Superats els tràmits de l'article 106, els Coprínceps sancionaran el nou text constitucional per a la seva 
+promulgació i entrada en vigor. 
+Disposició addicional primera 
+La Constitució dóna mandat al Consell General i al Govern perquè, amb l'associació dels coprínceps, proposin 
+negociacions als governs d'Espanya i de França amb l'objectiu de signar un Tractat Internacional trilateral per 
+establir el marc de les relacions amb els dos Estats veïns sobre la base del respecte a la sobirania, 
+independència i integritat territorial d'Andorra. 
+Disposició addicional segona 
+L'exercici de la funció de representació diplomàtica d'un Estat a Andorra és incompatible amb l'exercici de 
+qualsevol altre càrrec públic. 
+Disposició transitòria primera 
+1. El mateix Consell General que ha aprovat la present Constitució obrirà un període extraordinari de sessions, 
+per tal d'aprovar, almenys, el reglament del Consell General i les lleis qualificades referents al règim electoral, 
+les competències i el sistema de finançament dels Comuns, la Justícia i el Tribunal Constitucional. Aquest 
+període de sessions finalitzarà el dia 31 de desembre de 1993. 
+2. En aquest període, que comença el dia hàbil següent al de la publicació de la Constitució, el Consell 
+General no podrà ser dissolt i exercirà totes les facultats que constitucionalment li corresponen. 
+3. El dia vuit de setembre de 1993, festa de la Mare de Deu de Meritxell, el síndic general convocarà eleccions 
+generals, que se celebraran dins la primera quinzena del mes de desembre d'aquest mateix any. 
+4. La finalització d'aquest període de sessions implicarà la dissolució del Consell General i el cessament del 
+Govern, que seguirà en funcions fins a la formació del nou, d'acord amb la Constitució. 
+Disposició transitòria segona 
+1. La llei qualificada relativa a la justícia preveurà, amb esperit d'equilibri, la designació de jutges i fiscals 
+procedents dels Estats veïns mentre no sigui possible fer altrament. Aquesta llei, així com la del Tribunal 
+Constitucional, regularan el règim de nacionalitat per als jutges i magistrats que no siguin andorrans. 
+2. La llei qualificada de la justícia habilitarà així mateix el règim transitori de continuïtat en el càrrec d'aquells 
+jutges que, en el moment de la seva promulgació, no tinguin la titulació acadèmica prevista en aquesta 
+Constitució. 
+3. L'esmentada llei qualificada de la justícia preveurà els sistemes d'adaptació dels processos i causes 
+pendents al sistema judicial i processal previst en aquesta Constitució, per tal de garantir el dret a la 
+jurisdicció.
+4. Les lleis i normes amb força de llei vigents en el moment de la creació del Tribunal Constitucional, podran 
+ésser objecte de recurs directe d'inconstitucionalitat dins d'un termini de tres mesos, a partir de la presa de 
+possessió dels magistrats constitucionals. Els subjectes legitimats per interposar-lo són els previstos en 
+l'article 99 de la Constitució. 
+5. Durant el primer mandat subsegüent a l'entrada en vigor de la Constitució, els representants dels 
+Coprínceps en el Consell Superior de la Justícia podran no ésser andorrans. 
+Disposició transitòria tercera 
+1. Els serveis institucionals dels coprínceps, les competències i funcions dels quals han estat encomanades 
+per aquesta Constitució a altres òrgans de l'Estat, seran objecte de traspàs als òrgans mencionats. Amb 
+aquesta finalitat, es constituirà una comissió tècnica formada per un representant de cada copríncep, dos del 
+Consell General i dos del Govern que prepararà i adreçarà un informe al Consell General perquè, en el 
+període esmentat en la disposició transitòria primera, s'adoptin les disposicions necessàries per fer efectius 
+els traspassos. 
+2. La mateixa comissió prendrà les disposicions necessàries per posar els serveis de policia sota l'autoritat 
+exclusiva del Govern en el termini de 2 mesos a partir de l'entrada en vigor de la Constitució. 
+Disposició derogatòria 
+Amb l'entrada en vigor d'aquesta Constitució queden derogades totes les normes anteriors en allò que la 
+contradiguin. 
+Disposició final 
+La Constitució entra en vigor el dia de la seva publicació en el Butlletí Oficial del Principat d'Andorra. 
+I nosaltres els coprínceps, després que el Consell l'ha adoptat en sessió solemne celebrada el dia 2 de febrer 
+de 1993, i que el Poble Andorrà l'ha aprovat en referéndum celebrat el dia 14 de març de 1993, la fem nostra, 
+la ratifiquem, la sancionem i promulguem i, per a general coneixement, n'ordenem la publicació. 
+Casa de la Vall, 28 d'abril de 1993 
+François Mitterrand 
+President de la República Francesa 
+Copríncep d'Andorra 
+Jordi Farrás Forné 
+Síndic General 
+Joan Martí Alanís 
+Bisbe d'Urgell 
+Copríncep d'Andorra

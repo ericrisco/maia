@@ -20,11 +20,13 @@ Les finalitats de la política energètica i de lluita contra el canvi climàtic
 
 **Article 3. Definicions**
 
-$1e
+Als efectes d’aquesta Llei, s’apliquen les definicions següents:
+a) Adaptació al canvi climàtic: es defineix tècnicament com‘els ajustos en sistemes humans o naturals com a resposta a estímuls climàtics reals o previstos o als seus efectes, que poden moderar el dany o aprofitar-ne els aspectes beneficiosos’.b) Administració Pública: es refereix a allò previst al Codi de l’Administració.c) Autoconsum: fa referència al fet que un productor d’electricitat de fonts d’origen renovable o mitjançant instal·lacions d’alta eficiència energètica cobreixi les seves necessitats de consum elèctric, totalment o parcialment, amb l’electricitat produïda per la seva instal·lació. La part de l’electricitat produïda és consumida bé de forma instantània, bé després d’un període d’emmagatzematge. El Govern defineix reglamentàriament la figura del productor-consumidor, l’àmbit territorial en el qual es permet aquest autoconsum i els aspectes necessaris per a l’aplicació efectiva de la mesura. No es consideraconsuml’activitat realitzada per les entitats distribuïdores d’energia elèctrica. La producció i el consum s’efectuen al país.d) Biomassa: fracció biodegradable dels productes, dels residus i de les restes d’origen biològic de l’agricultura, incloses les substàncies vegetals i animals, de la silvicultura i de les indústries afins, inclosa la pesca i l’aqüicultura, així com la fracció biodegradable dels residus, inclosos els residus industrials i urbans d’origen biològic.e) Calor o fred residual: la calor o el fred produïts com a subproducte i que, en cas de no ser utilitzats, es dissiparien en l’aire o en l’aigua sense accedir a un sistema de calefacció o de refrigeració.f) Combustibles fòssils: combustibles rics en carboni, principalment hidrocarburs, generats per la descomposició parcial de la matèria orgànica i la pressió i la temperatura de les capes de sediments acumulats. Es tracta del petroli, el carbó, la torba i el gas natural, així com els derivats.g) Comptador intel·ligent: dispositiu electrònic que registra el consum d’energia elèctrica en intervals d’una hora o menys i comunica aquesta informació. Permet la comunicació bidireccional entre el comptador i el sistema central.h) Comunitat de propietaris: conjunt de propietaris d’unitats immobiliàries situades dins un mateix edifici que estan constituïdes de conformitat amb el que preveu l’article 3 de la Llei 12/2004, del 30 de juny, de propietat horitzontal (en endavant, Llei 12/2004).i) Edifici de consum d’energia gairebé nul: edifici amb un nivell d’eficiència energètica molt alt. La quantitat gairebé nul·la o molt baixa d’energia requerida hauria d’estar coberta, en molt àmplia mesura, per energia procedent de fonts renovables, inclosa energia procedent de fonts renovables produïda in situ o en l’entorn.j) Eficiència energètica: relació entre la sortida útil i l’entrada d’un procés de conversió d’energia. A la pràctica és l’objectiu de reduir la quantitat d’energia necessària per proporcionar determinants productes i serveis.k) Embornal de carboni: reservori natural o artificial que acumula i emmagatzema el carboni absorbit de l’aire, contribuint així a reduir la quantitat de diòxid de carboni atmosfèric.l) Emmagatzematge d’energia: acció d’acumular energia durant un període de temps mitjançant dispositius acumuladors, per restituir aquesta energia de manera diferida en el temps.m) Empresa de serveis energètics: empresa que desenvolupa les activitats relacionades a l’article 36 d’aquesta Llei, si bé no té la condició d’entitat financera d’acord amb el que preveuen els articles 3 i 4 de la Llei 7/2013, del 9 de maig, sobre el règim jurídic de les entitats operatives del sistema financer andorrà i altres disposicions que regulen l’exercici de les activitats financeres al Principat d’Andorra (en endavant, Llei 7/2013).n) Energia ambient (o calor ambiental): energia tèrmica continguda en l’ambient (sòlid, líquid o gasós) que s’extreu o es capta mitjançant equips que utilitzen cicles termodinàmics que requereixen electricitat o algun altre tipus d’energia auxiliar per funcionar, o mitjançant l’intercanvi passiu.o) Energia de fonts baixes en emissions de carboni: energia obtinguda a partir de fonts que emeten com a màxim 60.000 kg de diòxid de carboni per cada terajoule (TJ), d’acord amb els valors proveïts per defecte pel Grup Intergovernamental d’Experts en Canvi Climàtic (GIEC).p) Energia fòssil: energia que prové de l’ús de combustibles fòssils. Aquesta font d’energia no es considera renovable perquè els combustibles que l’originen requereixen milions d’anys per formar-se naturalment.q) Energia produïda a partir de fonts renovables (o energia renovable): energia produïda a partir de fonts renovables no fòssils, a saber: energia eòlica, energia solar (solar tèrmica i fotovoltaica solar), energia geotèrmica, calor ambiental, energia hidroelèctrica, biomassa, gas provinent d’estacions depuradores d’aigües residuals i biogàs.r) Entitats distribuïdores: les entitats esmentades a l’article 1 del Reglament provisional de la distribució de l’energia elèctrica del 28 de juliol del 1975, modificat per l’article 5 de la Llei 85/2010, del 18 de novembre, de mesures provisionals en relació amb el règim de l’energia elèctrica, que són: Forces Elèctriques d’Andorra; Nord Andorra SA; Mútua Elèctrica d’Encamp; Mútua Elèctrica de Sant Julià, i Serveis Comunals d’Encamp SA.s) Escenari Business as usual: és l’escenari que resultaria de la inacció en relació amb les mesures de mitigació previstes per Andorra en el seva Contribució prevista determinada a escala nacional (CPDN) en el marc del Conveni marc de les Nacions Unides sobre el canvi climàtic. Les emissions i el consum d’energia primària procedent de les fonts d’energia fòssil en l’escenari Business as usual són 530,55 i 643,47 Gg CO2 equivalents respectivament als anys horitzó 2030 i 2050, i 195.000 i 228.000 tones d’equivalent petroli (TEP) els anys horitzó 2030 i 2050;t) Gasos d’efecte d’hivernacle (GEH): conjunt de components gasosos que absorbeixen la radiació infraroja i que afavoreixen l’escalfament global d’acord amb el Conveni marc de les Nacions Unides sobre el canvi climàtic, exceptuant els regulats pel Protocol de Mont-real.u) Intensitat energètica nacional: és laquantitatd’energia primàriaconsumida per cada unitat de riquesa creada en una comunitat de persones. S’expressa com un quocient entretonesequivalents depetrolii milions d’euros del producte interior brut (TEP/M€de PIB). La intensitat energètica d’Andorra l’any 2010 és de 89 TEP/M€ de PIB nominal i de 115TEP/M€de PIB real (base 2000).v) Operador del sistema elèctric: és l’operador al qual es refereix l’article 3 de la Llei 5/2016;w) Pla sectorial d’infraestructures energètiques (PSIE): instrument urbanístic del Govern d’acord amb les previsions de la Llei general d’ordenació del territori i urbanisme (en endavant, LGOTU), en l’àmbit de les infraestructures energètiques. S’hi diferencien les infraestructures energètiques per a les quals l’informe preceptiu dels comuns sobre els projectes d’interès nacional i els plans sectorials no té caràcter vinculant, d’aquelles per a les quals el caràcter és vinculant, d’acord amb les definicions de la Llei 19/2017, del 20 d’octubre, qualificada de modificació de la Llei qualificada de delimitació de competències dels comuns (en endavant, Llei 19/2017).x) Transport particular: és el transport que, d’acord amb la definició que en fa l’article 4 de la Llei 4/2015, del 15 de gener, dels transports per carretera (en endavant, Llei 4/2015), s’efectua sense ànim de lucre;y) Transport privat: és el transport que, d’acord amb la definició que en fa l’article 4 de la Llei 4/2015, es fa per compte propi, per satisfer les necessitats de l’empresa, transportant mercaderies o personal propis d’aquesta empresa;z) Transport públic: és el transport que, d’acord amb la definició que en fa l’article 4 de la Llei 4/2015, es fa per compte d’altri mitjançant retribució econòmica.
 
 **Article 4. Principis rectors**
 
-$22
+La normativa de desenvolupament de la Llei, la política energètica i la lluita contra el canvi climàtic respecten els principis rectors següents:
+a) Sostenibilitat: les accions que promou aquesta Llei han de satisfer les necessitats de la generació actual sense comprometre la capacitat per satisfer les necessitats de les generacions futures, aplicant-ho en el sentit més ampli i a tota mena d’aspectes en els àmbits socials, ambientals i econòmics.b) Rol exemplar de l’Administració: en totes les mesures, les accions i els projectes que es duen a terme en el marc del desenvolupament de l’objecte d’aquesta Llei.c) Participació pública: participació dels ciutadans i agents implicats en l’elaboració de les mesures implementades en el marc del desenvolupament de l’objecte d’aquesta Llei.d) Millor tècnica disponible: les mesures i accions dutes a terme en el marc d’aquesta Llei han d’afavorir la utilització de la millor tecnologia disponible per evitar, o com a mínim reduir al màxim, les emissions i l’impacte en el conjunt del medi ambient.
 
 **Article 5. Jerarquia de les accions de la transició energètica**
 
@@ -39,11 +41,20 @@ a) Reduir la intensitat energètica nacional en un mínim d’un 20% l’any hor
 
 **Article 7. Observació sistemàtica i registre**
 
-$24
+1. Es declara informació pública d’interès, necessària per aconseguir els objectius d’aquesta Llei, la derivada dels àmbits següents:
+a) La producció, la importació i l’exportació d’energia;b) La venda d’energia;c) El preu de venda de l’energia;d) La meteorològica;e) La climatològica;f) Les emissions de l’inventari nacional sobre els gasos d’efecte d’hivernacle i la informació necessària per elaborar-lo, d’acord amb les previsions definides per les metodologies establertes en relació amb el Conveni marc de Nacions Unides sobre el canvi climàtic, que el Govern identifica mitjançant decret.
+2. La informació esmentada és objecte d’observació sistemàtica per part del Govern, que assegura la gestió i el manteniment del registre oficial.
+3. La informació que s’incorpora en aquest registre compleix els estàndards internacionals en la matèria.
+4. La informació relacionada amb els àmbits definits en l’apartat 1 d’aquest article té el caràcter d’obligatòria.
+5. El Govern assegura el compliment de les previsions d’aquest article.
+6. Estan especialment sotmeses a les previsions d’aquest article les entitats dels sectors elèctric, dels hidrocarburs, així com aquelles l’activitat comercial de les quals estigui relacionada amb l’energia.
 
 **Article 8. Innovació i recerca**
 
-$26
+1. L’Administració Pública ha de promoure les tecnologies intel·ligents en l’aplicació de les mesures que es deriven de la política energètica i de lluita contra el canvi climàtic, així com la innovació i la recerca aplicada que aporti valor afegit en relació amb les finalitats i els objectius d’aquesta Llei.
+2. Per fomentar la innovació i la recerca es promou la interacció entre els actors del sistema econòmic i els actors del món científic, a fi que es pugui estudiar, avaluar i determinar l’interès o la conveniència de determinades tecnologies o mesures.
+3. Es faculta el Govern a autoritzar de manera excepcional prescripcions particulars i excepcions en el compliment de la normativa vigent per fer proves pilot encaminades a l’estudi o l’aplicació de tecnologies i mesures innovadores, en vista de les informacions facilitades pel seu promotor mitjançant proposta motivada de l’Oficina de l’Energia i del Canvi Climàtic.
+Aquesta autorització serà limitada en el temps, únicament durant el període estrictament necessari per realitzar les proves pilot de què es tracti, i establirà les condicions i els mecanismes de control que siguin necessaris per garantir la seguretat de les persones i els béns.
 
 **Article 9. Fons verd**
 
@@ -54,19 +65,39 @@ $26
 
 **Article 10. Estratègia energètica nacional i de lluita contra el canvi climàtic**
 
-$28
+1. L’Estratègia energètica nacional i de lluita contra el canvi climàtic permet al Govern planificar, coordinar i racionalitzar les accions, les mesures i els projectes encaminats a la consecució dels objectius definits per aquesta Llei.
+2. És un document públic elaborat pel ministeri responsable de l’energia i del canvi climàtic i aprovat pel Govern que està a disposició dels ciutadans.
+3. Es revisa, com a mínim, cada sis anys. L’aprovació i les revisions posteriors es publiquen al
+Butlletí Oficial del Principat d’Andorra
+.
+4. Per assolir els objectius d’aquesta Llei, l’Estratègia energètica nacional i de lluita contra el canvi climàtic inclou, com a mínim:
+a) Un diagnòstic de la situació energètica i de lluita contra el canvi climàtic en el moment de la seva redacció.b) Els programes d’acció que defineixen les actuacions necessàries per assolir els seus objectius, que en matèria de transició energètica segueixen els eixos del capítol tercer, i en matèria d’acció climàtica, els eixos del capítol quart d’aquesta Llei.
+5. Els objectius, les accions i les mesures que preveu l’Estratègia energètica nacional i de lluita contra el canvi climàtic són vinculants per a l’Administració pública, i s’integren en les seves planificacions i programacions sectorials.
 
 **Article 11. Comissió Nacional de l’Energia i del Canvi Climàtic**
 
-$2a
+1. Es crea la Comissió Nacional de l’Energia i del Canvi Climàtic, com a òrgan consultiu en els àmbits d’acció previstos per aquesta Llei, i en especial en relació amb l’avaluació i el seguiment de l’Estratègia nacional prevista a l’article 10.
+2. El Govern estableix mitjançant un reglament la composició de la Comissió, que integra la representació dels actors clau, i com a mínim, de l’Administració general, de l’Administració comunal, de Forces Elèctriques d’Andorra (FEDA), de les entitats distribuïdores, de les empreses del sector elèctric, de les empreses del sector dels carburants, dels col·legis professionals, del sector empresarial del país, del sector universitari i de recerca, així com de les associacions ciutadanes l’objectiu de les quals es relacioni amb els objectius i finalitats d’aquesta Llei. La participació en aquesta comissió no serà en cap cas remunerada.
+3. La Comissió té com a funció fer el seguiment de l’Estratègia energètica nacional i de lluita contra el canvi climàtic, dels seus programes d’acció, i participar en la revisió, modificació i adaptació dels seus objectius.
+4. La Comissió adopta un reglament intern de funcionament.
+5. Es poden establir subcomissions de treball per treballar temes específics.
 
 **Article 12. Oficina de l’Energia i del Canvi Climàtic**
 
-$2c
+1. Llevat de previsions específiques, el Govern exerceix les atribucions d’aquesta Llei a través de l’Oficina de l’Energia i del Canvi Climàtic.
+2. L’Oficina de l’Energia i del Canvi Climàtic resta adscrita orgànicament, funcionalment i pressupostàriament al ministeri que tingui atribuïdes les competències en matèria d’energia i de canvi climàtic.
+3. El Servei Meteorològic d’Andorra queda adscrit a l’Oficina de l’Energia i del Canvi Climàtic.
+4. El director de l’Oficina de l’Energia i del Canvi Climàtic és nomenat pel Govern a proposta del ministre o la ministra que tingui atribuïdes les competències en matèria d’energia i de canvi climàtic, d’acord amb les previsions de la Llei de la funció pública.
+5. La missió de l’Oficina de l’Energia i del Canvi Climàtic és assegurar la implantació progressiva de la política energètica i de lluita contra el canvi climàtic, mitjançant la promoció de l’estalvi energètic, l’eficiència energètica, la diversificació dels recursos energètics, incloent-hi el desenvolupament de fonts d’energia renovable sostenibles, així com l’estudi del fenomen del canvi climàtic, l’inventari nacional de les emissions de gasos d’efecte d’hivernacle (GEH), la mitigació d’aquestes emissions, el foment de l’adaptació i l’augment de la resiliència del país a l’evolució climàtica per limitar-ne els impactes negatius, i l’observació sistemàtica en matèria de meteorologia, nivometeorologia i climatologia. L’Oficina també fomenta, en relació amb els aspectes esmentats, la conscienciació i la capacitació tant de la societat com dels diferents actors.
+6. Les seves funcions bàsiques són:
+a) Impulsar el marc legal que permeti la implantació de la política energètica i de lluita contra el canvi climàtic definit per aquesta Llei.b) Fer el seguiment i analitzar els indicadors de compliment dels objectius previstos per la present Llei.c) Promoure plans, estratègies i accions en concordança amb els objectius i els principis rectors d’aquesta Llei i els acords i convenis internacionals relacionats en matèria d’energia, de meteorologia, de climatologia i de canvi climàtic establerts o ratificats per Andorra.d) Planificar i desenvolupar campanyes de sensibilització de la societat en els àmbits d’actuació de la seva missió.e) Fomentar sinergies per incentivar iniciatives que contribueixin a la consecució dels objectius d’aquesta Llei i dels instruments que la desenvolupen.f) Promoure accions encaminades a millorar l’adaptació i a augmentar la resiliència del país en relació amb el canvi climàtic i els seus efectes.g) Representar el país davant els organismes internacionals en matèria d’energia i de canvi climàtic.h) Vetllar per l’acompliment de les obligacions assumides pel país davant els mateixos organismes.i) Les funcions relacionades amb el Servei Meteorològic d’Andorra.j) Tota altra funció que el Govern li encomani mitjançant decret.
 
 **Article 13. Servei Meteorològic Nacional**
 
-$2e
+1. Es crea el Servei Meteorològic d’Andorra, que opera com a servei meteorològic nacional en els termes i als efectes de l’Organització Meteorològica Mundial (OMM).
+2. La seva missió és proveir informació sobre les previsions i els avisos en matèria de meteorologia i sobre l’estat del mantell nival, així com informació sobre climatologia, sobre la base de l’observació, la comprensió i la predicció, sempre d’acord amb l’avenç tecnològic i científic en la matèria. Aquesta informació està dirigida a vetllar per la seguretat de les persones i a reduir les pèrdues de béns materials davant d’episodis meteorològics, i contribueix directament al benestar, al desenvolupament sostenible i a l’augment de la resiliència del país enfront dels episodis meteorològics extrems en un context de canvi climàtic.
+3. Les seves funcions bàsiques són:
+a) Planificar, mantenir i operar la xarxa nacional d’observació meteorològica;b) Detectar, preveure, informar i avisar dels fenòmens meteorològics i de l’estat del mantell nival;c) Proveir informació i serveis meteorològics adaptats als usuaris;d) Registrar i tractar les dades meteorològiques i climàtiques;e) Estudiar i caracteritzar l’evolució climàtica;f) Representar el país davant els organismes meteorològics, centres de predicció d’allaus i climàtics internacionals;g) Vetllar per l’acompliment de les obligacions assumides pel país davant els mateixos organismes;h) Tota altra que el Govern li encomani mitjançant decret.
 
 #### Capítol tercer. Mesures de la transició energètica
 
@@ -74,11 +105,17 @@ $2e
 
 **Article 14. Comptatge d’energia elèctrica**
 
-$30
+1. Són objecte de comptatge sistemàtic la importació, l’exportació, la producció i la venda d’energia elèctrica, sense perjudici d’altres comptatges que siguin necessaris per a l’eventual repartiment de costos en el marc de les excepcions relatives a la transmissió d’energia elèctrica previstes per l’article 18.
+2. El comptatge d’energia elèctrica previst a l’apartat 1 d’aquest article s’ha d’efectuar mitjançant comptadors intel·ligents, capaços de comunicar a distància la informació mesurada, sense perjudici del que preveu la disposició transitòria primera.
+3. En l’àmbit de la producció i la venda, la informació mesurada en el marc del comptatge d’energia elèctrica és concentrada a escala local per les entitats distribuïdores d’energia elèctrica que operen a les zones respectives, i traslladada a escala nacional per aquestes entitats d’acord amb les previsions de l’article 44. En l’àmbit de la importació i l’exportació, correspon a FEDA mesurar i concentrar la informació, així com traslladar-la posteriorment, d’acord amb les previsions de l’article 44.
 
 **Article 15. Gestió de la càrrega de la xarxa**
 
-$32
+1. Les entitats distribuïdores poden proposar als seus clients reduir puntualment i voluntàriament els consums, traslladar-los en el temps, així com altres mesures que contribueixin a equilibrar l’oferta i la demanda elèctrica de la xarxa. Els acords en el sentit exposat i les contrapartides o compensacions que se’n derivin es formalitzen entre les entitats distribuïdores i els clients mitjançant contracte.
+2. Les entitats distribuïdores comuniquen a l’operador del sistema elèctric la capacitat de reduir i de traslladar els consums que gestionen en l’àmbit de la xarxa.
+3. L’operador del sistema elèctric pot, al seu torn, d’acord amb la informació rebuda per aplicació de l’apartat anterior, requerir a les entitats distribuïdores que es faci efectiva una reducció determinada o el trasllat d’un consum determinat en les seves xarxes respectives.
+4. El Govern estableix per la via d’un reglament les modalitats i condicions que regeixen les previsions d’aquest article.
+5. Les previsions d’aquest article no són aplicables en situacions excepcionals, en les quals l’operador del sistema elèctric, amb la finalitat de salvaguardar la integritat de la xarxa i la seguretat de les persones, pot ordenar als actors del sistema elèctric les actuacions que escaiguin, sense que aquestes actuacions siguin objecte de compensació de cap ordre.
 
 **Article 16. Funció de l’operador del sistema elèctric en la transició energètica**
 
@@ -86,21 +123,40 @@ A més de les funcions previstes per la Llei 5/2016, l’operador del sistema el
 
 **Article 17. Tarifes elèctriques i serveis afins**
 
-$34
+1. Les tarifes de venda de l’electricitat i dels serveis afins prestats per les entitats distribuïdores són públiques i comunes a tot el país. El decret del Govern de tarifes elèctriques i de serveis afins en fixa els imports.
+2. Els serveis afins han de ser oferts i prestats obligatòriament per les entitats distribuïdores, en funció de les previsions del decret esmentat en l’apartat anterior. El mateix decret n’especifica, per a cadascun i en relació amb els clients, el caràcter obligatori o facultatiu.
+3. Es consideren serveis afins els que, amb la finalitat de subministrar energia elèctrica, de permetre’n el subministrament o de millorar la informació i la interacció dels clients, són prestats per les entitats distribuïdores, sense perjudici dels serveis que han estat declarats com a afins per aquesta Llei.
+4. Els serveis afins són facturables als clients finals quan així hagin estat declarats mitjançant decret pel Govern, i la resta de serveis no són repercutibles als clients. En el cas de rebre la condició de facturable, les característiques del servei queden establertes en el mateix decret.
 
 **Article 18. Transmissió d’energia elèctrica per un abonat a tercers**
 
-$36
+1. Està prohibida tota transmissió d’energia elèctrica feta per un abonat per qualsevol títol, a un o diversos tercers, llevat d’autorització prèvia del Govern, a proposta del ministeri responsable de l’energia i del canvi climàtic.
+2. Per excepció de la norma precedent, no necessita autorització la transmissió d’energia feta per l’abonat a un o diversos tercers en els casos següents:
+a) En serveis de recàrrega d’equips amb bateria;b) En el subministrament de corrent elèctric a l’interior d’edificis a través d’equips de corrent estabilitzat o de grups electrògens;c) En el subministrament de corrent elèctric en apartaments moblats per a vacances i aparthotels;d) En el subministrament de corrent elèctric als centres de negoci, segons es defineixen i regulen en la normativa vigent;e) En el subministrament de corrent elèctric efectuat per una comunitat de propietaris, segons el sentit de la Llei 12/2004, que produeix energia elèctrica en el marc de l’autoconsum regulat per l’article 22, als propietaris que la constitueixen.
+3. Les condicions de facturació per part del transmissor a l’usuari final s’estableixen per reglament.
 
 ##### Secció segona. Energies renovables i tecnologies d’alta eficiència energètica
 
 **Article 19. Foment de les fonts d’energia renovables**
 
-$38
+1. El Govern defineix en l’Estratègia energètica nacional els potencials de les energies renovables per a les fonts d’origen hidràulic, solar i eòlic, així com d’altres que l’evolució tecnològica permeti considerar, a l’efecte que serveixin per a la presa de decisió dels ciutadans, del sector públic i del sector privat en relació amb les inversions que vulguin efectuar en la matèria.
+2. L’Estratègia incorpora igualment la quantificació del potencial energètic de l’aprofitament de la biomassa forestal. Sense perjudici de la disposició transitòria tercera, els comuns aprofiten el potencial energètic de la biomassa comunal, de preferència, per donar resposta a les necessitats tèrmiques dels edificis comunals, d’acord amb un estudi ambiental, tècnic i econòmic.
+3. Sobre la base dels potencials d’energies renovables, el Govern estableix en l’Estratègia energètica nacional un conjunt d’objectius que permetin transformar el model energètic en un model basat en les energies renovables i en energia baixa en carboni.
+4. El Govern desenvolupa els objectius esmentats a l’apartat anterior d’acord amb la planificació territorial determinada en el Pla sectorial d’infraestructures energètiques (PSIE).
 
 **Article 20. Producció elèctrica**
 
-$3a
+1. Per excepció a l’article 5 de la Llei 5/2016, sense perdre la condició d’activitat d’interès econòmic general a la qual es refereix el mateix article, i amb el benentès que no es produeixi perjudici de cap ordre a instal·lacions de producció elèctrica previstes en els instruments d’ordenació urbanística del Govern, es permet la producció d’energia elèctrica mitjançant instal·lacions d’aprofitament d’energia de fonts d’origen renovable per a potències inferiors o iguals a 2000 kW.
+2. Per a les instal·lacions amb potències inferiors o iguals a 500 kW, l’entitat distribuïdora propietària de la xarxa de distribució està obligada a consentir la connexió en baixa tensió i a permetre el que preveu l’apartat 3.
+Per a potències superiors a 500 kW i inferiors o iguals a 2.000 kW, el promotor de la instal·lació elabora un informe que caracteritza la producció elèctrica, els seus perfils i l’impacte ambiental, i el tramet a l’Oficina de l’Energia i del Canvi Climàtic que, en base a aquesta informació i als informes que emeten l’entitat distribuïdora i l’operador del sistema elèctric en relació a l’impacte de la connexió sobre la seva xarxa, emet l’autorització de connexió o la denega. Quan el promotor de la instal·lació obté l’autorització de connexió, l’entitat distribuïdora propietària de la xarxa de distribució està obligada a consentir-la, en la tensió que es determini, i a permetre el que preveu l’apartat 3 d’aquest article.
+El Govern estableix reglamentàriament el procediment del tràmit, així com les condicions de connexió.
+3. El productor d’energia elèctrica pot:
+a) Autoconsumir la totalitat o part de l’energia produïda d’acord amb les previsions de l’article 22.b) Injectar la totalitat o part de l’energia produïda a la xarxa de distribució de l’entitat distribuïdora i:i) quan l’autorització hagi estat obtinguda en el marc d’una convocatòria pel foment de la producció d’energia elèctrica d’origen de fonts renovables, ser retribuït per l’entitat distribuïdora per la producció d’acord a les previsions de la convocatòria;ii) quan l’autorització no hagi estat obtinguda en el marc d’una convocatòria per al foment de la producció d’energia elèctrica d’origen de fonts renovables que fixi altres condicions, ser retribuït per l’entitat distribuïdora amb la tarifa fixada per decret del Govern a proposta de l’operador del sistema elèctric;iii) quan l’autorització hagi estat obtinguda en el marc d’una convocatòria del Govern que subvencioni la compra de la producció d’energia elèctrica d’origen de fonts renovables, ser retribuït per l’entitat distribuïdora a la tarifa subvencionada que el productor hagi pogut obtenir. En aquest darrer supòsit, el Govern retribueix a l’entitat distribuïdora el diferencial entre la tarifa de la convocatòria i el preu en que les entitats distribuïdores adquireixen l’energia elèctrica a FEDA.
+En els supòsits i) i ii), Forces Elèctriques d’Andorra (FEDA) efectua les regularitzacions pertinents en les factures expedides a l’entitat distribuïdora per valor de la diferència entre el preu de l’energia retribuïda a la instal·lació de producció i el preu del majorista al qual l’entitat distribuïdora compra l’energia a FEDA, de manera que, en tots els casos, el cost de l’energia resulti neutre per a l’entitat distribuïdora en relació a les tarifes públiques que li són d’aplicació.
+4. En el supòsit previst a l’apartat 3.a) anterior, l’activitat no té la consideració d’activitat econòmica a tots els efectes, així com en el supòsit previst a l’apartat 3.b) anterior quan el productor sigui el propietari o titular d’un dret de superfície de les edificacions o del sòl en què s’ubiquen aquestes instal·lacions i la potència sigui inferior o igual a 500 kW.
+5. El Govern ha d’establir, reglamentàriament, prèvia consulta no vinculant a les entitats distribuïdores, les condicions administratives i tècniques que han de complir les instal·lacions a què es refereix l’apartat 1, i la seva connexió a la xarxa, per tal de garantir la seguretat, l’estabilitat, l’eficiència i l’absència de perjudicis a tercers, així com el procediment per posar en marxa i controlar aquestes instal·lacions.
+Igualment, estableix els mecanismes de finançament i compensació que siguin necessaris per assegurar que la connexió de les instal·lacions previstes a l’apartat 1 no penalitza econòmicament les entitats distribuïdores pels eventuals increments dels costos d’operació, manteniment i reparació, imputables directament a la connexió de les instal·lacions de producció o pel trànsit de l’energia elèctrica per les respectives xarxes de distribució, en el marc de l’autoconsum. Se segueix el mateix principi amb Forces Elèctriques d’Andorra (FEDA), en relació amb les seves xarxes de transport.
+6. L’activitat prevista a l’apartat 3.b) d’aquest article es pot efectuar amb el benentès que hi hagi suficient demanda elèctrica, bé prop dels clients, bé prop de la xarxa, que permeti absorbir la producció. Si no hi ha la demanda suficient, l’operador del sistema elèctric pot ordenar temporalment l’aturada dels generadors esmentats, sense que els titulars dels generadors tinguin dret a percebre indemnització o compensació de cap ordre.
 
 **Article 21. Comercialització de certificats d’energia elèctrica d’origen 100% renovable**
 
@@ -111,11 +167,23 @@ $3a
 
 **Article 22. Autoconsum d’energia elèctrica**
 
-$42
+1. Es distingeixen les modalitats següents d’autoconsum d’energia elèctrica:
+a) Modalitat d’autoconsum real. En aquesta modalitat l’energia produïda és consumida o emmagatzemada pel mateix productor, per al consum propi posterior;b) Modalitat d’autoconsum virtual per balanç net. En aquesta modalitat l’energia produïda és, en funció de la mateixa demanda energètica del punt de consum, consumida o injectada a la xarxa, que actua com a sistema d’emmagatzematge virtual a escala diària.
+2. La prestació efectuada per l’entitat distribuïdora en el marc de la modalitat d’autoconsum virtual per balanç net es considera un servei afí, d’acord amb la definició de l’article 17.
+3. En la modalitat prevista a l’apartat 1.
+b
+, l’energia injectada a la xarxa que, a escala diària, no hagi estat consumida és adquirida per l’entitat distribuïdora propietària de la xarxa a la tarifa fixada per decret del Govern a proposta de l’operador del sistema elèctric.
+4. L’autoconsum s’efectua sense perjudici del que preveu la disposició transitòria novena.
+5. A tots els efectes, té la consideració d’autoconsum, i no de venda, la producció d’energia elèctrica efectuada per una comunitat de propietaris i consumida pels propietaris que la integren.
 
 **Article 23. Distribució i venda de calor útil**
 
-$48
+1. Les previsions d’aquest article s’apliquen a l’activitat de distribució i venda de calor útil efectuada més enllà de l’edifici en el qual es produeix, quan el productor no és el mateix que el consumidor. Aquest article no és aplicable quan la producció és efectuada per una comunitat de propietaris, i el consum és efectuat pels propietaris que la constitueixen.
+2. Per excepció a l’article 5 de la Llei 5/2016, sense perdre la condició d’activitat d’interès econòmic general a la qual es refereix el mateix article, i amb el benentès que no es produeixi perjudici de cap ordre a instal·lacions de producció de calor, de cogeneració i de trigeneració previstes en els instruments d’ordenació urbanística del Govern, es permet la distribució i venda de calor útil mitjançant instal·lacions d’aprofitament d’energia de fonts d’origen renovable, d’aprofitament de calor residual o de fonts baixes en emissions de carboni per a potències tèrmiques de producció inferiors o iguals a 4.000 kW.
+3. L’activitat de distribució i venda de calor útil té la consideració d’activitat econòmica a tots els efectes, i l’efectua una empresa de serveis energètics, en el marc d’un contracte de subministrament energètic d’acord amb les previsions de l’article 36.5.b). Per excepció a l’anterior, i quan l’activitat derivi exclusivament de l’aprofitament de calor residual i sigui inferior a 500 kW, no tindrà la consideració d’activitat econòmica diferent a la del negoci principal.
+4. El Govern estableix mitjançant decret les condicions administratives i tècniques necessàries per a la venda de calor útil i el contracte tipus que s’ha de subscriure entre el titular de la instal·lació de producció i el consumidor final.
+5. Les condicions econòmiques de compra i venda són pactades entre el productor i l’adquiridor, mitjançant contracte escrit, amb els límits màxims corresponents a l’aplicació del decret de tarifes de calor vigent.
+6. El Govern estableix mitjançant decret les garanties de subministrament i de qualitat del servei que els productors han de proveir als seus clients en relació amb la venda de calor útil. L’incompliment de les garanties o dels objectius de qualitat establerts comporta l’aplicació obligatòria, per part del distribuïdor, d’una reducció de les tarifes als clients afectats que, en funció de la gravetat de la infracció prevista, pot arribar fins al 10% del preu del servei, durant un termini màxim d’un any. Aquesta reducció s’aplica sense perjudici de la responsabilitat civil per danys que hi pugui haver, quan sigui el cas.
 
 **Article 24. Instal·lacions de cogeneració**
 
@@ -132,7 +200,10 @@ $48
 
 **Article 26. Ajuts a la generació elèctrica distribuïda i a l’autoconsum**
 
-$4a
+1. Són susceptibles d’ajut al foment de la generació elèctrica distribuïda i a l’autoconsum:
+a) La producció d’energia elèctrica d’origen de fonts renovables que deriva en la venda de la totalitat o d’una part de l’energia produïda a l’entitat distribuïdora propietària de la xarxa de distribució a la qual el productor injecta l’energia elèctrica, en el marc de la previsió de l’apartat 3.b) de l’article 20. En aquest supòsit, els ajuts consisteixen en un complement del preu que l’entitat distribuïdora satisfà en el cas general.b) L’adquisició i la instal·lació d’equips per produir energia elèctrica d’origen de fonts renovables, en el marc de la previsió dels apartats 3.a) i 3.b) de l’article 20, aquest darrer en la modalitat d’autoconsum real prevista per l’apartat 1.a) de l’article 22. En aquest supòsit, l’ajut no pot superar el 50% del cost de la instal·lació.c) L’adquisició i la instal·lació d’equips per a la cogeneració, segons les previsions de l’article 24 i concordants. En aquest supòsit, l’ajut no pot superar el 50% del cost de la instal·lació.
+2. Els ajuts previstos en l’apartat 1 d’aquest article no són compatibles entre ells.
+3. El Govern publica les condicions de les convocatòries corresponents i, en el supòsit previst a l’apartat 1.a), integra les tarifes de compra subvencionada de l’energia elèctrica, que no poden ser inferiors als preus de mercat, preveient igualment un termini d’anys suficient per amortitzar la instal·lació, així com els drets de connexió a la xarxa de distribució.
 
 ##### Secció tercera. Informació i protecció dels usuaris
 
@@ -147,7 +218,13 @@ El Govern informa sistemàticament dels indicadors relacionats amb l’objecte d
 
 **Article 29. Qualitat i garantia del subministrament elèctric**
 
-$4c
+1. El Govern fixa reglamentàriament els objectius en l’àmbit de la qualitat i de la fiabilitat del subministrament elèctric avaluables d’una manera clara i objectiva, establint indicadors del nivell de la qualitat que reben els usuaris en termes de variacions de la tensió real respecte de la nominal i del temps i el nombre d’interrupcions del subministrament que són admissibles, com a màxim, en funció de la zona i del tipus de servei, que permetin seguir-ne l’evolució i comparar-los amb els indicadors internacionals.
+2. Les entitats distribuïdores i subministradores d’energia elèctrica han de complir els objectius establerts quant a la qualitat i la fiabilitat dels subministraments. Anualment, lliuren al ministeri amb competència en energia i canvi climàtic un informe elaborat per una empresa auditora externa que indiqui els valors reals obtinguts dels indicadors establerts, comparant-los amb els valors reglamentàriament fixats.
+3. Sense perjudici de l’apartat anterior, s’encomana al Govern el seguiment i el control de la qualitat i de la garantia del subministrament elèctric.
+4. L’incompliment dels objectius de qualitat establerts comporta l’aplicació obligatòria d’una reducció de les tarifes als clients afectats que, en funció de la gravetat de la infracció prevista, pot arribar fins al 10% del preu del servei, durant un termini màxim d’un any. Aquesta reducció s’aplica sense perjudici de la responsabilitat civil per danys a què pugui haver-hi lloc, quan sigui el cas.
+5. El Govern, a la vista de les propostes de reducció que pugui efectuar el ministeri competent en matèria d’energia i canvi climàtic i amb audiència prèvia de les parts, acorda la imposició de les reduccions que les entitats distribuïdores i subministradores d’energia elèctrica han d’aplicar als clients afectats, així com el termini de vigència d’aquestes reduccions. L’acord corresponent es publica al
+Butlletí Oficial del Principat d’Andorra
+.
 
 **Article 30. Informació sobre el preu dels hidrocarburs**
 
@@ -155,11 +232,20 @@ Les empreses subministradores d’hidrocarburs fan públics els preus de venda a
 
 **Article 31. Qualificació de l’eficiència energètica**
 
-$4e
+1. La informació sobre la qualificació relativa a l’eficiència energètica en l’edificació, definida per l’article 35 d’aquesta Llei, sense perjudici del que disposa la disposició transitòria desena, és de caràcter obligatori en tota transmissió onerosa de domini de béns immobles i en els arrendaments d’habitatges. És comunicada pels transmitents als adquirents i pels arrendadors als arrendataris.
+2. En el cas de vehicles nous i de vehicles d’ocasió, les empreses de venda de vehicles informen els seus clients:
+a) dels consums d’energia per cada cent quilòmetres, per cada font d’energia;b) de les emissions globals en termes de diòxid de carboni per quilòmetre;c) del cost anual de la taxa sobre la tinença de vehicles.
+3. El Govern, a través del ministeri competent en matèria de transport, posa a disposició una eina que permet generar els fulls d’informació, en compliment de les previsions de l’apartat anterior.
+4. Les comercialitzadores d’electrodomèstics informen els seus clients dels consums d’energia dels aparells d’acord amb les previsions de les directives i els reglaments europeus en vigor sobre la matèria.
 
 **Article 32. Repartiment dels costos en instal·lacions tèrmiques centralitzades**
 
-$50
+1. Tota instal·lació tèrmica que doni servei a més d’un usuari ha de disposar d’algun sistema que permeti el repartiment de les despeses corresponents a cada servei (calor i aigua calenta sanitària) entre els diversos usuaris.
+2. El Govern defineix per la via reglamentària el sistema de repartiment, que pot consistir en sistemes de mesura o en mètodes de repartició dels costos de calefacció, d’aigua calenta sanitària i, si escau, de refrigeració en tota instal·lació tèrmica que doni servei a més d’un usuari.
+3. Sense perjudici de la disposició transitòria onzena, un cop publicats, els mètodes de repartició de costos esmentats són emprats en totes les instal·lacions centralitzades que donin servei a més d’un usuari.
+4. S’exceptuen de les previsions de l’apartat anterior les instal·lacions operades per empreses de serveis energètics, les quals es retribueixen d’acord amb les previsions de l’article 36, i les instal·lacions de cogeneració i trigeneració, els serveis de les quals queda regulat mitjançant el Decret de tarifes publicat al
+Butlletí Oficial del Principat d’Andorra
+.
 
 ##### Secció quarta. Foment de l’estalvi energètic i de l’eficiència energètica
 
@@ -170,21 +256,41 @@ a) L’impuls a les polítiques actives que fomentin la rehabilitació energèti
 
 **Article 34. Eficiència energètica en l’edificació**
 
-$52
+1. Sense perjudici de la disposició transitòria dotzena, tots els edificis de nova planta per als quals se sol·liciti llicència d’obres a comptar de l’1 de gener del 2020 han de ser dissenyats i construïts per tenir un consum d’energia quasi nul (edificis de consum d’energia quasi nul, EEQN).
+2. El Govern regula les prestacions energètiques dels edificis i de les seves instal·lacions a través del Reglament energètic en l’edificació, prenent com a guia la Directiva 2010/31/UE, del 19 de maig, relativa a l’eficiència energètica dels edificis, o aquella que la substitueixi.
+3. Les ampliacions, les reformes i les rehabilitacions que es duguin a terme sobre elements puntuals d’edificis i d’unitats d’aquests edificis han de complir els requisits d’eficiència energètica, quan afectin elements les característiques dels quals estiguin regulades mitjançant el Reglament energètic en l’edificació.
+4. La realització de noves instal·lacions per produir calor, fred, aigua calenta sanitària, vapor d’aigua o electricitat, així com la substitució o la modificació d’instal·lacions, han de complir els requisits previstos pel Reglament energètic en l’edificació.
+5. Per als edificis de nova construcció, el Reglament energètic en l’edificació estableix la quantitat d’energia primària en relació amb la demanda que ha de ser coberta mitjançant fonts d’origen renovable in situ, prenent com a base la referència esmentada a l’apartat 2 d’aquest article.
+6. S’exceptuen de l’aplicació d’aquest article els edificis inclosos a l’Inventari general de patrimoni cultural i els edificis declarats d’interès cultural.
 
 **Article 35. Qualificació de l’eficiència energètica en l’edificació**
 
-$54
+1. La qualificació de l’eficiència energètica és aplicable tant als edificis i a les seves unitats, a través de la certificació energètica, com a les seves unitats individualment, a través de l’etiqueta energètica. Té per objectiu millorar la transparència i la informació relativa a l’eficiència energètica en el mercat immobiliari.
+2. El Govern estableix mitjançant reglament els requisits d’elaboració i registre de la qualificació de l’eficiència energètica, la metodologia de càlcul, així com la seva validesa i els supòsits que la invaliden i fan necessari revisar-la.
+3. El Govern posa a disposició dels professionals que estableixen la qualificació de l’eficiència energètica en l’edificació una eina que permet l’elaboració i el registre de les qualificacions energètiques. El preu màxim de les etiquetes energètiques l’estableix el Govern.
+4. En edificis de nova planta, la certificació energètica s’elabora en finalitzar les obres.
+5. S’encomana al Govern el registre de les certificacions i de les etiquetes energètiques. Per ser vàlida, la qualificació energètica ha de complir els requisits del Reglament esmentat i ha d’estar registrada pel Govern.
 
 **Article 36. Empreses de serveis energètics**
 
-$56
+1. Es consideren empreses de serveis energètics, en endavant també ESE, les que subministren serveis energètics en els edificis o en les seves unitats, dels seus clients, mitjançant la implantació, i el finançament total o parcial, d’actuacions d’estalvi i d’eficiència energètica, d’energies renovables o el subministrament d’energia en forma d’energia final.
+2. Les ESE desenvolupen, per elles mateixes o mitjançant la subcontractació, els projectes dissenyats per a la millora de l’eficiència energètica.
+3. Les empreses de serveis energètics milloren el comportament i el balanç energètic de l’edifici o de les seves unitats i/o optimitzen la gestió de les instal·lacions energètiques del client.
+4. Les actuacions efectuades per les ESE en edificis, en unitats d’edificis i en les seves instal·lacions compleixen els requisits previstos per aquesta Llei i pels reglaments que la desenvolupen.
+5. Els contractes entre les ESE i els seus clients preveuen les condicions i les garanties que regulen la prestació, i en precisen expressament i de forma transparent les condicions econòmiques, així com la durada del contracte. La modalitat contractual segueix un dels supòsits següents:
+a) Contracte de rendiment energètic, distingint-ne la modalitat d’estalvis garantits, la modalitat d’estalvis compartits o una combinació d’ambdós modalitats;b) Contracte de subministrament energètic;c) Contracte que combina les dos anteriors.
+6. Les condicions contractuals permeten als clients de les ESE un estalvi econòmic, en relació amb la situació inicial, des de la finalització de les actuacions previstes, i durant la vigència del contracte. Les ESE assumeixen totalment o parcialment el risc econòmic derivat de l’estalvi energètic pactat contractualment.
+7. Finalitzat el període contractual, les instal·lacions i les actuacions efectuades als edificis, o a les seves unitats, reverteixen íntegrament en els seus clients o són recuperades per les ESE, d’acord amb les previsions contractuals pactades entre les parts.
 
 ##### Secció cinquena. Mobilitat
 
 **Article 37. Mobilitat sostenible**
 
-$58
+1. El Govern i els comuns promouen un model de mobilitat cap a mitjans més sostenibles sempre privilegiant el transport públic respecte dels transports privat i particular i d’acord amb la jerarquia següent:
+a) mobilitat no motoritzada o assistida;b) mobilitat motoritzada elèctrica o d’una font sense emissions de gasos amb efecte d’hivernacle;c) mobilitat motoritzada amb emissions de gasos amb efecte d’hivernacle.
+2. Sense perjudici de la disposició transitòria cinquena, aquesta promoció es fa efectiva mitjançant l’estratègia nacional de mobilitat, que elabora el Govern mitjançant els ministeris competents en matèria d’energia i de canvi climàtic, de transport i de mobilitat, i els plans de mobilitat parroquials, que elaboren els comuns incorporant les previsions de l’estratègia nacional a la planificació local.
+3. El Govern i els comuns incorporen en els seus instruments de planificació urbanística les previsions de l’estratègia nacional de mobilitat i dels plans de mobilitat parroquials.
+4. Totes les administracions, les entitats públiques i les empreses, de més de 100 treballadors, han de disposar de plans de mobilitat sostenible per als seus treballadors d’acord a la jerarquia establerta a l’apartat 1 d’aquest article. El contingut mínim dels plans de mobilitat sostenible per als treballadors es desenvolupa reglamentàriament.
 
 **Article 38. Transport públic**
 
@@ -208,7 +314,14 @@ El Govern afavoreix la transició de vehicles motoritzats que utilitzen actualme
 
 **Article 42. Rol exemplar de l’Administració Pública**
 
-$5a
+1. L’Administració Pública realitza auditories energètiques de tots els seus edificis calefactats, abans de l’any 2022. En base a aquestes auditories, l’Administració Pública impulsa la renovació de tots els seus edificis calefactats per assolir els requisits d’eficiència energètica en l’edificació, exigibles amb caràcter general als edificis de nova construcció, d’acord amb les previsions de l’article 34 d’aquesta Llei.
+2. L’Administració Pública ha de disposar, per tots els seus edificis calefactats, d’un manual intern d’ús energèticament eficient de les instal·lacions. Es faculta al Govern a establir per la via reglamentària, els criteris bàsics d’estalvi i eficiència energètica en aquests edificis.
+3. L’Administració Pública ha de substituir els seus equips de producció d’energia, quan arribin al final de la vida útil, per equips d’alta eficiència energètica amb prioritats d’aquells que utilitzin energia de font renovable.
+4. L’Administració Pública ha d’incorporar en el seus organigrames estructurals funcions de gestió d’energia i eficiència energètica.
+5. Els sistemes d’enllumenat públic han de ser de molt baix consum, i complir els requisits fixats per reglament.
+6. Les flotes de vehicles de l’Administració Pública han de renovar-se segons criteris de sostenibilitat i seguint els objectius marcats en l’Estratègia energètica nacional.
+7. L’Administració Pública ha d’aplicar criteris d’eficiència a totes les contractacions públiques d’obres, de subministraments, de serveis i de treballs tècnics.
+8. L’Administració Pública ha de treballar per incrementar la sensibilització de la societat civil, de les organitzacions privades i de les autoritats públiques respecte del valor del model energètic, el seu paper i la seva transformació.
 
 ##### Secció setena. Altres mesures
 
@@ -219,7 +332,9 @@ $5a
 
 **Article 44. Registre energètic nacional**
 
-$5c
+1. Es crea el Registre energètic nacional, en endavant també REN, com a eina de seguiment i control centralitzat dels fluxos energètics del país. El registre inclou informació relativa a les quantitats d’energia tèrmica i elèctrica produïda, distribuïda, consumida, emmagatzemada, importada i exportada a escala nacional.
+2. L’objectiu del Registre energètic nacional és determinar, des del punt de vista quantitatiu, el balanç energètic del país per oferir, així, informació objectiva i transparent en relació amb els resultats de l’Estratègia nacional i la política en matèria energètica.
+3. Sense perjudici de la disposició transitòria setena, estan sotmeses a mantenir el Registre energètic nacional actualitzat, mitjançant l’eina que posa a disposició el Govern, les entitats dels sector elèctric, dels hidrocarburs, d’altres fonts d’energia, així com les entitats l’activitat comercial de les quals estigui relacionada amb producció, importació, exportació, transport, emmagatzematge, distribució i venda d’energia tèrmica o elèctrica.
 
 **Article 45. Precarietat energètica**
 
@@ -247,7 +362,10 @@ a) Inventari nacional d’emissions de gasos d’efecte d’hivernacle;b) Mitiga
 
 **Article 49. La mitigació de les emissions de gasos d’efecte d’hivernacle**
 
-$5e
+1. La mitigació és el principi pel qual es persegueix la disminució de les emissions de gasos d’efecte d’hivernacle o l’augment de la capacitat d’absorció dels embornals.
+2. El Govern integra en l’Estratègia nacional prevista en l’article 10 d’aquesta Llei un programa d’acció nacional per mitigar l’emissió de gasos amb efecte d’hivernacle. Els objectius que s’hi defineixen estan d’acord amb els compromisos internacionals adquirits pel país i s’estructuren segons els mateixos eixos que els inventaris nacionals d’emissions de gasos d’efecte d’hivernacle.
+3. El programa d’acció nacional per mitigar l’emissió de gasos d’efecte d’hivernacle inclou:
+a) La planificació quantitativa, temporal i econòmica de les accions de mitigació de les emissions de gasos amb efecte d’hivernacle tenint en compte els sectors clau identificats a l’inventari nacional de l’article 48, per tal d’assolir els compromisos de mitigació adquirits en les comunicacions internacionals sobre el canvi climàtic;b) La definició dels instruments i dels indicadors de seguiment i d’avaluació de l’efectivitat de les accions previstes.
 
 **Article 50. Mercat nacional de compensació d’emissions de gasos amb efecte d’hivernacle**
 
@@ -274,7 +392,12 @@ Les properes revisions del Pla nacional de residus, elaborades d’acord amb les
 
 **Article 54. Integració del canvi climàtic en polítiques, plans, estratègies i programes**
 
-$60
+1. Les administracions públiques i les societats amb més de la meitat de capital públic avaluen i integren en les seves polítiques, plans, estratègies i programes els efectes i els impactes de les evolucions climàtiques en les seves activitats.
+2. Les persones físiques i jurídiques que optin a ajudes o finançament públic específic en els àmbits de la mitigació i l’adaptació al canvi climàtic estudien i integren en les seves polítiques, plans, estratègies i programes els efectes de les evolucions climàtiques en les seves activitats.
+3. Els efectes de les evolucions climàtiques que es consideren són:
+a) les noves situacions, tant les oportunitats com les amenaces, derivades dels impactes del canvi climàtic;b) la sostenibilitat de l’activitat, inclosos els recursos i productes, de forma integral.
+4. Entre els criteris de valoració de projectes que aspirin a instruments de finançament públics, constitueix un requisit indispensable el fet que els beneficiaris disposin d’una planificació que inclogui les mesures necessàries per:
+a) Reduir el seu impacte en la generació de gasos amb efecte d’hivernacle;b) Incrementar l’eficiència i l’estalvi d’aigua i energia, l’autoconsum d’energia de fonts renovables, i la reducció en la generació de residus;c) Disminuir la seva vulnerabilitat davant dels fenòmens meteorològics extrems;d) Sensibilitzar, informar i educar tant els treballadors com els clients o proveïdors sobre l’ús sostenible dels recursos.
 
 **Article 55. Sensibilització i educació en relació amb el canvi climàtic**
 
@@ -288,11 +411,42 @@ Als efectes d’aquesta Llei les infraccions es qualifiquen en lleus, greus i mo
 
 **Article 57. Infraccions lleus**
 
-$62
+Són infraccions lleus:
+1. No comunicar a l’operador del sistema elèctric, com a entitat distribuïdora, la capacitat de reducció i de trasllat dels consums que gestiona a la xarxa.
+2. No informar els clients finals sobre la contribució de cada font energètica sobre les emissions resultants de la combinació energètica, i/o sobre l’historial de consums i de facturació dels darrers 14 mesos, d’acord amb les previsions de l’article 28.1.
+3. No comunicar en les transmissions oneroses de domini de béns immobles i en els arrendaments d’habitatges la informació sobre la qualificació relativa a l’eficiència energètica en l’edificació, definida per l’article 35.
+4. No disposar dels fulls d’informació de l’article 31.3.
+5. No informar els clients dels consums d’energia dels aparells electrodomèstics.
+6. No utilitzar els mètodes de repartició de costos d’acord amb les previsions de l’article 32.2 i 32.3
+7. No complir els requisits d’elaboració i registre de la qualificació de l’eficiència energètica, i/o la metodologia de càlcul.
+8. Prestar serveis en l’àmbit executiu de la instal·lació, del muntatge i de l’obra en l’edificació, en el context de la transició energètica, sense la capacitació professional específica.
+9. Incomplir les obligacions previstes en aquesta Llei, sempre que no constitueixi una infracció greu o molt greu.
+10. Les infraccions establertes als articles 58 i 59 quan no tinguin entitat suficient per ser qualificades com a infraccions greus o molt greus.
 
 **Article 58. Infraccions greus**
 
-$66
+Són infraccions greus:
+1. No operar, com a importador, exportador, productor o distribuïdor, respectivament, el comptatge sistemàtic de la importació, l’exportació, la producció i la venda d’energia elèctrica mitjançant comptadors intel·ligents.
+2. No concentrar a escala local, com a entitat distribuïdora d’energia elèctrica, el comptatge d’energia, i/o no traslladar-la a escala nacional d’acord amb les prescripcions de l’article 44.
+3. No oferir els serveis afins obligatoris recollits en l’article 17 de la Llei.
+4. No garantir els requisits de qualitat i garantia del subministrament elèctric.
+5. Facturar serveis afins que no ho poden ser.
+6. La transmissió d’energia elèctrica feta per un abonat, per qualsevol títol, a un o diversos tercers, sense autorització prèvia del Govern o fora dels supòsits relacionats a l’article 18.2.
+7. No respectar les condicions de facturació per part del transmissor a l’usuari final.
+8. No connectar-se a la xarxa de distribució en baixa tensió en les condicions establertes.
+9. No consentir, com a entitat distribuïdora propietària de la xarxa de distribució, la connexió a la xarxa de distribució de baixa tensió.
+10. No permetre, com a entitat distribuïdora propietària de la xarxa de distribució, que el productor d’energia elèctrica pugui autoconsumir o injectar l’energia produïda en les condicions de l’article 20.3.
+11. Superar els preus màxims previstos en relació amb l’etiqueta energètica.
+12. No crear ni mantenir actualitzat un registre de la comercialització de certificats d’energia elèctrica d’origen 100% renovable.
+13. No respectar les condicions d’emissió dels certificats esmentats i/o de comercialització dels mateixos certificats.
+14. No respectar les condicions administratives i tècniques necessàries per a la venda de calor útil i/o per al contracte tipus que s’ha de subscriure entre el titular de la instal·lació de producció i el consumidor final.
+15. No respectar les garanties de subministrament i de qualitat del servei que els productors han de proveir als seus clients en relació amb la venda de calor útil, o les entitats distribuïdores han de proveir en relació amb el subministrament elèctric.
+16. No aplicar les reduccions sobre les tarifes als clients afectats per incompliments de les previsions de l’article 23.6 o de l’article 29.4.
+17. No fer públics els preus de venda al públic de cada producte per a cada estació de servei, en el cas dels hidrocarburs líquids, i per a cada distribuïdor, per als hidrocarburs gasosos, a través dels mitjans que posa a disposició el Govern.
+18. No lliurar anualment l’informe d’auditoria de l’article 29.
+19. No efectuar el repartiment de despeses d’acord amb el que preveu l’article 32.
+20. No complir els requisits de l’article 36.5 en els contractes entre les ESE i els seus clients.
+21. La comissió de dos infraccions lleus sancionades, encara que siguin de naturalesa diferent, sempre que es cometin dins el període de quatre anys des la primera de les infraccions i que l’autor hagi estat sancionat per aquesta infracció.
 
 **Article 59. Infraccions molt greus**
 
@@ -317,7 +471,10 @@ a) Executin directament l’acció infractora, o les que ordenin aquesta acció 
 
 **Article 62. Sancions**
 
-$68
+1. Per la comissió de les infraccions tipificades per aquesta Llei s’han d’establir les sancions següents:
+a) Infraccions lleus: multa de 100 a 3.000 euros. A més, també es poden imposar les sancions accessòries següents: tancament de l’establiment o suspensió de l’activitat, total o parcial, per un termini màxim d’un any.b) Infraccions greus: multa de 3.000,01 a 15.000 euros. A més, també es poden imposar les sancions accessòries següents: tancament de l’establiment o suspensió de l’activitat, total o parcial, per un termini màxim de dos anys i imposició de l’obligació d’aplicar una reducció de tarifes als clients afectats en el termes previstos als articles 23.6 i 29.4.c) Infraccions molt greus: multa de 15.000,01 a 60.000 euros. A més, també es poden imposar les sancions accessòries següents: tancament de l’establiment o suspensió de l’activitat, total o parcial, fins a quatre anys, o clausura definitiva, total o parcial, de l’establiment o l’activitat.
+2. Si el tancament o la suspensió tenen caràcter temporal, es computa a l’efecte del seu compliment el temps en què hagi estat tancat o suspès com a mesura cautelar.
+3. Les quantitats fixades en aquest article s’actualitzen periòdicament d’acord amb la Llei de pressupost.
 
 **Article 63. Sanció d’infraccions concurrents**
 
@@ -327,7 +484,9 @@ $68
 
 **Article 64. Criteris de graduació de les sancions**
 
-$6a
+1. Les sancions es graduen de conformitat amb tots els criteris següents:
+a) La repercussió social, el nombre d’afectats i la transcendència de la infracció comesa en allò que respecta a la salut i a la seguretat de les persones, dels seus béns i del medi ambient.b) L’afecció qualitativa i quantitativa i els perjudicis causats.c) El caràcter irreversible del dany.d) Les circumstàncies del responsable, la seva intencionalitat, l’ànim de lucre i el grau de malícia, de participació i el benefici obtingut.e) Les sancions fermes en via administrativa que hagin estat imposades durant els últims dos anys. En cas d’observar-se aquesta circumstància, l’import de les multes pot incrementar-se un 50%, sense excedir en cap cas el límit més alt fixat per a les infraccions molt greus.
+2. Es considera com a factor atenuant la rapidesa i eficàcia amb què l’infractor hagi adoptat per voluntat pròpia mesures per evitar o disminuir els danys i perjudicis derivats de la infracció, així com el compliment immediat i eficaç de les mesures cautelars que l’instructor del procediment hagi imposat a aquest respecte.
 
 **Article 65. Prescripció de les sancions**
 

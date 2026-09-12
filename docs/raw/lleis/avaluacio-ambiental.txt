@@ -25,7 +25,11 @@ a) Promoure un desenvolupament sostenible, garantir la qualitat de vida de les p
 
 **Article 4. Context transfronterer**
 
-$1e
+1. Quan es consideri que l’execució d’un projecte o d’un pla o programa pot tenir efectes significatius sobre el medi ambient d’un Estat veí, el Govern li ha de trametre tan aviat com sigui possible, i, al més tard, quan n’informi el seu propi públic, una descripció del projecte o del pla o programa, juntament amb els estudis i documents ambientals corresponents, abans que el projecte, pla o programa estigui aprovat.
+2. El Govern proporciona a l’Estat veí un període d’un mes perquè pugui comunicar si vol establir consultes.
+3. En cas afirmatiu, s’inicien les consultes corresponents sobre els possibles efectes mediambientals transfronterers i les mesures previstes per reduir o evitar aquests efectes i s’acorda, al principi de les consultes, que aquestes han de tenir un període màxim de tres mesos de durada.
+4. Els terminis previstos en aquesta Llei per a la tramitació de procediments d’avaluació ambiental quedaran suspesos mentre duri el període de consultes previst en l’apartat 3 d’aquest article.
+5. En qualsevol cas, el resultat de les consultes que es puguin dur a terme al país veí no tindran caràcter vinculant.
 
 **Article 5. Relació entre l’avaluació d’impacte ambiental de projectes i l’avaluació ambiental estratègica de plans i programes**
 
@@ -50,7 +54,19 @@ $1e
 
 **Article 8. Procediment d’avaluació d’impacte ambiental de projectes**
 
-$20
+1. El promotor del projecte, a través del procediment corresponent a l’autorització d’un projecte, ha de presentar davant l’òrgan substantiu competent el projecte i l’estudi d’impacte ambiental juntament amb la documentació exigida per la normativa sectorial.
+2. L’òrgan substantiu, a través del procediment corresponent a l’autorització d’un projecte, ha de trametre a l’òrgan ambiental el projecte i l’estudi d’impacte ambiental.
+3. L’òrgan ambiental pot sol·licitar informació complementària al promotor si detecta errors o mancances reparables de forma o de contingut durant l’anàlisi de la documentació presentada. El promotor ha de retornar la informació complementària sol·licitada a l’òrgan substantiu en el termini màxim de dos mesos.
+4. L’òrgan ambiental pot sol·licitar informes als diferents departaments o administracions competents relacionats per raó de la matèria.
+5. L’òrgan ambiental, una vegada rebuts els complements d’informació i els informes sol·licitats, ha d’emetre, en el termini màxim d’un mes, un informe previ d’impacte ambiental quan els projectes afectin terrenys públics. Aquest informe previ ha d’incloure, si escau, les condicions o els requisits per executar el projecte o les mesures previstes per evitar, prevenir o reduir, i, si és possible, compensar, efectes ambientals adversos significatius. Aquest informe previ es tramet a l’òrgan substantiu a través del procediment establert per l’autorització del projecte.
+6. L’òrgan substantiu posa a informació pública mitjançant la seva publicació al
+Butlletí Oficial del Principat d’Andorra
+, i a través de mitjans electrònics, el projecte, l’estudi d’impacte ambiental i l’informe previ d’impacte ambiental durant el termini d’un mes, quan els projectes afectin terrenys públics.
+7. Una vegada finalitzat el període d’informació pública, si escau, i un cop fetes totes les consultes escaients a les administracions públiques afectades, al públic interessat i les consultes transfrontereres, l’òrgan substantiu recull les al·legacions i els informes i els tramet als òrgans competents en la matèria i al promotor en el termini màxim d’un mes a comptar de la data de finalització de la informació pública.
+8. El promotor ha de considerar les al·legacions i els informes resultants del període d’informació pública i consultes, si s’esdevenen, i ha d’adaptar, en cas necessari, el contingut del projecte així com de l’estudi d’impacte ambiental en un termini màxim de dos mesos.
+9. L’òrgan ambiental, a partir del conjunt de la documentació definitiva i, si escau, de les al·legacions de caràcter ambiental i els informes relatius a les consultes, en el termini màxim d’un mes redacta la declaració d’impacte ambiental i la tramet a l’òrgan substantiu.
+10. Quan el projecte no està sotmès a informació pública, l’òrgan ambiental, a partir de la informació del projecte i l’estudi d’impacte ambiental, en el termini màxim d’un mes, emet un informe d’impacte ambiental i el tramet a l’òrgan substantiu.
+11. L’òrgan substantiu resol l’autorització o la denegació del projecte, segons el conjunt de la informació recollida en el marc de la normativa sectorial vigent.
 
 **Article 9. Requisits addicionals per a projectes amb un impacte molt important sobre el medi ambient**
 
@@ -59,15 +75,30 @@ a) Tots els projectes es posen a informació pública, independentment de la tit
 
 **Article 10. Estudi d’impacte ambiental**
 
-$22
+1. Els projectes sotmesos a avaluació d’impacte ambiental han d’incloure un estudi d’impacte ambiental redactat per tècnics autoritzats i competents.
+2. L’estudi d’impacte ambiental identifica, descriu i avalua de manera apropiada per cada cas particular els efectes significatius directes i indirectes d’un projecte sobre els factors següents:
+a) La població i la salut humana.b) La biodiversitat, amb atenció especial a les espècies protegides i els hàbitats d’interès.c) Les terres, el sòl, l’aigua, l’aire i el clima.d) Els béns materials, el patrimoni cultural i el paisatge.e) La interacció entre el conjunt dels factors anteriors.
+3. El contingut de l’estudi d’impacte ambiental es determina per via reglamentària; no obstant això, ha d’incloure com a mínim:
+a) Una descripció del projecte amb informació sobre la ubicació, el disseny i les dimensions i altres característiques del projecte.b) Una descripció dels possibles efectes significatius del projecte sobre el medi ambient durant les fases de construcció, explotació o funcionament i el final de la seva vida útil o desmantellament, si escau.c) Una descripció de les mesures previstes per evitar, prevenir o reduir i, en cas necessari, compensar o contrarestar els possibles efectes adversos significatius en el medi ambient.d) Una descripció de les principals alternatives raonables estudiades pel promotor, inclosa l’alternativa de no alterar el medi, i una justificació de les raons de la solució adoptada, tenint en compte els efectes del projecte en el medi ambient.e) Un resum no tècnic de l’estudi d’impacte ambiental.
+A més, cal afegir-hi un pla de restauració ambiental i un pla de vigilància ambiental.
+4. L’Administració ha de facilitar, a demanda del promotor, totes les informacions i documentació pertinents de què disposa.
+5. L’estudi d’impacte ambiental és un document que cal adjuntar als plecs de bases per a la licitació de les obres d’un projecte sotmès al procediment d’avaluació d’impacte ambiental.
+6. L’estudi d’impacte ambiental d’un projecte té una vigència de 3 anys des de la seva conclusió, a excepció que durant aquest període, s’hagi modificat l’estat del terreny afectat pel projecte, s’hagi canviat la normativa que regula el contingut de l’estudi o hagi canviat la normativa en matèria de protecció del medi ambient o en matèria de conservació del medi natural, de la biodiversitat o del paisatge.
 
 **Article 11. Projectes no sotmesos a avaluació d’impacte ambiental, sotmesos únicament a un pla de restauració i a un pla de vigilància ambiental**
 
-$24
+1. Els projectes inclosos en l’annex II, que per les seves característiques o dimensions tenen un grau d’impacte menys rellevant sobre el medi, no queden sotmesos al procediment d’avaluació d’impacte ambiental; no obstant això, han d’adjuntar a la sol·licitud d’autorització del projecte un pla de restauració i de vigilància ambiental.
+2. El promotor, a través del procediment corresponent a l’autorització del projecte, ha de presentar davant l’òrgan substantiu competent el projecte i els plans de restauració i de vigilància ambiental, juntament amb la documentació exigida per la normativa sectorial. En aquest sentit, determinats projectes de l’annex II poden acollir-se al procediment simplificat per a l’obtenció de la llicència urbanística. El tipus de projectes i el procediment administratiu s’estableixen mitjançant reglament.
+3. L’òrgan substantiu, a través del procediment corresponent a l’autorització d’un projecte, ha de trametre a l’òrgan ambiental el projecte i els plans de restauració i de vigilància ambiental.
+4. L’òrgan ambiental a través del procediment corresponent a l’autorització del projecte, emet l’informe preceptiu en el termini màxim d’un mes i el tramet a l’òrgan substantiu.
+5. L’òrgan substantiu resol l’autorització o la denegació del projecte, segons el conjunt de la informació recollida en el marc de la normativa sectorial vigent.
 
 **Article 12. Vigilància i control**
 
-$26
+1. Per als projectes sotmesos a avaluació d’impacte ambiental, la direcció facultativa de l’obra ha d’incorporar un tècnic responsable de la vigilància ambiental que ha de fer complir les mesures previstes en l’estudi d’impacte ambiental i en els plans de restauració i de vigilància ambiental, així com el que estableix la declaració d’impacte ambiental. Aquesta tasca pot ser duta a terme per la direcció facultativa sempre que, a tal efecte, disposi de personal amb formació específica que compleixi amb els requisits establerts reglamentàriament.
+2. El cap d’obra de l’empresa constructora té l’obligació de conèixer el contingut de l’estudi d’impacte ambiental, dels plans de restauració i de vigilància ambiental i de la declaració d’impacte ambiental, i d’actuar, conforme a les instruccions tècniques de la direcció facultativa perquè es compleixin.
+3. Abans de l’inici de les obres es fixa una reunió de replanteig a la qual assisteix necessàriament el tècnic responsable de la vigilància ambiental de la direcció facultativa de l’obra, amb avís previ a l’òrgan ambiental.
+4. La direcció facultativa ha de facilitar qualsevol informació relativa a l’execució de les obres que pugui afectar el medi ambient, sempre que l’òrgan ambiental ho sol·liciti.
 
 #### Capítol tercer. Avaluació ambiental estratègica de plans i programes
 
@@ -79,7 +110,21 @@ $26
 
 **Article 14. Procediment d’avaluació ambiental estratègica de plans i programes sectorials**
 
-$28
+1. El promotor del pla o programa sectorial tramet a l’òrgan ambiental el pla o programa i l’estudi ambiental estratègic.
+2. L’òrgan ambiental pot sol·licitar informació complementària si detecta errors o mancances reparables de forma o de contingut durant l’anàlisi de la documentació presentada. El promotor ha de fer retorn de la informació complementària sol·licitada en el termini màxim de dos mesos.
+3. L’òrgan ambiental pot sol·licitar informes als diferents departaments o administracions competents per raó de la matèria.
+4. L’òrgan ambiental ha d’emetre, en el termini màxim de dos mesos, un informe previ relatiu a la compatibilitat del pla o programa amb el medi ambient i l’ha de trametre al promotor.
+5. El promotor del pla o programa sectorial posa a informació pública, mitjançant la publicació al
+Butlletí Oficial del Principat d’Andorra
+i a través de mitjans electrònics, el pla o programa, l’estudi ambiental estratègic, l’informe previ relatiu a la compatibilitat del pla o programa amb el medi ambient i els informes emesos per les altres administracions o ministeris afectats, si escau, durant un termini d’un mes o en el termini previst pel procediment d’autorització del pla o programa per raó de la matèria.
+6. Simultàniament al tràmit d’informació pública, el promotor del pla o programa ha de consultar el públic interessat i les administracions afectades sobre els possibles efectes del pla o programa. S’estableixen procediments perquè la informació sigui accessible a través de mitjans electrònics.
+7. Un cop finalitzat el període d’informació pública i de consultes escaients, el promotor recull les al·legacions formulades i els informes relatius a les consultes, si escau, i els tramet als òrgans competents en la matèria.
+8. El promotor redacta la versió final del pla o programa en el termini màxim de dos mesos i la tramet a l’òrgan ambiental.
+9. L’òrgan ambiental, a partir del conjunt de la documentació i, si escau, dels informes de les administracions i de les consultes en matèria ambiental, redacta la declaració ambiental estratègica, que recull la integració en el pla o programa dels aspectes mediambientals i pren en consideració les consultes i les al·legacions de caràcter ambiental, i la tramet al promotor.
+10. L’òrgan competent en la matèria aprova el pla o programa segons el conjunt de la informació recollida en el marc de la normativa sectorial vigent.
+11. Un cop aprovat el pla o programa, es publica al
+Butlletí Oficial del Principat d’Andorra
+.
 
 **Article 15. Procediment d’avaluació ambiental estratègica de plans d’ordenació i urbanisme parroquial, plans parcials i plans especials**
 
@@ -88,7 +133,12 @@ $28
 
 **Article 16. Estudi ambiental estratègic de plans i programes**
 
-$2a
+1. Els plans i programes sotmesos a avaluació ambiental estratègica han d’incloure un estudi ambiental estratègic elaborat per tècnics autoritzats i competents.
+2. L’estudi ambiental estratègic del pla o programa identifica, descriu i avalua els probables efectes significatius sobre el medi ambient que es derivaran de l’aplicació del pla o programa, així com les alternatives raonables, tècnicament i ambientalment viables i sostenibles, que tinguin en compte l’objectiu i l’àmbit d’afectació geogràfica del pla o programa, amb la finalitat de prevenir o corregir els efectes adversos sobre el medi ambient que es derivin de l’aplicació del pla o programa.
+3. L’estudi ambiental estratègic es considera part integrant del pla o del programa.
+4. El contingut de l’estudi ambiental estratègic es determina per via reglamentària i ha de contenir, com a mínim, les dades següents:
+a) Un resum executiu amb els objectius principals del pla o programa, les relacions amb altres plans i programes pertinents i els criteris de sostenibilitat, incloent-hi les capacitats de creixement de la població, per al cas dels plans urbanístics, i els criteris paisatgístics adoptats per dissenyar-los.b) Els aspectes rellevants de la situació actual del medi ambient.c) Les principals alternatives raonables, inclosa l’alternativa de no alterar el medi, que tinguin en compte els objectius i l’àmbit d’aplicació geogràfic del pla o programa.d) Qualsevol problema ambiental existent que sigui important per al pla o programa, incloent-hi, en particular, els aspectes relacionats amb qualsevol zona amb una sensibilitat ambiental d’especial importància.e) Els objectius de protecció ambiental i paisatgística fixats en l’àmbit nacional que tinguin relació amb el pla o programa i la manera com aquests objectius i qualsevol aspecte ambiental s’han tingut en compte durant l’elaboració del pla o programa.f) Els probables efectes significatius sobre el medi ambient, inclosos aspectes com la biodiversitat, la població, la salut humana, la fauna, la flora, la terra, l’aigua, l’aire, els factors climàtics, els béns materials, el patrimoni cultural –inclosos el patrimoni arquitectònic i l’arqueològic−, el paisatge i la interrelació entre aquests factors.g) Les mesures previstes per prevenir, reduir i, en la mesura que sigui possible, compensar qualsevol efecte negatiu important en el medi ambient que pugui resultar de l’aplicació del pla o programa.h) Un resum dels motius de la selecció de les alternatives previstes i una descripció de la manera en què s’ha elaborat l’estudi, incloses les dificultats que s’hagin trobat a l’hora de recollir la informació requerida, com ara deficiències tècniques o manca de coneixements i d’experiència.i) Una descripció de les mesures previstes per al seguiment i la supervisió del pla o programa.j) Un resum de caràcter no tècnic de l’estudi ambiental estratègic.
+5. La vigència de l’estudi ambiental estratègic és de 3 anys des de la seva conclusió a excepció que durant aquest període s’hagi modificat l’estat dels terrenys afectats pel programa o hagi canviat la normativa que regula el contingut de l’estudi o hagi canviat la normativa en matèria de protecció del medi ambient o en matèria de conservació del medi natural, de la biodiversitat o del paisatge.
 
 **Article 17. Seguiment ambiental i supervisió**
 
@@ -99,7 +149,12 @@ $2a
 
 **Article 18. Tipificació de les infraccions**
 
-$2c
+1. Les infraccions a les disposicions d’aquesta Llei es classifiquen en lleus, greus i molt greus.
+2. L’incompliment de qualsevol de les previsions que conté aquesta Llei és una infracció lleu, tret que no estigui tipificada com a greu o molt greu, d’acord amb els apartats següents o amb les normes aprovades d’acord amb aquesta Llei.
+3. Són infraccions greus:
+a) Desconèixer, per part del cap d’obra de l’empresa constructora, l’estudi d’impacte ambiental, els plans de restauració i vigilància i la declaració d’impacte ambiental.b) Començar les obres de projectes no sotmesos a avaluació d’impacte ambiental sense haver lliurat els plans de restauració i vigilància ambiental amb la sol·licitud d’autorització del projecte.c) Fer l’avaluació d’impacte ambiental d’una fase o d’una part d’un projecte sense tenir en compte la totalitat del projecte.d) Començar les obres d’un projecte sotmès a avaluació d’impacte ambiental sense haver fet una reunió de replanteig en què assisteixi el responsable de la vigilància ambiental de la direcció facultativa o sense avisar prèviament l’òrgan ambiental.e) Incomplir les mesures ambientals descrites en l’estudi d’impacte ambiental i els plans de restauració i vigilància.f) Incomplir els condicionants establerts en la declaració d’impacte ambiental.g) Incomplir els requeriments de l’òrgan ambiental.h) Executar les obres d’un projecte sotmès a avaluació d’impacte ambiental sense disposar de responsable de la vigilància ambiental de la direcció facultativa.i) Ocultar, falsejar o manipular maliciosament les dades en el llibre d’ordres o en els informes de seguiment ambiental de l’obra sobre les operacions de vigilància ambiental que s’han fet, les incidències que han sorgit durant les obres i les mesures correctores addicionals que s’han pres.j) Negar-se a subministrar a l’òrgan ambiental dades del llibre d’ordres, els informes de seguiment ambiental de l’obra sobre les operacions de vigilància ambiental que s’han fet, les incidències que han sorgit durant les obres i les mesures correctores addicionals que s’han pres.k) Reincidir en la comissió d’una infracció lleu.
+4. Són infraccions molt greus:
+a) Començar les obres d’un projecte sotmès a avaluació d’impacte ambiental sense haver seguit el procediment d’avaluació d’impacte ambiental previst en aquesta Llei.b) Incomplir les mesures ambientals de l’estudi d’impacte ambiental i els plans de restauració i vigilància quan això suposi un dany greu per al medi ambient.c) Incomplir els condicionants establerts en la declaració d’impacte ambiental quan això suposi un dany greu al medi ambient.d) Aprovar un pla o programa sense haver fet l’estudi ambiental estratègic preceptiu.e) Reincidir en la comissió d’una infracció greu.
 
 **Article 19. Sancions**
 
@@ -116,7 +171,9 @@ a) En el cas d’infraccions lleus: multa des de 100 fins a 1.000 euros.b) En el
 
 **Article 21. Graduació de les sancions**
 
-$2e
+1. En la graduació de les sancions es tenen en compte els criteris següents:
+a) El grau del dany causat al medi.b) El caràcter irreversible del dany o la impossibilitat de ser reparat.c) Les circumstàncies de la persona responsable de la infracció, la seva intencionalitat, l’ànim de lucre, el grau de malícia i de participació, i el benefici obtingut o que s’hauria pogut obtenir.d) La reincidència. Als efectes d’aquesta Llei s’entén per reincidència la comissió d’una infracció de la mateixa naturalesa, declarada per resolució ferma, en el termini d’un any. En cas de concórrer aquesta circumstància, l’import de la multa es pot incrementar un 50%, sense excedir en cap cas el límit més alt fixat per a les infraccions molt greus.e) La repercussió en la salut i la seguretat de les persones i els béns.
+2. Són factors atenuants la rapidesa i l’eficàcia amb què la persona infractora hagi adoptat, per voluntat pròpia, mesures per evitar o disminuir els danys i els perjudicis derivats de la infracció, així com el compliment immediat i eficaç de les mesures cautelars que l’instructor del procediment hagi acordat amb la persona infractora.
 
 **Article 22. Prescripció de les infraccions**
 
@@ -138,11 +195,18 @@ Correspon al ministeri competent en matèria de medi ambient, d’acord amb les 
 
 **Article 26. Mesures cautelars**
 
-$30
+1. L’òrgan que incoa un procediment sancionador pot adoptar mesures cautelars per evitar que continuï la infracció o l’agreujament del dany causat. Aquestes mesures han de ser coherents amb la naturalesa de la presumpta infracció i proporcionades a la seva gravetat, i poden incloure, entre d’altres, l’aturada cautelar de les obres dels projectes objecte de la Llei.
+2. L’òrgan ambiental, amb independència que no s’hagi incoat un expedient sancionador, pot adoptar mesures cautelars en casos d’urgència per danys al medi i en altres casos en què l’abast dels interessos públics afectats ho requereixi.
+3. L’òrgan ambiental ha de sol·licitar a l’òrgan substantiu, en l’àmbit de les seves competències en matèria urbanística, l’aturada cautelar de les obres d’un projecte en els casos següents:
+a) L’inici de les obres d’un projecte sotmès a avaluació d’impacte ambiental que no hagi seguit completament aquest procediment o no hagi tingut en compte totes les previsions de la Llei.b) L’incompliment o la transgressió de les condicions imposades en la declaració d’impacte ambiental per a l’execució del projecte.
+4. Si l’òrgan substantiu no ha adoptat les mesures cautelars sol·licitades per l’òrgan ambiental dins el termini de 48 hores després de tenir coneixement dels fets, l’òrgan ambiental pot aturar cautelarment les obres en els casos previstos en l’apartat anterior.
+5. El projecte queda aturat cautelarment fins que no s’hagi completat el tràmit d’avaluació d’impacte ambiental o fins que no se n’hagi adaptat l’execució a les condicions previstes en la declaració d’impacte ambiental.
 
 **Article 27. Reparació dels danys causats al medi i restauració del medi a l’estat original**
 
-$32
+1. L’òrgan ambiental pot exigir al promotor o titular del projecte la reparació dels danys causats al medi i la seva reposició a l’estat original, a càrrec del promotor o titular del projecte, en els casos següents:
+a) Projectes aturats cautelarment que no hagin fet les gestions necessàries per regularitzar la seva situació i completar el tràmit d’avaluació d’impacte ambiental. En aquests casos la reparació del dany i la restauració del medi al seu estat original pot incloure la demolició de les obres que s’hagin executat fins al moment de l’aturada cautelar.b) Projectes que hagin causat un dany al medi sense que s’hagin aplicat mesures correctores adequades per restaurar-lo.
+2. Les administracions públiques, d’acord amb les seves competències, poden reparar el dany causat i restituir, a càrrec seu, el medi a l’estat previ a les obres, sens perjudici d’aplicar al promotor o titular del projecte el principi de repercussió econòmica de totes les despeses esmerçades en el procés de reparació i restabliment de l’entorn.
 
 **Article 28. Persones responsables**
 

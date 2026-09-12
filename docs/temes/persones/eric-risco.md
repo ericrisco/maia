@@ -1,0 +1,126 @@
+---
+type: article
+title: Èric Risco de la Torre
+description: "Judoka internacional de +100 kg per Andorra i jugador de rugbi de la selecció. Una victòria en vint-i-quatre combats internacionals: la carrera esportiva d'un microestat, documentada."
+tema: temes/persones
+veu: compilada
+epoca: contemporania
+apte_llengua: false
+font: wikipedia-esport-andorra
+timestamp: 2026-09-13T23:45:00Z
+tags: [persones, esports, judo, rugbi, petits-estats, desacord-registrat, font-secundaria]
+---
+
+# Èric Risco de la Torre
+
+## Primer, el que NO és, perquè la precisió importa
+
+**No és olímpic.** El corpus ho comprova i ho diu abans de res, perquè és
+exactament el tipus d'afirmació que es propaga sola.
+
+**El judoka andorrà que va competir als Jocs Olímpics de Londres 2012 —i també a
+Pequín 2008— és [Daniel García González](../esports/competicio/andorra-als-jocs-olimpics.md)**,
+que va ser **novè en −66 kg a Londres**, el millor resultat andorrà de la
+història en judo.
+
+**Èric Risco no apareix a cap llista d'esportistes olímpics andorrans.** Una
+referència de cerca l'associa a **una beca del Comitè Olímpic Internacional de
+cara a Londres 2012**; **una beca olímpica és una ajuda a la preparació, no una
+plaça als Jocs**, i **el corpus no ha pogut verificar-la en cap font primària**.
+**Queda registrada com a no confirmada.**
+
+## El que sí que consta
+
+**És un judoka internacional fitxat per la Federació Internacional de Judo.**
+
+| Dada | Valor |
+| --- | --- |
+| **Nom** | **Eric Risco de la Torre** |
+| **Neix** | **22 de setembre de 1988** |
+| **Categoria** | **+100 kg** (pesos pesants) |
+| **Fitxa IJF** | [judoka 2484](https://www.ijf.org/judoka/2484) — **per Andorra** |
+
+**I és jugador de rugbi.** Segons **RTVA**, «té una llarga trajectòria a l'esport
+del país **com a judoka i jugador de rugbi**», ha jugat de **pilar** al club del
+país i a la **selecció andorrana**, i ha estat nomenat **president del VPC
+Andorra**, al capdavant d'una junta de disset persones.
+
+## El registre de combats, tal com és
+
+| Període | Combats | Victòries | Derrotes |
+| --- | --- | --- | --- |
+| **2010** | 3 | 0 | 3 |
+| **2011** | 12 | **1** | 11 |
+| **2012** | 6 | 0 | 6 |
+| **2013** | 1 | 0 | 1 |
+| **2025** | 2 | 0 | 2 |
+| **Total** | **24** | **1** | **23** |
+
+**L'única victòria:** **23 de juliol del 2011, Copa d'Europa de Hamburg**, contra
+**Konstantinos Lerounis**, de Grècia, en setzens de final.
+
+**On ha competit:** **Campionat del Món de París (2011)**, **Grand Slam de París
+i de Tòquio**, **Campionats d'Europa**, **Jocs Mediterranis**, i diverses Copes
+del Món i d'Europa.
+
+## Per què el corpus escriu això, i com
+
+**Perquè és la carrera esportiva que un microestat produeix, documentada amb
+noms i dates.**
+
+Un país de vuitanta mil habitants **no té una pedrera de pesos pesants de judo**.
+El que té és **una persona que hi arriba i que, un cop hi és, competeix contra
+els millors del món al Mundial de París i als Jocs Mediterranis**. **Una
+victòria en vint-i-quatre.**
+
+**El corpus ja tenia aquest mecanisme documentat des de dins de la institució.**
+El Comitè Olímpic Andorrà porta als Jocs dels Petits Estats **els esportistes
+«que havien proposat les federacions, que no havien assolit la marca però que hi
+estaven a prop»**
+([els Jocs dels Petits Estats](../esports/competicio/els-jocs-dels-petits-estats.md)).
+
+> **Hi ha països on el rànquing decideix qui va. Hi ha països on, si no hi va
+> aquest, no hi va ningú.**
+
+**Aquesta fitxa existeix per posar un nom i unes dates a aquesta frase**, i **no
+com a judici sobre ningú**: un resultat esportiu és un fet públic, i el corpus
+els reté tots igual —**els podis de [Verdú](./joan-verdu.md), l'or europeu de
+[Dòria](./monica-doria.md) i el 1-23 de Risco**— **perquè tots tres descriuen el
+mateix país**.
+
+## Un desacord de federació, registrat
+
+**Les dues bases de dades de judo no el posen al mateix país:**
+
+| Base de dades | País |
+| --- | --- |
+| **IJF** (Federació Internacional de Judo) | **Andorra** |
+| **JudoInside** | **Espanya** |
+
+**El corpus no ho resol.** És **habitual** en esportistes que canvien de
+federació o que tenen doble vincle, i **el corpus ja té documentat que les
+biografies andorranes creuen la frontera constantment** —
+[Mònica Dòria](./monica-doria.md) **neix a la Seu d'Urgell i competeix per
+Andorra**. **Buit registrat: sota quina federació ha competit, i quan.**
+
+## Buits registrats
+
+1. **Verificar la beca olímpica del COI** de cara a Londres 2012. **No
+   confirmada.**
+2. **Sota quina federació ha competit** i en quines dates. **Desacord IJF /
+   JudoInside obert.**
+3. **La seva trajectòria de rugbi**: anys a la selecció andorrana, partits,
+   posició confirmada.
+4. **El VPC Andorra**: què és, des de quan, quin paper té al rugbi andorrà. **El
+   corpus no té ni una línia de rugbi**, i és un dels esports d'equip del país.
+5. **La Federació Andorrana de Judo** i **la de Rugbi**.
+6. **Els Jocs Mediterranis**: hi participa Andorra regularment? **El corpus no
+   ho sabia i aquesta fitxa ho revela de retruc.**
+
+## Related
+
+- [Andorra als Jocs Olímpics](../esports/competicio/andorra-als-jocs-olimpics.md) — qui hi va anar de debò.
+- [Els Jocs dels Petits Estats](../esports/competicio/els-jocs-dels-petits-estats.md) — el criteri de selecció d'un país petit.
+- [Mònica Dòria](./monica-doria.md) · [Joan Verdú](./joan-verdu.md) · [Nahuel Carabaña](./nahuel-carabana.md)
+- [La piràmide de prestigi](../societat/immigracio/la-piramide-de-prestigi.md) — l'altre lloc on l'esport diu alguna cosa del país.
+- [Persones](./README.md)

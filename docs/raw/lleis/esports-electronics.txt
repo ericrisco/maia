@@ -21,15 +21,23 @@ a) Esports electrònics: Activitat tecnològica-competitiva que enfronta a dues 
 
 **Article 3. Àmbit d’aplicació de la Llei**
 
-$1e
+1. Dins l’objecte definit a l’article 1, en l’àmbit d’aplicació d’aquesta Llei s’hi inclouen les activitats següents:
+a) Les competicions o els esdeveniments d’esports electrònics que es desenvolupen de forma presencial dins del territori del Principat d’Andorra.b) Les competicions o els esdeveniments d’esports electrònics que tenen una naturalesa no presencial, que es desenvolupen per mitjans remots i que es dirigeixen de forma específica a residents en el territori del Principat d’Andorra. Als efectes d’aquesta disposició, s’entén que una competició o un esdeveniment d’esports electrònics de naturalesa no presencial es dirigeix de forma específica a residents en el territori del Principat d’Andorra quan la competició o l’esdeveniment ha estat dissenyat específicament i promocionat i comercialitzat activament, com a mínim, per al públic resident al territori d’Andorra, encara que també es pot dirigir a altres territoris.
+2. S’inclouen així mateix en l’àmbit d’aplicació d’aquesta Llei les entitats i els agents implicats en l’àmbit dels esports electrònics que s’estableixen en el títol II.
 
 **Article 4. Principis de la política d’esports electrònics**
 
-$20
+1. L’actuació de les entitats i dels agents implicats en l’àmbit dels esports electrònics es regeix pels principis de coordinació, transparència i cooperació lleial i efectiva.
+2. La política d’esports electrònics s’inspira en els principis següents:
+a) El foment d’un sector estratègic per a la diversificació econòmica i el desenvolupament social del Principat d’Andorra.b) L’elaboració i el desenvolupament de programes per al foment dels esports electrònics en el conjunt de la societat andorrana.c) La integració dels esports electrònics en el sistema educatiu i de lleure específicament dirigit a infants en els termes que s’estableixin en el pla estratègic previst en l’article 5.d) La difusió de la cultura de l’esforç i de valors com el respecte, la tolerància, el compromís, el treball en equip i la solidaritat, entre altres.e) La promoció de la concòrdia, el joc net, la convivència i la integració en la societat, amb una implicació activa de tots els agents vinculats als esports electrònics en l’erradicació de la violència, el racisme, la intolerància i la xenofòbia.f) La promoció i la planificació dels esports electrònics en col·laboració amb els agents rellevants en la matèria tant a escala nacional com internacional, assegurant una pràctica dels esports electrònics basada en els estàndards elevats de protecció i ètica habituals en el sector.g) La formació adequada i competent del personal tècnic professional necessari per aconseguir augmentar la qualitat tècnica dels esports electrònics amb una actualització i un perfeccionament constants en els seus coneixements en tots els nivells, vessants i especialitats.h) L’adopció de les mesures necessàries per lluitar contra la utilització de mètodes i fàrmacs prohibits, drogues i estimulants en els esports electrònics.i) L’adopció de les mesures necessàries per prevenir i erradicar l’explotació abusiva amb finalitats comercials o econòmiques, així com les pràctiques atemptatòries contra la persona i la seva dignitat, en les activitats relatives als esports electrònics.j) La defensa del dret a la igualtat de tracte i a la no-discriminació en el sector dels esports electrònics.k) La planificació i la programació, en el marc del pla estratègic previst a l’article 5, d’un sistema de mesures de promoció i d’una xarxa d’infraestructures suficient, distribuïda racionalment i gestionada eficaçment, procurant una utilització òptima de totes les instal·lacions, els equips i els materials afectes a la pràctica d’esports electrònics, i també el control tècnic i sanitari adequat de les instal·lacions per garantir l’estat físic i la salut dels practicants, dels espectadors i d’altres persones implicades en l’organització de les activitats d’esports electrònics.l) El foment d’accions de col·laboració i coordinació amb entitats i federacions tant nacionals com internacionals vinculades als esports electrònics.
 
 **Article 5. Pla estratègic**
 
-$22
+1. El Govern, a proposta de la Comissió Andorrana d’Esports Electrònics, elabora un pla estratègic que inclou mesures i accions per al foment dels esports electrònics, tant en l’àmbit professional com no professional, al territori del Principat d’Andorra.
+2. Entre altres qüestions, aquest pla estratègic inclou els elements següents:
+a) Foment de la inversió nacional i estrangera al territori andorrà en l’àmbit dels esports electrònics.b) Mesures i programes de promoció pública dels esports electrònics en els àmbits professional i no professional.c) Mesures i programes de suport a actuacions de promoció privada dels esports electrònics en els àmbits professional i no professional.d) Programes de formació tècnica en esports electrònics.
+3. La gestió del pla estratègic sobre esports electrònics es fa de conformitat amb els principis de publicitat, transparència, concurrència, objectivitat, igualtat, no-discriminació, eficàcia i eficiència en l’assignació i la utilització de recursos públics.
+4. El Govern revisa de forma periòdica el pla estratègic sobre esports electrònics a fi d’assegurar en tot moment que s’adequa als principis previstos en aquesta Llei.
 
 ### Títol II. Entitats i agents implicats en l’àmbit dels esports electrònics
 
@@ -39,11 +47,18 @@ $22
 
 **Article 6. Marc institucional**
 
-$24
+1. Es crea la Comissió Andorrana d’Esports Electrònics, que és un organisme administratiu adscrit i pressupostàriament vinculat al ministeri encarregat de l’economia i se situa sota el control del Govern.
+2. La Comissió Andorrana d’Esports Electrònics es compon dels membres següents:
+a) Un representant del ministeri encarregat de l’economia.b) Un representant del ministeri encarregat de l’esport.c) Un representant del ministeri encarregat de l’interior.d) Un representant del Gabinet Jurídic del Govern.
+3. La Comissió Andorrana d’Esports Electrònics està presidida pel representant del ministeri encarregat de l’economia.
+4. L’organització, el funcionament, la convocatòria, el quòrum i la presa de decisions de la Comissió Andorrana d’Esports Electrònics s’estableixen reglamentàriament.
+5. La Comissió Andorrana d’Esports Electrònics presenta cada any al Govern una memòria per donar a conèixer i explicar l’execució de les seves funcions, objectius i activitats. Aquesta memòria és pública.
+6. A les reunions de la Comissió poden assistir amb veu però sense vot i a proposta de qualsevol dels seus membres, representants de les empreses i entitats del sector privat de l’àmbit dels esports electrònics i dels videojocs, sempre que no es tracti de reunions convocades i celebrades en exercici de la potestat disciplinària prevista en aquesta Llei.
 
 **Article 7. Funcions**
 
-$26
+La Comissió Andorrana d’Esports Electrònics exerceix les funcions següents:
+a) Vetllar pel compliment d’aquesta Llei i els seus principis.b) Proposar l’elaboració o la modificació de normativa andorrana en matèria d’esports electrònics d’acord amb el marc establert per aquesta Llei.c) Gestionar i administrar els programes i les accions que es prevegin en el pla estratègic o en altres iniciatives establertes pel Govern per promoure els esports electrònics.d) Proposar al Govern els programes i les accions que consideri pertinents per al desenvolupament dels esports electrònics de conformitat amb els principis establerts en aquesta Llei.e) Intervenir en els corresponents procediments administratius d’acord amb el que preveu aquesta Llei.f) Vetllar per la seguretat i salut de les persones que participen en activitats d’esports electrònics o hi estan vinculades, cooperar amb l’Agència Andorrana Antidopatge i els organismes internacionals en matèria de lluita contra el dopatge, i exercir una funció de prevenció i lluita contra el dopatge en l’àmbit dels esports electrònics.g) Vigilar, controlar, inspeccionar i, si escau, sancionar les activitats relacionades amb esports electrònics d’acord amb aquesta Llei i sens perjudici de les competències que altres autoritats puguin tenir respecte d’aquestes activitats.h) Establir fórmules que facilitin la col·laboració estable amb empreses i entitats del sector privat en l’àmbit dels esports electrònics i del sector dels videojocs.i) Proposar i col·laborar amb organismes privats, la celebració d’activitats i esdeveniments que contribueixin a la promoció dels esports electrònics al Principat d’Andorra.j) En general, a més de les funcions que s’estableixen en aquesta Llei, totes les que se li puguin atribuir legalment o per la via reglamentària.
 
 ##### Secció segona. Clubs professionals d’esports electrònics
 
@@ -54,17 +69,23 @@ a) Societat anònima o de responsabilitat limitada.b) Associació privada sense 
 
 **Article 9. Obligacions dels clubs professionals**
 
-$28
+Els clubs professionals han de complir les obligacions següents:
+a) Estar vàlidament constituïts i inscrits en els registres competents com a societats anònimes o de responsabilitat limitada o associacions privades sense ànim de lucre, i mantenir en tot moment aquesta condició.b) Contractar jugadors, tècnics i personal en general en compliment de la normativa que sigui aplicable.c) Promoure comportaments responsables de joc i vigilar que els jugadors, els tècnics i el personal en general que hagin contractat els respectin.d) Col·laborar amb la Comissió Andorrana d’Esports Electrònics i remetre-li qualsevol informació que la Comissió els sol·liciti en el marc dels procediments administratius a què fa referència aquesta Llei.e) Vetllar per la seguretat i la salut dels jugadors, els tècnics i el personal en general i cooperar amb la Comissió Andorrana d’Esports Electrònics i l’Agència Andorrana Antidopatge en matèria de lluita contra el dopatge, i exercir una funció de prevenció i lluita contra el dopatge en l’entorn de les seves activitats.f) En general, complir el que estableix aquesta Llei i qualsevol altra normativa que els sigui aplicable.
 
 ##### Secció tercera. Clubs no professionals d’esports electrònics
 
 **Article 10. Forma jurídica obligatòria**
 
-$2a
+1. Els clubs no professionals han de tenir obligatòriament una de les formes jurídiques següents:
+a) Societat anònima o de responsabilitat limitada.b) Associació o fundació privada sense ànim de lucre.
+2. Els clubs no professionals també poden configurar-se com una secció d’acció d’esports electrònics d’una societat anònima o de responsabilitat limitada, d’una associació o fundació privada sense ànim de lucre o de qualsevol altra entitat pública o privada, sempre que les dites entitats públiques o privades duguin a terme activitats d’esports electrònics sense ànim de lucre de caràcter accessori a la seva finalitat principal.
+Per constituir una secció d’acció d’esports electrònics, els representants legals de les entitats de les quals depenguin s’han de dotar d’uns estatuts en què s’expressin les regles d’organització i funcionament, han de dur a terme la resta de formalitats establertes en la normativa en matèria d’associacions vigent en cada moment i s’han d’inscriure al Registre d’Associacions.
+La responsabilitat de les seccions d’acció d’esports electrònics recau en l’entitat fundadora.
 
 **Article 11. Obligacions dels clubs no professionals**
 
-$2c
+Els clubs no professionals han de complir les obligacions següents:
+a) Estar vàlidament constituïts i inscrits en els registres competents com a societats anònimes o de responsabilitat limitada, associacions o fundacions privades sense ànim de lucre, i mantenir en tot moment aquesta condició.b) Dur a terme activitats de formació i promoció de comportaments responsables de joc i vigilar que els seus jugadors els respectin.c) Col·laborar en tot moment amb la Comissió Andorrana d’Esports Electrònics i remetre-li qualsevol informació que la Comissió els sol·liciti en el marc dels corresponents procediments administratius a què fa referència aquesta Llei.d) Vetllar per la seguretat i la salut dels jugadors, tècnics i personal en general i cooperar amb la Comissió Andorrana d’Esports Electrònics i l’Agència Andorrana Antidopatge en matèria de lluita contra el dopatge, i exercir una funció de prevenció i lluita contra el dopatge en l’entorn de les seves activitats.e) En general, complir el que estableix aquesta Llei i qualsevol altra normativa que els sigui aplicable.
 
 ##### Secció quarta. Organitzadors de competicions i esdeveniments d’esports electrònics
 
@@ -74,7 +95,8 @@ Les competicions o els esdeveniments que duen a terme els organitzadors se sotme
 
 **Article 13. Requisits per organitzar una competició o un esdeveniment d’esports electrònics**
 
-$2e
+L’organització d’una competició o un esdeveniment d’esports electrònics subjecte a aquesta Llei està condicionada al compliment dels requisits següents:
+a) Els videojocs sobre els quals es basi la competició o l’esdeveniment no poden ser contraris a la normativa aplicable ni, en particular, poden vulnerar, directament o indirectament, la dignitat de les persones ni els drets i llibertats fonamentals; tampoc no poden incórrer en qualsevol forma de discriminació, d’incitació a la violència o de realització d’activitats delictives o il·legals en general.b) L’organitzador ha d’obtenir les autoritzacions necessàries dels titulars dels drets d’explotació que recaiguin en els videojocs sobre els quals es basi la competició o l’esdeveniment, així com les altres eventuals autoritzacions necessàries d’acord amb la normativa aplicable.c) L’organitzador ha de comptar amb les instal·lacions, les infraestructures i el suport financer i material necessaris per assegurar tant el desenvolupament de la competició o l’esdeveniment en qüestió com per atorgar els premis als jugadors que en resultin vencedors.d) L’organitzador ha d’haver notificat prèviament a la Comissió Andorrana d’Esports Electrònics l’organització de la competició o l’esdeveniment en els termes que es determinin reglamentàriament.e) En cas que els videojocs sobre els quals es basi la competició o l’esdeveniment hagin estat qualificats com a no adequats per a menors d’una determinada edat, l’organitzador ha d’adoptar les mesures necessàries per informar el públic potencial d’aquesta característica, fins i tot avisant de la possibilitat que les imatges de la competició poden ferir la sensibilitat dels espectadors. Per tal de donar visibilitat a la possible no adequació del videojoc per a menors d’una determinada edat, cal que l’organitzador posi a disposició del públic la classificació del videojoc d’acord amb la classificació establerta per laPan European Game Information(PEGI).
 
 #### Capítol segon. Jugadors i tècnics d’esports electrònics
 
@@ -88,7 +110,13 @@ a) Estar inscrits com a jugadors o tècnics professionals en el registre corresp
 
 **Article 15. Drets i règim aplicable**
 
-$30
+Els jugadors i els tècnics professionals són titulars dels drets següents:
+1. Són els únics legalment autoritzats a beneficiar-se dels programes i les accions que es prevegin en el pla estratègic o en altres iniciatives establertes pel Govern específicament per a jugadors o tècnics professionals d’esports electrònics.
+2. Als efectes d’aquesta Llei, s’entén que el jugador o tècnic professional manté una relació de caràcter laboral amb un club professional quan està subjecte a una relació amb un club professional, per compte i dins de l’àmbit d’organització i direcció d’aquesta entitat, a canvi d’una retribució.
+El jugador o tècnic professional també pot mantenir una relació de caràcter mercantil amb el club professional o desenvolupar la seva activitat per compte propi.
+3. En els supòsits de relació laboral establerta entre el jugador o tècnic professional i un club professional per compte del qual practica els esports electrònics o hi participa, la relació laboral es regeix per allò expressament pactat entre les parts, que ha de garantir, en tot moment, els drets que s’estableixin per la normativa especial relativa a aquestes relacions laborals vigent en cada moment i per la legislació en matèria laboral vigent en cada moment, la qual s’hi aplica amb caràcter subsidiari o supletori.
+4. Als jugadors i tècnics professionals menors d’edat els resulta aplicable, amb les particularitats establertes en aquesta Llei, el que disposa la Llei 14/2019, del 15 de febrer, qualificada dels drets dels infants i els adolescents.
+Perquè els menors d’edat puguin participar en competicions i esdeveniments d’esports electrònics, és imprescindible l’autorització prèvia dels seus pares o tutors legals, en els termes que estableixi reglamentàriament el Govern.
 
 **Article 16. Obligacions**
 
@@ -140,7 +168,11 @@ Es crea el Comitè Andorrà de Promoció dels Esports Electrònics, que actua co
 
 **Article 25. Composició i reunió**
 
-$32
+1. El Comitè Andorrà de Promoció dels Esports Electrònics es compon com a mínim d’un representant de cada una de les entitats, les categories de persones i els sectors del Principat d’Andorra següents:
+a) Clubs professionals d’esports electrònics.b) Clubs no professionals d’esports electrònics.c) Jugadors professionals d’esports electrònics.d) Jugadors no professionals d’esports electrònics.e) Tècnics professionals d’esports electrònics.f) Tècnics no professionals d’esports electrònics.g) Empreses andorranes l’activitat de les quals estigui vinculada als esports electrònics.h) Federacions esportives.i) Societats anònimes amb objecte esportiu.j) Comissió Andorrana d’Esports Electrònics.
+2. Poden incorporar-se al Comitè Andorrà de Promoció dels Esports Electrònics persones expertes en esports electrònics i videojocs, en el nombre i en la forma que determini el Comitè.
+3. El Comitè Andorrà de Promoció dels Esports Electrònics es reuneix almenys un cop cada any.
+4. El Comitè Andorrà de Promoció dels Esports Electrònics s’organitza internament d’acord amb les normes de funcionament que estableixi el mateix Comitè.
 
 **Article 26. Funció**
 
@@ -170,7 +202,10 @@ a) Les mesures necessàries per protegir la seguretat i la salut dels jugadors d
 
 **Article 30. Funcions de la Comissió Andorrana d’Esports Electrònics**
 
-$34
+1. Correspon a la Comissió Andorrana d’Esports Electrònics l’impuls i la realització d’una política pública activa per a la prevenció i repressió del dopatge en l’àmbit dels esports electrònics.
+2. A aquest efecte, la Comissió Andorrana d’Esports Electrònics presta el suport necessari a l’Agència Andorrana Antidopatge amb l’objectiu de prevenir i evitar l’ús intencional o no intencional de substàncies i mètodes prohibits o la comissió de qualsevol altra infracció de les regles antidopatge en l’àmbit dels esports electrònics.
+3. Els jugadors d’esports electrònics estan sotmesos a les regles antidopatge de l’Agència Andorrana Antidopatge. A aquest efecte, correspon a la Comissió Andorrana d’Esports Electrònics garantir que tots els jugadors que participen en competicions o esdeveniments d’esports electrònics dirigits al territori del Principat d’Andorra estan informats i accepten les regles antidopatge de l’Agència Andorrana Antidopatge.
+4. La Comissió Andorrana d’Esports Electrònics comunica qualsevol informació relativa a una infracció de les regles antidopatge a l’Agència Andorrana Antidopatge, i coopera en les investigacions que duguin a terme les organitzacions antidopatge competents.
 
 **Article 31. Cooperació i intercanvi d’informació en la lluita contra el dopatge**
 
@@ -222,7 +257,13 @@ Correspon a l’Agència Andorrana Antidopatge dur a terme els controls i les in
 
 **Article 40. Infraccions**
 
-$36
+1. Les infraccions poden ser molt greus, greus i lleus.
+2. Són infraccions molt greus:
+a) Les modificacions fraudulentes del resultat de les competicions o dels esdeveniments d’esports electrònics, incloses les conductes prèvies a celebrar-los que intentin influir en el resultat mitjançant acord, intimidació, preu o qualsevol altre mitjà fraudulent.b) La manipulació o l’alteració del material o equipament per a la pràctica dels esports electrònics, quan pugui alterar el resultat de les proves o posi en perill la integritat de les persones.c) L’obtenció de beneficis derivats de programes o accions previstos al pla estratègic o en altres iniciatives del Govern mitjançant l’aportació de documents, dades o informacions falsos o incerts.d) L’impagament injustificat dels premis oferts en el marc d’una competició o esdeveniment.e) Les declaracions públiques de representants de clubs, jugadors, àrbitres, jutges o altres tècnics que incitin a la violència, el racisme, la xenofòbia o la intolerància en la pràctica dels esports electrònics.f) La inexecució de les resolucions de la Comissió Andorrana d’Esports Electrònics.
+3. Són infraccions greus:
+a) La infracció del deure de notificació prèvia de celebració d’una competició o d’un esdeveniment en els termes que s’estableixin reglamentàriament.b) L’obstrucció, resistència o excusa a la funció d’inspecció i control de la Comissió Andorrana d’Esports Electrònics, així com l’ocultació o destrucció de dades, informació o documents que siguin rellevants.c) La infracció, en perjudici del seu titular, dels drets d’explotació d’un videojoc en el marc de l’organització d’una competició o d’un esdeveniment d’esports electrònics.d) La contractació irregular d’un jugador o tècnic professional.e) Permetre a un jugador de qui no s’hagi fet menció en la notificació prèvia a la Comissió Andorrana d’Esports Electrònics participar en una competició o un esdeveniment.f) Els comportaments, les actituds i els gestos agressius o antiesportius en adreçar-se als àrbitres o jutges, als jugadors, al públic o a les autoritats.
+4. Són infraccions lleus:
+a) Les observacions formulades, de manera incorrecta, a àrbitres, jutges, tècnics i directius i a totes les altres autoritats vinculades a la pràctica dels esports electrònics en l’exercici de llurs funcions.b) Les conductes clarament contràries a les normes aplicables a la pràctica dels esports electrònics que no es tipifiquen com a molt greus o greus en aquesta Llei o en els reglaments que la desenvolupin.c) No adoptar les mesures necessàries per informar el públic potencial de l’edat adequada dels videojocs sobre els quals es basa la competició o esdeveniment d’esports electrònics.d) Permetre la participació de persones menors d’edat en competicions i esdeveniments d’esports electrònics sense l’autorització prèvia dels seus pares o tutors legals, en els termes que estableixi reglamentàriament el Govern.
 
 **Article 41. Circumstàncies modificadores de la responsabilitat**
 
@@ -233,7 +274,13 @@ a) La provocació suficient, immediatament anterior a la comissió de la infracc
 
 **Article 42. Sancions**
 
-$38
+1. Les sancions susceptibles d’aplicació són les següents:
+a) Inhabilitació, suspensió o privació, amb caràcter temporal o definitiu, proporcionalment adequada a la infracció o les infraccions comeses.b) Sanció econòmica. Aquesta sanció només es pot imposar a les persones infractores que perceben una retribució econòmica per la seva tasca.c) Prohibició d’accés al recinte on se celebra una competició d’esports electrònics.d) Advertència privada o amonestació de caràcter públic.e) Destitució del càrrec.f) Descens de categoria, pèrdua de punts en la classificació i pèrdua de la partida, la competició o l’esdeveniment d’esports electrònics.
+2. Es pot establir, a petició de la part interessada, la suspensió provisional de l’execució d’una sanció fins que es produeixi la resolució definitiva de l’expedient disciplinari.
+3. Amb independència de les sancions que puguin correspondre, els òrgans disciplinaris tenen la facultat d’alterar el resultat de les competicions o dels esdeveniments d’esports electrònics en tots els casos en què la infracció suposi una alteració greu de l’ordre del joc, la partida, la competició o l’esdeveniment.
+4. Les sancions econòmiques s’apliquen tenint en compte els imports següents:
+a) Per infraccions lleus: sanció d’un import màxim de 10.000 euros.b) Per infraccions greus: sanció d’un import d’entre 10.001 i 60.000 euros.c) Per infraccions molt greus: sanció d’un import d’entre 60.001 i 120.000 euros.
+5. Les quanties de les sancions poden ser actualitzades per la Llei del Pressupost General.
 
 **Article 43. Procediment sancionador**
 
@@ -242,4 +289,8 @@ $38
 
 **Article 44. Extinció de la responsabilitat i prescripció de les infraccions i les sancions**
 
-$3a
+1. La responsabilitat disciplinària s’extingeix:
+a) Pel compliment de la sanció.b) Per prescripció de les infraccions o de les sancions.c) Per mort o extinció de la persona inculpada o sancionada.d) Per l’aixecament de la sanció.
+2. Les infraccions lleus prescriuen al cap d’un mes; les infraccions greus, al cap d’un any, i les infraccions molt greus, al cap de tres anys d’haver estat comeses. En cas de ser infraccions continuades en el temps, els terminis indicats es compten a partir del dia en què cessa l’acció o l’omissió de què es tracti.
+3. Les sancions prescriuen al cap de sis mesos, si han estat imposades per una infracció lleu; al cap d’un any, si ho han estat per una infracció greu, i al cap de tres anys, si corresponen a una infracció molt greu, sempre que hagi esdevingut ferma la resolució per la qual s’hagin imposat.
+4. El termini de prescripció de la sanció comença a comptar l’endemà del dia que adquireix fermesa la resolució sancionadora o el dia que se n’ha violat el compliment, si la sanció havia començat a complir-se.

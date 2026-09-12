@@ -28,15 +28,39 @@ No obstant això, quan es tracti de la defensa de l’interès general o dels dr
 
 **Article 4. Requisits i incompatibilitats**
 
-$1e
+1. Qualsevol ciutadà de nacionalitat andorrana, major d’edat, que no tingui antecedents penals d’infraccions doloses i que es trobi en ple ús dels seus drets civils i polítics, pot ser Raonador del Ciutadà.
+2. Els criteris essencials als que ha de respondre la selecció del Raonador del Ciutadà són la integritat, la formació acadèmica superior, els coneixements professionals i l’experiència apropiats, incloent l’àmbit dels drets humans i les llibertats fonamentals.
+3. L’exercici del càrrec de Raonador del Ciutadà és incompatible amb l’exercici de qualsevol càrrec directiu o executiu en partits polítics, sindicats, associacions, patronals i col·legis professionals, siguin nacionals o estrangers, amb l’exercici de les carreres judicial o fiscal i amb qualsevol forma d’assessorament jurídic diferent del que comporten les seves funcions; amb l’exercici de qualsevol professió titulada o per compte propi, mercantil o laboral.
+4. El Raonador del Ciutadà s’ha d’abstenir d’intervenir en aquells casos en què concorri qualsevol de les causes d’abstenció o recusació previstes en el Codi de l’Administració i en la Llei qualificada de la justícia. Per aquest sol supòsit serà substituït per la persona que designi la Junta de Presidents dels Grups Parlamentaris del Consell General.
+5. Durant l’exercici de les seves funcions, el Raonador del Ciutadà no pot concórrer com a candidat ni efectuar actes de propaganda política a cap elecció, ni general ni comunal.
+6. Si s’incorre en causa d’incompatibilitat i no presenta renúncia, la vacant és declarada en la forma prevista en l’apartat 4 de l’article 6.
+7. Quan existeix una causa d’incompatibilitat en la persona que hagi estat elegida Raonador del Ciutadà, abans de prestar jurament o promesa d’acatament davant el Síndic General, ha de cessar en el càrrec o l’activitat objecte d’aquella incompatibilitat o bé haver obtingut l’excedència corresponent.
+Si transcorreguts quinze dies d’ençà de l’elecció no ha donat compliment a l’establert en l’apartat anterior, s’entén que no accepta el nomenament.
 
 **Article 5. Nomenament**
 
-$20
+1. La selecció del Raonador del Ciutadà respon a una convocatòria pública i s’efectua en funció de criteris de selecció objectius i basats en el mèrit.
+Tres mesos abans de produir-se l’expiració del mandat, o un cop aquest hagi expirat si s’ha produït el cessament o el desistiment, el Consell General ordena la publicació al
+Butlletí del Consell General
+així com al
+Butlletí Oficial del Principat d’Andorra
+, d’un avís de convocatòria pública de candidats.
+La Comissió legislativa competent en la matèria, constituïda en comitè de validació, avalua les capacitats, competències, idoneïtat i mèrits de les persones candidates, amb audiència d’aquelles que compleixin els criteris essencials. Fins a quatre dies abans del Ple en què s’hagi de procedir a la votació, els grups parlamentaris proposen una llista de persones candidates al càrrec.
+2. La persona que exerceix el càrrec de Raonador del Ciutadà és nomenada pel Consell General amb el vot favorable de dues terceres parts dels seus membres, en primera votació. Si en una primera votació no s’assoleix aquesta majoria, queda elegit el candidat que, en una segona votació, obtingui el vot favorable de tres cinquenes parts.
+3. El nomenament del Raonador del Ciutadà es publica al
+Butlletí Oficial del Principat d’Andorra
+.
+4. Un cop nomenat el Raonador del Ciutadà, ha de prestar jurament o promesa d’acatament davant del síndic general, en la forma prevista pel Reglament del Consell General.
+5. Un cop elegit, el Raonador del Ciutadà ha d’actuar conforme al codi de conducta de la institució.
 
 **Article 6. Mandat i cessament**
 
-$22
+1. El mandat del Raonador del Ciutadà és per un període de set anys.
+2. El mandat no és renovable.
+3. El Raonador del Ciutadà ha de cessar en les seves funcions únicament en els casos següents:
+a) Per renúncia expressa, feta per escrit, davant del síndic general.b) Per defunció o incapacitat sobrevinguda. Si és a instància del Consell General, es requereix, per iniciar els tràmits de la incapacitació, la mateixa majoria que s’hagi establert per al seu nomenament.c) Per finalització del termini del seu mandat.d) Per condemna mitjançant sentència ferma per delicte dolós.e) Per incórrer en incompatibilitat, segons les previsions de la present Llei.f) Per conducta irregular greu i per incompliment dels deures i les obligacions inherents a les funcions pròpies del seu càrrec. S’entendrà com a conducta irregular greu els supòsits contemplats com a falta molt greu a la Llei de la funció pública que li son d’aplicació d’acord amb el seu estatut, definit a l’article 2 i a la resta de preceptes d’aquesta llei.
+4. En els cinc primers casos esmentats en l’apartat anterior, el síndic general declara el càrrec vacant, una vegada constata, mitjançant el document corresponent, la causa que l’ocasiona.
+5. La incompatibilitat, la negligència o el descuit en l’exercici del càrrec només poden ser declarats pel Ple del Consell General, en sessió pública, per majoria qualificada de dues terceres parts i prèvia audiència del Raonador del Ciutadà davant la Comissió legislativa competent en la matèria. Aquesta audiència pot ser pública o privada, a criteri del compareixent.
 
 **Article 7. Retribució**
 
@@ -50,7 +74,14 @@ La Sindicatura, escoltada la Junta de Presidents, aprova el règim retributiu de
 
 **Article 9. Autonomia organitzativa i pressupostària**
 
-$24
+1. Els mitjans materials i personals necessaris per a l’exercici de les funcions del Raonador del Ciutadà són facilitats pel Consell General, dins de les seves previsions econòmiques.
+En tot cas, en la seva potestat d’autoorganització, i respectant el límit de despesa de personal consignat en les assignacions anuals del pressupost, aprova la relació de llocs de treball i n’informa el Consell General.
+2. El Raonador del Ciutadà prepara un projecte de pressupost adequat a la necessitat d’assegurar l’execució plena, independent i eficaç de les seves responsabilitats i funcions. Aquest pressupost es presenta davant el Consell General per a la seva aprovació i en cap cas aquest pressupost aprovat i votat es pot veure reduït durant l’exercici en curs llevat que la reducció afecti de manera generalitzada a altres institucions de l’Estat.
+3.Correspon al Tribunal de comptes la fiscalització externa de la gestió econòmica, financera i comptable. La intervenció del Consell General, d’acord amb les seves normes reguladores, fiscalitza tots els actes, documents i expedients amb incidència sobre les finances de la institució del Raonador del Ciutadà qui ha d’ajustar la seva comptabilitat al règim de comptabilitat pública preveient un règim intern de signatura mancomunada en la gestió de fons.
+La fiscalització només té en compte la legalitat dels precedents financers i no l’elecció de les prioritats en l’execució del mandat.
+4. El Raonador del Ciutadà designa el personal col·laborador i el personal al servei de la institució que encapçala necessaris i suficients per desenvolupar el seu mandat de manera plena i totalment independent, i d’acord amb el pressupost aprovat pel Consell General. Aquest personal es regirà per la Llei de relacions laborals.
+5.Correspon al Raonador del Ciutadà establir les normes en matèria de personal, funcionament i règim intern de la institució que encapçala, d’acord amb les disposicions d’aquesta Llei.
+6. La institució del Raonador del Ciutadà queda subjecte a la llei de contractació pública vigent i té l’obligació de respectar els principis d’objectivitat, concurrència, transparència i publicitat, en tot procediment de contractació de personal.
 
 ### Títol II. De l’actuació del Raonador del Ciutadà
 
@@ -63,11 +94,24 @@ $24
 
 **Article 11. Deure de col·laboració i protecció**
 
-$26
+1. Totes les persones o les entitats públiques o privades estan obligades a col·laborar amb el Raonador del Ciutadà en l’exercici de les seves funcions, en especial en el relatiu a les queixes i reclamacions que davant d’ell s’hi formulin o en les actuacions que iniciï d’ofici.
+2. El compliment d’aquesta obligació de col·laboració s’ha de fer en els terminis més breus possibles i, en tot cas, dins els terminis assenyalats a l’article 15, apartats 4 i 5, d’aquesta Llei.
+3. El Raonador del Ciutadà pot tenir accés a qualsevol informació relativa a l’assumpte que sigui objecte de l’expedient que hagi iniciat. Tanmateix, el Raonador del Ciutadà pot exigir legalment, si escau, el dret a accedir sense restriccions a tots els documents, bases de dades i materials rellevants, inclosos els que d’una altra manera podrien ser legalment privilegiats o confidencials. Això inclou el dret a accedir sense restriccions als edificis, a les institucions i les persones, incloses aquelles privades de la seva llibertat, on sigui que es trobin, amb les quals pot mantenir contacte sense restriccions. Les persones detingudes o privades de la seva llibertat poden comunicar-se lliurement i sense supervisió amb el Raonador del Ciutadà i les seves comunicacions (converses telefòniques, correus electrònics o altres mitjans de comunicació) seran considerades privades.
+4. El Raonador del Ciutadà protegeix les seves fonts i molt especialment en el cas de persones que informin sobre infraccions normatives i lluita contra la corrupció particularment si es tracta d’irregularitats ocorregudes en el si de la seva empresa que poden proporcionar informació necessària al Raonador del Ciutadà per dur a terme les seves tasques de manera plena, independent i eficaç.
 
 **Article 12. Queixes i reclamacions**
 
-$28
+1. Les persones físiques o jurídiques poden instar l’actuació del Raonador del Ciutadà mitjançant queixes o reclamacions.
+Les queixes o les reclamacions poden ser efectuades per qualsevol persona física o jurídica que invoqui un interès legítim, sigui quina sigui la seva nacionalitat, edat, condició o residència.
+En el cas de menors de 12 anys d’edat, ho han de fer els seus representants legals sense necessitat de poder especial.
+2. Les queixes i les reclamacions dels particulars cursades al Raonador del Ciutadà han de ser examinades per aquest. El Raonador del Ciutadà solament pot rebutjar-les “a limine” si aprecia mala fe; falta de competència, interès legítim, o fonament.
+3. Les queixes i les reclamacions no poden ser anònimes. Han de contenir totes les dades d’identificació de la persona reclamant, els motius de la queixa o la reclamació, l’exposició dels fets i les persones que hi hagin intervingut i també s’han d’acompanyar amb la documentació acreditativa, si n’hi ha.
+4. Fora d’allò establert a l’apartat anterior, les queixes i les reclamacions no estan subjectes a cap requisit formal. Es poden fer personalment o per apoderat o representant amb poder suficient.
+5. El rebuig o la inadmissió ha de ser motivat i es comunica a la persona interessada.
+Si el rebuig és per incompetència, el Raonador del Ciutadà ha d’informar, si escau, de l’autoritat o el procediment que al seu entendre sigui el més adequat.
+El rebuig inicial de les queixes i les reclamacions no impedeix que el Raonador del Ciutadà, d’ofici, pugui informar en relació amb els problemes d’índole general que s’hi plantegin.
+6. Les queixes i les reclamacions relatives a les funcions del Raonador del Ciutadà, s’han de dirigir i presentar davant d’aquesta institució.
+7. El Raonador del Ciutadà, quan rebi la queixa o la reclamació, n’acusa recepció en tot cas i en el termini màxim de tretze dies hàbils, i ha de comunicar a la persona interessada el curs que hi hagi donat.
 
 **Article 13. Queixes relatives a l’administració de justícia**
 
@@ -82,7 +126,14 @@ $28
 
 **Article 15. Procediment de les queixes i reclamacions**
 
-$2a
+1. Un cop admesa a tràmit una queixa o reclamació, el Raonador del Ciutadà inicia l’enquesta pertinent sobre la realitat dels fets que s’hi al·leguen.
+2. Aquesta enquesta no ha de ser objecte de cap tràmit formalitzat.
+3. L’enquesta s’ha de portar a terme sense dilació i, com a regla general, no s’ha de perllongar més de tres mesos.
+4. Si la queixa o la reclamació concerneix una administració pública o qualsevol altra entitat o organisme públic, el Raonador del Ciutadà ha de fer-ne saber el contingut a l’administració, l’entitat o l’organisme esmentats, perquè el seu cap o responsable trameti un informe escrit al respecte en el termini màxim d’un mes. Si, a més, la queixa o la reclamació concerneix persones concretes, el Raonador del Ciutadà també ha de sol·licitar a aquestes persones que responguin, per escrit i en el mateix termini, sobre els fets o les circumstàncies que en són objecte, adjuntant-hi els documents o els testimonis que considerin oportuns.
+5. Si la queixa o la reclamació concerneix una persona o entitat privada, el Raonador del Ciutadà ha de fer saber a aquesta persona o al representant legal d’aquesta entitat el contingut de la queixa o la reclamació esmentades, perquè trameti un informe escrit al respecte en el termini màxim d’un mes.
+6. En cas que hagin transcorregut els terminis assenyalats als apartats 4 i 5 anteriors sense que les persones o entitats requerides hagin tramès l’informe escrit, el Raonador del Ciutadà s’hi ha d’adreçar novament per recordar-los la necessitat de fer-ho.
+7. Si, malgrat haver-s’hi adreçat per segona vegada, les persones o entitats requerides no trameten l’informe escrit, o si aquest informe és incomplet o insuficient, el Raonador del Ciutadà ho ha de fer constar en els informes anuals o extraordinaris que elabori, i pot fer públics la identitat i el càrrec, o la denominació de les persones o entitats de què es tracti.
+8. Una vegada conclosa l’enquesta, el Raonador del Ciutadà ha d’informar del resultat de les investigacions que ha portat a terme la persona que hagi fet la queixa o la reclamació, i la persona o entitat pública o privada que n’hagi estat destinatària.
 
 **Article 16. Actuació d’ofici**
 
@@ -95,11 +146,20 @@ Les decisions i les resolucions del Raonador del Ciutadà no són susceptibles d
 
 **Article 18. Informe anual**
 
-$2c
+1. El Raonador del Ciutadà presenta anyalment, en una sessió ordinària del primer període de sessions del Consell General, un informe detallat de les seves actuacions.
+2. En l’informe anual, el Raonador del Ciutadà pot fer constar les persones o les entitats públiques o privades que han desatès els seus advertiments, recomanacions, recordatoris o suggeriments.
+3. L’informe anual ha de versar sobre totes les matèries relatives a les funcions que té encomanades el Raonador del Ciutadà, i ha de fer menció de la tasca general que ha portat a terme i dels casos en què ha treballat individualment.
+4. El Raonador del Ciutadà pot suggerir que es promoguin i adoptin reformes legals o reglamentàries en les matèries relatives a les funcions que té encomanades.
+5. El Raonador del Ciutadà pot proposar en l’informe anual les modificacions d’aquesta Llei que consideri convenients per facilitar i millorar el funcionament de la institució que representa. Aquestes propostes no poden concernir, però, els requisits de nomenament del Raonador del Ciutadà.
+6. En casos d’urgència i importància, el Raonador del Ciutadà pot presentar informes extraordinaris que són debatuts en la forma que decideixi el Consell General.
+7. El Consell General ha de publicar els informes del Raonador del Ciutadà al Butlletí del Consell General, sense perjudici de les altres formes de publicació que es puguin establir.
 
 **Article 19. Advertiments, recomanacions, recordatoris i suggeriments**
 
-$2e
+1. En l’exercici de les funcions que té encomanades, el Raonador del Ciutadà pot formular a les persones o les entitats públiques o privades els advertiments, les recomanacions, els recordatoris dels deures legals que tenen i els suggeriments perquè adoptin unes mesures determinades. En tots els casos, aquestes persones i entitats estan obligades a respondre per escrit en el termini màxim d’un mes.
+2. Si l’advertiment, la recomanació, el recordatori o el suggeriment concerneix una administració pública o qualsevol altra entitat o organisme públic, i el seu cap o responsable no pren les mesures adequades al respecte, o no informa de les raons per les quals no s’han adoptat aquestes mesures, el Raonador del Ciutadà pot fer saber al superior jeràrquic que correspongui els antecedents que concorrin i l’advertiment o la recomanació fets. Si malgrat això no s’obté una justificació adequada, el Raonador del Ciutadà ho fa constar en els informes anuals o extraordinaris que elabori.
+3. Si l’advertiment, la recomanació, el recordatori o el suggeriment concerneix una persona o entitat privada, i aquesta persona o el representant legal d’aquesta entitat no pren les mesures adequades al respecte, o no informa de les raons per les quals no s’han adoptat aquestes mesures, el Raonador del Ciutadà ho fa constar en els informes anuals o extraordinaris que elabori.
+4. Si en l’exercici de les funcions que té encomanades el Raonador del Ciutadà constata que hi ha indicis de la comissió d’infraccions administratives o penals, ho fa saber a l’autoritat administrativa competent o al Ministeri Fiscal, respectivament.
 
 **Article 20. Relació amb el Consell General**
 

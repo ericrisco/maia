@@ -42,15 +42,23 @@ a) Ha de ser informada i escoltada abans que es prengui una decisió que l’afe
 
 **Article 6. Formes d’emancipació**
 
-$1e
+1. L’emancipació pot tenir lloc:
+a) Per consentiment dels qui exerceixen l’autoritat parental o la tutela. Es requereix que la persona menor d’edat tingui almenys setze anys i la consenti. En cas de consentiment del titular de la tutela, cal, a més, autorització judicial obtinguda en procediment de jurisdicció voluntària, prèvia audiència del Ministeri Fiscal. L’emancipació per consentiment s’atorga en escriptura pública, i ha de ser comunicada d’ofici pel notari al Registre Civil.b) Per resolució judicial, dictada en procediment de jurisdicció voluntària, a petició de la persona menor d’edat de més de setze anys, si hi ha causes que fan impossible la convivència amb els progenitors o amb el tutor, o que dificulten greument l’exercici de l’autoritat parental o de la tutela. En aquest procediment es requereix l’audiència prèvia de les persones que exerceixen l’autoritat parental o la tutela, així com del Ministeri Fiscal.
+2. L’emancipació és irrevocable i s’ha d’inscriure en el Registre Civil. Mentre no s’hi inscrigui, no produeix efectes contra tercers.
+3. La persona menor d’edat de més de setze anys es considera emancipada si viu d’una manera econòmicament independent dels progenitors o del tutor amb el seu consentiment, el qual pot ser revocat. La persona menor d’edat de vida independent necessita l’assentiment dels seus progenitors o del seu tutor per als mateixos actes que el menor emancipat.
 
 **Article 7. Desaparició i declaració d’absència**
 
-$20
+1. En cas de desaparició d’una persona del seu lloc de residència i de manca de notícies sobre el seu parador, qualsevol persona amb un interès legítim o el Ministeri Fiscal poden sol·licitar a l’autoritat judicial, en procediment de jurisdicció voluntària, que nomeni un defensor judicial que representi la persona desapareguda en judici o tingui cura dels seus afers que no admetin demora, si no ha deixat un apoderat que se’n pugui fer càrrec.
+2. Transcorregut el termini d’un any a comptar des de la data de la desaparició o d’aquella en què es tingueren les darreres notícies de la persona desapareguda, amb el dubte de si és viva, se’n pot instar la declaració judicial d’absència. El termini és de tres anys si la persona desapareguda va deixar un administrador dels seus béns i el mandat no s’ha extingit abans.
+3. La declaració judicial d’absència es tramita en un procediment de jurisdicció voluntària a instàncies del cònjuge o persona convivent amb l’absent, dels seus descendents o ascendents, o del Ministeri Fiscal. En el mateix procediment s’ha de constituir la curatela de l’absent, que es regula pel que disposa l’article 58.
 
 **Article 8. Declaració judicial de mort**
 
-$22
+1. Es pot instar la declaració judicial de mort d’una persona que ha desaparegut del seu domicili o del darrer lloc conegut de residència, sense que se n’hagin tingut més notícies, si concorre alguna de les circumstàncies següents:
+a) Que hagin transcorregut deu anys des de la data de la desaparició o de les darreres notícies.b) Que hagin transcorregut cinc anys des de la data de la desaparició o de les darreres notícies, si en el moment de vèncer aquest termini el desaparegut hagués complert l’edat de 85 anys.c) Que hagin transcorregut dos anys des de la data de la desaparició, si aquesta hagués tingut lloc en circumstàncies de perill greu per a la vida.
+2. També es pot instar la declaració judicial de mort de la persona desapareguda en un naufragi o sinistre de nau o aeronau, transcorregut un mes de la data de l’accident o de les darreres notícies del viatge, sempre que resulti acreditat que la persona es trobava a bord, que hi hagi evidències racionals d’absència de supervivents i que no s’hagin pogut identificar restes humanes de la mateixa.
+3. La declaració judicial de mort es tramita en un procediment de jurisdicció voluntària a instàncies de qualsevol persona interessada o del Ministeri Fiscal. La resolució judicial ha d’indicar la data en què s’entén produïda la mort.
 
 #### Capítol segon. La provisió de suports per a l’exercici de la capacitat
 
@@ -66,15 +74,25 @@ $22
 
 **Article 11. Mesures adoptades per la persona afectada**
 
-$24
+1. Qualsevol persona major d’edat o menor emancipada, en previsió de la concurrència futura de circumstàncies que puguin dificultar o impedir l’exercici per ella mateixa de la seva capacitat jurídica, pot atorgar en escriptura pública poders preventius i també proposar el nomenament o exclusió de persones per a exercir la curatela i adoptar disposicions sobre el seu contingut i funcionament en cas que calgui constituir-la. Aquestes disposicions poden incloure mesures de control per garantir el respecte a la seva voluntat i evitar les situacions d’abús, conflicte d’interessos i influència indeguda.
+2. Si la persona major d’edat aprecia que té una necessitat de suport actual, també pot constituir en escriptura pública el règim de curatela escaient a les seves circumstàncies, fent els nomenaments i adoptant qualssevol de les disposicions a què es refereix l’apartat 1.
+3. En cas que les mesures adoptades per la persona afectada siguin insuficients o esdevinguin inadequades i no es presti el suport necessari d’una altra manera idònia, l’autoritat judicial, a instància de les persones legitimades per a instar el procediment de provisió de mesures de suport, en pot acordar altres que les complementin o les substitueixin.
 
 **Article 12. Poder preventiu**
 
-$26
+1. En l’atorgament d’un poder, la persona poderdant pot estipular que el poder subsisteixi si en el futur necessita suport en l’exercici de la seva capacitat. La persona poderdant pot també disposar que el poder comenci a produir efectes a partir de la situació de necessitat i establir les circumstàncies que en determinin l’existència com també la manera d’acreditar-les. A aquest efecte es pot preveure que s’hagi d’atorgar acta notarial que, a més del judici del notari, incorpori un informe pericial que constati la necessitat de suport.
+2. Els poders preventius s’han d’atorgar en escriptura pública i poden establir les facultats que tindrà la persona apoderada, donar instruccions per al seu exercici i incloure mitjans de supervisió, mecanismes de revisió i causes específiques d’extinció del poder, inclosa la remoció de la persona apoderada. També poden permetre la delegació de facultats per realitzar actes determinats i establir salvaguardes per a la prevenció d’abusos, influències indegudes i conflictes d’interessos.
+3. Quan la persona poderdant es trobi en situació de no poder expressar la seva voluntat, la persona apoderada ha d’exercir el poder prenent les decisions que hauria pres la poderdant d’acord amb la millor interpretació possible de la seva voluntat i preferències.
+4. Els poders preventius mantenen la seva eficàcia encara que es constitueixin altres mesures de suport de la persona poderdant. Les persones legitimades per instar el procediment de provisió de mesures de suport per a l’exercici de la capacitat i el curador, si n’hi ha, poden sol·licitar a l’autoritat judicial l’extinció dels poders preventius si concorre alguna causa de remoció prevista en el mateix poder o en la llei. Si els poders es van atorgar a favor del cònjuge o de la parella estable o de fet de l’atorgant, el cessament de la convivència determina també la seva extinció, llevat que sigui per causa d’internament del poderdant o altres circumstàncies que no impliquin trencament de la comunitat de vida.
+5. Si el poder preventiu abasta tots els afers de l’atorgant, la persona apoderada, si sobrevé la situació de necessitat de suport, queda subjecta a les regles aplicables a la curatela en tot el que no s’hagi previst en el poder.
 
 **Article 13. Provisió de suports per l’autoritat judicial**
 
-$28
+1. Si la persona amb discapacitat té necessitat de suports per a l’exercici de la seva capacitat i no els ha previst o establert ella mateixa ni els presta satisfactòriament cap guardador de fet, els ha de proveir l’autoritat judicial mitjançant la constitució de la curatela o, si escau, el nomenament de defensor judicial.
+2. Estan legitimats per instar la provisió judicial de suports la mateixa persona amb discapacitat, el seu cònjuge no separat legalment o de fet, la seva parella estable o de fet, els descendents, els ascendents, els germans, la persona que exerceixi la guarda de fet, el Ministeri Fiscal i el ministeri competent en matèria d’afers socials.
+3. Qualsevol persona està facultada per posar en coneixement del Ministeri Fiscal els fets que puguin ser determinants d’una situació que requereixi l’adopció judicial de mesures de suport. Les autoritats i funcionaris públics que coneguin aquests fets per raó de l’exercici de les seves funcions tenen el deure de posar-los en coneixement del Ministeri Fiscal de manera immediata.
+4. En la resolució de constitució del règim de suport s’han de tenir en compte la voluntat i les preferències de la persona amb discapacitat pel que fa al tipus i abast del suport i les persones que hauran de prestar-lo o quedar-ne excloses. Excepcionalment i de forma motivada, es pot prescindir de les disposicions prèvies o manifestacions de la persona assistida si s’acrediten circumstàncies greus desconegudes per ella que ho justifiquen o si hi ha risc d’abús, conflicte d’interessos o influència indeguda.
+5. Les mesures de suport han de ser proporcionades a les necessitats de la persona amb discapacitat i s’han d’adaptar a la seva condició i circumstàncies personals.
 
 **Article 14. Provisió preventiva de suports abans de la majoria d’edat**
 
@@ -177,7 +195,10 @@ S’han de posar en tutela les persones menors d’edat no emancipades que no es
 
 **Article 32. Tutela privada**
 
-$2a
+1. A petició dels progenitors, en els termes que estableix l’apartat 1 de l’article 31, o de dos parents en la línia recta ascendent si els progenitors no haguessin fet delació de la tutela ni previsions sobre això, l’autoritat judicial, en procediment de jurisdicció voluntària i amb informe previ del Ministeri Fiscal, pot autoritzar la constitució d’un consell de tutela per gestionar una empresa familiar en la qual tingui participació la persona tutelada, amb les facultats que siguin escaients, o per supervisar l’administració del tutor.
+2. El consell de tutela ha d’estar integrat per un mínim de tres persones i per un màxim de cinc que reuneixin els requisits d’aptitud que exigeix aquesta Llei per a l’exercici del càrrec de tutor, nomenades per l’autoritat judicial d’acord amb l’establert a l’apartat 3 de l’article 31.
+3. Les persones que formen el consell de tutela han de prestar les garanties que assenyali l’autoritat judicial per tal d’assegurar l’exercici correcte de les seves funcions abans de prendre possessió del càrrec i tenen dret a percebre remuneració si escau d’acord amb l’establert a l’apartat 2 de l’article 27.
+4. L’autoritat judicial, a instància del Ministeri Fiscal o de les persones indicades a l’apartat 1, pot decretar l’extinció del consell de tutela si l’interès de la persona tutelada ho exigeix o si els seus membres no compleixen de forma correcta les funcions pròpies del càrrec.
 
 **Article 33. Delació judicial**
 
@@ -259,7 +280,10 @@ El tutor necessita autorització judicial per dur a terme els actes establerts a
 
 **Article 53. Supòsits de curatela**
 
-$2c
+1. S’ha de constituir la curatela respecte de les persones següents:
+a) Les persones menors d’edat emancipades, si els progenitors han mort o han quedat impedits per prestar l’assistència prescrita per la llei.b) Les persones amb discapacitat que requereixin aquesta modalitat de suport per a l’exercici de la seva capacitat.c) Les persones declarades absents.
+2. També es pot constituir una curatela en els casos següents:
+a) Per a salvaguardar els interessos d’una persona concebuda.b) Quan l’herència es defereix a favor de persones inicialment incertes o, si escau, mentre l’herència es troba jacent.c) Per a la gestió del patrimoni fundacional, en les fundacions en període de constitució, si manca el nomenament de la persona encarregada de dur-la a terme.d) Per a la gestió de fons de subscripció per a finalitats d’interès general de caràcter temporal, si manquen les persones gestores o no exerceixen les seves funcions.e) Per a l’administració d’un patrimoni protegit, en cas que manqui la persona administradora o aquesta no exerceixi les seves funcions, mentre no es nomeni un nou administrador.
 
 **Article 54. Preexistència de tutela**
 
@@ -271,7 +295,12 @@ La curatela de les persones menors d’edat emancipades només s’ha de constit
 
 **Article 56. Curatela de les persones amb discapacitat**
 
-$2e
+1. La curatela de les persones amb discapacitat es constitueix per la mateixa persona afectada o per l’autoritat judicial d’acord amb l’establert als articles 11, 13 i 14.
+2. La curatela abasta les funcions de suport en l’esfera personal o patrimonial establertes en l’escriptura pública o la resolució judicial de la seva constitució.
+3. Si la curatela inclou la representació de la persona en curatela, la resolució judicial ha de determinar els àmbits concrets en què podrà ser assumida.
+4. El curador té el deure de mantenir contacte personal amb la persona a qui presta suport i ha d’exercir el càrrec amb la diligència d’una persona responsable. Si ha d’exercir funcions d’administració patrimonial té els deures d’inventari, d’adopció de mesures de garantia de la gestió i de rendició de comptes establerts per a la tutela i necessita autorització judicial per dur a terme els mateixos actes subjectes a aquesta autorització en la tutela.
+5. En la constitució del règim de suport i en qualsevol moment durant la seva vigència l’autoritat judicial pot adoptar les salvaguardes i mesures de control oportunes per a garantir els drets, la voluntat i les preferències de la persona en curatela. També pot exigir al curador que, dins de les seves funcions, informi periòdicament de la situació personal o patrimonial de la persona assistida.
+6. La curatela s’extingeix per mort o declaració de mort o d’absència de la persona assistida i per resolució judicial si s’acredita que ja no és necessària aquesta modalitat de suport.
 
 **Article 57. Refús de l’assistència**
 
@@ -279,7 +308,10 @@ Si el curador de la persona amb discapacitat o de la declarada pròdiga refusa, 
 
 **Article 58. Curatela de la persona absent**
 
-$30
+1. La curatela de la persona absent es constitueix en el mateix procediment de jurisdicció voluntària en què es declara la situació d’absència. Inscrita en el Registre Civil la declaració d’absència, queden extingits tots els poders atorgats per la persona absent.
+2. El curador assumeix les funcions de conservació, administració i defensa del patrimoni de la persona absent i les altres que li confereixi la resolució de declaració d’absència en atenció a les circumstàncies concurrents. En qualsevol cas, el curador necessita autorització judicial per disposar dels béns no consumibles o no deteriorables.
+3. El curador té dret al reemborsament de despeses i a la indemnització dels danys patits en exercici de les seves funcions i, si així ho estableix l’acte o la resolució judicial de constitució, a ser remunerat a càrrec del patrimoni administrat. Ha de retre comptes de la seva gestió amb la periodicitat que ordeni l’autoritat judicial i en tot cas quan s’extingeix la curatela.
+4. La curatela s’extingeix per mort o declaració de mort de la persona absent i per resolució judicial si la persona interessada reapareix i es troba en condicions de gestionar el seu patrimoni.
 
 **Article 59. Altres curateles de gestió patrimonial**
 
@@ -346,7 +378,10 @@ L’actuació del defensor judicial s’ha de concretar en l’acte o actes que 
 
 **Article 65. Funcions**
 
-$32
+1. El guardador de fet ha de tenir cura de la persona en guarda i actuar sempre en benefici d’aquesta. Si assumeix la gestió patrimonial, s’ha de limitar a dur a terme actes de conservació.
+2. Si concorren circumstàncies que ho fan aconsellable, l’autoritat judicial, en procediment de jurisdicció voluntària, li pot atribuir funcions tutelars o autoritzar-lo per representar la persona en guarda en els termes que la resolució estableixi. En el procediment ha de ser escoltada la persona en guarda, si escau, i els titulars dels càrrecs de protecció o de suport, si hi són i és possible.
+3. Mentre dura la guarda, el guardador de fet ha de complir els deures i obligacions que li siguin imposats per resolució judicial i, subsidiàriament, els establerts per la llei per als titulars de càrrecs de protecció o de suport.
+4. Els actes que el guardador de fet duu a terme amb extralimitació de funcions són anul·lables a instàncies de la mateixa persona en guarda o dels titulars dels càrrecs de protecció o de suport, si la persona en guarda ha sofert perjudici, en el termini de caducitat de quatre anys a comptar de la data en què són realitzats. Els tercers de bona fe que han contractat amb el guardador de fet poden exigir al guardador la indemnització de danys i perjudicis per raó de l’anul·lació del contracte.
 
 **Article 66. Reemborsament**
 
@@ -361,7 +396,9 @@ El guardador de fet té dret al reemborsament de les despeses realitzades i a la
 
 **Article 68. Concepte i finalitat del patrimoni protegit**
 
-$34
+1. El patrimoni protegit és un patrimoni autònom, sense personalitat jurídica, que no respon de les obligacions de la persona amb discapacitat que n’és beneficiària ni tampoc de les de la persona constituent o de les que hi hagin fet aportacions. Tanmateix, les aportacions fetes a un patrimoni protegit després de la data del fet o de l’acte del qual neixi un crèdit no perjudiquen els creditors de la persona que les va fer, si manquen altres recursos per cobrar-lo. Tampoc no perjudiquen els legitimaris.
+2. El patrimoni protegit es constitueix amb l’aportació per la persona constituent de béns i drets a títol gratuït que queden afectats, amb els seus rendiments i subrogats, a la satisfacció de les necessitats vitals d’una persona amb discapacitat, que n’és beneficiària.
+3. Es consideren despeses per atendre les necessitats vitals de la persona amb discapacitat, a més de les que es poden fer en concepte d’aliments familiars d’acord amb l’apartat 1 de l’article 230, les adreçades a facilitar la prestació dels suports i ajustos raonables que necessiti la persona amb discapacitat, a afavorir la millora de les seves capacitats i a potenciar la seva autonomia i vida independent, així com la seva inclusió educativa i sociolaboral i el gaudi d’activitats culturals i de lleure.
 
 **Article 69. Persona amb discapacitat beneficiària**
 
@@ -373,7 +410,11 @@ a) Les persones amb discapacitat intel·lectual.b) Les persones amb discapacitat
 
 **Article 70. Constitució**
 
-$36
+1. Qualsevol persona física o jurídica pot constituir un patrimoni protegit.
+2. La constitució del patrimoni protegit, si no la duu a terme la mateixa persona amb discapacitat que n’és beneficiària, requereix l’acceptació d’aquesta, manifestada d’acord amb el que estableix l’apartat 3 de l’article 69.
+3. Si els representants legals de la persona beneficiària menor d’edat no accepten la constitució del patrimoni protegit o les aportacions successives que s’hi vulguin fer, la persona constituent o aportant pot adreçar-se al Ministeri Fiscal, que ha d’instar l’autoritat judicial a ordenar allò que sigui procedent, d’acord amb l’interès superior de la persona menor d’edat. Si s’autoritza la constitució del patrimoni, la seva administració no pot recaure en cap representant legal que s’hi hagi oposat.
+4. El patrimoni protegit es constitueix per mitjà d’escriptura pública que ha d’incloure almenys:
+a) La identificació i circumstàncies de la persona constituent i de la persona o persones amb discapacitat beneficiàries.b) La voluntat de la persona constituent de constituir un patrimoni protegit i d’afectar els béns i drets que l’integren a la satisfacció de les necessitats vitals de la persona o persones amb discapacitat.c) L’inventari dels béns i drets que constitueixen inicialment el patrimoni protegit.d) La determinació de la persona o persones encarregades de l’administració del patrimoni i les regles d’administració, com també, si escau, les que es considerin necessàries per a la seva fiscalització.e) La determinació de la persona o les persones davant de les quals s’haurà de retre comptes en cas de conflicte d’interessos.f) La denominació del patrimoni protegit.g) L’acceptació de la persona o persones beneficiàries.h) Qualsevol altra disposició que es consideri oportuna i conforme a dret.
 
 **Article 71. Aportacions posteriors**
 
@@ -381,15 +422,27 @@ Les aportacions successives de béns i drets al patrimoni protegit s’han de fo
 
 **Article 72. Administració**
 
-$38
+1. L’administració del patrimoni protegit correspon a la persona física o jurídica designada en l’escriptura pública de constitució. La persona constituent pot ser administradora del patrimoni protegit si no n’és la beneficiària. Si la persona designada no pot o no vol acceptar el càrrec, renuncia a continuar en el seu exercici o cessa en el càrrec per una altra causa i no s’ha previst cap substitució que sigui efectiva, la persona beneficiària, actuant per ella mateixa amb els suports que eventualment necessiti o per mitjà de representant, pot sol·licitar a l’autoritat judicial el nomenament d’una altra persona idònia. També ho pot sol·licitar el Ministeri Fiscal, cas en el qual la persona beneficiària o els seus representants hauran de ser escoltats en el procediment.
+2. L’administració comporta el deure d’assegurar una bona gestió dels béns i els drets que integren el patrimoni protegit, mantenir-ne la productivitat i aplicar-los a la satisfacció de les necessitats vitals de la persona beneficiària, amb observança de les regles establertes en l’acte de constitució del patrimoni o, subsidiàriament, de les mesures per garantir la gestió del patrimoni d’una persona en tutela establertes a l’article 39.
+3. A l’administrador del patrimoni protegit li són d’aplicació les normes d’aptitud, inhabilitat, excusa i remoció per a l’exercici de funcions de protecció o de suport.
+4. L’administració comporta la legitimació activa i passiva per defensar processalment el patrimoni protegit i per contreure obligacions a càrrec del patrimoni a fi de complir la seva finalitat.
+5. Si les regles d’administració establertes en l’acte de constitució no serveixen adequadament la seva finalitat, l’autoritat judicial pot modificar-les en resolució motivada a petició del Ministeri Fiscal o de la persona beneficiària, actuant per ella mateixa amb els suports que eventualment necessiti o per mitjà de representant.
 
 **Article 73. Supervisió i control**
 
-$3a
+1. En l’escriptura pública de constitució del patrimoni protegit es poden designar persones que en supervisin l’administració i adoptar les mesures de control de la gestió i de l’administració que es considerin convenients. A les persones que es fan càrrec de la supervisió o del control els són d’aplicació les mateixes normes d’inhabilitat, aptitud, excusa i remoció dels càrrecs de protecció o de suport que hagin d’exercir facultats d’administració patrimonial.
+2. L’administrador té l’obligació de retre comptes anualment davant les persones següents:
+a) La persona beneficiària o els representants legals o designats en poder preventiu.b) Les persones encarregades de supervisar l’administració i, si s’ha previst en l’escriptura pública de constitució, la persona constituent del patrimoni protegit o els seus hereus.
+3. En cas de discrepància en l’administració o en el rendiment de comptes efectuat per l’administrador, les persones esmentades a l’apartat 2, si consideren que es posa en perill el patrimoni protegit o no es compleix la seva finalitat, han de posar-ho en coneixement del Ministeri Fiscal per tal que demani a l’autoritat judicial que proveeixi el necessari per salvaguardar el patrimoni protegit i garantir la seva finalitat.
 
 **Article 74. Extinció**
 
-$3c
+1. El patrimoni protegit s’extingeix per les causes següents:
+a) Mort o declaració de mort de la persona beneficiària.b) Pèrdua de la condició de persona amb discapacitat.c) Renúncia de totes les persones beneficiàries.d) Compliment d’alguna condició resolutòria establerta a l’escriptura de constitució.e) Esgotament de tots els seus béns i drets.
+2. A instància de la persona constituent o dels seus hereus, l’autoritat judicial pot disposar l’extinció del patrimoni protegit si la persona beneficiària incorre en qualsevol dels supòsits que constituirien causa legal de desheretament d’un legitimari o en altres situacions de desconsideració greu envers el constituent, degudament objectivades i acreditades.
+3. L’extinció del patrimoni protegit comporta:
+a) La seva liquidació, que correspon a la persona encarregada de l’administració, llevat que l’escriptura de constitució estableixi altrament.b) La rendició de comptes finals de la gestió per l’administrador, davant la persona beneficiària o els seus hereus.
+4. La persona que ha liquidat el patrimoni protegit ha de donar al romanent la destinació establerta en l’escriptura de constitució, que pot incloure la reversió dels béns a la persona constituent o als seus hereus. Si la destinació no havia estat establerta o no es pot complir, el romanent ha de ser adjudicat a la persona constituent o als seus hereus. En cas que hagi de succeir el Govern, s’ha d’adjudicar el romanent a una entitat sense ànim de lucre que tingui la finalitat de facilitar atenció i suport a les persones amb discapacitat.
 
 **Article 75. Constància registral**
 
@@ -436,7 +489,10 @@ La modificació del règim econòmic matrimonial realitzada durant el matrimoni 
 
 **Article 129. Causes de nul·litat del matrimoni i legitimació**
 
-$3e
+1. És nul el matrimoni celebrat:
+a) Sense consentiment matrimonial.b) Quan el consentiment estigui viciat per manca de suficient discerniment o s’hagi prestat amb error sobre la identitat de la persona o sobre alguna qualitat personal que, per la seva entitat, hagués estat determinant per a la prestació del consentiment.c) Quan el consentiment estigui viciat per manca de llibertat per haver-se prestat per violència o por greu provinent d’una causa externa, encara que no s’hagi provocat intencionadament.d) Entre persones afectades per algun dels impediments establerts als articles 81, 83 i 84, llevat que hagin estat dispensats.e) Sense la intervenció del cònsol, el seu delegat o el notari o sense la presència dels testimonis.f) Sense l’autorització establerta a l’article 86.
+2. L’acció per demanar la nul·litat del matrimoni correspon als cònjuges, al Ministeri Fiscal o a qualsevol altra persona amb un interès directe i legítim, amb les excepcions següents:
+a) En cas de nul·litat per manca d’edat, durant la minoria d’edat del contraent només poden exercitar l’acció els seus representants legals i el Ministeri Fiscal.b) En els casos de consentiment prestat amb manca de discerniment o viciat, només pot exercitar l’acció el cònjuge que ha patit el vici o la mancança, si escau amb els suports que necessiti.
 
 **Article 130. Convalidació del matrimoni nul**
 
@@ -556,7 +612,8 @@ L’autorització o la denegació de la celebració del matrimoni es regeix per 
 
 **Article 89. Matrimoni en perill de mort**
 
-$42
+1. En cas d’imminent perill de mort d’un dels contraents, qualsevol cònsol, persona delegada per ell o notari pot autoritzar el matrimoni i procedir a la seva celebració en presència de dos testimonis, sense necessitat de tramitar l’expedient previ. En aquest cas, cal la declaració jurada dels contraents en què manifestin que no hi ha cap impediment entre ells que no sigui dispensable d’acord amb les disposicions d’aquesta Llei. Si el perill de mort deriva de malaltia o de l’estat físic d’algun dels contraents, cal també dictamen mèdic previ del metge forense o d’un altre metge, llevat d’impossibilitat acreditada. En aquest darrer cas, caldrà aportar el dictamen abans de la inscripció del matrimoni en el Registre Civil.
+2. En cas que el cònsol, el seu delegat o el notari considerin que hi ha algun motiu raonable per no autoritzar el matrimoni, ho han de posar immediatament en coneixement de la persona titular del Registre Civil, la qual ha de resoldre en el termini màxim de tres dies hàbils, amb aplicació de les normes de la Llei del Registre Civil.
 
 ##### Secció sisena. El matrimoni canònic
 
@@ -618,7 +675,10 @@ a) Si han obtingut el consentiment de l’altre cònjuge o una autorització jud
 
 **Article 101. Habitatge familiar**
 
-$46
+1. El cònjuge titular de l’habitatge familiar o dels béns mobles d’ús ordinari no pot, sense el consentiment exprés de l’altre cònjuge, disposar del seu dret ni realitzar cap altre acte jurídic sobre aquests béns o sobre quotes indivises dels mateixos que comprometi de forma immediata o eventual l’allotjament de la família.
+2. Si no és possible obtenir el consentiment de l’altre cònjuge, o aquest es nega de forma injustificada a donar-lo, l’autoritat judicial, en procediment de jurisdicció voluntària, pot autoritzar l’acte projectat en interès de la família.
+3. L’acte realitzat per un dels cònjuges sense el consentiment de l’altre, o sense l’autorització judicial supletòria, pot ser anul·lat a instàncies de l’altre cònjuge en el termini de caducitat de quatre anys a comptar de la data en què en tingui coneixement. No escau la impugnació enfront de l’adquirent de bona fe i a títol onerós.
+4. Si el cònjuge que ha fet l’acte dispositiu ha declarat falsament que l’altre cònjuge el consent, l’adquirent pot resoldre el contracte.
 
 ##### Secció novena. Els capítols matrimonials
 
@@ -684,11 +744,17 @@ Els cònjuges administren els respectius patrimonis privatius sense cap interven
 
 **Article 122. Compensació econòmica per raó del treball**
 
-$48
+1. El cònjuge que ha treballat per la casa substancialment més que l’altre o que ha treballat per a l’altre sense retribució o amb una retribució insuficient té dret a una compensació econòmica per raó d’aquest treball si en el moment de l’extinció del règim o del cessament efectiu de la convivència l’altre ha obtingut un increment patrimonial superior d’acord amb el que estableix aquesta secció.
+2. Per determinar la quantia de la compensació econòmica per raó de treball, s’ha de tenir en compte la durada i la intensitat de la dedicació, atesos els anys de convivència i, concretament, en el cas del treball domèstic, el fet que hagi inclòs la criança de fills comuns o no o l’atenció personal a altres membres de la família que convisquin amb els cònjuges.
+3. La compensació econòmica per raó del treball té com a límit la quarta part de la diferència entre els increments dels patrimonis dels cònjuges.
+4. En cas d’extinció del règim de separació per mort, el cònjuge supervivent pot reclamar la compensació econòmica per raó de treball com a dret personalíssim, sempre que els drets que el causant li hagi atribuït, en la successió voluntària o en previsió de la seva mort, o els que li pertoquin en la successió intestada, no cobreixin l’import que li correspondria.
+5. Els cònjuges poden pactar en escriptura pública l’increment, reducció o exclusió de compensació econòmica per raó del treball.
 
 **Article 123. Regles de càlcul**
 
-$4a
+1. Els increments dels patrimonis dels cònjuges es calculen d’acord amb les regles següents:
+a) El patrimoni de cadascun dels cònjuges està integrat pels béns que tingui en el moment de l’extinció del règim una vegada deduïdes les càrregues que els afectin i les obligacions. S’hi ha d’afegir el valor dels béns dels quals hagi disposat a títol gratuït, calculat en el moment de transmetre’ls, excloses les liberalitats d’ús.b) S’ha de descomptar del patrimoni de cadascun dels cònjuges el valor dels béns que tenia en començar el règim i que conserva en el moment que s’extingeix o bé els seus subrogats, una vegada deduïdes les càrregues que els afectin, i també el valor dels adquirits a títol gratuït durant la vigència del règim i les indemnitzacions per danys personals, exclosa la part corresponent al lucre cessant durant el temps de convivència.
+2. Les atribucions patrimonials que el cònjuge deutor hagi fet al cònjuge creditor durant la vigència del règim s’imputen a la compensació pel valor que tenen en el moment de l’extinció del règim.
 
 **Article 124. Forma de pagament de la compensació**
 
@@ -722,7 +788,11 @@ Corresponen al cònjuge supervivent, no separat legalment o de fet, sense que es
 
 **Article 137. Pactes en previsió d’una ruptura matrimonial**
 
-$4c
+1. Els cònjuges o futurs cònjuges poden atorgar pactes en previsió d’una ruptura matrimonial en capítols matrimonials o en escriptura pública. Si són prematrimonials, caduquen si el matrimoni no se celebra en el termini d’un any.
+2. El notari, abans d’autoritzar l’escriptura, ha d’informar per separat cadascun dels atorgants sobre l’abast dels canvis que es pretenen introduir amb els pactes respecte al règim legal supletori. També els ha d’advertir del deure recíproc de proporcionar-se informació suficient sobre el seu patrimoni, ingressos i expectatives econòmiques, si aquesta informació és rellevant amb relació al contingut dels pactes. La càrrega d’acreditar que l’altra part disposava d’aquesta informació correspon a qui pretengui fer valer el pacte.
+3. Els pactes d’exclusió o limitació de drets han de tenir caràcter recíproc i precisar amb claredat els drets que limiten o als quals es renuncia.
+4. Els pactes que en el moment que se’n pretén el compliment siguin greument perjudicials per a un cònjuge no són eficaços si aquest acredita que han sobrevingut circumstàncies rellevants imprevistes que no es podien preveure raonablement en el moment que es van atorgar.
+5. Els cònjuges poden exigir el compliment d’aquests pactes en el procediment de família corresponent i també, si escau, en sol·licitar l’adopció de mesures provisionals.
 
 **Article 138. Pactes fora de conveni regulador**
 
@@ -730,11 +800,17 @@ Els pactes acordats entre cònjuges després del trencament de la convivència f
 
 **Article 139. Mesures provisionals**
 
-$4e
+1. L’autoritat judicial, a instància del cònjuge que es proposi formular o hagi formulat demanda de nul·litat, de separació o de divorci, o del cònjuge demandat, apreciant la necessitat i la urgència del cas i tenint en compte els interessos familiars més necessitats de protecció, pot disposar les mesures provisionals que consideri oportunes, d’acord amb la Llei del Codi de procediment civil.
+2. En particular, l’autoritat judicial pot adoptar mesures relatives a:
+a) La separació personal dels cònjuges i l’atribució de l’ús de l’habitatge familiar, fixant la data en què el cònjuge a qui no s’assigna l’ús l’ha d’abandonar.b) La guarda i el règim d’exercici de l’autoritat parental respecte dels fills menors i la manera com aquests s’han de relacionar amb el progenitor amb qui no convisquin.c) La distribució del deure d’aliments a favor dels fills i, si escau, la fixació d’aliments provisionals a favor d’un dels cònjuges.d) La fixació d’aliments per als fills majors d’edat o emancipats que no tinguin recursos econòmics propis i convisquin amb algun dels progenitors.e) El règim de tinença i administració dels béns en comunitat.f) Les garanties adequades per assegurar el compliment de les mesures adoptades.
+3. Si escau, l’autoritat judicial pot també prohibir a un dels cònjuges entrar en contacte amb l’altre o amb els seus fills, en cas de perill greu per a la seva integritat física o psicològica, i adoptar mesures per evitar el desplaçament o la retenció il·lícits dels fills, si hi ha el risc.
 
 **Article 140. Atribució de la guarda i drets de relació personal**
 
-$50
+1. La nul·litat del matrimoni, la separació o el divorci no alteren les responsabilitats dels progenitors envers els fills. Aquestes responsabilitats mantenen el seu caràcter compartit i, tant com sigui possible, s’han de seguir exercint conjuntament.
+2. La guarda dels fills s’atribueix i s’exerceix de la manera com els progenitors han acordat en conveni regulador degudament aprovat o, a manca d’acord, en els termes que estableixi l’autoritat judicial, preferentment de manera compartida i sempre atenent l’interès superior dels menors.
+3. El conveni regulador o la resolució judicial han de determinar de quina manera els progenitors poden comunicar amb els seus fills i tenir-los en companyia si no en tenen atribuïda la guarda o durant els períodes de temps en què l’estigui exercint l’altre progenitor. També han de fixar, si escau a l’interès dels fills, el seu règim de comunicació amb els avis, que han de ser prèviament escoltats.
+4. L’autoritat judicial pot variar les modalitats d’exercici, limitar i, excepcionalment, fins i tot suspendre els drets de relació personal a què es refereix l’apartat 3, si la part que els té atribuïts incompleix de manera greu o reiterada els seus deures o si el manteniment inalterat de la relació pot perjudicar l’interès dels fills.
 
 **Article 141. Exercici de l’autoritat parental**
 
@@ -742,11 +818,20 @@ L’autoritat parental sobre els fills menors comuns és exercida pels progenito
 
 **Article 142. Ús de l’habitatge familiar**
 
-$52
+1. Els cònjuges poden acordar l’atribució o distribució de l’ús de l’habitatge familiar amb el seu parament de la manera que considerin escaient.
+2. A manca d’acord, o si l’acord no és aprovat, l’autoritat judicial pot, ateses les circumstàncies, atribuir l’ús de l’habitatge familiar i del seu parament a un dels progenitors, sigui perquè li ha estat atribuïda la guarda dels fills o, si la guarda és compartida o no hi ha fills menors, per la seva major necessitat. L’atribució de l’ús de l’habitatge per raó de major necessitat té caràcter temporal i se n’ha de fixar la durada. Si escau, l’autoritat judicial pot establir una compensació a favor del titular de l’habitatge durant el període en què hagi de cedir-ne l’ús.
+3. Si el cònjuge que ha de cedir l’ús pot assumir el pagament dels aliments dels fills i, si escau, de la pensió compensatòria de l’altre cònjuge en una quantitat que cobreixi suficientment les necessitats d’habitatge d’aquests, pot sol·licitar que no s’adopti aquesta mesura o que s’hi posi fi.
+4. Si els cònjuges posseeixen l’habitatge familiar per un títol diferent del de propietat, els efectes d’una eventual atribució de l’ús queden limitats pel que resulti del títol. Si l’habitatge pertany a un tercer, en pot reclamar la restitució.
 
 **Article 143. Pensió compensatòria**
 
-$54
+1. El cònjuge que, com a conseqüència de la ruptura de la convivència, experimenti un desequilibri econòmic en relació amb l’altre que impliqui un empitjorament respecte a la seva situació anterior en el matrimoni té dret a una pensió compensatòria que no excedeixi el nivell de vida de què gaudia durant el matrimoni ni el que pugui mantenir el cònjuge obligat al pagament, tenint en compte el dret d’aliments dels fills, que és prioritari.
+2. A manca d’acord, la pensió es pot atorgar només per un període limitat, i per fixar-ne l’import i la durada s’han de valorar especialment les circumstàncies següents:
+a) La posició econòmica dels cònjuges, tenint en compte, si escau, la compensació econòmica per raó de treball o altres atribucions derivades de la liquidació del règim econòmic matrimonial.b) L’atribució de l’ús de l’habitatge, si escau, al cònjuge creditor, si l’habitatge pertany en tot o en part al cònjuge deutor.c) L’edat i l’estat de salut dels cònjuges.d) La qualificació professional dels cònjuges i les probabilitats d’accés a un lloc de treball.e) La durada del matrimoni i de la convivència conjugal.f) La dedicació passada i futura dels cònjuges a la família.
+3. La pensió fixada es pot modificar per alteracions substancials dels recursos econòmics d’un i altre cònjuge a fi de disminuir-ne l’import si millora la situació econòmica de qui la percep o empitjora la de qui la paga, i també es poden modificar les seves bases d’actualització i les garanties per pagar-la.
+4. La pensió fixada pot ser substituïda, mitjançant un conveni acordat en qualsevol moment, per la constitució d’un vitalici, d’un usdefruit sobre determinats béns o pel lliurament d’un capital en béns o en diners.
+5. El dret a la pensió s’extingeix pel cessament de la causa que el va motivar, pel compliment del termini fixat, per haver contret el creditor nou matrimoni o per viure conjugalment amb una altra persona. No s’extingeix per la mort del deutor, però els seus hereus poden sol·licitar judicialment la reducció o la supressió de la pensió, si el cabal hereditari no pot satisfer el deute o la pensió afecta els drets legitimaris.
+6. En cas de nul·litat del matrimoni, té dret a la pensió compensatòria el cònjuge de bona fe en els termes previstos en aquest article.
 
 **Article 144. Compliment i modificació de les mesures**
 
@@ -772,7 +857,11 @@ a) Ser majors d’edat i no tenir vincles de parentiu en línia recta per consan
 
 **Article 148. Expedient previ i inscripció**
 
-$56
+1. Per constituir la unió estable de parella cal promoure un expedient previ davant el Registre d’Unions Estables de Parella. Els convivents han de presentar una sol·licitud acompanyada dels documents següents:
+a) Certificat de naixement dels dos membres de la parella i, si escau, dels fills comuns.b) Certificat d’estat civil.c) Còpia del passaport o del document d’identitat en vigor.d) Certificat de residència dels dos membres de la parella. Queden exemptes de complir aquest requisit documental les persones de nacionalitat andorrana.e) Declaració jurada de convivència.f) Declaració jurada de dos testimonis conforme tenen constància de la convivència duradora de la parella.g) Conveni privat signat pels convivents, en el qual regulin la relació personal i patrimonial derivada de la convivència, els drets i deures respectius i els efectes que eventualment hagi de produir el cessament de la unió.
+2. A efectes d’acreditar la veracitat de la convivència, la persona encarregada del Registre pot entrevistar-se, de manera reservada i per separat, amb cadascun dels convivents.
+3. La inscripció de la unió al Registre té lloc un cop transcorregut el termini de sis mesos d’ençà del moment en què es promou l’expedient previ. No obstant això, la unió estable pren efectes entre els membres de la parella des del moment en què es promou l’expedient previ.
+La unió estable de parella s’acredita mitjançant la inscripció al Registre d’unions estables de parella del Registre Civil.
 
 **Article 149. Registre d’Unions Estables de Parella**
 
@@ -799,7 +888,13 @@ Els actes de disposició de l’habitatge familiar o dels béns mobles d’ús o
 
 **Article 153. Causes i formalització**
 
-$5a
+1. La unió estable de parella s’extingeix per les causes següents:
+a) Per comú acord dels convivents.b) Per voluntat unilateral d’un dels convivents, notificada fefaentment a l’altre.c) Per mort o declaració de mort d’un dels convivents.d) Per matrimoni dels membres de la unió entre ells.
+2. En cas que els convivents decideixin de mutu acord posar fi a la seva relació, han d’instar la cancel·lació de la inscripció de la unió al Registre d’unions estables de parella aportant l’acord d’extinció formalitzat fefaentment.
+3. Si un dels convivents decideix posar fi a la unió estable de parella per voluntat unilateral, ha de notificar-ho fefaentment a l’altre i instar simultàniament la cancel·lació de la inscripció en el Registre d’unions estables de parella trametent una còpia de la notificació.
+El matrimoni dels membres de la unió entre ells comporta d’ofici la cancel·lació al Registre d’unions estables de parella.
+4. L’extinció de la unió en vida dels convivents produeix efectes entre ambdós des de la data en què s’acorda o des de la notificació de la voluntat unilateral feta per un d’ells a l’altre. Respecte de terceres persones, produeix efectes des de la data de la cancel·lació registral de la inscripció.
+5. En cas d’extinció de la unió estable de parella per causa de defunció o declaració de mort d’un dels membres, el sobrevivent ha de trametre un certificat de la defunció o de la declaració de mort al Registre d’unions estables de parella. També ho pot fer qualsevol altra persona interessada.
 
 **Article 154. Efectes de l’extinció**
 
@@ -851,7 +946,10 @@ El període legal de concepció comprèn els primers cent vint dies del període
 
 **Article 183. Persones que poden adoptar**
 
-$5e
+1. Només poden ser adoptants dues persones casades, dues persones que formin una unió estable de parella o que convisquin com a parella de fet, o bé una persona sola.
+2. En l’adopció per dues persones, cal que hagin transcorregut cinc anys des de la celebració del matrimoni o des de la inscripció registral com a unió estable de parella, o bé que els adoptants acreditin cinc anys de convivència estable. No es requereix el transcurs d’aquest període en l’adopció per una persona sola del fill del seu cònjuge o parella.
+3. L’adopció per persona sola no s’admet si aquesta està casada i no separada o si conviu en relació de parella, llevat que adopti el fill de la seva parella o que aquesta estigui impossibilitada de manifestar la seva voluntat.
+4. L’adoptant o adoptants han de complir el requisit d’edat establert per l’article 184 i tenir capacitat i aptitud suficients per assumir les responsabilitats que comporta l’adopció. No han d’haver estat suspesos o privats de l’autoritat parental ni remoguts de l’exercici de funcions de protecció o de suport a les persones, i han de complir els requisits que es determinin reglamentàriament.
 
 **Article 184. Edat dels adoptants**
 
@@ -919,7 +1017,9 @@ a) Es trobin impedits de manifestar la seva voluntat fins i tot comptant amb la 
 
 **Article 168. Impugnació de la paternitat matrimonial**
 
-$60
+1. El marit pot impugnar la paternitat matrimonial determinada per mitjà de presumpció, però no quan ha consentit la fecundació assistida de l’esposa d’acord amb els requisits de l’apartat 1 de l’article 166.
+2. El marit ha d’exercitar l’acció d’impugnació en el termini de caducitat de dos anys comptadors des de la data en què conegui el naixement del fill o els fets que posen en dubte la seva paternitat o que un tercer hagi cohabitat amb la mare durant el període de concepció del fill.
+3. El fill pot interposar l’acció d’impugnació de la paternitat matrimonial en el termini de caducitat de dos anys a comptar de la seva majoria d’edat, de l’extinció de les mesures de suport necessàries per a la impugnació en cas de discapacitat o del descobriment de les proves en què es fonamenta la impugnació. En el cas de minoria d’edat o discapacitat del fill que no li permeti impugnar per ell mateix, poden interposar l’acció la mare o la persona que presta suport al fill en el seu interès i representació durant el termini de dos anys a partir de la data de naixement del fill o del descobriment de les proves en què es fonamenta la impugnació.
 
 **Article 169. Impugnació de la maternitat matrimonial**
 
@@ -978,11 +1078,16 @@ de l’article 170, segons escaigui. Si queda determinada per raó de l’exist�
 
 **Article 176. Determinació judicial de la filiació no matrimonial**
 
-$62
+1. El fill pot exercir l’acció de reclamació de la filiació no matrimonial durant tota la seva vida. Si el fill ha mort abans de transcórrer el termini de caducitat de dos anys a comptar de la seva majoria d’edat, de l’extinció de les mesures de suport necessàries per a la reclamació de la filiació en cas de discapacitat o del descobriment de les proves en les quals es pot fonamentar la reclamació, l’acció pot ser exercida pels seus descendents o els seus hereus dins el temps que resti per completar aquest termini.
+2. El pare i la mare poden exercir, durant tota la seva vida, l’acció de reclamació de la paternitat o maternitat, si no la poden reconèixer o quan el reconeixement no ha estat eficaç per manca dels consentiments que exigeix l’article 174.
+3. Als efectes de l’exercici de l’acció de reclamació de la filiació no matrimonial, es presumeix la paternitat de l’home que ha conviscut amb la mare en el període comprès entre els tres-cents i els cent vuitanta dies anteriors a la naixença del fill, llevat de proves concloents que demostrin que el període de gestació ha estat més llarg, cas en que la presumpció es podrà estendre al període dins del qual la concepció raonablement es va produir.
 
 **Article 177. Impugnació de la paternitat no matrimonial**
 
-$64
+1. En l’exercici de l’acció d’impugnació de la paternitat no matrimonial el demandant ha de provar que l’autor del reconeixement no és biològicament pare del fill reconegut.
+2. No s’admet l’exercici de l’acció d’impugnació fonamentada exclusivament en la fecundació assistida de la mare o en la manca de descendència biològica del fill respecte del pare, si la tècnica reproductiva s’ha practicat amb el consentiment exprés del pare formalitzat amb els requisits previstos en la legislació vigent en matèria de reproducció humana assistida.
+3. L’acció d’impugnació de la paternitat no matrimonial pot ser exercida pel pare, per la mare i pel fill en el termini de dos anys comptadors des de l’establiment de la filiació que s’impugna, o en el seu cas des del moment en què es conegui l’establiment de la filiació o apareguin noves proves contràries a la paternitat.
+4. En el cas del fill, l’acció caduca al cap de dos anys comptadors des de la majoria d’edat, de l’extinció de les mesures de suport necessàries per a la impugnació en cas de discapacitat o del descobriment de les proves en les quals es pot fonamentar la impugnació.
 
 **Article 178. Reconeixement viciat**
 
@@ -1014,7 +1119,10 @@ La cessació de la mesura de preadopció és acordada per l’autoritat judicial
 
 **Article 195. Proposta d’adopció**
 
-$66
+1. La proposta d’adopció d’una persona menor d’edat és promoguda davant de l’autoritat judicial pel ministeri competent en matèria d’afers socials. Ha d’anar acompanyada dels informes i documents que es creguin oportuns, en particular de l’informe psicosocial emès pel servei especialitzat d’adopcions del Govern.
+2. La proposta pot ser directament promoguda pels adoptants, sense l’informe psicosocial referit a l’apartat anterior, si l’adoptand:
+a) És orfe i parent de l’adoptant o un dels adoptants fins al quart grau de consanguinitat o està posat en tutela de l’adoptant o adoptants.b) És fill del cònjuge o parella de l’adoptant.
+3. Si l’adoptant o un dels adoptants ha mort, es pot constituir l’adopció, amb efectes respecte del difunt, sempre que aquest hagués acollit la persona menor d’edat en preadopció i hagués donat el seu consentiment a l’adopció davant de l’autoritat judicial o bé en escriptura pública o en testament. La constitució d’aquesta adopció té lloc sense perjudici de la possibilitat d’iniciar, si escau, un nou procés de valoració de la situació familiar sobrevinguda a fi d’adoptar les mesures que calguin en interès de la persona menor.
 
 **Article 196. Requisits de la proposta d’adopció**
 
@@ -1057,7 +1165,9 @@ a) Que hi intervé una autoritat competent.b) Que es respecta el principi de sub
 
 **Article 200. Tramitació de l’adopció per l’entitat pública**
 
-$68
+1. L’entitat pública competent només ha de tramitar les adopcions de menors originaris dels països en els quals quedi suficientment garantit el respecte als principis i a les normes de l’adopció internacional i la intervenció deguda dels seus organismes administratius i judicials.
+2. Per garantir el ple respecte als drets dels menors, en el cas d’adopcions internacionals, l’entitat pública competent exerceix les funcions següents:
+a) Adoptar mesures per evitar lucres indeguts i impedir pràctiques contràries a l’interès del menor.b) Reunir i conservar la informació relativa als adoptats i als seus orígens i garantir-ne l’accés, si la llei ho permet.c) Facilitar i seguir els procediments d’adopció.d) Assessorar sobre l’adopció i, si cal i en la mesura permesa per la llei, fer el seguiment de les adopcions, si ho exigeix el país d’origen de la persona que es vol adoptar.e) Seleccionar les persones i les famílies sol·licitants tot valorant-ne la idoneïtat d’acord amb els criteris i els processos que més afavoreixin l’èxit del procés adoptiu.f) Determinar el perfil del menor en concordança amb el de la persona o la família adoptant, per facilitar l’encaix del menor i l’èxit de l’adopció.
 
 **Article 201. Funcions d’intermediació**
 
@@ -1072,7 +1182,10 @@ Només pot intervenir amb funcions d’intermediació per a l’adopció interna
 
 **Article 203. Efectes de l’adopció**
 
-$6a
+1. L’adopció confereix a la persona adoptada una filiació que substitueix la filiació original i implica la formació de vincles de parentiu amb la família de l’adoptant o adoptants i l’extinció dels vincles entre la persona adoptada i la seva família d’origen. S’exceptuen d’aquesta extinció els casos següents:
+a) En l’adopció del fill del cònjuge o la parella es manté el parentiu amb la família del dit cònjuge o parella i també, en cas que hagués estat determinada la filiació respecte de l’altre progenitor i el vincle de filiació s’hagués extingit per mort, amb la família d’aquest darrer.b) En l’adopció del menor orfe per parents fins al quart grau de consanguinitat, es manté el parentiu respecte de la branca familiar del progenitor o progenitors substituïts per l’adopció.
+2. Els adoptants de persones menors d’edat no emancipades exerceixen l’autoritat parental sobre l’adoptat d’acord amb les disposicions del Capítol quart del Títol II.
+3. L’adoptat té dret a conèixer la identitat dels seus progenitors biològics. Els òrgans competents, seguint el procediment que es determini reglamentàriament i amb prèvia notificació a les persones afectades, han de prestar, a través dels seus serveis especialitzats, l’assessorament i l’ajuda necessària per fer efectiu aquest dret i, si fos adient i possible ateses les circumstàncies, per facilitar el contacte personal amb membres de la família d’origen o obtenir informació biogenètica dels progenitors que pugui ser rellevant per raons de salut de l’adoptat.
 
 **Article 204. Obligació d’informar el fill adoptat sobre l’adopció**
 
@@ -1122,7 +1235,9 @@ Els adoptants han de fer saber al fill que el van adoptar, tan aviat com aquest 
 
 **Article 212. Funcions parentals en la família reconstituïda**
 
-$6c
+1. El cònjuge o convivent en parella estable del progenitor que en cada moment té la guarda del fill té dret a intervenir en l’exercici de funcions quotidianes de l’autoritat parental i a adoptar decisions de caràcter urgent en cas de risc imminent per al menor. En cas de desacord entre el progenitor i el seu cònjuge o convivent en parella estable, preval sempre el criteri del progenitor.
+2. Si mor el progenitor que exercia la guarda i l’autoritat parental respecte del fill en exclusiva, sense intervenció de l’altre progenitor, l’autoritat judicial, amb informe del Ministeri Fiscal, pot excepcionalment atribuir la guarda i l’exercici de les funcions parentals al cònjuge o convivent en parella estable del progenitor guardador, si ha estat convivint amb el fill almenys tres anys i la decisió està justificada per l’interès superior d’aquest. L’atribució s’ha de fer en procediment de jurisdicció voluntària, amb audiència de l’altre progenitor, si existeix, i del fill si ha complert dotze anys o si, tenint-ne menys, té prou coneixement.
+3. En cas que l’autoritat judicial no consideri escaient atribuir la guarda, el fill i el cònjuge o convivent en parella estable del progenitor poden tenir dret a mantenir relacions personals d’acord amb l’establert a l’article 209.
 
 **Article 213. Deure d’informació**
 
@@ -1154,7 +1269,12 @@ Si en algun assumpte hi ha contraposició d’interessos entre els fills i els p
 
 **Article 218. Deure d’administració patrimonial i supòsits exclosos**
 
-$6e
+1. Els progenitors que exerceixen l’autoritat parental han d’administrar els béns dels fills mentre es troben sota la seva autoritat amb la diligència que esmercen en la gestió dels béns propis.
+2. Queden exclosos de l’administració dels progenitors els béns i drets següents:
+a) Els adquirits pel fill per donació, herència o llegat, si el donant o el causant així ho han ordenat i han nomenat un administrador d’aquests béns.b) Els adquirits pel fill per títol successori, si un dels progenitors o tots dos han estat justament desheretats o exclosos de la successió per indignitat.c) Els que administra el mateix fill d’acord amb l’article 220.
+3. En el supòsit de la lletra
+b)
+de l’apartat 2, els béns són administrats per la persona designada pel causant. Si no n’hi ha cap o la persona designada no pot assumir l’encàrrec o cessa en el seu exercici, han de ser administrats per l’altre progenitor o, si no hi és o es troba també afectat per la mateixa causa d’exclusió, per un administrador especial nomenat per l’autoritat judicial.
 
 **Article 219. Destinació dels rendiments dels béns administrats**
 
@@ -1167,7 +1287,10 @@ El fill major de setze anys sota autoritat parental té l’administració dels 
 
 **Article 221. Autorització judicial**
 
-$70
+1. Els progenitors, en relació amb els béns del fill, necessiten autorització judicial per als actes següents:
+a) Fer donacions o liberalitats amb càrrec al patrimoni del fill, a menys que es tracti de liberalitats emparades pel costum o pel compliment d’un deure moral.b) Alienar o gravar béns immobles, establiments mercantils o industrials, drets de propietat intel·lectual o industrial, valors mobiliaris, béns mobles de valor extraordinari o objectes d’art o preciosos i fer inversions en renda variable.c) Repudiar herències i llegats i renunciar a donacions atorgades a favor del fill.d) Atorgar arrendaments sobre béns immobles per un període superior a deu anys.e) Prendre o donar diners en préstec a nom del fill.f) Assumir o garantir un deute aliè.g) Reduir les garanties d’un crèdit a favor del fill o renunciar-hi.h) Continuar l’explotació d’establiments mercantils o industrials rebuts per successió o donació i constituir societats que no limiten la responsabilitat personal dels socis o adquirir-ne la condició de soci.i) Transigir o sotmetre a arbitratge qüestions relacionades amb els actes a què es refereixen els apartats anteriors.
+2. Abans d’atorgar l’autorització, l’autoritat judicial, en procediment de jurisdicció voluntària, ha d’escoltar el Ministeri Fiscal i demanar els informes que cregui oportuns.
+3. L’autorització judicial es pot donar per a una pluralitat d’actes de la mateixa naturalesa o referents al mateix negoci, encara que siguin futurs, però no amb caràcter general.
 
 **Article 222. Autoritzacions alternatives**
 
@@ -1193,7 +1316,10 @@ a) Del fill, si té almenys setze anys.b) Dels dos parents consanguinis més pr�
 
 **Article 226. Privació**
 
-$72
+1. Els progenitors poden ser privats totalment o parcialment de la seva autoritat parental per sentència ferma, dictada en el procediment de família que regula la Llei del Codi de procediment civil i fonamentada en l’incompliment greu o reiterat dels seus deures. Hi ha incompliment greu d’aquests deures si el fill menor pateix abusos sexuals o maltractaments físics o psíquics o si és víctima directa o indirecta de violència familiar.
+2. Els progenitors també poden ser privats de la seva autoritat parental en un procés penal que imposi com a pena accessòria la inhabilitació per al seu exercici, en els termes que estableixi la sentència.
+3. L’acció de privació de l’autoritat parental pot ser exercida pels parents del fill fins al tercer grau, pel Ministeri Fiscal i pel ministeri competent en matèria d’afers socials.
+4. L’autoritat judicial, d’ofici o a instància de part, pot decretar el caràcter reservat de les actuacions, després d’escoltar el parer de les parts interessades, mitjançant resolució contra la qual no es pot interposar cap mena de recurs.
 
 **Article 227. Recuperació**
 
@@ -1286,7 +1412,10 @@ Les autoritats andorranes són competents per autoritzar i celebrar el matrimoni
 
 **Article 245. Competència dels tribunals andorrans en matèria matrimonial**
 
-$74
+1. Els tribunals del Principat d’Andorra són competents per conèixer i resoldre les demandes següents:
+a) De nul·litat, separació i divorci dels cònjuges si el Principat d’Andorra és el país de la seva residència habitual.b) De nul·litat, separació i divorci dels cònjuges, si un dels cònjuges té la residència habitual al Principat d’Andorra i la demanda és de comú acord.c) De nul·litat, separació i divorci dels cònjuges, si la part demandada té la residència habitual al Principat d’Andorra en el moment de la interposició de la demanda.d) De separació i divorci dels cònjuges que han contret matrimoni canònic, si la part demandada té la residència habitual al Principat d’Andorra en el moment de la interposició de la demanda.e) De nul·litat, separació i divorci, si el Principat d’Andorra hagués estat el país de la darrera residència habitual comuna i un dels cònjuges encara hi resideix en el moment de la presentació de la demanda.f) De nul·litat, separació i divorci, si ambdós cònjuges tenen la nacionalitat andorrana en el moment de la presentació de la demanda.g) De nul·litat, separació i divorci, si almenys un dels cònjuges és andorrà, té la residència habitual al Principat d’Andorra en el moment de la presentació de la demanda i el matrimoni consta inscrit a Andorra.
+2. Els criteris de l’apartat 1 també atribueixen la competència als tribunals del Principat d’Andorra, amb independència de la forma i el lloc de celebració del matrimoni, per resoldre les demandes següents:
+a) D’autoritat parental, si els fills menors d’edat tenen la seva residència habitual al Principat d’Andorra al moment de la presentació de la demanda.b) D’efectes personals i patrimonials entre cònjuges.c) D’aliments, sempre que la pretensió sigui accessòria a una qüestió relativa a la nul·litat, separació o dissolució del vincle matrimonial o a una qüestió relativa a l’autoritat parental.
 
 **Article 246. Competència de les autoritats andorranes en matèria d’adopció**
 
@@ -1301,7 +1430,15 @@ Les autoritats andorranes són competents en matèria d’adopció si l’adopta
 
 **Article 248. Matrimoni**
 
-$76
+1. La forma del matrimoni es regeix per la llei del lloc de celebració.
+2. Els andorrans i els que gaudeixin de la residència legal, efectiva i permanent al Principat d’Andorra han d’inscriure el matrimoni en el Registre Civil del Principat d’Andorra d’acord amb allò previst a l’article 109 de la Llei del Registre Civil.
+3. Els requisits de validesa per a la celebració del matrimoni es regulen per la llei personal de cada contraent. Si el matrimoni se celebra al Principat d’Andorra i, d’acord amb la llei personal dels contraents, manca un determinat requisit per poder contreure matrimoni, s’aplica el dret andorrà si el contraent a qui afecta aquesta mancança té la residència al Principat d’Andorra.
+4. Els efectes personals i patrimonials es regeixen per la llei personal comuna dels contraents al temps de la celebració del matrimoni. Si els contraents estan subjectes a una llei personal diferent, els efectes es regeixen per la llei de la residència habitual comuna dels contraents immediatament posterior a la celebració del matrimoni i, en el seu defecte, per la llei amb la qual els contraents mantenen uns vincles més estrets al temps de la celebració del matrimoni.
+5. Els cònjuges, en capítols matrimonials, poden optar com a llei aplicable als efectes patrimonials per la llei de la seva residència habitual comuna o per la llei personal de qualsevol dels cònjuges al temps de l’elecció. La modificació de la llei rectora dels efectes patrimonials no afecta els drets adquirits per tercers a l’empara del règim anterior.
+6. L’existència i la validesa de l’acord d’elecció de llei previst a l’apartat anterior es determina de conformitat amb la llei que li seria aplicable si l’acord fos vàlid. Les formalitats de l’acord d’elecció de llei es regeixen per la llei de la residència habitual dels cònjuges i, si no la tenen en el mateix estat, l’acord serà vàlid si compleix els requisits formals de qualsevol de les dues lleis.
+7. El canvi de la nacionalitat o de la residència habitual dels cònjuges posterior al matrimoni no determina la modificació de la llei aplicable al règim econòmic matrimonial.
+8. La nul·litat del matrimoni i els seus efectes es regulen per la llei aplicable segons els apartats 3 i 4.
+9. La separació i el divorci es regeixen per la llei de la residència habitual vigent en el moment de la interposició de la demanda. En el seu defecte, per la llei vigent en aquest mateix moment de la nacionalitat comuna o, si això no és possible, per la llei andorrana. Si la llei designada no permet la separació o el divorci dels cònjuges, es pot demanar la separació o el divorci, segons correspongui, d’acord amb les prescripcions del dret andorrà, si el cònjuge que el demana gaudia de la nacionalitat andorrana al temps de la celebració del matrimoni o gaudeix d’aquesta nacionalitat al temps de la presentació de la demanda.
 
 **Article 249. Filiació**
 
@@ -1339,7 +1476,10 @@ a) La llei de la seva residència habitual comuna al temps de l’elecció.b) La
 
 **Article 255. Adopcions constituïdes a l’estranger**
 
-$78
+1. Les adopcions constituïdes a l’estranger són reconegudes si es compleixen els requisits següents:
+a) Que hagin estat constituïdes per autoritat estrangera competent, considerant com a tal aquella que es pronuncia sobre un supòsit que presenta vincles raonables amb l’Estat a què pertany.b) Que l’adopció no vulneri l’ordre públic, tenint en compte l’interès superior del menor.
+2. Les regles de l’apartat 1 també s’apliquen al reconeixement de les resolucions estrangeres relatives a la conversió, l’extinció, la revisió o la nul·litat de l’adopció.
+3. Les adopcions constituïdes a l’estranger per andorrans o per estrangers residents amb residència legal, efectiva i permanent al Principat d’Andorra només són reconegudes si els adoptants i l’adoptand reuneixen, al moment de l’adopció, els requisits establerts en aquesta llei. En el cas d’adopció de persones menors d’edat, és imprescindible que, abans de la formalització de l’adopció a l’estranger, l’autoritat judicial a la qual correspongui per torn de jurisdicció de menors dicti resolució en què autoritzi els adoptants a adoptar, tenint en compte l’informe psicosocial del ministeri competent en matèria d’afers socials.
 
 **Article 256. Filiació constituïda a l’estranger mitjançant gestació per substitució**
 

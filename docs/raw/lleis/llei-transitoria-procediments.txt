@@ -81,7 +81,9 @@ La resolució haurà de contenir els pronunciaments permetent d’assegurar la p
 
 **Article 15**
 
-$22
+1. En cas de lesió als drets i llibertats reconeguts en els capítols III i IV del títol II de la Constitució, llevat dels drets recollits a l’article 10 de la Constitució i dels altres drets la vulneració dels quals s’hagi produït en el marc d’un procés judicial, es pot presentar una demanda davant el president del Tribunal de Batlles, per garantir el respecte dels drets fonamentals o fer cessar la situació il·lícita. El president del Tribunal de Batlles designa mitjançant una providència el batlle al qual correspon per torn i que sigui competent per raó de la matèria.
+2. El batlle competent trasllada la demanda a les parts interessades perquè facin les al·legacions i proposin les proves oportunes en el termini de tretze dies hàbils. Posteriorment, el batlle, després de practicar les proves proposades que consideri útils, pertinents i necessàries per resoldre la demanda i les altres proves que decideixi d’ofici, resol mitjançant una sentència dins els tretze dies hàbils següents.
+3. La durada total del procés no pot superar el termini d’un mes, i només es pot prorrogar de forma motivada i excepcional fins a tres mesos com a màxim si la pràctica de les proves proposades o que s’hagin decidit d’ofici ho exigeix, o si concorren altres motius justificats que no siguin imputables a les parts comparegudes en el procés o al batlle competent.
 
 **Article 16**
 
@@ -101,15 +103,30 @@ No serà necessari haver intentat la prèvia conciliació en el cas de delictes 
 
 **Article 18 bis. Nul·litat dels actes processals**
 
-$26
+1. Els actes processals es fan de conformitat amb el que preveu la llei.
+2. Els batlles i els tribunals han de procurar que els defectes en què incorrin els actes processals de les parts es puguin esmenar, sempre que en aquests actes s’hagi manifestat la voluntat de complir els requisits exigits per la llei.
+3. Els actes processals de les parts que no compleixin els requisits exigits per la llei es poden esmenar en els casos, les condicions i els terminis que s’hi preveuen. Les actuacions judicials fetes fora del termini establert només es poden anul·lar si ho imposa la naturalesa del termini.
+4. Els actes processals són nuls de ple dret en els casos següents:
+a) Quan els duguin a terme un batlle o un tribunal o es duguin a terme davant un batlle o un tribunal amb manca de jurisdicció o de competència objectiva o funcional.b) Quan es facin sota la violència, la intimidació o l’amenaça.c) Quan es prescindeixi de les normes essencials del procediment que afectin els drets de les parts en el procés, sempre que per aquesta causa s’hagi produït indefensió efectiva.d) Quan els actes processals estiguin afectats per defectes de forma que impliquin l’absència dels requisits indispensables per assolir la seva finalitat.e) Quan es facin sense la intervenció de l’advocat o del Ministeri Fiscal, en els casos en què la llei prevegi que aquesta intervenció és preceptiva.f) En els altres casos en què les lleis aplicables així ho estableixin.
+5. La nul·litat d’un acte no implica:
+a) La nul·litat dels actes successius que en siguin independents.b) La nul·litat dels actes el contingut dels quals s’hauria mantingut invariat en cas que no s’hagués comès la infracció que ha donat lloc a la nul·litat.c) La nul·litat de les parts independents de l’acte declarat nul en el cas de nul·litat parcial.
 
 **Article 18 quater. Nul·litat de les resolucions fermes**
 
-$2c
+1. Les persones que hagin estat part d’una sentència o una resolució fermes o que s’hi vegin afectades poden demanar al batlle o el tribunal que la va dictar que l’anul·li, tot fonamentant la petició en la vulneració de drets fonamentals per infraccions processals o defectes de forma que hagin causat indefensió, o en la incongruència de la sentència o la resolució, sempre que qui sol·licita la nul·litat no hagi pogut denunciar aquesta vulneració anteriorment.
+2. L’incident de nul·litat es pot formular en el termini de tretze dies hàbils des de la notificació de la sentència o la resolució, o des que s’hagi tingut coneixement de la vulneració del dret. En aquest darrer cas, no poden haver transcorregut més de dos anys des del moment de la notificació de la sentència o la resolució definitiva.
+3. El batlle o el tribunal, un cop rep l’incident de nul·litat, pot no admetre’l en cas que consideri, motivadament, que no té cap fonament. En cas contrari, el trasllada a les parts interessades perquè facin les al·legacions i proposin les proves oportunes en el termini de tretze dies hàbils. Posteriorment, el batlle o el tribunal competent, després de practicar les proves proposades que consideri útils, pertinents i necessàries per resoldre la demanda i les altres proves que decideixi d’ofici, resol mitjançant un aute dins els tretze dies hàbils següents.
+4. Contra l’aute que no admet o que resol l’incident de nul·litat en primera instància es pot interposar un recurs d’apel·lació en el termini de tretze dies hàbils davant la sala competent del Tribunal Superior de Justícia, de la qual no poden formar part els magistrats que eventualment hagin resolt l’incident de nul·litat en primera instància. La sala competent pot no admetre el recurs si considera, motivadament, que no té cap fonament. En cas contrari, trasllada el recurs a les parts interessades perquè facin les al·legacions i proposin les proves oportunes en el termini de tretze dies hàbils. Posteriorment, la sala competent, després de practicar les proves proposades que consideri útils, pertinents i necessàries per resoldre la demanda i les altres proves que decideixi d’ofici, resol mitjançant un aute dins els tretze dies hàbils següents.
+5. Contra l’aute que no admet o que resol el recurs en fase d’apel·lació no es pot interposar cap recurs.
+6. L’incident de nul·litat no suspèn l’execució de la sentència o la resolució a la qual s’imputi la vulneració de drets fonamentals, llevat que ho decideixi expressament el batlle o el tribunal quan consideri que en cas contrari es pot ocasionar un perjudici greu i de difícil reparació a la part que formula l’incident.
+7. La formulació prèvia de l’incident de nul·litat no és un requisit necessari per interposar un recurs d’empara davant el Tribunal Constitucional quan es tracti d’una resolució judicial ferma dictada pel Tribunal Superior de Justícia.
 
 **Article 18 ter. Nul·litat de les resolucions no fermes**
 
-$2e
+1. La nul·litat processal es planteja en el procés de conformitat amb les normes següents:
+a) A instància de part, per mitjà dels recursos establerts legalment contra la resolució de què es tracti.b) Per part del batlle o el tribunal, d’ofici o a petició de part, en qualsevol moment abans de dictar la sentència o la resolució que finalitzi el procés en la instància. En aquest cas, el batlle o el tribunal dona audiència prèvia a les parts del procés, perquè en el termini de cinc dies hàbils es pronunciïn sobre l’existència de la nul·litat, i ha de resoldre en el termini dels cinc dies hàbils següents.
+2. Fora dels supòsits previstos en l’apartat anterior, no s’admeten els incidents de nul·litat formulats contra les resolucions no fermes, sense perjudici que es pugui plantejar la nul·litat a través dels recursos o altres mitjans que siguin procedents contra la resolució definitiva.
+3. L’aute que decideix la nul·litat ordena la retroacció de les actuacions al moment immediatament anterior en què es va produir la infracció processal determinant de la nul·litat. Contra l’aute que no admet, o que la resol, la nul·litat d’actuacions no es pot interposar cap recurs, sense prejudici que es pugui reproduir la qüestió en virtut dels recursos que escaiguin contra la sentència o la resolució definitiva.
 
 #### Capítol tercer
 
@@ -175,7 +192,15 @@ Les sentències penals es notifiquen sempre en audiència pública. Per assegura
 
 **Article 30 bis**
 
-$36
+1. El judici de revisió el pot promoure dins el termini de caducitat de tres mesos, a partir de la notificació de la decisió definitiva del Tribunal Europeu de Drets Humans, la persona física o jurídica prop de la qual s’ha constatat la vulneració d’un dret reconegut en la Convenció per a la salvaguarda dels drets humans i de les llibertats fonamentals o en algun dels seus protocols addicionals, sempre que formin part de l’ordenament jurídic andorrà. També el pot promoure el seu representant legal i, en cas de mort, els seus hereus, els seus progenitors, els seus fills, el seu cònjuge o la persona amb qui formava una unió estable de parella. Aquest procediment també el pot promoure el Govern en el mateix termini, per motius d’interès general, en cas que la decisió definitiva del Tribunal Europeu de Drets Humans porti causa d’un procés jurisdiccional administratiu en què hagi estat part.
+2. La demanda de revisió s’adreça al Tribunal Superior de Justícia i ha de ser motivada; s’hi ha d’adjuntar una còpia de la decisió definitiva del Tribunal Europeu de Drets Humans i de la sentència o les sentències dictades pels tribunals andorrans, i dels altres documents que siguin necessaris per fonamentar aquesta revisió. El president del Tribunal Superior designa la sala competent en funció del dret vulnerat, de la qual no poden formar part els magistrats que hagin conegut anteriorment del procés.
+3. La sala competent del Tribunal Superior de Justícia admet o no admet la demanda de revisió, mitjançant una providència o un aute, respectivament, dins els tretze dies hàbils següents al dia en què s’ha presentat. La demanda de revisió només s’admet si es compleixen els requisits establerts a l’article 19 bis de la Llei qualificada de la Justícia i en aquest article. Contra l’aute en què es decideix no admetre la demanda de revisió es pot interposar un recurs de reposició.
+4. En cas que la sala competent del Tribunal Superior de Justícia admeti la demanda de revisió, el president de la sala esmentada designa mitjançant una providència el magistrat ponent del judici de revisió dins els tretze dies hàbils següents. Un cop ha estat designat i dins els tretze dies hàbils següents, el magistrat ponent trasllada la demanda a les altres parts del procés, al Ministeri Fiscal i a les altres persones els drets i interessos de les quals puguin resultar afectats com a conseqüència del judici de revisió, perquè la contestin en el termini de tretze dies hàbils.
+5. A instància de part i mitjançant un aute, la sala competent pot suspendre l’execució de la sentència o les sentències que es pretenen revisar i adoptar les mesures cautelars que consideri oportunes, quan apreciï que en cas contrari es poden ocasionar perjudicis impossibles o difícils de reparar.
+6. Un cop ha finalitzat el termini per contestar a la demanda, el magistrat ponent pot decidir de celebrar una vista dins els tretze dies hàbils següents. Un cop ha conclòs la vista o, en cas contrari, un cop ha finalitat el termini per contestar a la demanda, el tribunal dicta una sentència dins els tretze dies hàbils següents en què estima o desestima de forma motivada la demanda de revisió.
+7. La desestimació de la demanda de revisió comporta l’arxivament de les actuacions i que s’imposin les costes processals al demandant únicament en cas que s’apreciï temeritat en la interposició del judici de revisió. L’estimació de la demanda determina la revocació de la sentència o les sentències que es pretenien revisar i, si escau, la retroacció de les actuacions al moment immediatament anterior en què s’ha produït la vulneració, sense imposar les costes processals a cap de les parts.
+8. Contra la sentència que estima o desestima la demanda de revisió no es pot interposar cap recurs, llevat del recurs d’empara davant el Tribunal Constitucional.
+9. En cas que la sentència estimi la demanda de revisió, un cop ha guanyat fermesa es comunica al president del tribunal que correspongui a l’efecte que atribueixi de nou i per torn el coneixement del procés a un altre batlle o magistrat, o a un tribunal amb composició diferent, els quals han de dictar novament sentència, després de seguir, si escau, el procés pels tràmits corresponents a partir del moment en què ha tingut lloc la retroacció, sense perjudici de la possibilitat de conservar els actes que no es vegin afectats per la vulneració.
 
 #### Capítol vuitè. Desenvolupament dels articles 14 i 50 de la Llei Qualificada de la Justícia
 
@@ -286,7 +311,9 @@ Sense contingut
 
 **Article 52**
 
-$4e
+1. Les comissions rogatòries que els tribunals estrangers trametin als tribunals andorrans sol·licitant la pràctica de diligències judicials en els casos que no sigui aplicable una convenció internacional, i en defecte de llei especial, es regeixen pel que segueix:
+a) Les peticions han de ser rebudes, i una vegada formalitzades, han de ser retornades a través del ministeri encarregat dels afers exteriors.b) El ministeri encarregat dels afers exteriors les cursa al president del Tribunal de Batlles, el qual les assigna per torn als batlles perquè siguin executades, si escau. Si l’objecte de la comissió rogatòria té vinculació amb un procés del qual és coneixedor un batlle o tribunal, es tramet, respectivament, al batlle o al president del tribunal esmentats. En cas d’urgència, es tramet al batlle de guàrdia.c) Els requisits d’admissibilitat són els mateixos que regeixen en les demandes de cooperació penal internacional i que estableixen les lleis de procediment penal, en allò que hi sigui aplicable.d) Les diligències que es practiquen en compliment de les comissions rogatòries es duen a terme seguint les lleis processals andorranes.
+2. Les comissions rogatòries que els tribunals andorrans trametin als tribunals estrangers quan no sigui aplicable una convenció internacional, i en defecte de llei especial, són enviades al ministeri encarregat dels afers exteriors a través del president del tribunal que correspongui.
 
 #### Capítol dotzè. Desenvolupament de l’article 48 de la Llei Qualificada de la Justícia
 

@@ -79,10 +79,15 @@ Cada **dos anys**, en un país diferent, **rotant**:
 | **2015** | Islàndia |
 | **2017** | San Marino |
 
-I una qüestió oberta el 2015, que el corpus reté com a tal: **el 2021 tocava a
+I una qüestió oberta el 2015, que el corpus retenia com a tal: **el 2021 tocava a
 Malta**, però Malta havia **mostrat interès a intercanviar l'ordre amb Andorra**,
-a qui «en teoria li pertoca el 2023». **La font no sap quin any serà. El corpus
-tampoc. Buit registrat.**
+a qui «en teoria li pertoca el 2023». **La font no sabia quin any seria.**
+
+**Tancat: va ser el 2025.** Andorra va organitzar la **20a edició**, a **Andorra
+la Vella**, **del 27 al 31 de maig del 2025**
+([font](../../../fonts/wikipedia-esport-andorra.md)).
+
+**És el tercer cop que els organitza: 1991, 2005 i 2025.**
 
 **Andorra els va organitzar el 1991** — **dos anys abans de tenir Constitució**
 ([la Constitució de 1993](../../historia/constitucio-1993/constitucio-1993.md)).
@@ -140,7 +145,12 @@ econòmic ([turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md))
 | **1987 Mònaco** | **51** | **5 de 9** | **1 de bronze** — **últim lloc del medaller** |
 | **1989 Xipre** | **79** | **8** | **8** (3 or, 1 plata) — **puja dues posicions** |
 | **2013 Luxemburg** | — | — | **6** |
-| **2015 Islàndia** | **41** | **10 d'11** | **11** |
+| **2015 Islàndia** | **41** | **10 d'11** | **11** ⚠ |
+| **2025 ANDORRA** | — | **14 esports, 160 proves** | **38** — **rècord històric** |
+
+⚠ **Desacord registrat:** la font andorrana en compta **11** (4 or, 1 plata, 6
+bronze, amb els noms); la Viquipèdia en compta **10** (4-1-**5**). **Coincideixen
+en l'or i la plata i discrepen en un bronze.** **El corpus no el resol.**
 
 Contrast de la primera edició: **Luxemburg hi va fer 52 medalles i Islàndia 21
 d'or**; Andorra, **quatre de bronze**.
@@ -163,6 +173,65 @@ La font n'extreu un resum que el corpus reté:
 [la funció pública](../../institucions/govern/la-funcio-publica.md): **la mateixa
 aritmètica de plantilla curta** que fa que una persona faci tres feines fa que un
 país presenti menys disciplines.
+
+## Andorra 2025: el rècord
+
+**La 20a edició, a casa, va ser la millor de la història andorrana.**
+
+| | |
+| --- | --- |
+| **Dates** | **27-31 de maig del 2025** |
+| **Seu** | **Andorra la Vella**, amb l'**Estadi Nacional** com a escenari principal |
+| **Participants** | **més de 800 esportistes**, **9 països** |
+| **Programa** | **14 esports**, **160 proves** |
+| **Obertura** | **El Copríncep Episcopal, Joan-Enric Vives i Sicília** |
+| **Andorra** | **38 medalles** — **el millor resultat de la seva història** |
+| **Posició** | **6a de 9** |
+
+### El medaller del 2025
+
+| # | País | Or | Plata | Bronze | Total |
+| --- | --- | --- | --- | --- | --- |
+| **1** | **Xipre** | 36 | 30 | 42 | **108** |
+| **2** | **Luxemburg** | 32 | 27 | 27 | **86** |
+| **3** | **Islàndia** | 26 | 22 | 26 | **74** |
+| **4** | **Mònaco** | 16 | 13 | 15 | **44** |
+| **5** | **Malta** | 13 | 24 | 19 | **56** |
+| **6** | **ANDORRA** | **13** | 11 | 14 | **38** |
+| **7** | **Montenegro** | 12 | 13 | 11 | **36** |
+| **8** | **San Marino** | 8 | 10 | 13 | **31** |
+| **9** | **Liechtenstein** | 4 | 6 | 8 | **18** |
+
+**Desacord registrat en el desglossament andorrà**: la Viquipèdia dona **13-11-14**
+i el **Diari d'Andorra** dona **13-14-11**. **Coincideixen en els 13 ors i en les
+38 medalles**, que és el que importa. **El corpus no tria.**
+
+### Què vol dir 38
+
+**Comparat amb la pròpia sèrie d'Andorra**, és un salt de categoria:
+
+| Edició | Medalles |
+| --- | --- |
+| **1985** San Marino | **4** |
+| **1987** Mònaco | **1** |
+| **1989** Xipre | **8** |
+| **1991** ANDORRA | **14** |
+| **2013** Luxemburg | **6** |
+| **2015** Islàndia | **10-11** |
+| **2025** ANDORRA | **38** |
+
+**Les tres millors actuacions andorranes són les tres vegades que ha jugat a
+casa**: **1991 (14)**, **2025 (38)** — i **el 2005 el corpus no en té la xifra**.
+
+**L'avantatge de camp és la variable més forta de tota la sèrie.** El corpus ho
+assenyala com a **observació pròpia**: cap font ho diu, i la relació és evident
+—i explicable per coses banals com poder presentar equips complets sense costos
+de desplaçament.
+
+**I hi ha un contrast que val la pena.** El 2015 el president del COA deia que
+per a l'edició següent volien **«una delegació reduïda i amb més opcions de
+medalla»**. **El 2025, a casa, Andorra en va fer 38.** **No consta que sigui la
+mateixa estratègia.**
 
 ## Islàndia 2015, amb noms
 
@@ -248,3 +317,10 @@ I la seva conclusió sobre què són aquests Jocs per al país:
 - [Andorra com a microestat](../../institucions/petits-estats/andorra-com-a-microestat.md)
 - [El reconeixement internacional](../../institucions/relacions-exteriors/el-reconeixement-internacional.md)
 - [Turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md)
+
+## Related
+
+- [Andorra als Jocs Olímpics](./andorra-als-jocs-olimpics.md) — on no hi ha hagut mai podi.
+- [Mònica Dòria](../../persones/monica-doria.md) · [Nahuel Carabaña](../../persones/nahuel-carabana.md) — campiona d'Europa i campió dels Petits Estats.
+- [Èric Risco](../../persones/eric-risco.md) — el criteri de selecció d'un país petit, amb nom.
+- [Quants diputats](../../politica/parlamentarisme/quants-diputats.md) — els mateixos nou països, una altra taula.

@@ -49,7 +49,11 @@ a) Les que són perilloses per a la salut o per a la seguretat públiques.b) Les
 
 **Article 8. Caça de l’isard**
 
-$1e
+1. La unitat de gestió per a la caça de l’isard, determinada per la normativa, està composta pel terreny cinegètic comú, pels vedats temporals de caça i pels vedats de caça en què no s’aplica un pla de caça específic.
+2. Només és aplicable un pla de caça anual de l’isard quan es compleixin alhora els paràmetres següents:
+a) Que l’índex de creixementanual de la població d’isards de la unitat de gestió sigui superior o igual al 14%. S’entén per índex de creixement el percentatge de cabrits d’isard respecte a la població total d’isards de la unitat de gestió.b) Que la població total en terreny cinegètic comú i vedats temporals de caça sigui superior a 300 isards.
+3. L’índex de captura es defineix i es fixa reglamentàriament. Per definir l’índex de captura del pla de caça en la unitat de gestió, es tenen en compte paràmetres poblacionals com ara l’índex de creixement i l’evolució de la població adulta i juvenil, entre d’altres paràmetres.
+4. Per ordre ministerial, en els vedats de caça inclosos en la unitat de gestió, es pot establir que s’hi apliqui una part de l’índex de captura del pla de caça.
 
 **Article 9. Espècies d’interès cinegètic**
 
@@ -101,7 +105,33 @@ Als nuclis urbans o les zones urbanitzades, els llocs habitats, les carreteres g
 
 **Article 17. Zones de seguretat**
 
-$20
+1. Es consideren zones de seguretat:
+a) Els nuclis urbans i les zones urbanitzades.b) Les proximitats als nuclis urbans i a les zones urbanitzades, en una distància igual o inferior a 150 metres.c) Les carreteres generals i secundàries obertes a la circulació de vehicles.d) Les proximitats a les carreteres generals i secundàries obertes a la circulació de vehicles, en una distància igual o inferior a 25 metres.e) L’interior de les bordes o les construccions ocupades per persones i els refugis públics de muntanya.f) Les proximitats a bordes o construccions ocupades per persones amb accés rodat d’amplada superior a 2,5 metres, en una distància igual o inferior a 25 metres.g) Les proximitats a bordes o construccions ocupades per persones sense accés rodat o amb accés rodat d’una amplada inferior a 2,5 metres i refugis públics de muntanya, en una distància igual o inferior a 25 metres.h) Les zones d’activitat humana en què mitjançant ordre ministerial, a petició del comú afectat i d’acord amb el que determini el ministeri, es limita l’activitat de la caça de manera temporal.i) Les zones d’activitat humana en què mitjançant ordre ministerial, a petició del comú afectat i d’acord amb el que determini el ministeri, es prohibeix l’activitat de la caça de manera temporal.
+2. A les zones de seguretat establertes en les lletres
+a)
+,
+c)
+,
+e)
+i
+i)
+de l’apartat 1, l’acció de caça queda prohibida.
+3. A les zones de seguretat establertes en les lletres
+b)
+,
+d)
+,
+f)
+,
+g)
+i
+h)
+de l’apartat 1, l’acció de caça resta limitada a buscar, atreure i perseguir els animals.
+4. A les zones de seguretat només es permet el transport d’arma, que ha d’estar descarregada i degudament enfundada, a excepció de les zones de la lletra
+g)
+de l’apartat 1, en què l’arma ha d’estar descarregada en el perímetre i enfundada a dins dels refugis públics de muntanya.
+5. En qualsevol cas, quan es caci en els límits de les zones de seguretat, sempre s’ha de fer d’esquena a aquestes zones.
+6. A les zones de seguretat, el Cos de Banders pot autoritzar, en casos excepcionals, la utilització d’una arma per sacrificar a un animal ferit.
 
 **Article 18. Responsabilitat de la persona caçadora**
 
@@ -119,7 +149,15 @@ a) Les persones caçadores que estiguin duent a terme una batuda i les persones 
 
 **Article 21. Prohibició de caçar sota la influència de begudes alcohòliques, drogues tòxiques o substàncies que alterin la capacitat d’obrar**
 
-$22
+1. La persona caçadora que estigui en acció de caça no pot trobar-se sota la influència de begudes alcohòliques. La taxa d’alcoholèmia no pot ser superior a 0,5 g/l de sang.
+2. La persona caçadora que estigui en acció de caça no pot trobar-se sota la influència de cap droga tòxica o substància que alteri la seva capacitat d’obrar.
+3. La persona caçadora pot ser sotmesa a controls d’alcoholèmia, de droga tòxica o altres substàncies que alterin la capacitat d’obrar, pel Servei de Policia a petició del Cos de Banders, en els supòsits següents:
+a) Quan es vegi implicada en un accident de caça.b) Quan, amb la constatació prèvia del Cos de Banders, presenti símptomes evidents, manifestacions que denotin o fets que permetin suposar raonablement que està sota la influència de l’alcohol o drogues tòxiques o substàncies que alteren la capacitat d’obrar.c) Quan sigui requerida per un control preventiu ordenat pel ministeri responsable de la caça d’acord amb el ministeri responsable d’interior.
+4. Les proves de detecció d’alcoholèmia s’han de fer mitjançant la utilització d’aparells de detecció, oficialment autoritzats pel ministeri competent en matèria d’interior, que determinen de forma quantitativa el grau d’impregnació alcohòlica de la persona sotmesa a la prova.
+Les proves de detecció de consum de droga tòxica s’han de fer inicialment mitjançant la utilització d’aparells de detecció indiciaris o definitius, oficialment autoritzats pel ministeri competent en matèria d’interior, que determinen un resultat positiu o negatiu, ja sigui mitjançant l’anàlisi de mostres de saliva o altres que en el futur puguin ser autoritzades pel ministeri competent en matèria d’interior.
+5. Si la persona es mostra disconforme amb el resultat obtingut mitjançant els aparells de mesura anteriors, o no accepta ser sotmès a la prova esmentada, té dret a sol·licitar que se li efectuï una analítica de sang per detectar el grau d’impregnació alcohòlica o una prova de contrast per determinar si es troba sota la influència de drogues tòxiques o la prova que determini en el futur el ministeri responsable d’interior. La prova es farà en un centre sanitari autoritzat. En cas que el resultat de la analítica resulti positiu, les despeses corresponents són a càrrec de la persona caçadora.
+En el cas que la persona caçadora, un cop estigui en un centre sanitari autoritzat, refusi sotmetre’s a l’analítica de sang o a la prova de contrast o la prova que determini en el futur el ministeri responsable d’interior, el personal mèdic ha de deixar constància d’aquest fet.
+6. Les persones que incompleixin les prohibicions establertes als apartats 1 i 2 o que refusin sotmetre’s a les proves referides a l’apartat 3 han de respondre penalment en aplicació de les normes penals vigents en la matèria.
 
 ### Títol V. Requisits d’exercici de la caça, permís i llicència de caça
 
@@ -161,7 +199,10 @@ a) Les persones que no reuneixin els requisits i les condicions establerts legal
 
 **Article 28. Exercici de la caça per part d’una persona menor d’edat**
 
-$24
+1. Les persones majors de setze anys que compleixin els requisits generals per a l’exercici de la caça, previstos a l’article 22, han d’anar sempre acompanyades, fins a assolir la majoria d’edat, d’una persona major d’edat que sigui titular del permís de caça i del permís d’arma de la mateixa categoria que la del permís d’arma de la persona menor d’edat acompanyada, essent tots vigents.
+A aquest efecte, la persona menor d’edat ha de dur un document acreditatiu de la persona responsable que l’acompanya, que es determina reglamentàriament. En cas de no ser titular d’aquest document, es considera que és una persona menor d’edat no acompanyada.
+2. La persona responsable que acompanya el menor d’edat ha de vetllar en tot moment, durant l’exercici de la caça, perquè la persona menor d’edat estigui al seu costat i compleixi la legislació vigent en la matèria, entre altres obligacions establertes en aquesta Llei i la normativa que la desenvolupi.
+3. Els incompliments de la persona menor d’edat durant l’exercici de la caça poden ser objecte de responsabilitat per part de la persona responsable que acompanya la persona menor d’edat.
 
 **Article 29. Persones acompanyants**
 
@@ -209,7 +250,9 @@ Les modalitats d’ús de reclams o d’aparells reproductors de sons, de silenc
 
 **Article 37. Prohibicions**
 
-$26
+1. A excepció que s’utilitzin en les operacions de regulació previstes a l’article 6.3, està prohibit portar i utilitzar per caçar els ginys i els mètodes següents:
+a) Llaços de tota mena, paranys, xarxes, branques amb lliga, hams, fures o altres mitjans o mètodes similars.b) Aparells elèctrics capaços de matar o atordir, miralls o altres objectes enlluernadors.c) Equipaments de visió nocturna no regulats reglamentàriament, aparells d’il·luminació de blancs, dispositius de mira amb convertidor d’imatge electrònica, de raigs làser i de característiques similars, adaptables i no adaptables a les armes i els equipaments que en permetin l’acoblament a l’arma.d) Explosius, verins, soporífers, esquers emmetzinats o amb tranquil·litzants; gasos o fums; animals vius utilitzats com a reclam.e) Pistoles d’aire comprimit.f) Armes semiautomàtiques amb carregador de més de dos cartutxos, sense comptar el de la recambra; és a dir que el màxim permès és de tres trets amb armes semiautomàtiques, fusells i escopetes. La tinença de carregadors de capacitat superior a dos cartutxos també és prohibida.g) Aeronaus tripulades o no tripulades, i qualsevol mitjà de transport mecànic o giny. No s’entén dins d’aquesta prohibició la utilització de qualsevol vehicle de transport o giny en els desplaçaments.h) En la caça amb arc o ballesta queden prohibides totes les puntes de fletxa no permeses reglamentàriament.i) Mètodes contraris a l’art de la caça en general.
+2. Resta prohibit destorbar o impedir intencionadament la lliure pràctica de la caça o malmetre o treure les senyalitzacions que delimiten les zones de batuda o altre material emprat per a la caça.
 
 ### Títol VIII. Comissió de Seguiment de la Caça
 
@@ -219,29 +262,53 @@ La federació encarregada de la caça, l’Associació de Pagesos i Ramaders d�
 
 **Article 39. Comissió de Seguiment de la Caça**
 
-$28
+1. La Comissió de Seguiment de la Caça és un òrgan de caràcter consultiu, que està format per les persones membres següents:
+a) La persona que encapçala el ministeri encarregat de la caça, que exerceix la presidència de la Comissió.b) La persona que ostenta la presidència de la federació encarregada de la caça, que exerceix la vicepresidència de la Comissió.c) La persona que ostenta la direcció o n’és la màxima responsable del departament ministerial encarregat de la caça.d) La persona que ostenta la direcció o n’és la màxima responsable del departament ministerial encarregat de l’agricultura.e) La persona que ostenta un càrrec de comandament de l’àrea ministerial responsable de la caça.f) La persona que ostenta la direcció o un càrrec de comandament del Cos de Banders.g) Una persona representant de l’àrea ministerial responsable de la caça.h) La persona que ocupa la plaça de tècnic de l’àrea ministerial responsable de la caça, que exerceix la secretaria de la Comissió.i) Tres persones designades per la federació encarregada de la caça.j) Tres persones designades per l’Associació de Pagesos i Ramaders d’Andorra.k) Dos persones designades per les associacions protectores d’animals i de defensa de la natura.
+2. Els objectius i les funcions de la Comissió de Seguiment de la Caça són, a títol enunciatiu i no exhaustiu, els següents:
+a) Anàlisi i seguiment dels plans de gestió de les espècies caçables.b) Anàlisi i seguiment dels plans de caça de les espècies sotmeses a un pla de caça.c) Anàlisi de la legislació i de la reglamentació, i proposta de millores.d) Anàlisi dels paràmetres específics per a cada temporada de caça i per a cada espècie caçable: dates d’obertura i tancament, dies hàbils, tarifes per a les llicències de caça i modalitats de caça.e) Anàlisi dels plans de repoblació o introducció cinegètica en coherència amb els plans de gestió de les espècies caçables.
+3. El funcionament de la Comissió de Seguiment de la Caça es regula reglamentàriament.
 
 ### Títol IX. Règim sancionador
 
 **Article 40. Disposicions generals**
 
-$2a
+1. L’incompliment d’aquesta Llei dona lloc a infraccions lleus, greus o molt greus.
+2. Si en el decurs de la tramitació d’un expedient sancionador es manifesten indicis de conductes que poden constituir una infracció penal, l’òrgan competent per iniciar l’expedient, per indicació de l’instructor, quan escaigui, ho ha de fer saber a l’òrgan jurisdiccional competent, i ha de suspendre, tot seguit, la tramitació de l’expedient esmentat; això interromp el còmput dels terminis de prescripció fins que recaigui una resolució ferma en l’àmbit penal.
+3. Quan s’estigui instruint o jutjant un procés penal pels mateixos fets que han originat o han de comportar la incoació d’un expedient sancionador, o per altres fets que hi estiguin estretament vinculats, s’ha d’acordar la suspensió del procediment sancionador fins que recaigui una resolució en la via penal. En el cas que el procediment sancionador encara no hagués estat obert, s’ha d’adoptar l’acord d’incoació i se’n suspèn tot seguit la tramitació fins que recaigui una resolució en la via penal.
+4. La declaració de fets provats que pugui fer el tribunal penal és vinculant per als òrgans administratius respecte dels procediments sancionadors que tramitin.
+5. Sense perjudici de les responsabilitats administratives o penals en què hagin pogut incórrer, els infractors han de satisfer l’import dels danys i els perjudicis ocasionats.
 
 **Article 41. Sancions**
 
-$2c
+1. La sanció principal a les infraccions de les disposicions d’aquesta Llei és la multa.
+2. Les sancions accessòries són les següents:
+a) La suspensió del permís de caça.b) La inhabilitació per a l’acció de caça. Aquesta sanció comporta l’anul·lació del permís de caça i la impossibilitat de tornar-lo a sol·licitar durant el termini que estableixi la resolució sancionadora. Un cop finalitzat el termini d’inhabilitació, per obtenir de nou el permís de caça, la persona ha de superar el procés d’avaluació vigent.c) Comís definitiu i destí de la peça.
+3. Tota condemna penal ferma a la privació del permís d’arma o permís de caça comporta la inhabilitació de la persona caçadora i l’anul·lació del permís de caça pel mateix termini que la privació penal. A aquest efecte, l’òrgan judicial que hagi imposat la condemna ha de notificar aquest punt al ministeri responsable de la caça.
+4. Tota sanció administrativa ferma d’inhabilitació per a la possessió d’armes comporta la inhabilitació de la persona caçadora i l’anul·lació del permís de caça. L’òrgan que hagi imposat amb caràcter definitiu la dita sanció ha de notificar aquest punt al ministeri responsable de la caça.
+5. Finalitzat el termini establert en aquestes resolucions, la persona inhabilitada que desitgi obtenir de nou el permís de caça ha de superar el procés d’avaluació vigent.
 
 **Article 42. Infraccions i sancions lleus**
 
-$2e
+1. Són infraccions administratives lleus, sancionades amb multa d’un import de 100 €, les següents:
+a) Retornar, fora del període establert reglamentàriament, el sistema de marcatge expedit pel Govern de captura d’espècies sotmeses a un pla de caça.b) Caçar essent titular del permís i de la llicència de caça, del permís d’arma i l’assegurança i no poder acreditar ser titular d’aquests documents.c) No respectar els preceptes que estableix l’autorització lliurada pel ministeri per al control d’espècies regulables.d) Deixar les restes o part de la peça capturada en llocs propers als camins o zones transitades per altres usuaris de la muntanya.e) No comunicar la captura de les espècies definides reglamentàriament en el temps establert quan sigui preceptiu fer-ho.f) En relació amb les espècies sotmeses a un pla de caça, no registrar el sistema de marcatge de l’animal o registrar-lo incorrectament o de manera incompleta, havent comunicat la captura al Cos de Banders.g) Estar en acció de caça i no dur el sistema de marcatge essent adjudicatari d’una peça.h) Retornar el sistema de marcatge d’espècies sotmeses a pla de caça amb anotacions o altres marques.i) Utilitzar erròniament el sistema de marcatge d’una altra peça d’un altre pla de caça del qual també s’és adjudicatari.j) Qualsevol altra acció o omissió que vulneri les disposicions d’aquesta Llei i de les disposicions reglamentàries que la desenvolupen i que no sigui constitutiva d’una infracció i sanció més greu.
+2. Són infraccions administratives lleus, sancionades amb una multa d’un import de 200 €, les següents:
+a) Emprar gossos sense la diligència deguda per evitar que causin danys.b) En relació amb les espècies sotmeses a un pla de caça, sense fer diferència de classes d’edat de l’animal, no retornar el sistema de marcatge de l’animal quan està definit reglamentàriament com a intransferible entre persones caçadores.c) Capturar una peça adjudicada en un pla de caça, fora de la unitat de gestió, essent adjudicatari de la llicència de caça corresponent, havent anellat la captura i havent-ho comunicat al Cos de Banders.d) Capturar un exemplar de gènere o edat diferent de la peça adjudicada en un pla de caça, havent-ho comunicat al Cos de Banders abans d’anellar la captura.e) Trossejar una peça o transportar-la trossejada, sense estar autoritzat pel Cos de Banders però havent-ho comunicat.f) Capturar espècies sotmeses a un pla de caça identificades amb distintius o equipats amb emissors, havent-ho comunicat al Cos de Banders abans de marcar la peça capturada.g) El transport de qualsevol peça de caça a la vista, en carreteres obertes a la circulació de vehicles, i nuclis urbans i zones urbanitzades.h) Emprar gossos en la caça d’espècies i modalitats definides reglamentàriament d’acord amb el que està establert a l’article 35.4, sense l’autorització del Cos de Banders, quan aquesta autorització sigui preceptiva.i) Estar en acció de caça amb el període de vigència del permís de caça vençut.
+3. Són infraccions administratives lleus, sancionades amb una multa d’un import de 300 €, les següents:
+a) No dur posada i a la vista una peça de roba d’alta visibilitat de color taronja quan s’està en acció de caça en modalitat de batuda, segons correspongui.b) Infringir les mesures de seguretat, complementàries a la Llei, establertes reglamentàriament.c) No senyalitzar degudament les zones on s’està duent a terme una batuda.d) Emprar gossos en la pràctica de la caça de manera no definida reglamentàriament.e) No comunicar la pèrdua d’un gos en el termini màxim de 24 hores a comptar del moment de finalització de la jornada de caça.f) Capturar una peça adjudicada sotmesa a pla de caça i no dur el sistema de marcatge, havent-ho comunicat al Cos de Banders.g) Emprar gossos en la caça d’espècies sotmeses a pla de caça quan no estigui permès.h) Portar l’arma descarregada i sense enfundar en les zones de seguretat definides a l’article 17.1.b), d), f), h) i i).i) Estar en acció de caça amb el període de vigència del permís d’arma vençut.j) Marcar la peça capturada incomplint les disposicions reglamentàries, havent-ho comunicat al Cos de Banders.
 
 **Article 43. Infraccions i sancions greus**
 
-$30
+1. Són infraccions administratives greus, sancionades amb una multa d’un import de 500 €, i la suspensió del permís de caça durant un termini d’un any, les següents:
+a) Caçar espècies caçables no sotmeses a pla de caça dins del període hàbil establert i fora dels dies hàbils corresponents. S’aplica un suplement de 50 € per cada espècie capturada.b) Excedir les limitacions establertes reglamentàriament de captura i transport per dia i per persona caçadora de les espècies caçables no sotmeses a pla de caça. S’aplica un suplement de 50 € per cada espècie capturada en excés.c) Caçar infringint la normativa en relació amb la utilització d’armes semiautomàtiques establertes a l’article 37.1.f).d) Infringir el que està establert reglamentàriament en relació amb l’ús de reclams o aparells reproductors de sons.e) Capturar una peça sotmesa a pla de caça fora del període hàbil essent adjudicatari de la llicència corresponent i havent-ho comunicat al Cos de Banders.f) Capturar una peça sotmesa a pla de caça essent adjudicatari d’una llicència fora dels dies hàbils i dins del període hàbil corresponent, i havent-ho comunicat al Cos de Banders.g) Capturar una peça sotmesa a pla de caça excedint el nombre de captures adjudicades i havent-ho comunicat al Cos de Banders en el moment de cometre la infracció. S’aplica un suplement de 300 € per cada espècie capturada en excés.h) Destruir o malmetre les instal·lacions i els rètols indicadors destinats a la protecció, el foment i la informació de la fauna i de les zones de caça.i) Destorbar la lliure pràctica de la caça, o malmetre o treure senyalitzacions que delimiten les zones de batuda o altres materials emprats per a la caça.j) Registrar incorrectament el sistema de marcatge expedit pel Govern, d’espècies sotmeses a un pla de caça, havent anellat la peça.k) Dur l’arma descarregada i sense enfundar dins de qualsevol vehicle o giny en desplaçament.
+2. Són infraccions administratives greus, sancionades amb una multa d’un import de 1.500 € i la suspensió del permís de caça durant un termini de dos anys, les següents:
+a) Capturar un espècie sotmesa a pla de caça, essent adjudicatari de la llicència corresponent, fora de la unitat de gestió d’on s’aplica el pla, en terreny cinegètic comú.b) Capturar un exemplar de gènere diferent de la peça adjudicada d’espècies sotmeses a un pla de caça.c) Capturar, marcar i registrar amb el sistema de marcatge un exemplar diferent de la peça adjudicada sotmesa a un pla de caça, amb puntuació de trofeu, i havent-ho comunicat al Cos de Banders.d) Retornar el sistema de marcatge expedit pel Govern de manera no reglamentària.
 
 **Article 44. Infraccions i sancions molt greus**
 
-$32
+1. Són infraccions administratives molt greus, sancionades amb una multa de 2.000 € i la inhabilitació per a l’exercici de la caça durant un termini de tres anys, les següents:
+a) Caçar una espècie no caçable.b) Estar en acció de caça i no ser titular d’una pòlissa d’assegurances de responsabilitat civil vigent.c) No complir les indicacions de l’agent del Cos de Banders en els supòsits de caça acompanyada.d) Exercir la caça utilitzant armes no permeses o amb una finalitat diferent de la permesa segons l’article 33.e) Caçar utilitzant pistoles d’aire comprimit o un fusell d’aire comprimit amb infracció del que està establert reglamentàriament.f) Caçar amb arc o ballesta utilitzant fletxes o puntes de fletxes no autoritzades.g) Controlar amb qualsevol sistema o mitjà els moviments dels agents del Cos de Banders amb la finalitat de facilitar la caça fraudulenta.h) Amagar les peces i els estris de caça, tant si es fa personalment com si s’encomana a altres persones, amb la finalitat de facilitar la caça fraudulenta.i) Infringir la normativa d’importació i exportació de les peces de caça o de comercialització de la seva carn.j) Fer qualsevol repoblació amb espècies caçables sense l’autorització prèvia del ministeri responsable del medi ambient.k) Estar en acció de caça amb l’arma carregada en les zones de seguretat definides en l’article 17 o portar l’arma sense enfundar a les zones de seguretat de l’article 17.1.a), c)ie).l) Caçar espècies sotmeses a pla de caça dins del període hàbil establert, però fora dels dies hàbils corresponents.m) No sotmetre a control les peces capturades de les espècies definides reglamentàriament, en el termini establert.n) No retornar el sistema de marcatge d’espècies sotmeses a pla de caça, definit reglamentàriament com a transferible entre persones caçadores, o com a intransferible, en un pla de caça, fent diferència de classes d’edat de l’animal.o) Deixar al medi o abandonar en qualsevol lloc les restes o part de la peça capturada de les espècies determinades reglamentàriament, sense obtenir l’autorització corresponent del Cos de Banders.p) Capturar exemplars sotmesos a pla de caça, identificats amb distintius o equipats d’emissors definits reglamentàriament.q) Caçar, essent una persona caçadora menor d’edat, sense estar acompanyat d’acord amb el que preveu l’article 22.r) Registrar de manera incompleta el sistema de marcatge expedit pel Govern de captura d’espècies sotmeses a un pla de caça, havent anellat la peça capturada.s) Caçar espècies no sotmeses a pla de caça fora del període hàbil sense autorització.
+2. Són infraccions administratives molt greus, sancionades amb multa d’un import de 4.000 € i la inhabilitació per a l’exercici de la caça durant un termini de quatre anys, les següents:
+a) Estar en acció de caça sense ser titular de la llicència de caça.b) Estar en acció de caça sense ser titular del permís de caça.c) Estar en acció de caça i no ser titular del permís d’arma o tenir-lo suspès o en situació de privació.d) Caçar en els límits de les zones de seguretat sense fer-ho d’esquena a aquestes zones.e) Estar en acció de caça en zones prohibides temporalment d’acord amb l’article 32.f) Caçar utilitzant llaços de tota mena, paranys, xarxes, branques amb lliga, hams, fures o altres mitjans o mètodes similars sense autorització.g) En acció de caça, tenir a l’abast silenciadors o fer-ne ús, infringint les disposicions establertes reglamentàriament.h) En acció de caça, tenir a l’abast aparells d’infrarojos o tèrmics, equipaments de visió nocturna, fonts lluminoses artificials i/o els equipaments que permetin acoblar-los a l’arma, o fer-ne ús, infringint les disposicions establertes reglamentàriament.i) Caçar utilitzant equipaments de visió nocturna no regulats reglamentàriament, aparells elèctrics capaços de matar o atordir, miralls o altres objectes enlluernadors, aparells d’il·luminació de blancs, dispositius de mira amb convertidor d’imatge electrònica, de raigs làser i de característiques similars, adaptables i no adaptables a les armes, i els equipaments que permetin acoblar-los a l’arma.j) Caçar utilitzant explosius, verins, soporífers, esquers emmetzinats o amb tranquil·litzants, gasos o fums i animals vius com a reclam.k) Caçar utilitzant qualsevol mitjà de transport mecànic, giny o aeronau tripulada o no tripulada.l) Tenir una arma carregada en qualsevol vehicle, mitjà de transport mecànic o giny, o desplaçar-se amb una arma carregada en qualsevol vehicle, mitjà de transport mecànic o giny.m) No marcar la peça capturada sotmesa a pla de caça amb el sistema de marcatge o no registrar cap de les dades del sistema de marcatge, segons el que s’estableix reglamentàriament.n) Capturar una espècie sotmesa a pla de caça amb el sistema de marcatge d’una altra persona caçadora, sempre que la normativa estableixi que aquest sistema és intransferible.o) Transferir el sistema de marcatge d’una espècie sotmesa a pla de caça a una altra persona caçadora o entre colles, sempre que la normativa estableixi que aquest sistema és intransferible.p) Manipular, deteriorar o tancar indegudament el sistema de marcatge d’una espècie sotmesa a pla de caça, amb l’objecte de fer-ne un ús fraudulent.q) Desplaçar o transportar qualsevol peça sotmesa a pla de caça de manera no reglamentària, sense haver-ho comunicat al Cos de banders.r) No col·laborar, impedir les tasques i obstruir l’exercici de les funcions d’inspecció i control dels agents del Cos de Banders, d’acord amb les competències atribuïdes per la legislació aplicable, incloses les faltes de respecte o desconsideració greus.s) Caçar espècies sotmeses a pla de caça fora del període hàbil sense autorització.t) Caçar de nit sense autorització.u) Fer qualsevol repoblació o introducció amb espècies caçables que pugui provocar o provoqui pol·lució genètica o risc sanitari entre la població de fauna autòctona.v) Portar armes en vedats de caça sense autorització.w) Estar en acció de caça en un vedat de caça sense autorització.x) Portar armes en vedats temporals de caça sense autorització.y) Estar en acció de caça en un vedat temporal sense autorització.z) Practicar la caça sense respectar les limitacions per practicar-la quan està autoritzada.aa) Capturar una peça d’una espècie sotmesa a pla de caça excedint el nombre de captures adjudicades.
 
 **Article 45. Infraccions de la persona responsable que acompanya la persona menor d’edat**
 
@@ -273,12 +340,29 @@ En el cas que s’hagi d’imposar una sanció accessòria de suspensió o d’i
 
 **Article 50. Procediment sancionador simplificat**
 
-$34
+1. El procediment sancionador s’inicia mitjançant l’atestat de constatació per part dels agents del Cos de Banders de la comissió d’una o més d’una infracció segons el que preveu aquesta Llei. Aquest atestat de constatació, que té la consideració de denúncia, s’ha de notificar a la persona objecte de l’expedient i ha de contenir la data de la presumpta infracció, una descripció detallada dels fets, les disposicions legals infringides, l’import de la sanció que comporta la infracció, una indicació clara del termini per formular al·legacions i, si escau, la sanció accessòria i la mesura cautelar adoptada.
+En el cas que en el moment de la constatació de la infracció els agents del Cos de Banders no estiguessin en disposició de determinar les disposicions legals infringides, han de fer un atestat en què ha de constar una descripció detallada dels fets, que s’ha de notificar al presumpte infractor, i, en el més termini breu possible, cal notificar la denúncia al presumpte infractor en què han de constar les indicacions mínimes anteriors.
+2. La persona objecte de l’expedient disposa d’un termini improrrogable de deu dies hàbils, a comptar de l’endemà de la notificació de la denúncia, per formular les al·legacions, aportar la documentació i, en el seu cas, proposar la pràctica de les proves que consideri escaients.
+3. Si la persona objecte de l’expedient presenta al·legacions durant el termini esmentat a l’apartat anterior, l’expedient sancionador es completa amb aquestes al·legacions i els documents que s’hi acompanyen eventualment, i s’eleva a l’òrgan competent perquè dicti la resolució corresponent.
+En cas que es proposi la pràctica de proves, l’instructor pot ordenar la pràctica de les mateixes i totes les que consideri procedents i ha de refusar, de manera motivada, les que resultin improcedents o innecessàries. Un cop practicades, es dona vista a l’expedient a la persona objecte de l’expedient i se li atorga un nou termini de 10 dies hàbils perquè al·legui el que estimi convenient. Un cop transcorregut el dit termini, l’expedient sancionador es completa i s’eleva a l’òrgan competent perquè dicti resolució.
+4. Aquesta resolució s’ha de notificar a la persona sancionada. Contra la resolució es pot interposar un recurs administratiu d’acord amb el que està establert a la Llei 14/2023, del 3 de juliol, de text consolidat del Codi de l’Administració.
+5. En cas que hagi transcorregut el termini de deu dies hàbils que preveu l’apartat 2 d’aquest article sense que la persona objecte de l’expedient hagi fet al·legacions, l’expedient sancionador es considera resolt de manera ferma i definitiva, i la resolució es considera notificada degudament, d’acord amb les infraccions, la multa i la sanció accessòria que s’hagin fet constar a la denúncia, les quals esdevenen executives. La mesura cautelar de comís adoptada també esdevé definitiva.
+6. La persona sancionada disposa del termini d’un mes per fer efectiu l’import de la sanció a comptar de l’endemà del dia en què s’hagi de considerar notificada la resolució, segons els apartats 3 i 5 anteriors. Un cop transcorregut el termini d’un mes sense que la persona sancionada hagi fet efectiu l’import de la sanció i sense que hagi interposat un recurs contra la resolució dictada, s’executa de manera forçosa. En aquest cas, s’aplica automàticament un recàrrec del 20% sobre l’import de la sanció.
 
 **Article 51. Mesures cautelars**
 
-$36
+1. En la denúncia hi han de constar les mesures cautelars següents:
+a) Suspensió del permís de caça en cas de comissió d’infracció greu i molt greu.b) Comís de la peça capturada en cas de comissió de les infraccions dels articles 42.2c), d), f); i en cas de comissió d’infracció greu o molt greu.c) Comís de l’arma utilitzada en la comissió d’infracció molt greu.d) Comís d’estris prohibits o il·legals en la comissió d’infracció molt greu.
+2. Les mesures cautelars són efectives a comptar de l’endemà de la notificació de la denúncia.
+El temps de suspensió del permís de caça s’ha de tenir en compte a l’efecte de computar el període de la sanció accessòria de suspensió del permís de caça i de la sanció accessòria d’inhabilitació.
+3. En el cas que la persona infractora tingui la condició de no-resident, queda obligada, abans d’abandonar el país, a constituir un dipòsit de la quantia màxima de la possible sanció prevista a la denúncia, a més del comís de la peça capturada, de l’arma i els estris emprats, en tots els supòsits d’infracció lleu, greu i molt greu, amb l’objecte d’assegurar el compliment de la sanció imposada.
+4. Els béns comissats queden embargats i en dipòsit a càrrec del Govern, fins a l’abonament de la multa, llevat que per resolució administrativa o judicial ferma es disposi altrament.
+En els casos de comís de la peça capturada, el Govern pot decidir-ne la comercialització, segons el que està establert reglamentàriament.
+5. En el cas que els béns comissats siguin estris prohibits o il·legals, quedaran comissats de manera definitiva i el Govern podrà decidir-ne el seu destí.
 
 **Article 52. Compliment de les sancions**
 
-$38
+1. En cas que la persona sancionada pagui voluntàriament l’import de les sancions per les infraccions tipificades en aquesta Llei com a lleus en el moment en què es notifica la denúncia, o dins del termini dels deu dies hàbils següents, l’import de la multa imposada es redueix en un 40%.
+2. El pagament voluntari de les multes imposades comporta:
+a) La conformitat i la fermesa de la resolució sancionadora imposada amb efectes plens a comptar del dia en què es fa el pagament.b) La renúncia a presentar al·legacions i que, en cas que se’n facin, es tinguin per no formulades.c) La finalització i l’arxivament del procediment sancionador en el mateix moment en què es fa el pagament, sense que calgui dictar una resolució expressa a aquest fi. A aquest efecte, serveix el document acreditatiu de pagament.
+3. L’inici del còmput del termini de compliment de les sancions accessòries de suspensió del permís de caça o d’inhabilitació és a comptar de l’endemà de la notificació de la mesura cautelar de suspensió del permís de caça.

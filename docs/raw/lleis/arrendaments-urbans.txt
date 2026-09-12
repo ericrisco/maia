@@ -137,25 +137,59 @@ La renda s’actualitza en les condicions pactades al contracte.
 
 **Article 22. 1.**
 
-$1e
+1. A més a més de la renda, l’arrendatari està obligat a pagar, a l’arrendador o bé directament al subministrador que correspongui, les despeses que originen els serveis i els subministraments del que gaudeixi sempre que es corresponguin amb consums de caràcter individual que puguin ser clarament identificables. Tenen aquesta consideració el servei de porteria i els subministraments d’aigua, electricitat, gas, calefacció, aire condicionat, telèfon i altres anàlegs.
+2. Per efectuar-ne el cobrament, l’arrendador ha de justificar a l’arrendatari la quantitat que li correspon pagar per aquests serveis i subministraments. Per determinar el cost individual de cada servei, si les finques que en gaudeixen són més d’una i no hi ha comptadors individuals, el cost total es distribueix entre elles en funció de la superfície de cada finca.
+3. Es vàlid el pacte en què es convé el pagament d’una suma preufetera per a tots o determinats serveis.
+4. L’import dels serveis, quan siguin deguts a l’arrendador, és complementari a la renda, però s’hi assimila als efectes de desnonament per manca de pagament.
+5. En el supòsit que s’hagi pactat que l’arrendatari contracti directament amb el subministrador que correspongui els serveis d’aigua, electricitat, gas, telèfon o altres similars, aquest contracte només és vàlid si l’arrendatari ha aportat a la companyia corresponent el contracte d’arrendament de la finca signat degudament per les parts.
 
 **Article 23. 1.**
 
-$20
+1. En el cas que es pactin els serveis de calefacció i d’aigua calenta, s’ha d’especificar en el contracte:
+a) El període de l’any i les hores del dia en què han de prestar-se. En cas de no fixar-se s’entén que l’aigua calenta es presta durant tot l’any i les 24 hores del dia, i la calefacció, entre el dia 1 de novembre i el 30 d’abril si la finca es troba a una cota inferior als 1.200 metres, entre el 15 d’octubre i el 15 de maig si es troba a una cota superior als 1.200 metres i inferior als 1.400, i entre el dia 1 d’octubre i el 31 de maig si es troba a una cota superior als 1.400 metres, i des de les 6 fins a les 24 hores en tots els casos.b) El cost del servei per al primer any i les bases de l’actualització per als successius, tenint en compte necessàriament el cost de l’energia emprada i els altres factors que influeixen en el cost.
+En cas que s’hagi pactat el pagament d’una suma preufetera per a tots o determinats serveis, aquest import únicament es pot actualitzar prèvia acreditació per part de l’arrendador de l’increment en el preu dels serveis en relació amb l’any anterior i sempre que es pugui determinar quin és el consum individualitzat corresponent a la unitat immobiliària arrendada.
+2. Si algun dels serveis a càrrec de l’arrendador no es presta, o bé es presta de forma notòriament irregular o deficient, l’arrendatari no ha de satisfer l’import del servei durant el temps de la prestació deficient.
+3. Si la falta de prestació del servei era deguda a culpa o negligència de l’arrendador, l’arrendatari té dret, endemés, a rebre una indemnització igual a l’import del servei durant el temps de la prestació deficient, si bé aquest dret d’indemnització no l’eximeix de l’obligació de pagar la renda.
+4. Altrament, si la falta de prestació del servei era deguda a dol de l’arrendador, sense perjudici de les accions que corresponguin a l’arrendatari, aquest queda eximit del pagament de la renda per tot el temps que hagi durat la falta de prestació.
+5. En els supòsits dels apartats 2, 3 i 4 d’aquest article, si la irregularitat, la deficiència o la manca de prestació dels serveis s’han perllongat durant un període de dos mesos consecutius, o quatre mesos discontinus en el termini d’un any, l’arrendatari pot, a més a més, renunciar unilateralment al contracte abans del transcurs del termini pactat, sense necessitat de preavís ni obligació d’indemnitzar l’arrendador en els termes que preveuen els apartats 2 i 3 de l’article 18 d’aquesta Llei.
 
 **Article 24. 1.**
 
-$24
+1. La realització per l’arrendador d’obres de millora en la cosa arrendada o en els elements i serveis comuns de la finca, interiors o exteriors, li dona dret, excepte si hi ha un pacte en contrari, d’elevar la renda anual en la suma que resulti d’aplicar, al capital invertit en la millora, el tipus d’interès legal del diner en el moment de l’acabament de les obres, però l’augment no pot excedir el 15% de la renda. En el supòsit que es tracti d’obres per fer accessible l’habitatge a l’arrendatari, el cònjuge o els altres familiars de la unitat familiar de convivència que estiguin afectats per una discapacitat, no es pot incrementar la renda.
+2. En el cas de diversos arrendataris d’una mateixa finca, el repartiment es fa en proporció a la superfície arrendada.
+3. Si en la mateixa finca hi ha habitatges i locals de negoci, l’increment de la renda no s’aplica a aquests darrers quan les millores beneficien únicament els ocupants dels habitatges i viceversa.
+4. Es consideren obres de millora totes aquelles que no són necessàries per conservar la cosa arrendada en estat de servir per a l’ús convingut.
+5. El dret de revisió de la renda previst en aquest article només el pot exercir l’arrendador quan hagi transcorregut el termini mínim legal de durada de l’arrendament o de qualsevol de les pròrrogues, sempre que l’arrendador hagi notificat per escrit la seva intenció a l’arrendatari amb una antelació mínima de tres mesos.
 
 #### Capítol setè. De les obligacions de les parts
 
 **Article 25. L’arrendador està obligat a:**
 
-$26
+L’arrendador està obligat a:
+1. Lliurar a l’arrendatari la finca objecte del contracte, de forma que estigui en condicions de servir a l’ús a què està destinada.
+2. Facilitar a l’arrendatari informació suficient sobre les característiques tècniques, les instal·lacions i els serveis de l’habitatge o local de negoci.
+3. Lliurar a l’arrendatari una còpia del certificat d’habitabilitat.
+4. Efectuar en la finca arrendada i en les seves instal·lacions, les reparacions necessàries perquè pugui continuar destinant-se a la finalitat per a la qual va ésser arrendada. Se n’exceptuen aquelles reparacions que siguin conseqüència dels danys a què es refereix l’apartat 10è de l’article següent que van a càrrec de l’arrendatari. A títol purament enunciatiu, es consideren reparacions a càrrec de l’arrendador les que afecten l’estructura de l’immoble, la coberta, les façanes, el vestíbul i l’escala, les instal·lacions generals i la resta d’elements d’ús comú.
+5. Tenir subscrita i mantenir vigent una pòlissa d’assegurança que cobreixi suficientment els danys i perjudicis que puguin ocasionar-se a l’arrendatari i a tercers. L’arrendatari està legitimat per exigir a l’arrendador la presentació de la pòlissa d’assegurances corresponent a la finca arrendada. En cas que l’arrendador no la hi exhibeixi, l’arrendatari pot sol·licitar prop de la companyia d’assegurances contractada per l’arrendador una certificació de la vigència de la pòlissa esmentada mentre sigui vigent el contracte d’arrendament.
+6. Garantir a l’arrendatari l’ús pacífic i el gaudiment de la cosa arrendada durant tot el temps del contracte.
+7. Consentir la instal·lació d’antenes de ràdio i de televisió en la forma prevista per l’òrgan administratiu competent i d’acord amb la normativa vigent i sempre en la forma que perjudiqui menys l’estètica de l’edifici.
+8. Pagar les despeses de redacció del contracte d’arrendament.
 
 **Article 26. L’arrendatari està obligat a:**
 
-$28
+L’arrendatari està obligat a:
+1. Pagar la renda o el preu de l’arrendament i, quan escaigui, les quantitats complementàries, en els termes pactats i, en defecte de pacte, en la forma prevista en els articles 20 i 22 d’aquesta Llei.
+2. Usar la finca arrendada i les instal·lacions i els serveis amb la diligència pròpia d’un bon pare de família, i destinar-la a l’ús pactat i, en tot cas, al que resulti de la seva naturalesa i de la finalitat per a la qual fou bastida.
+3. Efectuar en la finca arrendada o en les seves instal·lacions, aquelles petites reparacions que siguin conseqüència del desgast per l’ús ordinari.
+4. Consentir l’entrada de l’arrendador a la finca arrendada, per tal d’inspeccionar-la, en hores diürnes a convenir.
+5. Tolerar les reparacions en la finca arrendada. Si les reparacions duren més de trenta dies, l’arrendatari té dret que se li disminueixi la renda, durant el temps de les reparacions, en proporció a la part de la finca de què hagi estat privat, llevat que es tracti de reparacions a les zones comunitàries que no siguin d’ús privatiu de la finca arrendada. Si les reparacions tenen una durada prevista superior a dos mesos consecutius, o quatre mesos discontinus en el termini d’un any, i impedeixen que la finca pugui destinar-se a la finalitat per a la qual va ser arrendada, l’arrendatari pot resoldre unilateralment el contracte abans del transcurs del termini pactat sense necessitat de preavís ni obligació d’indemnitzar l’arrendador en els termes que preveuen els apartats 2 i 3 de l’article 18 d’aquesta Llei.
+6. Posar en coneixement de l’arrendador qualsevol novetat danyosa que es produeixi a la finca arrendada.
+7. Tenir subscrita i mantenir vigent una pòlissa d’assegurança que cobreixi suficientment els danys i perjudicis que puguin ocasionar-se a l’arrendador i a terceres persones. L’arrendador està legitimat per exigir a l’arrendatari la presentació de la pòlissa d’assegurances corresponent a la finca arrendada. En cas que l’arrendatari no la hi exhibeixi, l’arrendador pot sol·licitar prop de la companyia d’assegurances contractada per l’arrendatari una certificació de la vigència de la pòlissa esmentada mentre sigui vigent el contracte d’arrendament.
+8. Retornar la finca a la fi de l’arrendament tal com l’ha rebut, salvat el deteriorament causat pel pas del temps i l’ús normal, o per causa inevitable. No obstant això, si el contracte ha tingut una durada inferior o igual al termini mínim que estableix aquesta Llei, llevat del supòsit previst a l’apartat 3 de l’article 62, l’arrendatari ha de retornar la finca tal com la va rebre, també pel que fa a les instal·lacions i la pintura. En qualsevol cas, si en el contracte no s’expressa quin era l’estat de la finca en el moment de l’inici de l’arrendament, s’entén que estava en bon estat, llevat que es provi el contrari.
+9. Mentre el retorn no es dugui a terme, i sempre que no s’hagi pactat expressament un règim diferent, continuar pagant les rendes, actualitzades quan escaigui, a títol d’indemnització per l’ocupació indeguda.
+10. Respondre dels danys ocasionats a la finca arrendada, llevat que provi que s’han ocasionat sense culpa seva ni de les persones que conviuen amb ell.
+11. Obtenir el permís escrit de l’arrendador per fer obres que modifiquin la configuració de la finca arrendada, o que debilitin la naturalesa o la resistència dels materials emprats en la seva construcció.
+12. Cedir les dades de consum elèctric perquè la part arrendadora pugui elaborar l’etiqueta energètica mitjançant el mètode simplificat.
 
 **Article 27. Si l’arrendador o l’arrendatari incompleixen les obligacions que els imposen els articles anteriors, la part afectada per l’incompliment pot demanar l**
 
@@ -175,11 +209,19 @@ Quan per ordre de l’autoritat competent hagin d’executar-se obres que impede
 
 **Article 30. 1.**
 
-$2c
+1. L’arrendament s’extingeix per les causes següents:
+a) Expiració del termini pactat.b) Pèrdua o destrucció de la finca arrendada. S’entén que es produeix pèrdua quan la finca deixa de servir per a la destinació per a la qual fou construïda.c) Alienació de la finca arrendada, sempre que hagi vençut el termini de duració mínim previst per aquesta Llei, quan sigui el cas, i sense perjudici de la indemnització a què pugui donar lloc. En cas contrari, el comprador se subroga en els drets i deures de l’anterior propietari.d) Declaració de ruïna o expropiació forçosa de la finca arrendada.e) En els demés supòsits que preveu aquesta Llei.
+2. La mort de l’arrendatari no és causa d’extinció del contracte fins que s’arriba al termini pactat si concorren els requisits que estableixen els articles 44 i 67 d’aquesta Llei per als arrendaments d’habitatge i de local per a negoci, respectivament.
+3. El comprador amb pacte de retro no pot usar la facultat de desnonar l’arrendatari fins que hagi transcorregut el termini per exercir el retracte.
 
 **Article 31. A banda de les causes previstes a l’article anterior, l’arrendador pot donar per resolt l’arrendament i demanar el desnonament de l’arrendatari per le**
 
-$2e
+A banda de les causes previstes a l’article anterior, l’arrendador pot donar per resolt l’arrendament i demanar el desnonament de l’arrendatari per les causes següents:
+1. La manca de pagament de la renda, dels seus increments i de les quantitats complementàries assimilades a la renda per serveis, subministraments, despeses i taxes. Aquesta causa no és vàlida quan el que ha existit no és una manca de pagament, sinó una manca de cobrament per part de l’arrendador.
+2. El sotsarrendament, o la cessió total o parcial de la finca arrendada, sense autorització de l’arrendador.
+3. L’incompliment per l’arrendatari de les condicions essencials del contracte o de les que s’hagin pactat amb caràcter d’essencials.
+4. Que l’arrendatari, o les persones que introdueixi a la finca, hi ocasionin danys per dol o per imprudència temerària, o bé que hi duguin a terme, sense consentiment de l’arrendador, obres que modifiquin la configuració de la finca arrendada, o els elements comuns de l’immoble, o que debilitin la natura o la resistència dels materials emprats en la construcció.
+5. Que l’arrendatari, o les persones que hi convisquin, duguin a terme activitats que resultin notòriament immorals, perilloses, incòmodes o insalubres a l’interior de la finca arrendada o en els elements comuns. S’entén que es produeix incomoditat notòria quan l’arrendatari, amb l’activitat que duu a terme en la finca arrendada o amb la seva forma de comportar-se, públicament o privada, pertorba la pacífica convivència dels altres estadants de l’immoble.
 
 **Article 32. En les finques que es trobin en règim de parcel·lació cúbica o propietat horitzontal és causa de resolució, a més a més de les previstes per l’article**
 
@@ -238,7 +280,13 @@ Les normes del present capítol no s’apliquen als arrendaments regulats en els
 
 **Article 42. 1.**
 
-$30
+1. El termini de durada de l’arrendament d’habitatges per a residència habitual i permanent no pot ser inferior a cinc anys, excepte quan s’hagi pactat en el contracte que l’arrendador pot recuperar la finca arrendada en un termini no inferior a dos anys per destinar-la al seu ús propi o al dels seus familiars de primer o segon grau de consanguinitat, adopció o afinitat. El termini es compta des de la data de celebració del contracte o des de la posada a disposició de l’habitatge, si és posterior.
+Si la part arrendadora fa ús d’aquesta facultat, ha de notificar-ho a la part arrendatària amb una antelació mínima de tres mesos a la data en què es compleix l’anualitat i la part arrendatària ha de comunicar-ho al ministeri competent en matèria d’habitatge, a través del Servei de Tràmits del Govern, mitjançant una sol·licitud genèrica que ha d’anar acompanyada, si escau, de la notificació efectuada per la part arrendadora amb la justificació del parentiu.
+Amb la finalitat de garantir que l’ús de l’immoble s’adreça a l’habitatge habitual, la persona propietària o, si escau, la part arrendatària familiar han d’acreditar davant el ministeri competent en matèria d’habitatge, en el termini de 30 dies naturals posteriors a l’expiració del contracte, el canvi del cens corresponent i l’alta dels subministraments bàsics, així com la formalització escrita del contracte d’arrendament o, si escau, la cessió gratuïta. L’ús propi o la cessió de l’habitatge a favor de familiars prevista en aquest article ha de ser per un període mínim de cinc anys; llevat que no es pugui complir amb el referit període mínim degut a alguna causa de força major, separació, divorci, accident o malaltia de la part arrendadora o del familiar de primer o segon grau de consanguinitat, adopció o afinitat.
+2. Els arrendaments per als quals s’hagi convingut una durada inferior a cinc anys o aquells per als quals no s’hagi fixat cap termini, es consideren fets per un termini de cinc anys, si així li convé a l’arrendatari.
+3. Un cop ha acabat el termini mínim de vigència, el contracte es prorroga tàcitament per períodes d’un any, salvat que una part no avisi l’altra part de la voluntat de donar-lo per resolt amb una antelació mínima de tres mesos a la fi del termini principal o de qualsevol de les pròrrogues. Aquesta pròrroga no produeix efectes si l’arrendatari no es troba al corrent de les seves obligacions.
+4. Les disposicions dels apartats 1, 2 i 3 anteriors no són d’aplicació als contractes d’habitatges per a residència habitual i permanent on l’arrendatari sigui un estranger titular d’una autorització de residència temporal inferior a aquest termini, cas en el qual el termini màxim és el de la durada del permís de residència, sempre que aquesta circumstància i el termini pactat constin per escrit i sense que es pugui prorrogar el termini inicialment previst. La utilització d’aquest tipus de contracte per a supòsits diferents del previst anteriorment o la seva pròrroga comporta l’aplicació automàtica del termini mínim previst a l’apartat 1 anterior.
+5. En els contractes d'arrendament o de sotsarrendament atorgats per una persona física o jurídica a favor dels seus treballadors, que no es puguin considerar com a salari en espècie o com avantatge material, les disposicions dels apartats 1, 2 i 3 anteriors no són d'aplicació. La durada d'aquests arrendaments està directament vinculada a la vigència de la relació laboral entre les parts, sempre que aquesta circumstància i el termini pactat constin per escrit. La durada del contracte no pot ser prorrogada si deixa d'existir la vinculació laboral entre les parts.
 
 **Article 43. En els supòsits de nul·litat del matrimoni, separació o divorci de l’arrendatari, el seu cònjuge se subroga en el contracte d’arrendament, pel temps q**
 
@@ -246,7 +294,9 @@ En els supòsits de nul·litat del matrimoni, separació o divorci de l’arrend
 
 **Article 44. 1.**
 
-$34
+1. En cas de defunció de l’arrendatari, es poden subrogar en el contracte, pel temps que falti del termini pactat, el seu cònjuge o la persona que estava unida a aquell formant una unió estable de parella i els seus descendents i ascendents, sempre que acreditin haver conviscut amb ell durant els sis mesos anteriors a la defunció.
+2. Quan hi ha diversos beneficiaris del dret de subrogació, únicament pot exercir-lo un d’ells. A falta d’acord entre els interessats, se segueix l’ordre indicat en l’apartat 1 d’aquest article, amb preferència, dins de cada grup, per la proximitat de grau. Els casos d’igualtat es resolen a favor de qui tingui més càrregues familiars, o es trobi en situació de desprotecció o discapacitat. En el supòsit que hi hagi diverses persones en aquestes darreres circumstàncies, és preferida la que disposi de menys recursos econòmics.
+3. La subrogació, per ser vàlida, s’ha de notificar a l’arrendador dins dels 60 dies següents a la data de la defunció de l’arrendatari. En la notificació s’hi han de fer constar les circumstàncies personals del subrogat i s’hi ha d’acompanyar el certificat de defunció corresponent.
 
 **Article 45. 1.**
 
@@ -255,7 +305,10 @@ $34
 
 **Article 46. 1.**
 
-$36
+1. Si l’arrendatari, el seu cònjuge o un dels familiars de la unitat familiar de convivència és una persona amb discapacitat, està autoritzat, per ministeri de la llei, a realitzar les obres que siguin indispensables per adequar l’habitatge d’acord amb els criteris d’accessibilitat i del disseny universal, sempre que acrediti i justifiqui adequadament la discapacitat i ho notifiqui prèviament per escrit a l’arrendador.
+2. A la fi de l’arrendament i respecte a les obres que no constitueixin millores de l’immoble, l’arrendatari està obligat a reposar l’habitatge al seu estat anterior, si així li ho demana expressament l’arrendador. Tanmateix, les obres que s’ajustin als criteris del disseny universal i que, per tant, puguin ser utilitzades per totes les persones es consideren millores.
+3. Si la persona arrendatària, el seu cònjuge o un dels familiars de la unitat familiar de convivència és una persona amb discapacitat, pot sol·licitar a la propietat que demani a la comunitat de propietaris la realització de les obres necessàries per dotar els espais comuns de les condicions adequades d’accessibilitat, d’acord amb la normativa aplicable i sempre que no suposin una càrrega desproporcionada. La comunitat de propietaris ha de respondre motivadament a la petició en un termini màxim de 60 dies. Mentrestant, es poden utilitzar mitjans provisionals que li permetin l’accessibilitat en condicions de seguretat i dignitat a l’habitatge sense afectar-ne l’estructura. Aquests mitjans són provisionals i no poden excedir els vuit mesos, llevat que les obres hagin estat autoritzades i estiguin en procés d’execució.
+4. En cas de discrepància o de negativa no motivada per la comunitat, les persones concernides poden demanar un informe a la Comissió per al Foment de l’Accessibilitat a què fa referència la normativa vigent en matèria d’accessibilitat.
 
 **Article 47. Els pactes que modifiquen en perjudici de l’arrendatari les normes del present capítol són nuls i es consideren no establerts.**
 
@@ -291,7 +344,13 @@ Constitueixen infraccions administratives les accions i les omissions de les per
 
 **Article 53. Les infraccions en matèria d’arrendament de finques urbanes per a residència habitual i permanent poden ser lleus, greus o molt greus.**
 
-$3a
+Les infraccions en matèria d’arrendament de finques urbanes per a residència habitual i permanent poden ser lleus, greus o molt greus.
+1. Constitueix una infracció administrativa lleu presentar fora del termini de 30 dies la documentació que justifica la recuperació de la cosa arrendada a favor de la part arrendadora, o de familiars en primer o segon grau de consanguinitat, adopció o afinitat, consistent en el canvi de cens, l’alta dels subministraments bàsics i, si escau, la formalització escrita del contracte d’arrendament o la cessió gratuïta per un període mínim de cinc anys.
+2. Constitueix una infracció administrativa greu:
+a) Incomplir el període de cinc anys de residència efectiva en l’immoble recuperat per a ús propi de la part arrendadora o a favor de familiar en primer o segon grau de consanguinitat, adopció o afinitat, de manera que s’hagi impedit la renovació o continuació d’un contracte de lloguer d’habitatge habitual legalment prevista; llevat que l’incompliment del període de cinc anys sigui degut a alguna causa de força major, separació, divorci, accident o malaltia de la part arrendadora o del familiar en primer o segon grau de consanguinitat, adopció o afinitat.b) No haver presentat la documentació que ha d’acreditar la situació que ha impedit la renovació d’un contracte d’arrendament d’habitatge, en benefici de la part arrendadora o de la part arrendatària familiar en primer o segon grau de consanguinitat, adopció o afinitat.c) Sotsarrendar en totalitat o en part una finca urbana destinada a habitatge sense el consentiment de la propietat.
+3. Constitueix una infracció administrativa molt greu:
+a) Simular la residència efectiva o el contracte d’arrendament a favor de familiars en primer o segon grau de consanguinitat, adopció o afinitat per recuperar un habitatge que estava arrendat a favor d’una tercera persona.b) Vendre l’habitatge després d’haver resolt un contracte d’arrendament per a residència permanent i habitual fent servir l’excepció per a recuperar per a ús propi o de familiars en primer o segon grau de consanguinitat, adopció o afinitat, tret que no hagi estat possible aquest ús com a conseqüència d’una causa de força major, separació, divorci, accident, malaltia o mort de la part arrendadora o del familiar fins al segon grau de consanguinitat, adopció o afinitat.c) Arrendar una finca urbana com habitatge quan no disposi del certificat d’habitabilitat o no compleixi amb les normes d’habitabilitat vigents.
+4. Les infraccions previstes als apartats anteriors són també aplicables en cas que la recuperació de l’habitatge s’hagi efectuat en base a l’excepció per a ús propi dels socis o accionistes de la persona jurídica arrendadora de l’immoble o a favor de familiars de primer o segon grau de consanguinitat, adopció o afinitat d’aquests socis o accionistes.
 
 **Article 54. Quan les infraccions comeses poden ser constitutives d’un delicte o una infracció penal, l’òrgan competent per resoldre l’expedient sancionador ho ha**
 
@@ -314,7 +373,8 @@ Les infraccions administratives previstes en aquesta Llei prescriuen al cap d’
 
 **Article 57. El procediment sancionador s’ajusta a les prescripcions següents:**
 
-$43
+El procediment sancionador s’ajusta a les prescripcions següents:
+a) Normativa aplicable. El procediment s’ha d’ajustar al que estableixen el Codi de l’Administració i la normativa reguladora del procediment sancionador vigents, amb les particularitats establertes en els apartats següents.b) Òrgans competents. Correspon al ministre competent en matèria d’habitatge incoar l’expedient sancionador, nomenar l’instructor i dictar la resolució corresponent.c) Incoació i instrucció. El procediment sancionador s’incoa d’ofici o a instància de part. Per iniciar el procediment, l’autoritat competent pot decidir efectuar la instrucció prèvia d’una informació reservada per a l’esclariment dels fets, a la vista de la qual acorda la incoació de l’expedient o, si escau, l’arxivament de les actuacions.Al·legacions i resolució. La incoació de l’expedient sancionador i també el plec de càrrecs amb l’exposició dels fets imputats, la referència dels preceptes legals infringits i la proposta de sanció es notifiquen a la part arrendadora propietària de l’immoble. En el termini de deu dies a comptar de la notificació, la part arrendadora propietària de l’immoble podrà al·legar tot que consideri pertinent i proposar la pràctica de les proves oportunes que s’hagin de dur a terme sempre que no es considerin inútils o irrellevants. Una vegada finalitzada la instrucció, l’expedient es trasllada a l’òrgan competent perquè el resolgui.d) Interposició de recurs. Contra la resolució dictada en expedient sancionador es pot interposar recurs davant del Govern en la forma prevista pel Codi de l’Administració. Una vegada esgotada la via administrativa, queda oberta la via jurisdiccional, d’acord amb el procediment vigent.
 
 **Article 58. El ministeri competent en matèria d’habitatge pot fer inspeccions per verificar que la recuperació de la cosa arrendada per a ús propi de la part arre**
 
@@ -342,7 +402,11 @@ En l’arrendament de locals per a negoci regeix el principi de llibertat de pac
 
 **Article 62. 1.**
 
-$45
+1. El termini de durada del contracte d’arrendament de local per a negoci és el que convinguin les parts, però no es pot convenir per un termini inferior a quatre anys.
+2. S’entenen fets per un termini de quatre anys els arrendaments per als quals s’hagi convingut una durada inferior, o els arrendaments per als quals no s’hagi fixat cap termini.
+3. Les disposicions dels apartats 1 i 2 anteriors no són d’aplicació als contractes d’arrendament de local per a negoci atorgats per a l’exercici d’activitats de naturalesa efímera, sempre que aquesta circumstància i el termini pactat constin per escrit. La utilització d’aquest tipus de contracte per a activitats que no siguin de naturalesa efímera comporta l’aplicació automàtica del termini mínim previst a l’apartat 1 anterior.
+4. L’arrendador ha de consentir l’arrendament per un període que pot anar fins a set anys, a petició de l’arrendatari, si justifica que per a l’explotació objecte del contracte ha de realitzar obres de millora al local arrendat, tret del mobiliari i l’equipament propis del negoci, que li suposin una inversió superior a l’import de tres anys de la renda inicial. El termini de l’arrendament queda reduït al mínim de quatre anys si aquestes obres de millora no es porten a terme o només es porten a terme parcialment i per sota de l’import de la inversió esmentada.
+5. Un cop ha acabat el termini de vigència, el contracte es prorroga tàcitament per períodes d’un any, salvat que una part no avisi l’altra part de la voluntat de donar-lo per resolt amb una antelació mínima de tres mesos a la fi del termini principal o de qualsevol de les pròrrogues. Aquesta pròrroga no produeix efectes si l’arrendatari no es troba al corrent de les seves obligacions.
 
 **Article 63. 1.**
 

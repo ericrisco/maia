@@ -121,3 +121,13 @@ i no la fa seva.
 - [Historiografia](../historia/historiografia/historiografia.md) — qui ha escrit el país.
 - [El sufragi femení](../societat/dones/el-sufragi-femeni.md) — les primeres.
 - [Els bisbes d'Urgell](../historia/edat-mitjana/els-bisbes-durgell.md) — la sèrie dels senyors.
+
+## Esportistes
+
+| Qui | Per què hi és |
+| --- | --- |
+| **[Mònica Dòria](./monica-doria.md)** | **Campiona d'Europa de C1 (2025)**, plata i bronze mundials, i el millor resultat olímpic andorrà |
+| **[Joan Verdú](./joan-verdu.md)** | **Primer esquiador andorrà a pujar a un podi de Copa del Món** (2023) |
+| **[Irineu Esteve Altimiras](./irineu-esteve-altimiras.md)** | **7è al Mundial de fons** (2023) |
+| **[Nahuel Carabaña](./nahuel-carabana.md)** | **7è a la final europea** dels 3.000 obstacles (2024), i el fair play de Munic |
+| **[Èric Risco de la Torre](./eric-risco.md)** | Judoka internacional de +100 kg i jugador de rugbi: **la carrera esportiva d'un microestat, documentada** |

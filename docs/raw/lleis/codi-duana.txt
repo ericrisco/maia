@@ -132,7 +132,13 @@ a) En el context de l’entrada, la persona que introdueix les mercaderies al te
 
 **Article 6. Sistemes d’intercanvi i emmagatzematge d’informació i requisits comuns en matèria de dades**
 
-$1e
+1. Tot intercanvi d’informació, com declaracions, sol·licituds o decisions entre les autoritats duaneres i entre aquestes últimes i els operadors econòmics, i l’emmagatzematge d’aquesta informació necessari d’acord amb la legislació duanera s’han d’efectuar mitjançant tècniques de tractament electrònic de dades.
+2. Es determinen requisits comuns en matèria de dades a l’efecte de l’intercanvi i l’emmagatzematge de la informació a què es refereix l’apartat 1.
+3. Es poden utilitzar mitjans d’intercanvi i emmagatzematge d’informació diferents de les tècniques esmentades en l’apartat 1, en els casos següents:
+a) Amb caràcter permanent, en cas que sigui justificat degudament pel tipus de trànsit, o quan no sigui adequat utilitzar tècniques de tractament electrònic de dades respecte de les formalitats duaneres de què es tracti.b) Amb caràcter temporal, en cas que fallin temporalment els sistemes informàtics de les autoritats duaneres o dels operadors econòmics.
+4. Com a excepció al que disposa l’apartat 1, el Govern pot adoptar en casos excepcionals decisions per les quals s’autoritzi a utilitzar mitjans d’intercanvi i emmagatzematge d’informació diferents de les tècniques de tractament electrònic de dades.
+La decisió relativa a l’excepció ha d’estar justificada per la situació específica i es concedeix l’excepció per un període de temps limitat. L’excepció es reexamina periòdicament i pot ser prorrogada per nous períodes de temps. Es revoca quan deixi d’estar justificada.
+L’excepció no ha d’afectar l’intercanvi d’informació, ni l’emmagatzematge d’informació a l’efecte de l’aplicació de la legislació duanera.
 
 **Article 7. Delegació de poders**
 
@@ -163,7 +169,10 @@ El Govern ha d’especificar reglamentàriament l’autoritat duanera responsabl
 
 **Article 12. Comunicació d’informació i protecció de dades**
 
-$20
+1. Tota informació obtinguda per les autoritats duaneres en l’acompliment de les seves funcions que sigui confidencial per naturalesa o que s’hagi facilitat amb aquest caràcter està protegida pel deure de secret professional. Sense perjudici del que disposa l’article 47, apartat 2, les autoritats competents no poden difondre aquesta informació sense el consentiment exprés de la persona o l’autoritat que l’hagi facilitada.
+Aquesta informació, no obstant això, es pot difondre sense aquest consentiment quan les autoritats duaneres estiguin obligades o autoritzades a fer-ho així en el marc d’un procediment judicial o en virtut de les disposicions vigents, especialment en matèria de protecció de dades.
+2. La informació confidencial de l’apartat 1 es pot comunicar a les autoritats duaneres i altres autoritats competents de països o territoris situats fora del territori duaner del Principat d’Andorra a l’efecte de la cooperació duanera amb aquests països o territoris en el marc d’un acord internacional o de la legislació aplicable en l’àmbit de la política comercial.
+3. Tota difusió o comunicació de la informació a què es refereixen els apartats 1 i 2 ha de garantir un nivell adequat de protecció de dades amb ple respecte de les disposicions vigents en matèria de protecció de dades.
 
 **Article 13. Intercanvi d’informació complementària entre les autoritats duaneres i els operadors econòmics**
 
@@ -177,7 +186,11 @@ $20
 
 **Article 15. Subministrament d’informació a les autoritats duaneres**
 
-$22
+1. A requeriment de les autoritats duaneres i dins el termini fixat, tota persona que intervingui directament o indirectament en la realització de les formalitats duaneres o en els controls duaners ha de facilitar a aquestes autoritats tota la informació i la documentació exigides, en una forma adequada, i tota l’assistència que sigui necessària per efectuar aquests controls o formalitats.
+2. Tota persona que presenti a les autoritats duaneres una declaració a la duana, una declaració de dipòsit temporal, una declaració sumària d’entrada, una declaració sumària de sortida, una declaració de reexportació o una notificació de reexportació, o una sol·licitud d’autorització o de qualsevol altra decisió, és responsable del següent:
+a) L’exactitud i la integritat de la informació que contingui la declaració, notificació o sol·licitud.b) L’autenticitat, l’exactitud i la validesa dels documents justificatius de la declaració, notificació o sol·licitud.c) Si escau, el compliment de totes les obligacions derivades del règim duaner en el qual s’incloguin les mercaderies o de la realització de les operacions que s’hagin autoritzat.
+El que disposa el paràgraf primer s’aplica també al subministrament de qualsevol informació en qualsevol altra forma exigida per les autoritats duaneres o comunicada a aquestes autoritats.
+En cas que sigui el representant duaner de la persona interessada, segons l’article 18, qui presenti la declaració o notificació o sol·licitud, o faciliti la informació, aquest representant duaner també queda subjecte a la responsabilitat establerta en el paràgraf primer d’aquest apartat.
 
 **Article 16. Sistemes electrònics**
 
@@ -199,7 +212,11 @@ Llevat que es disposi el contrari, els representants duaners estan dispensats d�
 
 **Article 19. Poder de representació**
 
-$24
+1. En la seva relació amb les autoritats duaneres, el representant duaner ha de declarar que està actuant per compte de la persona representada i ha d’indicar si la representació és directa o indirecta.
+Qui ometi declarar que està actuant com a representant duaner o declari que està actuant en aquesta condició sense posseir un poder de representació per a això, es considera que actua en el seu propi nom i per compte propi.
+2. Les autoritats duaneres poden exigir a qualsevol persona que declari que està actuant com a representant duaner la presentació de la prova del poder de representació que li hagi atorgat la persona representada.
+En casos específics, les autoritats duaneres no exigeixen la presentació d’aquesta prova.
+3. Les autoritats duaneres no exigeixen a la persona que actuï com a representant duaner, i que efectua amb caràcter habitual actes i formalitats, que presenti en cada ocasió la prova del poder de representació, sempre que aquesta persona estigui en condicions de presentar aquesta prova i a petició de les autoritats duaneres.
 
 **Article 20. Delegació de poders**
 
@@ -214,11 +231,28 @@ El Govern ha d’especificar reglamentàriament les condicions que cal complir p
 
 **Article 22. Decisions adoptades amb sol·licitud prèvia**
 
-$26
+1. Tota persona que sol·liciti una decisió relacionada amb l’aplicació de la legislació duanera ha de facilitar la informació que les autoritats duaneres competents necessitin per poder adoptar aquesta decisió.
+La decisió també pot ser sol·licitada per diverses persones i adoptar-se per a totes elles, d’acord amb les condicions establertes en la legislació duanera.
+2. Les autoritats duaneres han de comprovar, sense demora i a tot tardar en el termini de 30 dies a partir de la recepció de la sol·licitud de decisió, si se satisfan les condicions d’acceptació d’aquesta sol·licitud.
+Quan les autoritats duaneres comprovin que la sol·licitud conté tota la informació requerida per adoptar la decisió, han de comunicar-ne l’acceptació al sol·licitant en el termini assenyalat en el paràgraf primer.
+3. Les autoritats duaneres competents han de prendre les decisions a les quals es refereix l’apartat 1 i les han de notificar al sol·licitant, sense demora i a tot tardar en el termini de 120 dies a partir de la data d’acceptació de la sol·licitud, llevat que es disposi el contrari.
+Quan les autoritats duaneres no puguin complir el termini per adoptar una decisió, n’han d’informar el sol·licitant abans que venci aquest termini, exposar-li els motius d’aquesta impossibilitat i indicar-li el termini suplementari que considerin necessari per adoptar una decisió. Llevat que es disposi el contrari, aquest termini suplementari no ha d’excedir els 30 dies.
+Sense perjudici del que estableix el paràgraf segon, les autoritats duaneres poden prorrogar el termini per adoptar una decisió, segons el que preveu la legislació duanera, quan el sol·licitant demani una pròrroga per procedir a ajustos a fi de garantir el compliment de les condicions i els criteris. Aquests ajustos i el termini ulterior necessari per fer-los s’han de comunicar a les autoritats duaneres, que han de decidir sobre la pròrroga.
+4. Llevat que la legislació duanera o la decisió que s’adopti disposi el contrari, aquesta decisió esdevé efectiva des de la data en què el sol·licitant rebi, o es consideri que ha rebut, la notificació de l’adopció. Excepte en els casos previstos per l’article 45, apartat 2, les decisions adoptades són executables per les autoritats duaneres des d’aquesta mateixa data.
+5. Llevat que la legislació duanera disposi el contrari, la decisió és vàlida sense limitació temporal.
+6. Abans d’adoptar una decisió que perjudiqui el sol·licitant, les autoritats duaneres li han de comunicar els motius en els quals pretenen basar la seva decisió, i el sol·licitant té l’oportunitat de presentar observacions dins un termini establert, que comença a comptar a partir de la data que rebi o es consideri que ha d’haver rebut la comunicació. Després del venciment d’aquest termini, s’ha de notificar al sol·licitant, de la manera deguda, la decisió adoptada.
+El paràgraf primer no és aplicable en qualsevol dels casos següents:
+a) Quan es refereixi a una decisió prevista per l’article 33, apartat 1.b) En cas de denegació del benefici d’un contingent aranzelari, quan s’arribi al volum del contingent aranzelari especificat, de conformitat amb l’article 56, apartat 4, paràgraf primer.c) Quan així ho exigeixi la naturalesa o el nivell de l’amenaça per a la seguretat i protecció del Principat d’Andorra i dels seus residents, per a la salut humana, la sanitat animal o la fitosanitat, per al medi ambient o per als consumidors.d) Quan la decisió tingui per objecte vetllar per l’aplicació d’una altra decisió a la qual s’hagi aplicat el paràgraf primer, sense perjudici de la legislació de què es tracti.e) Quan pugui afectar investigacions iniciades per lluitar contra el frau.f) En altres casos específics.
+7. Quan perjudiqui el sol·licitant, la decisió que s’adopti ha d’exposar els motius que han portat a adoptar-la i ha d’esmentar el dret de recurs que disposa l’article 44.
 
 **Article 23. Gestió de les decisions adoptades amb sol·licitud prèvia**
 
-$28
+1. El titular de la decisió ha de complir les obligacions que es deriven d’aquesta decisió.
+2. El titular de la decisió ha d’informar sense demora les autoritats duaneres de qualsevol element que sorgeixi, després de l’adopció de la decisió, que pugui influir en el seu manteniment o contingut.
+3. Sense perjudici de les disposicions que regulen en altres àmbits els casos d’invalidesa o de nul·litat de les decisions, les autoritats duaneres que hagin adoptat una decisió la poden anul·lar, modificar o revocar en qualsevol moment quan no s’ajusti a la legislació duanera.
+4. En casos específics, les autoritats duaneres han de:
+a) Reexaminar la decisió.b) Suspendre una decisió quan no sigui procedent anul·lar-la, revocar-la o modificar-la.
+5. Les autoritats duaneres han de supervisar les condicions i els criteris que ha de complir el titular d’una decisió. També han de supervisar el compliment de les obligacions que es derivin d’aquesta decisió. Quan el titular de la decisió faci menys de tres anys que està establert, les autoritats duaneres l’han de sotmetre a una supervisió estreta durant el primer any posterior a l’adopció de la decisió.
 
 **Article 24. Delegació de poders**
 
@@ -269,11 +303,34 @@ El Govern ha d’especificar reglamentàriament, mitjançant actes d’execució
 
 **Article 33. Decisions relatives a les informacions vinculants**
 
-$2a
+1. Les autoritats duaneres han d’adoptar, amb sol·licitud prèvia, decisions relatives a informacions tarifàries vinculants (respostes de classificació tarifària vinculant – decisions RCTV) o decisions relatives a informacions vinculants en matèria d’origen (respostes d’origen vinculants – decisions ROV).
+Aquesta sol·licitud no s’accepta en cap de les circumstàncies següents:
+a) Quan sigui efectuada o hagi estat efectuada, sia en la mateixa duana o en una altra de diferent, pel titular o per una persona que actuï per compte del titular d’una decisió, la sol·licitud d’una decisió relativa a les mateixes mercaderies i, en tractar-se de decisions ROV, quan es donin les mateixes circumstàncies que van determinar l’adquisició de l’origen.b) Quan la sol·licitud no estigui relacionada amb cap de les finalitats previstes per a les decisions RCTV o ROV ni amb cap de les destinacions previstes d’un règim duaner.
+2. Les decisions RCTV o ROV només són vinculants en matèria de classificació aranzelària i de determinació de l’origen de les mercaderies:
+a) Per a les autoritats duaneres, respecte del titular de la decisió, únicament en relació amb les mercaderies les formalitats duaneres de les quals s’emplenin després de la data en què la decisió esdevingui efectiva.b) Per al titular de la decisió, respecte de les autoritats duaneres, únicament des de la data en què rebi, o es consideri que ha rebut, la notificació de la decisió.
+3. Les decisions RCTV o ROV tenen una validesa de tres anys a partir de la data en la qual la decisió esdevingui efectiva.
+4. Per aplicar una decisió RCTV o ROV en el marc d’un règim duaner concret, el titular de la decisió ha de ser capaç de demostrar el següent:
+a) En el cas de les decisions RCTV, que les mercaderies declarades es corresponen en tots els seus aspectes amb les descrites en la decisió.b) En el cas de les decisions ROC, que les mercaderies en qüestió i les circumstàncies determinants de l’adquisició de l’origen es corresponen en tots els seus aspectes amb les mercaderies i les circumstàncies descrites en la decisió.
 
 **Article 34. Gestió de decisions relatives a les informacions vinculants**
 
-$2c
+1. Les decisions RCTV deixen de ser vàlides abans que finalitzi el termini a què es refereix l’article 33, apartat 3, quan deixin d’ajustar-se a la legislació com a conseqüència de qualsevol dels supòsits següents:
+a) Adopció d’una modificació de les nomenclatures a què es refereix l’article 56, apartat 2, lletresaib;b) Adopció de les mesures a què es refereix l’article 57, apartat 4;amb efectes a partir de la data d’aplicació d’aquestes modificacions o mesures.
+2. Les decisions ROV deixen de ser vàlides abans que finalitzi el termini a què es refereix l’article 33, apartat, 3 en qualsevol dels casos següents:
+a) Quan s’adopti un reglament o se subscrigui un acord que sigui aplicable al Principat d’Andorra i la decisió ROV deixi de ser conforme a allò que disposen aquests reglaments o acords, amb efectes a partir de la data d’aplicació d’aquest reglament o acord.b) Quan deixin de ser compatibles amb l’Acord sobre les normes d’origen elaborat en el si de l’Organització Mundial del Comerç (OMC) o amb les notes explicatives o els criteris sobre l’origen adoptats a l’efecte de la interpretació de l’Acord esmentat, amb efectes a partir de la data que es publiquin en el Diari Oficial de la Unió Europea o en el Butlletí Oficial del Principat d’Andorra, segons escaigui.
+3. Quan deixen de ser vàlides les decisions RCTV o ROV, deixen de ser-ho sense efecte retroactiu.
+4. No obstant el que disposen l’article 23, apartat 3, i l’article 27, les decisions RCTV i ROV s’han d’anul·lar quan s’hagin basat en una informació incorrecta o incompleta facilitada pels sol·licitants.
+5. Les decisions RCTV i ROV es revoquen d’acord amb el que disposen l’article 23, apartat 3, i l’article 28. No obstant això, no es revoquen per sol·licitud del titular de la decisió.
+6. Les decisions RCTV i ROV no es poden modificar.
+7. Les autoritats duaneres revoquen les decisions RCTV:
+a) Quan deixin de ser compatibles amb la interpretació de les nomenclatures a què es refereix l’article 56, apartat 2, lletresaib, que resulti de qualsevol dels supòsits següents:i) Les notes explicatives relatives a la nomenclatura combinada.ii) Una sentència judicial.iii) Les decisions de classificació, els criteris de classificació o les modificacions de les notes explicatives de la nomenclatura del sistema harmonitzat de designació i codificació de les mercaderies, adoptat per l’organització creada pel Conveni relatiu a la creació d’un consell de cooperació duanera, signat a Brussel·les el 15 de desembre de 1950; ob) En altres casos específics.
+8. Les decisions ROV es revoquen:
+a) Quan deixin de ser compatibles amb una sentència judicial; ob) En altres casos específics.
+9. Quan una decisió RCTV o ROV deixa de ser vàlida d’acord amb el que està establert a l’apartat 1, lletra
+b
+, o a l’apartat 2 o quan és revocada d’acord amb les disposicions dels apartats 5, 7 o 8, la decisió RCTV o ROV es pot continuar utilitzant en relació amb els contractes ferms i definitius basats en aquesta decisió i subscrits abans que hagi deixat de ser vàlida o hagi estat revocada. Aquesta pròrroga de la utilització no s’aplica quan la decisió ROV s’hagi adoptat respecte de mercaderies que s’hagin d’exportar.
+La pròrroga de la utilització a què fa referència el paràgraf primer no excedeix els sis mesos a partir de la data en què les decisions RCTV o ROV hagin deixat de ser vàlides o hagin estat revocades. No obstant això, la mesura a què es refereix l’article 57, apartat 4, o l’article 67 pot excloure aquesta pròrroga o establir un termini de temps més curt. Quan es tracti de productes per als quals es presenta un certificat d’importació o d’exportació en el moment del compliment de les formalitats duaneres, el període de sis mesos se substitueix pel període de validesa del certificat de què es tracti.
+Per poder-se beneficiar de la pròrroga de la utilització d’una decisió RCTV o ROV, el titular d’aquesta decisió ha de presentar una sol·licitud a l’autoritat duanera que va adoptar la decisió en el termini de 30 dies a partir de la data en què aquesta decisió hagi deixat de ser vàlida o hagi estat revocada i indicar les quantitats per a les quals se sol·licita la pròrroga d’utilització i l’estat o els estats en els quals les mercaderies seran despatxades durant el termini de la pròrroga d’utilització. L’autoritat duanera ha d’adoptar una decisió sobre la pròrroga de la utilització i l’ha de notificar al titular al més aviat possible i, a tot tardar, en el termini de 30 dies a partir de la data de recepció de tota la informació necessària per poder adoptar aquesta decisió.
 
 **Article 35. Decisions relatives a les informacions vinculants en relació amb altres elements**
 
@@ -296,11 +353,20 @@ b
 
 **Article 38. Sol·licitud i autorització**
 
-$2e
+1. Tot operador econòmic establert al territori duaner del Principat d’Andorra que compleixi els criteris disposats en l’article 39 pot sol·licitar l’estatut d’operador econòmic autoritzat.
+Aquest estatut és concedit per les autoritats duaneres, si escau amb consulta prèvia a altres autoritats competents, i se sotmet a supervisió.
+2. L’estatut d’operador econòmic autoritzat consisteix en els tipus d’autorització següents:
+a) La d’operador econòmic autoritzat de simplificacions duaneres, que permet al titular beneficiar-se de determinats procediments simplificats en virtut de la legislació duanera; ob) La d’operador econòmic autoritzat de seguretat i protecció, que concedeix al titular facilitats en matèria de seguretat i protecció.
+3. Ambdós tipus d’autorització esmentats en l’apartat 2 són acumulables.
+4. Les autoritats duaneres reconeixen l’estatut d’operador econòmic autoritzat, a reserva dels articles 39, 40 i 41.
+5. Una vegada reconegut l’estatut d’operador econòmic autoritzat de simplificacions duaneres i sempre que es compleixin els requisits fixats per la legislació duanera per a un tipus específic de procediment simplificat, les autoritats duaneres autoritzen l’operador a beneficiar-se d’aquest procediment. Les autoritats duaneres no examinen de nou els criteris que ja hagin estat examinats en concedir l’estatut d’operador econòmic autoritzat.
+6. L’operador econòmic autoritzat que preveu l’apartat 2 rep un tracte més favorable que els altres operadors econòmics pel que fa als controls duaners d’acord amb el tipus d’autorització concedida, en particular menys controls físics i documentals.
+7. Les autoritats duaneres concedeixen els avantatges resultants de l’estatut d’operador econòmic autoritzat a les persones establertes en països o territoris fora del territori duaner del Principat d’Andorra que satisfacin els requisits i compleixin les obligacions definides en la legislació pertinent d’aquests països o territoris, sempre que el Principat d’Andorra reconegui aquests requisits i obligacions com a equivalents als que s’imposen als operadors econòmics autoritzats establerts al territori duaner del Principat d’Andorra. Aquesta concessió d’avantatges es basa en el principi de reciprocitat, llevat que Andorra decideixi una altra cosa, i està recolzada en un acord internacional o en la legislació en l’àmbit de la política comercial comuna aplicable al Principat d’Andorra de conformitat amb l’Acord d’unió duanera entre la Unió Europea i Andorra.
 
 **Article 39. Concessió de l’estatut**
 
-$30
+Els criteris per a la concessió de l’estatut d’operador econòmic autoritzat són els següents:
+a) Inexistència d’infraccions greus o reiterades de la legislació duanera i de la normativa fiscal, en particular que no hi hagi hagut cap condemna per un delicte greu en relació amb l’activitat econòmica del sol·licitant.b) L’acreditació, per part del sol·licitant, d’un alt nivell de control de les seves operacions i del flux de mercaderies, mitjançant un sistema de gestió dels registres comercials i, si escau, dels registres de transport que permeti la realització correcta dels controls duaners.c) Solvència financera, la qual es considera acreditada quan el sol·licitant tingui un bon nivell financer que li permeti complir els seus compromisos, tenint degudament en compte les característiques del tipus d’activitat de què es tracti.d) Pel que fa a l’autorització prevista per l’article 38, apartat 2, lletraa, un nivell adequat de competència o de qualificacions professionals directament relacionades amb l’activitat que exerceixi.e) Pel que respecta a l’autorització prevista per l’article 38, apartat 2, lletrab, nivells de seguretat i protecció adequats, els quals es consideren satisfets quan el sol·licitant demostri que manté les mesures adequades per garantir la seguretat i la protecció de la cadena de subministrament internacional, fins i tot en els àmbits de la integritat física i els controls d’accés, els processos logístics i el tractament de determinats tipus de mercaderies, el personal i la identificació dels socis comercials.
 
 **Article 40. Delegació de poders**
 
@@ -342,15 +408,30 @@ a) Inicialment, davant les autoritats duaneres;b) Subsegüentment, davant un òr
 
 **Article 46. Gestió de riscos i controls duaners**
 
-$32
+1. Les autoritats duaneres poden efectuar tots els controls duaners que considerin necessaris.
+Aquests controls poden consistir, en particular, a examinar les mercaderies; prendre mostres; verificar l’exactitud i la integritat de la informació facilitada en una declaració o notificació i l’existència, l’autenticitat, l’exactitud i la validesa dels documents; revisar la comptabilitat dels operadors econòmics i altres registres; inspeccionar els mitjans de transport i les mercaderies i els equipatges que transportin les persones, i fer recerques oficials i altres actes similars.
+2. Els controls duaners diferents dels aleatoris es basen, principalment, en una anàlisi de riscos que, amb l’ajut de les tècniques de tractament electrònic de dades, permet identificar i avaluar els riscos i elaborar les mesures necessàries per afrontar-los, sobre la base de criteris establerts a escala nacional, de la Unió Europea i, si escau, internacional.
+3. Els controls duaners s’efectuen en un marc comú de gestió de riscos basat en l’intercanvi d’informació sobre riscos i dels resultats de les anàlisis de riscos entre les administracions duaneres i que estableixi criteris i normes de risc comuns, mesures de control i àmbits prioritaris de control.
+Els controls basats en aquesta informació i aquests criteris es duen a terme sense perjudici dels altres controls efectuats de conformitat amb l’apartat 1 o amb altres disposicions en vigor.
+4. Les autoritats duaneres apliquen una gestió de riscos per distingir entre els diversos nivells de risc associat a les mercaderies subjectes a control o vigilància duaners i per determinar si cal fer controls duaners específics de les mercaderies i indicar, si cal, on s’han d’efectuar aquests controls.
+La gestió de riscos inclou activitats com ara la recollida de dades i informació, l’anàlisi i l’avaluació de riscos, la determinació i l’adopció de mesures, i el seguiment i la revisió periòdics del procés i els seus resultats, a partir de fonts i estratègies internacionals, de la Unió Europea i nacionals.
+5. Les autoritats duaneres intercanvien la informació sobre riscos i els resultats de l’anàlisi de riscos:
+a) Quan l’autoritat duanera consideri que hi ha un risc significatiu que exigeix un control duaner i els resultats d’aquest darrer permeten determinar que s’ha produït el fet que ocasiona el risc; ob) Quan els resultats del control no permetin determinar que s’ha produït el fet que ocasiona el risc, però l’autoritat duanera corresponent considera que hi ha l’amenaça d’un risc elevat en un altre lloc.
+6. Per establir les normes i els criteris de risc comuns, les mesures de control i els àmbits prioritaris de control esmentats en l’apartat 3, s’han de tenir en compte tots els elements següents:
+a) La proporcionalitat amb el risc.b) La urgència de la necessitat d’aplicar els controls.c) L’impacte probable en el flux comercial, en el país i en els recursos dedicats als controls.
+7. Els criteris i les normes de risc comuns a què es refereix l’apartat 3 han d’incloure tots els elements següents:
+a) La descripció dels riscos.b) Els factors o indicadors de risc que s’han d’emprar per seleccionar les mercaderies o els operadors econòmics que s’hagin de sotmetre a control duaner.c) La naturalesa dels controls duaners que hagin d’emprendre les autoritats duaneres.d) El termini d’aplicació dels controls duaners previstos per la lletrac.
+8. Els àmbits prioritaris de control abracen règims duaners particulars, tipus de mercaderies, rutes comercials, mitjans de transport o operadors econòmics que estiguin subjectes a anàlisis de riscos i controls duaners més intensos durant un període determinat, sense perjudici dels altres controls duts a terme habitualment per les autoritats duaneres.
 
 **Article 47. Cooperació entre autoritats**
 
-$34
+1. Quan unes mateixes mercaderies siguin sotmeses a controls altres que duaners efectuats per autoritats competents diferents de les duaneres, les autoritats duaneres han de procurar, en cooperació estreta amb aquestes altres autoritats, que aquests controls s’efectuïn, sempre que sigui possible, en el mateix moment i en el mateix lloc que els controls duaners (finestra única); les autoritats duaneres són les que compleixen la funció de coordinació per aconseguir-ho.
+2. En el marc dels controls objecte d’aquesta secció, les autoritats duaneres i no duaneres competents poden, quan això sigui necessari per minimitzar els riscos i combatre el frau, intercanviar-se entre elles les dades de què disposin sobre l’entrada, la sortida, el trànsit, la circulació, l’emmagatzematge i la destinació particular de les mercaderies, inclòs el trànsit postal, que circulin entre el territori duaner del Principat d’Andorra i els països i territoris situats fora d’aquest territori, sobre la presència i la circulació al territori duaner del Principat d’Andorra de mercaderies no posades en lliure disposició i de mercaderies incloses en el règim de destinació particular, i sobre els resultats de tots els controls. Les autoritats duaneres també es poden intercanviar entre elles les dades a l’efecte de garantir una aplicació uniforme de la legislació duanera.
 
 **Article 48. Control posterior a l’atorgament del dret a disposar**
 
-$36
+Amb posterioritat al dret a disposar de les mercaderies i a l’efecte dels controls duaners, les autoritats duaneres poden verificar l’exactitud i la integritat de la informació facilitada en les declaracions a la Duana, les declaracions de dipòsit temporal, les declaracions sumàries d’entrada i de sortida, les declaracions de reexportació o les notificacions de reexportació, i l’existència, l’autenticitat, l’exactitud i la validesa dels documents justificatius, i poden examinar la comptabilitat del declarant i altres registres en relació amb les operacions relatives a les mercaderies de què es tracti o amb altres operacions comercials anteriors o posteriors que afectin aquestes mercaderies. Les autoritats duaneres també poden examinar aquestes mercaderies i prendre’n mostres quan encara sigui possible.
+Els controls es poden dur a terme en els locals del titular de les mercaderies o del seu representant, en els d’una altra persona que, de manera directa o indirecta, hagi actuat o actuï comercialment en aquestes operacions o en els de qualsevol altra persona que estigui en possessió d’aquestes dades i documents amb finalitats comercials.
 
 **Article 49. Circulació a l’interior del territori**
 
@@ -366,11 +447,18 @@ El Govern ha d’adoptar mesures per garantir una aplicació uniforme dels contr
 
 **Article 51. Conservació de documents i dades**
 
-$38
+1. Amb la finalitat de possibilitar els controls duaners, les persones interessades han de conservar, almenys durant tres anys, tota la documentació i informació previstes per l’article 15, apartat 1, en una forma que sigui accessible i acceptable per a les autoritats duaneres.
+En el cas de les mercaderies posades en lliure disposició en circumstàncies diferents de les indicades en el paràgraf tercer, o en el de les declarades per a l’exportació, aquest termini s’inicia a partir del final de l’any en què s’admetin les declaracions a la duana de posada en lliure disposició o d’exportació.
+En el cas de les mercaderies que, per raó de la seva destinació particular, es posin en lliure disposició amb exempció de drets o amb un tipus reduït de dret a la importació, el termini s’inicia a partir del final de l’any en què deixin d’estar subjectes a la vigilància duanera.
+En el cas de les mercaderies incloses en altres règims duaners o en dipòsit temporal, el termini comença a comptar a partir del final de l’any en què conclogui el règim en qüestió o finalitzi el dipòsit temporal.
+2. Sense perjudici del que disposa l’article 103, quan el control duaner d’un deute duaner posi de manifest la necessitat de corregir la contracció d’aquest deute, i sempre que la persona interessada en sigui informada, el termini previst per l’apartat 1 d’aquest article per conservar la documentació i la informació es prolonga tres anys més.
+Quan s’hagi interposat un recurs o s’hagi iniciat un procés judicial, la documentació i la informació s’han de conservar durant el termini de temps previst per l’apartat 1 o fins que conclogui el recurs o el procediment judicial, si es tracta d’una data posterior.
 
 **Article 52. Gravàmens i costos**
 
-$3a
+1. Les autoritats duaneres no imposen gravàmens pels controls duaners i altres actes d’aplicació de la normativa duanera efectuats durant l’horari oficial de les seves duanes competents.
+2. Les autoritats duaneres poden imposar gravàmens o recuperar costos quan es prestin serveis especials; en particular, els costos derivats:
+a) De la presència que es pugui sol·licitar del personal de duanes fora de l’horari oficial o en locals que no siguin els de duanes.b) De les anàlisis i els informes d’experts sobre les mercaderies i de les tarifes postals que s’hagin de pagar en cas de devolució de les mercaderies a un sol·licitant, particularment en el marc de les decisions previstes per l’article 33 o en el del subministrament d’informació previst per l’article 14, apartat 1.c) De l’examen o el mostreig de les mercaderies per a finalitats de verificació, o de la destrucció d’aquestes mercaderies, en cas que es produeixin despeses que no siguin les de la utilització del personal de duanes.d) De les mesures de control excepcionals que siguin necessàries a causa de la naturalesa de les mercaderies o dels riscos potencials existents.
 
 #### Capítol tercer. Conversió de divises i terminis
 
@@ -395,7 +483,25 @@ Es faculta el Govern per desenvolupar reglamentàriament normes sobre la convers
 
 **Article 56. Aranzel duaner i vigilància**
 
-$3c
+1. Els drets a la importació o a l’exportació deguts es basen en l’aranzel duaner.
+Les altres mesures que estableixen les disposicions vigents al Principat d’Andorra específiques en el marc dels intercanvis de mercaderies s’apliquen, si escau, d’acord amb la classificació tarifària d’aquestes mercaderies.
+2. L’aranzel duaner comprèn tot el següent:
+a) La nomenclatura combinada de les mercaderies.b) Qualsevol altra nomenclatura que reculli la nomenclatura combinada totalment o parcialment o que hi afegeixi possibles subdivisions, i que és establerta per les disposicions nacionals específiques amb vista a l’aplicació de les mesures tarifàries en el marc dels intercanvis de mercaderies.c) Els tipus de gravamen i els altres elements de percepció normalment aplicables a les mercaderies que figuren en la nomenclatura combinada pel que fa a drets de duana.d) Les mesures aranzelàries preferencials que contenen els acords que el Principat d’Andorra aplica en les seves relacions amb països que preveuen l’atorgament d’un tracte aranzelari preferencial.e) Les mesures aranzelàries preferencials aplicades unilateralment pel Principat d’Andorra a favor d’alguns països, grups de països o territoris.f) Les mesures autònomes que estableixin una reducció o una exempció dels drets de duana per a certes mercaderies.g) Les disposicions que prevegin un tracte aranzelari favorable per a certes mercaderies pel que fa a la seva naturalesa o la seva destinació particular en el marc de les mesures indicades en les lletrescafoh.h) Altres mesures aranzelàries previstes per normatives vigents al Principat d’Andorra.
+3. En el cas de les mercaderies que compleixin les condicions incloses en les mesures indicades en l’apartat 2, lletres
+d
+a
+g
+, aquestes mesures s’apliquen, amb sol·licitud prèvia del declarant, en lloc dels drets esmentats en la lletra
+c
+d’aquest mateix apartat. Aquesta aplicació es pot fer amb caràcter retroactiu, sempre que es compleixin els terminis i les condicions fixats en les disposicions pertinents o en el Codi.
+4. Quan l’aplicació de les mesures indicades en l’apartat 2, lletres
+d
+a
+g
+, o l’exempció de les de la lletra
+h
+del mateix apartat es limiti a un determinat volum d’importacions o d’exportacions, aquesta aplicació o exempció cessa, en el cas dels contingents aranzelaris, tan aviat com s’arribi al volum d’importacions o exportacions fixat.
+5. La posada en lliure disposició o l’exportació de les mercaderies a les quals s’apliquen les mesures previstes pels apartats 1 i 2 poden ser objecte de vigilància.
 
 **Article 57. Classificació aranzelària de les mercaderies**
 
@@ -441,7 +547,20 @@ El Govern ha d’adoptar els procediments relatius a la presentació i verificac
 
 **Article 64. Origen preferencial de les mercaderies**
 
-$3e
+1. Per poder beneficiar-se de les mesures indicades en l’article 56, apartat 2, lletres
+d
+o
+e
+, o de mesures preferencials no aranzelàries, les mercaderies han de complir les normes d’origen preferencial previstes pels apartats 2 i 3 d’aquest article.
+2. En el cas de mercaderies que s’acullin a les mesures preferencials definides en acords subscrits directament o indirectament per mitjà de l’Acord comercial entre la Unió Europea i Andorra amb països o territoris situats fora del territori duaner del Principat d’Andorra o amb grups d’aquests països o territoris, les normes d’origen preferencial s’estableixen en aquests acords.
+3. En el cas de mercaderies que s’acullin a les mesures preferencials adoptades unilateralment per a països o territoris situats fora del territori duaner, el Govern adopta les mesures per les quals s’estableixin les normes d’origen preferencial.
+Aquestes normes es basen bé en el criteri de mercaderies totalment obtingudes o bé en el criteri que les mercaderies han estat objecte d’una transformació o elaboració suficient.
+4. A iniciativa pròpia o amb prèvia sol·licitud d’un país o territori beneficiari, el Govern pot concedir a aquest país o territori, per a determinades mercaderies, una excepció temporal de les normes d’origen preferencial a què es refereix l’apartat 3.
+L’excepció temporal està justificada per un dels motius següents:
+a) Factors interns o externs que facin que aquest país o territori beneficiari es vegi temporalment en la impossibilitat de complir les normes d’origen preferencial.b) Que el país o territori beneficiari necessiti un període de preparació per complir aquestes normes.
+El país o territori beneficiari interessat ha de presentar a les autoritats duaneres per escrit una sol·licitud d’excepció. S’hi han de fer constar els motius, d’acord amb el paràgraf segon, pels quals se sol·licita una excepció i ha d’anar acompanyada dels documents justificatius adequats.
+L’excepció temporal queda limitada a la durada dels efectes dels factors interns o externs que hagin motivat la concessió, o al termini que requereixi el país o territori beneficiari per aconseguir complir les normes.
+Quan es concedeix una excepció, el país o territori beneficiari ha de complir qualsevol dels requisits establerts pel que fa a la informació que s’ha de facilitar a les autoritats duaneres en relació amb la utilització de l’excepció i la gestió de les quantitats per a les quals es concedeix l’excepció.
 
 **Article 65. Delegació de poders**
 
@@ -474,15 +593,22 @@ territori duaner d’importació
 
 **Article 70. Mètode de valoració a la Duana basat en el valor de transacció**
 
-$40
+1. La base principal per determinar el valor a la Duana de les mercaderies és el valor de transacció, que és el preu realment pagat o que s’ha de pagar per aquestes mercaderies quan es venguin per exportar-les al territori duaner del Principat d’Andorra, ajustat, si escau.
+2. El preu realment pagat o que s’ha de pagar és el pagament total que el comprador ha efectuat o ha d’efectuar al venedor o a un tercer a favor del venedor, per les mercaderies importades, i inclou tots els pagaments efectuats o per efectuar com a condició de la venda d’aquestes mercaderies.
+3. El valor de transacció s’aplica sempre que es compleixin totes les condicions següents:
+a) Que no hi hagi més restriccions per a la utilització o disposició de les mercaderies per part del comprador que les següents:i) Restriccions imposades o exigides per les normes o per les autoritats públiques al Principat d’Andorra.ii) Limitacions de la zona geogràfica en la qual les mercaderies puguin ser objecte de revenda.iii) Restriccions que no afectin substancialment el valor a la Duana de les mercaderies.b) Que ni la venda ni el preu estiguin subjectes a condicions o consideracions que impedeixin determinar el valor de les mercaderies que s’hagin de valorar.c) Que cap dels beneficis derivats de la revenda, cessió o utilització posterior de les mercaderies per part del comprador no repercuteixi directament o indirectament en el venedor, llevat que el valor es pugui ajustar convenientment.d) Que no hi hagi vinculació entre el comprador i el venedor o la vinculació no influeixi en el preu.
 
 **Article 71. Elements del valor de transacció**
 
-$42
+1. En determinar el valor a la Duana en aplicació de l’article 70, el preu realment pagat o que s’ha de pagar per les mercaderies importades es completa amb:
+a) Els elements següents, en la mesura que siguin suportats pel comprador i no estiguin inclosos en el preu realment pagat o que s’ha de pagar per les mercaderies:i) Les comissions i les despeses de corretatge, excepte les comissions de compra.ii) El cost dels envasos que, a efectes duaners, es consideri que formen un tot amb la mercaderia.iii) El cost d’embalatge, tant per la mà d’obra com pels materials.b) El valor, imputat de manera adequada, dels béns i serveis que s’indiquen a continuació, quan hagin estat subministrats directament o indirectament pel comprador, gratuïtament o a preus reduïts, i utilitzats en la producció i venda per exportar les mercaderies importades, en la mesura que aquest valor no estigui inclòs en el preu realment pagat o que s’ha de pagar:i) Materials, components, parts i elements similars incorporats a les mercaderies importades.ii) Eines, matrius, motlles i objectes similars utilitzats en la producció de les mercaderies importades.iii) Materials consumits en la producció de les mercaderies importades.iv) Treballs d’enginyeria, de desenvolupament, artístics i de disseny, plànols i croquis realitzats fora del territori duaner d’importació i necessaris per a la producció de les mercaderies importades.c) Els cànons i drets de llicència relacionats amb les mercaderies objecte de valoració que el comprador estigui obligat a pagar, directament o indirectament, com a condició de la venda d’aquestes mercaderies, en la mesura que els cànons i drets esmentats no estiguin inclosos en el preu realment pagat o per pagar.d) El valor de qualsevol part del producte d’una revenda, cessió o utilització posterior de les mercaderies importades que reverteixi directament o indirectament en el venedor.e) Els costos següents fins al lloc per on s’introdueixen les mercaderies al territori duaner d’importació:i) Les despeses de transport i d’assegurança de les mercaderies importades.ii) Les despeses de càrrega i de manipulació associades al transport de les mercaderies importades.
+2. Qualsevol element que se sumi al preu realment pagat o per pagar, de conformitat amb l’apartat 1, es basa exclusivament en dades objectives i quantificables.
+3. En determinar el valor a la Duana, únicament es poden sumar al preu realment pagat o que s’ha de pagar els elements que preveu aquest article.
 
 **Article 72. Elements que no s’han d’incloure en el valor a la Duana**
 
-$44
+En determinar el valor a la Duana en aplicació de l’article 70, no s’hi inclou cap dels elements següents:
+a) Les despeses de transport de les mercaderies importades després que entrin al territori duaner d’importació.b) Les despeses de construcció, instal·lació, muntatge, manteniment o assistència tècnica efectuades després de l’entrada al territori duaner d’importació de les mercaderies importades, com ara instal·lacions, màquines o material industrial.c) Els imports dels interessos derivats d’un acord de finançament contret pel comprador, relatiu a la compra de les mercaderies importades, independentment que el finançament sigui a càrrec del venedor o d’una altra persona, sempre que l’acord de finançament consti per escrit i, si així es requereix, que el comprador pugui demostrar que es compleixen les condicions següents:i) Que aquestes mercaderies es venen efectivament al preu declarat com a realment pagat o que s’ha de pagar.ii) Que el tipus d’interès exigit no excedeix el que s’aplica correntment a aquestes transaccions al país i en el moment en què s’hagi proporcionat el finançament.d) Drets de reproducció en el territori duaner d’importació de les mercaderies importades.e) Comissions de compra.f) Drets d’importació i altres gravàmens pagadors en el territori duaner d’importació com a conseqüència de la importació o la venda de les mercaderies.g) No obstant el que disposa l’article 71, apartat 1, lletrac, els pagaments que efectuï el comprador pel dret de distribució o revenda de les mercaderies importades, quan no constitueixin una condició de la venda d’aquestes mercaderies per exportar-les.
 
 **Article 73. Simplificació**
 
@@ -491,7 +617,20 @@ a) Els imports que s’han d’incloure en el valor a la Duana de conformitat am
 
 **Article 74. Mètodes secundaris de valoració a la Duana**
 
-$46
+1. En cas que la determinació del valor a la Duana de les mercaderies no sigui possible en el marc de l’article 70, s’han d’anar aplicant successivament les lletres
+a
+a
+d
+de l’apartat 2 d’aquest article fins a arribar a aquella que permeti en primer lloc determinar aquest valor.
+L’ordre d’aplicació de les lletres
+c
+i
+d
+de l’apartat 2 d’aquest article s’inverteix si el declarant així ho sol·licita.
+2. En el marc de l’apartat 1, el valor a la Duana és:
+a) El valor de transacció de mercaderies idèntiques que es venguin per exportar-les al territori duaner d’importació i s’hi exportin al mateix temps que les mercaderies que s’hagin de valorar o en una data pròxima.b) El valor de transacció de mercaderies similars que es venguin per exportar-les al territori duaner d’importació i s’hi exportin al mateix temps que les mercaderies que s’hagin de valorar o en una data pròxima.c) El valor basat en el preu unitari al qual es vengui al territori duaner d’importació a persones no vinculades amb els venedors la quantitat total més gran de les mercaderies importades o d’altres mercaderies idèntiques o similars també importades; od) El valor calculat, igual a la suma:i) Del cost o valor dels materials i del procés de fabricació o transformació emprats en la producció de les mercaderies importades.ii) D’una quantitat en concepte de beneficis i despeses generals igual a la que se sol carregar en les vendes de mercaderies de la mateixa naturalesa o espècie que les mercaderies que es valorin, efectuades per productors del país d’exportació en operacions d’exportació amb destinació al territori duaner d’importació.iii) Del cost o valor dels elements enumerats en l’article 71, apartat 1, lletrae.
+3. En cas que no sigui possible determinar el valor a la Duana d’acord amb l’apartat 1, la determinació d’aquest valor s’efectua basant-se en la informació disponible al territori duaner d’importació, utilitzant mitjans raonables que s’ajustin als principis i les disposicions generals que contenen:
+a) L’Acord relatiu a l’aplicació de l’article VII de l’Acord general sobre aranzels duaners i comerç.b) L’article VII de l’Acord general sobre aranzels duaners i comerç.c) Aquest capítol.
 
 **Article 75. Delegació de poders**
 
@@ -518,11 +657,28 @@ Quan una declaració a la duana relativa a un dels règims esmentats en l’apar
 
 **Article 78. Disposicions especials relatives a les mercaderies no originàries**
 
-$48
+1. Quan s’apliqui una prohibició de devolució o d’exempció de drets a la importació a mercaderies no originàries utilitzades en la fabricació de productes per als quals s’expedeixi o s’estableixi una prova d’origen en el marc d’un acord preferencial, neix un deute duaner d’importació respecte d’aquestes mercaderies no originàries mitjançant l’admissió de la declaració de reexportació relativa als productes en qüestió.
+2. Quan neixi un deute duaner de conformitat amb l’apartat 1, l’import dels drets d’importació corresponent a aquest deute es determina d’acord amb les mateixes condicions que en el cas d’un deute duaner derivat de l’admissió, en la mateixa data, de la declaració a la duana de posada en lliure disposició de les mercaderies no originàries utilitzades en la fabricació dels productes en qüestió a l’efecte de finalitzar el perfeccionament actiu.
+3. S’aplica l’article 77, apartats 2 i 3. No obstant això, en el cas de les mercaderies no posades en lliure disposició esmentades en l’article 270, el deutor és la persona que presenta la declaració de reexportació. En cas de representació indirecta, n’és també deutora la persona pel compte de la qual es presenta la declaració.
 
 **Article 79. Deute duaner nascut per incompliment**
 
-$4a
+1. Respecte de les mercaderies subjectes a drets a la importació, neix un deute duaner a la importació per incompliment d’alguna de les circumstàncies següents:
+a) Una de les obligacions establertes en la legislació duanera relativa a la introducció de mercaderies no posades en lliure disposició en el territori duaner, a la seva retirada de la vigilància duanera, o a la circulació, la transformació, l’emmagatzematge, el dipòsit temporal, la importació temporal o la disposició d’aquestes mercaderies en el territori del Principat d’Andorra.b) Una de les obligacions establertes en la legislació duanera relativa a la destinació particular de les mercaderies dins el territori duaner del Principat d’Andorra.c) Una condició que reguli la inclusió de mercaderies no posades en lliure disposició en un règim duaner o la concessió, en virtut de la destinació particular de les mercaderies, d’una exempció de drets o d’una reducció del tipus dels drets a la importació.
+2. El moment en què neix el deute duaner és qualsevol dels següents:
+a) El moment en què no es compleixi o es deixi de complir l’obligació l’incompliment de la qual doni origen al deute duaner.b) El moment en què s’admeti una declaració a la duana perquè les mercaderies s’incloguin en un règim duaner, quan posteriorment es comprovi que, de fet, no s’havia complert una de les condicions que regulen la inclusió de les mercaderies en aquest règim o la concessió d’una exempció de drets o una reducció del tipus dels drets a la importació en virtut de la destinació particular de les mercaderies.
+3. En els casos esmentats en les lletres
+a
+i
+b
+de l’apartat 1, el deutor és qualsevol de les persones següents:
+a) Tota persona a la qual s’ha exigit el compliment de les obligacions en qüestió.b) Tota persona que sap o hauria hagut de saber raonablement que no s’havia complert una obligació conformement a la legislació duanera i que ha actuat per compte de la persona que estava obligada a complir l’obligació, o ha participat en l’acte que va conduir a l’incompliment de l’obligació.c) Tota persona que ha adquirit o posseït les mercaderies en qüestió i que sabés o hauria hagut de saber raonablement en el moment d’adquirir o rebre les mercaderies que no s’havia complert una obligació establerta per la legislació duanera.
+4. En els casos esmentats en l’apartat 1, lletra
+c
+, el deutor és la persona que ha de complir les condicions que regulen la inclusió de les mercaderies en un règim duaner, o la declaració a la duana de les mercaderies incloses en aquest règim duaner, o la concessió d’una exempció de drets o una reducció del tipus dels drets a la importació en virtut de la destinació particular de les mercaderies.
+Quan es presenti una declaració a la duana respecte d’un dels règims duaners esmentats en l’apartat 1, lletra
+c
+, i se subministri a les autoritats duaneres qualsevol informació requerida conformement a la legislació duanera i relativa a les condicions que regulen la inclusió de les mercaderies en aquest règim duaner, de manera que això condueixi a la no percepció de la totalitat o una part dels drets exigibles, el deutor és també la persona que va subministrar la informació requerida per formular la declaració a la duana i que sabia o hauria hagut de saber raonablement que aquesta informació era falsa.
 
 **Article 80. Deducció d’un import de drets a la importació ja pagat**
 
@@ -541,7 +697,15 @@ Quan es presenti una declaració a la duana sobre la base d’una informació qu
 
 **Article 82. uaner nascut per incompliment**
 
-$4c
+1. Respecte de les mercaderies subjectes a drets a l’exportació, neix un deute duaner a l’exportació per incompliment d’alguna de les circumstàncies següents:
+a) Una de les obligacions establertes en la legislació duanera per a la sortida de les mercaderies.b) Les condicions de conformitat amb les quals es va permetre la sortida de les mercaderies del territori duaner del Principat d’Andorra amb exempció total o parcial dels drets a l’exportació.
+2. El moment en què neix el deute duaner és un dels següents:
+a) El moment en què les mercaderies surten efectivament del territori duaner del Principat d’Andorra sense una declaració a la duana.b) El moment en què les mercaderies arriben a una destinació diferent d’aquella per a la qual van ser autoritzades a sortir del territori duaner del Principat d’Andorra amb exempció total o parcial dels drets a l’exportació.c) En cas que les autoritats duaneres no puguin determinar el moment esmentat en la lletra b, el venciment del termini fixat per presentar proves que s’han complert les condicions que permeten a les mercaderies beneficiar-se d’aquesta exempció.
+3. En els casos esmentats en la lletra a de l’apartat 1, el deutor és qualsevol de les persones següents:
+a) Tota persona a la qual s’ha exigit el compliment de les obligacions en qüestió.b) Tota persona que sap o hauria hagut de saber raonablement que no s’havia complert l’obligació en qüestió i que ha actuat per compte de la persona obligada a complir aquesta obligació.c) Tota persona que ha participat en l’acte que va portar a l’incompliment de l’obligació i que sap o hauria hagut de saber raonablement que no s’havia presentat una declaració a la duana, malgrat ser preceptiva.
+4. En els casos esmentats en la lletra
+b
+de l’apartat 1, el deutor és tota persona que estigui obligada a complir les condicions d’acord amb les quals es va autoritzar la sortida de les mercaderies del territori duaner del Principat d’Andorra amb exempció total o parcial dels drets a l’exportació.
 
 ##### Secció tercera. Disposicions comunes als deutes duaners nascuts en el moment de la importació i de l’exportació
 
@@ -564,11 +728,27 @@ No obstant això, quan la informació de què disposin les autoritats duaneres e
 
 **Article 86. Regles especials per al càlcul de l’import dels drets a la importació**
 
-$4e
+1. Quan els costos d’emmagatzematge o de les operacions usuals de manipulació s’hagin generat al territori duaner del Principat d’Andorra respecte de mercaderies incloses en un règim duaner o en dipòsit temporal, aquests costos o l’increment de valor no es tenen en compte per calcular l’import dels drets a la importació en cas que el declarant subministri proves satisfactòries d’aquests costos.
+No obstant això, es té en compte el valor a la Duana, i la quantitat, la naturalesa i l’origen de les mercaderies no posades en lliure disposició utilitzats en les operacions per calcular l’import dels drets a la importació.
+2. Quan la classificació aranzelària de les mercaderies incloses en un règim duaner canviï com a conseqüència d’operacions usuals de manipulació al territori duaner del Principat d’Andorra, s’aplica, a sol·licitud del declarant, la classificació aranzelària original de les mercaderies incloses en el règim.
+3. Quan neixi un deute duaner per als productes transformats resultants del règim de perfeccionament actiu, l’import dels drets a la importació corresponent a aquest deute es determina, a sol·licitud del declarant, sobre la base de la classificació aranzelària, el valor a la Duana, i la quantitat, la naturalesa i l’origen de les mercaderies incloses en el règim de perfeccionament actiu en el moment d’admetre la declaració a la duana relativa a aquestes mercaderies.
+4. En determinats casos, l’import dels drets a la importació es determina de conformitat amb els apartats 2 i 3 sense sol·licitud del declarant, a fi d’evitar que s’eludeixin les mesures aranzelàries esmentades en l’article 56, apartat 2, lletra
+h
+.
+5. Quan neixi un deute duaner en relació amb productes transformats resultants del règim de perfeccionament passiu o amb productes de substitució esmentats en l’article 261, apartat 1, l’import dels drets a la importació es calcula basant-se en el cost de l’operació de transformació duta a terme fora del territori duaner previst a l’article 69, apartat 2.
+6. Quan la legislació duanera concedeixi un tractament aranzelari favorable o una franquícia o una exempció total o parcial dels drets a la importació o a l’exportació, en virtut de l’article 56, apartat 2, lletres
+d
+a
+g
+, els articles 203, 204, 205 i 208 o els articles 259 a 262, o en virtut de la llei vigent en matèria de franquícies duaneres, aquest tractament favorable, franquícia o exempció s’apliquen així mateix en els casos de naixement de deute duaner en virtut dels articles 79 o 82, sempre que l’incompliment que origini el deute duaner no constitueixi una temptativa de frau.
 
 **Article 87. Lloc de naixement del deute duaner**
 
-$50
+1. Un deute duaner neix al lloc on s’ha presentat la declaració a la duana o la declaració de reexportació esmentades en els articles 77, 78 i 81.
+En tots els altres casos, el lloc de naixement d’un deute duaner és el lloc on es produeixen els fets dels quals es deriva.
+Si no és possible determinar aquest lloc, el deute duaner neix al lloc on les autoritats duaneres concloguin que les mercaderies es troben en una situació que ha originat un deute duaner.
+2. Si les mercaderies s’han inclòs en un règim duaner que no s’ha tancat o si el dipòsit temporal no s’ha tancat correctament, i no es pot determinar el lloc de naixement del deute duaner d’acord amb els paràgrafs segon o tercer de l’apartat 1, en un termini determinat, el deute duaner neix al lloc on les mercaderies van ser incloses en el règim de què es tracti, introduïdes al territori duaner del Principat d’Andorra conformement a aquest règim, o bé al lloc on les mercaderies van ser col·locades en dipòsit temporal.
+3. Quan la informació de què disposin les autoritats duaneres els permeti comprovar que el deute duaner pot haver nascut en diversos llocs, es considera que el deute duaner neix en el primer.
 
 **Article 88. Delegació de poders**
 
@@ -579,11 +759,24 @@ a) Les normes per calcular l’import dels drets a la importació o a l’export
 
 **Article 89. Disposicions generals**
 
-$52
+1. Aquest capítol s’aplica tant a les garanties dels deutes duaners que ja han nascut com a les d’aquells que puguin néixer, llevat que es disposi el contrari.
+2. Si les autoritats duaneres exigeixen la constitució d’una garantia per a un deute duaner potencial o existent, la garantia cobreix l’import dels drets a la importació o a l’exportació i altres gravàmens reportats per la importació o l’exportació de les mercaderies quan:
+a) La garantia s’utilitzi per a la inclusió de mercaderies en el règim de trànsit; ob) La garantia es pugui utilitzar en més d’un estat.Una garantia que no es pugui fer servir fora del territori nacional és vàlida únicament per a Andorra i cobreix almenys l’import dels drets a la importació o a l’exportació.
+3. Quan les autoritats duaneres exigeixin que es constitueixi una garantia, aquesta garantia és exigida del deutor o de la persona que pugui arribar a ser-ne el deutor. També es pot permetre que la garantia sigui constituïda per una persona diferent de la persona a la qual s’exigeix.
+4. Sense perjudici del que disposa l’article 97, les autoritats duaneres només exigeixen que es constitueixi una garantia respecte de mercaderies determinades o d’una declaració determinada.
+La garantia constituïda per a una declaració determinada s’aplica a l’import dels drets a la importació o a l’exportació corresponent al deute duaner i altres gravàmens respecte de totes les mercaderies incloses en aquesta declaració o al dret a disposar a què s’hagi procedit en virtut d’aquesta declaració, sigui correcta la declaració o no.
+Si la garantia no ha estat alliberada, també es pot utilitzar, dins els límits de l’import garantit, per cobrar els imports dels drets a la importació o a l’exportació i altres gravàmens exigibles com a conseqüència del control posterior al dret a disposar d’aquestes mercaderies.
+5. A sol·licitud de la persona esmentada en l’apartat 3 d’aquest article, les autoritats duaneres, de conformitat amb l’article 95, apartats 1, 2 i 3, poden autoritzar la constitució d’una garantia global per cobrir l’import dels drets a la importació o a l’exportació corresponent al deute duaner respecte de dos o més operacions, declaracions o règims duaners.
+6. Les autoritats duaneres controlen la garantia.
+7. No s’exigeix cap garantia dels estats, de les autoritats governamentals regionals i locals o d’altres organismes regulats pel dret públic, respecte de les activitats en les quals participin com a autoritats públiques.
+8. No s’exigeix garantia en casos específics en els quals les mercaderies s’inclouen en el règim d’importació temporal.
+9. En determinats casos i per a imports inferiors a 1.000 euros, les autoritats duaneres poden concedir una dispensa al requisit de constitució d’una garantia.
 
 **Article 90. Garantia obligatòria**
 
-$54
+1. Quan sigui obligatori constituir una garantia, les autoritats duaneres fixen l’import d’aquesta garantia a un nivell igual a l’import exacte dels drets a la importació o a l’exportació corresponent al deute duaner en qüestió i d’altres gravàmens, sempre que aquest import pugui ser determinat amb certesa en el moment en què s’exigeixi la garantia.
+Quan no sigui possible determinar-ne l’import exacte, la garantia és fixada en l’import més elevat, estimat per les autoritats duaneres, dels drets a la importació o a l’exportació corresponent al deute duaner i d’altres gravàmens que ja hi hagi o es puguin originar.
+2. Sense perjudici del que disposa l’article 95, quan es constitueixi una garantia global per a l’import dels drets a la importació o a l’exportació corresponent a deutes duaners i altres gravàmens l’import dels quals variï en el temps, l’import d’aquesta garantia es fixa en un nivell que permeti cobrir en tot moment l’import dels drets a la importació o a l’exportació corresponent a deutes duaners i altres gravàmens.
 
 **Article 91. Garantia facultativa**
 
@@ -612,11 +805,31 @@ b
 
 **Article 95. Garantia global**
 
-$56
+1. L’autorització esmentada en l’article 89, apartat 5, només es concedeix a persones que compleixin totes les condicions següents:
+a) Estar establertes al territori duaner del Principat d’Andorra.b) Complir els criteris establerts en l’article 39, lletraa.c) Utilitzar habitualment els règims duaners de què es tracti o ser operadors d’instal·lacions de dipòsit temporal o complir els criteris establerts en l’article 39, lletrad.
+2. Quan s’hagi de constituir una garantia global per deutes duaners i altres gravàmens que puguin néixer, un operador econòmic pot ser autoritzat a utilitzar una garantia global amb un import reduït o gaudir d’una dispensa de garantia, sempre que satisfaci els criteris establerts en l’article 39, lletres
+b
+i
+c
+.
+3. Quan s’hagi de constituir una garantia global per deutes duaners i altres gravàmens reportats, s’autoritza, amb sol·licitud prèvia, un operador econòmic autoritzat de simplificacions duaneres a utilitzar una garantia global d’import reduït.
+4. La garantia global d’import reduït a què es refereix l’apartat 3 és equivalent a la constitució d’una garantia.
 
 **Article 96. Prohibicions temporals relatives a la utilització de les garanties globals**
 
-$58
+1. En el marc dels règims especials o del dipòsit temporal, les autoritats duaneres poden decidir prohibir temporalment el recurs a:
+a) La garantia global d’import reduït o la dispensa de garantia previstes per l’article 95, apartat 2.b) La garantia global establerta en l’article 95, pel que fa a les mercaderies que s’hagi comprovat que són objecte de frau a gran escala.
+2. En els casos en què sigui aplicable l’apartat 1, lletres
+a
+o
+b
+, d’aquest article, es pot autoritzar el recurs a la garantia global d’import reduït o a la dispensa de garantia o el recurs a la garantia global a què es refereix l’article 95 quan la persona interessada compleixi una de les condicions següents:
+a) Que la persona pugui demostrar que no s’ha originat un deute duaner respecte de les mercaderies de què es tracti durant les operacions que la persona ha dut a terme en els dos anys anteriors a la decisió a què es refereix l’apartat 1.b) En cas d’haver-se originat deutes duaners en els dos anys anteriors a la decisió a què es refereix l’apartat 1, que la persona interessada pugui demostrar que aquests deutes van ser abonats íntegrament pel deutor o els deutors o pel fiador dins els terminis establerts.
+Per obtenir una autorització d’utilització d’una garantia global subjecta a una prohibició temporal, la persona interessada també ha de complir els criteris establerts en l’article 39, lletres
+b
+i
+c
+.
 
 **Article 97. Garantia addicional o de substitució**
 
@@ -650,7 +863,13 @@ Quan l’import a què es refereix el paràgraf primer s’expressi en euros, l�
 
 **Article 102. Notificació del deute duaner**
 
-$5a
+1. El deute duaner es notifica al deutor en la forma establerta al lloc on hagi nascut el deute o on es consideri que ha nascut de conformitat amb l’article 87.
+La notificació prevista pel paràgraf primer no s’efectua en cap dels casos següents:
+a) Quan, en espera de la determinació final de l’import dels drets a la importació o a l’exportació, s’hagi imposat una mesura de política comercial provisional que adopti la forma d’un dret.b) Quan l’import dels drets a la importació o a l’exportació exigibles sigui superior a l’import determinat sobre la base d’una decisió presa de conformitat amb l’article 33.c) Quan la decisió original de no notificar el deute duaner o de notificar-lo amb l’import dels drets a la importació o a l’exportació en una xifra inferior a la de l’import dels drets a la importació o a l’exportació exigible s’hagi pres conformement a disposicions generals invalidades en una data posterior per una decisió judicial.d) Quan les autoritats duaneres estiguin dispensades d’acord amb la normativa duanera de la notificació del deute duaner.
+2. Quan l’import dels drets a la importació o a l’exportació exigibles sigui igual a l’import consignat en la declaració a la duana, el dret a disposar de les mercaderies per part de les autoritats duaneres és equivalent a la notificació al deutor del deute duaner.
+3. Quan no sigui aplicable l’apartat 2, les autoritats duaneres han de notificar el deute duaner al deutor quan es trobin en posició de determinar l’import dels drets a la importació o a l’exportació exigibles i prendre una decisió.
+No obstant això, quan la notificació del deute duaner sigui perjudicial per a una investigació judicial, les autoritats duaneres poden ajornar aquesta notificació fins al moment en què la notificació no perjudiqui aquesta investigació judicial.
+4. Sempre que el pagament hagi estat garantit, el deute duaner corresponent a l’import total dels drets a la importació o a l’exportació relatius a totes les mercaderies el dret a disposar de les quals hagi estat concedit a una única i mateixa persona durant un termini fixat per les autoritats duaneres es pot notificar al final d’aquest període. El període establert per les autoritats duaneres no ha de ser superior a 31 dies.
 
 **Article 103. Prescripció del deute duaner**
 
@@ -665,7 +884,14 @@ El paràgraf primer no s’aplica en els casos esmentats en l’article 102, apa
 
 **Article 105. Moment de la comptabilització**
 
-$5c
+1. Quan neixi un deute duaner com a conseqüència de l’admissió de la declaració a la duana de les mercaderies per a un règim duaner diferent de la importació temporal amb exempció parcial de drets a la importació, o de qualsevol altre acte que tingui el mateix efecte jurídic que aquesta admissió, les autoritats duaneres han de comptabilitzar l’import dels drets a la importació o a l’exportació exigibles dins els 14 dies següents al dret a disposar de les mercaderies.
+No obstant això, sempre que el pagament hagi estat garantit, l’import total dels drets a la importació o a l’exportació relatius a totes les mercaderies el dret a disposar de les quals hagi estat concedit en benefici d’una única i mateixa persona durant un termini fixat per les autoritats duaneres, que no pot sobrepassar 31 dies, pot figurar en un únic assentament comptable al final d’aquest termini. Aquesta comptabilització es produeix dins els 14 dies següents a l’expiració del termini en qüestió.
+2. Quan es pugui procedir a donar el dret a disposar de les mercaderies d’acord amb certes condicions que regulin bé la determinació de l’import dels drets a la importació o a l’exportació exigibles, bé la seva percepció, la comptabilització es produeix dins els 14 dies següents a la data en la qual es determini l’import dels drets a la importació o a l’exportació exigibles o s’estableixi l’obligació de pagar aquests drets.
+No obstant això, quan el deute duaner es refereixi a una mesura provisional de política comercial que adopti la forma d’un dret, es comptabilitza l’import dels drets a la importació o a l’exportació exigibles dins els dos mesos següents a la data en la qual s’adopta la mesura definitiva de política comercial.
+3. Quan un deute duaner neixi en circumstàncies no establertes per l’apartat 1, es comptabilitza l’import dels drets a la importació o a l’exportació exigibles dins els 14 dies següents a la data en la qual les autoritats duaneres es trobin en posició de determinar l’import dels drets a la importació o a l’exportació de què es tracti i d’adoptar una decisió.
+4. L’apartat 3 s’aplica respecte de l’import dels drets a la importació o a l’exportació que s’hagi de recaptar o que quedi per recaptar quan no s’hagi comptabilitzat l’import dels drets a la importació o a l’exportació exigibles de conformitat amb els apartats 1, 2 i 3, o quan hagi estat determinat i s’hagi comptabilitzat a un nivell inferior a l’import exigible.
+5. Els terminis per a la comptabilització establerts en els apartats 1, 2 i 3 no s’apliquen en cas fortuït o de força major.
+6. La comptabilització es pot ajornar en el cas esmentat en l’article 102, apartat 3, segon paràgraf, fins al moment en què la notificació del deute duaner no perjudiqui la investigació judicial.
 
 **Article 106. Delegació de poders**
 
@@ -681,7 +907,12 @@ Les autoritats duaneres, en el marc d’acords internacionals, han de col·labor
 
 **Article 108. Terminis generals per al pagament i la suspensió del termini de pagament**
 
-$5e
+1. Els imports dels drets a la importació o a l’exportació corresponents a un deute duaner notificat de conformitat amb l’article 102 han de ser pagats pel deutor en el termini establert per les autoritats duaneres.
+Sense perjudici de l’article 45, apartat 2, aquest termini no ha de sobrepassar els deu dies següents a la notificació al deutor del deute duaner. En cas d’acumulació de comptabilitzacions de conformitat amb les condicions establertes en l’article 105, apartat 1, paràgraf segon, el termini es fixa de manera que no permeti al deutor disposar d’un termini de pagament més llarg que si se li hagués concedit un pagament ajornat d’acord amb l’article 110.
+Les autoritats duaneres poden ampliar aquest termini a sol·licitud del deutor quan l’import dels drets a la importació o a l’exportació exigibles s’hagi determinat durant el control posterior al dret a disposar esmentat en l’article 48. Sense perjudici de l’article 112, apartat 1, aquesta pròrroga no ha de sobrepassar el temps necessari perquè el deutor prengui les mesures apropiades per complir la seva obligació.
+2. Si el deutor té dret a qualsevol de les facilitats de pagament establertes en els articles 110 a 112, el pagament s’efectua en el termini o els terminis especificats en relació amb aquestes facilitats.
+3. El termini per al pagament de l’import dels drets a la importació o a l’exportació corresponent a un deute duaner se suspèn en qualsevol dels casos següents:
+a) Quan es presenti una sol·licitud de condonació de drets de conformitat amb l’article 121.b) Quan les mercaderies hagin de ser decomissades, destruïdes o abandonades en benefici de l’Estat.c) Quan el deute duaner hagi nascut conformement al que disposa l’article 79 i hi hagi més d’un deutor.
 
 **Article 109. Pagament**
 
@@ -696,7 +927,19 @@ a) Separadament, respecte de cada import dels drets a la importació o a l’exp
 
 **Article 111. Terminis per a l’ajornament del pagament**
 
-$60
+1. El termini durant el qual s’ajorna el pagament de conformitat amb l’article 110 és de 30 dies.
+2. Quan el pagament s’ajorni de conformitat amb l’article 110, lletra
+a
+, el termini comença l’endemà del dia en què es notifiqui al deutor el deute duaner.
+3. Quan el pagament s’ajorni de conformitat amb l’article 110, lletra
+b
+, el termini comença l’endemà del dia en què finalitzi el termini de globalització. Es redueix en el nombre de dies corresponent a la meitat del nombre de dies que comprengui el període de globalització.
+4. Quan el pagament s’ajorni de conformitat amb l’article 110, lletra
+c
+, el termini comença l’endemà del dia en què finalitzi el termini establert per donar el dret a disposar de les mercaderies de què es tracti. Es redueix en el nombre de dies corresponent a la meitat del nombre de dies que comprengui el període de què es tracti.
+5. Quan el nombre de dies dels terminis esmentats en els apartats 3 i 4 sigui imparell, el nombre de dies que es dedueix del termini de 30 dies conformement a aquests apartats és igual a la meitat del nombre parell immediatament inferior.
+6. Quan els terminis esmentats en els apartats 3 i 4 siguin setmanes naturals, les autoritats duaneres poden disposar que l’import dels drets a la importació o a l’exportació respecte del qual s’hagi ajornat el pagament s’ha de pagar, a tot tardar, el divendres de la quarta setmana següent a la setmana natural de què es tracti.
+En cas que aquests terminis siguin mesos naturals, les autoritats duaneres poden disposar que l’import dels drets a la importació o a l’exportació respecte del qual s’hagi ajornat el pagament s’ha de pagar, a tot tardar, el setzè dia del mes següent al mes natural de què es tracti.
 
 **Article 112. Altres facilitats de pagament**
 
@@ -724,7 +967,17 @@ Es faculta el Govern per determinar les normes que regulin la suspensió del ter
 
 **Article 116. Disposicions generals**
 
-$62
+1. Sempre que es compleixin les condicions establertes en aquesta secció, els imports dels drets a la importació o a l’exportació es retornen o condonen per qualsevol dels motius següents:
+a) Cobrament excessiu d’imports de drets a la importació o a l’exportació.b) Mercaderies defectuoses o que incompleixen els termes del contracte.c) Error de les autoritats competents.d) Equitat.
+Quan s’hagi pagat un import de drets a la importació o a l’exportació i s’invalidi la declaració a la duana corresponent de conformitat amb l’article 174, aquest import és retornat.
+2. Si l’autoritat duanera considera que s’ha de concedir la devolució o condonació sobre la base de l’article 119 o de l’article 120, inicia el procediment corresponent.
+3. Quan les autoritats duaneres descobreixin en el termini previst per l’article 121, apartat 1, que un import de drets a la importació o a l’exportació pot ser retornat o condonat conformement als articles 117, 119 o 120, l’han de retornar o condonar per pròpia iniciativa.
+4. No es concedeix la devolució ni la condonació quan la situació que va portar a la notificació del deute duaner sigui conseqüència d’un acte fraudulent del deutor.
+5. La devolució no dona origen al pagament d’interessos per part de les autoritats duaneres de què es tracti.
+No obstant això, es paguen interessos quan una decisió per la qual es concedeix la devolució no s’ha executat en els tres mesos a comptar de la data en la qual es va prendre aquesta decisió, llevat que l’incompliment del termini no es pugui imputar a les autoritats duaneres.
+En aquests casos, els interessos es paguen des de la data d’expiració del termini de tres mesos fins a la data de la devolució. El tipus d’interès s’estableix de conformitat amb l’article 112.
+6. Quan les autoritats duaneres hagin concedit erròniament una devolució o condonació, el deute duaner inicial torna a ser exigible, sempre que no hagin vençut els terminis a què es refereix l’article 103.
+En aquests casos, els interessos pagats conformement a l’apartat 5, paràgraf segon, s’han de reemborsar.
 
 **Article 117. Cobrament excessiu d’imports de drets a la importació o a l’exportació**
 
@@ -738,11 +991,26 @@ a) Si es tracta d’un contingent aranzelari, que no se n’hagi esgotat el volu
 
 **Article 118. Mercaderies defectuoses o que incompleixen els termes del contracte**
 
-$64
+1. Un import de drets a la importació es retorna o condona si la notificació del deute duaner es refereix a mercaderies que van ser refusades per l’importador pel fet que, en el moment del dret a disposar, eren defectuoses o no complien els termes del contracte d’acord amb el qual es van importar.
+S’assimilen a mercaderies defectuoses les mercaderies danyades abans del dret a disposar.
+2. No obstant el que disposa l’apartat 3, es concedeix la devolució o la condonació sempre que les mercaderies no s’hagin utilitzat, excepte pel que respecta a la utilització inicial que pugui haver estat necessària per comprovar que eren defectuoses o que no complien els termes del contracte i sempre que hagin sortit del territori duaner del Principat d’Andorra.
+3. No es concedeix la devolució ni la condonació quan:
+a) Les mercaderies, abans de ser posades en lliure disposició, s’hagin inclòs en un règim especial per ser sotmeses a proves, llevat que es demostri que normalment aquestes proves no permeten detectar que les mercaderies són defectuoses o no compleixen els termes del contracte.b) El caràcter defectuós de les mercaderies es va tenir en compte en el moment d’establir els termes del contracte, en particular el preu, abans d’incloure les mercaderies en un règim duaner que comporti el naixement d’un deute duaner.c) El sol·licitant hagi venut les mercaderies després d’haver-se comprovat que són defectuoses o que no compleixen els termes del contracte.
+4. Les autoritats duaneres autoritzen, amb sol·licitud prèvia de l’interessat, que les mercaderies s’incloguin en el règim de perfeccionament actiu, fins i tot que es destrueixin, o en el règim de dipòsit duaner o de zona franca, en lloc que surtin del territori duaner del Principat d’Andorra.
 
 **Article 119. Error de les autoritats competents**
 
-$66
+1. En casos diferents dels esmentats en l’article 116, apartat 1, paràgraf segon, i en els articles 117, 118 i 120, es retorna o condona un import de drets a la importació o a l’exportació quan, com a conseqüència d’un error comès per les autoritats competents, l’import corresponent al deute duaner notificat inicialment sigui inferior a l’import exigible, sempre que es compleixin les condicions següents:
+a) El deutor no podia haver detectat raonablement aquest error.b) El deutor va actuar de bona fe.
+2. En cas que no es compleixin les condicions establertes en l’article 117, apartat 2, la devolució o condonació es concedeix quan, com a conseqüència d’un error comès per les autoritats duaneres, no s’hagi aplicat el dret reduït o de tipus zero i la declaració de posada en lliure disposició contingui tots els elements i vagi acompanyada de tots els documents necessaris per aplicar el dret reduït o de tipus zero.
+3. Quan es concedeixi el tracte preferencial de les mercaderies d’acord amb un sistema de cooperació administrativa en què participin les autoritats d’un país o territori situat fora del territori duaner del Principat d’Andorra, el fet que aquestes autoritats expedeixin un certificat, en cas que sigui incorrecte, constitueix un error que no es va poder detectar raonablement a l’efecte de l’apartat 1, lletra
+a
+.
+No obstant això, el fet d’expedir un certificat incorrecte no constitueix un error quan el certificat es basi en una relació dels fets incorrecta aportada per l’exportador, excepte quan sigui evident que les autoritats expedidores sabien o haurien d’haver sabut que les mercaderies no complien les condicions establertes per tenir dret al tractament preferencial.
+Es considera que el deutor va actuar de bona fe si es pot demostrar que, durant el període de les operacions comercials de què es tracti, es va assegurar adequadament que es complissin totes les condicions per al tractament preferencial.
+El deutor no pot al·legar la seva bona fe si s’ha publicat un anunci en el
+Diari Oficial de la Unió Europea
+en el qual es declari que hi ha motius per dubtar de l’aplicació adequada dels acords preferencials per part del país o territori beneficiari.
 
 **Article 120. Equitat**
 
@@ -751,7 +1019,15 @@ $66
 
 **Article 121. Procediment per a devolucions i condonacions**
 
-$68
+1. Les sol·licituds de devolució o de condonació de conformitat amb l’article 116 s’han de presentar a les autoritats duaneres dins els terminis següents:
+a) En cas d’un excés de cobrament de drets a la importació o a l’exportació, error de les autoritats competents o equitat, en el termini de tres anys a partir de la data de notificació del deute duaner.b) En cas de mercaderies defectuoses o que incompleixen les condicions del contracte, en el termini d’un any a partir de la data de notificació del deute duaner.c) En cas d’invalidació d’una declaració a la duana, en el termini especificat en les normes aplicables a la invalidació.
+El termini especificat en les lletres
+a
+i
+b
+del paràgraf primer es prorroga quan el sol·licitant presenti proves que es va veure impossibilitat per presentar una sol·licitud dins el termini establert pel fet de tractar-se d’un cas fortuït o de força major.
+2. Quan, tenint en compte els motius invocats, les autoritats duaneres no estiguin en condicions de concedir la devolució o condonació d’un import dels drets a la importació o a l’exportació, estan obligades a examinar el fonament d’una sol·licitud de devolució o condonació tenint en compte els altres motius de devolució o condonació a què es refereix l’article 116.
+3. Quan s’hagi presentat un recurs conformement a l’article 44 contra la notificació del deute duaner, se suspèn el termini corresponent especificat en el paràgraf primer de l’apartat 1, a partir de la data en què es presenti el recurs i mentre duri el procediment d’aquest recurs.
 
 **Article 122. Delegació de poders**
 
@@ -766,7 +1042,20 @@ El Govern ha de determinar les normes de procediment relatives a les devolucions
 
 **Article 124. Extinció**
 
-$6a
+1. Sense perjudici de les disposicions vigents relatives a la no recaptació de l’import de drets a la importació o a l’exportació corresponent a un deute duaner en cas que es determini judicialment la insolvència del deutor, un deute duaner a la importació o a l’exportació s’extingeix de qualsevol de les maneres següents:
+a) Quan al deutor ja no se li pugui notificar el deute duaner contret, conformement a l’article 103.b) Mitjançant el pagament de l’import dels drets a la importació o a l’exportació.c) Per condonació de l’import dels drets a la importació o a l’exportació, de conformitat amb el que disposa l’apartat 5.d) Quan s’invalidi la declaració a la duana respecte de mercaderies declarades per a un règim duaner que impliqui l’obligació de pagar drets a la importació o a l’exportació.e) Quan unes mercaderies subjectes a drets a la importació o a l’exportació siguin confiscades o decomissades, i confiscades simultàniament o posteriorment.f) Quan unes mercaderies subjectes a drets a la importació o a l’exportació siguin destruïdes sota vigilància duanera o abandonades en benefici de l’Estat.g) Quan la desaparició de les mercaderies o l’incompliment de les obligacions derivades de la legislació duanera es derivi de la destrucció total o la pèrdua irremeiable d’aquestes mercaderies per una causa inherent a la naturalesa mateixa de les mercaderies, per un cas fortuït o per força major, o com a conseqüència d’instruccions de les autoritats duaneres; a l’efecte d’aquesta lletra, les mercaderies es consideren perdudes irremeiablement quan ningú no les pugui utilitzar.h) Quan el deute duaner neixi conformement als articles 79 o 82 i es compleixin les condicions següents:i) Que l’incompliment que va portar al naixement del deute duaner no tingui efectes significatius per al funcionament adequat del dipòsit temporal o del règim duaner de què es tracti i no constitueixi una temptativa de frau.ii) Que tots els tràmits necessaris per regularitzar la situació de les mercaderies es duguin a terme posteriorment.i) Quan les mercaderies posades en lliure disposició amb exempció de drets, o acollides a un dret a la importació reduït a causa de la seva destinació particular, s’hagin exportat amb autorització de les autoritats duaneres.j) Quan hagi nascut conformement a l’article 78 i quan els tràmits efectuats per obtenir el tractament aranzelari preferencial esmentat en aquest article siguin anul·lats.k) Quan, sense perjudici del que disposa l’apartat 6, el deute duaner hagi nascut de conformitat amb l’article 79 i es justifiqui a satisfacció de les autoritats duaneres que les mercaderies no s’han utilitzat ni consumit i han sortit del territori duaner del Principat d’Andorra.
+2. No obstant això, en els casos esmentats en l’apartat 1, lletra
+e
+, es considera que el deute duaner no s’ha extingit, a l’efecte de les sancions aplicables a les infraccions duaneres, quan, d’acord amb el dret nacional, els drets a la importació o a l’exportació o l’existència d’un deute duaner constitueixin la base per determinar les sancions.
+3. Quan, conformement a l’apartat 1, lletra
+g
+, un deute duaner s’hagi extingit respecte d’unes mercaderies posades en lliure disposició amb exempció de drets o acollides a un dret a la importació reduït a causa de la seva destinació particular, tot residu o deixalla resultant de destruir-les es considera com a mercaderia no posada en lliure disposició.
+4. Són aplicables les disposicions en vigor relatives als percentatges normals de pèrdues irrecuperables degudes a la naturalesa de les mercaderies quan l’interessat no demostri que la pèrdua real ha estat més gran que la calculada mitjançant l’aplicació del percentatge normal a les mercaderies de què es tracti.
+5. Quan diverses persones siguin responsables del pagament de l’import dels drets a la importació o a l’exportació corresponent al deute duaner i es concedeixi la condonació, el deute duaner només s’extingeix respecte de la persona o les persones a les quals es concedeixi la condonació.
+6. En el cas esmentat en l’apartat 1, lletra
+k
+, el deute duaner no s’extingeix respecte de tota persona o persones que hagin intentat cometre un frau.
+7. Quan el deute duaner hagi nascut conformement a l’article 79, s’extingeix respecte a la persona el comportament de la qual no estigui implicada en cap temptativa de frau i hagi contribuït a la lluita contra el frau.
 
 **Article 125. Imposició de sancions**
 
@@ -788,7 +1077,16 @@ i
 
 **Article 127. Presentació d’una declaració sumària d’entrada**
 
-$6c
+1. Les mercaderies introduïdes al territori duaner del Principat d’Andorra han de ser objecte d’una declaració sumària d’entrada.
+2. La declaració sumària d’entrada s’ha de presentar a la primera duana d’entrada, dins un termini determinat, abans que les mercaderies siguin introduïdes al territori duaner del Principat d’Andorra.
+Les autoritats duaneres poden autoritzar que la declaració sumària d’entrada es presenti en una altra duana, sempre que aquesta última ho comuniqui immediatament a la primera duana d’entrada o posi a la seva disposició, per via electrònica, les dades necessàries.
+3. La declaració sumària d’entrada l’ha de presentar el transportista.
+Sense perjudici de les obligacions del transportista, la declaració sumària d’entrada pot ser presentada per una de les persones següents:
+a) L’importador o el consignatari, o qualsevol altra persona en el nom de la qual o pel compte de la qual actuï el transportista.b) Qualsevol persona que estigui en condicions de presentar o de disposar que es presentin les mercaderies de què es tracti davant la duana d’entrada.
+4. La declaració sumària d’entrada ha de contenir les dades necessàries per a l’anàlisi de riscos als efectes de seguretat i protecció.
+5. En casos específics, quan no es puguin obtenir totes les dades a què es refereix l’apartat 4 de les persones indicades en l’apartat 3, es pot requerir a altres persones que disposin d’aquestes dades, i dels drets corresponents per facilitar-les, que les proporcionin.
+6. Les autoritats duaneres poden acceptar que s’utilitzin, per presentar una declaració sumària d’entrada, sistemes d’informació comercial, portuària o relativa al transport, sempre que aquests sistemes continguin les dades necessàries a l’efecte d’aquesta declaració i que aquestes dades estiguin disponibles dins un termini determinat abans que les mercaderies siguin introduïdes al territori duaner del Principat d’Andorra.
+7. Les autoritats duaneres poden acceptar, en comptes de la presentació d’una declaració sumària d’entrada, la presentació d’una notificació i l’accés a les dades de la declaració sumària d’entrada en el sistema informàtic de l’operador econòmic.
 
 **Article 128. Anàlisi de riscos**
 
@@ -804,7 +1102,8 @@ a) Sol·licitud prèvia del declarant.b) Dins els 200 dies següents a la presen
 
 **Article 130. Declaracions que substitueixen la declaració sumària d’entrada**
 
-$6e
+1. La Duana a què es refereix l’article 127, apartat 2, pot no exigir la presentació d’una declaració sumària d’entrada respecte de les mercaderies per a les quals, abans que hagi expirat el termini de presentació d’aquesta declaració, s’hagi presentat una declaració a la duana. En aquest cas, la declaració a la duana ha de contenir, com a mínim, les dades necessàries per a la declaració sumària d’entrada. Fins al moment en què la declaració a la duana sigui admesa de conformitat amb l’article 172, té l’estatut de declaració sumària d’entrada.
+2. La Duana a què es refereix l’article 127, apartat 2, pot no exigir la presentació d’una declaració sumària d’entrada respecte de les mercaderies per a les quals, abans que hagi expirat el termini de presentació d’aquesta declaració, s’hagi presentat una declaració de dipòsit temporal. Aquesta declaració ha de contenir, com a mínim, les dades necessàries per a la declaració sumària d’entrada. Fins al moment en què, de conformitat amb l’article 139, les mercaderies declarades es presentin a la Duana, la declaració de dipòsit temporal té la consideració de declaració sumària d’entrada.
 
 **Article 131. Delegació de poders**
 
@@ -828,19 +1127,31 @@ Quan les autoritats duaneres ja disposin d’informació relativa a l’arribada
 
 **Article 134. Vigilància duanera**
 
-$70
+1. Les mercaderies introduïdes al territori duaner del Principat d’Andorra, a partir del moment que entren, estan sota vigilància duanera i poden ser objecte de controls duaners. Quan escaigui, poden estar subjectes a prohibicions i restriccions que estiguin justificades, entre altres motius, per raons de moralitat, ordre o seguretat públics; protecció de la salut i la vida de persones, animals o plantes; protecció del medi ambient; protecció del patrimoni artístic, històric o arqueològic nacional, i protecció de la propietat industrial o comercial, inclosos els controls sobre precursors de drogues, mercaderies que infringeixin determinats drets de propietat intel·lectual i diners en metàl·lic, així com l’aplicació de mesures de conservació i de mesures de política comercial.
+Han de romandre sota aquesta vigilància mentre sigui necessari per determinar el seu estatut duaner, i no es poden retirar d’aquesta vigilància sense l’autorització prèvia de les autoritats duaneres.
+Sense perjudici de l’article 254, les mercaderies posades en lliure disposició no han d’estar sota vigilància duanera una vegada se n’hagi determinat l’estatut duaner.
+Les mercaderies no posades en lliure disposició han d’estar sota vigilància duanera fins que canviï el seu estatut duaner, o fins que surtin del territori duaner del Principat d’Andorra o siguin destruïdes.
+2. El titular de les mercaderies sota vigilància duanera, amb l’autorització prèvia de les autoritats duaneres, pot examinar en qualsevol moment les mercaderies o prendre’n mostres, en particular a fi de determinar-ne la classificació aranzelària, el valor a la Duana o l’estatut duaner.
 
 **Article 135. Trasllat al lloc apropiat**
 
-$72
+1. La persona que introdueixi mercaderies al territori duaner del Principat d’Andorra les ha de traslladar sense demora bé a la duana designada per les autoritats duaneres o a qualsevol altre lloc designat o autoritzat per aquestes autoritats, bé a una zona franca, utilitzant, si escau, la via determinada per les autoritats duaneres i d’acord amb les seves instruccions.
+2. La introducció de mercaderies en una zona franca s’efectua directament per via terrestre seguint el procediment establert per les autoritats duaneres.
+3. Tota persona que es faci càrrec del transport de les mercaderies després que s’hagin introduït al territori duaner del Principat d’Andorra es fa responsable de l’execució de les obligacions a què es refereixen els apartats 1 i 2.
+4. S’assimilen a mercaderies introduïdes al territori duaner del Principat d’Andorra les mercaderies que, malgrat que encara estiguin fora d’aquest territori, puguin estar subjectes al control de les autoritats duaneres d’un altre estat en virtut d’un acord subscrit amb el país o territori de què es tracti situat fora del territori duaner del Principat d’Andorra.
+5. Els apartats 1 i 2 no impedeixen l’aplicació de normes especials en matèria de mercaderies transportades dins zones frontereres o per conductes o cables o qualsevol altre trànsit d’escassa importància econòmica com, per exemple, cartes, postals i impresos, així com els seus equivalents electrònics continguts en altres mitjans, o de mercaderies transportades pels viatgers, sempre que la vigilància duanera i les possibilitats de control duaner no es vegin compromeses per aquest fet.
 
 **Article 136. Mercaderies que han abandonat temporalment el territori duaner del Principat d’Andorra per via aèria**
 
-$74
+1. Els articles 127 a 130 i 133 no s’apliquen quan les mercaderies no posades en lliure disposició són introduïdes en el territori duaner després d’haver abandonat aquest territori temporalment per via aèria, sempre que s’hagin transportat per via directa sense escales fora del territori duaner del Principat d’Andorra.
+2. Els articles 127 a 130 i 133 no s’apliquen quan les mercaderies posades en lliure disposició que han d’acreditar l’estatut duaner conformement a l’article 153, apartat 2, són introduïdes en el territori duaner després d’haver abandonat aquest territori temporalment per via aèria, sempre que s’hagin transportat per via directa sense escales fora del territori duaner del Principat d’Andorra.
+3. Els articles 127 a 130, 133, 139 i 140 no s’apliquen quan les mercaderies posades en lliure disposició que han circulat sense alterar el seu estatut duaner conformement a l’article 155, apartat 2, són introduïdes en el territori duaner després d’haver abandonat aquest territori temporalment per via aèria, sempre que s’hagin transportat per via directa sense escales fora del territori duaner del Principat d’Andorra.
 
 **Article 137. Trasllat en circumstàncies especials**
 
-$76
+1. Quan, per un cas fortuït o de força major, no es pugui complir l’obligació establerta en l’article 135, apartat 1, la persona vinculada per aquesta obligació o tota una altra persona que actuï per compte de la persona esmentada ha d’informar les autoritats duaneres de la situació sense demora. Quan el cas fortuït o de força major no hagi ocasionat la pèrdua total de les mercaderies, s’ha d’informar les autoritats duaneres, a més, del lloc exacte en el qual es troben aquestes mercaderies.
+2. Quan, per un cas fortuït o de força major, les aeronaus indicades en l’article 135, apartat 6, es vegin obligades a fer escala o aturar-se temporalment al territori duaner del Principat d’Andorra sense poder complir l’obligació prevista per l’article 135, apartat 1, la persona que hagi introduït l’aeronau al territori duaner del Principat d’Andorra, o qualsevol altra persona que actuï pel seu compte, n’ha d’informar sense demora les autoritats duaneres.
+3. Les autoritats duaneres han de determinar les mesures que s’hagin d’adoptar per facilitar la vigilància duanera de les mercaderies previstes per l’apartat 1, així com de les aeronaus i de les mercaderies que s’hi trobin a bord en els casos de l’apartat 2, i garantir, si escau, que es presentin ulteriorment en una duana o en qualsevol altre lloc designat o autoritzat per aquestes autoritats.
 
 **Article 138. Atribució de competències d’execució**
 
@@ -851,7 +1162,15 @@ a) La notificació de l’arribada a què es refereix l’article 133.b) El tras
 
 **Article 139. Presentació de les mercaderies a la Duana**
 
-$78
+1. Les mercaderies introduïdes al territori duaner del Principat d’Andorra han de ser presentades a la Duana immediatament després d’arribar a qualsevol duana designada, o a qualsevol lloc designat o aprovat per les autoritats duaneres o a una zona franca, per una de les persones següents:
+a) La persona que ha introduït les mercaderies al territori duaner del Principat d’Andorra.b) La persona en el nom de la qual o pel compte de la qual actua la persona que ha introduït les mercaderies en aquest territori.c) La persona que ha assumit la responsabilitat per al transport de les mercaderies després de ser introduïdes al territori duaner del Principat d’Andorra.
+2. Les mercaderies que siguin introduïdes al territori duaner del Principat d’Andorra per aire i es mantinguin a bord del mateix mitjà de transport per traslladar-les s’han de presentar a la Duana únicament quan siguin descarregades o transbordades. No obstant això, les mercaderies que siguin introduïdes al territori duaner del Principat d’Andorra i que siguin descarregades i carregades de nou en el mateix mitjà de transport durant el seu trajecte per fer possible la descàrrega o càrrega d’altres mercaderies no s’han de presentar a la Duana.
+3. Sense perjudici de les obligacions de la persona descrita en l’apartat 1, la presentació de les mercaderies també pot ser efectuada per una de les persones següents:
+a) Tota persona que inclogui immediatament les mercaderies en un règim duaner.b) El titular d’una autorització d’explotació d’instal·lacions d’emmagatzematge o tota persona que dugui a terme una activitat en una zona franca.
+4. La persona que presenti les mercaderies ha de fer referència a la declaració sumària d’entrada o, en els casos recollits en l’article 130, a la declaració a la duana o a la declaració de dipòsit temporal que hagi estat presentada respecte de les mercaderies, excepte quan es dispensi de l’obligació de presentar una declaració sumària d’entrada.
+5. Quan les mercaderies no posades en lliure disposició presentades a la Duana no estiguin cobertes per una declaració sumària d’entrada, una de les persones esmentades en l’article 127, apartat 3, ha de presentar de manera immediata aquesta declaració, o si les autoritats duaneres l’autoritzen presenta al seu lloc una declaració de duana o una declaració de dipòsit temporal, sense perjudici del que disposa l’apartat 5 de l’article 127, excepte en els casos en què es dispensi de l’obligació de presentar aquesta declaració. Quan, en aquestes circumstàncies, es presenta una declaració de duana o una declaració de dipòsit temporal, la declaració conté com a mínim els enunciats que han de figurar en la declaració sumària d’entrada.
+6. L’apartat 1 no impedeix l’aplicació de normes especials en matèria de mercaderies transportades dins zones frontereres o per conductes o cables o qualsevol altre trànsit d’escassa importància econòmica com ara cartes, postals i impresos, així com els seus equivalents electrònics continguts en altres mitjans, o de mercaderies transportades pels viatgers, sempre que la vigilància duanera i les possibilitats de control duaner no es vegin compromeses per aquest fet.
+7. Les mercaderies presentades a la Duana no es poden retirar del lloc en què hagin estat presentades sense l’autorització prèvia de les autoritats duaneres.
 
 **Article 140. Descàrrega i examen de les mercaderies**
 
@@ -880,7 +1199,19 @@ Les mercaderies no posades en lliure disposició es mantenen en dipòsit tempora
 
 **Article 145. Declaració de dipòsit temporal**
 
-$7a
+1. Les mercaderies no posades en lliure disposició presentades a la Duana estan cobertes per una declaració de dipòsit temporal, que ha de contenir totes les dades necessàries per aplicar les disposicions que regulen el dipòsit temporal.
+2. Els documents relatius a les mercaderies en dipòsit temporal s’han de facilitar a les autoritats duaneres quan així ho exigeixi la legislació o s’estimi necessari a l’efecte de control duaner.
+3. La declaració de dipòsit temporal ha de ser presentada per una de les persones esmentades en l’article 139, apartats 1 o 2, a tot tardar en el moment de presentar les mercaderies a la Duana.
+4. Llevat que es dispensi de l’obligació de presentar una declaració sumària d’entrada, la declaració de dipòsit temporal ha d’incloure una referència a tota declaració sumària d’entrada presentada per a les mercaderies presentades a la Duana, excepte si ja han estat en dipòsit temporal o han estat incloses en un règim duaner i no han abandonat el territori duaner del Principat d’Andorra.
+5. Les autoritats duaneres poden acceptar que la declaració de dipòsit temporal adopti així mateix les formes següents:
+a) Una referència a qualsevol declaració sumària d’entrada presentada per a les mercaderies de què es tracti, completada amb les dades d’una declaració de dipòsit temporal.b) Un manifest o un altre document de transport, sempre que contingui les dades d’una declaració de dipòsit temporal, inclosa una referència a qualsevol declaració sumària d’entrada de les mercaderies de què es tracti.
+6. Les autoritats duaneres poden acceptar que els sistemes d’informació comercial, portuària o relatius al transport s’utilitzin per presentar una declaració de dipòsit temporal, sempre que continguin totes les dades necessàries per a aquesta declaració i es disposi d’aquestes dades de conformitat amb l’apartat 3.
+7. Els articles 188 a 193 s’apliquen a la declaració de dipòsit temporal.
+8. La declaració de dipòsit temporal es pot utilitzar així mateix a l’efecte de:
+a) La notificació de l’arribada establerta per l’article 133; ob) La presentació de les mercaderies a la Duana prevista per l’article 139, en la mesura que compleixi les condicions establertes en aquestes disposicions.
+9. No s’exigeix una declaració de dipòsit temporal quan, a tot tardar, en el moment de presentar les mercaderies a la Duana s’estableixi que aquestes mercaderies tenen l’estatut duaner de mercaderies posades en lliure disposició, de conformitat amb els articles 153 a 156.
+10. Les autoritats duaneres han de conservar la declaració de dipòsit temporal, o tenir-hi accés, a fi de verificar que les mercaderies a què es refereix s’inclouen posteriorment en un règim duaner o es reexporten de conformitat amb l’article 149.
+11. Als efectes dels apartats 1 a 10, quan les mercaderies no posades en lliure disposició, traslladades en règim de trànsit, es presentin en una duana de destinació situada al territori duaner del Principat d’Andorra, es considera que les dades de l’operació de trànsit de què es tracti constitueixen la declaració de dipòsit temporal, sempre que compleixin els requisits a aquest efecte. No obstant això, el titular de les mercaderies pot presentar una declaració de dipòsit temporal una vegada finalitzat el règim de trànsit.
 
 **Article 146. Rectificació i invalidació d’una declaració de dipòsit temporal**
 
@@ -892,11 +1223,25 @@ a) Sol·licitud prèvia del declarant; ob) Dins els 30 dies següents a la prese
 
 **Article 147. Condicions i responsabilitats relatives al dipòsit temporal de mercaderies**
 
-$7c
+1. Les mercaderies que es trobin en dipòsit temporal s’emmagatzemen únicament en instal·lacions d’emmagatzematge temporal de conformitat amb l’article 148 o, en casos justificats, en altres llocs designats o autoritzats per les autoritats duaneres.
+2. Sense perjudici del que disposa l’article 134, apartat 2, les mercaderies que es trobin en dipòsit temporal no poden ser objecte de més manipulacions que les destinades a garantir que es conservin inalterades, sense modificar-ne la presentació o les característiques tècniques.
+3. El titular de l’autorització prevista per l’article 148, o la persona que emmagatzemi les mercaderies quan aquestes mercaderies s’hagin dipositat en altres llocs designats o autoritzats per les autoritats duaneres, és responsable de tot el següent:
+a) Assegurar que les mercaderies que es trobin en dipòsit temporal no se sostreguin a la vigilància duanera.b) Complir les obligacions derivades de l’emmagatzematge de les mercaderies en dipòsit temporal.
+4. Quan, per qualsevol motiu, les mercaderies no es puguin mantenir en dipòsit temporal, les autoritats duaneres han de prendre sense demora totes les mesures necessàries per regularitzar la situació d’aquestes mercaderies de conformitat amb els articles 197, 198 i 199.
 
 **Article 148. Autorització per a l’explotació d’instal·lacions d’emmagatzematge temporal**
 
-$7e
+1. Per a l’explotació d’instal·lacions d’emmagatzematge temporal es requereix l’autorització de les autoritats duaneres. Aquesta autorització no és necessària quan l’operador de la instal·lació d’emmagatzematge temporal sigui la mateixa autoritat duanera.
+En l’autorització hi han de figurar les condicions en les quals s’autoritza l’explotació de la instal·lació d’emmagatzematge temporal.
+2. L’autorització esmentada en l’apartat 1 només es concedeix a persones que compleixin totes les condicions següents:
+a) Estar establertes al territori duaner del Principat d’Andorra.b) Oferir la seguretat necessària quant a la bona execució de les operacions; es considera que els operadors econòmics autoritzats de simplificacions duaneres compleixen aquesta condició en la mesura que, en l’autorització prevista per l’article 38, apartat 2, lletraa, s’hagi tingut en compte l’explotació d’instal·lacions d’emmagatzematge temporal.c) Constituir una garantia de conformitat amb l’article 89.Quan es constitueixi una garantia global, el compliment de les obligacions inherents a aquesta garantia s’ha de verificar mitjançant una auditoria adequada.
+3. Només es concedeix l’autorització esmentada en l’apartat 1 quan les autoritats duaneres puguin exercir la vigilància duanera sense veure’s obligades a posar en marxa un dispositiu administratiu que sigui desproporcionat respecte de les necessitats econòmiques corresponents.
+4. El titular de l’autorització ha de portar registres adequats en una forma aprovada per les autoritats duaneres.
+Aquests registres han de contenir la informació i les dades que han de permetre a les autoritats duaneres supervisar l’explotació de la instal·lació d’emmagatzematge temporal, particularment quant a la identificació de les mercaderies emmagatzemades, l’estatut duaner i els trasllats.
+Es considera que els operadors econòmics autoritzats de simplificacions duaneres compleixen l’obligació establerta en els paràgrafs primer i segon en la mesura que els seus registres siguin adequats a l’efecte del dipòsit temporal.
+5. Les autoritats duaneres poden autoritzar el titular de l’autorització a traslladar mercaderies en dipòsit temporal entre diferents instal·lacions d’emmagatzematge temporal a condició que aquests trasllats no augmentin el risc de frau, de la manera següent:
+a) El trasllat s’efectua sota la responsabilitat d’una autoritat duanera;b) El trasllat està emparat per una única autorització lliurada a un operador econòmic autoritzat de simplificacions duaneres; oc) En els altres casos de trasllat.
+6. Quan hi hagi una necessitat econòmica i això no comprometi la vigilància duanera, les autoritats duaneres poden autoritzar l’emmagatzematge de mercaderies posades en lliure disposició en una instal·lació d’emmagatzematge temporal. Aquestes mercaderies no es consideren mercaderies en dipòsit temporal.
 
 **Article 149. Fi del dipòsit temporal**
 
@@ -1004,7 +1349,15 @@ a) La presentació de la declaració normal a la Duana a què es refereix l’ar
 
 **Article 167. Declaració complementària**
 
-$80
+1. En cas de declaració simplificada d’acord amb l’article 166 o d’inscripció en els registres del declarant d’acord amb l’article 182, aquest últim ha de presentar a la duana competent i dins un termini determinat una declaració complementària que contingui les dades necessàries per al règim duaner considerat.
+En tractar-se d’una declaració simplificada conformement a l’article 166, els documents justificatius necessaris han d’estar en possessió del declarant i a la disposició de les autoritats duaneres dins un termini específic.
+La declaració complementària pot ser de caràcter global, periòdic o recapitulatiu.
+2. Es dispensa de l’obligació de presentar una declaració complementària en els casos següents:
+a) Quan les mercaderies estiguin incloses en un règim de dipòsit duaner.b) En altres casos específics.
+3. Les autoritats duaneres poden dispensar de l’exigència de presentar una declaració complementària quan s’apliquin les condicions següents:
+a) La declaració simplificada es refereix a mercaderies el valor i la quantitat de les quals són inferiors al llindar estadístic.b) La declaració simplificada ja conté tota la informació necessària per al règim duaner de què es tracti.c) La declaració simplificada no s’efectua mitjançant la inscripció en els registres del declarant.
+4. Es considera que la declaració simplificada esmentada en l’article 166, apartat 1, o la inscripció en els registres del declarant esmentada en l’article 182, així com la declaració complementària, constitueixen un instrument únic i indivisible que esdevé efectiu, respectivament, en la data en què s’admeti la declaració simplificada de conformitat amb l’article 172 i en la data en què les mercaderies quedin inscrites en els registres del declarant.
+5. A l’efecte de l’article 87, es considera que el lloc on s’hagi de presentar la declaració complementària és el lloc on ha estat presentada la declaració a la duana.
 
 **Article 168. Delegació de poders**
 
@@ -1020,11 +1373,18 @@ a) La declaració simplificada a què es refereix l’article 166.b) La declarac
 
 **Article 170. Presentació d’una declaració a la duana**
 
-$82
+1. Sense perjudici del que disposa l’article 167, apartat 1, la declaració a la duana pot ser presentada per tota persona que pugui facilitar tota la informació que s’exigeixi per aplicar les disposicions que regulen el règim duaner respecte del qual es declaren les mercaderies. Aquesta persona també pot presentar les mercaderies de què es tracti o fer-les presentar a la Duana.
+No obstant això, quan l’admissió d’una declaració a la duana imposi obligacions particulars a una persona concreta, la declaració ha de ser presentada per aquesta persona o pel seu representant.
+2. El declarant ha d’estar establert al territori duaner del Principat d’Andorra.
+3. Com a excepció al que disposa l’apartat 2, estan exemptes de l’obligació d’establiment al territori duaner del Principat d’Andorra:
+a) Les persones que presentin una declaració a la duana a l’efecte de trànsit o d’importació temporal.b) Les persones que presentin ocasionalment una declaració a la duana, també si el seu objecte és el règim de destinació particular o de perfeccionament actiu, sempre que les autoritats duaneres ho considerin justificat.
+4. Les declaracions a la duana han d’estar autenticades.
 
 **Article 171. Presentació d’una declaració a la Duana prèvia a la presentació de les mercaderies**
 
-$84
+1. Abans de la presentació prevista de les mercaderies a la Duana, és possible presentar la declaració a la Duana corresponent. Si les mercaderies no es presenten en un termini de 30 dies a partir de la presentació de la declaració a la Duana, es considera que la declaració no ha estat presentada.
+2. La utilització de la declaració prèvia prevista a l’apartat 1 està subjecta a una autorització per part de les autoritats duaneres. Es faculta el Govern per determinar reglamentàriament quins règims poden beneficiar-se de la presentació prèvia de la declaració, i els criteris que ha de complir el sol·licitant de l’autorització.
+3. Per derogació dels punts anteriors, no necessiten autorització expressa per presentar declaracions prèvies de forma telemàtica els agents de duanes habilitats per a l’exercici la seva activitat al Principat d’Andorra. No obstant això, si les mercaderies no es presenten durant el mateix dia de la presentació de la declaració a la duana, es considera que la declaració no ha estat presentada.
 
 **Article 172. Admissió d’una declaració a la duana**
 
@@ -1067,7 +1427,15 @@ El Govern ha d’adoptar mesures per determinar la subposició aranzelària a l�
 
 **Article 179. Despatx centralitzat**
 
-$86
+1. Amb sol·licitud prèvia, les autoritats duaneres poden autoritzar una persona a presentar a la duana competent del lloc on aquesta persona estigui establerta una declaració a la duana relativa a les mercaderies que es presentin en una altra duana.
+Es pot eximir del requisit d’autorització que preveu el paràgraf primer quan la declaració a la duana i les mercaderies es presentin a la Duana sota responsabilitat d’una sola autoritat duanera.
+2. El sol·licitant de l’autorització esmentada en l’apartat 1 ha de ser un operador econòmic autoritzat de simplificacions duaneres.
+3. La Duana en què es presenta la declaració a la duana:
+a) Ha de supervisar la inclusió de les mercaderies en el règim duaner de què es tracti.b) Ha de dur a terme els controls duaners per comprovar la declaració de duana a què es refereix l’article 188, lletresaib.c) Quan estigui justificat, ha de sol·licitar a la Duana en què s’hagin presentat les mercaderies que dugui a terme els controls duaners per tal de comprovar la declaració a la duana a què es refereix l’article 188, lletrescid.d) Ha de dur a terme els tràmits duaners per recaptar l’import dels drets a la importació o a l’exportació corresponent a qualsevol deute duaner.
+4. La Duana en què es presenta la declaració a la duana i la Duana en què es presenten les mercaderies han d’intercanviar la informació necessària per comprovar la declaració a la duana i per donar el dret a disposar de les mercaderies.
+5. La Duana en què es presenten les mercaderies, sense perjudici dels seus propis controls respecte de les mercaderies introduïdes o que hagin de sortir del territori duaner del Principat d’Andorra, ha de dur a terme els controls duaners a què es refereix l’apartat 3, lletra c, i ha de facilitar els resultats d’aquests controls a la Duana en què s’hagi presentat la declaració a la duana.
+6. La Duana en què s’hagi presentat la declaració a la duana ha de donar el dret a disposar de les mercaderies de conformitat amb els articles 194 i 195, tenint en compte:
+a) Els resultats dels seus propis controls per comprovar la declaració a la duana.b) Els resultats dels controls duts a terme per la Duana en què s’han presentat les mercaderies per comprovar la declaració a la duana i dels controls respecte de les mercaderies introduïdes o que han sortit del territori duaner del Principat d’Andorra.
 
 **Article 180. Delegació de poders**
 
@@ -1080,7 +1448,12 @@ a) Al despatx centralitzat, en particular els tràmits i controls duaners previs
 
 **Article 182. Inscripció en els registres del declarant**
 
-$88
+1. Amb sol·licitud prèvia, les autoritats duaneres poden autoritzar una persona a presentar una declaració a la duana, inclosa la declaració simplificada, en forma d’inscripció en els registres del declarant, sempre que les dades d’aquesta declaració estiguin a la disposició d’aquestes autoritats en el sistema electrònic del declarant en el moment de presentar-se la declaració a la duana com a inscripció en els registres del declarant.
+2. La declaració a la duana es considera admesa en el moment en què les mercaderies hagin estat inscrites en els registres.
+3. Amb sol·licitud prèvia, les autoritats duaneres poden dispensar de l’obligació de presentar les mercaderies. En aquest cas, es considera que les mercaderies han obtingut el dret a disposar en el moment en què s’inscriuen en els registres del declarant.
+La dispensa es pot concedir quan es compleixin les condicions següents:
+a) El declarant és un operador econòmic autoritzat de simplificacions duaneres.b) La naturalesa i el tràfic de les mercaderies de què es tracti ho justifiquen i són coneguts per l’autoritat duanera.c) La duana supervisora té accés a tota la informació que considera necessària per poder exercir el seu dret a examinar les mercaderies si és necessari.d) En el moment de la inscripció en els registres, les mercaderies ja no estan subjectes a prohibicions o restriccions, excepte en cas que en l’autorització es disposi d’una altra manera.No obstant això, la duana supervisora pot exigir, en situacions específiques, que es presentin les mercaderies.
+4. En l’autorització s’han d’indicar les condicions en què es permet atorgar el dret a disposar de les mercaderies.
 
 **Article 183. Delegació de poders**
 
@@ -1115,11 +1488,15 @@ a) Examinar la declaració i els documents justificatius.b) Exigir al declarant 
 
 **Article 189. Examen i presa de mostres de les mercaderies**
 
-$8a
+1. El transport de les mercaderies fins als llocs on s’hagin d’examinar i on se n’hagin de prendre mostres, així com totes les manipulacions que requereixi aquest examen o presa de mostres, ha de ser efectuat pel declarant o sota la seva responsabilitat. Les despeses que en resultin són a càrrec del declarant.
+2. El declarant té dret a ser present o estar representat en el moment en què les mercaderies siguin examinades i en el moment en què se’n prenguin les mostres. Quan les autoritats duaneres tinguin motius raonables per fer-ho, poden exigir al declarant que sigui present o estigui representat en el moment d’examinar les mercaderies o prendre’n les mostres, o que els proporcioni l’assistència necessària per facilitar aquest examen o presa de mostres.
+3. Sempre que s’efectuï de conformitat amb les disposicions vigents, l’extracció de mostres per part de les autoritats duaneres no dona lloc a cap indemnització per part de l’Administració, si bé les despeses ocasionades per aquesta anàlisi o examen són a càrrec d’aquesta darrera.
 
 **Article 190. Examen i presa de mostres de les mercaderies de manera parcial**
 
-$8c
+1. Quan només s’examini una part de les mercaderies objecte d’una declaració a la duana o se’n prenguin mostres, els resultats de l’examen parcial, o de l’anàlisi o l’examen de les mostres, s’apliquen a totes les mercaderies compreses en la mateixa declaració.
+No obstant això, el declarant pot sol·licitar un nou examen o una nova extracció de mostres de les mercaderies si considera que els resultats de l’examen parcial, o de l’anàlisi o l’examen de les mostres preses, no són vàlids pel que fa a la resta de les mercaderies declarades. La sol·licitud s’ha d’aprovar, sempre que no s’hagi procedit al dret a disposar de les mercaderies o, si s’ha procedit a donar el dret a disposar de les mercaderies, sempre que el declarant demostri que no han estat modificades de cap manera.
+2. A l’efecte de l’apartat 1, quan una declaració a la duana inclogui mercaderies classificades en dos o més partides d’ordre, les dades corresponents a les mercaderies classificades en cada partida d’ordre es consideren una declaració a part.
 
 **Article 191. Resultats de la comprovació**
 
@@ -1148,7 +1525,11 @@ A l’efecte de l’apartat 1, quan una declaració a la duana inclogui mercader
 
 **Article 195. Dret a disposar supeditat al pagament de l’import dels drets a la importació o a l’exportació corresponent al deute duaner o a la constitució d’una garantia**
 
-$8e
+1. Quan la inclusió de mercaderies en un règim duaner impliqui el naixement d’un deute duaner, el dret a disposar de les mercaderies està supeditat al pagament de l’import dels drets a la importació o a l’exportació corresponent al deute duaner o a la constitució d’una garantia que cobreixi aquest deute.
+No obstant això, sense perjudici del paràgraf tercer, el paràgraf primer no s’aplica al règim d’importació temporal amb exempció parcial de drets a la importació.
+Quan, conformement a les disposicions que regulen el règim duaner per al qual es declaren les mercaderies, les autoritats duaneres exigeixin la constitució d’una garantia, només es pot concedir el dret a disposar d’aquestes mercaderies per al règim duaner considerat una vegada que s’hagi constituït la garantia.
+2. En casos específics, el dret a disposar de les mercaderies no està supeditat a la constitució d’una garantia respecte de les mercaderies que siguin objecte d’una sol·licitud d’utilització d’un contingent aranzelari.
+3. En determinats casos, quan es recorri a una simplificació prevista pels articles 166, 182 i 185 i es constitueixi una garantia global, el dret a disposar de les mercaderies no està supeditat a una supervisió de la garantia per les autoritats duaneres.
 
 **Article 196. Delegació de poders**
 
@@ -1162,7 +1543,12 @@ Quan les autoritats duaneres tinguin motius raonables per fer-ho, poden disposar
 
 **Article 198. Mesures que han de prendre les autoritats duaneres**
 
-$90
+1. Les autoritats duaneres han d’adoptar totes les mesures necessàries, incloent-hi el decomís i la venda o la destrucció, per disposar de les mercaderies en els casos següents:
+a) Quan s’hagi incomplert alguna de les obligacions establertes en la legislació duanera relatives a la introducció de mercaderies no posades en lliure disposició al territori duaner d’aquesta darrera, o quan s’hagin sostret les mercaderies a la vigilància duanera.b) Quan no es pugui procedir a atorgar el dret a disposar de les mercaderies per alguna de les raons següents:i) Pel fet que no s’hagi pogut, per motius imputables al declarant, dur a terme o continuar l’examen de les mercaderies en els terminis establerts per les autoritats duaneres.ii) Pel fet que no s’hagin lliurat els documents a la presentació dels quals se subordini la inclusió de les mercaderies en el règim duaner sol·licitat o el seu dret a disposar per a aquest règim.iii) Pel fet que no s’hagin pagat ni garantit els drets a la importació o els drets a l’exportació, segons el cas, en els terminis establerts.iv) Pel fet que les mercaderies estiguin subjectes a mesures de prohibició o de restricció.c) Quan les mercaderies no s’hagin retirat en un termini raonable després de concedir-se’n el dret a disposar.d) Quan, després d’haver-se atorgat el dret a disposar, es comprovi que les mercaderies no han complert les condicions perquè es procedeixi a aquest dret.e) Quan les mercaderies s’abandonin en benefici de l’Estat de conformitat amb l’article 199.
+2. Les mercaderies no posades en lliure disposició que hagin estat abandonades en benefici de l’Estat, confiscades o decomissades es consideren incloses en el règim de dipòsit duaner. Han de ser inscrites en els registres de l’operador del dipòsit duaner o, si estan en poder de les autoritats duaneres, en els d’aquestes darreres.
+Quan les mercaderies que hagin de ser destruïdes, abandonades en benefici de l’Estat, confiscades o decomissades ja hagin estat objecte d’una declaració a la duana, els registres han d’incloure una referència a la declaració a la duana. Les autoritats duaneres han d’invalidar aquesta declaració a la duana.
+3. Els costos de les mesures esmentades en l’apartat 1 són a càrrec:
+a) En el cas previst per l’apartat 1, lletraa, de tota persona que hagi hagut de complir les obligacions de què es tracti o que hagi sostret les mercaderies a la vigilància duanera.b) En els casos previstos per l’apartat 1, lletresbic, del declarant.c) En el cas previst per l’apartat 1, lletrad, de la persona que hagi de complir les condicions que regulen el dret a disposar de les mercaderies.d) En el cas previst per l’apartat 1, lletrae, de la persona que abandoni les mercaderies en benefici de l’Estat.
 
 **Article 199. Abandó**
 
@@ -1188,7 +1574,11 @@ a) La percepció dels drets a la importació deguts.b) La percepció, segons que
 
 **Article 202. Mesures de política comercial**
 
-$92
+1. Quan els productes transformats obtinguts en el marc del règim de perfeccionament actiu siguin despatxats de lliure disposició i el càlcul de l’import del dret a la importació s’efectuï de conformitat amb l’article 86, apartat 3, les mesures de política comercial que s’han d’aplicar són les aplicables a la posada en lliure disposició de les mercaderies que es van incloure en el règim de perfeccionament actiu.
+2. L’apartat 1 no s’aplica a les deixalles i els residus.
+3. Quan els productes transformats obtinguts en el marc del règim de perfeccionament actiu siguin posats en lliure disposició i el càlcul de l’import del dret a la importació s’efectuï de conformitat amb l’article 85, apartat 1, les mesures de política comercial aplicables a aquestes mercaderies s’apliquen únicament quan les mercaderies que es van incloure en el règim de perfeccionament actiu estiguin subjectes a aquestes mesures.
+4. Quan la legislació del Principat d’Andorra o quan els acords internacionals estableixin mesures de política comercial relatives a la posada en lliure disposició, aquestes mesures no s’apliquen als productes transformats que hagin estat posats en lliure disposició després d’un perfeccionament passiu quan:
+a) Els productes transformats conservin el seu origen andorrà segons l’accepció de l’article 60.b) El perfeccionament passiu comporti la reparació, inclòs el sistema d’intercanvis estàndard a què es refereix l’article 261; oc) El perfeccionament passiu tingui lloc després d’operacions ulteriors de transformació de conformitat amb l’article 258.
 
 #### Capítol segon. Exempció de drets a la importació
 
@@ -1196,7 +1586,14 @@ $92
 
 **Article 203. Àmbit d’aplicació i efectes**
 
-$94
+1. Amb sol·licitud prèvia de l’interessat, queden exemptes de drets a la importació les mercaderies no posades en lliure disposició que, després d’haver estat exportades inicialment fora del territori duaner com a mercaderies posades en lliure disposició, es reintrodueixin i declarin per a la posada en lliure disposició en aquest territori en un termini de tres anys.
+El paràgraf primer és aplicable fins i tot en els casos en què les mercaderies de retorn representin únicament una part de les mercaderies exportades prèviament des del territori duaner del Principat d’Andorra.
+2. El termini de tres anys a què es refereix l’apartat 1 es pot superar atenent circumstàncies especials.
+3. Quan, prèviament a l’exportació fora del territori duaner del Principat d’Andorra, les mercaderies de retorn hagin estat posades en lliure disposició amb exempció de drets o amb un tipus reduït de dret d’importació pel que fa a la seva destinació particular, l’exempció del dret prevista per l’apartat 1 només es concedeix si són posades en lliure disposició amb la mateixa destinació particular.
+En cas que la destinació particular per a la qual les mercaderies s’hagin de posar en lliure disposició ja no sigui la mateixa, els drets a la importació es redueixen en la quantia dels drets percebuts, si escau, en ocasió de la primera posada en lliure disposició. Si aquest últim import és superior al resultant de la posada en lliure disposició de les mercaderies de retorn, no es concedeix cap devolució.
+4. Quan les mercaderies hagin perdut el seu estatut duaner de mercaderies posades en lliure disposició d’acord amb el que determina l’article 154 i en una fase posterior es posin en lliure disposició, s’apliquen els apartats 1, 2 i 3.
+5. L’exempció de drets a la importació només es concedeix en cas que les mercaderies es retornin en el mateix estat en el qual van ser exportades.
+6. L’exempció dels drets a la importació es justifica mitjançant la informació que permeti determinar que es compleixen les condicions perquè aquesta exempció es concedeixi.
 
 **Article 204. Mercaderies que s’hagin beneficiat de mesures establertes en virtut de la política agrícola**
 
@@ -1242,7 +1639,18 @@ a) El trànsit, que inclou el trànsit intern i el trànsit extern.b) L’emmaga
 
 **Article 211. Autorització**
 
-$96
+1. Es requereix l’autorització de les autoritats duaneres per al següent:
+a) La utilització de règims de perfeccionament actiu o passiu, d’importació temporal i de destinació particular.b) L’explotació d’instal·lacions d’emmagatzematge per al dipòsit duaner de mercaderies, llevat que l’operador de les instal·lacions d’emmagatzematge sigui la mateixa autoritat duanera.En l’autorització hi han de figurar les condicions en què es permet l’ús d’un o més dels règims esmentats en el paràgraf primer o l’explotació d’instal·lacions d’emmagatzematge.
+2. Les autoritats duaneres concedeixen una autorització amb efecte retroactiu quan es compleixin totes les condicions següents:
+a) Que hi hagi una necessitat econòmica demostrada.b) Que la sol·licitud no estigui relacionada amb una temptativa de frau.c) Que el sol·licitant hagi demostrat, mitjançant comptes o registres, que:i) Es compleixen tots els requisits del procediment.ii) Si escau, les mercaderies es poden identificar respecte del període de què es tracti.iii) Aquests comptes o registres permeten que es controli el procediment.d) Que es puguin efectuar tots els tràmits necessaris per regularitzar la situació de les mercaderies, entre els quals hi ha, si cal, la invalidació de la declaració a la duana corresponent.e) Que no s’hagi concedit al sol·licitant cap autorització amb efecte retroactiu en un termini de tres anys a partir de la data en què va ser admesa la sol·licitud.f) Que no es requereixi l’examen de les condicions econòmiques, excepte quan la sol·licitud es refereixi a la renovació d’una autorització relativa al mateix tipus d’operació i mercaderies.g) Que la sol·licitud no es refereixi a l’explotació d’instal·lacions d’emmagatzematge per al dipòsit duaner de mercaderies.h) Quan la sol·licitud es refereixi a la renovació d’una autorització relativa al mateix tipus d’operació i mercaderies, que la sol·licitud es presenti en un termini de tres anys després que hagi expirat l’autorització original.Les autoritats duaneres també poden concedir una autorització amb efecte retroactiu quan les mercaderies que van ser incloses en un règim duaner ja no estiguin disponibles en el moment en què va ser admesa la sol·licitud d’aquesta autorització.
+3. Llevat que hi hagi una disposició en contra, l’autorització esmentada en l’apartat 1 es concedeix exclusivament a les persones que compleixin totes les condicions següents:
+a) Que estiguin establertes al territori duaner del Principat d’Andorra.b) Que ofereixin la seguretat necessària pel que fa a la bona execució de les operacions; es considera que els operadors econòmics autoritzats de simplificacions duaneres compleixen aquesta condició en la mesura que en l’autorització esmentada en l’article 38, apartat 2, lletraa, es tingui en compte l’activitat pertanyent al règim especial de què es tracti.c) En els casos en què es pugui originar un deute duaner o altres gravàmens respecte de mercaderies incloses en un règim especial que constitueixin una garantia de conformitat amb l’article 89.d) En el cas dels règims d’importació temporal o de perfeccionament actiu, que utilitzin o manin utilitzar les mercaderies o efectuïn o manin efectuar les operacions de transformació de les mercaderies, respectivament.
+4. Llevat que hi hagi una disposició en contra, i com a complement del que disposa l’apartat 3, l’autorització a què es refereix l’apartat 1 es concedeix únicament quan es compleixin totes les condicions següents:
+a) Que les autoritats duaneres puguin exercir la vigilància duanera sense veure’s obligades a posar en marxa un dispositiu administratiu desproporcionat respecte de les necessitats econòmiques corresponents.b) Que l’autorització per a la inclusió en el règim de transformació (condicions econòmiques) no perjudiqui els interessos essencials dels productors del Principat d’Andorra.
+5. Als efectes de l’apartat 4, lletra
+b
+, es considera que els interessos essencials dels productors del Principat d’Andorra no resulten perjudicats, llevat que hi hagi proves del contrari o es considerin complertes les condicions econòmiques.
+6. Quan hi hagi proves que els interessos essencials dels productors del Principat d’Andorra poden resultar perjudicats, s’ha de dur a terme un examen de les condicions econòmiques a escala nacional.
 
 **Article 212. Delegació de poders**
 
@@ -1298,7 +1706,16 @@ a) La transferència dels drets i les obligacions del titular del règim respect
 
 **Article 223. Mercaderies equivalents**
 
-$98
+1. Es consideren mercaderies equivalents les mercaderies posades en lliure disposició dipositades, utilitzades o transformades en lloc de les mercaderies incloses en un règim especial.
+En el marc del règim de perfeccionament passiu, es consideren mercaderies equivalents les mercaderies no posades en lliure disposició que siguin sotmeses a operacions de transformació en lloc de mercaderies posades en lliure disposició incloses en el règim de perfeccionament passiu.
+Llevat que es disposi el contrari, les mercaderies equivalents han de tenir el mateix codi de vuit dígits de la nomenclatura combinada, ser d’idèntica qualitat comercial i posseir les mateixes característiques tècniques que les mercaderies a les quals substitueixen.
+2. A condició que es garanteixi la bona administració del règim, en particular quant a la vigilància duanera, i amb sol·licitud prèvia, les autoritats duaneres han d’autoritzar:
+a) La utilització de mercaderies equivalents a l’empara d’un règim de dipòsit duaner, de zona franca, de destinació particular o de transformació.b) La utilització de mercaderies equivalents a l’empara d’un règim d’importació temporal en casos específics.c) En el cas del règim de perfeccionament actiu, l’exportació de productes transformats obtinguts a partir de les mercaderies equivalents abans de la importació de les mercaderies a les quals substitueixen.d) En el cas del règim de perfeccionament passiu, la importació de productes transformats obtinguts a partir de mercaderies equivalents abans de l’exportació de les mercaderies a les quals substitueixen.Es considera que els operadors econòmics autoritzats de simplificacions duaneres compleixen la condició de garantir la bona administració del règim en la mesura que l’activitat corresponent a l’ús de mercaderies equivalents en el règim especial de què es tracti s’hagi tingut en compte en l’autorització prevista per l’article 38, apartat 2, lletraa.
+3. No s’autoritza la utilització de mercaderies equivalents en cap dels casos següents:
+a) Quan en règim de perfeccionament actiu únicament s’efectuïn les manipulacions usuals, segons es defineixen en l’article 220.b) Quan s’apliqui una prohibició de devolució o d’exempció de drets a la importació a mercaderies no originàries utilitzades en la fabricació de productes transformats en règim de perfeccionament actiu, per als quals s’expedeixi o s’estableixi una prova d’origen en el marc d’un acord preferencial entre el Principat d’Andorra i determinats països o territoris situats fora del territori duaner del Principat d’Andorra, o grups d’aquests països o territoris.c) Quan pugui donar lloc a un avantatge injustificat en matèria de drets a la importació o quan la legislació nacional així ho disposi.
+4. En el cas previst per l’apartat 2, lletra
+c
+, i quan els productes transformats estiguin subjectes a drets a l’exportació si no s’exporten en el context del règim de perfeccionament actiu, el titular de l’autorització ha de constituir una garantia que garanteixi el pagament dels drets a l’exportació en cas que les mercaderies no posades en lliure disposició no s’arribin a importar dins el termini indicat en l’article 257, apartat 3.
 
 **Article 224. Delegació de poders**
 
@@ -1315,7 +1732,11 @@ El Govern ha d’especificar les normes de procediment relatives a la utilitzaci
 
 **Article 226. Trànsit extern**
 
-$9a
+1. En el marc del règim de trànsit extern, les mercaderies no posades en lliure disposició poden circular d’un punt a un altre dins el territori duaner del Principat d’Andorra sense estar subjectes:
+a) A drets a la importació.b) A altres gravàmens prescrits per altres disposicions pertinents en vigor.c) A mesures de política comercial en la mesura que no prohibeixin l’entrada de mercaderies al territori duaner del Principat d’Andorra o la sortida d’aquest territori.
+2. En casos específics, les mercaderies posades en lliure disposició s’inclouen en el règim de trànsit extern.
+3. La circulació prevista per l’apartat 1 es pot efectuar d’una de les maneres següents:
+a) A l’empara del règim de trànsit extern de la Unió Europea, d’acord amb l’article 228.b) A l’empara del règim de trànsit extern nacional, d’acord amb l’article 229.c) De conformitat amb el Conveni ATA / Conveni d’Istanbul, quan es tracti de circulació de trànsit.d) A l’empara del sistema postal de conformitat amb els actes de la Unió Postal Universal si les mercaderies són transportades per o per als titulars de drets i obligacions en virtut d’aquests actes.
 
 **Article 227. Trànsit intern**
 
@@ -1359,7 +1780,12 @@ El Govern ha d’especificar les normes de procediment per aplicar al territori 
 
 **Article 233. Obligacions del titular del règim de trànsit i del transportista i destinatari de les mercaderies que circulin a l’empara del règim de trànsit**
 
-$9c
+1. El titular del règim de trànsit és responsable de tot el següent:
+a) Presentar les mercaderies intactes i la informació requerida a la duana de destinació, en el termini assenyalat i havent respectat les mesures preses per les autoritats duaneres per garantir-ne la identificació.b) Respectar les disposicions duaneres relatives al règim.c) Llevat que la legislació duanera disposi el contrari, constituir una garantia a fi d’assegurar el pagament de l’import dels drets a la importació o a l’exportació corresponent al deute duaner i altres gravàmens que puguin néixer respecte a les mercaderies en virtut d’altres disposicions pertinents en vigor.
+2. Les obligacions del titular del règim es compleixen i el règim de trànsit finalitza quan les mercaderies incloses en aquest règim i la informació requerida estiguin disponibles a la duana de destinació, de conformitat amb la legislació duanera.
+3. Tot transportista o destinatari de mercaderies que accepti les mercaderies sabent que estan incloses en el règim de trànsit també és responsable de presentar-les intactes a la duana de destinació, en el termini assenyalat i havent respectat les mesures preses per les autoritats duaneres per garantir-ne la identificació.
+4. Amb sol·licitud prèvia, les autoritats duaneres poden autoritzar qualsevol de les simplificacions següents per incloure les mercaderies en el règim de trànsit o per posar fi a aquest règim:
+a) L’estatut d’expedidor autoritzat, que permet al titular de l’autorització incloure mercaderies en el règim de trànsit sense presentar-les a la Duana.b) L’estatut de destinatari autoritzat, que permet al titular de l’autorització rebre mercaderies que hagin circulat conformement al règim de trànsit fins a un lloc autoritzat i posar fi a aquest règim, de conformitat amb l’article 233, apartat 2.c) L’ús de precintes especials, quan el precinte sigui necessari per garantir la identificació de les mercaderies incloses en el règim de trànsit.d) L’ús d’una declaració a la duana amb menys requisits de dades per incloure les mercaderies en el règim de trànsit.e) L’ús d’un document de transport electrònic com a declaració a la duana per incloure les mercaderies en el règim de trànsit, a condició que contingui les dades d’aquesta declaració i que aquestes dades estiguin a la disposició de les autoritats duaneres de sortida i de destinació per permetre la vigilància duanera de les mercaderies i el tancament del règim.
 
 **Article 234. Mercaderies que circulen a través del territori d’un país o territori situat fora del territori duaner del Principat d’Andorra a l’empara del règim de trànsit extern**
 
@@ -1384,7 +1810,10 @@ a) La inclusió de mercaderies en el règim de trànsit i per posar fi a aquest 
 
 **Article 237. Àmbit d’aplicació**
 
-$9e
+1. En el marc d’un règim d’emmagatzematge, les mercaderies no posades en lliure disposició es poden emmagatzemar al territori duaner del Principat d’Andorra sense estar subjectes:
+a) A drets a la importació.b) A altres gravàmens prescrits per altres disposicions pertinents en vigor.c) A mesures de política comercial en la mesura que no prohibeixin l’entrada de mercaderies al territori duaner del Principat d’Andorra o la sortida d’aquest territori.
+2. Les mercaderies posades en lliure disposició es poden incloure en el règim de dipòsit duaner o de zona franca conformement a la legislació reguladora d’àmbits específics, o amb la finalitat de beneficiar-se d’una decisió que concedeixi la devolució o condonació dels drets a la importació.
+3. Quan hi hagi una necessitat econòmica i això no comprometi la vigilància duanera, les autoritats duaneres poden autoritzar l’emmagatzematge de mercaderies posades en lliure disposició en una instal·lació d’emmagatzematge de dipòsit duaner. Aquestes mercaderies no es consideren incloses en el règim de dipòsit duaner.
 
 **Article 238. Durada del règim d’emmagatzematge**
 
@@ -1438,7 +1867,11 @@ El perímetre i els punts d’accés i de sortida de les zones franques han d’
 
 **Article 245. Presentació de les mercaderies i inclusió d’aquestes mercaderies en el règim**
 
-$a0
+1. Les mercaderies introduïdes en una zona franca s’han de presentar a la Duana i sotmetre’s a les formalitats duaneres establertes en qualsevol dels supòsits següents:
+a) Que s’introdueixin en la zona franca directament des de fora del territori duaner del Principat d’Andorra.b) Que hagin estat incloses en un règim duaner que finalitzi o es tanqui en incloure-les en el règim de zona franca.c) Que s’incloguin en el règim de zona franca amb la finalitat de beneficiar-se d’una decisió per la qual es concedeixi la devolució o la condonació dels drets a la importació.d) Que les formalitats es disposin en una legislació diferent de la duanera.
+2. No s’han de presentar a la Duana les mercaderies introduïdes en una zona franca en circumstàncies diferents de les esmentades en l’apartat 1.
+3. Sense perjudici del que disposa l’article 246, es considera que les mercaderies introduïdes en una zona franca estan incloses en el règim de zona franca:
+a) En el moment d’introduir-les a la zona franca, llevat que ja hagin estat incloses en un altre règim duaner; ob) En el moment en què finalitzi un règim de trànsit, llevat que s’incloguin immediatament després en un altre règim duaner.
 
 **Article 246. Mercaderies posades en lliure disposició en zones franques**
 
@@ -1448,7 +1881,11 @@ a) Mercaderies posades en lliure disposició que entrin en una zona franca.b) Me
 
 **Article 247. Mercaderies no posades en lliure disposició en zones franques**
 
-$a2
+1. Mentre romanguin en una zona franca, les mercaderies no posades en lliure disposició poden ser posades en lliure disposició o ser incloses en el règim de perfeccionament actiu, d’importació temporal o de destinació particular, en les condicions establertes per a aquests règims.
+En aquests casos, les mercaderies no es consideren incloses en el règim de zona franca.
+2. Sense perjudici de les disposicions aplicables als subministraments o a l’emmagatzematge per a l’avituallament, i en la mesura que ho permeti el règim corresponent, l’apartat 1 no és obstacle per a la utilització o el consum de mercaderies que, en cas de ser posades en lliure disposició o d’inclusió en el règim d’importació temporal, no estarien sotmeses a l’aplicació de drets a la importació o a mesures de política comercial.
+En el cas d’aquesta utilització o consum, no es requereix cap declaració a la duana per ser posades en lliure disposició o en règim d’importació temporal.
+No obstant això, aquesta declaració s’exigeix en cas que aquestes mercaderies s’hagin d’imputar a un contingent aranzelari o a un límit màxim.
 
 **Article 248. Sortida de les mercaderies d’una zona franca**
 
@@ -1466,11 +1903,17 @@ No obstant això, a l’efecte de l’aplicació dels drets a l’exportació i 
 
 **Article 250. Àmbit d’aplicació**
 
-$a4
+1. En el marc del règim d’importació temporal, les mercaderies no posades en lliure disposició destinades a la reexportació poden ser objecte d’una destinació especial al territori duaner del Principat d’Andorra amb exempció total o parcial de drets a la importació i sense estar sotmeses al següent:
+a) A altres gravàmens prescrits per altres disposicions pertinents en vigor.b) A mesures de política comercial en la mesura que no prohibeixin l’entrada de mercaderies al territori duaner del Principat d’Andorra o la sortida d’aquest territori.
+2. El règim d’importació temporal s’utilitza quan es compleixen les condicions següents:
+a) Que no estigui previst que les mercaderies experimentin cap canvi, a excepció de la depreciació normal causada per l’ús que se’n faci.b) Que sigui possible garantir la identificació de les mercaderies incloses en el règim, excepte quan, tenint en compte la naturalesa de les mercaderies o de la destinació prevista, l’absència de mesures d’identificació no pugui conduir a un abús del règim o, en el cas esmentat en l’article 223, quan sigui possible comprovar el compliment de les condicions estipulades per a les mercaderies equivalents.c) Que el titular del règim estigui establert fora del territori duaner del Principat d’Andorra, llevat que es disposi el contrari.d) Que es compleixin les condicions necessàries per a l’exempció total o parcial de drets establertes en la legislació duanera.
 
 **Article 251. Termini de permanència de les mercaderies en el règim d’importació temporal**
 
-$a6
+1. Les autoritats duaneres fixen el termini al final del qual les mercaderies incloses en el règim d’importació temporal han de ser reexportades o incloses en un règim duaner posterior. Aquest termini ha de ser suficient perquè es pugui aconseguir l’objectiu de la destinació autoritzada.
+2. Llevat que es disposi el contrari, el termini màxim de permanència de les mercaderies en el règim d’importació temporal, per al mateix fi i sota la responsabilitat del mateix titular de l’autorització, és de 24 mesos, encara que el règim s’hagi tancat per inclusió de les mercaderies en un altre règim especial, al seu torn seguit d’una nova inclusió en el règim d’importació temporal.
+3. Quan, en circumstàncies excepcionals, el fi autoritzat no es pugui aconseguir dins el termini esmentat en els apartats 1 i 2, les autoritats duaneres poden concedir una pròrroga d’aquest termini per un temps raonable, amb sol·licitud prèvia degudament justificada del titular de l’autorització.
+4. El temps total de permanència de les mercaderies en el règim d’importació temporal no pot ser superior a 10 anys, excepte en cas de circumstàncies imprevisibles.
 
 **Article 252. Quantia del dret a la importació en cas d’importació temporal amb exempció parcial de drets a la importació**
 
@@ -1487,7 +1930,14 @@ a) La destinació especial a què es refereix l’article 250, apartat 1.b) Els 
 
 **Article 254. Règim de destinació particular**
 
-$a8
+1. En el marc del règim de destinació particular, les mercaderies poden ser posades en lliure disposició amb exempció de drets o amb un tipus reduït de drets atenent la seva destinació especial.
+2. Si les mercaderies es troben en una fase de la producció que, des d’una perspectiva econòmica, només en permet l’ús per a la destinació particular indicada, les autoritats duaneres poden establir en l’autorització les condicions en què es considera que les mercaderies s’han utilitzat per a les finalitats establertes a l’efecte d’aplicar l’exempció de drets o del tipus reduït de drets.
+3. Si les mercaderies són aptes per a un ús repetit i les autoritats duaneres el consideren oportú amb la finalitat d’evitar abusos, la vigilància duanera s’ha de mantenir durant un període no superior a 2 anys des de la data de la seva primera utilització per a les finalitats establertes per aplicar l’exempció de drets o el tipus reduït de drets.
+4. La vigilància duanera en el marc del règim de destinació particular s’acaba en qualsevol dels supòsits següents:
+a) Que les mercaderies s’hagin destinat a les finalitats establertes per aplicar l’exempció de drets o el tipus reduït de drets.b) Que les mercaderies hagin sortit del territori duaner del Principat d’Andorra o s’hagin destruït o abandonat en benefici de l’Estat.c) Que les mercaderies s’hagin destinat a finalitats diferents de les establertes per aplicar l’exempció de drets o el tipus reduït de drets i s’hagin abonat els drets a la importació aplicables.
+5. Quan la normativa aplicable exigeixi un coeficient de rendiment, l’article 255 s’executa al règim de destinació particular.
+6. Els residus i les deixalles que resultin del procés d’elaboració o transformació de la mercaderia d’acord amb una destinació particular establerta, així com les pèrdues de matèria degudes a causes naturals, es consideren mercaderies assignades a la destinació particular establerta.
+7. Els residus i les deixalles derivats de la destrucció de mercaderies incloses en el règim de destinació particular prescrita es consideren inclosos en el règim de dipòsit duaner.
 
 #### Capítol cinquè. Transformació
 
@@ -1502,11 +1952,24 @@ El coeficient de rendiment o el coeficient mitjà de rendiment es determinen en 
 
 **Article 256. Àmbit d’aplicació**
 
-$aa
+1. Sense perjudici del que disposa l’article 223, en el marc del règim de perfeccionament actiu les mercaderies no posades en lliure disposició poden ser utilitzades dins el territori duaner del Principat d’Andorra en una o més operacions de transformació sense que aquestes mercaderies estiguin subjectes:
+a) A drets a la importació.b) A altres gravàmens prescrits per altres disposicions pertinents en vigor.c) A mesures de política comercial en la mesura que no prohibeixin l’entrada de mercaderies al territori duaner del Principat d’Andorra o la sortida d’aquest territori.
+2. El règim de perfeccionament actiu només es pot fer servir en casos diferents de la reparació i la destrucció quan, sense perjudici de la utilització d’ajudes a la producció, les mercaderies incloses en el règim puguin ser identificades en els productes transformats.
+En el cas a què es refereix l’article 223, el règim es pot utilitzar quan sigui possible comprovar que es compleixen les condicions establertes per a les mercaderies equivalents.
+3. Com a complement del que disposen els apartats 1 i 2, el règim de perfeccionament actiu també es pot aplicar a qualsevol de les mercaderies següents:
+a) Mercaderies destinades a ser objecte d’operacions per garantir-ne la conformitat amb els requisits tècnics establerts per ser posades en lliure disposició.b) Mercaderies que hagin de ser objecte de manipulacions usuals de conformitat amb l’article 220.
 
 **Article 257. Termini de tancament del règim**
 
-$ac
+1. Les autoritats duaneres han de fixar el termini dins el qual s’ha de tancar el règim de perfeccionament actiu, de conformitat amb l’article 215.
+Aquest termini comença a comptar a partir de la data en què les mercaderies no posades en lliure disposició siguin incloses en el règim i ha de tenir en compte el temps necessari per dur a terme les operacions de transformació i de tancament del règim.
+2. Les autoritats duaneres poden autoritzar una pròrroga, d’una durada raonable, del termini especificat conformement a l’apartat 1, amb sol·licitud prèvia, degudament justificada, del titular de l’autorització.
+L’autorització pot especificar que els terminis que s’iniciïn en el curs d’un mes, trimestre o semestre natural finalitzin l’últim dia d’un mes, trimestre o semestre natural ulterior, respectivament.
+3. En els casos d’exportació anticipada de conformitat amb l’article 223, apartat 2, lletra
+c
+, en l’autorització s’ha d’especificar el termini dins el qual les mercaderies no posades en lliure disposició han de ser declarades per al règim de perfeccionament actiu, atenent el termini necessari per a l’adquisició i el transport fins al territori duaner del Principat d’Andorra.
+El termini a què es refereix el paràgraf primer s’estipula en mesos, i no pot ser superior a sis mesos. Comença a comptar a partir de la data d’admissió de la declaració d’exportació dels productes transformats obtinguts a partir de les mercaderies equivalents corresponents.
+4. A petició del titular de l’autorització, el termini de sis mesos a què es refereix l’apartat 3 es pot prorrogar fins i tot després del seu venciment, a condició que el termini total no superi els 12 mesos.
 
 **Article 258. Reexportació temporal per a transformació ulterior**
 
@@ -1516,15 +1979,26 @@ Amb sol·licitud prèvia, les autoritats duaneres poden autoritzar que la totali
 
 **Article 259. Àmbit d’aplicació**
 
-$ae
+1. En el marc del règim de perfeccionament passiu, les mercaderies posades en lliure disposició es poden exportar temporalment fora del territori duaner a fi de ser objecte d’operacions de transformació. Els productes transformats resultants d’aquestes transformacions poden ser posats en lliure disposició amb exempció total o parcial de drets a la importació amb sol·licitud prèvia del titular de l’autorització o de qualsevol altra persona establerta al territori duaner del Principat d’Andorra i que hagi obtingut el consentiment del titular de l’autorització, sempre que es compleixin les condicions de l’autorització.
+2. No es poden acollir al règim de perfeccionament passiu cap de les mercaderies posades en lliure disposició:
+a) L’exportació de les quals doni lloc a una devolució o condonació dels drets a la importació.b) Que, amb anterioritat a l’exportació, s’hagin posat en lliure disposició acollides a una exempció de drets o a un tipus reduït de drets quant a la seva destinació particular, mentre els objectius d’aquesta destinació particular no s’hagin complert, llevat que aquestes mercaderies hagin de ser sotmeses a operacions de reparació.c) L’exportació de les quals doni lloc a la concessió de restitucions per exportació.d) Per l’exportació de les quals es concedeixi un avantatge financer.
+3. Les autoritats duaneres han de fixar el termini dins el qual les mercaderies exportades temporalment han de ser reimportades al territori duaner del Principat d’Andorra en forma de productes transformats i despatxades de lliure disposició per poder acollir-se a l’exempció total o parcial de drets a la importació. Poden concedir una ampliació del termini per un temps raonable, amb sol·licitud prèvia, degudament justificada, del titular de l’autorització.
 
 **Article 260. Mercaderies reparades de manera gratuïta o modificades en el marc d’acords internacionals**
 
-$b0
+1. Quan es demostri, a satisfacció de les autoritats duaneres, que la reparació de les mercaderies s’ha efectuat de manera gratuïta, bé per obligació contractual o legal derivada d’una garantia, bé per l’existència d’un defecte material o de fabricació, se’ls ha de concedir una exempció total de drets a la importació.
+2. L’apartat 1 no és aplicable en cas que el defecte material o de fabricació ja s’hagi tingut en compte en el moment de la primera posada en lliure disposició de les mercaderies.
+3. S’acorda l’exoneració total o parcial dels drets a la importació per als productes transformats que resulten de les mercaderies posades sota el règim de perfeccionament passiu si, a satisfacció de les autoritats duaneres, s’estableix que:
+a) Aquestes mercaderies han estat reparades o modificades en un país o territori situat fora del territori duaner del Principat d’Andorra amb el qual Andorra ha conclòs un acord internacional que estableix la dita exoneració.b) Que es compleixin les condicions relatives a l’exoneració dels drets a la importació previstes en l’acord esmentat a la lletraa.
+4. L’apartat 3 no s’aplica als productes transformats que resulten de les mercaderies equivalents a les quals es refereix l’article 223 i als productes de substitució previstos als articles 261 i 262.
 
 **Article 261. Sistema d’intercanvis estàndard**
 
-$b2
+1. En virtut del sistema d’intercanvis estàndard, un producte importat (producte de substitució) pot substituir, de conformitat amb els apartats 2 a 4, un producte transformat.
+2. Els productes de substitució han de tenir el mateix codi de vuit dígits de la nomenclatura combinada, ser d’idèntica qualitat comercial i posseir les mateixes característiques tècniques que tindrien les mercaderies defectuoses si haguessin estat objecte de la reparació prevista.
+3. En cas que les mercaderies defectuoses hagin estat usades abans de l’exportació, els productes de substitució també han d’haver estat usats.
+No obstant això, les autoritats duaneres poden dispensar de la norma establerta en el paràgraf primer quan el producte de substitució hagi estat enviat gratuïtament com a conseqüència d’una obligació contractual o legal derivada d’una garantia o de l’existència d’un defecte material o de fabricació.
+4. S’han d’aplicar als productes de substitució les mateixes disposicions que serien aplicables als productes transformats.
 
 **Article 262. Importació prèvia dels productes de substitució**
 
@@ -1539,7 +2013,12 @@ La importació prèvia d’un producte de substitució dona lloc a la constituci
 
 **Article 263. Presentació d’una declaració prèvia a la sortida**
 
-$b4
+1. Les mercaderies que hagin de sortir del territori duaner del Principat d’Andorra van emparades per una declaració prèvia a la sortida que s’ha de presentar a la duana competent dins un termini específic abans que les mercaderies surtin del territori duaner del Principat d’Andorra.
+2. Es dispensa de l’obligació esmentada en el paràgraf primer:
+a) Els mitjans de transport i les mercaderies que s’hi trobin a bord que es limitin a travessar l’espai aeri del territori duaner del Principat d’Andorra sense fer-hi cap parada; ob) En altres casos específics en els quals estigui degudament justificat pel tipus de mercaderies o de trànsit o quan així ho exigeixin acords internacionals.
+3. La declaració prèvia a la sortida adopta una de les formes següents:
+a) Una declaració a la duana, en cas que les mercaderies que hagin de sortir del territori duaner del Principat d’Andorra estiguin incloses en un règim duaner que requereixi aquesta declaració.b) Una declaració de reexportació de conformitat amb l’article 270.c) Una declaració sumària de sortida de conformitat amb l’article 271.
+4. La declaració prèvia a la sortida ha de contenir les dades necessàries per a l’anàlisi de riscos als efectes de seguretat i protecció.
 
 **Article 264. Anàlisi de riscos**
 
@@ -1558,7 +2037,13 @@ El Govern ha d’especificar el termini a què es refereix l’article 264, en e
 
 **Article 267. Vigilància duanera i formalitats de sortida**
 
-$b6
+1. Les mercaderies que hagin de sortir del territori duaner del Principat d’Andorra estan subjectes a vigilància duanera i poden ser objecte de controls duaners. Quan escaigui, les autoritats duaneres poden determinar la ruta que s’ha d’utilitzar i el termini que cal respectar quan les mercaderies hagin de sortir del territori duaner.
+2. Les mercaderies que hagin de sortir del territori duaner del Principat d’Andorra han de ser presentades a la Duana en el moment de la sortida per una de les persones següents:
+a) La persona que treu les mercaderies del territori duaner.b) La persona en el nom de la qual o pel compte de la qual actua la persona que treu les mercaderies del territori duaner.c) La persona que assumeix la responsabilitat de transportar les mercaderies abans de la sortida del territori duaner.
+3. Les mercaderies que hagin de sortir del territori duaner del Principat d’Andorra estan subjectes, segons que correspongui, a:
+a) La devolució o la condonació dels drets a la importació.b) El pagament de restitucions per exportació.c) La percepció dels drets a l’exportació.d) Les formalitats necessàries en virtut de disposicions vigents relatives a altres gravàmens.e) L’aplicació de prohibicions i restriccions justificades, entre altres motius, per raons de moralitat, ordre o seguretat públics; protecció de la salut i la vida de persones, animals o plantes; protecció del medi ambient; protecció del patrimoni artístic, històric o arqueològic nacional, i protecció de la propietat industrial o comercial, inclosos els controls sobre precursors de drogues, mercaderies que infringeixen determinats drets de propietat intel·lectual i diners en metàl·lic, així com l’aplicació de mesures de conservació i gestió dels recursos pesquers i de mesures de política comercial.f) L’obtenció d’una autorització prèvia tractant-se de béns de doble ús definits en el Reglament (UE) 2021/821 del Parlament Europeu i del Consell, del 20 de maig del 2021, que estableix un règim de la Unió de control de les exportacions, del corretatge, l’assistència tècnica, el trànsit i la transferència de béns de doble ús, sense la qual les mercaderies no poden sortir. Reglamentàriament es pot prescindir de l’obtenció d’aquesta autorització pels tràfics de mercaderies que surtin del territori duaner del Principat d’Andorra i que es destinin a un país amb el qual existeix algun acord.
+4. Les autoritats duaneres han de concedir el dret a disposar de les mercaderies per a la sortida a condició que les mercaderies corresponents surtin del territori duaner del Principat d’Andorra en el mateix estat en què es trobaven en el moment de:
+a) L’admissió de la declaració a la duana o la declaració de reexportació; ob) La presentació de la declaració sumària de sortida.
 
 **Article 268. Atribució de competències d’execució**
 
@@ -1588,7 +2073,12 @@ a) Mercaderies incloses en el règim de trànsit extern que únicament travessen
 
 **Article 271. Presentació d’una declaració sumària de sortida**
 
-$b8
+1. Quan les mercaderies hagin de sortir del territori duaner del Principat d’Andorra i no es presenti una declaració a la duana o una declaració de reexportació com a declaració prèvia a la sortida, s’ha de presentar una declaració sumària de sortida a la duana de sortida.
+Les autoritats duaneres poden autoritzar que la declaració sumària de sortida es presenti en una altra duana, sempre que aquesta última comuniqui immediatament a la duana de sortida o posi a la seva disposició per via electrònica les dades necessàries.
+2. La declaració sumària de sortida l’ha de presentar el transportista. No obstant les obligacions del transportista, la declaració sumària de sortida pot ser presentada, en comptes d’ell, per una de les persones següents:
+a) L’exportador o expedidor, o qualsevol altra persona en nom de la qual o pel compte de la qual actuï el transportista.b) Qualsevol persona que estigui en condicions de presentar o de disposar que es presentin les mercaderies de què es tracti a la duana de sortida.
+3. Les autoritats duaneres poden acceptar que s’utilitzin, per presentar una declaració sumària de sortida, sistemes d’informació comercial, portuària o relativa al transport, sempre que continguin les dades necessàries per a aquesta declaració i que aquestes dades estiguin disponibles dins un termini determinat anterior a la sortida de les mercaderies del territori duaner del Principat d’Andorra.
+4. Les autoritats duaneres poden permetre que se substitueixi la presentació de la declaració sumària de sortida per la presentació d’una notificació i l’accés a les dades de la declaració sumària de sortida en el sistema informàtic de l’operador econòmic.
 
 **Article 272. Rectificació i invalidació de la declaració sumària de sortida**
 
@@ -1607,7 +2097,11 @@ a) la presentació de la declaració sumària de sortida a què es refereix l’
 
 **Article 274. Presentació d’una notificació de reexportació**
 
-$ba
+1. Quan surtin del territori duaner del Principat d’Andorra les mercaderies no posades en lliure disposició esmentades en l’article 270, apartat 3, lletres b) i c), i s’hagi concedit la dispensa de l’obligació de presentar una declaració sumària de sortida per a aquestes mercaderies, s’ha de presentar una notificació de reexportació.
+2. La notificació de reexportació ha de ser presentada a la duana de sortida de les mercaderies per la persona responsable de la presentació de les mercaderies a la sortida de conformitat amb l’article 267, apartat 2.
+3. La notificació de reexportació ha de contenir les dades necessàries per tancar el règim de zona franca o posar fi al dipòsit temporal.
+Les autoritats duaneres poden acceptar que s’utilitzin, per presentar una notificació de reexportació, sistemes d’informació comercial, portuària o relativa al transport, sempre que continguin les dades necessàries per a aquesta notificació i que aquestes dades estiguin disponibles abans que les mercaderies surtin del territori duaner del Principat d’Andorra.
+4. Les autoritats duaneres poden permetre que la presentació de la notificació de reexportació se substitueixi per la presentació d’una notificació i l’accés a les dades d’una notificació de reexportació en el sistema informàtic de l’operador econòmic.
 
 **Article 275. Rectificació i invalidació de la notificació de reexportació**
 
@@ -1640,19 +2134,45 @@ Si es constata una presumpta infracció, l’agent de duana redacta l’acta de 
 
 **Article 279. Infraccions simples**
 
-$bc
+1. Són infraccions simples l’incompliment d’obligacions o de deures de l’àmbit duaner o tributari exigits a qualsevol persona, tant si és obligat tributari com si no ho és, per a la gestió dels drets o impostos i quan no constitueixin defraudació.
+2. Es consideren
+infraccions simples
+les següents:
+a) La falta de presentació de declaracions o autoliquidacions o la presentació de declaracions o autoliquidacions falses, incompletes o inexactes sense transcendència en la liquidació.b) No comunicar a petició de la Duana qualsevol tipus de document útil per a la comprovació administrativa duanera.c) No presentar-se en la data, en les hores i als llocs indicats per la Duana, excepte per causa de força major, que ha de justificar la persona interessada.d) No adjuntar a la declaració de duana qualsevol tipus de document sense el qual no es pot dur a terme legalment una operació d’importació/exportació de mercaderies.e) No indicar, en omplir documents oficials, qualsevol informació requerida amb caràcter obligatori per la Duana.f) Alterar dades en documents altres que els oficials comunicats a la Duana.g) Incomplir o cometre irregularitats respecte a les disposicions legals i reglamentàries que la Duana s’encarrega d’aplicar, sempre que aquest incompliment no estigui tipificat com una infracció més greu en algun altre article d’aquest títol.h) Incomplir qualsevol requeriment emès per la Duana.i) Trencar els precintes posats per la Duana sobre un paquet.j) Trencar els precintes posats per la Duana sobre un mitjà de transport.k) No obeir una ordre d’un agent de duana en l’exercici de les seves funcions.
 
 **Article 280. Sancions per infraccions simples**
 
-$be
+1. Les infraccions simples poden ser sancionades mitjançant una multa fixa d’un import d’entre 150 euros i 3.000 euros.
+2. Les sancions per les infraccions simples són les següents:
+a) Per la falta de presentació de declaracions o autoliquidacions sense transcendència en la liquidació, la sanció és de 250 euros per declaració o autoliquidació.
+Per la presentació de declaracions o autoliquidacions falses, incompletes o inexactes sense transcendència en la liquidació, la sanció és de 200 euros.
+b) Per l’incompliment de requeriments d’informació, de documentació o de compareixença, la sanció és d’una multa fixa de 150 euros pel primer incompliment i de 600 euros pels successius.c) Per l’incompliment del deure de subministrar dades, factures o documentació amb transcendència tributària, la sanció és de 1.000 euros pel primer incompliment i de 3.000 euros pels successius.d) La falta de presentació de qualsevol tipus de document sense el qual no es pot dur a terme legalment una operació d’importació/exportació de mercaderies se sanciona amb una multa de 150 euros.e) Quan no s’indica en omplir documents oficials qualsevol informació requerida amb caràcter obligatori per la Duana, la sanció consisteix en 150 euros.f) L’alteració de dades en documents altres que els oficials comunicats a la Duana se sanciona amb una multa de 300 euros.g) Quan es cometen irregularitats respecte a les disposicions legals i reglamentàries que la Duana s’encarrega d’aplicar o s’incompleixen, i aquest incompliment no estigui tipificat com una infracció més greu en algun altre article, la sanció consisteix en una multa pecuniària fixa de 300 euros.h) Pel trencament de precintes tant en paquets com en mitjans de transport s’aplica una multa de 300 euros.i) La desobediència d’una ordre d’un agent de duana se sanciona amb multa fixa de 600 euros.
 
 **Article 281. Infraccions de defraudació**
 
-$c0
+1. Són infraccions de defraudació les accions o omissions doloses o culposes, amb qualsevol grau de negligència, que comportin un perjudici econòmic per a l’Administració tributària, bé en relació amb els deutes tributaris propis o com a conseqüència de l’exercici dels deures per compte de tercers. També tenen la consideració d’infraccions de defraudació els perjudicis econòmics que es puguin derivar del gaudi indegut de beneficis duaners o fiscals o de règims especials. I, en general, tota acció o omissió contrària a l’ordenament que comporti un perjudici econòmic indegut a l’Administració tributària.
+2. Constitueixen infraccions de defraudació les infraccions següents:
+a) La presentació en un despatx de duana d’una declaració falsa.b) La presentació d’una declaració de duana falsa per a la posada sota un règim duaner especial o el tancament d’un règim especial.
+S’entén per
+declaració falsa
+una inadequació entre el tipus, la naturalesa, l’origen, la composició i el valor real o qualsevol menció inexacta o incompleta en relació amb la mercaderia importada o exportada i la declaració presentada a la Duana.
+c) La falta de presentació al despatx de la Duana de la declaració corresponent.
+També es considera una falta de presentació de declaració la sortida de mercaderia que es troba sota un règim duaner especial sense la presentació de la declaració al despatx de la duana corresponent.
 
 **Article 282. Qualificació de les infraccions de defraudació**
 
-$c2
+1. Les infraccions de defraudació es qualifiquen en lleus, greus i molt greus depenent de la concurrència de les circumstàncies següents en la conducta del subjecte infractor:
+a) La comissió repetida d’infraccions duaneres. S’entén produïda aquesta circumstància quan el subjecte infractor ha estat sancionat per una infracció de defraudació de la mateixa naturalesa, en virtut de resolució ferma en via administrativa, dins els tres anys anteriors a la comissió de la infracció.b) La utilització de mitjans fraudulents en la comissió de la infracció de defraudació o la comissió de la infracció a través de persona interposada.A aquests efectes, es poden considerar mitjans fraudulents, entre altres, l’ús de factures, de justificants o d’altres documents falsos o falsejats, sempre que la incidència dels documents o suports falsos o falsejats sigui d’un percentatge superior al 10% de la sanció.c) Ocultació de dades. S’entén que hi ha ocultació de dades a la Duana quan no es presenten declaracions o es presenten declaracions en què s’inclouen fets o operacions inexistents o imports falsos, o en què s’ometen totalment operacions, productes, béns o qualsevol altra dada que incideixi en la determinació del deute duaner, quan com a resultat d’aquesta ocultació es produeix una defraudació determinada en una quota superior a 3.000 euros.
+2. Quan concorren les circumstàncies descrites a les lletres
+a
+i
+c
+de l’apartat anterior, la infracció es qualifica de greu. Quan es donen les circumstàncies descrites a la lletra
+b
+de l’apartat anterior, la infracció es qualifica de molt greu, tret que la incidència de les circumstàncies descrites en els dos primers supòsits sigui d’un percentatge inferior al que s’hi indica, cas en què es considera greu.
+3. Quan la base de la sanció sigui inferior a 2.000 euros, la infracció es qualifica de lleu, llevat que es donin les circumstàncies descrites en la lletra
+b
+de l’apartat 1 d’aquest article.
 
 **Article 283. Sancions per infraccions de defraudació**
 
@@ -1667,13 +2187,24 @@ a) La importació o l’exportació sense declaració de mercaderies sensibles, 
 
 **Article 285. Sancions per infraccions de contraban**
 
-$c4
+1. Sense perjudici del que s’estableix a l’apartat 3, les infraccions de contraban donen lloc a una sanció igual al valor de la mercaderia i al comís de la mercaderia sempre que el valor de la mercaderia objecte de frau sigui inferior o igual a 1.500 euros.
+2. Sense perjudici del que s’estableix a l’apartat 3, quan el valor de la mercaderia sigui superior a 1.500 euros s’imposa una sanció igual al valor de la mercaderia més el comís de la mercaderia i es comissen el mitjà de transport i els instruments emprats per cometre la infracció, i com a sanció complementària s’inhabilita per operar amb mercaderies sensibles durant un període de fins a 2 anys a partir de la data que s’ha comès la infracció.
+3. Si es tracta de mercaderies sensibles, quan la infracció pugui ser constitutiva de delicte, per raó del valor de la mercaderia, s’apliquen les penes previstes al Codi penal.
+4. Quan les infraccions de contraban siguin comeses amb dissimulació, d’acord amb el que s’estableix a la lletra
+c
+de l’apartat 1 de l’article 284, o mitjançant la utilització d’un vehicle de lloguer, aquestes infraccions donen lloc a la imposició d’una sanció igual al doble del valor de la mercaderia, sense perjudici de les disposicions de l’apartat 2 en matèria de comís.
+5. Sense perjudici de l’aplicació de les disposicions en matèria de retenció, no es comissen els vehicles de transport públic o de lloguer, sempre que el representant de l’empresa permeti a l’Administració exercir eficaçment les seves actuacions contra els autors reals de la infracció i no quedi establerta cap participació del representant en la comissió de la infracció.
+6. En cas de reincidència en la infracció de contraban, s’imposa una sanció igual al triple del seu import, al comís de la mercaderia, al comís del mitjà de transport i al comís dels instruments emprats per cometre la infracció.
 
 #### Capítol tercer. Franja duanera
 
 **Article 286. Franja duanera**
 
-$c6
+1. Es delimita una franja terrestre que s’estén des del límit fronterer del país fins a un perímetre situat a 1,5 km a l’interior del territori nacional. Les distàncies es calculen en línia recta sense tenir en compte el relleu. Els punts que componen aquest perímetre han d’estar situats a 1,5 km del punt fronterer més proper.
+2. La franja duanera també inclou:
+a) La franja definida a l’apartat 1 es fa extensiva a la zona delimitada per les carreteres CS-111 i CS-112, incloses, fins a 20 metres des del límit establert per la carretera fins al poble de Bixessari, inclòs.b) També queda inclosa en aquesta franja la zona delimitada per les carreteres CS-130 i CS-131 fins a 20 metres des del límit establert per la carretera fins a l’encreuament d’Aixirivall i Auvinyà. Aquesta franja queda reproduïda en l’annex núm. 1.
+3. En queden exclosos els despatxos de Duana fronterers de Sant Julià i del Pas de la Casa, les carreteres generals 1 i 2, el viaducte de sortida del túnel d’Envalira i els comerços que es troben a peu d’aquestes carreteres i part del nucli urbà del Pas de la Casa. La part del nucli urbà del Pas de la Casa que queda exclosa està reproduïda en l’annex núm. 2.
+4. Únicament els operadors en mercaderies sensibles d’acord amb la normativa vigent i titulars d’un local comercial a la franja duanera poden procedir a la tinença i/o circulació de mercaderia sensible en aquesta franja amb l’autorització prèvia del Servei de Duana. Tota persona interessada ha de notificar prèviament al Servei de Duana, per a cada operació, la data, el destinatari, la quantitat de mercaderia, l’hora i el mitjà de transport, per tal d’obtenir l’autorització corresponent.
 
 #### Capítol quart. Disposicions diverses
 

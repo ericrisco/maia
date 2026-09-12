@@ -39,11 +39,15 @@ a) Les persones de nacionalitat andorrana.b) Les persones de nacionalitat estran
 
 **Article 5. Acta de constitució**
 
-$1e
+1. Per constituir una associació cal l’acord de tres o més persones, que manifestin en una acta fundacional la seva voluntat de constituir-la i es dotin d’uns estatuts on s’expressin les regles d’organització i funcionament de l’associació.
+2. L’acta fundacional ha de contenir:
+a) El nom i cognoms, el domicili, el número de passaport o de qualsevol altre document oficial d’identificació, i la data de naixement dels fundadors, si són persones físiques; i la denominació, la raó social, el número d’inscripció en el registre corresponent, així com les dades personals del representant de l’entitat per a aquest acte i l’acreditació del seu apoderament, si es tracta de persones jurídiques. Els estrangers han d’indicar també el seu número de passaport i, si escau, el seu permís o autorització de residència, si són persones físiques, i l’acreditació de la seva constitució segons la seva llei nacional i de la inscripció en el registre corresponent, si es tracta de persones jurídiques.b) La voluntat de constituir l’associació, que s’acredita per la firma de l’acta, en el cas de les persones físiques, i per la firma del representant i l’aportació de la certificació de l’acord de fundar l’associació que hagin pres els òrgans competents, en el cas de les persones jurídiques.c) L’aprovació dels estatuts pels quals es regeix l’associació, que han de contenir les dades que s’indiquen en l’article 6.d) La designació dels membres que formaran part dels òrgans directius de l’associació. Amb caràcter transitori, en l’acta fundacional es pot fer constar la designació d’una comissió gestora provisional, que, entre les altres funcions que se li assignin, ha de proveir per a l’elecció dels òrgans de govern definitius de l’associació en un termini determinat.e) El lloc i la data en què s’estén el document.
+3. Als efectes de la seva inscripció en el Registre, l’acta fundacional d’una associació s’ha d’elevar a escriptura pública. L’elevació a escriptura pública és gratuïta en el cas de les associacions juvenils.
 
 **Article 6. Estatuts**
 
-$20
+Els estatuts de l’associació han de contenir:
+a) La denominació, d’acord amb el que preveu l’article 7.b) El domicili social, que ha de radicar-se a Andorra.c) L’objecte social.d) La durada temporal o la indicació, si és el cas, que es constitueix per temps indefinit.e) Les condicions d’admissió de nous socis, les causes de baixa i, si escau, el règim disciplinari dels associats, amb indicació de les infraccions, les sancions i el procediment disciplinari.f) Els drets i els deures dels associats, amb especificació, si escau, de les diverses classes de socis, i sempre d’acord amb el que es disposa en aquesta Llei respecte de les persones de nacionalitat estrangera no residents i els menors d’edat.g) La composició, l’estructura, les competències i el funcionament dels òrgans de l’associació, entre els quals han de figurar una assemblea general, una junta directiva i una presidència, amb aquesta o una altra denominació, en els termes que preveu el capítol IV.h) El procediment de reforma dels estatuts, d’acord amb el que preveu l’article 18.2.i) El règim econòmic i patrimonial.j) Les causes de dissolució i l’aplicació, si és el cas, dels drets de l’associació.
 
 **Article 7. Denominació**
 
@@ -66,11 +70,22 @@ a) L’escriptura pública de l’acta fundacional, protocol·litzada.b) Els est
 
 **Article 10. Tramitació de les inscripcions**
 
-$22
+1. En un termini de trenta dies des de la presentació de la documentació indicada en l’article anterior, el responsable del Registre l’ha d’inscriure i ha de comunicar-ne la inscripció als representants de l’associació.
+2. Si el responsable del Registre, dins del termini anterior, considera que l’associació incompleix algun dels requisits establerts en aquesta Llei per a la inscripció, comunica aquesta circumstància als representants de l’associació perquè esmenin els defectes advertits dins del termini dels trenta dies següents, amb suspensió del termini per inscriure.
+3. Transcorregut el termini d’esmena sense que els representants de l’associació hagin presentat la documentació pertinent, l’expedient es considera caducat i s’arxiva, i aquesta circumstància és comunicada als representants de l’associació, als quals es retorna la documentació original presentada. Contra aquesta resolució es pot interposar recurs administratiu davant del ministre encarregat de l’interior.
+4. Un cop rebuda la documentació per la qual s’esmenen els defectes advertits pel responsable del Registre, aquest darrer inscriu l’associació en un termini de trenta dies. Si considera que l’associació continua incomplint els requisits per a la inscripció, ha de resoldre motivadament denegar la inscripció en el Registre, i notifica aquesta resolució als representants de l’associació. Contra aquesta resolució es pot interposar recurs administratiu davant del ministre encarregat de l’interior.
+5. Els recursos administratius previstos en aquest article tenen caràcter potestatiu. Els interessats poden presentar demanda judicial directa contra les resolucions administratives corresponents pel procediment urgent i preferent de tutela dels drets i les llibertats fonamentals.
+6. Si el responsable del Registre considera que de la documentació presentada per una associació se’n desprenen indicis racionals d’il·licitud penal, ho ha de comunicar al ministre encarregat de l’interior, el qual, si escau, en dona trasllat al Ministeri Fiscal.
+7. Les comunicacions i notificacions que efectuï el Registre s’adrecen als representants de l’associació que figurin en la documentació presentada, i al domicili social que s’estableixi en els estatuts.
+8. La inscripció en el Registre és gratuïta.
 
 **Article 11. Inscripció d’associacions estrangeres**
 
-$24
+1. Les associacions estrangeres que disposin de seu a Andorra o que, encara que no tinguin seu pròpia, desenvolupin activitats socials en territori andorrà, han d’inscriure’s en el Registre d’Associacions, en una secció especial que es portarà a aquest efecte.
+2. Les associacions estrangeres han d’adjuntar a la seva sol·licitud d’inscripció els documents següents, certificats pel seu secretari o càrrec equivalent, i traduïts de forma fefaent al català:
+a) Còpia dels estatuts socials, amb indicació del lloc de constitució de l’associació.b) Constància de la seu social principal i, si és el cas, de la seu en el territori andorrà.c) Constància de la designació, si és el cas, de les persones per ocupar els càrrecs directius de l’organització de l’associació a Andorra.d) Declaració del patrimoni de l’associació en territori andorrà, si escau.
+3. En tot allò que no estigui especialment previst, la tramitació de la inscripció de les associacions estrangeres es regeix per les normes aplicables a les associacions andorranes.
+4. L’actuació de les associacions estrangeres no inscrites en el Registre es regeix pel que disposa l’article 16.
 
 **Article 12. Actes inscriptibles**
 
@@ -80,7 +95,11 @@ a) Els acords de modificació dels estatuts, incloent-hi la del domicili social.
 
 **Article 13. Inscripcions registrals**
 
-$26
+1. Per cada associació constituïda segons aquesta Llei ha de constar en el Registre:
+a) La constitució, amb anotació de la data de l’acta de constitució presentada, els membres fundadors, la denominació, l’objecte social, el domicili social, els òrgans de govern i la data de la inscripció inicial.b) La modificació dels estatuts, amb anotació de les dades indicades en l’apartat anterior i de la data de l’acord de modificació, i també la data de la inscripció.c) El nomenament i el cessament dels membres dels òrgans de govern.d) La declaració patrimonial inicial i les seves modificacions.e) La declaració d’utilitat pública, si és el cas.f) La impugnació dels acords de l’assemblea general i de la junta directiva.g) La dissolució i la liquidació.h) La cancel·lació d’ofici de la inscripció.i) Les altres anotacions que estableixin aquesta Llei o una altra.
+2. La Secció d’Associacions Estrangeres del Registre ha de fer constar:
+a) La denominació, l’objecte social, el domicili social central, el lloc de constitució, la data i el lloc dels estatuts i òrgans de govern, i la data de la inscripció inicial.b) La modificació dels estatuts, generals o específics per a Andorra, amb anotació de les dades indicades en l’apartat anterior i de la data de l’acord de modificació i de la data de la inscripció.c) El domicili o la seu a Andorra i les seves modificacions.d) El nomenament i cessament dels membres dels òrgans de govern de l’organització a Andorra.e) La declaració inicial del seu patrimoni a Andorra i les seves modificacions.f) La dissolució i la liquidació, general o, si és el cas, de l’organització a Andorra.g) La cancel·lació d’ofici de la inscripció.h) Les altres anotacions que estableixin aquesta Llei o altres lleis.
+3. El Registre arxiva i custodia la documentació presentada.
 
 **Article 14. Cancel·lació d’ofici de la inscripció registral**
 
@@ -110,11 +129,31 @@ a) una assemblea general;b) una junta directiva;c) una presidència.
 
 **Article 18. Assemblea general**
 
-$28
+1. L’assemblea general és l’òrgan sobirà de l’associació, i en formen part tots els membres, directament o per representació, segons estableixin els estatuts.
+2. És competència de l’assemblea general, com a mínim:
+a) La modificació dels estatuts, que ha d’aprovar-se per majoria absoluta dels assistents i representats. Els estatuts poden establir quines matèries poden ser modificades per majoria simple. Queden exclosos d’aquesta possibilitat el sistema d’elecció de la junta directiva, la distribució de competències entre l’assemblea i la junta i els motius i el procediment de cessament de la junta.b) L’elecció de la junta directiva i, si escau, del president de l’associació, si els estatuts no disposen que sigui elegit per la junta.c) El cessament de la junta i, si escau, del president, pel procediment establert en els estatuts. En tot cas, aquest procediment ha de preveure una votació de l’assemblea específica sobre aquesta qüestió. Si els estatuts no ho disposen altrament, la junta, o qualsevol dels seus membres individualment, pot ser cessada per una votació de l’assemblea general, específica sobre aquesta qüestió, que requereix la majoria simple dels assistents i representats.d) L’aprovació del pressupost anual, que ha de contenir expressió de les quotes o aportacions exigibles als socis, i l’aprovació de la liquidació del pressupost anterior.e) La incorporació de l’associació a una altra o a una unió d’associacions, així com la creació d’una altra associació.f) La separació definitiva de l’associació dels membres, després de l’expedient disciplinari corresponent.g) La dissolució de l’associació.
+3. L’assemblea general es reuneix almenys una vegada l’any en sessió ordinària.
+4. La junta directiva o una desena part dels socis poden convocar una sessió extraordinària de l’assemblea general. En el cas de la convocatòria a instància dels socis, aquests darrers han d’adreçar la sol·licitud a la junta directiva, que ha de fer efectiva la convocatòria en un termini màxim de vint dies.
+5. La constitució vàlida de l’assemblea general requereix que almenys hi siguin presents o representats la meitat dels membres de dret. Si no s’assoleix aquest quòrum, els estatuts poden preveure una segona convocatòria, per a la qual basti un quòrum inferior, fixat en els estatuts.
+6. La convocatòria de l’assemblea correspon a la junta directiva, que l’ha de tramitar amb un mínim de quinze dies d’antelació. La convocatòria ha d’incloure l’ordre del dia i el lloc, la data i l’hora de la reunió.
+7. La fixació de l’ordre del dia de les sessions ordinàries de l’assemblea general correspon a la junta directiva. A petició d’una desena part dels membres de dret de l’assemblea, presentada amb una antelació mínima de vuit dies abans de la celebració de la reunió, la junta ha d’incloure en l’ordre del dia les qüestions que demanin aquests membres. Els estatuts poden preveure els casos i les condicions en què la mateixa assemblea general pot acordar tractar qüestions no incloses en l’ordre del dia. La presa d’acords sobre aquestes qüestions, però, requereix en tot cas que els assistents a la reunió representin almenys la majoria absoluta dels membres de dret de l’assemblea i que aquesta darrera es pronunciï per majoria absoluta dels assistents a favor de prendre acords sobre aquestes qüestions. La majoria requerida per adoptar aquests acords és la que correspongui ordinàriament per raó de la matèria.
+8. Els acords de l’assemblea general es prenen per majoria dels assistents i representats, llevat que els estatuts o aquesta Llei ho disposin altrament.
+9. Els membres de dret de l’assemblea poden delegar el seu vot en un altre membre de l’associació que els representi. Els estatuts poden fixar límits al nombre de delegacions de vot que pot rebre un soci. Els assistents a una sessió de l’assemblea general que disposin d’una delegació de vot de membres absents han de fer constar aquesta circumstància a l’inici de la sessió.
 
 **Article 19. Junta directiva**
 
-$2a
+1. La junta directiva és l’òrgan col·legiat de govern i de gestió de l’associació, que la representa en les seves relacions amb tercers i amb els poders públics, inclosa la representació en judici.
+2. Els estatuts han de determinar la composició i l’estructura de la junta, així com la durada del mandat i la forma de designació dels membres, que en tot cas han de ser elegits per l’assemblea general, que també els pot destituir, en els termes previstos a l’article 18.2.
+3. La junta ha d’elegir un president i ha de designar la persona que ha de tenir assignades les funcions de secretari, en els termes fixats en els estatuts. Els estatuts poden establir, no obstant això, l’elecció del president per part de l’assemblea general, però n’han de fixar la forma i les condicions.
+4. Totes les candidatures han de rebre el mateix tracte per part de la junta que convoqui i gestioni el procés electoral. En especial, cal assegurar-los a totes l’accés als membres de l’associació pel mateix procediment durant el període electoral.
+5. El nomenament i el cessament dels membres de la junta directiva han de ser comunicats al Registre d’Associacions per ser inscrits. La responsabilitat dels membres cessants de la junta s’estén fins al moment d’aquesta comunicació.
+6. Els estatuts han de determinar les funcions de la junta. En cas d’actuacions no atribuïdes pels estatuts a la competència de cap òrgan, corresponen a la junta, llevat que els estatuts disposin que en aquest cas corresponen a l’assemblea general.
+7. Els estatuts poden preveure els casos en què els actes de representació de l’associació per part de la junta requereixen l’autorització prèvia de l’assemblea general o queden sotmesos a altres formes especials de control.
+8. La junta, per acord de la majoria dels membres, pot delegar en un d’ells o en més d’un l’exercici de les seves funcions, en els termes que prevegin els estatuts. No són delegables els actes que l’assemblea ja hagi delegat, al seu torn, a la junta, llevat que s’hagi fet constar així en la delegació efectuada.
+9. Els acords de la junta es prenen per majoria dels membres, llevat que els estatuts o aquesta Llei ho disposin altrament. El vot del president és diriment en cas d’empat.
+10. La junta es reuneix per convocatòria del president, feta amb una antelació mínima de tres dies, que ha de fixar el lloc, el dia i l’hora de la reunió, així com l’ordre del dia. Un terç dels membres de la junta poden sol·licitar-ne la convocatòria al president, que l’ha de fer efectiva en el termini màxim de cinc dies. Un terç dels membres de la junta poden sol·licitar la inclusió d’una qüestió en l’ordre del dia, amb una antelació de quaranta-vuit hores a la reunió.
+11. La junta queda vàlidament constituïda amb l’assistència almenys de la meitat dels membres. La junta també queda vàlidament constituïda, sense convocatòria prèvia en els termes de l’apartat anterior, si reuneix tots els membres i acorden per unanimitat constituir-se en sessió.
+12. En cas de no assolir el quòrum indicat en l’apartat anterior en tres convocatòries consecutives, la junta cessa i convoca l’assemblea general per elegir una nova junta.
 
 **Article 20. President**
 
@@ -128,7 +167,11 @@ L’assemblea general no pot delegar en la junta directiva, i l’assemblea i la
 
 **Article 22. Impugnació d’acords**
 
-$2c
+1. Els acords de l’assemblea general i de la junta directiva s’han de fer constar per escrit, en una acta que ha de firmar el secretari, amb el vistiplau del president. Qui voti en contra d’un acord determinat pot demanar, en la mateixa reunió en què s’ha pres, que el seu vot consti en l’acta.
+2. Qualsevol associat té dret a sol·licitar i a obtenir una còpia, total o parcial, de l’acta de les reunions de l’assemblea general i de la junta directiva. Aquestes còpies han de ser certificades pel secretari.
+3. Els socis que hagin fet constar en l’acta el seu vot contrari a un acord i els que no hagin assistit a la reunió en què es va prendre i no hagin delegat el seu vot, poden impugnar-lo judicialment si és contrari a aquesta Llei o als estatuts de l’associació, o si beneficia uns socis o tercers en perjudici d’uns altres socis o dels interessos de l’associació, dins dels trenta dies següents a la seva adopció.
+4. Els socis que hagin impugnat un acord poden sol·licitar al Registre l’anotació marginal de la impugnació.
+5. L’assemblea general pot acordar, per majoria absoluta dels assistents i dels representats, que una determinada controvèrsia sigui sotmesa a arbitratge.
 
 **Article 23. Responsabilitat**
 
@@ -138,7 +181,9 @@ $2c
 
 **Article 24. Drets dels socis**
 
-$2e
+1. Els membres d’una associació tenen dret a:
+a) Assistir i participar en les assemblees generals, personalment o a través de representants, segons disposin els estatuts.b) Votar en els altres òrgans de l’associació de què formin part. Aquest dret es pot veure limitat en els estatuts per als menors d’edat en les associacions no juvenils que els admetin com a socis.c) Ser elegibles per als òrgans de govern.d) Ser informats de les activitats de l’associació i prendre-hi part.e) Ser informats del funcionament de l’associació i, especialment, de les decisions dels òrgans de govern, de l’estat de comptes i de les relacions de l’associació amb els poders públics i amb tercers. Aquest dret es pot exercir sol·licitant la informació corresponent a la junta directiva o als altres òrgans estatutaris de govern i, si escau, fent preguntes en l’assemblea general.f) Separar-se de l’associació. Si la persona que se separa consta al Registre com a membre fundador, pot sol·licitar al Registre l’anotació de la seva separació.
+2. Els estatuts han d’establir els drets dels membres de l’associació, recollint com a mínim els establerts en aquest article.
 
 **Article 25. Deures dels socis**
 
@@ -179,7 +224,17 @@ a) nom i cognoms;b) data de naixement;c) nacionalitat i país de residència del
 
 **Article 30. Dissolució de les associacions**
 
-$30
+1. Les associacions es dissolen:
+a) per acord de l’assemblea general;b) en quedar un nombre inferior a tres associats;c) per l’expiració del termini fixat en els estatuts, l’exhauriment de l’objecte social o la impossibilitat de complir la finalitat per a la qual es van constituir;d) per les altres causes establertes en els estatuts.
+2. En els casos dels apartats
+c
+i
+d
+anteriors l’assemblea general ha d’acordar la dissolució de l’associació. En cas que no sigui convocada segons els estatuts, una desena part dels socis poden instar la junta directiva a convocar-la, i la junta ho ha de fer en el termini màxim de trenta dies. L’assemblea ha de pronunciar-se expressament sobre la qüestió de la dissolució.
+3. En el cas de l’apartat
+b
+anterior, el president de l’associació o qui la representi ha de portar al Registre d’Associacions el llibre de socis actualitzat, certificant, sota la seva responsabilitat, la seva correspondència amb la realitat. El responsable del Registre ha d’anotar la dissolució per aquesta causa si en el llibre no hi consten com a mínim tres socis actius.
+4. Les associacions poden ser dissoltes per sentència judicial ferma, en els termes previstos en el Codi penal.
 
 **Article 31. Liquidació de les associacions**
 
@@ -195,7 +250,17 @@ En el supòsit d’insolvència d’una associació, la seva junta directiva o, 
 
 **Article 33. Associacions infantils i juvenils**
 
-$32
+1. Són associacions infantils i juvenils les que, en virtut del seu objecte i de les seves finalitats socials, són idònies per agrupar persones amb una edat màxima de vint-i-nou anys. En la denominació s’hi ha d’expressar aquesta condició mitjançant els termes
+infantil
+o
+juvenil
+,
+d’infants
+o
+de joves
+, o qualsevol altre terme similar.
+2. Les associacions infantils i juvenils es regeixen per les normes d’aquesta Llei, amb les especificitats següents:
+a) Els membres poden ser persones de l’edat determinada pels estatuts, i en tot cas han de tenir com a màxim vint-i-nou anys.b) Per constituir-les és suficient la capacitat natural. Tanmateix, per fer-hi aportacions o assumir obligacions patrimonials, cal la capacitat necessària per portar a terme aquests actes. En tot cas, en la seva constitució hi ha de participar almenys una persona major d’edat o emancipada, amb plenitud de drets.c) En la junta directiva hi ha de figurar almenys un membre major d’edat o emancipat, que ha de fer-se càrrec dels actes d’administració que requereixin plena capacitat d’obrar.d) En el Registre s’ha d’anotar el caràcter infantil o juvenil de l’associació.
 
 **Article 34. Declaració d’utilitat pública**
 

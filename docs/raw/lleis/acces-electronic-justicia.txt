@@ -29,11 +29,20 @@ Butlletí Oficial del Principat d’Andorra
 
 **Article 3. Ús obligatori de la xarxa electrònica i el sistema informàtic**
 
-$1f
+1. El sistema informàtic establert a la xarxa electrònica és d’ús obligatori per als tribunals, el Ministeri Fiscal, els cooperadors i professionals de la justícia i les administracions i entitats públiques que es relacionin amb l’Administració de justícia, incloent-hi el Cos de Policia d’Andorra.
+2. També estan obligats a utilitzar el sistema informàtic per a les seves comunicacions i tràmits amb l’Administració de justícia els subjectes següents:
+a) Les persones jurídiques que acompleixin els requisits establerts reglamentàriament.b) Els qui representin un interessat que estigui obligat a relacionar-se electrònicament amb l’Administració de justícia.
+3. Les oficines judicials no admeten cap escrit o document en format paper excepte en els casos previstos expressament a la Llei. L’incompliment del deure d’ús dels sistemes informàtics de comunicació i gestió processal previstos a la Llei comporta la preclusió de l’acte processal que correspongui, amb la consegüent manca d’aportació de l’escrit o els documents dintre del termini fixat, amb els efectes processals que s’esdevinguin, tret que hi hagi un motiu degudament justificat en els termes previstos en aquesta Llei.
 
 **Article 4. Drets d’accés i ús de la xarxa electrònica i el sistema informàtic**
 
-$21
+1. Els ciutadans tenen dret a relacionar-se amb l’Administració de justícia utilitzant mitjans electrònics per tal de registrar peticions i fer consultes o gestions envers els assumptes que els són propis. Concretament, són titulars dels drets següents:
+a) Conèixer per mitjans electrònics l’estat de tramitació dels processos judicials en què siguin part processal.b) Obtenir còpies dels documents que siguin de lliure accés conforme està previst a l’article 13 de la Llei qualificada de la justícia o que formen part de processos judicials en què tinguin la condició de part. En aquest últim cas, aquestes còpies les obté per mitjà del seu advocat o procurador en el cas que intervinguin.c) Tenir la garantia de la seguretat i la confidencialitat de les dades que figuren en els fitxers, sistemes i aplicacions de l’Administració de justícia en els termes que estableix la Llei.d) Deixar constància a la mateixa xarxa electrònica de qualsevol incident produït respecte a l’exercici de les activitats relacionades en aquesta Llei.
+2. Els cooperadors i professionals de la justícia tenen el dret d’accedir a la xarxa electrònica i utilitzar-la en el desenvolupament de la seva activitat professional conforme està establert als articles 13.6 i 59.2 de la Llei qualificada de la justícia. Concretament, tenen els drets següents:
+a) Accedir a la xarxa electrònica per fer qualsevol tràmit amb l’Administració de justícia. L’accés es du a terme en els terminis i segons els procediments establerts en aquesta Llei i en les lleis processals.b) Accedir, per mitjans electrònics, a l’estat de tramitació dels processos judicials en què siguin defensors o representants processals de qualsevol de les parts personades i consultar-lo.c) Obtenir còpies de tots els documents que formen part del procediment en què siguin defensors o representants processals de qualsevol de les parts personades.d) Deixar constància a la mateixa xarxa electrònica de qualsevol incident produït respecte a l’exercici de les activitats relacionades en aquesta Llei.
+3. El Consell Superior de la Justícia ha d’assegurar la possibilitat d’accés als serveis electrònics proporcionats a la seu electrònica als ciutadans que siguin part en un procés judicial. Amb aquesta finalitat, els ciutadans que compareguin sense assistència lletrada o representació processal han de disposar de la informació i els instruments necessaris per poder accedir al sistema. El Consell Superior de la Justícia implementa i afavoreix l’ús dels sistemes d’identificació i comunicació electròniques per part dels ciutadans per a la seva comunicació amb l’Administració de justícia.
+4. Els ciutadans que no estiguin representats per un advocat o procurador actuen davant l’Administració de justícia preferentment a través de mitjans electrònics. L’accés dels ciutadans a la xarxa electrònica es produeix mitjançant un certificat electrònic vàlid i homologat conforme estableix la legislació vigent en aquesta matèria. No obstant això, poden quedar transitòriament exclosos d’aquesta obligació conforme està previst a l’article 19.2 d’aquesta Llei per als actes de comunicació amb les parts. També poden utilitzar el sistema tradicional de presentació per escrit quan acreditin davant del tribunal la impossibilitat o dificultat personal per fer servir el sistema informàtic.
+5. En qualsevol cas, l’actuació dels ciutadans en la xarxa electrònica resta condicionada per les normes i els requisits establerts en la Llei, especialment pel que està previst a les lleis processals. En el cas que en un procediment intervingui un advocat o procurador, el ciutadà es relacionarà amb l’Administració de justícia mitjançant el cooperador que el defensa o representa.
 
 ### Títol II. Xarxa i seu electrònica de la justícia
 
@@ -44,7 +53,12 @@ $21
 
 **Article 6. Seu electrònica de la justícia**
 
-$23
+1. El domini de la seu electrònica és el punt d’accés general al servei informàtic de comunicació i conté el directori de les adreces electròniques que identifiquen els serveis i usuaris públics del sistema que tenen la consideració de seus electròniques secundàries de la justícia.
+2. El Consell Superior de la Justícia pot crear seus electròniques secundàries per als diferents òrgans de l’Administració de justícia. Cadascuna d’aquestes adreces electròniques conté l’accés als serveis, els procediments i les informacions en l’àmbit de cadascun dels òrgans o administracions inclosos a la xarxa electrònica. També pot crear seus electròniques secundàries per tal d’unificar determinats serveis com els de recepció d’escrits, registre, repartiment i comunicació processal o els serveis d’execució de resolucions judicials.
+3. Les seus electròniques secundàries són accessibles des de l’adreça electrònica principal de la seu electrònica, sense perjudici que hi sigui possible l’accés electrònic directe.
+4. La seu electrònica també pot proporcionar accés a serveis prestats per altres administracions públiques o corporacions públiques que agrupen els professionals de la justícia, per mitjà de la formalització dels convenis corresponents.
+5. El funcionament de totes les seus electròniques s’ha de regir pels principis enunciats a l’article 1.2 i també pels principis de responsabilitat, qualitat, disponibilitat accessibilitat i neutralitat.
+6. Els serveis i les transaccions del sistema respectaran els estàndards oberts i, en el seu cas, aquells altres que siguin d’ús generalitzat.
 
 **Article 7. Organització i gestió de la xarxa electrònica de la justícia**
 
@@ -61,29 +75,53 @@ a) La implantació, el desenvolupament i el control de la xarxa electrònica, ap
 
 **Article 9. Expedient judicial electrònic**
 
-$25
+1. El número d’expedient judicial electrònic s’atorga seguint les normes de repartiment i numeració d’assumptes establertes als tribunals. Permet la identificació unívoca de cada procés judicial, sense perjudici de la seva identificació secundària, atenent les diferents fases de primera instància, apel·lació, execució, peces separades o altres.
+2. L’expedient judicial electrònic està ordenat per un índex electrònic que identifica cada document judicial electrònic amb els seus annexos, per tal de donar compte del contingut de l’expedient electrònic i permetre l’accés als documents que el composen.
+3. L’expedient judicial electrònic està format pels documents numerats consecutivament per l’ordre en què s’han incorporat a l’expedient.
+4. No formen part de l’expedient judicial electrònic, i no tenen valor processal, els resums o les còpies dels documents electrònics que consten a l’expedient. Tampoc no tenen aquesta consideració les notes o còpies manuscrites efectuades per les parts o el tribunal.
+5. La xarxa electrònica ha de tenir els mecanismes necessaris per tal de garantir la integritat de l’expedient judicial electrònic.
 
 **Article 10. Còpies electròniques**
 
-$27
+1. En la tramitació dels procediments per via telemàtica, els documents que s’incorporin a l’expedient judicial electrònic ho seran sota forma de còpia electrònica, sense perjudici que qualsevol part en el procediment pugui impugnar l’autenticitat de qualsevol dels documents aportats a l’expedient electrònic, incloent-hi escrits i gravacions audiovisuals o en qualsevol altre format. En aquest cas es confronta el document que consta a l’expedient electrònic amb l’original.
+2. Als efectes previstos a l’apartat anterior, les parts han de conservar els documents originals que s’hagin incorporat a l’expedient electrònic en el format que tinguin amb la finalitat de confrontar-les eventualment amb els documents digitalitzats que consten en l’expedient electrònic.
+3. No obstant l’anterior, per poder considerar els documents electrònics obtinguts com a equivalents als documents en paper digitalitzats, amb el mateix valor que els originals en suport paper originals i sense necessitat de comptar amb aquests originals, cal complir els requisits establerts a la Llei 35/2014, del 27 de novembre, de serveis de confiança electrònica.
 
 **Article 11. Consultes i obtenció de còpies dels documents electrònics. Arxiu de l’expedient judicial electrònic**
 
-$29
+1. Les parts en els processos judicials tenen ple accés a l’expedient judicial electrònic, per tal de consultar o obtenir còpies dels documents que hi consten, sempre que les normes processals aplicables no disposin altrament. L’accés es produeix utilitzant els sistemes d’identificació i autenticació previstos a la Llei.
+2. El sistema informàtic de gestió i comunicació processal permet accedir directament als documents que conté, o bé descarregar-los, per obtenir-ne còpies per al tribunal o les parts en el procés judicial.
+3. Les còpies fetes en suport paper de documents judicials electrònics i signats electrònicament pel secretari judicial tenen la consideració de còpies autèntiques a qualsevol efecte legal.
+4. Els expedients judicials electrònics s’han de conservar en un arxiu gestionat pel Consell Superior de la Justícia que ha de comptar amb les mesures de seguretat necessàries per tal de garantir la integritat, l’autenticitat, la confidencialitat i la conservació dels documents emmagatzemats. El Consell Superior de la Justícia ha d’elaborar i aprovar una norma tècnica a tal efecte.
+5. Sense perjudici del que disposa la legislació de protecció de dades personals, el Consell Superior de la Justícia, ha de regular la reutilització de sentències i altres resolucions judicials per mitjans digitals de referència o reenviament d’informació per part de persones físiques o jurídiques per facilitar l’accés a les mateixes de terceres persones.
 
 ### Títol IV. Tramitació electrònica dels processos judicials
 
 **Article 12. Registre judicial electrònic**
 
-$2b
+1. El registre electrònic del sistema informàtic permet la presentació d’escrits, documents i comunicacions tots els dies de l’any durant les vint-i-quatre hores. La data i l’hora són les oficials a Andorra i han de ser visibles a la seu electrònica.
+2. En el registre electrònic hi ha de constar:
+a) La recepció de tots els escrits i documents processals annexos amb relació als processos judicials que conegui cada tribunal.b) La comunicació de tots els actes i resolucions processals que es dictin en els processos judicials que conegui cada tribunal.c) El trasllat dels escrits i documents presentats per les parts mitjançant la seva incorporació a l’expedient electrònic una vegada admesos pel tribunal.
+3. El tribunal admet únicament els escrits i documents en relació amb els procediments judicials que està coneixent.
+4. El registre electrònic del sistema informàtic emet automàticament un justificant acreditatiu de la presentació de l’escrit o document, d’acord amb les previsions establertes en la norma tècnica fixada pel Consell Superior de la Justícia.
 
 **Article 13. Presentació de la demanda i altres escrits iniciadors del procés**
 
-$2d
+1. La demanda, la petició d’injunció i els escrits iniciadors de qualsevol tipus de procés o procés judicial s’han de presentar al registre electrònic que correspongui per al seu repartiment. Una vegada admès l’escrit i designat el tribunal competent, qualsevol comunicació processal s’ha de fer al registre electrònic del tribunal que coneix de l’assumpte.
+2. L’advocat o procurador que presenti una demanda al sistema de gestió i comunicació processal ha d’aportar una còpia en paper de l’escrit per a cadascuna de les parts demandades, davant del tribunal al qual s’hagi repartit, a l’efecte de traslladar-la al demandat. En el cas que per la seva quantia el demandat no tingui l’obligació de comparèixer al procés judicial defensat per advocat o representat per procurador, la còpia en paper de la demanda o l’escrit iniciador del procés o el procediment ha d’incloure tots els documents annexos.
+3. En el cas que en el procés judicial sigui preceptiva la intervenció d’advocat, la còpia en paper ha de ser únicament de la demanda que es notificarà a cadascuna de les parts demandades. Els documents annexos a la demanda poden ser consultats pel demandat al sistema informàtic una vegada comparegut al procediment mitjançant la deguda defensa i representació tècniques.
+4. En el cas que la part que compareix per si mateixa en el procediment judicial sense la intervenció d’advocat o procurador sigui una persona física i no pugui utilitzar per algun motiu vàlid dispositius electrònics de comunicació, pot presentar la seva demanda o petició per escrit. En aquest cas el servei processal que correspongui ha de digitalitzar els escrits presentats per tal d’introduir-los al sistema informàtic de gestió i comunicació processal.
 
 **Article 14. Especialitats al procés penal i al procediment d’habeas corpus**
 
-$2f
+1. Les normes previstes en aquesta Llei són aplicables a la tramitació dels processos penals amb les especialitats contingudes en aquest article i les normes del Codi de procediment penal o altres lleis que esdevinguin aplicables.
+2. Les denúncies i querelles es poden interposar per mitjans telemàtics mitjançant la xarxa informàtica de la justícia. També es poden interposar conforme està previst al Codi de procediment penal. En aquest últim cas s’ha de transcriure en document judicial electrònic o digitalitzar, segons el cas, la denúncia obrint l’expedient electrònic corresponent.
+3. En el cas que sigui preceptiva la intervenció d’advocat, els actes de comunicació se substancien conforme està previst en aquesta Llei mitjançant el sistema informàtic de comunicació processal. En qualsevol cas romanen vigents les especialitats contingudes al Codi de procediment penal respecte a la notificació personal de sentències o determinades resolucions judicials.
+En els processos penals amb persones privades de llibertat, sempre que la resolució judicial estigui estrictament i directament relacionada amb la mesura privativa de llibertat, el termini processal inicia el seu còmput a partir del dia següent al de la recepció de la comunicació, amb independència del seu accés.
+En els procediments d’
+habeas corpus
+, el termini processal inicia el seu còmput a partir del dia següent al de la recepció de la comunicació, amb independència del seu accés.
+4. Totes les comunicacions i trasllats entre el Cos de Policia i el Ministeri Fiscal o els tribunals es produeixen mitjançant el servi informàtic de comunicació processal.
 
 **Article 15. Còmput de terminis**
 
@@ -92,19 +130,30 @@ $2f
 
 **Article 16. Presentació d’escrits, documents o altres mitjans o instruments al sistema informàtic**
 
-$33
+1. Els escrits presentats a la seu electrònica són els previstos en les lleis processals i han d’anar acompanyats del formulari normalitzat, amb el format i el contingut que aprovi el Consell Superior de la Justícia.
+2. Tots els escrits presentats a la seu electrònica han d’estar signats mitjançant els sistemes de signatura electrònica previstos a la Llei.
+3. Excepcionalment es poden presentar documents, elements o objectes de prova davant el tribunal que correspongui quan per la singularitat o les característiques de l’objecte no sigui possible aportar-los per via telemàtica. En aquest cas, s’ha de presentar un escrit a la seu electrònica amb referència a la circumstància exposada, i s’ha de presentar l’objecte davant de l’òrgan judicial al qual s’hagi atribuït l’assumpte el dia hàbil següent a aquell en què s’hagi procedit al repartiment de l’escrit. Aquests documents o objectes es dipositen i custodien a l’oficina judicial i es deixa constància en l’expedient judicial electrònic de la seva existència i del lloc de conservació.
+4. La xarxa electrònica ha de tenir capacitat suficient per assegurar i permetre la recepció i transmissió dels escrits presentats per via telemàtica pels usuaris del sistema. En el cas que qualsevol persona usuària es trobi en la impossibilitat de trametre un escrit a la seu electrònica per excedir la capacitat del sistema a tal efecte, està autoritzada a presentar-lo en format paper davant la jurisdicció que escaigui, sempre i quan acrediti aquesta impossibilitat.
 
 **Article 17. Presentació d’escrits en cas d’interrupció o impossibilitat d’accedir al sistema informàtic**
 
-$37
+1. La interrupció planificada del funcionament del registre electrònic es comunica a tots els usuaris de la seu electrònica. Excepcionalment es pot autoritzar la pròrroga dels terminis de venciment imminent, que s’ha d’anunciar suficientment per al coneixement general dels usuaris del sistema de gestió i comunicació processal.
+2. En el cas d’impossibilitat d’accedir al sistema informàtic de gestió i comunicació processal, els escrits sotmesos a termini es poden presentar, igualment de forma telemàtica, el dia hàbil següent a l’últim dia del termini processal.
+3. En el cas previst en el paràgraf anterior, quan la impossibilitat d’accedir al sistema informàtic de gestió i comunicació processal persisteixi el dia hàbil següent a l’últim dia del termini processal, la part ha d’aportar al tribunal, dintre d’aquest dia, el document que justifica degudament la impossibilitat de l’ús del sistema informàtic de gestió i comunicació processal. Correspon al secretari judicial resoldre l’admissió del document i la seva incorporació a l’expedient judicial electrònic. Aquesta resolució és recurrible davant el tribunal del qual formi part o al qual es trobi adscrit el secretari judicial en el termini de cinc dies hàbils des de la seva notificació.
+4. En cas d’interrupció o mal funcionament no planificat del registre electrònic, es disposen els mitjans necessaris per tal que els usuaris del sistema de gestió i comunicació processal siguin informats de la situació i, si escau, d’una eventual pròrroga dels terminis de venciment imminent. A aquest efecte es publicaran al sistema informàtic els certificats corresponents donant compte de les circumstàncies expressades.
 
 **Article 18. Notificació del primer emplaçament o citació i compareixença al procés judicial**
 
-$39
+1. El primer emplaçament o notificació derivada de l’admissió d’una demanda o de l’escrit inicial d’un procediment s’ha de notificar personalment. No cal comunicació personal en el cas que consti una designació vàlida d’advocat o procurador o en el cas de les persones jurídiques que tinguin obligació d’utilitzar la xarxa electrònica.
+2. La notificació personal és exigible quan així ho estableixi una llei.
+3. La notificació al demandat ha de contenir el termini per a la contesta a la demanda o el tràmit corresponent. També es fa constar el termini de cinc dies perquè la persona notificada designi advocat o procurador. Els terminis processals establerts per tal de comparèixer i contestar la demanda queden en suspens durant cinc dies hàbils, atorgats per designar advocat o procurador, i se n’inicia el còmput conforme està previst a la Llei qualificada de la justícia una vegada transcorregut el referit termini de cinc dies hàbils.
+4. La petició de justícia gratuïta suspèn el còmput del termini processal de cinc dies hàbils per tal de procedir a la designació d’avocat o procurador. El termini es reprèn una vegada s’hagi resolt sobre la seva concessió o denegació.
 
 **Article 19. Comunicació dels actes processals diferents del primer emplaçament**
 
-$3b
+1. El Ministeri Fiscal, els advocats, els procuradors, el saig i la resta de cooperadors i professionals de la justícia, així com les administracions i entitats públiques que es relacionin amb l’Administració de justícia, incloent-hi el Cos de Policia, es comuniquen amb els tribunals mitjançant el sistema informàtic. El termini processal comença a comptar a partir del dia següent al de l’accés a la comunicació processal. En cas de falta d’accés a la comunicació electrònica dintre dels cinc dies hàbils següents al dia en què es va fer la comunicació, el termini processal inicia el seu còmput el dia hàbil següent.
+2. Si la persona física compareix sense advocat ni procurador, per no ser preceptiva la seva intervenció, la comunicació es fa mitjançant l’accés al sistema informàtic de comunicació processal. En el cas que no disposi de certificat electrònic vàlid, les comunicacions s’efectuen directament per correu electrònic a l’adreça que hagi assenyalat i, si no en disposa, mitjançant correu ordinari certificat o per qualsevol altre mitjà que permeti acreditar la data de la recepció i el contingut de la comunicació. Les parts estan obligades a comunicar els canvis d’adreça durant la tramitació del procés.
+3. La comunicació entre el tribunal i altres persones i entitats públiques o privades que es relacionen o col·laboren amb l’Administració de justícia s’efectua mitjançant el servei informàtic. En cas que no sigui possible la comunicació electrònica, per qualsevol causa, aquesta comunicació es fa mitjançant oficis adreçats per correu ordinari o electrònic o per qualsevol altre mitjà tècnic que permeti acreditar la data de la recepció i el contingut de la comunicació. El secretari judicial fa constar per diligència la recepció d’aquesta comunicació.
 
 **Article 20. Actes processals de comunicació amb perits, testimonis i altres persones que intervenen en el procés**
 

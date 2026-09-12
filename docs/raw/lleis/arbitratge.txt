@@ -50,11 +50,16 @@ Si alguna de les parts té més d’un domicili, s’ha de tenir en compte el qu
 
 **Article 5. Regles d’interpretació**
 
-$1e
+1. Quan una disposició de la Llei:
+a) Concedeixi a les parts la facultat de decidir lliurement sobre un assumpte concret, aquesta facultat comprèn la d’autoritzar un tercer, inclosa una institució arbitral, perquè adopti aquesta decisió, excepte en els casos que preveuen els apartats 1 a 3 de l’article 49.b) Es refereixi al conveni d’arbitratge o a qualsevol altre acord entre les parts, s’entén que integren el seu contingut les disposicions del reglament d’arbitratge al qual les parts s’hagin sotmès, si s’escau. Aquest reglament es considera fruit de la voluntat de les parts i, en conseqüència, preval sobre les normes dispositives de la Llei.c) Es refereixi a la demanda, també s’aplica a la reconvenció, i quan es refereixi a la contesta, també s’aplica a la contesta a la reconvenció, excepte en el casos que preveu l’article 46.a) i l’article 53.3.a).
+2. Les qüestions relatives a les matèries que es regeixen per la present Llei que no estiguin expressament resoltes en aquesta, es dirimiran de conformitat als principis generals en què es basa, entre els quals es troben els següents:
+a) Principi de llibertat, que consisteix en el reconeixement de facultats potestatives a les parts per adoptar mitjans alternatius al procés judicial per a la resolució de controvèrsies.b) Principi de flexibilitat, que consisteix en l’establiment d’actuacions informals, adaptables i simples.c) Principi de privacitat, que consisteix en el manteniment obligatori de la necessària reserva i confidencialitat.d) Principi d’idoneïtat, que consisteix en la capacitat per exercir-se com a àrbitre o conciliador.e) Principi de celeritat, que consisteix en la continuïtat dels procediments per a la solució de les controvèrsies.f) Principi d’igualtat, que consisteix a donar a cada part les mateixes oportunitats de fer valer els seus drets.g) Principi d’audiència, que consisteix en l’oralitat dels procediments alternatius.h) Principi de contradicció, que consisteix en l’oportunitat de confrontació entre les parts.
 
 **Article 6. Actes de comunicació i còmput de terminis**
 
-$20
+1. Llevat que les parts acordin altrament s’apliquen les disposicions següents:
+a) Qualsevulla notificació, citació o comunicació es considera rebuda el dia que hagi estat lliurada personalment al destinatari o que hagi estat lliurada al seu domicili, residència habitual, establiment o adreça. Així mateix, són vàlides les fetes per fax, burofax, correu electrònic o un altre mitjà de telecomunicació electrònic, telemàtic o d’una altra classe semblant que permeti la tramesa i la recepció d’escrits i documents que deixi constància de la seva remissió i recepció i que hagin estat designats per l’interessat. Posat el cas que no s’identifiqui, després d’una indagació raonable, cap d’aquests llocs, es considera rebuda el dia en què hagi estat lliurada o intentat el lliurament, per correu certificat o qualsevol altre mitjà que deixi constància, en l’últim domicili, residència habitual, adreça o establiment coneguts del destinatari.b) Els terminis establerts en la Llei es computen des del dia següent al de la recepció de la notificació o la comunicació. Si l’últim dia del termini és dia festiu en el lloc de recepció de la notificació o la comunicació, es prorrogarà fins al primer dia laborable següent. Quan hi hagi establert un termini per presentar un escrit, el termini s’entén respectat si l’escrit es remet dins el termini, encara que la recepció es produeixi posteriorment. Els terminis establerts per dies es computen per dies naturals. Els terminis establerts per mesos es computen de data a data.
+2. Les disposicions d’aquest article no s’apliquen a les notificacions, les comunicacions, les citacions i els còmputs de terminis dins un procediment davant d’un òrgan jurisdiccional estatal, en les funcions d’assistència i supervisió durant l’arbitratge, que es regeixen per les seves normes pròpies.
 
 **Article 7. Renúncia tàcita a les facultats d’impugnació**
 
@@ -66,11 +71,26 @@ En els assumptes que es regeixin per aquesta Llei no intervindrà cap òrgan jur
 
 **Article 9. Òrgans judicials competents per a les funcions d’assistència i supervisió de l’arbitratge**
 
-$22
+1. Els òrgans judicials competents per a les funcions d’assistència i supervisió de l’arbitratge són els següents:
+a) Per al nomenament o la remoció judicial d’àrbitres és competent el batlle al qual correspongui per torn de jurisdicció voluntària.b) Per a l’assistència judicial en la pràctica de proves és competent el batlle al qual correspongui per torn de jurisdicció voluntària.c) Per a l’adopció judicial de mesures cautelars és competent el batlle que pertany a la jurisdicció civil i al qual correspongui per torn, d’acord amb les normes de la Llei del Codi de procediment civil.d) Per a l’execució forçosa de laudes nacionals i estrangers reconeguts, és competent el batlle que pertany a la jurisdicció civil i al qual correspongui per torn, d’acord amb les normes de la Llei del Codi de procediment civil, sense perjudici de les competències que té atribuïdes el saig d’acord amb la Llei del Codi de procediment civil i la Llei del saig.e) Per al reconeixement de laudes o resolucions estrangers i per al coneixement de l’acció d’anul·lació del laude és competent la Sala Civil del Tribunal Superior de Justícia.
+2. Qualsevol de les parts i la junta arbitral es pot dirigir als òrgans judicials competents d’acord amb el previst a l’apartat 1.
+3. En tot allò no previst per aquesta Llei, en les funcions judicials d’assistència i supervisió de l’arbitratge, és d’aplicació subsidiària la legislació processal civil.
+4. Les decisions dels òrgans judicials competents a què fa referència l’apartat 1 no són susceptibles de recurs excepte en el cas que la decisió sigui que no pertoca el nomenament dels àrbitres per una de les causes previstes a l’article 17.
+5. Les parts poden renunciar per conveni a l’arbitratge pactat i deixar per tant expedita la via judicial. A manca de renúncia expressa en els termes anteriorment indicats, s’entendrà que renuncien quan, interposada la demanda davant dels òrgans jurisdiccionals, el demandat o els demandats si són més d’un, duguin a terme, després de personats, qualsevol actuació processal, que no sigui la interposició de la declinatòria.
 
 **Article 10. Contingut, forma i validesa del conveni d’arbitratge**
 
-$24
+1. El conveni d’arbitratge ha d’expressar la voluntat de les parts de sotmetre a arbitratge les controvèrsies que hagin sorgit o puguin sorgir respecte d’una determinada relació jurídica contractual o extracontractual.
+2. El conveni d’arbitratge ha de designar la junta arbitral o el procediment per a la seva designació, directament o per referència a un reglament d’arbitratge. No és vàlid el conveni que confereix a una part una situació privilegiada en la designació de la junta arbitral.
+3. El conveni d’arbitratge pot adoptar la forma de clàusula compromissòria o de compromís d’arbitratge. La clàusula compromissòria és el conveni en mèrits del qual les parts en una o diverses relacions jurídiques es comprometen a sotmetre a arbitratge les controvèrsies que puguin sorgir en relació a aquelles. El compromís d’arbitratge és el conveni pel qual les parts d’una controvèrsia ja sorgida la sotmeten a arbitratge. Les parts poden sotmetre’s a arbitratge en tot moment fins i tot en el cas d’un procediment judicial ja iniciat.
+4. La referència feta en un contracte a un document que contingui una clàusula compromissòria constitueix un conveni d’arbitratge per escrit, sempre que la referència impliqui que aquesta clàusula forma part del contracte.
+5. Si el conveni d’arbitratge està contingut en un contracte d’adhesió, la validesa del conveni i la seva interpretació es regeixen per les normes aplicables a aquest tipus de contracte.
+6. El conveni d’arbitratge en qualsevol de les seves formes ha de constar per escrit en un o diversos documents firmats per les parts. S’entendrà que el conveni d’arbitratge és per escrit quan quedi constància del seu contingut en qualsevol forma, tant si s’ha concertat verbalment, mitjançant l’execució de certs actes o bé per qualsevol altre mitjà. El requisit que el conveni d’arbitratge consti per escrit es compleix també amb una comunicació electrònica si la informació que hi ha consignada és accessible per la seva consulta ulterior.
+7. Es considera que existeix conveni d’arbitratge quan, en un intercanvi d’escrits de demanda i contesta, l’existència del conveni sigui afirmada per una part sense ser negada per l’altra.
+8. El conveni d’arbitratge és independent del contracte del qual forma part o al qual el conveni fa referència i la decisió de la junta arbitral de declarar la nul·litat del contracte no comporta ipso jure la nul·litat del conveni d’arbitratge.
+9. La junta arbitral té potestat per a decidir sobre l’existència i la validesa del conveni d’arbitratge d’acord amb el que disposa l’article 27.
+10. Es considera existent i vàlid el conveni que consta en un intercanvi de cartes, burofax o altres mitjans de telecomunicació, sempre que quedi constància del seu contingut en qualsevol forma. Es considera acomplert aquest requisit quan el conveni d’arbitratge consti i sigui accessible per a la seva ulterior consulta en suport electrònic, òptic o de qualsevol altre tipus.
+11. En el cas d’una controvèrsia multipart, la renúncia d’una de les parts a l’aplicació del conveni d’arbitratge no afecta les altres parts.
 
 **Article 11. Conveni d’arbitratge i demanda quant al fons**
 
@@ -107,11 +127,21 @@ ex aequo et bono
 
 **Article 17. Nomenament dels àrbitres**
 
-$26
+1. Les parts poden lliurement nomenar directament l’àrbitre o els àrbitres que componen la junta arbitral o bé acordar el procediment per al seu nomenament, amb subjecció a les disposicions dels apartats 4 i 5.
+2. A falta d’aquest acord:
+a) En l’arbitratge amb junta arbitral composta per un àrbitre únic, si les parts no es posen d’acord sobre l’àrbitre, aquest àrbitre és nomenat, a instància de part, per la institució arbitral nomenada per les parts i, si no se n’hagués nomenat cap, pel batlle al qual correspongui per torn de jurisdicció voluntària, en el termini màxim d’un mes.b) En l’arbitratge amb junta arbitral integrada per tres àrbitres, cada part nomena un àrbitre i els dos àrbitres designats nomenen el tercer àrbitre, que actua com a president de la junta arbitral; si una part no nomena l’àrbitre dins els trenta dies següents a la notificació del requeriment fefaent en aquest sentit de l’altra part, o si els dos àrbitres no es posen d’acord sobre el tercer àrbitre dins els trenta dies següents a l’acceptació del seu nomenament, el nomenament es fa, a instància de part, per la institució arbitral nomenada per les parts i, si no se n’hagués nomenat cap, pel batlle al qual correspongui per torn de jurisdicció voluntària, en el termini màxim d’un mes.
+3. Quan en un procediment de nomenament d’àrbitres convingut per les parts,
+a) una part no actuï segons el que disposa aquest procediment, ob) les parts o els dos àrbitres no puguin arribar a un acord de conformitat amb el procediment mencionat, oc) un tercer, inclosa una institució, no compleixi una funció que se li confereix en aquest procediment, qualsevol de les parts pot sol·licitar al batlle al qual correspongui per torn de jurisdicció voluntària que adopti les mesures necessàries per tal que el nomenament dels àrbitres es faci efectiu, llevat que l’acord sobre el procediment de nomenament prevegi altres mitjans per aconseguir-ho.
+Aquesta sol·licitud pot consistir tan sols a suplir allò que impedeix continuar amb el procediment de nomenament de l’àrbitre o àrbitres convingut per les parts, com també a peticionar el nomenament judicial directe de l’àrbitre o els àrbitres, tenint en compte els requisits previs establerts per les parts.
+4. Quan el nomenament dels àrbitres correspongui al batlle al qual correspongui per torn de jurisdicció voluntària, confecciona una llista amb tres noms per cada àrbitre que hagi de ser escollit i tria els noms per sorteig. Ha de tenir necessàriament en compte les condicions requerides per ser àrbitre d’una junta arbitral convingudes per les parts, i si no se n’haguessin convingut, les previstes a la Llei, i ha de prendre les mesures que garanteixin la independència, la imparcialitat i la disponibilitat dels integrants de les llistes.
+5. Les pretensions que s’exercitin davant la Batllia en relació amb els apartats anteriors se substancien per mitjà de les normes expressament previstes per a aquesta finalitat o, si no se n’haguessin previst, per les que regulen els procediments incidentals d’acord amb el previst a la legislació processal civil vigent en cada moment. La Batllia només pot refusar la petició de nomenament d’àrbitre si, de la documentació aportada, en resulta manifestament la inexistència o la invalidesa del conveni d’arbitratge.
+6. Les decisions de la Batllia sobre el nomenament d’àrbitres a què fa referència aquest article no poden ser objecte de recurs, amb excepció d’aquelles que refusen la petició formulada d’acord amb l’últim incís de l’apartat 5.
 
 **Article 18. Nomenament d’àrbitres en procediments amb pluralitat de parts i adhesió d’un tercer al procediment arbitral**
 
-$28
+1. En cas de pluralitat de demandants o demandats, quan la controvèrsia s’hagi de sotmetre a arbitratge, aquesta ha de ser resolta per una junta arbitral formada per tres membres. Els demandants nomenen de comú acord un àrbitre i els demandats en nomenen de comú acord un altre. Una vegada nomenats els àrbitres per cada part, aquests nomenen el tercer, el qual actua com a president de la junta arbitral. Si una part no nomena l’àrbitre dins dels 20 dies a comptar de la recepció del requeriment de l’altra perquè ho faci, la designació de l’àrbitre correspon a la institució arbitral nomenada o, si és el cas, a la Batllia, a petició de qualsevol de les dues parts. Així mateix, quan els àrbitres designats no aconsegueixin posar-se d’acord en el nomenament del tercer àrbitre dins dels 30 dies a comptar de l’última acceptació, el nomenament correspon, a petició d’una de les dues parts, a la institució arbitral nomenada o, si és el cas, a la Batllia.
+2. Si la designació d’àrbitres correspon a la institució arbitral nomenada o al batlle al qual correspongui per torn de jurisdicció voluntària, una o l’altre segons escaigui ha de confeccionar una llista de tres noms per cada àrbitre que hagi de ser nomenat. En confeccionar aquesta llista s’ha de tenir en compte els requisits establerts per les parts per seleccionar els àrbitres i prendre les mesures necessàries per garantir-ne la independència i la imparcialitat. Una vegada confeccionada la llista, es nomenen els àrbitres mitjançant sorteig.
+3. Mentre un arbitratge estigui pendent de resolució, pot ser admès com a demandant o demandat qui acrediti tenir interès directe i legítim en el resultat del mateix. El tercer que desitgi sotmetre’s a l’arbitratge o la part que desitgi incorporar un tercer a l’arbitratge ha de presentar la seva sol·licitud abans de la designació dels àrbitres, tret que totes les parts, inclòs el tercer que desitja adherir-se o ser adherit, acceptin que el tercer s’incorpori a un procediment en què els àrbitres ja han estat designats, i el tercer renunciï al seu dret de designació i accepti l’àrbitre que la seva part hagi nomenat.
 
 **Article 19. Independència i imparcialitat**
 
@@ -125,11 +155,19 @@ Llevat que les parts hagin disposat altrament, cada àrbitre, dins el termini de
 
 **Article 21. Motius i procediment de recusació**
 
-$2a
+1. Un àrbitre només pot ser recusat si existeixen fets o circumstàncies que donin lloc a dubtes justificats sobre la seva independència o imparcialitat, o si no reuneix les condicions convingudes per les parts o, si aquestes no existeixen, les exigides per la llei aplicable. Tanmateix, una part només pot recusar l’àrbitre nomenat per ella, o en el nomenament del qual hagi participat, per causes de les quals tingui coneixement després del nomenament.
+2. Les parts poden acordar lliurement el procediment de recusació dels àrbitres, sense perjudici del que disposa l’apartat 3.
+3. Si no existeix aquest acord, la part que desitgi recusar un àrbitre ha d’exposar per escrit els motius en els quals basa la recusació, dins els quinze dies després de tenir coneixement de l’acceptació de l’àrbitre o de qualsevol circumstància a què es refereix l’article 19. Llevat que l’àrbitre recusat renunciï al seu càrrec o que les altres parts acceptin la recusació, la junta arbitral, excloent l’àrbitre recusat, decideix sobre la recusació.
+4. Si la recusació en virtut del procediment acordat per les parts o del procediment descrit en l’apartat 3 no prospera, la part recusant pot fer valdre, si escau, la recusació davant el batlle al qual correspongui per torn de jurisdicció voluntària. La decisió del batlle és inapel·lable.
+5. La recusació, mentre no es resolgui, no impedeix les actuacions arbitrals ni priva l’àrbitre recusat de les seves funcions.
 
 **Article 22. Exercici de les funcions arbitrals i remoció dels àrbitres**
 
-$2c
+1. La junta arbitral ha d’exercir les seves funcions completant-les fins a la finalització del procediment arbitral, llevat que justifiqui un impediment o una causa legítima d’abstenció o de renúncia.
+2. Si un àrbitre es veu impedit, de iure o de facto, d’exercir les seves funcions o les exerceix amb dilacions injustificades, el seu mandat cessa si renuncia al càrrec o si les parts n’acorden la remoció en qualsevol moment. En cas contrari, si hi ha desacord respecte a qualsevol dels motius de remoció, qualsevol de les parts pot sol·licitar al batlle al qual correspongui per torn de jurisdicció voluntària que decideixi sobre la terminació del mandat. La decisió del batlle és inapel·lable.
+3. A la sol·licitud de remoció es pot acumular la sol·licitud de nomenament del nou àrbitre, en els termes previstos en aquest article, posat cas que s’estimi la remoció.
+4. Si, en virtut d’aquest article o de l’article 20.3, un àrbitre renuncia al seu càrrec o una part accepta la terminació del mandat d’un àrbitre, això no implica necessàriament acceptació de la concurrència de qualsevol dels motius esmentats en aquest article o en l’article 21.
+5. La institució arbitral i, si de cas hi manca, el batlle al qual correspongui per torn de jurisdicció voluntària poden igualment decidir la revocació del nomenament de tots o un dels àrbitres, a instància d’una de les parts, després d’haver escoltat l’àrbitre afectat, posat cas que hi hagi dubtes justificats sobre la independència o la imparcialitat dels àrbitres o de les condicions requerides per a ells en el conveni d’arbitratge, o incapacitat física o mental dels àrbitres o deficiències greus en la conducció del procediment arbitral. Els àrbitres poden continuar el procediment i dictar el laude mentre el procediment de revocació estigui pendent.
 
 **Article 23. Nomenament d’àrbitre substitut**
 
@@ -152,7 +190,10 @@ Llevat que les parts hagin acordat altrament, tant la junta arbitral com les ins
 
 **Article 27. Potestat de la junta arbitral per a decidir sobre la seva competència**
 
-$2e
+1. La junta arbitral està facultada per decidir sobre la seva pròpia competència i en particular sobre les excepcions relatives a l’existència o la validesa del conveni d’arbitratge, el nomenament dels àrbitres, l’arbitrabilitat de la controvèrsia o qualsevol altra excepció, l’estimació de la qual impedeixi entrar en el fons de la controvèrsia.
+2. L’excepció d’incompetència de la junta arbitral i les altres a què fa referència l’apartat 1 poden ser oposades per les parts fins el moment de presentar la contesta a la demanda. Les parts no es veuen impedides d’oposar les excepcions pel fet que hagin nomenat un àrbitre o participat en el seu nomenament. L’excepció basada en el fet que la junta arbitral s’ha excedit del seu mandat, ha de ser plantejada tan aviat com aparegui, durant les actuacions arbitrals, la matèria que suposadament excedeix el seu mandat.
+3. La junta arbitral només pot admetre la interposició d’excepcions posteriorment si la demora resulta justificada. Es considera que la part que, amb coneixement de causa i sense motiu justificat, s’absté d’oposar una excepció en temps útil, renuncia a oposar-la.
+4. La junta arbitral pot decidir respecte les excepcions a què fan referència els apartats 1 i 2 com a qüestió prèvia, mitjançant un laude parcial, o juntament amb les altres qüestions sotmeses a la seva decisió relatives al fons de l’assumpte en el laude final. La decisió de la junta arbitral només pot ser impugnada mitjançant l’exercici de l’acció d’anul·lació del laude en què s’hagi adoptat. Si la decisió de la junta arbitral fos desestimatòria de les excepcions i s’adoptés amb caràcter previ, l’exercici de l’acció d’anul·lació no suspèn el procediment arbitral.
 
 **Article 28. Potestat de la junta arbitral per a adoptar mesures cautelars**
 
@@ -181,7 +222,12 @@ ex parte
 
 **Article 31. Règim específic de les ordres preliminars**
 
-$30
+1. Davant la sol·licitud d’una ordre preliminar, la junta arbitral es pronuncia sobre la procedència o no d’aquesta.
+2. Immediatament després d’haver-se pronunciat sobre la procedència o no d’una petició d’ordre preliminar, la junta arbitral notifica a les parts tant la sol·licitud com la pròpia ordre preliminar, en el cas d’haver-se emès, així com la mesura cautelar que pretén preservar-se mitjançant dita ordre preliminar. Igualment, la junta arbitral notifica totes les comunicacions respecte de l’ordre preliminar, fins i tot la constància del contingut de tota comunicació verbal, entre qualsevol de les parts i la junta arbitral amb relació a aquesta matèria.
+3. Al mateix temps, la junta arbitral dóna a la part a qui afecta l’ordre preliminar l’oportunitat de fer valdre els seus drets al més aviat possible.
+4. La junta arbitral es pronuncia sense tardança sobre tota objecció que es presenti contra l’ordre preliminar.
+5. Tota ordre preliminar expira als vint dies comptats a partir de la data en què la junta arbitral l’hagi emesa. No obstant això, la junta arbitral pot adoptar una mesura cautelar per la qual ratifiqui o modifiqui l’ordre preliminar una vegada que la part contra la que s’hagi dirigit l’ordre preliminar hagi estat notificada i hagi tingut l’oportunitat de fer valer els seus drets.
+6. Les ordres preliminars són vinculants per a les parts, però no són de per si objecte d’execució judicial. Les ordres preliminars no constitueixen un laude.
 
 **Article 32. Modificació, suspensió i revocació**
 
@@ -203,11 +249,17 @@ El sol·licitant d’una mesura cautelar o d’una ordre preliminar és responsa
 
 **Article 36. Reconeixement i execució**
 
-$32
+1. Tota mesura cautelar adoptada per la junta arbitral és vinculant i ha de ser executada immediatament. Llevat que la junta arbitral ho disposi altrament, és executada en el moment que se sol·licita la seva execució davant l’òrgan jurisdiccional estatal competent, amb independència de l’estat en què es trobi el procediment arbitral i sense perjudici del que disposa l’article 37.
+2. La part que sol·liciti o hagi obtingut el reconeixement o l’execució d’una mesura cautelar ha d’informar sense demora l’òrgan jurisdiccional estatal de tota revocació, suspensió o modificació que s’ordeni de tal mesura.
+3. L’òrgan jurisdiccional estatal davant el qual s’ha sol·licitat el reconeixement o l’execució d’una mesura cautelar pot, si ho considera oportú, exigir a la part sol·licitant que presti una garantia adequada, quan la junta arbitral no s’hagi pronunciat encara sobre tal garantia o quan aquesta garantia sigui necessària per a protegir els drets de tercers.
+4. Quan les parts ho acordin en el conveni, la junta arbitral pot imposar sancions en cas d’incompliment de les mesures cautelars.
+5. A les decisions arbitrals sobre mesures cautelars, qualsevol que sigui la forma que revesteixin, els són d’aplicació les disposicions d’aquesta Llei relatives a l’anul·lació i l’execució de laudes.
 
 **Article 37. Motius per a denegar el reconeixement o l’execució**
 
-$34
+1. Només es pot denegar el reconeixement o l’execució d’una mesura cautelar:
+a) Si, en actuar a instància de la part afectada per la mesura, a l’òrgan jurisdiccional estatal li consta que:i. la denegació està justificada per algun dels motius enunciats en l’article 56.2.a); oii. no s’ha complert la decisió de la junta arbitral en relació amb la prestació de garantia que correspongui a la mesura cautelar adoptada per la junta arbitral, oiii. la mesura cautelar ha estat revocada o suspesa per la junta arbitral o, posat el cas que estigui facultada per fer-ho, per un òrgan jurisdiccional de l’Estat on es tramita el procediment d’arbitratge o conforme al dret del qual la mesura es va adoptar, ob) Si l’òrgan jurisdiccional estatal resol que:i. la mesura cautelar és incompatible amb les facultats que se li confereixen, a menys que aquest tribunal deixi d’adoptar la mesura per subjectar-la a les seves pròpies facultats i procediments a efectes de poder-la executar sense modificar el seu contingut; o queii. algun dels motius de denegació enunciats en l’article 56.2.b) és aplicable al reconeixement o l’execució de la mesura cautelar.
+2. Tota determinació a la qual arribi l’òrgan jurisdiccional estatal respecte de qualsevol motiu enunciat en l’apartat 1 és únicament aplicable als fins de la sol·licitud de reconeixement i de l’execució de la mesura cautelar. L’òrgan jurisdiccional estatal al qual se sol·liciti el reconeixement o l’execució no pot emprendre, en l’exercici de la seva competència, una revisió del contingut de la mesura cautelar.
 
 **Article 38. Mesures cautelars dictades per la jurisdicció civil**
 
@@ -249,7 +301,12 @@ $34
 
 **Article 45. Audiències i actuacions per escrit**
 
-$36
+1. Llevat que les parts ho acordin altrament, la junta arbitral decideix sobre la celebració d’audiències per a la presentació d’al·legacions, la pràctica de proves o conclusions orals, o si les actuacions se substancien sobre la base de documents i altres proves escrites. No obstant això, llevat que les parts hagin acordat que no se celebrin audiències, la junta arbitral pot acordar la celebració d’audiències en la fase apropiada de les actuacions si qualsevol de les parts ho sol·licita.
+2. La junta arbitral convoca les parts amb antelació suficient a la celebració de totes les audiències i les reunions per examinar mercaderies, béns i documents, a les quals poden intervenir les parts directament o per mitjà dels representats que nomenin.
+3. Les audiències per videoconferència, amb les garanties necessàries, requereixen el consentiment de les parts i l’aprovació de la junta arbitral.
+4. De tota audiència se’n deixa constància documental.
+5. De totes les al·legacions, documents, dictàmens pericials i altra informació o proves que una de les parts aporti a la junta arbitral, se n’ha de donar trasllat immediat a les altres parts.
+6. Si una part reté un element de prova, la junta arbitral pot requerir-la perquè l’aporti d’acord amb les modalitats que determini.
 
 **Article 46. Inactivitat processal de les parts**
 
@@ -293,15 +350,35 @@ ex aequo et bono
 
 **Article 52. Forma, termini, contingut i notificació del laude**
 
-$38
+1. Llevat que les parts ho acordin altrament, la junta arbitral decideix la controvèrsia en un sol laude o en tants laudes parcials com estimi necessari.
+2. Llevat que les parts de comú acord ho disposin altrament,
+a) La junta arbitral ha de decidir la controvèrsia dins els sis mesos següents a la data de presentació de la contesta a la demanda o de l’expiració del termini per a formular-la.b) El termini de sis mesos pot ser prorrogat per la junta arbitral per un altre termini no superior a dos mesos, mitjançant una decisió motivada.c) L’expiració del termini o de la seva pròrroga sense que s’hagi dictat el laude definitiu no afecta l’eficàcia del conveni d’arbitratge ni la validesa del laude dictat, sense perjudici de la responsabilitat en què puguin incórrer els àrbitres.
+3. El laude de la junta arbitral ha de contenir:
+a) la data en què es dicta;b) els noms, els cognoms o la denominació de les parts, així com el seu domicili o seu social;c) el nom dels advocats o les persones que representen les parts, si s’escau;d) el nom dels àrbitres que componen la junta arbitral que el dicta;e) la seu de l’arbitratge que es considera que és també el lloc de l’emissió del laude;f) una exposició succinta de les pretensions respectives de les parts i dels mitjans de prova;g) la decisió;h) les costes, si escau i si no estan decidides per les parts en el conveni.
+4. En l’arbitratge de dret, el laude de la junta arbitral ha de ser motivat, llevat que es tracti d’un laude en termes convinguts d’acord amb el previst a l’article 51. En canvi, quan es tracti d’un arbitratge d’equitat, les parts poden convenir en la no necessitat de motivació.
+5. El laude ha de ser dictat per escrit i firmat pels àrbitres que componen la junta arbitral. S’entén que el laude consta per escrit també quan quedi constància del seu contingut i firmes i és accessible per a la seva consulta ulterior en suport electrònic, òptic o d’altre tipus.
+6. En les actuacions en una junta arbitral amb més d’un àrbitre, són suficients les firmes de la majoria dels membres de la junta arbitral, o solament la de l’àrbitre president, sempre que es deixi constància de la raó de la manca d’una o més firmes.
+7. Si algun dels àrbitres que componen la junta arbitral vota en contra de la decisió adoptada per majoria, pot exposar el seu vot discrepant.
+8. Després de dictat, la junta arbitral notifica el laude a cadascuna de les parts en la forma i dins els terminis acordats per les parts i, si aquests no s’haguessin acordat, mitjançant entrega d’una còpia firmada pels àrbitres de conformitat amb l’apartat 5.
+9. Qualsevol de les parts, al seu càrrec, pot instar a la junta arbitral, sempre abans de ser dictat, que el laude sigui protocol·litzat notarialment.
 
 **Article 53. Suspensió o finalització de les actuacions**
 
-$3a
+1. En qualsevol moment del procediment, les parts poden suspendre’l amb qualsevol motiu, fins i tot la negociació, la conclusió o la resolució del conflicte.
+2. Les actuacions arbitrals finalitzen amb el laude definitiu o per una ordre de la junta arbitral dictada de conformitat amb l’apartat 3.
+3. La junta arbitral ordena la finalització de les actuacions arbitrals quan:
+a) El demandant desisteixi de la seva demanda, llevat que el demandat s’hi oposi i la junta arbitral li reconegui un interès legítim a obtenir una solució definitiva de la controvèrsia.b) Les parts acordin donar per finalitzades les actuacions.c) La junta arbitral comprovi que la prossecució de les actuacions resultaria innecessària o impossible.
+4. La junta arbitral cessa en les seves funcions en acabar les actuacions arbitrals, llevat del que estableix l’article 54 i l’article 56.4.
+5. Transcorregut el termini que les parts han assenyalat amb aquesta finalitat o, si no l’han assenyalat, el de sis mesos des de la finalització de les actuacions, cessa l’obligació de la junta arbitral de conservar la documentació del procediment. Dins aquest termini, qualsevol de les parts pot sol·licitar a la junta arbitral que li remeti els documents presentats per ella. La junta arbitral accedeix a la sol·licitud sempre que no atempti contra el secret de las deliberacions arbitrals i que el sol·licitant assumeixi les depeses de l’enviament.
 
 **Article 54. Correcció, aclariment, complement i rectificació de l’extralimitació del laude i laude addicional**
 
-$3c
+1. Dins els quinze dies següents a la notificació del laude, llevat que les parts hagin acordat un altre termini, qualsevol de les parts pot, amb notificació a la resta, sol·licitar a la junta arbitral:
+a) La correcció de qualsevol error de càlcul, de còpia, tipogràfic o qualsevol altre error de naturalesa similar en el laude.b) L’aclariment d’un punt o d’una part concreta del laude.c) El complement del laude respecte de peticions formulades i no resoltes.d) La rectificació de l’extralimitació parcial del laude, quan hagi resolt sobre qüestions no sotmeses a la seva decisió o no susceptibles d’arbitratge.
+2. Prèvia audiència de les altres parts, si la junta arbitral estima justificada la sol·licitud, efectua la correcció, l’aclariment, el complement o la rectificació sol·licitades dins els vint dies següents a la notificació de la sol·licitud. La correcció, l’aclariment, el complement o la rectificació formen part del laude.
+3. Dins els vint dies següents a la data del laude, la junta arbitral pot també, per iniciativa pròpia, corregir qualsevol error dels tipus mencionats en l’apartat 1.a).
+4. La junta arbitral pot prorrogar, si ho estima necessari, i per deu dies, el termini en el qual efectua la correcció, l’aclariment, la correcció o la rectificació.
+5. El previst a l’article 52 s’aplica també a les correccions, els aclariments, o les rectificacions del laude.
 
 **Article 55. Cosa jutjada i impugnació del laude definitiu**
 
@@ -312,11 +389,18 @@ res judicata
 
 **Article 56. L’acció d’anul·lació**
 
-$3e
+1. Contra el laude arbitral definitiu, total o parcial, només es pot exercir l’acció d’anul·lació davant la Sala Civil del Tribunal Superior de Justícia conforme als apartats 2 i 3.
+2. El laude arbitral només pot ser anul·lat per la Sala Civil del Tribunal Superior de Justícia quan:
+a) La part que interposi l’acció de nul·litat al·legui i provi que:i. una de les parts del conveni d’arbitratge estava afectada per alguna incapacitat en el moment d’atorgar el conveni, o que el conveni no és vàlid segons el dret a què les parts s’han sotmès o, si res s’hagués indicat a aquest respecte, segons el dret andorrà; oii. no ha sigut degudament notificada de la designació dels àrbitres que componen la junta arbitral o de les actuacions arbitrals o no ha pogut, per qualsevol altra raó, fer valdre els seus drets; oiii. el laude es refereix a una controvèrsia no prevista en el conveni d’arbitratge o conté decisions que excedeixen els termes del conveni; no obstant això, si les disposicions del laude que es refereixen a les qüestions sotmeses a l’arbitratge poden separar-se de les que no ho estan, només es poden anular les últimes; oiv. la composició de la junta arbitral o el procediment arbitral no s’han ajustat a l’acord entre les parts, llevat que aquest acord estigui en conflicte amb una disposició imperativa de la Llei o, a falta d’aquest acord, no s’han ajustat a la Llei; ob) El Tribunal Superior, d’ofici o a instància del Ministeri Fiscal amb relació als interessos la defensa dels quals li està legalment atribuïda, comprovi que:i. segons el dret aplicable a l’arbitratge, l’objecte de la controvèrsia no és arbitrable; no obstant això, si les disposicions del laude que es refereixen a les qüestions sotmeses a l’arbitratge poden separar-se de les que no ho estan, només es poden anular les primeres; oii. el laude és contrari a l’ordre públic del Principat d’Andorra.
+Els dos motius anteriors poden ser apreciats pel Tribunal Superior quan resolgui una acció d’anul·lació exercida per alguna de les parts.
+3. L’acció d’anul·lació s’ha d’exercir dins el termini de tres mesos comptats des de la data de notificació del laude o, en els casos previstos a l’article 54, des de la data de notificació de la resolució o des de l’expiració del termini per a adoptar-la.
+4. Quan se sol·liciti l’anul·lació d’un laude, el Tribunal Superior pot suspendre les actuacions, quan correspongui i quan així ho sol·liciti una de les parts, per un termini que determini a fi de donar a la junta arbitral l’oportunitat de reprendre les actuacions arbitrals o d’adoptar qualsevol altra mesura que, a judici de la junta arbitral, elimini els motius per a l’acció d’anul·lació.
 
 **Article 57. Procediment per a l’acció d’anul·lació**
 
-$40
+1. L’acció d’anul·lació se substancia davant la Sala Civil del Tribunal Superior de Justícia de conformitat amb les normes de procediment previstes per als recursos en matèria civil, amb les especialitats següents:
+a) La demanda d’anul·lació es presenta acompanyada dels document justificatius de la seva pretensió, del conveni d’arbitratge i conté la proposta dels mitjans de prova la pràctica de les quals interessi al demandant de l’acció de nul·litat.b) La Sala Civil del Tribunal Superior de Justícia dóna trasllat de la demanda al demandat de l’acció d’anul·lació, perquè contesti si l’interessa en el termini de vint dies. La contesta ha d’anar acompanyada dels documents justificatius de la seva pretensió i contenir la proposta dels mitjans de prova que interessin al demandat de l’acció de nul·litat. De la contesta, el Tribunal Superior en dóna trasllat al demandant perquè presenti els documents addicionals i proposi els mitjans de prova complementaris que l’interessin.c) Contestada la demanda o transcorregut el termini corresponent per fer-ho, es convoquen les parts per a la vista, si així ho sol·licita alguna de les parts en els seus escrits de demanda i contestació o si la Sala Civil del Tribunal Superior de Justícia ho creu convenient.
+2. Contra la sentència que dicta el Tribunal Superior de Justícia no hi cap la interposició de recurs.
 
 **Article 58. La revisió del laude**
 
@@ -328,7 +412,8 @@ L’execució forçosa dels laudes es regirà per les disposicions d’aquest ca
 
 **Article 60. Suspensió, arxivament i continuació de l’execució en cas d’exercici de l’acció d’anul·lació del laude**
 
-$42
+1. El laude és executable encara que s’hagi exercit l’acció d’anul·lació en contra. No obstant això, l’executat pot sol·licitar al batlle que pertany a la jurisdicció civil i al qual correspongui per torn la suspensió de l’execució, sempre que ofereixi una caució pel valor de la condemna més els danys i perjudicis que puguin derivar-se de la demora en l’execució del laude. La caució pot constituir-se en qualsevol de les formes previstes a la Llei del Codi de procediment civil. Un cop presentada la sol·licitud de suspensió, el batlle, després d’escoltar l’executant, resol sobre la suspensió sol·licitada. Contra aquesta resolució no es pot interposar cap recurs.
+2. Quan consti al batlle la desestimació de l’acció d’anul·lació, aixeca la suspensió i ordena que continuï l’execució del laude, sense perjudici del dret de l’executant a sol·licitar, si escau, una indemnització dels danys i perjudicis causats per la demora en l’execució, de conformitat amb les normes sobre l’incident d’execució que regula la Llei del Codi de procediment civil. Si consta al batlle l’estimació de l’acció d’anul·lació, arxiva definitivament l’execució amb els efectes previstos a la normativa civil.
 
 **Article 61. Normes aplicables**
 
@@ -337,7 +422,12 @@ $42
 
 **Article 62. Disposicions de caràcter general**
 
-$44
+1. És internacional l’arbitratge en el qual concorre alguna de les circumstàncies esmentades a l’article 4.2.
+2. Són susceptibles d’arbitratge les controvèrsies la resolució de les quals no estigui expressament reservada a la jurisdicció dels tribunals estatals per les normes pactades per les parts amb la finalitat de regir el conveni d’arbitratge, per les normes jurídiques aplicables al fons de la controvèrsia o pel dret andorrà d’acord amb l’article 3.1.
+3. Els òrgans judicials a què fa referència l’article 9 tenen les facultats d’assistència i supervisió que s’hi estableixen, sempre que:
+a) l’arbitratge es dugui a terme al Principat d’Andorra, ob) les parts acordin sotmetre l’arbitratge a les lleis de procediment andorranes, oc) les parts confereixin expressament competència a la jurisdicció estatal andorrana per conèixer les controvèrsies relatives al procediment andorrà, od) una de les parts estigui exposada a un risc de denegació de justícia.
+4. Les regles relatives als terminis, la suspensió i la interrupció del procediment arbitral es regulen pel conveni d’arbitratge, pel reglament d’arbitratge, si escau, o per la junta arbitral, sense perjudici de la facultat de les parts i, si de cas hi manca, de la junta arbitral, de prorrogar el termini de l’arbitratge fixat convencionalment tal com preveu l’article 52.2 i de la facultat de la junta arbitral de suspendre el procediment que es regula a l’article 53.
+5. En tot allò que no contradigui les disposicions anteriors, són d’aplicació a l’arbitratge internacional les disposicions generals objecte del títol I, així com el previst al capítol I del títol II encara que es refereixin a l’arbitratge intern.
 
 **Article 63. El conveni d’arbitratge internacional**
 
@@ -361,11 +451,24 @@ Són d’aplicació a l’arbitratge internacional les normes que conté el cap�
 
 **Article 67. Substanciació de les actuacions arbitrals**
 
-$46
+1. És d’aplicació a l’arbitratge internacional el que, amb relació a la substanciació d’actuacions arbitrals en l’arbitratge intern, estableix el capítol VI del títol II.
+2. Si les parts desitgen que l’arbitratge sigui confidencial, ho han de convenir expressament.
+3. Amb subjecció a les disposicions imperatives de la Llei, les parts tenen plena llibertat per a convenir, en el conveni arbitral o posteriorment, directament, per referència a un reglament d’arbitratge o a altres regles, el procediment al qual s’han d’ajustar la junta arbitral i les parts en les actuacions arbitrals.
+4. Sigui quin sigui el procediment convingut per les parts, la junta arbitral ha de garantir els principis d’igualtat, audiència i contradicció de les parts.
+5. A falta d’acord, la junta arbitral pot, amb subjecció a les disposicions imperatives de la Llei, establir les normes i dirigir el procediment d’arbitratge de la manera que consideri apropiada i sense que hagi de seguir les normes establertes per la jurisdicció ordinària. Aquesta potestat de la junta arbitral comprèn la de decidir sobre l’admissibilitat, la pertinència i la utilitat de les proves, la pràctica de les proves, fins i tot d’ofici, i sobre la seva valoració.
 
 **Article 68. Pronunciament del laude i finalització de les actuacions arbitrals**
 
-$48
+1. És d’aplicació a l’arbitratge internacional el que estableix el capítol VII del títol II amb referència a l’arbitratge intern.
+2. La junta arbitral només pot dictar un laude en equitat (
+ex aequo et bono
+) si les parts l’han autoritzat expressament a fer-ho així.
+3. La junta arbitral decideix la controvèrsia de conformitat amb les normes de dret acordades per les parts per ser aplicables al fons de la controvèrsia (
+lex causae
+) encara que no existeixi vinculació entre les normes i la controvèrsia. Si no hi ha aquestes normes, la junta arbitral decideix de conformitat amb les que estima més apropiades. S’entén que tota referència al dret o ordenament jurídic d’un Estat determinat es refereix, llevat que s’expressi el contrari, al dret substantiu d’aquest Estat i no a les normes de conflicte de lleis.
+4. En tots els casos, la junta arbitral decideix d’acord amb les estipulacions del contracte i té en compte els usos mercantils aplicables al cas.
+5. Llevat que el conveni d’arbitratge ho disposi altrament, en els arbitratges amb més d’un àrbitre, el laude es dicta per majoria de vots i és firmat per tots els àrbitres. Si una minoria dels àrbitres refusa firmar-lo, els altres fan menció d’aquesta circumstància en el laude. El laude firmat per la majoria d’àrbitres o pel president sol, té els mateixos efectes que si estès firmat per tots.
+6. El laude es notifica en la forma que acordin les parts i, si no ho haguessin acordat, d’acord amb l’article 52.8.
 
 **Article 69. Correcció, aclariment, complement i rectificació de l’extralimitació del laude i laude addicional**
 
@@ -381,7 +484,13 @@ $48
 
 **Article 71. Impugnació dels laudes en matèria d’arbitratge internacional dictats a Andorra**
 
-$4a
+1. Els laudes en matèria d’arbitratge internacional dictats amb subjecció a aquesta Llei no poden ser objecte de cap recurs amb l’excepció de l’acció d’anul·lació per algun dels motius establerts a l’article 56. En aquest darrer cas, la referència que fa l’article 56.2.b).ii a l’ordre públic del Principat d’Andorra s’ha d’entendre ampliat a l’ordre públic internacional.
+2. El termini per formular l’acció d’anul·lació és de dos mesos a partir de la notificació del laude.
+3. El tribunal competent per al coneixement de l’acció d’anul·lació és la Sala Civil del Tribunal Superior de Justícia del Principat d’Andorra.
+4. Per acord especial i de forma expressa, les parts poden, en qualsevol moment, fins i tot al conveni d’arbitratge, renunciar a l’acció d’anul·lació.
+5. L’acció d’anul·lació contra el laude i el recurs d’apel·lació a què fa referència l’apartat 6 no tenen efectes suspensius excepte que l’òrgan jurisdiccional estatal així ho decideixi expressament perquè considera que l’execució del laude pot lesionar greument els interessos d’una de les parts.
+6. Les parts poden formular recurs d’apel·lació davant la Sala Civil del Tribunal Superior contra la resolució que disposa l’exequàtur, pels motius establerts a l’article 56.2 i dins els trenta dies següents a partir de la notificació de la resolució. Aquest recurs es formula davant el Ple del Tribunal Superior de Justícia.
+7. La resolució que acorda l’exequàtur, sense perjudici del recurs previst en l’apartat 6, no és susceptible de cap recurs. Per contra, la resolució que denega l’exequàtur del laude en matèria d’arbitratge internacional dictat amb subjecció a aquesta Llei és susceptible de recurs d’apel·lació davant el Ple del Tribunal Superior en el termini de trenta dies des de la notificació de la resolució.
 
 **Article 72. Impugnació dels laudes en matèria d’arbitratge internacional dictats a l’estranger**
 
@@ -389,7 +498,9 @@ La resolució judicial relativa a una sol·licitud de reconeixement o exequàtur
 
 **Article 73. Motius per a denegar el reconeixement o l’execució**
 
-$4c
+1. La Sala Civil del Tribunal Superior de Justícia només pot denegar el reconeixement o l’exequàtur d’un laude arbitral, qualsevol que sigui el país on s’ha dictat:
+a) A instància de la part contra la qual es pretén executar o fer valer, quan aquesta part acrediti:i. que una de les parts del conveni d’arbitratge estava afectada per alguna incapacitat, o que el conveni no es vàlid en virtut del dret a què les parts l’han sotmès o, si no s’hagués indicat res a aquest respecte, en virtut de la llei del país on s’hagi dictat el laude; oii. que la part contra la qual s’invoca el laude no ha estat degudament notificada sobre la designació d’un àrbitre o sobre les actuacions arbitrals o no ha pogut, per qualsevol altra raó, fer valdre els seus drets; oiii. que el laude es refereix a una controvèrsia no previst en el conveni d’arbitratge o conté decisions que excedeixen els termes del conveni d’arbitratge; no obstant, si les disposicions del laude que es refereixen a qüestions sotmeses a l’arbitratge poden separar-se de les que no ho estan, es pot donar el reconeixement i l’execució a les primeres; oiv. que la composició de la junta arbitral o el procediment arbitral no s’han ajustat al conveni celebrat entre les parts o, si no existís aquest acord, no s’han ajustat a la llei del país on es va efectuar l’arbitratge; ov. que el laude no és encara obligatori per a les parts o ha estat anul·lat o suspès per un òrgan jurisdiccional estatal del país on, o conforme al dret del qual, s’ha dictat el laude; ob) quan l’òrgan jurisdiccional estatal comprovi:i. que segons l’ordenament jurídic andorrà, l’objecte de la controvèrsia no és susceptible d’arbitratge; oii. que el reconeixement o l’execució del laude serien contraris a l’ordre públic nacional.
+2. Si s’ha sol·licitat a un òrgan jurisdiccional estatal de la jurisdicció a la qual s’ha sotmès l’arbitratge o bé de la jurisdicció del país on s’ha dictat el laude, l’anul·lació o la suspensió del laude, la Sala Civil del Tribunal Superior de Justícia pot, si ho considera procedent, ajornar la seva decisió i, a instància de la part que sol·liciti el reconeixement o l’execució del laude, pot també ordenar que l’altra part aporti les garanties apropiades.
 
 **Disposició transitòria**
 

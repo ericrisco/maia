@@ -61,15 +61,27 @@ Tenen la consideració d’entitats de mediació les organitzacions públiques o
 
 **Article 10. Principis de voluntarietat i de bona fe**
 
-$1e
+1. La mediació es basa en el principi de voluntarietat, segons el qual les parts són lliures d’acollir-s’hi o no, i també de desistir-ne en qualsevol moment. Ningú està obligat a mantenir-se en el procés de mediació ni a concloure’l mitjançant un acord.
+2. La persona mediadora, i també les parts, assisteixen al procés de mediació de forma voluntària. La persona mediadora pot renunciar a desenvolupar la mediació, amb l’obligació de lliurar una acta a les parts en què consti la renúncia. Les parts també poden optar per cercar en qualsevol moment un nou mediador i seguir el procés de mediació amb aquest nou mediador.
+3. Quan existeixi un pacte per escrit que expressi el compromís de sotmetre a mediació les controvèrsies sorgides o que puguin sorgir, s’ha d’intentar el procés pactat de bona fe, abans de cercar l’empara jurisdiccional o qualsevol altra solució extrajudicial. Aquesta clàusula és efectiva fins i tot quan la controvèrsia faci referència a la validesa o l’existència del contracte en què consti la clàusula esmentada.
+4. En tot moment durant el procés de mediació, les parts i la persona mediadora han d’actuar d’acord amb les exigències de la bona fe.
 
 **Article 11. Principis d’independència, imparcialitat i neutralitat**
 
-$20
+1. La persona mediadora exerceix la seva funció amb independència, imparcialitat i neutralitat, garantint la igualtat entre les parts. En conseqüència, no pot adoptar actituds que manifestin un interès personal en el procés de mediació o en l’assumpte que és matèria del conflicte.
+2. La persona mediadora és independent de les parts i de terceres persones alienes al conflicte. Per tant, no pot acceptar cap influència externa orientada a la resolució del conflicte.
+3. La persona mediadora ha d’evitar qualsevol conducta discriminatòria o de preferència cap a una de les parts, sigui quin sigui el motiu. En cas que la igualtat i la llibertat de decidir de les parts no estigui garantida, especialment com a conseqüència de situacions de violència, ha d’interrompre el procés de mediació.
+4. Les actuacions en el procés de mediació es desenvolupen de manera que permetin a les parts en conflicte assolir per si mateixes un acord de mediació. La persona mediadora no pot imposar cap solució ni cap mesura concreta, atès que ha d’acompanyar les parts amb imparcialitat i neutralitat.
 
 **Article 12. Principi de confidencialitat i secret professional**
 
-$22
+1. Totes les persones que intervenen en el procés de mediació tenen l’obligació de no revelar els fets, documents o situacions que coneguin com a conseqüència d’aquest procés. Aquesta obligació afecta tant les parts com els mediadors o els experts que hi puguin intervenir.
+2. Si un cop iniciat el procés de mediació qualsevol de les parts manifesta la seva voluntat de desistir-ne, els fets, els documents o les situacions coneguts com a conseqüència d’aquest procés, i en concret les ofertes de negociació de les parts o els acords que hagin estat revocats posteriorment, no poden tenir efectes en qualsevol procés ulterior.
+3. Les parts d’un procés de mediació no poden sol·licitar la declaració o l’interrogatori com a perit o testimoni, en el marc d’un procés judicial, de la persona mediadora o dels experts que hi hagin intervingut, llevat que:
+a) Les parts, de comú acord, i de forma expressa i per escrit, dispensin la persona mediadora o els experts del deure de confidencialitat, i aquesta persona mediadora o aquests experts ho acceptin.b) Els tribunals penals ho decideixin mitjançant una resolució motivada, d’acord amb la normativa aplicable.
+4. Les actes que s’elaboren durant el procés de mediació tenen caràcter confidencial. No obstant això, no està subjecta al deure de confidencialitat la informació obtinguda durant el procés de mediació que:
+a) No estigui personalitzada i s’utilitzi per a finalitats de formació o recerca.b) Comporti una amenaça per a la vida o la integritat física o psíquica d’una persona.c) Calgui revelar per raons imperioses d’ordre públic o per motius lligats a la protecció de l’interès superior dels infants i joves menors d’edat.d) S’hagi obtingut en el marc d’un procés de diàleg públic com a forma d’intervenció mediadora oberta a la participació ciutadana.
+5. La infracció dels deures de confidencialitat i de secret professional genera responsabilitat en els termes que estableixen aquesta Llei i la normativa aplicable restant.
 
 **Article 13. Principi d’igualtat de les parts**
 
@@ -95,7 +107,10 @@ a) Exercir la seva funció amb independència, imparcialitat, neutralitat, profe
 
 **Article 17. Abstenció i recusació**
 
-$24
+1. La persona mediadora s’ha d’abstenir d’exercir les funcions que té encomanades i, si no ho fa, pot ser recusada, en els supòsits següents:
+a) Tenir una relació de matrimoni o una situació de convivència anàloga, o un parentiu en línia recta, o en línia col·lateral per consanguinitat o adopció fins al quart grau inclòs o per afinitat fins al segon grau inclòs, amb qualsevol de les parts del procés de mediació, els seus advocats o els seus procuradors.b) Ser qualsevol de les parts del procés de mediació una societat mercantil en què la persona mediadora, el seu cònjuge, la persona amb qui mantingui una situació de convivència anàloga o un parent en línia recta, o en línia col·lateral per consanguinitat o adopció fins al quart grau inclòs o per afinitat fins al segon grau inclòs, tingui una participació superior al 20% del capital social, tingui la condició d’administrador únic, conjunt, mancomunat o solidari, o participi en l’òrgan d’administració i en disposi de més del 20% dels drets de vot.c) Tenir un interès directe o indirecte en el procés de mediació o en un altre procés semblant.d) Tenir una amistat íntima o una enemistat manifesta amb qualsevol de les parts del procés de mediació, els seus advocats o els seus procuradors.
+2. En cas que la persona mediadora es trobi immersa en altres supòsits diferents dels que assenyala l’apartat 1 anterior i en què la seva imparcialitat es pugui veure compromesa, ha de comunicar aquesta circumstància a les parts i, si escau, a l’òrgan jurisdiccional competent. Un cop la persona mediadora ho ha comunicat, només pot continuar exercint les seves funcions si les parts i, si escau, l’òrgan jurisdiccional competent, hi consenten o ho accepten expressament.
+3. En cas que la persona mediadora no procedeixi segons preveuen els apartats 1 i 2 anteriors, qualsevol de les parts pot recusar-la davant de la persona o l’òrgan que l’ha designat.
 
 **Article 18. Responsabilitat del mediador i assegurança**
 
@@ -104,7 +119,11 @@ $24
 
 **Article 19. Cost de la mediació i honoraris**
 
-$26
+1. El cost de la mediació, tant si conclou com si no conclou amb un acord, es divideix a parts iguals entre les parts, si no hi ha pacte en contra.
+2. Les persones mediadores poden exigir a les parts la provisió de fons que estimin necessària per fer front al cost de la mediació.
+3. Si alguna de les parts no satisfà la provisió de fons sol·licitada en el termini assenyalat, la persona mediadora pot donar per conclosa la mediació. No obstant això, abans de fer-ho ha de comunicar-ho a les altres parts a l’efecte que puguin suplir, en el termini que s’assenyali, la part que no ha satisfet la provisió de fons.
+4. Els serveis de la persona mediadora són remunerats sota la forma d’honoraris. En el supòsit d’una mediació convencional o d’una mediació judicial en què les parts designin la persona mediadora, els honoraris es poden convenir lliurement amb les parts i, si no hi ha pacte, es fixen de conformitat amb les normes orientadores establertes per la Comissió de Mediació. En el supòsit d’una mediació judicial en què el Tribunal designi la persona mediadora, els honoraris es fixen d’acord amb els barems que aprovi reglamentàriament el Govern, a proposta no vinculant de la Comissió de Mediació.
+5. Les persones mediadores han d’informar les parts, a l’inici de la mediació, dels honoraris previsibles que es meritaran durant el procés de mediació.
 
 **Article 20. Benefici de gratuïtat**
 
@@ -137,7 +156,11 @@ a) De comú acord entre les parts implicades en el conflicte, per iniciativa pr�
 
 **Article 25. Sessió constitutiva**
 
-$28
+1. El procés de mediació convencional comença quan les parts l’han acceptat voluntàriament i n’han assumit les obligacions que hi són inherents. Així, en virtut de la sessió constitutiva, les parts expressen la seva voluntat de desenvolupar la mediació, i deixen constància dels aspectes següents:
+a) La identificació de les parts.b) La designació de la persona mediadora o de l’entitat de mediació, o l’acceptació de la persona mediadora o l’entitat de mediació designada per una de les parts, sempre que estiguin inscrites degudament al Registre de Mediadors.c) L’objecte de la controvèrsia que se sotmet a la mediació.d) El cost de la mediació o les bases per determinar-lo, amb la indicació separada dels honoraris de la persona mediadora i de les altres despeses eventuals.e) La declaració de les parts segons la qual accepten voluntàriament la mediació i assumeixen les obligacions que se’n deriven.f) L’acceptació de la confidencialitat del procés.g) El lloc de celebració i la llengua emprada en el procés.
+2. Durant la sessió constitutiva la persona mediadora pot proposar un programa d’actuacions i un nombre màxim de sessions per portar a terme la mediació, sense perjudici que aquests punts puguin variar o ser modificats posteriorment.
+3. La persona mediadora ha d’informar les parts sobre la conveniència de rebre un assessorament jurídic o de qualsevol altre tipus en funció de l’objecte de la controvèrsia, durant el procés de mediació. Si escau, també les ha d’informar de la conveniència de designar un advocat que redacti el conveni o els documents oportuns sobre la base del resultat dels acords assolits.
+4. A l’inici de la sessió constitutiva, es pren l’acord en què consten els aspectes descrits als apartats anteriors, mitjançant una acta que signen tant les parts com la persona mediadora.
 
 **Article 26. Durada de la mediació convencional**
 
@@ -168,7 +191,11 @@ a) Mitjançant un acord que pot ser total o parcial en funció de les matèries 
 
 **Article 31. Acords de mediació**
 
-$2a
+1. En les actes que documenten els acords assolits durant el procés de mediació convencional hi ha de constar la identitat i el domicili de les persones físiques o jurídiques, públiques o privades, que hi intervenen; el lloc i la data en què s’ha signat l’acord; les obligacions que ha assumit cada part; els mediadors que han intervingut i, si escau, l’entitat de mediació prop de la qual s’ha desenvolupat el procés, i el caràcter vinculant de l’acord i la possibilitat d’elevar a públic el document en què es conté, només a instància de qualsevol de les parts.
+2. Els acords han de donar prioritat a l’interès superior dels menors d’edat i de les persones absents, incapacitades o necessitades de protecció.
+3. Els advocats de les parts poden donar forma a l’acord assolit mitjançant el procés de mediació, transformant-lo en un conveni regulador, si és en l’àmbit del procediment de família, o en un contracte o protocol que pot ser elevat a escriptura pública davant de notari o que pot ser homologat judicialment.
+4. La persona mediadora informa les parts del caràcter vinculant de l’acord assolit i que poden demanar-ne l’elevació a escriptura pública o l’homologació judicial amb la finalitat que l’acord esdevingui un títol executiu.
+5. Contra el que es convé en l’acord de mediació només es pot exercir l’acció de nul·litat per les causes que invaliden els contractes.
 
 #### Capítol cinquè. Mediació judicial
 
@@ -193,7 +220,9 @@ La mediació judicial només la poden dur a terme les persones físiques que com
 
 **Article 36. Decisió d’inici de la mediació judicial**
 
-$2c
+1. El Tribunal decideix l’inici del procés de mediació judicial mitjançant un aute, contra el qual no es pot interposar cap recurs.
+2. L’aute ha de fer referència a l’acord de les parts d’iniciar la mediació judicial, ha de designar la persona mediadora, i ha d’establir la durada del procés de mediació. També ha de fixar l’import de la provisió de fons dels honoraris de la persona mediadora, qui se n’ha de fer càrrec i el termini per fer-ho. En cas que no es faci efectiva la provisió de fons, s’entén que s’ha posat fi al procés de mediació judicial i la tramitació del procés judicial es reprèn, sense perjudici del que estableix l’apartat 3 de l’article 19.
+3. La persona mediadora disposa d’un termini màxim de cinc dies hàbils des del dia en què li ha estat notificada la decisió d’inici de la mediació judicial per ratificar la seva designació davant el Tribunal. En aquest cas i sempre que s’hagi fet efectiva la provisió de fons, la persona mediadora disposa d’un termini de tretze dies hàbils per convocar les parts a la sessió informativa.
 
 **Article 37. Sessió informativa**
 
@@ -202,7 +231,10 @@ $2c
 
 **Article 38. Finalització de la mediació judicial**
 
-$2e
+1. Dins els cinc dies hàbils següents al dia en què finalitza el procés de mediació judicial, la persona mediadora ha d’informar el Tribunal si les parts han assolit o no un acord i, en cas afirmatiu, si l’acord és total o parcial:
+a) Si les parts no han assolit un acord o han assolit un acord parcial, el Tribunal decideix la continuació de la tramitació del procés judicial.b) Si les parts han assolit un acord total, poden renunciar, desistir, aplanar-se o atorgar una transacció en el marc del procés judicial, d’acord amb el que estableixi la normativa processal aplicable.
+2. En qualsevol moment durant el procés de mediació judicial, el Tribunal hi pot posar fi, d’ofici o a instància de qualsevol de les parts o de la persona mediadora, si es constata que aquesta persona no està exercint les seves funcions d’acord amb els principis i les obligacions que estableix aquesta Llei. En aquest cas, el Tribunal dicta un aute que es notifica a les parts i a la persona mediadora.
+3. A la fi del procés de mediació judicial, el Tribunal quantifica els honoraris de la persona mediadora d’acord amb l’apartat 4 de l’article 19, i requereix a les parts que paguin aquests honoraris, amb la deducció de la provisió de fons abonada, en el termini màxim de cinc dies hàbils. En cas d’impagament, el procediment per a la reclamació dels honoraris se substancia d’acord amb les normes sobre l’execució de les costes processals que preveu la normativa processal aplicable.
 
 #### Capítol sisè. Formació del títol executiu
 
@@ -268,7 +300,8 @@ a) L’alta de la persona mediadora, amb la indicació del nom i els cognoms, el
 
 **Article 49. Creació i funcions**
 
-$30
+Es crea la Comissió de Mediació com a òrgan tècnic adscrit al ministeri competent en matèria de justícia, les funcions de la qual són:
+a) Emetre un informe, preceptiu i no vinculant, en relació amb:i) La concurrència dels requisits que estableixen aquesta Llei i els reglaments que la desenvolupen per exercir la mediació i obtenir la inscripció al Registre de Mediadors.ii) La concurrència dels requisits que estableixen aquesta Llei i els reglaments que la desenvolupen per inscriure’s a la relació de persones mediadores registrades al Registre de Mediadors.iii) Els projectes de normes deontològiques de la mediació o dels barems relatius als honoraris de la mediació judicial, els quals són aprovats reglamentàriament pel Govern, o qualsevol iniciativa que tingui per objecte vetllar perquè els mediadors exerceixin les seves funcions d’acord amb els principis de la mediació que regula aquesta Llei.iv) Les reclamacions o les queixes que es formulin contra una persona mediadora com a conseqüència de l’incompliment d’aquesta Llei i el codi deontològic professional de la mediació. Aquestes reclamacions s’han d’adreçar per escrit al ministre competent en matèria de justícia i han de ser signades i datades, i la Comissió de Mediació ha de proposar en el seu informe les possibles vies de solució del conflicte, l’arxiu de la reclamació o la queixa o la incoació de l’expedient disciplinari corresponent, segons el cas.b) Aprovar les normes orientadores dels honoraris de la mediació convencional i judicial.c) Promoure la cultura i el valor de la mediació, així com el desenvolupament i el foment de la mediació com a via de resolució dels conflictes.d) Promoure i impulsar la formació continuada i la capacitació per a l’exercici de la mediació.e) Promoure les relacions dels mediadors amb els col·legis professionals i amb els consells de col·legis professionals, amb el Govern, i especialment amb el ministeri competent en matèria de justícia, amb l’Administració de Justícia i amb la resta d’administracions públiques.
 
 **Article 50. Composició i nomenament**
 
@@ -294,7 +327,12 @@ El funcionament, la convocatòria, el quòrum, la presa de decisions, el termini
 
 **Article 54. Òrgan disciplinari**
 
-$32
+1. La potestat disciplinària és exercida per l’òrgan disciplinari, que està integrat pels membres següents:
+a) El president de la Comissió de Mediació, o, si escau, la persona que el substitueixi o el supleixi en el càrrec.b) Un altre membre de la Comissió de Mediació, designat per la mateixa Comissió.c) Un representant del ministeri encarregat de la justícia, designat pel ministre entre funcionaris o agents de l’Administració de caràcter indefinit que ocupin llocs de treball de direcció, comandament o responsabilitat.d) Un representant del ministeri encarregat de les finances, designat pel ministre entre funcionaris o agents de l’Administració de caràcter indefinit que ocupin un lloc de treball de direcció, comandament o responsabilitat.
+2. Les reclamacions o les queixes que es puguin formular contra una persona mediadora s’adrecen al ministre encarregat de la justícia, el qual les comunica a la Comissió de Mediació a l’efecte del que preveu l’article 49, lletra a, número iv.
+3. Si en el decurs de la tramitació d’un expedient disciplinari es manifesten indicis de conductes que poden constituir una infracció penal, l’òrgan disciplinari ho ha de fer saber a l’òrgan jurisdiccional competent i suspendre, tot seguit, la tramitació de l’expedient esmentat, la qual cosa interromp el còmput dels terminis de prescripció i caducitat, fins que recaigui una resolució ferma en l’àmbit penal.
+D’altra banda, quan s’estigui instruint o jutjant un procés penal pels mateixos fets que han originat o han de comportar la incoació d’un expedient disciplinari, o per altres fets que hi estiguin íntimament vinculats, s’ha d’iniciar la tramitació de l’expedient disciplinari, si no s’ha iniciat amb anterioritat, i se’n suspèn tot seguit la tramitació, la qual cosa interromp el còmput dels terminis de prescripció o caducitat, fins que recaigui una resolució ferma en l’àmbit penal.
+En qualsevol cas, la declaració de fets provats que pugui fer el tribunal penal és vinculant per a l’òrgan disciplinari.
 
 **Article 55. Drets**
 
@@ -303,7 +341,13 @@ a) Dret a ser informades dels fets que se’ls imputen, de les infraccions que a
 
 **Article 56. Procediment disciplinari**
 
-$34
+1. El procediment disciplinari l’inicia l’òrgan disciplinari mitjançant la incoació d’un expedient disciplinari, arran de la comunicació esmentada a l’apartat 2 de l’article 54, que es tramita amb respecte dels principis generals del règim sancionador.
+2. L’òrgan disciplinari designa un instructor entre els seus membres per instruir l’expedient i formular, en el termini màxim d’un mes, el plec de càrrecs corresponent, que ha d’incloure els fets imputats, amb expressió de les infraccions presumptament comeses i de les sancions que siguin aplicables.
+3. L’òrgan disciplinari ha de notificar per escrit a la persona mediadora expedientada la incoació de l’expedient, l’instructor designat i el plec de càrrecs. La persona mediadora expedientada disposa d’un termini de deu dies hàbils per fer al·legacions i sol·licitar, si escau, la pràctica de les proves que entengui necessàries per a la seva defensa.
+Contestat el plec de càrrecs o transcorregut el termini sense fer-ho, l’instructor pot practicar les proves sol·licitades que consideri oportunes en el termini d’un mes. Posteriorment, ha de donar vista de l’expedient a la persona mediadora expedientada, per tal que en el termini de deu dies hàbils formuli les conclusions que estimi convenients.
+4. L’òrgan disciplinari, del qual no pot formar part l’instructor designat, ha de dictar en el termini de quinze dies hàbils la resolució corresponent, la qual ha de ser motivada i no pot incloure fets diferents dels que han fonamentat el plec de càrrecs, sense perjudici de la valoració jurídica que se’n faci. Si la resolució és sancionadora, s’han de determinar amb precisió les infraccions comeses, els preceptes en què estan tipificades i les sancions imposades.
+La resolució s’adopta amb el vot favorable de la majoria dels membres de l’òrgan disciplinari, excepte el de l’instructor designat.
+5. La resolució de l’òrgan disciplinari exhaureix la via administrativa i pot ser impugnada davant de la Secció Administrativa de la Batllia, en els termes que estableix la Llei de la jurisdicció administrativa i fiscal.
 
 **Article 57. Mesures cautelars**
 
@@ -312,15 +356,33 @@ $34
 
 **Article 58. Infraccions**
 
-$36
+1. Són infraccions les conductes establertes com a tals per aquesta Llei, relacionades amb l’exercici de la mediació.
+2. Les infraccions es classifiquen en molt greus, greus i lleus.
+3. Són infraccions molt greus:
+a) L’exercici de la mediació sense haver-ne obtingut l’acreditació i constar inscrit en el Registre de Mediadors.b) L’exercici de la mediació en un supòsit d’inhabilitació o suspensió cautelar, o en un supòsit d’incompatibilitat o de prohibició d’exercir la mediació.c) La vulneració del deure de secret professional.d) L’incompliment del deure de disposar o mantenir vigent l’assegurança.e) L’incompliment de les obligacions o dels deures professionals establerts en aquesta Llei, en els reglaments que la desenvolupen o en les normes deontològiques, quan en resulti un perjudici greu per a les persones que hagin contractat els serveis del mediador.f) La condemna ferma per la comissió d’un delicte dolós, en qualsevol grau de participació, que es produeixi com a conseqüència de l’exercici de la mediació.g) Tota actuació professional que suposi una discriminació per raó de naixença, raça, sexe, orientació sexual, religió, llengua, opinió, lloc de naixement, veïnatge o qualsevol altra condició o circumstància personal o social.h) L’obstaculització en l’exercici de les llibertats públiques i els drets fonamentals com a conseqüència de l’exercici de la mediació.i) La comissió de dos infraccions greus, encara que siguin de distinta naturalesa, sempre que es cometin dins el període d’un any des de la primera de les infraccions i que l’autor hagi estat sancionat per aquesta infracció.
+4. Són infraccions greus:
+a) No abstenir-se d’exercir les funcions en els supòsits establerts a l’apartat 1 de l’article 17 o exercir-les malgrat que la imparcialitat de la persona mediadora es pugui veure compromesa sense procedir d’acord amb l’apartat 2 de l’article 17.b) No complir les obligacions en relació amb la formació continuada que estableix l’article 6.c) Les conductes que impedeixin prestar o que posin en perill la independència, la imparcialitat o la neutralitat requerides en les funcions encomanades a la persona mediadora.d) L’incompliment de les obligacions o dels deures professionals establerts en la aquesta Llei, en els reglaments que la desenvolupen o en les normes deontològiques, quan en resulti un perjudici per a les persones que hagin contractat els serveis de la persona mediadora, o l’incompliment greu i reiterat d’aquestes obligacions o d’aquests deures professionals, encara que no en resulti un perjudici per a les persones que hagin contractat els serveis de la persona mediadora.e) Els enfrontaments greus i reiterats de la persona mediadora amb les parts, amb terceres persones o amb les altres persones mediadores sense causa justificada.f) La comissió de dos infraccions lleus, encara que siguin de distinta naturalesa, sempre que es cometin dins el període de sis mesos des de la primera de les infraccions i que l’autor hagi estat sancionat per aquesta infracció.
+5. És infracció lleu la vulneració de qualsevol disposició que reguli l’activitat professional, incloses les normes deontològiques, sempre que no constitueixi una infracció greu o molt greu.
 
 **Article 59. Prescripció de les infraccions**
 
-$38
+1. Les infraccions molt greus prescriuen al cap de quatre anys, les greus al cap de dos anys i les lleus al cap de sis mesos. Aquests terminis es computen a partir de la data del fet causant o des del dia en què se n’hagi hagut de tenir coneixement.
+2. El termini de prescripció s’interromp per qualsevol actuació realitzada amb coneixement formal de la persona expedientada que s’adreci a la iniciació, la tramitació o la resolució de l’expedient disciplinari.
+La interrupció deixa de tenir efecte si no s’incoa l’expedient disciplinari o queda paralitzat durant més de sis mesos per causa no imputable a la persona expedientada. En aquest cas, el còmput del termini de prescripció s’inicia de nou a partir de la data de la darrera actuació que consti en l’expedient disciplinari.
+3. En el cas de suspensió de la tramitació de l’expedient per causa de prejudicialitat penal, el termini de prescripció de la infracció resta suspès fins que l’òrgan disciplinari tingui constància fefaent de la resolució ferma recaiguda en l’àmbit penal.
 
 **Article 60. Sancions**
 
-$3a
+1. Les infraccions molt greus poden ser objecte de les sancions següents:
+a) Expulsió de la professió de mediador.b) Inhabilitació de l’exercici de la mediació durant un període no superior a cinc anys.c) Multa no inferior a 5.001 euros i no superior a 50.000 euros.
+2. Les infraccions greus poden ser objecte de les sancions següents:
+a) Inhabilitació de l’exercici de la mediació durant un període no superior a un any.b) Multa no inferior a 1.001 euros i no superior a 5.000 euros.
+3. Les infraccions lleus poden ser objecte de les sancions següents:
+a) Amonestació escrita.b) Multa no superior a 1.000 euros.
+4. Les sancions d’expulsió, d’inhabilitació i d’amonestació escrita, com a conseqüència d’una mateixa infracció, són compatibles amb la sanció de multa.
+5. En el cas d’infraccions molt greus i greus també es pot imposar, com a sanció complementària, l’obligació d’efectuar activitats de formació professional o deontològica, quan la infracció s’hagi produït a causa de l’incompliment dels deures que afectin la deontologia professional.
+6. Si qui ha comès la infracció n’ha obtingut un guany econòmic, la sanció de multa es pot ampliar fins a l’import del profit obtingut.
+7. Les sancions només són executives quan la resolució que les imposa sigui ferma, pel fet de no ser susceptible de recurs administratiu o jurisdiccional.
 
 **Article 61. Inhabilitació i expulsió**
 

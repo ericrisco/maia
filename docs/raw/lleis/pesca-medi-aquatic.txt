@@ -85,7 +85,11 @@ Per tal de facilitar la circulació dels peixos en els cursos d’aigua si els o
 
 **Article 16. Pels cursos d’aigua del Principat d’Andorra ha de circular el cabal mínim necessari per garantir l’evolució biològica natural de les poblacions de la**
 
-$20
+Pels cursos d’aigua del Principat d’Andorra ha de circular el cabal mínim necessari per garantir l’evolució biològica natural de les poblacions de la flora i la fauna aquàtiques.
+El Govern estableix reglamentàriament els cabals ecològics mínims per a la protecció de la flora i la fauna aquàtiques.
+El cabal ecològic mínim no pot ser inferior a una dècima part del cabal mitjà interanual avaluat a partir de les informacions disponibles recollides, com a mínim, durant els cinc darrers anys.
+Quan el càlcul directe no és possible, per mancança de dades hidrològiques vàlides o per la brevetat de la seqüència de les dades, es procedeix a estimar el cabal mitjà interanual mitjançant la correlació de les conques hidrològiques i la relació entre les precipitacions i el cabal.
+En el supòsit que el cabal natural sigui inferior al cabal ecològic resta completament prohibit realitzar qualsevol tipus de captació o desviació de les aigües, excepte quan la captació es realitzi amb la finalitat de garantir l’aigua per al consum humà i no sigui possible el subministrament per altres fonts.
 
 **Article 17. Queda prohibit dipositar en el llit dels cursos i masses d’aigua materials o runes i alterar la condició de les aigües amb residus domèstics i industr**
 
@@ -122,7 +126,12 @@ Els exemplars pescats en aigües públiques no poden ser objecte de venda ni de 
 
 **Article 24. 1.**
 
-$22
+1. El ministeri responsable de la pesca pot adoptar mesures destinades al foment de la riquesa piscícola, realitzant repoblacions de cursos i masses d’aigües, i, en cas necessari, adoptar les mesures escaients per a l’equilibri adequat de les espècies piscícoles.
+2. Per a les repoblacions no es poden emprar individus de varietats poc adaptades a les condicions fenològiques de les aigües d’Andorra que puguin provocar pol·lucions genètiques entre la població autòctona existent.
+3. Qualsevol repoblació requereix l’autorització prèvia del ministeri responsable de la pesca.
+4. En cas d’introducció d’una espècie no autòctona, s’ha de realitzar un estudi previ, incorporant l’experiència de casos similars, amb la finalitat d’analitzar la seva viabilitat.
+5. Igualment, d’acord amb les particularitats de cada zona i l’anàlisi de les diferents possibilitats, el ministeri responsable de la pesca pot elaborar plans de gestió concrets per a zones específiques.
+6. Els plans de gestió poden establir nivells de protecció i criteris per determinar les bases d’aprofitament de cada zona, com per exemple quanties màximes de captures i altres mesures que siguin necessàries per a la conservació i l’aprofitament de les espècies piscícoles existents.
 
 **Article 25. 1.**
 
@@ -190,11 +199,15 @@ Els règims d’obtenció de les llicències de pesca i dels permisos d’acotat
 
 **Article 37. 1.**
 
-$24
+1. La inspecció i el control del compliment de la present Llei i de les disposicions que la desenvolupin o complementin s’atribueix al Cos de Banders adscrits al ministeri responsable de la pesca, que tenen la consideració d’agents de l’autoritat en l’exercici de les seves funcions.
+2. Les constatacions i les actes elaborades pels agents del Cos de Banders en la comprovació de fets presumptament constitutius d’infracció a les normes de pesca donen fe, salvat prova en contrari.
+3. El ministeri responsable de la pesca, directament o mitjançant el Cos de Banders, pot realitzar inspeccions en qualsevol obra o abocament que pugui alterar les condicions biològiques, físiques o químiques de l’aigua, així com practicar presa de dades, mostres o residus que consideri necessaris per determinar el grau d’alteració o contaminació.
+4. En compliment de la seva funció, els agents inspectors poden visitar les instal·lacions i els llocs d’aprofitament de l’aigua, amb la finalitat de comprovar que s’adeqüen correctament a l’autorització administrativa concedida. Els titulars o encarregats de les instal·lacions han de proporcionar la informació que se sol·liciti.
 
 **Article 38. Sense perjudici del que disposa el Reglament de la seva creació, el Cos de Banders té, dins l’àmbit d’aplicació d’aquesta Llei i de les normes que n’e**
 
-$26
+Sense perjudici del que disposa el Reglament de la seva creació, el Cos de Banders té, dins l’àmbit d’aplicació d’aquesta Llei i de les normes que n’emanen, les atribucions següents:
+1. Demanar la documentació necessària per a l’exercici de la pesca així com els documents d’identificació personal, a totes les persones que la practiquin o estiguin en disposició de practicar-la.2. Controlar i revisar sarrons, bosses, sacs de pesca, canastrells, morrals, vehicles, o qualsevol altre utensili que permeti el transport d’estris, aparells, instruments, substàncies tòxiques o explosives i altres substàncies presumptament emprades, o peixos i/o éssers aquàtics vius o morts.3. Controlar i inspeccionar tot tipus de refugis de muntanya i/o cabanes públics.4. Fer aturar i immobilitzar, en cas de sospita de transport de peixos i/o éssers aquàtics vius o morts i/o estris, instruments o substàncies prohibits per pescar, qualsevol tipus de vehicle o mitjà de transport, per procedir a identificar les persones i a escorcollar el vehicle i les persones.5. Controlar i escorcollar qualsevol persona sospitosa o susceptible d’haver comès una infracció a la legislació i la reglamentació en matèria de pesca i les persones que l’acompanyin.6. Confiscar qualsevol tipus de material utilitzat després d’haver constatat una infracció a les disposicions legals vigents en matèria de pesca.7. Confiscar peixos i/o éssers aquàtics vius o morts, capturats, transportats o comercialitzats, sempre que s’hagi constatat una infracció de la legislació vigent en matèria de pesca.8. Controlar i inspeccionar les obres que afectin el medi aquàtic, que modifiquin els cursos d’aigua o que alterin els llits i marges dels cursos o masses d’aigua, identificant les empreses o persones que porten a terme les obres i sol·licitant a aquestes darreres les autoritzacions administratives concedides.
 
 #### Capítol VII. Infraccions i sancions
 
@@ -204,11 +217,13 @@ Les infraccions a les disposicions que regulen la pesca es classifiquen en falte
 
 **Article 40. Són faltes lleus:**
 
-$28
+Són faltes lleus:
+1. Pescar essent titular d’una llicència vàlida de pesca sense portar-la.2. Transportar o estar en possessió de peixos o altres éssers aquàtics pescats en l’àmbit d’aplicació de la present Llei, disposant de la llicència vàlida de pesca sense portar-la.3. Pescar en un tram o zona acotada tenint el permís d’acotat i no portar-lo.4. Transportar o estar en possessió de peixos o altres éssers aquàtics pescats en un tram o zona acotada en l’àmbit d’aplicació de la present Llei, disposant del permís d’acotat i no portar-lo.5. Pescar destorbant un altre pescador, quan aquest estigui exercint el seu dret legítim de pesca.6. No guardar, mitjançant requeriment previ, una distància de deu metres respecte a altres pescadors.7. Destorbar la lliure pràctica de la pesca.8. Bastonejar les aigües i/o tirar-hi pedres amb ànim d’espantar la fauna aquàtica.9. No tornar a l’aigua les peces que no s’han capturat per simple mossegada de l’esquer, sinó per haver-se clavat l’ham en una altra part del cos.10. Qualsevol altra infracció a les disposicions de la present Llei o altres normes reglamentàries que no estiguin tipificades com a menys greus, greus o molt greus.
 
 **Article 41. Són faltes menys greus:**
 
-$2a
+Són faltes menys greus:
+1. Pescar sense disposar de la llicència de pesca corresponent.2. Transportar o estar en possessió de peixos o altres éssers aquàtics pescats en l’àmbit d’aplicació de la present Llei, sense disposar de la llicència de pesca corresponent.3. Pescar en llocs acotats sense disposar del permís reglamentari corresponent.4. Transportar o estar en possessió de peixos o altres éssers aquàtics pescats en un tram o zona acotada en l’àmbit d’aplicació de la present Llei, sense disposar del permís reglamentari corresponent.5. Sobrepassar els límits fixats pel que fa al nombre de peces conservades i/o transportades, així com infringir les prescripcions especials dictades per a determinades zones de pesca.6. No tornar a l’aigua els peixos la mesura dels quals sigui inferior a la reglamentària, conservar-los al canastrell o morral, deixar-los a l’abast immediat del pescador o transportar-los.7. Pescar en dies i hores inhàbils durant la temporada de pesca establerta.8. Pescar amb més d’una canya alhora, unint dues canyes o amb un sistema similar.9. Esgotar o disminuir el cabal d’aigua de segles o derivacions de caràcter secundari.10. No conservar el bon estat o moure les reixes que tenen per finalitat protegir la fauna aquàtica.11. Dipositar, o tirar a l’aigua o als encontorns, escombraries, deixalles i residus sòlids i líquids.12. Danyar, destruir o col·locar indegudament o treure els cartells i senyals que indiquin el règim piscícola de les aigües.13. No retornar la llicència de pesca a l’autoritat competent quan per sentència o resolució administrativa ferma se n’hagi acordat la suspensió.14. Pescar peixos a mà.15. Pescar amb procediments i instruments prohibits per aquesta Llei sense autorització legal.16. Pescar emprant esquers l’ús dels quals està prohibit, com asticot, peixos vius o morts, ous de peix o formatge.17. Incomplir les disposicions que regulen els escenaris per a la celebració de concursos de pesca.18. No retornar immediatament a l’aigua els peixos pescats en acotats, amb el permís de pesca sense mort.19. Pescar fent ús de llums artificials que facilitin la captura.20. Negar-se a mostrar el contingut del canastrell, el morral o els instruments emprats per a la pesca, quan ho sol·licitin els agents de l’autoritat.21. Treure grava o arena dels cursos o masses d’aigua sense tenir l’autorització corresponent.22. Destorbar les servituds de pas establertes en riberes i marges en benefici dels pescadors.23. Controlar els moviments dels agents de l’autoritat per tal de facilitar la pesca fraudulenta practicada per altres persones.24. Encebar les aigües amb ànim de pescar.25. Incomplir les disposicions legals dictades per a la defensa, protecció, conservació o foment dels recursos piscícoles.26. Introduir a les aigües peixos i/o espècies aquàtiques sense l’autorització del ministeri responsable de la pesca.
 
 **Article 42. Són faltes greus:**
 
@@ -217,7 +232,8 @@ Són faltes greus:
 
 **Article 43. Són faltes molt greus:**
 
-$2c
+Són faltes molt greus:
+1. Dipositar o acumular als llits o marges dels cursos o masses d’aigua materials procedents de desmunts, àrids, argiles, escombraries, llots, residus industrials o qualsevol altra substància que alteri les condicions d’habitabilitat piscícola, llevat que hagi estat autoritzat per l’Administració.2. Realitzar obres que modifiquin els cursos d’aigua, alterin els llits i marges dels cursos i masses d’aigua, disminueixin el cabal de les aigües o destrueixin la vegetació aquàtica i la dels marges sense complir els requisits establerts en l’article 14.3. Utilitzar dinamita i materials explosius.4. Utilitzar substàncies verinoses per als peixos o desoxigenadores de les aigües o substàncies paralitzants.5. Pescar tenint retirada la llicència o havent estat privat d’obtenir-la per resolució administrativa o judicial ferma.6. Destruir fresos o freses.7. Pescar amb filats, esparvers o artefactes d’ús prohibit, o tenir-los al costat de l’aigua.8. Pescar fent ús d’aparells accionats per electricitat.9. Pescar amb arpons, forquilles, armes de foc o d’aire comprimit, o altres.10. Destruir o danyar intencionadament les instal·lacions destinades a la protecció i el foment de la pesca.
 
 **Article 44. Les infraccions comeses contra aquesta Llei se sancionen amb multes de 30 euros a 3.000 euros segons la classificació següent:**
 
@@ -297,7 +313,12 @@ El procediment sancionador per imposar sancions per infraccions greus i molt gre
 
 **Article 58. 1.**
 
-$2e
+1. El procediment sancionador per imposar sancions per infraccions lleus i menys greus l’inicia el Cos de Banders mitjançant la constatació per part d’un dels seus membres de qualsevol de les infraccions previstes als articles 40 i 41 d’aquesta Llei. Aquesta constatació, que té la consideració de denúncia, s’ha de notificar a la persona expedientada i ha de contenir la data de la presumpta infracció, una descripció detallada dels fets, les disposicions legals presumptament infringides, l’import de les sancions i les mesures accessòries que comporten aquestes infraccions, i una indicació clara del termini per formular al·legacions.
+2. La persona expedientada disposa d’un termini improrrogable de deu dies hàbils, a partir de l’endemà de la notificació a què fa referència l’apartat anterior, per contestar la denúncia, fer les al·legacions que consideri oportunes al respecte i aportar la documentació que consideri escaient.
+3. Si la persona expedientada fa al·legacions durant el termini esmentat a l’apartat anterior, l’expedient sancionador es completa amb aquestes al·legacions i els documents que s’hi acompanyen eventualment, i s’eleva al director del Cos de Banders perquè dicti la resolució corresponent. Aquesta resolució s’ha de notificar a la persona sancionada i s’hi pot interposar recurs d’acord amb el Codi de l’Administració, del 29 de març de 1989.
+4. En cas que hagi transcorregut el termini de deu dies hàbils que preveu l’apartat 2 d’aquest article sense que la persona expedientada hagi fet al·legacions, l’expedient sancionador es considera resolt de manera ferma i definitiva, i la resolució es considera notificada degudament, d’acord amb les infraccions i les sancions que s’hagin fet constar a la denúncia, les quals esdevenen executives.
+5. La persona sancionada disposa del termini d’un mes per fer efectiu l’import de les sancions pels mitjans de pagament acceptats per l’Administració general, a comptar de l’endemà del dia en què s’hagi de considerar notificada la resolució, segons els apartats 3 i 4 anteriors.
+6. Un cop transcorregut el termini d’un mes que estableix l’apartat 5 anterior sense que la persona sancionada hagi fet efectiu l’import de les sancions i sense que hagi interposat un recurs contra la resolució dictada, es cobra aquest import per la via de l’execució forçosa. En aquest cas, s’aplica automàticament un recàrrec del 20% sobre l’import de les sancions.
 
 **Article 59. 1.**
 

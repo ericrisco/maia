@@ -55,7 +55,10 @@ La vaga és la mesura de conflicte col·lectiu que consisteix en l’aturada tem
 
 **Article 9. Àmbit d’aplicació**
 
-$1e
+1. El dret de vaga només es pot exercir quan constitueixi una mesura reivindicativa de caràcter laboral que afecti el col·lectiu d’assalariats que la convoca i hi participa.
+2. Resten prohibides:
+a) Les vagues de caràcter estrictament polític i les de solidaritat, llevat que afectin l’interès professional dels assalariats que les promouen o segueixen. Tenen la consideració de vagues de caràcter estrictament polític les que pretenguin subvertir l’ordre constitucional o obstaculitzar el lliure desenvolupament de l’activitat legislativa, executiva o judicial. Tenen la consideració de vagues de solidaritat les que es convoquen en defensa dels interessos d’altres assalariats amb els que no tenen cap convergència d’interessos laborals.b) Les vagues que pretenguin l’alteració d’allò pactat en un acord o un conveni col·lectiu vigent, o allò establert en un laude de compliment obligatori, llevat que la motivació de la vaga ragui en la interpretació o el compliment de l’acord o el conveni col·lectiu, o del laude, o en l’alteració de l’acord o el conveni col·lectiu com a conseqüència d’un canvi substancial de les circumstàncies que així ho justifiqui.
+3. Tenen la consideració d’abusives les vagues que ocasionin un dany greu, intencionat i desproporcionat a l’empresa o les empreses concernides. Es presumeix que constitueixen un abús del dret de vaga, llevat de prova en contrari, les vagues rotatòries, les de zel o reglament, i, en general, qualsevol forma d’alteració col·lectiva en el règim del treball que sigui diferent de la vaga.
 
 **Article 10. Legitimació**
 
@@ -87,7 +90,10 @@ a) Els assalariats de l’empresa o del centre de treball d’una empresa.b) Els
 
 **Article 15. Serveis i treballs de manteniment**
 
-$20
+1. Correspon a l’empresari o els empresaris concernits i al comitè de vaga designar de forma pactada les funcions que s’han d’assegurar i els assalariats que han de garantir la realització dels serveis i els treballs de manteniment necessaris per a la represa normal de les activitats quan finalitzi la vaga.
+2. En cas que aquesta designació pactada no sigui possible quan manquin dos dies hàbils per a l’inici de la vaga, correspon a l’empresari o els empresaris concernits la designació de les funcions i els assalariats assenyalats a l’apartat anterior.
+3. Aquesta designació pot ser impugnada pel comitè de vaga davant el ministeri competent en matèria de treball, que ha de dictar una resolució motivada en un termini d’un dia hàbil. Aquesta resolució és susceptible de recurs, en els termes que estableix el Codi de l’Administració, però la interposició de recurs no en suspèn l’execució immediata.
+4. Sempre que sigui possible, els serveis i els treballs de manteniment han de ser desenvolupats per assalariats que optin per exercir el seu dret de treballar durant la vaga.
 
 **Article 16. Publicitat**
 
@@ -101,7 +107,9 @@ Si la vaga afecta l’Administració pública o qualsevol empresa de servei púb
 
 **Article 18. Protecció**
 
-$22
+1. Durant la vaga, resta prohibit per part de l’empresari o els empresaris concernits:
+a) Substituir els assalariats que decideixin exercir el dret de vaga per altres assalariats que no es trobin en situació d’alta a l’empresa en el moment en què es convoca la vaga.b) Substituir els assalariats que decideixin exercir el dret de vaga per altres assalariats que, tot i trobar-se en situació d’alta a l’empresa en el moment en què es convoca la vaga, no desenvolupen una activitat al centre de treball afectat per la convocatòria de la vaga, en els supòsits d’empreses que comptin amb altres centres de treball no afectats per la vaga.c) Substituir els assalariats que decideixin exercir el dret de vaga per altres assalariats que, tot i trobar-se en situació d’alta a l’empresa en el moment en què es convoca la vaga i desenvolupar una activitat al centre de treball afectat per la convocatòria de la vaga, pertanyen a un altre grup professional.
+2. Únicament és possible la substitució dels assalariats que, tenint l’obligació de realitzar els serveis o els treballs de manteniment acordats que garanteixin la represa normal de l’activitat un cop acabada la vaga, no els realitzin.
 
 **Article 19. Arbitratge**
 
@@ -115,7 +123,9 @@ Sense perjudici del que estableix l’article anterior, el ministeri competent e
 
 **Article 21. Garantia del funcionament dels serveis essencials**
 
-$24
+1. Als efectes d’aquesta Llei, es consideren serveis essencials, amb independència del règim públic o privat amb què es prestin, els serveis el manteniment dels quals sigui necessari per garantir el contingut essencial dels drets a la vida, a la integritat física i la protecció de la salut, a la llibertat i la seguretat, a la comunicació, a l’educació i a la tutela judicial efectiva, i la lliure circulació i la llibertat d’informació.
+2. Si la vaga afecta empreses públiques o empreses privades que realitzen un servei públic o que faciliten serveis o béns de primera necessitat en els àmbits de la sanitat i la higiene pública; la seguretat pública i la protecció civil; el pagament de les prestacions públiques i socials; els serveis socials; la protecció del medi ambient; els serveis funeraris; l’ordenació del tràfic i els transports públics terrestres de viatges, regulars i col·lectius; el transport i la distribució de mercaderies; els serveis públics de comunicació; els serveis informatius de la ràdio i la televisió; els subministraments d’energia elèctrica, aigua, gas i combustibles per a l’ús domèstic, de locomoció o per a altres activitats compreses en aquest apartat; l’educació en tots els seus nivells reconeguts oficialment; l’Administració de justícia pel que fa a l’assenyalament de judicis i actuacions que concerneixen la llibertat o la seguretat de les persones; les institucions penitenciàries, les duanes i l’execució per part de les administracions públiques d’altres activitats no assenyalades en aquest apartat però la prestació de les quals sigui indispensable i inajornable per atendre els ciutadans, el Govern ha d’adoptar els acords necessaris per conciliar en cada cas l’exercici del dret de vaga amb la garantia del funcionament essencial dels serveis.
+3. L’acord del Govern ha de ser motivat, ha de respectar el principi de proporcionalitat en la imposició de restriccions al dret de vaga, d’acord amb l’extensió de la vaga, la duració prevista i les necessitats existents, i, excepte en situacions d’urgència, requereix la consulta prèvia de l’empresari o els empresaris concernits i del comitè de vaga. Aquest acord és susceptible de recurs, en els termes que estableix el Codi de l’Administració, però la interposició de recurs no en suspèn l’execució immediata.
 
 **Article 22. Finalització**
 
@@ -124,7 +134,12 @@ a) Per iniciativa pròpia dels assalariats, els representants dels assalariats o
 
 **Article 23. Efectes**
 
-$26
+1. L’exercici del dret de vaga no extingeix la relació laboral, sinó que en comporta únicament la suspensió en relació amb la prestació del treball i el pagament del salari mentre l’assalariat no s’hagi reincorporat de forma efectiva al treball.
+2. L’exercici del dret de vaga només pot comportar la sanció o el comiat de l’assalariat si en el desenvolupament de la vaga comet alguna de les faltes que motiven la sanció o el comiat, d’acord amb les infraccions relatives a les situacions de vaga tipificades a la Llei de relacions laborals.
+En qualsevol modalitat de comiat que sigui declarat per la jurisdicció competent com un acte de discriminació per raó de l’exercici del dret de vaga, l’assalariat pot optar per la indemnització que correspongui d’acord amb la Llei de relacions laborals, o bé exigir el reintegrament a l’empresa amb la reparació de l’acte discriminatori i la indemnització del perjudici ocasionat, que fixa la jurisdicció competent.
+3. Durant la vaga l’assalariat manté la situació d’alta a la Caixa Andorrana de Seguretat Social, amb suspensió de l’obligació de cotització tant per part de l’empresari com de l’assalariat, i en què s’ha de fer constar la situació de vaga.
+4. Mentre dura la vaga, l’assalariat que hi participa no té dret a la prestació econòmica de la seguretat social per baixa mèdica si la data d’inici d’aquesta situació es produeix en el període comprès entre l’inici i el final de la vaga, llevat del cas d’accident de treball.
+5. Els incompliments comesos en el desenvolupament de la vaga poden donar lloc a les responsabilitats establertes en l’ordenament jurídic.
 
 #### Capítol tercer. El dret de tancament patronal
 
@@ -160,4 +175,8 @@ a) Per iniciativa pròpia de l’empresa o les empreses concernides.b) A instàn
 
 **Article 30. Efectes**
 
-$28
+1. L’exercici del dret de tancament patronal no extingeix la relació laboral, sinó que en comporta únicament la seva suspensió i la suspensió del pagament del salari mentre l’assalariat no es pugui reincorporar de forma efectiva al treball.
+2. Durant el tancament patronal l’assalariat manté la situació d’alta a la Caixa Andorrana de Seguretat Social, amb suspensió de l’obligació de cotització tant per part de l’empresari com de l’assalariat, i en què s’ha de fer constar la situació de tancament patronal.
+3. Mentre dura el tancament patronal, l’assalariat no té dret a la prestació econòmica de la seguretat social per baixa mèdica si la data d’inici d’aquesta situació es produeix en el període comprès entre l’inici i el final del tancament, llevat del cas d’accident de treball.
+4. L’empresari està obligat a retribuir els havers laborals i les cotitzacions socials meritats pels assalariats durant el tancament patronal en els supòsits següents:
+a) Quan el ministeri competent en matèria de treball resolgui que no s’han donat les causes que justifiquen el tancament patronal i aquesta resolució esdevingui ferma.b) Quan l’empresa no notifiqui el tancament patronal en els termes i els terminis establerts a l’article 27.

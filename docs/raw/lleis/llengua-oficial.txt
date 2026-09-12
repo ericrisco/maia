@@ -53,7 +53,9 @@ a) De l’atenció oral als ciutadans i de les converses entre treballadors d’
 
 **Article 9. Administració de justícia i resolució alternativa de conflictes**
 
-$1e
+1. El català és la llengua utilitzada en l’Administració de justícia, sense perjudici de les disposicions aplicables d’acord amb els convenis internacionals. També és la llengua de gestió de les institucions establertes a Andorra que administren qualsevol procediment de resolució alternativa de conflictes, sense perjudici de la llengua o les llengües que, eventualment, les parts hagin triat per al procediment.
+2. Correspon als òrgans rectors de l’Administració de justícia i a les institucions que gestionen un procediment alternatiu de resolució de conflictes garantir el compliment d’aquesta Llei i, en particular, promoure l’ús de la llengua oficial i fer servir un llenguatge jurídic i tècnic de qualitat i accessible als usuaris.
+3. Les institucions que gestionen un procediment alternatiu de resolució de conflictes han de garantir que hi hagi especialistes catalanoparlants al servei de les parts i posar tots els mitjans necessaris per evitar que una sola llengua estrangera esdevingui hegemònica en els procediments gestionats.
 
 **Article 10. Empreses col·laboradores**
 
@@ -63,7 +65,10 @@ $1e
 
 **Article 11. Personal i càrrecs al servei de l’Administració**
 
-$20
+1. En les proves selectives que es fan per accedir al servei de les administracions públiques, i també per a la promoció dins d’aquestes administracions, els aspirants han d’acreditar la capacitat d’ús oral i escrit de la llengua oficial necessària per a les funcions que han d’exercir.
+2. El Govern, mitjançant reglament, fixa, d’acord amb els criteris del departament governamental encarregat de la política lingüística, les competències lingüístiques que han de tenir les persones que treballen a l’Administració general tenint en compte les característiques de les funcions que exerceixen, i garanteix l’actualització dels coneixements i les habilitats necessaris.
+3. El Consell General i els comuns regulen, d’acord amb els criteris del departament governamental encarregat de la política lingüística, les competències lingüístiques que han de tenir les persones que treballen a l’administració concernida tenint en compte les característiques de les funcions que exerceixen, i garanteixen l’actualització dels coneixements i les habilitats necessaris. Si l’administració o l’entitat que correspongui no ho fa, les proposa el departament governamental encarregat de la política lingüística.
+4. L’apartat 3 s’aplica també a les empreses públiques i parapúbliques i a les entitats que gestionen procediments de resolució alternativa de conflictes. Si el departament governamental encarregat de la política lingüística considera que els criteris i les modalitats no són adequats, pot instar aquestes empreses i entitats a modificar-los.
 
 **Article 12. Actualització administrativa**
 
@@ -73,7 +78,9 @@ Les administracions públiques faciliten el reciclatge progressiu del català de
 
 **Article 13. El català, llengua de les activitats públiques**
 
-$22
+1. El català és la llengua d’ús general en totes les activitats socials i públiques, tant si són presencials com si es fan efectives per la via electrònica.
+2. En els congressos, simposis, esdeveniments esportius i altres actes públics de caràcter internacional es pot emprar com a llengua d’ús la llengua o les llengües que determini l’organitzador, sempre que s’anunciïn dins d’Andorra en català, sense detriment de l’ús d’altres llengües. En els congressos, simposis, esdeveniments esportius i altres actes públics de caràcter internacional acollits per una administració andorrana o una entitat que rep subvencions públiques hi ha d’haver la versió en català de qualsevol comunicat –oral o escrit– o documentació de l’organització destinats als mitjans de comunicació i al públic general.
+3. D’acord amb el marc legal regulador de les comunicacions comercials electròniques, als operadors establerts al Principat d’Andorra i a les activitats que desenvolupen se’ls apliquen les mateixes lleis que a qualsevol persona que exerceix les mateixes activitats.
 
 **Article 14. Turisme**
 
@@ -86,7 +93,14 @@ A les oficines de turisme i als organismes i establiments dedicats a la promoci�
 
 **Article 16. Noms comercials i denominacions socials, rètols d’establiment i publicitat**
 
-$24
+1. Els noms comercials, les denominacions socials i els rètols d’establiment s’han de redactar en català.
+2. Tot altre rètol oficial o privat, publicitari, comercial, informatiu o de qualsevol altra mena també s’ha de redactar en català.
+3. Els cartells, les proclames, la propaganda, els prospectes, els catàlegs, les trameses publicitàries i els anuncis, tant orals com escrits, que es difonen o es distribueixen dins d’Andorra s’han de fer en català. En lloc secundari poden utilitzar-se expressions en altres llengües.
+4. S’apliquen en aquesta matèria les normes i les excepcions contingudes a les lleis sectorials sobre noms comercials, denominacions socials i rètols d’establiment, i sobre comerç. També s’exceptuen del que prescriu l’apartat 3 els catàlegs, els cartells i els prospectes editats a l’estranger que es distribueixen des de l’estranger.
+5. S’exceptuen del que preveu l’apartat 3 els missatges adreçats exclusivament a un grup lingüístic diferent del català en qualsevol camp de les seves relacions internes.
+6. La publicitat comercial i els escrits informatius impresos (cartells, fullets, etc.) editats i distribuïts a Andorra de caràcter cultural i social (cinemes, teatres, actes, congressos, fires i esdeveniments diversos) s’han de redactar en la llengua oficial. En lloc secundari poden fer-se en altres llengües.
+7. Les disposicions d’aquest article regeixen amb independència del suport on estan inscrits els noms, les denominacions, els rètols o la publicitat, incloses les modalitats digitals.
+8. La informació comercial i la publicitat escrites tant a Internet com a qualsevol xarxa social per una persona física o jurídica que exerceix una activitat que comporta la inscripció al registre oficial corresponent i de qualsevol acte subvencionat amb recursos públics s’han de fer com a mínim en català, tot i que es poden fer també en qualsevol llengua estrangera.
 
 **Article 17. Etiquetatge i altres textos**
 
@@ -136,11 +150,21 @@ Les etiquetes, les instruccions, la garantia i els altres escrits inserits en el
 
 **Article 24. El català, llengua de la formació**
 
-$26
+1. El català és la llengua de l’educació, l’aprenentatge i la comunicació de tots els centres i serveis de formació andorrans, sense perjudici de l’ús d’altres llengües per facilitar la comunicació i l’aprenentatge de la llengua oficial en les condicions prescrites per l’ordenament jurídic. Aquesta previsió s’aplica igualment als centres educatius privats que emeten titulacions estatals, a les llars d’infants i també a les activitats formatives, culturals i artístiques organitzades per qualsevol administració o per qualsevol entitat subvencionada amb recursos públics. El professorat ha de conèixer la llengua d’acord amb les exigències de la seva tasca docent. Aquesta norma no és aplicable al professorat estranger que exerceix de manera puntual.
+2. El català és la llengua dels acompanyants del transport escolar, del personal auxiliar de patis i menjadors, dels vigilants d’activitats de lleure i de qualsevol altra persona que dugui a terme tasques similars finançades amb recursos públics.
+3. Els establiments que dispensen l’ensenyament en una altra llengua, incloses les institucions d’ensenyament superior establertes a Andorra, han de garantir que els seus serveis al públic estan disponibles en la llengua oficial i, en l’àmbit educatiu, les classes de català que determina la normativa sectorial.
+4. El català és així mateix la llengua vehicular de les activitats esportives i de les que es dediquen a l’esplai que no tenen com a objectiu l’aprenentatge d’una llengua estrangera. És la llengua de comunicació que fan servir els monitors, els animadors, els entrenadors i les persones que duen a terme feines assimilables.
+5. Tots els centres, federacions, associacions i altres entitats ‒i els seus cossos tècnics‒ que es dediquen a qualsevol mena de formació o esplai han d’implementar les mesures necessàries per garantir l’ús del català i han d’establir els criteris i les modalitats per verificar el coneixement de la llengua oficial perquè aquest article sigui efectiu.
+6. Aquestes mesures, aquests criteris i aquestes modalitats es recullen en un pla d’actuació sobre l’ús i la qualitat de la llengua catalana al centre o servei i estan subjectes a l’aprovació de la Junta de Coordinació sobre Llengua i Formació que estableix l’article 40.
+7. El Govern pot regular reglamentàriament com han de ser les normes dels centres i les activitats esmentades en aquest article per definir els termes i les expressions o precisar-ne l’abast.
 
 **Article 25. Pla d’actuació sobre l’ús i la qualitat de la llengua catalana**
 
-$28
+1. Tots els centres o serveis dedicats a la formació que depenen de les administracions o d’entitats subvencionades amb recursos públics han de disposar d’un pla d’actuació sobre l’ús i la qualitat de la llengua catalana (pla lingüístic).
+2. El pla d’actuació sobre l’ús i la qualitat de la llengua catalana pot ser d’un centre o servei concret o bé sectorial d’un mateix tipus de centres o serveis.
+3. El pla lingüístic de cada centre o d’un mateix tipus de centre de formació ha de contenir com a mínim:
+a) L’obligació de complir aquesta Llei.b) L’ús del català en la retolació i en les comunicacions orals i escrites entre tots els professionals, la resta del personal i els usuaris.c) Els requisits de coneixement de català per a la selecció i la mobilitat de qualsevol professional.d) L’obligació de formació i reciclatge dels professionals.e) Els plans d’integració per al personal que no domina el català i per a alumnes temporals.
+4. La Junta de Coordinació sobre Llengua i Formació, creada d’acord amb l’article 40, pot establir les mesures i els objectius mínims que ha d’incloure cada pla d’actuació sobre l’ús i la qualitat de la llengua catalana, segons les característiques pròpies de cada institució, centre o servei, o tipus de centre o servei.
 
 ### Títol IV. Mitjans de comunicació i indústries culturals
 
@@ -180,15 +204,24 @@ Amb l’objectiu d’impulsar l’oficialitat de la llengua catalana com a eleme
 
 **Article 32. Foment de la llengua oficial en l’àmbit comunal**
 
-$2a
+1. Els comuns són responsables d’aplicar aquesta Llei en els àmbits de les seves competències.
+2. A aquest efecte, aproven les normes necessàries per adaptar a l’àmbit comunal les disposicions que ho requereixen tant pel que fa a l’organització interna i de les seves activitats com en relació amb els tràmits administratius propis i amb el control dels incompliments en l’àmbit de la parròquia.
+3. En la gestió dels serveis de tràmits, els comuns han d’informar els usuaris de les obligacions que estableix la Llei de la llengua pròpia i oficial pel que fa a procediments determinats, com ara els relacionats amb l’obertura de comerços o amb activitats socials, formatives, esportives, turístiques, empresarials i qualsevol altra regulada a la Llei, com també sobre l’ús del català en l’atenció al públic, als rètols i a la publicitat.
+4. Els comuns participen activament en la Junta de Coordinació sobre Llengua i Formació i en el Consell Nacional per la Llengua.
+5. Cada any, en consell de comú, els consellers responsables informen sobre les mesures i les actuacions impulsades pel comú en aplicació d’aquesta Llei abans de la presentació de l’informe anual davant el Consell General.
 
 **Article 33. Funcions del Govern**
 
-$2c
+1. El Govern ha de tenir un departament encarregat de la política lingüística i ha de dotar-lo dels mitjans necessaris per dur a terme les seves funcions i administrar, coordinar i supervisar les actuacions de l’Estat en matèria de política lingüística.
+2. Especialment són obligacions del Govern a través dels ministeris competents:
+a) Participar activament, mitjançant els responsables de qualsevol ministeri implicat, en la Junta de Coordinació sobre Llengua i Formació i en el Consell Nacional per la Llengua.b) Regular les titulacions que acrediten els coneixements de català, tenint en compte les necessitats i les peculiaritats andorranes.c) Promoure l’ensenyament del català i la correcció lingüística a les empreses i les entitats que ho sol·liciten, amb la col·laboració de les altres administracions.d) Assegurar la coordinació entre tots els ministeris, especialment entre els competents en educació i en política lingüística, per garantir l’aplicació d’aquesta Llei.e) Informar els usuaris de les obligacions que estableix la Llei de la llengua pròpia i oficial pel que fa a procediments determinats del servei de tràmits, com ara els relacionats amb l’obertura de comerços, o amb activitats socials, formatives, esportives, turístiques, empresarials i qualsevol altra regulada a la Llei, com també sobre l’ús del català en l’atenció al públic, als rètols i a la publicitat.f) Elaborar un mapa sociolingüístic i revisar-lo periòdicament per adequar la planificació i la política lingüístiques a la realitat i, alhora, per valorar la incidència de les mesures aplicades.g) Debatre en sessió del Govern, abans de presentar l’informe anual davant el Consell General, sobre el grau de compliment de la Llei en l’àmbit ministerial i presentar les actuacions que s’hi han dut a terme.h) Presentar anualment un informe al Consell General sobre l’estat de la llengua, els drets lingüístics i la situació sociolingüística andorrana. Aquest balanç ha de contenir les mesures públiques adoptades, informació sobre l’actuació duta a terme pels organismes de coordinació i dades sobre l’aplicació de la legislació lingüística i la garantia dels drets lingüístics.
 
 **Article 34. Foment i altres mesures**
 
-$2e
+1. Sense perjudici dels drets i els deures previstos en l’ordenament jurídic, les administracions públiques han de fomentar l’extensió de l’ús del català en les activitats mercantils, publicitàries, culturals, associatives, esportives i de qualsevol altra mena.
+2. Correspon a totes les administracions:
+a) Aprovar la normativa i la dotació pressupostària necessàries per garantir l’ús habitual, correcte i accessible del català en l’àmbit de cada administració i assegurar la formació permanent de les persones que hi treballen.b) Aprovar les mesures necessàries perquè els ciutadans no catalanoparlants siguin conscients de la importància de conèixer i fer servir la llengua oficial i informar-los dels recursos i les eines disponibles per aprendre català.c) Promoure la presència de la llengua catalana en l’àmbit digital i afavorir el desenvolupament tecnològic lingüístic mitjançant el foment i el suport material de programes de traducció, de reconeixement vocal o de correcció.d) Protegir i promoure la llengua de signes catalana perquè les persones amb discapacitat que ho necessitin puguin disposar d’un servei d’interpretació de llengua de signes per exercir els seus drets fonamentals.e) Coordinar-se per establir i aplicar mecanismes de planificació lingüística que incloguin campanyes i altres actuacions específiques per afavorir l’ús de la llengua oficial en àmbits en què és insuficient.f) Observar escrupolosament les disposicions d’aquesta Llei i els reglaments que la despleguen pel que fa a la llengua de treball, d’atenció al públic i d’altres funcions o supòsits que els afecten.
+3. Les administracions poden establir subvencions, premis, guardons o acords de col·laboració per a les iniciatives en favor de la llengua que van més enllà de les obligacions que fixa aquesta Llei.
 
 **Article 35. Equipaments i activitats culturals i esportives**
 
@@ -208,7 +241,9 @@ a) El departament governamental encarregat de la política lingüística.b) La J
 
 **Article 38. Departament governamental encarregat de la política lingüística**
 
-$30
+1. D’acord amb l’article 33, el departament governamental encarregat de la política lingüística administra, coordina i supervisa les actuacions de l’Estat en matèria de política lingüística.
+2. Corresponen al departament governamental encarregat de la política lingüística, entre altres funcions, les següents:
+a) Dirigir i coordinar la política lingüística, d’acord amb les aportacions de les institucions públiques i els organismes de coordinació.b) Dirigir la Junta de Coordinació sobre Llengua i Formació i administrar el Consell Nacional per la Llengua i qualsevol altre organisme que es creï per coordinar les actuacions conjuntes de les administracions públiques.c) Gestionar els recursos de la formació d’adults per fer augmentar el nivell de coneixement del català, tant oral com escrit, i la normalització de l’ús del català en el si de les administracions i de tot el territori nacional.d) Garantir als serveis de l’Administració general un servei de correcció i assessorament lingüístic i donar suport a qualsevol altra institució pública per implantar el seu propi servei.e) Assessorar i informar la població sobre els recursos disponibles per garantir la correcció de la llengua catalana i el compliment de la Llei, i resoldre dubtes lingüístics dels ciutadans.f) Impulsar estudis sociolingüístics sobre l’ús i la qualitat de la llengua catalana a Andorra i facilitar-ne les dades als organismes de coordinació per impulsar les accions que escaiguin en matèria de política lingüística.g) Fer les propostes necessàries per complir els articles 15 i 39.h) Elaborar anualment una memòria en què constin les mesures, les actuacions i els projectes duts a terme, i les dades aportades pels organismes de coordinació per a l’informe que s’ha de presentar davant el Consell General.i) Coordinar-se amb els serveis d’inspecció sectorials del Govern per registrar i gestionar les denúncies dels ciutadans i instar-ne l’actuació davant d’un incompliment d’aquesta Llei.j) Fomentar la cooperació i la coordinació amb altres institucions competents en matèria de política lingüística dels territoris de parla catalana.k) Promoure propostes legislatives relacionades amb la política lingüística i el foment de la llengua oficial i la llengua de signes catalana.l) Vetllar perquè els establiments comercials de nova obertura disposin de la informació sobre els drets i deures lingüístics recollits en aquesta Llei que els afecten.m) Promoure la recerca lingüística i sociolingüística.n) Participar en iniciatives internacionals de debat, foment i projecció de la llengua catalana.
 
 **Article 39. Autoritat lingüística**
 
@@ -217,11 +252,30 @@ $30
 
 **Article 40. Junta de Coordinació sobre Llengua i Formació**
 
-$32
+1. Es crea la Junta de Coordinació sobre Llengua i Formació (JCLF) com a organisme administratiu per coordinar la política lingüística estatal en l’àmbit de la formació i garantir l’aplicació d’aquesta Llei.
+2. Correspon a la Junta de Coordinació sobre Llengua i Formació fer-se càrrec de l’aplicació harmonitzada d’aquesta Llei a tots els centres i serveis que es dediquen a la formació en els vessants de llar d’infants, escola, ensenyament superior o d’activitats culturals, artístiques i esportives organitzades per qualsevol administració o per qualsevol entitat subvencionada amb recursos públics, sota l’administració i la coordinació del departament governamental encarregat de la política lingüística.
+3. La Junta de Coordinació sobre Llengua i Formació té les competències següents:
+a) Donar les directrius als centres i els serveis perquè la política lingüística de l’Estat s’apliqui de manera coherent i harmonitzada als centres i serveis de totes les administracions.b) Aconsellar els ministres i els cònsols responsables, i els seus serveis, sobre l’aplicació d’aquesta Llei en tota qüestió relativa a la llengua catalana a qualsevol centre o servei de formació.c) Cooperar amb el Consell Nacional per la Llengua (CNL) per definir els objectius del Pla d’acció nacional per la llengua establert a l’article 41 en l’àmbit de la formació.d) Establir, si escau, mesures i objectius mínims que han de contenir els plans d’actuació sobre l’ús i la qualitat de la llengua catalana tenint en compte les característiques de cada centre o servei o bé d’un mateix tipus de centres o serveis.e) Aprovar els plans d’actuació sobre l’ús i la qualitat de la llengua catalana dels centres formatius.f) Demanar informació als centres i serveis sobre l’aplicació del pla d’actuació sobre l’ús i la qualitat de la llengua catalana amb vista a garantir-hi el compliment de la Llei.g) Fer propostes de desplegament reglamentari.h) Impulsar els estudis i les recerques que es considerin necessaris.i) Redactar cada any una memòria sobre l’estat de l’ús de la llengua oficial en les activitats formatives que reculli la informació que han fet arribar els responsables dels centres i els serveis sobre el compliment d’aquesta Llei en l’àmbit de la formació.
+4. La Junta de Coordinació sobre Llengua i Formació es compon dels membres següents:
+a) En representació del ministeri encarregat de l’educació hi assisteixen els directors amb competències en l’àmbit dels sistemes educatius, de l’Escola Andorrana, de Formació Andorrana, de formació professional i de la inspecció educativa.b) En representació de l’ensenyament superior hi assisteix el director de l’Agència de Qualitat de l’Ensenyament Superior d’Andorra (AQUA).c) En representació del ministeri encarregat dels esports hi assisteixen dos directors amb competències en formació i esdeveniments esportius.d) En representació del ministeri encarregat dels afers socials hi assisteixen dos directors amb competències en matèria de joventut, gent gran i activitats adreçades a col·lectius específics.e) En representació del ministeri encarregat de cultura hi assisteix el director o el responsable de la formació d’adults.f) En representació del ministeri encarregat de la política lingüística hi assisteixen el director del departament competent, el cap del servei de política lingüística i un tècnic del servei.g) En representació dels comuns hi assisteixen dos directors de cada comú, de les àrees de cultura, esports, joventut o afers socials.
+5. La direcció de la Junta de Coordinació sobre Llengua i Formació és assumida per la direcció del departament governamental encarregat de la política lingüística i la secretaria és assumida pel cap del servei encarregat de la política lingüística.
+6. El règim de funcionament i la dotació pressupostària de la Junta de Coordinació sobre Llengua i Formació s’estableixen per reglament.
 
 **Article 41. Consell Nacional per la Llengua**
 
-$34
+1. Es crea el Consell Nacional per la Llengua (CNL) com a organisme consultiu perquè les institucions públiques debatin i consensuïn amb la societat civil els eixos en què s’ha de basar la política lingüística.
+2. Correspon al Consell Nacional per la Llengua consensuar els objectius de política lingüística amb flexibilitat i eficàcia, gràcies a les aportacions de totes les administracions i de la resta d’actors i representants de la societat, sota l’administració del departament governamental encarregat de la política lingüística.
+3. A aquest efecte, el Consell Nacional per la Llengua:
+a) Fixa els objectius principals de la política lingüística amb les aportacions de les administracions i els representants de la societat.b) Estableix els grans objectius del Pla d’acció nacional per la llengua (PNL) del trienni següent i en fa el balanç periòdic, d’acord amb les normes reglamentàries.
+4. Entre altres que fixin els reglaments, els objectius principals del Consell Nacional per la Llengua són els següents:
+a) Fer el seguiment de l’aplicació d’aquesta Llei.b) Fomentar l’ús habitual de la llengua oficial en tots els àmbits socials i en l’espai públic com a factor distintiu i de cohesió social.c) Defensar els drets lingüístics dels ciutadans establerts per l’ordenament jurídic.d) Difondre i fer respectar els deures lingüístics que determina l’ordenament jurídic.e) Fomentar la participació activa de totes les administracions públiques en la política lingüística i en l’obtenció dels recursos humans i materials necessaris.f) Contribuir, mitjançant la transparència i el consens, a la difusió dels resultats de les actuacions dutes a terme per fomentar el català com a llengua oficial i social.
+5. S’estableix el Pla d’acció nacional per la llengua (PNL) com a eina de planificació dels objectius i de les actuacions de política lingüística. El contingut, el procediment d’aprovació i la resta de característiques s’aproven per reglament.
+6. El Consell Nacional per la Llengua es compon de membres permanents i de membres eventuals.
+7. Els membres permanents del Consell Nacional per la Llengua són:
+a) El ministre encarregat de la política lingüística, que pot delegar puntualment les funcions en un responsable de política lingüística.b) El ministre encarregat de l’educació, que pot delegar puntualment les funcions en una direcció o secretaria d’Estat del ministeri.c) El ministre encarregat dels esports, que pot delegar puntualment les funcions en una direcció o secretaria d’Estat del ministeri.d) Un cònsol designat de mutu acord entre els comuns, que pot delegar puntualment les funcions en un altre cònsol o en un alt responsable del comú.e) El degà de la Universitat d’Andorra.f) Dos representants del departament governamental encarregat de la política lingüística, designats pel titular del ministeri.g) Dos representants del ministeri encarregat de l’educació, designats pel titular del ministeri.h) El gerent d’Andorra Recerca i Innovació.i) Els secretaris generals dels comuns.k) Un representant de les associacions culturals andorranes, designat per la persona titular del ministeri encarregat de la política lingüística.l) Dos representants de les organitzacions sindicals i empresarials del Consell Econòmic i Social.
+8. Els membres eventuals formen part del CNL si el Pla d’acció nacional per la llengua o un dels objectius del PNL està relacionat amb un àmbit de la seva competència, expertesa o interès. Tenen els mateixos drets que els membres permanents a les reunions a què siguin invitats pel president del CNL. Especialment, són membres eventuals:
+a) Els directors dels departaments del Govern o dels comuns implicats en el Pla d’acció nacional vigent, designats pels titulars dels ministeris corresponents.b) Un representant del Consell General, designat per la Sindicatura.c) Un representant de l’Administració de justícia, designat pel Consell Superior de la Justícia.d) La persona representant d’un sector, una entitat, una institució o un organisme implicat en el Pla d’acció nacional, invitada pel president del CNL.e) Un representant d’altres associacions empresarials.
+9. El règim de funcionament i la dotació pressupostària del Consell Nacional per la Llengua s’estableix per reglament.
 
 **Article 42. Altres organismes**
 
@@ -239,15 +293,27 @@ Per la via reglamentària, es poden crear els organismes de gestió o bé d’ha
 
 **Article 44. Responsables de les infraccions**
 
-$36
+1. En el cas d’infraccions comeses en l’exercici d’una activitat comercial, industrial o de serveis, n’és responsable la persona física o jurídica que figura com a titular al Registre de Comerç.
+2. Si es tracta d’infraccions comeses en l’exercici d’una professió titulada, n’és responsable el titular de l’autorització.
+3. Si es tracta d’infraccions comeses en l’exercici d’una activitat encarregada per concessió per una administració pública, n’és responsable el titular de la concessió.
+4. La responsabilitat que s’estableix en els apartats anteriors d’aquest article s’entén sense perjudici del dret de repetició que correspon al responsable designat contra l’infractor, sempre que el primer acrediti que ha posat a disposició del darrer les eines, les facilitats i les instruccions suficients per tal de donar compliment a la Llei.
+5. Si es tracta d’infraccions comeses en l’exercici de l’Administració pública, n’és responsable la mateixa Administració, sense perjudici del dret d’aquesta última d’incoar el règim disciplinari contra la persona que de facto hagi incomplert l’obligació d’utilitzar la llengua nacional.
 
 **Article 45. Sancions**
 
-$38
+1. Les infraccions a què es refereix aquesta Llei són sancionades per aplicació de les mesures següents:
+a) Infraccions lleus: reprensió privada per escrit en el primer incompliment o multa d’un import mínim de 600 euros i de fins a un màxim de 1.200 euros.b) Infraccions greus: multa de 1.201 euros fins a 6.000 euros.c) Infraccions molt greus: multa de 6.001 euros fins a 60.000 euros.
+2. Les sancions porten sempre aparellada l’obligació de retirar, esmenar o substituir el rètol, el producte o el text, segons el cas, a càrrec de les persones que en són responsables. Si no ho fan en el termini que ha establert la resolució sancionadora, el Govern ha de procedir a l’execució forçosa a càrrec de les persones infractores.
+3. En el cas d’entitats o activitats subvencionades o finançades per qualsevol administració, les sancions per les infraccions d’aquesta Llei relacionades amb l’objecte de l’aval, el crèdit o l’ajut també poden consistir a reduir-los en cas de falta greu, o retirar-los o rescabalar-los en cas de falta molt greu.
+4. A més dels criteris establerts a les lleis sectorials, la quantia de la multa, dins dels límits previstos, es gradua procurant assolir la proporcionalitat adequada entre la infracció i la sanció. A aquest efecte, serveixen de criteris la gravetat de la pertorbació produïda en els drets dels ciutadans, l’existència de perjudicis materials o econòmics, la transcendència social o l’interès públic afectat, el benefici econòmic que perseguia obtenir l’infractor i la mala fe, la culpa o la negligència.
 
 **Article 46. Procediment sancionador**
 
-$3a
+1. Els òrgans competents per instruir els expedients sancionadors són els d’inspecció competent en l’àmbit sectorial en el qual s’hagi comès la infracció, en coordinació amb el departament governamental encarregat de la política lingüística a què es refereix l’article 38.
+2. Als àmbits de competència governamental en què no hi ha servei d’inspecció específic, la instrucció dels expedients correspon als tècnics designats pel ministre titular en matèria de política lingüística.
+3. Quan es tracta de retirar o d’esmenar rètols, etiquetes o qualsevol altre text, i en tots els altres casos en què resulta possible corregir els fets constitutius d’infracció, en incoar l’expedient sancionador, l’òrgan que l’acorda ha de donar a l’expedientat un termini raonable per fer-ho. En el cas que es tracti del primer incompliment, l’expedient s’ha de sobreseure si l’infractor corregeix els fets sancionables d’acord amb aquesta Llei dins el termini establert.
+4. La instrucció de l’expedient es regeix per aquesta Llei i per les disposicions sectorials de l’àmbit en què s’ha produït i, si no n’hi ha, pel Reglament regulador del procediment sancionador.
+5. Les infraccions comeses pels funcionaris i el personal al servei de les administracions són sancionades d’acord amb el procediment i la normativa sancionadora específics.
 
 **Article 47. Òrgans competents**
 
