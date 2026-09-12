@@ -78,8 +78,10 @@ Sempre, diu la font, **«de conformitat amb el Consell General»**:
 | **1962** | **Les primeres classes de català** que el Consell General organitza — **i són per a adults**, no per a nens. |
 | **1972** | El Consell General aprova la **Nota Informe de l'Andorranització** — [fitxa pròpia](./landorranitzacio.md). |
 | **1970** | Es constitueix l'associació de l'**escola especialitzada Nostra Senyora de Meritxell**, per famílies afectades i **Càritas**. **Activitats des del 1972, amb set alumnes** — [fitxa pròpia](./lescola-nostra-senyora-de-meritxell.md). |
-| **1982** | **Escola maternal andorrana**: «l'acte cabdal pel que fa a l'ensenyament andorrà», fonament d'un sistema propi a tots els nivells. |
+| **1982** | **Escola maternal andorrana**: «l'acte cabdal pel que fa a l'ensenyament andorrà». **La demana un grup de pares i mares**, no el Govern — [l'Escola Andorrana](./lescola-andorrana.md). |
 | **1985** | S'inicia la **primera ensenyança**. |
+| **1985** | El Govern aprova la continuïtat de l'escola **després que la matrícula es tripliqués en tres anys**. |
+| **1990** | Es crea la **segona ensenyança** (12-16), i **es clou l'ensenyament obligatori** andorrà. |
 | **1986** | Comença la **integració escolar** a maternal, a la llavors incipient Escola Andorrana i al col·legi Sant Ermengol ([Meritxell](./lescola-nostra-senyora-de-meritxell.md)). **L'escola andorrana neix ja integrada.** |
 | **2 de maig de 1989** | El Consell General aprova la **Llei de l'Escola Andorrana** — **set anys després que l'escola funcionés** ([índex legislatiu](./index-legislatiu-en-educacio.md)). |
 | **1988** | **Escola d'Informàtica d'Andorra** i **Escola Universitària d'Infermeria** — [fitxa](../sanitat/lescola-dinfermeria.md). Comença l'ensenyament professional i universitari. |
@@ -141,6 +143,7 @@ si mateixa abans de definir-se jurídicament.
 
 ## Related
 
+- [L'Escola Andorrana](./lescola-andorrana.md) — el sistema propi, explicat des de dins.
 - [L'ensenyament confessional](./lensenyament-confessional.md) — la sèrie més antiga, amb dia i mes.
 - [Els tres sistemes](./els-tres-sistemes.md) — la mateixa història, vista des de la llengua.
 - [L'andorranització](./landorranitzacio.md) — el 1972.

@@ -64,6 +64,12 @@ Val la pena retenir-lo, perquè és **una declaració de prioritats**:
 és la llengua materna de més del 40 % de la població**. És una decisió
 deliberada: l'escola compensa el que el carrer ja dona.
 
+**I està escrit.** La directora general de l'Escola Andorrana ho diu amb aquestes
+paraules el 2000: el castellà «els alumnes, **independentment de quina sigui la
+seva llengua familiar, l'aprenen en l'àmbit de les relacions informals**», i el
+francès «té una presència social minoritària» i per això l'escola **n'afavoreix
+la presència**. Vegeu [l'Escola Andorrana](./lescola-andorrana.md).
+
 ## La conseqüència lingüística
 
 Molla ho diu sense pal·liatius: els sistemes educatius forans **han suposat un
@@ -142,5 +148,6 @@ Els universitaris que estudien al Principat van passar de **15 el curs
 - [La sèrie històrica](../../llengua/politica-linguistica/la-serie-historica.md)
 - [L'estàndard contra la varietat](../../llengua/dialectologia/lestandard-contra-la-varietat.md)
 - [La Universitat d'Andorra](./la-universitat-dandorra.md) — on desemboquen, quan no marxen.
+- [L'Escola Andorrana](./lescola-andorrana.md) — el sistema propi, i per què el castellà entra l'últim.
 - [La cronologia escolar](./la-cronologia-escolar.md) — les mateixes dates, afinades.
 - [El mapa escolar del 2000](./el-mapa-escolar-del-2000.md) — els centres, un per un.

@@ -254,6 +254,7 @@ Andorra **no sabrà que existeix**.
 - [El mapa escolar del 2000](./el-mapa-escolar-del-2000.md)
 - [L'andorranització](./landorranitzacio.md)
 - [L'Escola d'Infermeria](../sanitat/lescola-dinfermeria.md)
+- [L'Escola Andorrana](./lescola-andorrana.md) — l'altra escola fundada per famílies.
 - [L'ensenyament confessional](./lensenyament-confessional.md) — Sant Ermengol, on va començar la integració el 1986.
 - [Índex legislatiu en educació](./index-legislatiu-en-educacio.md)
 - [Educació](./educacio.md)
