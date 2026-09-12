@@ -1,0 +1,12 @@
+/tmp/andorra-openlibrary.WCoy1i/1.json
+/tmp/andorra-openlibrary.WCoy1i/10.json
+/tmp/andorra-openlibrary.WCoy1i/11.json
+/tmp/andorra-openlibrary.WCoy1i/12.json
+/tmp/andorra-openlibrary.WCoy1i/2.json
+/tmp/andorra-openlibrary.WCoy1i/3.json
+/tmp/andorra-openlibrary.WCoy1i/4.json
+/tmp/andorra-openlibrary.WCoy1i/5.json
+/tmp/andorra-openlibrary.WCoy1i/6.json
+/tmp/andorra-openlibrary.WCoy1i/7.json
+/tmp/andorra-openlibrary.WCoy1i/8.json
+/tmp/andorra-openlibrary.WCoy1i/9.json
