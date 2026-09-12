@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**200** documents · **27** fonts · **0** aptes com a model de llengua · **96** temes amb contingut.
+**202** documents · **28** fonts · **0** aptes com a model de llengua · **96** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -462,6 +462,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [«Andorra es castellanitza»](temes/llengua/politica-linguistica/andorra-es-castellanitza.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `debat-2a-diada-migracions` |
 | [La llei de la llengua](temes/llengua/politica-linguistica/la-llei-de-la-llengua.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `govern-andorra-web` |
 | [La sèrie històrica del català a Andorra](temes/llengua/politica-linguistica/la-serie-historica.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `molla-catala-andorra` |
 | [Qui parla què](temes/llengua/politica-linguistica/qui-parla-que.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `govern-andorra-web` |
@@ -521,6 +522,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Els nats a Andorra](temes/societat/immigracio/els-nats-a-andorra.md) | `temes/societat/immigracio` | compilada | contemporania | no | `debat-2a-diada-migracions` |
 | [Immigració](temes/societat/immigracio/immigracio.md) | `temes/societat/immigracio` | compilada | contemporania | no | `viquipedia-ca` |
 | [La immigració llatinoamericana](temes/societat/immigracio/la-immigracio-llatinoamericana.md) | `temes/societat/immigracio` | compilada | contemporania | no | `de-la-parte-immigracio-cultura` |
 | [La societat segmentada](temes/societat/immigracio/la-societat-segmentada.md) | `temes/societat/immigracio` | compilada | contemporania | no | `de-la-parte-immigracio-cultura` |
@@ -696,6 +698,7 @@
 | [`consell-general-web`](fonts/consell-general-web.md) | Consell General del Principat d'Andorra | informació institucional pública | si |
 | [`coprincep-frances`](fonts/coprincep-frances.md) | Representació del Copríncep Francès a Andorra | informació institucional pública | si |
 | [`de-la-parte-immigracio-cultura`](fonts/de-la-parte-immigracio-cultura.md) | Isabel de la Parte i Cano · Joan Micó i Ibáñez · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`debat-2a-diada-migracions`](fonts/debat-2a-diada-migracions.md) | Societat Andorrana de Ciències · CREC, Universitat de Perpinyà | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`ferrer-percepcio-andorra-exterior`](fonts/ferrer-percepcio-andorra-exterior.md) | Josep Ferrer i Altimira · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`govern-andorra-web`](fonts/govern-andorra-web.md) | Govern del Principat d'Andorra | informació institucional pública | si |
 | [`iec-aldc-andorra`](fonts/iec-aldc-andorra.md) | Institut d'Estudis Catalans | publicació acadèmica de l'IEC, accés obert | pendent |
