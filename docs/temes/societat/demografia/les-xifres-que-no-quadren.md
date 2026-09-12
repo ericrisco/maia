@@ -121,6 +121,33 @@ Combarnou»** a la llista dels forasters que van escriure sobre Andorra
 corpus no ho dona per fet**: ho deixa com a **identificació versemblant i no
 verificada**. **Buit registrat:** l'obra de Combarnou, títol i any.
 
+## I ara se sap per què no quadren
+
+**Un geògraf ho va dir el 1989, i el corpus no ho havia llegit.** Joan Becat, a
+la 2a Diada Andorrana ([font](../../../fonts/becat-moviments-migratoris-1989.md)):
+
+> «Hi ha criteris admesos internacionalment per diferenciar mobilitat, migració i
+> qui se censa... Això pot ajudar a solucionar **les deficiències que hi ha hagut
+> en els padrons i censos d'Andorra**, que estaven lligades a **la definició (o
+> més ben dit a l'absència de definició) de qui era censat o resident**.»
+
+I hi afegeix que **«fins ara no hi ha hagut mai una reflexió per a Andorra**, ja
+no dic política, sinó universitària o d'estudiosos, **sobre què és la mobilitat,
+què és un migrant, qui immigra i emigra**».
+
+**Les xifres d'aquesta taula no es contradiuen per atzar: comptaven coses
+diferents.** Un que censa els caps de casa, un altre els residents amb permís, un
+altre les ànimes de la parròquia, un altre els presents el dia del recompte.
+**Sense definició de resident, cada font fabrica la seva població.**
+
+**Això no arregla cap xifra** —segueix sense saber-se quina és bona— **però
+canvia la pregunta**: no és «quina és l'errònia» sinó **«què comptava
+cadascuna»**. Vegeu [el diagnòstic de 1989](../immigracio/el-diagnostic-de-1989.md).
+
+**Buit registrat, prioritari:** **si Andorra ha adoptat mai una definició
+estadística de resident, i quan.** Mentre no se sàpiga, **la sèrie moderna també
+és sospitosa**, no només la històrica.
+
 ## El que aquesta fitxa demana
 
 **Que cap fitxa del corpus torni a donar una xifra de població d'aquest període
@@ -143,4 +170,5 @@ i cadascuna té un autor que responia a una pregunta diferent.
 - [Les onades migratòries](./les-onades-migratories.md) — el que ve després del 1932.
 - [FHASA](../../economia/energia-i-serveis/fhasa.md) — la frase que aquesta fitxa qüestiona.
 - [Els casalers i els anfochs](../../historia/segle-xix/els-casalers-i-els-anfochs.md) — la crisi que buida el país.
+- [El diagnòstic de 1989](../immigracio/el-diagnostic-de-1989.md) — per què els censos andorrans no quadren.
 - [La transhumància](../../economia/ramaderia-i-agricultura/la-transhumancia.md) — la pista del 1914-1918.

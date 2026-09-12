@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**315** documents · **95** fonts · **0** aptes com a model de llengua · **108** temes amb contingut.
+**316** documents · **96** fonts · **0** aptes com a model de llengua · **108** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -683,6 +683,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El diagnòstic de 1989](temes/societat/immigracio/el-diagnostic-de-1989.md) | `temes/societat/immigracio` | compilada | contemporania | no | `becat-moviments-migratoris-1989` |
 | [El mercat de treball dual](temes/societat/immigracio/el-mercat-de-treball-dual.md) | `temes/societat/immigracio` | compilada | contemporania | no | `mico-interculturalitat` |
 | [Els nats a Andorra](temes/societat/immigracio/els-nats-a-andorra.md) | `temes/societat/immigracio` | compilada | contemporania | no | `debat-2a-diada-migracions` |
 | [Immigració](temes/societat/immigracio/immigracio.md) | `temes/societat/immigracio` | compilada | contemporania | no | `viquipedia-ca` |
@@ -870,6 +871,7 @@
 | [`bascompte-privilegis`](fonts/bascompte-privilegis.md) | Domènec Bascompte i Grau · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`bastida-roser-ensenyament-andorra`](fonts/bastida-roser-ensenyament-andorra.md) | Roser Bastida i Areny · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`bastida-universitat-andorra`](fonts/bastida-universitat-andorra.md) | Daniel Bastida i Obiols · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`becat-moviments-migratoris-1989`](fonts/becat-moviments-migratoris-1989.md) | Joan Becat · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`becat-vida-pastoral`](fonts/becat-vida-pastoral.md) | Joan (Jean) Becat | document de divulgació per a ensenyants; sense llicència explícita | pendent |
 | [`boladeres-ensenyament-espanyol`](fonts/boladeres-ensenyament-espanyol.md) | Antoni Boladeres i Sorribes · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`brutails-coutume-1904`](fonts/brutails-coutume-1904.md) | J.-A. Brutails · Ernest Leroux, éditeur, París · obra de 1904, domini públic | domini públic per antiguitat; digitalització de Google Books | si |

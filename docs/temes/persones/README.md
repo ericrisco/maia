@@ -82,7 +82,7 @@ llista de buits: bona part de les files hi apunten a fitxa.
 | **Antoni Morell i Mora** | Escriptor; coautor de *El Consell General (1682-1979)* | **buit** |
 | **Susanna Vela i Palomares** | Cap d'àrea de l'**Arxiu Nacional**; diplomatari del segle XV | **buit** |
 | **Domènec Bascompte i Grau** | Arxiver del Comú de Canillo; diplomataris | **buit** |
-| **Joan Becat** | Citat nou cops; **cap fitxa** | **buit prioritari** |
+| **Joan Becat** | Geògraf (Univ. de Perpinyà). **La seva ponència més citada ja és llegida**: el diagnòstic migratori del 1989 | [el diagnòstic de 1989](../societat/immigracio/el-diagnostic-de-1989.md) · *la tesi en set volums segueix sense consultar* |
 | **Manuel Anglada i Ferran** | Sobre els orígens de la parla andorrana | **buit** |
 | **Cebrià Baraut** | **Cartularis** de la vall d'Andorra | **buit** |
 | **Àlvar Valls** | **Diccionari enciclopèdic d'Andorra**, 2006 | [l'obra](../historia/historiografia/el-diccionari-enciclopedic.md) |
