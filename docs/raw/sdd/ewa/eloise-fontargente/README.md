@@ -573,8 +573,10 @@ Cabrero explicar al `chef Morchon` que havia matat un home amb ulleres;
 Morchon, segons ella, l'acusà de robatori, però la declaració arribava vuit
 anys tard. **Pierre Dreyfus-Schmidt**, company de travessa, digué que Cabrero
 no oferí rescatar el ferit i denuncià un pagament de 30.000 francs per persona
-més una exigència posterior de 25.000. **Roger Lauzemberg**, en canvi, afirmà
-que el mateix Grumbach havia demanat ser abandonat. Les quantitats també
+més una exigència posterior de 25.000. Un segon company afirmà, en canvi, que
+el mateix Grumbach havia demanat ser abandonat. La transcripció web l'anomena
+**Roger Lauzemberg**, però una font posterior basada en el sumari escriu
+**Roger Lanzalbert**; la forma nominal queda oberta. Les quantitats també
 divergeixen de la reconstrucció de 1950, que parlava de 35.000 francs per
 persona.
 
@@ -620,6 +622,26 @@ reconèixer drets i gestionar exhumacions i restitucions. Per això el dossier
 és ara la via principal per reconstruir l'origen de la menció `1639` i saber
 si hi ha documents sobre el cos recuperat el 1950. S'ha preparat una consulta
 específica, no enviada i sense assumir cap cost.
+
+Una nova font publicada acosta la recerca al sumari sense substituir-lo.
+Henri Amouroux declara a *L'impitoyable guerre civile* que el **1958**, mentre
+preparava el seu primer llibre sobre la França ocupada, pogué consultar
+directament «le dossier de l'affaire Cabrero». Identifica el grup com Jacques
+Grumbach, **Pierre i André Dreyfus-Schmidt, Roger Lanzalbert i Jean-Paul
+Scherrer**. Segons la seva lectura, els cinc havien pagat 35.000 francs
+cadascun a l'estació de Tolosa; a la muntanya Cabrero reclamà 25.000 més per
+persona, rebé 40.000 en efectiu i una carta per cobrar-ne 100.000 després.
+
+Amouroux diu que Grumbach s'havia fracturat el **taló esquerre**, que Cabrero
+ja l'havia mort quan exigí el segon pagament, que simulà buscar-lo i que
+l'endemà afirmà que havia tornat cap a França. La nota de la p. 294 afegeix la
+cartera i els papers d'identitat, la defensa basada en ordres verbals d'un
+coronel mort i l'absolució del 29 de maig de 1953. És una transmissió de pes
+perquè l'autor declara haver vist l'expedient només cinc anys després del
+judici, però no en dona cota ni folis i narra l'autoria com a fet malgrat el
+veredicte absolutori. També introdueix una discrepància: data el descobriment
+el **17 de setembre de 1950**, contra el **27 de setembre** de la crònica
+contemporània de *Le Monde*. No s'han harmonitzat les dues dates.
 
 Les descàrregues directes actuals de les quatre URL de *Le Monde* només
 retornen una pàgina tècnica `Client Challenge`; es conserven per documentar el
@@ -690,6 +712,7 @@ prové de la representació web accessible, amb data i URL registrades.
 | `francesc-viadiu-fons/grumbach/consulta-arxius-ariege-esborrany.md` | Petició detallada de localització i reproducció del procés de Foix i diligències relacionades; preparada però no enviada. |
 | `francesc-viadiu-fons/grumbach/paris-etat-civil/*` | API del visor, foli complet, retalls verificats de l'acta 1137 i la menció marginal, OCR de context, hashes i transcripció diplomàtica de treball. |
 | `francesc-viadiu-fons/grumbach/shd-21p/*` | Instrument oficial, fitxa ARK `735776`, cerca per cota, nota crítica i consulta no enviada del dossier de Caen `AC 21 P 199748`. |
+| `francesc-viadiu-fons/grumbach/livre/*` | Mostra pública de l'edició Metvox 2020 d'Henri Amouroux, extracció, renders verificats de les p. 293–294, metadades editorials i lectura crítica de la consulta declarada del dossier Cabrero el 1958. |
 | `internet-archive-isbn-search.json` | Cerca pels ISBN català i francès: zero resultats. |
 | `openlibrary-isbn-search.json` | Registre bibliogràfic sense ebook ni text complet. |
 
