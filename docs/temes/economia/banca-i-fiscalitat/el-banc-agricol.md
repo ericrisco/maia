@@ -187,3 +187,4 @@ de desplaçar-se fora per dipositar els seus estalvis**».
 - [Boris Skossyreff](../../historia/segle-xx-primera-meitat/boris-skossyreff.md) — per què sonava creïble.
 - [El cas BPA](./el-cas-bpa.md) — la banca, vuitanta anys després.
 - [Banca i fiscalitat](./banca-i-fiscalitat.md) — la branca.
+- [La Cambra de Comerç i la formació](../comerc/la-cambra-de-comerc-i-la-formacio.md) — els bancs pagant els cursos dels dependents, el 2000.

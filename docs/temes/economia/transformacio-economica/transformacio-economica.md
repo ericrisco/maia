@@ -54,3 +54,4 @@ lectura i li falten els fets que la sostinguin amb precisió. **Buit registrat, 
 ## Related
 
 - [El tabac](../tabac/tabac.md) · [Contraban](../../historia/contraban/contraban.md) · [Comerç](../comerc/comerc.md) · [Banca](../banca-i-fiscalitat/banca-i-fiscalitat.md)
+- [La Cambra de Comerç i la formació](../comerc/la-cambra-de-comerc-i-la-formacio.md) — el país forma titulats a fora per a una economia que no els pot col·locar.

@@ -46,3 +46,4 @@ font primària no consultada. **Buit registrat.**
 - [Turisme i neu](../turisme-i-neu/turisme-i-neu.md) — qui ve a comprar.
 - [Contraban](../../historia/contraban/contraban.md) — el que hi havia abans.
 - [Banca i fiscalitat](../banca-i-fiscalitat/banca-i-fiscalitat.md) — el que ho finança.
+- [La Cambra de Comerç i la formació](./la-cambra-de-comerc-i-la-formacio.md) — l'aparadorisme com a formació professional.

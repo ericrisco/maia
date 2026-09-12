@@ -105,7 +105,9 @@ La llei li fixa **quatre finalitats**:
 Dues coses que val la pena no deixar passar:
 
 - **La Cambra de Comerç seu al comitè director d'un institut de recerca.** No és
-  habitual. Diu alguna cosa sobre com de curt és el camí entre institucions en
+  habitual — i **no és una excepció sinó el mètode**: la mateixa Cambra seu també
+  al consell d'administració del **Liceu Comte de Foix**
+  ([la Cambra de Comerç](../../economia/comerc/la-cambra-de-comerc-i-la-formacio.md)). Diu alguna cosa sobre com de curt és el camí entre institucions en
   un país petit — vegeu
   [Andorra vista de fora](../../cultura/andorra-vista-de-fora/andorra-vista-de-fora.md)
   per l'efecte que això fa als observadors.

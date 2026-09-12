@@ -149,6 +149,13 @@ amb el pressupost.**
 el sector que sosté Andorra.** No diu que faltin alumnes: diu que **el sector
 hoteler andorrà no demanava personal format i no creia que en calgués**.
 
+**I la patronal ho confirma des de l'altra banda**, al mateix volum, afegint-hi
+la meitat que falta: «el més preocupant és que **l'hoteleria i la restauració no
+semblen atractives com a elecció per als joves**»
+([la Cambra de Comerç](../../economia/comerc/la-cambra-de-comerc-i-la-formacio.md)).
+**Quan la part que hi perd i la part que hi guanya diuen el mateix, el fet és
+sòlid.**
+
 Creueu-ho amb:
 
 - [De la fonda a l'hotel](../../economia/turisme-i-neu/de-la-fonda-a-lhotel.md) —
@@ -235,4 +242,5 @@ volum expliquen com els pares trien sistema educatiu.
 - [Treball](../treball/treball.md)
 - [L'acomiadament lliure](../treball/lacomiadament-lliure.md)
 - [De la fonda a l'hotel](../../economia/turisme-i-neu/de-la-fonda-a-lhotel.md)
+- [La Cambra de Comerç i la formació](../../economia/comerc/la-cambra-de-comerc-i-la-formacio.md) — el mateix projecte, vist des de la patronal.
 - [L'Efpem](../../esports/formacio-esportiva/lefpem.md) — l'altra formació professional del país.
