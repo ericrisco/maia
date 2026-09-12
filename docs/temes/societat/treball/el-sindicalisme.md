@@ -133,7 +133,11 @@ l'Organització Internacional del Treball**.
 1. **Quan s'aprova finalment la llei de sindicats.** El corpus s'atura el 2002.
    **Buit prioritari** — cal portar aquesta fitxa al present.
 2. **L'article 18 de la Constitució**, text literal.
-3. **Què és el CRES** i si publica encara.
+3. ~~**Què és el CRES**~~ — **tancat**: és el **Centre de Recerca Sociològica**
+   de l'IEA, creat la primavera del 2000 amb un director i dos becaris per
+   «proporcionar elements als gestors públics». Vegeu
+   [l'Institut d'Estudis Andorrans](../../cultura/museus-i-arxius/linstitut-destudis-andorrans.md).
+   **Segueix obert si publica encara.**
 4. **Quants afiliats** tenien i tenen.
 5. **Quan es reconeix legalment el SAT.**
 6. El **Reglament laboral** i la **Llei d'associacions** que el SAT volia
@@ -149,3 +153,4 @@ l'Organització Internacional del Treball**.
 - [Treball](./treball.md) — la branca.
 - [Els tres sistemes](../educacio/els-tres-sistemes.md) — per què els mestres francesos feien vaga.
 - [Associacionisme](../associacionisme/associacionisme.md) — l'altra cara.
+- [L'Institut d'Estudis Andorrans](../../cultura/museus-i-arxius/linstitut-destudis-andorrans.md) — qui és el CRES que va fer l'enquesta.

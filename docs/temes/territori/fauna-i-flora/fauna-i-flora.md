@@ -90,3 +90,4 @@ Amb boscos de **pi negre** i **avet**, **prats alpins**, **zones humides** i
 - [La vall del Madriu-Perafita-Claror](../patrimoni-natural/madriu-perafita-claror.md)
 - [Geografia física](../geografia-fisica/geografia-fisica.md)
 - [Glossari de mots documentats](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) — els noms populars.
+- [L'Institut d'Estudis Andorrans](../../cultura/museus-i-arxius/linstitut-destudis-andorrans.md) — el Centre de Biodiversitat i els seus vuit inventaris.

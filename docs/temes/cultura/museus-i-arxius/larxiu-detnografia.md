@@ -128,6 +128,7 @@ saber què van signar les persones entrevistades.**
 ## Related
 
 - [L'Arxiu Nacional](./larxiu-nacional.md) — l'altra institució d'arxiu.
+- [L'Institut d'Estudis Andorrans](./linstitut-destudis-andorrans.md) — la casa on viu la recerca andorrana.
 - [La societat segmentada](../../societat/immigracio/la-societat-segmentada.md) — què en van concloure.
 - [Cultura popular](../cultura-popular/cultura-popular.md) — el buit que podria tancar.
 - [Els usos i costums](../cultura-popular/els-usos-i-costums.md) — els informants que es moren.

@@ -64,3 +64,4 @@ no existeixi, és informació que existeix i encara no s'ha anat a buscar.
 - [El Manual Digest](../../historia/manual-digest/manual-digest.md) — el text que hi espera.
 - [El Consell General](../../institucions/consell-general/el-consell-general.md) — qui publica les actes.
 - [Fraseologia](../../llengua/fraseologia/fraseologia.md) — el buit que aquests fons podrien tancar.
+- [L'Institut d'Estudis Andorrans](./linstitut-destudis-andorrans.md) — qui encarrega i publica la recerca del país.

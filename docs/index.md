@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**210** documents · **33** fonts · **0** aptes com a model de llengua · **96** temes amb contingut.
+**211** documents · **34** fonts · **0** aptes com a model de llengua · **96** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -136,6 +136,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [L'Arxiu d'Etnografia d'Andorra](temes/cultura/museus-i-arxius/larxiu-detnografia.md) | `temes/cultura/museus-i-arxius` | compilada | contemporania | no | `de-la-parte-immigracio-cultura` |
 | [L'Arxiu Nacional d'Andorra](temes/cultura/museus-i-arxius/larxiu-nacional.md) | `temes/cultura/museus-i-arxius` | compilada | contemporania | no | `viquipedia-ca` |
+| [L'Institut d'Estudis Andorrans](temes/cultura/museus-i-arxius/linstitut-destudis-andorrans.md) | `temes/cultura/museus-i-arxius` | compilada | contemporania | no | `guillamet-la-recerca` |
 | [Museus i arxius](temes/cultura/museus-i-arxius/museus-i-arxius.md) | `temes/cultura/museus-i-arxius` | compilada | contemporania | no | `consell-general-web` |
 
 ## temes/cultura/musica-i-cancons
@@ -713,6 +714,7 @@
 | [`ferrer-percepcio-andorra-exterior`](fonts/ferrer-percepcio-andorra-exterior.md) | Josep Ferrer i Altimira · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`font-fenomens-socials-immigracio`](fonts/font-fenomens-socials-immigracio.md) | Agustí Font · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`govern-andorra-web`](fonts/govern-andorra-web.md) | Govern del Principat d'Andorra | informació institucional pública | si |
+| [`guillamet-la-recerca`](fonts/guillamet-la-recerca.md) | Jordi Guillamet i Anton · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`iec-aldc-andorra`](fonts/iec-aldc-andorra.md) | Institut d'Estudis Catalans | publicació acadèmica de l'IEC, accés obert | pendent |
 | [`iec-vocabulari-andorra`](fonts/iec-vocabulari-andorra.md) | Institut d'Estudis Catalans · Servei de Política Lingüística del Govern d'Andorra | publicació acadèmica de l'IEC, accés obert | pendent |
 | [`lacueva-hoteleria`](fonts/lacueva-hoteleria.md) | Ludmilla Lacueva i Canut · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |

@@ -112,7 +112,7 @@ El corpus no tenia cap d'aquestes, i totes són **andorranes**:
 | **OMA** | Observatori de la Muntanya d'Andorra (`oma.ad`) |
 | **Servei Meteorològic d'Andorra** | — |
 | **Oficina de l'Energia i del Canvi Climàtic** | Ministeri de Medi Ambient, Agricultura i Sostenibilitat |
-| **CRES-IEA** | Centre de Recerca Sociològica |
+| **CRES-IEA** | Centre de Recerca Sociològica — [fitxa](../../cultura/museus-i-arxius/linstitut-destudis-andorrans.md) |
 | **ADN** | Associació per a la Defensa de la Natura |
 | **APAPMA** | associació de protecció del medi ambient |
 | **Centre Andorra Sostenible** | pedagogia ambiental |
@@ -140,7 +140,10 @@ publicació pròpia**.
   (CENMA) i el corpus no l'ha llegida.
 - **El recurs hídric**, amb ponència de **Cristina Pesado**, Marc Pons i
   **Juan-Ignacio López Moreno** (IPE-CSIC).
-- **La percepció ciutadana**, amb dades del **CRES** des del **2002**.
+- **La percepció ciutadana**, amb dades del **CRES** des del **2002** — i el
+  CRES ja tenia, el 2000, **una enquesta sobre els riscos naturals** entre les
+  seves previsions immediates
+  ([l'IEA](../../cultura/museus-i-arxius/linstitut-destudis-andorrans.md)).
 - **La vinya**: hi ha ponència sobre **el celler Casa Auvinyà** i la
   climatologia dels seus vins — **cosa que respon, de retruc, la pregunta que
   [begudes](../../gastronomia/begudes/README.md) deixava oberta: sí que hi ha
