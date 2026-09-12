@@ -112,7 +112,9 @@ generació més tard. Vegeu [el ferro](../../cultura/artesania/el-ferro.md) i
 1. La **sentència de 1731** — text, qui la dicta, què deia exactament.
 2. **Quina epidèmia** va delmar els ramats i amb quines pèrdues.
 3. Les **xifres** de cabana ovina al llarg dels segles.
-4. La **transhumància**: rutes, calendari, quan s'acaba. Segueix sent buit.
+4. ~~La **transhumància**: rutes, calendari, quan s'acaba.~~ **Calendari i final,
+   tancats:** [La transhumància](./la-transhumancia.md). **Les rutes concretes
+   segueixen sent buit.**
 5. **Els cartons** antics i els actuals: dues fitxes, no una.
 6. **Orris i pletes**: definició, construcció, inventari.
 

@@ -172,7 +172,11 @@ difícilment se solucionarà si no és **per un compromís polític**.
   contenciós.
 - **La Concòrdia**: on és, quin acord la va crear, i entre qui. **Buit
   prioritari** — Becat la cita com a cabdal i el corpus no la té.
-- **La transhumància** andorrana: rutes, dates, qui hi anava.
+- **La transhumància** andorrana: **dates i final, tancats** a
+  [La transhumància](../../economia/ramaderia-i-agricultura/la-transhumancia.md),
+  que hi afegeix una cosa que canvia com s'ha de llegir aquesta fitxa: **quan una
+  parròquia guanyava una muntanya, no hi pujava el seu bestiar — la llogava**.
+  **Rutes i qui hi anava: segueixen sent buit.**
 - El **tractat** que fixa la frontera nord, citat aquí com a «de Corbeil» a
   partir d'una lectura OCR dubtosa. **Verificar.**
 - **Joan Becat** i la seva obra sobre Andorra.

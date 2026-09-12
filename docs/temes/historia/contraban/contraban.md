@@ -59,6 +59,8 @@ qualsevol resum. **Buit registrat.**
 
 ## Related
 
+- [L'empresa del contraban](./lempresa-del-contraban.md) — com estava organitzat, i qui hi guanyava.
+
 - [El tabac](../../economia/tabac/tabac.md) — l'origen.
 - [Guerres i neutralitat](../guerres-i-neutralitat/guerres-i-neutralitat.md) — el context bèl·lic.
 - [Lèxic andorrà](../../llengua/lexic-andorra/lexic-andorra.md) — on viu *paquetaire*.

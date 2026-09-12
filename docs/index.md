@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**294** documents · **83** fonts · **0** aptes com a model de llengua · **107** temes amb contingut.
+**296** documents · **84** fonts · **0** aptes com a model de llengua · **107** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -190,6 +190,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [La crisi de l'oví](temes/economia/ramaderia-i-agricultura/la-crisi-de-lovi.md) | `temes/economia/ramaderia-i-agricultura` | compilada | contemporania | no | `mas-pagesos-i-artesans` |
+| [La transhumància](temes/economia/ramaderia-i-agricultura/la-transhumancia.md) | `temes/economia/ramaderia-i-agricultura` | compilada | contemporania | no | `becat-vida-pastoral` |
 | [La vinya i el tabac](temes/economia/ramaderia-i-agricultura/la-vinya-i-el-tabac.md) | `temes/economia/ramaderia-i-agricultura` | compilada | contemporania | no | `mas-pagesos-i-artesans` |
 | [L'agricultura de subsistència](temes/economia/ramaderia-i-agricultura/lagricultura-de-subsistencia.md) | `temes/economia/ramaderia-i-agricultura` | compilada | contemporania | no | `mas-pagesos-i-artesans` |
 | [Les mules](temes/economia/ramaderia-i-agricultura/les-mules.md) | `temes/economia/ramaderia-i-agricultura` | compilada | contemporania | no | `mas-pagesos-i-artesans` |
@@ -295,6 +296,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [El contraban](temes/historia/contraban/contraban.md) | `temes/historia/contraban` | compilada | contemporania | no | `viquipedia-ca` |
+| [L'empresa del contraban](temes/historia/contraban/lempresa-del-contraban.md) | `temes/historia/contraban` | compilada | contemporania | no | `brutails-coutume-1904` |
 
 ## temes/historia/democratitzacio
 
@@ -844,6 +846,7 @@
 | [`bascompte-privilegis`](fonts/bascompte-privilegis.md) | Domènec Bascompte i Grau · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`bastida-roser-ensenyament-andorra`](fonts/bastida-roser-ensenyament-andorra.md) | Roser Bastida i Areny · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`bastida-universitat-andorra`](fonts/bastida-universitat-andorra.md) | Daniel Bastida i Obiols · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`becat-vida-pastoral`](fonts/becat-vida-pastoral.md) | Joan (Jean) Becat | document de divulgació per a ensenyants; sense llicència explícita | pendent |
 | [`boladeres-ensenyament-espanyol`](fonts/boladeres-ensenyament-espanyol.md) | Antoni Boladeres i Sorribes · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`brutails-coutume-1904`](fonts/brutails-coutume-1904.md) | J.-A. Brutails · Ernest Leroux, éditeur, París · obra de 1904, domini públic | domini públic per antiguitat; digitalització de Google Books | si |
 | [`cairal-escola-andorrana`](fonts/cairal-escola-andorrana.md) | M. Teresa Cairat i Vila · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
