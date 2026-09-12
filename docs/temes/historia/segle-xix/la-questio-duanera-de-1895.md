@@ -180,15 +180,19 @@ tot l'anterior:
 2. **Si el bisbe d'Urgell va informar realment en contra.** Acusació de premsa,
    no confirmada dins la font.
 3. **Si la franquícia va arribar a aplicar-se mai**, i fins quan.
-4. **Què en deien a Andorra.** Tota aquesta fitxa és des de Madrid: **no hi ha ni
-   una veu andorrana**. Qui va demanar la gestió, qui la va negociar, què en va
-   dir el Consell General.
+4. **Què en deien a Andorra** d'aquest afer duaner concret. Tota aquesta fitxa és
+   des de Madrid. **Parcialment tancat:** el corpus ja té la veu del Consell
+   General d'aquells mateixos mesos —[La qüestió d'Andorra](./la-questio-dandorra.md),
+   signada l'**18 d'octubre de 1894**—, però **allà no es parla de duanes**: es
+   parla de sobirania. Qui va demanar la gestió a Madrid i qui la va negociar,
+   segueix sense saber-se.
 5. **El plet.** El ministre de Foment esmenta que «la qüestió pèn ja davant els
    tribunals de justícia». Quin plet, i com va acabar.
 
 ## Related
 
 - [El que Andorra comprava a Espanya](../../economia/comerc/el-que-andorra-comprava-a-espanya.md) — l'inventari que acompanya l'addició.
+- [La qüestió d'Andorra](./la-questio-dandorra.md) — el mateix bisbe, el mateix any, l'altre conflicte.
 - [El contraban](../contraban/contraban.md) — el que produeix un aranzel.
 - [La Nova Reforma de 1866](./nova-reforma.md) — l'altre extrem del segle.
 - [El coprincipat](../../institucions/coprincipat/el-coprincipat.md) — la institució que hi apareix acusada.

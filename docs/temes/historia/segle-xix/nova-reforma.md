@@ -31,16 +31,47 @@ la casa, a través seu.
 Aquesta és la raó que l'onomàstica andorrana giri tant al voltant del nom de casa
 i no només del cognom: durant segles, **la casa era el subjecte polític**.
 
+## Una acusació sobre el text mateix
+
+El **1894**, el **Consell General** va escriure al bisbe d'Urgell i al Papa una
+cosa que obliga a llegir aquesta llei amb la guàrdia alta
+([font](../../../fonts/la-cuestion-de-andorra-1894.md)):
+
+> «**No es tampoco exacto lo que se dice relativo á la Reforma, ó ley electoral,
+> pues no la redactó aquel Sr. Obispo, sino el pueblo andorrano**... con la
+> particularidad que el encargado de hacerla imprimir en Seo de Urgel, **admitió
+> del Sr. Obispo Caixal, sin saberlo el Consejo, la adición de que se podía
+> acudir al Príncipe Soberano**.»
+
+Dues coses hi ha, i totes dues importen:
+
+1. **La reforma no la va redactar el bisbe**, diu el Consell General, **sinó el
+   poble andorrà**. El bisbe la va aprovar.
+2. **Hi hauria una clàusula que no va votar ningú**, afegida a la impremta de la
+   Seu d'Urgell, i és precisament **la que obre el recurs al «Príncep Sobirà»**.
+   El Consell hi afegeix que «la misma redacción del **artículo 11** de dicha ley
+   demuestra que la adición fué subrepticia».
+
+> **Això és una acusació d'una part en un conflicte, trenta anys després**, i el
+> corpus no la dona per bona. Però mentre no es comprovi, **el text de 1866 que
+> ha arribat fins avui podria no ser el que es va aprovar**.
+
+Es comprova d'una manera concreta: **comparant l'original del Consell amb
+l'imprès de la Seu**. Buit registrat.
+
 ## El que falta
 
 Què va motivar la reforma i contra què. Qui era Areny i Plandolit i amb qui es va
-enfrontar. Què va passar els anys següents. I l'anomenada «Qüestió d'Andorra» del
-segle XIX, que apareix esmentada a la bibliografia i no s'ha investigat.
+enfrontar.
 
-**Buit registrat.** Aquest article té una dada i un context, no una història.
+L'anomenada **«Qüestió d'Andorra»** del segle XIX, que aquest article registrava
+com a no investigada, **ja té fitxa**:
+[La qüestió d'Andorra](./la-questio-dandorra.md) — un quart de segle de conflicte
+amb el copríncep episcopal, amb els períodes datats i l'origen documentat.
 
 ## Related
 
+- [La qüestió d'Andorra](./la-questio-dandorra.md) — el conflicte que ve tot seguit, i l'acusació sobre aquesta llei.
 - [Democratització](../democratitzacio/democratitzacio.md) — què va venir després.
 - [Onomàstica](../../llengua/onomastica/onomastica.md) — la casa com a identitat.
 - [El Consell General](../../institucions/consell-general/el-consell-general.md) — la institució reformada.

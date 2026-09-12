@@ -258,7 +258,7 @@ articles i versions de cadascuna, és a
 | `vilar-andorre-1904` | Obra sobre Andorra, **1904** | **URL no registrada.** Cal reconstruir-la |
 | `andre-vilar-andorre` | Variant de la mateixa obra | **URL no registrada** |
 | `brutails-coutume` | **J.-A. Brutails**, sobre el costum andorrà | **URL no registrada** |
-| `la-cuestion-de-andorra-1894` | *La cuestión de Andorra*, **1894** | **URL no registrada** |
+| `la-cuestion-de-andorra-1894` | **Les exposicions del Consell General al bisbe d'Urgell i al Papa**, Barcelona, Tipografia de M. Rovira, **1894** | **Digitalització de Google Books** d'un exemplar de biblioteca (codi 3 2044 103 248 027). Domini públic. **Té fitxa:** [`la-cuestion-de-andorra-1894`](../fonts/la-cuestion-de-andorra-1894.md). URL exacta pendent. **El PDF conté el llibre duplicat** |
 
 **Aquests fitxers venen de sessions anteriors i l'URL exacte no consta.** El
 corpus **no se l'inventa**: queda com a **buit de procedència a tancar** abans

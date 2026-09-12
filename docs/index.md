@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**276** documents · **75** fonts · **0** aptes com a model de llengua · **105** temes amb contingut.
+**277** documents · **76** fonts · **0** aptes com a model de llengua · **105** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -360,6 +360,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Guillem d'Areny-Plandolit](temes/historia/segle-xix/guillem-dareny-plandolit.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `viquipedia-ca` |
+| [La qüestió d'Andorra](temes/historia/segle-xix/la-questio-dandorra.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `la-cuestion-de-andorra-1894` |
 | [La qüestió duanera de 1895](temes/historia/segle-xix/la-questio-duanera-de-1895.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `diario-sesiones-corts-1895` |
 | [La Nova Reforma de 1866](temes/historia/segle-xix/nova-reforma.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `viquipedia-ca` |
 
@@ -845,6 +846,7 @@
 | [`iec-vocabulari-andorra`](fonts/iec-vocabulari-andorra.md) | Institut d'Estudis Catalans · Servei de Política Lingüística del Govern d'Andorra | publicació acadèmica de l'IEC, accés obert | pendent |
 | [`insa-ensenyament-salut`](fonts/insa-ensenyament-salut.md) | Anna Insa i Canel · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`jurisprudencia-ad`](fonts/jurisprudencia-ad.md) | Eric Risco · Jurisprudència.ad | norma oficial andorrana (pública per naturalesa); la consolidació és feina del projecte | si |
+| [`la-cuestion-de-andorra-1894`](fonts/la-cuestion-de-andorra-1894.md) | Consell General dels Valls d'Andorra · obra de 1894, domini públic | domini públic per antiguitat; digitalització de Google Books a partir d'un exemplar de biblioteca | si |
 | [`lacueva-hoteleria`](fonts/lacueva-hoteleria.md) | Ludmilla Lacueva i Canut · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`llegendes-dandorra-llibre`](fonts/llegendes-dandorra-llibre.md) | Roser Carol i Àlvar Valls · Editorial andorrana | obra literària amb drets reservats | False |
 | [`llovera-visio-del-treballador`](fonts/llovera-visio-del-treballador.md) | Xavier Llovera i Massana · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
