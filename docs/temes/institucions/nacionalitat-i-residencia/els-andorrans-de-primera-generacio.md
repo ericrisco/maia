@@ -180,8 +180,9 @@ nacionals** en l'altra.
 - Les altres ponències d'aquesta mateixa Diada: ~~**Ramon Viñas**, *Nacionalitat
   andorrana, present i futur*~~ **LLEGIDA** —
   [el Codi de la nacionalitat de 1977](./el-codi-de-la-nacionalitat-de-1977.md)—;
-  **Martina Camiade**, *Concepte d'identitat a través de la història andorrana*,
-  **encara no**.
+  ~~**Martina Camiade**, *Concepte d'identitat a través de la història
+  andorrana*~~ **LLEGIDA** —
+  [la casa als papers](../../historia/antic-regim/la-casa-als-papers.md).
 
 ## Related
 

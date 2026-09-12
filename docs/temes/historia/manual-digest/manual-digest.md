@@ -56,7 +56,33 @@ corpus amb `epoca: historica` i `apte_llengua: false`: val com a coneixement i
 com a cita atribuïda, i no val com a model de com es parla avui. Entrenar un
 model amb ell sense marcar-ho el faria parlar com un jurista del set-cents.
 
+## El capítol tercer, i els andorrans com a catalans
+
+**El corpus no tenia cap citació literal del Manual Digest sobre la relació amb
+Catalunya.** Martina Camiade en dona una, del **capítol tercer**
+([font](../../../fonts/camiade-concepte-didentitat-1990.md)):
+
+> «**Són pròpia i vertadera Catalunya com a part d'aquest Principat, andorrans
+> són pròpiament catalans en tot rigor i gosen com a tals vàries prerrogatives en
+> ell.**»
+
+**I la meitat que no es cita mai.** Segons la mateixa autora, Fiter «remarca que
+**si bé Andorra deu alguna cosa als catalans, per haver estat abans del 1278 part
+de Catalunya, ara és diferent i és un coprincipat**».
+
+**Fiter i Rossell diu les dues coses**: els andorrans **són catalans en tot
+rigor** *i* Andorra **ja no és Catalunya des dels pariatges**. **Qui n'agafi
+només la primera meitat li fa dir el contrari del que diu**, i el corpus ja ha
+vist que passa
+([la salut mental](../../societat/sanitat/la-salut-mental.md)).
+
+**Aquesta citació és de segona mà i ho és fins que no es comprovi.** Vegeu
+[la casa als papers](../antic-regim/la-casa-als-papers.md).
+
 ## El que falta
+
+**Verificar la citació del capítol tercer contra el text del Manual Digest.**
+**Prioritari.**
 
 El text sencer. Se n'hauria de localitzar una edició consultable i citable, i
 transcriure'n les màximes una a una amb la seva referència. **Buit registrat.**

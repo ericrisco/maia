@@ -152,10 +152,18 @@ De passada, l'autor fa una afirmació que toca el nucli del corpus: que la
 població històrica d'Andorra era **«de cultura andorrana/catalana (per Fiter i
 Rossell no hi ha una diferència essencial)»**.
 
-**És una lectura de l'autor sobre el Manual Digest, no una citació.** El corpus
-la registra **com a interpretació** i la deixa al costat del que sí que té
-documentat a [el Manual Digest](../../historia/manual-digest/manual-digest.md).
-**Buit registrat:** on diu això Fiter i Rossell, exactament.
+**És una lectura de l'autor sobre el Manual Digest, no una citació.**
+
+~~**Buit registrat:** on diu això Fiter i Rossell, exactament.~~ **TANCAT.**
+Martina Camiade en dona el capítol i el text —**capítol tercer del Manual Digest
+de 1748**—: «**Són pròpia i vertadera Catalunya com a part d'aquest Principat,
+andorrans són pròpiament catalans en tot rigor**»
+([la casa als papers](../../historia/antic-regim/la-casa-als-papers.md)).
+
+**Però la lectura d'Obiols n'agafa mitja.** El mateix Fiter, segons Camiade,
+«remarca que si bé Andorra deu alguna cosa als catalans, **per haver estat abans
+del 1278 part de Catalunya, ara és diferent i és un coprincipat**». **Les dues
+coses són al mateix autor**, i el corpus les deixa totes dues.
 
 ## El que falta
 
@@ -166,8 +174,9 @@ documentat a [el Manual Digest](../../historia/manual-digest/manual-digest.md).
 - **Si hi ha unitat d'internament** al país o si els casos greus es deriven.
 - **Si la recerca del 2002 es va reprendre.**
 - **El congrés del 2001**: actes i publicacions que en van sortir.
-- **On diu Fiter i Rossell** que no hi ha diferència essencial entre la cultura
-  andorrana i la catalana.
+- ~~**On diu Fiter i Rossell** que no hi ha diferència essencial.~~ **TANCAT**:
+  capítol tercer del Manual Digest, via Camiade. **Queda obert verificar-ho
+  contra el text del Manual Digest mateix**: és una citació de segona mà.
 
 ## Related
 
