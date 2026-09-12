@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**305** documents · **86** fonts · **0** aptes com a model de llengua · **107** temes amb contingut.
+**306** documents · **87** fonts · **0** aptes com a model de llengua · **107** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -385,6 +385,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Boris Skossyreff, rei d'Andorra](temes/historia/segle-xx-primera-meitat/boris-skossyreff.md) | `temes/historia/segle-xx-primera-meitat` | compilada | contemporania | no | `viquipedia-ca` |
+| [La primera policia](temes/historia/segle-xx-primera-meitat/la-primera-policia.md) | `temes/historia/segle-xx-primera-meitat` | compilada | contemporania | no | `tarrene-influencies-multiculturals` |
 | [La Revolució de 1933](temes/historia/segle-xx-primera-meitat/la-revolucio-de-1933.md) | `temes/historia/segle-xx-primera-meitat` | compilada | contemporania | no | `viquipedia-ca` |
 | [Les vagues de FHASA](temes/historia/segle-xx-primera-meitat/les-vagues-de-fhasa.md) | `temes/historia/segle-xx-primera-meitat` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 
@@ -922,6 +923,7 @@
 | [`serra-educacio-especialitzada`](fonts/serra-educacio-especialitzada.md) | Carolina Serra i Areny · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`serra-vatica-microestat`](fonts/serra-vatica-microestat.md) | Jaume Serra i Serra · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`societat-andorrana-ciencies`](fonts/societat-andorrana-ciencies.md) | Societat Andorrana de Ciències (Andorra) | publicació acadèmica en accés obert | pendent |
+| [`tarrene-influencies-multiculturals`](fonts/tarrene-influencies-multiculturals.md) | Claudine Tarrene i Fabresse · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
 | [`toquec-ensenyament-frances`](fonts/toquec-ensenyament-frances.md) | Jean-Alain Toquec · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`ubach-moviments-socials`](fonts/ubach-moviments-socials.md) | Gabriel Ubach i Valdivia · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`valero-escola-privada`](fonts/valero-escola-privada.md) | Fátima Valero i Alcaide · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |

@@ -88,7 +88,15 @@ relació real entre les dues coses.
 
 ## El que falta
 
-- **Les dates exactes** de cadascuna de les quatre vagues.
+- ~~**Les dates exactes** de cadascuna de les quatre vagues.~~ **TANCAT A MITGES.**
+  Claudine Tarrene les dona **per períodes**, no per dies: «diverses vagues
+  **entre l'abril i el juliol del 1931**, i també, **l'agost i el setembre del
+  1933**»
+  ([font](../../../fonts/tarrene-influencies-multiculturals.md)). Queda obert
+  **el dia exacte** de cadascuna. I la data d'abril del 1931 val doble: el
+  **Servei d'Ordre**, la primera policia d'Andorra, es constitueix
+  **el 15 de maig de 1931**, és a dir **enmig d'aquella tanda de vagues**
+  ([la primera policia](./la-primera-policia.md)).
 - **Les reivindicacions concretes** i com es van resoldre.
 - **Joan Vehils**, la font de tot això, i la seva obra. **No identificada aquí.**
 - El llibre de **René Baulard** (**1934**), que és **font primària del cap de la
@@ -105,3 +113,4 @@ relació real entre les dues coses.
 - [La Revolució de 1933](./la-revolucio-de-1933.md)
 - [Democratització](../democratitzacio/democratitzacio.md)
 - [Immigració](../../societat/immigracio/immigracio.md)
+- [La primera policia](./la-primera-policia.md) — el cos que neix el 15 de maig de 1931, a proposta de FHASA.

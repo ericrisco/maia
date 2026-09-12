@@ -128,6 +128,16 @@ arribar amb elles va ser **gent**.
 > provocar problemes socials, l'any 1931, amb una sèrie de vagues i l'arribada
 > dels gendarmes**.»
 
+**Atenció a «l'arribada dels gendarmes» d'aquesta frase.** Les entrades de
+gendarmeria francesa que el corpus té datades i documentades són **les del
+1933**
+([la Revolució de 1933](../../historia/segle-xx-primera-meitat/la-revolucio-de-1933.md)).
+El que sí que consta el **1931** és **la creació de la primera policia
+andorrana**, el Servei d'Ordre, el **15 de maig**
+([la primera policia](../../historia/segle-xx-primera-meitat/la-primera-policia.md)).
+**El corpus no pot arbitrar si Camiade avança el 1933 o si el 1931 també hi va
+haver gendarmes. Buit registrat.**
+
 I una nota al peu que val or:
 
 > «**Molts d'ells pertanyen a la confederació regional del treball.**»
@@ -145,8 +155,21 @@ primera onada és de 1931 i és de carreteres, no de central**.
 3. **El despoblament de Canillo**: on va anar aquella gent.
 4. **Quan es crea Escaldes-Engordany** com a parròquia i com afecta les sèries.
 5. **La carretera de 1916**: qui la va fer i amb quins obrers.
-6. **La clàusula de carreteres** dins la concessió de 1929 — text.
+6. ~~**La clàusula de carreteres** dins la concessió de 1929 — text.~~
+   **TANCAT A MITGES.** Claudine Tarrene en dona **el contingut**, encara que no
+   el text literal: la companyia «havia de comprometre's a **reservar 1/10 de
+   l'energia disponible per als andorrans** i a **crear la infraestructura
+   necessària per connectar les línies de comunicació entre les parròquies**», i
+   ho anomena **«dues condicions sine qua non»**
+   ([font](../../../fonts/tarrene-influencies-multiculturals.md)). Queda obert
+   **el text articulat**. La mateixa font cita **l'article 17** del mateix
+   contracte, que és el que va crear la primera policia
+   ([la primera policia](../../historia/segle-xx-primera-meitat/la-primera-policia.md))
+   — de manera que **el contracte de concessió tenia almenys disset articles i
+   regulava molt més que l'aigua**.
 7. **Quants dels obrers de 1931** eren de la CNT i què se'n va fer.
+8. **Si el 1931 van entrar gendarmes francesos**, o si la frase de Camiade avança
+   els fets del 1933.
 
 ## Related
 
@@ -157,3 +180,4 @@ primera onada és de 1931 i és de carreteres, no de central**.
 - [Les vagues de FHASA](../../historia/segle-xx-primera-meitat/les-vagues-de-fhasa.md) — el conflicte.
 - [La transformació econòmica](../../economia/transformacio-economica/transformacio-economica.md) — el marc.
 - [La composició per nacionalitats](./la-composicio-per-nacionalitats.md) — la sèrie sencera del 1900 al 2020.
+- [La primera policia](../../historia/segle-xx-primera-meitat/la-primera-policia.md) — el que Andorra va fer el 1931 amb la gent que arribava.
