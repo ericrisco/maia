@@ -153,3 +153,4 @@ Vegeu [Boris Skossyreff](./boris-skossyreff.md).
 - [Boris Skossyreff](./boris-skossyreff.md) — l'any següent.
 - [Democratització](../democratitzacio/democratitzacio.md) — el camí del vot.
 - [La Casa de la Vall](../../institucions/patrimoni-institucional/casa-de-la-vall.md) — l'edifici ocupat.
+- [El sufragi universal masculí](../../politica/sistema-electoral/el-sufragi-universal-masculi.md) — què va passar amb el dret del 1933 els anys 40.

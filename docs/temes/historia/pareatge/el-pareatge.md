@@ -61,3 +61,4 @@ entre elles s'ha de documentar abans d'afirmar-la.
 
 - [El Coprincipat](../../institucions/coprincipat/el-coprincipat.md) — què va sortir d'aquí.
 - [El reconeixement internacional](../../institucions/relacions-exteriors/el-reconeixement-internacional.md) — set-cents anys després, què en quedava en dret internacional.
+- [La consciència nacional andorrana](../../politica/identitat-politica/la-consciencia-nacional-andorrana.md) — què hi van guanyar els andorrans, segons Antoni Pol.

@@ -25,7 +25,7 @@ de desembre de 1419.**
 | Data | Qui |
 | --- | --- |
 | **11 de febrer de 1419** | **Privilegi del bisbe d'Urgell Francesc de Tovia** (vegeu més avall), en resposta a la demanda dels prohoms |
-| **17 de desembre de 1419** | **El representant del veguer del comte de Foix el valida** |
+| **17 de desembre de 1419** | **Ramon de Capdevila**, lloctinent del veguer del comte de Foix, **el ratifica** |
 
 ### La contradicció dels dos bisbes, i com s'ha tancat
 
@@ -62,6 +62,21 @@ Tovia»**.
 perquè **un error publicat circula**: qualsevol que llegeixi el cos del volum del
 2018 se n'endurà el nom equivocat.
 
+### I hi ha un segon Andreu
+
+**Susanna Vela dona el nom de qui formula la demanda del 1419**, i no és cap
+bisbe ([font](../../../fonts/vela-consell-de-la-terra-1419.md)):
+
+> «**La demanda formulada per Andreu d'Alàs** s'ha d'emmarcar en la qüestió que
+> enfrontava els andorrans amb **la vila de Puigcerdà i les universitats de la
+> vall de Querol** a raó del pagament de **la lleuda**.»
+
+**Hi ha dos «Andreu» al mateix expedient**: **Andreu d'Alàs**, que demana el
+privilegi el 1419, i **Andreu Capella**, bisbe amb actes documentats del **1589
+al 1607**. El corpus **proposa que d'aquí surt l'error d'atribució** — i ho
+**marca com a hipòtesi seva**: **cap font no ho diu**. El fet establert segueix
+sent només que **el bisbe del 1419 és Francesc de Tovia**.
+
 **Cautela que es manté:** cap d'aquestes tres proves és **el document**. El
 privilegi és a
 [l'Arxiu de les Set Claus](../patrimoni-institucional/linventari-de-les-set-claus.md)
@@ -90,6 +105,30 @@ habitants **no podien governar el seu territori**. L'única cosa que les
 síndics per resoldre qüestions de drets de pastures** amb territoris veïns.
 
 **El país va començar a governar-se discutint sobre pastures.**
+
+## Per què el van demanar: un impost de pas
+
+**No era una aspiració de llibertat: era un plet.** El conflicte amb Puigcerdà i
+la vall de Querol per **la lleuda** —un dret de pas sobre mercaderies— obligava
+els andorrans a negociar, i per negociar calia reunir-se. Ho diuen ells mateixos
+al text de la demanda que Vela reprodueix:
+
+> «**ajustament e aplegar consell per deliberar e acordar que deuen e poden fer
+> … e ordenar i constituir síndics o missatgers ... e això no poden fer sense
+> aplegar consell**»
+
+I el motiu pràctic pel qual demanen **un òrgan reduït** en comptes de
+l'assemblea de tots:
+
+> per reunir-se han de venir «**de 2 o 3 llegues o de més lluny**» i deixar els
+> seus treballs, i és poc operativa una assemblea amb tantes persones, ja que
+> «**tants camps tants enteniments**».
+
+**El parlament d'Andorra neix d'una queixa logística.**
+
+I abans, el **1364**, ja hi havia hagut representació: **tres síndics i
+procuradors de les universitats de les valls adrecen una cèdula a la Cort per
+protestar pels abusos dels veguers**.
 
 ## Què va canviar el 1419
 
@@ -146,6 +185,18 @@ mitjana **el nombre de participants als consells… es va reduint**», i el
 desplaçament de les assemblees generals de caps de casa per un òrgan reduït es
 fa durant el segle XV «**encara que de forma poc clara**».
 
+### La frase que desmunta la commemoració
+
+Vela la escriu el 2018, l'any abans del sis-centenari, i el corpus la reté
+sencera:
+
+> «**Aquesta concessió no dona res que no posseïssin des de feia temps**, motiu
+> pel qual ens porta a pensar que es tracta de **l'accés al poder d'un grup de
+> notables que volen controlar al seu favor el Consell de la Terra en detriment
+> de la generalitat dels andorrans**.»
+
+**El 1419 no obre el poder: el tanca.**
+
 **El parlament més antic no era democràtic: era oligàrquic.** I ho va ser fins
 molt tard — el vot no arriba als caps de casa fins a
 [la Nova Reforma de 1866](../../historia/segle-xix/nova-reforma.md), ni el
@@ -184,6 +235,41 @@ sis consells existia **només els anys parells que tocava pagar impost**.
 enfrontades: **hi havia un cercle**. La font ho llegeix així: el Consell de la
 Terra anterior al segle XVIII era **un organisme col·legiat on els representants
 de les parròquies debatien afers comuns**.
+
+## Quanta gent hi havia, de debò
+
+**No se sap del cert, i Vela ho documenta any per any** en comptes de
+simplificar-ho:
+
+| Any | Qui es reuneix |
+| --- | --- |
+| **1401** | **Tres homes** per l'afer de la lleuda de Querol |
+| **1403** | **Dos missatgers** per la franquesa del maestrat de ports |
+| **1433** | **Sis jurats** i uns síndics, **al porxo de Sant Esteve** d'Andorra la Vella |
+| **1433** | El mateix any, **un nombre indeterminat** de jurats i prohoms |
+| **s. XV** | **Tretze prohoms** — **dos de cada parròquia i tres per Canillo** |
+| **1437** | **Sis síndics i procuradors** davant el capítol d'Urgell |
+| **1448** | Ja sembla clar: **cònsols i consellers de cada universitat, màxim 24** |
+| **1484** | En una sessió de Sancogesma se'n reuneixen **deu** |
+| **1493** | **Primera casa documentada** on es reuneix el Consell |
+| **1497** | **Sis cònsols** signen amb el bisbe **el pes i el valor dels formatges** |
+
+**I un enigma que el corpus registra sense resoldre:** **Canillo tenia més
+representants —fins a sis— que Andorra, que en tenia quatre.** Vela es pregunta
+si responia a **extensió, riquesa o població** i conclou que **els documents són
+imprecisos**.
+
+**A la parròquia més poblada no li tocaven més veus.** Sigui quin sigui el
+criteri, **no era demogràfic** — i això, sis segles després, segueix sent la
+meitat del disseny del Consell General, on **cada parròquia posa dos consellers
+tingui la població que tingui**
+([els tres sistemes electorals](../../politica/sistema-electoral/els-tres-sistemes-electorals.md)).
+**Aquesta continuïtat la marca el corpus, no les fonts.**
+
+## Ordre públic: el capità del 1472
+
+**El 1472 els prohoms del consell poden nomenar un capità** amb potestat de
+**perseguir i arrestar els malfactors que es trobin a les valls**.
 
 ## La composició: 24
 
@@ -271,3 +357,5 @@ comprar.**
 - [La Casa de la Vall](../patrimoni-institucional/casa-de-la-vall.md)
 - [L'Armari de les Set Claus](../patrimoni-institucional/larmari-de-les-set-claus.md)
 - [L'antic règim](../../historia/antic-regim/lantic-regim.md)
+- [El parlamentarisme andorrà](../../politica/parlamentarisme/el-parlamentarisme-andorra.md) — els sis segles sencers.
+- [Política](../../politica/README.md) — la branca.

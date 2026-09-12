@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**243** documents · **55** fonts · **0** aptes com a model de llengua · **99** temes amb contingut.
+**249** documents · **62** fonts · **0** aptes com a model de llengua · **102** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -512,6 +512,27 @@
 | --- | --- | --- | --- | --- | --- |
 | [El tractament](temes/llengua/tractament/el-tractament.md) | `temes/llengua/tractament` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 
+## temes/politica/identitat-politica
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [La consciència nacional andorrana](temes/politica/identitat-politica/la-consciencia-nacional-andorrana.md) | `temes/politica/identitat-politica` | compilada | contemporania | no | `pol-consciencia-nacional` |
+
+## temes/politica/parlamentarisme
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [El parlamentarisme andorrà](temes/politica/parlamentarisme/el-parlamentarisme-andorra.md) | `temes/politica/parlamentarisme` | compilada | contemporania | no | `bascompte-consell-de-la-terra` |
+| [La deriva presidencialista](temes/politica/parlamentarisme/la-deriva-presidencialista.md) | `temes/politica/parlamentarisme` | compilada | contemporania | no | `dalleres-coprincipat-parlamentari` |
+
+## temes/politica/sistema-electoral
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [El sufragi universal masculí](temes/politica/sistema-electoral/el-sufragi-universal-masculi.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `cavero-parlamentarisme-segle-xx` |
+| [Els tres sistemes electorals](temes/politica/sistema-electoral/els-tres-sistemes-electorals.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `dalleres-coprincipat-parlamentari` |
+| [L'abstenció](temes/politica/sistema-electoral/labstencio.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `dalleres-coprincipat-parlamentari` |
+
 ## temes/societat/associacionisme
 
 | Document | Tema | Veu | Època | Apte | Font |
@@ -748,6 +769,7 @@
 | --- | --- | --- | --- |
 | [`anglada-origens-parla-andorrana`](fonts/anglada-origens-parla-andorrana.md) | Manuel Anglada i Ferran · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`armengol-migracions-segle-xix`](fonts/armengol-migracions-segle-xix.md) | Lídia Armengol Vila · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`bascompte-consell-de-la-terra`](fonts/bascompte-consell-de-la-terra.md) | Domènec Bascompte i Grau · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`bascompte-privilegis`](fonts/bascompte-privilegis.md) | Domènec Bascompte i Grau · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`bastida-roser-ensenyament-andorra`](fonts/bastida-roser-ensenyament-andorra.md) | Roser Bastida i Areny · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`bastida-universitat-andorra`](fonts/bastida-universitat-andorra.md) | Daniel Bastida i Obiols · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
@@ -755,12 +777,15 @@
 | [`cairal-escola-andorrana`](fonts/cairal-escola-andorrana.md) | M. Teresa Cairat i Vila · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`camiade-migracions`](fonts/camiade-migracions.md) | Martina Camiade · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`canturri-usos-i-costums`](fonts/canturri-usos-i-costums.md) | Pere Canturri i Montanya · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`cavero-parlamentarisme-segle-xx`](fonts/cavero-parlamentarisme-segle-xx.md) | Pere Cavero i Muñoz · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`cerqueda-banca`](fonts/cerqueda-banca.md) | Manel Cerqueda i Donadeu · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`consell-general-web`](fonts/consell-general-web.md) | Consell General del Principat d'Andorra | informació institucional pública | si |
 | [`coprincep-frances`](fonts/coprincep-frances.md) | Representació del Copríncep Francès a Andorra | informació institucional pública | si |
 | [`costa-globalitzacio-llengues`](fonts/costa-globalitzacio-llengues.md) | Ferran Costa i Marimon · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`dalleres-coprincipat-parlamentari`](fonts/dalleres-coprincipat-parlamentari.md) | Josep Dallerès i Codina · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`de-la-parte-immigracio-cultura`](fonts/de-la-parte-immigracio-cultura.md) | Isabel de la Parte i Cano · Joan Micó i Ibáñez · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`debat-2a-diada-migracions`](fonts/debat-2a-diada-migracions.md) | Societat Andorrana de Ciències · CREC, Universitat de Perpinyà | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`duro-rol-del-parlamentari`](fonts/duro-rol-del-parlamentari.md) | Josep Duró i Coma · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`escaler-cambra-de-comerc`](fonts/escaler-cambra-de-comerc.md) | Pilar Escaler i Penella · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`escribano-musica`](fonts/escribano-musica.md) | Josep Maria Escribano i Casaldàliga · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`ferrer-percepcio-andorra-exterior`](fonts/ferrer-percepcio-andorra-exterior.md) | Josep Ferrer i Altimira · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
@@ -782,10 +807,12 @@
 | [`mas-educacio-artistica`](fonts/mas-educacio-artistica.md) | Roger Mas i Canalis · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mas-pagesos-i-artesans`](fonts/mas-pagesos-i-artesans.md) | David Mas i Canalís · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mateu-petits-estats-especificitat`](fonts/mateu-petits-estats-especificitat.md) | Vicenç Mateu i Zamora · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`mateu-pi-consellera-general`](fonts/mateu-pi-consellera-general.md) | Meritxell Mateu i Pi · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`molla-catala-andorra`](fonts/molla-catala-andorra.md) | Guillem Molla · Universitat de Girona · revista IANUA | publicació acadèmica en accés obert | pendent |
 | [`oranias-formacio-administracio`](fonts/oranias-formacio-administracio.md) | Imma Oranias i Estudis · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pallares-medicina-andorra`](fonts/pallares-medicina-andorra.md) | Manuel Pallarès i Darsa · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pampalona-particularitats-microestats`](fonts/pampalona-particularitats-microestats.md) | Judith Pampalona i Tarrés · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`pol-consciencia-nacional`](fonts/pol-consciencia-nacional.md) | Antoni Pol i Solé · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`premsa-andorrana`](fonts/premsa-andorrana.md) | Diari d'Andorra · Altaveu · Bondia · El Periòdic d'Andorra · La Ciutat | contingut periodístic amb drets reservats | False |
 | [`pujadas-dret-andorra`](fonts/pujadas-dret-andorra.md) | Manel Pujadas i Domingo · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pujol-fet-religios`](fonts/pujol-fet-religios.md) | Mn. Joan Pujol i Balcells · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
@@ -799,5 +826,6 @@
 | [`toquec-ensenyament-frances`](fonts/toquec-ensenyament-frances.md) | Jean-Alain Toquec · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`ubach-moviments-socials`](fonts/ubach-moviments-socials.md) | Gabriel Ubach i Valdivia · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`valero-escola-privada`](fonts/valero-escola-privada.md) | Fátima Valero i Alcaide · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`vela-consell-de-la-terra-1419`](fonts/vela-consell-de-la-terra-1419.md) | Susanna Vela i Palomares · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`vela-ordinacions-segle-xv`](fonts/vela-ordinacions-segle-xv.md) | Susanna Vela i Palomares · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`viquipedia-ca`](fonts/viquipedia-ca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

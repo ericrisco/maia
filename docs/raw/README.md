@@ -75,8 +75,17 @@ sèrie salta: `427985` = 27a, `427986` = 28a, `427988` = 29a, `427989` = 30a.
 - **`20a-2007`** — el PDF **no té capa de text**: està escanejat i
   `pdftotext` en treu **zero línies**. El `.txt` és buit a posta. **Necessita
   OCR.**
-- **`31a-2018-...-sumari.txt`** — no és el volum sencer sinó **el sumari
-  extret**, que és el que es va poder llegir.
+- **`31a-2018-el-parlamentarisme-andorra.txt`** — **reextret el 2026-09-13.**
+  La primera extracció s'havia quedat a **1.192 línies** (fins a la pàgina 31
+  del volum) i el corpus la va registrar com a «sumari». **No era un sumari: era
+  una extracció truncada.** Refent `pdftotext` sobre el mateix PDF en surten
+  **7.302 línies**, el volum sencer amb les **25 ponències**. El `.txt` s'ha
+  substituït.
+- **`31a-2018-...` — handle de Calaix NO VERIFICAT.** Comprovat el 2026-09-13:
+  **`427989` és la 30a Diada**, no la 31a, i `427990` retorna una pàgina d'error.
+  El PDF es conserva aquí i les fitxes de font el citen **per ISBN
+  (978-99920-61-49-7) i per DOI (10.2436/15.8060.16.x)**, que sí que consten a
+  cada pàgina. **Buit registrat: localitzar el handle.**
 - **Volums dels anys 1989-2002** — digitalitzats amb **OCR de baixa qualitat**:
   hi ha confusions sistemàtiques (`ç`→`9`, `í`→`f`, `ó`→`6`, columnes barrejades,
   taules destruïdes). **Les citacions s'han de verificar contra l'original.**
@@ -121,7 +130,7 @@ que el corpus tenia registrat a
 | **28a** | **2015** | **Andorra i els petits estats d'Europa** | **sí** |
 | **29a** | **2016** | **El canvi climàtic i Andorra** | **sí** |
 | 30a | 2017 | Andorra i l'acord d'associació amb la Unió Europea | — |
-| **31a** | **2018** | **El parlamentarisme andorrà** | **sí** (sumari) |
+| **31a** | **2018** | **El parlamentarisme andorrà** | **sí** (sencer, 25 ponències) |
 
 **Deu de trenta-una.** Les vint-i-una que falten són **la feina pendent més
 gran i més ben delimitada que té el corpus**, i n'hi ha que van directes a

@@ -105,6 +105,7 @@ Aquesta és la tercera dada, i tanca la sèrie:
 | Fita | Any | Qui |
 | --- | --- | --- |
 | **Primera dona elegida en unes eleccions** | **1973** | **Consellera de comú a Escaldes** — nom no localitzat. **Buit registrat** |
+| **Primera consellera general, per substitució** | **1984** | **Mercè Bonell** |
 | **Primera dona elegida al Consell General** | **1985** | **Maria Teresa Armengol i Bonet** |
 | **Primera dona al Consell Superior de la Justícia** | **2005** | **Maria Teresa Armengol i Bonet**, altre cop |
 | **Primera síndica general** | **2019** | **Roser Suñé** |
@@ -125,10 +126,27 @@ del decret de sufragi passiu.
 > **Poder votar: 1971. Poder ser elegida: 1973. Ser elegida: 1985. Presidir:
 > 2019.**
 
-**Avís de precisió:** la font qualifica Armengol de **primera consellera general
-elegida democràticament**. El corpus deixa marcat que **aquest matís podria
-amagar-ne una d'anterior per una altra via** (designació, substitució). **No
-s'ha comprovat.**
+**Avís de precisió, ara resolt.** La font qualificava Armengol de **primera
+consellera general elegida democràticament**, i el corpus va marcar que
+**aquest matís podia amagar-ne una d'anterior per una altra via**. **N'hi havia
+una.**
+
+**Mercè Bonell, el 1984**, va ser **la primera consellera general** —**en
+substitució d'una baixa d'un conseller general d'Andorra la Vella**— segons
+**Meritxell Mateu i Pi**, exconsellera general, a la 31a Diada
+([font](../../../fonts/mateu-pi-consellera-general.md)).
+
+**El matís de la font original era exacte i amagava exactament el que semblava
+amagar.** Armengol és la primera **electa**; Bonell és la primera.
+
+### Les altres dues que hi eren soles
+
+La mateixa font n'afegeix dues més que el corpus no tenia:
+
+- **Maria Reig** — **l'única consellera general de tot el període constituent**,
+  el que va portar a la Constitució.
+- **Rosa Ferrer** — consellera els anys posteriors al 1993 i, durant anys,
+  «**l'únic element femení al Consell**».
 
 ## Com queda avui
 
@@ -136,6 +154,62 @@ A les **eleccions del 2011**, les dones **superen els homes al parlament per
 primera vegada**: **15 escons de 28**.
 
 **Quaranta anys** des del primer vot fins a la majoria parlamentària.
+
+### I va durar sis mesos
+
+**Meritxell Mateu**, que hi era, en dona la durada i el motiu
+([font](../../../fonts/mateu-pi-consellera-general.md)):
+
+> «El **2011**, durant sis mesos (**de l'abril a l'octubre**) i fins que la
+> **Montse Gil** no va deixar el seu escó per presentar-se al consolat de Sant
+> Julià de Lòria, el Consell General va tenir més conselleres generals que
+> consellers: **15 conselleres i 13 consellers**.»
+
+**I no va sortir d'una quota, sinó d'una decisió de dos partits.** El partit
+que ella representava i **UL a Sant Julià de Lòria** van presentar
+**candidatures amb dues dones en tres parròquies** i **candidatures mixtes
+home-dona a la resta**, menys a Encamp.
+
+> «Dit fet va fer que **casualment** es formés un parlament més que paritari!»
+
+**La paraula és seva: casualment.** I ella mateixa hi posa el fre: «s'ha de
+reconèixer que va ser **un fet puntual i fruit d'un cúmul de condicionants**».
+
+El seu judici de conjunt, que el corpus reté **marcat com a valoració** perquè
+l'autora declara des d'on escriu —«unes valoracions personals i amb un toc
+feminista», vint-i-dos mesos després de deixar l'escó:
+
+> «La presència de les dones en política a Andorra **està encara a les
+> beceroles**, sobretot al Consell General… **La realitat és la que és.**»
+
+## Les dates que ballen, i per què no ballen tant
+
+Quatre ponències de la **31a Diada** (2018) donen dates que no coincideixen amb
+les d'aquesta fitxa ni entre elles:
+
+| Font | Vot | Elegibilitat |
+| --- | --- | --- |
+| Cavero, Duró, Pol | **1970** | **1973** |
+| Bascompte ([font](../../../fonts/bascompte-consell-de-la-terra.md)) | **1970** | **1974** |
+| Meritxell Mateu | **1971** | **1973** |
+
+**La cronologia detallada d'aquesta fitxa les concilia gairebé totes.** El
+**1970** és **el decret dels delegats permanents** (14 d'abril); el **1971** és
+**quan les dones voten** (14 de desembre). **Les dues dates són correctes i
+designen fets diferents** — qui escriu «1970» data la norma i qui escriu «1971»
+data el vot.
+
+**L'única que queda fora és l'elegibilitat de 1974 de Bascompte**, contra tres
+fonts i contra les dues dates documentades del 1973. **Registrada com a error
+probable, no adoptada.**
+
+**Queda un desacord de fons que això no toca:** **Cavero** atribueix les dues
+normes **als delegats permanents**, i **Bascompte** diu que «el Consell General
+aprovà la llei». La cronologia d'aquesta fitxa mostra que **van actuar tots
+dos** —el Consell vota el 24 de maig de 1973, els delegats decreten el 5 de
+setembre— i que **el 1969 el Consell havia dit que no** a l'elegibilitat.
+**Qui va donar el vot femení depèn de quin dels dos actes es consideri el que
+compta**, i això el corpus no ho decideix.
 
 ## On encaixa
 
@@ -162,8 +236,9 @@ de cada moment i no pas a un programa preordenat»**
    **Prioritari.**
 2. **El nom de la primera dona elegida** —consellera de comú a Escaldes, 1973—
    que cap font consultada no dona.
-3. Si hi va haver **alguna consellera general abans del 1985** per una via que
-   no fos l'elecció democràtica (vegeu l'avís de precisió).
+3. ~~Si hi va haver **alguna consellera general abans del 1985** per una via que
+   no fos l'elecció democràtica~~ — **tancat**: **Mercè Bonell, 1984**, per
+   substitució. **Segueix obert qui era i a qui substituïa.**
 4. **Maria Teresa Armengol i Bonet**: biografia, parròquia, any de naixement.
    La primera parlamentària del país **i no en sabem la parròquia**.
 5. **Qui van ser els vots en contra** del 4 de juliol de 1969.
@@ -174,6 +249,10 @@ de cada moment i no pas a un programa preordenat»**
 9. La **llei de 1975** sobre drets civils de la dona casada.
 10. **El sufragi femení comunal** — anava alhora?
 11. **Roser Suñé** i la sindicatura del 2019.
+12. **Mercè Bonell**, **Maria Reig**, **Rosa Ferrer** i **Montse Gil**: qui eren,
+    per quin partit, quants anys. **Quatre noms i cap biografia.**
+13. **UL a Sant Julià de Lòria**: quina formació és.
+14. **Quantes dones hi ha hagut al Consell General per legislatura.** Cap sèrie.
 
 ## Related
 
@@ -183,3 +262,4 @@ de cada moment i no pas a un programa preordenat»**
 - [Lídia Armengol Vila](../../historia/historiografia/lidia-armengol-vila.md) — la mateixa persona.
 - [El Consell General](../../institucions/consell-general/el-consell-general.md) — la sala on es va votar.
 - [Convencions socials](../../vida-quotidiana/convencions-socials/convencions-socials.md) — la societat d'aleshores.
+- [Sistema electoral](../../politica/sistema-electoral/README.md) — com es vota, i com es compta.

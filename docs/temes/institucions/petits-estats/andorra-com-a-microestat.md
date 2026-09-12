@@ -298,3 +298,4 @@ sense suavitzar: **és el que diu la font, i qui la diu importa.**
 - [El reconeixement internacional](../relacions-exteriors/el-reconeixement-internacional.md) — qui sostenia que Andorra no era un estat, i per què.
 - [El Concordat del 2008](../coprincipat/el-concordat-del-2008.md)
 - [La política de nacionalitat](../nacionalitat-i-residencia/la-politica-de-nacionalitat.md) — l'especificitat vista des de l'antropologia comparada.
+- [La consciència nacional andorrana](../../politica/identitat-politica/la-consciencia-nacional-andorrana.md) — «una singularitat entre gegants».

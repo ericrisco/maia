@@ -44,3 +44,4 @@ escrit aquí és el que sosté la font; la resta s'escriurà quan hi hagi amb qu
 
 - [Contraban](../contraban/contraban.md) — les mateixes rutes.
 - [El Coprincipat](../../institucions/coprincipat/el-coprincipat.md) — el cap d'estat francès, en guerra.
+- [La consciència nacional andorrana](../../politica/identitat-politica/la-consciencia-nacional-andorrana.md) — la neutralitat llegida com a doctrina identitària.

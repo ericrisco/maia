@@ -50,3 +50,5 @@ i desenvolupament. **Buit registrat.**
 
 - [La Constitució de 1993](../constitucio-1993/constitucio-1993.md) — el pas final.
 - [Nova Reforma](../segle-xix/nova-reforma.md) — qui votava abans.
+- [Sistema electoral](../../politica/sistema-electoral/README.md) — el vaivé del sufragi, datat.
+- [El parlamentarisme andorrà](../../politica/parlamentarisme/el-parlamentarisme-andorra.md)

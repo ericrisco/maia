@@ -68,3 +68,4 @@ fer-ho perd exactament el que les fa andorranes.
 
 - [Les set parròquies](../comuns-i-parroquies/les-set-parroquies.md) — el nivell local.
 - [Quarts i veïnats](../quarts-i-veinats/quarts-i-veinats.md) — el nivell sota la parròquia.
+- [Política](../../politica/README.md) — la branca que explica qui hi seu i com hi arriba.

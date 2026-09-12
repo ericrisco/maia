@@ -62,3 +62,5 @@ i el debat constituent. El Consell General publica la Constitució al seu portal
 - [El Consell General](../../institucions/consell-general/el-consell-general.md) — qui la va fer.
 - [La funció pública](../../institucions/govern/la-funcio-publica.md) — què va costar en persones construir l'estat que la Constitució formalitza.
 - [Andorra com a microestat](../../institucions/petits-estats/andorra-com-a-microestat.md) — abans del 1993, un «objecte jurídic no identificat».
+- [La deriva presidencialista](../../politica/parlamentarisme/la-deriva-presidencialista.md) — un ex-síndic es pregunta si l'article 1.4 encara descriu el país.
+- [Els tres sistemes electorals](../../politica/sistema-electoral/els-tres-sistemes-electorals.md) — què va canviar el 1993 a l'hora de votar.

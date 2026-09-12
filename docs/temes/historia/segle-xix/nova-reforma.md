@@ -44,3 +44,4 @@ segle XIX, que apareix esmentada a la bibliografia i no s'ha investigat.
 - [Democratització](../democratitzacio/democratitzacio.md) — què va venir després.
 - [Onomàstica](../../llengua/onomastica/onomastica.md) — la casa com a identitat.
 - [El Consell General](../../institucions/consell-general/el-consell-general.md) — la institució reformada.
+- [El sufragi universal masculí](../../politica/sistema-electoral/el-sufragi-universal-masculi.md) — el graó següent, que es va treure i es va tornar a posar.
