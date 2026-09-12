@@ -681,7 +681,8 @@ L'estat civil identifica un candidat fort a **André Dreyfus-Schmidt**. L'acta
 germà de Pierre: tots dos eren fills d'Isaac Dreyfus i Rachel Schmidt. La
 primera lectura de la menció marginal com a mort el `20/06/1925` era errònia:
 el registre parisenc corresponent no conté cap Dreyfus i l'ampliació mostra
-que el tercer dígit no és un `2`. L'any queda pendent de lectura segura.
+que el tercer dígit no és un `2`. L'any quedà pendent en aquella fase de
+l'auditoria i es resol més avall amb l'acta de 1955.
 
 L'instrument oficial dels oficials `GR 8 YE` registra, a més, **DREYFUS, André
 Charles**, capità d'artilleria, dossier `GR 8 YE 84802`, radiat dels quadres el
@@ -708,6 +709,29 @@ les 18.30 al domicili del 56 boulevard Murat, el qualifica de representant de
 comerç, repeteix naixement i pares i diu que era solter. La declarant fou
 Yvonne Dreyfus, quaranta anys, domiciliada al 5 quai Vauban de Belfort; l'acta
 no n'indica el parentiu.
+
+El padró oficial de Belfort de 1911, `6 M 130`, p. 386, situa al **19 avenue de
+la Gare** el ménage 33 format per Rachel Dreyfus, André, Pierre i una tercera
+filla, **Gilberte**, més la criada Adèle Ensminger. El padró dona erròniament
+1898 com a any de naixement d'André —les actes civil i militar proven 1896—,
+però encerta Pierre, 1902, i Gilberte, 1897. Isaac no hi és enumerat; com que
+Rachel figura com a `épouse`, aquesta absència no prova que ja fos mort.
+
+L'acta 432 de Belfort tanca la filiació de Gilberte: nasqué el **09/08/1897**
+de l'empleat de comerç Isaac Dreyfus i Rachel Schmidt. Una menció marginal en
+registra el matrimoni el 1922 i la mort a París 14è el **18/10/1979**; el fitxer
+nominal oficial de l'INSEE ho confirma amb l'acta 3082. A més, la menció
+marginal de l'acta de Pierre prova que es casà el 12/09/1927 amb **Yvonne
+Henriette Kahn**. Nom, edat aproximada i domicili familiar fan molt probable
+que la Yvonne Dreyfus que declarà la mort d'André fos la seva cunyada, però
+l'acta de defunció no explicita aquesta relació i es manté com a inferència.
+
+Les Archives municipales de Belfort aporten també una font iconogràfica: la
+notice `2Z/35`, relacionada amb `7Fi/231`, descriu una fotografia d'identitat
+d'**«André Dreyfus-Schmidt, frère de Pierre»**, en blanc i negre, 5,5 × 4,5 cm,
+dins el fons Émile Géhant. La notice confirma que l'ús compost
+`Dreyfus-Schmidt` no es limitava a Pierre i localitza un retrat d'André encara
+no reproduït.
 
 La cerca anterior de `16D 196` havia produït un fals negatiu perquè l'OCR no
 reconegué el cognom. Es conserva i explicita l'error: una absència en OCR no és
@@ -784,6 +808,9 @@ prové de la representació web accessible, amb data i URL registrades.
 | `francesc-viadiu-fons/grumbach/dreyfus-schmidt/shd-gr-8ye-a-e.pdf`, `.txt` | Instrument oficial dels oficials: `GR 8 YE 84802`, André Charles Dreyfus, capità d'artilleria, radiat el 19/04/1951. |
 | `francesc-viadiu-fons/grumbach/dreyfus-schmidt/matricule-1916/*` | Guia oficial, taula `1 R 302`, API i full 494 de `1 R 299`: filiació, descripció, carrera 1915–1951, retalls de lectura, OCR i hashes. Les imatges romanen locals per les condicions de reutilització dels AD90. |
 | `francesc-viadiu-fons/grumbach/dreyfus-schmidt/auditoria-any-defuncio-andre.md`, `paris-deces-*/*` | Auditoria de 1925, 1951, 1955, 1961, 1966 i 1975; corregeix el fals negatiu de 1955 i localitza l'acta 1066, mort el 20/06/1955. |
+| `dreyfus-schmidt/belfort-recensement-1911/` | Padró oficial `6 M 130`, p. 386, retall de lectura, recuperació parcial de l'antic PDF de LISA 90 i auditoria del foyer del 19 avenue de la Gare. |
+| `dreyfus-schmidt/gilberte-dreyfus/` | Acta de naixement 432 de Gilberte, retalls, fitxer oficial INSEE 1970–1979 i nota de lectura. |
+| `francesc-viadiu-fons/grumbach/dreyfus-schmidt/belfort-archives-municipales/notice-7fi231.html` | Notice municipal `2Z/35`: retrats de Pierre, André i Michel Dreyfus-Schmidt, inclosa la fotografia d'identitat d'André. |
 | `francesc-viadiu-fons/grumbach/dreyfus-schmidt/paris-table-deces-1955-1964/*` | Taula decennal `V11E 553`, p. 241: entrada nominal, data, acta i arrondissement; 18 imatges, OCR, JSON i hashes. |
 | `francesc-viadiu-fons/grumbach/lemonde-*.html` | Controls de descàrrega fallits: quatre pàgines tècniques `Client Challenge` idèntiques, no el text dels articles. |
 | `francesc-viadiu-fons/grumbach/consulta-arxius-ariege-esborrany.md` | Petició detallada de localització i reproducció del procés de Foix i diligències relacionades; preparada però no enviada. |
