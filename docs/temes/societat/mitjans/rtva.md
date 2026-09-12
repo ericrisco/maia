@@ -74,4 +74,6 @@ registre propi — i el corpus ja té branques separades per a
 ## Related
 
 - [Ràdio Andorra](./radio-andorra.md) — el que hi havia abans.
+- [La censura de premsa](./la-censura-de-premsa.md) — per què el buit no era només tecnològic.
+- [El diagnòstic de 1989](../immigracio/el-diagnostic-de-1989.md) — qui reclamava mitjans públics, i quan.
 - [La llei de la llengua](../../llengua/politica-linguistica/la-llei-de-la-llengua.md) — per què emetre en català és política d'estat.

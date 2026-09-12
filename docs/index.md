@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**318** documents · **98** fonts · **0** aptes com a model de llengua · **108** temes amb contingut.
+**319** documents · **99** fonts · **0** aptes com a model de llengua · **108** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -700,6 +700,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [La censura de premsa](temes/societat/mitjans/la-censura-de-premsa.md) | `temes/societat/mitjans` | compilada | contemporania | no | `giral-mitjans-identitat-1990` |
 | [Ràdio Andorra](temes/societat/mitjans/radio-andorra.md) | `temes/societat/mitjans` | compilada | contemporania | no | `viquipedia-ca` |
 | [RTVA](temes/societat/mitjans/rtva.md) | `temes/societat/mitjans` | compilada | contemporania | no | `viquipedia-ca` |
 
@@ -902,6 +903,7 @@
 | [`garcia-ensenyament-confessional`](fonts/garcia-ensenyament-confessional.md) | César García i Bernardo · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`garcia-puy-formacio-professional`](fonts/garcia-puy-formacio-professional.md) | Carme Garcia i Puy · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`gelabert-jocs-petits-estats`](fonts/gelabert-jocs-petits-estats.md) | Olga Gelabert i Fàbrega · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`giral-mitjans-identitat-1990`](fonts/giral-mitjans-identitat-1990.md) | Eugeni Giralt · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`goncalves-multiculturalitat-lusitana`](fonts/goncalves-multiculturalitat-lusitana.md) | José Luis Gonçalves Carvalho · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
 | [`govern-andorra-web`](fonts/govern-andorra-web.md) | Govern del Principat d'Andorra | informació institucional pública | si |
 | [`guillamet-la-recerca`](fonts/guillamet-la-recerca.md) | Jordi Guillamet i Anton · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |

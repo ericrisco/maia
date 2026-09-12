@@ -32,7 +32,7 @@ honestament avui.
 | **1896** | **5.800** | Combarnou | [la població al segle XIX](./la-poblacio-al-segle-xix.md) |
 | **1897** | **5.210** | Combarnou *(possiblement Brutails)* | ídem |
 | **1900** | **5.231** | Micó | [la composició per nacionalitats](./la-composicio-per-nacionalitats.md) |
-| **1912** | **6.100** | **Pallerola** | [font](../../../fonts/tarrene-influencies-multiculturals.md) |
+| **1912** | **6.100** | **Pallerola** — **el veguer episcopal** | [font](../../../fonts/tarrene-influencies-multiculturals.md) · [qui era](../../societat/mitjans/la-censura-de-premsa.md) |
 | **1920** | **4.309** | **De Los Ríos Urruti** | ídem |
 | **1930** | **4.142** | **Moreno** | ídem |
 | **1930** | **4.042** | bisbat d'Urgell | [FHASA](../../economia/energia-i-serveis/fhasa.md) |
@@ -157,7 +157,15 @@ i cadascuna té un autor que responia a una pregunta diferent.
 ## El que falta
 
 - **La font de cada xifra**, no l'autor que la cita: cens, estimació o padró.
-- **Pallerola**, **De Los Ríos Urruti** i **Moreno**: qui eren i què van publicar.
+- ~~**Pallerola**~~ **IDENTIFICAT**: és el **veguer episcopal Pallerola**, nomenat
+  pel bisbe Casañas, autor d'***El Principado de Andorra y su constitución
+  política***, escrit **per reacció a la *Coutume* de Brutails** quan ja feia
+  gairebé quinze anys que era veguer
+  ([la censura de premsa](../../societat/mitjans/la-censura-de-premsa.md)).
+  **Això canvia com s'ha de llegir la seva xifra**: no és un demògraf neutral,
+  és **el representant d'un copríncep escrivint una obra de rèplica**. Queda
+  obert **l'any exacte** de l'obra.
+- **De Los Ríos Urruti** i **Moreno**: qui eren i què van publicar.
 - **L'obra de Combarnou**, amb títol i any.
 - **Què passa entre 1912 i 1920.** **Prioritari.**
 - **Si hi va haver mai un cens oficial andorrà** abans del segle XX, o si totes

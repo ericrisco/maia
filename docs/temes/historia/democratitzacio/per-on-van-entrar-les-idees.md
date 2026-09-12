@@ -43,6 +43,47 @@ habitants sense partits, sense sindicats i sense premsa pròpia?
 
 **Cap d'aquests quatre noms era al corpus.** Ni un.
 
+### Corregits i datats per una font que en va veure les col·leccions
+
+**Eugeni Giralt**, el **1990**, treballant sobre les capçaleres mateixes, en dona
+**els noms exactes i les dates d'inici**
+([font](../../../fonts/giral-mitjans-identitat-1990.md)):
+
+| Tarrene (2021) diu | Giralt (1990) documenta |
+| --- | --- |
+| «Societat de Veïns de Barcelona» | **Societat Andorrana de Residents a Barcelona** |
+| «Butlletí de Residents d'Andorra a Barcelona» | **Butlletí de la Societat Andorrana de Residents a Barcelona**, des de l'**octubre de 1929** |
+| «Le réveil de l'Andorre», Besiers, 1931 | **Reveil d'Andorra**, des del **novembre de 1931**, Besiers |
+| «el diari Nova Andorra» | **La Nova Andorra** — la fa **una segona Societat**, nascuda d'una **escissió** |
+
+**El corpus adopta les formes de Giralt** i deixa constància de les de Tarrene,
+perquè **és una font posterior que cita de memòria institucional i l'altra en
+descriu els exemplars**.
+
+I dos afegits que canvien la lectura:
+
+- **Els estatuts** de la Societat **recomanaven als socis no intervenir en la
+  política espanyola**, mentre l'entitat es proposava **participar en la política
+  andorrana**. **No et fiquis en la política d'on vius; fica't en la del país d'on
+  véns.**
+- **La Nova Andorra** surt d'una **escissió** i, «**segurament**», amb **diners
+  d'un alemany de cognom Weillemann**, en **«un afer confós»**. **Giralt ho marca
+  com a conjectura i el corpus també.** **Buit registrat:** qui era Weillemann.
+
+**I el final de tot plegat:** «**al final del 1937, amb la guerra civil**, tothom
+va pensar que ja estava bé d'experiments i que **s'havia de tornar a casa**».
+
+### I per què s'havia de fer des de fora
+
+**Perquè a Andorra no es podia.** El **decret de premsa del 7 de maig de 1919**
+exigia que tot periòdic andorrà tingués un gerent **acceptat per la vegueria
+abans de publicar**, i el **1917** una revista innòcua havia acabat **segrestada,
+amb detencions**
+([la censura de premsa](../../societat/mitjans/la-censura-de-premsa.md)).
+
+**No van publicar a Barcelona i a Besiers perquè hi vivien: hi van publicar
+perquè aquí no els deixaven.**
+
 I la font hi afegeix una referència localitzable: **«Le réveil de l'Andorre,
 òrgan mensual de l'Amicale franco-andorrane de Besiers 1931»**, consultable al
 fitxer de premsa local antiga de la **Bibliothèque nationale de France**. **És a
@@ -140,4 +181,5 @@ casa.**
 - [Democratització](./democratitzacio.md) — la branca.
 - [Els casalers i els anfochs](../segle-xix/els-casalers-i-els-anfochs.md) — l'emigració que ho fa possible.
 - [Les onades migratòries](../../societat/demografia/les-onades-migratories.md) — el moviment de gent.
+- [La censura de premsa](../../societat/mitjans/la-censura-de-premsa.md) — per què s'havia de publicar fora.
 - [Associacionisme](../../societat/associacionisme/associacionisme.md) — la branca on això hauria de continuar.

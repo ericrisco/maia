@@ -69,7 +69,7 @@ els enumera:
 
 | Qui | Sobre què legisla |
 | --- | --- |
-| **Els veguers** | **Ordre públic** (la premsa, el 1919). Són els **caps de la policia** |
+| **Els veguers** | **Ordre públic** (la premsa, el 1919 — [el decret i la seva història](../../societat/mitjans/la-censura-de-premsa.md)). Són els **caps de la policia** |
 | **Els delegats permanents** | **Temes civils** |
 | **Els tribunals superiors** (Mitra i Perpinyà, **1888**) | Marquen criteris **per sentència** |
 | **El Consell General** | **Temes de la terra** i generals interiors |
