@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**316** documents · **96** fonts · **0** aptes com a model de llengua · **108** temes amb contingut.
+**317** documents · **97** fonts · **0** aptes com a model de llengua · **108** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -447,6 +447,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El Codi de la nacionalitat de 1977](temes/institucions/nacionalitat-i-residencia/el-codi-de-la-nacionalitat-de-1977.md) | `temes/institucions/nacionalitat-i-residencia` | compilada | contemporania | no | `vinas-nacionalitat-andorrana-1990` |
 | [Els andorrans de primera generació](temes/institucions/nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md) | `temes/institucions/nacionalitat-i-residencia` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [La política de nacionalitat](temes/institucions/nacionalitat-i-residencia/la-politica-de-nacionalitat.md) | `temes/institucions/nacionalitat-i-residencia` | compilada | contemporania | no | `pampalona-particularitats-microestats` |
 | [La residència passiva](temes/institucions/nacionalitat-i-residencia/la-residencia-passiva.md) | `temes/institucions/nacionalitat-i-residencia` | compilada | contemporania | no | `jurisprudencia-ad` |
@@ -955,6 +956,7 @@
 | [`vela-ordinacions-segle-xv`](fonts/vela-ordinacions-segle-xv.md) | Susanna Vela i Palomares · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`vilar-andorre-1904`](fonts/vilar-andorre-1904.md) | André Vilar · V. Giard & E. Brière, París · obra de 1904, domini públic | domini públic per antiguitat; digitalització de Google Books | si |
 | [`vilaweb-mort-sergi-mas`](fonts/vilaweb-mort-sergi-mas.md) | Partal, Maresma & Associats SL (VilaWeb) | drets reservats · citació breu amb atribució | False |
+| [`vinas-nacionalitat-andorrana-1990`](fonts/vinas-nacionalitat-andorrana-1990.md) | Ramon Viñas i Farré · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`viquipedia-ca`](fonts/viquipedia-ca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-art-andorra`](fonts/wikipedia-art-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-esport-andorra`](fonts/wikipedia-esport-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

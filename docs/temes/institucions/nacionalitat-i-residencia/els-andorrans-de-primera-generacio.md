@@ -163,14 +163,25 @@ nacionals** en l'altra.
   majoria d'edat política. **Buit prioritari** — la ponència és del 1990 i
   reclama uns canvis que probablement van arribar amb
   [la Constitució de 1993](../../historia/constitucio-1993/constitucio-1993.md).
-- Com es va resoldre el problema dels nascuts després de l'1 de gener de 1975.
+- ~~Com es va resoldre el problema dels nascuts després de l'1 de gener de 1975.~~
+  **TANCAT a mitges.** La Llei del **1985** hi va afegir **l'article 31**: els
+  nascuts després d'aquella data podien adquirir la nacionalitat **si tenien un
+  germà nascut abans que fos andorrà**, o **si un progenitor acreditava més de
+  quinze anys de residència l'1 de gener de 1975**
+  ([el Codi de la nacionalitat de 1977](./el-codi-de-la-nacionalitat-de-1977.md)).
+  **Es va resoldre per a alguns i no per a tots**, i això **converteix en mecànica
+  legal la hipòtesi de dalt**: germans de la mateixa casa amb nacionalitats
+  diferents segons l'any de naixement. Queda obert **quantes persones** van
+  quedar fora.
 - **Què és exactament una «pubilla»** en dret andorrà, i per què importava que
   la mare ho fos ([ritus de pas](../../costums/ritus-de-pas/ritus-de-pas.md)).
 - La **26a Diada Andorrana**, dedicada íntegrament a **la nacionalitat
   andorrana** ([les Diades](../../historia/historiografia/les-diades-andorranes.md)).
-- Les altres ponències d'aquesta mateixa Diada: **Ramon Viñas**, *Nacionalitat
-  andorrana, present i futur*; **Martina Camiade**, *Concepte d'identitat a
-  través de la història andorrana*.
+- Les altres ponències d'aquesta mateixa Diada: ~~**Ramon Viñas**, *Nacionalitat
+  andorrana, present i futur*~~ **LLEGIDA** —
+  [el Codi de la nacionalitat de 1977](./el-codi-de-la-nacionalitat-de-1977.md)—;
+  **Martina Camiade**, *Concepte d'identitat a través de la història andorrana*,
+  **encara no**.
 
 ## Related
 
@@ -179,3 +190,4 @@ nacionals** en l'altra.
 - [La sèrie històrica](../../llengua/politica-linguistica/la-serie-historica.md)
 - [Vida cívica](../../societat/vida-civica/vida-civica.md) — qui vota.
 - [La política de nacionalitat](./la-politica-de-nacionalitat.md) — per què el país restringeix, segons l'antropologia comparada.
+- [El Codi de la nacionalitat de 1977](./el-codi-de-la-nacionalitat-de-1977.md) — la norma que hi ha darrere de tot això.
