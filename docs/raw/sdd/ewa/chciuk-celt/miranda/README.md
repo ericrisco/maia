@@ -40,6 +40,10 @@ Democrática](https://mptmd.gob.es/portal/memoria-democratica/archivos-estatales
 descriu 16.713 expedients d'ingrés. La pàgina HTML oficial s'ha conservat amb
 SHA-256
 `556a8754a4e304c4cd7c4ddcb5ceec824a4da1a1cc352ffcaf7e19939fa746bd`.
+El portal de Defensa adverteix expressament que pot haver-hi homònims i recomana
+contrastar sempre l'índex amb el document original, presencialment o mitjançant
+una sol·licitud de reproducció. Aquesta advertència reforça la cautela aplicada
+a la identificació de James Hughes.
 
 ## Què pot contenir l'expedient
 
@@ -106,3 +110,39 @@ Una antiga URL del portal memorial de Miranda, encara indexada pels cercadors,
 redirigia el 12/09/2026 a una pàgina de joc il·legal compromesa. La descàrrega
 s'ha eliminat i no s'ha utilitzat. Tota la prova citada aquí procedeix dels
 portals oficials del Ministeri i de Defensa.
+
+## Canal oficial de consulta
+
+El [portal del centre](https://patrimoniocultural.defensa.gob.es/es/centros/archivo-general-militar-guadalajara/portada)
+confirma que admet consultes per correspondència i sol·licituds de reproducció:
+
+- correu: `agm_guadalajara@et.mde.es`;
+- adreça: Avenida del Ejército, 2, 19004 Guadalajara;
+- telèfon: `+34 949 213 935`;
+- consulta presencial amb cita prèvia, dies laborables de 9:00 a 13:30;
+- serveis de sala de consulta i reprografia.
+
+S'han conservat localment la pàgina oficial de serveis i el formulari Word
+oficial de dues pàgines. El formulari demana identificació del sol·licitant i,
+si la persona documentada ha mort, relació o afinitat i motiu de la petició.
+Hashes SHA-256:
+
+- `agmg-portada-servicios.html`:
+  `b8758c7d672dcdbaab408da67eab7d45df353a2a1e88b2d8729afa686bf76e86`;
+- `agmg-solicitud-documentacion.doc`:
+  `8affcbac71949f359e8cd0b25e33e639381a6742f04bde57b7db7f93ab079286`.
+
+### Esborrany de petició
+
+> Solicito reproducción digital íntegra, anverso y reverso, del expediente
+> `AGMG. DCME, caja 305324, expediente 6633, HUGHES, JAMES, Reino Unido`, para
+> investigación histórica sobre el emisario polaco Tadeusz Chciuk-Celt
+> (Drohobycz, 17/10/1916 – Múnich, 10/04/2001), quien utilizó en España el alias
+> James Hughes/Huges. Ruego comprobar asimismo las variantes CHCIUK, CELT,
+> HUGES y VARGA y cualquier aparición del mismo nombre en las Relaciones de
+> Liberados, cajas 305389–305392. Interesan especialmente ficha filiadora,
+> interrogatorio, hoja de conducción desde Gerona, documentación personal,
+> anotaciones de libertad o evasión y solicitudes diplomáticas o de Cruz Roja.
+
+No s'ha enviat la petició: aquest dossier només deixa resoltes la signatura, les
+variants i la formulació.
