@@ -51,3 +51,4 @@ Nacional són fonts primàries que no s'han consultat.
 - [La troballa de Meritxell](./la-troballa-de-meritxell.md) — l'altra capa, a la vista.
 - [La bruixa de Sornàs](./la-bruixa-de-sornas.md) — l'altra roca amb bruixa.
 - [El romànic andorrà](../arquitectura/romanic.md) — Sant Joan de Caselles.
+- [Les bruixes d'Engolasters](./les-bruixes-dengolasters.md)

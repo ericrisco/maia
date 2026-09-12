@@ -80,3 +80,4 @@ i el **Nomenclàtor** amb les seves 4.240 entrades és qui ho ha de dir.
 - [Llegendes](./llegendes.md)
 - [El Roc de les Bruixes](./el-roc-de-les-bruixes.md)
 - [La bruixa de Sornàs](./la-bruixa-de-sornas.md)
+- [Les bruixes d'Engolasters](./les-bruixes-dengolasters.md) — l'altra llegenda del mateix lloc, i el problema que té.

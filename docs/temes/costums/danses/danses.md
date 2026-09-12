@@ -67,3 +67,4 @@ andorrana està repetint l'anacronisme que va delatar Fiter
 
 - [Festes majors](../festes-majors/festes-majors.md) — el marc.
 - [Música i cançons](../../cultura/musica-i-cancons/musica-i-cancons.md) — el que sona.
+- [Els catorze balls](./els-catorze-balls.md) — l'inventari d'Amades, i què se'n pot creure.

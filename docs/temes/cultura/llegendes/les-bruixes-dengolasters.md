@@ -1,0 +1,135 @@
+---
+type: article
+title: Les bruixes d'Engolasters
+description: "Amades en va descriure les reunions amb tot detall. Cinquanta anys després, l'historiador que ho revisa no va trobar cap andorrà que les confirmés."
+tema: temes/cultura/llegendes
+veu: compilada
+epoca: contemporania
+apte_llengua: false
+font: anglada-origens-parla-andorrana
+timestamp: 2026-09-13T10:30:00Z
+tags: [llegendes, folklore, bruixes, metode, historiografia, prioritari]
+---
+
+# Les bruixes d'Engolasters
+
+> Font: **Pere Canturri Montanya**, *«Andorra en el Costumari català de Joan
+> Amades»*, **7a Diada Andorrana, UCE, 1994**
+> ([volum](../../../fonts/anglada-origens-parla-andorrana.md)).
+
+## El cas
+
+**Joan Amades** dedica al *Costumari català* **una llarga menció a les bruixes
+d'Engolasters**, amb **«acurada i detallada descripció» de les seves
+reunions**.
+
+I l'historiador andorrà que hi va a comprovar-ho escriu:
+
+> «**Fins ara no hem trobat cap andorrà que ens les confirmi.**»
+
+## Per què aquesta fitxa és de mètode i no de folklore
+
+**No diu que les bruixes d'Engolasters no existeixin com a llegenda.** Diu una
+cosa més precisa i més útil:
+
+**que la descripció més detallada que en circula no té cap testimoni andorrà que
+la sostingui.**
+
+Aquestes dues coses **no són el mateix**, i confondre-les és exactament el que
+[el cas Amades](../../historia/historiografia/el-cas-amades.md) adverteix.
+
+| El que se sap | El que no se sap |
+| --- | --- |
+| Que **Amades ho va publicar**, amb detall | **D'on ho va treure** |
+| Que **cap andorrà consultat el 1994 ho confirmava** | Si **algun altre sí que ho hauria fet** |
+| Que **Engolasters existeix** i té llegenda pròpia ([el llac d'Engolasters](./el-llac-dengolasters.md)) | Si **aquestes bruixes concretes** en formen part |
+
+**El corpus registra el buit, no el desmentiment.**
+
+## No és l'únic cas al mateix paràgraf
+
+Canturri en posa **dos de seguits**, i el segon reforça el primer:
+
+> «Tampoc no hem pogut tenir constància entre la gent del país de **les guerres
+> entre moros i catalans** que s'haurien representat a **Sant Julià** amb **gran
+> exhibició d'armes de foc i sorolloses galejades multitudinàries** de què ens
+> parla Amades.»
+
+**Dues escenificacions espectaculars, cap memòria local.**
+
+I **just al costat**, al mateix text, **el contrari**: del **ball de l'Ossa**
+Canturri diu que **«es continua representant»**, i de les **falles de Sant
+Joan** que Amades en dona una visió «que sols pot donar qui ho ha vist»
+([els catorze balls](../../costums/danses/els-catorze-balls.md)).
+
+**El mateix autor, la mateixa obra, i tres graus de fiabilitat diferents dins la
+mateixa pàgina.** Per això el criteri del corpus no pot ser *Amades sí* o
+*Amades no*: **ha de ser cas per cas.**
+
+## El tamarro, i per què no té fitxa
+
+**El corpus ha buscat el *tamarro* a totes les seves fonts i no l'hi ha
+trobat com a criatura.**
+
+El que sí que hi apareix, i és una altra cosa:
+
+| On surt | Com a què |
+| --- | --- |
+| **10a Diada, 1997** | **el «campament Tamarros» d'AINA**, els campaments d'estiu andorrans |
+| Un registre comercial | una societat **«Tamarro-Hortal»**, d'activitats de guia turístic |
+
+**El nom és viu a Andorra. La criatura, a les fonts d'aquest corpus, no hi és.**
+
+**I això és precisament el que aquesta fitxa serveix per no fer:** seria
+facilíssim escriure aquí què és un tamarro —n'hi ha descripcions abundants al
+folklore **pirinenc i català**— i el resultat seria **el cas Amades una altra
+vegada**: folklore de la regió veïna entrant al corpus andorrà amb aparença
+d'informació.
+
+**Buit registrat, prioritari i concret:** cal **una font andorrana** que digui
+què és el tamarro **a Andorra** —si s'hi coneix, amb quin nom, amb quina
+descripció i des de quan— abans que el corpus n'escrigui una sola línia. Les
+**63 citacions andorranes d'Amades** i l'**Arxiu d'Etnografia d'Andorra**
+([fitxa](../../cultura/museus-i-arxius/larxiu-detnografia.md)) són els dos llocs
+on buscar-ho.
+
+**Que el nom hagi acabat batejant uns campaments d'infants és, ell mateix, una
+dada:** vol dir que **a Andorra el tamarro és prou conegut per funcionar com a
+marca**. Però **d'on ve i què se'n deia, el corpus no ho sap.**
+
+## El que això vol dir per a maia
+
+Si algú pregunta a un model **«explica'm la llegenda de les bruixes
+d'Engolasters»** o **«què és el tamarro andorrà»**, el model **respondrà**:
+tindrà material català i pirinenc de sobres per fer-ho sonar convincent.
+
+**I serà, amb tota probabilitat, folklore d'una altra banda amb topònim
+andorrà.**
+
+**Aquesta fitxa existeix perquè el corpus tingui escrit, en algun lloc, que la
+resposta honesta és «no ho sabem».**
+
+## Buits registrats
+
+- **Les 63 citacions andorranes d'Amades**, una per una, contrastades. **És el
+  buit mare de tota la branca de cultura popular.**
+- **El *tamarro* a Andorra**: qualsevol font andorrana.
+- **Les bruixes d'Engolasters** en alguna font andorrana anterior o posterior a
+  Amades.
+- **Les guerres entre moros i catalans de Sant Julià**: si mai s'hi van fer.
+- **El *Costumari català*** consultat directament — el corpus el coneix **només
+  a través de qui el critica**.
+- **Les altres creences que Amades hi recull** i que el corpus només té
+  enumerades: **l'argolla que es converteix en or i on Noè va estacar l'arca
+  després del diluvi**, i **la campana dels difunts soterrada a les muntanyes
+  andorranes que tocarà el dia del judici final**. **Dues llegendes andorranes
+  amb nom i sense fitxa.**
+
+## Related
+
+- [Llegendes](./llegendes.md)
+- [El llac d'Engolasters](./el-llac-dengolasters.md)
+- [El Roc de les Bruixes](./el-roc-de-les-bruixes.md) · [La bruixa de Sornàs](./la-bruixa-de-sornas.md)
+- [El cas Amades](../../historia/historiografia/el-cas-amades.md)
+- [Els catorze balls](../../costums/danses/els-catorze-balls.md)
+- [La historiografia andorrana](../../historia/historiografia/historiografia.md)

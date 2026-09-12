@@ -43,6 +43,40 @@ parentiu— i això li devia facilitar els contactes.
 I era **bona feina**: un fet que Amades documenta **va trigar trenta anys a ser
 corroborat**, i **Cebrià Baraut encara el donava per inèdit**.
 
+### El cas concret, que val la pena tenir sencer
+
+Parlant de **Sant Pere Màrtir**, Amades escriu que **els paraires i teixidors
+d'Escaldes** hi celebraven la festa, que **formaven l'única corporació gremial
+de tot Andorra** i que **les seves ordinacions dataven del 1604**, aprovades pel
+bisbe de la Seu.
+
+**Trenta anys després**, el **1979**, el **pare Cebrià Baraut** publica als
+*Quaderns d'Estudis Andorrans* un article sobre els paraires i teixidors
+andorrans i hi diu que el document d'aprovació del gremi, **conservat a l'arxiu
+parroquial de les Escaldes**, **«havia romàs fins ara inèdit»** — datat el **13
+de febrer de 1604** i signat pel bisbe d'Urgell.
+
+**Amades ho havia publicat abans que l'historiador el trobés a l'arxiu.**
+
+Canturri en treu la conseqüència: **Amades sembla haver tingut accés a algun
+arxiu andorrà.** Vegeu [el tèxtil](../../cultura/artesania/el-textil.md), on el
+corpus ja tenia la confraria del 1604 **per una altra font independent**: ara en
+té **tres** —Amades, Baraut i Mas— i **la data exacta**.
+
+### I tenia família a Andorra
+
+Amades diu del darrer home que va ballar el **Ball del porrer** que **«era mig
+parent nostre»**. Canturri hi estira el fil: **l'àvia paterna d'Amades es deia
+Baltasara Barrobes**, i **als anys 40 vivia a Encamp un tal Josep Barrabés**.
+**«Seria per aquí l'emparentament?»**
+
+**La pregunta queda oberta**, però la conseqüència no: **tenir parents al país
+devia facilitar-li els contactes i l'obtenció d'informació**. Detall a
+[els catorze balls](../../costums/danses/els-catorze-balls.md).
+
+**Això juga a favor d'Amades**, i el corpus ho reté per això mateix: **no era un
+foraster copiant de lluny.**
+
 **El problema no és Amades. És què se n'ha fet.**
 
 ## El que se n'ha fet
@@ -191,6 +225,10 @@ Tres conseqüències pràctiques:
 ## El que falta
 
 - **Les 63 citacions andorranes d'Amades**, una per una, **contrastades**.
+  El corpus ja en té **l'inventari temàtic** i **la llista dels catorze balls**
+  ([els catorze balls](../../costums/danses/els-catorze-balls.md)), i **dos
+  casos marcats com a no confirmats per cap andorrà**
+  ([les bruixes d'Engolasters](../../cultura/llegendes/les-bruixes-dengolasters.md)).
 - ***Un andorrà lluny del poble***, de Ricard Fiter (1967, 2a ed. 1985).
 - **Pere Canturri Montanya** i la seva obra. El corpus ja en té una segona
   ponència fitxada
@@ -208,5 +246,7 @@ Tres conseqüències pràctiques:
 
 - [La historiografia andorrana](./historiografia.md)
 - [Artesania](../../cultura/artesania/README.md) i [begudes](../../gastronomia/begudes/README.md) — les branques buidades pel mateix criteri.
+- [Els catorze balls](../../costums/danses/els-catorze-balls.md) — l'inventari, amb el criteri de fiabilitat cas per cas.
+- [Les bruixes d'Engolasters](../../cultura/llegendes/les-bruixes-dengolasters.md) — i per què el tamarro no té fitxa.
 - [Danses](../../costums/danses/danses.md)
 - [Cultura popular](../../cultura/cultura-popular/cultura-popular.md)

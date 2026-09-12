@@ -122,3 +122,4 @@ lèxic viu, no categoria abstracta.
 - [La crisi de l'oví](../../economia/ramaderia-i-agricultura/la-crisi-de-lovi.md) — la llana que es va quedar sense mercat.
 - [Comerç](../../economia/comerc/comerc.md) — els privilegis comercials.
 - [Les escoles d'art comunals](../arts-visuals/les-escoles-dart-comunals.md)
+- [El cas Amades](../../historia/historiografia/el-cas-amades.md) — la confraria de 1604, documentada per Amades abans que per l'arxiu.

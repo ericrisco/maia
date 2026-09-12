@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**240** documents · **55** fonts · **0** aptes com a model de llengua · **99** temes amb contingut.
+**242** documents · **55** fonts · **0** aptes com a model de llengua · **99** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -24,6 +24,7 @@
 | [Danses — índex](temes/costums/danses/danses.md) | `temes/costums/danses` | compilada | contemporania | no | `premsa-andorrana` |
 | [El ball del Cerdà](temes/costums/danses/el-ball-del-cerda.md) | `temes/costums/danses` | compilada | contemporania | no | `premsa-andorrana` |
 | [El contrapàs](temes/costums/danses/el-contrapas.md) | `temes/costums/danses` | compilada | contemporania | no | `premsa-andorrana` |
+| [Els catorze balls](temes/costums/danses/els-catorze-balls.md) | `temes/costums/danses` | compilada | contemporania | no | `anglada-origens-parla-andorrana` |
 | [La marratxa](temes/costums/danses/la-marratxa.md) | `temes/costums/danses` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/costums/falles
@@ -129,6 +130,7 @@
 | [El Roc de les Bruixes](temes/cultura/llegendes/el-roc-de-les-bruixes.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `viquipedia-ca` |
 | [La bruixa de Sornàs](temes/cultura/llegendes/la-bruixa-de-sornas.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `viquipedia-ca` |
 | [La troballa de Meritxell](temes/cultura/llegendes/la-troballa-de-meritxell.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `premsa-andorrana` |
+| [Les bruixes d'Engolasters](temes/cultura/llegendes/les-bruixes-dengolasters.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `anglada-origens-parla-andorrana` |
 | [Llegendes — índex](temes/cultura/llegendes/llegendes.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/cultura/museus-i-arxius
