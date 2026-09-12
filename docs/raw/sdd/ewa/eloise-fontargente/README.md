@@ -753,6 +753,17 @@ de quai Charles Vallet a quai du Magasin. Això suggereix una denominació o
 adscripció postal posterior, no l'absència de l'immoble ni una cerca nominal
 exhaustiva de totes les llars.
 
+El recensement anterior, de **1931**, `6 M 132`, resol directament el domicili.
+A la pàgina impresa 126, media 125, la casa **5 quai Vauban**, ménage 1441,
+enumera **Pierre Dreyfus Schmidt**, nascut el 1902 a Belfort, cap de família i
+advocat; **Yvonne, née Kahn**, 1903, Belfort, esposa; el fill **Jacques
+Dreyfus Schmidt**, 1930, Belfort; i la criada **Marie Settler**, 1910, Erstein,
+empleada per Dreyfus Schmidt. El facsímil converteix el 5 quai Vauban en
+domicili conjugal provat vint-i-quatre anys abans de la mort d'André. Amb
+aquesta font, la identitat de la declarant de 1955 és pràcticament segura i
+`quarante ans` s'ha de llegir com un error material, tot mantenint-lo a la
+transcripció.
+
 Les Archives municipales de Belfort aporten també una font iconogràfica: la
 notice `2Z/35`, relacionada amb `7Fi/231`, descriu una fotografia d'identitat
 d'**«André Dreyfus-Schmidt, frère de Pierre»**, en blanc i negre, 5,5 × 4,5 cm,
