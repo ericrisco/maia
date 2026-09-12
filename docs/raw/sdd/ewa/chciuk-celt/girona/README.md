@@ -93,6 +93,54 @@ posada a disposició, resumeix la tapadera i remet una carta, un telegrama i dos
 mapes intervinguts. El dossier digitalitzat no conté, en aquestes pàgines, una
 ordre nominal de trasllat a Miranda.
 
+## El segon expedient: Centre Penitenciari de Girona
+
+L'AHG conserva el fons [`AHG170-274`, *Centre Penitenciari de
+Girona*](https://arxiusenlinia.cultura.gencat.cat/#/cercaavancada/detallfons/AHG170-274),
+1924–2010, amb 52,50 metres lineals i 430 unitats d'instal·lació. S'organitza
+en quatre sèries: expedients d'interns, fitxes dactiloscòpiques, documentació de
+secretaria i fitxes nominals.
+
+Una cerca avançada reproduïble dins el fons retorna 3.868 descripcions
+públiques, però zero per `James Hughes`, `Hughes`, `Huges`, `Chciuk` i `Celt`.
+La descripció oficial explica exactament per què aquest resultat **no és una
+absència documental**:
+
+- el catàleg complet està parcialment restringit al personal de l'AHG;
+- Arxius en Línia només deixa consultar lliurement els expedients tancats
+  **abans de 1940**;
+- els expedients tancats fins al 1949 són de lliure accés si l'usuari signa un
+  compromís de confidencialitat;
+- hi ha llacunes conegudes perquè una part dels expedients no ingressà a
+  l'arxiu i es considera perduda;
+- entre 2023 i 2024 l'AHG descrigué de nou 1.582 fitxes nominals i 12.146 fitxes
+  dactiloscòpiques.
+
+Per tant, una cerca de 1943 només la pot fer el personal del centre al catàleg
+GIAC intern. Si l'expedient principal s'ha perdut, encara pot sobreviure una
+fitxa nominal, una fitxa dactiloscòpica o un assentament de secretaria.
+
+### Esborrany de petició a l'AHG
+
+> Benvolguts/des, en el marc d'una recerca històrica sobre el correu polonès
+> Tadeusz Chciuk-Celt (1916–2001), sol·licito que comproveu al catàleg intern
+> del fons `AHG170-274, Centre Penitenciari de Girona` l'existència d'un
+> expedient d'intern, fitxa nominal, fitxa dactiloscòpica o assentament de
+> secretaria a nom de `James Hughes` o `James Huges`. L'expedient de frontera
+> `AHG170-478-T2-29556`, p. 38–42, documenta que era un britànic declarat de 26
+> anys, estudiant de Dret i tinent pilot RAF, conduït des de Campdevànol i
+> ingressat a la Presó Provincial de Girona el 16 de gener de 1943, a
+> disposició del governador militar. Agrairia especialment qualsevol data i
+> ordre de sortida o conducció a Miranda de Ebro, número d'expedient
+> penitenciari, filiació, fotografia o signatura. Accepto formalitzar el
+> compromís de confidencialitat previst per als expedients tancats abans de
+> 1950. Si l'expedient no es conserva, us agrairia la confirmació de la llacuna
+> i la comprovació de les quatre sèries del fons.
+
+El canal de referència publicat és `ahg.cultura@gencat.cat`, telèfon
+`+34 972 22 55 00`, plaça de Sant Josep 1, 17004 Girona. **No s'ha enviat** la
+petició.
+
 ## El problema Andorra–Puigcerdà
 
 El testimoni oral de Chciuk de 1991 recorda explícitament un precipici a
@@ -143,6 +191,14 @@ persona**.
 - `arxius-en-linia-environment.json`: configuració pública que identifica el
   backend oficial, SHA-256
   `1de2dd347456b20dc9dfeaa2be1997bc9e31193822db8665f86b31d124203d47`.
+- `fons-centre-penitenciari.json`: descripció oficial completa de
+  `AHG170-274`, incloses les condicions d'accés;
+- `search-prison-catalog.json`: tall reproduïble de les 3.868 unitats visibles,
+  SHA-256
+  `240e5a8d7e9adcbbe2e104acca2c9e49de8fee6b4c30530ec19e65aaa55fdc6f`;
+- `search-prison-*.json`: controls nominals negatius dins la part pública;
+- `xac-centre-penitenciari.html`: presentació institucional del fons, SHA-256
+  `e06cffea66f05cc192ed9af212764f6623e5d38e8d01aa3da035e60e65205370`.
 
 ## Procedència, drets i límits d'ús
 
@@ -170,8 +226,9 @@ persona**.
    edat, data d'ingrés, procedència i signatura.
 2. Cercar al fons general del Govern Civil de Girona la sèrie 05.01.05,
    *Conducció de presos i relacions de detinguts, 1941–1995*.
-3. Localitzar els llibres d'ingrés de la Presó Provincial de Girona del
-   16/01/1943 i l'ordre de conducció posterior a Miranda.
+3. Demanar a l'AHG la cerca interna en les quatre sèries de `AHG170-274`, amb
+   el compromís de confidencialitat, per localitzar l'ingrés del 16/01/1943 i
+   l'ordre de conducció posterior a Miranda.
 4. Verificar la falsa o real missió de Lille del 17/11/1942 als ORB i informes
    de pèrdues RAF.
 5. Comparar la signatura `James Hughes` amb autògrafs autenticats de Chciuk.
