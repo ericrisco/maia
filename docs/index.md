@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**223** documents · **40** fonts · **0** aptes com a model de llengua · **96** temes amb contingut.
+**225** documents · **41** fonts · **0** aptes com a model de llengua · **96** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -519,7 +519,9 @@
 | [La Universitat d'Andorra](temes/societat/educacio/la-universitat-dandorra.md) | `temes/societat/educacio` | compilada | contemporania | no | `bastida-universitat-andorra` |
 | [L'andorranització](temes/societat/educacio/landorranitzacio.md) | `temes/societat/educacio` | compilada | contemporania | no | `bastida-roser-ensenyament-andorra` |
 | [L'ensenyament confessional](temes/societat/educacio/lensenyament-confessional.md) | `temes/societat/educacio` | compilada | contemporania | no | `garcia-ensenyament-confessional` |
+| [L'ensenyament espanyol](temes/societat/educacio/lensenyament-espanyol.md) | `temes/societat/educacio` | compilada | contemporania | no | `boladeres-ensenyament-espanyol` |
 | [L'ensenyament francès](temes/societat/educacio/lensenyament-frances.md) | `temes/societat/educacio` | compilada | contemporania | no | `toquec-ensenyament-frances` |
+| [Les escoles dels comuns](temes/societat/educacio/les-escoles-dels-comuns.md) | `temes/societat/educacio` | compilada | historica | no | `boladeres-ensenyament-espanyol` |
 | [L'Escola Andorrana](temes/societat/educacio/lescola-andorrana.md) | `temes/societat/educacio` | compilada | contemporania | no | `cairal-escola-andorrana` |
 | [L'escola Nostra Senyora de Meritxell](temes/societat/educacio/lescola-nostra-senyora-de-meritxell.md) | `temes/societat/educacio` | compilada | contemporania | no | `serra-educacio-especialitzada` |
 | [L'esquí escolar](temes/societat/educacio/lesqui-escolar.md) | `temes/societat/educacio` | compilada | contemporania | no | `bastida-roser-ensenyament-andorra` |
@@ -716,6 +718,7 @@
 | [`bascompte-privilegis`](fonts/bascompte-privilegis.md) | Domènec Bascompte i Grau · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`bastida-roser-ensenyament-andorra`](fonts/bastida-roser-ensenyament-andorra.md) | Roser Bastida i Areny · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`bastida-universitat-andorra`](fonts/bastida-universitat-andorra.md) | Daniel Bastida i Obiols · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`boladeres-ensenyament-espanyol`](fonts/boladeres-ensenyament-espanyol.md) | Antoni Boladeres i Sorribes · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`cairal-escola-andorrana`](fonts/cairal-escola-andorrana.md) | M. Teresa Cairat i Vila · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`camiade-migracions`](fonts/camiade-migracions.md) | Martina Camiade · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`canturri-usos-i-costums`](fonts/canturri-usos-i-costums.md) | Pere Canturri i Montanya · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |

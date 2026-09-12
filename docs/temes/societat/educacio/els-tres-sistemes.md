@@ -149,5 +149,7 @@ Els universitaris que estudien al Principat van passar de **15 el curs
 - [L'estàndard contra la varietat](../../llengua/dialectologia/lestandard-contra-la-varietat.md)
 - [La Universitat d'Andorra](./la-universitat-dandorra.md) — on desemboquen, quan no marxen.
 - [L'Escola Andorrana](./lescola-andorrana.md) — el sistema propi, i per què el castellà entra l'últim.
+- [L'ensenyament espanyol](./lensenyament-espanyol.md) — qui hi fa classe i qui ho paga.
+- [Les escoles dels comuns](./les-escoles-dels-comuns.md) — l'escola anterior als tres sistemes.
 - [La cronologia escolar](./la-cronologia-escolar.md) — les mateixes dates, afinades.
 - [El mapa escolar del 2000](./el-mapa-escolar-del-2000.md) — els centres, un per un.

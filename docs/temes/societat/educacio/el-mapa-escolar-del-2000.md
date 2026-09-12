@@ -195,6 +195,12 @@ sigui casual, i que la font mateixa atribueix a la política dels coprínceps
 | Sant Julià de Lòria — infantil i primària | 134 |
 | Escaldes-Engordany — infantil i primària | 162 |
 
+**Comprovació creuada:** el director de l'Escola Espanyola d'Andorra la Vella
+dona, al mateix volum, **878 alumnes** per al conjunt de les escoles espanyoles
+d'infantil i primària. **878 + 532 + 180 = 1.590**, contra els **1.594**
+d'aquesta taula: **dues fonts independents, quatre alumnes de diferència**
+([l'ensenyament espanyol](./lensenyament-espanyol.md)).
+
 **Escoles congregacionals (1.939):**
 
 | Centre | Alumnes |

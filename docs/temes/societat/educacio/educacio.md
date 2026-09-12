@@ -82,5 +82,7 @@ premsa i s'haurien de reverificar.
 - [La formació d'adults](./la-formacio-dadults.md) — i el lectorat de català a Praga.
 - [L'esquí escolar](./lesqui-escolar.md) — l'assignatura obligatòria del segon trimestre.
 - [L'Escola Andorrana](./lescola-andorrana.md) — la van demanar uns pares el 1982.
+- [L'ensenyament espanyol](./lensenyament-espanyol.md) — mestres que no s'hi poden quedar més de sis anys.
+- [Les escoles dels comuns](./les-escoles-dels-comuns.md) — el 1920, les úniques que hi havia.
 - [L'ensenyament confessional](./lensenyament-confessional.md) — des del 1882, la sèrie més antiga.
 - [Índex legislatiu en educació](./index-legislatiu-en-educacio.md) — 48 normes amb BOPA i data.

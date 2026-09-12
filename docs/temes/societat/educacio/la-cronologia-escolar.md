@@ -37,7 +37,7 @@ el comú és, històricament, **qui fa les coses que a un altre país fa l'estat
 | --- | --- |
 | **30 de març de 1882** | S'obre a **Canillo** el **primer col·legi del Principat**, de les **germanes de la Sagrada Família d'Urgell**. **El primer sistema educatiu que s'estableix al país és l'espanyol**, i hi entra per la via religiosa. Detall a [l'ensenyament confessional](./lensenyament-confessional.md). |
 | **1900** | Obren **les primeres escoles franceses**, successivament en diferents parròquies. |
-| **1930** | El sistema educatiu espanyol amplia la seva presència amb **les primeres escoles espanyoles** (ja no congregacionals). |
+| **1930** | El sistema educatiu espanyol amplia la seva presència amb **les primeres escoles espanyoles** (ja no congregacionals): el ministeri espanyol «obre definitivament les escoles de primària» ([l'ensenyament espanyol](./lensenyament-espanyol.md)). |
 
 **Detall que canvia la lectura:** l'espanyol arriba **divuit anys abans** que el
 francès, i arriba **de mà de l'església, no de l'estat**. L'estat espanyol com a
@@ -69,6 +69,7 @@ Sempre, diu la font, **«de conformitat amb el Consell General»**:
 | --- | --- |
 | **1956** | El sistema francès crea **la segona ensenyança**, amb el curs complementari d'ensenyament general. |
 | **1962** | L'ensenyament espanyol ofereix **els nivells de secundària**. |
+| **1964** | Espanya estableix una **delegació d'ensenyament mitjà** a Andorra la Vella, **depenent de la Seu d'Urgell** — després institut de batxillerat. |
 | **17 d'octubre de 1966** | El bisbe **Iglesias Navarri** inaugura el **col·legi Sant Ermengol**, dirigit pels **salesians**, amb un patronat **meitat Consell, meitat Mitra**. |
 
 ## El sistema andorrà: la sèrie que importa
@@ -129,9 +130,11 @@ si mateixa abans de definir-se jurídicament.
 
 ## Buits registrats
 
-- **Les escoles dels comuns al segle XIX**: quantes, on, què s'hi ensenyava, en
-  quina llengua. **Buit prioritari** — és l'única escola andorrana anterior a
-  tot, i el corpus no en té res.
+- ~~Les escoles dels comuns al segle XIX~~ — **parcialment tancat** a
+  [les escoles dels comuns](./les-escoles-dels-comuns.md), amb la descripció que
+  en fa **Fernando de los Ríos el 1920**: una per parròquia, al cap de
+  parròquia, mixta, pagada pel comú. **Segueix obert en quina llengua s'hi feia
+  classe.**
 - ~~Per què el 1882 i per què la Sagrada Família~~ — **tancat** a
   [l'ensenyament confessional](./lensenyament-confessional.md): el bisbe Casañas,
   la mare Anna M. Janer i cinc germanes que pugen dos dies riu amunt.
@@ -143,6 +146,8 @@ si mateixa abans de definir-se jurídicament.
 
 ## Related
 
+- [Les escoles dels comuns](./les-escoles-dels-comuns.md) — el que hi havia abans de tot.
+- [L'ensenyament espanyol](./lensenyament-espanyol.md) — el sistema més gran, explicat des de dins.
 - [L'Escola Andorrana](./lescola-andorrana.md) — el sistema propi, explicat des de dins.
 - [L'ensenyament confessional](./lensenyament-confessional.md) — la sèrie més antiga, amb dia i mes.
 - [Els tres sistemes](./els-tres-sistemes.md) — la mateixa història, vista des de la llengua.

@@ -33,6 +33,13 @@ I no de qualsevol manera:
 **«De tots els centres docents del país»** vol dir **els tres sistemes**: també
 les escoles espanyoles i franceses.
 
+**Confirmat per una segona font independent.** El director de l'Escola Espanyola
+d'Andorra la Vella, al mateix volum, enumera el que paga el Govern d'Andorra i hi
+inclou **«esquí escolar (obligatori en tots els sistemes educatius i cicles
+d'ensenyament obligatori)»**
+([l'ensenyament espanyol](./lensenyament-espanyol.md)). **El paga Andorra i
+l'obliga a tothom.**
+
 **Més de sis mil alumnes** hi participaven el 1999-2000. Sobre una població
 escolar de **9.363** ([el mapa escolar](./el-mapa-escolar-del-2000.md)), és
 **gairebé dos de cada tres**.
@@ -114,7 +121,10 @@ mig, i la resta a cobert.
 - **L'Escola Nacional Andorrana d'Esquí**: quan es crea, què hi fa, qui la
   dirigeix. La llei de 1996 en **modifica** una d'anterior que el corpus no té.
 - **Si continua sent obligatori el 2026.**
-- **Qui ho paga**, exactament, i què costa.
+- ~~Qui ho paga~~ — **tancat**: **el Govern d'Andorra**, també per als alumnes
+  dels sistemes espanyol i francès
+  ([l'ensenyament espanyol](./lensenyament-espanyol.md)). **Queda obert què
+  costa.**
 - **Com se'n parla**: el lèxic andorrà de l'esquí i de la neu no està al corpus.
   **Buit important per a la fase 3** — és vocabulari que tot el país té i que
   un model general no tindrà en la forma andorrana.
