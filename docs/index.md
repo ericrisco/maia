@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**299** documents · **85** fonts · **0** aptes com a model de llengua · **107** temes amb contingut.
+**300** documents · **86** fonts · **0** aptes com a model de llengua · **107** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -453,6 +453,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Andorra com a microestat](temes/institucions/petits-estats/andorra-com-a-microestat.md) | `temes/institucions/petits-estats` | compilada | contemporania | no | `mateu-petits-estats-especificitat` |
+| [Els petits estats comparats](temes/institucions/petits-estats/els-petits-estats-comparats.md) | `temes/institucions/petits-estats` | compilada | contemporania | no | `estadistica-petits-estats-2015` |
 
 ## temes/institucions/quarts-i-veinats
 
@@ -868,6 +869,7 @@
 | [`duro-rol-del-parlamentari`](fonts/duro-rol-del-parlamentari.md) | Josep Duró i Coma · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`escaler-cambra-de-comerc`](fonts/escaler-cambra-de-comerc.md) | Pilar Escaler i Penella · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`escribano-musica`](fonts/escribano-musica.md) | Josep Maria Escribano i Casaldàliga · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`estadistica-petits-estats-2015`](fonts/estadistica-petits-estats-2015.md) | Departament d'Estadística d'Andorra · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`ferrer-percepcio-andorra-exterior`](fonts/ferrer-percepcio-andorra-exterior.md) | Josep Ferrer i Altimira · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`figuereda-nombre-de-diputats`](fonts/figuereda-nombre-de-diputats.md) | Pere Figuereda i Cairol · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`font-fenomens-socials-immigracio`](fonts/font-fenomens-socials-immigracio.md) | Agustí Font · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |

@@ -127,7 +127,7 @@ que el corpus tenia registrat a
 | 25a | 2012 | Andorra i l'obertura econòmica | — |
 | 26a | 2013 | La nacionalitat andorrana | — |
 | 27a | 2014 | Models de país per a Andorra | — |
-| **28a** | **2015** | **Andorra i els petits estats d'Europa** | **sí** |
+| **28a** | **2015** | **Andorra i els petits estats d'Europa** | **sí** — *els gràfics de la ponència d'estadística són imatges: [necessita OCR parcial](../fonts/estadistica-petits-estats-2015.md)* |
 | **29a** | **2016** | **El canvi climàtic i Andorra** | **sí** |
 | 30a | 2017 | Andorra i l'acord d'associació amb la Unió Europea | — |
 | **31a** | **2018** | **El parlamentarisme andorrà** | **sí** (sencer, 25 ponències) |

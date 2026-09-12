@@ -147,16 +147,28 @@ consta:
 ## Buits registrats
 
 1. **Els textos** d'aquestes normes. Cap no s'ha consultat.
-2. **El sufragi femení** a Andorra: any i llei. **Buit prioritari.**
+2. ~~**El sufragi femení** a Andorra: any i llei. **Buit prioritari.**~~
+   **EL CORPUS JA HO SABIA EN UNA ALTRA BRANCA**, amb dates i votacions:
+   [el sufragi femení](../../societat/dones/el-sufragi-femeni.md) — vot concedit
+   pel Consell General el **4 de juliol de 1969** (10 a 8), decret dels delegats
+   permanents el **14 d'abril de 1970**, primer vot el **14 de desembre de 1971**,
+   i **sufragi passiu el 24 de maig de 1973**. *Aquest buit era un buit de
+   referència creuada, no de coneixement.*
 3. **Les lleis de nacionalitat de 1939 i 1977** — el corpus té el resultat
    ([els andorrans de primera generació](../nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md))
    i no les normes.
-4. **Què passa del 1993 al 2026.** Aquesta cronologia **s'atura el 1991**.
+4. **Què passa del 1993 al 2026.** Aquesta cronologia **s'atura el 1991**, i el
+   corpus ja en té el retrat quantitatiu:
+   [el dret andorrà vigent](./el-dret-vigent.md) compta **104 normes i 8.956
+   articles**, amb **85 de les 93 datables del 2010 endavant**. **El que falta és
+   la cronologia any per any**, no el volum.
 5. Per què **1969, fallides** és de les primeres normes econòmiques.
 6. **El BOPA**: per què es regula dues vegades, el 1983 i el 1989.
 
 ## Related
 
+- [El sufragi femení](../../societat/dones/el-sufragi-femeni.md) — la data que aquesta cronologia buscava.
+- [El dret andorrà vigent](./el-dret-vigent.md) — el que ve després del 1991.
 - [Les fonts del dret](./les-fonts-del-dret.md) — d'on venia tot això.
 - [La justícia abans de la Constitució](./la-justicia-dabans.md) — com s'aplicava.
 - [La Constitució de 1993](../../historia/constitucio-1993/constitucio-1993.md) — el que ve després.

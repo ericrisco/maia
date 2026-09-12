@@ -275,8 +275,11 @@ sense suavitzar: **és el que diu la font, i qui la diu importa.**
 - **Els altres nou petits estats europeus**, cadascun amb fitxa. Al mateix volum
   hi ha ponències sobre **el Vaticà, Mònaco, San Marino, Estònia, Suïssa i
   Luxemburg**, no llegides.
-- **Les estadístiques comparades** que el Departament d'Estadística va presentar
-  a la mateixa Diada. **Buit prioritari** — serien xifres andorranes de 2015.
+- ~~**Les estadístiques comparades** que el Departament d'Estadística va presentar
+  a la mateixa Diada. **Buit prioritari**.~~ **TANCAT** (en la part que el text
+  recupera): [els petits estats comparats](./els-petits-estats-comparats.md).
+  **Els gràfics del PDF són imatges i no s'han extret**, de manera que hi ha el
+  comentari del Departament i no totes les xifres. Queda obert **fer-ne OCR**.
 - **Els Jocs dels Petits Estats d'Europa** i la participació andorrana. Vegeu
   [esports](../../esports/README.md).
 - **Les trobades anuals de presidents de parlament** dels petits estats: **2014 a
@@ -287,6 +290,8 @@ sense suavitzar: **és el que diu la font, i qui la diu importa.**
 - **Com ha anat la partida** des del 2015.
 
 ## Related
+
+- [Els petits estats comparats](./els-petits-estats-comparats.md) — les xifres del Departament d'Estadística, del 2014.
 
 - [Petits estats](./README.md)
 - [El Coprincipat](../coprincipat/el-coprincipat.md)
