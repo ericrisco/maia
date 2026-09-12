@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**311** documents · **90** fonts · **0** aptes com a model de llengua · **107** temes amb contingut.
+**312** documents · **91** fonts · **0** aptes com a model de llengua · **107** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -720,6 +720,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [La confiança](temes/societat/vida-civica/la-confianca.md) | `temes/societat/vida-civica` | compilada | contemporania | no | `mico-batalla-valors-capital-social` |
 | [La vida cívica](temes/societat/vida-civica/vida-civica.md) | `temes/societat/vida-civica` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/territori/clima-i-muntanya
@@ -909,6 +910,7 @@
 | [`mateu-petits-estats-especificitat`](fonts/mateu-petits-estats-especificitat.md) | Vicenç Mateu i Zamora · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mateu-pi-consellera-general`](fonts/mateu-pi-consellera-general.md) | Meritxell Mateu i Pi · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mateu-zamora-reforma-reglament`](fonts/mateu-zamora-reforma-reglament.md) | Vicenç Mateu i Zamora · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`mico-batalla-valors-capital-social`](fonts/mico-batalla-valors-capital-social.md) | Joan Micó i Ibáñez i Josepa Batalla i Salvadó · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mico-interculturalitat`](fonts/mico-interculturalitat.md) | Joan R. Micó i Ibàñez · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
 | [`molla-catala-andorra`](fonts/molla-catala-andorra.md) | Guillem Molla · Universitat de Girona · revista IANUA | publicació acadèmica en accés obert | pendent |
 | [`museus-itinerari-sergi-mas`](fonts/museus-itinerari-sergi-mas.md) | Govern d'Andorra · Ministeri de Cultura | drets reservats · contingut institucional públic | pendent |

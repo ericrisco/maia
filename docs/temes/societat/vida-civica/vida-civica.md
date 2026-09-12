@@ -73,6 +73,7 @@ andorrana. **I el corpus gairebé no en sap res.**
 
 ## Related
 
+- [La confiança](./la-confianca.md) — l'Enquesta mundial de valors a Andorra, 2005.
 - [Associacionisme](../associacionisme/associacionisme.md)
 - [Democratització](../../historia/democratitzacio/democratitzacio.md)
 - [Quarts i veïnats](../../institucions/quarts-i-veinats/quarts-i-veinats.md)

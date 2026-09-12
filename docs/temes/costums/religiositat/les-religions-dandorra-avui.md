@@ -137,8 +137,35 @@ pot dir de quin any és cadascuna.**
    l'altra declarativa.** Vegeu
    [el registre d'entitats religioses](./el-registre-dentitats-religioses.md).
 
+## Una xifra que no és de creences sinó de confiança
+
+El corpus té **quanta gent hi ha de cada religió** i **no tenia què en pensa la
+població**. L'**Enquesta mundial de valors del 2005** ho mesura:
+
+**Només un 20% dels residents a Andorra declara confiar molt o bastant en
+l'Església.** És **l'antepenúltima** de setze institucions, per sota dels
+sindicats (27%) i només per sobre dels partits polítics (16%)
+([la confiança](../../societat/vida-civica/la-confianca.md)).
+
+**I la comparació la fa dura: a Portugal, l'Església és la institució que inspira
+més confiança, amb un 80%** — i els portuguesos són **la tercera nacionalitat
+d'Andorra**. **Quatre vegades més confiança a Portugal que a Andorra, en la
+mateixa institució.**
+
+I un matís que explica el 20%: entre els qui declaren pertànyer a l'Església o a
+una organització religiosa, **la majoria es consideren membres inactius**,
+mentre que els membres d'entitats esportives, culturals o humanitàries **es
+declaren actius**. **Pertànyer-hi és una identitat heretada, no una activitat.**
+
+**Confiança per perfil:** més entre **dones**, **gent gran**, **menys estudis**,
+**nacionalitat portuguesa o d'altres**, i **centre i dreta**.
+
+**Buit registrat:** per què l'Església andorrana té un 20% de confiança en un
+país el cap d'estat del qual és un bisbe. **Cap font del corpus ho explica.**
+
 ## Related
 
+- [La confiança](../../societat/vida-civica/la-confianca.md) — la xifra sencera, amb les altres quinze institucions.
 - [El registre d'entitats religioses](./el-registre-dentitats-religioses.md) — el marc legal, i on són les dades que falten.
 
 - [La religiositat](./religiositat.md) — la catòlica, que és la de sempre.
