@@ -593,8 +593,21 @@ Tanmateix, la seva nota remet a Francis Aguila i Claude Benet: és una síntesi
 útil, no una prova independent del procés. L'índex oficial del Service
 historique de la Défense aporta una nova pista primària: dossier homologat
 **`GR 16 P 272869`**, `GRUMBACH, Jacques`, nascut a París el **09.04.1902**.
-Aquesta data discrepa del 19 d'abril difós per biografies posteriors i s'ha de
-resoldre amb l'acta de naixement i el dossier complet.
+Aquesta data discrepava del 19 d'abril difós per biografies posteriors, però
+l'acta de naixement original ja resol el conflicte. L'acta **1137**, registre
+**`V4E 9468`** del 12è arrondissement, fou aixecada l'11 d'abril i diu que
+Jacques havia nascut `avant-hier` a les vuit del matí: per tant, el **9 d'abril
+de 1902**. Era fill de Jules Grumbach, de trenta-sis anys i empleat de comerç,
+i de Berthe Grumbach, de vint-i-quatre; el domicili familiar era el 9 rue
+Fabre-d'Églantine.
+
+La mateixa acta obre una segona rectificació. Una menció marginal, incorporada
+amb referència `1639` i una data que sembla 1/3/1947, declara que morí el **25
+de novembre de 1942** «dans la région de l'Andorre. Frontière Espagnole».
+Aquesta font civil contradiu el 26 de novembre de Sanguin i biografies
+posteriors. És prioritària per a l'estat civil, però encara cal obtenir l'acte
+de defunció o la sentència declarativa que originà la menció per saber si el
+dia 25 és data judicial reconstruïda o data efectiva acreditada.
 
 Les descàrregues directes actuals de les quatre URL de *Le Monde* només
 retornen una pàgina tècnica `Client Challenge`; es conserven per documentar el
@@ -663,6 +676,7 @@ prové de la representació web accessible, amb data i URL registrades.
 | `francesc-viadiu-fons/grumbach/shd-gr16p-g-index.pdf`, `.txt` | Índex oficial del Service historique de la Défense; entrada `GR 16 P 272869` de Jacques Grumbach, homologada. |
 | `francesc-viadiu-fons/grumbach/lemonde-*.html` | Controls de descàrrega fallits: quatre pàgines tècniques `Client Challenge` idèntiques, no el text dels articles. |
 | `francesc-viadiu-fons/grumbach/consulta-arxius-ariege-esborrany.md` | Petició detallada de localització i reproducció del procés de Foix i diligències relacionades; preparada però no enviada. |
+| `francesc-viadiu-fons/grumbach/paris-etat-civil/*` | API del visor, foli complet, retalls verificats de l'acta 1137 i la menció marginal, OCR de context, hashes i transcripció diplomàtica de treball. |
 | `internet-archive-isbn-search.json` | Cerca pels ISBN català i francès: zero resultats. |
 | `openlibrary-isbn-search.json` | Registre bibliogràfic sense ebook ni text complet. |
 
@@ -765,8 +779,9 @@ Els SHA-256 de tots els fitxers es van calcular el 12/09/2026. Destaquen:
 30. Sol·licitar al Service historique de la Défense el dossier homologat de
     Jacques Grumbach `GR 16 P 272869` i comprovar serveis, xarxa, circumstàncies
     de mort i fonts aportades per a l'homologació.
-31. Obtenir l'acta de naixement parisenca de Jacques Grumbach per resoldre la
-    discrepància entre el 9 i el 19 d'abril de 1902.
+31. Localitzar l'acte de defunció o la sentència declarativa que originà la
+    menció marginal `1639` de l'acta de naixement; resoldre la discrepància
+    entre el 25 i el 26 de novembre de 1942 i la naturalesa de la data.
 32. Identificar documentalment `Morchon`, Pierre Dreyfus-Schmidt, Roger
     Lauzemberg, Mme Courdil i la muntanyenca andorrana; separar el que cadascun
     declarà del que els resums periodístics hi afegiren.
