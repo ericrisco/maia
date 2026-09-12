@@ -14,6 +14,7 @@ ZIP es mantenen com a evidència bruta, amb errors, camps buits i duplicats.
 | `adg/` | Arxiu Diocesà de Girona, <https://www.arxiuadg.org/index.php/arxius/parroquies> i API pública de <https://arxiubisbatgirona.org/> | Catàleg de Sant Cristòfol de Beget i descripció del llibre `B6`, 1881–1914 | Còpia de treball del catàleg. No s'ha obtingut ni redistribuït cap imatge del llibre; el visor requereix identificació. Drets de reproducció no determinats. |
 | `censo-guia/` | Ministeri de Cultura, <https://censoarchivos.cultura.gob.es/CensoGuia/> | Fitxes HTML del fons `ES.8019.ATSJC/.6` i del centre custodial | Informació pública administrativa. Condicions específiques de reutilització no verificades; conservar com a evidència de recerca. |
 | `dachau-gedenkbuch/` | KZ-Gedenkstätte Dachau, <https://gedenkbuch.kz-gedenkstaette-dachau.de/en> | Portada, codi públic de consulta i controls nominals del llibre digital de morts | Còpies HTML/JS de treball. El resultat negatiu només descriu el cercador i la versió consultats; no és una prova universal d'absència. No emprar el codi com a corpus d'entrenament. |
+| `dautmergen-lists/` | Gedenkstätte Eckerwald, Arolsen Archives, KZ-Gedenkstätte Hailfingen/Tailfingen i LpB Baden-Württemberg | Llista de morts, transport de 973 presos a Dachau-Allach, expedient 5.3.3 i fitxa del gairebé homònim Carrere Modeste | Còpies de treball i OCR local. No reutilitzar les imatges o monografies com a corpus sense comprovar els drets de cada productor. |
 | `gasol-1922/` | *Gaceta de Madrid* / BOE, <https://www.boe.es/gazeta/dias/1922/05/19/pdfs/GMD-1922-139.pdf> | Número 139 de 19/05/1922, OCR i render de la p. PDF 4 / p. impresa 652, on apareix `Modesto Carrera Gasol` | Publicació oficial històrica servida pel BOE. Còpia íntegra de preservació i derivats locals de lectura; conservar atribució. |
 | `google-books/` | Google Books, volum `itqzHiFA0NYC`, <https://books.google.es/books?id=itqzHiFA0NYC>, i mostra bibliogràfica de GBV | Respostes JSON del cercador intern, fragments breus de l'índex i mostra de tres pàgines del *Libro Memorial* | Metadades, fragments de cerca i mostra pública, no una còpia del llibre. Subjectes a les condicions dels proveïdors i als drets de l'edició de 2006; no emprar com a text d'entrenament. |
 | `itinerari/` | Mémorial du KL Natzweiler-Struthof, KZ-Gedenkstätte Neuengamme i Association Française Buchenwald Dora et Kommandos | Històries institucionals o memorials de Dautmergen, Wöbbelin i Emma/Eisenach | Còpies HTML de treball per contrastar cronologies i dependències administratives. Condicions específiques de reutilització no verificades; no emprar com a corpus d'entrenament. |
@@ -26,6 +27,8 @@ ZIP es mantenen com a evidència bruta, amb errors, camps buits i duplicats.
 | `saint-marsal/` | Archives départementales des Pyrénées-Orientales i FranceArchives | Vies de consulta del cens de 1936 de Saint-Marsal i resposta antirobot d'una cerca nominal | Les pàgines institucionals són còpies de treball. La resposta antirobot no és un resultat de cerca; no emprar com a corpus d'entrenament. |
 | `pares/` | Ministeri de Cultura, Portal de Víctimes i <https://pares.cultura.gob.es/Deportados/servlets/ServletController> | Formularis, resultats de control, fitxa pública `495531` i cerques actuals per `Carrera`, `Modesto` i `Birba` | Còpies HTML de consulta pública. No contenen cookies ni credencials. Condicions específiques de reutilització no verificades. |
 | `reparacio-juridica/` | Arxiu Nacional de Catalunya / Dades Obertes, <https://analisi.transparenciacatalunya.cat/api/v3/views/3bjt-k7vu/export.csv?accessType=DOWNLOAD> | Exportació completa de la llista de reparació jurídica, versió consultada el 12/09/2026 | Conjunt oficial de dades obertes; cal conservar l'atribució i la data de descàrrega. |
+| `resistance/` | Ministère des Armées / Mémoire des hommes i SHD Vincennes | Exportació de títols i homologacions de resistència, fila de Carrera i índex `GR 16 P` | Dades oficials reutilitzables amb atribució i data; els camps buits no autoritzen a inferir xarxa o unitat. |
+| `web-secondary/` | Blog *Víctimas de la Guerra Civil Española* i captures Wayback de Bernard Teyssès | Transmissió web 2001–2009 d'una llista de deportats | Fonts derivades per a crítica de transmissió; drets no determinats, no usar com a corpus d'entrenament. |
 
 L'original `memoire-des-hommes/mdh-downloads.html` es conserva en aquest
 directori de treball però queda exclòs del Git: la pàgina oficial incorpora un
@@ -59,6 +62,12 @@ contenen aquest valor i són suficients per auditar la descàrrega.
   `e81c9995a3bced73904ac0878db7cb052203b6d3375707c39633ed416d500978`.
 - `dachau-gedenkbuch/search-carrera.html` — SHA-256
   `9217766d314d54953f62febe95d2085111bd89c47250c1d4b4f4a9218d12b842`.
+- `dautmergen-lists/dautmergen-zekorn-2019-full.pdf` — SHA-256
+  `e92c2c1dbe8bc9f3ec141f9a7da90e2910fa52ea4049996b3f838ba978c3991e`.
+- `dautmergen-lists/deceased-dautmergen-schoemberg.pdf` — SHA-256
+  `37643bf7b55b23b8c6e38859dcc4763a62821611c0c2febfe8ee073578acbe45`.
+- `resistance/titres-homologations-services-2026.zip` — SHA-256
+  `2f823b8d23b46e89ebae807403d53b4a4f83feb35c9b2e21bcf86604591e14d7`.
 
 ## Notes de lectura
 
@@ -100,5 +109,15 @@ contenen aquest valor i són suficients per auditar la descàrrega.
 - El llibre digital de morts de Dachau no retorna les variants nominals, el
   lloc de naixement ni la matrícula `74159` en les cerques conservades. És un
   negatiu acotat a aquesta font i versió, no una prova que Carrera fos viu.
+- El `07/04/1945` atribuït a Carrera coincideix exactament amb la mort de
+  `CARRERE, MODESTE`, `AC 21 P 433629`, l'únic nom espanyol de la llista
+  memorial de Dautmergen i Schömberg. És una hipòtesi forta de contaminació
+  entre registres, pendent de l'auditoria de procedència del Banc.
+- La mateixa data encapçala una llista de transport de 973 presos de
+  Dautmergen cap a Dachau-Allach. El fragment nominal disponible no conté
+  Carrera i no se l'ha incorporat al comboi per inferència.
+- Mémoire des hommes homologa `CARRERA, Modeste`, 20/12/1910, Baget, com a
+  **DIR** i remet a `GR 16 P 108505`. La fila no identifica xarxa, moviment o
+  unitat; només el dossier pot reconstruir l'activitat resistent concreta.
 - Cap absència en aquestes exportacions s'ha d'interpretar com una prova
   universal d'absència documental.
