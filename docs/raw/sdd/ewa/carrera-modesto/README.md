@@ -23,6 +23,7 @@ ZIP es mantenen com a evidència bruta, amb errors, camps buits i duplicats.
 | `memorial-democratic/` | Memorial Democràtic, <https://banc.memoria.gencat.cat/ca/results/deportats>, i descripció del fons <https://memoria.gencat.cat/ca/que-fem/banc-de-la-memoria/fons/deportats-catalans-i-espanyols-als-camps-nazis> | Resultat nominal i registres públics `deportats/2976`, `informant/15098`, tren, camps, kommandos, arxius i publicacions relacionades | Dades públiques d'un projecte del Memorial Democràtic, l'Amical de Mauthausen i la UPF. Conservar atribució; els paquets JavaScript de l'aplicació s'exclouen perquè incorporen codi de connexió que no cal redistribuir. |
 | `memorialgenweb/` | MemorialGenWeb, <https://www.memorialgenweb.org/memorial3/deportes/complement.php?id=89352> | Cercador i fitxa derivada `D-89352`, amb comboi, matrícula, referència bibliogràfica i remissió al JORF | Base memorialística col·laborativa, usada com a índex de descoberta i no com a substitut del JORF o dels expedients originals. Conservar atribució; no emprar com a corpus d'entrenament. |
 | `legifrance/` | Légifrance, <https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000031047545> | Nota de procedència de la rectificació oficial de 2015; el servidor rebutjà la descàrrega automatitzada amb HTTP 403 | Metadades i resum de treball amb enllaç canònic, no una còpia del JORF. La grafia nominal es conserva literalment. |
+| `livre-memorial/` | Fondation pour la Mémoire de la Déportation, <https://www.bddm.org/liv/details.php?id=I.229.> | Fitxa completa del comboi I.229 i fila 74159 de Carrera | Còpia HTML de treball d'una base memorial; conservar atribució i no reutilitzar com a corpus sense verificar-ne les condicions. |
 | `shd-caen/` | Service historique de la Défense, <https://www.servicehistorique.sga.defense.gouv.fr/ark/97871> | Cerca nominal i descripció del dossier `AC 21 P 433618`, més context institucional de la sèrie | Catàleg públic, no reproducció del dossier. Condicions específiques de reutilització no verificades; conservar com a evidència de localització. |
 | `saint-marsal/` | Archives départementales des Pyrénées-Orientales i FranceArchives | Vies de consulta del cens de 1936 de Saint-Marsal i resposta antirobot d'una cerca nominal | Les pàgines institucionals són còpies de treball. La resposta antirobot no és un resultat de cerca; no emprar com a corpus d'entrenament. |
 | `pares/` | Ministeri de Cultura, Portal de Víctimes i <https://pares.cultura.gob.es/Deportados/servlets/ServletController> | Formularis, resultats de control, fitxa pública `495531` i cerques actuals per `Carrera`, `Modesto` i `Birba` | Còpies HTML de consulta pública. No contenen cookies ni credencials. Condicions específiques de reutilització no verificades. |
@@ -119,5 +120,9 @@ contenen aquest valor i són suficients per auditar la descàrrega.
 - Mémoire des hommes homologa `CARRERA, Modeste`, 20/12/1910, Baget, com a
   **DIR** i remet a `GR 16 P 108505`. La fila no identifica xarxa, moviment o
   unitat; només el dossier pot reconstruir l'activitat resistent concreta.
+- El *Livre-mémorial* codifica Carrera com `D`, `Disparu en déportation`, amb
+  data i lloc finals desconeguts, i només mostra Dachau–Buchenwald. És una
+  dada editorial anterior a la rectificació de 2015 i contradiu qualsevol
+  presentació de Dautmergen com un final ja establert en aquella font.
 - Cap absència en aquestes exportacions s'ha d'interpretar com una prova
   universal d'absència documental.
