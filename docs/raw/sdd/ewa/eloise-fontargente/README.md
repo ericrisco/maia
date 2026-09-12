@@ -239,6 +239,41 @@ l'encàrrec de Martínez Roca, correspondència amb Viadiu i Pastor Petit,
 lliuraments, dubtes de traducció o intervencions editorials. La fitxa no ofereix
 inventari públic ni canal de consulta del fons, i no s'ha contactat cap persona.
 
+## La seqüència de les primeres edicions
+
+Els registres MARC del CCUC resolen una ambigüitat que les fonts secundàries
+repetien de manera inconsistent. Nova Terra publicà una primera edició catalana
+el 1974:
+
+- *Entre el torb i la Gestapo*;
+- 231 pàgines;
+- ISBN `84-280-0819-1`;
+- dipòsit legal `B. 43183-1974`;
+- col·lecció `Actituds`, sèrie `Testimoniatge`, número 29.
+
+La segona edició catalana és realment de 1975:
+
+- 237 pàgines;
+- ISBN `84-280-0836-1`;
+- dipòsit legal `B. 47173-1975`;
+- col·lecció `Noves actituds`, número 3;
+- pròleg de **Joaquim Ventalló**.
+
+L'edició castellana de Martínez Roca també és de 1974, ISBN `84-270-0247-5` i
+dipòsit legal `B. 16365-1974`. La numeració més baixa del dipòsit és compatible
+amb una tramitació anterior a la catalana, i una notícia moderna diu que es
+publicà primer en castellà, però la seqüència numèrica **no basta per fixar el
+dia de publicació**. El que sí és segur és que la traducció castellana i la
+primera catalana coexistiren el 1974.
+
+Els paratextos tampoc són intercanviables. La ressenya castellana cita un pròleg
+de Domènec Pastor Petit, mentre que el MARC de la segona catalana atribueix el
+seu a Joaquim Ventalló i el registre de la primera catalana no n'esmenta cap.
+Les sis pàgines addicionals de 1975 poden correspondre totalment o parcialment
+al nou pròleg; sense els exemplars no es pot assegurar si també canvià el cos
+del relat. En conseqüència, els fragments de Google Books de 1975 no proven la
+paginació ni la redacció exactes de 1974.
+
 ## La capa audiovisual i el seu límit
 
 3Cat manté públiques les dues parts de la minisèrie *Andorra. Entre el torb i
@@ -295,6 +330,8 @@ històric.
 | `francesc-viadiu-fons/bnc-teresa-pamies-arxiu.html` | Fitxa de la Biblioteca de Catalunya que identifica el custodi principal de l'arxiu personal i literari. |
 | `francesc-viadiu-fons/aelc-pamies-cartes.html` | Descripció de l'epistolari: centenars de cartes i pràctica sistemàtica de conservar-ne còpia. |
 | `google-books-1974-*.json` | Control negatiu: l'exemplar Google Books de l'edició castellana no admet cerca interna pública. |
+| `francesc-viadiu-fons/ccuc-sru-entre-torb-1974.xml` | MARC de la primera edició catalana: 1974, 231 p., ISBN i dipòsit legal. |
+| `francesc-viadiu-fons/ccuc-sru-entre-torb-1975.xml` | MARC de la segona edició catalana: 1975, 237 p. i pròleg de Joaquim Ventalló. |
 | `internet-archive-isbn-search.json` | Cerca pels ISBN català i francès: zero resultats. |
 | `openlibrary-isbn-search.json` | Registre bibliogràfic sense ebook ni text complet. |
 
@@ -339,6 +376,9 @@ Els SHA-256 de tots els fitxers es van calcular el 12/09/2026. Destaquen:
     pròleg de Pastor Petit; comparar el seu marc memorialístic amb la ressenya.
 11. Determinar si l'arxiu personal de Teresa Pàmies té inventari o via de
     consulta abans de plantejar cap contacte amb el custodi familiar.
+12. Comparar materialment la castellana de 1974, la primera catalana de 1974 i
+    la segona catalana de 1975: cobertes, portades, crèdits, pròlegs, índex,
+    paginació i, com a mínim, els capítols d'Éloïse.
 
 ## Drets
 
