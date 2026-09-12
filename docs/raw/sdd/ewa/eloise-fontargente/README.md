@@ -144,6 +144,42 @@ noms i diu que la família no aconseguí localitzar Éloïse, malgrat el fort im
 que la seva pèrdua tingué en Viadiu. És memòria familiar tardana i no resol la
 identitat, però explica per què els papers transferits poden ser decisius.
 
+## El manuscrit anterior a l'edició: *Vides entre el torb*
+
+La bibliografia oficial dels antics diputats del Parlament de Catalunya,
+actualitzada el novembre de 2025, registra un document que les cerques generals
+no havien revelat: Francesc Viadiu, *Vides entre el torb*, `[1950?]`, **114
+folis**, manuscrit. La consulta directa dels catàlegs CCUC i UB n'ha resolt la
+localització:
+
+- institució: Universitat de Barcelona;
+- dipòsit: CRAI Biblioteca del Pavelló de la República;
+- ubicació: sala general;
+- signatura: `C 81.21 Via`;
+- estat públic: disponible;
+- MMS UB: `991011882619706708`;
+- registre CCUC: `991047841519706706`;
+- OCLC: `807225750`.
+
+El registre MARC col·lectiu de l'edició castellana de 1974 afegeix
+`Tít.orig.: Vides entre el torb` i acredita Teresa Pàmies com a traductora.
+Això converteix els 114 folis en el testimoni textual anterior conegut de
+*Andorra: cadena de evasión*, no en una obra merament citada per un bibliògraf.
+El MARC del manuscrit és auster: no diu si és autògraf o mecanoscrit, no en
+descriu els capítols i no ofereix còpia digital.
+
+El registre local sembla anterior al trasllat del fons personal a Solsona: els
+camps de sistema remunten a 1998, mentre que les memòries de l'ACS situen el
+nou ingrés el 2023. Per tant, **són dos dipòsits que cal consultar per separat**.
+La menció de Claude Benet el 2020 a un paper trobat al Pavelló fa aquest
+manuscrit especialment pertinent, però encara no prova que fos el mateix paper
+ni que contingui la identificació de Carlos.
+
+El CRAI admet encàrrecs de reproducció digital per a recerca, subjectes a la
+propietat intel·lectual i a tarifa. S'ha preparat una consulta específica a
+`bibrepublica@ub.edu` per demanar la reproducció del manuscrit o, com a mínim,
+de l'índex i els folis d'Éloïse. No s'ha enviat ni s'ha contret cap despesa.
+
 ## La capa audiovisual i el seu límit
 
 3Cat manté públiques les dues parts de la minisèrie *Andorra. Entre el torb i
@@ -187,6 +223,11 @@ històric.
 | `francesc-viadiu-fons/acs-memoria-2023.*`, `acs-memoria-2024.*` | Memòries oficials que confirmen l'ingrés recent del fons Francesc Viadiu. |
 | `francesc-viadiu-fons/xac-quadre-fons.html` | Quadre públic de fons de l'ACS, encara sense entrada de Viadiu el 12/09/2026. |
 | `francesc-viadiu-fons/consulta-esborrany.md` | Consulta arxivística preparada però no enviada. |
+| `francesc-viadiu-fons/parlament-fitxa-viadiu-2025.*` | Bibliografia oficial que identifica *Vides entre el torb*, `[1950?]`, 114 f., manuscrit. |
+| `francesc-viadiu-fons/ccuc-api-vides-entre-torb.json`, `ub-primo-search-vides-entre-torb.json`, `ub-sru-vides-entre-torb.xml` | Registres públics que localitzen el manuscrit al Pavelló, signatura `C 81.21 Via`, i en confirmen la disponibilitat. |
+| `francesc-viadiu-fons/ccuc-sru-andorra-cadena.xml` | MARC de l'edició castellana: títol original *Vides entre el torb* i traducció de Teresa Pàmies. |
+| `francesc-viadiu-fons/consulta-pavello-esborrany.md` | Petició de reproducció preparada però no enviada. |
+| `francesc-viadiu-fons/bnc-jaume-fuster-inventari-2015.*` | Control d'un document diferent: projecte audiovisual de 1988 basat en la novel·la, no el manuscrit de 1950. |
 | `internet-archive-isbn-search.json` | Cerca pels ISBN català i francès: zero resultats. |
 | `openlibrary-isbn-search.json` | Registre bibliogràfic sense ebook ni text complet. |
 
@@ -222,6 +263,8 @@ Els SHA-256 de tots els fitxers es van calcular el 12/09/2026. Destaquen:
    Éloïse, del grup marítim de 17 persones i del nom de guerra `Alexis`.
 7. Demanar a l'Arxiu Comarcal del Solsonès el codi, inventari, abast i accés al
    fons Francesc Viadiu; no enviar la consulta sense autorització expressa.
+8. Consultar o encarregar al Pavelló la reproducció de *Vides entre el torb*,
+   `C 81.21 Via`; no assumir cap despesa sense autorització.
 
 ## Drets
 
