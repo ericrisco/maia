@@ -60,3 +60,4 @@ i el debat constituent. El Consell General publica la Constitució al seu portal
 - [El Coprincipat](../../institucions/coprincipat/el-coprincipat.md) — què en va quedar.
 - [Democratització](../democratitzacio/democratitzacio.md) — el camí fins aquí.
 - [El Consell General](../../institucions/consell-general/el-consell-general.md) — qui la va fer.
+- [La funció pública](../../institucions/govern/la-funcio-publica.md) — què va costar en persones construir l'estat que la Constitució formalitza.

@@ -13,10 +13,148 @@ tags: [institucions, govern, treball, administracio, arxius, pais-petit]
 
 # La funció pública
 
-> Font: **Xavier Llovera i Massana**, president de l'**Associació de Personal
+> Fonts: **Xavier Llovera i Massana**, president de l'**Associació de Personal
 > Adscrit a l'Administració general**, *«Visió del treballador en l'àmbit de la
-> formació»*, **13a Diada Andorrana, UCE, 2000**
-> ([fitxa](../../../fonts/llovera-visio-del-treballador.md)).
+> formació»* ([fitxa](../../../fonts/llovera-visio-del-treballador.md)), i **Imma
+> Oranias i Estudis**, cap de l'àrea de formació de la **Secretaria General
+> Tècnica de Funció Pública**, *«La formació a l'administració general»*
+> ([fitxa](../../../fonts/oranias-formacio-administracio.md)). **13a Diada
+> Andorrana, UCE, 2000.**
+>
+> **Les dues parlen del mateix des dels dos costats de la taula**: qui planifica
+> la formació i qui la rep. El corpus les llegeix juntes.
+
+## La sèrie: com creix un estat
+
+Aquesta és **la millor mesura del creixement de l'estat andorrà que el corpus
+té**, i apareix enmig d'una ponència sobre cursos de formació. **Treballadors amb
+funcions de caràcter permanent de l'Administració general:**
+
+| Any | Treballadors | Multiplicador des de 1970 |
+| --- | --- | --- |
+| **1970** | **123** | — |
+| **1975** | **154** | ×1,3 |
+| **1980** | **273** | ×2,2 |
+| **1985** | **528** | ×4,3 |
+| **1990** | **874** | ×7,1 |
+| **1995** | **1.281** | ×10,4 |
+| **2000** | **1.490** | **×12,1** |
+
+**El 1970 l'estat andorrà cabia en cent vint-i-tres persones.**
+
+### Què diu aquesta corba
+
+**El salt més gran és entre 1980 i 1990: de 273 a 874, més que es triplica en
+deu anys.** És exactament la dècada en què el país es dota de tot:
+
+| Any | Fet |
+| --- | --- |
+| **1981** | Es crea el **Consell Executiu**, base del futur Govern |
+| **1982** | **Escola Andorrana** ([fitxa](../../societat/educacio/lescola-andorrana.md)) |
+| **1988** | **Escola d'Infermeria** i **Escola d'Informàtica** |
+| **1989** | **Llei de l'Escola Andorrana** |
+| **1993** | **Constitució** |
+
+**La plantilla no creix perquè l'administració s'infli: creix perquè el país
+s'està inventant funcions que abans no tenia.** Cada escola, cada servei i cada
+llei d'aquestes fitxes **és gent en aquesta taula**.
+
+I el ritme **es frena** després: **+407 entre 1990 i 1995**, **+209 entre 1995 i
+2000**. **La construcció de l'estat s'acaba, i la plantilla comença a
+estabilitzar-se** — cosa que la pròpia font anticipa: «el creixement que ara
+considerem normal… **ha de tendir a estabilitzar-se amb una planificació
+acurada**».
+
+### I la comparació que el corpus pot fer
+
+**1.490 funcionaris de l'Administració general el 2000**, en un país amb
+**9.363 escolars** ([el mapa escolar](../../societat/educacio/el-mapa-escolar-del-2000.md))
+i **981 docents de tots els sistemes**
+([índex legislatiu](../../societat/educacio/index-legislatiu-en-educacio.md)).
+
+**Avís:** la xifra de 1.490 és de l'**Administració general** i **no inclou els
+comuns**, que a Andorra fan moltíssimes funcions
+([les set parròquies](../comuns-i-parroquies/les-set-parroquies.md)). **El corpus
+no té la plantilla comunal de cap any. Buit registrat.**
+
+## Els cossos especials
+
+La font en dona **la llista completa**, que el corpus no tenia:
+
+**banders · duana · ensenyament · penitenciària · prevenció i extinció d'incendis
+i salvament · policia**
+
+Més el **cos general**. El 2000, **cada cos especial tenia reglamentació pròpia** i
+s'estava adaptant progressivament als nous objectius de formació; **el cos
+d'ensenyament disposava d'un any per fer-ho** des de l'aprovació de la nova
+reglamentació.
+
+**Els banders encapçalen la llista.** Un estat de muntanya on **el cos de guarda
+forestal és un cos especial de ple dret**, al costat de la policia i la duana.
+Vegeu [fauna i flora](../../territori/fauna-i-flora/fauna-i-flora.md) i
+[patrimoni natural](../../territori/patrimoni-natural/README.md). **El corpus no
+té cap fitxa dels banders. Buit registrat i atractiu.**
+
+## Els quatre tipus de formació
+
+El reglament en defineix quatre, i **la distinció és útil perquè descriu com
+s'entra a treballar per a l'estat andorrà**:
+
+| Tipus | Per a qui |
+| --- | --- |
+| **De base general** | personal de **nova contractació** o que **canvia de lloc**: dona a conèixer l'administració i **afavoreix la integració de la persona dins la seva estructura social** |
+| **De base específica** | durant **els primers mesos** al lloc nou: aprendre'n les tasques bàsiques |
+| **Continuada general** | adaptar-se als canvis |
+| **Continuada específica** | vinculada al lloc concret, per **dissenyar i implantar noves funcions** |
+
+I una línia que el corpus reté perquè **descriu una transmissió oral que no deixa
+document**:
+
+> «Cal transmetre **el saber ser, el saber estar i el saber fer** que l'experiència
+> ha donat, des de fa molts anys, al personal de l'administració general.»
+
+**El mateix tipus de coneixement que un metge andorrà descrivia com a
+«impossible d'homologar, impossible de mesurar»**
+([la reacreditació dels metges](../../societat/sanitat/la-reacreditacio-dels-metges.md)).
+**Apareix dues vegades al mateix volum, en dos sectors sense relació.**
+
+## Les xifres de formació
+
+| Any | Participants en accions formatives |
+| --- | --- |
+| **1997** | **472** (cos general) |
+| **1998** | **503** (cos general) |
+| **1999** | **948** (cos general i cossos especials) |
+| **2000** (1r semestre) | **952** (cos general i cossos especials) |
+
+**Avís de lectura:** el salt del 1999 **no és només creixement real**: és **el
+moment en què les xifres passen a incloure els cossos especials**, que abans
+tenien gestió pròpia. **El corpus no compara 1998 amb 1999 com si fos la mateixa
+sèrie.** La font mateixa ho adverteix.
+
+Dues causes concretes que la font atribueix al creixement:
+
+- **1998:** l'**obertura de Tràmits** —la finestreta única— va obligar a formar
+  no només el seu personal sinó **el que hi està relacionat indirectament**.
+  **Tràmits obre el gener del 1999.**
+- **1999:** comencen els **tallers de desenvolupament directiu** per a directors
+  i comandaments, «perquè siguin **veritables agents del canvi organitzatiu**»:
+  treball en equip, estils de direcció, motivació del personal, avaluació de
+  l'acompliment.
+
+I un detall administratiu revelador: **el Reglament de formació del 14 d'agost de
+1996 va estar suspès**, i tot i així «es va intentar atendre totes les
+prioritats». **Es formava sense reglament vigent.**
+
+### El pla que venia
+
+Per al **2001**: el **primer Pla integral de formació**, «instrument marc» que
+recolliria els plans de tots els ministeris i departaments, amb **tendències
+triennals**, «racionalitzant la despesa».
+
+**Buit registrat: es va fer?**
+
+## La frase que defineix un microestat
 
 ## La frase que defineix un microestat
 
@@ -154,6 +292,16 @@ La font no fa propaganda de la seva pròpia administració:
 | No hi ha percepció de la magnitud de les formacions fetes, **«i que segons sembla són moltes»** |
 | **«No hi ha la sensació d'haver entrat en la formació contínua»** |
 
+**I aquí hi ha el desacord que el corpus registra sense resoldre.** La cap de
+l'àrea de formació documenta, al mateix volum, **un creixement sostingut
+d'accions formatives** —de 472 participants el 1997 a 952 el primer semestre del
+2000— i el president de l'associació de personal diu que **«no hi ha la sensació
+d'haver entrat en la formació contínua»**.
+
+**Les dues afirmacions són compatibles**: es pot formar molta gent i que la
+plantilla no ho percebi com un sistema. **El corpus reté les dues i no en
+descarta cap.**
+
 I tanca amb una reclamació que té data i to:
 
 > «fa **quatre anys** que estem implicats en una voluntat de canvi, i **ara ja
@@ -187,7 +335,13 @@ en una de gran ocuparien estructures diferents.**
 - **L'Associació de Personal Adscrit a l'Administració general**: quan es crea,
   quants socis té, si existeix encara. **No apareix a cap altra fitxa del
   corpus.**
-- **Quants funcionaris** té Andorra, i quants n'hi havia el 2000.
+- ~~Quants funcionaris té Andorra el 2000~~ — **tancat per a l'Administració
+  general: 1.490.** **Segueix obert** quants n'hi ha als **comuns**, i quants
+  n'hi ha avui.
+- **Els banders**: cos especial i cap fitxa al corpus.
+- **Tràmits**, la finestreta única oberta el gener del 1999.
+- **El Reglament de formació del 14 d'agost de 1996** i per què va estar suspès.
+- **El Pla integral de formació del 2001**: es va fer?
 - **Es va crear mai una escola d'administració pública**, ni que fos temporal?
 - **Si Xavier Llovera** és el mateix del patrimoni cultural.
 - **L'estat dels arxius administratius** avui.

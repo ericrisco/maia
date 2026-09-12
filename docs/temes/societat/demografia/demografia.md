@@ -64,3 +64,4 @@ veritat importaria per a aquest projecte. **Buit registrat.**
 - [Immigració](../immigracio/immigracio.md) — d'on ve la gent.
 - [Contacte de llengües](../../llengua/contacte-de-llengues/contacte-de-llengues.md) — quatre llengües en 89.000 persones.
 - [Educació](../educacio/educacio.md) — el sistema triple.
+- [La funció pública](../../institucions/govern/la-funcio-publica.md) — la plantilla de l'estat de 1970 a 2000, de 123 a 1.490 persones.
