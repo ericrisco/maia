@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**203** documents · **29** fonts · **0** aptes com a model de llengua · **96** temes amb contingut.
+**205** documents · **30** fonts · **0** aptes com a model de llengua · **96** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -518,6 +518,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [La crisi de l'habitatge](temes/societat/habitatge/la-crisi-de-lhabitatge.md) | `temes/societat/habitatge` | compilada | contemporania | no | `premsa-andorrana` |
+| [L'habitatge el 1989](temes/societat/habitatge/lhabitatge-el-1989.md) | `temes/societat/habitatge` | compilada | contemporania | no | `font-fenomens-socials-immigracio` |
 
 ## temes/societat/immigracio
 
@@ -528,6 +529,7 @@
 | [La immigració llatinoamericana](temes/societat/immigracio/la-immigracio-llatinoamericana.md) | `temes/societat/immigracio` | compilada | contemporania | no | `de-la-parte-immigracio-cultura` |
 | [La societat segmentada](temes/societat/immigracio/la-societat-segmentada.md) | `temes/societat/immigracio` | compilada | contemporania | no | `de-la-parte-immigracio-cultura` |
 | [Les comunitats](temes/societat/immigracio/les-comunitats.md) | `temes/societat/immigracio` | compilada | contemporania | no | `societat-andorrana-ciencies` |
+| [L'experiència de migrar](temes/societat/immigracio/lexperiencia-de-migrar.md) | `temes/societat/immigracio` | compilada | contemporania | no | `font-fenomens-socials-immigracio` |
 
 ## temes/societat/mitjans
 
@@ -702,6 +704,7 @@
 | [`de-la-parte-immigracio-cultura`](fonts/de-la-parte-immigracio-cultura.md) | Isabel de la Parte i Cano · Joan Micó i Ibáñez · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`debat-2a-diada-migracions`](fonts/debat-2a-diada-migracions.md) | Societat Andorrana de Ciències · CREC, Universitat de Perpinyà | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`ferrer-percepcio-andorra-exterior`](fonts/ferrer-percepcio-andorra-exterior.md) | Josep Ferrer i Altimira · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`font-fenomens-socials-immigracio`](fonts/font-fenomens-socials-immigracio.md) | Agustí Font · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`govern-andorra-web`](fonts/govern-andorra-web.md) | Govern del Principat d'Andorra | informació institucional pública | si |
 | [`iec-aldc-andorra`](fonts/iec-aldc-andorra.md) | Institut d'Estudis Catalans | publicació acadèmica de l'IEC, accés obert | pendent |
 | [`iec-vocabulari-andorra`](fonts/iec-vocabulari-andorra.md) | Institut d'Estudis Catalans · Servei de Política Lingüística del Govern d'Andorra | publicació acadèmica de l'IEC, accés obert | pendent |

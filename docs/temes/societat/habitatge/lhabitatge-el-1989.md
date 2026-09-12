@@ -1,0 +1,167 @@
+---
+type: article
+title: L'habitatge el 1989
+description: "«Amb quina ètica es pot justificar que el lloguer normal a Andorra sigui superior al 60% del sou base?» La crisi té, com a mínim, trenta-set anys."
+tema: temes/societat/habitatge
+veu: compilada
+epoca: contemporania
+apte_llengua: false
+font: font-fenomens-socials-immigracio
+timestamp: 2026-09-13T00:10:00Z
+tags: [habitatge, immigracio, drets, economia, segle-xx, correccio]
+---
+
+# L'habitatge el 1989
+
+## La correcció que fa aquesta fitxa
+
+La fitxa de [la crisi de l'habitatge](./la-crisi-de-lhabitatge.md) la presenta
+—correctament— com **el principal maldecap polític d'Andorra ara mateix**, amb
+dades del **2023-2024**.
+
+**Aquesta fitxa hi afegeix el que faltava: la data d'inici.**
+
+**El 1989 el problema ja hi era, ja es denunciava públicament i ja tenia
+exactament la mateixa forma.**
+
+## La pregunta d'Agustí Font
+
+> «**Amb quina ètica o moral es pot justificar que el lloguer normal a Andorra
+> sigui superior al 60% del sou base?**»
+>
+> — Agustí Font, 2a Diada Andorrana, **agost de 1989**
+> ([font](../../../fonts/font-fenomens-socials-immigracio.md))
+
+**Més del 60% del salari base en lloguer. El 1989.**
+
+## Com es vivia
+
+Font enumera el que **havia denunciat abans**, i és un inventari duríssim:
+
+| Situació | Com ho diu |
+| --- | --- |
+| **Càmpings** | «**Viure en càmpings**, fet que **algunes vegades hem denunciat**» |
+| **Amuntegament** | «**l'amuntegament de famílies en un sol pis**, evidentment **insuficient per a una vida elementalment humana**» |
+| **Lloguers** | «uns preus de lloguer que **s'emporten la major part del sou**» |
+| **Sense horitzó** | «la impossibilitat, per tant, de pensar que **un dia, amb molt d'esforç, es podrà dir casa meva**» |
+
+**Gent vivint en càmpings a Andorra el 1989.**
+
+I una observació sobre **els impagaments** que val la pena conservar perquè
+**evita la idealització**:
+
+> «**Les batllies deuen saber de les picaresques d'alguns però també de les
+> tragèdies de molts d'altres** en tot allò que fa referència als endarreriments
+> en el pagament de lloguers.»
+
+**Picaresques i tragèdies, les dues.** El corpus agraeix la formulació: **no
+converteix tots els deutors en víctimes ni en trampes**.
+
+## El que això fa amb la integració
+
+L'argument de Font és que **l'habitatge i la integració són el mateix problema**:
+
+> «**Costa d'estimar i servir de cor el país en què no hi estàs arrelat. Costa de
+> posar arrels quan no tens ni el test on posar-les.**»
+
+> «**És difícil parlar d'integració, d'assimilació en aquestes circumstàncies.**»
+
+**Aquesta és la tercera veu del corpus que diu el mateix des d'un angle
+diferent:**
+
+| Qui | Any | Què diu que impedeix integrar-se |
+| --- | --- | --- |
+| **Joan Becat** | 1989 | **La nacionalitat tancada** ([els nats a Andorra](../immigracio/els-nats-a-andorra.md)) |
+| **Agustí Font** | 1989 | **L'habitatge** (aquesta) |
+| **Gabriel Ubach** | 2002 | **L'acomiadament lliure** ([fitxa](../treball/lacomiadament-lliure.md)) |
+
+**Nacionalitat, habitatge i feina.** Tres fonts independents, tres dècades, **la
+mateixa conclusió**: el que impedeix arrelar no és cultural, **és material i
+jurídic**.
+
+## El debat sobre l'habitatge social, que també ja hi era
+
+> «**És impossible a Andorra un habitatge social? Així ho hem hagut d'escoltar
+> moltes vegades**; alguns ens han parlat de **costos de la construcció** i ens
+> han **colgat amb uns comptes** que et menen a la **tesi de la impossibilitat**;
+> altres et donen com a raó **la manca de voluntat política a compte dels
+> interessos econòmics que prevalen sobre el bé comú i la justícia social**.»
+
+I la seva posició, amb l'honestedat de dir què no pot provar:
+
+> «**Costa de creure aquesta raó i no es pot demostrar amb matemàtiques, com
+> l'altra.** El que creiem fermament és que **l'administració pot i ha de fer
+> possible l'habitatge social**… **Altres despeses semblen impossibles i menys
+> necessàries i es fan.**»
+
+I l'argument que tanca, que és el millor:
+
+> «**L'administració, que condiciona l'admissió del temporer a la seguretat d'un
+> habitatge i un sou** —se suposen dignes—, **ha de fer que aquesta urgència
+> sigui possible. O és que esperem una immigració amb la casa portàtil a
+> l'esquena?**»
+
+**L'estat exigia allotjament per donar el permís i no en garantia cap.**
+
+## La ciutat dormitori: una proposta que ja s'havia fet
+
+Aquest passatge és **una troballa històrica**, perquè el corpus té documentat
+que **avui Andorra expulsa població cap a la Seu d'Urgell**
+([la crisi de l'habitatge](./la-crisi-de-lhabitatge.md)).
+
+**El 1989 això ja s'havia proposat com a política:**
+
+> «Suposo que **ja ningú fa passar la sortida d'aquest greu problema d'Andorra
+> per una solució que pressuposaria la creació d'alguna mena de **ciutat-dormitori
+> més enllà de les nostres fronteres**. L'anàlisi d'aquesta proposta de solució
+> ens menaria molt lluny i **seria prou dura com per estalviar-la**, en l'esperança
+> que haurà estat una sortida a un problema greu **que s'ha proposat, com de
+> passada, sense massa filosofies al darrere**.»
+
+**Es va proposar, i Font s'hi nega frontalment** —amb la ironia de «suposo que ja
+ningú».
+
+I hi afegeix un detall diplomàtic:
+
+> «Fa pocs dies, **l'alcalde de la Seu d'Urgell** feia a aquesta suposada proposta
+> **un comentari ple de bon seny i de dignitat** i, a la vegada, **amb un gran
+> respecte per al nostre país i els nostres problemes**.»
+
+**El 1989 l'alcalde de la Seu ja havia de respondre públicament a la idea que la
+seva ciutat fos el dormitori d'Andorra.**
+
+**Trenta-set anys després, sense que ningú ho decidís, ha passat.**
+
+**Buit registrat, i excel·lent:** **qui va fer aquella proposta el 1989** i què
+va dir exactament l'alcalde de la Seu.
+
+## Sobre els temporers
+
+> «**No tenim dret de pensar que els temporers puguin ser la solució del problema
+> laboral i social del país.**… **Europa sencera ha fet ja aquests plantejaments**
+> de moltes i diverses maneres i **han fet encendre els semàfors vermells o
+> taronja en les torres de vigilància i salvaguarda dels drets humans més
+> elementals.**»
+
+> «en el temporer **s'agreugen tots els problemes que ja ha de sofrir
+> l'immigrant** pel fet de ser-ho.»
+
+Vegeu [la immigració llatinoamericana](../immigracio/la-immigracio-llatinoamericana.md),
+on **tretze anys després** el temporer segueix sent la peça central del sistema.
+
+## Buits registrats
+
+1. **Dades del lloguer i del salari** el 1989, per contrastar el 60%.
+2. **Quantes persones vivien en càmpings** i on.
+3. **La proposta de ciutat-dormitori de 1989**: qui, on, quan.
+4. **La resposta de l'alcalde de la Seu.**
+5. **Quan s'aprova el primer habitatge de protecció** a Andorra, si s'ha aprovat.
+6. **Sèrie històrica** del lloguer sobre el salari.
+
+## Related
+
+- [La crisi de l'habitatge](./la-crisi-de-lhabitatge.md) — la mateixa crisi, avui.
+- [L'experiència de migrar](../immigracio/lexperiencia-de-migrar.md) — la mateixa ponència.
+- [Els nats a Andorra](../immigracio/els-nats-a-andorra.md) — l'altra barrera.
+- [L'acomiadament lliure](../treball/lacomiadament-lliure.md) — la tercera.
+- [La immigració llatinoamericana](../immigracio/la-immigracio-llatinoamericana.md) — el temporer, tretze anys després.
