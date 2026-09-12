@@ -147,3 +147,4 @@ carregada d'Andorra**
 - [Els tres sistemes](../../societat/educacio/els-tres-sistemes.md) — la causa.
 - [L'estàndard contra la varietat](../dialectologia/lestandard-contra-la-varietat.md) — el preu de la recuperació.
 - [L'andorranització](../../societat/educacio/landorranitzacio.md) — per què tan poca gent va aprendre a escriure'l.
+- [Els exàmens oficials de català](./els-examens-oficials-de-catala.md) — el disseny que parteix d'aquestes xifres.

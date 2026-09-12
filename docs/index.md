@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**232** documents · **48** fonts · **0** aptes com a model de llengua · **97** temes amb contingut.
+**233** documents · **49** fonts · **0** aptes com a model de llengua · **97** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -475,6 +475,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [«Andorra es castellanitza»](temes/llengua/politica-linguistica/andorra-es-castellanitza.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `debat-2a-diada-migracions` |
+| [Els exàmens oficials de català](temes/llengua/politica-linguistica/els-examens-oficials-de-catala.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `marina-formacio-dadults` |
 | [La globalització i el català](temes/llengua/politica-linguistica/la-globalitzacio-i-el-catala.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `costa-globalitzacio-llengues` |
 | [La llei de la llengua](temes/llengua/politica-linguistica/la-llei-de-la-llengua.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `govern-andorra-web` |
 | [La sèrie històrica del català a Andorra](temes/llengua/politica-linguistica/la-serie-historica.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `molla-catala-andorra` |
@@ -524,7 +525,7 @@
 | [Els tres sistemes educatius](temes/societat/educacio/els-tres-sistemes.md) | `temes/societat/educacio` | compilada | contemporania | no | `molla-catala-andorra` |
 | [Índex legislatiu en educació](temes/societat/educacio/index-legislatiu-en-educacio.md) | `temes/societat/educacio` | compilada | contemporania | no | `bastida-roser-ensenyament-andorra` |
 | [La cronologia escolar](temes/societat/educacio/la-cronologia-escolar.md) | `temes/societat/educacio` | compilada | contemporania | no | `bastida-roser-ensenyament-andorra` |
-| [La formació d'adults](temes/societat/educacio/la-formacio-dadults.md) | `temes/societat/educacio` | compilada | contemporania | no | `bastida-roser-ensenyament-andorra` |
+| [La formació d'adults](temes/societat/educacio/la-formacio-dadults.md) | `temes/societat/educacio` | compilada | contemporania | no | `marina-formacio-dadults` |
 | [La formació professional](temes/societat/educacio/la-formacio-professional.md) | `temes/societat/educacio` | compilada | contemporania | no | `garcia-puy-formacio-professional` |
 | [La Universitat d'Andorra](temes/societat/educacio/la-universitat-dandorra.md) | `temes/societat/educacio` | compilada | contemporania | no | `bastida-universitat-andorra` |
 | [L'andorranització](temes/societat/educacio/landorranitzacio.md) | `temes/societat/educacio` | compilada | contemporania | no | `bastida-roser-ensenyament-andorra` |
@@ -755,6 +756,7 @@
 | [`lacueva-hoteleria`](fonts/lacueva-hoteleria.md) | Ludmilla Lacueva i Canut · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`llegendes-dandorra-llibre`](fonts/llegendes-dandorra-llibre.md) | Roser Carol i Àlvar Valls · Editorial andorrana | obra literària amb drets reservats | False |
 | [`llovera-visio-del-treballador`](fonts/llovera-visio-del-treballador.md) | Xavier Llovera i Massana · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`marina-formacio-dadults`](fonts/marina-formacio-dadults.md) | Joan Ramon Marina i Amat · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mas-educacio-artistica`](fonts/mas-educacio-artistica.md) | Roger Mas i Canalis · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mas-pagesos-i-artesans`](fonts/mas-pagesos-i-artesans.md) | David Mas i Canalís · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`molla-catala-andorra`](fonts/molla-catala-andorra.md) | Guillem Molla · Universitat de Girona · revista IANUA | publicació acadèmica en accés obert | pendent |

@@ -109,3 +109,4 @@ decidirà estàndard.
 - [És l'andorrà un dialecte?](./es-landorra-un-dialecte.md)
 - [RTVA](../../societat/mitjans/rtva.md)
 - [El tractament](../tractament/el-tractament.md) — la mateixa mena de decisió.
+- [Els exàmens oficials de català](../politica-linguistica/els-examens-oficials-de-catala.md) — el títol superior certifica «varietat estàndard».

@@ -82,3 +82,4 @@ jove.
 - [La llei de la llengua](./la-llei-de-la-llengua.md) — la resposta política a aquestes dades.
 - [Contacte de llengües](../contacte-de-llengues/contacte-de-llengues.md) — com conviuen.
 - [La sèrie històrica](./la-serie-historica.md) — d'on ve aquesta foto.
+- [Els exàmens oficials de català](./els-examens-oficials-de-catala.md)
