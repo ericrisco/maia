@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**296** documents · **84** fonts · **0** aptes com a model de llengua · **107** temes amb contingut.
+**298** documents · **85** fonts · **0** aptes com a model de llengua · **107** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -372,6 +372,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El desenllaç de la qüestió duanera](temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `vilar-andorre-1904` |
 | [Guillem d'Areny-Plandolit](temes/historia/segle-xix/guillem-dareny-plandolit.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `viquipedia-ca` |
 | [La qüestió d'Andorra](temes/historia/segle-xix/la-questio-dandorra.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `la-cuestion-de-andorra-1894` |
 | [La qüestió duanera de 1895](temes/historia/segle-xix/la-questio-duanera-de-1895.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `diario-sesiones-corts-1895` |
@@ -406,6 +407,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [El Concordat del 2008](temes/institucions/coprincipat/el-concordat-del-2008.md) | `temes/institucions/coprincipat` | compilada | contemporania | no | `serra-vatica-microestat` |
 | [El Coprincipat](temes/institucions/coprincipat/el-coprincipat.md) | `temes/institucions/coprincipat` | compilada | contemporania | no | `coprincep-frances` |
+| [Les tres sobiranies](temes/institucions/coprincipat/les-tres-sobiranies.md) | `temes/institucions/coprincipat` | compilada | contemporania | no | `vilar-andorre-1904` |
 
 ## temes/institucions/govern
 
@@ -917,6 +919,7 @@
 | [`valero-escola-privada`](fonts/valero-escola-privada.md) | Fátima Valero i Alcaide · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`vela-consell-de-la-terra-1419`](fonts/vela-consell-de-la-terra-1419.md) | Susanna Vela i Palomares · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`vela-ordinacions-segle-xv`](fonts/vela-ordinacions-segle-xv.md) | Susanna Vela i Palomares · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`vilar-andorre-1904`](fonts/vilar-andorre-1904.md) | André Vilar · V. Giard & E. Brière, París · obra de 1904, domini públic | domini públic per antiguitat; digitalització de Google Books | si |
 | [`vilaweb-mort-sergi-mas`](fonts/vilaweb-mort-sergi-mas.md) | Partal, Maresma & Associats SL (VilaWeb) | drets reservats · citació breu amb atribució | False |
 | [`viquipedia-ca`](fonts/viquipedia-ca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-art-andorra`](fonts/wikipedia-art-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

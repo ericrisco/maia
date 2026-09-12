@@ -141,11 +141,13 @@ I ho descriu així:
 **El copríncep episcopal, acusat de fer caure al Senat la mesura que havia
 d'alleujar els seus coprincipats.**
 
-> **Això és una acusació, no un fet provat.** La fa un diputat republicà, es basa
-> en **una notícia de premsa**, i **ell mateix diu que no s'ho creu** i demana al
-> president de la comissió que ho confirmi o ho desmenteixi. **El corpus no té la
-> resposta.** El registra perquè, si es confirma, és un episodi de primer ordre
-> de la relació entre Andorra i el seu copríncep, i si es desmenteix, també.
+> **Quan es va escriure aquesta fitxa era una acusació, no un fet provat**: la feia
+> un diputat republicà, es basava en una notícia de premsa, i ell mateix deia que
+> no s'ho creia. **Una segona font l'ha confirmada**: André Vilar, el 1904, dona la
+> data de la comissió mixta, cita els dos diaris i afegeix la carta pastoral del
+> bisbe del **21 d'agost de 1894** que amenaçava amb agreujar les mesures sobre el
+> bestiar si el Consell General no acceptava el «desig de sobirania». Vegeu
+> [el desenllaç de la qüestió duanera](./el-desenllac-de-la-questio-duanera.md).
 
 ## La tesi espanyola sobre la sobirania, dita en veu alta
 
@@ -175,11 +177,17 @@ tot l'anterior:
 
 ## Buits registrats
 
-1. **Què va passar al Senat.** És el desenllaç de tota la història i el corpus no
-   el té. El fitxer del Senat del 29 de juny **no té capa de text**.
-2. **Si el bisbe d'Urgell va informar realment en contra.** Acusació de premsa,
-   no confirmada dins la font.
-3. **Si la franquícia va arribar a aplicar-se mai**, i fins quan.
+1. ~~**Què va passar al Senat.**~~ **TANCAT:** l'article **va ser rebutjat per la
+   comissió mixta i pel Senat**, i el 1904 els productes andorrans encara pagaven
+   **la tarifa màxima** per entrar a Espanya. Vegeu
+   [el desenllaç](./el-desenllac-de-la-questio-duanera.md).
+2. ~~**Si el bisbe d'Urgell va informar realment en contra.**~~ **CONFIRMAT** per
+   una segona font: **va ser el primer a declarar** davant la comissió mixta del
+   **26 de juny de 1895**, i va aportar les xifres que van servir per tombar
+   l'article. Amb cites de **La Correspondencia de España** i del **Heraldo de
+   Madrid**.
+3. ~~**Si la franquícia va arribar a aplicar-se mai.**~~ **No.** Va caure abans
+   d'entrar en vigor. Queda obert **si es va restablir després del 1904**.
 4. **Què en deien a Andorra** d'aquest afer duaner concret. Tota aquesta fitxa és
    des de Madrid. **Parcialment tancat:** el corpus ja té la veu del Consell
    General d'aquells mateixos mesos —[La qüestió d'Andorra](./la-questio-dandorra.md),
@@ -192,6 +200,7 @@ tot l'anterior:
 ## Related
 
 - [El que Andorra comprava a Espanya](../../economia/comerc/el-que-andorra-comprava-a-espanya.md) — l'inventari que acompanya l'addició.
+- [El desenllaç de la qüestió duanera](./el-desenllac-de-la-questio-duanera.md) — com va acabar, i qui la va tombar.
 - [La qüestió d'Andorra](./la-questio-dandorra.md) — el mateix bisbe, el mateix any, l'altre conflicte.
 - [El contraban](../contraban/contraban.md) — el que produeix un aranzel.
 - [La Nova Reforma de 1866](./nova-reforma.md) — l'altre extrem del segle.

@@ -200,6 +200,24 @@ copríncep francès ni al Tribunal de Corts que havia dictat la sentència.
 El Consell General ho llegeix com el que és: un acte fet «**para constituir
 precedente**», i l'inici d'«una série de actos á cual más soberanos y absolutos».
 
+## Per què van escriure al Papa, i quan
+
+El corpus tenia la data —**18 d'octubre de 1894**— i no el detonant. El detonant
+és **de dos mesos abans**, i el cita Carvajal al Congrés espanyol des d'**una
+carta pastoral del bisbe del 21 d'agost de 1894**:
+
+> «Si, au contraire, **le Conseil général ne se range pas au désir exposé (désir de
+> souveraineté)**... **il souffrira les conséquences de son obstination, et les
+> mesures prises pour l'importation et l'exportation du bétail s'aggraveront
+> jusqu'aux dernières limites**.»
+>
+> — citada per **André Vilar**, *L'Andorre*, 1904, en traducció francesa
+
+**Sotmeteu-vos o us tanquem la frontera del bestiar.** Això lliga aquest conflicte
+amb [la qüestió duanera](./la-questio-duanera-de-1895.md), que el corpus tenia per
+separat: **eren la mateixa crisi**, i el bestiar n'era l'instrument. Vegeu
+[el desenllaç](./el-desenllac-de-la-questio-duanera.md).
+
 ## I l'última carta: el Papa
 
 La segona exposició no va al bisbe: **va al Sant Pare**. És a dir, **al superior
@@ -216,7 +234,9 @@ d'estat.** El corpus no coneix cap altre cas, i no sap com va acabar.
 ## Buits registrats
 
 1. **La resposta.** Ni la del bisbe ni la de la Santa Seu. **El corpus no sap què
-   va contestar ningú**, ni si va contestar.
+   va contestar ningú**, ni si va contestar. El que sí que sap ara és **què va fer
+   el bisbe deu mesos després**: declarar a Madrid contra la franquícia del bestiar
+   andorrà. Vegeu [el desenllaç](./el-desenllac-de-la-questio-duanera.md).
 2. **Els morts.** «Conflictos ruidosos y sangrientos» és tot el que diu.
 3. **Qui era la companyia estrangera** de les carreteres i el casino, i com es
    deia.
@@ -236,6 +256,8 @@ d'estat.** El corpus no coneix cap altre cas, i no sap com va acabar.
 - [La Nova Reforma de 1866](./nova-reforma.md) — la llei que aquest document diu que va ser alterada.
 - [Guillem d'Areny i Plandolit](./guillem-dareny-plandolit.md) — qui la va impulsar.
 - [La qüestió duanera de 1895](./la-questio-duanera-de-1895.md) — l'any següent, i el mateix bisbe acusat altra vegada.
+- [El desenllaç de la qüestió duanera](./el-desenllac-de-la-questio-duanera.md) — la carta pastoral que lliga les dues crisis.
+- [Les tres sobiranies](../../institucions/coprincipat/les-tres-sobiranies.md) — aquesta tesi, al costat de l'espanyola i la francesa.
 - [El coprincipat](../../institucions/coprincipat/el-coprincipat.md) — la institució en litigi.
 - [El reconeixement internacional](../../institucions/relacions-exteriors/el-reconeixement-internacional.md) — el que Andorra reclamava ja el 1894.
 - [La cronologia d'Andorra](../moments-historics/la-cronologia-dandorra.md) — on això era una línia.

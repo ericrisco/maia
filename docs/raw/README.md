@@ -255,8 +255,8 @@ articles i versions de cadascuna, és a
 
 | Fitxer | Què és | Estat de la procedència |
 | --- | --- | --- |
-| `vilar-andorre-1904` | Obra sobre Andorra, **1904** | **URL no registrada.** Cal reconstruir-la |
-| `andre-vilar-andorre` | Variant de la mateixa obra | **URL no registrada** |
+| `vilar-andorre-1904` | **André Vilar, doctor en dret, *L'Andorre*.** París, **V. Giard & E. Brière**, 16 rue Soufflot, **1904**. Dret públic i internacional; conté el desenllaç de l'afer duaner de 1895 | **Digitalització de Google Books.** Domini públic. **Té fitxa:** [`vilar-andorre-1904`](../fonts/vilar-andorre-1904.md). URL pendent |
+| `andre-vilar-andorre` | **NO és la mateixa obra.** És ***Un État ignoré: l'Andorre***, del mateix **André Vilar**, signada com a **conseller general dels Pirineus Orientals**. **Encara no llegida** | URL no registrada |
 | `brutails-coutume` | **J.-A. Brutails**, *La Coutume d'Andorre*, **París, Ernest Leroux, 1904**. Tractat complet del dret consuetudinari andorrà, amb peces justificatives i extractes del Politar | **Digitalització de Google Books**. Domini públic. **Té fitxa:** [`brutails-coutume-1904`](../fonts/brutails-coutume-1904.md). URL exacta pendent |
 | `la-cuestion-de-andorra-1894` | **Les exposicions del Consell General al bisbe d'Urgell i al Papa**, Barcelona, Tipografia de M. Rovira, **1894** | **Digitalització de Google Books** d'un exemplar de biblioteca (codi 3 2044 103 248 027). Domini públic. **Té fitxa:** [`la-cuestion-de-andorra-1894`](../fonts/la-cuestion-de-andorra-1894.md). URL exacta pendent. **El PDF conté el llibre duplicat** |
 
