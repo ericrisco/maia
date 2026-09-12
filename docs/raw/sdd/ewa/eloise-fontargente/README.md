@@ -676,17 +676,21 @@ consulta sotmesa a autorització. Pot conservar els quaderns espanyols, el
 manuscrit, correspondència i papers del judici de 1953. S'ha preparat una
 consulta, no enviada.
 
-L'estat civil ha descartat el primer candidat a **André Dreyfus-Schmidt**.
-L'acta 204 de Belfort demostra que André Charles Dreyfus, nascut el 19/04/1896,
-era realment germà de Pierre: tots dos eren fills d'Isaac Dreyfus i Rachel
-Schmidt. Però una menció marginal fixa la mort d'André a París 16è el
-**20/06/1925**. No pogué formar part de la caravana de 1942 ni ser el germà
-militar que Pierre visità el 1940. L'índex oficial `GR 16 P` només registra
-Pierre Dreyfus Schmidt (`GR 16 P 192414`) i cap André. Això converteix el nom
-d'Amouroux en una incògnita documental: homònim, altre parent, àlies o error
-del dossier o de la transmissió. La filiació del candidat de 1896 queda
-provada, però la seva identificació amb el fugitiu queda definitivament
-exclosa.
+L'estat civil identifica un candidat fort a **André Dreyfus-Schmidt**. L'acta
+204 de Belfort demostra que André Charles Dreyfus, nascut el 19/04/1896, era
+germà de Pierre: tots dos eren fills d'Isaac Dreyfus i Rachel Schmidt. La
+primera lectura de la menció marginal com a mort el `20/06/1925` era errònia:
+el registre parisenc corresponent no conté cap Dreyfus i l'ampliació mostra
+que el tercer dígit no és un `2`. L'any queda pendent de lectura segura.
+
+L'instrument oficial dels oficials `GR 8 YE` registra, a més, **DREYFUS, André
+Charles**, capità d'artilleria, dossier `GR 8 YE 84802`, radiat dels quadres el
+**19/04/1951**: exactament el 55è aniversari de l'André de Belfort. Nom,
+prénoms, arma i cronologia encaixen amb el germà destinat a l'estat major de
+l'artilleria que Pierre visità el 1940 i el mantenen viu per a la caravana de
+1942. El repertori no dona data de naixement, de manera que la identificació
+és d'alta confiança però encara requereix el dossier o el sumari per ser
+definitiva.
 
 Les descàrregues directes actuals de les quatre URL de *Le Monde* només
 retornen una pàgina tècnica `Client Challenge`; es conserven per documentar el
@@ -754,7 +758,8 @@ prové de la representació web accessible, amb data i URL registrades.
 | `francesc-viadiu-fons/grumbach/sanguin-2014-fuite-juifs-pyrenees.pdf`, `.txt`, `sanguin-2014-page-303-304.png` | Article acadèmic, extracció i render verificat; la reconstrucció depèn explícitament d'Aguila i Benet. |
 | `francesc-viadiu-fons/grumbach/shd-gr16p-g-index.pdf`, `.txt` | Índex oficial del Service historique de la Défense; entrada `GR 16 P 272869` de Jacques Grumbach, homologada. |
 | `francesc-viadiu-fons/grumbach/dreyfus-schmidt/shd-gr16p-d-index.pdf`, `.txt` | Índex oficial del Service historique de la Défense; entrada `GR 16 P 192414` de Pierre Dreyfus Schmidt i cap entrada homònima d'André. |
-| `francesc-viadiu-fons/grumbach/dreyfus-schmidt/belfort-etat-civil/*` | Actes 204 (André Charles, 1896) i 301 (Pierre Sylvain, 1902), taula alfabètica, notices i lectura diplomàtica: proven la fraternitat i la mort d'André el 1925. Els facsímils romanen locals perquè el visor en restringeix la difusió. |
+| `francesc-viadiu-fons/grumbach/dreyfus-schmidt/belfort-etat-civil/*` | Actes 204 (André Charles, 1896) i 301 (Pierre Sylvain, 1902), taula alfabètica, notices, ampliacions i lectura diplomàtica: proven la fraternitat; l'any de mort marginal continua pendent. Els facsímils romanen locals perquè el visor en restringeix la difusió. |
+| `francesc-viadiu-fons/grumbach/dreyfus-schmidt/shd-gr-8ye-a-e.pdf`, `.txt` | Instrument oficial dels oficials: `GR 8 YE 84802`, André Charles Dreyfus, capità d'artilleria, radiat el 19/04/1951. |
 | `francesc-viadiu-fons/grumbach/lemonde-*.html` | Controls de descàrrega fallits: quatre pàgines tècniques `Client Challenge` idèntiques, no el text dels articles. |
 | `francesc-viadiu-fons/grumbach/consulta-arxius-ariege-esborrany.md` | Petició detallada de localització i reproducció del procés de Foix i diligències relacionades; preparada però no enviada. |
 | `francesc-viadiu-fons/grumbach/paris-etat-civil/*` | API del visor, foli complet, retalls verificats de l'acta 1137 i la menció marginal, OCR de context, hashes i transcripció diplomàtica de treball. |
