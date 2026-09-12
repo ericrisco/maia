@@ -121,3 +121,4 @@ font.
 - [La por de fondre's](../../cultura/andorra-vista-de-fora/la-por-de-fondres.md) — l'altra veu.
 - [La tria de llengua](../../vida-quotidiana/convencions-socials/la-tria-de-llengua.md) — la llengua com a decisió.
 - [Els andorrans de primera generació](../../institucions/nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md) — la fractura jurídica.
+- [L'Escola d'Infermeria](../sanitat/lescola-dinfermeria.md) — la segmentació en xifres: el 1987, el 90% de les infermeres venien de fora.

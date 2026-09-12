@@ -73,3 +73,4 @@ premsa i s'haurien de reverificar.
 - [Contacte de llengües](../../llengua/contacte-de-llengues/contacte-de-llengues.md) — el quadrilingüisme real.
 - [Manlleus](../../llengua/manlleus/manlleus.md) — per on entra el francès.
 - [Lèxic andorrà](../../llengua/lexic-andorra/lexic-andorra.md) — el vocabulari escolar propi.
+- [La Universitat d'Andorra](./la-universitat-dandorra.md) — el pis de dalt, i el més tardà.

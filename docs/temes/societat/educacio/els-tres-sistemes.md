@@ -136,3 +136,4 @@ Els universitaris que estudien al Principat van passar de **15 el curs
 - [Educació](./educacio.md)
 - [La sèrie històrica](../../llengua/politica-linguistica/la-serie-historica.md)
 - [L'estàndard contra la varietat](../../llengua/dialectologia/lestandard-contra-la-varietat.md)
+- [La Universitat d'Andorra](./la-universitat-dandorra.md) — on desemboquen, quan no marxen.

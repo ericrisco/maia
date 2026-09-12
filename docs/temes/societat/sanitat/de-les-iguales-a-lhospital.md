@@ -173,3 +173,4 @@ comprova**. Aquest corpus les marca sempre.
 - [La CASS i la sanitat](./la-cass-i-la-sanitat.md) — el sistema d'avui.
 - [Les creences sobre el cos](../../vida-quotidiana/creences/les-creences-sobre-el-cos.md) — el que convivia amb tot això.
 - [El Coprincipat](../../institucions/coprincipat/el-coprincipat.md) — qui inaugura l'hospital.
+- [L'Escola d'Infermeria](./lescola-dinfermeria.md) — qui hi havia de treballar, i d'on venia.
