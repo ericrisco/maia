@@ -67,6 +67,35 @@ Pot resumir pàgines posteriors del capítol o informació aportada per Benet; f
 que es llegeixin les p. 221–254 completes, s'ha de conservar com a atribució de
 Balent i no harmonitzar les dues versions per conjectura.
 
+## Éloïse recluta Viadiu: possible pont polonès, no prova d'Ewa
+
+Concepción Pallarés Moraño dedica un passatge a Francesc Viadiu a «Formas de
+oposición y de resistencia al régimen: las redes de evasión aliadas
+(1940–1944)», comunicació publicada a les actes del XIV Congreso de la
+Asociación de Historia Contemporánea. A la p. impresa 1952 afirma que Viadiu
+ajudà inicialment jueus que arribaven a Montpeller a cercar vaixells a Seta i
+Portvendres; després, una agent anomenada **Eloisa** el reclutà per passar
+oficials polonesos i belgues. També resumeix un intent d'evacuació marítima de
+17 persones, de les quals només cinc haurien evitat la Gestapo, i situa Viadiu
+a Andorra des de 1941 amb el nom de guerra `Alexis`, reclutat posteriorment
+pel servei d'intel·ligència britànic.
+
+La dada és rellevant perquè uneix explícitament Éloïse amb evacuats polonesos,
+un medi humà compatible amb la xarxa Ewa. Tanmateix, **no identifica Éloïse
+amb Ewa ni demostra que en formés part**. L'auditoria de notes és decisiva: tot
+el paràgraf de Viadiu depèn d'una única nota, la 6183, que remet només a
+Francesc Viadiu, *Andorra: cadena de evasión* (Martínez Roca, 1974). Pallarés
+és, doncs, una transmissió acadèmica útil i un índex de contingut del llibre,
+però no una corroboració arxivística independent.
+
+La seqüència provisional que en resulta és: ajuda marítima des de Montpeller
+a refugiats jueus → reclutament per Éloïse per evacuar oficials polonesos i
+belgues → fracàs parcial d'una sortida marítima de 17 persones → activitat de
+Viadiu a Andorra com a `Alexis` → mort atribuïda a Éloïse a Fontargente la
+primavera de 1944. Aquesta cronologia és encara narrativa i secundària: cal
+comprovar en el llibre de 1974 quines dates són explícites i cercar papers
+personals, informes de xarxa o correspondència contemporània.
+
 ## La capa audiovisual i el seu límit
 
 3Cat manté públiques les dues parts de la minisèrie *Andorra. Entre el torb i
@@ -102,6 +131,9 @@ històric.
 | `3cat-torb-part1*`, `3cat-torb-part2*` | Pàgines, metadades JSON i subtítols VTT dels vídeos públics de 3Cat; no s'ha descarregat el vídeo complet. |
 | `iec-conflictes-bellics-2025.pdf` | Andrés Luengo López, «Andorra i el pas de fugitius jueus durant la II Guerra Mundial a la ficció», DOI `10.2436/15.8060.38.30`, p. 305–323. |
 | `iec-conflictes-bellics-2025.txt`, `iec-page-13.png`–`15.png` | Extracció i renders verificats de les p. impreses 317–319. |
+| `xiv-congreso-ahc-2018-pp1947-1959.pdf` | Concepción Pallarés Moraño, comunicació sobre xarxes d'evasió, RUA `10045/96369`, p. impresa 1947–1959; CC BY-NC 4.0. |
+| `xiv-congreso-ahc-2018-pp1947-1959.txt`, `xiv-congreso-page-06.png`–`08.png` | Extracció i renders de control; la p. impresa 1952 conté el passatge sobre Éloïse i la nota 6183. |
+| `rua-handle-10045-96369.json`, `rua-item-bundles.json`, `rua-original-bitstreams.json` | Metadades REST oficials de RUA: autoria, citació, llicència, revisió per parells i identificador del bitstream original. |
 | `internet-archive-isbn-search.json` | Cerca pels ISBN català i francès: zero resultats. |
 | `openlibrary-isbn-search.json` | Registre bibliogràfic sense ebook ni text complet. |
 
@@ -114,7 +146,11 @@ Els SHA-256 de tots els fitxers es van calcular el 12/09/2026. Destaquen:
 - `3cat-torb-part2.ca.vtt`:
   `7051d1530ad32042655c83a32c9ca8b55dd418d1dd3ea41e5bb83647f5e4ad06`;
 - `iec-conflictes-bellics-2025.pdf`:
-  `d149d30eb155c2af2d0811dd9e968c91ebbb6375c7b914a5c891432d0dfd60f2`.
+  `d149d30eb155c2af2d0811dd9e968c91ebbb6375c7b914a5c891432d0dfd60f2`;
+- `xiv-congreso-ahc-2018-pp1947-1959.pdf`:
+  `917324af431d7d03831f29190cbeee237c0b12fd29bd80e8bc1735b339a02b57`;
+- `rua-handle-10045-96369.json`:
+  `b05adf5ebbad7b839596c090fe67ad0fcd34e0416da22e22fb918c6473799c0a`.
 
 ## Pròxims controls
 
@@ -129,6 +165,8 @@ Els SHA-256 de tots els fitxers es van calcular el 12/09/2026. Destaquen:
    gendarmeria i documentació fronterera francesa per la primavera de 1944.
 5. Cercar papers personals de Viadiu i possibles cartes de Montpeller que
    permetin relacionar l'àlies Éloïse amb una identitat civil.
+6. Verificar al llibre de 1974 la font i la cronologia del reclutament per
+   Éloïse, del grup marítim de 17 persones i del nom de guerra `Alexis`.
 
 ## Drets
 
