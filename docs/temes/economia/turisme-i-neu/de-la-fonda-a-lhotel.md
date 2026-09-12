@@ -141,3 +141,4 @@ venia, què en queda. El corpus no en té fitxa i és un eix sencer.
 - [El gir dels seixanta](../../gastronomia/historia-alimentaria/el-gir-dels-seixanta.md) — el contrast.
 - [La transformació econòmica](../transformacio-economica/transformacio-economica.md) — el marc.
 - [Turisme i neu](./turisme-i-neu.md) — la branca.
+- [La formació professional](../../societat/educacio/la-formacio-professional.md) — per què la branca d'hoteleria del CFA no va arrelar.

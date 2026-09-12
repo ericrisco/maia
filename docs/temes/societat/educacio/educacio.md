@@ -87,5 +87,6 @@ premsa i s'haurien de reverificar.
 - [L'escola privada](./lescola-privada.md) — arriba el 1999-2000.
 - [Les associacions de pares](./les-associacions-de-pares.md) — i el llibre sobre la infància andorrana.
 - [Les escoles d'art comunals](../../cultura/arts-visuals/les-escoles-dart-comunals.md) — on van els nens a les cinc.
+- [La formació professional](./la-formacio-professional.md) — i els dos-cents contractes de menors.
 - [L'ensenyament confessional](./lensenyament-confessional.md) — des del 1882, la sèrie més antiga.
 - [Índex legislatiu en educació](./index-legislatiu-en-educacio.md) — 48 normes amb BOPA i data.

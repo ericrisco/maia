@@ -328,3 +328,4 @@ societat on es viu**:
 - [L'escola privada](./lescola-privada.md)
 - [Les associacions de pares](./les-associacions-de-pares.md)
 - [L'Efpem](../../esports/formacio-esportiva/lefpem.md) — la formació de tècnics esportius.
+- [La formació professional](./la-formacio-professional.md) — les dues vies, i qui les acaba.

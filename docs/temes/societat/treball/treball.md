@@ -44,3 +44,4 @@ el ministeri corresponent són font primària i no s'han consultat.
 - [Turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md) — d'on ve l'estacionalitat.
 - [Immigració](../immigracio/immigracio.md) — qui viu al país.
 - [Lèxic andorrà](../../llengua/lexic-andorra/lexic-andorra.md) — on viu *frontarer*.
+- [La formació professional](../educacio/la-formacio-professional.md) — el contracte d'aprenent, i els dos-cents menors que treballen sense formació.
