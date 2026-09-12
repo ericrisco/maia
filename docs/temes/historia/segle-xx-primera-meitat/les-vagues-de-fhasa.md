@@ -80,6 +80,15 @@ Lluelles ho posa en una sola frase:
 «la República que quasi va ser» — cosa que el corpus havia registrat sense poder
 explicar. **Amb la CNT a les obres, aquell adjectiu ja no sorprèn tant.**
 
+**El nom exacte del sindicat**, que el corpus tenia aproximat: els obrers de
+FHASA eren de la **Confederació Regional del Treball Catalana**, «una **filial de
+la Confederació Nacional del Treball**, una organització sindical anarquista
+fundada a Barcelona el **1910**»
+([font](../../../fonts/tarrene-influencies-multiculturals.md)). Això **reconcilia
+Camiade —que deia «confederació regional del treball»— amb aquesta fitxa, que
+deia CNT**: totes dues tenien raó, perquè **la CRT és la CNT a Catalunya**.
+Vegeu [per on van entrar les idees](../democratitzacio/per-on-van-entrar-les-idees.md).
+
 **Això no vol dir que els obrers de la CNT reclamessin el vot per als
 andorrans**, i aquesta fitxa **no ho afirma**: les fonts descriuen **dos
 moviments que coincideixen en el temps i es reforcen**, no un de sol.
@@ -114,3 +123,4 @@ relació real entre les dues coses.
 - [Democratització](../democratitzacio/democratitzacio.md)
 - [Immigració](../../societat/immigracio/immigracio.md)
 - [La primera policia](./la-primera-policia.md) — el cos que neix el 15 de maig de 1931, a proposta de FHASA.
+- [Per on van entrar les idees](../democratitzacio/per-on-van-entrar-les-idees.md) — la Unió Andorrana, els capgrossos i el nom del sindicat.

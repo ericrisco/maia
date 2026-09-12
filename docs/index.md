@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**308** documents · **87** fonts · **0** aptes com a model de llengua · **107** temes amb contingut.
+**309** documents · **87** fonts · **0** aptes com a model de llengua · **107** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -305,6 +305,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Democratització](temes/historia/democratitzacio/democratitzacio.md) | `temes/historia/democratitzacio` | compilada | contemporania | no | `viquipedia-ca` |
+| [Per on van entrar les idees](temes/historia/democratitzacio/per-on-van-entrar-les-idees.md) | `temes/historia/democratitzacio` | compilada | contemporania | no | `tarrene-influencies-multiculturals` |
 
 ## temes/historia/edat-mitjana
 

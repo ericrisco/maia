@@ -89,6 +89,20 @@ en queixa**, que **pot paralitzar i revocar un acord del Consell General**, i
 
 **Un parlament els acords del qual es podien desfer.**
 
+## Les condicions del 1933
+
+**El corpus tenia el fet i no en tenia el llindar.** Claudine Tarrene el dona:
+
+> «el Consell General va concedir **els drets civils a tots els andorrans majors
+> de 25 anys d'edat i residents habitualment a Andorra**»
+> ([font](../../../fonts/tarrene-influencies-multiculturals.md)).
+
+**Vint-i-cinc anys i residència habitual.** La residència habitual **hi és des
+del primer dia**: no és una addició moderna. Vegeu
+[per on van entrar les idees](../../historia/democratitzacio/per-on-van-entrar-les-idees.md),
+que documenta **qui ho demanava** —la **Unió Andorrana**— i **com se'n deia als
+qui s'hi oposaven**: **els capgrossos**, malnom dels consellers generals.
+
 ## Buits registrats
 
 1. **La data exacta del 1941 i del 1947**, i **el text de les dues decisions**.
@@ -106,4 +120,5 @@ en queixa**, que **pot paralitzar i revocar un acord del Consell General**, i
 - [La Nova Reforma](../../historia/segle-xix/nova-reforma.md) — el vot dels caps de casa, 1866.
 - [La revolució de 1933](../../historia/segle-xx-primera-meitat/la-revolucio-de-1933.md)
 - [Democratització](../../historia/democratitzacio/democratitzacio.md)
+- [Per on van entrar les idees](../../historia/democratitzacio/per-on-van-entrar-les-idees.md) — d'on venien les reivindicacions.
 - [El parlamentarisme andorrà](../parlamentarisme/el-parlamentarisme-andorra.md)
