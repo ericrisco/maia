@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**255** documents · **66** fonts · **0** aptes com a model de llengua · **103** temes amb contingut.
+**258** documents · **67** fonts · **0** aptes com a model de llengua · **103** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -555,6 +555,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Demografia](temes/societat/demografia/demografia.md) | `temes/societat/demografia` | compilada | contemporania | no | `viquipedia-ca` |
+| [La composició per nacionalitats](temes/societat/demografia/la-composicio-per-nacionalitats.md) | `temes/societat/demografia` | compilada | contemporania | no | `mico-interculturalitat` |
 | [La població al segle XIX](temes/societat/demografia/la-poblacio-al-segle-xix.md) | `temes/societat/demografia` | compilada | contemporania | no | `camiade-migracions` |
 | [Les onades migratòries](temes/societat/demografia/les-onades-migratories.md) | `temes/societat/demografia` | compilada | contemporania | no | `camiade-migracions` |
 | [Les tres migracions](temes/societat/demografia/les-tres-migracions.md) | `temes/societat/demografia` | compilada | contemporania | no | `armengol-migracions-segle-xix` |
@@ -607,9 +608,11 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El mercat de treball dual](temes/societat/immigracio/el-mercat-de-treball-dual.md) | `temes/societat/immigracio` | compilada | contemporania | no | `mico-interculturalitat` |
 | [Els nats a Andorra](temes/societat/immigracio/els-nats-a-andorra.md) | `temes/societat/immigracio` | compilada | contemporania | no | `debat-2a-diada-migracions` |
 | [Immigració](temes/societat/immigracio/immigracio.md) | `temes/societat/immigracio` | compilada | contemporania | no | `viquipedia-ca` |
 | [La immigració llatinoamericana](temes/societat/immigracio/la-immigracio-llatinoamericana.md) | `temes/societat/immigracio` | compilada | contemporania | no | `de-la-parte-immigracio-cultura` |
+| [La piràmide de prestigi](temes/societat/immigracio/la-piramide-de-prestigi.md) | `temes/societat/immigracio` | compilada | contemporania | no | `mico-interculturalitat` |
 | [La societat segmentada](temes/societat/immigracio/la-societat-segmentada.md) | `temes/societat/immigracio` | compilada | contemporania | no | `de-la-parte-immigracio-cultura` |
 | [Les comunitats](temes/societat/immigracio/les-comunitats.md) | `temes/societat/immigracio` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [L'experiència de migrar](temes/societat/immigracio/lexperiencia-de-migrar.md) | `temes/societat/immigracio` | compilada | contemporania | no | `font-fenomens-socials-immigracio` |
@@ -823,6 +826,7 @@
 | [`mateu-petits-estats-especificitat`](fonts/mateu-petits-estats-especificitat.md) | Vicenç Mateu i Zamora · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mateu-pi-consellera-general`](fonts/mateu-pi-consellera-general.md) | Meritxell Mateu i Pi · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mateu-zamora-reforma-reglament`](fonts/mateu-zamora-reforma-reglament.md) | Vicenç Mateu i Zamora · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`mico-interculturalitat`](fonts/mico-interculturalitat.md) | Joan R. Micó i Ibàñez · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
 | [`molla-catala-andorra`](fonts/molla-catala-andorra.md) | Guillem Molla · Universitat de Girona · revista IANUA | publicació acadèmica en accés obert | pendent |
 | [`oranias-formacio-administracio`](fonts/oranias-formacio-administracio.md) | Imma Oranias i Estudis · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pallares-medicina-andorra`](fonts/pallares-medicina-andorra.md) | Manuel Pallarès i Darsa · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |

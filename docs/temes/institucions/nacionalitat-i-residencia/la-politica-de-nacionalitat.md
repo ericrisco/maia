@@ -187,3 +187,4 @@ ni al Vaticà.**
 - [Les tres migracions](../../societat/demografia/les-tres-migracions.md)
 - [La transformació econòmica](../../economia/transformacio-economica/transformacio-economica.md)
 - [La desigualtat del vot](../../politica/sistema-electoral/la-desigualtat-del-vot.md) — què fa la llei de nacionalitat al cos electoral, segons l'OSCE.
+- [La composició per nacionalitats](../../societat/demografia/la-composicio-per-nacionalitats.md) — 1975, 1984 i 1993: les tres lleis que dibuixen la població.

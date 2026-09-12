@@ -83,3 +83,4 @@ jove.
 - [Contacte de llengües](../contacte-de-llengues/contacte-de-llengues.md) — com conviuen.
 - [La sèrie històrica](./la-serie-historica.md) — d'on ve aquesta foto.
 - [Els exàmens oficials de català](./els-examens-oficials-de-catala.md)
+- [El mercat de treball dual](../../societat/immigracio/el-mercat-de-treball-dual.md) — el català com a requisit de feina, i com a ascensor social.

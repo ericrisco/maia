@@ -165,3 +165,4 @@ aquest.
 - [L'acord d'associació amb la UE](../../institucions/relacions-exteriors/lacord-dassociacio-amb-la-ue.md) — el nus, vint anys després.
 - [El Manual Digest](../../historia/manual-digest/manual-digest.md) — l'argument que cita.
 - [Referents compartits](../../vida-quotidiana/referents-compartits/referents-compartits.md) — per què el cita.
+- [La piràmide de prestigi](../../societat/immigracio/la-piramide-de-prestigi.md) — la por, mesurada: el 85% creu que la immigració és bona per al país.

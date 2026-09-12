@@ -137,6 +137,57 @@ gran i més ben delimitada que té el corpus**, i n'hi ha que van directes a
 branques buides: *L'andorranitat* (21a), *L'aigua* (24a), *La nacionalitat
 andorrana* (26a), *L'energia* (22a).
 
+### `33a-2021-andorra-i-la-multiculturalitat/` — via nova d'accés
+
+**Trenta ponències, una per fitxer.** Baixades el **2026-09-13** per un camí
+diferent del Calaix, i **aquest camí canvia el que el corpus pot fer**:
+
+```bash
+curl -sL "https://doi.org/10.2436/15.8060.<volum>.<article>" -o article.pdf
+```
+
+**Els DOI de la SAC resolen directament al repositori de l'Institut d'Estudis
+Catalans**, `publicacions.iec.cat/repository/pdf/<col·lecció>/<ítem>.pdf`,
+**que no té la protecció anti-bot del Calaix**. Comprovat: la pàgina HTML del
+Calaix retorna *«Making sure you're not a bot!»*; el DOI, el PDF.
+
+**Volums localitzats per aquesta via** (prefix `10.2436/15.8060.`):
+
+| Segment | Publicació |
+| --- | --- |
+| **10** | 13es Trobades Culturals Pirinenques — *Art i història al Pirineu* (2017) |
+| **11** | Recull de conferències 2015 / Debats de recerca 9 |
+| **12** | **30a Diada** — *Andorra i el tractat d'associació amb la UE* (2017) |
+| **13** | 14es Trobades — *L'economia muntanyenca al Pirineu* (2018) |
+| **15** | Recull de conferències 2016 / Debats de recerca 10 |
+| **16** | **31a Diada** — *El parlamentarisme andorrà* (2019) |
+| **17** | 15es Trobades — *Els usos del patrimoni al Pirineu* (2019) |
+| **18** | Recull de conferències 2017 / Debats de recerca 11 |
+| **19** | **32a Diada** — *L'economia circular i Andorra* (2020) |
+| **20** | 16es Trobades — *Els Pirineus marítims* (2020) |
+| **21** | Recull de conferències 2018 / Debats de recerca 12 |
+| **22** | **33a Diada** — *Andorra i la multiculturalitat* (2021) |
+| **23** | 17es Trobades — *Aliances territorials pirinenques* (2021) |
+| **24-26** | Recull de conferències 2019-2020 / Debats de recerca 13 |
+| **27** | **34a Diada** — *Els boscos andorrans* (2022) |
+| **28** | 18es Trobades — *Accions dinamitzadores al Pirineu* (2022) |
+| **30** | Recull de conferències 2021 / Debats de recerca 14 |
+| **32** | **35a Diada** — *L'àrea funcional Andorra-Pirineus* (2023) |
+| **34** | 20es Trobades — *La protecció del territori pirinenc* (2024) |
+| **35** | 39è Cicle de conferències 2023 |
+| **36** | *Aigua: desafiaments i oportunitats* — Debats de recerca 16 (2025) |
+| **37** | **37a Diada** — *La globalització i Andorra* (2025) |
+| **38** | 21es Trobades — *Conflictes bèl·lics al Pirineu* (2025) |
+
+**Això vol dir que el corpus té accés a les Diades 30a-37a i a nou volums de
+Trobades Culturals Pirinenques** que no eren al Calaix ni estaven localitzats.
+**El segment 16 confirma, a més, el DOI del volum del parlamentarisme**, el
+handle Calaix del qual segueix sense verificar.
+
+**Buit registrat:** els segments **1-9**, **14**, **29**, **31**, **33** i
+**39+** no s'han resolt o no s'han identificat. **Les Diades 1a-29a segueixen
+sense via per aquest camí.**
+
 ---
 
 ## `llibres/` — obres impreses

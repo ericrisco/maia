@@ -156,3 +156,4 @@ primera onada és de 1931 i és de carreteres, no de central**.
 - [FHASA](../../economia/energia-i-serveis/fhasa.md) — l'obra.
 - [Les vagues de FHASA](../../historia/segle-xx-primera-meitat/les-vagues-de-fhasa.md) — el conflicte.
 - [La transformació econòmica](../../economia/transformacio-economica/transformacio-economica.md) — el marc.
+- [La composició per nacionalitats](./la-composicio-per-nacionalitats.md) — la sèrie sencera del 1900 al 2020.

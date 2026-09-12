@@ -162,3 +162,5 @@ pròpia en aquest volum**, cosa que també diu alguna cosa. El corpus no en té 
 - [Els andorrans de primera generació](../../institucions/nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md)
 - [La tria de llengua](../../vida-quotidiana/convencions-socials/la-tria-de-llengua.md)
 - [Associacionisme](../associacionisme/associacionisme.md)
+- [La piràmide de prestigi](./la-piramide-de-prestigi.md) — com les ordena la societat andorrana, segons el CRES el 2021.
+- [La composició per nacionalitats](../demografia/la-composicio-per-nacionalitats.md) — quantes persones hi ha de cadascuna.

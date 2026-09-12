@@ -155,3 +155,4 @@ l'Organització Internacional del Treball**.
 - [Associacionisme](../associacionisme/associacionisme.md) — l'altra cara.
 - [L'Institut d'Estudis Andorrans](../../cultura/museus-i-arxius/linstitut-destudis-andorrans.md) — qui és el CRES que va fer l'enquesta.
 - [La funció pública](../../institucions/govern/la-funcio-publica.md) — l'associació de personal de l'Administració general, el 2000.
+- [El mercat de treball dual](../immigracio/el-mercat-de-treball-dual.md) — per què els sindicats són del sector públic: l'explicació estructural.

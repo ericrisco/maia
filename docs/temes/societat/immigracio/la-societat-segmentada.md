@@ -102,16 +102,82 @@ El corpus considera aquesta la **lectura més sòlida que té** del debat migrat
 andorrà, i **la marca com a interpretació pròpia**, no com a afirmació de la
 font.
 
+## Vint-i-quatre anys després
+
+**El 2021, el director del CRES reprèn exactament aquesta anàlisi**
+([font](../../../fonts/mico-interculturalitat.md)) i **tanca tres dels buits que
+aquesta fitxa tenia oberts**.
+
+### L'estudi té nom, autors i editorial
+
+**És un llibre:**
+
+> **COMAS D'ARGEMIR, Dolors; PUJADAS, Joan Josep (1997).** *Andorra, un país de
+> frontera. Estudi etnogràfic dels canvis econòmics, socials i culturals.*
+> Barcelona, **Editorial Alta Fulla**.
+
+**Del mateix parell hi ha *Andorra, una economia de frontera*.** I el CRES **va
+fer servir la mateixa hipòtesi** per al seu estudi *La immigració a Andorra*
+(2004). **El corpus ja no busca «un estudi etnogràfic»: busca dos llibres
+concrets.**
+
+### Les dues fractures eren tres
+
+**Micó les reformula així**, i la tercera és nova per al corpus:
+
+| Segmentació | On és al corpus |
+| --- | --- |
+| **Econòmica i ocupacional** | [el mercat de treball dual](./el-mercat-de-treball-dual.md) |
+| **Política** — qui vota | [la desigualtat del vot](../../politica/sistema-electoral/la-desigualtat-del-vot.md) |
+| **Social, o de prestigi cultural** | [la piràmide de prestigi](./la-piramide-de-prestigi.md) |
+
+**La fractura «de classe» i la «d'origen i llengua» del 1995 no eren dues coses
+diferents que es creuen: eren tres coses que es sostenen entre elles.**
+
+### Sí, hi ha espais d'interacció, i se saben
+
+**El buit número 5 d'aquesta fitxa era exactament aquesta pregunta.** La
+resposta, amb el suport d'una troballa mesurada —**com més tracte entre grups,
+menys estereotip**—, és:
+
+**l'escola** (tots els infants hi van barrejats) · **la mida del país**, que
+«dificulta l'existència de guetos» · **el mercat de treball**, per als nascuts
+al país · i **les festes interculturals** del Pas de la Casa i d'Andorra la
+Vella.
+
+**El corpus havia deixat la pregunta oberta amb tres candidats —l'escola, la
+feina, l'esport— i n'encerta dos.**
+
+### I una dada que matisa la fitxa sencera
+
+**El 85% de la població pensa que la immigració és bona per al país** i **el 93%
+que fa possible el desenvolupament econòmic**, segons enquestes del CRES. I a
+l'**Observatori**, l'enquesta d'opinió que el CRES fa **des del 2002**, **la
+immigració no ha aparegut mai entre els principals problemes d'Andorra**:
+sempre **per sota del 3%**, **inclosos els anys més durs de la crisi del 2007**.
+
+**Una societat pot estar segmentada i no viure-ho com un conflicte.** La font hi
+dona una explicació que el corpus reté com a seva: a Andorra **la modernització
+i l'augment del nivell de vida estan lligats a la immigració en la consciència
+col·lectiva**, i per això **no es veu amb el recel d'altres societats**.
+
+**Això no anul·la la segmentació: explica per què no esclata.**
+
 ## Buits registrats
 
-1. **L'estudi etnogràfic de 1993-1995 sencer.** **Prioritari** — el corpus en té
-   una citació de tres línies.
-2. **Si la segmentació s'ha reduït** en trenta anys. **La dada és de fa una
-   generació.**
+1. ~~**L'estudi etnogràfic de 1993-1995 sencer.**~~ — **identificat**: Comas
+   d'Argemir i Pujadas, *Andorra, un país de frontera* (1997). **Segueix obert
+   llegir-lo.**
+2. ~~**Si la segmentació s'ha reduït** en trenta anys.~~ — **respost el 2021**:
+   segueix, reformulada en tres línies, amb la cúspide eixamplant-se.
 3. **Dades quantitatives**: matrimonis mixtos, tria d'escola, barris.
 4. **Com es viu des de dins** cada segment. Material d'entrevista.
-5. **Quins són els espais** on sí que hi ha interacció — l'escola?, la feina?,
-   l'esport? ([l'esport](../esport/lesport.md))
+5. ~~**Quins són els espais** on sí que hi ha interacció~~ — **respost**:
+   l'escola, la mida del país, el mercat de treball i les festes
+   interculturals.
+6. **L'Observatori del CRES** sencer, des del 2002. **Prioritari**: és una sèrie
+   d'opinió de vint anys sobre el país.
+7. **Les enquestes del CRES del 2017** sobre drets polítics dels residents.
 
 ## Related
 
@@ -122,3 +188,6 @@ font.
 - [La tria de llengua](../../vida-quotidiana/convencions-socials/la-tria-de-llengua.md) — la llengua com a decisió.
 - [Els andorrans de primera generació](../../institucions/nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md) — la fractura jurídica.
 - [L'Escola d'Infermeria](../sanitat/lescola-dinfermeria.md) — la segmentació en xifres: el 1987, el 90% de les infermeres venien de fora.
+- [El mercat de treball dual](./el-mercat-de-treball-dual.md) — la segmentació econòmica, el 2021.
+- [La piràmide de prestigi](./la-piramide-de-prestigi.md) — la segmentació social.
+- [La composició per nacionalitats](../demografia/la-composicio-per-nacionalitats.md) — qui és qui, amb xifres.
