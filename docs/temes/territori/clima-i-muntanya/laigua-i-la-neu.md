@@ -45,6 +45,15 @@ hídrics a **més de la meitat de la humanitat**.
 doble d'aigua**. **Planificar amb una mitjana de 262 hm³ és planificar amb una
 xifra que gairebé mai no es compleix.**
 
+> **Una altra font del corpus en dona 282.** L'informe bianual del Govern
+> d'Andorra a les Nacions Unides (**BUR, 2014**), citat per Cristina Pesado,
+> estima el recurs hídric d'Andorra en **282 hm³/any de mitjana per al període
+> 1961-1990** ([font](../../../fonts/pesado-recurs-hidric-andorra.md)).
+> **Vint hm³ de diferència**, que és gairebé **el consum anual sencer del país**
+> (21,63 hm³). **No és el mateix període ni la mateixa font i el corpus no ho pot
+> arbitrar**: ho registra. **Buit prioritari:** quin període cobreix la xifra de
+> 262 hm³.
+
 **El règim és nival**, típic d'una zona de muntanya d'influència mediterrània:
 **cabals alts a la primavera, baixos a l'estiu**, amb una lleugera aportació de
 les pluges de tardor.
@@ -120,6 +129,92 @@ producció de neu, en canvi, consumeix a l'hivern, quan n'hi haurà més.** El
 corpus **marca això com a inferència seva**: la font no fa el creuament
 estacional.
 
+## El que en diu l'informe del Govern a les Nacions Unides
+
+Les modelitzacions de PIRAGUA no són les úniques. El **BUR del 2014** —l'informe
+bianual que Andorra presenta en el marc del **Conveni marc de les Nacions Unides
+sobre el canvi climàtic**, al qual **s'hi va adherir el 2 de març del 2011**— hi
+posa xifres pròpies, amb **l'escenari A1B de l'IPCC**:
+
+| Horitzó | Recurs hídric | Variació |
+| --- | ---: | ---: |
+| **1961-1990** *(referència)* | **282 hm³/any** | — |
+| **2021-2050** | **−42 hm³** | **−14,9%** |
+| **2071-2100** | **−106 hm³** | **−37,6%** |
+
+I per al **final del segle XXI**: **+3,6 °C** i **−16,8% de precipitació** al
+país; de mitjana, **+0,29 °C per dècada**.
+
+**Un terç de l'aigua d'Andorra, al final de segle.**
+
+### I ja no és una projecció: el Gran Valira ja ha baixat
+
+> «Els cabals dels rius **ja estan sentint aquest efecte**, amb una **reducció
+> general dels valors de les mitjanes decennals del 33% per al Gran Valira a
+> partir del 1951-1960**.»
+
+**Un terç menys de cabal decennal al riu principal del país, mesurat, no
+projectat.** El corpus no tenia aquesta dada.
+
+### Les dues sèries de temperatura del corpus
+
+| Font | Període | Tendència |
+| --- | --- | --- |
+| CENMA, via [el canvi climàtic](./el-canvi-climatic.md) | **1950-2010** | **+0,14 °C/dècada** |
+| Esteban et al. (2012), via aquesta font | **1931-2013** | **+0,2 °C/dècada** |
+
+**Són períodes diferents i no es contradiuen necessàriament**, però **el corpus
+no pot barrejar-les**: qui citi una tendència tèrmica d'Andorra ha de dir **de
+quina sèrie i de quins anys**. Vegeu
+[les xifres que no quadren](../../societat/demografia/les-xifres-que-no-quadren.md)
+per al mateix criteri aplicat a la demografia.
+
+### El llindar dels 1.400 metres
+
+Una troballa de la literatura que la ponència recull i que **val per a tot el
+Pirineu**: hi ha una **altitud llindar d'uns 1.400 m** (± 200 m) **per sota de
+la qual la temperatura és la principal variable que explica el gruix i la durada
+de la neu, i per sobre de la qual ho és la precipitació** (Morán-Tejeda et al.,
+2013).
+
+**Andorra té una altitud mitjana de 1.996 m.** El país és, gairebé tot, **per
+sobre del llindar** — **on el que decideix la neu no és quant escalfa sinó quant
+precipita**. Això matisa la lectura fàcil de «més calor, menys neu».
+
+I una regla de conversió que la ponència cita: **+1 °C = −20% d'equivalent
+d'aigua en neu acumulada** en una conca petita dels Pirineus (López-Moreno et
+al., 2013).
+
+## L'absència que aquesta fitxa ha de registrar
+
+**El 2016, tres investigadors del ram escriuen això:**
+
+> «**no hi ha cap estudi científic que analitzi la influència del canvi climàtic
+> en el recurs hídric a Andorra** i ho relacioni amb els impactes socioeconòmics
+> que pot generar.»
+
+I ho repeteixen: «**encara no hi ha cap estudi en la literatura científica que
+abordi en detall el cas d'Andorra ni el vincle amb el model socioeconòmic i els
+usos de l'aigua**».
+
+**El buit del corpus era, aquí, el buit de la ciència.** La ponència és **la
+presentació d'una tesi doctoral que es proposava omplir-lo**.
+
+**Buit registrat, prioritari:** si aquella tesi es va acabar, i què va donar.
+
+### Les dues pressions que els gestors ja preveien el 2016
+
+> «diferents agents implicats en la gestió preveuen possibles conflictes i
+> dificultats en la gestió futura… com ara **la necessitat més gran de produir
+> neu artificial** o **l'increment de l'aprofitament hidroelèctric planificat pel
+> Govern**.»
+
+**Les dues pressions són decisions andorranes, no efectes del clima.** Això és el
+que fa que el problema sigui de política i no només de meteorologia: **el mateix
+país que perdrà aigua té previst fer-ne servir més**
+([FEDA](../../economia/energia-i-serveis/fhasa.md),
+[turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md)).
+
 ## Per què això toca la branca d'esports
 
 **Perquè el 6,67% de l'aigua consumida d'un estat va a fer que hi hagi neu on la
@@ -144,6 +239,12 @@ professió reglada i escola d'estat** ([esports](../../esports/README.md)) i que
 5. **Quanta neu artificial es fa**, en quines estacions i des de quan.
 6. **El consum d'aigua per parròquia**, i quines conques abasteixen què.
 7. **Si les dades dels usos són d'un any concret**; la font no el diu.
+8. **Quin període cobreix la xifra de 262 hm³**, per poder-la comparar amb els
+   282 hm³ del BUR (1961-1990). **Prioritari.**
+9. **El BUR del 2014** i el **PAACC del 2014** sencers. Són documents oficials
+   andorrans i el corpus només els té citats.
+10. **La tesi de Cristina Pesado**: si es va acabar i què va donar.
+11. **Miquel (2012)** i **Esteban et al. (2012)**, citats i no llegits.
 
 ## Related
 

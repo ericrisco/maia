@@ -141,8 +141,14 @@ publicació pròpia**.
   [els seguiments del CENMA](../fauna-i-flora/els-seguiments-del-cenma.md). Sis
   programes de mesura, i una troballa ja quantificada: **les papallones d'Enclar
   van avançar cinc i set setmanes el seu calendari el 2014**.
-- **El recurs hídric**, amb ponència de **Cristina Pesado**, Marc Pons i
-  **Juan-Ignacio López Moreno** (IPE-CSIC).
+- ~~**El recurs hídric**, amb ponència de **Cristina Pesado**, Marc Pons i
+  **Juan-Ignacio López Moreno** (IPE-CSIC).~~ **TANCAT**:
+  [l'aigua i la neu](./laigua-i-la-neu.md). En surten **les projeccions del BUR
+  del 2014** —**−37,6% del recurs hídric al final de segle**—, **la reducció del
+  33% ja mesurada a les mitjanes decennals del Gran Valira**, i **una tendència
+  tèrmica diferent de la d'aquesta fitxa**: **+0,2 °C/dècada entre 1931 i 2013**
+  contra els **+0,14 entre 1950 i 2010**. **Períodes diferents; el corpus no les
+  barreja.**
 - **La percepció ciutadana**, amb dades del **CRES** des del **2002** — i el
   CRES ja tenia, el 2000, **una enquesta sobre els riscos naturals** entre les
   seves previsions immediates
