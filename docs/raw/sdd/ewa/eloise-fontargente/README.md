@@ -469,6 +469,81 @@ altres situacions. Aquesta crítica no refuta per si sola la mort d'Éloïse,
 però obliga a no usar diàlegs, noms ni cronologia del guió com a document
 històric.
 
+## *Fugint dels nazis*: subtítol recuperat i còpia oficial localitzada
+
+L'API pública de 3Cat conserva les metadades i el subtítol català íntegre de
+*Fugint dels nazis*, segon capítol de la sèrie documental *Boira negra*. La
+fitxa fixa l'emissió el **24/09/2008 a les 23.02**, una durada de **56:59** i
+l'identificador `5311591`. El vídeo va caducar l'11/01/2021 i consta ara com a
+despublicat: l'API ja no ofereix cap URL de reproducció, però sí el VTT i una
+imatge clau. La notícia d'arxiu de 3Cat enumera com a testimonis Joan Català,
+Joaquim Baldrich i Enric Mèlich i, en el tram andorrà, Eduard Molné i Marc
+Forné.
+
+El subtítol permet una primera lectura temporal, però no reemplaça la imatge:
+
+- 17:40–19:04, la narració presenta Andorra com a espai estratègic, anomena
+  Viadiu «cervell» de la xarxa andorrana i situa el seu nucli a l'Hotel
+  Palanques. Marc Forné identifica Eduard Molné, Conejos i Baldrich;
+- 22:20–26:06, dos o més testimonis recorden passatgers que no arribaven, dues
+  parelles belgues sota la neu prop de l'Estany Negre i acusacions contra
+  `Mulero` i `Trallero`. El VTT no retola el nom dels parlants. Una pàgina
+  divulgativa posterior atribueix el primer relat a Joaquim Baldrich, però
+  aquesta atribució continua pendent de verificació visual;
+- 26:16–28:45, la narració presenta `Nico` com a infiltrat i els subtítols
+  identifiquen explícitament intervencions de Forné i Molné. Molné parla de
+  **cinc** polonesos esgotats en la persecució de Sispony, no quatre com diu el
+  TFG de 2014. És una discrepància de transmissió que s'ha de portar a la font
+  contemporània;
+- 50:57–51:13, el programa llegeix un document del Govern Civil de Lleida que
+  ordena el retorn forçós de francesos; sense veure el fotograma no se'n pot
+  extreure data, signatura o llista nominal;
+- 51:13–51:35, un testimoni sense rètol al VTT atribueix al consolat britànic
+  una ordre extrema de matar si calia per completar una missió. És una
+  afirmació oral retrospectiva, no una ordre documental;
+- 52:23–55:08, testimonis i narració descriuen caiguts, ferits i persones
+  abandonades per salvar el grup. A 54:37 el narrador identifica Joan Català i
+  a 55:03 identifica Enric Mèlich, fet que ajuda a separar aquestes dues veus
+  només en el tram final.
+
+El Centro Documental de la Memoria Histórica conserva una còpia física del
+programa: PARES `12796626`, signatura **`SI,3029`**, codi de referència
+**`ES.37274.CDMH/9.69.2//SI,3029`**, un document audiovisual en CD, 2008, en
+català, francès i anglès. La fitxa no incorpora objecte digital. S'ha preparat
+una consulta no enviada per demanar accés o reproducció, metadades tècniques,
+crèdits i l'existència d'un guió o transcripció dipositats. Fins veure aquesta
+còpia, el subtítol prova què es va dir i quan, però no qui apareix en cada tall
+ni quines fotografies o documents es mostraren.
+
+## Bayo després de *Reporter*: una admissió que debilita les fotografies
+
+Luengo (2025, p. 305–306 i 323) aporta un control que canvia el pes de la sèrie
+de 1977. Segons la seva lectura d'*El marqués y la esvástica* de Rosa Sala Rose
+i Plàcid García-Planas, els autors entrevistaren Eliseo Bayo i aquest admeté
+haver pagat els testimonis i no poder assegurar que els ossos fotografiats
+fossin autèntics o procedissin del lloc declarat. La mateixa admissió ja havia
+estat reproduïda per la premsa andorrana el 2014 i el 2022. Encara falta
+consultar el llibre de 2014 i fixar-ne la pàgina exacta: de moment, Luengo i les
+notícies són transmissors d'aquella entrevista, no el seu original.
+
+Aquesta dada no demostra que no hi hagués assassinats. Sí invalida l'ús de les
+fotografies de *Reporter* com a prova material autosuficient i reforça la
+necessitat de separar casos:
+
+- el record oral de Baldrich sobre les dues parelles belgues;
+- Gustave i Ida Allerhand, presentats per Calvet com a presumptes víctimes;
+- Jacques Grumbach, amb recuperació del cos el 1949 i judici a Foix el 1953;
+- les tres dones sense nom recordades per José Bazán i enterrades a Escaldes;
+- els ossos fotografiats per Bayo, sense cadena de custòdia coneguda.
+
+Una opinió de Roser Porta de 2022 atribueix als historiadors Pere Canturri i
+Pere Cavero que les fotografies procedien d'excavacions del cementiri de
+Nagol. No s'ha localitzat encara la declaració o publicació original dels dos
+historiadors; per tant, és una **atribució periodística pendent**, no un fet
+establert. També s'ha comprovat que la compareixença de Bayo anunciada per a un
+congrés d'espionatge l'octubre de 2022 fou cancel·lada: no es pot esperar
+d'aquell acte una gravació o aclariment que mai es produí.
+
 ## Fonts conservades
 
 | Fitxer | Procedència i ús |
@@ -522,6 +597,10 @@ històric.
 | `francesc-viadiu-fons/escandols-andorra-muntanyes.html` | Còpia de procedència de l'entrada de 2013 que allotja els escaneigs i atribueix dates a diversos números; blog anònim, no catàleg hemerogràfic. |
 | `francesc-viadiu-fons/reporter-1977/*.jpg`, `*.txt` | Vint escaneigs i OCR de treball dels núm. 4 i 5 de *Reporter*; el núm. 4 conserva sumari i p. 16–23, el 5 és parcial. |
 | `francesc-viadiu-fons/youtube-search-*.json`, `*.vtt` | Auditoria de YouTube: una càpsula de Claude Benet sense subtítols i un vídeo divulgatiu de Viadiu de baix valor probatori. El fitxer d'àudio de la càpsula quedà buit per bloqueig 403 i no s'ha escoltat. |
+| `francesc-viadiu-fons/3cat-fugint-dels-nazis-*` | Notícia, pàgina, JSON de l'API, VTT íntegre, selecció temporal i imatge clau de *Fugint dels nazis*; el vídeo consta despublicat des de l'11/01/2021. |
+| `francesc-viadiu-fons/pares-cdmh-*.html` | Cerca i registre oficial PARES del dipòsit audiovisual `SI,3029`, CDMH, Salamanca. |
+| `francesc-viadiu-fons/consulta-cdmh-fugint-dels-nazis-esborrany.md` | Consulta d'accés i reproducció preparada però no enviada. |
+| `francesc-viadiu-fons/bondia-2022-*.html` | Notícies i opinió sobre Bayo, els casos individualitzats i l'atribució Canturri/Cavero; s'usen com a transmissió periodística, no com a prova forense. |
 | `internet-archive-isbn-search.json` | Cerca pels ISBN català i francès: zero resultats. |
 | `openlibrary-isbn-search.json` | Registre bibliogràfic sense ebook ni text complet. |
 
@@ -545,6 +624,10 @@ Els SHA-256 de tots els fitxers es van calcular el 12/09/2026. Destaquen:
   `896719a73aede14bcb9a11fdd4154bfea83a5df45f4925de1dbf749979f9d5e8`;
 - `a-cada-cual-su-exilio.pdf`:
   `6bc9ea22d2fa23ef48d10f0bab49082748cac04f3e23330208b56ea52709742c`.
+- `3cat-fugint-dels-nazis.ca.vtt`:
+  `4615b2053d89a670281f2353218ce60d97136ac0a2159a65172af5f2d29c4879`.
+- `pares-cdmh-si-3029-fugint-dels-nazis.html`:
+  `fcda2e1b223f39b121a6b2769b74337c1cfb4f1b5dc8be665eba59e4c7c96af4`.
 
 ## Pròxims controls
 
@@ -598,8 +681,21 @@ Els SHA-256 de tots els fitxers es van calcular el 12/09/2026. Destaquen:
     mantenir-los separats dels dos canadencs d'Éloïse.
 22. Cercar `Grosjean` a les defuncions i inhumacions de Llorts i obtenir la
     carta/fotografia de Daniel Fité en millor resolució.
-23. Recuperar i transcriure *Fugint dels nazis* (Canal 33, 2008), distingint el
-    testimoni d'Enric Mèlich de la narració i l'aparell visual del programa.
+23. Demanar al CDMH accés o reproducció de *Fugint dels nazis*, `SI,3029`, i
+    contrastar el VTT amb els rètols de cada testimoni, els crèdits i els
+    documents mostrats; no enviar la consulta ni assumir costos sense
+    autorització expressa.
+24. Identificar visualment els parlants de 22:20–26:06 i 51:13–51:35. No
+    atribuir a Mèlich, Català o Baldrich una frase només per proximitat de muntatge.
+25. Localitzar l'expedient contemporani de la batuda de l'Hotel Palanques i
+    resoldre si el grup era de quatre o cinc soldats polonesos.
+26. Consultar *El marqués y la esvástica* i fixar la pàgina, les preguntes i el
+    context complet de l'entrevista a Bayo.
+27. Trobar la publicació o declaració original de Pere Canturri i Pere Cavero
+    sobre el cementiri de Nagol; mentre no aparegui, mantenir-la com a atribució
+    de Roser Porta.
+28. Obrir dossiers separats per Allerhand, Grumbach, les parelles belgues i les
+    tres dones d'Escaldes, sense traslladar proves d'un cas a un altre.
 
 ## Drets
 
