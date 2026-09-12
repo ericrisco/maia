@@ -41,3 +41,4 @@ popular, que no és cultura popular.
 
 - [Llegendes](../llegendes/llegendes.md) — la part que sí té recull escrit.
 - [Fraseologia](../../llengua/fraseologia/fraseologia.md) — dites i fórmules fixes.
+- [El teatre de Carnestoltes](../teatre/el-teatre-de-carnestoltes.md) — teatre popular andorrà, dit al carrer i majoritàriament no escrit.

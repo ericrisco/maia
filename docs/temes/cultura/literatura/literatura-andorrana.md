@@ -103,3 +103,4 @@ Dos anys després de la Constitució.
 - [Manual Digest](../../historia/manual-digest/manual-digest.md) — el text fundacional.
 - [Boris Skossyreff](../../historia/segle-xx-primera-meitat/boris-skossyreff.md) — el personatge novel·lat.
 - [La troballa de Meritxell](../llegendes/la-troballa-de-meritxell.md) — el llibre de 1874.
+- [La vida teatral](../teatre/la-vida-teatral.md) — els dos únics dramaturgs andorrans del segle XX.

@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**258** documents · **67** fonts · **0** aptes com a model de llengua · **103** temes amb contingut.
+**260** documents · **68** fonts · **0** aptes com a model de llengua · **104** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -150,6 +150,13 @@
 | --- | --- | --- | --- | --- | --- |
 | [L'IAEM i el 1980](temes/cultura/musica-i-cancons/liaem-i-el-1980.md) | `temes/cultura/musica-i-cancons` | compilada | contemporania | no | `escribano-musica` |
 | [Música i cançons](temes/cultura/musica-i-cancons/musica-i-cancons.md) | `temes/cultura/musica-i-cancons` | compilada | contemporania | no | `premsa-andorrana` |
+
+## temes/cultura/teatre
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [El teatre de Carnestoltes](temes/cultura/teatre/el-teatre-de-carnestoltes.md) | `temes/cultura/teatre` | compilada | contemporania | no | `masegosa-teatre-andorra` |
+| [La vida teatral](temes/cultura/teatre/la-vida-teatral.md) | `temes/cultura/teatre` | compilada | contemporania | no | `masegosa-teatre-andorra` |
 
 ## temes/economia/banca-i-fiscalitat
 
@@ -822,6 +829,7 @@
 | [`martinez-benazet-professions-liberals`](fonts/martinez-benazet-professions-liberals.md) | Joan Martínez i Benazet · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mas-educacio-artistica`](fonts/mas-educacio-artistica.md) | Roger Mas i Canalis · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mas-pagesos-i-artesans`](fonts/mas-pagesos-i-artesans.md) | David Mas i Canalís · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`masegosa-teatre-andorra`](fonts/masegosa-teatre-andorra.md) | Fabiola Sofia Masegosa i Gayo · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
 | [`massa-de-lo-que-pot-i-no-pot`](fonts/massa-de-lo-que-pot-i-no-pot.md) | Joan Massa i Sarrado · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mateu-petits-estats-especificitat`](fonts/mateu-petits-estats-especificitat.md) | Vicenç Mateu i Zamora · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mateu-pi-consellera-general`](fonts/mateu-pi-consellera-general.md) | Meritxell Mateu i Pi · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
