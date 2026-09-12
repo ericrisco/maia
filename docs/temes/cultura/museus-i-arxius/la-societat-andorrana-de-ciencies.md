@@ -89,6 +89,78 @@ mateixa en una infraestructura documental catalana** — el mateix patró que
 [la historiografia andorrana](../../historia/historiografia/historiografia.md)
 descriu per als segles anteriors, ara en versió digital.
 
+## Les trenta-una Diades
+
+Extret de **la contraportada del volum de la 31a Diada (2018)**, que en publica
+el catàleg sencer. **El corpus n'ha llegit deu.**
+
+| # | Any | Títol | Llegit? |
+| --- | --- | --- | --- |
+| 1a | 1988 | Andorra, estat, institucions, societat | — |
+| **2a** | 1989 | **Els moviments migratoris a Andorra** | **sí** |
+| **3a** | 1990 | **La identitat nacional** | **sí** |
+| 4a | 1991 | El futur d'Andorra | — |
+| 5a | 1992 | Tendències polítiques a Andorra | — |
+| 6a | 1993 | Alternatives econòmiques per a Andorra | — |
+| **7a** | 1994 | **Andorra i la catalanitat** | **sí** |
+| 8a | 1995 | El finançament de l'estat andorrà | — |
+| 9a | 1996 | Andorra en el món | — |
+| **10a** | 1997 | **La integració a Andorra** | **sí** |
+| 11a | 1998 | Andorra i l'aprofitament dels recursos naturals | — |
+| 12a | 1999 | L'ordenació del territori andorrà | — |
+| **13a** | 2000 | **Formació i ensenyament a Andorra** | **sí** |
+| 14a | 2001 | Andorra i la integració a la Unió Europea | — |
+| **15a** | 2002 | **Una història d'Andorra, temàtica** | **sí** |
+| 16a | 2003 | Andorra i els seus veïns del sud | — |
+| 17a | 2004 | Els llindars òptims del creixement andorrà | — |
+| 18a | 2005 | Andorra i els seus veïns del nord | — |
+| 19a | 2006 | Els models de fiscalitat per a Andorra | — |
+| **20a** | 2007 | **Andorra i el seu capital social** | **descarregat, sense capa de text** |
+| 21a | 2008 | **L'andorranitat** | — |
+| 22a | 2009 | L'energia a Andorra | — |
+| 23a | 2010 | Andorra i els seus ciutadans | — |
+| 24a | 2011 | L'aigua i Andorra | — |
+| 25a | 2012 | Andorra i l'obertura econòmica | — |
+| 26a | 2013 | **La nacionalitat andorrana** | — |
+| 27a | 2014 | Models de país per a Andorra | — |
+| **28a** | 2015 | **Andorra i els petits estats d'Europa** | **sí** |
+| **29a** | 2016 | **El canvi climàtic i Andorra** | **sí** |
+| 30a | 2017 | Andorra i l'acord d'associació amb la Unió Europea | — |
+| **31a** | 2018 | **El parlamentarisme andorrà** | **sumari** |
+
+### Què diu aquesta llista, llegida com a llista
+
+**1. És el temari que un país es posa a si mateix, un any darrere l'altre.**
+Trenta-un títols triats per andorrans sobre el que els preocupava aquell any.
+**No hi ha cap altre document així al corpus.**
+
+**2. Es pot llegir com a cronologia de la inquietud andorrana.** Mireu la sèrie:
+
+| Període | De què es parla |
+| --- | --- |
+| **1988-1990** | **estat, migracions, identitat** — què som, ara que serem un estat |
+| **1992-1995** | **política, economia, finançament** — com es paga |
+| **1994-1997** | **catalanitat, món, integració** — amb qui |
+| **1998-1999** | **recursos naturals, territori** — què tenim |
+| **2001-2017** | **la UE hi surt tres vegades** (14a, 30a, i de retruc la 28a) |
+| **2008-2013** | **andorranitat, ciutadans, nacionalitat** — qui hi pertany |
+| **2016** | **el canvi climàtic** |
+
+**La pregunta «qui és andorrà» torna cada dècada**: identitat (1990),
+integració (1997), andorranitat (2008), ciutadans (2010), nacionalitat (2013).
+**Cinc vegades en vint-i-tres anys.** Vegeu
+[la política de nacionalitat](../../institucions/nacionalitat-i-residencia/la-politica-de-nacionalitat.md)
+i [els andorrans de primera generació](../../institucions/nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md).
+
+**3. I confirma el biaix de font que aquesta fitxa ja advertia.** El corpus és
+ric en **educació** (13a) i **petits estats** (28a) perquè n'ha llegit el volum;
+i és pobre en **energia**, **aigua** i **fiscalitat** **perquè no ha obert els
+volums que en parlen** — no perquè no existeixin.
+
+**Les vint-i-una Diades no llegides són la feina pendent més gran i més ben
+delimitada que té el projecte.** Estan identificades, publicades i localitzables.
+El registre de procedència és a [`docs/raw/`](../../../raw/README.md).
+
 ## El que la SAC arregla
 
 La font que el corpus té sobre **Lídia Armengol i Vila** deixava una constatació
@@ -111,10 +183,11 @@ ciències ambientals.**
 Aquesta fitxa és, en bona part, **una llista del que el corpus no sap de la seva
 pròpia font principal**:
 
-- **Quan es va fundar la SAC** i **per qui**. **Buit prioritari, i és
-  vergonyós que ho sigui.**
-- **Quantes Diades hi ha hagut** i **de què va cada una**. El corpus n'ha llegit
-  **quatre** (2a, 7a, 13a, 15a) de **més de trenta**.
+- **Quan es va fundar la SAC** i **per qui**. La 1a Diada és del **1988**, de
+  manera que l'entitat és **anterior o d'aquell any**. **Buit prioritari.**
+- ~~Quantes Diades hi ha hagut i de què va cada una~~ — **tancat**: **trenta-una
+  fins al 2018**, amb títol i any, vegeu més amunt. **Queda obert** què hi ha
+  després del 2018.
 - **Les Trobades Culturals Pirinenques**: quantes, de què, des de quan.
 - **Qui la dirigeix** i amb quins recursos.
 - **Antoni Pol i Solé**, representant de la SAC al patronat de la UCE, que signa
