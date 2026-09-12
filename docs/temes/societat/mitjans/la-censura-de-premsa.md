@@ -229,10 +229,16 @@ que l'única col·lecció que existeix és en una biblioteca particular.
 - **El Cadí**, la revista de FHASA.
 - **Qui era Weillemann** i què hi pintava a La Nova Andorra.
 - **Quan apareix la primera impremta** a Andorra, exactament.
-- **Quan neix la primera premsa impresa al país**, i quina.
+- ~~**Quan neix la primera premsa impresa al país**, i quina.~~ **TANCAT**: el
+  **1933**, ***Andorra Agrícola***, sembla que **a Ordino** i promoguda per **la
+  família Plandolit**; desapareix el **juliol de 1936**
+  ([les capçaleres](./les-capcaleres.md)). **I hi ha una aplicació datada
+  d'aquesta censura**: el **1975** el setmanari **P.P.** va ser **tancat per
+  sentència del Tribunal de Corts**.
 
 ## Related
 
+- [Les capçaleres](./les-capcaleres.md) — la llista sencera, del 1933 al 1994.
 - [Mitjans](./README.md) — la branca.
 - [RTVA](./rtva.md) — l'audiovisual públic, seixanta anys després.
 - [Ràdio Andorra](./radio-andorra.md) — l'altra ràdio, privada i forana.

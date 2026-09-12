@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**321** documents · **100** fonts · **0** aptes com a model de llengua · **108** temes amb contingut.
+**322** documents · **101** fonts · **0** aptes com a model de llengua · **108** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -702,6 +702,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [La censura de premsa](temes/societat/mitjans/la-censura-de-premsa.md) | `temes/societat/mitjans` | compilada | contemporania | no | `giral-mitjans-identitat-1990` |
+| [Les capçaleres](temes/societat/mitjans/les-capcaleres.md) | `temes/societat/mitjans` | compilada | contemporania | no | `sorribes-evolucio-premsa-1994` |
 | [Ràdio Andorra](temes/societat/mitjans/radio-andorra.md) | `temes/societat/mitjans` | compilada | contemporania | no | `viquipedia-ca` |
 | [RTVA](temes/societat/mitjans/rtva.md) | `temes/societat/mitjans` | compilada | contemporania | no | `viquipedia-ca` |
 
@@ -954,6 +955,7 @@
 | [`serra-educacio-especialitzada`](fonts/serra-educacio-especialitzada.md) | Carolina Serra i Areny · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`serra-vatica-microestat`](fonts/serra-vatica-microestat.md) | Jaume Serra i Serra · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`societat-andorrana-ciencies`](fonts/societat-andorrana-ciencies.md) | Societat Andorrana de Ciències (Andorra) | publicació acadèmica en accés obert | pendent |
+| [`sorribes-evolucio-premsa-1994`](fonts/sorribes-evolucio-premsa-1994.md) | Rosa Mari Sorribes · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`tarrene-influencies-multiculturals`](fonts/tarrene-influencies-multiculturals.md) | Claudine Tarrene i Fabresse · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
 | [`toquec-ensenyament-frances`](fonts/toquec-ensenyament-frances.md) | Jean-Alain Toquec · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`tor-climatologia-casa-auvinya`](fonts/tor-climatologia-casa-auvinya.md) | Esteve Tor i Armengol · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
