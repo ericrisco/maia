@@ -40,7 +40,9 @@ del que llegeix** en lloc de repetir-ho.
 ## Les tres aportacions que canvien el corpus
 
 1. **Data el privilegi de 1419 sota el bisbe Francesc de Tovia**, no Andreu
-   Capella. Vegeu la contradicció registrada a
+   Capella. **La contradicció s'ha tancat a favor de Vela** —episcopologi datat,
+   cronologia de Capella i la introducció del volum del 2018 que es contradiu
+   amb el seu propi cos. Vegeu
    [el Consell de la Terra](../temes/institucions/consell-general/el-consell-de-la-terra.md).
 2. **Denuncia una datació interessada**: les ordinacions atribuïdes als segles
    XIII i XIV **probablement es van redactar al XV** i es van endarrerir **per

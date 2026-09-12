@@ -84,3 +84,4 @@ cremar.
 - [Meritxell](../meritxell/meritxell.md) — la festa i l'incendi.
 - [El coprincipat](../../institucions/coprincipat/el-coprincipat.md) — el bisbe cap d'estat.
 - [Festes majors](../festes-majors/festes-majors.md)
+- [La Inquisició a Andorra](./la-inquisicio-a-andorra.md) — i l'únic cop que un copríncep va anul·lar la decisió de l'altre.

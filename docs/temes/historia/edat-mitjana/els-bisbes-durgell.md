@@ -108,12 +108,77 @@ consagració**. Això la converteix en **una de les poques esglésies andorranes
 data documental i no estimada**. Vegeu
 [arquitectura](../../cultura/arquitectura/romanic.md).
 
+## El segle XV, datat
+
+La **15a Diada (2002)** publica un tram d'episcopologi que **tanca la disputa del
+1419** ([el Consell de la Terra](../../institucions/consell-general/el-consell-de-la-terra.md)):
+
+| Bisbe | Anys | Què en diu la font per a Andorra |
+| --- | --- | --- |
+| **Galceran de Vilanova** | **1388-1415** | El **1400** ordena celebrar a tot el bisbat la festa de la **Puríssima**; el **1402** confirma els privilegis del predecessor als homes d'Andorra. Se'n conserven **el calze i el missal** donats a la catedral el 1396 |
+| **Francesc de Tovia** | **1416-1436** | **Fou primer ardiaca d'Andorra abans de bisbe.** El **1419** concedeix el dret d'elegir representants per parròquia: **el Consell de la Terra**. El **1433**, amb el comte **Joan I de Foix**, concedeix i confirma privilegis sobre **impostos, atribucions comunals i administració de justícia** |
+| **Arnau Roger de Pallars** | **1437-1461** | — |
+| **Jaume de Cardona** | **1462-1466** | — |
+| **Roderic de Borja i Escrivà** | **1467-1472** | — |
+| **Pere de Cardona** | **1472-1515** | — |
+
+**Que Tovia fos abans ardiaca d'Andorra és la dada que explica el 1419.** El
+bisbe que concedeix el privilegi **coneixia el país per dins**, perquè hi havia
+tingut càrrec.
+
+I la font hi afegeix una observació que el corpus reté: **els quatre bisbes
+posteriors «residiren poc al bisbat»**, per les seves activitats polítiques amb
+el Regne de Catalunya i Aragó. **Bisbes absents** — cosa que casa amb el que
+[els privilegis](./els-privilegis.md) mostra: **és quan el senyor no hi és que
+els andorrans n'obtenen més.**
+
+Privilegis d'aquell període que la font enumera:
+
+| Any | Concessió |
+| --- | --- |
+| **1416** | **Redempció de la servitud** d'un cert nombre de productes alimentaris que calia proporcionar al bisbe **quan pujava a les valls** |
+| **1439** | Poder **pescar al riu Valira** |
+| **1448** | Andorra la Vella pot celebrar **una fira anual** el **dilluns i dimarts de Pasqua** |
+| **1482** | Confirmació dels privilegis de Tovia, **especialment que els oficials dels consenyors no poguessin arrendar llurs càrrecs** |
+
+**El de 1482 és el més revelador:** calia prohibir per escrit que **els càrrecs
+públics es lloguessin**. Vegeu
+[la justícia d'abans](../../institucions/justicia/la-justicia-dabans.md).
+
+**I el de 1416 descriu una obligació concreta:** els andorrans **havien
+d'alimentar el bisbe quan pujava**, i se'n van redimir. Vegeu
+[la questia](../antic-regim/la-questia.md).
+
+## Andreu Capella, que no és del 1419
+
+La mateixa font el situa **a cavall del XVI i el XVII**, en plena crisi
+religiosa, amb **incursions dels hugonots francesos**:
+
+| Any | Fet |
+| --- | --- |
+| **1589** o **1598** | Reconeix al Consell el dret d'imposar **penes pecuniàries (*cot*)** a qui incompleixi les seves disposicions. **La font dona les dues dates en dos llocs diferents: desacord intern, registrat** |
+| **1589, 7 de maig** | Aprova l'elecció del **batlle pel sistema de la *sisena***: llista d'un representant per parròquia (**6 candidats**), el consenyor n'escull un, **mandat de tres anys** |
+| **1592** | Funda el **seminari diocesà** |
+| **1593** | Es crea la **diòcesi de Solsona**, «amb l'intent de barrar el pas a l'heretgia» |
+| **1598** | Funda el **col·legi de Sant Andreu de la Companyia de Jesús**, «**focus de formació per a molts andorrans**» |
+| **1599** | Mana **que no es castiguin els andorrans amb censures ni penes eclesiàstiques en causes civils** |
+| **1604** | Concedeix al Consell la facultat de **presentar dues persones per a l'escrivania de les valls**, de les quals el bisbe n'escull una |
+| **1607** | Un altre privilegi del mateix consenyor episcopal |
+| — | **Introdueix el Tribunal de la Inquisició a Andorra** — [fitxa](../../costums/religiositat/la-inquisicio-a-andorra.md) |
+
+**El col·legi de Sant Andreu (1598) importa per a la branca d'educació:** és
+**formació d'andorrans fora d'Andorra dos segles i mig abans** de les escoles de
+1882 ([l'ensenyament confessional](../../societat/educacio/lensenyament-confessional.md)).
+
+**I la *sisena* del 1589 és un mecanisme de repartiment territorial** —un
+candidat per parròquia— **del mateix gènere que el que el corpus troba encara al
+segle XX** quan es planifiquen instituts «un per vall»
+([l'Escola Andorrana](../../societat/educacio/lescola-andorrana.md)).
+
 ## Buits registrats
 
-1. **Continuació de l'episcopologi** del segle XII al XXI. El corpus té el 1419
-   en disputa ([el Consell de la Terra](../../institucions/consell-general/el-consell-de-la-terra.md))
-   i no té la llista per resoldre-ho. **Buit prioritari, i tancable: els
-   episcopologis d'Urgell són publicats.**
+1. **Continuació de l'episcopologi**: el corpus té ara **el segle XV sencer** i
+   **Andreu Capella**. **Falten el XII-XIV i el XVII-XXI.**
 2. **La butlla de Silvestre II de 1001**, al **Museu diocesà** — **font primària
    localitzada i no consultada**.
 3. **L'acta de consagració de Sant Cerni de Nagol**, 1055.
@@ -129,4 +194,5 @@ data documental i no estimada**. Vegeu
 - [El Pareatge](../pareatge/el-pareatge.md) — quan es parteix.
 - [El Consell de la Terra](../../institucions/consell-general/el-consell-de-la-terra.md) — on cal saber qui era bisbe el 1419.
 - [Arquitectura](../../cultura/arquitectura/romanic.md) — les esglésies que consagren.
+- [La Inquisició a Andorra](../../costums/religiositat/la-inquisicio-a-andorra.md) — què hi va fer Andreu Capella.
 - [El Concordat del 2008](../../institucions/coprincipat/el-concordat-del-2008.md) — el darrer capítol de la sèrie.

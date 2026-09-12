@@ -216,3 +216,4 @@ rei impostor de 1934.** El corpus ho registra sense treure'n conclusions.
 - [El romànic com a operació política](../../cultura/arquitectura/el-romanic-com-a-operacio-politica.md) — el mateix segle, altres dates.
 - [El Consell de la Terra](../../institucions/consell-general/el-consell-de-la-terra.md) — què surt de la guerra amb els oficials.
 - [L'accés als comunals](./lacces-als-comunals.md) — els emprius.
+- [La Inquisició a Andorra](../../costums/religiositat/la-inquisicio-a-andorra.md) — un privilegi que en desfà un altre.

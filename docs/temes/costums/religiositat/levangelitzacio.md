@@ -190,3 +190,4 @@ segle XI dient que és del IX**, exactament el mateix mecanisme que
 - [La fundació per Carlemany](../../historia/origens/la-fundacio-per-carlemany.md) — l'altre Carlemany.
 - [Les set parròquies](../../institucions/comuns-i-parroquies/les-set-parroquies.md) — la unitat que en surt.
 - [Arquitectura](../../cultura/arquitectura/romanic.md) — el que se'n veu.
+- [La Inquisició a Andorra](./la-inquisicio-a-andorra.md) — mil anys després, l'altre extrem.

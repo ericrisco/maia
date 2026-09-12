@@ -24,30 +24,49 @@ de desembre de 1419.**
 
 | Data | Qui |
 | --- | --- |
-| **11 de febrer de 1419** | **Privilegi del bisbe d'Urgell** (vegeu l'avís), en resposta a la demanda dels prohoms |
+| **11 de febrer de 1419** | **Privilegi del bisbe d'Urgell Francesc de Tovia** (vegeu més avall), en resposta a la demanda dels prohoms |
 | **17 de desembre de 1419** | **El representant del veguer del comte de Foix el valida** |
 
-### Avís: dues fonts de la SAC donen dos bisbes
+### La contradicció dels dos bisbes, i com s'ha tancat
 
-**El corpus registra la contradicció i no la resol en silenci.**
+El corpus havia registrat que **dues publicacions de la SAC donaven dos bisbes
+diferents** per al mateix privilegi, i **no la va resoldre en silenci**:
 
 | Font | Qui signa el privilegi |
 | --- | --- |
-| **31a Diada, 2018** — *El parlamentarisme andorrà* | **Andreu Capella** |
+| **31a Diada, 2018** — *El parlamentarisme andorrà*, cos del text | **Andreu Capella** |
 | **15a Diada, 2002** — Susanna Vela, [ordinacions](../../../fonts/vela-ordinacions-segle-xv.md) | **Francesc de Tovia** |
 
-**Totes dues són publicacions de la Societat Andorrana de Ciències.**
+**Ara es pot tancar, i sense anar a l'arxiu.** Tres proves convergents, totes
+llegides a les fonts que el corpus ja tenia:
 
-**Una observació que no resol però orienta:** els episcopologis d'Urgell
-habitualment situen **Andreu Capella a finals del segle XVI**, no al XV. Si això
-és així, **l'atribució del 2018 seria anacrònica**. El corpus **no ho dona per
-tancat**: Vela és una font acadèmica amb aparat de notes i escriu sobre aquest
-document en concret, cosa que li dona pes, però **l'única prova decisiva és el
-document mateix**.
+**1. La 15a Diada publica un episcopologi datat.** Hi consta **Galceran de
+Vilanova (1388-1415)** i el seu successor **Francesc de Tovia (1416-1436)**, «que
+fou primer **ardiaca d'Andorra**, abans de bisbe», i del qual diu: **«El 1419
+concedí als habitants d'Andorra la facultat d'elegir anualment dos o tres
+representants per cada parròquia… cosa que s'anomena Consell de la Terra.»**
 
-**Buit registrat, prioritari i tancable:** el privilegi és a
+**2. La mateixa font data Andreu Capella un segle i mig més tard.** Els seus
+actes hi apareixen el **1589, 1598, 1599, 1604 i 1607**
+([els bisbes d'Urgell](../../historia/edat-mitjana/els-bisbes-durgell.md)).
+**No podia signar res el 1419.**
+
+**3. I el volum del 2018 es contradiu a si mateix.** **La introducció d'aquell
+mateix volum**, signada pel **síndic general Vicenç Mateu**, diu que l'11 de
+febrer de 2019 es complien **«els 600 anys del privilegi del bisbe Francesc de
+Tovia»**.
+
+> **El desacord no era entre dues fonts: era dins d'una.**
+
+**El corpus es queda amb Francesc de Tovia** i **deixa constància de l'error**,
+perquè **un error publicat circula**: qualsevol que llegeixi el cos del volum del
+2018 se n'endurà el nom equivocat.
+
+**Cautela que es manté:** cap d'aquestes tres proves és **el document**. El
+privilegi és a
 [l'Arxiu de les Set Claus](../patrimoni-institucional/linventari-de-les-set-claus.md)
-amb signatura **ASC 48339**. **Qui hi vagi, ho resol.**
+amb signatura **ASC 48339**, i **el corpus no l'ha vist**. La conclusió és
+**sòlida però indirecta**.
 
 **Calien les dues signatures.** El [coprincipat](../coprincipat/el-coprincipat.md)
 ja funcionava així: **el parlament d'Andorra existeix perquè els dos senyors hi

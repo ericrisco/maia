@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**242** documents · **55** fonts · **0** aptes com a model de llengua · **99** temes amb contingut.
+**243** documents · **55** fonts · **0** aptes com a model de llengua · **99** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -56,6 +56,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [La Inquisició a Andorra](temes/costums/religiositat/la-inquisicio-a-andorra.md) | `temes/costums/religiositat` | compilada | contemporania | no | `viquipedia-ca` |
 | [L'evangelització](temes/costums/religiositat/levangelitzacio.md) | `temes/costums/religiositat` | compilada | contemporania | no | `pujol-fet-religios` |
 | [La religiositat](temes/costums/religiositat/religiositat.md) | `temes/costums/religiositat` | compilada | contemporania | no | `viquipedia-ca` |
 
