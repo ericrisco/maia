@@ -84,5 +84,7 @@ premsa i s'haurien de reverificar.
 - [L'Escola Andorrana](./lescola-andorrana.md) — la van demanar uns pares el 1982.
 - [L'ensenyament espanyol](./lensenyament-espanyol.md) — mestres que no s'hi poden quedar més de sis anys.
 - [Les escoles dels comuns](./les-escoles-dels-comuns.md) — el 1920, les úniques que hi havia.
+- [L'escola privada](./lescola-privada.md) — arriba el 1999-2000.
+- [Les associacions de pares](./les-associacions-de-pares.md) — i el llibre sobre la infància andorrana.
 - [L'ensenyament confessional](./lensenyament-confessional.md) — des del 1882, la sèrie més antiga.
 - [Índex legislatiu en educació](./index-legislatiu-en-educacio.md) — 48 normes amb BOPA i data.

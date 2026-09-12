@@ -64,8 +64,7 @@ Afegits:
 
 **L'entrada d'una escola privada el 1999-2000 és una novetat estructural**: fins
 llavors el mapa era públic i congregacional. Vegeu
-[l'escola privada](./els-tres-sistemes.md) — el corpus encara no en té fitxa
-pròpia. **Buit.**
+[l'escola privada](./lescola-privada.md).
 
 ## El sistema francès
 
@@ -326,3 +325,6 @@ societat on es viu**:
 - [La Universitat d'Andorra](./la-universitat-dandorra.md)
 - [La formació d'adults](./la-formacio-dadults.md)
 - [L'esquí escolar](./lesqui-escolar.md)
+- [L'escola privada](./lescola-privada.md)
+- [Les associacions de pares](./les-associacions-de-pares.md)
+- [L'Efpem](../../esports/formacio-esportiva/lefpem.md) — la formació de tècnics esportius.

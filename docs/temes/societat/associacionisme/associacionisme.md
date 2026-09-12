@@ -69,3 +69,4 @@ falta entre els dos que ja té previstos.
 - [Vida cívica](../vida-civica/vida-civica.md)
 - [Quarts i veïnats](../../institucions/quarts-i-veinats/quarts-i-veinats.md) — l'associacionisme que sí que és institució.
 - [Immigració](../immigracio/immigracio.md)
+- [Les associacions de pares](../educacio/les-associacions-de-pares.md) — la CONAPA, des del 1996.

@@ -138,3 +138,6 @@ mig, i la resta a cobert.
 - [Turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md)
 - [El canvi climàtic](../../territori/clima-i-muntanya/el-canvi-climatic.md) — què passa quan la matèria primera de l'assignatura s'escurça.
 - [Índex legislatiu en educació](./index-legislatiu-en-educacio.md) — les tres normes.
+- [L'Efpem](../../esports/formacio-esportiva/lefpem.md) — qui titula els monitors.
+- [Esports](../../esports/README.md) — la branca.
+- [L'escola privada](./lescola-privada.md) — on s'esquia dos dies per setmana.
