@@ -119,3 +119,4 @@ la troba sempre citada i mai explicada.
 - [L'antic règim](../antic-regim/lantic-regim.md) — la feina d'inventari de la seva generació.
 - [El sufragi femení](../../societat/dones/el-sufragi-femeni.md) — l'altra lluita.
 - [Les tres taules](../../gastronomia/historia-alimentaria/les-tres-taules.md) — la seva descripció de la cuina antiga.
+- [Persones](../../persones/README.md) — qui més hi ha, i qui falta.

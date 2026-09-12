@@ -82,3 +82,4 @@ descriure els partits polítics andorrans **l'any abans de la Constitució**.
 - [El Consell de la Terra](../institucions/consell-general/el-consell-de-la-terra.md) — l'origen, el 1419.
 - [La Constitució de 1993](../historia/constitucio-1993/constitucio-1993.md)
 - [Democratització](../historia/democratitzacio/democratitzacio.md)
+- [Persones](../persones/README.md) — qui ha manat, i de qui el corpus no en sap res.

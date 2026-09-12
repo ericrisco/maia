@@ -88,3 +88,4 @@ estat, i qui en té els drets.
 
 - [RTVA](./rtva.md) — el servei públic que ve després del buit.
 - [Guerres i neutralitat](../../historia/guerres-i-neutralitat/guerres-i-neutralitat.md) — què la va fer possible.
+- [Francesc Cairat i Freixes](../../persones/francesc-cairat.md) — el síndic que va viure tot el problema de la radiodifusió.

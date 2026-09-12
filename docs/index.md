@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**251** documents · **64** fonts · **0** aptes com a model de llengua · **102** temes amb contingut.
+**253** documents · **64** fonts · **0** aptes com a model de llengua · **103** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -512,6 +512,13 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [El tractament](temes/llengua/tractament/el-tractament.md) | `temes/llengua/tractament` | compilada | contemporania | no | `iec-vocabulari-andorra` |
+
+## temes/persones
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Francesc Cairat i Freixes](temes/persones/francesc-cairat.md) | `temes/persones` | compilada | contemporania | no | `bascompte-consell-de-la-terra` |
+| [Julià Reig i Ribó](temes/persones/julia-reig.md) | `temes/persones` | compilada | contemporania | no | `bascompte-consell-de-la-terra` |
 
 ## temes/politica/identitat-politica
 
