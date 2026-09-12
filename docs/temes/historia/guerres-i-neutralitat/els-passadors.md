@@ -19,7 +19,7 @@ tags: [historia, segle-xx, guerra, frontera, contraban, biografies]
 mercaderia, **passaven persones**.
 
 I amb una **presència destacadíssima d'exiliats republicans de la Guerra Civil**
-([Luengo, 2025](../../../fonts/societat-andorrana-ciencies.md)).
+([Luengo, 2025](../../../fonts/societat-andorrana-ciencies.md) — *Conflictes bèl·lics al Pirineu*, **21es Trobades Culturals Pirinenques**, p. 305-323).
 
 Aquest és el nus de tota la història: **els qui havien fugit de Franco el 1939 es
 van quedar a Andorra, van viure del contraban, i el 1942 feien passar cap a

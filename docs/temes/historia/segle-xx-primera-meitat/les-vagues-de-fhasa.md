@@ -17,7 +17,7 @@ tags: [historia, segle-xx, treball, drets, immigracio]
 
 **Quatre vagues de caràcter revolucionari: una el 1931 i tres el 1933**, segons
 **Joan Vehils**, recollit per **M. Jesús Lluelles**
-([font](../../../fonts/societat-andorrana-ciencies.md)).
+([font](../../../fonts/societat-andorrana-ciencies.md) — **M. Jesús Lluelles i Larrosa**, *Debats de Recerca 12*, SAC, **2020**, p. 222-235).
 
 Consta també que **les úniques tres vagues generals de la història d'Andorra les
 han protagonitzades treballadors de FHASA**.

@@ -17,7 +17,7 @@ tags: [economia, energia, historia, segle-xx, immigracio, transformacio]
 > **M. Jesús Lluelles i Larrosa**, doctora en Geografia i professora
 > col·laboradora de la **Universitat d'Andorra**, *«Els impactes de FHASA»*,
 > Debats de Recerca 12, **Societat Andorrana de Ciències (2020)**
-> ([font](../../../fonts/societat-andorrana-ciencies.md)).
+> ([font](../../../fonts/societat-andorrana-ciencies.md) — **M. Jesús Lluelles i Larrosa**, *Debats de Recerca 12*, SAC, **2020**, p. 222-235).
 
 ## La tesi, i és dura
 
