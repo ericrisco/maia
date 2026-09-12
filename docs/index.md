@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**293** documents · **83** fonts · **0** aptes com a model de llengua · **107** temes amb contingut.
+**294** documents · **83** fonts · **0** aptes com a model de llengua · **107** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -531,6 +531,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [«Andorra es castellanitza»](temes/llengua/politica-linguistica/andorra-es-castellanitza.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `debat-2a-diada-migracions` |
+| [El que la llei de la llengua pot multar](temes/llengua/politica-linguistica/el-que-la-llei-pot-multar.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Els exàmens oficials de català](temes/llengua/politica-linguistica/els-examens-oficials-de-catala.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `marina-formacio-dadults` |
 | [La globalització i el català](temes/llengua/politica-linguistica/la-globalitzacio-i-el-catala.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `costa-globalitzacio-llengues` |
 | [La llei de la llengua](temes/llengua/politica-linguistica/la-llei-de-la-llengua.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `govern-andorra-web` |
