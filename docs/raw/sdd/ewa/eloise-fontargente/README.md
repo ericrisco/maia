@@ -722,9 +722,18 @@ de l'empleat de comerç Isaac Dreyfus i Rachel Schmidt. Una menció marginal en
 registra el matrimoni el 1922 i la mort a París 14è el **18/10/1979**; el fitxer
 nominal oficial de l'INSEE ho confirma amb l'acta 3082. A més, la menció
 marginal de l'acta de Pierre prova que es casà el 12/09/1927 amb **Yvonne
-Henriette Kahn**. Nom, edat aproximada i domicili familiar fan molt probable
-que la Yvonne Dreyfus que declarà la mort d'André fos la seva cunyada, però
-l'acta de defunció no explicita aquesta relació i es manté com a inferència.
+Henriette Kahn**. L'acta de naixement 18 de la mateixa Yvonne aporta la prova
+recíproca: nasqué a Belfort el **08/01/1903**, filla del negociant Isaac Kahn i
+Cécile Schuhl, i la menció marginal registra el matrimoni amb Pierre Sylvain
+Dreyfus el 12/09/1927 i la seva mort a Belfort l'11/04/1968. El recensement de
+1911 la situa amb els pares i cinc germans al 5 faubourg de France.
+
+La identificació de la declarant de 1955 exigeix, però, una reserva nova i
+explícita: Yvonne Henriette tenia cinquanta-dos anys, mentre que l'acta 1066
+diu inequívocament `quarante ans`. Nom, ciutat i entorn familiar mantenen com a
+plausible que fos la cunyada d'André, però la diferència de dotze anys ja no
+permet invocar una «edat aproximada» com a concordança. Pot haver-hi un error
+material o una altra Yvonne Dreyfus; el parentiu continua sense prova directa.
 
 Les Archives municipales de Belfort aporten també una font iconogràfica: la
 notice `2Z/35`, relacionada amb `7Fi/231`, descriu una fotografia d'identitat
