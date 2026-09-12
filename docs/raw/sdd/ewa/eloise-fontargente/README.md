@@ -203,6 +203,42 @@ una petició a `aga@cultura.gob.es` perquè comprovin autor, títol, editorial,
 ISBN i dipòsit legal i, si hi ha resultat, facilitin número d'expedient,
 signatura i condicions de reproducció.
 
+## Una ressenya publicada encara sota el franquisme
+
+El número 135 de la *Revista de Política Internacional*, setembre-octubre de
+1974, ressenyà l'edició castellana a les p. 351–352. La proximitat temporal és
+rellevant: demostra circulació i recepció pública el mateix any de l'edició,
+però no substitueix la resolució administrativa de censura.
+
+La nota, signada només `J. C. A.`, anomena el llibre «relato novelesco» i alhora
+el tracta com el relat de les activitats de Viadiu. Reprodueix una valoració
+del pròleg de Domènec Pastor Petit segons la qual Viadiu és un memorialista amb
+intuïció narrativa, però sense tècnica literària professional. Això documenta
+que la distinció memòria/novel·la ja existia a l'aparell paratextual de 1974 i
+fa del pròleg una peça prioritària per a la comparació amb el manuscrit.
+
+La ressenya també imposa un marc polític propi: atribueix al Govern de Madrid
+una actitud benèvola i decisiva envers els militars aliats i diu que Viadiu no
+la recull per ideologia i manca d'observació directa. Aquest passatge és una
+intervenció del crític en una revista de l'Instituto de Estudios Políticos, no
+una afirmació localitzada al llibre ni una verificació arxivística. Serveix per
+estudiar com el relat republicà podia ser reabsorbit en un discurs públic del
+règim, no per quantificar evadits ni descriure la política fronterera.
+
+## L'arxiu de la traductora
+
+La fitxa de patrimoni editorial de la Biblioteca de Catalunya, actualitzada el
+10/02/2025, identifica Sergi Pàmies com a principal custodi de l'arxiu personal
+i literari de Teresa Pàmies. L'AELC explica, a propòsit de l'epistolari de 2021,
+que l'autora guardava còpia al carbó o en paper ceba de gairebé tota la seva
+correspondència; el volum publicat només selecciona 32 cartes d'un conjunt de
+centenars.
+
+Aquest arxiu és, per tant, un segon dipòsit candidat per trobar el contracte o
+l'encàrrec de Martínez Roca, correspondència amb Viadiu i Pastor Petit,
+lliuraments, dubtes de traducció o intervencions editorials. La fitxa no ofereix
+inventari públic ni canal de consulta del fons, i no s'ha contactat cap persona.
+
 ## La capa audiovisual i el seu límit
 
 3Cat manté públiques les dues parts de la minisèrie *Andorra. Entre el torb i
@@ -255,6 +291,10 @@ històric.
 | `francesc-viadiu-fons/aga-expedients-censura.html` | Pàgina oficial de l'AGA: sèrie 1937–1983 i inventari de sala `IDD (03)050.000`. |
 | `francesc-viadiu-fons/aga-informacio-ciutada.html` | Captura de control d'una ruta institucional que no aportà cap dada addicional útil. |
 | `francesc-viadiu-fons/consulta-aga-censura-esborrany.md` | Petició de localització arxivística preparada però no enviada. |
+| `francesc-viadiu-fons/cepc-rpi-135-1975-resena.*`, `cepc-rpi-135-page-351.png`, `cepc-rpi-135-page-352.png` | Ressenya contemporània de l'edició de 1974, extracció i renders verificats de les p. 351–352. |
+| `francesc-viadiu-fons/bnc-teresa-pamies-arxiu.html` | Fitxa de la Biblioteca de Catalunya que identifica el custodi principal de l'arxiu personal i literari. |
+| `francesc-viadiu-fons/aelc-pamies-cartes.html` | Descripció de l'epistolari: centenars de cartes i pràctica sistemàtica de conservar-ne còpia. |
+| `google-books-1974-*.json` | Control negatiu: l'exemplar Google Books de l'edició castellana no admet cerca interna pública. |
 | `internet-archive-isbn-search.json` | Cerca pels ISBN català i francès: zero resultats. |
 | `openlibrary-isbn-search.json` | Registre bibliogràfic sense ebook ni text complet. |
 
@@ -295,6 +335,10 @@ Els SHA-256 de tots els fitxers es van calcular el 12/09/2026. Destaquen:
 9. Demanar a l'AGA la localització de l'expedient de censura de l'edició de
    1974 a l'inventari `IDD (03)050.000`; no enviar la consulta sense
    autorització expressa.
+10. Localitzar les p. inicials de l'edició castellana i transcriure l'abast del
+    pròleg de Pastor Petit; comparar el seu marc memorialístic amb la ressenya.
+11. Determinar si l'arxiu personal de Teresa Pàmies té inventari o via de
+    consulta abans de plantejar cap contacte amb el custodi familiar.
 
 ## Drets
 
