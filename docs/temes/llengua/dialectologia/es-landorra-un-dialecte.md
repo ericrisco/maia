@@ -150,6 +150,7 @@ primària ho ha de comprovar. **Buit registrat.**
 
 ## Related
 
+- [Els vint-i-sis punts](./els-vint-i-sis-punts.md) — el treball de camp del 1994, i la hipòtesi de la unitat amb el pallarès.
 - [El substrat](./el-substrat.md) — d'on ve.
 - [Morfosintaxi](../morfosintaxi/morfosintaxi.md) i [la negació amb *cap*](../morfosintaxi/la-negacio-amb-cap.md) — els trets.
 - [Qui parla què](../politica-linguistica/qui-parla-que.md) — qui el parla.

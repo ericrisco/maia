@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**320** documents · **99** fonts · **0** aptes com a model de llengua · **108** temes amb contingut.
+**321** documents · **100** fonts · **0** aptes com a model de llengua · **108** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -502,6 +502,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [El substrat](temes/llengua/dialectologia/el-substrat.md) | `temes/llengua/dialectologia` | compilada | contemporania | no | `molla-catala-andorra` |
+| [Els vint-i-sis punts](temes/llengua/dialectologia/els-vint-i-sis-punts.md) | `temes/llengua/dialectologia` | compilada | contemporania | no | `rabassa-alteracio-parlars-1994` |
 | [És l'andorrà un dialecte?](temes/llengua/dialectologia/es-landorra-un-dialecte.md) | `temes/llengua/dialectologia` | compilada | contemporania | no | `molla-catala-andorra` |
 | [L'estàndard contra la varietat](temes/llengua/dialectologia/lestandard-contra-la-varietat.md) | `temes/llengua/dialectologia` | compilada | contemporania | no | `molla-catala-andorra` |
 
@@ -943,6 +944,7 @@
 | [`premsa-andorrana`](fonts/premsa-andorrana.md) | Diari d'Andorra · Altaveu · Bondia · El Periòdic d'Andorra · La Ciutat | contingut periodístic amb drets reservats | False |
 | [`pujadas-dret-andorra`](fonts/pujadas-dret-andorra.md) | Manel Pujadas i Domingo · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pujol-fet-religios`](fonts/pujol-fet-religios.md) | Mn. Joan Pujol i Balcells · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`rabassa-alteracio-parlars-1994`](fonts/rabassa-alteracio-parlars-1994.md) | Lídia Rabassa · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`ribes-gastronomia-andorrana`](fonts/ribes-gastronomia-andorrana.md) | M. Dolors Ribes i Rogé · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`rodriguez-minana-notaris`](fonts/rodriguez-minana-notaris.md) | Joan Carles Rodríguez i Miñana · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`rodriguez-rossa-creacio-artistica`](fonts/rodriguez-rossa-creacio-artistica.md) | Francesc Rodríguez i Rossa · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |

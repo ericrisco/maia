@@ -36,13 +36,32 @@ normativa i masculina en nord-occidental.
 L'article definit clàssic **lo** apareix darrere consonant o després de pausa
 —*«M'ha rajat lo nas»*— amb la variant combinatòria **el** després de vocal.
 
-I s'ha mort en tres generacions. Rabassa (1994) en dóna la corba:
+I s'ha mort en tres generacions. **Rabassa (1994)** en dona la corba, i el corpus
+ara la té **de la font directa i amb els percentatges**
+([font](../../../fonts/rabassa-alteracio-parlars-1994.md),
+[els vint-i-sis punts](../dialectologia/els-vint-i-sis-punts.md)):
 
-| Generació | *lo* |
-| --- | --- |
-| Primera | Normal |
-| Segona | 50%, convivint amb *el/al* |
-| Tercera | **Zero** |
+| Generació | *lo* | Què el substitueix |
+| --- | --- | --- |
+| **Primera** *(60+)* | **a tot arreu excepte un 1%** | aquell 1% és **a Andorra la Vella**, amb *al* |
+| **Segona** *(30-60)* | **50%** | **s'ha reduït a la meitat en una generació** |
+| **Tercera** *(20-30)* | **zero** | ***al* 83%**, ***el* 17%** |
+
+**Globalment**, sobre els divuit informadors: ***lo* 50%**, ***al* 31%**, ***el*
+19%** — xifra que **enganya si no es desglossa per edats**.
+
+**I per localitats**, a la segona generació: **Pal, Ordino i Canillo** mantenen
+*lo*; **Arinsal** el perd en favor d'*el*; **Andorra la Vella** i **Encamp**, en
+favor d'*al* i *el*. A la tercera, **només Pal fa servir *el***.
+
+**Per què es perd**, segons ella: **el prestigi de l'estàndard**, **els mitjans**,
+**l'escola** i **les connotacions pejoratives** — «sovint hem sentit a dir que
+**fa pagès**».
+
+**I no és l'únic cas d'una descripció publicada que ja no descrivia res:** els
+***Mapes per a l'estudi de la llengua catalana*** (Eumo) donaven Andorra com a
+conservadora de *lo*, i el treball de camp de Rabassa conclou que **«aquestes
+dades no són del tot exactes»**.
 
 Les enquestes de l'ALDC són de **1972** i els informants tenien uns setanta anys.
 És a dir: el que l'Atles va recollir com a andorrà **ja no és l'andorrà que es
@@ -62,5 +81,6 @@ avui només distingeix *contemporania* i *historica*. Potser fa curt.
 
 ## Related
 
+- [Els vint-i-sis punts](../dialectologia/els-vint-i-sis-punts.md) — l'estudi de Rabassa sencer: 11 es mantenen, 13 muten, 2 han desaparegut.
 - [Fonètica](../fonetica/fonetica.md) — els altres trets i la mateixa corba.
 - [Registres](../registres/registres.md) — l'altre eix d'equilibri.
