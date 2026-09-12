@@ -46,6 +46,15 @@ ocupació soviètica; no conté Tutaj ni Andorra. Per tant, les remissions
 secundàries a les p. 326, 330 i 335 encara no s'han verificat directament i no
 s'han de presentar com una lectura del llibre.
 
+Hi ha una obra de Chciuk més directament centrada en aquella missió: *Raport z
+Podziemia 1942*. Open Library registra l'autoedició de Munic de 1990, 408
+pàgines i OCLC `26445053`; la Bibliografia Nacional registra l'edició LTW de
+2005 amb 431+[1] pàgines i ISBN `83-88736-75-2`; la reedició de 2021 té 432
+pàgines i ISBN `978-83-7565-654-1`. La descripció editorial inclou expressament
+el retorn per Budapest, Zagreb, Suïssa, França i Espanya. És una font de
+control prioritària per al pas, però tampoc no se n'ha consultat encara el
+text.
+
 ## Transcripció de treball
 
 Els `.txt` i `.srt` són transcripcions automàtiques locals fetes amb
