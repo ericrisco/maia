@@ -59,3 +59,4 @@ la paraula no existeixi fora d'aquí.
 
 - [Quarts i veïnats](../quarts-i-veinats/quarts-i-veinats.md) — què hi ha sota la parròquia.
 - [Consell General](../consell-general/el-consell-general.md) — el nivell nacional.
+- [Andorra com a microestat](../petits-estats/andorra-com-a-microestat.md) — per què el comú fa de tot: una ciutat-estat, no un estat-nació.

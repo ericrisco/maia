@@ -37,3 +37,7 @@ Gairebé tot. El corpus **no té res** sobre:
 - L'**esport de competició andorrà** i la participació olímpica.
 - El **lèxic de la neu i de la muntanya**, que és el que més valdria per a la
   fase 3 i no està recollit enlloc.
+
+## Related
+
+- [Andorra com a microestat](../institucions/petits-estats/andorra-com-a-microestat.md) — els Jocs dels Petits Estats d'Europa, encara sense fitxa.

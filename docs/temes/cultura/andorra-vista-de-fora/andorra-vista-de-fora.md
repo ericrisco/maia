@@ -110,3 +110,4 @@ comprovable** ([el cas Amades](../../historia/historiografia/el-cas-amades.md)).
 - [Els passadors](../../historia/guerres-i-neutralitat/els-passadors.md) — el fet real que la sèrie retratava.
 - [El tabac](../../economia/tabac/tabac.md) — per què l'estanc és impossible.
 - [El cas Amades](../../historia/historiografia/el-cas-amades.md) — el mateix mètode.
+- [Andorra com a microestat](../../institucions/petits-estats/andorra-com-a-microestat.md) — «mirar de caure bé» com a política d'estat.

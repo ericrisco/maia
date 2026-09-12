@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**235** documents · **51** fonts · **0** aptes com a model de llengua · **97** temes amb contingut.
+**236** documents · **52** fonts · **0** aptes com a model de llengua · **98** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -395,6 +395,12 @@
 | [L'Armari de les Set Claus](temes/institucions/patrimoni-institucional/larmari-de-les-set-claus.md) | `temes/institucions/patrimoni-institucional` | compilada | contemporania | no | `viquipedia-ca` |
 | [L'inventari de les Set Claus](temes/institucions/patrimoni-institucional/linventari-de-les-set-claus.md) | `temes/institucions/patrimoni-institucional` | compilada | contemporania | no | `govern-andorra-web` |
 
+## temes/institucions/petits-estats
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Andorra com a microestat](temes/institucions/petits-estats/andorra-com-a-microestat.md) | `temes/institucions/petits-estats` | compilada | contemporania | no | `mateu-petits-estats-especificitat` |
+
 ## temes/institucions/quarts-i-veinats
 
 | Document | Tema | Veu | Època | Apte | Font |
@@ -762,6 +768,7 @@
 | [`martinez-benazet-professions-liberals`](fonts/martinez-benazet-professions-liberals.md) | Joan Martínez i Benazet · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mas-educacio-artistica`](fonts/mas-educacio-artistica.md) | Roger Mas i Canalis · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mas-pagesos-i-artesans`](fonts/mas-pagesos-i-artesans.md) | David Mas i Canalís · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`mateu-petits-estats-especificitat`](fonts/mateu-petits-estats-especificitat.md) | Vicenç Mateu i Zamora · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`molla-catala-andorra`](fonts/molla-catala-andorra.md) | Guillem Molla · Universitat de Girona · revista IANUA | publicació acadèmica en accés obert | pendent |
 | [`oranias-formacio-administracio`](fonts/oranias-formacio-administracio.md) | Imma Oranias i Estudis · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pallares-medicina-andorra`](fonts/pallares-medicina-andorra.md) | Manuel Pallarès i Darsa · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |

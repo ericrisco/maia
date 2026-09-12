@@ -64,3 +64,4 @@ té resposta perquè està mal feta: manen tots dos o no mana cap.
 
 - [El Pareatge](../../historia/pareatge/el-pareatge.md) — el document que ho va fixar.
 - [El Consell General](../consell-general/el-consell-general.md) — qui legisla.
+- [Andorra com a microestat](../petits-estats/andorra-com-a-microestat.md) — què vol dir ser petit, i qui són els iguals d'Andorra.

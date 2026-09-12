@@ -355,3 +355,4 @@ en una de gran ocuparien estructures diferents.**
 - [La Cambra de Comerç i la formació](../../economia/comerc/la-cambra-de-comerc-i-la-formacio.md)
 - [La formació professional](../../societat/educacio/la-formacio-professional.md)
 - [La reacreditació dels metges](../../societat/sanitat/la-reacreditacio-dels-metges.md) — el mateix buit formatiu, a la sanitat.
+- [Andorra com a microestat](../petits-estats/andorra-com-a-microestat.md) — la teoria del que aquesta fitxa descriu en xifres.
