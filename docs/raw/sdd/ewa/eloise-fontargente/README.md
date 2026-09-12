@@ -8,6 +8,7 @@ establir el seu cognom, identitat civil, organització exacta, data de mort,
 sepultura ni la identitat documental dels dos aviadors canadencs que
 l'acompanyaven. `François` i `Louis`, noms emprats per l'adaptació televisiva de
 2000, són noms de personatge i **no s'han de traslladar a la història real**.
+L'edició de 1975 permet establir, a més, que `Eloise` era expressament un àlies.
 
 ## Cadena de transmissió
 
@@ -96,6 +97,53 @@ primavera de 1944. Aquesta cronologia és encara narrativa i secundària: cal
 comprovar en el llibre de 1974 quines dates són explícites i cercar papers
 personals, informes de xarxa o correspondència contemporània.
 
+## Què revela l'índex de Google Books de l'edició de 1975
+
+Google Books no deixa llegir l'exemplar complet, però el seu cercador intern
+retorna fragments breus amb número de pàgina. La reconstrucció s'ha conservat
+a `google-books-snippet-audit.md` i afegeix quatre precisions importants:
+
+- a la p. 34, la dona declara que `Eloise` **no és el seu nom**. Diu que
+  l'adreça de Viadiu li arribà per un home que es feia dir `Jimmy`, vist una
+  sola vegada tres dies abans, i nega conèixer `Mr. Miller`;
+- a les p. 33 i 38–41, el grup era inicialment de 25 oficials: deu detinguts i
+  quinze restants —dotze polonesos i tres belgues—. Les 17 persones de la
+  barca eren aquests quinze homes més `Martí` i l'amic de Lattes. Els cinc que
+  reapareixen xops després del tiroteig de la patrulla eren polonesos;
+- a la p. 194, el capítol final comença amb una missió urgent d'Éloïse per fer
+  passar un paquet de plans de França quan el desembarcament aliat ja es
+  pressentia. Això impedeix reduir l'episodi a una simple conducció de dos
+  aviadors;
+- a les p. 199 i 212, els dos homes es declaren canadencs i el relat fixa el
+  mes de maig. Un rep el nom narratiu `Ruspetaire`, que tampoc és una identitat
+  documental segura.
+
+Els fragments permeten corregir el resum de Pallarés —17 persones a la barca
+no equival a 17 evacuats—, però no revelen el nom civil d'Éloïse ni la xarxa a
+què pertanyien `Jimmy` i `Mr. Miller`.
+
+## El fons personal de Viadiu ingressat a Solsona
+
+La *Memòria 2023* de l'Arxiu Comarcal del Solsonès inclou el **fons Francesc
+Viadiu** entre els ingressos destacats i documenta la participació del director
+de l'Arxiu en l'homenatge de Taradell de l'11 de novembre de 2023, al costat de
+Rosa Viadiu. La *Memòria 2024* torna a enumerar el fons. Malgrat això, el quadre
+públic de fons consultat el 12/09/2026 encara no l'inclou entre els fons
+personals i no se n'ha trobat inventari públic, codi, volum ni abast cronològic.
+
+Aquest desfasament és una oportunitat documental, no una prova d'inaccessibilitat:
+el dipòsit confirma l'ingrés, però pot estar pendent de tractament o publicació.
+S'ha preparat —i **no enviat**— un esborrany de consulta a
+`acsolsones.cultura@gencat.cat` per demanar descripció, condicions d'accés i la
+possible existència de correspondència, esborranys, claus d'àlies o papers de
+1940–1944.
+
+Una entrevista de 2017 a Maria Rosa Viadiu reforça la prioritat del fons
+familiar: la filla defineix els llibres com a memorialístics, admet canvis de
+noms i diu que la família no aconseguí localitzar Éloïse, malgrat el fort impacte
+que la seva pèrdua tingué en Viadiu. És memòria familiar tardana i no resol la
+identitat, però explica per què els papers transferits poden ser decisius.
+
 ## La capa audiovisual i el seu límit
 
 3Cat manté públiques les dues parts de la minisèrie *Andorra. Entre el torb i
@@ -134,6 +182,11 @@ històric.
 | `xiv-congreso-ahc-2018-pp1947-1959.pdf` | Concepción Pallarés Moraño, comunicació sobre xarxes d'evasió, RUA `10045/96369`, p. impresa 1947–1959; CC BY-NC 4.0. |
 | `xiv-congreso-ahc-2018-pp1947-1959.txt`, `xiv-congreso-page-06.png`–`08.png` | Extracció i renders de control; la p. impresa 1952 conté el passatge sobre Éloïse i la nota 6183. |
 | `rua-handle-10045-96369.json`, `rua-item-bundles.json`, `rua-original-bitstreams.json` | Metadades REST oficials de RUA: autoria, citació, llicència, revisió per parells i identificador del bitstream original. |
+| `google-books-*.json`, `google-books-snippet-audit.md` | Fragments d'OCR del cercador intern de l'edició Nova Terra de 1975, ID `vh1JAQAAIAAJ`, i auditoria per pàgina. |
+| `bondia-2017-maria-rosa-viadiu.html` | Entrevista a la filla de Viadiu, 05/05/2017: caràcter memorialístic, canvi de noms i cerca familiar negativa d'Éloïse. |
+| `francesc-viadiu-fons/acs-memoria-2023.*`, `acs-memoria-2024.*` | Memòries oficials que confirmen l'ingrés recent del fons Francesc Viadiu. |
+| `francesc-viadiu-fons/xac-quadre-fons.html` | Quadre públic de fons de l'ACS, encara sense entrada de Viadiu el 12/09/2026. |
+| `francesc-viadiu-fons/consulta-esborrany.md` | Consulta arxivística preparada però no enviada. |
 | `internet-archive-isbn-search.json` | Cerca pels ISBN català i francès: zero resultats. |
 | `openlibrary-isbn-search.json` | Registre bibliogràfic sense ebook ni text complet. |
 
@@ -167,6 +220,8 @@ Els SHA-256 de tots els fitxers es van calcular el 12/09/2026. Destaquen:
    permetin relacionar l'àlies Éloïse amb una identitat civil.
 6. Verificar al llibre de 1974 la font i la cronologia del reclutament per
    Éloïse, del grup marítim de 17 persones i del nom de guerra `Alexis`.
+7. Demanar a l'Arxiu Comarcal del Solsonès el codi, inventari, abast i accés al
+   fons Francesc Viadiu; no enviar la consulta sense autorització expressa.
 
 ## Drets
 
