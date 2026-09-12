@@ -87,6 +87,24 @@ al 1607**. El corpus **proposa que d'aquí surt l'error d'atribució** — i ho
 **marca com a hipòtesi seva**: **cap font no ho diu**. El fet establert segueix
 sent només que **el bisbe del 1419 és Francesc de Tovia**.
 
+### I una tercera cosa: qui demana el permís és qui presideix
+
+**La llista de síndics d'Andorra comença amb aquest mateix nom**
+([font](../../../fonts/wikipedia-politica-andorra.md)):
+
+> **Andreu de Alas — 1419.**
+
+**El primer síndic del Consell de la Terra i l'home que en va formular la
+petició porten el mateix nom, el mateix any i la mateixa institució.**
+
+**El corpus ho marca com a concordança entre dues fonts independents** —Vela i
+la llista— **i no com a demostració**: **cap de les dues no diu que siguin la
+mateixa persona**, i el corpus tampoc ho afirma. Però la coincidència val
+escriure-la, perquè si es confirma vol dir que **l'home que va demanar permís
+per reunir-se va ser el primer que va presidir la reunió**.
+
+Vegeu [els síndics generals](../../persones/els-sindics-generals.md).
+
 **Cautela que es manté:** cap d'aquestes tres proves és **el document**. El
 privilegi és a
 [l'Arxiu de les Set Claus](../patrimoni-institucional/linventari-de-les-set-claus.md)

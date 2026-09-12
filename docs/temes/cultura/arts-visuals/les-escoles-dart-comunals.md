@@ -149,9 +149,18 @@ i [la formació d'adults](../../societat/educacio/la-formacio-dadults.md).
 
 - **Quantes escoles d'art comunals hi ha**, on són exactament i com es diuen.
   La font diu «totes les parròquies» i **no en dona cap nom**. **Buit
-  prioritari.**
+  prioritari, ara amb el primer nom a dins**: l'**Escola d'Art del Comú de Sant
+  Julià de Lòria** existeix, i **el novembre del 2017 passa a dir-se Espai
+  Sergi Mas** quan el comú hi instal·la el taller de l'escultor
+  ([font](../../../fonts/wikipedia-art-andorra.md)). **Una escola d'art comunal
+  de set, amb nom.** I no és una dedicatòria de fora: **el mateix Sergi Mas hi
+  havia ensenyat ceràmica** —abans, a la rectoria de Sant Julià— i **hi va
+  fundar la societat Ceràmiques d'Andorra**
+  ([font](../../../fonts/museus-itinerari-sergi-mas.md)). Vegeu
+  [la seva fitxa](./sergi-mas.md).
 - **Els tallers d'artistes anteriors als anys vuitanta**: qui eren aquests
-  artistes. Vegeu
+  artistes. **Un ja té nom**: el taller de ceràmica que **Sergi Mas i Maria
+  Canalís obren a Sant Julià de Lòria el 1966**. Vegeu
   [la creació artística](../../../fonts/rodriguez-rossa-creacio-artistica.md).
 - **Quanta gent hi passa** i de quines edats.
 - **El batxillerat artístic**: es va crear?

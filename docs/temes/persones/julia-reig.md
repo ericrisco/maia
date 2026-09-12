@@ -88,11 +88,34 @@ interlocutor alhora**.
 **Gairebé tot.** La font el qualifica de figura política més rellevant del seu
 temps **i no en dona ni una data personal**.
 
+## Qui era — buit tancat a mitges
+
+**Sant Julià de Lòria, 5 de desembre del 1911 — Sant Julià de Lòria, 2 de gener
+del 1996** ([font](../../fonts/wikipedia-politica-andorra.md)).
+
+**Vuitanta-quatre anys, nascut i mort a la mateixa parròquia.** **La mateixa
+que [Francesc Cairat](./francesc-cairat.md)**, el seu predecessor, i **la
+mateixa que [Òscar Ribas Reig](./oscar-ribas-reig.md)**, el primer cap de
+Govern. **Tres dels noms més llargs de la política andorrana del segle XX són
+de Sant Julià de Lòria**, i el corpus ho marca com a **observació pròpia**
+pendent de verificar.
+
+I una cosa més que la llista permet dir: **Òscar Ribas Reig té per cosina Maria
+Reig i Moles**, i **Reig és el cognom d'aquesta fitxa**. **El corpus no afirma
+cap parentiu** —no en té cap font— però **deixa la coincidència escrita**
+perquè qui hi torni sàpiga què comprovar.
+
 ## Buits registrats
 
-1. **Qui era.** Naixement, mort, casa, ofici, parròquia. **Res.**
-2. **Per què hi ha set anys entre les dues sindicatures** (1966-1973), i **qui
-   va presidir enmig**.
+1. ~~**Qui era.** Naixement, mort, casa, ofici, parròquia.~~ — **tancat en
+   part**: 1911-1996, de Sant Julià de Lòria. **Casa i ofici, oberts.**
+2. **Per què hi ha un buit entre les dues sindicatures**, i **qui va presidir
+   enmig** — **tancat**: **Francesc Escudé i Ferrero**, de la Seu d'Urgell,
+   **de desembre del 1966 a desembre del 1972**
+   ([els síndics generals](./els-sindics-generals.md)). **I el buit no és de
+   set anys sinó de sis**: la llista dona la segona sindicatura de Reig des de
+   **desembre del 1972**, no del 1973 com deia Bascompte. **Discrepància
+   registrada, no arbitrada.**
 3. **La Fundació Julià Reig**: què és, quan es crea, què publica, si existeix
    encara. **Buit prioritari** — és una via d'accés a recerca andorrana.
 4. **L'informe Bedaux** i la reestructuració del Consell en juntes.

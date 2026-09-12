@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**277** documents · **76** fonts · **0** aptes com a model de llengua · **105** temes amb contingut.
+**285** documents · **80** fonts · **0** aptes com a model de llengua · **106** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -107,8 +107,10 @@
 | --- | --- | --- | --- | --- | --- |
 | [Les arts visuals](temes/cultura/arts-visuals/arts-visuals.md) | `temes/cultura/arts-visuals` | compilada | contemporania | no | `viquipedia-ca` |
 | [Els mestres anònims](temes/cultura/arts-visuals/els-mestres-anonims.md) | `temes/cultura/arts-visuals` | compilada | contemporania | no | `rodriguez-rossa-creacio-artistica` |
+| [Josep Viladomat i Massanas](temes/cultura/arts-visuals/josep-viladomat.md) | `temes/cultura/arts-visuals` | compilada | contemporania | no | `wikipedia-art-andorra` |
 | [L'art més antic](temes/cultura/arts-visuals/lart-mes-antic.md) | `temes/cultura/arts-visuals` | compilada | contemporania | no | `rodriguez-rossa-creacio-artistica` |
 | [Les escoles d'art comunals](temes/cultura/arts-visuals/les-escoles-dart-comunals.md) | `temes/cultura/arts-visuals` | compilada | contemporania | no | `mas-educacio-artistica` |
+| [Sergi Mas i Balaguer](temes/cultura/arts-visuals/sergi-mas.md) | `temes/cultura/arts-visuals` | compilada | contemporania | no | `wikipedia-art-andorra` |
 
 ## temes/cultura/cultura-popular
 
@@ -540,6 +542,8 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Els caps de Govern](temes/persones/els-caps-de-govern.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
+| [Els síndics generals](temes/persones/els-sindics-generals.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
 | [Èric Risco de la Torre](temes/persones/eric-risco.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
 | [Francesc Cairat i Freixes](temes/persones/francesc-cairat.md) | `temes/persones` | compilada | contemporania | no | `bascompte-consell-de-la-terra` |
 | [Irineu Esteve Altimiras](temes/persones/irineu-esteve-altimiras.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
@@ -547,6 +551,8 @@
 | [Julià Reig i Ribó](temes/persones/julia-reig.md) | `temes/persones` | compilada | contemporania | no | `bascompte-consell-de-la-terra` |
 | [Mònica Dòria Vilarrubla](temes/persones/monica-doria.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
 | [Nahuel Carabaña](temes/persones/nahuel-carabana.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
+| [Òscar Ribas Reig](temes/persones/oscar-ribas-reig.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
+| [Roser Suñé i Pascuet](temes/persones/roser-sune.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
 
 ## temes/politica/identitat-politica
 
@@ -562,6 +568,13 @@
 | [El parlamentarisme andorrà](temes/politica/parlamentarisme/el-parlamentarisme-andorra.md) | `temes/politica/parlamentarisme` | compilada | contemporania | no | `bascompte-consell-de-la-terra` |
 | [La deriva presidencialista](temes/politica/parlamentarisme/la-deriva-presidencialista.md) | `temes/politica/parlamentarisme` | compilada | contemporania | no | `dalleres-coprincipat-parlamentari` |
 | [Quants diputats](temes/politica/parlamentarisme/quants-diputats.md) | `temes/politica/parlamentarisme` | compilada | contemporania | no | `figuereda-nombre-de-diputats` |
+
+## temes/politica/partits
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Els partits d'avui](temes/politica/partits/els-partits-davui.md) | `temes/politica/partits` | compilada | contemporania | no | `wikipedia-politica-andorra` |
+| [L'arbre dels partits](temes/politica/partits/larbre-dels-partits.md) | `temes/politica/partits` | compilada | contemporania | no | `wikipedia-politica-andorra` |
 
 ## temes/politica/sistema-electoral
 
@@ -862,6 +875,7 @@
 | [`mateu-zamora-reforma-reglament`](fonts/mateu-zamora-reforma-reglament.md) | Vicenç Mateu i Zamora · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mico-interculturalitat`](fonts/mico-interculturalitat.md) | Joan R. Micó i Ibàñez · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
 | [`molla-catala-andorra`](fonts/molla-catala-andorra.md) | Guillem Molla · Universitat de Girona · revista IANUA | publicació acadèmica en accés obert | pendent |
+| [`museus-itinerari-sergi-mas`](fonts/museus-itinerari-sergi-mas.md) | Govern d'Andorra · Ministeri de Cultura | drets reservats · contingut institucional públic | pendent |
 | [`oranias-formacio-administracio`](fonts/oranias-formacio-administracio.md) | Imma Oranias i Estudis · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pallares-medicina-andorra`](fonts/pallares-medicina-andorra.md) | Manuel Pallarès i Darsa · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pampalona-particularitats-microestats`](fonts/pampalona-particularitats-microestats.md) | Judith Pampalona i Tarrés · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
@@ -884,5 +898,8 @@
 | [`valero-escola-privada`](fonts/valero-escola-privada.md) | Fátima Valero i Alcaide · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`vela-consell-de-la-terra-1419`](fonts/vela-consell-de-la-terra-1419.md) | Susanna Vela i Palomares · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`vela-ordinacions-segle-xv`](fonts/vela-ordinacions-segle-xv.md) | Susanna Vela i Palomares · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`vilaweb-mort-sergi-mas`](fonts/vilaweb-mort-sergi-mas.md) | Partal, Maresma & Associats SL (VilaWeb) | drets reservats · citació breu amb atribució | False |
 | [`viquipedia-ca`](fonts/viquipedia-ca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-art-andorra`](fonts/wikipedia-art-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-esport-andorra`](fonts/wikipedia-esport-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-politica-andorra`](fonts/wikipedia-politica-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

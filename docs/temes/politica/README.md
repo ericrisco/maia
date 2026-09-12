@@ -44,17 +44,27 @@ amb qui la diu i des d'on.
 | [Parlamentarisme](./parlamentarisme/README.md) | La institució com a règim polític: què fa el Consell General i si el fa |
 | [Sistema electoral](./sistema-electoral/README.md) | Qui vota, com es compta, i qui ha anat quedant fora |
 | [Identitat política](./identitat-politica/README.md) | La consciència nacional i la neutralitat com a doctrina |
+| **[Partits polítics](./partits/README.md)** | **Qui són, quan neixen i d'on vénen. La subbranca que tanca el buit més gros** |
 
 ## El que hi falta, i és molt
 
 El corpus **no té**, ni de lluny:
 
-- **Els partits polítics.** Apareixen citats —**DA**, **PS**, **L'A**, **UL**—
-  i **cap font els descriu**: ni quan neixen, ni què defensen, ni qui els
-  funda. **Buit prioritari**: és el que un model hauria de saber primer.
-- **Els resultats electorals.** Cap sèrie, cap any.
-- **Els caps de Govern.** El corpus no en té la llista.
-- **Els síndics generals.** En té **cinc noms solts** i cap llista.
+- ~~**Els partits polítics.**~~ — **parcialment tancat** amb
+  [la subbranca de partits](./partits/README.md): **els set partits vius, els
+  quatre extraparlamentaris i quinze de difunts**, amb sigles, líders i
+  l'arbre de fusions. **El que segueix obert és el gruix**: cap programa, cap
+  fundació documentada tret de DA (2011) i el PS (2000), i **cap partit
+  parroquial d'abans del 1993** — que és justament el que la font declara que
+  exclou.
+- ~~**Els resultats electorals.** Cap sèrie, cap any.~~ — **primera sèrie
+  oberta**: [DA a les generals i a les comunals, 2011-2023](./partits/larbre-dels-partits.md),
+  i la trajectòria del PS del 2001 al 2015. **Falten totes les altres.**
+- ~~**Els caps de Govern.** El corpus no en té la llista.~~ — **tancat**:
+  [els nou caps de Govern des del 1982](../persones/els-caps-de-govern.md).
+- ~~**Els síndics generals.** En té **cinc noms solts** i cap llista.~~ —
+  **tancat**: [la sèrie del 1419 fins avui](../persones/els-sindics-generals.md),
+  amb les contradiccions de les fonts registrades una per una.
 - **Els comuns i les eleccions comunals** com a política, més enllà de
   [les set parròquies](../institucions/comuns-i-parroquies/les-set-parroquies.md).
 - **El referèndum del 14 de març de 1993** vist des de la campanya.

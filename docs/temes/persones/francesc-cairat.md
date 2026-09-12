@@ -66,9 +66,28 @@ n'ha vist ni un paper**.
 font** sobre una persona que va presidir el país durant vint-i-tres anys, i **no
 l'infla**.
 
+## Qui era — buit tancat a mitges
+
+**Sant Julià de Lòria, 3 d'abril del 1880 — Sant Julià de Lòria, 19 de desembre
+del 1968** ([font](../../fonts/wikipedia-politica-andorra.md)).
+
+**Vuitanta-vuit anys, nascut i mort a la mateixa parròquia.** Quan és elegit
+síndic el 1937 **en té 56**; quan plega, el 1960, **en té 80**. **Va presidir
+Andorra fins als vuitanta anys.**
+
+I una precisió que la llista hi afegeix: **hi entra el 1937 substituint
+Francesc Molné i Rogé** (1883, Sisquet – 1980), que hi havia estat **sis mesos
+escassos**, del juliol del 1936 al final d'any. **El seu predecessor immediat va
+durar mig any i ell en va durar vint-i-tres.** Vegeu
+[els síndics generals](./els-sindics-generals.md).
+
+**Segueix faltant**: la casa, l'ofici i què feia abans del 1936.
+
 ## Buits registrats
 
-1. **Qui era.** Any i lloc de naixement, casa, ofici, any de mort. **Res.**
+1. ~~**Qui era.** Any i lloc de naixement, casa, ofici, any de mort.~~ —
+   **tancat en part**: 1880-1968, de Sant Julià de Lòria. **Casa i ofici,
+   oberts.**
 2. **Com i quan es treu el límit de mandat**, i **quan es torna a posar**.
 3. **Si va ser reelegit cada any** o el càrrec va quedar obert.
 4. **Què va fer exactament durant la Segona Guerra Mundial**: quines decisions,
@@ -78,7 +97,9 @@ l'infla**.
    l'anul·lació del sufragi universal masculí el **1941** i el restabliment del
    **1947** ([fitxa](../politica/sistema-electoral/el-sufragi-universal-masculi.md)).
    **Hi era, i el corpus no sap de quina banda.**
-6. **Qui el va succeir el 1960**, abans de Julià Reig.
+6. ~~**Qui el va succeir el 1960**, abans de Julià Reig.~~ — **tancat**:
+   **ningú**. **Julià Reig el succeeix directament**, el 31 de desembre del
+   1960 ([els síndics generals](./els-sindics-generals.md)).
 7. **Si hi ha fons personal** o correspondència a l'Arxiu Nacional.
 
 ## Related

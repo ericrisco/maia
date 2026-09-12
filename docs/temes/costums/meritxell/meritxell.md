@@ -39,6 +39,22 @@ el seu símbol més antic la nit que el celebrava.
 El santuari nou el va projectar **Ricard Bofill** i es va inaugurar el **1976**.
 La imatge que s'hi venera avui és una **rèplica** de l'original.
 
+**I ara el corpus sap qui la va fer.** És obra de **[Sergi Mas i
+Balaguer](../../cultura/arts-visuals/sergi-mas.md)** (Barcelona, 1930 —
+2026), escultor i ceramista establert a Aixovall des del 1957
+([font](../../../fonts/wikipedia-art-andorra.md)):
+
+> «Entre les seves escultures més destacades està la nova de la imatge de la
+> Verge de Meritxell, **després de la destrucció de l'original romànic per un
+> incendi el 1972**.»
+
+**El mateix home va fer el mobiliari de la sala del Consell General de la Casa
+de la Vall**, el 1961. **El símbol religiós del país i el moble de la seva
+institució més antiga són de la mateixa mà.**
+
+I la va tornar a fer una segona vegada, i lluny: el **1994** en va fer **un
+mural de ceràmica esmaltada al claustre del monestir de Jerusalem**.
+
 El 1994 s'hi va crear l'exposició *Meritxell Memòria*, que manté viva la memòria
 del que es va perdre. El nou santuari ja ha complert mig segle com a símbol de
 país.
@@ -57,3 +73,4 @@ pareatge i la festivitat mariana del 8 de setembre.
 
 - [El Pareatge](../../historia/pareatge/el-pareatge.md) — la mateixa data.
 - [Calendari festiu](../calendari-festiu/calendari-festiu.md) — l'any andorrà sencer.
+- [Sergi Mas](../../cultura/arts-visuals/sergi-mas.md) — qui va fer la imatge d'avui.

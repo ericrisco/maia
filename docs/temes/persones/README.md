@@ -4,6 +4,12 @@
 Aquesta branca existeix per fer visible aquesta desproporció i per anar-la
 corregint.
 
+**Actualització del 2026-09-12:** ja no en són tres. Hi ha **cinc esportistes**,
+**tres polítics**, **dues llistes completes de càrrecs** —[síndics
+generals](./els-sindics-generals.md) i [caps de
+Govern](./els-caps-de-govern.md)— i **dos escultors**, a
+[arts visuals](../cultura/arts-visuals/README.md).
+
 S'obre el **2026-09-13**.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
@@ -28,7 +34,8 @@ s'infla amb suposicions. **El que no es pot fonamentar no s'escriu.**
 | **Guillem d'Areny-Plandolit** | [segle XIX](../historia/segle-xix/guillem-dareny-plandolit.md) | El síndic de la Nova Reforma de 1866 |
 | **Boris Skossyreff** | [segle XX](../historia/segle-xx-primera-meitat/boris-skossyreff.md) | Es va proclamar rei d'Andorra el 1934 |
 
-**Tres.**
+**Tres al començament d'aquesta branca.** La taula de sota ja no és només una
+llista de buits: bona part de les files hi apunten a fitxa.
 
 ## Les que el corpus anomena i no té
 
@@ -36,17 +43,22 @@ s'infla amb suposicions. **El que no es pot fonamentar no s'escriu.**
 
 | Qui | Què se'n sap | Estat |
 | --- | --- | --- |
-| **Francesc Cairat i Freixes** | **Síndic 23 anys**, 1937-1960 | [fitxa](./francesc-cairat.md) |
-| **Julià Reig i Ribó** | Síndic **1961-66** i **1973-78** | [fitxa](./julia-reig.md) |
-| **Estanislau Sangrà** | **Darrer síndic abans que existís el Govern** (1982) | **només el nom** |
+| **Francesc Cairat i Freixes** (1880-1968) | **Síndic 23 anys**, 1937-1960 | [fitxa](./francesc-cairat.md) |
+| **Julià Reig i Ribó** (1911-1996) | Síndic **1961-66** i **1972 o 1973 – 78** (les fonts discrepen) | [fitxa](./julia-reig.md) |
+| **Estanislau Sangrà i Font** | **Darrer síndic abans que existís el Govern.** Del **29 desembre 1978 al 4 gener 1982** | [a la llista](./els-sindics-generals.md) |
 | **Marc Vila i Riba** | Subsíndic; **detecta l'atzucac institucional** que porta a la Reformeta. Prologa el Politar del 1983 | **buit** |
-| **Òscar Ribas Reig** | **Primer cap de Govern** de l'etapa constitucional. El 1973 presenta la moció del sufragi passiu femení | **buit prioritari** |
-| **Jaume Bartumeu Canturri** | Cap de Govern el 2009. El 1973, l'altre signant de la moció | **buit** |
+| **Òscar Ribas Reig** | **Primer cap de Govern**, 1982. Dues vegades al càrrec i **dues dimissions pels comptes**. El 1973 presenta la moció del sufragi passiu femení | **[fitxa](./oscar-ribas-reig.md)** |
+| **Jaume Bartumeu Canturri** | Cap de Govern **del 2009 al 2011**; cau quan el Consell li tomba el pressupost. El 1973, l'altre signant de la moció | [a la llista](./els-caps-de-govern.md) |
 | **Josep Dallerès i Codina** | Ex-síndic general, exministre, exambaixador | [què en diu](../politica/parlamentarisme/la-deriva-presidencialista.md) |
 | **Vicenç Mateu i Zamora** | Síndic general, doctor en filosofia, exambaixador | [què en diu](../politica/parlamentarisme/com-funciona-el-consell-general.md) |
-| **Roser Suñé** | **Primera síndica general**, 2019 | **buit prioritari** |
+| **Roser Suñé i Pascuet** | **Primera síndica general**, 2019-2023. Mestra, filòloga del català i ambaixadora a Suècia, Noruega i Islàndia | **[fitxa](./roser-sune.md)** |
 | **Guillem d'Areny i Teixidor** | Síndic el **1762**, en conflicte amb el bisbe. **Cent quatre anys abans del de la Nova Reforma, i el mateix cognom** | **buit** |
-| **Francesc Duran (a) Guillemó** | Síndic conservador que tanca la revolució andorrana, **1881** | **buit** |
+| **Francesc Duran (a) Guillemó** | Síndic conservador que tanca la revolució andorrana, **1881**. A la llista hi consta **tres mandats**: 1861-65, 1881-83 i 1886 | [a la llista](./els-sindics-generals.md) |
+| **Marc Forné i Molné** | **El mandat més llarg del càrrec**: cap de Govern **deu anys i mig**, 1994-2005 | [a la llista](./els-caps-de-govern.md) |
+| **Xavier Espot Zamora** | Cap de Govern des del **2019** i **president de DA** | [a la llista](./els-caps-de-govern.md) |
+| **Antoni Martí** (1963-2023) | Cap de Govern 2011-2019 i **fundador de DA** el 22 de febrer del 2011 | [a l'arbre](../politica/partits/larbre-dels-partits.md) |
+| **Carles Enseñat i Reig** | Síndic general **des del 26 d'abril del 2023**. Nascut a Encamp el 1985 | [a la llista](./els-sindics-generals.md) |
+| **Andreu de Alas** | **Primer síndic, 1419.** Mateix nom, any i institució que **l'Andreu d'Alàs que formula la petició del privilegi**. **El corpus registra la concordança i no afirma que siguin el mateix** | [la concordança](../institucions/consell-general/el-consell-de-la-terra.md) |
 
 ### Les primeres
 
@@ -54,7 +66,7 @@ s'infla amb suposicions. **El que no es pot fonamentar no s'escriu.**
 | --- | --- | --- |
 | **Mercè Bonell** | **Primera consellera general**, 1984, per substitució | [fitxa parcial](../societat/dones/el-sufragi-femeni.md) |
 | **Maria Teresa Armengol i Bonet** | **Primera electa** (1985) i primera al Consell Superior de la Justícia (2005) | ídem |
-| **Maria Reig** | **Única consellera de tot el període constituent** | **buit** |
+| **Maria Reig i Moles** | **Única consellera de tot el període constituent.** I **cosina d'Òscar Ribas Reig**, el primer cap de Govern | **buit, amb un fil nou** |
 | **Rosa Ferrer** | Durant anys «l'únic element femení al Consell» | **buit** |
 | **Pepita Aguilar · Quima Calvó · Angelina Mas** | Tres de les **378 sufragistes** de 1968 | **buit prioritari: falten 375 noms** |
 
@@ -74,6 +86,7 @@ s'infla amb suposicions. **El que no es pot fonamentar no s'escriu.**
 | **Manuel Anglada i Ferran** | Sobre els orígens de la parla andorrana | **buit** |
 | **Cebrià Baraut** | **Cartularis** de la vall d'Andorra | **buit** |
 | **Àlvar Valls** | **Diccionari enciclopèdic d'Andorra**, 2006 | [l'obra](../historia/historiografia/el-diccionari-enciclopedic.md) |
+| **Sergi Mas i Balaguer** | ***El moble andorrà*** (2003) i ***Aspectes de l'art popular d'Andorra*** (2016). **Va escriure el que també va esculpir** | [fitxa](../cultura/arts-visuals/sergi-mas.md) |
 | **Roland Viader** | *L'Andorre du IXe au XIVe siècle*; la tesi de la **federació de comuns** | **buit prioritari** |
 | **Olivier Codina** | *De fer et de laine*: les valls del XVI al XIX | **buit** |
 | **Montserrat Palau Martí** | Tres obres sobre religiositat andorrana | [buit registrat](../costums/religiositat/la-inquisicio-a-andorra.md) |
@@ -85,7 +98,7 @@ s'infla amb suposicions. **El que no es pot fonamentar no s'escriu.**
 | **Francesc de Tovia** | **Bisbe del privilegi del 1419.** Abans, **ardiaca d'Andorra** | [els bisbes](../historia/edat-mitjana/els-bisbes-durgell.md) |
 | **Andreu Capella** | Bisbe **1589-1607**; hi porta la Inquisició | [ídem](../historia/edat-mitjana/els-bisbes-durgell.md) · [la Inquisició](../costums/religiositat/la-inquisicio-a-andorra.md) |
 | **Josep Caixal** | Bisbe que **aprova la Nova Reforma**, 1866 | **buit** |
-| **Joan Benlloch i Vivó** | Copríncep; **escriu el text de l'himne**, 1914 | **buit** |
+| **Joan Benlloch i Vivó** | Copríncep; **escriu el text de l'himne**, 1914. Té **monument a Andorra la Vella des del 1966**, de Josep Viladomat | [l'escultor](../cultura/arts-visuals/josep-viladomat.md) |
 | **Simeón de Guinda y Apeztegui** | Copríncep del **1714**, «es reconeix amb els andorrans com a diferent dels espanyols i francesos» | **buit** |
 | **Joan-Enric Vives i Sicília** | Copríncep Episcopal | **buit** |
 | **Joan I, comte de Foix** | Copríncep que **ratifica el 1419** | **buit** |
@@ -105,7 +118,11 @@ Guillem d'Areny-Plandolit» o «qui va ser el primer cap de Govern d'Andorra» �
 **el primer que se li preguntarà**, i el corpus, ara mateix, **només sap
 respondre'n tres**.
 
-**Aquesta és, en volum de buits, la branca més buida de totes.**
+**Aquesta era, en volum de buits, la branca més buida de totes.** Segueix
+sent-ho, però **les dues preguntes que l'obrien —«qui va ser el primer cap de
+Govern» i «qui ha estat síndic»— ja tenen resposta sencera**:
+[caps de Govern](./els-caps-de-govern.md) i
+[síndics generals](./els-sindics-generals.md).
 
 ## El criteri amb les persones vives
 
@@ -121,6 +138,15 @@ i no la fa seva.
 - [Historiografia](../historia/historiografia/historiografia.md) — qui ha escrit el país.
 - [El sufragi femení](../societat/dones/el-sufragi-femeni.md) — les primeres.
 - [Els bisbes d'Urgell](../historia/edat-mitjana/els-bisbes-durgell.md) — la sèrie dels senyors.
+
+## Els que van fer el país visible
+
+| Qui | Per què hi és | On |
+| --- | --- | --- |
+| **Sergi Mas i Balaguer** (1930-2026) | **Va fer la Verge de Meritxell d'avui**, el mobiliari de la Casa de la Vall i els segells de les llegendes. **Té un itinerari d'Estat per les set parròquies** | [fitxa](../cultura/arts-visuals/sergi-mas.md) |
+| **Josep Viladomat i Massanas** (1899-1989) | **Monument al centenari de la Nova Reforma** (1967) i **al copríncep Benlloch** (1966). Mor a Escaldes | [fitxa](../cultura/arts-visuals/josep-viladomat.md) |
+| **Maria Canalís** | Ceramista, **esposa i cocreadora** de Sergi Mas des del 1955 | **buit** |
+| **Francesc Galobardes** | Citat com el tercer nom de l'escultura andorrana del segle XX | **buit** |
 
 ## Esportistes
 
