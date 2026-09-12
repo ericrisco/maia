@@ -120,7 +120,7 @@ la casa i les terres que els veieren néixer**».
 | --- | --- |
 | **1. L'Església** | ([religiositat](../../costums/religiositat/religiositat.md)) |
 | **2. L'exèrcit** | «A d'altres llocs» — **l'autor precisa que aquesta no era andorrana**, cosa coherent amb un país sense exèrcit |
-| **3. Emigrar** | ([de la fonda a l'hotel](../../economia/turisme-i-neu/de-la-fonda-a-lhotel.md): Andorra era «emissora d'emigració») |
+| **3. Emigrar** | **Buit tancat**: vegeu [les tres migracions](../../societat/demografia/les-tres-migracions.md) — veremes de l'Hérault, mines de talc de Luzenac, mines de ferro de la Catalunya Nord |
 | **4. Quedar-se** | «Restar a la casa pairal, **treballant de sol a sol**, sota la potestat del seu germà o cunyat cap de casa, **tenint segur només el jaç i el plat a taula**» |
 
 **«Tenint segur només el jaç i el plat a taula.»**
@@ -154,15 +154,38 @@ molt eficaç**: la vídua que es tornava a casar **sortia del patrimoni**.
 1. **Casos reals** de tria d'hereu documentats amb noms.
 2. **Amb quina freqüència** heretaven filles. L'autor diu que no hi havia
    discriminació «en principi»; **el corpus no té cap xifra**.
-3. **Què passava amb els cabalers que emigraven**: on anaven, si tornaven.
+3. ~~Què passava amb els cabalers que emigraven~~ — **tancat** a
+   [les tres migracions](../../societat/demografia/les-tres-migracions.md). I
+   **amb prou feines tornaven**: qui havia marxat de debò «no gaudia de la
+   possibilitat de disposar de tres mesos» per venir a ajudar.
 4. La **clàusula de viduïtat**: es complia? es litigava?
 5. **Quan cau** el sistema — l'autor diu que els capítols «han caigut clarament
    en desús», i no dona data.
 6. El **lèxic**: *cabal*, *cabaler*, *pubilla*, *jaç*, *béns relictes*, *cap de
    casa*, al [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md).
 
+## L'alternativa que tots volien, i per què no bastava
+
+**Lídia Armengol** hi afegeix el matís que el notari no dona
+([les tres migracions](../../societat/demografia/les-tres-migracions.md)):
+
+> «La que tots acaronaven era **casar-se amb una pubilla i entrar de jove a una
+> altra casa per no haver d'abandonar el país**. Però **les germandats eren
+> sovint importants i els candidats a entrar de jove un xic massa nombrosos**.»
+
+**«Entrar de jove»** és el mot andorrà per a **l'home que es casa cap a dins
+d'una altra casa** — el contrari de l'hereu.
+
+**Hi havia més cabalers que pubilles.** Per això el sistema **expulsava**: no per
+duresa, **perquè l'aritmètica no tancava**.
+
+I el cabaler que es quedava **tenia data de caducitat**: servia «**fins que els
+seus fills** —els de l'hereu— **fossin útils per al treball**». Després, **rebia
+el dot i marxava**.
+
 ## Related
 
+- [Les tres migracions](../../societat/demografia/les-tres-migracions.md) — on anaven.
 - [Els capítols matrimonials](./els-capitols-matrimonials.md) — com es fixava, amb el text.
 - [El dot](./el-dot.md) — què s'hi aportava.
 - [L'Antic Règim](./lantic-regim.md) — la branca.
