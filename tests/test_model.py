@@ -43,3 +43,23 @@ def test_tots_els_articles_declaren_veu_i_epoca() -> None:
     for d in c.docs:
         assert d.veu in ("originaria", "compilada"), d.path
         assert d.epoca in ("contemporania", "historica"), d.path
+
+
+def test_raw_no_forma_part_del_corpus(tmp_path: Path) -> None:
+    """`raw/` és material de partida, no corpus: els seus .md no s'hi carreguen."""
+    (tmp_path / "temes").mkdir()
+    (tmp_path / "temes" / "bo.md").write_text(
+        "---\ntype: article\nveu: compilada\nepoca: contemporania\n---\n\n# ok\n",
+        encoding="utf-8",
+    )
+    cru = tmp_path / "raw" / "hemeroteca"
+    cru.mkdir(parents=True)
+    (cru / "nota-de-consulta.md").write_text("sense frontmatter, i tant\n", encoding="utf-8")
+    (cru / "extracte.md").write_text(
+        "---\ntype: article\n---\n\n# no hauria de comptar\n", encoding="utf-8"
+    )
+
+    c = load_corpus(tmp_path)
+
+    assert len(c.docs) == 1, "només el document de temes/"
+    assert c.unparsed == [], "res de raw/ no s'ha de registrar com a malformat"

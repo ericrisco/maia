@@ -21,3 +21,8 @@ docs/raw/academic/*.pdf
 docs/raw/hemeroteca/*.pdf
 docs/raw/web/*.html
 docs/raw/web/*.json
+
+# Credenciales: este repositorio es PÚBLICO y docs/raw/ se versiona.
+*.cookies
+*cookie*.txt
+*.env

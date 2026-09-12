@@ -20,6 +20,12 @@ WIKILINK = re.compile(r"\[\[([^\]]+)\]\]")
 CITA = re.compile(r"^>\s?(.+)$", re.MULTILINE)
 GENERATS = {"CONTRACT.md", "index.md", "README.md"}
 
+# Subarbres de la bóveda que NO són corpus. `raw/` guarda el material de
+# partida —extractes de fonts, notes de consulta, registres de procedència— i
+# els seus .md no han de passar pel contracte: no són documents del corpus,
+# són la matèria primera d'on surten.
+FORA_DEL_CORPUS = {"raw"}
+
 
 @dataclass(frozen=True, slots=True)
 class Unparsed:
@@ -112,6 +118,8 @@ def load_corpus(root: Path) -> Corpus:
 
     for md in sorted(root.rglob("*.md")):
         if md.name in GENERATS:
+            continue
+        if FORA_DEL_CORPUS.intersection(md.relative_to(root).parts[:-1]):
             continue
         text = md.read_text(encoding="utf-8")
         try:

@@ -33,11 +33,13 @@ Gairebé tot. El corpus **no té res** sobre:
 - Les **federacions esportives**, que apareixen esmentades com a col·laboradores
   de l'Escola Andorrana i mai descrites.
 - L'**Open internacional de tennis ATP d'Andorra**.
+- El **Comitè Olímpic Andorrà** i **Andorra als Jocs Olímpics** pròpiament dits
+  — els [Jocs dels Petits Estats](./competicio/els-jocs-dels-petits-estats.md) sí que hi són.
 - El **Palau de Gel d'Andorra**, a Canillo, on van a patinar els escolars.
-- L'**esport de competició andorrà** i la participació olímpica.
 - El **lèxic de la neu i de la muntanya**, que és el que més valdria per a la
   fase 3 i no està recollit enlloc.
 
 ## Related
 
-- [Andorra com a microestat](../institucions/petits-estats/andorra-com-a-microestat.md) — els Jocs dels Petits Estats d'Europa, encara sense fitxa.
+- [Els Jocs dels Petits Estats d'Europa](./competicio/els-jocs-dels-petits-estats.md) — on Andorra competeix amb els seus iguals.
+- [Andorra com a microestat](../institucions/petits-estats/andorra-com-a-microestat.md)

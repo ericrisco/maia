@@ -1,0 +1,250 @@
+---
+type: article
+title: Els Jocs dels Petits Estats d'Europa
+description: "Uns jocs olímpics fets a mida dels països que no en guanyen cap. Andorra hi va des del 1985 i els ha organitzat dos cops."
+tema: temes/esports/competicio
+veu: compilada
+epoca: contemporania
+apte_llengua: false
+font: gelabert-jocs-petits-estats
+timestamp: 2026-09-13T09:30:00Z
+tags: [esports, competicio, petits-estats, relacions-exteriors, identitat]
+---
+
+# Els Jocs dels Petits Estats d'Europa
+
+> Font: **Olga Gelabert i Fàbrega**, ministra de Cultura, Joventut i Esports,
+> **28a Diada Andorrana, UCE, 2015**
+> ([fitxa](../../../fonts/gelabert-jocs-petits-estats.md)).
+
+## El problema que els va crear
+
+> «Per als països petits, participar als Jocs Olímpics els suposava dificultats,
+> **tant pel sol fet de participar-hi com, a més, per guanyar-hi alguna
+> medalla**.»
+
+**No és una competició de segona: és una competició on guanyar és possible.**
+
+És, en esport, **exactament la tesi que el síndic general fa en política**
+([Andorra com a microestat](../../institucions/petits-estats/andorra-com-a-microestat.md)):
+que un estat petit **no ha d'imitar els grans** sinó trobar **la via pròpia que
+li garanteixi el mateix dret**. Aquí el dret és **competir i pujar al podi**.
+
+## La cronologia de la fundació
+
+| Data | Fet |
+| --- | --- |
+| **1981** | Al **Congrés Olímpic de Baden-Baden** (Alemanya), **vuit comitès olímpics europeus** es reuneixen per primer cop a canviar impressions |
+| **1984** | Coincidint amb els **Jocs Olímpics de Los Angeles**, **les federacions internacionals n'accepten la creació**. Es doten de normativa, **firmen la Carta Olímpica** i són **apadrinats pels comitès olímpics europeus** |
+| **1985** | **Primers Jocs, a San Marino** |
+
+### Les quatre condicions
+
+- **Ser un país d'Europa.**
+- **Tenir una població inferior al milió d'habitants.**
+- **Tenir un comitè olímpic autònom.**
+- **Formar part del Comitè Olímpic Internacional.**
+
+**El llindar del milió d'habitants és el mateix que defineix «petit estat
+europeu»** a la ciència política
+([Andorra com a microestat](../../institucions/petits-estats/andorra-com-a-microestat.md)).
+**L'esport i el dret internacional fan servir la mateixa ratlla.**
+
+Els vuit que hi complien: **Andorra, Islàndia, Liechtenstein, Luxemburg, Malta,
+Mònaco, San Marino i Xipre.**
+
+**Hi falten dos dels deu petits estats europeus**, i per raons diferents: **el
+Vaticà** —que no té comitè olímpic— i **Montenegro**, que **encara no existia
+com a estat independent** el 1984 i que **s'hi incorpora més tard**: el
+president del COA diu el 2015 que **«amb l'entrada de Montenegro encara fa que
+[el nivell] sigui més alt»**.
+
+## Les seus
+
+Cada **dos anys**, en un país diferent, **rotant**:
+
+| Any | Seu |
+| --- | --- |
+| **1985** | San Marino |
+| **1987** | Mònaco |
+| **1989** | Xipre |
+| **1991** | **ANDORRA** |
+| **1993** | Malta |
+| **1995** | Luxemburg |
+| **1997** | Islàndia |
+| **1999** | Liechtenstein |
+| **2001** | *recomença la ronda* |
+| **2005** | **ANDORRA** |
+| **2013** | Luxemburg |
+| **2015** | Islàndia |
+| **2017** | San Marino |
+
+I una qüestió oberta el 2015, que el corpus reté com a tal: **el 2021 tocava a
+Malta**, però Malta havia **mostrat interès a intercanviar l'ordre amb Andorra**,
+a qui «en teoria li pertoca el 2023». **La font no sap quin any serà. El corpus
+tampoc. Buit registrat.**
+
+**Andorra els va organitzar el 1991** — **dos anys abans de tenir Constitució**
+([la Constitució de 1993](../../historia/constitucio-1993/constitucio-1993.md)).
+
+**Aquest detall no és menor.** El 1991, per a bona part del dret internacional,
+Andorra encara era **un «objecte jurídic no identificat»**
+([el reconeixement internacional](../../institucions/relacions-exteriors/el-reconeixement-internacional.md)),
+i tot i així **ja tenia comitè olímpic autònom, era membre del COI i organitzava
+una competició internacional al seu territori**.
+
+**L'esport va reconèixer Andorra com a país abans que el dret.**
+
+## El reglament, que és una fitxa d'igualtat
+
+El país organitzador **està obligat** a incloure:
+
+| Requisit | Detall |
+| --- | --- |
+| **Vuit disciplines** | **sis individuals** i **dues col·lectives** |
+| **Afegits** | màxim **dues més**, de les quals **una ha de ser olímpica** |
+| **Sexes** | **cada disciplina ha de tenir competició masculina i femenina** |
+
+**L'última línia és una norma de paritat escrita al reglament**, i el corpus la
+subratlla perquè **contrasta amb el que ha documentat en altres àmbits
+andorrans**: la formació dual del país va ser, de fet, **només per a nois durant
+dos anys**
+([la formació professional](../../societat/educacio/la-formacio-professional.md)),
+i les primeres becàries andorranes són una fitxa a part
+([les primeres becàries](../../societat/dones/les-primeres-becaries.md)).
+
+**Aquí la paritat no depèn de la voluntat local: la imposa el reglament.**
+
+## Els esports
+
+Al llarg de totes les edicions hi han figurat:
+
+**atletisme · bàsquet · bitlles · ciclisme · ciclisme de muntanya · esquaix ·
+gimnàstica · halterofília · judo · natació · taekwondo · tennis · tennis de
+taula · tir (al plat i de precisió) · vela · voleibol · voleibol de platja**
+
+**No hi ha esquí.** En uns jocs **d'estiu**, el país que té l'esquí com a
+assignatura escolar obligatòria
+([l'esquí escolar](../../societat/educacio/lesqui-escolar.md)) i com a motor
+econòmic ([turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md))
+**competeix en tot menys en allò que sap fer millor**.
+
+**I hi ha vela**, en una competició on **dos dels participants no tenen mar**
+—Andorra i Liechtenstein— i **un tercer, San Marino, tampoc**.
+
+## La sèrie andorrana
+
+| Edició | Atletes andorrans | Disciplines | Medalles |
+| --- | --- | --- | --- |
+| **1985 San Marino** | **34** (de **222** en total) | **6 de 7** | **4 de bronze** |
+| **1987 Mònaco** | **51** | **5 de 9** | **1 de bronze** — **últim lloc del medaller** |
+| **1989 Xipre** | **79** | **8** | **8** (3 or, 1 plata) — **puja dues posicions** |
+| **2013 Luxemburg** | — | — | **6** |
+| **2015 Islàndia** | **41** | **10 d'11** | **11** |
+
+Contrast de la primera edició: **Luxemburg hi va fer 52 medalles i Islàndia 21
+d'or**; Andorra, **quatre de bronze**.
+
+I el creixement dels Jocs mateixos: **de 222 atletes el 1985 a 675 el 1989**.
+**Es van triplicar en quatre anys.**
+
+### Les quatre constants
+
+La font n'extreu un resum que el corpus reté:
+
+1. **Quatre esports hi són a totes les edicions:** **atletisme, judo, natació i
+   tir**.
+2. **L'atletisme és el més practicat** i el que més esportistes hi ha aportat.
+3. **Luxemburg i Mònaco** hi han estat representats **en més esports**; **Andorra
+   i Liechtenstein, en menys**.
+4. El **rànquing de medalles d'or** l'encapçalen **Islàndia i Xipre**.
+
+**Andorra és, dins dels petits, dels petits.** Vegeu
+[la funció pública](../../institucions/govern/la-funcio-publica.md): **la mateixa
+aritmètica de plantilla curta** que fa que una persona faci tres feines fa que un
+país presenti menys disciplines.
+
+## Islàndia 2015, amb noms
+
+Del **l'1 al 6 de juny**. **Delegació de 41 esportistes**, **deu de les onze
+modalitats** —**no es va poder presentar equip de vòlei**— i **onze medalles**,
+contra **sis** dos anys abans a Luxemburg.
+
+| Metall | Qui |
+| --- | --- |
+| **Or** | **Marcos Sanza**, **Laurent Recouderc**, **Laura Sallés** i **l'equip de vòlei platja** |
+| **Plata** | **Marcos Sanza** |
+| **Bronze** | **Pep Sansa**, **Clàudia Guri**, **Pol Arias**, **Ivan Llanos**, **l'equip femení de judo** i **el de tennis masculí de dobles** |
+
+**Aquests són els primers noms d'esportistes andorrans que entren al corpus.**
+
+Altres noms de la delegació que dona la font: en **atletisme**, **Miquel
+Vílchez**, **Estefania Sebastián**, **Laia Isús** i **Mikel de Sa**; en
+**natació**, **Nàdia Tudó** i **Mònica Ramírez**; en **judo**, **Lia Povedano**,
+**Karim Nsir**, **Fabian Ramos**, **Ivan Garcia**.
+
+**Cap de missió:** **Aitor Osorio**. **President del COA:** **Jaume Martí**.
+
+### Un criteri de selecció que diu com és un país petit
+
+> «El Comitè Olímpic Andorrà hi ha afegit en aquesta edició **els esportistes que
+> havien proposat les federacions, que no havien assolit la marca però que hi
+> estaven a prop**.»
+
+**S'hi porta gent que no ha fet la mínima.** En un país amb pocs atletes,
+**omplir la delegació és part de l'objectiu**. I el mateix president ho corregeix
+per al futur: per a San Marino 2017, **«tindrem una delegació reduïda i amb més
+opcions de medalla»**.
+
+**Dues estratègies oposades —participar o puntuar— dins la mateixa institució i
+la mateixa pàgina.** El corpus les registra totes dues.
+
+### La frase
+
+> **«Feia temps que no sentíem l'himne andorrà tantes vegades.»**
+> — **Jaume Martí**, president del Comitè Olímpic Andorrà
+
+## El que el corpus no reté com a andorrà
+
+La segona meitat de la ponència enuncia **els sis principis fonamentals de
+l'olimpisme** de la **Carta Olímpica** i n'argumenta el valor educatiu.
+
+**No és contingut andorrà** i el corpus **no el fa passar per tal**. En reté
+només **la posició política que hi pren la ministra**, que sí que és una dada
+sobre Andorra:
+
+> «És primordial per al nostre govern estar convençut que **el pressupost
+> destinat a l'esport no és una despesa sinó una inversió**.»
+
+I la seva conclusió sobre què són aquests Jocs per al país:
+
+> «Podríem veure'ls com **uns jocs olímpics adaptats a la dimensió del nostre
+> país**, de manera que ens permeten establir **objectius i mínimes de
+> classificació exigents però a la vegada assolibles**.»
+
+## Buits registrats
+
+- **El Comitè Olímpic Andorrà**: quan es crea, quan entra al COI, qui el
+  presideix. **Buit prioritari** — és la institució que fa possible tot això i el
+  corpus no en té res.
+- **Andorra als Jocs Olímpics** —d'estiu i d'hivern—: participacions, atletes,
+  resultats. **Res al corpus.**
+- **Els Jocs de 1991 i 2005 organitzats a Andorra**: com es van fer, quines
+  instal·lacions, què hi va costar.
+- **Quin any organitzarà Andorra els tercers Jocs** (2021 o 2023), i què va
+  passar realment.
+- **El medaller andorrà complet** de les setze edicions.
+- **Les federacions esportives andorranes**, esmentades i mai descrites.
+- **El treball de recerca d'Oriol Fernández Vilarrubla** sobre els Jocs, que la
+  font cita com a bibliografia. **Font localitzada i no llegida.**
+- **L'himne andorrà**: el corpus no té fitxa de *El gran Carlemany*. Vegeu
+  [símbols](../../institucions/simbols/README.md).
+
+## Related
+
+- [Esports](../README.md)
+- [L'Efpem](../formacio-esportiva/lefpem.md)
+- [L'esquí escolar](../../societat/educacio/lesqui-escolar.md)
+- [Andorra com a microestat](../../institucions/petits-estats/andorra-com-a-microestat.md)
+- [El reconeixement internacional](../../institucions/relacions-exteriors/el-reconeixement-internacional.md)
+- [Turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md)
