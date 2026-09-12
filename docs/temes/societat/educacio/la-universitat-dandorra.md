@@ -111,6 +111,59 @@ universitat que hi ha: **gestiona també els estudiants que són a fora**. En un
 país que exporta els seus universitaris per disseny, **la diàspora d'estudiants
 és una competència administrativa.**
 
+## On estudien realment els universitaris andorrans
+
+La ponència de [Roser Bastida](./el-marc-legal-de-leducacio.md), al mateix
+volum, dona **la xifra que el rector no dona**: on eren els universitaris
+d'Andorra el curs **1998-1999**.
+
+| On | Estudiants |
+| --- | --- |
+| **Espanya** | **844** |
+| **França** | **320** |
+| **Andorra** | **219** |
+| Estats Units | 10 |
+| Gran Bretanya | 3 |
+| Holanda | 3 |
+| Canadà | 2 |
+| Bèlgica | 1 |
+| Alemanya, Dinamarca, Suïssa | *(residual)* |
+| **TOTAL** | **1.405** |
+
+**Avís de lectura:** el quadre del PDF està **mal reconegut per l'OCR** i el
+corpus n'ha **reconstruït l'alineació** entre països i xifres. Els tres primers
+valors són inequívocs per magnitud; **els residuals són inferència del corpus** i
+sumen 2 sobre el total declarat de 1.405. **Es marca com a tal.**
+
+### Una discrepància amb la font que el corpus ja tenia
+
+| Font | Espanya | França | Andorra |
+| --- | --- | --- | --- |
+| **Bastida, curs 1998-99** | **60,1%** | **22,8%** | **15,6%** |
+| [Molla, ~2003](../../../fonts/molla-catala-andorra.md) ([els tres sistemes](./els-tres-sistemes.md)) | **50,3%** | **31,9%** | **15,2%** |
+
+**La proporció que estudia a Andorra és pràcticament idèntica** (15,6 contra
+15,2) — **i les altres dues es mouen deu punts cadascuna**, en direccions
+oposades.
+
+**El corpus no tria.** Podria ser un desplaçament real cap a França entre 1999 i
+2003, o dues maneres diferents de comptar. **Es registra el desacord.** El que
+sí que és robust, perquè les dues fonts coincideixen: **aproximadament un de
+cada sis universitaris andorrans estudia a Andorra, i cinc de cada sis a
+fora.**
+
+### I la font ho celebra
+
+> «el model universitari públic andorrà… acull un nombre d'estudiants d'Andorra
+> inferior al de les universitats veïnes, la qual cosa **no només és natural,
+> sinó que és desitjable** que la gran majoria de joves es formin més enllà de
+> les nostres fronteres, és a dir, **més enllà dels 468 km² que ens són
+> propis**.»
+
+**Dues fonts independents del mateix volum diuen el mateix**, el rector i el
+ministeri: **que els universitaris marxin no és un fracàs del sistema, és el
+sistema.**
+
 ## El que la font demana i el corpus no dona per fet
 
 Tot el capítol de «model» i «perspectives» està escrit en **deure**: la

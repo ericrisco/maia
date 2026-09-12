@@ -55,3 +55,4 @@ anuals que són font primària i no s'han consultat. **Buit registrat.**
 - [Comerç](../comerc/comerc.md) — l'altre pilar.
 - [Transformació econòmica](../transformacio-economica/transformacio-economica.md) — com s'hi va arribar.
 - [Treball](../../societat/treball/treball.md) — els temporers.
+- [L'esquí escolar](../../societat/educacio/lesqui-escolar.md) — la neu com a assignatura obligatòria.

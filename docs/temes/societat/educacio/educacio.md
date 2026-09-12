@@ -79,3 +79,5 @@ premsa i s'haurien de reverificar.
 - [El marc legal de l'educació](./el-marc-legal-de-leducacio.md) — les lleis i els dos tractats.
 - [El mapa escolar del 2000](./el-mapa-escolar-del-2000.md) — centre per centre.
 - [L'escola Nostra Senyora de Meritxell](./lescola-nostra-senyora-de-meritxell.md) — l'educació especial.
+- [La formació d'adults](./la-formacio-dadults.md) — i el lectorat de català a Praga.
+- [L'esquí escolar](./lesqui-escolar.md) — l'assignatura obligatòria del segon trimestre.

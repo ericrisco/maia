@@ -159,6 +159,129 @@ declarada: **l'homologació dels diplomes d'informàtica amb França «es troba 
 curs»**. Per a la resta, **doble titulació**: la d'Andorra i la de la
 universitat sòcia.
 
+## Les xifres: 9.363 alumnes
+
+La font dona **la població escolar sencera del curs 1999-2000, centre per
+centre**. És **el conjunt de dades més complet que el corpus té sobre res**, i
+**quadra internament**: cada subtotal suma i el total general també.
+
+| Sistema | Alumnes | % |
+| --- | --- | --- |
+| **Francès** | **3.585** | 38,3% |
+| **Espanyol** | **3.578** | 38,2% |
+| **Andorrà** | **2.200** | 23,5% |
+| **TOTAL** | **9.363** | |
+
+**Divuit anys després de fundar-se, l'escola andorrana escolaritzava menys d'un
+de cada quatre alumnes del país.** I els dos sistemes forans estaven **empatats
+a set alumnes de diferència** — un equilibri tan exacte que costa de creure que
+sigui casual, i que la font mateixa atribueix a la política dels coprínceps
+([la cronologia](./la-cronologia-escolar.md)).
+
+### Sistema espanyol — 3.578
+
+**Escoles públiques (1.594):**
+
+| Centre | Alumnes |
+| --- | --- |
+| Canillo — infantil i primària | 22 |
+| Encamp — infantil i primària | 159 |
+| Pas de la Casa — infantil i primària | 62 |
+| Ordino — infantil i primària | 29 |
+| La Massana — infantil i primària | 114 |
+| Andorra la Vella — infantil i primària | 200 |
+| **Institut d'educació secundària de la Margineda**, Andorra la Vella — ESO | **532** |
+| **Institut de batxillerat d'Aixovall**, Sant Julià de Lòria | **180** |
+| Sant Julià de Lòria — infantil i primària | 134 |
+| Escaldes-Engordany — infantil i primària | 162 |
+
+**Escoles congregacionals (1.939):**
+
+| Centre | Alumnes |
+| --- | --- |
+| **Col·legi Sant Ermengol**, Andorra la Vella — infantil, primària, secundària i batxillerat | **797** |
+| **Col·legi Janer**, Andorra la Vella — infantil, primària, secundària i FP | **812** |
+| **Col·legi Sagrada Família**, Escaldes-Engordany — infantil, primària i secundària obligatòria | **330** |
+
+**Escola privada (45):** **Col·legis del Pirineu**, a **l'Aldosa de la Massana**
+— infantil, primària, secundària i batxillerat.
+
+**El dato que salta:** dins del sistema espanyol, **els centres congregacionals
+tenien més alumnes que els públics** (1.939 contra 1.594). L'ensenyament
+espanyol a Andorra era, el 2000, **majoritàriament religiós** — coherent amb el
+fet que hi va entrar **per l'església el 1882**, mig segle abans que per l'estat
+([la cronologia](./la-cronologia-escolar.md)).
+
+### Sistema francès — 3.585
+
+| Centre | Alumnes |
+| --- | --- |
+| Canillo — maternal i elemental | 66 |
+| Encamp — maternal i elemental | 218 |
+| Pas de la Casa — maternal i elemental | 118 |
+| Ordino — maternal i elemental | 101 |
+| La Massana — maternal i elemental | 207 |
+| Andorra la Vella — maternal i elemental | 577 |
+| **Santa Coloma** (Andorra la Vella) — maternal i elemental | **79** |
+| Sant Julià de Lòria — maternal i elemental | 242 |
+| Escaldes-Engordany — maternal i elemental | 531 |
+| **Liceu Comtes de Foix**, Andorra la Vella — secundari, FP i batxillerat | **1.446** |
+
+**Un sol centre, el liceu, tenia el 40% de tot el sistema francès** i **més
+alumnes que tot el sistema públic espanyol junt**. El Comte de Foix no és una
+escola: és **la institució educativa més gran del país**.
+
+### Sistema andorrà — 2.200
+
+**Escola Andorrana (2.019):**
+
+| Centre | Alumnes |
+| --- | --- |
+| Canillo — maternal i primera ensenyança | 46 |
+| Encamp — maternal i primera ensenyança | 248 |
+| Pas de la Casa — maternal i primera ensenyança | 50 |
+| La Massana — maternal i primera ensenyança | 219 |
+| Andorra la Vella — maternal i primera ensenyança | 360 |
+| **Andorra la Vella — segona ensenyança** | **331** |
+| Sant Julià de Lòria — maternal i primera ensenyança | 211 |
+| Escaldes-Engordany — maternal i primera ensenyança | 469 |
+| **Escaldes-Engordany — batxillerat** | **85** |
+
+**Altres centres del sistema andorrà (181):**
+
+| Centre | Alumnes |
+| --- | --- |
+| **Escola d'Informàtica d'Andorra**, Sant Julià de Lòria — FP | 50 |
+| **Centre d'Aprenents**, Andorra la Vella — FP | 26 |
+| **Escola especialitzada Nostra Senyora de Meritxell**, Andorra la Vella | **105** — [fitxa](./lescola-nostra-senyora-de-meritxell.md) |
+
+**Els 85 del batxillerat andorrà** són, el 1999-2000, **la primera generació
+sencera educada en català des de maternal**. Cinc anys abans aquell curs no
+existia ([la cronologia](./la-cronologia-escolar.md)).
+
+I **Ordino no hi és**: el sistema andorrà encara no tenia escola a Ordino, quan
+els altres dos sí.
+
+## Els nivells, comparats
+
+Els tres sistemes s'organitzen amb lleis pròpies —**andorrana de 1994, francesa
+de 1990, espanyola de 1989**— i amb noms diferents per a les mateixes edats:
+
+| Edats | Andorrà | Espanyol | Francès |
+| --- | --- | --- | --- |
+| 3-6 | **Maternal** | Educació Infantil | **Maternal** |
+| 6-12 | **Primera Ensenyança** | Educació Primària | **Elemental** |
+| 12-16 | **Segona Ensenyança** | ESO | **Secundària** |
+| 16-18 | **Batxillerat / FP** | Batxillerat / FP | Batxillerat / FP |
+
+**Els tres batxillerats estan homologats entre ells**, cosa que permet «la
+permeabilitat i l'accés a l'ensenyament superior a Andorra, Espanya o França».
+
+**Aquesta taula és la font del lèxic escolar andorrà** —*primera ensenyança*,
+*segona ensenyança*, *maternal*— que el corpus tenia registrat com a buit a
+[els tres sistemes](./els-tres-sistemes.md). **Els noms andorrans no són ni els
+espanyols ni els francesos: són propis.**
+
 ## Els dos ensenyaments transversals
 
 La font n'assenyala dos amb **el mateix objectiu declarat — la integració a la
@@ -193,3 +316,5 @@ societat on es viu**:
 - [L'andorranització](./landorranitzacio.md)
 - [L'escola Nostra Senyora de Meritxell](./lescola-nostra-senyora-de-meritxell.md)
 - [La Universitat d'Andorra](./la-universitat-dandorra.md)
+- [La formació d'adults](./la-formacio-dadults.md)
+- [L'esquí escolar](./lesqui-escolar.md)

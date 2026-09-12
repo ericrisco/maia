@@ -77,3 +77,4 @@ La duresa de la norma mesura la pressió sobre la llengua. Vegeu
 
 - [Qui parla què](./qui-parla-que.md) — les dades que expliquen la llei.
 - [La Constitució de 1993](../../historia/constitucio-1993/constitucio-1993.md) — l'article 2.1.
+- [La formació d'adults](../../societat/educacio/la-formacio-dadults.md) — el diploma de català com a credencial laboral.
