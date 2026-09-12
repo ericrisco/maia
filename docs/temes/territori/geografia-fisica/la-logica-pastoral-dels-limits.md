@@ -104,7 +104,19 @@ andorrà, on es documenta, i si encara s'exerceix. Va al
 [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md), al costat
 d'**empriu**, **emprivari** i **defens**, que el corpus ja té.
 
+**Buscat i no trobat.** *La Coutume d'Andorre* de Brutails (1904) dedica un
+capítol sencer als béns i als drets d'ús sobre els comunals i **no l'esmenta cap
+vegada**. Que la font més minuciosa sobre el dret andorrà consuetudinari no el
+reculli **no vol dir que no existeixi**, però **puja el llistó**: qui el torni a
+citar hauria de dir d'on el treu.
+
 ## Dos exemples concrets del desordre ordenat
+
+> **L'estructura d'això ja no és un misteri.** Brutails recull la divisió del sòl
+> andorrà en **tres franges superposades** —**rebaixants** del quart, **comunals**
+> de la parròquia i **emprius** on **dues parròquies exerceixen drets alhora**— i
+> avisa que **el règim està fet de títols particulars, no de principis**. Vegeu
+> [el sòl comunal](./el-sol-comunal.md).
 
 **Ordino – la Massana:** la frontera **segueix la cresta**, **però l'Angonella és
 empriu**.

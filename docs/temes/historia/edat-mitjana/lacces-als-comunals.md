@@ -214,10 +214,18 @@ gairebé cap**:
 3. ***Parra*** i ***stali***.
 4. **Sant Bernabé (7 de juny)** com a data de dret: hi ha més drets que hi
    pengin?
-5. Si el sistema d'**aprés** i **artiga** **va sobreviure** i fins quan.
+5. ~~Si el sistema d'**aprés** i **artiga** **va sobreviure** i fins quan.~~
+   **VA SOBREVIURE, i el 1904 encara funcionava**, amb un altre nom: **les
+   bohigues**, «terres comunes concedides, amb vista al conreu, a particulars»,
+   demanades en una sessió pública del consell de parròquia anomenada **el Consell
+   de les bohigues**. La cadena va del **1366** al **1904** passant pel **Politar**
+   i per un decret del Consell General del **4 de juny de 1878**. Vegeu
+   [el sòl comunal](../../territori/geografia-fisica/el-sol-comunal.md).
 6. Tots els mots d'aquesta fitxa contra el ***Vocabulari d'Andorra*** (1992).
 
 ## Related
+
+- [El sòl comunal](../../territori/geografia-fisica/el-sol-comunal.md) — com era el mateix règim cinc segles després.
 
 - [El Llibre de la Terra](../../institucions/consell-general/el-llibre-de-la-terra.md) — on es van compilar.
 - [La quèstia](../antic-regim/la-questia.md) — l'altre gran tema de les ordinacions.
