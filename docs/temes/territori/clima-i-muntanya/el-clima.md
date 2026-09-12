@@ -72,8 +72,10 @@ Aquests sis mesos són **la base material** de
 - **Les allaus**: buscades expressament i **no documentades aquí**. En un país
   d'aquesta verticalitat són un fet de seguretat i de vida quotidiana, amb servei
   propi de prevenció. **Buit registrat, prioritari.**
-- El **canvi climàtic** i què li fa a la temporada de neu — que és una qüestió
-  econòmica de primer ordre per a Andorra i no hi ha ni una línia.
+- ~~El **canvi climàtic** i què li fa a la temporada de neu — «no hi ha ni una
+  línia».~~ **JA HI HA FITXA:**
+  [El canvi climàtic a Andorra](./el-canvi-climatic.md) — les màximes d'estiu
+  pugen **0,45 °C per dècada** i la pluja cau un **4%**.
 - Les dades oficials andorranes de clima, per estació.
 - El **lèxic de la neu i del temps**: Andorra va col·laborar en el *Vocabulari
   de la neu* i el *Diccionari de la neu* del TERMCAT. **Aquest lèxic és el que

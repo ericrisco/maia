@@ -280,8 +280,8 @@ sense suavitzar: **és el que diu la font, i qui la diu importa.**
   recupera): [els petits estats comparats](./els-petits-estats-comparats.md).
   **Els gràfics del PDF són imatges i no s'han extret**, de manera que hi ha el
   comentari del Departament i no totes les xifres. Queda obert **fer-ne OCR**.
-- **Els Jocs dels Petits Estats d'Europa** i la participació andorrana. Vegeu
-  [esports](../../esports/README.md).
+- ~~**Els Jocs dels Petits Estats d'Europa** i la participació andorrana.~~
+  **JA HI HA FITXA:** [Els Jocs dels Petits Estats d'Europa](../../esports/competicio/els-jocs-dels-petits-estats.md).
 - **Les trobades anuals de presidents de parlament** dels petits estats: **2014 a
   Andorra, 2015 a Mònaco**.
 - **Karl Zemanek** i on va escriure l'«OJNI».

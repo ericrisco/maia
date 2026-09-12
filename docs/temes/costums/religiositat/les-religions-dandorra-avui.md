@@ -104,23 +104,42 @@ pot dir de quin any és cadascuna.**
 
 ## Buits registrats
 
-1. **Si hi ha mesquita o sala d'oració musulmana a Andorra.** **Prioritari.**
+1. **Si hi ha mesquita o sala d'oració musulmana a Andorra.** **Prioritari**, i
+   **ara se sap on mirar**: des del 2025, el **Registre d'entitats religioses** ha
+   de fer constar «**el lloc o llocs de culte al Principat**» de cada entitat
+   inscrita, i és públic.
 2. **D'on ve la població musulmana**, si no és majoritàriament marroquina.
 3. **Xifres oficials de confessions.** Les dues que hi ha són estimacions de
-   premsa.
-4. **Quan s'implanta cada confessió** a Andorra. **Cap data a la font.**
+   premsa — i **no n'hi pot haver de censals**: l'article 11.1 de la Constitució
+   diu que **ningú no pot ser obligat a declarar la seva religió**. El que sí que
+   existeix des del 2025 és **el nombre aproximat de practicants** que cada entitat
+   declara al Registre.
+4. **Quan s'implanta cada confessió** a Andorra. **Cap data a la font** — però el
+   Registre n'ha de fer constar «**la data de l'establiment de la religió a
+   Andorra**».
 5. **William Danjon** i l'arribada del bahaisme.
-6. **El marc legal**: què diu la Constitució de 1993 sobre llibertat religiosa i
-   quin estatut té l'Església catòlica
-   ([el Concordat del 2008](../../institucions/coprincipat/el-concordat-del-2008.md)).
+6. ~~**El marc legal**: què diu la Constitució sobre llibertat religiosa i quin
+   estatut té l'Església catòlica.~~ **TANCAT:**
+   [el registre d'entitats religioses](./el-registre-dentitats-religioses.md).
+   **Article 11 de la Constitució**: llibertat ideològica, religiosa i de culte,
+   **ningú no pot ser obligat a declarar la seva religió** —per això no hi pot
+   haver cens— i **garantia nominal a l'Església catòlica** de «col·laboració
+   especial amb l'Estat d'acord amb la tradició andorrana».
 7. **La missa rociera** i **les janeiras**: quan, on, des de quan.
 8. **Si hi ha comunitat jueva**, budista o ortodoxa. **La font no en diu res** i
    hi ha **578 russos i 122 ucraïnesos** al país.
-9. **Com conviuen aquestes confessions amb un cap d'estat que és bisbe**
-   ([el Coprincipat](../../institucions/coprincipat/el-coprincipat.md)). **La
-   pregunta no la fa cap font i és òbvia.**
+9. ~~**Com conviuen aquestes confessions amb un cap d'estat que és bisbe.** La
+   pregunta no la fa cap font i és òbvia.~~ **LA RESPON EL DRET, I ÉS
+   ESTRUCTURAL.** Amb la **Llei 2/2025**, les confessions no catòliques obtenen
+   personalitat jurídica **inscrivint-se** —vint persones, estatuts i resolució—;
+   l'Església catòlica la té **tan bon punt té la canònica i el Bisbat d'Urgell ho
+   notifica** al Registre, que «n'acusa rebut». **Una via és constitutiva i
+   l'altra declarativa.** Vegeu
+   [el registre d'entitats religioses](./el-registre-dentitats-religioses.md).
 
 ## Related
+
+- [El registre d'entitats religioses](./el-registre-dentitats-religioses.md) — el marc legal, i on són les dades que falten.
 
 - [La religiositat](./religiositat.md) — la catòlica, que és la de sempre.
 - [La Inquisició a Andorra](./la-inquisicio-a-andorra.md) — l'altre extrem de la sèrie.
