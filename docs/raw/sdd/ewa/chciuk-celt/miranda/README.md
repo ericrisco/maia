@@ -122,6 +122,14 @@ confirma que admet consultes per correspondència i sol·licituds de reproducci�
 - consulta presencial amb cita prèvia, dies laborables de 9:00 a 13:30;
 - serveis de sala de consulta i reprografia.
 
+L'avís temporal publicat al mateix portal suspèn la consulta d'una llista
+concreta de fons per una incidència tècnica. La llista inclou el *Centro de
+Reclutamiento. Gerona*, però no la *Dirección del Campo de Concentración de
+Miranda de Ebro* (DCME). Per tant, no hi ha en aquesta pàgina cap avís que
+impedeixi sol·licitar l'expedient DCME 305324/6633. El nom de Girona en el
+possible full de conducció de Hughes designaria, a més, el seu itinerari de
+detenció, no el fons militar de reclutament temporalment suspès.
+
 S'han conservat localment la pàgina oficial de serveis i el formulari Word
 oficial de dues pàgines. El formulari demana identificació del sol·licitant i,
 si la persona documentada ha mort, relació o afinitat i motiu de la petició.
