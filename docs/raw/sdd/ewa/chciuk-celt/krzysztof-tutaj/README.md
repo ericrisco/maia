@@ -34,6 +34,10 @@ documenta el catàleg públic del fons A i les signatures candidates per
 formular una consulta precisa: el catàleg no exposa la signatura nominal de
 l'expedient.
 
+El subdirectori `ipn-2025/` controla una reaparició bibliogràfica posterior:
+l'índex d'un volum de l'IPN situa Tutaj a la p. 164 del capítol de Waldemar
+Grabowski sobre el MSW polonès a França i la comunicació París–Londres.
+
 ## Què prova i què no
 
 L'interval de servei inclou el desembre de 1942, data secundària del pas de
