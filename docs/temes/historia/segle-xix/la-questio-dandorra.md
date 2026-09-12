@@ -140,6 +140,13 @@ que li diu que hi va haver sang**.
 **Buit registrat:** què va passar exactament, i qui va morir. El document ho diu
 de passada i no ho detalla.
 
+**El que sí que se sap ara és com es deien els dos costats.** Claudine Tarrene
+parla de «**les rivalitats entre els casalers i els anfochs**», i hi afegeix el
+motor polític: **l'afiliació del bisbe Josep Caixal a la causa carlina** i uns
+successors que «s'oposaven encara més a les reformes»
+([els casalers i els anfochs](./els-casalers-i-els-anfochs.md)). **Els dos
+períodes sagnants queden dins el mateix arc.**
+
 ## La doctrina de la representació exterior
 
 El Consell General hi fa una reclamació concreta i verificable: **les relacions
@@ -254,6 +261,7 @@ d'estat.** El corpus no coneix cap altre cas, i no sap com va acabar.
 ## Related
 
 - [La Nova Reforma de 1866](./nova-reforma.md) — la llei que aquest document diu que va ser alterada.
+- [Els casalers i els anfochs](./els-casalers-i-els-anfochs.md) — com es deien els bàndols, i què els movia.
 - [Guillem d'Areny i Plandolit](./guillem-dareny-plandolit.md) — qui la va impulsar.
 - [La qüestió duanera de 1895](./la-questio-duanera-de-1895.md) — l'any següent, i el mateix bisbe acusat altra vegada.
 - [El desenllaç de la qüestió duanera](./el-desenllac-de-la-questio-duanera.md) — la carta pastoral que lliga les dues crisis.

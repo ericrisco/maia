@@ -61,8 +61,20 @@ l'imprès de la Seu**. Buit registrat.
 
 ## El que falta
 
-Què va motivar la reforma i contra què. Qui era Areny i Plandolit i amb qui es va
-enfrontar.
+~~Què va motivar la reforma i contra què.~~ **TANCAT A MITGES.** La va motivar
+**la crisi de l'últim terç del segle**, amb **les indústries del ferro i de la
+llana caient** i els primers indicis de **recursos agrícoles insuficients**; i
+**contra qui** es feia té nom de bàndol: **els casalers i els anfochs**, amb el
+**carlisme del bisbe Caixal** al darrere
+([els casalers i els anfochs](./els-casalers-i-els-anfochs.md)).
+
+**I explica per què no va servir de res:** els successors de Caixal «s'oposaven
+encara més a les reformes», de manera que **la societat va continuar dividint-se
+en bàndols fins a finals del segle XIX**. Els dos períodes «ruidosos y
+sangrientos» del corpus —**1868-1878** i **1883-1886**— **són tots dos
+posteriors a aquesta llei**.
+
+Queda obert **qui era Areny i Plandolit i amb qui es va enfrontar** en concret.
 
 L'anomenada **«Qüestió d'Andorra»** del segle XIX, que aquest article registrava
 com a no investigada, **ja té fitxa**:
@@ -72,6 +84,7 @@ amb el copríncep episcopal, amb els períodes datats i l'origen documentat.
 ## Related
 
 - [La qüestió d'Andorra](./la-questio-dandorra.md) — el conflicte que ve tot seguit, i l'acusació sobre aquesta llei.
+- [Els casalers i els anfochs](./els-casalers-i-els-anfochs.md) — contra què es feia la reforma, i per què no va calmar res.
 - [Democratització](../democratitzacio/democratitzacio.md) — què va venir després.
 - [Onomàstica](../../llengua/onomastica/onomastica.md) — la casa com a identitat.
 - [El Consell General](../../institucions/consell-general/el-consell-general.md) — la institució reformada.
