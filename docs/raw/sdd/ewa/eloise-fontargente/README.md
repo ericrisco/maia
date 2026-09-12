@@ -305,6 +305,24 @@ documents històrics**. La tensió és productiva: la intenció testimonial expl
 el valor indiciari del relat; no substitueix la verificació externa dels noms,
 dates, diàlegs ni itineraris.
 
+## Un exemplar dedicat el 27 de maig de 1974
+
+El blog *Pels Camins d'Utopia*, de Jordi Soler Vinyes, reuneix documentació
+personal del seu pare, l'escriptor i polític Josep Soler Vidal. Entre les peces
+mostra una anteportada que el peu identifica com a *Andorra: cadena de evasión
+(1942-1944)*. La imatge permet llegir el destinatari «A l'amic Soler», la
+signatura de Viadiu i la data **`27-V-74`**; la resta de la frase manuscrita no
+s'ha fixat perquè el traç és ambigu. El lema imprès en castellà dedica l'obra
+als qui confiaren en la Carta de l'Atlàntic.
+
+La peça és una font privada publicada el 2011, no una fitxa editorial. La foto
+no inclou portada ni crèdits i la identificació del títol depèn del peu del
+propietari. Amb aquesta reserva, constitueix evidència material que almenys un
+exemplar castellà dedicat ja era en mans d'un lector el 27/05/1974. Això reforça
+—sense convertir-la en data oficial de llançament— la possibilitat que la
+castellana circulés mesos abans de la ressenya de setembre-octubre i abans de la
+primera catalana amb dipòsit legal `B. 43183-1974`.
+
 ## La capa audiovisual i el seu límit
 
 3Cat manté públiques les dues parts de la minisèrie *Andorra. Entre el torb i
@@ -366,6 +384,8 @@ històric.
 | `francesc-viadiu-fons/cortes-1992-historia-literatura-apatrides.pdf`, `.txt` | Irene Cortés Company, article acadèmic, DOI `10.14198/AnContemp.1991-1992.8-9.11`: finalització el 1951, noms falsos i lectura com a realisme documental èpic. |
 | `francesc-viadiu-fons/cortes-1992-page-177.png`, `-179.png`, `-188.png`, `-189.png` | Renders verificats de les quatre pàgines decisives. |
 | `francesc-viadiu-fons/rua-cortes-*.json` | Metadades REST oficials de RUA: citació, revisió per parells, accés obert i bitstream original. |
+| `francesc-viadiu-fons/camins-utopia-josep-soler.html` | Captura del blog familiar de Jordi Soler Vinyes, publicat el 24/11/2011; context, autoria i peu que atribueix la dedicatòria a *Andorra: cadena de evasión*. |
+| `francesc-viadiu-fons/dedicatoria-viadiu-josep-soler-maig-1974.jpg` | Imatge original servida per Blogger; dedicatòria, signatura i data manuscrita `27-V-74`, verificades visualment. |
 | `internet-archive-isbn-search.json` | Cerca pels ISBN català i francès: zero resultats. |
 | `openlibrary-isbn-search.json` | Registre bibliogràfic sense ebook ni text complet. |
 
@@ -419,6 +439,8 @@ Els SHA-256 de tots els fitxers es van calcular el 12/09/2026. Destaquen:
     anomena exactament «document històric».
 15. Construir un mapa separat d'àlies narratius i identitats documentades; no
     completar correspondències només per semblança biogràfica.
+16. Comparar el lema imprès i la disposició de l'anteportada dedicada a Josep
+    Soler amb un exemplar complet de la castellana de Martínez Roca.
 
 ## Drets
 
