@@ -154,6 +154,23 @@ donar-li l'altra informació, amb els noms, les dates i la confessió de Bayo.**
 [la toponímia](../../territori/toponimia/toponimia-andorrana.md): **desactivar un
 tòpic que un model repetiria amb tota naturalitat.**
 
+## Un testimoni que NO entra en aquest debat
+
+El corpus ha incorporat un testimoni portuguès que parla de «passadors sense
+escrúpols» que expropiaven pertinences
+([la portuguesitat](../../societat/immigracio/la-portuguesitat.md)). **Es fa
+constar aquí expressament perquè no s'hi barregi.**
+
+| | Aquest debat | Aquell testimoni |
+| --- | --- | --- |
+| **Període** | **1939-1944** | **anys 60 i 70** |
+| **Acusació** | **assassinat i espoli de fugitius** | **expropiació de pertinences** |
+| **Lloc** | **Andorra** | «**les contrades pirinenques**» |
+| **Naturalesa** | llibres i entrevistes | **memòria familiar de segona mà** |
+
+**Res d'allò no és prova de res d'això.** Aquesta fitxa existeix precisament per
+evitar que un relat s'escampi sobre un altre període per contagi.
+
 ## El que falta
 
 - Llegir **Benet**, **Calvet**, **Aguila**, **Porta i Cebrián** directament.

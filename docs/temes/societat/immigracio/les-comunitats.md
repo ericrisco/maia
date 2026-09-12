@@ -186,6 +186,13 @@ De **l'anuari del *Diari d'Andorra* del 2015**
 | --- | --- |
 | **Associació Cultural de Residents d'Alto Minho** — **té la seu a l'artèria central d'Encamp** | |
 
+*(Aquesta llista és del 2015 i ja s'ha quedat curta. Cal afegir-hi el **Grup de
+Folklore 'Casa de Portugal'** —fundat l'**1 de maig de 1996**—, la **Confraria de
+la Mare de Déu de Fàtima** i l'**Associació de Trás-os-Montes i Alto Douro**, que
+el 2020 constava com a «recentment creada»:
+[la portuguesitat](./la-portuguesitat.md). **Són tres més per comarca i per
+devoció, cosa que reforça la lectura d'aquesta fitxa.**)*
+
 **Vint-i-una associacions.** I la manera com estan repartides diu més que la
 llista: **hi ha sis associacions espanyoles per regió i cap associació
 «espanyola»**, i **dues de portugueses per territori** —el Pas de la Casa i
@@ -247,3 +254,4 @@ pena al costat de
 ## Related
 
 - [Les religions d'Andorra avui](../../costums/religiositat/les-religions-dandorra-avui.md) — les mateixes comunitats, per confessió.
+- [La portuguesitat](./la-portuguesitat.md) — la tercera nacionalitat, amb calendari i dates.

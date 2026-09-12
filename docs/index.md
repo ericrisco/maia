@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**310** documents · **88** fonts · **0** aptes com a model de llengua · **107** temes amb contingut.
+**311** documents · **89** fonts · **0** aptes com a model de llengua · **107** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -682,6 +682,7 @@
 | [Immigració](temes/societat/immigracio/immigracio.md) | `temes/societat/immigracio` | compilada | contemporania | no | `viquipedia-ca` |
 | [La immigració llatinoamericana](temes/societat/immigracio/la-immigracio-llatinoamericana.md) | `temes/societat/immigracio` | compilada | contemporania | no | `de-la-parte-immigracio-cultura` |
 | [La piràmide de prestigi](temes/societat/immigracio/la-piramide-de-prestigi.md) | `temes/societat/immigracio` | compilada | contemporania | no | `mico-interculturalitat` |
+| [La portuguesitat](temes/societat/immigracio/la-portuguesitat.md) | `temes/societat/immigracio` | compilada | contemporania | no | `goncalves-multiculturalitat-lusitana` |
 | [La societat segmentada](temes/societat/immigracio/la-societat-segmentada.md) | `temes/societat/immigracio` | compilada | contemporania | no | `de-la-parte-immigracio-cultura` |
 | [Les comunitats](temes/societat/immigracio/les-comunitats.md) | `temes/societat/immigracio` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [L'experiència de migrar](temes/societat/immigracio/lexperiencia-de-migrar.md) | `temes/societat/immigracio` | compilada | contemporania | no | `font-fenomens-socials-immigracio` |
@@ -887,6 +888,7 @@
 | [`garcia-ensenyament-confessional`](fonts/garcia-ensenyament-confessional.md) | César García i Bernardo · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`garcia-puy-formacio-professional`](fonts/garcia-puy-formacio-professional.md) | Carme Garcia i Puy · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`gelabert-jocs-petits-estats`](fonts/gelabert-jocs-petits-estats.md) | Olga Gelabert i Fàbrega · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`goncalves-multiculturalitat-lusitana`](fonts/goncalves-multiculturalitat-lusitana.md) | José Luis Gonçalves Carvalho · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
 | [`govern-andorra-web`](fonts/govern-andorra-web.md) | Govern del Principat d'Andorra | informació institucional pública | si |
 | [`guillamet-la-recerca`](fonts/guillamet-la-recerca.md) | Jordi Guillamet i Anton · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`iec-aldc-andorra`](fonts/iec-aldc-andorra.md) | Institut d'Estudis Catalans | publicació acadèmica de l'IEC, accés obert | pendent |

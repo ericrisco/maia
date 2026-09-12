@@ -133,6 +133,26 @@ presumiblement assassinats»; el **cas Grumbach**, amb **judici a Foix el 1953**
 i unes restes que **Benet** atribueix possiblement als **Schwabb**, i que
 especula que podrien ser **un pare i un fill adolescent**.
 
+## L'ofici no s'acaba el 1945
+
+**El corpus tenia els passadors com un fenomen de la Segona Guerra Mundial.** Un
+testimoni de la comunitat portuguesa d'Andorra els allarga **fins als anys 60 i
+70**: els emigrants portuguesos que anaven a França **també van haver de passar
+els Pirineus amb passador**, i alguns van topar amb «**passadors sense escrúpols
+que a les contrades pirinenques se'n van aprofitar per expropiar-los les seves
+pertinences**»
+([font](../../../fonts/goncalves-multiculturalitat-lusitana.md)).
+
+**Amb tres advertiments enganxats**, perquè aquest testimoni **no es pot llegir
+cap enrere**: és **memòria familiar de segona mà**, és d'**un altre període**, i
+és **una altra acusació** —expropiació, no homicidi— que a més **no se situa a
+Andorra** sinó «a les contrades pirinenques». **No val com a argument sobre
+[la llegenda negra](../historiografia/la-llegenda-negra-dels-passadors.md).**
+
+**El que obre és una línia nova:** quina ruta feien els portuguesos cap a França
+als anys 60 i 70, i quin paper hi va tenir Andorra. Vegeu
+[la portuguesitat](../../societat/immigracio/la-portuguesitat.md).
+
 ## Els noms que aquesta fitxa deixa oberts
 
 **Antoni Bàrcia**, «el doctor Coco» de Viadiu. **Carla Kimhi.** L'escriptor
@@ -147,4 +167,5 @@ Rothschild** per les xarxes andorranes, segons **Alberto Poveda**.
 - [Guerres i neutralitat](./guerres-i-neutralitat.md)
 - [La llegenda negra dels passadors](../historiografia/la-llegenda-negra-dels-passadors.md)
 - [El contraban](../contraban/contraban.md) — l'ofici de base.
+- [La portuguesitat](../../societat/immigracio/la-portuguesitat.md) — l'ofici als anys 60 i 70, per testimoni.
 - [Ràdio Andorra](../../societat/mitjans/radio-andorra.md) — l'altra cara de la neutralitat.
