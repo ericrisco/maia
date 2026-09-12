@@ -24,7 +24,8 @@ Sesiones de Cortes** espanyol de juny de **1895**
 > estranger**. Les dates, les xifres i les ordres ministerials són
 > comprovables; **les afirmacions sobre la sobirania d'Andorra són la tesi
 > espanyola de 1895** i queden marcades com a tals. Les citacions s'han netejat
-> d'errors d'OCR.
+> d'errors d'OCR i **es donen en castellà, la llengua original**: una citació
+> traduïda ja no és una citació.
 
 ## Com es va tancar la porta
 
@@ -40,7 +41,7 @@ Llavors va passar això —i és d'un absurd que val la pena resseguir:
 | **anys 1860** | Un andorrà monta **una petita fàbrica de teixits** una mica més fins del que es feia al país |
 | | Els **empleats de la duana de la Seu** alerten Madrid que allò pot afavorir el frau |
 | **1869 i 1880** | Dues **reials ordres** del Ministeri d'Hisenda: les «manufactures» d'Andorra paguen aranzel |
-| | La duana de la Seu entén per **«manufactures»** no només els teixits, sinó **«les taules de fusta, la mantega de vaca, els formatges, els pernils, altres productes del porc»** |
+| | La duana de la Seu entén per **«manufactures»** no només els teixits, sinó **«las tablas de madera, la manteca de vaca, los quesos, los jamones, otros productos del cerdo»** |
 | **1886 o 1887** | Una ordre de la **Direcció General de Duanes**: com que **no hi ha cap tractat de comerç** amb la Vall d'Andorra, qualsevol franquícia és incompatible amb la llei aranzelària. Tot passa a pagar per **la primera columna** de l'aranzel |
 
 **Una fàbrica de roba va acabar posant aranzel al formatge i al pernil.** El
@@ -68,13 +69,13 @@ consums.
 
 I la conseqüència, dita sense eufemismes a l'exposició de motius:
 
-> «...d'on ha resultat **la misèria d'aquest país** i la disminució natural del
-> consum de mercaderies espanyoles.»
+> «...**de donde ha resultado la miseria de este país** y la disminución natural
+> del consumo de mercaderías españolas.»
 >
 > — **Apèndix 40 al núm. 89**, 27 de març de 1895
 
-> «...l'agricultura i la indústria pecuària **estan gravades com a l'edat
-> mitjana**.»
+> «...la agricultura y la industria pecuaria **están gravadas como en la Edad
+> Media**.»
 >
 > — **el mateix apèndix**
 
@@ -82,14 +83,16 @@ I la conseqüència, dita sense eufemismes a l'exposició de motius:
 
 L'apèndix el diu obertament, i és **geopolític**:
 
-> «...compartint-se allà la sobirania entre **França i Espanya**, tot allò que
-> perdi Espanya **ho guanya França**.»
+> «...compartiéndose allí la soberanía entre **Francia y España**, todo aquello
+> que pierda España **lo gana Francia**.»
+>
+> — **el mateix apèndix**
 
 I hi afegeix un inventari del que, segons ells, lligava Andorra a Espanya:
 
-> «Les voluntats dels andorrans s'inclinen necessàriament a Espanya, **pel
-> llenguatge, per la moneda, pels costums**, per les condicions topogràfiques
-> del terreny, per la història...»
+> «Las voluntades de los andorranos se inclinan necesariamente á España, **por
+> el lenguaje, por la moneda, por las costumbres**, por las condiciones
+> topográficas del terreno, por la historia...»
 
 **La moneda que circulava a Andorra era espanyola**, diu el mateix text. El
 corpus ho reté com a dada del 1895.
@@ -103,13 +106,16 @@ López Muñoz**. Carlistes i republicans al mateix paper.
 
 I el Congrés la va aprovar. Ho diu el mateix Carvajal el **30 de juny**:
 
-> «fa molt pocs dies que **per unanimitat vau votar un article addicional** a la
-> llei de pressupostos, concedint certes franquícies per als **ramats d'Andorra**.»
+> «hace muy pocos días que **por unanimidad votásteis un artículo adicional** á
+> la ley de presupuestos, concediendo ciertas franquicias **para los ganados de
+> Andorra**.»
+>
+> — **Carvajal**, sessió del 30 de juny de 1895
 
 Al pas, desmunta l'objecció del contraban amb una frase que el corpus es queda:
 
-> «**els drets aranzelaris són els que originen el contraban, i l'exempció
-> necessàriament el suprimeix.**»
+> «**los derechos arancelarios son los que originan el contrabando, y la
+> exención necesariamente le suprime.**»
 
 Val la pena creuar-ho amb [el contraban](../contraban/contraban.md), que el
 corpus explicava com a ofici i no com a conseqüència d'una política duanera.
@@ -119,18 +125,18 @@ corpus explicava com a ofici i no com a conseqüència d'una política duanera.
 Tres dies abans de la sessió del 30 de juny, Carvajal llegeix a la premsa una
 cosa que el deixa clavat:
 
-> «vaig llegir a **La Correspondencia de España** que el **senyor bisbe d'Urgell
-> havia informat en contra de la proposició** a la Comissió de pressupostos **del
-> Senat**. Declaro que **no m'ho vull creure, i que encara no m'ho crec**, tot i
-> que no he tingut la ventura que ho desmenteixi cap de les persones que tenien
-> motius per conèixer aquest acte.»
+> «leí en **La Correspondencia de España** que el **Sr. Obispo de Urgel había
+> informado contra la proposición en la Comisión de presupuestos del Senado**.
+> Declaro que **no lo quiero creer, y que no lo creo todavía**, á pesar de que no
+> he tenido la ventura de que lo desmienta ninguna de las personas que tenían
+> motivos para conocer este acto.»
 
 I ho descriu així:
 
-> «...un prelat que passa impassible i sever enmig dels seus dolors i dels seus
-> patiments, **cenyint la mitra sobre la corona tancada del Príncep**, desoint
-> les seves súpliques i dirigint-se a aquest recinte **per demanar-ne la
-> condemna**.»
+> «...un Prelado que pasa impasible y severo por medio de sus dolores y de sus
+> padecimientos, **ciñendo la mitra sobre la corona cerrada del Príncipe**,
+> desoyendo sus súplicas y dirigiéndose á este recinto **para pedir su
+> condenación**.»
 
 **El copríncep episcopal, acusat de fer caure al Senat la mesura que havia
 d'alleujar els seus coprincipats.**
@@ -145,16 +151,16 @@ d'alleujar els seus coprincipats.**
 
 I aquí la font diu el que cap manual andorrà recull amb aquesta cruesa:
 
-> «Jo bé sé que el senyor bisbe d'Urgell **es creu sobirà d'Andorra per si
-> mateix**, i no **com és en realitat representació de l'Estat espanyol**, a la
-> manera que ho és el **prefecte de Foix** amb relació a l'Estat francès.»
+> «Yo bien sé que el Sr. Obispo de Urgel **se cree por sí soberano de Andorra**,
+> y no **como es en realidad representación del Estado español**, á la manera que
+> lo es el **prefecto de Foix** con relación al Estado francés.»
 
 I l'apèndix, en la mateixa línia:
 
-> «Andorra no està respecte d'Espanya en una absoluta independència, i des de
-> cert punt de vista polític forma **com una espècie de feu** bé o malament
-> incrustat, però existent de tota manera, **dins de la sobirania nacional
-> espanyola**.»
+> «Andorra no está respecto de España en una absoluta independencia, y desde
+> cierto punto de vista político forma **como una especie de feudo** bien ó mal
+> incrustado, pero existente de toda suerte, **dentro de la soberanía nacional
+> española**.»
 
 **Això no és història d'Andorra: és què pensava d'Andorra el parlament espanyol
 el 1895**, i el corpus ho guarda com a tal. Val la pena llegir-ho al costat
@@ -165,7 +171,7 @@ que va arribar **cent anys després**.
 I al costat d'una frase del mateix discurs que diu, sense voler, el contrari de
 tot l'anterior:
 
-> «...els habitants **pobres, però lliures**, d'aquelles rústiques muntanyes.»
+> «...los habitantes **pobres, pero libres**, de aquellas rústicas montañas.»
 
 ## Buits registrats
 

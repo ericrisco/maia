@@ -62,8 +62,8 @@ un any**.
 ### Un tercer punt de dades, de 1895 i de fora
 
 El **Congrés dels Diputats espanyol**, en l'exposició de motius de l'addició
-pressupostària del **27 de març de 1895**, diu que Andorra **«és un petit país
-que compta uns 6.000 habitants»**
+pressupostària del **27 de març de 1895**, diu que Andorra **«es un pequeño país
+que cuenta unos 6.000 habitantes»**
 ([font](../../../fonts/diario-sesiones-corts-1895.md)).
 
 **No resol la contradicció, però la decanta.** La xifra espanyola de 1895 va amb
@@ -76,8 +76,8 @@ defensa una rebaixa d'aranzels, no un cens. Val com a **ordre de magnitud**, no
 com a recompte.
 
 I el mateix document aporta una dada que el corpus no tenia de cap altra banda:
-**«Habiten a Andorra, o estan domiciliades dins de les valls, 105 famílies
-espanyoles.»** A cinc persones per casa serien unes **525 persones** — prop d'una
+**«Habitan en Andorra, ó están domiciliados dentro de los valles, 105 familias
+españolas.»** A cinc persones per casa serien unes **525 persones** — prop d'una
 **desena part** de la població. Vegeu
 [el que Andorra comprava a Espanya](../../economia/comerc/el-que-andorra-comprava-a-espanya.md).
 

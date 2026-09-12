@@ -24,7 +24,8 @@ d'un país sencer**.
 **78 pessetes per persona i any**.
 
 > Les xifres són les del document, amb l'OCR netejat. On no es llegeixen amb
-> seguretat, es diu.
+> seguretat, es diu. **Les citacions es donen en castellà**, la llengua original:
+> una citació traduïda ja no és una citació.
 
 ## El 38% era vi
 
@@ -67,8 +68,8 @@ el gra més barat.
 ## El que no hi és
 
 **No hi ha carn, ni llet, ni formatge, ni mantega.** Això Andorra ja ho feia —i
-era exactament el que Espanya li estava gravant amb aranzel des del 1869: «les
-taules de fusta, la mantega de vaca, els formatges, els pernils». Vegeu
+era exactament el que Espanya li estava gravant amb aranzel des del 1869: «las
+tablas de madera, la manteca de vaca, los quesos, los jamones». Vegeu
 [la qüestió duanera de 1895](../../historia/segle-xix/la-questio-duanera-de-1895.md).
 
 **Tampoc hi ha patates gairebé**: 12 quintars per a tot el país. Sí que hi ha
@@ -80,9 +81,9 @@ Aquestes tres estan escrites així **al document oficial espanyol**:
 
 | Partida | Com hi consta |
 | --- | --- |
-| **Xocolata**, 400 quintars | «comptant **el que entra a l'estranger**» |
-| **Llumins**, 200 quintars | «comptant **els que van a l'estranger**» |
-| **Cafè**, 25 quintars | «**amb el que va a l'estranger**» |
+| **Xocolata**, 400 quintars | «contando **lo que entra al extranjero**» |
+| **Llumins**, 200 quintars | «contando **los que van al extranjero**» |
+| **Cafè**, 25 quintars | «**con lo que va al extranjero**» |
 
 **L'estranger, aquí, és França.** Un estat de 6.000 habitants no es menja **64.000
 pessetes de xocolata l'any** —era la segona partida de tota la seva importació—
@@ -128,16 +129,16 @@ llum. I els **segells de correu espanyols** diuen per on sortia el correu.
 El document acaba amb dues observacions que no tenen res a veure amb els
 aranzels i ho diuen tot:
 
-> «**Uns anys amb altres, d'Espanya a Andorra, entren per pasturar durant
-> l'estiu, entre bestiar oví i cabrum, 8.000 caps.**»
+> «**Unos años con otros, de España á Andorra, entran para pastar durante el
+> verano, entre ganado lanar y cabrío, 8.000 cabezas.**»
 
 **Vuit mil caps espanyols pujaven a pasturar a Andorra cada estiu.** És
 transhumància en sentit contrari al que el corpus tenia registrat: no és Andorra
 qui baixa, és Espanya qui puja. I és **més bestiar del que Andorra comprava en
 un any** (200 ovelles).
 
-> «**Habiten a Andorra, o estan domiciliades dins de les valls, 105 famílies
-> espanyoles.**»
+> «**Habitan en Andorra, ó están domiciliados dentro de los valles, 105 familias
+> españolas.**»
 
 **Cent cinc famílies espanyoles residents el 1895.** És la xifra
 d'immigració més antiga que té el corpus, i arriba per la porta del darrere: un
