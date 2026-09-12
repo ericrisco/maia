@@ -701,11 +701,18 @@ amb efecte des del 19/04/1951, i admès a l'honorariat. La identitat civil i
 militar ja és primària i segura; la seva presència concreta al grup de
 Grumbach continua requerint les memòries completes o el sumari Cabrero.
 
-També s'han auditat íntegrament els registres parisencs del 16è arrondissement
-que cobreixen el 20 de juny de 1951, 1955, 1961 i 1966, a més dels controls ja
-fets de 1925 i 1975. Cap no conté André ni un Dreyfus compatible. Per tant,
-l'any de la menció marginal continua obert i no se substituirà per una lectura
-gràfica especulativa.
+La taula decennal de defuncions 1955–1964 del 16è arrondissement, `V11E 553`,
+ha resolt finalment l'any: **André Charles Dreyfus morí el 20/06/1955**, acta
+1066. El registre anual `16D 196` conté l'acta a la imatge 7. Declara la mort a
+les 18.30 al domicili del 56 boulevard Murat, el qualifica de representant de
+comerç, repeteix naixement i pares i diu que era solter. La declarant fou
+Yvonne Dreyfus, quaranta anys, domiciliada al 5 quai Vauban de Belfort; l'acta
+no n'indica el parentiu.
+
+La cerca anterior de `16D 196` havia produït un fals negatiu perquè l'OCR no
+reconegué el cognom. Es conserva i explicita l'error: una absència en OCR no és
+prova d'absència. Els controls negatius de 1925, 1951, 1961, 1966 i 1975
+continuen documentats com a hipòtesis descartades, no com a base de la data.
 
 Les descàrregues directes actuals de les quatre URL de *Le Monde* només
 retornen una pàgina tècnica `Client Challenge`; es conserven per documentar el
@@ -776,7 +783,8 @@ prové de la representació web accessible, amb data i URL registrades.
 | `francesc-viadiu-fons/grumbach/dreyfus-schmidt/belfort-etat-civil/*` | Actes 204 (André Charles, 1896) i 301 (Pierre Sylvain, 1902), taula alfabètica, notices, ampliacions i lectura diplomàtica: proven la fraternitat; l'any de mort marginal continua pendent. Els facsímils romanen locals perquè el visor en restringeix la difusió. |
 | `francesc-viadiu-fons/grumbach/dreyfus-schmidt/shd-gr-8ye-a-e.pdf`, `.txt` | Instrument oficial dels oficials: `GR 8 YE 84802`, André Charles Dreyfus, capità d'artilleria, radiat el 19/04/1951. |
 | `francesc-viadiu-fons/grumbach/dreyfus-schmidt/matricule-1916/*` | Guia oficial, taula `1 R 302`, API i full 494 de `1 R 299`: filiació, descripció, carrera 1915–1951, retalls de lectura, OCR i hashes. Les imatges romanen locals per les condicions de reutilització dels AD90. |
-| `francesc-viadiu-fons/grumbach/dreyfus-schmidt/auditoria-any-defuncio-andre.md`, `paris-deces-*/*` | Auditoria de 1925, 1951, 1955, 1961, 1966 i 1975 contra registres complets del 16è; tots negatius, any encara no resolt. |
+| `francesc-viadiu-fons/grumbach/dreyfus-schmidt/auditoria-any-defuncio-andre.md`, `paris-deces-*/*` | Auditoria de 1925, 1951, 1955, 1961, 1966 i 1975; corregeix el fals negatiu de 1955 i localitza l'acta 1066, mort el 20/06/1955. |
+| `francesc-viadiu-fons/grumbach/dreyfus-schmidt/paris-table-deces-1955-1964/*` | Taula decennal `V11E 553`, p. 241: entrada nominal, data, acta i arrondissement; 18 imatges, OCR, JSON i hashes. |
 | `francesc-viadiu-fons/grumbach/lemonde-*.html` | Controls de descàrrega fallits: quatre pàgines tècniques `Client Challenge` idèntiques, no el text dels articles. |
 | `francesc-viadiu-fons/grumbach/consulta-arxius-ariege-esborrany.md` | Petició detallada de localització i reproducció del procés de Foix i diligències relacionades; preparada però no enviada. |
 | `francesc-viadiu-fons/grumbach/paris-etat-civil/*` | API del visor, foli complet, retalls verificats de l'acta 1137 i la menció marginal, OCR de context, hashes i transcripció diplomàtica de treball. |
