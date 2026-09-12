@@ -274,6 +274,37 @@ al nou pròleg; sense els exemplars no es pot assegurar si també canvià el cos
 del relat. En conseqüència, els fragments de Google Books de 1975 no proven la
 paginació ni la redacció exactes de 1974.
 
+## Una lectura acadèmica de 1991–1992: data, àlies i gènere
+
+Irene Cortés Company estudià l'obra a «Història i literatura dels espanyols
+apàtrides a Europa (1939-1945)», publicat als números 8–9 d'*Anales de la
+Universidad de Alicante. Historia Contemporánea*. És un article revisat per
+parells, en accés obert a RUA, amb DOI
+`10.14198/AnContemp.1991-1992.8-9.11`. La seva edició de treball és la segona
+catalana de 1975.
+
+A la p. 177, Cortés afirma que *Entre el torb i la Gestapo* fou acabada a
+Andorra el **1951**. L'article no posa una nota específica darrere d'aquesta
+data. El catàleg del manuscrit *Vides entre el torb*, en canvi, proposa
+`[1950?]`. Les dues dades són pròximes però no idèntiques: de moment formen una
+**tensió de datació**, no una cronologia resolta. Cal comprovar el colofó, les
+dates internes o la correspondència del manuscrit abans de preferir-ne una.
+
+La p. 179 és encara més decisiva per a la recerca nominal: l'autora diu que els
+personatges de nacionalitats diverses apareixen **sota noms falsos** i explica
+que el protagonista autobiogràfic adopta el nom d'`Alexis`. És una lectura
+literària general, no una clau que restitueixi identitats civils. Reforça, però,
+la cautela metodològica: `Éloïse`, `Jimmy`, `Mr Miller`, `Lucien` i la resta de
+noms narratius no es poden convertir automàticament en noms legals.
+
+A les p. 188–189, Cortés recorda que Joaquim Ventalló presentava el llibre, al
+pròleg de 1975 (p. 14), amb valor de document històric. La investigadora situa
+alhora aquesta i tres obres més dins un «realisme documental èpic»: parteixen
+de documents històrics i experiències personals, però **les novel·les no són
+documents històrics**. La tensió és productiva: la intenció testimonial explica
+el valor indiciari del relat; no substitueix la verificació externa dels noms,
+dates, diàlegs ni itineraris.
+
 ## La capa audiovisual i el seu límit
 
 3Cat manté públiques les dues parts de la minisèrie *Andorra. Entre el torb i
@@ -332,6 +363,9 @@ històric.
 | `google-books-1974-*.json` | Control negatiu: l'exemplar Google Books de l'edició castellana no admet cerca interna pública. |
 | `francesc-viadiu-fons/ccuc-sru-entre-torb-1974.xml` | MARC de la primera edició catalana: 1974, 231 p., ISBN i dipòsit legal. |
 | `francesc-viadiu-fons/ccuc-sru-entre-torb-1975.xml` | MARC de la segona edició catalana: 1975, 237 p. i pròleg de Joaquim Ventalló. |
+| `francesc-viadiu-fons/cortes-1992-historia-literatura-apatrides.pdf`, `.txt` | Irene Cortés Company, article acadèmic, DOI `10.14198/AnContemp.1991-1992.8-9.11`: finalització el 1951, noms falsos i lectura com a realisme documental èpic. |
+| `francesc-viadiu-fons/cortes-1992-page-177.png`, `-179.png`, `-188.png`, `-189.png` | Renders verificats de les quatre pàgines decisives. |
+| `francesc-viadiu-fons/rua-cortes-*.json` | Metadades REST oficials de RUA: citació, revisió per parells, accés obert i bitstream original. |
 | `internet-archive-isbn-search.json` | Cerca pels ISBN català i francès: zero resultats. |
 | `openlibrary-isbn-search.json` | Registre bibliogràfic sense ebook ni text complet. |
 
@@ -379,6 +413,12 @@ Els SHA-256 de tots els fitxers es van calcular el 12/09/2026. Destaquen:
 12. Comparar materialment la castellana de 1974, la primera catalana de 1974 i
     la segona catalana de 1975: cobertes, portades, crèdits, pròlegs, índex,
     paginació i, com a mínim, els capítols d'Éloïse.
+13. Comprovar al manuscrit si hi ha data de conclusió, colofó o fases de
+    redacció que permetin arbitrar entre `[1950?]` i l'afirmació de 1951.
+14. Obtenir la p. 14 original del pròleg de Joaquim Ventalló i delimitar què
+    anomena exactament «document històric».
+15. Construir un mapa separat d'àlies narratius i identitats documentades; no
+    completar correspondències només per semblança biogràfica.
 
 ## Drets
 
