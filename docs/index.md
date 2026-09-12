@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**313** documents · **92** fonts · **0** aptes com a model de llengua · **108** temes amb contingut.
+**314** documents · **93** fonts · **0** aptes com a model de llengua · **108** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -741,6 +741,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Els seguiments del CENMA](temes/territori/fauna-i-flora/els-seguiments-del-cenma.md) | `temes/territori/fauna-i-flora` | compilada | contemporania | no | `komac-biodiversitat-canvi-climatic` |
 | [Fauna i flora](temes/territori/fauna-i-flora/fauna-i-flora.md) | `temes/territori/fauna-i-flora` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/territori/geografia-fisica
@@ -902,6 +903,7 @@
 | [`iec-vocabulari-andorra`](fonts/iec-vocabulari-andorra.md) | Institut d'Estudis Catalans · Servei de Política Lingüística del Govern d'Andorra | publicació acadèmica de l'IEC, accés obert | pendent |
 | [`insa-ensenyament-salut`](fonts/insa-ensenyament-salut.md) | Anna Insa i Canel · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`jurisprudencia-ad`](fonts/jurisprudencia-ad.md) | Eric Risco · Jurisprudència.ad | norma oficial andorrana (pública per naturalesa); la consolidació és feina del projecte | si |
+| [`komac-biodiversitat-canvi-climatic`](fonts/komac-biodiversitat-canvi-climatic.md) | Benjamin Komac i Mingaud · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`la-cuestion-de-andorra-1894`](fonts/la-cuestion-de-andorra-1894.md) | Consell General dels Valls d'Andorra · obra de 1894, domini públic | domini públic per antiguitat; digitalització de Google Books a partir d'un exemplar de biblioteca | si |
 | [`lacueva-hoteleria`](fonts/lacueva-hoteleria.md) | Ludmilla Lacueva i Canut · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`llegendes-dandorra-llibre`](fonts/llegendes-dandorra-llibre.md) | Roser Carol i Àlvar Valls · Editorial andorrana | obra literària amb drets reservats | False |

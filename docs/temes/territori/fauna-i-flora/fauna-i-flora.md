@@ -71,6 +71,19 @@ Amb boscos de **pi negre** i **avet**, **prats alpins**, **zones humides** i
 
 **89 ocells nidificants en una sola vall** dona la mesura del que hi ha.
 
+## I què els està passant
+
+Els inventaris diuen **què hi ha**. **Qui ho compta any rere any és el CENMA**, i
+el corpus ja en té els sis programes de seguiment —papallones des del **2004**,
+congestes des del **2009**, ocells, fongs, boscos i pastures— amb la primera
+troballa quantificada: **dues espècies de papallona del transsecte d'Enclar van
+avançar el seu calendari cinc i set setmanes el 2014**
+([els seguiments del CENMA](./els-seguiments-del-cenma.md)).
+
+I una xifra que dona la mesura de la densitat biològica del país: **Andorra té
+18 espècies de ratpenat; Espanya, 29; França, 34** — en països «més de mil cops
+més grans».
+
 ## El que falta
 
 - **Fitxa per espècie emblemàtica**: isard, trencalòs, gall fer, llangardaix
@@ -87,6 +100,7 @@ Amb boscos de **pi negre** i **avet**, **prats alpins**, **zones humides** i
 
 ## Related
 
+- [Els seguiments del CENMA](./els-seguiments-del-cenma.md) — qui compta tot això, i des de quan.
 - [La vall del Madriu-Perafita-Claror](../patrimoni-natural/madriu-perafita-claror.md)
 - [Geografia física](../geografia-fisica/geografia-fisica.md)
 - [Glossari de mots documentats](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) — els noms populars.

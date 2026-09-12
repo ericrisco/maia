@@ -136,8 +136,11 @@ publicació pròpia**.
 - **Les projeccions numèriques**: escenaris **RCP 4,5** i **RCP 8,5**, horitzons
   **2021-2050**, **2041-2070** i **2071-2100**, amb resolució de **12,5 km**
   (EuroCordex). **Les xifres són a les figures.**
-- **Els efectes sobre la biodiversitat** — hi ha ponència de **Benjamin Komac**
-  (CENMA) i el corpus no l'ha llegida.
+- ~~**Els efectes sobre la biodiversitat** — hi ha ponència de **Benjamin Komac**
+  (CENMA) i el corpus no l'ha llegida.~~ **TANCAT**:
+  [els seguiments del CENMA](../fauna-i-flora/els-seguiments-del-cenma.md). Sis
+  programes de mesura, i una troballa ja quantificada: **les papallones d'Enclar
+  van avançar cinc i set setmanes el seu calendari el 2014**.
 - **El recurs hídric**, amb ponència de **Cristina Pesado**, Marc Pons i
   **Juan-Ignacio López Moreno** (IPE-CSIC).
 - **La percepció ciutadana**, amb dades del **CRES** des del **2002** — i el
@@ -161,4 +164,5 @@ publicació pròpia**.
 - [Turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md)
 - [FHASA](../../economia/energia-i-serveis/fhasa.md) — d'on venen les sèries.
 - [Fauna i flora](../fauna-i-flora/fauna-i-flora.md)
+- [Els seguiments del CENMA](../fauna-i-flora/els-seguiments-del-cenma.md) — qui ho mesura i com.
 - [L'aigua i la neu](./laigua-i-la-neu.md) — el 2050, Andorra pot perdre més de la meitat de la neu acumulada.
