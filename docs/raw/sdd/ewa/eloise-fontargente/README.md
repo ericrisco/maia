@@ -557,6 +557,18 @@ Grumbach mitjançant la pipa, el netejapipes, una novel·la anglesa i trets de
 l'esquelet. La notícia d'octubre encara mantenia obertes dues hipòtesis:
 esgotament o assassinat i robatori per part del guia.
 
+La pàgina original de *Combat* del 22 de novembre de 1950 reforça i matisa la
+identificació. La notícia, datada a Foix el dia 21, diu que la viuda de
+Grumbach i el seu germà **Jean-Pierre Melville** foren convocats pel jutge
+d'instrucció i reconegueren formalment les restes. La viuda identificà la roba
+i els objectes, especialment l'abric i el barret, i aportà un tret anatòmic:
+Grumbach havia estat operat de **mastoiditis al costat dret**, fet comprovable
+en fotografies. La peça dona correctament el naixement a París el 9 d'abril de
+1902, recorda que havia creat amb **Daniel Mayer** el *Populaire* clandestí a
+Marsella i precisa que volia arribar a Londres per contactar **Pierre
+Brossolette**. Com que només diu que el cos havia estat descobert
+«recentment», no resol el conflicte entre el 17 i el 27 de setembre.
+
 El juny de 1952 fou detingut als Pirineus Orientals **Lazare Cabreros
 Monclus**, també escrit Cabrero, Cabrera o Cabrero-Monclus. La crònica del 9 de
 juliol li atribuí una confessió: hauria tornat on Grumbach havia quedat enrere
@@ -643,6 +655,30 @@ veredicte absolutori. També introdueix una discrepància: data el descobriment
 el **17 de setembre de 1950**, contra el **27 de setembre** de la crònica
 contemporània de *Le Monde*. No s'han harmonitzat les dues dates.
 
+El nom **Pierre Dreyfus-Schmidt** ja es pot lligar amb alta confiança al futur
+alcalde i diputat de Belfort. La biografia oficial de l'Assemblée nationale
+confirma que, després del desembarcament aliat al nord d'Àfrica, travessà els
+Pirineus, passà quatre mesos empresonat a Espanya i s'incorporà al 1r Régiment
+étranger al Marroc. La cronologia coincideix amb el company de Grumbach, i
+l'autor publicà el 1955 *Captivités et évasions*.
+
+La mostra pública del llibre no arriba encara a la travessa, però el seu
+advertiment explica la naturalesa de la font: la primera part fou escrita de
+memòria; a Espanya, en canvi, Pierre escrivia gairebé cada dia un quartet en
+uns quaderns que li retornaren de Madrid el 1946, i el relat de 1955 desenvolupà
+els records a partir d'aquelles notes de ruta. L'obra completa és, doncs, una
+font testimonial prioritària amb suport coetani, no un dietari publicat sense
+elaboració posterior.
+
+La mateixa fitxa oficial localitza un fons familiar de 12,96 metres a les
+Archives départementales du Territoire de Belfort, **`144 J`**, 1919–2008 i
+consulta sotmesa a autorització. Pot conservar els quaderns espanyols, el
+manuscrit, correspondència i papers del judici de 1953. S'ha preparat una
+consulta, no enviada. La identitat d'**André Dreyfus-Schmidt** continua
+pendent: el llibre esmenta un germà militar de Pierre sense anomenar-lo i una
+base derivada dona un André Charles nascut a Belfort el 1896, però encara no
+hi ha filiació primària ni prova que sigui el company del grup.
+
 Les descàrregues directes actuals de les quatre URL de *Le Monde* només
 retornen una pàgina tècnica `Client Challenge`; es conserven per documentar el
 control fallit, però **no són còpies dels articles**. La lectura utilitzada
@@ -713,6 +749,8 @@ prové de la representació web accessible, amb data i URL registrades.
 | `francesc-viadiu-fons/grumbach/paris-etat-civil/*` | API del visor, foli complet, retalls verificats de l'acta 1137 i la menció marginal, OCR de context, hashes i transcripció diplomàtica de treball. |
 | `francesc-viadiu-fons/grumbach/shd-21p/*` | Instrument oficial, fitxa ARK `735776`, cerca per cota, nota crítica i consulta no enviada del dossier de Caen `AC 21 P 199748`. |
 | `francesc-viadiu-fons/grumbach/livre/*` | Mostra pública de l'edició Metvox 2020 d'Henri Amouroux, extracció, renders verificats de les p. 293–294, metadades editorials i lectura crítica de la consulta declarada del dossier Cabrero el 1958. |
+| `francesc-viadiu-fons/grumbach/combat-*`, `lectura-combat-1950-11-22.md` | Exemplar de *Combat* del 22/11/1950 localitzat a Gallica, p. 12 completa, retall verificat, OCR ALTO, metadades OAI/paginació/SRU i crítica de la identificació per la viuda i Melville. |
+| `francesc-viadiu-fons/grumbach/dreyfus-schmidt/*` | Mostra i extracció de *Captivités et évasions*, biografies institucionals, lectura sobre la metodologia dels quaderns espanyols, hashes i consulta no enviada del fons familiar `144 J`. |
 | `internet-archive-isbn-search.json` | Cerca pels ISBN català i francès: zero resultats. |
 | `openlibrary-isbn-search.json` | Registre bibliogràfic sense ebook ni text complet. |
 
