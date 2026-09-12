@@ -45,11 +45,13 @@ Tadeusz Chciuk per França i Andorra. La coincidència de nom complet, grau i
 funció militar converteix Tutaj en una identificació sòlida, no en un homònim
 modern.
 
-L'article, però, **no afirma** en aquest passatge que Tutaj escortés Chciuk, que
-treballés a Grenoble, que passés per Tolosa o que organitzés la sortida des
-d'Ax-les-Thermes. Tampoc identifica `Emma` amb `Monika` ni amb la xarxa
-pirinenca `Ewa`. Aquestes relacions continuen depenent de les memòries de
-Chciuk i de l'expedient personal encara no consultat.
+Aquest article, però, **no afirma** en el passatge nominal que Tutaj escortés
+Chciuk, treballés a Grenoble, passés per Tolosa o organitzés la sortida des
+d'Ax-les-Thermes. Un article anterior del mateix Grabowski, documentat al
+directori germà `andrzej-kopyto/`, sí que identifica Tutaj com a treballador
+d'`Emy` a Grenoble i cita *Raport z podziemia 1942*, p. 320–341, per la seva
+ajuda a Chciuk en el pas a Espanya. Encara no identifica Ax, Andorra ni la
+xarxa pirinenca `Ewa`.
 
 El mateix article utilitza `Emma` en altres contextos interns —entre ells un
 subdistricte septentrional Valenciennes–Denain i una antiga base després

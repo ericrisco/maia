@@ -11,9 +11,11 @@ Consulta: 12 de setembre de 2026.
 
 La Viquipèdia francesa remet encara a *Biali kurierzy*, p. 326, 330 i 335,
 per a Krzysztof Tutaj, Tolosa, Ax-les-Thermes i el retrobament de postguerra.
-Aquesta remissió no s'ha comprovat directament. Per abast, *Raport z Podziemia
-1942* és una font de control prioritària per al mateix itinerari, però no se li
-pot traslladar la citació sense llegir-la.
+Aquesta remissió no s'ha comprovat directament. Tanmateix, Waldemar Grabowski
+cita *Raport z Podziemia 1942*, p. **320–341**, per afirmar que Sokołowski
+ajudà Chciuk cap a Londres i que **Krzysztof Tutaj, treballador d'`Emy` a
+Grenoble, l'ajudà a passar a Espanya**. Això confirma el llibre correcte i el
+tram organitzatiu, encara no les mencions exactes d'Ax-les-Thermes o Andorra.
 
 ## Registres consultats
 
