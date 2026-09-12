@@ -532,7 +532,7 @@ necessitat de separar casos:
 
 - el record oral de Baldrich sobre les dues parelles belgues;
 - Gustave i Ida Allerhand, presentats per Calvet com a presumptes víctimes;
-- Jacques Grumbach, amb recuperació del cos el 1949 i judici a Foix el 1953;
+- Jacques Grumbach, amb recuperació del cos el 1950 i judici a Foix el 1953;
 - les tres dones sense nom recordades per José Bazán i enterrades a Escaldes;
 - els ossos fotografiats per Bayo, sense cadena de custòdia coneguda.
 
@@ -543,6 +543,63 @@ historiadors; per tant, és una **atribució periodística pendent**, no un fet
 establert. També s'ha comprovat que la compareixença de Bayo anunciada per a un
 congrés d'espionatge l'octubre de 2022 fou cancel·lada: no es pot esperar
 d'aquell acte una gravació o aclariment que mai es produí.
+
+## Jacques Grumbach: del descobriment del cos a l'absolució
+
+El cas Grumbach no depèn de les fotografies de *Reporter*. Quatre cròniques
+contemporànies de *Le Monde* permeten reconstruir una cadena pròpia, encara
+incompleta: descobriment i identificació del cos el 1950, detenció i confessió
+atribuïda a Lazare Cabrero el 1952, judici a Foix i absolució el 1953. Aquesta
+seqüència obliga a corregir la data **1949**, repetida per relats posteriors:
+la notícia més pròxima al fet situa el descobriment el **27 de setembre de
+1950**, al Pas-de-Bouc. Jean-Pierre Melville identificà formalment Jacques
+Grumbach mitjançant la pipa, el netejapipes, una novel·la anglesa i trets de
+l'esquelet. La notícia d'octubre encara mantenia obertes dues hipòtesis:
+esgotament o assassinat i robatori per part del guia.
+
+El juny de 1952 fou detingut als Pirineus Orientals **Lazare Cabreros
+Monclus**, també escrit Cabrero, Cabrera o Cabrero-Monclus. La crònica del 9 de
+juliol li atribuí una confessió: hauria tornat on Grumbach havia quedat enrere
+i li hauria disparat al clatell. En el judici obert el 28 de maig de 1953,
+l'acusat explicà que volia impedir que un ferit posés en perill la xarxa; també
+admeté haver pres papers, rellotge i diners, afirmant que lliurà 7.000 francs
+als caps i regalà el rellotge a un cosí. La premsa el descriu com a pagès
+establert a Andorra i reclutat com a passador el 1940.
+
+Els testimonis del judici mostren per què no es pot reduir el cas a una sola
+versió. Una muntanyenca andorrana sense nom declarà que Grumbach podia haver
+estat transportat. **Mme Courdil**, hostalera d'Ussat, recordà haver sentit
+Cabrero explicar al `chef Morchon` que havia matat un home amb ulleres;
+Morchon, segons ella, l'acusà de robatori, però la declaració arribava vuit
+anys tard. **Pierre Dreyfus-Schmidt**, company de travessa, digué que Cabrero
+no oferí rescatar el ferit i denuncià un pagament de 30.000 francs per persona
+més una exigència posterior de 25.000. **Roger Lauzemberg**, en canvi, afirmà
+que el mateix Grumbach havia demanat ser abandonat. Les quantitats també
+divergeixen de la reconstrucció de 1950, que parlava de 35.000 francs per
+persona.
+
+El jurat absolgué Cabrero el 29 de maig de 1953. L'absolució és el resultat
+jurídic verificat; no prova que el tribunal donés per establerta una ordre
+superior, ni converteix automàticament el relat defensiu en fet històric. El
+següent pas probatori és recuperar l'expedient judicial de Foix: instrucció,
+ordre de detenció, actes d'audiència, sentència o veredicte, diligències sobre
+el descobriment del cos i eventual informe forense. S'ha preparat una consulta
+als Arxius Departamentals de l'Arieja, però no s'ha enviat.
+
+Una síntesi acadèmica d'André-Louis Sanguin situa la sortida de sis fugitius i
+dos guies d'Ussat-les-Bains a les 00.30 del 24 de novembre de 1942, pel port de
+Siguer, i descriu la torçada de turmell, el refugi en una cabana i el tret.
+Tanmateix, la seva nota remet a Francis Aguila i Claude Benet: és una síntesi
+útil, no una prova independent del procés. L'índex oficial del Service
+historique de la Défense aporta una nova pista primària: dossier homologat
+**`GR 16 P 272869`**, `GRUMBACH, Jacques`, nascut a París el **09.04.1902**.
+Aquesta data discrepa del 19 d'abril difós per biografies posteriors i s'ha de
+resoldre amb l'acta de naixement i el dossier complet.
+
+Les descàrregues directes actuals de les quatre URL de *Le Monde* només
+retornen una pàgina tècnica `Client Challenge`; es conserven per documentar el
+control fallit, però **no són còpies dels articles**. La lectura utilitzada
+prové de la representació web accessible, amb data i URL registrades.
 
 ## Fonts conservades
 
@@ -601,6 +658,11 @@ d'aquell acte una gravació o aclariment que mai es produí.
 | `francesc-viadiu-fons/pares-cdmh-*.html` | Cerca i registre oficial PARES del dipòsit audiovisual `SI,3029`, CDMH, Salamanca. |
 | `francesc-viadiu-fons/consulta-cdmh-fugint-dels-nazis-esborrany.md` | Consulta d'accés i reproducció preparada però no enviada. |
 | `francesc-viadiu-fons/bondia-2022-*.html` | Notícies i opinió sobre Bayo, els casos individualitzats i l'atribució Canturri/Cavero; s'usen com a transmissió periodística, no com a prova forense. |
+| `francesc-viadiu-fons/grumbach/lectura-fonts.md` | Cronologia crítica, testimonis del procés, variants nominals, imports contradictoris i jerarquia de prova del cas Grumbach. |
+| `francesc-viadiu-fons/grumbach/sanguin-2014-fuite-juifs-pyrenees.pdf`, `.txt`, `sanguin-2014-page-303-304.png` | Article acadèmic, extracció i render verificat; la reconstrucció depèn explícitament d'Aguila i Benet. |
+| `francesc-viadiu-fons/grumbach/shd-gr16p-g-index.pdf`, `.txt` | Índex oficial del Service historique de la Défense; entrada `GR 16 P 272869` de Jacques Grumbach, homologada. |
+| `francesc-viadiu-fons/grumbach/lemonde-*.html` | Controls de descàrrega fallits: quatre pàgines tècniques `Client Challenge` idèntiques, no el text dels articles. |
+| `francesc-viadiu-fons/grumbach/consulta-arxius-ariege-esborrany.md` | Petició detallada de localització i reproducció del procés de Foix i diligències relacionades; preparada però no enviada. |
 | `internet-archive-isbn-search.json` | Cerca pels ISBN català i francès: zero resultats. |
 | `openlibrary-isbn-search.json` | Registre bibliogràfic sense ebook ni text complet. |
 
@@ -696,6 +758,18 @@ Els SHA-256 de tots els fitxers es van calcular el 12/09/2026. Destaquen:
     de Roser Porta.
 28. Obrir dossiers separats per Allerhand, Grumbach, les parelles belgues i les
     tres dones d'Escaldes, sense traslladar proves d'un cas a un altre.
+29. Demanar als Arxius Departamentals de l'Arieja la cota exacta i les
+    condicions d'accés al procés de Lazare Cabrero de maig de 1953, incloses
+    instrucció, actes d'audiència, veredicte, diligències de 1950 i informe
+    forense; no enviar la consulta ni assumir costos sense autorització.
+30. Sol·licitar al Service historique de la Défense el dossier homologat de
+    Jacques Grumbach `GR 16 P 272869` i comprovar serveis, xarxa, circumstàncies
+    de mort i fonts aportades per a l'homologació.
+31. Obtenir l'acta de naixement parisenca de Jacques Grumbach per resoldre la
+    discrepància entre el 9 i el 19 d'abril de 1902.
+32. Identificar documentalment `Morchon`, Pierre Dreyfus-Schmidt, Roger
+    Lauzemberg, Mme Courdil i la muntanyenca andorrana; separar el que cadascun
+    declarà del que els resums periodístics hi afegiren.
 
 ## Drets
 
