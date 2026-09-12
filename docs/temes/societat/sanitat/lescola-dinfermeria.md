@@ -161,3 +161,4 @@ també ha d'evitar la malaltia.
 - [La CASS i la sanitat](./la-cass-i-la-sanitat.md)
 - [La Universitat d'Andorra](../educacio/la-universitat-dandorra.md) — la casa on va entrar el 1997.
 - [La societat segmentada](../immigracio/la-societat-segmentada.md) — per què el 90% venia de fora.
+- [La reacreditació dels metges](./la-reacreditacio-dels-metges.md) — la formació continuada dels sanitaris.

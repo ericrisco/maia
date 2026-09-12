@@ -174,3 +174,4 @@ comprova**. Aquest corpus les marca sempre.
 - [Les creences sobre el cos](../../vida-quotidiana/creences/les-creences-sobre-el-cos.md) — el que convivia amb tot això.
 - [El Coprincipat](../../institucions/coprincipat/el-coprincipat.md) — qui inaugura l'hospital.
 - [L'Escola d'Infermeria](./lescola-dinfermeria.md) — qui hi havia de treballar, i d'on venia.
+- [La reacreditació dels metges](./la-reacreditacio-dels-metges.md) — el reglament de l'hospital, el 2000.

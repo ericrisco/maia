@@ -200,3 +200,4 @@ en una de gran ocuparien estructures diferents.**
 - [L'Arxiu Nacional](../../cultura/museus-i-arxius/larxiu-nacional.md)
 - [La Cambra de Comerç i la formació](../../economia/comerc/la-cambra-de-comerc-i-la-formacio.md)
 - [La formació professional](../../societat/educacio/la-formacio-professional.md)
+- [La reacreditació dels metges](../../societat/sanitat/la-reacreditacio-dels-metges.md) — el mateix buit formatiu, a la sanitat.

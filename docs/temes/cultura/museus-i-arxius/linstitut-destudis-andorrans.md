@@ -308,3 +308,4 @@ assembla força al que aquest corpus intenta fer amb text.
 - [El sindicalisme](../../societat/treball/el-sindicalisme.md)
 - [El canvi climàtic](../../territori/clima-i-muntanya/el-canvi-climatic.md)
 - [Fauna i flora](../../territori/fauna-i-flora/fauna-i-flora.md)
+- [La Societat Andorrana de Ciències](./la-societat-andorrana-de-ciencies.md) — l'altra casa de la recerca andorrana.

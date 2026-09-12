@@ -65,3 +65,4 @@ no existeixi, és informació que existeix i encara no s'ha anat a buscar.
 - [El Consell General](../../institucions/consell-general/el-consell-general.md) — qui publica les actes.
 - [Fraseologia](../../llengua/fraseologia/fraseologia.md) — el buit que aquests fons podrien tancar.
 - [L'Institut d'Estudis Andorrans](./linstitut-destudis-andorrans.md) — qui encarrega i publica la recerca del país.
+- [La Societat Andorrana de Ciències](./la-societat-andorrana-de-ciencies.md) — qui convoca els andorrans a explicar-se.

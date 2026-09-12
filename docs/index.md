@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**233** documents · **49** fonts · **0** aptes com a model de llengua · **97** temes amb contingut.
+**235** documents · **50** fonts · **0** aptes com a model de llengua · **97** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -135,6 +135,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [La Societat Andorrana de Ciències](temes/cultura/museus-i-arxius/la-societat-andorrana-de-ciencies.md) | `temes/cultura/museus-i-arxius` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [L'Arxiu d'Etnografia d'Andorra](temes/cultura/museus-i-arxius/larxiu-detnografia.md) | `temes/cultura/museus-i-arxius` | compilada | contemporania | no | `de-la-parte-immigracio-cultura` |
 | [L'Arxiu Nacional d'Andorra](temes/cultura/museus-i-arxius/larxiu-nacional.md) | `temes/cultura/museus-i-arxius` | compilada | contemporania | no | `viquipedia-ca` |
 | [L'Institut d'Estudis Andorrans](temes/cultura/museus-i-arxius/linstitut-destudis-andorrans.md) | `temes/cultura/museus-i-arxius` | compilada | contemporania | no | `guillamet-la-recerca` |
@@ -577,6 +578,7 @@
 | [De les iguales a l'hospital](temes/societat/sanitat/de-les-iguales-a-lhospital.md) | `temes/societat/sanitat` | compilada | contemporania | no | `pallares-medicina-andorra` |
 | [La CASS i la sanitat](temes/societat/sanitat/la-cass-i-la-sanitat.md) | `temes/societat/sanitat` | compilada | contemporania | no | `viquipedia-ca` |
 | [La Clínica Vilanova](temes/societat/sanitat/la-clinica-vilanova.md) | `temes/societat/sanitat` | compilada | contemporania | no | `pallares-medicina-andorra` |
+| [La reacreditació dels metges](temes/societat/sanitat/la-reacreditacio-dels-metges.md) | `temes/societat/sanitat` | compilada | contemporania | no | `martinez-benazet-professions-liberals` |
 | [Les iguales](temes/societat/sanitat/les-iguales.md) | `temes/societat/sanitat` | compilada | contemporania | no | `pallares-medicina-andorra` |
 | [L'Escola d'Infermeria](temes/societat/sanitat/lescola-dinfermeria.md) | `temes/societat/sanitat` | compilada | contemporania | no | `insa-ensenyament-salut` |
 
@@ -757,6 +759,7 @@
 | [`llegendes-dandorra-llibre`](fonts/llegendes-dandorra-llibre.md) | Roser Carol i Àlvar Valls · Editorial andorrana | obra literària amb drets reservats | False |
 | [`llovera-visio-del-treballador`](fonts/llovera-visio-del-treballador.md) | Xavier Llovera i Massana · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`marina-formacio-dadults`](fonts/marina-formacio-dadults.md) | Joan Ramon Marina i Amat · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`martinez-benazet-professions-liberals`](fonts/martinez-benazet-professions-liberals.md) | Joan Martínez i Benazet · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mas-educacio-artistica`](fonts/mas-educacio-artistica.md) | Roger Mas i Canalis · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mas-pagesos-i-artesans`](fonts/mas-pagesos-i-artesans.md) | David Mas i Canalís · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`molla-catala-andorra`](fonts/molla-catala-andorra.md) | Guillem Molla · Universitat de Girona · revista IANUA | publicació acadèmica en accés obert | pendent |
