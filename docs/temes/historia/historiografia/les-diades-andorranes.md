@@ -104,6 +104,62 @@ art, els Pirineus i Andorra i les seves relacions amb els estats veïns.
 [parla](../../../parla/README.md)**: són andorrans parlant en públic sobre temes
 tècnics, en català. **Buit registrat, i podria ser important per a la fase 3.**
 
+## El catàleg dels temes, 1988-2002
+
+El volum de la **13a Diada (2000)** en reprodueix la llista, i el corpus la
+recull sencera perquè **és el mapa de què s'ha discutit públicament a Andorra en
+quinze anys** — i, de retruc, **el pla de fonts d'aquest projecte**.
+
+| # | Any | Tema | Estat al corpus |
+| --- | --- | --- | --- |
+| **1a** | **1988** | *Andorra, estat, institucions, societat* | **Pendent** |
+| **2a** | **1989** | ***Els moviments migratoris a Andorra*** | **Minada en part** |
+| **3a** | **1990** | *La identitat nacional* | Citada ([els andorrans de primera generació](../../institucions/nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md)) |
+| **4a** | **1991** | *El futur d'Andorra* | **Pendent** |
+| **5a** | **1992** | *Tendències polítiques a Andorra* | **Pendent** |
+| **6a** | **1993** | *Alternatives econòmiques per a Andorra* | **Pendent** |
+| **7a** | **1994** | ***Andorra i la catalanitat*** | Minada en part ([Anglada](../../../fonts/anglada-origens-parla-andorrana.md)) |
+| **8a** | **1995** | *El finançament de l'estat andorrà* | **Pendent** |
+| **9a** | **1996** | *Andorra en el món* | **Pendent** |
+| **10a** | **1997** | ***La integració a Andorra*** | **Pendent. Prioritària** |
+| **11a** | **1998** | *Andorra i l'aprofitament dels recursos naturals* | **Pendent** |
+| **12a** | **1999** | *L'ordenació del territori andorrà* | **Pendent** |
+| **13a** | **2000** | ***Formació i ensenyament a Andorra*** | **En curs** |
+| **15a** | **2002** | ***Una història d'Andorra, temàtica*** | **Minada a fons** |
+
+### Què diu aquesta llista, llegida sencera
+
+**Els temes no són acadèmics: són els nervis del país.**
+
+Migracions (1989), identitat (1990), catalanitat (1994), integració (1997). **En
+vuit anys, quatre Diades sobre qui és andorrà.** No és casualitat: és el període
+en què la població passa a ser majoritàriament nascuda fora
+([les onades migratòries](../../societat/demografia/les-onades-migratories.md)) i
+en què s'aprova la [Constitució](../constitucio-1993/constitucio-1993.md).
+
+I el 1993, l'any de la Constitució, el tema és **alternatives econòmiques**. El
+1995, **el finançament de l'estat**. **Un país que acaba de ser estat es pregunta
+com es paga.**
+
+### Com es baixen
+
+**Nota tècnica per a qui continuï aquesta feina.** Els volums són al **Calaix**
+(Generalitat de Catalunya) amb handles correlatius
+—**`10687/427965` = 1a … `10687/427984` = 20a**, i després **427985 = 27a,
+427986 = 28a, 427988 = 29a, 427989 = 30a**—.
+
+El navegador hi topa amb protecció anti-bot, però **el nom del fitxer al
+*bitstream* és ignorat**: n'hi ha prou amb
+
+```
+https://calaix.gencat.cat/bitstream/handle/10687/<handle>/x.pdf?sequence=1&isAllowed=y
+```
+
+**Les 21a-26a no són en aquest rang i no s'han localitzat. Buit registrat.**
+
+**Avís:** alguns volums —com el **20a**— són **escanejats sense capa de text** i
+caldrà **OCR**.
+
 ## Related
 
 - [La historiografia andorrana](./historiografia.md)

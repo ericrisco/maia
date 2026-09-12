@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**205** documents · **30** fonts · **0** aptes com a model de llengua · **96** temes amb contingut.
+**207** documents · **31** fonts · **0** aptes com a model de llengua · **96** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -499,6 +499,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [El sufragi femení](temes/societat/dones/el-sufragi-femeni.md) | `temes/societat/dones` | compilada | contemporania | no | `consell-general-web` |
+| [Les primeres becàries](temes/societat/dones/les-primeres-becaries.md) | `temes/societat/dones` | compilada | contemporania | no | `toquec-ensenyament-frances` |
 
 ## temes/societat/educacio
 
@@ -506,6 +507,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Educació — el sistema triple](temes/societat/educacio/educacio.md) | `temes/societat/educacio` | compilada | contemporania | no | `premsa-andorrana` |
 | [Els tres sistemes educatius](temes/societat/educacio/els-tres-sistemes.md) | `temes/societat/educacio` | compilada | contemporania | no | `molla-catala-andorra` |
+| [L'ensenyament francès](temes/societat/educacio/lensenyament-frances.md) | `temes/societat/educacio` | compilada | contemporania | no | `toquec-ensenyament-frances` |
 
 ## temes/societat/esport
 
@@ -720,6 +722,7 @@
 | [`rodriguez-minana-notaris`](fonts/rodriguez-minana-notaris.md) | Joan Carles Rodríguez i Miñana · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`rodriguez-rossa-creacio-artistica`](fonts/rodriguez-rossa-creacio-artistica.md) | Francesc Rodríguez i Rossa · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`societat-andorrana-ciencies`](fonts/societat-andorrana-ciencies.md) | Societat Andorrana de Ciències (Andorra) | publicació acadèmica en accés obert | pendent |
+| [`toquec-ensenyament-frances`](fonts/toquec-ensenyament-frances.md) | Jean-Alain Toquec · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`ubach-moviments-socials`](fonts/ubach-moviments-socials.md) | Gabriel Ubach i Valdivia · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`vela-ordinacions-segle-xv`](fonts/vela-ordinacions-segle-xv.md) | Susanna Vela i Palomares · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`viquipedia-ca`](fonts/viquipedia-ca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
