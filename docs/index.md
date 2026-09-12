@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**196** documents · **25** fonts · **0** aptes com a model de llengua · **96** temes amb contingut.
+**197** documents · **26** fonts · **0** aptes com a model de llengua · **96** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -267,6 +267,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Andorra a l'edat mitjana](temes/historia/edat-mitjana/andorra-a-ledat-mitjana.md) | `temes/historia/edat-mitjana` | compilada | contemporania | no | `viquipedia-ca` |
 | [Els bisbes d'Urgell](temes/historia/edat-mitjana/els-bisbes-durgell.md) | `temes/historia/edat-mitjana` | compilada | contemporania | no | `pujol-fet-religios` |
+| [Els privilegis](temes/historia/edat-mitjana/els-privilegis.md) | `temes/historia/edat-mitjana` | compilada | contemporania | no | `bascompte-privilegis` |
 | [L'accés als comunals](temes/historia/edat-mitjana/lacces-als-comunals.md) | `temes/historia/edat-mitjana` | compilada | contemporania | no | `vela-ordinacions-segle-xv` |
 
 ## temes/historia/guerres-i-neutralitat
@@ -685,6 +686,7 @@
 | Id | Titular | Llicència | Redistribució |
 | --- | --- | --- | --- |
 | [`anglada-origens-parla-andorrana`](fonts/anglada-origens-parla-andorrana.md) | Manuel Anglada i Ferran · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`bascompte-privilegis`](fonts/bascompte-privilegis.md) | Domènec Bascompte i Grau · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`canturri-usos-i-costums`](fonts/canturri-usos-i-costums.md) | Pere Canturri i Montanya · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`cerqueda-banca`](fonts/cerqueda-banca.md) | Manel Cerqueda i Donadeu · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`consell-general-web`](fonts/consell-general-web.md) | Consell General del Principat d'Andorra | informació institucional pública | si |

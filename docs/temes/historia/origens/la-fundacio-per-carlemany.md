@@ -80,6 +80,49 @@ Aquesta fitxa existeix exactament per això.
   identificació amb Andorra no se sosté. **Els dos pilars del relat d'origen han
   caigut tots dos.**
 
+## La data, i qui hi és a cada bàndol
+
+El corpus tenia la **Carta de poblament** com a document fals **sense data ni
+contendents**. **Domènec Bascompte** dona les dues coses
+([font](../../../fonts/bascompte-privilegis.md)).
+
+**La data atribuïda: 805.**
+
+I el debat, amb noms:
+
+| Posició | Qui |
+| --- | --- |
+| **Qüestionen l'autenticitat** | **Jordi Guillamet** i altres autors |
+| **La defensen** | **Antoni Morell** i **Jacques Descheemaeker** |
+
+**No és un consens: és una discussió amb dos bàndols.** El corpus rectifica la
+seva pròpia formulació anterior —que la donava per «qualificada de falsa» sense
+matisos— i la deixa com el que és: **majoritàriament qüestionada, encara
+defensada per alguns**.
+
+Què hi diu el document, segons Bascompte: atorgava **a unes determinades
+persones** el dret a **poblar o tornar a habitar les valls d'Andorra**, «**després
+de la hipotètica expulsió dels sarraïns**».
+
+**«Hipotètica.»** L'adjectiu és de l'autor.
+
+### La lliçó que en treu, que val més que la resposta
+
+> «**El fet de la seva falsedat explica la importància dels documents per
+> legitimar** davant els altres membres de la mateixa comunitat i d'altres
+> comunitats **un avantatge social que afavoreix un grup determinat de
+> persones**.»
+
+**Un document fals és un fet històric:** diu **què es volia poder demostrar, i
+quan**. Vegeu
+[el Llibre de la Terra](../../institucions/consell-general/el-llibre-de-la-terra.md),
+on passa exactament el mateix amb sis segles de diferència, i
+[els privilegis](../edat-mitjana/els-privilegis.md).
+
+**I un detall que el corpus registra sense interpretar:** **Antoni Morell**, que
+defensa l'autenticitat de la carta de Carlemany, és **el mateix que va novel·lar
+*Boris I, rei d'Andorra*** ([fitxa](../segle-xx-primera-meitat/boris-skossyreff.md)).
+
 ## Related
 
 - [El Gran Carlemany](../../institucions/simbols/el-gran-carlemany.md) — l'himne que el canta.

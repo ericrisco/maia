@@ -66,6 +66,32 @@ política que encaixa sospitosament bé.
 | — | **El senyor de Castellbò vol afirmar la seva supremacia** a la zona, i **en especial a Andorra** |
 | — | **El catarisme comença a esdevenir important** |
 
+### Avís: les dates dels homenatges no quadren entre fonts
+
+**Domènec Bascompte**, al mateix volum
+([els privilegis](../../historia/edat-mitjana/els-privilegis.md)), diu que **el
+primer jurament de fidelitat** dels homes d'Andorra al bisbe **Arnau de
+Preixens** és de **1170**, i no esmenta ni el 1162 ni el 1176.
+
+| Font | Homenatges |
+| --- | --- |
+| **Rodríguez i Rossa** (aquesta) | **1162 i 1176** |
+| **Bascompte**, amb nota a peu | **1170**, i diu que és **el primer** |
+
+**El corpus no en tria cap.** El que **no canvia** és el que sosté la hipòtesi:
+**hi va haver juraments de fidelitat en aquelles dècades**, o sigui que **calia
+fer-los jurar**.
+
+Bascompte hi afegeix, a més, **dues «concòrdies» el 1152 i el 1175** —que ell
+qualifica de **«mal anomenades»**, perquè són **capitulacions imposades**— i la
+**donació del 1186** del bisbe Arnau de Preixens a **Arnau, vescomte de
+Castellbò**, de **les valls de Caboet, Sant Joan i Andorra**, **a canvi d'ajuda
+militar**.
+
+**Aquesta última encaixa amb el matrimoni de 1185 i el completa:** primer el
+casament, després la donació. **El bisbe posa Andorra a mans de Castellbò ell
+mateix**, un any després que Castellbò s'hagi casat amb la casa que la tenia.
+
 **Llegit tot junt, el segle XII andorrà és un segle de disputa.** El bisbe acaba
 de completar el seu domini (1133), se'l fa jurar dues vegades (1162, 1176), i
 just aleshores **un matrimoni li posa la casa vassalla a mans del seu rival**
