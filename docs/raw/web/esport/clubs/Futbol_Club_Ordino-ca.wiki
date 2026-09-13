@@ -1,0 +1,65 @@
+{{Falten referències|data=2023}}
+{{Infotaula organització| equipament={{Multi equipació esportiva | pattern_la1 =_blackborder|pattern_b1=|pattern_ra1=_blackborder|
+ leftarm1=FFFFFF|body1=FF7F00|rightarm1=FFFFFF|shorts1=FF7F00|socks1=000000|
+ pattern_la2=|pattern_b2=_whitehoophigh|pattern_so2=|
+ leftarm2=000000|body2= 000000|rightarm2=000000|shorts2=000000|socks2=000000}}
+| president = {{Bandera|Andorra}} David Urrea| entrenador = Paco Domingo}}
+El '''Futbol Club Ordino''' és un equip de [[futbol]] d'[[Andorra]] de la [[parròquia d'Ordino]]. Va ser fundat l'any [[2010]] i juga en la [[Lliga andorrana de futbol|Primera Divisió d'Andorra]].
+
+== Història ==
+El Futbol Club Ordino es va fundar l'[[1 de setembre]] del [[2010]] a la ciutat d'[[Ordino]] i va ser admès en la [[Lliga andorrana de futbol|Lliga d'Andorra]] en la temporada 2012-13, aconseguint l'ascens aquesta mateixa temporada.<ref>[http://www.bondia.ad/index.php?option=com_content&view=article&id=11634&Itemid=999 Es constitueix l'FC Ordino i el projecte de club arrenca amb l'escola de futbol] Bondia.ad, 10 de septiembre de 2010</ref> En la temporada 2014/2015 va deixar fora al [[Futbol Club Lusitans|FC Lusitans]] en quarts de final de la Copa Constitució, i va accedir a les semifinals sent eliminats pel llavors campió de lliga, l'[[FC Santa Coloma]] amb una derrota de 3-4 a favor dels ''colomencs''. En la temporada 2016/2017 accedeix a la semifinal de la Copa Constitució per segona vegada en la qual van ser eliminats pel campió de lliga, [[FC Santa Coloma]] després de perdre 0-6. Aquesta mateixa temporada baixen a Segona en el playoff amb un global de 3-5 davant del Penya Encarnada d'Andorra. En la temporada 2017/18 l'equip torna a Primera quedant en primera posició.
+
+== Palmarès ==
+* '''[[Segona Divisió (Andorra)|Segona Divisió d'Andorra]]: 2''' (2012/13, 2017/18)
+
+== Temporada a temporada ==
+{| class="wikitable sortable mw-collapsible"
+|+
+!Temporada
+!Divisió
+!Posició
+![[Copa Constitució]]
+|-
+|2012-13
+|[[Segona Divisió (Andorra)|Segona Divisió]]
+|1º
+|Quarts de final
+|-
+|2013-14
+|[[Lliga andorrana de futbol|Primera Divisió]]
+|5º
+|Quarts de final
+|-
+|2014-15
+|[[Lliga andorrana de futbol|Primera Divisió]]
+|5º
+|Semifinals
+|-
+|2015-16
+|[[Lliga andorrana de futbol|Primera Divisió]]
+|6º
+|Quarts de final
+|-
+|2016-17
+|[[Lliga andorrana de futbol|Primera Divisió]]
+|7º
+|Semifinals
+|-
+|2017-18
+|[[Segona Divisió (Andorra)|Segona Divisió]]
+|1º
+|Primera ronda
+|-
+|2018-19
+|[[Lliga andorrana de futbol|Primera Divisió]]
+|5º
+|Primera ronda
+|}
+
+== Referències ==
+{{Referències}}
+
+== Enllaços externs ==
+* [http://www.futbolclubordino.com Lloc web oficial]
+* [http://es.soccerway.com/teams/andorra/fc-ordino/22833/ soccerway.com]
+[[Categoria:Clubs de futbol andorrans]]

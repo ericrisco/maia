@@ -1,0 +1,108 @@
+{{Infotaula organització |
+ colors = {{color box|blue}} {{color box|yellow}} [[blau]], [[groc]] |
+ data_fundacio = [[2002]] |
+ equipament= {{Multi_equipació_esportiva | pattern_la1=_nikeacademy22rbw|pattern_b1=_nikeacademy22rbw|pattern_ra1=_nikeacademy22rbw|pattern_sh1=|pattern_so1=|
+ leftarm1=0000FF|body1=0000FF|rightarm1=0000FF|shorts1=0000FF|socks1=0000FF|
+ pattern_la2=|pattern_b2=_jomagrafity2s|pattern_ra2=|pattern_sh2=|pattern_so2=|
+ leftarm2=afe7f5|body2=afe7f5|rightarm2=afe7f5|shorts2=afe7f5|socks2=afe7f5}}
+}}
+L{{'}}'''Atlètic Club d'Escaldes''' és un [[club de futbol]] [[Andorra|andorrà]] de la ciutat d'[[Escaldes-Engordany]].
+
+== Història ==
+El club va ser fundat el 20 de maig de 2002.<ref>{{ref-web|títol= Andorra List of foundation dates| url= http://www.rsssf.com/tablesa/andofound.html | consulta= 2017-04-09 | editor=rsssf.com}}</ref> En acabar la temporada 2003–04 ascendí per primer cop a primera divisió.<ref name="A2004"/> Jugà en aquesta categoria fins a la temporada 2006–07.<ref>{{ref-web|títol= Andorra 2007| url= http://www.rsssf.com/tablesa/ando07.html | consulta= 2017-04-09 | editor=rsssf.com}}</ref> Fins al 2015 vestia samarreta a franges grogues i blaves, horitzontals o verticals. Més tard adoptà el color grana, per tornar al blau original posteriorment.
+
+{|
+|{{Football kit 
+|alt = 
+|pattern_la =_yellow_stripes
+|pattern_b =_yellow_stripes
+|pattern_ra =_yellow_stripes
+|pattern_so = 
+|leftarm = 0000ff
+|body = 0000ff
+|rightarm = 0000ff
+|shorts = 0000ff
+|socks = FFFF00
+|title = Uniforme original
+}}
+|{{Football kit 
+|alt = 
+|pattern_la =
+|pattern_b =_bluesquaresgradient
+|pattern_ra =
+|pattern_so = _bluehorizontal
+|pattern_sh = _bluesides
+|leftarm = FFFF00
+|body = FFFF00
+|rightarm = FFFF00
+|shorts = FFFF00
+|socks = FFFF00
+|title = Uniforme alternatiu
+}}
+|{{Football kit 
+|alt = 
+|pattern_la =_blackshoulders
+|pattern_b =_blackcollar
+|pattern_ra =_blackshoulders
+|pattern_so = 
+|pattern_sh = 
+|leftarm = dc143c
+|body = dc143c
+|rightarm = dc143c
+|shorts = 000000
+|socks = 000000
+|title = Unifomre 2016-2019
+}}
+|}
+
+== Palmarès ==
+* '''[[Lliga andorrana de futbol]]''':
+** 2022-23
+* '''[[Segona Divisió (Andorra)|Segona Divisió]]''':
+** 2003-04<ref name="A2004">{{ref-web|títol= Andorra 2004| url= http://www.rsssf.com/tablesa/ando04.html | consulta= 2017-04-09 | editor=rsssf.com}}</ref>
+* '''[[Copa Constitució]]''':
+** 2022
+
+== Temporades a Primera Divisió ==
+{|class=wikitable
+|-bgcolor="#efefef"
+! Season
+!
+! Pos.
+! J
+! G
+! E
+! P
+! GF
+! GC
+! P
+|-
+|2004-05
+|[[Lliga andorrana de futbol|Primera Divisió]]
+|align=center|'''7'''
+|align=right|20||align=right|5||align=right|0||align=right|15
+|align=right|19||align=right|58||align=right|'''15'''
+|-
+|2005–06
+|[[Lliga andorrana de futbol|Primera Divisió]]
+|align=center|'''6'''
+|align=right|20||align=right|8||align=right|4||align=right|8
+|align=right|21||align=right|27||align=right|'''28'''
+|-
+|2006–07
+|[[Lliga andorrana de futbol|Primera Divisió]]
+|align=center bgcolor=#FFCCCC|'''8'''
+|align=right|20||align=right|4||align=right|3||align=right|13
+|align=right|18||align=right|45||align=right|'''15'''
+|}
+
+== Referències ==
+{{Referències}}
+
+== Enllaços externs ==
+* [http://www.atleticescaldes.com Web oficial del club] {{Webarchive|url= https://web.archive.org/web/20110707183145/http://www.atleticescaldes.com/ |date=2011-07-07}}
+
+{{Equips de futbol d'Andorra}}
+
+{{ORDENA:Atletic Club D'Escaldes}}
+[[Categoria:Atlètic Club d'Escaldes|*]]

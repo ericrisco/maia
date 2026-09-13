@@ -1,0 +1,56 @@
+{{Infotaula organització
+| colors = {{color box|green}} [[verd (color)|verd]]
+| data_fundacio = [[1982]]
+| lliga = [[Lliga andorrana de futbol|Primera Divisió]]
+| estadi = Centre d'Entrenaments de la FAF<br />[[Andorra la Vella]], [[Andorra]]
+| capacitat = 500
+| lloc_web = http://www.facebook.com/uesantjulia 
+| equipament= {{Multi equipació esportiva
+| pattern_la1 = _santjulia2122h
+| pattern_b1 = _santjulia2122h
+| pattern_ra1 = _santjulia2122h
+| pattern_sh1 = 
+| pattern_so1 = 
+| leftarm1 = 000000
+| body1 = 007733
+| rightarm1 = 000000
+| shorts1 = 000000
+| socks1 = 007733
+| pattern_la2 = _santjulia2122a
+| pattern_b2 = _santjulia2122a
+| pattern_ra2 = _santjulia2122a
+| pattern_sh2 = 
+| pattern_so2 = 
+| leftarm2 = FFFFFF
+| body2 = FF7700
+| rightarm2 = FFFFFF
+| shorts2 = FFFFFF
+| socks2 = FF7700
+}}
+}}
+La '''Unió Esportiva Sant Julià''' (també coneguda com a ''Tic Tapa Unió Esportiva Sant Julià'' per motius de patrocini) és un club [[Andorra|andorrà]] de [[futbol]] de la ciutat de [[Sant Julià de Lòria]]. L'equip juga la [[Lliga andorrana de futbol]] des de la seva primera realització.
+
+== Història ==
+[[Fitxer:Ue sant-julia.png|miniatura|UE Sant Julià davant [[SP Tre Fiori]] a la [[Lliga de Campions de la UEFA 2009-10]].]]
+El club va ser fundat l'any 1982.<ref>{{ref-web|títol= Andorra List of foundation dates| url= http://www.rsssf.com/tablesa/andofound.html | consulta= 2017-04-09 | editor=rsssf.com }}</ref> Fins a l'any 2017 el club ha guanyat dues lligues i cinc copes andorranes.<ref>{{ref-web|títol= Andorra - List of Champions| url= http://www.rsssf.com/tablesa/andochamp.html | consulta= 2017-04-09 | editor=rsssf.com }}</ref><ref name="cup">{{ref-web|url= http://www.rsssf.com/tablesa/andocuphist.html |títol=Andorra - List of Cup Finals| editor=rsssf.com| consulta=2016-09-16}}</ref>
+
+El club participà en la Copa Intertoto de 2006-07.<ref>[http://www.scorespro.com/soccer/livescore/ue-sant-julia-vs-slavija-sarajevo/23-06-2007/ UE Sant Julià – FK Slavija : 2–3] Match report from Scorespro.com</ref> ''Els lauredians'' van fer història aconseguint que per primera vegada un club andorrà passes una ronda a una competició d'[[UEFA]]: a la temporada 2009-10 de la [[Lliga de Campions de la UEFA]], el Sant Julià va assolir la segona ronda després d'eliminar l'[[SP Tre Fiori]] de [[San Marino]] per penals (1-1 en ambdós partits).
+
+Va ser conegut com "l'equip taronja",<ref>{{Ref-web |url=http://www.diariandorra.ad/index.php?option=com_k2&view=item&id=6543 |títol=Diari d'Andorra |consulta=2017-10-24 |arxiuurl=https://web.archive.org/web/20150402162027/http://www.diariandorra.ad/index.php?option=com_k2&view=item&id=6543 |arxiudata=2015-04-02 }}</ref> malgrat de moment juga amb l'equipació verd.
+
+== Palmarès ==
+* '''2 [[Lliga andorrana de futbol]]''': 2004-05, 2008-09
+* '''2 [[Supercopa andorrana de futbol]]''': 2004, 2009
+* '''5 [[Copa Constitució]]''': 2008, 2010, 2011, 2014, 2015
+
+== Referències ==
+{{Referències}}
+
+== Enllaços externs ==
+* [http://www.facebook.com/uesantjulia/ Web oficial del club]
+* [http://www.uefa.com/footballeurope/club=2600542/domestic.html Article a UEFA.com]
+
+{{Equips de futbol d'Andorra}}
+
+{{ORDENA:Unio Esportiva Sant Julia}}
+[[Categoria:Unió Esportiva Sant Julià|*]]

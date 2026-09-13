@@ -1,0 +1,30 @@
+{{Infotaula organització
+| colors = {{color box|blue}} {{color box|white}} [[blau]], [[blanc]]
+| data_fundacio = [[1950]]
+| capacitat = 550
+| entrenador = {{bandera|ARG}} [[Leonel Fernando Gancedo|Pipa Gancedo]]
+| lliga = [[Segona Divisió (Andorra)|Segona Divisió]]
+| equipament={{Multi equipació esportiva | pattern_b1 =_whitestripes| leftarm1=0000ff|body1=0000ff|rightarm1=0000ff|shorts1=ffffff|socks1=0000ff
+ |leftarm2=ff0000|body2=ff0000|rightarm2=ff0000|shorts2=000000|socks2=000000}}
+}}
+El '''Futbol Club Encamp''' és un club [[Andorra|andorrà]] de [[futbol]] de la ciutat d'[[Encamp]]. Actualment juga en la [[Segona Divisió (Andorra)|Segona Divisió]].
+
+== Història ==
+Fundat el 1950, és el club més antic de la primera divisió andorrana i el segon del país després del [[FC Andorra]] (fundat el 1942).<ref>{{ref-web|títol= Andorra List of foundation dates| url= http://www.rsssf.com/tablesa/andofound.html |consulta= 2017-04-09 |editor=rsssf.com}}</ref> Guanyà la primera lliga la temporada 1995-96, i cinc anys més tard la segona (2001-02) classificant-se per la [[Copa de la UEFA]].<ref>{{ref-web|títol= Andorra - List of Champions| url= http://www.rsssf.com/tablesa/andochamp.html |consulta= 2017-04-09 |editor=rsssf.com}}</ref> La temporada 2004-05 va baixar a Segona Divisió i la següent retornà a Primera. La mateixa història es repetí el 2006-07, retornant a Primera el 2009. Un nou descens es produí la temporada 2011, retornant entre el millors el 2011-12.
+
+Els seus colors blanc i blau els agafa de la comuna d'[[Encamp]]. El club juga els seus partits al [[Camp de Futbol d'Encamp]], amb capacitat per a 550 persones, situat a Prada de Moles, inaugurat el novembre de 2015.<ref>[http://www.andorradifusio.ad/Esports/inaugurada-la-nova-zona-esportiva-de-prada-de-moles Inaugurada la nova zona esportiva de Prada de Moles] andorradifusio.ad</ref><ref>[http://www.fcencamp.org/el-club/instal-lacions.html Instal·lacions] {{Webarchive|url=https://web.archive.org/web/20171023230431/http://www.fcencamp.org/el-club/instal-lacions.html |date=2017-10-23 }} fcencamp.org</ref>
+
+== Palmarès ==
+* '''2 [[Lliga andorrana de futbol]]''': 1996, 2002
+* '''3 Segona Divisió''': 2005-06, 2008-09, 2011-12
+
+== Referències ==
+{{Referències}}
+
+== Enllaços externs ==
+* {{Oficial}}
+
+{{Equips de futbol d'Andorra}}
+
+[[Categoria:Clubs de futbol andorrans]]
+[[Categoria:Encamp]]

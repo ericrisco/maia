@@ -1,0 +1,24 @@
+{{Infotaula organització 
+| data_fundacio = 1998 
+| federacio = [[Federació Andorrana de Futbol]]
+| localitzacio_seu1 = [[Andorra la Vella]], [[Andorra]]
+| lliga = [[Lliga andorrana de futbol|Campionat de Lliga]]
+| equipament={{Multi equipació esportiva 
+| pattern_b1 =_thickwhitestripes | leftarm1=0050FF |body1=0050FF |rightarm1=0050FF |shorts1=0050FF |socks1=0050FF
+| pattern_b2 =_blackshoulders | pattern_ra2 =_blackshoulders | pattern_la2 =_blackshoulders | leftarm2=FF0000 |body2=FF0000 |rightarm2=FF0000 |shorts2=FF0000 |socks2=FF0000 }}
+}}
+El '''Constel·lació Esportiva''' va ser un club [[Andorra|andorrà]] de [[futbol]] de la ciutat d'[[Andorra la Vella]]. El club començà a la [[Lliga andorrana de futbol|lliga andorrana]] l'any [[1998]] i fou el gran dominador de les competicions del país el [[2000]], guanyant el [[FC Encamp]] per 6-0 en el campionat. Això va permetre el club participar l'edició de la [[Copa de la UEFA]] de la [[Copa de la UEFA 2000-2001|temporada 2000-01]]. En aquesta competició, el club s'enfrontà al [[Rayo Vallecano]], que el derrotà per 0-16 en l'agregat.<ref>[http://www.soccertimes.com/international/2000/jul18.htm Soccer Times] {{Webarchive|url=https://web.archive.org/web/20160303192635/http://www.soccertimes.com/international/2000/jul18.htm |date=2016-03-03}}, "Dreams meet reality in UEFA Cup"</ref><ref>{{ref-web|url=https://deprimeraandorra.wixsite.com/misitio/post/constel-laci%C3%B3-esportiva-una-vida-fugaz-que-dej%C3%B3-un-recuerdo-eterno |títol=Constel·lació Esportiva, una vida fugaz que dejó un recuerdo eterno |editor=deprimeraandorra.wixsite.com|consulta =2016-09-16 |data=13 abril 2020}}</ref>
+
+Aquell estiu, la [[Federació Andorrana de Futbol]] acusà el club d'intentar comprar jugadors d'altres equips irregularment, i de no voler repartir els guanys de la Copa de la UEFA amb la lliga de futbol. El club va ser expulsat de la primera divisió (l'únic cas en la lliga andorrana) durant set anys, que provocà la desaparició del club.<ref>[http://rsssf.com/tablesa/ando00.html Andorra 2000] RSSSF</ref>
+
+== Palmarès ==
+* '''1 [[Lliga andorrana de futbol]]''': 2000<ref>{{ref-web|títol= Andorra - List of Champions| url= http://www.rsssf.com/tablesa/andochamp.html |consulta= 2017-04-09 |editor=rsssf.com}}</ref>
+
+* '''1 [[Copa Constitució]]''': 2000<ref name="cup">{{ref-web|url=http://www.rsssf.com/tablesa/andocuphist.html |títol=Andorra - List of Cup Finals|editor=rsssf.com|consulta=2016-09-16}}</ref>
+
+== Referències ==
+{{Referències}}
+
+{{ORDENA:Constellacio Esportiva}}
+[[Categoria:Clubs de futbol andorrans]]
+[[Categoria:Clubs de futbol desapareguts]]

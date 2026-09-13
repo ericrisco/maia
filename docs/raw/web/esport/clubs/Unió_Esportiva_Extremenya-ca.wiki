@@ -1,0 +1,59 @@
+{{Infotaula organització
+| nom = UE Extremenya
+| nom_original = Unió Esportiva Extremenya Comercial Aris
+| colors = {{color box|black}} {{color box|green}} [[negre]], [[verd]]
+| data_fundacio = {{Data d'inici i edat|1998}}
+| equipament= {{Multi_equipació_esportiva | pattern_la1 =_green_shoulders|pattern_b1=_greensides|pattern_ra1=_green_shoulders
+| leftarm1=000000|body1=000000|rightarm1=000000|shorts1=000000|socks1=000000
+| pattern_la2=_yellowshoulders|pattern_b2=_yellowsides|pattern_ra2=_yellowshoulders
+| leftarm2=ff0000|body2=ff0000|rightarm2=ff0000|shorts2=ffffff|socks2=ffffff}}
+}}
+La '''Unió Esportiva Extremenya''' és un [[club de futbol]] de la vila de [[La Massana]], a [[Andorra]].
+
+El club va ser fundat l'any 1998 i fins al [[2003]] s'anomenava '''Futbol Club Francfurt Cerni'''.<ref>{{ref-web|títol= Andorra List of foundation dates| url= http://www.rsssf.com/tablesa/andofound.html | consulta= 2017-04-09 | editor=rsssf.com }}</ref> El [[2006]] va baixar a la [[Segona Divisió d'Andorra]] després d'estar una temporada a la [[Lliga andorrana de futbol|màxima divisió estatal]] en la qual només va aconseguir un punt davant el [[Club Esportiu Principat|CE Principat]].<ref>{{Ref-web |url= http://www.atleticescaldes.com/lliga%202005-2006%202%C2%AApart.htm |títol=Partits i Classificació 2005-2006 | consulta=2008-04-28 |arxiuurl= https://web.archive.org/web/20081119234442/http://www.atleticescaldes.com/lliga%202005-2006%202%C2%AApart.htm |arxiudata=2008-11-19}}</ref><ref>{{ref-web|títol= Andorra 2006 | url= http://www.rsssf.com/tablesa/ando06.html | consulta= 2017-04-09 | editor=rsssf.com }}</ref>
+
+== Trajectòria a Primera Divisió ==
+{|class=wikitable
+|-bgcolor="#efefef"
+! Temporada
+!
+! Pos.
+! PJ.
+! G
+! E
+! P
+! GF
+! GC
+! Punts
+
+|-
+|1999
+|[[Lliga andorrana de futbol|Primera Divisió]]
+|align=center bgcolor=red|'''9'''
+|align=right|22||align=right|5||align=right|1||align=right|16
+|align=right|23||align=right|83||align=right|'''16'''
+|-
+|2003
+|[[Lliga andorrana de futbol|Primera Divisió]]
+|align=center bgcolor=red|'''8'''
+|align=right|22||align=right|2||align=right|1||align=right|19
+|align=right|21||align=right|85||align=right|'''7'''
+|-
+|2006
+|[[Lliga andorrana de futbol|Primera Divisió]]
+|align=center bgcolor=red|'''8'''
+|align=right|22||align=right|-||align=right|1||align=right|21
+|align=right|11||align=right|98||align=right|'''1'''
+|}
+
+== Referències ==
+{{referències}}
+
+== Enllaços externs ==
+* [http://www.rsssf.com/tablesa/andoplall.html Posicions finals a la lliga andorrana {{en}}]
+
+{{Equips de futbol d'Andorra}}
+
+{{ORDENA:Unio Esportiva Extremenya}}
+[[Categoria:Clubs de futbol andorrans]]
+[[Categoria:La Massana]]

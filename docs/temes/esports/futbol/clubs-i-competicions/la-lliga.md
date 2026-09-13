@@ -112,11 +112,13 @@ no un fet del calendari.**
 ## El que falta
 
 - **La Segona Divisió**: vuit clubs, dos dels quals filials. Res més.
-- **Els clubs un per un.** **Cap fitxa de cap**, i en surten a desenes a les
-  fitxes de futbolistes: Casa de Portugal, Lusitanos, Rànger's, Ordino,
-  Engordany, Penya Encarnada, Atlètic d'Escaldes, Pas de la Casa, Principat.
-- **Els noms dels clubs són un mapa del país i de les seves comunitats**, i el
-  corpus encara no l'ha fet.
+- ~~**Els clubs un per un.**~~ i ~~**els noms dels clubs són un mapa del país
+  i de les seves comunitats**~~ — **tancats el mateix dia**:
+  **[els clubs](./els-clubs.md)**, setze fitxats. **El mapa hi és**: **tres
+  clubs neixen de la comunitat portuguesa i dos duen el nom del Benfica, un
+  porta el nom d'una comunitat espanyola i un va néixer d'una penya del Reial
+  Madrid.** **El que segueix obert són els clubs que no tenen article**: Casa de
+  Portugal, Sporting d'Escaldes, Pas de la Casa i Penya Encarnada.
 - **Per què la lliga va passar de dotze equips a set el 1999.**
 
 ## Related

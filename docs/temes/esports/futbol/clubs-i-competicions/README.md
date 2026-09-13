@@ -28,6 +28,7 @@ les fitxes de persones es llegien com es llegien.**
 | **[La copa](./la-copa.md)** | **Es diu Copa Constitució i és de 1990. La Constitució és de 1993** |
 | **[El FC Andorra](./fc-andorra.md)** | **El club més gran del país no ha jugat mai la lliga del país.** Fundat el 1942, juga a Espanya des del 1948, i és de **Gerard Piqué** |
 | **[La federació](./la-federacio.md)** | **Fa cinc coses alhora**: organitza, és propietària dels camps, té les dues seleccions, **té un club** i lloga l'estadi al club que no juga la seva lliga |
+| **[Els clubs](./els-clubs.md)** | **Setze, i quatre ja no existeixen.** Un va néixer en una penya madridista d'un restaurant, tres de la comunitat portuguesa, i un **va ser expulsat set anys de la lliga** |
 
 ## El que això deixa veure
 

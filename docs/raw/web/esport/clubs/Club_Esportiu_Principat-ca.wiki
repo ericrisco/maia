@@ -1,0 +1,32 @@
+{{Infotaula organització
+| colors = {{color box|blue}} {{color box|white}} [[blau]], [[blanc]]
+| data_fundacio = [[1989]]
+| lloc_web = http://www.ceprincipat.com/ 
+| equipament={{Multi equipació esportiva | pattern_b1 =_v | leftarm1=FFFFFF|body1=0000FF|rightarm1=FFFFFF|shorts1=FFFFFF|socks1=FFFFFF
+ | pattern_la2=|pattern_b2=_blackhorizontal|leftarm2=800080|body2=800080|rightarm2=800080|shorts2=800080|socks2=800080}}
+}}
+El '''Club Esportiu Principat''' va ser un club de [[futbol]] [[Andorra|andorrà]] creat el 1989, amb seu a [[Andorra la Vella]]. Va ser un dels clubs de futbol més reeixits d'Andorra juntament amb el [[Futbol Club Santa Coloma|FC Santa Coloma]] i la [[Unió Esportiva Sant Julià|UE Sant Julià]], havent guanyat tres cops la primera divisió andorrana i cinc cops la Copa d'Andorra. El club es va dissoldre el 2015.
+
+== Història ==
+El club nasqué a partir de la '''Penya Madridista Charlot''', fundada l'any [[1987]], que tenia la seu en un restaurant anomenat ''Charlie's Restaurant''.<ref>[The Independent, https://www.independent.co.uk/sport/charlies-restaurant-on-menu-for-scots-1249966.html Charlie's Restaurant on menu for Scots]</ref> L'any [[1989]] es refundà i adoptà el nom '''CE Principat'''.<ref>{{ref-web|títol=Andorra List of foundation dates|url=http://www.rsssf.com/tablesa/andofound.html|consulta=2017-04-09|editor=rsssf.com}}</ref> El CE Principat va ser el principal club d'Andorra la Vella havent aconseguit el rècord de tres victòries consecutives en lliga entre 1997 i 1999 i cinc trofeus consecutius en copa entre 1995 i 1999. Des de la creació de la [[Lliga andorrana de futbol|primera divisió andorrana]] el 1995, el CE Principat va estar jugant a la màxima categoria fins al 2014, després de quedar vuitè a la lliga regular.<ref>{{Ref-web|títol=El líder deixa escapar l'aliró en perdre el derbi|url=http://www.faf.ad/pnfg/NNws_ShwNewDup?codigo=1005642&cod_primaria=3000301&cod_secundaria=3000301|consulta=2022-08-16}}</ref>
+
+El 1997 el club va fer història en ser el primer club andorrà en participar en una competició europea, enfrontant-se al club escocès [[Dundee United Football Club|Dundee United]].<ref>{{Ref-llibre|títol=De portes endins|url=https://books.google.ch/books?id=MtyaEJlu_XsC&pg=PT64&lpg=PT64&dq=Club+Esportiu+Principat+%22Dundee+United%22&source=bl&ots=Q0XASSVgg9&sig=ACfU3U3hWrv1ysnEsOqESi2Bc99DONV53w&hl=ca&sa=X&ved=2ahUKEwisocHussz5AhUlRuUKHcEXB40Q6AF6BAgcEAM#v=onepage&q=Club%20Esportiu%20Principat%20%22Dundee%20United%22&f=false|editorial=Córner|data=2012-09-30|isbn=978-84-15242-38-3|llengua=es|nom=Lluís|cognom=Lainz}}</ref> L'equip andorrà es va classificar tres vegades per a les competicions europees ([[Lliga Europa de la UEFA|Copa de la UEFA]]) al llarg de 1997 i 1999, però va ser eliminat a la primera ronda en totes les ocasions, ocupant així l'últim lloc a la taula històrica de totes les Copes d'Europa amb 6 derrotes i 48 gols encaixats.
+
+Tot i que el CE Principat va ser un dels clubs més reeixits d'Andorra fins al 1999, des de llavors el club només va arribar a ser tercer a la lliga regular de la temporada 2008-09 i sis vegades semifinalista de la [[Copa Constitució]] durant les temporades 2000-01, 2001-02, [[Copa Constitució 2004|2003-04]], [[Copa Constitució 2005|2004-05]], 2008-09 i 2009-10.
+
+El club sènior va ser inscrit a [[Segona Divisió (Andorra)|Segona Divisió]] després de patir el descens la temporada 2013-14 però es va retirar de la competició a la primera ronda. No obstant això els equips inferiors i juvenils van seguir competint en les seves respectives competicions.<ref>{{Ref-web|títol=FAF - Visualización de Clasificación|url=http://www.faf.ad/pnfg/NPcd/NFG_VisClasificacion?cod_primaria=1000120&codjornada=1&codcompeticion=147354&codgrupo=147355&codjornada=1|consulta=2022-08-16}}</ref> El 2015 el club no estava inscrit en cap competició nacional considerant-se dissolt.
+
+== Palmarès ==
+* '''3 [[Lliga andorrana de futbol]]''': 1997, 1998, 1999<ref>{{ref-web|títol= Andorra - List of Champions| url= http://www.rsssf.com/tablesa/andochamp.html |consulta= 2017-04-09 |editor=rsssf.com}}</ref>
+* '''6 [[Copa Constitució]]''': 1994, 1995, 1996, 1997, 1998, 1999<ref name="cup">{{ref-web|url=http://www.rsssf.com/tablesa/andocuphist.html |títol=Andorra - List of Cup Finals|editor=rsssf.com|consulta=2016-09-16}}</ref>
+
+== Referències ==
+{{Referències}}
+
+== Enllaços externs ==
+* [http://www.ceprincipat.com/ Web oficial del club] {{Webarchive|url=https://web.archive.org/web/20120210141417/http://www.ceprincipat.com/ |date=2012-02-10}}
+
+{{Equips de futbol d'Andorra}}
+
+[[Categoria:Clubs de futbol andorrans]]
+[[Categoria:Clubs esportius d'Andorra la Vella]]

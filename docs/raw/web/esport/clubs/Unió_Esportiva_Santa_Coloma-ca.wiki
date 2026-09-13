@@ -1,0 +1,124 @@
+{{Infotaula organització
+| nom = UE Santa Coloma
+| data_fundacio = 1986
+| colors = {{color box|yellow}} {{color box|black}} [[groc]], [[negre]]
+| |equipament={{Multi equipació esportiva | pattern_b1 =_blackquarters23|pattern_so1=_hoops_black|
+ leftarm1=ffff00|body1=ffff00|rightarm1=ffff00|shorts1=000000|socks1=ffff00|
+ |pattern_b2= _whitehoops|pattern_so2=_hoops_white|
+ leftarm2=B22222|body2=B22222|rightarm2=B22222|shorts2=B22200|socks2=B22222}}
+}}
+La '''Unió Esportiva Santa Coloma''' és un equip de [[futbol]] del [[Andorra|Principat d'Andorra]], del municipi de [[Santa Coloma d'Andorra|Santa Coloma]], fundat l'any [[1986]]. No s'ha de confondre amb el [[Futbol Club Santa Coloma]] doncs, malgrat de la similitud de denominació són dos clubs completament diferents dins de la mateixa parròquia.
+
+L'equip aconseguí l'ascens a la [[Lliga andorrana de futbol|Primera Divisió andorrana]] la temporada 2008-09 després d'imposar-se clarament a la Segona Divisió de forma clara amb 16 victòries i tan sols 2 empats.
+
+A la seva primera temporada a Primera Divisió després de l'ascens, la 2009-10, ja aconsegueix ser subcampió de lliga, tan sols superat pel [[Futbol Club Santa Coloma]], fet que li dona la classificació per la [[UEFA Europa League]] 2010-11, on cau eliminat en primera ronda classificatòria enfront del [[FK Mogren Budva]]. També ha estat finalista de la [[Copa Constitució]] el [[Copa Constitució 2010|2010]] i [[Copa Constitució 2011|2011]], perdent ambdues finals enfront de la [[UE Sant Julià]], per 1-0 el 2010 i per 3-1 a la pròrroga el 2011.<ref>{{ref-web| url=http://es.uefa.com/memberassociations/association=and/domesticcup/index.html| títol=Copa Constitució 2011| llengua=castellà| editor=[[UEFA|uefa.com]]| consulta=15/9/2011}}</ref>
+
+== Palmarès ==
+* 1 '''[[Lliga andorrana de futbol|Primera Divisió]]''': 2023-24
+* 4 '''[[Copa Constitució|Copes Constitució]]''': 2013, 2016, 2017, [[Copa Constitució 2024|2024]]<ref name="cup">{{ref-web|url=http://www.rsssf.com/tablesa/andocuphist.html |títol=Andorra - List of Cup Finals|editor=rsssf.com|access-date=2016-09-16}}</ref>
+* 2 '''[[Supercopa andorrana de futbol|Supercopes andorranes]]''': 2016, 2024
+* 1 '''[[Segona Divisió (Andorra)|Segona Divisió]]''': 2007-08
+
+* 2 subcampionats de la [[Lliga andorrana de futbol|Primera Divisió]]: 2009-10 i 2013-14.
+* 2 subcampionats de la [[Copa Constitució]]: 2010 i 2011.
+* 2 subcampionats de la [[Supercopa andorrana de futbol|Supercopa andorrana]]: 2013 i 2017.
+
+== Resultats Europeus ==
+{| class="wikitable sortable"
+|-
+! Temporada
+! Competició
+! Ronda
+! Club
+! Tornada
+! Anada
+! Marcador Global
+|-
+| [[Lliga Europa de la UEFA 2010-11|2010–11]]
+| [[Lliga Europa de la UEFA]]
+| [[Lliga Europa de la UEFA 2010-11#Primera ronda de classificació|1Q]]
+| {{bandera|Montenegro}} [[FK Mogren]]
+| style="text-align:center;"| 0–3
+| style="text-align:center;"| 0-2
+| style="text-align:center;"| '''0–5'''
+|-
+| [[Lliga Europa de la UEFA 2011-12|2011–12]]
+| [[Lliga Europa de la UEFA]]
+| [[Lliga Europa de la UEFA 2011-12#Primera ronda de classificació|1Q]]
+| {{bandera|Hongria}} [[Paksi FC|Paks]]
+| style="text-align:center;"| 0–2
+| style="text-align:center;"| 0–2
+| style="text-align:center;"| '''0–4'''
+|-
+| [[Lliga Europa de la UEFA 2012-2013|2012–13]]
+| [[Lliga Europa de la UEFA]]
+| [[Lliga Europa de la UEFA 2012-2013#Primera ronda de classificació|1Q]]
+| {{bandera|Països Baixos}} [[FC Twente|Twente]]
+| style="text-align:center;"| 0–3
+| style="text-align:center;"| 0–6
+| style="text-align:center;"| '''0–9'''
+|-
+| [[Lliga Europa de la UEFA 2013-2014|2013–14]]
+| [[Lliga Europa de la UEFA]]
+| [[Lliga Europa de la UEFA 2013-2014#Primera ronda de classificació|1Q]]
+| {{bandera|Bòsnia i Hercegovina}} [[Hrvatski Športski Klub Zrinjski Mostar|Zrinjski Mostar]]
+| style="text-align:center;"| 1-3
+| style="text-align:center;"| 0-1
+| style="text-align:center;"| '''1-4'''
+|-
+| [[Lliga Europa de la UEFA 2014-15|2014–15]]
+| [[Lliga Europa de la UEFA]]
+| [[Lliga Europa de la UEFA 2014-15#Primera ronda de classificació|1Q]]
+| {{bandera|Macedònia}} [[FK Metalurg Skopje|Metalurg Skopje]]
+| style="text-align:center;"| 0-3
+| style="text-align:center;"| 0-2
+| style="text-align:center;"| '''0-5'''
+|-
+| [[Lliga Europa de la UEFA 2016–17|2016–17]]
+| [[Lliga Europa de la UEFA]]
+| [[Lliga Europa de la UEFA 2016–17#Primera Ronda de Classificació|1Q]]
+| {{bandera|Croàcia}} [[NK Lokomotiva|Lokomotiva]]
+| style="text-align:center;"| 1-4
+| style="text-align:center;"| 1-4
+| style="text-align:center;"| '''2-7'''
+|}
+
+== Plantilla Actual ==
+{{Fs start}}
+{{Fs player|no=1|nat=AND|pos= POR|name= [[Iván Periánez]]}}
+{{Fs player|no=2|nat=AND|pos= DEF|name= [[Jesús Rubio]]}}
+{{Fs player|no=3|nat=AND|pos= DEF|name= [[David Maneiro]]}}
+{{Fs player|no=5|nat=AND|pos= DEF|name= [[Alexandre Martínez]] |other= [[Capità (futbol)|C]]}}
+{{Fs player|no=6|nat=AND|pos= DEF|name= [[Àlex Roca]]}}
+{{Fs player|no=7|nat=AND|pos= DEF|name= [[Jordi Rubio]] |other= [[Capità (futbol)|VC]]}}
+{{Fs player|no=8|nat=AND|pos= MIG|name= [[Josep Ayala]]}}
+{{Fs player|no=9|nat=AND|pos= DAV|name= [[Boris Antón]]}}
+{{Fs player|no=10|nat=POR|pos= DAV|name= [[Pedro Reis]]}}
+{{Fs player|no=11|nat=CAT|pos= DAV|name= [[Joan Salomó]]}}
+{{Fs player|no=13|nat=CAT|pos= POR|name= [[Ricard Fernández]]}}
+{{Fs mid}}
+{{Fs player|no=14|nat=CAT|pos= DAV|name= [[Víctor Bernat]]}}
+{{Fs player|no=15|nat=AND|pos= MIG|name= [[Marc Amat]]}}
+{{Fs player|no=17|nat=AND|pos= DEF|name= [[Gerard Aloy]]}}
+{{Fs player|no=18|nat=ESP|pos= DEF|name= [[Miguel Ruiz]]}}
+{{Fs player|no=19|nat=AND|pos= MIG|name= [[Roger Nazzaro]]}}
+{{Fs player|no=21|nat=AND|pos= MIG|name= [[Sandro Gutiérrez]]}}
+{{Fs player|no=22|nat=AND|pos= MIG|name= [[Sergio Crespo]]}}
+{{Fs player|no=23|nat=AND|pos= DAV|name= [[Juli Sánchez]]}}
+{{Fs player|no=24|nat=AND|pos= MIG|name= [[Walid Bousenine]]}}
+{{Fs player|no=25|nat=AND|pos= DEF|name= [[Cristian Orosa]]}}
+{{Fs player|no= |nat=AND|pos= MIG|name= [[Aitor Pereira]]}}
+{{Fs end}}
+
+== Referències ==
+{{Referències}}
+
+== Enllaços externs ==
+* [http://www.uesantacoloma.com/ Web oficial de la UE Santa Coloma]
+* [http://es.soccerway.com/teams/andorra/ue-santa-coloma/ UE Santa Coloma a Soccerway]
+
+{{Equips de futbol d'Andorra}}
+
+{{ORDENA:Unio Esportiva Santa Coloma}}
+[[Categoria:Clubs de futbol andorrans]]
+[[Categoria:Organitzacions d'Andorra la Vella]]

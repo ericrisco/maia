@@ -1,0 +1,28 @@
+{{Infotaula organització
+| colors = {{color box|red}} {{color box|green}} [[vermell]], [[verd]]
+| data_fundacio = [[1999]]
+| lliga = [[Lliga andorrana de futbol]]
+| lloc_web = http://www.futbolclub-lusitanos.com 
+| equipament={{Multi equipació esportiva | pattern_b1 =_green & redhorizontal|leftarm1=FFFFFF|body1=ffFFFF|rightarm1=ffFFFF|shorts1=008633|socks1=FFFFFF
+ |pattern_b2=_thin whitehoops|leftarm2=008633|body2=008633|rightarm2=008633|shorts2=ff0000|socks2=ff0000|
+ |pattern_b3 =_por12a|leftarm3 = FFFFFF|body3 = FFFFFF|rightarm3 =FFFFFF|shorts3 = FF0000|socks3 = FF0000}}
+}}
+El '''FC Lusitanos''' és un club [[Andorra|andorrà]] de [[futbol]] de la ciutat d'[[Andorra la Vella]].
+
+Va ser fundat l'any 1999 per un grup d'immigrants portuguesos.<ref>{{ref-web|títol= Andorra List of foundation dates| url= http://www.rsssf.com/tablesa/andofound.html |consulta= 2017-04-09 |editor=rsssf.com}}</ref> La major part dels jugadors solien ser portuguesos però en els últims anys això ha canviat, hi ha cada cop més diversitat en la nacionalitat dels jugadors. La major part dels aficionats també eren portuguesos però la fama del club i del futbol andorrà va creixent al país la qual cosa fa que hi hagi cada cop més andorrans. Gràcies a aquest mateixa fama el FC Lusitans és el club andorrà amb més seguidors del país, seguidors que es fan notar jornada rere jornada. És l'unic equip andorrà que disposa de psicòleg esportiu.
+
+Una greu crisi econòmica va dur l'equip al descens en la temporada 2018-19 i, un any després, a la seva desaparició.<ref>{{Ref-web|títol=L’FC Lusitans, expulsat|url=https://elprincipat.com/lfc-lusitans-expulsat/|data=2020-07-04|consulta=2022-07-05|nom=Carles|cognom=Alonso|editor=El Principat}}</ref><ref>{{Ref-web|títol=El saig embarga 4.000 euros a l'FC Lusitans|url=https://www.diariandorra.ad/noticies/esports/2021/09/16/el_saig_embarga_000_euros_lusitans_186824_1128.html|data=2021-09-16|consulta=2022-07-05|editor=Diari d'Andorra}}</ref>
+
+== Palmarès ==
+* '''2 [[Lliga andorrana de futbol]]''': 2011–12, 2012–13<ref>{{ref-web|títol= Andorra - List of Champions| url= http://www.rsssf.com/tablesa/andochamp.html |consulta= 2017-04-09 |editor=rsssf.com}}</ref>
+* '''1 [[Copa Constitució]]''': 2002<ref name="cup">{{ref-web|url=http://www.rsssf.com/tablesa/andocuphist.html |títol=Andorra - List of Cup Finals|editor=rsssf.com|consulta=2016-09-16}}</ref>
+* '''2 [[Supercopa andorrana de futbol]]''': 2012, 2013
+* '''1 [[Segona Divisió (Andorra)]]''': 1999–00
+
+== Referències ==
+{{Referències}}
+
+{{Equips de futbol d'Andorra}}
+
+[[Categoria:Clubs de futbol andorrans]]
+[[Categoria:Clubs esportius d'Andorra la Vella]]

@@ -1,0 +1,48 @@
+{{Infotaula organització |
+ nom = UE Engordany |
+ colors = {{color box|black}} {{color box|white}} [[negre]], [[blanc]] |
+ nom_original = Unió Esportiva Engordany |
+ alies = ''Guerrers'', ''Fidels'' |
+ data_fundacio = 1981 |
+ lloc_web = http://ueengordauny.jimdo.com/ 
+ |equipament= {{Multi equipació esportiva | pattern_b1 =_whitestripes| pattern_so1=_3whitehoops|
+ leftarm1=000000|body1=000000|rightarm1=000000|shorts1=000000|socks1=000000|
+ | leftarm2=FF0000|body2=FF0000|rightarm2=FF0000|shorts2=FFFFFF|socks2=FF0000}}
+}}
+La '''Unió Esportiva Engordany''' és un [[club de futbol]] [[Andorra|andorrà]] de la ciutat d'[[Escaldes-Engordany]].
+
+== Història ==
+El club va ser fundat en 1980, però la seva inscripció va fer-se el 28 de gener de 1981 per Manuel Puerta Martín, Manuel Varela Valés i Josep Rodríguez Sànchez.<ref>{{ref-web|url= http://ueengordany.blogspot.com/2009/02/partido-partido.html|títol=U.E. ENGORDANY 2008/2009: HISTORIA|nom=U. E.|cognom=Engordany|data= 10 febrer 2009}}</ref> L'any 2001 es va afiliar a la [[Federació Andorrana de Futbol]] i va començar a competir a la segona divisió. L'any 2003 va pujar a primera divisió guanyant la segona divisió, descendint l'any següent. La temporada 2013-14 va tornar a guanyar la segona divisió andorrana.<ref>{{ref-web|url= http://www.faf.ad/pnfg/NNws_ShwNewDup?codigo=1005640&cod_primaria=3000278&cod_secundaria=3000278#.VhLiTiulpns|títol=FAF - L'UE Engordany té l'ascens directe a tir|website=www.faf.ad}}</ref>
+
+L'èxit esportiu més important fins ara és la final de la [[Copa Constitució]] de l'any 2016. Després de guanyar les fases d'eliminació davant rivals més forts com l'[[FC Lusitans]] i la [[Unió Esportiva Sant Julià]], finalment l'equip va perdre la final contra la [[Unió Esportiva Santa Coloma]].<ref name="cup">{{ref-web|url= http://www.rsssf.com/tablesa/andocuphist.html |títol=Andorra - List of Cup Finals| editor=rsssf.com|access-date=2016-09-16}}</ref>
+
+L'any 2017 el club va tenir un nou projecte amb canvis en tota l'organització.<ref>{{ref-web|url= http://www.elperiodic.ad/noticia/59424/la-ue-engordany-presenta-un-projecte-de-maxims|títol=La UE Engordany presenta un projecte de màxims}}</ref> Una de les seves cares noves va ser [[Christian Cellay]], jugador argentí de trajectòria i que va arribar-hi Andorra aquest any.
+
+La Unió Esportiva Engordany va tenir un equip de bàsquet que va assolir diferents títols durant la seva història.
+
+== Palmarès ==
+=== Futbol ===
+* '''[[Segona Divisió (Andorra)|Segona Divisió]]:'''
+** 2002-03, 2013-14
+
+=== Basquetbol ===
+* '''Lliga Andorrana de Bàsquet:'''
+** 2010-11, 2011-12, 2013-14, 2014-15
+* '''Copa LAB:'''
+** 2012
+
+== Referències ==
+{{Referències}}
+
+== Enllaços externs ==
+* [http://ueengordauny.jimdo.com/ Web oficial] {{Webarchive|url= https://web.archive.org/web/20161005225740/http://ueengordauny.jimdo.com/ |date=2016-10-05}}
+* [http://www.uefa.com/teamsandplayers/teams/club=84697/domestic/index.html Perfil a UEFA]
+* [http://www.weltfussball.de/teams/ue-engordany/ Perfil a Weltfussball]
+* [http://www.football-lineups.com/team/UE_Engordany/ Perfil a Football-Lineups]
+
+{{Equips de futbol d'Andorra}}
+
+{{ORDENA:Unio Esportiva Engordany}}
+[[Categoria:Clubs de futbol andorrans]]
+[[Categoria:Clubs de bàsquet europeus]]
+[[Categoria:Organitzacions d'Escaldes-Engordany]]

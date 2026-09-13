@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**689** documents · **138** fonts · **0** aptes com a model de llengua · **120** temes amb contingut.
+**690** documents · **139** fonts · **0** aptes com a model de llengua · **120** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -513,6 +513,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Els clubs](temes/esports/futbol/clubs-i-competicions/els-clubs.md) | `temes/esports/futbol/clubs-i-competicions` | compilada | contemporania | no | `wikipedia-clubs-futbol-andorra` |
 | [El FC Andorra](temes/esports/futbol/clubs-i-competicions/fc-andorra.md) | `temes/esports/futbol/clubs-i-competicions` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 | [La Copa Constitució](temes/esports/futbol/clubs-i-competicions/la-copa.md) | `temes/esports/futbol/clubs-i-competicions` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 | [La Federació Andorrana de Futbol](temes/esports/futbol/clubs-i-competicions/la-federacio.md) | `temes/esports/futbol/clubs-i-competicions` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
@@ -1425,6 +1426,7 @@
 | [`wikipedia-anys-daurats`](fonts/wikipedia-anys-daurats.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-art-andorra`](fonts/wikipedia-art-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-atletes-andorrans`](fonts/wikipedia-atletes-andorrans.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-clubs-futbol-andorra`](fonts/wikipedia-clubs-futbol-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-escacs-andorra`](fonts/wikipedia-escacs-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-esport-andorra`](fonts/wikipedia-esport-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-esquiadors-andorrans`](fonts/wikipedia-esquiadors-andorrans.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

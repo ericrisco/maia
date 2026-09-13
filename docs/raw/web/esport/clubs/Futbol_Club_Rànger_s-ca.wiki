@@ -1,0 +1,25 @@
+{{Infotaula organització
+| colors = {{color box|yellow}} {{color box|blue}} [[groc]], [[blau]]
+| data_fundacio = [[1981]]
+| equipament={{Multi_equipació_esportiva | pattern_la1 =_blueborder|pattern_b1=_thinbluesides|pattern_ra1=_blueborder
+ |leftarm1=ffff00|body1=ffff00|rightarm1=ffff00|shorts1=0000ff|socks1=ffff00
+ |pattern_la2=_yellowborder|pattern_b2=_thinyellowsides|pattern_ra2=_yellowborder
+ |leftarm2=0000ff|body2=0000ff|rightarm2=0000ff|shorts2=ffff00|socks2=0000ff}}
+}}
+El '''FC Rànger's''' és un club [[Andorra|andorrà]] de [[futbol]] de la ciutat d'[[Andorra la Vella]] fundat l'any [[1981]] i que s'afilià a la lliga el [[1999]].<ref>{{ref-web|títol= Andorra List of foundation dates| url= http://www.rsssf.com/tablesa/andofound.html |consulta= 2017-04-09 |editor=rsssf.com}}</ref>
+
+== Palmarès ==
+* '''2 [[Lliga andorrana de futbol]]''': 2006, 2007<ref>{{ref-web|títol= Andorra - List of Champions| url= http://www.rsssf.com/tablesa/andochamp.html |consulta= 2017-04-09 |editor=rsssf.com}}</ref>
+* '''1 [[Supercopa andorrana de futbol]]''': 2006
+
+== Referències ==
+{{Referències}}
+
+== Enllaços externs ==
+* [http://www.uefa.com/footballEurope/Club=78063/domestic.html UEFA.com - FC Rànger's]
+
+{{Equips de futbol d'Andorra}}
+
+{{ORDENA:Futbol Club Ranger'S}}
+[[Categoria:Clubs de futbol andorrans]]
+[[Categoria:Clubs esportius d'Andorra la Vella]]

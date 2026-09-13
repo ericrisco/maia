@@ -1,0 +1,24 @@
+{{Infotaula organització |
+ nom = Casa del Benfica |
+ nom_original = Futbol Club Casa del Benfica |
+ colors = {{color box|red}} {{color box|white}} [[vermell]], [[blanc]] |
+ data_fundacio = 2003 |
+ extincio = 2014 |
+ lliga = [[Segona Divisió (Andorra)| 2a Divisió d'Andorra]] |
+| equipament={{Multi equipació esportiva | leftarm1 =ff0000|body1=ff0000|rightarm1=ff0000|shorts1=ffffff|socks1=ff0000}}
+}}
+El '''Futbol Club Casa del Benfica'''<ref>[http://www.fedandfut.com/pages/lliga.asp?idioma=cat&idequip=452&doit=showequip&div=senior2a Federació Andorrana]{{Enllaç no actiu|bot=InternetArchiveBot |data=2021}}</ref> és un club [[Andorra|andorrà]] de [[futbol]] de l'[[Aldosa de la Massana|Aldosa]], a la parròquia de [[La Massana]].
+
+Jugà dues temporades a la primera divisió el 2007/08 i 2010/11.<ref>[http://www.rsssf.com/tablesa/ando2011.html Andorra 2011] RSSSF</ref><ref>[http://www.rsssf.com/tablesa/ando08.html Andorra 2008] RSSSF</ref> L'any 2014 no es va inscriure a la competició i es dissolgué.<ref>[http://www.bondia.ad/esports/lentrada-del-ce-sant-julia-la-lliga-es-en-mans-de-la-decisio-de-la-fifa L'entrada del CE Sant Julià a la Lliga és en mans de la decisió de la FIFA], Bon Dia</ref>
+
+== Palmarès ==
+* '''2 [[Segona Divisió (Andorra)|Segona Divisió]]''': 2006/07, 2009/10
+
+== Referències ==
+{{Referències}}
+
+[[Categoria:Clubs de futbol andorrans]]
+[[Categoria:Clubs de futbol desapareguts]]
+[[Categoria:La Massana]]
+
+{{Equips de futbol d'Andorra}}

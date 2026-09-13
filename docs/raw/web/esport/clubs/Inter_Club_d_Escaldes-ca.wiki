@@ -1,0 +1,91 @@
+{{Infotaula organització
+| colors = {{color box|blue}} {{color box|black}} [[blau]], [[negre]]
+| data_fundacio = [[1991]]
+| equipament= {{Multi_equipació_esportiva
+|pattern_la1=_jomacopa2rbb
+|pattern_b1=_jomacopa2rbb
+|pattern_ra1=_jomacopa2rbb
+|leftarm1=0033FF
+|body1=0033FF
+|rightarm1=0033FF
+|shorts1=000000
+|socks1=000000
+|pattern_la2=_jomatoletum3rw
+|pattern_b2=_jomatoletum3rw
+|pattern_ra2=_jomatoletum3rw
+|leftarm2=FF0000
+|body2=FF0000
+|rightarm2=FF0000
+|shorts2=FF0000
+|socks2=FF0000
+|pattern_la3=
+|pattern_b3=_jomawinner2w
+|pattern_ra3=
+|leftarm3=FFFFFF
+|body3=FFFFFF
+|rightarm3=FFFFFF
+|shorts3=FFFFFF
+|socks3=FFFFFF}}
+}}
+L{{'}}'''Inter Club d'Escaldes''' és un club [[Andorra|andorrà]] de [[futbol]] de la ciutat d'[[Escaldes-Engordany]]. Va ser fundat l'any [[1991]] i juga a la [[Primera Divisió d'Andorra|Lliga andorrana de futbol]].
+
+== Història ==
+L'Inter es va fundar al 1991 (o 1993<ref>{{ref-web|títol= Andorra List of foundation dates| url= http://www.rsssf.com/tablesa/andofound.html | consulta= 2017-04-09 | editor=rsssf.com}}</ref>) i juga a la [[Primera Divisió d'Andorra|Lliga andorrana de futbol]] des de la seva primera edició al 1995, quan va obtenir el setè lloc entre dotze clubs. Al seu inici l'Inter va tenir el suport de l'empresa '''Construccions Modernes'''.{{Citació necessària|data=2022}}
+
+L'Inter ha tingut el seu primer èxit amb la consecuació de la lliga en la temporada 2019-20. Fins eixe moment, les seues campanyes més reeixides eren dos tercers llocs (temporades '''1999-2000 i 2000-01''') i la final de la [[Copa Constitució]] del 2002. Després d'algunes temporades lluitant per no perdre la categoria, el 19 d'abril de 2015 el descens es va fer inevitable després de la derrota contra l'[[Futbol Club Encamp|FC Encamp]] per 1-2 que va deixar l'Inter com a cuer de la classificació general.<ref>[http://www.faf.ad/pnfg/NNws_ShwNewDup?codigo=1005950&cod_primaria=3000301&cod_secundaria=3000301#.VTUy0ZNv1S4 FC Santa Coloma dona un cop sobre la taula en endur-se el derbi ciutadà] FAF</ref> Retornà a primera dos anys després, el 2017.<ref>[https://www.elperiodic.ad/noticia/58075/tic-tapa-i-ue-santa-coloma-seran-a-europa-i-linter-es-de-primera Tic Tapa i UE Santa Coloma seran a Europa i l'Inter és de Primera] El Periòdic d'Andorra</ref>
+
+A la [[Segona Divisió (Andorra)|Segona Divisió]] el club va canviar la junta directiva i la seva gestió. Tot i que el primer any només va aconseguir el cinquè lloc, la temporada 2016-17 es va traduir al primer títol de l'Inter en la seva història, quan va assolir la Lliga Biosphere i l'ascens a la [[Lliga andorrana de futbol|Primera Divisió]].{{Citació necessària|data=2022}}
+
+La temporada 2019-20 es proclama campió de la [[Primera divisió andorrana de futbol|primera divisió]] per primer cop en la seua història. El títol també li val per disputar la ronda preliminar de la Lliga de Campions 2020-21; queda eliminat a les primeres de canvi després de perdre contra el Drita kosovar per 2 a 1. Emili Garcia va ser l'artífex del primer gol internacional del club de les Escaldes.
+
+== Plantilla 2026-27 ==
+{{updated|1 de setembre del 2026|<ref>{{ref-web|url= https://es.uefa.com/uefaconferenceleague/clubs/63401--inter-escaldes/squad/ |títol=Plantilla - UEFA Conference League|llengua=es|editor=[[UEFA]].com}}</ref>}}
+
+{{Fs start}}
+{{Fs player|no=1|nat=ESP|pos=POR|name=Juanda Terradez}}
+{{Fs player|no=2|nat=MEX|pos=DF|name=Anwar Hernández}}
+{{Fs player|no=3|nat=ESP|pos=DF|name=Jilmar Torres}}
+{{Fs player|no=4|nat=ESP|pos=DF|name=Álex Sánchez}}
+{{Fs player|no=6|nat=ESP|pos=MF|name=Víctor Alonso}}
+{{Fs player|no=7|nat=ESP|pos=MF|name=Juan Cámara}}
+{{Fs player|no=8|nat=ESP|pos=MF|name=David López}}
+{{Fs player|no=9|nat=ESP|pos=FW|name=Faysal Chouaib}}
+{{Fs player|no=11|nat=ESP|pos=FW|name=Domi Berlanga}}
+{{Fs player|no=13|nat=ESP|pos=POR|name=[[Javier Díaz Sánchez|Javi Díaz]]}}
+{{Fs player|no=14|nat=ESP|pos=MF|name=[[Antonio Otegui]]}}
+{{fs mid}}
+{{Fs player|no=17|nat=AND|pos=DF|name=Adrián Da Cunha "Dacu"}}
+{{Fs player|no=19|nat=ESP|pos=MF|name=Pablo Molina}}
+{{Fs player|no=20|nat=ESP|pos=DEF|name=Marc Jurado}}
+{{Fs player|no=21|nat=AND|pos=DEF|name=Marc Rodriguez}}
+{{Fs player|no=23|nat=ESP|pos=MF|name=Lamine Diaby}}
+{{Fs player|no=24|nat=ESP|pos=DEF|name=Maurizio Pochettino}}
+{{Fs player|no=27|nat=AND|pos=POR|name=Rodrigo Rosaria Fernandes}}
+{{Fs player|no=31|nat=ESP|pos=FW|name=Sol Sidibe}}
+{{Fs player|no=42|nat=ESP|pos=MIG|name=Hugo de Miguel Vicente}}
+{{Fs player|no=44|nat=AND|pos=FW|name=Alex Prelado}}
+{{Fs player|no=70|nat=ESP|pos=FW|name=Borja Arellano}}
+{{Fs end}}
+
+== Palmarès ==
+* '''[[Primera Divisió (Andorra)|Primera Divisió d'Andorra]]''': 2019/20, 2020/21, 2021/22, [[Primera Divisió d'Andorra 2024-25|2024/25]]
+* '''[[Copa Constitució]]''': [[Copa Constitució 2020|2020]], [[Copa Constitució 2023|2023]], [[Copa Constitució 2025|2025]]
+* '''[[Supercopa andorrana de futbol|Supercopa andorrana]]''': 2020, 2021, 2022, 2023
+* '''[[Segona Divisió (Andorra)|Segona Divisió d'Andorra]]''': 2016/17
+
+== Jugadors destacats ==
+{|
+|width="250" valign=top|
+* {{Banderes|Catalunya}} [[Alberto Lopo García|Albert Lopo]]
+* {{Banderes|Mèxic}} [[Odín Patiño]]
+|width="250" valign=top|
+* {{Banderes|França}} [[Fabrice Begeorgi]]
+* {{Banderes|Brasil}} [[Moisés Gonçalves]]
+|}
+
+== Referències ==
+{{Referències}}
+
+{{Equips de futbol d'Andorra}}
+
+[[Categoria:Inter Club d'Escaldes|*]]

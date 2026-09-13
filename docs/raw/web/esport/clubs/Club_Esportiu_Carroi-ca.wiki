@@ -1,0 +1,146 @@
+{{Infotaula organització
+ |equipament={{Multi equipació esportiva | tipus_uniforme = futbol
+ | pattern_b1 =_silverstripes thin | body1=FFC0CB | leftarm1 = 000000 | rightarm1 = 000000 | shorts1=FFFFFF | socks1=FFC0CB }}
+}}
+'''Club Esportiu Carroi''' és un club de futbol professional [[Andorra|andorrà]] amb seu a la capital [[Andorra la Vella]]. Va ser fundat el [[2014]] i juga actualment en la [[Segona Divisió (Andorra)|Segona Divisió d'Andorra]].
+
+== Història ==
+=== Inicis ===
+Fundat el [[2014]] com una acadèmia de futbol<ref>{{Ref-web|url=http://associacions.andorralavella.ad/cec|títol=Club Esportiu Carroi "C.E.C"|editor=andorralavella.ad}}</ref> el '''CE Carroi''' ha estat un club reeixit a nivell nacional juvenil que també ha participat en competicions juvenils de renom internacional a nivell [[Europa|europeu]], com la Mediterranean International Cup<ref>{{Ref-web|url=http://www.bondia.ad/esports/el-ce-carroi-al-mic|títol=El CE Carroi, al MIC|editor=bondia.ad}}</ref> o la ''Copa Internacional d'Andorra''.
+
+Encara que el club sigui conegut per la seva acadèmia de futbol i escola, el juliol de [[2015]], el club va crear un equip més gran per competir en els nivells més alts del país i ser admès a la Segona Divisió.<ref>{{Ref-web|url=http://www.elperiodic.ad/noticia/45569/la-2a-divisio-sampliara-a-catorze-equips-i-seliminaran-els-play-off|títol=La 2a Divisió s'ampliarà a catorze equips i s'eliminaran els play-off|editor=El Periòdic d'Andorra}}</ref>
+
+L'equip va acabar en segon lloc al final de la temporada 2015-16 de Segona Divisió, llest per competir en un play-off de doble partit contra el 7è equip de [[Lliga andorrana de futbol|Primera Divisió]], [[Futbol Club Encamp|FC Encamp]].<ref>{{format ref}} http://www.faf.ad/pnfg/NNws_ShwNewDup?codigo=1006681&cod_primaria=3000301&cod_secundaria=3000301</ref>
+
+El partit d'anada del play-off, disputat el [[15 de maig]], va finalitzar amb un empat per 0-0. Tot i això, l'Encamp va presentar un recurs al Comitè de Competició al·legant que el seu rival havia alineat indegudament els futbolistes [[José María Ramírez]] i [[César Daniel González]]. Tal documentació va ser resposta el 20 de maig amb la suspensió definitiva de la sèrie de promoció, atorgant-li la victòria definitiva a l'Encamp i modificant el resultat original del primer matx per un 0-3.<ref>{{Ref-web|títol=El CE Carroi no apel·la al Comitè d'Apel·lació i l'FC Encamp seguirà a la Lliga Grup Becier.|url=http://www.bondia.ad/esports/el-ce-carroi-no-apella-al-comite-dapellacio-i-lfc-encamp-seguira-la-lliga-grup-becier|editor=BonDia.ad|data= 20 de maig de 2016}}</ref> El partit de tornada es va programar per al 22 de maig al Camp de Futbol Municipal d'Encamp, però va ser suspès i mai no es va arribar a jugar.
+
+En la temporada 2016-17 no va participar en la [[Segona Divisió (Andorra)|segona divisió andorrana]].
+
+El curs 2017-2018 va acabar com a tercer classificat a [[Segona Divisió (Andorra)|Segona Divisió]] i, per tant, no va poder disputar el play-off d'ascens a [[Lliga andorrana de futbol|Primera Divisió]].
+
+=== Ascens a Primera Divisió ===
+En la campanya 2018-19 va aconseguir quedar segon en [[Segona Divisió (Andorra)|segona divisió]], i per tant, va disputar el play-off d'ascens a [[Lliga andorrana de futbol|primera divisió]] contra el [[Futbol Club Lusitans|Lusitanos]], setè classificat en primera divisió. L'anada, que la van disputar com a locals, van guanyar el partit per 1-0 amb un gol d'Alejandro Manuel Muñoz Caballe al minut 70. En el partit de tornada disputat com a visitants en finalitzar els 90 minuts el resultat era 1-0 a favor del lluïsitans gràcies al gol anotat pel jugador peruà Héctor Urrunaga al minut 68, a la pròrroga es va mantenir el resultat i a la tanda de penals el CE Carroi es va alçar amb el triomf per 2 a 4 al Luisitanos aconseguint així el primer ascens de la seva jove història a la [[Lliga andorrana de futbol|Primera Divisió d'Andorra]].
+
+A la temporada 19/20, en el seu debut a Primera, el conjunt morat aconsegueix la permanència a la màxima categoria arribant a més als quarts de final de la [[Copa Constitució]]. La temporada següent amb el tècnic Paco Montesinos dirigint el combinat, aconsegueixen mantenir la categoria a l'elit del futbol andorrà després del play-off de permanència sent l'equip revelació de la primera volta del campionat de Lliga.
+
+== Temporades ==
+{| class=wikitable
+!Temporada
+!
+! Pos.
+! PJ.
+! G
+! E
+! P
+! GF
+! GC
+! DG
+! Pts
+! [[Copa Constitució|Copa]]
+|-
+| 2015-16
+| rowspan=3 | [[Segona Divisió (Andorra)|Segona Divisió]]
+| align=center | '''2'''
+| align=right | 23
+| align=right | 19
+| align=right | 1
+| align=right | 3
+| align=right | 73
+| align=right | 23
+| align=right | +50
+| align=right | '''58'''
+| align=right | No hi va participar
+|-
+| 2017-18
+| align=center | '''3'''
+| align=right | 22
+| align=right | 13
+| align=right | 3
+| align=right | 6
+| align=right | 72
+| align=right | 35
+| align=right | +37
+| align=right | '''42'''
+| align=right | Primera ronda
+|-
+| 2018-19
+| align=center | '''2'''{{Augment}}
+| align=right | 23
+| align=right | 17
+| align=right | 2
+| align=right | 4
+| align=right | 75
+| align=right | 29
+| align=right | +46
+| align=right | '''53'''
+| align=right | Primera ronda
+|-
+| 2019-20
+| rowspan=3 | [[Lliga andorrana de futbol|Primera Divisió]]
+| align=center | '''7'''
+| align=right | 24
+| align=right | 3
+| align=right | 3
+| align=right | 18
+| align=right | 14
+| align=right | 42
+| align=right | -28
+| align=right | '''12'''
+| align=right | [[Copa Constitució 2020|Quarts de final]]
+|-
+| 2020-21
+| align=center | '''7'''
+| align=right | 20
+| align=right | 5
+| align=right | 4
+| align=right | 11
+| align=right | 20
+| align=right | 34
+| align=right | -14
+| align=right | '''19'''
+| align=right | [[Copa Constitució 2021|Quarts de final]]
+|-
+| 2021-22
+| align=center | '''8'''{{Disminució}}
+| align=right | 27
+| align=right | 3
+| align=right | 2
+| align=right | 22
+| align=right | 22
+| align=right | 73
+| align=right | -51
+| align=right | '''11'''
+| align=right | [[Copa Constitució 2022|Quarts de final]]
+|-
+|2022-23
+|[[Segona Divisió (Andorra)|Segona Divisió]]
+|'''4'''{{Augment}}
+|24
+|15
+|3
+|6
+|65
+|34
+| +31
+|'''48'''
+|Primera ronda
+|-
+|2023-24
+|[[Lliga andorrana de futbol|Primera Divisió]]
+|'''9'''{{Disminució}}
+|27
+|3
+|4
+|20
+|19
+|77
+| -58
+|'''13'''
+|Primera ronda
+|}
+
+== Referències ==
+{{Referències}}
+
+[[Categoria:Clubs de futbol andorrans]]
+[[Categoria:Clubs esportius establerts el 2014]]

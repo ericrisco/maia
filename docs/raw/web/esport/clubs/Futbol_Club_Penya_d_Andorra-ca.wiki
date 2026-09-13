@@ -1,0 +1,172 @@
+{{Infotaula organització| equipament={{Multi equipació esportiva 
+|pattern_la1=|pattern_b1=_white_squares_gradient|pattern_ra1=|pattern_sh1=_whitebottom|pattern_so1=_band_white|
+ leftarm1=ff0000|body1=ff0000|rightarm1=ff0000|shorts1=ff0000|socks1=ff0000|
+ pattern_la2=|pattern_b2=_redhoop_whitehoop|pattern_ra2=|pattern_sh2=|pattern_so2=_band_red|
+ leftarm2=000000|body2=000000|rightarm2=000000|shorts2=000000|socks2=000000
+}}}}
+El '''Futbol Club Penya d'Andorra''' és un equip de [[futbol]] [[Andorra|andorrà]] amb seu a [[Andorra la Vella]]. L'equip juga actualment a la [[Lliga andorrana de futbol|Primera Divisió]].
+
+== Història ==
+El '''FC Penya d'Andorra''', abans conegut com a '''Associació Club Penya Encarnada d'Andorra''', es va fundar el 2009 com a associació cultural per a la promoció del futbol i l'esport a la parròquia d'Andorra la Vella en defensa del nom i l'honor de la Casa del [[Sport Lisboa e Benfica|Benfica]].<ref>{{Ref-web|url=https://associacions.andorralavella.ad/cpenyaencarnada|títol=Club Penya Encarnada d'Andorra &#124; Registre Comunal d'Associacions|obra=associacions.andorralavella.ad}}</ref> L'equip va ascendir per primera vegada a Primera Divisió després de quedar primer a la [[Segona Divisió d'Andorra 2014-2015|temporada 2014-15]] de [[Segona Divisió (Andorra)|Segona Divisió]].<ref>{{Ref-web|cognom=RTVA.|nom=Andorra Difusió.|títol=El Futbol Club Penya d'Andorra és equip de primera divisió|obra=Andorra Difusió. Notícies i actualitat de la Ràdio i Televisió|data=1980-01-01|url=https://www.andorradifusio.ad/esports/penya-encarnada-es-equip-de-primera-divisio|llengua=ca|consulta=2020-09-18|arxiudata=2015-12-25|arxiuurl=https://web.archive.org/web/20151225173301/https://www.andorradifusio.ad/esports/penya-encarnada-es-equip-de-primera-divisio}}</ref>
+
+Tot i que el club va baixar la temporada següent a Segona Divisió,<ref>{{Ref-web|url=http://www.andorradifusio.ad/Esports/el-penya-encarnada-consuma-el-descens|títol=El Penya Encarnada consuma el descens &#124; Andorra Difusió|consulta=2022-08-26|arxiudata=2022-08-26|arxiuurl=https://web.archive.org/web/20220826101410/https://www.andorradifusio.ad/esports/el-penya-encarnada-consuma-el-descens}}</ref> va disputar una eliminatòria de descens a dues bandes per una plaça a la Primera Divisió del 2017-18 contra el [[Futbol Club Ordino|FC Ordino]]. El Penya Encarnada va guanyar per 5-3 al global i va pujar a Primera Divisió.<ref>{{Ref-web|url=https://cadenaser.com/emisora/2017/06/01/radio_ser_principat_d_andorra/1496334556_930562.html|títol=El Penya Encarnada a la Lliga Grup Sant Eloi|nom=Cadena|cognom=SER|data=1 juny 2017|obra=Cadena SER|consulta=26 d'agost 2022|arxiuurl=https://web.archive.org/web/20221215201359/https://cadenaser.com/emisora/2017/06/01/radio_ser_principat_d_andorra/1496334556_930562.html|arxiudata=15 de desembre 2022}}</ref> Després del descens del 2018 el club va tornar a la Primera Divisió el 2020.<ref>{{Ref-web|cognom=RTVA.|nom=Andorra Difusió.|títol=La Penya Encarnada torna a primera i la UE Santa Coloma es queda sense opcions per al títol|obra=Andorra Difusió. Notícies i actualitat de la Ràdio i Televisió|data=2020-07-12|url=https://www.andorradifusio.ad/esports/penya-encarnada-torna-primera-ue-santa|llengua=ca|consulta=2020-09-18|arxiudata=2022-08-26|arxiuurl=https://web.archive.org/web/20220826101407/https://www.andorradifusio.ad/esports/penya-encarnada-torna-primera-ue-santa}}</ref>
+
+== Colors i distintiu ==
+Els colors i l'escut originals invocaven la seva identitat portuguesa i estaven relacionats, juntament amb el club local [[Futbol Club Casa del Benfica|Casa Estrella del Benfica]], amb el club portuguès [[Sport Lisboa e Benfica|Benfica]]. Els colors tradicionals del club eren el vermell i el negre, per això el sobrenom d'encarnats, i l'escut era una petita variació del club esportiu del Benfica.
+
+== Palmarès ==
+* '''[[Segona Divisió (Andorra)|Segona Divisió]]:'''
+
+:: ''Guanyadors (3):'' 2014-15, 2019-20, 2021-22
+
+== Temporades recents ==
+{| class=wikitable style="text-align:center;"
+! style="color:white; background:#FF0000;" |Lliga
+! style="color:white; background:#FF0000;" | Temporada
+! style="color:white; background:#FF0000;" | {{Abr|Pos|Posició a la lliga}}
+! style="color:white; background:#FF0000;" | {{Abr|Jug|Jugats}}
+! style="color:white; background:#FF0000;" | {{Abr|V|Victòries}}
+! style="color:white; background:#FF0000;" | {{Abr|E|Empats}}
+! style="color:white; background:#FF0000;" | {{Abr|D|Derrotes}}
+! style="color:white; background:#FF0000;" | {{Abr|GF|Gols a favor}}
+! style="color:white; background:#FF0000;" | {{Abr|GC|Gols en contra}}
+! style="color:white; background:#FF0000;" | {{Abr|GD|Gols de diferència}}
+! style="color:white; background:#FF0000;" | {{Abr|Pts|Points}}
+|-
+| [[Segona Divisió (Andorra)|Segona Divisió]]
+| 2009–10
+| '''7'''
+| 14
+| 1
+| 0
+| 13
+| 13
+| 57
+| −44
+| 3
+|-
+| [[Segona Divisió (Andorra)|Segona Divisió]]
+| 2010–11
+| '''7'''
+| 18
+| 4
+| 1
+| 13
+| 27
+| 50
+| −23
+| 13
+|-
+| [[Segona Divisió (Andorra)|Segona Divisió]]
+| 2011–12
+| '''9'''
+| 18
+| 2
+| 3
+| 13
+| 26
+| 62
+| −36
+| 9
+|-
+| [[Segona Divisió (Andorra)|Segona Divisió]]
+| 2012–13
+| '''11'''
+| 22
+| 5
+| 0
+| 17
+| 30
+| 103
+| −73
+| 15
+|-
+| [[Segona Divisió (Andorra)|Segona Divisió]]
+| 2013–14
+| '''14'''
+| 14
+| 1
+| 1
+| 12
+| 13
+| 74
+| −61
+| 4
+|-
+| [[Segona Divisió (Andorra)|Segona Divisió]]
+| 2014–15
+| style="background:green;" | '''1'''
+| 16
+| 13
+| 2
+| 1
+| 70
+| 23
+| +47
+| 41
+|-
+| [[Lliga andorrana de futbol|Primera Divisió]]
+| 2015–16
+| style="background:red;" | '''8'''
+| 20
+| 1
+| 3
+| 16
+| 15
+| 58
+| -43
+| 3
+|-
+| [[Segona Divisió (Andorra)|Segona Divisió]]
+| 2016–17
+| style="background:green;" | '''2'''
+| 23
+| 17
+| 4
+| 2
+| 89
+| 27
+| +62
+| 55
+|-
+| [[Lliga andorrana de futbol|Primera Divisió]]
+| 2017–18
+| style="background:red;" | '''8'''
+| 27
+| 3
+| 2
+| 22
+| 15
+| 126
+| -111
+| 11
+|-
+| [[Segona Divisió (Andorra)|Segona Divisió]]
+| 2018–19
+| '''4'''
+| 23
+| 15
+| 2
+| 6
+| 70
+| 31
+| +39
+| 47
+|-
+| [[Segona Divisió (Andorra)|Segona Divisió]]
+| 2019-20
+| style="background:green;" | '''1'''
+| 16
+| 15
+| 1
+| 0
+| 53
+| 7
+| +46
+| 46
+|}
+
+== Referències ==
+{{Referències}}
+
+[[Categoria:Clubs de futbol andorrans]]
