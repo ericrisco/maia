@@ -1287,9 +1287,14 @@ de Rouffilhac i Bos del Vigan assajaren el 1935 plantes del Dauphiné; Bos
 produïa llavor pròpia des de 1941 i dos alambins articulaven dotze municipis.
 La regió produïa uns 350 kg anuals, amb rendiments de 0,8–0,9 kg d'essència per
 100 kg de flor. No hi hagué venda el 1946–1948 i els estocs només sortiren el
-1949. L'OCR de la premsa local prova, a més, un sindicat de productors actiu el
-1937 i un taller/oficina de compra projectat a Martel el 1939; els facsímils
-directes resten bloquejats pel servidor i no s'han simulat.
+1949. L'OCR de la premsa local corregeix la cronologia: el sindicat departamental
+es constituí a Cahors el 1930 per comprar material, destil·lar en comú, vendre i
+promoure plantacions. Les comandes superaven 60.000 peus aquell octubre;
+l'hivern 1936–1937 se n'havien plantat més de 700.000. Demeaux era president,
+Denègre secretari, i el 1937 un nou alambí havia d'absorbir 25–30 quintars de
+flor diaris. El taller/oficina de compra de Martel projectat el 1939 era una
+baula posterior, no el primer sindicat del Lot. Els facsímils directes resten
+bloquejats pel servidor i no s'han simulat.
 
 La branca pública permet seguir el pas d'assaig a patrimoni. Una crònica de
 l'assemblea Quercy PPAM de setembre de 2024 situa les primeres collites
