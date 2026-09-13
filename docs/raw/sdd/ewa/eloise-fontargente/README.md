@@ -947,6 +947,20 @@ notícies laterals i les metadades del PDF el situen el 2013. La frase que data
 la patent de «vapeur sèche» el 2008 queda com a relat periodístic, perquè el
 títol públic propi localitzat fou presentat el 2013.
 
+Dos vídeos completen el retrat amb veu directa. A France 5 (20/01/2017),
+Laurent descriu una finca petita que treballava amb una quinzena d'altres
+agricultors, extracció immediata després de la collita i l'estratègia d'entrar
+als grans restaurants pels pastissers, més disciplinats amb pipetes i dosis.
+En el documental d'Arte publicat el 20/05/2016 es defineix alhora agricultor i
+transformador, explica la paradoxa d'aprofitar tecnologia del sector nuclear
+malgrat el seu ecologisme adolescent i reconeix un límit: dir que l'essència
+reprodueix el 90, 95 o 100 % de la planta és subjectiu perquè no tenien eines
+analítiques prou avançades. El «potser 100 %» és, per tant, apreciació sensorial,
+no resultat mesurat. Les transcripcions automàtiques franceses han estat
+conservades amb els seus errors i les xifres només s'usen quan el context és
+clar. [France 5](https://www.youtube.com/watch?v=Ryn-6Bz57EY);
+[Arte](https://www.youtube.com/watch?v=ivfKAqX8Lvg).
+
 Segons el seu relat, comprà una patent del CEA, construí un prototip, començà
 les extraccions el 2004 i assolí escala gran el 2008 amb vapor sec a baixa
 temperatura. Chanel féu una comanda el 2009 i, des de febrer de 2011, la xarxa
