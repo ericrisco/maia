@@ -1362,6 +1362,29 @@ fitxa corporativa que situa el naixement «a Malemort» el 1934 contradiu totes
 dues versions i el trasllat de 1968–1969. Es conserva com a discrepància
 comercial, no com a nova cronologia.
 
+El reportatge complet de *La Montagne* concreta l'escala: **12.000 m²**, quatre
+línies, 25.000 tones anuals de fruita i ritmes de 11.000–19.000 pots/hora. El
+2023 haurien sortit 31 milions de pots de confitura, 90 milions de petits pots
+de compota i 60 milions de gourdes. Henry situava Delvert quarta-cinquena a
+França en confitures i tercera-quarta en compotes; la compra de 300 Casino
+feia preveure un 10–15 % més de producció. La cronologia periodística afegeix
+Jacques al relleu el 1960, Malemort el 1968, compotes en pot i després per
+beure des de 2007 i primeres gourdes declarades 100 % reciclables el 2022.
+`Jacques 1960` continua pendent de contrast amb Algèria i els estatuts de 1967.
+
+El reportatge anterior de *La Montagne* del **30/01/2018** mostra la mateixa
+configuració de quatre línies ja en servei, **118 empleats** en torns 2×8 o
+3×8, 17.000 pots/hora i controls per raigs X. Les pomes fresques es compraven
+a França, altres fruites a Europa —moltes a Espanya— i el percentatge de
+fruita variava del 35 al 65 %. Carlos Prieto obria la porta a contractes locals
+amb nous agricultors ecològics. De 118 a 140 empleats hi ha 22 llocs nets més
+(18,6 %), sense que dos talls permetin dibuixar una progressió contínua.
+
+La mateixa peça diu que el producte inicial de 1934 foren confitures, mentre
+*La Vie corrézienne* diu conserves de carn i el dossier municipal comença amb
+ceps el 1935. La coincidència en Beynat i el soterrani no resol la discrepància
+de producte; s'han mantingut les tres versions atribuïdes.
+
 Altres rastres de 2024 completen el retrat. Una publicació de Delvert del 10 de
 gener mostra la confitura Paquito intensa Pêche–Abricot, 65 % fruita, reduïda
 en sucres, preparada a Malemort i amb el distintiu `Saveur de l'Année 2024`;
