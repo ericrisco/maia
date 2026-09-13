@@ -223,12 +223,32 @@ anys i a dos paràgrafs de distància:
 **Totes dues s'introdueixen com «la població andorrana» o «ciutadans andorrans de
 ple dret».** No poden ser el mateix.
 
-**Hipòtesi del corpus, marcada com a tal:** la sèrie B seria **andorrans més
-[«nats a Andorra»](./els-nats-a-andorra.md)** —la categoria censal de nascuts al
-país sense nacionalitat— i la A **només els nacionals**. **La font no ho diu**, i
-el corpus **no ho dona per resolt**. Vegeu
-[les xifres que no quadren](../demografia/les-xifres-que-no-quadren.md), que
-recull el mateix tipus de problema en una altra sèrie.
+~~**Hipòtesi del corpus:** la sèrie B seria andorrans més «nats a Andorra» i la A
+només els nacionals.~~
+
+**TANCAT, i amb el càlcul a la vista.** **Carmen Barbero**, al **mateix volum**,
+dona les **xifres absolutes**
+([font](../../../fonts/barbero-dones-migrants-1997.md)): **64.479 habitants**,
+**13.019 amb nacionalitat andorrana** i **7.312 nascuts a Andorra** que la poden
+adquirir als 18 anys.
+
+| Càlcul | Resultat | Sèrie de Ros Pascuet, 1996 |
+| --- | ---: | ---: |
+| 13.019 / 64.479 | **20,19 %** | **20,2 %** (sèrie A) |
+| (13.019 + 7.312) / 64.479 | **31,53 %** | **31,5 %** (sèrie B) |
+
+**Coincideixen al decimal.** La **sèrie A compta només els nacionals**; la
+**sèrie B hi suma els [nats a Andorra](./els-nats-a-andorra.md)**.
+
+**Cap de les dues autores no ho explica**: la conclusió surt de creuar les xifres
+absolutes d'una amb els percentatges de l'altra. **El corpus dona el càlcul
+perquè es pugui refer.** I hi ha una tercera concordança independent: **Sandrine
+Rui**, al mateix volum, dona **19,5 % d'andorrans**, que és la sèrie A per al
+1995 ([per què tothom s'hi sentia integrat](./per-que-tothom-shi-sentia-integrat.md)).
+
+Vegeu [les xifres que no quadren](../demografia/les-xifres-que-no-quadren.md),
+que recull el mateix tipus de problema en una altra sèrie — **i que aquesta
+vegada s'ha pogut resoldre**.
 
 ## La nacionalitat: la porta que es tanca el 1975 i s'obre el 1995
 
@@ -293,9 +313,14 @@ el corpus la reté com a **posició**, no com a descripció neutra.
 4. **Les quotes del 1985, 1993-94 endavant per nacionalitat**: l'autora només
    dona el repartiment 40/40/20 per al període 1984-1987.
 5. **Quantes persones hi havia a cada quota.** Hi ha els criteris i no les xifres.
-6. **Les revisions mèdiques dels immigrants** (reglament del 15.06.1993): què
-   comprovaven i amb quines conseqüències. **Delicat i no documentat.**
-7. **La incoherència de les dues sèries de percentatges** (vegeu més amunt).
+6. ~~**Les revisions mèdiques dels immigrants** (reglament del 15.06.1993): què
+   comprovaven i amb quines conseqüències.~~ **PARCIALMENT TANCAT**: segons
+   l'ADMA, el protocol excloïa **no sols malalties infectocontagioses o defectes
+   físics greus, sinó diabetis, hepatitis C i sordesa**, i **el pagava
+   l'immigrant** ([les dones migrants el 1997](./les-dones-migrants-el-1997.md)).
+   **El text del protocol segueix sense veure's.**
+7. ~~**La incoherència de les dues sèries de percentatges.**~~ **TANCADA** (vegeu
+   més amunt).
 8. **Què va ser de la Comissió mixta d'alt nivell** després del 1993.
 9. **Francesca Ros Pascuet**: el corpus no té fitxa de persona, i és **font i, després,
    ministra de la matèria que descriu**.
