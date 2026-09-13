@@ -883,15 +883,24 @@ de 1971-1972 i 1972-1973: és ara el candidat més fort per al `M. Nitzer` de
 1967, encara sense una font que confirmi que totes dues mencions designen la
 mateixa persona o que exercia la vicepresidència.
 
-Per a **1973-1974**, l'OCR de cerca de Gallica retorna Jacques amb els codis
-`7 9 A` —cronometratge/càlculs, direcció alpina i arbitratge— i indexa alhora
-els noms Gilles i Laurent Dreyfus-Schmidt. Els rengles complets no s'han
-elevat a fet: Gallica activà la verificació de seguretat abans de poder
-recuperar els facsímils corresponents. El mateix anuari sí descriu diverses
-proves de la SSTMB al Ballon d'Alsace el 1974, entre elles la Coupe Dynastar
-des Jeunes, el Tour du Ballon, la Coupe des Parfums Givenchy i el Challenge La
-Hutte Belfortaine. Aquesta activitat és del club i no s'atribueix personalment
-a Jacques sense actes o programa nominal. Fonts: FFS, [arxiu de
+El facsímil de **1973-1974** corregeix la continuïtat del mandat: el directori
+de clubs, p. 55, ja designa **Jean-Claude Brunet** com a president i Pierre
+Gerard com a corresponsal. Jacques consta encara com a president a l'anuari
+1972-1973 i a la professió de fe del primer trimestre de 1973, de manera que
+el relleu es produí —o entrà en l'estat editorial— entre tots dos volums; les
+actes `22 Z 2-3` han de donar-ne la data exacta. Jacques continuà, tanmateix,
+en el quadre nacional: la p. 105 li assigna **7, 9 i A**, cronometratge i
+càlculs, direcció de prova alpina i arbitratge.
+
+La p. 61 registra **Gilles Dreyfus-Schmidt** (1957, SSTM Belfort) amb sèries
+3 en especial, 3 en gegant o sèrie única i 4 en descens, i **Laurent
+Dreyfus-Schmidt** (1959, el mateix club) amb 5 A només en gegant o sèrie
+única. L'entrevista de 2016 identifica Laurent com a fill de Jacques; Gilles
+continua sent una filiació molt probable, no formalment declarada per l'anuari.
+El volum també descriu la Coupe Dynastar des Jeunes, el Tour du Ballon, la
+Coupe des Parfums Givenchy i el Challenge La Hutte Belfortaine. Aquesta
+activitat és del club i no s'atribueix personalment a Jacques sense actes o
+programa nominal. Fonts: FFS, [arxiu de
 revistes](https://ffs.fr/nos-revues/); Gallica, anuaris
 [1971-1972](https://gallica.bnf.fr/ark:/12148/bd6t5352825d),
 [1972-1973](https://gallica.bnf.fr/ark:/12148/bd6t5352829x) i
