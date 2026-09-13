@@ -1,0 +1,81 @@
+---
+type: article
+title: Vigilar i sancionar
+description: "Andorra té un registre de seguretat privada, detectius privats que no poden fer de vigilants, i una llei de vuit articles perquè el Govern apliqui sancions de l'ONU per decret."
+tema: temes/economia/comerc
+veu: compilada
+epoca: contemporania
+apte_llengua: false
+font: jurisprudencia-ad
+timestamp: 2026-09-14T17:25:00Z
+tags: [economia, dret, seguretat, relacions-exteriors, treball]
+---
+
+# Vigilar i sancionar
+
+Dues lleis molt desiguals: la **de seguretat privada** (8/2022, **63 articles**) i
+la **d'aplicació de sancions internacionals** (5/2022, **8 articles**)
+([font](../../../fonts/jurisprudencia-ad.md), instantània del **2026-09-12**).
+
+## Qui pot vigilar
+
+La llei abasta **empreses de seguretat**, **empreses privades amb vigilants
+propis**, **els vigilants** i **els detectius privats** (article 2.1). Les
+activitats reservades van de la vigilància de béns i esdeveniments a
+**l'acompanyament i protecció de persones**, el **transport de fons**, les
+**centrals receptores d'alarmes** i **la investigació privada** (article 4).
+
+Tres regles que defineixen el sector:
+
+- **Es crea el Registre de seguretat privada**, on s'inscriuen **d'ofici**
+  empreses, directors de seguretat, vigilants, escortes i detectius autoritzats
+  (article 15.1).
+- **Les dues professions no es barregen**: «Les empreses de seguretat **no poden
+  dur a terme els serveis d'investigació privada** propis dels detectius privats
+  i a la vegada, **aquests no poden prestar els serveis propis de les empreses de
+  seguretat privada**» (article 12.3).
+- **Uniforme obligatori**: els vigilants presten servei «sempre amb l'uniforme
+  que reglamentàriament es determini, **excepte quan assumeixin funcions
+  d'escorta**» (article 41.1).
+
+I una subordinació explícita: totes aquestes figures **tenen l'obligació de
+col·laborar amb el Cos de Policia** en tot allò que afecti la seguretat pública
+(article 9.2), i han de **lliurar-li el permís d'arma** de què gaudeixin. La
+seguretat privada andorrana és **auxiliar de la pública**, i està escrit.
+
+## Vuit articles per obeir el món
+
+La Llei 5/2022 és **de les més curtes del recull** i fa una cosa gran:
+
+> El Govern pot dictar **mesures restrictives** per aplicar les sancions
+> internacionals emeses per **l'ONU, la Unió Europea i altres organismes
+> internacionals** (article 1).
+
+El mecanisme, sencer, en quatre traços:
+
+| Qui | Què |
+| --- | --- |
+| **El Govern** | Aprova les mesures **en forma de decret** (article 2) |
+| **El Consell General** | Només **n'és informat**, via la comissió d'afers exteriors (article 2) |
+| **L'abast** | Béns, serveis, pagaments, capitals, **bloqueig d'actius financers** i intercanvis científics, tecnològics, **esportius i culturals** (article 3) |
+| **L'excepció** | Es poden preveure excepcions **humanitàries** o per salvaguardar els interessos del Principat (article 2) |
+
+**Un estat sense exèrcit aplica sancions internacionals per decret**, amb el
+Parlament informat i no votant. Per a un país que va trigar fins al 1993 a tenir
+Constitució i que ha construït la seva homologació financera a empentes
+([el cas BPA](../banca-i-fiscalitat/el-cas-bpa.md),
+[la supervisió financera](../banca-i-fiscalitat/la-supervisio-financera.md)),
+aquesta llei és **la peça que permet respondre ràpid** quan Brussel·les o Nova
+York mouen fitxa.
+
+Qui en sigui objecte està **obligat a aplicar les restriccions** i a facilitar
+informació als òrgans de control (article 4), i incomplir-ho obre **expedient
+sancionador** sense perjudici del penal (article 7).
+
+## Buits registrats
+
+- **Quantes empreses de seguretat privada hi ha inscrites**, no consta.
+- **Quants decrets de mesures restrictives ha aprovat el Govern** des del 2022 i
+  contra qui: **no consta al recull de lleis** —els decrets no hi són.
+- **La Llei qualificada del Cos de Policia**, que la de seguretat pública cita
+  com a norma germana, **no és al recull**.
