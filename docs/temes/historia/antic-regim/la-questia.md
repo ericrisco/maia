@@ -172,13 +172,114 @@ efectuar-se en dos terminis**.
 | **lleuda** | Impost de trànsit |
 | **talla** | Repartiment de l'exacció |
 
+## Quatre segles i mig després: la quèstia el 1904
+
+**Tot el que hi ha en aquesta fitxa ve de les ordinacions del segle XV.** El
+corpus ha trobat **la mateixa quèstia funcionant el 1904**, descrita per
+**Brutails**, jutge del Tribunal Superior d'Andorra
+([font](../../../fonts/brutails-coutume-1904.md)).
+
+**El vocabulari és idèntic**: *padral*, *metadó*, *avería*, *metadó de pa*,
+*metadó de peu rodó*, *metadó de peu forcat*. **Quatre-cents cinquanta anys, i
+les mateixes paraules.**
+
+### Com es feia el 1904
+
+> «On dresse dans les paroisses **des *padrals* ou états des *metadors* et des
+> *averies***, c'est-à-dire des unités imposables.»
+
+| | El 1904, segons Brutails |
+| --- | --- |
+| ***Metadó de pa*** | «**toute "personne de communion", tout andorran qui a fait sa première communion et qui n'est pas clerc**» |
+| ***Metadó de peu rodó*** | Un solípede: **cavall, mula, ase** |
+| ***Metadó de peu forcat*** | **Bovins** |
+| ***Averies*** | **Ovelles, cabres, porcs** |
+| **Equivalència** | **Cinc averies valen un metadó** |
+| **Exempció** | «**Les bêtes nées dans l'année ne sont pas sujettes à la questia.**» |
+
+**Dues coses noves per al corpus:** **la conversió de cinc averies per metadó** i
+**l'exempció de les bèsties nascudes dins l'any**.
+
+### I una divergència que el corpus no arbitra
+
+**El *metadó de pa* no vol dir el mateix a les dues fonts:**
+
+| Font | Període | *Metadó de pa* |
+| --- | --- | --- |
+| **Vela**, ordinacions | **segle XV** | **Adults no casats**, excepte els eclesiàstics |
+| **Brutails** | **1904** | **Tot andorrà que hagi combregat** i no sigui clergue |
+
+**La segona és molt més ampla que la primera**: la del XV grava **una situació
+civil**, la del 1904 grava **tothom a partir d'una edat**.
+
+**L'explicació més senzilla és que la base es va anar eixamplant en quatre segles
+i mig**, i **el corpus no la dona per bona**: **no té cap document intermedi**.
+Podria ser també que una de les dues lectures sigui imprecisa. **Buit registrat.**
+
+**Les averies també ballen**: Vela hi inclou **l'aviram**; Brutails, no.
+
+### Els tipus, i dos verbs de fiscalitat
+
+| Cas | Diners per metadó | **Pessetes** |
+| --- | ---: | ---: |
+| **Quèstia íntegra** | **30** | **0,33** |
+| Quan es paga **a França**: el Consell **terseja** —la rebaixa un terç— | **20** | **0,22** |
+| Quan es paga **a la Mitra**: el Consell **cuarteja** la ja tersejada —li treu un quart més— | **15** | **0,16** |
+
+**«Terseja» i «cuarteja» són verbs de l'administració fiscal andorrana**, i
+descriuen **una rebaixa que el Consell General aplica ell mateix** sobre un
+impost que recapta per a altri.
+
+> **I l'aritmètica quadra tres vegades.** Amb la conversió que el corpus té
+> —**1 lliura = 20 sous = 240 diners = 2,66 pessetes**
+> ([les mesures i les monedes](../../economia/comerc/les-mesures-i-les-monedes.md))—
+> 30 diners fan **0,3325** pessetes, 20 en fan **0,2217** i 15, **0,1663**.
+> **Brutails escriu 0,33, 0,22 i 0,16.** I les reduccions també: **30 menys un
+> terç són 20**, i **20 menys un quart són 15**.
+
+**Això tanca el buit número 1 d'aquesta fitxa per al sou i el diner**: **1 sou =
+0,133 pessetes**, **1 diner = 0,0111 pessetes**. **Muig, quarta, jornal i quarter
+segueixen oberts.**
+
+### I el Consell podia no rebaixar-la
+
+> «Certains prétendent que **le Conseil a le pouvoir de lever le chiffre
+> intégral** ; c'est ainsi que **la dépréciation résultant du change a amené le
+> Conseil à exiger les 30 deniers par metadó pour une questia due à la France**.»
+
+**Quan el canvi es va depreciar, el Consell General va cobrar la quèstia
+íntegra** per pagar la que devia a França. **La rebaixa era una pràctica, no un
+dret adquirit** — i Brutails fa notar que **hi ha qui ho discuteix** («certains
+prétendent»).
+
+### França cobrava més que el bisbe
+
+**Les dues xifres van en el mateix sentit que el que el corpus té per una altra
+via**: la quèstia que es paga a França es **terseja** (20 diners) i la que es paga
+a la Mitra es **cuarteja** a més (15), i per la banda dels imports absoluts,
+**França cobrava 960 francs l'any i el bisbe 450 pessetes**
+([l'estrany i el llot](../../institucions/consell-general/lestrany-i-el-llot.md)).
+
+**Les dues fonts coincideixen en la direcció i el corpus no en dedueix la
+proporció**: no sap quants metadors hi havia, i les dues quèsties no es pagaven
+amb la mateixa periodicitat.
+
 ## Buits registrats
 
-1. **Quant valien** sou, diner, muig, quarta, jornal i quarter. **Sense la
-   conversió, tota la taula d'imports és inavaluable.**
+1. ~~**Quant valien** sou, diner, muig, quarta, jornal i quarter.~~ **TANCAT A
+   MITGES el 2026-09-13**: **1 sou = 0,133 pessetes** i **1 diner = 0,0111
+   pessetes**, per la lliura catalana a 2,66 pessetes
+   ([les mesures i les monedes](../../economia/comerc/les-mesures-i-les-monedes.md)).
+   **Muig, quarta, jornal i quarter segueixen oberts** — i el corpus **no sap si
+   el valor del XV era el mateix que el del 1904**.
 2. ***Libet*** — forma no resolta.
 3. **On es feia el recompte** — Vela ho deixa obert.
-4. **Quan deixa de cobrar-se** la quèstia i què la substitueix.
+4. **Quan deixa de cobrar-se** la quèstia i què la substitueix. **El que ja se
+   sap és que el 1904 encara es cobrava.**
+4b. **Quan es va eixamplar el *metadó de pa***, d'adults no casats a tothom que
+   hagi combregat, i amb quina norma. **Prioritari.**
+4c. **Quants metadors hi havia**, que és el que faria calculable tota la
+   recaptació.
 5. **Quant recaptava** en total.
 6. La relació entre **quèstia, delme i talla** — són tres coses i aquí es toquen.
 
@@ -190,3 +291,4 @@ efectuar-se en dos terminis**.
 - [El Coprincipat](../../institucions/coprincipat/el-coprincipat.md) — per què hi ha dos anys.
 - [La crisi de l'oví](../../economia/ramaderia-i-agricultura/la-crisi-de-lovi.md) — la riquesa que es gravava.
 - [L'estrany i el llot](../../institucions/consell-general/lestrany-i-el-llot.md) — l'altre impost, i la frase «se entent per vestiá propri lo quin pague quistia».
+- [Les mesures i les monedes](../../economia/comerc/les-mesures-i-les-monedes.md) — la conversió que fa llegibles els imports.

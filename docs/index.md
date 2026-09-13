@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**652** documents · **128** fonts · **0** aptes com a model de llengua · **116** temes amb contingut.
+**653** documents · **128** fonts · **0** aptes com a model de llengua · **116** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -190,6 +190,7 @@
 | [La duana](temes/economia/comerc/la-duana.md) | `temes/economia/comerc` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Les mesures i les monedes](temes/economia/comerc/les-mesures-i-les-monedes.md) | `temes/economia/comerc` | compilada | historica | no | `brutails-coutume-1904` |
 | [Muntar alguna cosa](temes/economia/comerc/muntar-alguna-cosa.md) | `temes/economia/comerc` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [Quan el preu baixa](temes/economia/comerc/quan-el-preu-baixa.md) | `temes/economia/comerc` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Qui posava els preus](temes/economia/comerc/qui-posava-els-preus.md) | `temes/economia/comerc` | compilada | historica | no | `brutails-coutume-1904` |
 | [Vigilar i sancionar](temes/economia/comerc/vigilar-i-sancionar.md) | `temes/economia/comerc` | compilada | contemporania | no | `jurisprudencia-ad` |
 
