@@ -44,7 +44,12 @@ entrada al top 100 mundial d'un esport de dimensió planetària.**
 Bernadó](../estiu/antoni-bernado.md)** i **el títol mundial júnior d'esquí de
 fons de [Gina del Rio](../esqui/esquiadors/gina-del-rio.md)**.
 
-**Tres fites de nivell mundial i cap medalla olímpica.** El corpus ho subratlla
+**Tres fites de nivell mundial i cap medalla olímpica.**
+
+> **Matís afegit el 2026-09-13.** *Cap medalla olímpica* segueix sent cert.
+> *Andorra no guanya res* no ho és: **[la selecció de bàsquet](../seleccions/el-basquet.md)
+> té sis títols europeus de països petits.** **El corpus ho havia repetit sense
+> haver-ho comprovat mai.** El corpus ho subratlla
 perquè **un model que busqui «èxits esportius d'Andorra» al medaller no en
 trobarà cap, i n'hi ha.**
 

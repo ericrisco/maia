@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**635** documents · **124** fonts · **0** aptes com a model de llengua · **115** temes amb contingut.
+**640** documents · **124** fonts · **0** aptes com a model de llengua · **116** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -519,6 +519,16 @@
 | [Teresa «Tere» Morató i Armengol](temes/esports/futbol/femeni/teresa-morato.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 | [Uma de Vertiz](temes/esports/futbol/femeni/uma-de-vertiz.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 | [Violeta de Freitas](temes/esports/futbol/femeni/violeta-de-freitas.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+
+## temes/esports/seleccions
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [El bàsquet: sis títols europeus que el corpus no sabia que existien](temes/esports/seleccions/el-basquet.md) | `temes/esports/seleccions` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [El futbol sala](temes/esports/seleccions/el-futbol-sala.md) | `temes/esports/seleccions` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [El rugbi: Els Isards, i un camp a França](temes/esports/seleccions/el-rugbi.md) | `temes/esports/seleccions` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [El tennis: seixanta-tres eliminatòries de Copa Davis](temes/esports/seleccions/el-tennis.md) | `temes/esports/seleccions` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [L'hoquei gel: un 12-0 i un 24-2](temes/esports/seleccions/lhoquei-gel.md) | `temes/esports/seleccions` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 
 ## temes/gastronomia/begudes
 

@@ -58,13 +58,22 @@ major júnior**.
 l'Olimpíada d'Escacs del 1990**, i **[Josep Oms](./josep-oms.md), or individual
 a la del 2006**.
 
-> **Correcció del corpus.** Aquesta llista deia que la d'Oms era *«l'única
-> medalla d'or que el corpus documenta d'Andorra en cap competició internacional
-> per països»*. **Era falsa per setze anys.** La fitxa de García Paolicchi,
-> escrita el 2026-09-13, documenta un or individual el **1990**. **La frase
-> corregida és: les dues úniques medalles d'or que el corpus documenta d'Andorra
-> són de la mateixa disciplina i del mateix torneig, amb setze anys de
-> diferència.**
+> **Correcció del corpus, dues el mateix dia.**
+>
+> **La primera.** Aquesta llista deia que la d'Oms era *«l'única medalla d'or que
+> el corpus documenta d'Andorra en cap competició internacional per països»*.
+> **Era falsa per setze anys**: García Paolicchi en va guanyar una el **1990**.
+>
+> **La segona, i és més gran.** La frase corregida deia llavors *«les dues
+> úniques medalles d'or que el corpus documenta d'Andorra»*. **També era falsa.**
+> **[La selecció andorrana de bàsquet](../seleccions/el-basquet.md) ha guanyat
+> sis Campionats d'Europa de Països Petits** —1998, 2000, 2004, 2012, 2014 i
+> 2024— **i un or als Jocs dels Petits Estats del 1989.** **Dotze medalles en
+> disset participacions.**
+>
+> **El corpus buscava individus i el palmarès era col·lectiu.** **Aquesta pàgina
+> és de persones, i per això no hi va veure mai la selecció que ho ha guanyat
+> gairebé tot.**
 
 **3. Una entrada al top 100 mundial.** Jiménez Kasintseva, **lloc 89 de la WTA
 el 16 de març del 2026** — **la primera persona d'Andorra, home o dona, que hi

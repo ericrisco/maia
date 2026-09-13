@@ -44,9 +44,10 @@ l'escola.**
 | **[Futbol femení](./futbol/femeni/README.md)** | **41 fitxes** i la selecció: **47 partits, 12 victòries.** **La selecció andorrana que guanya més** |
 | **[Altres esports](./altres-esports/README.md)** | **24 fitxes**: tennis, escacs, motor, bàsquet, taekwondo, gimnàstica, patinatge, salt d'esquí — **on hi ha les fites que no surten a cap medaller** |
 | **[Clubs i competicions](./futbol/clubs-i-competicions/README.md)** | **4 fitxes**: la lliga, la copa, el FC Andorra i la federació — **l'estructura que explica la resta** |
+| **[Les seleccions](./seleccions/README.md)** | **5 fitxes**: bàsquet, tennis, hoquei gel, rugbi i futbol sala — **on hi ha els sis títols europeus que el corpus no sabia que existien** |
 | [La competició](./competicio/README.md) | 5 fitxes: els Jocs, els abanderats, la llei de l'esport |
 
-**Dues-centes trenta fitxes de persones i competicions**, escrites entre el
+**242 fitxes de persones, clubs, competicions i seleccions**, escrites entre el
 2026-09-12 i el 2026-09-13. **La branca era, fa dos dies, la més buida del
 corpus.**
 
@@ -57,7 +58,9 @@ Gairebé tot. El corpus **no té res** sobre:
 - Les **estacions d'esquí** com a empreses i com a territori — vegeu
   [turisme i neu](../economia/turisme-i-neu/turisme-i-neu.md).
 - Les **federacions esportives**, que apareixen esmentades com a col·laboradores
-  de l'Escola Andorrana i mai descrites.
+  de l'Escola Andorrana i mai descrites. **El corpus ja en té els noms** —de
+  futbol, de basquetbol, d'esports de gel, de rugbi, de tennis, d'esports
+  adaptats (FADEA)— **i cap fitxa de cap.**
 - L'**Open internacional de tennis ATP d'Andorra**.
 - El **Comitè Olímpic Andorrà** i **Andorra als Jocs Olímpics** pròpiament dits
   — els [Jocs dels Petits Estats](./competicio/els-jocs-dels-petits-estats.md) sí que hi són.
@@ -73,7 +76,9 @@ Gairebé tot. El corpus **no té res** sobre:
   Federació Andorrana de Futbol **ja tenen fitxa** des del mateix dia:
   [clubs i competicions](./futbol/clubs-i-competicions/README.md). **El que
   segueix obert són els clubs un per un.**
-- El **Palau de Gel d'Andorra**, a Canillo, on van a patinar els escolars.
+- El **Palau de Gel d'Andorra**, a Canillo, on van a patinar els escolars — i
+  **on juga [la selecció d'hoquei gel](./seleccions/lhoquei-gel.md)**, que hi va
+  perdre **24-2 contra Liechtenstein el 2025**.
 - El **lèxic de la neu i de la muntanya**, que és el que més valdria per a la
   fase 3 i no està recollit enlloc.
 
