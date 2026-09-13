@@ -158,7 +158,10 @@ I l'argument que la sosté, que és la resposta directa a
 4. **El partit d'esquerres anunciat per l'ARA el 1997**: si va existir.
 5. **El Sindicat andorrà de treballadors** impulsat per l'ARA als anys vuitanta,
    i què vol dir «un dret que ens ha estat retallat».
-6. **Quan arriba la llei d'immigració andorrana.**
+6. ~~**Quan arriba la llei d'immigració andorrana.**~~ **TANCAT: el 2012**, amb
+   la **Llei 9/2012, qualificada d'immigració** — **més de divuit anys després de
+   la Constitució**, quan es demanava en sis mesos. Vegeu
+   [la llei d'immigració del 2012](../../societat/immigracio/la-llei-dimmigracio-del-2012.md).
 7. **L'ARA**: fundació, nombre de socis, i què n'ha estat. És **l'única
    associació de residents anterior al 1993** segons Sandrine Rui.
 
@@ -170,3 +173,4 @@ I l'argument que la sosté, que és la resposta directa a
 - [La normativa migratòria](../../societat/immigracio/la-normativa-migratoria.md)
 - [L'arbre dels partits](../../politica/partits/larbre-dels-partits.md) — on el PS neix d'una altra cosa.
 - [El sindicalisme](../../societat/treball/el-sindicalisme.md)
+- [La llei d'immigració del 2012](../../societat/immigracio/la-llei-dimmigracio-del-2012.md) — la llei marc que reclamaven, quinze anys després.

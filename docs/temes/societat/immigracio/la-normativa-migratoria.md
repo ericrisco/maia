@@ -325,6 +325,15 @@ el corpus la reté com a **posició**, no com a descripció neutra.
 9. **Francesca Ros Pascuet**: el corpus no té fitxa de persona, i és **font i, després,
    ministra de la matèria que descriu**.
 
+## El que ve després
+
+La sèrie d'aquesta fitxa **s'acaba el 1997**. El que ve després és
+**la Llei 9/2012, qualificada d'immigració** —**la llei marc que el 1997 es
+reclamava «com a màxim sis mesos després de la Constitució»**— i hi ha
+**continuïtats que val la pena veure seguides**, començant per **la jerarquia
+d'accés per origen**, que hi continua en forma de **principi de prioritat**.
+Vegeu [la llei d'immigració del 2012](./la-llei-dimmigracio-del-2012.md).
+
 ## Related
 
 - [Immigració](./immigracio.md) — la branca.
@@ -334,3 +343,4 @@ el corpus la reté com a **posició**, no com a descripció neutra.
 - [El codi de la nacionalitat de 1977](../../institucions/nacionalitat-i-residencia/el-codi-de-la-nacionalitat-de-1977.md)
 - [Les xifres que no quadren](../demografia/les-xifres-que-no-quadren.md) — el mateix tipus de problema, en una altra sèrie.
 - [El diagnòstic de 1989](./el-diagnostic-de-1989.md) — el retrat social, vuit anys abans.
+- [La llei d'immigració del 2012](./la-llei-dimmigracio-del-2012.md) — on desemboca tota aquesta cadena.

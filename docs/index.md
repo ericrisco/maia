@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**526** documents · **120** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
+**527** documents · **120** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -910,6 +910,7 @@
 | [Immigració](temes/societat/immigracio/immigracio.md) | `temes/societat/immigracio` | compilada | contemporania | no | `viquipedia-ca` |
 | [La immigració llatinoamericana](temes/societat/immigracio/la-immigracio-llatinoamericana.md) | `temes/societat/immigracio` | compilada | contemporania | no | `de-la-parte-immigracio-cultura` |
 | [La integració com a conflicte](temes/societat/immigracio/la-integracio-com-a-conflicte.md) | `temes/societat/immigracio` | compilada | contemporania | no | `goya-integracio-democratica-1997` |
+| [La llei d'immigració del 2012](temes/societat/immigracio/la-llei-dimmigracio-del-2012.md) | `temes/societat/immigracio` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La normativa migratòria](temes/societat/immigracio/la-normativa-migratoria.md) | `temes/societat/immigracio` | compilada | contemporania | no | `ros-pascuet-normativa-migratoria-1997` |
 | [La piràmide de prestigi](temes/societat/immigracio/la-piramide-de-prestigi.md) | `temes/societat/immigracio` | compilada | contemporania | no | `mico-interculturalitat` |
 | [La portuguesitat](temes/societat/immigracio/la-portuguesitat.md) | `temes/societat/immigracio` | compilada | contemporania | no | `goncalves-multiculturalitat-lusitana` |
