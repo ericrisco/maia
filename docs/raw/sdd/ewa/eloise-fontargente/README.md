@@ -806,6 +806,17 @@ BnF els marquen `Confidentiel` i no en donen accés digital. El dossier militar,
 la citació i la Legió d'Honor són, per tant, tres objectes documentals
 identificats però encara no llegits.
 
+Dues fonts de memòria completen ara la vida familiar. L'avís de defunció de
+*L'Est Républicain* confirma la mort a Carqueiranne el 21/06/2014 i anuncia la
+inhumació al cementiri jueu de Belfort el 23 de juny a les 19 h; enumera tres
+nuclis familiars, però no explicita tots els parentius ni permet inferir una
+vídua. Una entrevista de 2016 al fill **Laurent Dreyfus-Schmidt** recorda que
+la família alternava el pis de rue Metz-Juteau amb una casa al Rosemont, a
+Giromagny, i que Jacques el portava a collir bolets, nabius i gerds. Laurent
+diu també que el pare «était dans les affaires»: reforça el perfil comercial,
+però no revela l'empresa. Metz-Juteau queda així acreditat com a domicili
+familiar i no s'ha de confondre automàticament amb una seu professional.
+
 La seva incursió política queda documentada ara per la peça electoral
 original. *Le Monde* anuncià la investidura del Mouvement réformateur per
 Belfort‑Ville el novembre de 1972 i el presentà el gener de 1973 com a germà de
