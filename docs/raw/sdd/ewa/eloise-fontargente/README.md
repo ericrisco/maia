@@ -937,6 +937,35 @@ l'empresa agrícola el 2002, fotografia Laurent amb la filla Elsa i publica més
 de cinquanta varietats, més de cent cuiners amb estrella i més de cent tones de
 plantes anuals. Són magnituds del perfil empresarial, no comptes auditats.
 
+La documentació de l'INPI permet ara seguir el fil tècnic i jurídic. La
+sol·licitud **FR 3 010 324 A1**, presentada el 06/09/2013 i publicada el
+13/03/2015, identifica Laurent com a sol·licitant, inventor, titular i
+mandatari d'un «Appareil d'extraction d'essences végétales». Reivindica una
+caldera ordinària i un separador aigua-vapor que alimenten vapor sec a 55-95 °C
+en un circuit al buit; el rang publicat és més ampli que els 55-75 °C explicats
+a *YAM*. La memòria cita la sol·licitud francesa anterior **94 02984**, de
+destil·lació al buit per sota de 100 °C, i explica que el nou aparell vol evitar
+la hidròlisi, la pèrdua de qualitat i el consum energètic dels sistemes previs.
+
+El [BOPI 13/45](https://www.inpi.fr/sites/default/files/import/bopis/bopi1345.pdf)
+registra per a `FR 94 02984` una «Concession de licence» —inscripció 197513— i
+dos actes connexos —197514 i 197515— practicats del 4 al 10 d'octubre de 2013,
+un mes després de la sol·licitud pròpia de Laurent. El llistat públic no anomena
+les parts ni les condicions: corrobora una llicència, però encara no demostra
+formalment que el CEA fos el llicenciant i Laurent el llicenciatari. Cal obtenir
+les tres inscripcions completes abans de convertir l'entrevista en cadena de
+titularitat.
+
+L'informe de recerca de 08/05/2014 marcà `CA 2421141 A1` i `EP 2294931 A1` com
+a antecedents `X` per a les set reivindicacions i `FR 2492268 A1` com a `Y` per
+a la primera. El [BOPI 16/43](https://www.inpi.fr/sites/default/files/import/bopis/bopi1643.pdf)
+confirma, tanmateix, la concessió del **B1 3 010 324** el 28/10/2016 amb
+reivindicacions modificades (`RM`). El
+[BOPI 24/22](https://www.inpi.fr/sites/default/files/import/bopis/bopi2422.pdf)
+en registra finalment la **déchéance** amb data 05/05/2024. Aquesta data tanca
+el títol jurídic localitzat, no acredita el final de l'empresa ni de l'ús del
+dispositiu. [Publicació A1 i expedient](https://patents.google.com/patent/FR3010324A1/fr).
+
 L'article de 2016 tanca amb el projecte de cultivar maduixes silvestres com les
 del peu dels Vosges que Laurent recordava de la infància. La imatge dialoga
 amb el record de bolets, nabius i gerds recollits amb Jacques, però cap font
