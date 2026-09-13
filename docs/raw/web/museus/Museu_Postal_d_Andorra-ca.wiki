@@ -1,0 +1,16 @@
+{{Infotaula organització}}
+El '''Museu Postal d'Andorra''' és un [[museu]] del [[Principat d'Andorra]] dedicat a la història del correu postal d'Andorra. Antigament ubicat a la [[Borda del Raser]], al Costat de la [[Casa d'Areny-Plandolit]], al Carrer Major d'[[Ordino]], ara és un museu digital.<ref>{{ref-web |url=http://www.tourisme-andorre.net/Telechargements/Museus_cat_fr.pdf |títol=Museus d'Andorra |obra=Portal Turístic d'Andorra |editor=Andorra Turisme |consulta=2 desembre 2010 |arxiuurl=https://web.archive.org/web/20110716063545/http://www.tourisme-andorre.net/Telechargements/Museus_cat_fr.pdf |arxiudata=16 de juliol 2011}}</ref> S'hi pot consultar la col·lecció [[filatèlia|filatèlica]] digitalitzada, la història de les comunicacions a Andorra, el procés d'elaboració i d'impressió dels [[segell]]s o les peculiaritats del sistema postal andorrà, entre d'altres temes relacionats amb el món del correu.<ref>{{ref-web |url=http://www.andorra.ad/ca-ES/recursos/Pagines/Museu_Postal.aspx |títol=Museu Postal d'Andorra |obra=Portal Turístic d'Andorra |editor=Andorra Turisme |consulta=5 desembre 2010 |arxiuurl=https://web.archive.org/web/20121009031630/http://www.andorra.ad/ca-ES/recursos/Pagines/Museu_Postal.aspx |arxiudata=9 d'octubre 2012}}</ref>
+
+== Història ==
+Després d'una exposició sobre la història dels correus a Andorra, realitzada l'any 1982, es va creure oportú que el tema fos exposat d'una manera permanent. Aquell mateix any es creà una comissió formada per representants del [[Govern d'Andorra]] i dels serveis de correus espanyols i francesos amb la intenció de fer un museu. Fou concebut pel [[Musée de la Poste de París]] i es va emplaçar al cap de casa de l'edifici de la Casa de la Vall, seu del Parlament andorrà. Amb la visita a la casa, el públic podia visitar el Museu. Va ser desmuntat l'any 1991 arran del treball engegat per a l'elaboració de la Constitució del Principat d'Andorra.
+
+S'hi exposava el sistema de fabricació dels segells, juntament amb la totalitat dels segells andorrans des de 1860 i altres materials presents en les imatges gravades als segells. També s'hi podia veure una petita sala dedicada a numismàtica, on s'exposava majoritàriament una col·lecció de monedes emeses per la vegueria episcopal. L'any 1998 el Museu Postal tornava a obrir les portes, a [[Ordino]].<ref>{{Ref-web|url = http://www.icomandorra.ad/wp-content/uploads/2010/01/Historia_dels_museus_dAndorra.pdf|títol = Història dels museus d'Andorra|consulta = 11/01/2016|editor = Icom Andorra|data = 2016|arxiuurl = https://web.archive.org/web/20160816214748/http://www.icomandorra.ad/wp-content/uploads/2010/01/Historia_dels_museus_dAndorra.pdf|arxiudata = 2016-08-16}}</ref> Una museografia modernitzada mostrava, a més de la col·lecció de segells, l'evolució de les telecomunicacions a Andorra.
+
+L'any 2022 s'inicia la transformació del museu de físic a digital amb la digitalització total del fons filatèlic i la migració de tots els elements presents al museu físic al web www.museupostal.ad.
+
+== Referències ==
+{{referències}}https://www.museupostal.ad/ca, https://museus.ad/<nowiki/>{{Llista de monuments d'Andorra}}
+
+{{ORDENA:Museu Postal D'Andorra}}
+[[Categoria:Museus d'Andorra|Postal d'Andorra]]
+[[Categoria:Edificis d'Ordino]]

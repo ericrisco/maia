@@ -1,0 +1,82 @@
+{{Infotaula organització
+ |nom = Museu de la Moto de Canillo
+ |imatge = Museu Moto Canillo.png
+ |peu = {{mida|1=Logotip del museu}}
+ |data_fundacio = 2007
+ |localitzacio_seu1 = Carretera general de Canillo, s/n (al costat de [[Sant Joan de Caselles]])<br/>[[Canillo]], [[Andorra]]
+ |ambit = [[Motocicleta|Motociclisme]]
+ |mapa_nom_seu1 = Andorra relleu
+ |lat_dec_seu1 = 42.570679
+ |lon_dec_seu1 = 1.606989
+ |visitants = 6.835 (2014)<ref name="ara"/>
+ |director = Sílvia Amorós
+ |lloc_web = [http://www.m2r.ad/ www.m2r.ad]
+}}
+
+El '''Museu de la Moto de Canillo''' és un [[museu]] de titularitat [[Parròquies d'Andorra|parroquial]] amb seu a [[Canillo]], [[Andorra]], dedicat a la mostra de motocicletes de tots els temps, des de finals del {{segle|XIX}} fins a l'actualitat.<ref name="visita">{{ref-web
+|url=http://visitandorra.com/llocs-i-serveis/museu-de-la-moto/
+|títol=Museu de la Moto
+|consulta=20 juliol 2015
+|obra=visitandorra.com
+|data=2015
+}}{{Enllaç no actiu|bot=InternetArchiveBot |data=2021}}</ref> Gestionat pel [[Comú de Canillo]], és el primer d'aquestes característiques a Andorra<ref name="mmoto">{{ref-web
+|url=http://www.m2r.ad/
+|títol=Museu de la Moto
+|consulta=20 juliol 2015
+|obra=m2r.ad
+|editor='''Museu de la Moto de Canillo'''
+|data=2015
+|arxiuurl=https://web.archive.org/web/20150419192216/http://www.m2r.ad/
+|arxiudata=19 d'abril 2015
+}}</ref> i està situat al costat de [[Sant Joan de Caselles]], vora la carretera general, als afores del poble de Canillo.
+
+El centre compta amb la col·laboració del [[Museu de l'Automoció de Lleida|Museu de l'Automoció "Roda Roda" de Lleida]] i els Museus de la Moto [[Museu de la Moto de Bassella|de Bassella]] i [[Museu de la Moto de Barcelona|Barcelona]].<ref name="mmoto"/>
+
+== Història ==
+Inaugurat el 2007 amb el nom de '''Museu de les Dues Rodes''' (abreujat ''M2R''), el primer any va tenir 2.402 visitants<ref name="elp"/> i després va passar per una etapa de decadència, fins que a l'octubre del 2010 es decidí de donar-li un nou impuls, tant pel que fa a la gestió com a la difusió. Amb aquesta finalitat s'adoptaren mesures com ara millorar-ne la senyalització al voltant de l'església de Sant Joan de Caselles, fer-lo present a les xarxes socials,<ref name="ara"/> canviar-li el nom per l'actual («Museu de la Moto de Canillo - Andorra») i redissenyar-ne la imatge corporativa. També es nomenà un tècnic - responsable de dirigir el canvi de rumb del museu.<ref name="elp">{{ref-web|url=http://www.elperiodic.ad/noticia/422/el-museu-de-la-moto-estrena-nom,-imatge-i-amplia-horaris
+|títol=El Museu de la Moto estrena nom, imatge i amplia horaris
+|nom=A.
+|cognom=Luengo
+|consulta= 20 juliol 2015
+|obra=elperiodic.ad
+|editor=[[El Periòdic d'Andorra]]
+|data=25 maig 2010}}</ref>
+
+== Actualitat ==
+El 2014 es van registrar 6.835 visitants,<ref name="ara">{{ref-web|url=http://www.ara.ad/societat/Museu-Moto-agafa-empenta_0_1354064917.html
+|títol=El Museu de la Moto agafa empenta
+|consulta= 20 juliol 2015
+|obra=ara.ad
+|editor=[[Diari Ara]]
+|data=9 maig 2015}}</ref> procedents en gran part de [[Principat de Catalunya|Catalunya]] i [[Espanya]], però també de [[França]] i fins i tot alguns de [[Sud-amèrica]] i [[Austràlia]]. El mes en què més s'incrementen les visites és l'agost (el 2014 es va batre el rècord amb més de 2.000 visitants).<ref name="ara"/>
+
+De cara al 2015 s'espera, si es manté la progressió, que els visitants superin els 7.000.<ref name="ara"/>
+
+== Col·leccions ==
+L'espai, de 654 [[Metre quadrat|m²]], acull una exposició de més de cent motocicletes. Entre les més singulars hi destaca la Henry Capel Loft Holden anglesa de l'any 1896, la més antiga de l'exposició i l'única peça a vapor que existeix arreu del món. Cal destacar la també francesa ''Majestic'' de 1930 i la [[República Txeca|txeca]] ''Böhmerland'' de 1927.<ref name="cani">{{ref-web
+|url=http://www.canillo.ad/10_Cultura-i-esports/p_cult_m2r/_rZok-i0CKR3iGgyyYrAQ14CkfDAV0NLS
+|títol=Cultura i Esports - Museu de la Moto
+|consulta=20 juliol 2015
+|obra=canillo.ad
+|editor=[[Comú de Canillo]]
+|data=2015
+|arxiuurl=https://web.archive.org/web/20150923200227/http://www.canillo.ad/10_Cultura-i-esports/p_cult_m2r/_rZok-i0CKR3iGgyyYrAQ14CkfDAV0NLS
+|arxiudata=23 de setembre 2015
+}}</ref>
+
+L'exposició és dinàmica i va variant periòdicament.<ref name="cani"/> El 2015 s'hi incorporaren algunes noves adquisicions, entre elles sengles [[Ducati]], una [[Honda]] Dax i una [[Suzuki VanVan|Suzuki Van Van]].<ref name="ara"/>
+
+== Referències ==
+{{Referències}}
+
+== Enllaços externs ==
+* [http://www.m2r.ad/ Web oficial del museu] {{Webarchive|url=https://web.archive.org/web/20150419192216/http://www.m2r.ad/ |date=2015-04-19}}
+
+{{Llista de monuments d'Andorra}}
+
+[[Categoria:Museus d'automoció|Moto de Canillo]]
+[[Categoria:Cultura del motociclisme|Moto de Canillo]]
+[[Categoria:Motociclisme a Europa|Moto de Canillo]]
+[[Categoria:Motociclisme als Països Catalans]]
+[[Categoria:Museus d'Andorra]]
+[[Categoria:Canillo]]

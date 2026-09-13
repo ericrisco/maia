@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**671** documents · **132** fonts · **0** aptes com a model de llengua · **118** temes amb contingut.
+**684** documents · **134** fonts · **0** aptes com a model de llengua · **119** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -149,6 +149,20 @@
 | [L'Arxiu Nacional d'Andorra](temes/cultura/museus-i-arxius/larxiu-nacional.md) | `temes/cultura/museus-i-arxius` | compilada | contemporania | no | `viquipedia-ca` |
 | [L'Institut d'Estudis Andorrans](temes/cultura/museus-i-arxius/linstitut-destudis-andorrans.md) | `temes/cultura/museus-i-arxius` | compilada | contemporania | no | `guillamet-la-recerca` |
 | [Museus i arxius](temes/cultura/museus-i-arxius/museus-i-arxius.md) | `temes/cultura/museus-i-arxius` | compilada | contemporania | no | `consell-general-web` |
+
+## temes/cultura/museus-i-arxius/museus
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [El Museu Casa d'Areny-Plandolit](temes/cultura/museus-i-arxius/museus/casa-dareny-plandolit.md) | `temes/cultura/museus-i-arxius/museus` | compilada | contemporania | no | `wikipedia-museus-andorra` |
+| [El Museu de la Ràdio, previst per al 2015](temes/cultura/museus-i-arxius/museus/el-museu-de-la-radio.md) | `temes/cultura/museus-i-arxius/museus` | compilada | contemporania | no | `wikipedia-museus-andorra` |
+| [El Museu del Perfum, i la dona que va obrir una perruqueria el 1939](temes/cultura/museus-i-arxius/museus/el-museu-del-perfum.md) | `temes/cultura/museus-i-arxius/museus` | compilada | contemporania | no | `wikipedia-museus-andorra` |
+| [El Museu del Tabac: una fàbrica que va treballar del 1909 al 1957](temes/cultura/museus-i-arxius/museus/el-museu-del-tabac.md) | `temes/cultura/museus-i-arxius/museus` | compilada | contemporania | no | `wikipedia-museus-andorra` |
+| [El Museu Postal: el museu que la Constitució va desallotjar](temes/cultura/museus-i-arxius/museus/el-museu-postal.md) | `temes/cultura/museus-i-arxius/museus` | compilada | contemporania | no | `wikipedia-museus-andorra` |
+| [El primer museu andorrà: girafes dissecades a Ordino](temes/cultura/museus-i-arxius/museus/el-primer-museu.md) | `temes/cultura/museus-i-arxius/museus` | compilada | contemporania | no | `wikipedia-museus-andorra` |
+| [Els altres museus: art sacre, romànic, electricitat, còmic, miniatura, moto, aigua](temes/cultura/museus-i-arxius/museus/els-altres-museus.md) | `temes/cultura/museus-i-arxius/museus` | compilada | contemporania | no | `wikipedia-museus-andorra` |
+| [La Farga Rosell i la ruta del ferro](temes/cultura/museus-i-arxius/museus/la-farga-rosell.md) | `temes/cultura/museus-i-arxius/museus` | compilada | contemporania | no | `wikipedia-museus-andorra` |
+| [Les cases museu: Rull, Cristo i Cal Pal](temes/cultura/museus-i-arxius/museus/les-cases-museu.md) | `temes/cultura/museus-i-arxius/museus` | compilada | contemporania | no | `wikipedia-museus-andorra` |
 
 ## temes/cultura/musica-i-cancons
 
@@ -761,6 +775,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [El Govern](temes/institucions/govern/el-govern.md) | `temes/institucions/govern` | compilada | contemporania | no | `govern-andorra-web` |
+| [El que no et deixen veure](temes/institucions/govern/el-que-no-et-deixen-veure.md) | `temes/institucions/govern` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El Raonador del Ciutadà](temes/institucions/govern/el-raonador-del-ciutada.md) | `temes/institucions/govern` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La contractació directa](temes/institucions/govern/la-contractacio-directa.md) | `temes/institucions/govern` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La funció pública](temes/institucions/govern/la-funcio-publica.md) | `temes/institucions/govern` | compilada | contemporania | no | `llovera-visio-del-treballador` |
@@ -776,6 +791,7 @@
 | [El dret andorrà vigent](temes/institucions/justicia/el-dret-vigent.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El notariat](temes/institucions/justicia/el-notariat.md) | `temes/institucions/justicia` | compilada | contemporania | no | `rodriguez-minana-notaris` |
 | [El procés penal](temes/institucions/justicia/el-proces-penal.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [El recurs d'empara](temes/institucions/justicia/el-recurs-dempara.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El saig](temes/institucions/justicia/el-saig.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [El Tribunal Constitucional](temes/institucions/justicia/el-tribunal-constitucional.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La justícia](temes/institucions/justicia/justicia.md) | `temes/institucions/justicia` | compilada | contemporania | no | `viquipedia-ca` |
@@ -938,6 +954,7 @@
 | [Jordi Gallardo Fernàndez](temes/persones/jordi-gallardo.md) | `temes/persones` | compilada | contemporania | no | `fiba-andorra-basquet-1998` |
 | [Julià Reig i Ribó](temes/persones/julia-reig.md) | `temes/persones` | compilada | contemporania | no | `bascompte-consell-de-la-terra` |
 | [Mònica Dòria Vilarrubla](temes/persones/monica-doria.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
+| [Montserrat Palau i Martí](temes/persones/montserrat-palau-marti.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-religio-andorra` |
 | [Nahuel Carabaña](temes/persones/nahuel-carabana.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
 | [Naiara Liñán](temes/persones/naiara-linan.md) | `temes/persones` | compilada | contemporania | no | `anaesports` |
 | [Òscar Ribas Reig](temes/persones/oscar-ribas-reig.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
@@ -1052,6 +1069,7 @@
 | [Els habitatges buits](temes/societat/habitatge/els-habitatges-buits.md) | `temes/societat/habitatge` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La crisi de l'habitatge](temes/societat/habitatge/la-crisi-de-lhabitatge.md) | `temes/societat/habitatge` | compilada | contemporania | no | `premsa-andorrana` |
 | [L'habitatge el 1989](temes/societat/habitatge/lhabitatge-el-1989.md) | `temes/societat/habitatge` | compilada | contemporania | no | `font-fenomens-socials-immigracio` |
+| [L'impost contra l'especulació](temes/societat/habitatge/limpost-contra-lespeculacio.md) | `temes/societat/habitatge` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Llogar un pis](temes/societat/habitatge/llogar-un-pis.md) | `temes/societat/habitatge` | compilada | contemporania | no | `jurisprudencia-ad` |
 
 ## temes/societat/immigracio
@@ -1400,4 +1418,6 @@
 | [`wikipedia-estacions-esqui-andorra`](fonts/wikipedia-estacions-esqui-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-futbol-femeni-andorra`](fonts/wikipedia-futbol-femeni-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-jocs-andorra`](fonts/wikipedia-jocs-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-museus-andorra`](fonts/wikipedia-museus-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-politica-andorra`](fonts/wikipedia-politica-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-religio-andorra`](fonts/wikipedia-religio-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

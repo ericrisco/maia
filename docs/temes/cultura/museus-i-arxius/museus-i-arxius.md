@@ -52,7 +52,11 @@ Canillo i el fons de la casa Bonavida, entre d'altres.
 - Accedir a les transcripcions de les actes històriques i incorporar-les.
 - Saber què conté exactament el fons d'RTVA a l'Arxiu Nacional i en quines
   condicions es consulta.
-- Els museus i les seves col·leccions.
+- ~~Els museus i les seves col·leccions.~~ — **tancat el 2026-09-13**:
+  **[els museus d'Andorra](./museus/README.md)**, vint fitxats un per un. **El
+  fet que n'ha sortit**: **la xarxa museística andorrana es va dissenyar el 1994
+  com a antenes al voltant d'un Museu Nacional d'Andorra que no s'ha construït
+  mai.** **El país té vint antenes i cap tronc.**
 - El *Diccionari enciclopèdic d'Andorra* (2007) i el *Vocabulari d'Andorra*
   (1992), citats per l'IEC i no consultats directament.
 

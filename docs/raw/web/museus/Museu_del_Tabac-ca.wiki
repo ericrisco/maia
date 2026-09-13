@@ -1,0 +1,24 @@
+{{Infotaula organització
+| nom = Museu del Tabac
+| imatge = Museu del tabac.jpg
+| peu = Entrada al museu
+| localitzacio_seu1 = Doctor Palau, 17 [[Sant Julià de Lòria]]
+| ambit = Tabac
+| lloc_web = [http://www.museudeltabac.com/ www.museudeltabac.com ]
+}}
+El '''Museu del Tabac''' o '''antiga Fàbrica Reig''' és un [[museu]] del [[Principat d'Andorra]] dedicat a la [[història]] del [[tabaquisme|tabac]] del país, es troba al carrer Doctor Palau de [[Sant Julià de Lòria]].<ref>{{ref-web |url=http://www.tourisme-andorre.net/Telechargements/Museus_cat_fr.pdf |títol=Museus d'Andorra |obra=Portal Turístic d'Andorra |editor=Andorra Turisme |consulta=2 desembre 2010 |arxiuurl=https://web.archive.org/web/20110716063545/http://www.tourisme-andorre.net/Telechargements/Museus_cat_fr.pdf |arxiudata=16 de juliol 2011 }}</ref>
+
+Es troba a l'antiga [[fàbrica]] de [[tabac]]s Reig, un edifici de principis del [[segle XX]] que va funcionar des del [[1909]] fins al [[1957]]. Durant aquesta època el tabac va ser un dels principals factors de la puixança d'[[Andorra]].<ref>{{ref-web |url=http://www.andorra.ad/ca-ES/recursos/Pagines/Museu_del_Tabac.aspx |títol=Museu del Tabac |obra=Portal Turístic d'Andorra |editor=Andorra Turisme |consulta=5 desembre 2010 |arxiuurl=https://web.archive.org/web/20121009032317/http://www.andorra.ad/ca-ES/recursos/Pagines/Museu_del_Tabac.aspx |arxiudata=9 d'octubre 2012}}</ref> El museu és de la [[Fundació Julià Reig]], de la família Reig, propietaris de [[Tabacs Reig]] i [[Banca Reig]].
+
+== Referències ==
+{{referències}}
+
+== Enllaços externs ==
+* [http://www.museudeltabac.com/ Museu del Tabac]
+
+{{Llista de monuments d'Andorra}}
+
+{{ORDENA:Museu Del Tabac}}
+[[Categoria:Museus d'Andorra|Tabac]]
+[[Categoria:Museus industrials]]
+[[Categoria:Edificis de Sant Julià de Lòria]]
