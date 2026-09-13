@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**467** documents · **117** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
+**468** documents · **118** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -605,6 +605,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [El Codi de la nacionalitat de 1977](temes/institucions/nacionalitat-i-residencia/el-codi-de-la-nacionalitat-de-1977.md) | `temes/institucions/nacionalitat-i-residencia` | compilada | contemporania | no | `vinas-nacionalitat-andorrana-1990` |
+| [El rellotge dels vint-i-cinc anys](temes/institucions/nacionalitat-i-residencia/el-rellotge-dels-vint-i-cinc-anys.md) | `temes/institucions/nacionalitat-i-residencia` | compilada | contemporania | no | `mayoral-residents-espanyols-1997` |
 | [Els andorrans de primera generació](temes/institucions/nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md) | `temes/institucions/nacionalitat-i-residencia` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [La política de nacionalitat](temes/institucions/nacionalitat-i-residencia/la-politica-de-nacionalitat.md) | `temes/institucions/nacionalitat-i-residencia` | compilada | contemporania | no | `pampalona-particularitats-microestats` |
 | [La residència passiva](temes/institucions/nacionalitat-i-residencia/la-residencia-passiva.md) | `temes/institucions/nacionalitat-i-residencia` | compilada | contemporania | no | `jurisprudencia-ad` |
@@ -1104,6 +1105,7 @@
 | [`mateu-petits-estats-especificitat`](fonts/mateu-petits-estats-especificitat.md) | Vicenç Mateu i Zamora · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mateu-pi-consellera-general`](fonts/mateu-pi-consellera-general.md) | Meritxell Mateu i Pi · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mateu-zamora-reforma-reglament`](fonts/mateu-zamora-reforma-reglament.md) | Vicenç Mateu i Zamora · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`mayoral-residents-espanyols-1997`](fonts/mayoral-residents-espanyols-1997.md) | Modest Mayoral García · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`mico-batalla-valors-capital-social`](fonts/mico-batalla-valors-capital-social.md) | Joan Micó i Ibáñez i Josepa Batalla i Salvadó · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mico-interculturalitat`](fonts/mico-interculturalitat.md) | Joan R. Micó i Ibàñez · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
 | [`mico-percepcio-medi-ambient`](fonts/mico-percepcio-medi-ambient.md) | Joan Micó i Ibáñez · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
