@@ -169,6 +169,25 @@ manera d'anomenar el mateix fenomen en dues llengües**: una de primigènia,
 **El país podria dir-se, en una llengua que ningú ja no parla, «les aigües
 calentes».**
 
+> **I una dada que obliga a abaixar el to.** **Joan Coromines va dubtar de la
+> seva pròpia hipòtesi.** Ho explica **Montserrat Palau i Martí** el **1994**
+> ([font](../../../fonts/palau-marti-identitat-andorrana-1994.md)):
+>
+> > «**De primer, Joan Coromines pensava que aquest topònim devia correspondre a
+> > d'altres que es troben igualment a les regions pirinenques, com Dorres o
+> > Núria**, sense aventurar-se gaire per trobar-ne pròpiament l'explicació; **més
+> > recentment, l'eminent filòleg ha posat en dubte aquesta seva hipòtesi
+> > inicial**.»
+>
+> **El paral·lel amb Dorres i Núria és precisament el que sostenen Anglada i
+> Gascón** ([el substrat als noms de lloc](../../territori/toponimia/el-substrat-als-noms-de-lloc.md)),
+> **i el filòleg que el va proposar primer se'n va desdir.** L'autora en treu la
+> conclusió prudent: «acontentem-nos, ara per ara, de saber que el nom d'Andorra
+> ... representa **el pòsit de velles influències basques o ibèriques, sense
+> d'altres precisions**».
+>
+> **Buit registrat, prioritari:** **on i quan es desdiu Coromines**, i per què.
+
 I el [substrat](../../llengua/dialectologia/el-substrat.md) deixa de ser una
 curiositat acadèmica: **seria al nom del país.**
 

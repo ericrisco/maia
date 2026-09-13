@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**322** documents · **101** fonts · **0** aptes com a model de llengua · **108** temes amb contingut.
+**322** documents · **102** fonts · **0** aptes com a model de llengua · **108** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -376,7 +376,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
-| [El Pareatge](temes/historia/pareatge/el-pareatge.md) | `temes/historia/pareatge` | compilada | contemporania | no | `viquipedia-ca` |
+| [El Pareatge](temes/historia/pareatge/el-pareatge.md) | `temes/historia/pareatge` | compilada | contemporania | no | `palau-marti-identitat-andorrana-1994` |
 
 ## temes/historia/segle-xix
 
@@ -936,6 +936,7 @@
 | [`museus-itinerari-sergi-mas`](fonts/museus-itinerari-sergi-mas.md) | Govern d'Andorra · Ministeri de Cultura | drets reservats · contingut institucional públic | pendent |
 | [`obiols-salut-mental`](fonts/obiols-salut-mental.md) | Joan Obiols i Llandrich · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
 | [`oranias-formacio-administracio`](fonts/oranias-formacio-administracio.md) | Imma Oranias i Estudis · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`palau-marti-identitat-andorrana-1994`](fonts/palau-marti-identitat-andorrana-1994.md) | Montserrat Palau i Martí · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pallares-medicina-andorra`](fonts/pallares-medicina-andorra.md) | Manuel Pallarès i Darsa · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pampalona-particularitats-microestats`](fonts/pampalona-particularitats-microestats.md) | Judith Pampalona i Tarrés · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pastor-andorra-diversa`](fonts/pastor-andorra-diversa.md) | Robert Pastor i Castillo · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |

@@ -89,7 +89,7 @@ llista de buits: bona part de les files hi apunten a fitxa.
 | **Sergi Mas i Balaguer** | ***El moble andorrà*** (2003) i ***Aspectes de l'art popular d'Andorra*** (2016). **Va escriure el que també va esculpir** | [fitxa](../cultura/arts-visuals/sergi-mas.md) |
 | **Roland Viader** | *L'Andorre du IXe au XIVe siècle*; la tesi de la **federació de comuns** | **buit prioritari** |
 | **Olivier Codina** | *De fer et de laine*: les valls del XVI al XIX | **buit** |
-| **Montserrat Palau Martí** | Tres obres sobre religiositat andorrana | [buit registrat](../costums/religiositat/la-inquisicio-a-andorra.md) |
+| **Montserrat Palau Martí** | Etnòloga i historiadora. Tres obres sobre religiositat andorrana, **encara no obertes**; **la seva ponència del 1994 sobre la identitat andorrana sí** | [el Pareatge](../historia/pareatge/el-pareatge.md) · [buit: la religiositat](../costums/religiositat/la-inquisicio-a-andorra.md) |
 
 ### Els senyors
 

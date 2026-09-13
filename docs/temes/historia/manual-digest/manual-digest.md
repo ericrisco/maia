@@ -76,7 +76,28 @@ només la primera meitat li fa dir el contrari del que diu**, i el corpus ja ha
 vist que passa
 ([la salut mental](../../societat/sanitat/la-salut-mental.md)).
 
-**Aquesta citació és de segona mà i ho és fins que no es comprovi.** Vegeu
+### Una segona transcripció, independent, i més llarga
+
+**Montserrat Palau i Martí**, a la mateixa 7a Diada del 1994, en transcriu **un
+fragment més ample i amb l'ortografia d'època**
+([font](../../../fonts/palau-marti-identitat-andorrana-1994.md)):
+
+> «**Valls d'Andorra són pròpia y verdadera Cataluña, com a part de aquest
+> Principat, Andorrans són pròpiament Catalans en tot rigor, y gosan com a tals
+> varias prerrogativas en ell (...) No se veuran menos claras, sa substancia y
+> qualitats catalanas si se atent lo idioma, pur català, lo modo y moda de
+> Vestir, los costums de sos moradors**.»
+
+**Dues autores, en volums diferents, transcriuen la mateixa frase i coincideixen
+en la primera meitat.** Això **reforça molt** la citació, encara que **no
+substitueix la comprovació contra el Manual Digest**.
+
+**I la segona meitat, que només dona Palau i Martí, és la que més diu:** Fiter no
+argumenta la catalanitat amb dret ni amb història, **sinó amb tres coses
+observables — la llengua, la manera de vestir i els costums**.
+
+**Aquesta citació segueix sent de segona mà** —ara de dues mans independents— i ho
+és fins que no es comprovi. Vegeu
 [la casa als papers](../antic-regim/la-casa-als-papers.md).
 
 ## El que falta
