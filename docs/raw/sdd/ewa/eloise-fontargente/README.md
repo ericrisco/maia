@@ -1362,6 +1362,16 @@ fitxa corporativa que situa el naixement «a Malemort» el 1934 contradiu totes
 dues versions i el trasllat de 1968–1969. Es conserva com a discrepància
 comercial, no com a nova cronologia.
 
+Altres rastres de 2024 completen el retrat. Una publicació de Delvert del 10 de
+gener mostra la confitura Paquito intensa Pêche–Abricot, 65 % fruita, reduïda
+en sucres, preparada a Malemort i amb el distintiu `Saveur de l'Année 2024`;
+la fitxa independent del tast encara no s'ha localitzat. La promoció
+d'Instagram de *La Vie corrézienne* diu que la planta «fait vivre 140
+familles», formulació territorial compatible amb els 140 empleats però no una
+estadística familiar literal. El Rectorat de Limoges inclogué Delvert entre
+les visites corréziennes de la Setmana de la Indústria de novembre de 2024,
+prova del paper de la planta en divulgació d'oficis per a estudiants.
+
 La mateixa font obliga a corregir provisionalment una altra memòria. Les
 versions antigues de Wikipedia atribuïen a la conserverie de Martel una Coupe
 d'Or el 1970. El dossier publica una fotografia de Pierre i Jacques rebent la
