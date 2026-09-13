@@ -1147,6 +1147,24 @@ Morel el 2017 és coherent amb aquella banda ecològica, no queda auditat per el
 [Etnografia 2015](https://www.culture.gouv.fr/content/download/196863/file/Ethno_Tabouret-Herriot_2015.pdf);
 [itinerari tècnic 2020](https://www.ada-aura.org/wp-content/uploads/2020/10/BP_ADAAURA_2020_Lavande_itineraires-techniques.pdf).
 
+La recepció de 2017 revela després com aquell material agronòmic es convertí en
+relat. En una entrevista a *Basenotes*, Thierry Wasser atribuïa a Baume la seva
+descoberta de Carla, però la peça confonia la població de *L. angustifolia* amb
+diverses espècies i publicava 60-70 °F com a temperatura d'extracció, valor
+incompatible amb la patent i probablement degut a una confusió d'unitats.
+*L'Observatoire des Cosmétiques* situava la mateixa essència a *Jersey* i *Boy*
+de Chanel i construïa el pas de la lavanda masculina a una Carla femenina.
+
+El fòrum especialitzat *Auparfum*, amb 112 opinions, discutí precisament aquesta
+operació. La crítica hi sentia una lavanda discreta dins un gourmand de caramel
+i vainilla, relacionava *Mon Guerlain* amb *Mon Exclusif* (2015) i provocà un
+debat entre continuïtat Guerlain i producte consensual dominat per Angelina
+Jolie. És evidència de recepció i del xoc entre olfacte i màrqueting, no de la
+fórmula o la dosi real.
+[Entrevista Basenotes](https://basenotes.com/articles/mon-guerlain-envisioning-notes-of-a-woman.3424/);
+[*L'Observatoire des Cosmétiques*](https://client.cosmeticobs.com/fr/articles/actus-produits-73/parfums-hommage-au-terroir-3823);
+[*Auparfum*](https://auparfum.bynez.com/parfum-mon-guerlain-3570).
+
 La quarta operació fracassà el 2017: d'una previsió de 150 kg, Guerlain passà a
 125 kg per atendre compromisos amb recol·lectors; acordaren lliurament a
 l'octubre, Baume no lliurà per un impediment i les noves condicions posteriors
