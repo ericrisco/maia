@@ -46,3 +46,4 @@ seva explotació. El patrimoni. **Buit registrat.**
 
 - [Les set parròquies](../../../institucions/comuns-i-parroquies/les-set-parroquies.md) — el conjunt.
 - [Quarts i veïnats](../../../institucions/quarts-i-veinats/quarts-i-veinats.md) — les subdivisions.
+- [Una sessió de la Junta de Govern](../../../institucions/comuns-i-parroquies/una-sessio-de-la-junta-de-govern.md) — el seu comú, el 12 de maig de 2025, en 79 acords.

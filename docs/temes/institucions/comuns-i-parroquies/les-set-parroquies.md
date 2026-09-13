@@ -61,3 +61,4 @@ la paraula no existeixi fora d'aquí.
 - [Consell General](../consell-general/el-consell-general.md) — el nivell nacional.
 - [Andorra com a microestat](../petits-estats/andorra-com-a-microestat.md) — per què el comú fa de tot: una ciutat-estat, no un estat-nació.
 - [La desigualtat del vot](../../politica/sistema-electoral/la-desigualtat-del-vot.md) — cada parròquia posa dos consellers, tingui 794 electors o 6.604.
+- [Una sessió de la Junta de Govern](./una-sessio-de-la-junta-de-govern.md) — què fa un comú, acord per acord, un dimarts del 2025.

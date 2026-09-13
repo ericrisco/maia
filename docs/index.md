@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**528** documents · **121** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
+**529** documents · **122** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -616,6 +616,7 @@
 | [El sometent](temes/institucions/comuns-i-parroquies/el-sometent.md) | `temes/institucions/comuns-i-parroquies` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La taba i el mostassà](temes/institucions/comuns-i-parroquies/la-taba-i-el-mostassa.md) | `temes/institucions/comuns-i-parroquies` | compilada | contemporania | no | `lacueva-hoteleria` |
 | [Les set parròquies i els seus comuns](temes/institucions/comuns-i-parroquies/les-set-parroquies.md) | `temes/institucions/comuns-i-parroquies` | compilada | contemporania | no | `consell-general-web` |
+| [Una sessió de la Junta de Govern](temes/institucions/comuns-i-parroquies/una-sessio-de-la-junta-de-govern.md) | `temes/institucions/comuns-i-parroquies` | compilada | contemporania | no | `acta-junta-govern-escaldes-2025` |
 
 ## temes/institucions/consell-general
 
@@ -1096,6 +1097,7 @@
 
 | Id | Titular | Llicència | Redistribució |
 | --- | --- | --- | --- |
+| [`acta-junta-govern-escaldes-2025`](fonts/acta-junta-govern-escaldes-2025.md) | Comú d'Escaldes-Engordany | acta formalitzada d'una administració comunal andorrana; document públic | pendent |
 | [`allen-punt-de-vista-angles-1997`](fonts/allen-punt-de-vista-angles-1997.md) | Desmond Allen · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`anaesports`](fonts/anaesports.md) | Agència de Notícies Andorrana (ANA) | drets reservats · citació breu amb atribució | False |
 | [`anglada-origens-parla-andorrana`](fonts/anglada-origens-parla-andorrana.md) | Manuel Anglada i Ferran · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |

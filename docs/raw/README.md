@@ -464,12 +464,14 @@ encara que falti l'URL de descàrrega.
 | `congreso-1895-ap40` | **Apèndix 40 al núm. 89** — l'addició signada el **27 de març de 1895** |
 | `congreso-153-ap2`, `congreso-157-ap2` | Apèndixs **2n** als núm. **153** i **157** |
 | `boletin-leon-1894-09-17` | **Boletín Oficial de la provincia de León**, núm. 34, **17 de setembre de 1894**, p. 79-80. **Buidat el 2026-09-13**: hi ha la circular de l'Audiencia de Valladolid (12.09.1894) que reprodueix la **reial ordre del Ministeri de Gràcia i Justícia** prohibint als jutges espanyols tota relació amb les autoritats andorranes |
-| `12052025` | **No és premsa.** És l'**acta de la Junta de Govern núm. 18** d'un **comú**, del **12-5-2025**, exp. 2025/2714. **Està mal classificat en aquesta carpeta** — i **és material primari andorrà que el corpus no ha fet servir mai**. Buit obert |
+| `12052025` | **No és premsa.** És l'**acta de la Junta de Govern núm. 18** del **Comú d'Escaldes-Engordany**, del **12-5-2025**, exp. 2025/2714, acta 2025000008. **Està mal classificat en aquesta carpeta.** **Buidat el 2026-09-13** i amb fitxa: [`acta-junta-govern-escaldes-2025`](../fonts/acta-junta-govern-escaldes-2025.md). **Conté dades personals**: vegeu la fitxa |
 
 **Ja tenen fitxa de font:** els diaris de sessions del Congrés, a
-[`diario-sesiones-corts-1895`](../fonts/diario-sesiones-corts-1895.md), i el
+[`diario-sesiones-corts-1895`](../fonts/diario-sesiones-corts-1895.md); el
 butlletí de León, a
-[`boletin-oficial-leon-1894`](../fonts/boletin-oficial-leon-1894.md).
+[`boletin-oficial-leon-1894`](../fonts/boletin-oficial-leon-1894.md); i l'acta
+comunal del `12052025`, a
+[`acta-junta-govern-escaldes-2025`](../fonts/acta-junta-govern-escaldes-2025.md).
 
 **Avís de lectura, i val per als dos.** Tots aquests documents vénen a columnes
 —dues als diaris de sessions, **cinc** al butlletí provincial— i l'OCR les
