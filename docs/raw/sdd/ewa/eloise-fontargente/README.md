@@ -864,6 +864,39 @@ identifica els integrants ni mostra la imatge. Aquestes unitats poden fixar les
 dates de la presidència de Jacques; encara no s'han vist i no es pressuposa que
 ell surti a la fotografia.
 
+Tres anuaris oficials del Comité régional des Vosges de la FFS converteixen
+una part d'aquesta hipòtesi en cronologia documentada. El de **1971-1972**
+identifica Jacques com a president de la SSTMB al 3 rue Metz-Juteau i, en la
+llista d'oficials nacionals, li assigna els codis **7** i **9**, és a dir, cap
+de cronometratge i càlculs i director de prova alpina. El de **1972-1973**
+repeteix la presidència, dona el telèfon particular 28.06.92 i el professional
+**91.05.06**, i conserva només el codi **7**. La candidatura no inventava,
+doncs, la posició federativa, però la resumia com `Arbitre National FFS` sense
+reflectir la variació anual de funcions.
+
+El volum 1972-1973 registra també **Gilles Dreyfuss-Schmidt**, nascut el 1957,
+com a corredor alpí del S.S.T.M. Belfort, sèries nacionals 4 en especial i 4
+en gegant; el volum anterior ja tenia la mateixa inicial, any i club. És
+compatible amb un dels tres fills de Jacques, però l'anuari no declara la
+filiació. `NITZER Jean — Belfort` apareix alhora entre els oficials regionals
+de 1971-1972 i 1972-1973: és ara el candidat més fort per al `M. Nitzer` de
+1967, encara sense una font que confirmi que totes dues mencions designen la
+mateixa persona o que exercia la vicepresidència.
+
+Per a **1973-1974**, l'OCR de cerca de Gallica retorna Jacques amb els codis
+`7 9 A` —cronometratge/càlculs, direcció alpina i arbitratge— i indexa alhora
+els noms Gilles i Laurent Dreyfus-Schmidt. Els rengles complets no s'han
+elevat a fet: Gallica activà la verificació de seguretat abans de poder
+recuperar els facsímils corresponents. El mateix anuari sí descriu diverses
+proves de la SSTMB al Ballon d'Alsace el 1974, entre elles la Coupe Dynastar
+des Jeunes, el Tour du Ballon, la Coupe des Parfums Givenchy i el Challenge La
+Hutte Belfortaine. Aquesta activitat és del club i no s'atribueix personalment
+a Jacques sense actes o programa nominal. Fonts: FFS, [arxiu de
+revistes](https://ffs.fr/nos-revues/); Gallica, anuaris
+[1971-1972](https://gallica.bnf.fr/ark:/12148/bd6t5352825d),
+[1972-1973](https://gallica.bnf.fr/ark:/12148/bd6t5352829x) i
+[1973-1974](https://gallica.bnf.fr/ark:/12148/bd6t5352828j).
+
 El mateix fons conserva a `22 Z 11` sol·licituds d'adhesió, butlletins i
 llicències FFS de 1950–1970, la millor comprovació nominal de la seva condició
 federativa. A més, `3 K 60` documenta amb llistes de convidats, programes,
