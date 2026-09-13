@@ -91,8 +91,11 @@ La llei d'associacions és **qualificada**: modificar-la demana majoria absoluta
   20/2007, amb 15 versions) **queden per llegir**.
 - **La Llei del comerç** (111 articles): tipus de venda, rebaixes, vendes
   especials i règim del Registre de Comerç i Indústria, **sense llegir**.
-- **La comptabilitat dels empresaris** (48 articles) i **la competència efectiva
-  i protecció del consumidor** (58) només s'han identificat. La segona és la que
-  dona drets a qui compra, i **el corpus no en té ni un article**.
+- **La comptabilitat dels empresaris** (48 articles) només s'ha identificat.
+- **La competència efectiva i protecció del consumidor** (58 articles): el seu
+  **títol IV**, el que dona drets a qui compra, ja és al corpus a
+  [comprar i reclamar](../../vida-quotidiana/com-funciona-tot/comprar-i-reclamar.md).
+  Els **títols II i III** —defensa de la competència, concentracions i
+  competència deslleial— **queden per llegir**.
 - **La Llei de fundacions** (42 articles) tampoc.
 - **Quantes societats, associacions i fundacions hi ha**, no consta.

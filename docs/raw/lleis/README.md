@@ -260,7 +260,7 @@ De les **104** normes, **104** han generat fitxa compilada a
 | `codi-procediment-civil.txt` | [tretze-dies](../../temes/institucions/justicia/tretze-dies.md) |
 | `codi-procediment-penal.txt` | [el-proces-penal](../../temes/institucions/justicia/el-proces-penal.md) |
 | `comerc.txt` | [muntar-alguna-cosa](../../temes/economia/comerc/muntar-alguna-cosa.md) |
-| `competencia-consumidor.txt` | [muntar-alguna-cosa](../../temes/economia/comerc/muntar-alguna-cosa.md) |
+| `competencia-consumidor.txt` | [comprar-i-reclamar](../../temes/vida-quotidiana/com-funciona-tot/comprar-i-reclamar.md) |
 | `comptabilitat-empresaris.txt` | [muntar-alguna-cosa](../../temes/economia/comerc/muntar-alguna-cosa.md) |
 | `compte-propi.txt` | [treballar-de-temporada](../../temes/societat/treball/treballar-de-temporada.md) |
 | `confianca-electronica.txt` | [andorra-digital](../../temes/societat/mitjans/andorra-digital.md) |

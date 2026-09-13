@@ -106,3 +106,4 @@ d'abans de la Constitució.
 - [Glossari de mots documentats](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)
 - [El Govern](../../institucions/govern/el-govern.md)
 - [Conduir a Andorra](./conduir-a-andorra.md) — 90 km/h, els claus i la bici.
+- [Comprar i reclamar](./comprar-i-reclamar.md) — la garantia, els sis mesos i les clàusules que són nul·les de ple dret.
