@@ -768,10 +768,12 @@ El fill del cens ja es pot seguir amb fonts nominals. El fitxer anual oficial
 de persones difuntes de l'INSEE identifica **Jacques Mathias Dreyfus-Schmidt**:
 nascut a Belfort el **30/09/1930** i mort a **Carqueiranne** el **21/06/2014**,
 acta 61. El decret de la Legió d'Honor de 05/04/1990 aporta el perfil
-professional que faltava: era **coronel d'infanteria**, comptava 37 anys i 3
+militar que faltava: era **coronel d'infanteria**, comptava 37 anys i 3
 mesos de serveis, cinc mesos de bonificacions, havia estat citat i fou nomenat
 cavaller. La coincidència dels dos prenoms i la data completa amb l'INSEE i el
-cens elimina l'homònim.
+cens elimina l'homònim. Això no el converteix automàticament en militar
+professional: el decret és de militars fora de l'exèrcit actiu i la seva
+professió declarada el 1973 era director comercial i capità de reserva.
 
 El SHD permet ara localitzar les peces que falten sense atribuir-li campanyes
 per conjectura. Els dossiers d'oficials de l'Armée de terre radiats després de
@@ -791,14 +793,42 @@ BnF els marquen `Confidentiel` i no en donen accés digital. El dossier militar,
 la citació i la Legió d'Honor són, per tant, tres objectes documentals
 identificats però encara no llegits.
 
-La seva incursió política també és documentable. *Le Monde* anuncià la
-investidura del Mouvement réformateur per Belfort‑Ville el novembre de 1972 i
-el presentà el gener de 1973 com a germà de Michel i beneficiari del suport
-radical. El CSV electoral difós per data.gouv/Sciences Po registra **2.485
-vots** radicals reformadors a la circumscripció; la taula nominal contemporània
-de *Cahiers du communisme* els atribueix a `REF Dreyfus-Schmidt`, el **8,16 %**.
+La seva incursió política queda documentada ara per la peça electoral
+original. *Le Monde* anuncià la investidura del Mouvement réformateur per
+Belfort‑Ville el novembre de 1972 i el presentà el gener de 1973 com a germà de
+Michel i beneficiari del suport radical. La professió de fe del fons CEVIPOF,
+digitalitzada per Archelec/Sciences Po, imprimeix **«Votez Jacques
+Dreyfus-Schmidt»**, en mostra el retrat i identifica Albert Frantz com a
+suplent. Jacques s'hi presenta com a llicenciat en dret, de 42 anys, casat i
+pare de tres fills, director comercial, `délégué cadre`, capità de reserva,
+veterà d'Algèria i titular de la Croix de la Valeur militaire; també enumera
+càrrecs al Lions Club, la U.S.B. i l'esquí belfortès. Una carta nacional
+reproduïda al revers, del 23/01/1973, l'anomena candidat únic del moviment.
+
+El seu programa de «tercera via», sota el lema **«Changement dans le calme»**,
+combina ingrés mínim de 1.000 francs, estatut més just per a les dones,
+habitatge social, serveis públics, descentralització regional, ecologia i
+unitat política europea. El CSV electoral difós per data.gouv/Sciences Po
+registra **2.485 vots** radicals reformadors; la taula contemporània de
+*Cahiers du communisme* els atribueix a `REF Dreyfus-Schmidt`, el **8,16 %**.
 La publicació impresa conté una errata de votants —31.151 contra els 31.191 del
 CSV, xifra coherent amb expressats i nuls— que es conserva explícita.
+
+La professió de fe resol una contradicció sobrevinguda: la biografia Sycomore
+de l'Assemblée nationale atribueix aquests vots a **Michel**, però el facsímil
+electoral, la carta al candidat i les dues notícies coetànies identifiquen tots
+**Jacques**. L'entrada institucional conté, per tant, una errada demostrable i
+no prova un relleu tardà entre els germans.
+
+L'inventari públic del fons Émile Géhant `70 Fi` aporta el context visual però
+no una segona peça de Jacques: la branca «Campagne électorale de 1973» conté
+només quatre cartells de Chevènement (`70 Fi 183`, `184`, `185` i `187`). El
+darrer agraeix 17.677 vots, confirmant el total contemporani de *Cahiers*; la
+signatura intercalada `70 Fi 186` és un cartell de 1988. Aquesta absència és
+vàlida només dins la branca catalogada. El fons socialista Jacques Abrand
+`105 J` (1965–1997), potencialment útil per al conflicte entre Michel, Géhant i
+Chevènement, només es consulta en sala i no desplega inventari detallat al
+web; encara no es pot afirmar què diu sobre Jacques.
 
 Les Archives municipales de Belfort aporten també una font iconogràfica: la
 notice `2Z/35`, relacionada amb `7Fi/231`, descriu una fotografia d'identitat
@@ -885,7 +915,7 @@ prové de la representació web accessible, amb data i URL registrades.
 | `dreyfus-schmidt/belfort-recensement-1911/` | Padró oficial `6 M 130`, p. 386, retall de lectura, recuperació parcial de l'antic PDF de LISA 90 i auditoria del foyer del 19 avenue de la Gare. |
 | `dreyfus-schmidt/gilberte-dreyfus/` | Acta de naixement 432 de Gilberte, retalls, fitxer oficial INSEE 1970–1979 i nota de lectura. |
 | `francesc-viadiu-fons/grumbach/dreyfus-schmidt/belfort-archives-municipales/notice-7fi231.html` | Notice municipal `2Z/35`: retrats de Pierre, André i Michel Dreyfus-Schmidt, inclosa la fotografia d'identitat d'André. |
-| `dreyfus-schmidt/yvonne-kahn/jacques-dreyfus-schmidt/` | INSEE i API geogràfica: identitat civil i defunció; decret oficial de la Legió d'Honor: coronel d'infanteria; CSV electoral i dossier contemporani de 1973: candidatura reformadora, 2.485 vots (8,16 %); guies SHD/CAP i notices BnF: localització del dossier, fitxa de citació i anuaris; nota crítica, renders i hashes. |
+| `dreyfus-schmidt/yvonne-kahn/jacques-dreyfus-schmidt/` | INSEE i API geogràfica: identitat civil i defunció; decret oficial de la Legió d'Honor: coronel d'infanteria; professió de fe original, retrat i carta d'investidura de 1973: professió civil, reserva, Algèria, condecoració, associacions, programa i suplent; CSV i taula: 2.485 vots (8,16 %); contradicció corregida amb Sycomore; guies SHD/CAP i notices BnF: localització del dossier, fitxa de citació i anuaris; nota crítica, facsímils, OCR, renders i hashes. |
 | `francesc-viadiu-fons/grumbach/dreyfus-schmidt/paris-table-deces-1955-1964/*` | Taula decennal `V11E 553`, p. 241: entrada nominal, data, acta i arrondissement; 18 imatges, OCR, JSON i hashes. |
 | `francesc-viadiu-fons/grumbach/lemonde-*.html` | Controls de descàrrega fallits: quatre pàgines tècniques `Client Challenge` idèntiques, no el text dels articles. |
 | `francesc-viadiu-fons/grumbach/consulta-arxius-ariege-esborrany.md` | Petició detallada de localització i reproducció del procés de Foix i diligències relacionades; preparada però no enviada. |
