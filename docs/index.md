@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**648** documents · **127** fonts · **0** aptes com a model de llengua · **116** temes amb contingut.
+**650** documents · **128** fonts · **0** aptes com a model de llengua · **116** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -535,6 +535,7 @@
 | [Els deu primers campions: Gibraltar, 1998](temes/esports/seleccions/els-deu-primers-campions-del-1998.md) | `temes/esports/seleccions` | compilada | contemporania | no | `fiba-andorra-basquet-1998` |
 | [Els dotze campions a casa: Andorra, 2000](temes/esports/seleccions/els-dotze-campions-a-casa-del-2000.md) | `temes/esports/seleccions` | compilada | contemporania | no | `fiba-andorra-basquet-2000` |
 | [Els dotze campions del 2024](temes/esports/seleccions/els-dotze-campions-del-2024.md) | `temes/esports/seleccions` | compilada | contemporania | no | `fiba-andorra-basquet-2024` |
+| [Els dotze de la primera final: Andorra, 2004](temes/esports/seleccions/els-dotze-de-la-primera-final-del-2004.md) | `temes/esports/seleccions` | compilada | contemporania | no | `fiba-andorra-basquet-2004` |
 | [L'hoquei gel: un 12-0 i un 24-2](temes/esports/seleccions/lhoquei-gel.md) | `temes/esports/seleccions` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 
 ## temes/gastronomia/begudes
@@ -913,6 +914,7 @@
 | [Naiara Liñán](temes/persones/naiara-linan.md) | `temes/persones` | compilada | contemporania | no | `anaesports` |
 | [Òscar Ribas Reig](temes/persones/oscar-ribas-reig.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
 | [Roser Suñé i Pascuet](temes/persones/roser-sune.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
+| [José Manuel «Txetxu» Bermudo Macho](temes/persones/txetxu-bermudo.md) | `temes/persones` | compilada | contemporania | no | `fiba-andorra-basquet-2004` |
 
 ## temes/politica/identitat-politica
 
@@ -1276,6 +1278,7 @@
 | [`ferrer-percepcio-andorra-exterior`](fonts/ferrer-percepcio-andorra-exterior.md) | Josep Ferrer i Altimira · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`fiba-andorra-basquet-1998`](fonts/fiba-andorra-basquet-1998.md) | FIBA · Govern d'Andorra · Consell General · Comitè Olímpic Andorrà · premsa andorrana | drets reservats pels titulars respectius | False |
 | [`fiba-andorra-basquet-2000`](fonts/fiba-andorra-basquet-2000.md) | FIBA · El Periòdic d'Andorra · Federació Andorrana de Bàsquet | drets reservats pels titulars respectius | False |
+| [`fiba-andorra-basquet-2004`](fonts/fiba-andorra-basquet-2004.md) | FIBA · ACB · premsa andorrana i especialitzada | drets reservats pels titulars respectius | False |
 | [`fiba-andorra-basquet-2024`](fonts/fiba-andorra-basquet-2024.md) | FIBA · Ràdio i Televisió d'Andorra · Bondia · Andorra Esportiu | drets reservats pels titulars respectius | False |
 | [`figuereda-nombre-de-diputats`](fonts/figuereda-nombre-de-diputats.md) | Pere Figuereda i Cairol · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`font-fenomens-socials-immigracio`](fonts/font-fenomens-socials-immigracio.md) | Agustí Font · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |

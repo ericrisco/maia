@@ -4,7 +4,7 @@
 Aquesta branca existeix per fer visible aquesta desproporció i per anar-la
 corregint.
 
-**Actualització del 2026-09-12:** ja no en són tres. Hi ha **cinc esportistes**,
+**Actualització del 2026-09-13:** ja no en són tres. Hi ha **vuit esportistes**,
 **tres polítics**, **dues llistes completes de càrrecs** —[síndics
 generals](./els-sindics-generals.md) i [caps de
 Govern](./els-caps-de-govern.md)— i **dos escultors**, a
@@ -166,3 +166,4 @@ travessen més d'una branca.
 | **[Èric Risco de la Torre](./eric-risco.md)** | Judoka internacional de +100 kg i jugador de rugbi: **la carrera esportiva d'un microestat, documentada** |
 | **[Naiara Liñán](./naiara-linan.md)** | **La primera medalla d'Andorra als Jocs del Mediterrani**: bronze de taekwondo −49 kg, Tàrent 2026 |
 | **[Albert Llovera i Massana](./albert-llovera.md)** | Olímpic a Sarajevo **amb 17 anys**; paraplègic un any després; **29 ral·lis del Mundial** amb un cotxe de comandaments manuals |
+| **[José Manuel «Txetxu» Bermudo Macho](./txetxu-bermudo.md)** | Va jugar amb el primer BC Andorra d'ACB i va liderar l'or europeu del 2004 als trenta-cinc anys: **24 punts i 14 rebots a la final** |
