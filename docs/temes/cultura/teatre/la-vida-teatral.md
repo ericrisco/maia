@@ -196,3 +196,4 @@ d'investigació amb signatura**:
 - [El Coprincipat](../../institucions/coprincipat/el-coprincipat.md)
 - [Cultura popular](../cultura-popular/cultura-popular.md)
 - [Literatura andorrana](../literatura/literatura-andorrana.md)
+- [Cap on mirava Andorra](../../historia/segle-xix/cap-on-mirava-andorra.md) — d'on venien les escoles franceses que el bisbe Guitart deia que s'havien establert contra la seva voluntat.

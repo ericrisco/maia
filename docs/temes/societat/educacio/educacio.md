@@ -90,3 +90,4 @@ premsa i s'haurien de reverificar.
 - [La formació professional](./la-formacio-professional.md) — i els dos-cents contractes de menors.
 - [L'ensenyament confessional](./lensenyament-confessional.md) — des del 1882, la sèrie més antiga.
 - [Índex legislatiu en educació](./index-legislatiu-en-educacio.md) — 48 normes amb BOPA i data.
+- [Cap on mirava Andorra](../../historia/segle-xix/cap-on-mirava-andorra.md) — qui va obtenir les escoles franceses, i a quines parròquies.

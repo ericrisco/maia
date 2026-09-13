@@ -238,3 +238,4 @@ línia**, i val la pena llegir-la al costat de
 - [Les onades migratòries](./les-onades-migratories.md) — quan s'inverteix tot.
 - [La població al segle XIX](./la-poblacio-al-segle-xix.md) — les xifres.
 - [Lídia Armengol Vila](../../historia/historiografia/lidia-armengol-vila.md) — qui ho escriu.
+- [Cap on mirava Andorra](../../historia/segle-xix/cap-on-mirava-andorra.md) — la colònia andorrana de Puisserguier, a l'Hérault, el 1904.

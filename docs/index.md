@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**594** documents · **124** fonts · **0** aptes com a model de llengua · **114** temes amb contingut.
+**588** documents · **123** fonts · **0** aptes com a model de llengua · **113** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -463,17 +463,6 @@
 | [Xavier Soria](temes/esports/futbol/xavier-soria.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Xavier Vieira i de Vasconcelos](temes/esports/futbol/xavier-vieira.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Francisco Manuel «Xisco» Pires i Costa](temes/esports/futbol/xisco-pires.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
-
-## temes/esports/futbol/femeni
-
-| Document | Tema | Veu | Època | Apte | Font |
-| --- | --- | --- | --- | --- | --- |
-| [La selecció femenina](temes/esports/futbol/femeni/la-seleccio-femenina.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
-| [Margot Llobera i Farré](temes/esports/futbol/femeni/margot-llobera.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
-| [Maria Moles i Farré](temes/esports/futbol/femeni/maria-moles.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
-| [Maria Ruzafa i Lozano](temes/esports/futbol/femeni/maria-ruzafa.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
-| [Marina Fernández i Muelas](temes/esports/futbol/femeni/marina-fernandez.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
-| [Teresa «Tere» Morató i Armengol](temes/esports/futbol/femeni/teresa-morato.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 
 ## temes/gastronomia/begudes
 
@@ -1293,6 +1282,5 @@
 | [`wikipedia-atletes-andorrans`](fonts/wikipedia-atletes-andorrans.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-esport-andorra`](fonts/wikipedia-esport-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-esquiadors-andorrans`](fonts/wikipedia-esquiadors-andorrans.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
-| [`wikipedia-futbol-femeni-andorra`](fonts/wikipedia-futbol-femeni-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-jocs-andorra`](fonts/wikipedia-jocs-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-politica-andorra`](fonts/wikipedia-politica-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
