@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**711** documents · **156** fonts · **0** aptes com a model de llengua · **121** temes amb contingut.
+**712** documents · **157** fonts · **0** aptes com a model de llengua · **121** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -93,6 +93,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [El romànic com a operació política](temes/cultura/arquitectura/el-romanic-com-a-operacio-politica.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `rodriguez-rossa-creacio-artistica` |
+| [Els estripagecs](temes/cultura/arquitectura/els-estripagecs.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `wikipedia-estripagecs` |
 | [El romànic andorrà — índex](temes/cultura/arquitectura/romanic.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `viquipedia-ca` |
 | [Sant Joan de Caselles](temes/cultura/arquitectura/sant-joan-de-caselles.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `viquipedia-ca` |
 | [Sant Martí de la Cortinada](temes/cultura/arquitectura/sant-marti-de-la-cortinada.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `viquipedia-ca` |
@@ -1464,6 +1465,7 @@
 | [`wikipedia-esquiadors-andorrans`](fonts/wikipedia-esquiadors-andorrans.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-estacions-esqui-andorra`](fonts/wikipedia-estacions-esqui-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-estafa-dandorra`](fonts/wikipedia-estafa-dandorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-estripagecs`](fonts/wikipedia-estripagecs.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-familia-perich`](fonts/wikipedia-familia-perich.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-familia-reig`](fonts/wikipedia-familia-reig.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-futbol-femeni-andorra`](fonts/wikipedia-futbol-femeni-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

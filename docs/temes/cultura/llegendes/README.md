@@ -36,8 +36,15 @@ Meritxell, bruixes, ponts, éssers fantàstics. On la llengua es deixa anar.
 - **La hipòtesi de Camiade**: **que la Dama Blanca, la bruixa i la Verge són
   tres representacions d'una mateixa figura femenina.** **Si és certa, aquesta
   taula està classificada per accident.**
-- **Els estripagecs**, **la darrera ossa d'Ordino** i **«Mort, qui t'ha mort»**:
-  **material descarregat i no escrit.**
+- **La resta de criatures de la mitologia pirinenca** amb presència andorrana.
+
+**Correcció del 2026-09-13**: **aquesta llista havia inclòs els estripagecs, la
+darrera ossa d'Ordino i «Mort, qui t'ha mort» com a pendents.** **Cap dels tres
+no pertoca a aquesta branca ni estava pendent:**
+[els estripagecs](../arquitectura/els-estripagecs.md) **són arquitectura**,
+[l'ossa](../../costums/danses/les-festes-de-lossa.md) **és calendari festiu**, i
+[«Mort, qui t'ha mort»](../../institucions/justicia/mort-qui-tha-mort.md)
+**ja estava escrit a justícia.**
 
 ## Related
 
