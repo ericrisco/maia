@@ -853,6 +853,14 @@ identifica els integrants ni mostra la imatge. Aquestes unitats poden fixar les
 dates de la presidència de Jacques; encara no s'han vist i no es pressuposa que
 ell surti a la fotografia.
 
+El mateix fons conserva a `22 Z 11` sol·licituds d'adhesió, butlletins i
+llicències FFS de 1950–1970, la millor comprovació nominal de la seva condició
+federativa. A més, `3 K 60` documenta amb llistes de convidats, programes,
+premsa i correspondència una recepció del **11/06/1967** en què coincidiren les
+assemblees del Comité régional des Vosges de la FFS i de la secció de rugbi de
+la USB. L'expedient creua les dues xarxes esportives de Jacques, però la notice
+no en prova l'assistència.
+
 La segona sigla del currículum, «Ancien Président de l'U.S.B.», també es pot
 resoldre: era la **Union Sportive Belfortaine**, club poliesportiu laic fusionat
 el 1971 amb l'Association Sportive Patronale per formar l'ASMB. El catàleg
