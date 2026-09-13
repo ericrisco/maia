@@ -1362,6 +1362,52 @@ fitxa corporativa que situa el naixement «a Malemort» el 1934 contradiu totes
 dues versions i el trasllat de 1968–1969. Es conserva com a discrepància
 comercial, no com a nova cronologia.
 
+L'anàlisi fotograma a fotograma precisa l'escenari institucional. Els rètols
+identifiquen **Pierre-Emmanuel Henry**, director de Delvert, i **Jean-Luc
+Soury**, president de la cooperativa Limdor. El retrat municipal permet
+reconèixer amb alta confiança Laurent Darthou; una fotografia nominada de
+*Le Télégramme* identifica el tercer entrevistat com **Jean-Baptiste Saria**.
+No era Sylvain Saunier: la festa fou el 14 de maig, la successió s'anuncià el
+30 i Saunier no assumí la presidència d'Agromousquetaires fins a l'1 de
+juliol. Les fonts corporatives separen l'acte institucional —adherents,
+electes, productors i personal— de la jornada familiar del divendres, amb més
+de **250 persones**. El dossier visual, les fonts i els graus de certesa són a
+`delvert-90-ans-2024/source-note-and-visual-analysis.md`.
+
+La presència de Soury obre la cadena cooperativa. La història de Limdor situa
+el canvi de nom i el primer projecte de fred controlat el 1984, el primer
+condicionament de 1.400 t el 1988 i una estació actual declarada de 32 cambres
+i **14.000 t**. Un dossier de 2016 comptava 50 socis, 60 permanents, 420 ha i
+16.200 t, i descrivia els `vergers tremplin` i `relais` que combinaven formació,
+salari temporal, terra pública i compra diferida per renovar productors. El
+testimoni de Michel Texier fa retrocedir Soury a 1985 com a tècnic que orientà
+la reconversió cap a pomeres. La coincidència entre 14.000 t d'emmagatzematge
+Limdor i 14.000 t de pomes rebudes que Delvert anuncia el 2026 **no prova que
+siguin el mateix volum**: no s'ha trobat contracte, quota ni exclusivitat.
+
+El vídeo oficial de producció del **03/06/2026** descriu les 14.000 t com a
+poma de vergers francesos, amb Golden, bicolors i Granny, conservació prop de
+0 °C i transformació en menys de 24 h després d'arribar. La narració segueix
+canal d'aigua, selecció manual, rebuig del 0,5–2 % valoritzat energèticament,
+trituració, separació de pell i llavor, vapor `flash`, sitja, mescla,
+pasteurització a 90–95 °C, ompliment i 500 m de refredament de 95 a 20 °C en
+20 minuts. També diu que el 25 % de la gamma és només poma i que no hi ha
+conservants ni colorants. Són **afirmacions promocionals oficials**, no
+mesuraments independents; la descàrrega audiovisual és parcial, encara que el
+subtítol automàtic cobreix tota la peça. La fitxa crítica és a
+`delvert-production-2026/youtube-ZYJbGzwk6Jk/source-note-transcript-critical.md`.
+
+La invisibilitat del fabricant davant el consumidor es documenta materialment
+el 2016. *Mag DRIVE* mostra compotes **Paquito** sota un cartell que parla de
+`notre propre atelier Intermarché`, no de Delvert. La revista diu a més que les
+valoracions inferiors a cinc estrelles i opinions negatives quedaven fora de
+la cartelleria: els cinc estels exhibits eren selecció publicitària, no mostra
+neutral. Cerques delimitades a Reddit i fòrums no han localitzat un fil centrat
+en Delvert; sí al·lusions disperses a Paquito o a marques Intermarché. Això no
+prova absència de consum o reputació: mostra com la marca de distribuïdor
+absorbeix la identitat pública de la fàbrica. Font, render i registre negatiu
+de cerca a `delvert-production-2026/consumer-reception/`.
+
 El reportatge complet de *La Montagne* concreta l'escala: **12.000 m²**, quatre
 línies, 25.000 tones anuals de fruita i ritmes de 11.000–19.000 pots/hora. El
 2023 haurien sortit 31 milions de pots de confitura, 90 milions de petits pots
