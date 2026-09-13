@@ -23,6 +23,7 @@ fitxada tret de les dues de futbol.** Aquesta subbranca n'obre cinc més.
 | --- | --- |
 | **[El bàsquet](./el-basquet.md)** | **Sis campionats d'Europa de països petits**: 1998, 2000, 2004, 2012, 2014, 2024. **Dotze medalles en disset participacions.** **El palmarès més gran de l'esport andorrà** |
 | **[Els deu primers campions del 1998](./els-deu-primers-campions-del-1998.md)** | Quatre victòries en quatre dies i una generació que després travessa l'esport, la política i els mitjans públics |
+| **[Els dotze campions a casa del 2000](./els-dotze-campions-a-casa-del-2000.md)** | Cinc victòries en cinc dies, sis campions que repetien i els 142 punts i 88 rebots d'Antoni Jiménez |
 | **[Els dotze campions del 2024](./els-dotze-campions-del-2024.md)** | La plantilla, les tres generacions i l'últim minut de la final que va donar a Andorra el sisè títol |
 | **[El tennis](./el-tennis.md)** | **63 eliminatòries de Copa Davis**, i **una sola persona n'ha jugat 53** |
 | **[L'hoquei gel](./lhoquei-gel.md)** | **Un 12-0 i un 24-2 en tres anys.** Neix el 2017 al Palau de Gel de Canillo |
@@ -62,10 +63,11 @@ jugat 53 de les 63 eliminatòries de Copa Davis de la història d'Andorra.**
 ## El que falta
 
 - **Els jugadors.** **De les cinc seleccions, el corpus té set noms de tennis,
-  un d'hoquei, un de rugbi, [els deu campions de bàsquet del
-  1998](./els-deu-primers-campions-del-1998.md) i [els dotze del
-  2024](./els-dotze-campions-del-2024.md).** En bàsquet queden obertes les
-  plantilles dels títols del 2000, 2004, 2012 i 2014.
+  un d'hoquei, un de rugbi i les plantilles campiones de bàsquet del
+  [1998](./els-deu-primers-campions-del-1998.md), el
+  [2000](./els-dotze-campions-a-casa-del-2000.md) i el
+  [2024](./els-dotze-campions-del-2024.md).** En bàsquet queden obertes les
+  plantilles dels títols del 2004, 2012 i 2014.
 - **Les federacions**: de basquetbol, d'esports de gel, de rugbi i de tennis.
   **Cap fitxa de cap.**
 - **Les altres divuit seleccions** de les vint-i-tres que Andorra declara.

@@ -114,10 +114,11 @@ intercanviats.**
 
 ## El que falta
 
-- ~~**Els jugadors. Cap nom.**~~ **Tancat per al 1998 i el 2024:** el corpus ja
-  té [els deu primers campions](./els-deu-primers-campions-del-1998.md) i
-  [els dotze campions del sisè títol](./els-dotze-campions-del-2024.md).
-  **Segueixen obertes les plantilles campiones del 2000, 2004, 2012 i 2014.**
+- ~~**Els jugadors. Cap nom.**~~ **Tancat per al 1998, el 2000 i el 2024:** el
+  corpus ja té [els deu primers campions](./els-deu-primers-campions-del-1998.md),
+  [els dotze que van defensar el títol a casa](./els-dotze-campions-a-casa-del-2000.md)
+  i [els dotze campions del sisè títol](./els-dotze-campions-del-2024.md).
+  **Segueixen obertes les plantilles campiones del 2004, 2012 i 2014.**
 - Si **[Quino Colom](../altres-esports/quino-colom.md)**, base d'ACB i de la VTB
   russa, ha jugat mai amb la selecció.
 - **La Federació Andorrana de Basquetbol**: cap fitxa.
@@ -131,5 +132,6 @@ intercanviats.**
 - [Esports](../README.md)
 - [Els Jocs dels Petits Estats](../competicio/els-jocs-dels-petits-estats.md)
 - [Els deu primers campions del 1998](./els-deu-primers-campions-del-1998.md)
+- [Els dotze campions a casa del 2000](./els-dotze-campions-a-casa-del-2000.md)
 - [Els dotze campions del 2024](./els-dotze-campions-del-2024.md)
 - [Quino Colom](../altres-esports/quino-colom.md)

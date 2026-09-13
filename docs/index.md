@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**647** documents · **126** fonts · **0** aptes com a model de llengua · **116** temes amb contingut.
+**648** documents · **127** fonts · **0** aptes com a model de llengua · **116** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -533,6 +533,7 @@
 | [El rugbi: Els Isards, i un camp a França](temes/esports/seleccions/el-rugbi.md) | `temes/esports/seleccions` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 | [El tennis: seixanta-tres eliminatòries de Copa Davis](temes/esports/seleccions/el-tennis.md) | `temes/esports/seleccions` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 | [Els deu primers campions: Gibraltar, 1998](temes/esports/seleccions/els-deu-primers-campions-del-1998.md) | `temes/esports/seleccions` | compilada | contemporania | no | `fiba-andorra-basquet-1998` |
+| [Els dotze campions a casa: Andorra, 2000](temes/esports/seleccions/els-dotze-campions-a-casa-del-2000.md) | `temes/esports/seleccions` | compilada | contemporania | no | `fiba-andorra-basquet-2000` |
 | [Els dotze campions del 2024](temes/esports/seleccions/els-dotze-campions-del-2024.md) | `temes/esports/seleccions` | compilada | contemporania | no | `fiba-andorra-basquet-2024` |
 | [L'hoquei gel: un 12-0 i un 24-2](temes/esports/seleccions/lhoquei-gel.md) | `temes/esports/seleccions` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 
@@ -1274,6 +1275,7 @@
 | [`estadistica-petits-estats-2015`](fonts/estadistica-petits-estats-2015.md) | Departament d'Estadística d'Andorra · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`ferrer-percepcio-andorra-exterior`](fonts/ferrer-percepcio-andorra-exterior.md) | Josep Ferrer i Altimira · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`fiba-andorra-basquet-1998`](fonts/fiba-andorra-basquet-1998.md) | FIBA · Govern d'Andorra · Consell General · Comitè Olímpic Andorrà · premsa andorrana | drets reservats pels titulars respectius | False |
+| [`fiba-andorra-basquet-2000`](fonts/fiba-andorra-basquet-2000.md) | FIBA · El Periòdic d'Andorra · Federació Andorrana de Bàsquet | drets reservats pels titulars respectius | False |
 | [`fiba-andorra-basquet-2024`](fonts/fiba-andorra-basquet-2024.md) | FIBA · Ràdio i Televisió d'Andorra · Bondia · Andorra Esportiu | drets reservats pels titulars respectius | False |
 | [`figuereda-nombre-de-diputats`](fonts/figuereda-nombre-de-diputats.md) | Pere Figuereda i Cairol · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`font-fenomens-socials-immigracio`](fonts/font-fenomens-socials-immigracio.md) | Agustí Font · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
