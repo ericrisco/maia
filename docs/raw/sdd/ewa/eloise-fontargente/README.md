@@ -1282,6 +1282,16 @@ de 2023: 40 kg d'oli i 1.000 l d'hidrolat d'una parcel·la ecològica de 2 ha
 plantada el 2018.
 [Dossier Quercy 1922–2026](dreyfus-schmidt/yvonne-kahn/jacques-dreyfus-schmidt/baume-des-anges/carla/carla-comparador-quercy-historia-mercat-i-experiment-1922-2026.md).
 
+La branca pública permet seguir el pas d'assaig a patrimoni. Una crònica de
+l'assemblea Quercy PPAM de setembre de 2024 situa les primeres collites
+experimentals el 2023, descriu pluja i gel el 2024 i calcula un any i mig
+d'estocs d'olis essencials. `HEPNA` i el «Parfum du Quercy» eren encara
+projectes: el segon tenia estudi de viabilitat, però no fórmula o producte
+verificat. El documental de Lisa Marchou, *Lavandes du Quercy, le champ des
+possibles* (MNHN, 2023, 52 min), recollí testimonis locals i circulà per Martel,
+Miers i Carennac entre 2024 i 2025; no se n'ha localitzat una còpia pública
+completa i no se li han atribuït afirmacions sense visionat.
+
 La recepció de 2017 revela després com aquell material agronòmic es convertí en
 relat. En una entrevista a *Basenotes*, Thierry Wasser atribuïa a Baume la seva
 descoberta de Carla, però la peça confonia la població de *L. angustifolia* amb
