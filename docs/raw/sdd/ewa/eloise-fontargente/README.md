@@ -1102,7 +1102,32 @@ setembre de 2015, 85 kg el maig de 2016 i 30 kg el desembre. Guerlain filmà el
 seu equip creatiu als camps de Baume i descriví el procés en els informes de
 sostenibilitat. La cour reconegué en l'essència un valor econòmic
 individualitzat i certa notorietat en gastronomia i perfumeria de luxe, però no
-un dret exclusiu sobre Carla, varietat de població desenvolupada per l'INRA.
+un dret exclusiu sobre Carla. La sentència l'anomena varietat de població
+desenvolupada per l'INRA, però les fonts varietals permeten afinar aquesta
+atribució: la xarxa PPAM coordinada per ITEIPMAI la creà el 2002 mitjançant el
+creuament de set clons parentals, i INRAE apareix com a soci del projecte
+genòmic posterior, no com a autor exclusiu documentat de la varietat.
+
+Carla fou concebuda contra el decaïment causat pel fitoplasma de l'*stolbur*.
+Entrà en producció de llavor el 2002 i es llançà als agricultors el 2006 dins la
+filière de *plants sains*. La fitxa CRIEPPAM de 2012, basada en assajos
+2007-2011, li atribueix 4,6 % d'oli essencial de mitjana, un 14 % més de
+productivitat que Rapido i gairebé el doble d'oli per planta que poblacions
+locals no seleccionades; la taula analítica reuneix 22 lots. GENOPARFUM (2020)
+confirmà que Carla conservava una taxa de polimorfisme semblant a la de
+poblacions naturals. Són resultats institucionals i científics sobre la
+varietat, no dades de rendiment pròpies de Baume.
+
+*El País Semanal* mostra a més que la cadena de *Mon Guerlain* incloïa altres
+productors: el 2017 Fabien Morel declarava cultivar Carla en 24 de 93 hectàrees
+a Barret-de-Lioure, amb plantació iniciada el 2010. El seu relat confirma la
+presentació de l'essència a Thierry Wasser per Laurent, però atribueix la
+creació a un «Charles Poisson» no corroborat per cap font varietal localitzada;
+el nom queda com a testimoni oral, no com a autoria establerta.
+[ITEIPMAI 2023](https://www.iteipmai.fr/wp-content/uploads/2025/06/RG-Lavande-2023-VF.pdf);
+[fitxa CRIEPPAM 2012](https://ppam.erboressens.fr/files/FicheTechniqueLesVarietesDeLavandeCarla_file_1607273733789_fiche-hb-carla-oct2012.pdf);
+[GENOPARFUM](https://hal.inrae.fr/hal-03098019);
+[*El País Semanal*](https://elpais.com/elpais/2017/10/25/eps/1508882707_150888.html).
 
 La quarta operació fracassà el 2017: d'una previsió de 150 kg, Guerlain passà a
 125 kg per atendre compromisos amb recol·lectors; acordaren lliurament a
