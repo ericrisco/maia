@@ -97,8 +97,10 @@ moltes maneres, el que **una de les respostes resumeix així**:
 > Estat.**»
 
 **Onze paraules que expliquen per què el debat existeix.** El corpus **no
-l'arbitra** i **no sap de qui és la resposta**: Valls la cita sense atribuir-la
-dins la síntesi. **Buit registrat, tancable llegint les vint-i-dues respostes.**
+l'arbitra**, i **ja sap de qui és**: **Antoni López Montanya**, advocat, l'escriu
+gairebé així a la seva resposta. Valls la cita a la síntesi **sense
+atribuir-la**. Vegeu [les respostes de 1994](./les-respostes-de-1994.md) — i
+també qui hi diu **exactament el contrari**.
 
 ### El que ningú no discuteix
 
@@ -177,10 +179,10 @@ hi arriba trenta-dos anys després i **no ha trobat cap enquesta posterior**.
 
 ## Buits registrats
 
-1. ~~**Les vint respostes no llegides.**~~ **PARCIALMENT TANCAT**: se n'han
-   treballat **vuit** —Anglada, Arana, Bascompte, Benet, Betriu, Forné, Reig i
-   Riba, més Peruga— a [les respostes de 1994](./les-respostes-de-1994.md).
-   **En queden catorze.**
+1. ~~**Les vint respostes no llegides.**~~ **TANCAT gairebé del tot**: se n'han
+   treballat **divuit** de vint-i-dues a
+   [les respostes de 1994](./les-respostes-de-1994.md). **En queden quatre**:
+   Ros i Serra, Rosanes, Rossa i Salvadó.
 2. **De qui és la frase «Andorra és un Estat, però no una nació».**
 3. **Qui eren els seixanta.** Valls diu que **els qui no van respondre queden
    «forçosament en l'anonimat»**: la llista d'enviaments no es publica.

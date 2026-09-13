@@ -79,8 +79,9 @@ aparell acadèmic**. És un registre que el corpus no té enlloc més.
 
 ## Avís de lectura
 
-**Les trenta-sis pàgines de respostes estan buidades a mitges.** El corpus n'ha
-treballat **la metodologia, la síntesi de l'enquestador i nou respostes**
-—Anglada, Arana, Bascompte, Benet, Betriu, Forné, Peruga, Reig i Riba—.
-**En queden catorze sense llegir**, i cadascuna és un text signat d'una persona
-identificada sobre la identitat andorrana el 1994. **Buit registrat.**
+**Les trenta-sis pàgines de respostes estan buidades gairebé del tot.** El corpus
+n'ha treballat **la metodologia, la síntesi de l'enquestador i divuit
+respostes**. **En queden quatre sense llegir** —**Jaume Ros i Serra**, **Joan
+Rosanes**, **Bibiana Rossa** i **Albert Salvadó**—, i cadascuna és un text signat
+d'una persona identificada sobre la identitat andorrana el 1994. **Buit
+registrat.**

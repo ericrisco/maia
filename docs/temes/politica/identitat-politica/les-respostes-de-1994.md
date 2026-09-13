@@ -262,20 +262,211 @@ sèrie a partir del 1982 sense aquest parell de xifres.
 > aplica al passat els mots de la seva preocupació
 > ([la historiografia](../../historia/historiografia/historiografia.md)).
 
+## La resposta més escèptica: potser no hi ha substrat
+
+**Antoni López Montanya**, advocat, arriba a la conclusió contrària a tots els
+altres:
+
+> «**no crec que hi hagi res prou específicament definidor de l'andorranitat, si
+> no és precisament això, que no existeix un substrat propi, una cultura pròpia,
+> i que la que tenim s'ha anat formant per diferents manlleus d'ací i d'allà**.»
+
+I hi posa un antecedent personal que és **història de l'andorranització**:
+
+> «A principis dels vuitanta, a les jornades universitàries d'estiu, **un grup
+> d'estudiants vam destinar una tarda al tema, llavors candent, de
+> l'andorranització**, que ens va ser fàcil de definir com: **omplir l'ensenyament
+> de contingut andorrà**. **Però quan vam haver de decidir quin era aquest
+> contingut andorrà ens va resultar enormement difícil**, tret del folklore més
+> local i del fet específic del coprincipat.»
+
+**Aquesta és la pregunta que aquest corpus intenta contestar**, formulada el 1994
+per algú que hi va renunciar. Vegeu
+[l'andorranització](../../societat/educacio/landorranitzacio.md).
+
+I una observació cultural amb data i exemples:
+
+> «mentre a Catalunya sorgeix el **rock català** amb molta força, **a Andorra els
+> grups de rock canten en anglès** (cf. el recent concurs del comú d'Andorra la
+> Vella). **El més conegut de tots, V Columna, canta en castellà.**»
+
+**El corpus no tenia res d'això.** Vegeu
+[música i cançons](../../cultura/musica-i-cancons/musica-i-cancons.md). **Buit
+registrat: V Columna, i què es cantava a Andorra els anys noranta.**
+
+També encunya **«la cultura del Range Rover»** —«el tot terreny de luxe que
+serveix per fer tontòmetres de nit de camí entre dues discoteques, mentre es
+parla negligentment de foteses polítiques»— com a únic tret concret que ell i els
+seus amics trobaven.
+
+## La resposta que rebutja la pregunta
+
+**Susanna Vela**, historiadora, és l'única que **discuteix el marc mateix de
+l'enquesta**:
+
+> «**No m'agrada la paraula i el sentit d'andorranitat, per la posició ideològica
+> que transmet.** Aquesta identitat andorrana, **a voltes atribuïda des de
+> l'exterior**, se'm fa difícil de definir en una comunitat amb costums,
+> pràctiques familiars, socials i religioses **extensibles al Pirineu i a
+> territoris de frontera**.»
+
+I fa dues afirmacions que el corpus adopta com a criteri de treball:
+
+> «Una població **pot percebre una diferència que, objectivament o materialment,
+> no existeix o que és difícil de veure**.»
+
+> «**a Andorra coexisteixen permanentment diverses identitats que pensen de
+> manera diferent i que canvien amb el temps.**»
+
+**Identitats en plural i canviants.** És la formulació menys nacional i més
+comprovable de tot el recull, i **ve de la mateixa historiadora** que el corpus
+cita per al [Consell de la Terra](../../institucions/consell-general/el-consell-de-la-terra.md)
+i per a [les ordinacions del segle XV](../../institucions/consell-general/el-llibre-de-la-terra.md).
+
+Vela també data el canvi: una comunitat agropecuària que **«va viure un canvi a
+partir dels anys seixanta, una mena de mutació»**, on **l'educació, especialment
+la universitària, va tenir un paper important en el canvi de mentalitats**. Vegeu
+[la transformació econòmica](../../economia/transformacio-economica/transformacio-economica.md).
+
+## La frase més neta de totes
+
+**Pere Roquet Ribó**, executiu de banca:
+
+> «**la llengua d'Andorra és el català, però els andorrans, com a poble, no són
+> catalans.**»
+
+I la comparació que ho il·lustra millor que cap teoria:
+
+> «**Un senyor de Tremp, per exemple, pot assemblar-se molt, en sentit general, a
+> un senyor d'Andorra. Però, en canvi, l'un i l'altre són ben diferents d'un
+> senyor de Palamós.**»
+
+**La semblança va per altituds, no per fronteres.** Roquet dona també, de passada,
+**la població que li consta el 1994: «no més de 65.000 habitants»** — vegeu
+[la població avui](../../societat/demografia/demografia.md) — i repeteix la
+fórmula de la prudència: **«no estira més el braç que la màniga»**.
+
+## Marquet: les relacions anaven de través, no avall
+
+**Jordi Marquet**, president de la Cambra de Comerç, aporta l'observació més
+estructural del recull:
+
+> «durant segles […] **les relacions humanes s'establien de forma transversal i
+> mai de forma longitudinal**. **Resultava més fàcil de salvar l'obstacle d'una
+> muntanya i relacionar-se amb gent de la mateixa condició econòmica, cultural i
+> social, que tractar amb persones de la mateixa vall la prosperitat de les quals
+> augmentava a mesura que el riu anava baixant.**»
+
+**La classe pesava més que la distància.** I hi ha el vocabulari per dir-ho:
+**«gent d'amont i gent d'avall»**. Amb els pagesos del **Pallars Sobirà** i de la
+**Cerdanya** el tracte era «absolutament planer»: «**la llengua era la mateixa,
+fins i tot l'accent**».
+
+I una relació que el corpus no tenia descrita així:
+
+> «**Andorra i la Seu d'Urgell s'han donat l'esquena durant segles.**»
+
+Marquet és, a més, **l'única veu crítica amb l'Escola Andorrana** del recull:
+«no estic segur que aconsegueixi els objectius esperats. **Penso que, per aquest
+mitjà, ens catalanitzem i ens tanquem.**» I tanca amb una inversió d'Oscar Wilde
+que val per tot el debat:
+
+> «**Catalunya i Andorra són dos països separats per la mateixa llengua.**»
+
+Dona també **el contingut del discurs del cap de Govern a l'ONU**: que hi va
+citar **Ramon Llull, Ausiàs March i Salvador Espriu**, i que **Andorra hi va fer
+entrar el català «de forma oficial»**. **El corpus registra les dues coses com a
+afirmacions de Marquet**, no comprovades
+([el reconeixement internacional](../../institucions/relacions-exteriors/el-reconeixement-internacional.md)).
+
+## Dues fórmules per guardar
+
+| Qui | Fórmula |
+| --- | --- |
+| **Joan Ramon Marina**, professor de català | «**jo sempre parlo de llengua catalana i cultura andorrana**» |
+| **Josep Marsal**, exsubsíndic | Sí a la catalanitat com a símbol cultural, però quan esdevé bandera política, «**nosaltres tenim la nostra, amb un color suplementari**» |
+
+**«Un color suplementari»**: la bandera andorrana és la catalana amb el blau
+francès al costat ([la bandera](../../institucions/simbols/la-bandera.md)).
+**Una diferència constitucional dita en tres paraules.**
+
+Marina hi afegeix una feina concreta de projecció exterior que el corpus no tenia:
+**els lectorats de català**, que ell portava, «amb la suficient prudència i
+independència per diferenciar Andorra de la resta dels països del domini
+lingüístic». I **Delfí Roca** ho resumeix en una línia: «**Un andorrà sent
+patriotisme per Andorra i simpatia per Catalunya.**»
+
+## Una andorrana de primera generació explicant com es fa un passaport
+
+**Montserrat Ronchera**, tècnica en màrqueting:
+
+> «**Sóc una andorrana d'aquelles que abans denominaven de primera generació**:
+> els meus pares són d'origen valencià-català i català i van venir a Andorra força
+> jovenets, amb passaport espanyol. […] a la pregunta d'on érem responien
+> invariablement: «**Som d'Andorra, catalans, però la nostra filla és
+> andorrana**».»
+
+I el final:
+
+> «**Avui, que tenen setanta anys**, en el moment en què **la llei els ho ha
+> permès**, han decidit adquirir la nacionalitat andorrana, **no tant per exercir
+> els drets polítics** que li són inherents, **sinó més aviat per documentar un
+> passaport que ells ja portaven en el seu cor**.»
+
+**Tres estatuts en una família**: pares catalans amb passaport espanyol que es
+diuen «d'Andorra», una filla andorrana de naixement, i una naturalització als
+setanta anys quan la llei va deixar. És **el testimoni personal més precís que té
+el corpus** sobre
+[els andorrans de primera generació](../../institucions/nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md)
+i [el codi de la nacionalitat](../../institucions/nacionalitat-i-residencia/el-codi-de-la-nacionalitat-de-1977.md).
+
+## Peruga: una quarta transcripció del Manual Digest
+
+**Joan Peruga** obre la seva resposta transcrivint **el mateix passatge del
+capítol tercer** que ja tenien Camiade, Palau i Martí i Canturri — i **la seva
+versió no és idèntica a la de Canturri, que és al mateix llibre**:
+
+| | Canturri (p. 33) | Peruga (p. 91) |
+| --- | --- | --- |
+| L'obertura de la clàusula d'excepció | «**Una sola cosa** hi ha tant solament» | «**Una cosa sola** hi ha tant solament» |
+| La continuació del primer període | «*son propia, Verdadera, y llegitima Cataluña*» | «*…com à part, y porcio de dit Principat, y per consegüent son sos naturals, propis, Verdaders y llegitims catalans en tot rigor*» |
+
+**Quatre transcripcions, quatre variants.** Cap no contradiu les altres en el
+sentit; **totes difereixen en la lletra**. Per a un corpus que ha de decidir com
+cita, això és la prova que **la col·lació contra l'original no és opcional**.
+Vegeu [el Manual Digest](../../historia/manual-digest/manual-digest.md).
+
+Peruga hi afegeix **dues expressions de Fiter i Rossell** que el corpus no tenia:
+que els andorrans són **«catalans neutrals»**, i que el territori s'hi comença a
+anomenar **«Valls neutres d'Andorra»**, «en la llinda de Catalunya».
+
+## Nota sobre el vocabulari d'aquestes respostes
+
+Dues respostes fan servir **«raça»** com a categoria descriptiva —**Montserrat
+Rebés**: «**la raça és la mateixa, no hi ha diferències antropològiques entre
+andorrans i catalans**»— i una fa antropologia física
+(vegeu l'avís sobre Anglada, més amunt). **El corpus ho transcriu amb la data
+enganxada i no ho adopta.** És l'ús corrent de 1994 en aquest registre, i és
+precisament el que Joan Massa advertia al mateix volum.
+
 ## Buits registrats
 
-1. **Encara en falten deu**: Forné, López Montanya, Marina, Marquet, Marsal,
-   Rebés, Roca, Ronchera, Roquet i Ros i Serra hi consten amb resposta i el
-   corpus n'ha treballat **una** (Forné). **Rosanes, Rossa, Salvadó i Vela**,
-   cap.
-2. **Les dides andorranes a França.** Exportació de treball de cura, sense cap
+1. **En falten tres**: **Jaume Ros i Serra**, **Joan Rosanes**, **Bibiana
+   Rossa** i **Albert Salvadó** — **quatre**, de vint-i-dues. Les altres divuit
+   són llegides.
+2. **V Columna** i el rock andorrà dels anys noranta. **Buit nou.**
+3. **El discurs del cap de Govern a l'ONU**: el text, i si hi va citar Llull,
+   Ausiàs March i Espriu com diu Marquet.
+4. **Les dides andorranes a França.** Exportació de treball de cura, sense cap
    fitxa al corpus.
-3. **Carlins i afrancesats a Andorra.** Betriu els dona per vius el 1994 i el
+5. **Carlins i afrancesats a Andorra.** Betriu els dona per vius el 1994 i el
    corpus no en té res.
-4. **L'any d'entrada d'Andorra a la UNESCO.**
-5. **De qui és la frase** «Andorra és un Estat, però no una nació» que Valls cita
-   sense atribuir. **Continua oberta**: no és cap de les respostes llegides fins
-   ara, i Arana en diu el contrari.
+6. **L'any d'entrada d'Andorra a la UNESCO.**
+7. ~~**De qui és la frase** «Andorra és un Estat, però no una nació».~~
+   **TANCAT: és d'Antoni López Montanya**, que l'escriu gairebé literalment —
+   «Andorra era un estat (entre cometes) i avui, un Estat, però no una nació.
+   Catalunya és una nació, però no un Estat» — i **Valls la cita a la síntesi
+   sense atribuir-la**.
 
 ## Related
 
