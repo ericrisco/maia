@@ -1347,7 +1347,10 @@ l'article original, 1972 i l'empresa Beynat–Malemort són la lectura millor
 documentada; 1970 i l'atribució a Anna resten sense corroborar. Els records de
 caràcter i les anècdotes de taller s'han mantingut com a testimonis orals,
 perquè el butlletí declara que es basa en família i antics empleats a més de
-fotografies i premsa.
+fotografies i premsa. L'Assemblée nationale data l'inici del ministeri de
+Charbonnel el 06/07/1972: si la referència al diari del 26 de juny és exacta,
+`ministre` és un títol retrospectiu o una de les dues dates necessita
+correcció. No s'ha afirmat que acudís a la cerimònia en qualitat ministerial.
 
 Els censos oficials completen ara el marc domèstic. El del 05/03/1911 (`6 M
 239`, imatge 21) situa a rue Mercière Henri Delvert (1880), xarcuter, Maria
