@@ -68,7 +68,10 @@ I la clau és l'apartat 2:
 baixes. És la peça fiscal del mateix dispositiu que
 [la llei de creixement sostenible](../../societat/habitatge/els-habitatges-buits.md)
 munta per via administrativa —i que fa servir el **temps de residència** per
-decidir qui és estranger.
+decidir qui és estranger. Aquell llindar és exacte i és a
+[l'impost contra l'especulació](../../societat/habitatge/limpost-contra-lespeculacio.md):
+**tres anys de residència efectiva dins dels deu anteriors**; qui no els acredita
+**paga com un estranger**, encara que hi visqui.
 
 ## Tabac, alcohol i hidrocarburs
 
@@ -118,3 +121,9 @@ folklore, és una categoria aranzelària vigent.
   els diners que reben ([els diners dels comuns](../../institucions/comuns-i-parroquies/els-diners-dels-comuns.md))
   **queda per llegir**.
 - **Quant recapta cada figura**, com sempre, no consta.
+
+## Related
+
+- [L'impost contra l'especulació](../../societat/habitatge/limpost-contra-lespeculacio.md) — el rellotge de cinc anys sobre la revenda.
+- [Els tipus impositius](./els-tipus-impositius.md) — els impostos grans.
+- [Els diners dels comuns](../../institucions/comuns-i-parroquies/els-diners-dels-comuns.md) — on van les transferències.

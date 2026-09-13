@@ -98,3 +98,4 @@ que el nom mateix de la llei reconeix.
 - [Immigració](../immigracio/immigracio.md)
 - [Llogar un pis](./llogar-un-pis.md) — què diu la llei d'un contracte de lloguer avui.
 - [Els habitatges buits](./els-habitatges-buits.md) — què pot fer l'Estat amb un pis buit.
+- [L'impost contra l'especulació](./limpost-contra-lespeculacio.md) — què fa la llei fiscal contra la revenda ràpida.

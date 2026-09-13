@@ -1,0 +1,156 @@
+---
+type: article
+title: L'impost contra l'especulació
+description: "Vendre un pis abans de dos anys té un recàrrec del 10%, i si qui ven no és resident fiscal, el 25%. I comprar el primer habitatge no paga impost si portes cinc anys al país."
+tema: temes/societat/habitatge
+veu: compilada
+epoca: contemporania
+apte_llengua: false
+font: jurisprudencia-ad
+timestamp: 2026-09-15T00:10:00Z
+tags: [societat, habitatge, economia, dret, fiscalitat, immigracio]
+---
+
+# L'impost contra l'especulació
+
+El **títol V de la Llei per al creixement sostenible i el dret a l'habitatge**
+(5/2025) es diu, literalment, «**Mesures en matèria tributària per frenar
+l'especulació immobiliària i fomentar l'accés a la compra del primer habitatge
+per a residents**». No modifica un impost: **en modifica sis alhora**
+([font](../../../fonts/jurisprudencia-ad.md), instantània del **2026-09-12**).
+Aquest és el buit que
+[els habitatges buits](./els-habitatges-buits.md) deixava obert.
+
+## El rellotge de cinc anys
+
+La idea que travessa tot el títol és **el temps de tinença**. Com més ràpid es
+revèn, més es paga.
+
+**Recàrrec especial sobre guanys especulatius** (impost sobre societats,
+disposició addicional segona):
+
+| Temps entre compra i venda | Recàrrec |
+| --- | --- |
+| **menys de 2 anys** | **10%** |
+| **de 2 a 5 anys** | **5%** |
+| **5 anys o més** | cap |
+| **promoció de nova construcció**: menys de 2 anys | **5%** |
+
+**Impost sobre la renda dels no-residents fiscals** (article 29), on els tipus
+són molt més alts:
+
+| Temps de tinença | Tipus |
+| --- | --- |
+| **menys de 2 anys** | **25%** |
+| **de 2 a 5 anys** | **20%** |
+| **de 5 a 10 anys** | **15%** |
+| *(general, per a la resta de rendes)* | *10%* |
+
+**Qui no viu a Andorra i revèn abans de dos anys paga dues vegades i mitja el
+tipus general del país.** L'escala no penalitza el guany: penalitza **la
+pressa**.
+
+## Comprar el primer pis: exempció, si portes cinc anys
+
+L'impost de **transmissions patrimonials immobiliàries** exempta la compra
+quan es donen **totes dues** condicions (article 4.11):
+
+1. **Qui compra** té **nacionalitat andorrana amb residència efectiva**, **o bé**
+   és estranger que acredita **cinc anys de residència legal, permanent i
+   continuada dins dels darrers deu**.
+2. És la **primera adquisició d'habitatge** i **ha de constituir l'habitatge
+   habitual i permanent** —s'hi inclouen **fins a dos aparcaments i un traster**
+   si es compren conjuntament.
+
+**L'exempció no és per ser andorrà: és per portar-hi temps.** Cinc anys de
+residència continuada i s'hi entra.
+
+I la llei afegeix dues exempcions més que treballen sobre l'oferta:
+
+- **Institut Nacional de l'Habitatge, Fons d'Habitatge** i societats
+  participades: exemptes en les dues direccions, quan l'objectiu és **promoure
+  lloguer a preu assequible** (4.13).
+- **Societats andorranes constituïdes fa més de cinc anys** que destinin
+  l'immoble a **lloguer assequible durant un mínim de deu anys** (4.14). I si
+  incompleixen el termini, **perden l'exempció i han de declarar i pagar
+  immediatament, amb interès de demora comptat des de la data d'adquisició**.
+
+A l'**IGI**, les cessions d'ús d'habitatge de preu assequible passen al **tipus
+superreduït**, i s'hi estenen **aparcaments, trasters i mobles** llogats
+conjuntament (article 59.15).
+
+## La pastanaga per llogar barat, amb sostre
+
+Els articles 77 i 79 donen un **incentiu fiscal a qui lloga**, però el
+condicionen amb dues xifres:
+
+> La reducció del **10%** dels ingressos de lloguer d'habitatge habitual (a
+> societats), i **deu punts addicionals** al percentatge de despeses deduïbles
+> (a l'IRPF), **només s'apliquen** als habitatges amb **una renda inferior a 9
+> euros el metre quadrat** i **un import total que no superi els 1.250 euros
+> mensuals**.
+
+**El benefici fiscal té preu màxim.** Qui lloga per sobre d'aquest llindar no
+hi entra. És la mateixa lògica de topalls que descriu
+[llogar un pis](./llogar-un-pis.md), aplicada per la via de l'impost en lloc de
+la prohibició.
+
+## Qui compta com a estranger quan compra
+
+La **Llei 2/2026**, que continua i consolida aquestes mesures, retoca l'**impost
+sobre la inversió estrangera immobiliària** i hi posa la regla més dura del
+paquet:
+
+| Tipus | Quan |
+| --- | --- |
+| **6%** | **un sol habitatge** —unifamiliar, pis, apartament o estudi— amb un màxim de **tres places d'aparcament i tres trasters** |
+| **10%** | **la resta**, i **també** quan no es manté la propietat en les condicions exigides |
+
+I s'aplica **progressivament i per trams** segons **el nombre total d'unitats
+immobiliàries** en què s'inverteix, **comptant les inversions anteriors**; un cop
+s'arriba al tipus màxim, **totes les posteriors van al màxim**. Les **persones
+jurídiques vinculades sumen** les seves unitats de forma agregada.
+
+La definició d'obligat tributari és el que canvia el mapa:
+
+> És obligat tributari la **persona física resident** que faci una inversió
+> immobiliària i **no pugui acreditar tres anys o més de residència efectiva i
+> permanent dins dels deu anteriors** —**«sempre que no sigui per raó
+> d'estudis»**, i en aquest cas el període **sí que compta** (article 5.1.b).
+
+**Un resident nou paga com un estranger.** I la mateixa regla s'aplica a la
+participació en societats andorranes: és **participació estrangera** la de
+residents amb **menys de tres anys** de residència en els darrers deu (5.4).
+
+## Els dos rellotges, i el que diuen
+
+El país ha escrit **dos comptadors de residència diferents** per a la mateixa
+persona:
+
+| Per a què | Anys exigits |
+| --- | --- |
+| **No pagar com a inversor estranger** en comprar | **3** de residència efectiva dins dels darrers 10 |
+| **Exempció de transmissions en el primer habitatge** | **5** de residència legal, permanent i continuada dins dels darrers 10 |
+
+Entre els tres anys i els cinc hi ha un període en què una persona **ja no és
+inversor estranger però encara no té l'exempció del primer habitatge**. No és un
+error: és una escala d'arrelament, amb dos esglaons.
+
+## Buits registrats
+
+- **Quant recapta** cadascuna d'aquestes figures, i si el mercat s'ha mogut des
+  del 2025, **no consta**: la llei descriu el marc, no el resultat.
+- **La resta del títol V** —les modificacions concretes de l'IRPF, article 79, i
+  les regles de càlcul del guany— **només s'han llegit en el que fixa tipus i
+  llindars**.
+- **El règim de vinculació** entre persones jurídiques (article 8.3 de la Llei
+  3/2024 modificada) **s'ha citat i no s'ha buidat**.
+- **Què és exactament «preu assequible»** ho fixen la Llei 15/2021 i la 30/2021,
+  citades però **no llegides en aquest punt**.
+
+## Related
+
+- [Els habitatges buits](./els-habitatges-buits.md) — l'altra pota de la mateixa llei.
+- [Llogar un pis](./llogar-un-pis.md) — els topalls del contracte.
+- [Els altres impostos](../../economia/banca-i-fiscalitat/els-altres-impostos.md) — on viu la fiscalitat immobiliària general.
+- [Els pisos turístics](../../economia/turisme-i-neu/els-pisos-turistics.md) — l'altre ús que competeix pel mateix parc.

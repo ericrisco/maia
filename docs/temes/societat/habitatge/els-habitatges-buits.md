@@ -130,6 +130,14 @@ d'immigració (article 1).
   els compta.
 - **El preu estadístic de mercat per parròquia** és la peça que decideix qui
   queda fora, i **el publica el Govern a part**: no és a la llei.
-- **El títol V**, amb els impostos contra l'especulació, **no s'ha llegit**.
+- ~~**El títol V**, amb els impostos contra l'especulació, **no s'ha llegit**.~~
+  **Tancat**: vegeu
+  [l'impost contra l'especulació](./limpost-contra-lespeculacio.md). Modifica
+  **sis impostos alhora**, i la peça que no s'esperava és que **un resident nou
+  paga com un estranger** si no acredita tres anys de residència efectiva.
 - **El reglament del parc públic d'habitatge** del 21 d'agost del 2024, que la
   llei cita per fixar els cinc anys, **no és al corpus**.
+
+## Related
+
+- [L'impost contra l'especulació](./limpost-contra-lespeculacio.md) — el rellotge de cinc anys i l'exempció del primer habitatge.
