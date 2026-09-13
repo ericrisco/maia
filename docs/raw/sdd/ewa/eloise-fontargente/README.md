@@ -1415,6 +1415,39 @@ i primes; el d'octubre diu que, després d'un primer balanç, es preparava un
 no que sigui la sortida jurídica de la vaga de 2018 ni que el segon arribés a
 funcionar.
 
+Tres informes oficials Géorisques permeten seguir ara el risc industrial sense
+dependre de les declaracions de premsa. El 2023 la inspecció registrà problemes
+de legionel·la a la torre JACIR des de 2021, amb resultats de 1.800 a 14.000
+UFC/L, i exigí revisar l'AMR. El 09/07/2024 una anàlisi intermèdia arribà a unes
+**450.000 UFC/L** i Delvert aturà immediatament la dispersió. L'ARS comparà al
+CNR-L mostres de dos pacients hospitalitzats amb la de la fàbrica i el
+18/09/2024 exclogué el vincle causal perquè les soques genòmiques eren
+diferents. La coincidència temporal, doncs, no permet atribuir aquells casos a
+Delvert.
+
+L'auditoria KOSAMTI generà 35 accions, 25 de les quals constaven completades el
+28/04/2025. La inspecció de maig mantingué control setmanal de JACIR, documentà
+noves superacions de 1.000 UFC/L durant l'ajust d'un dosificador redundant i
+formulà set demandes de justificació. Al desembre constaven procediments
+actualitzats, carnets completats i corrosió tractada; les AMR del 30/09/2025 comptaven 33
+esdeveniments —quatre crítics— a BALTIMORE i 35 —cinc crítics— a JACIR. No hi
+ha, però, declaració de risc tancat: la vigilància setmanal de JACIR continuava
+exigida i l'eficàcia s'havia d'acreditar al balanç anterior al 31/03/2026.
+
+La mateixa inspecció fa visibles projectes **2026–2029** encara no executats:
+cambra freda per a pomes, substitució de BALTIMORE per tecnologia adiabàtica,
+nova condicionadora de gourdes amb ampliació i trasllat de torre, i un edifici
+per al personal. El règim actual és 290 t/dia de producte entrant; l'informe
+adverteix que el llindar IED de 300 t/dia es refereix a producte acabat i exigeix
+argumentar la classificació futura. No s'ha equiparat aquesta xifra amb els 539
+t/dia del decret de 2003, de perímetre i nomenclatura diferents.
+
+Finalment, l'arrêté del 30/06/2026 imposa quatre campanyes en dotze mesos sobre
+fangs destinats a valorització agrícola, amb 52 PFAS i llindars de resposta.
+És una obligació de vigilància, **no un resultat positiu**: no prova presència de
+PFAS a Delvert. Els PDF, textos, OCR i renders de control es conserven sota
+`delvert-georisques-inspections/`, sempre dins `maia/docs/raw`.
+
 La mateixa peça diu que el producte inicial de 1934 foren confitures, mentre
 *La Vie corrézienne* diu conserves de carn i el dossier municipal comença amb
 ceps el 1935. La coincidència en Beynat i el soterrani no resol la discrepància
