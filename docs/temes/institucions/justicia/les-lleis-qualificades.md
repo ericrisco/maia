@@ -92,3 +92,8 @@ però **el gruix del contingut és de fa quinze anys**: coherent amb el fet que
   cita expressament com una de les tres de doble majoria. **No és al fons.**
 - **No s'ha comprovat cap votació real.** Que la regla existeixi no diu com s'ha
   aplicat ni si alguna llei qualificada ha decaigut per no arribar-hi.
+
+## Related
+
+- [El finançament dels partits](../../politica/sistema-electoral/el-financament-dels-partits.md) — la 43/2022 d'aquesta taula, llegida.
+- [El dret vigent](el-dret-vigent.md) — per què gairebé tot és recent.

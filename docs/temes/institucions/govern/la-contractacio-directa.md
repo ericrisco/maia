@@ -205,3 +205,4 @@ un contracte menor andorrà es fa visible**. **Buit registrat.**
 - [El Govern](./el-govern.md) — qui contracta a escala nacional.
 - [La funció pública](./la-funcio-publica.md) — l'altra manera que té l'Administració de proveir-se.
 - [Les set parròquies](../comuns-i-parroquies/les-set-parroquies.md) — els cònsols que la lletra g) anomena.
+- [El finançament dels partits](../../politica/sistema-electoral/el-financament-dels-partits.md) — qui dona a un partit no pot contractar amb l'Administració durant un any.

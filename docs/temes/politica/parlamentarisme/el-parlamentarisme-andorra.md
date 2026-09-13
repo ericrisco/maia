@@ -157,3 +157,4 @@ fumar en un local públic**.
 - [La Constitució de 1993](../../historia/constitucio-1993/constitucio-1993.md)
 - [L'accés als comunals](../../historia/edat-mitjana/lacces-als-comunals.md) — per què es reunien.
 - [La cronologia d'Andorra](../../historia/moments-historics/la-cronologia-dandorra.md) — la mateixa història, creuada amb tres cronologies més.
+- [El finançament dels partits](../sistema-electoral/el-financament-dels-partits.md) — la llei que els regula; el buit de **quins** partits hi ha segueix obert.

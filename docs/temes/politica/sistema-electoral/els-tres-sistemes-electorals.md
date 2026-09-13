@@ -145,3 +145,4 @@ revocar acords del parlament**
 - [El sufragi femení](../../societat/dones/el-sufragi-femeni.md)
 - [La Constitució de 1993](../../historia/constitucio-1993/constitucio-1993.md)
 - [Les set parròquies](../../institucions/comuns-i-parroquies/les-set-parroquies.md) — la meitat territorial del Consell.
+- [El finançament dels partits](./el-financament-dels-partits.md) — les regles que els regeixen, encara que no els noms.

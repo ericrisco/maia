@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**530** documents · **122** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
+**531** documents · **122** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -836,6 +836,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El finançament dels partits](temes/politica/sistema-electoral/el-financament-dels-partits.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El sufragi universal masculí](temes/politica/sistema-electoral/el-sufragi-universal-masculi.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `cavero-parlamentarisme-segle-xx` |
 | [Els tres sistemes electorals](temes/politica/sistema-electoral/els-tres-sistemes-electorals.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `dalleres-coprincipat-parlamentari` |
 | [La desigualtat del vot](temes/politica/sistema-electoral/la-desigualtat-del-vot.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `lopez-escenaris-de-futur` |

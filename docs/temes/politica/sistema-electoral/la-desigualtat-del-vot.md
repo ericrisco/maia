@@ -250,3 +250,4 @@ amb «tot per al guanyador, encara que sigui per un sol vot»**.
 - [La política de nacionalitat](../../institucions/nacionalitat-i-residencia/la-politica-de-nacionalitat.md) — qui entra al cens.
 - [Els andorrans de primera generació](../../institucions/nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md)
 - [Les set parròquies i els seus comuns](../../institucions/comuns-i-parroquies/les-set-parroquies.md)
+- [El finançament dels partits](./el-financament-dels-partits.md) — l'altra desigualtat: el sostre de despesa electoral és pla.
