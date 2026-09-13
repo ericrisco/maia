@@ -148,13 +148,13 @@ frases**, no només la primera.
 
 | Comunitat / tema | Ponent |
 | --- | --- |
-| **Nacionals francesos** | **Jean Pujol** |
+| ~~**Nacionals francesos**~~ **BUIDADA** | **Jean Pujol** → [qui podia ser andorrà el 1997](../../institucions/nacionalitat-i-residencia/qui-podia-ser-andorra-el-1997.md) |
 | **Residents espanyols** (aspiracions) | **Modest Mayoral** |
 | **El punt de vista d'un anglès** | **Desmond Allen** |
 | **Associació de Dones Migrants d'Andorra** | **Carmen Barbero** |
 | **Comunitat mixta, integració i microestat** | **Sandrine Rui** (sociòloga) |
 | Problemes socials derivats de la no integració | **Montserrat Piqué** |
-| Problemes polítics derivats de la no integració | **Simó Duró** |
+| ~~Problemes polítics derivats de la no integració~~ **BUIDADA** | **Simó Duró** → [qui podia ser andorrà el 1997](../../institucions/nacionalitat-i-residencia/qui-podia-ser-andorra-el-1997.md) |
 | Interculturalitat i treball social | **Rosa Duró** |
 | Integració a l'empresa | **Mònica Godina** |
 | Integració a l'esplai | **Ramon Rossell** |
@@ -162,7 +162,7 @@ frases**, no només la primera.
 | ~~Aspectes socioeconòmics d'Andorra~~ **BUIDADA** | **Maria Jesús Lluelles** → [l'economia el 1997](../../economia/transformacio-economica/leconomia-el-1997.md) i [les estadístiques que no hi havia](../demografia/les-estadistiques-que-no-hi-havia.md) |
 
 **Buit registrat, i encara és gran:** dotze ponències sobre qui viu a Andorra,
-totes identificades i **dues buidades**. **En queden deu.**
+totes identificades i **quatre buidades**. **En queden vuit.**
 
 De la de **Lluelles** ja se n'ha tret el que hi havia: **no conté una sèrie any
 per any** com aquesta fitxa suposava, sinó **xifres puntuals i una crítica de les
