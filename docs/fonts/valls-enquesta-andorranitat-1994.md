@@ -79,9 +79,11 @@ aparell acadèmic**. És un registre que el corpus no té enlloc més.
 
 ## Avís de lectura
 
-**Les trenta-sis pàgines de respostes estan buidades gairebé del tot.** El corpus
-n'ha treballat **la metodologia, la síntesi de l'enquestador i divuit
-respostes**. **En queden quatre sense llegir** —**Jaume Ros i Serra**, **Joan
-Rosanes**, **Bibiana Rossa** i **Albert Salvadó**—, i cadascuna és un text signat
-d'una persona identificada sobre la identitat andorrana el 1994. **Buit
-registrat.**
+**Les trenta-sis pàgines de respostes estan buidades.** El corpus n'ha treballat
+**la metodologia, la síntesi de l'enquestador i les vint-i-dues respostes**.
+
+El que queda obert no és lectura sinó **comprovació**: hi ha afirmacions de fet
+—una proposta de «llengua andorrana» als anys seixanta, una declaració del
+ministre de Cultura a *El Temps*, una preferència per certa immigració atribuïda
+a «elements oficials»— **que cap altra font del corpus no corrobora**. Vegeu
+[les respostes de 1994](../temes/politica/identitat-politica/les-respostes-de-1994.md).

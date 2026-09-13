@@ -440,6 +440,113 @@ Peruga hi afegeix **dues expressions de Fiter i Rossell** que el corpus no tenia
 que els andorrans són **«catalans neutrals»**, i que el territori s'hi comença a
 anomenar **«Valls neutres d'Andorra»**, «en la llinda de Catalunya».
 
+## Les quatre darreres, i la més dura és un testimoni
+
+### Ros i Serra: el que diu haver sentit
+
+**Jaume Ros i Serra**, comerciant i articulista, **català arribat a Andorra el
+1941**, escriu la resposta més abrupta. El corpus la reprodueix **com el que és:
+testimoni personal d'una persona identificada**, no com a fet establert.
+
+> «**se m'ha suggerit que es temia una mena d'imperialisme català** i **se m'ha
+> dit que per a Andorra és més perillosa Barcelona que Madrid**. **Altres gosen
+> preferir una immigració magribina, més dòcil i no tan competitiva com la
+> catalana.**»
+
+I n'identifica la font: «**jo l'he viscut en manifestacions personals d'elements
+oficials**».
+
+**Són tres afirmacions distintes i cap no està documentada per res més al
+corpus.** El corpus les registra perquè **vénen signades i publicades**, i
+perquè **la tercera, si fos representativa, descriuria una política d'immigració
+triada per docilitat** — cosa que caldria comprovar contra
+[la piràmide de prestigi](../../societat/immigracio/la-piramide-de-prestigi.md) i
+[el mercat de treball dual](../../societat/immigracio/el-mercat-de-treball-dual.md).
+**Buit registrat, prioritari i delicat.**
+
+Ros i Serra aporta **dues dades comprovables**:
+
+1. **«Allò de la llengua andorrana».** Diu que el primer plantejament de
+   divergència és **de la dècada dels seixanta**, i que llavors «**va sorgir fins
+   i tot allò de la llengua andorrana**». **El corpus no en té res.** Que hi
+   hagués hagut una proposta d'anomenar *andorrà* la llengua és **exactament el
+   tipus de fet que aquest projecte necessita saber**. **Buit registrat,
+   prioritari.**
+2. **Una declaració del ministre de Cultura, citada d'*El Temps*.** **Ramon
+   Serra**, ministre d'Afers Socials i Cultura, hi deia que **fins aleshores no
+   hi havia hagut voluntat política envers una política lingüística**, que per
+   cultura andorrana entenia **«una cultura d'arrel pirinenca centrada en les
+   nostres Valls»**, i que
+
+   > «**si bé la nostra llengua és la dels Països Catalans, això no vol dir fer
+   > la política cultural que fa la Generalitat de Catalunya**».
+
+   **És posició de govern, datada el 1994, sobre com es pensa la llengua des de
+   l'Estat.** Vegeu [la llei de la llengua](../../llengua/politica-linguistica/la-llei-de-la-llengua.md),
+   que arriba després.
+
+I hi ha **una cinquena citació del Manual Digest**, aquesta d'un altre passatge:
+
+> «*Valls d'Andorra no obstant de ser part de Catalunya, may han dependit desde
+> la expulció dels moros de ellas, del Govern, delas Lleys, tant civils com
+> criminals, dela Política, Economia, Usatges, ni altra disposició secular de dit
+> Principat…*»
+
+### Rosanes: el títol és equivocat perquè el matrimoni és un contracte
+
+**Joan Rosanes**, executiu de banca, objecta al títol de la ponència amb un
+argument jurídic:
+
+> «**El matrimoni és un contracte**, i és adequat a les persones, **però pot ser
+> molt perillós fiar a cap relació contractual aquelles relacions entre els
+> pobles que toquen l'essència del seu ésser.**»
+
+I proposa **el títol alternatiu** que Valls cita a la introducció sense dir de qui
+és: ***Andorrans i catalans: parents o amics?***
+
+La seva tesi: andorranitat i catalanitat **«defineixen sengles projectes
+d'identitat nacional»** i per tant **són diferents en essència** encara que
+coincideixin en les formes. I dona **tres exemples de cultura catalana instal·lada
+a Andorra** que val la pena retenir com a inventari del 1994: **andorrans que
+ballen sardanes habitualment**, **un orfeó autòcton «del mateix estil que els
+orfeons de Catalunya»**, i **l'estudi dels autors més significatius de la
+literatura catalana a la classe de formació andorrana gestionada pel Govern**.
+
+### Rossa: la definició de diccionari
+
+**Bibiana Rossa**, exministra de Sanitat, és l'única que **va a buscar la
+paraula**: segons el diccionari de l'Enciclopèdia Catalana, catalanitat és **«la
+qualitat, el fet d'ésser català»** i, en segon sentit, **«el caràcter o esperit
+propi dels catalans»** — i aplica el mateix motlle a *andorranitat*. Conclou que
+Andorra i Catalunya **«han constituït clarament i notòriament dues nacions
+diferents»** per raons històriques i polítiques, no antropològiques: «**podem ser
+molt semblants, però no som idèntics**».
+
+### Salvadó: dues immigracions, dues pressions
+
+**Albert Salvadó**, economista i escriptor, hi fa el paral·lel que ningú més no
+fa:
+
+> Catalunya «**ha estat sotmesa a un règim brutal que buscava la desaparició
+> d'una cultura i d'una llengua**»; a Andorra això no ha passat, «**malgrat que
+> ha patit una altra situació que s'ha anat agreujant: l'arribada massiva de la
+> immigració obligada per l'economia**».
+
+**Dos processos diferents amb un efecte semblant sobre la llengua**: un per
+repressió, l'altre per economia. És la mateixa tensió que el corpus té a
+[Andorra es castellanitza](../../llengua/politica-linguistica/andorra-es-castellanitza.md)
+i a [qui parla què](../../llengua/politica-linguistica/qui-parla-que.md).
+
+I la seva asimetria, que és neta:
+
+> «existeix **un Estat andorrà que té el català com a llengua oficial, una
+> oficialitat que no ha de compartir amb cap altra llengua i que ningú no pot
+> qüestionar ni discutir**, mentre que **Catalunya lluita per obtenir el
+> reconeixement d'un fet cultural que li va ser arrabassat**.»
+
+**Andorra és l'únic Estat on el català és l'única llengua oficial.** Ho diu el
+1994, l'any següent de la Constitució.
+
 ## Nota sobre el vocabulari d'aquestes respostes
 
 Dues respostes fan servir **«raça»** com a categoria descriptiva —**Montserrat
@@ -451,9 +558,13 @@ precisament el que Joan Massa advertia al mateix volum.
 
 ## Buits registrats
 
-1. **En falten tres**: **Jaume Ros i Serra**, **Joan Rosanes**, **Bibiana
-   Rossa** i **Albert Salvadó** — **quatre**, de vint-i-dues. Les altres divuit
-   són llegides.
+1. ~~**En falten quatre.**~~ **TANCAT: les vint-i-dues respostes són
+   llegides.**
+1b. **Què deien els seixanta sobre «la llengua andorrana»** (Ros i Serra).
+   **Prioritari per a aquest projecte.**
+1c. **Si la preferència per una immigració «més dòcil»** que Ros i Serra diu
+   haver sentit d'«elements oficials» té cap més rastre. **Delicat: és
+   testimoni d'una sola persona.**
 2. **V Columna** i el rock andorrà dels anys noranta. **Buit nou.**
 3. **El discurs del cap de Govern a l'ONU**: el text, i si hi va citar Llull,
    Ausiàs March i Espriu com diu Marquet.

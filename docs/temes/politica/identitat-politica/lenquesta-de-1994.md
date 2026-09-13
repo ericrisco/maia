@@ -179,10 +179,8 @@ hi arriba trenta-dos anys després i **no ha trobat cap enquesta posterior**.
 
 ## Buits registrats
 
-1. ~~**Les vint respostes no llegides.**~~ **TANCAT gairebé del tot**: se n'han
-   treballat **divuit** de vint-i-dues a
-   [les respostes de 1994](./les-respostes-de-1994.md). **En queden quatre**:
-   Ros i Serra, Rosanes, Rossa i Salvadó.
+1. ~~**Les vint respostes no llegides.**~~ **TANCAT: les vint-i-dues estan
+   buidades** a [les respostes de 1994](./les-respostes-de-1994.md).
 2. **De qui és la frase «Andorra és un Estat, però no una nació».**
 3. **Qui eren els seixanta.** Valls diu que **els qui no van respondre queden
    «forçosament en l'anonimat»**: la llista d'enviaments no es publica.
