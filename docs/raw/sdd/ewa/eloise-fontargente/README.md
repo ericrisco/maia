@@ -764,6 +764,24 @@ aquesta font, la identitat de la declarant de 1955 és pràcticament segura i
 `quarante ans` s'ha de llegir com un error material, tot mantenint-lo a la
 transcripció.
 
+El fill del cens ja es pot seguir amb fonts nominals. El fitxer anual oficial
+de persones difuntes de l'INSEE identifica **Jacques Mathias Dreyfus-Schmidt**:
+nascut a Belfort el **30/09/1930** i mort a **Carqueiranne** el **21/06/2014**,
+acta 61. El decret de la Legió d'Honor de 05/04/1990 aporta el perfil
+professional que faltava: era **coronel d'infanteria**, comptava 37 anys i 3
+mesos de serveis, cinc mesos de bonificacions, havia estat citat i fou nomenat
+cavaller. La coincidència dels dos prenoms i la data completa amb l'INSEE i el
+cens elimina l'homònim.
+
+La seva incursió política també és documentable. *Le Monde* anuncià la
+investidura del Mouvement réformateur per Belfort‑Ville el novembre de 1972 i
+el presentà el gener de 1973 com a germà de Michel i beneficiari del suport
+radical. El CSV electoral difós per data.gouv/Sciences Po registra **2.485
+vots** radicals reformadors a la circumscripció; la taula nominal contemporània
+de *Cahiers du communisme* els atribueix a `REF Dreyfus-Schmidt`, el **8,16 %**.
+La publicació impresa conté una errata de votants —31.151 contra els 31.191 del
+CSV, xifra coherent amb expressats i nuls— que es conserva explícita.
+
 Les Archives municipales de Belfort aporten també una font iconogràfica: la
 notice `2Z/35`, relacionada amb `7Fi/231`, descriu una fotografia d'identitat
 d'**«André Dreyfus-Schmidt, frère de Pierre»**, en blanc i negre, 5,5 × 4,5 cm,
@@ -849,6 +867,7 @@ prové de la representació web accessible, amb data i URL registrades.
 | `dreyfus-schmidt/belfort-recensement-1911/` | Padró oficial `6 M 130`, p. 386, retall de lectura, recuperació parcial de l'antic PDF de LISA 90 i auditoria del foyer del 19 avenue de la Gare. |
 | `dreyfus-schmidt/gilberte-dreyfus/` | Acta de naixement 432 de Gilberte, retalls, fitxer oficial INSEE 1970–1979 i nota de lectura. |
 | `francesc-viadiu-fons/grumbach/dreyfus-schmidt/belfort-archives-municipales/notice-7fi231.html` | Notice municipal `2Z/35`: retrats de Pierre, André i Michel Dreyfus-Schmidt, inclosa la fotografia d'identitat d'André. |
+| `dreyfus-schmidt/yvonne-kahn/jacques-dreyfus-schmidt/` | INSEE i API geogràfica: identitat civil i defunció; decret oficial de la Legió d'Honor: coronel d'infanteria; CSV electoral i dossier contemporani de 1973: candidatura reformadora, 2.485 vots (8,16 %); nota crítica, render i hashes. |
 | `francesc-viadiu-fons/grumbach/dreyfus-schmidt/paris-table-deces-1955-1964/*` | Taula decennal `V11E 553`, p. 241: entrada nominal, data, acta i arrondissement; 18 imatges, OCR, JSON i hashes. |
 | `francesc-viadiu-fons/grumbach/lemonde-*.html` | Controls de descàrrega fallits: quatre pàgines tècniques `Client Challenge` idèntiques, no el text dels articles. |
 | `francesc-viadiu-fons/grumbach/consulta-arxius-ariege-esborrany.md` | Petició detallada de localització i reproducció del procés de Foix i diligències relacionades; preparada però no enviada. |
