@@ -57,7 +57,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [El registre d'entitats religioses](temes/costums/religiositat/el-registre-dentitats-religioses.md) | `temes/costums/religiositat` | compilada | contemporania | no | `jurisprudencia-ad` |
-| [La Inquisició a Andorra](temes/costums/religiositat/la-inquisicio-a-andorra.md) | `temes/costums/religiositat` | compilada | contemporania | no | `viquipedia-ca` |
+| [La Inquisició a Andorra](temes/costums/religiositat/la-inquisicio-a-andorra.md) | `temes/costums/religiositat` | compilada | contemporania | no | `bascompte-privilegis` |
 | [Les religions d'Andorra avui](temes/costums/religiositat/les-religions-dandorra-avui.md) | `temes/costums/religiositat` | compilada | contemporania | no | `pastor-andorra-diversa` |
 | [L'evangelització](temes/costums/religiositat/levangelitzacio.md) | `temes/costums/religiositat` | compilada | contemporania | no | `pujol-fet-religios` |
 | [La religiositat](temes/costums/religiositat/religiositat.md) | `temes/costums/religiositat` | compilada | contemporania | no | `viquipedia-ca` |
