@@ -1165,6 +1165,18 @@ fórmula o la dosi real.
 [*L'Observatoire des Cosmétiques*](https://client.cosmeticobs.com/fr/articles/actus-produits-73/parfums-hommage-au-terroir-3823);
 [*Auparfum*](https://auparfum.bynez.com/parfum-mon-guerlain-3570).
 
+Una mostra de Reddit de 2021-2025 prolonga la història de recepció. El 2021
+encara s'hi descrivia *Mon Guerlain* com una lavanda-vainilla cremosa i
+reconfortant; el 2022 la lavanda era domesticada com a roba neta, llar, esposa
+i maternitat. El 2023-2024 els usuaris explicaven les diferències per pell,
+aire, atomitzador o aplicació i només especulaven sobre lots o reformulacions.
+El 2025 una amant de la lavanda deia percebre sobretot vainilla, mentre altres
+la detectaven segons versió o lloc de polvorització. «Carla» no apareix com a
+categoria compartida: la campanya varietal es dissol en lavanda genèrica,
+confort i ús corporal. Són anècdotes auto-seleccionades, no evidència de fórmula,
+dosi, presència ni absència material.
+[Corpus Reddit 2021-2025](dreyfus-schmidt/yvonne-kahn/jacques-dreyfus-schmidt/baume-des-anges/carla/reddit-mon-guerlain-reception-2021-2025.md).
+
 La quarta operació fracassà el 2017: d'una previsió de 150 kg, Guerlain passà a
 125 kg per atendre compromisos amb recol·lectors; acordaren lliurament a
 l'octubre, Baume no lliurà per un impediment i les noves condicions posteriors
