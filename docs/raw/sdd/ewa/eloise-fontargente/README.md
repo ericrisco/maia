@@ -1265,6 +1265,20 @@ El resum de *L'Essentiel* 125 (2026) diu que Astra sembla destacar, però no és
 un resultat de l'assaig Carla. El compte AMELAV 2024 que podria resoldre aquesta
 qüestió té 72 pàgines i només és accessible amb autenticació al CRIEPPAM.
 
+Una segona branca situa Carla al Quercy com a **control experimental**, no com
+a població històrica. El projecte 2022–2024 sembrà descendents de cinc rodals
+abandonats de Martel, Rocamadour, Labastide-Murat, Cahors i Lauzerte a Quissac
+i Miers, comparats amb Rapido i Carla. El Parc documenta 42.000 € TTC, vint
+cromatografies i 2.000 plantes. L'article contemporani de Raymond Lacaze mostra
+el context: entre 1959 i 1963 el Quercy passà de 1.000 a 500 ha i de 11.000 a
+5.900 kg d'essència per una crisi de preus, estocs, compradors concentrats,
+gelades i mecanització insuficient. Dos lots químics de la Ferme des Alix de
+2022 són una base regional anterior a l'assaig i no són Carla; la presència
+comercial de Carla es prova separadament per l'oferta de Bergers des Lavandes
+de 2023: 40 kg d'oli i 1.000 l d'hidrolat d'una parcel·la ecològica de 2 ha
+plantada el 2018.
+[Dossier Quercy 1922–2026](dreyfus-schmidt/yvonne-kahn/jacques-dreyfus-schmidt/baume-des-anges/carla/carla-comparador-quercy-historia-mercat-i-experiment-1922-2026.md).
+
 La recepció de 2017 revela després com aquell material agronòmic es convertí en
 relat. En una entrevista a *Basenotes*, Thierry Wasser atribuïa a Baume la seva
 descoberta de Carla, però la peça confonia la població de *L. angustifolia* amb
