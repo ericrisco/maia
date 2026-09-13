@@ -882,6 +882,19 @@ mandat ni convertir Nitzer en predecessor. La pàgina i una fotografia de
 premsa s'han preservat; el peu només identifica Max Vidot i no s'ha intentat
 un reconeixement facial.
 
+Els tres facsímils contemporanis reproduïts per la crònica s'han separat ara
+de la seva narració. El de *L'Alsace* de 22/12/1967 és un fragment minúscul de
+la notícia preparatòria i, fins i tot ampliat i sotmès a diversos OCR, no
+mostra Jacques ni Nitzer en la porció disponible; les peces de *L'Est
+Républicain* de 27/12/1967 i de la *Revue municipale* de març de 1968 són
+fotografies sense llegenda impresa interna. A més, el blog interpola `Pierre
+Dreyfus-Schmidt` després de «monsieur le Maire» en el discurs de Michel. És una
+errada: Pierre havia mort el 04/07/1964 i la fitxa oficial de l'Assemblée
+nationale situa Michel com a cinquè adjunt de **Jean Legay** el 1966. El nom
+correcte del batlle al·ludit el Nadal de 1967 era, doncs, Jean Legay. Aquesta
+fallada no anul·la tota la crònica, però en rebaixa el valor nominal si no hi
+ha un facsímil o control independent.
+
 La segona sigla del currículum, «Ancien Président de l'U.S.B.», també es pot
 resoldre: era la **Union Sportive Belfortaine**, club poliesportiu laic fusionat
 el 1971 amb l'Association Sportive Patronale per formar l'ASMB. El catàleg
