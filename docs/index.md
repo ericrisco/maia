@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**707** documents · **153** fonts · **0** aptes com a model de llengua · **121** temes amb contingut.
+**709** documents · **155** fonts · **0** aptes com a model de llengua · **121** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -136,7 +136,9 @@
 | [El llac d'Engolasters](temes/cultura/llegendes/el-llac-dengolasters.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `llegendes-dandorra-llibre` |
 | [El minairó](temes/cultura/llegendes/el-minairo.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `wikipedia-llegendes-andorra` |
 | [El Roc de les Bruixes](temes/cultura/llegendes/el-roc-de-les-bruixes.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `viquipedia-ca` |
+| [El tamarro](temes/cultura/llegendes/el-tamarro.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `wikipedia-tamarro` |
 | [La bruixa de Sornàs](temes/cultura/llegendes/la-bruixa-de-sornas.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `viquipedia-ca` |
+| [La Dama Blanca d'Aubinyà](temes/cultura/llegendes/la-dama-blanca-daubinya.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `wikipedia-dama-blanca` |
 | [La troballa de Meritxell](temes/cultura/llegendes/la-troballa-de-meritxell.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `premsa-andorrana` |
 | [Les bruixes d'Engolasters](temes/cultura/llegendes/les-bruixes-dengolasters.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `canturri-costumari-amades-1994` |
 | [Llegendes — índex](temes/cultura/llegendes/llegendes.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `viquipedia-ca` |
@@ -1453,6 +1455,7 @@
 | [`wikipedia-atletes-andorrans`](fonts/wikipedia-atletes-andorrans.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-clubs-futbol-andorra`](fonts/wikipedia-clubs-futbol-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-constitucio-1934`](fonts/wikipedia-constitucio-1934.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-dama-blanca`](fonts/wikipedia-dama-blanca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-escacs-andorra`](fonts/wikipedia-escacs-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-esport-andorra`](fonts/wikipedia-esport-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-esquiadors-andorrans`](fonts/wikipedia-esquiadors-andorrans.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
@@ -1470,6 +1473,7 @@
 | [`wikipedia-referendums-andorra`](fonts/wikipedia-referendums-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-religio-andorra`](fonts/wikipedia-religio-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-sat-andorra`](fonts/wikipedia-sat-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-tamarro`](fonts/wikipedia-tamarro.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-torb-i-gestapo`](fonts/wikipedia-torb-i-gestapo.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-transicio-nacional`](fonts/wikipedia-transicio-nacional.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-vanessa-mendoza`](fonts/wikipedia-vanessa-mendoza.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

@@ -15,19 +15,29 @@ Meritxell, bruixes, ponts, éssers fantàstics. On la llengua es deixa anar.
 | [El Roc de les Bruixes](./el-roc-de-les-bruixes.md) | — |
 | [El buner d'Ordino](./el-buner-dordino.md) | — |
 | **[El minairó](./el-minairo.md)** | **Milers de follets que caben en un canó d'agulles i que et maten si no els manes feina.** **Les tarteres del Pirineu són obra seva**, i el nom vol dir «mineraire petit» |
+| **[La Dama Blanca d'Aubinyà](./la-dama-blanca-daubinya.md)** | **Un esperit femení que atura qui vulgui sotmetre els andorrans.** **L'antagonista és un bisbe d'Urgell**, i **la llegenda acaba amb el síndic mort i boig** |
+| **[El tamarro](./el-tamarro.md)** | **Una bèstia impossible de caçar**, i **una broma per humiliar forasters amb un sac sota una comporta.** **El 1991 va ser mascota dels Jocs dels Petits Estats** |
 
 ## El que aquesta branca ha d'acabar sent
 
-**Una fitxa de recerca per cada llegenda.** **Set no són totes.**
+**Una fitxa de recerca per cada llegenda.** **Nou no són totes.**
+
+**Tancat el 2026-09-13:** ~~el Tamarro~~ i ~~la Dama Blanca d'Aubinyà~~.
 
 **El que el corpus sap que li falta i encara no ha obert:**
 
-- **El Tamarro**, que el corpus esmenta i no té fitxat.
-- **La Dama Blanca d'Aubinyà.**
 - **Els éssers de la mateixa família pirinenca** que el minairó: si tenen nom
   andorrà propi.
-- **Els reculls**: quins llibres de llegendes andorranes existeixen, i qui els va
-  fer.
+- ~~**Els reculls**: quins llibres de llegendes andorranes existeixen, i qui els
+  va fer.~~ — **parcialment tancat**: **el de referència és
+  Àlvar Valls i Núria Carol, *Llegendes d'Andorra*, Publicacions de l'Abadia de
+  Montserrat, 2010** (vegeu [la Dama Blanca](./la-dama-blanca-daubinya.md)).
+  **No obert.** **Buit prioritari per a tota la branca.**
+- **La hipòtesi de Camiade**: **que la Dama Blanca, la bruixa i la Verge són
+  tres representacions d'una mateixa figura femenina.** **Si és certa, aquesta
+  taula està classificada per accident.**
+- **Els estripagecs**, **la darrera ossa d'Ordino** i **«Mort, qui t'ha mort»**:
+  **material descarregat i no escrit.**
 
 ## Related
 
