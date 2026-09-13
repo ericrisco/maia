@@ -1177,6 +1177,21 @@ confort i ús corporal. Són anècdotes auto-seleccionades, no evidència de fó
 dosi, presència ni absència material.
 [Corpus Reddit 2021-2025](dreyfus-schmidt/yvonne-kahn/jacques-dreyfus-schmidt/baume-des-anges/carla/reddit-mon-guerlain-reception-2021-2025.md).
 
+La premsa professional revela l'escala de la campanya. El projecte, codi
+**G17**, fou un llançament mundial l'1 de març de 2017; el president Laurent
+Boillot afirmà que Guerlain mai havia invertit tant en una fragància. Delphine
+Jelk, cocreadora, presentà l'acord com una reconciliació dels gèneres masculí i
+femení. *Notes of a Woman*, atribuït a Terrence Malick, situava Jolie i Carla a
+Provença, però el «perfumista» de la peça era un actor, no Thierry Wasser. El
+YouTube és avui indisponible, però el MP4 incrustat a *Refinery29* s'ha recuperat
+i revisat: mostra pipetes, un ram de lavanda i un paisatge agrícola genèric, no
+una collita, un alambí o una instal·lació de Baume identificable. La repetició
+gairebé literal de «Carla», «autenticitat» i «masculí/femení» en diverses peces
+mostra un argumentari global coordinat, no tres corroboracions independents.
+[Moodie Davitt](https://moodiedavittreport.com/guerlain-goes-global-with-new-feminine-fragrance-mon-guerlain/);
+[Refinery29](https://www.refinery29.com/en-us/2017/03/143318/angelina-jolie-mon-guerlain-perfume-exclusive-video);
+[Dave Lackie](https://davelackie.com/a-master-perfumer-at-work/).
+
 La quarta operació fracassà el 2017: d'una previsió de 150 kg, Guerlain passà a
 125 kg per atendre compromisos amb recol·lectors; acordaren lliurament a
 l'octubre, Baume no lliurà per un impediment i les noves condicions posteriors
