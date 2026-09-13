@@ -102,6 +102,72 @@ desaparèixer**. Ho dona per benvingut igualment.
 lèxica amb font**, i explica per què la llei andorrana del 2007 és la primera que
 la fa servir.
 
+## Què hi ha ara: la Llei 19/2023
+
+**El corpus tenia registrat com a buit que no havia llegit la llei.** **El text
+era a `raw/lleis/`** — i **no és la del 2007**: la vigent és la **Llei 19/2023,
+qualificada penitenciària**, amb **75 articles**
+([font](../../../fonts/jurisprudencia-ad.md)).
+
+**Tres coses hi tanquen el cercle que Canturri va obrir el 2005.**
+
+### 1. L'article 12 continua sent l'article 12, i amb les mateixes paraules
+
+> «**L'Administració penitenciària ha de disposar de mitjans d'orientació per a la
+> resocialització i la reinserció social dels interns, per contribuir a reduir els
+> riscos d'exclusió social com a conseqüència del compliment de la pena de
+> privació de llibertat.**»
+
+**És, literalment, la frase que Canturri citava de la llei del 2007**, amb **el
+mateix número d'article**, **setze anys i una llei nova després**. L'única
+diferència de redacció respecte de la seva citació és **«per contribuir»** on ell
+transcrivia **«per tal de contribuir»**.
+
+**La paraula que faltava el 2005 no només hi va entrar: s'hi ha quedat, i al
+mateix lloc.**
+
+### 2. El règim disciplinari ja no és un full confidencial
+
+El que Canturri va trobar buit —**«Finalitats del règim penitenciari»**, sense
+contingut— avui és **l'article 48, «Finalitat del règim disciplinari»**, amb tres
+apartats:
+
+> «té com a objectiu **preservar la seguretat interna i la convivència** entre els
+> interns i entre aquests i el personal»;
+>
+> «es regeix pel que estableixen **aquesta Llei i els reglaments**, tenint en
+> compte **la relació de subjecció especial**»;
+>
+> «**l'exercici de les facultats disciplinàries correspon al personal del Cos
+> Penitenciari. Els interns no poden desenvolupar serveis que impliquin
+> l'exercici d'aquestes facultats.**»
+
+I **l'article 49 tipifica les infraccions** — que és exactament el que ell
+reclamava al ministre: «**les infraccions haurien d'especificar-se a què
+corresponen segons la seva "tipificació"**». La llei hi afegeix, a més, que en
+determinar la sanció s'han de tenir en compte **les funcions retributiva,
+preventiva i de reinserció**, i que **la durada no pot excedir el temps
+estrictament necessari** per assolir-les.
+
+**El document secret del 2005 és avui llei publicada amb infraccions
+tipificades.**
+
+### 3. I les coses que ell demanava, hi són
+
+| El que Canturri demanava el 2007 | El que diu la llei vigent |
+| --- | --- |
+| **Una biblioteca amb oferta cultural variada i premsa diària** | **Article 61.3** («Activitats educatives i culturals»): «**Cada centre penitenciari ha de tenir una biblioteca i una mediateca**», amb material adequat a les necessitats culturals i educatives i **«una atenció especial a l'educació dels joves»** |
+| **Assistència psicològica i reeducadora** | **Article 63**: els centres **han de disposar de serveis d'assistència social i psicològica orientats a la reeducació i la resocialització**, amb **els professionals necessaris en funció de la població interna** |
+| **Un centre específic per a menors** | **No hi consta com a centre separat**, però la llei **exigeix la separació**: «**els majors d'edat i els menors han d'estar separats**» |
+
+També hi consten **el dret al treball en règim penitenciari** amb protecció de
+seguretat social (article 10) i **el dret a formular peticions, queixes i
+recursos** (article 11).
+
+> **El que el corpus no pot dir:** **si res d'això s'aplica**. Té **la norma**, no
+> **la pràctica**. I **el buit del centre de menors segueix obert**: separar-los
+> dins el mateix centre **no és el que es demanava**.
+
 ## Abans: la presó de la Casa de la Vall
 
 > **Aquesta secció és memòria personal de l'autor**, no document d'arxiu. Es cita
@@ -220,9 +286,12 @@ I una observació que només pot fer qui hi ha entrat:
 
 ## Buits registrats
 
-1. **La Llei qualificada penitenciària del 4 de març de 2007** i la **Llei del
-   cos penitenciari**: el corpus en té **l'article 12 per citació** i **res més**.
-   El text de les dues lleis, **no llegit**.
+1. ~~**La Llei qualificada penitenciària del 4 de març de 2007** i la **Llei del
+   cos penitenciari**: el text, no llegit.~~ **PARCIALMENT TANCAT**: s'ha llegit
+   **la llei vigent, que és una altra** —**la Llei 19/2023**— i s'ha comprovat
+   que **l'article 12 hi continua igual** (vegeu més amunt). **El text de la del
+   2007 segueix sense veure's**, i per tant **el corpus no pot dir què va canviar
+   entre les dues**. **Buit afinat.**
 2. **El dibuix de *L'Illustration*** i **la fotografia de 1942**: on són, i què
    hi consta exactament. **Molt localitzables.**
 3. **La sentència de mort de 1942**: qui, per què, i **si es va executar**. El
@@ -231,7 +300,9 @@ I una observació que només pot fer qui hi ha entrat:
    al copríncep episcopal.
 5. **Quants botxins hi va haver** i d'on venien.
 6. **La presó actual**: on és, quants interns té, i què ha passat des del 2007.
-7. **El centre per a menors** que Canturri reclamava: si s'ha fet mai.
+7. **El centre per a menors** que Canturri reclamava: **segueix obert**. La llei
+   del 2023 **exigeix separar majors i menors dins el centre**, que no és el
+   mateix que **un centre específic**.
 8. **L'informe de la Federació Iberoamericana de l'Ombudsman** (*Análisis del
    Sistema Penitenciario*, cinquè informe), que Canturri cita pels punts 54 i 55:
    **Andorra hi participa** i el corpus no ho tenia registrat.
@@ -242,3 +313,4 @@ I una observació que només pot fer qui hi ha entrat:
 - [La Casa de la Vall](../patrimoni-institucional/casa-de-la-vall.md) — parlament a dalt, presó a baix.
 - [Les fonts del dret](./les-fonts-del-dret.md) — per què un reglament secret no és una norma.
 - [La revolta del tabac de 1733](../../economia/tabac/la-revolta-del-tabac-de-1733.md) — condemnes andorranes complertes fora del país, dos segles abans.
+- [Les lleis qualificades](./les-lleis-qualificades.md) — on encaixa la penitenciària.
