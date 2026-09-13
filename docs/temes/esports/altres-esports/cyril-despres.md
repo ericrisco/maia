@@ -1,0 +1,70 @@
+---
+type: article
+title: Cyril Despres
+description: "Cinc vegades guanyador del Ral·li Dakar i resident a Andorra. No competeix per Andorra: competeix per França, i el corpus ho diu."
+tema: temes/esports/altres-esports
+veu: compilada
+epoca: contemporania
+apte_llengua: false
+font: wikipedia-atletes-andorrans
+timestamp: 2026-09-13T11:36:00Z
+tags: [esports, motor, dakar, residents]
+---
+
+# Cyril Despres
+
+## El fet, i la precisió que l'acompanya
+
+**Cyril Despres, nascut a Nemours (França) el 24 de gener del 1974, ha guanyat
+el Ral·li Dakar cinc vegades** —**2005, 2007, 2010, 2012 i 2013**— **en moto,
+amb una KTM** ([font](../../../fonts/wikipedia-atletes-andorrans.md)).
+
+**I la font el descriu així:**
+
+> «**Cyril Despres és un pilot de ral·lis francès i resident d'Andorra.**»
+
+**Resident, no andorrà.** **La seva nacionalitat esportiva és FRA.**
+
+**El corpus ho escriu al començament i no al final**, perquè **és exactament el
+tipus de cosa que un model confondria**: **Despres no ha guanyat cinc Dakars per
+Andorra.**
+
+## Per què hi té fitxa igualment
+
+**Perquè viure a Andorra és, per a una part significativa dels esportistes
+d'elit, una decisió econòmica i fiscal**, i **el corpus té documentat que
+aquesta és una de les coses que el país és**
+([banca i fiscalitat](../../economia/banca-i-fiscalitat/README.md)).
+
+**Despres és el cas més gros que el corpus ha trobat d'aquest fenomen**, i
+**registrar-lo amb la seva condició real —resident francès— és més informatiu
+que ometre'l**.
+
+**I connecta directament amb [Albert
+Llovera](../../persones/albert-llovera.md)**, l'olímpic andorrà que va córrer 29
+ral·lis del Mundial i el Dakar del 2020 en camió: **el motor és, a Andorra, un
+àmbit amb dues històries que no s'han de barrejar.**
+
+## El palmarès
+
+| Competició | Anys |
+| --- | --- |
+| **Ral·li Dakar** (moto) | **2005, 2007, 2010, 2012, 2013** — **cinc victòries** |
+| **Red Bull Romaniacs** (enduro) | 2004, 2005, 2007 — **tres** |
+| **Erzberg Rodeo** | 2002, 2003 |
+
+**El 2015 passa a cotxes amb l'equip Peugeot**, al costat de **Carlos Sainz** i
+**Stéphane Peterhansel**; **34è el 2015** i **setè absolut el 2016**.
+
+## El que falta
+
+- **Des de quan viu a Andorra** i si hi segueix.
+- **Si ha competit mai amb llicència andorrana.**
+- **Quants esportistes d'elit resideixen a Andorra**, que és una dada que el
+  país publica i el corpus no té.
+
+## Related
+
+- [Altres esports](./README.md)
+- [Esports](../README.md)
+- [Albert Llovera](../../persones/albert-llovera.md) — el pilot andorrà de debò.

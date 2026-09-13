@@ -40,6 +40,8 @@ l'escola.**
 | --- | --- |
 | **[Els esquiadors](./esqui/esquiadors/README.md)** | **26 fitxes**: alpins, fondistes, biatleta, surfistes de neu i paralímpics |
 | **[Els olímpics d'estiu](./estiu/README.md)** | **17 fitxes**: atletisme, tir, natació, judo, ciclisme, piragüisme i boxa |
+| **[Futbol](./futbol/README.md)** | **14 fitxes** i la selecció sencera: 224 partits, 14 victòries |
+| **[Altres esports](./altres-esports/README.md)** | **6 fitxes**: tennis, escacs, motor i bàsquet — **on hi ha les fites que no surten a cap medaller** |
 
 ## El que hi falta
 
