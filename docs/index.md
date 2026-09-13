@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**705** documents · **153** fonts · **0** aptes com a model de llengua · **121** temes amb contingut.
+**707** documents · **153** fonts · **0** aptes com a model de llengua · **121** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -687,6 +687,7 @@
 | [Andorrans als camps nazis](temes/historia/guerres-i-neutralitat/andorrans-als-camps-nazis.md) | `temes/historia/guerres-i-neutralitat` | compilada | contemporania | no | `premsa-andorrana` |
 | [Andorra, entre el torb i la Gestapo](temes/historia/guerres-i-neutralitat/el-torb-i-la-gestapo.md) | `temes/historia/guerres-i-neutralitat` | compilada | contemporania | no | `wikipedia-torb-i-gestapo` |
 | [Els passadors](temes/historia/guerres-i-neutralitat/els-passadors.md) | `temes/historia/guerres-i-neutralitat` | compilada | contemporania | no | `societat-andorrana-ciencies` |
+| [Els refugiats de la Guerra Civil](temes/historia/guerres-i-neutralitat/els-refugiats-de-la-guerra-civil.md) | `temes/historia/guerres-i-neutralitat` | compilada | contemporania | no | `esteves-exili-i-evasions` |
 | [Guerres i neutralitat](temes/historia/guerres-i-neutralitat/guerres-i-neutralitat.md) | `temes/historia/guerres-i-neutralitat` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/historia/historia-recent
@@ -708,6 +709,7 @@
 | [La historiografia andorrana](temes/historia/historiografia/historiografia.md) | `temes/historia/historiografia` | compilada | contemporania | no | `viquipedia-ca` |
 | [La llegenda negra dels passadors](temes/historia/historiografia/la-llegenda-negra-dels-passadors.md) | `temes/historia/historiografia` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [Les Diades andorranes](temes/historia/historiografia/les-diades-andorranes.md) | `temes/historia/historiografia` | compilada | contemporania | no | `societat-andorrana-ciencies` |
+| [L'estat de la qüestió de les evasions](temes/historia/historiografia/lestat-de-la-questio-de-les-evasions.md) | `temes/historia/historiografia` | compilada | contemporania | no | `esteves-exili-i-evasions` |
 | [Lídia Armengol i Vila](temes/historia/historiografia/lidia-armengol-vila.md) | `temes/historia/historiografia` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/historia/manual-digest
@@ -1154,8 +1156,8 @@
 | [El preu de l'acomiadament](temes/societat/treball/el-preu-de-lacomiadament.md) | `temes/societat/treball` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El sindicalisme](temes/societat/treball/el-sindicalisme.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
 | [El Sindicat Andorrà de Treballadors](temes/societat/treball/el-sindicat-andorra-de-treballadors.md) | `temes/societat/treball` | compilada | contemporania | no | `wikipedia-sat-andorra` |
+| [La flexibilització de la desocupació el 2021](temes/societat/treball/la-flexibilitzacio-de-la-desocupacio-el-2021.md) | `temes/societat/treball` | compilada | contemporania | no | `bopa-ad` |
 | [La memòria de FHASA](temes/societat/treball/la-memoria-de-fhasa.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
-| [La prestació que es diu no contributiva](temes/societat/treball/la-prestacio-per-desocupacio.md) | `temes/societat/treball` | compilada | contemporania | no | `bopa-reglament-prestacions-2020` |
 | [L'acomiadament lliure](temes/societat/treball/lacomiadament-lliure.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
 | [L'ajut per desocupació involuntària](temes/societat/treball/lajut-per-desocupacio-involuntaria.md) | `temes/societat/treball` | compilada | contemporania | no | `bopa-ad` |
 | [L'ARA i el SAT](temes/societat/treball/lara-i-el-sat.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
@@ -1333,7 +1335,6 @@
 | [`boladeres-ensenyament-espanyol`](fonts/boladeres-ensenyament-espanyol.md) | Antoni Boladeres i Sorribes · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`boletin-oficial-leon-1894`](fonts/boletin-oficial-leon-1894.md) | Diputación provincial de León (Espanya) · butlletí oficial | butlletí oficial espanyol de 1894; domini públic per antiguitat | si |
 | [`bopa-ad`](fonts/bopa-ad.md) | Servei del Butlletí Oficial del Principat d'Andorra · Govern d'Andorra | condicions generals d'utilització de la informació de la seu electrònica del BOPA | si |
-| [`bopa-reglament-prestacions-2020`](fonts/bopa-reglament-prestacions-2020.md) | Servei del Butlletí Oficial del Principat d'Andorra · Govern d'Andorra | condicions generals de reutilització de la informació de la seu electrònica del BOPA | si |
 | [`brutails-coutume-1904`](fonts/brutails-coutume-1904.md) | J.-A. Brutails · Ernest Leroux, éditeur, París · obra de 1904, domini públic | domini públic per antiguitat; digitalització de Google Books | si |
 | [`cairal-escola-andorrana`](fonts/cairal-escola-andorrana.md) | M. Teresa Cairat i Vila · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`camiade-concepte-didentitat-1990`](fonts/camiade-concepte-didentitat-1990.md) | Martina Camiade · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
@@ -1357,6 +1358,7 @@
 | [`escaler-cambra-de-comerc`](fonts/escaler-cambra-de-comerc.md) | Pilar Escaler i Penella · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`escribano-musica`](fonts/escribano-musica.md) | Josep Maria Escribano i Casaldàliga · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`estadistica-petits-estats-2015`](fonts/estadistica-petits-estats-2015.md) | Departament d'Estadística d'Andorra · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`esteves-exili-i-evasions`](fonts/esteves-exili-i-evasions.md) | Sergi Esteves Lorenzo · Universitat de Barcelona | accés obert al Dipòsit Digital de la UB | pendent |
 | [`ferrer-percepcio-andorra-exterior`](fonts/ferrer-percepcio-andorra-exterior.md) | Josep Ferrer i Altimira · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`fiba-andorra-basquet-1998`](fonts/fiba-andorra-basquet-1998.md) | FIBA · Govern d'Andorra · Consell General · Comitè Olímpic Andorrà · premsa andorrana | drets reservats pels titulars respectius | False |
 | [`fiba-andorra-basquet-2000`](fonts/fiba-andorra-basquet-2000.md) | FIBA · El Periòdic d'Andorra · Federació Andorrana de Bàsquet | drets reservats pels titulars respectius | False |

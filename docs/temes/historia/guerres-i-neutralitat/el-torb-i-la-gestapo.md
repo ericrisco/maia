@@ -131,7 +131,10 @@ d'actualitat.**
 **Això és del 1977** —**abans de la Constitució, abans de la transició
 andorrana**— **i toca directament
 [la llegenda negra dels passadors](../historiografia/la-llegenda-negra-dels-passadors.md).**
-**Buit prioritari: on es va publicar i què hi deia.**
+
+**~~Buit prioritari: on es va publicar i què hi deia.~~** — **tancat el mateix
+dia**: **a la revista *Reporter*, el 14 de juny del 1977**, segons
+[l'estat de la qüestió de les evasions](../historiografia/lestat-de-la-questio-de-les-evasions.md).
 
 ### I una font acadèmica en accés obert
 
@@ -140,8 +143,10 @@ andorrana**— **i toca directament
 > de fi de grau, Universitat de Barcelona** — **PDF al dipòsit digital de la
 > UB.**
 
-**És descarregable i el corpus no l'ha llegit.** **Buit prioritari i barat de
-tancar.**
+**~~És descarregable i el corpus no l'ha llegit.~~** — **baixat i llegit el
+mateix dia** ([font](../../../fonts/esteves-exili-i-evasions.md)). **N'han
+sortit [els refugiats de la Guerra Civil](./els-refugiats-de-la-guerra-civil.md)
+i [l'estat de la qüestió de les evasions](../historiografia/lestat-de-la-questio-de-les-evasions.md).**
 
 ## La pista que no és d'aquesta fitxa però surt aquí
 
