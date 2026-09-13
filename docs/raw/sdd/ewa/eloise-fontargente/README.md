@@ -1331,6 +1331,13 @@ d'Orléans i Anna constava sense professió. La xarcuteria té així un antecede
 femení i matern documentat el 1908, però l'acta no prova encara conserverie,
 societat ni activitat de lavanda.
 
+L'acta 29 de naixements de 1880 (`4 E 1840`, imatge 10) fixa al seu torn
+**Firmin Henri Delvert** el 05/05/1880. Era fill de **Jean Delvert,
+menuisier**, i **Marguerite Direyrol, couturière**. La dada confirma la
+filiació del matrimoni i mostra que Henri no procedia d'un fogar xarcuter: el
+precedent professional del ram documentat el 1908 és Marguerite Maillot. No hi
+ha cap nom `Léo` ni cap menció de lavanda en l'acta.
+
 El tall de 1926 (`6 M 293`, imatge 3) manté deu persones a rue Mercière i
 precisa que **Henri era charcutier, patron i Anne Lacroix charcutière**. Pierre,
 als quinze anys, seguia sense professió. La font explicita així una empresa
@@ -1389,6 +1396,23 @@ germanes. El fitxer INSEE identifica Christian Albert Beynet (Martel,
 08/11/1936 – Brignoles, 19/05/1973). Era el marit de Monique, mentre la redacció
 de 2014 l'havia anomenat erròniament «primer fill d'Yvonne». La peça reforça la
 cadena familiar Cheyrou–Beynet–Redon, no prova encara qui dirigia l'empresa.
+
+El *Journal du Lot* del 10/08/1932 aporta una baula contemporània inesperada:
+publica el matrimoni de **Marie-Yvonne-Albertine Delvert**, domiciliada a rue
+Mercière, amb **Marcel Beynet**, charcutier originari de Mont-près-Chambord i
+resident a Martel. MatchID/INSEE identifica l'únic homònim amb aquest origen:
+02/05/1911–21/07/2003. La unió precedeix en quatre anys el naixement martelès
+de Christian Albert Beynet i en fa plausible la filiació, però no la certifica.
+Alhora, deixa la fórmula antiga `Yvonne + Alex Cheyrou` oberta a tres lectures:
+segon matrimoni, parentiu confós o compressió de branques. El PDF institucional
+continua rere una barrera de JavaScript; el text s'ha recuperat de l'OCR
+indexat i la resposta HTML s'ha conservat amb l'extensió correcta.
+
+El fitxer INSEE registra, a més, **Christian Albert Beynet** i **Nathalie
+Yvonne Christine Beynet**, de vuit anys, morts tots dos a Brignoles el
+19/05/1973 en els actes consecutius 96 i 97. És una coincidència familiar molt
+forta, però sense premsa o actes complets no se n'ha inferit la causa ni s'ha
+presentat la filiació com a provada.
 
 La sèrie digital no permet saltar netament a 1936: el filtre oficial només
 retorna **Saint-Denis-lès-Martel** (`6 M 314`), una comuna diferent, i cap
