@@ -1,0 +1,139 @@
+---
+type: article
+title: "La quèstia"
+description: "El tribut feudal als dos coprínceps, pagat en anys alterns des del 1278. L'última al copríncep francès es va lliurar a París el 26 de novembre del 1991; l'última al bisbe, a la Seu, l'any següent."
+tema: temes/institucions/coprincipat
+veu: compilada
+epoca: contemporania
+apte_llengua: false
+font: wikipedia-questia
+timestamp: 2026-09-14T06:55:00Z
+tags: [coprincipat, pareatge, fiscalitat, feudalisme, constitucio-1993]
+---
+
+# La quèstia
+
+## Què era
+
+**Un tribut en diners o en fruits que el senyor feudal cobrava dels seus
+súbdits.**
+
+**A Andorra va ser vigent fins a
+[la Constitució del 1993](../../historia/constitucio-1993/constitucio-1993.md).**
+
+**També se'n diu *questa* i *quístia*.** Vegeu
+[el lèxic d'Andorra](../../llengua/lexic-andorra/lexic-andorra.md), que ja
+en tenia l'entrada i no la xifra.
+
+## El mecanisme, que ve del Pareatge
+
+**Segons una clàusula del [Pareatge del 1278](../../historia/pareatge/el-pareatge.md):**
+
+| Anys | A qui es pagava |
+| --- | --- |
+| **Parells** | **Al bisbe d'Urgell** |
+| **Senars** | **Al comte de Foix**, i després a la Corona francesa |
+
+**El primer cobrament va correspondre al comte de Foix Roger Bernat III.**
+
+### L'asimetria que el Pareatge hi va deixar
+
+> **El Pareatge del 1278 va fixar un límit de 4.000 sous melgoresos al pagament
+> a què tenia dret el copríncep episcopal.** **Al comte de Foix no li'n va fixar
+> cap.**
+
+**Un dels dos cosenyors tenia sostre i l'altre no.**
+
+**El corpus ho registra com a dada estructural del
+[coprincipat](./el-coprincipat.md) i no com a anècdota**: **la paritat del
+Pareatge no era completa des del primer document.**
+
+### Quant era, al final
+
+| A qui | Import final |
+| --- | --- |
+| **Bisbe d'Urgell** | **450 pessetes** |
+| **Copríncep francès** | **960 francs** |
+
+**La font d'aquestes dues xifres és, entre d'altres, la sentència del Tribunal
+Europeu de Drets Humans en l'afer Drozd i Janousek contra França i Espanya
+(26 de juny del 1992), §76.**
+
+> **Les dues xifres del tribut feudal andorrà consten en una sentència del
+> Tribunal Europeu de Drets Humans.** **El corpus té
+> [aquell cas](../../institucions/justicia/README.md) com a peça de la pressió
+> internacional que va portar a la Constitució, i ara sap que el mateix text
+> judicial que qüestionava la justícia andorrana també hi va deixar escrita la
+> quantia de la quèstia.**
+
+## Com es recaptava
+
+**Al consell ordinari dit «de Setmana Santa»**, **on també es nomenava la
+comissió que l'aniria a portar** — **a la Seu d'Urgell o a París.**
+
+**Una comissió andorrana viatjava cada any a lliurar el tribut en mà.**
+
+Vegeu [com funciona el Consell General](../../politica/parlamentarisme/com-funciona-el-consell-general.md).
+
+## Els tretze anys en què França no la va voler
+
+**L'única interrupció documentada, i la raó és la Revolució Francesa:**
+
+| Any | Què |
+| --- | --- |
+| **1793** | **La Convenció Nacional refusa el tribut feudal de la quèstia** i **renuncia alhora a tots els drets senyorials que pogués tenir sobre Andorra** |
+| **1806** | **Un decret de Napoleó I del 27 de març**, **atorgat a petició dels mateixos andorrans**, **restableix l'estat de coses anterior**, inclòs el pagament dels 960 francs |
+
+> **Aquesta és la peça que el corpus subratlla.** **França va renunciar a la
+> senyoria d'Andorra el 1793, i van ser els andorrans mateixos els qui van
+> demanar que hi tornés.**
+>
+> **Un país que demana que li restitueixin el seu senyor feudal.** **La font no
+> explica per què, i el corpus no ho supleix** — **però la data i la petició
+> consten.** **Buit prioritari: què hi havia en joc entre el 1793 i el 1806.**
+
+**Això toca [les tres sobiranies](./les-tres-sobiranies.md) i
+[qui deia que Andorra no era sobirana](./qui-deia-que-andorra-no-era-sobirana.md),
+i cap de les dues no ho té.**
+
+## Les dues últimes quèsties de la història
+
+| Data | A qui | On |
+| --- | --- | --- |
+| **26 de novembre del 1991** | **[François Mitterrand](./el-coprincipat.md)**, copríncep francès | **París** |
+| **12 de novembre del 1992** | **Joan Martí i Alanís**, copríncep episcopal | **La Seu d'Urgell** |
+
+**I la data en què desapareix**: **la ratificació de
+[la Constitució](../../politica/sistema-electoral/el-referendum-constitucional-de-1993.md)
+el 1993.**
+
+> **Set-cents quinze anys de tribut, del 1278 al 1992.** **I les dues últimes
+> entregues es van fer amb catorze mesos i mig de diferència, ja sabent que
+> serien les últimes.**
+>
+> **El corpus no té cap crònica d'aquells dos actes.** **Buit obert, i és el
+> tipus de buit que es pot tancar: hi havia premsa, i queda gent que hi era.**
+
+## El que falta
+
+- **Joan Becat**, *«Emergència i reconeixement d'Andorra com a Estat»*,
+  ***Treballs de la Societat Catalana de Geografia* 41 (1996)**, **en accés
+  obert a l'IEC.** **És la font de les tres dates finals i el corpus no l'ha
+  llegit.** **Buit prioritari i barat.**
+- **Tomàs Junoy**, ***Relació sobre la Vall d'Andorra*** (1838) — **la mateixa
+  font primària que [el ball de l'ossa](../../costums/danses/el-ball-de-lossa-dencamp.md)
+  reclama.** **Dues fitxes de branques diferents demanen el mateix llibre.**
+- **Lluís Dalmau i de Baquer**, ***Historia de la República de Andorra***
+  (1849).
+- **Què és un sou melgorès**, i **quant valien 4.000.**
+- **Per què els andorrans van demanar el restabliment del 1806.**
+- **Les cròniques dels lliuraments del 1991 i del 1992.**
+- **Si es va pagar mai en fruits**, i **què.**
+
+## Related
+
+- [El coprincipat](./el-coprincipat.md)
+- [El Pareatge](../../historia/pareatge/el-pareatge.md) — d'on ve.
+- [Les tres sobiranies](./les-tres-sobiranies.md)
+- [La Constitució de 1993](../../historia/constitucio-1993/constitucio-1993.md) — on s'acaba.
+- [El lèxic d'Andorra](../../llengua/lexic-andorra/lexic-andorra.md)

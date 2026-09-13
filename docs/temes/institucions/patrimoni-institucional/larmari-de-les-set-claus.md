@@ -65,6 +65,25 @@ acrediten els drets del país. **La unanimitat és un objecte de fusta.**
 
 I hi ha un detall millor encara.
 
+## No és l'únic armari de claus dels Pirineus
+
+**Ampliació del 2026-09-13.** **La mateixa solució institucional existeix a
+tres llocs més de l'entorn**, amb nombres diferents:
+
+| On | Claus |
+| --- | --- |
+| **Lleida** | **Cinc** |
+| **Vielha**, a la Val d'Aran | **Sis** |
+| **Tortosa** | **Tres** |
+
+> **Andorra és el cas amb més claus, i l'únic on el moble segueix dins la seu
+> del parlament en funcionament.** **El corpus ho registra perquè treu
+> l'armari andorrà de la categoria de singularitat i el posa en una sèrie: és
+> una solució pirinenca i catalana a un problema comú de confiança entre
+> comunitats, no una excentricitat andorrana.**
+
+**Buit obert**: **què conté cadascun, i des de quan.**
+
 ## Fins al 1978 eren SIS claus
 
 També se'l coneix com a **Armari de les Sis Claus**, perquè **històricament

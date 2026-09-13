@@ -65,7 +65,7 @@ explicacions al Govern» no entén el mateix que un barceloní.
 | **nunci** | Una mena d'uixer o conserge. No és només un pregoner |
 | **bander** | Guarda forestal. L'agent rural de Catalunya |
 | **veguer** | 'Representant del senyor'. Va pervriure fins a finals del segle XX i es va suprimir per iniciativa pròpia; ara se'n diuen **representants** |
-| **quèstia** | El pagament d'origen feudal que, **fins al 1993**, els andorrans feien als dos cosenyors |
+| **quèstia** | El pagament d'origen feudal que, **fins al 1993**, els andorrans feien als dos cosenyors. **També *questa* i *quístia*.** Té [fitxa pròpia](../../institucions/coprincipat/la-questia.md) amb les xifres i les dates dels dos darrers lliuraments |
 | **visura**, **veedoria** | Un tipus de tribunal |
 | **cúria** | La sala de judicis de la Casa de la Vall |
 | **arrest** | Un acord comunal, del francès *arrêt* 'decisió, decret'. El verb **arrestar** (escrit *arestar*) 'ordenar, acordar' ja apareix en documents andorrans del segle XVII |

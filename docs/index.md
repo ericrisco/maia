@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**714** documents · **158** fonts · **0** aptes com a model de llengua · **121** temes amb contingut.
+**715** documents · **159** fonts · **0** aptes com a model de llengua · **121** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -797,6 +797,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [El Concordat del 2008](temes/institucions/coprincipat/el-concordat-del-2008.md) | `temes/institucions/coprincipat` | compilada | contemporania | no | `serra-vatica-microestat` |
 | [El Coprincipat](temes/institucions/coprincipat/el-coprincipat.md) | `temes/institucions/coprincipat` | compilada | contemporania | no | `coprincep-frances` |
+| [La quèstia](temes/institucions/coprincipat/la-questia.md) | `temes/institucions/coprincipat` | compilada | contemporania | no | `wikipedia-questia` |
 | [Les tres sobiranies](temes/institucions/coprincipat/les-tres-sobiranies.md) | `temes/institucions/coprincipat` | compilada | contemporania | no | `vilar-andorre-1904` |
 | [Qui deia que Andorra no era sobirana](temes/institucions/coprincipat/qui-deia-que-andorra-no-era-sobirana.md) | `temes/institucions/coprincipat` | compilada | contemporania | no | `massa-gran-carlemany-sobirania-1994` |
 
@@ -1477,6 +1478,7 @@
 | [`wikipedia-museus-andorra`](fonts/wikipedia-museus-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-pena-de-mort-andorra`](fonts/wikipedia-pena-de-mort-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-politica-andorra`](fonts/wikipedia-politica-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-questia`](fonts/wikipedia-questia.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-questio-dandorra`](fonts/wikipedia-questio-dandorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-referendums-andorra`](fonts/wikipedia-referendums-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-religio-andorra`](fonts/wikipedia-religio-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
