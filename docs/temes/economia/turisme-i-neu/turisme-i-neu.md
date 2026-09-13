@@ -45,10 +45,17 @@ pics.
 
 ## El que falta
 
-Les xifres per temporada i per estació d'esquí, l'evolució històrica —quan arriba
-el primer telecadira, quan es consolida el model—, l'impacte sobre l'habitatge i
-el debat públic sobre saturació. La Cambra de Comerç publica informes econòmics
-anuals que són font primària i no s'han consultat. **Buit registrat.**
+~~L'evolució històrica —quan arriba el primer telecadira, quan es consolida el
+model—~~ **tancat el 2026-09-13**:
+**[les estacions d'esquí](./estacions/README.md)**, des del primer telesquí del
+**1956** fins a la desaparició de la marca Vallnord el **2022**. **Hi surt que
+les estacions andorranes no són ni públiques ni privades, sinó comunals**, i que
+**una empresa andorrana, PGI, gestiona estacions d'esquí a nou països.**
+
+**El que segueix obert són les xifres**: per temporada i per estació, visitants,
+facturació, ocupació i llocs de treball. **L'impacte sobre l'habitatge** i **el
+debat públic sobre saturació.** **La Cambra de Comerç publica informes econòmics
+anuals que són font primària i no s'han consultat.** **Buit registrat.**
 
 ## Related
 

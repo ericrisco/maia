@@ -1,0 +1,40 @@
+{{Infotaula organització
+| codi_uci = ANG
+| pais_origen = {{AND}}
+| data_fundacio = 2009
+| estatus = Desaparegut
+| entrenador = [[Melcior Mauri]]<br/>[[Domènec Carbonell]]
+}}
+'''Andorra-Grandvalira''' va ser un equip ciclista professional [[Andorra|andorrà]] que va competir la temporada [[2009]]. Tenia [[Equip continental|categoria continental]] i estava patrocinat per l'estació d'esquí [[Grandvalira]] i el departament d'Andorra Turisme.<ref>{{ref-notícia|títol=Es presenta l' Andorra- Grandvalira|publicació=ciclisme.cat|url=http://www.ciclisme.cat/noticia.php?id=1939|consulta=13 desembre 2014|data=28 març 2009|arxiuurl=https://web.archive.org/web/20141213210115/http://www.ciclisme.cat/noticia.php?id=1939|arxiudata=13 de desembre 2014}} {{Webarchive|url=https://web.archive.org/web/20141213210115/http://www.ciclisme.cat/noticia.php?id=1939 |date=13 de desembre 2014 }} {{Ref-web |url=http://www.ciclisme.cat/noticia.php?id=1939 |títol=Còpia arxivada |consulta=2014-12-13 |arxiuurl=https://web.archive.org/web/20141213210115/http://www.ciclisme.cat/noticia.php?id=1939 |arxiudata=2014-12-13 }}</ref>
+
+La principal victòria que va aconseguir va ser, per part de [[Jaume Rovira Pous|Jaume Rovira]], a la [[Clàssica d'Ordizia]].
+
+A finals de 2009 va desaparèixer per falta de suport econòmic.<ref>{{ref-notícia|cognom=Cano Llivería|nom=S.|títol=L'Andorra-Granvalira desapareix per falta de suport econòmic|publicació=Diari d'Andorra|url=http://diariandorra.ad/index.php?option=com_k2&view=item&id=1003|consulta=13 desembre 2014|data=5 desembre 2009}} {{Webarchive|url=https://web.archive.org/web/20141225211954/http://diariandorra.ad/index.php?option=com_k2&view=item&id=1003 |date=25 de desembre 2014 }}</ref>
+
+== Principals ciclistes ==
+* [[Sergi Escobar]]
+* [[Eduard Prades i Reverter|Eduard Prades]]
+* [[Jaume Rovira Pous|Jaume Rovira]]
+* [[Carles Torrent Tarrés|Carles Torrent]]
+
+== Classificacions UCI ==
+;UCI Europa Tour
+{| class=wikitable style="text-align:center;"
+|-
+!width=80| Temporada
+!width=120| Classificació <br/>per equips
+!width=250| Millor ciclista <br/>en la classificació individual
+|-
+|[[UCI Europa Tour 2008-2009|2009]] || 68è || align=left| {{Bandera|CAT}} [[Jaume Rovira Pous|Jaume Rovira]] (132è)
+|}
+
+== Referències ==
+{{Referències}}
+
+== Enllaços externs ==
+* [http://www.memoire-du-cyclisme.eu/pelotons/equipes.php?q=19858 Plantilla a memoire-du-cyclisme.eu]
+* [http://www.firstcycling.com/team.php?l=3128 Plantilla a firstcycling.com] {{Webarchive|url=https://web.archive.org/web/20141213213305/http://www.firstcycling.com/team.php?l=3128 |date=2014-12-13}}
+
+[[Categoria:Equips continentals]]
+[[Categoria:Clubs esportius d'Andorra]]
+[[Categoria:Ciclisme a Andorra]]

@@ -1,0 +1,16 @@
+{{Infotaula empresa}}
+El '''Telecabina de Canillo''' és un [[telecabina]] localitzat a la [[parròquia (Andorra)|parròquia]] de [[Canillo]], al [[principat d'Andorra]].<ref>{{format ref}} https://www.grandvalira.com/ca/estacio/pistes/canillo</ref> Fou construit l'any [[2000]] amb l'ampliació de l'estació d'[[esquí alpí]] de [[Grandvalira]].<ref>{{format ref}} https://www.nevasport.com/noticias/art/66171/la-estacion-de-esqui-de-soldeu-cumple-hoy-8-de-febrero-sus-60-anos/</ref>
+
+El telecabina va ser construït per [[Leitner]], amb la motorització a l'estació superior. El motor es situa sota terra, amb una motorització hidràulica en cas d'emergència. La primera part de la línia té un pendent moderat, la pilona de compressió, la cinquena, marca un fort canvi de pendent, accentuant-se, fins a les dues pilones de cresta, l'onzena i la dotzena; el sistema té 16 pilones. El darrer tram de la línia es fa novament en pendent moderada.<ref>{{format ref}} https://www.trenscat.com/andorra/canillo_ct.html</ref>
+[[Fitxer:Telecabina de Canillo a Grandvalira.jpg|miniatura|esquerra|Telecabina de Canillo a Grandvalira]]
+Durant el recorregut, de 1.720 metres i amb un desnivell de 517 metres, en té dues parades: la inferior, ubicada al centre urbà de Canillo a 1.548 metres, i la superior, localitzada a les pistes d'esquí de Grandvalira a 2.065 metres i on hi ha l'emplaçament dels motors. De les 34 que n'hi ha, cada cabina pot acollir vuit persones i el sistema pot transportar fins a 2.000 persones per hora circul·lant a 5 [[m/s]]; el sentit de pujada és per la dreta.
+
+== Referències ==
+{{Referències}}
+
+== Enllaços externs ==
+{{commonscat}}
+* {{web oficial}}
+{{Transport públic d'Andorra}}
+[[Categoria:Canillo]]
+[[Categoria:Transport a Andorra]]

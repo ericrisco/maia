@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**662** documents · **129** fonts · **0** aptes com a model de llengua · **117** temes amb contingut.
+**667** documents · **131** fonts · **0** aptes com a model de llengua · **118** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -238,6 +238,14 @@
 | [Els hostals comunals](temes/economia/turisme-i-neu/els-hostals-comunals.md) | `temes/economia/turisme-i-neu` | compilada | contemporania | no | `lacueva-hoteleria` |
 | [Els pisos turístics](temes/economia/turisme-i-neu/els-pisos-turistics.md) | `temes/economia/turisme-i-neu` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Turisme i neu](temes/economia/turisme-i-neu/turisme-i-neu.md) | `temes/economia/turisme-i-neu` | compilada | contemporania | no | `viquipedia-ca` |
+
+## temes/economia/turisme-i-neu/estacions
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Grandvalira](temes/economia/turisme-i-neu/estacions/grandvalira.md) | `temes/economia/turisme-i-neu/estacions` | compilada | contemporania | no | `wikipedia-estacions-esqui-andorra` |
+| [PGI: Andorra exporta el model](temes/economia/turisme-i-neu/estacions/pgi.md) | `temes/economia/turisme-i-neu/estacions` | compilada | contemporania | no | `wikipedia-estacions-esqui-andorra` |
+| [Vallnord, la marca que va desaparèixer](temes/economia/turisme-i-neu/estacions/vallnord.md) | `temes/economia/turisme-i-neu/estacions` | compilada | contemporania | no | `wikipedia-estacions-esqui-andorra` |
 
 ## temes/esports/altres-esports
 
@@ -547,6 +555,7 @@
 | [Els dotze campions a casa: Andorra, 2000](temes/esports/seleccions/els-dotze-campions-a-casa-del-2000.md) | `temes/esports/seleccions` | compilada | contemporania | no | `fiba-andorra-basquet-2000` |
 | [Els dotze campions del 2024](temes/esports/seleccions/els-dotze-campions-del-2024.md) | `temes/esports/seleccions` | compilada | contemporania | no | `fiba-andorra-basquet-2024` |
 | [Els dotze de la primera final: Andorra, 2004](temes/esports/seleccions/els-dotze-de-la-primera-final-del-2004.md) | `temes/esports/seleccions` | compilada | contemporania | no | `fiba-andorra-basquet-2004` |
+| [Els dotze dels set segons: Andorra, 2012](temes/esports/seleccions/els-dotze-dels-set-segons-del-2012.md) | `temes/esports/seleccions` | compilada | contemporania | no | `fiba-andorra-basquet-2012` |
 | [L'handbol](temes/esports/seleccions/lhandbol.md) | `temes/esports/seleccions` | compilada | contemporania | no | `wikipedia-escacs-andorra` |
 | [L'hoquei gel: un 12-0 i un 24-2](temes/esports/seleccions/lhoquei-gel.md) | `temes/esports/seleccions` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 | [L'hoquei sobre patins: dos campionats del món i una setena plaça mundial](temes/esports/seleccions/lhoquei-patins.md) | `temes/esports/seleccions` | compilada | contemporania | no | `wikipedia-escacs-andorra` |
@@ -915,6 +924,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Albert Llovera i Massana](temes/persones/albert-llovera.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-jocs-andorra` |
+| [Daniel Marín Rodríguez](temes/persones/daniel-marin.md) | `temes/persones` | compilada | contemporania | no | `fiba-andorra-basquet-2012` |
 | [Els caps de Govern](temes/persones/els-caps-de-govern.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
 | [Els síndics generals](temes/persones/els-sindics-generals.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
 | [Èric Risco de la Torre](temes/persones/eric-risco.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
@@ -1296,6 +1306,7 @@
 | [`fiba-andorra-basquet-1998`](fonts/fiba-andorra-basquet-1998.md) | FIBA · Govern d'Andorra · Consell General · Comitè Olímpic Andorrà · premsa andorrana | drets reservats pels titulars respectius | False |
 | [`fiba-andorra-basquet-2000`](fonts/fiba-andorra-basquet-2000.md) | FIBA · El Periòdic d'Andorra · Federació Andorrana de Bàsquet | drets reservats pels titulars respectius | False |
 | [`fiba-andorra-basquet-2004`](fonts/fiba-andorra-basquet-2004.md) | FIBA · ACB · premsa andorrana i especialitzada | drets reservats pels titulars respectius | False |
+| [`fiba-andorra-basquet-2012`](fonts/fiba-andorra-basquet-2012.md) | FIBA Europe · FIBA Archive · El Periòdic d'Andorra | drets reservats pels titulars respectius | False |
 | [`fiba-andorra-basquet-2024`](fonts/fiba-andorra-basquet-2024.md) | FIBA · Ràdio i Televisió d'Andorra · Bondia · Andorra Esportiu | drets reservats pels titulars respectius | False |
 | [`figuereda-nombre-de-diputats`](fonts/figuereda-nombre-de-diputats.md) | Pere Figuereda i Cairol · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`font-fenomens-socials-immigracio`](fonts/font-fenomens-socials-immigracio.md) | Agustí Font · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
@@ -1381,6 +1392,7 @@
 | [`wikipedia-escacs-andorra`](fonts/wikipedia-escacs-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-esport-andorra`](fonts/wikipedia-esport-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-esquiadors-andorrans`](fonts/wikipedia-esquiadors-andorrans.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-estacions-esqui-andorra`](fonts/wikipedia-estacions-esqui-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-futbol-femeni-andorra`](fonts/wikipedia-futbol-femeni-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-jocs-andorra`](fonts/wikipedia-jocs-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-politica-andorra`](fonts/wikipedia-politica-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

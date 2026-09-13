@@ -1,0 +1,21 @@
+{{Infotaula geografia política
+| imatge = Església de Sant Andreu d'Arinsal 2.jpg
+| peu = [[Sant Andreu d'Arinsal]]
+}}
+'''Arinsal''' és un nucli de població del [[Principat d'Andorra]] situat a la [[parròquia d'Andorra|parròquia]] de [[la Massana]].<ref>{{GEC|0005151|Arinsal}}</ref> L'any [[2009]] tenia 1.623 habitants.<ref>{{ref-web |url=http://www.estadistica.ad/serveiestudis/web/banc_dades4.asp?lang=1&codi_tema=2&codi_divisio=16&codi_subtemes=8 |títol=Població per poble |editor=Departament d'Estadística d'Andorra |consulta= 30 novembre 2010 |arxiuurl=https://web.archive.org/web/20161114081748/http://www.estadistica.ad/serveiestudis/web/banc_dades4.asp?lang=1&codi_tema=2&codi_divisio=16&codi_subtemes=8 |arxiudata=14 de novembre 2016}}</ref>
+
+Està situat en la vall del riu Arinsal a 1.467 metres d'altitud. Dins del seu territori es troben els pics de [[Coma Pedrosa]], el [[Medacorba]] i el del Pla de l'Estany que són els més alts d'Andorra.
+
+Des dels anys setanta del {{segle|XX|s}} s'hi va bastir una estació d'esquí situada a la vall de Comallémpia i que des de gener de [[2001]] està enllaçada amb l'estació d'esquí de Pal. Més tard l'any [[2004]] es va produir la unió comercial de les estacions de Pal-Arinsal i Ordino-Arcalís: [[Vallnord]].
+
+== Etimologia ==
+Topònim d'origen [[basc]], a partir d{{'}}''arantze, arantza'' 'espina, [[Arç blanc|arç]]'. Aquest és el mateix ètim dels pobles d'[[Arans]] i [[Ransol]], ben a prop, d'[[Arànser]] al [[Baridà]] i d'[[Aransís]] a la [[Conca de Tremp]].<ref>{{ONCAT|3725|ARINSAL|II|213}}</ref> Arinsal apareix en documents del segles {{Romanes|XII}} i {{romanes|XIII}} en la forma ''Arensau'', probable derivat del basc ''arantzadi'' 'espinar'.<ref>{{ref-llibre |enllaçautor=Manuel Anglada i Ferran|nom=Manuel |cognom=Anglada|títol=Arrels d'Andorra. Prehistòria d'Andorra a través dels noms de lloc |lloc=Andorra la Vella |editorial=Editorial Andorra |data=1993|isbn=99920-53-02-X|capítol=Noms dels nuclis urbans|pàgina=251}}</ref>
+
+== Referències ==
+{{Commonscat}}
+{{referències}}
+
+{{Parròquies d'Andorra}}
+{{Autoritat}}
+
+[[Categoria:Entitats de població de la Massana]]

@@ -1,0 +1,25 @@
+{{Infotaula transport terrestre de Catalunya
+| nom línia = Funicamp
+| recorregut = Encamp - els Cortals
+| inauguració = 1998
+| tipus servei = [[Funitel]]
+| municipi = Encamp i Canillo
+| estacions = 3
+| longitud = 5,6 km 
+| desnivell = 1.172 m
+| velocitat = 7,2 m/s
+| capacitat vehicles = 24
+}}
+El '''Funicamp''' o '''telefèric Encamp-Cortals''' és un [[telecabina]] de tipus [[funitel]] situat a les [[parròquies d'Andorra|parròquies andorranes]] d'Encamp i Canillo. Es va construir el 1998, té una longitud de 5,6 km i és una de les instal·lacions més grans i ràpides de les seves característiques.<ref>{{ref-web |url=http://www.andorra.ad/ca-es/recursos/pagines/funicamp.aspx |títol=Funicamp |editor=Andorra Turisme |consulta=9 de juny de 2012 |arxiuurl=https://web.archive.org/web/20120704221906/http://www.andorra.ad/ca-ES/recursos/Pagines/Funicamp.aspx |arxiudata=2012-07-04}}</ref><ref name="trenscat">{{ref-web|url=http://www.trenscat.com/andorra/funicamp_ct.html |títol=Funicamp (telefèric Encamp-Cortals) |editor=Trenscat.com |consulta=9 de juny de 2012}}</ref>
+
+Uneix la vila d'[[Encamp]], a 1.330 metres, amb els Cortals (Canillo), 2.502 metres, i una estació intermèdia (2.090 m), permeten als vilatans i turistes accedir a les pistes de [[Grandvalira]] des d'Encamp.<ref name="trenscat"/>
+
+== Referències ==
+{{Referències}}
+
+{{coord|42|32|8.2|N|1|35|15.01|E|type:landmark_region:AD|display=title}}
+
+[[Categoria:Encamp]]
+[[Categoria:Transport públic]]
+[[Categoria:Canillo]]
+[[Categoria:Transport a Andorra]]
