@@ -1,0 +1,223 @@
+---
+type: article
+title: L'estrany i el llot
+description: "El Consell General no tenia gairebé ingressos propis: un impost als estrangers que rendia 900 pessetes l'any, i una derrama igual per a totes les parròquies tinguessin el que tinguessin."
+tema: temes/institucions/consell-general
+veu: compilada
+epoca: historica
+apte_llengua: false
+font: brutails-coutume-1904
+timestamp: 2026-09-13T18:20:00Z
+tags: [institucions, consell-general, economia, fiscalitat, comuns, antic-regim, coprincipat, font-primaria]
+---
+
+# L'estrany i el llot
+
+El corpus té [la quèstia](../../historia/antic-regim/la-questia.md) —l'impost que
+els andorrans pagaven als coprínceps— i **no tenia res sobre com es finançava el
+Consell General mateix**.
+
+Brutails hi dedica una secció, i el diagnòstic amb què l'obre és dur
+([font](../../../fonts/brutails-coutume-1904.md)):
+
+> «A étudier de près le budget de l'Andorre, on se rend compte que **cette réunion
+> de paroisses est une association politique relativement récente et quelque peu
+> factice** : **les ressources appartiennent soit aux *cuarts*, soit surtout aux
+> paroisses, et la Vallée en est à peu près dépourvue**.»
+
+**El país no tenia diners; en tenien les parròquies i els quarts.** Vegeu
+[quarts i veïnats](../quarts-i-veinats/quarts-i-veinats.md).
+
+> **«Quelque peu factice» és un judici de l'autor**, i un autor francès que és
+> jutge del Tribunal Superior. **El corpus el marca com a seu.** Els números que
+> l'acompanyen, no.
+
+## D'on venien els diners de les parròquies
+
+**De la terra.** Béns comuns i pastures — i **molt desigualment repartits**:
+
+| Parròquia | Situació el 1904 |
+| --- | --- |
+| **Encamp** i **Canillo** | **Les més riques.** «**Elles afferment à des communes françaises de vastes pâturages**» |
+| **Sant Julià** | «Moins favorisé», **va haver d'establir una taxa sobre els botiguers estrangers** |
+
+I les parròquies tenien **alguna renda**, però «**les comuns sont plus souvent
+emprunteurs que prêteurs**» i aquelles rendes «se réduisent à peu de chose».
+
+**Els comuns eren més sovint deutors que rendistes.** Vegeu
+[el sòl comunal](../../territori/geografia-fisica/el-sol-comunal.md).
+
+### Un recurs del 1876 que val per si sol
+
+> «En **1876**, le Conseil général fut saisi d'**un recours des boutiquiers
+> étrangers de Sant-Julia contre une décision du comú qui les imposait**.
+> L'affaire fut renvoyée à une commission, **qui fixa le taux de la
+> contribution**.»
+
+**Botiguers estrangers recorrent al Consell General contra el seu comú, i el
+Consell no anul·la la taxa: en fixa el tipus.** És, alhora, **un cas de
+jurisdicció del Consell sobre els comuns** i **una mostra que hi havia prou
+comerciants forasters a Sant Julià per fer-ne una font d'ingressos**.
+
+## L'estrany: l'únic ingrés ordinari
+
+> «Le Conseil général n'a, pour ainsi dire, **pas de recettes ordinaires en dehors
+> de l'*estrany***, imposition payée […] **par les étrangers domiciliés en Andorre
+> et par les troupeaux étrangers**.»
+
+| | |
+| --- | --- |
+| **Des de quan** | Brutails el documenta el **1743**, i un manuscrit **de M. Palmitjavila** que ell atribueix al **segle XVI** ja l'esmenta |
+| **Qui el paga** | **Estrangers domiciliats** a Andorra i **ramats estrangers** |
+| **Per persona o cap de bestiar gros** | **5 sous catalans** = **0,67 pessetes** |
+| **Per ovella o cabra** | **6 diners** = **0,06 pessetes** |
+| **Qui hi cau, en concret** | Els ramats que **els ariegesos** pugen a les muntanyes andorranes a l'estiu |
+| **Què rendia** | **Unes 900 pessetes l'any** |
+
+**Nou-centes pessetes l'any era el pressupost ordinari d'un estat.**
+
+> **I les xifres es comproven soles.** Amb la conversió que el corpus ja té
+> —**1 lliura = 20 sous = 2,66 pessetes**
+> ([les mesures i les monedes](../../economia/comerc/les-mesures-i-les-monedes.md))—
+> 5 sous fan **0,665** pessetes i 6 diners en fan **0,0665**. **Brutails arrodoneix
+> a 0,67 i 0,06, i quadra.**
+
+### I aquí hi ha la frase que val més de tota la secció
+
+Brutails explica la divisòria: **el bestiar andorrà paga quèstia, l'estranger
+paga estrany.** I hi afegeix, d'un document comunal recent:
+
+> «**se entent per vestiá propri lo quin pague quistia**»
+>
+> *(«s'entén per bestiar propi aquell que paga quèstia»)*
+
+**No es paga l'impost perquè el bestiar sigui andorrà: el bestiar és andorrà
+perquè paga aquell impost.** La definició va en el sentit contrari del que
+s'esperaria, i està escrita així en un document comunal.
+
+**El corpus registra la frase i el que implica, i no en treu cap doctrina
+general**: és una definició operativa d'un comú, per a un cas, no una teoria de
+la nacionalitat. Però val la pena posar-la al costat de
+[la quèstia](../../historia/antic-regim/la-questia.md) i de
+[els andorrans de primera generació](../nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md):
+**la pertinença, aquí, la fixa el padró fiscal.**
+
+## Els ingressos extraordinaris
+
+Com que amb l'estrany no n'hi havia ni per començar, el Consell General
+«**crée des revenus extraordinaires**»:
+
+| Mitjà | |
+| --- | --- |
+| **Monopolis** | «il accorde des monopoles» |
+| **Concessions** | Acull sol·licituds i **fa dipositar fiances** |
+| **Segells de correus** | «**il a émis des timbres-poste, qui n'ont d'ailleurs jamais eu cours**» |
+| **El *llot*** | Una **injunció a les parròquies** de contribuir amb una suma determinada a les despeses de la Vall |
+
+**Segells de correus emesos per un estat que no tenia servei postal**, i que
+**no van circular mai**. El corpus no en tenia notícia. **Buit registrat:** quins
+segells, de quin any, i què se'n va fer.
+
+### El llot, i per què era injust
+
+> «Le chiffre du llot est **le même pour toutes les paroisses**, de sorte que
+> **certaines en sont incommodées, tandis que d'autres se livrent à un véritable
+> gaspillage de leurs revenus**.»
+
+**Una derrama idèntica per a totes les parròquies, tinguessin el que tinguessin.**
+I com que Encamp i Canillo eren riques i Sant Julià no, **la mateixa xifra
+ofegava unes i en deixava altres amb marge per malgastar**.
+
+**És exactament la mateixa estructura que el corpus té documentada al segle XXI**
+en un altre terreny: cada parròquia posa **dos consellers generals** tingui 794
+electors o 6.604
+([la desigualtat del vot](../../politica/sistema-electoral/la-desigualtat-del-vot.md)).
+**La igualtat entre parròquies, tractades com a unitats i no com a poblacions, és
+un principi de llarga durada del sistema andorrà** — i **el corpus el registra
+com a continuïtat observada, no com a causa.**
+
+I la Reforma hi afegia una càrrega més: el seu **paràgraf 12** «**met à la charge
+de chaque paroisse les frais de ses conseillers généraux**». **Cada parròquia
+pagava els seus propis diputats.** Vegeu
+[la Nova Reforma de 1866](../../historia/segle-xix/nova-reforma.md).
+
+## L'intent de reforma fiscal que va fracassar
+
+> «...pour les travaux de voirie qui sont commencés, **des sommes importantes sont
+> nécessaires**, et si l'on veut que cette entreprise aboutisse, **il sera
+> indispensable de réorganiser tout le système fiscal du pays**. **Une première
+> tentative a été faite récemment ; elle a été malheureuse**, et l'impôt décrété
+> par le Conseil général, **justement impopulaire dès le début, a subi un échec
+> lamentable autant que mérité**.»
+
+**Hi va haver un intent de reforma fiscal poc abans del 1904, i va fracassar.**
+Brutails no en dona ni la data ni el contingut, i el qualifica amb duresa —
+«**justament impopular**», «**un fracàs lamentable i merescut**».
+
+**Buit registrat, prioritari:** **quin impost era, de quin any, i per què va
+caure.** És el primer intent de fiscalitat moderna que el corpus veu esmentat a
+Andorra.
+
+I el motiu pel qual calien diners és concret: **les obres de carretera**. El
+mateix any, Vilar escriu que **no hi havia carretera de roda cap a França**
+([qui parlava per Andorra](../../institucions/relacions-exteriors/qui-parlava-per-andorra.md)).
+
+## Què cobraven els coprínceps
+
+| Copríncep | Quèstia | Notes |
+| --- | --- | --- |
+| **França** | **960 francs l'any**, **pagats cada dos anys** | «**La France a depuis longtemps renoncé à exiger la taille à merci**» |
+| **El bisbe d'Urgell** | **450 pessetes** | «...mais **les prélats se dédommagent amplement avec la dîme, le casuel et autres redevances**» |
+
+**El copríncep francès cobrava el doble que l'episcopal**, i el Consell General
+**la recaptava per a tots dos** «conformément au Paréage».
+
+**I la nota sobre el bisbe és una acusació suau i concreta**: la quèstia episcopal
+és petita **perquè el bisbe cobra per altres vies** —delme, casual i altres
+drets—, que **no passen pel Consell General**. Vegeu
+[el coprincipat](../../institucions/coprincipat/el-coprincipat.md).
+
+## Els boscos, el 1904
+
+Enmig d'aquesta secció Brutails hi posa un avís que **no és fiscal i val la pena
+retenir**:
+
+> «**On a tant abusé des coupes de bois que les montagnes sont presque
+> dégarnies.** Les Andorrans devraient organiser un régime forestier et s'occuper
+> du reboisement, **au moins pour garantir leurs villages** : s'il survenait en
+> Andorre **un cataclysme comme celui qui vient de dévaster des vallées
+> voisines**, certaines localités **risqueraient fort d'être emportées**.»
+
+**Un jutge del Tribunal Superior advertint el 1904 que Andorra estava
+desforestada i que un aiguat s'enduria pobles.** El corpus no tenia cap estat
+dels boscos d'aquella data.
+
+**Buit registrat:** **quin cataclisme és** el que acabava de devastar valls
+veïnes, i **si Andorra va fer res** després d'aquest avís.
+
+## Buits registrats
+
+1. **Quin impost va fracassar** poc abans del 1904, i per què. **Prioritari.**
+2. **Els segells de correus** emesos pel Consell General i mai posats en curs.
+3. **El cataclisme** a les valls veïnes, i l'estat dels boscos andorrans el 1904.
+4. **Quant rendia el llot**, i amb quina freqüència s'enviava.
+5. **El manuscrit de M. Palmitjavila**, que Brutails atribueix al segle XVI i que
+   esmenta l'estrany.
+6. **Quan es va suprimir l'estrany**, i quan la quèstia als coprínceps.
+7. **Les xifres del pressupost de cada parròquia**: Brutails les qualifica i no
+   les dona.
+8. **El Politar, pàgines 262-263** (qui paga quèstia i qui estrany) i **281** (el
+   poder dels coprínceps de regular matèries pròpies del Consell), contra
+   l'original.
+
+## Related
+
+- [La quèstia](../../historia/antic-regim/la-questia.md) — l'altre impost, i el que defineix el bestiar propi.
+- [El Consell General](./el-consell-general.md) — la institució sense ingressos.
+- [El Consell de la Terra](./el-consell-de-la-terra.md) — d'on ve.
+- [Quarts i veïnats](../quarts-i-veinats/quarts-i-veinats.md) — on eren els recursos.
+- [El sòl comunal](../../territori/geografia-fisica/el-sol-comunal.md) — la base de tot plegat.
+- [La Nova Reforma de 1866](../../historia/segle-xix/nova-reforma.md) — el paràgraf 12, que fa pagar els consellers a la seva parròquia.
+- [La desigualtat del vot](../../politica/sistema-electoral/la-desigualtat-del-vot.md) — la mateixa igualtat entre parròquies, un segle després.
+- [Les mesures i les monedes](../../economia/comerc/les-mesures-i-les-monedes.md) — la conversió que fa quadrar els tipus.
+- [El coprincipat](../../institucions/coprincipat/el-coprincipat.md) — qui cobrava què.

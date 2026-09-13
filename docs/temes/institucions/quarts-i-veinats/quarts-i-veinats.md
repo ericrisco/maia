@@ -78,3 +78,4 @@ personalitat pròpia.
 - [Comuns i parròquies](../comuns-i-parroquies/les-set-parroquies.md) — el nivell immediatament superior.
 - [Consell General](../consell-general/el-consell-general.md) — la institució nacional.
 - [L'associacionisme històric](../../societat/vida-civica/lassociacionisme-historic.md) — la sèrie sencera de formes associatives del país.
+- [L'estrany i el llot](../consell-general/lestrany-i-el-llot.md) — on eren els recursos el 1904, segons Brutails.

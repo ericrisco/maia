@@ -189,3 +189,4 @@ efectuar-se en dos terminis**.
 - [L'Antic Règim](./lantic-regim.md) — la casa, l'hereu i el cabaler.
 - [El Coprincipat](../../institucions/coprincipat/el-coprincipat.md) — per què hi ha dos anys.
 - [La crisi de l'oví](../../economia/ramaderia-i-agricultura/la-crisi-de-lovi.md) — la riquesa que es gravava.
+- [L'estrany i el llot](../../institucions/consell-general/lestrany-i-el-llot.md) — l'altre impost, i la frase «se entent per vestiá propri lo quin pague quistia».
