@@ -773,6 +773,24 @@ mesos de serveis, cinc mesos de bonificacions, havia estat citat i fou nomenat
 cavaller. La coincidència dels dos prenoms i la data completa amb l'INSEE i el
 cens elimina l'homònim.
 
+El SHD permet ara localitzar les peces que falten sense atribuir-li campanyes
+per conjectura. Els dossiers d'oficials de l'Armée de terre radiats després de
+1969, fins al grau de coronel, es conserven al Centre des archives de Pau. La
+brochure institucional de 2025 diu també que Pau conserva fitxes alfabètiques
+individuals dels militars citats des de 1914 i els ordres generals de citació.
+El `Cité` del decret fa, doncs, esperable una fitxa de Jacques que remeti al
+text i ordre corresponents, però encara no se n'ha consultat ni la cota ni la
+campanya. El dossier de carrera podria aportar entrada a l'exèrcit, estats de
+servei, destinacions, ascensos, escoles, notes i propostes de condecoració.
+
+Léonore no pot resoldre el dossier de Legió d'Honor en línia perquè cobreix
+només persones mortes abans de 1977; Jacques morí el 2014. La via pertinent és
+el fitxer general de la Grande Chancellerie. En paral·lel, els anuaris
+d'oficials de 1963–2004 existeixen al SHD i a la BnF, però les notices de la
+BnF els marquen `Confidentiel` i no en donen accés digital. El dossier militar,
+la citació i la Legió d'Honor són, per tant, tres objectes documentals
+identificats però encara no llegits.
+
 La seva incursió política també és documentable. *Le Monde* anuncià la
 investidura del Mouvement réformateur per Belfort‑Ville el novembre de 1972 i
 el presentà el gener de 1973 com a germà de Michel i beneficiari del suport
@@ -867,7 +885,7 @@ prové de la representació web accessible, amb data i URL registrades.
 | `dreyfus-schmidt/belfort-recensement-1911/` | Padró oficial `6 M 130`, p. 386, retall de lectura, recuperació parcial de l'antic PDF de LISA 90 i auditoria del foyer del 19 avenue de la Gare. |
 | `dreyfus-schmidt/gilberte-dreyfus/` | Acta de naixement 432 de Gilberte, retalls, fitxer oficial INSEE 1970–1979 i nota de lectura. |
 | `francesc-viadiu-fons/grumbach/dreyfus-schmidt/belfort-archives-municipales/notice-7fi231.html` | Notice municipal `2Z/35`: retrats de Pierre, André i Michel Dreyfus-Schmidt, inclosa la fotografia d'identitat d'André. |
-| `dreyfus-schmidt/yvonne-kahn/jacques-dreyfus-schmidt/` | INSEE i API geogràfica: identitat civil i defunció; decret oficial de la Legió d'Honor: coronel d'infanteria; CSV electoral i dossier contemporani de 1973: candidatura reformadora, 2.485 vots (8,16 %); nota crítica, render i hashes. |
+| `dreyfus-schmidt/yvonne-kahn/jacques-dreyfus-schmidt/` | INSEE i API geogràfica: identitat civil i defunció; decret oficial de la Legió d'Honor: coronel d'infanteria; CSV electoral i dossier contemporani de 1973: candidatura reformadora, 2.485 vots (8,16 %); guies SHD/CAP i notices BnF: localització del dossier, fitxa de citació i anuaris; nota crítica, renders i hashes. |
 | `francesc-viadiu-fons/grumbach/dreyfus-schmidt/paris-table-deces-1955-1964/*` | Taula decennal `V11E 553`, p. 241: entrada nominal, data, acta i arrondissement; 18 imatges, OCR, JSON i hashes. |
 | `francesc-viadiu-fons/grumbach/lemonde-*.html` | Controls de descàrrega fallits: quatre pàgines tècniques `Client Challenge` idèntiques, no el text dels articles. |
 | `francesc-viadiu-fons/grumbach/consulta-arxius-ariege-esborrany.md` | Petició detallada de localització i reproducció del procés de Foix i diligències relacionades; preparada però no enviada. |
