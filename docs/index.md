@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**531** documents · **122** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
+**532** documents · **122** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -908,6 +908,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Apte per residir](temes/societat/immigracio/apte-per-residir.md) | `temes/societat/immigracio` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El diagnòstic de 1989](temes/societat/immigracio/el-diagnostic-de-1989.md) | `temes/societat/immigracio` | compilada | contemporania | no | `becat-moviments-migratoris-1989` |
 | [El mercat de treball dual](temes/societat/immigracio/el-mercat-de-treball-dual.md) | `temes/societat/immigracio` | compilada | contemporania | no | `mico-interculturalitat` |
 | [Els nats a Andorra](temes/societat/immigracio/els-nats-a-andorra.md) | `temes/societat/immigracio` | compilada | contemporania | no | `debat-2a-diada-migracions` |

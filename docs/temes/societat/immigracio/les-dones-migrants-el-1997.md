@@ -197,3 +197,4 @@ Barbero descriu bé **l'efecte**: un règim fet de decrets i de quotes anuals
 - [Per què tothom s'hi sentia integrat](./per-que-tothom-shi-sentia-integrat.md) — la mateixa Diada, des de la sociologia.
 - [La salut mental](../sanitat/la-salut-mental.md)
 - [La crisi de l'habitatge](../habitatge/la-crisi-de-lhabitatge.md)
+- [Apte per residir](./apte-per-residir.md) — què queda d'aquest control mèdic a la llei del 2012, i on s'ha de buscar el protocol.

@@ -195,3 +195,4 @@ mesos.
 - [Per què tothom s'hi sentia integrat](./per-que-tothom-shi-sentia-integrat.md) — la interlocució que demanaven.
 - [On falla la integració](./on-falla-la-integracio.md) — el permís lligat al contracte.
 - [El mercat de treball dual](./el-mercat-de-treball-dual.md)
+- [Apte per residir](./apte-per-residir.md) — la mateixa llei, pel filtre mèdic i el fitxer.

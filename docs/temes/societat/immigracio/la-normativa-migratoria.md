@@ -344,3 +344,4 @@ Vegeu [la llei d'immigració del 2012](./la-llei-dimmigracio-del-2012.md).
 - [Les xifres que no quadren](../demografia/les-xifres-que-no-quadren.md) — el mateix tipus de problema, en una altra sèrie.
 - [El diagnòstic de 1989](./el-diagnostic-de-1989.md) — el retrat social, vuit anys abans.
 - [La llei d'immigració del 2012](./la-llei-dimmigracio-del-2012.md) — on desemboca tota aquesta cadena.
+- [Apte per residir](./apte-per-residir.md) — el filtre mèdic, del Reglament del 1993 a la llei del 2012.
