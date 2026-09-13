@@ -304,6 +304,19 @@ avís de lectura per a
 > historiografia d'Andorra, com a conseqüència, en part, de la dificultat per
 > accedir a la documentació privada.»**
 
+**Correcció d'atribució, 2026-09-13**: **aquesta frase no és de la Viquipèdia.**
+**És una citació literal d'**Albert Villaró, *Estudis polítics i historiografia
+andorrana. Un estat de la qüestió*, **Institut d'Estudis Andorrans, març del
+2018** ([font](../../../fonts/villaro-estat-questio-historiografia.md)), **que
+l'article reprodueix amb referència i que el corpus no havia comprovat.**
+**Vegeu [les tres fases de la historiografia andorrana](../historiografia/les-tres-fases.md).**
+
+**I la font original hi afegeix una cronologia que el corpus no tenia**: **les
+grans famílies «tenen les arrels de la seva puixança en els segles XVI i
+sobretot el XVIII», i «no és fins al segle XIX que troben el punt d'eclosió, en
+un procés paral·lel d'obertura econòmica a nous mercats i de participació
+política».**
+
 **El corpus ha obert una branca amb aquest buit com a raó de ser**:
 [les grans famílies](../../economia/les-grans-families/README.md). **No la pot
 omplir —no té accés a documentació privada— però hi reuneix el que és públic i

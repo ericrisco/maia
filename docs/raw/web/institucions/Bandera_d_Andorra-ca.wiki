@@ -1,0 +1,140 @@
+{{Infotaula bandera
+|Proporcions = 7:10
+}}
+La '''bandera d'[[Andorra]]''' es va adoptar el [[1866]]. El disseny de la bandera consisteix en una combinació tricolor vertical de blau, groc i vermell amb l'[[escut d'Andorra|escut d'armes]] al centre.
+
+Fins a l'any [[1866]] Andorra no va tenir una bandera oficial. S'especula que s'utilitzava una ensenya basada en els colors medievals [[Bandera de Catalunya|catalans]] (com a ensenya reial de la [[Corona d'Aragó]]) i la [[Comtat de Foix|casa de Foix]]; normalment franges verticals (si bé de vegades també s'utilitzava en format horitzontal) de color groc i vermell.
+
+A partir de l'11 de desembre de [[1866]] s'establí com a oficial una bandera que barreja el blau de la [[Bandera de França|bandera francesa]] i el groc i vermell tradicionals del [[Comtat de Foix]] i el [[Principat de Catalunya]]. El disseny va ser acordat entre [[Guillem d'Areny-Plandolit]], Bonaventura Moles, Tomàs Palmitjavila i [[Napoleó III]] durant una visita de la delegació andorrana per presentar-li la [[Nova Reforma]] a l'emperador. També es planteja hipòtesi que la participació d'Andorra en l'Exposició Universal de París del 1867, en què va compartir un palau amb [[Luxemburg]], [[Mònaco]] i [[San Marino]] contribuís a la creació de la bandera.<ref name=SAC>{{ref-llibre |nom=Gerhard |cognom=Lang-Valchs |títol=Andorra, país de pas i de refugi |pàgines=85-88 |lloc=Andorra |editorial=Societat Andorrana de Ciències |any=2016 |isbn=978-99920-61-30-5}}</ref>
+
+Amb tot l'ordre, l'orientació dels colors i la presència de l'escut d'armes no van quedar ben establerts fins al 1942. Abans es podien trobar diversos dissenys de la mateixa.<ref name=":0">{{Ref-publicació|cognom=Chica Fernàndez|nom=Pau|article=La bandera andorrana|publicació=Arxiu Nacional d'Andorra|url=https://www.historia.ad/wp-content/uploads/2025/03/ANA_Monografic_BANDERA_WEB.pdf|data=març 2025}}</ref>
+
+L'escut d'armes andorrà correspon al que es troba a la façana de la [[Casa de la Vall]], que el [[Consell de la Terra]], sota el mandat del [[Síndic General (Andorra)|Síndic General]] [[Joan Antoni Torres]], va comprar el 1702 per reunir-s'hi. La forma de l'escut correspon exactament a la descripció que el Manual Digest en féu el 1748.<ref name=SAC/>
+
+Quan Andorra es va convertir en un estat de dret (aprovació de la Constitució el 1993) i va ingressar a l'ONU (1994), el 1996 la bandera oficial va ser fixada amb franges verticals i amb l'escut del país al centre. S'hi va haver d'incloure l'escut per evitar confusions amb la [[bandera del Txad]], que té els mateixos colors que la d'Andorra, tot i que a Andorra es poden veure banderes sense escut perquè n'està permès l'ús a l'interior del país. Les [[bandera de Romania|banderes de Romania]] i [[bandera de Moldàvia|Moldàvia]] també tenen una gran semblança amb l'andorrana.
+
+== Construcció i dimensions ==
+[[Fitxer:Flag of Andorra (construction).svg|miniatura|esquerra|top|upright=2|Plantilla de construcció de la bandera.]]{{Clear}}
+
+=== Colors ===
+Els colors oficials de la bandera d'Andorra estan recollits a la ''Normativa gràfica per a la reproducció de l'escut i la bandera'' de l'Oficina de Marques i aprovada pel govern d'Andorra el 5 de maig de 1999.<ref>{{ref-web |url=https://www.ompa.ad/normes-grafiques |consulta=21 gener 2024 |títol=Llibre de normes gràfiques per a la reproducció i aplicació dels signes d'Estat per als quals el Govern és autoritat competent |editor=Govern d'Andorra}}</ref>
+{| width="60%" border=1 cellpadding=2 cellspacing=0 style="background: #f9f9f9; border: 1px solid #aaaaaa; border-collapse: collapse; white-space: nowrap; text-align: left"
+|- style="text-align: center; background: #eee"
+! Model de color
+!style="background:#10069F; color:white"| Blau
+!style="background:#FEDD00; color:black"| Groc
+!style="background:#D50032; color:white"| Vermell
+!style="background:#C6AA76; color:black"| Marró
+|-
+| [[Pantone]]
+| 072C
+| Groc C
+| 199 C
+| 478 C
+|-
+| [[Model de color CMYK|CMYK]]<ref name="FlagColorCodes">{{ref-web |url=https://www.flagcolorcodes.com/andorra |consulta=21 gener 2024 |títol=Andorra Flag Color Codes |editor=Flag Color Codes |anglès}}</ref>
+| 100-90-0-7
+| 0-1-100-0
+| 0-100-79-0
+| 13-25-52-6
+|-
+| [[Model de color RGB|RGB]]<ref name="FlagColorCodes"/>
+| 16, 6, 159
+| 254, 221, 0
+| 213, 0, 50
+| 198, 170, 118
+|-
+| [[Colors HTML|HTML]]<ref name="FlagColorCodes"/>
+| #10069F
+| #FEDD00
+| #D50032
+| #C6AA76
+|}
+
+== Banderes històriques ==
+=== Banderes històriques del Consell General ===
+<gallery>
+Fitxer:Bandera andorrana consell 1866.svg|Bandera amb la que sembla que Napoleó III obsequià la delegació andorrana abans que s'hi cosís l'escut. (1866)
+Fitxer:Bandera andorrana consell 1867-1930.svg|Primera bandera documentada del consell i possiblement l'exhibida a l'exposició de París. (1867-1930)<ref name=":0"/><ref name="Ref">{{Ref-web|títol=Inventari general del patrimoni cultural d'Andorra|url=https://andorra.zetcom.net/ca/collection/item/14604/|consulta=2026-08-26}}</ref>
+Fitxer:Flag of Andorra (end of the 19th century-c. 1930s).svg|Bandera d'Andorra amb franges horitzontals i corona. (1898-1916)
+Fitxer:Bandera andorrana consell 1930-1952.svg|Bandera obsequiada per la SARB l'any 1930 utilitzada als anys 40 encara, retirada abans de 1952. (1930-1952)
+Fitxer:Flag of Andorra (1959–1971).svg|Bandera utilitzada pel consell a la seva sala ja als anys 60 fins als 90. (1952-1993)<ref>{{Ref-web|títol=Assemblea Magna|url=https://www.arxiuenlinia.ad/fotoweb/archives/5002-Fotografies/Fotografies/FP/FP_65514.jpg.info|consulta=2026-08-27|llengua=ca}}</ref><ref>{{Ref-web|títol=XII Copa d'Andorra 1986 i del III Criterium de pollets: lliurament de premis|url=https://www.arxiuenlinia.ad/fotoweb/archives/5002-Fotografies/Fotografies/ECA/ECA_1734.jpg.info|consulta=2026-08-27|llengua=ca}}</ref>
+</gallery>
+
+=== Altres banderes històriques ===
+<gallery>
+Fitxer:Flag of Andorra 1806.svg|Possible bandera d'Andorra des d'almenys el 1806 fins al 1866.
+Fitxer:Flag of Andorra (civil, horizontal).svg|Versió horitzontal de la bandera andorrana sense escut ni corona. La versió horitzontal més prevalent. (1866-1930)
+Fitxer:Andorra horitzontal variant3.svg|Variant vertical vista l'any 1908.
+Fitxer:Andorra horitzontal variant1.svg|Variant horitzontal vista l'any 1913 i 1920.
+Fitxer:Andorra horitzontal variant2.svg|Variant horitzontal vista l'any 1913.
+Fitxer:Flag of Andorra (1949–1959, 3-2).svg|Bandera utilitzada als anys 70.<ref>{{Ref-web|títol=Jocs Florals juvenils|url=https://www.arxiuenlinia.ad/fotoweb/archives/5002-Fotografies/Fotografies/FP/FP_08408.jpg.info|consulta=2026-08-27|llengua=ca}}</ref>
+</gallery>
+
+=== La bandera vertical (1866-actualitat) ===
+Després de ser acordats els colors de la bandera amb l'emperador francès l'any 1866 la bandera aparegué a l'[[Exposició Universal de París de 1867|exposició universal de 1867]] amb els colors i l'escut al mig. Aquesta primera bandera tricolor s'afirma en múltiples fonts que va ser un obsequi de Napoleó III i que posteriorment s'hi afegiria un escut d'armes elaborat per [[Josep Oromí i Muntada|Josep Oromí]]. La possible primera aparició gràfica de la mateixa és en un gravat de 1881 on és descrita com blava, groga i vermella amb l'escut al centre. L'any 1902 el veguer francès afirma amb seguretat que la bandera és horitzontal com la francesa però amb color groc i amb l'escut al mig.
+
+La primera fotografia de la tricolor és de 1908 on en trobem una de petita amb l'ordre dels colors com a groc, vermell i blau i sense escut.
+
+El 1916 trobem ja una imatge de la bandera d'Andorra utilitzada al consell en aquells moments i probablement la mateixa de l'exposició. Amb els colors i l'escut. Aquesta bandera va ser la del consell fins al 1930 quan la [[Societat andorrana de residents a Barcelona|SARB]] en va obsequiar una de nova al consell. Ambdues duien l'escut amb una corona. La bandera de l'exposició es troba avui a la col·lecció de l'inventari general del patrimoni cultural d'Andorra.<ref name="Ref"/>
+
+Finalment l'any 1942 la bandera va ser declarada oficial i es va fixar el color i l'orientació dels pals. Simultàniament es van declarar oficials l'escut i l'himne. L'escut doncs va perdre la corona i les vaques van quedar fixades orientades cap a l'exterior.
+
+Amb tot el consell va seguir utilitzant la bandera amb l'escut coronat de la SARB als anys 40. Als anys 50 però va deixar de ser utilitzada i es va substituir per una amb l'escut sense corona.
+
+Curiosament l'any 1972 es va fer entrega als EUA d'una bandera amb corona per a que orbités la Lluna.<ref>{{Ref-web|títol=Bandera d’Andorra|url=https://www.arxiuenlinia.ad/fotoweb/archives/5002-Fotografies/Fotografies/FP/FP_05175.jpg.info|consulta=2026-08-27|llengua=ca}}</ref>
+
+No va ser fins a l'any 1996 que l'escut i els colors del mateix va quedar ben definit, així com els colors exactes de la bandera i l'orientació de les vaques de l'escut.<ref name=":0"/><ref>{{Ref-publicació|cognom=Chica Fernàndez|nom=Pau|article=L'escut d'Andorra|publicació=Arxiu Nacional d'Andorra|url=https://www.historia.ad/wp-content/uploads/2025/03/ANA_Monografic_ESCUT_WEB.pdf|data=Març 2025}}</ref>
+
+=== La bandera horitzontal (1898-1930) ===
+Diverses versions de la bandera andorrana amb franges horitzontals van ser utilitzades simultàniament amb la bandera de franges verticals. La trobem ja descrita l'any 1898 per Harold Spencer, qui relata:
+
+'''Traducció'''
+
+''No vam tenir la fortuna de veure el [[Consell General d'Andorra|Consell General Andorrà]] en una sessió (...). Durant les sessions, la bandera andorrana, amb tres franjes horitzontals de blau, groc i vermell i una corona al centre, penja de la finestra.''
+
+'''Original'''
+
+''We were not fortunate enough to see the Andorran Council General in session (...). During the session the Andorran flag—with three horizontal lines of blue, yellow, and red, and a crown in the centre— hangs out of the window.'' <ref>{{cite book |last1=Harold Spender |title=Through the High Pyrenees |url=https://archive.org/details/throughhighpyren00spen |date=1898 |publisher=A. D. Innes, Limited |isbn=9781331882091 |page=[https://archive.org/details/throughhighpyren00spen/page/67 67]}}</ref>
+
+Lewis Leary descriu la mateixa bandera l'any 1911 i afirma que va ser creada l'any 1866 pel iniciativa del [[Partit conservador (Andorra)|partit conservador]] i que no havia estat aprovada per cap dels [[Copríncep d'Andorra|coprinceps]].<ref>{{Ref-llibre|cognom=Leary|nom=Lewis Gaston|títol=Andorra, the hidden republic|url=https://archive.org/details/andorrahiddenrep00lear/page/148/mode/2up|llengua=Anglès|data=1912|editorial=McBride, Nast & Company|lloc=Nova York|pàgines=149-150}}</ref>
+
+Una altra versió de la bandera horitzontal la trobem engalanant un balcó de Sant Julià de Lòria al 1913 amb els colors groc, vermell i blau en aquest ordre, i en una de 1920 amb els colors capgirats (blau, vermell i groc).
+
+A l'edició del [[National Geographic (revista)|National Geographic]] d'octubre de 1917 apareixen descrites i il·lustrades l'horitzontal amb la corona, la bicolor groga i l'escut del copríncep laic.<ref>{{Ref-publicació|article=The flags of Europe, Asia and Africa|publicació=National Geographic Society|url=http://www.biodiversitylibrary.org/page/40475313|data=Octubre 1917|pàgines=354, 372}}</ref> Il·lustracions semblants apareixen també al num. 26 de la revista ''Blanco y Negro'' al 1936.
+[[Fitxer:Flag and shield of Andorra NatGeo 1916.png|miniatura|Il·lustració de la bandera horitzontal andorrana a la publicació National Geographic. Juntament amb l'escut laic i la bicolor.]]
+En trobem més evidències en cartells de propaganda [[Unió de Repúbliques Socialistes Soviètiques|soviètica]] al 1958.<ref>{{Ref-web|títol=Плакат "Да здравствует мир! Долой войну!". Бурова О. К., Иванов В.С. - Плакаты СССР {{!}} rus-gal.ru|url=https://rus-gal.ru/works/plakat-da-zdravstvuet-mir-doloj-vojnu/|consulta=2026-08-24|llengua=ru-RU}}</ref>
+
+També apareix una tricolor horitzontal sense corona a una postal de la plaça de toros d'[[Les Escaldes|Escaldes]]. Espai que va existir entre 1961 i 1974.<ref>{{Ref-web|títol=Escaldes, anys 60 {{!}} Bondia|url=https://www.bondia.ad/vist-i-no-vist/escaldes-anys-60-18|consulta=2026-08-24|llengua=ca}}</ref><ref>{{Ref-web|títol=POSTALES DE ANDORRA, ANTIGUA FOTO POSTAL DE PRINCIPADO DE ANDORRA, LES ESCALDES, PLAZA DE TOROS, N. 2059, ED. AGATA|url=https://www.tesorosdelayer.com/esp/lote.php?id=92225|consulta=2026-08-24|llengua=castellà}}</ref>
+
+Trobem encara una bandera física produïda als anys 80 per a la Unió Soviètica.<ref>{{Ref-web|títol=Help me identify this flag made for the USSR Navy in the 80's|url=https://www.reddit.com/r/vexillology/comments/16ig8vi/help_me_identify_this_flag_made_for_the_ussr_navy/|consulta=2026-08-24|llengua=Anglès}}</ref>
+
+A la col·lecció de patrimoni cultural d'Andorra es conserva també una bandera horitzontal històrica del segle XX si bé sense corona.<ref>{{Ref-web|títol=Patrimoni Cultural d’Andorra|url=https://andorra.zetcom.net/ca/collection/item/10822/|consulta=2026-08-26}}</ref>
+
+Amb tot sembla que a partir dels anys 30 la popularitat d'aquesta versió de la bandera va decaure i es va estandarditzar la versió vertical. Tampoc resulta clar que realment fos utilitzada pel consell i existeix la possibilitat que fos un error de Spencer reproduït per Leary.<ref name=":0"/>
+
+Malgrat això, la bandera horitzontal s'ha seguit utilitzant (sense cap corona) per cobrir balcons, parets i espais on la vertical no encaixés bé.<ref>{{Ref-web|títol=XI Copa d'Andorra 1984: lliurament de premis|url=https://www.arxiuenlinia.ad/fotoweb/archives/5002-Fotografies/Fotografies/ECA/ECA_1333.jpg.info|consulta=2026-08-27|llengua=ca}}</ref>
+
+== Altres banderes ==
+<gallery>
+Imatge:Flag of Andorra (civil).svg|Bandera civil
+</gallery>
+
+== Referències ==
+{{Referències}}
+
+== Vegeu també ==
+* [[Escuts i banderes d'Andorra]]
+
+== Enllaços externs ==
+* [http://membres.lycos.fr/jolle/Andorra.htm Història i diverses banderes andorranes] {{Ca}}
+* [https://www.andorraantiga.com/historia-de-la-bandera-i-l-escut-d-andorra.html Història i creació de la nostra bandera]
+
+{{Commonscat}}
+{{Banderes d'Europa}}
+{{Autoritat}}
+
+{{ORDENA:Bandera D'Andorra}}
+[[Categoria:Símbols d'Andorra]]
+[[Categoria:Banderes estatals d'Europa|Andorra]]
+[[Categoria:Banderes dels Països Catalans]]

@@ -1,0 +1,32 @@
+{{Infotaula indret}}
+[[Fitxer:Balma de la Margineda.jpg|miniatura|Balma de la Margineda]]
+El jaciment arqueològic de la '''Balma de la Margineda''' es troba en una [[balma]] sota un penya-segat calcari a 970 m d'altitud a la vall del [[Valira|riu Valira]] envoltat per cims que s'eleven fins als 2.000 m. Es troba al llogaret de [[la Margineda]], en el terme de la parròquia d'[[Andorra la Vella]].
+
+El jaciment va ser descobert per [[Pere Canturri Montanya|Pere Canturri]] l'any 1959 i ha resultat ser un dels més importants per conèixer la [[Andorra durant la prehistòria|prehistòria andorrana]] i pirinenca. El 1979 es van iniciar unes noves excavacions a la balma que es van perllongar fins a l'any 1991, sota la direcció dels arqueòlegs Jean Guilaine i Michel Martzluff, i posteriorment de Michel Barbaza, i promogudes per l'[[Institut d'Estudis Andorrans]] i per Patrimoni Cultural d'Andorra.<ref>{{Ref-web|url=https://www.cultura.ad/banc/Cerca3_Inventari.php?id=135|títol=Cercador d'inventari: balma de la Margineda|consulta=25 març 2024|llengua=ca|editor=Ministeri de Cultura, Govern d'Andorra}}</ref>
+
+Les excavacions fetes permeten situar l'ocupació d'aquest abric durant el [[Paleolític]] (des dels volts del 11.700 aC), el [[Mesolític]] i el [[Neolític antic]] (fins al 4.500 aC), és a dir, durant almenys 7.000 anys.<ref name=:0>{{Ref-llibre|títol=Les excavacions a la balma de la Margineda (1979-1991)|editorial=Minister d'Afers Socials i Cultura, Govern d'Andorra|data=Juny 1995|lloc=Andorra|isbn=978-99920-0-078-6|llengua=ca|coautors=Jean Guilaine, Michel Martzluff et al.}}</ref><ref>{{Ref-web|url=https://www.historia.ad/wp-content/uploads/2023/01/Relat-cronologic-02-prehistoria.pdf|títol=La prehistòria de les valls d'Andorra (14.000-2.500 abans d'ara)|consulta=22 març 2024|llengua=ca|editor=Departament de Patrimoni Cultural del Govern d'Andorra|format=PDF}}</ref>
+
+Els primers pobladors de la Balma de la Margineda pertanyen a la cultura aziliana, que es va estendre entre el Cantàbric i els Alps fa entre 14.000 i 12.000 anys. Es creu que aquests pobladors venien de la conca de l'Ebre tot i que alguns estudiosos creuen que podien venir de més lluny.<ref name=:1>{{Ref-web|títol=Cultura prepara accions per difondre el jaciment de la Balma de la Margineda|url=https://www.altaveu.com/actualitat/cultura/cultura-prepara-accions-difondre-jaciment-balma-margineda_44393_102.html|consulta=2024-03-25|llengua=ca}}</ref>
+
+En l'etapa paleolítica, els caçadors van arribar a la balma atrets per la [[cabra pirinenca]], que vivia als espadats. Venien a l'inici de la tardor, quan les femelles i els exemplars joves s.agrupaven a l'entorn dels mascles que competien per l'aparellament, cosa que els feia més vulnerables. Altres espècies cinegètiques, presents en menor mesura en l'entorn, són el [[Cérvols|cérvol]], l'[[Isard pirinenc|isard]] i el [[Senglar|porc fer]]. Els cossos d'aquests animals s.espellaven i es tallaven a la balma, amb ganivets de pedra, i els ossos es trencaven per extreure.n el moll. Les pells dels ungulats i els pelatges d'alguns cànids (llops o guineus) es tractaven per fer-ne vestits: s'hi han trobat punxons per perforar el cuiro i fragments d'agulles de cosir.
+
+Durant el Mesolític, la balma hauria pogut ser un abric de pastors vinguts per fer estiuar el bestiar i per recollir també fruits del bosc. S'hi han trobat restes animals atribuïbles a espècies domèstiques. David Geddès estima que hi podien ser presents cabres i ovelles, mentre que J. E. Borchier afirma que només podia tractar-se de cabres, sense excloure la possibilitat d'una utilització hivernal de l'espai per part de l'isard o de la cabra pirinenca. Si fos així, no es tractaria, doncs, d'una espècie ramadera.
+
+S'ha observat també la presència durant el Neolític de cereals cultivats: pisana bessona (''Triticum dicoccum''), blat beixa o blat compacte (''Triticum aestivium-compactum'') i [[ordi]] (''Hordeum vulgare''). No es descarta però tampoc es pot assegurar l'existència, a partir d'aquell moment, de camps cultivats a la vall del Valira.
+
+Es considera, en canvi, que la [[pesca]] va atraure poc l'atenció i l'interès dels pastors de la balma de la Margineda. La captura de [[Truita de riu|truites]], en tot cas, es devia fer en temporada estival (entesa en un sentit ampli, de març a desembre).
+
+En aquest jaciment s'hi han trobant, en 12 estrats a profunditat creixent, un total de 31.400 artefactes, dels quals 1.776 eren eines. També hi han aparegut restes d'espines de truita, un arpó, un micròlit triangular, diferents eines de pedra per caçar i d'altres per treballar les pells de les cabres o un gratador denticular.<ref name=:1/>
+
+Una peça trobada que té un interès particular és un petit còdol (28,6 mm de llarg per 10,9 mm d'ample, amb un pes de 9 g) amb un motiu triangular gravat, l'anàlisi tecnològica del qual ha permès establir que era "llegit" amb el vèrtex cap avall, és a dir, amb la mateixa orientació en què s'observen les representacions dites "vulvars" a les parets de coves. L'anàlisi tecnològica també suggereix que l'autor del gravat devia ser dretà.<ref name=:0/>
+
+== Referències ==
+{{Referències}}
+
+[[Categoria:Jaciments arqueològics d'Europa]]
+[[Categoria:Andorra la Vella]]
+[[Categoria:Balmes|Margineda]]
+[[Categoria:Història d'Andorra]]
+[[Categoria:Jaciments del Mesolític]]
+[[Categoria:Jaciments neolítics]]
+[[Categoria:Béns d'interès cultural d'Andorra]]

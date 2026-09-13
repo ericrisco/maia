@@ -1,0 +1,17 @@
+{{Infotaula publicació periòdica}}
+'''''Urgellia''''', amb el subtítol '''''Urgellia: Anuari d'estudis històrics dels antics comtats de Cerdanya, Urgell i Pallars, d'Andorra i la Vall d'Aran''''' és una revista d'[[història]] editada des de l'any [[1978]] pel [[Bisbat d'Urgell]] i la Societat Cultural Urgellitana.<ref name="dhc">{{Ref-publicació |cognom=Camiade Boyer |nom=Martina |títol=Urgellia |publicació= [[Diccionari enciclopèdic d'historiografia catalana]] | editorial=Barcelona: [[Grup Enciclopèdia Catalana]] |url= https://www.enciclopedia.cat/ec-historiog-1482.xml | consulta=4 juliol 2020}}</ref><ref>{{ref-publicació |cognom=Bonnassie |nom=Pierre |títol=Une nouvelle revue : Urgellia, Anuari d'estudis historics dels antics comtats de Cerdanya, Urgell i Pallars, d' Andorra i la Vall d' Aran, I, 1978 |publicació=Annales du Midi: revue de la France méridionale |pàgines=346 |volum=Tom 91 |exemplar=Núm. 143 |url= https://www.persee.fr/doc/anami_0003-4398_1979_num_91_143_1768_t1_0346_0000_2 |issn=0003-4398 |data=1979 | consulta=5 juliol 2020}}</ref>
+
+''Urgellia'' es publica en llengua catalana. Té com a finalitat donar a conèixer la història religiosa, cultural, artística i institucional de les comarques que formen part del bisbat d'Urgell i d'aquelles altres que li pertanyien en el passat fins a la seva incorporació a altres diòcesis. Els volums publicats són d'una extensió aproximada de 500 pàgines, i comprenen estudis monogràfics, documents, inventaris de manuscrits, incunables o llibres rars, i catàlegs de museus, esglésies, monuments i obres d'art.<ref name="dhc"/> La història d'Urgellia va començar el 1977, un any abans de sortir el primer volum publicat. L'aleshores bisbe [[Joan Martí i Alanis]] va creure convenient contribuir al coneixement de la història del [[Bisbat d'Urgell]], atresorada als seus arxius, i posar-la a l'abast del poble. Naixia, amb aquest propòsit, la Societat Cultural Urgel·litana, sota la direcció d'un insigne historiador, [[monjo]] de [[Monestir de Montserrat|Montserrat]], de seixanta anys, el pare Cebrià Baraut i Obiols, fill de cal Roca del Vilar de Cabó.<ref name="da"/> [[Cebrià Baraut i Obiols]] va dirigir els primers catorze volums, fins al 2001, el director d'Urgellia, i entre els seus redactors i col·laboradors més destacats cal esmentar [[Carme Batlle i Gallart]], [[Prim Bertran i Roigé]], [[Manuel Riu i Riu]], [[Enric Moliné i Coll]] i [[Benigne Marquès i Sala]].<ref name="dhc"/> Precisament, Carme Batlle també ha exercit com a directora al costat de mossèn Benigne Marquès, arxiver del Bisbat d'Urgell, que ho feu com a secretari.<ref name="da">{{ref-publicació |cognom=Pasques |nom=Jordi |títol='Urgellia', quaranta anys d'història. És un tresor amb ja moltes i moltes pàgines de la millor historiografia dels darrers 1.000 anys de gestes de la part muntanyenca, ‘ergo’ pirinenca, del Bisbat d'Urgell 
+|url= https://www.diariandorra.ad/noticies/opinio/2018/09/15/urgellia_quaranta_anys_historia_135510_1129.html |publicació= [[Diari d'Andorra]] |data=15/09/2018 | consulta=5 juliol 2020}}</ref>
+
+== Referències ==
+{{Referències}}
+
+[[Categoria:Revistes científiques]]
+[[Categoria:Bisbat d'Urgell]]
+[[Categoria:Història de la Cerdanya]]
+[[Categoria:Cultura de l'Urgell]]
+[[Categoria:Cultura del Pallars]]
+[[Categoria:Història d'Andorra]]
+[[Categoria:Història de la Vall d'Aran]]
+[[Categoria:Revistes de Catalunya en català]]

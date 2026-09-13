@@ -1,0 +1,41 @@
+{{Infotaula obra musical
+|títol=Le Val d'Andorre
+| imatge = Anne-Benoîte-Louise Lavoye in Halévy's Le Val d'Andorre.jpg
+|peu=Anne-Benoîte-Louise Lavoye com a Georgette
+* Georgette ([[soprano]])	 
+* Jacques Sincère ([[baix (veu)|baix]])	 
+* L'endormi (baix)	 
+* Le joyeux ([[tenor]])	 
+* Rose de Mai (soprano)	 
+* Saturnin (tenor)	 
+* Stéphan (tenor)	 
+* Thérése ([[mezzosoprano]])
+}}
+'''''Le Val d'Andorre''''' (La vall d'[[Andorra]]) és una [[òpera còmica]] en tres actes de [[Jacques Fromental Halévy|Fromental Halévy]], amb llibret de [[Jules-Henri Vernoy de Saint-Georges|Saint-Georges]].
+
+== Representacions ==
+L'òpera va ser estrenada l'[[11 de novembre]] de [[1848]] a l'[[Opéra-Comique]] de [[París]] amb el rol principal a càrrec de [[Charles-Amable Battaille]].<ref name="Enciclopèdia_Espasa_v._núm. 9">* [[Enciclopèdia Espasa]] ''Volum núm. 9, pàg. 1193-94'' ({{ISBN|84-239-4509-X}})</ref> Tot i que avui ha estat totalment oblidada, va constituir un dels més grans èxits de Halévy, gaudint de 165 representacions i capgirant l'aleshores precària situació econòmica del teatre. El crític de la parisenca ''[[Gazette et révue musicale]]'' va escriure « Aquest és el més brillant èxit absolut que hom recorda a l'Opéra-Comique ». Va ser traduïda a l'alemany i representada l'any [[1849]] a [[Leipzig]], on va rebre lloances d'[[Ignaz Moscheles]] - « Música de genuí caràcter dramàtic, amb una melodia més fluida que en les altres obres de l'autor. El subjecte està treballat amb intel·ligència i és molt expressiva ».<ref>Moscheles (1873), vol II, p. 203</ref> L'any 1850 va ser estrenada a [[Londres]], amb crítiques mediocres, però amb l'assistència de la [[Victòria I del Regne Unit|reina Victòria]]. Per a l'ocasió, la companyia de cantants francesos va haver d'afanyar-se a aprendre el ''[[God Save the Queen]]''.<ref>Jordan (1994), p. 137)</ref>
+
+A [[Madrid]] es va estrenar l'any [[1852]], amb gran èxit, la [[sarsuela]] ''El Valle de Andorra'', amb música de [[Joaquín Gaztambide]] i [[llibret]] de [[Luis de Olona]], basat en el llibret de Saint-George.
+
+Als [[Països Catalans]], l'òpera va ser estrenada parcialment el 25 de desembre de 2001 a l'[[Auditori Nacional d'Andorra]] en el tradicional concert de Nadal de l'[[ONCA]] i els Petits cantors. Tan sols es varen cantar les deu escenes del tercer acte.<ref name=Vilaweb>{{ref-notícia|títol=El Cor nacional cantarà a l'Auditori el tercer acte de l'òpera "Le val d'Andorre"|publicació=Vilaweb|url=http://www.vilaweb.cat/noticia/435040/20011128/cor-nacional-cantara-lauditori-tercer-acte-lopera-le-val-dandorre.html|data=28 de novembre de 2001}}</ref>
+
+== Argument ==
+L'òpera transcorre a [[Andorra]], on Stéphan intenta fugir a l'allistament en l'exèrcit francès. Stéphan és estimat alhora per la jove Rose de Mai; l'ama de Rose, la viuda Thérèse; i la rica Georgette. Quan ell és condemnat per [[deserció militar|deserció]], Rose el rescata amb uns diners furtats a Thérèse, i declarant que els diners pertanyen a Georgette. En un típicament improbable final sorpresa (inspirat en una escena de ''[[Les noces de Fígaro]]''), Rose resulta ser una germana de Thérèse perduda des de feia molt de temps, Georgette deixa el pas lliure, i Rose de Mai i Stéphan són lliures per contraure matrimoni.
+
+== Bibliografia ==
+* Ruth Jordan, ''Fromental Halévy, his Life and Music'', London (1994). {{ISBN|187108251X}}
+* Charlotte Moscheles, ''Life of Moscheles'', London (1872).
+
+== Referències ==
+{{Referències}}
+
+{{ORDENA:Val D'Andorre, Le}}
+[[Categoria:Opéra-comique]]
+[[Categoria:Òperes del Romanticisme]]
+[[Categoria:Òperes ambientades als Països Catalans]]
+[[Categoria:Òperes de la dècada del 1840]]
+[[Categoria:Cultura d'Andorra]]
+[[Categoria:Òperes estrenades a l'Opéra-Comique]]
+[[Categoria:Composicions musicals del 1848]]
+[[Categoria:Òperes en francès]]

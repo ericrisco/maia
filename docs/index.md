@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**713** documents · **157** fonts · **0** aptes com a model de llengua · **121** temes amb contingut.
+**714** documents · **158** fonts · **0** aptes com a model de llengua · **121** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -713,6 +713,7 @@
 | [La historiografia andorrana](temes/historia/historiografia/historiografia.md) | `temes/historia/historiografia` | compilada | contemporania | no | `viquipedia-ca` |
 | [La llegenda negra dels passadors](temes/historia/historiografia/la-llegenda-negra-dels-passadors.md) | `temes/historia/historiografia` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [Les Diades andorranes](temes/historia/historiografia/les-diades-andorranes.md) | `temes/historia/historiografia` | compilada | contemporania | no | `societat-andorrana-ciencies` |
+| [Les tres fases de la historiografia andorrana](temes/historia/historiografia/les-tres-fases.md) | `temes/historia/historiografia` | compilada | contemporania | no | `villaro-estat-questio-historiografia` |
 | [L'estat de la qüestió de les evasions](temes/historia/historiografia/lestat-de-la-questio-de-les-evasions.md) | `temes/historia/historiografia` | compilada | contemporania | no | `esteves-exili-i-evasions` |
 | [Lídia Armengol i Vila](temes/historia/historiografia/lidia-armengol-vila.md) | `temes/historia/historiografia` | compilada | contemporania | no | `viquipedia-ca` |
 
@@ -1449,6 +1450,7 @@
 | [`vilar-andorre-1904`](fonts/vilar-andorre-1904.md) | André Vilar · V. Giard & E. Brière, París · obra de 1904, domini públic | domini públic per antiguitat; digitalització de Google Books | si |
 | [`vilar-etat-ignore-1908`](fonts/vilar-etat-ignore-1908.md) | André Vilar · F. R. de Rudeval, éditeur, París · obra de 1908, domini públic | domini públic per antiguitat; digitalització de Google Books | si |
 | [`vilaweb-mort-sergi-mas`](fonts/vilaweb-mort-sergi-mas.md) | Partal, Maresma & Associats SL (VilaWeb) | drets reservats · citació breu amb atribució | False |
+| [`villaro-estat-questio-historiografia`](fonts/villaro-estat-questio-historiografia.md) | Institut d'Estudis Andorrans · Centre d'Estudis Històrics i Polítics | publicació institucional en accés obert al web de l'IEA | pendent |
 | [`vinas-nacionalitat-andorrana-1990`](fonts/vinas-nacionalitat-andorrana-1990.md) | Ramon Viñas i Farré · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`viquipedia-ca`](fonts/viquipedia-ca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-aeroport-andorra`](fonts/wikipedia-aeroport-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
