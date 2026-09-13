@@ -947,6 +947,17 @@ a *YAM*. La memòria cita la sol·licitud francesa anterior **94 02984**, de
 destil·lació al buit per sota de 100 °C, i explica que el nou aparell vol evitar
 la hidròlisi, la pèrdua de qualitat i el consum energètic dels sistemes previs.
 
+La publicació original identifica aquell número sense ambigüitat. La
+sol·licitud, presentada el **15/03/1994**, es publicà com a **FR 2 717 492 A1**
+el 22/09/1995 i com a B1 el 12/04/1996. La portada de l'INPI dona com a
+sol·licitant el **Commissariat à l'énergie atomique** i com a inventors Michel
+Silhol, Pierre Mondan i Pierre Denis. El procediment treballa habitualment a
+60-80 °C i 20-50 kPa, amb 75 °C/38 kPa com a punt preferit, i proposa bombeig
+discontinu per afavorir l'esclat cel·lular. Declara, en coriandre, 80,0 % de
+linalol davant del 63,6 % de la hidrodestil·lació comparativa i, en lavanda, un
+rendiment màxim del 6 % a 75 °C/38 kPa. Són resultats de la patent, no assaigs
+independents. [Patent CEA](https://patents.google.com/patent/FR2717492A1/fr).
+
 El [BOPI 13/45](https://www.inpi.fr/sites/default/files/import/bopis/bopi1345.pdf)
 registra per a `FR 94 02984` una «Concession de licence» —inscripció 197513— i
 dos actes connexos —197514 i 197515— practicats del 4 al 10 d'octubre de 2013,
