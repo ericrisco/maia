@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**469** documents · **119** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
+**470** documents · **120** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -209,6 +209,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Andorra 2020](temes/economia/transformacio-economica/andorra-2020.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `nomen-capital-social-2007` |
 | [L'economia el 1997](temes/economia/transformacio-economica/leconomia-el-1997.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `lluelles-aspectes-socioeconomics-1997` |
 | [Transformació econòmica](temes/economia/transformacio-economica/transformacio-economica.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `viquipedia-ca` |
 
@@ -1112,6 +1113,7 @@
 | [`mico-percepcio-medi-ambient`](fonts/mico-percepcio-medi-ambient.md) | Joan Micó i Ibáñez · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`molla-catala-andorra`](fonts/molla-catala-andorra.md) | Guillem Molla · Universitat de Girona · revista IANUA | publicació acadèmica en accés obert | pendent |
 | [`museus-itinerari-sergi-mas`](fonts/museus-itinerari-sergi-mas.md) | Govern d'Andorra · Ministeri de Cultura | drets reservats · contingut institucional públic | pendent |
+| [`nomen-capital-social-2007`](fonts/nomen-capital-social-2007.md) | Eusebi Nomen i Calvet · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`obiols-salut-mental`](fonts/obiols-salut-mental.md) | Joan Obiols i Llandrich · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
 | [`oranias-formacio-administracio`](fonts/oranias-formacio-administracio.md) | Imma Oranias i Estudis · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`palau-marti-identitat-andorrana-1994`](fonts/palau-marti-identitat-andorrana-1994.md) | Montserrat Palau i Martí · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |

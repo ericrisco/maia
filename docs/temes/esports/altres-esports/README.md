@@ -23,7 +23,9 @@ mirés els Jocs, no en tindria cap.**
 | Qui | Esport | Per què hi és |
 | --- | --- | --- |
 | **[Victoria Jiménez Kasintseva](./victoria-jimenez-kasintseva.md)** | **Tennis** | **Campiona júnior de l'Open d'Austràlia (2020)** i **la primera andorrana del top 100 mundial de l'era Open** |
+| **[Raül García Paolicchi](./raul-garcia-paolicchi.md)** | **Escacs** | **Medalla d'OR individual a l'Olimpíada d'Escacs del 1990** — **setze anys abans que Oms.** Mestre FIDE (1993), dues vegades campió d'Andorra |
 | **[Josep Oms](./josep-oms.md)** | **Escacs** | **Medalla d'OR individual a l'Olimpíada d'Escacs del 2006 jugant per Andorra** |
+| [Èric Cervós](./eric-cervos.md) | **Tennis** | **Jugador de Copa Davis per Andorra** (7-21) i dels Jocs dels Petits Estats 2017 |
 | [Lance Henderson de La Fuente](./lance-henderson.md) | Escacs | Gran Mestre; **el jugador amb més elo d'Andorra**; campió de les Petites Nacions Europees 2022 |
 | [Xavier Cardelús](./xavier-cardelus.md) | **Motociclisme** | Mundial de Supersport; fill d'un altre pilot |
 | [Cyril Despres](./cyril-despres.md) | **Motor** | **Cinc Dakars** — **resident a Andorra, però competint per França** |
@@ -51,9 +53,18 @@ mirés els Jocs, no en tindria cap.**
 d'Austràlia 2020, **amb catorze anys**, **la primera andorrana a guanyar un
 major júnior**.
 
-**2. Una medalla d'or internacional.** Josep Oms, **or individual a l'Olimpíada
-d'Escacs del 2006 jugant per Andorra**. **És l'única medalla d'or que el corpus
-documenta d'Andorra en cap competició internacional per països.**
+**2. Dues medalles d'or internacionals, totes dues d'escacs.**
+**[Raül García Paolicchi](./raul-garcia-paolicchi.md), or individual a
+l'Olimpíada d'Escacs del 1990**, i **[Josep Oms](./josep-oms.md), or individual
+a la del 2006**.
+
+> **Correcció del corpus.** Aquesta llista deia que la d'Oms era *«l'única
+> medalla d'or que el corpus documenta d'Andorra en cap competició internacional
+> per països»*. **Era falsa per setze anys.** La fitxa de García Paolicchi,
+> escrita el 2026-09-13, documenta un or individual el **1990**. **La frase
+> corregida és: les dues úniques medalles d'or que el corpus documenta d'Andorra
+> són de la mateixa disciplina i del mateix torneig, amb setze anys de
+> diferència.**
 
 **3. Una entrada al top 100 mundial.** Jiménez Kasintseva, **lloc 89 de la WTA
 el 16 de març del 2026** — **la primera persona d'Andorra, home o dona, que hi

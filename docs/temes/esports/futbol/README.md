@@ -90,15 +90,112 @@ basc naturalitzat, arrel portuguesa, mare belga. **La delegació esportiva
 andorrana és el cens andorrà**, i el corpus ho documenta fitxa a fitxa. Vegeu
 [la composició per nacionalitats](../../societat/demografia/la-composicio-per-nacionalitats.md).
 
+## Els altres cinquanta-tres
+
+**El 2026-09-13 el corpus tanca el buit que aquesta pàgina declarava obert.**
+Els **quaranta-quatre internacionals de 25 partits o més** ja hi eren tots. **Ara
+hi són també els cinquanta-tres de menys de 25**, un per un, amb el que la font
+en digui — **encara que d'alguns no en digui gairebé res**.
+
+**El criteri no ha canviat:** **la participació documentada és el criteri, no el
+resultat.** **Un sol partit internacional és una fitxa.** Set d'aquestes fitxes
+tenen **un únic partit**, i catorze **no en tenen ni el nombre**: **el corpus les
+escriu igualment i hi deixa escrit què és el que li falta.**
+
+| Qui | Partits | Què n'hi ha |
+| --- | --- | --- |
+| [Ferran Pol i Pérez](./ferran-pol.md) | 27 | Porter amb vint-i-set internacionalitats. Va debutar contra Albània el 2010. |
+| [Javier «Xavi» Andorrà i Julià](./xavi-andorra.md) | 24 | Davanter amb vint-i-quatre internacionalitats. Es diu Andorrà de cognom. |
+| [Antoni Sivera](./antoni-sivera.md) | 22 | Migcampista amb vint-i-dues internacionalitats. |
+| [Carlos Eduardo «Edu» Peppe i Britos](./carlos-peppe.md) | 21 | Migcampista uruguaià nacionalitzat andorrà, amb vint-i-una internacionalitats. |
+| [Joan Carles Toscano i Beltrán](./joan-toscano.md) | 21 | Davanter amb vint-i-una internacionalitats i set clubs. |
+| [Joel Guillén i García](./joel-guillen.md) | 21 | Central amb vint-i-una internacionalitats, format al FC Andorra. |
+| [Víctor Bernat i Cuadros](./victor-bernat.md) | 21 | Davanter amb vint-i-una internacionalitats. Va debutar contra les Illes Fèroe el 2020. |
+| [Aron Rodrigo i Tapia](./aron-rodrigo.md) | 12 | Extrem nascut a Lleida. Cedit pel FC Andorra al Mirandés. |
+| [David Maneiro](./david-maneiro.md) | 12 | Defensa amb dotze internacionalitats. |
+| [Guillaume Silvain López](./guillaume-lopez.md) | 12 | Davanter nascut a Toló. Juga al FC Santa Coloma. |
+| [Xavier Vieira i de Vasconcelos](./xavier-vieira.md) | 12 | Migcampista amb dotze internacionalitats. Porta el mateix cognom que Márcio Vieira. |
+| [Xavier Soria](./xavier-soria.md) | 10 | Migcampista amb deu internacionalitats. |
+| [Alexandre «Álex» Somoza i Losada](./alex-somoza.md) | 9 | Migcampista amb nou internacionalitats, avui entrenador de l'Inter d'Escaldes. |
+| [Alexandre Rubén Martínez i Gutiérrez](./alexandre-martinez.md) | 7 | Defensa amb set internacionalitats i dotze temporades a la UE Santa Coloma. |
+| [Albert Alavedra i Jiménez](./albert-alavedra.md) | 6 | Central amb sis internacionalitats. Nascut prop de Manresa, de mare andorrana. |
+| [Albert Reyes i Roig](./albert-reyes.md) | 6 | Migcampista amb sis internacionalitats. Va debutar contra Cap Verd el 2020. |
+| [Alfonso Sánchez](./alfonso-sanchez.md) | 6 | Porter amb sis internacionalitats. |
+| [Ian Bryan Olivera i de Oliveira](./ian-olivera.md) | 6 | Central del filial del Getafe, amb sis internacionalitats. |
+| [Izan Fernández i Vieitez](./izan-fernandez.md) | 6 | Davanter format al FC Andorra, amb sis internacionalitats. |
+| [Andreu Matos i Muñoz](./andreu-matos.md) | 5 | Davanter amb cinc internacionalitats. Juga al FC Santa Coloma. |
+| [Biel Borra i Font](./biel-borra.md) | 5 | Lateral dret format al Girona. Pare andorrà, mare de Banyoles. |
+| [Luigi San Nicolás i Schellens](./luigi-san-nicolas.md) | 5 | Davanter de vuit clubs andorrans, amb cinc internacionalitats. Cognom compartit amb Moisés San Nicolás. |
+| [Daniel «Dani» Ferrón i Pérez](./dani-ferron.md) | 4 | Defensa amb quatre internacionalitats. |
+| [Samir Bousenine](./samir-bousenine.md) | 4 | Extrem dret amb quatre internacionalitats i vuit clubs, tres d'ells francesos. |
+| [Èric de Pablos i Solà](./eric-de-pablos.md) | 4 | Lateral dret amb quatre internacionalitats. Va debutar substituint Moisés San Nicolás. |
+| [Albert «Berto» Rosas i Ubach](./albert-rosas.md) | 3 | Davanter format al FC Andorra. Va marcar setze gols en una temporada a Tercera. |
+| [Aleix Viladot i Caramés](./aleix-viladot.md) | 3 | Defensa que va jugar tres anys al futbol universitari dels Estats Units. |
+| [David Buxó](./david-buxo.md) | 3 | Migcampista amb tres internacionalitats. |
+| [Francesc Xavier Gil i Sánchez](./xavier-gil.md) | 3 | Defensa amb tres internacionalitats. Va debutar substituint Justo Ruiz el 2002. |
+| [Francisco Manuel «Xisco» Pires i Costa](./xisco-pires.md) | 3 | Porter nascut a Portugal, amb tres internacionalitats. |
+| [Francisco «Kiko» Pomares i Ortega](./kiko-pomares.md) | 3 | Lateral esquerre amb tres internacionalitats. És andorrà per part de mare. |
+| [Èric Vales i Ramos](./eric-vales.md) | 3 | Central amb tres internacionalitats. Va debutar contra Àustria el 2022. |
+| [Èric de las Heras i Izquierdo](./eric-de-las-heras.md) | 3 | Migcampista que va jugar a la tercera divisió romanesa. Una lesió li va tallar la temporada. |
+| [Jordi Benet](./jordi-benet.md) | 2 | Migcampista amb dues internacionalitats. |
+| [Marc Ferré i Nazzaro](./marc-ferre.md) | 2 | Migcampista amb 157 partits al FC Andorra i dues internacionalitats. |
+| [Cristian Roig i Mauri](./cristian-roig.md) | 1 | Defensa amb una sola internacionalitat, el 1998. |
+| [Joaquim Salvat i Besora](./joaquim-besora.md) | 1 | Davanter i exjugador de futbol sala, amb una internacionalitat. |
+| [Àlex Rodríguez](./alex-rodriguez.md) | 1 | Lateral esquerre amb una sola internacionalitat. |
+| [Adrián «Adri» Rodrígues i Gonçalves](./adri-rodrigues.md) | *(no consta)* | Lateral dret internacional des del 2012, després de passar per la sub-21. |
+| [Adrián «Dacu» Da Cunha i Costa Gomes](./dacu.md) | *(no consta)* | Lateral esquerre. Va debutar amb Andorra contra Sud-àfrica el 2024. |
+| [Alexandre «Álex» Ruiz i Campagne](./alex-ruiz.md) | *(no consta)* | Porter internacional des del 2025. Format al Lió i a la Reial Societat, on va viure amb Antoine Griezmann. |
+| [Antoni Giribet i Fiter](./antoni-giribet.md) | *(no consta)* | Futbolista i activista. Va ser jugador-president de la UE Sant Julià. |
+| [Daniel Mejías i Hurtado](./daniel-mejias.md) | *(no consta)* | Migcampista internacional des del 2010, amb cinc partits. Va morir el 2022, als quaranta anys. |
+| [Diego Alejandro Nájera i Quintero](./diego-najera.md) | *(no consta)* | Davanter mexicà del CF Esperança d'Andorra. Format al Tecos de Guadalajara. |
+| [Francisc Joel Martínez i Vilar](./joel-martinez.md) | *(no consta)* | Migcampista retirat, avui cap de l'escola de futbol de l'Inter d'Escaldes. |
+| [Iván Rodríguez i Martos](./ivan-rodriguez.md) | *(no consta)* | Lateral esquerre que va estar tres anys a la Masia del Barça. |
+| [João Pedro da Silva Teixeira](./joao-teixeira.md) | *(no consta)* | Migcampista nascut a Portugal. Va debutar amb Andorra contra Sud-àfrica el 2024. |
+| [Leonel Alves](./leonel-alves.md) | *(no consta)* | Migcampista defensiu internacional des del 2014. |
+| [Luis Blanco](./luis-blanco.md) | *(no consta)* | Va debutar amb Andorra el 2020, a la Lliga de Nacions contra les Illes Fèroe. |
+| [Pau Klaus Babot i Müller](./pau-babot.md) | *(no consta)* | Migcampista nascut a Frankfurt, de mare andorrana i pare alemany. Juga a la Regionalliga. |
+| [Richard Imbernón i Ríos](./richard-imbernon.md) | *(no consta)* | Entrenador del CF Esperança d'Andorra. Va jugar a sis clubs andorrans. |
+| [Víctor Hugo Moreira i Teixeira](./victor-moreira.md) | *(no consta)* | Migcampista internacional per Andorra. |
+| [Ángel Martín](./angel-martin.md) | *(no consta)* | Va jugar el primer partit de la història de la selecció d'Andorra amb disset anys i onze mesos. |
+
+### El que aquest recompte deixa veure
+
+**1. La carrera de club i la carrera internacional no tenen per què coincidir.**
+**[Marc Ferré](./marc-ferre.md) va jugar 157 partits amb el FC Andorra i 2 amb
+la selecció.** **[Xavi Andorrà](./xavi-andorra.md), 24 internacionalitats i deu
+clubs.** **Són els dos extrems del mateix futbol.**
+
+**2. La nacionalitat andorrana es transmet, i es veu.** **Quatre d'aquestes
+fitxes** —[Alavedra](./albert-alavedra.md), [Pomares](./kiko-pomares.md),
+[Babot](./pau-babot.md), [Borra](./biel-borra.md)— **són andorrans per la mare**,
+nascuts a Castellbell, Sant Joan d'Alacant, Frankfurt i Barcelona. **En els quatre
+casos l'andorrana és la mare.** Vegeu
+[nacionalitat i residència](../../institucions/nacionalitat-i-residencia/README.md).
+
+**3. La frontera també és de futbolistes.** **França**
+([López](./guillaume-lopez.md), [Ruiz](./alex-ruiz.md),
+[Bousenine](./samir-bousenine.md)), **Portugal**
+([Teixeira](./joao-teixeira.md), [Pires](./xisco-pires.md)), **l'Uruguai**
+([Peppe](./carlos-peppe.md)), **Mèxic** ([Nájera](./diego-najera.md)),
+**Romania** ([De las Heras](./eric-de-las-heras.md)) i **els Estats Units**
+([Viladot](./aleix-viladot.md)).
+
+**4. Sis exfutbolistes andorrans dirigeixen o formen.**
+[Koldo Álvarez](./koldo-alvarez.md), [Óscar Sonejee](./oscar-sonejee.md),
+[Jesús Lucendo](./jesus-lucendo.md), [Álex Somoza](./alex-somoza.md),
+[Joel Martínez](./joel-martinez.md) i [Richard Imbernón](./richard-imbernon.md).
+**Ja no és una observació: és un patró documentat.**
+
 ## El que falta
 
 - **Les tretze victòries que el corpus no coneix.**
 - **La Primera Divisió andorrana**, el **FC Andorra** i la **Federació Andorrana
   de Futbol**: cap fitxa de cap.
 - **La selecció femenina**: existeix i el corpus no en té ni un nom.
-- **Els futbolistes de menys de 25 internacionalitats**: el corpus n'ha baixat
-  unes vuitanta entrades d'enciclopèdia i **encara no les ha fitxades**. Els
-  quaranta-quatre de 25 partits o més ja hi són tots.
+- ~~**Els futbolistes de menys de 25 internacionalitats.**~~ — **tancat el
+  2026-09-13**: [els altres cinquanta-tres](#els-altres-cinquanta-tres). **El que
+  segueix obert és el gruix de cadascun**: de catorze no se'n sap ni el nombre de
+  partits, i de gairebé cap no se'n sap la data ni el rival.
 
 ## Related
 

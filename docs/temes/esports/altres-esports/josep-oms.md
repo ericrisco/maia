@@ -22,8 +22,14 @@ d'Escacs del 2006 jugant per Andorra**
 > «És **quatre vegades campió d'Andorra d'escacs (2003-2006)** i **guanyador de
 > medalla d'or individual a l'Olimpíada d'Escacs (2006)**.»
 
-**El corpus ho destaca perquè és, fins on sap, l'única medalla d'or que Andorra
-ha guanyat en una competició internacional per països.**
+**El corpus ho destaca, i alhora s'ha de corregir.** Aquesta fitxa deia que era
+**«l'única medalla d'or que Andorra ha guanyat en una competició internacional
+per països»**. **No ho és.** **[Raül García Paolicchi](./raul-garcia-paolicchi.md)
+en va guanyar una altra, també individual i també a una Olimpíada d'Escacs, el
+**1990** — **setze anys abans**.
+
+**Les dues medalles d'or que el corpus documenta d'Andorra són d'escacs, i totes
+dues del mateix torneig.**
 
 I hi posa la precisió que cal: **les Olimpíades d'Escacs donen medalles per
 tauler** —al millor rendiment de cada posició— **a més de les medalles per
