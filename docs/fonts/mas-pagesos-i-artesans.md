@@ -32,6 +32,13 @@ Ponència de **David Mas i Canalís** —historiador i **tècnic de l'àrea
 d'Inventari i Conservació del Govern d'Andorra**— a la **15a Diada Andorrana**
 de la Universitat Catalana d'Estiu, **Prada de Conflent, 2002**.
 
+El mateix autor havia signat **vuit anys abans**, a la 7a Diada, [*Relacions
+comercials entre Catalunya i Andorra a l'edat
+moderna*](./mas-relacions-comercials-1994.md), que **dona les xifres, les dates i
+els documents que aquesta ponència només resumeix**. Qui llegeixi aquesta hauria
+de llegir l'altra: **diverses coses que aquí queden com a buit, allà estan
+tancades**.
+
 És, per al corpus, **la font que treu l'economia andorrana antiga del terreny de
 la postal**. Comença desactivant l'expressió que fa mal:
 

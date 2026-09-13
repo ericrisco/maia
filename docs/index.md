@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**353** documents · **104** fonts · **0** aptes com a model de llengua · **110** temes amb contingut.
+**350** documents · **104** fonts · **0** aptes com a model de llengua · **109** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -177,6 +177,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Comerç](temes/economia/comerc/comerc.md) | `temes/economia/comerc` | compilada | contemporania | no | `viquipedia-ca` |
+| [El comerç a l'edat moderna](temes/economia/comerc/el-comerc-a-ledat-moderna.md) | `temes/economia/comerc` | compilada | contemporania | no | `mas-relacions-comercials-1994` |
 | [El que Andorra comprava a Espanya](temes/economia/comerc/el-que-andorra-comprava-a-espanya.md) | `temes/economia/comerc` | compilada | contemporania | no | `diario-sesiones-corts-1895` |
 | [La Cambra de Comerç i la formació](temes/economia/comerc/la-cambra-de-comerc-i-la-formacio.md) | `temes/economia/comerc` | compilada | contemporania | no | `escaler-cambra-de-comerc` |
 
@@ -201,6 +202,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [La revolta del tabac de 1733](temes/economia/tabac/la-revolta-del-tabac-de-1733.md) | `temes/economia/tabac` | compilada | contemporania | no | `mas-relacions-comercials-1994` |
 | [El tabac](temes/economia/tabac/tabac.md) | `temes/economia/tabac` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/economia/transformacio-economica
@@ -470,10 +472,8 @@
 | [El saig](temes/institucions/justicia/el-saig.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [La justícia](temes/institucions/justicia/justicia.md) | `temes/institucions/justicia` | compilada | contemporania | no | `viquipedia-ca` |
 | [La justícia abans de la Constitució](temes/institucions/justicia/la-justicia-dabans.md) | `temes/institucions/justicia` | compilada | contemporania | no | `pujadas-dret-andorra` |
-| [La llei penitenciària](temes/institucions/justicia/la-llei-penitenciaria.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Les fonts del dret](temes/institucions/justicia/les-fonts-del-dret.md) | `temes/institucions/justicia` | compilada | contemporania | no | `pujadas-dret-andorra` |
 | [Les lleis qualificades](temes/institucions/justicia/les-lleis-qualificades.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
-| [Les penes del Codi Penal](temes/institucions/justicia/les-penes-del-codi-penal.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [L'ordenament jurídic avui](temes/institucions/justicia/lordenament-juridic-avui.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Quants notaris](temes/institucions/justicia/quants-notaris.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 
@@ -708,12 +708,6 @@
 | --- | --- | --- | --- | --- | --- |
 | [L'esport a Andorra](temes/societat/esport/lesport.md) | `temes/societat/esport` | compilada | contemporania | no | `viquipedia-ca` |
 
-## temes/societat/familia
-
-| Document | Tema | Veu | Època | Apte | Font |
-| --- | --- | --- | --- | --- | --- |
-| [Casar-se a Andorra](temes/societat/familia/casar-se-a-andorra.md) | `temes/societat/familia` | compilada | contemporania | no | `jurisprudencia-ad` |
-
 ## temes/societat/habitatge
 
 | Document | Tema | Veu | Època | Apte | Font |
@@ -754,7 +748,6 @@
 | [La Clínica Vilanova](temes/societat/sanitat/la-clinica-vilanova.md) | `temes/societat/sanitat` | compilada | contemporania | no | `pallares-medicina-andorra` |
 | [La reacreditació dels metges](temes/societat/sanitat/la-reacreditacio-dels-metges.md) | `temes/societat/sanitat` | compilada | contemporania | no | `martinez-benazet-professions-liberals` |
 | [La salut mental](temes/societat/sanitat/la-salut-mental.md) | `temes/societat/sanitat` | compilada | contemporania | no | `obiols-salut-mental` |
-| [La via preferent](temes/societat/sanitat/la-via-preferent.md) | `temes/societat/sanitat` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Les iguales](temes/societat/sanitat/les-iguales.md) | `temes/societat/sanitat` | compilada | contemporania | no | `pallares-medicina-andorra` |
 | [L'Escola d'Infermeria](temes/societat/sanitat/lescola-dinfermeria.md) | `temes/societat/sanitat` | compilada | contemporania | no | `insa-ensenyament-salut` |
 
@@ -762,7 +755,6 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
-| [El preu de l'acomiadament](temes/societat/treball/el-preu-de-lacomiadament.md) | `temes/societat/treball` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El sindicalisme](temes/societat/treball/el-sindicalisme.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
 | [La memòria de FHASA](temes/societat/treball/la-memoria-de-fhasa.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
 | [L'acomiadament lliure](temes/societat/treball/lacomiadament-lliure.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |

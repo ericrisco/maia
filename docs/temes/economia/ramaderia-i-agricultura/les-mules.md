@@ -80,15 +80,107 @@ I el final del recorregut, que Mas deixa anar en una línia i és duríssim:
 **De vehicle a carn.** L'animal és el mateix; el que ha canviat és tot el que hi
 havia al seu voltant.
 
+## Les xifres, vuit anys abans
+
+El mateix autor havia donat, a la **7a Diada Andorrana de 1994**
+([font](../../../fonts/mas-relacions-comercials-1994.md)), **tot el que aquesta
+fitxa tenia registrat com a buit**: quines fires, quins dies, quants caps i a
+quin preu.
+
+### Les fires
+
+| Fira | Quan | Què s'hi portava |
+| --- | --- | --- |
+| **Verdú** | ~**26 de març** | Mulatí — **«la més important»** |
+| **Santa Coloma de Queralt** | **28 de maig** | Mulatí |
+| **Salàs** (Pallars) | — | Mulatí |
+| **Organyà** | — | Mulatí |
+| **Guissona** | — | **Bestiar oví** |
+
+**No és la Seu d'Urgell ni Sant Ermengol**, que és el que aquesta fitxa havia
+suposat. **El mercat andorrà de bestiar era la plana**: Verdú, Santa Coloma,
+Guissona, Balaguer.
+
+### El preu
+
+> El preu mitjà de venda d'una mula era **entre les noranta i les cent cinquanta
+> lliures**, «**l'equivalent al salari anual del metge d'Andorra**», mentre que
+> el d'una **ovella era de tres lliures i dos sous**.
+
+**Una mula valia el que guanyava el metge del país en un any**, i entre **trenta
+i cinquanta ovelles**. És la conversió que faltava per entendre per què la mula
+era el negoci.
+
+### Les operacions documentades
+
+| Any | Qui | Què |
+| --- | --- | --- |
+| **1696** | **Guillem Areny** | **38 caps de mulatí** a Verdú i Santa Coloma (alguns d'altres ramaders), i **2 crestons i 139 ovelles** a Guissona |
+| **1706** | Quatre ramaders andorrans | Passaport de **Carles d'Àustria** per entrar **54 caps de mulatí** comprats a França i criats a Andorra, **exempts de duana** |
+| **1719** | Set propietaris | Passaport del capità general de Catalunya per **16.500 caps** a hivernar a Linyola, Montblanc, Tarroja i la senyoria de Poblet |
+
+> **Incoherència de la font, registrada:** el passaport de 1719 hi apareix amb el
+> bestiar «repartit en **tres** ramats» i, tres línies més avall, «els **sis**
+> ramats eren conduïts per un centenar de pastors» — amb **set** propietaris
+> nomenats. **El corpus no ho arbitra.**
+
+### Els grans ramaders, per parròquia
+
+Cases **Guillemó, Molines i Moles** a Andorra la Vella · **Teixidó** a la Massana
+· **Areny i Rossell** a Ordino · **Joan Antoni** a Encamp · **Calvó** a Canillo.
+Vegeu [el comerç a l'edat moderna](../comerc/el-comerc-a-ledat-moderna.md), on
+aquestes mateixes cases apareixen construint la seva fortuna.
+
+## La reexportació sí que estava regulada
+
+Aquesta fitxa preguntava si «hi havia regulació, ho tolerava el Consell, quedava
+documentat». **Sí a les tres**, i la regulació és minuciosa:
+
+Al començament del segle XVIII la **Reial Audiència de Barcelona** va establir
+que pel pas per la duana de la Seu d'Urgell es pagaven **dos tributs**: **drets
+al General** (a la Generalitat, per a tot el bestiar sigui quin sigui l'origen) i
+**drets de nova ampra** (al rei, **només per al bestiar francès**, que per tant
+**pagava el doble**). **Sis sous per mula i tres per cavall** — que Mas calcula
+en **un 0,2% del preu de venda**.
+
+Després arriba el tancament:
+
+| Any | Què passa |
+| --- | --- |
+| **1728** | L'intendent general de Catalunya **Antonio de Sartine** **retira tots els privilegis duaners**: tot el que entri des d'Andorra paga **el 10%** |
+| **c. 1731** | Tres anys de negociació dels síndics → **Sentència de manutenció**: el bestiar **francès** paga el 10%, **l'andorrà en queda exempt**, amb mesures de control |
+| final del XVIII | Espanya torna a intentar retirar els privilegis, adduint **l'extracció de moneda espanyola** que el comerç andorrà suposava |
+
+I la resposta andorrana a la Sentència, que els mateixos andorrans van considerar
+negativa:
+
+> «Les dificultats per a l'exportació de bestiar francès foren compensades
+> **incrementant el nombre d'animals criats a Andorra i amb un augment del
+> contraban de mules**.»
+
+**Tancada la porta legal a la mula francesa, el país en va criar més i en va
+passar més d'amagat.** El comerç de bestiar **va continuar creixent tot el segle
+XVIII**.
+
 ## Buits registrats
 
-1. **Xifres**: quantes mules s'exportaven, a quin preu, quins anys.
-2. **Quines fires** catalanes exactament. Sant Ermengol (la Seu), Verdú, Salàs?
+1. ~~**Xifres**: quantes mules s'exportaven, a quin preu, quins anys.~~
+   **TANCAT PARCIALMENT** amb Mas 1994: hi ha **preus i operacions concretes**,
+   però **no sèries** — el mateix autor avisa que «és força difícil quantificar
+   en la seva totalitat aquesta mena de comerç».
+2. ~~**Quines fires** catalanes exactament.~~ **TANCAT**: Verdú, Santa Coloma de
+   Queralt, Salàs, Organyà i Guissona. **No la Seu.**
 3. **Els traginers** andorrans: rutes, organització, si tenien confraria.
-   **Buit gran** — el corpus no en té fitxa.
-4. La **reexportació**: hi havia regulació, ho tolerava el Consell, quedava
-   documentat?
-5. **Quan es deixa de criar mula** per vendre.
+   **Buit gran** — el corpus segueix sense fitxa, però ara sí que hi ha material
+   per obrir-la ([el comerç a l'edat moderna](../comerc/el-comerc-a-ledat-moderna.md)).
+4. ~~La **reexportació**: hi havia regulació, ho tolerava el Consell, quedava
+   documentat?~~ **TANCAT**: drets al General i de nova ampra, Sartine 1728,
+   Sentència de manutenció.
+5. **Quan es deixa de criar mula** per vendre. Segueix obert: Mas 1994 arriba al
+   començament del XIX i Mas 2002 salta a la mecanització.
+6. **El text de la Sentència de manutenció.** El corpus no l'ha vist.
+7. **Quant era una lliura.** Sense equivalència, «noranta lliures» només es pot
+   llegir en relació amb el sou del metge.
 
 ## Related
 
@@ -97,3 +189,5 @@ havia al seu voltant.
 - [El tabac](../tabac/tabac.md) — l'altre producte de frontera.
 - [Comerç](../comerc/comerc.md) — on desemboca.
 - [Ramaderia i agricultura](./ramaderia-i-agricultura.md) — la branca.
+- [El comerç a l'edat moderna](../comerc/el-comerc-a-ledat-moderna.md) — els privilegis que ho feien possible.
+- [La transhumància](./la-transhumancia.md) — el centenar de pastors que baixava cada any.

@@ -80,6 +80,99 @@ abstracte: hi va participar amb les fargues i en va ser expulsada per la
 competència.** El ressorgiment no arriba fins a mitjan segle XX, amb la
 [transformació econòmica](../../economia/transformacio-economica/transformacio-economica.md).
 
+## L'inventari de fargues
+
+Aquesta fitxa tenia registrat com a buit «on eren les fargues i quantes n'hi va
+haver». **David Mas les anomena**, vuit anys abans, a la **7a Diada Andorrana**
+([font](../../../fonts/mas-relacions-comercials-1994.md)):
+
+| Farga | Parròquia | Propietat |
+| --- | --- | --- |
+| **Del Puntal** (**1619**, la primera documentada) | **Ordino** | — |
+| **Del Serrat** | Ordino | Famílies **Areny i Rossell** |
+| **D'Ordino** | Ordino | Família **Areny** |
+| **Picart** | **Encamp** | Famílies **Picart** d'Encamp i **Areny** d'Ordino |
+| **Dues fargues** | **Canillo** | Una d'elles **del comú** |
+| **D'Andorra** | Andorra la Vella | **Del comú**, explotada al principi per **fargaires de la Cerdanya** |
+| **De Bixessarri** | — | — |
+| **De Moles** | — | — |
+
+**Vuit o nou establiments**, i **dos eren públics**: el comú de Canillo i el comú
+d'Andorra tenien farga pròpia. **La protoindústria andorrana era en part
+municipal**, cosa que aquesta fitxa no deia.
+
+> **El corpus no tanca el recompte.** La font presenta **la del Puntal (1619)**
+> com la primera documentada i, en un paràgraf a part, **la Farga d'Ordino** com
+> una de les fundades al llarg del segle XVIII. **Totes dues són a Ordino i
+> totes dues s'associen als Areny**: podrien ser **la mateixa** o **dues de
+> diferents**. La font no ho aclareix i el corpus **no ho resol per compte
+> propi**.
+
+Mas hi afegeix una correcció de direcció: a la **primera meitat del segle XVII**
+el ferro **s'enviava a França**. El gir cap a Catalunya és del **segle XVIII**,
+quan es funden gairebé totes les altres.
+
+### Producció i vendes
+
+Una farga a ple rendiment feia «**al voltant del centenar de tones**» l'any. La
+**d'Ordino**, la més antiga i la més important, arriba a **108 tones el 1780**.
+
+**El 95% de la producció s'exportava** a poblacions catalanes, i el ferro era
+**l'exportació que menys problemes tenia a la duana**: Catalunya n'anava
+escassa, i un privilegi de finals del segle XVII el deixava passar **sense drets
+i sense necessitat de renovació fins a finals del XIX** — a diferència dels
+privilegis del bestiar, que s'havien de renegociar amb cada monarca
+([el comerç a l'edat moderna](../../economia/comerc/el-comerc-a-ledat-moderna.md)).
+
+**On anava, el 1784:**
+
+| Destinació | % |
+| --- | ---: |
+| **Cardona** | **40 %** |
+| **La Seu d'Urgell** | 29 % |
+| **Guissona** | 16 % |
+| **Bassella** | 5,5 % |
+| Venda al detall fora d'Andorra | 4,5 % |
+| **Consum dins d'Andorra** | **5 %** |
+
+**Només el 5% del ferro andorrà es quedava a Andorra.** I **Cardona** és el
+primer client per una raó concreta: **l'activitat minera**. Cap al 1700 els Areny
+ja enviaven ferro a **Agramunt, Mollerussa, Organyà, Barcelona i Tarragona**, i
+tenien **magatzem propi a la Seu d'Urgell**. Als pobles grans no es venia al
+detall sinó **a majoristes**.
+
+El transport, **a càrrec de traginers andorrans** contractats pel fargaire, que
+«**sovint aprofitaven el viatge de tornada per portar a Andorra d'altres
+mercaderies**».
+
+### L'aturada de 1793, i qui treballava a les fargues
+
+> «A partir del **1793**, les vendes van disminuir de forma dràstica, tant, que
+> **es va arribar a aturar la producció**.»
+
+La causa no és tecnològica sinó bèl·lica —la guerra entre la **República
+francesa** i la Corona espanyola— i el mecanisme revela una dada que no és
+menor:
+
+> «Atès que **els treballadors de les fargues andorranes eren tots francesos**, a
+> l'inici del conflicte les autoritats revolucionàries van posar com a condició
+> per autoritzar-los a continuar-hi treballant **que el ferro no fos exportat a
+> Catalunya**.»
+
+**La mà d'obra de la indústria andorrana era immigrada, i un govern estranger la
+va poder fer servir com a palanca.** Això és **immigració laboral francesa al
+segle XVIII**, i **la branca d'[immigració](../../societat/immigracio/immigracio.md)
+del corpus comença al segle XX**: hi ha, doncs, **dos-cents anys de treball
+estranger a Andorra que el corpus no té documentats**. **Buit registrat.**
+El corpus ja tenia el moviment en l'altre sentit —andorrans que baixaven a la
+verema— a [les tres migracions](../../societat/demografia/les-tres-migracions.md).
+
+Acabada la guerra, el preu **es va duplicar**: el quintar valia **unes 5 lliures
+el 1782**, amb vendes de **6.222,5 lliures**; **vint anys més tard, 12 lliures**,
+amb un benefici per als Areny **d'unes 20.000 lliures**.
+
+**La casa Areny no es va enriquir malgrat les guerres: s'hi va enriquir.**
+
 ## El ferrer
 
 **Un dels oficis amb més pes** dins l'estructura agropastoral, per la seva
@@ -130,13 +223,19 @@ no és qui ho fa, és el món que ho necessitava**.
 
 ## Buits registrats
 
-1. **On eren les fargues** i quantes n'hi va haver. **Inventari pendent.**
+1. ~~**On eren les fargues** i quantes n'hi va haver.~~ **TANCAT** amb Mas
+   1994: nou establiments, amb parròquia i propietari. Queda obert **on eren
+   exactament la farga de Moles i les dues de Canillo**.
 2. La **farga de casa Areny**: què en queda, si és visitable.
-3. **D'on sortia el mineral** — mines andorranes o importació?
+3. **D'on sortia el mineral** — mines andorranes o importació? Mas 1994 parla
+   d'«obtenció de les matèries primeres» com a condicionant **sense dir-ne
+   l'origen**. **Segueix obert.**
 4. La data del **primer quart del XIX / XX** (vegeu l'avís).
-5. El **lèxic de l'ofici**: *fornal*, *mola*, *martinet*, *mall*, *encluse*.
+5. **Els fargaires francesos**: quants eren, d'on venien, si s'hi van quedar.
+   La font diu que **tots** els treballadors ho eren, i el corpus no té res més.
+6. El **lèxic de l'ofici**: *fornal*, *mola*, *martinet*, *mall*, *encluse*.
    Contra el *Vocabulari d'Andorra* (1992). **Font prioritària no consultada.**
-6. **Noms de ferrers** i cases de ferrer per parròquia. La
+7. **Noms de ferrers** i cases de ferrer per parròquia. La
    [toponímia](../../territori/toponimia/toponimia-andorrana.md) i els noms de
    casa n'han de conservar.
 
@@ -147,4 +246,5 @@ no és qui ho fa, és el món que ho necessitava**.
 - [Guillem d'Areny-Plandolit](../../historia/segle-xix/guillem-dareny-plandolit.md) — la casa.
 - [La transformació econòmica](../../economia/transformacio-economica/transformacio-economica.md) — el ressorgiment de mitjan segle XX.
 - [Les mules](../../economia/ramaderia-i-agricultura/les-mules.md) — l'altre gran producte d'exportació.
+- [El comerç a l'edat moderna](../../economia/comerc/el-comerc-a-ledat-moderna.md) — el règim duaner que hi havia al darrere.
 - [Les escoles d'art comunals](../arts-visuals/les-escoles-dart-comunals.md) — l'aprenentatge de taller, institucionalitzat als anys vuitanta.
