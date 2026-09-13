@@ -1,0 +1,91 @@
+{{Infobox national basketball team
+| type               = Women
+| country            = Andorra 
+| fiba_ranking       = {{FIBA Women's World Rankings|AND}}
+| fiba_zone          = FIBA Europe
+| national_fed       = [[Federació Andorrana de Basquetbol]]
+| joined_fiba        = 1988
+| logo=
+| logo_width         = 
+| coach              = 
+| nickname           = 
+| medal_templates    = 
+| oly_appearances    = 
+| oly_medals         = 
+| wc_appearances     = 
+| wc_medals          = 
+| zone_championship  = [[FIBA Women's European Championship for Small Countries|Championship for Small Countries]]
+| zone_appearances   = 11
+| zone_medals        = [[File:Bronze medal with cup.svg|16px]] '''(1)''' 2000 
+| zone_championship2 =
+| zone_appearances2  = 
+| zone_medals2       = 
+| h_pattern_b        =
+| h_body             =
+| h_shorts           =
+| h_pattern_s        =
+| a_pattern_b        =
+| a_body             =
+| a_shorts           =
+| a_pattern_s        =
+| first_game         = {{bkw|ISL}} 100–39 {{bkw-rt|AND}}<br>([[Valletta]], Malta; 26 June 1996)
+| largest_win        = {{bkw|IRL}} 104–33 {{bkw-rt|AND}}<br>([[Nicosia]], Macedonia; 20 July 2021)
+| largest_loss       = {{bkw|AND}} 84–25 {{bkw-rt|GIB}}<br>([[Andorra la Vella]], Andorra; 18 June 2002)
+}}
+
+The '''Andorra women's national basketball team''' represents [[Andorra]] in international [[women's basketball]] competitions.
+
+==Competitive record==
+
+===[[FIBA Women's European Championship for Small Countries|Championship for Small Countries]]===
+{| class="wikitable" style="text-align: center;"
+|-
+!Year
+!width=28|Pos
+!width=28|{{Tooltip|Pld|Games played}}
+!width=28|{{Tooltip|W|Won}}
+!width=28|{{Tooltip|L|Lost}}
+|-
+|{{flagicon|MLT}} [[1996 European Promotion Cup for Women|1996]] || 8th || 5 || 0 || 5
+|- bgcolor=#cc9966
+|{{flagicon|MKD}} [[2000 European Promotion Cup for Women|2000]] || '''3rd''' || 4 || 2 || 2
+|-
+|style="border: 3px solid red"|{{flagicon|AND}} [[2002 European Promotion Cup for Women|2002]] || 5th || 4 || 2 || 2
+|-
+|style="border: 3px solid red"|{{flagicon|AND}} [[2004 European Promotion Cup for Women|2004]] || 9th || 5 || 1 || 4
+|-
+|{{flagicon|MLT}} [[2006 European Promotion Cup for Women|2006]] || 5th || 4 || 2 || 2
+|-
+|{{flagicon|LUX}} [[FIBA EuroBasket Women 2008 Division C|2008]] || 4th || 5 || 2 || 3
+|-
+|{{flagicon|ARM}} [[FIBA EuroBasket Women 2010 Division C|2010]] || 6th || 4 || 1 || 3
+|-
+|{{flagicon|GIB}} [[2016 FIBA Women's European Championship for Small Countries|2016]] || 4th || 5 || 2 || 3
+|-
+|{{flagicon|CYP}} [[2021 FIBA Women's European Championship for Small Countries|2021]] || 6th || 3 || 0 || 3
+|-
+|{{flagicon|CYP}} [[2022 FIBA Women's European Championship for Small Countries|2022]] || 5th || 4 || 0 || 4
+|-
+|{{flagicon|KOS}} [[2024 FIBA Women's European Championship for Small Countries|2024]] || 7th || 5 || 1 || 4
+|-
+!colspan=2 align=left|Total !! 48 !! 13 !! 35
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.fab.ad/ Basketball Federation of Andorra (official website)]
+
+{{National sports teams of Andorra}}
+{{FIBA Europe women's teams}}
+
+[[Category:Women's national basketball teams]]
+[[Category:Women's national sports teams of Andorra|Basketball]]
+[[Category:Basketball in Andorra]]
+[[Category:Women's basketball in Andorra]]
+[[Category:1996 establishments in Andorra]]
+[[Category:National sports teams established in 1996]]
+
+{{Europe-national-basketball-team-stub}}
+{{Andorra-sport-stub}}

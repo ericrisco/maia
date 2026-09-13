@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**588** documents · **123** fonts · **0** aptes com a model de llengua · **113** temes amb contingut.
+**630** documents · **124** fonts · **0** aptes com a model de llengua · **114** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -463,6 +463,53 @@
 | [Xavier Soria](temes/esports/futbol/xavier-soria.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Xavier Vieira i de Vasconcelos](temes/esports/futbol/xavier-vieira.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Francisco Manuel «Xisco» Pires i Costa](temes/esports/futbol/xisco-pires.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+
+## temes/esports/futbol/femeni
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Ainara Ruiz](temes/esports/futbol/femeni/ainara-ruiz.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Ainhoa Fernández](temes/esports/futbol/femeni/ainhoa-fernandez.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Aitana Colobrans](temes/esports/futbol/femeni/aitana-colobrans.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Alba López](temes/esports/futbol/femeni/alba-lopez.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Alba Martín](temes/esports/futbol/femeni/alba-martin.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Andreina Silva](temes/esports/futbol/femeni/andreina-silva.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Ariana Correia](temes/esports/futbol/femeni/ariana-correia.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Bibiana Gonçalves](temes/esports/futbol/femeni/bibiana-goncalves.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Chloe Izquierdo](temes/esports/futbol/femeni/chloe-izquierdo.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Clàudia Plaja](temes/esports/futbol/femeni/claudia-plaja.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Cristina Lacour](temes/esports/futbol/femeni/cristina-lacour.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Daniela Rodrigues](temes/esports/futbol/femeni/daniela-rodrigues.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Erica Gonçalves](temes/esports/futbol/femeni/erica-goncalves.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Gemma Lluch](temes/esports/futbol/femeni/gemma-lluch.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Iria Domínguez](temes/esports/futbol/femeni/iria-dominguez.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Júlia Domingo](temes/esports/futbol/femeni/julia-domingo.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Júlia Rodríguez](temes/esports/futbol/femeni/julia-rodriguez.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [La selecció femenina](temes/esports/futbol/femeni/la-seleccio-femenina.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Laia Sin](temes/esports/futbol/femeni/laia-sin.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Laia Solé](temes/esports/futbol/femeni/laia-sole.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Laura Borja](temes/esports/futbol/femeni/laura-borja.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Lluna Gallego](temes/esports/futbol/femeni/lluna-gallego.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Lola Campos](temes/esports/futbol/femeni/lola-campos.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Lúcia Cullerés](temes/esports/futbol/femeni/lucia-culleres.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Luna Marcet](temes/esports/futbol/femeni/luna-marcet.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Luz Zurdo](temes/esports/futbol/femeni/luz-zurdo.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Margot Llobera i Farré](temes/esports/futbol/femeni/margot-llobera.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [María Cardoso](temes/esports/futbol/femeni/maria-cardoso.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Maria da Cruz](temes/esports/futbol/femeni/maria-da-cruz.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Maria Moles i Farré](temes/esports/futbol/femeni/maria-moles.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Maria Ruzafa i Lozano](temes/esports/futbol/femeni/maria-ruzafa.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Marina Fernández i Muelas](temes/esports/futbol/femeni/marina-fernandez.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Míriam Tizón](temes/esports/futbol/femeni/miriam-tizon.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Neus Rosas](temes/esports/futbol/femeni/neus-rosas.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Noa Gallinat](temes/esports/futbol/femeni/noa-gallinat.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Olga Sabio](temes/esports/futbol/femeni/olga-sabio.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Paula da Silva](temes/esports/futbol/femeni/paula-da-silva.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Samantha Reyes](temes/esports/futbol/femeni/samantha-reyes.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Sònia Carrancà](temes/esports/futbol/femeni/sonia-carranca.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Teresa «Tere» Morató i Armengol](temes/esports/futbol/femeni/teresa-morato.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Uma de Vertiz](temes/esports/futbol/femeni/uma-de-vertiz.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Violeta de Freitas](temes/esports/futbol/femeni/violeta-de-freitas.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 
 ## temes/gastronomia/begudes
 
@@ -1282,5 +1329,6 @@
 | [`wikipedia-atletes-andorrans`](fonts/wikipedia-atletes-andorrans.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-esport-andorra`](fonts/wikipedia-esport-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-esquiadors-andorrans`](fonts/wikipedia-esquiadors-andorrans.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-futbol-femeni-andorra`](fonts/wikipedia-futbol-femeni-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-jocs-andorra`](fonts/wikipedia-jocs-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-politica-andorra`](fonts/wikipedia-politica-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

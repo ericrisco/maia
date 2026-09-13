@@ -191,7 +191,13 @@ casos l'andorrana és la mare.** Vegeu
 - **Les tretze victòries que el corpus no coneix.**
 - **La Primera Divisió andorrana**, el **FC Andorra** i la **Federació Andorrana
   de Futbol**: cap fitxa de cap.
-- **La selecció femenina**: existeix i el corpus no en té ni un nom.
+- ~~**La selecció femenina**: existeix i el corpus no en té ni un nom.~~ —
+  **tancat el 2026-09-13** amb [la subbranca de futbol femení](./femeni/README.md):
+  **trenta-vuit jugadores i la fitxa de la selecció**. **I el que hi ha trobat
+  obliga a reescriure com es llegeix aquesta branca**: **la selecció femenina
+  andorrana ha guanyat 12 dels seus 47 partits —un 25,5%— contra les 14
+  victòries en 224 partits de la masculina, un 6,2%.** **Guanya quatre vegades
+  més sovint, i ho fa en un país sense lliga femenina.**
 - ~~**Els futbolistes de menys de 25 internacionalitats.**~~ — **tancat el
   2026-09-13**: [els altres cinquanta-tres](#els-altres-cinquanta-tres). **El que
   segueix obert és el gruix de cadascun**: de catorze no se'n sap ni el nombre de
@@ -201,4 +207,5 @@ casos l'andorrana és la mare.** Vegeu
 
 - [Esports](../README.md)
 - [La selecció](./la-seleccio.md)
+- **[Futbol femení](./femeni/README.md)**
 - [Altres esports](../altres-esports/README.md)

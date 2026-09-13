@@ -1,0 +1,52 @@
+{{short description|Andorran footballer}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Margot Llobera
+| image =
+| image_size = 
+| caption = 
+| fullname = Margot Llobera Farré<ref name=SW>{{Soccerway|id=401784|accessdate=1 May 2020}}</ref>
+| birth_date = {{Birth date and age|df=yes|1996|5|18}}<ref name=UEFA>{{UEFA player|id=250082167|accessdate=1 May 2020}}</ref>
+| birth_place = 
+| height = 
+| position = [[Defender (association football)|Defender]]<ref name=UEFA/>
+| youthyears1 = 
+| youthclubs1 = 
+| collegeyears1 = 
+| college1 = 
+| collegecaps1 = 
+| collegegoals1 = 
+| years1 = 
+| clubs1 = 
+| caps1 = 
+| goals1 = 
+| nationalyears1 = 2015
+| nationalteam1 = [[Andorra women's national football team|Andorra]]
+| nationalcaps1 = 3
+| nationalgoals1 = 0
+| pcupdate = 
+| ntupdate = 9 April 2015
+}}
+{{family name hatnote|Llobera|Farré|lang=Catalan}}
+'''Margot Llobera Farré''' (born 18 May 1996) is an Andorran rally raid motorcycle rider and retired [[women's association football|footballer]] who played as a [[Defender (association football)|defender]]. She was a member of the [[Andorra women's national football team|Andorra women's national team]].<ref>{{cite news|publisher=[[ABC (newspaper)|ABC]]|title=Margot Llobera renueva su sueño por el Dakar|url=https://www.abc.es/deportes/abci-margot-llobera-dakar-202104110155_noticia.html|language=fr|date=11 April 2021}}</ref> She also participated as a [[Motorcycle|motorbiker]] in the [[2019 FIM Bajas World Cup]] at the [[Baja Aragón]] and as a [[Side-by-side (vehicle)|side-by-side]] [[co-driver]] at the [[2022 Dakar Rally]].
+
+She is the niece of paraplegic rally driver and former alpine skier [[Albert Llovera]]. Her sister Alexia also participated in the Dakar Rally.<ref>{{cite news|publisher=[[Mundo Deportivo]]|title=Las hermanas Dakar|url=https://www.mundodeportivo.com/motor/rally-dakar/20180130/44400435013/hermanas-dakar-llobera.html|language=es|date=9 February 2018}}</ref>
+
+==See also==
+*[[List of Andorra women's international footballers]]
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Llobera, Margot}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:Andorran women's footballers]]
+[[Category:21st-century Andorran people]]
+[[Category:Women's association football defenders]]
+[[Category:Andorra women's international footballers]]
+[[Category:Female motorcycle racers]]
+[[Category:Dakar Rally co-drivers]]
+
+
+{{Andorra-women-footy-bio-stub}}

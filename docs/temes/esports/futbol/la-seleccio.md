@@ -152,7 +152,21 @@ partits o més amb Andorra.**
   | — | **Liechtenstein**, 1-0 | **21 de març del 2018** | Debut de [Ricard Fernández](./ricard-fernandez.md) |
   | — | **Liechtenstein**, 2-1 | **10 de juny del 2022** | Gol de 60 m de [Jesús Rubio](./jesus-rubio.md); [Ildefons Lima](./ildefons-lima.md) hi bat el rècord de veterania |
 
-  **En falten deu, i falta la data de la segona.** **Buit prioritari.**
+  **Actualització del 2026-09-13.** Una segona font
+  ([Football in Andorra](../../../fonts/wikipedia-futbol-femeni-andorra.md))
+  **dona set rivals amb nom**: **Albània, Bielorússia, Hongria, Liechtenstein,
+  Macedònia del Nord, Moldàvia i San Marino.** **Això afegeix quatre rivals que
+  el corpus no tenia** —Albània, Macedònia del Nord, Moldàvia i San Marino— i
+  **confirma els tres que ja tenia**.
+
+  **I hi ha una ambigüitat que el corpus no arbitra.** La mateixa font diu que
+  **la primera victòria competitiva va ser contra Moldàvia, l'11 d'octubre del
+  2019**, i tot seguit que **«des de llavors»** n'hi ha hagut set, **amb
+  Moldàvia dins de la llista**. **O la primera compta dins de les set, o hi ha
+  hagut dues victòries contra Moldàvia.** **Registrat sense resoldre.**
+
+  **Segueixen faltant les dates de gairebé totes, i els marcadors.** **Buit
+  prioritari.**
 - **La Primera Divisió andorrana.** **El corpus no en té ni una línia**: ni
   quants equips, ni des de quan, ni qui la guanya. I els noms dels clubs que
   van sortint a les fitxes —**Casa de Portugal**, **Lusitanos**, **Inter Club

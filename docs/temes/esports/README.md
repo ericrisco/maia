@@ -38,10 +38,16 @@ l'escola.**
 
 | Subbranca | Qui hi ha |
 | --- | --- |
-| **[Els esquiadors](./esqui/esquiadors/README.md)** | **26 fitxes**: alpins, fondistes, biatleta, surfistes de neu i paralímpics |
-| **[Els olímpics d'estiu](./estiu/README.md)** | **17 fitxes**: atletisme, tir, natació, judo, ciclisme, piragüisme i boxa |
-| **[Futbol](./futbol/README.md)** | **14 fitxes** i la selecció sencera: 224 partits, 14 victòries |
-| **[Altres esports](./altres-esports/README.md)** | **6 fitxes**: tennis, escacs, motor i bàsquet — **on hi ha les fites que no surten a cap medaller** |
+| **[Els esquiadors](./esqui/esquiadors/README.md)** | **31 fitxes**: alpins, fondistes, biatleta, surfistes de neu i paralímpics |
+| **[Els olímpics d'estiu](./estiu/README.md)** | **31 fitxes**: atletisme, tir, natació, judo, ciclisme, piragüisme i boxa |
+| **[Futbol](./futbol/README.md)** | **97 fitxes** i la selecció sencera: 224 partits, 14 victòries. **Tots els internacionals masculins documentats, sense excepció** |
+| **[Futbol femení](./futbol/femeni/README.md)** | **41 fitxes** i la selecció: **47 partits, 12 victòries.** **La selecció andorrana que guanya més** |
+| **[Altres esports](./altres-esports/README.md)** | **24 fitxes**: tennis, escacs, motor, bàsquet, taekwondo, gimnàstica, patinatge, salt d'esquí — **on hi ha les fites que no surten a cap medaller** |
+| [La competició](./competicio/README.md) | 5 fitxes: els Jocs, els abanderats, la llei de l'esport |
+
+**Dues-centes trenta fitxes de persones i competicions**, escrites entre el
+2026-09-12 i el 2026-09-13. **La branca era, fa dos dies, la més buida del
+corpus.**
 
 ## El que hi falta
 
@@ -56,13 +62,15 @@ Gairebé tot. El corpus **no té res** sobre:
   — els [Jocs dels Petits Estats](./competicio/els-jocs-dels-petits-estats.md) sí que hi són.
   **Una data solta**: Andorra hi participa **per primera vegada el 1976**
   ([la cronologia](../historia/moments-historics/la-cronologia-dandorra.md)).
-- **El futbol.** El corpus **no en té res**, i és probablement l'esport del qual
-  més se'n parla al país. **De tot el futbol andorrà, l'única cosa documentada
-  aquí és un nom**: **Òscar Sonejee**, **d'origen indi**, **capità de la selecció
-  nacional durant anys** ([font](../../fonts/pastor-andorra-diversa.md)).
-  **Un sol fet no fa una fitxa**, i per això no n'hi ha cap: queda registrat aquí
-  i a [la piràmide de prestigi](../societat/immigracio/la-piramide-de-prestigi.md),
-  que és on diu alguna cosa. **Buit prioritari.**
+- ~~**El futbol.** El corpus **no en té res**.~~ — **tancat el 2026-09-13.**
+  Quan es va escriure aquesta línia, **tot el futbol andorrà del corpus era un
+  nom**: **Òscar Sonejee**, **d'origen indi**, **capità de la selecció**
+  ([font](../../fonts/pastor-andorra-diversa.md)), i deia *«un sol fet no fa una
+  fitxa»*. **Ara hi ha [138 fitxes de futbol](./futbol/README.md)**, la de
+  [Sonejee](./futbol/oscar-sonejee.md) inclosa. **El que segueix obert és
+  l'estructura**: la Primera Divisió, la Copa Constitució, el FC Andorra i la
+  Federació Andorrana de Futbol **no tenen cap fitxa**, tot i que **el corpus
+  ja n'ha baixat el material** ([material en brut](../../raw/web/esport/estructura/README.md)).
 - El **Palau de Gel d'Andorra**, a Canillo, on van a patinar els escolars.
 - El **lèxic de la neu i de la muntanya**, que és el que més valdria per a la
   fase 3 i no està recollit enlloc.

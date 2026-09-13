@@ -1,0 +1,102 @@
+{{short description|Andorran footballer}}
+{{EngvarB|date=September 2022}}
+{{Use dmy dates|date=August 2019}}
+{{family name hatnote|Ruzafa|Lozano|lang=Catalan}}
+{{Infobox football biography
+| name = Maria Ruzafa
+| image = 
+| caption = 
+| fullname = Maria Ruzafa Lozano<ref>{{Soccerway|accessdate=26 April 2020}}</ref>
+| birth_date = {{Birth date and age|df=yes|1998|8|7}}
+| birth_place = Andorra
+| height = 
+| position = [[Forward (association football)|Forward]]
+| currentclub = [[AO Rethymniaki Enosi Athliton|Rethymniaki Enosi Athliton]]
+| clubnumber = 9
+| youthyears1 = 
+| youthclubs1 = 
+| years1 = {{0|000}}–2021
+| clubs1 = [[Andorran Football Federation|ENFAF]]
+| caps1 = 
+| goals1 = 
+| years2 = 2021
+| clubs2 = Águilas
+| caps2 = 11
+| goals2 = 2
+| years3 = 2021–2022
+| clubs3 = Ternana
+| caps3 = 12
+| goals3 = 5
+| years4 = 2022–2023
+| clubs4 = Spezia
+| caps4 = 28
+| goals4 = 12
+| years5 = 2023–2024
+| clubs5 = [[OGC Nice (women)|Nice]]
+| caps5 = 8
+| goals5 = 2
+| years6 = 2024–2025
+| clubs6 = Frosinone
+| caps6 =
+| goals6 =
+| years7 = 2025–
+| clubs7 = [[AO Rethymniaki Enosi Athliton|REA]]
+| caps7 = 23
+| goals7 = 9
+| nationalyears1 = 2015–
+| nationalteam1 = [[Andorra women's national football team|Andorra]]
+| nationalcaps1 = 38
+| nationalgoals1 = 5
+| pcupdate = 4 June 2026<ref name="espg">{{cite web |title=RUZAFA LOZANO MARIA |url=https://espg.gr/players/display_player.php?player_id=43 |website=espg.gr |access-date=4 June 2026 |language=el}}</ref>
+| ntupdate = 19:26, 30 August 2019 (UTC)
+}}
+'''Maria Ruzafa Lozano''' (born 7 August 1998) is an Andorran [[footballer]] who plays as a [[Forward (association football)|forward]] for Greek club [[AO Rethymniaki Enosi Athliton|REA]] and the [[Andorra women's national football team|Andorra women's national team]].
+
+==Club career==
+Ruzafa has played for ENFAF in Andorra, for Águilas in Spain and for [[Ternana Calcio|Ternana]] in Italy.
+
+==International career==
+Ruzafa has been capped for the [[Andorra women's national football team|Andorra national team]], appearing for the team during the [[2019 FIFA Women's World Cup qualification (UEFA)|2019 FIFA Women's World Cup qualifying cycle]].<ref>{{cite web |url=https://www.worldfootball.net/team_performance/andorra-frauen-team/frauen-wm-quali-europa-2017-2018/ |archive-url=https://web.archive.org/web/20190830193146/https://www.worldfootball.net/team_performance/andorra-frauen-team/frauen-wm-quali-europa-2017-2018/ |url-status=dead |archive-date=30 August 2019 |title=Women World Cup Qualifiers Europe 2017/2018 » Teams (Andorra) |website=WorldFootball.net |access-date=29 August 2019}}</ref>
+
+On 16 February 2022, she scored her first international goal against [[Gibraltar women's national football team|Gibraltar]] in a friendly match.
+
+==International goals==
+{| class="wikitable"
+|-
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 16 February 2022 || [[Estadi Nacional]], [[Andorra la Vella]], [[Andorra]] || {{fbw|GIB}} || align=center|'''3'''–0 || align=center| 4–1 || rowspan=5| [[Exhibition match|Friendly]]
+|-
+| 2. || 3 September 2022 || [[Center FAF]], Andorra la Vella, Andorra || {{fbw|LIE}} || align=center|'''3'''–1 || align=center| 3–1
+|-
+| 3. || 13 June 2023 || rowspan=2| Estadi Municipal, [[Peralada]], [[Spain]] || {{fbw|KSA}} || align=center|'''2'''–0 || align=center| 3–1 
+|-
+| 4. || 17 June 2023 || {{fbw|KSA}} || align=center|'''3'''–0 || align=center| 3–0
+|-
+| 5. || 22 October 2025 || Estadi Nacional, Andorra la Vella, Andorra || {{fbw|GIB}} || align=center|'''2'''–0 || align=center| 2–0
+|-
+|}
+
+==See also==
+*[[List of Andorra women's international footballers]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{UEFA player}}
+* {{WorldFootball.net}}
+
+{{DEFAULTSORT:Ruzafa, Maria}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:Andorran women's footballers]]
+[[Category:21st-century Andorran people]]
+[[Category:Women's association football forwards]]
+[[Category:Ternana Calcio players]]
+[[Category:Andorra women's international footballers]]
+[[Category:Andorran expatriate women's footballers]]
+[[Category:Andorran expatriate sportspeople in Spain]]
+[[Category:Expatriate women's footballers in Spain]]
+[[Category:Andorran expatriate sportspeople in Italy]]
+[[Category:Expatriate women's footballers in Italy]]

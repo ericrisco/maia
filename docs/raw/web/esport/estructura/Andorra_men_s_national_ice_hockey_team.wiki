@@ -1,0 +1,151 @@
+{{Short description|National sports team}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox national hockey team
+| Name               = Andorra
+| Badge              = Coat of arms of Andorra.svg
+| Badge_size         = 150px
+| caption            = 
+| Association        = [[Andorran Federation of Ice Sports|Federació Andorrana d'Esports de Gel]]
+| Nickname           = 
+| General Manager    = 
+| Coach              = Oriol Boronat
+| Asst Coach         = 
+| Captain            = 
+| Most games         = 
+| Top scorer         = Gerard Ávila (12)
+| Most points        = Gerard Ávila (16)
+| Home Stadium       = [[:ca:Palau de Gel d'Andorra|Palau de Gel d'Andorra]]<ref>[https://www.palaudegel.ad/ Palau de Gel - Andorra] {{in lang|ca}}</ref>
+| IIHF code          = AND
+| IIHF Rank          = {{IIHF Men's World Ranking|AND}}
+| IIHF max           = 
+| IIHF max date      = 
+| IIHF min           = 
+| IIHF min date      = 
+| Team_Colors        = {{color box|black|border=darkgray}} {{color box|#1C3F94|border=darkgray}} {{color box|#FFEE00|border=darkgray}} {{color box|#CE1126|border=darkgray}}
+| First game         = {{ih-rt|POR}} 3–2 {{ih|AND}}<br>{{small|([[Canillo]], [[Andorra]]; 29 September 2017)}}
+| Largest win        = {{ih-rt|AND}} 12–0 {{ih|POR}}<br>{{small|([[Füssen]], [[Germany]]; 6 May 2022)}}
+| Largest loss       = {{ih-rt|LIE}} 24–2 {{ih|AND}}<br>{{small|([[Canillo]], [[Andorra]]; April 26, 2025)}}
+| Olympic apps       = 
+| Olympic first      = 
+| Olympic medals     = 
+| World champ2 name  = [[IIHF Development Cup]]
+| World champ2 apps  = 3
+| World champ2 first = 2017
+| World champ2 best  = 4th (2017, 2018)
+| Regional name      = 
+| Regional cup apps  = 
+| Regional cup first = 
+| Regional cup best  = 
+| Record             = 1–17–1
+}}
+The '''Andorra national ice hockey team''' ({{langx|ca|Selecció d'hoquei sobre gel d'Andorra}}) is the national men's [[ice hockey]] team of [[Andorra]]. The team is controlled by the [[Andorran Federation of Ice Sports|Federació Andorrana d'Esports de Gel]] (FAEG) and has been an associate member of the [[International Ice Hockey Federation]] (IIHF).
+
+==History==
+Ice hockey in Andorra as a sport began in 1987, with the opening of the Palau de Gel, the principality's only ice rink, in the town of [[Canillo]]. The [[Andorran Federation of Ice Sports]], known in [[Catalan language|Catalan]] as the ''Federació Andorrana d'Esports de Gel'' (FAEG), was established in 1992 and later joined the IIHF on 4 May 1995.<ref name="slowly">{{cite web|title=Andorra slowly growing|url=http://www.iihf.com/home-of-hockey/news/news-singleview/?tx_ttnews%5Btt_news%5D=12033&cHash=8264c1c4dd3bd8829b4f3f003e2cd15c|publisher=International Ice Hockey Federation|access-date=7 December 2017|date=6 October 2017}}</ref> Despite not having a national team nor entering in any IIHF tournaments, Canillo was the host city of the [[1997 Men's Ice Hockey World Championships#World Championship Group D (Andorra)|1997 IIHF World Championship Group D tournament]], as well as the [[2024 IIHF Women's World Championship Division II#Group A tournament|2024 IIHF Women's World Championship Division II A tournament]].
+
+However, it was only in 2017, when an official Andorra national team was organized. The national team made its debut at the 2017 IIHF Development Cup which was hosted in Canillo. Andorra played [[Portugal men's national ice hockey team|Portugal]], [[Ireland men's national ice hockey team|Ireland]], and [[Morocco men's national ice hockey team|Morocco]]. They lost all of their matches in the tournament, including a 5–3 defeat to Portugal in the bronze medal match.<ref name="slowly"/> Andorra's first match was on 29 September 2017 against Portugal, the match ended in a 3–2 defeat in penalty shootout.<ref>{{cite web|title=Andorra|url=https://nationalteamsoficehockey.com/andorra/|website=National Teams of Ice Hockey|access-date=7 December 2017}}</ref>
+
+In 2022, Andorra applied to participate in the [[IIHF World Championships]], though the Andorran federation noted that the country had difficulty fulfilling IIHF criteria, which include having 60 registered players and a domestic league.<ref name="RTVA. 2022">{{cite web | title=Andorra formarà part de la Federació Internacional d'Hoquei Gel a | website=Andorra Difusió | date=2022-10-05 | url=https://www.andorradifusio.ad/esports/andorra-formara-part-federacio-internacional-hoquei | language=ca | access-date=2024-04-10}}</ref>
+
+==Tournament record==
+===World Championship===
+{| class="wikitable" style="text-align:center"
+|-
+!width=30|Year
+!width=150|Host
+!width=120|Result
+!width=30|{{Tooltip|Pld|Games played}}
+!width=30|{{Tooltip|W|Wins}}
+!width=30|{{Tooltip|OTW|Overtime wins}}
+!width=30|{{Tooltip|OTL|Overtime losses}}
+!width=30|{{Tooltip|L|Losses}}
+|-
+| colspan=2|[[1930 Ice Hockey World Championships|1930]] ''through'' [[1994 Men's Ice Hockey World Championships|1994]] || colspan=6|''Not a member of the IIHF''
+|-
+| colspan=2|[[1995 Men's Ice Hockey World Championships|1995]] ''through'' [[2022 Men's Ice Hockey World Championships|2026]] || colspan=6|''Did not enter''
+|-
+! colspan=2|Total !! 0/0 !! – !! – !! – !! – !! –
+|}
+
+===IIHF Development Cup===
+{| class="wikitable" style="text-align:center"
+|-
+!width=30|Year
+!width=150|Host
+!width=120|Result
+!width=30|{{Tooltip|Pld|Games played}}
+!width=30|{{Tooltip|W|Wins}}
+!width=30|{{Tooltip|OTW|Overtime wins}}
+!width=30|{{Tooltip|OTL|Overtime losses}}
+!width=30|{{Tooltip|L|Losses}}
+|-
+| 2017 || {{flagicon|AND}} [[Canillo]] || 4th place || 4 || 0 || 0 || 1 || 3
+|-
+| 2018 || rowspan=2|{{flagicon|GER}} [[Füssen]] || 4th place || 5 || 0 || 0 || 0 || 5
+|-
+| 2022 || 5th place || 5 || 1 || – || {{Tooltip|1|Indicates a tie game}}* || 3
+|-
+|-
+| 2023 || {{flagicon|SVK}} [[Bratislava]] || colspan=6 rowspan=2| ''Did not participate''
+|-
+| 2024 || {{flagicon|SVK}} [[Bratislava]]
+|-
+| 2025 || {{flagicon|AND}} [[Canillo]] || 6th place || 5 || 0 || 0 || 0 || 5
+|-
+! colspan=2|Total !! 3/3 !! 14 !! 1 !! 0 !! 2 !! 16
+|}
+
+
+==All-time record against other national teams==
+{{updated|7 May 2022}}<ref>{{Cite web |title=Ice Hockey in Andorra |url=https://nationalteamsoficehockey.com/andorra/ |access-date=2023-04-30 |website=National Teams of Ice Hockey |language=en-US}}</ref>
+{| class="wikitable" style="text-align:center;"
+|-
+!width=165|Team
+!width=40|{{Tooltip|GP|Games played}}
+!width=40|{{Tooltip|W|Wins}}
+!width=40|{{Tooltip|T|Ties}}
+!width=40|{{Tooltip|L|Losses}}
+!width=40|{{Tooltip|GF|Goals for}}
+!width=40|{{Tooltip|GA|Goals against}}
+|- bgcolor=#FFCCCC
+|align=left|{{ih|ALG}} || 1 || 0 || 0 || 1 || 5 || 14
+|- bgcolor=#FFCCCC
+|align=left|{{ih|BRA}} || 1 || 0 || 0 || 1 || 4 || 7
+|- bgcolor=#FFCCCC
+|align=left|{{ih|COL}} || 1 || 0 || 0 || 1 || 3 || 8
+|- bgcolor=#FFCCCC
+|align=left|{{ih|GRE}} || 1 || 0 || 0 || 1 || 4 || 7
+|- bgcolor=#FFCCCC
+|align=left|{{ih|IRL}} || 4 || 0 || 1 || 3 || 20 || 25
+|- bgcolor=#FFCCCC
+|align=left|{{ih|LIE}} || 2 || 0 || 0 || 2 || 6 || 32
+|- bgcolor=#FFCCCC
+|align=left|{{ih|MAR}} || 1 || 0 || 0 || 1 || 3 || 9
+|- bgcolor=#FFCCCC
+|align=left|{{ih|MKD}} || 2 || 0 || 0 || 2 || 7 || 15
+|- bgcolor=#FFCCCC
+|align=left|{{ih|POR}} || 5 || 1 || 0 || 4 || 22 || 34
+|- bgcolor=#FFCCCC
+|align=left|{{ih|PUR}} || 1 || 0 || 0 || 1 || 1 || 15
+|-
+! Total !! 19 !! 1 !! 1 !! 17 !! 75 !! 166
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.faeg.ad/ Official website]
+*[https://www.iihf.com/en/associations/322/andorra/ IIHF profile]
+*[https://nationalteamsoficehockey.com/andorra/ National Teams of Ice Hockey]
+
+{{National sports teams of Andorra}}
+{{Men's national ice hockey teams}}
+
+{{DEFAULTSORT:Andorra National Ice Hockey Team}}
+[[Category:Ice hockey in Andorra|National]]
+[[Category:National ice hockey teams in Europe]]
+[[Category:Men's national sports teams of Andorra|Ice hockey]]
+[[Category:Men's national ice hockey teams]]
+[[Category:2017 establishments in Andorra]]
+[[Category:National sports teams established in 2017]]

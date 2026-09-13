@@ -1,0 +1,235 @@
+{{Infobox National futsal team 
+| Name               = Andorra
+| Badge              = 
+| Badge_size         = 120px
+| FIFA Trigramme     = AND
+| Nickname           = ''Tricolors'' (The Tricolours)
+| Association        = [[Andorran Football Federation]]
+| Confederation      = [[UEFA]] ([[Europe]])
+| Sub-confederation  = 
+| Coach              = Neftalí Puyalto
+| Asst Manager       = 
+| Captain            = 
+| Most caps          = 
+| Top scorer         = 
+| Home Stadium       = 
+| FIFA Rank          = {{FIFA Futsal World Ranking|AND}}
+| FIFA max           = 
+| FIFA max date      = 
+| FIFA min           = 
+| FIFA min date      = 
+| Honours            = 
+| pattern_la1        = _and24h
+| pattern_b1         = _and24h
+| pattern_ra1        = _and24h
+| pattern_sh1        = _and24h
+| pattern_so1        = _and24hl
+| leftarm1           = FF0000
+| body1              = FF0000
+| rightarm1          = FF0000
+| shorts1            = FF0000
+| socks1             = FF0000
+| pattern_la2        = _and24a
+| pattern_b2         = _and24a
+| pattern_ra2        = _and24a
+| pattern_sh2        = _and24a
+| pattern_so2        = _and24al
+| leftarm2           = fff200
+| body2              = fff200
+| rightarm2          = fff200
+| shorts2            = fff200
+| socks2             = fff200
+| First game         = {{futsal|Andorra}} 0–4 {{futsal-rt|Portugal}} <br />([[Andorra]]; March 3, 1998)
+| Largest win        = {{futsal|Andorra}} 10–0 {{futsal-rt|Scotland}} <br />([[Hjørring]], [[Denmark]]; April 8, 2026)
+| Largest loss       = {{futsal|Andorra}} 1–13 {{futsal-rt|Hungary}} <br />([[Andorra la Vella]], [[Andorra]]; May 20, 2003)
+| World cup apps     = 0
+| World cup first    = 
+| World cup best     = 
+| Regional name      = [[UEFA Futsal Championship]]
+| Regional cup apps  = 0
+| Regional cup first = 
+| Regional cup best  = 
+| 2ndRegional name         =
+| 2ndRegional cup apps     =
+| 2ndRegional cup first    =
+| 2ndRegional cup best     =
+| Confederations cup apps  =
+| Confederations cup first = 
+| Confederations cup best  = 
+| Grand Prix apps          =
+| Grand Prix first         =
+| Grand Prix best          =
+}}
+The '''Andorra national futsal team''' is controlled by the [[Andorran Football Federation]], the governing body for futsal in [[Andorra]] and represents the country in international [[futsal]] competitions, such as the [[FIFA Futsal World Cup|World Cup]] and the [[UEFA Futsal Championship|European Championships]].
+
+== Competition history ==
+===FIFA Futsal World Cup===
+{| class="wikitable" style="text-align: center;"
+!colspan=9|[[FIFA Futsal World Cup]] record
+!width=1% rowspan=13|
+!colspan=7|Qualification record
+|-
+!Year
+!Round
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!Outcome
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|NED}} [[1989 FIFA Futsal World Championship|1989]]||colspan=8 rowspan=3|''Did not enter''||colspan=7 rowspan=3|''Did not enter''
+|-
+|{{flagicon|HKG|1959}} [[1992 FIFA Futsal World Championship|1992]]
+|-
+|{{flagicon|ESP}} [[1996 FIFA Futsal World Championship|1996]]
+|-
+|{{flagicon|GUA}} [[2000 FIFA Futsal World Championship|2000]]||colspan=8 rowspan=7|''Did not qualify''||Group A 5th place||5||1||0||4||11||21
+|-
+|{{flagicon|Taiwan}} [[2004 FIFA Futsal World Championship|2004]]||Group 4 3rd place||2||0||0||2||2||10
+|-
+|{{flagicon|BRA}} [[2008 FIFA Futsal World Cup|2008]]||[[2008 FIFA Futsal World Cup qualification (UEFA)#Group 8|Group 8 4th place]]||3||0||0||3||7||17
+|-
+|{{flagicon|THA}} [[2012 FIFA Futsal World Cup|2012]]||[[2012 FIFA Futsal World Cup qualification (UEFA)#Group B|Group B 4th place]]||3||0||0||3||8||18
+|-
+|{{flagicon|COL}} [[2016 FIFA Futsal World Cup|2016]]||[[2016 FIFA Futsal World Cup qualification (UEFA)#Group A|Group A 3rd place]]||3||1||0||2||5||12
+|-
+|{{flagicon|LIT}} [[2021 FIFA Futsal World Cup|2021]]||[[2020 FIFA Futsal World Cup qualification (UEFA)#Group B|Group B 4th place]]||3||0||0||3||6||15
+|-
+|{{flagicon|UZB}} [[2024 FIFA Futsal World Cup|2024]]||[[2024 FIFA Futsal World Cup qualification (UEFA)#Group E|Group E 4th place]]||3||1||0||2||9||10
+|-
+!'''Total'''||0/10||0||0||0||0||0||0||—||7/10||22||3||0||19||48||103
+|}
+
+===UEFA Futsal Euro===
+{| class="wikitable" style="text-align: center;"
+!colspan=9|[[UEFA Futsal Championship|UEFA Futsal Euro]] record
+!width=1% rowspan=17|
+!colspan=7|Qualification record
+|-
+!Year
+!Round
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!Outcome
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|ESP}} [[1996 UEFA Futsal Championship|1996]]||colspan=8|''Did not enter''||colspan=7|''Did not enter''
+|-
+|{{flagicon|ESP}} [[1999 UEFA Futsal Championship|1999]]||colspan=8 rowspan=12|''Did not qualify''||Group E 3rd place||3||1||1||1||10||9
+|-
+|{{flagicon|RUS}} [[2001 UEFA Futsal Championship|2001]]||Group B Runners-up||3||2||0||1||10||8
+|-
+|{{flagicon|ITA}} [[2003 UEFA Futsal Championship|2003]]||Group G 3rd place||3||1||0||2||6||13
+|-
+|{{flagicon|CZE}} [[2005 UEFA Futsal Championship|2005]]||Group C 3rd place||3||1||0||2||7||21
+|-
+|{{flagicon|POR}} [[2007 UEFA Futsal Championship|2007]]||Group B 4th place||3||0||0||3||7||19
+|-
+|{{flagicon|HUN}} [[2010 UEFA Futsal Championship|2010]]||[[2010 UEFA Futsal Championship qualifying#Group 1|Group 1 4th place]]||3||0||1||2||6||14
+|-
+|{{flagicon|CRO}} [[UEFA Futsal Euro 2012|2012]]||[[UEFA Futsal Euro 2012 qualifying#Group F|Group F Runners-up]]||3||2||0||1||9||9
+|-
+|{{flagicon|BEL}} [[UEFA Futsal Euro 2014|2014]]||[[UEFA Futsal Euro 2014 qualifying#Group E|Group E 3rd place]]||3||1||1||1||8||9
+|-
+|{{flagicon|SER}} [[UEFA Futsal Euro 2016|2016]]||[[UEFA Futsal Euro 2016 qualifying#Group E|Group E 3rd place]]||3||1||0||2||8||6
+|-
+|{{flagicon|SLO}} [[UEFA Futsal Euro 2018|2018]]||[[UEFA Futsal Euro 2018 qualifying#Group F|Group F 3rd place]]||2||0||0||2||1||10
+|-
+|{{flagicon|NED}} [[UEFA Futsal Euro 2022|2022]]||[[UEFA Futsal Euro 2022 qualifying#Group D|Group D 4th place]]||3||1||0||2||2||4
+|-
+|{{flagicon|LAT}}{{flagicon|LTU}}{{flagicon|SLO}} [[UEFA Futsal Euro 2026|2026]]||[[UEFA Futsal Euro 2026 qualifying#Group 7|Group 7 3rd place]]||9||3||4||2||18||25
+|-
+!'''Total'''||0/13||0||0||0||0||0||0||—||12/13||41||13||7||21||92||147
+|}
+
+==Players==
+===Current squad===
+The following players were called up to the squad for the [[2028 FIFA Futsal World Cup qualification (UEFA)#Group A|2028 FIFA Futsal World Cup qualifying]] matches against [[Scotland national futsal team|Scotland]], [[Malta national futsal team|Malta]] and [[Denmark national futsal team|Denmark]] on 8, 9 and 11 April 2026 respectively.<ref>
+{{Cite web
+ | title       = La llista de convocats a Premundial FIFA
+ | url         = https://x.com/Fedandfut/status/2041520187841679575
+ | access-date = 16 April 2026
+ | agency      = [[Andorran Football Federation|Federació Andorrana de Futbol]]
+ | date        = 7 April 2026
+ | language    = ca
+}}</ref><ref>
+{{Cite web
+ | title       = Andorra Squad
+ | url         = https://www.uefa.com/futsalworldcup/teams/760618--andorra/squad/
+ | access-date = 16 April 2026
+ | agency      = [[UEFA]]
+ | date        = 
+ | language    = EN
+}}</ref>
+{{nat fs g start}}
+{{nat fs g player|no=1 |pos=GK|name=Aitor Rubio        |age={{Birth date and age|1986|09|12|df=y}}|caps=|goals=|clubnat=AND|club=[[FC Encamp]]|other=[[Captain (association football)|captain]]}}
+{{nat fs g player|no=13|pos=GK|name=Xavier López       |age={{Birth date and age|1994|08|22|df=y}}|caps=|goals=|clubnat=AND|club=[[FC Rànger's]]}}
+{{nat fs g player|no=15|pos=GK|name=Maxim Pons         |age={{Birth date and age|2002|04|23|df=y}}|caps=|goals=|clubnat=ESP|club=CCR BaixSud}}
+{{nat fs break}}
+{{nat fs g player|no=3 |pos=DF|name=Èric Mesquita      |age={{birth date and age|1996|11|08|df=y}}|caps=|goals=|clubnat=ESP|club=C.D Otxartabe}}
+{{nat fs g player|no=4 |pos=DF|name=Francisco Domínguez|age={{birth date and age|1998|08|04|df=y}}|caps=|goals=|clubnat=AND|club=ENFAF CM Andorra}}
+{{nat fs g player|no=6 |pos=DF|name=Oriol Rodríguez    |age={{Birth date and age|1998|11|04|df=y}}|caps=|goals=|clubnat=AND|club=ENFAF CM Andorra}}
+{{nat fs g player|no=22|pos=DF|name=Roc Torres         |age={{Birth date and age|2004|01|13|df=y}}|caps=|goals=|clubnat=ESP|club=AE Les Corts UBAE|
+}}
+{{nat fs break}}
+{{nat fs g player|no=5 |pos=FW|name=Oscar San Segundo  |age={{Birth date and age|1996|11|19|df=y}}|caps=|goals=|clubnat=AND|club=ENFAF CM Andorra}}
+{{nat fs g player|no=7 |pos=FW|name=Josep Segura       |age={{Birth date and age|2001|11|30|df=y}}|caps=|goals=|clubnat=ESP|club=ADC Lugo Sala}}
+{{nat fs g player|no=8 |pos=FW|name=Claudi Bové        |age={{Birth date and age|1996|03|08|df=y}}|caps=|goals=|clubnat=AND|club=[[FC Rànger's]]}}
+{{nat fs g player|no=10|pos=FW|name=Arnau Rodríguez    |age={{Birth date and age|1995|11|20|df=y}}|caps=|goals=|clubnat=AND|club=ENFAF CM Andorra}}
+{{nat fs g player|no=11|pos=FW|name=Adrià Blat         |age={{Birth date and age|2002|10|19|df=y}}|caps=|goals=|clubnat=ESP|club=[[:es:CD El Ejido Futsal|CD El Ejido Futsal]]}}
+{{nat fs g player|no=17|pos=FW|name=Christian Regalo   |age={{Birth date and age|1999|03|08|df=y}}|caps=|goals=|clubnat=AND|club=ENFAF CM Andorra}}
+{{nat fs g player|no=23|pos=FW|name=Brayan Pinto       |age={{Birth date and age|1996|09|12|df=y}}|caps=|goals=|clubnat=AND|club=ENFAF CM Andorra}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have also been called up to the squad within the last 12 months.
+<!--Sorted by position, most recent call-up, caps, goals and last name.-->
+{{nat fs r start}}
+{{nat fs r player|no= |pos=DF|name=Omar Ávila|age={{Birth date and age|1993|04|02|df=y}}|caps=|goals=|clubnat=AND|club=ENFAF CM Andorra|latest=v. {{futsal|GER}}, 21 December 2025}}
+{{nat fs break}}
+{{nat fs r player|no= |pos=FW|name=Pol Villalta<sup>INJ</sup>|age={{Birth date and age|2004|03|23|df=y}}|caps=|goals=|clubnat=ESP|club=CFS Eixample|latest=v. {{futsal|GER}}, 21 December 2025}}
+{{nat fs break}}
+<sup>INJ</sup> Player withdrew from the squad due to an injury.
+<br><sup>PRE</sup> Preliminary squad.
+<br><sup>RET</sup> Retired from international futsal.
+{{nat fs end}}
+
+==References==
+{{reflist}}
+
+==External links==
+
+{{Andorra national football team}}
+{{National sports teams of Andorra}}
+{{UEFA futsal teams}}
+{{International futsal}}
+{{Futsal in Andorra}}
+
+[[Category:Andorra men's national football teams|Futsal]]
+[[Category:European national futsal teams|Andorra]]
+[[Category:Futsal in Andorra|National team]]
+[[Category:Andorran Football Federation national teams|Futsal]]
+[[Category:1998 establishments in Andorra]]
+[[Category:National sports teams established in 1998]]
+
+{{Andorra-sport-stub}}
+{{National-footy-team-stub}}

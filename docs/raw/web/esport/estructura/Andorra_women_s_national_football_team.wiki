@@ -1,0 +1,760 @@
+{{Short description|Women's national association football team representing Andorra}}
+{{Infobox national football team
+| type               = Women
+| Name               = Andorra
+| Badge              = Coat of arms of Andorra.svg
+| Badge_size         = 180px
+| Nickname           = 
+| Association        = [[Andorran Football Federation]]<br>(''Federació Andorrana de Futbol'')
+| Confederation      = [[UEFA]] (Europe)
+| Coach              = [[Albert Panadero]]
+| Captain            = [[Teresa Morató]]
+| Most caps          = [[Teresa Morató]] (19)
+| Top scorer         = [[Teresa Morató]] (9)
+| Home Stadium       = 
+| FIFA Trigramme     = AND
+| FIFA Rank          = {{nowrap|{{FIFA Women's World Rankings|AND}}}}
+| FIFA max           = 114
+| FIFA max date      = March 2017; March 2018
+| FIFA min           = 184
+| FIFA min date      = June – August 2024
+| pattern_la1        = _and_h
+| pattern_b1         = _and_1
+| pattern_ra1        = _and_h
+| pattern_sh1        = _and_1
+| pattern_so1        = _color_3_stripes_yellow
+| leftarm1           = FF0000
+| body1              = FF0000
+| rightarm1          = FF0000
+| shorts1            = FF0000
+| socks1             = FF0000
+| pattern_la2        = _shoulder_stripes_yellow_stripes_half
+| pattern_b2         = _2yellowshoulderstripes
+| pattern_ra2        = _shoulder_stripes_yellow_stripes_half
+| pattern_sh2        = _yellow_stripes
+| pattern_so2        = _color_3_stripes_yellow
+| leftarm2           = EF1C21
+| body2              = 3949CE
+| rightarm2          = EF1C21
+| shorts2            = 3949CE
+| socks2             = 3949CE
+| First game         = ''Unofficial'' :<br>{{fbw|GIB}} 0–1 {{fbw-rt|AND}}<br>([[Gibraltar]]; 1 July 2014)<br>''Official'' :<br>{{fbw|AND}} 3–5 {{fbw-rt|MLT}}<br>([[Hamrun]], Malta; 4 April 2015)
+| Largest win        = {{fbw|AND}} 4–1 {{fbw-rt|GIB}}<br>{{nowrap|([[Andorra la Vella]], Andorra; 16 February 2022)}}<br>{{fbw|AND}} 3–0 {{fbw-rt|KSA}}<br>([[Girona]], Spain, 17 June 2023)<br>{{fbw|GIB}} 1–4 {{fbw-rt|AND}}<br>([[Europa Point]], Gibraltar, 23 October 2024)
+| Largest loss       = {{fbw|FAR}} 8–0 {{fbw-rt|AND}}<br>([[Hamrun]], Malta; 6 April 2015)
+| World cup apps     = 
+| World cup first    = 
+| World cup best     = 
+| Olympic apps       = 
+| Olympic first      = 
+| Olympic best       = 
+| Algarve cup apps   = 
+| Algarve cup first  = 
+| Algarve cup best   = 
+| Regional name      = 
+| Regional cup apps  = 
+| Regional cup first = 
+| Regional cup best  = 
+}}
+The '''Andorra women's national football team''' ({{langx|ca|Selecció femenina de futbol d'Andorra}}) represents [[Andorra]] in women's [[association football]] and is controlled by the [[Andorran Football Federation]], the governing body for [[football in Andorra]].
+
+==History==
+===Background and development===
+With a [[FIFA]] trigramme of AND<ref name=never-ranked>{{cite web|url=https://www.fifa.com/associations/association=and/ranking/gender=f/index.html |archive-url=https://web.archive.org/web/20070825202844/http://www.fifa.com/associations/association=and/ranking/gender=f/index.html |url-status=dead |archive-date=August 25, 2007 |title=Andorra: FIFA/Coca-Cola World Ranking |publisher=FIFA.com |access-date=23 April 2012}}</ref> and having become FIFA-affiliated in 1996, the national association did not respond to a survey about the status of [[women's association football|women's football]] in the country. In May of the following year, the official who answered another survey from FIFA reckoned that there were 37 active female players, all described as "100% beginners/amateurs". It was further suggested women's football had begun that year in [[Andorra]] and that there had been no previous interest in any women's sport. There was no participation in national or international competitions, though three women were employed in the association.<ref name="williams">{{cite web|url=https://www.dora.dmu.ac.uk/bitstream/handle/2086/5806/Woman%27s%20football,%20Europe%20%26%20professionalization%201971-2011.pdf?sequence=1|title=Women's Football, Europe and Professionalization 1971–2011 |first=Jean|last=Williams|author-link=Jean Williams (historian)|access-date=15 April 2012}}</ref>
+
+As of 2009, the programme was geared for young girls with player registration starting at the age of six.  There were only six women's teams in the country, all for girls under the age of sixteen and includes a national and schools competition.<ref name=goalsprogram2>{{cite web|access-date=16 April 2012|publisher=FIFA|url=https://www.fifa.com/mm/goalproject/and_eng.pdf|archive-url=https://web.archive.org/web/20111125105104/http://www.fifa.com/mm/goalproject/and_eng.pdf|url-status=dead|archive-date=November 25, 2011|date=26 November 2008|page=2|title=Goal! Football: Andorra}}</ref> There is also a national women's competition that took place in 2010–11.<ref name=andordaes>{{cite web|url=http://www.fedandfut.com/default.asp?idioma=ang&navpage=page9&doit=page |title=Andorran Football Federation-Women's Football&nbsp;— Senior |publisher=Fedandfut.com |access-date=23 April 2012}}</ref> 16% of the money from the FIFA Financial Assistance Programme (FAP) is targeted at the technical development of the game, which includes women's football, sport medicine and futsal. This compares to 48% for youth football and 25% for infrastructure.<ref name=goalsprogram1>{{cite web|access-date=16 April 2012|publisher=FIFA|url=https://www.fifa.com/mm/goalproject/and_eng.pdf|archive-url=https://web.archive.org/web/20111125105104/http://www.fifa.com/mm/goalproject/and_eng.pdf|url-status=dead|archive-date=November 25, 2011|date=26 November 2008|page=1|title=Goal! Football: Andorra }}</ref>
+
+Between 1991 and 2010, there was no FIFA FUTURO III regional course for women's coaching, no women's football seminar held in the country and no FIFA MA course held for women/youth football.<ref name="goalsprogram2" />
+
+As part of the development of the national team, the Andorran Football Federation has a club in the Spanish women's league system with the name of '''ENFAF''', competing in the Catalan Primera Divisió Femení Group 2 as of 2022–23, the sixth tier. Their B team competes in the Catalan Segoba Divisió Femení Group 2, the tier below.
+
+===The team===
+On 1 July 2014, the senior team played its first international game in the UEFA Development Tournament celebrated in [[Gibraltar]]. Andorra defeated [[Gibraltar women's national football team|Gibraltar]] by 1–0, scored by Alba at the 61st minute.<ref>{{cite web|url=http://www.bondia.ad/esports/la-seleccio-femenina-assoleix-una-primera-victoria-historica|title=La selecció femenina assoleix una primera victòria històrica|language=ca|publisher=Bon Dia|date=1 July 2014|access-date=2 July 2014}}</ref><ref>{{cite web|url=http://gfa.gibraltarfa.com/women-s-development-tournament.html|title=UEFA Women's Development Tournament|publisher=Gibraltar Football Association|date=13 May 2014|access-date=2 July 2014|archive-url=https://web.archive.org/web/20140714144941/http://gfa.gibraltarfa.com/women-s-development-tournament.html|archive-date=14 July 2014|url-status=dead}}</ref> The next day, they played its second international game, losing against [[Luxembourg women's national football team|Luxembourg]] by 4–0.
+
+On 18 December 2014, UEFA announced Andorra would take part in the [[UEFA Women's Euro 2017 qualifying]]. This was their debut competitive match at female football.<ref>{{cite web|url=https://www.uefa.com/news-media/news/0252-0cda6c48c9e4-9ddac1575b4e-1000--record-entry-for-women-s-euro/|title=Record entry for Women's EURO|publisher=[[UEFA]]|date=18 December 2014}}</ref> In its first official game, the team lost 3–5 to [[Malta women's national football team|Malta]].<ref>[https://www.uefa.com/womenseuropeanqualifiers/match/2016082--andorra-vs-malta/ Andorra 3–5 Malta report at UEFA.com]</ref> Andorra finished the preliminary round with two more defeats against [[Faroe Islands women's national football team|Faroe Islands]] by 0–8 and [[Georgia women's national football team|Georgia]] by 0–7.
+
+On 30 June 2016, the Andorran Football Federation announced [[José Antonio Martín]] as the new head coach of the women's national team.<ref>{{cite web|url=http://www.ffandorra.novanet.es/pnfg/NNws_ShwNewDup?codigo=1006745&cod_primaria=3000269&cod_secundaria=3000269|title=Jose Antonio Martín serà l'entrenador de l'absoluta de futbol femení i l'ENFAF sènior femení|language=ca|publisher=Andorran Football Federation|date=30 June 2016|access-date=30 June 2016}}</ref>
+
+On 18 September 2021, Andorra achieved its second win ever after defeating [[Liechtenstein national football team|Liechtenstein]] in a friendly match by 4–2.<ref>{{cite web|url=https://www.faf.ad/pnfg/NNws_ShwNewDup?codigo=1008277&cod_primaria=3000301&cod_secundaria=3000301|publisher=Andorran Football Federation|language=ca|date=18 September 2021|title=Triomf de prestigi de la selecció femenina a Liechtenstein}}</ref> [[Teresa Morató]] scored a hat-trick, while the fourth goal was netted by Erica Gonçalves.
+
+==Team image==
+===Kits and crest===
+====Kit suppliers====
+{| class="wikitable"
+|-
+! Kit provider
+! Period
+|-
+| {{flagicon|GER}} [[Adidas]]
+| 2014–present
+|}
+
+==Results and fixtures==
+{{main|Andorra women's national football team results}}
+{{See also|{{CURRENTYEAR}} in association football|{{CURRENTYEAR}} in sports|FIFA International Match Calendar}}
+
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+;Legend
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Lose|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{football box collapsible
+| format     = 1
+| date       = {{Start date|2025|10|22|df=y}}
+| time       = 16:00
+| round      = [[Exhibition game|International friendly]]
+| team1      = {{fbw-rt|AND}}
+| score      = 2–0
+| report     = 
+| team2      = {{fbw|GIB}}
+| goals1     = 
+*[[Tere Morató|Morató]] {{goal|89}}
+*[[Maria Ruzafa|Ruzafa]] {{goal|90+8}}
+| goals2     = 
+| stadium    = [[Estadi Nacional]]
+| location   = [[Andorra la Vella]], Andorra
+| referee    = 
+| attendance = 
+| result     = w
+}}
+{{football box collapsible
+| format     = 1
+| date       = {{Start date|2025|10|25|df=y}}
+| time       = 
+| round      = [[Exhibition game|International friendly]]
+| team1      = {{fbw-rt|AND}}
+| score      = 3–1
+| report     = 
+| team2      = {{fbw|GIB}}
+| goals1     = 
+| goals2     = 
+| stadium    = [[Estadi de la FAF]]
+| location   = [[Encamp]], Andorra
+| referee    = 
+| attendance = 
+| result     = w
+}}
+
+===2026===
+{{Football box collapsible
+|format     = 1
+|round      = [[2027 FIFA Women's World Cup qualification – UEFA League C|2027 FIFA Women's World Cup qualification]]
+|date       = 3 March 
+|time       = 19:00
+|team1      = {{fbw-rt|AND}}
+|score      = 0–0
+|report     = https://www.uefa.com/womenseuropeanqualifiers/match/2046775--andorra-vs-hungary/
+|team2      = {{fbw|HUN}}
+|goals1     = 
+|goals2     = 
+|location   = [[Andorra la Vella]], Andorra
+|stadium    = [[Estadi Nacional]]
+|attendance = 330
+|referee    = [[Roxana Recorean]] ([[Romanian Football Federation|Romania]])
+|result     = D
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2027 FIFA Women's World Cup qualification – UEFA League C|2027 FIFA Women's World Cup qualification]]
+|date       = 7 March 
+|time       = 15:00
+|team1      = {{fbw-rt|MKD}}
+|score      = 3–0
+|report     = https://www.uefa.com/womenseuropeanqualifiers/match/2046800--north-macedonia-vs-andorra/
+|team2      = {{fbw|AND}}
+|goals1     = 
+*[[Teona Galabovska|Galabovska]] {{Goal|17}}
+*[[Simona Meijer|Meijer]] {{Goal|20}}
+*[[Melanija Grozdanova|Grozdanova]] {{Goal|83}}
+|goals2     = 
+|location   = [[Bitola]], North Macedonia
+|stadium    = [[Petar Miloševski Football Stadium|Petar Miloševski Stadium]]
+|attendance = 650
+|referee    = [[Charlotte Carpenter]] ([[Football Association of Wales|Wales]])
+|result     = L
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2027 FIFA Women's World Cup qualification – UEFA League C|2027 FIFA Women's World Cup qualification]]
+|date       = 14 April 
+|time       = 19:00
+|team1      = {{fbw-rt|AND}}
+|score      = 1–3
+|report     = https://www.uefa.com/womenseuropeanqualifiers/match/2046825--andorra-vs-azerbaijan/
+|team2      = {{fbw|AZE}}
+|goals1     = 
+*[[Teresa Morató|Morató]] {{Goal|12}}
+|goals2     = 
+*[[Sevinj Jafarzade|Jafarzade]] {{Goal|15||50|pen.}}
+*[[Esra Manya|Manya]] {{Goal|90+5}}
+|location   = [[Andorra la Vella]], Andorra
+|stadium    = [[Estadi Nacional]]
+|attendance = 353
+|referee    = [[Kristina Kozoroh]] ([[Ukrainian Association of Football|Ukraine]])
+|result     = L
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2027 FIFA Women's World Cup qualification – UEFA League C|2027 FIFA Women's World Cup qualification]]
+|date       = 18 April 
+|time       = 15:00 {{small|(17:00 [[UTC+04:00|UTC+4]])}}
+|team1      = {{fbw-rt|AZE}}
+|score      = 2–0
+|report     = https://www.uefa.com/womenseuropeanqualifiers/match/2046847--azerbaijan-vs-andorra/
+|team2      = {{fbw|AND}}
+|goals1     = 
+*[[Yeliz Açar|Açar]] {{goal|12}}
+*[[Esra Manya|Manya]] {{goal|64}}
+|goals2     = 
+|location   = [[Absheron District|Absheron]], Azerbaijan
+|stadium    = [[Bank Respublika Arena]] 
+|attendance = 130
+|referee    = [[Vesna Miletić]] ([[Football Association of Bosnia and Herzegovina|Bosnia and Herzegovina]])
+|result     = L
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2027 FIFA Women's World Cup qualification – UEFA League C|2027 FIFA Women's World Cup qualification]]
+|date       = 5 June 
+|time       = 19:30
+|team1      = {{fbw-rt|AND}}
+|score      = 0–1
+|report     = https://www.uefa.com/womenseuropeanqualifiers/match/2046875--andorra-vs-north-macedonia/
+|team2      = {{fbw|MKD}}
+|goals1     = 
+|goals2     = 
+*[[Pavlinka Nikolovska|Nikolovska]] {{goal|86}}
+|location   = [[Andorra la Vella]], [[Andorra]]
+|stadium    = [[Estadi Nacional]] 
+|attendance = 347
+|referee    = Ana Afo ([[Portuguese Football Federation|Portugal]])
+|result     = L
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2027 FIFA Women's World Cup qualification – UEFA League C|2027 FIFA Women's World Cup qualification]]
+|date       = 9 June 
+| time       = 19:00
+| team1      = {{fbw-rt|HUN}}
+| score      = 6–1
+| team2      = {{fbw|AND}}
+| goals1     =
+*[[Viktória Nagy|Vik. Nagy]] {{goal|3}}
+*[[Zsanett Kaján|Kaján]] {{goal|39}}
+*[[Vanessza Nagy|Va. Nagy]] {{goal|41}}
+*[[Evelin Fenyvesi|Fenyvesi]] {{goal|57||69}}
+*[[Sára Pusztai|Pusztai]] {{goal|89}}
+| goals2     =
+*[[Maria Da Cruz|Da Cruz]] {{goal|55}}
+| stadium    = [[Illovszky Rudolf Stadion]]
+| location   = [[Budapest]], Hungary
+| attendance =
+| referee    =  Melek Dakan ([[Turkish Football Association|Turkey]])
+| report     = [https://www.fifa.com/en/match-centre/match/521/292312/292313/400021587 Report (FIFA)]<br/>[https://www.uefa.com/womenseuropeanqualifiers/match/2046893--hungary-vs-andorra/ Report (UEFA)]
+| result     = L
+}}
+
+==Head-to-head record==
+{{Updated|9 June 2026}}
+
+{| class="sortable wikitable" style="text-align:center;"
+|-
+! Team
+! width=28|{{Tooltip|GP|Games played}}
+! width=28|{{Tooltip|W|Wins}}
+! width=28|{{Tooltip|D|Draws}}
+! width=28|{{Tooltip|L|Losses}}
+! width=28|{{Tooltip|GF|Goals for}}
+! width=28|{{Tooltip|GA|Goals against}}
+! width=28|{{Tooltip|GD|Goals difference}}
+|-
+| style="text-align:left;"| {{fbw|AZE}} || 2 || 0 || 0 || 2 || 1 || 5 || −4
+|-
+| style="text-align:left;"| {{fbw|CYP}} || 2 || 1 || 1 || 0 || 4 || 3 || +1
+|-
+| style="text-align:left;"| {{fbw|FAR}} || 5 || 0 || 0 || 5 || 1 || 20 || −19
+|-
+| style="text-align:left;"| {{fbw|GEO}} || 3 || 0 || 0 || 3 || 2 || 11 || −9
+|-
+| style="text-align:left;"| {{fbw|GIB}} || 6 || 6 || 0 || 0 || 18 || 5 || +13
+|-
+| style="text-align:left;"| {{fbw|GRE}} || 2 || 0 || 0 || 2 || 0 || 9 || −9
+|-
+| style="text-align:left;"| {{fbw|HUN}} || 2 || 0 || 1 || 1 || 1 || 6 || –5
+|-
+| style="text-align:left;"| {{fbw|ISR}} || 1 || 0 || 0 || 1 || 0 || 7 || −7
+|-
+| style="text-align:left;"| {{fbw|LVA}} || 2 || 0 || 0 || 2 || 0 || 8 || −8
+|-
+| style="text-align:left;"| {{fbw|LIE}} || 2 || 2 || 0 || 0 || 7 || 3 || +4
+|-
+| style="text-align:left;"| {{fbw|LTU}} || 1 || 0 || 0 || 1 || 0 || 2 || −2
+|-
+| style="text-align:left;"| {{fbw|LUX}} || 2 || 0 || 0 || 2 || 1 || 6 || −5
+|-
+| style="text-align:left;"| {{fbw|MLT}} || 7 || 0 || 1 || 6 || 3 || 21 || −18
+|-
+| style="text-align:left;"| {{fbw|MDA}} || 3 || 1 || 1 || 1 || 1 || 6 || −5
+|-
+| style="text-align:left;"| {{fbw|MNE}} || 2 || 0 || 0 || 2 || 2 || 11 || −9
+|-
+| style="text-align:left;"| {{fbw|MKD}} || 2 || 0 || 0 || 2 || 0 || 4 || −4
+|-
+| style="text-align:left;"| {{fbw|KSA}} || 2 || 2 || 0 || 0 || 6 || 1 || +5
+|-
+| style="text-align:left;"| {{fbw|TAH}} || 1 || 0 || 1 || 0 || 0 || 0 || 0
+|- class="sortbottom"
+! Total || 47 || 12 || 5 || 30 || 47 || 130 || −83
+|}
+
+==Season to season==
+This is a list of the performances of ENFAF, the Andorran Football Federation's team in the Spanish women's league system.
+
+{|  class="wikitable" 
+|- style="background:#f0f6fa;"
+!Season
+!Tier
+!Division
+!Place
+|-
+|style="background:#CECE1B;"|2011–12
+|style="background:#CECE1B;"|4
+|style="background:#CECE1B;"|[[Ligas Regionales (Spanish women's football)|1ª Catalana]]
+|style="background:#CECE1B;"|16th
+|-
+|style="background:#25A8F9;"|2012–13
+|style="background:#25A8F9;"|5
+|style="background:#25A8F9;"|[[Ligas Regionales (Spanish women's football)|2ª Catalana]]
+|style="background:#25A8F9;"|3rd
+|-
+|style="background:#25A8F9;"|2013–14
+|style="background:#25A8F9;"|5
+|style="background:#25A8F9;"|[[Ligas Regionales (Spanish women's football)|2ª Catalana]]
+|style="background:#25A8F9;"|1st
+|- 
+|style="background:#CECE1B;"|2014–15
+|style="background:#CECE1B;"|4
+|style="background:#CECE1B;"|[[Ligas Regionales (Spanish women's football)|1ª Catalana]]
+|style="background:#CECE1B;"|9th
+|- 
+|style="background:#CECE1B;"|2015–16
+|style="background:#CECE1B;"|4
+|style="background:#CECE1B;"|[[Ligas Regionales (Spanish women's football)|1ª Catalana]]
+|style="background:#CECE1B;"|11th
+|-
+|style="background:#CECE1B;"|2016–17
+|style="background:#CECE1B;"|4
+|style="background:#CECE1B;"|[[Ligas Regionales (Spanish women's football)|1ª Catalana]]
+|style="background:#CECE1B;"|9th
+|-
+|style="background:#CECE1B;"|2017–18
+|style="background:#CECE1B;"|4
+|style="background:#CECE1B;"|[[Ligas Regionales (Spanish women's football)|1ª Catalana]]
+|style="background:#CECE1B;"|6th
+|-
+|style="background:#CECE1B;"|2018–19
+|style="background:#CECE1B;"|4
+|style="background:#CECE1B;"|[[Ligas Regionales (Spanish women's football)|1ª Catalana]]
+|style="background:#CECE1B;"|6th
+|-
+|style="background:#CECE1B;"|2019–20
+|style="background:#CECE1B;"|5
+|style="background:#CECE1B;"|[[Ligas Regionales (Spanish women's football)|1ª Catalana]]
+|style="background:#CECE1B;"|2nd
+|-
+|style="background:#FF7F00;"|2020–21
+|style="background:#FF7F00;"|4
+|style="background:#FF7F00;"|[[Ligas Regionales (Spanish women's football)|Pref. Cat.]]
+|style="background:#FF7F00;"|15th
+|-
+|style="background:#FF7F00;"|2021–22
+|style="background:#FF7F00;"|5
+|style="background:#FF7F00;"|[[Ligas Regionales (Spanish women's football)|Pref. Cat.]]
+|style="background:#FF7F00;"|10th
+|-
+|style="background:#FF7F00;"|2022–23
+|style="background:#FF7F00;"|5
+|style="background:#FF7F00;"|[[Ligas Regionales (Spanish women's football)|Pref. Cat.]]
+|style="background:#FF7F00;"|5th
+|}
+
+==Coaching staff==
+===Current coaching staff===
+{{Expand section|date=November 2020}}
+{| class="wikitable"
+|-
+! Position
+! Name
+! Ref.
+|-
+| [[Coach (sport)#Association football|Head coach]]
+| {{flagicon|AND}} Albert Panadero
+| 
+|-
+<!--
+| Assistant coach
+| {{flagicon|}} [[]]
+| 
+|-
+| Goalkeeping coach
+| {{flagicon|}} [[]]
+| 
+|-
+| Physical coach
+| {{flagicon|}} [[]]
+| 
+-->
+|}
+
+===Manager history===
+*{{flagicon|Andorra}} Joan Carles Ruiz (2014–2016)
+*{{flagicon|AND}} José Antonio Martín (2016–2023)
+*{{flagicon|AND}} Albert Panadero (2024–)
+
+==Players==
+{{Main|List of Andorra women's international footballers}}
+{{See also|Category:Andorra women's international footballers}}
+
+===Current squad===
+*The following players were named for the [[2025 UEFA Women's Nations League C|2025 UEFA Women's Nations League]] matches against [[Georgia women's national football team|Georgia]] and [[Malta women's national football team|Malta]] on 30 May  and 3 June 2025.<ref>[https://www.facebook.com/photo.php?fbid=1123314843165746&set=pb.100064617222554.-2207520000&type=3 LA LLISTA]</ref>
+''Caps and goals are correct, as of 9 April 2024.''
+
+{{nat fs g start}}
+{{nat fs g player|no=|pos=GK|name={{Sortname|Alex|Cardoso}}|age= |caps= |goals= |club= |clubnat=|latest=}}
+{{nat fs g player|no=23|pos=GK|name={{Sortname|Alba|Martín}}|age={{Birth date and age|df=yes|2008|11|17}}|caps=|goals=|club=[[Andorran Football Federation|ENFAF]]|clubnat=AND}}
+{{nat fs break}}
+{{nat fs g player|no=20|pos=DF|name={{Sortname|Laia|Solé}}|age= |caps= |goals=0|club=|clubnat=AND}}
+{{nat fs g player|no=4|pos=DF|name={{Sortname|Neus|Rosas}}|age={{Birth date and age|df=yes|2005|8|4}}|caps=8|goals=0|club=[[Iowa Western Community College|Iowa Western Reivers]]|clubnat=USA}}
+{{nat fs g player|no=20|pos=DF|name={{Sortname|Laia|Sin}}|age={{Birth date and age|df=yes|2003|5|3}}|caps=8|goals=0|club=[[Andorran Football Federation|ENFAF]]|clubnat=AND}}
+{{nat fs g player|no=15|pos=DF|name={{Sortname|Paula|da Silva}}|age={{Birth date and age|2000|12|7|df=yes}}|caps=8|goals=0|club=[[Andorran Football Federation|ENFAF]]|clubnat=AND}}
+{{nat fs g player|no=|pos=DF|name={{Sortname|Zoe|Planaguma}}|age= |caps= |goals= |club= |clubnat=|latest= }}
+{{nat fs g player|no=|pos=DF|name={{Sortname|Olga|Sabio}}|age={{birth date and age|df=y|1999|11|28}}|caps= |goals= |club= |clubnat=|latest= }}
+{{nat fs break}}
+{{nat fs g player|no=|pos=MF|name={{Sortname|Marina|Fernández|dab=footballer}}|other=[[Captain (association football)|captain]]|age={{Birth date and age|1996|5|11|df=yes}}|caps=8|goals=1|club=[[SE AEM|AEM B]]|clubnat=ESP|latest= }}
+{{nat fs g player|no=|pos=MF|name={{Sortname|Elia|Quilez}}|age= |caps= |goals=0|club= |clubnat=AND|latest= }}
+{{nat fs g player|no=|pos=MF|name={{Sortname|Erica|Gonçalves}}|age={{Birth date and age|df=yes|2002|5|9}}|caps=8|goals=0|club=[[Andorran Football Federation|ENFAF]]|clubnat=AND|latest= }}
+{{nat fs g player|no=|pos=MF|name={{Sortname|Maria|da Cruz}}|age={{birth date and age|df=yes|2004|5|10}}|caps=5|goals=0|club=[[Andorran Football Federation|ENFAF]]|clubnat=AND|latest= }}
+{{nat fs g player|no=|pos=MF|name={{Sortname|Cristina|Gonzalez|dab=footballer}}|age= |caps= |goals=0|club= |clubnat=AND|latest= }}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=FW|name={{Sortname|Tere|Morató}}|age={{Birth date and age|1998|3|28|df=yes}}|caps=8|goals=1|club=[[Deportivo Alavés Gloriosas|Alavés]]|clubnat=ESP}}
+{{nat fs g player|no=|pos=FW|name={{Sortname|Emma|Duro}}|age= |caps= |goals=0|club= |clubnat=AND|latest= }}
+{{nat fs g player|no=16|pos=FW|name={{Sortname|Clàudia|Plaja}}|age={{Birth date and age|df=yes|2005|4|19}}|caps=2|goals=0|club=[[Olympia Las Rozas|Olympia Las Rozas B]]|clubnat=ESP|latest= }}
+{{nat fs g player|no=|pos=FW|name={{Sortname|Carla|Ber}}|age= |caps= |goals= |club= |clubnat=|latest= }}
+{{nat fs g player|no=10|pos=FW|name={{Sortname|Maria|Ruzafa}}|age={{Birth date and age|df=yes|1998|8|7}}|caps=7|goals=0|club=[[OGC Nice|Nice]]|clubnat=FRA}}
+{{nat fs g player|no=11|pos=FW|name={{Sortname|Gemma|Lluch}}|age={{Birth date and age|df=yes|2004|1|16}}|caps=3|goals=0|club=[[Andorran Football Federation|ENFAF]]|clubnat=AND|latest= }}
+{{nat fs g player|no=|pos=FW|name={{Sortname|Ariana|Goncalves}}|age= |caps= |goals= |club= |clubnat=|latest= }}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have been called up to a squad in the past 12 months.
+
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name={{Sortname|Violeta|de Freitas}}|age={{Birth date and age|df=yes|2008|2|4}}|caps=0|goals=0|club=[[Andorran Football Federation|ENFAF]]|clubnat=AND|latest=v. {{fbw|GRE}}, 9 April 2024}}
+{{nat fs r player|no=|pos=GK|name={{Sortname|María|Cardoso}}|age={{Birth date and age|df=yes|1996|2|26}}|caps=1|goals=0|club=[[Andorran Football Federation|ENFAF]]|clubnat=AND|latest=v. {{fbw|MNE}}, 5 April 2024}}
+{{nat fs r player|no=|pos=GK|name={{Sortname|Luz|Zurdo}}|age={{Birth date and age|df=yes|2001|12|4}}|caps=0|goals=0|club=[[Andorran Football Federation|ENFAF]]|clubnat=AND|latest=v. {{fbw|MLT}}, 31 October 2023}}
+{{nat fs r player|no= |pos=GK|name={{Sortname|Ainara|Ruiz}}|age={{Birth date and age|df=yes|2006|1|11}}|caps=0|goals=0|club=[[Andorran Football Federation|ENFAF]]|clubnat=AND|latest=v. {{fb|FRO}}, 16 July 2024}}
+{{nat fs r player|no=12|pos=GK|name={{Sortname|Luna|Marcet}}|age={{Birth date and age|df=yes|1999|3|29}}|caps=7|goals=0|club=[[FC Pirineus|Pirineus]]|clubnat=ESP|latest=v. {{fbw|CYP}},8 April 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name={{Sortname|Lluna|Gallego}}|age={{Birth date and age|2000|3|14|df=yes}}|caps=1|goals=0|club=[[CD La Floresta|La Floresta]]|clubnat=ESP|latest=v. {{fbw|MNE}},4 June 2024}}
+{{nat fs r player|no=|pos=DF|name={{Sortname|Catia|Da Silva}}|age= |caps= |goals= |club= |clubnat=|latest=v. {{fbw|GIB}}, 26 October 2024}}
+{{nat fs r player|no= |pos=DF|name={{Sortname|Lucia|Cullerés}}|age={{Birth date and age|2003|5|24|df=yes}}|caps=2|goals=0|club=[[Andorran Football Federation|ENFAF]]|clubnat=AND|latest=v. {{fbw|FRO}}, 16 July 2024}}
+{{nat fs r player|no=|pos=DF|name={{Sortname|Lia|Gil}}|age= |caps= |goals= |club= |clubnat=|latest=v. {{fbw|MLT}},25 February 2025}}
+{{nat fs r player|no=21|pos=DF|name={{Sortname|Laura|Borja}}|age={{Birth date and age|2002|2|6|df=yes}}|caps=3|goals=0|club=[[CD Fontsanta-Fatjó|Fontsanta-Fatjó C]]|clubnat=ESP|latest=v. {{fbw|MLT}},25 February 2025}}
+{{nat fs r player|no=3|pos=DF|name={{Sortname|Maria|Moles}}|age={{Birth date and age|2003|5|8|df=yes}}|caps=5|goals=0|club=[[FC Levante Las Planas|Levante Las Planas]]|clubnat=ESP|latest=v. {{fbw|CYP}},8 April 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name={{Sortname|Lola|Campos}}|age={{birth date and age|df=yes|2005|12|12}}|caps=1|goals=0|club=[[CD Ribes|Ribes]]|clubnat=ESP|latest=v. {{fbw|MNE}}, 5 April 2024}}
+{{nat fs r player|no=|pos=MF|name={{Sortname|Júlia|Domingo}}|age={{Birth date and age|df=yes|2007|10|8}}|caps=2|goals=0|club=[[Andorran Football Federation|ENFAF]]|clubnat=AND|latest=v. {{fbw|MDA}}, 5 December 2023}}
+{{nat fs r player|no= |pos=MF|name={{Sortname|Sònia|Carrancà}}|age={{Birth date and age|df=yes|1999|2|7}}|caps=6|goals=1|club=[[CE Seagull|Seagull B]]|clubnat=ESP|latest=v. {{fbw|FRO}}, 16 July 2024}}
+{{nat fs r player|no= |pos=MF|name={{Sortname|Iria|Domínguez}}|age={{Birth date and age|df=yes|2000|2|21}}|caps=4|goals=0|club=[[CE Seagull|Seagull B]]|clubnat=ESP|latest=v. {{fbw|FRO}}, 16 July 2024 }}
+{{nat fs r player|no=|pos=MF|name={{Sortname|Uma|de Vertiz}}|age={{Birth date and age|df=yes|2005|4|28}}|caps=2|goals=0|club=[[CD Ribes|Ribes]]|clubnat=ESP|latest=v. {{fbw|GIB}}, 26 October 2024}}
+{{nat fs r player|no=14|pos=MF|name={{Sortname|Laia|Solé}}|age={{birth date and age|df=yes|2005|1|7}}|caps=6|goals=0|club=[[Andorran Football Federation|ENFAF]]|clubnat=AND|latest=v. {{fbw|GIB}}, 26 October 2024}}
+{{nat fs r player|no=|pos=MF|name={{Sortname|Noa|Gallinat}}|age={{Birth date and age|df=yes|2007|3|8}}|caps=6|goals=0|club=[[Andorran Football Federation|ENFAF]]|clubnat=AND|latest=v. {{fbw|GIB}}, 26 October 2024}}
+{{nat fs r player|no=|pos=MF|name={{Sortname|Erica|Goncalves}}|age= |caps= |goals=0|club= |clubnat=AND|latest=v. {{fbw|MLT}},25 February 2025 }}
+{{nat fs r player|no=8|pos=MF|name={{Sortname|Aitana|Colobrans}}|age={{birth date and age|df=yes|2006|9|3}}|caps=2|goals=0|club=[[Andorran Football Federation|ENFAF]]|clubnat=AND|latest=v. {{fbw|CYP}},8 April 2025}}
+{{nat fs r player|no=|pos=MF|name={{Sortname|Chloe|Izquierdo}}|age={{birth date and age|df=y|2000|11|28}}|caps= |goals=0|club= |clubnat=AND|latest=v. {{fbw|CYP}},8 April 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name={{Sortname|Ariana|Correia}}|age={{Birth date and age|df=yes|1999|9|23}}|caps=1|goals=0|club=[[Andorran Football Federation|ENFAF]]|clubnat=AND|latest=v. {{fbw|GRE}}, 9 April 2024}}
+{{nat fs r player|no=|pos=FW|name={{Sortname|Júlia|Rodríguez}}|age={{Birth date and age|df=yes|2007|5|21}}|caps=1|goals=0|club=[[Andorran Football Federation|ENFAF]]|clubnat=AND|latest=v. {{fbw|MNE}}, 5 April 2024}}
+{{nat fs r player|no= |pos=FW|name={{Sortname|Cristina|Lacour}}|age={{Birth date and age|df=yes|2002|9|10}}|caps=1|goals=0|club=[[Andorran Football Federation|ENFAF]]|clubnat=AND|latest=v. {{fbw|FRO}}, 16 July 2024}}
+{{nat fs r player|no=11|pos=FW|name={{Sortname|Ari|Goncalves}}|age= |caps= |goals=0|club= |clubnat=AND|latest=v. {{fbw|GIB}}, 26 October 2024}}
+{{nat fs r player|no=22|pos=FW|name={{Sortname|Míriam|Tizón}}|age={{Birth date and age|df=yes|1991|3|9}}|caps=7|goals=0|club=[[Andorran Football Federation|ENFAF]]|clubnat=AND|latest=v. {{fbw|GIB}}, 26 October 2024}}
+{{nat fs r player|no=|pos=FW|name={{Sortname|Ariadna|Pernia}}|age= |caps= |goals= |club= |clubnat=|latest=v. {{fbw|CYP}},8 April 2025 }}
+{{nat fs end}}
+
+==Records==
+''Friendly games are not included in records''
+{{col-begin}}
+{{col-2}}
+
+===Most capped players===
+{| class="wikitable"
+! Rank
+! Player
+! Caps
+! Goals
+! Years
+|-
+|align=center|1
+|[[Teresa Morató]]
+|align=center|19
+|align=center|9
+|2015-
+|-
+| rowspan="8" align=center|2
+| '''Alba López'''
+| align=center|3
+| align=center|1
+| 2015–
+|-
+| '''Bibiana Gonçalves'''
+| align=center|3
+| align=center|1
+| 2015–
+|-
+| '''[[Marina Fernández (footballer)|Marina Fernández]]'''
+| align=center|3
+| align=center|1
+| 2015–
+|- 
+| '''Daniela Rodrigues'''
+| align=center|3
+| align=center|0
+| 2015–
+|-
+| '''Samantha Reyes'''
+| align=center|3
+| align=center|0
+| 2015–
+|-
+| '''[[Margot Llobera]]'''
+| align=center|3
+| align=center|0
+| 2015–
+|-
+| '''Andreina Silva'''
+| align=center|3
+| align=center|0
+| 2015–
+|-
+| '''Sònia Carrancà'''
+| align=center|3
+| align=center|0
+| 2015–
+|-
+|}
+{{col-2}}
+
+===Top goalscorers===
+{| class="wikitable"
+! Rank
+! Player
+! Caps
+! Goals
+! Years
+|-
+|align=center|1
+|[[Teresa Morató]]
+|align=center|19
+|align=center|9
+|2015-
+|-
+| rowspan="3" align=center|2
+| '''Alba López'''
+| align=center|3
+| align=center|1<!--One goal at friendly match not included-->
+| 2015–
+|-
+| '''Bibiana Gonçalves'''
+| align=center|3
+| align=center|1
+| 2015–
+|-
+| '''[[Marina Fernández (footballer)|Marina Fernández]]'''
+| align=center|3
+| align=center|1
+| 2015–
+|}
+{{col-end}}
+
+==Competitive record==
+===FIFA Women's World Cup===
+{| class="wikitable" style="text-align: center;"
+!colspan=8|[[FIFA Women's World Cup]] record
+!rowspan=100|
+!colspan=8|Qualification record
+|-
+!Year
+!Result
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D*|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+<!-- Qualifying -->
+!Pld
+!W
+!D*
+!L
+!GF
+!GA
+!{{Tooltip|P/R|Promotion, relegation, or no change at end of season}}
+!{{Tooltip|Rnk|Overall ranking}}
+|-
+|{{flagicon|China}} [[1991 FIFA Women's World Cup|1991]] to {{flagicon|Germany}} [[2011 FIFA Women's World Cup|2011]]
+|colspan=7 {{n/a|''Did not exist''}}
+|colspan=8 {{n/a|''Did not exist''}}
+|-
+|{{flagicon|Canada}} [[2015 FIFA Women's World Cup|2015]]
+|colspan=7|''Did not enter''
+|colspan=8|''Did not enter''
+|-
+|{{flagicon|France|1974}} [[2019 FIFA Women's World Cup|2019]]
+|colspan=7|''Did not qualify''
+|3||0||0||3||0||13|| colspan=2| –
+|-
+|{{flagicon|Australia}}{{flagicon|New Zealand}} [[2023 FIFA Women's World Cup|2023]]
+|colspan=7|''Did not enter''
+|colspan=8|''Did not enter''
+|-
+|{{flagicon|Brazil}} [[2027 FIFA Women's World Cup|2027]]
+|colspan=7|''To be determined''
+|colspan=8|''To be determined''
+|-
+|{{flagicon|Costa Rica}}{{flagicon|Jamaica}}{{flagicon|Mexico}}{{flagicon|USA}} [[2031 FIFA Women's World Cup|2031]]
+|colspan=7|''To be determined''
+|colspan=8|''To be determined''
+|-
+|{{flagicon|UK}} [[2035 FIFA Women's World Cup|2035]]
+|colspan=7|''To be determined''
+|colspan=8|''To be determined''
+|-
+! Total || 0/6 || – || – || – || – || – || –
+! 3 || 0 || 0 || 3 || 0 || 13 || colspan=2| –
+|}
+: {{updated|5 December 2024}}
+:''*Draws include knockout matches decided on [[Penalty shoot-out (association football)|penalty kicks]].''
+
+===UEFA Women's Championship===
+{| class="wikitable" style="text-align: center;"
+!colspan=8|[[UEFA Women's Championship]] record
+!rowspan=100|
+!colspan=8|Qualifying record
+|-
+!Year
+!Result
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D*|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+<!-- Qualifying -->
+!Pld
+!W
+!D*
+!L
+!GF
+!GA
+!{{Tooltip|P/R|Promotion, relegation, or no change at end of season}}
+!{{Tooltip|Rnk|Overall ranking}}
+|-
+|[[1984 European Competition for Women's Football|1984]] to {{flagicon|Sweden}} [[UEFA Women's Euro 2013|2013]]
+|colspan=7 {{n/a|''Did not exist''}}
+|colspan=8 {{n/a|''Did not exist''}}
+|- 
+|{{flagicon|Netherlands}} [[UEFA Women's Euro 2017|2017]]
+|colspan=7|''Did not qualify''
+|3||0||0||3||3||20|| colspan=2| –
+|-
+|{{flagicon|England}} [[UEFA Women's Euro 2022|2022]]
+|colspan=7|''Did not enter''
+|colspan=8|''Did not enter''
+|-
+|{{flagicon|Switzerland}} [[UEFA Women's Euro 2025|2025]]
+|colspan=7|''Did not qualify''
+||6||0||0||6||2||28||{{same position}}||51st
+|-
+|{{flagicon|Germany}} [[UEFA Women's Euro 2029|2029]]
+|colspan=7|''To be determined''
+|colspan=8|''To be determined''
+|- 
+! Total || 0/4 || – || – || – || – || – || –
+! 9 || 0 || 0 || 9 || 5 || 48 || colspan=2| 51st
+|}
+:{{updated|16 July 2024}}
+:''*Draws include knockout matches decided on penalty kicks.''
+
+===UEFA Women's Nations League===
+{| class="wikitable" style="text-align: center;"
+!colspan=13|[[UEFA Women's Nations League]] record
+|-
+!Year
+!League
+!Group
+!width=28|{{Tooltip|Pos|Position}}
+!width=28|{{Tooltip|Pld|Games played}}
+!width=28|{{Tooltip|W|Won}}
+!width=28|{{Tooltip|D|Drawn}}
+!width=28|{{Tooltip|L|Lost}}
+!width=28|{{Tooltip|GF|Goals for}}
+!width=28|{{Tooltip|GA|Goals against}}
+!width=35|{{Tooltip|P/R|Promotion/relegation at end of season}}
+!width=28|{{Tooltip|Rnk|Overall rank}}
+|-
+|[[2023–24 UEFA Women's Nations League|2023–24]]
+|[[2023–24 UEFA Women's Nations League C|C]]
+|[[2023–24 UEFA Women's Nations League C#Group 1|1]]
+||3rd||6||1||1||4||2||17||{{same position}}||47th
+|-
+|[[2025 UEFA Women's Nations League|2025]]
+|[[2025 UEFA Women's Nations League C|C]]
+|[[2025 UEFA Women's Nations League C#Group 2|2]]
+||4th||6||1||2||3||6||8||{{same position}}||51st
+|-
+!colspan=4|Total
+! 12 || 2 || 3 || 7 || 8 || 25 || colspan=2| –
+|}
+{{updated| 7 April 2026}}
+
+{| class="wikitable" style="font-size:85%"
+|-
+! {{rise}}
+| Promoted at end of season
+|-
+! {{same position}}
+| No movement at end of season
+|-
+! {{fall}}
+| Relegated at end of season
+|-
+! *
+| Participated in promotion/relegation play-offs
+|}
+
+==See also==
+{{Portal|Europe|Andorra|Sports|Association football|Women's association football}}
+*[[Andorra women's national under-17 football team]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[http://www.fedandfut.com/ Official website]
+*[https://www.facebook.com/Fedandfut/ facebook]
+*[https://web.archive.org/web/20100208165217/http://www.uefa.com/memberassociations/association=AND/index.html UEFA]
+*[https://web.archive.org/web/20070603190646/http://www.fifa.com/associations/association=and/index.html FIFA]
+
+{{Andorra national football team}}
+{{UEFA women's teams}}
+{{football in Andorra}}
+{{National sports teams of Andorra}}
+
+[[Category:Andorra women's national football team| ]]
+[[Category:Andorra women's national football teams| ]]
+[[Category:Andorran Football Federation national teams|Women's]]
+[[Category:2014 establishments in Andorra]]
+[[Category:National sports teams established in 2014]]

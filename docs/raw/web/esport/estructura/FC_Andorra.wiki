@@ -1,0 +1,833 @@
+{{Short description|Association football club in Andorra}}
+{{Distinguish|Andorra national football team|Andorra CF}}
+{{Use dmy dates|date=December 2023}}
+{{Infobox football club
+| clubname        = Andorra
+| image           = FC_Andorra_logo.svg
+| upright         = 0.72
+| fullname        = Futbol Club Andorra
+| short name      = FCA
+| nickname        = ''Els Tricolors'' (The Tricolours)
+| founded         = {{start date and years ago|df=y|1942|10|15}}
+| stadium          = [[Estadi de la FAF]]
+| capacity        = 5,108
+| owner           = [[Gerard Piqué]] (90%)<ref name="nuevodueno" >{{cite web|last=Garnica|first=Clara|title=Piqué ja té l'FC Andorra i Gabri i Jorquera ja l'entrenen|url=https://www.ara.ad/societat/Pique-FC-Andorra-Francesc-Destree_0_2151984970.html|language=Catalan|date=29 December 2018|access-date=30 December 2018}}</ref><br /> Cierco Group (10%)<ref>{{cite web|author=Economía Digital|title=Los Cierco afloran un 10% del FC Andorra|url=https://www.economiadigital.es/empresas/los-cierco-afloran-un-10-del-fc-andorra-de-pique_618038_102.html|publisher=Economía Digital|date=12 April 2019|access-date=20 July 2024}}</ref>
+| chairman        = Ferran Vilaseca
+| chrtitle        = President
+| manager         = [[Carles Manso]]
+| mgrtitle        = Head coach
+| league          = {{Spanish football updater|Andorra}}
+| season          = {{Spanish football updater|Andorra2}}
+| position        = {{Spanish football updater|Andorra3}}
+| current         = 2026–27 FC Andorra season
+| pattern_la1     = _fcandorra2627h
+| pattern_b1      = _fcandorra2627h
+| pattern_ra1     = _fcandorra2627h
+| pattern_sh1     = _fcandorra2627h
+| pattern_so1     = _fcandorra627hl
+| leftarm1        = 000055
+| body1           = 000055
+| rightarm1       = 000055
+| shorts1         = FFD000
+| socks1          = FF0000
+| pattern_la2     = _fcandorra2627a
+| pattern_b2      = _fcandorra2627a
+| pattern_ra2     = _fcandorra2627a
+| pattern_sh2     = _fcandorra2627a
+| pattern_so2     = _fcandorra2627al
+| leftarm2        = 
+| body2           = 
+| rightarm2       = 
+| shorts2         = 0066FF
+| socks2          = 
+| pattern_la3     = _nikeacademy2rw
+| pattern_b3      = _nikeacademy2rw
+| pattern_ra3     = _nikeacademy2rw
+| pattern_sh3     = 
+| pattern_so3     = 
+| leftarm3        = 
+| body3           = 
+| rightarm3       = 
+| shorts3         = ff0000
+| socks3          = ff0000
+| website         = {{URL|https://www.fcandorra.com/}}
+}}
+
+'''Futbol Club Andorra''' is a professional [[Association football|football]] club based in [[Andorra la Vella]], [[Andorra]], that currently competes in {{Spanish football updater|Andorra}}, in the [[Spanish football league system|Spanish league system]]. The club was founded in 1942<ref name="iusport" /> and currently plays its home fixtures at [[Estadi de la FAF]] in [[Encamp]]. In spite of being based in the microstate of [[Andorra]], the club, voluntarily affiliated to the [[Catalan Football Federation]],<ref name="iusport">{{Cite web|url=https://iusport.com/art/98855/posibles-escenarios-de-tener-un-exparaiso-fiscal-en-el-futbol-profesional-espanol|website=Iusport|title=Andorra y fiscalidad|first=Álvaro|last=Gómez de la Vega Jiménez|date=27 December 2019|access-date=6 June 2022|archive-date=20 September 2022|archive-url=https://web.archive.org/web/20220920225842/https://iusport.com/art/98855/posibles-escenarios-de-tener-un-exparaiso-fiscal-en-el-futbol-profesional-espanol|url-status=live}}</ref> has been allowed to compete in Spanish leagues since 1948.<ref>{{Cite web|url=https://www.fifa.com/es/news/andorra-el-pais-de-los-pirineos-y-el-futbol|website=[[fifa.com]]|title=Andorra, el país de los Pirineos... ¡y el fútbol!|date=5 November 2020|access-date=6 June 2022|archive-date=6 June 2022|archive-url=https://web.archive.org/web/20220606225958/https://www.fifa.com/es/news/andorra-el-pais-de-los-pirineos-y-el-futbol|url-status=live}}</ref>
+
+== History ==
+Futbol Club Andorra has historically been the biggest football club in the country. The club was founded on 15 October 1942 in the College of Our Lady of Meritxell and was the first football club to be founded in Andorra.<ref>{{cite web|url=https://www.andorradifusio.ad/esports/lluis-espana-vol-recuperar-memoria-historica-de-lfc-andorra|title=Lluís España vol recuperar la memòria històrica de l'FC Andorra - Andorra Difusió|first=Andorra Difusió|last=RTVA|website=www.andorradifusio.ad|access-date=24 June 2019|archive-date=20 December 2018|archive-url=https://web.archive.org/web/20181220230454/https://www.andorradifusio.ad/esports/lluis-espana-vol-recuperar-memoria-historica-de-lfc-andorra|url-status=live}}</ref> The club joined the categories of the [[Catalan Football Federation]], contesting the [[La Liga|Spanish League]] and [[Spanish Cup]]. In the 1963–64 season FC Andorra debuted in the Segunda Regional, finishing in the 11th position.<ref>{{Cite web|url=http://lafutbolteca.com/futbol-club-andorra/|title=Futbol Club Andorrà :: La Futbolteca. Enciclopedia del Fútbol Español|language=ES-es|access-date=2020-02-03|archive-date=1 September 2019|archive-url=https://web.archive.org/web/20190901014042/http://lafutbolteca.com/futbol-club-andorra/|url-status=live}}</ref>
+
+After several years in regional categories, the Andorran club climbed in 1981 to [[Segunda División B]] (third level of the Spanish league system), where they remained for 17 years, with a break in the 1986–87 season when the team played in [[Tercera División]]. In the [[1988–89 Segunda División B|1988–89]] and [[1989–90 Segunda División B|1989–90]] seasons FC Andorra were close to promotion to [[Segunda División]].
+
+The club's greatest success came in 1994 when FC Andorra won the [[Copa Catalunya]]. The Andorran team eliminated [[FC Barcelona]] in the semi-finals (aggregate 2–1) and defeated [[RCD Espanyol]] in the final played in the Municipal Stadium of Vilassar de Mar, winning 4–2 on penalties after no goals were scored during ordinary and extra time.<ref>{{Cite web |url=http://hemeroteca-paginas.mundodeportivo.com/EMD01/HEM/1994/06/08/MD19940608-020.pdf |title=La ilusiófl del Andorra le lleva' hásta el título |access-date=20 December 2018 |archive-date=20 September 2022 |archive-url=https://web.archive.org/web/20220920225842/http://hemeroteca-paginas.mundodeportivo.com/EMD01/HEM/1994/06/08/MD19940608-020.pdf |url-status=live }}</ref>
+
+At the end of the [[1997–98 Segunda División B|1997–98 season]] the team was relegated to Tercera División (fourth tier).
+
+Their best performance to date in the [[Copa del Rey]] was in the [[1995–96 Copa del Rey|1995–96 edition]], beating [[Palamós CF]] and [[Getafe CF]] before being eliminated by [[Celta Vigo]] in Round 16.
+
+From 1986 to 2013 the club also had a futsal section ([[FC Andorra Futsal]]) that played in [[División de Honor de Futsal|División de Honor]] and [[División de Plata de Futsal|División de Plata]].
+
+The Andorran club was bought in December 2018 by [[Gerard Piqué]]'s Kosmos Holding Group,<ref>{{cite web|url=https://www.sport-english.com/en/news/barca/gerard-pique-is-now-the-owner-of-fc-andorra-7223463|title=Gerard Pique is now the owner of FC Andorra|last=Sport|date=29 December 2018|website=sport|access-date=30 December 2018|archive-date=30 December 2018|archive-url=https://web.archive.org/web/20181230142008/https://www.sport-english.com/en/news/barca/gerard-pique-is-now-the-owner-of-fc-andorra-7223463|url-status=dead}}</ref><ref>{{cite web|url=https://www.andorradifusio.ad/esports/acord-fc-andorra-grup-kosmos-preveu|title=L'acord de l'FC Andorra amb el grup Kosmos preveu construir dos camps de futbol - Andorra Difusió|first=Andorra Difusió|last=RTVA|website=www.andorradifusio.ad|access-date=24 June 2019|archive-date=30 December 2018|archive-url=https://web.archive.org/web/20181230122319/https://www.andorradifusio.ad/esports/acord-fc-andorra-grup-kosmos-preveu|url-status=live}}</ref> and in April 2019 presented its main sponsor [[Mora Banc Grup|MoraBanc]];<ref>{{Cite web|url=http://www.epa.eu/sports-photos/soccer-photos/gerard-pique-presents-new-fc-andorra-sponsor-morabanc-photos-55120866|title=Gerard Pique presents new FC Andorra sponsor MoraBanc Photos|website=epa.eu|language=en|access-date=2019-08-13|archive-date=20 September 2022|archive-url=https://web.archive.org/web/20220920225844/http://www.epa.eu/sports-photos/soccer-photos/gerard-pique-presents-new-fc-andorra-sponsor-morabanc-photos-55120866|url-status=live}}</ref> a major bank in [[Andorra]]. Weeks later they achieved promotion to Tercera División, after a streak of 22 matches unbeaten.<ref>{{Citation|last=Schouten|first=Gina|chapter=A Neutral Case for Autonomy Promotion|date=2019-04-25|pages=170–197|publisher=Oxford University Press|isbn=9780198813071|doi=10.1093/oso/9780198813071.003.0006|title=Liberalism, Neutrality, and the Gendered Division of Labor}}</ref> In July 2019, the club paid a €452,022 fee to replace [[CF Reus Deportiu]] in the Segunda División B after Reus were relegated to the Tercera División for failing to pay its players.<ref>{{cite web |title=Gerard Pique's FC Andorra take final Segunda B place |url=https://www.football-espana.net/79500/gerard-piques-fc-andorra-take-final-segunda-b-place |website=Football Espana |access-date=29 July 2019 |date=29 July 2019 |archive-date=29 July 2019 |archive-url=https://web.archive.org/web/20190729150629/https://www.football-espana.net/79500/gerard-piques-fc-andorra-take-final-segunda-b-place |url-status=live }}</ref><ref>{{Cite web|url=https://www.bbc.co.uk/sport/football/49157454|title=FC Andorra: Gerard Pique's team pay £411,000 for promotion to Spanish third tier|date=29 July 2019|publisher=BBC Sport|access-date=30 July 2019|archive-date=30 July 2019|archive-url=https://web.archive.org/web/20190730111734/https://www.bbc.co.uk/sport/football/49157454|url-status=live}}</ref>
+
+On 20 February 2020, head coach [[Gabri (footballer, born 1979)|Gabri Garcia]] was fired from the club.<ref>{{Cite web|url=https://www.football-espana.net/2020/02/25/former-barcelona-player-gabri-sacked-by-gerard-piques-fc-andorra|title=Former Barcelona player Gabri sacked by Gerard Pique's FC Andorra|last=colin|date=2020-02-25|website=Football Espana|language=en|access-date=2020-03-21|archive-date=21 March 2020|archive-url=https://web.archive.org/web/20200321205543/https://www.football-espana.net/2020/02/25/former-barcelona-player-gabri-sacked-by-gerard-piques-fc-andorra|url-status=live}}</ref> The reason was poor results with 3 consecutive losses and 7 matches without a single victory.<ref>{{Cite web|url=https://www.marca.com/futbol/mas-futbol/2020/02/25/5e55034d22601d4a1d8b45ff.html|title=El Andorra de Piqué destituye a Gabri como entrenador|date=2020-02-25|website=Marca.com|language=es|access-date=2020-03-21|archive-date=21 March 2020|archive-url=https://web.archive.org/web/20200321205711/https://www.marca.com/futbol/mas-futbol/2020/02/25/5e55034d22601d4a1d8b45ff.html|url-status=live}}</ref> On the same day [[Nacho Castro]] was appointed as the club's new head coach.<ref>{{Cite web|url=https://www.sport.es/es/noticias/barca/pique-viaja-andorra-para-dar-bienvenida-nacho-castro-7866794|title=Piqué viaja a Andorra para dar la bienvenida a Nacho Castro|last=Sport|date=2020-02-27|website=sport|language=es|access-date=2020-03-21|archive-date=21 March 2020|archive-url=https://web.archive.org/web/20200321205849/https://www.sport.es/es/noticias/barca/pique-viaja-andorra-para-dar-bienvenida-nacho-castro-7866794|url-status=live}}</ref> On 27 February 2020, one of the biggest business groups in Andorra ''Pyrénées'' signed an agreement with the club, becoming its "premium partner".<ref>{{Cite web|url=https://www.lavanguardia.com/economia/20200313/474106494993/pyrenees-socio-premium-proyecto-gerard-pique-fc-andorra.html|title=Pyrénées se convierte en socio prémium del proyecto de Piqué para el FC Andorra|date=2020-03-13|website=La Vanguardia|language=es|access-date=2020-03-21|archive-date=21 March 2020|archive-url=https://web.archive.org/web/20200321210235/https://www.lavanguardia.com/economia/20200313/474106494993/pyrenees-socio-premium-proyecto-gerard-pique-fc-andorra.html|url-status=live}}</ref>
+
+In 2021 the team qualified for the [[2021 Segunda División B play-offs|promotion play-offs]] to Segunda División for the first time; however, the club was eliminated in the first round by [[Real Sociedad B]].<ref>{{cite web |title=La Real Sociedad B hace valer su puesto y luchará por el ascenso (2-1) |url=https://www.rfef.es/noticias/cronica-real-sociedad-b-hace-valer-su-puesto-y-luchara-ascenso-2-1 |website=rfef.es |access-date=9 July 2021 |language=es |date=15 May 2021 |archive-date=15 May 2021 |archive-url=https://web.archive.org/web/20210515204059/https://www.rfef.es/noticias/cronica-real-sociedad-b-hace-valer-su-puesto-y-luchara-ascenso-2-1 |url-status=live }}</ref> Although, despite this result the team achieved a place in the [[Primera División RFEF]], new league of the third level of Spanish football.<ref>{{cite web |url=https://www.abc.es/deportes/futbol/abci-federacion-desvela-misterio-nueva-segunda-denominara-primera-division-rfef-202009141930_noticia.html |title=La Federación desvela el misterio: La nueva Segunda B se denominará Primera División RFEF |language=es |trans-title=The Federation reveals the mystery: The new Second B will be called First Division RFEF |date=15 September 2020 |first=Jorge |last=Abizanda |work=[[ABC (newspaper)|ABC (Spain)]] |access-date=9 July 2021 |archive-date=10 October 2021 |archive-url=https://web.archive.org/web/20211010081048/https://www.abc.es/deportes/futbol/abci-federacion-desvela-misterio-nueva-segunda-denominara-primera-division-rfef-202009141930_noticia.html |url-status=live }}</ref>
+
+On 21 May 2022, the team was promoted to the [[Segunda División]] after beating already relegated [[UCAM Murcia CF|UCAM Murcia]] 1–0 at home, thus getting promoted to the second tier for the first time in their history.<ref>{{cite web |title=El Andorra de Piqué y Eder Sarabia asciende a Segunda división |url=https://www.marca.com/futbol/primera-rfef/2022/05/21/628912b022601d8d0e8b45a7.html |website=marca.com |access-date=21 May 2022 |language=es |date=21 May 2022 |archive-date=21 May 2022 |archive-url=https://web.archive.org/web/20220521205022/https://www.marca.com/futbol/primera-rfef/2022/05/21/628912b022601d8d0e8b45a7.html |url-status=live }}</ref>
+
+On 26 May 2024, the team was relegated to third division after two years stay in second division following a 0–3 defeat against [[Real Oviedo]]. On 21 June 2025, the team were promoted back to the Segunda División, for a second time, after defeating [[SD Ponferradina|Ponferradina]] 0–1 in the [[2025 Primera Federación play-offs|promotion playoffs]] second leg, winning the tie 2–1 on aggregate.<ref>{{cite web |url=https://cadenaser.com/castillayleon/2025/06/21/el-andorra-arrebata-de-penalti-el-ascenso-a-la-ponferradina-en-el-toralin-radio-bierzo/ |title=El Andorra arrebata de penalti el ascenso a la Ponferradina en el Toralín |publisher=Cadena SER |language=es |date=21 June 2025 }}</ref>
+
+== Stadium ==
+<!-- Deleted image removed: [[File:Estadi de la FAF.jpeg|thumb|right|[[Estadi de la FAF]], the club's home stadium since 2025.]] -->
+
+FC Andorra historically hosted their matches at the Camp d’Esports de les Valls in the capital city of [[Andorra la Vella]] before relocating in 1983, to the [[Estadi Comunal d'Aixovall]] which, after a renovation in 1999, had a capacity of 1,000 spectators.<ref>{{cite web|url=http://www.diariandorra.ad/noticies/esports/2014/12/12/comencen_les_obres_per_fer_camp_la_borda_mateu_63423_1128.html|title=Comencen les obres per fer el camp a la Borda Mateu|last=DiariAndorra|date=12 December 2014|website=DiariAndorra.ad|access-date=24 June 2019|archive-date=20 December 2018|archive-url=https://web.archive.org/web/20181220230749/http://www.diariandorra.ad/noticies/esports/2014/12/12/comencen_les_obres_per_fer_camp_la_borda_mateu_63423_1128.html|url-status=live}}</ref> Following the closure of Aixovall, the club relocated again in 2015 to the new, smaller Centre d'Entrenament de la FAF facility in Andorra la Vella.
+
+More recently the team have been based at the 500-seat Camp de Fútbol de Prada de Moles in [[Encamp]]<ref>{{cite web|url=https://www.elperiodic.ad/noticia/69816/lfc-andorra-debuta-a-prada-de-moles-contra-el-sant-ildefons|title=El Periòdic d'Andorra - Actualitat Andorra, Notícies Andorra|website=El Periòdic d'Andorra|date=9 February 2019 |access-date=2 June 2019|archive-date=2 June 2019|archive-url=https://web.archive.org/web/20190602085747/https://www.elperiodic.ad/noticia/69816/lfc-andorra-debuta-a-prada-de-moles-contra-el-sant-ildefons|url-status=live}}</ref> however, since 2021, the club has utilised the 3,306-capacity [[Estadi Nacional]] for all home games following an agreement made with the [[Government of Andorra]].<ref>{{cite web|language=ca|url=https://www.diariandorra.ad/noticies/esports/2021/07/08/l_andorra_jugara_estadi_nacional_183158_1128.html|date=8 July 2021|title=L' Andorra jugarà al Nacional|publisher=Diari d'Andorra|access-date=29 August 2021|archive-date=29 August 2021|archive-url=https://web.archive.org/web/20210829195245/https://www.diariandorra.ad/noticies/esports/2021/07/08/l_andorra_jugara_estadi_nacional_183158_1128.html|url-status=live}}</ref> The stadium had previously hosted FC Andorra games on a temporary basis in 2015 prior to the opening of the Centre d'Entrenament de la FAF.
+
+On 8 May 2022, a record 3,631 fans attended the team's home match against visiting [[Albacete Balompié]] at Estadi Nacional.<ref>[https://twitter.com/fcandorra/status/1523341711623172096 "Avui som 3.631 espectadors al Estadi Nacional"] {{Webarchive|url=https://web.archive.org/web/20220920225843/https://twitter.com/fcandorra/status/1523341711623172096 |date=20 September 2022 }}; FC Andorra at Twitter</ref>
+
+In August 2022, following their promotion to the [[Segunda División]], the club announced future plans for a new 6,000-capacity stadium on the site of the existing Camp de Fútbol de Prada de Moles, with an estimated cost of €26 million.<ref>{{cite web|url=https://www.thestadiumbusiness.com/2022/08/01/pique-owned-fc-andorra-set-to-develop-new-stadium/|date=1 August 2022|title=Pique-owned FC Andorra set to develop new stadium|publisher=The Stadium Business|access-date=10 August 2022|archive-date=20 September 2022|archive-url=https://web.archive.org/web/20220920225841/https://www.thestadiumbusiness.com/2022/08/01/pique-owned-fc-andorra-set-to-develop-new-stadium/|url-status=live}}</ref>
+
+Since the 2022–23 season and with the need to have a natural grass training field to meet the new requirements and demands of the team, [[Estadi Comunal d'Andorra la Vella]] has been home to the first team daily. Following an agreement with City Council of Andorra La Vella, the tricolour squad has taken over the municipal facilities, remodelling their interior to convert them into a training centre that meets the new needs.<ref>{{cite news |url=https://www.fcandorra.com/en/installacions|title=FC Andorra – Installatins |website=fcandorra.com |access-date=27 July 2026}}</ref>
+
+In June 2025, Andorra moved to the 5,108-seat capacity [[Estadi de la FAF]], in [[Encamp]] for playing the [[2025 Primera Federación play-offs|Primera Federación play-offs]]. One month later, FC Andorra agreed terms with the [[Andorran Football Federation]] for using the Estadi de la FAF until May 2026.<ref>{{Cite web |title=Serrells i signatura: els darrers esculls d’un acord ja tancat entre la FAF i l’FC Andorra per jugar a Encamp|url=https://elperiodic.ad/esports/serrells-i-signatura-els-darrers-esculls-dun-acord-ja-tancat-entre-la-faf-i-lfc-andorra-per-jugar-a-encamp/|access-date=2025-07-18|website=El Periòdic d'Andorra|language=ca|date=16 July 2025}}</ref>
+
+== Crest and shirt ==
+[[File:FC Andorra.png|thumb|right|150px|Traditional crest, used until 2021]]
+FC Andorra's traditional crest, first used in 1948,<ref name= "lafutbolteca">{{cite web |title=Historial del Futbol Club Andorra |url=http://lafutbolteca.com/futbol-club-andorra/ |website=La Futbolteca |access-date=13 August 2022 |language=es |archive-date=1 September 2019 |archive-url=https://web.archive.org/web/20190901014042/http://lafutbolteca.com/futbol-club-andorra/ |url-status=live }}</ref> used the colours and icons of the country of Andorra. It represented the [[coat of arms of Andorra]] with some minor variations, featuring the arms of both the [[Roman Catholic Diocese of Urgell|Bishop of Urgell]] and [[Count of Foix]] - the two historical [[Co-Princes of Andorra]]<ref>{{cite book|url=https://books.google.com/books?id=ezur2IUQ4OkC&q=andorra+coat+of+arms&pg=PA29|title=Flags|publisher=HarperCollins UK|year=2004|last=Shaw|first=Carol P.|page=29|isbn=9780007165261|access-date=March 15, 2017|archive-date=9 September 2023|archive-url=https://web.archive.org/web/20230909145938/https://books.google.com/books?id=ezur2IUQ4OkC&q=andorra+coat+of+arms&pg=PA29|url-status=live}}</ref> - along with the arms of the [[Viscounts of Béarn]] and [[Catalonia]], two neighbouring territories that Andorra has historically been reliant upon.<ref>{{cite book|url=https://books.google.com/books?id=1yahq8im86kC&q=arms+of+andorra&pg=PA134|title=Complete Flags of the World|publisher=Dorling Kindersley Ltd.|date=January 6, 2009|last=Kindersley|first=Dorling|page=134|isbn=9780756654863|access-date=March 14, 2017|archive-date=9 September 2023|archive-url=https://web.archive.org/web/20230909145938/https://books.google.com/books?id=1yahq8im86kC&q=arms+of+andorra&pg=PA134|url-status=live}}</ref> The traditional crest was updated and amended on several occasions though keeping a very similar and familiar appearance.<ref name= "lafutbolteca"/> On 7 July 2021, the club announced a change in its brand image, replacing the traditional crest with the current logo featuring a new round crest in blue with a white pattern representing the name of the club, the country and the mountains characterising the nation. In addition, these elements are encircled by the colours of the Andorran flag.<ref>{{cite web |title=Nuevo escudo para el FC Andorra de Piqué |url=https://www.sport.es/es/noticias/futbol-catalan/nuevo-escudo-fc-andorra-pique-11891290 |website=sport.es |access-date=9 July 2021 |language=es |date=7 July 2021 |archive-date=9 July 2021 |archive-url=https://web.archive.org/web/20210709190713/https://www.sport.es/es/noticias/futbol-catalan/nuevo-escudo-fc-andorra-pique-11891290 |url-status=live }}</ref>
+
+The club first used red shirts and white shorts as its kit, however this was soon changed in 1948 when they adopted the blue, yellow and red colours of the [[flag of Andorra|national flag of Andorra]]. Historically, the club's kit has often featured the three distinctive colours in the design on the national flag, thus earning FC Andorra the nickname of {{lang|ca|Els tricolors}} ('The Tricolours'). From 2019, the club has partnered with the American sports brand [[Nike Inc.|Nike]] to supply the playing kits for the team.<ref>{{cite web |title=Owned By Gerard Piqué: FC Andorra 19-20 Home & Away Kits Revealed |url=https://www.footyheadlines.com/2019/08/fc-andorra-19-20-home-away-kits.html |website=Footy Headlines |access-date=13 August 2022 |archive-date=13 August 2022 |archive-url=https://web.archive.org/web/20220813143805/https://www.footyheadlines.com/2019/08/fc-andorra-19-20-home-away-kits.html |url-status=live }}</ref>
+
+{| width=%
+|-
+|
+{{Football kit
+|pattern_la = 
+|pattern_b  = _collar_buttons
+|pattern_ra = 
+|pattern_sh = 
+|pattern_so = _whitetop
+|leftarm = FF0000
+|body = FF0000
+|rightarm = FF0000
+|shorts = FFFFFF
+|socks = 000000
+|title  = 1942
+}}
+|
+{{Football kit
+|pattern_la = 
+|pattern_b = _blueredstripesonsides
+|pattern_ra = 
+|pattern_sh = 
+|pattern_so = 
+|leftarm = 004499
+|body = FFFF00
+|rightarm = FF0000
+|shorts = 004499
+|socks = 004499
+|title  = 1948
+}}
+|
+{{Football kit
+|pattern_la = 
+|pattern_b = _blueredstripesonsides
+|pattern_ra = 
+|pattern_sh = 
+|pattern_so = 
+|leftarm = 004499
+|body = FFFF00
+|rightarm = FF0000
+|shorts = FF0000
+|socks = FF0000
+|title = 2013
+}}
+|
+{{Football kit
+|pattern_la = 
+|pattern_b = _andorra1920h1
+|pattern_ra = 
+|pattern_sh = 
+|pattern_so = 
+|leftarm = FFFFFF
+|body = FFFFFF
+|rightarm = FFFFFF
+|shorts = 0000FF
+|socks = 0000FF
+|title = 2017-2020
+}}
+|
+{{Football kit
+|pattern_la = 
+|pattern_b = _andorra2021h
+|pattern_ra = 
+|pattern_sh = 
+|pattern_so = 
+|leftarm = 0000FF
+|body = 0000FF
+|rightarm = 0000FF
+|shorts = 0000FF
+|socks = 0000FF
+|title = 2020-2023
+}}
+|
+{{Football kit
+|pattern_la = 
+|pattern_b = _andorra2324h
+|pattern_ra = 
+|pattern_sh = 
+|pattern_so = 
+|leftarm = 0000FF
+|body = 0000FF
+|rightarm = 0000FF
+|shorts = FFDD00
+|socks = FF0000
+|title = 2023-2025
+}}
+|
+{{Football kit
+|pattern_la = _nikestrike4mn25
+|pattern_b = _andorra2526h
+|pattern_ra = _nikestrike4mn25
+|pattern_sh = 
+|pattern_so = 
+|leftarm = 000055
+|body = 000055
+|rightarm = 000055
+|shorts = FFD000
+|socks = FF0000
+|title = 2025-2026
+}}
+|}
+
+==Honours==
+*'''[[Primera Catalana]]'''
+**'''Champions (1):''' 2018–19
+*'''[[Copa Catalunya]]'''
+**'''Winners (3):''' 1993–94, 2022–23, 2023–24
+
+== Seasons ==
+{|
+|valign="top" width=0%|
+{|  class="wikitable"
+|- style="background:#f0f6fa;"
+!Season
+!Tier
+!Division
+!Place
+![[Copa del Rey]]
+|-
+|style="background:#BBD7EC;"|1963–64
+|style="background:#BBD7EC;"|5
+|style="background:#BBD7EC;"|{{Abbr|2ª Reg.|Segunda Regional}}
+|style="background:#BBD7EC;"|11th
+!style="background:#efefef;"|
+|-
+|style="background:#BBD7EC;"|1964–65
+|style="background:#BBD7EC;"|5
+|style="background:#BBD7EC;"|{{Abbr|2ª Reg.|Segunda Regional}}
+|style="background:#BBD7EC;"|12th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1965–66
+|style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{Abbr|1ª Reg.|Primera Regional}}
+|style="background:#EFEF99;"|14th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1966–67
+|style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{Abbr|1ª Reg.|Primera Regional}}
+|style="background:#EFEF99;"|3rd
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1967–68
+|style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{Abbr|1ª Reg.|Primera Regional}}
+|style="background:#EFEF99;"|5th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1968–69
+|style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{Abbr|Reg. Pref.|Regional Preferente}}
+|style="background:#EFEF99;"|4th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1969–70
+|style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{Abbr|Reg. Pref.|Regional Preferente}}
+|style="background:#EFEF99;"|20th
+!style="background:#efefef;"|
+|-
+|style="background:#BBD7EC;"|1970–71
+|style="background:#BBD7EC;"|5
+|style="background:#BBD7EC;"|{{Abbr|1ª Reg.|Primera Regional}}
+|style="background:#BBD7EC;"|1st
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1971–72
+|style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{Abbr|Reg. Pref.|Regional Preferente}}
+|style="background:#EFEF99;"|4th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1972–73
+|style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{Abbr|Reg. Pref.|Regional Preferente}}
+|style="background:#EFEF99;"|11th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1973–74
+|style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{Abbr|Reg. Pref.|Regional Preferente}}
+|style="background:#EFEF99;"|15th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1974–75
+|style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{Abbr|Reg. Pref.|Regional Preferente}}
+|style="background:#EFEF99;"|7th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1975–76
+|style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{Abbr|Reg. Pref.|Regional Preferente}}
+|style="background:#EFEF99;"|9th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1976–77
+|style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{Abbr|Reg. Pref.|Regional Preferente}}
+|style="background:#EFEF99;"|9th
+!style="background:#efefef;"|
+|-
+|style="background:#FFD3BD;"|[[1977–78 Tercera División|1977–78]]
+|style="background:#FFD3BD;"|4
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|4th
+!style="background:#efefef;"|[[1977–78 Copa del Rey|First round]]
+|-
+|style="background:#FFD3BD;"|[[1978–79 Tercera División|1978–79]]
+|style="background:#FFD3BD;"|4
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|5th
+!style="background:#efefef;"|[[1978–79 Copa del Rey|Second round]]
+|-
+|style="background:#FFD3BD;"|[[1979–80 Tercera División|1979–80]]
+|style="background:#FFD3BD;"|4
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|1st
+!style="background:#efefef;"|[[1979–80 Copa del Rey|First round]]
+|-
+|style="background:#DEC5AB;"|[[1980–81 Segunda División B|1980–81]]
+|style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|11th
+!style="background:#efefef;"|[[1980–81 Copa del Rey|Third round]]
+|-
+|style="background:#DEC5AB;"|[[1981–82 Segunda División B|1981–82]]
+|style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|8th
+!style="background:#efefef;"|
+|-
+|style="background:#DEC5AB;"|[[1982–83 Segunda División B|1982–83]]
+|style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|8th
+!style="background:#efefef;"|[[1982–83 Copa del Rey|First round]]
+|-
+|}
+|valign="top" width=0%|
+{|  class="wikitable"
+|- style="background:#f0f6fa;"
+!Season
+!Tier
+!Division
+!Place
+![[Copa del Rey]]
+|-
+|style="background:#DEC5AB;"|[[1983–84 Segunda División B|1983–84]]
+|style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|10th
+!style="background:#efefef;"|[[1983–84 Copa del Rey|Second round]]
+|-
+|style="background:#DEC5AB;"|[[1984–85 Segunda División B|1984–85]]
+|style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|9th
+!style="background:#efefef;"|[[1984–85 Copa del Rey|Second round]]
+|-
+|style="background:#DEC5AB;"|[[1985–86 Segunda División B|1985–86]]
+|style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|15th
+!style="background:#efefef;"|[[1985–86 Copa del Rey|First round]]
+|-
+|style="background:#FFD3BD;"|[[1986–87 Tercera División|1986–87]]
+|style="background:#FFD3BD;"|4
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|8th
+|style="background:#efefef;"|
+|-
+|style="background:#DEC5AB;"|[[1987–88 Segunda División B|1987–88]]
+|style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|13th
+!style="background:#efefef;"|
+|-
+|style="background:#DEC5AB;"|[[1988–89 Segunda División B|1988–89]]
+|style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|2nd
+!style="background:#efefef;"|
+|-
+|style="background:#DEC5AB;"|[[1989–90 Segunda División B|1989–90]]
+|style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|4th
+!style="background:#efefef;"|
+|-
+|style="background:#DEC5AB;"|[[1990–91 Segunda División B|1990–91]]
+|style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|8th
+!style="background:#efefef;"|[[1990–91 Copa del Rey|Fourth round]]
+|-
+|style="background:#DEC5AB;"|[[1991–92 Segunda División B|1991–92]]
+|style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|6th
+!style="background:#efefef;"|
+|-
+|style="background:#DEC5AB;"|[[1992–93 Segunda División B|1992–93]]
+|style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|10th
+!style="background:#efefef;"|[[1992–93 Copa del Rey|Second round]]
+|-
+|style="background:#DEC5AB;"|[[1993–94 Segunda División B|1993–94]]
+|style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|14th
+!style="background:#efefef;"|[[1993–94 Copa del Rey|Second round]]
+|-
+|style="background:#DEC5AB;"|[[1994–95 Segunda División B|1994–95]]
+|style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|7th
+!style="background:#efefef;"|
+|-
+|style="background:#DEC5AB;"|[[1995–96 Segunda División B|1995–96]]
+|style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|9th
+!style="background:#efefef;"|[[1995–96 Copa del Rey|Third round]]
+|-
+|style="background:#DEC5AB;"|[[1996–97 Segunda División B|1996–97]]
+|style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|6th
+!style="background:#efefef;"|
+|-
+|style="background:#DEC5AB;"|[[1997–98 Segunda División B|1997–98]]
+|style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|20th
+!style="background:#efefef;"|
+|-
+|style="background:#FFD3BD;"|[[1998–99 Tercera División|1998–99]]
+|style="background:#FFD3BD;"|4
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|17th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1999–2000
+|style="background:#EFEF99;"|5
+|style="background:#EFEF99;"|[[Primera Catalana|1ª Cat.]]
+|style="background:#EFEF99;"|18th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|2000–01
+|style="background:#EFEF99;"|5
+|style="background:#EFEF99;"|[[Primera Catalana|1ª Cat.]]
+|style="background:#EFEF99;"|3rd
+!style="background:#efefef;"|
+|-
+|style="background:#FFD3BD;"|[[2001–02 Tercera División|2001–02]]
+|style="background:#FFD3BD;"|4
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|20th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|2002–03
+|style="background:#EFEF99;"|5
+|style="background:#EFEF99;"|[[Primera Catalana|1ª Cat.]]
+|style="background:#EFEF99;"|19th
+!style="background:#efefef;"|
+|}
+|}
+{|
+|valign="top" width=0%|
+{|  class="wikitable"
+|- style="background:#f0f6fa;"
+!Season
+!Tier
+!Division
+!Place
+![[Copa del Rey]]
+|-
+|style="background:#BBD7EC;"|2003–04
+|style="background:#BBD7EC;"|6
+|style="background:#BBD7EC;"|[[Preferente Territorial de Catalunya|Pref. Ter.]]
+|style="background:#BBD7EC;"|18th
+!style="background:#efefef;"|
+|-
+|style="background:#C0F2DF;"|2004–05
+|style="background:#C0F2DF;"|7
+|style="background:#C0F2DF;"|[[Primera Territorial de Catalunya|1ª Ter.]]
+|style="background:#C0F2DF;"|8th
+!style="background:#efefef;"|
+|-
+|style="background:#C0F2DF;"|2005–06
+|style="background:#C0F2DF;"|7
+|style="background:#C0F2DF;"|[[Primera Territorial de Catalunya|1ª Ter.]]
+|style="background:#C0F2DF;"|2nd
+!style="background:#efefef;"|
+|-
+|style="background:#C0F2DF;"|2006–07
+|style="background:#C0F2DF;"|7
+|style="background:#C0F2DF;"|[[Primera Territorial de Catalunya|1ª Ter.]]
+|style="background:#C0F2DF;"|12th
+!style="background:#efefef;"|
+|-
+|style="background:#C0F2DF;"|2007–08
+|style="background:#C0F2DF;"|7
+|style="background:#C0F2DF;"|[[Primera Territorial de Catalunya|1ª Ter.]]
+|style="background:#C0F2DF;"|8th
+!style="background:#efefef;"|
+|-
+|style="background:#C0F2DF;"|2008–09
+|style="background:#C0F2DF;"|7
+|style="background:#C0F2DF;"|[[Primera Territorial de Catalunya|1ª Ter.]]
+|style="background:#C0F2DF;"|5th
+!style="background:#efefef;"|
+|-
+|style="background:#C0F2DF;"|2009–10
+|style="background:#C0F2DF;"|7
+|style="background:#C0F2DF;"|[[Primera Territorial de Catalunya|1ª Ter.]]
+|style="background:#C0F2DF;"|5th
+!style="background:#efefef;"|
+|-
+|style="background:#C0F2DF;"|2010–11
+|style="background:#C0F2DF;"|7
+|style="background:#C0F2DF;"|[[Primera Territorial de Catalunya|1ª Ter.]]
+|style="background:#C0F2DF;"|2nd
+!style="background:#efefef;"|
+|-
+|style="background:#BBD7EC;"|2011–12
+|style="background:#BBD7EC;"|6
+|style="background:#BBD7EC;"|[[Segona Catalana|2ª Cat.]]
+|style="background:#BBD7EC;"|2nd
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|2012–13
+|style="background:#EFEF99;"|5
+|style="background:#EFEF99;"|[[Primera Catalana|1ª Cat.]]
+|style="background:#EFEF99;"|8th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|2013–14
+|style="background:#EFEF99;"|5
+|style="background:#EFEF99;"|[[Primera Catalana|1ª Cat.]]
+|style="background:#EFEF99;"|16th
+!style="background:#efefef;"|
+|-
+|style="background:#BBD7EC;"|2014–15
+|style="background:#BBD7EC;"|6
+|style="background:#BBD7EC;"|[[Segona Catalana|2ª Cat.]]
+|style="background:#BBD7EC;"|1st
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|2015–16
+|style="background:#EFEF99;"|5
+|style="background:#EFEF99;"|[[Primera Catalana|1ª Cat.]]
+|style="background:#EFEF99;"|8th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|2016–17
+|style="background:#EFEF99;"|5
+|style="background:#EFEF99;"|[[Primera Catalana|1ª Cat.]]
+|style="background:#EFEF99;"|3rd
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|2017–18
+|style="background:#EFEF99;"|5
+|style="background:#EFEF99;"|[[Primera Catalana|1ª Cat.]]
+|style="background:#EFEF99;"|9th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|2018–19
+|style="background:#EFEF99;"|5
+|style="background:#EFEF99;"|[[Primera Catalana|1ª Cat.]]
+|style="background:#EFEF99;"|1st
+!style="background:#efefef;"|
+|-
+|style="background:#DEC5AB;"|[[2019–20 Segunda División B|2019–20]]
+|style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|9th
+!style="background:#efefef;"|[[2019–20 Copa del Rey|First round]]
+|-
+|style="background:#DEC5AB;"|[[2020–21 Segunda División B|2020–21]]
+|style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|{{Abbr|3rd|Group 3 – Subgroup A (first phase) and Subgroup C (second phase)}}
+!style="background:#efefef;"|[[2020–21 Copa del Rey|First round]]
+|-
+|style="background:#F4DFC8;"|[[2021–22 Primera División RFEF|2021–22]]
+|style="background:#F4DFC8;"|3
+|style="background:#F4DFC8;"|[[Primera División RFEF|1ª RFEF]]
+|style="background:#F4DFC8;"|1st
+!style="background:#efefef;"|[[2021–22 Copa del Rey|Second round]]
+|-
+|style="background:#D3D3D3;"|[[2022–23 Segunda División|2022–23]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|7th
+!style="background:#efefef;"|[[2022–23 Copa del Rey|Second round]]
+|}
+|valign="top" width=0%|
+{|  class="wikitable"
+|- style="background:#f0f6fa;"
+!Season
+!Tier
+!Division
+!Place
+![[Copa del Rey]]
+|-
+|style="background:#D3D3D3;"|[[2023–24 Segunda División|2023–24]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|21st
+!style="background:#efefef;"|[[2023–24 Copa del Rey|First round]]
+|-
+|style="background:#F4DFC8;"|[[2024–25 Primera Federación|2024–25]]
+|style="background:#F4DFC8;"|3
+|style="background:#F4DFC8;"|[[Primera Federación|1ª Fed.]]
+|style="background:#F4DFC8;"|4th
+!style="background:#efefef;"|[[2024–25 Copa del Rey|Second round]]
+|-
+|style="background:#D3D3D3;"|[[2025–26 Segunda División|2025–26]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|13th
+!style="background:#efefef;"|[[2025–26 Copa del Rey|Second round]]
+|-
+|style="background:#D3D3D3;"|[[2026–27 Segunda División|2026–27]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|
+!style="background:#efefef;"|[[2026–27 Copa del Rey|TBD]]
+|-
+|}
+|}
+{{notelist}}
+----
+*'''4''' seasons in ''[[Segunda División]]''
+*'''2''' seasons in ''[[Primera Federación]]/Primera División RFEF''
+*'''19''' seasons in ''[[Segunda División B]]''
+*'''6''' seasons in ''[[Tercera División]]''
+
+<timeline>
+TimeAxis = orientation:horizontal
+ImageSize = width:750 height:104
+PlotArea = width:600 height:54 bottom:30 left:134
+DateFormat = yyyy
+Period = from:1965 till:2026
+ScaleMajor = unit:year increment:5 start:1965
+ScaleMinor = unit:year increment:1 start:1965
+AlignBars = justify
+
+Colors =
+ id:seg value:blue
+ id:segb value:green
+ id:ter value:orange
+ id:pcat value:yellow
+ id:pref value:purple
+ id:preg value:red
+
+BarData =
+ bar:segona text:"[[Segunda División]]"
+ bar:segonab text:"[[Segunda B/Primera RFEF]]"
+ bar:tercera text:"[[Tercera División]]"
+ bar:primcat text:"[[Primera Catalana]]"
+ bar:primreg text:"[[Segona Cat./Primera Ter.]]"
+
+PlotData =
+
+# set defaults
+ width:10 fontsize:s textcolor:white align:left anchor:from shift:(5,-5)
+
+ bar:segona color:seg
+ from:2022 till:2024
+ from:2025 till:2026
+
+ bar:segonab color:segb
+ from:1980 till:1986
+ from:1987 till:1998
+ from:2019 till:2022
+ from:2024 till:2025
+
+ bar:tercera color:ter
+ from:1977 till:1980
+ from:1986 till:1987
+ from:1998 till:1999
+ from:2001 till:2002
+
+ bar:primcat color:pcat
+ from:1968 till:1970
+ from:1971 till:1977
+ from:1999 till:2001
+ from:2002 till:2004
+ from:2012 till:2014
+ from:2015 till:2019
+
+ bar:primreg color:preg
+ from:1965 till:1968
+ from:1970 till:1971
+ from:2004 till:2012
+ from:2014 till:2015
+</timeline>
+
+==Players==
+===Current squad===
+{{updated|1 September 2026}}<ref>{{cite news |url=https://www.fcandorra.com/en/fc-andorra|title=FC Andorra – Players |website=fcandorra.com |access-date=1 September 2026}}</ref>
+{{Fs start}}
+{{Fs player|no= 1|pos=GK|nat=ARG|name=[[Nico Ratti]]|other=[[Captain (association football)|captain]]}}
+{{Fs player|no= 2|pos=DF|nat=ESP|name=[[Juan Sebastián]]}}
+{{Fs player|no= 3|pos=DF|nat=ARG|name=[[Lautaro Spatz]]}}
+{{Fs player|no= 4|pos=DF|nat=ESP|name=[[Gael Alonso]]}}
+{{Fs player|no= 5|pos=DF|nat=ESP|name=[[Marc Bombardó]]}}
+{{Fs player|no= 6|pos=MF|nat=ESP|name=[[Hugo Solozábal]]}}
+{{Fs player|no= 7|pos=FW|nat=ESP|name=[[Álex Calvo]]}}
+{{Fs player|no= 8|pos=MF|nat=TUR|name=[[Efe Akman]]}}
+{{Fs player|no= 9|pos=FW|nat=NED|name=[[Julian Rijkhoff]]|other=on loan from [[AFC Ajax|Ajax]]}}
+{{Fs player|no=10|pos=MF|nat=ESP|name=[[Marc Domènech (footballer, born 2002)|Marc Domènech]]}}
+{{Fs player|no=11|pos=FW|nat=URU|name=[[Lautaro de León]]}}
+{{Fs player|no=12|pos=FW|nat=ROM|name=[[Enes Sali]]}}
+{{Fs player|no=13|pos=GK|nat=ESP|name=[[Pau López]]}}
+{{Fs player|no=14|pos=MF|nat=ESP|name=[[Sergio Molina (footballer, born 1996)|Sergio Molina]]|other=[[Vice-captain (association football)|vice-captain]]}}
+{{fs mid}}
+{{Fs player|no=15|pos=FW|nat=ESP|name=[[Jordi Cano]]}}
+{{Fs player|no=16|pos=MF|nat=PHL|name=[[Randy Schneider]]}}
+{{Fs player|no=17|pos=DF|nat=FRA|name=[[Thomas Carrique (footballer)|Thomas Carrique]]}}
+{{Fs player|no=18|pos=DF|nat=ESP|name=[[Andoni López]]}}
+{{Fs player|no=19|pos=MF|nat=ESP|name=[[Nacho Quintana]]}}
+{{Fs player|no=20|pos=DF|nat=ESP|name=[[Martí Vilà]]|other=[[Vice-captain (association football)|3rd captain]]}}
+{{Fs player|no=21|pos=FW|nat=ESP|name=[[Moró Sidibe]]}}
+{{Fs player|no=22|pos=FW|nat=ESP|name=[[Diego Díaz (footballer, born 2005)|Diego Díaz]]|other=on loan from [[Racing de Santander|Racing Santander]]}}
+{{Fs player|no=23|pos=DF|nat=ESP|name=[[Diego Alende]]|other=[[Vice-captain (association football)|4th captain]]}}
+{{Fs player|no=24|pos=MF|nat=FRA|name=[[Théo Le Normand]]}}
+{{Fs player|no=25|pos=GK|nat=EQG|name=[[Jesús Owono]]}}
+{{Fs player|no=27|pos=FW|nat=SRB|name=[[Stefan Golubović (footballer, born 2006)|Stefan Golubović]]}}
+{{Fs player|no=28|pos=DF|nat=ESP|name=[[Tiago Olmedo]]}}
+{{Fs player|no=29|pos=FW|nat=ESP|name=[[Hugo López (footballer, born 2007)|Hugo López]]|other=on loan from [[Villarreal CF|Villarreal]]}}
+{{Fs end}}
+
+===Youth players===
+{{main|Club Gimnàstic de Manresa}}
+{{Fs start}}
+{{Fs player|no=32|pos=DF|nat=ESP|name=[[Jordi Toribio]]}}
+{{Fs mid}}
+{{Fs player|no=|pos=FW|nat=GEO|name=[[Saba Samushia]]}}
+{{Fs end}}
+
+===Out on loan===
+{{Fs start}}
+{{Fs player|no=|pos=GK|nat=ESP|name=[[Jan Lagunas]]|other=at [[FC Santa Coloma]] until 30 June 2027}}
+{{Fs player|no=|pos=DF|nat=AND|name=[[Iván Rodríguez (footballer, born 2006)|Iván Rodríguez]]|other=at [[SD Huesca|Huesca]] until 30 June 2027}}
+{{Fs player|no=|pos=FW|nat=AND|name=[[Aron Rodrigo]]|other=at [[CD Mirandés|Mirandés]] until 30 June 2027}}
+{{Fs mid}}
+{{Fs player|no=|pos=FW|nat=ESP|name=[[Aitor Uzkudun]]|other=at [[CD Mirandés|Mirandés]] until 30 June 2027}}
+{{Fs player|no=|pos=FW|nat=AND|name=[[Albert Rosas|Berto Rosas]]|other=at [[UD Logroñés|Logroñés]] until 30 June 2027}}
+{{Fs player|no=|pos=FW|nat=ESP|name=[[Bilal Achhiba]]|other=at [[CE Manresa|Manresa]] until 30 June 2027}}
+{{Fs end}}
+
+=== Current technical staff ===
+{{Fb cs header}}
+{{Fb cs staff |bg= |p=Head coach |s= {{flagicon|ESP}} [[Carles Manso]]}}
+{{Fb cs staff |bg= |p=Assistant coach |s= {{flagicon|ESP}} Antonio José Sánchez}}
+{{Fb cs staff |bg= |p=Goalkeeping coach |s= {{flagicon|ESP}} Daniel Ortiz <br/> {{flagicon|ESP}} Julián Pedernera}}
+{{Fb cs staff |bg= |p=Analyst |s= {{flagicon|ARG}} Franco Gross <br/> {{flagicon|ESP}} David Vilanova <br/> {{flagicon|POR}} João Duarte}} 
+{{Fb cs staff |bg= |p=Fitness coach |s= {{flagicon|ESP}} Aitor Yeto <br/> {{flagicon|ESP}} Dani Murcia}}
+{{Fb cs staff |bg= |p=Physiotherapist |s= {{flagicon|ESP}} Pere Tarradellas <br/> {{flagicon|ESP}} Enrique Agudo <br/> {{flagicon|ESP}} Ian Lanuza}}
+{{Fb cs staff |bg= |p=Rehab fitness coach |s= {{flagicon|AND}} Aaron Guirao}}
+{{Fb cs staff |bg= |p=Nutritionist |s= {{flagicon|AND}} [[Claudia Guri|Clàudia Gurí]]}}
+{{Fb cs staff |bg= |p=Doctor |s= {{flagicon|AND}} Anna López  <br/> {{flagicon|PER}} Luis Veneros}}
+{{Fb cs staff |bg= |p=Kitman |s= {{flagicon|ESP}} Jordi Collado <br/> {{flagicon|ESP}} Jonathan Barreal}}
+{{Fb cs staff |bg= |p=Team leader |s= {{flagicon|ESP}} Cristian Lanzarote}}
+{{Fb cs staff |bg= |p=Player's office manager |s= {{flagicon|AND}} Bufa}}
+{{Fb cs footer|u=1 September 2026 |s=[https://www.fcandorra.com/en/fc-andorra?category=coach FC Andorra Coaching staff]|date=1 September 2026}}
+
+==Former coaches==
+{|
+|- style="vertical-align: top;"
+|
+*1979–1983: {{Flag icon|Spain}} [[Vicente Dauder]]
+*1983–1984: {{Flag icon|Spain}} [[Luis Aloy]]
+*1990–1991: {{Flag icon|Spain}} [[Vicente Dauder]]
+*1993–1994: {{Flag icon|Spain}} [[Xavi Agustí]]
+*1994–1996: {{Flag icon|Spain}} [[Peio Bengoetxea]]
+*1996–1997: {{Flag icon|Spain}} [[Juanjo Díaz]]
+*2000–2002: {{Flag icon|Spain}} [[Emilio Larraz]]
+*2004–2006: {{Flag icon|Spain}} [[Lluís Miquel Aloy]]
+*2008–2011: {{Flag icon|Andorra}} [[Richard Imbernón]]
+*2011–2016: {{Flag icon|Andorra}} [[Justo Ruiz]]
+*2016–2017: {{Flag icon|Spain}} [[Emili Vicente]]
+*2017: {{Flag icon|Andorra}} [[Eloy Casals]] (interim)
+||
+*2017: {{Flag icon|Spain}} [[Marc Castellsagué]]
+*2018: {{Flag icon|Andorra}} [[Eloy Casals]] (interim)
+*2018: {{Flag icon|Spain}} [[Candi Viladrich]]
+*2018: {{Flag icon|Andorra}} [[Richard Imbernón]]
+*2018–2020: {{Flag icon|Spain}} [[Gabri (footballer, born 1979)|Gabri]]
+*2020–2021: {{Flag icon|Spain}} [[Nacho Castro]]
+*2021–2024: {{Flag icon|Spain}} [[Eder Sarabia]]
+*2024–2025: {{Flag icon|Spain}} [[Ferran Costa]]
+*2025: {{Flag icon|Spain}} [[Beto Company]]
+*2025: {{Flag icon|Spain}} [[Ibai Gómez]]
+*2025–: {{Flag icon|Spain}} [[Carles Manso]]
+|}
+
+== See also ==
+{{portal|Association football|Andorra}}
+*[[FC Andorra Futsal]]
+
+==References==
+{{reflist}}
+
+== External links ==
+{{Commons category}}
+*{{Official website|https://www.fcandorra.com/}}
+*[https://web.archive.org/web/20140315061036/http://www.fcf.cat/pnfg/NPcd/NFG_VisEquipos?cod_primaria=1000119&Codigo_Equipo=33307 FCF team profile] {{in lang|ca}} (archived 15 March 2014)
+*[http://www.bdfutbol.com/en/e/e297.html BDFútbol profile]
+*[https://espanaestadios.com/2019/08/11/andorra-la-vella-camp-de-futbol-de-prada-de-moles/ Club & stadium history] {{in lang|en}}
+
+{{Spanish football club template|Andorra}}
+
+{{DEFAULTSORT:Andorra}}
+[[Category:FC Andorra| ]]
+[[Category:Association football clubs established in 1942]]
+[[Category:Expatriated football clubs]]
+[[Category:1940s establishments in Andorra]]
+[[Category:1942 establishments in Europe]]
+[[Category:Football clubs in Andorra]]
+[[Category:Sport in Andorra la Vella]]
+[[Category:Divisiones Regionales de Fútbol clubs]]
+[[Category:Men's football clubs in Spain]]
+[[Category:Primera Federación clubs]]
+[[Category:Segunda División clubs]]
+[[Category:Andorra–Spain sports relations]]

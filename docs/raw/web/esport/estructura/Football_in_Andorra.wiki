@@ -1,0 +1,112 @@
+{{Short description|none}}
+[[File:Estadi Comunal Vella.jpg | thumb | right | The [[Estadi Comunal d'Andorra la Vella]] in 2007.]]
+ <!-- "none" is preferred when the title is sufficiently descriptive; see [[WP:SDNONE]] -->
+{{Infobox sport overview
+| boxwidth      = 250
+| title         = Football in Andorra
+| image         = 
+| imagesize     = 240px
+| image_alt     = <!-- alt text, which will be seen when hovering over the image -->
+| caption       = 
+| union         = [[Andorran Football Federation]]
+| country       = Andorra
+| sport         = association football
+| noncountry    = <!-- other country this country represents -->
+| teamlabel1    = <!-- overrides the "National team" label with custom label -->
+| nationalteam  = [[Andorra national football team|men's national team]]
+| teamlabel2    = <!-- overrides the "Representative team" label with customer label -->
+| repteam       = <!-- overrides the representative team link, requires full wikitext syntax -->
+| nickname      = <!-- nicknames -->
+| first         = 
+| registered    = 
+| clubs         = 
+| national_list = {{Plainlist|*[[Copa Constitució]]
+*[[Andorran Supercup]]}}
+| club_list     = {{Plainlist|*[[Primera Divisió]]
+*[[Segona Divisió]]}}
+| intl_list     = [[UEFA Champions League|Champions League]] <br /> [[UEFA Europa League|Europa League]] <br /> [[UEFA Europa Conference League|Europa Conference League]] <br /> [[UEFA Super Cup|Super Cup]] <br />[[FIFA Club World Cup]]<br />[[FIFA World Cup]] (National Team)<br /> [[UEFA European Championship|European Championship]] (National Team)<br /> [[UEFA Nations League]] (National Team)
+| match         = 
+| league        = 
+}}
+[[Association football]] – commonly known as football (or soccer in the United States and Canada), ({{langx|ca|Futbol associatiu}}) – is the most popular [[Andorra#Sports|sport in Andorra]]. Prior to [[1993 Andorran constitutional referendum|political developments]] in 1994, most football in the landlocked principality had been amateur with the notable exception of [[FC Andorra]] which has played in the [[Spanish football league system]] since 1948.<ref>{{cite web|url=https://www.uefa.com/nationalassociations/and/ |title=Encouraging Andorran advancements |date=9 July 2018 |publisher=uefa.com/ |access-date=2021-09-24}}</ref>
+
+The [[Andorran Football Federation]] – the country's national football governing body – runs the [[Andorra national football team]], as well as administering the nation's professional leagues the [[Primera Divisió|Andorran First]] and [[Segona Divisió|Andorran Second]] divisions.  The national federation also organizes the [[Copa Constitució]] annual tournament and the one-off [[Andorran Supercup]] ({{langx|ca|Supercopa Andorrana de Futbol}}).<ref>{{cite web|url=http://www.wsc.co.uk/the-archive/923-Europe/6398-remote-possibilities |title=When Saturday Comes - Remote possibilities |publisher=Wsc.co.uk |date=2012-07-09 |access-date=2013-12-04}}</ref>
+
+==History==
+After the [[1993 Andorran constitutional referendum]] resulted in independence for the state, the [[Andorran Football Federation]] ({{langx|ca|Federació Andorrana de Futbol}}) was founded in 1994.  The FAF was admitted to FIFA and UEFA in 1996, the same year the national team was organized.<ref>{{cite web|url=https://www.uefa.com/nationalassociations/and/ |title=Encouraging Andorran advancements |date=9 July 2018 |publisher=uefa.com/ |access-date=2021-09-24}}</ref> The country is represented in association football by the [[Andorra national football team]]. The men's national team played its first [[Exhibition game|friendly]] at the [[Camp d'Esports d'Aixovall]] on 13 November 1996 losing to [[Estonia national football team|Estonia]] 1–6.<ref>{{cite web|url=https://www.worldfootball.net/teams/te13941/andorra/all-matches/ |title=Friendlies 1996 |publisher=worldfootball.net |access-date=2021-09-24}}</ref>  The team gained its first competitive win in a European Championship qualifier on 11 October 2019, against Moldova.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/50019311|title=Andorra end 21-year wait for Euro win|publisher= British Broadcasting Corporation|date= 11 October 2019| access-date=12 October 2019}}</ref>  Since then the national team has recorded seven victories, one each against [[Albania national football team|Albania]], [[Belarus national football team|Belarus]], [[Hungary national football team|Hungary]], [[Liechtenstein national football team|Liechtenstein]], [[North Macedonia national football team|North Macedonia]], [[Moldova national football team|Moldova]] and [[San Marino national football team|San Marino]].<ref>{{Cite web|url=https://www.worldfootball.net/teams/te13941/andorra/|title=Andorra" Historical results|publisher=worldfootball.net |access-date=2021-09-24}}</ref> They are one of the most penalized teams in Europe, having received more red and yellow cards in the WC 2006 Qualifiers than any other team.{{citation needed|date=September 2021}} [[CE Principat]] was the first Andorran team to represent the nation in European Club Competitions appearing in the first qualifying round of the [[1997–98 UEFA Cup|1997–98]], [[1998–99 UEFA Cup|1998–98]], and [[1999–2000 UEFA Cup|1999–2000]] UEFA Cups.<ref>{{cite web|url=https://www.uefa.com/uefaeuropaleague/history/clubs/62176--principat/ |title=CE Principat |publisher=[[UEFA]] |access-date=2021-09-24}}</ref>
+
+==League system==
+Professional football in Andorra is organized by the national federation and currently consists of two professional leagues.  The '''[[Primera Divisió|Lliga Nacional de Fútbol]]''', also known as '''Primera Divisió''' (First Division) or as '''Lliga Multisegur Assegurances''' for sponsorship reasons.,<ref>{{cite web|url=https://www.elperiodic.ad/noticia/59909/la-primera-divisio-passa-a-dir-se-lliga-multisegur-assegurances|title=La Primera Divisió passa a dir-se Lliga Multisegur Assegurances|website=elperiodic.ad |date=13 September 2017 }}</ref> is the top football league.  The '''[[Segona Divisió|Andorran Segona Divisió]]''' (Second Division), or '''Lliga UNIDA''' for sponsorship reasons,<ref>{{Cite web|url=https://www.faf.ad/pnfg/NNws_ShwNewDup?codigo=1007439&cod_primaria=3000301&cod_secundaria=3000301#.XDFtvWlv8Sw|title = Lliga UNIDA, la nova Segona Divisió}}</ref> is the second highest football league in Andorra.  The system has a hierarchical format with [[promotion and relegation]] between the leagues.
+
+{| class="wikitable" style="text-align: center; width: 100%;"
+! scope=col width="4%" | Level
+! scope=col width="96%" | Leagues/Divisions
+|-
+|width="4%" | 1
+|width="96%" |'''[[Primera Divisió]]'''<br /><small>10 clubs</small>
+|- style="background:#c8c8c8"
+| style="width:4%;"|
+| colspan="9" style="width:96%;"| ↓↑ 1-2 clubs
+|-
+|width="4%" | 2
+|width="96%" |'''[[Segona Divisió]]'''<br /><small>8 clubs (2 reserve teams)</small>
+|}
+
+==FC Andorra==
+{{Main|FC Andorra}}
+'''Futbol Club Andorra''' is a professional football club based in [[Encamp]], [[Andorra]], established in 1942. Although based in Andorra, they have competed in the [[Spanish football league system]] since 1948.<ref>{{cite web|url=https://www.andorradifusio.ad/esports/lluis-espana-vol-recuperar-memoria-historica-de-lfc-andorra|title=Lluís España vol recuperar la memòria històrica de l'FC Andorra - Andorra Difusió|first=Andorra Difusió|last=RTVA|website=www.andorradifusio.ad}}</ref> They currently play in [[Segunda División]], the second tier.<ref>{{cite web |url=https://fbref.com/en/squads/73178cb3/2022-2023/matchlogs/c17/schedule/FC-Andorra-Scores-and-Fixtures-Segunda-Division |title=2022-2023 FC Andorra Scores and Fixtures (Segunda División) |language=en |date=6 September 2023 |work=[[FBRef.com (website)|FBRef.com (USA)]]}}</ref>
+
+===Attendances===
+
+The league attendances of FC Andorra:
+
+{| class="wikitable sortable"
+! Season
+! Average
+! Highest
+|-
+| 2024–25
+| 1,142
+| 3,020
+|-
+| 2023–24
+| 2,057
+| 3,020
+|}
+
+<small>Sources:<ref>{{Cite web | title=Attendances Spain average | url=https://www.european-football-statistics.co.uk/attn/archive/esp/aveesp25.htm | access-date=2026-09-05 | website=www.european-football-statistics.co.uk}}</ref><ref>{{Cite web | title=Attendances Spain average | url=https://www.european-football-statistics.co.uk/attn/archive/esp/aveesp24.htm | access-date=2026-09-05 | website=www.european-football-statistics.co.uk}}</ref></small>
+
+== Football stadiums in Andorra ==
+
+{| class="wikitable sortable"
+!Stadium!!Capacity!!City
+|-
+|[[Estadi de la FAF]]
+|5,108
+|[[Encamp]]
+|-
+||[[Estadi Nacional]]||3,306||[[Andorra la Vella]]
+|-
+|[[Estadi Comunal d'Andorra la Vella]]
+|1,249
+|[[Andorra la Vella]]
+|}
+
+==See also==
+*[[Football in Spain]]
+*[[Football in Catalonia]]
+
+==References==
+<references/>
+
+==External links==
+* [http://www.league321.com/andorra-football.html  League321.com] - Andorran football league tables, records & statistics database.
+
+{{Andorra topics}}
+{{Football in Andorra}}
+{{Football in Europe}}
+{{League systems}}
+
+[[Category:Football in Andorra| ]]
+[[Category:Sport in Andorra by sport]]
+[[Category:Association football in Europe by country|Andorra]]

@@ -1,0 +1,156 @@
+{{short description|Association football match in Andorra}}
+{{Infobox football tournament
+| name                 = Supercopa Andorrana de Futbol
+| logo                 = 
+| caption              =
+| founded              = 2003
+| region               = {{flagicon|Andorra}} [[Andorra]]
+| number of teams      = 2
+| current champions    = [[Inter Club d'Escaldes|Inter Escaldes]]<br>(5th title)
+| most successful club = [[FC Santa Coloma]]<br>(7 titles)
+| broadcasters         =
+| motto                =
+| website              =
+| current              = 
+}}
+
+The '''Andorran Supercup''' ({{langx|ca|Supercopa Andorrana de Futbol}}) is the [[Association football|football]] Supercup of [[Andorra]].
+
+==History==
+It has been played since 2003. It is a single match at the beginning of the season between the winners of the [[Andorran First Division]] and the [[Andorran Cup]]. Every match is played in the [[Aixovall]], [[Andorra la Vella]].
+
+{{clear}}
+
+==Results of the finals==
+{|class="wikitable sortable" style="text-align:center;"
+!Season!!Winner!!Score!!Runner-up
+|-
+|2003||[[FC Santa Coloma]]||align=center|3–2 ([[Extra time|aet]])||[[UE Sant Julià]]  
+|-
+|2004||[[UE Sant Julià]] ||align=center|2–1||[[FC Santa Coloma]] 
+|-
+|2005||[[FC Santa Coloma]]||align=center|1–0||[[UE Sant Julià]]  
+|-
+|2006||[[FC Rànger's]]||align=center|4–3 ([[Extra time|aet]])||[[FC Santa Coloma]] 
+|-
+|2007||[[FC Santa Coloma]]||align=center|1–0||[[FC Rànger's]]  
+|-
+|2008||[[FC Santa Coloma]]||align=center|3–0||[[UE Sant Julià]]  
+|-
+|2009||[[UE Sant Julià]] ||align=center|2–1||[[FC Santa Coloma]] 
+|-
+|2010||[[UE Sant Julià]] ||align=center|3–2 ([[Extra time|aet]])||[[FC Santa Coloma]] 
+|-
+|2011||[[UE Sant Julià]] ||align=center|4–3||[[FC Santa Coloma]] 
+|-
+|2012||[[FC Lusitanos]] ||Align=center|2–1||[[FC Santa Coloma]]
+|-
+|2013||[[FC Lusitanos]] ||Align=center|1–0||[[UE Santa Coloma]]
+|-
+|2014||[[UE Sant Julià]] ||align=center|1–0||[[FC Santa Coloma]]
+|-
+|2015||[[FC Santa Coloma]] ||align=center|1–1 (5–4 [[Penalty shootout (association football)|pen.]])||[[UE Sant Julià]]
+|-
+|[[2016 Andorran Supercup|2016]]||[[UE Santa Coloma]] ||align=center|1–0||[[FC Santa Coloma]]
+|-
+|2017||[[FC Santa Coloma]] ||align=center|1–0 ([[Extra time|aet]])||[[UE Santa Coloma]]
+|-
+|2018||[[UE Sant Julià]] ||align=center|2–1||[[FC Santa Coloma]]
+|-
+|2019||[[FC Santa Coloma]] ||align=center|2–1||[[UE Engordany]]
+|-
+|2020||[[Inter Club d'Escaldes|Inter Escaldes]] ||align=center|2–0||[[FC Santa Coloma]]
+|-
+|2021||[[Inter Club d'Escaldes|Inter Escaldes]] ||align=center|2–1||[[UE Sant Julià]]
+|-
+|2022
+|[[Inter Club d'Escaldes|Inter Escaldes]] ||align=center|2–1||[[Atlètic Club d'Escaldes|Atlètic Escaldes]]
+|-
+|2023
+|[[Inter Club d'Escaldes|Inter Escaldes]] ||align=center|3–1||[[Atlètic Club d'Escaldes|Atlètic Escaldes]]
+|-
+|2024
+|[[UE Santa Coloma]] ||align=center|2–1||[[Inter Club d'Escaldes|Inter Escaldes]]
+|-
+|2025
+|[[Atlètic Club d'Escaldes|Atlètic d'Escaldes]] ||align=center|2–2 (5–3 [[Penalty shootout (association football)|pen.]])||[[Inter Club d'Escaldes|Inter Escaldes]]
+|-
+|2026
+|[[Inter Club d'Escaldes|Inter Escaldes]] ||align=center|2–0||[[Atlètic Club d'Escaldes|Atlètic Escaldes]]
+|}
+
+==Performance by club==
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! Club
+! Winners
+! Runners-up
+! Winning years
+! Runners-up years
+|-
+| [[FC Santa Coloma]]
+| {{center|7}}
+| {{center|10}}
+| 2003, 2005, 2007, 2008, 2015, 2017, 2019
+| 2004, 2006, 2009, 2010, 2011, 2012, 2014, [[2016 Andorran Supercup|2016]], 2018, 2020
+|-
+| [[UE Sant Julià]]
+| {{center|6}}
+| {{center|5}}
+| 2004, 2009, 2010, 2011, 2014, 2018
+| 2003, 2005, 2008, 2015, 2021
+|-
+| [[Inter Club d'Escaldes|Inter Escaldes]]
+| 5
+| 2
+| 2020, 2021, 2022, 2023, 2026
+| 2024, 2025
+|-
+| [[UE Santa Coloma]]
+| {{center|2}}
+| {{center|2}}
+| [[2016 Andorran Supercup|2016]], 2024
+| 2013, 2017
+|-
+| [[FC Lusitanos]]
+| {{center|2}}
+| {{center|–}}
+| 2012, 2013
+| –
+|-
+| [[Atlètic Club d'Escaldes|Atlètic Escaldes]]
+| {{center|1}}
+| {{center|3}}
+| 2025
+| 2022, 2023, 2026
+|-
+| [[FC Rànger's]]
+| {{center|1}}
+| {{center|1}}
+| 2006
+| 2007
+|-
+| [[UE Engordany]]
+| {{center|–}}
+| {{center|1}}
+| –
+| 2019
+|}
+
+== External links ==
+* [https://www.rsssf.org/tablesa/andocuphist.html RSSSF - Andorran Supercup results]
+*[https://int.soccerway.com/national/andorra/super-cup/c957/archive/?ICID=PL_3N_04 Andorra Supercup summary](SOCCERWAY)
+
+{{Football in Andorra}}
+{{National football Supercups (UEFA region)}}
+
+[[Category:Andorran Supercup| ]]
+[[Category:Football competitions in Andorra|S]]
+[[Category:Football club competitions in Andorra|Supercup]]
+[[Category:Andorran Football Federation competitions]]
+[[Category:Domestic association football super cups|Albania]]
+[[Category:Association football super cups in Europe|Albania]]
+[[Category:Recurring sporting events established in 2003]]
+[[Category:2003 establishments in Andorra]]
+
+{{Andorra-footy-competition-stub}}

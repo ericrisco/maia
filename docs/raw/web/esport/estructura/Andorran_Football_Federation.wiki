@@ -1,0 +1,40 @@
+{{Short description|Governing body of association football in Andorra}}
+{{National football association
+|Logo               = Andorran Football Federation logo.svg
+|Badge size         = 200
+|Founded            = {{Start date and age|df=yes|1994}}
+|FIFA affiliation   = 1996
+|Region             = [[UEFA]]
+|Region affiliation = 1996
+|President          = [[Felix Álvarez (football official)|Felix Álvarez]]
+|Website            = {{URL|https://www.faf.ad/}}
+}}
+
+The '''Andorran Football Federation''' ({{langx|ca|Federació Andorrana de Futbol}}) is the governing body of [[football in Andorra]].<ref>{{cite web|url=http://www.wsc.co.uk/the-archive/923-Europe/6398-remote-possibilities |title=When Saturday Comes - Remote possibilities |publisher=Wsc.co.uk |date=2012-07-09 |access-date=2013-12-04}}</ref> It was founded in 1994 and joined as a member of FIFA and UEFA in 1996. It organises the football league, [[Primera Divisió]], the [[Copa Constitució]] and [[Andorran Supercup]], and the [[Andorra national football team]]. It is based in [[Escaldes-Engordany]].<ref>{{cite web|url=http://www.uefa.com/memberassociations/association=and/profile/index.html |archive-url=https://web.archive.org/web/20100222081535/http://www.uefa.com/memberassociations/association=AND/profile/index.html |url-status=dead |archive-date=February 22, 2010 |title=Encouraging Andorran advancements |publisher=[[UEFA]] |access-date=2013-12-04}}</ref>
+{{clear}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.faf.ad/ Official website] {{in lang|ca|en}}
+*[https://web.archive.org/web/20070603190646/http://www.fifa.com/associations/association=and/index.html Andorra] at FIFA site
+*[https://web.archive.org/web/20100208165217/http://www.uefa.com/memberassociations/association=AND/index.html Andorra] at UEFA site
+
+{{Football in Andorra}}
+{{Futsal in Andorra}}
+{{Andorra national football team}}
+{{UEFA associations}}
+{{Sports governing bodies in Andorra}}
+
+[[Category:Andorran Football Federation| ]]
+[[Category:Football in Andorra|Federation]]
+[[Category:Futsal in Andorra|Federation]]
+[[Category:Sports governing bodies in Andorra|Football]]
+[[Category:Association football governing bodies in Europe]]
+[[Category:National members of FIFA|Andorra]]
+[[Category:National members of UEFA|Andorra]]
+[[Category:1994 establishments in Andorra]]
+[[Category:Sports organizations established in 1994]]
+
+{{Andorra-stub}}

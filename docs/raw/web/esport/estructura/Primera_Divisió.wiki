@@ -1,0 +1,661 @@
+{{short description|Top division men's association football league in Andorra}}
+{{Use dmy dates|date=May 2022}}
+{{Infobox football league
+| logo       = Multisegur_league_badge.png
+| pixels     = 270px
+| country    = Andorra
+| confed     = [[UEFA]]
+| founded    = 1995
+| teams      = 10
+| relegation = [[Segona Divisió]]
+| levels     = 1
+| domest_cup = [[Copa Constitució]]<br />[[Andorran Supercup|Supercopa Andorrana]]
+| confed_cup = [[UEFA Champions League]]<br />[[UEFA Conference League]]
+| champions  = [[Inter Club d'Escaldes]] (5th title)
+| season     = [[2025–26 Primera Divisió|2025–26]]
+| most successful club = [[FC Santa Coloma]] (13&nbsp;titles)
+| website    = {{URL|http://www.faf.ad/}}
+| current    = [[2026–27 Primera Divisió]]
+}}
+
+The '''Primera Divisió''' (First Division), also known as '''Lliga Multisegur Assegurances''' for sponsorship reasons<ref name=":0" /> is the top level of men's [[Association football|football]] in [[Andorra]].
+
+The league was launched in 1995 sponsored by the local federation ([[Andorran Football Federation]]) which was created just one year before. Until then, clubs had played since 1970 in an amateur league without a structure or affiliation with any official institution.<ref>{{cite web|url=http://bp3.blogger.com/_wUVU0K4QvaQ/RcSq0rzjSLI/AAAAAAAAABU/qZ9Xv3PA_P4/s1600-h/MACE1.JPG|title=MACE1.JPG (image)|website=bp3.blogger.com}}</ref> Since affiliation to [[UEFA]] and [[FIFA]] in 1996, Andorran clubs are able to compete in the [[UEFA competitions]].<ref>{{cite web|url=http://www.thefreelibrary.com/'HAIR+WE+GO,+HAIR+WE+GO..'+United+will+face+barber-ians;+CE+PRINCIPAT...-a061076898|title='HAIR WE GO, HAIR WE GO..' United will face barber-ians; CE PRINCIPAT v DUNDEE UTD. – Free Online Library|website=thefreelibrary.com}}</ref> Until 2015 the league was known as ''Lliga Grup Becier''<ref>{{cite web|url=http://www.faf.ad/pnfg/NNws_ShwNewDup?codigo=1006438&cod_primaria=3000301&cod_secundaria=3000301#.VgXYeCulpS4|title=FAF – Lliga Grup Becier: Nou patrocinador de la Primera Divisió de Futbol|website=faf.ad}}</ref> and during 2016 ''Lliga Grup Sant Eloi''.<ref>{{cite web|url=http://www.faf.ad/pnfg/NNws_ShwNewDup?codigo=1006777&cod_primaria=3000301&cod_secundaria=3000301|title=FAF – Lliga Grup Sant Eloi: Nou patrocinador de la Primera Divisió de Futbol|website=faf.ad}}</ref> It was renamed in 2017 as '''Lliga Multisegur Assegurances''' for sponsorship reasons.<ref name=":0">{{cite web|url=https://www.elperiodic.ad/noticia/59909/la-primera-divisio-passa-a-dir-se-lliga-multisegur-assegurances|title=La Primera Divisió passa a dir-se Lliga Multisegur Assegurances|website=elperiodic.ad|date=14 September 2017 }}</ref>
+
+All the teams in the league play in the same stadiums owned by the federation. The same occurs in all other Andorran competitions, such as the [[Copa Constitució]] and [[Andorran Supercup|Supercopa]].
+
+[[FC Andorra]], one of the major clubs in the country based in [[Andorra la Vella]], have never played in this league; they play in the Spanish league system, and are registered with the [[Royal Spanish Football Federation]].
+
+==League system==
+The eight clubs that play in the league play each other three times in the same venue. After the first 21 rounds, the league splits in half, into a top four and bottom four. They then play the other three teams in their section twice more to give a total of 27 games. The last placed of the relegation round is relegated to [[Segona Divisió]], the second highest football league in Andorra, while the penultimate classified play a two-legged relegation play-off against the runners-up of Segona Divisió. The number of teams of ''Primera Divisió'' has changed throughout the league's history:
+
+*1995–96: 10 clubs
+*1996–97: 12 clubs
+*1997–98: 11 clubs
+*1998–99: 12 clubs
+*1999–00: 7 clubs
+*2000–02: 8 clubs
+*2002–03: 9 clubs
+*2003–23: 8 clubs
+*2023–''present'': 10 clubs
+
+===Qualification for European competitions===
+The winner of the league wins a place in the [[UEFA Champions League]] qualifications round, while the runners-up of the league and the [[Copa Constitució|Cup]] winner win a place in the [[UEFA Conference League]] qualifications round.
+
+==Stadiums==
+{{OSM Location map 
+| coord        = {{coord|42.50615224914272|1.5967044674724196}}
+| zoom         = 10
+| width        = 300
+| height       = 330
+| mark-size1   = 16
+| shape1       = n-circle
+| caption      = Map of the location of the stadiums used in the Primera Divisió.<div style="font-size:80%">{{col-begin}}{{Col-3}}{{Ubl
+
+  | '''Andorra'''
+  | {{#invoke:overlay|icon|1|#0000FF}} [[Estadi Comunal d'Andorra la Vella]]
+  | {{#invoke:overlay|icon|2|#0000FF}} [[Camp d'Esports Prada de Moles]] (✚)
+  | {{#invoke:overlay|icon|3|#0000FF}} [[Andorran Football Federation Training Center]]
+  | {{#invoke:overlay|icon|4|#0000FF}} [[Centre d'Entrenament de la Massana]]
+  | {{#invoke:overlay|icon|5|#0000FF}} [[Centre Esportiu d'Ordino]]
+  }}{{Ubl
+  | '''Spain'''
+  | {{#invoke:overlay|icon|6|#DB001A}} [[Centre Esportiu d'Alàs]]
+  }}{{col-end}}</div>
+
+| mark-coord1        = {{Coord|42.501444990212285|1.513886824776855}}
+| shape-color1       = #0000FF
+| mark-title1        = [[Estadi Comunal d'Andorra la Vella]]
+| mark-description1  = [[Andorra la Vella]]
+| mark-coord2        = {{Coord|42.53040149002939|1.5713810210765686}}
+| shape-color2       = #0000FF
+| mark-title2        = [[Camp d'Esports Prada de Moles]] (✚)
+| mark-description2  = [[Encamp]]
+| mark-coord3        = {{Coord|42.497992637417994|1.508166226627658}}
+| shape-color3       = #0000FF
+| mark-title3        = [[Andorran Football Federation Training Center]]
+| mark-description3  = [[Andorra la Vella]]
+| mark-coord4        = {{Coord|42.55407077369166|1.504812956186082}}
+| shape-color4       = #0000FF
+| mark-title4        = [[Centre d'Entrenament de la Massana]]
+| mark-description4  = [[La Massana]]
+| mark-coord5        = {{Coord|42.55446652164649|1.5311596878006282}}
+| shape-color5       = #0000FF
+| mark-title5        = [[Centre Esportiu d'Ordino]]
+| mark-description5  = [[Ordino]]
+| mark-coord6        = {{Coord|42.35536070818829|1.5047335831425812}}
+| shape-color6       = #DB001A
+| mark-title6        = [[Centre Esportiu d'Alàs]]
+| mark-description6  = [[Alàs i Cerc]]
+}}
+
+The [[Andorran Football Federation]] organizes the matches of ''Primera Divisió'' and ''Segona Divisió'' in the stadiums owned by the local federation.<ref>{{cite web|url=http://www.faf.ad/pnfg/NPcd/NFG_LstCampos?cod_primaria=1000122|title=FAF - Consulta de Terrenys de Joc|website=faf.ad}}</ref><ref>{{cite web|url=http://bondia.ad/esports/lestadi-comunal-torna-acollir-partits-de-primera-divisio-cinc-anys-despres|title=L'estadi Comunal torna a acollir partits de Primera Divisió cinc anys després|website=bondia.ad}}</ref> Also the federation distributes the stadiums and fields for the training sessions for each team.<ref>{{cite web|url=http://www.faf.ad/pnfg/NBdd_LstDocumentos?cod_primaria=3000342|title=FAF|website=faf.ad}}</ref> Since the 2016–17 season, [[FC Encamp]] is the only club that has its own stadium (✚), located in [[Encamp|Prada de Moles]] ([[Camp de Futbol d'Encamp]]).<ref>{{cite web|url=http://www.fcencamp.org/el-club/instal-lacions.html|title=FC Encamp Web Oficial - FCEncamp.org - FCE|first=Web|last=Gestió|website=FC Encamp}}</ref> Until 2016 the [[Camp d’Esports d’Aixovall|Camp d'Esports d'Aixovall]] hosted former matches of ''Primera Divisió'' and ''Segona Divisió''.<ref>{{cite web|url=https://www.ara.ad/societat/Adeu-al-camp-futbol-dAixovall_0_1612638934.html|title=Adéu al camp de futbol d'Aixovall|website=ara.ad|date=13 July 2016 }}</ref>
+
+{| class="wikitable sortable" style="text-align: left;"
+! Stadium 
+! Location
+! Capacity
+|-
+| [[Centre Esportiu d'Alàs]]
+| [[Alàs i Cerc]] (Spain)
+| align="center" | 1,500
+|-
+| [[Estadi Comunal d'Andorra la Vella]]
+| [[Andorra la Vella]]
+| align="center" | 1,300
+|-
+| [[Centre Esportiu d'Ordino]]
+| [[Ordino]]
+| align="center" | 200
+|-
+| [[Andorran Football Federation Training Center]]
+| [[Andorra la Vella]]
+| align="center" | 300
+|-
+|[[Centre d'Entrenament de la Massana]]
+|[[La Massana]]
+| align="center" | 300 
+|-
+| [[Camp d'Esports Prada de Moles]] (✚)
+| [[Encamp]]
+| align="center" | 550
+|}
+
+==Winners==
+{| class="wikitable" style="text-align:center;"
+|-
+!Season
+!Champion<ref name="faf.ad">{{cite web|url=http://www.faf.ad/pnfg/NNws_ShwNewDup?codigo=1003688&cod_primaria=3000321&cod_secundaria=3000321#.U_eCqEim9_0|title=FAF - Lliga Nacional de Futbol (1ª divisió)|website=faf.ad}}</ref>
+!Second place
+!Third place
+|-
+|1994–95
+|[[FC Santa Coloma]]<sup>a</sup>
+| -
+| - 
+|-
+|[[Primera Divisió 1995-96|1995–96]]
+|[[FC Encamp]]
+|[[CE Principat]]
+|[[FC Santa Coloma]] 
+|-
+|[[Primera Divisió 1996-97|1996–97]] 
+|style="background-color: #D0E7FF" | [[CE Principat]]*
+|[[FC Andorra|FC Andorra Veterans]]
+|[[FC Encamp]]
+|-
+|[[Primera Divisió 1997-98|1997–98]]
+|style="background-color: #D0E7FF" | [[CE Principat]]*
+|[[FC Santa Coloma]] 
+|[[FC Encamp]]
+|-
+|[[Primera Divisió 1998-99|1998–99]]
+|style="background-color: #D0E7FF" | [[CE Principat]]*
+|[[FC Santa Coloma]] 
+|[[FC Encamp]]
+|-
+|[[Primera Divisió 1999–2000|1999–00]]
+|style="background-color: #D0E7FF" | [[Constel·lació Esportiva]]*
+|[[FC Santa Coloma]] 
+| [[Inter Club d'Escaldes|Inter Escaldes]]
+|-
+|[[Primera Divisió 2000-01|2000–01]]
+|style="background-color: #D0E7FF" | [[FC Santa Coloma]]*
+|[[UE Sant Julià]]
+|[[Inter Club d'Escaldes|Inter Escaldes]]
+|-
+|[[Primera Divisió 2001-02|2001–02]]
+|[[FC Encamp]]
+|[[UE Sant Julià]]
+|[[FC Santa Coloma]]
+|-
+|[[Primera Divisió 2002-03|2002–03]]
+|style="background-color: #D0E7FF" | [[FC Santa Coloma]]*
+|[[FC Encamp]]
+|[[UE Sant Julià]]
+|-
+|[[Primera Divisió 2003-04|2003–04]]
+|style="background-color: #D0E7FF" | [[FC Santa Coloma]]*
+|[[UE Sant Julià]]
+|[[FC Rànger's]]
+|-
+|[[Primera Divisió 2004-05|2004–05]]
+|[[UE Sant Julià]]
+|[[FC Rànger's]]
+|[[FC Santa Coloma]]
+|-
+|[[Primera Divisió 2005-06|2005–06]]
+|[[FC Rànger's]]
+|[[UE Sant Julià]]
+|[[FC Santa Coloma]]
+|-
+|[[Primera Divisió 2006-07|2006–07]]
+|[[FC Rànger's]]
+|[[FC Santa Coloma]]
+|[[UE Sant Julià]]
+|-
+|[[Primera Divisió 2007–08|2007–08]]
+|[[FC Santa Coloma]]
+|[[UE Sant Julià]]
+|[[FC Rànger's]]
+|-
+|[[Primera Divisió 2008–09|2008–09]]
+|[[UE Sant Julià]]
+|[[FC Santa Coloma]]
+|[[CE Principat]]
+|-
+|[[Primera Divisió 2009–10|2009–10]]
+|[[FC Santa Coloma]]
+|[[UE Santa Coloma]]
+|[[UE Sant Julià]]
+|-
+|[[2010–11 Primera Divisió|2010–11]]
+|[[FC Santa Coloma]]
+|[[UE Sant Julià]]
+|[[FC Lusitanos]]
+|-
+|[[2011–12 Primera Divisió|2011–12]]
+|[[FC Lusitanos]] 
+|[[FC Santa Coloma]]
+|[[UE Santa Coloma]]
+|-
+|[[2012–13 Primera Divisió|2012–13]]
+|[[FC Lusitanos]] 
+|[[FC Santa Coloma]]
+|[[UE Santa Coloma]]
+|-
+|[[2013–14 Primera Divisió|2013–14]]
+|[[FC Santa Coloma]]
+|[[UE Santa Coloma]]
+|[[UE Sant Julià]]
+|-
+|[[2014–15 Primera Divisió|2014–15]]
+|[[FC Santa Coloma]]
+|[[FC Lusitanos]] 
+|[[UE Santa Coloma]]
+|-
+|[[2015–16 Primera Divisió|2015–16]]
+|[[FC Santa Coloma]]
+|[[FC Lusitanos]] 
+|[[UE Sant Julià]] 
+|-
+|[[2016–17 Primera Divisió|2016–17]]
+|[[FC Santa Coloma]]
+|[[UE Sant Julià]] 
+|[[UE Santa Coloma]] 
+|-
+|[[2017–18 Primera Divisió|2017–18]]
+|style="background-color: #D0E7FF" |[[FC Santa Coloma]]*
+|[[UE Engordany]] 
+|[[UE Sant Julià]]
+|-
+|[[2018–19 Primera Divisió|2018–19]]
+|[[FC Santa Coloma]]
+|[[UE Sant Julià]]
+|[[Inter Club d'Escaldes|Inter Escaldes]] 
+|-
+|[[2019–20 Primera Divisió|2019–20]]
+|style="background-color: #D0E7FF" |[[Inter Club d'Escaldes|Inter Escaldes]]* 
+|[[FC Santa Coloma]]
+|[[UE Engordany]] 
+|-
+|[[2020–21 Primera Divisió|2020–21]]
+|[[Inter Club d'Escaldes|Inter Escaldes]]
+|[[UE Sant Julià]]
+|[[FC Santa Coloma]]
+|-
+|[[2021–22 Primera Divisió|2021–22]]
+|[[Inter Club d'Escaldes|Inter Escaldes]]
+|[[UE Santa Coloma]]
+|[[UE Sant Julià]]
+|-
+|[[2022–23 Primera Divisió|2022–23]]
+|[[Atlètic Club d'Escaldes]]
+|[[Inter Club d'Escaldes|Inter Escaldes]]
+|[[FC Santa Coloma]]
+|-
+|[[2023–24 Primera Divisió|2023–24]]
+|style="background-color: #D0E7FF" |[[UE Santa Coloma]]*
+|[[Inter Club d'Escaldes|Inter Escaldes]]
+|[[Atlètic Club d'Escaldes]]
+|-
+|[[2024–25 Primera Divisió|2024–25]]
+|style="background-color: #D0E7FF" |[[Inter Club d'Escaldes|Inter Escaldes]]
+|[[Atlètic Club d'Escaldes]]
+|[[FC Santa Coloma]]
+|-
+|[[2025–26 Primera Divisió|2025–26]]
+|[[Inter Club d'Escaldes|Inter Escaldes]]
+|[[UE Santa Coloma]]
+|[[FC Rànger's]]
+|}
+{| class="wikitable"
+|-
+! scope=row style="background-color: #D0E7FF" width=40px | *
+| Team won [[double (association football)|the double]] by winning the [[Copa Constitució]] the same season.
+|}
+<sup>a</sup>: The [[Andorran Football Federation]] counts the 1994–95 amateur league title as an official one.<ref name="faf.ad"/><ref>{{cite web|url=http://www.fclubsantacoloma.net/?page_id=182&lang=ca|title=PALMARÈS - F. C. Santa coloma|website=fclubsantacoloma.net}}</ref>
+
+===Performance by club===
+{| class="wikitable sortable"  
+|-
+! Club
+! Winners
+! Runners-up
+! Third place
+! Winning years
+! Runner-up years
+! Third place Years
+|- 
+| '''[[FC Santa Coloma]]'''<sup>c</sup>
+|align="center" |'''13'''
+|align="center" | 8
+|align="center" | 7
+| 1995, 2001, 2003, 2004, 2008, 2010, 2011, 2014, 2015, 2016, 2017, 2018, 2019
+| 1998, 1999, 2000, 2007, 2009, 2012, 2013, 2020
+| 1996, 2002, 2005, 2006, 2021, 2023, 2025
+|- bgcolor=#F4FAFF
+| '''[[Inter Club d'Escaldes|Inter d'Escaldes]]'''
+|align="center" | '''5'''
+|align="center" | 2
+|align="center" | 3
+| 2020, 2021, 2022, 2025, 2026
+| 2023, 2024
+| 2000, 2001, 2019
+|- 
+| [[CE Principat]]
+|align="center" | '''3'''
+|align="center" | 1
+|align="center" | 1
+| 1997, 1998, 1999 
+| 1996
+| 2009
+|- bgcolor=#F4FAFF
+| [[UE Sant Julià]]
+|align="center" | '''2'''
+|align="center" | 9
+|align="center" | 7
+| 2005, 2009
+| 2001, 2002, 2004, 2006, 2008, 2011, 2017, 2019, 2021
+| 2003, 2007, 2010, 2014, 2016, 2018, 2022
+|- 
+| [[FC Lusitanos]]<sup>b</sup>
+|align="center" | '''2'''
+|align="center" | 2
+|align="center" | 1
+| 2012, 2013 
+| 2015, 2016
+| 2011
+|- bgcolor=#F4FAFF
+| [[FC Encamp]]
+|align="center" | '''2'''
+|align="center" | 1
+|align="center" | 3
+| 1996, 2002
+| 2003
+| 1997, 1998, 1999
+|- 
+| [[FC Rànger's]]
+|align="center" | '''2'''
+|align="center" | 1
+|align="center" | 3
+| 2006, 2007
+| 2005
+| 2004, 2008, 2026
+|- bgcolor=#F4FAFF 
+| '''[[UE Santa Coloma]]'''
+|align="center" | '''1'''
+|align="center" | 4
+|align="center" | 4
+| 2024
+| 2010, 2014, 2022, 2026
+| 2012, 2013, 2015, 2017
+|- 
+| '''[[Atlètic Club d'Escaldes]]'''
+|align="center" | '''1'''
+|align="center" | 1
+|align="center" | 1
+| 2023
+| 2025
+| 2024
+|- bgcolor=#F4FAFF
+| [[Constel·lació Esportiva]]<sup>b</sup>
+|align="center" | '''1'''
+|align="center" | 0
+|align="center" | 0
+| 2000
+| –
+| –
+|- 
+| [[UE Engordany]]
+|align="center" | 0
+|align="center" | 1
+|align="center" | 1
+| –
+| 2018
+| 2020
+|- bgcolor=#F4FAFF
+| [[FC Andorra|FC Andorra Veterans]]<sup>a</sup>
+|align="center" | 0
+|align="center" | 1
+|align="center" | 0
+| –
+| 1997
+| –
+|}
+
+'''Bold''': indicates clubs currently playing in the top division.<br>
+<sup>a</sup>: Club currently out of competition.<br>
+<sup>b</sup>: Club dissolved.<br>
+<sup>c</sup>: Founder members that have never been relegated from Primera Divisió.
+
+===Performance by parish===
+{| class="wikitable sortable"  
+!
+! Parish
+! Winners
+! Runners-up
+! Third place
+! Winning clubs
+|-
+|align="center" | [[Image:Escut d'Andorra la Vella.svg|22px|]]
+| '''[[Andorra la Vella]]'''
+|align="center" | '''22'''
+|align="center" | 16
+|align="center" | 14
+| [[FC Santa Coloma]] (13), [[CE Principat]] (3), [[FC Rànger's]] (2), [[FC Lusitanos]] (2), [[Constel·lació Esportiva]] (1), [[UE Santa Coloma]] (1)
+|- bgcolor=#F4FAFF
+|align="center" | [[Image:Escut d'Escaldes-Engordany.svg|35px|]]
+| '''[[Escaldes-Engordany]]'''
+|align="center" | '''4'''
+|align="center" | 3
+|align="center" | 5
+| [[Inter Club d'Escaldes|Inter d'Escaldes]] (3), [[Atlètic Club d'Escaldes|Atlètic d'Escaldes]] (1)
+|- 
+|align="center" | [[Image:Escut de Sant Julià de Lòria.svg|30px|]]
+| '''[[Sant Julià de Lòria]]'''
+|align="center" | '''2'''
+|align="center" | 9
+|align="center" | 7
+| [[UE Sant Julià]] (2)
+|- bgcolor=#F4FAFF
+|align="center" | [[Image:Escut d'Encamp.svg|30px|]]
+| '''[[Encamp]]'''
+|align="center" | '''2'''
+|align="center" | 1
+|align="center" | 3
+| [[FC Encamp]] (2)
+|}
+
+==All-time Primera Divisió table==
+The All-time Primera Divisió table is an overall record of all match results, points, and goals of every team that has played since its inception in 1995. The table is accurate as of the end of the [[2022–23 Primera Divisió|2020–21]] season. Teams in '''bold''' are part of the 2022–23 Primera Divisió. Play-offs games are not included.
+
+<!--Please do not update in part as this causes problems in updating at the end of each season when each part of the table should be updated in full. Whilst the table is by points total, the number of Championships won is also shown. Please do not remove without seeing comment this article's talk page. Thank you.-->
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! {{Tooltip|Pos|Position}}
+! {{Tooltip|Team|Team}}
+! {{Tooltip|S|Seasons}}
+! {{Tooltip|GP|GP}}
+! {{Tooltip|W|Games won}}
+! {{Tooltip|D|Games drawn}}
+! {{Tooltip|L|Games lost}}
+! {{Tooltip|GF|Goals for}}
+! {{Tooltip|GA|Goals against}}
+! {{Tooltip|Pts|Points}}
+! {{Tooltip|1st|Champion}}
+! {{Tooltip|2nd|Runner-up}}
+! {{Tooltip|3rd|Third}}
+! {{Tooltip|4th|Fourth}}
+! {{Tooltip|5th|Fifth}}
+! {{Tooltip|T|Total seasons between five first positions}}
+! {{Tooltip|Debut|Season of Debut in La Liga}}
+! {{Tooltip|Since/Last App|In La Liga since season/Last season in La Liga}}
+! {{Tooltip|Best|Better position}}
+|- style="background:#ace1af;"
+| 1 || align=left|'''[[FC Santa Coloma]]''' || 28 || 596 || 368 || 171 || 87 || 1507 || 490 || '''1265''' || 12 || 8 || 6 || 1 || 1 || 28 || 1995–96 || [[1995–96 Primera Divisió|1995–96]] || 1
+|- style="background:#ace1af;"
+| 2 || align=left|'''[[UE Sant Julià|Sant Julià]]''' || 28 || 596 || 305 || 123 || 168 || 1359 || 771 || '''1034''' || 2 || 9 || 7 || 4 || 1 || 22 || 1995–96 || [[1995–96 Primera Divisió|1995–96]] || 1
+|- style="background:#ace1af;"
+| 3 || align=left|'''[[Inter Club d'Escaldes|Inter d'Escaldes]]''' || 26 || 549 || 211 || 89 || 249 || 852 || 1010 || '''722''' || 3 || 1 || 3 || 3 || 3 || 12 || 1995–96 || [[2014–15 Primera Divisió|2014–15]] || 1
+|- style="background:#ccc;"
+| 4 || align=left|[[FC Lusitanos|Lusitanos]] || 19 || 404 || 178 || 71 || 154 || 779 || 610 || '''605''' || 2 || 2 || 1 || 8 || 3 || 16 || 2000–01 || [[2018–19 Primera Divisió|2018–19]] || 1
+|- style="background:#ace1af;"
+| 5 || align=left|'''[[UE Santa Coloma]]''' || 15 || 340 || 165 || 77 || 98 || 687 || 393 || '''572''' || – || 3 || 4 || 3 || 3 || 12 || 2008–09 || [[2008–09 Primera Divisió|2008–09]] || 2
+|- style="background:#ccc;"
+| 6 || align=left|[[CE Principat|Principat]] || 19 || 376 || 169 || 53 || 154 || 852 || 695 || '''560''' || 3 || 1 || 1 || 2 || 6 || 13 || 1995–96 || [[2013–14 Primera Divisió|2013–14]] || 1
+|- style="background:#fbe08d;"
+| 7 || align=left|[[FC Encamp|Encamp]] || 20 || 417 || 153 || 70 || 194 || 751 || 817 || '''529''' || 2 || 1 || 3 || 2 || – || 8 || 1995–96 || [[2018–19 Primera Divisió|2018–19]] || 1
+|- style="background:#ace1af;"
+| 8 || align=left|'''[[UE Engordany|Engordany]]''' || 15 || 340 || 106 || 61 || 173 || 466 || 807 || '''380''' || – || 1 || 1 || 1 || 2 || 5 || 2003–04 || [[2014–15 Primera Divisió|2014–15]] || 2
+|- style="background:#fbe08d;"
+| 9 || align=left|[[FC Rànger's|Rànger's]] || 9 || 182 || 89 || 22 || 71 || 397 || 383 || '''289''' || 2 || 1 || 2 || 1 || – || 6 || 2001–02 || [[2011–12 Primera Divisió|2011–12]] || 1
+|- style="background:#ace1af;"
+| 10 || align=left|'''[[Atlètic Club d'Escaldes|Atlètic d'Escaldes]]''' || 7 || 159 || 61 || 36 || 62 || 231 || 233 || '''219''' || 1 || – || – || 2 || – || 3 || 2004–05 || [[2019–20 Primera Divisió|2019–20]] || 1
+|- style="background:#ace1af;"
+| 11 || align=left|'''[[FC Ordino|Ordino]]''' || 8 || 193 || 59 || 33 || 101 || 266 || 370 || '''210''' || – || – || – || – || 3 || 3 || 2013–14 || [[2021–22 Primera Divisió|2021–22]] || 5
+|- style="background:#ccc;"
+| 12 || align=left|[[Sporting d'Escaldes]]|| 8 || 150 || 37 || 27 || 86 || 227 || 449 || '''138''' || – || – || – || – || 1 || 1 || 1995–96 || [[2002–03 Primera Divisió|2002–03]] || 5
+|- style="background:#ccc;"
+| 13 || align=left|[[Deportivo La Massana|La Massana]]|| 5 || 102 || 24 || 33 || 55 || 126 || 249 || '''95''' || – || – || – || – || 1 || 1 || 1995–96 || [[2000–01 Primera Divisió|2000–01]] || 5
+|- style="background:#ccc;"
+| 14 || align=left|[[Constel·lació Esportiva|Constel·lació]] || 2 || 34 || 23 || 2 || 9 || 122 || 41 || '''71''' || 1 || – || – || – || 1 || 2 || 1998–99 || [[1999–2000 Primera Divisió|1999–00]] || 1
+|- style="background:#ccc;"
+| 15 || align=left|[[FC Andorra Veterans]]|| 2 || 42 || 22 || 5 || 15 || 104 || 95 || '''71''' || – || 1 || – || – || – || 1 || 1996–97 || [[1997–98 Primera Divisió|1997–98]] || 2
+|- style="background:#ccc;"
+| 16 || align=left|[[FC Aldosa|Aldosa]]|| 2 || 40 || 19 || 4 || 17 || 70 || 66 || '''61''' || – || – || – || 1 || 1 || 2 || 1995–96 || [[1996–97 Primera Divisió|1996–97]] || 4
+|- style="background:#ace1af;" 
+| 17 || align=left|'''[[Penya Encarnada d'Andorra|Penya Encarnada]]''' || 4 || 95 || 12 || 15 || 68 || 69 || 304 || '''61''' || – || – || – || – || 1 || 1 || 2015–16 || [[2020–21 Primera Divisió|2020–21]] || 5
+|- style="background:#ccc;"
+| 18 || align=left|[[CE Benito|Benito]]|| 2 || 42 || 16 || 6 || 20 || 63 || 81 || '''54''' || – || – || – || – || – || – || 1997–98 || [[1998–99 Primera Divisió|1998–99]] || 7
+|- style="background:#fbe08d;"
+| 19 || align=left|[[CE Carroi|Carroi]] || 3 || 71 || 11 || 9 || 51 || 56 || 98 || '''42''' || – || – || – || – || – || – || 2019–20 || [[2019–20 Primera Divisió|2019–20]] || 7
+|- style="background:#ccc;"
+| 20 || align=left|[[FC Engolasters|Engolasters]]|| 2 || 42 || 11 || 8 || 23 || 54 || 74 || '''41''' || – || – || – || – || – || – || 1997–98 || [[1998–99 Primera Divisió|1998–99]] || 6
+|- style="background:#ccc;"
+| 21 || align=left|[[Gimnàstic Valira]]|| 3 || 64 || 7 || 6 || 51 || 81 || 264 || '''27''' || – || – || – || – || – || – || 1996–97 || [[1998–99 Primera Divisió|1998–99]] || 6
+|- style="background:#fbe08d;"
+| 22 || align=left|[[UE Extremenya|Extremenya]] || 3 || 64 || 7 || 3 || 54 || 55 || 266 || '''24''' || – || – || – || – || – || – || 1998–99 || [[2005–06 Primera Divisió|2005–06]] || 8
+|- style="background:#ccc;"
+| 23 || align=left|[[UE Les Bons|Les Bons]]|| 1 || 22 || 6 || 4 || 12 || 37 || 66 || '''22''' || – || – || – || – || – || – || 1996–97 || [[1996–97 Primera Divisió|1996–97]] || 10
+|- style="background:#ccc;"
+| 24 || align=left|[[Casa Estrella del Benfica|CE Benfica]] || 2 || 40 || 3 || 4 || 33 || 28 || 165 || '''13''' || – || – || – || – || – || – || 2007–08 || [[2010–11 Primera Divisió|2010–11]] || 8
+|- style="background:#ccc;"
+| 25 || align=left|[[Spordany Juvenil]]|| 2 || 40 || 4 || 0 || 16 || 48 || 238 || '''12''' || – || – || – || – || – || – || 1995–96 || [[1996–97 Primera Divisió|1996–97]] || 9
+|- style="background:#ccc;"
+| 26 || align=left|[[Construccions Emprimo]]|| 1 || 18 || 1 || 1 || 16 || 18 || 78 || '''4''' || – || – || – || – || – || – || 1995–96 || [[1995–96 Primera Divisió|1995–96]] || 10
+|- style="background:#ccc;"
+| 27 || align=left|[[CE Jenlai|Jenlai]] || 1 || 27 || 2 || 1 || 24 || 18 || 137 || '''4'''{{efn|Three points docked}} || – || – || – || – || – || – || 2016–17 || [[2016–17 Primera Divisió|2016–17]] || 8
+|}
+{{notelist}}
+
+League or status at 2020–21 season:
+{|class="wikitable" style="text-align:left; font-size:95%;"
+|-
+| style="width:10px; background:#ace1af;"| ||[[2020–21 Primera Divisió]]
+|-
+| style="width:10px; background:#fbe08d;"| ||[[2020–21 Segona Divisió]]
+|-
+| style="width:10px; background:#ccc;"| ||Clubs that no longer exist or are not competing
+|}
+
+==Top scorers==
+{| class="wikitable" style="font-size:95%;"
+! width="100" | Year
+! width="200" | Best scorers
+! width="220" | Team
+! width="100" | Goals
+|- align=center
+|'''[[1995–96 Primera Divisió|1995–96]]''' 
+| - || - || -
+|- align=center
+|'''[[1996–97 Primera Divisió|1996–97]]''' 
+|{{flagicon|Andorra}} [[Patricio González Fernandez|Patricio González]]|| [[CE Principat]] || 25
+|- align=center
+|'''[[1997–98 Primera Divisió|1997–98]]''' 
+|{{flagicon|Spain}} [[Rafael Sanchez Pedrosa|Rafael Sánchez]]|| [[FC Santa Coloma]] || 36
+|- align=center
+|'''[[1998–99 Primera Divisió|1998–99]]''' 
+| - || - || -
+|- align=center
+|'''[[1999-2000 Primera Divisió|1999–00]]''' 
+| - || - || -
+|- align=center
+|'''[[2000–01 Primera Divisió|2000–01]]''' 
+| - || - || -
+|- align=center
+|'''[[2001–02 Primera Divisió|2001–02]]''' 
+| - || - || -
+|- align=center
+|'''[[2002–03 Primera Divisió|2002–03]]''' 
+| - || - || -
+|- align=center
+|'''[[2003–04 Primera Divisió|2003–04]]''' 
+|{{flagicon|Portugal}} [[Jorge Filipe Sa Silva Carneiro|Jorge Filipe Sa Silva]]|| [[UE Sant Julià]] || 16
+|- align=center
+|'''[[2004–05 Primera Divisió|2004–05]]''' 
+| - || - || -
+|- align=center
+|'''[[2005–06 Primera Divisió|2005–06]]''' 
+| - || - || -
+|- align=center
+|rowspan=2|'''[[2006–07 Primera Divisió|2006–07]]''' 
+|{{flagicon|Argentina}} [[Norberto Urbani]]|| [[FC Rànger's]] || 14
+|- align=center
+|{{flagicon|Andorra}} [[Joan Toscano]] || [[FC Santa Coloma]] || 14
+|- align=center
+|'''[[2007–08 Primera Divisió|2007–08]]''' 
+| - || - || -
+|- align=center
+|'''[[2008–09 Primera Divisió|2008–09]]''' 
+|{{flagicon|Argentina}} [[Norberto Urbani]]|| [[FC Rànger's]] || 22
+|- align=center
+|'''[[2009–10 Primera Divisió|2009–10]]''' 
+|{{flagicon|Andorra}} [[Gabi Riera]] || [[UE Sant Julià]] || 19
+|- align=center
+|'''[[2010–11 Primera Divisió|2010–11]]''' 
+|{{flagicon|Spain}} [[Victor Bernat Cuadros|Victor Bernat]] || [[UE Santa Coloma]] || 16
+|- align=center
+|'''[[2011–12 Primera Divisió|2011–12]]''' 
+|{{flagicon|Spain}} [[Victor Bernat Cuadros|Victor Bernat]] || [[UE Santa Coloma]] || 14
+|- align=center
+|'''[[2012–13 Primera Divisió|2012–13]]''' 
+|{{flagicon|Portugal}} [[Bruno Filipe Raposo Fernandes|Bruninho]] || [[FC Lusitanos]] || 17
+|- align=center
+|'''[[2013–14 Primera Divisió|2013–14]]''' 
+|{{flagicon|Portugal}} [[Luis Miguel dos Reis]]|| [[FC Lusitanos]] || 13
+|- align=center
+|'''[[2014–15 Primera Divisió|2014–15]]''' 
+|{{flagicon|Andorra}} [[Cristian Martínez (Andorran footballer)|Cristian Martínez]] || [[FC Santa Coloma]] || 22
+|- align=center
+|'''[[2015–16 Primera Divisió|2015–16]]''' 
+|{{flagicon|Spain}} [[Victor Bernat Cuadros|Victor Bernat]] || [[UE Santa Coloma]] || 12
+|- align=center
+|'''[[2016–17 Primera Divisió|2016–17]]''' 
+|{{flagicon|Spain}} [[Victor Bernat Cuadros|Victor Bernat]] || [[UE Santa Coloma]] || 18
+|- align=center
+|'''[[2017–18 Primera Divisió|2017–18]]''' 
+|{{flagicon|Spain}} [[Jesús David Sosa|Chus Sosa]]|| [[FC Santa Coloma]] || 14
+|- align=center
+|'''[[2018–19 Primera Divisió|2018–19]]''' 
+|{{flagicon|Chile}} [[Nicolás Esteban Medina Ríos|Nico Medina]] || [[FC Lusitanos]] || 10 
+|- align=center
+|'''[[2019–20 Primera Divisió|2019–20]]''' 
+|{{flagicon|Spain}} [[Genís Soldevila]]|| [[Inter Club d'Escaldes]] || 16
+|- align=center
+|'''[[2020–21 Primera Divisió|2020–21]]''' 
+|{{flagicon|France}} [[Guillaume Lopez]]|| [[Engordany]] || 11
+|- align=center
+|'''[[2021–22 Primera Divisió|2021–22]]'''
+|{{flagicon|CHL}} [[Jaime Grondona]]
+{{flagicon|FRA}} [[Guillaume Lopez]]
+|[[FC Santa Coloma]]
+[[FC Santa Coloma]]
+|14
+|- align=center
+|'''[[2023–24 Primera Divisió|2023–24]]''' 
+|{{flagicon|ESP}} {{ill|Faysal Chouaib|fr}}|| [[UE Santa Coloma]] || 19
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.uefa.com/footballcentral/directory/country=AND/Association=60618/index.html UEFA.com – Andorra]{{dead link|date=March 2025|bot=medic}}{{cbignore|bot=medic}}
+*[http://fedandfut.com/default.asp?idioma=cat&navpage=page3&divfamily=1&div=senior1a Federació Andorrana de Fútbol]
+*[http://www.league321.com/andorra-football.html  League321.com] – Andorran football league tables, records & statistics database. {{in lang|en}}
+*[https://www.rsssf.org/tablesa/andochamp.html Andorra – List of Champions], RSSSF.com
+
+{{Primera Divisió}}
+{{Football in Andorra}}
+{{UEFA leagues}}
+
+{{DEFAULTSORT:Primera Divisio}}
+[[Category:Primera Divisió| ]]
+[[Category:Football leagues in Andorra|1]]
+[[Category:Football club competitions in Andorra]]
+[[Category:Andorran Football Federation competitions]]
+[[Category:Top-level domestic association football leagues in Europe|Andorra]]
+[[Category:1995 establishments in Andorra]]
+[[Category:Sports leagues established in 1995]]
+[[Category:National championships in Andorra|Football]]
