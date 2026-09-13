@@ -1364,6 +1364,19 @@ atribució acadèmica precisa, però el document familiar no es reprodueix ni t�
 cota pública; no se n'han inferit forma jurídica, quantitats, preus ni
 continuïtat amb la marca de lavanda de Léo.
 
+L'historial editorial de Viquipèdia permet seguir la procedència d'aquesta
+memòria. Una biografia afegida el 2014 es declarava procedent de la família
+Delvert-Blanchard-Cheyrou; una ampliació posterior, comentada `enrichi PYR`,
+acabà citant els arxius de Pierre-Yves Redon, la família i l'Association de
+Sauvegarde de Martel. La cadena és coherent amb el matrimoni de Marguerite
+Delvert i Louis Blanchard, fundador de l'associació, però les versions antigues
+donaven dates errònies o incompatibles (`Anna 1884–1960`, creació el 1904,
+empresa 1908–1981). Els noms que aporta —Yvonne i Alex Cheyrou, Christian
+Beynet i Monique Redon— i les afirmacions sobre Fauchon, Félix Potin, trenta
+empleats i la Coupe d'Or 1970 són ara pistes separades, no fets assimilats. La
+llista institucional actual del Comité de France confirma únicament que la
+Conserverie Delvert fou guardonada, sense precisar-hi l'any.
+
 La sèrie digital no permet saltar netament a 1936: el filtre oficial només
 retorna **Saint-Denis-lès-Martel** (`6 M 314`), una comuna diferent, i cap
 quadern de Martel. En canvi, el cens de **1946** (`1 W 697`) sí que conserva
