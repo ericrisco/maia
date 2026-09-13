@@ -1426,10 +1426,37 @@ L'autorització del 07/01/2015 refongué el règim de la fàbrica amb la platafo
 d'emmagatzematge: 290 t/dia entrants, 32.600 m³ de magatzem, 71.000 m³/any
 d'aigua municipal, depuració amb basses de 690 i 1.200 m³, dues vies d'abocament
 de 300 m³/dia i objectiu de legionel·la inferior a 1.000 UFC/L. Abrogà els
-actes de 2003, 2006 i 2008, no expressament els de 2010 i 2013. A més, la seva
-pàgina 14 sembla limitar al 50 % anual la via comunal, mentre l'informe de maig
-de 2025 aplica el 50 % al medi natural. La contradicció resta oberta fins a
+actes de 2003, 2006 i 2008, no expressament els de 2010 i 2013. La pàgina 14
+limita al 50 % anual el punt 1 bis —la via comunal— i exigeix tot seguit el seu
+recapitulatiu anual. L'informe de maig de 2025 copia aquesta prescripció però
+després aplica el 50 % al medi natural: és una inversió interna del referent.
+No declara el punt resolt, sinó `avec suites`, amb demanda de dossier i
+calendari per complir el decret vigent. La qualificació resta oberta fins a
 localitzar una modificació intermèdia o la convenció d'abocament vigent.
+
+Els arxius nacionals IREP 2003–2024 permeten quantificar aquesta història.
+Per a 2020–2024 publiquen respectivament **35.251/34.342, 27.202/45.613,
+62.972/16.468, 45.235/21.403 i 51.425/8.857 m³** raccordats/isolats: la part
+enviada a l'estació col·lectiva fou **50,65 %, 37,36 %, 79,27 %, 67,88 % i
+85,31 %**. La lectura literal del decret queda així en tensió el 2020 i sobretot
+el 2022–2024. No s'ha convertit en infracció provada perquè podria faltar un
+acte modificatiu o variar el perímetre comptable.
+
+La mateixa sèrie obre un segon interrogant. Davant el màxim imprès de **71.000
+m³/any** de captació municipal, IREP publica 81.400 m³ el 2015; 101.000 el
+2016; 103.000 el 2017; 102.000 el 2018; 91.411 el 2020; 78.109 el 2021; 86.741
+el 2022, i 75.055 el 2023. Cal l'historial complet d'actes i comprovar que el
+camp `prélèvement réseau` cobreixi exactament el mateix comptador.
+
+Les càrregues indirectes publicades arriben el 2018 a **99.400 kg de DBO5** i
+**381.000 kg de DQO**. Els llindars nacionals de declaració són 43.000 i
+150.000 kg/any, de manera que l'absència de fila no és zero i `sota llindar` no
+prova el compliment de les concentracions ICPE. El SCoT Sud Corrèze de 2025
+atribueix a `données 2020` 73.000 kg de DBO5 i 261.000 kg de DQO per Delvert;
+els arxius anuals demostren que aquest parell correspon exactament a
+**2017**, no a 2020. Els 22 ZIP, el manual GEREP, el CSV derivat, una anàlisi
+extensa i un esborrany no enviat de petició d'accés són a
+`delvert-georisques-inspections/irep/` i `cabb-assainissement/`.
 
 Tres informes oficials Géorisques permeten seguir després el risc industrial
 sense dependre de les declaracions de premsa. El 2023 la inspecció registrà
