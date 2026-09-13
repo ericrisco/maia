@@ -198,3 +198,4 @@ el dot i marxava**.
 - [La quèstia](./la-questia.md) — per què els cabalers pagaven a part.
 - [L'agricultura de subsistència](../../economia/ramaderia-i-agricultura/lagricultura-de-subsistencia.md) — per què no es podia partir.
 - [El sufragi femení](../../societat/dones/el-sufragi-femeni.md) — el contrast.
+- [Un elector per casa](../../politica/sistema-electoral/un-elector-per-casa.md) — la casa com a subjecte també en dret polític.

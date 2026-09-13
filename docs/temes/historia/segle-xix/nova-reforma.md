@@ -89,3 +89,4 @@ amb el copríncep episcopal, amb els períodes datats i l'origen documentat.
 - [Onomàstica](../../llengua/onomastica/onomastica.md) — la casa com a identitat.
 - [El Consell General](../../institucions/consell-general/el-consell-general.md) — la institució reformada.
 - [El sufragi universal masculí](../../politica/sistema-electoral/el-sufragi-universal-masculi.md) — el graó següent, que es va treure i es va tornar a posar.
+- [Un elector per casa](../../politica/sistema-electoral/un-elector-per-casa.md) — el mecanisme electoral que aquesta llei estableix, paràgraf per paràgraf.

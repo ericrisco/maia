@@ -122,3 +122,4 @@ qui s'hi oposaven**: **els capgrossos**, malnom dels consellers generals.
 - [Democratització](../../historia/democratitzacio/democratitzacio.md)
 - [Per on van entrar les idees](../../historia/democratitzacio/per-on-van-entrar-les-idees.md) — d'on venien les reivindicacions.
 - [El parlamentarisme andorrà](../parlamentarisme/el-parlamentarisme-andorra.md)
+- [Un elector per casa](./un-elector-per-casa.md) — què hi havia abans: un vot per casa, en veu alta, i l'elegibilitat com a càrrega.

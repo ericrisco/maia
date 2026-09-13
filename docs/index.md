@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**650** documents · **128** fonts · **0** aptes com a model de llengua · **116** temes amb contingut.
+**652** documents · **128** fonts · **0** aptes com a model de llengua · **116** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -951,6 +951,7 @@
 | [Els tres sistemes electorals](temes/politica/sistema-electoral/els-tres-sistemes-electorals.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `dalleres-coprincipat-parlamentari` |
 | [La desigualtat del vot](temes/politica/sistema-electoral/la-desigualtat-del-vot.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `lopez-escenaris-de-futur` |
 | [L'abstenció](temes/politica/sistema-electoral/labstencio.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `dalleres-coprincipat-parlamentari` |
+| [Un elector per casa](temes/politica/sistema-electoral/un-elector-per-casa.md) | `temes/politica/sistema-electoral` | compilada | historica | no | `brutails-coutume-1904` |
 
 ## temes/societat/associacionisme
 
@@ -1200,6 +1201,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Com funciona tot](temes/vida-quotidiana/com-funciona-tot/com-funciona-tot.md) | `temes/vida-quotidiana/com-funciona-tot` | compilada | contemporania | no | `iec-vocabulari-andorra` |
+| [Comprar i reclamar](temes/vida-quotidiana/com-funciona-tot/comprar-i-reclamar.md) | `temes/vida-quotidiana/com-funciona-tot` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Conduir a Andorra](temes/vida-quotidiana/com-funciona-tot/conduir-a-andorra.md) | `temes/vida-quotidiana/com-funciona-tot` | compilada | contemporania | no | `jurisprudencia-ad` |
 
 ## temes/vida-quotidiana/convencions-socials
