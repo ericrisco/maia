@@ -212,6 +212,123 @@ pàgina retorna **error 500**. És l'única de les 105 que falta.
 | Professions i Justícia | 6 | 373 | 4.2 % |
 | **Total** | **104** | **8956** | **100 %** |
 
+## Quines s'han destil·lat
+
+De les **104** normes, **104** han generat fitxa compilada a
+`docs/temes/`. Les altres **0** són llegibles i **encara no s'han llegit**.
+
+**Aquesta taula és la llista de feina.**
+
+| Llei | Fitxa del corpus |
+| --- | --- |
+| `acces-electronic-justicia.txt` | [resoldre-sense-judici](../../temes/institucions/justicia/resoldre-sense-judici.md) |
+| `accessibilitat-universal.txt` | [arribar-a-tot-arreu](../../temes/societat/vida-civica/arribar-a-tot-arreu.md) |
+| `accio-sindical.txt` | [el-dret-de-vaga](../../temes/societat/treball/el-dret-de-vaga.md) |
+| `actius-digitals.txt` | [blanqueig-i-actius-digitals](../../temes/economia/banca-i-fiscalitat/blanqueig-i-actius-digitals.md) |
+| `advocacia.txt` | [resoldre-sense-judici](../../temes/institucions/justicia/resoldre-sense-judici.md) |
+| `agencia-qualitat-ensenyament.txt` | [laqua](../../temes/societat/educacio/laqua.md) |
+| `allotjament-turistic.txt` | [els-pisos-turistics](../../temes/economia/turisme-i-neu/els-pisos-turistics.md) |
+| `arbitratge.txt` | [resoldre-sense-judici](../../temes/institucions/justicia/resoldre-sense-judici.md) |
+| `arrendaments-urbans.txt` | [llogar-un-pis](../../temes/societat/habitatge/llogar-un-pis.md) |
+| `assegurances.txt` | [la-supervisio-financera](../../temes/economia/banca-i-fiscalitat/la-supervisio-financera.md) |
+| `associacions.txt` | [muntar-alguna-cosa](../../temes/economia/comerc/muntar-alguna-cosa.md) |
+| `autoritat-financera.txt` | [la-supervisio-financera](../../temes/economia/banca-i-fiscalitat/la-supervisio-financera.md) |
+| `avaluacio-ambiental.txt` | [el-que-no-es-llenca](../../temes/territori/patrimoni-natural/el-que-no-es-llenca.md) |
+| `bases-tributari.txt` | [els-altres-impostos](../../temes/economia/banca-i-fiscalitat/els-altres-impostos.md) |
+| `blanqueig.txt` | [blanqueig-i-actius-digitals](../../temes/economia/banca-i-fiscalitat/blanqueig-i-actius-digitals.md) |
+| `caca.txt` | [cacar-i-pescar](../../temes/territori/fauna-i-flora/cacar-i-pescar.md) |
+| `codi-administracio.txt` | [tractar-amb-ladministracio](../../temes/institucions/govern/tractar-amb-ladministracio.md) |
+| `codi-circulacio.txt` | [conduir-a-andorra](../../temes/vida-quotidiana/com-funciona-tot/conduir-a-andorra.md) |
+| `codi-duana.txt` | [la-duana](../../temes/economia/comerc/la-duana.md) |
+| `codi-penal.txt` | [les-penes-del-codi-penal](../../temes/institucions/justicia/les-penes-del-codi-penal.md) |
+| `codi-procediment-civil.txt` | [tretze-dies](../../temes/institucions/justicia/tretze-dies.md) |
+| `codi-procediment-penal.txt` | [el-proces-penal](../../temes/institucions/justicia/el-proces-penal.md) |
+| `comerc.txt` | [muntar-alguna-cosa](../../temes/economia/comerc/muntar-alguna-cosa.md) |
+| `competencia-consumidor.txt` | [muntar-alguna-cosa](../../temes/economia/comerc/muntar-alguna-cosa.md) |
+| `comptabilitat-empresaris.txt` | [muntar-alguna-cosa](../../temes/economia/comerc/muntar-alguna-cosa.md) |
+| `compte-propi.txt` | [treballar-de-temporada](../../temes/societat/treball/treballar-de-temporada.md) |
+| `confianca-electronica.txt` | [andorra-digital](../../temes/societat/mitjans/andorra-digital.md) |
+| `conflicte-collectiu.txt` | [el-dret-de-vaga](../../temes/societat/treball/el-dret-de-vaga.md) |
+| `constitucio.txt` | [lordenament-juridic-avui](../../temes/institucions/justicia/lordenament-juridic-avui.md) |
+| `contenciós-administratiu.txt` | [tractar-amb-ladministracio](../../temes/institucions/govern/tractar-amb-ladministracio.md) |
+| `contractacio-publica.txt` | [tractar-amb-ladministracio](../../temes/institucions/govern/tractar-amb-ladministracio.md) |
+| `cooperacio-judicial.txt` | [resoldre-sense-judici](../../temes/institucions/justicia/resoldre-sense-judici.md) |
+| `creixement-sostenible.txt` | [els-habitatges-buits](../../temes/societat/habitatge/els-habitatges-buits.md) |
+| `creixement-sostenible-2026.txt` | [els-habitatges-buits](../../temes/societat/habitatge/els-habitatges-buits.md) |
+| `diposit-legal.txt` | [el-diposit-legal](../../temes/cultura/museus-i-arxius/el-diposit-legal.md) |
+| `drets-infancia.txt` | [els-drets-dels-infants](../../temes/societat/familia/els-drets-dels-infants.md) |
+| `economia-circular.txt` | [el-que-no-es-llenca](../../temes/territori/patrimoni-natural/el-que-no-es-llenca.md) |
+| `economia-digital.txt` | [andorra-digital](../../temes/societat/mitjans/andorra-digital.md) |
+| `embargament.txt` | [lexecucio-forcosa](../../temes/institucions/justicia/lexecucio-forcosa.md) |
+| `entitats-religioses.txt` | [el-registre-dentitats-religioses](../../temes/costums/religiositat/el-registre-dentitats-religioses.md) |
+| `esport.txt` | [la-llei-de-lesport](../../temes/esports/competicio/la-llei-de-lesport.md) |
+| `esports-electronics.txt` | [andorra-digital](../../temes/societat/mitjans/andorra-digital.md) |
+| `estatut-artista.txt` | [treballar-de-temporada](../../temes/societat/treball/treballar-de-temporada.md) |
+| `finances-comunals.txt` | [els-altres-impostos](../../temes/economia/banca-i-fiscalitat/els-altres-impostos.md) |
+| `fons-garantia-diposits.txt` | [la-supervisio-financera](../../temes/economia/banca-i-fiscalitat/la-supervisio-financera.md) |
+| `funcio-publica.txt` | [tractar-amb-ladministracio](../../temes/institucions/govern/tractar-amb-ladministracio.md) |
+| `fundacions.txt` | [muntar-alguna-cosa](../../temes/economia/comerc/muntar-alguna-cosa.md) |
+| `horaris-comercials.txt` | [els-horaris-comercials](../../temes/economia/comerc/els-horaris-comercials.md) |
+| `igi.txt` | [els-tipus-impositius](../../temes/economia/banca-i-fiscalitat/els-tipus-impositius.md) |
+| `igualtat.txt` | [la-llei-digualtat](../../temes/societat/dones/la-llei-digualtat.md) |
+| `immigracio.txt` | [la-residencia-passiva](../../temes/institucions/nacionalitat-i-residencia/la-residencia-passiva.md) |
+| `impost-estades.txt` | [els-altres-impostos](../../temes/economia/banca-i-fiscalitat/els-altres-impostos.md) |
+| `impost-societats.txt` | [els-tipus-impositius](../../temes/economia/banca-i-fiscalitat/els-tipus-impositius.md) |
+| `impostos-especials.txt` | [els-altres-impostos](../../temes/economia/banca-i-fiscalitat/els-altres-impostos.md) |
+| `institut-habitatge.txt` | [llogar-un-pis](../../temes/societat/habitatge/llogar-un-pis.md) |
+| `intercanvi-fiscal.txt` | [els-altres-impostos](../../temes/economia/banca-i-fiscalitat/els-altres-impostos.md) |
+| `inversio-collectiva.txt` | [la-supervisio-financera](../../temes/economia/banca-i-fiscalitat/la-supervisio-financera.md) |
+| `inversio-estrangera-immoble.txt` | [els-altres-impostos](../../temes/economia/banca-i-fiscalitat/els-altres-impostos.md) |
+| `irnr.txt` | [els-altres-impostos](../../temes/economia/banca-i-fiscalitat/els-altres-impostos.md) |
+| `irpf.txt` | [els-tipus-impositius](../../temes/economia/banca-i-fiscalitat/els-tipus-impositius.md) |
+| `jocs-atzar.txt` | [els-jocs-datzar](../../temes/economia/transformacio-economica/els-jocs-datzar.md) |
+| `llei-qualificada-justicia.txt` | [qui-nomena-els-jutges](../../temes/institucions/justicia/qui-nomena-els-jutges.md) |
+| `llei-relacions-laborals.txt` | [el-preu-de-lacomiadament](../../temes/societat/treball/el-preu-de-lacomiadament.md) |
+| `llei-taxes-judicials.txt` | [resoldre-sense-judici](../../temes/institucions/justicia/resoldre-sense-judici.md) |
+| `llei-transitoria-procediments.txt` | [tretze-dies](../../temes/institucions/justicia/tretze-dies.md) |
+| `llei-tribunal-constitucional.txt` | [el-tribunal-constitucional](../../temes/institucions/justicia/el-tribunal-constitucional.md) |
+| `llengua-oficial.txt` | [el-que-la-llei-pot-multar](../../temes/llengua/politica-linguistica/el-que-la-llei-pot-multar.md) |
+| `mediacio.txt` | [resoldre-sense-judici](../../temes/institucions/justicia/resoldre-sense-judici.md) |
+| `mesures-habitatge.txt` | [llogar-un-pis](../../temes/societat/habitatge/llogar-un-pis.md) |
+| `notariat.txt` | [quants-notaris](../../temes/institucions/justicia/quants-notaris.md) |
+| `ocupacio.txt` | [treballar-de-temporada](../../temes/societat/treball/treballar-de-temporada.md) |
+| `ordenacio-territorial.txt` | [qui-mana-al-territori](../../temes/territori/urbanisme/qui-mana-al-territori.md) |
+| `organitzacio-entitats-financeres.txt` | [la-supervisio-financera](../../temes/economia/banca-i-fiscalitat/la-supervisio-financera.md) |
+| `organs-teixits-sang.txt` | [donar-i-ser-ates](../../temes/societat/sanitat/donar-i-ser-ates.md) |
+| `partits-politics.txt` | [qui-paga-un-partit](../../temes/politica/partits/qui-paga-un-partit.md) |
+| `patrimoni-cultural.txt` | [el-dret-de-tempteig](../../temes/cultura/museus-i-arxius/el-dret-de-tempteig.md) |
+| `penitenciaria.txt` | [la-llei-penitenciaria](../../temes/institucions/justicia/la-llei-penitenciaria.md) |
+| `persona-familia.txt` | [casar-se-a-andorra](../../temes/societat/familia/casar-se-a-andorra.md) |
+| `pesca-medi-aquatic.txt` | [cacar-i-pescar](../../temes/territori/fauna-i-flora/cacar-i-pescar.md) |
+| `professions-salut.txt` | [donar-i-ser-ates](../../temes/societat/sanitat/donar-i-ser-ates.md) |
+| `propietat-horitzontal.txt` | [llogar-un-pis](../../temes/societat/habitatge/llogar-un-pis.md) |
+| `proteccio-civil.txt` | [la-proteccio-civil](../../temes/territori/clima-i-muntanya/la-proteccio-civil.md) |
+| `proteccio-dades.txt` | [andorra-digital](../../temes/societat/mitjans/andorra-digital.md) |
+| `raonador-ciutada.txt` | [el-raonador-del-ciutada](../../temes/institucions/govern/el-raonador-del-ciutada.md) |
+| `recerca-biomedica.txt` | [donar-i-ser-ates](../../temes/societat/sanitat/donar-i-ser-ates.md) |
+| `regim-electoral.txt` | [com-es-compten-els-vots](../../temes/politica/sistema-electoral/com-es-compten-els-vots.md) |
+| `reorganitzacio-empresarial.txt` | [els-altres-impostos](../../temes/economia/banca-i-fiscalitat/els-altres-impostos.md) |
+| `resp-penal-menors.txt` | [el-proces-penal](../../temes/institucions/justicia/el-proces-penal.md) |
+| `saig.txt` | [lexecucio-forcosa](../../temes/institucions/justicia/lexecucio-forcosa.md) |
+| `sancions-internacionals.txt` | [vigilar-i-sancionar](../../temes/economia/comerc/vigilar-i-sancionar.md) |
+| `sectors-agroramaders.txt` | [la-comissio-dels-pagesos](../../temes/economia/ramaderia-i-agricultura/la-comissio-dels-pagesos.md) |
+| `seguretat-privada.txt` | [vigilar-i-sancionar](../../temes/economia/comerc/vigilar-i-sancionar.md) |
+| `seguretat-publica.txt` | [sortir-al-carrer](../../temes/societat/vida-civica/sortir-al-carrer.md) |
+| `seguretat-salut-treball.txt` | [no-tornar-a-casa-ferit](../../temes/societat/treball/no-tornar-a-casa-ferit.md) |
+| `seguretat-social.txt` | [la-via-preferent](../../temes/societat/sanitat/la-via-preferent.md) |
+| `seguretat-xarxes.txt` | [andorra-digital](../../temes/societat/mitjans/andorra-digital.md) |
+| `serveis-socials.txt` | [donar-i-ser-ates](../../temes/societat/sanitat/donar-i-ser-ates.md) |
+| `sistema-financer.txt` | [la-supervisio-financera](../../temes/economia/banca-i-fiscalitat/la-supervisio-financera.md) |
+| `societats.txt` | [muntar-alguna-cosa](../../temes/economia/comerc/muntar-alguna-cosa.md) |
+| `supervisio-prudencial.txt` | [la-supervisio-financera](../../temes/economia/banca-i-fiscalitat/la-supervisio-financera.md) |
+| `tinenca-animals.txt` | [la-tinenca-danimals](../../temes/territori/fauna-i-flora/la-tinenca-danimals.md) |
+| `transferencies-comuns.txt` | [els-diners-dels-comuns](../../temes/institucions/comuns-i-parroquies/els-diners-dels-comuns.md) |
+| `transicio-energetica.txt` | [la-transicio-energetica](../../temes/economia/energia-i-serveis/la-transicio-energetica.md) |
+| `transparencia.txt` | [la-llei-de-transparencia](../../temes/institucions/govern/la-llei-de-transparencia.md) |
+
+### Pendents (0)
+
+
 ## Com es va extreure
 
 La font serveix cada norma com a pàgina amb el text complet incrustat: **una

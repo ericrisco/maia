@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**546** documents · **123** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
+**594** documents · **124** fonts · **0** aptes com a model de llengua · **114** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -142,6 +142,8 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El dipòsit legal](temes/cultura/museus-i-arxius/el-diposit-legal.md) | `temes/cultura/museus-i-arxius` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [El dret de tempteig](temes/cultura/museus-i-arxius/el-dret-de-tempteig.md) | `temes/cultura/museus-i-arxius` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La Societat Andorrana de Ciències](temes/cultura/museus-i-arxius/la-societat-andorrana-de-ciencies.md) | `temes/cultura/museus-i-arxius` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [L'Arxiu d'Etnografia d'Andorra](temes/cultura/museus-i-arxius/larxiu-detnografia.md) | `temes/cultura/museus-i-arxius` | compilada | contemporania | no | `de-la-parte-immigracio-cultura` |
 | [L'Arxiu Nacional d'Andorra](temes/cultura/museus-i-arxius/larxiu-nacional.md) | `temes/cultura/museus-i-arxius` | compilada | contemporania | no | `viquipedia-ca` |
@@ -169,8 +171,12 @@
 | --- | --- | --- | --- | --- | --- |
 | [Abans dels bancs](temes/economia/banca-i-fiscalitat/abans-dels-bancs.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `cerqueda-banca` |
 | [Banca i fiscalitat](temes/economia/banca-i-fiscalitat/banca-i-fiscalitat.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `viquipedia-ca` |
+| [Blanqueig i actius digitals](temes/economia/banca-i-fiscalitat/blanqueig-i-actius-digitals.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El Banc Agrícol](temes/economia/banca-i-fiscalitat/el-banc-agricol.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `cerqueda-banca` |
 | [El cas BPA](temes/economia/banca-i-fiscalitat/el-cas-bpa.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `premsa-andorrana` |
+| [Els altres impostos](temes/economia/banca-i-fiscalitat/els-altres-impostos.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [Els tipus impositius](temes/economia/banca-i-fiscalitat/els-tipus-impositius.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [La supervisió financera](temes/economia/banca-i-fiscalitat/la-supervisio-financera.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `jurisprudencia-ad` |
 
 ## temes/economia/comerc
 
@@ -179,21 +185,27 @@
 | [Comerç](temes/economia/comerc/comerc.md) | `temes/economia/comerc` | compilada | contemporania | no | `viquipedia-ca` |
 | [El comerç a l'edat moderna](temes/economia/comerc/el-comerc-a-ledat-moderna.md) | `temes/economia/comerc` | compilada | contemporania | no | `mas-relacions-comercials-1994` |
 | [El que Andorra comprava a Espanya](temes/economia/comerc/el-que-andorra-comprava-a-espanya.md) | `temes/economia/comerc` | compilada | contemporania | no | `diario-sesiones-corts-1895` |
+| [Els horaris comercials](temes/economia/comerc/els-horaris-comercials.md) | `temes/economia/comerc` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La Cambra de Comerç i la formació](temes/economia/comerc/la-cambra-de-comerc-i-la-formacio.md) | `temes/economia/comerc` | compilada | contemporania | no | `escaler-cambra-de-comerc` |
+| [La duana](temes/economia/comerc/la-duana.md) | `temes/economia/comerc` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Les mesures i les monedes](temes/economia/comerc/les-mesures-i-les-monedes.md) | `temes/economia/comerc` | compilada | historica | no | `brutails-coutume-1904` |
+| [Muntar alguna cosa](temes/economia/comerc/muntar-alguna-cosa.md) | `temes/economia/comerc` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Qui posava els preus](temes/economia/comerc/qui-posava-els-preus.md) | `temes/economia/comerc` | compilada | historica | no | `brutails-coutume-1904` |
+| [Vigilar i sancionar](temes/economia/comerc/vigilar-i-sancionar.md) | `temes/economia/comerc` | compilada | contemporania | no | `jurisprudencia-ad` |
 
 ## temes/economia/energia-i-serveis
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [FHASA](temes/economia/energia-i-serveis/fhasa.md) | `temes/economia/energia-i-serveis` | compilada | contemporania | no | `societat-andorrana-ciencies` |
+| [La transició energètica](temes/economia/energia-i-serveis/la-transicio-energetica.md) | `temes/economia/energia-i-serveis` | compilada | contemporania | no | `jurisprudencia-ad` |
 
 ## temes/economia/ramaderia-i-agricultura
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [El cens del bestiar de 1898-1900](temes/economia/ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md) | `temes/economia/ramaderia-i-agricultura` | compilada | contemporania | no | `brutails-coutume-1904` |
+| [La Comissió dels pagesos](temes/economia/ramaderia-i-agricultura/la-comissio-dels-pagesos.md) | `temes/economia/ramaderia-i-agricultura` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La crisi de l'oví](temes/economia/ramaderia-i-agricultura/la-crisi-de-lovi.md) | `temes/economia/ramaderia-i-agricultura` | compilada | contemporania | no | `mas-pagesos-i-artesans` |
 | [La transhumància](temes/economia/ramaderia-i-agricultura/la-transhumancia.md) | `temes/economia/ramaderia-i-agricultura` | compilada | contemporania | no | `becat-vida-pastoral` |
 | [La vinya i el tabac](temes/economia/ramaderia-i-agricultura/la-vinya-i-el-tabac.md) | `temes/economia/ramaderia-i-agricultura` | compilada | contemporania | no | `mas-pagesos-i-artesans` |
@@ -213,6 +225,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Andorra 2020](temes/economia/transformacio-economica/andorra-2020.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `nomen-capital-social-2007` |
+| [Els jocs d'atzar](temes/economia/transformacio-economica/els-jocs-datzar.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [L'economia el 1997](temes/economia/transformacio-economica/leconomia-el-1997.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `lluelles-aspectes-socioeconomics-1997` |
 | [Transformació econòmica](temes/economia/transformacio-economica/transformacio-economica.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `viquipedia-ca` |
 
@@ -222,6 +235,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [De la fonda a l'hotel](temes/economia/turisme-i-neu/de-la-fonda-a-lhotel.md) | `temes/economia/turisme-i-neu` | compilada | contemporania | no | `lacueva-hoteleria` |
 | [Els hostals comunals](temes/economia/turisme-i-neu/els-hostals-comunals.md) | `temes/economia/turisme-i-neu` | compilada | contemporania | no | `lacueva-hoteleria` |
+| [Els pisos turístics](temes/economia/turisme-i-neu/els-pisos-turistics.md) | `temes/economia/turisme-i-neu` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Turisme i neu](temes/economia/turisme-i-neu/turisme-i-neu.md) | `temes/economia/turisme-i-neu` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/esports/altres-esports
@@ -450,6 +464,17 @@
 | [Xavier Vieira i de Vasconcelos](temes/esports/futbol/xavier-vieira.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Francisco Manuel «Xisco» Pires i Costa](temes/esports/futbol/xisco-pires.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 
+## temes/esports/futbol/femeni
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [La selecció femenina](temes/esports/futbol/femeni/la-seleccio-femenina.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Margot Llobera i Farré](temes/esports/futbol/femeni/margot-llobera.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Maria Moles i Farré](temes/esports/futbol/femeni/maria-moles.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Maria Ruzafa i Lozano](temes/esports/futbol/femeni/maria-ruzafa.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Marina Fernández i Muelas](temes/esports/futbol/femeni/marina-fernandez.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Teresa «Tere» Morató i Armengol](temes/esports/futbol/femeni/teresa-morato.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+
 ## temes/gastronomia/begudes
 
 | Document | Tema | Veu | Època | Apte | Font |
@@ -595,6 +620,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Cap on mirava Andorra](temes/historia/segle-xix/cap-on-mirava-andorra.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [El desenllaç de la qüestió duanera](temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `vilar-andorre-1904` |
 | [Els casalers i els anfochs](temes/historia/segle-xix/els-casalers-i-els-anfochs.md) | `temes/historia/segle-xix` | compilada | historica | no | `tarrene-influencies-multiculturals` |
 | [Guillem d'Areny-Plandolit](temes/historia/segle-xix/guillem-dareny-plandolit.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `viquipedia-ca` |
@@ -617,6 +643,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [El sometent](temes/institucions/comuns-i-parroquies/el-sometent.md) | `temes/institucions/comuns-i-parroquies` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [Els diners dels comuns](temes/institucions/comuns-i-parroquies/els-diners-dels-comuns.md) | `temes/institucions/comuns-i-parroquies` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La taba i el mostassà](temes/institucions/comuns-i-parroquies/la-taba-i-el-mostassa.md) | `temes/institucions/comuns-i-parroquies` | compilada | contemporania | no | `lacueva-hoteleria` |
 | [Les set parròquies i els seus comuns](temes/institucions/comuns-i-parroquies/les-set-parroquies.md) | `temes/institucions/comuns-i-parroquies` | compilada | contemporania | no | `consell-general-web` |
 | [Una sessió de la Junta de Govern](temes/institucions/comuns-i-parroquies/una-sessio-de-la-junta-de-govern.md) | `temes/institucions/comuns-i-parroquies` | compilada | contemporania | no | `acta-junta-govern-escaldes-2025` |
@@ -644,8 +671,11 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [El Govern](temes/institucions/govern/el-govern.md) | `temes/institucions/govern` | compilada | contemporania | no | `govern-andorra-web` |
+| [El Raonador del Ciutadà](temes/institucions/govern/el-raonador-del-ciutada.md) | `temes/institucions/govern` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La contractació directa](temes/institucions/govern/la-contractacio-directa.md) | `temes/institucions/govern` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La funció pública](temes/institucions/govern/la-funcio-publica.md) | `temes/institucions/govern` | compilada | contemporania | no | `llovera-visio-del-treballador` |
+| [La llei de transparència](temes/institucions/govern/la-llei-de-transparencia.md) | `temes/institucions/govern` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [Tractar amb l'Administració](temes/institucions/govern/tractar-amb-ladministracio.md) | `temes/institucions/govern` | compilada | contemporania | no | `jurisprudencia-ad` |
 
 ## temes/institucions/justicia
 
@@ -844,11 +874,13 @@
 | --- | --- | --- | --- | --- | --- |
 | [Els partits d'avui](temes/politica/partits/els-partits-davui.md) | `temes/politica/partits` | compilada | contemporania | no | `wikipedia-politica-andorra` |
 | [L'arbre dels partits](temes/politica/partits/larbre-dels-partits.md) | `temes/politica/partits` | compilada | contemporania | no | `wikipedia-politica-andorra` |
+| [Qui paga un partit](temes/politica/partits/qui-paga-un-partit.md) | `temes/politica/partits` | compilada | contemporania | no | `jurisprudencia-ad` |
 
 ## temes/politica/sistema-electoral
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Com es compten els vots](temes/politica/sistema-electoral/com-es-compten-els-vots.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El finançament dels partits](temes/politica/sistema-electoral/el-financament-dels-partits.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El sufragi universal masculí](temes/politica/sistema-electoral/el-sufragi-universal-masculi.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `cavero-parlamentarisme-segle-xx` |
 | [Els tres sistemes electorals](temes/politica/sistema-electoral/els-tres-sistemes-electorals.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `dalleres-coprincipat-parlamentari` |
@@ -878,6 +910,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [El sufragi femení](temes/societat/dones/el-sufragi-femeni.md) | `temes/societat/dones` | compilada | contemporania | no | `consell-general-web` |
+| [La llei d'igualtat](temes/societat/dones/la-llei-digualtat.md) | `temes/societat/dones` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Les primeres becàries](temes/societat/dones/les-primeres-becaries.md) | `temes/societat/dones` | compilada | contemporania | no | `toquec-ensenyament-frances` |
 
 ## temes/societat/educacio
@@ -894,6 +927,7 @@
 | [La formació professional](temes/societat/educacio/la-formacio-professional.md) | `temes/societat/educacio` | compilada | contemporania | no | `garcia-puy-formacio-professional` |
 | [La Universitat d'Andorra](temes/societat/educacio/la-universitat-dandorra.md) | `temes/societat/educacio` | compilada | contemporania | no | `bastida-universitat-andorra` |
 | [L'andorranització](temes/societat/educacio/landorranitzacio.md) | `temes/societat/educacio` | compilada | contemporania | no | `bastida-roser-ensenyament-andorra` |
+| [L'AQUA](temes/societat/educacio/laqua.md) | `temes/societat/educacio` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [L'ensenyament confessional](temes/societat/educacio/lensenyament-confessional.md) | `temes/societat/educacio` | compilada | contemporania | no | `garcia-ensenyament-confessional` |
 | [L'ensenyament espanyol](temes/societat/educacio/lensenyament-espanyol.md) | `temes/societat/educacio` | compilada | contemporania | no | `boladeres-ensenyament-espanyol` |
 | [L'ensenyament francès](temes/societat/educacio/lensenyament-frances.md) | `temes/societat/educacio` | compilada | contemporania | no | `toquec-ensenyament-frances` |
@@ -910,12 +944,21 @@
 | --- | --- | --- | --- | --- | --- |
 | [L'esport a Andorra](temes/societat/esport/lesport.md) | `temes/societat/esport` | compilada | contemporania | no | `viquipedia-ca` |
 
+## temes/societat/familia
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Casar-se a Andorra](temes/societat/familia/casar-se-a-andorra.md) | `temes/societat/familia` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [Els drets dels infants](temes/societat/familia/els-drets-dels-infants.md) | `temes/societat/familia` | compilada | contemporania | no | `jurisprudencia-ad` |
+
 ## temes/societat/habitatge
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Els habitatges buits](temes/societat/habitatge/els-habitatges-buits.md) | `temes/societat/habitatge` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La crisi de l'habitatge](temes/societat/habitatge/la-crisi-de-lhabitatge.md) | `temes/societat/habitatge` | compilada | contemporania | no | `premsa-andorrana` |
 | [L'habitatge el 1989](temes/societat/habitatge/lhabitatge-el-1989.md) | `temes/societat/habitatge` | compilada | contemporania | no | `font-fenomens-socials-immigracio` |
+| [Llogar un pis](temes/societat/habitatge/llogar-un-pis.md) | `temes/societat/habitatge` | compilada | contemporania | no | `jurisprudencia-ad` |
 
 ## temes/societat/immigracio
 
@@ -943,6 +986,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Andorra digital](temes/societat/mitjans/andorra-digital.md) | `temes/societat/mitjans` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La censura de premsa](temes/societat/mitjans/la-censura-de-premsa.md) | `temes/societat/mitjans` | compilada | contemporania | no | `giral-mitjans-identitat-1990` |
 | [Les capçaleres](temes/societat/mitjans/les-capcaleres.md) | `temes/societat/mitjans` | compilada | contemporania | no | `sorribes-evolucio-premsa-1994` |
 | [Ràdio Andorra](temes/societat/mitjans/radio-andorra.md) | `temes/societat/mitjans` | compilada | contemporania | no | `viquipedia-ca` |
@@ -953,10 +997,12 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [De les iguales a l'hospital](temes/societat/sanitat/de-les-iguales-a-lhospital.md) | `temes/societat/sanitat` | compilada | contemporania | no | `pallares-medicina-andorra` |
+| [Donar i ser atès](temes/societat/sanitat/donar-i-ser-ates.md) | `temes/societat/sanitat` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La CASS i la sanitat](temes/societat/sanitat/la-cass-i-la-sanitat.md) | `temes/societat/sanitat` | compilada | contemporania | no | `viquipedia-ca` |
 | [La Clínica Vilanova](temes/societat/sanitat/la-clinica-vilanova.md) | `temes/societat/sanitat` | compilada | contemporania | no | `pallares-medicina-andorra` |
 | [La reacreditació dels metges](temes/societat/sanitat/la-reacreditacio-dels-metges.md) | `temes/societat/sanitat` | compilada | contemporania | no | `martinez-benazet-professions-liberals` |
 | [La salut mental](temes/societat/sanitat/la-salut-mental.md) | `temes/societat/sanitat` | compilada | contemporania | no | `obiols-salut-mental` |
+| [La via preferent](temes/societat/sanitat/la-via-preferent.md) | `temes/societat/sanitat` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Les iguales](temes/societat/sanitat/les-iguales.md) | `temes/societat/sanitat` | compilada | contemporania | no | `pallares-medicina-andorra` |
 | [L'Escola d'Infermeria](temes/societat/sanitat/lescola-dinfermeria.md) | `temes/societat/sanitat` | compilada | contemporania | no | `insa-ensenyament-salut` |
 
@@ -964,20 +1010,26 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El dret de vaga](temes/societat/treball/el-dret-de-vaga.md) | `temes/societat/treball` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [El preu de l'acomiadament](temes/societat/treball/el-preu-de-lacomiadament.md) | `temes/societat/treball` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El sindicalisme](temes/societat/treball/el-sindicalisme.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
 | [La memòria de FHASA](temes/societat/treball/la-memoria-de-fhasa.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
 | [L'acomiadament lliure](temes/societat/treball/lacomiadament-lliure.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
 | [L'ARA i el SAT](temes/societat/treball/lara-i-el-sat.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
+| [No tornar a casa ferit](temes/societat/treball/no-tornar-a-casa-ferit.md) | `temes/societat/treball` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Treball](temes/societat/treball/treball.md) | `temes/societat/treball` | compilada | contemporania | no | `iec-vocabulari-andorra` |
+| [Treballar de temporada](temes/societat/treball/treballar-de-temporada.md) | `temes/societat/treball` | compilada | contemporania | no | `jurisprudencia-ad` |
 
 ## temes/societat/vida-civica
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Arribar a tot arreu](temes/societat/vida-civica/arribar-a-tot-arreu.md) | `temes/societat/vida-civica` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Els problemes d'Andorra](temes/societat/vida-civica/els-problemes-dandorra.md) | `temes/societat/vida-civica` | compilada | contemporania | no | `mico-percepcio-medi-ambient` |
 | [La confiança](temes/societat/vida-civica/la-confianca.md) | `temes/societat/vida-civica` | compilada | contemporania | no | `mico-batalla-valors-capital-social` |
 | [L'associacionisme històric](temes/societat/vida-civica/lassociacionisme-historic.md) | `temes/societat/vida-civica` | compilada | contemporania | no | `canturri-associacionisme-historic-2007` |
 | [Per què valia la pena ser andorrà](temes/societat/vida-civica/per-que-valia-la-pena-ser-andorra.md) | `temes/societat/vida-civica` | compilada | historica | no | `brutails-coutume-1904` |
+| [Sortir al carrer](temes/societat/vida-civica/sortir-al-carrer.md) | `temes/societat/vida-civica` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La vida cívica](temes/societat/vida-civica/vida-civica.md) | `temes/societat/vida-civica` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/territori/clima-i-muntanya
@@ -986,14 +1038,17 @@
 | --- | --- | --- | --- | --- | --- |
 | [El canvi climàtic a Andorra](temes/territori/clima-i-muntanya/el-canvi-climatic.md) | `temes/territori/clima-i-muntanya` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [El clima](temes/territori/clima-i-muntanya/el-clima.md) | `temes/territori/clima-i-muntanya` | compilada | contemporania | no | `viquipedia-ca` |
+| [La protecció civil](temes/territori/clima-i-muntanya/la-proteccio-civil.md) | `temes/territori/clima-i-muntanya` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [L'aigua i la neu](temes/territori/clima-i-muntanya/laigua-i-la-neu.md) | `temes/territori/clima-i-muntanya` | compilada | contemporania | no | `pons-neu-i-aigua` |
 
 ## temes/territori/fauna-i-flora
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Caçar i pescar](temes/territori/fauna-i-flora/cacar-i-pescar.md) | `temes/territori/fauna-i-flora` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Els seguiments del CENMA](temes/territori/fauna-i-flora/els-seguiments-del-cenma.md) | `temes/territori/fauna-i-flora` | compilada | contemporania | no | `komac-biodiversitat-canvi-climatic` |
 | [Fauna i flora](temes/territori/fauna-i-flora/fauna-i-flora.md) | `temes/territori/fauna-i-flora` | compilada | contemporania | no | `viquipedia-ca` |
+| [La tinença d'animals](temes/territori/fauna-i-flora/la-tinenca-danimals.md) | `temes/territori/fauna-i-flora` | compilada | contemporania | no | `jurisprudencia-ad` |
 
 ## temes/territori/geografia-fisica
 
@@ -1056,6 +1111,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El que no es llença](temes/territori/patrimoni-natural/el-que-no-es-llenca.md) | `temes/territori/patrimoni-natural` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La vall del Madriu-Perafita-Claror](temes/territori/patrimoni-natural/madriu-perafita-claror.md) | `temes/territori/patrimoni-natural` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/territori/toponimia
@@ -1070,6 +1126,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Qui mana al territori](temes/territori/urbanisme/qui-mana-al-territori.md) | `temes/territori/urbanisme` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [L'urbanisme](temes/territori/urbanisme/urbanisme.md) | `temes/territori/urbanisme` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 
 ## temes/vida-quotidiana/com-funciona-tot
@@ -1077,6 +1134,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Com funciona tot](temes/vida-quotidiana/com-funciona-tot/com-funciona-tot.md) | `temes/vida-quotidiana/com-funciona-tot` | compilada | contemporania | no | `iec-vocabulari-andorra` |
+| [Conduir a Andorra](temes/vida-quotidiana/com-funciona-tot/conduir-a-andorra.md) | `temes/vida-quotidiana/com-funciona-tot` | compilada | contemporania | no | `jurisprudencia-ad` |
 
 ## temes/vida-quotidiana/convencions-socials
 
@@ -1235,5 +1293,6 @@
 | [`wikipedia-atletes-andorrans`](fonts/wikipedia-atletes-andorrans.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-esport-andorra`](fonts/wikipedia-esport-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-esquiadors-andorrans`](fonts/wikipedia-esquiadors-andorrans.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-futbol-femeni-andorra`](fonts/wikipedia-futbol-femeni-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-jocs-andorra`](fonts/wikipedia-jocs-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-politica-andorra`](fonts/wikipedia-politica-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
