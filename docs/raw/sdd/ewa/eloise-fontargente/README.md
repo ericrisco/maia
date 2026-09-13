@@ -1081,6 +1081,28 @@ mirall secundari d'estat registral;
 [OMPI 07/2010](https://www.wipo.int/edocs/madgdocs/en/2010/madrid_g_2010_7.pdf) i
 [Madrid Monitor](https://www3.wipo.int/madrid/monitor/en/showData.jsp?ID=ROM.1029289).
 
+Una sentència oficial revela després el revers contractual de la vitrina de
+Guerlain. La Cour d'appel de Paris (19/04/2023, RG 21/15809) dona per establerts
+tres comandes d'essència de lavanda Carla per a *Mon Guerlain*: 50 kg el
+setembre de 2015, 85 kg el maig de 2016 i 30 kg el desembre. Guerlain filmà el
+seu equip creatiu als camps de Baume i descriví el procés en els informes de
+sostenibilitat. La cour reconegué en l'essència un valor econòmic
+individualitzat i certa notorietat en gastronomia i perfumeria de luxe, però no
+un dret exclusiu sobre Carla, varietat de població desenvolupada per l'INRA.
+
+La quarta operació fracassà el 2017: d'una previsió de 150 kg, Guerlain passà a
+125 kg per atendre compromisos amb recol·lectors; acordaren lliurament a
+l'octubre, Baume no lliurà per un impediment i les noves condicions posteriors
+foren rebutjades. La demanda de 2018 acabà sense parasitisme provat: la menció
+de Baume havia estat consentida, les comandes pagades i Carla podia obtenir-se
+d'altres proveïdors. Les acusacions de 9 % davant d'1 %, substitució sintètica o
+*greenwashing* eren al·legacions, no conclusions del tribunal. L'apel·lació sí
+revocà la condemna de 10.000 euros per procediment abusiu, però mantingué la
+derrota principal, les costes i 6.000 euros de l'article 700. El portal indica
+una ordre de la Cour de cassation de 25/01/2024 sense oferir-ne aquí el text o
+l'efecte.
+[Sentència oficial](https://www.courdecassation.fr/decision/6440d81fe704a005d1ed70d5).
+
 L'article de 2016 tanca amb el projecte de cultivar maduixes silvestres com les
 del peu dels Vosges que Laurent recordava de la infància. La imatge dialoga
 amb el record de bolets, nabius i gerds recollits amb Jacques, però cap font
