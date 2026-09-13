@@ -59,3 +59,29 @@ va als Jocs de la Joventut i no hi ha article.**
    athlete to compete in the Winter Olympics». **És fals com a absolut** i la
    versió catalana no ho diu. **El corpus reté que hi va anar amb 17 anys i res
    més.**
+
+## `alpins/` — les 28 entrades d'esquiadors, 13 de setembre del 2026
+
+Wikitext cru descarregat per l'**API de MediaWiki** (`action=query&prop=revisions&rvslots=main`)
+de les categories **«Andorran male alpine skiers»** i **«Andorran female alpine
+skiers»** d'`en.wikipedia.org`. **CC BY-SA 4.0, redistribuïbles.**
+
+**Es guarda el wikitext i no l'HTML** perquè és **deu vegades més petit** i
+**conserva les infotaules senceres** —nom complet amb els dos cognoms, data i
+lloc de naixement, club, alçada, parentius— que és exactament el que el corpus
+necessitava i el que el text renderitzat perd.
+
+**Vint-i-una de les vint-i-vuit entrades són esborranys d'una línia.** Les
+riques són Llovera, Verdú, Gutiérrez, Oliveras, Esteve i Vidosa.
+
+**El que han tancat:** la quarta esportista de Calgary 1988 (**Sandra Grau i
+Muxella**), si els dos Font eren germans (**sí**) i qui va ser **la primera dona
+andorrana als Jocs** (**Claudina Rossel i Badia**, 1988).
+
+**El que han obligat a corregir:** **Cande Moreno** no constava a la delegació
+de Pequín 2022 del corpus i hi va fer **12a a la combinada**, el segon millor
+resultat olímpic d'hivern d'Andorra; i **Marc Oliveras** no constava a la de
+PyeongChang 2018, on va fer **29è**.
+
+**Una errata de la font, registrada:** l'entrada de Marc Oliveras diu que
+Schladming és a **Itàlia**. És a **Àustria**.

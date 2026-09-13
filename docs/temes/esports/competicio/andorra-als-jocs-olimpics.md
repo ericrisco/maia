@@ -132,6 +132,11 @@ diploma, i dues d'elles en esports que ningú no esperaria.**
 | **9è** | **Daniel García** | **Judo, −66 kg** | **Londres 2012** |
 | **9è** | **[Joan Verdú](../../persones/joan-verdu.md)** | **Esquí alpí, eslàlom gegant** | **Pequín 2022** |
 | **10è** | **Joan Verdú** | Esquí alpí, eslàlom gegant | **Milano Cortina 2026** |
+| **12a** | **[Cande Moreno](../esqui/esquiadors/cande-moreno.md)** | **Esquí alpí, combinada** | **Pequín 2022** |
+
+**El 12è lloc de Cande Moreno és el segon millor resultat olímpic d'hivern de
+la història d'Andorra**, i **aquesta taula no el tenia**. Vegeu
+[la seva fitxa](../esqui/esquiadors/cande-moreno.md).
 
 **El de Seül 1988 és el que més impressiona.** **Emili Pérez va acabar novè la
 cursa en ruta amb el mateix temps que el guanyador**, Olaf Ludwig: **va entrar
@@ -245,8 +250,8 @@ completes; **les d'hivern, no**.
 | **Torí 2006** | **Roger Vidosa** (**27è eslàlom**, 28è combinada) · **Alex Antor** (39è descens) · **François Soulié** (**fons**, 71è als 15 km) |
 | **Vancouver 2010** | **Mireia Gutiérrez** (28a descens), **Sofie Juarez**, **Kevin Esteve Rigail**, **Roger Vidosa** (alpí) · **Francesc Soulié** (**fons**) · **Lluís Marin Tarroch** (**surf de neu**, 34è). **Abanderats: Marin i Gutiérrez** |
 | **Sotxi 2014** | **Mireia Gutiérrez** (**18a combinada**) · **Marc Oliveras** (31è combinada, 35è súper-G) · **Kevin Esteve** (32è descens) · **[Joan Verdú](../../persones/joan-verdu.md)** · **Laure Soulié** (**biatló**, 48a i 66a) · **Lluís Marín Tarroch** (surf de neu, 25è ex aequo). **Andorra hi renuncia a dues places guanyades, una d'elles la d'Irineu Esteve** |
-| **PyeongChang 2018** | **[Irineu Esteve Altimiras](../../persones/irineu-esteve-altimiras.md)** (fons, 27è). **Abanderat** |
-| **Pequín 2022** | **[Joan Verdú](../../persones/joan-verdu.md)** (**9è gegant**) · **Irineu Esteve Altimiras** (20è skiathlon) · **Maeva Estévez** (surf de neu) |
+| **PyeongChang 2018** | **[Irineu Esteve Altimiras](../../persones/irineu-esteve-altimiras.md)** (fons, 27è). **Abanderat** · **[Marc Oliveras](../esqui/esquiadors/marc-oliveras.md)** (**29è combinada**, 33è súper-G) · **[Mireia Gutiérrez](../esqui/esquiadors/mireia-gutierrez.md)** |
+| **Pequín 2022** | **[Joan Verdú](../../persones/joan-verdu.md)** (**9è gegant**) · **[Cande Moreno](../esqui/esquiadors/cande-moreno.md)** (**12a combinada**, 30a súper-G) · **Irineu Esteve Altimiras** (20è skiathlon) · **Maeva Estévez** (surf de neu) |
 | **Milano Cortina 2026** | **Joan Verdú** (**10è gegant**) · **Xavier Cornella** (21è eslàlom) · **Jordina Caminal Santure** (24a descens) · **Carla Mijares Ruf** · **Cande Moreno** · **Gina del Rio** (fons, 35a en 10 km lliures) · **Irineu Esteve Altimiras**. **Abanderats: Verdú, Moreno i Esteve** |
 
 **Una correcció que el corpus es fa a si mateix, i és la segona sobre la
@@ -272,7 +277,16 @@ però no s'ha trobat cap biatleta andorrà.»* **N'hi ha una: Laure Soulié**,
 Sotxi 2014, individual (48a) i esprint (66a).
 
 **Les catorze delegacions d'hivern, nom per nom i cursa per cursa, són a**
-[cinquanta anys d'esquí olímpic](../esqui/cinquanta-anys-desqui-olimpic.md).
+[cinquanta anys d'esquí olímpic](../esqui/cinquanta-anys-desqui-olimpic.md),
+i **cada esquiador té fitxa pròpia** a
+[els esquiadors](../esqui/esquiadors/README.md).
+
+**Quarta i cinquena correccions, de la mateixa tongada:** aquesta taula
+**no tenia [Cande Moreno](../esqui/esquiadors/cande-moreno.md) a Pequín
+2022** —hi va fer **12a a la combinada**, el segon millor resultat olímpic
+d'hivern d'Andorra— **ni [Marc Oliveras](../esqui/esquiadors/marc-oliveras.md)
+a PyeongChang 2018**, on va fer **29è a la combinada**. **Totes dues,
+esmenades.**
 
 ## Els noms que hi apareixen
 

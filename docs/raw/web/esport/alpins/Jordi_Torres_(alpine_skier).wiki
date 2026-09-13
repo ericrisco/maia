@@ -1,0 +1,37 @@
+{{Short description|Andorran alpine skier (born 1964)}}
+{{Use dmy dates|date=March 2020}}
+{{Infobox sportsperson
+| name           = Jordi Torres
+| image          = 
+| caption        = 
+| full_name      = 
+| birth_date     = {{birth date and age|1964|7|19|df=yes}}
+| birth_place    = [[Encamp]], Andorra
+| death_date     = 
+| death_place    = 
+| country        = Andorra
+| sport          = [[Alpine skiing]]
+}}
+
+'''Jordi Torres''' (born 19 July 1964) is an Andorran [[Alpine skiing|alpine skier]]. He competed in [[Alpine skiing at the 1984 Winter Olympics|three events]] at the [[1984 Winter Olympics]].<ref name="SportsRef">{{cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/to/jordi-torres-1.html |title=Jordi Torres |access-date=20 March 2018 |url-status=dead |archive-url=https://web.archive.org/web/20200418073834/https://www.sports-reference.com/olympics/athletes/to/jordi-torres-1.html |archive-date=18 April 2020}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{FIS alpine skier|230414|Jordi TORRES}}
+* {{Olympics.com|jordi-torres|Jordi TORRES|org_archive=20161006210750}}
+* {{Olympedia|98336|Jordi Torres}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Torres, Jordi}}
+[[Category:1964 births]]
+[[Category:Living people]]
+[[Category:Andorran male alpine skiers]]
+[[Category:Olympic alpine skiers for Andorra]]
+[[Category:Alpine skiers at the 1984 Winter Olympics]]
+[[Category:People from Encamp]]
+
+
+{{Andorra-alpine-skiing-bio-stub}}

@@ -68,6 +68,7 @@ llista de buits: bona part de les files hi apunten a fitxa.
 | **Maria Teresa Armengol i Bonet** | **Primera electa** (1985) i primera al Consell Superior de la Justícia (2005) | ídem |
 | **Maria Reig i Moles** | **Única consellera de tot el període constituent.** I **cosina d'Òscar Ribas Reig**, el primer cap de Govern | **buit, amb un fil nou** |
 | **Rosa Ferrer** | Durant anys «l'únic element femení al Consell» | **buit** |
+| **Claudina Rossel i Badia** | **Primera dona que representa Andorra als Jocs Olímpics**, Calgary 1988 | [fitxa](../esports/esqui/esquiadors/claudina-rossel.md) |
 | **Pepita Aguilar · Quima Calvó · Angelina Mas** | Tres de les **378 sufragistes** de 1968 | **buit prioritari: falten 375 noms** |
 
 ### Els que van escriure el país

@@ -1,0 +1,43 @@
+{{Short description|Andorran alpine skier (born 1970)}}
+{{Use dmy dates|date=March 2018}}
+{{Infobox sportsperson
+| name           = Gerard Escoda
+| image          = 
+| caption        = 
+| full_name      = Gerard Escoda Alegret
+| birth_date     = {{birth date and age|1970|9|8|df=yes}}
+| birth_place    = [[Escaldes-Engordany]], Andorra
+| death_date     = 
+| death_place    = 
+| country        = Andorra
+| sport          = [[Alpine skiing]]
+}}
+
+'''Gerard Escoda Alegret'''{{family name footnote|lang=Catalan|Escoda|Alegret}} (born 8 September 1970) is an Andorran [[Alpine skiing|alpine skier]]. He competed at the [[1988 Winter Olympics|1988]], [[1992 Winter Olympics|1992]], [[1994 Winter Olympics|1994]] and the [[1998 Winter Olympics]].<ref name="SportsRef">{{cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/es/gerard-escoda-1.html |archive-url=https://web.archive.org/web/20200418094508/https://www.sports-reference.com/olympics/athletes/es/gerard-escoda-1.html |url-status=dead |archive-date=18 April 2020 |title=Gerard Escoda |accessdate=23 March 2018 |quote=Full name: Gerard Escoda Alegret}}</ref>
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{FIS alpine skier|16026|Gerard Escoda}}
+* {{Olympics.com|name=Gérard Escoda|org_name=Gerard Escoda|org_archive=20161006144633}}
+* {{Olympedia|name=Gerard Escoda}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Escoda, Gerard}}
+[[Category:1970 births]]
+[[Category:Living people]]
+[[Category:Andorran male alpine skiers]]
+[[Category:Olympic alpine skiers for Andorra]]
+[[Category:Alpine skiers at the 1988 Winter Olympics]]
+[[Category:Alpine skiers at the 1992 Winter Olympics]]
+[[Category:Alpine skiers at the 1994 Winter Olympics]]
+[[Category:Alpine skiers at the 1998 Winter Olympics]]
+[[Category:People from Escaldes–Engordany]]
+
+
+{{Andorra-alpine-skiing-bio-stub}}

@@ -1,0 +1,35 @@
+{{Short description|Andorran alpine skier (born 1957)}}
+{{Use dmy dates|date=January 2020}}
+{{Infobox sportsperson
+| name           = Xavier Areny
+| full_name      = 
+| image          = 
+| caption        = 
+| nationality    = Andorran
+| sport          = [[Alpine skiing]]
+| birth_date     = {{birth date and age|1957|5|8|df=yes}}
+| birth_place    = 
+| death_date     = 
+| death_place    = 
+}}
+
+'''Xavier Areny Fite''' (born 8 May 1957) is an Andorran [[Alpine skiing|alpine skier]]. He competed in [[Alpine skiing at the 1976 Winter Olympics|three events]] at the [[1976 Winter Olympics]].<ref name="SportsRef">{{cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/ar/xavier-areny-1.html |archive-url=https://web.archive.org/web/20200418110146/https://www.sports-reference.com/olympics/athletes/ar/xavier-areny-1.html |url-status=dead |archive-date=18 April 2020 |title=Xavier Areny Olympic Results |access-date=17 March 2018}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{sports links}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Areny, Xavier}}
+[[Category:1957 births]]
+[[Category:Living people]]
+[[Category:Andorran male alpine skiers]]
+[[Category:Olympic alpine skiers for Andorra]]
+[[Category:Alpine skiers at the 1976 Winter Olympics]]
+[[Category:Place of birth missing (living people)]]
+
+
+{{Andorra-alpine-skiing-bio-stub}}

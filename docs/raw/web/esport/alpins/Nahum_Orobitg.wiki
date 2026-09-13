@@ -1,0 +1,42 @@
+{{Short description|Andorran alpine skier (born 1971)}}
+{{Use dmy dates|date=March 2020}}
+{{Infobox sportsperson
+| name           = Nahum Orobitg
+| image          = 
+| caption        = 
+| nationality    = Andorran
+| full_name      = Nahum Orobitg Pérez
+| birth_date     = {{birth date and age|1971|11|18|df=yes}}
+| birth_place    = 
+| death_date     = 
+| death_place    = 
+| country        = Andorra
+| sport          = [[Alpine skiing]]
+}}
+
+'''Nahum Orobitg Pérez'''{{family name footnote|lang=Catalan|Orobitg|Pérez}} (born 18 November 1971) is an Andorran [[Alpine skiing|alpine skier]]. He competed at the [[1988 Winter Olympics]] and the [[1992 Winter Olympics]].<ref name="SportsRef">{{cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/or/nahum-orobitg-1.html |title=Nahum Orobitg |access-date=22 March 2018 |url-status=dead |archive-url=https://web.archive.org/web/20161203182024/http://www.sports-reference.com/olympics/athletes/or/nahum-orobitg-1.html |archive-date=3 December 2016 |quote=Full name: Nahum Orobitg Pérez}}</ref>
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{FIS alpine skier|45345|Nahum OROBITG}}
+* {{Olympics.com|nahum-orobitg-perez|Nahum OROBITG-PEREZ}}
+* {{Olympedia|96089|Nahum Orobitg}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Orobitg, Nahum}}
+[[Category:1971 births]]
+[[Category:Living people]]
+[[Category:Andorran male alpine skiers]]
+[[Category:Olympic alpine skiers for Andorra]]
+[[Category:Alpine skiers at the 1988 Winter Olympics]]
+[[Category:Alpine skiers at the 1992 Winter Olympics]]
+[[Category:Place of birth missing (living people)]]
+
+
+{{Andorra-alpine-skiing-bio-stub}}

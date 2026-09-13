@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**322** documents · **102** fonts · **0** aptes com a model de llengua · **108** temes amb contingut.
+**353** documents · **104** fonts · **0** aptes com a model de llengua · **110** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -231,6 +231,37 @@
 | --- | --- | --- | --- | --- | --- |
 | [Cinquanta anys d'esquí olímpic](temes/esports/esqui/cinquanta-anys-desqui-olimpic.md) | `temes/esports/esqui` | compilada | contemporania | no | `wikipedia-jocs-andorra` |
 
+## temes/esports/esqui/esquiadors
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Alex Antor i Seignourel](temes/esports/esqui/esquiadors/alex-antor.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+| [Antoine Crespo i Travesset](temes/esports/esqui/esquiadors/antoine-crespo.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+| [Antoni Naudi i Casal](temes/esports/esqui/esquiadors/antoni-naudi.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+| [Cande Moreno](temes/esports/esqui/esquiadors/cande-moreno.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+| [Carlos Font i Puig](temes/esports/esqui/esquiadors/carlos-font.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+| [Caroline Poussier](temes/esports/esqui/esquiadors/caroline-poussier.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+| [Claudina Rossel i Badia](temes/esports/esqui/esquiadors/claudina-rossel.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+| [Esteve Tomàs i Roca](temes/esports/esqui/esquiadors/esteve-tomas.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+| [Gerard Escoda i Alegret](temes/esports/esqui/esquiadors/gerard-escoda.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+| [Jordi Torres](temes/esports/esqui/esquiadors/jordi-torres.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+| [Kevin Esteve i Rigail](temes/esports/esqui/esquiadors/kevin-esteve-rigail.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+| [Marc Oliveras i Gabarre](temes/esports/esqui/esquiadors/marc-oliveras.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+| [Miguel Font i Puig](temes/esports/esqui/esquiadors/miguel-font.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+| [Mireia Gutiérrez i Cabanes](temes/esports/esqui/esquiadors/mireia-gutierrez.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+| [Nahum Orobitg i Pérez](temes/esports/esqui/esquiadors/nahum-orobitg.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+| [Patrick Toussaint i Mas](temes/esports/esqui/esquiadors/patrick-toussaint.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+| [Ramón Rossell i Mas](temes/esports/esqui/esquiadors/ramon-rossell.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+| [Roger Vidosa i Riba](temes/esports/esqui/esquiadors/roger-vidosa.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+| [Sandra Grau i Muxella](temes/esports/esqui/esquiadors/sandra-grau.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+| [Santi López i Prats](temes/esports/esqui/esquiadors/santi-lopez.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+| [Sofie Juárez](temes/esports/esqui/esquiadors/sofie-juarez.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+| [Vicky Grau i Muxella](temes/esports/esqui/esquiadors/vicky-grau.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+| [Victor Gómez i Javalera](temes/esports/esqui/esquiadors/victor-gomez.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+| [Xavier Areny i Fite](temes/esports/esqui/esquiadors/xavier-areny.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+| [Xavier Barios](temes/esports/esqui/esquiadors/xavier-barios.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+| [Xavier Fernández](temes/esports/esqui/esquiadors/xavier-fernandez.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+
 ## temes/esports/formacio-esportiva
 
 | Document | Tema | Veu | Època | Apte | Font |
@@ -439,8 +470,10 @@
 | [El saig](temes/institucions/justicia/el-saig.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [La justícia](temes/institucions/justicia/justicia.md) | `temes/institucions/justicia` | compilada | contemporania | no | `viquipedia-ca` |
 | [La justícia abans de la Constitució](temes/institucions/justicia/la-justicia-dabans.md) | `temes/institucions/justicia` | compilada | contemporania | no | `pujadas-dret-andorra` |
+| [La llei penitenciària](temes/institucions/justicia/la-llei-penitenciaria.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Les fonts del dret](temes/institucions/justicia/les-fonts-del-dret.md) | `temes/institucions/justicia` | compilada | contemporania | no | `pujadas-dret-andorra` |
 | [Les lleis qualificades](temes/institucions/justicia/les-lleis-qualificades.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [Les penes del Codi Penal](temes/institucions/justicia/les-penes-del-codi-penal.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [L'ordenament jurídic avui](temes/institucions/justicia/lordenament-juridic-avui.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Quants notaris](temes/institucions/justicia/quants-notaris.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 
@@ -675,6 +708,12 @@
 | --- | --- | --- | --- | --- | --- |
 | [L'esport a Andorra](temes/societat/esport/lesport.md) | `temes/societat/esport` | compilada | contemporania | no | `viquipedia-ca` |
 
+## temes/societat/familia
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Casar-se a Andorra](temes/societat/familia/casar-se-a-andorra.md) | `temes/societat/familia` | compilada | contemporania | no | `jurisprudencia-ad` |
+
 ## temes/societat/habitatge
 
 | Document | Tema | Veu | Època | Apte | Font |
@@ -715,6 +754,7 @@
 | [La Clínica Vilanova](temes/societat/sanitat/la-clinica-vilanova.md) | `temes/societat/sanitat` | compilada | contemporania | no | `pallares-medicina-andorra` |
 | [La reacreditació dels metges](temes/societat/sanitat/la-reacreditacio-dels-metges.md) | `temes/societat/sanitat` | compilada | contemporania | no | `martinez-benazet-professions-liberals` |
 | [La salut mental](temes/societat/sanitat/la-salut-mental.md) | `temes/societat/sanitat` | compilada | contemporania | no | `obiols-salut-mental` |
+| [La via preferent](temes/societat/sanitat/la-via-preferent.md) | `temes/societat/sanitat` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Les iguales](temes/societat/sanitat/les-iguales.md) | `temes/societat/sanitat` | compilada | contemporania | no | `pallares-medicina-andorra` |
 | [L'Escola d'Infermeria](temes/societat/sanitat/lescola-dinfermeria.md) | `temes/societat/sanitat` | compilada | contemporania | no | `insa-ensenyament-salut` |
 
@@ -722,6 +762,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El preu de l'acomiadament](temes/societat/treball/el-preu-de-lacomiadament.md) | `temes/societat/treball` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El sindicalisme](temes/societat/treball/el-sindicalisme.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
 | [La memòria de FHASA](temes/societat/treball/la-memoria-de-fhasa.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
 | [L'acomiadament lliure](temes/societat/treball/lacomiadament-lliure.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
@@ -924,6 +965,7 @@
 | [`martinez-benazet-professions-liberals`](fonts/martinez-benazet-professions-liberals.md) | Joan Martínez i Benazet · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mas-educacio-artistica`](fonts/mas-educacio-artistica.md) | Roger Mas i Canalis · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mas-pagesos-i-artesans`](fonts/mas-pagesos-i-artesans.md) | David Mas i Canalís · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`mas-relacions-comercials-1994`](fonts/mas-relacions-comercials-1994.md) | David Mas · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`masegosa-teatre-andorra`](fonts/masegosa-teatre-andorra.md) | Fabiola Sofia Masegosa i Gayo · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
 | [`massa-de-lo-que-pot-i-no-pot`](fonts/massa-de-lo-que-pot-i-no-pot.md) | Joan Massa i Sarrado · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mateu-petits-estats-especificitat`](fonts/mateu-petits-estats-especificitat.md) | Vicenç Mateu i Zamora · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
@@ -970,5 +1012,6 @@
 | [`viquipedia-ca`](fonts/viquipedia-ca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-art-andorra`](fonts/wikipedia-art-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-esport-andorra`](fonts/wikipedia-esport-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-esquiadors-andorrans`](fonts/wikipedia-esquiadors-andorrans.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-jocs-andorra`](fonts/wikipedia-jocs-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-politica-andorra`](fonts/wikipedia-politica-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

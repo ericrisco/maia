@@ -44,7 +44,11 @@ només amb esquiadors alpins.** Cap altra disciplina.
 | | Gegant | **3:04.38 — 45è** |
 | | Eslàlom | no acaba |
 
-**Dos Font.** La font no diu si són germans. **Buit registrat.**
+**Dos Font, i són germans.** **[Carlos](./esquiadors/carlos-font.md)** i
+**[Miguel Font i Puig](./esquiadors/miguel-font.md)**, i la font ho diu
+explícitament a les dues entrades
+([font](../../../fonts/wikipedia-esquiadors-andorrans.md)). **Buit tancat:
+dos germans en una delegació de tres.**
 
 ### Sarajevo 1984 — dos homes, i un d'ells té història
 
@@ -68,9 +72,14 @@ Campionat del Món**. Vegeu [la seva fitxa](../../persones/albert-llovera.md).
 | | Gegant | **desqualificat** |
 | | Eslàlom | no acaba |
 
-**La delegació era de quatre: dos homes i dues dones.** El corpus ja tenia el
-nom de **Claudina Rossell**; **la segona dona no consta a la taula que la font
-dona.** **Buit registrat.**
+**La delegació era de quatre: dos homes i dues dones**, i **ara el corpus té
+els quatre noms**: Orobitg, Escoda, **[Claudina Rossel i
+Badia](./esquiadors/claudina-rossel.md)** i **[Sandra Grau i
+Muxella](./esquiadors/sandra-grau.md)**. **Buit tancat.**
+
+**I una de les dues és una primera del país:** **Claudina Rossel va ser la
+primera dona que va representar Andorra als Jocs Olímpics**, dotze anys després
+del debut olímpic andorrà.
 
 ### Albertville 1992 — quatre i una
 
@@ -213,9 +222,12 @@ significa, en la pràctica, tenir setanta-set mil habitants.
 
 ## El que falta
 
-- **La segona dona de Calgary 1988.**
-- **Si Carlos i Miguel Font són germans**, i si Ramon Rossell té relació amb
-  Claudina Rossell.
+- ~~**La segona dona de Calgary 1988.**~~ — **tancat**: [Sandra Grau i
+  Muxella](./esquiadors/sandra-grau.md), germana de Vicky Grau.
+- ~~**Si Carlos i Miguel Font són germans**~~ — **tancat: ho són.** **Si
+  [Ramón Rossell](./esquiadors/ramon-rossell.md) té relació amb [Claudina
+  Rossel](./esquiadors/claudina-rossel.md), segueix obert** — i els cognoms
+  s'escriuen diferent.
 - **Els abanderats** de totes les edicions anteriors al 2010.
 - **Per què Andorra va renunciar a places el 2014.**
 - **Els resultats de tots aquests esquiadors fora dels Jocs**: Copes del Món,
@@ -225,6 +237,7 @@ significa, en la pràctica, tenir setanta-set mil habitants.
 ## Related
 
 - [Esquí](./README.md)
+- [Els esquiadors](./esquiadors/README.md) — fitxa per persona.
 - [Andorra als Jocs Olímpics](../competicio/andorra-als-jocs-olimpics.md)
 - [Els altres Jocs](../competicio/els-altres-jocs.md)
 - [Albert Llovera](../../persones/albert-llovera.md)

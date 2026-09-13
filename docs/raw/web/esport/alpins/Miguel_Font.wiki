@@ -1,0 +1,39 @@
+{{Short description|Andorran alpine skier (born 1963)}}
+{{Use dmy dates|date=March 2018}}
+{{Infobox sportsperson
+| name           = Miguel Font
+| image          = 
+| caption        = 
+| full_name      = Miguel Font Puig
+| birth_date     = {{birth date and age|1963|8|6|df=yes}}
+| birth_place    = [[Andorra la Vella]], Andorra
+| death_date     = 
+| death_place    = 
+| height         = 174 cm
+| country        = Andorra
+| sport          = [[Alpine skiing]]
+}}
+
+'''Miguel Font Puig'''{{family name footnote|lang=Catalan|Font|Puig}} (born 6 August 1963) is an Andorran [[Alpine skiing|alpine skier]]. He competed in [[Alpine skiing at the 1980 Winter Olympics|three events]] at the [[1980 Winter Olympics]].<ref name="SportsRef">{{cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/fo/miguel-font-1.html |archive-url=https://web.archive.org/web/20200418080135/https://www.sports-reference.com/olympics/athletes/fo/miguel-font-1.html |url-status=dead |archive-date=18 April 2020 |title=Miguel Font |accessdate=19 March 2018 |quote=Full name: Miguel Font Puig}}</ref> He is the brother of alpine skier [[Carlos Font]].<ref name="SportsRef" />
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Olympedia|85778|Miguel Font}}
+* {{Olympics.com|miguel-font-puig|Miguel FONT-PUIG}}
+* {{FIS alpine skier|127196|Miquel FONT PUIGCERNAL}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Font, Miguel}}
+[[Category:1963 births]]
+[[Category:Living people]]
+[[Category:Andorran male alpine skiers]]
+[[Category:Olympic alpine skiers for Andorra]]
+[[Category:Alpine skiers at the 1980 Winter Olympics]]
+[[Category:Sportspeople from Andorra la Vella]]
+{{Andorra-alpine-skiing-bio-stub}}

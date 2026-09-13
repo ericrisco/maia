@@ -1,0 +1,36 @@
+{{Short description|Andorran alpine skier (born 1972)}}
+{{Use dmy dates|date=April 2021}}
+{{distinguish|text=Spanish sailor [[Xabier Fernández]]}}
+{{Infobox sportsperson
+| name = Xavier Fernandez
+| image = 
+| image_size = 
+| caption = 
+| birth_date = {{Birth date and age|1972|11|19|df=y}}
+| birth_place = 
+| residence = 
+| spouse = 
+| sport = {{plainlist|
+*Alpine skiing  }}
+| club = 
+| worlds =
+| nationals = 
+| header_color = lightsteelblue
+| medal_templates =
+}}
+
+'''Xavier Fernandez''' (born 19 November 1972) is an alpine skier who represented [[Andorra at the 2014 Winter Paralympics]]. He also competed in the [[2010 Winter Paralympics]].<ref>{{cite web|url=http://m.sochi2014.com/en/paralympic/athlete-xavier-fernandez |title=Sochi 2014 profile |publisher=M.sochi2014.com |access-date=2014-03-05}}</ref>
+
+== References ==
+{{Reflist}}
+
+{{DEFAULTSORT:Fernandez, Xavier}}
+[[Category:Paralympic alpine skiers for Andorra]]
+[[Category:Alpine skiers at the 2010 Winter Paralympics]]
+[[Category:Alpine skiers at the 2014 Winter Paralympics]]
+[[Category:1972 births]]
+[[Category:Living people]]
+[[Category:Andorran male alpine skiers]]
+
+
+{{Andorra-alpine-skiing-bio-stub}}

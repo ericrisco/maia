@@ -1,0 +1,35 @@
+{{Short description|Andorran alpine skier (born 1976)}}
+{{Use dmy dates|date=March 2020}}
+{{Infobox sportsperson
+| name           = Caroline Poussier
+| full_name      = 
+| image          = 
+| caption        = 
+| nationality    = Andorran
+| sport          = [[Alpine skiing]]
+| birth_date     = {{birth date and age|1976|7|13|df=yes}}
+| birth_place    = 
+| death_date     = 
+| death_place    = 
+}}
+
+'''Caroline Poussier''' (born 13 July 1976) is an Andorran [[Alpine skiing|alpine skier]]. She competed in [[Alpine skiing at the 1994 Winter Olympics|two events]] at the [[1994 Winter Olympics]].<ref name="SportsRef">{{cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/po/caroline-poussier-1.html |archive-url=https://web.archive.org/web/20200418121520/https://www.sports-reference.com/olympics/athletes/po/caroline-poussier-1.html |url-status=dead |archive-date=18 April 2020 |title=Caroline Poussier Olympic Results |accessdate=29 March 2018}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{sports links}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Poussier, Caroline}}
+[[Category:1976 births]]
+[[Category:Living people]]
+[[Category:Andorran female alpine skiers]]
+[[Category:Olympic alpine skiers for Andorra]]
+[[Category:Alpine skiers at the 1994 Winter Olympics]]
+[[Category:Place of birth missing (living people)]]
+
+
+{{Andorra-alpine-skiing-bio-stub}}

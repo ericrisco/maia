@@ -1,0 +1,40 @@
+{{Short description|Andorran alpine skier (born 1971)}}
+{{Use dmy dates|date=April 2020}}
+{{Infobox sportsperson
+| name           = Ramón Rossell
+| image          = 
+| caption        = 
+| full_name      = Ramón Rossell Mas
+| birth_date     = {{birth date and age|1971|6|24|df=yes}}
+| birth_place    = [[Andorra la Vella]], Andorra
+| death_date     = 
+| death_place    = 
+| country        = Andorra
+| sport          = [[Alpine skiing]]
+}}
+
+'''Ramón Rossell Mas'''{{family name footnote|lang=Catalan|Rossell|Mas}} (born 24 June 1971) is an Andorran [[Alpine skiing|alpine skier]]. He competed at the [[1992 Winter Olympics]] and the [[1994 Winter Olympics]].<ref name="Olympedia">{{cite web |url=https://www.olympedia.org/athletes/96957 |title=Ramón Rossell |work=Olympedia |access-date=12 May 2021 |quote=Full name: Ramón Rossell Mas}}</ref><ref name="SportsRef">{{cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/ro/ramon-rossell-1.html |title=Ramon Rossell |access-date=25 March 2018 |url-status=dead |archive-url=https://web.archive.org/web/20200418073018/https://www.sports-reference.com/olympics/athletes/ro/ramon-rossell-1.html |archive-date=18 April 2020}}</ref>
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{FIS alpine skier|52042|Ramon ROSSELL}}
+* {{Olympics.com|ramon-rossell-mas|Ramon ROSSELL-MAS|org_archive=20161006144750}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rossell, Ramon}}
+[[Category:1971 births]]
+[[Category:Living people]]
+[[Category:Andorran male alpine skiers]]
+[[Category:Olympic alpine skiers for Andorra]]
+[[Category:Alpine skiers at the 1992 Winter Olympics]]
+[[Category:Alpine skiers at the 1994 Winter Olympics]]
+[[Category:Sportspeople from Andorra la Vella]]
+
+
+{{Andorra-alpine-skiing-bio-stub}}

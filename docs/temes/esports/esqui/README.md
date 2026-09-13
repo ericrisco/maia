@@ -7,6 +7,7 @@
 | Fitxa | Què hi trobareu |
 | --- | --- |
 | **[Cinquanta anys d'esquí olímpic](./cinquanta-anys-desqui-olimpic.md)** | **Les catorze delegacions andorranes als Jocs d'hivern, nom per nom i cursa per cursa, del 1976 al 2026** |
+| **[Els esquiadors](./esquiadors/README.md)** | **Fitxa per persona: vint-i-un esquiadors olímpics i paralímpics andorrans** |
 
 I el que el corpus té sobre esquí que viu en altres branques:
 
@@ -23,6 +24,8 @@ I el que el corpus té sobre esquí que viu en altres branques:
   la qual el corpus només sap que existeix.
 - La **Federació Andorrana d'Esquí (FAE)**: cap fitxa.
 - **Els resultats de Copa del Món i de campionats del món** dels esquiadors
-  andorrans anteriors a Joan Verdú. **El corpus no en té cap**, i n'hi ha
-  catorze Jocs d'esportistes que competien tot l'any.
+  andorrans anteriors a Joan Verdú. **Parcialment obert**: ara el corpus en té
+  de [Roger Vidosa](./esquiadors/roger-vidosa.md), [Mireia
+  Gutiérrez](./esquiadors/mireia-gutierrez.md) i [Marc
+  Oliveras](./esquiadors/marc-oliveras.md). **Dels altres divuit, cap.**
 - **Les estacions**, una per una.

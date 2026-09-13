@@ -1,0 +1,56 @@
+{{Short description|Andorran alpine skier (born 1974)}}
+{{other people|Victor Gómez}}
+{{Use dmy dates|date=March 2020}}
+{{Infobox sportsperson
+| name           = Victor Gómez
+| image          = 
+| caption        = 
+| full_name      = Victor Gómez Javalera 
+| birth_date     = {{birth date and age|1974|2|10|df=yes}}
+| birth_place    = [[Andorra la Vella]], Andorra
+| death_date     = 
+| death_place    = 
+| country        = Andorra
+| sport          = [[Alpine skiing]]
+}}
+
+'''Victor Gómez Javalera'''{{family name footnote|lang=Catalan|Gómez|Javalera}} (born 10 February 1974) is an Andorran [[Alpine skiing|alpine skier]]. He competed at the [[1992 Winter Olympics|1992]], [[1994 Winter Olympics|1994]], [[1998 Winter Olympics|1998]] and the [[2002 Winter Olympics]].<ref name="SportsRef">{{cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/go/victor-gomez-1.html |title=Victor Gómez |access-date=25 March 2018 |url-status=dead |archive-url=https://web.archive.org/web/20161203063224/http://www.sports-reference.com/olympics/athletes/go/victor-gomez-1.html |archive-date=3 December 2016 |quote=Full name: Victor Gómez Javalera}}</ref>
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{sports links}}
+
+{{Authority control}}
+{{s-start}}
+{{s-sports|oly}}
+{{succession box
+| before = [[Aitor Osorio]]
+| title = [[List of flag bearers for Andorra at the Olympics|Flag bearer]] for {{AND}}
+| years = [[1998 Winter Olympics|Nagano 1998]]
+| after = [[Antoni Bernadó]]
+}}
+{{succession box
+| before = [[Antoni Bernadó]]
+| title = [[List of flag bearers for Andorra at the Olympics|Flag bearer]] for {{AND}}
+| years = [[2002 Winter Olympics|Salt Lake 2002]]
+| after = [[Hocine Haciane]]
+}}
+{{s-end}}
+{{DEFAULTSORT:Gomez, Victor}}
+[[Category:1974 births]]
+[[Category:Living people]]
+[[Category:Andorran male alpine skiers]]
+[[Category:Olympic alpine skiers for Andorra]]
+[[Category:Alpine skiers at the 1992 Winter Olympics]]
+[[Category:Alpine skiers at the 1994 Winter Olympics]]
+[[Category:Alpine skiers at the 1998 Winter Olympics]]
+[[Category:Alpine skiers at the 2002 Winter Olympics]]
+[[Category:Sportspeople from Andorra la Vella]]
+
+
+{{Andorra-alpine-skiing-bio-stub}}

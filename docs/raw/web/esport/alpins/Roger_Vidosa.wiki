@@ -1,0 +1,97 @@
+{{Short description|Andorran alpine skier (born 1984)}}
+{{Infobox skier <!-- See Wikipedia:WikiProject_Ski -->
+| name              = Roger Vidosa
+| image             = Roger Vidosa FIS-Slalom Hinterstoder 2010.jpg
+| full_name         = Roger Vidosa Riba
+| birth_date        = {{birth date and age|1984|02|29}} 
+| birth_place       = [[La Massana]], Andorra 
+| height            = 184 cm
+| club              = Arinsal Pal
+}}
+{{Infobox alpine ski racer
+| name             = <!-- prevents same name displayed as prior infobox -->
+| image            = <!-- prevents same image displayed as prior infobox -->
+| disciplines      = Giant slalom, Slalom, Super Combined, Super G, Downhill
+| retired          = April 2013
+}}
+
+'''Roger Vidosa Riba'''{{family name footnote|lang=Catalan|Vidosa|Riba}} (born February 29, 1984, in [[La Massana]]) was an [[Andorra]]n alpine skier.<ref>{{Cite web |url=https://www.fis-ski.com/DB/general/athlete-biography.html?sector=AL&competitorid=64144 |title=VIDOSA Roger - Athlete Information |website=www.fis-ski.com}}</ref> He represented [[Andorra at the 2006 Winter Olympics]] and at the [[Andorra at the 2010 Winter Olympics|2010 Winter Olympics]].<ref>{{Cite web |url=https://www.olympic.org/vancouver-2010 |title=Vancouver 2010 Winter Olympics - results & video highlights |date=June 19, 2019 |website=International Olympic Committee}}</ref><ref name="SR">{{cite Sports-Reference |title=Roger Vidosa |quote=Full name: Roger Vidosa Riba}}</ref>
+
+== Best results ==
+
+=== FIS Race results ===
+
+[[Slalom skiing|Slalom]]
+
+1st place - 5 times
+<br>2nd place - 9 times
+<br>3rd place - 3 times
+
+[[Giant slalom skiing|Giant slalom]]
+
+1st place - 5 times
+<br>2nd place - 7 times
+<br>3rd place - 1 time
+
+=== FIS World Cup ===
+
+[[Super Combined]] - 22
+<br>[[Downhill (ski competition)|Downhill]] - 46
+<br>[[Super G]] - 33
+
+=== Olympic Games ===
+
+''' [[2006 Winter Olympics]] '''
+
+[[Alpine skiing at the 2006 Winter Olympics – Men's combined|Combined]] - 28
+<br>[[Alpine skiing at the 2006 Winter Olympics – Men's downhill|Downhill]] - 50
+<br>[[Alpine skiing at the 2006 Winter Olympics – Men's slalom|Slalom]] - 27
+
+''' [[2010 Winter Olympics]] '''
+
+[[Alpine skiing at the 2010 Winter Olympics – Men's downhill|Downhill]] - 48
+<br>[[Alpine skiing at the 2010 Winter Olympics – Men's super-G|Super G]] - 33
+<br>[[Alpine skiing at the 2010 Winter Olympics - Men's super Combined|Super combined]] - 25
+
+=== World Ski Championships ===
+
+''' [[2005 Bormio World Ski Championships]] '''
+
+[[Alpine skiing at the 2005 World ski Championships - Men's giant slalom|Giant slalom]] - 39
+<br>[[Alpine skiing at the 2005 World Ski Championships - Men's slalom|Slalom]] - 36
+
+''' [[2007 Are World Ski Championships]] '''
+
+[[Alpine skiing at the 2007 World Ski Championships - Men's downhill|Downhill]] - 46
+<br>[[Alpine skiing at the 2007 World Ski Championships - Men's super g|Super G]] - 55
+<br>[[Alpine skiing at the 2007 World Ski Championships - Men's supercombined|SuperCombined]] - 28
+
+==After retirement==
+
+Vidosa retired as an Alpine Skier in April 2013. After retirement he became a [[Ski Instructor]] in [[Andorra]] for 5 months and then in [[Leeds]], [[United Kingdom]] for 10 months. He took up the job of a [[Personal Trainer]] in July 2013 at The Gym Group in Leeds, UK for a year.
+
+He studied at [[Paul Sabatier University]] for a year and became Strength and Conditioning Coach at Track League of [[Midi-Pyrenees]], [[Toulouse]] Area, [[France]]  in December 2014 where he works till date.
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{FIS alpine skier|64144}}
+* {{Olympics.com|roger-vidosa|org_archive=20161005232041}}
+* {{Olympedia|109904}}
+* [https://www.linkedin.com/pub/roger-vidosa/26/a06/706 LinkedIn profile]
+
+{{DEFAULTSORT:Vidosa, Roger}}
+[[Category:1984 births]]
+[[Category:Living people]]
+[[Category:Andorran male alpine skiers]]
+[[Category:Olympic alpine skiers for Andorra]]
+[[Category:Alpine skiers at the 2006 Winter Olympics]]
+[[Category:Alpine skiers at the 2010 Winter Olympics]]
+[[Category:People from La Massana]]
+
+
+{{Andorra-alpine-skiing-bio-stub}}
