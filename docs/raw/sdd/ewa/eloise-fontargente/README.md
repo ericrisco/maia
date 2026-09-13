@@ -1462,56 +1462,6 @@ societat comercial, AOP i origen físic són, doncs, nivells diferents. Dossier
 crític, tesi completa, subtítols, metadades, registre oficial, renders i límits
 d'accés són a `basse-correze-history/`.
 
-Una convocatòria d'abril de 2026 obre ara una operació encara sense desenllaç
-públic. Limdor fixà una segona convocatòria d'assemblea per al dia 25 al
-**Verger de l'Écubillon**, amb visita, presentació d'un *business plan* i
-«étude de reprise». L'agenda prova que s'estudiava una represa, però no diu què
-es reprenia, qui venia, quins actius o preu hi entraven ni si es tancà.
-L'Écubillon, EARL activa des de 2001 i dirigida per Jérôme Morgat, apareix a la
-pàgina encara publicada de Meylim entre onze productors que li confiarien el
-100 % de la producció. Com que les notícies visibles d'aquella pàgina acaben el
-2021, és una adscripció pública possiblement històrica, no una afiliació
-auditada el 2026. La reunió pot indicar un trasllat entre xarxes Meylim i
-Limdor; afirmar una compra consumada seria anar més enllà de la font.
-
-L'explotació tenia una infraestructura mesurable: l'annex prefectural de reg
-de 2023 autoritzà a l'EARL de l'Écubillon **35.000 m³** per a 20 ha
-d'arboricultura, amb 45 m³/h d'aigua superficial i gestió desconnectada. Una
-altra fila dona 17,34 ha i 20.000 m³ als Vergers de Megeas; encara que Morgat
-hi aparegui vinculat en altres fonts, no s'han agregat les dues explotacions ni
-s'ha convertit tota l'arboricultura en hectàrees de poma per suposició.
-
-Al mateix temps, la documentació municipal mostra expansió física de Limdor a
-Bourdelas. L'activitat havia crescut i el recinte era massa estret per a nous
-edificis; la parcel·la veïna `WX 72`, ja comprada, quedava separada per via
-pública, un sobrant i la bàscula municipal. Després d'una enquesta del 10 al
-24/07/2024 i dictamen favorable de Rémi Carcaud, el consell del 17/09 aprovà
-per unanimitat desafectar uns **3.400 m²** i vendre'ls a Limdor a **10 €/m²**:
-uns 34.000 € abans de l'amidament definitiu, amb costos a càrrec del comprador,
-notari Guillaume Moutier i servitud per al comptador elèctric. La bàscula
-continuaria accessible a tercers sota gestió de Limdor. És una operació de
-reordenació i ampliació industrial, no una prova de dificultat financera.
-
-La restricció més dura arribà per l'assegurança. La planta, de més de 20.000
-m² i assegurada històricament per Groupama durant més de quaranta anys,
-afrontava el 2025 un problema de renovació. La solució publicada el 2026 era
-instal·lar *sprinklers* i crear una zona d'embalatge amb portes tallafoc:
-**3,5 M€**, amortitzats en quinze anys, amb 0,017 €/kg estimats segons el
-tonatge entrant. Coincidia amb erosió del verger de 548 ha el 2024 a 516 el
-2025 i només 15 ha renovades, el 2,8 %; el pla de rellançament volia conservar
-més de 500 ha. El cost forçat mostra risc operatiu, però no insolvència.
-
-Una oferta publicada l'agost de 2026 completa el canvi d'escala i governança:
-Limdor cercava director o directora en CDI per començar el **2027**, amb quinze
-anys d'experiència i treball en binomi amb la presidència. La descripció declara
-20 M€ de facturació, més de 20.000 t de Golden AOP, 1.000 t de castanya, més de
-30 t de mel, 50 pomeraires/500 ha, 55 castanyaires, set apicultors i més de cent
-empleats permanents. Prova una successió directiva prevista, però no n'explica
-el motiu ni permet atribuir-la a jubilació o crisi. Fonts, PDF oficials, OCR,
-renders, índex de procedència i cerques negatives de YouTube i Reddit són a
-`basse-correze-history/limdor-ecubillon-reprise-2024-2027/`; cap document o
-derivat s'ha desat a `/tmp`.
-
 La pista historiogràfica més directa és l'estudi de Jean-Claude Blanchet,
 «Producteurs, conserveurs et expéditeurs de la Basse Corrèze, du XIXe au XXIe
 siècle», *Lemouzi* 232 (2023), p. 39–80. Catàlegs públics i fragments de cerca
