@@ -1304,9 +1304,16 @@ agricultors: un model de subministrament i transformació que ajuda a explicar
 la seva capacitat industrial, sense provar un contracte equivalent per a la
 lavanda. Delvert compartí amb ell el premi de 1928; una publicitat reproduïda
 per Quercy PPAM diu «Lavande du Quercy — la reine des lavandes — Léo Delvert
-à Martel», però no porta data ni procedència arxivística. No s'ha convertit el
-possible Léopold Delvert de Cazillac en Léo, ni s'ha unit aquest nom a la
-conserverie familiar, sense una baula nominal.
+à Martel», però no porta data ni procedència arxivística. L'acta 9 de Martel,
+`4 E 3960`, prova que **Pierre Philippe Marie Delvert** nasqué el 20/03/1911 al
+carrer Mercière, fill del xarcuter **Firmin Henri Delvert** i **Maria Lacroix**;
+la menció marginal confirma el matrimoni amb Marthe Louise Borie a Beynat el
+1935. El butlletí municipal de Beynat situa allí la seva fàbrica des del mateix
+any, primer de ceps i després de crema de castanya i confitures. Aquesta cadena
+explica el rerefons familiar comercial, però Pierre només tenia disset anys el
+1928 i ni l'acta ni el butlletí anomenen Léo. No s'ha convertit el possible
+Léopold Delvert de Cazillac en Léo, ni s'ha identificat Firmin amb el reclam,
+sense una baula nominal.
 
 La logística sindical també queda més definida. El local cadurcien de 1936 no
 podia emmagatzemar més de 150 kg de flor fresca al dia: era un límit d'espai,
