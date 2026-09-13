@@ -25,6 +25,7 @@ fitxada tret de les dues de futbol.** Aquesta subbranca n'obre cinc més.
 | **[Els deu primers campions del 1998](./els-deu-primers-campions-del-1998.md)** | Quatre victòries en quatre dies i una generació que després travessa l'esport, la política i els mitjans públics |
 | **[Els dotze campions a casa del 2000](./els-dotze-campions-a-casa-del-2000.md)** | Cinc victòries en cinc dies, sis campions que repetien i els 142 punts i 88 rebots d'Antoni Jiménez |
 | **[Els dotze de la primera final del 2004](./els-dotze-de-la-primera-final-del-2004.md)** | Tercer or consecutiu, primera final i un Txetxu Bermudo de trenta-cinc anys: 24 punts i 14 rebots contra Luxemburg |
+| **[Els dotze dels set segons del 2012](./els-dotze-dels-set-segons-del-2012.md)** | Quart or, remuntada de tretze punts a la semifinal i la cistella de Rafael Casals a set segons del final |
 | **[Els dotze campions del 2024](./els-dotze-campions-del-2024.md)** | La plantilla, les tres generacions i l'últim minut de la final que va donar a Andorra el sisè títol |
 | **[El tennis](./el-tennis.md)** | **63 eliminatòries de Copa Davis**, i **una sola persona n'ha jugat 53** |
 | **[L'hoquei sobre patins](./lhoquei-patins.md)** | **DOS Campionats del Món «B»** (1992 i 2002) i **setena del món el 1993**. **El millor resultat mundial de cap selecció andorrana** |
@@ -80,9 +81,10 @@ jugat 53 de les 63 eliminatòries de Copa Davis de la història d'Andorra.**
   un d'hoquei, un de rugbi i les plantilles campiones de bàsquet del
   [1998](./els-deu-primers-campions-del-1998.md), el
   [2000](./els-dotze-campions-a-casa-del-2000.md), el
-  [2004](./els-dotze-de-la-primera-final-del-2004.md) i el
-  [2024](./els-dotze-campions-del-2024.md).** En bàsquet queden obertes les
-  plantilles dels títols del 2012 i 2014.
+  [2004](./els-dotze-de-la-primera-final-del-2004.md), el
+  [2012](./els-dotze-dels-set-segons-del-2012.md) i el
+  [2024](./els-dotze-campions-del-2024.md).** En bàsquet queda oberta la
+  plantilla del títol del 2014.
 - **Les federacions**: de basquetbol, d'esports de gel, de rugbi i de tennis.
   **Cap fitxa de cap.**
 - **Les altres catorze seleccions** de les vint-i-tres que Andorra declara.

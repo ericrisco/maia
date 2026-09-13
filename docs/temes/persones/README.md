@@ -4,7 +4,7 @@
 Aquesta branca existeix per fer visible aquesta desproporció i per anar-la
 corregint.
 
-**Actualització del 2026-09-13:** ja no en són tres. Hi ha **vuit esportistes**,
+**Actualització del 2026-09-14:** ja no en són tres. Hi ha **nou esportistes**,
 **tres polítics**, **dues llistes completes de càrrecs** —[síndics
 generals](./els-sindics-generals.md) i [caps de
 Govern](./els-caps-de-govern.md)— i **dos escultors**, a
@@ -167,3 +167,4 @@ travessen més d'una branca.
 | **[Naiara Liñán](./naiara-linan.md)** | **La primera medalla d'Andorra als Jocs del Mediterrani**: bronze de taekwondo −49 kg, Tàrent 2026 |
 | **[Albert Llovera i Massana](./albert-llovera.md)** | Olímpic a Sarajevo **amb 17 anys**; paraplègic un any després; **29 ral·lis del Mundial** amb un cotxe de comandaments manuals |
 | **[José Manuel «Txetxu» Bermudo Macho](./txetxu-bermudo.md)** | Va jugar amb el primer BC Andorra d'ACB i va liderar l'or europeu del 2004 als trenta-cinc anys: **24 punts i 14 rebots a la final** |
+| **[Daniel Marín Rodríguez](./daniel-marin.md)** | Únic jugador dels quatre primers ors europeus del bàsquet andorrà: **600 punts en 37 partits i vuit campionats consecutius** |
