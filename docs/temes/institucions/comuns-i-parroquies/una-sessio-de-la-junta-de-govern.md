@@ -155,8 +155,12 @@ mesurar. **Aquesta acta n'és la primera aplicació real que el corpus veu**: no
 l'article llegit al text de la llei, sinó **l'article invocat per gastar tres mil
 cinc-cents euros**.
 
-**El que falta és què diu l'article 30.1.d)**, i el corpus el té a mà i encara no
-l'ha llegit.
+**I ja s'ha llegit què diu l'article 30.1.d)**: són els **contractes menors**,
+serveis per sota de **15.000 €**, on **n'hi hauria prou amb la factura** i **no
+cal demanar tres pressupostos**. Els 3.532,10 € hi encaixen de llarg — i
+**l'acta diu «vista la licitació tramitada» i anota quantes ofertes va rebre**.
+**El comú va demanar ofertes on la llei no l'hi obligava.** Vegeu
+[la contractació directa](../govern/la-contractacio-directa.md).
 
 ## El Madriu, mantingut a mà
 
@@ -223,7 +227,7 @@ passen per la mateixa taula, el mateix dia, amb el mateix format d'acord.** Aix�
 3. **Els altres sis comuns.**
 4. **Per què es mouen els 15.000 €** de les associacions de pares a control de
    plagues.
-5. **Què diu l'article 30.1.d) de la Llei 14/2022**, que el corpus té baixada.
+5. ~~**Què diu l'article 30.1.d) de la Llei 14/2022**~~ — **tancat**: vegeu [la contractació directa](../govern/la-contractacio-directa.md).
 6. **«Les cases tenen nom»**: què és i quin abast té.
 7. **Si la recusació per conflicte d'interès està reglada** en alguna norma
    comunal o nacional, o si és pràctica.
@@ -235,6 +239,7 @@ passen per la mateixa taula, el mateix dia, amb el mateix format d'acord.** Aix�
 - [Les set parròquies](./les-set-parroquies.md) — què és un comú.
 - [La taba i el mostassaf](./la-taba-i-el-mostassa.md) — com es feia abans.
 - [El sometent](./el-sometent.md) — l'altra competència comunal que el corpus ha llegit a la llei.
+- [La contractació directa](../govern/la-contractacio-directa.md) — l'article que aquesta acta invoca, llegit.
 - [Escaldes-Engordany](../../territori/parroquies/escaldes-engordany/escaldes-engordany.md) — la parròquia.
 - [La vall del Madriu-Perafita-Claror](../../territori/patrimoni-natural/madriu-perafita-claror.md) — el patrimoni que aquesta acta manté.
 - [La transformació econòmica](../../economia/transformacio-economica/transformacio-economica.md) — el que el registre de negocis ensenya.

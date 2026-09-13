@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**529** documents · **122** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
+**530** documents · **122** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -640,6 +640,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [El Govern](temes/institucions/govern/el-govern.md) | `temes/institucions/govern` | compilada | contemporania | no | `govern-andorra-web` |
+| [La contractació directa](temes/institucions/govern/la-contractacio-directa.md) | `temes/institucions/govern` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La funció pública](temes/institucions/govern/la-funcio-publica.md) | `temes/institucions/govern` | compilada | contemporania | no | `llovera-visio-del-treballador` |
 
 ## temes/institucions/justicia
