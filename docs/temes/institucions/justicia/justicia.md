@@ -70,3 +70,4 @@ Superior de la Justícia, que segueix sense consultar.
 - [Tretze dies](./tretze-dies.md) — el termini del procés civil andorrà.
 - [Resoldre sense judici](./resoldre-sense-judici.md) — mediació, arbitratge i taxes.
 - [L'execució forçosa](./lexecucio-forcosa.md) — el saig, avui.
+- [El recurs d'empara](./el-recurs-dempara.md) — l'última porta per a un dret fonamental.

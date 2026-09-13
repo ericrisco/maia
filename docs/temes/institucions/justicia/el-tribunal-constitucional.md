@@ -100,9 +100,10 @@ exclusiva permanent, hi ha retribució per activitat.
 
 ## Buits registrats
 
-- **El recurs d'empara** (capítol sisè, article 85 i següents) —qui el pot
-  interposar, contra què i amb quins terminis— **no s'ha llegit**. És la via per
-  la qual un ciutadà arriba al Tribunal.
+- ~~**El recurs d'empara** (capítol sisè, article 85 i següents) **no s'ha
+  llegit**.~~ **Tancat**: vegeu [el recurs d'empara](./el-recurs-dempara.md).
+  El que en va sortir i no s'esperava: **l'empara exclou pel seu nom el dret de
+  l'article 22 de la Constitució**, el de qui pot ser expulsat del país.
 - **Quantes sentències ha dictat** i sobre què, no consta.
 - **Si el dictamen previ dels coprínceps s'ha fet servir mai**, tampoc; i
   [l'ordenament jurídic avui](lordenament-juridic-avui.md) deixava oberta
@@ -110,3 +111,4 @@ exclusiva permanent, hi ha retribució per activitat.
 - **Si el Raonador ha assenyalat mai un vici d'inconstitucionalitat** al seu
   informe anual, com li mana la seva llei
   ([el Raonador](../govern/el-raonador-del-ciutada.md)), segueix sense saber-se.
+- [El recurs d'empara](./el-recurs-dempara.md) — la via per la qual un ciutadà hi arriba, i el dret que en queda fora.
