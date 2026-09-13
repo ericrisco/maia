@@ -1296,6 +1296,22 @@ producte. Això demostra destil·lació organitzada a Martel des de 1926 i oblig
 llegir el pioner cadurcien de 1929 de Lacaze com un altre focus o canvi
 d'escala, no com l'inici absolut al Lot.
 
+El taller era a casa de Delanis, que el 1932 apareix també com a operador de
+conserves, tòfona, nou i lavanda. Delvert compartí amb ell el premi de lavanda
+de 1928; una publicitat reproduïda per Quercy PPAM diu «Lavande du Quercy — la
+reine des lavandes — Léo Delvert à Martel», però no porta data ni procedència
+arxivística. No s'ha convertit el possible Léopold Delvert de Cazillac en Léo,
+ni s'ha unit aquest nom a la conserverie familiar, sense una baula nominal.
+
+La logística sindical també queda més definida. El local cadurcien de 1936 no
+podia emmagatzemar més de 150 kg de flor fresca al dia: era un límit d'espai,
+no de destil·lació. El nou taller de Cabazat, anunciat amb un alambí nominal de
+2,5–3 t/dia, obrí efectivament el 17/07/1937 i prescrivia cita i assecat per als
+productors llunyans. La sèrie nacional de preus reproduïda per Buffa situa
+Martel al pic de 315 F/kg de 1926, però Cahors s'amplià amb només 55–60 F/kg el
+1936–1937: la mutualització continuà durant la depressió, encara que falten
+factures locals per conciliar-la amb el discurs sindical de «cours élevés».
+
 R. Barel permet anar més enrere i posar noms al focus del Gourdonais: Poujade
 de Rouffilhac i Bos del Vigan assajaren el 1935 plantes del Dauphiné; Bos
 produïa llavor pròpia des de 1941 i dos alambins articulaven dotze municipis.
