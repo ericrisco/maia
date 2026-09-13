@@ -906,6 +906,44 @@ revistes](https://ffs.fr/nos-revues/); Gallica, anuaris
 [1972-1973](https://gallica.bnf.fr/ark:/12148/bd6t5352829x) i
 [1973-1974](https://gallica.bnf.fr/ark:/12148/bd6t5352828j).
 
+La trajectòria posterior de Gilles es pot seguir amb probabilitat alta, encara
+no amb una filiació formal. *L'Est Républicain* el descriu el novembre de 2025
+com a doctor de 68 anys, antic cirurgià ortopèdic i antic president de la
+comissió mèdica de la clinique Saint-Vincent de Besançon. L'Ordre des
+médecins confirma l'especialitat i el situa el 2025 com a primer vicepresident
+del consell regional de Bourgogne–Franche-Comté. El nom compost exacte, l'edat
+compatible amb 1957 i la continuïtat regional fan molt probable que sigui el
+corredor del SSTMB, però cap d'aquestes fonts dona la data de naixement ni
+anomena Jacques. [Ordre, cambra
+disciplinària](https://bourgogne-franche-comte.ordre.medecin.fr/la-chambre-disciplinaire-de-premiere-instance);
+[composició del consell](https://bourgogne-franche-comte.ordre.medecin.fr/composition-du-conseil);
+[*L'Est Républicain*,
+28/11/2025](https://www.estrepublicain.fr/faits-divers-justice/2025/11/28/proces-pechier-l-anesthesiste-a-t-il-un-profil-de-serial-killer-sa-personnalite-decortiquee-suivez-le-54e-jour).
+
+Dos reportatges professionals permeten reconstruir el camí posterior de
+Laurent amb més detall. *YAM* núm. 15 (setembre-novembre de 2013, p. 13-19) el
+presenta com a natural de Belfort i net de criadors de cavalls de tir, sense
+dir de quina branca. Després d'un BTS d'elevage, agronomia a Nancy i Sciences
+Po en polítiques agràries, passà del màrqueting industrial a la banca
+d'inversió a París. Més tard s'instal·là en una finca erma prop de Montélimar;
+Baume des Anges prenia el nom d'una cova de la propietat.
+
+Segons el seu relat, comprà una patent del CEA, construí un prototip, començà
+les extraccions el 2004 i assolí escala gran el 2008 amb vapor sec a baixa
+temperatura. Chanel féu una comanda el 2009 i, des de febrer de 2011, la xarxa
+de cuiners s'estengué a Camdeborde, Jégo, Barbot, Dutournier, Ducasse i
+Herland. *La Revue Culinaire* núm. 901 (maig-juny de 2016, p. 70-73) data
+l'empresa agrícola el 2002, fotografia Laurent amb la filla Elsa i publica més
+de cinquanta varietats, més de cent cuiners amb estrella i més de cent tones de
+plantes anuals. Són magnituds del perfil empresarial, no comptes auditats.
+
+L'article de 2016 tanca amb el projecte de cultivar maduixes silvestres com les
+del peu dels Vosges que Laurent recordava de la infància. La imatge dialoga
+amb el record de bolets, nabius i gerds recollits amb Jacques, però cap font
+afirma que l'empresa fos causada per l'activitat muntanyenca del pare.
+[*YAM* núm. 15](https://www.baumedesanges.fr/site_html/docs/yam-15.pdf);
+[*La Revue Culinaire* núm. 901](https://www.baumedesanges.fr/site_html/docs/La-Revue-Culinaire-n901-maijuin2016.pdf).
+
 Una segona via per resoldre la filiació ha quedat localitzada però no llegida.
 El núm. 19 de **GenAmi** distingeix explícitament la família Dreyfus que estudia
 dels Dreyfus-Schmidt originaris de Pfastatt i anuncia que en parlarà al número
