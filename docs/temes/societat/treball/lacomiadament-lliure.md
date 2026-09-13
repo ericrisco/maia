@@ -92,3 +92,12 @@ Aquesta és la cara laboral del que el corpus descriu per altres bandes:
 - [L'ARA i el SAT](./lara-i-el-sat.md) — qui ho va intentar.
 - [Treball](./treball.md) — la branca.
 - [La crisi de l'habitatge](../habitatge/la-crisi-de-lhabitatge.md) — l'altra cara.
+
+## Actualització contra la llei vigent
+
+Aquesta fitxa descriu el mercat laboral **des d'una font de ciències socials**.
+Contrastada amb el text de la **Llei de relacions laborals**, la frase «sense cap
+mena de compensació» **ja no descriu el dret vigent**: l'acomiadament sense causa
+segueix sent lliure, però **costa 25 dies de sou per any treballat**.
+
+El detall, a [El preu de l'acomiadament](el-preu-de-lacomiadament.md).
