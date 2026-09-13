@@ -156,8 +156,6 @@ triennals**, «racionalitzant la despesa».
 
 ## La frase que defineix un microestat
 
-## La frase que defineix un microestat
-
 > «Som una **administració reduïda, però amb nombroses funcions**. **Sovint una
 > mateixa persona fa funcions que en una administració més gran impliquen tota
 > una estructura complexa.** Aquesta és una peculiaritat del nostre país, i cal

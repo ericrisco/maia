@@ -179,15 +179,6 @@ coneixement»**. **Potser ja n'hi havia un, i no era a la universitat.**
 - **El lèxic de l'esquí i de la muntanya en català andorrà**, que aquesta escola
   ha d'estar produint i transmetent. **Buit important per a la fase 3.**
 
-## Related
-
-- [Esports](../README.md)
-- [Esquí](../esqui/README.md)
-- [L'esquí escolar](../../societat/educacio/lesqui-escolar.md)
-- [Índex legislatiu en educació](../../societat/educacio/index-legislatiu-en-educacio.md)
-- [El mapa escolar del 2000](../../societat/educacio/el-mapa-escolar-del-2000.md)
-- [Turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md)
-
 ## Vint anys després, el nom ha canviat
 
 **El 2019 la mateixa institució apareix com a «Escola Professional de Formació
@@ -210,4 +201,9 @@ programa, no un document constitutiu. **Buit registrat.**
 ## Related
 
 - [Esports](../README.md)
+- [Esquí](../esqui/README.md)
+- [L'esquí escolar](../../societat/educacio/lesqui-escolar.md)
+- [Índex legislatiu en educació](../../societat/educacio/index-legislatiu-en-educacio.md)
+- [El mapa escolar del 2000](../../societat/educacio/el-mapa-escolar-del-2000.md)
+- [Turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md)
 - [El Centre de Tecnificació i la Fundació Julià Reig](../../persones/julia-reig.md)

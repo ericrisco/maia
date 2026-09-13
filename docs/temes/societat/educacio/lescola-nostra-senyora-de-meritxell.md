@@ -167,8 +167,6 @@ registra amb la seva data i no el projecta al present.**
 
 ## El conveni del desembre de 1995
 
-## El conveni del desembre de 1995
-
 La **Llei d'ordenament del sistema educatiu andorrà** (juny de 1994) preveia un
 conveni de col·laboració amb el **patronat rector** de l'escola
 ([el marc legal](./el-marc-legal-de-leducacio.md)). Es va signar el **desembre

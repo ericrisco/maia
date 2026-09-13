@@ -69,18 +69,6 @@ I, als annexos, **extractes del Politar** i la **Instructa als batlles de 1740**
 | --- | --- |
 | Quin dret s'aplicava quan la llei callava | [El dret supletori](../temes/institucions/justicia/el-dret-supletori.md) |
 | Els manuscrits on es va escriure el costum | [Els costumaris andorrans](../temes/historia/manual-digest/els-costumaris-andorrans.md) |
-
-## Buits registrats
-
-1. **L'URL exacta** del volum digitalitzat.
-2. **Els capítols IV a IX**, sencers. El corpus n'ha llegit el I, el II i el III.
-3. **Les peces justificatives**: hi ha transcrits documents d'arxiu que el corpus
-   no té per cap altra via.
-
-## El que en surt
-
-| Tema | Fitxa |
-| --- | --- |
 | Els censos duaners de 1898-1900, i quant bestiar tenia Andorra | [El cens del bestiar de 1898-1900](../temes/economia/ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md) |
 | El Consell General taxant la carn, el vi, el blat i el metge | [Qui posava els preus](../temes/economia/comerc/qui-posava-els-preus.md) |
 | El sistema de pesos, mesures i monedes | [Les mesures i les monedes](../temes/economia/comerc/les-mesures-i-les-monedes.md) |
@@ -100,3 +88,10 @@ de llana**, contra els **10 i 700** de
 publica desempaten l'aritmètica**. Brutails, a més, **cita la pàgina** d'on treu
 la llista: *Las Cortes españolas de 1895 y las franquicias de Andorra*, Madrid,
 1895, **p. 9**.
+
+## Buits registrats
+
+1. **L'URL exacta** del volum digitalitzat.
+2. **Els capítols IV a IX**, sencers. El corpus n'ha llegit el I, el II i el III.
+3. **Les peces justificatives**: hi ha transcrits documents d'arxiu que el corpus
+   no té per cap altra via.

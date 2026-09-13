@@ -309,6 +309,7 @@ I la seva conclusió sobre què són aquests Jocs per al país:
 - **L'himne andorrà**: el corpus no té fitxa de *El gran Carlemany*. Vegeu
   [símbols](../../institucions/simbols/README.md).
 
+
 ## Related
 
 - [Esports](../README.md)
@@ -317,9 +318,6 @@ I la seva conclusió sobre què són aquests Jocs per al país:
 - [Andorra com a microestat](../../institucions/petits-estats/andorra-com-a-microestat.md)
 - [El reconeixement internacional](../../institucions/relacions-exteriors/el-reconeixement-internacional.md)
 - [Turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md)
-
-## Related
-
 - [Andorra als Jocs Olímpics](./andorra-als-jocs-olimpics.md) — on no hi ha hagut mai podi.
 - [Mònica Dòria](../../persones/monica-doria.md) · [Nahuel Carabaña](../../persones/nahuel-carabana.md) — campiona d'Europa i campió dels Petits Estats.
 - [Èric Risco](../../persones/eric-risco.md) — el criteri de selecció d'un país petit, amb nom.

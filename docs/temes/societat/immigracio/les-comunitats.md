@@ -195,15 +195,6 @@ pròpia en aquest volum**, cosa que també diu alguna cosa. El corpus no en té 
   [la religiositat](../../costums/religiositat/religiositat.md) ja tenia com a
   buit.
 
-## Related
-
-- [Immigració](./immigracio.md)
-- [Els andorrans de primera generació](../../institucions/nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md)
-- [La tria de llengua](../../vida-quotidiana/convencions-socials/la-tria-de-llengua.md)
-- [Associacionisme](../associacionisme/associacionisme.md)
-- [La piràmide de prestigi](./la-piramide-de-prestigi.md) — com les ordena la societat andorrana, segons el CRES el 2021.
-- [La composició per nacionalitats](../demografia/la-composicio-per-nacionalitats.md) — quantes persones hi ha de cadascuna.
-
 ## Les associacions, una per una
 
 **El corpus tenia registrat que després del 1993 les comunitats es van poder
@@ -292,5 +283,11 @@ pena al costat de
 
 ## Related
 
+- [Immigració](./immigracio.md)
+- [Els andorrans de primera generació](../../institucions/nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md)
+- [La tria de llengua](../../vida-quotidiana/convencions-socials/la-tria-de-llengua.md)
+- [Associacionisme](../associacionisme/associacionisme.md)
+- [La piràmide de prestigi](./la-piramide-de-prestigi.md) — com les ordena la societat andorrana, segons el CRES el 2021.
+- [La composició per nacionalitats](../demografia/la-composicio-per-nacionalitats.md) — quantes persones hi ha de cadascuna.
 - [Les religions d'Andorra avui](../../costums/religiositat/les-religions-dandorra-avui.md) — les mateixes comunitats, per confessió.
 - [La portuguesitat](./la-portuguesitat.md) — la tercera nacionalitat, amb calendari i dates.
