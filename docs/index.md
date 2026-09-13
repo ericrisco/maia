@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**661** documents · **129** fonts · **0** aptes com a model de llengua · **117** temes amb contingut.
+**662** documents · **129** fonts · **0** aptes com a model de llengua · **117** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -732,6 +732,7 @@
 | [El Consell General](temes/institucions/consell-general/el-consell-general.md) | `temes/institucions/consell-general` | compilada | contemporania | no | `consell-general-web` |
 | [El Llibre de la Terra](temes/institucions/consell-general/el-llibre-de-la-terra.md) | `temes/institucions/consell-general` | compilada | contemporania | no | `vela-ordinacions-segle-xv` |
 | [L'estrany i el llot](temes/institucions/consell-general/lestrany-i-el-llot.md) | `temes/institucions/consell-general` | compilada | historica | no | `brutails-coutume-1904` |
+| [L'extensió dels poders](temes/institucions/consell-general/lextensio-dels-poders.md) | `temes/institucions/consell-general` | compilada | historica | no | `brutails-coutume-1904` |
 
 ## temes/institucions/coprincipat
 

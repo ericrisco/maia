@@ -197,7 +197,11 @@ veïnes, i **si Andorra va fer res** després d'aquest avís.
 
 ## Buits registrats
 
-1. **Quin impost va fracassar** poc abans del 1904, i per què. **Prioritari.**
+1. ~~**Quin impost va fracassar** poc abans del 1904, i per què.~~ **TANCAT el
+   2026-09-13**: el decret del **13 de maig de 1902**, **1 pesseta per càrrega**
+   de mercaderia importada, exempts blat, pa i farina — i **els productes
+   francesos en tenien immunitat per conveni exprés**. Vegeu
+   [l'extensió dels poders](./lextensio-dels-poders.md).
 2. **Els segells de correus** emesos pel Consell General i mai posats en curs.
 3. **El cataclisme** a les valls veïnes, i l'estat dels boscos andorrans el 1904.
 4. **Quant rendia el llot**, i amb quina freqüència s'enviava.
@@ -213,6 +217,7 @@ veïnes, i **si Andorra va fer res** després d'aquest avís.
 ## Related
 
 - [La quèstia](../../historia/antic-regim/la-questia.md) — l'altre impost, i el que defineix el bestiar propi.
+- [L'extensió dels poders](./lextensio-dels-poders.md) — l'impost del 1902, i els sis punts de fricció amb els coprínceps.
 - [El Consell General](./el-consell-general.md) — la institució sense ingressos.
 - [El Consell de la Terra](./el-consell-de-la-terra.md) — d'on ve.
 - [Quarts i veïnats](../quarts-i-veinats/quarts-i-veinats.md) — on eren els recursos.
