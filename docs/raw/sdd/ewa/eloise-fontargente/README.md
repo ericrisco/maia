@@ -781,9 +781,22 @@ per conjectura. Els dossiers d'oficials de l'Armée de terre radiats després de
 brochure institucional de 2025 diu també que Pau conserva fitxes alfabètiques
 individuals dels militars citats des de 1914 i els ordres generals de citació.
 El `Cité` del decret fa, doncs, esperable una fitxa de Jacques que remeti al
-text i ordre corresponents, però encara no se n'ha consultat ni la cota ni la
-campanya. El dossier de carrera podria aportar entrada a l'exèrcit, estats de
+text i ordre corresponents. La professió de fe prova, a més, que tenia la
+**Croix de la Valeur militaire**: l'Armée de terre explica oficialment que és
+una citació a l'ordre del regiment/brigada, divisió, cos d'exèrcit o exèrcit la
+que comporta aquesta creu, amb el nivell representat per una estrella o palma.
+El SHD recorda que la distinció nasqué el 1956 per les operacions d'Àfrica del
+Nord. Com que la peça electoral posa consecutivament `Ancien d'Algérie` i la
+creu, Algèria és la hipòtesi més forta, però encara no se n'ha consultat ni la
+cota, ni el text, ni l'ordre: unitat, lloc, data, acció i nivell continuen
+oberts. El dossier de carrera podria aportar entrada a l'exèrcit, estats de
 servei, destinacions, ascensos, escoles, notes i propostes de condecoració.
+
+La guia militar territorial situa un nascut el 1930, per regla general, a la
+classe **1950**. L'inventari públic de `1 R`, però, acaba a la classe 1938 i la
+cerca exacta de la de 1950 retorna cap resultat; la mateixa guia remet els
+dossiers d'oficials al SHD. Això reforça Pau com a via principal i impedeix
+presentar el catàleg local com si ja contingués la fitxa de Jacques.
 
 Léonore no pot resoldre el dossier de Legió d'Honor en línia perquè cobreix
 només persones mortes abans de 1977; Jacques morí el 2014. La via pertinent és
@@ -829,6 +842,39 @@ vàlida només dins la branca catalogada. El fons socialista Jacques Abrand
 `105 J` (1965–1997), potencialment útil per al conflicte entre Michel, Géhant i
 Chevènement, només es consulta en sala i no desplega inventari detallat al
 web; encara no es pot afirmar què diu sobre Jacques.
+
+El front esportiu ja té un mapa arxivístic propi. El fons municipal de la
+Société de ski et de tourisme en montagne de Belfort `22 Z` conserva registres
+del comitè `22 Z 2`, actes, correspondència i llistes de responsables `22 Z 3`,
+comissions i socis `22 Z 5-6`, un àlbum fotogràfic de 1964–1977 `22 Z 29`,
+papers de competicions `22 Z 34-35` i històrics/premsa `22 Z 36`. La fotografia
+`8 Fi 1151` (1974) inclou una «équipe de la Société», però la notice no
+identifica els integrants ni mostra la imatge. Aquestes unitats poden fixar les
+dates de la presidència de Jacques; encara no s'han vist i no es pressuposa que
+ell surti a la fotografia.
+
+Un catàleg oficial dels Archives départementales du Doubs explica el pes del
+club: fundat el 1908, construí el refugi del Plain de la Gentiane, traçà pistes
+i senders i finançà per subscripció el remuntador del Grand Langenberg, muntat
+per voluntaris i obert l'hivern de 1953, amb pilones metàl·liques des de 1964.
+És context de l'entitat que Jacques presidia el 1973, no prova que ell dirigís
+aquelles obres anteriors.
+
+També s'ha recuperat la peça INA `LXC04020593`, emesa al *JT FR3
+Franche-Comté* el 12/12/1977. La fitxa històrica d'Ina.fr atribueix el reportatge
+a la periodista Cécile Dechambre i a France Régions 3 Besançon, però anomena
+l'home filmat només «un gestionnaire de la station». Parla de sis pistes, deu
+remuntadors, clientela internacional i manca d'hotels, recepció i guarderia.
+Ni la imatge ni la cronologia autoritzen a identificar-lo amb Jacques; calen
+els papers de producció o el fons `22 Z`. El vídeo, subtítols, transcripció,
+fotogrames i captura d'Ina.fr es conserven al dossier local.
+
+Finalment, un exemplar antiquari de Jean Riche, *Les Peugeot et autres figures
+jurassiennes, comtoises et belfortaines* (1974, 264 p.), duu segons el venedor
+un «Hommage de l'auteur à Jacques Dreyfus-Schmidt». És una pista de relació i
+d'enviament de l'exemplar, no prova que Jacques aparegui dins el llibre. S'ha
+preparat, sense enviar, una consulta municipal per les dates de la presidència,
+les actes i la fotografia `8 Fi 1151`.
 
 Les Archives municipales de Belfort aporten també una font iconogràfica: la
 notice `2Z/35`, relacionada amb `7Fi/231`, descriu una fotografia d'identitat
