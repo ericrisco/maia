@@ -1147,6 +1147,30 @@ Morel el 2017 és coherent amb aquella banda ecològica, no queda auditat per el
 [Etnografia 2015](https://www.culture.gouv.fr/content/download/196863/file/Ethno_Tabouret-Herriot_2015.pdf);
 [itinerari tècnic 2020](https://www.ada-aura.org/wp-content/uploads/2020/10/BP_ADAAURA_2020_Lavande_itineraires-techniques.pdf).
 
+Les dades FranceAgriMer/CIHEF mostren que Carla era visible però minoritària:
+**3 % de tota la superfície de lavanda el 2019** i, el 2020, 6 % dins la meitat
+de població, altra manera d'expressar prop del mateix 3 % global. El preu mitjà
+de lavanda de població fou 134 €/kg el 2017, de manera que els 170 €/kg
+declarats per Morel representaven una prima, no el curs general.
+
+Un assaig CRIEPPAM a Ferrassières trobà el 2019 menys del 10 % de decaïment en
+Rapido, Carla i Saralia, sense diferència de rendiment; Saralia s'apropava més
+a l'AOP i Carla/Rapido tenien octanona‑3 molt baixa i cineol més alt. El 2023,
+la producció francesa de lavanda havia baixat a 90 t i només 8,5 t obtingueren
+AOP. FranceAgriMer vincula la dificultat analítica a poblacions resistents com
+Carla i Rapido. La reforma oficial de 2024 relaxà octanona‑3, terpinén‑1‑ol‑4 i
+diversos cocients, però no tots els límits.
+
+Els circuits actuals tampoc són lineals. Parfums Provence Ventoux agrega 167
+productors; un administrador barreja llavors Rapido, Carla i Saralia. La Ferme
+des Grangiers cultiva Carla però destil·la a Marignac. El pliego AOP regula la
+`communelle`, barreja cooperativa de lots amb traçabilitat individual. Aquest
+mapa prova circulació i agregació de Carla fora de Baume, no proveïment de
+Guerlain per cap actor concret.
+[FranceAgriMer 2020](https://www.franceagrimer.fr/sites/default/files/rdd/documents/20211212_MARCHE_PPAM_2020_2.pdf);
+[balanç 2023](https://www.franceagrimer.fr/sites/default/files/2025-07/Focus_Lavande_Lavandin_2023.pdf);
+[ordre 2024](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050099774).
+
 La recepció de 2017 revela després com aquell material agronòmic es convertí en
 relat. En una entrevista a *Basenotes*, Thierry Wasser atribuïa a Baume la seva
 descoberta de Carla, però la peça confonia la població de *L. angustifolia* amb
