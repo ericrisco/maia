@@ -328,6 +328,39 @@ L'**índex complet de les 104 normes**, amb el repartiment per branques i els
 articles i versions de cadascuna, és a
 **[`lleis/README.md`](lleis/README.md)**.
 
+### Quantes d'aquestes lleis fa servir el corpus
+
+**Mesurat el 2026-09-13.** Tenir la llei baixada no és fer-la servir, i la
+diferència no es veu enlloc: `scripts/verify.sh` comprova el que hi ha escrit,
+**no el que s'ha deixat de llegir**.
+
+**La prova, perquè es pugui repetir:** de cada fitxer de `lleis/` se'n treu el
+**número** del títol (`18/2024`, `44/2014`…) i es busca aquesta cadena a tots
+els `.md` de `temes/` i de `fonts/`. **93 de les 104 normes porten número al
+títol**; les altres 11 —codis i textos sense numerar— queden fora de la prova.
+
+| Quantes vegades surt el número al corpus | Normes |
+| --- | --- |
+| **En cap fitxer** | **68** |
+| En **un** fitxer | 16 |
+| En **dos o més** | 9 |
+
+**Dues tercions de la legislació baixada no s'han tocat.** I la xifra **és del
+darrer commit**: es mesura contra el contingut versionat, **no** contra el que
+hi hagi sense cometre al directori de treball. Qui la repeteixi amb feina a
+mig fer al davant obtindrà un número molt millor **que encara no existeix al
+repositori**.
+
+**Això no és una llista de feina per ordre.** Una llei que no surt al corpus
+pot ser perfectament irrellevant per a ell —el corpus no és un repertori
+jurídic— i el criteri per triar-ne una segueix sent **què explica d'Andorra que
+no s'expliqui en un altre lloc**. El que aquesta taula dona és **la mesura**,
+que fins ara no hi era.
+
+**I un avís de mètode:** buscar el número és **la prova més laxa possible**.
+Que un número surti una vegada vol dir que algú l'ha anomenat, **no que se
+n'hagi llegit cap article**. La xifra de 68 és, doncs, **un mínim**.
+
 ---
 
 ## `llibres/` — obres impreses
@@ -356,13 +389,47 @@ pàgina**. Falta l'URL de descàrrega, però ja **es poden citar amb rigor**.
 | `becat-these-l2` | **Jean Becat, *L'Andorre. Mutations d'une économie montagnarde*.** Tesi **1993**, **edició 2019**, ICRESS — **Livre 2: La société et l'organisation traditionnelles de l'Andorre** (l'obra té sis llibres) | URL no registrada |
 | `becat-transhum` | **Joan Becat, *La vida pastoral tradicional d'Andorra: transhumància, contraban i migracions*.** En **català**, documentació per a ensenyants. **Té fitxa:** [`becat-vida-pastoral`](../fonts/becat-vida-pastoral.md) | URL no registrada |
 | `madriu-neolithic` | *Shifting occupation dynamics in the Madriu-Perafita-Claror valleys*, **Quaternary International 353 (2014) 140-152**, Elsevier | Revista i pàgines verificades |
-| `neolithic-pastoralism-pyrenees` | *Neolithic pastoralism and plant community interactions at high altitudes of the Pyrenees, southern Europe*, **Communications Earth & Environment** | **DOI: 10.1038/s43247-025-02023-8**, imprès al fitxer |
+| `neolithic-pastoralism-pyrenees` | *Neolithic pastoralism and plant community interactions at high altitudes of the Pyrenees, southern Europe*, **Communications Earth & Environment**. **NO ÉS D'ANDORRA** — vegeu l'avís de sota | **DOI: 10.1038/s43247-025-02023-8**, imprès al fitxer |
 | `transhumance-andorra-fcm` | *Integrating Fuzzy Cognitive Maps and the Delphi Method in the Conservation of Transhumance Heritage: The Case of Andorra*, de **Lluís Segura** (Departament de Patrimoni Cultural d'Andorra, Ministeri de Cultura), Rocío Ortiz, Javier Becerra i Pilar Ortiz | Autors i afiliació verificats |
 | ~~`herencia-andorra`~~ | **NO és cap estudi sobre l'herència.** És **el volum de la 15a Diada Andorrana (2002)**, *Una història d'Andorra, temàtica*, de la **SAC** — el mateix que ja hi ha a `sac-diades/`, i **amb una extracció pitjor**: **12.067 línies contra 14.791** | **Duplicat mal anomenat.** Es pot esborrar; useu `sac-diades/15a-2002-una-historia-dandorra-tematica.txt` |
 
 **Avís que val per a tot el `raw/`:** un fitxer mal anomenat fa que el corpus
 **es cregui que té una font que no té**. Aquest en va estar sis dies. La regla
 que se'n deriva: **abans de comptar un fitxer com a font, obriu-lo**.
+
+### `neolithic-pastoralism-pyrenees` no és d'Andorra
+
+**Comprovat el 2026-09-13, i escrit aquí perquè el nom del fitxer no ho diu.**
+
+El títol diu «**of the Pyrenees**» i la carpeta és d'un corpus andorrà. **El
+jaciment és a Osca.**
+
+| | |
+| --- | --- |
+| **Lloc d'estudi** | **Tramacastilla Lake (TRAM21)**, 42°43'31.57"N, 0°22'03.73"W |
+| **Altitud** | **1.682 m** |
+| **On és** | Vall alta del **Gállego**, **Pirineu central meridional**, **Osca, NE d'Espanya** |
+| **Distància a Andorra** | Un centenar llarg de quilòmetres **a ponent** |
+| **Què és** | Registre d'**ADN antic sedimentari** (*sedaDNA*) d'un sondeig lacustre, de **12,2 a 1,3 ka BP** |
+| **Ocurrències de la paraula «Andorra»** | **Una**, i és **a la bibliografia** |
+
+L'única vegada que hi surt Andorra és la **referència 3**, que és **un altre
+fitxer d'aquesta mateixa carpeta**: Orengo, Palet, Ejarque, Miras i Riera,
+*Shifting occupation dynamics in the Madriu–Perafita–Claror valleys (Andorra)*,
+*Quat. Int.* **353**, 140-152 (2014) — el `madriu-neolithic`.
+
+**Per què això s'ha d'escriure i no només saber-se.** Les dades del fitxer són
+bones i són cridaneres —«the earliest continuous presence of sheep (6500 years
+before present) and cattle (5900 years before present) in alpine southern
+Europe»— i **són aragoneses**. Qui les mini d'aquesta carpeta sense obrir el
+fitxer **farà passar per andorrà un jaciment que no ho és**, que és exactament el
+mecanisme que el corpus ja té documentat a
+[el cas Amades](../temes/historia/historiografia/el-cas-amades.md): atribuir a
+Andorra material recollit en un altre lloc del Pirineu.
+
+**Es pot fer servir**, i bé: **com a terme de comparació** amb el `madriu-neolithic`,
+que sí que és andorrà, i **sempre dient d'on és cada dada**. El que no es pot fer
+és citar-lo com a font sobre Andorra.
 
 Els metadades d'OpenAlex i Crossref descarregats són a `web/` i **poden tancar
 els URL que falten** (`openalex-madriu.json`, `openalex-transhum.json`,
@@ -397,7 +464,7 @@ encara que falti l'URL de descàrrega.
 | `congreso-1895-ap40` | **Apèndix 40 al núm. 89** — l'addició signada el **27 de març de 1895** |
 | `congreso-153-ap2`, `congreso-157-ap2` | Apèndixs **2n** als núm. **153** i **157** |
 | `boletin-leon-1894-09-17` | **Boletín Oficial de la provincia de León**, núm. 34, **17 de setembre de 1894**, p. 79-80. **Buidat el 2026-09-13**: hi ha la circular de l'Audiencia de Valladolid (12.09.1894) que reprodueix la **reial ordre del Ministeri de Gràcia i Justícia** prohibint als jutges espanyols tota relació amb les autoritats andorranes |
-| `12052025` | **No és premsa.** És l'acta d'una **Junta de Govern comunal** del **12-5-2025**, exp. 2025/2714. **Està mal classificat en aquesta carpeta** |
+| `12052025` | **No és premsa.** És l'**acta de la Junta de Govern núm. 18** d'un **comú**, del **12-5-2025**, exp. 2025/2714. **Està mal classificat en aquesta carpeta** — i **és material primari andorrà que el corpus no ha fet servir mai**. Buit obert |
 
 **Ja tenen fitxa de font:** els diaris de sessions del Congrés, a
 [`diario-sesiones-corts-1895`](../fonts/diario-sesiones-corts-1895.md), i el
@@ -464,7 +531,7 @@ com està**: són material de cerca, no fonts.
 | `lleis/` | **sí** — font, URL, llicència, redistribució i instantània datada; contingut complet i verificat |
 | `sac-diades/` | **sí** — institució, llicència, handle i patró d'URL |
 | `llibres/` | **no** — falta l'URL de les quatre obres |
-| `academic/` | **parcial** — les sis identificades per revista, volum i, en dos casos, DOI; falta l'URL de descàrrega. Una era **un duplicat mal anomenat** |
+| `academic/` | **parcial** — les sis identificades per revista, volum i, en dos casos, DOI; falta l'URL de descàrrega. Una era **un duplicat mal anomenat** i **una no és d'Andorra** (`neolithic-pastoralism-pyrenees`, jaciment a Osca) |
 | `hemeroteca/` | **parcial** — els diaris de sessions i el butlletí de León s'identifiquen per número, data i pàgina i ja tenen fitxa; falta l'URL de tots, i la premsa i els `bpt-*` segueixen sense signatura |
 | `web/` | **parcial** — s'identifica l'origen, no l'URL exacta |
 
