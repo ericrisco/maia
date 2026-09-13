@@ -144,3 +144,8 @@ representant de l'Estat.**
 - [La Constitució de 1993](../../historia/constitucio-1993/constitucio-1993.md)
 - [Els bisbes d'Urgell](../../historia/edat-mitjana/els-bisbes-durgell.md)
 - [Religiositat](../../costums/religiositat/religiositat.md)
+
+**El matrimoni canònic ja no és només una matèria compromesa: és dret vigent i
+amb quin abast.** La Llei qualificada de la persona i de la família li dona
+plens efectes civils i li reserva la nul·litat —
+[Casar-se a Andorra](../../societat/familia/casar-se-a-andorra.md).
