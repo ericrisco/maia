@@ -1380,6 +1380,26 @@ fruita variava del 35 al 65 %. Carlos Prieto obria la porta a contractes locals
 amb nous agricultors ecològics. De 118 a 140 empleats hi ha 22 llocs nets més
 (18,6 %), sense que dos talls permetin dibuixar una progressió contínua.
 
+La peça complementària del mateix dia concreta un pla quinquennal anunciat de
+**15–20 M€**: compra de terreny al Tour de Loyre, nous aparcaments, ampliació
+de magatzems i un edifici amb línies de compota de poma (8 t/h), coupelles i
+gourdes. Delvert produïa 1.500 t ecològiques i Carlos Prieto estimava una
+vintena de llocs nous en cinc anys. Són previsions, no prova d'execució
+íntegra; l'escala de 2024 només n'és compatible.
+
+La premsa documenta alhora conflictes laborals el **2013, 2014, 2018 i 2020**.
+Vint-i-tres treballadors aturaren les quatre línies una hora el 2013 per
+calefacció, fred, precarietat i polivalència. El 2014 uns 25 empleats
+protestaren per organització, encadrement i interinitat; la CGT parlava de 19
+interins a temps complet i del 72 % de producció aquell dia, mentre la
+direcció assenyalava processos de contractació i quatre CDI nous. L'abril de
+2018 es reclamaren personal, formació, millor organització dels caps de
+setmana i salari durant l'expansió. L'octubre de 2020 la CGT denuncià forats,
+fuites de sosa i infiltracions; Delvert replicà que disposava de comissió i
+responsable de salut i seguretat i tractava els avisos. La sèrie prova
+conflictes recurrents, però les causes i respostes continuen atribuïdes perquè
+no s'han localitzat inspeccions ni acords finals.
+
 La mateixa peça diu que el producte inicial de 1934 foren confitures, mentre
 *La Vie corrézienne* diu conserves de carn i el dossier municipal comença amb
 ceps el 1935. La coincidència en Beynat i el soterrani no resol la discrepància
