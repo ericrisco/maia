@@ -1291,10 +1291,19 @@ La regió produïa uns 350 kg anuals, amb rendiments de 0,8–0,9 kg d'essència
 es constituí a Cahors el 1930 per comprar material, destil·lar en comú, vendre i
 promoure plantacions. Les comandes superaven 60.000 peus aquell octubre;
 l'hivern 1936–1937 se n'havien plantat més de 700.000. Demeaux era president,
-Denègre secretari, i el 1937 un nou alambí havia d'absorbir 25–30 quintars de
-flor diaris. El taller/oficina de compra de Martel projectat el 1939 era una
+amb una junta que connectava càrrecs agrícoles del Lot i Tarn-et-Garonne;
+Denègre havia estat el primer secretari operatiu. L'agrupació de comandes
+reduïa el transport del planter de 15 F a 4–5 F per mil. El 1937 un nou alambí
+havia d'absorbir 25–30 quintars de
+flor diaris. Una crònica anterior comptava un milió de peus en les campanyes
+1935–1937 i vint tones de flor processades el 1936; les demandes d'exportació
+que invocava el sindicat resten sense contracte verificat. El taller/oficina de
+compra de Martel projectat el 1939 era una
 baula posterior, no el primer sindicat del Lot. Els facsímils directes resten
-bloquejats pel servidor i no s'han simulat.
+bloquejats pel servidor i no s'han simulat. Sí queda documentat un mercat de
+consum: el juny de 1936 la Maison L. Vidal, 9 rue Foch de Cahors, venia aigua
+destil·lada de lavanda del sindicat a 1 F/litre. Era hidrolat, no oli essencial,
+i l'anunci no quantifica les vendes.
 
 La branca pública permet seguir el pas d'assaig a patrimoni. Una crònica de
 l'assemblea Quercy PPAM de setembre de 2024 situa les primeres collites
