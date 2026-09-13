@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**354** documents · **108** fonts · **0** aptes com a model de llengua · **109** temes amb contingut.
+**355** documents · **109** fonts · **0** aptes com a model de llengua · **109** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -771,6 +771,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Els problemes d'Andorra](temes/societat/vida-civica/els-problemes-dandorra.md) | `temes/societat/vida-civica` | compilada | contemporania | no | `mico-percepcio-medi-ambient` |
 | [La confiança](temes/societat/vida-civica/la-confianca.md) | `temes/societat/vida-civica` | compilada | contemporania | no | `mico-batalla-valors-capital-social` |
+| [L'associacionisme històric](temes/societat/vida-civica/lassociacionisme-historic.md) | `temes/societat/vida-civica` | compilada | contemporania | no | `canturri-associacionisme-historic-2007` |
 | [La vida cívica](temes/societat/vida-civica/vida-civica.md) | `temes/societat/vida-civica` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/territori/clima-i-muntanya
@@ -921,6 +922,7 @@
 | [`cairal-escola-andorrana`](fonts/cairal-escola-andorrana.md) | M. Teresa Cairat i Vila · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`camiade-concepte-didentitat-1990`](fonts/camiade-concepte-didentitat-1990.md) | Martina Camiade · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`camiade-migracions`](fonts/camiade-migracions.md) | Martina Camiade · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`canturri-associacionisme-historic-2007`](fonts/canturri-associacionisme-historic-2007.md) | Pere Canturri i Montanya · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`canturri-costumari-amades-1994`](fonts/canturri-costumari-amades-1994.md) | Pere Canturri i Montanya · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`canturri-delinquencia-reinsercio-2007`](fonts/canturri-delinquencia-reinsercio-2007.md) | Pere Canturri i Montanya · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`canturri-usos-i-costums`](fonts/canturri-usos-i-costums.md) | Pere Canturri i Montanya · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |

@@ -106,6 +106,17 @@ lèxic viu, no categoria abstracta.
 ## Buits registrats
 
 1. Els **estatuts de la Confraria de Paraires i Teixidors**, si es conserven.
+1b. **1604 o 1659?** **El mateix autor dona dues dates.** Pere Canturri, el
+   **1994**, cita Amades i **Cebrià Baraut** per situar les **ordinacions**
+   aprovades pel bisbe **el 13 de febrer de 1604**
+   ([el cas Amades](../../historia/historiografia/el-cas-amades.md)); el
+   **2007** escriu que **«l'any 1659 es constituïa a les Escaldes la Confraria
+   de Paraires i Teixidors»**
+   ([font](../../../fonts/canturri-associacionisme-historic-2007.md)).
+   **Cinquanta-cinc anys d'interval.** Podrien ser dos fets distints
+   —aprovació d'ordinacions i constitució formal— però **cap de les dues
+   ponències no ho diu**. **El corpus manté el 1604 al cos** perquè és la data
+   amb document a l'arxiu parroquial, **i deixa la discrepància escrita**.
 2. **Per què Sant Pere Màrtir** com a patró.
 3. **Quants** paraires i teixidors hi havia, i a quines cases.
 4. La **fàbrica de mantes**: nom, propietaris, on era exactament, si en queda
@@ -123,3 +134,4 @@ lèxic viu, no categoria abstracta.
 - [Comerç](../../economia/comerc/comerc.md) — els privilegis comercials.
 - [Les escoles d'art comunals](../arts-visuals/les-escoles-dart-comunals.md)
 - [El cas Amades](../../historia/historiografia/el-cas-amades.md) — la confraria de 1604, documentada per Amades abans que per l'arxiu.
+- [L'associacionisme històric](../../societat/vida-civica/lassociacionisme-historic.md) — la confraria dins la sèrie de mutualitats andorranes, i l'altra data.

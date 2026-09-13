@@ -38,6 +38,31 @@ comunitat de veïns amb drets sobre una cosa concreta.
 
 De les set parròquies, **Canillo és la més rica en béns comunals**.
 
+## Què hi feien, exactament
+
+**Pere Canturri** ho concreta, i és molt més del que el nom suggereix
+([font](../../../fonts/canturri-associacionisme-historic-2007.md)):
+
+> «Tant els quarts com els veïnats són **les associacions pròpies d'un poble**.
+> **Per torn de cases**, els presidien **durant un any** i **administraven els
+> béns comuns**, però **també contractaven el mestre o el metge** per a la seva
+> comunitat.»
+
+**Tres coses que aquesta fitxa no deia:**
+
+1. **La presidència era rotatòria i per torn de cases**, un any cadascú. No és un
+   càrrec electe ni hereditari: **toca**.
+2. Administraven **els béns comuns** — cosa que la fitxa ja apuntava.
+3. **Contractaven el mestre i el metge.** És a dir: **educació i sanitat
+   contractades al nivell del poble**, segles abans que hi hagués res públic.
+
+Canturri hi situa també els quarts i els veïnats dins la sèrie de formes
+associatives andorranes, al costat de les consòrcies i les confraries — vegeu
+[l'associacionisme històric](../../societat/vida-civica/lassociacionisme-historic.md).
+
+**Buit registrat:** **si encara contracten res**, i des de quan no. La fitxa
+descriu una funció en passat i **el corpus no sap quan s'acaba**.
+
 ## El que no se sap des de fora
 
 Un parlant de català central no ha sentit mai «quart» amb aquest significat. La
@@ -52,3 +77,4 @@ personalitat pròpia.
 
 - [Comuns i parròquies](../comuns-i-parroquies/les-set-parroquies.md) — el nivell immediatament superior.
 - [Consell General](../consell-general/el-consell-general.md) — la institució nacional.
+- [L'associacionisme històric](../../societat/vida-civica/lassociacionisme-historic.md) — la sèrie sencera de formes associatives del país.
