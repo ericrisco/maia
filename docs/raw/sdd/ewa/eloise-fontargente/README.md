@@ -1031,8 +1031,15 @@ registre internacional **1029289**, de 14/12/2009, ja incloïa les classes 3,
 productes agrícoles i serveis de restauració o allotjament. Per al Japó i els
 Estats Units, però, la designació inicial quedà limitada a la classe 3. La
 sol·licitud nord-americana `79-110,325` de 20/12/2011 amplià després aquell
-mercat a les classes 29-30: coincideix amb l'arribada als cuiners, però no fou
-el naixement mundial de la línia alimentària.
+mercat a les classes 29-30 com a designació posterior sota la secció 66(a), i
+fou registrada el 04/06/2013 com a **4,344,667**: coincideix amb l'arribada als
+cuiners, però no fou el naixement mundial de la línia alimentària. El mirall
+registral de Justia diferencia també els finals: el registre **3,910,356**
+conservà la classe 3 després que la declaració de secció 71 fos acceptada el
+18/05/2016 i acabà per secció 70 el 14/12/2019; les classes 29-30 del
+**4,344,667** foren cancel·lades sota la secció 71 el 10/01/2020, abans que el
+sistema anotés separadament la mort del registre internacional. Aquesta última
+causa queda limitada al codi registral fins que es recuperi el dossier TSDR.
 
 Madrid Monitor documenta una llicència de marca no exclusiva de Laurent a la
 **SCEA BAUME DES ANGES**, efectiva el 23/06/2016. És una relació jurídica entre
@@ -1049,6 +1056,9 @@ prova el cessament de l'empresa ni exclou marques posteriors.
 [USPTO 2010](https://www.uspto.gov/web/trademarks/tmog/20101109_OG.pdf),
 [2011](https://www.uspto.gov/web/trademarks/tmog/20110125_OG.pdf) i
 [2013](https://www.uspto.gov/web/trademarks/tmog/20130319_OG.pdf);
+[Justia 79-079,088](https://trademarks.justia.com/790/79/baume-des-79079088.html)
+i [79-110,325](https://trademarks.justia.com/791/10/baume-des-79110325.html),
+mirall secundari d'estat registral;
 [OMPI 07/2010](https://www.wipo.int/edocs/madgdocs/en/2010/madrid_g_2010_7.pdf) i
 [Madrid Monitor](https://www3.wipo.int/madrid/monitor/en/showData.jsp?ID=ROM.1029289).
 
