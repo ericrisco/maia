@@ -1315,6 +1315,40 @@ explica el rerefons familiar comercial, però Pierre només tenia disset anys el
 Léopold Delvert de Cazillac en Léo, ni s'ha identificat Firmin amb el reclam,
 sense una baula nominal.
 
+Els estatuts registrals dels **Établissements Delvert** aporten ara la
+genealogia jurídica de la fàbrica corrézienne. La societat es constituí a Beynat
+el 15/06/1967 i s'immatriculà el 31/07/1967. Pierre aportà el fons de conserves
+que explotava amb matrícula `59 A 397`, valorat en **544.000 F**, mentre cinc
+socis hi posaren 600 kg de maduixes cadascun: el fons de Pierre representava el
+98,91 % dels 550.000 F aportats en espècie. El 1992 Jacques Delvert i la seva
+esposa aportaren 11.072 m² de terreny industrial a Malemort. Això prova
+continuïtat Pierre–Jacques dins la firma de Beynat/Malemort, no que aquesta fos
+la successora jurídica de la conserverie de Martel; encara falta l'acte que
+uniria les dues empreses.
+
+El dossier municipal permet desplegar aquesta branca. Pierre començà a
+l'**Hôtel du Lion d'Or** dels Borie; l'incendi del 08/08/1942 destruí l'hotel
+just abans que la família entrés a la nova casa-fàbrica, amb producció a la
+planta baixa i habitatge als pisos superiors. El taller ocupava normalment
+quinze persones i fins a trenta en temporada. Des del 1946 abandonà la verdura
+per concentrar-se en crema de castanya, compotes i confitures; un segon edifici
+de 1960 permeté arribar a prop de **1.500 tones de fruita anuals**, incloses
+partides del Mediterrani francès i ocasionalment d'Espanya i el Marroc. La
+mida dels camions, la mala carretera, el creixement i la modernització
+expliquen el trasllat a Malemort el 1968–1969. Jacques, incorporat després de
+la guerra d'Algèria, hi prengué el relleu de Pierre.
+
+La mateixa font obliga a corregir provisionalment una altra memòria. Les
+versions antigues de Wikipedia atribuïen a la conserverie de Martel una Coupe
+d'Or el 1970. El dossier publica una fotografia de Pierre i Jacques rebent la
+**coupe du Bon Goût Français el 1972 a Malemort**, amb el ministre Jean
+Charbonnel, i remet a *La Montagne* del 26/06/1972. Mentre no es consulti
+l'article original, 1972 i l'empresa Beynat–Malemort són la lectura millor
+documentada; 1970 i l'atribució a Anna resten sense corroborar. Els records de
+caràcter i les anècdotes de taller s'han mantingut com a testimonis orals,
+perquè el butlletí declara que es basa en família i antics empleats a més de
+fotografies i premsa.
+
 Els censos oficials completen ara el marc domèstic. El del 05/03/1911 (`6 M
 239`, imatge 21) situa a rue Mercière Henri Delvert (1880), xarcuter, Maria
 Lacroix (1887), Marguerite (1909) i Lucie (1910): Pierre no hi podia aparèixer
