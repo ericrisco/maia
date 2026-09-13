@@ -1,0 +1,209 @@
+---
+type: article
+title: On falla la integració
+description: "La Llei general de sanitat del 1989 donava dret a la protecció de la salut a tots els residents legals i que el Govern pagués els qui no tenien res. Vuit anys després encara no s'havia reglamentat."
+tema: temes/societat/immigracio
+veu: compilada
+epoca: contemporania
+apte_llengua: false
+font: pique-duro-problemes-socials-1997
+timestamp: 2026-09-14T00:45:00Z
+tags: [immigracio, sanitat, habitatge, treball, caritas, serveis-socials, 1997, prioritari]
+---
+
+# On falla la integració
+
+**Càritas Andorrana** i **el ministeri de Salut i Benestar** van portar a la Diada
+de 1997 el que veien des del taulell
+([font](../../../fonts/pique-duro-problemes-socials-1997.md)).
+
+> **Càritas escriu des d'una posició declarada** —«tractem el tema de la
+> immigració **des d'una perspectiva cristiana** i, per tant, **com un fet humà,
+> no com un problema**»— i el corpus ho diu. El que aporta de comprovable són
+> **normes i mecanismes**, no valoracions.
+
+## La llei que no es va reglamentar
+
+Aquest és el fet més gros de la ponència:
+
+> «**La Llei general de sanitat del 1989 preveu, en els seus articles 7 i 8**,
+> que **tots els andorrans i ciutadans estrangers que tinguin establerta la seva
+> residència legal i efectiva** al Principat **tindran assegurat el dret a la
+> protecció de la salut** […]. **Si demostren no tenir recursos econòmics ni
+> altres possibilitats de protecció social, el Govern n'assumirà les despeses.
+> Malauradament, aquesta llei no s'ha reglamentat.**»
+
+I la conseqüència, dita sense embuts:
+
+> «**La nostra societat té el recurs, però els nostres governants no l'han
+> desenvolupat perquè se'n beneficiïn els seus ciutadans més desfavorits
+> econòmicament.**»
+
+**Vuit anys amb un dret reconegut per llei i inaplicable per manca de
+reglament.** El corpus ho registra com a **afirmació de Càritas** —no n'ha vist
+la llei ni el reglament— i obre el **buit prioritari**: **la Llei general de
+sanitat de 1989, els seus articles 7 i 8, i si es va reglamentar mai**. Vegeu
+[la CASS i la sanitat](../sanitat/la-cass-i-la-sanitat.md).
+
+**És, a més, un cas del mateix patró que el corpus ja ha documentat dues vegades
+aquest mateix dia**: **una norma que existeix i que no opera** —com el reglament
+de formació de la funció pública **suspès i aplicat igualment**
+([la funció pública](../../institucions/govern/la-funcio-publica.md)) i com el
+règim penitenciari **sense llei fins al 2007**
+([la presó sense llei](../../institucions/justicia/la-preso-sense-llei.md)).
+
+## Els vint dies o els vint-i-cinc
+
+> «A Andorra, quan una persona **deixa de cotitzar a la CASS, perd la cobertura
+> sanitària al cap de 25 dies**.»
+
+**Carmen Barbero, al mateix volum, diu vint**
+([les dones migrants el 1997](./les-dones-migrants-el-1997.md)). **Cinc dies de
+diferència entre dues fonts del mateix llibre**, totes dues d'entitats que atenen
+persones afectades. **El corpus registra les dues i no arbitra.**
+
+**Buit registrat:** el termini real, i la norma que el fixava.
+
+## El treball: el permís lligat al contracte
+
+> «**L'excessiva relació entre el contracte de treball i la renovació del permís**
+> provoca sovint situacions injustes, com **la no renovació a persones que porten
+> força temps treballant al país i que en el moment de renovar es troben en
+> situació d'atur. Aquestes persones entren en el món de la il·legalitat.**»
+
+**Quedar-se sense feina el mes equivocat et convertia en irregular.** És el mateix
+mecanisme que descriu l'ARA sobre el còmput de residència
+([el rellotge dels vint-i-cinc anys](../../institucions/nacionalitat-i-residencia/el-rellotge-dels-vint-i-cinc-anys.md)):
+**el permís com a rellotge que es pot aturar**.
+
+I la segona pràctica que denuncia:
+
+> «Considerem una gran injustícia el fet que **nombroses empreses substitueixin el
+> treballador amb molts anys d'experiència per treballadors que acaben d'arribar
+> i que suposen mà d'obra més barata**. Tots coneixem persones que **només pel
+> fet d'arribar als cinquanta anys són excloses del mercat laboral**. Poc després
+> en poden ser de la societat […]. A més, **no tots poden o volen tornar al seu
+> país d'origen, després d'haver viscut i treballat a Andorra vint i trenta
+> anys.**»
+
+**Exclusió laboral als cinquanta i rotació per abaratiment.** Vegeu
+[el mercat de treball dual](./el-mercat-de-treball-dual.md).
+
+## L'habitatge, el 1997
+
+> «A Andorra, **encara hi ha famílies que viuen en una habitació d'hotel o en un
+> pis que el propietari ha dividit per a diverses famílies**. És veritat que quan
+> ja en parlàvem, **l'any 1989**, la situació era **més greu** i que **s'ha
+> alleugerit el problema**, però […] continua essent un motiu de desajust.»
+
+**Famílies en una habitació d'hotel**, i **pitjor encara el 1989**. La
+[crisi de l'habitatge](../habitatge/la-crisi-de-lhabitatge.md) que el corpus té
+documentada com a fenomen recent **té almenys trenta-set anys de precedent
+documentat**.
+
+## La formació, i un programa que es va suspendre
+
+Càritas demana que la formació d'adults estigui lligada «**amb la vida quotidiana
+al carrer, amb el funcionament de les diferents administracions i serveis, amb la
+promoció laboral**», i que **el professorat tingui formació específica en
+interculturalitat**. I hi felicita **el Servei de Formació d'Adults del ministeri
+d'Educació, Joventut i Esports**, «**tot i el seu curt rodatge**» — que en data,
+doncs, la creació poc abans del 1997. Vegeu
+[la formació d'adults](../educacio/la-formacio-dadults.md).
+
+I una pèrdua concreta:
+
+> «**Càritas Andorrana disposava fins l'any passat d'un programa de reforç
+> escolar dirigit a nens amb dificultats especials** […] a través del qual es
+> facilitava que **poguessin obtenir el graduat escolar**. **Amb l'entrada en
+> funcionament de l'ESO, de moment, hem suspès el programa.**»
+
+**Un reforç escolar per a fills d'immigrants que desapareix el 1996 amb la
+reforma educativa.** **Buit registrat:** si el va substituir res.
+
+I el problema que assenyala per a la segona generació, que és de llengua i de
+pertinença alhora:
+
+> viu «**amb contradicció entre les pautes culturals de la nostra societat i els
+> models de la seva cultura**», i li cal un acompanyament **«que l'ajudi a
+> respectar i cultivar les diferències per tal d'evitar que oblidi l'una i
+> l'altra»**. **«La situació es complica en el cas de nens i joves que vénen al
+> país molt més tard que els pares.»**
+
+## La valoració que el corpus posa al costat d'una altra
+
+> «encara que a Andorra **no hem de parlar de conductes racistes ni xenòfobes**,
+> sí que de vegades trobem **actituds de desconfiança envers allò que és
+> diferent** (raça, color, llengua, costums…).»
+
+**Rachid Raguig, al mateix volum, diu: «se'ns tracta amb discriminació i
+racisme»** ([les comunitats](./les-comunitats.md)).
+
+**Dues entitats que atenen persones immigrades, el mateix any, al mateix llibre, i
+no diuen el mateix.** El corpus les manté totes dues i no en tria cap: **una parla
+des de l'entitat que acull, l'altra des de la comunitat que ho viu.**
+
+## Rosa Duró: el país que va canviar dues vegades
+
+**Rosa Duró Solanelles**, treballadora social del **ministeri de Salut i
+Benestar**, hi posa el marc generacional:
+
+> «La societat andorrana **ha passat de ser una societat culturalment homogènia a
+> tenir una població diversa en origen, llengua i cultura**. A aquesta diversitat,
+> cal afegir-hi **l'heterogeneïtat de mentalitats dins la societat autòctona**,
+> marcada per **la fractura generacional** entre el món que van viure els nostres
+> padrins i les experiències de la nostra generació.»
+
+**La diversitat andorrana no és només entre nacionalitats: també és entre
+generacions d'andorrans.**
+
+I la frase que desfà la frontera d'una manera que cap altra ponència del volum no
+fa:
+
+> «**molts immigrants catalans o ariegesos, provinents de les valls pirinenques
+> veïnes, són els nostres cosins, tiets o fins i tot pares, mares, esposes o
+> marits.**»
+
+Concorda amb el que deia **Simó Duró** sobre la integració per matrimoni
+([qui podia ser andorrà el 1997](../../institucions/nacionalitat-i-residencia/qui-podia-ser-andorra-el-1997.md))
+i amb [les tres migracions](../demografia/les-tres-migracions.md).
+
+I la constatació econòmica que tanca el cicle del volum:
+
+> «a la dècada dels noranta, **el creixement sembla haver arribat al sostre de
+> possibilitats**.»
+
+## Les dues ponències que queden del volum, llegides
+
+Per tancar el buit honestament: **les dotze ponències del volum estan totes
+llegides**. Les dues que no han generat fitxa pròpia són:
+
+| Ponència | Per què no |
+| --- | --- |
+| **Mònica Codina**, *La integració en l'empresa* | És **exposició genèrica de gestió de recursos humans** —selecció, acollida, valors d'empresa— **sense dades andorranes** més enllà de dir que «un gran nombre d'empreses contracten treballadors estrangers» i que cal informar-los de la reglamentació laboral. **Conté un fet datable:** l'autora deixa la direcció de gestió i desenvolupament humà del **Banc Agrícol** el **18 de juliol de 1997** per ser **secretària tècnica de funció pública i de recursos humans del Govern** |
+| **Ramon Rossell**, *Integració en l'esplai* | És **una reflexió homilètica** —s'obre amb Ezequiel 36— sobre la dignitat de la persona i la tolerància. **Aporta el nom del camp d'esplai AINA** i poca cosa més de comprovable |
+
+**El corpus ho diu perquè «llegit i de poc rendiment» és una informació útil:**
+estalvia que algú hi torni esperant-hi el que no hi ha.
+
+## Buits registrats
+
+1. **La Llei general de sanitat de 1989**, articles 7 i 8, **i si es va
+   reglamentar mai**. **Prioritari.**
+2. **El termini real de pèrdua de cobertura de la CASS**: vint dies o
+   vint-i-cinc.
+3. **Si el reforç escolar de Càritas** va tenir successor després del 1996.
+4. **Quan es crea el Servei de Formació d'Adults.**
+5. **Dades d'habitatge**: quantes famílies vivien en habitació d'hotel o pis
+   dividit, el 1989 i el 1997.
+6. **Els programes d'atenció directa de Càritas Andorrana**, que la ponència
+   detalla i aquesta fitxa només recull en part.
+
+## Related
+
+- [Les dones migrants el 1997](./les-dones-migrants-el-1997.md) — el mateix inventari, des de l'ADMA.
+- [El rellotge dels vint-i-cinc anys](../../institucions/nacionalitat-i-residencia/el-rellotge-dels-vint-i-cinc-anys.md)
+- [La CASS i la sanitat](../sanitat/la-cass-i-la-sanitat.md)
+- [La crisi de l'habitatge](../habitatge/la-crisi-de-lhabitatge.md)
+- [La presó sense llei](../../institucions/justicia/la-preso-sense-llei.md) — el mateix patró: una norma que existeix i no opera.
+- [Les comunitats](./les-comunitats.md) — el volum sencer.

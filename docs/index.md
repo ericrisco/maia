@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**468** documents · **118** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
+**469** documents · **119** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -860,6 +860,7 @@
 | [Les comunitats](temes/societat/immigracio/les-comunitats.md) | `temes/societat/immigracio` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [Les dones migrants el 1997](temes/societat/immigracio/les-dones-migrants-el-1997.md) | `temes/societat/immigracio` | compilada | contemporania | no | `barbero-dones-migrants-1997` |
 | [L'experiència de migrar](temes/societat/immigracio/lexperiencia-de-migrar.md) | `temes/societat/immigracio` | compilada | contemporania | no | `font-fenomens-socials-immigracio` |
+| [On falla la integració](temes/societat/immigracio/on-falla-la-integracio.md) | `temes/societat/immigracio` | compilada | contemporania | no | `pique-duro-problemes-socials-1997` |
 | [Per què tothom s'hi sentia integrat](temes/societat/immigracio/per-que-tothom-shi-sentia-integrat.md) | `temes/societat/immigracio` | compilada | contemporania | no | `rui-comunitat-mixta-1997` |
 
 ## temes/societat/mitjans
@@ -1118,6 +1119,7 @@
 | [`pampalona-particularitats-microestats`](fonts/pampalona-particularitats-microestats.md) | Judith Pampalona i Tarrés · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pastor-andorra-diversa`](fonts/pastor-andorra-diversa.md) | Robert Pastor i Castillo · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
 | [`pesado-recurs-hidric-andorra`](fonts/pesado-recurs-hidric-andorra.md) | Cristina Pesado i Pons, Marc Pons i Pons, Juan-Ignacio López Moreno · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`pique-duro-problemes-socials-1997`](fonts/pique-duro-problemes-socials-1997.md) | Montserrat Piqué (Càritas Andorrana) i Rosa Duró Solanelles · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`pol-consciencia-nacional`](fonts/pol-consciencia-nacional.md) | Antoni Pol i Solé · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pons-neu-i-aigua`](fonts/pons-neu-i-aigua.md) | Marc Pons i Pons · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
 | [`premsa-andorrana`](fonts/premsa-andorrana.md) | Diari d'Andorra · Altaveu · Bondia · El Periòdic d'Andorra · La Ciutat | contingut periodístic amb drets reservats | False |

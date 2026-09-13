@@ -153,18 +153,24 @@ frases**, no només la primera.
 | ~~**El punt de vista d'un anglès**~~ **BUIDADA** | **Desmond Allen** → [per què tothom s'hi sentia integrat](./per-que-tothom-shi-sentia-integrat.md) |
 | ~~**Associació de Dones Migrants d'Andorra**~~ **BUIDADA** | **Carmen Barbero** → [les dones migrants el 1997](./les-dones-migrants-el-1997.md) |
 | ~~**Comunitat mixta, integració i microestat**~~ **BUIDADA** | **Sandrine Rui** (sociòloga) → [per què tothom s'hi sentia integrat](./per-que-tothom-shi-sentia-integrat.md) |
-| Problemes socials derivats de la no integració | **Montserrat Piqué** |
+| ~~Problemes socials derivats de la no integració~~ **BUIDADA** | **Montserrat Piqué** → [on falla la integració](./on-falla-la-integracio.md) |
 | ~~Problemes polítics derivats de la no integració~~ **BUIDADA** | **Simó Duró** → [qui podia ser andorrà el 1997](../../institucions/nacionalitat-i-residencia/qui-podia-ser-andorra-el-1997.md) |
-| Interculturalitat i treball social | **Rosa Duró** |
-| Integració a l'empresa | **Mònica Godina** |
-| Integració a l'esplai | **Ramon Rossell** |
+| ~~Interculturalitat i treball social~~ **BUIDADA** | **Rosa Duró** → [on falla la integració](./on-falla-la-integracio.md) |
+| ~~Integració a l'empresa~~ **LLEGIDA, poc rendiment** | **Mònica Codina** — vegeu [on falla la integració](./on-falla-la-integracio.md) |
+| ~~Integració a l'esplai~~ **LLEGIDA, poc rendiment** | **Ramon Rossell** — vegeu [on falla la integració](./on-falla-la-integracio.md) |
 | ~~Evolució històrica de la normativa migratòria~~ **BUIDADA** | **Francesca Ros Pascuet** → [la normativa migratòria](./la-normativa-migratoria.md) |
 | ~~Aspectes socioeconòmics d'Andorra~~ **BUIDADA** | **Maria Jesús Lluelles** → [l'economia el 1997](../../economia/transformacio-economica/leconomia-el-1997.md) i [les estadístiques que no hi havia](../demografia/les-estadistiques-que-no-hi-havia.md) |
 
-**Buit registrat, i encara és gran:** dotze ponències sobre qui viu a Andorra,
-totes identificades i **vuit buidades**. **En queden quatre**: Rosa Duró
-(interculturalitat i treball social), Montserrat Piqué (problemes socials),
-Mònica Codina (integració a l'empresa) i Ramon Rossell (integració a l'esplai).
+~~**Buit registrat, i és gran:** dotze ponències sobre qui viu a Andorra, totes
+identificades i cap buidada.~~
+
+**TANCAT el 2026-09-14.** **Les dotze estan llegides**: deu han generat fitxa i
+**dues es deixen marcades com a «llegides, poc rendiment»** amb el motiu escrit
+([on falla la integració](./on-falla-la-integracio.md)), perquè saber que una
+font no dona el que se n'esperava **també és informació**.
+
+**El nom correcte de la ponent d'empresa és Mònica CODINA i Tort**, no «Godina»:
+aquesta fitxa ho tenia mal escrit.
 
 De la de **Lluelles** ja se n'ha tret el que hi havia: **no conté una sèrie any
 per any** com aquesta fitxa suposava, sinó **xifres puntuals i una crítica de les
