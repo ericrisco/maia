@@ -1211,6 +1211,28 @@ defectuós ni descriu la situació actual.
 [OPTISEM](https://herbase.iteipmai.fr/modules/webportal/gabarit.php?field=Auteur&idbase=2&op=see_also&value=CUSIN+M.+%28ITEIPMAI%29).
 [Reconstrucció completa del manteniment i la venda](dreyfus-schmidt/yvonne-kahn/jacques-dreyfus-schmidt/baume-des-anges/carla/iteipmai-manteniment-i-venda-carla-1994-2026.md).
 
+La seqüència anual HERBASE 1998–2006 permet separar tres moments que abans
+quedaven comprimits: set parentals definits i parcel·la `VS-1` implantada el
+**2002**; primera collita nominal Carla, uns 3 kg no comercialitzats, el
+**2003**; i llançament el **2006**, amb 14,1 kg i 61 % de germinació. Els quatre
+clones sanejats amb nom el 2002 (`Maz 11.1`, `1.90`, `N 62`, `AA3.1`) no són
+parentals provats de Carla, i P1 és un reservori separat. GENOPARFUM identifica
+la mostra de Mévouillon com `CARLA 20/2`, però no desxifra `20/2`.
+
+La circulació observada el 2026 arriba a Vendée, Lot-et-Garonne, Haute-Loire,
+Lot i Var, a més de la Drôme i la Provença. Destaca la venda anunciada de
+10.000 peus adults Carla per la Ferme Séguy; documenta redistribució, no
+autorització ni il·licitud. Una fitxa sectorial de 2022 reconeix explícitament
+descendències de `semences de ferme`. Vent des Arômes, en canvi, barreja un
+origen al segle XIX incompatible amb la sèrie tècnica.
+
+Un vídeo Baume des Anges del 20/12/2015 afegeix una fita anterior a Guerlain:
+una vinagreta de lavanda Carla apadrinada per Mauro Colagreco, amb el flascó
+incorporat a la recepta. El producte gastronòmic existia almenys quinze mesos
+abans de *Mon Guerlain*. Vídeo, metadades, fotogrames, vint-i-set captures
+HERBASE, fonts comercials, PDF 2022, hashes i nota crítica són al dossier
+`baume-des-anges/carla/`.
+
 La recepció de 2017 revela després com aquell material agronòmic es convertí en
 relat. En una entrevista a *Basenotes*, Thierry Wasser atribuïa a Baume la seva
 descoberta de Carla, però la peça confonia la població de *L. angustifolia* amb
