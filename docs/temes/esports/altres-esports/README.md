@@ -35,6 +35,15 @@ mirés els Jocs, no en tindria cap.**
 | [Claudia Guri](./claudia-guri.md) | **Atletisme** i bàsquet | **Única representant d'Andorra al Mundial de Pequín 2015** |
 | [Estefania Sebastian](./estefania-sebastian.md) | Atletisme | 60 m al Mundial en pista coberta del 2014 |
 | [Lea Ricart](./lea-ricart.md) | Natació | 50 lliures al Mundial del 2017, amb setze anys |
+| **[Tomás Cano](./tomas-cano.md)** | **Salt d'esquí** | **Té el rècord d'Andorra i va tenir el d'Espanya.** Copa del Món 1979-83; Mundial del 1982 |
+| [Ludovic Albós](./ludovic-albos.md) | **Esquí de muntanya** | Un dels dos únics que el corpus té d'una disciplina olímpica des del 2026 |
+| [Xavier Capdevila](./xavier-capdevila.md) | Esquí de muntanya | L'altre |
+| [David Albós](./david-albos.md) | **Ciclisme** | **Professional el 2011**, i corredor de l'**Agrupació Ciclista Andorrana** |
+| [Marc Casal](./marc-casal.md) | Patinatge artístic | Campió d'Andorra el 2004; **dels primers a la ISU** |
+| [Mikel de Sa](./mikel-de-sa.md) | Atletisme | **Rècord d'Andorra dels 100 m sub-23: 11"20** |
+| **[Luis Basagaña](./luis-basagana.md)** | **Futbol** | **Va jugar a Primera divisió amb el RCD Espanyol el 1984**, deu anys abans que Andorra tingués federació |
+| [David Navarro](./david-navarro.md) | Bàsquet | Va jugar al **MoraBanc Andorra** de l'ACB — **espanyol, no andorrà** |
+| [David Norwood](./david-norwood.md) | Escacs | **El tercer gran mestre vinculat a Andorra**, i el tercer nascut fora |
 
 ## Les tres fites que aquesta subbranca conté
 
@@ -78,7 +87,7 @@ una pràctica legal i comuna, i és com funciona.**
 
 ## El que falta, i és una branca sencera
 
-- **Els escacs andorrans.** Dos Grans Mestres i **cap fitxa de federació,
+- **Els escacs andorrans.** **Tres** Grans Mestres i **cap fitxa de federació,
   campionat o club**. **És un dels àmbits on un país de setanta-set mil
   habitants pot competir de tu a tu, perquè no cal infraestructura.**
 - **El tennis andorrà**: federació, clubs, la selecció de Billie Jean King Cup.

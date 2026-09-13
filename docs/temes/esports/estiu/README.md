@@ -52,6 +52,8 @@ aquesta fitxa no existiria i el corpus seria pitjor.**
 | **[Joan Tomàs Roca](./joan-tomas-roca.md)** | **1976, 80, 84, 2000, 2012** | **Cinc Jocs en 36 anys.** Abanderat el 1984 i el 2012, **als 61 anys** |
 | [Esteve Dolsa](./esteve-dolsa.md) | 1976 | **El primer abanderat olímpic d'Andorra.** Va morir el 2007 d'un tret accidental caçant |
 | [Francesc Gaset](./francesc-gaset.md) | 1980, 1984 | Abanderat a Moscou — **desfilant sota bandera olímpica** |
+| [Joan Besolí](./joan-besoli.md) | 1992 | Fossa olímpica |
+| [Gerard Barcia](./gerard-barcia.md) | 1996 | Fossa olímpica |
 | [Esther Barrugués](./esther-barrugues.md) | 2016 | Carrabina d'aire, 51a. **L'última tiradora** |
 
 ### Natació — set Jocs seguits, i després res
@@ -70,7 +72,8 @@ aquesta fitxa no existiria i el corpus seria pitjor.**
 
 | Qui | Jocs | El que en destaca |
 | --- | --- | --- |
-| [Toni Besolí](./toni-besoli.md) | 2004 | **El primer.** Un combat de **47 segons** |
+| **[Antoni Molné](./antoni-molne.md)** | **1992, 1996** | **El primer, i el corpus no el tenia.** El judo andorrà comença el 1992 |
+| [Toni Besolí](./toni-besoli.md) | 2004 | Un combat de **47 segons** |
 | **[Daniel García González](./daniel-garcia-gonzalez.md)** | 2008, 2012 | **9è a Londres**: un dels cinc millors resultats olímpics d'Andorra |
 | [Laura Sallés](./laura-salles.md) | 2016 | **Diversos mundials.** Abanderada a Rio |
 
@@ -78,7 +81,9 @@ aquesta fitxa no existiria i el corpus seria pitjor.**
 
 | Qui | Esport | Jocs | El que en destaca |
 | --- | --- | --- | --- |
-| **[Emili Pérez](./emili-perez.md)** | **Ciclisme** | 1988, 1992 | **9è en ruta a Seül.** **Andorra no hi ha tornat a portar cap ciclista** |
+| **[Emili Pérez](./emili-perez.md)** | **Ciclisme** | 1988, 1992 | **9è en ruta a Seül** |
+| **[Xavier Pérez](./xavier-perez.md)** | Ciclisme | 1988, 1992 | **Va córrer el Giro d'Itàlia del 1993.** Mateixos cognoms i mateixa parròquia que l'anterior |
+| [Oscar Ramón](./oscar-ramon.md) i [David Ramón](./david-ramon.md) | **Vela** | 1992, 1996 | **Dos germans de 470, del Pas de la Casa** — el poble més alt d'Andorra |
 | [Joan Montane](./joan-montane.md) | **Boxa** | 1976 | **9è.** **L'únic boxejador olímpic d'Andorra** |
 | [Montserrat García Riberaygua](./montserrat-garcia-riberaygua.md) | **Piragüisme** | 2008 | **La primera.** Abanderada a Pequín |
 | [Mònica Dòria](../../persones/monica-doria.md) | Piragüisme | 2020, 2024 | **6a a París**: **el millor resultat olímpic de la història d'Andorra** |
@@ -115,8 +120,7 @@ queda en tota la branca d'esports.**
 
 - **Les marques.** Mig centenar de posicions i una dotzena de temps.
 - **Els rècords d'Andorra**, que quatre fitxes esmenten i cap no llista.
-- **Francesc Repiso Romero** (tir, Atenes 2004) i **Justo Ruiz**: noms sense
-  entrada.
+- **Francesc Repiso Romero** (tir, Atenes 2004): nom sense entrada.
 - **Les federacions**: cap fitxa de cap.
 - **Els Jocs dels Petits Estats amb noms.**
 

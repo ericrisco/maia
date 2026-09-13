@@ -1,7 +1,7 @@
 ---
 type: article
 title: Antoni «Toni» Besolí i Cervellera
-description: "El primer judoka olímpic d'Andorra, a Atenes 2004. El seu combat va durar quaranta-set segons."
+description: "Judoka olímpic a Atenes 2004, on el seu combat va durar quaranta-set segons. El corpus el va presentar com el primer d'Andorra i no ho era."
 tema: temes/esports/estiu
 veu: compilada
 epoca: contemporania
@@ -27,6 +27,17 @@ de Judo.**
 > dues vegades olímpic, **quaranta-set segons després** de començar el combat.»
 
 **Quaranta-set segons.** **Aquesta és tota la seva participació olímpica.**
+
+## Una correcció del corpus
+
+**Aquesta fitxa el presentava com «el primer judoka olímpic d'Andorra».** **No
+ho era.**
+
+**[Antoni Molné i Oviedo](./antoni-molne.md) va competir en judo als Jocs de
+Barcelona (1992) i d'Atlanta (1996)**, **dotze anys abans**
+([font](../../../fonts/wikipedia-atletes-andorrans.md)).
+
+**El judo olímpic andorrà comença el 1992, no el 2004.**
 
 ## El corpus l'escriu sencera i no la disfressa
 

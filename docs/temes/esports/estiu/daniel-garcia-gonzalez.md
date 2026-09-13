@@ -39,9 +39,17 @@ resultat.**
 
 ## El judo andorrà
 
-**Andorra ha portat tres judokes als Jocs**: **[Toni
-Besolí](./toni-besoli.md)** (Atenes 2004), **Daniel García** (2008, 2012) i
-**[Laura Sallés](./laura-salles.md)** (Rio 2016).
+**Andorra ha portat QUATRE judokes als Jocs**, i **aquesta fitxa en deia tres**
+fins que va aparèixer el primer:
+
+| Jocs | Qui |
+| --- | --- |
+| **Barcelona 1992** i **Atlanta 1996** | **[Antoni Molné](./antoni-molne.md)** |
+| Atenes 2004 | [Toni Besolí](./toni-besoli.md) |
+| Pequín 2008 i Londres 2012 | **Daniel García** |
+| Rio 2016 | [Laura Sallés](./laura-salles.md) |
+
+**Sis participacions, quatre persones, i el judo andorrà comença el 1992.**
 
 **Des del 2016, cap.**
 

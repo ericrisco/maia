@@ -32,12 +32,15 @@ el corpus hi documenta**.
 | --- | --- |
 | 1976 | Dolsa, Tomàs |
 | 1980, 1984 | [Gaset](./francesc-gaset.md), Tomàs |
+| **1992** | **[Joan Besolí](./joan-besoli.md)** |
+| **1996** | **[Gerard Barcia](./gerard-barcia.md)** |
 | 2000 | Tomàs |
 | 2004 | **Francesc Repiso Romero** — 35è |
 | 2012 | Tomàs |
 | **2016** | **Barrugués** |
 
-**Set edicions de tir en quaranta anys, i des del 2016 cap.**
+**Nou edicions de tir en quaranta anys, i des del 2016 cap.** **El tir és, de
+tots els esports d'estiu, el que Andorra ha mantingut més temps als Jocs.**
 
 **I un canvi de disciplina que val la pena notar:** **tots els homes van tirar
 FOSSA** —tir al plat, a l'aire lliure, amb escopeta— i **ella va tirar

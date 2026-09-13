@@ -41,9 +41,19 @@ Villarreal.
 **Tres futbolistes andorrans dins de pedreres de primer nivell espanyol, i cap
 que hi arribi a jugar a Primera.**
 
-**El corpus ho registra com a observació pròpia** i **no ho explica**, perquè no
-té cap font que ho faci. **Però és la forma que té el futbol andorrà d'elit:
-arribar molt amunt a la formació i no travessar-ne l'últim graó.**
+**El corpus ho registrava com a observació pròpia**, i **després va trobar qui la
+desmenteix**: **[Luis Basagaña i Soto](../altres-esports/luis-basagana.md),
+d'Andorra la Vella, va debutar a Primera divisió amb el RCD Espanyol el 9 de
+setembre del 1984.**
+
+**N'hi ha almenys un que sí que hi va arribar** — **i és de la generació
+anterior a la selecció**: **el 1984 Andorra no tenia equip nacional**
+([la selecció](./la-seleccio.md)), de manera que **Basagaña no hi va poder jugar
+mai**.
+
+**L'observació queda reformulada:** **entre els internacionals andorrans que el
+corpus ha fitxat, cap no arriba a Primera** —**però hi va haver un futbolista
+andorrà a Primera deu anys abans que el país tingués federació.**
 
 ## El que falta
 

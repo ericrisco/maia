@@ -36,14 +36,31 @@ història d'Andorra**, al costat de:
 | 9è | [Daniel García](./daniel-garcia-gonzalez.md) | Judo −66 kg | Londres 2012 |
 | 9è | [Joan Verdú](../../persones/joan-verdu.md) | Esquí alpí gegant | Pequín 2022 |
 
-**I el corpus subratlla una cosa:** **el ciclisme és l'únic d'aquests cinc
-esports del qual Andorra no ha tornat a portar mai ningú als Jocs.** Pérez hi va
-anar el 1988 i el 1992, **i després res**.
+**I una correcció que el corpus es fa a si mateix.** Aquesta fitxa deia que
+**«el ciclisme és l'únic d'aquests cinc esports del qual Andorra no ha tornat a
+portar mai ningú als Jocs»**, donant a entendre que Pérez hi era sol.
 
-**Un novè lloc olímpic i un esport que s'apaga.** **Buit registrat, i de la mena
-que val la pena investigar**: **què va passar amb el ciclisme andorrà?** El país
-és una muntanya sencera i **les seves carreteres són etapa habitual de la Volta
-i del Tour**. Vegeu [turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md).
+**No hi era sol.** **[Xavier Pérez i Font](./xavier-perez.md), nascut a
+Escaldes-Engordany el 1968, va competir als mateixos dos Jocs** —Seül 1988 i
+Barcelona 1992— **i va córrer el Giro d'Itàlia del 1993.**
+
+**Els mateixos dos cognoms, la mateixa parròquia i quinze mesos de diferència.**
+**El corpus no afirma que siguin germans** —cap font ho diu— **i registra la
+coincidència amb nota de verificació.**
+
+**El que segueix sent cert és el que passa després del 1992: cap ciclista
+andorrà més als Jocs.**
+
+**Però tampoc s'ha d'entendre com que el ciclisme andorrà s'acaba.** **[David
+Albós Cavaliere](../altres-esports/david-albos.md) era ciclista professional el
+2011** i **hi ha una Agrupació Ciclista Andorrana que fa d'equip nacional.**
+
+**La pregunta bona no és «per què s'acaba el ciclisme andorrà» sinó «per què
+s'acaben les places olímpiques»** — la mateixa correcció de formulació que el
+corpus va haver de fer amb la natació
+([Lea Ricart](../altres-esports/lea-ricart.md)). El país és una muntanya
+sencera i **les seves carreteres són etapa habitual de la Volta i del Tour**.
+Vegeu [turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md).
 
 ## El que falta
 
