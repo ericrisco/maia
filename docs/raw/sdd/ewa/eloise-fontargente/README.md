@@ -1282,6 +1282,16 @@ de 2023: 40 kg d'oli i 1.000 l d'hidrolat d'una parcel·la ecològica de 2 ha
 plantada el 2018.
 [Dossier Quercy 1922–2026](dreyfus-schmidt/yvonne-kahn/jacques-dreyfus-schmidt/baume-des-anges/carla/carla-comparador-quercy-historia-mercat-i-experiment-1922-2026.md).
 
+La premsa contemporània fa retrocedir l'activitat documentada. El 1925 ja hi
+havia premis departamentals en una categoria lavanda i perfums de lavanda
+fabricats a Cahors, encara que no se'n prova l'origen de la matèria primera.
+Martel tenia un comitè de cultiu el gener de 1926; el juliol de 1927 el Comice
+agrícola hi instal·lava un taller «com l'any anterior», donava instruccions de
+collita i declarava acabada la fase d'assaig i assegurada la sortida del
+producte. Això demostra destil·lació organitzada a Martel des de 1926 i obliga a
+llegir el pioner cadurcien de 1929 de Lacaze com un altre focus o canvi
+d'escala, no com l'inici absolut al Lot.
+
 R. Barel permet anar més enrere i posar noms al focus del Gourdonais: Poujade
 de Rouffilhac i Bos del Vigan assajaren el 1935 plantes del Dauphiné; Bos
 produïa llavor pròpia des de 1941 i dos alambins articulaven dotze municipis.
@@ -1297,13 +1307,24 @@ reduïa el transport del planter de 15 F a 4–5 F per mil. El 1937 un nou alamb
 havia d'absorbir 25–30 quintars de
 flor diaris. Una crònica anterior comptava un milió de peus en les campanyes
 1935–1937 i vint tones de flor processades el 1936; les demandes d'exportació
-que invocava el sindicat resten sense contracte verificat. El taller/oficina de
+que invocava el sindicat resten sense contracte verificat. Una notícia de
+desembre de 1936 confirma el pagament col·lectiu de l'essència venuda i dona
+els estadis anteriors de 300.000 plantes i més de 500.000 comandes; són talls
+successius, no xifres acumulables. El taller/oficina de
 compra de Martel projectat el 1939 era una
 baula posterior, no el primer sindicat del Lot. Els facsímils directes resten
 bloquejats pel servidor i no s'han simulat. Sí queda documentat un mercat de
 consum: el juny de 1936 la Maison L. Vidal, 9 rue Foch de Cahors, venia aigua
 destil·lada de lavanda del sindicat a 1 F/litre. Era hidrolat, no oli essencial,
 i l'anunci no quantifica les vendes.
+
+La guerra tampoc no tallà immediatament la filière. El novembre de 1940 el
+sindicat convocava els productors per decidir la venda de la collita; el juliol
+de 1941 el taller de Cahors-Cabazat obria per a lots de 500 kg o més. El 1942
+el distil·lador Pradelle preveia treballar del 15 de juliol a l'1 de setembre:
+la manca de llenya havia posat la campanya en dubte, però finalment rebé
+combustible. No s'ha localitzat encara una sèrie de volums o compradors per als
+anys d'ocupació.
 
 La branca pública permet seguir el pas d'assaig a patrimoni. Una crònica de
 l'assemblea Quercy PPAM de setembre de 2024 situa les primeres collites
