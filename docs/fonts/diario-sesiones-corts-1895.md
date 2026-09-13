@@ -1,19 +1,22 @@
 ---
 type: font
 id: diario-sesiones-corts-1895
-title: "Diario de las Sesiones de Cortes — Congrés dels Diputats, 1895"
-titular: Congreso de los Diputados (Espanya) · document oficial parlamentari
+title: "Diario de las Sesiones de Cortes — Congrés dels Diputats i Senat, 1895"
+titular: Congreso de los Diputados i Senado (Espanya) · document oficial parlamentari
 url: https://app.congreso.es/est_sesiones/
 llicencia: document parlamentari oficial de 1895; domini públic per antiguitat
 redistribucio: si
 data_consulta: 2026-09-12
 abast: >
-  Sessions del Congrés dels Diputats espanyol de juny de 1895 on es debat la
-  franquícia duanera dels productes andorrans: sessió del dilluns 17 de juny
-  (núm. 148), del dissabte 29 de juny (núm. 157) i del diumenge 30 de juny
-  (núm. 158), amb els apèndixs 2n als núm. 153 i 157 i l'apèndix 40 al núm. 89,
-  aquest últim l'addició signada el 27 de març de 1895 que conté l'inventari
-  del que Andorra comprava a Espanya. A docs/raw/hemeroteca/.
+  Sessions de les dues cambres espanyoles de juny de 1895 on es tramita la
+  franquícia duanera dels productes andorrans.
+  CONGRÉS: sessió del dilluns 17 de juny (núm. 148), del dissabte 29 de juny
+  (núm. 157) i del diumenge 30 de juny (núm. 158), amb els apèndixs 2n als
+  núm. 153 i 157 i l'apèndix 40 al núm. 89, aquest últim l'addició signada el
+  27 de març de 1895 que conté l'inventari del que Andorra comprava a Espanya.
+  SENAT: sessions del divendres 28 (núm. 154) i del dissabte 29 de juny
+  (núm. 155), i l'apèndix 5è al núm. 155, que és el dictamen de la comissió
+  mixta on l'article 56 queda suprimit. A docs/raw/hemeroteca/.
 notes: >
   FONT PRIMÀRIA I HOSTIL ALHORA, i per això val. És un parlament estranger
   discutint Andorra sense demanar-li parer: tot el que hi diu sobre la sobirania
@@ -32,6 +35,11 @@ notes: >
   PROCEDÈNCIA A MITGES. Els documents s'identifiquen sols —capçalera, número de
   diari, data de sessió i pàgina—, però l'URL exacta de descàrrega no va quedar
   registrada. Buit obert.
+  TRES DELS FITXERS SÓN OCR PROPI, del 2026-09-13: senado-1895-06-28,
+  senado-1895-06-29 i senado-1895-mixta-ap5, fets amb ocrmypdf -l spa_old+spa
+  --force-ocr perquè els PDF no tenien capa de text. La qualitat és pitjor que
+  la dels fitxers del Congrés i les citacions que en surtin s'han de comprovar
+  contra el PDF, caràcter a caràcter.
 ---
 
 # Diario de las Sesiones de Cortes, 1895
@@ -58,7 +66,9 @@ creia amb dret a decidir-ne.
 | `congreso-157.txt` | Sessió del **dissabte 29 de juny de 1895** (núm. 157) |
 | `congreso-1895-06-30.txt` | Sessió del **diumenge 30 de juny de 1895** (núm. 158). **El debat gros** |
 | `congreso-153-ap2.txt`, `congreso-157-ap2.txt` | Apèndixs 2n als núm. 153 i 157 |
-| `senado-1895-*` | **Senat**, 28 i 29 de juny. Un dels dos `.txt` és **buit**: el PDF no té capa de text |
+| `senado-1895-06-28.txt` | **Senat, núm. 154**, sessió del **divendres 28 de juny de 1895**, 53 pàgines. **OCR del 2026-09-13.** «Andorra» no hi surt cap vegada |
+| `senado-1895-06-29.txt` | **Senat, núm. 155**, sessió del **dissabte 29 de juny de 1895**. Constitució de la comissió mixta, i **el dictamen admès i votat sense cap torn en contra** |
+| `senado-1895-mixta-ap5.txt` | **Apèndix 5è al núm. 155** — **el dictamen de la comissió mixta**, signat al Palacio del Senado el **29 de juny de 1895** per **Vicente Romero y Girón** i **Francisco de Federico**. **OCR del 2026-09-13.** Hi consta la supressió de l'**article 56** |
 
 ## Com s'ha de llegir
 
@@ -77,7 +87,17 @@ pel punt de tall (columna 57-58) i llegint-les per separat.
 ## Buits registrats
 
 1. **L'URL exacta** de descàrrega de cada document.
-2. **El diari de sessions del Senat**, que és on hauria d'aparèixer què va passar
-   amb l'article addicional. Un dels dos fitxers no té text.
-3. **Si l'article addicional va arribar a entrar en vigor.** El corpus té el vot
-   del Congrés i no en té el desenllaç.
+2. ~~**El diari de sessions del Senat**, que és on hauria d'aparèixer què va passar
+   amb l'article addicional. Un dels dos fitxers no té text.~~ **TANCAT el
+   2026-09-13**: tots dos, i l'apèndix de la comissió mixta, s'han passat per OCR.
+3. ~~**Si l'article addicional va arribar a entrar en vigor.**~~ **TANCAT el
+   2026-09-13.** **No hi va entrar.** El dictamen de la comissió mixta —Apèndix
+   5è al núm. 155— diu: «**Quedan suprimidos los arts. 9.º, 10, 11, 14, 15, 56 y
+   60 del proyecto de ley aprobado por el Congreso**». **Sense cap motivació**, i
+   **dins d'una llista de set**. El mateix dictamen, en canvi, **restitueix** dos
+   articles que el Senat havia suprimit (54 i 58). Vegeu
+   [el desenllaç de la qüestió duanera](../temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md).
+4. **Les actes de la comissió de pressupostos del Senat del 26 de juny de 1895**,
+   que és **l'únic lloc on es va arribar a dir res sobre Andorra** en tot el
+   tràmit. **Prioritari**: el plenari del Senat no en va pronunciar el nom ni el
+   28 ni el 29.

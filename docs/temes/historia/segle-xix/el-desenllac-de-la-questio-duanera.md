@@ -203,6 +203,53 @@ president acabava de qualificar de sagrat.
 **El que va decidir la qüestió duanera d'Andorra no va ser una votació: va ser
 una compareixença.**
 
+### 5. I ara el corpus té el document que la va suprimir
+
+**El buit número 2 d'aquesta fitxa demanava «el dictamen que en va sortir —
+l'Apèndix del *Diario* del 29 de juny, que el corpus no té».** El tenia: era
+**un PDF sense capa de text** dins de `raw/hemeroteca/`, i **ningú no l'havia
+obert**. Passat per OCR el **2026-09-13**, és
+l'**«Apéndice 5.º al núm. 155»** del *Diario de las Sesiones de Cortes* del
+Senat.
+
+I el que hi diu és **una línia**:
+
+> «**Quedan suprimidos los arts. 9.º, 10, 11, 14, 15, 56 y 60 del proyecto de ley
+> aprobado por el Congreso.**»
+
+**L'article 56 desapareix dins d'una llista de set, i el dictamen no dona cap
+raó — ni d'aquest ni de cap dels altres sis.** Cap menció d'Andorra, ni del
+bestiar, ni del bisbe.
+
+**I la comissió no era una màquina de suprimir.** Al mateix dictamen **restitueix
+dos articles que el Senat havia suprimit**, i ho diu amb aquestes paraules: «Art.
+54 (Suprimido por el Senado). **Se restablece así**» i «Art. 58 (Suprimido por el
+Senado). **Restablecido en esta forma**».
+
+**Podia restituir, i va restituir — la sobretaxa als carbons minerals estrangers
+i l'impost sobre els alcohols. L'article d'Andorra el va deixar caure.**
+
+El dictamen el signen, al **Palacio del Senado, 29 de juny de 1895**, el
+president **Vicente Romero y Girón** i el secretari **Francisco de Federico**.
+
+### 6. I entremig, tres dies de silenci
+
+Entre la compareixença del bisbe —**26 de juny**— i la supressió —**29 de
+juny**— hi ha **la sessió del divendres 28 de juny** (núm. 154), que el corpus
+tampoc no havia llegit, **pel mateix motiu**: PDF sense capa de text. Passada per
+OCR el 2026-09-13, són **53 pàgines**.
+
+**«Andorra» no hi surt ni una sola vegada.** Ni «Urgel», ni «ganado», ni
+«franquicia».
+
+**Sumat tot:** l'única vegada que Andorra es va discutir en aquell tràmit va ser
+**a porta tancada, davant la comissió de pressupostos, amb el bisbe parlant
+primer**. Al plenari del Senat, **ni el 28 ni el 29**, ningú no en va dir el
+nom.
+
+**La franquícia del bestiar andorrà es va extingir sense que la paraula «Andorra»
+es pronunciés a la cambra que la va extingir.**
+
 ## I dos mesos abans, la carta
 
 Carvajal, per demostrar què hi havia darrere, va llegir al Congrés **una frase
@@ -303,14 +350,20 @@ transfronterera. Vegeu
 
 1. **El text sencer de la carta pastoral del 21 d'agost de 1894.** El corpus en té
    **una frase, traduïda al francès, citada per un tercer**.
-2. ~~**Les actes de la comissió mixta del 26 de juny de 1895.**~~ **REFORMULAT:**
-   el 26 de juny no era la comissió mixta sinó **la comissió de pressupostos del
-   Senat**. El que falta són **les seves actes**, i **el dictamen** que en va
-   sortir (l'«Apéndice» del *Diario* del 29 de juny, que el corpus no té).
+2. ~~**Les actes de la comissió mixta del 26 de juny de 1895.**~~ **REFORMULAT i
+   ara TANCAT a mitges.** El 26 de juny no era la comissió mixta sinó **la
+   comissió de pressupostos del Senat**. **El dictamen de la comissió mixta ja hi
+   és** —Apèndix 5è al núm. 155, passat per OCR el 2026-09-13— i **suprimeix
+   l'article 56 sense donar-ne cap raó**. **El que segueix faltant són les actes
+   de la sessió del 26 de juny**, que és on el bisbe va parlar: **és l'únic lloc
+   on es va dir res, i és el que no hi és.**
 3. ~~**Els originals dels dos diaris del 27 de juny de 1895.**~~ **TANCAT a
-   mitges.** *La Correspondencia de España* **ja té text**, per OCR, i la frase
-   del bisbe hi és. **Queda obert *El Heraldo de Madrid***, que el corpus només
-   té per la traducció de Vilar.
+   mitges, i el motiu ja se sap.** *La Correspondencia de España* **ja té text**,
+   per OCR, i la frase del bisbe hi és. ***El Heraldo de Madrid* segueix obert, i
+   no és qüestió d'OCR: el fitxer `heraldo-1895-06-27-p2.pdf` no és el diari.**
+   És **una pàgina HTML de la Biblioteca Nacional de España** —el formulari de
+   sol·licitud de reproducció— **desada amb extensió `.pdf`**. El corpus **no té
+   aquest diari**, i creia que sí. Vegeu el [README de `raw/`](../../../raw/README.md).
 3b. **La verificació caràcter a caràcter** de les citacions d'OCR contra el PDF.
    L'OCR de premsa del 1895 té errors sistemàtics.
 4. **Quantes mules hi havia realment a Andorra el 1895.** L'inventari de Carvajal

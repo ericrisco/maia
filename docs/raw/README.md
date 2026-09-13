@@ -447,8 +447,9 @@ espanyol que va provocar.
 | `congreso-*` | **Diari de sessions del Congreso de los Diputados**, juny de 1895, amb apèndixs | Arxiu històric del Congreso (**URL exacta no registrada**) |
 | `senado-1895-*` | **Diari de sessions del Senado**, juny de 1895 | Arxiu del Senado (**URL exacta no registrada**) |
 | `boletin-leon-1894-09-17` | Butlletí provincial, 17.09.1894. **Hi ha la reial ordre espanyola de setembre de 1894 sobre Andorra** | **URL no registrada** |
-| `heraldo-1895-06-27-p2`, `correspondencia-1895-06-27` | Premsa espanyola del **27 de juny de 1895** | Hemeroteca Digital de la **BNE** (**URL no registrada**) |
-| `bpt-*` | *Bulletin* francès, 1878-1893 | **Gallica / BnF** (**URL no registrada**) |
+| `correspondencia-1895-06-27` | *La Correspondencia de España*, **27 de juny de 1895** | Hemeroteca Digital de la **BNE** (**URL no registrada**) |
+| ~~`heraldo-1895-06-27-p2`~~ | **NO ÉS UN DIARI.** Vegeu l'avís de sota | — |
+| ~~`bpt-*`~~ | **NO SÓN CAP *BULLETIN*.** Vegeu l'avís de sota | — |
 | `12052025` | Document del **12.05.2025** | **URL no registrada** |
 
 **La procedència d'aquesta carpeta és parcial, i el 2026-09-12 ho és menys.**
@@ -465,6 +466,44 @@ encara que falti l'URL de descàrrega.
 | `congreso-153-ap2`, `congreso-157-ap2` | Apèndixs **2n** als núm. **153** i **157** |
 | `boletin-leon-1894-09-17` | **Boletín Oficial de la provincia de León**, núm. 34, **17 de setembre de 1894**, p. 79-80. **Buidat el 2026-09-13**: hi ha la circular de l'Audiencia de Valladolid (12.09.1894) que reprodueix la **reial ordre del Ministeri de Gràcia i Justícia** prohibint als jutges espanyols tota relació amb les autoritats andorranes |
 | `12052025` | **No és premsa.** És l'**acta de la Junta de Govern núm. 18** del **Comú d'Escaldes-Engordany**, del **12-5-2025**, exp. 2025/2714, acta 2025000008. **Està mal classificat en aquesta carpeta.** **Buidat el 2026-09-13** i amb fitxa: [`acta-junta-govern-escaldes-2025`](../fonts/acta-junta-govern-escaldes-2025.md). **Conté dades personals**: vegeu la fitxa |
+
+### Cinc fitxers d'aquesta carpeta no són documents
+
+**Comprovat el 2026-09-13**, obrint-los. **Cap article del corpus no els cita**
+—el dany es queda dins d'aquesta taula— **però la taula deia que hi eren i no hi
+són.**
+
+| Fitxer | El que deia el README | El que és de debò |
+| --- | --- | --- |
+| `bpt-1892-04.pdf` · `bpt-1892-05.pdf` · `bpt-1892-06.pdf` · `bpt-tables-1878-1893.pdf` | «*Bulletin* francès, 1878-1893 · Gallica / BnF» | **Quatre còpies byte a byte del mateix fitxer HTML** (mateix MD5, `e4a41ea2…`): **la pàgina d'inici de sessió de la *Fédération Française des Associations Philatéliques***, `<title>Se connecter</title>`. **Ni Gallica, ni la BnF, ni cap butlletí.** |
+| `heraldo-1895-06-27-p2.pdf` | «Premsa espanyola del 27 de juny de 1895 · BNE» | **Una pàgina HTML de la Biblioteca Nacional de España**, desada des de `irSolicitudReproduccion.do`: **el formulari de sol·licitud de reproducció**, no l'exemplar. |
+
+**Tots cinc porten extensió `.pdf` i cap dels cinc és un PDF.** `file` els
+identifica com a *HTML document text*.
+
+**El que això costa:** el corpus creia tenir **cinc fonts** —quatre franceses del
+període **1878-1893** i un diari madrileny del **27 de juny de 1895**— i **en té
+zero**. La segona és, a més, **un buit registrat obert** a
+[el desenllaç de la qüestió duanera](../temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md),
+que ara se sap que **no es tancarà amb OCR**: s'ha de tornar a descarregar.
+
+**És el mateix error que `herencia-andorra`, multiplicat per cinc**, i confirma
+la regla que ja hi havia escrita: **abans de comptar un fitxer com a font,
+obriu-lo.** Aquí en van estar **dos dies**.
+
+**No s'esborren.** Queden amb el seu nom i amb aquesta nota al costat, perquè
+qui els trobi sàpiga què són.
+
+### Dos PDF que sí que eren documents, i ningú no havia obert
+
+**També el 2026-09-13.** Dos fitxers de la sèrie del Senat **tenien PDF i no
+tenien `.txt`**: ningú no els havia extret. Passats per **OCR** (`ocrmypdf -l
+spa_old+spa --force-ocr`):
+
+| Fitxer nou | Què és | Què hi havia |
+| --- | --- | --- |
+| `senado-1895-mixta-ap5.txt` | **Apèndix 5è al núm. 155** — el **dictamen de la comissió mixta** sobre l'articulat de la llei de pressupostos de 1895-96, signat al Palacio del Senado el **29 de juny de 1895** | **La supressió de l'article 56**, la franquícia del bestiar andorrà, **dins d'una llista de set articles i sense cap motivació**. Era un **buit registrat** del corpus |
+| `senado-1895-06-28.txt` | Sessió del Senat **núm. 154**, **divendres 28 de juny de 1895**, 53 pàgines | **Cap menció d'Andorra.** Ni «Urgel», ni «ganado», ni «franquicia» |
 
 **Ja tenen fitxa de font:** els diaris de sessions del Congrés, a
 [`diario-sesiones-corts-1895`](../fonts/diario-sesiones-corts-1895.md); el
@@ -534,7 +573,7 @@ com està**: són material de cerca, no fonts.
 | `sac-diades/` | **sí** — institució, llicència, handle i patró d'URL |
 | `llibres/` | **no** — falta l'URL de les quatre obres |
 | `academic/` | **parcial** — les sis identificades per revista, volum i, en dos casos, DOI; falta l'URL de descàrrega. Una era **un duplicat mal anomenat** i **una no és d'Andorra** (`neolithic-pastoralism-pyrenees`, jaciment a Osca) |
-| `hemeroteca/` | **parcial** — els diaris de sessions i el butlletí de León s'identifiquen per número, data i pàgina i ja tenen fitxa; falta l'URL de tots, i la premsa i els `bpt-*` segueixen sense signatura |
+| `hemeroteca/` | **parcial, i més neta que abans** — els diaris de sessions i el butlletí de León s'identifiquen per número, data i pàgina i ja tenen fitxa; falta l'URL de tots. **Cinc fitxers no eren documents i ara consten com el que són**; la premsa que queda segueix sense signatura |
 | `web/` | **parcial** — s'identifica l'origen, no l'URL exacta |
 
 **Aquest quadre és, ell mateix, la llista de feina.** La regla del projecte

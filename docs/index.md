@@ -1131,7 +1131,7 @@
 | [`de-la-parte-immigracio-cultura`](fonts/de-la-parte-immigracio-cultura.md) | Isabel de la Parte i Cano · Joan Micó i Ibáñez · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`debat-2a-diada-migracions`](fonts/debat-2a-diada-migracions.md) | Societat Andorrana de Ciències · CREC, Universitat de Perpinyà | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`deu-tradicio-coral`](fonts/deu-tradicio-coral.md) | Marta Deu i Pedrerol · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
-| [`diario-sesiones-corts-1895`](fonts/diario-sesiones-corts-1895.md) | Congreso de los Diputados (Espanya) · document oficial parlamentari | document parlamentari oficial de 1895; domini públic per antiguitat | si |
+| [`diario-sesiones-corts-1895`](fonts/diario-sesiones-corts-1895.md) | Congreso de los Diputados i Senado (Espanya) · document oficial parlamentari | document parlamentari oficial de 1895; domini públic per antiguitat | si |
 | [`duro-pujol-no-integracio-1997`](fonts/duro-pujol-no-integracio-1997.md) | Simó Duró Coma i Jean Pujol Serres · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`duro-rol-del-parlamentari`](fonts/duro-rol-del-parlamentari.md) | Josep Duró i Coma · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`escaler-cambra-de-comerc`](fonts/escaler-cambra-de-comerc.md) | Pilar Escaler i Penella · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
