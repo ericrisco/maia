@@ -1188,6 +1188,29 @@ de població; la portada que encara anuncia 47 vivers és una dada antiga.
 [CERTIPAM](https://appsl.fr/certipam/);
 [vivers APPSL](https://appsl.fr/nos-pepinieristes-partenaires/).
 
+La venda actual permet identificar millor el control aigües amunt. ITEIPMAI
+afirma que multiplica i difon les seves varietats; el catàleg 11/2023 manté
+Carla, però en reserva la llavor als operadors `plants sains` amb acord CIHEF.
+El comprador amb SIRET agrícola firma una convenció de no-multiplicació i els
+vivers assumeixen la no-difusió pels clients. La tarifa 27/11/2023 fixa Carla
+tractada a **1.300 €/kg per a menys de 100 g**: són fins a uns 130 € per 100 g,
+no una comanda de 1.300 €. No publica estoc, lot, tractament ni preu de 2026.
+[Venda ITEIPMAI](https://www.iteipmai.fr/ventes-semences/);
+[catàleg](https://www.iteipmai.fr/catalogue-varietes/);
+[tarifes](https://www.iteipmai.fr/tarifs/).
+
+La història tècnica arrenca el 1994 amb uns seixanta clones i 54 descendències
+maternes, abans dels set parentals finals de Carla. OPTISEM documentà el 2019
+un clon comú a **Carla, Rapido i Saralia** i buscà el punt de collita que
+equilibrava rendiment i germinació. Un mémoire intern de 2018 havia qualificat
+la venda de llavors de no rendible i assenyalat problemes de qualitat en lots
+de diverses espècies, amb lavanda entre quatre casos de risc; proposava millorar
+reg, collita, triatge, preus i traçabilitat. No identifica un lot Carla
+defectuós ni descriu la situació actual.
+[Programa 1997](https://herbase.iteipmai.fr/modules/webportal/gabarit.php?field=Titre_periodique&idbase=2&op=see_also&value=CR+TECH.+ITEIPMAI+97);
+[OPTISEM](https://herbase.iteipmai.fr/modules/webportal/gabarit.php?field=Auteur&idbase=2&op=see_also&value=CUSIN+M.+%28ITEIPMAI%29).
+[Reconstrucció completa del manteniment i la venda](dreyfus-schmidt/yvonne-kahn/jacques-dreyfus-schmidt/baume-des-anges/carla/iteipmai-manteniment-i-venda-carla-1994-2026.md).
+
 La recepció de 2017 revela després com aquell material agronòmic es convertí en
 relat. En una entrevista a *Basenotes*, Thierry Wasser atribuïa a Baume la seva
 descoberta de Carla, però la peça confonia la població de *L. angustifolia* amb
