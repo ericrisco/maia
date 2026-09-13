@@ -1385,6 +1385,37 @@ la reconversió cap a pomeres. La coincidència entre 14.000 t d'emmagatzematge
 Limdor i 14.000 t de pomes rebudes que Delvert anuncia el 2026 **no prova que
 siguin el mateix volum**: no s'ha trobat contracte, quota ni exclusivitat.
 
+L'estructura regional confirma alhora proximitat i circulació oberta. INSEE
+comptava el 2018 **10.400 assalariats en 4.300 establiments** de fruita i
+verdura a Nova Aquitània; 2.800 treballaven en transformació, on purés,
+compotes i confitures concentraven el 47 % dels efectius. A Corrèze,
+l'ocupació transformadora es concentrava sobretot a Valade i Delvert, però
+l'estudi adverteix que els industrials i comerciants regionals **no
+s'abasteixen exclusivament** de productors locals: els fluxos interregionals i
+internacionals són nombrosos. La geografia fa plausible una relació de cadena
+Delvert–Limdor; no permet convertir-la en contracte.
+
+El conflicte de la poma industrial és recurrent. El 2020, després d'una
+collita de Llemosí reduïda entre un 30 i un 45 %, els fabricants demanaven a
+la distribució només un o dos cèntims més per pot, mentre negociadors els
+haurien convidat a comprar a Polònia. La poma industrial valia 0,30–0,40 €/kg,
+davant 1–1,30 €/kg en fresc; l'article citava Valade, **no Delvert**. El 2026,
+Limdor publicava un rendiment de 43,27 t/ha però un preu net reduït a 0,50 €/kg
+i un ingrés de 21.589 €/ha, 2.276 € menys. La superfície baixà de 548 ha el
+2024 a 516 el 2025 i la renovació fou només del 2,8 %. Soury atribuïa part de
+la pressió al fet que una quarta part de la poma industrial era importada.
+Aquesta recurrència explica interessos compartits entre cooperativa i
+transformadors, sense revelar quin industrial compra quina fruita.
+
+La pista historiogràfica més directa és l'estudi de Jean-Claude Blanchet,
+«Producteurs, conserveurs et expéditeurs de la Basse Corrèze, du XIXe au XXIe
+siècle», *Lemouzi* 232 (2023), p. 39–80. Catàlegs públics i fragments de cerca
+el situen i assenyalen una imatge de Delvert cap a la p. 67, però les 42
+pàgines completes exigeixen registre o consulta física. No se n'ha eludit
+l'accés ni s'ha convertit el fragment en falsa lectura. Fonts, xifres, límits
+i bibliografia derivada són a
+`delvert-production-2026/basse-correze-history/source-note-regional-chain-price-crises-and-bibliography.md`.
+
 El vídeo oficial de producció del **03/06/2026** descriu les 14.000 t com a
 poma de vergers francesos, amb Golden, bicolors i Granny, conservació prop de
 0 °C i transformació en menys de 24 h després d'arribar. La narració segueix
