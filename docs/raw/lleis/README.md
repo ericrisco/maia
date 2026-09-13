@@ -355,7 +355,7 @@ De les **104** normes, **104** han generat fitxa compilada a
 | `seguretat-xarxes.txt` | [andorra-digital](../../temes/societat/mitjans/andorra-digital.md) |
 | `serveis-socials.txt` | [donar-i-ser-ates](../../temes/societat/sanitat/donar-i-ser-ates.md) |
 | `sistema-financer.txt` | [la-supervisio-financera](../../temes/economia/banca-i-fiscalitat/la-supervisio-financera.md) |
-| `societats.txt` | [muntar-alguna-cosa](../../temes/economia/comerc/muntar-alguna-cosa.md) |
+| `societats.txt` | [qui-respon-duna-societat](../../temes/economia/comerc/qui-respon-duna-societat.md) |
 | `supervisio-prudencial.txt` | [la-supervisio-financera](../../temes/economia/banca-i-fiscalitat/la-supervisio-financera.md) |
 | `tinenca-animals.txt` | [la-tinenca-danimals](../../temes/territori/fauna-i-flora/la-tinenca-danimals.md) |
 | `transferencies-comuns.txt` | [els-diners-dels-comuns](../../temes/institucions/comuns-i-parroquies/els-diners-dels-comuns.md) |

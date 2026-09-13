@@ -51,3 +51,4 @@ font primària no consultada. **Buit registrat.**
 - [Muntar alguna cosa](./muntar-alguna-cosa.md) — què cal per obrir una societat o una associació.
 - [Els horaris comercials](./els-horaris-comercials.md) — els quatre dies que s'ha de tancar.
 - [Vigilar i sancionar](./vigilar-i-sancionar.md) — seguretat privada i sancions internacionals.
+- [Qui respon d'una societat](./qui-respon-duna-societat.md) — administradors, responsabilitat i el llibre de beneficiaris efectius.

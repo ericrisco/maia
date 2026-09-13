@@ -87,8 +87,11 @@ La llei d'associacions és **qualificada**: modificar-la demana majoria absoluta
 
 ## Buits registrats
 
-- **Els òrgans i el govern de les societats** (els 114 articles de la Llei
-  20/2007, amb 15 versions) **queden per llegir**.
+- **Els òrgans i el govern de les societats**: la part d'administradors,
+  responsabilitat, pactes parasocials i beneficiaris efectius ja és al corpus a
+  [qui respon d'una societat](./qui-respon-duna-societat.md). **Queden per
+  llegir** la junta general (art. 28-44), el règim del capital (66 i següents) i
+  la dissolució, liquidació, fusió i escissió.
 - **La Llei del comerç** (111 articles): el **títol III** —tipus de venda,
   rebaixes, liquidacions, outlet i venda a distància— ja és al corpus a
   [quan el preu baixa](./quan-el-preu-baixa.md). **Queden sense llegir** el règim
