@@ -1233,6 +1233,29 @@ abans de *Mon Guerlain*. Vídeo, metadades, fotogrames, vint-i-set captures
 HERBASE, fonts comercials, PDF 2022, hashes i nota crítica són al dossier
 `baume-des-anges/carla/`.
 
+La perfumeria aporta una fita encara anterior. **Jersey** de Chanel, llançat
+el 2011, fou presentat el 2014 amb Carla i un reportatge de 2016 atribuí
+expressament l'essència a Baume. Guerlain ja havia emprat Carla de Baume en
+**Mon Exclusif** el 2015; *Mon Guerlain* fou, doncs, globalització d'una cadena
+preexistent, no el seu inici. L'atribució de Carla a **Boy** de Chanel el 2016
+només s'ha trobat en una font de producte i queda marcada com a no corroborada.
+
+El viatge promocional de juliol de 2017 completa la geografia de la campanya:
+Annabelle Fleur descrigué finca Baume, camp presentat com l'únic origen de la
+lavanda d'aquell perfum i instal·lació d'extracció; Palina Kozyrava confirmà el
+mateix grup i els camps, sense identificar la parcel·la. Són testimonis
+presencials d'un acte patrocinat, no una auditoria de lots. El post oficial de
+Guerlain enllaçat per ITEIPMAI, `BcF3K5igOf3`, data tècnicament del 29/11/2017.
+
+La recerca genòmica tanca una falsa pista. Els suplements PLOS i les 30
+corrides públiques de `PRJNA391145` enumeren quinze clons i Grosso, però no
+Carla, Rapido o Saralia: no són el pedigrí de set parentals. HAL només ofereix
+el PDF de l'eix de diversitat, DataCite no enllaça dades associades i les
+cerques exactes a INRAE retornen zero datasets. GENOLAVANDE continuà amb 258
+plantes, més de 3.000 SNP i 189 associacions sobre 151 marcadors, però tampoc
+publica la clau de `CARLA 20/2`.
+[Circuit perfumista i límit genòmic](dreyfus-schmidt/yvonne-kahn/jacques-dreyfus-schmidt/baume-des-anges/carla/carla-circuit-perfumeria-i-dades-genomiques-2009-2026.md).
+
 La recepció de 2017 revela després com aquell material agronòmic es convertí en
 relat. En una entrevista a *Basenotes*, Thierry Wasser atribuïa a Baume la seva
 descoberta de Carla, però la peça confonia la població de *L. angustifolia* amb
