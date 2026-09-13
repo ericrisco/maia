@@ -1338,6 +1338,26 @@ mida dels camions, la mala carretera, el creixement i la modernització
 expliquen el trasllat a Malemort el 1968–1969. Jacques, incorporat després de
 la guerra d'Algèria, hi prengué el relleu de Pierre.
 
+L'escala posterior ja no depèn només de memòria retrospectiva. Un arrêté
+préfectoral del **15/04/2003** autoritzà la continuació, regularització i
+ampliació de SA Delvert a Malemort, després de constatar que operava sense
+l'autorització ICPE exigida. Documenta dues línies, confitures i compotes, amb
+màxims de **210 i 329 t/dia de producte entrant**; 539 t/dia és capacitat
+regulatòria, no producció real. També fixa 620 kW entre refrigeració i
+compressió, 7,8 MW tèrmics, bassa d'efluents de 500 m³, reserva d'incendi de
+1.100 m³ i retenció de 1.200 m³. El salt des dels tallers de Beynat queda així
+materialment provat.
+
+Ràdio TOTEM aporta el tall contemporani de la festa del **14/05/2024**: una
+producció que hauria crescut en cinquanta anys de **1.250 a 25.000 tones**, una
+plantilla de **140 persones**, facturació de **58 M€** davant 40 M€ tres anys
+abans i dotze contractacions previstes per al setembre. El vídeo no llistat
+d'Agromousquetaires mostra recinte, fruita congelada, línies d'acer, envasat i
+visita institucional, però no té subtítols i no se n'ha inferit discurs. La
+commemoració compta des de 1934; en canvi, la fitxa corporativa que situa el
+naixement «a Malemort» el 1934 contradiu Beynat 1935 i el trasllat de
+1968–1969. Es conserva com a discrepància comercial, no com a nova cronologia.
+
 La mateixa font obliga a corregir provisionalment una altra memòria. Les
 versions antigues de Wikipedia atribuïen a la conserverie de Martel una Coupe
 d'Or el 1970. El dossier publica una fotografia de Pierre i Jacques rebent la
@@ -1351,6 +1371,13 @@ fotografies i premsa. L'Assemblée nationale data l'inici del ministeri de
 Charbonnel el 06/07/1972: si la referència al diari del 26 de juny és exacta,
 `ministre` és un títol retrospectiu o una de les dues dates necessita
 correcció. No s'ha afirmat que acudís a la cerimònia en qualitat ministerial.
+
+La referència bibliogràfica `Martel Heart – dépositaire de mémoires –
+septembre 2023` del dossier de Beynat continua sense peça identificada. El
+compte Calaméo `5258520` mostra quatre publicacions de febrer de 2023, i
+Wayback permet recuperar una cinquena peça retirada de maig sobre la Tour de
+Mirandol. Prova que hi hagué contingut retirat, però no autoritza a convertir
+l'absència de la peça de setembre en dades sobre Delvert.
 
 Els censos oficials completen ara el marc domèstic. El del 05/03/1911 (`6 M
 239`, imatge 21) situa a rue Mercière Henri Delvert (1880), xarcuter, Maria
