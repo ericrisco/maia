@@ -189,3 +189,4 @@ benefici mutu**.
 - [La Revolució de 1933](../../historia/segle-xx-primera-meitat/la-revolucio-de-1933.md)
 - [Transformació econòmica](../transformacio-economica/transformacio-economica.md)
 - [Banca i fiscalitat](../banca-i-fiscalitat/banca-i-fiscalitat.md)
+- [Dos pianos i una carretera](../../territori/paisatge-construit/dos-pianos-i-una-carretera.md) — el 1904 ja hi havia sol·licituds de monopoli de força a distància, i un avís escrit contra les concessions llargues.

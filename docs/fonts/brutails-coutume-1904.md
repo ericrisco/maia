@@ -87,6 +87,7 @@ I, als annexos, **extractes del Politar** i la **Instructa als batlles de 1740**
 | El pressupost del Consell General, i l'impost que va fracassar | [L'estrany i el llot](../temes/institucions/consell-general/lestrany-i-el-llot.md) |
 | La comprovació de l'inventari d'importacions de 1895 | [El que Andorra comprava a Espanya](../temes/economia/comerc/el-que-andorra-comprava-a-espanya.md) |
 | La situació de fet d'Espanya, i l'origen de l'escola francesa | [Cap on mirava Andorra](../temes/historia/segle-xix/cap-on-mirava-andorra.md) |
+| Els camins, la primera carretera i l'avís sobre les concessions | [Dos pianos i una carretera](../temes/territori/paisatge-construit/dos-pianos-i-una-carretera.md) |
 | L'oligarquia, les mútues i per què la independència importava | [Per què valia la pena ser andorrà](../temes/societat/vida-civica/per-que-valia-la-pena-ser-andorra.md) |
 
 **I una funció que no s'esperava: aquesta obra fa de tercer testimoni.** La quota

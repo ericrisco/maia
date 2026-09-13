@@ -192,3 +192,4 @@ XVIII**.
 - [El comerç a l'edat moderna](../comerc/el-comerc-a-ledat-moderna.md) — els privilegis que ho feien possible.
 - [La transhumància](./la-transhumancia.md) — el centenar de pastors que baixava cada any.
 - [Les mesures i les monedes](../comerc/les-mesures-i-les-monedes.md) — el 1469 una mula valia 23 quintars de sal, gairebé una tona.
+- [Dos pianos i una carretera](../../territori/paisatge-construit/dos-pianos-i-una-carretera.md) — el 1904 no hi havia transport de roda: la mula era la infraestructura.

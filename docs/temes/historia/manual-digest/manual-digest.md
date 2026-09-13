@@ -158,3 +158,4 @@ transcriure'n les màximes una a una amb la seva referència. **Buit registrat.*
 - [El Politar](./el-politar.md) — que, segons Canturri, deia el mateix.
 - [La consciència nacional andorrana](../../politica/identitat-politica/la-consciencia-nacional-andorrana.md) — 239 anys entre escriure la doctrina i repartir-la.
 - [De lo que pot i no pot](./de-lo-que-pot-i-no-pot.md) — el llibre 3, i on el Politar el contradiu.
+- [Dos pianos i una carretera](../../territori/paisatge-construit/dos-pianos-i-una-carretera.md) — la recomanació de tenir els camins dels ports aspres, i un error de datació de Brutails.

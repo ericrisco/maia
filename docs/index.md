@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**630** documents · **124** fonts · **0** aptes com a model de llengua · **114** temes amb contingut.
+**631** documents · **124** fonts · **0** aptes com a model de llengua · **114** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -1098,6 +1098,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Dos pianos i una carretera](temes/territori/paisatge-construit/dos-pianos-i-una-carretera.md) | `temes/territori/paisatge-construit` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Els castells que no hi ha](temes/territori/paisatge-construit/els-castells-que-no-hi-ha.md) | `temes/territori/paisatge-construit` | compilada | contemporania | no | `rodriguez-rossa-creacio-artistica` |
 | [Paisatge construït](temes/territori/paisatge-construit/paisatge-construit.md) | `temes/territori/paisatge-construit` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 
