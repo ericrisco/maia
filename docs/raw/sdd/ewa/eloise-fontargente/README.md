@@ -1393,9 +1393,11 @@ Una necrològica de 2026 corregeix ja una compressió d'aquell relat: Monique
 Redon Mayeur hi figura com a vídua de Christian Beynet i Jean Redon, amb
 Pierre-Yves Redon entre els fills i Nicole i Jean-Louis Cheyrou entre germans i
 germanes. El fitxer INSEE identifica Christian Albert Beynet (Martel,
-08/11/1936 – Brignoles, 19/05/1973). Era el marit de Monique, mentre la redacció
-de 2014 l'havia anomenat erròniament «primer fill d'Yvonne». La peça reforça la
-cadena familiar Cheyrou–Beynet–Redon, no prova encara qui dirigia l'empresa.
+08/11/1936 – Brignoles, 19/05/1973). La necrològica prova que era el marit de
+Monique; no desmentia, per si sola, que fos també el «primer fill d'Yvonne».
+El matrimoni Delvert–Beynet de 1932 fa ara plausible aquesta filiació, encara
+pendent d'acta. La peça reforça la cadena familiar Cheyrou–Beynet–Redon, no
+prova encara qui dirigia l'empresa.
 
 El *Journal du Lot* del 10/08/1932 aporta una baula contemporània inesperada:
 publica el matrimoni de **Marie-Yvonne-Albertine Delvert**, domiciliada a rue
@@ -1403,16 +1405,23 @@ Mercière, amb **Marcel Beynet**, charcutier originari de Mont-près-Chambord i
 resident a Martel. MatchID/INSEE identifica l'únic homònim amb aquest origen:
 02/05/1911–21/07/2003. La unió precedeix en quatre anys el naixement martelès
 de Christian Albert Beynet i en fa plausible la filiació, però no la certifica.
-Alhora, deixa la fórmula antiga `Yvonne + Alex Cheyrou` oberta a tres lectures:
-segon matrimoni, parentiu confós o compressió de branques. El PDF institucional
-continua rere una barrera de JavaScript; el text s'ha recuperat de l'OCR
-indexat i la resposta HTML s'ha conservat amb l'extensió correcta.
+L'acta de naixement d'Yvonne (`4 E 3961`, acta 17, imatge 9) resol la fórmula
+antiga `Yvonne + Alex Cheyrou`: dues notes marginals fixen els matrimonis a
+Martel amb **Marcel Beynet el 30/07/1932** i amb **Alexandre Cheyrou el
+13/10/1944**. Eren dos marits successius, no dues versions incompatibles del
+mateix gendre. Entre 181 Cheyrou de l'índex INSEE, l'únic amb `Alexandre` entre
+els noms és **Albert Alexandre Cheyrou** (Brive, 1907 – Bergerac, 1976): candidat
+fort, encara no identificació formal perquè l'índex no dona cònjuge. El PDF
+periodístic continua rere una barrera de JavaScript; el
+text s'ha recuperat de l'OCR indexat i la resposta HTML s'ha conservat amb
+l'extensió correcta.
 
 El fitxer INSEE registra, a més, **Christian Albert Beynet** i **Nathalie
 Yvonne Christine Beynet**, de vuit anys, morts tots dos a Brignoles el
-19/05/1973 en els actes consecutius 96 i 97. És una coincidència familiar molt
-forta, però sense premsa o actes complets no se n'ha inferit la causa ni s'ha
-presentat la filiació com a provada.
+19/05/1973 en els actes consecutius 96 i 97. La necrològica de Monique inclou
+Nathalie entre els seus fills; que fos també filla de Christian és molt
+probable, però sense premsa o actes complets no se n'ha inferit la causa ni
+s'ha presentat la filiació paterna com a provada.
 
 La sèrie digital no permet saltar netament a 1936: el filtre oficial només
 retorna **Saint-Denis-lès-Martel** (`6 M 314`), una comuna diferent, i cap
