@@ -155,7 +155,11 @@ als anys 60 i 70, i quin paper hi va tenir Andorra. Vegeu
 
 ## Els noms que aquesta fitxa deixa oberts
 
-**Antoni Bàrcia**, «el doctor Coco» de Viadiu. **Carla Kimhi.** L'escriptor
+**Antoni Bàrcia**, «el doctor Coco» de Viadiu — **i el corpus hi pot afegir
+que el personatge va arribar a la televisió el 2000 amb el mateix sobrenom,
+interpretat per Fermí Reixach**, a
+[Andorra, entre el torb i la Gestapo](./el-torb-i-la-gestapo.md). **Segueix
+sense verificar qui era.** **Carla Kimhi.** L'escriptor
 **César González Ruano**, el paper del qual en el tràfic de refugiats Rosa Sala
 qualifica de **molt dubtós**. El **suposat pas de tres dones de la família
 Rothschild** per les xarxes andorranes, segons **Alberto Poveda**.
@@ -164,6 +168,8 @@ Rothschild** per les xarxes andorranes, segons **Alberto Poveda**.
 
 ## Related
 
+- [Andorra, entre el torb i la Gestapo](./el-torb-i-la-gestapo.md) — la sèrie del
+  2000, i la bibliografia sencera de les rutes d'evasió.
 - [Guerres i neutralitat](./guerres-i-neutralitat.md)
 - [La llegenda negra dels passadors](../historiografia/la-llegenda-negra-dels-passadors.md)
 - [El contraban](../contraban/contraban.md) — l'ofici de base.

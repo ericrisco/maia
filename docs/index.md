@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**703** documents · **152** fonts · **0** aptes com a model de llengua · **121** temes amb contingut.
+**705** documents · **153** fonts · **0** aptes com a model de llengua · **121** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -685,6 +685,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Andorrans als camps nazis](temes/historia/guerres-i-neutralitat/andorrans-als-camps-nazis.md) | `temes/historia/guerres-i-neutralitat` | compilada | contemporania | no | `premsa-andorrana` |
+| [Andorra, entre el torb i la Gestapo](temes/historia/guerres-i-neutralitat/el-torb-i-la-gestapo.md) | `temes/historia/guerres-i-neutralitat` | compilada | contemporania | no | `wikipedia-torb-i-gestapo` |
 | [Els passadors](temes/historia/guerres-i-neutralitat/els-passadors.md) | `temes/historia/guerres-i-neutralitat` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [Guerres i neutralitat](temes/historia/guerres-i-neutralitat/guerres-i-neutralitat.md) | `temes/historia/guerres-i-neutralitat` | compilada | contemporania | no | `viquipedia-ca` |
 
@@ -1154,6 +1155,7 @@
 | [El sindicalisme](temes/societat/treball/el-sindicalisme.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
 | [El Sindicat Andorrà de Treballadors](temes/societat/treball/el-sindicat-andorra-de-treballadors.md) | `temes/societat/treball` | compilada | contemporania | no | `wikipedia-sat-andorra` |
 | [La memòria de FHASA](temes/societat/treball/la-memoria-de-fhasa.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
+| [La prestació que es diu no contributiva](temes/societat/treball/la-prestacio-per-desocupacio.md) | `temes/societat/treball` | compilada | contemporania | no | `bopa-reglament-prestacions-2020` |
 | [L'acomiadament lliure](temes/societat/treball/lacomiadament-lliure.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
 | [L'ajut per desocupació involuntària](temes/societat/treball/lajut-per-desocupacio-involuntaria.md) | `temes/societat/treball` | compilada | contemporania | no | `bopa-ad` |
 | [L'ARA i el SAT](temes/societat/treball/lara-i-el-sat.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
@@ -1466,5 +1468,6 @@
 | [`wikipedia-referendums-andorra`](fonts/wikipedia-referendums-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-religio-andorra`](fonts/wikipedia-religio-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-sat-andorra`](fonts/wikipedia-sat-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-torb-i-gestapo`](fonts/wikipedia-torb-i-gestapo.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-transicio-nacional`](fonts/wikipedia-transicio-nacional.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-vanessa-mendoza`](fonts/wikipedia-vanessa-mendoza.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
