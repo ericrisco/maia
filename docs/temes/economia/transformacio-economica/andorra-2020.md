@@ -112,13 +112,20 @@ Nomen hi posa un cas concret del que entén per capital social perdut:
 > professional** […] **amb el fet que el ciutadà perdi el sentiment de pertinença
 > i deixi de sentir-se responsable de la seguretat del seu país.**»
 
-**El corpus no té cap fitxa del sometent andorrà**, tot i ser una institució
-pròpia: **només l'esmenta de passada en un context català**
-([els descobridors](../../cultura/andorra-vista-de-fora/els-descobridors.md)).
-**Buit registrat, i és gros:** què era el sometent a Andorra, quan va deixar de
-funcionar i què el va substituir. Vegeu
-[la primera policia](../../historia/segle-xx-primera-meitat/la-primera-policia.md)
-i [l'associacionisme històric](../../societat/vida-civica/lassociacionisme-historic.md).
+~~**El corpus no té cap fitxa del sometent andorrà.**~~ **TANCAT — i la font
+queda corregida.**
+
+**El sometent no està diluït.** La **Llei 28/2022, qualificada de protecció
+civil**, el regula amb **capità, deseners, edats (18-60 anys), formació
+obligatòria i assegurança d'accidents**, l'inclou entre **els serveis operatius
+de protecció civil** al costat de la policia i els bombers, i **tipifica com a
+infracció desobeir-ne l'ordre de mobilització**. Vegeu
+[el sometent](../../institucions/comuns-i-parroquies/el-sometent.md).
+
+**El corpus no diu que Nomen s'equivoqués sobre el que li importava** —el seu
+argument era sobre **el sentiment de responsabilitat compartida**, i entre el
+2007 i el 2022 hi ha quinze anys i una llei nova—. **El que corregeix és el
+fet.**
 
 ## La conclusió, i què hi diu del pla
 
@@ -142,7 +149,9 @@ I el judici sobre el salt que caldria:
 1. **El pla estratègic Andorra 2020.** **Prioritari.** El corpus el coneix només
    per aquesta crítica.
 2. **La llei d'inversions estrangeres** que el pla preveia i què se'n va fer.
-3. **El sometent andorrà**: fitxa pendent.
+3. ~~**El sometent andorrà**: fitxa pendent.~~ **TANCAT.** Queda obert **quan
+   deixa de ser policial i passa a protecció civil**: entre l'atestació de
+   Brutails (1904) i la llei del 2022 hi ha una història sense documentar.
 4. **Les projeccions de la CASS** sobre pensions i salut d'aquells anys.
 5. **Si el PIB es va doblar** entre 2007 i 2020, i què va passar el 2008.
 6. **Les obres citades** —Bourdieu, Coleman, Putnam, Fukuyama, Kliksberg— no s'han
@@ -155,4 +164,5 @@ I el judici sobre el salt que caldria:
 - [El comerç a l'edat moderna](../comerc/el-comerc-a-ledat-moderna.md) — el mateix diferencial, tres segles abans.
 - [La confiança](../../societat/vida-civica/la-confianca.md) — el capital social mesurat.
 - [L'associacionisme històric](../../societat/vida-civica/lassociacionisme-historic.md) — el capital social que hi havia.
+- [El sometent](../../institucions/comuns-i-parroquies/el-sometent.md) — la institució que aquesta ponència donava per morta.
 - [El mercat de treball dual](../../societat/immigracio/el-mercat-de-treball-dual.md)

@@ -1,0 +1,137 @@
+---
+type: article
+title: El sometent
+description: "Un economista va dir el 2007 que la figura estava «totalment diluïda». La Llei de protecció civil del 2022 la regula amb capità, deseners i assegurança d'accidents."
+tema: temes/institucions/comuns-i-parroquies
+veu: compilada
+epoca: contemporania
+apte_llengua: false
+font: jurisprudencia-ad
+timestamp: 2026-09-14T02:00:00Z
+tags: [institucions, comuns, emergencies, costum, dret, historia, correccio]
+---
+
+# El sometent
+
+**El corpus no tenia fitxa d'aquesta institució**, tot i ser **una de les poques
+que arriba del costum medieval al dret vigent amb el mateix nom**. Es va obrir
+com a buit ahir mateix, a partir d'una ponència que la donava per morta
+([Andorra 2020](../../economia/transformacio-economica/andorra-2020.md)).
+
+**Es tanca avui, i corregint la font.**
+
+## La correcció
+
+**Eusebi Nomen**, el **2007**, el posava com a exemple de capital social perdut
+([font](../../../fonts/nomen-capital-social-2007.md)):
+
+> «un cas paradigmàtic pot ser el de **la figura del sometent, totalment diluïda
+> en l'actualitat**.»
+
+**No ho està.** La **Llei 28/2022, qualificada de protecció civil**
+([font](../../../fonts/jurisprudencia-ad.md)) **el regula amb nom, estructura,
+edats, formació i assegurança**, i **l'inclou entre els serveis operatius de
+protecció civil** al costat del Cos de Policia, els bombers i els banders.
+
+> **El corpus no diu que Nomen s'equivoqués sobre el que li importava.** El seu
+> argument era sobre **el sentiment de responsabilitat compartida**, no sobre
+> l'existència legal de la figura — i **entre el 2007 i el 2022 hi ha quinze anys
+> i una llei nova**. **El que el corpus corregeix és el fet, no la tesi**: la
+> figura **no estava diluïda del dret**, i **avui hi és amb més detall que mai**.
+
+## Què és, segons la llei vigent
+
+| | |
+| --- | --- |
+| **Qui el forma** | **Persones designades pel Comú de cada parròquia**, entre **els residents inscrits al cens de població** |
+| **Edats** | **Entre 18 i 60 anys** |
+| **Qui fixa els criteris i el nombre** | **Cada comú, per ordinació comunal** |
+| **Comandament** | **Un capità** i **els deseners**, nomenats pel **Consell de Comú** «**si escau i d'acord amb la tradició**», sota la dependència dels **cònsols major i menor** |
+| **Qui el convoca i el mobilitza** | **El comú**, i l'acció la dirigeix **el cònsol** mitjançant el capità |
+| **Formació** | **Obligatòria**, amb **pràctiques i simulacres** fixats per cada comú (article 55) |
+| **Assegurances** | **D'accident**, a càrrec del comú, **i de responsabilitat civil** per danys a tercers |
+
+I la definició de la seva funció, que és la frase que més importa:
+
+> «Els membres del Sometent de cada parròquia **exerceixen les funcions que ha
+> tingut atribuïdes històricament i segons el costum** en l'àmbit de la protecció
+> civil, que consisteixen a **donar suport o coadjuvar, de forma altruista i
+> desinteressada, en les necessitats de socors i ajuda mútua** que puguin
+> esdevenir-se en situacions d'emergència.»
+
+**Una llei del 2022 que defineix una funció remetent al costum.** És exactament el
+mecanisme que el corpus té descrit a
+[les fonts del dret](../../institucions/justicia/les-fonts-del-dret.md): **el
+costum com a font, dins d'una llei qualificada**.
+
+I el nomenament del capità «**si escau i d'acord amb la tradició**» és **una
+clàusula de dret consuetudinari escrita el 2022**.
+
+### I té règim sancionador
+
+Entre les infraccions de la llei hi consta:
+
+> «**Desobeir l'ordre de mobilització impartida als membres del Sometent** […]
+> llevat de causa justificada.»
+
+**Ser cridat al sometent i no anar-hi és una infracció administrativa.** La
+institució no és, doncs, simbòlica: **obliga**.
+
+## El que en queda del costum antic
+
+La funció històrica era **una altra**, i el corpus en té **una atestació del
+1904**. **J.-A. Brutails**, recollint el dret andorrà
+([font](../../../fonts/brutails-coutume-1904.md)), reprodueix el text sobre les
+obligacions dels oficials de justícia, que podien manar la gent amb armes
+
+> «**per los sometents a fi de capturar delinqüents o caçar lladres i malfactors
+> i, en fi, per la guarda i custòdia de presoners i per la seva assistència**.»
+
+**El sometent era, en origen, una crida armada per perseguir delinqüents i
+custodiar presos** — la mateixa funció que descriuen les cel·les de la Casa de la
+Vall i el Tribunal de Corts
+([la presó sense llei](../../institucions/justicia/la-preso-sense-llei.md)).
+
+**El que ha canviat, doncs, no és el nom ni l'estructura: és l'objecte.** De
+**perseguir lladres** a **socórrer en emergències**. La forma —designació pel
+comú, capità, deseners, crida del cònsol— **s'ha conservat**.
+
+> **El corpus no ha traçat el camí entre les dues coses.** **Buit registrat:**
+> **quan i com el sometent passa de policial a protecció civil**, i quina norma
+> ho fa. **Entre el 1904 i el 2022 hi ha una història sencera sense documentar.**
+
+## Per què això importa per al corpus
+
+Perquè **és un contraexemple útil al relat de la tradició perduda**. La branca de
+costums està plena de coses que **s'han acabat**
+([el cas Amades](../../historia/historiografia/el-cas-amades.md),
+[l'associacionisme històric](../../societat/vida-civica/lassociacionisme-historic.md)),
+i aquí n'hi ha una que **no**: **ha canviat de feina i ha continuat**, i **el
+legislador del segle XXI s'hi ha remès explícitament**.
+
+**«Les funcions que ha tingut atribuïdes històricament i segons el costum» és una
+frase de llei vigent**, no d'un llibre de folklore.
+
+## Buits registrats
+
+1. **La història del sometent andorrà entre el segle XIX i el 2022.** Quan deixa
+   de ser policial. **Prioritari.**
+2. **Les ordinacions comunals** que fixen criteris, nombre i renovació: **set
+   parròquies, set normes**, i el corpus no n'ha vist cap.
+3. **Quantes persones el formen** avui, per parròquia.
+4. **Quan s'ha mobilitzat** i per què. **Cap cas documentat al corpus.**
+5. **«Desener»**: el mot, el seu origen i si és viu fora d'aquest context. Vegeu
+   [el lèxic andorrà](../../llengua/lexic-andorra/lexic-andorra.md).
+6. **Si el sometent andorrà i el sometent català** tenen el mateix origen o són
+   institucions paral·leles.
+7. **El text anterior a la Llei 28/2022**: quina norma regulava el sometent
+   abans.
+
+## Related
+
+- [Les set parròquies](./les-set-parroquies.md) — els comuns que el designen.
+- [Les fonts del dret](../../institucions/justicia/les-fonts-del-dret.md) — el costum com a font, i aquí dins una llei del 2022.
+- [Andorra 2020](../../economia/transformacio-economica/andorra-2020.md) — la ponència que el donava per diluït.
+- [La presó sense llei](../../institucions/justicia/la-preso-sense-llei.md) — la funció antiga: custodiar presos.
+- [La primera policia](../../historia/segle-xx-primera-meitat/la-primera-policia.md) — el que el va rellevar en la feina d'ordre.
+- [L'associacionisme històric](../../societat/vida-civica/lassociacionisme-historic.md) — les altres formes d'ajuda mútua andorranes.

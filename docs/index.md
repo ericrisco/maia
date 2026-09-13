@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**470** documents · **120** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
+**526** documents · **120** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -231,6 +231,7 @@
 | [David Albós i Cavaliere](temes/esports/altres-esports/david-albos.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [David Navarro i Brugal](temes/esports/altres-esports/david-navarro.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [David Robert Norwood](temes/esports/altres-esports/david-norwood.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Èric Cervós i Noguer](temes/esports/altres-esports/eric-cervos.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Estefania Sebastian](temes/esports/altres-esports/estefania-sebastian.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Fiona Morrison i Porta](temes/esports/altres-esports/fiona-morrison.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Josep Oms i Pallisé](temes/esports/altres-esports/josep-oms.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
@@ -242,6 +243,7 @@
 | [Melissandre Fuentes](temes/esports/altres-esports/melissandre-fuentes.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Mikel de Sa i Gomes](temes/esports/altres-esports/mikel-de-sa.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Joaquim «Quino» Colom i Barrufet](temes/esports/altres-esports/quino-colom.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Raül García i Paolicchi](temes/esports/altres-esports/raul-garcia-paolicchi.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Tomás Cano](temes/esports/altres-esports/tomas-cano.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Victoria Jiménez Kasintseva](temes/esports/altres-esports/victoria-jimenez-kasintseva.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Xavier «Xavi» Capdevila i Romero](temes/esports/altres-esports/xavier-capdevila.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
@@ -347,24 +349,62 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Aarón Sánchez i Alburquerque](temes/esports/futbol/aaron-sanchez.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Adrián «Adri» Rodrígues i Gonçalves](temes/esports/futbol/adri-rodrigues.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Agustí Pol](temes/esports/futbol/agusti-pol.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Albert Alavedra i Jiménez](temes/esports/futbol/albert-alavedra.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Albert Reyes i Roig](temes/esports/futbol/albert-reyes.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Albert «Berto» Rosas i Ubach](temes/esports/futbol/albert-rosas.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Aleix Viladot i Caramés](temes/esports/futbol/aleix-viladot.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Alexandre «Àlex» Martínez i Palau](temes/esports/futbol/alex-martinez.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Àlex Rodríguez](temes/esports/futbol/alex-rodriguez.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Alexandre «Álex» Ruiz i Campagne](temes/esports/futbol/alex-ruiz.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Alexandre «Álex» Somoza i Losada](temes/esports/futbol/alex-somoza.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Alexandre Rubén Martínez i Gutiérrez](temes/esports/futbol/alexandre-martinez.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Alfonso Sánchez](temes/esports/futbol/alfonso-sanchez.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Andreu Matos i Muñoz](temes/esports/futbol/andreu-matos.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Ángel Martín](temes/esports/futbol/angel-martin.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Antoni Giribet i Fiter](temes/esports/futbol/antoni-giribet.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Antoni «Toni» Lima i Solà](temes/esports/futbol/antoni-lima.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Antoni Sivera](temes/esports/futbol/antoni-sivera.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Aron Rodrigo i Tapia](temes/esports/futbol/aron-rodrigo.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Biel Borra i Font](temes/esports/futbol/biel-borra.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Carlos Eduardo «Edu» Peppe i Britos](temes/esports/futbol/carlos-peppe.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Christian García i González](temes/esports/futbol/christian-garcia.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Cristian Martínez i Alejo](temes/esports/futbol/cristian-martinez.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Cristian Roig i Mauri](temes/esports/futbol/cristian-roig.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Adrián «Dacu» Da Cunha i Costa Gomes](temes/esports/futbol/dacu.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Daniel «Dani» Ferrón i Pérez](temes/esports/futbol/dani-ferron.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Daniel Mejías i Hurtado](temes/esports/futbol/daniel-mejias.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [David Buxó](temes/esports/futbol/david-buxo.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [David Maneiro](temes/esports/futbol/david-maneiro.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Diego Alejandro Nájera i Quintero](temes/esports/futbol/diego-najera.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Emili Josep García i Miramontes](temes/esports/futbol/emili-garcia.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Emiliano González i Arqués](temes/esports/futbol/emiliano-gonzalez.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Èric de las Heras i Izquierdo](temes/esports/futbol/eric-de-las-heras.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Èric de Pablos i Solà](temes/esports/futbol/eric-de-pablos.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Èric Vales i Ramos](temes/esports/futbol/eric-vales.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Fernando José Silva i García](temes/esports/futbol/fernando-silva.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Ferran Pol i Pérez](temes/esports/futbol/ferran-pol.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Francesc Ramírez](temes/esports/futbol/francesc-ramirez.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Gabriel «Gabi» Riera i Lancha](temes/esports/futbol/gabi-riera.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Genís García i Iscla](temes/esports/futbol/genis-garcia.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Guillaume Silvain López](temes/esports/futbol/guillaume-lopez.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Ian Bryan Olivera i de Oliveira](temes/esports/futbol/ian-olivera.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Iker Álvarez de Eulate i Molné](temes/esports/futbol/iker-alvarez.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Ildefons Lima i Solà](temes/esports/futbol/ildefons-lima.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Iván Lorenzo i Roncero](temes/esports/futbol/ivan-lorenzo.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Iván Rodríguez i Martos](temes/esports/futbol/ivan-rodriguez.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Izan Fernández i Vieitez](temes/esports/futbol/izan-fernandez.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Jesús Julián Lucendo i Heredia](temes/esports/futbol/jesus-lucendo.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Jesús «Txus» Rubio i Gómez](temes/esports/futbol/jesus-rubio.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Joan Cervós i Moro](temes/esports/futbol/joan-cervos.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Joan Carles Toscano i Beltrán](temes/esports/futbol/joan-toscano.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [João Pedro da Silva Teixeira](temes/esports/futbol/joao-teixeira.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Joaquim Salvat i Besora](temes/esports/futbol/joaquim-besora.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Joel Guillén i García](temes/esports/futbol/joel-guillen.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Francisc Joel Martínez i Vilar](temes/esports/futbol/joel-martinez.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Jordi Aláez i Peña](temes/esports/futbol/jordi-alaez.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Jordi Benet](temes/esports/futbol/jordi-benet.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Jordi Escura i Aixàs](temes/esports/futbol/jordi-escura.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Jordi Rubio i Gómez](temes/esports/futbol/jordi-rubio.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Josep Manel Ayala i Díaz](temes/esports/futbol/josep-ayala.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
@@ -372,11 +412,16 @@
 | [Julià «Juli» Fernàndez i Ariza](temes/esports/futbol/juli-fernandez.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Julià «Juli» Sánchez i Soto](temes/esports/futbol/juli-sanchez.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Justo Ruiz i González](temes/esports/futbol/justo-ruiz.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Francisco «Kiko» Pomares i Ortega](temes/esports/futbol/kiko-pomares.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Koldo Álvarez de Eulate i Güergue](temes/esports/futbol/koldo-alvarez.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [La selecció](temes/esports/futbol/la-seleccio.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Leonel Alves](temes/esports/futbol/leonel-alves.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Ludovic Clemente i Garcés](temes/esports/futbol/ludovic-clemente.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Luigi San Nicolás i Schellens](temes/esports/futbol/luigi-san-nicolas.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Luis Blanco](temes/esports/futbol/luis-blanco.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Manuel «Manolo» Jiménez i Soria](temes/esports/futbol/manolo-jimenez.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Marc Bernaus i Cano](temes/esports/futbol/marc-bernaus.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Marc Ferré i Nazzaro](temes/esports/futbol/marc-ferre.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Marc García i Renom](temes/esports/futbol/marc-garcia.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Marc Pujol i Pons](temes/esports/futbol/marc-pujol.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Marc Rebés i Ruiz](temes/esports/futbol/marc-rebes.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
@@ -385,12 +430,22 @@
 | [Max Llovera i González-Adrio](temes/esports/futbol/max-llovera.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Moisés San Nicolás i Schellens](temes/esports/futbol/moises-san-nicolas.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Óscar Sonejee i Masand](temes/esports/futbol/oscar-sonejee.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Pau Klaus Babot i Müller](temes/esports/futbol/pau-babot.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Ricard «Cucu» Fernández i Betriu](temes/esports/futbol/ricard-fernandez.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Richard Imbernón i Ríos](temes/esports/futbol/richard-imbernon.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Roberto Jonas i Alonso](temes/esports/futbol/roberto-jonas.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Samir Bousenine](temes/esports/futbol/samir-bousenine.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Sebastián Gómez i Pérez](temes/esports/futbol/sebastian-gomez.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Sergi Moreno i Marín](temes/esports/futbol/sergi-moreno.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [José Manuel «Txema» García i Luena](temes/esports/futbol/txema-garcia.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Víctor Bernat i Cuadros](temes/esports/futbol/victor-bernat.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Víctor Hugo Moreira i Teixeira](temes/esports/futbol/victor-moreira.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Víctor Rodríguez i Soria](temes/esports/futbol/victor-rodriguez.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Javier «Xavi» Andorrà i Julià](temes/esports/futbol/xavi-andorra.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Francesc Xavier Gil i Sánchez](temes/esports/futbol/xavier-gil.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Xavier Soria](temes/esports/futbol/xavier-soria.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Xavier Vieira i de Vasconcelos](temes/esports/futbol/xavier-vieira.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Francisco Manuel «Xisco» Pires i Costa](temes/esports/futbol/xisco-pires.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 
 ## temes/gastronomia/begudes
 
@@ -557,6 +612,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El sometent](temes/institucions/comuns-i-parroquies/el-sometent.md) | `temes/institucions/comuns-i-parroquies` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La taba i el mostassà](temes/institucions/comuns-i-parroquies/la-taba-i-el-mostassa.md) | `temes/institucions/comuns-i-parroquies` | compilada | contemporania | no | `lacueva-hoteleria` |
 | [Les set parròquies i els seus comuns](temes/institucions/comuns-i-parroquies/les-set-parroquies.md) | `temes/institucions/comuns-i-parroquies` | compilada | contemporania | no | `consell-general-web` |
 
