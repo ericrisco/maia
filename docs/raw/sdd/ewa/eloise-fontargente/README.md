@@ -1407,6 +1407,61 @@ la pressió al fet que una quarta part de la poma industrial era importada.
 Aquesta recurrència explica interessos compartits entre cooperativa i
 transformadors, sense revelar quin industrial compra quina fruita.
 
+Una tesi doctoral de Pauline Marty permet ara estirar la cadena fins a finals
+del segle XIX i, per primer cop, ancorar-hi **Delvert** en una font arxivística
+precisa. A finals del XIX, el Bas-Pays de Brive superava les 12.000 ha de vinya;
+la fil·loxera i el ferrocarril afavoriren des de 1880 el gir cap a fruita i
+primers productes hortícoles. Cap a 1890, Objat expedia més de 450 t de pèsol
+primerenc i la regió 5.000 t de fruita i verdura; Brive tenia una dotzena de
+conserveres el 1895. El 1964, la cadena reunia unes 80 empreses i més de 800
+llocs de treball —31 expedidors, 24 corredors, 16 conserveres o confiteres i
+dues cambres frigorífiques privades—. Aquest és el teixit històric del qual
+sorgiren les concentracions posteriors.
+
+La p. impresa 286 de Marty situa als anys setanta DIEPAL i Coudert a Brive i
+**Delvert a Malemort** entre les principals sortides conserveres de la producció
+hortícola local, i remet a la deliberació municipal de Brive del **22/04/1981,
+`1D231`**. És la pista primària més exacta trobada fins ara. Però les xifres que
+segueixen —3.200 t locals sobre 11.000 t anuals— corresponen només a DIEPAL;
+unes 200 de les 4.000 explotacions de la conca participaven en el sistema. La
+tesi diu també que només DIEPAL practicava integració contractual: això fa que
+Delvert no hi aparegui com a integrador, però no prova que mai signés cap
+contracte. La deliberació de 1981 no sembla digitalitzada i queda pendent de
+consulta als Archives municipales de Brive.
+
+La mateixa tesi reconstrueix la mutació de l'expedició en cooperació de gran
+escala. La casa Chauffaille d'Objat construí 8.000 t de fred el 1968; després
+d'una tempesta formà un GIE amb una trentena de proveïdors, convertit en
+**Perlim el 1974**. El 1990 Perlim havia passat de 200 a 800 productors,
+comercialitzava més de 80.000 t i n'exportava el 60 %. Als anys setanta i
+vuitanta, la competència, la successió familiar, la concentració i la gran
+distribució feren desaparèixer o especialitzar moltes cases; els supervivents
+ampliaren molt els orígens de compra. La proximitat regional mai no equivalgué
+a un circuit tancat.
+
+Tres vídeos de Limdor documenten aquesta mateixa tensió entre territori i
+continuïtat comercial. El film corporatiu de 2011 declarava 80 productors,
+500 ha, 15.000 t condicionades, 90 persones a l'estació i 1.200 temporers
+diaris en collita, amb traçabilitat per productor, parcel·la, data i
+recol·lector. El 2020 France 3 mostrà Limdor comercialitzant Golden ecològica
+**d'Àustria** per cobrir el buit de juny-juliol, mentre 70 ha locals entraven en
+conversió. Això prova aprovisionament exterior sota la **marca Limdor**, no que
+la fruita fos venuda com a AOP ni cap frau. Un pòdcast AOP de 2025 data la
+primera petició el desembre de 1992 i el sindicat de defensa el desembre de
+1994, i descriu controls externs de sucre, acidesa i fermesa. Les peces
+promocionals simplifiquen la cronologia com «AOP/AOC 2005», davant AOC 2004 i
+AOP 2007; la discrepància queda oberta.
+
+La forma comercial també canvià. Cooplim signà amb Limdor el 2017 després de
+sortir de Perlim; la societat majorista creada l'01/09/2017 és avui **LIMDOR &
+CASTANG**, SIREN `832 463 822`. El 2021 Limdor i Sica Castang anunciaren una SAS
+comuna al 50 % que comercialitzaria tots dos volums i el de Cooplim: 65.000 t
+de pomes, uns 170 productors i almenys 70 M€ estimats, amb Castang aportant
+varietats primerenques i Limdor Golden conservable. Cooperativa, soci, marca,
+societat comercial, AOP i origen físic són, doncs, nivells diferents. Dossier
+crític, tesi completa, subtítols, metadades, registre oficial, renders i límits
+d'accés són a `basse-correze-history/`.
+
 La pista historiogràfica més directa és l'estudi de Jean-Claude Blanchet,
 «Producteurs, conserveurs et expéditeurs de la Basse Corrèze, du XIXe au XXIe
 siècle», *Lemouzi* 232 (2023), p. 39–80. Catàlegs públics i fragments de cerca
