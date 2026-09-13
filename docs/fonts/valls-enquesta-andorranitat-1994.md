@@ -74,12 +74,13 @@ aparell acadèmic**. És un registre que el corpus no té enlloc més.
 | Àrea | Fitxa |
 | --- | --- |
 | El mètode, la síntesi i el que hi diuen | [L'enquesta de 1994](../temes/politica/identitat-politica/lenquesta-de-1994.md) |
+| Les respostes originals, amb nom | [Les respostes de 1994](../temes/politica/identitat-politica/les-respostes-de-1994.md) |
 | Les Concòrdies de 1162 i 1176 | [L'armari de les Set Claus](../temes/institucions/patrimoni-institucional/larmari-de-les-set-claus.md) |
 
 ## Avís de lectura
 
-**Les trenta-sis pàgines de respostes no estan buidades.** El corpus n'ha
-treballat **la metodologia, la síntesi de l'enquestador i dues respostes**
-(Peruga i Anglada). **Les altres vint segueixen sense llegir**, i cadascuna és
-un text signat d'una persona identificada sobre la identitat andorrana el 1994.
-**Buit registrat i gran.**
+**Les trenta-sis pàgines de respostes estan buidades a mitges.** El corpus n'ha
+treballat **la metodologia, la síntesi de l'enquestador i nou respostes**
+—Anglada, Arana, Bascompte, Benet, Betriu, Forné, Peruga, Reig i Riba—.
+**En queden catorze sense llegir**, i cadascuna és un text signat d'una persona
+identificada sobre la identitat andorrana el 1994. **Buit registrat.**

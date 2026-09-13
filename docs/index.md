@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**352** documents · **107** fonts · **0** aptes com a model de llengua · **109** temes amb contingut.
+**353** documents · **107** fonts · **0** aptes com a model de llengua · **109** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -630,6 +630,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [La consciència nacional andorrana](temes/politica/identitat-politica/la-consciencia-nacional-andorrana.md) | `temes/politica/identitat-politica` | compilada | contemporania | no | `pol-consciencia-nacional` |
 | [L'enquesta de 1994](temes/politica/identitat-politica/lenquesta-de-1994.md) | `temes/politica/identitat-politica` | compilada | contemporania | no | `valls-enquesta-andorranitat-1994` |
+| [Les respostes de 1994](temes/politica/identitat-politica/les-respostes-de-1994.md) | `temes/politica/identitat-politica` | compilada | contemporania | no | `valls-enquesta-andorranitat-1994` |
 
 ## temes/politica/parlamentarisme
 

@@ -58,6 +58,14 @@ Andorra —això ja ho feia la Formació Andorrana des del 1972
 | Any | Nivell | Detall |
 | --- | --- | --- |
 | **1982** | **Educació maternal** | **Maternal A** (2 anys i mig - 3) i **Maternal B** (4-5) |
+
+> **Dues xifres de fora del sistema educatiu, i val la pena tenir-les.**
+> **Manuel Anglada**, responent una enquesta d'identitat el 1994
+> ([font](../../../fonts/valls-enquesta-andorranitat-1994.md)), resumeix
+> l'Escola Andorrana així: **«1983, 30 alumnes - 1994, 1.000 alumnes»**.
+> **De trenta a mil en onze anys.** No és font educativa —és un lingüista fent
+> un incís— i el corpus **no la substitueix per les dades del Ministeri**, però
+> **dona l'ordre de magnitud del primer decenni**, que aquesta fitxa no tenia.
 | **1985** | **Primera ensenyança** (6-12) | tres cicles: **6-8, 8-10, 10-12**. El Govern «canalitza aquestes demandes» i **aprova la continuïtat de l'escola** |
 | **1990** | **Segona ensenyança** (12-16) | quatre cursos, dos cicles: **12-14 i 14-16**. **Es clou l'ensenyament obligatori** |
 | **1995** | **Batxillerat** (16-18) | tres branques: **cientificotecnològica, humanisticolingüística, economicosocial** |

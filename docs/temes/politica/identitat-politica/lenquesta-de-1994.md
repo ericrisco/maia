@@ -177,9 +177,10 @@ hi arriba trenta-dos anys després i **no ha trobat cap enquesta posterior**.
 
 ## Buits registrats
 
-1. **Les vint respostes no llegides.** El corpus n'ha treballat **dues** —Peruga
-   i Anglada— de **vint-i-dues**. Cadascuna és un text signat sobre la identitat
-   andorrana el 1994. **Buit gran i completament tancable.**
+1. ~~**Les vint respostes no llegides.**~~ **PARCIALMENT TANCAT**: se n'han
+   treballat **vuit** —Anglada, Arana, Bascompte, Benet, Betriu, Forné, Reig i
+   Riba, més Peruga— a [les respostes de 1994](./les-respostes-de-1994.md).
+   **En queden catorze.**
 2. **De qui és la frase «Andorra és un Estat, però no una nació».**
 3. **Qui eren els seixanta.** Valls diu que **els qui no van respondre queden
    «forçosament en l'anonimat»**: la llista d'enviaments no es publica.
@@ -197,3 +198,4 @@ hi arriba trenta-dos anys després i **no ha trobat cap enquesta posterior**.
 - [Els andorrans de primera generació](../../institucions/nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md) — la definició legal, contra la sentimental.
 - [La tria de llengua](../../vida-quotidiana/convencions-socials/la-tria-de-llengua.md) — la prudència andorrana, mesurada.
 - [Els vint-i-sis punts](../../llengua/dialectologia/els-vint-i-sis-punts.md) — la similitud que és pirinenca abans que catalana.
+- [Les respostes de 1994](./les-respostes-de-1994.md) — els originals, amb nom.

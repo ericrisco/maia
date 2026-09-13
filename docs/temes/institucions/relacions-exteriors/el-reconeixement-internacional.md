@@ -162,11 +162,21 @@ romana»**. **Cap decisió no és vàlida si no la prenen tots dos.**
 - **P. Raton**, *Le statut international de la Principauté d'Andorre*, Govern
   d'Andorra.
 - **Marc Maresceau (2008)**, p. 275 i el seu context.
-- **L'entrada d'Andorra a l'ONU** el 1993: data exacta, procés, qui la va
-  apadrinar.
+- **L'entrada d'Andorra a l'ONU** el 1993: **data exacta**, procés, qui la va
+  apadrinar. **Primer indici, i s'ha de llegir amb cura**: **Julià Reig**,
+  exsíndic, escriu el 1994 que **el cap de Govern va parlar davant l'assemblea
+  de les Nacions Unides el 28 de juliol de 1993**
+  ([font](../../../fonts/valls-enquesta-andorranitat-1994.md)). **Això data el
+  discurs, no l'acte d'admissió**, i el corpus **no els confon**.
 - **Les altres organitzacions internacionals** de què Andorra és membre o
-  observador.
-- **Com veien els andorrans aquella doctrina francesa** entre 1971 i 1993.
+  observador. **La mateixa font n'afegeix una**: **Andorra hi consta com a
+  membre de ple dret de la UNESCO** el 1994. **Sense any d'ingrés.**
+- ~~**Com veien els andorrans aquella doctrina francesa** entre 1971 i 1993.~~
+  **Obert encara per als anys de vigència, però ja hi ha la mirada del dia
+  després**: per a Reig, l'Estat i el reconeixement «**han estat els somnis de
+  les més velles generacions de polítics andorrans**», i el que en ve és que
+  Andorra «**surti del seu tradicional aïllament**». Vegeu
+  [les respostes de 1994](../../politica/identitat-politica/les-respostes-de-1994.md).
 
 ## Related
 
