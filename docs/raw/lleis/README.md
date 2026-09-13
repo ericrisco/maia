@@ -50,7 +50,23 @@ s'aplica i s'al·lega. En queden fora:
 
 **Buit registrat:** `inversio-estrangera` —la Llei d'inversió estrangera, que
 la font marca amb **vigència no confirmada**— **no s'ha pogut baixar**: la
-pàgina retorna **error 500**. És l'única de les 105 que falta.
+pàgina retorna **error 500**. És l'única de les 105 que falta. **Re-comprovat el
+2026-09-13**: l'índex la segueix enllaçant, la pàgina segueix donant 500 i una
+llei de control (`codi-duana`) respon 200. El buit continua obert i **no depèn
+de l'extractor**.
+
+### Lleis que aquest recull cita i no conté
+
+Seguint les referències internes de les lleis mateixes, la font **no publica**:
+
+| Llei | Qui la cita | Per a què |
+| --- | --- | --- |
+| **Llei qualificada del Cos de Policia** | Llei de seguretat pública, art. 3.3 | Defineix el cos que executa tota la llei de seguretat |
+| **Llei 25/2004, de residus** | Llei d'economia circular, art. 3 i 8.5 | La d'economia circular **en pren les definicions** i hi integra el Pla nacional de residus |
+| **La llei de la prestació per desocupació involuntària** | Llei de seguretat social, art. 224 bis | La prestació existeix i està nomenada; la norma que la regula no hi és |
+
+Això **no vol dir que aquestes lleis no existeixin**: vol dir que **no són a la
+font**. La diferència és tota la diferència, i és per això que consta escrit.
 
 ## L'índex
 
