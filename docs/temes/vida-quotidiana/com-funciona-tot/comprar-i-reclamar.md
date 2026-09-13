@@ -112,6 +112,15 @@ importa: la creença que sempre es pot tornar el que s'ha comprat no es recolza 
 aquest article. I l'article 35 remet expressament les **modalitats especials de
 venda** a altres lleis.
 
+**On sí que hi és.** La remissió de l'article 35 no era retòrica: **la Llei del
+comerç (12/2013) crea un dret de desistiment real per a la venda a distància**
+—**set dies hàbils**, i **tres mesos** si el venedor no compleix el seu deure
+d'informació, sense formalitat, sense motiu i sense penalització (articles 56-58).
+Està explicat a
+[quan el preu baixa](../../economia/comerc/quan-el-preu-baixa.md). Per a la
+compra presencial, en canvi, **el dret de devolució depèn del que ofereixi el
+comerç**: és la garantia legal —no el desistiment— el que empara el comprador.
+
 ## Danys: on la responsabilitat és automàtica
 
 L'article 33 dona dret a indemnització pels danys demostrats —**dany emergent,

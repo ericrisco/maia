@@ -89,8 +89,11 @@ La llei d'associacions és **qualificada**: modificar-la demana majoria absoluta
 
 - **Els òrgans i el govern de les societats** (els 114 articles de la Llei
   20/2007, amb 15 versions) **queden per llegir**.
-- **La Llei del comerç** (111 articles): tipus de venda, rebaixes, vendes
-  especials i règim del Registre de Comerç i Indústria, **sense llegir**.
+- **La Llei del comerç** (111 articles): el **títol III** —tipus de venda,
+  rebaixes, liquidacions, outlet i venda a distància— ja és al corpus a
+  [quan el preu baixa](./quan-el-preu-baixa.md). **Queden sense llegir** el règim
+  dels **grans establiments**, el **procediment d'obertura** i el **quadre de
+  sancions**.
 - **La comptabilitat dels empresaris** (48 articles) només s'ha identificat.
 - **La competència efectiva i protecció del consumidor** (58 articles): el seu
   **títol IV**, el que dona drets a qui compra, ja és al corpus a
