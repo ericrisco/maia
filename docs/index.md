@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**693** documents · **142** fonts · **0** aptes com a model de llengua · **120** temes amb contingut.
+**696** documents · **143** fonts · **0** aptes com a model de llengua · **120** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -26,6 +26,7 @@
 | [El contrapàs](temes/costums/danses/el-contrapas.md) | `temes/costums/danses` | compilada | contemporania | no | `premsa-andorrana` |
 | [Els catorze balls](temes/costums/danses/els-catorze-balls.md) | `temes/costums/danses` | compilada | contemporania | no | `canturri-costumari-amades-1994` |
 | [La marratxa](temes/costums/danses/la-marratxa.md) | `temes/costums/danses` | compilada | contemporania | no | `viquipedia-ca` |
+| [Les festes de l'ossa](temes/costums/danses/les-festes-de-lossa.md) | `temes/costums/danses` | compilada | contemporania | no | `wikipedia-llegendes-andorra` |
 
 ## temes/costums/falles
 
@@ -132,6 +133,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [El buner d'Ordino](temes/cultura/llegendes/el-buner-dordino.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `llegendes-dandorra-llibre` |
 | [El llac d'Engolasters](temes/cultura/llegendes/el-llac-dengolasters.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `llegendes-dandorra-llibre` |
+| [El minairó](temes/cultura/llegendes/el-minairo.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `wikipedia-llegendes-andorra` |
 | [El Roc de les Bruixes](temes/cultura/llegendes/el-roc-de-les-bruixes.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `viquipedia-ca` |
 | [La bruixa de Sornàs](temes/cultura/llegendes/la-bruixa-de-sornas.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `viquipedia-ca` |
 | [La troballa de Meritxell](temes/cultura/llegendes/la-troballa-de-meritxell.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `premsa-andorrana` |
@@ -815,6 +817,7 @@
 | [Les penes del Codi Penal](temes/institucions/justicia/les-penes-del-codi-penal.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [L'execució forçosa](temes/institucions/justicia/lexecucio-forcosa.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [L'ordenament jurídic avui](temes/institucions/justicia/lordenament-juridic-avui.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [«Mort, qui t'ha mort?»](temes/institucions/justicia/mort-qui-tha-mort.md) | `temes/institucions/justicia` | compilada | contemporania | no | `wikipedia-llegendes-andorra` |
 | [Quants notaris](temes/institucions/justicia/quants-notaris.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Qui nomena els jutges](temes/institucions/justicia/qui-nomena-els-jutges.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Resoldre sense judici](temes/institucions/justicia/resoldre-sense-judici.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
@@ -1437,6 +1440,7 @@
 | [`wikipedia-estacions-esqui-andorra`](fonts/wikipedia-estacions-esqui-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-futbol-femeni-andorra`](fonts/wikipedia-futbol-femeni-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-jocs-andorra`](fonts/wikipedia-jocs-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-llegendes-andorra`](fonts/wikipedia-llegendes-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-museus-andorra`](fonts/wikipedia-museus-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-pena-de-mort-andorra`](fonts/wikipedia-pena-de-mort-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-politica-andorra`](fonts/wikipedia-politica-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

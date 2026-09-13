@@ -1,0 +1,23 @@
+{{Infotaula personatge}}
+'''El buner d'Ordino''' és una [[llegenda]] popular [[Andorra|andorrana]] sobre un buner que se salva dels [[llop]]s enfilant-se dalt d'un arbre i fent sonar la buna o [[sac de gemecs]].<ref>{{Ref-llibre|títol=Diccionari enciclopèdic d'Andorra|url=https://www.worldcat.org/oclc/804435166|editorial=[[Creand|Fundació Crèdit Andorrà]]|data=2006|lloc=Andorra la Vella|isbn=978-99920-1-629-9|enllaçautor=Àlvar Valls i Oliva|nom=Àlvar |cognom=Valls Oliva|pàgines=85}}</ref>
+
+== Llegenda ==
+[[Fitxer:Sac de gemecs, fons del Museu de la Música de Barcelona.jpg|miniatura|esquerra|Buna o sac de gemecs al [[Museu de la Música de Barcelona]] ]]
+La llegenda explica que, un any, la gent de [[Canillo]] va decidir contractar el buner d'Ordino perquè amenitzés el ball de festa major. El buner, per no fer tard, havia sortit ben d'hora d'[[Ordino]], però a l'hora del ball encara no havia arribat. Resulta que, a mig camí, es va trobar una bandada de llops a la zona del [[coll d'Ordino]]. Espantat, va arrencar a córrer, però veient que els llops l'atraparien es va enfilar dalt d'un pi. Mentre pujava, la buna se li va quedar atrapada entre les branques, i quan el buner la va intentar alliberar, amb la pressió en va sortir un so tan aterridor que les bèsties van arrencar a córrer. Així, el buner va poder salvar-se i arribar sa i estalvi al poble.<ref>{{ref-llibre|enllaçautor=Àlvar Valls i Oliva|nom=Àlvar |cognom=Valls Oliva|nom2=Núria |cognom2=Carol i Romàn|títol=Llegendes d'Andorra |pàgines=95-|editorial=[[Publicacions de l'Abadia de Montserrat]]|data=15 de novembre de 2010|isbn=978-84-9883-340-9 |url=http://books.google.cat/books?id=grNP6uNi7OcC&pg=PA95}}</ref>
+
+Depenent de la versió de la llegenda, un grup de recerca troba l'endemà el buner, que havia seguit tocant la buna per mantenir els llops allunyats; o bé, arriba pel seu compte a Canillo tocant la buna durant tot el camí.<ref>{{Ref-web|url = http://diariandorra.ad/index.php?option=com_k2&view=item&id=5408|nom=Ricard |cognom=Poy|editor = [[Diari d'Andorra]]|títol=El Consell General tombarà la congelació de transferències|consulta = 19/11/2014|arxiuurl = https://web.archive.org/web/20170113061325/http://www.diariandorra.ad/index.php?option=com_k2&view=item&id=5408|arxiudata = 2017-01-13}}</ref><ref>{{Ref-web|url = http://www.pirineo.com/especial-pirineo/viejas-valiosas-leyendas-populares-leyendas-pirineo-andorrano|títol=Viejas y valiosas leyendas populares: Leyendas del Pirineo andorrano|editor = Infopirineo|consulta = 19/11/2014|llengua = castellà|arxiuurl = https://web.archive.org/web/20170907074332/http://www.pirineo.com/especial-pirineo/viejas-valiosas-leyendas-populares-leyendas-pirineo-andorrano|arxiudata = 2017-09-07}}</ref><ref>{{Ref-web|url = http://www.ordino.ad/estiu/ordino/festes_tradicions/buner.aspx|editor = Turisme d'Ordino|títol=El buner d'Ordino|consulta = 19/11/2014|arxiuurl = https://web.archive.org/web/20141129035217/http://www.ordino.ad/estiu/ordino/festes_tradicions/buner.aspx|arxiudata = 2014-11-29}}</ref>
+
+== Representacions ==
+Al setembre de l'any 2002, el servei postal francès, [[La Poste]], va editar un segell commemoratiu sobre aquesta llegenda.<ref>{{ref-web|url=http://www.joll.co.nz/newissues/NIAndorr.html|obra=joll.co.nz|llengua=en|data=gener 2003|títol=Worldwide Stamp New Issues - Andorra.}}</ref> El 2012, la companyia de dansa ''L'Esbart de les Valls del Nord'' va realitzar un ball basat en la llegenda a l'[[Auditori Nacional d'Andorra]].<ref>{{Ref-web|url = http://www.bondia.ad/cultura/lesbart-de-les-valls-del-nord-estrena-la-llegenda-del-buner|editor = Bondia|títol=L’Esbart de les Valls del Nord estrena la llegenda del buner|data=14/06/2012 |consulta = 19/11/14|arxiuurl = https://web.archive.org/web/20160416190139/http://www.bondia.ad/cultura/lesbart-de-les-valls-del-nord-estrena-la-llegenda-del-buner|arxiudata = 2016-04-16}}</ref>
+
+== Referències ==
+{{Referències}}
+
+{{Mitologia catalana}}
+
+{{ORDENA:Buner}}
+[[Categoria:Cornamuses]]
+[[Categoria:Cultura d'Andorra]]
+[[Categoria:Personatges llegendaris catalans]]
+[[Categoria:Ordino]]
+[[Categoria:Canillo]]

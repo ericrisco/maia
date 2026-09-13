@@ -53,9 +53,41 @@ amb [la Passa](../ritus-de-pas/la-passa.md) i el [ball del Cerdà](./el-ball-del
 
 ## El que falta
 
-La coreografia, la música, el vestuari, i sobretot el rastre documental: quan es
-documenta per primera vegada aquesta dansa, i des de quan se li atribueix
-l'origen del 1278. L'Esbart Laurèdia la té al repertori i és font a consultar.
+~~La coreografia, la música, el vestuari~~ — **parcialment tancat el
+2026-09-13**, amb
+[la Viquipèdia en català](../../../fonts/wikipedia-llegendes-andorra.md):
+
+**El nom.** **«Marratxa» —o morratxa, o almorratxa— és un recipient d'aigua amb
+perfum que, en els orígens de la dansa, els balladors duien a la mà.** **A
+Catalunya n'hi ha diverses versions, d'origen aràbic.**
+
+**Qui hi balla i què representa.** **Dos dansaires, un de casat i un de solter,
+amb barret de copa alta engalanat amb cintes dels colors de la bandera
+andorrana.** **Representen els dos coprínceps.** **Ballen amb tres noies, que
+simbolitzen les sis antigues parròquies.**
+
+> **Dos homes i tres dones: dos prínceps i sis parròquies.** **El corpus
+> registra que la simbologia és aritmèticament estranya —tres noies per a sis
+> parròquies— i que la font no ho explica.**
+
+**I la coreografia actual té data i autor, cosa que canvia la lectura de la
+dansa:**
+
+| Qui | Què |
+| --- | --- |
+| **Ricard Mas** | **Dansaire del ball durant més de vint anys**, «preocupat per conservar els passos i la música» |
+| **Daniel Areny**, compositor | **Als anys seixanta, va recollir de la memòria de Ricard Mas totes les variacions de la tonada** |
+| **Isidre Marbà**, mestre | **Les va harmonitzar i en va crear una coreografia** |
+| **Esbart Laurèdia** | **La interpreta a la plaça Major de Sant Julià des del 1963** |
+
+> **La Marratxa que es balla avui es va fixar als anys seixanta a partir de la
+> memòria d'un sol home.** **El corpus ho subratlla perquè és el mateix mecanisme
+> que documenta a [la cançó popular](../../cultura/musica-i-cancons/la-canco-popular-andorrana.md):
+> la tradició que es conserva passa per una transcripció datada.**
+
+**El que segueix obert**: **el rastre documental** —**quan es documenta per
+primera vegada la dansa, i des de quan se li atribueix l'origen del 1278**— i
+**el vestuari**. **L'Esbart Laurèdia la té al repertori i és font a consultar.**
 
 **Buit registrat.**
 

@@ -1,0 +1,14 @@
+[[Fitxer:Museu Casa Rull 2016 16.JPG|miniatura|Estripagecs en una casa tradicional (''[[Museu Casa Rull]]'' a [[Sispony]], [[La Massana]])]]
+L{{'}}'''estripagecs'''<ref>{{Ref-web|títol=Estripagecs, reixes tradicionals de forja.|url=https://www.rondaller.cat/2024/06/18/estripagecs/|data=2024-06-18|consulta=2026-09-01|llengua=ca|cognom=rondaller}}</ref> (o '''llangardaix''')<ref>{{Ref-web|títol=llangardaix {{!}} diccionari.cat|url=https://www.diccionari.cat/GDLC/llangardaix|consulta=2026-09-01|llengua=ca}}</ref> és un barrot metàl·lic, amb punxes irregulars cap als laterals, que es col·loca a les finestres de les [[borda|bordes]] i de les cases, a la zona del Pirineu, d'[[Andorra]] i altres indrets (com el Ripollès, Osona, el Vallès...). El nom ve del fet que tenien com a objectiu estripar els ''gecs'' (jaquetes) dels lladres que intentaven passar entre els barrots.<ref name="Ordino">{{Ref-publicació|cognom=Periodic d'Andorra|article=Ordino homenatja els estripagecs amb una escultura al Parc de Sorteny|publicació=article|url=http://www.elperiodic.ad/noticia/45834/ordino-homenatja-els-estripagecs-amb-una-escultura-al-parc-de-sorteny|data=15-08-2015}}</ref>
+
+{{Citació necessària|També rep els noms següents: ''esqueixacalces'', ''esquinça-robes'', ''esquinxa-roba'', ''menja-robes'', ''espiga de ferro'' o ''llangardaix.''.}}
+
+En homenatge a aquest element típic de l'arquitectura vernacular tradicional d'Andorra, la [[Ordino|parròquia d'Ordino]] va instal·lar escultures gegants que representen aquests estripagecs al [[parc natural de la vall de Sorteny]],<ref name="Ordino"/> així com als cims emblemàtics de la parròquia ([[pic del Casamanya]], [[pic de Cataperdís]], [[pic de l'Estanyó]], [[pic de la Font Blanca]]), [[pic de la Serrera]] i [[pic de Tristaina]]).<ref>{{ref-notícia |títol=El circuit Estripagecs esdevé un nou repte aquest estiu |publicació=Ordino.ad |url=https://www.ordino.ad/news/el-circuit-estripagecs-esdeve-un-nou-repte-aquest-estiu |consulta=20 febrer 2024}}</ref>
+
+== Referències ==
+{{Referències}}
+
+{{Viccionari-lateral|estripagecs}}
+
+[[Categoria:Cultura d'Andorra]]
+[[Categoria:Elements arquitectònics]]

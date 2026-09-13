@@ -1,0 +1,28 @@
+{{Infotaula personatge}}
+La '''Dama Blanca d'Aubinyà''',{{efn|El 2011, la grafia oficial d'aquest topònim, tradicionalment 'Aubinyà', va passar a ser oficialment '''Auvinyà'''.<ref>{{ref-web |url=http://www.diariandorra.ad/index.php?option=com_k2&view=item&id=9899&Itemid=380 |títol=El Govern fa marxa enrere i torna la ‘h’ a ‘Canòlich’|nom=Aleix|cognom=Tugas |editor=[[Diari d'Andorra]] |data=3 de febrer de 2011 |consulta=3 de febrer de 2011 |arxiuurl=https://web.archive.org/web/20160303190635/http://www.diariandorra.ad/index.php?option=com_k2&view=item&id=9899&Itemid=380 |arxiudata=2016-03-03 }}</ref>}} també anomenada '''Dama Blanca d'Andorra''', és un personatge llegendari d'[[Andorra]]. Es tracta de la darrera descendent d'un llinatge de nobles que controlaven els passos fronterers del Principat amb l'[[Alt Urgell]] que, en morir-se, va esdevenir una mena de [[fantasma]], un esperit protector d'Andorra que es manifesta sota la figura d'una dama vestida de blanc.<ref>{{GEC|2=la Dama Blanca d'Aubinyà|3=la Dama Blanca d'Aubinyà}}</ref><ref>{{ref-web |cognom=Robles |nom=Sira |url=https://www.elnacional.cat/ca/estil-vida/descobreix-llegenda-poble-medieval-pirineus_1180509_102.html |consulta=19 setembre 2025 |títol=Descobreix el poble medieval dels Pirineus que sembla tret d'un conte de fades: té una misteriosa llegenda |obra=elnacional.cat |editor=[[El Nacional (publicació digital)|El Nacional]] |data=23 de març de 2025}}</ref> S'explica que, de vegades, se la veu passejant pels boscos d'[[Aubinyà]] (a la parròquia de [[Sant Julià de Lòria]]), sempre a punt d'aturar a qui vulgui sotmetre els andorrans.<ref name=temps>{{ref-web|url=https://www.eltemps.cat/article/63745/la-dama-blanca-dauvinya|obra=eltemps.cat|editor=[[El Temps]]|consulta=12/9/2025|enllaçautor=Joan de Déu Prats Pijoan|nom=Joan de Déu|cognom=Prats|títol=La dama blanca d'Auvinyà|data=07.12.2021}}</ref><ref name=esbart>{{ref-web |url=https://www.esbartlauredia.com/products/la-dama-blanca-dauvinya/ |consulta=19 setembre 2025 |títol=La Dama Blanca d'Auvinyà |obra=esbartlauredia.com |data=2013}}</ref>
+
+S'ha especulat que la llegenda es podria basar en el record d'un antic ''[[genius loci]]'' de l'època dels [[andosins]], una mena de protectora de les valls.<ref name=temps /> Alguns autors han relacionat el personatge amb les [[fada|fades]].<ref>{{ref-web |cognom=Camiade |nom=Martina |url=https://books.openedition.org/pupvd/4279 |consulta=20 setembre 2025 |títol=Dama blanca, bruixa, Verge, la representació de la dona en les llegendes andorranes |obra=openedition.org |editor=Presses universitaires de Perpignan, Association archéologique des Pyrénées-Orientales |enllaçautor=Martina Camiade Boyer |data=2005 |lloc=Perpinyà |pàgines=555-563}}</ref>
+
+== Llegenda ==
+[[Fitxer:Església de Sant Romà d'Auvinyà - 3.jpg|miniatura|L'església de Sant Romà d'Aubinyà]]
+S'explica que, en temps remots, un [[Llista de bisbes d'Urgell|bisbe d'Urgell]] especialment despòtic amenaçava les llibertats andorranes. Una nit, mentre el bisbe viatjava a Andorra, se li aparegué una dona molt bella (la "Dama Blanca") que el va convèncer d'endinsar-se als boscos, prop d'Aubinyà. L'endemà, el bisbe tornà aterrit a [[La Seu d'Urgell|la Seu]] i va jurar que mai més no tornaria al Principat. Tanmateix, uns ans més tard va mancar al seu jurament i va tornar-hi, però es va tornar a trobar amb la Dama Blanca i mai més no se'n va saber res.<ref name=temps /><ref name=esbart />
+
+Poc després de la desaparició del bisbe, a Andorra van començar a sovintejar els atacs d'un gran [[llop]] negre, que escampava la mort i el terror per la contrada, fins que un [[Consell General d'Andorra#El Consell de la Terra|síndic]] el va caçar. Un cop va haver mort el llop, el síndic va començar a tenir malsons i li semblava veure'l cada nit, fins al punt que embogí. Alguns ciutadans van demanar ajuda a la Dama Blanca, però aquesta no va poder guarir el síndic, ja que el llop que havia caçat allotjava dins seu l'ànima negra del bisbe d'Urgell. Un cop mort el síndic, mai més no es van tornar a manifestar ni el llop ni el bisbe.<ref name=temps /><ref name=esbart />
+
+Una escultura metàl·lica a l'entrada d'Aubinyà, obra de l'escultor andorrà Toni Cruz, en què es veu la Dama Blanca acompanyada d'un llop, commemora la llegenda.<ref name=temps /><ref>{{ref-web |url=https://www.andorra-sothebysrealty.com/ca/viure-a-andorra/sant-julia-de-loria/aubinya |consulta=19 setembre 2025 |títol=Habitatges a Auvinyà, Andorra |obra=andorra-sothebysrealty.com |editor=[[Sotheby's]]}}</ref>
+
+== Notes ==
+{{notes}}
+
+== Referències ==
+{{Referències}}
+
+== Bibliografia ==
+* {{ref-llibre|títol=Llegendes d'Andorra|capítol=La Dama Blanca d'Aubinyà|editorial=[[Publicacions de l'Abadia de Montserrat]]|lloc=Barcelona|data=2010|isbn=978-84-9883-340-9|pàgina=53 i s|enllaçautor=Àlvar Valls i Oliva|nom=Àlvar |cognom=Valls|nom2=Núria |cognom2=Carol|url=https://books.google.cat/books?id=grNP6uNi7OcC&pg=PA53#v=onepage&q&f=false}}
+
+{{Mitologia catalana}}
+
+[[Categoria:Personatges llegendaris catalans]]
+[[Categoria:Fantasmes de la mitologia catalana]]
+[[Categoria:Cultura d'Andorra]]
+[[Categoria:Sant Julià de Lòria]]
