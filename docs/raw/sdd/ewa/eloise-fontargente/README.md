@@ -1354,9 +1354,13 @@ plantilla de **140 persones**, facturació de **58 M€** davant 40 M€ tres an
 abans i dotze contractacions previstes per al setembre. El vídeo no llistat
 d'Agromousquetaires mostra recinte, fruita congelada, línies d'acer, envasat i
 visita institucional, però no té subtítols i no se n'ha inferit discurs. La
-commemoració compta des de 1934; en canvi, la fitxa corporativa que situa el
-naixement «a Malemort» el 1934 contradiu Beynat 1935 i el trasllat de
-1968–1969. Es conserva com a discrepància comercial, no com a nova cronologia.
+commemoració compta des de 1934. *La Vie corrézienne* concreta Beynat, un inici
+al soterrani de casa i conserves de carn, mentre el dossier municipal diu 1935,
+locals del Lion d'Or i ceps. Poden ser etapes successives, però el gruix de
+l'article és rere un mur de pagament i no s'han harmonitzat per inferència. La
+fitxa corporativa que situa el naixement «a Malemort» el 1934 contradiu totes
+dues versions i el trasllat de 1968–1969. Es conserva com a discrepància
+comercial, no com a nova cronologia.
 
 La mateixa font obliga a corregir provisionalment una altra memòria. Les
 versions antigues de Wikipedia atribuïen a la conserverie de Martel una Coupe
