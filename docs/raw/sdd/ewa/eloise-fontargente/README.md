@@ -928,6 +928,25 @@ Po en polítiques agràries, passà del màrqueting industrial a la banca
 d'inversió a París. Més tard s'instal·là en una finca erma prop de Montélimar;
 Baume des Anges prenia el nom d'una cova de la propietat.
 
+*3 étoiles Magazine* núm. 37, en un extracte situable el 2013, permet veure la
+xarxa humana de llançament. El vinyater ecològic Gérald Oustric hauria presentat
+Laurent a Stéphane Jégo, i Jégo a Pascal Barbot; la cita concedida per quinze
+minuts s'allargà tres hores i Barbot esdevingué, segons la peça, el primer
+client de tres estrelles. *YAM* posa Yves Camdeborde en el contacte inicial de
+febrer de 2011, de manera que les dues versions es mantenen com baules
+parcialment divergents, no com una única seqüència provada. La peça comptava una
+cinquantena de clients estrellats en quatre ciutats, amb Gagnaire, Blumenthal,
+Moret, Alléno, Bosi i equips de Ducasse, i mostra que l'obstacle comercial era
+la sospita d'«additiu» o trampa davant del producte fresc.
+
+El mateix perfil afegeix el projecte juvenil de Laurent de criar 35 lleteres
+per fer comté, la seva defensa del bio a l'ENSAIA, una ronda de restaurants
+iniciada el 2010 amb quaranta mostres i l'economia professional de cinquanta
+quilos de planta per cinc mil·lilitres. L'extracte no imprimeix data; les
+notícies laterals i les metadades del PDF el situen el 2013. La frase que data
+la patent de «vapeur sèche» el 2008 queda com a relat periodístic, perquè el
+títol públic propi localitzat fou presentat el 2013.
+
 Segons el seu relat, comprà una patent del CEA, construí un prototip, començà
 les extraccions el 2004 i assolí escala gran el 2008 amb vapor sec a baixa
 temperatura. Chanel féu una comanda el 2009 i, des de febrer de 2011, la xarxa
@@ -1067,6 +1086,7 @@ del peu dels Vosges que Laurent recordava de la infància. La imatge dialoga
 amb el record de bolets, nabius i gerds recollits amb Jacques, però cap font
 afirma que l'empresa fos causada per l'activitat muntanyenca del pare.
 [*YAM* núm. 15](https://www.baumedesanges.fr/site_html/docs/yam-15.pdf);
+[*3 étoiles Magazine* núm. 37](https://www.baumedesanges.fr/site_html/docs/3etoilesMagazine.pdf);
 [*La Revue Culinaire* núm. 901](https://www.baumedesanges.fr/site_html/docs/La-Revue-Culinaire-n901-maijuin2016.pdf).
 
 Una segona via per resoldre la filiació ha quedat localitzada però no llegida.
