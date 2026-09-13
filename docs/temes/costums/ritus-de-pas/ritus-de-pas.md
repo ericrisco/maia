@@ -72,3 +72,4 @@ també per a persones**.
 - [Religiositat](../religiositat/religiositat.md)
 - [Convencions socials](../../vida-quotidiana/convencions-socials/convencions-socials.md)
 - [Fraseologia](../../llengua/fraseologia/fraseologia.md)
+- [Per què valia la pena ser andorrà](../../societat/vida-civica/per-que-valia-la-pena-ser-andorra.md) — «l'impôt du sang», i per què no haver-hi lleva era la primera raó de la independència.

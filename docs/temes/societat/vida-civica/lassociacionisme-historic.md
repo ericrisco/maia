@@ -195,3 +195,4 @@ constitució formal— però **cap de les dues ponències no ho diu**, i el corp
 - [El tèxtil](../../cultura/artesania/el-textil.md) — la confraria de paraires.
 - [El Consell de la Terra](../../institucions/consell-general/el-consell-de-la-terra.md) — l'associació de parròquies.
 - [El sòl comunal](../../territori/geografia-fisica/el-sol-comunal.md) — el que els quarts administraven.
+- [Per què valia la pena ser andorrà](./per-que-valia-la-pena-ser-andorra.md) — les mútues d'incendis, i què feien les consòrcies segons Brutails.

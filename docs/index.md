@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**535** documents · **123** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
+**536** documents · **123** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -967,6 +967,7 @@
 | [Els problemes d'Andorra](temes/societat/vida-civica/els-problemes-dandorra.md) | `temes/societat/vida-civica` | compilada | contemporania | no | `mico-percepcio-medi-ambient` |
 | [La confiança](temes/societat/vida-civica/la-confianca.md) | `temes/societat/vida-civica` | compilada | contemporania | no | `mico-batalla-valors-capital-social` |
 | [L'associacionisme històric](temes/societat/vida-civica/lassociacionisme-historic.md) | `temes/societat/vida-civica` | compilada | contemporania | no | `canturri-associacionisme-historic-2007` |
+| [Per què valia la pena ser andorrà](temes/societat/vida-civica/per-que-valia-la-pena-ser-andorra.md) | `temes/societat/vida-civica` | compilada | historica | no | `brutails-coutume-1904` |
 | [La vida cívica](temes/societat/vida-civica/vida-civica.md) | `temes/societat/vida-civica` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/territori/clima-i-muntanya

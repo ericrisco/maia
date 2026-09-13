@@ -179,3 +179,4 @@ la practicava**, i amb el mateix criteri: **un blanc es veu; un any inventat, no
 - [El dret supletori](../../institucions/justicia/el-dret-supletori.md) — què s'aplicava quan el costum callava.
 - [El Pariatge](../pareatge/el-pareatge.md) — quan els veguers passen a ser dos.
 - [La qüestió d'Andorra](../segle-xix/la-questio-dandorra.md) — on torna a sortir el privilegi de la sisena.
+- [Per què valia la pena ser andorrà](../../societat/vida-civica/per-que-valia-la-pena-ser-andorra.md) — la màxima 32 i la pàgina 277, citades per Brutails.
