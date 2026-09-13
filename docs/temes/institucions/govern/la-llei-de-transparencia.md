@@ -112,11 +112,20 @@ Documentació** (capítol cinquè).
 
 ## Buits registrats
 
-- **Les limitacions concretes** dels articles 11 i 12 —les causes per denegar—
-  **no s'han llegit**. Sense elles, el dret d'accés no es pot avaluar.
+- ~~**Les limitacions concretes** dels articles 11 i 12 —les causes per
+  denegar— **no s'han llegit**.~~ **Tancat**: vegeu
+  [el que no et deixen veure](./el-que-no-et-deixen-veure.md). Una de les dotze
+  causes no té equivalent enlloc: **les relacions amb els coprínceps i els seus
+  serveis**. Queda per llegir **l'article 12**, de protecció de dades.
 - **El títol IV, de govern obert**, i la Comissió Nacional queden per llegir.
 - **Quantes sol·licituds d'accés hi ha hagut** i quantes s'han denegat, no
   consta.
 - **Quanta informació s'ha declarat reservada d'Estat**, tampoc.
 - **Si el caràcter confidencial de la declaració de patrimoni s'ha discutit**
   políticament, el corpus no en té cap font.
+
+## Related
+
+- [El que no et deixen veure](./el-que-no-et-deixen-veure.md) — les dotze causes de denegació i la reserva d'Estat.
+- [Tractar amb l'Administració](./tractar-amb-ladministracio.md) — els terminis i el silenci.
+- [El Raonador del Ciutadà](./el-raonador-del-ciutada.md) — qui vigila l'Administració.
