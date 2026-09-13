@@ -1,0 +1,19 @@
+{{Infotaula document
+ | data_creacio = 10 juliol 1934
+ | ubicacio = [[Casa de la Vall]]
+ | autors = [[Borís I d'Andorra]] i [[Pere Torras]]
+ | signants = Borís I d'Andorra
+}}
+La '''Constitució andorrana de 1934''' fou la primera norma fonamental d'[[Andorra]], redactada per [[Borís Skóssirev|Borís I d'Andorra]] i el síndic Pere Torras el [[1934]]. Fou aprovada pel [[Consell General d'Andorra|Consell General]] el [[10 de juliol]] del 1934, per 23 vots a favor i un en contra. La Constitució constava de 17 articles i introduïa per primer cop a Andorra la llibertat política, religiosa, de premsa, de circulació i de pensament.<ref>{{ref-notícia|cognom=Jover Martin|nom=Esther|títol=República d'Andorra?|publicació=El Periòdic d'Andorra|url=http://www.elperiodic.ad/noticia/44527/republica-dandorra|consulta=2 desembre 2015|data=6 juny 2015}}</ref> El rei s'encarregava de dirigir l'exèrcit i de representar el país a l'estranger. El document establia una tímida [[divisió de poders]] en atribuir al parlament la facultat d'aprovar lleis, tot i que el monarca podia [[Dret de vet|vetar-les]].<ref>{{ref-notícia|cognom=Luengo|nom=Andrés|títol=Borís, rei d'Andorra|publicació=Presència|data=3 febrer 2006}}</ref>
+
+Se'n van imprimir deu mil exemplars, que es van repartir a diverses personalitats [[Espanya|espanyoles]] i [[França|franceses]].<ref>{{ref-web|url=http://www.andorraantiga.com/boris-i-rei-d-andorra.html|consulta=2 desembre 2015|títol=Boris I rei d'Andorra|obra=andorraantiga.com}}</ref>
+
+== Referències ==
+{{Referències}}
+
+{{viquitexts|Constitució Andorrana de 1934 (Borís I)}}
+
+[[Categoria:Política d'Andorra]]
+[[Categoria:Constitucions|Andorra]]
+[[Categoria:1934]]
+[[Categoria:Dret a Andorra]]

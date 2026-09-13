@@ -388,7 +388,11 @@ l'ONU són públiques.**
 - **El documental *Els primers 30 anys de l'Escola Andorrana*** (Andorra
   Televisió, 2013), que la font enllaça.
 - **Josep Enric Dallerès**, citat el 2023 i sense fitxa.
-- **Els primers referèndums**: quan, i què preguntaven.
+- ~~**Els primers referèndums**: quan, i què preguntaven.~~ — **tancat el mateix
+  dia**: [els primers referèndums](../../politica/sistema-electoral/els-primers-referendums.md).
+  **28 d'octubre del 1977, 16 de gener del 1978 i 28 de maig del 1982**, tots
+  tres no vinculants i **cap sense majoria.** **El 1978 l'opció més votada va ser
+  «cap de les anteriors», amb el 35,6%.**
 - **La sentència del Constitucional francès** que va desbloquejar la reforma.
 
 ## Related

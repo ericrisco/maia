@@ -1,0 +1,111 @@
+{{Infotaula eleccions}}
+El [[28 d'octubre]] de [[1977]] es va celebrar un '''referèndum sobre la reforma política''' a [[Andorra]].
+
+El referèndum no era vinculant i tenia 6 opcions de resposta. Cap d'aquestes va obtenir la majoria dels vots. L'any següent [[Referèndum sobre la reforma política d'Andorra de 1978|se celebrà un referèndum de desempat]] entre l'opció més votada i una de nova proposada pel Consell General.
+
+== Opcions ==
+El referèndum organitzat preveia sis propostes diferents sobre l'organització administrativa per pàrroquies, del poder executiu i legislatiu del [[Andorra|Principat d'Andorra]] i del sistema electoral. Les propostes foren realitzades pel Consell General, Consells de Comú, quarts (subdivisions de les [[Parròquies d'Andorra|parròquies]]) i agrupacions polítuques (en aquell moment no estaven legalitzats els [[Partit polític|partits polítics]]).
+
+En total es van realitzar 6 propostes:<ref name='lv1'>{{Ref-web|url=http://hemeroteca.lavanguardia.com/preview/1977/10/27/pagina-26/33789547/pdf.html|títol=Edición del jueves, 27 octubre 1977, página 26 - Hemeroteca - Lavanguardia.es|consulta=2018-08-19|cognom=La Vanguardia Digital|llengua=es}}</ref>
+{| class=wikitable
+|+
+!Proposta
+!Proposada per
+!Detalls
+|-
+|1
+|[[Consell General d'Andorra|Consell General]]
+|
+* El [[Cap de govern d'Andorra|cap de govern]] és escollit pel Consell General.
+* El cap de govern escull el vicepresident i 4 ministres.
+* Legalització de les [[Moció de censura|mocions de censura]].
+|-
+|2
+|Consell General
+|
+* Cada [[Parròquies d'Andorra|parròquia]] escull 8 consellers generals.
+* El cap de govern s'escull en eleccions.
+* El cap de govern escull el vicepresident i 4 ministres.
+* Amb la dimissió del cap de govern, es dissol el Consell General i es convoquen eleccions.
+|-
+|3
+|Consell General
+|
+* Instauració d'un [[sistema bicameral]]
+* 16 consellers s'escullen proporcionalment a la població (amb un mínim de 2 per parròquia) i 12 consellers s'escullen en circumscripcions parroquials (2 per parròquia).
+* Govern format per 6 membres (1 per parròquia) i escollit per les cambres legislatives.
+* Legalització de la moció de censura, amb nova elecció del govern per part de les cambres legislatives.
+|-
+|4
+|[[La Massana|Comú de la Massana]]
+|
+* Creació de la parròquia de [[Escaldes-Engordany|les Escaldes]].
+* Cada parròquia està representada per 4 consellers.
+* Cada parròquia té un membre al govern o a la sindicatura.
+* Amb la dimissió del cap de govern, es dissol el Consell General i es convoquen eleccions.
+|-
+|5
+|[[Escaldes-Engordany|Quart de les Escaldes]]
+|
+* Creació de la parròquia de [[Escaldes-Engordany|les Escaldes]].
+* Cada parròquia està representada per 4 consellers.
+* El cap de govern s'escull en eleccions i els ministres serien nomenats pel cap de govern.
+* Legalització de la moció de censura.
+|-
+|6
+|Agrupament Democràtic d'Andorra
+|
+* Representació proporcional en circumscripció nacional.
+* Assemblea de parròquies amb 4 representants per cadascuna.
+* Elecció directa del cap de govern i nomenament dels ministres pel cap de govern, sense importar les parròquies de procedència dels membres.
+|}
+
+== Resultats ==
+{| class=wikitable
+|-
+! Opció !! Vots !! %
+|-
+| Opció 1 || style="text-align:right" | 28 || style="text-align:right" | 1,5
+|-
+| Opció 2 || style="text-align:right" | 41 || style="text-align:right" | 2,1
+|-
+| Opció 3 || style="text-align:right" | 13 || style="text-align:right" | 0,7
+|-
+| Opció 4 || style="text-align:right" | 173 || style="text-align:right" | 9,0
+|-
+| Opció 5 || style="text-align:right" | 393 || style="text-align:right" | 20,5
+|-
+| Opció 6 || style="text-align:right" | 668 || style="text-align:right" | 34,9
+|-
+| Vots en blanc || style="text-align:right" | 597 || style="text-align:right" | 31,2
+|-
+| Vots nuls || style="text-align:right" | 24 || style="text-align:right" | –
+|-
+| '''Total''' || style="text-align:right" | '''1.937''' || style="text-align:right" | '''100''' 
+|-
+| Cens/participació || style="text-align:right" | 3.206 || style="text-align:right" | 60,4
+|-
+| colspan='3' | Font: [http://pandora.girona.cat/viewer.vm?id=0000950181&page=5 Avui]
+|}
+
+Cap opció va esdevenir majoritària. L'opció amb més vots va obtenir un 34,9% dels vots. La segona opció en nombre de vots van ser els vots en blanc, que van suposar un 31,2% dels vots totals. Les opcions que aspiraven a la redistribució de la representativitat, bé donant suport a la creació de la parròquia d'[[Escaldes-Engordany]] o bé instaurant un sistema de [[representació proporcional]], van ser les que sumades van obtenir més vots. D'altra banda, les propostes presentades pel [[Consell General d'Andorra|Consell General]] van obtenir només un 4,3% dels vots.<ref name='avui'>{{Ref-web|url=http://pandora.girona.cat/viewer.vm?id=0000950181&page=5|títol=Avui. 29/10/1977|consulta=2018-08-19|cognom=Premsa digitalitzada}}</ref>
+
+Al quart d'[[Andorra la Vella]] va guanyar l'opció 6 amb el 63,3% dels vots. A [[les Escaldes]] va guanyar l'opció proposada pel Quart (número 5) amb el 67,3% dels vots. La parròquia de [[Sant Julià de Lòria]] va ser la que va registrar el percentatge de vots en blanc més elevat, concretament amb un 51,6% dels vots.<ref name='lv2'>{{Ref-web|url=http://hemeroteca.lavanguardia.com/preview/1977/10/29/pagina-4/33791979/pdf.html|títol=Edición del sábado, 29 octubre 1977, página 4 - Hemeroteca - Lavanguardia.es|consulta=2018-08-19|cognom=La Vanguardia Digital|llengua=es}}</ref>
+
+== Conseqüències ==
+{{Article principal|Referèndum sobre la reforma política d'Andorra de 1978}}
+L'opció 6 va resultar guanyadora, però no es va acabar aplicant la proposta. Per una banda, els resultats d'aquesta opció no tenia suficients vots per ser considerada guanyadora. D'altra banda, tampoc era un referèndum vinculant.
+
+Tot i això, es va planificar un segon referèndum per trobar alguna solució a la situació generada pels resultats. Aquest referèndum es va celebrar l'any següent. Es va mantenir la proposta número 6 i es va crear una setena opció entre les propostes 4 i 5, que havien arribat a punts en comú.<ref name='lv3'>{{Ref-web|url=http://hemeroteca.lavanguardia.com/preview/1978/01/10/pagina-23/33757862/pdf.html|títol=Edición del martes, 10 enero 1978, página 23 - Hemeroteca - Lavanguardia.es|consulta=2018-08-19|cognom=La Vanguardia Digital|llengua=es}}</ref>
+
+== Vegeu també ==
+* [[Referèndum sobre la reforma política d'Andorra de 1978]]
+* [[Referèndum sobre la llei electoral d'Andorra de 1982]]
+
+== Referències ==
+{{Referències}}
+
+{{Eleccions a Andorra}}
+[[Categoria:Esdeveniments del 1977]]
+[[Categoria:Política d'Andorra]]
+[[Categoria:Referèndums constitucionals]]

@@ -1,0 +1,59 @@
+{{infotaula eleccions}}
+El '''referèndum constitucional d'Andorra''' es va celebrar el [[14 de març]] del [[1993]] per tal de ratificar la [[Constitució andorrana]] aprovada el 2 de febrer d'aquell mateix any. El 74,2% dels votants va donar suport a la nova Carta Magna, que va entrar en vigor el [[28 d'abril]]. L'aprovació del text convertia el principat en un Estat de dret, deixava enrere molts aspectes propis d'un [[Feudalisme|sistema feudal]], equiparava Andorra a la resta de països europeus i consagrava el català com a única llengua oficial del país.<ref name="Avui">{{ref-notícia|cognom=Bou|nom=Lluís|títol=Andorra aprova per àmplia majoria formar un Estat independent i de dret a Europa|publicació=Avui|url=https://pandora.girona.cat/viewer.vm?id=0001090075&page=1&search=&lang=ca&view=hemeroteca|data=15 març 1993|pàgina=8}}</ref>
+
+== Antecedents ==
+{{article principal|Dècades dels 1970 i 1980 a Andorra#Transició Nacional}}
+Després del [[Concili Vaticà II]] que es va produir a principi de la dècada dels seixanta, es plantejava que l'Església no permetés al [[bisbe d'Urgell]] continuar amb la tasca de [[Copríncep d'Andorra|copríncep]] episcopal a Andorra, perquè el Concili aconsellava que l'Església no havia de tenir poders temporals. Des d'Andorra es temia que hi podia haver un buit legal i institucional, sense un dels dos coprínceps.
+
+Un dels elements clau del procés constituent va ser el Decret de [[1981]], que donava forma al que popularment s'ha conegut com la reformeta. Aquest document era la resposta a la memòria de reforma que havia formulat el [[Consell General d'Andorra|Consell General]] l'any [[1978]] en què, d'una banda, se sol·licitava als coprínceps la voluntat d'Andorra d'avançar cap a un Estat i, de l'altra, el Principat també demanava ser reconegut en el món internacional també com a Estat. Durant deu anys es va constatar que cap de les dues demandes va tenir èxit. De tot el que es pretenia transformar, la reformeta només va resultar efectiva en la separació de poders entre el poder executiu i el legislatiu amb la creació del Govern del moment, el Consell Executiu. Aquest Executiu de l'època no tenia potestats en matèria de seguretat o afers exteriors i la barrera de la representació dels coprínceps en aquests assumptes es va anar convertint en insostenible per a les autoritats andorranes.<ref>{{ref-notícia|títol=Els precedents|publicació=Especial Constitució. El Periòdic d'Andorra|url=http://www.elperiodic.ad/documents/revistes/constitucio.pdf|consulta=29 abril 2017|data=14 març 2017|pàgines=12}} {{Webarchive|url=https://web.archive.org/web/20180402163159/https://www.elperiodic.ad/documents/revistes/constitucio.pdf |date=2 d'abril 2018 }}</ref>
+
+La Constitució es va redactar en una comissió tripartita formada pel Consell General i els coprínceps. El 2 de febrer del 1993 el Consell General va aprovar per unanimitat la Carta Magna.<ref>{{ref-notícia|títol=El penúltim pas|publicació=Especial Constitució. El Periòdic d'Andorra|url=http://www.elperiodic.ad/documents/revistes/constitucio.pdf|consulta=29 abril 2017|data=14 març 2017|pàgines=17}} {{Webarchive|url=https://web.archive.org/web/20180402163159/https://www.elperiodic.ad/documents/revistes/constitucio.pdf |date=2 d'abril 2018 }}</ref>
+
+== Resultats ==
+9323 andorrans tingueren dret a votar en el referèndum. El percentatge de vots favorables a la Constitució no va baixar del 56 per cent en cap de les set [[Parròquies d'Andorra|parròquies]]. En les localitats menys habitades, les principals reticències sobre la Constitució tenien a veure amb el sistema electoral. El suport més gran a la Constitució es va registrar a [[Escaldes-Engordany|les Escaldes]] (amb un 80%), a [[Encamp]], amb un 76,7%, seguides per [[Andorra la Vella]] (amb un 74,1%) i [[la Massana]] (amb un 66%), entre les parròquies amb més població. A [[Ordino]] i [[Canillo]], que eren les dues més despoblades, va tenir lloc el percentatge menor de vots favorables, que, tot i això, es van situar respectivament en un 56 i 60 per cent.<ref name="Avui"/>
+
+{| class="wikitable sortable" style="text-align:right; font-size:100%;"
+|-
+| colspan=4 bgcolor="#E6ECFF" align=center | [[Fitxer:Flag of Andorra.svg|60px]]<br />'''Referèndum constitucional d'Andorra'''<br /><small>Resultats globals</small>
+|- bgcolor="#E9E9E9" align=center
+! align=left colspan=2 width="250" | Opció
+! width="80" | Vots
+! width="50" | %
+|-
+| bgcolor="Green" |
+| align=left | '''Sí'''
+| '''{{nts|4903}}'''||'''74,19%'''
+|-
+| width="1" bgcolor="Red" |
+| align=left | No
+|{{nts|1706}}||25,81%
+|-
+| colspan=4 bgcolor="#E9E9E9" | 
+|- style="font-weight:bold;"
+| align=left colspan=2 | Vots vàlids
+| {{nts|6609}} || 95,64% 
+|-
+| align=left colspan=2 | Vots no vàlids o en blanc
+| {{nts|301}} || 4,36%
+|-
+| colspan=4 bgcolor="#E9E9E9" | 
+|- style="font-weight:bold;"
+| align=left colspan=2 | Participació
+| {{nts|6910}} || 75,74%
+|-
+| align=left colspan=2 | Votants registrats
+| {{nts|9123}} || 100%
+|-
+| align=center colspan=4 | <small>Font: ''Avui''<ref name="Avui"/></small>
+|}
+
+== Referències ==
+{{Referències}}
+
+{{Consell General d'Andorra}}
+{{Eleccions a Andorra}}
+
+[[Categoria:Política d'Andorra]]
+[[Categoria:Referèndums del segle XX]]
+[[Categoria:Esdeveniments del 1993]]
+[[Categoria:Referèndums constitucionals]]

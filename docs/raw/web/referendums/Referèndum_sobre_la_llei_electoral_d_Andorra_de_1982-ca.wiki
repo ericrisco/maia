@@ -1,0 +1,76 @@
+{{infotaula eleccions}}
+
+El [[28 de maig]] de [[1982]] es va celebrar un '''referèndum sobre la llei electoral''' a [[Andorra]]. Els electors podien optar entre tres opcions diferents. Finalment, com que cap opció va obtenir la majoria dels vots i com que tampoc es tractava d'un referèndum vinculant, es va mantenir el sistema electoral fins a l'any [[1993]], quan es va [[Referèndum constitucional d'Andorra de 1993|aprovar per referèndum]] la [[Constitució d'Andorra|Constitució]].
+
+== Antecedents ==
+{{Vegeu també|Referèndum sobre la reforma política d'Andorra de 1977|Referèndum sobre la reforma política d'Andorra de 1978}}
+El sistema electoral andorrà estava vigent des de l'any [[1867]], data en què es va aprovar la [[Nova Reforma]]. El sistema s'havia anat modificant durant el [[segle XX]] per implementar alguns canvis, com el [[Sufragi masculí|sufragi universal masculí]] ([[1933]]), el [[sufragi femení]] ([[1970]]), un rebaixament de l'edat de vot de 25 a 21 anys ([[1971]]), la creació d'una circumscripció addicional per la nova parròquia d'[[Escaldes-Engordany]] ([[1978]]) o la separació d'eleccions generals i comunals amb renovacions completes dels càrrecs ([[1981]]). No obstant, el sistema d'elecció continuava essent el mateix: eleccions parcials per renovar la meitat dels membres dels consells ([[Consell General d'Andorra|Consell General]] i [[Comuns d'Andorra|consells de comú]]) cada 2 anys amb un [[Escrutini majoritari plurinominal|escrutini majoritari en circumscripcions plurinominals]]. En el cas de les eleccions al Consell General, cada parròquia formava una circumscripció amb 4 consellers, independentment de la població d'aquesta.
+
+A finals dels anys 70 van començar a sortir veus crítiques sobre sistema electoral, que en proposaven una reforma. Els arguments exposats pels partidaris d'un canvi de sistema eren:<ref name=:0>{{Ref-web|url=http://hemeroteca.lavanguardia.com/preview/1979/12/11/pagina-37/33446638/pdf.html|títol=Edición del martes, 11 diciembre 1979, página 37 - Hemeroteca - Lavanguardia.es|consulta=2018-08-19|nom=La Vanguardia|cognom=Digital|llengua=es}}</ref><ref>{{Ref-web|url=http://pandora.girona.cat/viewer.vm?id=0000946049&page=2|títol=Crisi política imminent. Avui. 15/2/1977.|consulta=2018-08-19}}</ref>
+
+* '''Sots-representació de les parròquies grans''': fins a l'any [[1978]], [[Escaldes-Engordany]] formava part de la parròquia d'[[Andorra la Vella]], que escollia el mateix nombre de consellers generals que la resta de parròquies. A les [[Eleccions generals andorranes de 1977|eleccions de 1977]], Andorra la Vella tenia el 50,6% dels electors del país però només el 16,7% dels representants del [[Consell General d'Andorra|Consell General]]. Amb la segregació d'[[Escaldes-Engordany]], la nova parròquia va formar una circumscripció nova, de manera que aquesta desproporció es va rebaixar, però no de manera suficient: Andorra la Vella i Escaldes-Engordany van passar a tenir el 53,8% del cens electoral i només el 28,6% dels consellers generals.<ref>{{Ref-web|url=http://hemeroteca.lavanguardia.com/preview/1977/12/09/pagina-29/33799476/pdf.html|títol=Edición del martes, 13 diciembre 1977, página 29 - Hemeroteca - Lavanguardia.es|consulta=2018-08-19|nom=La Vanguardia|cognom=Digital|llengua=es}}</ref><ref>{{Ref-web|url=http://pandora.girona.cat/viewer.vm?id=962287&view=hemeroteca&lang=ca&page=11|títol=La parròquia de Canillo haurà de repetir la votació. Avui. 15/12/1979.|consulta=2018-08-19}}</ref>
+* '''No-representació de les minories''': amb el [[Escrutini majoritari plurinominal|sistema majoritari plurinominal]], cada votant tenia tants vots com escons s'haguessin de cobrir. Sortien escollits els candidats amb més vots, sempre que sobrepassessin el 50% dels vots vàlids. En cas contrari, passaven a una segona volta, on sortien escollits els candidats per majoria simple. Normalment sortien escollits tots els candidats d'una mateixa candidatura, de manera que les candidatures que quedaven en segona posició no obtenien cap escó.
+* '''Cos electoral reduït''': el sufragi electoral estava limitat a les persones amb nacionalitat andorrana, que corresponia a una minoria del total de [[Demografia d'Andorra|població d'Andorra]]. Per exemple: l'any [[1979]], el país tenia 30.000 habitants, però només tenien dret a vot unes 3.000 persones.<ref name=:0/>
+
+L'any [[Referèndum sobre la reforma política d'Andorra de 1977|1977]] i [[Referèndum sobre la reforma política d'Andorra de 1978|1978]] es van celebrar dos referèndums sobre el futur polític d'Andorra, en el qual es feien propostes sobre el nombre de parròquies, la separació entre el [[poder legislatiu]] i el [[poder executiu]] i sobre el sistema electoral. No obstant, al tractar-se d'un referèndum amb més de dues respostes, no es va generar cap tipus de majoria i finalment no es va aplicar cap canvi important al sistema electoral.<ref>[http://pandora.girona.cat/viewer.vm?id=0000953195&page=8 Els coprínceps treballen en la reforma institucional. Avui. 28/4/1978]</ref>
+
+== Opcions ==
+El [[Govern d'Andorra|govern andorrà]] va presentar un referèndum no vinculant amb tres opcions:
+
+* '''Proposta 1:''' mantenir el sistema vigent (majoritari).
+* '''Proposta 2''': introduir un sistema proporcional a nivell parroquial.
+* '''Proposta 3''': introduir un sistema proporcional a nivell nacional.
+
+== Resultats ==
+{| class=wikitable
+|+
+!Opció
+!Vots
+!%
+|-
+|1. Majoritari
+|style="text-align:right"|616
+|style="text-align:right"|32,0
+|-
+|2. Proporcional parroquial
+|style="text-align:right"|450
+|style="text-align:right"|23,4
+|-
+|3. Proporcional nacional
+|style="text-align:right"|813
+|style="text-align:right"|42,2
+|-
+|Vots en blanc i nuls
+|style="text-align:right"|47
+|style="text-align:right"|2,4
+|-
+|'''Total'''
+|style="text-align:right"|'''1.926'''
+|style="text-align:right"|'''100'''
+|-
+|Cens/participació
+|style="text-align:right"|3.660
+|style="text-align:right"|52,6
+|-
+| colspan=3 |Font: [http://pandora.girona.cat/viewer.vm?id=0000980827&page=12 Avui], [http://hemeroteca.lavanguardia.com/preview/1982/05/29/pagina-4/32946642/pdf.html La Vanguardia]
+|}
+La participació fou del 52,6%. La parròquia amb més abstenció va ser Ordino, on només van votar al voltant del 30% del cens. Per contra, la parròquia amb més participació va ser Encamp, amb el 71,6% de participació.<ref name=:1>{{Ref-web|url=http://hemeroteca.lavanguardia.com/preview/1982/05/29/pagina-4/32946642/pdf.html|títol=Edición del sábado, 29 mayo 1982, página 4 - Hemeroteca - Lavanguardia.es|consulta=2018-08-19|nom=La Vanguardia|cognom=Digital|llengua=es}}</ref>
+
+Els votants de les parròquies es van decantar segons l'opció que els garantiria més representativitat. Així doncs, les parròquies amb menys població van decantar-se per la proposta majoritària (número 1) i les més poblades, per la número 3 (sistema proporcional a nivell nacional). Concretament, l'opció 1 va guanyar a [[Canillo]], [[Encamp]], [[Ordino]] i [[la Massana]]; la proposta 2 a [[Sant Julià de Lòria]] i la 3 a [[Andorra la Vella]] i [[Escaldes-Engordany]].<ref name=:1/>
+
+== Conseqüències ==
+Cap de les tres opcions va aconseguir la majoria absoluta. Al tractar-se d'un referèndum no vinculant, no es va aplicar de manera directa cap de les propostes. El [[Consell General d'Andorra|Consell General]] va redactar un informe dels resultats als [[Copríncep d'Andorra|coprínceps]].<ref>{{Ref-web|url=http://hemeroteca.lavanguardia.com/preview/1982/05/30/pagina-27/32946725/pdf.html|títol=Edición del domingo, 30 mayo 1982, página 27 - Hemeroteca - Lavanguardia.es|consulta=2018-08-19|nom=La Vanguardia|cognom=Digital|llengua=es}}</ref>
+
+Finalment no es va acabar aplicant cap modificació al sistema electoral pel que fa a la repartició d'escons. No obstant, el [[1985]] es va reduir l'edat de vot de 21 a 18 anys. El sistema electoral fou canviat completament amb [[Referèndum constitucional d'Andorra de 1993|l'aprovació]] de la [[Constitució d'Andorra|Constitució de 1993]], a favor d'un sistema mixt, on la meitat dels escons van passar a ser escollits proporcionalment en una circumscripció nacional i l'altra meitat per sistema majoritari en circumscripcions parroquials.
+
+== Vegeu també ==
+* [[Referèndum sobre la reforma política d'Andorra de 1977]]
+* [[Referèndum sobre la reforma política d'Andorra de 1978]]
+* [[Eleccions a Andorra]]
+
+== Referències ==
+{{Referències}}
+
+{{Eleccions a Andorra}}
+[[Categoria:Esdeveniments del 1982]]
+[[Categoria:Política d'Andorra]]

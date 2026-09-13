@@ -1,0 +1,93 @@
+{{Infotaula eleccions}}
+
+El [[16 de gener]] de [[1978]] se celebrà un segon '''referèndum sobre la reforma política''' a [[Andorra]], després que el [[Referèndum sobre la reforma política d'Andorra de 1977|referèndum celebrat tres mesos abans]] acabés sense cap proposta amb una majoria clara. Aquest segon referèndum tampoc acabà amb cap majoria sobre cap proposta.
+
+== Antecedents ==
+{{Article principal|Referèndum sobre la reforma política d'Andorra de 1977}}
+
+El [[28 d'octubre]] de [[1977]] se celebrà un referèndum amb 6 propostes per reformar el sistema polític, electoral i territorial andorrà, generat per causes com la sotsrepresentativitat d'algunes poblacions del [[Principat d'Andorra|Principat]] i pel fet de no existir separació entre el [[poder legislatiu]] i [[Poder executiu|executiu]].
+
+El referèndum acabà sense cap resultat clar, perquè la proposta més votada tan sols va obtenir el 34,9% dels vots i la segona opció en nombre de sufragis foren els vots en blanc, amb un 31,21% de suport. Aquest fet va generar un impàs en la política del país, de manera que després de reunions entre el [[Consell General d'Andorra|Consell General]] i les parts interessades, es va convocar aquest referèndum per trobar una solució definitiva.<ref name=:0>{{Ref-web|url=http://hemeroteca.lavanguardia.com/preview/1978/01/10/pagina-23/33757862/pdf.html|títol=Edición del martes, 10 enero 1978, página 23 - 
+
+Hemeroteca - Lavanguardia.es|consulta=2018-08-19|nom=La Vanguardia|cognom=Digital|llengua=es}}</ref>
+
+== Opcions ==
+El Consell General va presentar un segon referèndum no vinculant per decidir el futur polític del país. A diferència del primer referèndum, en aquest només es van presentar tres propostes: la sisena, la setena (fusió de la 4a i 5a) i 'cap de les anteriors':<ref name=:0/><ref name=:1>{{Ref-web|url=http://hemeroteca.lavanguardia.com/preview/1978/01/17/pagina-4/33762839/pdf.html|títol=Edición del martes, 17 enero 1978, página 4 - 
+
+Hemeroteca - Lavanguardia.es|consulta=2018-08-19|nom=La Vanguardia|cognom=Digital|llengua=es}}</ref>
+{| class=wikitable
+|+
+!Proposta
+!Presentada per
+!Detalls
+|-
+|6
+|Agrupament Democràtic d'Andorra
+|
+* Representació proporcional en circumscripció nacional.
+* Assemblea de parròquies amb 4 representants per cadascuna.
+* Elecció directa del cap de govern i nomenament dels ministres pel cap de govern, sense importar les parròquies de procedència dels membres
+|-
+|7
+|[[La Massana|Comú de la Massana]] i [[Escaldes-Engordany|Quart de les Escaldes]] (fusió de les propostes 4 i 5)
+|
+* Creació de la parròquia d'[[Escaldes-Engordany]].
+* Elecció directa del cap de govern.
+* Les mocions de censura també dissolen el Consell General i porten a la convocatòria d'eleccions.
+|-
+|Cap de les anteriors
+|–
+|–
+|}
+
+== Resultats ==
+{| class=wikitable
+!Opció
+!Vots
+!%
+|-
+|Opció 6
+|style="text-align:right"|647
+|style="text-align:right"|31,5
+|-
+|Opció 7
+|style="text-align:right"|673
+|style="text-align:right"|32,8
+|-
+|Cap de les anteriors
+|style="text-align:right"|731
+|style="text-align:right"|35,6
+|-
+|Vots en blanc i nuls
+|style="text-align:right"|56
+|style="text-align:right"|–
+|-
+|'''Total'''
+|style="text-align:right"|'''2.107'''
+|style="text-align:right"|'''100'''
+|-
+|Cens/participació
+|style="text-align:right"|3.235
+|style="text-align:right"|65,1
+|-
+| colspan=3 |Font: [http://hemeroteca.lavanguardia.com/preview/1978/01/17/pagina-4/33762839/pdf.html La Vanguardia]
+|}
+La participació va ser del 65,1%. Els vots en blanc van ser considerats nuls. Com en el primer referèndum, aquest tampoc va generar cap majoria clara entre la població. De fet, l'opció amb més suports va ser la contrària a aplicar qualsevol de les propostes.<ref name=:1/>
+
+== Conseqüències ==
+Malgrat la continuació de l'impàs polític, les trobades entre partidaris de les propostes, el [[Consell General]] i els representants dels [[Copríncep d'Andorra|coprínceps]] van continuar. Alguns dels punts d'ambdues propostes van arribar a veure lluny i es van aprovar, com la creació de la parròquia d'[[Escaldes-Engordany]] el mateix any o la distinció entre el poder legislatiu i executiu i el conseqüent creació de càrrecs, com la figura del [[Cap de Govern del Principat d'Andorra|cap de govern]], i canvi de la nomenclatura dels càrrecs l'any [[1982]]. Altres propostes, com la conversió d'Andorra en un [[estat de dret]] van haver d'esperar fins a l'any [[1993]]. També hi va haver altres propostes, com l'elecció directa del cap de govern, que no van arribar a prosperar. Pel que fa a les propostes de sistemes electorals, es va celebrar un [[Referèndum sobre la llei electoral d'Andorra de 1982|referèndum el 1982]].<ref>{{Ref-web|url=http://pandora.girona.cat/viewer.vm?id=0000953195&page=8|títol=Avui. 28/4/1978.|consulta=2018-08-19}}</ref>
+
+== Vegeu també ==
+* [[Constitució d'Andorra]]
+* [[Referèndum sobre la reforma política d'Andorra de 1977]]
+* [[Referèndum sobre la llei electoral d'Andorra de 1982]]
+* [[Referèndum constitucional d'Andorra de 1993]]
+
+== Referències ==
+{{Referències}}
+
+{{Eleccions a Andorra}}
+
+[[Categoria:Esdeveniments del 1978]]
+[[Categoria:Política d'Andorra]]
+[[Categoria:Referèndums constitucionals]]
