@@ -86,42 +86,42 @@ partits o més amb Andorra.**
 | **[Moisés San Nicolás](./moises-san-nicolas.md)** | MC | 2012-2025 | 95 | 1 |
 | **[Josep Gómes](./josep-gomes.md)** | POR | 2006-2024 | 86 | 0 |
 | **[Max Llovera](./max-llovera.md)** | DF | 2015-2025 | 85 | 1 |
-| Josep Ayala | DF | 2002-2017 | 84 | 1 |
-| Manolo Jiménez Soria | MC | 1998-2012 | 79 | 1 |
+| **[Josep Ayala](./josep-ayala.md)** | DF | 2002-2017 | 84 | 1 |
+| **[Manolo Jiménez Soria](./manolo-jimenez.md)** | MC | 1998-2012 | 79 | 1 |
 | **[Koldo Álvarez](./koldo-alvarez.md)** | POR | 1998-2009 | 78 | 0 |
 | **[Cristian Martínez](./cristian-martinez.md)** | MC | 2009-2021 | 77 | **5** |
 | **[Sergi Moreno](./sergi-moreno.md)** | MC | 2004-2022 | 76 | 1 |
-| Marc García | MC | 2010-2025 | 76 | 0 |
+| **[Marc García](./marc-garcia.md)** | MC | 2010-2025 | 76 | 0 |
 | **[Juli Sánchez](./juli-sanchez.md)** | DAV | 1996-2019 | 73 | 1 |
-| Joan Cervós | DF | 2018-2025 | 71 | 1 |
+| **[Joan Cervós](./joan-cervos.md)** | DF | 2018-2025 | 71 | 1 |
 | **[Txema García](./txema-garcia.md)** | DF | 1997-2009 | 71 | 0 |
-| Marc Rebés | DF | 2015-2025 | 67 | 3 |
-| Jordi Rubio | DF | 2006-2024 | 67 | 2 |
-| Justo Ruiz | MC | 1998-2008 | 67 | 2 |
-| Jordi Escura | MC | 1998-2011 | 65 | 0 |
+| **[Marc Rebés](./marc-rebes.md)** | DF | 2015-2025 | 67 | 3 |
+| **[Jordi Rubio](./jordi-rubio.md)** | DF | 2006-2024 | 67 | 2 |
+| **[Justo Ruiz](./justo-ruiz.md)** | MC | 1998-2008 | 67 | 2 |
+| **[Jordi Escura](./jordi-escura.md)** | MC | 1998-2011 | 65 | 0 |
 | **[Antoni Lima](./antoni-lima.md)** | DF | 1997-2009 | 64 | 1 |
-| Jordi Aláez | MC | 2016-2024 | 61 | 3 |
-| Emili García | DF | 2008-2021 | 58 | 1 |
-| Àlex Martínez | DAV | 2016-2025 | 58 | 1 |
-| Ricard Fernández | DAV | 2018-2025 | 55 | 2 |
-| Jesús Rubio | MC | 2015-2025 | 53 | 1 |
-| Fernando Silva | DAV | 2002-2013 | 51 | 2 |
-| Ludovic Clemente | MC | 2005-2024 | 47 | 0 |
-| Gabi Riera | DAV | 2004-2017 | 40 | 1 |
-| Aarón Sánchez | DAV | 2015-2024 | 38 | 0 |
-| Genís García | MC | 1997-2010 | 37 | 0 |
-| Emiliano González Arqués | DAV | 1998-2002 | 37 | 2 |
-| Iker Álvarez | POR | 2021-2025 | 37 | 0 |
-| Juli Fernández | DF | 1998-2009 | 36 | 1 |
-| Marc Bernaus | DF | 2000-2013 | 32 | 1 |
-| Francesc Ramirez | MC | 1997-2004 | 32 | 1 |
-| Sebastián Gómez | MC | 2008-2019 | 32 | 0 |
-| Roberto Jonas | DF | 1999-2005 | 30 | 0 |
-| Víctor Rodríguez | DF | 2008-2019 | 30 | 0 |
-| Jesús Lucendo | DF | 1996-2003 | 29 | **3** |
-| Christian García | MC | 2020-2025 | 29 | 1 |
-| Iván Lorenzo | MC | 2003-2016 | 28 | 0 |
-| Agusti Pol | MC | 1996-2003 | 28 | 1 |
+| **[Jordi Aláez](./jordi-alaez.md)** | MC | 2016-2024 | 61 | 3 |
+| **[Emili García](./emili-garcia.md)** | DF | 2008-2021 | 58 | 1 |
+| **[Àlex Martínez](./alex-martinez.md)** | DAV | 2016-2025 | 58 | 1 |
+| **[Ricard Fernández](./ricard-fernandez.md)** | DAV | 2018-2025 | 55 | 2 |
+| **[Jesús Rubio](./jesus-rubio.md)** | MC | 2015-2025 | 53 | 1 |
+| **[Fernando Silva](./fernando-silva.md)** | DAV | 2002-2013 | 51 | 2 |
+| **[Ludovic Clemente](./ludovic-clemente.md)** | MC | 2005-2024 | 47 | 0 |
+| **[Gabi Riera](./gabi-riera.md)** | DAV | 2004-2017 | 40 | 1 |
+| **[Aarón Sánchez](./aaron-sanchez.md)** | DAV | 2015-2024 | 38 | 0 |
+| **[Genís García](./genis-garcia.md)** | MC | 1997-2010 | 37 | 0 |
+| **[Emiliano González Arqués](./emiliano-gonzalez.md)** | DAV | 1998-2002 | 37 | 2 |
+| **[Iker Álvarez](./iker-alvarez.md)** | POR | 2021-2025 | 37 | 0 |
+| **[Juli Fernández](./juli-fernandez.md)** | DF | 1998-2009 | 36 | 1 |
+| **[Marc Bernaus](./marc-bernaus.md)** | DF | 2000-2013 | 32 | 1 |
+| **[Francesc Ramirez](./francesc-ramirez.md)** | MC | 1997-2004 | 32 | 1 |
+| **[Sebastián Gómez](./sebastian-gomez.md)** | MC | 2008-2019 | 32 | 0 |
+| **[Roberto Jonas](./roberto-jonas.md)** | DF | 1999-2005 | 30 | 0 |
+| **[Víctor Rodríguez](./victor-rodriguez.md)** | DF | 2008-2019 | 30 | 0 |
+| **[Jesús Lucendo](./jesus-lucendo.md)** | DF | 1996-2003 | 29 | **3** |
+| **[Christian García](./christian-garcia.md)** | MC | 2020-2025 | 29 | 1 |
+| **[Iván Lorenzo](./ivan-lorenzo.md)** | MC | 2003-2016 | 28 | 0 |
+| **[Agusti Pol](./agusti-pol.md)** | MC | 1996-2003 | 28 | 1 |
 
 *(La taula recull els quaranta-quatre primers. La font n'enumera quaranta-set.)*
 
@@ -142,8 +142,17 @@ partits o més amb Andorra.**
 
 ## El que falta, i és molt
 
-- **Les catorze victòries.** El corpus en coneix **una**: la primera, contra
-  Bielorússia el 26 d'abril del 2000. **Falten tretze.** **Buit prioritari.**
+- **Les catorze victòries.** El corpus **ja en coneix quatre**, i és una millora
+  substancial sobre l'única que tenia:
+
+  | # | Contra | Quan | Com se sap |
+  | --- | --- | --- | --- |
+  | **1a** | **Bielorússia** | **26 d'abril del 2000** | [Juli Sánchez](./juli-sanchez.md) hi va marcar |
+  | **2a** | **Hongria** | *(data desconeguda)* | Va ser l'últim partit de [Josep Ayala](./josep-ayala.md) |
+  | — | **Liechtenstein**, 1-0 | **21 de març del 2018** | Debut de [Ricard Fernández](./ricard-fernandez.md) |
+  | — | **Liechtenstein**, 2-1 | **10 de juny del 2022** | Gol de 60 m de [Jesús Rubio](./jesus-rubio.md); [Ildefons Lima](./ildefons-lima.md) hi bat el rècord de veterania |
+
+  **En falten deu, i falta la data de la segona.** **Buit prioritari.**
 - **La Primera Divisió andorrana.** **El corpus no en té ni una línia**: ni
   quants equips, ni des de quan, ni qui la guanya. I els noms dels clubs que
   van sortint a les fitxes —**Casa de Portugal**, **Lusitanos**, **Inter Club
