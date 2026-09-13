@@ -124,6 +124,106 @@ seva pròpia litúrgia. Val la pena llegir-ho al costat
 Els **ciris i candeles** —15.000 pessetes— i el **petroli** diuen com s'hi feia
 llum. I els **segells de correu espanyols** diuen per on sortia el correu.
 
+## Un segon document dona el mateix inventari i un total diferent
+
+**Comprovat el 2026-09-13.** **Brutails** reprodueix aquest mateix inventari
+([font](../../../fonts/brutails-coutume-1904.md)) —**i no el treu d'on el treu
+aquesta fitxa**.
+
+| | Aquesta fitxa | Brutails |
+| --- | --- | --- |
+| **Document** | L'**estat adjunt a l'addició parlamentària** del 27 de març de 1895, al *Diario de las Sesiones* | El **fullet** *Las Cortes españolas y las franquicias de Andorra*, **pp. 10-12** |
+| **Total** | **467.419 pessetes** | **507.419 pessetes** |
+
+**Són dos documents diferents sobre la mateixa taula, i els totals es diferencien
+en exactament 40.000 pessetes.** Les tres últimes xifres —**419**— són idèntiques.
+
+### I les partides coincideixen totes
+
+Brutails només en cita vuit, i **les vuit quadren amb aquesta fitxa**:
+
+| Partida | Aquesta fitxa | Brutails |
+| --- | ---: | ---: |
+| Vi | 180.000 | **180.000** |
+| Xocolata | 64.000 | **64.000** |
+| Sègol | 25.000 | **25.000** |
+| Aiguardent | 24.000 | **24.000** |
+| Oli d'oliva | 20.000 | **20.000** |
+| Llumins / *phosphore* | 20.000 | **20.000** |
+| Ciris i candeles | 15.000 | **15.000** |
+| Teixits (llana + cànem) | 15.000 + 10.000 = **25.000** | «tissus divers» **27.000** |
+
+**Set de vuit són idèntiques al ral.** La vuitena —els teixits— és agregada de
+manera diferent i **no es pot comparar sense veure com agrupa cadascú**.
+
+### Quin dels dos totals és el bo
+
+**El corpus no té els dos documents i no arbitra.** Però **pot dir quin dels dos
+quadra amb les partides que sí que té**:
+
+- Les **onze partides majors** d'aquesta fitxa sumen **389.000 pessetes**.
+- Contra **467.419**, això fa el **83,2%** — que és **exactament el percentatge que
+  aquesta fitxa ja tenia escrit**.
+- Contra **507.419**, faria el **76,7%**.
+
+**El 467.419 és consistent amb la seva pròpia desagregació; el 507.419 no ho és
+amb aquestes mateixes partides.** Això **no demostra que el fullet s'equivoqui**
+—pot contenir partides que l'estat parlamentari no té— **però sí que diu que el
+total d'aquesta fitxa no s'ha de canviar sense veure el fullet**.
+
+**Buit registrat, prioritari:** ***Las Cortes españolas y las franquicias de
+Andorra*, pàgines 10-12**. És el mateix document que
+[el cens del bestiar](../ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md)
+necessita per a la pàgina 9. **Una sola descàrrega tancaria dos buits.**
+
+### I l'avís de qui el cita
+
+Brutails no dona la xifra sense advertir-ne:
+
+> «...il faut se rappeler que, **dans l'intérêt de sa thèse, M. Carvajal avait une
+> tendance à majorer les valeurs**.»
+
+**Qui va aixecar aquest inventari el va aixecar per guanyar una votació**, i un
+jutge que el cita hi posa aquesta reserva. **Aquesta fitxa ja ho deia** —«el va
+aixecar Espanya per defensar una rebaixa d'aranzels»— **i ara té una segona veu
+que ho diu igual**.
+
+### El vi, vist des de dins
+
+I sobre la partida més gran, Brutails hi afegeix una observació d'observador:
+
+> «**à l'inverse de bien des montagnards, l'Andorran fait une grande consommation
+> de vin et d'alcool** ; **même parmi les plus misérables, le vin est d'un usage
+> courant**.»
+
+**Les 180.000 pessetes de vi no són trànsit cap a França: és consum.** El
+document marca expressament **tres partides** com a destinades en part a
+l'estranger —xocolata, llumins i cafè— i **el vi no és cap de les tres**.
+
+I Brutails hi afegeix, amb el to del seu temps, que **els infants en patien** —
+una observació que **el corpus registra com a seva i no converteix en dada**.
+
+### I ara es pot dir quant de vi era
+
+**El buit número 4 d'aquesta fitxa** demanava **què és una càrrega de vi**. El
+corpus ja ho té: **3 quintars = 12 arroves = 16 mitgeres = 124,800 kg de pes net**
+([les mesures i les monedes](./les-mesures-i-les-monedes.md)).
+
+| | |
+| --- | --- |
+| **6.000 càrregues** | **748.800 kg de vi l'any** |
+| Per als **~6.000 habitants** del país | **≈ 125 kg per persona i any** |
+| Al dia | **≈ 0,34 kg per persona**, criatures incloses |
+| Preu | **30 pessetes la càrrega**, o **0,24 pessetes el quilo** |
+
+**Un terç de quilo de vi per habitant i dia, comprat a Espanya, sense comptar el
+que es fes al país.** Vegeu [el vi d'Andorra](../../gastronomia/begudes/el-vi-dandorra.md).
+
+**I això confirma Brutails per aritmètica, no per impressió.** Ell diu que
+l'andorrà «fait une grande consommation de vin»; **la factura ho quantifica**.
+
+**Buit tancat.**
+
 ## Dues notes al peu que valen una fitxa sencera
 
 El document acaba amb dues observacions que no tenen res a veure amb els
@@ -154,8 +254,10 @@ serien unes **525 persones**, prop d'una desena part del país.
    —**no més de 220.000 pessetes**— i diu que **principalment bestiar**.
 3. **Qui va aixecar l'inventari i com.** No consta si les dades les va donar el
    Consell General, la duana de la Seu o algú altre.
-4. **La unitat de la «càrrega» de vi** i el seu equivalent. 6.000 càrregues és la
-   partida més gran de totes i el corpus **no sap quant de vi és**.
+4. ~~**La unitat de la «càrrega» de vi** i el seu equivalent.~~ **TANCAT el
+   2026-09-13: 124,800 kg de pes net.** 6.000 càrregues són **748.800 kg l'any**,
+   uns **125 kg per habitant**. Vegeu
+   [les mesures i les monedes](./les-mesures-i-les-monedes.md).
 5. **Què són les «carguetes»** que van amb les barretines.
 6. **Si el sègol era per a les persones o per al bestiar.** El document no ho diu.
 
@@ -164,5 +266,8 @@ serien unes **525 persones**, prop d'una desena part del país.
 - [La qüestió duanera de 1895](../../historia/segle-xix/la-questio-duanera-de-1895.md) — per què es va fer aquesta llista.
 - [El contraban](../../historia/contraban/contraban.md) — el que hi consta com a «el que va a l'estranger».
 - [L'agricultura de subsistència](../ramaderia-i-agricultura/lagricultura-de-subsistencia.md) — per què calia comprar el gra.
+- [Les mesures i les monedes](./les-mesures-i-les-monedes.md) — què és una càrrega, i quant val una lliura.
+- [L'estrany i el llot](../../institucions/consell-general/lestrany-i-el-llot.md) — Andorra comprava segells espanyols mentre el Consell General n'emetia de propis que no van circular mai.
+- [El cens del bestiar de 1898-1900](../ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md) — l'altre buit que tancaria el mateix fullet.
 - [Comerç](./comerc.md) — la branca.
 - [Ramaderia i agricultura](../ramaderia-i-agricultura/ramaderia-i-agricultura.md) — el que Andorra sí que produïa.
