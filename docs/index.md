@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**684** documents · **134** fonts · **0** aptes com a model de llengua · **119** temes amb contingut.
+**688** documents · **137** fonts · **0** aptes com a model de llengua · **120** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -245,6 +245,12 @@
 | [Els jocs d'atzar](temes/economia/transformacio-economica/els-jocs-datzar.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [L'economia el 1997](temes/economia/transformacio-economica/leconomia-el-1997.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `lluelles-aspectes-socioeconomics-1997` |
 | [Transformació econòmica](temes/economia/transformacio-economica/transformacio-economica.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `viquipedia-ca` |
+
+## temes/economia/transport
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [L'aeroport que Andorra no té](temes/economia/transport/laeroport-que-andorra-no-te.md) | `temes/economia/transport` | compilada | contemporania | no | `wikipedia-aeroport-andorra` |
 
 ## temes/economia/turisme-i-neu
 
@@ -571,6 +577,7 @@
 | [Els dotze campions a casa: Andorra, 2000](temes/esports/seleccions/els-dotze-campions-a-casa-del-2000.md) | `temes/esports/seleccions` | compilada | contemporania | no | `fiba-andorra-basquet-2000` |
 | [Els dotze campions del 2024](temes/esports/seleccions/els-dotze-campions-del-2024.md) | `temes/esports/seleccions` | compilada | contemporania | no | `fiba-andorra-basquet-2024` |
 | [Els dotze de la primera final: Andorra, 2004](temes/esports/seleccions/els-dotze-de-la-primera-final-del-2004.md) | `temes/esports/seleccions` | compilada | contemporania | no | `fiba-andorra-basquet-2004` |
+| [Els dotze del triple de Galera del 2014](temes/esports/seleccions/els-dotze-del-triple-de-galera-del-2014.md) | `temes/esports/seleccions` | compilada | contemporania | no | `fiba-andorra-basquet-2014` |
 | [Els dotze dels set segons: Andorra, 2012](temes/esports/seleccions/els-dotze-dels-set-segons-del-2012.md) | `temes/esports/seleccions` | compilada | contemporania | no | `fiba-andorra-basquet-2012` |
 | [L'handbol](temes/esports/seleccions/lhandbol.md) | `temes/esports/seleccions` | compilada | contemporania | no | `wikipedia-escacs-andorra` |
 | [L'hoquei gel: un 12-0 i un 24-2](temes/esports/seleccions/lhoquei-gel.md) | `temes/esports/seleccions` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
@@ -675,6 +682,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [De 1993 ençà](temes/historia/historia-recent/de-1993-enca.md) | `temes/historia/historia-recent` | compilada | contemporania | no | `viquipedia-ca` |
+| [Els aiguats del 1982](temes/historia/historia-recent/els-aiguats-del-1982.md) | `temes/historia/historia-recent` | compilada | contemporania | no | `wikipedia-aiguats-1982` |
 | [Els Anys Daurats](temes/historia/historia-recent/els-anys-daurats.md) | `temes/historia/historia-recent` | compilada | contemporania | no | `wikipedia-anys-daurats` |
 | [La visita del copríncep De Gaulle (1967)](temes/historia/historia-recent/la-visita-de-de-gaulle.md) | `temes/historia/historia-recent` | compilada | contemporania | no | `wikipedia-anys-daurats` |
 
@@ -960,6 +968,7 @@
 | [Òscar Ribas Reig](temes/persones/oscar-ribas-reig.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
 | [Roser Suñé i Pascuet](temes/persones/roser-sune.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
 | [José Manuel «Txetxu» Bermudo Macho](temes/persones/txetxu-bermudo.md) | `temes/persones` | compilada | contemporania | no | `fiba-andorra-basquet-2004` |
+| [Xavier Galera Ruz](temes/persones/xavier-galera.md) | `temes/persones` | compilada | contemporania | no | `fiba-andorra-basquet-2014` |
 
 ## temes/politica/identitat-politica
 
@@ -1329,6 +1338,7 @@
 | [`fiba-andorra-basquet-2000`](fonts/fiba-andorra-basquet-2000.md) | FIBA · El Periòdic d'Andorra · Federació Andorrana de Bàsquet | drets reservats pels titulars respectius | False |
 | [`fiba-andorra-basquet-2004`](fonts/fiba-andorra-basquet-2004.md) | FIBA · ACB · premsa andorrana i especialitzada | drets reservats pels titulars respectius | False |
 | [`fiba-andorra-basquet-2012`](fonts/fiba-andorra-basquet-2012.md) | FIBA Europe · FIBA Archive · El Periòdic d'Andorra | drets reservats pels titulars respectius | False |
+| [`fiba-andorra-basquet-2014`](fonts/fiba-andorra-basquet-2014.md) | FIBA Europe · FIBA Archive · El Periòdic d'Andorra · MaltaToday | drets reservats pels titulars respectius | False |
 | [`fiba-andorra-basquet-2024`](fonts/fiba-andorra-basquet-2024.md) | FIBA · Ràdio i Televisió d'Andorra · Bondia · Andorra Esportiu | drets reservats pels titulars respectius | False |
 | [`figuereda-nombre-de-diputats`](fonts/figuereda-nombre-de-diputats.md) | Pere Figuereda i Cairol · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`font-fenomens-socials-immigracio`](fonts/font-fenomens-socials-immigracio.md) | Agustí Font · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
@@ -1409,6 +1419,8 @@
 | [`vilaweb-mort-sergi-mas`](fonts/vilaweb-mort-sergi-mas.md) | Partal, Maresma & Associats SL (VilaWeb) | drets reservats · citació breu amb atribució | False |
 | [`vinas-nacionalitat-andorrana-1990`](fonts/vinas-nacionalitat-andorrana-1990.md) | Ramon Viñas i Farré · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`viquipedia-ca`](fonts/viquipedia-ca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-aeroport-andorra`](fonts/wikipedia-aeroport-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-aiguats-1982`](fonts/wikipedia-aiguats-1982.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-anys-daurats`](fonts/wikipedia-anys-daurats.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-art-andorra`](fonts/wikipedia-art-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-atletes-andorrans`](fonts/wikipedia-atletes-andorrans.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

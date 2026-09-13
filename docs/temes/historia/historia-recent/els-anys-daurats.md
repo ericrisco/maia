@@ -207,7 +207,10 @@ concret que la branca d'història té: sis títols amb autor i any.**
 - **Gil Torres**, **Francesc Escudé**, **Jordi Sasplugas**, **Àlvar Menéndez**,
   **el pare Enric Graner**: cap fitxa de cap.
 - **La plaça de braus**: quan es va tancar, i què hi va haver.
-- **Els aiguats del 1982**, que el corpus no té fitxats.
+- ~~**Els aiguats del 1982**, que el corpus no té fitxats.~~ — **tancat el
+  mateix dia**: [els aiguats del 1982](./els-aiguats-del-1982.md). **Set morts i
+  dotze desapareguts a Andorra**, i **la segona font confirma que la manca de
+  planificació els va agreujar.**
 
 ## Related
 
@@ -216,3 +219,5 @@ concret que la branca d'història té: sis títols amb autor i any.**
 - [Transformació econòmica](../../economia/transformacio-economica/transformacio-economica.md)
 - [L'oligopoli bancari](../../economia/banca-i-fiscalitat/loligopoli-bancari.md)
 - [Democratització](../democratitzacio/democratitzacio.md)
+- [Els aiguats del 1982](./els-aiguats-del-1982.md)
+- [L'aeroport que Andorra no té](../../economia/transport/laeroport-que-andorra-no-te.md)
