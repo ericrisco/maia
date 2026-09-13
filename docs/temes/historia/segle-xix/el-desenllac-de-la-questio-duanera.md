@@ -36,11 +36,18 @@ Consell:
 | --- | ---: |
 | **Mules** | **450** |
 | **Cabres** | **700** |
-| **Bestiar de llana** (ovelles) | **700** |
+| **Bestiar de llana** (ovelles) | **7.000** |
 | **Bous** | **400** |
 | **Porcs** | **56** |
 | **Ases** | **25** |
-| **Cavalls** | **10** |
+| **Cavalls** | **100** |
+
+> **Dues xifres d'aquesta taula s'han corregit el 2026-09-13.** El text de Vilar
+> 1904 que el corpus va fer servir diu **10 cavalls** i **700** caps de bestiar
+> de llana. **Vilar 1908 i Brutails 1904, independentment, diuen 100 i 7.000**, i
+> **els censos duaners francesos de 1898-1900 fan impossible la primera
+> lectura**. L'aritmètica i les fonts, a
+> [el cens del bestiar de 1898-1900](../../economia/ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md).
 
 I per una sola porta: **la duana de la Farga**.
 
@@ -346,6 +353,64 @@ de propietat:
 transfronterera. Vegeu
 [la lògica pastoral dels límits](../../territori/geografia-fisica/la-logica-pastoral-dels-limits.md).
 
+## El maig de 1908: tretze anys després, i el bisbe que la torna
+
+**El corpus tenia aquesta pregunta oberta des del principi** —quan va tornar la
+franquícia, si és que va tornar— **i la resposta era a `raw/llibres/`, en el
+segon llibre de Vilar, que ningú no havia obert**
+([Un État ignoré, 1908](../../../fonts/vilar-etat-ignore-1908.md)).
+
+> «Cette solution, **ruineuse pour l'Andorre et indirectement préjudiciable à la
+> France**, **a prévalu jusqu'au mois de mai 1908**. A cette époque toute
+> récente, **les interventions de l'évêque d'Urgel, M. Benlloch y Vivo, auprès du
+> Ministère espagnol** ont heureusement abouti à une amélioration de régime.
+> **L'Andorre jouit maintenant, pour ses exportations en Espagne, du tarif de la
+> nation la plus favorisée.**»
+
+**Tretze anys de tarifa màxima**, del juny de 1895 al maig de 1908.
+
+**I la simetria és el que val.** Qui va tombar la franquícia el 1895 va ser **el
+bisbe d'Urgell**, **Casanas y Pagès**, declarant contra el seu propi país. Qui la
+va recuperar el 1908 va ser **el bisbe d'Urgell**, **Benlloch y Vivó**, gestionant
+davant del ministeri espanyol.
+
+**El mateix càrrec, el mateix mecanisme, el resultat contrari.** No és una
+institució que funcioni en un sentit o en un altre: **és una institució que depèn
+de qui l'ocupa.** Vegeu [les tres sobiranies](../../institucions/coprincipat/les-tres-sobiranies.md)
+i [la qüestió d'Andorra](./la-questio-dandorra.md), on el Consell General deia
+exactament això el 1894 —que un sobirà absent no pot governar— **i n'extreia la
+conclusió contrària**.
+
+### I per què hi podien arribar, tots dos
+
+Vilar dona la peça que ho explica, i la dona dues vegades: **tots dos bisbes eren
+senadors espanyols**.
+
+> Del de 1895: «Mais l'évêque d'Urgel, **sénateur espagnol**, passionna le débat
+> devant le Sénat et se prononça violemment contre toute espèce de franchises.»
+>
+> Del de 1908: «l'activité éclairée de l'évêque actuel, M. Benlloch y Vivo, et
+> **l'influence que lui donne sa qualité de sénateur espagnol**.»
+
+**El copríncep episcopal d'Andorra tenia escó a la cambra alta espanyola.** Això
+tanca el cercle amb [la reial ordre de setembre de 1894](./la-reial-ordre-de-setembre-de-1894.md),
+que feia del bisbe **l'únic canal** entre Andorra i l'Estat espanyol: el canal
+**seia al Senat d'aquell Estat**.
+
+### Una cosa que Vilar diu i el document desmenteix
+
+Vilar escriu que el bisbe «**passionna le débat devant le Sénat**».
+
+**El diari de sessions del Senat no conté cap debat.** Ni el **28 de juny**
+(núm. 154, 53 pàgines) ni el **29** (núm. 155) hi surt la paraula «Andorra», i el
+dictamen es va admetre **sense un sol torn en contra** — vegeu les seccions 4, 5
+i 6 d'aquesta fitxa.
+
+**El corpus es queda amb el document i marca la frase de Vilar com a imprecisa.**
+El que sí que encaixa amb tot és que la intervenció del bisbe fos **davant la
+comissió de pressupostos, el 26 de juny**, i no al plenari. **Vilar escriu
+«Sénat» on la font primària diu «comissió».**
+
 ## Buits registrats
 
 1. **El text sencer de la carta pastoral del 21 d'agost de 1894.** El corpus en té
@@ -366,12 +431,20 @@ transfronterera. Vegeu
    aquest diari**, i creia que sí. Vegeu el [README de `raw/`](../../../raw/README.md).
 3b. **La verificació caràcter a caràcter** de les citacions d'OCR contra el PDF.
    L'OCR de premsa del 1895 té errors sistemàtics.
-4. **Quantes mules hi havia realment a Andorra el 1895.** L'inventari de Carvajal
-   en diu 450 exportades l'any; el bisbe, que no n'hi havia ni 45.
-5. **Quan es va restablir la franquícia**, si és que es va restablir. El 1904
-   encara no.
-6. **El fullet *Las Cortes Españolas de 1895 y las franquicias de Andorra***
-   (Madrid), que Vilar cita en nota i el corpus no té.
+4. ~~**Quantes mules hi havia realment a Andorra el 1895.**~~ **TANCAT el
+   2026-09-13, i no dona la raó a ningú.** Els censos duaners francesos de
+   **1898, 1899 i 1900** que publica Brutails donen un **terç mitjà de 55 mules**
+   admès en franquícia, és a dir **unes 165 de ramat**. Carvajal demanava quota
+   per a **450** —gairebé tres vegades totes les mules del país— i el bisbe deia
+   que no n'hi havia **ni 45**, una quarta part de les que hi havia. Vegeu
+   [el cens del bestiar de 1898-1900](../../economia/ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md).
+5. ~~**Quan es va restablir la franquícia**, si és que es va restablir. El 1904
+   encara no.~~ **TANCAT el 2026-09-13: el maig de 1908.** Vegeu la secció de
+   sota.
+6. **El fullet *Las Cortes españolas de 1895 y las franquicias de Andorra***
+   (Madrid, **1895**), que Vilar cita en nota i el corpus no té. **Brutails el
+   cita amb pàgina —la 9—** i n'extreu la quota; segueix sent el document que
+   falta.
 7. **La temptativa espanyola de 1864**, des d'altres fonts.
 
 ## Related

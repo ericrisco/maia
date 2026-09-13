@@ -1,0 +1,105 @@
+---
+type: font
+id: vilar-etat-ignore-1908
+title: "André Vilar, Un État ignoré: l'Andorre (1908)"
+titular: André Vilar · F. R. de Rudeval, éditeur, París · obra de 1908, domini públic
+url: "URL de descàrrega no registrada; l'exemplar és a docs/raw/llibres/andre-vilar-andorre.txt"
+llicencia: domini públic per antiguitat; digitalització de Google Books
+redistribucio: si
+data_consulta: 2026-09-13
+autor: André Vilar, conseller general dels Pirineus Orientals
+publicacio: "Un État ignoré: l'Andorre. París, F. R. de Rudeval, éditeur, 4 rue Antoine Dubois, 1908. 75 pàgines, amb 8 figures i un mapa."
+abast: >
+  Llibre de divulgació en cinc capítols —etnografia i costums, història,
+  institucions públiques, la sobirania i la justícia dels cosenyors, i la
+  qüestió d'Andorra— del mateix autor que el tractat de 1904. A
+  docs/raw/llibres/andre-vilar-andorre.txt.
+notes: >
+  ÉS EL MATEIX AUTOR I, EN BONA PART, EL MATEIX CONTINGUT que
+  vilar-andorre-1904, refet per a públic general i signat ara com a CONSELLER
+  GENERAL DELS PIRINEUS ORIENTALS i no com a doctor en dret. Qui el llegeixi
+  buscant novetats en trobarà poques: la major part dels episodis, les dates i
+  les citacions ja són al llibre de 1904, que el corpus té mineat.
+  EL QUE NOMÉS HI HA AQUÍ ÉS EL FINAL, i és el que valia la pena: el règim de
+  tarifa màxima imposat a Andorra el 1895 «a prévalu jusqu'au mois de mai 1908»,
+  i el va desfer el bisbe d'Urgell BENLLOCH Y VIVÓ davant el ministeri
+  espanyol. Tretze anys. El corpus ho tenia com a buit registrat.
+  I HI HA UNA DADA DE CÀRREC: tots dos bisbes hi consten com a SENADORS
+  ESPANYOLS. Això explica l'accés del bisbe al Senat el 1895 i l'accés del seu
+  successor al ministeri el 1908.
+  ES LA MATEIXA TESI FRANCESA, I L'AUTOR SEGUEIX SENT PART. Vegeu
+  vilar-andorre-1904: feia campanya per restringir les franquícies andorranes a
+  França mentre escrivia sobre elles, i aquí reprodueix en nota el vot que va
+  fer adoptar al seu consell general el 5 d'octubre de 1904.
+  DISCREPA DEL SEU PROPI LLIBRE DE 1904 EN DUES XIFRES de la quota de
+  Carvajal: aquí 100 cavalls i 7.000 caps de bestiar de llana, allà 10 i 700.
+  Brutails, independentment, dona 100 i 7.000. Vegeu
+  el-cens-del-bestiar-de-1898-1900.
+  I DISCREPA DE LA FONT PRIMÀRIA en un punt: diu que el bisbe «passionna le
+  débat devant le Sénat», i el diari de sessions del Senat del 28 i el 29 de
+  juny de 1895 no conté cap debat ni cap menció d'Andorra. El corpus es queda
+  amb el document.
+  OCR DESIGUAL, com el de 1904: els números pateixen —100 surt «roo», 1881 surt
+  «i5 mars 1881»—. Les xifres s'han de llegir amb compte.
+---
+
+# Un État ignoré: l'Andorre (1908)
+
+> **André Vilar, conseller general dels Pirineus Orientals, *Un État ignoré:
+> l'Andorre*.** París, **F. R. de Rudeval**, 4 rue Antoine Dubois. **1908.**
+> 75 pàgines, amb 8 figures i un mapa.
+
+**El segon llibre de Vilar sobre Andorra**, quatre anys després
+[del tractat de 1904](./vilar-andorre-1904.md), i **molt més curt**: 75 pàgines
+contra 192.
+
+## Per què val, i per què val poc
+
+**Val poc perquè es repeteix.** El corpus ha comparat els dos textos cadena a
+cadena: el manifest del bisbe **Casanas y Pagès**, la resposta del Consell
+General, l'entrevista de *La Vanguardia* de l'11 de setembre de 1894, el crit de
+1868, el decret francès del **15 de març de 1881**, la temptativa espanyola de
+**1864**, les pastures transfrontereres, la sentència **Laugé** i la sentència
+**Vives**, la negativa francesa als consolats andorrans — **tot això ja és al
+llibre de 1904**, i el corpus ja ho tenia.
+
+**Val molt per una pàgina.** La de la **pàgina 58**, que **només podia
+escriure's el 1908**:
+
+> «Cette solution, ruineuse pour l'Andorre et indirectement préjudiciable à la
+> France, **a prévalu jusqu'au mois de mai 1908**. A cette époque toute récente,
+> **les interventions de l'évêque d'Urgel, M. Benlloch y Vivo, auprès du
+> Ministère espagnol** ont heureusement abouti à une amélioration de régime.
+> **L'Andorre jouit maintenant, pour ses exportations en Espagne, du tarif de la
+> nation la plus favorisée.**»
+
+**El corpus tenia això com a buit registrat**, i el tenia des del principi **en
+un fitxer del seu propi `raw/`**.
+
+## Els dos bisbes eren senadors espanyols
+
+Vilar ho diu dues vegades, del bisbe de **1895** —«l'évêque d'Urgel, **sénateur
+espagnol**, passionna le débat devant le Sénat»— i del de **1908** —«l'influence
+que lui donne **sa qualité de sénateur espagnol**».
+
+**Això és una dada de càrrec, no una opinió**, i explica les dues cares de la
+història: **per què el bisbe podia intervenir al Senat espanyol el 1895, i per
+què el seu successor podia arribar al ministeri el 1908.**
+
+## El que en surt
+
+| Tema | Fitxa |
+| --- | --- |
+| Quan va tornar la franquícia, i qui la va tornar | [El desenllaç de la qüestió duanera](../temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md) |
+| Les xifres del bestiar, i qui tenia raó | [El cens del bestiar de 1898-1900](../temes/economia/ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md) |
+
+## Buits registrats
+
+1. **L'URL** del volum digitalitzat.
+2. **Els capítols I a IV**, que el corpus **no ha llegit sencers**: s'ha
+   comprovat que repeteixen el llibre de 1904 **per cadenes clau**, no paraula
+   per paraula. Hi pot haver matisos nous que aquesta comprovació no veu.
+3. **Què va acordar exactament Espanya el maig de 1908**, i amb quina norma.
+   Vilar en dona el resultat i no la referència.
+4. **Qui era Benlloch y Vivó**, i què més va fer per Andorra.
+5. **Les 8 figures i el mapa**, que el text extret no conté.

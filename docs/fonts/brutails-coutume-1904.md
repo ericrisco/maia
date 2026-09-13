@@ -76,3 +76,17 @@ I, als annexos, **extractes del Politar** i la **Instructa als batlles de 1740**
 2. **Els capítols IV a IX**, sencers. El corpus n'ha llegit el I, el II i el III.
 3. **Les peces justificatives**: hi ha transcrits documents d'arxiu que el corpus
    no té per cap altra via.
+
+## El que en surt
+
+| Tema | Fitxa |
+| --- | --- |
+| Els censos duaners de 1898-1900, i quant bestiar tenia Andorra | [El cens del bestiar de 1898-1900](../temes/economia/ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md) |
+
+**I una funció que no s'esperava: aquesta obra fa de tercer testimoni.** La quota
+de bestiar de Carvajal de 1895 hi surt amb **100 cavalls i 7.000 caps de bestiar
+de llana**, contra els **10 i 700** de
+[Vilar 1904](./vilar-andorre-1904.md) — i **els censos que el mateix Brutails
+publica desempaten l'aritmètica**. Brutails, a més, **cita la pàgina** d'on treu
+la llista: *Las Cortes españolas de 1895 y las franquicias de Andorra*, Madrid,
+1895, **p. 9**.

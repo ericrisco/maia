@@ -37,6 +37,12 @@ notes: >
   quals el corpus té el PDF i no el text.
   OCR DESIGUAL: els números pateixen (1894 surt «i8g4», 450 surt «45o»). Les
   xifres s'han de llegir amb compte i es marquen quan no són segures.
+  I UNA XIFRA D'AQUESTA OBRA ÉS ERRÒNIA, comprovat el 2026-09-13: la quota de
+  Carvajal hi surt amb 10 cavalls i 700 caps de bestiar de llana, i tant Vilar
+  1908 com Brutails 1904 diuen 100 i 7.000. Els censos duaners francesos de
+  1898-1900 confirmen els segons. No és OCR: el text imprès diu «10 têtes de
+  chevaux» i «700 têtes de bêtes à laine», llegible. Queda com a defecte de la
+  font, no de la lectura.
 ---
 
 # André Vilar, L'Andorre (1904)
@@ -72,6 +78,13 @@ sostenia el mateix Consell General el 1894. Les tres, a
 ## Buits registrats
 
 1. **L'URL** del volum digitalitzat.
-2. **«Un État ignoré: l'Andorre»**, l'altra obra del mateix autor, al mateix
-   directori i **encara no llegida**.
+2. ~~**«Un État ignoré: l'Andorre»**, l'altra obra del mateix autor, al mateix
+   directori i **encara no llegida**.~~ **TANCAT el 2026-09-13**: llegida, i amb
+   fitxa pròpia a [vilar-etat-ignore-1908](./vilar-etat-ignore-1908.md). És de
+   **1908**, 75 pàgines, i **repeteix aquest llibre** llevat del final.
+2b. **ATENCIÓ EN AQUESTA OBRA:** dona la quota de Carvajal amb **10 cavalls** i
+   **700** caps de bestiar de llana. **Vilar 1908 i Brutails 1904 donen 100 i
+   7.000**, i els censos duaners francesos de 1898-1900 fan impossible la
+   lectura d'aquest llibre. **En aquest punt, aquesta font és l'errònia.** Vegeu
+   [el cens del bestiar de 1898-1900](../temes/economia/ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md).
 3. **Les parts I i II**: història i règim polític. El corpus n'ha llegit la III.

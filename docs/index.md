@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**532** documents · **122** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
+**533** documents · **123** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -191,6 +191,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El cens del bestiar de 1898-1900](temes/economia/ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md) | `temes/economia/ramaderia-i-agricultura` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [La crisi de l'oví](temes/economia/ramaderia-i-agricultura/la-crisi-de-lovi.md) | `temes/economia/ramaderia-i-agricultura` | compilada | contemporania | no | `mas-pagesos-i-artesans` |
 | [La transhumància](temes/economia/ramaderia-i-agricultura/la-transhumancia.md) | `temes/economia/ramaderia-i-agricultura` | compilada | contemporania | no | `becat-vida-pastoral` |
 | [La vinya i el tabac](temes/economia/ramaderia-i-agricultura/la-vinya-i-el-tabac.md) | `temes/economia/ramaderia-i-agricultura` | compilada | contemporania | no | `mas-pagesos-i-artesans` |
@@ -1213,6 +1214,7 @@
 | [`vela-consell-de-la-terra-1419`](fonts/vela-consell-de-la-terra-1419.md) | Susanna Vela i Palomares · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`vela-ordinacions-segle-xv`](fonts/vela-ordinacions-segle-xv.md) | Susanna Vela i Palomares · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`vilar-andorre-1904`](fonts/vilar-andorre-1904.md) | André Vilar · V. Giard & E. Brière, París · obra de 1904, domini públic | domini públic per antiguitat; digitalització de Google Books | si |
+| [`vilar-etat-ignore-1908`](fonts/vilar-etat-ignore-1908.md) | André Vilar · F. R. de Rudeval, éditeur, París · obra de 1908, domini públic | domini públic per antiguitat; digitalització de Google Books | si |
 | [`vilaweb-mort-sergi-mas`](fonts/vilaweb-mort-sergi-mas.md) | Partal, Maresma & Associats SL (VilaWeb) | drets reservats · citació breu amb atribució | False |
 | [`vinas-nacionalitat-andorrana-1990`](fonts/vinas-nacionalitat-andorrana-1990.md) | Ramon Viñas i Farré · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`viquipedia-ca`](fonts/viquipedia-ca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
