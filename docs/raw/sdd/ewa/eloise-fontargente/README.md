@@ -1333,6 +1333,13 @@ conjugal, alhora que introdueix variants censals —Lucie/Denise i anys diferent
 per Yvonne i Albert— que s'han preservat literalment. Tampoc aquest tercer cens
 anomena `Léo` ni associa la xarcuteria amb la lavanda.
 
+El 1931 (`6 M 307`, imatges 3–4) el mateix fogar arriba a dotze persones i
+revela l'organització interna del negoci: Henri és `charcutier, patron`, Anna
+Lacroix repeteix l'ofici, Denise porta la comptabilitat i **Pierre és ja
+charcutier de M. Delvert**. Quatre residents més consten com a empleats
+xarcuters. La xarcuteria era, doncs, un establiment familiar amb divisió de
+tasques i personal, però el cens tampoc no diu `Léo` ni `lavande`.
+
 La logística sindical també queda més definida. El local cadurcien de 1936 no
 podia emmagatzemar més de 150 kg de flor fresca al dia: era un límit d'espai,
 no de destil·lació. El nou taller de Cabazat, anunciat amb un alambí nominal de
