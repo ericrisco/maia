@@ -152,6 +152,29 @@ Aquesta llista **és la feina pendent** i es repeteix a moltes fitxes:
 - La **Catalunya Romànica** sobre el marc històric del romànic d'Andorra.
 - El **Nomenclàtor**, 4.240 entrades.
 
+## El parany de les paraules de cada generació
+
+**Joan Massa i Sarrado**, el 1994, obre la seva ponència sobre la sobirania amb
+un parèntesi que el corpus fa seu
+([font](../../../fonts/massa-gran-carlemany-sobirania-1994.md)):
+
+> «**El parany de la historiografia: cada generació aplica al passat els mots de
+> la seva preocupació existencial. Cal malfiar-se davant de cada mot, però cada
+> generació és un crit, un plany i una esperança. Va endavant mirant enrere.**»
+
+**Les dues meitats importen.** La primera diu que **el vocabulari amb què es
+llegeix el passat ve del present**: el segle XIX hi va llegir *nació*, el XX
+*sobirania*, i el XXI hi llegeix *identitat* i *sostenibilitat*. La segona diu
+que **això no invalida el que s'hi va escriure**: cada generació hi deixa el seu
+crit, i el crit és un document.
+
+**Per a aquest corpus la conseqüència és operativa:** quan una font antiga fa
+servir una paraula que avui té un altre pes —*sobirania*, *catalanitat*, *raça*,
+*tradició*— **s'ha de citar amb la seva data enganxada**, mai com si fos una
+descripció neutra. Vegeu
+[qui deia que Andorra no era sobirana](../../institucions/coprincipat/qui-deia-que-andorra-no-era-sobirana.md),
+que és **el mateix autor caient-hi a posta i avisant-ne abans**.
+
 ## El criteri d'aquest corpus
 
 Val la pena deixar-lo escrit aquí, que és on toca:
@@ -171,3 +194,4 @@ còmoda.
 - [Museus i arxius](../../cultura/museus-i-arxius/museus-i-arxius.md)
 - [La Societat Andorrana de Ciències](../../cultura/museus-i-arxius/la-societat-andorrana-de-ciencies.md) — qui publica avui la recerca andorrana, i amb quin biaix.
 - [La cronologia d'Andorra](../moments-historics/la-cronologia-dandorra.md) — quatre cronologies creuades, i on no coincideixen.
+- [Qui deia que Andorra no era sobirana](../../institucions/coprincipat/qui-deia-que-andorra-no-era-sobirana.md) — el debat amb noms.

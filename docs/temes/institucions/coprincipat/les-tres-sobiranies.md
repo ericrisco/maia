@@ -134,3 +134,4 @@ va arribar el mateix any.
 - [La Constitució de 1993](../../historia/constitucio-1993/constitucio-1993.md) — la resposta.
 - [El reconeixement internacional](../relacions-exteriors/el-reconeixement-internacional.md) — el mateix any.
 - [L'ordenament jurídic avui](../justicia/lordenament-juridic-avui.md) — l'article 1.3, en context.
+- [Qui deia que Andorra no era sobirana](./qui-deia-que-andorra-no-era-sobirana.md) — els mateixos arguments, discutits per nom a la literatura acadèmica.
