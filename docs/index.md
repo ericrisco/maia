@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**450** documents · **115** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
+**451** documents · **116** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -836,6 +836,7 @@
 | [Els nats a Andorra](temes/societat/immigracio/els-nats-a-andorra.md) | `temes/societat/immigracio` | compilada | contemporania | no | `debat-2a-diada-migracions` |
 | [Immigració](temes/societat/immigracio/immigracio.md) | `temes/societat/immigracio` | compilada | contemporania | no | `viquipedia-ca` |
 | [La immigració llatinoamericana](temes/societat/immigracio/la-immigracio-llatinoamericana.md) | `temes/societat/immigracio` | compilada | contemporania | no | `de-la-parte-immigracio-cultura` |
+| [La integració com a conflicte](temes/societat/immigracio/la-integracio-com-a-conflicte.md) | `temes/societat/immigracio` | compilada | contemporania | no | `goya-integracio-democratica-1997` |
 | [La normativa migratòria](temes/societat/immigracio/la-normativa-migratoria.md) | `temes/societat/immigracio` | compilada | contemporania | no | `ros-pascuet-normativa-migratoria-1997` |
 | [La piràmide de prestigi](temes/societat/immigracio/la-piramide-de-prestigi.md) | `temes/societat/immigracio` | compilada | contemporania | no | `mico-interculturalitat` |
 | [La portuguesitat](temes/societat/immigracio/la-portuguesitat.md) | `temes/societat/immigracio` | compilada | contemporania | no | `goncalves-multiculturalitat-lusitana` |
@@ -1062,6 +1063,7 @@
 | [`giral-mitjans-identitat-1990`](fonts/giral-mitjans-identitat-1990.md) | Eugeni Giralt · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`goncalves-multiculturalitat-lusitana`](fonts/goncalves-multiculturalitat-lusitana.md) | José Luis Gonçalves Carvalho · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
 | [`govern-andorra-web`](fonts/govern-andorra-web.md) | Govern del Principat d'Andorra | informació institucional pública | si |
+| [`goya-integracio-democratica-1997`](fonts/goya-integracio-democratica-1997.md) | Ferran Goya Rodríguez de Castro · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`guillamet-la-recerca`](fonts/guillamet-la-recerca.md) | Jordi Guillamet i Anton · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`iec-aldc-andorra`](fonts/iec-aldc-andorra.md) | Institut d'Estudis Catalans | publicació acadèmica de l'IEC, accés obert | pendent |
 | [`iec-vocabulari-andorra`](fonts/iec-vocabulari-andorra.md) | Institut d'Estudis Catalans · Servei de Política Lingüística del Govern d'Andorra | publicació acadèmica de l'IEC, accés obert | pendent |
