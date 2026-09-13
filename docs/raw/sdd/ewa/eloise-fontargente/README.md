@@ -1282,6 +1282,15 @@ de 2023: 40 kg d'oli i 1.000 l d'hidrolat d'una parcel·la ecològica de 2 ha
 plantada el 2018.
 [Dossier Quercy 1922–2026](dreyfus-schmidt/yvonne-kahn/jacques-dreyfus-schmidt/baume-des-anges/carla/carla-comparador-quercy-historia-mercat-i-experiment-1922-2026.md).
 
+R. Barel permet anar més enrere i posar noms al focus del Gourdonais: Poujade
+de Rouffilhac i Bos del Vigan assajaren el 1935 plantes del Dauphiné; Bos
+produïa llavor pròpia des de 1941 i dos alambins articulaven dotze municipis.
+La regió produïa uns 350 kg anuals, amb rendiments de 0,8–0,9 kg d'essència per
+100 kg de flor. No hi hagué venda el 1946–1948 i els estocs només sortiren el
+1949. L'OCR de la premsa local prova, a més, un sindicat de productors actiu el
+1937 i un taller/oficina de compra projectat a Martel el 1939; els facsímils
+directes resten bloquejats pel servidor i no s'han simulat.
+
 La branca pública permet seguir el pas d'assaig a patrimoni. Una crònica de
 l'assemblea Quercy PPAM de setembre de 2024 situa les primeres collites
 experimentals el 2023, descriu pluja i gel el 2024 i calcula un any i mig
