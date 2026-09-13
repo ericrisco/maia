@@ -172,17 +172,24 @@ de desplaçar-se fora per dipositar els seus estalvis**».
 2. **La Companyia d'Andorra** de 1928: qui hi havia, què va ser-ne.
 3. **Les actes del Consell General** de 1928-1930. **Font primària citada i no
    consultada.**
-4. **Quan acaba** l'exclusiva bancària i la clàusula del 5%.
+4. ~~**Quan acaba** l'exclusiva bancària i la clàusula del 5%.~~ — **tancat el
+   2026-09-13**: **el 1951**, i el que ve després és
+   [l'oligopoli bancari](./loligopoli-bancari.md): **el 1957 els coprínceps
+   prohibeixen bancs nous i el 1968 els existents es reparteixen el país a canvi
+   d'assumir el deute de SOBANCA.**
 5. **Manel Cerqueda i Escaler**: la biografia. Consta que va crear **oficines de
    comerç internacional a Milà, Casablanca i Andorra** abans del banc. **Això és
    extraordinari per a un andorrà dels anys vint i el corpus no en sap res més.**
-6. **Què va ser del Banc Agrícol** — existeix encara, amb quin nom?
+6. ~~**Què va ser del Banc Agrícol** — existeix encara, amb quin nom?~~ —
+   **tancat**: **es va fusionar amb Banca Reig i el resultat és AndBank**
+   ([l'oligopoli bancari](./loligopoli-bancari.md)).
 7. **La plaça Rebés** i **casa Guillema**.
 
 ## Related
 
 - [Abans dels bancs](./abans-dels-bancs.md) — què hi havia.
 - [FHASA](../energia-i-serveis/fhasa.md) — la mateixa operació.
+- [L'oligopoli bancari](./loligopoli-bancari.md) — què passa quan cau l'exclusiva.
 - [Les vagues de FHASA](../../historia/segle-xx-primera-meitat/les-vagues-de-fhasa.md) — el conflicte.
 - [Boris Skossyreff](../../historia/segle-xx-primera-meitat/boris-skossyreff.md) — per què sonava creïble.
 - [El cas BPA](./el-cas-bpa.md) — la banca, vuitanta anys després.

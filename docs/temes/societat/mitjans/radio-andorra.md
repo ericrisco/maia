@@ -59,7 +59,46 @@ El **5 de novembre de 1981**, el **Consell General va decidir el tancament de
 Ràdio Andorra i de Sud Ràdio**.
 
 Cal retenir qui tanca: **no la va tancar França. La va tancar el Consell General
-d'Andorra.** La premsa andorrana hi torna amb un titular que ho diu tot —
+d'Andorra.**
+
+### El que una segona font hi afegeix, i canvia la lectura
+
+**Afegit el 2026-09-13**, de
+[«Andorra durant els Anys Daurats»](../../../fonts/wikipedia-anys-daurats.md):
+
+> **«Després de la guerra, el director de Ràdio Andorra és acusat d'haver
+> col·laborat amb el franquisme i, per salvar el negoci, cedeix Ràdio Andorra al
+> govern franquista. França, enutjada per no poder tancar-la, obre una ràdio
+> secundària, Sud Ràdio.»**
+
+**Dues coses noves.** **Primera: aquesta font diu que l'acusació era de
+col·laboració amb el franquisme, no amb Vichy** —**la versió que aquesta fitxa
+ja tenia.** **Segona, i més gran: diu que el director va cedir l'emissora al
+govern franquista per salvar-la.** **El corpus no tenia cap propietari espanyol
+de Ràdio Andorra.** **Desacord registrat, no arbitrat.**
+
+**I dona el motiu de fons, que no és comercial:**
+
+> **«Rere la guerra de les audiències hi havia igualment una guerra diplomàtica.
+> França no volia que Andorra pogués representar-se internacionalment perquè no
+> volia que Andorra fos reconeguda com a estat a banda. Una actitud que
+> confrontava França amb Espanya pels mateixos motius.»**
+
+**La guerra de les ràdios era una guerra pel reconeixement d'Andorra com a
+estat.** **Això lliga directament amb
+[la consciència nacional andorrana](../../politica/identitat-politica/la-consciencia-nacional-andorrana.md)
+i amb [Andorra com a microestat](../../institucions/petits-estats/andorra-com-a-microestat.md).**
+
+**La font afegeix que «el Consell General volgué posar final a aquesta guerra
+radiofònica però mai aconseguí posar-hi peu», perquè «el copríncep l'utilitzava
+per fer política a través d'altres mitjans»**, i que **a Andorra es mantenien
+assemblees magnes com a forma de legitimar el Consell General com a portaveu
+dels andorrans dins i fora del país.**
+
+**I un detall europeu**: **la mateixa guerra va involucrar Ràdio Luxemburg i
+Ràdio Mònaco**, i **Ràdio Luxemburg, amb la ràdio i televisió pública belga, va
+construir la UER** — **l'organisme que avui gestiona les emissions en directe de
+tots els països europeus, Eurovisió inclosa.** La premsa andorrana hi torna amb un titular que ho diu tot —
 *«Qui va matar Radio Andorra?»*— i això indica que **el cas encara és discutit
 al país**. Aquesta fitxa no pren partit: registra que hi ha debat i que no s'ha
 llegit.
@@ -82,6 +121,9 @@ estat, i qui en té els drets.
 - Qui era **Victòria Zorzano** — la primera veu. Mereix fitxa pròpia.
 - La programació: què s'hi emetia, en quines llengües, i quant en català.
 - Sud Ràdio i el transmissor del **Pic Blanc**.
+- **Qui era el director acusat**, i **si Ràdio Andorra va ser realment del
+  govern franquista**. **Buit prioritari obert el 2026-09-13.**
+- **Les assemblees magnes** com a instrument de legitimació exterior.
 - El debat del tancament del 1981, amb les dues versions.
 
 ## Related

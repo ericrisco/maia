@@ -244,6 +244,15 @@ de cada moment i no pas a un programa preordenat»**
 5. **Qui van ser els vots en contra** del 4 de juliol de 1969.
 6. **El text dels decrets** de 1970 i 1973.
 7. **Què deia la premsa** andorrana entre 1967 i 1973.
+8. **Si el maig francès del 1968 hi va tenir res a veure.** Una segona font
+   ([els anys daurats](../../historia/historia-recent/els-anys-daurats.md)) diu
+   que les andorranes estaven **«contagiades per l'ambient del maig francès»** i
+   **data la recollida de signatures el 1967** — **un any abans del maig del
+   1968.** **La causa que dona és posterior al fet que explica**, i **el corpus
+   no la transcriu.** **El que sí que és cert és que la petició ampliada, amb
+   més de 370 signatures, es va presentar el 15 de maig del 1968**: **exactament
+   durant el maig francès.** **Coincidència registrada, causalitat no
+   afirmada.**
 8. **Testimoni oral** de dones que van votar el 14 de desembre de 1971. **En
    viuen.** Material de fase 3.
 9. La **llei de 1975** sobre drets civils de la dona casada.

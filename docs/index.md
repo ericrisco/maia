@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**667** documents · **131** fonts · **0** aptes com a model de llengua · **118** temes amb contingut.
+**670** documents · **132** fonts · **0** aptes com a model de llengua · **118** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -177,6 +177,7 @@
 | [Els altres impostos](temes/economia/banca-i-fiscalitat/els-altres-impostos.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Els tipus impositius](temes/economia/banca-i-fiscalitat/els-tipus-impositius.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La supervisió financera](temes/economia/banca-i-fiscalitat/la-supervisio-financera.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [L'oligopoli bancari: del 1951 al segle XXI](temes/economia/banca-i-fiscalitat/loligopoli-bancari.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `wikipedia-anys-daurats` |
 
 ## temes/economia/comerc
 
@@ -659,6 +660,8 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [De 1993 ençà](temes/historia/historia-recent/de-1993-enca.md) | `temes/historia/historia-recent` | compilada | contemporania | no | `viquipedia-ca` |
+| [Els Anys Daurats](temes/historia/historia-recent/els-anys-daurats.md) | `temes/historia/historia-recent` | compilada | contemporania | no | `wikipedia-anys-daurats` |
+| [La visita del copríncep De Gaulle (1967)](temes/historia/historia-recent/la-visita-de-de-gaulle.md) | `temes/historia/historia-recent` | compilada | contemporania | no | `wikipedia-anys-daurats` |
 
 ## temes/historia/historiografia
 
@@ -1387,6 +1390,7 @@
 | [`vilaweb-mort-sergi-mas`](fonts/vilaweb-mort-sergi-mas.md) | Partal, Maresma & Associats SL (VilaWeb) | drets reservats · citació breu amb atribució | False |
 | [`vinas-nacionalitat-andorrana-1990`](fonts/vinas-nacionalitat-andorrana-1990.md) | Ramon Viñas i Farré · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`viquipedia-ca`](fonts/viquipedia-ca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-anys-daurats`](fonts/wikipedia-anys-daurats.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-art-andorra`](fonts/wikipedia-art-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-atletes-andorrans`](fonts/wikipedia-atletes-andorrans.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-escacs-andorra`](fonts/wikipedia-escacs-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
