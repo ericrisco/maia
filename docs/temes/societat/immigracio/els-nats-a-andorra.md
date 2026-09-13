@@ -147,6 +147,32 @@ passaports»**.
 **Entre el 13% i el 20% de nacionals el 1989.** **Buit registrat:** la xifra
 exacta i la sèrie.
 
+## D'on surt la categoria: hi ha una data
+
+Becat, el 1989, descriu la categoria com una anomalia sense causa explicada.
+**Francesca Ros Pascuet en dona l'origen el 1997**
+([font](../../../fonts/ros-pascuet-normativa-migratoria-1997.md)):
+
+> «**Des de l'any 1975, la legislació en aquesta matèria ha plantejat moltes
+> dificultats per accedir al dret a la nacionalitat andorrana**; **a partir
+> d'aleshores**, el recompte de la població d'andorrans **es divideix en dues
+> categories, els andorrans i els andorrans de fet**, classificats a les
+> estadístiques oficials com a **«nats a Andorra»**.»
+
+**La categoria no és un caprici estadístic: és el residu d'una política de
+nacionalitat restrictiva que arrenca el 1975.** I la seva definició hi queda
+fixada: **residents, fills d'estrangers, nascuts al Principat, que no han
+adquirit la nacionalitat andorrana i tampoc no han tramitat la dels seus
+pares**.
+
+La conseqüència, en una línia de la mateixa font: entre **1973 i 1994 la població
+andorrana no arriba al 30%** del total, i **els nacionals van ser durant anys
+minoria al seu país**.
+
+El gir arriba amb la **Llei qualificada de la nacionalitat del 5 d'octubre de
+1995**, que flexibilitza l'accés — vegeu
+[la normativa migratòria](./la-normativa-migratoria.md).
+
 ## Buits registrats
 
 1. **La sèrie de la categoria «nats a Andorra»** als censos: quan apareix, quants
@@ -168,3 +194,4 @@ exacta i la sèrie.
 - [L'hereu i el cabaler](../../historia/antic-regim/lhereu-i-el-cabaler.md) — quan emigren els hereus.
 - [La política de nacionalitat](../../institucions/nacionalitat-i-residencia/la-politica-de-nacionalitat.md) — Andorra i Mònaco, els dos microestats on els immigrants superen els nadius.
 - [La composició per nacionalitats](../demografia/la-composicio-per-nacionalitats.md) — la xifra: més de 7.000 nats a Andorra sense nacionalitat a principi dels anys 90.
+- [La normativa migratòria](./la-normativa-migratoria.md) — la política que crea aquesta categoria, amb dates.
