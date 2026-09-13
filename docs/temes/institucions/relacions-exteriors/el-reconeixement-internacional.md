@@ -193,3 +193,4 @@ romana»**. **Cap decisió no és vàlida si no la prenen tots dos.**
 - [La Constitució de 1993](../../historia/constitucio-1993/constitucio-1993.md)
 - [El Pareatge](../../historia/pareatge/el-pareatge.md)
 - [Les fonts del dret](../justicia/les-fonts-del-dret.md)
+- [Qui parlava per Andorra](./qui-parlava-per-andorra.md) — per què no en va tenir abans: França no deixava obrir consolats andorrans.

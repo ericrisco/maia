@@ -186,3 +186,4 @@ Septiembre» apunta a l'**1**, i **el corpus no ho dona per bo**.
 - [El Consell General](../../institucions/consell-general/el-consell-general.md) — l'autoritat amb qui es prohibeix tractar.
 - [El reconeixement internacional](../../institucions/relacions-exteriors/el-reconeixement-internacional.md) — el 1993, noranta-nou anys després.
 - [La cronologia d'Andorra](../moments-historics/la-cronologia-dandorra.md) — els delegats permanents de 1881 i 1882, i on **1894 no hi és**.
+- [Qui parlava per Andorra](../../institucions/relacions-exteriors/qui-parlava-per-andorra.md) — França demanava el mateix, deu anys després i en sentit contrari.

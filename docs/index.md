@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**533** documents · **123** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
+**534** documents · **123** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -700,6 +700,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [El reconeixement internacional](temes/institucions/relacions-exteriors/el-reconeixement-internacional.md) | `temes/institucions/relacions-exteriors` | compilada | contemporania | no | `serra-vatica-microestat` |
 | [L'acord d'associació amb la UE](temes/institucions/relacions-exteriors/lacord-dassociacio-amb-la-ue.md) | `temes/institucions/relacions-exteriors` | compilada | contemporania | no | `premsa-andorrana` |
+| [Qui parlava per Andorra](temes/institucions/relacions-exteriors/qui-parlava-per-andorra.md) | `temes/institucions/relacions-exteriors` | compilada | contemporania | no | `vilar-andorre-1904` |
 
 ## temes/institucions/simbols
 

@@ -74,6 +74,7 @@ sostenia el mateix Consell General el 1894. Les tres, a
 | --- | --- |
 | Com va acabar l'afer duaner | [El desenllaç de la qüestió duanera](../temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md) |
 | Tres estats, tres tesis, una dècada | [Les tres sobiranies](../temes/institucions/coprincipat/les-tres-sobiranies.md) |
+| La representació exterior, negada i exercida | [Qui parlava per Andorra](../temes/institucions/relacions-exteriors/qui-parlava-per-andorra.md) |
 
 ## Buits registrats
 
@@ -87,4 +88,4 @@ sostenia el mateix Consell General el 1894. Les tres, a
    7.000**, i els censos duaners francesos de 1898-1900 fan impossible la
    lectura d'aquest llibre. **En aquest punt, aquesta font és l'errònia.** Vegeu
    [el cens del bestiar de 1898-1900](../temes/economia/ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md).
-3. **Les parts I i II**: història i règim polític. El corpus n'ha llegit la III.
+3. **Les parts I i II**: història i règim polític. El corpus n'ha llegit la III **i, des del 2026-09-13, el capítol de la sobirania i la justícia dels cosenyors**. La història i el règim administratiu segueixen sense llegir.

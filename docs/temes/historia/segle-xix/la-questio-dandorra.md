@@ -280,3 +280,4 @@ tenia notícia.
 - [El reconeixement internacional](../../institucions/relacions-exteriors/el-reconeixement-internacional.md) — el que Andorra reclamava ja el 1894.
 - [La cronologia d'Andorra](../moments-historics/la-cronologia-dandorra.md) — on això era una línia.
 - [El Consell General](../../institucions/consell-general/el-consell-general.md) — la institució que signa.
+- [Qui parlava per Andorra](../../institucions/relacions-exteriors/qui-parlava-per-andorra.md) — la rèplica francesa a la doctrina de la representació exterior, i el contraexemple que el mateix replicant dona.

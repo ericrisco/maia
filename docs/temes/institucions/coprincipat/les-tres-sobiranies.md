@@ -163,3 +163,4 @@ va arribar el mateix any.
 - [El reconeixement internacional](../relacions-exteriors/el-reconeixement-internacional.md) — el mateix any.
 - [L'ordenament jurídic avui](../justicia/lordenament-juridic-avui.md) — l'article 1.3, en context.
 - [Qui deia que Andorra no era sobirana](./qui-deia-que-andorra-no-era-sobirana.md) — els mateixos arguments, discutits per nom a la literatura acadèmica.
+- [Qui parlava per Andorra](../relacions-exteriors/qui-parlava-per-andorra.md) — la sentència Vives de 1859, i el tractat de límits de 1863 que ningú no esperava.
