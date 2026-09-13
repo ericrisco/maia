@@ -26,6 +26,7 @@ fitxada tret de les dues de futbol.** Aquesta subbranca n'obre cinc més.
 | **[Els dotze campions a casa del 2000](./els-dotze-campions-a-casa-del-2000.md)** | Cinc victòries en cinc dies, sis campions que repetien i els 142 punts i 88 rebots d'Antoni Jiménez |
 | **[Els dotze de la primera final del 2004](./els-dotze-de-la-primera-final-del-2004.md)** | Tercer or consecutiu, primera final i un Txetxu Bermudo de trenta-cinc anys: 24 punts i 14 rebots contra Luxemburg |
 | **[Els dotze dels set segons del 2012](./els-dotze-dels-set-segons-del-2012.md)** | Quart or, remuntada de tretze punts a la semifinal i la cistella de Rafael Casals a set segons del final |
+| **[Els dotze del triple de Galera del 2014](./els-dotze-del-triple-de-galera-del-2014.md)** | Cinquè or: tres robatoris de Galera en 75 segons, el triple del 52-51 i dos tirs lliures maltesos fallats a quatre segons del final |
 | **[Els dotze campions del 2024](./els-dotze-campions-del-2024.md)** | La plantilla, les tres generacions i l'últim minut de la final que va donar a Andorra el sisè títol |
 | **[El tennis](./el-tennis.md)** | **63 eliminatòries de Copa Davis**, i **una sola persona n'ha jugat 53** |
 | **[L'hoquei sobre patins](./lhoquei-patins.md)** | **DOS Campionats del Món «B»** (1992 i 2002) i **setena del món el 1993**. **El millor resultat mundial de cap selecció andorrana** |
@@ -82,9 +83,10 @@ jugat 53 de les 63 eliminatòries de Copa Davis de la història d'Andorra.**
   [1998](./els-deu-primers-campions-del-1998.md), el
   [2000](./els-dotze-campions-a-casa-del-2000.md), el
   [2004](./els-dotze-de-la-primera-final-del-2004.md), el
-  [2012](./els-dotze-dels-set-segons-del-2012.md) i el
+  [2012](./els-dotze-dels-set-segons-del-2012.md), el
+  [2014](./els-dotze-del-triple-de-galera-del-2014.md) i el
   [2024](./els-dotze-campions-del-2024.md).** En bàsquet queda oberta la
-  plantilla del títol del 2014.
+  resta del detall de les edicions no guanyades.
 - **Les federacions**: de basquetbol, d'esports de gel, de rugbi i de tennis.
   **Cap fitxa de cap.**
 - **Les altres catorze seleccions** de les vint-i-tres que Andorra declara.

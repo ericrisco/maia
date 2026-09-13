@@ -44,15 +44,15 @@ documenta**, i **el corpus no en sabia res.**
 | 2008 | Escòcia | 4t | 5 | 2 | 3 |
 | 2010 | Malta | **PLATA** | 5 | 4 | 1 |
 | **2012** | **San Marino** | **OR** | 4 | **4** | **0** |
-| **2014** | — | **OR** | — | — | — |
+| **2014** | **Gibraltar** | **OR** | 4 | **4** | **0** |
 | 2016 | — | **PLATA** | — | — | — |
 | 2021 | — | **PLATA** | — | — | — |
 | 2022 | — | **BRONZE** | — | — | — |
 | **2024** | — | **OR** | — | — | — |
 | 2026 | — | **PLATA** | — | — | — |
 
-**Quatre dels sis títols es van guanyar sense perdre cap partit** — 1998, 2000,
-2004 i 2012. **Dos es van guanyar a casa**, el 2000 i el 2004.
+**Cinc dels sis títols es van guanyar sense perdre cap partit** — 1998, 2000,
+2004, 2012 i 2014. **Dos es van guanyar a casa**, el 2000 i el 2004.
 
 **I durant tots els anys 2010 Andorra va arribar a totes les finals del
 campionat**, perdent només contra **Dinamarca** i **Armènia**.
@@ -112,21 +112,38 @@ Irlanda que és, pel marcador, una derrota**, i **com a «derrota més gran» un
 84-25 contra Gibraltar que és una victòria**. **Els dos camps estan
 intercanviats.**
 
+## El cinquè or: tres robatoris i un triple
+
+El 2014 Andorra va guanyar a Gibraltar els quatre partits: 83-48 contra
+Gibraltar, 83-47 contra San Marino, 84-63 contra Escòcia i **66-63 contra
+Malta** a la final. Va anotar 316 punts, en va rebre 221 i va acabar amb un
+diferencial de +95.
+
+La final va girar a l'últim quart. Andorra començava tres punts avall, 48-51.
+**Xavier Galera va robar tres pilotes en 75 segons i va anotar el triple del
+52-51.** Va acabar amb 24 punts, sis triples i set rebots. A quatre segons,
+Malta va fallar dos tirs lliures i encara va capturar el rebot ofensiu, però no
+va arribar a registrar cap tir.
+
+La [plantilla sencera i el play-by-play](./els-dotze-del-triple-de-galera-del-2014.md)
+tanquen l'últim dels sis equips campions que faltava documentar.
+
 ## El que falta
 
-- ~~**Els jugadors. Cap nom.**~~ **Tancat per al 1998, el 2000, el 2004, el 2012 i el 2024:** el
+- ~~**Els jugadors. Cap nom.**~~ **Tancat per a les sis edicions campiones:** el
   corpus ja té [els deu primers campions](./els-deu-primers-campions-del-1998.md),
   [els dotze que van defensar el títol a casa](./els-dotze-campions-a-casa-del-2000.md),
   [els dotze de la primera final](./els-dotze-de-la-primera-final-del-2004.md),
-  [els dotze dels set segons](./els-dotze-dels-set-segons-del-2012.md)
+  [els dotze dels set segons](./els-dotze-dels-set-segons-del-2012.md),
+  [els dotze del triple de Galera](./els-dotze-del-triple-de-galera-del-2014.md)
   i [els dotze campions del sisè títol](./els-dotze-campions-del-2024.md).
-  **Segueix oberta la plantilla campiona del 2014.**
+  **Segueixen obertes les plantilles i els partits de les edicions no guanyades.**
 - Si **[Quino Colom](../altres-esports/quino-colom.md)**, base d'ACB i de la VTB
   russa, ha jugat mai amb la selecció.
 - **La Federació Andorrana de Basquetbol**: cap fitxa.
 - ~~**El BC Andorra / MoraBanc Andorra**, club d'ACB: cap fitxa.~~ **Tancat:**
   [el BC Andorra](../altres-esports/bc-andorra.md).
-- **Les seus i els resultats** de les edicions del 2014 endavant.
+- **Les seus i els resultats** del 2016, 2021, 2022 i 2026.
 
 ## Related
 
@@ -137,5 +154,6 @@ intercanviats.**
 - [Els dotze campions a casa del 2000](./els-dotze-campions-a-casa-del-2000.md)
 - [Els dotze de la primera final del 2004](./els-dotze-de-la-primera-final-del-2004.md)
 - [Els dotze dels set segons del 2012](./els-dotze-dels-set-segons-del-2012.md)
+- [Els dotze del triple de Galera del 2014](./els-dotze-del-triple-de-galera-del-2014.md)
 - [Els dotze campions del 2024](./els-dotze-campions-del-2024.md)
 - [Quino Colom](../altres-esports/quino-colom.md)

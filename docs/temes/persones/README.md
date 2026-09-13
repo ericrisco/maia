@@ -4,7 +4,7 @@
 Aquesta branca existeix per fer visible aquesta desproporció i per anar-la
 corregint.
 
-**Actualització del 2026-09-14:** ja no en són tres. Hi ha **nou esportistes**,
+**Actualització del 2026-09-14:** ja no en són tres. Hi ha **deu esportistes**,
 **tres polítics**, **dues llistes completes de càrrecs** —[síndics
 generals](./els-sindics-generals.md) i [caps de
 Govern](./els-caps-de-govern.md)— i **dos escultors**, a
@@ -168,3 +168,4 @@ travessen més d'una branca.
 | **[Albert Llovera i Massana](./albert-llovera.md)** | Olímpic a Sarajevo **amb 17 anys**; paraplègic un any després; **29 ral·lis del Mundial** amb un cotxe de comandaments manuals |
 | **[José Manuel «Txetxu» Bermudo Macho](./txetxu-bermudo.md)** | Va jugar amb el primer BC Andorra d'ACB i va liderar l'or europeu del 2004 als trenta-cinc anys: **24 punts i 14 rebots a la final** |
 | **[Daniel Marín Rodríguez](./daniel-marin.md)** | Únic jugador dels quatre primers ors europeus del bàsquet andorrà: **600 punts en 37 partits i vuit campionats consecutius** |
+| **[Xavier Galera Ruz](./xavier-galera.md)** | Quatre ors europeus: va debutar als disset anys el 2000 i va fer **24 punts i sis triples a la final del 2014** |
