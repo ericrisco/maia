@@ -1025,21 +1025,32 @@ continua activa en R+D (`72.19Z`) i Elsa hi consta com a gerent. Els codis APE
 són estadístics: dibuixen una separació plausible entre agricultura, fabricació
 i recerca, no proven contractes interns ni funcions operatives.
 
-La marca reflecteix el doble mercat. L'USPTO publicà el 09/11/2010 la sol·licitud
-`79-079,088`, presentada per Laurent el 14/12/2009 i vinculada al registre
-internacional `1029289`, per a olis essencials en classe 3; la registrà el
-25/01/2011 com a **3,910,356**. Una segona sol·licitud, `79-110,325`, presentada
-el 20/12/2011 i publicada el 19/03/2013, estenia `BAUME DES ANGES` a les classes
-alimentàries 29-30, incloses espècies, aromatitzants i herbes processades. És
-el pont documental entre perfumeria i cuina. L'estat actual del registre
-internacional encara s'ha de comprovar; les dates d'expiració impreses als
-butlletins antics no permeten saber si fou renovat.
+La gaceta de l'OMPI corregeix una lectura massa lineal del doble mercat. El
+registre internacional **1029289**, de 14/12/2009, ja incloïa les classes 3,
+29, 30, 31 i 43: cosmètica i olis essencials, aliments, espècies i herbes,
+productes agrícoles i serveis de restauració o allotjament. Per al Japó i els
+Estats Units, però, la designació inicial quedà limitada a la classe 3. La
+sol·licitud nord-americana `79-110,325` de 20/12/2011 amplià després aquell
+mercat a les classes 29-30: coincideix amb l'arribada als cuiners, però no fou
+el naixement mundial de la línia alimentària.
+
+Madrid Monitor documenta una llicència de marca no exclusiva de Laurent a la
+**SCEA BAUME DES ANGES**, efectiva el 23/06/2016. És una relació jurídica entre
+titular i explotació que no s'ha de confondre amb la llicència de patent del
+CEA. Una decisió final de 07/02/2018 declarà una invalidació parcial a la Unió
+Europea, amb efectes des del 06/05/2016, però mantingué les cinc classes amb una
+llista reduïda. El registre internacional no fou renovat: l'expedient el marca
+`Inactive (expired)`, venciment 14/12/2019 i anotació de no renovació el
+31/12/2020. La versió de dades declarada és 22/12/2020; la caducitat del títol no
+prova el cessament de l'empresa ni exclou marques posteriors.
 [API Baume des Anges](https://recherche-entreprises.api.gouv.fr/search?q=442953782);
 [Vallon des Opilias](https://recherche-entreprises.api.gouv.fr/search?q=518839352);
 [Elso Investissement](https://recherche-entreprises.api.gouv.fr/search?q=400365201);
 [USPTO 2010](https://www.uspto.gov/web/trademarks/tmog/20101109_OG.pdf),
 [2011](https://www.uspto.gov/web/trademarks/tmog/20110125_OG.pdf) i
-[2013](https://www.uspto.gov/web/trademarks/tmog/20130319_OG.pdf).
+[2013](https://www.uspto.gov/web/trademarks/tmog/20130319_OG.pdf);
+[OMPI 07/2010](https://www.wipo.int/edocs/madgdocs/en/2010/madrid_g_2010_7.pdf) i
+[Madrid Monitor](https://www3.wipo.int/madrid/monitor/en/showData.jsp?ID=ROM.1029289).
 
 L'article de 2016 tanca amb el projecte de cultivar maduixes silvestres com les
 del peu dels Vosges que Laurent recordava de la infància. La imatge dialoga
