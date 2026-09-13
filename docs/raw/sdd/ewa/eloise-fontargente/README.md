@@ -1269,7 +1269,10 @@ Una segona branca situa Carla al Quercy com a **control experimental**, no com
 a població històrica. El projecte 2022–2024 sembrà descendents de cinc rodals
 abandonats de Martel, Rocamadour, Labastide-Murat, Cahors i Lauzerte a Quissac
 i Miers, comparats amb Rapido i Carla. El Parc documenta 42.000 € TTC, vint
-cromatografies i 2.000 plantes. L'article contemporani de Raymond Lacaze mostra
+cromatografies i 2.000 plantes preparades el 2022; el balanç següent registra
+1.600 plantes replantades i 39.550 € executats. Després de dos anys, els primers
+resultats tendien a mostrar una individualitat pròpia del material del Quercy,
+encara pendent de repetició el 2024 i 2025. L'article de Raymond Lacaze mostra
 el context: entre 1959 i 1963 el Quercy passà de 1.000 a 500 ha i de 11.000 a
 5.900 kg d'essència per una crisi de preus, estocs, compradors concentrats,
 gelades i mecanització insuficient. Dos lots químics de la Ferme des Alix de
