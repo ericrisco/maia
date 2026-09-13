@@ -46,7 +46,27 @@ s'aplica i s'al·lega. En queden fora:
 - les **ordinacions comunals**, que són dret de les set parròquies;
 - els **tractats internacionals**;
 - la **normativa derogada** que ja no forma part del text consolidat;
-- la **jurisprudència**, que és l'altra meitat de saber què diu el dret.
+- la **jurisprudència**, que és l'altra meitat de saber què diu el dret;
+- **els annexos**, i això mereix una línia pròpia.
+
+### Els annexos no hi són, i 45 lleis en depenen
+
+Comptat sobre els 104 fitxers: **45 lleis citen un annex propi** i **cap dels 104
+en conté cap**. La font serveix **articles**, i l'articulat s'acaba on comença
+l'annex.
+
+No és un detall formal. Els annexos que falten són, en alguns casos, **la part
+operativa de la norma**:
+
+| Llei | Annex que falta | Què hi ha a dins |
+| --- | --- | --- |
+| **Codi de la circulació** | **annex II** | **Les multes per excés de velocitat, per franges** — la sanció més freqüent del país |
+| **Avaluació ambiental** | **annex I** | **La llista de projectes** que obliguen a avaluació d'impacte |
+| **Codi de Duana** | els seus | El detall del perímetre de mercaderies |
+
+Quan un article del corpus diu que una xifra o una llista **no consta**, en
+bona part dels casos **la raó és aquesta**. Queda escrit aquí perquè no s'hagi
+de redescobrir llei per llei.
 
 **Buit registrat:** `inversio-estrangera` —la Llei d'inversió estrangera, que
 la font marca amb **vigència no confirmada**— **no s'ha pogut baixar**: la
