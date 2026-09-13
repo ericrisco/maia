@@ -65,7 +65,7 @@ els dubtes sobre un «objecte jurídic no identificat»**
 | Data | Fet |
 | --- | --- |
 | **1278** | **Pareatge**: Andorra és coprincipat ([el Pareatge](../../historia/pareatge/el-pareatge.md)) |
-| **1867** | **Intercanvi de cartes** amb Espanya i França: acords comercials. **El document més antic que la font localitza d'Andorra actuant cap enfora** |
+| **1867** | **Intercanvi de cartes** amb Espanya i França: acords comercials — **per a la lliure circulació dels excedents ramaders**. **El document més antic que la font localitza d'Andorra actuant cap enfora** |
 | **1971** | **Cour de Cassation**: Andorra no és ni estat ni persona de dret internacional |
 | **28 d'abril de 1993** | **Constitució** ([fitxa](../../historia/constitucio-1993/constitucio-1993.md)) |
 | **1993** | Andorra entra a l'**ONU** com a **membre número 184** |
@@ -155,7 +155,13 @@ romana»**. **Cap decisió no és vàlida si no la prenen tots dos.**
 - **La sentència de la Cour de Cassation de 1971** sencera: número, parts,
   matèria. **El corpus en té una frase citada en anglès dins un llibre de
   2008.** **Buit prioritari.**
-- **L'intercanvi de cartes de 1867** amb Espanya i França.
+- ~~**L'intercanvi de cartes de 1867** amb Espanya i França.~~ **PARCIALMENT
+  TANCAT: ja se'n sap l'objecte.** Segons **Maria Jesús Lluelles**
+  ([font](../../../fonts/lluelles-aspectes-socioeconomics-1997.md)), els «canvis
+  de lletres de 1867 amb Espanya i França» tenien per objectiu **establir una
+  zona de lliure circulació per als excedents ramaders**. **El text segueix
+  sense llegir.** Vegeu
+  [l'economia el 1997](../../economia/transformacio-economica/leconomia-el-1997.md).
 - **Maurice Duverger (1981)**, *La reforma de les institucions d'Andorra*, **Comú
   d'Andorra**. Un dels constitucionalistes més importants del segle XX escrivint
   sobre Andorra, **editat per un comú**. **Buit destacat.**

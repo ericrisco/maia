@@ -158,13 +158,17 @@ frases**, no només la primera.
 | Interculturalitat i treball social | **Rosa Duró** |
 | Integració a l'empresa | **Mònica Godina** |
 | Integració a l'esplai | **Ramon Rossell** |
-| Evolució històrica de la normativa migratòria | **Francesca Ros Pascuet** |
-| Aspectes socioeconòmics d'Andorra | **Maria Jesús Lluelles** |
+| ~~Evolució històrica de la normativa migratòria~~ **BUIDADA** | **Francesca Ros Pascuet** → [la normativa migratòria](./la-normativa-migratoria.md) |
+| ~~Aspectes socioeconòmics d'Andorra~~ **BUIDADA** | **Maria Jesús Lluelles** → [l'economia el 1997](../../economia/transformacio-economica/leconomia-el-1997.md) i [les estadístiques que no hi havia](../demografia/les-estadistiques-que-no-hi-havia.md) |
 
-**Buit registrat, i és gran:** dotze ponències sobre qui viu a Andorra, totes
-identificades i cap buidada. La de **Lluelles** conté a més **una sèrie
-demogràfica any per any** des dels anys setanta que el corpus hauria de creuar
-amb [la sèrie històrica](../../llengua/politica-linguistica/la-serie-historica.md).
+**Buit registrat, i encara és gran:** dotze ponències sobre qui viu a Andorra,
+totes identificades i **dues buidades**. **En queden deu.**
+
+De la de **Lluelles** ja se n'ha tret el que hi havia: **no conté una sèrie any
+per any** com aquesta fitxa suposava, sinó **xifres puntuals i una crítica de les
+fonts** — que resulta ser el més valuós, perquè explica **per què les sèries
+andorranes d'aquells anys són febles**
+([les estadístiques que no hi havia](../demografia/les-estadistiques-que-no-hi-havia.md)).
 
 **I el portuguès** —**tercera llengua materna d'Andorra amb un 13,5 %**
 ([dades](../../llengua/politica-linguistica/qui-parla-que.md))— **no té ponència
