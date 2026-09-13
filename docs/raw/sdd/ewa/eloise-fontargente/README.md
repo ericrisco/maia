@@ -1400,6 +1400,21 @@ responsable de salut i seguretat i tractava els avisos. La sèrie prova
 conflictes recurrents, però les causes i respostes continuen atribuïdes perquè
 no s'han localitzat inspeccions ni acords finals.
 
+La sèrie d'acords col·lectius DILA de **2020–2026** afegeix la negociació
+institucional amb CGT i CFDT: 20/15 € mensuals segons tram el 2021, 2,3 %
+general no directiu el 2022, 5,9 % incloses bestretes el 2023 i 3,6 % amb
+mínim de 75 € el 2024. Aquest últim text declara 341.700 € de participació pels
+resultats de 2023, necessitat de contractar i índex d'igualtat de 89/100; el de
+2026 dona 93/100. Les mesures no formen una sèrie salarial homogènia.
+
+L'acord del 20/06/2024 confirma saturació malgrat dissabtes treballats el 2023
+i crea un equip voluntari de cap de setmana per a producció, manteniment i
+logística: 24 h i majoració del **53 %**. Dos avenants el 2025 ajusten vacances
+i primes; el d'octubre diu que, després d'un primer balanç, es preparava un
+**segon equip de suplència**. Prova que el primer dispositiu s'implantà, però
+no que sigui la sortida jurídica de la vaga de 2018 ni que el segon arribés a
+funcionar.
+
 La mateixa peça diu que el producte inicial de 1934 foren confitures, mentre
 *La Vie corrézienne* diu conserves de carn i el dossier municipal comença amb
 ceps el 1935. La coincidència en Beynat i el soterrani no resol la discrepància
