@@ -26,6 +26,11 @@ notes: >
   Diu el mètode i els mestres que segueix (Joan Coromines i Juan Luis Román del
   Cerro) i declara que només treballa amb toponímia fòssil, comprovada «de visu»
   al paisatge.
+  AVÍS DE CITACIÓ, 2026-09-13: aquesta fitxa cobreix UNA ponència (p. 41-59), no
+  el volum. Tres articles del corpus la duien al camp `font` per a contingut
+  d'una altra ponència del mateix llibre (Pere Canturri, p. 33-39); s'han
+  repuntat a [la fitxa de Canturri](./canturri-costumari-amades-1994.md). Una
+  fitxa de ponència NO serveix de fitxa de volum.
   LES ETIMOLOGIES SÓN PROPOSTES SEVES i el corpus no les converteix en fets. Les
   FORMES DOCUMENTADES amb data sí que són dades: vénen de diplomataris publicats
   i es poden comprovar.

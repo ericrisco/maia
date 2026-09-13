@@ -6,7 +6,7 @@ tema: temes/historia/historiografia
 veu: compilada
 epoca: contemporania
 apte_llengua: false
-font: anglada-origens-parla-andorrana
+font: canturri-costumari-amades-1994
 timestamp: 2026-09-12T16:10:00Z
 tags: [historiografia, metode, folklore, identitat, costums]
 ---
@@ -15,7 +15,7 @@ tags: [historiografia, metode, folklore, identitat, costums]
 
 > Font: **Pere Canturri Montanya**, historiador, *«Andorra en el Costumari
 > català de Joan Amades»*, **7a Diada Andorrana, UCE 1994**
-> ([volum](../../../fonts/anglada-origens-parla-andorrana.md)).
+> ([font](../../../fonts/canturri-costumari-amades-1994.md)).
 
 ## Per què aquesta fitxa és al cor del corpus
 
@@ -30,6 +30,94 @@ Aquest corpus ha deixat
 [begudes](../../gastronomia/begudes/README.md) **buides a propòsit** per aquesta
 mateixa raó, abans de conèixer aquesta ponència. **Canturri li dona nom i
 bibliografia.**
+
+## Per què hi havia un buit a omplir
+
+Canturri comença situant **per què el folklore andorrà depèn d'un llibre
+català**, i la resposta és que **Andorra no se'l va escriure**:
+
+- El **[Manual Digest](../manual-digest/manual-digest.md)** (1748) i el
+  **[Politar](../manual-digest/el-politar.md)**, «les dues obres magnes escrites
+  sobre Andorra», **aporten llegendes, curiositats i tradicions** però **«no
+  s'interessen gaire a ressenyar els costums populars dels antics
+  andorrans»**.
+- El **1788**, **Francisco de Zamora**, *alcalde del Crimen* de l'Audiència de
+  Catalunya, visita Andorra i **hi obre la literatura de viatges** que continua
+  tot el segle XIX ([els descobridors](../../cultura/andorra-vista-de-fora/els-descobridors.md)).
+  Però **«cap d'ells no va dedicar el seu viatge a l'estudi del nostre
+  costumari»**.
+
+> «**Aquest buit l'omplí Amades.**»
+
+**El costumari d'Andorra és, literalment, un capítol d'un llibre català.** No hi
+ha original andorrà a comparar-hi — i és per això que aquesta fitxa existeix.
+
+## Quan es van recollir aquests costums
+
+El *Costumari* es publica el **1950**, però Canturri avisa que les dades
+andorranes **«devien ser recollides molts anys abans, possiblement durant els
+anys 20 i 30»**. I el càlcul que en fa allarga molt més la data real:
+
+> Amades «va recollir **en gran part allò que feien els avis** i que ell ja no
+> havia aconseguit». Comptant la seva edat i la dels seus avis, **alguns dels
+> costums datarien de mitjan segle XIX**, i **ja no es practicaven quan ell els
+> va estudiar**.
+
+**Conseqüència de mètode, i és dura:**
+
+> «**Això dificulta o impossibilita de contrastar-los amb gent d'ara, fins i tot
+> els més vells. El que ell ens diu, doncs, és l'única constància que ens en
+> queda.**»
+
+**No hi ha manera de comprovar-ho, i tampoc n'hi haurà.** Qualsevol fitxa de
+costums que surti d'aquí **s'ha d'escriure sabent-ho**.
+
+## L'inventari: què hi ha, exactament
+
+| | |
+| --- | --- |
+| **Citacions de folklore andorrà** | **63**, algunes d'extensió considerable, amb gràfics, música o il·lustracions |
+| Comparació: **Vall d'Aran** | una cinquantena |
+| Comparació: **Alt Pallars** (més extens) | **una dotzena més que l'Aran** |
+
+**Andorra hi surt més que la Vall d'Aran.** Per a un territori petit i estranger
+al Principat, és una presència desproporcionada — i diu que Amades hi va posar
+esforç.
+
+**Temes:** festes majors, fires, aplecs, carnavals, Sant Joan, les feines del
+camp i el pasturatge, la caça, les confraries i germandats, els àpats, els
+vestits, **el tabac i el contraban**
+([la revolta del tabac](../../economia/tabac/la-revolta-del-tabac-de-1733.md)).
+
+**Catorze balls** — la llista sencera, amb el que el corpus en sap, a
+[els catorze balls](../../costums/danses/els-catorze-balls.md).
+
+**Sis jocs** que Amades considera **molt primitius**, i l'arribada de jocs
+forans com **saltar a corda**. Els que anomena: **el joc del sembrar**,
+**jugar-se els ous**, **les gralles**, **el joc de l'ós**, **el del garrapal**
+i, ja d'adults, **el del velló de la mestressa**. D'alguns en dona **gràfics i
+il·lustracions**.
+
+> **Buit registrat, i és nou:** el corpus **no té cap fitxa de jocs
+> tradicionals**, i aquí n'hi ha sis amb nom i amb il·lustració a una font
+> localitzable. La branca de [costums](../../costums/README.md) no té aquesta
+> porta oberta.
+
+**Creences** que Amades recull: **l'argolla que es converteix en or i on Noè va
+estacar l'arca després del diluvi**, i **la campana dels difunts soterrada a les
+muntanyes andorranes, que tocarà el dia del judici final**. També **bruixes i
+dimonis**, i les **pantomimes de l'Óssa** i **les guerres de Sant Julià**.
+
+### El que es confirma i el que no
+
+| Element | Estat segons Canturri (1994) |
+| --- | --- |
+| **El ball de l'Óssa** | **«Es continua representant»** |
+| **Les bruixes d'Engolasters** | **Cap andorrà no ho confirma** ([fitxa](../../cultura/llegendes/les-bruixes-dengolasters.md)) |
+| **Les guerres de moros i catalans a Sant Julià**, amb «gran exhibició d'armes de foc i sorolloses galejades multitudinàries» | **Cap constància entre la gent del país** |
+
+**Dos elements espectaculars, els dos sense testimoni.** El corpus els registra
+com a **material d'Amades no corroborat**, no com a tradicions andorranes.
 
 ## El punt de partida: Amades va fer bé la seva feina
 
@@ -230,6 +318,10 @@ Tres conseqüències pràctiques:
   casos marcats com a no confirmats per cap andorrà**
   ([les bruixes d'Engolasters](../../cultura/llegendes/les-bruixes-dengolasters.md)).
 - ***Un andorrà lluny del poble***, de Ricard Fiter (1967, 2a ed. 1985).
+- **Els sis jocs tradicionals** que Amades recull amb gràfics. El corpus no té
+  cap fitxa de jocs. **Buit nou, obert avui.**
+- **Francisco de Zamora** i el seu diari de viatge de **1788**, que obre tota la
+  literatura de viatges sobre Andorra i **el corpus no ha llegit**.
 - **Pere Canturri Montanya** i la seva obra. El corpus ja en té una segona
   ponència fitxada
   ([Usos i costums d'Andorra](../../../fonts/canturri-usos-i-costums.md)) i sap
@@ -250,3 +342,5 @@ Tres conseqüències pràctiques:
 - [Les bruixes d'Engolasters](../../cultura/llegendes/les-bruixes-dengolasters.md) — i per què el tamarro no té fitxa.
 - [Danses](../../costums/danses/danses.md)
 - [Cultura popular](../../cultura/cultura-popular/cultura-popular.md)
+- [El Manual Digest](../manual-digest/manual-digest.md) — que no ressenya els costums, i que aquesta ponència transcriu.
+- [Els descobridors](../../cultura/andorra-vista-de-fora/els-descobridors.md) — la literatura de viatges que Zamora obre el 1788.

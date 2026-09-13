@@ -100,10 +100,51 @@ observables — la llengua, la manera de vestir i els costums**.
 és fins que no es comprovi. Vegeu
 [la casa als papers](../antic-regim/la-casa-als-papers.md).
 
+### Una tercera transcripció, i la meitat que faltava
+
+**Pere Canturri**, al **mateix volum del 1994**
+([font](../../../fonts/canturri-costumari-amades-1994.md)), en transcriu una
+**tercera** versió — i és **la que porta la segona meitat sencera**, que cap de
+les altres dues no donava en literal:
+
+> «**Las Valls de Andorra enlo Espiritual, y enlo temporal, en lo Eglesiastich,
+> y enlo Secular, en lo Phisich, y natural, y en lo Moral, en lo Idioma, aduch
+> Curial, enlo modo, y moda de Vestir, en les Costums, y Geni, son propia,
+> Verdadera, y llegitima Cataluña (...) Una sola cosa hi ha tant solament, que
+> no participan, del principat de Cataluña los Andorrans, y sas Valls, que enlo
+> respectiu al Govern, al Civil y Criminal, al Politich, y Economich de dit
+> Principat, ni han participat may.**»
+
+**Això és el que el corpus buscava.** La secció anterior deia que Camiade
+*parafraseja* la segona meitat —«si bé Andorra deu alguna cosa als catalans […]
+ara és diferent»— i que **ningú no la citava**. **Ara hi és, en grafia d'època i
+d'una tercera mà independent**, i diu una cosa més precisa que la paràfrasi:
+
+**el que Andorra no ha compartit mai amb Catalunya és el govern, la justícia
+civil i criminal, la política i l'economia.** No és que hagi deixat de
+compartir-ho el 1278: **«ni han participat may».**
+
+| Qui transcriu | Volum | Què en dona |
+| --- | --- | --- |
+| **Martina Camiade** | 3a Diada, 1990 | La primera meitat, en català modernitzat |
+| **Montserrat Palau i Martí** | 7a Diada, 1994 | La primera meitat en grafia d'època, **més** la llengua, el vestir i els costums |
+| **Pere Canturri** | 7a Diada, 1994 | **Les dues meitats**, amb la llista sencera de matèries i la clàusula d'excepció |
+
+**Tres transcripcions, tres autors, tres ocasions.** Les tres coincideixen en el
+nucli —*pròpia, verdadera y llegítima Cataluña*— i **cadascuna n'allarga la
+citació**. Això és tan fort com pot ser una citació **sense el document**, i
+**el corpus manté que segueix sent de segona mà**.
+
+**Canturri hi afegeix una dada que val per a la lectura del Politar:** el
+**reverend Antoni Puig**, autor del [Politar](./el-politar.md) «escrit pocs anys
+després», **«era de la mateixa opinió»**.
+
 ## El que falta
 
 **Verificar la citació del capítol tercer contra el text del Manual Digest.**
-**Prioritari.**
+**Prioritari** — i ara més fàcil, perquè **hi ha tres transcripcions
+independents que es poden encarar entre elles**. Les diferències entre les tres
+(puntuació, extensió, grafia) **no s'han col·lacionat**: fer-ho és feina pendent.
 
 El text sencer. Se n'hauria de localitzar una edició consultable i citable, i
 transcriure'n les màximes una a una amb la seva referència. **Buit registrat.**
@@ -113,5 +154,7 @@ transcriure'n les màximes una a una amb la seva referència. **Buit registrat.*
 - [Lèxic andorrà](../../llengua/lexic-andorra/lexic-andorra.md) — per què *batlle* no és alcalde.
 - [El Consell General](../../institucions/consell-general/el-consell-general.md) — qui el va encarregar.
 - [Andorra com a microestat](../../institucions/petits-estats/andorra-com-a-microestat.md) — el síndic general del 2015 llegint-hi encara l'estratègia del país.
+- [El cas Amades](../historiografia/el-cas-amades.md) — per què el Manual Digest no serveix de costumari.
+- [El Politar](./el-politar.md) — que, segons Canturri, deia el mateix.
 - [La consciència nacional andorrana](../../politica/identitat-politica/la-consciencia-nacional-andorrana.md) — 239 anys entre escriure la doctrina i repartir-la.
 - [De lo que pot i no pot](./de-lo-que-pot-i-no-pot.md) — el llibre 3, i on el Politar el contradiu.

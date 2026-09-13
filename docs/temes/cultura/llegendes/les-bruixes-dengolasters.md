@@ -6,7 +6,7 @@ tema: temes/cultura/llegendes
 veu: compilada
 epoca: contemporania
 apte_llengua: false
-font: anglada-origens-parla-andorrana
+font: canturri-costumari-amades-1994
 timestamp: 2026-09-13T10:30:00Z
 tags: [llegendes, folklore, bruixes, metode, historiografia, prioritari]
 ---
@@ -15,7 +15,7 @@ tags: [llegendes, folklore, bruixes, metode, historiografia, prioritari]
 
 > Font: **Pere Canturri Montanya**, *«Andorra en el Costumari català de Joan
 > Amades»*, **7a Diada Andorrana, UCE, 1994**
-> ([volum](../../../fonts/anglada-origens-parla-andorrana.md)).
+> ([font](../../../fonts/canturri-costumari-amades-1994.md)).
 
 ## El cas
 

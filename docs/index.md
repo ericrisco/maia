@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**350** documents · **104** fonts · **0** aptes com a model de llengua · **109** temes amb contingut.
+**350** documents · **105** fonts · **0** aptes com a model de llengua · **109** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -24,7 +24,7 @@
 | [Danses — índex](temes/costums/danses/danses.md) | `temes/costums/danses` | compilada | contemporania | no | `premsa-andorrana` |
 | [El ball del Cerdà](temes/costums/danses/el-ball-del-cerda.md) | `temes/costums/danses` | compilada | contemporania | no | `premsa-andorrana` |
 | [El contrapàs](temes/costums/danses/el-contrapas.md) | `temes/costums/danses` | compilada | contemporania | no | `premsa-andorrana` |
-| [Els catorze balls](temes/costums/danses/els-catorze-balls.md) | `temes/costums/danses` | compilada | contemporania | no | `anglada-origens-parla-andorrana` |
+| [Els catorze balls](temes/costums/danses/els-catorze-balls.md) | `temes/costums/danses` | compilada | contemporania | no | `canturri-costumari-amades-1994` |
 | [La marratxa](temes/costums/danses/la-marratxa.md) | `temes/costums/danses` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/costums/falles
@@ -135,7 +135,7 @@
 | [El Roc de les Bruixes](temes/cultura/llegendes/el-roc-de-les-bruixes.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `viquipedia-ca` |
 | [La bruixa de Sornàs](temes/cultura/llegendes/la-bruixa-de-sornas.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `viquipedia-ca` |
 | [La troballa de Meritxell](temes/cultura/llegendes/la-troballa-de-meritxell.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `premsa-andorrana` |
-| [Les bruixes d'Engolasters](temes/cultura/llegendes/les-bruixes-dengolasters.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `anglada-origens-parla-andorrana` |
+| [Les bruixes d'Engolasters](temes/cultura/llegendes/les-bruixes-dengolasters.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `canturri-costumari-amades-1994` |
 | [Llegendes — índex](temes/cultura/llegendes/llegendes.md) | `temes/cultura/llegendes` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/cultura/museus-i-arxius
@@ -374,7 +374,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
-| [El cas Amades](temes/historia/historiografia/el-cas-amades.md) | `temes/historia/historiografia` | compilada | contemporania | no | `anglada-origens-parla-andorrana` |
+| [El cas Amades](temes/historia/historiografia/el-cas-amades.md) | `temes/historia/historiografia` | compilada | contemporania | no | `canturri-costumari-amades-1994` |
 | [El Diccionari enciclopèdic d'Andorra](temes/historia/historiografia/el-diccionari-enciclopedic.md) | `temes/historia/historiografia` | compilada | contemporania | no | `premsa-andorrana` |
 | [La historiografia andorrana](temes/historia/historiografia/historiografia.md) | `temes/historia/historiografia` | compilada | contemporania | no | `viquipedia-ca` |
 | [La llegenda negra dels passadors](temes/historia/historiografia/la-llegenda-negra-dels-passadors.md) | `temes/historia/historiografia` | compilada | contemporania | no | `societat-andorrana-ciencies` |
@@ -917,6 +917,7 @@
 | [`cairal-escola-andorrana`](fonts/cairal-escola-andorrana.md) | M. Teresa Cairat i Vila · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`camiade-concepte-didentitat-1990`](fonts/camiade-concepte-didentitat-1990.md) | Martina Camiade · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`camiade-migracions`](fonts/camiade-migracions.md) | Martina Camiade · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`canturri-costumari-amades-1994`](fonts/canturri-costumari-amades-1994.md) | Pere Canturri i Montanya · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`canturri-usos-i-costums`](fonts/canturri-usos-i-costums.md) | Pere Canturri i Montanya · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`cavero-parlamentarisme-segle-xx`](fonts/cavero-parlamentarisme-segle-xx.md) | Pere Cavero i Muñoz · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`cerqueda-banca`](fonts/cerqueda-banca.md) | Manel Cerqueda i Donadeu · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |

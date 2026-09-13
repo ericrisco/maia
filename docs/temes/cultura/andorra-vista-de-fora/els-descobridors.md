@@ -51,6 +51,37 @@ vivint a Andorra mesos per preparar-ne la invasió és un episodi que, si és ce
 mereix fitxa pròpia. L'autor el dona **per «més cert» que el d'Hannibal** i no
 l'identifica.
 
+## Francisco de Zamora, 1788 — qui obre la sèrie
+
+**Aquesta llista comença massa tard.** Ferrer salta d'Hannibal al militar
+espanyol sense nom i d'aquí a Junoy (1838). **Pere Canturri** hi posa el
+començament real de la literatura de viatges sobre Andorra
+([font](../../../fonts/canturri-costumari-amades-1994.md)):
+
+| | |
+| --- | --- |
+| **Qui** | **Francisco de Zamora**, ***alcalde del Crimen*** de l'**Audiència de Catalunya**, a Barcelona |
+| **Quan** | **1788** |
+| **Què en queda** | **Un diari de viatges** |
+
+> Amb ell «**s'inicia una literatura sobre les Valls** que durant el segle XIX
+> continuen molts altres viatgers, descobridors, aventurers o científics».
+
+**Cinquanta anys abans de Junoy**, i **des de dins de l'administració
+catalana** — no és un romàntic de pas: és **un alt càrrec judicial de Barcelona
+recorrent el país**, en la mateixa dècada en què Espanya hi discutia les
+franquícies duaneres i hi enviava guàrdies
+([la revolta del tabac](../../economia/tabac/la-revolta-del-tabac-de-1733.md)).
+
+I Canturri hi afegeix el límit de tota la sèrie, que val també per als que
+vindran: hi apareixen «**alguns comportaments quotidians o festívols dels seus
+habitants**», però **«cap d'ells no va dedicar el seu viatge a l'estudi del
+nostre costumari»**.
+
+**Buit registrat, prioritari:** el corpus **no ha llegit el diari de Zamora** i
+**no en sap l'edició ni el títol exacte**. És **el testimoni extern més antic
+amb nom i data** que té identificat.
+
 ## El pare Tomàs Junoy
 
 | | |
@@ -122,5 +153,6 @@ buscar-ne rastre**.
 - [Andorra vista de fora](./andorra-vista-de-fora.md) — el marc i el mètode.
 - [La por de fondre's](./la-por-de-fondres.md) — la segona meitat de la mateixa ponència.
 - [Boris Skossyreff](../../historia/segle-xx-primera-meitat/boris-skossyreff.md) — les versions que no quadren.
+- [El cas Amades](../../historia/historiografia/el-cas-amades.md) — el buit que cap d'aquests viatgers no va omplir.
 - [Literatura andorrana](../literatura/literatura-andorrana.md) — els qui escrivien des de dins.
 - [El nom d'Andorra](../../historia/origens/el-nom-dandorra.md) — els andosins.
