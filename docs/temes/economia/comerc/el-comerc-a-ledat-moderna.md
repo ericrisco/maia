@@ -282,3 +282,4 @@ Deducció de Mas: **les compraven per revendre**.
 - [El Manual Digest](../../historia/manual-digest/manual-digest.md) — llegit també com a al·legat duaner.
 - [La transhumància](../ramaderia-i-agricultura/la-transhumancia.md) — el centenar de pastors.
 - [Qui posava els preus](./qui-posava-els-preus.md) — el Consell del Afor, i la sèrie del blat de 1744 a 1793.
+- [Les mesures i les monedes](./les-mesures-i-les-monedes.md) — la sal com a moneda, i tot el sistema metrològic.

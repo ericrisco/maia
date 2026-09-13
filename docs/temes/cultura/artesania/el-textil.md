@@ -135,3 +135,4 @@ lèxic viu, no categoria abstracta.
 - [Les escoles d'art comunals](../arts-visuals/les-escoles-dart-comunals.md)
 - [El cas Amades](../../historia/historiografia/el-cas-amades.md) — la confraria de 1604, documentada per Amades abans que per l'arxiu.
 - [L'associacionisme històric](../../societat/vida-civica/lassociacionisme-historic.md) — la confraria dins la sèrie de mutualitats andorranes, i l'altra data.
+- [Les mesures i les monedes](../../economia/comerc/les-mesures-i-les-monedes.md) — la confraria d'Escaldes guardava els patrons de les mesures d'Andorra.

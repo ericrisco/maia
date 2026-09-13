@@ -83,6 +83,7 @@ I, als annexos, **extractes del Politar** i la **Instructa als batlles de 1740**
 | --- | --- |
 | Els censos duaners de 1898-1900, i quant bestiar tenia Andorra | [El cens del bestiar de 1898-1900](../temes/economia/ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md) |
 | El Consell General taxant la carn, el vi, el blat i el metge | [Qui posava els preus](../temes/economia/comerc/qui-posava-els-preus.md) |
+| El sistema de pesos, mesures i monedes | [Les mesures i les monedes](../temes/economia/comerc/les-mesures-i-les-monedes.md) |
 | L'oligarquia, les mútues i per què la independència importava | [Per què valia la pena ser andorrà](../temes/societat/vida-civica/per-que-valia-la-pena-ser-andorra.md) |
 
 **I una funció que no s'esperava: aquesta obra fa de tercer testimoni.** La quota

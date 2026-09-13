@@ -191,3 +191,4 @@ XVIII**.
 - [Ramaderia i agricultura](./ramaderia-i-agricultura.md) — la branca.
 - [El comerç a l'edat moderna](../comerc/el-comerc-a-ledat-moderna.md) — els privilegis que ho feien possible.
 - [La transhumància](./la-transhumancia.md) — el centenar de pastors que baixava cada any.
+- [Les mesures i les monedes](../comerc/les-mesures-i-les-monedes.md) — el 1469 una mula valia 23 quintars de sal, gairebé una tona.

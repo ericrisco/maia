@@ -101,9 +101,10 @@ en una llista de dates. **És la sèrie de preus més llarga que té el corpus.*
 > **Avisos, i són tres.** **(1)** És **OCR de xifres**, i la fitxa de la font ja
 > adverteix que «les taules arrosseguen soroll»: **s'ha de comprovar contra la
 > pàgina impresa**. **(2)** Les **dues primeres entrades van en rals** i la resta
-> en **lliures i sous**: **no es poden comparar sense la conversió**, i el corpus
-> no la té. **(3)** L'entrada de **1758 ha perdut la xifra de lliures** a
-> l'extracció.
+> en **lliures i sous**. **La conversió ja la té el corpus** —**10 rals = 1
+> lliura**, i per tant 33 rals = **3 ll. 6 s.** i 48 rals = **4 ll. 16 s.**— i és
+> a [les mesures i les monedes](./les-mesures-i-les-monedes.md). **(3)** L'entrada
+> de **1758 ha perdut la xifra de lliures** a l'extracció.
 
 **El que sí que es veu, i es veu molt, és el 1793.**
 
@@ -182,8 +183,9 @@ s'hi aplicava. Vegeu
 
 1. **Comprovar la sèrie de preus contra la pàgina impresa.** **Prioritari**: és
    OCR de xifres, amb dues unitats barrejades i una entrada incompleta.
-2. **La conversió entre rals i lliures/sous** a l'Andorra del set-cents, per poder
-   llegir la sèrie sencera.
+2. ~~**La conversió entre rals i lliures/sous** a l'Andorra del set-cents, per
+   poder llegir la sèrie sencera.~~ **TANCAT el 2026-09-13: deu rals fan una
+   lliura.** Vegeu [les mesures i les monedes](./les-mesures-i-les-monedes.md).
 3. **Quan es va deixar de fer el *Consell del Afor***, i quan es va deixar de
    taxar el blat.
 4. **El text dels decrets** de 1752, 1873, 1875, 1888, 1889 i 1893. Brutails els
@@ -198,6 +200,7 @@ s'hi aplicava. Vegeu
 ## Related
 
 - [La taba i el mostassaf](../../institucions/comuns-i-parroquies/la-taba-i-el-mostassa.md) — qui vigilava que el preu es respectés.
+- [Les mesures i les monedes](./les-mesures-i-les-monedes.md) — en què es pagava, i qui guardava els patrons.
 - [El Consell General](../../institucions/consell-general/el-consell-general.md) — la institució que taxava.
 - [El comerç a l'edat moderna](./el-comerc-a-ledat-moderna.md) — què es comprava i es venia.
 - [L'agricultura de subsistència](../ramaderia-i-agricultura/lagricultura-de-subsistencia.md) — el blat que es taxava.
