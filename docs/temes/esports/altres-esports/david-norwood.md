@@ -1,55 +1,88 @@
 ---
 type: article
-title: David Robert Norwood
-description: "Gran mestre d'escacs anglès que ha representat Anglaterra i Andorra. Empresari i filantrop."
+title: "David Robert Norwood"
+description: "Gran Mestre anglès des del 1989 que representa Andorra des del 2011. També va cofundar un fons d'inversió de 1.200 milions de lliures."
 tema: temes/esports/altres-esports
 veu: compilada
 epoca: contemporania
 apte_llengua: false
-font: wikipedia-atletes-andorrans
-timestamp: 2026-09-13T15:00:00Z
-tags: [esports, escacs]
+font: wikipedia-futbol-femeni-andorra
+timestamp: 2026-09-13T17:40:00Z
+tags: [esports, escacs, economia, persones]
 ---
 
 # David Robert Norwood
 
 ## El fet
 
-**David Robert Norwood, nascut a Farnworth (prop de Bolton, Lancashire,
-Anglaterra) el 3 d'octubre del 1968**, és **gran mestre d'escacs, escriptor
-d'escacs, excapità de la selecció anglesa, empresari i filantrop**, i **ha
-representat Anglaterra i Andorra als escacs**
-([font](../../../fonts/wikipedia-atletes-andorrans.md)).
+**David Robert Norwood, nascut a Farnworth, prop de Bolton (Anglaterra), el 3
+d'octubre del 1968.** **Gran Mestre d'escacs des del 1989.** **Representa
+Anglaterra fins al 2011 i Andorra des del 2011.**
 
-## El tercer gran mestre d'Andorra
+| | |
+| --- | --- |
+| **Mestre Internacional** | **1985**, amb setze anys |
+| **Gran Mestre** | **1989**, amb vint |
+| **Millor elo** | **2545**, el juliol del 1994 |
+| **ID FIDE** | 400106 |
+| **País** | **Anglaterra fins al 2011; Andorra des del 2011** |
 
-**El corpus ja en tenia dos** —**[Josep Oms](./josep-oms.md)** (or individual a
-l'Olimpíada del 2006 jugant per Andorra) i **[Lance
-Henderson](./lance-henderson.md)** (el de més elo del país)— **i tots dos amb la
-mateixa condició: no hi van néixer.**
+## És el cinquè jugador d'escacs andorrà del corpus
 
-**Norwood és el tercer, i el patró es repeteix per tercera vegada.**
+**I amb ell la desproporció que el corpus tenia registrada creix.**
 
-**Tres grans mestres d'escacs vinculats a Andorra, cap dels tres nascut al
-país.**
+| Qui | Què |
+| --- | --- |
+| **[Raül García Paolicchi](./raul-garcia-paolicchi.md)** | **Or individual a l'Olimpíada d'Escacs del 1990**; Mestre FIDE |
+| **[Josep Oms](./josep-oms.md)** | **Or individual a l'Olimpíada d'Escacs del 2006** |
+| **[Lance Henderson de La Fuente](./lance-henderson.md)** | **Gran Mestre**; el jugador amb més elo d'Andorra |
+| **David Norwood** | **Gran Mestre des del 1989**, elo màxim 2545 |
 
-**El corpus ho registra sense judici i ho subratlla com a estructura:**
-**els escacs són l'àmbit on un microestat pot tenir representació de màxim
-nivell mundial sense infraestructura**, precisament perquè **només cal
-federar-hi jugadors**.
+**Quatre jugadors, dos Grans Mestres, dues medalles d'or d'Olimpíada.** **I el
+corpus no té cap fitxa de la federació andorrana d'escacs, ni sap si n'hi ha
+lliga, ni quants jugadors federats hi ha.** **Segueix sent el buit més
+desproporcionat de tota la branca d'esports.**
 
-**I obre la pregunta que ja ha obert dues vegades:** **hi ha escacs andorrans de
-base, o només jugadors federats que hi arriben?** **El corpus no en té ni una
-línia: ni federació, ni campionat, ni clubs.** **Buit prioritari.**
+## I l'altra meitat de la fitxa
+
+**Norwood no és només un jugador d'escacs.**
+
+- **Va cofundar Oxford Sciences Innovation**, un fons d'inversió de **1.200
+  milions de lliures** que crea empreses científiques a partir de la Universitat
+  d'Oxford. **En va ser conseller delegat del 2015 al 2019.**
+- **Va fundar IP Group plc**, un fons que invertia en spin-offs del departament
+  de Química d'Oxford **a canvi del 50% dels ingressos de llicència de la seva
+  propietat intel·lectual**.
+- **El 2017 va donar 1,9 milions de lliures al Keble College d'Oxford**, on
+  s'havia llicenciat en història el 1988.
+- **El 2001 va fer una donació gran a la British Chess Federation** per
+  desenvolupar els escacs juvenils.
+- **Ha escrit llibres** —*Winning with the Modern* i *Steve Davis plays Chess*,
+  coescrit amb el jugador d'snooker **Steve Davis**— i **articles per al *Daily
+  Telegraph***.
+- **Ha estat capità de la selecció anglesa d'escacs.**
+
+**El corpus ho escriu sencer perquè és el perfil que la branca d'economia
+descriu i la d'esports no havia trobat mai:** **una persona d'alt patrimoni que
+pren la representació esportiva andorrana.** Vegeu
+[banca i fiscalitat](../../economia/banca-i-fiscalitat/README.md) i
+[nacionalitat i residència](../../institucions/nacionalitat-i-residencia/README.md).
+
+**I ho escriu amb l'avís que la font mateixa hi posa**: **l'article porta una
+etiqueta de possible conflicte d'interessos** *(«COI»)* **des del setembre del
+2019**. **El corpus no pot verificar-ne les xifres econòmiques i les dona com a
+declarades, no com a comprovades.**
 
 ## El que falta
 
-- **Quan va representar Andorra** i en quines competicions.
-- **El seu elo i el seu palmarès.**
-- **Els escacs andorrans, sencers.**
+- **Què ha jugat per Andorra des del 2011.** **La font no ho diu.** **Buit
+  central d'aquesta fitxa.**
+- **La Federació Andorrana d'Escacs.**
+- **Si viu a Andorra.**
 
 ## Related
 
 - [Altres esports](./README.md)
-- [Esports](../README.md)
-- [Josep Oms](./josep-oms.md) i [Lance Henderson](./lance-henderson.md) — els altres dos grans mestres.
+- [Josep Oms](./josep-oms.md)
+- [Raül García Paolicchi](./raul-garcia-paolicchi.md)
+- [Lance Henderson de La Fuente](./lance-henderson.md)

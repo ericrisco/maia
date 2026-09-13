@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**640** documents · **124** fonts · **0** aptes com a model de llengua · **116** temes amb contingut.
+**644** documents · **124** fonts · **0** aptes com a model de llengua · **116** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -242,17 +242,21 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El BC Andorra](temes/esports/altres-esports/bc-andorra.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 | [Berta Miquel i Solé](temes/esports/altres-esports/berta-miquel.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Claudia Guri i Moreno](temes/esports/altres-esports/claudia-guri.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Cyril Despres](temes/esports/altres-esports/cyril-despres.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [David Albós i Cavaliere](temes/esports/altres-esports/david-albos.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [David Navarro i Brugal](temes/esports/altres-esports/david-navarro.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
-| [David Robert Norwood](temes/esports/altres-esports/david-norwood.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [David Robert Norwood](temes/esports/altres-esports/david-norwood.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [El Palau de Gel de Canillo](temes/esports/altres-esports/el-palau-de-gel.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 | [Èric Cervós i Noguer](temes/esports/altres-esports/eric-cervos.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Estefania Sebastian](temes/esports/altres-esports/estefania-sebastian.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Fiona Morrison i Porta](temes/esports/altres-esports/fiona-morrison.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Jordi Trilla i Clanchet](temes/esports/altres-esports/jordi-trilla.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 | [Josep Oms i Pallisé](temes/esports/altres-esports/josep-oms.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Lance Henderson de La Fuente](temes/esports/altres-esports/lance-henderson.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Laurent Recouderc](temes/esports/altres-esports/laurent-recouderc.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 | [Lea Ricart i Martínez](temes/esports/altres-esports/lea-ricart.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Ludovic Albós i Cavaliere](temes/esports/altres-esports/ludovic-albos.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Luis Basagaña i Soto](temes/esports/altres-esports/luis-basagana.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |

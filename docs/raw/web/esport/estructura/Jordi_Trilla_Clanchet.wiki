@@ -1,0 +1,47 @@
+{{Short description|Andorran tennis player}}
+{{Infobox tennis biography
+| name = Jordi Trilla Clanchet
+| image =
+| fullname =
+| country_represented = {{AND}}
+| birth_date = {{birth date and age|2004|12|21|df=yes}}
+| birth_place = 
+| death_date =
+| death_place = 
+| height =
+| plays = Right-handed
+| careerprizemoney = 
+| singlesrecord = 
+| singlestitles = 
+| highestsinglesranking = 
+| currentsinglesranking = 
+| AustralianOpenresult =
+| FrenchOpenresult = 
+| Wimbledonresult =
+| USOpenresult =
+| doublesrecord =
+| doublestitles = 
+| highestdoublesranking = 
+| currentdoublesranking = 
+| AustralianOpenDoublesresult =
+| FrenchOpenDoublesresult = 
+| WimbledonDoublesresult =
+| USOpenDoublesresult =
+| Team = yes
+| DavisCupresult = 1–1
+}}
+'''Jordi Trilla Clanchet''' (born 21 December 2004) is an Andorran [[tennis]] player.<ref name="Sansaloni">{{cite news |last1=Sansaloni |first1=David |title=Andorra cau «amb actitud» davant Macedònia i debuta Jordi Trilla |url=https://www.elperiodic.ad/noticia/86545/andorra-cau-amb-actitud-davant-macedonia-i-debuta-jordi-trilla |work=[[El Periòdic d'Andorra]] |date=24 June 2021 |language=ca}}</ref><ref>{{cite news |title=Jordi Trilla completa l'equip de la Copa Davis |url=https://www.diariandorra.ad/noticies/esports/2021/05/07/jordi_trilla_completa_equip_copa_davis_179552_1128.html |work=[[Diari d'Andorra]] |date=7 May 2021 |language=ca}}</ref><ref>{{cite news |title=Jordi Trilla completa la delegació andorrana a la Copa Davis |url=https://www.andorradifusio.ad/esports/jordi-trilla-completa-delegacio-andorrana-copa |work=[[Ràdio i Televisió d'Andorra|Andorra Difusió]] |date=5 May 2021 |language=ca}}</ref><ref>{{cite news |title=L'equip de Copa Davis, amb tota la il·lusió cap a Macedònia |url=https://www.diariandorra.ad/noticies/esports/2021/06/17/l_equip_copa_davis_amb_tota_lusio_cap_macedonia_181997_1128.html |work=[[Diari d'Andorra]]|date=17 June 2021 |language=ca}}</ref>
+
+Trilla Clanchet debuted for the [[Andorra Davis Cup team]] as a 16-year old in 2021. One of the youngest ever Andorran Davis Cup players, he was brought into the team as part of the local federation's new focus of giving experience to youth players.<ref name="Sansaloni"/> He featured in the doubles rubbers of back to back ties against [[North Macedonia Davis Cup team|North Macedonia]] and [[Kosovo Davis Cup team|Kosovo]], winning the latter (partnering [[Èric Cervós Noguer]]).<ref>{{cite news |title=Andorra torna a patir un dur correctiu a la Copa Davis |url=https://www.bondia.ad/esports/andorra-torna-patir-un-dur-correctiu-la-copa-davis |work=[[Bondia (newspaper)|Bondia]] |date=24 June 2021 |language=ca}}</ref><ref>{{cite news |last1=Bernat |first1=Marcos |title=Andorra passa per sobre de Kosovo a la Copa Davis |url=https://www.elperiodic.ad/noticia/86609/andorra-passa-per-sobre-de-kosovo-a-la-copa-davis |work=[[El Periòdic d'Andorra]] |date=26 June 2021 |language=ca}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Davis Cup player|800540820}}
+* {{ITF profile|jordi-trilla-clanchet/800540820/and}}
+
+{{DEFAULTSORT:Trilla Clanchet, Jordi}}
+[[Category:2004 births]]
+[[Category:Living people]]
+[[Category:Andorran male tennis players]]

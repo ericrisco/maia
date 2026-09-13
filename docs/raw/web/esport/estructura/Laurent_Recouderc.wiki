@@ -1,0 +1,324 @@
+{{short description|French tennis player}}
+{{Use dmy dates|date=March 2019}}
+{{Infobox tennis biography
+| name            = Laurent Recouderc
+
+| image                 = Laurent-recouderc.png
+| country               = {{AND}}<br/>{{FRA}}
+| residence             = [[Toulouse]], France
+| birth_date            = {{birth date and age|df=yes|1984|7|10}}<ref>[http://www.atpworldtour.com/Tennis/Players/Re/L/Laurent-Recouderc.aspx ATP World Tour profile]</ref><ref>[http://www.itftennis.com/procircuit/players/player/profile.aspx?playerid=100014149 ITF profile]</ref>
+| birth_place           = Toulouse, France
+| height                = {{height|m=1.78}}
+| turnedpro             = 2003
+| plays                 = Right-handed (two-handed backhand)
+| careerprizemoney      = [[United States Dollar|US$]] 419,108
+| singlesrecord         = 3–12
+| singlestitles         = 0
+| highestsinglesranking = No. 124 (26 October 2009)
+| currentsinglesranking = 
+| AustralianOpenresult  = Q2 ([[2008 Australian Open – Men's singles qualifying|2008]], [[2010 Australian Open – Men's singles qualifying|2010]])
+| FrenchOpenresult      = 2R ([[2007 French Open – Men's singles|2007]])
+| Wimbledonresult       = 
+| USOpenresult          = 1R ([[2008 US Open – Men's singles|2008]])
+| doublesrecord         = 2–3 
+| doublestitles         = 0
+| highestdoublesranking = No. 320 (19 July 2010)
+| FrenchOpenDoublesresult  = 3R ([[2010 French Open – Men's doubles|2010]])
+| Team                  = yes
+| DavisCupresult        = 7–8
+| updated               = 20 July 2019
+|medaltemplates=
+{{MedalSport | Tennis}}
+{{MedalCountry | {{AND}}}}
+{{MedalGold|[[Tennis at the 2015 Games of the Small States of Europe|2015 Iceland]]|Singles}}
+{{MedalBronze|[[Tennis at the 2015 Games of the Small States of Europe|2015 Iceland]]|Men's Doubles}}
+}}
+
+'''Laurent Recouderc''' is a professional [[tennis]] player from France. He was born 10 July 1984 in [[Toulouse]].
+
+==Career==
+On the junior circuit, Recouderc had defeated [[Tomáš Berdych]], [[Robin Söderling]], and [[Jo-Wilfried Tsonga]]. He has spent his professional career playing primarily on the Challenger and Future circuits. He played in the [[2007 French Open]], where he defeated [[Sam Querrey]] in five sets before losing to [[Novak Djokovic]] in four sets. He received a wild card to compete in the [[2010 French Open]], where he lost to the No. 5 seed Söderling in the first round.
+
+==Future and Challenger finals==
+===Singles: 25 (17–8)===
+{|
+|-valign=top
+|
+{|class=wikitable style=font-size:97%
+!Legend (singles)
+|-bgcolor=moccasin
+|ATP Challenger Tour (3–3)
+|-bgcolor=#cffcff
+|ITF Futures Tour (13–5)
+|-
+|ITF Satellites (1–0)
+|}
+|
+{|class=wikitable style=font-size:97%
+!Titles by surface
+|-
+|Hard (5–2)
+|-
+|Clay (12–6)
+|-
+|Grass (0–0)
+|-
+|Carpet (0–0)
+|}
+|}
+
+{|class="sortable wikitable"
+!Result
+!class="unsortable"|W–L
+!{{ns}}Date{{ns}}
+!Tournament
+!Tier
+!Surface
+!Opponent
+!class="unsortable"|Score
+|-
+|bgcolor=98FB98|Win
+|<small>1–0</small>
+|{{dts|Jun 2003}}
+|style="background:#cffcff;"|Morocco F2, [[Marrakesh]]
+|style="background:#cffcff;"|Futures
+|Clay
+|{{flagicon|ARG}} [[Brian Dabul]]
+|6–4, 6–4
+|- 
+|bgcolor=98FB98|Win
+|<small>2–0</small>
+|{{dts|Aug 2003}}
+|style="background:#cffcff;"|Russia F1, [[Sergiyev Posad]]
+|style="background:#cffcff;"|Futures
+|Clay
+|{{flagicon|UKR}} [[Sergei Yaroshenko]]
+|6–1, 3–6, 6–4
+|- 
+|bgcolor=98FB98|Win
+|<small>3–0</small>
+|{{dts|Aug 2003}}
+|style="background:#cffcff;"|Russia F2, [[Balashikha]]
+|style="background:#cffcff;"|Futures
+|Clay
+|{{flagicon|RUS}} [[Alexander Pavlioutchenkov]]
+|6–0, 6–2
+|- 
+|bgcolor=FFA07A|Loss
+|<small>3–1</small>
+|{{dts|May 2005}}
+|style="background:#cffcff;"|Hungary F2, [[Miskolc]]
+|style="background:#cffcff;"|Futures
+|Clay
+|{{flagicon|SVK}} František Polyak
+|3–6, 4–6
+|- 
+|bgcolor=FFA07A|Loss
+|<small>3–2</small>
+|{{dts|Aug 2005}}
+|style="background:#cffcff;"|Lebanon F2, [[Jounieh]]
+|style="background:#cffcff;"|Futures
+|Clay
+|{{flagicon|MON}} [[Benjamin Balleret]]
+|3–6, 5–7
+|- 
+|bgcolor=FFA07A|Loss
+|<small>3–3</small>
+|{{dts|Oct 2005}}
+|style="background:#cffcff;"|Ukraine F1, [[Horlivka]]
+|style="background:#cffcff;"|Futures
+|Clay
+|{{flagicon|CYP}} [[Photos Kallias]]
+|5–7, 4–6
+|- 
+|bgcolor=98FB98|Win
+|<small>4–3</small>
+|{{dts|Feb 2006}}
+|Great Britain, [[Sheffield]]
+|Satellites
+|Hard (i)
+|{{flagicon|GBR}} [[Josh Goodall]]
+|6–3, 6–7<sup>(7–9)</sup>, 6–3
+|- 
+|bgcolor=98FB98|Win
+|<small>5–3</small>
+|{{dts|Oct 2006}}
+|style="background:#cffcff;"|France F17, [[Saint-Dizier]]
+|style="background:#cffcff;"|Futures
+|Hard (i)
+|{{flagicon|FRA}} [[Édouard Roger-Vasselin]]
+|7–5, 6–3
+|-
+|bgcolor=98FB98|Win
+|<small>6–3</small>
+|{{dts|Apr 2007}}
+|style="background:#cffcff;"|Egypt F1, [[Cairo]]
+|style="background:#cffcff;"|Futures
+|Clay
+|{{flagicon|ARG}} Juan Pablo Villar
+|6–3, 5–7, 6–1
+|- 
+|bgcolor=98FB98|Win
+|<small>7–3</small>
+|{{dts|Apr 2007}}
+|style="background:#cffcff;"|Egypt F2, [[Cairo]]
+|style="background:#cffcff;"|Futures
+|Clay
+|{{flagicon|EGY}} [[Mohamed Mamoun]]
+|6–4, 6–3
+|-
+|bgcolor=98FB98|Win
+|<small>8–3</small>
+|{{dts|May 2007}}
+|style="background:#cffcff;"|Great Britain F9, [[Bournemouth]]
+|style="background:#cffcff;"|Futures
+|Clay
+|{{flagicon|CZE}} [[Jan Minář]]
+|7–6<sup>(7–3)</sup>, 6–4
+|-
+|bgcolor=98FB98|Win
+|<small>9–3</small>
+|{{dts|May 2007}}
+|style="background:#cffcff;"|Algeria F1, [[Algiers]]
+|style="background:#cffcff;"|Futures
+|Clay
+|{{flagicon|GER}} [[Alex Satschko]]
+|6–3, 6–0
+|-
+|bgcolor=98FB98|Win
+|<small>10–3</small>
+|{{dts|Jan 2008}}
+|style="background:#cffcff;"|China F1, [[Shenzhen]]
+|style="background:#cffcff;"|Futures
+|Hard
+|{{flagicon|DEN}} [[Frederik Nielsen]]
+|6–3, 6–3
+|-
+|bgcolor=98FB98|Win
+|<small>11–3</small>
+|[[2008 Polska Energia Open – Singles|{{dts|Jun 2008}}]]
+|style="background:moccasin;"|[[ZRE Katowice Bytom Open|Bytom]], Poland
+|style="background:moccasin;"|Challenger
+|Clay
+|{{flagicon|ESP}} [[Pablo Santos González]]
+|6–3, 6–4
+|-
+|bgcolor=FFA07A|Loss
+|<small>11–4</small>
+|[[2008 President's Cup – Singles|{{dts|Nov 2008}}]]
+|style="background:moccasin;"|[[President's Cup (tennis)|Astana]], Kazakhstan
+|style="background:moccasin;"|Challenger
+|Hard (i)
+|{{flagicon|KAZ}} [[Andrey Golubev]]
+|6–1, 5–7, 3–6
+|-
+|bgcolor=98FB98|Win
+|<small>12–4</small>
+|[[2009 Morocco Tennis Tour – Rabat – Singles|{{dts|Mar 2009}}]]
+|style="background:moccasin;"|[[Morocco Tennis Tour – Rabat|Rabat]], Morocco
+|style="background:moccasin;"|Challenger
+|Clay
+|{{flagicon|ESP}} [[Santiago Ventura Bertomeu|Santiago Ventura]]
+|6–0, 6–2
+|-
+|bgcolor=98FB98|Win
+|<small>13–4</small>
+|[[2009 Polska Energia Open – Singles|{{dts|Jun 2009}}]]
+|style="background:moccasin;"|[[ZRE Katowice Bytom Open|Bytom]], Poland
+|style="background:moccasin;"|Challenger
+|Clay
+|{{flagicon|CZE}} [[Jan Hájek (tennis)|Jan Hájek]]
+|6–3, 6–4
+|-
+|bgcolor=FFA07A|Loss
+|<small>13–5</small>
+|[[2009 Black Forest Open – Singles|{{dts|Sep 2009}}]]
+|style="background:moccasin;"|[[Black Forest Open|Freudenstadt]], Germany
+|style="background:moccasin;"|Challenger
+|Clay
+|{{flagicon|CZE}} [[Jan Hájek (tennis)|Jan Hájek]]
+|6–2, 3–6, 6–7<sup>(5–7)</sup>
+|-
+|bgcolor=FFA07A|Loss
+|<small>13–6</small>
+|[[2010 Beijing International Challenger – Men's singles|{{dts|Aug 2010}}]]
+|style="background:moccasin;"|[[Beijing International Challenger|Beijing]], China
+|style="background:moccasin;"|Challenger
+|Hard
+|{{flagicon|CRO}} [[Franko Škugor]]
+|6–3, 4–6, 3–6
+|- 
+|bgcolor=FFA07A|Loss
+|<small>13–7</small>
+|{{dts|Oct 2011}}
+|style="background:#cffcff;"|Chile F7, [[Santiago]]
+|style="background:#cffcff;"|Futures
+|Clay
+|{{flagicon|CHI}} [[Guillermo Hormazábal]]
+|5–7, 2–6
+|- 
+|bgcolor=FFA07A|Loss
+|<small>13–8</small>
+|{{dts|Jan 2012}}
+|style="background:#cffcff;"|Egypt F1, [[Cairo]]
+|style="background:#cffcff;"|Futures
+|Clay
+|{{flagicon|RUS}} [[Andrey Kuznetsov (tennis)|Andrey Kuznetsov]]
+|4–6, 3–6
+|-
+|bgcolor=98FB98|Win
+|<small>14–8</small>
+|{{dts|Jul 2012}}
+|style="background:#cffcff;"|Estonia F2, [[Kuressaare]]
+|style="background:#cffcff;"|Futures
+|Clay
+|{{flagicon|EST}} [[Vladimir Ivanov (tennis)|Vladimir Ivanov]]
+|7–5, 7–6<sup>(7–3)</sup>
+|-
+|bgcolor=98FB98|Win
+|<small>15–8</small>
+|{{dts|Sep 2012}}
+|style="background:#cffcff;"|Georgia F1, [[Tbilisi]]
+|style="background:#cffcff;"|Futures
+|Clay
+|{{flagicon|ITA}} [[Matteo Marrai]]
+|6–1, 7–5
+|-
+|bgcolor=98FB98|Win
+|<small>16–8</small>
+|{{dts|Mar 2013}}
+|style="background:#cffcff;"|Vietnam F1, [[Bạc Liêu (city)|Bạc Liêu]]
+|style="background:#cffcff;"|Futures
+|Hard
+|{{flagicon|FRA}} [[Lucas Pouille]]
+|0–6, 6–4, 7–6<sup>(7–4)</sup>
+|-
+|bgcolor=98FB98|Win
+|<small>17–8</small>
+|{{dts|Apr 2013}}
+|style="background:#cffcff;"|Vietnam F2, [[Ho Chi Minh City]]
+|style="background:#cffcff;"|Futures
+|Hard
+|{{flagicon|USA}} [[Nicolas Meister (tennis)|Nicolas Meister]]
+|6–3, 6–4
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{ATP|R628}}
+* {{ITF profile}}
+* {{Davis Cup player|800229923}}
+
+{{DEFAULTSORT:Recouderc, Laurent}}
+[[Category:1984 births]]
+[[Category:Living people]]
+[[Category:French male tennis players]]
+[[Category:Andorran male tennis players]]
+[[Category:Tennis players from Toulouse]]
+[[Category:21st-century French sportsmen]]
+
+
+{{France-tennis-bio-stub}}
+{{Andorra-sport-bio-stub}}

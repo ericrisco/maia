@@ -1,0 +1,269 @@
+{{Infotaula organització
+| data_fundacio = [[1970]]
+| president = Gorka Aixàs Olea 
+| entrenador = [[Oscar Quintana]]
+| lliga = [[Lliga ACB]]
+| equipament={{Multi equipació esportiva | tipus_uniforme = basquet| pattern_b1 =_whiteup| body1=0000FF|shorts1=0000FF}}
+}}
+El '''Bàsquet Club Andorra''' (per motius de patrocini, '''Morabanc Andorra''') és un club [[Andorra|andorrà]] de [[basquetbol]] d'[[Andorra la Vella]] adscrit a la [[Federació Catalana de Bàsquet|Federació Catalana]].
+
+== Història ==
+[[Fitxer:Expo Andorra.jpg|miniatura|Samarreta de l'equip Festina Andorra.]]
+El [[12 de juny]] de [[1970]] es fundà el '''Club de Basket Les Escaldes'''. El [[12 d'abril]] de [[1971]] canvià el seu nom adoptant el de '''Bàsquet Club Andorra'''.<ref>{{ref-web |url=https://www.bca.ad/bca-2/ |consulta=31 desembre 2018 |títol=El Bàsquet Club Andorra |obra=Bàsquet Club Andorra |arxiuurl=https://web.archive.org/web/20181220082932/https://www.bca.ad/bca-2/ |arxiudata=20 de desembre 2018 }}</ref>
+
+Començà a jugar a les competicions territorials de Lleida, ascendint la temporada 1975-76 a Primera Catalana. La temporada següent renuncià a la categoria per problemes econòmics però el 1980-81 assolí novament l'ascens. El 1981-82 pujà a Tercera Divisió (Preferent Catalana) i el 1983-84 a la Segona Divisió estatal. La temporada 1985-86 arribà a la Primera Divisió B, i sis temporades després assoleix l'ascens a la [[Lliga ACB]] en el mes d'abril de 1992.<ref>{{ref-notícia |cognom=Fernández |nom=Gabriel |títol=El Andorra alcanza la Liga ACB |publicació=El Mundo Deportivo |url=https://hemeroteca-paginas.mundodeportivo.com/EMD01/HEM/1992/04/15/MD19920415-049.pdf |consulta=16 octubre 2025 |data=15 abril 1992}}</ref> El 1996 va perdre la categoria i poc passà a categories inferiors fins a la temporada 2009-10, en què participà en la Lliga LEB Plata, amb el nom de '''BC River Andorra'''.
+
+La temporada 2012-13, el BC River Andorra va participar en la [[Lliga LEB Or|Lliga Adecco Or]], la segona divisió del bàsquet espanyol, arribant al play-off final per a ascendir a la lliga Endesa ([[ACB]]), però va perdre contra el [[Lucentum Alacant]] per un resultat global de 3-2 i així no poder pujar a la lliga Endesa. La temporada 2013-14, va aconseguir el doblet en guanyar la copa del príncep i la lliga LEB Or, aconseguint a més l'ascens a la lliga Endesa.<ref>{{ref-web |url=http://www.acb.com/club.php?id=AND |consulta=31 desembre 2018 |títol=MoraBanc Andorra |obra=ACB |llengua=castellà |arxiuurl=https://web.archive.org/web/20181213075730/http://www.acb.com/club.php?id=AND |arxiudata=13 de desembre 2018}}</ref>
+
+En funció del seu patrocini, l'equip ha rebut les següents denominacions:
+* Festina Andorra: 1991–96
+* Quick Andorra: 2000–02
+* River Andorra: 2002–13
+* River Andorra MoraBanc: 2013–14
+* MoraBanc Andorra: 2014–present
+
+== Presidents {{Citació necessària|data=2018}} ==
+* Joan Alay Pujolàs - Honorífic i Fundador
+* Magí Maestre Campderrós - 1970/1971 Fundador
+* Eduard Molné Sauquet - 1971/1990 Fundador
+* Carles Fiñana Pifarré - 1990/1994
+* Manel Arajol Mir - 1994/2007
+* Gorka Aixàs Olea - 2007/avui.<ref>{{ref-notícia |títol=Gorka Aixàs: “Tenemos la ilusión de poder estar en la ACB” |publicació=FEB |url=http://www.feb.es/2014/3/24/baloncesto/gorka-aixas-tenemos-ilusion-poder-estar-acb/53026.aspx |consulta=31 desembre 2018 |data=24 març 2014 |llengua=castellà }} {{Webarchive|url=https://web.archive.org/web/20190101002816/http://www.feb.es/2014/3/24/baloncesto/gorka-aixas-tenemos-ilusion-poder-estar-acb/53026.aspx |date=1 de gener 2019 }}</ref>
+
+== Palmarès ==
+* '''2 [[Lliga catalana de bàsquet masculina|Lliga catalana de bàsquet ACB]]''': 2018-19,<ref>{{ref-notícia |títol=El MoraBanc Andorra estrena el seu palmarès a la Lliga Nacional Catalana (76-94) |publicació=Diari Ara |url=https://www.ara.cat/esports/basquet/final-Lliga-Nacional-Catalana_0_2085391659.html |consulta=9 setembre 2018 |data=9 setembre 2018 }} {{Webarchive|url=https://web.archive.org/web/20180910014657/https://www.ara.cat/esports/basquet/final-Lliga-Nacional-Catalana_0_2085391659.html |date=10 de setembre 2018 }}</ref> 2020-21.
+* '''3 [[Lliga catalana de bàsquet EBA]]''': 1988-89, 1989-90, 1991-92
+* '''1 [[Lliga catalana de bàsquet LEB|Lliga catalana de bàsquet LEB Plata]]''': 2010-11
+* '''1 [[Lliga catalana de bàsquet LEB]]''': 2013-14<ref>{{format ref}} http://www.basquetcatala.cat/noticies/3657 {{Webarchive|url=https://web.archive.org/web/20140528005759/http://www.basquetcatala.cat/noticies/3657 |date=2014-05-28 }}</ref>
+* '''2 [[Lliga LEB Oro]]''': 2013-14, 2022-23
+* '''1 [[Copa Príncep d'Astúries de basquetbol]]''': 2014
+* '''1 [[Copa Catalunya de bàsquet masculina|Copa Catalunya]]''': 2004-05
+
+== Uniformes ==
+{|
+|
+{{bàsquet kit|
+ pattern_b=_andorra_rugby|
+ body=0000FF|
+ shorts=ffffff|
+ title= Uniforme "tricolor" tradicional.
+}}
+|
+{{bàsquet kit|
+ pattern_b=_whitesides|
+ body=00bfFF|
+ pattern_s=_whitesides|
+ shorts=00bfff|
+ title= River Andorra (2002-2006).
+}}
+|
+{{bàsquet kit|
+ pattern_b=_bluesides|
+ body=ffffff|
+ pattern_s=_bluesides|
+ shorts=fffff|
+ title= River Andorra -fora- (2002-2013).
+}}
+|
+{{bàsquet kit|
+ pattern_b=_blueleftsideshoulder|
+ body=ffff00|
+ pattern_s=__redsides|
+ shorts=ffff00|
+ title= Uniforme alternatiu "tricolor".
+}}
+|}
+
+== Temporades ==
+<div style="height:512px; overflow-y:auto; margin:0 auto; border:1px solid #BBB">
+{| class=wikitable style="font-size:85%;"
+!rowspan=3 class=sortable | Temp.
+!colspan=7 | Lliga
+!rowspan=3 class=sortable | Copa
+!colspan=3 rowspan=2 | Competició Europea
+!colspan=3 rowspan=2 | Altres
+|-
+!rowspan=2 | {{Tooltip|N|Nivell}}
+!rowspan=2 | Lliga
+!rowspan=2 | {{Tooltip|Pos.|Posició final}}
+!colspan=2 | Lliga Regular
+!colspan=2 | {{Tooltip|Play-Off|Play-offs i fases finals}}
+|-
+!{{Tooltip|Pos.|Posició lliga regular}}
+!V-D
+!V-D
+!Resultat
+!{{Tooltip|N|Nivell}}
+!Competició
+!Resultat
+!Lliga Catalana
+!Varis
+|-
+|-
+|style="background:#efefef;"| 1971-80
+| colspan=13| <center>divisió provincial excepte temporada 1976-77
+|-
+|style="background:#efefef;"| 1980-81
+| |<center><small>5</small> || |<center>2a Catalana|| |<center>6 <small>(grup ?)</small> || |<center><small></small> || |<center><small>?</small> || | <center>|| <center> || <center>|| || |<center>|| |<center> ||||
+|-
+|style="background:#efefef;"| 1981-82
+| <center><small>5</small> || <center>2a Catalana<ref>{{format ref}} http://www.bca.ad/bca-2/ {{Webarchive|url=https://web.archive.org/web/20160503155028/http://www.bca.ad/bca-2/ |date=2016-05-03 }}</ref>|| bgcolor=gold |<center>{{increase}}1 || <center><small></small> ||<center><small>?</small> || | <center>|| <center> || <center>|| || |<center>|| |<center> || ||
+|-
+|style="background:#efefef;"| 1982-83
+| |<center><small>4</small> || |<center>1a Catalana<ref>{{format ref}} http://hemeroteca-paginas.mundodeportivo.com/EMD01/HEM/1983/04/13/MD19830413-030.pdf {{Webarchive|url=https://web.archive.org/web/20160617124640/http://hemeroteca-paginas.mundodeportivo.com/EMD01/HEM/1983/04/13/MD19830413-030.pdf |date=2016-06-17 }}</ref> || |<center>5 <small>(grup 2)</small> || |<center><small></small> || |<center><small>?</small> || | <center>|| <center> || <center>|| || |<center>|| |<center> || ||
+|-
+|style="background:#efefef;"| 1983-84
+| <center><small>4</small> ||<center>1a Catalana<ref>{{format ref}} http://hemeroteca-paginas.mundodeportivo.com/EMD01/HEM/1984/04/11/MD19840411-030.pdf {{Webarchive|url=https://web.archive.org/web/20160617133848/http://hemeroteca-paginas.mundodeportivo.com/EMD01/HEM/1984/04/11/MD19840411-030.pdf |date=2016-06-17 }}</ref> || bgcolor=gold |<center>{{increase}}1 <small>(grup 3)</small> || || <center><small>20-6</small> || |<center><small>?</small> || <center><small>fase final</small> || | <center>|| <center> || <center>|| || |<center>|| |<center>
+|-
+|style="background:#efefef;"| 1984-85
+| |<center><small>3</small> || |<center>2a Divisió<ref>{{format ref}} http://hemeroteca-paginas.mundodeportivo.com/EMD01/HEM/1985/04/15/MD19850415-049.pdf {{Webarchive|url=https://web.archive.org/web/20160617121311/http://hemeroteca-paginas.mundodeportivo.com/EMD01/HEM/1985/04/15/MD19850415-049.pdf |date=2016-06-17 }}</ref> || |<center>2 <small>(grup C)</small> || <center><small>2 <small>(grup C)</small></small> || <center><small>20-6</small> || <center><small>2-3</small> || |<center><small>fase final</small><ref>{{format ref}} http://hemeroteca-paginas.mundodeportivo.com/EMD01/HEM/1985/05/05/MD19850505-026.pdf {{Webarchive|url=https://web.archive.org/web/20160617133556/http://hemeroteca-paginas.mundodeportivo.com/EMD01/HEM/1985/05/05/MD19850505-026.pdf |date=2016-06-17 }}</ref> || | <center>|| <center> || <center>|| || |<center>|| |<center>
+
+|-
+|style="background:#efefef;"| 1985-86
+| <center><small>3</small> || <center>2a Divisió<ref>{{format ref}} http://hemeroteca-paginas.mundodeportivo.com/EMD01/HEM/1986/04/15/MD19860415-039.pdf</ref><ref>{{format ref}} http://hemeroteca-paginas.mundodeportivo.com/EMD01/HEM/1986/04/27/MD19860427-050.pdf {{Webarchive|url=https://web.archive.org/web/20160617105727/http://hemeroteca-paginas.mundodeportivo.com/EMD01/HEM/1986/04/27/MD19860427-050.pdf |date=2016-06-17 }}</ref><ref>{{format ref}} http://hemeroteca-paginas.mundodeportivo.com/EMD01/HEM/1986/05/18/MD19860518-047.pdf {{Webarchive|url=https://web.archive.org/web/20150824043924/http://hemeroteca-paginas.mundodeportivo.com/EMD01/HEM/1986/05/18/MD19860518-047.pdf |date=2015-08-24 }}</ref> || bgcolor=gold |<center>{{increase}}1 || <center><small>3 <small>(grup E)</small></small> || <center><small>18-8</small> || <center><small>8-0</small> || <center><small>final</small><ref>{{format ref}} http://hemeroteca-paginas.mundodeportivo.com/EMD01/HEM/1986/05/19/MD19860519-052.pdf {{Webarchive|url=https://web.archive.org/web/20160617125133/http://hemeroteca-paginas.mundodeportivo.com/EMD01/HEM/1986/05/19/MD19860519-052.pdf |date=2016-06-17 }}</ref> || | <center>|| <center> || <center>|| || |<center>|| |<center>
+|-
+|style="background:#efefef;"| 1986-87
+| |<center><small>2</small> || |<center>1a Divisió B<ref>{{format ref}} http://www.hispaligas.net/Baloncesto/86-87%20Primera%20B.html {{Webarchive|url=https://web.archive.org/web/20160821165816/http://www.hispaligas.net/Baloncesto/86-87%20Primera%20B.html |date=2016-08-21 }}</ref> || |<center>23 || <center><small>11 <small>(grup B-2)</small></small> || <center><small>12-22</small> || || <small>{{Tooltip|P-O suspesos|Play-off suspesos pel conflicte entre els clubs i la FEB}}</small> || | <center>|| <center> || <center>|| || bgcolor=#CC9966 |<center><small>{{Tooltip|LC 1aB|Lliga Catalana de Primera Divisió B}}</small> - 3r<ref>{{format ref}} http://hemeroteca.mundodeportivo.com/preview/1986/08/18/pagina-39/1143826/pdf.html#&mode=fullScreen {{Webarchive|url=https://web.archive.org/web/20180204001235/http://hemeroteca.mundodeportivo.com/preview/1986/08/18/pagina-39/1143826/pdf.html#&mode=fullScreen |date=2018-02-04 }}</ref> || |<center>
+|-
+|style="background:#efefef;"| 1987-88
+| |<center><small>2</small> || |<center>1a Divisió B<ref>{{format ref}} http://www.hispaligas.net/Baloncesto/87-88%20Primera%20B.html {{Webarchive|url=https://web.archive.org/web/20180204000835/http://www.hispaligas.net/Baloncesto/87-88%20Primera%20B.html |date=2018-02-04 }}</ref> || |<center>20 || |<center><small>4 <small>(grup D)</small></small> || |<center><small>19-19</small> || <center><small>3-1</small> || <center>{{Tooltip|Perm.|Play-off per la permenència}} || | <center>|| <center> || <center>|| || bgcolor=silver |<center><small>{{Tooltip|LC 1aB|Lliga Catalana de Primera Divisió B}}</small> - F|| |<center>
+|-
+|style="background:#efefef;"| 1988-89
+| |<center><small>2</small> || |<center>1a Divisió<ref>{{format ref}} http://www.hispaligas.net/Baloncesto/88-89%20Primera.html {{Webarchive|url=https://web.archive.org/web/20180204000448/http://www.hispaligas.net/Baloncesto/88-89%20Primera.html |date=2018-02-04 }}</ref> || |<center>10 || |<center><small>10</small> || |<center><small>15-15</small> || || |<center> || | <center>|| <center> || <center>|| || bgcolor=gold |<center><small>{{Tooltip|LC 1a|Lliga Catalana de Primera Divisió}}</small> - C|| |<center>
+|-
+| rowspan=2 style="background:#efefef;"| 1989-90
+| rowspan=2|<center><small>2</small>
+| rowspan=2|<center>1a Divisió<ref>{{format ref}} http://www.hispaligas.net/Baloncesto/89-90%20Primera.html {{Webarchive|url=https://web.archive.org/web/20171130201701/http://www.hispaligas.net/Baloncesto/89-90%20Primera.html |date=2017-11-30 }}</ref>
+| rowspan=2|<center>6
+| rowspan=2|<center><small>5</small>
+| rowspan=2|<center><small>18-12</small>
+| rowspan=2|<center><small>2-1</small>
+| rowspan=2|<center>QF
+| rowspan=2|<center>
+| rowspan=2|<center><small></small>
+| rowspan=2|<center>
+| rowspan=2|<center>
+| bgcolor=gold |<center><small>{{Tooltip|LC 1a|Lliga Catalana de Primera divisió}}</small> - 1r
+| rowspan=2|
+|-
+| |<center>[[Lliga catalana de bàsquet masculina 1989/90|{{Tooltip|FG|Eliminat en Fase de Grups formada per 6 equips}}]]
+|-
+|style="background:#efefef;"| 1990-91
+| |<center><small>2</small> || |<center>1a Divisió<ref>{{format ref}} http://www.hispaligas.net/Baloncesto/90-91%20Primera.html {{Webarchive|url=https://web.archive.org/web/20160821155354/http://www.hispaligas.net/Baloncesto/90-91%20Primera.html |date=2016-08-21 }}</ref>|| |<center>4 || <center><small>2 <small>(A-2)</small></small> || <center><small>21-15</small> || <center><small>2-3</small> || <center>SF || | <center>|| <center> || <center>|| || bgcolor=silver |<center><small>{{Tooltip|LC 1a|Lliga Catalana de Primera divisió}}</small> - 2n|| |<center>
+|-
+| rowspan=2 style="background:#efefef;"| 1991-92
+| rowspan=2|<center><small>2</small>
+| rowspan=2|<center>1a Divisió<ref>{{format ref}} http://www.hispaligas.net/Baloncesto/91-92%20Primera.html {{Webarchive|url=https://web.archive.org/web/20171130201747/http://www.hispaligas.net/Baloncesto/91-92%20Primera.html |date=2017-11-30 }}</ref>
+| rowspan=2 bgcolor=gold |<center>{{increase}}1
+| rowspan=2|<center><small>1 <small>(A-1)</small></small>
+| rowspan=2|<center><small>26-10</small>
+| rowspan=2|<center><small>3-2</small>
+| rowspan=2|<center>C
+| rowspan=2|<center>
+| rowspan=2|<center><small></small>
+| rowspan=2|<center>
+| rowspan=2|<center>
+| bgcolor=gold |<center><small>{{Tooltip|LC 1a|Lliga Catalana de Primera divisió}}</small> - 1r
+| rowspan=2|
+|-
+| |<center>[[Lliga catalana de bàsquet masculina 1992/93|1R <small>(QF)</small>]]
+|-
+|style="background:#efefef;"| 1992-93
+| |<center><small>1</small> || |<center>ACB || |<center>12 || <center><small>12</small> || |<center><small>15-18</small> || <center><small>0-2</small> || |<center>VF || | <center>{{Tooltip|Primera Ronda|Eliminat en Primera Ronda, havent 22 equips en competició}}|| <center> || <center>|| || |<center>[[Lliga catalana de bàsquet masculina 1992/93|SF]] || |<center>
+|-
+|style="background:#efefef;"| 1993-94
+| |<center><small>1</small> || |<center>ACB || |<center>9 || <center><small>5</small> || <center><small>18-10</small> || <center><small>3-2</small> || <center><small>{{Tooltip|El. Clas.|Eliminatòria de classificació}}</small> i VF || <center>{{Tooltip|Primera Ronda|Eliminat en Primera Ronda, havent 20 equips en competició}}|| <center> || <center>|| || |<center>[[Lliga catalana de bàsquet masculina 1993/94|SF]] || |<center>
+|-
+|style="background:#efefef;"| 1994-95
+| |<center><small>1</small> || |<center>ACB || |<center>8 || <center><small>8</small> || |<center><small>20-18</small> || <center><small>0-2</small> || |<center>QF || | <center>Quarts de Final|| <center> || <center>|| || <center>[[Lliga catalana de bàsquet masculina 1994/95|1R <small>(QF)</small>]] || |<center>
+|-
+|- align=center
+|style="background:#efefef;"| 1995-96
+| <small>1</small> || ACB || {{decrease}}19 || <small>18</small> || <small>10-28</small> || <small>1-3</small> || {{Tooltip|Perm.|Play-off per la permenència}} || | || <center><small>3</small> || Copa Korac|| {{Tooltip|Fase de Grups|Eliminat en la fase de grups de vuitens de final}} || | [[Lliga catalana de bàsquet masculina 1995/96|SF]] || |
+|-
+|style="background:#efefef;"| 1996-97
+| |<center><small>2</small> || |<center>LEB || |<center>{{decrease}}4 || <center><small>8</small> || <center><small>13-13</small> || <center><small>8-6</small> || |<center>SF || | <center>|| <center> || <center>|| || |<center>[[Lliga catalana de bàsquet masculina 1996/97|2R <small>(QF)</small>]] || |<center>
+|-
+|style="background:#efefef;"| 1997-98
+| <center><small>7</small> || <center>3a Catalana Preferent || bgcolor=gold |<center> {{increase}}1 || <center><small>1 <small>(grup ?)</small> || <center><small>?</small> || <center><small>?</small> || <center><small>fase final</small> || | <center>|| <center> || <center>|| || |<center>[[Lliga catalana de bàsquet masculina 1997/98|{{Tooltip|1R|Eliminat en Primera Ronda havent 8 equips en competició}}]] || |<center>
+|-
+|style="background:#efefef;"| 1998-99
+| |<center><small>6</small> || |<center>2a Catalana || |<center> {{increase}}2 <small>(grup 2)</small> || <center><small>2 <small>(grup 2)</small></small> || <center><small>21-9</small> || <center><small>?</small> || <center><small>fase d'ascens</small> || | <center>|| <center> || <center>|| || || 
+|-
+|style="background:#efefef;"| 1999-00
+| |<center><small>5</small> || |<center>1a Catalana<ref>{{format ref}} https://web.archive.org/web/20000408230535/http://www.basquetcatala.com/resultats.html</ref> || |<center> {{increase}}3 <small>(grup 2)</small> || |<center><small>3 <small>(grup 2)</small></small> || |<center><small>21-9</small> || <center><small>?</small> || <center><small>fase d'ascens</small> || | <center>|| <center> || <center>|| || || |<center><small>
+|-
+|style="background:#efefef;"| 2000-01
+| |<center><small>5</small> || |<center>Copa Catalunya<ref>{{format ref}} https://web.archive.org/web/20050929142253/http://www.basquetcatala.com/2000-2001/resultats/R037102.html</ref> || |<center>7 <small>(grup 2)</small> || <center><small>7 <small>(grup 2)<small></small> || <center><small>18-12</small> || || |<center> || | <center>|| <center> || <center>|| || |<center><small> || |<center>
+|-
+|style="background:#efefef;"| 2001-02
+| |<center><small>5</small> || |<center>Copa Catalunya<ref>{{format ref}} https://web.archive.org/web/20050424204225/http://www.basquetcatala.com/2001-2002/resultats/R037102.html</ref> || |<center> 4 || <center><small>2 <small>(grup 2)</small></small> || <center><small>19-11</small> || <center><small>0-2</small> || |<center><small>fase final</small><ref>{{format ref}} https://web.archive.org/web/20061016081221/http://www.basquetcatala.com/2001-2002/resultats/f4copacatm.html</ref> || | <center>|| <center> || <center>|| || |<center><small> || |<center>
+|-
+|style="background:#efefef;"| 2002-03
+| |<center><small>5</small> || |<center>Copa Catalunya || |<center>6 <small>(grup 2)</small> || <center><small>6 <small>(grup 2)</small></small> || |<center><small>17-13</small> || || |<center> || | <center>|| <center> || <center>|| || |<center><small> || |<center>
+|-
+|style="background:#efefef;"| 2003-04
+| |<center><small>5</small> || |<center>Copa Catalunya<ref>{{format ref}} https://web.archive.org/web/20040604122641/http://www.basquetcatala.com/2003-2004/resultats/R037102.html</ref> || |<center>4 <small>(grup 2)</small> || |<center><small>4 <small>(grup 2)</small></small> || <center><small>21-9</small> || || |<center> || | <center>|| <center> || <center>|| || |<center><small> || |<center>
+|-
+|style="background:#efefef;"| 2004-05
+| <center><small>5</small> || <center>Copa Catalunya<ref>{{format ref}} https://web.archive.org/web/20050918062755/http://www.basquetcatala.com/2004-2005/resultats/R037101.html</ref> || bgcolor=gold |<center>{{increase}}1 || <center><small>1 <small>(grup 1)</small></small> || <center><small>24-6</small> || <center><small>2-0</small> || <center><small>fase final</small> || | <center>|| <center> || <center>|| || |<center><small> || |<center>
+|-
+|style="background:#efefef;"| 2005-06
+| |<center><small>4</small> || |<center>EBA || |<center>7 <small>(grup C)</small> || <center><small>7 <small>(grup C)</small></small> || |<center><small>16-14</small> || || |<center> || | <center>|| <center><small></small> || <center>|| || |<center><small>{{Tooltip|LC EBA|Lliga Catalana EBA}} </small> - {{Tooltip|FG |Eliminat en fase de grups formada per 11 equips}}<ref>{{format ref}} https://web.archive.org/web/20060505072825/http://www.basquetcatala.com/2005-2006/lligacatalana/lligacatalanaeba.pdf</ref> || |<center>
+|-
+|style="background:#efefef;"| 2006-07
+| |<center><small>4</small> || |<center>EBA || |<center>9 <small>(grup C)</small> || <center><small>9 <small>(grup C)</small></small> || |<center><small>13-13</small> || || |<center> || | <center>|| <center><small></small> || <center>|| || |<center><small>{{Tooltip|LC EBA|Lliga Catalana EBA}} </small> - {{Tooltip|FG |Eliminat en fase de grups formada per 11 equips}}<ref>{{format ref}} https://web.archive.org/web/20071120011859/http://www.basquetcatala.com/2006-2007/lligacatalana/lligacatalanaeba.htm</ref> || |<center>
+|-
+|style="background:#efefef;"| 2007-08
+| |<center><small>5</small> || |<center>EBA || |<center>5 <small>(grup C)</small> || <center><small>5 <small>(grup C)</small></small>|| |<center><small>20-10</small> || || |<center> || | <center>|| <center><small></small> || <center>|| || |<center><small>{{Tooltip|LC EBA|Lliga Catalana EBA}} </small> - {{Tooltip|FG |Eliminat en fase de grups formada per 12 equips}}<ref>{{format ref}} https://web.archive.org/web/20071014204123/http://basquetcatala.com/2007-2008/lligacatalana/lligacatalanaeba.htm</ref> || |<center>
+|-
+|style="background:#efefef;"| 2008-09
+| <center><small>5</small> || <center>EBA || bgcolor=silver |<center>{{increase}}2 || <center><small>2 <small>(grup C)</small></small> || <center><small>20-10</small> || <center><small>3-0</small> || <center><small>fase final</small> || | <center>|| <center><small></small> || <center>|| || |<center><small>{{Tooltip|LC EBA|Lliga Catalana EBA}} </small> - {{Tooltip|FG </small>|Eliminat en fase de grups formada per 13 equips}}<ref>{{format ref}} http://www.basquetcatala.cat/noticies/48 {{Webarchive|url=https://web.archive.org/web/20160920165325/http://www.basquetcatala.cat/noticies/48 |date=2016-09-20 }}</ref> || |<center>
+|-
+|style="background:#efefef;"| 2009-10
+| |<center><small>3</small> || |<center>LEB Plata || |<center>6 || <center><small>5 (grup I)</small> || <center><small>20-12</small> || <center><small>1-3</small> || |<center>QF || | <center>|| <center><small></small> || <center>|| || |<center><small>{{Tooltip|LC LEB|Lliga Catalana LEB}}</small> - {{Tooltip|FG |Eliminat en fase de grups formada 7 equips}}<ref>{{format ref}} http://www.basquetcatala.cat/recursos/documents/lliguescatalanes/2009-2010/LligaCatLEB.pdf {{Webarchive|url=https://web.archive.org/web/20141012204632/http://www.basquetcatala.cat/recursos/documents/lliguescatalanes/2009-2010/LligaCatLEB.pdf |date=2014-10-12 }}</ref> || |<center>
+|-
+|style="background:#efefef;"| 2010-11
+| <center><small>3</small> || <center>LEB Plata || bgcolor=#CC9966 |<center>3 || <center><small>4</small> || <center><small>19-9</small> || <center><small>8-5</small> || <center>F || | <center>|| <center><small></small> || <center>|| || bgcolor=gold |<center><small>{{Tooltip|LC LEB P.|Lliga Catalana LEB Plata}}</small> - C || bgcolor=silver |<center><small>{{Tooltip|C. LEB P.|Copa LEB Plata}}</small> - F
+|-
+|style="background:#efefef;"| 2011-12
+| <center><small>3</small> || <center>LEB Plata || bgcolor=gold |<center>{{increase}}1 || |<center><small>1</small> || <center><small>19-5</small> || || <center> || | <center>|| <center><small></small> || <center>|| || bgcolor=silver |<center><small>{{Tooltip|LC LEB P.|Lliga Catalana LEB Plata}}</small> - F || bgcolor=silver |<center><small>{{Tooltip|C. LEB P.|Copa LEB Plata}}</small> - F
+|-
+|style="background:#efefef;"| 2012-13
+| <center><small>2</small> || <center>LEB Or || bgcolor=#CC9966 |<center>3 || <center><small>2</small> || <center><small>22-4</small> || <center><small>8-6</small> || <center>F || | <center>|| <center><small></small> || <center>|| || bgcolor=#CC9966 |<center><small>{{Tooltip|LC LEB |Lliga Catalana LEB}}</small> - 3r || bgcolor=silver |<center><small>{{Tooltip|CPA LEB|Copa Príncep d'Astúries LEB}}</small> - F
+|-
+|style="background:#efefef;"| 2013-14
+| <center><small>2</small> || <center>LEB Or || bgcolor=gold |<center>{{increase}}1 || <center><small>1</small> || <center><small>21-5</small> || || | <center>|| <center><small></small> || <center> || || || bgcolor=gold | <center><small>{{Tooltip|LC LEB |Lliga Catalana LEB}}</small> - C || bgcolor=gold |<center><small>{{Tooltip|CPA LEB|Copa Príncep d'Astúries LEB}}</small> - C
+|-
+|style="background:#efefef;"| 2014-15
+| <center><small>1</small> || <center>[[Lliga ACB 2014/15|ACB]] || |<center>14 || <center><small>14</small> || <center><small>12-22</small> ||<center> || || | <center>|| <center><small></small> || <center>|| || bgcolor="silver" |<center>F || |<center>
+|-
+|style="background:#efefef;"| 2015-16
+| <center><small>1</small> || <center>[[Lliga ACB 2015/16|ACB]] || |<center>14 || <center><small>14</small> || <center><small>12-22</small> ||<center> || || | <center> || <center><small></small> || <center>|| |<center> || bgcolor="silver" |<center>F ||
+|-
+|style="background:#efefef;"| 2016-17
+| <center><small>1</small> || <center>[[Lliga ACB 2016/17|ACB]] || |<center>8 || <center><small>8</small> || <center><small>16-16</small> || <center><small>1-2</small> ||<center>QF || | <center>Quarts de Final || <center><small></small> || <center>|| |<center> || <center>SF ||
+|- align=center
+|style="background:#efefef;"| 2017-18
+| <small>1</small> || [[Lliga ACB 2017/18|ACB]] || | 6 || <small>6</small> || <small>19-15</small> || <center><small>1-2</small> || QF || | || <small>2</small> || EuroCup || | {{abr|Primera fase de grups|Eliminat en la primera fase de grups formada per 24 equips}} || bgcolor="silver" | F ||
+|}
+* Els descensos la temporada 1996-97 són per motius extraesportius.
+* La temporada 1988-89 es canvia el nom de la categoria.
+* La temporada 2000-01 es crea la categoria LEB Plata
+* Durant les temporades 2007-08 i 2008-2009 existia la categoria LEB Bronze, que suposava la quarta categoria del bàsquet espanyol.
+* A principis dels 80 la Primera Catalana també se la coneixia com a Tercera divisió, pot portar a confusions els noms de les categories.
+</div>
+
+== Referències ==
+{{referències}}
+
+== Enllaços externs ==
+* {{Oficial}}
+
+{{ACB}}
+{{Equips de bàsquet dels Països Catalans}}
+
+{{ORDENA:Basquet Club Andorra}}
+[[Categoria:Clubs de bàsquet europeus]]
+[[Categoria:Clubs esportius d'Andorra la Vella]]
+[[Categoria:Equips de l'ACB]]

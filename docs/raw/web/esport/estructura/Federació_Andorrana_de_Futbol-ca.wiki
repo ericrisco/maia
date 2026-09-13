@@ -1,0 +1,40 @@
+{{Infotaula organització
+| logo = Andorrana Futbol.png
+}}
+El futbol andorrà és dirigit per la '''Federació Andorrana de Futbol'''. La Federació Andorrana de Futbol fou reconeguda per la [[FIFA]] i la UEFA el [[1996]].<ref>{{Ref-web|títol=Asociación miembro - Andorra - FIFA.com|url= https://es.fifa.com/associations/association/and/| consulta=2019-05-07|llengua= castellà|cognom=FIFA.com|arxiuurl= https://web.archive.org/web/20190507085238/https://es.fifa.com/associations/association/and/|arxiudata=2019-05-07}}</ref> És l'encarregada d'organitzar la lliga i la copa andorranes de futbol, i la selecció andorrana. Té la seu a [[Escaldes-Engordany]].
+
+== Història ==
+=== Primers anys ===
+Abans de 1995, els millors clubs del principat jugaven a la lliga espanyola, però la creació de la federació el 1994 va fer que es creés una competició nacional a més de la Copa de la Constitució, que ja existia des de feia tres temporades. Tot i això, el [[Futbol Club Andorra|FC Andorra]], que era el club més famós del principat, es va negar a participar en aquest campionat i va continuar jugant a la lliga ibèrica.<ref>{{Ref-web|títol=Institució|url= https://www.faf.ad/pnfg/NNws_ShwNewDup?codigo=1003680&cod_primaria=3000301&cod_secundaria=3000301| consulta=2022-08-21}}</ref>
+
+Durant les quatre primeres temporades, el format de la competició era un campionat clàssic amb deu a dotze equips segons la temporada. El [[Futbol Club Encamp|FC Encamp]] va ser el primer campió de la història d'Andorra i va seguir-lo un període de domini del [[Club Esportiu Principat|CE Principat]], el qual va ser tres vegades campió entre 1996 i 1999.
+
+Va ser també durant aquest període quan la [[Unió d'Associacions Europees de Futbol|UEFA]] va incloure per primera vegada un club andorrà a les competicions europees ([[Copa de la UEFA 1997-1998]]).
+
+=== Anys 2000 ===
+El 1999, la federació va decidir canviar el format de la competició a causa de la inestabilitat d'alguns clubs. El [[Constel·lació Esportiva]] va ser el primer campió d'aquesta nova fórmula, però va ser exclòs de totes les competicions nacionals durant set anys després d'un cas de redistribució dels diners rebuts per la seva participació a la Copa de la UEFA.<ref>{{Ref-web|títol=El Constel·lació de Andorra desapareció después de jugar contra el Rayo Vallecano|url= https://www.unionrayo.es/historia-constel-lacio-andorra-rayo-vallecano-europa/|data=2021-01-12| consulta=2022-08-21|llengua= castellà|nom=Redacción Unión|cognom=Rayo}}</ref>
+
+La temporada següent, per tal d'augmentar el nombre de partits disputats a la temporada, la federació va decidir dividir el campionat en dues fases, i és aquesta nova fórmula la que s'ha mantingut fins avui.
+
+Durant les darreres vuit temporades, hi ha hagut poc espai per a la competència, ja que la [[Unió Esportiva Sant Julià|UE Sant Julià]] i el [[Futbol Club Santa Coloma|FC Santa Coloma]] han dominat la competició (6 títols de 9 entre tots dos). Només el FC Encamp el 2002 i el [[Futbol Club Rànger's|FC Ranger's]] el 2006 i el 2007 han aconseguit superar-los però no han durat, descendint el primer el 2005 i el segon el 2009.
+
+A nivell europeu, els clubs andorrans han aconseguit fer-se un petit buit, així des de 2001 se'ls va concedir una plaça a la [[Copa Intertoto de la UEFA|Copa Intertoto]] a més de la ja adquirida a la Copa de la UEFA, posteriorment durant la temporada 2006-2007, la UEFA va concedir una tercera plaça a la Copa d'Europa a la federació andorrana permetent al campió participar en la fase prèvia de la [[Lliga de Campions de la UEFA|Lliga de Campions]] i al guanyador de la Copa de la Constitució recuperar la plaça a la [[Lliga Europa de la UEFA|Lliga Europa]].
+
+== Vegeu també ==
+* [[El futbol a Andorra]]
+* [[Selecció de futbol d'Andorra]]
+* [[Llista de clubs de futbol d'Andorra]]
+
+== Referències ==
+{{referències}}
+
+== Enllaços externs ==
+* {{Oficial}} {{ca}} {{en}}
+
+{{Federacions de la UEFA}}
+{{Autoritat}}
+
+{{ORDENA:Federacio Andorrana De Futbol}}
+[[Categoria:Federacions futbolístiques d'Europa|Andorra]]
+[[Categoria:Futbol a Andorra]]
+[[Categoria:Organitzacions esportives d'Andorra]]

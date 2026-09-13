@@ -26,6 +26,11 @@ mirés els Jocs, no en tindria cap.**
 | **[Raül García Paolicchi](./raul-garcia-paolicchi.md)** | **Escacs** | **Medalla d'OR individual a l'Olimpíada d'Escacs del 1990** — **setze anys abans que Oms.** Mestre FIDE (1993), dues vegades campió d'Andorra |
 | **[Josep Oms](./josep-oms.md)** | **Escacs** | **Medalla d'OR individual a l'Olimpíada d'Escacs del 2006 jugant per Andorra** |
 | [Èric Cervós](./eric-cervos.md) | **Tennis** | **Jugador de Copa Davis per Andorra** (7-21) i dels Jocs dels Petits Estats 2017 |
+| **[Laurent Recouderc](./laurent-recouderc.md)** | **Tennis** | **OR per Andorra als Jocs dels Petits Estats del 2015.** Número **124 del món**; va batre **Querrey** a Roland Garros i va perdre contra **Djokovic** |
+| [Jordi Trilla](./jordi-trilla.md) | Tennis | Nascut el 2004; a l'equip de Copa Davis del 2022 com a júnior |
+| **[David Norwood](./david-norwood.md)** | **Escacs** | **Gran Mestre des del 1989**; representa Andorra des del 2011. **Cofundador d'un fons d'inversió de 1.200 milions de lliures** |
+| **[El BC Andorra](./bc-andorra.md)** | **Bàsquet** | **Fundat el 1970, a l'ACB des del 2014.** Inscrit a la **federació catalana**, com el FC Andorra |
+| **[El Palau de Gel](./el-palau-de-gel.md)** | **Hoquei gel** | **Un milió d'euros l'any del Comú de Canillo fins al 2011.** Hi juga la selecció |
 | [Lance Henderson de La Fuente](./lance-henderson.md) | Escacs | Gran Mestre; **el jugador amb més elo d'Andorra**; campió de les Petites Nacions Europees 2022 |
 | [Xavier Cardelús](./xavier-cardelus.md) | **Motociclisme** | Mundial de Supersport; fill d'un altre pilot |
 | [Cyril Despres](./cyril-despres.md) | **Motor** | **Cinc Dakars** — **resident a Andorra, però competint per França** |

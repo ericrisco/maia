@@ -1,0 +1,27 @@
+{{Infotaula edifici
+|nom = Palau de Gel d'Andorra
+|pais = Catalunya
+|}}
+El '''Palau de Gel d'Andorra''' és un centre lúdic i esportiu situat a la carretera general de la localitat de [[Canillo]], [[Andorra]]. A més de l'activitat de [[patinatge sobre gel]], s'hi realitzen cursos, sessions nocturnes amb música i kàrting sobre gel.<ref>{{ref-web |url= http://www.canillo.ad/04_Entorn/p_entorn_palau/_q0Cylnb23Rc2x3M_wZCwCXb4yVWWbTBa |títol= Palau de Gel d'Andorra |editor= Canillo.ad |consulta= 14/2/2014 |arxiuurl= https://web.archive.org/web/20171010024943/http://www.canillo.ad/04_Entorn/p_entorn_palau/_q0Cylnb23Rc2x3M_wZCwCXb4yVWWbTBa |arxiudata= 2017-10-10}}</ref>
+
+== Instal·lacions i activitats<ref>{{ref-web |url= http://www.andorra.ad/ca-es/recursos/pagines/palau_de_gel.aspx |títol= Palau de Gel d'Andorra |editor= Andorra.ad |consulta= 25/2/2012 |arxiuurl= https://web.archive.org/web/20130401064400/http://www.andorra.ad/ca-ES/recursos/Pagines/Palau_de_Gel.aspx |arxiudata= 2013-04-01}}</ref> ==
+* Piscina climatitzada
+* Espai fitness amb gimnàs, sauna, mur d'escalada i Raïm
+* Espai empresa amb auditori, sales de reunions i menjars
+* Espai infantil
+* Botigues i Restaurants
+
+Fins a l'any 2011 el [[Comú de Canillo]] destinava un milió d'euros a la instal·lació, l'últim any s'ha reduït als set-cents mil euros arran de l'externalització del gimnàs i restaurant.<ref>{{ref-web |url= http://forum.ad/2011/12/16/el-comu-de-canillo-podra-reduir-laportacio-al-palau-de-gel-en-400-000-euros/ |títol= El Comú de Canillo podrà reduir l'aportació al Palau de Gel en 400.000 euros |editor= Fòrum.ad |data= 16 de desembre de 2011 |consulta= 25/2/2012 |arxiuurl= https://web.archive.org/web/20160304054316/http://forum.ad/2011/12/16/el-comu-de-canillo-podra-reduir-laportacio-al-palau-de-gel-en-400-000-euros/ |arxiudata= 2016-03-04}}</ref> Al Nadal del 2011 va augmentar un 20% els usuaris respecte a l'any anterior.<ref>{{ref-web |url= http://www.diariandorra.ad/index.php?option=com_k2&view=item&id=17472 |títol= El Palau de Gel incrementa un 20% els usuaris durant les vacances de Nadal |editor= Diari d'Andorra |data= 9 de gener de 2012 |consulta= 25/2/2012 |arxiuurl= https://web.archive.org/web/20211129110929/https://www.diariandorra.ad/index.php?option=com_k2&view=item&id=17472 |arxiudata= 2021-11-29 }}</ref>
+
+== Referències ==
+{{Referències}}
+
+== Enllaços externs ==
+* {{Oficial}} {{es}} {{fr}} {{en}}
+
+{{esborrany d'estadi}}
+
+{{ORDENA:Palau De Gel D'Andorra}}
+[[Categoria:Edificis de Canillo]]
+[[Categoria:Pavellons esportius]]
+[[Categoria:Pistes de gel]]
