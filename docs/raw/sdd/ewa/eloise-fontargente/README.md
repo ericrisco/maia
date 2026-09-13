@@ -897,6 +897,15 @@ revistes](https://ffs.fr/nos-revues/); Gallica, anuaris
 [1972-1973](https://gallica.bnf.fr/ark:/12148/bd6t5352829x) i
 [1973-1974](https://gallica.bnf.fr/ark:/12148/bd6t5352828j).
 
+Una segona via per resoldre la filiació ha quedat localitzada però no llegida.
+El núm. 19 de **GenAmi** distingeix explícitament la família Dreyfus que estudia
+dels Dreyfus-Schmidt originaris de Pfastatt i anuncia que en parlarà al número
+següent. El sumari del núm. 20 (juny de 2002) situa «Une histoire des Juifs de
+Belfort, 2e partie», de Laurence Tourot, a les p. 2-7. El PDF públic és només
+un teaser d'una pàgina: no conté l'article ni cap filiació i no s'ha tractat
+com si fos el butlletí complet. [Catàleg de números](https://www.genami.org/pour-tous/titres_fr.php);
+[portada del núm. 20](https://www.genami.org/documents/bulletin/bulletin_20.pdf).
+
 El mateix fons conserva a `22 Z 11` sol·licituds d'adhesió, butlletins i
 llicències FFS de 1950–1970, la millor comprovació nominal de la seva condició
 federativa. A més, `3 K 60` documenta amb llistes de convidats, programes,
