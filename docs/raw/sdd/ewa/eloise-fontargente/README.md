@@ -872,6 +872,16 @@ assemblees del Comité régional des Vosges de la FFS i de la secció de rugbi d
 la USB. L'expedient creua les dues xarxes esportives de Jacques, però la notice
 no en prova l'assistència.
 
+Una crònica documentada del *Cartophilion* reconstrueix el pas de la flama
+olímpica de Grenoble pel Ballon d'Alsace el **25/12/1967**. La Société de ski
+participà en els relleus i fou representada a la cerimònia del Plain de la
+Gentiane pel vicepresident, citat només com **M. Nitzer**, al costat del
+vicepresident de la FFS Charles Garot i altres responsables. Jacques no hi és
+anomenat i la peça no diu qui presidia el club: no permet datar encara el seu
+mandat ni convertir Nitzer en predecessor. La pàgina i una fotografia de
+premsa s'han preservat; el peu només identifica Max Vidot i no s'ha intentat
+un reconeixement facial.
+
 La segona sigla del currículum, «Ancien Président de l'U.S.B.», també es pot
 resoldre: era la **Union Sportive Belfortaine**, club poliesportiu laic fusionat
 el 1971 amb l'Association Sportive Patronale per formar l'ASMB. El catàleg
