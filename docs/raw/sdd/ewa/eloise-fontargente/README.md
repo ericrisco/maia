@@ -1415,10 +1415,26 @@ i primes; el d'octubre diu que, després d'un primer balanç, es preparava un
 no que sigui la sortida jurídica de la vaga de 2018 ni que el segon arribés a
 funcionar.
 
-Tres informes oficials Géorisques permeten seguir ara el risc industrial sense
-dependre de les declaracions de premsa. El 2023 la inspecció registrà problemes
-de legionel·la a la torre JACIR des de 2021, amb resultats de 1.800 a 14.000
-UFC/L, i exigí revisar l'AMR. El 09/07/2024 una anàlisi intermèdia arribà a unes
+La sèrie oficial comença abans de les inspeccions recents. El 09/03/2010 un
+decret imposà sis mostres mensuals de 24 hores sobre deu substàncies en aigües
+residuals, des dels nonilfenols fins al zinc. Després de l'informe SGS Multilab
+de 2011 —citat però no reproduït—, el decret del 12/11/2013 concentrà la
+vigilància trimestral permanent en nonilfenols, coure i zinc. La font diu que
+foren `identificats`; no publica concentracions ni permet afirmar superacions.
+
+L'autorització del 07/01/2015 refongué el règim de la fàbrica amb la plataforma
+d'emmagatzematge: 290 t/dia entrants, 32.600 m³ de magatzem, 71.000 m³/any
+d'aigua municipal, depuració amb basses de 690 i 1.200 m³, dues vies d'abocament
+de 300 m³/dia i objectiu de legionel·la inferior a 1.000 UFC/L. Abrogà els
+actes de 2003, 2006 i 2008, no expressament els de 2010 i 2013. A més, la seva
+pàgina 14 sembla limitar al 50 % anual la via comunal, mentre l'informe de maig
+de 2025 aplica el 50 % al medi natural. La contradicció resta oberta fins a
+localitzar una modificació intermèdia o la convenció d'abocament vigent.
+
+Tres informes oficials Géorisques permeten seguir després el risc industrial
+sense dependre de les declaracions de premsa. El 2023 la inspecció registrà
+problemes de legionel·la a la torre JACIR des de 2021, amb resultats de 1.800 a
+14.000 UFC/L, i exigí revisar l'AMR. El 09/07/2024 una anàlisi intermèdia arribà a unes
 **450.000 UFC/L** i Delvert aturà immediatament la dispersió. L'ARS comparà al
 CNR-L mostres de dos pacients hospitalitzats amb la de la fàbrica i el
 18/09/2024 exclogué el vincle causal perquè les soques genòmiques eren
@@ -1445,7 +1461,8 @@ t/dia del decret de 2003, de perímetre i nomenclatura diferents.
 Finalment, l'arrêté del 30/06/2026 imposa quatre campanyes en dotze mesos sobre
 fangs destinats a valorització agrícola, amb 52 PFAS i llindars de resposta.
 És una obligació de vigilància, **no un resultat positiu**: no prova presència de
-PFAS a Delvert. Els PDF, textos, OCR i renders de control es conserven sota
+PFAS a Delvert. Els decrets de 2010–2015, les 52 pàgines renderitzades, l'OCR
+íntegre, els informes recents i l'anàlisi crítica es conserven sota
 `delvert-georisques-inspections/`, sempre dins `maia/docs/raw`.
 
 La mateixa peça diu que el producte inicial de 1934 foren confitures, mentre
