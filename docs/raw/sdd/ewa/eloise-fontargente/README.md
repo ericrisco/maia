@@ -1296,12 +1296,17 @@ producte. Això demostra destil·lació organitzada a Martel des de 1926 i oblig
 llegir el pioner cadurcien de 1929 de Lacaze com un altre focus o canvi
 d'escala, no com l'inici absolut al Lot.
 
-El taller era a casa de Delanis, que el 1932 apareix també com a operador de
-conserves, tòfona, nou i lavanda. Delvert compartí amb ell el premi de lavanda
-de 1928; una publicitat reproduïda per Quercy PPAM diu «Lavande du Quercy — la
-reine des lavandes — Léo Delvert à Martel», però no porta data ni procedència
-arxivística. No s'ha convertit el possible Léopold Delvert de Cazillac en Léo,
-ni s'ha unit aquest nom a la conserverie familiar, sense una baula nominal.
+El taller era a casa d'**Émile Delanis**, negociant a Martel ja el 1924, adjunt
+municipal des de 1929 i fabricant de conserves a Cahors i Martel elegit al
+tribunal de commerce el 1937. La seva maison Cornil-Delanis obrí el 1935 una
+fàbrica a la rue de la Brasserie de Cahors i distribuïa llavor de pèsol als
+agricultors: un model de subministrament i transformació que ajuda a explicar
+la seva capacitat industrial, sense provar un contracte equivalent per a la
+lavanda. Delvert compartí amb ell el premi de 1928; una publicitat reproduïda
+per Quercy PPAM diu «Lavande du Quercy — la reine des lavandes — Léo Delvert
+à Martel», però no porta data ni procedència arxivística. No s'ha convertit el
+possible Léopold Delvert de Cazillac en Léo, ni s'ha unit aquest nom a la
+conserverie familiar, sense una baula nominal.
 
 La logística sindical també queda més definida. El local cadurcien de 1936 no
 podia emmagatzemar més de 150 kg de flor fresca al dia: era un límit d'espai,
