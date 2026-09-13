@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**631** documents · **124** fonts · **0** aptes com a model de llengua · **114** temes amb contingut.
+**635** documents · **124** fonts · **0** aptes com a model de llengua · **115** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -463,6 +463,15 @@
 | [Xavier Soria](temes/esports/futbol/xavier-soria.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Xavier Vieira i de Vasconcelos](temes/esports/futbol/xavier-vieira.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Francisco Manuel «Xisco» Pires i Costa](temes/esports/futbol/xisco-pires.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+
+## temes/esports/futbol/clubs-i-competicions
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [El FC Andorra](temes/esports/futbol/clubs-i-competicions/fc-andorra.md) | `temes/esports/futbol/clubs-i-competicions` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [La Copa Constitució](temes/esports/futbol/clubs-i-competicions/la-copa.md) | `temes/esports/futbol/clubs-i-competicions` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [La Federació Andorrana de Futbol](temes/esports/futbol/clubs-i-competicions/la-federacio.md) | `temes/esports/futbol/clubs-i-competicions` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [La lliga que es juga en camps de la federació — i un a Espanya](temes/esports/futbol/clubs-i-competicions/la-lliga.md) | `temes/esports/futbol/clubs-i-competicions` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 
 ## temes/esports/futbol/femeni
 

@@ -43,6 +43,7 @@ l'escola.**
 | **[Futbol](./futbol/README.md)** | **97 fitxes** i la selecció sencera: 224 partits, 14 victòries. **Tots els internacionals masculins documentats, sense excepció** |
 | **[Futbol femení](./futbol/femeni/README.md)** | **41 fitxes** i la selecció: **47 partits, 12 victòries.** **La selecció andorrana que guanya més** |
 | **[Altres esports](./altres-esports/README.md)** | **24 fitxes**: tennis, escacs, motor, bàsquet, taekwondo, gimnàstica, patinatge, salt d'esquí — **on hi ha les fites que no surten a cap medaller** |
+| **[Clubs i competicions](./futbol/clubs-i-competicions/README.md)** | **4 fitxes**: la lliga, la copa, el FC Andorra i la federació — **l'estructura que explica la resta** |
 | [La competició](./competicio/README.md) | 5 fitxes: els Jocs, els abanderats, la llei de l'esport |
 
 **Dues-centes trenta fitxes de persones i competicions**, escrites entre el
@@ -69,8 +70,9 @@ Gairebé tot. El corpus **no té res** sobre:
   fitxa»*. **Ara hi ha [138 fitxes de futbol](./futbol/README.md)**, la de
   [Sonejee](./futbol/oscar-sonejee.md) inclosa. **El que segueix obert és
   l'estructura**: la Primera Divisió, la Copa Constitució, el FC Andorra i la
-  Federació Andorrana de Futbol **no tenen cap fitxa**, tot i que **el corpus
-  ja n'ha baixat el material** ([material en brut](../../raw/web/esport/estructura/README.md)).
+  Federació Andorrana de Futbol **ja tenen fitxa** des del mateix dia:
+  [clubs i competicions](./futbol/clubs-i-competicions/README.md). **El que
+  segueix obert són els clubs un per un.**
 - El **Palau de Gel d'Andorra**, a Canillo, on van a patinar els escolars.
 - El **lèxic de la neu i de la muntanya**, que és el que més valdria per a la
   fase 3 i no està recollit enlloc.

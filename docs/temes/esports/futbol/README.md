@@ -189,8 +189,15 @@ casos l'andorrana és la mare.** Vegeu
 ## El que falta
 
 - **Les tretze victòries que el corpus no coneix.**
-- **La Primera Divisió andorrana**, el **FC Andorra** i la **Federació Andorrana
-  de Futbol**: cap fitxa de cap.
+- ~~**La Primera Divisió andorrana**, el **FC Andorra** i la **Federació
+  Andorrana de Futbol**: cap fitxa de cap.~~ — **tancat el 2026-09-13** amb
+  [clubs i competicions](./clubs-i-competicions/README.md). **El que hi ha trobat
+  explica la resta de la branca**: **tots els equips de la lliga juguen als
+  camps de la federació**, **un dels sis camps és a Espanya i és el més gran**,
+  **el club més important del país no ha jugat mai la lliga del país**, i **la
+  federació és alhora organitzadora, propietària dels camps, titular de les dues
+  seleccions i propietària d'un club.** **El que segueix obert són els clubs un
+  per un**, la Segona Divisió, la Supercopa i el futbol sala.
 - ~~**La selecció femenina**: existeix i el corpus no en té ni un nom.~~ —
   **tancat el 2026-09-13** amb [la subbranca de futbol femení](./femeni/README.md):
   **trenta-vuit jugadores i la fitxa de la selecció**. **I el que hi ha trobat
@@ -208,4 +215,5 @@ casos l'andorrana és la mare.** Vegeu
 - [Esports](../README.md)
 - [La selecció](./la-seleccio.md)
 - **[Futbol femení](./femeni/README.md)**
+- **[Clubs i competicions](./clubs-i-competicions/README.md)**
 - [Altres esports](../altres-esports/README.md)
