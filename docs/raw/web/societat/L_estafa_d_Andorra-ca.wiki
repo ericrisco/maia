@@ -1,0 +1,54 @@
+{{Infotaula pel·lícula}}
+'''''L'estafa d'Andorra''''' és un [[documental]], que repassa els episodis de corrupció que s'han produït al [[Andorra|principat]] i que n'han malmès la imatge, en el qual destaca el cas de la [[Banca Privada d'Andorra]] (BPA) i la manera com va afectar l'[[operació Catalunya]], l'episodi de guerra bruta del [[Regne d'Espanya]] contra [[Catalunya]] durant el [[procés independentista català]].<ref name="VW28">{{Ref-web|títol='L'estafa d'Andorra', el documentari que retrata la guerra bruta d'Espanya contra Catalunya|url=https://www.vilaweb.cat/noticies/documental-estafa-andorra-operacio-catalunya/|data=2020-08-28|consulta=2020-08-28|editor=Vilaweb}}</ref>
+
+== L'agitada sortida del documental ==
+El documental es va produir entre el mes de març de 2019 i l'agost de 2020 i va ser estrenat el dijous [[27 d'agost]] de [[2020]] a través de la plataforma [[Amazon Prime]]. El seu director, el realitzador nord-americà [[Eric Merola]], va denunciar ja dissabte 29 que el seu treball havia desaparegut del servei de recerca de la plataforma, on s'hi podia seguir accedint si ja se'n disposava de l'enllaç.<ref name="Valira">{{ref-notícia |títol=El director del documental “L'estafa d'Andorra” denuncia la censura d'Amazon |publicació=[[La Valira]] |url=https://lavalira.eu/el-director-del-documental-lestafa-dandorra-denuncia-la-censura-damazon/ |consulta=30 agost 2020 |data=29 agost 2020}}</ref>
+
+El documental circulava feia temps per les xarxes i havia estat polèmic a Andorra.<ref name="VW28"/> Coincidint amb la seva estrena, algun mitjà el va titllar de "Documental de part" que no aportava cap testimoni dels contraris a la teoria conspiratòria.<ref name="DA29">{{ref-notícia |cognom=Castillo |nom=Gerard del |títol=Documental de part |publicació=[[Diari d'Andorra]] |url=https://www.diariandorra.ad/noticies/nacional/2020/08/29/documental_part_165996_1125.html |consulta=30 agost 2020 |data=29 agost 2020}}</ref> Davant el que considerava una greu vulneració, per part d'Amazon Prime Video, de la bona fe contractual, el director nord-americà va decidir pujar el documental a YouTube, on es pot visualitzar. Per la seva banda, Diari d'Andorra informava que també se n'havia restringit la visualització des del Principat, on ja no era accessible dins l'aplicació mòbil d'Amazon Prime Video.<ref name="Valira"/> Efectivament, la notícia apareixia en l'edició de l'endemà del Diari, fent esment a dubtes per la barreja del cas BPA, sense motiu aparent, amb el moviment independentista català.<ref name="DA30">{{ref-notícia |títol=Restringit el visionat de 'The Andorra Hustle' a Amazon Prime |publicació=[[Diari d'Andorra]] |url=https://www.diariandorra.ad/noticies/nacional/2020/08/30/restringit_visionat_the_andorra_hustle_amazon_prime_166040_1125.html |consulta=30 agost 2020 |data=30 agost 2020}}</ref>{{efn|Algunes gravacions que reprodueix el documental deixen clar perquè es relacionen ambdues coses. El Diari d'Andorra també hi surt, amb un enfocament no particularment favorable.}} &nbsp;
+
+== Entrevistes ==
+* Isabel Sarmiento: ex-cap de compliment de BPA.
+* Joan Cejudo: ex-director general adjunt d'operacions corporatives de BPA.
+* Santi Rosselló: ex-director d'operacions internacionals de BPA.
+* Josep Antoni Silvestre: advocat, Silvestre Advocats.
+* [[Gonzalo Boye Tuset|Gonzalo Boye]]: advocat de drets humans i membre del Centre Europeu pels Drets Constitucionals i Humans.
+* [[Artur Mas i Gavarró|Artus Mas]]: ex-president de Catalunya.
+* [[Carles Puigdemont i Casamajó|Carles Puigdemont]]: ex-president de Catalunya.
+* Pablo Laplana: ex-director general adjunt de negocis internacionals de BPA.
+* Miguel Sebastia: ex-director executiu del Consell de la Cambra de Comerç Espanya-EUA.
+* Ares Rosselló: filla de Santi Rosselló.
+* [[Jaume Reixach i Riba|Jaume Reixach]]: periodista de El Triangle i La Valira.
+* Eric Lewis: advocat, Lewis, Baach, Kaufmann, Middlemiss.
+* [[Carlos Quílez]]: periodista de Global Chronicle i El Taquígrafo.
+* Anna Solé: advocada, S&M Advocats.
+* Gema Martinez: advocada, S&M Advocats.
+* Jordi Segura Cobo: advocat, Despatx Segura Advocats.
+* Ferran Sicart: economista i fundador de Tracis.
+* Claudia: resident catalana de Barcelona.
+* Alfons Clavera: advocat de drets humans, Bufet Clavera.
+* Elisa Muxella: directora de l'Institut de Drets Humans d'Andorra.
+
+== Notes ==
+{{Notes}}
+
+== Referències ==
+{{Referències}}
+
+== Vegeu també ==
+* [[Operació Catalunya]]
+* [[Procés independentista català]]
+* [[La Qüestió d'Andorra]]
+
+== Enllaços externs ==
+* [https://www.andorrahustle.com/ L'estafa d'Andorra]
+* {{youtube|v=Y4Fs0h9PVVs|L'estafa d'Andorra}}
+
+{{Autoritat}}
+
+{{ORDENA:L estafa d Andorra}}
+[[Categoria:Pel·lícules dels Estats Units del 2020]]
+[[Categoria:Documentals en anglès]]
+[[Categoria:Bancs d'Andorra]]
+[[Categoria:Política d'Andorra]]
+[[Categoria:Documentals en català]]
+[[Categoria:Pel·lícules en anglès del 2020]]

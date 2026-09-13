@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**696** documents · **143** fonts · **0** aptes com a model de llengua · **120** temes amb contingut.
+**698** documents · **145** fonts · **0** aptes com a model de llengua · **120** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -1040,6 +1040,7 @@
 | [El sufragi femení](temes/societat/dones/el-sufragi-femeni.md) | `temes/societat/dones` | compilada | contemporania | no | `consell-general-web` |
 | [La llei d'igualtat](temes/societat/dones/la-llei-digualtat.md) | `temes/societat/dones` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Les primeres becàries](temes/societat/dones/les-primeres-becaries.md) | `temes/societat/dones` | compilada | contemporania | no | `toquec-ensenyament-frances` |
+| [Vanessa Mendoza Cortés](temes/societat/dones/vanessa-mendoza-cortes.md) | `temes/societat/dones` | compilada | contemporania | no | `wikipedia-vanessa-mendoza` |
 
 ## temes/societat/educacio
 
@@ -1142,6 +1143,7 @@
 | [El dret de vaga](temes/societat/treball/el-dret-de-vaga.md) | `temes/societat/treball` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El preu de l'acomiadament](temes/societat/treball/el-preu-de-lacomiadament.md) | `temes/societat/treball` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El sindicalisme](temes/societat/treball/el-sindicalisme.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
+| [El Sindicat Andorrà de Treballadors](temes/societat/treball/el-sindicat-andorra-de-treballadors.md) | `temes/societat/treball` | compilada | contemporania | no | `wikipedia-sat-andorra` |
 | [La memòria de FHASA](temes/societat/treball/la-memoria-de-fhasa.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
 | [L'acomiadament lliure](temes/societat/treball/lacomiadament-lliure.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
 | [L'ARA i el SAT](temes/societat/treball/lara-i-el-sat.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
@@ -1446,4 +1448,6 @@
 | [`wikipedia-politica-andorra`](fonts/wikipedia-politica-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-referendums-andorra`](fonts/wikipedia-referendums-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-religio-andorra`](fonts/wikipedia-religio-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-sat-andorra`](fonts/wikipedia-sat-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-transicio-nacional`](fonts/wikipedia-transicio-nacional.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-vanessa-mendoza`](fonts/wikipedia-vanessa-mendoza.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
