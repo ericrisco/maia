@@ -67,3 +67,5 @@ no existeixi, és informació que existeix i encara no s'ha anat a buscar.
 - [L'Institut d'Estudis Andorrans](./linstitut-destudis-andorrans.md) — qui encarrega i publica la recerca del país.
 - [La Societat Andorrana de Ciències](./la-societat-andorrana-de-ciencies.md) — qui convoca els andorrans a explicar-se.
 - [La Inquisició a Andorra](../../costums/religiositat/la-inquisicio-a-andorra.md) — sínodes, visites pastorals i llibres parroquials: tres sèries documentals localitzades.
+- [El dret de tempteig](./el-dret-de-tempteig.md) — què passa quan es ven un bé d'interès cultural.
+- [El dipòsit legal](./el-diposit-legal.md) — què s'ha de dipositar, i fins on arriba al web.

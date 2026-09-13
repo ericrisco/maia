@@ -49,3 +49,7 @@ primària no consultada. **Buit registrat.**
 
 - [Comerç](../comerc/comerc.md) — el que finança.
 - [Transformació econòmica](../transformacio-economica/transformacio-economica.md) — la successió de models.
+- [Els tipus impositius](./els-tipus-impositius.md) — els tipus vigents, i el 9,5% que només paga la banca.
+- [Els altres impostos](./els-altres-impostos.md) — taxa turística, immobles i els impostos que no se citen mai.
+- [La supervisió financera](./la-supervisio-financera.md) — l'AFA, i la garantia de dipòsits.
+- [Blanqueig i actius digitals](./blanqueig-i-actius-digitals.md) — qui és subjecte obligat, i la moneda digital sobirana.

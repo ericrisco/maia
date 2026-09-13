@@ -96,3 +96,5 @@ que el nom mateix de la llei reconeix.
 - [Nacionalitat i residència](../../institucions/nacionalitat-i-residencia/nacionalitat-i-residencia.md)
 - [Transformació econòmica](../../economia/transformacio-economica/transformacio-economica.md)
 - [Immigració](../immigracio/immigracio.md)
+- [Llogar un pis](./llogar-un-pis.md) — què diu la llei d'un contracte de lloguer avui.
+- [Els habitatges buits](./els-habitatges-buits.md) — què pot fer l'Estat amb un pis buit.

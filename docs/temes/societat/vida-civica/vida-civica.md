@@ -78,3 +78,7 @@ andorrana. **I el corpus gairebé no en sap res.**
 - [Associacionisme](../associacionisme/associacionisme.md)
 - [Democratització](../../historia/democratitzacio/democratitzacio.md)
 - [Quarts i veïnats](../../institucions/quarts-i-veinats/quarts-i-veinats.md)
+- [Sortir al carrer](./sortir-al-carrer.md) — reunió i manifestació: què cal avisar i què no.
+- [Arribar a tot arreu](./arribar-a-tot-arreu.md) — accessibilitat universal, i el preu de reclamar-la.
+- [Com es compten els vots](../../politica/sistema-electoral/com-es-compten-els-vots.md) — el sistema electoral, explicat.
+- [Qui paga un partit](../../politica/partits/qui-paga-un-partit.md) — d'on poden venir els diners d'un partit.

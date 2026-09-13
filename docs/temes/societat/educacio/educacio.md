@@ -91,3 +91,4 @@ premsa i s'haurien de reverificar.
 - [L'ensenyament confessional](./lensenyament-confessional.md) — des del 1882, la sèrie més antiga.
 - [Índex legislatiu en educació](./index-legislatiu-en-educacio.md) — 48 normes amb BOPA i data.
 - [Cap on mirava Andorra](../../historia/segle-xix/cap-on-mirava-andorra.md) — qui va obtenir les escoles franceses, i a quines parròquies.
+- [L'AQUA](./laqua.md) — qui acredita la qualitat de l'ensenyament superior des del 2025.

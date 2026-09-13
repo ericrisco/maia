@@ -177,3 +177,5 @@ comprova**. Aquest corpus les marca sempre.
 - [El Coprincipat](../../institucions/coprincipat/el-coprincipat.md) — qui inaugura l'hospital.
 - [L'Escola d'Infermeria](./lescola-dinfermeria.md) — qui hi havia de treballar, i d'on venia.
 - [La reacreditació dels metges](./la-reacreditacio-dels-metges.md) — el reglament de l'hospital, el 2000.
+- [La via preferent](./la-via-preferent.md) — com es paga avui segons per on s'hi entra.
+- [Donar i ser atès](./donar-i-ser-ates.md) — donació d'òrgans i serveis socials.

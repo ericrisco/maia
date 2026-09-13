@@ -105,3 +105,5 @@ més grans».
 - [Geografia física](../geografia-fisica/geografia-fisica.md)
 - [Glossari de mots documentats](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) — els noms populars.
 - [L'Institut d'Estudis Andorrans](../../cultura/museus-i-arxius/linstitut-destudis-andorrans.md) — el Centre de Biodiversitat i els seus vuit inventaris.
+- [Caçar i pescar](./cacar-i-pescar.md) — les dues lleis, i la federació que fa de porta.
+- [La tinença d'animals](./la-tinenca-danimals.md) — què prohibeix la llei pel seu nom.

@@ -76,3 +76,4 @@ la fase 3. **Buit registrat.**
 - [El tabac](../tabac/tabac.md) — l'altre pilar.
 - [Quarts i veïnats](../../institucions/quarts-i-veinats/quarts-i-veinats.md) — qui gestionava els comunals.
 - [Paisatge construït](../../territori/paisatge-construit/paisatge-construit.md) — bordes i cortals al territori.
+- [La Comissió dels pagesos](./la-comissio-dels-pagesos.md) — la llei de 2022 i l'òrgan on seuen els set cònsols.

@@ -50,10 +50,23 @@ Les dues paraules existeixen als dos llocs i volen dir coses creuades.
 ## El que falta
 
 El Consell Superior de la Justícia publica el seu propi portal i és font
-primària: no s'ha consultat directament. Falten també el Tribunal Constitucional,
-el ministeri fiscal i el procediment. **Buit registrat.**
+primària: no s'ha consultat directament. **Buit registrat.**
+
+**Actualització.** Aquest apartat declarava com a buits el **Tribunal
+Constitucional** i **el procediment**: tots dos s'han escrit des del text
+consolidat de les lleis (vegeu Related). El que **continua sent buit** és el
+**ministeri fiscal** —cap article del corpus l'explica— i el portal del Consell
+Superior de la Justícia, que segueix sense consultar.
 
 ## Related
 
 - [Lèxic andorrà](../../llengua/lexic-andorra/lexic-andorra.md) — els falsos amics, inventariats.
 - [El Consell General](../consell-general/el-consell-general.md) — on viu l'altre *síndic*.
+- [Qui nomena els jutges](./qui-nomena-els-jutges.md) — el Consell Superior, i els magistrats estrangers que la transitòria del 1993 encara permet.
+- [El Tribunal Constitucional](./el-tribunal-constitucional.md) — quatre magistrats i un desempat que fa el ponent.
+- [El procés penal](./el-proces-penal.md) — qui instrueix i qui jutja.
+- [Les penes del Codi Penal](./les-penes-del-codi-penal.md) — l'escala, i el sostre de trenta anys.
+- [La llei penitenciària](./la-llei-penitenciaria.md) — què passa després de la condemna.
+- [Tretze dies](./tretze-dies.md) — el termini del procés civil andorrà.
+- [Resoldre sense judici](./resoldre-sense-judici.md) — mediació, arbitratge i taxes.
+- [L'execució forçosa](./lexecucio-forcosa.md) — el saig, avui.

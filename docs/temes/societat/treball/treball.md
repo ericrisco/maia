@@ -45,3 +45,7 @@ el ministeri corresponent són font primària i no s'han consultat.
 - [Immigració](../immigracio/immigracio.md) — qui viu al país.
 - [Lèxic andorrà](../../llengua/lexic-andorra/lexic-andorra.md) — on viu *frontarer*.
 - [La formació professional](../educacio/la-formacio-professional.md) — el contracte d'aprenent, i els dos-cents menors que treballen sense formació.
+- [El preu de l'acomiadament](./el-preu-de-lacomiadament.md) — el que costa acomiadar avui: 25 dies per any.
+- [El dret de vaga](./el-dret-de-vaga.md) — com es convoca una vaga i on s'atura.
+- [Treballar de temporada](./treballar-de-temporada.md) — el fix discontinu, i l'estatut de l'artista.
+- [No tornar a casa ferit](./no-tornar-a-casa-ferit.md) — seguretat i salut: qui hi entra i què no es pot fer amb les dades.

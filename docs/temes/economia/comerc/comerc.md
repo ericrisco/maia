@@ -47,3 +47,7 @@ font primària no consultada. **Buit registrat.**
 - [Contraban](../../historia/contraban/contraban.md) — el que hi havia abans.
 - [Banca i fiscalitat](../banca-i-fiscalitat/banca-i-fiscalitat.md) — el que ho finança.
 - [La Cambra de Comerç i la formació](./la-cambra-de-comerc-i-la-formacio.md) — l'aparadorisme com a formació professional.
+- [La duana](./la-duana.md) — el Codi de Duana del 2025, i l'Acord amb la Comunitat Europea que en fixa el perímetre.
+- [Muntar alguna cosa](./muntar-alguna-cosa.md) — què cal per obrir una societat o una associació.
+- [Els horaris comercials](./els-horaris-comercials.md) — els quatre dies que s'ha de tancar.
+- [Vigilar i sancionar](./vigilar-i-sancionar.md) — seguretat privada i sancions internacionals.
