@@ -1,0 +1,139 @@
+{{Short description|Andorran alpine skier (born 1989)}}
+{{use dmy dates|date=June 2022}}
+{{family name hatnote|Esteve|Rigail|lang=Catalan}}
+{{Infobox sportsperson
+| name             = Kevin Esteve
+| image            = Kevin Esteve.jpg
+| image_size       = 200px
+| caption          = Esteve in 2013
+| full_name        = Kevin Esteve Rigail
+| birth_date       = {{birth date and age|1989|12|27|df=y}}
+| birth_place      = Andorra
+| education        = A School
+| alma_mater       = 
+| occupation       = 
+| years_active     = 
+| employer         = 
+| agent            = 
+| height           = 180 cm
+| weight           = 80 kg
+| spouse           = 
+| life_partner     = 
+| other_interests  = 
+| website          = 
+| country          = [[Andorra]]
+| sport            = [[Alpine skiing]]
+| rank             = 
+| event            = 
+| collegeteam      = 
+| universityteam   = 
+| league           = 
+| league_type      = 
+| club             = 
+| team             = 
+| turnedpro        = 
+| partner          = 
+| former_partner   = 
+| coach            = 
+| retired          = 
+| coaching         = 
+| worlds           = 
+| regionals        = 
+| nationals        = 
+| olympics         = 
+| paralympics      = 
+| highestranking   = 
+| pb               = 
+| show-medals      = 
+| medaltemplates   =
+| module3 =
+{{Infobox golfer|embed=yes
+| name              = Kevin Esteve
+| image             =
+| imagesize         = <!-- e.g. 250px (default is 200px) -->
+| caption           =
+| fullname          = Kevin Esteve Rigail
+| nickname          =
+| height            = <!-- {{height|ft=|in=}} -->
+| weight            = <!-- {{convert| |lb|kg st|abbr=on}} -->
+| nationality       = {{AND}}
+| residence         =
+| spouse            = 
+| partner           =
+| children          = 
+| college           = 
+| status            = Professional
+| yearpro           = 2015
+| tour              =[[MENA Tour]]
+| extour            = [[Alps Tour]]<br>[[Professional Golf Tour of India]]<br>[[Nordic Golf League]]
+| prowins           = 1
+| pgawins           = 
+| eurowins          = <!--Number of European Tour wins-->
+| japwins           = <!--Number of Japan Golf Tour wins-->
+| asiawins          = <!--Number of Asian Tour wins-->
+| sunwins           = <!--Number of Sunshine Tour wins-->
+| auswins           = <!--Number of PGA Tour of Australasia wins-->
+| nwidewins         = <!--Number of Korn Ferry Tour wins-->
+| chalwins          = <!--Number of Challenge Tour wins-->
+| champwins         = <!--Number of Champions Tour wins-->
+| seneurowins       = <!--Number of European Seniors Tour wins-->
+| otherwins         = <!--Number of Other wins-->
+| majorwins         = <!-- Number of Major Championship wins -->
+| masters           = 
+| usopen            = 
+| open              = 
+| pga               = 
+| wghofid           = <!-- World Golf Hall of Fame member ID -->
+| wghofyear         = <!-- World Golf Hall of Fame year inducted -->
+| award1            = <!-- Achievement or award details -->
+| year1             = <!-- Year(s) of achievement or award -->
+| award2            =
+| year2             =
+| awardssection     = <!-- location of awards page or section -->
+}}
+}}
+'''Kevin Esteve Rigail''' (born 27 December 1989) is an [[alpine skier]] and [[professional golfer]] from [[Andorra]].<ref>{{cite web |title=Kevin Esteve Rigail |url=http://www.vancouver2010.com/olympic-alpine-skiing/athletes/kevin-esteve-rigail_ath1015025Be.html |work=Vancouver 2010 |accessdate=15 December 2010 |url-status=dead |archiveurl=https://web.archive.org/web/20100409031844/http://www.vancouver2010.com/olympic-alpine-skiing/athletes/kevin-esteve-rigail_ath1015025Be.html |archivedate=9 April 2010}}</ref> He competed for [[Andorra at the 2010 Winter Olympics]].<ref name="SR">{{cite Sports-Reference}}</ref>
+
+==Golf career==
+Esteve turned professional in 2015 after breaking his knee in 2014.<ref>{{cite web |title=Kevin Esteve - From slippery slopes to six-footers |url=https://menatour.golf/news/details/kevin-esteve-from-slippery-slopes-to-six-footers |publisher=MENA Tour |access-date=20 February 2023 |date=19 May 2022}}</ref> He has primarily played on the [[Alps Tour]], [[MENA Tour]] and [[Nordic Golf League]].
+
+===Professional wins (1)===
+====Toro Tour wins (1)====
+{| class="wikitable" style="font-size:95%;"
+!No.
+!Date
+!Tournament
+!Winning score
+!Margin of<br>victory
+!Runner-up
+|-
+|align=center|1
+|align=right|12 Feb 2022
+|Azata Golf 1
+|−2 (77-69-65=211)
+|2 strokes
+|{{flagicon|WAL}} [[Jake Hapgood]]
+|}
+
+==References==
+{{Reflist}}
+
+== External links ==
+* {{Olympedia|118399|Kevin Esteve}}
+* {{FIS alpine skier|104295|Kevin ESTEVE}}
+* {{Olympics.com|kevin-esteve-rigail|Kevin ESTEVE RIGAIL|org_archive=20200922054430}}
+* {{OWGR|21620}}
+
+{{DEFAULTSORT:Esteve, Kevin}}
+[[Category:1989 births]]
+[[Category:Living people]]
+[[Category:Andorran male alpine skiers]]
+[[Category:Andorran male golfers]]
+[[Category:Olympic alpine skiers for Andorra]]
+[[Category:Alpine skiers at the 2010 Winter Olympics]]
+[[Category:Alpine skiers at the 2014 Winter Olympics]]
+[[Category:Mediterranean Games competitors for Andorra]]
+[[Category:Competitors at the 2018 Mediterranean Games]]
+
+
+{{Andorra-alpine-skiing-bio-stub}}

@@ -151,6 +151,11 @@ i no la fa seva.
 
 ## Esportistes
 
+**El gruix de les fitxes d'esportistes viu a la branca d'esports**, per esport:
+**[els esquiadors](../esports/esqui/esquiadors/README.md)** (26) i **[els
+olímpics d'estiu](../esports/estiu/README.md)** (17). Aquí hi ha els que
+travessen més d'una branca.
+
 | Qui | Per què hi és |
 | --- | --- |
 | **[Mònica Dòria](./monica-doria.md)** | **Campiona d'Europa de C1 (2025)**, plata i bronze mundials, i el millor resultat olímpic andorrà |

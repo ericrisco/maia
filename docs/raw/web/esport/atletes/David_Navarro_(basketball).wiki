@@ -1,0 +1,97 @@
+{{short description|Spanish basketball player}}
+{{Infobox basketball biography
+| name            = David Navarro
+| image           = File:CropedDavid Navarro BrugalLiga ACB 2013 (Estudiantes - Valladolid) - 130303 201530-2.jpg
+| image_size      = 
+| caption         = 
+| number          = 20
+| position        = [[Shooting guard]]
+| height_cm       = 192
+| height_footnote = 
+| weight_kg     =  90
+| weight_footnote = 
+| league          = 
+| team            = 
+| birth_date      = {{Birth date and age|1983|05|17}}
+| birth_place     = [[Esparraguera]], <br/>[[Catalonia]], Spain
+| death_date      = 
+| death_place     = 
+| high_school     = 
+| college         = 
+| draft_year      = 2005
+| career_start    = 2001
+| career_end      = 2021
+| years1= 2001–2003
+| team1 = [[CB Olesa|Olesa]]
+| years2= 2003–2004
+| team2 =[[Club Melilla Baloncesto|Melilla]]
+| years3= 2004–2005
+| team3= [[CI Rosalía de Castro|Rosalía de Castro]]
+| years4= 2005–2006
+| team4= [[Bàsquet Manresa]]
+| years5= 2006–2007
+| team5= [[Ciudad de Vigo Básquet|Ciudad de Vigo]]
+| years6= 2007–2009
+| team6= [[CB Clavijo|Clavijo]]
+| years7= 2009–2011
+| team7= [[CB Sant Josep|Sant Josep Girona]]
+| years8= 2011
+| team8= [[Valencia Basket|Valencia]]
+| years9= 2011–2012
+| team9= [[Menorca Bàsquet|Menorca]]
+| years10= 2012–2013
+| team10= [[CB Valladolid|Valladolid]]
+| years11= 2013–2017
+| team11= [[BC Andorra|Andorra]]
+| years12= 2017–2020
+| team12= [[Obradoiro CAB|Obradoiro]]
+| years13= 2020–2021
+| team13= [[Club Ourense Baloncesto|Ourense]]
+| highlights      = 
+| medal_templates = 
+}}
+{{family name hatnote|Navarro|Brugal|lang=Spanish}}
+'''David Navarro Brugal''' (born 17 May 1983) is a Spanish former professional [[basketball]] player. He played for several [[Liga ACB]] clubs including [[Obradoiro CAB|Monbus Obradoiro]] and [[BC Andorra|MoraBanc Andorra]].
+
+==Professional career==
+After spending his first years as a professional mainly in [[Catalonia]], Navarro made his debut in [[Liga ACB]] in 2005 with [[Bàsquet Manresa]].
+
+He came back to [[LEB Oro]] for playing with [[CB Sant Josep|Sant Josep Girona]], before coming back to the top tier with [[Valencia Basket]] in February 2011.<ref>{{cite web|url=https://www.solobasket.com/competiciones-feb/david-navarro-el-trotamundos-de-esparreguera|publisher=Solobasket|date=27 November 2013|language=es|accessdate=30 May 2017|title=David Navarro, el 'trotamundos' de Esparreguera}}</ref>
+
+In 2013, Navarro agreed terms with [[BC Andorra|River Andorra]], where he became captain of the club after several years in the team of the Principality. In his first season, Andorra conquered the title of the [[2012–13 LEB Oro season]].<ref>{{cite web|url=http://www.marca.com/2014/03/22/baloncesto/basketfeb/1395527831.html|publisher=Marca|date=22 March 2014|accessdate=30 May 2017|language=es|title=El River Andorra sella el ascenso a la ACB}}</ref>
+
+On June 28, 2017, Navarro signed a two-year contract with [[Obradoiro CAB]].<ref>{{cite news|title=Obradoiro tabs David Navarro|url=http://www.sportando.com/en/europe/spain/238831/obradoiro-tabs-david-navarro.html|accessdate=28 June 2017|work=Sportando.com|date=28 June 2017}}</ref>
+
+==International career==
+After living four years in [[Andorra]], Navarro was declared able to play with the [[Andorra national basketball team|Andorra national team]],<ref>{{cite web|url=https://zonadebasquet.com/2017/05/29/juegos-de-los-pequenos-estados-de-europa/|date=29 May 2017|accessdate=30 May 2017|language=es|publisher=Zona de Básquet|title=Juegos de los Pequeños Estados de Europa}}</ref> as a result of a special eligibility rule from FIBA Europe for small countries.
+
+He made his debut in May 2017, at the [[Basketball at the 2017 Games of the Small States of Europe|2017 Games of the Small States of Europe]] in [[San Marino]].<ref>{{cite web|language=ca|url=http://www.elperiodic.ad/noticia/58228/rss|title=Una cerimònia que destaca el valor d'anar tots plegats|publisher=El Periòdic d'Andorra|date=30 May 2017|accessdate=30 May 2017}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20161002052347/http://www.acb.com/jugador.php?id=B8L ACB Profile]
+
+
+{{DEFAULTSORT:Navarro, David}}
+[[Category:1983 births]]
+[[Category:Living people]]
+[[Category:Andorran men's basketball players]]
+[[Category:Bàsquet Manresa players]]
+[[Category:BC Andorra players]]
+[[Category:CB Clavijo players]]
+[[Category:CB Valladolid players]]
+[[Category:Ciudad de Vigo Básquet players]]
+[[Category:Club Melilla Baloncesto players]]
+[[Category:Liga ACB players]]
+[[Category:Menorca Bàsquet players]]
+[[Category:Obradoiro CAB players]]
+[[Category:People from Esparreguera]]
+[[Category:Basketball players from the Province of Barcelona]]
+[[Category:Basketball players from Catalonia]]
+[[Category:Spanish men's basketball players]]
+[[Category:Valencia Basket players]]
+[[Category:Shooting guards]]
+[[Category:Naturalised citizens of Andorra]]
+[[Category:21st-century Spanish sportsmen]]

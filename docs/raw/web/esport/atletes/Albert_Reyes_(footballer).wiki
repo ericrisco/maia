@@ -1,0 +1,113 @@
+{{short description|Andorran footballer}}
+{{notability|1=Biographies|date=May 2023}}
+
+{{Use dmy dates|date=October 2020}}
+{{Infobox football biography
+| name           = Albert Reyes
+| fullname       = Albert Reyes Roig
+| image          =
+| caption        =
+| height         = 1.74 m
+| birth_date     = {{Birth date and age|df=yes|1996|3|24}}
+| birth_place    = [[Escaldes-Engordany]], Andorra
+| position       = [[Midfielder]]
+| currentclub    = [[FC Ordino|Ordino]]
+| clubnumber     = 8
+| youthyears1    = 2012–2015
+| youthclubs1    = [[FC Andorra|Andorra]]
+| years1         = 2015–2017
+| clubs1         = [[FC Encamp|Encamp]]
+| caps1          = 24
+| goals1         = 3
+| years2         = 2017–2018
+| clubs2         = [[UE Sant Julià|Sant Julià]]
+| caps2          = 17
+| goals2         = 0
+| years3         = 2018–2019
+| clubs3         = [[FC Andorra]]
+| caps3          = 11
+| goals3         = 1
+| years4         = 2019–2021
+| clubs4         = [[Inter Club d'Escaldes|Inter d'Escaldes]]
+| caps4          = 18
+| goals4         = 0
+| years5         = 2021–2023
+| clubs5         = [[UE Santa Coloma]]
+| caps5          = 50
+| goals5         = 0
+| years6         = 2024–2025
+| clubs6         = [[FC Ordino|Ordino]]
+| caps6          = 34
+| goals6         = 1
+| years7         = 2025–
+| clubs7         = [[CE Casa de Portugal|Casa de Portugal]]
+| caps7          = 0
+| goals7         = 0
+| nationalyears1 = 2011–2012
+| nationalteam1  = [[Andorra national under-17 football team|Andorra U17]]
+| nationalcaps1  = 6
+| nationalgoals1 = 0
+| nationalyears2 = 2012–2014
+| nationalteam2  = [[Andorra national under-19 football team|Andorra U19]]
+| nationalcaps2  = 9
+| nationalgoals2 = 0
+| nationalyears3 = 2014–2018
+| nationalteam3  = [[Andorra national under-21 football team|Andorra U21]]
+| nationalcaps3  = 18
+| nationalgoals3 = 0
+| nationalyears4 = 2020–
+| nationalteam4  = [[Andorra national football team|Andorra]]
+| nationalcaps4  = 5
+| nationalgoals4 = 0
+| pcupdate       = 18 May 2025
+| ntupdate       = 24 March 2025
+}}
+'''Albert Reyes Roig''' (born 24 March 1996) is an Andorran [[Association football|footballer]] who plays as a [[midfielder]] for [[CE Casa de Portugal|Casa de Portugal]] and the [[Andorra national football team|Andorra national team]].<ref>{{WorldFootball.net}}</ref>
+
+==Career==
+Reyes made his international debut for [[Andorra national football team|Andorra]] on 7 October 2020 in a [[Exhibition game|friendly]] match against [[Cape Verde national football team|Cape Verde]], which finished as a 1–2 home loss.<ref name="EUF">{{cite web |url=https://eu-football.info/_player.php?id=31121 |title=Albert Reyes |website=EU-Football.info |access-date=7 October 2020}}</ref>
+
+==Career statistics==
+
+===International===
+{{updated|24 March 2025|<ref name="EUF"/>}}
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=3|[[Andorra national football team|Andorra]]
+|-
+!Year!!Apps!!Goals
+|-
+|2020||1||0
+|-
+|2022||3||0
+|-
+|2024||1||0
+|-
+!Total!!5!!0
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{LaPreferente}}
+* {{Soccerway}}
+
+{{DEFAULTSORT:Reyes, Albert}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:People from Escaldes–Engordany]]
+[[Category:Andorran men's footballers]]
+[[Category:Andorra men's youth international footballers]]
+[[Category:Andorra men's under-21 international footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:FC Andorra players]]
+[[Category:FC Encamp players]]
+[[Category:UE Sant Julià players]]
+[[Category:Inter Club d'Escaldes players]]
+[[Category:Primera Divisió players]]
+
+
+{{Andorra-footy-bio-stub}}

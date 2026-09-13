@@ -1,0 +1,114 @@
+{{short description|Andorran track and field athlete (born 1968)}}
+{{Use dmy dates|date=December 2017}}
+{{Infobox sportsperson
+| name           = Margarida Moreno
+| image          = 
+| image_size     =
+| caption        = 
+| birth_name     = 
+| full_name      = Margarida Moreno Sánchez 
+| nickname       = Maggy
+| nationality    = 
+| birth_date     = {{birth date and age|df=yes|1968|4|3}}
+| birth_place    = 
+| height         = 176 cm
+| weight         =
+| country        = {{AND}}
+| sport          = [[Athletics (sport)|Athletics]]
+| event          = [[High jump]]
+| coach          =
+| highest_ranking =
+| personal_best             = {{cvt|1.83|m}} (1991)
+| medal_templates =
+}}
+'''Margarida "Maggy" Moreno Sánchez'''{{family name footnote|lang=Catalan|Moreno|Sánchez}} (born 3 April 1968) is an [[Andorra]]n [[track and field]] athlete who competed at the [[1992 Summer Olympics]].<ref>{{cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/mo/maggy-moreno-1.html  |title=Maggy Moreno |access-date=2 December 2017 |url-status=dead |archive-url=https://web.archive.org/web/20161203162103/http://www.sports-reference.com/olympics/athletes/mo/maggy-moreno-1.html |archive-date=3 December 2016 |quote=Full name: Margarida Moreno Sánchez}}</ref>
+
+Moreno's first major competition was the [[1991 IAAF World Indoor Championships]] where she competed in the [[1991 IAAF World Indoor Championships – Women's high jump|high jump]]. Her jump of {{convert|1.75|m|abbr=off}} placed her in 26th place during the qualification stage and so she didn't qualify for the final.<ref>{{cite web |title=High Jump Women |url=https://www.iaaf.org/results/iaaf-world-indoor-championships/1991/3rd-iaaf-world-indoor-championships-15/women/high-jump/qualification/result#resultheader |website=iaaf.org |accessdate=2 December 2017}}</ref> Later in the year she also competed in the [[1991 World Championships in Athletics – Women's high jump|high jump]] at the [[1991 World Championships in Athletics]] in [[Tokyo]], she only managed to jump {{convert|1.70|m|abbr=off}} and again failed to reach the final.<ref>{{cite web |title=Women High Jump |url=https://www.iaaf.org/results/iaaf-world-championships-in-athletics/1991/3rd-iaaf-world-championships-in-athletics-5/women/high-jump/qualification/result#resultheader |website=iaaf.org |accessdate=2 December 2017}}</ref>
+
+The following year Moreno was picked for the [[1992 Summer Olympics]], she was also chosen to be her country's flag bearer at the opening ceremony.<ref>{{cite web |title=Andorra |url=https://www.sports-reference.com/olympics/countries/AND/ |archive-url=https://web.archive.org/web/20200417093554/https://www.sports-reference.com/olympics/countries/AND/ |url-status=dead |archive-date=17 April 2020 |website=Olympics at Sports-Reference.com |accessdate=2 December 2017}}</ref> In the [[Athletics at the 1992 Summer Olympics – Women's high jump|high jump]] she jumped {{convert|1.70|m|abbr=off}} and finished 41st so didn't qualify for the final.<ref>{{cite Sports-Reference |url=https://www.sports-reference.com/olympics/summer/1992/ATH/womens-high-jump.html |title=Athletics at the 1992 Barcelona Summer Games: Women's High Jump |access-date=2 December 2017 |url-status=dead |archive-url=https://web.archive.org/web/20200417174256/https://www.sports-reference.com/olympics/summer/1992/ATH/womens-high-jump.html |archive-date=17 April 2020}}</ref>
+
+Her personal bests in the event are 1.83 metres outdoors (Monzón 1991) and 1.81 metres indoors (San Sebastián 1990). Both are standing [[List of Andorran records in athletics|national records]].
+
+==International competitions==
+{| {{AchievementTable}}
+|-
+!colspan="5"|Representing {{AND}}
+|-
+|1989
+|[[Athletics at the 1989 Games of the Small States of Europe|Games of the Small States of Europe]]
+|[[Nicosia, Cyprus]]
+|bgcolor=gold|1st
+|1.77 m
+|-
+|1990
+|[[1990 European Athletics Indoor Championships|European Indoor Championships]] 
+|[[Glasgow, United Kingdom]]
+|19th
+|[[1990 European Athletics Indoor Championships – Women's high jump|1.75 m]]
+|-
+|rowspan=3|1991
+|[[1991 IAAF World Indoor Championships|World Indoor Championships]] 
+|[[Seville, Spain]]
+|26th (q)
+|[[1991 IAAF World Indoor Championships – Women's high jump|1.75 m]]
+|-
+|[[Athletics at the 1991 Games of the Small States of Europe|Games of the Small States of Europe]]
+|[[Andorra la Vella, Andorra]]
+|bgcolor=cc9966|3rd
+|1.80 m
+|-
+|[[1991 World Championships in Athletics|World Championships]] 
+|[[Tokyo, Japan]]
+|28th (q)
+|[[1991 World Championships in Athletics – Women's high jump|1.70 m]]
+|-
+|rowspan=2|1992
+|[[1992 European Athletics Indoor Championships|European Indoor Championships]] 
+|[[Genoa, Italy]]
+|23rd
+|[[1992 European Athletics Indoor Championships – Women's high jump|1.75 m]]
+|-
+|[[Athletics at the 1992 Summer Olympics|Olympic Games]] 
+|[[Barcelona, Spain]]
+|41st (q)
+|[[Athletics at the 1992 Summer Olympics – Women's high jump|1.70 m]]
+|-
+|1993
+|[[Athletics at the 1993 Games of the Small States of Europe|Games of the Small States of Europe]]
+|[[Valetta, Malta]]
+|bgcolor=cc9966|3rd
+|1.74 m
+|-
+|2005
+|[[Athletics at the 2005 Games of the Small States of Europe|Games of the Small States of Europe]]
+|[[Andorra la Vella, Andorra]]
+|4th
+|[[Athletics at the 2005 Games of the Small States of Europe#High jump 2|1.65 m]]
+|-
+|2007
+|[[Athletics at the 2007 Games of the Small States of Europe|Games of the Small States of Europe]]
+|[[Fontvieille, Monaco]]
+|6th
+|[[Athletics at the 2007 Games of the Small States of Europe#High jump 2|1.65 m]]
+|}
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{World Athletics||Margarida MORENO}}
+* {{Olympics.com|margarida-moreno-sanchez|Margarida MORENO SANCHEZ}}
+* {{Olympedia|64313|Maggy Moreno}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Moreno, Margarida}}
+[[Category:Living people]]
+[[Category:1968 births]]
+[[Category:Olympic athletes for Andorra]]
+[[Category:Athletes (track and field) at the 1992 Summer Olympics]]
+[[Category:World Athletics Championships athletes for Andorra]]
+[[Category:Andorran sportswomen]]

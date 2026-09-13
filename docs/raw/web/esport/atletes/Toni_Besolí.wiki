@@ -1,0 +1,45 @@
+{{short description|Andorran  Olympic judoka}}
+{{Infobox judoka
+| name = Toni Besolí
+| image = 
+| image_size = 
+| caption = 
+| full_name = Antoni Besolí Cervellera
+| nickname = ''Toni''
+| nationality = {{AND}}
+| sport = [[Judo]]
+| event = 90 kg
+| college_team = 
+| club =
+| coach = 
+| residence = 
+| birth_date = {{birth date and age|1976|5|19|df=yes}}
+| birth_place = [[Andorra la Vella]], Andorra
+| death_date = 
+| death_place = 
+| height = {{height|m=1.89|abbr=on}}
+| weight = {{convert|90|kg|lb|0|abbr=on}}
+| medal_templates = 
+| show_medals    = yes
+}}
+
+'''Antoni "Toni" Besolí Cervellera''' (born 19 May 1976 in [[Andorra la Vella]]) is an [[Andorra]]n [[judoka]], who competed in the men's middleweight category.<ref>{{cite sports-reference|title = Toni Besolí|url = https://www.sports-reference.com/olympics/athletes/be/toni-besoli-1.html|archive-url = https://web.archive.org/web/20200418120402/https://www.sports-reference.com/olympics/athletes/be/toni-besoli-1.html|url-status = dead|archive-date = 18 April 2020|access-date = 17 December 2014}}</ref>
+
+Besoli qualified as a lone judoka for the Andorran squad in the [[Judo at the 2004 Summer Olympics – Men's 90 kg|men's middleweight]] class (90&nbsp;kg) at the [[2004 Summer Olympics]] in [[Athens]], by granting a tripartite invitation from the [[International Judo Federation]].<ref>{{cite news|title=Solucionan a tiempo último impase de Vicbart|trans-title=Vicbart finally resolved his problem on time|language=Spanish|url=http://hoy.com.do/solucionan-a-tiempo-ultimo-impase-de-vicbart-2/|publisher=Hoy Digital|date=13 August 2004|accessdate=17 December 2014}}</ref> He fell in a bodily-crushing [[ippon]] defeat to Dominican Republic's two-time Olympian [[Vicbart Geraldino]] just forty-seven seconds into their opening match.<ref>{{cite web|title=Judo: Men's Middleweight (90kg/198 lbs) Round of 32|url=https://news.bbc.co.uk/sport2/hi/olympics_2004/martial_arts/results/3534232.stm|work=[[2004 Summer Olympics|Athens 2004]]|publisher=[[BBC Sport]]|date=15 August 2004|access-date=31 January 2013}}</ref><ref>{{cite news|title=F. Vásquez mejoró su marca del año en JO|trans-title=Flor Vásquez has improved her seasonal record at these Games|language=Spanish|url=http://www.diariolibre.com/noticias/2004/08/19/i46343_vsquez-mejor-marca-del.html|publisher=Diario Libre|date=19 August 2004|accessdate=15 December 2014}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Sports links}}
+
+{{DEFAULTSORT:Besoli, Tonil}}
+[[Category:1976 births]]
+[[Category:Living people]]
+[[Category:Andorran male judoka]]
+[[Category:Olympic judoka for Andorra]]
+[[Category:Judoka at the 2004 Summer Olympics]]
+[[Category:Sportspeople from Andorra la Vella]]
+
+
+{{Andorra-judo-bio-stub}}

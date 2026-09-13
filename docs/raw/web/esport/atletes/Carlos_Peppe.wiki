@@ -1,0 +1,64 @@
+{{short description|Uruguayan-born Andorran footballer (born 1983)}}
+{{Use dmy dates|date=July 2023}}
+{{Infobox football biography
+| name          = Carlos Peppe
+| image          = 
+| caption        = 
+| fullname       = Carlos Eduardo Peppe Britos
+| birth_date     = {{birth date and age|1983|1|28|df=y}}
+| birth_place    = [[Montevideo]], Uruguay
+| height         = {{Convert|1.71|m|0|abbr=on}}
+| position       = [[Midfielder]]
+| currentclub    = [[UE Sant Julià|Sant Julià]]
+| clubnumber     = 4
+| years1         = 2002&ndash;2004 | clubs1         = [[Defensor Sporting]] | caps1          =  | goals1         = 
+| years2         = 2005&ndash;2006 | clubs2         = [[Club Sportivo Cerrito|Cerrito]] | caps2          = 37 | goals2         = 0
+| years3         = 2007&ndash;2014 | clubs3         = [[UE Sant Julià|Sant Julià]] | caps3          =  | goals3         = 
+| years4         = 2014&ndash;2015 | clubs4         = [[FC Andorra]] | caps4          = 38 | goals4         = 3
+| years5         = 2015&ndash;2016 | clubs5         = [[UE Sant Julià|Sant Julià]] | caps5          = 17 | goals5         = 1
+| years6         = 2016&ndash;2017 | clubs6         = [[FC Encamp|Encamp]] | caps6          = 25 | goals6         = 2
+| years7         = 2017&ndash;2019 | clubs7         = [[UE Engordany|Engordany]] | caps7          = 44 | goals7         = 0
+| years8         = 2019&ndash;     | clubs8         = [[UE Sant Julià|Sant Julià]] | caps8          = 13 | goals8         = 0
+| nationalyears1 = 2011&ndash;
+| nationalteam1  = [[Andorra national football team|Andorra]]
+| nationalcaps1  = 21
+| nationalgoals1 = 0
+| club-update    = 21:25, 10 February 2020 (UTC)
+| ntupdate       = 10 October 2015
+}}
+'''Carlos Eduardo "Edu" Peppe Britos''' (born 28 January 1983) is an [[Uruguay]]an-born [[Andorra]]n international [[association football|footballer]] who plays for [[UE Sant Julià]] in [[Primera Divisió]], as a [[midfielder]]. Besides Uruguay, he has played in Andorra.<ref>[https://www.elobservador.com.uy/nota/mediocampista-y-mozo-de-hotel-201212615480 Interview with Carlos Peppe] elobservador.com.uy</ref>
+
+==Career==
+Peppe began his senior career at [[Defensor Sporting]] in 2002, moving to [[Club Sportivo Cerrito|Cerrito]] in 2005. He signed for [[UE Sant Julià|Sant Julià]] in 2007.
+
+He made his international debut for [[Andorra national football team|Andorra]] in 2011.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{NFT player|pid=45157}}
+*{{UEFA player|1903307}}
+*[https://www.lapreferente.com/J221079/fc-encamp/edu-peppe.html Edu Peppe] at La Preferente
+
+{{DEFAULTSORT:Peppe, Carlos}}
+[[Category:1983 births]]
+[[Category:Living people]]
+[[Category:Footballers from Montevideo]]
+[[Category:Uruguayan emigrants to Andorra]]
+[[Category:Naturalised citizens of Andorra]]
+[[Category:Sportspeople of Uruguayan descent]]
+[[Category:Andorran men's footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:Defensor Sporting players]]
+[[Category:Sportivo Cerrito players]]
+[[Category:UE Sant Julià players]]
+[[Category:FC Andorra players]]
+[[Category:FC Encamp players]]
+[[Category:UE Engordany players]]
+[[Category:Primera Divisió players]]
+[[Category:Men's association football midfielders]]
+[[Category:Expatriate men's footballers in Spain]]
+
+
+{{Andorra-footy-bio-stub}}

@@ -1,0 +1,42 @@
+{{short description|Andorran judoka}}
+{{MedalTableTop}}
+{{MedalSport | Women's [[Judo]]}}
+{{MedalCountry | {{AND}} }}
+{{MedalCompetition|[[Games of the Small States of Europe]]}}
+{{MedalGold| [[Judo at the 2009 Games of the Small States of Europe|2009 Cyprus]] | -63 kg}}
+{{MedalGold| [[Judo at the 2015 Games of the Small States of Europe|2015 Iceland]] | -63 kg}}
+{{MedalSilver| [[Judo at the 2007 Games of the Small States of Europe|2007 Monaco]] | -63 kg}}
+{{MedalSilver| [[Judo at the 2011 Games of the Small States of Europe|2011 Liechtenstein]] | -63 kg}}
+{{MedalSilver| [[Judo at the 2013 Games of the Small States of Europe|2013 Luxembourg]] | -63 kg}}
+{{MedalSilver | [[2017 Games of the Small States of Europe|2017 San Marino]] | [[Judo at the 2017 Games of the Small States of Europe|-70 kg]]}}
+{{MedalBottom}}
+
+'''Laura Sallés López''' (born 15 February 1986) is a practitioner of [[judo]] from Andorra. She has participated in several World Championships and has won several medals at the Games of Small States. Sallés participated in the [[2016 Summer Olympics]], serving as her country's flag bearer.<ref>{{cite news|title=Laura Sallés serà l'abanderada dels Jocs Olímpics a Rio|trans-title=Laura Sallés will be the flag bearer at the Rio Olympics|url=http://www.ara.ad/societat/Laura-Salles-Jocs-Olimpics-Rio_0_1621038078.html|language=ca|publisher=[[Ara (newspaper)|Ara]]|date=28 July 2016|accessdate=28 July 2016}}</ref> In the [[Judo at the 2016 Summer Olympics – Women's 63 kg|Women's 63 kg]], she lost to [[Katharina Haecker (judoka)|Katharina Haecker]] in the first round.
+
+== References ==
+{{Reflist}}
+
+== External links ==
+*{{sports links}}
+
+{{s-start}}
+{{s-sports|oly}}
+{{succession box
+| before = [[Mireia Gutiérrez]]
+| title = [[List of flag bearers for Andorra at the Olympics|Flagbearer]] for {{AND}}
+| years = [[2016 Summer Olympics|2016 Rio de Janeiro]]
+| after = [[Irineu Esteve Altimiras]]
+}}
+{{s-end}}
+
+{{DEFAULTSORT:Salles, Laura}}
+[[Category:1986 births]]
+[[Category:Living people]]
+[[Category:Andorran female judoka]]
+[[Category:Judoka at the 2016 Summer Olympics]]
+[[Category:Olympic judoka for Andorra]]
+[[Category:European Games competitors for Andorra]]
+[[Category:Judoka at the 2015 European Games]]
+
+
+{{Andorra-judo-bio-stub}}

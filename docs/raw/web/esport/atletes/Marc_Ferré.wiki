@@ -1,0 +1,66 @@
+{{short description|Andorran footballer}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+|name           = Marc Ferré
+|image          = 
+|image_size     =
+|caption        =
+|fullname       = Marc Ferré Nazzaro<ref name = "NFT"/>
+|birth_date     = {{birth date and age|1994|1|11|df=y}}
+|birth_place    = [[Andorra la Vella]], Andorra
+|height         = 
+|position       = [[Midfielder]]
+|currentclub    = [[Penya Encarnada d'Andorra|Penya Encardana]]
+|clubnumber     = 15
+|years1         = 2010–2019
+|clubs1         = [[FC Andorra]]
+|caps1          = 157
+|goals1         = 7
+|years2         = 2019–2020
+|clubs2         = [[UE Engordany]]
+|caps2          = 28
+|goals2         = 2
+|years3         = 2020–2021
+|clubs3         = [[UE Santa Coloma]]
+|caps3          = 19
+|goals3         = 0
+|years4         = 2021–2022
+|clubs4         = [[FC Ordino]]
+|caps4          = 9
+|goals4         = 0
+|years5         = 2022
+|clubs5         = [[UE Sant Julià|Sant Julià]]
+|caps5          = 4
+|goals5         = 0
+|years6         = 2023–
+|clubs6         = [[Penya Encarnada d'Andorra|Penya Encardana]]
+|caps6          = 8
+|goals6         = 0
+|nationalyears1 = 2018–
+|nationalteam1  = [[Andorra national football team|Andorra]]
+|nationalcaps1  = 2
+|nationalgoals1 = 0
+|club-update    = 24 June 2023
+|ntupdate       = 13:34, 16 November 2018 (UTC)
+}}
+{{family name hatnote|Ferré|Nazzaro|lang=Catalan}}
+'''Marc Ferré Nazzaro''' (born 11 January 1994) is an Andorran international [[association football|footballer]] who plays for [[Penya Encarnada d'Andorra|Penya Encardana]] as a [[midfielder]].
+
+==Career==
+Born in [[Andorra la Vella]], Ferré has played club football for [[FC Andorra]].<ref name = "NFT">{{NFT player|pid=71331|accessdate=16 November 2018}}</ref>
+
+He made his international debut for [[Andorra national football team|Andorra]] in 2018.<ref name = "NFT"/>
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Ferre, Marc}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:Andorran men's footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:FC Andorra players]]
+[[Category:Men's association football midfielders]]
+
+
+{{Andorra-footy-bio-stub}}

@@ -85,3 +85,40 @@ PyeongChang 2018, on va fer **29è**.
 
 **Una errata de la font, registrada:** l'entrada de Marc Oliveras diu que
 Schladming és a **Itàlia**. És a **Àustria**.
+
+## `atletes/` — 193 esportistes andorrans, 13 de setembre del 2026
+
+Wikitext cru baixat per l'**API de MediaWiki** recorrent l'arbre de categories
+**«Olympic competitors for Andorra»**, **«Paralympic competitors for Andorra»**
+i **«Andorran sportspeople»** d'`en.wikipedia.org` — **59 categories, 203 noms,
+193 entrades existents**. **CC BY-SA 4.0, redistribuïbles.**
+
+**És la descàrrega més gran que el corpus ha fet d'una sola font.**
+
+### Els tres fets que hi havia a dins i el corpus no tenia
+
+1. **ANTONI BERNADÓ és l'únic atleta del món que ha acabat cinc maratons
+   olímpiques.** Un rècord mundial en mans d'un andorrà.
+2. **GINA DEL RIO és campiona del món júnior d'esprint lliure (2024)** i plata
+   sub-23 el 2025. El corpus no té constància de cap altre títol mundial d'un
+   esportista andorrà.
+3. **LLUÍS MARÍN TARROCH va ser tercer a la Copa del Món de boardercross el
+   2012 i el 2016** — **onze anys abans** del podi de Joan Verdú que el corpus
+   tenia registrat com «el primer d'un esquiador andorrà». **Obliga a matisar
+   aquella frase i la fitxa de Verdú ho fa.**
+
+### I dos més
+
+4. **LAURE SOULIÉ va ser 9a en una cursa de 15 km a Ruhpolding** la temporada
+   2013-14 — un top-10 de biatló que el corpus no sabia que existia. **La
+   infotaula de la font està trencada** i aquesta frase hi apareix dins el camp
+   d'alçada; el corpus llegeix la dada igualment i ho registra.
+5. **A MOSCOU 1980, ANDORRA VA DESFILAR SOTA LA BANDERA OLÍMPICA**, no la
+   pròpia. Ho diu una nota al peu de la llista d'abanderats. El corpus no en
+   sap el motiu i ho deixa com a buit obert.
+
+### Una errata registrada
+
+`List_of_flag_bearers_for_Andorra_at_the_Olympics` **no consigna abanderat per a
+Innsbruck 1976 ni per a Albertville 1992**, i **no recull encara els tres
+abanderats de Milano Cortina 2026**.

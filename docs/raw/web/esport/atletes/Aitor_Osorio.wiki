@@ -1,0 +1,59 @@
+{{short description|Andorran swimmer}}
+{{Infobox swimmer
+| name = Aitor Osorio
+| image = <!-- Only free-content images are allowed for depicting living people -- see [[WP:NONFREE]]. -->
+| image_size = <!-- Only for images narrower than 220 pixels -->
+| caption = 
+| full_name = Joan Aitor Osorio Marti
+| nickname =
+| nationality = {{AND}}
+| strokes = [[Butterfly stroke|Butterfly]]
+| club = 
+| coach = 
+| college_team =
+| birth_date = {{birth date and age|1975|10|31|df=yes}}
+| birth_place = [[Escaldes-Engordany]], Andorra
+| death_date =
+| death_place =
+| height = 
+| weight = 
+| medal_templates =
+| show_medals = yes
+| updated = 
+}}
+
+'''Joan Aitor Osorio Marti'''{{family name footnote|lang=Catalan|Osorio|Marti}} (born 31 October 1975) is an [[Andorra]]n swimmer who competed at the [[1996 Summer Olympics]].<ref>{{cite Sports-Reference |title=Aitor Osorio |url=https://www.sports-reference.com/olympics/athletes/os/aitor-osorio-1.html |url-status=dead |archive-url=https://web.archive.org/web/20161203182206/http://www.sports-reference.com/olympics/athletes/os/aitor-osorio-1.html |archive-date=3 December 2016 |accessdate=3 December 2017}}</ref>
+
+== Biography ==
+Osorio was 20 years old when he represented his country at the [[1996 Summer Olympics]]. He competed in the [[Swimming at the 1996 Summer Olympics – Men's 200 metre butterfly|200 metre butterfly]] event. He swam his heat in 2:12.59 minutes and finished 42nd overall, so he didn't qualify for the finals.<ref>{{cite web |title=Atlanta 1996: Swimming – Men's 200m Butterfly Heats |url=http://library.la84.org/6oic/OfficialReports/1996/1996v3p1.pdf |work=[[1996 Summer Olympics|Atlanta 1996]] |publisher=[[LA84 Foundation]] |page=47 |accessdate=3 December 2017 |archive-url=https://web.archive.org/web/20181007203902/http://library.la84.org/6oic/OfficialReports/1996/1996v3p1.pdf |archive-date=7 October 2018 |url-status=dead}}</ref>
+
+Osorio would later become the president of the [[Andorran Swimming Federation]].<ref>{{cite web |title=Aitor Osorio |url=https://www.elperiodic.ad/entrevista/58443/aitor-osorio-jo-prohibiria-les-quintades-tenen-un-punt-dhumiliacio |website=elperiodic.ad |accessdate=3 December 2017}}</ref>
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{World Aquatics|name=Aitor Osorio Marti}}
+* {{Olympics.com|name=Aitor Osorio Marti|org_archive=20190712120913}}
+* {{Olympedia}}
+{{s-start}}
+{{s-sports|oly}}
+{{succession box
+| before = [[Vicky Grau]]
+| title = [[List of flag bearers for Andorra at the Olympics|Flag bearer]] for {{AND}}
+| years = [[1996 Summer Olympics|Atlanta 1996]]
+| after = [[Victor Gómez (alpine skier)|Victor Gómez]]
+}}
+{{s-end}}
+{{DEFAULTSORT:Osorio, Aitor}}
+[[Category:1975 births]]
+[[Category:Living people]]
+[[Category:Andorran male swimmers]]
+[[Category:Olympic swimmers for Andorra]]
+[[Category:Swimmers at the 1996 Summer Olympics]]
+
+
+{{Andorra-swimming-bio-stub}}

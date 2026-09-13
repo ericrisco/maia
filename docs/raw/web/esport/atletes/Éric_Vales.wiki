@@ -1,0 +1,128 @@
+{{Short description|Andorran footballer (born 2000)}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name           = Éric Vales
+| fullname       = Éric Vales Ramos
+| image          =
+| caption        =
+| height         =
+| birth_date     = {{Birth date and age|df=yes|2000|8|18}}
+| birth_place    = [[Andorra la Vella]], Andorra
+| position       = [[Defender (association football)#Centre-back|Centre-back]]
+| currentclub    = [[CE Casa de Portugal|Casa de Portugal]]
+| clubnumber     = 6
+| youthyears1    = {{0|0000}}–2018
+| youthclubs1    = [[FC Andorra]]
+| youthyears2    = 2018–2019
+| youthclubs2    = [[Atlètic Segre]]
+| years1         = 2017–2018
+| clubs1         = [[FC Andorra]]
+| caps1          = 9
+| goals1         = 1
+| years2         = 2019
+| clubs2         = [[FC Alcarràs|Alcarràs]]
+| caps2          = 6
+| goals2         = 0
+| years3         = 2019–2023
+| clubs3         = [[CDJ Tamarite|Tamarite]]
+| caps3          = 57
+| goals3         = 0
+| years4         = 2023
+| clubs4         = [[ND Bilje|Bilje]]
+| caps4          = 13
+| goals4         = 0
+| years5         = 2024
+| clubs5         = [[Grindavík men's football|Grindavík]]
+| caps5          = 17
+| goals5         = 0
+| years6         = 2025
+| clubs6         = [[FC Ordino|Ordino]]
+| caps6          = 7
+| goals6         = 2
+| years7         = 2025
+| clubs7         = [[FK Tekstilac Odžaci|Tekstilac Odžaci]]
+| caps7          = 9
+| goals7         = 0
+| years8         = 2025
+| clubs8         = [[Atlètic Club d'Escaldes|Atlètic d'Escaldes]]
+| caps8          = 0
+| goals8         = 0
+| years9         = 2026–
+| clubs9         = [[CE Casa de Portugal|Casa de Portugal]]
+| caps9          = 0
+| goals9         = 0
+| nationalyears1 = 2016
+| nationalteam1  = [[Andorra national under-17 football team|Andorra U17]]
+| nationalcaps1  = 3
+| nationalgoals1 = 0
+| nationalyears2 = 2017–2018
+| nationalteam2  = [[Andorra national under-19 football team|Andorra U19]]
+| nationalcaps2  = 6
+| nationalgoals2 = 0
+| nationalyears3 = 2018–2022
+| nationalteam3  = [[Andorra national under-21 football team|Andorra U21]]
+| nationalcaps3  = 6
+| nationalgoals3 = 0
+| nationalyears4 = 2022–
+| nationalteam4  = [[Andorra national football team|Andorra]]
+| nationalcaps4  = 22
+| nationalgoals4 = 0
+| pcupdate       = 3 November 2025
+| ntupdate       = 17 November 2025
+}}
+'''Éric Vales Ramos''' (born 18 August 2000) is an Andorran [[Association football|footballer]] who plays as a [[Defender (association football)#Centre-back|centre-back]] for [[CE Casa de Portugal]] and the [[Andorra national football team|Andorra national team]].<ref>{{WorldFootball.net}}</ref>
+
+==International career==
+Vales made his international debut for [[Andorra national football team|Andorra]] on 16 November 2022, in a [[Exhibition game|friendly match]] against [[Austria national football team|Austria]].<ref name="EUF">{{cite web |url=https://eu-football.info/_player.php?id=32151 |title=Éric Vales |website=EU-Football.info |access-date=22 August 2023}}</ref>
+
+==Career statistics==
+===International===
+{{updated|17 November 2025|<ref name="EUF"/>}}
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=3|[[Andorra national football team|Andorra]]
+|-
+!Year!!Apps!!Goals
+|-
+|2022||1||0
+|-
+|2023||10||0
+|-
+|2024||7||0
+|-
+|2025||4||0
+|-
+!Total!!22!!0
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{LaPreferente}}
+* {{Soccerway}}
+
+{{DEFAULTSORT:Vales, Eric}}
+[[Category:2000 births]]
+[[Category:Living people]]
+[[Category:Footballers from Andorra la Vella]]
+[[Category:Andorran men's footballers]]
+[[Category:ND Bilje players]]
+[[Category:Grindavík (men's football) players]]
+[[Category:Tercera División players]]
+[[Category:Slovenian Second League players]]
+[[Category:Andorran expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:Expatriate men's footballers in Slovenia]]
+[[Category:Expatriate men's footballers in Iceland]]
+[[Category:Andorran expatriate sportspeople in Spain]]
+[[Category:Andorran expatriate sportspeople in Slovenia]]
+[[Category:Andorran expatriate sportspeople in Iceland]]
+[[Category:Andorra men's youth international footballers]]
+[[Category:Andorra men's under-21 international footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:Men's association football central defenders]]
+
+
+{{Andorra-footy-bio-stub}}

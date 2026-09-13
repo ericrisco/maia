@@ -1,0 +1,40 @@
+{{short description|Andorran trap shooter}}
+{{use dmy dates|date=November 2017}}
+{{Infobox sportsperson
+| name           = Joan Besoli Lluelles
+| birth_name     = 
+| full_name       = 
+| nickname       = 
+| nationality    = 
+| residence      = 
+| birth_date     = {{birth date and age|1959|9|17|df=yes}}
+| birth_place    = 
+| death_date     = 
+| death_place    = 
+| height         = 
+| weight         = 
+| website        = 
+| country        = 
+| sport          = [[Shooting sport|Sports shooting]]
+| event          = 
+| olympics       = 
+| highest_ranking = 
+| personal_best             = 
+| medal_templates = 
+| show_medals    = yes
+}}
+'''Joan Besoli Lluelles''' (born 17 September 1959) is an [[Andorra]]n [[trap shooter]] who competed in the [[1992 Summer Olympics]].<ref>{{cite web|title=Joan Besoli|url=https://www.sports-reference.com/olympics/athletes/be/joan-besoli-1.html|archive-url=https://web.archive.org/web/20200418120515/https://www.sports-reference.com/olympics/athletes/be/joan-besoli-1.html|url-status=dead|archive-date=18 April 2020|website=Olympics at Sports-Reference.com|accessdate=26 November 2017}}</ref>
+
+Besoli competed in the [[Shooting at the 1992 Summer Olympics – Trap|mixed trap]] shooting event at the [[1992 Summer Olympics]] and scored 140 hits in the qualification round, finishing in joint 29th place and failing to qualify for the semi-finals.<ref>{{cite web|title=Shooting at the 1992 Barcelona Summer Games: Mixed Trap|url=https://www.sports-reference.com/olympics/summer/1992/SHO/mixed-trap.html|archive-url=https://web.archive.org/web/20200418124616/https://www.sports-reference.com/olympics/summer/1992/SHO/mixed-trap.html|url-status=dead|archive-date=18 April 2020|website=Olympics at Sports-Reference.com|accessdate=26 November 2017}}</ref>
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Besoli, Joan}}
+[[Category:Shooters at the 1992 Summer Olympics]]
+[[Category:1959 births]]
+[[Category:Andorran male sport shooters]]
+[[Category:Olympic shooters for Andorra]]
+[[Category:Living people]]
+
+{{Andorra-sportshooting-bio-stub}}

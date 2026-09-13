@@ -1,0 +1,152 @@
+{{Short description|English chess grandmaster (born 1968)}}
+{{COI|date=September 2019}}
+{{Use dmy dates|date=May 2021}}
+{{Use British English|date=May 2012}}
+{{Infobox chess player
+|image = David Norwood 2012.jpg
+|name = David Norwood
+|caption = David Norwood (2012)
+|birth_name = David Robert Norwood
+|country = [[England]] (until 2011)<br> [[Andorra]] (since 2011)
+|birth_date = {{birth-date and age|3 October 1968}}
+|birth_place = [[Farnworth]], near [[Bolton]], [[Lancashire]], [[England]]
+|title = [[Grandmaster (chess)|Grandmaster]] (1989)
+|peak_rating = 2545 (July 1994)
+|FIDE_id = 400106
+}}
+
+'''David Robert Norwood''' (born 3 October 1968) is an English entrepreneur and philanthropist who is also a chess player - [[Grandmaster (chess)|grandmaster]], chess writer, former captain of the English chess team and has represented England and [[Andorra]] at chess.
+
+== Career ==
+The son of an electrician, Norwood graduated with a history degree from [[Keble College, Oxford]] in 1988 before joining city investment bank [[Bankers Investment Trust|Banker's Trust]] in 1991.
+
+Norwood cofounded Oxford Sciences Innovation, a £1.2bn investment firm creating science companies from Oxford University, and was its CEO from 2015 to 2019. Formerly he was founder of [[IP Group]] plc, a fund that invested in spinoffs from Oxford University's Chemistry department, in exchange for 50% of the revenues from the licensing of the department's intellectual property.<ref>{{Cite web|url=http://www.globaluniversityventuring.com/article.php/5830/personality-of-the-year-david-norwood|title=Personality of the year: David Norwood|date=23 May 2017|website=globaluniversityventuring.com|access-date=28 May 2018|archive-date=29 May 2018|archive-url=https://web.archive.org/web/20180529054020/http://www.globaluniversityventuring.com/article.php/5830/personality-of-the-year-david-norwood|url-status=dead}}</ref>
+
+In 2017, Norwood donated £1.9M to Keble College's future hub{{Webarchive|url=https://web.archive.org/web/20180426012126/http://www.keble.ox.ac.uk/about/news/David-Norwood-donates-1.9m |date=26 April 2018 }} for innovation at Oxford University.<ref>{{Cite web|url=http://www.keble.ox.ac.uk/about/news/David-Norwood-donates-1.9m|title=David Norwood donates £1.9m towards future home of innovation in Oxford University – Keble College|date=6 March 2017|website=keble.ox.ac.uk|language=en|access-date=25 April 2018|archive-date=26 April 2018|archive-url=https://web.archive.org/web/20180426012126/http://www.keble.ox.ac.uk/about/news/David-Norwood-donates-1.9m|url-status=dead}}</ref>
+
+== Chess ==
+[[FIDE]] awarded Norwood the [[International Master]] title in 1985 and the International Grandmaster title in 1989. He is less active as an over-the-board player these days, but maintains a strong interest in chess as a member of the [[Internet Chess Club]]. He has on a number of occasions captained, managed, or sponsored the England squad in major team events such as the [[Chess Olympiad]].
+
+Norwood has written several books including ''Winning with the Modern'' (the [[Modern Defence]] being a favorite [[opening (chess)|opening]] of his) and ''Steve Davis plays Chess'' (co-authored with [[Steve Davis]]). He has also written many articles on chess for ''[[The Daily Telegraph]]''.
+
+He also made a large donation in 2001 to the [[British Chess Federation]] to assist with the development of junior chess.
+
+{{clear}}
+
+===Illustrative games===
+
+In the following game, Norwood's [[hypermodernism (chess)|hypermodern]] opening leads to an old-fashioned [[Chess terminology#K|king hunt]]:
+
+Norwood-Marsh, Walsall 1992<ref>[http://www.chessgames.com/perl/chessgame?gid=1102717 David Norwood vs Sean Marsh (1992) "Marsh Mellow"] [[Chessgames.com]]</ref>
+
+{{div col|colwidth=22em}}
+1. g3 d5<br />
+2. Nf3 Nf6<br />
+3. Bg2 e6<br />
+4. O-O Be7<br />
+5. d3 c5<br />
+6. Nbd2 Nc6<br />
+7. e4 b6<br />
+8. e5 Nd7<br />
+9. Re1 Qc7<br />
+10. Qe2 Bb7<br />
+11. h4 O-O-O<br />
+12. a3 h6<br />
+13. h5 Rdg8<br />
+14. c4 d4<br />
+15. b4 g6<br />
+16. bxc5 bxc5<br />
+17. hxg6 Rxg6<br />
+18. Rb1 h5<br />
+19. Ne4 h4<br />
+20. Bg5 Bf8<br />
+21. Nxh4 Rgg8<br />
+22. Nf3 Rh7<br />
+23. Nd6+ Bxd6<br />
+24. exd6 Qxd6<br />
+25. Bf4 Qe7<br />
+26. Rxb7 Kxb7<br />
+27. Qe4 f5 (diagram below)<br />
+28. Qxc6+!! Kxc6<br />
+29. Nxd4+ Kb6<br />
+30. Rb1+ Ka6<br />
+31. Bb7+ Ka5<br />
+32. Bd2+ Ka4<br />
+33. Bc6+ Kxa3<br />
+34. Bc1+ Ka2<br />
+35. Rb2+ Ka1<br />
+36. Nc2# 1-0
+{{div col end}}
+
+{{Chess diagram
+|floatleft
+|Norwood vs. Marsh, Walsall 1992
+|  |  |  |  |  |  |rd|
+|pd|kd|  |nd|qd|  |  |rd
+|  |  |nd|  |pd|  |  |
+|  |  |pd|  |  |pd|  |
+|  |  |pl|pd|ql|bl|  |
+|pl|  |  |pl|  |nl|pl|
+|  |  |  |  |  |pl|bl|
+|  |  |  |  |rl|  |kl|
+|Position after 27...f5
+}}
+
+{{Chess diagram
+|floatleft
+|Norwood vs. Marsh, Walsall 1992
+|  |  |  |  |  |  |rd|
+|pd|  |  |nd|qd|  |  |rd
+|  |  |bl|  |pd|  |  |
+|  |  |pd|  |  |pd|  |
+|  |  |pl|  |  |  |  |
+|  |  |  |pl|  |  |pl|
+|  |rl|nl|  |  |pl|  |
+|kd|  |bl|  |  |  |kl|
+|Final position
+}}
+
+{{clear}}
+
+==Books==
+*{{cite book
+ | author=Norwood, David
+ | year=1991
+ | title=King's Indian Attack
+ | publisher=Trends Publications}}
+*{{cite book
+ | author=Norwood, David
+ | year=1995
+ | title=The Modern Benoni
+ | publisher=Cadogan
+ | isbn=91-976005-2-0}}
+*{{cite book
+ | author=Norwood, David
+ | year=1995
+ | title=Chess Puzzles
+ | publisher=Henry Holt and Company, Inc.
+ | isbn=0-8050-4226-1}}
+
+== References ==
+{{Reflist}}
+
+==External links==
+* {{FIDE}}
+* {{Chessgames.com player|15770}}
+
+{{English GMs}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Norwood, David}}
+[[Category:1968 births]]
+[[Category:Living people]]
+[[Category:English chess players]]
+[[Category:Chess Grandmasters]]
+[[Category:British chess writers]]
+[[Category:English sportswriters]]
+[[Category:Sportspeople from Farnworth]]
+[[Category:Alumni of Keble College, Oxford]]
+[[Category:Andorran chess players]]
+[[Category:English expatriate sportspeople in Germany]]
+[[Category:Andorran expatriate sportspeople]]

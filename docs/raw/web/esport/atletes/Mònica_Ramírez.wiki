@@ -1,0 +1,52 @@
+{{Short description|Andorran swimmer (born 1993)}}
+{{for|the activist, author and civil rights attorney|Mónica Ramírez (activist)}}
+{{Use dmy dates|date=May 2021}}
+{{Infobox sportsperson
+| full_name = Mònica Ramírez Abella
+| birth_date = {{birth date and age|df=y|1993|12|27}}
+| birth_place = [[Escaldes-Engordany]], Andorra 
+| height = 170 cm
+| weight = 55 kg
+| country = {{AND}}
+| sport = Swimming
+| team = 
+| medal_templates = 
+{{MedalSport | Women's [[swimming (sport)|swimming]]}}
+{{MedalCountry | {{AND}} }}
+{{MedalCompetition|[[Games of the Small States of Europe]]}}
+{{MedalSilver|[[2011 Games of the Small States of Europe|2011 Liechtenstein]]|[[Swimming at the 2011 Games of the Small States of Europe|100&nbsp;m backstroke]]}}
+{{MedalSilver|[[2011 Games of the Small States of Europe|2011 Liechtenstein]]|[[Swimming at the 2011 Games of the Small States of Europe|200&nbsp;m backstroke]]}}
+{{MedalBronze|[[2017 Games of the Small States of Europe|2017 San Marino]]|[[Swimming at the 2017 Games of the Small States of Europe|200&nbsp;m backstroke]]}}
+{{MedalBronze|[[2019 Games of the Small States of Europe|2019 Budva]]|[[Swimming at the 2019 Games of the Small States of Europe|50&nbsp;m backstroke]]}}
+{{MedalBronze|[[2019 Games of the Small States of Europe|2019 Budva]]|[[Swimming at the 2019 Games of the Small States of Europe|100&nbsp;m backstroke]]}}
+}}
+
+'''Mònica Ramírez Abella'''{{family name footnote|lang=Catalan|Ramírez|Abella}} (born 27 December 1993 in [[Escaldes-Engordany]]) is an Andorran swimmer.<ref>{{cite web |url=http://www.juegosenlondres2012.com/atletas/monica-ramirez-abella.html |title=Atletas Juegos Olímpicos Londres 2012 ( Natación ) |website=JuegosEnLondres2012.com |archive-url=https://web.archive.org/web/20120730134847/http://www.juegosenlondres2012.com/atletas/monica-ramirez-abella.html |archive-date=2012-07-30 |quote=Mónica Ramírez Abella - Atleta de Andorra, nació en Escaldes Engordany (Andorra) el 27/12/1993}}</ref><ref>{{cite web |url=http://www.london2012.com/ |title=London2012.com |archive-url=http://webarchive.nationalarchives.gov.uk/20130228114959/http://www.london2012.com/ |archive-date=2013-02-28}}</ref> She competed at the [[2012 Summer Olympics]] in the [[Swimming at the 2012 Summer Olympics – Women's 100 metre backstroke|Women's 100 metre backstroke]], finishing in 42nd place in the heats, failing to qualify for the semifinals.<ref>{{Cite web |url=https://www.olympicchannel.com/en/athletes/detail/monica-ramirez-abella/ |title=Monica RAMIREZ ABELLA |website=Olympic Channel |access-date=2020-03-02 |url-status=}}{{deadlink|date=September 2023}}</ref><ref name="SR">{{cite Sports-Reference}}</ref> She also competed in the [[Swimming at the 2013 World Aquatics Championships – Women's 50 metre freestyle|50 m freestyle event]] at the [[2013 World Aquatics Championships]].
+
+In 2019, she won [[Swimming at the 2019 Games of the Small States of Europe|two bronze medals]] at the [[2019 Games of the Small States of Europe]] held in Budva, Montenegro.<ref name="swimming_medalists_games_small_states_of_europe_2019">{{Cite web |url=http://www.serbia-swim.org.rs/live/2019/mne-2019/MedalsByEvent.pdf |title=Swimming Medalists |website=2019 Games of the Small States of Europe |access-date=27 July 2020 |url-status=dead |archive-url=https://web.archive.org/web/20200727230855/http://www.serbia-swim.org.rs/live/2019/mne-2019/MedalsByEvent.pdf |archive-date=27 July 2020}}</ref>
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{FINA|name=Monica RAMIREZ ABELLA}}
+* {{Olympics.com|name=Monica RAMIREZ ABELLA|org_archive=20161005184048}}
+* {{Olympedia}}
+
+{{DEFAULTSORT:Ramirez, Monica}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:Andorran female swimmers]]
+[[Category:Female backstroke swimmers]]
+[[Category:Olympic swimmers for Andorra]]
+[[Category:Swimmers at the 2012 Summer Olympics]]
+[[Category:Mediterranean Games competitors for Andorra]]
+[[Category:Swimmers at the 2009 Mediterranean Games]]
+[[Category:Swimmers at the 2013 Mediterranean Games]]
+[[Category:Swimmers at the 2018 Mediterranean Games]]
+[[Category:Swimmers at the 2022 Mediterranean Games]]
+
+{{Andorra-swimming-bio-stub}}

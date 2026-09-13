@@ -1,0 +1,82 @@
+{{short description|Andorran snowboarder}}
+{{Use dmy dates|date=April 2021}}
+{{Infobox sportsperson
+| name             = Lluís Marín
+| image            = Lluís Marin Tarroch 2010 opening ceremony.jpg
+| caption          = Marín carrying the Andorran flag at the [[2010 Winter Olympics opening ceremony]]
+| full_name        = Lluís Marín Tarroch
+| birth_date       = {{birth date and age|1988|10|12|df=y}}
+| birth_place      = [[Andorra la Vella]], Andorra
+| education        = 
+| alma_mater       = 
+| occupation       = 
+| years_active     = 
+| employer         = 
+| agent            = 
+| height           = 6 ft 1 in
+| weight           = 187 lb
+| spouse           = 
+| life_partner     = 
+| other_interests  = 
+| website          = 
+| country          = [[Andorra]]
+| sport            = [[Snowboarding]]
+| rank             = 
+| event            = 
+| collegeteam      = 
+| universityteam   = 
+| league           = 
+| league_type      = 
+| club             = 
+| team             = 
+| turnedpro        = 
+| partner          = 
+| former_partner   = 
+| coach            = 
+| retired          = 
+| coaching         = 
+| worlds           = 
+| regionals        = 
+| nationals        = 
+| olympics         = 
+| paralympics      = 
+| highestranking   = 
+| pb               = 
+| show-medals      = 
+| medaltemplates   =
+}}
+
+'''Lluís Marín Tarroch'''{{family name footnote|lang=Catalan|Marín|Tarroch}} (born 12 October 1988) is an Andorran [[snowboarder]]. He competed for Andorra in snowboard cross at the [[Andorra at the 2010 Winter Olympics|2010]], [[Andorra at the 2014 Winter Olympics|2014]], and [[Andorra at the 2018 Winter Olympics|2018]] Winter Olympics.<ref>{{Cite web |url=http://www.vancouver2010.com/olympic-snowboard/athletes/lluis-marin-tarroch_ath1013563Lx.html |title=Vancouver 2010 Profile |access-date=13 February 2010 |archive-date=9 April 2010 |archive-url=https://web.archive.org/web/20100409025158/http://www.vancouver2010.com/olympic-snowboard/athletes/lluis-marin-tarroch_ath1013563Lx.html |url-status=live }}</ref> Marin was Andorra's flag bearer during the [[2010 Winter Olympics opening ceremony]].<ref>[http://www.coa.ad/ Tarroch named 2010 flagbearer.] {{Webarchive|url=https://web.archive.org/web/20000817092845/http://www.coa.ad/ |date=17 August 2000 }} – accessed 11 February 2010.</ref> In 2010, Tarroch failed to qualify for the head-to-head rounds of his event after falling in one of his runs and ended up in 34th place.<ref>[http://www.vancouver2010.com/olympic-snowboard/schedule-and-results/mens-snowboard-cross-qualification_sbm490900Im.html Men's Snowboard Cross – Official Qualifying] {{webarchive|url=https://web.archive.org/web/20100513204647/http://www.vancouver2010.com/olympic-snowboard/schedule-and-results/mens-snowboard-cross-qualification_sbm490900Im.html |date=13 May 2010 }}</ref>
+
+Marín Tarroch twice finished 3rd in the World Cup: on [[2011–12 FIS Snowboard World Cup|16 March 2012]] in Italian [[Chiesa in Valmalenco|Valmalenco]] and on [[2015–16 FIS Snowboard World Cup|24 January 2016]] in German [[Feldberg, Baden-Württemberg|Feldberg]].
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{Reflist}}
+== External links ==
+* {{Olympedia|119593|Lluís Marín}}
+* {{Olympics.com|lluis-marin-tarroch|Lluis MARIN TARROCH|org_archive=20210422152627}}
+* {{FIS snowboarder|109201|Lluis MARIN TARROCH}}
+{{Authority control}}
+{{s-start}}
+{{s-sports|oly}}
+{{succession box
+| before = [[Montserrat García]]
+| title = [[List of flag bearers for Andorra at the Olympics|Flag bearer]] for {{AND}}
+| years = [[2010 Winter Olympics|Vancouver 2010]]
+| after = [[Joan Tomàs Roca]]
+}}
+{{s-end}}
+{{DEFAULTSORT:Marin, Lluis}}
+[[Category:1988 births]]
+[[Category:Living people]]
+[[Category:Andorran male snowboarders]]
+[[Category:Olympic snowboarders for Andorra]]
+[[Category:Snowboarders at the 2010 Winter Olympics]]
+[[Category:Snowboarders at the 2014 Winter Olympics]]
+[[Category:Snowboarders at the 2018 Winter Olympics]]
+
+{{Andorra-sport-bio-stub}}
+{{Snowboarding-bio-stub}}

@@ -1,0 +1,41 @@
+{{short description|Andorran sailor}}
+{{use dmy dates|date=December 2017}}
+{{Infobox sportsperson
+| name           = David Ramón Borra
+| birth_name     = 
+| full_name       = 
+| nickname       = 
+| nationality    = 
+| residence      = 
+| birth_date     = {{birth date and age|1974|4|13|df=yes}}
+| birth_place    = [[El Pas de la Casa]], Andorra
+| death_date     = 
+| death_place    = 
+| height         = 
+| weight         = 
+| website        = 
+| country        = {{AND}}
+| sport          = [[Sailing (sport)]]
+| event          = [[470 (dinghy)]]
+| olympics       = 
+| highest_ranking = 
+| personal_best             = 
+| medal_templates = 
+| show_medals    = yes
+}}
+'''David Ramón Borra''' (born 13 April 1974) is an [[Andorra]]n sailor who competed in the [[1992 Summer Olympics]] and the [[1996 Summer Olympics]].<ref>{{cite web|title=David Ramon|url=https://www.sports-reference.com/olympics/athletes/ra/david-ramon-1.html|archive-url=https://web.archive.org/web/20200418091016/https://www.sports-reference.com/olympics/athletes/ra/david-ramon-1.html|url-status=dead|archive-date=18 April 2020|website=Olympics at Sports-Reference.com|accessdate=1 December 2017}}</ref>
+
+David Ramón competed in the two man [[470 (dinghy)]] class with his older brother [[Oscar Ramón]] in both Olympics, at the [[1992 Summer Olympics]] in the [[Sailing at the 1992 Summer Olympics – Men's 470|470 class]] the pair finished in 27th place after all seven races, their best finish was 2nd place in race five.<ref>{{cite web|title=Sailing at the 1992 Barcelona Summer Games: Men's Two Person Dinghy|url=https://www.sports-reference.com/olympics/summer/1992/SAI/mens-two-person-dinghy.html|archive-url=https://web.archive.org/web/20200417185452/https://www.sports-reference.com/olympics/summer/1992/SAI/mens-two-person-dinghy.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|accessdate=1 December 2017}}</ref> Four years later again in the [[Sailing at the 1996 Summer Olympics – Men's 470|470 class]] the brothers finished again in 27th place at the [[1996 Summer Olympics]].<ref>{{cite web|title=Sailing at the 1996 Atlanta Summer Games: Men's Two Person Dinghy|url=https://www.sports-reference.com/olympics/summer/1996/SAI/mens-two-person-dinghy.html|archive-url=https://web.archive.org/web/20200417185253/https://www.sports-reference.com/olympics/summer/1996/SAI/mens-two-person-dinghy.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|accessdate=1 December 2017}}</ref>
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Ramon, David}}
+[[Category:Sailors at the 1992 Summer Olympics – 470]]
+[[Category:Sailors at the 1996 Summer Olympics – 470]]
+[[Category:1971 births]]
+[[Category:Living people]]
+[[Category:Andorran male sailors (sport)]]
+[[Category:Olympic sailors for Andorra]]
+
+{{Andorra-yachtracing-bio-stub}}

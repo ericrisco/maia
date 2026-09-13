@@ -1,0 +1,59 @@
+{{short description|Andorran football player|bot=PearBOT 5}}
+{{Use dmy dates|date=July 2023}}
+{{Infobox football biography
+|name=David Buxo
+|image=
+|fullname=
+|birth_date ={{birth date and age|df=yes|1981|6|16}}<ref>{{cite web |title=David Buxo |url=https://www.worldfootball.net/person/pe46845/david-buxo/ |website=worldfootball.net |publisher=HEIM:SPIEL Medien GmbH & Co. KG |access-date=24 April 2024 |language=en}}</ref>
+|birth_place=[[Andorra]]
+|death_date =
+|height=
+|position=[[Midfielder]]
+|currentclub=[[FC Andorra]]
+|clubnumber=
+|youthyears1=
+|youthclubs1=
+|years1=2000–
+|clubs1=[[FC Andorra]]
+|caps1=  | goals1 =
+|nationalyears1=1999–2003
+|nationalteam1=[[Andorra national football team|Andorra]]
+|nationalcaps1= 3 | nationalgoals1 = 0
+|manageryears1=
+|managerclubs1=
+}}
+'''David Buxo''' (born 16 June 1981) is an [[Andorra]]n [[Association football|football]] player. He has played for [[Andorra national football team|Andorra national team]].
+
+==National team statistics==
+{| class="wikitable" style="text-align:center"
+! colspan=3 | [[Andorra national football team|Andorra national team]]
+|-
+!Year!!Apps!!Goals
+|-
+|-
+|1999||1||0
+|-
+|2000||1||0
+|-
+|2001||0||0
+|-
+|2002||0||0
+|-
+|2003||1||0
+|-
+!Total||3||0
+|}
+
+==References==
+{{Reflist}}
+*{{NFT player|pid=174}}
+
+{{DEFAULTSORT:Buxo, David}}
+[[Category:1981 births]]
+[[Category:Living people]]
+[[Category:Andorran men's footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Andorra men's international footballers]]
+
+
+{{Andorra-footy-bio-stub}}

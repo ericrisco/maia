@@ -1,0 +1,61 @@
+{{short description|Andorran footballer (born 1987)}}
+{{Multiple issues|
+{{BLP sources|date=February 2015}}
+{{more footnotes needed|date=February 2015}}
+}}
+{{family name hatnote|Rodríguez|Soria|lang=Catalan}}
+{{Use dmy dates|date=March 2022}}
+{{Infobox football biography
+| name                = Víctor Rodríguez
+| image               = Andorra national football team - Victor Rodríguez (001).jpg
+| caption             = Rodríguez in the [[Andorra national football team]] in 2016
+| fullname            = Víctor Rodríguez Soria
+| birth_date          = {{birth date and age|1987|9|7|df=y}}
+| birth_place         = [[Santa Coloma d'Andorra|Santa Coloma]], Andorra
+| height              = 
+| position            = [[Defender (association football)|Defender]]
+| years1              = 2005–2010
+| clubs1              = [[FC Santa Coloma]]
+| caps1               = 
+| goals1              = 
+| years2              = 2010–2015
+| clubs2              = [[UE Santa Coloma]]
+| caps2               = 
+| goals2              = 
+| years3              = 2015–2019
+| clubs3              = [[FC Santa Coloma]]
+| caps3               = 117
+| goals3              = 14
+| years4              = 2019–2020
+| clubs4              = [[UE Engordany]]
+| caps4               = 18
+| goals4              = 1
+| nationalyears1      = 2008–2019
+| nationalteam1       = [[Andorra national football team|Andorra]]
+| nationalcaps1       = 30
+| nationalgoals1      = 0
+}}
+'''Víctor Rodríguez Soria''' (born 7 September 1987) is an Andorran retired international [[Association football|footballer]] who played as a [[Defender (association football)|defender]]. Rodríguez made his international debut in 2008.
+
+==Career==
+On 6 September 2015, in a 3–0 away loss to [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]] in [[UEFA Euro 2016 qualifying]], [[Muhamed Bešić]] threw his [[chewing gum]] at Rodríguez, who retaliated; both were given straight red cards.<ref>{{cite news|last1=Nightingale|first1=Tom|title=Result: Bosnia-Herzegovina cruise past Andorra|url=https://www.sportsmole.co.uk/football/bosnia-and-herzegovina/euro-2016/result/result-bosnia-herzegovina-cruise-past-andorra_244529.html|accessdate=6 September 2015|publisher=Sports Mole|date=6 September 2015}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{NFT player|pid=25291}}
+*[https://www.lapreferente.com/J240841C10037/ue-engordany/victor.html Víctor Rodríguez] at La Preferente
+
+{{DEFAULTSORT:Rodriguez, Victor}}
+[[Category:1987 births]]
+[[Category:Living people]]
+[[Category:Andorran men's footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:Men's association football defenders]]
+[[Category:FC Santa Coloma players]]
+[[Category:UE Santa Coloma players]]
+[[Category:UE Engordany players]]
+[[Category:Primera Divisió players]]
+
+{{Andorra-footy-bio-stub}}

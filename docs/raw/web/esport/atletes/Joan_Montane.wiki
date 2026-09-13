@@ -1,0 +1,43 @@
+{{short description|Andorran boxer}}
+{{Infobox boxer (amateur)
+| name           = Joan Montane
+| full_name      = Joan Claudi Montane Delneufcourt
+| nationality    = Andorran
+| birth_date     = {{birth date and age|1955|09|18|df=yes}}
+| birth_place    = 
+| death_date     = 
+| death_place    = 
+| height         = 1.85 m
+| weight         = 80 kg
+| weight_class   = [[Light heavyweight]]
+| club           = 
+| medal_templates =
+}}
+
+'''Joan Claudi Montane Delneufcourt'''{{family name footnote|lang=Catalan|Montane|Delneufcourt}} (born 18 September 1955) is an [[Andorra]]n former boxer who represented his country at the [[1976 Summer Olympics]].<ref name="bio">{{cite Sports-Reference |title=Joan Claudi Montane |url=https://www.sports-reference.com/olympics/athletes/mo/joan-claudi-montane-1.html |access-date=16 November 2017 |url-status=dead |archive-url=https://web.archive.org/web/20200418123805/https://www.sports-reference.com/olympics/athletes/mo/joan-claudi-montane-1.html |archive-date=18 April 2020 |quote=Full name: Joan Claudi Montane Delneufcourt}}</ref>
+
+Montane was 20 years old when he competed in [[boxing at the 1976 Summer Olympics]] as a [[light heavyweight]]. In the first round of bouts he received a victory by [[walkover]]. In the second round he was up against the East German [[Ottomar Sachse]], to whom he lost when the contest was stopped in the third round.<ref name="bio" />
+
+==1976 Olympic results==
+* Round of 32: defeated Gabriel Daramole (Nigeria) by walkover
+* Round of 16: lost to Ottomar Sachse (East Germany); referee stopped contest in third round
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Olympedia|3295|Joan Claudi Montane}}
+* {{Olympics.com|joan-claudi-montane-delneufcourt|Joan Claudi MONTANE DELNEUFCOURT}}
+
+{{DEFAULTSORT:Montane, Joan}}
+[[Category:1955 births]]
+[[Category:Living people]]
+[[Category:Andorran male boxers]]
+[[Category:Light-heavyweight boxers]]
+[[Category:Olympic boxers for Andorra]]
+[[Category:Boxers at the 1976 Summer Olympics]]
+
+{{Andorra-boxing-bio-stub}}

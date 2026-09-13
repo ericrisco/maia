@@ -1,0 +1,47 @@
+{{short description|Andorran footballer}}
+{{Distinguish|Alexandre Martínez Palau}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name           = Alexandre Martínez
+| image          = Alexandre Martínez 2011.jpg
+| caption        = Martínez in 2011
+| full_name      = Alexandre Rubén Martínez Gutiérrez<ref name="nft"/>
+| birth_date     = {{birth date and age|1987|03|04|df=y}}
+| height         = 1.72 m<ref name="nft"/>
+| position       = [[Defender (association football)|Defender]]
+| currentclub    = 
+| years1         = 2003–2005
+| clubs1         = [[UE Sant Julià|Sant Julià]]
+| caps1          = 
+| goals1         = 
+| years2         = 2005–2007
+| clubs2         = [[FC Andorra|Andorra]]
+| caps2          = 37
+| goals2         = 0
+| years3         = 2009–2021
+| clubs3         = [[UE Santa Coloma]]
+| caps3          = 
+| goals3         = 
+| nationalyears1 = 2010–2012
+| nationalteam1  = [[Andorra national football team|Andorra]]
+| nationalcaps1  = 7
+| nationalgoals1 = 0
+}}
+
+'''Alexandre Rubén Martínez Gutiérrez''' (born 4 March 1987) is an Andorran former [[association football|footballer]] who played as a [[defender (association football)|defender]]. He earned seven caps for the [[Andorra national football team|Andorra national team]], having made his international debut in 2010.<ref name="nft">{{NFT player|38600|name=Alexandre Martínez}}</ref>
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Martinez, Alexandre}}
+[[Category:1987 births]]
+[[Category:Living people]]
+[[Category:Andorran men's footballers]]
+[[Category:Men's association football defenders]]
+[[Category:Andorra men's international footballers]]
+[[Category:Primera Divisió players]]
+[[Category:UE Sant Julià players]]
+[[Category:FC Andorra players]]
+[[Category:UE Santa Coloma players]]
+
+{{Andorra-footy-bio-stub}}

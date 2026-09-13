@@ -1,0 +1,46 @@
+{{short description|Andorran middle-distance runner}}
+{{use dmy dates|date=November 2017}}
+{{Infobox sportsperson
+| name        = Silvia Felipo
+| image       = 
+| caption     = 
+| nationality = Andorran
+| full_name   = Silvia Felipo Suñe
+| birth_date  = {{birth date and age|1967|2|4|df=yes}}
+| birth_place = [[Barcelona]], Spain
+| death_date  = 
+| death_place = 
+| height      = 162 cm
+| weight      = 
+| country     = Andorra
+| sport       = Middle-distance running
+| event       = 1500 metres
+| club        = 
+}}
+
+'''Silvia Felipo Suñe'''{{family name footnote|lang=Catalan|Felipo|Suñe}} (born 4 February 1967) is an Andorran [[middle-distance running|middle-distance runner]]. She competed in the [[1500 metres]] at the [[2000 Summer Olympics]] and the [[2004 Summer Olympics]].<ref name="SportsRef">{{cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/fe/silvia-felipo-1.html |title=Silvia Felipo |access-date=4 November 2017 |url-status=dead |archive-url=https://web.archive.org/web/20161203043620/http://www.sports-reference.com/olympics/athletes/fe/silvia-felipo-1.html |archive-date=3 December 2016 |quote=Full name: Silvia Felipo Suñe}}</ref>
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{sports links}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Felipo, Silvia}}
+[[Category:1967 births]]
+[[Category:Living people]]
+[[Category:Andorran women middle-distance runners]]
+[[Category:Olympic athletes for Andorra]]
+[[Category:Athletes (track and field) at the 2000 Summer Olympics]]
+[[Category:Athletes (track and field) at the 2004 Summer Olympics]]
+[[Category:European Games competitors for Andorra]]
+[[Category:Athletes (track and field) at the 2015 European Games]]
+[[Category:Place of birth missing (living people)]]
+
+
+{{Andorra-athletics-bio-stub}}

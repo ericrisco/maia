@@ -1,0 +1,94 @@
+{{short description|Association football player (born 1983)}}
+{{Use dmy dates|date=July 2023}}
+{{Infobox football biography
+|name           = Sebastián Gómez
+|image          = Sebastià Gómez 2011.jpg
+|image_size     = 180
+|caption        = Gómez playing for [[Andorra national football team|Andorra]] in 2011
+|fullname       = Sebastián Gómez Pérez<ref name = "NFT"/>
+|birth_date     = {{birth date and age|1983|11|1|df=y}}
+|birth_place    = [[Murcia]], Spain<ref name=YT>{{Youtube|id=grJLvGn2HUg?t=134|title=Charlas Charruas: Sebastian Gomez (Uruguayo en Andorra)}}</ref>
+|height         = 1.76m<ref name = "NFT"/>
+|position       = [[Midfielder#Winger|Left winger]]
+|currentclub    = [[CF Atlètic Amèrica|Atlètic Amèrica]]
+|clubnumber     = 19
+|youthyears1    = 
+|youthclubs1    = [[C.S.D. Villa Española|Villa Española]]
+|years1         = 2003–2007
+|clubs1         = [[FC Santa Coloma]]
+|caps1          = 
+|goals1         = 
+|years2         = 2007–2008
+|clubs2         = [[CE Principat|Principat]]
+|caps2          = 
+|goals2         = 
+|years3         = 2008–2009
+|clubs3         = [[FC Rànger's|Rànger's]]
+|caps3          = 
+|goals3         = 
+|years4         = 2009–2012
+|clubs4         = [[UE Sant Julià|Sant Julià]]
+|caps4          = 
+|goals4         = 
+|years5         = 2012–2017
+|clubs5         = [[FC Andorra]]
+|caps5          = 158
+|goals5         = 16
+|years6         = 2017–2023
+|clubs6         = [[UE Engordany]]
+|caps6          = 132
+|goals6         = 24
+|years7         = 2023–
+|clubs7         = [[CF Atlètic Amèrica|Atlètic Amèrica]]
+|caps7          = 17
+|goals7         = 1
+|nationalyears1 = 2008–
+|nationalteam1  = [[Andorra national football team|Andorra]]
+|nationalcaps1  = 32
+|nationalgoals1 = 0
+|club-update    = 29 March 2024
+|ntupdate       = 16 April 2023
+}}
+{{family name hatnote|Gómez|Pérez|lang=Spanish}}
+'''Sebastián Gómez Pérez''' (born 1 November 1983) is a [[association football|footballer]] who plays as a [[Midfielder#Winger|left winger]] for [[Primera Divisió]] club [[CF Atlètic Amèrica|Atlètic Amèrica]].<ref>{{Soccerway|sebastian-gomez-perez/248785}}</ref>
+
+A Uruguayan national born in Spain while his father played football there,<ref name=YT/> he represents [[Andorra national football team|Andorra]] at international level.
+
+==Early life==
+Gómez was born to Uruguayan parents in [[Murcia]], Spain in 1983. At the time, his footballer father was playing there and would move to Andorra some time later. He spent part of his childhood in Andorra and his family moved back to Uruguay when he was still very young.<ref name=YT/>
+
+==Career==
+Gómez started playing [[:es:Baby fútbol|''baby fútbol'']] in Deportivo Uruguayo. He transitioned to traditional football during his youth and played for [[C.S.D. Villa Española|CSD Villa Española]]. At 18, he was relocated once again to Andorra<ref name=YT/> and has played for [[FC Santa Coloma]], [[CE Principat|Principat]], [[FC Rànger's|Rànger's]], [[UE Sant Julià|Sant Julià]], [[FC Andorra]] and [[UE Engordany]].<ref name = "NFT">{{NFT player|pid=38591|accessdate=16 November 2018}}</ref>
+
+==International career==
+Gómez made his international debut for [[Andorra national football team|Andorra]] in 2008.<ref name = "NFT"/>
+
+==References==
+{{reflist}}
+
+
+{{DEFAULTSORT:Gomez, Sebastian}}
+[[Category:1983 births]]
+[[Category:Living people]]
+[[Category:Men's association football wingers]]
+[[Category:Footballers from Murcia]]
+[[Category:Uruguayan men's footballers]]
+[[Category:Villa Española players]]
+[[Category:Uruguayan emigrants to Andorra]]
+[[Category:Naturalised citizens of Andorra]]
+[[Category:Andorran men's footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:Andorran people of Uruguayan descent]]
+[[Category:Sportspeople of Uruguayan descent]]
+[[Category:FC Santa Coloma players]]
+[[Category:CE Principat players]]
+[[Category:FC Rànger's players]]
+[[Category:UE Sant Julià players]]
+[[Category:FC Andorra players]]
+[[Category:UE Engordany players]]
+[[Category:CF Atlètic Amèrica players]]
+[[Category:21st-century Uruguayan sportsmen]]
+
+
+{{Andorra-footy-bio-stub}}
+{{Uruguay-footy-forward-1980s-stub}}

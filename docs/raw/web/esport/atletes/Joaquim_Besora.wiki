@@ -1,0 +1,73 @@
+{{short description|Spanish-born Andorran footballer}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name     = Joaquim Besora
+| image          = Quim Salvat.jpg
+| caption        = Quim Salvat in 2026
+| fullname       = Joaquim Salvat Besora
+| birth_date    = {{birth date and age|1980|12|18|df=y}}
+| birth_place = [[La Selva del Camp]], [[Spain]]
+| height         = 
+| position       = [[Forward (association football)|Forward]]
+| currentclub    = 
+| clubnumber     = 
+| years1         = 2008–2012
+| clubs1         = [[UE Sant Julià|Sant Julià]]
+| caps1          = 
+| goals1         = 
+| years2         = 2012–2014
+| clubs2         = [[UE Santa Coloma|Santa Coloma]]
+| caps2          = 42
+| goals2         = 6
+| years3         = 2014–2015
+| clubs3         = [[FC Encamp|Encamp]]
+| caps3          = 7
+| goals3         = 1
+| years4         = 2015–2016
+| clubs4         = [[Inter Club d'Escaldes]]
+| caps4          = 
+| goals4         = 
+| years5         = 2018–2019
+| clubs5         = [[Penya Encarnada d'Andorra|Encarnada d'Andorra]]
+| caps5          = 
+| goals5         = 
+| years6         = 2019
+| clubs6         = [[FS La Massana|La Massana]]
+| caps6          = 
+| goals6         = 
+| nationalyears1 = 2011
+| nationalteam1  = [[Andorra national football team|Andorra]]
+| nationalcaps1  = 1
+| nationalgoals1 = 0
+| club-update    = 
+| ntupdate       = 
+}}
+
+'''Joaquim Salvat Besora''' (born 18 December 1980) is a former [[Spain|Spanish]]-born [[Andorra]]n international [[association football|footballer]] and former [[futsal]] player<ref>[https://www.lnfs.es/Clubs/Jugadores/temp05-06/28/2971/488/SicorisGrupConfort.html] {{in lang|es}}</ref> who played as a [[Forward (association football)|forward]].
+
+He made his international debut for the [[Andorra national football team]] in 2011.<ref>{{NFT player|pid=43463|name=Quim Besora}}</ref>
+
+==Music==
+Following his retirement from football, he centered his efforts on his musical career, performing under the stage name '''Quim Salvat'''. He achieved widespread musical recognition after winning the 14th Carles Sabater Award for best song in [[Catalan language]], presented by the "Centre de Cultura Catalana" for his solidarity single "Gràcies." His musical style blends traditional [[singer-songwriter]] storytelling with contemporary rock elements, featured in studio albums like ''El meu granet de sorra'' and ''L'últim despertar''.<ref>{{ca}} [https://www.jambostreetmusic.com/artistes/quim-salvat QUIM SALVAT]. Jambo Street Music.</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{UEFA player|250020340}}
+* [https://open.spotify.com/intl-es/artist/2z0JLf7CAItrArugZge23I Quim Salvat in Spotify]
+
+{{DEFAULTSORT:Besora, Joaquim Salvat}}
+[[Category:1980 births]]
+[[Category:Living people]]
+[[Category:People from Baix Camp]]
+[[Category:Footballers from the Province of Tarragona]]
+[[Category:Andorran men's futsal players]]
+[[Category:Andorran men's footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:Andorran singers]]
+[[Category:Spanish emigrants to Andorra]]
+[[Category:Men's association football forwards]]
+
+{{Andorra-footy-bio-stub}}
+{{futsal-bio-stub}}

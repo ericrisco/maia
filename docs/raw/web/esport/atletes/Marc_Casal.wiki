@@ -1,0 +1,65 @@
+{{short description|Andorran figure skater}}
+{{Infobox figure skater
+|name= Marc Casal
+|image=
+|caption=
+|country= {{AND}}
+|birth_date= {{Birth date and age|1987|8|13}}
+|height= 167 cm
+|coach= [[Andrei Efremov]]
+|skating_club= Orient Club Sez, Canillo
+|retired= 
+}}
+
+'''Marc Casal''' (born August 13, 1987, in [[Canillo]], [[Andorra]]) is an [[Andorra]]n [[figure skater]]. He is the 2004 Andorran national champion and three time junior national champion. Along with [[Melissandre Fuentes]], he was the first skater to represent Andorra in an ISU Championship, which they both achieved at the [[2002 World Junior Figure Skating Championships]].
+
+== Competitive highlights ==
+''JGP: [[ISU Junior Grand Prix|Junior Grand Prix]]''
+
+{|  class="wikitable" style="text-align:center"
+|-
+! style="background-color: #ffdead; " colspan=5 align=center | International
+|-
+! Event
+! 00-01
+! 01-02
+! 02-03
+! 03-04
+|-
+| align=left | [[World Junior Figure Skating Championships|Junior Worlds]] || || 39th || 41st || 39th
+|-
+| align=left | {{small|JGP}} [[ISU Junior Grand Prix in Croatia|Croatia]] || || || || 15th
+|-
+| align=left | {{small|JGP}} [[ISU Junior Grand Prix in Mexico|Mexico]] || || || || 21st
+|-
+| align=left | {{small|JGP}} [[ISU Junior Grand Prix in the United States|U.S.]] || || || 14th ||
+|-
+| align=left | [[Figure skating at the European Youth Olympic Festival|EYOF]] || || || 18th J ||
+|-
+| align=left | [[Triglav Trophy]] || || 6th J || 19th J ||
+|-
+| align=left | Trofeo Rita Trapanese || || 28th J || ||
+|-
+! style="background-color: #ffdead; " colspan=5 align=center | International: Novice 
+|-
+| align=left | DSU Cup || 6th || || ||
+|-
+! style="background-color: #ffdead; " colspan=5 align=center | National
+|-
+| align=left | Andorran Champ. || bgcolor=gold | 1st  J || bgcolor=gold | 1st  J || bgcolor=gold | 1st  J || bgcolor=gold | 1st 
+|-
+| colspan=5 align=center | <small> Levels: N = Novice, J = Junior; WD = Withdrew </small>
+|}
+
+==External links==
+* {{ISU figure skater|00005472|Marc Casal}}
+
+{{DEFAULTSORT:Casal, Marc}}
+[[Category:1987 births]]
+[[Category:Living people]]
+[[Category:Andorran figure skaters]]
+[[Category:People from Canillo]]
+
+
+{{Andorra-sport-bio-stub}}
+{{europe-figure-skating-bio-stub}}

@@ -1,0 +1,137 @@
+{{Short description|Andorran footballer (1982–2022)}}
+{{Use dmy dates|date=August 2021}}
+{{Infobox football biography
+| name = Daniel Mejías
+| image = Daniel Mejias.jpg
+| caption = Mejías with [[Andorra national football team|Andorra]]
+| fullname = Daniel Mejías Hurtado
+| birth_date = {{birth date|1982|7|26|df=y}}
+| birth_place = [[Barcelona]], Spain
+| death_date = {{death date and age|2022|11|8|1982|7|26|df=y}}
+| height = 
+| position = [[Midfielder]]
+| youthyears1 = 
+| youthclubs1 = [[FC Barcelona|Barcelona]]
+| years1 = 2000
+| clubs1 = [[FC Barcelona C|Barcelona C]]
+| caps1 = 1
+| goals1 = 0
+| years2 = 2000–2001
+| clubs2 = [[Sporting de Gijón B|Sporting Gijón B]]
+| caps2 = 
+| goals2 = 
+| years3 = 2001–2002
+| clubs3 = [[UD Montijo|Montijo]]
+| caps3 = 
+| goals3 = 
+| years4 = 2002–2003
+| clubs4 = [[CD Díter Zafra|Díter Zafra]]
+| caps4 = 22
+| goals4 = 0
+| years5 = 2003
+| clubs5 = [[CD Villanueva|Villanueva]]
+| caps5 = 
+| goals5 = 
+| years6 = 2003–2004
+| clubs6 = [[UD Montijo|Montijo]]
+| caps6 = 
+| goals6 = 
+| years7 = 2004
+| clubs7 = [[CF Peralada|Peralada]]
+| caps7 = 
+| goals7 = 
+| years8 = 2004–2005
+| clubs8 = Cuenca
+| caps8 = 
+| goals8 = 
+| years9 = 2005–2006
+| clubs9 = [[Guadix CD|Guadix]]
+| caps9 = 8
+| goals9 = 1
+| years10 = 2006
+| clubs10 = [[Moralo CP|Moralo]]
+| caps10 = 
+| goals10 = 
+| years11 = 2006–2007
+| clubs11 = [[SP Villafranca|Villafranca]]
+| caps11 = 
+| goals11 = 
+| years12 = 2007–2008
+| clubs12 = [[Sporting Villanueva Promesas|Sporting Villanueva]]
+| caps12 = 
+| goals12 = 
+| years13 = 2008–2009
+| clubs13 = [[UE Sant Julià|Sant Julià]]
+| caps13 = 
+| goals13 = 
+| years14 = 2009–2014
+| clubs14 = [[FC Andorra]]
+| caps14 = 99
+| goals14 = 13
+| years15 = 2014–2015
+| clubs15 = [[FC Ordino|Ordino]]
+| caps15 = 9
+| goals15 = 1
+| years16 = 2015–2016
+| clubs16 = [[FC Lusitanos|Lusitanos]]
+| caps16 = 10
+| goals16 = 0
+| years17 = 2016–2017
+| clubs17 = [[Inter Club d'Escaldes]]
+| caps17 = 8
+| goals17 = 1
+| years18 = 2017–2018
+| clubs18 = [[Penya Encarnada d'Andorra|Penya d'Andorra]]
+| caps18 = 3
+| goals18 = 0
+| years19 = 2018–2019
+| clubs19 = [[FC Lusitanos|Lusitanos]]
+| caps19 = 1
+| goals19 = 0
+| years20 = 2020–2021
+| clubs20 = [[CF Atlètic Amèrica]]
+| caps20 = 
+| goals20 = 
+| nationalyears1 = 2010–2012
+| nationalteam1 = [[Andorra national football team|Andorra]]
+| nationalcaps1 = 5
+| nationalgoals1 = 0
+}}
+{{family name hatnote|Mejías|Hurtado|lang=Spanish}}
+'''Daniel Mejías Hurtado''' (26 July 1982 – 8 November 2022) was an Andorran [[association football|footballer]] who played as a [[midfielder]]. He made five appearances for the [[Andorra national football team|Andorra national team]], having made his international debut in 2010.<ref>{{NFT player|38599|name=Daniel Mejías}}</ref>
+
+Mejías died on 8 November 2022, aged 40.<ref>{{cite web |author1=Jordi Cumplido |title=Muere a los 40 años el exfutbolista Dani Mejías tras un desgraciado suceso |url=https://espanadiario.es/actualidad/muere-exfutbolista-dani-mejias |website=EspañaDiario.es |access-date=30 December 2022 |date=10 November 2022}}</ref><ref>{{cite web |title=Mor l'exfutbolista de la selecció de futbol andorrana Daniel Mejías |url=https://www.ara.ad/esports/mor-l-exfutbolista-seleccio-futbol-andorrana-daniel-mejias_1_4543571.html |website=Ara Andorra |access-date=30 December 2022 |date=10 November 2022}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{BDFutbol|401551}}
+*[https://web.archive.org/web/20120907072730/http://www.faf.ad/index.php/en/national-teams/football/absoluta.html FAF profile]
+
+{{DEFAULTSORT:Mejias, Daniel}}
+[[Category:1982 births]]
+[[Category:2022 deaths]]
+[[Category:Footballers from Barcelona]]
+[[Category:Andorran men's footballers]]
+[[Category:Spanish men's footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Andorra men's international footballers]]
+[[Category:Segunda División B players]]
+[[Category:Tercera División players]]
+[[Category:FC Barcelona C players]]
+[[Category:Sporting Atlético players]]
+[[Category:UD Montijo players]]
+[[Category:CD Villanueva players]]
+[[Category:CF Peralada players]]
+[[Category:Moralo CP players]]
+[[Category:UE Sant Julià players]]
+[[Category:FC Andorra players]]
+[[Category:FC Ordino players]]
+[[Category:FC Lusitanos players]]
+[[Category:Inter Club d'Escaldes players]]
+[[Category:CF Atlètic Amèrica players]]
+[[Category:21st-century Spanish sportsmen]]
+
+
+{{Andorra-footy-bio-stub}}

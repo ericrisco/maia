@@ -1,0 +1,78 @@
+{{short description|Andorran footballer (born 1988)}}
+{{Use dmy dates|date=September 2024}}
+{{family name hatnote|Rodrigues|Gonçalves|lang=Catalan}}
+{{Infobox football biography
+| name = Adri Rodrígues
+| image = Adrià Rodrigues.JPG
+| image_size =
+| caption =
+| fullname = Adrián Rodrígues Gonçalves
+| birth_date = {{birth date and age|1988|8|14|df=y}}
+| birth_place = [[Andorra la Vella]], Andorra
+| height = {{height|m=1.87}}
+| position  = [[Defender (association football)|Right back]]<ref name = "NFT"/>
+| currentclub = [[Atlètic Club d'Escaldes|Atlètic d'Escaldes]]
+| clubnumber = 4
+| years1 = 2007–2010 | clubs1 = [[FC Andorra]] | caps1 = | goals1 = 
+| years2 = 2010–2011 | clubs2 = [[CD Mensajero|Mensajero]] | caps2 = 37 | goals2 = 1
+| years3 = 2011 | clubs3 = [[CD Puerta Bonita|Puerta Bonita]] | caps3 = 2 | goals3 = 0
+| years4 = 2011–2012 | clubs4 = [[CF Vilanova|Vilanova]] | caps4 = 8 | goals4 = 0
+| years5 = 2012 | clubs5 = [[CD Huracán Z|Huracán Z]] | caps5 = 16 | goals5 = 1
+| years6 = 2012–2013 | clubs6 = [[Racing Lermeño]] | caps6 = 14 | goals6 = 1
+| years7 = 2013 | clubs7 = [[Burgos CF|Burgos]] | caps7 = 3 | goals7 = 0
+| years8 = 2013 | clubs8 = [[Racing Lermeño]] | caps8 = 1 | goals8 = 0
+| years9 = 2013–2014 | clubs9 = [[CU Collado Villalba|Collado Villalba]] | caps9 = 6 | goals9 = 0
+| years10 = 2014–2015 | clubs10 = [[CF Salmantino|Salmantino]] | caps10 = 30 | goals10 = 2
+| years11 = 2015 | clubs11 = [[Marino de Luanco|Marino Luanco]] | caps11 = 16 | goals11 = 0
+| years12 = 2015–2016 | clubs12 = [[CP Villarrobledo|Villarrobledo]] | caps12 = 33 | goals12 = 2
+| years13 = 2016–2017 | clubs13 = [[CD Quintanar del Rey|Quintanar Rey]] | caps13 = 13 | goals13 = 0
+| years14 = 2017  | clubs14 = [[CP Villarrobledo|Villarrobledo]] | caps14 = 20 | goals14 = 1
+| years15 = 2017–2018 | clubs15 = [[CP Parla Escuela|Parla]] | caps15 = 7 | goals15 = 0
+| years16 = 2018  | clubs16 = [[AD Colmenar Viejo|Colmenar Viejo]] | caps16 = 10 | goals16 = 0
+| years17 = 2018–2019 | clubs17 = [[FC Lusitanos|Lusitanos]] | caps17 = 26| goals17 = 0
+| years18 = 2019– | clubs18 = [[Atlètic Club d'Escaldes|Atlètic d'Escaldes]] | caps18 = 51 | goals18 = 5
+| nationalyears1 = 2012– | nationalteam1 = [[Andorra national football team|Andorra]] | nationalcaps1 = 21 | nationalgoals1 = 0
+| club-update = 22 May 2022
+| ntupdate = 28 March 2022
+}}
+
+'''Adrián Rodrígues Gonçalves''' (born 14 August 1988) is an Andorran [[association football|footballer]] who plays as a [[Defender (association football)|right back]] for [[Atlètic Club d'Escaldes]] and the [[Andorra national football team]].
+
+==Club career==
+
+Rodrígues started his career playing for [[FC Andorra]] in the season 2007–08. In 2010, he signed a contract with [[CD Mensajero|Mensajero]] from the Spanish third division (fourth level). During season 2011–12 he played in different teams, playing for [[CD Huracán Z|Huracán Z]]. In 2012, he played for [[Racing Lermeño]].<ref name = "NFT">{{NFT player|pid=47793|access-date=3 August 2015}}</ref><ref>{{soccerway|adrian-rodrigues/128877|access-date=3 August 2015}}</ref> and the historical Spanish club [[Burgos CF|Burgos]].<ref>[http://www.tribunasalamanca.com/noticias/adrian-rodrigues-goncalves-ficha-por-el-salmantino/1391107858 Adrián Rodrigues Gonçalves ficha por el Salmantino]; Tribuna de Salamanca, 30 January 2013</ref>
+
+After playing for [[CU Collado Villalba|Collado Villalba]] and [[CF Salmantino|Salmantino]],<ref name = "NFT"/> He signed for [[Marino de Luanco]] in January 2015 to play in the Spanish [[Segunda División B]] (third level).<ref>[http://www.futbolasturiano.es/noticias5/0091.htm Un defensa internacional para el Marino]; Fútbol asturiano, 29 January 2015</ref>
+
+===International career===
+Rodrígues represented the under 21-team Andorran team before his senior team debut for [[Andorra national football team|Andorra]] in 2012.<ref name = "NFT"/>
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.lapreferente.com/J123873/fc-lusitanos/adri-rodrigues.html Adri Rodrígues] at La Preferente
+
+{{DEFAULTSORT:Rodrigues, Adri}}
+[[Category:1988 births]]
+[[Category:Living people]]
+[[Category:Andorran men's footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:FC Andorra players]]
+[[Category:CD Mensajero players]]
+[[Category:CD Huracán Z players]]
+[[Category:Racing Lermeño players]]
+[[Category:Burgos CF footballers]]
+[[Category:CU Collado Villalba players]]
+[[Category:Marino de Luanco footballers]]
+[[Category:FC Lusitanos players]]
+[[Category:Segunda División B players]]
+[[Category:Men's association football full-backs]]
+[[Category:Andorran expatriate men's footballers]]
+[[Category:Andorran expatriate sportspeople in Spain]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:Atlètic Club d'Escaldes players]]
+[[Category:CF Vilanova players]]
+
+
+{{Andorra-footy-bio-stub}}

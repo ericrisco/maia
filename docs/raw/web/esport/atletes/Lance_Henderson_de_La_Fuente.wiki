@@ -1,0 +1,39 @@
+{{Short description|Andorran chess grandmaster (born 2003)}}
+{{Infobox chess player
+| image = Henderson de La Fuente,Lance 2019 Karlsruhe.jpg
+| caption = Henderson de La Fuente in 2019
+| country = {{ESP}} (until 2021)<br>{{AND}} (since 2021)
+| birth_date = {{Bda|2003|5|19}}
+| birth_place = [[Marbella]], Spain
+| title = [[Grandmaster (chess)|Grandmaster]] (2019)<ref name="FIDE">{{cite web|url=https://ratings.fide.com/crt/main226562.pdf|title=FIDE Title Application (GM)}}</ref>
+| peak_rating = 2525 (October 2024)
+| FIDE_id = 32096585
+}}
+
+'''Lance Henderson de La Fuente''' (born May 19, 2003) is a Spanish-born [[chess]] grandmaster who now represents [[Andorra]]. He is Andorra's highest-rated chess player.
+
+==Chess career==
+In October 2022, Henderson won the 4th ESNA European Small Nations Individual Chess Championship 2022 by defeating Luitjen Akselsson Apol in the final round.<ref>{{cite web|url=https://www.europechess.org/henderson-de-la-fuente-lance-wins-european-small-nations-individual-chess-championship-2022/|title=HENDERSON DE LA FUENTE LANCE WINS EUROPEAN SMALL NATIONS INDIVIDUAL CHESS CHAMPIONSHIP 2022|date=October 2, 2022}}</ref><ref>{{cite web|url=https://en.chessbase.com/post/lance-henderson-wins-european-small-nations-2022|title=Lance Henderson wins European Small Nations Championship|date=October 3, 2022|first=Klaus|last=Besenthal}}</ref>
+
+In December 2022, Henderson tied for second place in the Chessable Sunway Sitges Blitz tournament.<ref>{{cite web|url=https://www.chessbase.in/news/9th-Chessable-Sunway-Sitges-Blitz-18-12-report|title=Raja Rithvik decimates 9th Chessable Sunway Sitges Blitz 18/12, Adhiban third|date=December 20, 2022|first=Shahid|last=Ahmed}}</ref>
+
+Henderson participated in the [[Chess World Cup 2023]], where he was defeated by [[Adhiban Baskaran]] in the first round.<ref>{{cite web|url=https://sportstar.thehindu.com/chess/fide-chess-world-cup-adhiban-priyanka-into-second-round-harsha-bharatkoti-out-india-results/article67147460.ece|title=FIDE Chess World Cup: Adhiban, Priyanka into second round, Harsha misses out|first=Rakesh|last=Rao|date=August 1, 2023}}</ref><ref>{{cite web|url=https://www.fide.com/news/2553|title=FIDE World Cup 2023 Round 1 Tiebreaks: A lot of drama and a few upsets|date=August 1, 2023}}</ref>
+{{-}}
+
+==Family==
+Henderson's father Matt Henderson is an American IT entrepreneur and amateur chess player; his mother María del Pino de la Fuente is a Spanish aerospace engineer.<ref>{{cite web|url=https://www.surinenglish.com/lifestyle/201910/04/lance-henderson-teenage-genius-20191004095301-v.html|title=Lance Henderson, the teenage genius|website=SUR in English|date=October 4, 2019}}</ref>
+[[File:Henderson de La Fuente,Andrea 2017 Karlsruhe.jpeg|thumb|210x210px|His sister, Andrea, in 2017]]
+Henderson's sister Andrea<ref>{{cite web|url=https://marbelladirecto.com/los-chicos-del-ajedrez-metro-club-de-marbella-demuestran-su-buen-hacer-en-nerja-ante-el-tablero/|title=Los chicos del Ajedrez Metro Club de Marbella demuestran su buen hacer en Nerja ante el tablero|website=Marbella Directo|date=September 24, 2014}}</ref> is also a chess player, holding the title of [[Woman FIDE Master|WFM]].<ref>[https://ratings.fide.com/profile/32096577 Andrea Henderson de la Fuente's FIDE profile]</ref> As of 2026 she is studying for a doctorate in Astrophysics at Oxford University.<ref>{{cite web|url=https://www.fide.com/history-made-in-almaty-as-inaugural-fide-world-university-team-chess-championship-gets-underway/|title=History made in Almaty as inaugural FIDE World University Team Chess Championship gets underway|website=FIDE|date=August 4, 2026}}</ref>
+
+The family moved to Andorra in 2021; since then all three members with FIDE ratings have been listed as representing Andorra.
+
+==References==
+{{reflist}}
+{{DEFAULTSORT:Henderson de La Fuente, Lance}}
+[[Category:Living people]]
+[[Category:2003 births]]
+[[Category:21st-century Spanish chess players]]
+[[Category:Andorran chess players]]
+[[Category:Chess Grandmasters]]
+[[Category:People from Marbella]]
+[[Category:Chess Olympiad competitors]]

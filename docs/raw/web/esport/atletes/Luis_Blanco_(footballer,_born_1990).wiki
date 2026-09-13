@@ -1,0 +1,115 @@
+{{short description|Andorran footballer}}
+{{Use dmy dates|date=September 2020}}
+{{Infobox football biography
+| name           = Luis Blanco
+| fullname       = Luis Emilio Blanco Coto
+| image          =
+| caption        =
+| height         = 1.83 m<ref name="WF"/>
+| birth_date     = {{Birth date and age|df=yes|1990|1|15}}
+| birth_place    = [[Barcelona]], Spain<ref name="WF"/>
+| position       = [[Midfielder]]
+| currentclub    = [[CF Esperança d'Andorra|Esperança]]
+| clubnumber     = 10
+| youthyears1    =
+| youthclubs1    =
+| years1         = 2010–2011
+| clubs1         = Barceloneta
+| caps1          =
+| goals1         =
+| years2         = 2011–2012
+| clubs2         = Turó Peira
+| caps2          =
+| goals2         =
+| years3         = 2012–2013
+| clubs3         = Carmelo
+| caps3          =
+| goals3         =
+| years4         = 2013–2014
+| clubs4         = [[FC Santa Coloma]]
+| caps4          = 6
+| goals4         = 0
+| years5         = 2014–2019
+| clubs5         = [[UE Sant Julià|Sant Julià]]
+| caps5          = 93
+| goals5         = 19
+| years6         = 2019–2022
+| clubs6         = [[FC Santa Coloma]]
+| caps6          = 55
+| goals6         = 6
+| years7         = 2022–2023
+| clubs7         = [[UE Engordany|Engordany]]
+| caps7          = 23
+| goals7         = 1
+| years8         = 2023–
+| clubs8         = [[CF Esperança d'Andorra|Esperança]]
+| caps8          = 41
+| goals8         = 10
+| nationalyears1 = 2004–2006
+| nationalteam1  = [[Andorra national under-17 football team|Andorra U17]]
+| nationalcaps1  = 4
+| nationalgoals1 = 0
+| nationalyears2 = 2007–2008
+| nationalteam2  = [[Andorra national under-19 football team|Andorra U19]]
+| nationalcaps2  = 3
+| nationalgoals2 = 0
+| nationalyears3 = 2010–2012
+| nationalteam3  = [[Andorra national under-21 football team|Andorra U21]]
+| nationalcaps3  = 6
+| nationalgoals3 = 1
+| nationalyears4 = 2020–
+| nationalteam4  = [[Andorra national football team|Andorra]]
+| nationalcaps4  = 6
+| nationalgoals4 = 0
+| pcupdate       = 18 May 2025
+| ntupdate       = 13 October 2024
+}}
+'''Luis Emilio Blanco Coto''' (born 15 January 1990) is an Andorran [[Association football|footballer]] who plays as a [[midfielder]] for [[CF Esperança d'Andorra|Esperança]] and the [[Andorra national football team|Andorra national team]].<ref name="WF">{{LaPreferente}}</ref>
+
+==Career==
+Blanco made his international debut for [[Andorra national football team|Andorra]] on 6 September 2020 in the [[2020–21 UEFA Nations League D|UEFA Nations League]] against the [[Faroe Islands national football team|Faroe Islands]], which finished as a 0–1 home loss.<ref name="EUF">{{cite web |url=https://eu-football.info/_player.php?id=31004 |title=Luis Blanco |website=EU-Football.info |access-date=6 September 2020}}</ref>
+
+==Career statistics==
+
+===International===
+{{updated|6 September 2020|<ref name="EUF"/>}}
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=3|[[Andorra national football team|Andorra]]
+|-
+!Year!!Apps!!Goals
+|-
+|2020||1||0
+|-
+!Total!!1!!0
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{WorldFootball.net}}
+* {{UEFA player}}
+* {{Soccerway}}
+
+{{DEFAULTSORT:Blanco, Luis}}
+[[Category:1990 births]]
+[[Category:Living people]]
+[[Category:Footballers from Barcelona]]
+[[Category:Andorran men's footballers]]
+[[Category:Andorra men's youth international footballers]]
+[[Category:Andorra men's under-21 international footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:Spanish men's footballers]]
+[[Category:Spanish people of Andorran descent]]
+[[Category:Naturalised citizens of Andorra]]<!-- [[Category:Citizens of Andorra through descent]] -->
+[[Category:Men's association football midfielders]]
+[[Category:FC Andorra players]]
+[[Category:FC Santa Coloma players]]
+[[Category:UE Sant Julià players]]
+[[Category:Primera Divisió players]]
+[[Category:21st-century Spanish sportsmen]]
+
+
+{{Andorra-footy-bio-stub}}

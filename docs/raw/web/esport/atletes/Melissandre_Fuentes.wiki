@@ -1,0 +1,87 @@
+{{short description|Andorran figure skater}}
+{{BLP sources|date=June 2012}}
+{{Infobox figure skater
+|name= Melissandre Fuentes
+|image= Melissandre Fuentes 2004 Junior Grand Prix Germany.jpg
+|caption=Fuentes in 2004.
+|country= {{AND}}
+|birth_date= {{birth date and age|mf=yes|1988|3|1}}
+|height= 165cm
+|weight= 
+|coach= [[Mikel Garcia]]
+|skating_club= Orient Club Gel, Canillo
+|retired = 
+}}
+
+'''Melissandre Fuentes''' (born March 1, 1988 in [[Canillo]]) is an [[Andorra]]n [[figure skating|figure skater]]. She is the 2004 and 2005 Andorran national champion. Her younger sister [[Lydia Fuentes]] competes internationally on the junior level.<ref>[http://www.isuresults.com/bios/isufs00005473.htm Melissandre Profile]</ref>
+
+Fuentes is the first lady skater to represent Andorra at an ISU Championship, which she accomplished at the [[2002 World Junior Figure Skating Championships]].{{citation needed|date=June 2012}}
+
+== Competitive highlights ==
+''JGP: [[ISU Junior Grand Prix|Junior Grand Prix]]''
+
+{|  class="wikitable" style="text-align:center"
+|-
+! style="background-color: #ffdead; " colspan=9 align=center | International
+|-
+! Event
+! 00-01
+! 01-02
+! 02-03
+! 03-04
+! 04-05
+! 05-06
+! 06-07
+! 07-08
+|-
+| align=left | [[European Figure Skating Championships|Europeans]] || || || || || 34th || || 34th||
+|-
+| align=left | [[Coupe de Nice]] || || || || || || || || 12th
+|-
+! style="background-color: #ffdead; " colspan=9 align=center | International: Junior
+|-
+| align=left | [[World Junior Figure Skating Championships|Junior Worlds]] || || 43rd || 41st || 36th || || || 38th ||
+|-
+| align=left | {{small|JGP}} [[ISU Junior Grand Prix in Andorra|Andorra]] || || || || || ||19th || ||
+|-
+| align=left | {{small|JGP}} [[ISU Junior Grand Prix in Bulgaria|Bulgaria]] || || 21st|| || || || || ||
+|-
+| align=left | {{small|JGP}} [[ISU Junior Grand Prix in France|France]] || || || 14th|| || || || ||
+|-
+| align=left | {{small|JGP}} [[ISU Junior Grand Prix in Germany|Germany]] || || || || || 30th || || ||
+|-
+| align=left | {{small|JGP}} [[ISU Junior Grand Prix in Italy|Italy]] || || 27th || || || || || ||
+|-
+| align=left | {{small|JGP}} [[ISU Junior Grand Prix in Mexico|Mexico]] || || || || 15th || || || ||
+|-
+| align=left | {{small|JGP}} [[ISU Junior Grand Prix in Poland|Poland]] || || || || 33rd || || || ||
+|-
+| align=left | {{small|JGP}} [[ISU Junior Grand Prix in the United States|U.S.]] || || || 16th || || || || ||
+|-
+| align=left | [[Figure skating at the European Youth Olympic Festival|EYOF]] || || || 20th || || || || ||
+|-
+| align=left | [[Golden Bear of Zagreb|Golden Bear]] || || 4th || || || || || ||
+|-
+| align=left | [[Triglav Trophy]] ||  || 19th  || || || || || 10th ||
+|-
+! style="background-color: #ffdead; " colspan=9 align=center | National
+|-
+| align=left | Andorran Champ. ||bgcolor=gold | 1st J || bgcolor=gold | 1st J || || bgcolor=gold | 1st || bgcolor=gold | 1st|| || bgcolor=gold | 1st || bgcolor=gold | 1st
+|-
+| colspan=12 align=center | <small> Levels: N = Novice, J = Junior; WD = Withdrew </small>
+|}
+
+==References ==
+{{Reflist}}
+
+{{commons category}}
+
+{{DEFAULTSORT:Fuentes, Melissandre}}
+[[Category:1988 births]]
+[[Category:Living people]]
+[[Category:Andorran figure skaters]]
+[[Category:Andorran sportswomen]]
+
+
+{{andorra-sport-bio-stub}}
+{{europe-figure-skating-bio-stub}}

@@ -1,0 +1,51 @@
+{{short description|Andorran sprinter}}
+{{Use dmy dates|date=May 2021}}
+{{Infobox sportsperson
+| image = Cristina Llovera.jpg
+| image_size = 
+| caption = 
+| full_name = Cristina Llovera Rossell
+| birth_date= {{birth date and age|df=yes|1996|10|1}}
+| birth_place = [[Andorra la Vella]], Andorra
+| height = 
+| weight = 
+| country = {{AND}}
+| sport = Athletics
+| event = [[100 metres]]
+| coach =
+| highest_ranking =
+| personal_best = 12.73 (London 2012)
+| medal_templates =
+| updated = 15 August 2012
+}}
+
+'''Cristina Llovera Rossell'''{{family name footnote|lang=Catalan|Llovera|Rossell}} (born 1 October 1996 in [[Andorra la Vella]]) is an [[Andorra]]n runner.<ref>{{Cite web |url=https://www.iaaf.org/athletes/andorra/cristina-llovera-274711 |title=IAAF: Cristina LLOVERA {{!}} Profile |website=iaaf.org |access-date=2018-04-30}}</ref> She competed at the [[2012 Summer Olympics]] in the [[Athletics at the 2012 Summer Olympics – Women's 100 metres|Women's 100 metres]] where she was eliminated in the preliminary round.<ref>{{Cite news |url=https://www.olympic.org/cristina-llovera |title=Cristina LLOVERA - Olympic Athletics {{!}} Andorra |date=2016-06-25 |work=International Olympic Committee |access-date=2018-04-30 |language=en}}</ref><ref name="SR">{{cite Sports-Reference |title=Cristina Llovera |quote=Full name: Cristina Llovera Rossell}}</ref> Llovera was the youngest participant in the Athletics competition.{{Citation needed|date=April 2018}}
+
+In 2016 an injury deprived her of repeating that experience in Rio de Janeiro's Olympic Games. Two months before the event se had a spondylosis, a small fracture in a vertebra, which left her without options.
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{World Athletics|14713386}}
+* {{European Athletics|14713386|old_id= l/athlete=136536-llovera-cristina |archive= 20201006082844 }}
+* {{Olympics.com|cristina-llovera|org_archive=20201007211955}}
+* {{Olympedia|120273}}
+* {{Instagram|cristinallovera}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Llovera, Cristina}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:Andorran women sprinters]]
+[[Category:Olympic athletes for Andorra]]
+[[Category:Athletes (track and field) at the 2012 Summer Olympics]]
+[[Category:European Games competitors for Andorra]]
+[[Category:Athletes (track and field) at the 2015 European Games]]
+[[Category:Olympic women sprinters]]
+
+{{Andorra-athletics-bio-stub}}

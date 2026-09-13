@@ -1,0 +1,62 @@
+{{Short description|Andorran ski mountaineer (born 1979)}}
+{{family name hatnote|Albós|Cavaliere|lang=Catalan}}
+{{Infobox skier <!-- See Wikipedia:WikiProject_Ski -->
+| name               = Ludovic Albós Cavaliere
+| image              = 
+| full_name          = 
+| birth_date         = {{birth date and age|1979|05|04|df=y}} 
+| birth_place        = 
+| death_date         = 
+| death_place        = 
+| height             = 
+| club               = 
+| skis               = 
+| personal_best      = 
+| seasons            = 
+| wins               = 
+| additional_podiums = 
+| total_podiums      = 
+| medal_templates    = {{MedalCountry |  {{AND}} }}
+| show_medals        = 
+| updated            = 
+}}
+'''Ludovic Albós Cavaliere''' (born 4 May 1979) is an [[Andorra]]n [[ski mountaineer]].
+
+Albos, expert accountant and commercial adviser, started working in commercial àrea in 1999, since this year he has been working in different commercial areas as accountant and adviser.
+
+In his free time, he practises ski mountaineering, started it in 2006 and competed first in the ''Gp Vallnord'' in the same year. He has been member of the Andorran national ski mountaineering team since 2006. Albos placed ninth in the [[vertical race]] event of the [[2007 European Championship of Ski Mountaineering|2007 European Championship]].
+
+His brothers [[David Albós Cavaliere|David]] and Joan are also competition ski mountaineers.
+
+== Selected studies career ==
+* FP2 - Technician administrative accountant
+* Graduate in tourism
+* Licenciate administration companies
+
+== Selected sport results ==
+* 2007:
+** 9th, [[2007 European Championship of Ski Mountaineering|European Championship]] vertical Race
+* 2008:
+** 17th, [[2008 World Championship of Ski Mountaineering|World Championship]] vertical Race
+* 2009:
+** 19th, [[2009 European Championship of Ski Mountaineering|European Championship]] vertical Race
+** 2nd, [[La Serrera Ski Mountaineering race|2009 La Serrera Ski Mountaineering race]]
+* 2012:
+** 7th, [[2012 European Championship of Ski Mountaineering|European Championship]] team, together with Joan Albós Cavaliere
+** 8th, European Championship relay, together with Xavier Comas Guixé, [[Guilad Dodo Perez]] and Joan Albós Cavaliere
+
+== Other activities ==
+*2009:
+** L.Bordas xtreme
+
+== External links ==
+* [http://www.ludovicalbos.com] at ''ludovicalbos.com''
+* [https://web.archive.org/web/20120310145249/http://www.skimountaineering.org/node/241?IdRacer=461 Ludovic Albos] at ''skimountaineering.org''
+
+{{DEFAULTSORT:Albos Cavaliere, Ludovic}}
+[[Category:1979 births]]
+[[Category:Living people]]
+[[Category:Andorran male ski mountaineers]]
+
+{{Andorra-sport-bio-stub}}
+{{Skimountaineering-bio-stub}}

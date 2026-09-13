@@ -1,0 +1,40 @@
+{{short description|Andorran trap shooter|bot=PearBOT 5}}
+{{use dmy dates|date=November 2017}}
+{{Infobox sportsperson
+| name           = Gerard Barcia Duedra
+| birth_name     = 
+| full_name       = 
+| nickname       = 
+| nationality    = 
+| residence      = 
+| birth_date     = {{birth date and age|1963|11|9|df=yes}}
+| birth_place    = 
+| death_date     = 
+| death_place    = 
+| height         = 
+| weight         = 
+| website        = 
+| country        = 
+| sport          = [[Shooting sport|Sports shooting]]
+| event          = 
+| olympics       = 
+| highest_ranking = 
+| personal_best             = 
+| medal_templates = 
+| show_medals    = yes
+}}
+'''Gerard Barcia Duedra''' (born 9 November 1963) is an [[Andorra]]n [[trap shooter]] who competed in the [[1996 Summer Olympics]].<ref>{{cite web|title=Gerard Barcia|url=https://www.sports-reference.com/olympics/athletes/ba/gerard-barcia-1.html|archive-url=https://web.archive.org/web/20200418074854/https://www.sports-reference.com/olympics/athletes/ba/gerard-barcia-1.html|url-status=dead|archive-date=18 April 2020|website=Olympics at Sports-Reference.com|accessdate=26 November 2017}}</ref>
+
+Barcia competed in the [[Shooting at the 1996 Summer Olympics – Men's trap|trap shooting]] event at the [[1996 Summer Olympics]], and after two days of shooting Barcia scored 117 points and finished the competition in 37th place so didn't qualify for the final.<ref>{{cite web|title=Shooting at the 1996 Atlanta Summer Games: Men's Trap|url=https://www.sports-reference.com/olympics/summer/1996/SHO/mens-trap.html|archive-url=https://web.archive.org/web/20200418124815/https://www.sports-reference.com/olympics/summer/1996/SHO/mens-trap.html|url-status=dead|archive-date=18 April 2020|website=Olympics at Sports-Reference.com|accessdate=26 November 2017}}</ref>
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Barcia, Gerard}}
+[[Category:Shooters at the 1996 Summer Olympics]]
+[[Category:1963 births]]
+[[Category:Andorran male sport shooters]]
+[[Category:Olympic shooters for Andorra]]
+[[Category:Living people]]
+
+{{Andorra-sportshooting-bio-stub}}

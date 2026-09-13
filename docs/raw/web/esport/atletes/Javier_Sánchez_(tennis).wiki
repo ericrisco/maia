@@ -1,0 +1,877 @@
+{{Short description|Spanish tennis player (born 1968)}}
+{{For|other people named Javier Sánchez|Javier Sánchez (disambiguation){{!}}Javier Sánchez}}
+{{BLP sources|date=September 2015}}
+{{family name hatnote|Sánchez|Vicario|lang=Spanish}}
+{{Use dmy dates|date=June 2024}}
+{{Infobox tennis biography
+|name= Javier Sánchez
+|country= {{flagu|Spain}}
+|residence= [[Andorra la Vella]], Andorra
+|birth_date= {{birth date and age|df=y|1968|2|1}}
+|birth_place= [[Pamplona]], Spain
+|height= {{height|m=1.77}}
+|turnedpro= 1986
+|retired= 2000
+|plays= Right-handed (one-handed backhand)
+|careerprizemoney= $4,427,811
+|singlesrecord= 327–335
+|singlestitles= 4
+|highestsinglesranking= No. 23 (6 June 1994)
+|AustralianOpenresult= 3R (1990)
+|FrenchOpenresult= 4R (1990)
+|Wimbledonresult= 2R (1991, 1992, 1997)
+|USOpenresult= QF (1991, 1996)
+|doublesrecord= 379–311
+|doublestitles= 26
+|highestdoublesranking= No. 9 (30 April 1990)
+|AustralianOpenDoublesresult= QF (1993, 1998)
+|FrenchOpenDoublesresult= QF (1989)
+|WimbledonDoublesresult= 1R (1988, 1991, 1996, 1999)
+|USOpenDoublesresult= QF (1993, 1996, 1998)
+}}
+
+'''Javier Sánchez Vicario''' ({{IPA|es|xaˈβjeɾ ˈsantʃeθ}}; born 1 February 1968) is a former top-ten doubles professional [[tennis]] player from Spain. Sánchez won the [[1986 US Open (tennis)|US Open]] junior singles and doubles title in 1986, and reached the quarterfinal stage in the [[US Open (tennis)|US Open]] men's singles event twice – in 1991 and 1996.
+
+==Career==
+{{BLP sources section|date=February 2024}}
+Sánchez won the [[1986 US Open (tennis)|US Open]] junior singles and doubles title in 1986, partnering with [[Tomás Carbonell (tennis)|Tomás Carbonell]], and became world no. 1 junior that same year.<ref name="Junior">{{cite news | title=ATP Javier Sanchez Bio | url=https://www.atptour.com/en/players/javier-sanchez/s015/bio |access-date=18 July 2020 | work=ATP Website}}</ref>
+
+In Javier's first career singles final in 1987 in [[Madrid Tennis Grand Prix|Madrid]], he faced his brother [[Emilio Sánchez]]. Emilio won the match in three sets. Emilio and Javier would play each other a total of 12 times during their careers, Emilio winning ten of their encounters and Javier winning two. They also partnered together to win three doubles titles.
+
+Sanchez won his first professional doubles titles in 1987 and his first singles title in 1988 in [[1988 Buenos Aires Grand Prix – Singles|Buenos Aires]]. His best grand slam performances included reaching the quarterfinals of the US Open in 1991 (defeating world no. 5 [[Sergi Bruguera]]) and 1996. Sanchez also reached the semifinals of the [[1994 ATP German Open – Singles|1994 Hamburg Masters]]. He won a career total of four singles titles and 26 doubles titles, and reached a career-high ranking of no. 23 in singles (in 1994) and no. 9 in doubles (in 1992).
+
+==Personal life==
+Sánchez is a member of one of the world's most successful tennis families. His younger sister [[Arantxa Sánchez Vicario]] achieved the world no. 1 ranking in both singles and doubles, and won four [[Grand Slam (tennis)|Grand Slam]] singles titles; and his older brother [[Emilio Sánchez]] reached world no. 1 in doubles and won five Grand Slam doubles titles. They also have an older sister – Marisa – who also played professional tennis, peaking at world no. 368 in 1990.{{citation needed|date=February 2024}}
+
+Sánchez and wife Isabel wed in September 1994. They have two daughters, Alba (born July 1998) and Julia (born March 2000).<ref name="Junior"/>
+
+In 2012, Arantxa Sánchez Vicario sued Javier Sánchez (and their father) for the alleged mishandling and embezzlement of her $60 million career earnings. The court case continued over three years, and in 2015 concluded in a private settlement.<ref name="Sue">{{cite news | last1=Lynch |first1=Donal | title=Game, set and... cash troubles: how Wimbledon stars like Becker, Borg and Sanchez courted controversies | url=https://www.belfasttelegraph.co.uk/life/weekend/game-set-and-cash-troubles-how-wimbledon-stars-like-becker-borg-and-sanchez-courted-controversies-37055915.html |access-date=18 July 2020 | work=Belfast Telegraph| date=30 June 2018}}</ref>
+
+==Career finals==
+===Doubles: 44 (26 wins, 18 losses)===
+{| 
+| 
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|- bgcolor="#eeeeee"
+! Legend
+|- bgcolor="#f3e6d7"
+| Grand Slam (0)
+|- bgcolor="#e9e9e9"
+| ATP Masters Series (2)
+|- bgcolor="#d4f1c5"
+| ATP Championship Series (3)
+|-
+| ATP Tour (21)
+|}
+| 
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|- bgcolor="#eeeeee"
+! Titles by surface
+|-
+| Hard (6)
+|-
+| Clay (20)
+|-
+| Grass (0)
+|-
+| Carpet (0)
+|}
+|}
+{| class="sortable wikitable"
+!style="width:40px"|Result
+!style="width:30px" class="unsortable"|W/L 
+!style="width:60px"|Date
+!style="width:160px"|Tournament
+!style="width:50px"|Surface
+!style="width:155px"|Partner
+!style="width:155px"|Opponents
+!style="width:110px" class="unsortable"|Score
+|-
+|-
+| style="background:#ffa07a;"|Loss
+| 1.
+| [[1987 Swedish Open – Doubles|Aug 1987]]
+| [[Swedish Open|Båstad]], Sweden
+| Clay
+| {{flagicon|ESP}} [[Emilio Sánchez]]
+| {{flagicon|SWE}} [[Stefan Edberg]] <br> {{flagicon|SWE}} [[Anders Järryd]]
+| 6–7, 3–6
+|-
+| style="background:#98fb98;"|Win
+| 1.
+| [[1987 Madrid Tennis Grand Prix – Doubles|Sep 1987]]
+| [[Madrid Tennis Grand Prix|Madrid]], Spain
+| Clay
+| {{flagicon|PER}} [[Carlos di Laura]]
+| {{flagicon|ESP}} [[Sergio Casal]] <br> {{flagicon|ESP}} Emilio Sánchez
+| 6–3, 3–6, 6–4
+|-
+| style="background:#ffa07a;"|Loss
+| 2.
+| [[1987 CA-TennisTrophy – Doubles|Oct 1987]]
+| [[Vienna Open|Vienna]], Austria
+| Carpet (i)
+| {{flagicon|ESP}} Emilio Sánchez
+| {{flagicon|USA}} [[Mel Purcell]] <br> {{flagicon|USA}} [[Tim Wilkison]]
+| 3–6, 5–7
+|-
+| style="background:#98fb98;"|Win
+| 2.
+| [[1987 Ford Cup – Doubles|Nov 1987]]
+| [[ATP São Paulo|São Paulo]], Brazil
+| Hard
+| {{flagicon|ISR}} [[Gilad Bloom]]
+| {{flagicon|ESP}} [[Tomás Carbonell (tennis)|Tomás Carbonell]] <br> {{flagicon|ESP}} Sergio Casal
+| 6–3, 6–7, 6–4
+|-
+| style="background:#98fb98;"|Win
+| 3.
+| [[1988 Bologna Open – Doubles|Jun 1988]]
+| [[Bologna Outdoor|Bologna]], Italy
+| Clay
+| {{flagicon|ESP}} Emilio Sánchez
+| {{flagicon|SUI}} [[Rolf Hertzog]] <br> {{flagicon|SUI}} [[Marc Walder]]
+| 6–1, 7–6
+|-
+| style="background:#ffa07a;"|Loss
+| 3.
+| [[1988 Ford Cup – Doubles|Nov 1988]]
+| São Paulo, Brazil
+| Hard
+| {{flagicon|CHI}} [[Ricardo Acuña]]
+| {{flagicon|USA}} [[Jay Berger]] <br> {{flagicon|ARG}} [[Horacio de la Peña]]
+| 7–5, 4–6, 3–6
+|-
+| style="background:#98fb98;"|Win
+| 4.
+| [[1988 Buenos Aires Grand Prix – Doubles|Nov 1988]]
+| [[Argentina Open|Buenos Aires]], Argentina
+| Clay
+| {{flagicon|ESP}} [[Carlos Costa (tennis)|Carlos Costa]]
+| {{flagicon|ARG}} [[Eduardo Bengoechea]] <br> {{flagicon|ARG}} [[José Luis Clerc]]
+| 6–3, 3–6, 6–3
+|-
+| style="background:#98fb98;"|Win
+| 5.
+| [[1989 Bavarian Tennis Championships – Doubles|May 1989]]
+| [[Bavarian International Tennis Championships|Munich]], West Germany
+| Clay
+| {{flagicon|HUN}} [[Balázs Taróczy]]
+| {{flagicon|AUS}} [[Peter Doohan]] <br> {{flagicon|AUS}} [[Laurie Warder]]
+| 7–6, 6–7, 7–6
+|-
+| style="background:#98fb98;"|Win
+| 6.
+| [[1989 Ebel German Open – Doubles|May 1989]]
+| [[Hamburg Open|Hamburg]], West Germany
+| Clay
+| {{flagicon|ESP}} Emilio Sánchez
+| {{flagicon|GER}} [[Boris Becker]] <br> {{flagicon|GER}} [[Eric Jelen]]
+| 6–4, 6–1
+|-
+| style="background:#98fb98;"|Win
+| 7.
+| [[1989 Bologna Open – Doubles|Jun 1989]]
+| Bologna, Italy
+| Clay
+| {{flagicon|ESP}} Sergio Casal
+| {{flagicon|SWE}} [[Tomas Nydahl]] <br> {{flagicon|SWE}} [[Jörgen Windahl]]
+| 6–2, 6–3
+|-
+| style="background:#ffa07a;"|Loss
+| 4.
+| Jun 1989
+| [[Hypo Group Tennis International|Bari]], Italy
+| Clay
+| {{flagicon|ESP}} Sergio Casal
+| {{flagicon|ITA}} [[Simone Colombo]] <br> {{flagicon|SUI}} [[Claudio Mezzadri]]
+| 6–0, 3–6, 3–6
+|-
+| style="background:#98fb98;"|Win
+| 8.
+| [[1989 Head Cup – Doubles|Aug 1989]]
+| [[Austrian Open Kitzbühel|Kitzbühel]], Austria
+| Clay
+| {{flagicon|ESP}} Emilio Sánchez
+| {{flagicon|CZE}} [[Petr Korda]] <br> {{flagicon|CZE}} [[Tomáš Šmíd]]
+| 7–5, 7–6
+|- bgcolor="#d4f1c5"
+| style="background:#98fb98;"|Win
+| 9.
+| [[1990 Torneo Godó – Doubles|Apr 1990]]
+| [[Barcelona Open (tennis)|Barcelona]], Spain
+| Clay
+| {{flagicon|ECU}} [[Andrés Gómez]]
+| {{flagicon|ESP}} Sergio Casal <br> {{flagicon|ESP}} Emilio Sánchez
+| 7–6, 7–5
+|- bgcolor="#e9e9e9"
+| style="background:#ffa07a;"|Loss
+| 5.
+| [[1990 Monte Carlo Open – Doubles|Apr 1990]]
+| [[Monte-Carlo Masters|Monte Carlo]], Monaco
+| Clay
+| {{flagicon|ECU}} Andrés Gómez
+| {{flagicon|CZE}} Tomáš Šmíd <br> {{flagicon|CZE}} Petr Korda
+| 4–6, 6–7
+|-
+| style="background:#ffa07a;"|Loss
+| 6.
+| [[1990 Madrid Tennis Grand Prix – Doubles|May 1990]]
+| Madrid, Spain
+| Clay
+| {{flagicon|ECU}} Andrés Gómez
+| {{flagicon|ESP}} [[Juan Carlos Baguena]] <br> {{flagicon|ITA}} [[Omar Camporese]]
+| 4–6, 6–3, 3–6
+|-
+| style="background:#ffa07a;"|Loss
+| 7.
+| [[1990 Rado Swiss Open – Doubles|Jul 1990]]
+| [[Swiss Open (tennis)|Gstaad]], Switzerland
+| Clay
+| {{flagicon|ITA}} Omar Camporese
+| {{flagicon|ESP}} Sergio Casal <br> {{flagicon|ESP}} Emilio Sánchez
+| 3–6, 6–3, 5–7
+|-
+| style="background:#98fb98;"|Win
+| 10.
+| [[1990 Philips Austrian Open – Doubles|Aug 1990]]
+| Kitzbühel, Austria
+| Clay
+| {{flagicon|FRA}} [[Éric Winogradsky]]
+| {{flagicon|ESP}} [[Francisco Clavet]] <br> {{flagicon|AUT}} [[Horst Skoff]]
+| 7–6, 6–2
+|-
+| style="background:#98fb98;"|Win
+| 11.
+| [[1990 Athens Open – Doubles|Oct 1990]]
+| [[ATP Athens Open|Athens]], Greece
+| Clay
+| {{flagicon|ESP}} Sergio Casal
+| {{flagicon|NED}} [[Tom Kempers]] <br> {{flagicon|NED}} [[Richard Krajicek]]
+| 6–4, 6–3
+|- bgcolor="#e9e9e9"
+| style="background:#98fb98;"|Win
+| 12.
+| [[1991 Newsweek Champions Cup – Doubles|Mar 1991]]
+| [[Indian Wells Open|Indian Wells]], U.S.
+| Hard
+| {{flagicon|USA}} [[Jim Courier]]
+| {{flagicon|FRA}} [[Guy Forget]] <br> {{flagicon|FRA}} [[Henri Leconte]]
+| 7–6, 3–6, 6–3
+|-
+| style="background:#98fb98;"|Win
+| 13.
+| [[1991 Yugoslav Open – Doubles|May 1991]]
+| [[Croatia Open|Umag]], Croatia
+| Clay
+| {{flagicon|ISR}} Gilad Bloom
+| {{flagicon|USA}} [[Richey Reneberg]] <br> {{flagicon|USA}} [[David Wheaton]]
+| 7–6, 2–6, 6–1
+|-
+| style="background:#98fb98;"|Win
+| 14.
+| [[1991 OTB International Open – Men's doubles|Aug 1991]]
+| [[OTB Open|Schenectady]], U.S.
+| Hard
+| {{flagicon|AUS}} [[Todd Woodbridge]]
+| {{flagicon|ECU}} Andrés Gómez <br> {{flagicon|ESP}} Emilio Sánchez
+| 3–6, 7–6, 7–6
+|-
+| style="background:#ffa07a;"|Loss
+| 8.
+| [[1991 Campionati Internazionali di Sicilia – Doubles|Sep 1991]]
+| [[Campionati Internazionali di Sicilia|Palermo]], Italy
+| Clay
+| {{flagicon|ESP}} Emilio Sánchez
+| {{flagicon|NED}} [[Jacco Eltingh]] <br> {{flagicon|NED}} Tom Kempers
+| 6–3, 3–6, 3–6
+|- bgcolor="#d4f1c5"
+| style="background:#98fb98;"|Win
+| 15.
+| [[1992 Torneo Godó – Doubles|Apr 1992]]
+| Barcelona, Spain
+| Clay
+| {{flagicon|ECU}} Andrés Gómez
+| {{flagicon|CZE}} [[Ivan Lendl]] <br> {{flagicon|CZE}} [[Karel Nováček]]
+| 6–4, 6–4
+|-
+| style="background:#ffa07a;"|Loss
+| 9.
+| May 1992
+| Bologna, Italy
+| Clay
+| {{flagicon|ARG}} [[Javier Frana]]
+| {{flagicon|USA}} [[Luke Jensen]] <br> {{flagicon|AUS}} [[Laurie Warder]]
+| 2–6, 3–6
+|- bgcolor="#d4f1c5"
+| style="background:#ffa07a;"|Loss
+| 10.
+| [[1992 Mercedes Cup – Doubles|Oct 1992]]
+| [[Stuttgart Open|Stuttgart Outdoor]], Germany
+| Clay
+| {{flagicon|SUI}} [[Marc Rosset]]
+| {{flagicon|USA}} [[Glenn Layendecker]] <br> {{flagicon|South Africa|1928}} [[Byron Talbot]]
+| 6–4, 3–6, 4–6
+|-
+| style="background:#ffa07a;"|Loss
+| 11.
+| [[1993 European Community Championships – Doubles|Nov 1993]]
+| [[ECC Antwerp|Antwerp]], Belgium
+| Carpet (i)
+| {{flagicon|RSA|1928}} [[Wayne Ferreira]]
+| {{flagicon|CAN}} [[Grant Connell]] <br> {{flagicon|USA}} [[Patrick Galbraith]]
+| 3–6, 6–7
+|- bgcolor="#d4f1c5"
+| style="background:#ffa07a;"|Loss
+| 12.
+| [[1994 Trofeo Conde de Godó – Doubles|Apr 1994]]
+| Barcelona, Spain
+| Clay
+| {{flagicon|USA}} Jim Courier
+| {{flagicon|RUS}} [[Yevgeny Kafelnikov]] <br> {{flagicon|CZE}} [[David Rikl]]
+| 7–5, 1–6, 4–6
+|-
+| style="background:#98fb98;"|Win
+| 16.
+| [[1994 Philips Open – Doubles|Apr 1994]]
+| [[Open de Nice Côte d'Azur|Nice]], France
+| Clay
+| {{flagicon|AUS}} [[Mark Woodforde]]
+| {{flagicon|NED}} [[Hendrik Jan Davids]] <br> {{flagicon|South Africa|1928}} [[Piet Norval]]
+| 7–5, 6–3
+|- bgcolor="#e9e9e9"
+| style="background:#ffa07a;"|Loss
+| 13.
+| [[1994 Italian Open – Men's doubles|May 1994]]
+| [[Italian Open (tennis)|Rome]], Italy
+| Clay
+| {{flagicon|ZAF}}<!--Current flag should be used. It was adopted 27 April 1994.--> Wayne Ferreira
+| {{flagicon|RUS}} Yevgeny Kafelnikov <br> {{flagicon|CZE}} David Rikl
+| 1–6, 5–7
+|-
+| style="background:#98fb98;"|Win
+| 17.
+| [[1994 Athens International – Doubles|Oct 1994]]
+| Athens, Greece
+| Clay
+| {{flagicon|ARG}} [[Luis Lobo]]
+| {{flagicon|ITA}} [[Cristian Brandi]] <br> {{flagicon|ITA}} [[Federico Mordegan]]
+| 5–7, 6–1, 6–4
+|-
+| style="background:#ffa07a;"|Loss
+| 14.
+| [[1995 Benson and Hedges Open – Doubles|Jan 1995]]
+| [[ATP Auckland Open|Auckland]], New Zealand
+| Hard
+| {{flagicon|ARG}} Luis Lobo
+| {{flagicon|CAN}} Grant Connell <br> {{flagicon|USA}} Patrick Galbraith
+| 4–6, 3–6
+|-
+| style="background:#ffa07a;"|Loss
+| 15.
+| [[1995 MassMutual Championships – Doubles|Mar 1995]]
+| [[Tennis Channel Open|Scottsdale]], U.S.
+| Hard
+| {{flagicon|ARG}} Luis Lobo
+| {{flagicon|USA}} [[Trevor Kronemann]] <br> {{flagicon|AUS}} [[David Macpherson (tennis)|David Macpherson]]
+| 6–4, 3–6, 4–6
+|- bgcolor="#e9e9e9"
+| style="background:#ffa07a;"|Loss
+| 16.
+| [[1995 Monte Carlo Open – Doubles|May 1995]]
+| Monte Carlo, Monaco
+| Clay
+| {{flagicon|ARG}} Luis Lobo
+| {{flagicon|NED}} [[Jacco Eltingh]] <br> {{flagicon|NED}} [[Paul Haarhuis]]
+| 3–6, 4–6
+|-
+| style="background:#98fb98;"|Win
+| 18.
+| [[1995 Rado Swiss Open – Doubles|Jul 1995]]
+| Gstaad, Switzerland
+| Clay
+| {{flagicon|ARG}} Luis Lobo
+| {{flagicon|FRA}} [[Arnaud Boetsch]] <br> {{flagicon|SUI}} [[Marc Rosset]]
+| 6–7, 7–6, 7–6
+|-
+| style="background:#98fb98;"|Win
+| 19.
+| [[1995 Croatia Open Umag – Doubles|Aug 1995]]
+| Umag, Croatia
+| Clay
+| {{flagicon|ARG}} Luis Lobo
+| {{flagicon|SWE}} [[David Ekerot]] <br> {{flagicon|HUN}} [[László Markovits]]
+| 6–4, 6–0
+|-
+| style="background:#ffa07a;"|Loss
+| 17.
+| [[1995 BMW Open – Doubles|Oct 1995]]
+| [[Bavarian International Tennis Championships|Munich]], Germany
+| Clay
+| {{flagicon|ARG}} Luis Lobo
+| {{flagicon|USA}} Trevor Kronemann <br> {{flagicon|AUS}} David Macpherson
+| 3–6, 4–6
+|- bgcolor="#d4f1c5"
+| style="background:#98fb98;"|Win
+| 20.
+| [[1996 Trofeo Conde de Godó – Doubles|Apr 1996]]
+| Barcelona, Spain
+| Clay
+| {{flagicon|ARG}} Luis Lobo
+| {{flagicon|GBR}} [[Neil Broad]] <br> {{flagicon|RSA}} Piet Norval
+| 6–1, 6–3
+|-
+| style="background:#ffa07a;"|Loss
+| 18.
+| [[1996 Skoda Czech Open – Doubles|May 1996]]
+| [[Prague Open (1987–1999)|Prague]], Czech Republic
+| Clay
+| {{flagicon|ARG}} Luis Lobo
+| {{flagicon|RUS}} Yevgeny Kafelnikov <br> {{flagicon|CZE}} Daniel Vacek
+| 3–6, 7–6, 3–6
+|-
+| style="background:#98fb98;"|Win
+| 21.
+| [[1997 Sydney International – Men's doubles|Jan 1997]]
+| [[Sydney International|Sydney Outdoor]], Australia
+| Hard
+| {{flagicon|ARG}} Luis Lobo
+| {{flagicon|NED}} Paul Haarhuis <br> {{flagicon|NED}} [[Jan Siemerink]]
+| 6–4, 6–7, 6–3
+|-
+| style="background:#98fb98;"|Win
+| 22.
+| [[1997 Franklin Templeton Classic – Doubles|Mar 1997]]
+| [[Tennis Channel Open|Scottsdale]], U.S.
+| Hard
+| {{flagicon|ARG}} Luis Lobo
+| {{flagicon|SWE}} [[Jonas Björkman]] <br> {{flagicon|USA}} [[Rick Leach]]
+| 6–3, 6–3
+|- bgcolor="#e9e9e9"
+| style="background:#98fb98;"|Win
+| 23.
+| [[1997 ATP German Open – Doubles|May 1997]]
+| Hamburg, Germany
+| Clay
+| {{flagicon|ARG}} Luis Lobo
+| {{flagicon|GBR}} Neil Broad <br> {{flagicon|RSA}} Piet Norval
+| 6–3, 7–6
+|-
+| style="background:#98fb98;"|Win
+| 24.
+| [[1997 Romanian Open – Doubles|Oct 1997]]
+| [[Romanian Open|Bucharest]], Romania
+| Clay
+| {{flagicon|ARG}} Luis Lobo
+| {{flagicon|NED}} [[Hendrik Jan Davids]] <br> {{flagicon|ARG}} [[Daniel Orsanic]]
+| 7–5, 7–5
+|-
+| style="background:#98fb98;"|Win
+| 25.
+| [[1998 Waldbaum's Hamlet Cup – Doubles|Aug 1998]]
+| [[Connecticut Open (tennis)|Long Island]], U.S.
+| Hard
+| {{flagicon|ESP}} [[Julián Alonso]]
+| {{flagicon|USA}} [[Brandon Coupe]] <br> {{flagicon|USA}} [[Dave Randall]]
+| 6–4, 6–4
+|-
+| style="background:#98fb98;"|Win
+| 26.
+| [[1999 Croatia Open – Doubles|Aug 1999]]
+| Umag, Croatia
+| Clay
+| {{flagicon|ARG}} [[Mariano Puerta]]
+| {{flagicon|ITA}} [[Massimo Bertolini]] <br> {{flagicon|ITA}} [[Cristian Brandi]]
+| 3–6, 6–2, 6–3
+|}
+
+==Doubles performance timeline==
+{{Performance key|short=yes|active=no}}
+{| class="wikitable"
+! Tournament !! [[1985 Grand Prix (tennis)|1985]] !! [[1986 Grand Prix (tennis)|1986]] !! [[1987 Grand Prix (tennis)|1987]] !! [[1988 Grand Prix (tennis)|1988]] !! [[1989 Grand Prix (tennis)|1989]] !! [[1990 ATP Tour|1990]] !! [[1991 ATP Tour|1991]] !! [[1992 ATP Tour|1992]] !! [[1993 ATP Tour|1993]] !! [[1994 ATP Tour|1994]] !! [[1995 ATP Tour|1995]] !! [[1996 ATP Tour|1996]] !! [[1997 ATP Tour|1997]] !! [[1998 ATP Tour|1998]] !! [[1999 ATP Tour|1999]] !! [[2000 ATP Tour|2000]] !! Career SR !! Career W–L
+|-
+| colspan="19" | '''Grand Slam tournaments'''
+|-
+|bgcolor="#efefef"| [[Australian Open]]
+|align="center"|A
+|align="center"|NH
+|align="center"|A
+|align="center"|A
+|align="center"|A
+|align="center" style="background:#afeeee;"|[[1990 Australian Open – Men's doubles|2R]]
+|align="center" style="background:#afeeee;"|[[1991 Australian Open – Men's doubles|1R]]
+|align="center" style="background:#afeeee;"|[[1992 Australian Open – Men's doubles|2R]]
+|align="center" style="background:#ffebcd;"|[[1993 Australian Open – Men's doubles|QF]]
+|align="center" style="background:#afeeee;"|[[1994 Australian Open – Men's doubles|1R]]
+|align="center" style="background:#afeeee;"|[[1995 Australian Open – Men's doubles|1R]]
+|align="center" style="background:#afeeee;"|[[1996 Australian Open – Men's doubles|2R]]
+|align="center" style="background:#afeeee;"|[[1997 Australian Open – Men's doubles|3R]]
+|align="center" style="background:#ffebcd;"|[[1998 Australian Open – Men's doubles|QF]]
+|align="center" style="background:#afeeee;"|[[1999 Australian Open – Men's doubles|1R]]
+|align="center"|A
+|align="center" style="background:#EFEFEF;" |0 / 10
+|align="center" style="background:#EFEFEF;" |11–10
+|-
+|bgcolor="#efefef"| [[French Open]]
+|align="center"|A
+|align="center"|A
+|align="center" style="background:#afeeee;"|[[1987 French Open – Men's doubles|2R]]
+|align="center" style="background:#afeeee;"|[[1988 French Open – Men's doubles|1R]]
+|align="center" style="background:#ffebcd;"|[[1989 French Open – Men's doubles|QF]]
+|align="center" style="background:#afeeee;"|[[1990 French Open – Men's doubles|1R]]
+|align="center" style="background:#afeeee;"|[[1991 French Open – Men's doubles|1R]]
+|align="center" style="background:#afeeee;"|[[1992 French Open – Men's doubles|1R]]
+|align="center" style="background:#afeeee;"|[[1993 French Open – Men's doubles|2R]]
+|align="center" style="background:#afeeee;"|[[1994 French Open – Men's doubles|2R]]
+|align="center" style="background:#afeeee;"|[[1995 French Open – Men's doubles|1R]]
+|align="center" style="background:#afeeee;"|[[1996 French Open – Men's doubles|3R]]
+|align="center" style="background:#afeeee;"|[[1997 French Open – Men's doubles|2R]]
+|align="center" style="background:#afeeee;"|[[1998 French Open – Men's doubles|2R]]
+|align="center" style="background:#afeeee;"|[[1999 French Open – Men's doubles|3R]]
+|align="center"|A
+|align="center" style="background:#EFEFEF;" |0 / 13
+|align="center" style="background:#EFEFEF;" |12–13
+|-
+|bgcolor="#efefef"| [[Wimbledon Championships|Wimbledon]]
+|align="center"|A
+|align="center"|A
+|align="center"|A
+|align="center" style="background:#afeeee;"|[[1988 Wimbledon Championships – Men's doubles|1R]]
+|align="center"|A
+|align="center"|A
+|align="center" style="background:#afeeee;"|[[1991 Wimbledon Championships – Men's doubles|1R]]
+|align="center"|A
+|align="center"|A
+|align="center"|A
+|align="center"|A
+|align="center" style="background:#afeeee;"|[[1996 Wimbledon Championships – Men's doubles|1R]]
+|align="center"|A
+|align="center"|A
+|align="center" style="background:#afeeee;"|[[1999 Wimbledon Championships – Men's doubles|1R]]
+|align="center"|A
+|align="center" style="background:#EFEFEF;" |0 / 4
+|align="center" style="background:#EFEFEF;" |0–4
+|-
+|bgcolor="#efefef"| [[US Open (tennis)|US Open]]
+|align="center"|A
+|align="center"|A
+|align="center" style="background:#afeeee;"|[[1987 US Open – Men's doubles|1R]]
+|align="center" style="background:#afeeee;"|[[1988 US Open – Men's doubles|2R]]
+|align="center" style="background:#afeeee;"|[[1989 US Open – Men's doubles|3R]]
+|align="center" style="background:#afeeee;"|[[1990 US Open – Men's doubles|2R]]
+|align="center" style="background:#afeeee;"|[[1991 US Open – Men's doubles|1R]]
+|align="center" style="background:#afeeee;"|[[1992 US Open – Men's doubles|1R]]
+|align="center" style="background:#ffebcd;"|[[1993 US Open – Men's doubles|QF]]
+|align="center" style="background:#afeeee;"|[[1994 US Open – Men's doubles|1R]]
+|align="center" style="background:#afeeee;"|[[1995 US Open – Men's doubles|1R]]
+|align="center" style="background:#ffebcd;"|[[1996 US Open – Men's doubles|QF]]
+|align="center" style="background:#afeeee;"|[[1997 US Open – Men's doubles|2R]]
+|align="center" style="background:#ffebcd;"|[[1998 US Open – Men's doubles|QF]]
+|align="center" style="background:#afeeee;"|[[1999 US Open – Men's doubles|1R]]
+|align="center"|A
+|align="center" style="background:#EFEFEF;" |0 / 13
+|align="center" style="background:#EFEFEF;" |14–13
+|-bgcolor="#efefef"
+|Grand Slam SR
+|align="center"|0 / 0
+|align="center"|0 / 0
+|align="center"|0 / 2
+|align="center"|0 / 3
+|align="center"|0 / 2
+|align="center"|0 / 3
+|align="center"|0 / 4
+|align="center"|0 / 3
+|align="center"|0 / 3
+|align="center"|0 / 3
+|align="center"|0 / 3
+|align="center"|0 / 4
+|align="center"|0 / 3
+|align="center"|0 / 3
+|align="center"|0 / 4
+|align="center"|0 / 0
+|align="center"|0 / 40
+|align="center" style="background:#EFEFEF;" |N/A
+|-
+|style="background:#EFEFEF;" |Annual win–loss
+|align="center" style="background:#EFEFEF;"|0–0
+|align="center" style="background:#EFEFEF;"|0–0
+|align="center" style="background:#EFEFEF;"|1–2
+|align="center" style="background:#EFEFEF;"|1–3
+|align="center" style="background:#EFEFEF;"|5–2
+|align="center" style="background:#EFEFEF;"|2–3
+|align="center" style="background:#EFEFEF;"|0–4
+|align="center" style="background:#EFEFEF;"|1–3
+|align="center" style="background:#EFEFEF;"|7–3
+|align="center" style="background:#EFEFEF;"|1–3
+|align="center" style="background:#EFEFEF;"|0–3
+|align="center" style="background:#EFEFEF;"|6–4
+|align="center" style="background:#EFEFEF;"|4–3
+|align="center" style="background:#EFEFEF;"|7–3
+|align="center" style="background:#EFEFEF;"|2–4
+|align="center" style="background:#EFEFEF;"|0–0
+|align="center" style="background:#EFEFEF;"|N/A
+|align="center" style="background:#EFEFEF;"|37–40
+|-
+| colspan="19" | '''ATP Masters Series'''
+|-
+|bgcolor="#efefef"| [[Indian Wells Open|Indian Wells]]
+|align="center" colspan="5" rowspan="9" style="color:#767676;"|Tournaments Were Not<br><br>Masters Series Events<br><br>Before 1990
+|align="center" style="background:#afeeee;"|1R
+|align="center" style="background:#00ff00;"|'''W'''
+|align="center" style="background:#afeeee;"|2R
+|align="center" style="background:#afeeee;"|1R
+|align="center" style="background:#afeeee;"|1R
+|align="center" style="background:#afeeee;"|1R
+|align="center" style="background:#afeeee;"|1R
+|align="center" style="background:#afeeee;"|2R
+|align="center" style="background:#ffebcd;"|QF
+|align="center" style="background:#ffebcd;"|QF
+|align="center"|A
+|align="center" style="background:#EFEFEF;" |1 / 10
+|align="center" style="background:#EFEFEF;" |11–9
+|-
+|bgcolor="#efefef"| [[Miami Open (tennis)|Key Biscayne]]
+|align="center" style="background:#afeeee;"|2R
+|align="center" style="background:#afeeee;"|2R
+|align="center"|A
+|align="center" style="background:#afeeee;"|2R
+|align="center" style="background:#afeeee;"|1R
+|align="center" style="background:#ffebcd;"|QF
+|align="center" style="background:#afeeee;"|3R
+|align="center" style="background:yellow;"|SF
+|align="center" style="background:#afeeee;"|2R
+|align="center" style="background:#afeeee;"|2R
+|align="center"|A
+|align="center" style="background:#EFEFEF;" |0 / 9
+|align="center" style="background:#EFEFEF;" |9–8
+|-
+|bgcolor="#efefef"| [[Monte-Carlo Masters|Monte-Carlo]]
+|align="center" style="background:#D8BFD8;"|F
+|align="center" style="background:#ffebcd;"|QF
+|align="center" style="background:#afeeee;"|1R
+|align="center" style="background:#afeeee;"|1R
+|align="center" style="background:#afeeee;"|1R
+|align="center" style="background:#D8BFD8;"|F
+|align="center" style="background:yellow;"|SF
+|align="center" style="background:#ffebcd;"|QF
+|align="center" style="background:#afeeee;"|1R
+|align="center" style="background:#afeeee;"|1R
+|align="center"|A
+|align="center" style="background:#EFEFEF;" |0 / 10
+|align="center" style="background:#EFEFEF;" |13–10
+|-
+|bgcolor="#efefef"| [[Italian Open (tennis)|Rome]]
+|align="center" style="background:#afeeee;"|2R
+|align="center"|A
+|align="center" style="background:#afeeee;"|2R
+|align="center" style="background:#afeeee;"|2R
+|align="center" style="background:#D8BFD8;"|F
+|align="center" style="background:#afeeee;"|2R
+|align="center" style="background:#ffebcd;"|QF
+|align="center" style="background:#ffebcd;"|QF
+|align="center" style="background:yellow;"|SF
+|align="center" style="background:#afeeee;"|1R
+|align="center"|A
+|align="center" style="background:#EFEFEF;" |0 / 9
+|align="center" style="background:#EFEFEF;" |15–9
+|-
+|bgcolor="#efefef"| [[Hamburg European Open|Hamburg]]
+|align="center" style="background:#afeeee;"|2R
+|align="center" style="background:yellow;"|SF
+|align="center" style="background:#afeeee;"|1R
+|align="center" style="background:#afeeee;"|1R
+|align="center" style="background:#afeeee;"|2R
+|align="center" style="background:#afeeee;"|2R
+|align="center" style="background:#ffebcd;"|QF
+|align="center" style="background:#00ff00;"|'''W'''
+|align="center" style="background:#afeeee;"|2R
+|align="center" style="background:#afeeee;"|1R
+|align="center"|A
+|align="center" style="background:#EFEFEF;" |1 / 10
+|align="center" style="background:#EFEFEF;" |12–8
+|-
+|bgcolor="#efefef"| [[Canadian Open (tennis)|Montreal / Toronto]]
+|align="center"|A
+|align="center"|A
+|align="center"|A
+|align="center"|A
+|align="center"|A
+|align="center"|A
+|align="center" style="background:yellow;"|SF
+|align="center"|A
+|align="center"|A
+|align="center"|A
+|align="center"|A
+|align="center" style="background:#EFEFEF;" |0 / 1
+|align="center" style="background:#EFEFEF;" |2–1
+|-
+|bgcolor="#efefef"| [[Cincinnati Masters|Cincinnati]]
+|align="center"|A
+|align="center"|A
+|align="center"|A
+|align="center"|A
+|align="center"|A
+|align="center"|A
+|align="center"|A
+|align="center"|A
+|align="center"|A
+|align="center"|A
+|align="center"|A
+|align="center" style="background:#EFEFEF;" |0 / 0
+|align="center" style="background:#EFEFEF;" |0–0
+|-
+|bgcolor="#efefef"| [[Madrid Open (tennis)|Madrid (Stuttgart)]]
+|align="center" style="background:#afeeee;"|1R
+|align="center"|A
+|align="center" style="background:#afeeee;"|2R
+|align="center"|A
+|align="center" style="background:#ffebcd;"|QF
+|align="center"|A
+|align="center" style="background:#afeeee;"|1R
+|align="center"|A
+|align="center" style="background:#afeeee;"|1R
+|align="center"|A
+|align="center"|A
+|align="center" style="background:#EFEFEF;" |0 / 5
+|align="center" style="background:#EFEFEF;" |3–5
+|-
+|bgcolor="#efefef"| [[Paris Masters|Paris]]
+|align="center" style="background:#afeeee;"|1R
+|align="center"|A
+|align="center" style="background:#afeeee;"|1R
+|align="center"|A
+|align="center" style="background:#afeeee;"|1R
+|align="center"|A
+|align="center" style="background:#afeeee;"|1R
+|align="center"|A
+|align="center" style="background:#afeeee;"|2R
+|align="center"|A
+|align="center"|A
+|align="center" style="background:#EFEFEF;" |0 / 5
+|align="center" style="background:#EFEFEF;" |1–5
+|-bgcolor="#efefef"
+|style="background:#EFEFEF;" |Masters Series SR
+|align="center" colspan="5" style="color:#767676;"|N/A
+|align="center"|0 / 7
+|align="center"|1 / 4
+|align="center"|0 / 6
+|align="center"|0 / 5
+|align="center"|0 / 7
+|align="center"|0 / 5
+|align="center"|0 / 8
+|align="center"|1 / 5
+|align="center"|0 / 7
+|align="center"|0 / 5
+|align="center"|0 / 0
+|align="center"|2 / 59
+|align="center" style="background:#EFEFEF;" |N/A
+|-bgcolor="#efefef"
+|style="background:#EFEFEF;" |Annual win–loss
+|align="center" colspan="5" style="color:#767676;"|N/A
+|align="center" style="background:#EFEFEF;"|4–7
+|align="center" style="background:#EFEFEF;"|11–3
+|align="center" style="background:#EFEFEF;"|3–6
+|align="center" style="background:#EFEFEF;"|1–4
+|align="center" style="background:#EFEFEF;"|7–7
+|align="center" style="background:#EFEFEF;"|9–4
+|align="center" style="background:#EFEFEF;"|10–8
+|align="center" style="background:#EFEFEF;"|12–4
+|align="center" style="background:#EFEFEF;"|6–7
+|align="center" style="background:#EFEFEF;"|3–5
+|align="center" style="background:#EFEFEF;"|0–0
+|align="center" style="background:#EFEFEF;"|N/A
+|align="center" style="background:#EFEFEF;"|66–55
+|-
+|style="background:#EFEFEF;"| Year-end ranking
+|align="center"|442
+|align="center"|351
+|align="center"|67
+|align="center"|76
+|align="center"|22
+|align="center"|30
+|align="center"|36
+|align="center"|48
+|align="center"|45
+|align="center"|26
+|align="center"|25
+|align="center"|31
+|align="center"|22
+|align="center"|36
+|align="center"|70
+|align="center"|257
+|colspan=2 align="center" style="background:#EFEFEF;"|N/A
+|}
+
+==Junior Grand Slam finals==
+
+===Singles: 2 (1–1)===
+{|class="sortable wikitable" style=font-size:97%
+|-
+!Outcome
+!Year
+!width=150|Championship
+!Surface
+!width=150|Opponent
+!width=150|Score
+|- style="background:#cfc;"
+| style="background:#ffa07a;"|Runner-up
+|[[1986 Wimbledon Championships – Boys' singles|1986]]
+|[[Wimbledon Championships|Wimbledon]]
+|Grass
+|{{flagicon|MEX}} [[Eduardo Vélez (tennis)|Eduardo Vélez]]
+|3–6, 5–7
+|- style="background:#ccf;"
+| style="background:#98fb98;"|Winner
+|[[1986 US Open (tennis)|1986]] 
+|[[US Open (tennis)|US Open]]
+|Hard
+|{{flagicon|ARG}} [[Franco Davín]]
+|6–2, 6–2
+|}
+
+===Doubles: 1 (1–0)===
+{|class="sortable wikitable" style=font-size:97%
+|-
+!Outcome
+!Year
+!width=100|Championship
+!Surface
+!width=150|Partner
+!width=200|Opponent
+!width=100|Score
+|- style="background:#ccf;"
+| style="background:#98fb98;"|Winner
+|[[1986 US Open (tennis)|1986]] 
+|[[US Open (tennis)|US Open]]
+|Hard
+|{{flagicon|ESP}} [[Tomás Carbonell (tennis)|Tomás Carbonell]]
+|{{flagicon|USA}} [[Jeff Tarango]] <br> {{flagicon|USA}} [[David Wheaton]]
+|6–4, 1–6, 6–1
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{ATP}}
+* {{ITF}}
+* {{Davis Cup player}}
+
+{{US Open boys' singles champions}}
+{{US Open boys' doubles champions}}
+{{ATP Masters Series tournament doubles winners}}
+
+{{DEFAULTSORT:Sanchez, Javier}}
+[[Category:Tennis players from Catalonia]]
+[[Category:Sportspeople from Andorra la Vella]]
+[[Category:Sportspeople from Pamplona]]
+[[Category:Spanish expatriate sportspeople in Andorra]]
+[[Category:Spanish male tennis players]]
+[[Category:Tennis players at the 1988 Summer Olympics]]
+[[Category:US Open (tennis) junior champions]]
+[[Category:1968 births]]
+[[Category:Living people]]
+[[Category:Grand Slam (tennis) champions in boys' singles]]
+[[Category:Grand Slam (tennis) champions in boys' doubles]]
+[[Category:Olympic tennis players for Spain]]
+[[Category:20th-century Spanish sportsmen]]

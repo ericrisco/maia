@@ -1,0 +1,97 @@
+{{short description|Andorran footballer}}
+{{BLP sources|date=December 2016}}
+{{Infobox football biography
+| name                = Moisés San Nicolás
+| fullname            = Moisés San Nicolás Schellens
+| image               = Andorra national football team - Moises San Nicolas (001).jpg
+| caption             = San Nicolás in 2016
+| birth_date          = {{birth date and age|df=yes|1993|9|17}}
+| birth_place         = [[Andorra la Vella]], [[Andorra]]
+| height              = {{height|m=1.88}}<ref>{{cite web|url=https://www.uefa.com/uefanationsleague/teams/players/250014277--moises-san-nicolas/|publisher=[[UEFA]]|date=September 2020|access-date=20 September 2020|language=English|title=Moisés San Nicolás player profile}}</ref>
+| position            = [[Defender (association football)|Centre back, right back]] / [[Midfielder (association football)|right midfielder]]
+| currentclub         = [[FC Santa Coloma]]
+| clubnumber          = 23
+| youthyears1         = {{0}}{{0}}{{0}}{{0}}–2013
+| youthclubs1         = [[FC Andorra]]
+| years1              = 2011–2014
+| caps1               = 42
+| goals1              = 1
+| clubs1              = [[FC Andorra]]
+| years2              = 2014–2015
+| caps2               = 18
+| goals2              = 1
+| clubs2              = [[FC Ordino|Ordino]]
+| years3              = 2015–2017
+| caps3               = 41
+| goals3              = 1
+| clubs3              = [[FC Lusitanos|Lusitanos]]
+| years4              = 2017–2020
+| caps4               = 58
+| goals4              = 0
+| clubs4              = [[FC Santa Coloma]]
+| years5              = 2020–2023
+| caps5               = 39
+| goals5              = 0
+| clubs5              = [[Atlètic Club d'Escaldes|Atlètic d'Escaldes]]
+| years6              = 2023–
+| caps6               = 60
+| goals6              = 4
+| clubs6              = [[FC Santa Coloma]]
+| nationalyears1      = 2010–2011
+| nationalteam1       = [[Andorra national under-19 football team|Andorra U19]]
+| nationalcaps1       = 6
+| nationalgoals1      = 0
+| nationalyears2      = 2011–2014
+| nationalteam2       = [[Andorra national under-21 football team|Andorra U21]]
+| nationalcaps2       = 11
+| nationalgoals2      = 1
+| nationalyears3      = 2012–
+| nationalteam3       = [[Andorra national football team|Andorra]]
+| nationalcaps3       = 100
+| nationalgoals3      = 1
+| club-update         = 16 May 2026
+| nationalteam-update = 4 June 2026
+}}
+{{family name hatnote|San Nicolás|Schellens|lang=Catalan}}
+'''Moisés San Nicolás Schellens''' (born 17 September 1993) is an Andorran [[Association football|footballer]] who plays as a [[Defender (association football)|centre back, right back]] or [[Midfielder (association football)|right midfielder]] for [[FC Santa Coloma]] in the [[Primera Divisió]].<ref>{{Soccerway|moises-san-nicolas/134284}}</ref>
+
+==International career==
+San Nicolás was born in Andorra to an Andorran father and Belgian mother. He plays for the [[Andorra national football team|Andorra national team]].<ref>{{Cite web|url=https://www.proximus.be/pickx/fr/2384072/trebel-amat-walsh-ces-doubles-nationalites-etonnantes|title=Trebel, Amat, Walsh… Ces doubles nationalités étonnantes|website=www.proximus.be}}</ref>
+
+==International goals==
+{| class="wikitable"
+|-
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 11 October 2025 || [[Daugava Stadium (Riga)|Daugava Stadium]], [[Riga]], [[Latvia]] || {{fb|LVA}} || align=center|'''1'''–0 || align=center| 2–2 || [[2026 FIFA World Cup qualification – UEFA Group K|2026 FIFA World Cup qualification]]
+|-
+|}
+
+==See also==
+*[[List of men's footballers with 100 or more international caps]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{NFT player}}
+* {{WorldFootball}}
+
+{{Use dmy dates|date=January 2014}}
+
+{{FC Santa Coloma squad}}
+
+{{DEFAULTSORT:San Nicolas, Moises}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:Footballers from Andorra la Vella]]
+[[Category:Andorran men's footballers]]
+[[Category:FC Andorra players]]
+[[Category:FC Ordino players]]
+[[Category:Andorra men's international footballers]]
+[[Category:Andorra men's youth international footballers]]
+[[Category:Andorran people of Belgian descent]]
+[[Category:Men's association football defenders]]
+[[Category:FIFA Men's Century Club]]
+
+{{Andorra-footy-bio-stub}}

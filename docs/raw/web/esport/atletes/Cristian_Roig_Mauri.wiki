@@ -1,0 +1,45 @@
+{{short description|Andorran footballer}}
+{{Use dmy dates|date=December 2021}}
+{{Infobox football biography
+|          name      = Cristian Roig
+|               image =
+|            fullname = Cristian Roig Mauri
+|         birth_date = {{Birth date and age|df=yes|1977|7|23}}
+|      birth_place = [[Andorra]]
+|              height =
+|            position = Defender
+|         currentclub = 
+|          clubnumber = 
+| youthyears1 =
+| youthclubs1 =
+| years1 =   1997–2008
+| clubs1 =   [[UE Sant Julià]]
+| caps1 =
+| goals1 =
+| nationalyears1 =   1998
+| nationalteam1 =   [[Andorra national football team|Andorra]]
+| nationalcaps1 =    1
+| nationalgoals1 =   0
+| manageryears1 =
+| managerclubs1 =
+| pcupdate = 9 March 2008
+| ntupdate = 9 March 2008
+}}
+
+'''Cristian Roig Mauri''' (born 23 July 1977) is a former [[Andorra national football team|Andorran international]] footballer. He was capped for Andorra in 1998.<ref>{{Cite web |title=Andorra - Record International Players |url=https://www.rsssf.org/miscellaneous/ando-recintlp.html |access-date=2026-03-17 |website=www.rsssf.org}}</ref>
+
+==References==
+{{reflist}}
+*{{NFT player|pid=13479}}
+
+{{DEFAULTSORT:Roig Mauri, Cristian}}
+[[Category:1977 births]]
+[[Category:Living people]]
+[[Category:Andorra men's international footballers]]
+[[Category:Andorran men's footballers]]
+[[Category:UE Sant Julià players]]
+[[Category:Men's association football defenders]]
+[[Category:Constel·lació Esportiva players]]
+
+
+{{Andorra-footy-bio-stub}}

@@ -1,0 +1,43 @@
+{{short description|Andorran middle-distance runner}}
+{{Infobox sportsperson
+ |           name = Josep Graells
+ |          image = 
+ |      imagesize = 
+ |        caption = 
+ |      full_name = Josep Graells Esquius
+ |     birth_date = {{Birth date and age|1964|02|01|df=yes}}
+ |    birth_place = [[Les Escaldes]], Andorra
+ |         height = 170 cm
+ |         weight = 62 kg
+ |        country = {{flag|Andorra}}
+ |          sport = [[Middle-distance running]]
+ |          event = 
+ |             pb = 
+ |    show-medals = 
+ | medaltemplates = 
+}}
+
+'''Josep Graells Esquius'''{{family name footnote|lang=Catalan|Graells|Esquius}} (born 1 February 1964) is an [[Andorra]]n [[Olympic Games|Olympic]] [[Middle-distance running|middle-distance runner]]. He represented his country in the [[Athletics at the 1988 Summer Olympics – Men's 1500 metres|men's 1500 meters]] and the [[Athletics at the 1988 Summer Olympics – Men's 800 metres|men's 800 meters]] at the [[1988 Summer Olympics]]. His time was a 1:53.34 in the 800, and a 3:52.68 in the 1500 heats.<ref>{{cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/gr/josep-graells-1.html |title=Josep Graells |archive-url=https://web.archive.org/web/20161203064408/http://www.sports-reference.com/olympics/athletes/gr/josep-graells-1.html |archive-date=2016-12-03 |quote=Full name: Josep Graells Esquius}}</ref>
+
+Graells was the [[List of flag bearers for Andorra at the Olympics|flag bearer for Andorra]] in the [[1988 Summer Olympics Parade of Nations|Seoul 1988 opening ceremony]].<ref>{{cite web |url=https://www.olympedia.org/flagbearers?country_id=AND |title=Flagbearers for Andorra |website=[[Olympedia]] |publisher=[[OlyMADMen]] |access-date=20 December 2023}}</ref>
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+*{{sports links}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Graells, Josep}}
+[[Category:1964 births]]
+[[Category:Living people]]
+[[Category:Andorran men middle-distance runners]]
+[[Category:Olympic athletes for Andorra]]
+[[Category:Athletes (track and field) at the 1988 Summer Olympics]]
+[[Category:Olympic men middle-distance runners]]
+
+{{Andorra-athletics-bio-stub}}

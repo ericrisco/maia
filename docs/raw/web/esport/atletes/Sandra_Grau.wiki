@@ -1,0 +1,42 @@
+{{Short description|Andorran alpine skier (born 1970)}}
+{{Use dmy dates|date=March 2020}}
+{{Infobox sportsperson
+| name           = Sandra Grau
+| image          = 
+| caption        = 
+| full_name      = Sandra Grau Muxella
+| birth_date     = {{birth date and age|1970|4|27|df=yes}}
+| birth_place    = [[Sant Julià de Lòria]], Andorra
+| death_date     = 
+| death_place    = 
+| country        = Andorra
+| sport          = [[Alpine skiing]]
+}}
+
+'''Sandra Grau Muxella'''{{family name footnote|lang=Catalan|Grau|Muxella}} (born 27 April 1970) is an [[Andorra|Andorran]] [[Alpine skiing|alpine skier]]. She competed in [[Alpine skiing at the 1988 Winter Olympics|three events]] at the [[1988 Winter Olympics]].<ref name="SportsRef">{{cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/gr/sandra-grau-1.html |title=Sandra Grau |access-date=24 March 2018 |url-status=dead |archive-url=https://web.archive.org/web/20161203064947/http://www.sports-reference.com/olympics/athletes/gr/sandra-grau-1.html |archive-date=3 December 2016 |quote=Full name: Sandra Grau Muxella}}</ref>
+
+She is the sister of alpine skier [[Vicky Grau]].<ref name="SportsRef" />
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{FIS alpine skier|21456|Sandra GRAU}}
+* {{Olympics.com|sandra-grau-muxella|Sandra GRAU-MUXELLA|org_id=sandra-grau|org_name=Sandra GRAU|org_archive=20160925094707}}
+* {{Olympedia|81189|Sandra Grau}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Grau, Sandra}}
+[[Category:1970 births]]
+[[Category:Living people]]
+[[Category:Andorran female alpine skiers]]
+[[Category:Olympic alpine skiers for Andorra]]
+[[Category:Alpine skiers at the 1988 Winter Olympics]]
+[[Category:Place of birth missing (living people)]]
+
+
+{{Andorra-alpine-skiing-bio-stub}}

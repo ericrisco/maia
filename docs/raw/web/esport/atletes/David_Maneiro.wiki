@@ -1,0 +1,59 @@
+{{short description|Andorran footballer}}
+{{Use dmy dates|date=July 2023}}
+{{Infobox football biography
+|name           = David Maneiro
+|image          =
+|image_size     =
+|caption        =
+|fullname       = 
+|birth_date     = {{birth date and age|1989|2|17|df=y}}
+|height         = 1.87m<ref>{{Soccerway|david-maneiro/100905}}</ref>
+|position       = [[Defender (association football)|Defender]]
+|currentclub    = [[Atlètic Club d'Escaldes|Atlètic d'Escaldes]]
+|clubnumber     = 3
+|years1         = 2008–2013
+|clubs1         = [[FC Andorra]]
+|caps1          = 
+|goals1         = 
+|years2         = 2013–2019
+|clubs2         = [[UE Santa Coloma|Santa Coloma]]
+|caps2          = 
+|goals2         = 
+|years3         = 2019–
+|clubs3         = [[Atlètic Club d'Escaldes|Atlètic d'Escaldes]]
+|caps3          = 8
+|goals3         = 0
+|nationalyears1 = 2009–
+|nationalteam1  = [[Andorra national football team|Andorra]]
+|nationalcaps1  = 12
+|nationalgoals1 = 0
+|club-update    = 22:00, 30 November 2019 (UTC)
+|ntupdate       = 3 September 2017
+}}
+
+'''David Maneiro''' (born 17 February 1989) is an Andorran international [[Association football|footballer]] who plays for [[UE Santa Coloma]], as a [[defender (association football)|defender]].
+
+==Career==
+He has played club football for [[FC Andorra]] and [[UE Santa Coloma]].<ref name = "NFT">{{NFT player|pid=33948|accessdate=11 October 2014}}</ref>
+
+He made his international debut for [[Andorra national football team|Andorra]] in 2009.<ref name = "NFT"/>
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.lapreferente.com/J238456C8407/atletic-escaldes/maneiro.html David Maneiro] at La Preferente
+
+{{DEFAULTSORT:Maneiro, David}}
+[[Category:1989 births]]
+[[Category:Living people]]
+[[Category:Andorran men's footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:FC Andorra players]]
+[[Category:UE Santa Coloma players]]
+[[Category:Primera Divisió players]]
+[[Category:Men's association football defenders]]
+[[Category:Atlètic Club d'Escaldes players]]
+
+
+{{Andorra-footy-bio-stub}}

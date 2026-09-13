@@ -1,0 +1,121 @@
+{{short description|Andorran footballer}}
+{{Use dmy dates|date=October 2020}}
+{{Infobox football biography
+| name           = Xisco Pires
+| fullname       = Francisco Manuel Pires Costa
+| image          =
+| caption        =
+| height         = 1.94m
+| birth_date     = {{Birth date and age|df=yes|1998|1|25}}
+| birth_place    = [[Viana do Castelo]], Portugal
+| position       = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub    = [[CF Esperança d'Andorra|Esperança]]
+| clubnumber     = 1
+| youthyears1    = 2013–2017
+| youthclubs1    = [[FC Andorra]]
+| years1         = 2017–2019
+| clubs1         = [[FC Andorra]]
+| caps1          = 9
+| goals1         = 0
+| years2         = 2019–2020
+| clubs2         = [[UE Santa Coloma]]
+| caps2          = 13
+| goals2         = 0
+| years3         = 2020–2021
+| clubs3         = [[UE Engordany|Engordany]]
+| caps3          = 8
+| goals3         = 0
+| years4         = 2021–2022
+| clubs4         = [[CD Manchego Ciudad Real|Manchego]]
+| caps4          = 11
+| goals4         = 0
+| years5         = 2022–2023
+| clubs5         = [[SC Vianense|Vianense]]
+| caps5          = 4
+| goals5         = 0
+| years6         = 2023–2024
+| clubs6         = [[CF La Solana|La Solana]]
+| caps6          = 22
+| goals6         = 0
+| years7         = 2024–2026
+| clubs7         = [[FC Ordino|Ordino]]
+| caps7          = 37
+| goals7         = 0
+| years8         = 2026–
+| clubs8         = [[CF Esperança d'Andorra|Esperança]]
+| caps8          = 0
+| goals8         = 0
+| nationalyears1 = 2014
+| nationalteam1  = [[Andorra national under-17 football team|Andorra U17]]
+| nationalcaps1  = 3
+| nationalgoals1 = 0
+| nationalyears2 = 2015–2016
+| nationalteam2  = [[Andorra national under-19 football team|Andorra U19]]
+| nationalcaps2  = 5
+| nationalgoals2 = 0
+| nationalyears3 = 2017–2020
+| nationalteam3  = [[Andorra national under-21 football team|Andorra U21]]
+| nationalcaps3  = 6
+| nationalgoals3 = 0
+| nationalyears4 = 2020–
+| nationalteam4  = [[Andorra national football team|Andorra]]
+| nationalcaps4  = 5
+| nationalgoals4 = 0
+| pcupdate       = 16 May 2026
+| ntupdate       = 17 November 2025
+}}
+'''Francisco Manuel''' "'''Xisco'''" '''Pires Costa''' (born 25 January 1998) is an Andorran [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for Andorran club [[CF Esperança d'Andorra]] and the [[Andorra national football team|Andorra national team]].<ref>{{WorldFootball.net}}</ref>
+
+==Career==
+Pires made his international debut for [[Andorra national football team|Andorra]] on 7 October 2020 in a [[Exhibition game|friendly]] match against [[Cape Verde national football team|Cape Verde]], which finished as a 1–2 home loss.<ref name="EUF">{{cite web |url=https://eu-football.info/_player.php?id=31114 |title=Francisco Pires |website=EU-Football.info |access-date=7 October 2020}}</ref>
+
+==Career statistics==
+
+===International===
+{{updated|17 November 2025|<ref name="EUF"/>}}
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=5|[[Andorra national football team|Andorra]]
+|-
+!Year!!Apps!!Goals
+|-
+|2020||1||0
+|-
+|2021||1||0
+|-
+|2024||2||0
+|-
+|2025||1||0
+|-
+!Total!!5!!0
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{LaPreferente}}
+* {{Soccerway}}
+
+{{DEFAULTSORT:Pires, Xisco}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:Footballers from Viana do Castelo]]
+[[Category:Andorran men's footballers]]
+[[Category:Sportspeople of Portuguese descent]]
+[[Category:Andorra men's youth international footballers]]
+[[Category:Andorra men's under-21 international footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:Portuguese men's footballers]]
+[[Category:Portuguese emigrants to Andorra]]
+[[Category:Naturalised citizens of Andorra]]
+[[Category:Men's association football goalkeepers]]
+[[Category:FC Andorra players]]
+[[Category:FC Santa Coloma players]]
+[[Category:UE Engordany players]]
+[[Category:Primera Divisió players]]
+[[Category:21st-century Portuguese sportsmen]]
+
+
+{{Andorra-footy-bio-stub}}

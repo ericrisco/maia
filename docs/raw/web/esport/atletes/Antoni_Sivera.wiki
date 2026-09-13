@@ -1,0 +1,55 @@
+{{short description|Andorran footballer}}
+{{Update|date=May 2025}}
+{{BLP sources|date=June 2009}}
+{{Use dmy dates|date=March 2023}}
+{{Infobox football biography
+| name= Antoni Sivera
+| image = 
+| caption =   <!-- only free-content images are allowed for depicting living people - see [[WP:NONFREE]] -->
+| fullname = Antoni Sivera
+| birth_date = {{Birth date and age|1978|4|13|df=yes}}
+| birth_place =[[Andorra]]
+| height =
+| currentclub = [[FC Campello]]
+| clubnumber =
+| position = Midfielder
+| youthyears1 =
+| youthclubs1 =
+| years1 = 2005–06
+| years2 = 2006–07
+| years3 = 2007–
+| clubs1 = [[US Luzenac]]
+| clubs2 = [[FC Santa Coloma]]
+| clubs3 = [[FC Campello]]
+| caps1 =
+| caps2 =
+| goals1 =
+| goals2 =
+| nationalyears1 = 2004–
+| nationalteam1 = [[Andorra national football team|Andorra]]
+| nationalcaps1 = 22
+| nationalgoals1 = 0
+| pcupdate = 21 February 2008
+| ntupdate = 21 February 2008
+}}
+
+'''Antoni Sivera''' (born 13 April 1978) is an Andorran footballer who plays for the [[Andorra national football team]].
+
+==External links==
+*{{NFT player|pid=7422}}
+
+{{DEFAULTSORT:Sivera, Antoni}}
+[[Category:Andorran men's footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:1978 births]]
+[[Category:Living people]]
+[[Category:Luzenac AP players]]
+[[Category:FC Santa Coloma players]]
+[[Category:Men's association football midfielders]]
+[[Category:Andorran expatriate men's footballers]]
+[[Category:Expatriate men's footballers in France]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:FC Andorra players]]
+
+
+{{Andorra-footy-bio-stub}}

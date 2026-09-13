@@ -1,0 +1,104 @@
+{{short description|Andorran footballer}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Marc Rebés
+| image = Marc Rebés.JPG
+| caption = 
+| fullname = Marc Rebés Ruiz
+| height = 1.75 m
+| birth_date = {{Birth date and age|df=yes|1994|7|3}}
+| birth_place = [[Santa Coloma d'Andorra|Santa Coloma]], Andorra
+| position = [[Defender (association football)#Centre-back|Centre-back]], [[midfielder]]
+| currentclub = [[FC Rànger's|Rànger's]]
+| clubnumber = 5
+| youthyears1 = 
+| years1 = 2010–2012
+| clubs1 = [[UE Engordany|Engordany]]
+| caps1 = 0
+| goals1 = 0
+| years2 = 2012–2021
+| clubs2 = [[FC Santa Coloma]]
+| caps2 = 130+
+| goals2 = 13+
+| clubs3 = [[Stade Beaucairois]]
+| years3 = 2021–2022
+| caps3 = 1
+| goals3 = 0
+| years4 = 2022
+| clubs4 = [[UE Santa Coloma]]
+| caps4 = 12
+| goals4 = 0
+| years5 = 2022–2023
+| clubs5 = [[FC Santa Coloma]]
+| caps5 = 19
+| goals5 = 1
+| years6 = 2023–2025
+| clubs6 = [[FC Pas de la Casa|Pas de la Casa]]
+| caps6 = 28
+| goals6 = 0
+| years7 = 2025–2026
+| clubs7 = [[FC Rànger's|Rànger's]]
+| caps7 = 13
+| goals7 = 2
+| years8 = 2026
+| clubs8 = [[FC Santa Coloma]]
+| caps8 = 0
+| goals8 = 0
+| years9 = 2026–
+| clubs9 = [[FC Rànger's|Rànger's]]
+| caps9 = 0
+| goals9 = 0
+| nationalyears1 = 2015–
+| nationalteam1 = [[Andorra national football team|Andorra]]
+| nationalcaps1 = 68
+| nationalgoals1 = 3
+| club-update = 16 May 2026
+| nationalteam-update = 17 November 2025
+}}
+{{family name hatnote|Rebés|Ruiz|lang=Catalan}}
+'''Marc Rebés Ruiz''' (born 3 July 1994) is an Andorran professional [[Association football|footballer]] who plays as a [[centre-back]] and [[midfielder]] for [[Primera Divisió]] club [[FC Rànger's]] and the [[Andorra national football team|Andorra national team]].<ref name="NFT profile">{{cite web|title=NFT profile|url=http://www.national-football-teams.com/player/59489/Marc_Rebes.html|publisher=National Football Teams|accessdate=10 June 2017}}</ref>
+
+==International career==
+Rebés made his international debut on 6 June 2015 in a [[exhibition match|friendly]] against [[Equatorial Guinea national football team|Equatorial Guinea]].<ref name="NFT profile"/> On 9 June 2017 Rebés scored his first international goal in a 1–0 victory over [[Hungary national football team|Hungary]] in [[2018 FIFA World Cup qualification (UEFA)|2018 FIFA World Cup qualifying]]. The game-winning goal provided Andorra with its first competitive victory in 66 matches spanning nearly 13 years, and its second competitive victory overall.<ref name="Andorra stun Hungary">{{cite web|title=Andorra stun Hungary to end 66-match winless run despite completing just 44 passes|url=https://www.telegraph.co.uk/football/2017/06/10/andorra-stun-hungary-end66-match-winless-run-despite-completing/|date=10 June 2017|publisher=The Telegraph|accessdate=10 June 2017}}</ref>
+
+===International goals===
+:''Last updated on 14 November 2020. Scores and results list Andorra's goal tally first.''<ref name="NFT">{{cite web|url=http://www.national-football-teams.com/player/59489/Marc_Rebes.html|title=Rebés, Marc|publisher=National Football Teams|accessdate=13 June 2017}}</ref>
+
+{| class="wikitable plainrowheaders sortable"
+|-
+! # !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+!scope=row|{{Center|1}}
+|9 June 2017 || [[Estadi Nacional]], [[Andorra la Vella]], Andorra || {{fb|Hungary}} || align=center | '''1'''–0 || align=center | 1–0|| [[2018 FIFA World Cup qualification – UEFA Group B|2018 FIFA World Cup qualification]]
+|-
+!scope=row|{{Center|2}}
+|21 March 2018 || [[Estadio Municipal de La Línea de la Concepción|Estadio Municipal]], [[La Línea de la Concepción]], Spain || {{fb|LIE}} || align=center | '''1'''–0 || align=center | 1–0|| [[Exhibition game|Friendly]]
+|-
+!scope=row|{{Center|3}}
+|14 November 2020 || |[[National Stadium, Ta' Qali]], Malta || {{fb|MLT}} || align=center | '''1'''–0 || align=center | 1–3|| [[2020–21 UEFA Nations League D]] 
+|}
+
+== Personal life ==
+Rebés works as a Commercial Director while also playing football.<ref name="international">{{cite web|url=https://www.linkedin.com/in/marc-rebes-ruiz-92b1b4200/?originalSubdomain=ad}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{NFT|59489}}
+*{{Soccerway|marc-rebes-ruiz/154614}}
+
+{{DEFAULTSORT:Rebés, Marc}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:Andorran men's footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:Men's association football central defenders]]
+[[Category:Men's association football midfielders]]
+[[Category:FC Santa Coloma players]]
+[[Category:Stade Beaucairois FC players]]
+[[Category:UE Santa Coloma players]]
+[[Category:Andorran expatriate men's footballers]]
+[[Category:Expatriate men's footballers in France]]
+[[Category:Andorran expatriate sportspeople in France]]
+[[Category:FC Pas de la Casa players]]

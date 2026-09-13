@@ -9,6 +9,7 @@ On Andorra competeix amb els seus iguals reals.
 | [Els Jocs dels Petits Estats d'Europa](./els-jocs-dels-petits-estats.md) | La competició on Andorra guanya |
 | [Andorra als Jocs Olímpics](./andorra-als-jocs-olimpics.md) | Cinquanta anys, dotze esports, cap medalla |
 | **[Els altres Jocs](./els-altres-jocs.md)** | **Paralímpics, Jocs del Mediterrani, Jocs Europeus i Jocs de la Joventut — i l'única medalla que n'ha sortit, el 2026** |
+| **[Els abanderats](./els-abanderats.md)** | **La sèrie completa del 1976 al 2024 — i el dia que Andorra va desfilar sota bandera olímpica** |
 
 ## Les quatre escales de l'esport andorrà
 

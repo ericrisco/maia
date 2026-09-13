@@ -1,0 +1,129 @@
+{{short description|Andorran footballer}}
+{{family name hatnote|Lucendo|Heredia|lang=Spanish}}
+{{Use dmy dates|date=September 2021}}
+{{Infobox football biography
+|name=Jesús Lucendo
+|image=
+|fullname=Jesús Julián Lucendo Heredia
+|birth_date ={{Birth date and age|df=yes|1970|4|19}}
+| birth_place = [[Pedro Muñoz]], [[Spain]]
+|height= 1.73 m
+|position=Midfielder
+|currentclub=[[Andorra national under-19 football team|Andorra U19]] (coach)
+|clubnumber=
+|youthyears1=
+|youthclubs1=[[FC Barcelona|Barcelona]]
+|years1=1988–1991
+|years2=1989
+|years3=1990–1991
+|years4=1991–1993
+|years5=1993
+|years6=1993–1996
+|years7=1996–1997
+|years8=1997–2002
+|years9=2002–2003
+|years10=2003
+|clubs1=[[FC Barcelona C|Barcelona C]]
+|clubs2=[[FC Barcelona|Barcelona]]
+|clubs3=→ [[Real Balompédica Linense|Linense]] (loan)
+|clubs4=[[FC Andorra]]
+|clubs5=[[FC Cartagena|Cartagena]]
+|clubs6=[[FC Andorra]]
+|clubs7=[[Club de Futbol Tremp|Tremp]]
+|clubs8=[[FC Andorra]]
+|clubs9=[[FC Santa Coloma]]
+|clubs10=[[FC Andorra]]
+|caps1= 6 | goals1 = 0 
+|caps2= 1 | goals2 = 0
+|caps3= 26 | goals3 = 3
+|caps4= 49 | goals4 = 16
+|caps5= 7 | goals5 = 2
+|caps6= 79 | goals6 = 10
+|caps7=  | goals7 =
+|caps8= 153 | goals8 = 19
+|caps9=  | goals9 = 
+|caps10= 7 | goals10 = 1
+|nationalyears1=1996–2003
+|nationalteam1=[[Andorra national football team|Andorra]]
+|nationalcaps1= 29 | nationalgoals1 = 3
+|manageryears1=2006–2010
+|managerclubs1=[[FC Rànger's|Rànger's]]
+|manageryears2=2012–2013
+|managerclubs2=[[Andorra national under-17 football team|Andorra U17]]
+|manageryears3=2014–2016
+|managerclubs3=[[Andorra national under-19 football team|Andorra U19]]
+|manageryears4=2016–2017
+|managerclubs4=[[Andorra national under-21 football team|Andorra U21]]
+|manageryears5=2017–
+|managerclubs5=[[Andorra national under-19 football team|Andorra U19]]
+|pcupdate=7 June 2010
+|ntupdate=5 March 2008
+}}
+'''Jesús Julián Lucendo''' (born 19 April 1970) is a former [[Andorra]]n [[Andorra national football team|national footballer]] of Spanish origin.  He made 27 appearances internationally for Andorra.<ref>Duret, Sésbastien. "Andorra – Record International Players." 3 January 2008. http://www.rsssf.com/miscellaneous/ando-recintlp.html</ref> He had an extensive club career as well, including one season with [[FC Barcelona]]. He retired in November 2003 due to a knee injury.<ref>"Player retirements (2003/2004)." http://www.globalsoccertransfers.com/player/retired.html</ref><ref>Bright, Richard. "Inzaghi is hopeful for Ajax match." 18 November 2003. [https://www.telegraph.co.uk/sport/main.jhtml?xml=/sport/2003/11/19/sfninz19.xml]{{dead link|date=July 2021|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+==International statistics==
+''Updated 28 September 2014.''<ref>{{cite web|url=http://www.national-football-teams.com/player/171/Jesus_Lucendo.html |title=Jesús Lucendo |work=National Football Teams |accessdate=28 September 2014 }}</ref>
+{| class="wikitable" style="text-align:center"
+! colspan=3 | [[Andorra national football team|Andorra national team]]
+|-
+!Year!!Apps!!Goals
+|-
+|-
+|1996||1||0
+|-
+|1997||2||0
+|-
+|1998||7||2
+|-
+|1999||5||0
+|-
+|2000||4||1
+|-
+|2001||4||0
+|-
+|2002||1||0
+|-
+|2003||5||0
+|-
+!Total||29||3
+|}
+
+===International goals===
+:''Scores and results list Andorra's goal tally first.''
+
+{|class="wikitable plainrowheaders sortable"
+|-
+!Goal!!Date!!Venue!!Opponent!!Score!!Result!!Competition
+|-
+| 1. || 22 June 1998 || [[Kuressaare linnastaadion]], [[Kuressaare]], Estonia || {{fb|Estonia}} || align=center | '''1'''–1 || align=center | 1–2 || [[Exhibition game|Friendly]]
+|-
+| 2. || 5 September 1998 || [[Hrazdan Stadium]], [[Yerevan]], Armenia || {{fb|Armenia}} || align=center | '''1'''–2 || align=center | 1–3 || [[UEFA Euro 2000 qualifying Group 4|Euro 2000 qualifier]]
+|-
+| 3. || 26 April 2000 || [[Camp d’Esports d’Aixovall]], [[Aixovall]], Andorra || {{fb|Belarus}} || align=center | '''1'''–0 || align=center | 2–0 || [[Exhibition game|Friendly]]
+|-
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{BDFutbol|2728}}
+*{{NFT player|pid=171}}
+
+{{DEFAULTSORT:Lucendo, Jesus}}
+[[Category:1970 births]]
+[[Category:Living people]]
+[[Category:FC Barcelona players]]
+[[Category:FC Andorra players]]
+[[Category:Andorran men's footballers]]
+[[Category:Spanish men's footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:La Liga players]]
+[[Category:FC Santa Coloma players]]
+[[Category:Men's association football midfielders]]
+[[Category:Segunda División B players]]
+[[Category:FC Barcelona C players]]
+[[Category:Tercera División players]]
+[[Category:Footballers from the Province of Ciudad Real]]
+
+{{Andorra-footy-bio-stub}}

@@ -1,0 +1,145 @@
+{{short description|Andorran middle-distance runner}}
+{{Infobox sportsperson
+| name           = Víctor Martínez
+| image          = 
+| image_size     =
+| caption        = 
+| birth_date     = {{Birth date and age|1975|06|1|df=yes}}
+| birth_place    = 
+| height         = 
+| weight         = 
+| sport          = [[Athletics (sport)|Athletics]]
+| event          = [[800 m]], [[1500 m]]
+| club           = 
+| education      = 
+| coach          = 
+}}
+'''Víctor Manuel Martínez''' (born 1 June 1975) is an [[Andorra]]n former [[middle-distance runner]].<ref>{{World Athletics}}</ref> He represented his country at three World Championships. In addition, he won multiple medals at the [[Games of the Small States of Europe]].
+
+==International competitions==
+{| {{AchievementTable|Event=yes}}
+|-
+!colspan="6"|Representing {{AND}}
+|-
+|1997
+|[[1997 Games of the Small States of Europe|Games of the Small States of Europe]]
+|[[Reykjavík, Iceland]]
+|bgcolor=gold|1st
+|1500 m
+|4:22.08
+|-
+|1998
+|[[1998 European Athletics Championships|European Championships]]
+|[[Budapest, Hungary]]
+|33rd (h)
+|800 m
+|[[1998 European Athletics Championships – Men's 800 metres|1:50.54]]
+|-
+|rowspan=3|1999
+|rowspan=2|[[1999 Games of the Small States of Europe|Games of the Small States of Europe]]
+|rowspan=2|[[Schaan, Liechtenstein]]
+|bgcolor=gold|1st
+|800 m
+|1:49.94
+|-
+|bgcolor=gold|1st
+|1500 m
+|3:49.02
+|-
+|[[1999 World Championships in Athletics|World Championships]]
+|[[Seville, Spain]]
+|44th (h)
+|800 m
+|[[1999 World Championships in Athletics – Men's 800 metres|1:48.73]]
+|-
+|rowspan=3|2001
+|rowspan=2|[[Athletics at the 2001 Games of the Small States of Europe|Games of the Small States of Europe]]
+|rowspan=2|[[Serravalle, San Marino]]
+|bgcolor=gold|1st
+|800 m
+|[[Athletics at the 2001 Games of the Small States of Europe#800 metres|1:51.22]]
+|-
+|bgcolor=gold|1st
+|1500 m
+|[[Athletics at the 2001 Games of the Small States of Europe#1500 metres|3:53.51]]
+|-
+|[[2001 World Championships in Athletics|World Championships]]
+|[[Edmonton, Canada]]
+|33rd (h)
+|1500 m
+|[[2001 World Championships in Athletics – Men's 1500 metres|3:52.29]]
+|-
+|rowspan=2|2003
+|rowspan=2|[[Athletics at the 2003 Games of the Small States of Europe|Games of the Small States of Europe]]
+|rowspan=2|[[Marsa, Malta]]
+|bgcolor=cc9966|3rd
+|800 m
+|[[Athletics at the 2003 Games of the Small States of Europe#800 metres|1:52.66]]
+|-
+|bgcolor=cc9966|3rd
+|1500 m
+|[[Athletics at the 2003 Games of the Small States of Europe#1500 metres|3:51.19]]
+|-
+|rowspan=2|2005
+|rowspan=2|[[Athletics at the 2005 Games of the Small States of Europe|Games of the Small States of Europe]]
+|rowspan=2|[[Andorra la Vella, Andorra]]
+|bgcolor=silver|2nd
+|800 m
+|[[Athletics at the 2005 Games of the Small States of Europe#5000 metres|1:55.40]]
+|-
+|bgcolor=gold|1st
+|1500 m
+|[[Athletics at the 2005 Games of the Small States of Europe#10,000 metres|3:58.01]]
+|-
+|rowspan=2|2006
+|rowspan=2|[[2006 Ibero-American Championships in Athletics|Ibero-American Championships]]
+|rowspan=2|[[Ponce, Puerto Rico]]
+|14th (h)
+|800 m
+|[[2006 Ibero-American Championships in Athletics – Results#800 meters|1:53.88]]
+|-
+|15th
+|1500 m
+|[[2006 Ibero-American Championships in Athletics – Results#1500 meters|3:56.35]]
+|-
+|rowspan=2|2007
+|rowspan=2|[[Athletics at the 2007 Games of the Small States of Europe|Games of the Small States of Europe]]
+|rowspan=2|[[Fontvieille, Monaco]]
+|bgcolor=silver|2nd
+|800 m
+|[[Athletics at the 2007 Games of the Small States of Europe#800 metres|1:52.37]]
+|-
+|4th
+|1500 m
+|[[Athletics at the 2007 Games of the Small States of Europe#1500 metres|3:55.15]]
+|-
+|2009
+|[[2009 World Championships in Athletics|World Championships]]
+|[[Berlin, Germany]]
+|49th (h)
+|1500 m
+|[[2009 World Championships in Athletics – Men's 1500 metres|4:02.10]]
+|}
+
+==Personal bests==
+'''Outdoor'''
+*[[400 metres]] – 55.08 (Marsa 2010)
+*[[800 metres]] – 1:48.69 (Mataró 1999)
+*[[1500 metres]] – 3:43.89 (Cottbus 2001)
+*[[Mile run|One mile]] – 4:04.0 (Pamplona 2004)
+*[[10 kilometres]] – 32:04 (Andorra La Vella 2009)
+
+==References==
+{{Reflist}}
+*[http://www.all-athletics.com/en-us/athlete/27029 All-Athletics profile] {{Webarchive|url=https://web.archive.org/web/20170401055734/http://www.all-athletics.com/en-us/athlete/27029 |date=2017-04-01 }}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Martinez, Victor}}
+[[Category:1975 births]]
+[[Category:Living people]]
+[[Category:Andorran men middle-distance runners]]
+[[Category:World Athletics Championships athletes for Andorra]]
+
+
+{{Andorra-athletics-bio-stub}}

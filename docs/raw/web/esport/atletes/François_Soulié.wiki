@@ -1,0 +1,38 @@
+{{short description|Andorran cross country skier (born 1978)}}
+{{Infobox skier
+| name        = Francesc Soulié
+| nationality = [[Andorra]]
+| full_name   = François Jacques Soulié
+| birth_date  = {{Birth-date and age|22 March 1978}}
+| birth_place = [[Carcassonne]], [[Aude]], France
+| height      = 181 cm
+}}
+
+'''François Jacques "Francesc" Soulié''' (born 22 March 1978) is an [[Andorra]]n [[cross-country skiing (sport)|cross-country skier]] who has competed since 1999. Competing in two [[Winter Olympics]], he earned his best finish of 47th in the 50 km event at [[Vancouver]] in [[2010 Winter Olympics|2010]].<ref>{{cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/so/francesc-soulie-1.html |title=Francesc Soulié |quote=Full name: François Jacques Soulié |archive-url=https://web.archive.org/web/20131030213411/http://www.sports-reference.com/olympics/athletes/so/francesc-soulie-1.html |archive-date=30 October 2013 }}</ref>
+
+Soulié's best finish at the [[FIS Nordic World Ski Championships]] was 51st in the team sprint at [[Sapporo]] in [[FIS Nordic World Ski Championships 2007|2007]].
+
+His best World Cup finish was 24th in the team sprint at the [[China]] in 2007.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{FIS cross-country skier|120893|Francois Soulie}}
+* {{Olympics.com|francois-soulie|François Soulie}}
+* {{Olympics.com|francesc-soulie|Francesc Soulie|org_archive=20161005235045}}
+* {{Olympedia|109855|Francesc Soulié}}
+
+{{Use dmy dates|date=May 2021}}
+
+{{DEFAULTSORT:Soulie, Francois}}
+[[Category:1978 births]]
+[[Category:Living people]]
+[[Category:Andorran male cross-country skiers]]
+[[Category:Olympic cross-country skiers for Andorra]]
+[[Category:Cross-country skiers at the 2006 Winter Olympics]]
+[[Category:Cross-country skiers at the 2010 Winter Olympics]]
+[[Category:French people of Andorran descent]]
+
+
+{{Andorra-crosscountry-skiing-bio-stub}}

@@ -1,0 +1,60 @@
+{{short description|Andorran chess player}}
+{{Family name hatnote|García|Paolicchi|lang=Catalan}}
+{{Infobox chess player
+| name = Raül García
+| image = Raul Garcia Paolicchi.jpg
+| caption = García in 2009
+| country = [[Andorra]]
+| birth_date = {{Birth date and age|1952|12|30|df=yes}}
+| birth_place = 
+| death_date = 
+| death_place = 
+| title = [[FIDE Master]] (1993)
+| rating = 
+| peak_rating = 2420 (July 1998)<!-- The peak rating in the official FIDE rating lists seems to be 2340 (July 1998) (https://www.olimpbase.org/Elo/player/Garcia,%20Raul.html) --> 
+| FIDE_id = 6900020 <!-- automatically displays current rating if 2400+ -->
+}}
+
+'''Raül García Paolicchi''' (born 30 December 1952) is an [[Andorra]]n [[chess]] player who received the [[FIDE title]] of FIDE Master (FM) in 1993. He is a two-time Andorran Chess Championship winner (2011, 2013) and [[Chess Olympiad]] individual gold medalist ([[29th Chess Olympiad|1990]]).
+
+==Biography==
+Raül García Paolicchi became Andorran Chess Championship silver medalist four times (2001, 2002, 2005, 2010) and won this tournament twice (2011, 2013). He participated in FIDE Zonal Chess Tournaments four times: 1987, 1993, 1995, and 1998. In 1994, in Spain, he won the international chess tournament ''Mollerussa Open'', and a year later he came second in this tournament.
+
+Raül García Paolicchi played for Andorra in the [[Chess Olympiad]]s:<ref>{{Cite web |url=http://www.olimpbase.org/players/gmggagon.html |title=OlimpBase :: Men's Chess Olympiads :: Raül García Paolicchi |website=www.olimpbase.org}}</ref>
+* In 1984, at the first board in the [[26th Chess Olympiad]] in [[Thessaloniki]] (+5, =6, -2),
+* In 1986, at the first board in the [[27th Chess Olympiad]] in [[Dubai]] (+8, =3, -3),
+* In 1988, at the first board in the [[28th Chess Olympiad]] in [[Thessaloniki]] (+6, =4, -4),
+* In 1990, at the first board in the [[29th Chess Olympiad]] in [[Novi Sad]] (+9, =3, -2), winning an individual gold medal,
+* In 1992, at the first board in the [[30th Chess Olympiad]] in [[Manila]] (+5, =3, -4),
+* In 1994, at the first board in the [[31st Chess Olympiad]] in [[Moscow]] (+7, =0, -6),
+* In 1996, at the first board in the [[32nd Chess Olympiad]] in [[Yerevan]] (+1, =6, -5),
+* In 1998, at the first board in the [[33rd Chess Olympiad]] in [[Elista]] (+1, =5, -5),
+* In 2000, at the second board in the [[34th Chess Olympiad]] in [[Istanbul]] (+1, =5, -4),
+* In 2002, at the third board in the [[35th Chess Olympiad]] in [[Bled]] (+2, =2, -6),
+* In 2004, at the first reserve board in the [[36th Chess Olympiad]] in [[Calvià]] (+2, =2, -3),
+* In 2006, at the fourth board in the [[37th Chess Olympiad]] in [[Turin]] (+2, =2, -5),
+* In 2008, at the second board in the [[38th Chess Olympiad]] in [[Dresden]] (+1, =5, -5),
+* In 2010, at the third board in the [[39th Chess Olympiad]] in [[Khanty-Mansiysk]] (+2, =3, -3),
+* In 2012, at the third board in the [[40th Chess Olympiad]] in [[Istanbul]] (+3, =4, -3),
+* In 2014, at the third board in the [[41st Chess Olympiad]] in [[Tromsø]] (+2, =1, -5),
+* In 2016, at the fourth board in the [[42nd Chess Olympiad]] in [[Baku]] (+3, =2, -5),<ref>{{Cite web |url=http://chess-results.com/tnr232875.aspx?lan=1&art=20&fed=AND&flag=30 |title=Chess-Results Server Chess-results.com - 42nd Olympiad Baku 2016 Open |website=chess-results.com}}</ref>
+* In 2018, at the third board in the [[43rd Chess Olympiad]] in [[Batumi]] (+3, =4, -1).<ref>{{Cite web |url=http://chess-results.com/tnr368908.aspx?lan=1&art=20&fed=AND&flag=30 |title=Chess-Results Server Chess-results.com - 43rd Olympiad Batumi 2018 Open |website=chess-results.com}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{OlimpBase FIDE ratings|Garcia,%20Raul|Raul Garcia}}
+* {{FIDE|name=Raul Garcia Paolicchi}}
+* {{365Chess.com player|Raul_Garcia_Paolicchi}}
+* {{Chessgames player|94710|Raul Garcia Paolicchi}}
+
+{{DEFAULTSORT:Paolicchi, Raül García}}
+[[Category:1952 births]]
+[[Category:Living people]]
+[[Category:Andorran chess players]]
+[[Category:Chess FIDE Masters]]
+[[Category:Chess Olympiad competitors]]
+
+
+{{Andorra-bio-stub}}

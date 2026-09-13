@@ -1,0 +1,54 @@
+{{short description|Spanish taekwondo practitioner}}
+{{Infobox sportsperson
+| name = Yolanda García
+| image = 
+| image_size = 
+| caption = 
+| birth_date = {{Birth date and age|1971|1|18|df=y}}
+| birth_place = [[Andorra]]
+| death_date = 
+| death_place = 
+| residence = 
+| nationality = Spanish
+| spouse = 
+| sport = Taekwondo
+| event =  
+| club = 
+| worlds = 
+| nationals = 
+| header_color = 
+| show_medals =
+| medal_templates =
+{{MedalCountry| {{ESP}} }}
+{{MedalSport | Women's [[taekwondo]] }}
+{{MedalCompetition | [[World Taekwondo Championships|World Championships]] }}
+{{MedalSilver | [[1995 World Taekwondo Championships|1995 Manila]] | Heavyweight  }}
+{{MedalCompetition | [[European Taekwondo Championships|European Championships]] }}
+{{MedalGold | [[1994 European Taekwondo Championships|1994 Zagreb]] | +70 kg }}  
+}}
+
+'''Yolanda García''' (born 18 January 1971) is a Spanish [[taekwondo]] practitioner, born in [[Andorra]]. She won a silver medal in heavyweight at the [[1995 World Taekwondo Championships]], and a gold medal at the 1994 [[European Taekwondo Championships]].<ref name=taekwondodata>{{cite web |url=https://www.taekwondodata.com/yolanda-garcia.a1pm.html
+|title=García, Yolanda |website=taekwondodata.com 
+|access-date=10 October 2019}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{sports links}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:García, Yolanda}}
+[[Category:1971 births]] 
+[[Category:Living people]]
+[[Category:Andorran female martial artists]]
+[[Category:Spanish female taekwondo practitioners]]
+[[Category:Spanish people of Andorran descent]]
+[[Category:Andorran emigrants to Spain]]
+[[Category:World Taekwondo Championships medalists]]
+[[Category:European Taekwondo Championships medalists]]
+
+
+{{Spain-taekwondo-bio-stub}}
+{{Andorra-sport-bio-stub}}

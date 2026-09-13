@@ -1,0 +1,158 @@
+{{short description|Andorran international footballer|bot=PearBOT 5}}
+{{Use dmy dates|date=July 2023}}
+{{Infobox football biography
+| name     =Josep Ayala
+| image=Josep Ayala.jpg
+| caption=Ayala playing for [[Andorra national football team|Andorra]] in 2009
+| fullname= Josep Manel Ayala Díaz
+| birth_date={{birth date and age|1980|4|8|df=y}}
+| birth_place=[[Sant Julià de Lòria]], [[Andorra]]
+| height= 1.76 m<ref>{{cite web|publisher=tablesleague.com|url=https://www.tablesleague.com/teams/ue_santa_coloma/josep_ayala/|title=Josep Ayala player profile|date=|access-date=8 June 2020|language=English}}</ref>
+| position=[[Midfielder]]
+| currentclub=[[Inter Club d'Escaldes|Inter d'Escaldes]]
+| clubnumber=8
+| years1=2000–2002
+| clubs1=[[FC Andorra]]
+| caps1=
+| goals1=
+| years2=2002–2003
+| clubs2=[[FC Santa Coloma]]
+| caps2=
+| goals2=
+| years3=2003–2004
+| clubs3=[[FC Andorra]]
+| caps3=
+| goals3=
+| years4=2004–2005
+| clubs4=[[FC Santa Coloma]]
+| caps4=
+| goals4=
+| years5=2005–2006
+| clubs5=[[US Luzenac|Luzenac]]
+| caps5=21
+| goals5=0
+| years6=2006–2008
+| clubs6=[[FC Santa Coloma]]
+| caps6=
+| goals6=
+| years7=2008–2009
+| clubs7=[[CD Binéfar|Binéfar]]
+| caps7=10
+| goals7=0
+| years8=2009–2010
+| clubs8=[[FC Santa Coloma]]
+| caps8=
+| goals8=
+| years9=2010–2015
+| clubs9=[[FC Andorra]]
+| caps9=
+| goals9=
+| years10=2015–2017
+| clubs10=[[UE Santa Coloma]]
+| caps10=41
+| goals10=3
+| years11=2017–
+| clubs11=[[Inter Club d'Escaldes|Inter d'Escaldes]]
+| caps11=
+| goals11=
+| nationalyears1=2002–2017
+| nationalteam1=[[Andorra national football team|Andorra]]
+| nationalcaps1=84
+| nationalgoals1=1
+| club-update=14 May 2017
+| ntupdate=15:36, 16 September 2025 (UTC)
+}}
+{{family name hatnote|Ayala|Díaz|lang=Catalan}}
+'''Josep Manel Ayala Díaz''' (born 8 April 1980) is an [[Andorra]]n international [[Association football|footballer]]. He currently plays as a [[midfielder]] for [[Inter Club d'Escaldes]].<ref>[https://www.elperiodic.ad/noticia/58718/ayala-es-el-tercer-fitxatge-de-renom-per-a-linter-descaldes Ayala és el tercer fitxatge de renom de l'Inter d'Escaldes]</ref> Ayala formerly played for [[FC Santa Coloma]], [[US Luzenac]], [[CD Binéfar]] and [[FC Andorra]]. He made his international debut in 2002.
+
+==International career==
+Ayala was a player of [[Andorra national football team]]. He had 84<ref>{{cite web |title=Josep Ayala international statistics |url=https://eu-football.info/_player.php?id=26388 |website=eu-football.info/ |access-date=16 September 2025}}</ref> caps. His last match was the Andorran victory against [[Hungary national football team|Hungary]], the second official win in the history of the [[Andorra national football team|Andorran national team]].<ref>{{Cite web |url=http://www.que.ad/blogs/201706161936-josep-manel-ayala-futbolista.html |title=Comiat a Josep Manel Ayala de la selecció |access-date=21 August 2017 |archive-url=https://web.archive.org/web/20170816192344/http://www.que.ad/blogs/201706161936-josep-manel-ayala-futbolista.html |archive-date=16 August 2017 |url-status=dead }}</ref>
+
+==Career statistics==
+===International===
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year<ref>{{NFT player|170|access-date=22 January 2026}}</ref>
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="16"|[[Andorra national football team|Andorra]]
+|2002||4||0
+|-
+|2003||6||0
+|-
+|2004||5||0
+|-
+|2005||6||0
+|-
+|2006||5||0
+|-
+|2007||8||0
+|-
+|2008||6||0
+|-
+|2009||6||0
+|-
+|2010||7||0
+|-
+|2011||6||1
+|-
+|2012||7||0
+|-
+|2013||6||0
+|-
+|2014||5||0
+|-
+|2015||4||0
+|-
+|2016||2||0
+|-
+|2017||1||0
+|-
+!colspan="2"|Total
+!84!!1
+|}
+
+:''Scores and results list Andorra's goal tally first, score column indicates score after each Ayala goal.''
+{| class="wikitable sortable"
+|+ List of international goals scored by Josep Ayala
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+!scope="col" class="unsortable"|{{Abbr|Ref.|Reference}}
+|-
+|style="text-align:center"|1
+|{{dts|9 February 2011}}
+|[[:pt:Estádio Municipal Fernando Cabrita|Estádio Municipal Fernando Cabrita]], [[Lagos, Portugal|Lagos]], Portugal
+|{{fb|Moldova}}
+|style="text-align:center"|1–0
+|style="text-align:center"|1–2
+|[[Friendly (association football)|Friendly]]
+|<ref>{{Cite web|title=Andorra vs. Molodva|url=https://www.national-football-teams.com/matches/report/10308/Andorra_Moldova.html|website=National Football Teams|access-date=22 January 2026}}</ref>
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{NFT player|pid=170}}
+*{{FIFA player|178712}}
+
+{{DEFAULTSORT:Ayala, Josep}}
+[[Category:1980 births]]
+[[Category:Living people]]
+[[Category:Andorran men's footballers]]
+[[Category:Andorran expatriate men's footballers]]
+[[Category:FC Andorra players]]
+[[Category:Andorra men's international footballers]]
+[[Category:Luzenac AP players]]
+[[Category:FC Santa Coloma players]]
+[[Category:Men's association football midfielders]]
+[[Category:Inter Club d'Escaldes players]]
+[[Category:CD Binéfar players]]
+
+
+{{Andorra-footy-bio-stub}}

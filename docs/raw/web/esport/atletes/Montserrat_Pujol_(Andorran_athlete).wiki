@@ -1,0 +1,170 @@
+{{short description|Andorran athlete}}
+{{Use dmy dates|date=May 2021}}
+{{Infobox sportsperson
+| name = Montserrat Pujol
+| full_name = Montserrat Pujol Joval
+| birth_date = {{Birth-date and age|27 April 1979}}
+| birth_place = [[Andorra la Vella]], Andorra
+| country = {{AND}}
+| sport = [[Athletics (sport)|Athletics]]
+| event = [[100 metres]] 
+}}
+
+'''Montserrat Pujol Joval'''{{family name footnote|lang=Catalan|Pujol|Joval}} (born 27 April 1979 in [[Andorra la Vella]]) is a former [[track and field]] athlete who competed internationally for [[Andorra]].<ref name="beijing">{{cite web |url=http://results.beijing2008.cn/WRM/ENG/BIO/Athlete/3/8002283.shtml |title=Athlete biography: Montserrat Pujol |website=Beijing2008.cn |publisher=[[Beijing Organizing Committee for the Olympic Games]] |access-date=27 August 2008 |url-status=dead |archive-url=https://web.archive.org/web/20080911010118/http://results.beijing2008.cn/WRM/ENG/BIO/Athlete/3/8002283.shtml |archive-date=11 September 2008}}</ref><ref name="SR">{{cite Sports-Reference |title=Montserrat Pujol |quote=Full name: Montserrat Pujol Joval}}</ref>
+
+Pujol represented [[Andorra at the 2008 Summer Olympics]] in [[Beijing]]. She competed at the [[100 metres]] sprint and placed seventh in her heat without advancing to the second round. She ran the distance in a time of 12.73 seconds.<ref name="beijing"/>
+
+==Major competitions record==
+{| {{AchievementTable|Event=yes}}
+|-
+!colspan="6"|Representing {{AND}}
+|-
+|rowspan=2|1997
+|[[Athletics at the 1997 Games of the Small States of Europe|Games of the Small States of Europe]]
+|[[Reykjavík, Iceland]]
+|bgcolor=cc9966|3rd
+|Triple jump
+|11.49 (w)
+|-
+|[[1997 European Athletics Junior Championships|European Junior Championships]]
+|[[Ljubljana, Slovenia]]
+| –
+|Triple jump
+|NM
+|-
+|1998
+|[[1998 European Athletics Indoor Championships|European Indoor Championships]]
+|[[Valencia, Spain]]
+|11th
+|Long jump
+|[[1998 European Athletics Indoor Championships – Women's long jump|5.44 m]]
+|-
+|1999
+|[[Athletics at the 1999 Games of the Small States of Europe|Games of the Small States of Europe]]
+|[[Schaan, Liechtenstein]]
+|bgcolor=cc9966|3rd
+|Long jump
+|5.52 m
+|-
+|rowspan=5|2001
+|rowspan=2|[[Athletics at the 2001 Games of the Small States of Europe|Games of the Small States of Europe]]
+|rowspan=2|[[Serravalle, San Marino]]
+|bgcolor=silver|2nd
+|Long jump
+|[[Athletics at the 2001 Games of the Small States of Europe|5.65 m]] (w)
+|-
+|bgcolor=gold|1st
+|Triple jump
+|[[Athletics at the 2001 Games of the Small States of Europe|11.57 m]]
+|-
+|[[2001 World Championships in Athletics|World Championships]]
+|[[Edmonton, Canada]]
+|47th (h)
+|100 m
+|[[2001 World Championships in Athletics – Women's 100 metres|13.38 s]]
+|-
+|rowspan=2|[[Athletics at the 2001 Mediterranean Games|Mediterranean Games]]
+|rowspan=2|[[Radès, Tunisia]]
+|11th
+|Long jump
+|[[Athletics at the 2001 Mediterranean Games – Results#Long jump 2|5.42 m]]
+|-
+|10th
+|Triple jump
+|[[Athletics at the 2001 Mediterranean Games – Results#Triple jump 2|11.70 m]]
+|-
+|rowspan=2|2003
+|rowspan=2|[[Athletics at the 2003 Games of the Small States of Europe|Games of the Small States of Europe]]
+|rowspan=2|[[Marsa, Malta]]
+|6th
+|Long jump
+|[[Athletics at the 2003 Games of the Small States of Europe|5.48 m]]
+|-
+|5th
+|Triple jump
+|[[Athletics at the 2003 Games of the Small States of Europe|11.72 m]]
+|-
+|rowspan=4|2005
+|rowspan=3|[[Athletics at the 2005 Games of the Small States of Europe|Games of the Small States of Europe]]
+|rowspan=3|[[Andorra la Vella, Andorra]]
+|6th
+|4 × 100 m relay
+|[[Athletics at the 2005 Games of the Small States of Europe#4 x 100 metres relay 2|51.17 s]]
+|-
+|bgcolor=cc9966|3rd
+|Long jump
+|[[Athletics at the 2005 Games of the Small States of Europe|5.75 m]]
+|-
+|bgcolor=silver|2nd
+|Triple jump
+|[[Athletics at the 2005 Games of the Small States of Europe|12.20 m]]
+|-
+|[[2005 World Championships in Athletics|World Championships]]
+|[[Helsinki, Finland]]
+|45th (h)
+|100 m
+|[[2005 World Championships in Athletics – Women's 100 metres|13.01 s]]
+|-
+|2006
+|[[2006 IAAF World Indoor Championships|World Indoor Championships]]
+|[[Moscow, Russia]]
+|32nd (h)
+|60 m
+|[[2006 IAAF World Indoor Championships – Women's 60 metres|8.30 s]]
+|-
+|rowspan=2|2007
+|rowspan=2|[[Athletics at the 2007 Games of the Small States of Europe|Games of the Small States of Europe]]
+|rowspan=2|[[Fontvieille, Monaco]]
+|bgcolor=cc9966|3rd
+|Long jump
+|[[Athletics at the 2007 Games of the Small States of Europe|5.58 m]]
+|-
+|4th
+|Triple jump
+|[[Athletics at the 2007 Games of the Small States of Europe|11.91 m]]
+|-
+|2008
+|[[Athletics at the 2008 Summer Olympics|Olympic Games]]
+|[[Beijing, China]]
+|67th (h)
+|100 m
+|[[Athletics at the 2008 Summer Olympics – Women's 100 metres|12.73 s]]
+|-
+|rowspan=2|2009
+|rowspan=2|[[Athletics at the 2009 Games of the Small States of Europe|Games of the Small States of Europe]]
+|rowspan=2|[[Nicosia, Cyprus]]
+|8th
+|Long jump
+|[[Athletics at the 2009 Games of the Small States of Europe|5.40 m]]
+|-
+|6th
+|Triple jump
+|[[Athletics at the 2009 Games of the Small States of Europe|11.89 m]]
+|}
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{World Athletics}}
+* {{Olympics.com|montserrat-pujol|org_archive=20161006021304}}
+* {{Olympedia|114744}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Pujol, Montserrat}}
+[[Category:1979 births]]
+[[Category:Living people]]
+[[Category:Andorran women sprinters]]
+[[Category:Andorran women long jumpers]]
+[[Category:Andorran women triple jumpers]]
+[[Category:Olympic athletes for Andorra]]
+[[Category:Athletes (track and field) at the 2008 Summer Olympics]]
+[[Category:Mediterranean Games competitors for Andorra]]
+[[Category:Athletes (track and field) at the 2001 Mediterranean Games]]
+
+
+{{Andorra-athletics-bio-stub}}

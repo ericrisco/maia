@@ -1,0 +1,41 @@
+{{short description|Andorran canoeist}}
+{{Use dmy dates|date=May 2021}}
+{{Infobox sportsperson
+| name        = Montserrat García
+| full_name   = Montserrat García Riberaygua
+| birth_date  = {{Birth-date and age|26 November 1989}}
+| birth_place = [[Andorra la Vella]], Andorra
+| country     = Andorra
+| sport       = [[Canoe slalom]]
+| event       = K-1 ([[kayak]] single)
+}}
+
+'''Montserrat García Riberaygua'''{{family name footnote|lang=Catalan|García|Riberaygua}} (born 26 November 1989 in [[Andorra la Vella]]) is an [[Andorra]]n [[whitewater slalom|slalom canoer]] who has competed since the mid-2000s. She was eliminated in the qualifying round of the [[Canoeing at the 2008 Summer Olympics – Women's slalom K-1|K-1]] event at the [[2008 Summer Olympics]] in [[Beijing]], finishing in 20th place.<ref>{{cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/ga/montserrat-garcia-1.html |url-status=dead |archive-url=https://web.archive.org/web/20161203053034/http://www.sports-reference.com/olympics/athletes/ga/montserrat-garcia-1.html |archive-date=2016-12-03 |quote=Full name: Montserrat García Riberaygua}}</ref>
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+==External links==
+* {{Olympedia|116625|Montserrat García}}
+* {{Olympics.com|montserrat-garcia-riberaygua|Montserrat GARCIA RIBERAYGUA|org_archive=20201203090509}}
+
+{{s-start}}
+{{s-sports|oly}}
+{{succession box
+| before = [[Alex Antor]]
+| title = [[List of flag bearers for Andorra at the Olympics|Flag bearer]] for {{AND}}
+| years = [[2008 Summer Olympics|Beijing 2008]]
+| after = [[Lluís Marín]]
+}}
+{{s-end}}
+{{DEFAULTSORT:Garcia, Montserrat}}
+[[Category:1989 births]]
+[[Category:Living people]]
+[[Category:Andorran female canoeists]]
+[[Category:Olympic canoeists for Andorra]]
+[[Category:Canoeists at the 2008 Summer Olympics]]
+
+{{Andorra-sport-bio-stub}}
+{{Europe-canoe-bio-stub}}

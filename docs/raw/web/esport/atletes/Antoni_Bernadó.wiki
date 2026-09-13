@@ -1,0 +1,294 @@
+{{Short description|Andorran long-distance runner (born 1966)}}
+{{Infobox sportsperson
+| image          = Toni_Bernadó_-_2012_Olympic_Marathon.jpg
+| image_size     =
+| caption        = Bernadó in the [[Athletics at the 2012 Summer Olympics – Men's marathon|marathon]] at the [[2012 Summer Olympics|2012 Olympics]] in London
+| full_name      = Antoni Bernadó Planas
+| nickname       = Toni
+| birth_name     = 
+| birth_date     = {{birth date and age|1966|12|9|df=y}}
+| birth_place    = [[Sant Julià de Lòria]], Andorra
+| residence      = 
+| height         = 1.75 m
+| weight         = 64 kg
+| website        = 
+| country        = {{flagcountry|Andorra}}
+| sport          = Athletics
+| event          = Marathon
+| turned_pro      = 
+| coach          = 
+| worlds         = 
+| regionals      = 
+| nationals      = 
+| olympics       = 
+| paralympics    = 
+| highest_ranking = 
+| personal_best             = 
+| medal_templates = 
+{{MedalCountry | {{AND}} }} 
+{{MedalCompetition | [[Games of the Small States of Europe]]}} 
+{{MedalGold | [[1999 Games of the Small States of Europe|Liechtenstein 1999]] | 10000 m}} 
+{{MedalGold | [[2001 Games of the Small States of Europe|San Marino 2001]] | 10000 m}} 
+{{MedalGold | [[2001 Games of the Small States of Europe|San Marino 2001]] | 5000 m}} 
+{{MedalGold | [[2003 Games of the Small States of Europe|Malta 2003]] | 10000 m}} 
+{{MedalGold | [[2003 Games of the Small States of Europe|Malta 2003]] | 5000 m}} 
+{{MedalGold | [[2005 Games of the Small States of Europe|Andorra 2005]] | 5000 m}} 
+{{MedalGold | [[2007 Games of the Small States of Europe|Monaco 2007]] | 5000 m}} 
+{{MedalGold | [[2011 Games of the Small States of Europe|Liechtenstein 2011]] | 10000 m}} 
+{{MedalSilver | [[2005 Games of the Small States of Europe|Andorra 2005]] | 10000 m}} 
+{{MedalSilver | [[2007 Games of the Small States of Europe|Monaco 2007]] | 10000 m}} 
+{{MedalSilver | [[2011 Games of the Small States of Europe|Liechtenstein 2011]] | 5000 m}} 
+{{MedalBronze | [[2017 Games of the Small States of Europe|San Marino 2017]] | 10000 m}} 
+| show_medals    = no
+| updated        = 16 April 2017
+}}
+
+'''Antoni "Toni" Bernadó Planas'''{{family name footnote|lang=Catalan|Bernadó|Planas}} (born 9 December 1966) is an Andorran long-distance runner who finished 87th in [[Athletics at the 1996 Summer Olympics – Men's marathon|Men's marathon at the 1996 Summer Olympics]], 49th at the [[2000 Summer Olympics]], 57th at the [[2004 Summer Olympics]], 58th at the [[2008 Summer Olympics]] and 74th at the [[2012 Summer Olympics]].<ref>{{World Athletics||Antoni BERNADÓ}}</ref><ref name="SR">{{cite Sports-Reference |url=http://www.sports-reference.com/olympics/athletes/be/toni-bernado-1.html |title=Toni Bernadó |quote=Full name: Antonio Bernadó Planas |access-date=2021-05-12 |archive-date=2011-08-23 |archive-url=https://web.archive.org/web/20110823124037/http://www.sports-reference.com/olympics/athletes/be/toni-bernado-1.html |url-status=dead }}</ref><ref>{{Cite web |title=Olympedia – Toni Bernadó |url=https://www.olympedia.org/athletes/64314 |access-date=2025-05-24 |website=www.olympedia.org}}</ref> He is the first and so far only athlete to have finished five Olympic Marathons.<ref>{{cite web |url=http://www.ara.cat/especials/londres2012/Toni-Bernado-converteix-maratons-olimpiques_0_754124716.html |title=L'andorrà Toni Bernadó es converteix en el primer atleta que acaba cinc maratons olímpiques |publisher=ara.cat |date=2012-08-12 |accessdate=2012-08-13 |language=Catalan}}</ref> He held the [[Masters M40 3000 metres world record progression|Masters M40 3000 metres world record]] for three years.<ref>{{cite web |url=https://www.arrs.run/Veterans/VR1_O3K.htm |title=Порно видео онлайн бесплатно |website=Arrs.net |accessdate=26 November 2018}}</ref>
+
+==Personal bests==
+*3000 metres – 8:03.69 (Palafrugell 2007)
+*5000 metres – 14:10.06 (Mataró 2005)
+*10,000 metres – 29:47.74 (Vic 2002)
+*Half marathon – 1:05:24 (Barcelona 2005)
+*Marathon – 2:14:25 (Barcelona 2003)
+
+==Competition record==
+{| {{AchievementTable|Event=yes}}
+|-
+!colspan="6"|Representing {{AND}}
+|-
+|1996
+|[[Athletics at the 1996 Summer Olympics|Olympic Games]]
+|[[Atlanta]], United States
+|87th
+|Marathon
+|[[Athletics at the 1996 Summer Olympics – Men's marathon|2:31:28]]
+|-
+|1998
+|[[1998 IAAF World Cross Country Championships|World Cross Country Championships]]
+|[[Marrakesh]], Morocco
+|125th
+|Long race
+|
+|-
+|1999
+|[[Athletics at the 1999 Games of the Small States of Europe|Games of the Small States of Europe]]
+|[[Schaan]], Liechtenstein
+|bgcolor=gold|1st
+|10,000 m
+|30:52.13
+|-
+|rowspan=2|2000
+|[[2000 IAAF World Cross Country Championships|World Cross Country Championships]]
+|[[Vilamoura]], Portugal
+|114th
+|Long race
+|
+|-
+|[[Athletics at the 2000 Summer Olympics|Olympic Games]]
+|[[Sydney]], Australia
+|49th
+|Marathon
+|[[Athletics at the 2000 Summer Olympics – Men's marathon|2:23:03]]
+|-
+|rowspan=4|2001
+|rowspan=2|[[Athletics at the 2001 Games of the Small States of Europe|Games of the Small States of Europe]]
+|rowspan=2|[[Serravalle, San Marino|Serravalle]], San Marino
+|bgcolor=silver|2nd
+|5000 m
+|[[Athletics at the 2001 Games of the Small States of Europe#5000 metres|14:41.87]]
+|-
+|bgcolor=gold|1st
+|10,000 m
+|[[Athletics at the 2001 Games of the Small States of Europe#10,000 metres|32:01.90]]
+|-
+|rowspan=2|[[Athletics at the 2001 Mediterranean Games|Mediterranean Games]]
+|rowspan=2|[[Radès]], Tunisia
+|14th
+|5000 m
+|[[Athletics at the 2001 Mediterranean Games – Results#5000 meters|14:51.62]]
+|-
+|8th
+|10,000 m
+|[[Athletics at the 2001 Mediterranean Games – Results#10,000 meters|30:54.84]]
+|-
+|rowspan=2|2002
+|[[2002 IAAF World Half Marathon Championships|World Half Marathon Championships]]
+|[[Brussels]], Belgium
+|61st
+|Half marathon
+|1:05:29
+|-
+|[[2002 European Athletics Championships|European Championships]]
+|[[Munich]], Germany
+|25th
+|Marathon
+|[[2002 European Athletics Championships – Men's Marathon|2:23:13]]
+|-
+|rowspan=3|2003
+|rowspan=2|[[Athletics at the 2003 Games of the Small States of Europe|Games of the Small States of Europe]]
+|rowspan=2|[[Marsa, Malta|Marsa]], Malta
+|bgcolor=gold|1st
+|5000 m
+|[[Athletics at the 2003 Games of the Small States of Europe#5000 metres|14:29.93]]
+|-
+|bgcolor=gold|1st
+|10,000 m
+|[[Athletics at the 2003 Games of the Small States of Europe#10,000 metres|30:57.33]]
+|-
+|[[2003 World Championships in Athletics|World Championships]]
+|[[Paris]], France
+|36th
+|Marathon
+|[[2003 World Championships in Athletics – Men's Marathon|2:16:19]]
+|-
+|2004
+|[[Athletics at the 2004 Summer Olympics|Olympic Games]]
+|[[Athens]], Greece
+|57th
+|Marathon
+|[[Athletics at the 2004 Summer Olympics – Men's marathon|2:23:55]]
+|-
+|rowspan=3|2005
+|rowspan=2|[[Athletics at the 2005 Games of the Small States of Europe|Games of the Small States of Europe]]
+|rowspan=2|[[Andorra la Vella]], Andorra
+|bgcolor=gold|1st
+|5000 m
+|[[Athletics at the 2005 Games of the Small States of Europe#5000 metres|14:39.46]]
+|-
+|bgcolor=silver|2nd
+|10,000 m
+|[[Athletics at the 2005 Games of the Small States of Europe#10,000 metres|31:40.85]]
+|-
+|[[2005 World Championships in Athletics|World Championships]]
+|[[Helsinki]], Finland
+|26th
+|Marathon
+|[[2005 World Championships in Athletics – Men's Marathon|2:19:06]]
+|-
+|2006
+|[[2006 European Athletics Championships|European Championships]]
+|[[Gothenburg]], Sweden
+|23rd
+|Marathon
+|[[2006 European Athletics Championships – Men's Marathon|2:17:37]]
+|-
+|rowspan=3|2007
+|rowspan=2|[[Athletics at the 2007 Games of the Small States of Europe|Games of the Small States of Europe]]
+|rowspan=2|[[Fontvieille, Monaco|Fontvieille]], Monaco
+|bgcolor=gold|1st
+|5000 m
+|[[Athletics at the 2007 Games of the Small States of Europe#5000 metres|14:17.08]]
+|-
+|bgcolor=silver|2nd
+|10,000 m
+|[[Athletics at the 2007 Games of the Small States of Europe#10,000 metres|30:12.61]]
+|-
+|[[2007 World Championships in Athletics|World Championships]]
+|[[Osaka]], Japan
+|48th
+|Marathon
+|[[2007 World Championships in Athletics – Men's Marathon|2:34:28]]
+|-
+|2008
+|[[Athletics at the 2008 Summer Olympics|Olympic Games]]
+|[[Beijing]], China
+|58th
+|Marathon
+|[[Athletics at the 2008 Summer Olympics – Men's marathon|2:26:29]]
+|-
+|2010
+|[[2010 European Athletics Championships|European Championships]]
+|[[Barcelona]], Spain
+|33rd
+|Marathon
+|[[2010 European Athletics Championships – Men's Marathon|2:30:52]]
+|-
+|rowspan=2|2011
+|rowspan=2|[[Athletics at the 2011 Games of the Small States of Europe|Games of the Small States of Europe]]
+|rowspan=2|[[Schaan]], Liechtenstein
+|bgcolor=silver|2nd
+|5000 m
+|[[Athletics at the 2011 Games of the Small States of Europe#5000 metres|14:46.15]]
+|-
+|bgcolor=gold|1st
+|10,000 m
+|[[Athletics at the 2011 Games of the Small States of Europe#10,000 metres|30:57.70]]
+|-
+|2012
+|[[Athletics at the 2012 Summer Olympics|Olympic Games]]
+|[[London]], United Kingdom
+|74th
+|Marathon
+|[[Athletics at the 2012 Summer Olympics – Men's marathon|2:28:34]]
+|-
+|rowspan=2|2013
+|rowspan=2|[[Athletics at the 2013 Games of the Small States of Europe|Games of the Small States of Europe]]
+|rowspan=2|[[Luxembourg City|Luxembourg]], Luxembourg
+|4th
+|5000 m
+|[[Athletics at the 2013 Games of the Small States of Europe#5000 metres|14:53.68]]
+|-
+|4th
+|10,000 m
+|[[Athletics at the 2013 Games of the Small States of Europe#10,000 metres|31:15.40]]
+|-
+|rowspan=2|2017
+|rowspan=2|[[Athletics at the 2017 Games of the Small States of Europe|Games of the Small States of Europe]]
+|rowspan=2|[[Serravalle, San Marino|Serravalle]], San Marino
+|6th
+|5000 m
+|[[Athletics at the 2017 Games of the Small States of Europe#5000 metres|15:28.69]]
+|-
+|bgcolor=cc9966|3rd
+|10,000 m
+|[[Athletics at the 2017 Games of the Small States of Europe#10,000 metres|33:56.17]]
+|-
+|2018
+|[[2018 IAAF World Half Marathon Championships|World Half Marathon Championships]]
+|[[Valencia]], Spain
+|131st
+|Half Marathon
+|[[2018 IAAF World Half Marathon Championships#Men.27s|1:10:19]]
+|}
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{World Athletics||Antoni BERNADÓ}}
+* {{Olympics.com|antoni-bernado|Antoni BERNADO|org_archive=20210120231029}}
+* {{Olympedia|64314}}
+
+{{Authority control}}
+{{s-start}}
+{{s-sports|oly}}
+{{succession box
+| before = [[Victor Gómez (alpine skier)|Victor Gómez]]
+| title = [[List of flag bearers for Andorra at the Olympics|Flag bearer]] for {{AND}}
+| years = [[2000 Summer Olympics|Sydney 2000]]
+| after = [[Victor Gómez (alpine skier)|Victor Gómez]]
+}}
+{{s-end}}
+
+{{DEFAULTSORT:Bernado, Antoni}}
+[[Category:1966 births]]
+[[Category:Living people]]
+[[Category:People from Sant Julià de Lòria]]
+[[Category:Andorran men marathon runners]]
+[[Category:Andorran men long-distance runners]]
+[[Category:Olympic athletes for Andorra]]
+[[Category:Athletes (track and field) at the 1996 Summer Olympics]]
+[[Category:Athletes (track and field) at the 2000 Summer Olympics]]
+[[Category:Athletes (track and field) at the 2004 Summer Olympics]]
+[[Category:Athletes (track and field) at the 2008 Summer Olympics]]
+[[Category:Athletes (track and field) at the 2012 Summer Olympics]]
+[[Category:World Athletics Championships athletes for Andorra]]
+[[Category:Athletes (track and field) at the 2001 Mediterranean Games]]
+[[Category:Mediterranean Games competitors for Andorra]]
+[[Category:Olympic men marathon runners]]
+
+{{Andorra-athletics-bio-stub}}

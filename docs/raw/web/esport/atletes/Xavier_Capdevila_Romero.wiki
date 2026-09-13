@@ -1,0 +1,57 @@
+{{Short description|Andorran ski mountaineer (born 1976)}}
+{{Infobox skier <!-- See Wikipedia:WikiProject_Ski -->
+| name               = Xavier Capdevila Romero
+| image              = 
+| full_name          = 
+| birth_date         = {{birth date and age|1976|07|17|df=y}} 
+| birth_place        = [[Canillo]], [[Andorra]]
+| death_date         = 
+| death_place        = 
+| height             = 
+| club               = 
+| skis               = 
+| personal_best      = 
+| seasons            = 
+| wins               = 
+| additional_podiums = 
+| total_podiums      = 
+| medal_templates    = {{MedalCountry | {{AND}} }}
+| show_medals        = 
+| updated            = 
+}}
+'''Xavier "Xavi" Capdevila Romero''' (born 17 July 1976) from [[Escaldes-Engordany]] is an [[Andorra]]n [[ski mountaineer]].
+
+Capdevila was born in [[Canillo]]. He started ski mountaineering in 1998 and competed first in the ''(La) Serrera'' race in the same year.
+
+He is a professional firefighter, and is married to Neus Tort Gendrau.<ref>[http://www.facebook.com/neustg/info Personal information], Neus Tort Gendrau's Facebook profile</ref>
+
+==Selected results==
+* 2004:
+** 8th, [[2004 World Championship of Ski Mountaineering|World Championship]] relay race (together with Joan Vilana Díaz, Manel Pelegrina Lopez and [[Toni Casals Rueda]])
+* 2005:
+** 1st, ''Circuit Català Pro-Olímpic''
+** 1st, ''Snow Top Andorra''
+** 7th, [[2005 European Championship of Ski Mountaineering|European Championship]] relay race (together with Toni Casals Rueda, [[Xavier Comas Guixé]] and Joan Vilana Díaz)
+* 2006:
+** 8th, [[2006 World Championship of Ski Mountaineering|World Championship]] relay race (together with Toni Casals Rueda, Joan Albós Cavaliere and Joan Vilana Díaz)
+* 2007:
+** 7th, [[2007 European Championship of Ski Mountaineering|European Championship]] relay race (together with Toni Casals Rueda, Joan Albós Cavaliere and Xavier Comas Guixé)
+* 2008:
+** 8th, [[2008 World Championship of Ski Mountaineering|World Championship]] relay race (together with Xavier Comas Guixé, Joan Vilana Díaz and Joan Albós Cavaliere)
+* 2009:
+** 6th, [[2009 European Championship of Ski Mountaineering|European Championship]] relay race (together with Toni Casals Rueda, Joan Albós Cavaliere and Joan Vilana Díaz)
+
+==External links==
+* [http://www.skimountaineering.org/node/241?IdRacer=26 Xavier Capdevila Romero] at ''Skimountaineering.org''
+
+== References ==
+{{reflist}}
+
+{{DEFAULTSORT:Capdevila Romero, Xavier}}
+[[Category:1976 births]]
+[[Category:Living people]]
+[[Category:Andorran male ski mountaineers]]
+[[Category:People from Escaldes–Engordany]]
+
+{{Andorra-sport-bio-stub}}
+{{Skimountaineering-bio-stub}}

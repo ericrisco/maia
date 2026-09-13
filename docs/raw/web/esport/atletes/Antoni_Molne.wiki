@@ -1,0 +1,46 @@
+{{short description|Andorran Olympic judoka}}
+{{Use dmy dates|date=December 2024}}
+{{Infobox sportsperson
+| header_color = #76abf5
+| name = Antoni Molné
+| image = 
+| caption = 
+| full_name = Antoni Molné Oviedo
+| nickname = Tony 
+| birth_date = {{birth date and age|1969|4|27|df=yes}}
+| birth_place = 
+| height = 
+| weight = 
+| country = {{AND}}
+| sport = [[Judo]]
+| event = 60 kg / 65 kg
+| college_team = 
+| club =
+| coach = 
+}}
+'''Antoni Molné Oviedo'''{{fnf|Molné|Oviedo|lang=Catalan}} (born 27 April 1969) is an [[Andorra]]n judoka who competed in the [[1992 Summer Olympics]] and the [[1996 Summer Olympics]].<ref>{{cite Sports-Reference |title=Antoni Molne |url=https://www.sports-reference.com/olympics/athletes/mo/antoni-molne-1.html |archive-url=https://web.archive.org/web/20200418123742/https://www.sports-reference.com/olympics/athletes/mo/antoni-molne-1.html |url-status=dead |archive-date=18 April 2020 |accessdate=26 November 2017}}</ref>
+
+Molne entered the [[Judo at the 1992 Summer Olympics|extra lightweight]] competition at the [[1992 Summer Olympics]] and after receiving a bye in the first round he lost to the [[Italy|Italian]], [[Marino Cattefra]] in the next round.<ref>{{cite web |title=Barcelona Official Report |url=http://library.la84.org/6oic/OfficialReports/1992/1992s5.pdf |website=la84.org |accessdate=26 November 2017}}</ref> Four years later at the [[1996 Summer Olympics]] he competed in the [[Judo at the 1996 Summer Olympics – Men's 65 kg|65 kg]] weight division, again he received a bye in the first round before losing to [[Timur Mukhamedkhanov]] from [[Uzbekistan]].<ref>{{cite web |title=1996 Official Report |url=http://library.la84.org/6oic/OfficialReports/1996/1996v3.pdf |website=la84.org |accessdate=26 November 2017}}</ref>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{IJF|53461|Antoni Molne}}
+* {{JudoInside|8253/Tony_Molne|Tony Molné}}
+* {{Olympics.com|antoni-molne|Antoni Molne}}
+* {{Olympedia|name=Antoni Molné}}
+
+{{DEFAULTSORT:Molne, Antoni}}
+[[Category:1969 births]]
+[[Category:Living people]]
+[[Category:Andorran male judoka]]
+[[Category:Olympic judoka for Andorra]]
+[[Category:Judoka at the 1992 Summer Olympics]]
+[[Category:Judoka at the 1996 Summer Olympics]]
+
+
+{{Andorra-judo-bio-stub}}

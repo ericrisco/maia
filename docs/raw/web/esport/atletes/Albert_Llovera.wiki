@@ -1,0 +1,396 @@
+{{short description|Andorran skier and rally driver (born 1966)}}
+{{BLP sources|date=November 2025}}
+{{Infobox WRC driver
+| name          = Albert Llovera 
+| image         = Albert Llovera.jpg
+| caption       = Llovera during [[2011 Rally Catalunya]].
+| nationality   = {{flag|Andorra|name=Andorran}}
+| full_name     = Albert Llovera Massana
+| birth_date    = {{birth date and age|1966|09|11|df=yes}}
+| birth_place   = 
+| years         = [[2001 World Rally Championship season|2001]] &ndash; [[2002 World Rally Championship season|2002]], [[2005 World Rally Championship season|2005]]&ndash;[[2006 World Rally Championship season|2006]], [[2008 World Rally Championship season|2008]]&ndash;[[2012 World Rally Championship season|2012]]
+| codriver = {{flagicon|ESP}} Marc Corral<br />{{flagicon|ESP}} [[Lucas Cruz]]<br />{{flagicon|ESP}} [[Diego Vallejo]]<br />{{flagicon|ESP}} [[Borja Rozada]]<br />{{flagicon|ESP}} [[Marc Martí]]
+| teams         = 
+| races         = 29
+| championships = 0
+| wins          = 0
+| podiums       = 0
+| stagewins     = 0
+| points        = 0
+| first_race    = 2001 [[Rally Catalunya]]
+| last_race     = 2012 [[Rally Catalunya]]
+| updated       = 20 July 2018
+}}
+
+'''Albert Llovera Massana'''{{family name footnote|lang=Catalan|Llovera|Massana}} (born 11 September 1966) is a [[rallying|rally]] driver and former [[alpine skiing|alpine skier]] from [[Andorra]]. He became the youngest athlete to compete in the [[Winter Olympics]] in 1984 at the age of 17.<ref name="SportsRef">{{cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/ll/albert-llovera-1.html |title=Albert Llovera |access-date=20 March 2018 |url-status=dead |archive-url=https://web.archive.org/web/20200418080625/https://www.sports-reference.com/olympics/athletes/ll/albert-llovera-1.html |archive-date=18 April 2020 |quote=Full name: Albert Llovera Massana}}</ref> A serious accident in 1985 left him paralysed from the waist down. He has since taken up rallying, using cars with specially adapted hand controls. He is currently competing in the [[Super 2000 World Rally Championship]].
+
+==Career==
+[[File:Rally Finland 2010 - EK 1 - Albert Llovera.jpg|thumb|Llovera during [[2010 Rally Finland]].]]
+At the age of 17, Llovera became the youngest ever athlete to compete in the [[Winter Olympics]] when he represented Andorra at the [[1984 Winter Olympics|1984 games]] in [[Sarajevo]], [[Socialist Federal Republic of Yugoslavia|Yugoslavia]].<ref>{{cite web |url=http://www.albertllovera.com/en/albert-llovera/piloto |title=Driver |work=albertllovera.com |accessdate=20 July 2011 |url-status=dead |archiveurl=https://web.archive.org/web/20120327231314/http://www.albertllovera.com/en/albert-llovera/piloto |archivedate=27 March 2012}}</ref> In the following year, 1985, whilst competing in the European Ski Cup, also in Sarajevo, he suffered a serious accident which left him using a wheelchair with [[paraplegia]] beginning at lower back level.
+
+Llovera turned to motorsport, first competing on [[quad bikes]] and then starting in rallying. In 1989, he won the Peugeot Rally Cup in Andorra. In 2001, with the support of [[Fiat]], he began competing in the [[Junior World Rally Championship]] in a [[Fiat Punto S1600]]. He continued in the championship in 2002.
+
+After competing in Spain along with selected WRC appearances, Llovera returned full-time to the world stage in 2010 to contest the [[Super 2000 World Rally Championship]] in a [[Fiat Abarth Grande Punto S2000]]. He finished fifth in class on his first event [[2010 Rally Mexico|Rally Mexico]]. He scored a best overall result of 17th on [[2010 Rally Catalunya|Rally Catalunya]], which was not a round of the SWRC.<ref>{{cite web |url=http://ewrc-results.com/profile.php?profile=274 |title=Driver profile - Albert Llovera |work=eWRC-results.com |publisher=eWRC.cz |accessdate=20 July 2011}}</ref>
+
+Llovera continued in the SWRC in 2011, finishing fourth in the category in [[2011 Jordan Rally|Jordan]].
+
+In 2020, Llovera competed in the Dakar rally in an Iveco truck from the Dutch Team de Rooy.
+
+==Complete WRC results==
+{| class="wikitable" style="text-align:center; font-size:90%"
+! Year
+! Entrant
+! Car
+! 1
+! 2
+! 3
+! 4
+! 5
+! 6
+! 7
+! 8
+! 9
+! 10
+! 11
+! 12
+! 13
+! 14
+! 15
+! 16
+! WDC
+! Points
+|-
+| [[2001 World Rally Championship season|2001]]
+! Pronto Racing
+! [[Fiat Punto S1600]]
+| [[2001 Monte Carlo Rally|MON]]
+| [[2001 Swedish Rally|SWE]]
+| [[2001 Rally Portugal|POR]]
+|style="background:#EFCFFF;"| [[2001 Rally Catalunya|ESP]]<br /><small>Ret</small>
+| [[2001 Rally Argentina|ARG]]
+| [[2001 Cyprus Rally|CYP]]
+|style="background:#EFCFFF;"| [[2001 Acropolis Rally|GRE]]<br /><small>Ret</small>
+| [[2001 Safari Rally|KEN]]
+|style="background:#CFCFFF;"| [[2001 Rally Finland|FIN]]<br /><small>79</small>
+| [[2001 Rally New Zealand|NZL]]
+|style="background:#EFCFFF;"| [[2001 Rallye Sanremo|ITA]]<br /><small>Ret</small>
+|style="background:#CFCFFF;"| [[2001 Tour de Corse|FRA]]<br /><small>39</small>
+| [[2001 Rally Australia|AUS]]
+|style="background:#EFCFFF;"| [[2001 Rally GB|GBR]]<br /><small>Ret</small>
+|
+|
+! NC
+! 0
+|-
+| [[2002 World Rally Championship season|2002]]
+! Albert Llovera
+! [[Fiat Punto S1600]]
+|style="background:#EFCFFF;"| [[2002 Monte Carlo Rally|MON]]<br /><small>Ret</small>
+| [[2002 Swedish Rally|SWE]]
+| [[2002 Tour de Corse|FRA]]
+|style="background:#CFCFFF;"| [[2002 Rally Catalunya|ESP]]<br /><small>33</small>
+| [[2002 Cyprus Rally|CYP]]
+| [[2002 Rally Argentina|ARG]]
+|style="background:#EFCFFF;"| [[2002 Acropolis Rally|GRE]]<br /><small>Ret</small>
+| [[2002 Safari Rally|KEN]]
+| [[2002 Rally Finland|FIN]]
+|style="background:#EFCFFF;"| [[2002 Rallye Deutschland|GER]]<br /><small>Ret</small>
+|style="background:#CFCFFF;"| [[2002 Rallye Sanremo|ITA]]<br /><small>33</small>
+| [[2002 Rally New Zealand|NZL]]
+| [[2002 Rally Australia|AUS]]
+| [[2002 Rally GB|GBR]]
+|
+|
+! NC
+! 0
+|-
+| [[2005 World Rally Championship season|2005]]
+! Albert Llovera
+! [[Mitsubishi Lancer Evo VIII]]
+| [[2005 Monte Carlo Rally|MON]]
+| [[2005 Swedish Rally|SWE]]
+| [[2005 Rally México|MEX]]
+| [[2005 Rally New Zealand|NZL]]
+| [[2005 Rally d'Italia Sardegna|ITA]]
+| [[2005 Cyprus Rally|CYP]]
+| [[2005 Rally of Turkey|TUR]]
+| [[2005 Acropolis Rally|GRE]]
+| [[2005 Rally Argentina|ARG]]
+|style="background:#CFCFFF;"| [[2005 Rally Finland|FIN]]<br /><small>32</small>
+| [[2005 Rally Deutschland|GER]]
+| [[2005 Rally GB|GBR]]
+| [[2005 Rally Japan|JPN]]
+| [[2005 Tour de Corse|FRA]]
+| [[2005 Rally Catalunya|ESP]]
+| [[2005 Rally Australia|AUS]]
+! NC
+! 0
+|-
+| [[2006 World Rally Championship season|2006]]
+! Albert Llovera
+! [[Mitsubishi Lancer Evo VIII]]
+| [[2006 Monte Carlo Rally|MON]]
+| [[2006 Swedish Rally|SWE]]
+| [[2006 Rally México|MEX]]
+|style="background:#CFCFFF;"| [[2006 Rally Catalunya|ESP]]<br /><small>36</small>
+| [[2006 Tour de Corse|FRA]]
+| [[2006 Rally Argentina|ARG]]
+| [[2006 Rally d'Italia Sardegna|ITA]]
+| [[2006 Acropolis Rally|GRE]]
+| [[2006 Rally Deutschland|GER]]
+|style="background:#CFCFFF;"| [[2006 Rally Finland|FIN]]<br /><small>54</small>
+| [[2006 Rally Japan|JPN]]
+| [[2006 Cyprus Rally|CYP]]
+| [[2006 Rally of Turkey|TUR]]
+| [[2006 Rally Australia|AUS]]
+| [[2006 Rally New Zealand|NZL]]
+| [[2006 Rally GB|GBR]]
+! NC
+! 0
+|-
+| [[2008 World Rally Championship season|2008]]
+! Albert Llovera
+! [[Fiat Abarth Grande Punto S2000]]
+| [[2008 Monte Carlo Rally|MON]]
+| [[2008 Swedish Rally|SWE]]
+| [[2008 Rally México|MEX]]
+| [[2008 Rally Argentina|ARG]]
+| [[2008 Jordan Rally|JOR]]
+| [[2008 Rally d'Italia Sardegna|ITA]]
+| [[2008 Acropolis Rally|GRE]]
+| [[2008 Rally of Turkey|TUR]]
+| [[2008 Rally Finland|FIN]]
+| [[2008 Rally Deutschland|GER]]
+| [[2008 Rally New Zealand|NZL]]
+|style="background:#EFCFFF;"| [[2008 Rally Catalunya|ESP]]<br /><small>Ret</small>
+| [[2008 Tour de Corse|FRA]]
+| [[2008 Rally Japan|JPN]]
+| [[2008 Rally GB|GBR]]
+|
+! NC
+! 0
+|-
+| [[2009 World Rally Championship season|2009]]
+! PCR Sport
+! [[Fiat Abarth Grande Punto S2000]]
+| [[2009 Rally Ireland|IRE]]
+| [[2009 Rally Norway|NOR]]
+| [[2009 Cyprus Rally|CYP]]
+| [[2009 Rally Portugal|POR]]
+| [[2009 Rally Argentina|ARG]]
+| [[2009 Rally d'Italia Sardegna|ITA]]
+| [[2009 Acropolis Rally|GRE]]
+| [[2009 Rally Poland|POL]]
+| [[2009 Rally Finland|FIN]]
+| [[2009 Rally Australia|AUS]]
+|style="background:#CFCFFF;"| [[2009 Rally Catalunya|ESP]]<br /><small>42</small>
+| [[2009 Rally GB|GBR]]
+|
+|
+|
+|
+! NC
+! 0
+|-
+| [[2010 World Rally Championship season|2010]]
+! Albert Llovera
+! [[Fiat Abarth Grande Punto S2000]]
+| [[2010 Rally Sweden|SWE]]
+|style="background:#CFCFFF;"| [[2010 Rally Mexico|MEX]]<br /><small>22</small>
+| [[2010 Jordan Rally|JOR]]
+| [[2010 Rally of Turkey|TUR]]
+|style="background:#EFCFFF;"| [[2010 Rally New Zealand|NZL]]<br /><small>Ret</small>
+|style="background:#CFCFFF;"| [[2010 Rally de Portugal|POR]]<br /><small>41</small>
+| [[2010 Rally Bulgaria|BUL]]
+|style="background:#EFCFFF;"| [[2010 Rally Finland|FIN]]<br /><small>Ret</small>
+|style="background:#CFCFFF;"| [[2010 Rallye Deutschland|GER]]<br /><small>35</small>
+| [[2010 Rally Japan|JPN]]
+|style="background:#CFCFFF;"| [[2010 Rallye de France|FRA]]<br /><small>47</small>
+|style="background:#CFCFFF;"| [[2010 Rally Catalunya|ESP]]<br /><small>17</small>
+| [[2010 Rally GB|GBR]]
+|
+|
+|
+! NC
+! 0
+|-
+| [[2011 World Rally Championship season|2011]]
+! Albert Llovera
+! [[Fiat Abarth Grande Punto S2000]]
+| [[2011 Rally Sweden|SWE]]
+| [[2011 Rally Mexico|MEX]]
+| [[2011 Rally de Portugal|POR]]
+|style="background:#CFCFFF;"| [[2011 Jordan Rally|JOR]]<br /><small>17</small>
+|style="background:#EFCFFF;"| [[2011 Rally d'Italia Sardegna|ITA]]<br /><small>Ret</small>
+| [[2011 Rally Argentina|ARG]]
+|style="background:#CFCFFF;"| [[2011 Acropolis Rally|GRE]]<br /><small>24</small>
+|style="background:#EFCFFF;"| [[2011 Rally Finland|FIN]]<br /><small>Ret</small>
+|style="background:#EFCFFF;"| [[2011 Rallye Deutschland|GER]]<br /><small>Ret</small>
+| [[2011 Rally Australia|AUS]]
+|style="background:#FFFFFF;"| [[2011 Rallye de France|FRA]]<br /><small>DNS</small>
+|style="background:#CFCFFF;"| [[2011 Rally Catalunya|ESP]]<br/><small>40</small>
+| [[2011 Rally GB|GBR]]
+|
+|
+|
+! NC
+! 0
+|-
+| [[2012 World Rally Championship season|2012]]
+! PCR Sport
+! [[Fiat Abarth Grande Punto S2000]]
+|style="background:#EFCFFF;"| [[2012 Monte Carlo Rally|MON]]
+| [[2012 Rally Sweden|SWE]]
+| [[2012 Rally México|MEX]]
+| [[2012 Rally de Portugal|POR]]
+| [[2012 Rally Argentina|ARG]]
+| [[2012 Acropolis Rally|GRE]]
+| [[2012 Rally New Zealand|NZL]]
+| [[2012 Rally Finland|FIN]]
+| [[2012 Rallye Deutschland|GER]]
+| [[2012 Wales Rally GB|GBR]]
+| [[2012 Rallye de France-Alsace|FRA]]
+| [[2012 Rally d'Italia|ITA]]
+|style="background:#EFCFFF;"| [[2012 Rally de España|ESP]]<br /><small>Ret</small>
+|
+|
+|
+! NC
+! 0
+|-
+|}
+
+===JWRC Results===
+{| class="wikitable" border="1" style="text-align:center; font-size:90%;"
+|-
+! Year
+! Entrant
+! Car
+! 1
+! 2
+! 3
+! 4
+! 5
+! 6
+! JWRC
+! Points
+|-
+| [[2001 World Rally Championship season|2001]]
+! Pronto Racing
+! [[Fiat Punto S1600]]
+|style="background:#EFCFFF;"| [[2001 Rallye Catalunya|ESP]]<br /><small>Ret</small>
+|style="background:#EFCFFF;"| [[2001 Acropolis Rally|GRE]]<br /><small>Ret</small>
+|style="background:#CFCFFF;"| [[2001 Rally Finland|FIN]]<br /><small>7</small>
+|style="background:#EFCFFF;"| [[2001 Rallye Sanremo|ITA]]<br /><small>Ret</small>
+|style="background:#CFCFFF;"| [[2001 Tour de Corse|FRA]]<br /><small>13</small>
+|style="background:#EFCFFF;"| [[2001 Rally GB|GBR]]<br /><small>Ret</small>
+! NC
+! 0
+|-
+| [[2002 World Rally Championship season|2002]]
+! Albert Llovera
+! [[Fiat Punto S1600]]
+|style="background:#EFCFFF;"| [[2002 Monte Carlo Rally|MON]]<br /><small>Ret</small>
+|style="background:#CFCFFF;"| [[2002 Rally Catalunya|ESP]]<br /><small>12</small>
+|style="background:#EFCFFF;"| [[2002 Acropolis Rally|GRE]]<br /><small>Ret</small>
+|style="background:#EFCFFF;"| [[2002 Rallye Deutschland|GER]]<br /><small>Ret</small>
+|style="background:#CFCFFF;"| [[2002 Rallye Sanremo|ITA]]<br /><small>16</small>
+| [[2002 Rally GB|GBR]]
+! NC
+! 0
+|-
+|}
+
+===SWRC results===
+
+{| class="wikitable" border="1" style="text-align:center; font-size:90%;"
+|-
+! Year
+! Entrant
+! Car
+! 1
+! 2
+! 3
+! 4
+! 5
+! 6
+! 7
+! 8
+! 9
+! 10
+! SWRC
+! Points
+|-
+| [[2010 World Rally Championship season|2010]]
+! Albert Llovera
+! [[Fiat Abarth Grande Punto S2000]]
+| [[2010 Rally Sweden|SWE]]
+|style="background:#DFFFDF;"| [[2010 Rally Mexico|MEX]]<br /><small>5</small>
+| [[2010 Jordan Rally|JOR]]
+|style="background:#EFCFFF;"| [[2010 Rally New Zealand|NZL]]<br /><small>Ret</small>
+|style="background:#DFFFDF;"| [[2010 Rally de Portugal|POR]]<br /><small>10</small>
+|style="background:#EFCFFF;"| [[2010 Rally Finland|FIN]]<br /><small>Ret</small>
+|style="background:#DFFFDF;"| [[2010 Rallye Deutschland|GER]]<br /><small>8</small>
+| [[2010 Rally Japan|JPN]]
+|style="background:#DFFFDF;"| [[2010 Rallye Alsace-Vosges|FRA]]<br /><small>9</small>
+| [[2010 Rally GB|GBR]]
+! 13th
+! 17
+|-
+| [[2011 World Rally Championship season|2011]]
+! Albert Llovera
+! [[Fiat Abarth Grande Punto S2000]]
+| [[2011 Rally Mexico|MEX]]
+|style="background:#DFFFDF;"| [[2011 Jordan Rally|JOR]]<br /><small>4</small>
+|style="background:#EFCFFF;"| [[2011 Rally d'Italia Sardegna|ITA]]<br /><small>Ret</small>
+|style="background:#DFFFDF;"| [[2011 Acropolis Rally|GRE]]<br /><small>9</small>
+|style="background:#EFCFFF;"| [[2011 Rally Finland|FIN]]<br /><small>Ret</small>
+|style="background:#EFCFFF;"| [[2011 Rallye Deutschland|GER]]<br /><small>Ret</small>
+| [[2011 Rallye de France|FRA]]
+|style="background:#DFFFDF;"| [[2011 Rally Catalunya|ESP]]<br /><small>8</small>
+|
+|
+! 10th
+! 18
+|-
+| [[2012 World Rally Championship season|2012]]
+! PCR Sport
+! [[Fiat Abarth Grande Punto S2000]]
+| [[2012 Monte Carlo Rally|MON]]
+| [[2012 Rally Sweden|SWE]]
+| [[2012 Rally de Portugal|POR]]
+| [[2012 Rally New Zealand|NZL]]
+| [[2012 Rally Finland|FIN]]
+| [[2012 Wales Rally GB|GBR]]
+| [[2012 Rallye de France-Alsace|FRA]]
+|style="background:#EFCFFF;"| [[2012 Rally de España|ESP]]<br /><small>Ret</small>
+|
+|
+! NC
+! 0
+|-
+|}
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+* {{webarchive |url=https://web.archive.org/web/20120327231320/http://www.albertllovera.com/en |title=Official website}}
+* {{Olympics.com|albert-llovera|org_archive=20161006210753}}
+* {{Olympedia|89696}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Llovera, Albert}}
+[[Category:1966 births]]
+[[Category:Living people]]
+[[Category:Andorran male alpine skiers]]
+[[Category:Olympic alpine skiers for Andorra]]
+[[Category:Alpine skiers at the 1984 Winter Olympics]]
+[[Category:Andorran rally drivers]]
+[[Category:World Rally Championship drivers]]
+[[Category:Intercontinental Rally Challenge drivers]]

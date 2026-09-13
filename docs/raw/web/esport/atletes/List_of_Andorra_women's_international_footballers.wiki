@@ -1,0 +1,48 @@
+{{Short description|none}}
+{{Use dmy dates|date=August 2020}}
+This is a non-exhaustive '''list of Andorra women's international footballers''' – [[association football]] players who have appeared at least once for the senior [[Andorra women's national football team]].
+
+== Players ==
+{{inc-sport|date=October 2021}}
+{| class="wikitable"
+|+ Key
+|-
+|style="background-color:#FFFF99"|'''Bold'''
+|Named to the [[Andorra women's national football team#Current squad|national team]] in the past year
+|-
+|}
+
+{| class="wikitable sortable"
+! width="20%"| Name
+! Caps
+! Goals
+! National team years
+! Club(s)
+! Ref.
+|-
+|{{Sortname|Ainhoa|Fernández |nolink=1}} || 2 || 0 || || || <ref>{{Cite web|url=https://www.elperiodic.ad/noticia/57464/fernandez-espera-mes-suport-del-sector-privat|title=Ainoha Fernàndez espera més suport del sector privat|publisher=elperiodic.ad}}</ref><ref>{{Cite web|url=https://www.diariandorra.ad/noticies/esports/2021/02/24/trencar_barreres_arbritatge_175420_1128.html|title=Trencant barreres|date=24 February 2021 |publisher=diariandorra.ad}}</ref>
+|-
+| scope="row" style="background-color:#FFFF99" align="left" |'''{{Sortname|Marina|Fernández|Marina Fernández (footballer)}}''' || 6 || 1 || || {{Flagicon|AND}} [[Andorran Football Federation|ENFAF]] || <ref name=GSA>{{Cite web|url=https://globalsportsarchive.com/team/soccer/andorra/30549/|title=Andorra - Soccer - Team Profile - Results, fixtures, squad, statistics|website=Global Sports Archive|accessdate=24 September 2021}}</ref>
+|-
+|{{Sortname|Margot|Llobera}} || 3 || 0 || || || <ref>{{Soccerway|id=401784|name=Margot Llobera|accessdate=24 September 2021}}</ref>
+|-
+| scope="row" style="background-color:#FFFF99" align="left" |'''{{Sortname|Maria|Moles}}''' || 1 || 0 || 2021– || {{Flagicon|ESP}} [[FC Levante Las Planas|Levante Las Planas]] Juvenil A || <ref name=LFA>{{Cite web|url=https://www.lfv.li/nationalmannschaften/spielbericht?cfc_league_fe%5BmatchId%5D=179758&cHash=83ea0d30b7e7f9dd485ef972cee5dc55|title=Spielbericht|website=Liechtenstein Football Association|language=de|date=18 September 2021|accessdate=21 September 2021}}</ref>
+|-
+| scope="row" style="background-color:#FFFF99" align="left" |'''{{Sortname|Teresa|Morató}}''' || 3 || 0 || || {{Flagicon|ESP}} [[Villarreal CF (women)|Villarreal]] || <ref>{{Soccerway|id=401792|name=Teresa Morató|accessdate=24 September 2021}}</ref>
+|-
+| scope="row" style="background-color:#FFFF99" align="left" |'''{{Sortname|Maria|Ruzafa}}''' || 5 || 0 || || {{Flagicon|ESP}} [[UD Águilas|Águilas]] || <ref name=GSA/>
+|}
+
+== See also ==
+* [[Andorra women's national football team]]
+
+== References ==
+{{reflist}}
+
+{{Andorra national football team}}
+{{Association football players}}
+
+[[Category:Andorra women's international footballers| ]]
+[[Category:Lists of women's association football players by national team|Andorra]]
+[[Category:Association football player non-biographical articles]]
+[[Category:Lists of Andorran sportspeople|Footballers]]

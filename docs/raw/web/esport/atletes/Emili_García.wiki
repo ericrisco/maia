@@ -1,0 +1,91 @@
+{{short description|Andorran footballer}}
+{{Multiple issues|
+{{BLP sources|date=November 2013}}
+{{no footnotes|date=November 2013}}
+}}
+{{Use dmy dates|date=December 2020}}
+{{Infobox football biography
+| name                = Emili García
+| image               = Andorra national football team - Emili García (001).jpg
+| image_size          = 200
+| caption             = Emili García before the game against Ukraine
+| fullname            = Emili Josep García Miramontes
+| birth_date          = {{birth date and age|1989|1|11|df=y}}
+| birth_place         = [[Andorra la Vella]], [[Andorra]]
+| height              = 1.88 m<ref>{{cite web|publisher=UEFA|url=https://www.uefa.com/uefanationsleague/teams/players/96943--emili-garcia/|title=Emili García player profile|access-date=27 August 2019|language=English}}</ref>
+| position            = [[Defender (association football)|Defender]]
+| currentclub         = [[FC Pas de la Casa|Pas de la Casa]]
+| clubnumber          = 4
+| years1              = 2006–2013
+| clubs1              = [[FC Andorra]]
+| caps1               = 184
+| goals1              = 12
+| years2              = 2013–2014
+| clubs2              = [[Racing Lermeño|Lermeño]]
+| caps2               = 24
+| goals2              = 0
+| years3              = 2014–2015
+| clubs3              = [[ES Pennoise|Pennoise]]
+| caps3               = 4
+| goals3              = 0
+| years4              = 2015
+| clubs4              = [[US Le Pontet|Le Pontet]]
+| caps4               = 1
+| goals4              = 0
+| years5              = 2015–2019
+| clubs5              = [[FC Andorra]]
+| caps5               = 95
+| goals5              = 6
+| years6              = 2019–2022
+| clubs6              = [[Inter Club d'Escaldes|Inter d'Escaldes]]
+| caps6               = 64
+| goals6              = 1
+| years7              = 2022–2023
+| clubs7              = [[UE Santa Coloma]]
+| caps7               = 16
+| goals7              = 0
+| years8              = 2024–
+| clubs8              = [[FC Pas de la Casa|Pas de la Casa]]
+| caps8               = 14
+| goals8              = 0
+| nationalyears1      = 2008–
+| nationalteam1       = [[Andorra national football team|Andorra]]
+| nationalcaps1       = 57
+| nationalgoals1      = 1
+| club-update         = 10 February 2025
+| ntupdate = 12 October 2021
+}}
+{{family name hatnote|García|Miramontes|lang=Catalan}}
+'''Emili Josep García Miramontes''' (born 11 January 1989) is an [[Andorra]]n international [[Association football|footballer]]. He currently plays as a [[Defender (association football)|defender]] for [[FC Pas de la Casa|Pas de la Casa]]. García made his international debut in 2008.
+
+==International career==
+García made his senior international debut on 4 June 2008 in a 2–1 friendly defeat to [[Azerbaijan national football team|Azerbaijan]].<ref>{{cite web|url=https://www.national-football-teams.com/matches/report/12900/Andorra_Azerbaijan.html|title=Andorra vs. Azerbaijan (1:2)|website=national-football-teams.com|accessdate=26 January 2019}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{NFT player|pid=38590}}
+
+{{FC Pas de la Casa squad}}
+
+{{DEFAULTSORT:Garcia, Emili}}
+[[Category:1989 births]]
+[[Category:FC Andorra players]]
+[[Category:Living people]]
+[[Category:Andorran men's footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:Racing Lermeño players]]
+[[Category:Men's association football defenders]]
+[[Category:US Le Pontet Grand Avignon 84 players]]
+[[Category:Inter Club d'Escaldes players]]
+[[Category:UE Santa Coloma players]]
+[[Category:FC Pas de la Casa players]]
+[[Category:Andorran expatriate men's footballers]]
+[[Category:Andorran expatriates in France]]
+[[Category:Expatriate men's footballers in France]]
+[[Category:Andorran expatriates in Spain]]
+[[Category:Expatriate men's footballers in Spain]]
+
+
+{{Andorra-footy-bio-stub}}

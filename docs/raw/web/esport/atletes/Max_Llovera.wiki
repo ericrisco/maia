@@ -1,0 +1,88 @@
+{{short description|Andorran footballer}}
+{{family name hatnote|Llovera|González–Adrio|lang=Catalan}}
+{{Infobox football biography
+| name = Max Llovera
+| image = Andorra national football team - Max Llovera (001).jpg
+| caption = Llovera with Andorra in 2016
+| full_name = Max Llovera González-Adrio
+| birth_date = {{birth date and age|df=yes|1997|01|8}}
+| birth_place = [[Andorra la Vella]], Andorra
+| height = 1.80 m
+| position = [[Defender (association football)#Centre-back|Centre back]]
+| currentclub = [[CP San Cristóbal|San Cristóbal]]
+| clubnumber = 5
+| youthyears1 = | youthclubs1 = [[FC Andorra]]
+| youthyears2 = 2011–2013 | youthclubs2 = [[Lleida Esportiu]]
+| youthyears3 = 2013–2014 | youthclubs3 = [[RCD Espanyol|Espanyol]]
+| youthyears4 = 2014–2016 | youthclubs4 = [[Lleida Esportiu]]
+| years1 = 2015–2018 | clubs1 = Lleida Esportiu B | caps1 = 43 | goals1 = 2
+| years2 = 2016–2018 | clubs2 = [[Lleida Esportiu]] | caps2 = 17 | goals2 = 0
+| years3 = 2018 | clubs3 = → [[UA Horta|Horta]] (loan) | caps3 = 2 | goals3 = 0
+| years4 = 2019 | clubs4 = [[FC Santboià|Santboià]]  | caps4 = 19 | goals4 = 0
+| years5 = 2019–2021 | clubs5 = [[EC Granollers|Granollers]]  | caps5 = 35 | goals5 = 0
+| years6 = 2021– | clubs6 = [[CP San Cristóbal|San Cristóbal]]  | caps6 = 131 | goals6 = 2
+| nationalyears1 = 2011–2013 | nationalteam1 = [[Andorra national under-17 football team|Andorra U17]] | nationalcaps1 = 8 | nationalgoals1 = 0
+| nationalyears2 = 2013–2014 | nationalteam2 = [[Andorra national under-19 football team|Andorra U19]] | nationalcaps2 = 6 | nationalgoals2 = 0
+| nationalyears3 = 2015–2018 | nationalteam3 = [[Andorra national under-21 football team|Andorra U21]] | nationalcaps3 = 8 | nationalgoals3 = 0
+| nationalyears4 = 2015– | nationalteam4 = [[Andorra national football team|Andorra]] | nationalcaps4 = 91 | nationalgoals4 = 1
+| club-update = 9 May 2026
+| nationalteam-update = 4 June 2026
+}}
+
+'''Max Llovera González-Adrio''' (born 8 January 1997) is an Andorran professional [[association football|footballer]] who plays as a [[Defender (association football)#Centre-back|central defender]] for Spanish club [[CP San Cristóbal]].<ref>{{LaPreferente|210557<!-- /max-llovera -->|accessdate=18 May 2017}}</ref>
+
+==Career==
+===FC Santboià===
+On 20 December 2018 [[FC Santboià]] confirmed, that Llovera had signed for the club.<ref>[http://fcsantboia.cat/landorra-max-llovera-nou-jugador-del-santboia/ L’Andorrà Max Llovera, nou jugador del Santboià], fcsantboia.cat, 20 December 2018</ref>
+
+===International career===
+
+Llovera debuted for [[Andorra national football team|Andorra]] on 3 September 2015. 
+
+===International goals===
+:''Scores and results list Austria's goal tally first, score column indicates score after each Llovera goal''.
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Max Llovera
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| 1. || 8 September 2021 || [[Puskás Aréna]], [[Budapest]], [[Hungary]] || {{fb|HUN}} || align="center"|'''1'''–2 || align="center"|1–2 || [[2022 FIFA World Cup qualification – UEFA Group I|2022 FIFA World Cup qualification]]
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{BDFutbol|23323}}
+*{{Soccerway|max-llovera/210581}}
+*{{NFT player|60326}}
+
+{{Use dmy dates|date=November 2015}}
+
+{{DEFAULTSORT:Llovera, Max}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:Andorran people of Spanish descent]]
+[[Category:Andorran people of German descent]]
+[[Category:Andorran men's footballers]]
+[[Category:Men's association football defenders]]
+[[Category:Segunda División B players]]
+[[Category:Lleida CF players]]
+[[Category:Andorra men's international footballers]]
+[[Category:Andorra men's youth international footballers]]
+[[Category:Andorran expatriate men's footballers]]
+[[Category:Andorran expatriate sportspeople in Spain]]
+[[Category:UA Horta players]]
+[[Category:FC Santboià players]]
+[[Category:EC Granollers players]]
+[[Category:CP San Cristóbal players]]
+
+
+{{Andorra-footy-bio-stub}}

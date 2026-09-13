@@ -1,0 +1,42 @@
+{{Short description|Andorran alpine skier (born 1979)}}
+{{Infobox skier
+| name        = Alex Antor
+| nationality = {{AND}}
+| full_name   = Alex Antor Seignourel
+| birth_date  = {{Birth-date and age|1 April 1979}}
+| birth_place = [[Narbonne]], [[Aude]], France
+| height      = 187 cm
+}}
+
+'''Alex Antor Seignourel'''{{family name footnote|lang=Catalan|Antor|Seignourel}} (born 1 April 1979)<ref name=sref>{{cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/an/alex-antor-1.html |archive-url=https://web.archive.org/web/20200418010609/https://www.sports-reference.com/olympics/athletes/an/alex-antor-1.html |url-status=dead |archive-date=18 April 2020 |accessdate=15 December 2012 |quote=Full name: Alex Antor Seignourel}}</ref> is an [[Andorra]]n [[alpine skier]].<ref>{{Cite web |url=http://www.fis-ski.com/uk/604/613.html?sector=AL&listid=&competitorid=1462&type=result |title=FIS profile |access-date=2008-02-29 |archive-date=2011-05-26 |archive-url=https://web.archive.org/web/20110526074414/http://www.fis-ski.com/uk/604/613.html?sector=AL&listid=&competitorid=1462&type=result |url-status=dead }}</ref> He represented Andorra at the [[2002 Winter Olympics|2002]] and [[2006 Winter Olympics]]. He was their [[flag bearer]] in the [[2006 Winter Olympics#Day 1 .28Opening Ceremony.29|2006 Opening Ceremonies]].
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{Reflist}}
+
+==External links==
+* {{FIS alpine skier}}
+* {{Olympics.com|alex-antor|org_archive=20161006061916}}
+* {{Olympedia|101799}}
+
+{{s-start}}
+{{s-sports|oly}}
+{{succession box
+| before = [[Hocine Haciane]]
+| title = [[List of flag bearers for Andorra at the Olympics|Flag bearer]] for {{AND}}
+| years = [[2006 Winter Olympics|Torino 2006]]
+| after = [[Montserrat García]]
+}}
+{{s-end}}
+{{DEFAULTSORT:Antor, Alex}}
+[[Category:1979 births]]
+[[Category:Living people]]
+[[Category:Andorran male alpine skiers]]
+[[Category:Olympic alpine skiers for Andorra]]
+[[Category:Alpine skiers at the 2002 Winter Olympics]]
+[[Category:Alpine skiers at the 2006 Winter Olympics]]
+
+
+{{Andorra-alpine-skiing-bio-stub}}

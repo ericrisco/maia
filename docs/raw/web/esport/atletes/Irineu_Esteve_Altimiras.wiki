@@ -1,0 +1,139 @@
+{{Short description|Andorran cross-country skier (born 1996)}}
+{{Infobox skier
+| name              = Irineu Esteve
+| image             = 20190227 FIS NWSC Seefeld Men CC 15km ALTIMIRAS Esteve 850 4154.jpg
+| caption           = Esteve in 2019 
+| nationality       = {{AND}}
+| full_name         = Irineu Esteve Altimiras
+| birth_date        = {{birth date and age|1996|6|21|df=yes}}
+| birth_place       = [[Andorra la Vella]], Andorra
+| height            = 179 cm
+| club              = NEC La Rabassa-Naturlandia
+| seasons           = 6 – ([[2017–18 FIS Cross-Country World Cup|2018]]–present)
+| wins              = 
+| team_wins         = 
+| total_podiums     = 0
+| team_podiums      = 
+| events_in_yellow  = 
+| individual_starts = 81 <!--81 as of 26 March 2023-->
+| team_starts       = 0
+| wc_overalls       = 0 – (''42nd in [[2022–23 FIS Cross-Country World Cup|2023]]'')
+| wc_titles         = 0
+| updated           = 29 March 2023
+| medal_templates   = 
+}}
+
+'''Irineu Esteve Altimiras'''{{family name footnote|lang=Catalan|Esteve|Altimiras}} (born 21 June 1996) is an Andorran [[Cross-country skiing (sport)|cross-country skier]] who competes internationally.<ref name="FISprofile">{{cite web |url=https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=186291&type=result |title=Ireneu Esteve Altimiras |website=FIS-ski.com |publisher=International Ski and Snowboard Federation}}</ref>
+
+He competed for Andorra at the [[FIS Nordic World Ski Championships 2017]] in [[Lahti]], Finland.
+
+==Cross-country skiing results==
+All results are sourced from the [[International Ski Federation|International Ski Federation (FIS)]].<ref name="FISprofile" />
+
+===Olympic Games===
+{| class="wikitable" style="font-size:95%; text-align:center; background:#ffffff;"
+! style="background-color:#369; color:white; width:60px;"|&nbsp;Year&nbsp;
+! style="background-color:#369; color:white; width:40px;"|&nbsp;Age&nbsp;
+! style="background-color:#4180be; color:white; width:75px;"| &nbsp;15&nbsp;km&nbsp;<br>&nbsp;individual&nbsp;
+! style="background-color:#4180be; color:white; width:75px;"| &nbsp;30&nbsp;km&nbsp;<br>&nbsp;skiathlon&nbsp;
+! style="background-color:#4180be; color:white; width:75px;"| &nbsp;50&nbsp;km&nbsp;<br>&nbsp;mass&nbsp;start&nbsp;
+! style="background-color:#4180be; color:white; width:75px;"| &nbsp;Sprint&nbsp;
+! style="background-color:#4180be; color:white; width:75px;"| &nbsp;4&nbsp;×&nbsp;10&nbsp;km&nbsp;<br>&nbsp;relay&nbsp;
+! style="background-color:#4180be; color:white; width:75px;"| &nbsp;Team&nbsp;<br>&nbsp;sprint&nbsp;
+|-
+| [[2018 Winter Olympics|2018]] || ''21'' || [[Cross-country skiing at the 2018 Winter Olympics – Men's 15 kilometre freestyle|27]] || [[Cross-country skiing at the 2018 Winter Olympics – Men's 30 kilometre skiathlon|46]] || [[Cross-country skiing at the 2018 Winter Olympics - Men's 50 kilometre classical|34]] || [[Cross-country skiing at the 2018 Winter Olympics – Men's sprint|—]] ||  [[Cross-country skiing at the 2018 Winter Olympics – Men's 4 × 10 kilometre relay|—]] || |[[Cross-country skiing at the 2018 Winter Olympics – Men's team sprint|—]]
+|-
+| [[Cross-country skiing at the 2022 Winter Olympics|2022]] || ''25'' || [[Cross-country skiing at the 2022 Winter Olympics – Men's 15 kilometre classical|24]] || [[Cross-country skiing at the 2022 Winter Olympics – Men's 30 kilometre skiathlon|20]] || [[Cross-country skiing at the 2022 Winter Olympics – Men's 50 kilometre freestyle|25]]{{ref label|a|a}} || [[Cross-country skiing at the 2022 Winter Olympics – Men's sprint|—]] || [[Cross-country skiing at the 2022 Winter Olympics – Men's 4 × 10 kilometre relay|—]] ||[[Cross-country skiing at the 2022 Winter Olympics – Men's team sprint|—]]
+|}
+<span style="font-size:95%">{{note label|a|a}}Distance reduced to 30&nbsp;km due to weather conditions.</span>
+
+===World Championships===
+{| class="wikitable" style="font-size:95%; text-align:center; background:#ffffff;"
+! style="background-color:#369; color:white; width:60px;"|&nbsp;Year&nbsp;
+! style="background-color:#369; color:white; width:40px;"|&nbsp;Age&nbsp;
+! style="background-color:#4180be; color:white; width:75px;"| &nbsp;15&nbsp;km&nbsp;<br>&nbsp;individual&nbsp;
+! style="background-color:#4180be; color:white; width:75px;"| &nbsp;30&nbsp;km&nbsp;<br>&nbsp;skiathlon&nbsp;
+! style="background-color:#4180be; color:white; width:75px;"| &nbsp;50&nbsp;km&nbsp;<br>&nbsp;mass&nbsp;start&nbsp;
+! style="background-color:#4180be; color:white; width:75px;"| &nbsp;Sprint&nbsp;
+! style="background-color:#4180be; color:white; width:75px;"| &nbsp;4&nbsp;×&nbsp;10&nbsp;km&nbsp;<br>&nbsp;relay&nbsp;
+! style="background-color:#4180be; color:white; width:75px;"| &nbsp;Team&nbsp;<br>&nbsp;sprint&nbsp;
+|-
+| [[FIS Nordic World Ski Championships 2017|2017]] || ''20'' || [[FIS Nordic World Ski Championships 2017 – Men's 15 kilometre classical|29]] || [[FIS Nordic World Ski Championships 2017 – Men's 30 kilometre pursuit|33]] || [[FIS Nordic World Ski Championships 2017 – Men's 50 kilometre freestyle|—]] ||  [[FIS Nordic World Ski Championships 2017 – Men's sprint|—]] || [[FIS Nordic World Ski Championships 2017 – Men's 4 × 10 kilometre relay|—]] || [[FIS Nordic World Ski Championships 2017 – Men's team sprint|—]]
+|-
+| [[FIS Nordic World Ski Championships 2019|2019]] || ''22'' || [[FIS Nordic World Ski Championships 2019 – Men's 15 kilometre classical|22]] || [[FIS Nordic World Ski Championships 2019 – Men's 30 kilometre pursuit|21]] || [[FIS Nordic World Ski Championships 2019 – Men's 50 kilometre freestyle|29]] || [[FIS Nordic World Ski Championships 2019 – Men's sprint|—]] ||  [[FIS Nordic World Ski Championships 2019 – Men's 4 × 10 kilometre relay|—]] || [[FIS Nordic World Ski Championships 2019 – Men's team sprint|—]]
+|-
+| [[FIS Nordic World Ski Championships 2021|2021]] || ''24'' || [[FIS Nordic World Ski Championships 2021 – Men's 15 kilometre freestyle|15]] || [[FIS Nordic World Ski Championships 2021 – Men's 30 kilometre skiathlon|21]] || [[FIS Nordic World Ski Championships 2021 – Men's 50 kilometre classical|34]] || [[FIS Nordic World Ski Championships 2021 – Men's sprint|—]] ||  [[FIS Nordic World Ski Championships 2021 – Men's 4 × 10 kilometre relay|—]] || [[FIS Nordic World Ski Championships 2021 – Men's team sprint|—]]
+|-
+| [[FIS Nordic World Ski Championships 2023|2023]] || ''26'' || [[FIS Nordic World Ski Championships 2023 – Men's 15 kilometre freestyle|7]] || [[FIS Nordic World Ski Championships 2023 – Men's 30 kilometre skiathlon|12]]|| [[FIS Nordic World Ski Championships 2023 – Men's 50 kilometre classical|14]] ||  [[FIS Nordic World Ski Championships 2023 – Men's sprint|—]] || [[FIS Nordic World Ski Championships 2023 – Men's 4 × 10 kilometre relay|—]] || [[FIS Nordic World Ski Championships 2023 – Men's team sprint|—]]
+|}
+
+===World Cup===
+====Season standings====
+{| class="wikitable" style="font-size:95%; text-align:center; background:#ffffff;"
+! style="background-color:#369; color:white; width:60px;" rowspan="2" |&nbsp;Season&nbsp;
+! style="background-color:#369; color:white; width:40px;" rowspan="2" |&nbsp;Age&nbsp;
+! style="background-color:#4180be; color:white;" colspan="4" |Discipline standings
+! style="background-color:#4180be; color:white;" colspan="4" |Ski Tour standings
+|-
+! style="background-color:#4180be; color:white; width:75px;"|Overall
+! style="background-color:#4180be; color:white; width:75px;"|Distance
+! style="background-color:#4180be; color:white; width:75px;"|Sprint
+! style="background-color:#4180be; color:white; width:75px;"|U23
+! style="background-color:#4180be; color:white; width:75px;"|Nordic<br>Opening
+! style="background-color:#4180be; color:white; width:75px;"|Tour de<br>Ski
+! style="background-color:#4180be; color:white; width:75px;"|Ski Tour<br>2020
+! style="background-color:#4180be; color:white; width:75px;"|World Cup<br>Final
+|-
+| [[2017–18 FIS Cross-Country World Cup|2018]] || ''21'' || {{Abbr|NC|Not classified}}  || {{Abbr|NC|Not classified}}  || — || {{Abbr|NC|Not classified}}  || — || — || {{n/a}}|| —
+|-
+| [[2018–19 FIS Cross-Country World Cup|2019]] || ''22'' || 55 || 39 || {{Abbr|NC|Not classified}}  ||8  || 41 || 24 || {{n/a}}|| 43
+|-
+| [[2019–20 FIS Cross-Country World Cup|2020]] || ''23'' || 44 || 23 || {{Abbr|NC|Not classified}} || {{n/a}} || — || 23||  25 || {{n/a}}
+|-
+| [[2020–21 FIS Cross-Country World Cup|2021]] || ''24'' || 46 || 34 || {{Abbr|NC|Not classified}} || {{n/a}} || — || 22 ||  {{n/a}} ||  {{n/a}}
+|-
+| [[2021–22 FIS Cross-Country World Cup|2022]] || ''25'' || 68|| 48 || {{Abbr|NC|Not classified}} || {{n/a}} || {{n/a}} || 26 ||  {{n/a}} ||  {{n/a}}
+|-
+| [[2022–23 FIS Cross-Country World Cup|2023]] || ''26'' ||42 || 29 ||{{Abbr|NC|Not classified}}  || {{n/a}} || {{n/a}} || 31 ||  {{n/a}} ||  {{n/a}}
+|}
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+<!-- name as spelled at each website -->
+* {{FIS cross-country skier|186291|Ireneu Esteve Altimiras}}
+* [https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/8327 Ireneu Esteve Altimiras] at [[Milano Cortina 2026]]
+* {{Olympics.com|irineu-esteve-altimiras|Irineu Esteve Altimiras}}
+* {{Olympedia|136667|Irineu Esteve Altimiras}}
+
+{{Authority control}}
+{{s-start}}
+{{s-sports|oly}}
+{{succession box
+| before = [[Laura Sallés]]
+| title = [[List of flag bearers for Andorra at the Olympics|Flag bearer]] for {{AND}}
+| years = [[2018 Winter Olympics|PyeongChang 2018]]
+| after = [[Mònica Dòria]]<br />[[Pol Moya]]
+}}
+{{succession box
+| before = [[Nahuel Carabaña]]<br />[[Mònica Dòria]]
+| title = [[List of flag bearers for Andorra at the Olympics|Flag bearer]] for {{AND}}
+| years = [[2026 Winter Olympics|Milano Cortina 2026]]<br />with <br />[[Joan Verdú (alpine skier)|Joan Verdú]]
+| after = '''Incumbent'''
+}}
+{{s-end}}
+{{DEFAULTSORT:Esteve Altimiras, Irineu}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:Andorran male cross-country skiers]]
+[[Category:Tour de Ski skiers]]
+[[Category:Cross-country skiers at the 2018 Winter Olympics]]
+[[Category:Cross-country skiers at the 2022 Winter Olympics]]
+[[Category:Olympic cross-country skiers for Andorra]]
+
+
+{{Andorra-crosscountry-skiing-bio-stub}}

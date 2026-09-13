@@ -1,0 +1,97 @@
+{{short description|Andorran footballer}}
+{{otherpeople|Manuel Jiménez}}
+{{Use dmy dates|date=December 2020}}
+{{Infobox football biography
+|name=Manolo Jiménez
+|image=Manolo Jiménez.jpg
+|image_size=200
+|caption=
+|fullname=Manuel Jiménez Soria
+|birth_date ={{Birth date and age|1976|8|12|df=yes}}
+|birth_place=[[Andorra]]
+|height=
+|currentclub=[[FC Santa Coloma|Santa Coloma]]
+|clubnumber= 11
+|position=[[Midfielder]]
+|youthyears1=
+|youthclubs1=
+|years1=
+|clubs1=[[FC Santa Coloma|Santa Coloma]]
+|caps1= | goals1 =
+|nationalyears1=1998–
+|nationalteam1=[[Andorra national football team|Andorra]]
+|nationalcaps1= 79 | nationalgoals1 = 1
+|club-update=21 February 2008
+|nationalteam-update=28 September 2014
+}}
+
+'''Manuel "Manolo" Jiménez Soria''' (born 12 August 1976)<ref>[https://int.soccerway.com/players/manolo-jimenez/45200/ Soccerway profile]</ref> is an [[Andorra]]n [[Association football|footballer]] who currently plays for [[FC Santa Coloma|Santa Coloma]] and the [[Andorra national football team]].
+
+==International statistics==
+''Updated 28 September 2014.''<ref>{{cite web|url=https://www.rsssf.org/miscellaneous/mjimenez-intl.html |title=Manuel "Manolo" Jiménez Soria - International Appearances |publisher=Rec.Sport.Soccer Statistics Foundation|accessdate=12 September 2013 |date=28 September 2014 }}</ref>
+{| class="wikitable" style="text-align:center"
+! colspan=3 | [[Andorra national football team|Andorra national team]]
+|-
+!Year!!Apps!!Goals
+|-
+|-
+|1998||5||0
+|-
+|1999||8||0
+|-
+|2000||8||0
+|-
+|2001||5||0
+|-
+|2002||4||1
+|-
+|2003||6||0
+|-
+|2004||6||0
+|-
+|2005||5||0
+|-
+|2006||4||0
+|-
+|2007||5||0
+|-
+|2008||5||0
+|-
+|2009||7||0
+|-
+|2010||6||0
+|-
+|2011||3||0
+|-
+|2012||1||0
+|-
+!Total||79||1
+|}
+
+===International goal===
+:''Scores and results list Andorra's goal tally first.''
+{| class="wikitable"
+|-
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 17 April 2002 || [[Estadi Comunal d'Andorra la Vella]], [[Andorra la Vella]], Andorra || {{fb|Albania}} || ''2''–0|| 2–0 || [[exhibition game|Friendly match]]
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{NFT player|pid=180}}
+
+
+{{DEFAULTSORT:Jimenez, Manolo}}
+[[Category:1976 births]]
+[[Category:Living people]]
+[[Category:Andorran men's footballers]]
+[[Category:FC Andorra players]]
+[[Category:Andorra men's international footballers]]
+[[Category:FC Santa Coloma players]]
+[[Category:Men's association football midfielders]]
+[[Category:Primera Divisió players]]
+
+{{Andorra-footy-bio-stub}}

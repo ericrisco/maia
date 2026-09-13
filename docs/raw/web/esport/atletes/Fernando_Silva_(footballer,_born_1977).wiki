@@ -1,0 +1,79 @@
+{{short description|Spanish footballer}}
+{{family name hatnote|Silva|García|lang=Spanish}}
+{{Multiple issues|
+{{BLP sources|date=August 2013}}
+{{no footnotes|date=August 2013}}
+}}
+{{Use dmy dates|date=August 2023}}
+{{Infobox football biography
+| name = Fernando Silva
+| image = Fernando Silva.jpg
+| image_size = 200
+| caption = Silva in action for [[Andorra national football team|Andorra]] in 2009
+| fullname = Fernando José Silva García
+| birth_date = {{birth date and age|1977|5|16|df=y}}
+| birth_place = [[Barcelona]], Spain<ref name=BD>{{Cite web|url=https://www.bondia.ad/esports/en-el-nom-del-pare-i-del-fill|title=En el nom del pare... i del fill|language=ca|date=25 April 2019|website=BonDia|accessdate=29 December 2019}}</ref>
+| height =
+| position = [[Forward (association football)|Forward]]
+| youthyears1 = | youthclubs1 = 
+| years1 = 2002–2004 | clubs1 = [[FC Andorra]] | caps1 = | goals1 = 
+| years2 = 2004–2005 | clubs2 = [[AD Cerro de Reyes|Cerro Reyes]] | caps2 = | goals2 =
+| years3 = 2005 | clubs3 = [[FC Santa Coloma|Santa Coloma]] | caps3 = | goals3 =
+| years4 = 2005–2007 | clubs4 = [[SCR Peña Deportiva|Santa Eulàlia]] | caps4 = 8 | goals4 = 0
+| years5 = 2007–2008 | clubs5 = [[Imperio de Mérida CP|Imperio Mérida]] | caps5 = | goals5 =
+| years6 = 2008–2009 | clubs6 = [[CF Villanovense|Villanovense]] | caps6 = | goals6 =
+| years7 = 2009–2010 | clubs7 = [[CD Badajoz|Badajoz]] | caps7 = 10 | goals7 = 0
+| years8 = 2010–2011 | clubs8 = [[Imperio de Mérida CP|Imperio Mérida]] | caps8 = 17 | goals8 = 1
+| years9 = 2011–2012 | clubs9 = [[CD Guadiana|Guadiana]] | caps9 = | goals9 =
+| years10 = 2012–2014 | clubs10 = Monte Louro | caps10 = | goals10 =
+| totalcaps = | totalgoals = 
+| nationalyears1 = 2002–2013 | nationalteam1 = [[Andorra national football team|Andorra]] | nationalcaps1 = 51 | nationalgoals1 = 2
+}}
+
+'''Fernando José Silva García''' (born 16 May 1977) is a former [[Association football|footballer]] who played as a [[Forward (association football)|forward]].
+
+Born in Spain, he has represented the [[Andorra national football team|Andorra national team]] internationally.
+
+==Early life==
+Silva was born in Barcelona, Catalonia to Extremaduran parents and raised in [[Montijo, Spain|Montijo]].<ref name=BD/>
+
+==International goals==
+
+:''Scores and results list Andorra's goal tally first.''
+{| class="wikitable"
+! # !! Date !! Venue !! Opponent !! Score !! Result !! Competition !! Ref.
+|-
+| 1. || 26 March 2005|| [[Hanrapetakan Stadium]], [[Yerevan]], [[Armenia]] || {{fb|Armenia}} || '''1'''–1 || 1–2 || [[2006 FIFA World Cup qualification – UEFA Group 1|2006 World Cup qualifier]] || 
+|-
+| 2. || 22 August 2007 || [[A Le Coq Arena]], [[Tallinn]], [[Estonia]] || {{fb|Estonia}} || '''1'''–1 || 1–2 || [[UEFA Euro 2008 qualifying Group E|Euro 2008 qualifying]] || 
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.fedandfut.com/default.asp?idioma=cat&navpage=page2&showjugador=yes&idjugador=31&seleccio=1 National team data]
+*{{NFT player|pid=156}}
+*{{FIFA player|217269}}
+*{{UEFA player|68348}}
+
+{{DEFAULTSORT:Silva, Fernando}}
+[[Category:1977 births]]
+[[Category:Living people]]
+[[Category:People from Tierra de Mérida - Vegas Bajas]]
+[[Category:Footballers from the Province of Badajoz]]
+[[Category:Andorran men's footballers]]
+[[Category:Sportspeople of Spanish descent]]
+[[Category:Andorra men's international footballers]]
+[[Category:Spanish men's footballers]]
+[[Category:Spanish emigrants to Andorra]]
+[[Category:Naturalised citizens of Andorra]]
+[[Category:Men's association football forwards]]
+[[Category:Tercera División players]]
+[[Category:FC Andorra players]]
+[[Category:FC Santa Coloma players]]
+[[Category:CF Villanovense players]]
+[[Category:CD Badajoz players]]
+
+
+{{Andorra-footy-bio-stub}}

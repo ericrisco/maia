@@ -1,0 +1,44 @@
+{{About|an Andorran cyclist|the Mexican cinematographer|Xavier Pérez Grobet}}
+{{short description|Andorran cyclist}}
+{{Use dmy dates|date=June 2016}}
+{{Infobox cyclist
+| name          = Xavier Pérez
+| image         =
+| caption       =
+| fullname      = 
+| birth_date    = {{birth date and age|1968|1|15|df=yes}} 
+| birth_place   = [[Escaldes-Engordany]], [[Andorra]]
+| death_date    = 
+| death_place   = 
+| height        =
+| weight        =
+| currentteam   = Retired
+| discipline    = Road
+| role          = Rider
+| ridertype     =
+| amateuryears1 =
+| amateurteam1  =
+| proyears1     = 1993–1994
+| proteam1      = {{UCI team code|FES|1993}}
+}}
+
+'''Xavier Pérez Font''' (born 15 January 1968) is an Andorran former [[Cycle sport|cyclist]]. He competed at the [[1988 Summer Olympics]] and the [[1992 Summer Olympics]].<ref name="SportsRef">{{cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/pe/xavier-perez-1.html |archive-url=https://web.archive.org/web/20200418122526/https://www.sports-reference.com/olympics/athletes/pe/xavier-perez-1.html |url-status=dead |archive-date=18 April 2020 |title=Xavier Pérez Olympic Results |access-date=5 July 2016}}</ref> He also rode in the [[1993 Giro d'Italia]], but failed to finish.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Sports links}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Perez, Xavier}}
+[[Category:1968 births]]
+[[Category:Living people]]
+[[Category:Andorran male cyclists]]
+[[Category:Olympic cyclists for Andorra]]
+[[Category:Cyclists at the 1988 Summer Olympics]]
+[[Category:Cyclists at the 1992 Summer Olympics]]
+[[Category:People from Escaldes–Engordany]]
+
+{{Andorra-cycling-bio-stub}}

@@ -1,0 +1,28 @@
+{{short description|Andorran sport shooter}}
+{{Infobox sportsperson
+| name = Francesc Gaset Fris
+| image = 
+| birth_date = {{birth date and age|1947|4|26|df=y}}
+| birth_place = [[Andorra]]
+| height = {{height|m=1.84}}
+| weight = {{convert|84|kg|lb|abbr=on}}
+| country = {{AND}}
+| sport = [[Shooting sport]]
+| event = [[Olympic trap]]
+| collegeteam = 
+}}
+'''Francesc Gaset Fris''' (born 26 April 1947) is an [[Andorra]]n former [[sport shooter]] who competed at the [[1980 Summer Olympics|1980]] and [[1984 Summer Olympics]].<ref>{{cite web|url=https://www.sports-reference.com/olympics/athletes/ga/francesco-gaset-1.html |title=Francesco Gaset |publisher=Sports Reference LLC |work=sports-reference.com |accessdate=September 28, 2014 |url-status=dead |archiveurl=https://web.archive.org/web/20131014022549/http://www.sports-reference.com/olympics/athletes/ga/francesco-gaset-1.html |archivedate=October 14, 2013 }}</ref> He was the [[List of flag bearers for Andorra at the Olympics|flagbearer for Andorra]] at the 1980 Olympics.
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Fris, Francesc Gaset}}
+[[Category:Living people]]
+[[Category:1947 births]]
+[[Category:Shooters at the 1980 Summer Olympics]]
+[[Category:Shooters at the 1984 Summer Olympics]]
+[[Category:Andorran male sport shooters]]
+[[Category:Olympic shooters for Andorra]]
+[[Category:Place of birth missing (living people)]]
+
+{{Andorra-sportshooting-bio-stub}}

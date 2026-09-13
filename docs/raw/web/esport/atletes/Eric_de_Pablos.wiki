@@ -1,0 +1,121 @@
+{{Short description|Andorran footballer}}
+{{family name hatnote|De Pablos|Solà|lang=Spanish}}
+{{Use dmy dates|date=June 2021}}
+{{Infobox football biography
+| name           = Eric de Pablos
+| fullname       = Eric de Pablos Solà
+| image          =
+| caption        =
+| height         =
+| birth_date     = {{Birth date and age|df=yes|1999|3|8}}
+| birth_place    = [[Andorra la Vella]], Andorra
+| position       = [[Defender (association football)#Full-back|Right-back]]
+| currentclub    = [[FC Rànger's|Rànger's]]
+| clubnumber     = 22
+| youthyears1    = {{0|0000}}–2018
+| youthclubs1    = [[FC Andorra]]
+| years1         = 2018–2019
+| clubs1         = [[FC Andorra]]
+| caps1          = 14
+| goals1         = 0
+| years2         = 2019
+| clubs2         = [[FC Ordino|Ordino]]
+| caps2          = 14
+| goals2         = 0
+| years3         = 2019–2020
+| clubs3         = [[UE Santa Coloma]]
+| caps3          = 17
+| goals3         = 0
+| years4         = 2020–2021
+| clubs4         = [[FC Santa Coloma]]
+| caps4          = 12
+| goals4         = 0
+| years5         = 2021–2024
+| clubs5         = [[UE Santa Coloma]]
+| caps5          = 58
+| goals5         = 3
+| years6         = 2024–2025
+| clubs6         = [[FC Pas de la Casa|Pas de la Casa]]
+| caps6          = 21
+| goals6         = 0
+| years7         = 2025–2026
+| clubs7         = [[UE Santa Coloma]]
+| caps7          = 24
+| goals7         = 2
+| years8         = 2026–
+| clubs8         = [[FC Rànger's|Rànger's]]
+| caps8          = 0
+| goals8         = 0
+| nationalyears1 = 2014–2015
+| nationalteam1  = [[Andorra national under-17 football team|Andorra U17]]
+| nationalcaps1  = 4
+| nationalgoals1 = 0
+| nationalyears2 = 2016–2017
+| nationalteam2  = [[Andorra national under-19 football team|Andorra U19]]
+| nationalcaps2  = 5
+| nationalgoals2 = 0
+| nationalyears3 = 2016–2020
+| nationalteam3  = [[Andorra national under-21 football team|Andorra U21]]
+| nationalcaps3  = 15
+| nationalgoals3 = 0
+| nationalyears4 = 2021–
+| nationalteam4  = [[Andorra national football team|Andorra]]
+| nationalcaps4  = 14
+| nationalgoals4 = 0
+| pcupdate       = 10 May 2026
+| ntupdate       = 29 May 2026
+}}
+'''Eric de Pablos Solà''' (born 8 March 1999) is an Andorran [[Association football|footballer]] who plays as a [[Defender (association football)#Full-back|right-back]] for [[FC Rànger's]] and the [[Andorra national football team|Andorra national team]].<ref>{{LaPreferente}}</ref>
+
+==Career==
+De Pablos made his international debut for [[Andorra national football team|Andorra]] on 3 June 2021, coming on as a substitute in the 73rd minute for [[Moisés San Nicolás]] in a [[Exhibition game|friendly]] match against the [[Republic of Ireland national football team|Republic of Ireland]]. The home match finished as a 4–1 loss.<ref name="EUF">{{cite web |url=https://eu-football.info/_player.php?id=31500 |title=Eric de Pablos |website=EU-Football.info |access-date=3 June 2021}}</ref>
+
+==Career statistics==
+
+===International===
+{{updated|29 May 2026|<ref name="EUF"/>}}
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=3|[[Andorra national football team|Andorra]]
+|-
+!Year!!Apps!!Goals
+|-
+|2021||3||0
+|-
+|2022||4||0
+|-
+|2023||2||0
+|-
+|2024||2||0
+|-
+|2025||2||0
+|-
+|2026||1||0
+|-
+!Total!!14!!0
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{WorldFootball.net}}
+* {{Soccerway}}
+
+{{DEFAULTSORT:Pablos, Eric de}}
+[[Category:1999 births]]
+[[Category:Living people]]
+[[Category:Footballers from Andorra la Vella]]
+[[Category:Andorran men's footballers]]
+[[Category:FC Andorra players]]
+[[Category:FC Ordino players]]
+[[Category:UE Santa Coloma players]]
+[[Category:FC Santa Coloma players]]
+[[Category:Primera Divisió players]]
+[[Category:Andorra men's youth international footballers]]
+[[Category:Andorra men's under-21 international footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:Men's association football full-backs]]
+
+{{Andorra-footy-bio-stub}}

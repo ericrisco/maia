@@ -1,0 +1,42 @@
+{{short description|Andorran trap shooter}}
+{{use dmy dates|date=November 2017}}
+{{Infobox sportsperson
+| name           = Esteve Dolsa Montaña
+| birth_name     = 
+| full_name       = 
+| nickname       = 
+| nationality    = 
+| residence      = 
+| birth_date     = {{birth date|1936|3|17|df=yes}}
+| birth_place    = 
+| death_date     = {{death date and age|2007|11|22|1936|3|17|df=yes}}
+| death_place    = [[Lleida]]
+| height         = 
+| weight         = 
+| website        = 
+| country        = 
+| sport          = [[Shooting sport|Sports shooting]]
+| event          = 
+| olympics       = 
+| highest_ranking = 
+| personal_best             = 
+| medal_templates = 
+| show_medals    = yes
+}}
+'''Esteve Dolsa Montaña''' (17 March 1936 - 22 November 2007) was an [[Andorra]]n [[Trap shooting|trap shooter]] who competed in the [[1976 Summer Olympics]].<ref name="bio">{{cite web|title=Esteve Dolsa|url=https://www.sports-reference.com/olympics/athletes/do/esteve-dolsa-1.html|archive-url=https://web.archive.org/web/20200418010600/https://www.sports-reference.com/olympics/athletes/do/esteve-dolsa-1.html|url-status=dead|archive-date=18 April 2020|website=Olympics at Sports-Reference.com|accessdate=19 November 2017}}</ref>
+
+Dolsa was 40 years old when he competed in the [[Shooting at the 1976 Summer Olympics – Mixed trap|trap]] shooting event at the [[1976 Summer Olympics]] with fellow countryman [[Joan Tomàs Roca]], in the event Dolsa scored 159 points and finished in 35th position out of 43 shooters.<ref>{{cite web|title=Shooting at the 1976 Montreal Summer Games: Mixed Trap|url=https://www.sports-reference.com/olympics/summer/1976/SHO/mixed-trap.html|archive-url=https://web.archive.org/web/20200418131405/https://www.sports-reference.com/olympics/summer/1976/SHO/mixed-trap.html|url-status=dead|archive-date=18 April 2020|website=Olympics at Sports-Reference.com|accessdate=19 November 2017}}</ref>
+
+While out hunting on the 22 November 2007 in [[Lleida]], he was accidentally shot and died from his wound.<ref>{{cite web|title=A hunter dies in Tarragona for the sake of another mate|url=http://www.elperiodico.cat/ca/societat/20071124/mor-un-cacador-a-tarragona-pel-tret-dun-altre-company-5494537|website=elperiodico.cat|date=24 November 2007 |accessdate=19 November 2017}}</ref>
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Dolsa, Esteve}}
+[[Category:Shooters at the 1976 Summer Olympics]]
+[[Category:1936 births]]
+[[Category:Andorran male sport shooters]]
+[[Category:Olympic shooters for Andorra]]
+[[Category:2007 deaths]]
+
+{{Andorra-sportshooting-bio-stub}}

@@ -1,7 +1,7 @@
 ---
 type: article
 title: Joan Verdú Sánchez
-description: "El 9 de desembre del 2023, a Val-d'Isère, va ser el primer esquiador andorrà de la història a pujar a un podi de la Copa del Món."
+description: "El 9 de desembre del 2023, a Val-d'Isère, va ser el primer esquiador ALPÍ andorrà a pujar a un podi de la Copa del Món — onze anys després que ho fes Lluís Marín en surf de neu."
 tema: temes/persones
 veu: compilada
 epoca: contemporania
@@ -23,6 +23,17 @@ tags: [persones, esports, esqui, neu, jocs-olimpics, font-secundaria]
 
 > **Primer esquiador andorrà de la història a pujar a un podi de la Copa del
 > Món.**
+
+**Aquesta frase s'ha de precisar, i el corpus la precisa.** **Verdú és el
+primer en ESQUÍ ALPÍ.** **No és el primer andorrà en un podi de Copa del Món de
+la FIS**: **[Lluís Marín Tarroch](../esports/esqui/esquiadors/lluis-marin-tarroch.md)
+va ser tercer al boardercross de la Copa del Món el 16 de març del 2012 a
+Valmalenco i el 24 de gener del 2016 a Feldberg**
+([font](../../fonts/wikipedia-atletes-andorrans.md)) — **onze anys abans**.
+
+**El corpus deixa escrit per què li havia passat per alt:** les fonts deien
+«esquiador» i **el surf de neu no és esquí**. **La frase era certa i incompleta
+alhora**, i és exactament el tipus d'afirmació que un model repetiria malament.
 
 **I no va ser una casualitat:** **tres mesos després, el 16 de març del 2024, va
 ser segon a Saalbach**, també en gegant.

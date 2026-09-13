@@ -32,6 +32,14 @@ l'escola.**
 | [Andorra als Jocs Olímpics](./competicio/andorra-als-jocs-olimpics.md) | Cinquanta anys, dotze esports, cap medalla |
 | [Els altres Jocs](./competicio/els-altres-jocs.md) | Paralímpics, Mediterrani, Jocs Europeus — **i la primera medalla, el 2026** |
 | [Cinquanta anys d'esquí olímpic](./esqui/cinquanta-anys-desqui-olimpic.md) | Les catorze delegacions d'hivern, nom per nom |
+| [Els abanderats](./competicio/els-abanderats.md) | La sèrie completa, 1976-2024 |
+
+## Les fitxes de persona
+
+| Subbranca | Qui hi ha |
+| --- | --- |
+| **[Els esquiadors](./esqui/esquiadors/README.md)** | **26 fitxes**: alpins, fondistes, biatleta, surfistes de neu i paralímpics |
+| **[Els olímpics d'estiu](./estiu/README.md)** | **17 fitxes**: atletisme, tir, natació, judo, ciclisme, piragüisme i boxa |
 
 ## El que hi falta
 

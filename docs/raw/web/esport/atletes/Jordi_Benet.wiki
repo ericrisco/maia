@@ -1,0 +1,57 @@
+{{short description|Andorran football player|bot=PearBOT 5}}
+{{Orphan|date=September 2022}}
+{{No significant coverage (sports)|date=June 2025}}
+{{Use dmy dates|date=September 2022}}
+{{Infobox football biography
+|name=Jordi Benet
+|image=
+|fullname=
+|birth_date ={{birth date and age|df=yes|1980|7|15}}
+|birth_place=[[Andorra]]
+|death_date =
+|height=
+|position=[[Midfielder]]
+|currentclub=[[FC Andorra]]
+|clubnumber=
+|youthyears1=
+|youthclubs1=
+|years1=2000–
+|clubs1=[[FC Andorra]]
+|caps1=  | goals1 =
+|nationalyears1=1999–2001
+|nationalteam1=[[Andorra national football team|Andorra]]
+|nationalcaps1= 2 | nationalgoals1 = 0
+|manageryears1=
+|managerclubs1=
+}}
+'''Jordi Benet''' (born 15 July 1980) is an [[Andorra]]n [[Association football|football]] player. He has played twice for the [[Andorra national football team|Andorra national team]].
+
+==National team statistics==
+{| class="wikitable" style="text-align:center"
+! colspan=3 | [[Andorra national football team|Andorra national team]]
+|-
+!Year!!Apps!!Goals
+|-
+|-
+|1999||1||0
+|-
+|2000||0||0
+|-
+|2001||1||0
+|-
+!Total||2||0
+|}
+
+==References==
+{{Reflist}}
+*{{NFT player|pid=173}}
+
+{{DEFAULTSORT:Benet, Jordi}}
+[[Category:1980 births]]
+[[Category:Living people]]
+[[Category:Andorran men's footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Andorra men's international footballers]]
+
+
+{{Andorra-footy-bio-stub}}

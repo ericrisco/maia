@@ -1,0 +1,81 @@
+{{short description|Andorran footballer (born 1982)}}
+{{Use dmy dates|date=August 2023}}
+{{Infobox football biography
+|name=Xavier Gil
+|image=
+|fullname=Francesc Xavier Gil Sánchez
+|birth_date ={{birth date and age|df=yes|1982|5|24}}
+|birth_place=[[Andorra]]
+|death_date =
+|height={{height|m=1.76}}
+|position = [[Defender (association football)|Defender]]
+|currentclub = [[FC Santa Coloma]]
+|clubnumber = 3
+|youthyears1=
+|youthclubs1=
+|years1=2002–2003
+|years2=2003–2004
+|years3=2004–2007
+|years4=2007–
+|clubs1=[[FC Andorra]]
+|clubs2=[[FC Santa Coloma]]
+|clubs3=[[FC Andorra]]
+|clubs4=[[FC Santa Coloma]]
+|caps1= | goals1 =
+|nationalyears1=2001–
+|nationalteam1=[[Andorra national football team|Andorra]]
+|nationalcaps1= 3 | nationalgoals1 = 0
+|manageryears1=
+|managerclubs1=
+}}
+
+'''Francesc Xavier Gil Sánchez''' (born 24 May 1982), commonly known as '''Xavier Gil''', is an [[Andorra]]n [[Association football|footballer]], who currently plays for [[FC Santa Coloma]] and [[Andorra national football team|Andorra national team]].
+
+==International career==
+Gil made his debut on 21 August 2002, coming on as a substitute for [[Justo Ruiz]] in a 3–0 friendly match defeat against [[Iceland national football team|Iceland]].{{cn|date=October 2025}} He has been capped three times.{{cn|date=October 2025}}
+
+==National team statistics==
+<ref>{{NFT player|pid=169|name=Gil, Xavier}}</ref>
+{| class="wikitable" style="text-align:center"
+! colspan=3 | [[Andorra national football team|Andorra national team]]
+|-
+!Year!!Apps!!Goals
+|-
+|-
+|2001||1||0
+|-
+|2002||1||0
+|-
+|2003||0||0
+|-
+|2004||0||0
+|-
+|2005||0||0
+|-
+|2006||0||0
+|-
+|2007||0||0
+|-
+|2008||0||0
+|-
+|2009||0||0
+|-
+|2010||1||0
+|-
+!Total||3||0
+|}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Gil, Xavier}}
+[[Category:1982 births]]
+[[Category:Living people]]
+[[Category:Andorran men's footballers]]
+[[Category:FC Andorra players]]
+[[Category:FC Santa Coloma players]]
+[[Category:Men's association football defenders]]
+[[Category:Andorra men's international footballers]]
+
+
+{{Andorra-footy-bio-stub}}

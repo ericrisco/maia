@@ -1,0 +1,39 @@
+{{Short description|Andorran swimmer (born 1980)}}
+{{Infobox swimmer
+| name = Santiago Deu
+| image = <!-- Only free-content images are allowed for depicting living people -- see [[WP:NONFREE]]. -->
+| image_size = <!-- Only for images narrower than 220 pixels -->
+| caption =  
+| full_name = Santiago Deu
+| nickname =
+| national_team = {{AND}}
+| strokes = [[Freestyle swimming|Freestyle]]
+| club = 
+| coach = 
+| college_team =
+| birth_date = {{birth date and age|1980|3|21|df=yes}}
+| birth_place = [[Andorra la Vella]], Andorra
+| death_date =
+| death_place =
+| height = {{convert|1.88|m|ftin|0|abbr=on}}
+| weight = {{convert|80|kg|lb|0|abbr=on}}
+| medal_templates =
+| show_medals = yes
+| updated = 
+}}
+
+'''Santiago Deu Sandoval''' (born March 21, 1980) is an Andorran former swimmer, who specialized in middle-distance freestyle events.<ref>{{cite sports-reference|title = Santiago Deu|url = https://www.sports-reference.com/olympics/athletes/de/santiago-deu-1.html|archive-url = https://web.archive.org/web/20200418062409/https://www.sports-reference.com/olympics/athletes/de/santiago-deu-1.html|url-status = dead|archive-date = 18 April 2020|access-date = 10 June 2013}}</ref> Deu competed only in the [[Swimming at the 2000 Summer Olympics – Men's 200 metre freestyle|men's 200 m freestyle]] at the [[2000 Summer Olympics]] in [[Sydney]]. He received a Universality place from [[FINA]] in an entry time of 1:59.39.<ref>{{cite web|title=Swimming – Men's 200m Freestyle Startlist (Heat 1)|url=http://www.omegatiming.com/File/Download?id=000100060006000000FFFFFFFFFFFF00|format=[[PDF]]|work=[[2000 Summer Olympics|Sydney 2000]]|publisher=Omega Timing|access-date=23 April 2013}}</ref> He challenged four other swimmers in heat one, including Uzbekistan's two-time Olympian [[Oleg Tsvetkovskiy]]. Deu rounded out the field to last place in a personal best of 1:59.31, finishing behind the leader Tsvetskovskiy by 4.38 seconds. Deu failed to advance into the semifinals, as he placed fifty-first overall in the prelims.<ref>{{cite web|title=Sydney 2000: Swimming – Men's 200m Freestyle Heat 1|url=http://www.la84foundation.org/6oic/OfficialReports/2000/Masters/sw/SWresults.pdf|work=[[2000 Summer Olympics|Sydney 2000]]|publisher=[[LA84 Foundation]]|page=124|access-date=23 April 2013|archive-date=19 August 2011|archive-url=https://web.archive.org/web/20110819181023/http://la84foundation.org/6oic/OfficialReports/2000/Masters/sw/SWresults.pdf|url-status=dead}}</ref><ref>{{cite news|title=Dolan breaks own world mark in 400 IM|url=http://www.canoe.com/2000GamesSwimming/sep17_dol.html|publisher=[[Canoe.ca]]|date=17 September 2000|access-date=28 May 2013}}{{dead link|date=April 2026|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Deu, Santiago}}
+[[Category:1980 births]]
+[[Category:Living people]]
+[[Category:Andorran male freestyle swimmers]]
+[[Category:Olympic swimmers for Andorra]]
+[[Category:Swimmers at the 2000 Summer Olympics]]
+[[Category:Sportspeople from Andorra la Vella]]
+
+
+{{Andorra-swimming-bio-stub}}

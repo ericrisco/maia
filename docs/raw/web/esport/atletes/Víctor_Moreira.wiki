@@ -1,0 +1,92 @@
+{{short description|Andorran footballer}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+|name           = Víctor Moreira
+|image          =Victor Moreira.png
+|image_size     =
+|caption        =
+|fullname       = Víctor Hugo Moreira Teixeira
+|birth_date     = {{birth date and age|1982|10|5|df=y}}
+|height         = 
+|position       = [[Midfielder]]<ref name = "NFT"/>
+|currentclub    = [[UE Sant Julià|Sant Julià]]
+|clubnumber     = 
+|years1         = 2001–2002
+|clubs1         = [[F.C. Marco|Marco]]
+|caps1          = 
+|goals1         = 
+|years2         = 2002–2003
+|clubs2         = [[CD Torres Novas|Torres Novas]]
+|caps2          = 
+|goals2         =
+|years3         = 2003–2004
+|clubs3         = [[FC Alpendorada|Alpendorada]]
+|caps3          = 
+|goals3         = 
+|years4         = 2004–2005
+|clubs4         = [[SC Rio Tinto|Rio Tinto]]
+|caps4          = 
+|goals4         = 
+|years5         = 2006–2009
+|clubs5         = [[FC Rànger's|Rànger's]]
+|caps5          = 
+|years6         = 2009–2012
+|clubs6         = [[UE Sant Julià|Sant Julià]]
+|caps6          = 
+|goals6         = 
+|years7         = 2012–2014
+|clubs7         = [[FC Lusitanos|Lusitanos]]
+|caps7          = 23
+|goals7         = 3
+|years8         = 2014–2017
+|clubs8         = [[FC Andorra]]
+|caps8          = 67
+|goals8         = 5
+|years9         = 2017–2018
+|clubs9         = [[UE Santa Coloma|Santa Coloma]]
+|caps9          = 14
+|goals9         = 1
+|years10        = 2018–2019
+|clubs10        = [[UE Engordany|Engordany]]
+|caps10         = 17
+|goals10        = 3
+|years11        = 2019–
+|clubs11        = [[UE Sant Julià|Sant Julià]]
+|caps11         = 10
+|goals11        = 2
+|nationalyears1 = 2008–
+|nationalteam1  = [[Andorra national football team|Andorra]]
+|nationalcaps1  = 16
+|nationalgoals1 = 0
+|club-update    = 15 May 2016
+|ntupdate       = 6 September 2016
+}}
+'''Víctor Hugo Moreira Teixeira''' (born 5 October 1982) is an Andorran international [[association football|footballer]] who plays for [[FC Andorra]], as a [[midfielder]].
+
+==Career==
+Moreira has played club football for [[FC Rànger's]], [[UE Sant Julià]] and [[FC Lusitanos]].<ref name = "NFT">{{NFT player|pid=27569|accessdate=28 September 2014}}</ref><ref>{{soccerway|victor-moreira-teixeira/76246|accessdate=28 September 2014}}</ref>
+
+He made his international debut for [[Andorra national football team|Andorra]] in 2008.<ref name = "NFT"/>
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.lapreferente.com/J198449C10037/ue-sant-juli%C3%A0/victor-hugo.html Víctor Moreira] at La Preferente
+
+{{DEFAULTSORT:Moreira, Victor}}
+[[Category:1982 births]]
+[[Category:Living people]]
+[[Category:Andorran men's footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:FC Rànger's players]]
+[[Category:UE Sant Julià players]]
+[[Category:FC Lusitanos players]]
+[[Category:F.C. Marco players]]
+[[Category:FC Andorra players]]
+[[Category:UE Santa Coloma players]]
+[[Category:UE Engordany players]]
+[[Category:Men's association football midfielders]]
+
+
+{{Andorra-footy-bio-stub}}

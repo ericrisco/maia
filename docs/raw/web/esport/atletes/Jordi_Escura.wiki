@@ -1,0 +1,116 @@
+{{short description|Andorran footballer}}
+
+{{Use dmy dates|date=December 2021}}
+{{Infobox football biography
+|name=Jordi Escura Aixàs
+|image = 
+|caption=
+|fullname=Jordi Escura Aixas
+|birth_date={{Birth date and age|1980|4|19|df=y}}
+|birth_place = Andorra la Vella, [[Andorra]]
+|height={{height|m=1.78|precision=0}}
+|position=[[Defender (association football)|Defender]]
+|clubnumber=
+|youthyears1= 1997–2000
+|youthclubs1=[[CE Europa]]
+|years1= 2000–2001
+|clubs1=[[CE Europa]]
+|caps1=   4 |goals1= 0
+|years2=2001–2002
+|clubs2=[[FC Andorra]]
+|caps2=   17 |goals2= 1
+|years3=2002–2003
+|clubs3=[[FC Ascó|Ascó]]
+|caps3=   23 |goals3= 0
+|years4=2003–2004
+|clubs4=[[CE Europa]]
+|caps4=   7 |goals4= 0
+|years5 = 2004–2005
+|clubs5=[[CFJ Mollerussa|Mollerussa]]
+|caps5=   12 |goals5= 1
+|years6 = 2005–2009
+|clubs6=[[FC Benavent|Benavent]]
+|years7 = 2009–2010
+|clubs7=[[CF Balaguer|Balaguer]]
+|caps7=   30 |goals7= 1
+|years8= 2010–2013
+|clubs8=Alcarràs
+|nationalyears1=1998–2011
+|nationalteam1 = [[Andorra national football team|Andorra]]
+|nationalcaps1= 65 |nationalgoals1= 0
+|totalcaps= 93 |totalgoals= 3
+}}
+'''Jordi Escura Aixas''' (born 19 April 1980) is an Andorran former footballer. He played for 13 years with the [[Andorra national football team]] from 1998 to 2011, during which time he made 65 appearances without scoring.<ref>Mamrud, Roberto. "Andorra – Record International Players." RSSSF, 6 February 2014. https://www.rsssf.org/miscellaneous/escura-intl.html</ref> Escura worked as a physiotherapist with [[UE Lleida]]<ref>{{Cite web |url=http://www.ellleida.com/plantilla.php?producto=1&nomen3=Liga&nomen=&nomen2=&sub=Liga&familia=1&nomen=Liga |title=Web Oficial De La U.E.Lleida |access-date=9 March 2008 |archive-url=https://web.archive.org/web/20111003053121/http://www.ellleida.com/plantilla.php?producto=1&nomen3=Liga&nomen=&nomen2=&sub=Liga&familia=1&nomen=Liga |archive-date=3 October 2011 |url-status=dead }}</ref> from 2005 to 2011 and then with [[RCD Espanyol]]<ref>[http://www.rcdespanyol.com/principal.php?modulo=jugador&jugador=5479&idlinkchk=64&idmenu=5&idsubmenu=51] {{Webarchive|url=https://web.archive.org/web/20130311134720/http://rcdespanyol.com/principal.php?modulo=jugador&jugador=5479&idlinkchk=64&idmenu=5&idsubmenu=51 |date=11 March 2013 }} {{in lang|es}}</ref> for two seasons.
+
+After this, he went to Thailand to work for [[Buriram United]] until the end of the season. They won the Thai Premier League, FA Cup and Toyota Cup, also arriving to Asian Champions League Quarter finals. Until finishing 2015 Escura worked as a university professor in two different universities: [[Universitat de Lleida]] and [[Universidad San Jorge]].
+
+In 2016, he joined [[Qingdao Huanghai F.C.|Qingdao Huanghai]] from [[China League One]] as Head Physio and stayed there until the end of 2020. The team promoted to [[Chinese Super League]] in 2019 and avoid relegation in 2020.
+
+In 2021 he signed for [[Cangzhou Mighty Lions F.C.]] still in [[China Super League]] but ended early and joined the [[Ukraine women's national football team]] as assistant coach of [[Lluís Cortés]]
+
+==National team statistics==
+<ref>{{NFT player|pid=165}}</ref>
+{| class="wikitable" style="text-align:center"
+! colspan=3 | [[Andorra national football team|Andorra national team]]
+|-
+!Year!!Apps!!Goals
+|-
+|-
+|1998||2||0
+|-
+|1999||4||0
+|-
+|2000||7||0
+|-
+|2001||6||0
+|-
+|2002||5||0
+|-
+|2003||5||0
+|-
+|2004||5||0
+|-
+|2005||7||0
+|-
+|2006||1||0
+|-
+|2007||8||0
+|-
+|2008||5||0
+|-
+|2009||4||0
+|-
+|2010||6||0
+|-
+|2011||1||0
+|-
+!Total||65||0
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{FIFA player|178705}}
+*{{Facebook|jordi.escura.aixas}}
+*{{UEFA player|42860}}
+*[https://www.rsssf.org/miscellaneous/escura-intl.html]
+
+{{DEFAULTSORT:Escura, Jordi}}
+[[Category:1980 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Andorra la Vella]]
+[[Category:Andorran men's footballers]]
+[[Category:CE Europa footballers]]
+[[Category:FC Andorra players]]
+[[Category:FC Ascó players]]
+[[Category:CF Balaguer footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:Andorran expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:Andorran expatriate sportspeople in Spain]]
+[[Category:Men's association football defenders]]
+[[Category:Association football physiotherapists]]
+
+
+{{Andorra-footy-bio-stub}}

@@ -1,0 +1,45 @@
+{{short description|Spanish chess grandmaster (born 1973)}}
+{{Infobox chess player
+| name = Josep Oms Pallise
+| image = Oms Pallisse Josep Barcelona 2010.jpg
+| birthname = 
+| caption = Josep Oms Pallise in 2010
+| country = [[Spain]]<br>[[Andorra]] (2003–2007)
+| birth_name = 
+| birth_date = {{Birth date and age|1973|7|20|df=yes}}
+| birth_place = [[Lleida]], [[Catalonia]], [[Spain]]
+| death_date = 
+| death_place = 
+| title = [[FIDE titles|Grandmaster]] (2007)
+| peak_rating =2528 (November 2010)
+| FIDE_id = 2205521
+}}
+
+'''Josep Oms Pallise''' (born 20 July 1973) is a Spanish [[chess]] player who holds the title of [[FIDE titles|Grandmaster (GM)]] (2007) and from 2003 till 2007 played for [[Andorra]].<ref>{{cite web|url=http://ratings.fide.com/fedchange.phtml?year=2007|title=FIDE Player transfers|website=ratings.fide.com}}</ref> He is four-times [[Andorran Chess Championship]] winner (2003–2006) and [[Chess Olympiad]] individual gold medal winner ([[37th Chess Olympiad|2006]]).
+
+==Biography==
+In 1993, Josep Oms Pallise won Spanish Junior Chess Championship and played for Spain in European Junior Chess Championship. In 2000, he shared 2nd place in Catalonia Chess Championship. Josep Oms Pallise four time in row won Andorran Chess Championship (2003–2006). In 2004, he shared 3rd place in [[Spanish Chess Championship]]. Josep Oms Pallise is winner of many international chess tournament, include [[Valencia]] (1996), [[Zaragoza]] (1998, 1999), [[Seville]] (2000), [[Barcelona]] (2008).
+
+Josep Oms Pallise played for Andorra in the [[Chess Olympiad]]s:<ref>{{cite web|url=https://www.olimpbase.org/players/iq2wigei.html|title=OlimpBase :: Men's Chess Olympiads :: Josep Oms Pallise|website=www.olimpbase.org}}</ref>
+* In 2004, at second board in the [[36th Chess Olympiad]] in [[Calvià]] (+6, =2, -4),
+* In 2006, at second board in the [[37th Chess Olympiad]] in [[Turin]] (+7, =4, -0) and won individual gold medal.
+
+In 1997, he was awarded the FIDE International Master (IM) title and received the FIDE Grandmaster (GM) title ten years later. Also he is FIDE Trainer (2014).
+
+==References==
+{{reflist}}
+
+==External links==
+*{{chessgames player|id=53537}}
+*[https://www.365chess.com/players/Josep_Oms_Pallisse Josep Oms Pallise] chess games at 365chess.com
+
+{{DEFAULTSORT:Oms Pallise, Josep}}
+[[Category:1973 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Lleida]]
+[[Category:Andorran chess players]]
+[[Category:Spanish chess players]]
+[[Category:Chess Olympiad competitors]]
+[[Category:Chess Grandmasters]]
+
+{{Spain-chess-bio-stub}}

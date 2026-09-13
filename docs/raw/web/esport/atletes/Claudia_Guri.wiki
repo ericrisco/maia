@@ -1,0 +1,132 @@
+{{short description|Andorran athlete}}
+{{Infobox sportsperson
+| name            = Claudia Guri
+| full_name       = Claudia Guri Moreno
+| image           = 
+| image_size      = <!-- Only for images narrower than 220 pixels -->
+| caption         = 
+| sport           = [[Track and field]]
+| event           = [[High jump]], [[long jump]], [[triple jump]]
+| birth_date      = {{birth date and age|df=yes|1995|05|01}}
+| birth_place     = 
+| height          = {{convert|1.89|m|ftin}}
+| weight          = 
+| education       = 
+| club            = 
+| coach           = 
+| personal_best   = '''Long jump''': {{convert|5.68|m|ftin}} <br/>'''Triple jump''': {{convert|12.06|m|ftin}}<ref>{{World Athletics}}</ref>
+| medal_templates = 
+}}
+
+'''Claudia Guri Moreno''' (born 1 May 1995 in [[Escaldes]]) is an [[Andorra]]n [[Athletics (sport)|athlete]] and former basketball player.
+She was the only representative of Andorra at the [[2015 World Championships in Athletics]] in [[Beijing]].
+
+She has also played in the under-16 basketball team of [[Andorra women's national basketball team|Andorra]].<ref>{{cite web| url=http://www.fibaeurope.com/compID_0HfDec0vJ1-VlVziYxDM72.season_2011.roundID_8457.teamID_1152.playerID_92510.html |title=Claudia Guri}}</ref>
+
+==Competition record==
+{| {{AchievementTable|Event=yes}}
+|-
+!bgcolor="#eeeeee" colspan="6"|Representing {{AND}}
+|-
+|2011
+|[[Athletics at the 2011 Games of the Small States of Europe|Games of the Small States of Europe]]
+|[[Schaan, Liechtenstein]]
+| –
+|High jump
+|[[Athletics at the 2011 Games of the Small States of Europe#High jump 2|NM]]
+|-
+|rowspan=6|2015
+|rowspan=2|[[2015 European Athletics Indoor Championships|European Indoor Championships]]
+|rowspan=2|[[Prague, Czech Republic]]
+|22nd (q)
+|Long jump
+|[[2015 European Athletics Indoor Championships – Women's long jump|5.46 m]]
+|-
+|22nd (q)
+|Triple jump
+|[[2015 European Athletics Indoor Championships – Women's triple jump|12.06 m]]
+|-
+|rowspan=3|[[Athletics at the 2015 Games of the Small States of Europe|Games of the Small States of Europe]]
+|rowspan=3|[[Reykjavík, Iceland]]
+|bgcolor=cc9966|3rd
+|High jump
+|[[Athletics at the 2015 Games of the Small States of Europe#High jump 2|1.68 m]]
+|-
+|5th
+|Long jump
+|[[Athletics at the 2015 Games of the Small States of Europe#Long jump 2|5.21 m]]
+|-
+|4th
+|Triple jump
+|[[Athletics at the 2015 Games of the Small States of Europe#Triple jump 2|11.52 m]]
+|-
+|[[2015 World Championships in Athletics|World Championships]]
+|[[Beijing, China]]
+|31st (q)
+|Long jump
+|[[2015 World Championships in Athletics – Women's long jump|5.59 m]]
+|-
+|rowspan=2|2016
+|[[2016 Championships of the Small States of Europe|Championships of the Small States of Europe]]
+|[[Marsa, Malta]]
+|bgcolor=silver|2nd
+|High jump
+|1.75 m
+|-
+|[[2016 European Athletics Championships|European Championships]]
+|[[Amsterdam, Netherlands]]
+|26th (q)
+|High jump
+|[[2016 European Athletics Championships – Women's high jump|1.75 m]]
+|-
+|rowspan=2|2017
+|[[2017 European Athletics Indoor Championships|European Indoor Championships]]
+|[[Belgrade, Serbia]]
+|21st (q)
+|High jump
+|[[2017 European Athletics Indoor Championships – Women's high jump|1.76 m]]
+|-
+|[[Athletics at the 2017 Games of the Small States of Europe|Games of the Small States of Europe]]
+|[[Serravalle, San Marino]]
+|bgcolor=cc9966|3rd
+|High jump
+|[[Athletics at the 2017 Games of the Small States of Europe#High jump 2|1.68 m]]
+|}
+
+==Personal bests==
+'''Outdoor'''
+*[[100 metres hurdles]] – 17.15 (+0.9&nbsp;m/s, Tbilisi 2014)
+*[[High jump]] – 1.79 (Tunis 2016)
+*[[Pole vault]] – 2.40 (Marsa 2010)
+*[[Long jump]] – 5.59 (+0.2&nbsp;m/s, Beijing 2015)
+*[[Triple jump]] – 12.16 (+1.7&nbsp;m/s, Castres 2015)
+'''Indoor'''
+*[[800 metres]] – 2:41.87 (Sabadell 2016)
+*[[60 metres hurdles]] – 9.97 (Sabadell 2016)
+*[[High jump]] – 1.80 (Sabadell 2017)
+*[[Long jump]] – 5.68 (Antequera 2015)
+*[[Triple jump]] – 12.40 (Antequera 2015)
+*[[Shot put]] – 8.74 (Sabadell 2015)
+*[[Pentathlon]] – 3222 (Sabadell 2016)
+
+==References==
+{{Reflist}}
+*[http://www.all-athletics.com/node/419683 All-Athletics profile]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Guri, Claudia}}
+[[Category:1995 births]]
+[[Category:Living people]]
+[[Category:People from Escaldes–Engordany]]
+[[Category:Andorran women's basketball players]]
+[[Category:Centers (basketball)]]
+[[Category:World Athletics Championships athletes for Andorra]]
+[[Category:Andorran high jumpers]]
+[[Category:Andorran women long jumpers]]
+[[Category:Andorran women triple jumpers]]
+[[Category:European Games competitors for Andorra]]
+[[Category:Athletes (track and field) at the 2015 European Games]]
+
+
+{{Andorra-athletics-bio-stub}}

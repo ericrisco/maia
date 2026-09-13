@@ -1,0 +1,91 @@
+{{short description|Andorran footballer}}
+{{Use dmy dates|date=July 2023}}
+{{Infobox football biography
+|name           = Xavi Andorrà
+|image          = XaviandInter.jpg
+|image_size     = 300
+|caption        = 
+|fullname       = Javier Andorrà Julia<ref name = "NFT"/>
+|birth_date     = {{birth date and age|1985|6|7|df=y}}
+|birth_place    = 
+|height         = 1.83m<ref name = "NFT"/>
+|position       = [[Forward (association football)|Forward]]
+|currentclub    = [[FC Andorra|Andorra B]]
+|clubnumber     =
+|years1         = 2004–2006
+|clubs1         = [[FC Andorra|Andorra]]
+|caps1          = 
+|goals1         = 
+|years2         = 2006–2007
+|clubs2         = [[CD Benicarló|Benicarló]]
+|caps2          = 
+|goals2         = 
+|years3         = 2007–2008
+|clubs3         = [[CF Gimnástico Alcázar|Gimnástico Alcázar]]
+|caps3          = 29
+|goals3         = 0
+|years4         = 2008–2009
+|clubs4         = [[CD Binéfar|Binéfar]]
+|caps4          = 9
+|goals4         = 3
+|years5         = 2009–2012
+|clubs5         = [[FC Andorra|Andorra]]
+|caps5          = 
+|goals5         = 
+|years6         = 2012–2013
+|clubs6         = [[Inter Club d'Escaldes|IC d'Escaldes]]
+|caps6          = 11
+|goals6         = 3
+|years7         = 2013–2014
+|clubs7         = [[FC Andorra|Andorra]]
+|caps7          = 25
+|goals7         = 0
+|years8         = 2014–2015
+|clubs8         = [[FC Lusitanos|Lusitanos]]
+|caps8          = 11
+|goals8         = 2
+|years9         = 2015–2019
+|clubs9         = [[Inter Club d'Escaldes|IC d'Escaldes]]
+|caps9          = 47
+|goals9         = 12
+|years10        = 2019–
+|clubs10        = [[FC Andorra|Andorra B]]
+|caps10         = 5
+|goals10        = 1
+|nationalyears1 = 2005–2013
+|nationalteam1  = [[Andorra national football team|Andorra]]
+|nationalcaps1  = 24
+|nationalgoals1 = 0
+|club-update    = 18:04, 19 January 2020 (UTC)
+|ntupdate       = 
+}}
+'''Javier Andorrà Julia''' (born 7 June 1985) is an Andorran international [[association football|footballer]] who plays for the B-team of [[FC Andorra]] as a [[Forward (association football)|forward]].
+
+==Career==
+He has played for [[FC Andorra]], [[CD Benicarló]], [[CF Gimnástico Alcázar]], [[CD Binéfar]], [[Inter Club d'Escaldes]] and [[FC Lusitanos]].<ref name = "NFT">{{NFT player|pid=11715|access-date=16 November 2018}}</ref>
+
+He made his international debut for [[Andorra national football team|Andorra]] in 2005.<ref name = "NFT"/>
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.lapreferente.com/J157961/fc-andorra-b/xavi-andorr%C3%A0.html Xavi Andorrà] at La Preferente
+
+{{DEFAULTSORT:Andorra, Xavi}}
+[[Category:1985 births]]
+[[Category:Living people]]
+[[Category:Andorran men's footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:FC Andorra players]]
+[[Category:CF Gimnástico Alcázar players]]
+[[Category:CD Binéfar players]]
+[[Category:Inter Club d'Escaldes players]]
+[[Category:FC Lusitanos players]]
+[[Category:Men's association football forwards]]
+[[Category:Andorran expatriate men's footballers]]
+[[Category:Andorran expatriate sportspeople in Spain]]
+[[Category:Expatriate men's footballers in Spain]]
+
+
+{{Andorra-footy-bio-stub}}

@@ -1,0 +1,28 @@
+{{Short description|Andorran alpine skier (born 1991)}}
+{{Use dmy dates|date=May 2021}}
+{{Infobox skier
+| name        = Sofie Juárez
+| full_name   = <!-- if different -->
+| birth_date  = {{Birth-date and age|9 April 1991}}
+| birth_place = [[Incles]], Andorra
+}}
+
+'''Sofie Juárez''' (born 9 April 1991) is an [[alpine skier]] from [[Andorra]].  She competed for [[Andorra at the 2010 Winter Olympics]].<ref>{{cite web |title=Sofie Juarez |url=http://www.vancouver2010.com/olympic-alpine-skiing/athletes/sofie-juarez_ath1015020AG.html |website=Vancouver2010.com |publisher=[[Vancouver Organizing Committee for the 2010 Olympic and Paralympic Winter Games]] |accessdate=7 October 2011 |archive-url=https://web.archive.org/web/20100408231337/http://www.vancouver2010.com/olympic-alpine-skiing/athletes/sofie-juarez_ath1015020AG.html |archive-date=2010-04-08 |url-status=dead}}</ref>  She did not finish either of her events.<ref>{{cite web |title=Biography |url=http://www.fis-ski.com/uk/604/613.html?sector=AL&competitorid=127182&type=result&category=OWG&season=ALL&sort=&discipline=ALL&position=&place=&Submit=Search |publisher=FIS |accessdate=7 October 2011}}</ref><ref name="SR">{{cite Sports-Reference |title=Sofie Juárez}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{FIS alpine skier|127182}}
+* {{Olympics.com|sofie-juarez|org_archive=20210417122947}}
+* {{Olympedia|118466}}
+
+{{DEFAULTSORT:Juarez, Sofie}}
+[[Category:1991 births]]
+[[Category:Living people]]
+[[Category:Andorran female alpine skiers]]
+[[Category:Olympic alpine skiers for Andorra]]
+[[Category:Alpine skiers at the 2010 Winter Olympics]]
+
+
+{{Andorra-alpine-skiing-bio-stub}}

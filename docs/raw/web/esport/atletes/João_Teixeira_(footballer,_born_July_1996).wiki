@@ -1,0 +1,66 @@
+{{short description|Andorran footballer}}
+{{Portuguese name|da Silva|Teixeira}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = João Teixeira
+| image = 
+| full_name = João Pedro da Silva Teixeira
+| birth_date = {{birth date and age|1996|7|17|df=yes}}
+| birth_place = [[Chaves, Portugal]]
+| height = 1.80 m
+| position = [[Midfielder]]
+| currentclub = [[GD Vilar de Perdizes|Vilar de Perdizes]]
+| clubnumber =
+| youthyears1 = {{0|0000}}–2019 | youthclubs1 = [[G.D. Chaves|Chaves]]
+| years1 = 2015–2016 | clubs1 = Vilar de Perdizes                              | caps1 =    | goals1 = 
+| years2 = 2017      | clubs2 = [[Ourense CF|Ourense]]                         | caps2 =    | goals2 = 
+| years3 = 2017–2018 | clubs3 = [[G.D. Chaves|Chaves B]]                       | caps3 =    | goals3 = 
+| years4 = 2018–2019 | clubs4 = [[GD Vilar de Perdizes|Vilar de Perdizes]]     | caps4 = 31 | goals4 = 6
+| years5 = 2019–2020 | clubs5 = [[CE Carroi|Carroi]]                           | caps5 = 19 | goals5 = 0
+| years6 = 2020–2021 | clubs6 = [[UE Engordany|Engordany]]                     | caps6 = 17 | goals6 = 0
+| years7 = 2021–2023 | clubs7 = [[FC Ordino|Ordino]]                           | caps7 = 51 | goals7 = 8
+| years8 = 2023–2025 | clubs8 = [[FC Pas de la Casa|Pas de la Casa]]           | caps8 = 43 | goals8 = 2
+| years9 = 2025      | clubs9 = [[Atlètic Club d'Escaldes|Atlètic d'Escaldes]] | caps9 = 3  | goals9 = 0
+| years10= 2025      | clubs10 = [[UD Barbadás|Barbadás]] | caps10 = 9  | goals10 = 0
+| years11= 2026      | clubs11= [[GD Vilar de Perdizes|Vilar de Perdizes]]     | caps11= 0 | goals11= 0
+| nationalyears1 = 2024– | nationalteam1 = [[Andorra national football team|Andorra]] | nationalcaps1 = 19 | nationalgoals1 = 0
+| club-update = 21 December 2025
+| nationalteam-update = 29 May 2026
+}}
+'''João Pedro da Silva Teixeira''' (born 17 July 1996) is a [[association football|football]] player who plays as a [[midfielder]] for [[GD Vilar de Perdizes|Vilar de Perdizes]]. Born in Portugal, he represents the [[Andorra national football team|Andorra national team]].
+
+==International career==
+Teixeira made his debut for the senior [[Andorra national football team|Andorra national team]] on 21 March 2024 in a friendly against [[South Africa national soccer team|South Africa]].<ref>{{cite web|publisher=ESPN|url=https://www.espn.co.uk/football/match/_/gameId/698287/andorra-south-africa|title=Andorra v South Africa game report|date=21 March 2024}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Soccerway|joao-pedro-da-silva-teixeira/663683}}
+* {{Worldfootball.net|joao-teixeira_4|new_id=pe693534}}
+* {{NFT player|94275}}
+
+{{DEFAULTSORT:Teixeira, Joao}}
+[[Category:Living people]]
+[[Category:1996 births]]
+[[Category:Sportspeople from Chaves, Portugal]]
+[[Category:21st-century Portuguese sportsmen]]
+[[Category:Sportspeople of Portuguese descent]]
+[[Category:Andorran men's footballers]]
+[[Category:Footballers from Vila Real District]]
+[[Category:Andorra men's international footballers]]
+[[Category:Portuguese emigrants to Andorra]]
+[[Category:Men's association football midfielders]]
+[[Category:Ourense CF players]]
+[[Category:UE Engordany players]]
+[[Category:FC Ordino players]]
+[[Category:FC Pas de la Casa players]]
+[[Category:Atlètic Club d'Escaldes players]]
+[[Category:Primera Divisió players]]
+[[Category:Portuguese expatriate men's footballers]]
+[[Category:Andorran expatriate men's footballers]]
+[[Category:Portuguese expatriate sportspeople in Spain]]
+[[Category:Andorran expatriate sportspeople in Spain]]
+[[Category:Expatriate men's footballers in Spain]]
+
+{{Andorra-footy-bio-stub}}

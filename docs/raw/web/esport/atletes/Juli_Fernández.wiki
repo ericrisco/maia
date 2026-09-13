@@ -1,0 +1,101 @@
+{{short description|Andorran footballer}}
+{{BLP sources|date=June 2012}}
+{{Use dmy dates|date=December 2020}}
+{{Infobox football biography
+|name     =Juli Fernàndez
+|image=
+|fullname=Julià Fernàndez Ariza
+|height={{convert|1.88|m|ftin|0|abbr=on}}
+|birth_date={{birth date and age|df=yes|1974|11|19}}
+|birth_place=[[Andorra]]
+|currentclub=[[FC Santa Coloma|Santa Coloma]]
+|clubnumber=
+|position=[[Defender (association football)|Defender]]
+|youthyears1=
+|youthclubs1=
+|years1=1996–1997
+|clubs1=[[FC Andorra|FC Andorra B]]
+|caps1=     |goals1= 
+|years2=1997–2001
+|clubs2=[[FC Andorra]]
+|caps2=     |goals2= 
+|years3=2001–2003
+|clubs3=[[FC Santa Coloma|Santa Coloma]]
+|caps3=     |goals3= 
+|years4=2003–2004
+|clubs4=[[FC Andorra]]
+|caps4=     |goals4= 
+|years5=2004–2010
+|clubs5=[[FC Santa Coloma|Santa Coloma]]
+|caps5=     |goals5= 
+|nationalyears1=1998–2009
+|nationalteam1=[[Andorra national football team|Andorra]]
+|nationalcaps1= 36 |nationalgoals1= 1
+|pcupdate=1 December 2021
+|ntupdate=29 June 2009
+}}
+'''Julià Fernàndez Ariza''' (born 19 November 1974)<ref>[https://int.soccerway.com/players/julia-fernandez/39831/ Soccerway profile]</ref> is an [[Andorra]]n [[Association football|footballer]]. He currently plays for [[FC Santa Coloma|Santa Coloma]] and the [[Andorra national football team|Andorra national team]]. He has won both the [[Andorran First Division]] and the [[Andorran Cup]] several times.
+
+==Club career==
+Fernàndez scored the only goal in the [[UEFA Cup 2007–08|UEFA Cup 2007–08 first qualifying round]] against [[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]], the first goal ever in a win for a team from Andorra in a European Cup. However, [[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]] went on to win 4–0.{{citation needed|date=June 2012}}
+
+==International career==
+He also scored a consolation goal for [[Andorra national football team|Andorra]] in the squad's [[2008 UEFA European Football Championship qualifying Group E|2008 UEFA European Football Championship qualifying]] match against [[Israel national football team|Israel]].<ref>{{cite web |url=http://en.archive.uefa.com/competitions/euro2012/history/season=2008/round=2241/match=83920/index.html |title=Welcome to nginx! |website=[[UEFA]] |access-date=2 February 2022 |archive-url=https://archive.today/20130105040052/http://en.archive.uefa.com/competitions/euro2012/history/season=2008/round=2241/match=83920/index.html |archive-date=5 January 2013 |url-status=dead}}</ref>
+
+===International goal===
+:''Scores and results list Andorra's goal tally first.''<ref>{{cite news |url=https://www.uefa.com/uefaeuro-2020/news/0254-0d7b9a539abb-1384754281a3-1000--impressive-israel-overpower-andorra/ |title=Impressive Israel overpower Andorra |date=6 September 2006 |publisher=UEFA|accessdate=4 May 2020}}{{dead link|date=March 2025|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+{| class="wikitable" style="font-size:100%;"
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 6 September 2006 || [[Stadion de Goffert]], [[Nijmegen]] ([[Netherlands]] || {{fb|Israel}} || align=center | '''1'''–4 || align=center | 1–4|| [[UEFA Euro 2008 qualifying Group E|Euro 2008 qualifier]]
+|}
+
+==National team statistics==
+<ref>{{NFT player|pid=160}}</ref>
+{| class="wikitable" style="text-align:center"
+! colspan=3 | [[Andorra national football team|Andorra national team]]
+|-
+!Year!!Apps!!Goals
+|-
+|-
+|1998||1||0
+|-
+|1999||0||0
+|-
+|2000||0||0
+|-
+|2001||3||0
+|-
+|2002||6||0
+|-
+|2003||7||0
+|-
+|2004||7||0
+|-
+|2005||5||0
+|-
+|2006||2||1
+|-
+|2007||2||0
+|-
+|2008||1||0
+|-
+|2009||2||0
+|-
+!Total||36||1
+|}
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Fernandez, Juli}}
+[[Category:1974 births]]
+[[Category:Living people]]
+[[Category:Andorran men's footballers]]
+[[Category:Men's association football defenders]]
+[[Category:Andorra men's international footballers]]
+[[Category:FC Santa Coloma players]]
+
+
+{{Andorra-footy-bio-stub}}

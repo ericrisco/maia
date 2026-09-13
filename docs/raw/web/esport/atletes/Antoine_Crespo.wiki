@@ -1,0 +1,40 @@
+{{Short description|Andorran alpine skier (born 1955)}}
+{{Use dmy dates|date=March 2018}}
+{{Infobox sportsperson
+| name           = Antoine Crespo
+| image          = 
+| caption        = 
+| full_name      = Antoine Crespo Travesset
+| nationality    = Andorran
+| birth_date     = {{birth date and age|1955|11|15|df=yes}}
+| birth_place    = 
+| death_date     = 
+| death_place    = 
+| country        = Andorra
+| sport          = [[Alpine skiing]]
+}}
+
+'''Antoine Crespo Travesset'''{{family name footnote|lang=Catalan|Crespo|Travesset}} (born 15 November 1955) is an Andorran [[Alpine skiing|alpine skier]]. He competed in [[Alpine skiing at the 1976 Winter Olympics|three events]] at the [[1976 Winter Olympics]].<ref name="SportsRef">{{cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/cr/antoine-crespo-1.html |archive-url=https://web.archive.org/web/20200418083717/https://www.sports-reference.com/olympics/athletes/cr/antoine-crespo-1.html |url-status=dead |archive-date=18 April 2020 |title=Antoine Crespo |accessdate=17 March 2018 |quote=Full name: Antoine Crespo Travesset}}</ref>
+
+==Notes==
+{{Notelist}}
+
+== References ==
+{{Reflist}}
+
+==External links==
+* {{Olympics.com|antoine-crespo-travesset|Antoine Crespo Travesset|org_archive=20161007001423}}
+* {{Olympedia|84899|Antoine Crespo}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Crespo, Antoine}}
+[[Category:1955 births]]
+[[Category:Living people]]
+[[Category:Andorran male alpine skiers]]
+[[Category:Olympic alpine skiers for Andorra]]
+[[Category:Alpine skiers at the 1976 Winter Olympics]]
+[[Category:Place of birth missing (living people)]]
+
+
+{{Andorra-alpine-skiing-bio-stub}}

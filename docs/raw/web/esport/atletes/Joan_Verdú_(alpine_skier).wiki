@@ -1,0 +1,270 @@
+{{Short description|Andorran alpine skier (born 1995)}}
+{{Use dmy dates|date=May 2021}}
+{{Infobox alpine ski racer
+|name           = Joan Verdú
+|image          = Joan Verdu Sanchez Grandvalira 2023 GS 2nd run (5).jpg
+|image_size     = 
+|caption        = Verdú in 2023
+|full_name      = Joan Verdú Sánchez
+|nickname       = La Mamba
+|disciplines    = [[Giant slalom]]
+|club           = 
+|country        = {{AND}}
+|birth_date     = {{birth date and age|1995|05|23|df=y}}
+|birth_place    = [[Andorra la Vella]], Andorra
+|height         = 
+|weight         = 
+|wc_debut        = 23 October [[2016-17 FIS Alpine Ski World Cup|2016]] (age&nbsp;21)
+|website        = 
+|olympic_teams   = 4 – ([[Andorra at the 2014 Winter Olympics#Alpine skiing|2014]]–[[Andorra at the 2026 Winter Olympics#Alpine skiing|2026]])
+|olympic_medals  = 0
+|olympic_golds   = 
+|worlds_teams    = 5 – ([[FIS Alpine World Ski Championships 2013|2013]], [[FIS Alpine World Ski Championships 2017|2017]], [[FIS Alpine World Ski Championships 2021|2021]]–[[FIS Alpine World Ski Championships 2025|2025]])
+|worlds_medals   = 0
+|worlds_golds    = 
+|wc_seasons      = 8 – ([[2016–17 FIS Alpine Ski World Cup|2017]]–[[2018–19 FIS Alpine Ski World Cup|2019]], [[2021–22 FIS Alpine Ski World Cup|2022]]–[[2025–26 FIS Alpine Ski World Cup|2026]])
+|wc_wins         = 0
+|wc_podiums      = 2 – (2 [[Giant slalom|GS]])
+|wc_overalls     = 0 – ''(39th in [[2024 Alpine Skiing World Cup – Men's overall|2024]])''
+|wc_titles       = 0 – ''(10th in [[2024 Alpine Skiing World Cup – Men's giant slalom|GS]], [[2023-24 FIS Alpine Ski World Cup|2024]])''
+|show_medals    = n
+|medal_templates = {{MedalSport|[[Alpine skiing]]}}
+{{MedalCountry|{{AND}}}}
+{{MedalCount|total=yes|type=World Cup race podiums
+| Giant slalom | 0 | 1 | 1
+}}
+{{MedalCompetition|[[Winter Youth Olympic Games]]}}
+{{MedalBronze| [[2012 Winter Youth Olympics|2012 Innsbruck]] | [[Alpine skiing at the 2012 Winter Youth Olympics&nbsp;– Boys' super-G|Super-G]]}}
+}}
+
+'''Joan Verdú Sánchez'''{{family name footnote|lang=Catalan|Verdú|Sánchez}} (born 23 May 1995)<ref>{{cite web |url=http://data.fis-ski.com/dynamic/athlete-biography.html?sector=AL&competitorid=166175&type=result&rec_start=0&limit=100 |title=FIS bio |publisher=Data.fis-ski.com |date= |accessdate=2014-02-06}}</ref> is an Andorran [[FIS Alpine Ski World Cup|World Cup]] [[Alpine skiing|alpine ski racer]] who specializes in the technical events of [[Slalom skiing|slalom]], [[giant slalom]] and [[super-G]]. He made his ski racing debut in 2010.
+
+On 22 January 2012, Verdú finished third at the French national championships. Later that season, he finished third for [[Alpine skiing at the 2012 Winter Youth Olympics – Boys' super-G|boys' super-G]] at [[2012 Winter Youth Olympics]]. He represented [[Andorra]] at the [[Andorra at the 2014 Winter Olympics|2014]],<ref>{{cite web |url=http://m.sochi2014.com/en/athlete-joan-verdu-sanchez |title=Sochi 2014 site |publisher=M.sochi2014.com |date= |accessdate=2014-02-06}}</ref><ref name="SR">{{cite Sports-Reference |title=Joan Verdú |quote=Full name: Joan Verdú Sánchez}}</ref> [[Andorra at the 2018 Winter Olympics|2018]] and [[Andorra at the 2022 Winter Olympics|2022]] Winter Olympics.
+
+On 9 December 2023, Verdú became the first Andorran ski racer to achieve a World Cup podium. He finished third on the giant slalom in [[Val-d'Isère]], France.<ref>{{cite news|title=Swiss star Odermatt wins World Cup giant slalom at Val d'Isere in French Alps|url=https://www.cbc.ca/sports/olympics/winter/alpine-skiing/alpine-skiing-world-cup-men-dec-9-recap-1.7054362|access-date=11 March 2022|work=[[Canadian Broadcasting Corporation|CBC]]|agency=[[Associated Press of Pakistan|AP]]|date=9 December 2023|quote=Joan Verdu, getting a best-ever World Cup result for the tiny principality of Andorra, was third trailing Odermatt by 1.32 seconds.}}</ref>
+
+On 16 March 2024, he secured his second World Cup podium, finishing second in the giant slalom at the World Cup Finals in Saalbach, Austria.
+
+==Personal life==
+Since August 2022, Verdú is also a [[YouTube]] content creator, with a weekly vlog about his performances on the alpine skiing circuit.
+
+He speaks Catalan, Spanish and English fluently.
+
+Since 2025, he has been in a relationship with Spanish influencer [[Laura Escanes]].<ref>{{cite news |url=https://www.infobae.com/espana/2025/02/22/joan-verdu-la-nueva-pareja-de-laura-escanes-y-exprofesor-de-risto-mejide/ |title=Joan Verdú, la nueva pareja de Laura Escanes... y exprofesor de Risto Mejide |date=22 February 2025 |access-date=12 January 2026 |newspaper=[[Infobae]] |language=es}}</ref>
+
+==World Cup results==
+===Season standings===
+{| class="wikitable" style="font-size:95%; text-align:center;" width="40%"
+|- style="background-color:#369; color:white;"
+| rowspan="2" colspan="1" width="5%"| '''Season'''
+|- style="background-color:#4180be; color:white;"
+| width="3%"| Age
+| width="5%"| '''Overall'''
+| width="5%"| Slalom
+| width="5%"| Giant<br />slalom
+| width="5%"| Super-G
+| width="5%"| Downhill
+| width="5%"| Parallel
+|- style="background-color:#8CB2D8; color:white;"
+|-
+| [[2021–22 FIS Alpine Ski World Cup|2022]] ||''26''|| [[2022 Alpine Skiing World Cup – Men's overall|126]] || [[2022 Alpine Skiing World Cup – Men's slalom|—]] || [[2022 Alpine Skiing World Cup – Men's giant slalom|42]] || [[2022 Alpine Skiing World Cup – Men's super-G|—]] || [[2022 Alpine Skiing World Cup – Men's downhill|—]] || [[2022 Alpine Skiing World Cup – Men's parallel|—]]
+|-
+| [[2022–23 FIS Alpine Ski World Cup|2023]] ||''27''|| [[2023 Alpine Skiing World Cup – Men's overall|68]] || [[2023 Alpine Skiing World Cup – Men's slalom|—]] || [[2023 Alpine Skiing World Cup – Men's giant slalom|19]] || [[2023 Alpine Skiing World Cup – Men's super-G|—]] || [[2023 Alpine Skiing World Cup – Men's downhill|—]] || rowspan=4 {{n/a}} 
+|-
+| [[2023–24 FIS Alpine Ski World Cup|2024]] ||''28''|| [[2024 Alpine Skiing World Cup – Men's overall|39]] || [[2024 Alpine Skiing World Cup – Men's slalom|—]] || [[2024 Alpine Skiing World Cup – Men's giant slalom|10]] || [[2024 Alpine Skiing World Cup – Men's super-G|—]] || [[2024 Alpine Skiing World Cup – Men's downhill|—]]
+|-
+| [[2024–25 FIS Alpine Ski World Cup|2025]] ||''29''|| [[2025 Alpine Skiing World Cup – Men's overall|55]] || [[2025 Alpine Skiing World Cup – Men's slalom|—]] || [[2025 Alpine Skiing World Cup – Men's giant slalom|18]] || [[2025 Alpine Skiing World Cup – Men's super-G|—]] || [[2025 Alpine Skiing World Cup – Men's downhill|—]]
+|-
+| [[2025–26 FIS Alpine Ski World Cup|2026]] ||''30''|| [[2026 Alpine Skiing World Cup – Men's overall|83]] || [[2026 Alpine Skiing World Cup – Men's slalom|—]] || [[2026 Alpine Skiing World Cup – Men's giant slalom|26]] || [[2026 Alpine Skiing World Cup – Men's super-G|—]] || [[2026 Alpine Skiing World Cup – Men's downhill|—]]
+|}
+<!--:{{small|Standings through 25 March 2026}}-->
+
+===Race podiums===
+* 0 wins
+* 2 podiums – (2 [[Giant slalom|GS]])<!-- 2 through 1 February 2026 -->
+
+{| class="wikitable nowrap"  style="font-size:95%; text-align:center; border:gray solid 1px;" width="40%"
+|- style="background:#369; color:white;"
+|rowspan="2" colspan="1" width="5%"|'''Season'''
+|- style="background-color:#4180be; color:white;"
+| Date
+| Location
+| Discipline
+| Place
+|-
+|rowspan=2|'''[[2023–24 FIS Alpine Ski World Cup|2024]]'''
+| align=right|9 December 2023
+| align=left|{{flagicon|FRA}} [[La face de Bellevarde|Val-d'Isère]], France
+| [[Giant slalom]]
+| 3rd
+|-
+| align=right|16 March 2024
+| align=left|{{flagicon|AUT}} [[Saalbach-Hinterglemm|Saalbach]], Austria
+| Giant slalom
+| 2nd
+|}
+
+==World Championship results==
+{| class="wikitable" style="font-size:95%; text-align:center;" width="40%"
+|- style="background-color:#369; color:white;"
+| rowspan="2" colspan="1" width="4%"| '''Year'''
+|- style="background-color:#4180be; color:white;"
+| width="3%"|Age
+| width="5%"|Slalom
+| width="5%"|Giant<br>slalom
+| width="5%"|Super-G
+| width="5%"|Downhill
+| width="5%"|Combined
+| width="5%"|Team<br>combined
+| width="5%"|Parallel
+| width="5%"|Team<br>&nbsp;event&nbsp;
+|- style="background-color:#8CB2D8; color:white;"
+|-
+| [[FIS Alpine World Ski Championships 2013|2013]] 
+| ''17'' 
+| [[FIS Alpine World Ski Championships 2013 – Men's slalom|—]] 
+| [[FIS Alpine World Ski Championships 2013 – Men's giant slalom|39]] 
+| [[FIS Alpine World Ski Championships 2013 – Men's super-G|—]] 
+| [[FIS Alpine World Ski Championships 2013 – Men's downhill|—]] 
+| [[FIS Alpine World Ski Championships 2013 – Men's super combined|—]] 
+| rowspan=4 {{n/a}}
+| rowspan=2 {{n/a}}
+| [[FIS Alpine World Ski Championships 2013 – Nations team event|—]]
+|-
+| [[FIS Alpine World Ski Championships 2017|2017]] 
+| ''21'' 
+| [[FIS Alpine World Ski Championships 2017 – Men's slalom|DNSQ1]] 
+| [[FIS Alpine World Ski Championships 2017 – Men's giant slalom|DNS2]] 
+| [[FIS Alpine World Ski Championships 2017 – Men's super-G|DNF1]] 
+| [[FIS Alpine World Ski Championships 2017 – Men's downhill|—]]
+| [[FIS Alpine World Ski Championships 2017 – Men's super combined|27]] 
+| [[FIS Alpine World Ski Championships 2017 – Nations team event|—]]
+|-
+| [[FIS Alpine World Ski Championships 2021|2021]] 
+| ''25'' 
+| [[FIS Alpine World Ski Championships 2021 – Men's slalom|—]] 
+| [[FIS Alpine World Ski Championships 2021 – Men's giant slalom|DNF1]] 
+| [[FIS Alpine World Ski Championships 2021 – Men's super-G|26]] 
+| [[FIS Alpine World Ski Championships 2021 – Men's downhill|—]] 
+| [[FIS Alpine World Ski Championships 2021 – Men's alpine combined|—]] 
+| [[FIS Alpine World Ski Championships 2021 – Men's parallel giant slalom|—]]
+| [[FIS Alpine World Ski Championships 2021 – Nations team event|—]]
+|-
+| [[FIS Alpine World Ski Championships 2023|2023]] 
+| ''30'' 
+| [[FIS Alpine World Ski Championships 2023 – Men's slalom|—]] 
+| [[FIS Alpine World Ski Championships 2023 – Men's giant slalom|DNF1]] 
+| [[FIS Alpine World Ski Championships 2023 – Men's super-G|—]] 
+| [[FIS Alpine World Ski Championships 2023 – Men's downhill|—]] 
+| [[FIS Alpine World Ski Championships 2023 – Men's alpine combined|—]] 
+| [[FIS Alpine World Ski Championships 2023 – Men's parallel giant slalom|DNF2]]
+| [[FIS Alpine World Ski Championships 2023 – Nations team event|—]]
+|-
+| [[FIS Alpine World Ski Championships 2025|2025]] 
+| ''32'' 
+| [[FIS Alpine World Ski Championships 2025 – Men's slalom|—]] 
+| [[FIS Alpine World Ski Championships 2025 – Men's giant slalom|DNF2]] 
+| [[FIS Alpine World Ski Championships 2025 – Men's super-G|—]] 
+| [[FIS Alpine World Ski Championships 2025 – Men's downhill|—]]
+| {{n/a}} 
+| [[FIS Alpine World Ski Championships 2025 – Men's team combined|—]] 
+| {{n/a}}
+| [[FIS Alpine World Ski Championships 2025 – Nations team event|—]]
+|}
+
+==Olympic results==
+{| class="wikitable" style="font-size:95%; text-align:center;" width="40%"
+|- style="background-color:#369; color:white;"
+| rowspan="2" colspan="1" width="4%"| '''Year'''
+|- style="background-color:#4180be; color:white;"
+| width="3%"| Age
+| width="5%"| Slalom
+| width="5%"| Giant<br>slalom
+| width="5%"| Super-G
+| width="5%"| Downhill
+| width="5%"| Combined
+| width="5%"| Team<br>combined
+| width="5%"| Team event
+|- style="background-color:#8CB2D8; color:white;"
+|-
+| [[Alpine skiing at the 2014 Winter Olympics|2014]] 
+| ''18'' 
+| [[Alpine skiing at the 2014 Winter Olympics – Men's slalom|—]] 
+| [[Alpine skiing at the 2014 Winter Olympics – Men's giant slalom|DNF1]] 
+| [[Alpine skiing at the 2014 Winter Olympics – Men's super-G|—]] 
+| [[Alpine skiing at the 2014 Winter Olympics – Men's downhill|—]] 
+| [[Alpine skiing at the 2014 Winter Olympics – Men's combined|—]]
+| rowspan=3 {{n/a}}
+| {{n/a}}
+|-
+| [[Alpine skiing at the 2018 Winter Olympics|2018]] 
+| ''22'' 
+| [[Alpine skiing at the 2018 Winter Olympics – Men's slalom|—]]
+| [[Alpine skiing at the 2018 Winter Olympics – Men's giant slalom|DNF2]] 
+| [[Alpine skiing at the 2018 Winter Olympics – Men's super-G|28]] 
+| [[Alpine skiing at the 2018 Winter Olympics – Men's downhill|37]] 
+| [[Alpine skiing at the 2018 Winter Olympics – Men's combined|27]]
+| [[Alpine skiing at the 2018 Winter Olympics – Mixed team|—]]
+|-
+|[[Alpine skiing at the 2022 Winter Olympics|2022]]
+| ''26'' 
+|[[Alpine skiing at the 2022 Winter Olympics – Men's slalom|—]]
+|[[Alpine skiing at the 2022 Winter Olympics – Men's giant slalom|9]]
+|[[Alpine skiing at the 2022 Winter Olympics – Men's super-G|22]]
+|[[Alpine skiing at the 2022 Winter Olympics – Men's downhill|—]]
+|[[Alpine skiing at the 2022 Winter Olympics – Men's combined|—]]
+|[[Alpine skiing at the 2022 Winter Olympics – Mixed team|—]]
+|-
+|[[Alpine skiing at the 2022 Winter Olympics|2026]]
+| ''30'' 
+|[[Alpine skiing at the 2026 Winter Olympics – Men's slalom|—]]
+|[[Alpine skiing at the 2026 Winter Olympics – Men's giant slalom|10]]
+|[[Alpine skiing at the 2026 Winter Olympics – Men's super-G|—]]
+|[[Alpine skiing at the 2026 Winter Olympics – Men's downhill|—]]
+|{{n/a}}
+|[[Alpine skiing at the 2026 Winter Olympics – Men's team combined|—]]
+|{{n/a}}
+|}
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+== External links ==
+{{commons category}}
+* {{Sports links}}
+* {{Ski-DB}}<!--
+* {{FIS alpine skier|166175|Joan Verdu}}
+* {{Olympics.com|joan-verdu-sanchez|Joan Verdu Sanchez}}
+* {{Olympedia|name=Joan Verdú}}
+* {{InterSportStats|name=Joan Verdú}}-->
+* [https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/4927 Joan Verdu] at [[Milano Cortina 2026]]
+* {{Instagram|name=Joan Verdú}}
+
+{{s-start}}
+{{s-sports|oly}}
+{{succession box
+| before = [[Nahuel Carabaña]]<br />[[Mònica Dòria]]
+| title = [[List of flag bearers for Andorra at the Olympics|Flag bearer]] for {{AND}}
+| years = [[2026 Winter Olympics|Milano Cortina 2026]]<br />with <br />[[Irineu Esteve Altimiras]]
+| after = '''Incumbent'''
+}}
+{{s-end}}
+
+{{DEFAULTSORT:Verdu, Joan}}
+[[Category:1995 births]]
+[[Category:Living people]]
+[[Category:Andorran male alpine skiers]]
+[[Category:Olympic alpine skiers for Andorra]]
+[[Category:Alpine skiers at the 2014 Winter Olympics]]
+[[Category:Alpine skiers at the 2018 Winter Olympics]]
+[[Category:Alpine skiers at the 2022 Winter Olympics]]
+[[Category:Alpine skiers at the 2012 Winter Youth Olympics]]
+[[Category:Alpine skiers at the 2026 Winter Olympics]]
+[[Category:Long stubs with short prose]]
+[[Category:Medalists at the 2012 Winter Youth Olympics]]
+[[Category:Youth Olympic bronze medalists for Andorra]]
+
+{{Andorra-alpine-skiing-bio-stub}}

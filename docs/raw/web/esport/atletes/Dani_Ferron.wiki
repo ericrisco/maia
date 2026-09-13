@@ -1,0 +1,57 @@
+{{short description|Andorran football player|bot=PearBOT 5}}
+{{Use dmy dates|date=August 2023}}
+{{Infobox football biography
+|name=Dani Ferrón
+|image=
+|fullname=
+|birth_date ={{birth date and age|df=yes|1980|3|13}}<ref>{{cite web |title=Dani Ferrón |url=https://www.worldfootball.net/person/pe46836/dani-ferron/ |website=worldfootball.net |publisher=HEIM:SPIEL Medien GmbH & Co. KG |access-date=24 April 2024 |language=en}}</ref>
+|birth_place=[[Andorra]]
+|death_date =
+|height=
+|position=[[Defender (association football)|Defender]]
+|currentclub=[[FC Andorra]]
+|clubnumber=
+|youthyears1=
+|youthclubs1=
+|years1=
+|clubs1=
+|caps1= | goals1 =
+|nationalyears1=2001–2004
+|nationalteam1=[[Andorra national football team|Andorra]]
+|nationalcaps1= 4 | nationalgoals1 = 0
+|manageryears1=
+|managerclubs1=
+}}
+'''Daniel Ferrón Pérez''' (born 13 March 1980) is an [[Andorra]]n [[Association football|football]] player. He has played for [[Andorra national football team|Andorra national team]].
+
+==National team statistics==
+{| class="wikitable" style="text-align:center"
+! colspan=3 | [[Andorra national football team|Andorra national team]]
+|-
+!Year!!Apps!!Goals
+|-
+|-
+|2001||1||0
+|-
+|2002||1||0
+|-
+|2003||1||0
+|-
+|2004||1||0
+|-
+!Total||4||0
+|}
+
+==References==
+{{Reflist}}
+*{{NFT player|pid=162}}
+
+{{DEFAULTSORT:Ferron, Dani}}
+[[Category:1980 births]]
+[[Category:Living people]]
+[[Category:Andorran men's footballers]]
+[[Category:Men's association football defenders]]
+[[Category:Andorra men's international footballers]]
+
+
+{{Andorra-footy-bio-stub}}

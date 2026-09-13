@@ -1,0 +1,123 @@
+{{Short description|none}}
+
+{{infobox country at games
+| NOC = AND
+| NOCname = [[Andorran Olympic Committee]]
+| games = Olympics
+| year = 
+| flagcaption = 
+| oldcode = 
+| website = {{url|www.coa.ad}}&nbsp;{{in lang|ca}}
+| location = 
+| competitors = 
+| sports = 
+| flagbearer = 
+| rank = 
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials = 
+| appearances = 
+| app_begin_year = 
+| app_end_year = 
+| summerappearances = {{Team appearances list|team=Andorra|competition=Summer Olympics|begin_year=1976|end_year= }}
+| winterappearances = {{Team appearances list|team=Andorra|competition=Winter Olympics|begin_year=1976|end_year= }}
+| seealso = 
+}}
+This is a list of '''flag bearers who have represented Andorra at the Olympics.'''<ref name="SR">[https://web.archive.org/web/20200417093554/https://www.sports-reference.com/olympics/countries/AND/ Andorra]. Olympics at Sport-Reference.com Sports Reference LLC. Accessed 25 October 2011.</ref>
+
+Flag bearers carry the national flag of their country at the [[Olympic Games ceremony#Opening|opening ceremony]] of the [[Olympic Games]].
+
+{|class="wikitable sortable"
+! # !!Event year !! Season !! Flag bearer !! Sport !!
+|-
+| 1 || [[1976 Winter Olympics|1976]] || Winter ||  ||  ||
+|-
+| 2 || [[1976 Summer Olympics|1976]] || Summer || {{sortname|Esteve|Dolsa}} || [[Shooting at the 1976 Summer Olympics|Shooting]] || rowspan=2|<ref name="SR" />
+|-
+| 3 || [[1980 Winter Olympics|1980]] || Winter || {{sortname|Carlos|Font}} || [[Alpine skiing at the 1980 Winter Olympics|Alpine skiing]]
+|-
+| 4 || [[1980 Summer Olympics|1980]] || Summer || {{sortname|Francesc|Gaset Fris}} || [[Shooting at the 1980 Summer Olympics|Shooting]] ||{{efn|Marched under the Olympic flag}}<ref name="Oly">{{cite web |url=https://www.olympedia.org/flagbearers?country_id=AND |title=Flagbearers for Andorra |website=[[Olympedia]] |publisher=[[OlyMADMen]] |access-date=28 November 2023}}</ref>
+|-
+| 5 || [[1984 Winter Olympics|1984]] || Winter || {{sortname|Albert|Llovera}} ||  [[Alpine skiing at the 1984 Winter Olympics|Alpine skiing]] || <ref name="Oly"/>
+|-
+| 6 || [[1984 Summer Olympics|1984]] || Summer || {{sortname|Joan|Tomàs Roca}} || [[Shooting at the 1984 Summer Olympics|Shooting]] || rowspan=3|<ref name="SR" />
+|-
+| 7 || [[1988 Winter Olympics|1988]] || Winter || {{sortname|Claudina|Rossel}} || [[Alpine skiing at the 1988 Winter Olympics|Alpine skiing]]
+|-
+| 8 || [[1988 Summer Olympics|1988]] || Summer || {{sortname|Josep|Graells}} || [[Athletics at the 1988 Summer Olympics|Athletics]]
+|-
+| 9 || [[1992 Winter Olympics|1992]] || Winter ||  ||  ||
+|-
+| 10 || [[1992 Summer Olympics|1992]] || Summer || {{sortname|Maggy|Moreno}} || [[Athletics at the 1992 Summer Olympics|Athletics]] || rowspan=13|<ref name="SR" />
+|-
+| 11 || [[1994 Winter Olympics|1994]] || Winter || {{sortname|Vicky|Grau}} || [[Alpine skiing at the 1994 Winter Olympics|Alpine skiing]]
+|-
+| 12 || [[1996 Summer Olympics|1996]] || Summer || {{sortname|Aitor|Osorio}} || [[Swimming at the 1996 Summer Olympics|Swimming]]
+|-
+| 13 || [[1998 Winter Olympics|1998]] || Winter || {{sortname|Victor|Gómez|Victor Gómez (alpine skier)|}} || [[Alpine skiing at the 1998 Winter Olympics|Alpine skiing]]
+|-
+| 14 || [[2000 Summer Olympics|2000]] || Summer || {{sortname|Toni|Bernadó}} || [[Athletics at the 2000 Summer Olympics|Athletics]]
+|-
+| 15 || [[2002 Winter Olympics|2002]] || Winter || {{sortname|Victor|Gómez|Victor Gómez (alpine skier)|}} || [[Alpine skiing at the 2002 Winter Olympics|Alpine skiing]]
+|-
+| 16 || [[2004 Summer Olympics|2004]] || Summer || {{sortname|Hocine|Haciane}} || [[Swimming at the 2004 Summer Olympics|Swimming]]
+|-
+| 17 || [[2006 Winter Olympics|2006]] || Winter || {{sortname|Alex|Antor}} || [[Alpine skiing at the 2006 Winter Olympics|Alpine skiing]]
+|-
+| 18 || [[2008 Summer Olympics|2008]] || Summer || {{sortname|Montserrat|García}} || [[Canoeing at the 2008 Summer Olympics|Canoeing]]
+|-
+| 19 || [[2010 Winter Olympics|2010]] || Winter || {{sortname|Lluís|Marín}} || [[Snowboarding at the 2010 Winter Olympics|Snowboarding]]
+|-
+| 20 || [[2012 Summer Olympics|2012]] || Summer || {{sortname|Joan|Tomàs Roca}} || [[Shooting at the 2012 Summer Olympics|Shooting]]
+|-
+| 21 || [[2014 Winter Olympics|2014]] || Winter || {{sortname|Mireia|Gutiérrez}} || [[Alpine skiing at the 2014 Winter Olympics|Alpine skiing]]
+|-
+| 22 || [[2016 Summer Olympics|2016]] || Summer || {{sortname|Laura|Sallés}} || [[Judo at the 2016 Summer Olympics|Judo]]
+|-  
+| 23 || [[2018 Winter Olympics|2018]] || Winter || {{sortname|Irineu|Esteve Altimiras}} || [[Cross-country skiing at the 2018 Winter Olympics|Cross-country skiing]] || <ref>{{cite web |url=https://stillmed.olympic.org/media/Document%20Library/OlympicOrg/Games/Winter-Games/Games-PyeongChang-2018-Winter-Olympic-Games/Ceremonies/PyeongChang-2018-Opening-Ceremony-Flagbearers.pdf |title=The Flagbearers for the PyeongChang 2018 Opening Ceremony |website=olympics.com |publisher=[[International Olympic Committee|IOC]] |access-date=11 October 2022}}</ref>
+|-
+| rowspan=2| 24 || rowspan=2| [[2020 Summer Olympics|2020]] || rowspan=2| Summer || {{sortname|Mònica|Dòria|Mònica Dòria}} || [[Canoeing at the 2020 Summer Olympics|Canoeing]] ||rowspan=2| <ref>{{cite web |url=https://stillmed.olympics.com/media/Documents/News/2021/07/Tokyo-2020-Opening-Ceremony-Flag-bearers-Marching-order.pdf?_ga=2.120143808.953436897.1650413868-amp-l66ZUeFJZSYK8m2QhwGA_A |title=The flagbearers for the Tokyo 2020 Opening Ceremony |website=olympics.com |publisher=[[International Olympic Committee|IOC]] |access-date=2022-04-19}}</ref>
+|-
+| {{sortname|Pol|Moya|Pol Moya}} || [[Athletics at the 2020 Summer Olympics|Athletics]]
+|-
+| 25 || [[2022 Winter Olympics|2022]] || Winter || {{sortname|Maeva|Estevez|Maeva Estevez}} || [[Snowboarding at the 2022 Winter Olympics|Snowboarding]] || <ref>{{cite web |url=https://stillmed.olympics.com/media/Documents/News/2022/02/Beijing-2022-Opening-Ceremony-Flag-Bearers.pdf?_ga=2.112776524.953436897.1650413868-amp-l66ZUeFJZSYK8m2QhwGA_A |title=The flagbearers for the Beijing 2022 Opening Ceremony |website=olympics.com |publisher=[[International Olympic Committee|IOC]] |access-date=2022-04-19}}</ref>
+|-
+|rowspan=2|26
+|rowspan=2|[[2024 Summer Olympics|2024]]
+|rowspan=2|Summer
+|{{sortname|Nahuel|Carabaña}}
+|[[Athletics at the 2024 Summer Olympics|Athletics]]
+|rowspan=2|<ref>{{cite web |url=https://stillmed.olympics.com/media/Documents/News/2024/07/paris-2024-flagbearers.pdf |title=Paris 2024: Opening ceremony flagbearers information |website=olympics.com |publisher=[[International Olympic Committee|IOC]] |access-date=26 July 2024}}</ref>
+|-
+|{{sortname|Mònica|Dòria}}
+|[[Canoeing at the 2024 Summer Olympics|Canoeing]]
+|-
+|rowspan=3|27
+|rowspan=3|[[2026 Winter Olympics|2026]]
+|rowspan=3|Winter
+|{{sortname|Joan|Verdú|dab=alpine skier}}
+|[[Alpine skiing at the 2026 Winter Olympics|Alpine Skiing]]
+|rowspan=3|<ref>{{Cite web |title=Milano Cortina 2026 Opening Ceremony: All Flagbearers, all nations - complete list |url=https://www.olympics.com/en/milano-cortina-2026/news/all-flagbearers-named-for-milano-cortina-2026-opening-ceremony |archive-url=https://web.archive.org/web/20260203135345/https://www.olympics.com/en/milano-cortina-2026/news/all-flagbearers-named-for-milano-cortina-2026-opening-ceremony |archive-date=3 Feb 2026 |access-date=14 Feb 2026}}</ref>
+|-
+|{{sortname|Cande|Moreno}}
+|[[Alpine skiing at the 2026 Winter Olympics|Alpine Skiing]]
+|-
+|{{sortname|Irineu Esteve|Altimiras}}
+|[[Cross-country skiing at the 2026 Winter Olympics|Cross-country skiing]]
+|}
+
+==See also==
+*[[Andorra at the Olympics]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{Olympic national flag bearers lists by nation}}
+
+[[Category:Andorra at the Olympics|Flag bearers]]
+[[Category:Lists of Olympic flag bearers by country|Andorra]]
+[[Category:Lists of Andorran sportspeople|Olympic]]

@@ -1,0 +1,136 @@
+{{short description|Andorran footballer}}
+{{Use dmy dates|date=October 2020}}
+{{Infobox football biography
+| name           = Albert Alavedra
+| fullname       = Albert Alavedra Jiménez<ref>{{cite web |url=https://editorial.uefa.com/resources/0263-10de614232cd-de3927e3d25c-1000/unl_booking_list_before_md6.pdf |title=UEFA Nations League 2021: Booking List before League phase Matchday 6 |page=13 |publisher=UEFA |date=16 November 2020 |accessdate=23 November 2020 |archive-date=28 November 2020 |archive-url=https://web.archive.org/web/20201128170526/https://editorial.uefa.com/resources/0263-10de614232cd-de3927e3d25c-1000/unl_booking_list_before_md6.pdf |url-status=dead }}</ref>
+| image          =
+| caption        =
+| height         = 1.85 m
+| birth_date     = {{Birth date and age|df=yes|1999|2|26}}
+| birth_place    = [[Castellbell i el Vilar]], Spain
+| position       = [[Defender (association football)#Centre-back|Centre-back]]
+| currentclub    = 
+| clubnumber     = 
+| youthyears1    = 2014–2018
+| youthclubs1    = [[RCD Espanyol cantera|Espanyol]]
+| youthyears2    = 2016–2017
+| youthclubs2    = → [[CE Sabadell FC|Sabadell]] (loan)
+| years1         = 2018–2019
+| clubs1         = [[UD Logroñés B|Logroñés B]]
+| caps1          = 20
+| goals1         = 3
+| years2         = 2019–2020
+| clubs2         = [[Algeciras CF|Algeciras]]
+| caps2          = 0
+| goals2         = 0
+| years3         = 2020
+| clubs3         = [[CE Manresa|Manresa]]
+| caps3          = 4
+| goals3         = 0
+| years4         = 2020
+| clubs4         = [[Cerdanyola del Vallès FC|Cerdanyola]]
+| caps4          = 0
+| goals4         = 0
+| years5         = 2020–2021
+| clubs5         = [[CD Calahorra B|Calahorra B]]
+| caps5          = 6
+| goals5         = 0
+| years6         = 2021–2022
+| clubs6         = [[CF Pobla de Mafumet|Pobla Mafumet]]
+| caps6          = 34
+| goals6         = 2
+| years7         = 2022–2023
+| clubs7         = [[CF Badalona|Badalona]]
+| caps7          = 14
+| goals7         = 1
+| years8         = 2023
+| clubs8         = [[ND Primorje|Primorje]]
+| caps8          = 7
+| goals8         = 0
+| years9         = 2023
+| clubs9         = [[FK Vardar]]
+| caps9          = 2
+| goals9         = 0
+| nationalyears1 = 2014–2015
+| nationalteam1  = [[Andorra national under-17 football team|Andorra U17]]
+| nationalcaps1  = 6
+| nationalgoals1 = 0
+| nationalyears2 = 2015–2017
+| nationalteam2  = [[Andorra national under-19 football team|Andorra U19]]
+| nationalcaps2  = 5
+| nationalgoals2 = 0
+| nationalyears3 = 2016–2020
+| nationalteam3  = [[Andorra national under-21 football team|Andorra U21]]
+| nationalcaps3  = 13
+| nationalgoals3 = 0
+| nationalyears4 = 2020–2023
+| nationalteam4  = [[Andorra national football team|Andorra]]
+| nationalcaps4  = 28
+| nationalgoals4 = 0
+| pcupdate       = 2 September 2023
+| ntupdate       = 12 September 2023
+}}
+'''Albert Alavedra Jiménez''' (born 26 February 1999) is a former Andorran [[Association football|footballer]] who played as a [[Defender (association football)#Centre-back|centre-back]].<ref>{{WorldFootball.net}}</ref><ref>{{cite news |url=http://labrujulacalahorra.com/albert-alavedra-nuevo-fichaje-para-el-cd-calahorra-b/ |title=Albert Alavedra, nuevo fichaje para el CD Calahorra B |trans-title=Albert Alavedra, new signing for CD Calahorra B |work=La Brújula de Calahorra |date=1 October 2020 |access-date=13 October 2020 |language=es}}</ref>
+
+==Early life==
+Alavedra was born in [[Castellbell i el Vilar]], near [[Manresa]] to an Andorran mother.<ref>{{Cite web|url=https://www.diariandorra.ad/noticies/esports/2016/03/24/mitja_vida_blanc_blau_97888_1128.html|website=Diari d'Andorra|title=Mitja vida de blanc-i-blau|language=ca|date=24 March 2016|accessdate=7 November 2020}}</ref>
+
+==International career==
+Alavedra made his international debut for [[Andorra national football team|Andorra]] on 13 October 2020 in the [[2020–21 UEFA Nations League D|UEFA Nations League]] against the [[Faroe Islands national football team|Faroe Islands]].<ref name="EUF">{{cite web |url=https://eu-football.info/_player.php?id=31170 |title=Albert Alavedra |website=EU-Football.info |access-date=13 October 2020}}</ref>
+
+==Career statistics==
+===International===
+{{updated|13 October 2020|<ref name="EUF"/>}}
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=3|[[Andorra national football team|Andorra]]
+|-
+!Year!!Apps!!Goals
+|-
+|2020||1||0
+|-
+!Total!!1!!0
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{LaPreferente}}
+* {{Soccerway}}
+
+{{DEFAULTSORT:Alavedra, Albert}}
+[[Category:1999 births]]
+[[Category:Living people]]
+[[Category:Naturalised citizens of Andorra]]<!-- [[Category:Citizens of Andorra through descent]] -->
+[[Category:Andorran men's footballers]]
+[[Category:People from Bages]]
+[[Category:Footballers from the Province of Barcelona]]
+[[Category:Spanish men's footballers]]
+[[Category:UD Logroñés B players]]
+[[Category:Algeciras CF footballers]]
+[[Category:CE Manresa players]]
+[[Category:Cerdanyola del Vallès FC players]]
+[[Category:CD Calahorra players]]
+[[Category:ND Primorje players]]
+[[Category:FK Vardar players]]
+[[Category:Tercera División players]]
+[[Category:Slovenian Second League players]]
+[[Category:Macedonian First Football League players]]
+[[Category:Andorran expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Slovenia]]
+[[Category:Expatriate men's footballers in North Macedonia]]
+[[Category:Andorran expatriate sportspeople in Slovenia]]
+[[Category:Andorran expatriate sportspeople in North Macedonia]]
+[[Category:Andorra men's youth international footballers]]
+[[Category:Andorra men's under-21 international footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:Andorran people of Spanish descent]]
+[[Category:Spanish people of Andorran descent]]
+[[Category:Men's association football central defenders]]
+[[Category:21st-century Spanish sportsmen]]
+
+
+{{Andorra-footy-bio-stub}}
+{{Spain-footy-defender-stub}}

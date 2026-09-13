@@ -1,0 +1,75 @@
+{{short description|Andorran swimmer}}
+{{Infobox swimmer
+| name           = Hocine Haciane
+| image          = 
+| image_size     = 
+| caption        =
+| full_name      = Hocine Haciane Constantin
+| spouse         = 
+| nationality    = {{flag|Andorra}}
+| strokes        = 
+| club           = 
+| college_team    =
+| birth_date     = {{Birth date and age|1986|07|07|df=yes}}
+| birth_place    = [[Andorra la Vella]], Andorra
+| death_date     =
+| death_place    =
+| height         = 1.68 m
+| weight         = 72 kg
+| medal_templates =
+{{MedalCompetition|[[Games of the Small States of Europe]]}}
+{{MedalGold|[[2003 Games of the Small States of Europe|2003 Malta]]|[[Swimming at the 2003 Games of the Small States of Europe|400&nbsp;m medley]]}}
+{{MedalGold|[[2011 Games of the Small States of Europe|2011 Liechtenstein]]|[[Swimming at the 2011 Games of the Small States of Europe|200&nbsp;m butterfly]]}}
+{{MedalSilver|[[2003 Games of the Small States of Europe|2003 Malta]]|[[Swimming at the 2003 Games of the Small States of Europe|200&nbsp;m breaststroke]]}}
+{{MedalSilver|[[2003 Games of the Small States of Europe|2003 Malta]]|[[Swimming at the 2003 Games of the Small States of Europe|200&nbsp;m butterfly]]}}
+{{MedalSilver|[[2009 Games of the Small States of Europe|2009 Cyprus]]|[[Swimming at the 2009 Games of the Small States of Europe|200&nbsp;m breaststroke]]}}
+{{MedalSilver|[[2009 Games of the Small States of Europe|2009 Cyprus]]|[[Swimming at the 2009 Games of the Small States of Europe|200&nbsp;m butterfly]]}}
+{{MedalSilver|[[2009 Games of the Small States of Europe|2009 Cyprus]]|[[Swimming at the 2009 Games of the Small States of Europe|200&nbsp;m medley]]}}
+{{MedalSilver|[[2009 Games of the Small States of Europe|2009 Cyprus]]|[[Swimming at the 2009 Games of the Small States of Europe|400&nbsp;m medley]]}}
+{{MedalSilver|[[2011 Games of the Small States of Europe|2011 Liechtenstein]]|[[Swimming at the 2011 Games of the Small States of Europe|200&nbsp;m medley]]}}
+{{MedalBronze|[[2003 Games of the Small States of Europe|2003 Malta]]|[[Swimming at the 2003 Games of the Small States of Europe|400&nbsp;m freestyle]]}}
+{{MedalBronze|[[2003 Games of the Small States of Europe|2003 Malta]]|[[Swimming at the 2003 Games of the Small States of Europe|4x200&nbsp;m freestyle]]}}
+{{MedalBronze|[[2009 Games of the Small States of Europe|2009 Cyprus]]|[[Swimming at the 2009 Games of the Small States of Europe|100&nbsp;m breaststroke]]}}
+{{MedalBronze|[[2011 Games of the Small States of Europe|2011 Liechtenstein]]|[[Swimming at the 2011 Games of the Small States of Europe|400&nbsp;m medley]]}}
+{{MedalBronze|[[2011 Games of the Small States of Europe|2011 Liechtenstein]]|[[Swimming at the 2011 Games of the Small States of Europe|200&nbsp;m breaststroke]]}}
+}}
+
+'''Hocine Haciane Constantin'''{{family name footnote|lang=Catalan|Haciane|Constantin}} (born 7 July 1986 in [[Andorra la Vella]])<ref>{{cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/ha/hocine-haciane-1.html |access-date=2013-06-13 |title=Archived copy |archive-date=7 November 2012 |archive-url=https://web.archive.org/web/20121107145107/http://www.sports-reference.com/olympics/athletes/ha/hocine-haciane-1.html |url-status=dead }}</ref> is an Olympic and [[List of Andorran records in swimming|national record]] holding [[swimmer]] from [[Andorra]].<ref>[http://www.andorra2005.ad/seguiment/articles/detall.aspx?IdArticle=72&IdIdioma=en Haciane wins the final of the 200 metres]  {{webarchive |url=https://web.archive.org/web/20070928082754/http://www.andorra2005.ad/seguiment/articles/detall.aspx?IdArticle=72&IdIdioma=en |date=28 September 2007 }}</ref>  At the 2004 Olympics, he was [[List of flag bearers for Andorra at the Olympics|Andorra's flagbearer]].<ref>[http://www.smh.com.au/olympics/schedule/swimming/day5.html Day 5 Swimming Schedule & Results]  {{webarchive |url=https://web.archive.org/web/20060526171236/http://www.smh.com.au/olympics/schedule/swimming/day5.html |date=26 May 2006 }}</ref>
+
+He has swum for Andorra at the:
+*Olympics: [[Andorra at the 2004 Summer Olympics|2004]],<ref>2004 Olympics results: [https://web.archive.org/web/20040820055656/http://sportsillustrated.cnn.com/olympics/2004/schedules/162042ByEvent.html Swimming: Men's 200m Individual Medley]. Published by Sports Illustrated. Retrieved 2013-06-13.</ref> [[Andorra at the 2008 Summer Olympics|2008]], [[Andorra at the 2012 Summer Olympics|2012]]<ref>[https://www.bbc.com/sport/olympics/2012/athletes/8f2414b9-2b5f-4b34-8f5f-b0725c7caee5 Hocine Haciane Constantin's entry] from the [[BBC]]'s London 2013 coverage. Updated 2012-08-13. Retrieved 2013-06-13.</ref>
+*World Championships:2003, 2005, 2009, [[Andorra at the 2011 World Aquatics Championships|2011]]
+*Mediterranean Games: [[Andorra at the 2009 Mediterranean Games|2009]]
+*[[Games of the Small States of Europe|GSSE]]: 2001, 2003, 2005, 2007, 2009, 2011
+*Short Course Worlds: 2010
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{sports links}}
+{{Authority control}}
+{{s-start}}
+{{s-sports|oly}}
+{{succession box
+| before = [[Victor Gómez (alpine skier)|Victor Gómez]]
+| title = [[List of flag bearers for Andorra at the Olympics|Flag bearer]] for {{AND}}
+| years = [[2004 Summer Olympics|Athens 2004]]
+| after = [[Alex Antor]]
+}}
+{{s-end}}
+{{Use dmy dates|date=May 2021}}
+
+{{DEFAULTSORT:Haciane, Hocine}}
+[[Category:1986 births]]
+[[Category:Living people]]
+[[Category:Andorran male swimmers]]
+[[Category:Olympic swimmers for Andorra]]
+[[Category:Swimmers at the 2004 Summer Olympics]]
+[[Category:Swimmers at the 2008 Summer Olympics]]
+[[Category:Swimmers at the 2012 Summer Olympics]]
+
+{{Andorra-swimming-bio-stub}}

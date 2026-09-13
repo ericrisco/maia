@@ -1,0 +1,101 @@
+{{short description|Andorran footballer (born 1999)}}
+{{Infobox football biography
+| name = Guillaume López
+| image = 
+| caption = 
+| fullname = Guillaume Silvain López
+| birth_date = {{birth date and age|1999|1|30|df=y}}
+| birth_place = [[Toulon]], France
+| height = 1.70 m
+| position = [[Forward (association football)|Forward]]
+| currentclub = [[FC Santa Coloma]]
+| clubnumber = 10
+| youthclubs1 = [[Montpellier HSC|Montpellier]]
+| years1 = 2017–2019 | clubs1 = [[Montpellier HSC|Montpellier B]] | caps1 = 29 | goals1 = 7
+| years2 = 2019–2020 | clubs2 = [[Marignane Gignac Côte Bleue FC|Marignane]] | caps2 = 11 | goals2 = 0
+| years3 = 2020–2021 | clubs3 = [[UE Engordany|Engordany]] | caps3 = 18 | goals3 = 16
+| years4 = 2021–2022 | clubs4 = [[FC Santa Coloma]] | caps4 = 24 | goals4 = 21
+| years5 = 2022–2024 | clubs5 = [[Atlètic Club d'Escaldes|Atlètic d'Escaldes]] | caps5 = 51 | goals5 = 35
+| years6 = 2024–2025 | clubs6 = [[Inter Club d'Escaldes|Inter d'Escaldes]] | caps6 = 22 | goals6 = 20
+| years7 = 2025– | clubs7 = [[FC Santa Coloma]] | caps7 = 24 | goals7 = 16
+| nationalyears1 = 2025–
+| nationalteam1 = [[Andorra national football team|Andorra]]
+| nationalcaps1 = 12
+| nationalgoals1 = 1
+| club-update = 16 May 2025
+| nationalteam-update = 4 June 2026
+}}
+
+'''Guillaume Silvain López''' (born 30 January 1999) is a [[Association football|footballer]] who plays as a [[Forward (association football)|forward]] for [[FC Santa Coloma]]. Born in France, he is an Andorra international.
+
+==Early life==
+López was born on 30 January 1999. Born in [[Toulon]], France, he is a native of [[Toulon]], France.<ref>{{Cite web|url=https://elperiodic.ad/entrevista/guillaume-lopez-20-02-2021/|title=Guillaume López: "Evidentment, no classificar-se per a Europa seria una decepció"|trans-title=Guillaume López: "Obviously, not qualifying for Europe would be a disappointment"|language=ca|publisher=[[El Periòdic d'Andorra]]|date=20 February 2021|access-date=11 May 2025}}</ref>
+ 
+==Club career==
+As a youth player, López joined the [[youth academy]] of French [[Ligue 1]] side [[Montpellier HSC]] and was promoted to the club's [[reserve team]] in 2017, where he made twenty-seven league appearances and scored seven goals. Two years later, he signed for French side [[Marignane Gignac Côte Bleue FC]], where he made eleven league appearances and scored zero goals. In 2020, he signed for Andorran side [[UE Engordany]], where he was the top scorer of the [[2020–21 Primera Divisió]] with sixteen goals while playing for the club.<ref>{{Cite web|url=https://www.andorradifusio.ad/esports/reportatge-guillaume-lopez-garantia-gol-lliga|title=Guillaume López, garantia de gol a la lliga nacional|trans-title=Guillaume López, goal guarantee in the national league|language=ca|publisher=[[Radio and Television of Andorra]]|date=7 March 2022|access-date=11 May 2025}}</ref> 
+
+One year later, he signed for Andorran side [[FC Santa Coloma]], where he made twenty-four league appearances and scored twenty-one goals. Ahead of the [[2022–23 Primera Divisió|2022–23 season]] he signed for Andorran side [[Atlètic Club d'Escaldes]], here he was the top scorer of the [[2023–24 Primera Divisió]] with twenty goals while playing for the club.<ref>{{Cite web|url=https://www.andorraesportiu.com/guillaume-lopez-si-la-seleccio-vol-jo-estic-disponible/|title=Guillaume López: "Si la selecció vol, jo estic disponible"|trans-title=Guillaume López: "If the national team wants, I am available"|language=ca|publisher=Andorra Esportiu|date=21 June 2024|access-date=11 May 2025}}</ref> During the summer of 2024, he signed for Andorran side [[Inter Club d'Escaldes]].
+
+==International career==
+López is an Andorra international. On 24 March 2025, he debuted for the [[Andorra national football team]] during a 0–3 away loss to the [[Albania national football team]] for [[2026 FIFA World Cup qualification]].  
+
+==Career statistics==
+===International===
+{{Updated|match played 13 November 2025}}<ref name="NFT">{{NFT player|98906|access-date=22 January 2026}}</ref>
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|[[Andorra national football team|Andorra]]
+|2025||8||1
+|-
+!colspan="2"|Total
+!8!!1
+|}
+
+:''Scores and results list Andorra's goal tally first, score column indicates score after each López goal.''
+{| class="wikitable sortable"
+|+ List of international goals scored by Guillaume López<ref name="NFT"/>
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+!scope="col" class="unsortable"|{{Abbr|Ref.|Reference}}
+|-
+|style="text-align:center"|1
+|{{dts|14 October 2025}}
+|[[Estadi de la FAF]], [[Encamp]], Andorra
+|{{fb|Serbia}}
+|style="text-align:center"|1–0
+|style="text-align:center"|1–3
+|[[2026 FIFA World Cup qualification (UEFA)|2026 FIFA World Cup qualification]]
+|<ref>{{Cite web|title=Andorra vs. Serbia|url=https://www.national-football-teams.com/matches/report/42512/Andorra_Serbia.html|website=National Football Teams|access-date=22 January 2026}}</ref>
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Soccerway|473850}}
+
+{{DEFAULTSORT:López Guillaume}}
+[[Category:1999 births]]
+[[Category:Living people]]
+[[Category:Andorran men's footballers]]
+[[Category:French men's footballers]]
+[[Category:21st-century French sportsmen]]
+[[Category:Men's association football forwards]]
+[[Category:Championnat National 1 players]]
+[[Category:Championnat National 2 players]]
+[[Category:Primera Divisió players]]
+[[Category:Andorra men's international footballers]]
+[[Category:Footballers from Toulon]]
+[[Category:Inter Club d'Escaldes players]]
+[[Category:Marignane Gignac Côte Bleue FC players]]
+[[Category:UE Engordany players]]
+[[Category:FC Santa Coloma players]]
+[[Category:Atlètic Club d'Escaldes players]]

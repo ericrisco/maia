@@ -1,0 +1,757 @@
+{{short description|Andorran tennis player (born 2005)}}
+{{family name hatnote|Jiménez|Kasintseva|lang=Catalan}}
+{{Use dmy dates|date=January 2020}}
+{{Infobox tennis biography
+| name                  = Victoria Jiménez Kasintseva
+| fullname              =
+| image                 = Jimenez Kasintseva WMQ23 (53061704296).jpg
+| caption               = Jiménez Kasintseva at the [[2023 Wimbledon Championships]]
+| country               = {{AND}}
+| residence             = [[Barcelona]], Spain
+| birth_date            = {{Birth date and age|2005|8|9|df=y}}
+| birth_place           = [[Andorra la Vella]], Andorra
+| turnedpro             = 2020
+| height                = 1.80 m
+| plays                 = Left-handed (two-handed backhand)
+| careerprizemoney      = US$ 1,151,596
+| coach                 = Joan Jiménez Guerra
+| singlesrecord         = {{tennis record|won=185|lost=146}}
+| singlestitles         = 0 WTA, 5 ITF
+| highestsinglesranking = No. 89 (16 March 2026)
+| currentsinglesranking = No. 122 (3 August 2026)
+| AustralianOpenresult  = Q3 ([[2023 Australian Open – Women's singles qualifying|2023]])
+| FrenchOpenresult      = Q1 ([[2022 French Open – Women's singles qualifying|2022]], [[2023 French Open – Women's singles qualifying|2023]], [[2025 French Open – Women's singles qualifying|2025]], [[2026 French Open – Women's singles qualifying|2026]])
+| Wimbledonresult       = 1R ([[2026 Wimbledon Championships – Women's singles|2026]])
+| USOpenresult          = 1R ([[2025 US Open – Women's singles|2025]])
+| doublesrecord         = {{tennis record|won=26|lost=37}}
+| doublestitles         = 1 ITF
+| highestdoublesranking = No. 309 (31 October 2022)
+| currentdoublesranking = No. 1,090 (3 August 2026)
+| updated               = 8 August 2026
+}}
+'''Victoria Jiménez Kasintseva''' (born 9 August 2005) is an Andorran professional [[tennis]] player. On 16 March 2026, she reached a career-high singles ranking by the [[Women's Tennis Association|WTA]] of 89, the first Andorran player, female or male, to break into the top 100 in the tennis rankings in the [[History of tennis|Open Era]].<ref>{{Cite web |date=2 March 2026 |title=Rankings Watch: Jimenez Kasintseva makes Andorran history; Bucsa vaults spots|url=https://www.wtatennis.com/news/4460733/rankings-watch-bucsas-32-place-leap-jimenez-kasintsevas-andorran-record |access-date=2 March 2026 |website=WTA Tour |language=en}}</ref>
+
+==Early life and background==
+Victoria Jiménez Kasintseva was born in [[Andorra la Vella]],<ref>[https://www.donasecret.com/personatge-del-mes/vicky-jimenez-princesa-del-roland-garros/ Vicky Jiménez, princesa del Roland Garros]</ref> Andorra to Andorran father Joan Jiménez Guerra and Russian mother Yulia Kasintseva.<ref>{{cite web |last1=Albarrán |first1=Nacho |title=Víctoria Jiménez, andorrana de 14 años, gana el torneo júnior: "Nadal es mi favorito de todos" |url=https://as.com/tenis/2020/02/01/open_australia/1580537835_903431.html |website=Diario AS |access-date=25 April 2024 |language=es |date=7 February 2020}}</ref> Her father is a former tennis professional who reached a career-high [[Association of Tennis Professionals|ATP Tour]] ranking of 505.<ref name="SPORT">{{cite web |last1=Boti |first1=David |title=Victoria Jiménez, la andorrana de 14 años que enamora en Melbourne |url=https://www.sport.es/es/noticias/open-de-australia-2020/victoria-jimenez-andorrana-enamora-melbourne-7830332 |website=SPORT |access-date=25 April 2024 |language=es |date=31 January 2020}}</ref> Her brother, Joan, also plays tennis. She spent three years of her childhood living in Kentucky in the United States from age 4 to age 8.<ref name="Dona Secret">{{cite web |last1=Grau |first1=Mari Carmen |title=Joan i Vicky Jiménez, tàndem guanyador |url=https://www.donasecret.com/entrevistes/joan-vicky-jimenez-guanyador/ |website=Dona Secret |language=ca |date=19 March 2020}}</ref><ref>{{cite web |last1=Gastiaburú |first1=Analucía |title=Victoria Jiménez Kasintseva, de Andorra para el mundo |url=https://settenis.com.ar/victoria-jimenez-kasintseva-de-andorra-para-el-mundo/ |website=Set Tenis |access-date=26 April 2024 |language=es |date=30 December 2021}}</ref>
+
+She began playing tennis at the age of three in 2008,<ref>{{cite web |last1=Tan |first1=Gillian |title=Juniors wrap: Jimenez Kasintseva, Mayot earn AO2020 glory |url=https://ausopen.com/articles/news/juniors-wrap-jimenez-kasintseva-mayot-earn-ao2020-glory |website=Australian Open |access-date=25 April 2024 |date=1 February 2020}}</ref> and currently trains in Barcelona with her father.<ref name="SPORT" /><ref>{{cite web |last1=Ciriza |first1=Alejandro |title=Jiménez Kasintseva, la luz de Andorra |url=https://elpais.com/deportes/2020/02/01/actualidad/1580543596_522611.html |website=El País |access-date=25 April 2024 |language=es |date=1 February 2020}}</ref> She speaks Spanish, English, French, and Russian fluently, in addition to her native [[Catalan language|Catalan]].<ref>{{cite web |last1=Macpherson |first1=Alex |title=Conoce a Victoria Jiménez Kasintseva, la pionera adolescente de Andorra |url=https://www.wtatennis.com/es/news/2798471/conoce-a-victoria-jim-nez-kasintseva-la-pionera-adolescente-de-andorra |website=Women's Tennis Association |access-date=25 April 2024 |language=es |date=21 September 2022}}</ref><ref>{{cite web |last1=Solsona |first1=Joan |title=Victoria Jiménez Kasintseva hace historia para Andorra: gana el júnior de Australia con 14 años |url=https://www.marca.com/tenis/open-australia/2020/02/01/5e34f72eca47412b5a8b462f.html |website=MARCA |access-date=25 April 2024 |language=es |date=1 February 2020}}</ref>
+
+==Career==
+===Juniors===
+In 2020, Jiménez Kasintseva won the [[2020 Australian Open – Girls' singles|Australian Open girls' singles]] title as the youngest player in the draw, defeating [[Weronika Baszak]] in the final.<ref>{{cite web |last1=Ryan |first1=Peter |title=A 14-year-old snares junior girls' Australian Open |url=https://www.theage.com.au/sport/tennis/a-14-year-old-snares-junior-girls-australian-open-20200201-p53wua.html |website=The Age |access-date=25 April 2024 |date=1 February 2020}}</ref><ref>{{cite web |last1=Phelan |first1=Jason |title=Andorran teen wins Aust Open girls' title |url=https://www.northweststar.com.au/story/6609186/andorran-teen-wins-aust-open-girls-title/ |website=The North West Star |access-date=25 April 2024 |date=1 February 2020}}</ref> She was the first Andorran to win a junior major title, as well as the youngest player to win a major final since [[Coco Gauff]] at the [[2018 French Open]].<ref>{{cite web |last1=McCarvel |first1=Nick |title=French boys set for final battle as Jimenez Kasintseva makes history |url=https://www.itftennis.com/en/news-and-media/articles/french-boys-set-for-final-battle-as-jimenez-kasintseva-makes-history/ |website=International Tennis Federation |access-date=25 April 2024 |date=31 January 2020}}</ref> She has won eight singles titles on the [[ITF Junior Circuit]] and one doubles title, and she achieved a career-high junior ranking of No. 1 on 9 March 2020.
+
+====Grand Slam performance====
+Singles:
+* [[Australian Open]]: '''W''' (2020)
+* [[French Open]]: QF (2021)
+* [[Wimbledon Championships|Wimbledon]]: SF (2021)
+* [[US Open (tennis)|US Open]]: QF (2021)
+
+Doubles:
+* Australian Open: 1R (2020)
+* French Open: SF (2021)
+* Wimbledon: 1R (2021)
+* US Open: SF (2021)
+
+===2021: Professional debut===
+At the age of 15, Jiménez Kasintseva made her [[WTA Tour]] main-draw debut as a wildcard at the [[2021 Mutua Madrid Open – Women's singles|2021 Madrid Open]]. She was the youngest player and the first from Andorra to compete in a WTA tournament main draw.<ref>{{cite web |last1=Solsona |first1=Joan |title=Victoria Jiménez Kasintseva, una niña de 15 años entre gigantes |url=https://www.marca.com/tenis/mutua-madrid-open/2021/04/30/608bc77e22601dd1658b4586.html |website=MARCA |access-date=25 April 2024 |language=es |date=30 April 2021}}</ref> Jiménez Kasintseva lost to [[Kiki Bertens]] in the first round.<ref>{{cite web|url=https://www.wtatennis.com/news/2122391/former-champions-bertens-kvitova-reach-madrid-second-round|title=Former champions Bertens, Kvitova reach Madrid second round|publisher=Women's Tennis Association|accessdate=26 July 2025}}</ref> She won her first ITF singles title in Aparecida de Goiânia<ref>{{cite web |last1=Sansaloni |first1=David |title=Vicky I de Goiânia |url=https://www.elperiodic.ad/noticia/89296/vicky-i-de-goiania |website=El Periòdic d'Andorra |access-date=25 April 2024 |language=ca |date=15 November 2021}}</ref> and she reached the final in [[ITF World Tennis Tour Maspalomas|Maspalomas]], where she was defeated by [[Arantxa Rus]].<ref>{{cite web |last1=Álvarez |first1=Ivan |title=Vicky Jiménez rep elogis després de brillar a Maspalomas |url=https://www.diariandorra.ad/esports/210824/vicky-jimenez-rep-elogis-despres-brillar-maspalomas_91753.html |website=Diari d'Andorra |access-date=26 April 2024 |language=ca |date=24 August 2021}}</ref><ref>{{cite web |last1=Sansaloni |first1=David |title=Jiménez demana pas |url=https://www.elperiodic.ad/noticia/87613/rss |website=El Periòdic d'Andorra |access-date=26 April 2024 |language=ca |date=23 August 2021}}</ref>
+
+===2022–2024: First WTA Tour quarterfinal and WTA 1000 win===
+[[File:Jimenez Kasintseva RGQ22 (7) (52129557771).jpg|thumb|right|upright|Jiménez Kasintseva at the [[2022 French Open]]]]
+Having gained entry as a lucky loser, Jiménez Kasintseva recorded her first WTA Tour wins at the [[2022 Korea Open – Women's singles|2022 Korea Open]], defeating [[Chloé Paquet]]<ref>{{cite web|url=https://www.tennismajors.com/matches/wta/hana-bank-korea-open/chloe-paquet-vs-victoria-jimenez-kasintseva
+|title=Chloe Paquet vs Victoria Jimenez Kasintseva|date=8 November 2022 |publisher=Tennis Majors|accessdate=26 July 2025}}</ref> and [[Rebecca Marino]] to become the first Andorran to reach a first Tour quarterfinal<ref>{{cite web|url=https://www.wtatennis.com/videos/2798354/seoul-jimenez-kasintseva-upsets-marino-becomes-first-andorran-in-wta-qf|title=Seoul: Jimenez Kasintseva becomes first Andorran to reach WTA QF|publisher=Women's Tennis Association|accessdate=26 July 2025}}</ref> She lost to [[Jeļena Ostapenko]] in the quarterfinals.<ref>{{cite web|url=https://www.wtatennis.com/videos/2800419/seoul-ostapenko-storms-past-jimenez-kasintseva-into-5th-sf-of-2022|title=Seoul: Ostapenko storms past Jimenez Kasintseva into 5th SF of 2022|publisher=Women's Tennis Association|accessdate=26 July 2025}}</ref>
+She won her second ITF singles title in Loulé as the top seed in the tournament,<ref>{{cite web |last1=Sanjuan |first1=Cesc |title=Nou títol per a Vicky Jiménez en el circuit ITF |url=https://www.andorradifusio.ad/esports/nou-titol-vicky-jimenez-circuit-itf |website=Andorra Difusió |access-date=25 April 2024 |language=ca |date=23 October 2022}}</ref> and won her first ITF Circuit doubles title at the [[Torneig Internacional de Tennis Femení Solgironès|Solgironès Open]], partnered with [[Renata Zarazúa]].<ref>{{cite web |title=Get to know Renata Zarazua |url=https://www.itftennis.com/en/news-and-media/articles/get-to-know-renata-zarazua/ |website=International Tennis Federation |access-date=26 April 2024 |date=3 August 2022}}</ref> Jiménez Kasintseva also reached the singles final in [[2022 Bendigo International|Bendigo]], losing to [[Ysaline Bonaventure]].<ref>{{cite web |last1=Tornos |first1=Bruno |title=Bonaventure deja a Kasintseva con la miel en los labios |url=https://canaltenis.com/kasintseva-final-bendigo/ |website=Canal Tenis |access-date=26 April 2024 |language=es |date=9 January 2022}}</ref><ref>{{cite web |last1=Romero |first1=Joel |title=Vicky Jiménez subcampiona de l'ITF de Bendigo |url=https://www.andorradifusio.ad/esports/vicky-jimenez-subcampiona-itf-bendigo |website=Andorra Difusió |access-date=26 April 2024 |language=ca |date=9 January 2022}}</ref>
+
+In 2023, she received wildcards into the main draw at the [[WTA 1000 tournaments|WTA 1000]] tournaments in [[2023 Miami Open – Women's singles|Miami]] and [[2023 Mutua Madrid Open – Women's singles|Madrid]], losing in the first round at both. That year, she won two W25 titles, at Boca Raton<ref>{{cite web |last1=Basco |first1=Marc |title=Vicky Jiménez guanya el torneig de Boca Raton |url=https://www.diariandorra.ad/esports/230312/vicky-jimenez-guanya-torneig-boca-raton_121053.html |website=Diari d'Andorra |access-date=25 April 2024 |language=ca |date=12 March 2023}}</ref> and Austin.<ref>{{cite web |last1=Álvarez |first1=Ivan |title=Vicky Jiménez guanya a Austin |url=https://www.diariandorra.ad/esports/231120/vicky-jimenez-guanya-austin_132454.html |website=Diari d'Andorra |access-date=25 April 2024 |language=ca |date=20 November 2023}}</ref>
+
+She also received a wildcard into the main draw at the [[2024 Mutua Madrid Open – Women's singles|2024 Madrid Open]], where she defeated [[Zhu Lin (tennis)|Zhu Lin]] in the first round for her first WTA 1000 win,<ref>{{cite web|url=https://www.wtatennis.com/videos/3979605/jimenez-kasintseva-bests-zhu-in-madrid-to-notch-first-wta-1000-win|title=Jimenez Kasintseva bests Zhu in Madrid to notch first WTA 1000 wi|publisher=Women's Tennis Association|accessdate=26 July 2025}}</ref><ref>{{cite web|url=https://www.tennismajors.com/wta-tour-news/madrid-open-jimenez-kasintseva-reaches-second-round-756794.html|title=Madrid Open: Jimenez Kasintseva reaches second round|date=24 April 2024 |publisher=Tennis Majors|accessdate=26 July 2025}}</ref> then lost to [[Jasmine Paolini]].<ref>{{cite web|url=https://www.tennismajors.com/wta-tour-news/madrid-open-paolini-moves-into-third-round-757309.html|title=Madrid Open: Paolini races into third round|date=26 April 2024 |publisher=Tennis Majors|accessdate=26 July 2025}}</ref>
+
+===2025–2026: Historic major, top 100, WTA 1000 debuts===
+In March 2025, Jiménez Kasintseva finished runner-up at the [[2025 Antalya Challenger 2 – Singles|Antalya Challenger]], losing to [[Olga Danilović]].<ref>{{cite web|url=https://www.tennismajors.com/wta-tour-news/megasaray-hotels-open-2-danilovic-brushes-aside-kasintseva-to-lift-the-title-815404.html|title=Megasaray Hotels Open 2: Danilovic brushes aside Kasintseva to lift the title|date=30 March 2025 |publisher=Tennis Majors|accessdate=26 July 2025}}</ref> She also reached the final at the [[2025 Makarska Open – Singles|WTA 125 Makarska Open]] in Croatia, losing to [[Sára Bejlek]].<ref>{{cite web|url=https://www.tennismajors.com/wta-tour-news/makarska-open-bejlek-wins-the-final-825119.html|title=Makarska Open: Bejlek wins the final|date=8 June 2025 |publisher=Tennis Majors|accessdate=26 July 2025}}</ref>
+
+In August 2025, Jiménez Kasintseva [[2025 US Open – Women's singles qualifying|qualified]] for the main draw of the [[2025 US Open – Women's singles|US Open]], making her debut appearance in the main draw of a Grand Slam tournament. With her qualification, she became the first Andorran player, male or female, to compete in the main draw of a major.<ref>{{cite news |last=Macpherson |first=Alex |url=https://www.wtatennis.com/news/4346784/ito-tjen-set-us-open-qualifying-meeting-valentova-jones-advance |title=Tjen, Ito set US Open qualifying meeting; Valentova, Jones advance |date=22 August 2025 |publisher=[[Women's Tennis Association]] |access-date=23 August 2025}}</ref><ref>{{cite web|url=https://www.wtatennis.com/news/4348565/us-open-2025s-grand-slam-debuts-tjen-jimenez-kasintseva-pareja-and-more|title=US Open 2025's Grand Slam debuts: Tjen, Jimenez Kasintseva, Pareja and more|date=24 August 2025|publisher=[[Women's Tennis Association]]}}</ref> She lost to [[Maya Joint]] in the first round.<ref>{{cite web|url=https://www.theguardian.com/sport/2025/aug/26/australias-maya-joint-holds-her-nerve-to-reach-us-open-second-round|title=Alex de Minaur serves up clinical display while Maya Joint holds her nerve at US Open|publisher=The Guardian|accessdate=28 August 2025}}</ref>
+
+At the [[2026 Mérida Open – Singles|2026 Mérida Open]], she qualified for the main-draw and defeated [[Yulia Putintseva]]<ref>{{cite web|url=https://www.wtatennis.com/videos/4455930/jimenez-kastintseva-reels-in-putintseva-from-4-2-down-in-decider|title=In Merida, Jimenez Kasintseva reels in Putintseva from 4-2 down in decider|publisher=Women's Tennis Association|accessdate=7 March 2026}}</ref> and eighth seed [[Magda Linette]] to make it through to the quarterfinals,<ref>{{cite web|url=https://www.wtatennis.com/videos/4457351/jimenez-kasintseva-overcomes-linette-in-320-epic-to-make-merida-quarters|title=Jimenez Kasintseva overcomes Linette in 3:20 epic to make Merida quarters|publisher=Women's Tennis Association|accessdate=7 March 2026}}</ref> at which point her run was ended by fellow qualifier [[Zhang Shuai]].<ref>{{cite web|url=https://www.wtatennis.com/videos/4459182/zhang-wins-battle-of-the-qualifiers-handles-jimenez-kasintseva-to-reach-merida-semis|title=Zhang wins battle of the qualifiers in Merida, into first WTA 500 semifinal since 2022|publisher=Women's Tennis Association|accessdate=7 March 2026}}</ref> Despite the loss, Jiménez Kasintseva moved up 25 places in the WTA rankings to No. 97 on 2 March 2026, becoming the first player from Andorra – female or male – to break into the world's top 100.<ref>{{cite web|url=https://www.wtatennis.com/news/4460733/rankings-watch-bucsas-32-place-leap-jimenez-kasintsevas-andorran-record|title=Rankings Watch: Bucsa vaults 32 spots, Jimenez Kasintseva makes Andorran history|publisher=Women's Tennis Association|accessdate=7 March 2026}}</ref> Later that week at the WTA 1000 tournament in [[2026 BNP Paribas Open – Women's singles|Indian Wells]], she again progressed through the qualifying rounds to earn a spot in the main draw and then overcame [[Caty McNally]],<ref>{{cite web|url=https://www.wtatennis.com/videos/4462355/jimenez-kasintseva-soars-past-mcnally-to-reach-indian-wells-second-round|title=Jimenez Kasintseva soars past McNally to reach Indian Wells second round|publisher=Women's Tennis Association|accessdate=7 March 2026}}</ref> before losing to 16th seed [[Naomi Osaka]] in the second round.<ref>{{cite web|url=https://en.tennistemple.com/video/osaka-defeats-jimenez-kasintseva-at-indi/n7ytQ|title=Osaka defeats Jimenez Kasintseva at Indian Wells 2026 – Round 2|publisher=Tennis Temple|accessdate=7 March 2026}}</ref>
+
+==Performance timeline==
+{{Performance key}}''Only main-draw results in WTA Tour, Grand Slam tournaments, Fed Cup/Billie Jean King Cup and Olympic Games are included in win–loss records.''
+
+===Singles===
+''Current through the [[2026 US Open – Women's singles|2026 US Open]].''
+
+{|class="wikitable" style="text-align:center"
+!Tournament
+![[2021 WTA Tour|2021]]
+![[2022 WTA Tour|2022]]
+![[2023 WTA Tour|2023]]
+![[2024 WTA Tour|2024]]
+![[2025 WTA Tour|2025]]
+![[2026 WTA Tour|2026]]
+!{{Abbr|SR|Strike rate}}
+!{{Abbr|W–L|Win–loss}}
+|-
+| colspan="10" align="left" |'''[[Grand Slam (tennis)|Grand Slam tournaments]]'''
+|-
+| align="left" | [[Australian Open]]
+|bgcolor="f0f8ff"|[[2021 Australian Open – Women's singles qualifying|Q1]]
+|bgcolor="f0f8ff"|[[2022 Australian Open – Women's singles qualifying|Q2]]
+|bgcolor="f0f8ff"|[[2023 Australian Open – Women's singles qualifying|Q3]]
+|A
+|bgcolor="f0f8ff"|[[2025 Australian Open – Women's singles qualifying|Q1]]
+|bgcolor="f0f8ff"|[[2026 Australian Open – Women's singles qualifying|Q2]]
+|0 / 0
+|0–0
+|-
+| align="left" | [[French Open]]
+|A
+|bgcolor="f0f8ff"|[[2022 French Open – Women's singles qualifying|Q1]]
+|bgcolor="f0f8ff"|[[2023 French Open – Women's singles qualifying|Q1]]
+|A
+|bgcolor="f0f8ff"|[[2025 French Open – Women's singles qualifying|Q1]]
+|bgcolor="f0f8ff"|[[2026 French Open – Women's singles qualifying|Q1]]
+|0 / 0
+|0–0
+|-
+| align="left" | [[Wimbledon Championships|Wimbledon]]
+|A
+|bgcolor=f0f8ff|[[2022 Wimbledon Championships – Women's singles qualifying|Q3]]
+|bgcolor=f0f8ff|[[2023 Wimbledon Championships – Women's singles qualifying|Q1]]
+|A
+|bgcolor=f0f8ff|[[2025 Wimbledon Championships – Women's singles qualifying|Q2]]
+|bgcolor=afeeee|[[2026 Wimbledon Championships – Women's singles|1R]]
+|0 / 1
+|0–1
+|-
+| align="left" | [[US Open (tennis)|US Open]]
+|A
+|bgcolor=f0f8ff|[[2022 US Open – Women's singles qualifying|Q1]]
+|bgcolor=f0f8ff|[[2023 US Open – Women's singles qualifying|Q1]]
+|bgcolor=f0f8ff|[[2024 US Open – Women's singles qualifying|Q1]]
+|bgcolor=afeeee|[[2025 US Open – Women's singles|1R]]
+|bgcolor=f0f8ff|[[2026 US Open – Women's singles|Q1]]
+|0 / 1
+|0–1
+|- style="background:#efefef;font-weight:bold"
+| align="left" |Win–loss
+|0–0
+|0–0
+|0–0
+|0–0
+|0–1
+|0–1
+|0 / 2
+|0–2
+|-
+| colspan="10" align="left" |'''[[WTA 1000 tournaments|WTA 1000]]'''
+|-
+|align=left |[[Dubai Tennis Championships|Dubai]] / [[WTA Qatar Open|Qatar Open]]{{efn|The first [[WTA Premier tournaments|Premier 5]] event of the year has switched back and forth between the [[Dubai Tennis Championships]] and the [[Qatar Ladies Open]] since 2009. Dubai was classified as a Premier 5 event from 2009 to 2011 before being succeeded by Doha for the 2012–2014 period. In 2015, Dubai regained its Premier 5 status while Doha was demoted to Premier status. The Premier 5 tournaments were reclassified as [[WTA 1000 tournaments]] in 2021.|name=DubaiDoha}}
+|A
+|A
+|A
+|A
+|A
+|A
+|0 / 0
+|0–0
+|-
+|align=left |[[Indian Wells Open]]
+|A
+|A
+|A
+|A
+|A
+|bgcolor="afeeee"|[[2026 BNP Paribas Open – Women's singles|2R]]
+|0 / 1
+|1–1
+|-
+|align=left |[[Miami Open (tennis)|Miami Open]]
+|A
+|A
+|bgcolor="afeeee"|[[2023 Miami Open – Women's singles|1R]]
+|bgcolor="afeeee"|[[2024 Miami Open – Women's singles|1R]]
+|A
+|bgcolor=f0f8ff|[[2026 Miami Open – Women's singles|Q1]]
+|0 / 2
+|0–2
+|-
+| align="left" |[[Madrid Open (tennis)|Madrid Open]]
+|bgcolor="afeeee"|[[2021 Mutua Madrid Open – Women's singles|1R]]
+|A
+|bgcolor="afeeee"|[[2023 Mutua Madrid Open – Women's singles|1R]]
+|bgcolor="afeeee"|[[2024 Mutua Madrid Open – Women's singles|2R]]
+|bgcolor="afeeee"|[[2025 Mutua Madrid Open – Women's singles|1R]]
+|bgcolor="afeeee"|[[2026 Mutua Madrid Open – Women's singles|1R]]
+|0 / 5
+|1–5
+|-
+|align=left |[[Italian Open (tennis)|Italian Open]]
+|A
+|A
+|A
+|A
+|A
+|bgcolor=f0f8ff|[[2026 Italian Open – Women's singles|Q1]]
+|0 / 0
+|0–0
+|-
+|align=left |[[Canadian Open (tennis)|Canadian Open]]
+|A
+|A
+|A
+|A
+|A
+|1R
+|0 / 1
+|0–1
+|-
+|align=left |[[Cincinnati Open]]
+|A
+|A
+|A
+|A
+|A
+|bgcolor=f0f8ff|[[2026 Cincinnati Open – Women's singles|Q1]]
+|0 / 0
+|0–0
+|-
+|align=left |[[Wuhan Open]]
+|A
+| style=color:#767676|NH
+|A
+|A
+|A
+|
+|0 / 0
+|0–0
+|-
+|align=left |[[China Open (tennis)|China Open]]
+|A
+| style=color:#767676|NH
+|A
+|A
+|bgcolor="afeeee"|[[2025 China Open – Women's singles|1R]]
+|
+|0 / 1
+|0–1
+|-
+|align=left |[[Guadalajara Open Akron|Guadalajara Open]]
+| style=color:#767676|NH
+|A
+|A
+|A
+| style=color:#767676|NMS
+|
+|0 / 0
+|0–0
+|- style="background:#efefef;font-weight:bold"
+| align="left" |Win–loss
+|0–1
+|0–0
+|0–2
+|1–2
+|0–2
+|1–2
+|0 / 9
+|2–9
+|-
+| colspan="8" align="left" |'''Career statistics'''
+|
+|- style="background:#efefef;font-weight:bold"
+|
+|[[2021 WTA Tour|2021]]
+|[[2022 WTA Tour|2022]]
+|[[2023 WTA Tour|2023]]
+|[[2024 WTA Tour|2024]]
+|[[2025 WTA Tour|2025]]
+|[[2026 WTA Tour|2026]]
+|{{Abbr|SR|Strike rate}}
+|{{Abbr|W–L|Win–loss}}
+|-bgcolor=efefef
+|align=left|Tournaments
+|1
+|2
+|2
+|2
+|8
+|3
+| colspan="2" |'''Career total: 15'''
+|- style="background:#efefef;font-weight:bold"
+|align=left|Titles
+|0
+|0
+|0
+|0
+|0
+|0
+| colspan="2" |Career total: 0
+|- style="background:#efefef;font-weight:bold"
+|align=left|Finals
+|0
+|0
+|0
+|0
+|0
+|0
+| colspan="2" |Career total: 0
+|-bgcolor=efefef
+|align=left|Hard win–loss
+|0–0
+|2–2
+|0–1
+|0–1
+|2–6
+|3–2
+|0 / 12
+|7–12
+|-bgcolor=efefef
+|align=left|Clay win–loss
+|0–1
+|0–0
+|0–1
+|1–1
+|1–2
+|0–1
+|0 / 6
+|2–6
+|-bgcolor=efefef
+|align=left|Grass win–loss
+|0–0
+|0–0
+|0–0
+|0–0
+|0–0
+|0–0
+|0 / 0
+|0–0
+|- style="background:#efefef;font-weight:bold"
+|align=left|Overall win–loss
+|0–1
+|2–2
+|0–2
+|1–2
+|3–8
+|3–3
+|0 / 18
+|9–18
+|-bgcolor=efefef
+|align=left|Year-end ranking
+|373
+|129
+|303
+|151
+|107
+|
+| colspan="2" |'''$1,151,596'''
+|}
+
+==WTA 125 finals==
+
+===Singles: 2 (2 runner-ups)===
+{|class="sortable wikitable"
+!Result
+!class="unsortable"|W–L
+!Date
+!Tournament
+!Surface
+!Opponent
+!class="unsortable"|Score
+|-
+|style="background:#ffa07a;"|Loss
+|<small>0–1</small>
+|[[2025 Antalya Challenger 2 – Singles|{{dts|Mar 2025}}]]
+|style="background:silver;"|[[Antalya Challenger]], Turkey
+|Clay
+|{{flagicon|SRB}} [[Olga Danilović]]
+|2–6, 3–6
+|-
+|style="background:#ffa07a;"|Loss
+|<small>0–2</small>
+|[[2025 Makarska Open – Singles|{{dts|Jun 2025}}]]
+|style="background:silver;"|[[Makarska International Championships|Makarska International]], Croatia
+|Clay
+|{{flagicon|CZE}} [[Sára Bejlek]]
+|0–6, 1–6
+|}
+
+==ITF Circuit finals==
+
+===Singles: 10 (5 titles, 5 runner-ups)===
+{|
+|- valign=top
+|
+{|class="wikitable" style=font-size:85%
+!Legend
+|- style="background:#f88379;"
+| W100 tournaments
+|- style="background:#addfad;"
+|W60 tournaments
+|- style="background:#ffe4c4;"
+|W40/50 tournaments
+|- style="background:lightblue;"
+|W25/35 tournaments
+|}
+|
+{|class="wikitable" style=font-size:85%
+!Finals by surface
+|-
+|Hard (3–3)
+|-
+|Clay (2–2)
+|}
+|}
+
+{|class="sortable wikitable nowrap"
+!Result
+!class=unsortable|W–L
+!{{ns}}Date{{ns}}
+!Tournament
+!Tier
+!Surface
+!Opponent
+!class=unsortable|Score
+|-
+| style="background:#ffa07a;"|Loss
+| <small>0–1</small>
+| [[2021 ITF World Tennis Tour Maspalomas – Singles|Aug 2021]]
+| bgcolor=addfad|[[ITF World Tennis Tour Maspalomas|ITF San Bartolomé]], Spain
+| bgcolor=addfad|W60
+| Clay
+| {{flagicon|NED}} [[Arantxa Rus]]
+| 0–6, 1–6
+|-
+| style="background:#98fb98;"|Win
+| <small>1–1</small>
+| [[2021 ITF Women's World Tennis Tour (October–December)|Nov 2021]]
+| style="background:lightblue;"|ITF Aparecida de Goiania, Brazil
+| style="background:lightblue;"|W25
+| Clay
+| {{flagicon|HUN}} [[Panna Udvardy]]
+| 6–3, 7–5
+|-
+| style="background:#ffa07a;"|Loss
+| <small>1–2</small>
+| [[2022 Bendigo International – Women's singles|Jan 2022]]
+| bgcolor=addfad|[[Bendigo International (tennis)|Bendigo International]], Australia
+| bgcolor=addfad|W60+H
+| Hard
+| {{flagicon|BEL}} [[Ysaline Bonaventure]]
+| 3–6, 1–6
+|-
+| style="background:#98fb98;"|Win
+| <small>2–2</small>
+| [[2022 ITF Women's World Tennis Tour (October–December)|Oct 2022]]
+| style="background:lightblue;"|ITF Loulé, Portugal 
+| style="background:lightblue;"|W25
+| Hard
+| {{flagicon|UKR}} [[Katarina Zavatska]]
+| 6–1, 6–4
+|-
+| style="background:#98fb98;"|Win
+| <small>3–2</small>
+| Mar 2023
+| style="background:lightblue;"|ITF Boca Raton, United States 
+| style="background:lightblue;"|W25
+| Hard
+| {{flagicon|USA}} [[Whitney Osuigwe]]
+| 6–2, 6–2
+|-
+| style="background:#98fb98;"|Win
+| <small>4–2</small>
+| Nov 2023
+| style="background:lightblue;"|ITF Austin, United States
+| style="background:lightblue;"|W25
+| Hard
+| {{flagicon|USA}} [[Hanna Chang (tennis)|Hanna Chang]]
+| 6–0, 6–2
+|-
+| style="background:#ffa07a;"|Loss
+| <small>4–3</small>
+| Jan 2024
+| style="background:lightblue;"|ITF Monastir, Tunisia
+| style="background:lightblue;"|W35
+| Hard
+| {{flagicon|CAN}} [[Carson Branstine]]
+| 2–6, 2–6
+|-
+| style="background:#ffa07a;"|Loss
+| <small>4–4</small> 
+| May 2024
+| style="background:#ffe4c4;"|ITF Otočec, Slovenia
+| style="background:#ffe4c4;"|W50
+| Clay
+| {{flagicon|NED}} [[Anouk Koevermans]]
+| 6–1, 4–6, 5–7
+|-
+| style="background:#ffa07a;"|Loss
+| <small>4–5</small> 
+| [[2024 Open Araba en Femenino – Singles|Jul 2024]]
+| style="background:#f88379;"|[[Open Araba en Femenino]], Spain
+| style="background:#f88379;"|W100
+| Hard
+| {{flagicon|PHI}} [[Alexandra Eala]]
+| 4–6, 4–6
+|-
+| style="background:#98fb98;"|Win
+| <small>5–5</small>
+| Sep 2024
+| style="background:#addfad;"|[[Lisboa Belém Open]], Portugal
+| style="background:#addfad;"|W75
+| Clay
+| {{flagicon|ESP}} [[Guiomar Maristany]]
+| 6–4, 6–2
+|}
+
+===Doubles: 2 (1 title, 1 runner-up)===
+{|
+|- valign=top
+|
+{|class="wikitable" style=font-size:85%
+!Legend
+|- style="background:#f88379;"
+|W100 tournaments
+|- style="background:#f0f8ff;"
+|W15 tournaments
+|}
+|
+{|class="wikitable" style=font-size:85%
+!Finals by surface
+|-
+|Clay (1–1)
+|}
+|}
+
+{|class="sortable wikitable nowrap"
+!Result
+!class="unsortable"|W–L
+!Date
+!Tournament
+!Tier
+!Surface
+!Partner
+!Opponents
+!class="unsortable"|Score
+|-
+| style="background:#ffa07a;"|Loss
+| <small>0–1</small>
+| [[2021 ITF Women's World Tennis Tour (January–March)|Mar 2021]]
+| style="background:#f0f8ff;"|ITF Amiens, France
+| style="background:#f0f8ff;"|W15
+| Clay (i)
+| {{flagicon|FRA}} [[Elsa Jacquemot]]
+| {{flagicon|AUS}} [[Seone Mendez]] <br /> {{flagicon|MEX}} [[María Portillo Ramírez]]
+| 4–6, 3–6
+|-
+| style="background:#98fb98;"|Win
+| <small>1–1</small>
+| [[2022 Torneig Internacional de Tennis Femení Solgironès – Doubles|May 2022]]
+| style="background:#f88379;"|[[Torneig Internacional de Tennis Femení Solgironès|Solgironès Open]], Spain
+| style="background:#f88379;"|W100+H
+| Clay
+| {{flagicon|MEX}} [[Renata Zarazúa]]
+| {{flagicon|GBR}} [[Alicia Barnett]] <br /> {{flagicon|GBR}} [[Olivia Nicholls]]
+| 6–4, 2–6, [10–8]
+|}
+
+==Junior finals==
+
+===Grand Slam tournaments===
+
+====Singles: 1 (title)====
+{|class="wikitable"
+!Result
+!Year
+!Tournament
+!Surface
+!Opponent
+!Score
+|-
+|style="background:#98fb98;"|Win
+|[[2020 Australian Open – Girls' singles|2020]]
+|style="background:#ffc;"|[[Australian Open (tennis)|Australian Open]]
+|Hard
+|{{flagicon|POL}} [[Weronika Baszak]]
+|5–7, 6–2, 6–2
+|}
+
+===ITF Junior Circuit===
+{|class="wikitable" style="font-size:85%;" width=13%
+!Legend
+|- bgcolor=#ffcccc
+|Category GA 
+|- bgcolor=#C2B280
+|Category G1 
+|- bgcolor="#ADDFAD"
+|Category G2 
+|- bgcolor="lightblue"
+|Category G3
+|- bgcolor=#ffecb2
+|Category G4 
+|-
+|Category G5 
+|}
+
+====Singles: 10 (8–2)====
+{|class="sortable wikitable nowrap"
+!Result
+!class="unsortable"|W–L
+!Date
+!Tournament
+!Grade
+!Surface
+!Opponent
+!class="unsortable"|Score
+|-
+| style="background:#98fb98;"| Win
+| <small>1–0</small>
+| Apr 2019
+| ITF Tarragona, Spain
+| G5
+| Clay
+| {{flagicon|SUI}} Sebastianna Scilipoti
+| 6–2, 6–7<sup>(5)</sup>, 7–6<sup>(1)</sup>
+|- 
+| style="background:#98fb98;"| Win
+| <small>2–0</small>
+| Jul 2019
+| bgcolor=#ffecb2|ITF Limelette, Belgium
+| bgcolor=#ffecb2|G4
+| Clay
+| {{flagicon|BEL}} Amelia Waligora
+| 6–4, 6–0
+|- 
+| style="background:#98fb98;"| Win
+| <small>3–0</small>
+| Aug 2019
+| bgcolor="lightblue"|ITF Barcelona, Spain
+| bgcolor="lightblue"|G3
+| Clay
+| {{flagicon|NED}} [[Anouck Vrancken Peeters|Anouck Peeters]]
+| 6–4, 3–6, 6–3
+|- 
+| style="background:#98fb98;"| Win
+| <small>4–0</small>
+| Sep 2019
+| bgcolor="lightblue"|ITF El Prat de Llobregat, Spain
+| bgcolor="lightblue"|G3
+| Clay
+| {{flagicon|SVK}} Vanda Vargova
+| 4–6, 6–2, 6–0
+|- 
+| style="background:#98fb98;"| Win
+| <small>5–0</small>
+| Nov 2019
+| bgcolor="lightblue"|ITF Saint-Cyprien, France
+| bgcolor="lightblue"|G3
+| Hard
+| {{flagicon|GBR}} Amelia Bissett
+| 6–7<sup>(3)</sup>, 6–1, 7–6<sup>(3)</sup>
+|- 
+| style="background:#98fb98;"| Win
+| <small>6–0</small>
+| Dec 2019
+| bgcolor=#ffcccc|ITF Mérida, Mexico
+| bgcolor=#ffcccc|GA
+| Hard
+| {{flagicon|CAN}} [[Mélodie Collard]]
+| 7–6<sup>(8)</sup>, 6–2
+|-
+| style="background:#98fb98;"| Win
+| <small>7–0</small>
+| Oct 2020
+| bgcolor=#C2B280|ITF Plovdiv, Bulgaria
+| bgcolor=#C2B280|G1
+| Clay
+| {{flagicon|BEL}} [[Sofia Costoulas]]
+| 6–2, 6–1
+|-
+| style="background:#ffa07a;"| Loss
+| <small>7–1</small>
+| Nov 2020
+| bgcolor=#C2B280|ITF Villena, Spain
+| bgcolor=#C2B280|G1
+| Clay
+| {{flagicon|FRA}} [[Elsa Jacquemot]]
+| 1–6, 6–4, 6–7<sup>(8)</sup>
+|-
+| style="background:#ffa07a;"| Loss
+| <small>7–2</small>
+| Mar 2021
+| bgcolor=#C2B280|ITF Villena, Spain
+| bgcolor=#C2B280|G1
+| Clay
+| {{flagicon|RUS}} [[Diana Shnaider]]
+| 4–6, 3–6
+|-
+| style="background:#98fb98;"| Win
+| <small>8–2</small>
+| Jul 2022
+| bgcolor=#C2B280|ITF Klosters, Switzerland <br />(European Championships)
+| bgcolor=#C2B280|GB1 
+| Clay
+| {{flagicon|SUI}} [[Céline Naef]]
+| 6–2, 6–3
+|}
+
+====Doubles: 3 (1–2)====
+{|class="sortable wikitable nowrap"
+!Result
+!class="unsortable"|W–L
+!Date
+!Tournament
+!Grade
+!Surface
+!Partner
+!Opponents
+!class="unsortable"|Score
+|-
+| style="background:#ffa07a;"| Loss
+| <small>0–1</small>
+| Sep 2019
+| bgcolor="lightblue"|ITF Palermo, Italy
+| bgcolor="lightblue"|G3
+| Clay
+| {{flagicon|GER}} Tea Lukic
+| {{flagicon|ITA}} Jennifer Ruggeri <br /> {{flagicon|ITA}} [[Arianna Zucchini]]
+| 6–3, 5–7, [2–10]
+|-
+| style="background:#98fb98;"| Win
+| <small>1–1</small>
+| Sep 2019
+| bgcolor="lightblue"|ITF El Prat de <br />Llobregat, Spain
+| bgcolor="lightblue"|G3
+| Clay
+| {{flagicon|ESP}} Fiona Arrese Mata
+| {{flagicon|ITA}} [[Eleonora Alvisi]] <br /> {{flagicon|FRA}} Flavie Brugnone
+| 6–3, 6–4
+|-
+| style="background:#ffa07a;"| Loss
+| <small>1–2</small>
+| Nov 2019
+| bgcolor=#C2B280|ITF Cancún, Mexico
+| bgcolor=#C2B280|G1
+| Hard
+| {{flagicon|HUN}} [[Amarissa Tóth]]
+| {{flagicon|RUS}} [[Maria Bondarenko]] <br /> {{flagicon|LAT}} [[Darja Semenistaja]]
+| 6–3, 0–6, [8–10]
+|}
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{WTA}}
+* {{ITF}}
+
+{{Australian Open girls' singles champions}}
+
+{{DEFAULTSORT:Jimenez Kasintseva, Victoria}}
+[[Category:2005 births]]
+[[Category:Living people]]
+[[Category:Andorran female tennis players]]
+[[Category:Andorran people of Russian descent]]
+[[Category:Australian Open (tennis) junior champions]]
+[[Category:Grand Slam (tennis) champions in girls' singles]]
+[[Category:Sportspeople from Andorra la Vella]]

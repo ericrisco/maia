@@ -1,0 +1,76 @@
+{{short description|Andorran footballer}}
+{{Use dmy dates|date=December 2020}}
+{{Infobox football biography
+|name=Agusti Pol
+|image=
+|fullname=
+|birth_date ={{birth date and age|df=yes|1977|1|13}}
+|birth_place=[[Andorra]]
+|death_date =
+|height=
+|position=[[Midfielder]] 
+|currentclub=
+|clubnumber=
+|youthyears1=
+|youthclubs1=
+|years1=
+|clubs1=
+|caps1= | goals1 =
+|nationalyears1=1996–2003
+|nationalteam1=[[Andorra national football team|Andorra]]
+|nationalcaps1= 28 | nationalgoals1 = 1
+|manageryears1=
+|managerclubs1=
+}}
+'''Agusti Pol''' (born 13 January 1977) is an [[Andorra]]n [[Association football|football]] player. He has played for [[Andorra national football team|Andorra national team]]. He scored Andorra first goal ever (and his only international goal) in Andorra's first international match, a 6–1 defeat by [[Estonia national football team|Estonia]] on 13 November 1996.<ref>{{cite web|last=Duret |first=Sébastien |title=Andorra - List of International Matches |url=https://www.rsssf.org/tablesa/ando-intres.html |publisher=Rec.Sport.Soccer Statistics Foundation|accessdate=13 November 2010 |date=26 April 2002 |archiveurl=https://web.archive.org/web/20101018113928/http://www.rsssf.com/tablesa/ando-intres.html |archivedate=18 October 2010 |url-status=live}}</ref>
+
+==National team statistics==
+{| class="wikitable" style="text-align:center"
+! colspan=3 | [[Andorra national football team|Andorra national team]]
+|-
+!Year!!Apps!!Goals
+|-
+|-
+|1996||1||1
+|-
+|1997||2||0
+|-
+|1998||7||0
+|-
+|1999||9||0
+|-
+|2000||0||0
+|-
+|2001||4||0
+|-
+|2002||4||0
+|-
+|2003||1||0
+|-
+!Total||28||1
+|}
+
+==International goal==
+:''Scores and results list Andorra's goal tally first.''
+{| class="wikitable"
+|-
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 13 November 1996 || [[Estadi Comunal d'Andorra la Vella]], [[Andorra la Vella]], Andorra || {{fb|Estonia}} || '''1'''–1 || 1–6 || [[exhibition game|friendly match]]
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{NFT player|pid=172}}
+
+{{DEFAULTSORT:Pol, Agusti}}
+[[Category:1977 births]]
+[[Category:Living people]]
+[[Category:Andorran men's footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:FC Andorra players]]
+[[Category:Men's association football midfielders]]
+
+{{Andorra-footy-bio-stub}}

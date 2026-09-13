@@ -1,0 +1,379 @@
+{{short description|Andorran tennis player}}
+{{BLP sources|date=September 2019}}
+{{Infobox tennis biography
+|name                              = Èric Cervós Noguer
+|image                             = 
+|caption                           = 
+|fullname                          = 
+|country                           = {{AND}}
+|residence                         = 
+|birth_date                        = {{birth date and age|df=yes|1999|5|18}} 
+|birth_place                       = 
+|height                            = 
+|weight                            = 
+|turnedpro                         = 
+|plays                             = 
+|careerprizemoney                  = 
+|college                           = 
+|singlesrecord                     = 0–0  (at [[ATP Tour]] level, [[Grand Slam (tennis)|Grand Slam]] level, and in [[Davis Cup]])
+|singlestitles                     = 0
+|highestsinglesranking             = 
+|currentsinglesranking             = 
+|doublesrecord                     = 0–0  (at [[ATP Tour]] level, [[Grand Slam (tennis)|Grand Slam]] level, and in [[Davis Cup]])
+|doublestitles                     = 0
+|highestdoublesranking             = 
+|currentdoublesranking             = 
+|Team                              = yes
+|DavisCupresult                    = 7–21
+|updated                           = 30 August 2021
+}}
+
+'''Èric Cervós Noguer''' (born 18 May 1999) is an [[Andorra]]n [[tennis]] player.
+
+Cervós Noguer represents [[Andorra Davis Cup team|Andorra]] at the [[Davis Cup]], where he has a W/L record of 7–21. He was selected to represent [[Andorra]] at the [[2017 Games of the Small States of Europe]].<ref>{{cite news |title=Seleccionats els 49 esportistes per San Marino |url=https://www.diariandorra.ad/noticies/esports/2017/05/08/seleccionats_els_esportistes_per_san_marino_115834_1128.html |access-date=29 June 2023 |work=DiariAndorra.ad |date=8 May 2017 |language=ca}}</ref>
+
+==Davis Cup==
+
+===Participations: (7–21)===
+
+{|
+|-valign=top
+|
+{|class=wikitable
+!Group membership
+|-bgcolor=#FFFFCC
+|World Group (0–0)
+|- style="background:#B0E0E6;"
+|WG Play-off (0–0)
+|-bgcolor=#CCFFCC
+|Group I (0–0)
+|-bgcolor=#FFCCFF
+|Group II (0–0)
+|-bgcolor=#99CCFF
+|Group III (2–11)
+|-bgcolor=#FFCC99
+|Group IV (5–10)
+|}
+|
+{|class=wikitable
+!Matches by surface
+|-
+|Hard (2–5)
+|-
+|Clay (5–16)
+|-
+|Grass (0–0)
+|-
+|Carpet (0–0)
+|}
+|
+{|class=wikitable 
+|-
+!Matches by type
+|-
+|Singles (3–11)
+|-
+|Doubles (4–10)
+|}
+|}
+* <small>{{increase}} {{decrease}} indicates the outcome of the Davis Cup match followed by [[Davis Cup#Ties and rubbers|the score]], date, place of event, [[Davis Cup structure|the zonal classification and its phase]], and [[Tennis court#Types of tennis courts|the court surface]].</small>
+
+{|class=wikitable
+!Rubber outcome
+!No.
+!Rubber
+!Match type (partner if any)
+!Opponent nation
+!Opponent player(s)
+!Score
+|-
+!colspan=7|{{decrease}}0–3; [[2016 Davis Cup Europe/Africa Zone Group III|3 March 2016]]; Tere Tennis Centre, [[Tallinn]], Estonia; Europe/Africa Zone Group III Round Robin; Hard (i) surface
+|-bgcolor=#99CCFF
+|bgcolor=FFA07A|Defeat
+|1
+|I
+|Singles
+|{{flagicon|CYP}} [[Cyprus Davis Cup team|Cyprus]]
+|[[Petros Chrysochos]]
+|0–6, 0–6
+|-
+!colspan=7|{{increase}}2–1; [[2016 Davis Cup Europe/Africa Zone Group III|4 March 2016]]; Tere Tennis Centre, [[Tallinn]], Estonia; Europe/Africa Zone Group III Round Robin; Hard (i) surface
+|-bgcolor=#99CCFF
+|bgcolor=FFA07A|Defeat
+|2
+|I
+|Singles
+|{{flagicon|ISL}} [[Iceland Davis Cup team|Iceland]]
+|[[Rafn Kumar Bonifacius]]
+|2–6, 4–6
+|-
+!colspan=7|{{increase}}2–1; [[2016 Davis Cup Europe/Africa Zone Group III|5 March 2016]]; Tere Tennis Centre, [[Tallinn]], Estonia; Europe/Africa Zone Group III 9th-12th place play off; Hard (i) surface
+|-bgcolor=#99CCFF
+|bgcolor=FFA07A|Defeat
+|3
+|III
+|Doubles (with [[Laurent Recouderc]]) ([[dead rubber]])
+|{{flagicon|ARM}} [[Armenia Davis Cup team|Armenia]]
+|[[Sedrak Khachatryan]] / [[Henrik Nikoghosyan]]
+|6–2, 3–6, 4–6
+|-
+!colspan=7|{{decrease}}0–3; [[2017 Davis Cup Europe Zone Group III|6 April 2017]]; Holiday Village Santa Marina, [[Sozopol]], Bulgaria; Europe/Africa Zone Group III Round Robin; Hard surface
+|-bgcolor=#99CCFF
+|bgcolor=FFA07A|Defeat
+|4
+|III
+|Doubles (with [[Laurent Recouderc]]) ([[dead rubber]])
+|{{flagicon|IRL}} [[Ireland Davis Cup team|Ireland]]
+|[[Sam Barry (tennis)|Sam Barry]] / [[David O'Hare]]
+|3–6, 0–6
+|-
+!colspan=7|{{decrease}}1–2; [[2017 Davis Cup Europe Zone Group III|7 April 2017]]; Holiday Village Santa Marina, [[Sozopol]], Bulgaria; Europe/Africa Zone Group III Round Robin; Hard surface
+|-bgcolor=#99CCFF
+|bgcolor=98FB98|Victory
+|5
+|III
+|Doubles (with [[Jean-Baptiste Poux-Gautier]]) ([[dead rubber]])
+|{{flagicon|MNE}} [[Montenegro Davis Cup team|Montenegro]]
+|[[Mario Aleksić]] / [[Pavle Rogan]]
+|7–5, 6–2
+|-
+!colspan=7|{{increase}}3–0; [[2017 Davis Cup Europe Zone Group III|8 April 2017]]; Holiday Village Santa Marina, [[Sozopol]], Bulgaria; Europe/Africa Zone Group III Round Robin; Hard surface
+|-bgcolor=#99CCFF
+|bgcolor=98FB98|Victory
+|6
+|III
+|Doubles (with [[Laurent Recouderc]]) ([[dead rubber]])
+|{{flagicon|KOS}} [[Kosovo Davis Cup team|Kosovo]]
+|[[Granit Bajraliu]] / [[Hyda Banjska]]
+|3–6, 6–4, 6–3
+|-
+!colspan=7|{{decrease}}1–2; [[2017 Davis Cup Europe Zone Group III|8 April 2017]]; Holiday Village Santa Marina, [[Sozopol]], Bulgaria; Europe/Africa Zone Group III 9th-12th place play off; Hard surface
+|-bgcolor=#99CCFF
+|bgcolor=FFA07A|Defeat
+|7
+|I
+|Singles
+|{{flagicon|ARM}} [[Armenia Davis Cup team|Armenia]]
+|[[Mikayel Khachatryan]]
+|3–6, 1–6
+|-
+!colspan=7|{{decrease}}0–3; [[2018 Davis Cup Europe Zone Group III|4 April 2018]]; Tennis Club Lokomotiv, [[Plovdiv]], Bulgaria; Europe/Africa Zone Group III Round Robin; Clay surface
+|-bgcolor=#99CCFF
+|bgcolor=FFA07A|Defeat
+|8
+|I
+|Singles
+|rowspan=2|{{flagicon|CYP}} [[Cyprus Davis Cup team|Cyprus]]
+|[[Menelaos Efstathiou]]
+|0–6, 0–6
+|-
+|-bgcolor=#99CCFF
+|bgcolor=FFA07A|Defeat
+|9
+|III
+|Doubles (with [[Guillermo Jauregui]]) ([[dead rubber]])
+|[[Nicholas Campbell (tennis)|Nicholas Campbell]] / [[Eleftherios Neos]]
+|2–6, 3–6
+|-
+!colspan=7|{{decrease}}0–3; [[2018 Davis Cup Europe Zone Group III|5 April 2018]]; Tennis Club Lokomotiv, [[Plovdiv]], Bulgaria; Europe/Africa Zone Group III Round Robin; Clay surface
+|-bgcolor=#99CCFF
+|bgcolor=FFA07A|Defeat
+|10
+|III
+|Doubles (with [[Guillermo Jauregui]]) ([[dead rubber]])
+|{{flagicon|MON}} [[Monaco Davis Cup team|Monaco]]
+|[[Benjamin Balleret]] / [[Thomas Oger]]
+|0–6, 2–6
+|-
+!colspan=7|{{increase}}2–1; [[2018 Davis Cup Europe Zone Group III|6 April 2018]]; Tennis Club Lokomotiv, [[Plovdiv]], Bulgaria; Europe/Africa Zone Group III Round Robin; Clay surface
+|-bgcolor=#99CCFF
+|bgcolor=FFA07A|Defeat
+|11
+|II
+|Singles
+|{{flagicon|SMR}} [[San Marino Davis Cup team|San Marino]]
+|[[Marco de Rossi]]
+|3–6, 1–6
+|-
+!colspan=7|{{decrease}}0–3; [[2018 Davis Cup Europe Zone Group III|7 April 2018]]; Tennis Club Lokomotiv, [[Plovdiv]], Bulgaria; Europe/Africa Zone Group III 5th-6th place play off; Clay surface
+|-bgcolor=#99CCFF
+|bgcolor=FFA07A|Defeat
+|12
+|II
+|Singles
+|rowspan=2|{{flagicon|ISL}} [[Iceland Davis Cup team|Iceland]]
+|[[Birkir Gunnarsson]]
+|6–2, 2–6, 3–6
+|-
+|-bgcolor=#99CCFF
+|bgcolor=FFA07A|Defeat
+|13
+|III
+|Doubles (with [[Guillermo Jauregui]]) ([[dead rubber]])
+|[[Vladimir Ristic]] / [[Egill Sigurðsson]]
+|1–6, 3–6
+|-
+!colspan=7|{{decrease}}1–2; [[2019 Davis Cup Europe Zone Group IV|16 July 2019]]; Centro Tennis Cassa di Risparmio, [[City of San Marino]], San Marino; Europe Zone Group IV Round Robin; Clay surface
+|-bgcolor=#FFCC99
+|bgcolor=FFA07A|Defeat
+|14
+|III
+|Doubles (with [[Ricardo Rodeiro-Stetson]])
+|{{flagicon|MLT}} [[Malta Davis Cup team|Malta]]
+|[[Matthew Asciak]] / [[Omar Sudzuka]]
+|4–6, 3–6
+|-
+!colspan=7|{{decrease}}0–3; [[2019 Davis Cup Europe Zone Group IV|16 July 2019]]; Centro Tennis Cassa di Risparmio, [[City of San Marino]], San Marino; Europe Zone Group IV Round Robin; Clay surface
+|-bgcolor=#FFCC99
+|bgcolor=FFA07A|Defeat
+|15
+|I
+|Singles
+|rowspan=2|{{flagicon|IRL}} [[Ireland Davis Cup team|Ireland]]
+|[[Simon Carr (tennis)|Simon Carr]]
+|2–6, 0–6
+|-
+|-bgcolor=#FFCC99
+|bgcolor=FFA07A|Defeat
+|16
+|III
+|Doubles (with [[Guillermo Jauregui]]) ([[dead rubber]])
+|[[Peter Bothwell]] / [[Julian Bradley (tennis)|Julian Bradley]]
+|2–6, 2–6
+|-
+!colspan=7|{{decrease}}1–2; [[2019 Davis Cup Europe Zone Group IV|18 July 2019]]; Centro Tennis Cassa di Risparmio, [[City of San Marino]], San Marino; Europe Zone Group IV Round Robin; Clay surface
+|-bgcolor=#FFCC99
+|bgcolor=FFA07A|Defeat
+|17
+|I
+|Singles
+|rowspan=2|{{flagicon|SMR}} [[San Marino Davis Cup team|San Marino]]
+|[[Domenico Vicini]]
+|3–6, 6–7<sup>(9–11)</sup>
+|-
+|-bgcolor=#FFCC99
+|bgcolor=98FB98|Victory
+|18
+|III
+|Doubles (with [[Guillermo Jauregui]]) ([[dead rubber]])
+|[[Tommaso Simoncini]] / [[Filippo Tommesani]]
+|6–1, 7–6<sup>(7–2)</sup>
+|-
+!colspan=7|{{decrease}}1–2; [[2019 Davis Cup Europe Zone Group IV|19 July 2019]]; Centro Tennis Cassa di Risparmio, [[City of San Marino]], San Marino; Europe Zone Group IV Round Robin; Clay surface
+|-bgcolor=#FFCC99
+|bgcolor=98FB98|Victory
+|19
+|I
+|Singles
+|rowspan=2|{{flagicon|KOS}} [[Kosovo Davis Cup team|Kosovo]]
+|[[Genc Selita]]
+|6–3, 6–4
+|-
+|-bgcolor=#FFCC99
+|bgcolor=FFA07A|Defeat
+|20
+|III
+|Doubles (with [[Guillermo Jauregui]])
+|[[Granit Bajraliu]] / [[Genc Selita]]
+|7–6<sup>(7–5)</sup>, 3–6, 4–6
+|-
+!colspan=7|{{decrease}}1–2; [[2019 Davis Cup Europe Zone Group IV|20 July 2019]]; Centro Tennis Cassa di Risparmio, [[City of San Marino]], San Marino; EuropeZone Group IV 9th-10th place play off; Clay surface
+|-bgcolor=#FFCC99
+|bgcolor=98FB98|Victory
+|21
+|II
+|Singles
+|rowspan=2|{{flagicon|ALB}} [[Albania Davis Cup team|Albania]]
+|[[Rajan Dushi]]
+|6–1, 6–1
+|-
+|-bgcolor=#FFCC99
+|bgcolor=FFA07A|Defeat
+|align=center|–
+|III
+|Doubles (with [[Guillermo Jauregui]])
+|[[Martin Muedini]] / [[Genajd Shypheja]]
+|{{abbr|w/o|Walkover}} *
+|-
+!colspan=7|{{decrease}}0–3; [[2021 Davis Cup Europe Zone Group IV|22 June 2021]]; Tennis Club Jug-Skopje, [[Skopje]], North Macedonia; Europe Zone Group IV Round Robin; Clay surface
+|-bgcolor=#FFCC99
+|bgcolor=FFA07A|Defeat
+|22
+|II
+|Singles
+|rowspan=2|{{flagicon|MDA}} [[Moldova Davis Cup team|Moldova]]
+|[[Alexander Cozbinov]]
+|0–6, 0–6
+|-
+|-bgcolor=#FFCC99
+|bgcolor=FFA07A|Defeat
+|23
+|III
+|Doubles (with [[Damien Gelabert]]) ([[dead rubber]])
+|[[Alexander Cozbinov]] / [[Ilya Snitari]]
+|1–6, 1–6
+|-
+!colspan=7|{{decrease}}0–3; [[2021 Davis Cup Europe Zone Group IV|23 June 2021]]; Tennis Club Jug-Skopje, [[Skopje]], North Macedonia; Europe Zone Group IV Round Robin; Clay surface
+|-bgcolor=#FFCC99
+|bgcolor=FFA07A|Defeat
+|24
+|II
+|Singles
+|{{flagicon|MKD}} [[North Macedonia Davis Cup team|North Macedonia]]
+|[[Gorazd Srbljak]]
+|0–6, 1–6
+|-
+!colspan=7|{{increase}}3–0; [[2021 Davis Cup Europe Zone Group IV|25 June 2021]]; Tennis Club Jug-Skopje, [[Skopje]], North Macedonia; Europe Zone Group IV Round Robin; Clay surface
+|-bgcolor=#FFCC99
+|bgcolor=98FB98|Victory
+|25
+|II
+|Singles
+|rowspan=2|{{flagicon|KOS}} [[Kosovo Davis Cup team|Kosovo]]
+|[[Fresk Sylhasi]]
+|6–1, 6–1
+|-
+|-bgcolor=#FFCC99
+|bgcolor=98FB98|Victory
+|26
+|III
+|Doubles (with [[Jordi Trilla Clanchet]]) ([[dead rubber]])
+|[[Granit Bajraliu]] / [[Meldin Mustafi]]
+|4–6, 6–2, 7–5
+|-
+!colspan=7|{{decrease}}1–2; [[2021 Davis Cup Europe Zone Group IV|26 June 2021]]; Tennis Club Jug-Skopje, [[Skopje]], North Macedonia; Europe Zone Group IV Round Robin; Clay surface
+|-bgcolor=#FFCC99
+|bgcolor=FFA07A|Defeat
+|27
+|II
+|Singles
+|rowspan=2|{{flagicon|SMR}} [[San Marino Davis Cup team|San Marino]]
+|[[Marco De Rossi]]
+|4–6, 2–6
+|-
+|-bgcolor=#FFCC99
+|bgcolor=FFA07A|Defeat
+|28
+|III
+|Doubles (with [[Damien Gelabert]])
+|[[Marco De Rossi]] / [[Stefano Galvani]]
+|4–6, 1–6
+|}
+
+'''*''' [[Walkover]] doesn't count in his overall record.
+==References==
+{{reflist}}
+==External links==
+*{{ITF}}
+
+*{{Davis Cup player}}
+
+{{Authority control}}
+{{DEFAULTSORT:Cervos Noguer, Eric}}
+[[Category:1999 births]]
+[[Category:Living people]]
+[[Category:Andorran male tennis players]]
+[[Category:Long stubs with short prose]]
+
+{{Andorra-sport-bio-stub}}
+{{Europe-tennis-bio-stub}}

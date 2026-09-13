@@ -1,0 +1,78 @@
+{{short description|Andorran footballer}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name        = Cucu
+| fullname    = Ricard Fernández Betriu
+| image       = 
+| birth_date  = {{birth date and age|df=yes|1999|3|19}}
+| birth_place = [[Andorra la Vella]], Andorra
+| height      = 1.73 m
+| currentclub = [[CE Casa de Portugal|Casa de Portugal]]
+| clubnumber  = 99
+| position    = [[Forward (association football)|Forward]]
+| youthyears1 = 2015–2017 |youthclubs1 = [[FC Andorra]]
+| years1      = 2017–2020 | clubs1 = [[FC Andorra]]                      | caps1 = 39 | goals1 = 4
+| years2      = 2020      | clubs2 = → [[CF Igualada|Igualada]] (loan)   | caps2 = 5  | goals2 = 0
+| years3      = 2020–2021 | clubs3 = [[SD Formentera|Formentera]]        | caps3 = 30 | goals3 = 12
+| years4      = 2022      | clubs4 = [[CE Andratx|Andratx]]              | caps4 = 10 | goals4 = 0
+| years5      = 2022–2023 | clubs5 = [[CP San Cristóbal|San Cristóbal]]  | caps5 = 24 | goals5 = 2
+| years6      = 2023      | clubs6 = [[ND Bilje|Bilje]]                  | caps6 = 15 | goals6 = 12
+| years7      = 2024      | clubs7 = [[NK Krka|Krka]]                    | caps7 = 19 | goals7 = 3
+| years8      = 2025      | clubs8 = [[UE Santa Coloma]]                 | caps8 = 15 | goals8 = 10
+| years9      = 2025      | clubs9 = [[NK Tabor Sežana|Tabor Sežana]]    | caps9 = 10 | goals9 = 2
+| years10     = 2025–2026 | clubs10= [[UE Santa Coloma]]                 | caps10= 11 | goals10= 0
+| years11     = 2026–     | clubs11= [[CE Casa de Portugal|Casa de Portugal]]                 | caps11= 0 | goals11= 0
+| nationalyears1 = 2014–2015 | nationalteam1 = [[Andorra national under-17 football team|Andorra U17]] | nationalcaps1 = 6 | nationalgoals1 = 1
+| nationalyears2 = 2015–2017 | nationalteam2 = [[Andorra national under-19 football team|Andorra U19]] | nationalcaps2 = 8 | nationalgoals2 = 2
+| nationalyears3 = 2016–2020 | nationalteam3 = [[Andorra national under-21 football team|Andorra U21]] | nationalcaps3 = 28| nationalgoals3 = 6
+| nationalyears4 = 2018–     | nationalteam4 = [[Andorra national football team|Andorra]]              | nationalcaps4 = 60| nationalgoals4 = 2
+| pcupdate = 10 May 2026
+| ntupdate = 4 June 2026
+}}
+{{family name hatnote|Fernández|Betriu|lang=Catalan}}
+'''Ricard Fernández Betriu''' (born 19 March 1999), also known as '''Cucu''', is an Andorran footballer who plays for [[CE Casa de Portugal]].<ref>[https://us.soccerway.com/players/ricard-fernandez/379961/ Soccerway Profile]</ref>
+
+==International career==
+Fernández made his senior debut for the [[Andorra national football team]] in a 1–0 friendly win over [[Liechtenstein national football team|Liechtenstein]] on 21 March 2018.<ref>{{cite web|url=https://us.soccerway.com/matches/2018/03/21/world/friendlies/liechtenstein/andorra/2742689/|title=Liechtenstein vs. Andorra – 21 March 2018 – Soccerway|website=us.soccerway.com}}</ref> He has remained in the under-21 set up since, however, notably scoring a brace in a shock 3–3 draw with [[England national under-21 football team|England]] in October 2020, securing Andorra under-21s a rare point against a team featuring [[Premier League]] players such as [[Eddie Nketiah]] and [[Aaron Ramsdale]].<ref>[https://www.skysports.com/football/andorra-u21-vs-england-u21/406216 Andorra U21s 3-3 England U21s: Eddie Nketiah denied late winner as hosts equalize in stoppage time] Sky Sports. 7 October 2020. Retrieved 20 October 2020.</ref> On 12 November 2021, he received a red card for elbowing [[Kamil Glik]] in the first minute of the match vs [[Poland national football team|Poland]], which Andorra went on to lose by a score of 1–4.<ref>{{Cite web|url=https://www.scotsman.com/sport/football/international/scottish-ref-john-beaton-red-cards-player-after-20-seconds-in-andorra-v-poland-world-cup-qualifier-3456779|author=Sked, Joel|publisher=scotsman.com|title=Scottish ref John Beaton red cards player after 20 seconds in Andorra v Poland World Cup qualifier|date=12 November 2021|access-date=15 November 2021|language=en}}</ref>
+
+Fernández scored his first goal for Andorra on 12 October 2021 during a 3–0 win against [[San Marino national football team|San Marino]] during [[2022 FIFA World Cup qualification – UEFA Group I|2022 FIFA World Cup qualification]], and the match subsequently became Andorra's first ever away victory.
+
+Fernández scored his second goal for Andorra on 21 March 2024 during a 1–1 draw against [[South Africa national soccer team|South Africa]] during the [[2024 FIFA Series|2024 FIFA Series: Algeria]].
+
+==International goals==
+{| class="wikitable"
+|-
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 12 October 2021 || [[San Marino Stadium]], [[Serravalle, San Marino|Serravalle]], [[San Marino]] || {{fb|SMR}} || align=center|'''3'''–0 || align=center| 3–0 || [[2022 FIFA World Cup qualification - UEFA Group I|2022 FIFA World Cup qualification]]
+|-
+| 2. || 21 March 2024 || [[19 May 1956 Stadium]], [[Annaba]], [[Algeria]] || {{fb|RSA}} || align=center|'''1'''–0 || align=center| 1–1 || [[2024 FIFA Series]]
+|}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* {{NFT player|70688/Ricard_Fernandez}}
+* {{LaPreferente|233524}}
+
+{{DEFAULTSORT:Fernández, Ricard}}
+[[Category:1999 births]]
+[[Category:Living people]]
+[[Category:Footballers from Andorra la Vella]]
+[[Category:Andorran men's footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:FC Andorra players]]
+[[Category:SD Formentera players]]
+[[Category:ND Bilje players]]
+[[Category:UE Santa Coloma players]]
+[[Category:Segunda División B players]]
+[[Category:Tercera División players]]
+[[Category:Slovenian Second League players]]
+[[Category:Andorran expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:Expatriate men's footballers in Slovenia]]
+[[Category:Andorran expatriate sportspeople in Spain]]
+[[Category:Andorran expatriate sportspeople in Slovenia]]
+[[Category:Men's association football forwards]]
+[[Category:CP San Cristóbal players]]

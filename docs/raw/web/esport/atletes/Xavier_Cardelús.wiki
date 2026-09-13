@@ -1,0 +1,829 @@
+{{short description|Andorran motorcycle racer (born 1998)}}
+{{family name hatnote|Cardelús|García|lang=Spanish}}
+{{BLP sources|date=October 2018}}
+{{Use dmy dates|date=April 2020}}
+{{Infobox motorcycle rider
+| name                = Xavier Cardelús
+| image               =FIM CEV Repsol 2018. Albacete. Moto2. Podio.jpg
+| caption             =Cardelús in 2018
+| birth_date          = {{birth date and age|df=y|1998|05|15}}
+| birth_place         = [[Andorra la Vella]], Andorra
+| Current team        = Cerba Yamaha Racing Team
+| Bike number         = 20
+| website             =
+| Moto2 Active years  = {{MGP|2018|Moto2}}–{{MGP|2021|Moto2}}, {{MGP|2024|Moto2}}
+| Moto2 Manufacturers = [[Kalex]], [[KTM]], [[Speed Up]]
+| Moto2 Championships = 0
+| Moto2 Race Starts   = 52
+| Moto2 Race Wins     = 0
+| Moto2 Podiums       = 0
+| Moto2 Poles         = 0
+| Moto2 Fastest laps  = 0
+| Moto2 Total Points  = 0
+| Moto2 Last season   = 2024
+| Moto2 Last position = 31st (0 pts)
+| MotoE Active years  = {{MGP|2020|MotoE}}–{{MGP|2021|MotoE}}
+| MotoE Manufacturers = [[Energica Motor Company|Energica]]
+| MotoE Championships = 0
+| MotoE Race Starts   = 20
+| MotoE Race Wins     = 0
+| MotoE Podiums       = 0
+| MotoE Poles         = 0
+| MotoE Fastest laps  = 0
+| MotoE Total Points  = 86
+| MotoE Last season   = 2022
+| MotoE Last position = 15th (31 pts)
+| SS Active years     = {{WorldSS|2017}}, {{WorldSS|2025}}-
+| SS Manufacturers    = [[MV Agusta]], [[Yamaha Motor Company|Yamaha]], [[Ducati]]
+| SS Championships    = 0
+| SS Last season      = 2025
+| SS Last position    = 12th (91 pts)
+| SS Race Starts      = 30
+| SS Race Wins        = 0
+| SS Podiums          = 0
+| SS Poles            = 0
+| SS Fastest laps     = 0
+| SS Total Points     = 98
+}}
+
+'''Xavier "Xavi" Cardelús García''' (born 15 May 1998) is an Andorran [[Motorcycle racing|motorcycle racer]] competing in the [[2026 Supersport World Championship]] for the Cerba Yamaha Racing Team. He is son of the former motorcycle racer Xavier Cardelús Maestre.<ref>{{cite news|url=https://www.elperiodic.ad/noticia/58586/vuite-i-dese-lloc-de-cardelus-al-circuit-de-catalunya|title=Vuitè i desè lloc de Cardelús al circuit de Catalunya|work=elperiodic.ad|publisher=[[El Periòdic d'Andorra]]|date=19 June 2017|access-date=19 July 2020|language=ca}}</ref>
+
+==Career==
+===Early career===
+Since [[2015 FIM CEV Moto2 European Championship|2015]], Cardelús competes in the FIM CEV Moto2 European Championship.
+
+In [[2017 Supersport World Championship|2017]], Cardelús also competed in the [[Supersport World Championship]] for [[Alex Baldolini|Race Department ATK#25]].
+
+===Moto2 World Championship===
+====Reale Avintia Stylobike (2018)====
+===== 2018 =====
+In {{MGP|2018|Moto2}}, Cardelús made his Grand Prix debut as a wild card for [[Esponsorama Racing|Team Stylobike]].
+
+====Marinelli Snipers Team (2018)====
+At the Aragon round, Cardelús joined Marinelli Snipers Team, replacing [[Romano Fenati]].
+
+====Sama Qatar Ángel Nieto Team (2019)====
+===== 2019 =====
+Cardelús signed to ride for the [[Aspar Team|Ángel Nieto Team]] in the [[2019 Moto2 World Championship]] with British team-mate [[Jake Dixon]],<ref>[https://www.crash.net/motogp/news/905966/1/official-jake-dixon-moto2-aspar Cardelus signs as Dixon's team-mate at Angel Nieto Team] ''Crash.net'', 10 October 2018. Retrieved 11 October 2018</ref> aboard machinery using [[Triumph Daytona 675|765&nbsp;cc Triumph]] controlled engines new to the series,<ref>[https://www.motorsportweek.com/news/id/20118 Triumph era right time for Moto2 switch - Jake Dixon] {{Webarchive|url=https://web.archive.org/web/20190330044406/https://www.motorsportweek.com/news/id/20118 |date=30 March 2019 }} ''Motorsport Week'', 1 October 2018. Retrieved 11 October 2018</ref> and [[KTM]] chassis.<ref>[https://www.motorsportweek.com/news/id/19473 Aspar to return to Moto2 in 2019 ] {{Webarchive|url=https://web.archive.org/web/20190330044303/https://www.motorsportweek.com/news/id/19473 |date=30 March 2019 }} ''Motorsport Week'', 13 August 2018. Retrieved 11 October 2018</ref>
+
+====Fantic Racing (2024)====
+Cardelús joined [[Fantic Motor|Fantic Racing]] with [[Arón Canet]] as a teammate.<ref>{{cite web|url=https://warungasep.net/2024/03/08/mario-aji-naik-kelas-inilah-daftar-nama-pembalap-moto2-2024/|title=Mario Aji Naik Kelas, Inilah Daftar Nama Pembalap Moto2 2024|website=Warung Asep|date=8 March 2024|access-date=8 May 2024|language=id}}</ref>
+
+==Career statistics==
+===FIM CEV Moto3 Junior World Championship===
+
+====Races by year====
+([[Template:Motorsport driver results legend|key]]) (Races in '''bold''' indicate pole position; races in ''italics'' indicate fastest lap)
+{|class="wikitable" style="text-align:center;"
+! Year
+! Bike
+! 1
+! 2
+! 3
+! 4
+! 5
+! 6
+! 7
+! 8
+! 9
+! 10
+! 11
+! Pos
+! Pts
+|-
+! [[2014 FIM CEV Moto3 International Championship|2014]]
+! [[KTM]]
+|style="background:#dfffdf;"| [[Circuito de Jerez|JER1]]<br>{{small|11}}
+|style="background:#cfcfff;"| [[Circuito de Jerez|JER2]]<br>{{small|16}}
+|style="background:#dfffdf;"| [[Circuit de la Sarthe#Bugatti Circuit|LMS]]<br>{{small|11}}
+|style="background:#cfcfff;"| [[MotorLand Aragón|ARA]]<br>{{small|22}}
+|style="background:#cfcfff;"| [[Circuit de Barcelona-Catalunya|CAT1]]<br>{{small|19}}
+|style="background:#cfcfff;"| [[Circuit de Barcelona-Catalunya|CAT2]]<br>{{small|18}}
+|style="background:#cfcfff;"| [[Circuito de Albacete|ALB]]<br>{{small|20}}
+|style="background:#dfffdf;"| [[Circuito de Navarra|NAV]]<br>{{small|14}}
+|style="background:#efcfff;"| [[Algarve International Circuit|ALG]]<br>{{small|Ret}}
+|style="background:#efcfff;"| [[Circuit Ricardo Tormo|VAL1]]<br>{{small|Ret}}
+|style="background:#efcfff;"| [[Circuit Ricardo Tormo|VAL2]]<br>{{small|Ret}}
+! 22nd
+! 12
+|}
+
+===FIM Moto2 European Championship===
+====Races by year====
+([[Template:Motorsport driver results legend|key]]) (Races in '''bold''' indicate pole position) (Races in ''italics'' indicate fastest lap)
+{|class="wikitable" style="text-align:center;"
+! Year
+! Bike
+! 1
+! 2
+! 3
+! 4
+! 5
+! 6
+! 7
+! 8
+! 9
+! 10
+! 11
+! Pos
+! Pts
+|-
+! [[2015 FIM CEV Moto2 European Championship|2015]]
+! [[Kalex]]
+|style="background:#dfffdf;"| [[Algarve International Circuit|ALG1]]<br>{{small|10}}
+|style="background:#efcfff;"| [[Algarve International Circuit|ALG2]]<br>{{small|Ret}}
+|style="background:#efcfff;"| [[Circuit de Barcelona-Catalunya|CAT]]<br>{{small|Ret}}
+|style="background:#dfffdf;"| [[MotorLand Aragón|ARA1]]<br>{{small|13}}
+|style="background:#dfffdf;"| [[MotorLand Aragón|ARA2]]<br>{{small|11}}
+|style="background:#cfcfff;"| [[Circuito de Albacete|ALB]]<br>{{small|16}}
+|style="background:#dfffdf;"| [[Circuito de Navarra|NAV1]]<br>{{small|13}}
+|style="background:#dfffdf;"| [[Circuito de Navarra|NAV2]]<br>{{small|12}}
+|style="background:#ffffff;"| [[Circuito de Jerez|JER]]<br>{{small|DNS}}
+|style="background:#cfcfff;"| [[Circuit Ricardo Tormo|VAL1]]<br>{{small|18}}
+|style="background:#efcfff;"| [[Circuit Ricardo Tormo|VAL2]]<br>{{small|Ret}}
+! 16th
+! 21
+|-
+! [[2016 FIM CEV Moto2 European Championship|2016]]
+! [[Kalex]]
+|style="background:#dfffdf;"| [[Circuit Ricardo Tormo|VAL1]]<br>{{small|9}}
+|style="background:#dfffdf;"| [[Circuit Ricardo Tormo|VAL2]]<br>{{small|4}}
+|style="background:#dfffdf;"| [[MotorLand Aragón|ARA1]]<br>{{small|10}}
+|style="background:#ffffff;"| [[MotorLand Aragón|ARA2]]<br>{{small|DNS}}
+|style="background:#efcfff;"| [[Circuit de Barcelona-Catalunya|CAT1]]<br>{{small|Ret}}
+|style="background:#dfffdf;"| [[Circuit de Barcelona-Catalunya|CAT2]]<br>{{small|9}}
+|style="background:#dfffdf;"| [[Circuito de Albacete|ALB]]<br>{{small|10}}
+|style="background:#dfffdf;"| [[Algarve International Circuit|ALG1]]<br>{{small|11}}
+|style="background:#dfffdf;"| [[Algarve International Circuit|ALG2]]<br>{{small|10}}
+|style="background:#dfffdf;"| [[Circuito de Jerez|JER]]<br>{{small|12}}
+|style="background:#dfffdf;"| [[Circuit Ricardo Tormo|VAL]]<br>{{small|7}}
+! 8th
+! 63
+|-
+! [[2017 FIM CEV Moto2 European Championship|2017]]
+! [[Kalex]]
+|style="background:#dfffdf;"| [[Circuito de Albacete|ALB]]<br>{{small|14}}
+|style="background:#dfffdf;"| [[Circuit de Barcelona-Catalunya|CAT1]]<br>{{small|8}}
+|style="background:#dfffdf;"| [[Circuit de Barcelona-Catalunya|CAT2]]<br>{{small|10}}
+|style="background:#ffffff;"| [[Circuit Ricardo Tormo|VAL1]]<br>{{small|DNS}}
+|style="background:#dfffdf;"| [[Circuit Ricardo Tormo|VAL2]]<br>{{small|9}}
+|style="background:#efcfff;"| [[Circuito do Estoril|EST1]]<br>{{small|Ret}}
+|style="background:#dfffdf;"| [[Circuito do Estoril|EST2]]<br>{{small|8}}
+| [[Circuito de Jerez|JER]]
+|style="background:#dfffdf;"| [[MotorLand Aragón|ARA1]]<br>{{small|13}}
+|style="background:#dfffdf;"| [[MotorLand Aragón|ARA2]]<br>{{small|11}}
+|style="background:#dfffdf;"| [[Circuit Ricardo Tormo|VAL]]<br>{{small|13}}
+! 12th
+! 42
+|-
+! [[2018 FIM CEV Moto2 European Championship|2018]]
+! [[Kalex]]
+|style="background:#efcfff;"| [[Circuito do Estoril|EST1]]<br>{{small|Ret}}
+|style="background:#dfffdf;"| [[Circuito do Estoril|EST2]]<br>{{small|5}}
+|style="background:#dfffdf;"| [[Circuit Ricardo Tormo|VAL]]<br>{{small|11}}
+|style="background:#dfffdf;"| [[Circuit de Barcelona-Catalunya|CAT1]]<br>{{small|7}}
+|style="background:#dfffdf;"| [[Circuit de Barcelona-Catalunya|CAT2]]<br>{{small|6}}
+|style="background:#dfffdf;"| [[MotorLand Aragón|ARA1]]<br>{{small|12}}
+|style="background:#dfffdf;"| [[MotorLand Aragón|ARA2]]<br>{{small|7}}
+|style="background:#dfffdf;"| [[Circuito de Jerez|JER]]<br>{{small|8}}
+|style="background:#dfdfdf;"| ''[[Circuito de Albacete|ALB1]]''<br>{{small|2}}
+|style="background:#dfdfdf;"| [[Circuito de Albacete|ALB2]]<br>{{small|2}}
+| [[Circuit Ricardo Tormo|VAL]]
+! 8th
+! 86
+|-
+! [[2020 FIM CEV Moto2 European Championship|2020]]
+! [[Kalex]]
+|style="background:#dfffdf;"| [[Circuito do Estoril|EST1]]<br>{{small|7}}
+|style="background:#dfffdf;"| [[Circuito do Estoril|EST2]]<br>{{small|5}}
+|style="background:#efcfff;"| [[Algarve International Circuit|POR1]]<br>{{small|Ret}}
+|style="background:#dfffdf;"| [[Algarve International Circuit|POR2]]<br>{{small|5}}
+|style="background:#dfffdf;"| [[Circuito de Jerez|JER1]]<br>{{small|10}}
+|style="background:#efcfff;"| [[Circuito de Jerez|JER2]]<br>{{small|Ret}}
+|style="background:#dfffdf;"| [[MotorLand Aragón|ARA1]]<br>{{small|6}}
+|style="background:#ffdf9f;"| ''[[MotorLand Aragón|ARA2]]''<br>{{small|3}}
+|style="background:#efcfff;"| [[MotorLand Aragón|ARA3]]<br>{{small|Ret}}
+|style="background:#dfffdf;"| [[Circuit Ricardo Tormo|VAL1]]<br>{{small|4}}
+|style="background:#dfffdf;"| [[Circuit Ricardo Tormo|VAL2]]<br>{{small|5}}
+! 6th
+! 87
+|-
+! [[2022 FIM Moto2 European Championship|2022]]
+! [[Kalex]]
+|style="background:#efcfff;"| [[Circuito do Estoril|EST1]]<br>{{small|Ret}}
+|style="background:#dfffdf;"| [[Circuito do Estoril|EST1]]<br>{{small|5}}
+|style="background:#ffdf9f;"| [[Circuit Ricardo Tormo|VAL]]<br>{{small|3}}
+| [[Circuit de Barcelona-Catalunya|CAT1]]
+| [[Circuit de Barcelona-Catalunya|CAT2]]
+|style="background:#dfffdf;"| [[Circuito de Jerez|JER]]<br>{{small|4}}
+|style="background:#ffdf9f;"| [[Algarve International Circuit|POR1]]<br>{{small|3}}
+|style="background:#dfffdf;"| [[Algarve International Circuit|POR2]]<br>{{small|4}}
+|style="background:#ffdf9f;"| [[MotorLand Aragón|ARA1]]<br>{{small|3}}
+|style="background:#ffdf9f;"| [[MotorLand Aragón|ARA2]]<br>{{small|3}}
+|style="background:#dfffdf;"| [[Circuit Ricardo Tormo|VAL]]<br>{{small|4}}
+! 5th
+! 114
+|-
+! [[2023 FIM Moto2 European Championship|2023]]
+! [[Kalex]]
+|style="background:#dfffdf;"| [[Circuito do Estoril|EST1]]<br>{{small|13}}
+|style="background:#dfdfdf;"| [[Circuito do Estoril|EST2]]<br>{{small|2}}
+|style="background:#dfffdf;"| [[Circuit Ricardo Tormo|VAL]]<br>{{small|6}}
+|style="background:#dfffdf;"| [[Circuito de Jerez|JER]]<br>{{small|5}}
+|style="background:#ffdf9f;"| [[Algarve International Circuit|POR1]]<br>{{small|3}}
+|style="background:#dfdfdf;"| [[Algarve International Circuit|POR2]]<br>{{small|2}}
+|style="background:#FFFFBF;"| [[Circuit de Barcelona-Catalunya|CAT1]]<br>{{small|1}}
+|style="background:#ffdf9f;"| [[Circuit de Barcelona-Catalunya|CAT2]]<br>{{small|3}}
+|style="background:#dfffdf;"| [[MotorLand Aragón|ARA1]]<br>{{small|6}}
+|style="background:#dfffdf;"| [[MotorLand Aragón|ARA2]]<br>{{small|8}}
+|style="background:#dfffdf;"| [[Circuit Ricardo Tormo|VAL]]<br>{{small|6}}
+!style="background:#dfdfdf;"| 2nd
+!style="background:#dfdfdf;"| 149
+|}
+
+===Supersport World Championship===
+
+====Races by year====
+([[Template:Motorsport driver results legend|key]]) (Races in '''bold''' indicate pole position; races in ''italics'' indicate fastest lap)
+{|class="wikitable" style="text-align:center; font-size:90%;"
+! Year
+! Bike
+! 1
+! 2
+! 3
+! 4
+! 5
+! 6
+! 7
+! 8
+! 9
+! 10
+! 11
+! 12
+! Pos
+! Pts
+|-
+!rowspan="2"| {{WorldSS|2017}}
+! [[MV Agusta]] 
+| [[Phillip Island Grand Prix Circuit|AUS]]
+| [[Chang International Circuit|THA]]
+|style="background:#DFFFDF;"| [[MotorLand Aragón|SPA]]<br>{{small|13}}
+| [[TT Circuit Assen|NED]]
+| [[Imola Circuit|ITA]]
+|style="background:#EFCFFF;"| [[Donington Park|GBR]]<br>{{small|Ret}}
+| [[Misano World Circuit|ITA]]
+|style="background:#FFFFFF;"| [[Lausitzring|GER]]<br>{{small|DNS}}
+| [[Algarve International Circuit|POR]]
+| [[Circuit de Nevers Magny-Cours|FRA]]
+|
+|
+!rowspan="2"| 36th
+!rowspan="2"| 5
+|-
+! [[Yamaha Motor Company|Yamaha]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|style="background:#CFCFFF;"| [[Circuito de Jerez|SPA]]<br>{{small|23}}
+|style="background:#DFFFDF;"| [[Lusail International Circuit|QAT]]<br>{{small|14}}
+|}
+{|class="wikitable" style="text-align:center; font-size:90%;"
+!rowspan="2"| Year
+!rowspan="2"| Bike
+!colspan="2"| 1
+!colspan="2"| 2
+!colspan="2"| 3
+!colspan="2"| 4
+!colspan="2"| 5
+!colspan="2"| 6
+!colspan="2"| 7
+!colspan="2"| 8
+!colspan="2"| 9
+!colspan="2"| 10
+!colspan="2"| 11
+!colspan="2"| 12
+!rowspan="2"| Pos
+!rowspan="2"| Pts
+|-
+! R1
+! R2
+! R1
+! R2
+! R1
+! R2
+! R1
+! R2
+! R1
+! R2
+! R1
+! R2
+! R1
+! R2
+! R1
+! R2
+! R1
+! R2
+! R1
+! R2
+! R1
+! R2
+! R1
+! R2
+|-
+! {{WorldSS|2025}}
+! [[Ducati]]
+|style="background:#EFCFFF;"| [[Phillip Island Grand Prix Circuit|AUS]]<br />{{small|Ret}}
+|style="background:#DFFFDF;"| [[Phillip Island Grand Prix Circuit|AUS]]<br />{{small|8}}
+|style="background:#DFFFDF;"| [[Algarve International Circuit|POR]]<br />{{small|14}}
+|style="background:#DFFFDF;"| [[Algarve International Circuit|POR]]<br />{{small|13}}
+|style="background:#EFCFFF;"| [[TT Circuit Assen|ASS]]<br />{{small|Ret}}
+|style="background:#DFFFDF;"| [[TT Circuit Assen|ASS]]<br />{{small|14}}
+|style="background:#DFFFDF;"| [[Cremona Circuit|CRE]]<br />{{small|6}}
+|style="background:#DFFFDF;"| [[Cremona Circuit|CRE]]<br />{{small|7}}
+|style="background:#DFFFDF;"| [[Autodrom Most|MOS]]<br />{{small|14}}
+|style="background:#CFCFFF;"| [[Autodrom Most|MOS]]<br />{{small|17}}
+|style="background:#CFCFFF;"| [[Misano World Circuit|MIS]]<br />{{small|17}}
+|style="background:#DFFFDF;"| [[Misano World Circuit|MIS]]<br />{{small|12}}
+|style="background:#DFFFDF;"| [[Donington Park|DON]]<br />{{small|13}}
+|style="background:#DFFFDF;"| [[Donington Park|DON]]<br />{{small|15}}
+|style="background:#DFFFDF;"| [[Balaton Park Circuit|HUN]]<br />{{small|10}}
+|style="background:#DFFFDF;"| [[Balaton Park Circuit|HUN]]<br />{{small|8}}
+|style="background:#DFFFDF;"| [[Circuit de Nevers Magny-Cours|FRA]]<br />{{small|11}}
+|style="background:#DFFFDF;"| [[Circuit de Nevers Magny-Cours|FRA]]<br />{{small|15}}
+|style="background:#DFFFDF;"| [[MotorLand Aragón|ARA]]<br />{{small|7}}
+|style="background:#DFFFDF;"| [[MotorLand Aragón|ARA]]<br />{{small|6}}
+|style="background:#DFFFDF;"| [[Circuito do Estoril|EST]]<br />{{small|10}}
+|style="background:#DFFFDF;"| [[Circuito do Estoril|EST]]<br />{{small|14}}
+|style="background:#CFCFFF;"| [[Circuito de Jerez|SPA]]<br />{{small|16}}
+|style="background:#EFCFFF;"| [[Circuito de Jerez|SPA]]<br />{{small|Ret}}
+! 12th
+! 91
+|-
+! {{WorldSS|2026}}
+! [[Yamaha Motor Company|Yamaha]]
+|style="background:#CFCFFF;"| [[Phillip Island Grand Prix Circuit|AUS]]<br />{{small|16}}
+|style="background:#DFFFDF;"| [[Phillip Island Grand Prix Circuit|AUS]]<br />{{small|14}}
+|style="background:#;"| [[Algarve International Circuit|POR]]<br />{{small|}}
+|style="background:#;"| [[Algarve International Circuit|POR]]<br />{{small|}}
+|style="background:#;"| [[TT Circuit Assen|NED]]<br />{{small|}}
+|style="background:#;"| [[TT Circuit Assen|NED]]<br />{{small|}}
+|style="background:#;"| [[Balaton Park Circuit|HUN]]<br />{{small|}}
+|style="background:#;"| [[Balaton Park Circuit|HUN]]<br />{{small|}}
+|style="background:#;"| [[Autodrom Most|CZE]]<br />{{small|}}
+|style="background:#;"| [[Autodrom Most|CZE]]<br />{{small|}}
+|style="background:#;"| [[MotorLand Aragón|ARA]]<br />{{small|}}
+|style="background:#;"| [[MotorLand Aragón|ARA]]<br />{{small|}}
+|style="background:#;"| [[Misano World Circuit|EMI]]<br />{{small|}}
+|style="background:#;"| [[Misano World Circuit|EMI]]<br />{{small|}}
+|style="background:#;"| [[Donington Park|GBR]]<br />{{small|}}
+|style="background:#;"| [[Donington Park|GBR]]<br />{{small|}}
+|style="background:#;"| [[Circuit de Nevers Magny-Cours|FRA]]<br />{{small|}}
+|style="background:#;"| [[Circuit de Nevers Magny-Cours|FRA]]<br />{{small|}}
+|style="background:#;"| [[Cremona Circuit|ITA]]<br />{{small|}}
+|style="background:#;"| [[Cremona Circuit|ITA]]<br />{{small|}}
+|style="background:#;"| [[Circuito do Estoril|EST]]<br />{{small|}}
+|style="background:#;"| [[Circuito do Estoril|EST]]<br />{{small|}}
+|style="background:#;"| [[Circuito de Jerez|SPA]]<br />{{small|}}
+|style="background:#;"| [[Circuito de Jerez|SPA]]<br />{{small|}}
+! 17th*
+! 2*
+|}
+{{asterisk}} Season still in progress.
+
+===Grand Prix motorcycle racing===
+
+====By season====
+{|class="wikitable" style="text-align:right;"
+! Season
+! Class
+! Motorcycle
+! Team
+! Race
+! Win
+! Podium
+! Pole
+! FLap
+! Pts
+! Plcd
+|-
+!rowspan="2"| {{MGP|2018|Moto2}}
+|style="text-align:left;" rowspan="2"| Moto2
+|style="text-align:left;" rowspan="2"| [[Kalex]]
+|style="text-align:left;"| [[Esponsorama Racing|Reale Avintia Stylobike]]
+| 7
+| 0
+| 0
+| 0
+| 0
+|rowspan="2"| 0
+|rowspan="2"| 33rd
+|-
+|style="text-align:left;"| Marinelli Snipers Team Moto2
+| 6
+| 0
+| 0
+| 0
+| 0
+|-
+! {{MGP|2019|Moto2}}
+|style="text-align:left;"| Moto2
+|style="text-align:left;"| [[KTM]]
+|style="text-align:left;"| [[Aspar Team|Sama Qatar Ángel Nieto Team]]
+| 19
+| 0
+| 0
+| 0
+| 0
+| 0
+| 35th
+|-
+!rowspan="2"| 2020
+| [[2020 MotoE World Cup|MotoE]]
+|style="text-align:left;"| [[Energica Motor Company|Energica]]
+|style="text-align:left;"| [[Esponsorama Racing]]
+| 7
+| 0
+| 0
+| 0
+| 0
+| 34
+| 15th
+|-
+|style="text-align:left;"| [[2020 Moto2 World Championship|Moto2]]
+|style="text-align:left;"| [[Speed Up]]
+|style="text-align:left;"| [[Aspar Team]]
+| 2
+| 0
+| 0
+| 0
+| 0
+| 0 
+| 34th
+|-
+!rowspan="2"| 2021
+| [[2021 MotoE World Cup|MotoE]]
+|style="text-align:left;"| [[Energica Motor Company|Energica]]
+|style="text-align:left;"| [[Esponsorama Racing]]
+| 7
+| 0
+| 0
+| 0
+| 0
+| 21
+| 16th
+|-
+|style="text-align:left;"| [[2021 Moto2 World Championship|Moto2]]
+|style="text-align:left;"| [[Kalex]]
+|style="text-align:left;"| Cerba Promoracing Team
+| 1
+| 0
+| 0
+| 0
+| 0
+| 0
+| 40th
+|-
+! {{MGP|2022|MotoE}}
+| MotoE
+|style="text-align:left;"| [[Energica Motor Company|Energica]]
+|style="text-align:left;"| [[Esponsorama Racing|Avintia Esponsorama Racing]]
+| 6
+| 0
+| 0
+| 0
+| 0
+| 31
+| 15th
+|-
+! {{MGP|2024|Moto2}}
+|style="text-align:left;"| [[2024 Moto2 World Championship|Moto2]]
+|style="text-align:left;"| [[Kalex]]
+|style="text-align:left;"| [[Fantic Motor|Fantic Racing]]
+| 18
+| 0
+| 0
+| 0
+| 0
+| 0
+| 31st
+|-
+!colspan="4"| Total
+| '''72'''
+| '''0'''
+| '''0'''
+| '''0'''
+| '''0'''
+| '''86'''
+| 
+|}
+
+====By class====
+{|class="wikitable" style="text-align:right;"
+! Class
+! Seasons
+! 1st GP
+! 1st pod
+! 1st win
+! Race
+! Win
+! Podiums
+! [[Pole position|Pole]]
+! FLap
+! Pts
+! WChmp
+|-
+! Moto2
+| 2018–2019, 2021, 2024
+|style="text-align:left;"| [[2018 Spanish motorcycle Grand Prix|2018 Spain]]
+|
+|
+| 52
+| 0
+| 0
+| 0
+| 0
+| 0
+| 0
+|-
+! MotoE
+|style="text-align:left;"| 2020–2022
+|style="text-align:left;"| [[2020 Spanish motorcycle Grand Prix|2020 Spain]]
+|
+|
+| 20
+| 0
+| 0
+| 0
+| 0
+| 86
+| 0
+|-
+! Total
+!colspan="4"| 2018–2024
+| '''72'''
+| '''0'''
+| '''0'''
+| '''0'''
+| '''0'''
+| '''86'''
+| '''0'''
+|}
+
+====Races by year====
+([[Template:Motorsport driver results legend|key]]) (Races in '''bold''' indicate pole position; races in ''italics'' indicate fastest lap)
+{|class="wikitable" style="text-align:center;"
+! Year
+! Class
+! Bike
+! 1
+! 2
+! 3
+! 4
+! 5
+! 6
+! 7
+! 8
+! 9
+! 10
+! 11
+! 12
+! 13
+! 14
+! 15
+! 16
+! 17
+! 18
+! 19
+! 20
+! Pos
+! Pts
+|-
+! {{MGP|2018|Moto2}}
+! Moto2
+! [[Kalex]]
+| [[2018 Qatar motorcycle Grand Prix|QAT]]
+| [[2018 Argentine motorcycle Grand Prix|ARG]]
+| [[2018 Motorcycle Grand Prix of the Americas|AME]]
+|style="background:#cfcfff;"| [[2018 Spanish motorcycle Grand Prix|SPA]]<br/>{{small|22}}
+|style="background:#cfcfff;"| [[2018 French motorcycle Grand Prix|FRA]]<br/>{{small|26}}
+|style="background:#cfcfff;"| [[2018 Italian motorcycle Grand Prix|ITA]]<br/>{{small|22}}
+| [[2018 Catalan motorcycle Grand Prix|CAT]]
+|style="background:#ffffff;"| [[2018 Dutch TT|NED]]<br/>{{small|DNS}}
+|style="background:#cfcfff;"| [[2018 German motorcycle Grand Prix|GER]]<br/>{{small|24}}
+|style="background:#efcfff;"| [[2018 Czech Republic motorcycle Grand Prix|CZE]]<br/>{{small|Ret}}
+|style="background:#cfcfff;"| [[2018 Austrian motorcycle Grand Prix|AUT]]<br/>{{small|25}}
+|style="background:#ffffff;"| [[2018 British motorcycle Grand Prix|GBR]]<br/>{{small|C}}
+|style="background:#cfcfff;"| [[2018 San Marino and Rimini Riviera motorcycle Grand Prix|RSM]]<br/>{{small|25}}
+|style="background:#cfcfff;"| [[2018 Aragon motorcycle Grand Prix|ARA]]<br/>{{small|28}}
+|style="background:#cfcfff;"| [[2018 Thailand motorcycle Grand Prix|THA]]<br/>{{small|22}}
+|style="background:#cfcfff;"| [[2018 Japanese motorcycle Grand Prix|JPN]]<br/>{{small|27}}
+|style="background:#efcfff;"| [[2018 Australian motorcycle Grand Prix|AUS]]<br/>{{small|Ret}}
+|style="background:#efcfff;"| [[2018 Malaysian motorcycle Grand Prix|MAL]]<br/>{{small|Ret}}
+|style="background:#cfcfff;"| [[2018 Valencian Community motorcycle Grand Prix|VAL]]<br/>{{small|17}}
+|
+! 33rd
+! 0
+|-
+! {{MGP|2019|Moto2}}
+! Moto2
+! [[KTM]]
+|style="background:#cfcfff;"| [[2019 Qatar motorcycle Grand Prix|QAT]]<br />{{small|25}}
+|style="background:#cfcfff;"| [[2019 Argentine motorcycle Grand Prix|ARG]]<br />{{small|21}}
+|style="background:#efcfff;"| [[2019 Motorcycle Grand Prix of the Americas|AME]]<br />{{small|Ret}}
+|style="background:#cfcfff;"| [[2019 Spanish motorcycle Grand Prix|SPA]]<br />{{small|25}}
+|style="background:#efcfff;"| [[2019 French motorcycle Grand Prix|FRA]]<br />{{small|Ret}}
+|style="background:#cfcfff;"| [[2019 Italian motorcycle Grand Prix|ITA]]<br />{{small|25}}
+|style="background:#cfcfff;"| [[2019 Catalan motorcycle Grand Prix|CAT]]<br />{{small|25}}
+|style="background:#cfcfff;"| [[2019 Dutch TT|NED]]<br />{{small|18}}
+|style="background:#cfcfff;"| [[2019 German motorcycle Grand Prix|GER]]<br />{{small|26}}
+|style="background:#cfcfff;"| [[2019 Czech Republic motorcycle Grand Prix|CZE]]<br />{{small|25}}
+|style="background:#cfcfff;"| [[2019 Austrian motorcycle Grand Prix|AUT]]<br />{{small|26}}
+|style="background:#cfcfff;"| [[2019 British motorcycle Grand Prix|GBR]]<br />{{small|27}}
+|style="background:#cfcfff;"| [[2019 San Marino and Rimini Riviera motorcycle Grand Prix|RSM]]<br />{{small|25}}
+|style="background:#cfcfff;"| [[2019 Aragon motorcycle Grand Prix|ARA]]<br />{{small|27}}
+|style="background:#efcfff;"| [[2019 Thailand motorcycle Grand Prix|THA]]<br />{{small|Ret}}
+|style="background:#cfcfff;"| [[2019 Japanese motorcycle Grand Prix|JPN]]<br />{{small|23}}
+|style="background:#cfcfff;"| [[2019 Australian motorcycle Grand Prix|AUS]]<br />{{small|25}}
+|style="background:#cfcfff;"| [[2019 Malaysian motorcycle Grand Prix|MAL]]<br />{{small|23}}
+|style="background:#cfcfff;"| [[2019 Valencian Community motorcycle Grand Prix|VAL]]<br />{{small|28}}
+|
+! 35th
+! 0
+|-
+!rowspan="2"| 2020
+! [[2020 MotoE World Cup|MotoE]]
+! [[Energica Motor Company|Energica]]
+|style="background:#dfffdf;"| [[2020 Spanish motorcycle Grand Prix|SPA]]<br/>{{small|14}}
+|style="background:#dfffdf;"| [[2020 Andalusian motorcycle Grand Prix|ANC]]<br/>{{small|10}}
+|style="background:#dfffdf;"| [[2020 San Marino and Rimini Riviera motorcycle Grand Prix|RSM]]<br/>{{small|14}}
+|style="background:#dfffdf;"| [[2020 Emilia Romagna and Rimini Riviera motorcycle Grand Prix|EMI1]]<br/>{{small|9}}
+|style="background:#dfffdf;"| [[2020 Emilia Romagna and Rimini Riviera motorcycle Grand Prix|EMI2]]<br/>{{small|10}}
+|style="background:#dfffdf;"| [[2020 French motorcycle Grand Prix|FRA1]]<br/>{{small|11}}
+|style="background:#dfffdf;"| [[2020 French motorcycle Grand Prix|FRA2]]<br/>{{small|10}}
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+! 15th
+! 34
+|-
+! [[2020 Moto2 World Championship|Moto2]]
+! [[Speed Up]]
+| [[2020 Qatar motorcycle Grand Prix|QAT]]
+| [[2020 Spanish motorcycle Grand Prix|SPA]]
+| [[2020 Andalusian motorcycle Grand Prix|ANC]]
+| [[2020 Czech Republic motorcycle Grand Prix|CZE]]
+| [[2020 Austrian motorcycle Grand Prix|AUT]]
+| [[2020 Styrian motorcycle Grand Prix|STY]]
+| [[2020 San Marino and Rimini Riviera motorcycle Grand Prix|RSM]]
+| [[2020 Emilia Romagna and Rimini Riviera motorcycle Grand Prix|EMI]]
+| [[2020 Catalan motorcycle Grand Prix|CAT]]
+| [[2020 French motorcycle Grand Prix|FRA]]
+|style="background:#cfcfff;"| [[2020 Aragon motorcycle Grand Prix|ARA]]<br/>{{small|24}}
+|style="background:#cfcfff;"| [[2020 Teruel motorcycle Grand Prix|TER]]<br/>{{small|22}}
+| [[2020 European motorcycle Grand Prix|EUR]]
+| [[2020 Valencian Community motorcycle Grand Prix|VAL]]
+| [[2020 Portuguese motorcycle Grand Prix|POR]]
+|
+|
+|
+|
+|
+! 34th
+! 0
+|-
+!rowspan="2"| 2021
+! [[2021 MotoE World Cup|MotoE]]
+! [[Energica Motor Company|Energica]]
+|style="background:#efcfff;"| [[2021 Spanish motorcycle Grand Prix|SPA]]<br/>{{small|Ret}}
+|style="background:#dfffdf;"| [[2021 French motorcycle Grand Prix|FRA]]<br/>{{small|13}}
+|style="background:#efcfff;"| [[2021 Catalan motorcycle Grand Prix|CAT]]<br/>{{small|Ret}}
+|style="background:#dfffdf;"| [[2021 Dutch TT|NED]]<br/>{{small|12}}
+|style="background:#cfcfff;"| [[2021 Austrian motorcycle Grand Prix|AUT]]<br/>{{small|18}}
+|style="background:#dfffdf;"| [[2021 San Marino and Rimini Riviera motorcycle Grand Prix|RSM1]]<br/>{{small|10}}
+|style="background:#dfffdf;"| [[2021 San Marino and Rimini Riviera motorcycle Grand Prix|RSM2]]<br/>{{small|8}}
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+! 16th
+! 21
+|-
+! [[2021 Moto2 World Championship|Moto2]]
+! [[Kalex]]
+| [[2021 Qatar motorcycle Grand Prix|QAT]]
+| [[2021 Doha motorcycle Grand Prix|DOH]]
+| [[2021 Portuguese motorcycle Grand Prix|POR]]
+| [[2021 Spanish motorcycle Grand Prix|SPA]]
+| [[2021 French motorcycle Grand Prix|FRA]]
+| [[2021 Italian motorcycle Grand Prix|ITA]]
+| [[2021 Catalan motorcycle Grand Prix|CAT]]
+| [[2021 German motorcycle Grand Prix|GER]]
+| [[2021 Dutch TT|NED]]
+| [[2021 Styrian motorcycle Grand Prix|STY]]
+| [[2021 Austrian motorcycle Grand Prix|AUT]]
+| [[2021 British motorcycle Grand Prix|GBR]]
+|style="background:#cfcfff;"| [[2021 Aragon motorcycle Grand Prix|ARA]]<br/>{{small|21}}
+| [[2021 San Marino and Rimini Riviera motorcycle Grand Prix|RSM]]
+| [[2021 Motorcycle Grand Prix of the Americas|AME]]
+| [[2021 Emilia Romagna motorcycle Grand Prix|EMI]]
+| [[2021 Algarve motorcycle Grand Prix|ALR]]
+| [[2021 Valencian Community motorcycle Grand Prix|VAL]]
+|
+|
+! 40th
+! 0
+|-
+! {{MGP|2022|MotoE}}
+! MotoE
+! [[Energica Motor Company|Energica]]
+| [[2022 Spanish motorcycle Grand Prix|SPA1]]
+| [[2022 Spanish motorcycle Grand Prix|SPA2]]
+|style="background:#dfffdf;"| [[2022 French motorcycle Grand Prix|FRA1]]<br/>{{small|11}}
+|style="background:#dfffdf;"| [[2022 French motorcycle Grand Prix|FRA2]]<br/>{{small|14}}
+|style="background:#ffffff;"| [[2022 Italian motorcycle Grand Prix|ITA1]]<br/>{{small|DNS}}
+|style="background:#ffffff;"| [[2022 Italian motorcycle Grand Prix|ITA2]]<br/>{{small|DNS}}
+| [[2022 Dutch TT|NED1]]
+| [[2022 Dutch TT|NED2]]
+|style="background:#dfffdf;"| [[2022 Austrian motorcycle Grand Prix|AUT1]]<br/>{{small|13}}
+|style="background:#dfffdf;"| [[2022 Austrian motorcycle Grand Prix|AUT2]]<br/>{{small|6}}
+|style="background:#dfffdf;"| [[2022 San Marino and Rimini Riviera motorcycle Grand Prix|RSM1]]<br/>{{small|9}}
+|style="background:#dfffdf;"| [[2022 San Marino and Rimini Riviera motorcycle Grand Prix|RSM2]]<br/>{{small|12}}
+|
+|
+|
+|
+|
+|
+|
+|
+! 15th
+! 31
+|-
+! {{MGP|2024|Moto2}}
+! Moto2
+! [[Kalex]]
+|style="background:#CFCFFF;"| [[2024 Qatar motorcycle Grand Prix|QAT]]<br>{{small|23}}
+|style="background:#EFCFFF;"| [[2024 Portuguese motorcycle Grand Prix|POR]]<br>{{small|Ret}}
+|style="background:#CFCFFF;"| [[2024 Motorcycle Grand Prix of the Americas|AME]]<br>{{small|26}}
+|style="background:#CFCFFF;"| [[2024 Spanish motorcycle Grand Prix|SPA]]<br>{{small|17}}
+|style="background:#CFCFFF;"| [[2024 French motorcycle Grand Prix|FRA]]<br>{{small|21}}
+|style="background:#CFCFFF;"| [[2024 Catalan motorcycle Grand Prix|CAT]]<br>{{small|16}}
+|style="background:#CFCFFF;"| [[2024 Italian motorcycle Grand Prix|ITA]]<br>{{small|23}}
+|style="background:#FFFFFF;"| [[2024 Dutch TT|NED]]<br>{{small|DNS}}
+| [[2024 German motorcycle Grand Prix|GER]]
+|style="background:#EFCFFF;"| [[2024 British motorcycle Grand Prix|GBR]]<br>{{small|Ret}}
+|style="background:#CFCFFF;"| [[2024 Austrian motorcycle Grand Prix|AUT]]<br>{{small|26}}
+|style="background:#CFCFFF;"| [[2024 Aragon motorcycle Grand Prix|CAT]]<br>{{small|22}}
+|style="background:#CFCFFF;"| [[2024 San Marino and Rimini Riviera motorcycle Grand Prix|RSM]]<br>{{small|27}}
+|style="background:#CFCFFF;"| [[2024 Emilia Romagna motorcycle Grand Prix|EMI]]<br>{{small|23}}
+|style="background:#EFCFFF;"| [[2024 Indonesian motorcycle Grand Prix|INA]]<br>{{small|Ret}}
+|style="background:#CFCFFF;"| [[2024 Japanese motorcycle Grand Prix|JPN]]<br>{{small|25}}
+|style="background:#CFCFFF;"| [[2024 Australian motorcycle Grand Prix|AUS]]<br>{{small|20}}
+|style="background:#CFCFFF;"| [[2024 Thailand motorcycle Grand Prix|THA]]<br>{{small|20}}
+|style="background:#CFCFFF;"| [[2024 Malaysian motorcycle Grand Prix|MAL]]<br>{{small|21}}
+|style="background:#CFCFFF;"| [[2024 Solidarity motorcycle Grand Prix|SLD]]<br>{{small|22}}
+! 31st
+! 0
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Sports links}}
+
+{{Moto2 teams}}
+
+{{DEFAULTSORT:Cardelús, Xavier}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Andorra la Vella]]
+[[Category:Moto2 World Championship riders]]
+[[Category:Supersport World Championship riders]]
+[[Category:MotoE World Cup riders]]

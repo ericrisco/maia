@@ -1,0 +1,40 @@
+{{Short description|Andorran alpine skier (born 1951)}}
+{{Use dmy dates|date=March 2020}}
+{{Infobox sportsperson
+| name           = Antoni Naudi
+| full_name      = Antoni Naudi Casal
+| image          = 
+| caption        = 
+| nationality    = Andorran
+| sport          = [[Alpine skiing]]
+| birth_date     = {{birth date and age|1951|9|5|df=yes}}
+| birth_place    = 
+| death_date     = 
+| death_place    = 
+}}
+
+'''Antoni Naudi Casal'''{{family name footnote|lang=Catalan|Naudi|Casal}} (born 5 September 1951) is an Andorran [[Alpine skiing|alpine skier]]. He competed in the [[Alpine skiing at the 1976 Winter Olympics – Men's slalom|men's slalom]] at the [[1976 Winter Olympics]].<ref name="SportsRef">{{cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/na/antoni-naudi-1.html |title=Antoni Naudi |access-date=18 March 2018 |url-status=dead |archive-url=https://web.archive.org/web/20200418111917/https://www.sports-reference.com/olympics/athletes/na/antoni-naudi-1.html |archive-date=18 April 2020 |quote=Full name: Antoni Naudi Casal}}</ref>
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{FIS alpine skier|222405}}
+* {{Olympics.com|antoni-naudi|org_archive=20161007001622}}
+* {{Olympedia|95757}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Naudi, Antoni}}
+[[Category:1951 births]]
+[[Category:Living people]]
+[[Category:Andorran male alpine skiers]]
+[[Category:Olympic alpine skiers for Andorra]]
+[[Category:Alpine skiers at the 1976 Winter Olympics]]
+[[Category:Place of birth missing (living people)]]
+
+
+{{Andorra-alpine-skiing-bio-stub}}

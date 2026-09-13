@@ -1,0 +1,65 @@
+{{short description|Andorran sport shooter}}
+{{use dmy dates|date=November 2017}}
+{{Infobox sportsperson
+| name           = Joan Tomàs
+| birth_name     = 
+| full_name       = 
+| nickname       = 
+| nationality    = 
+| residence      = 
+| birth_date     = {{birth date and age|1951|2|17|df=yes}}
+| birth_place    = 
+| death_date     = 
+| death_place    = 
+| height         = 
+| weight         = 
+| website        = 
+| country        = 
+| sport          = [[Shooting sport|Sports shooting]]
+| event          = 
+| olympics       = 
+| highest_ranking = 
+| personal_best             = 
+| medal_templates = 
+| show_medals    = yes
+}}
+
+'''Joan Tomàs Roca''' (born 17 February 1951) is an [[Andorra]]n [[Trap shooting|trap shooter]] who competed in five Summer Olympics spanning 36 years.<ref name="Bio">{{cite web|title=Joan Tomas|url=https://www.sports-reference.com/olympics/athletes/to/joan-tomas-1.html|archive-url=https://web.archive.org/web/20200418010603/https://www.sports-reference.com/olympics/athletes/to/joan-tomas-1.html|url-status=dead|archive-date=18 April 2020|website=Olympics at Sports-Reference.com|accessdate=19 November 2017}}</ref>
+
+Tomàs started practicing shooting in 1971, and two years later, he started to compete in events.<ref name="issf">{{cite web|title=ROCA, Joan Tomas|url=http://www.issf-sports.org/athletes/athlete.ashx?personissfid=SHANDM1702195101|website=issf-sports.org|accessdate=19 November 2017}}</ref>
+
+Tomàs was 25 years old when he made his first appearance in the Olympics, when he competed in the [[Shooting at the 1976 Summer Olympics – Mixed trap|mixed trap]] event at the [[1976 Summer Olympics]] in [[Montreal]], where he scored 162 points and finished in 33rd place.<ref>{{cite web|title=Shooting at the 1976 Montreal Summer Games: Mixed Trap|url=https://www.sports-reference.com/olympics/summer/1976/SHO/mixed-trap.html|archive-url=https://web.archive.org/web/20200418131405/https://www.sports-reference.com/olympics/summer/1976/SHO/mixed-trap.html|url-status=dead|archive-date=18 April 2020|website=Olympics at Sports-reference.com|accessdate=19 November 2017}}</ref> At the [[1980 Summer Olympics|1980]] and [[1984 Summer Olympics]] he had his best Olympic results, when he finished in 26th place at both Games.<ref>{{cite web|title=Shooting at the 1980 Moskva Summer Games: Mixed Trap|url=https://www.sports-reference.com/olympics/summer/1980/SHO/mixed-trap.html|archive-url=https://web.archive.org/web/20200418132010/https://www.sports-reference.com/olympics/summer/1980/SHO/mixed-trap.html|url-status=dead|archive-date=18 April 2020|website=Olympics at Sports-Reference.com|accessdate=19 November 2017}}</ref><ref>{{cite web|title=Shooting at the 1984 Los Angeles Summer Games: Mixed Trap|url=https://www.sports-reference.com/olympics/summer/1984/SHO/mixed-trap.html|archive-url=https://web.archive.org/web/20200418050043/https://www.sports-reference.com/olympics/summer/1984/SHO/mixed-trap.html|url-status=dead|archive-date=18 April 2020|website=Olympics at Sports-Reference.com|accessdate=19 November 2017}}</ref> It was 16 years before Tomàs returned to the Olympic scene, when he competed in the [[Shooting at the 2000 Summer Olympics – Men's trap|trap]] event at the [[2000 Summer Olympics]]. He went on to finish in 39th place out of 41 shooters.<ref>{{cite web|title=Shooting at the 2000 Sydney Summer Games: Men's Trap|url=https://www.sports-reference.com/olympics/summer/2000/SHO/mens-trap.html|archive-url=https://web.archive.org/web/20200418030643/https://www.sports-reference.com/olympics/summer/2000/SHO/mens-trap.html|url-status=dead|archive-date=18 April 2020|website=Olympics at Sports-Reference.com|accessdate=19 November 2017}}</ref> His final Olympic appearance was at the [[2012 Summer Olympics]] in [[London]] aged 61 when he again competed in the [[Shooting at the 2012 Summer Olympics – Men's trap|trap]] event, finishing in 33rd place out of 34 shooters.<ref>{{cite web|title=Shooting at the 2012 London Summer Games: Men's Trap|url=https://www.sports-reference.com/olympics/summer/2012/SHO/mens-trap.html|archive-url=https://web.archive.org/web/20200418124659/https://www.sports-reference.com/olympics/summer/2012/SHO/mens-trap.html|url-status=dead|archive-date=18 April 2020|website=Olympics at Sports-Reference.com|accessdate=19 November 2017}}</ref>
+
+Tomàs was also his country's flag bearer at the [[1984 Summer Olympics]] and the [[2012 Summer Olympics]].<ref>{{cite web|title=Andorra|url=https://www.sports-reference.com/olympics/countries/AND/|archive-url=https://web.archive.org/web/20200417093554/https://www.sports-reference.com/olympics/countries/AND/|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|accessdate=19 November 2017}}</ref>
+
+In addition to his five Olympic appearances, he also competed in nine [[ISSF World Shooting Championships]], with his best finish of 69th in 2003, and 15 [[ISSF European Shooting Championships]], with his best finish of 38th in 2000.<ref name="issf" />
+
+He is married with two children, and works in insurance, and shoots for the Mollet Club in [[Barcelona]],<ref name="issf" /> his younger brother [[Esteve Tomàs]] competed in the [[Alpine skiing at the 1976 Winter Olympics – Men's giant slalom|giant slalom]] at the [[1976 Winter Olympics]].<ref name="Bio" />
+
+== References ==
+{{Reflist}}
+
+==External links==
+*{{sports links}}
+{{Authority control}}
+
+{{s-start}}
+{{s-sports|oly}}
+{{succession box
+| before = [[Lluís Marín]]
+| title = [[List of flag bearers for Andorra at the Olympics|Flag bearer]] for {{AND}}
+| years = [[2012 Summer Olympics|London 2012]]
+| after = [[Mireia Gutiérrez]]
+}}
+{{s-end}}
+
+{{DEFAULTSORT:Tomas, Joan}}
+[[Category:Shooters at the 1976 Summer Olympics]]
+[[Category:Shooters at the 1980 Summer Olympics]]
+[[Category:Shooters at the 1984 Summer Olympics]]
+[[Category:Shooters at the 2000 Summer Olympics]]
+[[Category:Shooters at the 2012 Summer Olympics]]
+[[Category:1951 births]]
+[[Category:Andorran male sport shooters]]
+[[Category:Olympic shooters for Andorra]]
+[[Category:Living people]]

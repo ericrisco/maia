@@ -1,0 +1,65 @@
+{{short description|Andorran footballer}}
+{{family name hatnote|Clemente|Garcés|lang=Catalan}}
+{{Infobox football biography
+| name           = Ludovic Clemente
+| fullname       = Ludovic Clemente Garcés
+| image          = Andorra national football team - Ludovic Clemente (001).jpg
+| birth_date     = {{birth date and age|1986|5|9}}
+| birth_place    = [[Andorra la Vella]], Andorra
+| height         = {{height|m=1.71}}
+| position       = [[Midfielder]]
+| currentclub    = 
+| clubnumber     = 
+| years1         = 2004–2007
+| clubs1         = [[FC Andorra]]
+| caps1          = 67
+| goals1         = 14
+| years2         = 2007
+| clubs2         = [[CE Manresa|Manresa]]
+| caps2          = 6
+| goals2         = 0
+| years3         = 2007–2009
+| clubs3         = [[FC Andorra]]
+| caps3          = 56
+| goals3         = 14
+| years4         = 2009–2011
+| clubs4         = [[FC Andorra Futsal|FC Andorra]] (indoor)
+| caps4          =
+| goals4         =
+| years5         = 2011–2020
+| clubs5         = [[FC Andorra]]
+| caps5          = 241
+| goals5         = 37
+| years6         = 2020–2022
+| clubs6         = [[Inter Club d'Escaldes|Inter d'Escaldes]]
+| caps6          = 25
+| goals6         = 2
+| years7         = 2022–2024
+| clubs7         = [[UE Santa Coloma]]
+| caps7          = 20
+| goals7         = 1
+| nationalyears1 = 2005–2024
+| nationalteam1  = [[Andorra national football team|Andorra]]
+| nationalcaps1  = 47
+| nationalgoals1 = 0
+| club-update    = 20 May 2024
+| nationalteam-update = 4 June 2024
+}}
+'''Ludovic Clemente Garcés''' (born May 9, 1986) is a former Andorran [[Association football|footballer]].<ref>{{NFT player|pid=12173}}</ref>
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Clemente, Ludovic}}
+[[Category:1986 births]]
+[[Category:Living people]]
+[[Category:Andorran men's footballers]]
+[[Category:Andorran expatriate sportspeople in Spain]]
+[[Category:Andorra men's international footballers]]
+[[Category:FC Andorra players]]
+[[Category:Andorran expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:CE Manresa players]]
+[[Category:Men's association football midfielders]]
+
+{{Andorra-footy-bio-stub}}

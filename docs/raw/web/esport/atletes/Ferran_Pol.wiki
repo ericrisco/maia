@@ -1,0 +1,95 @@
+{{short description|Andorran footballer}}
+{{Multiple issues|
+{{BLP sources|date=October 2014}}
+{{no footnotes|date=October 2014}}
+}}
+{{Use dmy dates|date=December 2020}}
+{{Infobox football biography
+| name     = Ferran Pol
+| image          = Andorra national football team - Ferran Pol (001).jpg
+| caption        =
+| fullname       = Ferran Pol Pérez
+| birth_date    = {{birth date and age|1983|2|28|df=y}}
+|height= 1.82 m<ref>{{cite web|publisher=UEFA|url=https://www.uefa.com/uefanationsleague/teams/players/42896--ferran-pol/|title=Ferran Pol player profile|access-date=24 August 2019|language=English}}</ref>
+| birth_place    = [[Andorra la Vella]], [[Andorra]]
+| position       = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub    = 
+| clubnumber     =
+| years1         = 2002–2003
+| clubs1         = [[UA Horta|Horta]]
+| caps1          = 
+| goals1         = 
+| years2         = 2003–2006
+| clubs2         = [[CD Masnou|Masnou]]
+| caps2          = 
+| goals2         = 
+| years3         = 2006–2008
+| clubs3         = [[UDA Gramenet|Gramenet]]
+| caps3          = 23
+| goals3         = 0
+| years4         = 2008–2009
+| clubs4         = [[UE Vilassar de Mar|Vilassar de Mar]]
+| caps4          = 34
+| goals4         = 0
+| years5         = 2009–2010
+| clubs5         = [[UE Sants|Sants]]
+| caps5          = 
+| goals5         = 
+| years6         = 2010–2013
+| clubs6         = [[FC Andorra]]
+| caps6          = 93
+| goals6         = 0
+| years7         = 2013–2014
+| clubs7         = [[FC Lusitanos|Lusitanos]]
+| caps7          = 24
+| goals7         = 0
+| years8         = 2014–2018
+| clubs8         = [[FC Andorra]]
+| caps8          = 131
+| goals8         = 0
+| years9         = 2018–2019
+| clubs9         = [[UE Sant Julia]]
+| caps9          = 15
+| goals9         = 0
+| years10        = 2019–2021
+| clubs10        = [[UE Santa Coloma]]
+| caps10         = 20
+| goals10        = 1
+| nationalyears1 = 2010–2019
+| nationalteam1  = [[Andorra national football team|Andorra]]
+| nationalcaps1  = 27
+| nationalgoals1 = 0
+| club-update    = 
+| ntupdate       = 
+}}
+
+{{family name hatnote|Pol|Pérez|lang=Catalan}}
+'''Ferran Pol Pérez''' (born 28 February 1983) is an Andorran former international [[association football|footballer]] who last played as a [[Goalkeeper (association football)|goalkeeper]] for [[UE Santa Coloma]].
+
+==International career==
+Pol made his senior international debut on 2 June 2010 in a 1-0 friendly defeat to [[Albania national football team|Albania]].<ref>{{cite web|url=https://www.national-football-teams.com/matches/report/11268/Albania_Andorra.html|title=Albania vs. Andorra (1:0)|website=national-football-teams.com|accessdate=26 January 2019}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{NFT player|pid=38592}}
+
+{{DEFAULTSORT:Pol, Ferran}}
+[[Category:1983 births]]
+[[Category:Living people]]
+[[Category:Andorran men's footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:Men's association football goalkeepers]]
+[[Category:UE Vilassar de Mar players]]
+[[Category:UA Horta players]]
+[[Category:CD Masnou players]]
+[[Category:UDA Gramenet footballers]]
+[[Category:UE Sants players]]
+[[Category:FC Andorra players]]
+[[Category:FC Lusitanos players]]
+[[Category:UE Sant Julià players]]
+[[Category:UE Santa Coloma players]]
+
+
+{{Andorra-footy-bio-stub}}

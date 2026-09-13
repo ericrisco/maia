@@ -1,0 +1,142 @@
+{{short description|Andorran footballer}}
+{{Use dmy dates|date=September 2024}}
+{{BLP sources|date=December 2017}}
+{{Infobox football biography
+|name                = Andreu Matos
+|image               = Andorra national football team - Andreu Matos (001).jpg
+|caption             = Matos in 2016
+|fullname            = Andreu Matos Muñoz
+|birth_date          = {{birth date and age|1995|12|01|df=y}}
+|birth_place         = [[Andorra la Vella]], Andorra
+|height              = 1.78 m
+|currentclub         = [[UE Santa Coloma]]
+|clubnumber          = 20
+|position            = [[Forward (association football)|Forward]]
+|youthyears1         = {{0|0000}}–2012
+|youthclubs1         = [[FC Santa Coloma]]
+|youthyears2         = 2013
+|youthclubs2         = [[FC Andorra]]
+|years1              = 2013–2014 |clubs1 = [[FC Santa Coloma]]                        |caps1 =    |goals1 = 
+|years2              = 2014–2015 |clubs2 = [[Inter Club d'Escaldes|Inter d'Escaldes]] |caps2 =    |goals2 = 
+|years3              = 2015      |clubs3 = [[FC Santa Coloma]]                        |caps3 = 2  |goals3 = 0
+|years4              = 2016      |clubs4 = [[UE Engordany]]                           |caps4 = 2  |goals4 = 1
+|years5              = 2016–2017 |clubs5 = [[FC Santa Coloma]]                        |caps5 = 8  |goals5 = 0
+|years6              = 2017–2019 |clubs6 = [[FC Encamp|Encamp]]                       |caps6 = 21 |goals6 = 6
+|years7              = 2019–     |clubs7 = [[UE Santa Coloma]]                        |caps7 = 19 |goals7 = 3
+|nationalyears1      = 2012–2013
+|nationalteam1       = [[Andorra national under-19 football team|Andorra U19]]
+|nationalcaps1       = 5
+|nationalgoals1      = 0
+|nationalyears2      = 2015–2016
+|nationalteam2       = [[Andorra national under-21 football team|Andorra U21]]
+|nationalcaps2       = 10
+|nationalgoals2      = 0
+|nationalyears3      = 2016
+|nationalteam3       = [[Andorra national football team|Andorra]]
+|nationalcaps3       = 2
+|nationalgoals3      = 0
+|club-update         = 21:25, 14 July 2020 (UTC)
+|nationalteam-update = 21:25, 14 July 2020 (UTC)
+}}
+
+'''Andreu Matos Muñoz''' (born 1 December 1995) is an Andorran [[Association football|footballer]] currently playing as a [[Forward (association football)|forward]] for [[FC Santa Coloma]] of the [[Primera Divisió]].
+
+==Career statistics==
+
+===Club===
+{{updated|14 July 2020.}}<ref>{{Soccerway|andreu-matos-munoz/276289}}</ref>
+
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|[[FC Santa Coloma]]
+|rowspan="2"|[[2015–16 Primera Divisió|2015–16]]
+|rowspan="5"|[[Primera Divisió]]
+|2||0||0||0||0||0||0||0||2||0
+|-
+|[[UE Engordany]]
+|2||1||4{{efn|name=CC|Appearances in the [[Copa Constitució]]}}||0||colspan="2"|–||4{{efn|name=RR|Appearances in the [[2015–16 Primera Divisió#Relegation round|Relegation round]]}}||5||10||6
+|-
+|[[FC Santa Coloma]]
+|[[2016–17 Primera Divisió|2016–17]]
+|8||0||0||0||0||0||3{{efn|name=CR|Appearances in the [[2016–17 Primera Divisió#Championship round|Championship round]]}}||1||11||1
+|-
+|rowspan="3"|[[FC Encamp|Encamp]]
+|[[2017–18 Primera Divisió|2017–18]]
+|11||5||0||0||colspan="2"|–||6{{efn|name=RR/PO|Five appearances and two goals in the [[2017–18 Primera Divisió#Relegation round|Relegation round]], one appearance and two goals in the [[2017–18 Primera Divisió#Primera Divisió play-offs|Primera Divisió play-offs]]}}||4||17||9
+|-
+|[[2018–19 Primera Divisió|2018–19]]
+|10||1||1{{efn|name=CC}}||0||colspan="2"|–||6{{efn|name=RR2|Appearances in the [[2018–19 Primera Divisió#Relegation round|Relegation round]]}}||0||17||1
+|-
+! colspan="2" |'''Total'''
+!21!!6!!1!!0!!0!!0!!12!!4!!34!!10
+|-
+|[[UE Santa Coloma]]
+|[[2019–20 Primera Divisió|2019–20]]
+|[[Primera Divisió]]
+|19||3||0||0||colspan="2"|–||0||0||19||3
+|-
+! colspan="3" |'''Career total'''
+!52!!10!!5!!0!!0!!0!!19!!10!!76!!20
+|}
+;Notes
+{{notelist}}
+
+===International===
+<!-- NOTE: when updating stats, update the infobox too! -->
+{{updated|match played 14 July 2020.}}<ref>{{NFT player|pid=64378}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+! National team!!Year!!Apps!!Goals
+|-
+| rowspan="1"|[[Andorra national football team|Andorra]]
+|2016||2||0
+|-
+! colspan=2|Total!!2!!0
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://web.archive.org/web/20171205194617/http://www.uefa.com/teamsandplayers/players/player=250051945/profile/index.html UEFA] Profile
+
+{{DEFAULTSORT:Matos, Andreu}}
+[[Category:1995 births]]
+[[Category:Living people]]
+[[Category:Andorran men's footballers]]
+[[Category:Andorran expatriate men's footballers]]
+[[Category:Men's association football forwards]]
+[[Category:FC Santa Coloma players]]
+[[Category:FC Andorra players]]
+[[Category:UE Engordany players]]
+[[Category:FC Encamp players]]
+[[Category:Inter Club d'Escaldes players]]
+[[Category:Andorra men's international footballers]]
+[[Category:Andorran expatriate sportspeople in Spain]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:Andorra men's under-21 international footballers]]
+[[Category:Andorra men's youth international footballers]]
+
+
+{{Andorra-footy-bio-stub}}

@@ -1,0 +1,27 @@
+{{short description|Andorran Olympic judoka}}
+{{infobox judoka
+| medal_templates =
+{{MedalSport | Men's [[Judo]]}}
+{{MedalCountry | {{AND}} }}
+{{MedalCompetition|[[Games of the Small States of Europe]]}}
+{{MedalGold | [[Judo at the 2013 Games of the Small States of Europe|2013 Luxembourg]] | 73 kg}}
+}}
+'''Daniel García González''' (born 9 October 1984 in [[Andorra la Vella]], [[Andorra]]) is an [[Andorra]]n [[judo]]ka.<ref>{{Cite web |url=http://www.london2012.com/athlete/garcia-gonzalez-daniel-1066940/ |title=London 2012 profile |access-date=2012-08-04 |archive-date=2013-01-28 |archive-url=https://archive.today/20130128041246/http://www.london2012.com/athlete/garcia-gonzalez-daniel-1066940/ |url-status=dead }}</ref> He competed in the Men's 66&nbsp;kg category at the [[Judo at the 2008 Summer Olympics – Men's 66 kg|2008 Summer Olympics]] and [[Judo at the 2012 Summer Olympics – Men's 66 kg|2012 Summer Olympics]].<ref>{{ Cite sports-reference |title = Daniel García|url = https://www.sports-reference.com/olympics/athletes/ga/daniel-garcia-2.html|archive-url = https://web.archive.org/web/20200418094040/https://www.sports-reference.com/olympics/athletes/ga/daniel-garcia-2.html|url-status = dead|archive-date = 18 April 2020|access-date = 11 August 2012}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{sports links}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Garcia Gonzalez, Daniel}}
+[[Category:Andorran male judoka]]
+[[Category:1984 births]]
+[[Category:Living people]]
+[[Category:Olympic judoka for Andorra]]
+[[Category:Judoka at the 2008 Summer Olympics]]
+[[Category:Judoka at the 2012 Summer Olympics]]
+
+{{Andorra-judo-bio-stub}}

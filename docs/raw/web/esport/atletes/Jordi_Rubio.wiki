@@ -1,0 +1,86 @@
+{{short description|Andorran footballer}}
+{{Multiple issues|
+{{BLP sources|date=October 2014}}
+{{more footnotes|date=October 2014}}
+}}
+{{Use dmy dates|date=December 2020}}
+{{Infobox football biography
+| name           = Jordi Rubio
+| image          = Andorra national football team - Jordi Rubio (001).jpg
+| caption        = Jordi Rubio in 2016
+| fullname       = Jordi Rubio Gómez
+| birth_date     = {{birth date and age|1987|11|1|df=y}}
+| birth_place    = [[Andorra la Vella]], [[Andorra]]
+| height         = 1.73 m<ref>{{cite web|publisher=UEFA|url=https://www.uefa.com/uefanationsleague/teams/players/73090--jordi-rubio/|title=Jordi Rubio player profile|access-date=27 August 2019|language=English}}</ref>
+| position       = [[Defender (association football)|Defender]]
+| currentclub    = [[FC Santa Coloma]]
+| clubnumber     = 14
+| years1         = 2006–2008
+| clubs1         = [[FC Andorra]]
+| caps1          = 52
+| goals1         = 4
+| years2         = 2008–2018
+| clubs2         = [[UE Santa Coloma]]
+| caps2          = 153+
+| goals2         = 48+
+| years3         = 2018
+| clubs3         = [[FC Andorra]]
+| caps3          = 9
+| goals3         = 2
+| years4         = 2018–2020
+| clubs4         = [[UE Santa Coloma]]
+| caps4          = 47
+| goals4         = 8
+| years5         = 2020–2022
+| clubs5         = [[Inter Club d'Escaldes|Inter d'Escaldes]]
+| caps5          = 37
+| goals5         = 0
+| years6         = 2022–2023
+| clubs6         = [[UE Engordany]]
+| caps6          = 24
+| goals6         = 0
+| years7         = 2023–2024
+| clubs7         = [[FC Pas de la Casa|Pas de la Casa]]
+| caps7          = 22
+| goals7         = 2
+| years8         = 2024–
+| clubs8         = [[FC Santa Coloma]]
+| caps8          = 9
+| goals8         = 0
+| nationalyears1 = 2006–
+| nationalteam1  = [[Andorra national football team|Andorra]]
+| nationalcaps1  = 66
+| nationalgoals1 = 0
+| club-update    = 10 February 2025
+| ntupdate       = 11 June 2024
+}}
+{{family name hatnote|Rubio|Gómez|lang=Catalan}}
+'''Jordi Rubio Gómez''' (born 1 November 1987) is an [[Andorra]]n international [[association football|footballer]] who plays as a [[Defender (association football)|defender]] for [[FC Santa Coloma]].<ref name="soccerway">{{Soccerway|55889}}</ref>
+
+==Career==
+Rubio began his senior career at [[FC Andorra]] in 2006, before moving to [[UE Santa Coloma|Santa Coloma]] in 2008.
+
+He made his international debut for [[Andorra national football team|Andorra]] in 2006.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{NFT player|pid=20831}}
+
+{{FC Santa Coloma squad}}
+
+{{DEFAULTSORT:Rubio, Jordi}}
+[[Category:1987 births]]
+[[Category:Living people]]
+[[Category:Andorran men's footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:FC Andorra players]]
+[[Category:UE Santa Coloma players]]
+[[Category:Men's association football defenders]]
+[[Category:Inter Club d'Escaldes players]]
+[[Category:UE Engordany players]]
+[[Category:FC Pas de la Casa players]]
+
+
+{{Andorra-footy-bio-stub}}

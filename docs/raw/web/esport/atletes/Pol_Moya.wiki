@@ -1,0 +1,264 @@
+{{short description|Andorran middle-distance runner}}
+{{Use dmy dates|date=May 2021}}
+{{Infobox sportsperson
+| name           = Pol Moya
+| image          = Pol Moya 2019 (cropped).jpg
+| image_size     = 140px
+| caption        = Moya in 2019
+| full_name      = Pol Moya Betriu
+| birth_date     = {{birth date and age|df=yes|1996|12|9}}
+| birth_place    = [[La Seu d'Urgell]], [[Province of Lleida|Lleida]], Spain
+| height         = 178 cm
+| weight         = 62 kg
+| country        = {{AND}}
+| sport          = [[Athletics (sport)|Athletics]]
+| event          = [[800 metres]]
+| club           = Club Atletisme Valls d'Andorra
+| coach          = José Antonio Prieto
+| show_medals    = yes
+| medal_templates = 
+}}
+
+'''Pol Moya Betriu'''{{family name footnote|lang=Catalan|Moya|Betriu}} (born 9 December 1996) is an [[Andorra]]n [[middle-distance runner]] competing primarily in the [[800 metres]].<ref>{{World Athletics}}</ref> He represented his country at the [[2016 IAAF World Indoor Championships|2016 World Indoor Championships]] without qualifying for the final. He is the [[List of Andorran records in athletics|national record]] holder on several distances.
+
+Moya represented Andorra at the [[2016 Summer Olympics]], but did not qualify for the final.<ref>{{Cite web |url=https://www.rio2016.com/en/athletics-standings-at-mens-800m |title=Men's 800m |website=Rio2016.com |publisher=[[Rio 2016 Organising Committee for the Olympic and Paralympic Games]] |access-date=2016-08-22 |url-status=dead |archiveurl=https://web.archive.org/web/20160826085921/https://www.rio2016.com/en/athletics-standings-at-mens-800m |archivedate=2016-08-26}}</ref><ref name="SR">{{cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/mo/pol-moya-1.html |archive-url=https://web.archive.org/web/20190903054714/https://www.sports-reference.com/olympics/athletes/mo/pol-moya-1.html |archive-date=2019-09-03 |quote=Full name: Pol Moya Betriu}}</ref> He was the [[2016 Summer Olympics closing ceremony flag bearers|flag bearer]] for Andorra for the closing ceremonies.<ref>{{Cite web |url=https://www.olympic.org/news/the-flagbearers-for-the-rio-2016-closing-ceremony |title=The Flagbearers for the Rio 2016 Closing Ceremony |date=2016-08-21 |access-date=2016-08-22 |website=Olympic.org}}</ref>
+
+Moya was born in Spain to Spanish parents. He is studying at the [[Polytechnic University of Catalonia]].<ref>{{cite web |url=http://www.elperiodico.com/es/noticias/deportes/atletismo-andorra-campeonato-del-mundo-portland-pol-moya-4982768 |title=Una bala para Andorra |publisher=El Periódico |date=16 March 2016 |language=Spanish}}</ref>
+
+==Competition record==
+{| {{AchievementTable|Event=yes}}
+|-
+!colspan="6"|Representing {{AND}}
+|-
+|2014
+|[[2014 World Junior Championships in Athletics|World Junior Championships]]
+|[[Eugene, Oregon|Eugene, United States]]
+|47th (h)
+|800 m
+|[[2014 World Junior Championships in Athletics – Men's 800 metres|1:58.44]]
+|-
+|2015
+|[[2015 European Athletics Junior Championships|European Junior Championships]]
+|[[Eskilstuna, Sweden]]
+|26th (h)
+|800 m
+|1:56.04
+|-
+|rowspan=3|2016
+|[[2016 IAAF World Indoor Championships|World Indoor Championships]]
+|[[Portland, Oregon|Portland]], United States
+|14th (h)
+|800 m {{AthAbbr|i}}
+|[[2016 IAAF World Indoor Championships – Men's 800 metres|1:54.19]]
+|-
+|[[2016 European Athletics Championships|European Championships]]
+|[[Amsterdam, Netherlands]]
+|19th (h)
+|800 m
+|[[2016 European Athletics Championships – Men's 800 metres|1:50.03]]
+|-
+|[[Athletics at the 2016 Summer Olympics|Olympic Games]]
+|[[Rio de Janeiro, Brazil]]
+|37th (h)
+|800 m
+|[[Athletics at the 2016 Summer Olympics – Men's 800 metres|1:48.88]]
+|-
+|rowspan=5|2017
+|[[2017 European Athletics Indoor Championships|European Indoor Championships]]
+|[[Belgrade]], [[Serbia]]
+|19th (h)
+|800 m {{AthAbbr|i}}
+|[[2017 European Athletics Indoor Championships – Men's 800 metres|1:50.88]]
+|-
+|rowspan=2|[[Athletics at the 2017 Games of the Small States of Europe|Games of the Small States of Europe]]
+|rowspan=2|[[Serravalle, San Marino]]
+|bgcolor=cc9966|3rd
+|800 m
+|[[Athletics at the 2017 Games of the Small States of Europe#800 metres|1:50.72]]
+|-
+|bgcolor=silver|2nd
+|1500 m
+|[[Athletics at the 2017 Games of the Small States of Europe#1500 metres|4:01.06]]
+|-
+|[[2017 European Athletics U23 Championships|European U23 Championships]]
+|[[Bydgoszcz, Poland]]
+|11th (h)
+|800 m
+|[[2017 European Athletics U23 Championships – Men's 800 metres|1:49.48]]
+|-
+|[[2017 World Championships in Athletics|World Championships]]
+|[[London, United Kingdom]]
+|37th (h)
+|800 m
+|[[2017 World Championships in Athletics – Men's 800 metres|1:49.06]]
+|-
+|rowspan=2|2019
+|[[2019 European Athletics Indoor Championships|European Indoor Championships]]
+|[[Glasgow]], United Kingdom
+|33rd (h)
+|800 m {{AthAbbr|i}}
+|[[2019 European Athletics Indoor Championships – Men's 800 metres|1:53.21]]
+|-
+|[[2019 World Athletics Championships|World Championships]]
+|[[Doha, Qatar]]
+|37th (h)
+|800 m
+|[[2019 World Athletics Championships – Men's 800 metres|1:48.52]]
+|-
+|rowspan=2|2021
+|[[2021 European Athletics Indoor Championships|European Indoor Championships]]
+|[[Toruń]], Poland
+|36th (h)
+|800 m {{AthAbbr|i}}
+|[[2021 European Athletics Indoor Championships – Men's 800 metres|1:51.97]]
+|-
+|[[Athletics at the 2020 Summer Olympics|Olympic Games]]
+|[[Tokyo, Japan]]
+|37th (h)
+|800 m
+|[[Athletics at the 2020 Summer Olympics – Men's 800 metres|1:47.44]]
+|-
+|rowspan=5|2022
+|rowspan=3|[[2022 Ibero-American Championships in Athletics|Ibero-American Championships]]
+|rowspan=3|[[La Nucía]], [[Spain]]
+|10th (h)
+|800 m
+|[[2022 Ibero-American Championships in Athletics – Results#800 meters|1:49.51]]
+|-
+|bgcolor=cc9966|3rd
+|1500 m
+|[[2022 Ibero-American Championships in Athletics – Results#1500 meters|3:44.64]]
+|-
+|6th
+|4 × 400 m relay
+|[[2022 Ibero-American Championships in Athletics – Results#4 × 400 meters relay|3:26.02]]
+|-
+|rowspan=2|[[Athletics at the 2022 Mediterranean Games|Mediterranean Games]]
+|rowspan=2|[[Oran, Algeria]]
+|15th (h)
+|800 m
+|[[Athletics at the 2022 Mediterranean Games – Results#800 metres|1:49.39]]
+|-
+|5th
+|1500 m
+|[[Athletics at the 2022 Mediterranean Games – Results#1500 metres|3:43.58]]
+|-
+|rowspan=4|2023
+|[[2023 European Athletics Indoor Championships|European Indoor Championships]]
+|[[Istanbul]], [[Turkey]]
+|7th (h)
+|1500 m {{AthAbbr|i}}
+|[[2023 European Athletics Indoor Championships – Men's 1500 metres|3:42.23]]
+|-
+|rowspan=2|[[Athletics at the 2023 Games of the Small States of Europe|Games of the Small States of Europe]]
+|rowspan=2|[[Marsa, Malta]]
+|bgcolor=silver|2nd
+|800 m
+|[[Athletics at the 2023 Games of the Small States of Europe#800 meters|1:50.37]]
+|-
+|bgcolor=gold|1st
+|1500 m
+|[[Athletics at the 2023 Games of the Small States of Europe#1500 meters|3:41.10]]
+|-
+|[[2023 European Games|European Games]]
+|[[Chorzów]], Poland
+|24th
+|800 m
+|1:49.57
+|-
+|rowspan=2|2024
+|rowspan=2|[[2024 Championships of the Small States of Europe|Championships of the Small States of Europe]]
+|rowspan=2|[[Gibraltar]]
+|bgcolor=silver|2nd
+|800 m
+|1:53.57
+|-
+|bgcolor=gold|1st
+|1500 m
+|4:04.86
+|-
+|rowspan=4|2025
+|[[2025 European Athletics Indoor Championships|European Indoor Championships]]
+|[[Apeldoorn]], Netherlands
+|13th (h)
+|1500 m {{AthAbbr|i}}
+|[[2025 European Athletics Indoor Championships – Men's 1500 metres|3:41.48]]
+|-
+|rowspan=3|[[Athletics at the 2025 Games of the Small States of Europe|Games of the Small States of Europe]]
+|rowspan=3|[[Andorra la Vella, Andorra]]
+|bgcolor=gold|1st
+|800 m
+|[[Athletics at the 2025 Games of the Small States of Europe#800 meters|1:47.85]]
+|-
+|bgcolor=gold|1st
+|1500 m
+|[[Athletics at the 2025 Games of the Small States of Europe#1500 meters|3:47.23]]
+|-
+|4th
+|4 × 400 m relay
+|[[Athletics at the 2025 Games of the Small States of Europe#4 × 400 meters relay|3:17.19]]
+|-
+|rowspan=2|2026
+|[[2026 World Athletics Indoor Championships|World Indoor Championships]]
+|[[Toruń, Poland]]
+|23rd (h)
+|1500 m {{AthAbbr|i}}
+|[[2026 World Athletics Indoor Championships – Men's 1500 metres|3:44.68]]
+|-
+|[[Athletics at the 2026 Mediterranean Games|Mediterranean Games]]
+|[[Taranto, Italy]]
+|8th
+|1500 m
+|[[Athletics at the 2026 Mediterranean Games#1500 metres|3:43.96]]
+|}
+
+==Personal bests==
+'''Outdoor'''
+*[[800 metres]] – 1:46.19 (Castellón 2023) '''[[List of Andorran records in athletics|NR]]'''
+*[[1000 metres]] – 2:23.34 (Olot 2020) '''NR'''
+*[[1500 metres]] – 3:35.60 (Nice 2024) '''NR'''
+'''Indoor'''
+*[[800 metres]] – 1:48.86 (Sabadell 2017) '''NR'''
+*[[1500 metres]] – 3:40.10 (Madrid 2025) '''NR'''
+*[[3000 metres]] – 8:09.34 (Sabadell 2024)
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{World Athletics|14652562}}
+* {{European Athletics|14652562|old_id=m/athlete=101970-moya-pol|archive=20200717161040}}
+* {{Olympics.com}}
+* {{Olympedia}}
+{{Authority control}}
+{{s-start}}
+{{s-sports|oly}}
+{{succession box
+| before = [[Irineu Esteve Altimiras]]
+| title = [[List of flag bearers for Andorra at the Olympics|Flag bearer]] for {{AND}}
+| years = [[2020 Summer Olympics|Tokyo 2020]]<br />with <br />[[Mònica Dòria]]
+| after = [[Maeva Estevez]]
+}}
+{{s-end}}
+
+{{DEFAULTSORT:Moya, Pol}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:Andorran men middle-distance runners]]
+[[Category:Athletes (track and field) at the 2016 Summer Olympics]]
+[[Category:Olympic athletes for Andorra]]
+[[Category:World Athletics Championships athletes for Andorra]]
+[[Category:Athletes (track and field) at the 2018 Mediterranean Games]]
+[[Category:Athletes (track and field) at the 2022 Mediterranean Games]]
+[[Category:Mediterranean Games competitors for Andorra]]
+[[Category:People from La Seu d'Urgell]]
+[[Category:Sportspeople from the Province of Lleida]]
+[[Category:Athletes (track and field) at the 2020 Summer Olympics]]
+[[Category:European Games competitors for Andorra]]
+[[Category:Athletes (track and field) at the 2023 European Games]]
+[[Category:Olympic men middle-distance runners]]
+
+{{Andorra-athletics-bio-stub}}

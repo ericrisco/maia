@@ -1,0 +1,116 @@
+{{short description|Andorran footballer (born 1985)}}
+{{Use dmy dates|date=August 2020}}
+{{family name hatnote|Gómes|Moreira|lang=Catalan}}
+{{Infobox football biography
+| name           = Josep Gómes
+| image          = Andorra national football team - Josep Gómes (001).jpg
+| image_size     = 250
+| caption        = Gómes representing the Andorra national team in 2016
+| fullname       = Josep Antoni Gómes Moreira
+| birth_date     = {{birth date and age|1985|12|3|df=y}}
+| birth_place    = [[La Massana]], [[Andorra]]
+| height         = 1.80 m<ref>{{cite web |title=Josep Gómes |url=https://www.espn.co.uk/football/player/bio/_/id/147594/josep-gomes |publisher=ESPN |access-date=8 February 2022}}</ref>
+| position       = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub    = [[CE Casa de Portugal|Casa de Portugal]]
+| clubnumber     = 1
+| years1         = 2004–2006
+| clubs1         = [[FC Andorra]]
+| caps1          = 5
+| goals1         = 0
+| years2         = 2006–2009
+| clubs2         = [[UD Ibiza-Eivissa|Eivissa]]
+| caps2          = 47
+| goals2         = 0
+| years3         = 2009–2010
+| clubs3         = [[CD Ciudad de Vícar|Ciudad Vícar]]
+| caps3          = 17
+| goals3         = 0
+| years4         = 2010–2011
+| clubs4         = [[CF San Rafael|San Rafael]]
+| caps4          = 33
+| goals4         = 0
+| years5         = 2011–2012
+| clubs5         = [[RCD Carabanchel|Carabanchel]]
+| caps5          = 0
+| goals5         = 0
+| years6         = 2012–2014
+| clubs6         = [[CD Fortuna|Fortuna]]
+| caps6          = 44
+| goals6         = 1
+| years7         = 2014–2015
+| clubs7         = [[ES Pennoise|Pennoise]]
+| caps7          = 2
+| goals7         = 1
+| years8         = 2015
+| clubs8         = [[UE Santa Coloma]]
+| caps8          = 7
+| goals8         = 0
+| years9         = 2015–2017
+| clubs9         = [[CD Illescas|Illescas]]
+| caps9          = 59
+| goals9         = 0
+| years10        = 2017–2018
+| clubs10        = [[Villaverde San Andrés]]
+| caps10         = 6
+| goals10        = 0
+| years11        = 2018–2019
+| clubs11        = [[UE Santa Coloma]]
+| caps11         = 26
+| goals11        = 0
+| years12        = 2019–2022
+| clubs12        = [[Inter Club d'Escaldes|Inter d'Escaldes]]
+| caps12         = 66
+| goals12        = 0
+| years13        = 2022–2025
+| clubs13        = [[FC Santa Coloma]]
+| caps13         = 33
+| goals13        = 0
+| years14        = 2025–2026
+| clubs14        = [[FS La Massana|La Massana]]
+| caps14         = 12
+| goals14        = 0
+| years15        = 2026–
+| clubs15        = [[CE Casa de Portugal|Casa de Portugal]]
+| caps15         = 5
+| goals15        = 0
+| nationalyears1 = 2006
+| nationalteam1  = [[Andorra national under-21 football team|Andorra U21]]
+| nationalcaps1  = 2
+| nationalgoals1 = 0
+| nationalyears2 = 2006–
+| nationalteam2  = [[Andorra national football team|Andorra]]
+| nationalcaps2  = 88
+| nationalgoals2 = 0
+| club-update = 17 May 2026
+| nationalteam-update = 31 March 2026
+}}
+
+'''Josep Antoni Gómes Moreira'''<ref>{{cite web|url=http://www.faf.ad/pnfg/NNws_ShwNewDup?codigo=1005414&cod_primaria=3000301&cod_secundaria=3000301|publisher=[[Andorran Football Federation]]|date=9 September 2013|accessdate=3 February 2018|language=Catalan|title=Convocatòria de l'absoluta davant la subcampiona del món}}</ref><ref>{{cite web|url=http://www.faf.ad/pnfg/NNws_ShwNewDup?codigo=1005809&cod_primaria=3000302&cod_secundaria=3000302|publisher=[[Andorran Football Federation]]|date=13 November 2014|accessdate=3 February 2018|language=Catalan|title=Convocatòria de la selecció absoluta pel partit a domicili contra Xipre}}</ref> (born 3 December 1985) is an [[Andorra]]n international [[association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for [[CE Casa de Portugal|Casa de Portugal]].
+
+==Career==
+Born in [[La Massana]], Gómes spent most of his club career playing in the Spanish league system, representing [[FC Andorra]], [[UD Ibiza-Eivissa]], [[CD Ciudad de Vícar]] and [[CF San Rafael]].<ref name = "NFT">{{NFT player|id=11181}}</ref>
+
+He made his international debut for [[Andorra national football team|Andorra]] in 2006,<ref name = "NFT"/> and has represented them in FIFA World Cup qualifying matches.<ref>{{FIFA player|217271}}</ref><ref>[https://peru.com/futbol/eliminatorias-rusia-2018/portugal-vs-andorra-vivo-online-y-directo-eliminatorias-rusia-2018-noticia-477620 Portugal aplastó a Andorra por las Eliminatorias Rusia 2018] Andorra: Josep Gómes</ref>
+
+On 25 March 2019, during a UEFA Euro qualifying match against Albania, Gómes made what one sports website described as a "howler"<ref>{{Cite web|url=http://www.espnfc.com/video/latest-videos/600/video/3808672|title=Berisha howler gifts Albania victory - ESPN Video|date=2019-03-25|website=ESPN.com|access-date=2019-03-25}}</ref> that gifted Albania the opening goal when he tried an acrobatic flying kick to clear the ball but failed to do so. His team went on to lose 3–0.
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Webarchive |url=https://web.archive.org/web/20160304050715/http://www.futbolesta.com/P_Ranking1_sin_SQL.asp?idusu=337&id=2162 |title=FútbolEsta}} {{in lang|es}}
+
+{{DEFAULTSORT:Gomes, Josep}}
+[[Category:1985 births]]
+[[Category:Living people]]
+[[Category:People from La Massana]]
+[[Category:Andorran people of Portuguese descent]]
+[[Category:Andorran men's footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:Andorran expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:Expatriate men's footballers in France]]
+[[Category:Men's association football goalkeepers]]
+
+
+{{Andorra-footy-bio-stub}}

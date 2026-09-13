@@ -1,0 +1,92 @@
+{{short description|Andorran footballer}}
+{{Use dmy dates|date=April 2020}}
+{{Infobox football biography
+| name                = Kiko Pomares
+| fullname            = Francisco Pomares Ortega
+| image               = 
+| birth_date          = {{birth date and age|df=yes|1998|9|21}}
+| birth_place         = [[Sant Joan d'Alacant]], [[Spain]]
+| height              = 
+| position            = [[Defender (association football)#Full-back|Left-back]]<ref>{{cite web|url=http://franjiverdes.com/kiko-pomares-convocado-con-andorra-sub-21/|title=Kiko Pomares convocado con Andorra Sub-21|language=Spanish|first=Andrea|last=Palazón|date=29 August 2017|accessdate=22 March 2018}}</ref>
+| currentclub         = [[CD Tarancón|Tarancón]]
+| clubnumber          = 21
+| youthyears1         = {{0|0000}}–2017
+| youthclubs1         = [[Elche CF|Elche]]
+| years1              = 2016–2020
+| clubs1              = [[Elche CF Ilicitano|Elche B]]
+| caps1               = 33
+| goals1              = 1
+| years2              = 2020–2021
+| clubs2              = [[Hércules CF B|Hércules B]]
+| caps2               = 15
+| goals2              = 0
+| years3              = 2021–2022
+| clubs3              = [[Villajoyosa CF|Villajoyosa]]
+| caps3               = 16
+| goals3              = 0
+| years4              = 2022–2023
+| clubs4              = [[FC Jove Español San Vicente|Jove Español]]
+| caps4               = 8
+| goals4              = 0
+| years5              = 2023
+| clubs5              = [[Viveiro CF|Viveiro]]
+| caps5               = 7
+| goals5              = 0
+| years6              = 2023–2024
+| clubs6              = [[CD Marchamalo|Marchamalo]]
+| caps6               = 16
+| goals6              = 1
+| years7              = 2024–
+| clubs7              = [[CD Tarancón|Tarancón]]
+| caps7               = 53
+| goals7              = 2
+| nationalyears1      = 2016
+| nationalteam1       = [[Andorra national under-19 football team|Andorra U19]]
+| nationalcaps1       = 3
+| nationalgoals1      = 1
+| nationalyears2      = 2016–2020
+| nationalteam2       = [[Andorra national under-21 football team|Andorra U21]]
+| nationalcaps2       = 9
+| nationalgoals2      = 0
+| nationalyears3      = 2018–
+| nationalteam3       = [[Andorra national football team|Andorra]]
+| nationalcaps3       = 11
+| nationalgoals3      = 0
+| nationalteam-update = 4 June 2026
+| club-update = 10 May 2026
+}}
+{{family name hatnote|Pomares|Ortega|lang=Spanish}}
+'''Francisco Pomares Ortega''' (born 21 September 1998), sportingly known as '''Kiko''',<ref>{{cite web|url=http://www.elchecf.es/noticias-futbolbase/equipo/ilicitano|title=Plantila (Elche Ilicitano)|trans-title=Squad (Elche Ilicitano)|publisher=Elche CF|language=Spanish|accessdate=22 March 2018|archive-date=10 May 2017|archive-url=https://web.archive.org/web/20170510195606/http://www.elchecf.es/noticias-futbolbase/equipo/ilicitano|url-status=dead}}</ref> is an Andorran international [[association football|footballer]] who plays for [[CD Tarancón]] as a [[Defender (association football)#Full-back|left-back]].
+
+Born in Spain, he qualifies to play for Andorra through his mother. His father is from [[Elche]].<ref>{{cite web|url=http://www.diarioinformacion.com/elche-cf/2016/11/08/cuatro-canteranos-internacionales/1825498.html|title=Cuatro canteranos internacionales|publisher=Información|language=Spanish|date=8 November 2016|first=José Antonio|last=Galvañ|accessdate=22 March 2018}}</ref>
+
+==International career==
+Kiko Pomares played his first international game with the national team on 21 March 2018, in a friendly against [[Liechtenstein national football team|Liechtenstein]].<ref name="eu-foot">{{cite web | url=http://franjiverdes.com/kiko-pomares-del-ilicitano-debuta-con-la-seleccion-absoluta-de-andorra-con-victoria/ |title=Kiko Pomares, del Ilicitano, debuta con la selección absoluta de Andorra con victoria |publisher=Franjiverdes.com|first=Borja|last=Pastor|date=21 March 2018|accessdate=22 March 2018}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.futbolesta.com/P_Ranking1_SQL.asp?idusu=337&id=109815 Kiko] at FutbolEsta.com (in Spanish)
+*{{Soccerway|francisco-pomares-ortega/401389}}
+
+{{DEFAULTSORT:Kiko}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:People from Alacantí]]
+[[Category:Footballers from the Province of Alicante]]
+[[Category:Andorran men's footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:Andorra men's under-21 international footballers]]
+[[Category:Andorra men's youth international footballers]]
+[[Category:Spanish people of Andorran descent]]
+[[Category:Naturalised citizens of Andorra]]<!-- [[Category:Citizens of Andorra through descent]] -->
+[[Category:Andorran people of Spanish descent]]
+[[Category:Spanish men's footballers]]
+[[Category:Men's association football full-backs]]
+[[Category:Tercera División players]]
+[[Category:Elche CF Ilicitano footballers]]
+[[Category:21st-century Spanish sportsmen]]
+
+
+{{Andorra-footy-bio-stub}}

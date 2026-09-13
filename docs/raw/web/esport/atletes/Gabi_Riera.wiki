@@ -1,0 +1,89 @@
+{{short description|Andorran footballer}}
+{{BLP sources|date=March 2009}}
+{{Use dmy dates|date=December 2021}}
+{{Infobox football biography
+| name = Gabi Riera
+| image = Gabi Riera 2015.jpg
+| fullname = Gabriel Riera Lancha
+| birth_date  = {{Birth date and age|1985|6|5|df=yes}}
+| birth_place =[[Andorra]]
+| height =
+| currentclub = [[UE Engordany]]
+| clubnumber = 7
+| position = [[Forward (association football)|Forward]]
+| youthyears1 =
+| youthclubs1 =
+| years1 = 2004–2005
+| clubs1 = [[FC Andorra]]
+| caps1 = | goals1 =
+| years2 = 2005–2006
+| clubs2 = [[FC Rànger's|Rànger's]]
+| caps2 = | goals2 =
+| years3 = 2006–2007
+| clubs3 = [[Cádiz CF B|Cádiz B]]
+| caps3 = | goals3 =
+| years4 = 2007–2008
+| clubs4 = [[CF Gimnástico Alcázar|Gimnástico Alcázar]]
+| caps4 = 33 | goals4 = 8
+| years5 = 2008–2009
+| clubs5 = [[CE Principat|Principat]]
+| caps5 = 12 | goals5 = 1
+| years6 = 2009–2012
+| clubs6 = [[UE Sant Julià|Sant Julià]]
+| caps6 = | goals6 =
+| years7 = 2012–2014
+| clubs7 = [[UE Santa Coloma]]
+| caps7 =34 | goals7 =13
+| years8 = 2014–2019
+| clubs8 = [[FC Santa Coloma]]
+| caps8 = 125 | goals8 =51
+| years9 = 2019–
+| clubs9 = [[UE Engordany]]
+| caps9 = 11 | goals9 = 3
+| nationalyears1 = 2004–
+| nationalteam1 = [[Andorra national football team|Andorra]]
+| nationalcaps1 = 40 | nationalgoals1 = 1
+| pcupdate = 21:54, 19 December 2019 (UTC)
+| ntupdate = 21 March 2018
+}}
+
+'''Gabriel Riera Lancha''' (born 5 June 1985) is an [[Andorra]]n [[association football|footballer]] who plays for [[UE Engordany]] in the [[Andorran First Division]] and [[Andorra national football team]].
+
+==International goals==
+''Updated 28 September 2014.''<ref>{{cite web|url=https://int.soccerway.com/players/gabriel-riera/95027/ |title=Andorra – Gabi Riera |work=Soccerway |accessdate=28 September 2014 }}</ref>
+{{International goals header}}
+|-
+|| 1. || 4 June 2005 || [[U Nisy Stadion]], [[Liberec]], Czech Republic || {{fb|CZE}} || 3&ndash;'''1''' || 8&ndash;1 || [[2006 FIFA World Cup qualification (UEFA)|2006 FIFA World Cup qualification]]
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{FIFA player|216060}}
+*{{NFT player|pid=8439}}
+*{{UEFA player|53715}}
+*{{UEFA player|250019987}}
+*[https://www.lapreferente.com/J237746/gabi-riera.html Gabi Riera] at La Preferente
+
+{{DEFAULTSORT:Riera, Gabi}}
+[[Category:1985 births]]
+[[Category:Living people]]
+[[Category:Andorran men's footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:Andorran expatriate men's footballers]]
+[[Category:FC Andorra players]]
+[[Category:Cádiz CF Mirandilla players]]
+[[Category:UE Sant Julià players]]
+[[Category:FC Rànger's players]]
+[[Category:Men's association football forwards]]
+[[Category:CE Principat players]]
+[[Category:CF Gimnástico Alcázar players]]
+[[Category:UE Santa Coloma players]]
+[[Category:FC Santa Coloma players]]
+[[Category:UE Engordany players]]
+[[Category:Andorran expatriate sportspeople in Spain]]
+[[Category:Expatriate men's footballers in Spain]]
+
+
+{{Andorra-footy-bio-stub}}

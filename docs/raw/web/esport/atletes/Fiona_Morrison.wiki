@@ -1,0 +1,47 @@
+{{short description|Andorran windsurfer}}
+{{infobox sportsperson
+| name        = Fiona Morrison
+| image       = 
+| caption     = 
+| full_name   = Fiona Morrison Porta
+| nationality = [[Andorra]]
+| birth_date  = {{birth date|1970|5|18|df=yes}}
+| birth_place = [[Encamp]], Andorra
+| death_date  = 
+| death_place = 
+| height      = 
+| weight      = 
+| country     = {{AND}}
+| sport       = Windsurfing
+| event       = 
+| club        = 
+| collegeteam =
+}}
+
+'''Fiona Morrison Porta'''{{family name footnote|lang=Catalan|Morrison|Porta}} (born 18 May 1970) is an [[Andorra]]n windsurfer who competed at the [[1996 Summer Olympics]]<ref>{{cite Sports-Reference |title=Fiona Morrison |url=https://www.sports-reference.com/olympics/athletes/mo/fiona-morrison-1.html |archive-url=https://web.archive.org/web/20200418123800/https://www.sports-reference.com/olympics/athletes/mo/fiona-morrison-1.html |url-status=dead |archive-date=18 April 2020 |access-date=3 December 2017}}</ref> and artist who exhibited at the [[55th Venice Biennale]]. <ref>{{Cite web |title=55th edition |url=https://www.andorrabiennale.ad/en/?portfolio=tempus-fugit |access-date=2024-05-20 |website=Andorra Biennale |language=en-US}}</ref>
+
+Morrison competed in the [[Sailing at the 1996 Summer Olympics – Women's Mistral One Design|Women's Mistral One Design]] windsurfing event at the [[1996 Summer Olympics]], and after her nine races she ended with a net total of 153 points and finished in 24th place out of 27 starters.<ref>{{cite Sports-Reference |title=Sailing at the 1996 Atlanta Summer Games: Women's Windsurfer |url=https://www.sports-reference.com/olympics/summer/1996/SAI/womens-windsurfer.html |archive-url=https://web.archive.org/web/20200417185250/https://www.sports-reference.com/olympics/summer/1996/SAI/womens-windsurfer.html |url-status=dead |archive-date=17 April 2020 |access-date=3 December 2017}}</ref>
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{World Sailing|id=ANDFM1|www=fiona-morrison}}
+* {{Olympics.com|fiona-morrison}}
+* {{Olympedia}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Morrison, Fiona}}
+[[Category:1970 births]]
+[[Category:Living people]]
+[[Category:Female windsurfers]]
+[[Category:Andorran female sailors (sport)]]
+[[Category:Olympic sailors for Andorra]]
+[[Category:Sailors at the 1996 Summer Olympics – Mistral One Design]]
+
+
+{{Andorra-yachtracing-bio-stub}}

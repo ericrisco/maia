@@ -1,0 +1,181 @@
+{{Short description|Andorran alpine skier (born 1991)}}
+{{Infobox sportsperson
+| name             = Marc Oliveras
+| image            = 
+| caption          = 
+| full_name        = Marc Oliveras Gabarre
+| birth_date       = {{birth date and age|df=yes|1991|12|20}}
+| birth_place      = [[Barcelona]], Spain
+| education       = 
+| occupation       = 
+| years_active     = 
+| employer         = 
+| agent            = 
+| height           = 5 ft 8 in
+| weight           = 165 lb
+| spouse           = 
+| life_partner     = 
+| other_interests  = 
+| website          = 
+| country          = [[Andorra]]
+| sport            = [[Alpine skiing]]
+| rank             = 
+| event            = 
+| college_team      = 
+| university_team   = 
+| league           = 
+| league_type      = 
+| club             = 
+| team             = 
+| turned_pro        = 
+| partner          = 
+| former_partner   = 
+| coach            = 
+| retired          = 
+| coaching         = 
+| worlds           = 
+| regionals        = 
+| nationals        = 
+| olympics         = 
+| paralympics      = 
+| highest_ranking   = 
+| personal_best               = 
+| show_medals    = 
+| medal_templates =
+{{Medal|Sport|Men's [[alpine skiing]]}}
+{{Medal|Country|{{AND}}}}
+{{Medal|Competition|[[Universiade|Winter Universiade]]}}
+{{Medal|Silver|[[2015 Winter Universiade|2015 Granada]]|[[Alpine skiing at the 2015 Winter Universiade – Men's super-G|Super-G]]}}
+}}
+
+'''Marc Oliveras Gabarre'''{{family name footnote|lang=Catalan|Olivera|Gabarre}} (born 20 December 1991,<ref>{{cite web |url=http://data.fis-ski.com/dynamic/athlete-biography.html?sector=AL&competitorid=127203&type=result&category=ALL&season=ALL&sort=&discipline=ALL&position=&place=&Submit=Search |title=FIS bio |publisher=Data.fis-ski.com |date= |accessdate=2014-02-06}}</ref> in [[Barcelona]]) is an alpine skier who competes for [[Andorra]]. He competed for [[Andorra]] at the [[FIS Alpine World Ski Championships]] in [[FIS Alpine World Ski Championships 2013|2013]] and [[FIS Alpine World Ski Championships 2015|2015]] and competed for [[Andorra]] at the [[Andorra at the 2014 Winter Olympics|2014 Winter Olympics]] and in the [[2015 Winter Universiade]].<ref>{{cite web |url=http://m.sochi2014.com/en/athlete-marc-oliveras |title=Sochi 2014 site |publisher=M.sochi2014.com |date= |accessdate=2014-02-06}}</ref>
+
+==Career==
+He competed for [[Andorra]] at the [[FIS Alpine World Ski Championships 2013]] in [[Schladming]], [[Italy]]. He finished 27th in the [[FIS Alpine World Ski Championships 2013 – Men's super combined|Super Combined]] and 43rd in the [[FIS Alpine World Ski Championships 2013 – Men's downhill|Downhill]]. He failed to finish in the [[FIS Alpine World Ski Championships 2013 – Men's super-G|Super-G]] and the [[FIS Alpine World Ski Championships 2013 – Men's giant slalom|Giant Slalom]]. He competed for [[Andorra at the 2014 Winter Olympics]]. He finished 34th in the [[Alpine skiing at the 2014 Winter Olympics – Men's super-G|Super-G]], finished 31st in the [[Alpine skiing at the 2014 Winter Olympics – Men's combined|Combined]], finished 38th in the [[Alpine skiing at the 2014 Winter Olympics – Men's giant slalom|Giant Slalom]] and 40th in the [[Alpine skiing at the 2014 Winter Olympics – Men's downhill|Downhill]]. At the [[2015 Winter Universiade]] he won the first medal for the country at the event a silver medal in the [[Alpine skiing at the 2015 Winter Universiade – Men's super-G|Super-G]].
+
+==Achievements==
+===[[Universiade|Winter Universiade]]===
+{| class="wikitable"
+! Championships
+! Competition
+! Time
+! Result
+! Winner
+|-
+| rowspan="2"| {{flagicon|ESP}} / {{flagicon|SVK}} [[2015 Winter Universiade|Granada/Štrbské Pleso 2015]]
+| [[Alpine skiing at the 2015 Winter Universiade – Men's super-G|Super-G]]
+| 1:23.75
+| style="background:silver;" align=center| 2
+| {{flagicon|ITA}}  Michelangelo Tentori
+|-
+| [[Alpine skiing at the 2015 Winter Universiade – Men's combined|Combined]]
+| style="text-align:center;"| –
+| style="text-align:center;"| DNF
+| {{flagicon|SUI}}  Sandro Boner
+|-
+|}
+
+===[[Winter Olympics]]===
+{| class="wikitable"
+! Championships
+! Competition
+! Time
+! Result
+! Winner
+|-
+| rowspan="4"| {{flagicon|RUS}} [[2014 Winter Olympics|Sochi 2014]]
+| [[Alpine skiing at the 2014 Winter Olympics – Men's downhill|Downhill]]
+| 2:12.76
+| style="text-align:center;"| 40
+| {{flagicon|AUT}}  [[Matthias Mayer]] 
+|-
+| [[Alpine skiing at the 2014 Winter Olympics – Men's super-G|Super-G]]
+| 1:22.02
+| style="text-align:center;"| 34
+| {{flagicon|NOR}}  [[Kjetil Jansrud]] 
+|-
+| [[Alpine skiing at the 2014 Winter Olympics – Men's giant slalom|Giant Slalom]]
+| 2:53.74
+| style="text-align:center;"| 38
+| {{flagicon|USA}}  [[Ted Ligety]] 
+|-
+| [[Alpine skiing at the 2014 Winter Olympics – Men's combined|Combined]]
+| 2:58.54
+| style="text-align:center;"| 31
+| {{flagicon|SUI}}  [[Sandro Viletta]] 
+|-
+| rowspan="3"| {{flagicon|KOR}} [[2018 Winter Olympics|Pyeongchang 2018]]
+| [[Alpine skiing at the 2018 Winter Olympics – Men's downhill|Downhill]]
+| {{center|–}}  
+| style="text-align:center;"| {{abbreviation|DNF|did not finish}}
+| {{flagicon|NOR}}  [[Aksel Lund Svindal]] 
+|-
+| [[Alpine skiing at the 2018 Winter Olympics – Men's super-G|Super-G]]
+| 1:27.84
+| style="text-align:center;"| 33
+| {{flagicon|AUT}}  [[Matthias Mayer]] 
+|-
+| [[Alpine skiing at the 2018 Winter Olympics – Men's combined|Combined]]
+| 1:21.67
+| style="text-align:center;"| 29
+| {{flagicon|AUT}}  [[Marcel Hirscher]] 
+|}
+
+===[[FIS Alpine World Ski Championships|World Championships]]===
+{| class="wikitable"
+! Championships
+! Competition
+! Time
+! Result
+! Winner
+|-
+| rowspan="4"| {{flagicon|AUT}} [[FIS Alpine World Ski Championships 2013|Schladming 2013]]
+| [[FIS Alpine World Ski Championships 2013 – Men's downhill|Downhill]]
+| 2:07.73
+| style="text-align:center;"| 43
+| {{flagicon|NOR}} [[Aksel Lund Svindal]]  
+|-
+| [[FIS Alpine World Ski Championships 2013 – Men's super-G|Super-G]]
+| style="text-align:center;"| –
+| style="text-align:center;"| DNF
+| {{flagicon|USA}}  [[Ted Ligety]] 
+|-
+| [[FIS Alpine World Ski Championships 2013 – Men's giant slalom|Giant Slalom]]
+| style="text-align:center;"| –
+| style="text-align:center;"| DNF
+| {{flagicon|USA}}  [[Ted Ligety]]
+|-
+| [[FIS Alpine World Ski Championships 2013 – Men's super combined|Super Combined]]
+| 3:15.68
+| style="text-align:center;"| 27
+| {{flagicon|USA}}  [[Ted Ligety]]
+|-
+|}
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{FIS alpine skier}}
+* {{Olympics.com|org_archive=20210122012630}}
+* {{Olympedia}}
+
+{{Use dmy dates|date=May 2021}}
+
+{{DEFAULTSORT:Oliveras, Marc}}
+[[Category:1991 births]]
+[[Category:Living people]]
+[[Category:Skiers from Catalonia]]
+[[Category:Andorran male alpine skiers]]
+[[Category:Olympic alpine skiers for Andorra]]
+[[Category:Alpine skiers at the 2014 Winter Olympics]]
+[[Category:Alpine skiers at the 2018 Winter Olympics]]
+[[Category:Winter World University Games medalists in alpine skiing]]
+[[Category:Universiade medalists for Andorra]]
+[[Category:Competitors at the 2015 Winter Universiade]]
+[[Category:Skiers from Barcelona]]
+
+{{Andorra-alpine-skiing-bio-stub}}

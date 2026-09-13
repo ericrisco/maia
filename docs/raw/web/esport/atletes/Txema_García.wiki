@@ -1,0 +1,87 @@
+{{Short description|Association football player}}
+{{Use dmy dates|date=August 2021}}
+{{Family name hatnote|García|Luena|lang=Spanish}}
+{{Infobox football biography
+|name = Txema García
+|image =
+|fullname = José Manuel García Luena
+|birth_date = {{birth date and age|df=yes|1974|12|4}}
+|birth_place = [[San Sebastián]], Spain
+|death_date =
+|height =
+|position = [[Defender (association football)#Full-back|Left back]]
+|currentclub = [[FC Encamp]]
+|clubnumber = 22
+|youthyears1 =
+|youthclubs1 =
+|years1 =
+|clubs1 =
+|caps1= | goals1 =
+|nationalyears1 = 1997–2009
+|nationalteam1 = [[Andorra national football team|Andorra]]
+|nationalcaps1 = 71 | nationalgoals1 = 0
+|manageryears1=
+|managerclubs1=
+}}
+'''José Manuel García Luena''' (born 4 December 1974) is a [[Association football|footballer]] who plays for [[FC Encamp]] as a defender. Born in Spain, he has represented [[Andorra national football team|Andorra]] internationally.
+
+==National team statistics==
+{| class="wikitable" style="text-align:center"
+! colspan=3 | [[Andorra national football team|Andorra national team]]
+|-
+!Year!!Apps!!Goals
+|-
+|-
+|1997||2||0
+|-
+|1998||8||0
+|-
+|1999||9||0
+|-
+|2000||8||0
+|-
+|2001||6||0
+|-
+|2002||5||0
+|-
+|2003||7||0
+|-
+|2004||7||0
+|-
+|2005||4||0
+|-
+|2006||4||0
+|-
+|2007||6||0
+|-
+|2008||4||0
+|-
+|2009||1||0
+|-
+!Total||71||0
+|}
+
+==References==
+{{Reflist}}
+* {{BDFutbol|302109}}
+* {{NFT player|id=163}}
+
+{{DEFAULTSORT:Garcia, Txema}}
+[[Category:1974 births]]
+[[Category:Living people]]
+[[Category:Footballers from San Sebastián]]
+[[Category:Spanish men's footballers]]
+[[Category:Spanish emigrants to Andorra]]
+[[Category:FC Andorra players]]
+[[Category:FC Rànger's players]]
+[[Category:FC Santa Coloma players]]
+[[Category:Segunda División B players]]
+[[Category:Tercera División players]]
+[[Category:Andorran men's footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:Men's association football full-backs]]
+[[Category:Naturalised citizens of Andorra]]
+[[Category:Primera Divisió players]]
+
+
+{{Andorra-footy-bio-stub}}

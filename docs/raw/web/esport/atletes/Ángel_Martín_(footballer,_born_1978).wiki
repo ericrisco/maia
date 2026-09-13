@@ -1,0 +1,49 @@
+{{short description|Andorran footballer}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name= Ángel Martín
+| image = 
+| fullname = 
+| birth_date  = {{Birth date and age|1978|11|25|df=yes}}
+| birth_place = 
+| height      = 
+| currentclub = 
+| position    = [[midfielder (association football)|midfielder]]
+| youthyears1 = 
+| youthclubs1 = 
+| years1 = 1995–2017
+| clubs1 = [[FC Santa Coloma]]
+| nationalyears1= 1996–1999
+| nationalteam1 = [[Andorra national football team|Andorra]]
+| nationalcaps1 = 18
+| nationalgoals1= 0
+}}
+
+'''Ángel Martín''' (born 25 November 1978) is a retired [[Andorra]]n [[football midfielder]].<ref>{{NFT player|9640}}</ref>
+
+==International career==
+At 17 years and 11 months, he played [[Andorra national football team|Andorra]] first game ever against [[Estonia national football team|Estonia]] on 13 November 1996.<ref> {{cite web |title=Andorra vs Estonia |url=https://www.national-football-teams.com/app.php/matches/report/27243/Andorra_Estonia.html |website=National Football Teams |access-date=19 November 2024}}</ref>
+He remained his country youngest player until Andorra’s second ever game on 22 June 1997 also against Estonia, when [[Ildefons Lima]] played aged 17 years old and 6 months.<ref> {{cite web |title=Estonia vs Andorra, 22 June 1997 |url=https://eu-football.info/_match.php?id=10888 |website=Eu-football.info |access-date=19 November 2024}}</ref>
+
+==Honours==
+*'''[[Primera Divisió]]: '''
+**'''Winners (10):''' [[2000–01 Primera Divisió|2000–01]], [[2002–03 Primera Divisió|2002–03]], [[2003–04 Primera Divisió|2003–04]], [[2007–08 Primera Divisió|2007–08]], [[2009–10 Primera Divisió|2009–10]], [[2010–11 Primera Divisió|2010–11]], [[2013–14 Primera Divisió|2013–14]], [[2014–15 Primera Divisió|2014–15]], [[2015–16 Primera Divisió|2015–16]], [[2016–17 Primera Divisió|2016–17]]
+*'''[[Copa Constitució]]: '''
+**'''Winners (8):''' 2001, 2003, 2004, 2005, 2006, 2007, [[2009 Copa Constitució|2009]], [[2012 Copa Constitució|2012]]
+*'''[[Andorran Supercup|Supercopa Andorrana:]]'''
+**'''Winners (5):''' 2003, 2005, 2007, 2008, 2015
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Martin, Angel}}
+[[Category:1978 births]]
+[[Category:Living people]]
+[[Category:Andorran men's footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:FC Santa Coloma players]]
+[[Category:Men's association football midfielders]]
+[[Category:Constel·lació Esportiva players]]
+
+
+{{Andorra-footy-bio-stub}}

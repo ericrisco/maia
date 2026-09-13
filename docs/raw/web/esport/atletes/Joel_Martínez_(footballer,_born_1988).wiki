@@ -1,0 +1,133 @@
+{{short description|Andorran footballer}}
+{{Other people||Joel Martínez (disambiguation){{!}}Joel Martínez}}
+{{Use dmy dates|date=December 2018}}
+{{Infobox football biography
+| name           = Joel Martínez
+| image          = 
+| image_size     = 
+| caption        = 
+| fullname       = Francisc Joel Martínez Vilar{{citation needed|date=October 2024}}
+| birth_date     = {{Birth date and age|1988|12|31|df=y}} <!--Not born in 1983 (Soccerway error)-->
+| birth_place    = Andorra
+| height         = 
+| position       = [[Midfielder]] <!--Not a forward (Soccerway error)-->
+| currentclub    = [[Inter Club d'Escaldes|Inter d'Escaldes]] (Head of Football School)
+| clubnumber     = 
+| youthyears1    =           |youthclubs1 = 
+| years1         = 2005–2006 |clubs1 = [[UE Sant Julià]]                                  |caps1 =     |goals1 = 
+| years2         = 2006      |clubs2 = [[FC Andorra]]                                     |caps2 = 3   |goals2 = 0
+| years3         = 2007–2008 |clubs3 = [[UE Sant Julià]]                                  |caps3 =     |goals3 = 
+| years4         = 2008–2013 |clubs4 = [[FC Andorra]]                                     |caps4 = 126 |goals4 = 12
+| years5         = 2013–2014 |clubs5 = [[UE Sant Julià]]                                  |caps5 = 5   |goals5 = 0
+| years6         = 2014–2017 |clubs6 = [[FC Santa Coloma]]                                |caps6 = 68  |goals6 = 6
+| years7         = 2017      |clubs7 = [[Inter Club d'Escaldes|Inter d'Escaldes]]         |caps7 = 6   |goals7 = 1
+| years8         = 2018–2019 |clubs8 = [[FC Andorra]]                                     |caps8 = 17  |goals8 = 0
+| years9         = 2019–2020 |clubs9 = [[FC Ordino]]                                      |caps9 = 26  |goals9 = 1
+| nationalyears1 = 2007      |nationalteam1 = [[Andorra national football team|Andorra]]  |nationalcaps1 = 1     |nationalgoals1 = 0
+| club-update    = 18:09, 27 August 2020 (UTC)
+| nationalteam-update = 
+| medaltemplates =
+| manageryears1 = 
+| managerclubs1 = [[Inter Club d'Escaldes|Inter d'Escaldes]] (youth coach)
+}}
+
+'''Francisc Joel Martínez Vilar''' (born 31 December 1988) is a retired Andorran [[Association football|footballer]] who played as a [[midfielder]] and current Head of Football School at [[Inter Club d'Escaldes|Inter d'Escaldes]].<ref name="Soccerway">{{cite news|title=Andorra - Francisco Martínez|url=https://int.soccerway.com/players/francisco-martinez/228793/|accessdate=14 December 2018|work=Soccerway}}</ref>
+
+==Club career==
+Martínez's senior career began with [[UE Sant Julià]] in 2005, remaining with the [[Primera Divisió]] team until 2006 when the midfielder agreed to join Andorran-based Spanish Tercera Catalana side [[FC Andorra]].<ref name="NFT">{{cite news|title=Joel Martinez - National Football Teams|url=https://www.national-football-teams.com/player/8438/Joel_Martinez.html|accessdate=14 December 2018|work=NFT}}</ref> Martínez spent the [[2007–08 Primera Divisió]] season back with Sant Julià, prior to returning to Spain with FC Andorra for the following campaign.<ref name="NFT"/> This spell with the club lasted five years, with Martínez netting twelve goals in one hundred and twenty-six appearances.<ref name="NFT"/> He rejoined Sant Julià for a third time in 2013, subsequently winning the [[Copa Constitució]] in his sole season there.<ref name="NFT"/> Martínez spent the next three years with [[FC Santa Coloma]].<ref name="NFT"/>
+
+After winning the league title in every season with FC Santa Coloma, Martínez was signed by fellow [[Football in Andorra#League system|top-flight]] team [[Inter Club d'Escaldes|Inter d'Escaldes]] in 2017.<ref name="NFT"/> Six matches and one goal followed.<ref name="NFT"/> Martínez returned to FC Andorra in 2018, with the club now in [[Primera Catalana]].<ref name="NFT"/> In mid-2019, Martínez returned to Andorra with [[FC Ordino]].<ref name="BDF1">{{cite news|title=Joel Martínez|url=https://www.bdfutbol.com/en/c/jugador.html?id=9728|accessdate=27 August 2020|work=BDFutbol}}</ref> He appeared fifteen times in [[2019–20 Primera Divisió|2019–20]] as they suffered relegation.<ref name="BDF1"/>
+
+While still an active player for FC Ordino, in June 2019, [[Inter Club d'Escaldes|Inter d'Escaldes]] confirmed that Martínez, who had previously also been a youth coach at the club, had been hired as coordinator of the club's football school.<ref>[https://interescaldes.com/2019/06/12/tot-queda-a-casa/#more-3451 Tot queda a casa], interescaldes.com, 12 June 2019</ref> As of June 2024, Martínez still held this role.<ref>[https://whoopcoaching.com/coaching-esportiu-amb-equip-juvenil-inter-club-escaldes/ Coaching esportiu amb l’equip juvenil de l’Inter Club Escaldes], whoopcoaching.com, 4 June 2024</ref>
+
+==International career==
+Martínez was called up by [[Andorra national football team|Andorra]] in 2007.<ref name="Soccerway"/><ref name="NFT"/> He made his debut on 28 March during a [[UEFA Euro 2008 qualifying|UEFA Euro 2008 qualifier]] with [[England national football team|England]], with his nation losing 0–3 at the [[Estadi Olímpic Lluís Companys]]; he was subbed on for [[Manolo Jiménez Soria]] after sixty-nine minutes.<ref name="BBC Sport">{{cite news|title=Andorra 0-3 England|url=http://news.bbc.co.uk/sport1/hi/football/internationals/6497817.stm|accessdate=14 December 2018|work=BBC Sport|date=28 March 2007}}</ref><ref name="UEFA">{{cite news|title=Gerrard spares England's blushes|url=https://www.uefa.com/uefaeuro/history/news/0254-0d7b9fe3115f-6ea22bdf283b-1000--gerrard-spares-england-s-blushes/|access-date=14 December 2018|work=UEFA|date=29 March 2007}}</ref>
+
+==Career statistics==
+{{updated|27 August 2020}}.<ref name="Soccerway"/><ref name="NFT"/><ref name="BDF1"/>
+{| class="wikitable" style="text-align:center"
+|+ Club statistics
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|League Cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="6"|[[FC Andorra]]
+|[[2008–09 Primera Divisió|2008–09]]
+|rowspan="3"|Tercera Catalana
+|31||2||0||0||colspan="2"|—||colspan="2"|—||0||0||31||2
+|-
+|[[2009–10 Primera Divisió|2009–10]]
+|31||5||0||0||colspan="2"|—||colspan="2"|—||0||0||31||5
+|-
+|[[2010–11 Primera Divisió|2010–11]]
+|24||3||0||0||colspan="2"|—||colspan="2"|—||0||0||24||3
+|-
+|[[2011–12 Primera Divisió|2011–12]]
+|rowspan="1"|Segona Catalana
+|32||2||0||0||colspan="2"|—||colspan="2"|—||0||0||32||2
+|-
+|[[2012–13 Primera Divisió|2012–13]]
+|rowspan="1"|[[Primera Catalana]]
+|8||0||0||0||colspan="2"|—||colspan="2"|—||0||0||8||0
+|-
+!colspan="2"|Total
+!126!!12!!0!!0!!colspan="2"|—!!colspan="2"|—!!0!!0!!126!!12
+|-
+|rowspan="1"|[[FC Santa Coloma]]
+|[[2014–15 Primera Divisió|2014–15]]
+|rowspan="3"|[[Primera Divisió]]
+|19||4||0||0||colspan="2"|—||0||0||0||0||19||4
+|-
+|rowspan="1"|[[Inter Club d'Escaldes|Inter d'Escaldes]]
+|[[2017–18 Primera Divisió|2017–18]]
+|6||1||0||0||colspan="2"|—||colspan="2"|—||0||0||6||1
+|-
+|rowspan="1"|[[FC Ordino]]
+|[[2019–20 Primera Divisió|2019–20]]
+|15||0||0||0||colspan="2"|—||colspan="2"|—||0||0||15||0
+|-
+!colspan="3"|Career total
+!166!!17!!0!!0!!colspan="2"|—!!0!!0!!0!!0!!166!!17
+|}
+{{Reflist|group=lower-alpha}}
+
+==Honours==
+'''UE Sant Julià'''<ref name="NFT"/>
+*[[Copa Constitució]]: [[2014 Copa Constitució|2014]]
+
+'''FC Santa Coloma'''<ref name="NFT"/>
+*[[Primera Divisió]] (3): [[2014–15 Primera Divisió|2014–15]], [[2015–16 Primera Divisió|2015–16]], [[2016–17 Primera Divisió|2016–17]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{UEFA player}}
+*{{Soccerway|francisco-martinez/228793}}
+*{{WorldFootball.net}}
+
+{{DEFAULTSORT:Martinez, Joel}}
+[[Category:1988 births]]
+[[Category:Living people]]
+[[Category:Place of birth missing (living people)]]
+[[Category:Andorran men's footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Andorran expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:Andorran expatriate sportspeople in Spain]]
+[[Category:Primera Divisió players]]
+[[Category:Primera Catalana players]]
+[[Category:UE Sant Julià players]]
+[[Category:FC Andorra players]]
+[[Category:FC Santa Coloma players]]
+[[Category:Inter Club d'Escaldes players]]
+[[Category:FC Ordino players]]

@@ -1,0 +1,39 @@
+{{Short description|Andorran swimmer (born 1996)}}
+{{Use dmy dates|date=April 2021}}
+{{Infobox swimmer
+| name           = Pol Arias
+| image          = 
+| caption        = 
+| full_name      = Pol Arias Dourdet
+| strokes        = 
+| club           = 
+| birth_date     = {{birth date and age|1996|8|8|df=yes}}
+| birth_place    = Andorra
+| death_date     = 
+| death_place    = 
+| height         = 175 cm 
+| weight         = 80 kg 
+| medal_templates = 
+| show_medals    = 
+}}
+
+'''Pol Arias Dourdet''' (born 8 August 1996) is an Andorran [[Swimming (sport)|swimmer]].<ref>{{Cite web|url=https://www.olympicchannel.com/en/athletes/detail/pol-arias-dourdet/|title=Pol ARIAS DOURDET|website=Olympic Channel|access-date=2 March 2020|archive-date=2 March 2020|archive-url=https://web.archive.org/web/20200302043449/https://www.olympicchannel.com/en/athletes/detail/pol-arias-dourdet/|url-status=live}}</ref> He competed in the [[Swimming at the 2016 Summer Olympics – Men's 400 metre freestyle|men's 400 metre freestyle]] event at the [[2016 Summer Olympics]].<ref name="Bio">{{cite web|url=https://www.rio2016.com/en/athlete/pol-arias-dourdet |title=Pol Arias Dourdet |accessdate=7 August 2016 |work=Rio 2016 |url-status=dead |archiveurl=https://web.archive.org/web/20160806061635/https://www.rio2016.com/en/athlete/pol-arias-dourdet |archive-date=6 August 2016}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{sports links}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Arias, Pol}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:Andorran male freestyle swimmers]]
+[[Category:Olympic swimmers for Andorra]]
+[[Category:Swimmers at the 2016 Summer Olympics]]
+[[Category:Place of birth missing (living people)]]
+
+
+{{Andorra-swimming-bio-stub}}

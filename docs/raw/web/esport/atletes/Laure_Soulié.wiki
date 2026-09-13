@@ -1,0 +1,69 @@
+{{Short description|Andorran biathlete (born 1987)}}
+{{use dmy dates|date=June 2022}}
+{{Infobox sportsperson
+| name             = Laure Soulié
+| image            = Laure Soulie 1.jpg
+| caption          = Soulié in 2010
+| birth_date       = {{birth date and age|df=y|1987|4|28}}
+| birth_place      = [[El Pas de la Casa]], Andorra
+| education       = 
+| occupation       = 
+| years_active     = 
+| employer         = 
+| agent            = 
+| height           = 160 cm<ref name="SR" />
+| weight           = 49 kg<ref name="SR" />
+| spouse           = 
+| life_partner     = 
+| other_interests  = 
+| website          = 
+| country          = [[Andorra]]
+| sport            = [[Biathlon]]
+| rank             = 
+| event            = 
+| college_team      = 
+| university_team   = 
+| league           = 
+| league_type      = 
+| club             = 
+| team             = 
+| turned_pro        = 
+| partner          = 
+| former_partner   = 
+| coach            = 
+| retired          = 
+| coaching         = 
+| worlds           = 
+| regionals        = 
+| nationals        = 
+| olympics         = 
+| paralympics      = 
+| highest_ranking   = 
+| personal_best               = 
+| show_medals    = 
+| medal_templates =
+<!-- {{MedalCountry| {{AND}} }} -->
+{{MedalCountry|{{FRA}}}}
+{{MedalCompetition|[[Biathlon Junior World Championships|Youth World Championships]]}}
+{{Medal|Bronze|[[Biathlon Junior World Championships 2006|2006 Presque Isle]]|3 × 6 km relay}}
+}}
+
+'''Laure Soulié''' (born 28 April 1987) is a retired [[Andorra]]n [[biathlon|biathlete]] who originally competed for [[France]] as her mother is French and Andorra had no team. She has competed for Andorra since 2009 and represented [[Andorra at the 2014 Winter Olympics]].<ref>{{cite web |url=http://m.sochi2014.com/en/athlete-laure-soulie |title=Sochi 2014 site |publisher=M.sochi2014.com |date= |accessdate=2014-02-06}}</ref><ref name="SR">{{cite Sports-Reference}}</ref> Her best placing is 9th in a 15&nbsp;km individual race in [[Ruhpolding]], [[Germany]] in the 2013–2014 season.
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{sports links|properties=-P3171}}
+
+{{DEFAULTSORT:Soulie, Laure}}
+[[Category:1987 births]]
+[[Category:Living people]]
+[[Category:Andorran female biathletes]]
+[[Category:Olympic biathletes for Andorra]]
+[[Category:French people of Andorran descent]]
+[[Category:Andorran people of French descent]]
+[[Category:Biathletes at the 2014 Winter Olympics]]
+
+{{Biathlon-bio-stub}}
+{{Andorra-sport-bio-stub}}

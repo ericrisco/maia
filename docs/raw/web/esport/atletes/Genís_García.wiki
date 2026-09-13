@@ -1,0 +1,84 @@
+{{short description|Andorran footballer}}
+{{Distinguish|Genís García Junyent}}
+{{Use dmy dates|date=July 2023}}
+{{family name hatnote|García|Iscla|lang=Catalan}}
+{{Infobox football biography
+|name=Genís García Iscla
+|image=Genis Garcia.jpg
+|image_size=150
+|fullname=
+|birth_date={{birth date and age|df=yes|1978|5|18}}
+|birth_place=[[Andorra]]
+|death_date=
+|height=
+|position=[[Midfielder]]
+|currentclub=
+|clubnumber=
+|youthyears1=
+|youthclubs1=
+|years1=1997–2010
+|clubs1=[[FC Andorra]]
+|caps1= | goals1 =
+|nationalyears1=1997–2010
+|nationalteam1=[[Andorra national football team|Andorra]]
+|nationalcaps1= 37 | nationalgoals1 = 0
+|manageryears1=
+|managerclubs1=
+}}
+'''Genís García Iscla''' (born 18 May 1978) is an [[Andorra]]n [[Association football|footballer]]. He currently plays for the [[Andorra national football team|Andorra national team]] and [[FC Santa Coloma]].
+
+==National team statistics==
+''Updated 28 September 2014''<ref>{{cite web|url=http://www.national-football-teams.com/player/178/Genis_Garcia.html |title=Genís García |work=National Football Teams |accessdate=28 September 2014 }}</ref>
+{| class="wikitable" style="text-align:center"
+! colspan=3 | [[Andorra national football team|Andorra national team]]
+|-
+!Year!!Apps!!Goals
+|-
+|-
+|1997||1||0
+|-
+|1998||4||0
+|-
+|1999||4||0
+|-
+|2000||0||0
+|-
+|2001||2||0
+|-
+|2002||0||0
+|-
+|2003||2||0
+|-
+|2004||5||0
+|-
+|2005||5||0
+|-
+|2006||5||0
+|-
+|2007||5||0
+|-
+|2008||1||0
+|-
+|2009||2||0
+|-
+|2010||1||0
+|-
+!Total||37||0
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{NFT player|pid=178}}
+
+{{DEFAULTSORT:Garcia, Genis}}
+[[Category:1978 births]]
+[[Category:Living people]]
+[[Category:Andorran men's footballers]]
+[[Category:FC Santa Coloma players]]
+[[Category:Men's association football midfielders]]
+[[Category:Andorra men's international footballers]]
+
+
+{{Andorra-footy-bio-stub}}

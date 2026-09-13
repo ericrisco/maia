@@ -1,0 +1,59 @@
+{{Short description|Andorran footballer (born 2003)}}
+{{Use British English|date=November 2024}}
+{{Use dmy dates|date=November 2024}}
+{{Infobox football biography
+| name = Pau Babot
+| image = 
+| caption = 
+| fullname = Pau Klaus Babot Müller
+| birth_date = {{birth date and age|2003|8|20|df=y}}
+| birth_place = [[Frankfurt]], Germany<ref>{{Cite web|url=https://www.bondia.ad/esports/4-2-8-i-enguany-1-punt|title=4, 2, 8 i enguany... 1 punt|language=ca}}</ref>
+| height = 1.82m
+| position = [[Midfielder]]
+| currentclub = [[FC Bayern Alzenau|Bayern Alzenau]]
+| clubnumber = 17
+| youthyears1 = {{0|0000}}–2013 | youthclubs1 = FC Germania Enkheim
+| youthyears2 = 2013–2016 | youthclubs2 = FSV 1910 Bergen
+| youthyears3 = 2016–2022 | youthclubs3 = [[KSV Klein-Karben]]
+| years1 = 2022–2023 | clubs1 = {{ill|SG Bornheim Grün-Weiss|de}} | caps1 = 41 | goals1 = 5
+| years2 = 2024–2025 | clubs2 = Hanauer SC 1960 | caps2 = 40 | goals2 = 3
+| years3 = 2025–2026 | clubs3 = Rot-Weiß Walldorf | caps3 = 22 | goals3 = 1
+| years4 = 2026– | clubs4 = [[FC Bayern Alzenau|Bayern Alzenau]] | caps4 = 0 | goals4 = 0
+| nationalyears1 = 2019 | nationalteam1 = [[Andorra national under-17 football team|Andorra U17]] | nationalcaps1 = 3 | nationalgoals1 = 0
+| nationalyears2 = 2019–2021 | nationalteam2 = [[Andorra national under-19 football team|Andorra U19]] | nationalcaps2 = 6 | nationalgoals2 = 0
+| nationalyears3 = 2021–2024 | nationalteam3 = [[Andorra national under-21 football team|Andorra U21]] | nationalcaps3 = 18 | nationalgoals3 = 0
+| nationalyears4 = 2024– | nationalteam4 = [[Andorra national football team|Andorra]] | nationalcaps4 = 13
+| nationalgoals4 = 0
+| club-update = 23 May 2026
+| ntupdate = 4 June 2026
+}}
+'''Pau Klaus Babot Müller''' (born 20 August 2003) is a [[Association football|footballer]] who plays as a [[midfielder]] for [[FC Bayern Alzenau]] in Germany's [[Regionalliga]]. Born in Germany, he is an Andorra international.
+
+==Early life==
+Babot was born on 1 August 2003 in [[Germany]] to an Andorran mother and a German father. Growing up, he attended the Schule am Ried in Germany.<ref>{{Cite web|url=https://www.wetterauer-zeitung.de/sport/lokalsport/babot-traeumt-eintracht-11990393.html|title=Pau Babot träumt von der Eintracht|trans-title=Pau Babot dreams of Eintracht|language=de|publisher={{ill|Wetterauer Zeitung|de}}|date=13 December 2017|access-date=28 November 2024}}</ref> He can speak [[Catalan language|Catalan]] and [[Spanish language|Spanish]].<ref>{{Cite web|url=https://www.faz.net/aktuell/sport/fussball/traum-von-laenderspielen-so-wird-man-nationalspieler-16489414.html|title=So wird man Nationalspieler|trans-title=How to become a national player|language=de|date=17 November 2019|access-date=28 November 2024}}</ref>
+
+==Club career==
+As a youth player, Babot joined the [[youth academy]] of FC Germania Enkheim. Three years later, he joined the youth academy of FSV 1910 Bergen, before joining the youth academy of [[KSV Klein-Karben]], where he captained the under-14 team. In 2022, he started his career with {{ill|SG Bornheim Grün-Weiss|de}}. Ahead of the second half of the [[2023–24 in German football|2023–24 season]], he signed for Hanauer SC 1960. 
+
+==International career==
+Babot played for the [[Andorra national under-17 football team]] for [[2020 UEFA European Under-17 Championship qualification]].<ref>{{Cite web|url=https://inside.fifa.com/news/andorra-babot-emails-his-way-into-international-football|title=Babot emails his way into international football|trans-title=|language=en|publisher=[[FIFA]]|date=21 October 2019|access-date=28 November 2024}}</ref> The same year, he played for the [[Andorra national under-19 football team]]. On 19 October 2024, he debuted for the [[Andorra national football team]] during a 0–0 away draw with the [[Malta national football team]] in the [[UEFA Nations League]].
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Soccerway|638314}}
+
+{{DEFAULTSORT:Babot, Pau}}
+[[Category:2003 births]]
+[[Category:Living people]]
+[[Category:Footballers from Frankfurt]]
+[[Category:Andorran men's footballers]]
+[[Category:Andorra men's international footballers]]
+[[Category:Andorra men's youth international footballers]]
+[[Category:German men's footballers]]
+[[Category:Andorran people of German descent]]
+[[Category:German people of Andorran descent]]
+[[Category:Men's association football midfielders]]
+[[Category:Hessenliga players]]
+[[Category:21st-century German sportsmen]]

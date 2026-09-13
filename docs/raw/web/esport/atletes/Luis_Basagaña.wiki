@@ -1,0 +1,42 @@
+{{short description|Andorran footballer}}
+{{Infobox football biography
+
+|name     = Luis Basagaña
+|fullname = Luis Basagaña Soto
+|birth_date= 9 August 1963<ref name="bd">[http://www.bdfutbol.com/es/j/j3498.html BDFutbol Profile]</ref>
+|birth_place= [[Andorra la Vella]], Andorra<ref name="bd"/>
+|position = [[Midfielder]]<ref name="bd"/>
+|clubs1   = [[CF Damm]]<ref name="fuerzaperica"/>
+|years2   = –1984
+|clubs2   = [[Unió Esportiva Canovelles]]<ref name="fuerzaperica"/>
+|years3   = 1984–1985
+|clubs3   = [[RCD Espanyol]]<ref>{{Cite web|url=https://esportiumaresme.cat/reportatge-espanyol-maresme/|title=Espanyol i Maresme: Gespa… i despatxos|date=30 March 2022 |publisher=esportiumaresme.cat}}</ref>
+|caps3    = 1
+|goals3   = 0<ref name="bd"/>
+}}
+
+'''Luis Basagaña Soto''' or '''Lluís''' (born 9 August 1963 in [[Andorra la Vella]], [[Andorra]]) is an [[Andorra]]n former footballer who last played for [[RCD Espanyol]] of the Spanish [[La Liga|Primera División]] for the 1984–85 season. He is the first Andorran to have played in [[La Liga]].<ref>{{Cite web|url=https://www.andorradifusio.ad/esports/basagana-koldo-marc-vales-ilde-lima|title=Basagaña, Koldo, Marc Vales i Ilde Lima, en el millor 11 andorrà|publisher=andorradifusio.ad}}</ref><ref>{{Cite web|url=https://www.90min.com/es/posts/5316599-los-13-paises-que-han-tenido-algun-representante-en-la-liga-pero-nunca-han-marcado-un-gol|title=Los 13 países que han tenido algún representante en La Liga pero nunca han marcado un gol|date=27 July 2017 |publisher=90min.com}}</ref>
+
+==RCD Espanyol==
+
+Switching to [[RCD Espanyol]] of the Spanish top division for the [[1984-85 La Liga|1984-85]] season, Basagaña made his first-team debut on 9 September 1984, a 1–5 defeat to [[Valencia CF]];<ref name="fuerzaperica"/> that same day,<ref name="fuerzaperica"/> the [[Association of Spanish Footballers]] went on striker and remonstrated against the [[Royal Spanish Football Federation|Spanish Football Federation]] for various reasons.
+
+He also featured in the [[1984–85 Copa del Rey|Copa del Rey]] through his time with the club.<ref name="fuerzaperica">[https://www.fuerzaperica.com/wiki/luis_basagaña_soto Fuerzaperica.com Profile]</ref>
+
+== References ==
+{{Reflist}}
+
+{{DEFAULTSORT:Basagaña, Luis}}
+[[Category:1963 births]]
+[[Category:Living people]]
+[[Category:RCD Espanyol footballers]]
+[[Category:Andorran expatriate sportspeople in Spain]]
+[[Category:Andorran men's footballers]]
+[[Category:La Liga players]]
+[[Category:Andorran expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:Men's association football midfielders]]
+[[Category:CF Damm players]]
+
+
+{{Andorra-footy-bio-stub}}

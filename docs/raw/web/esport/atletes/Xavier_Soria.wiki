@@ -1,0 +1,57 @@
+{{short description|Andorran footballer}}
+{{Use dmy dates|date=July 2023}}
+{{Infobox football biography
+|name=Xavier Soria
+|image=
+|fullname=
+|birth_date ={{birth date and age|df=yes|1972|6|2}}
+|birth_place=[[Andorra]]
+|death_date =
+|height=
+|position=[[Midfielder]] 
+|currentclub=
+|clubnumber=
+|youthyears1=
+|youthclubs1=
+|years1=
+|clubs1=
+|caps1= | goals1 =
+|nationalyears1=1999–2002
+|nationalteam1=[[Andorra national football team|Andorra]]
+|nationalcaps1= 10 | nationalgoals1 = 0
+|manageryears1=
+|managerclubs1=
+}}
+'''Xavier Soria''' (born 2 June 1972) is an [[Andorra]]n [[Association football|football]] player. He has played for [[Andorra national football team|Andorra national team]].
+
+==National team statistics==
+{| class="wikitable" style="text-align:center"
+! colspan=3 | [[Andorra national football team|Andorra national team]]
+|-
+!Year!!Apps!!Goals
+|-
+|-
+|1999||1||0
+|-
+|2000||5||0
+|-
+|2001||3||0
+|-
+|2002||1||0
+|-
+!Total||10||0
+|}
+
+==References==
+{{Reflist}}
+*{{NFT player|pid=177}}
+
+{{DEFAULTSORT:Soria, Xavier}}
+[[Category:1972 births]]
+[[Category:Living people]]
+[[Category:Andorran men's footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Andorra men's international footballers]]
+
+
+{{Andorra-footy-bio-stub}}

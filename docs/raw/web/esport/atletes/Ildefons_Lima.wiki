@@ -1,0 +1,398 @@
+{{Short description|Andorran footballer (born 1979)}}
+{{family name hatnote|Lima|Solà|lang=Spanish}}
+{{Use dmy dates|date=October 2020}}
+{{Infobox football biography
+| name = Ildefons Lima
+| image = Andorra national football team - Ildefons Lima (001).jpg
+| caption = Lima with [[Andorra national football team|Andorra]] in 2016
+| fullname = Ildefons Lima Solà
+| birth_date = {{Birth date and age|1979|12|10|df=y}}
+| birth_place = [[Barcelona]], Spain
+| height = 1.92 m
+| position = [[Defender (association football)#Centre-back|Centre-back]]
+| currentclub =
+| clubnumber =
+| youthyears1 = | youthclubs1 = [[CF Damm|Damm]]
+| youthyears2 = | youthclubs2 = [[FC Andorra]]
+| years1 = 1996–1999 | clubs1 = [[FC Andorra]] | caps1 = 58 | goals1 = 2
+| years2 = 1999–2000 | clubs2 = [[RCD Espanyol B|Espanyol B]] | caps2 = 1 | goals2 = 0
+| years3 = 2000–2001 | clubs3 = [[UE Sant Andreu|Sant Andreu]] | caps3 = 25 | goals3 = 2
+| years4 = 2001–2002 | clubs4 = [[Ionikos F.C.|Ionikos]] | caps4 = 0 | goals4 = 0
+| years5 = 2002 | clubs5 = [[C.F. Pachuca|Pachuca]] | caps5 = 3 | goals5 = 1
+| years6 = 2002–2003 | clubs6 = [[UD Las Palmas|Las Palmas]] | caps6 = 25 | goals6 = 2
+| years7 = 2004 | clubs7 = [[Polideportivo Ejido|Poli Ejido]] | caps7 = 2 | goals7 = 0
+| years8 = 2004–2005 | clubs8 = [[Rayo Vallecano]] | caps8 = 34 | goals8 = 1
+| years9 = 2005–2009 | clubs9 = [[US Triestina Calcio 1918|Triestina]] | caps9 = 80 | goals9 = 1
+| years10 = 2009–2011 | clubs10 = [[AC Bellinzona|Bellinzona]] | caps10 = 43 | goals10 = 4
+| years11 = 2011–2012 | clubs11 = [[US Triestina Calcio 1918|Triestina]] | caps11 = 17 | goals11 = 2
+| years12 = 2012–2014 | clubs12 = [[FC Andorra]] | caps12 = 45 | goals12 = 15
+| years13 = 2014–2018 | clubs13 = [[FC Santa Coloma|Santa Coloma]] | caps13 = 64 | goals13 = 10
+| years14 = 2018–2022 | clubs14 = [[Inter Club d'Escaldes|Inter d'Escaldes]] | caps14 = 53 | goals14 = 5
+| years15 = 2022–2023 | clubs15 = [[FC Andorra|FC Andorra B]] | caps15 = 13 | goals15 = 0
+| totalcaps = 463 | totalgoals = 45
+| nationalyears1 = 1997–2023 | nationalteam1 = [[Andorra national football team|Andorra]] | nationalcaps1 = 137 | nationalgoals1 = 11
+| club-update =
+}}
+'''Ildefons Lima Solà''' (born 10 December 1979) is an Andorran former professional [[Association football|footballer]] who played as a [[Defender (association football)#Centre-back|centre-back]].
+
+He played club football in Spain, Greece, Mexico, Italy, Switzerland and Andorra. In a 26-year international career, the longest in men's football history, Lima set the records for most appearances and most goals for [[Andorra national football team|Andorra]] (137 and 11).<ref>{{cite web|url=https://www.rsssf.org/miscellaneous/ando-recintlp.html|title=Andorra – Record International Players|publisher=[[RSSSF]]|first1=Sébastien|last1=Duret|first2=Roberto|last2=Mamrud|access-date=17 November 2019}}</ref>
+
+==Early life==
+Lima was born in [[Barcelona]], [[Catalonia]]<ref>{{cite news|url=http://www.mundodeportivo.com/20081008/aventuras-de-un-andorrano-en-la-serie-b_53555644881.html|title=Aventuras de un andorrano en la Serie B|trans-title=Adventures of an Andorran in Serie B|newspaper=[[Mundo Deportivo]]|first=Inmaculada|last=Mentruit|language=es|date=8 October 2008|access-date=14 October 2014}}</ref> to an Andalusian father<!-- from Málaga --> and a Catalan mother<!-- from Gavà -->.<ref>{{cite news|url=https://www.diariandorra.ad/noticies/dmg/amb_cara_ulls/2019/04/07/ildefons_lima_mapamundi_144192_1173.html|title=Ildefons Lima i el mapamundi|trans-title=Ildefons Lima and the world map|newspaper=[[Diari d'Andorra]]|first=Alba|last=Doral|language=ca|date=7 April 2019|access-date=29 December 2019}}</ref> His family moved to Andorra when he was two months old.<ref name=YT>{{cite web|url=https://www.youtube.com/watch?v=aKrA78HA_5Q&t=103 |archive-url=https://ghostarchive.org/varchive/youtube/20211219/aKrA78HA_5Q |archive-date=2021-12-19 |url-status=live|title=Fiebre Maldini: Ildefons Lima, orgullo de Andorra {{!}} Movistar+|date=22 March 2017 |trans-title=Fiebre Maldini: Ildefons Lima, pride of Andorra {{!}} Movistar+|via=[[YouTube]]|language=es|access-date=29 December 2019}}{{cbignore}}</ref>
+
+==Club career==
+Lima's first years as a senior were spent with [[FC Andorra]], playing one season each in the [[Segunda División B|Spanish third]] and [[Tercera División|fourth divisions]]. Subsequently, he played at both levels with [[RCD Espanyol B]] and [[UE Sant Andreu]], splitting the following campaign abroad between [[Ionikos F.C.]] of Greece and [[C.F. Pachuca]] in Mexico.<ref>{{cite web|url=https://news12.gr/ilntefons-lima-apo-to-perasma-apo-ton-i/|title=Ιλντεφόνς Λίμα: Από το πέρασμα από τον Ιωνικό στο… Ανδόρρα – Αγγλία!|trans-title=Ildefons Lima: From Ionikos spell to… Andorra – England!|publisher=News 12|first=Kostas|last=Moschovos|language=el|date=10 October 2021|access-date=21 August 2022}}</ref>
+
+In the summer of 2002, Lima returned to Spain, remaining one and a half seasons at newly relegated [[UD Las Palmas]] in the [[Segunda División]]. He scored his only two goals as a professional in the country on 22 December 2002 and 14 June 2003, respectively against [[Levante UD]] (1–1) and [[CD Numancia]] (1–0 away win);<ref>{{cite news|url=https://www.diariocordoba.com/deportes/2002/12/23/descarga-evita-derrota-levante-39039782.html|title=Descarga evita otra derrota del Levante|trans-title=Descarga prevents another Levante loss|newspaper=Diario Córdoba|language=es|date=23 December 2002|access-date=10 May 2024}}</ref><ref>{{cite news|url=https://www.mundodeportivo.com/20130904/futbol/las-palmas-visitara-el-sabado-al-numancia-diez-anos-despues-de-ganar-en-soria_54380987726.html|title=Las Palmas visitará el sábado al Numancia diez años después de ganar en Soria|trans-title=Las Palmas will visit Numancia Saturday ten years after winning in Soria|newspaper=Mundo Deportivo|language=es|date=4 September 2013|access-date=10 May 2024}}</ref> he appeared just three times in [[2003–04 Segunda División|2003–04]], ended with relegation.<ref>{{cite news|url=https://www.laprovincia.es/ud-las-palmas/2023/03/02/mitico-exjugador-ud-palmas-andorrano-84023198.html|title=¿Qué fue del mítico exjugador de la UD Las Palmas y andorrano Ildefons Lima?|trans-title=What became of the legendary Andorran ex-UD Las Palmas player Ildefons Lima?|newspaper=[[La Provincia (Canary Islands)|La Provincia]]|first=Pablo|last=Fuentes|language=es|date=2 March 2023|access-date=13 September 2023}}</ref> He moved in January 2004 to another team in that league, [[Polideportivo Ejido]], and spent the [[2004–05 Segunda División B|following campaign]] with [[Rayo Vallecano]] in division three.<ref>{{cite news|url=https://www.ara.ad/suplement/ildefons-lima-representant-equip-orgull_1_3290681.html|title=Ildefons Lima: "Ser el representant de l'equip al camp és un motiu de molt orgull"|trans-title=Ildefons Lima: "To represent the team on the pitch is something to be very proud of"|newspaper=[[Ara (newspaper)|Ara]]|first=Marc|last=Pérez|language=ca|date=15 December 2018|access-date=14 September 2023}}</ref>
+
+Lima then played four years with [[US Triestina Calcio 1918]] in Italy.<ref>{{cite news|url=http://ricerca.gelocal.it/ilpiccolo/archivio/ilpiccolo/2005/08/03/NZ_29_MERC.html|title=Arriva Lima, stopper della nazionale di Andorra|trans-title=Lima, Andorran national team stopper, arrives|newspaper=[[Il Piccolo]]|first=Antonello|last=Rodio|language=it|date=3 August 2005|access-date=3 June 2016}}</ref> With the [[Trieste]] side, he was occasionally used as a [[Forward (association football)|forward]] at the request of elusive chairman Flaviano Tonellotto.<ref>{{cite web|url=http://www.rovesciate.com/calcio-andorrano/|title=Il calcio andorrano oltre la playstation|trans-title=Andorran football as well as playstation|publisher=Rovesciate|language=it|date=16 September 2014|access-date=3 June 2016|url-status=dead|archive-url=https://web.archive.org/web/20160617085644/http://www.rovesciate.com/calcio-andorrano/|archive-date=17 June 2016}}</ref> In 2009, aged nearly 30, he switched countries again, signing for [[AC Bellinzona]] of the [[Swiss Super League]].<ref>{{cite news|url=https://www.diariandorra.ad/noticies/esports/2009/12/08/el_defensa_ildefons_lima_triomfa_l_equip_suis_bellinzona_25214_1128.html|title=El defensa Ildefons Lima triomfa a l'equip suís de Bellinzona|trans-title=Defender Ildefons Lima triumphs in Switzerland's Bellinzona|newspaper=Diari d'Andorra|language=ca|date=9 December 2009|access-date=13 September 2023}}</ref>
+
+After two seasons in Switzerland and one back at Triestina,<ref>{{cite web|url=http://www.sportest.it/calcio/serie-b/triestina-nanu-galderisi-e-il-nuovo-allenatore-un-palmares-da-calciatore-ai-massimi-livelli.html|title=Triestina, "Nanu" Galderisi è il nuovo allenatore. Ufficiali il ritorno di Lima e l'acquisto di Galasso|trans-title=Triestina, "Nanu" Galderisi is the new manager. Return of Lima and acquisition of Galasso official|publisher=Sportest|language=it|date=25 October 2011|access-date=3 June 2016}}</ref> Lima signed again for FC Andorra, now of the [[Primera Catalana]], instead of several offers to play in the principality's [[Primera Divisió]].<ref>{{cite news|url=http://www.elperiodic.ad/noticia/25386/lima-accepta-loferta-esportiva-de-landorra-abans-que-la-de-la-lliga|title=Lima accepta l'oferta esportiva de l'Andorra abans que la de la Lliga|trans-title=Lima accepts FC Andorra's sporting offer rather than that of the League|newspaper=[[El Periòdic d'Andorra]]|language=ca|date=29 August 2012|access-date=2 June 2016}}</ref> On 12 June 2014, he joined the latter league's champion [[FC Santa Coloma]].<ref>{{cite web|url=http://www.andorradifusio.ad/Esports/lfc-santa-coloma-fitxa-ildefons-lima-i-iban-parra|title=L'FC Santa Coloma fitxa Ildefons Lima i Iban Parra|trans-title=FC Santa Coloma sign Ildefons Lima and Iban Parra|publisher=Andorra Difusió|language=ca|date=12 June 2014|access-date=2 June 2016}}</ref> He scored for them on 8 July in the [[2014–15 UEFA Champions League|first qualifying round]] of the [[UEFA Champions League]] away to [[FC Banants]], as they advanced on [[Away goals rule|away goals]];<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/0217-0e8b54bc28f8-06932ba6f4c0-1000--keeper-casals-edges-santa-coloma-past-banants/|title=Keeper Casals edges Santa Coloma past Banants|publisher=UEFA|first=Khachik|last=Chakhoyan|date=8 July 2014|access-date=2 June 2016}}</ref> he also claimed four national championships in a row.<ref name=Trivela>{{cite web|url=https://trivela.com.br/europa/ildefons-lima-recorde-selecoes/|title=Ildefons Lima encerra uma carreira de recorde: 26 anos com a seleção de Andorra|trans-title=Ildefons Lima wraps up record career: 26 years with the Andorra national team|publisher=Trivela|first=Leandro|last=Stein|language=pt|date=13 September 2023|access-date=10 May 2024}}</ref>
+
+Having spent four years with Santa Coloma, Lima signed with [[Inter Club d'Escaldes]] in August 2018,<ref>{{cite news|url=https://www.elperiodic.ad/noticia/66264/lima-fitxa-per-linter-descaldes-buscant-nous-objectius|title=Lima fitxa per l'Inter d'Escaldes buscant "nous objectius"|trans-title=Lima signs for Inter d'Escaldes searching for "new objectives"|newspaper=El Periòdic d'Andorra|first=Miquel|last=López-Egea|language=ca|date=24 August 2018|access-date=13 September 2023}}</ref> winning their first league in history in [[2019–20 Primera Divisió|2019–20]] and repeating the feat the next two campaigns.<ref name=Trivela/> Following another spell of the same length, he returned to FC Andorra to play for the [[reserve team]], with the club now owned by [[Gerard Piqué]].<ref name=BBC>{{cite web|url=https://www.bbc.co.uk/sport/football/66789916|title=Ildefons Lima: Andorra captain ends international career after 26 years|publisher=[[BBC Sport]]|first=Joe|last=Rindl|date=13 September 2023|access-date=13 September 2023}}</ref>
+
+==International career==
+Lima made his debut for [[Andorra national football team|Andorra]] aged 17 years and 6 months, in the country's second ever game on 22 June 1997, scoring in a 4–1 [[Exhibition game|friendly]] defeat in [[Estonia national football team|Estonia]], becoming their youngest player and goalscorer.<ref name=BBC/> In the process, he earned more than 130 [[Cap (sport)|caps]].<ref name=RSSSF>{{cite web|url=https://www.rsssf.org/miscellaneous/ilima-intlg.html|title=Ildefons Lima Solá – Goals in International Matches|publisher=RSSSF|first=Roberto|last=Mamrud|access-date=28 September 2014}}</ref><ref>{{cite news|url=http://www.elconfidencial.com/deportes/futbol/internacional/2015-10-15/andorra-eurocopa-2016-ildefons-lima_1059018/|title=Ildefons Lima, el 'Panenka' pirenaico, es el defensa más goleador de la Eurocopa|trans-title=Ildefons Lima, the 'Panenka' of the Pyrenees, is the top-scoring defender in the European Championship|newspaper=[[El Confidencial]]|first=David|last=Ruiz|language=es|date=15 October 2015|access-date=3 June 2016}}</ref>
+
+In June 2009, near the end of the [[2010 FIFA World Cup]] [[2010 FIFA World Cup qualification (UEFA)|qualifying campaign]], Lima scored his first competitive goal for over eight years and six years overall, netting the last goal of a 5–1 away loss against [[Belarus national football team|Belarus]]. On 9 September 2014, in Andorra's first match of the [[UEFA Euro 2016]] [[UEFA Euro 2016 qualifying|qualification phase]], he netted a sixth-minute [[Penalty kick (association football)|penalty]] to give the side a 1–0 lead over [[Wales national football team|Wales]], but in an eventual 1–2 home defeat.<ref>{{cite news|url=https://www.theguardian.com/football/2014/sep/09/andorra-wales-euro-2016-qualifier-match-report|title=Gareth Bale double rescues feeble Wales from embarrassment in Andorra|newspaper=[[The Guardian]]|date=9 September 2014|access-date=10 September 2014}}</ref>
+
+After [[Óscar Sonejee]], Lima was the second Andorran to reach [[List of men's footballers with 100 or more international caps|a century of caps]], playing his 100th game on 1 June 2016, a 2–0 friendly loss to [[Estonia national football team|Estonia]] in [[Tallinn]].<ref>{{cite web|url=http://www.faf.ad/pnfg/NNws_ShwNewDup?codigo=1006728&cod_primaria=3000301&cod_secundaria=3000301#.V0-PPZErLIU|title=Derrota ajustada de la Selecció a Tallinn en el centenari d'Ilde Lima|trans-title=National team's close defeat in Tallinn on Ilde Lima's centenary|publisher=[[Andorran Football Federation]]|language=ca|date=1 June 2016|access-date=2 June 2016}}</ref> On 22 February 2017 he opened a 2–0 away win over [[San Marino national football team|San Marino]] in another exhibition game, ending an 86-game winless run.<ref>{{cite web|url=http://www.esquire.co.uk/culture/news/a13310/andorra-beat-san-marino-in-international-friendly/|title=Andorra has finally ended the longest-running losing streak in international football|publisher=[[Esquire (magazine)|Esquire]]|date=23 February 2017|access-date=23 February 2017|url-status=dead|archive-url=https://web.archive.org/web/20170224052022/http://www.esquire.co.uk/culture/news/a13310/andorra-beat-san-marino-in-international-friendly/|archive-date=24 February 2017}}</ref>
+
+Lima surpassed Sonejee's national record of 106 internationals on 16 August 2017, when he played a friendly against [[Qatar national football team|Qatar]] in [[Burton-on-Trent]].<ref>{{cite news|url=https://www.elperiodic.ad/noticia/59552/lhome-record|title=Ildefons Lima: l'home rècord|trans-title=Ildefons Lima: the record man|newspaper=El Periòdic d'Andorra|first=Joan Josep|last=Blasco|language=ca|date=17 August 2017|access-date=31 August 2018}}</ref> In 2020, the [[Andorran Football Federation]] removed him from the team – against the wishes of coach [[Koldo Álvarez]] – when the player spoke out against football resuming in the principality without [[COVID-19]] testing. [[FIFPRO]], the world's trade union for footballers, called for [[FIFA]] to intervene in his favour.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/54929495|title=Ildefons Lima: The national icon shunned by his country over coronavirus comments|publisher=BBC Sport|first=Sean|last=Cole|date=17 November 2020|access-date=17 November 2020}}</ref>
+
+On 3 June 2021, Lima became just the third European footballer (after [[Billy Meredith]] and [[Jari Litmanen]]) to be capped in four different decades when playing in a friendly defeat to [[Republic of Ireland national football team|Republic of Ireland]].<ref>{{cite web|url=https://footballpink.net/ildefons-lima-andorra-most-capped-footballers-uefa/|title=Ildefons Lima: Andorra's four-decade international icon|publisher=Football Pink|first=Liam|last=Togher|date=17 February 2022|access-date=15 June 2022|url-status=live|archive-url=https://web.archive.org/web/20220615154728/https://footballpink.net/ildefons-lima-andorra-most-capped-footballers-uefa/|archive-date=15 June 2022}}</ref> On 10 June 2022, after featuring five minutes of the 2–1 victory over [[Liechtenstein national football team|Liechtenstein]] in a [[2022–23 UEFA Nations League D|UEFA Nations League]] fixture, he became at 41 years and 6 months Andorra's oldest player ever, breaking [[Juli Sánchez]]'s record.<ref>{{cite news|url=https://www.marca.com/futbol/futbol-internacional/2016/11/17/582dad24468aeb28418b4604.html|title=Los nueve supervivientes del Siglo XX|trans-title=The nine survivors of the XXth Century|newspaper=[[Marca (newspaper)|Marca]]|first=Víctor|last=Romero|language=es|date=17 November 2016|access-date=30 December 2024}}</ref><ref>{{cite web|url=https://www.anaesports.ad/ca/noticia/159529-primera-victoria-d%27andorra-a-la-nations-league-amb-un-gol-digne-del-puskas|title=Primera victòria d'Andorra a la Nations League amb un gol digne del Puskas|trans-title=First win of Andorra in the Nations League with Puskas-candidate of a goal|publisher=Agència de Notícies Andorrana|first=Eduard|last=Piera|language=ca|date=10 June 2022|access-date=30 December 2024}}</ref><ref>{{cite web|url=https://pt.uefa.com/european-qualifiers/news/0253-0d7f2a9a80b9-467fa6359d1d-1000--casciaro-e-ibrahimovic-los-mas-veteranos-de-la-fase-de-c/|title=Casciaro e Ibrahimović, los más veteranos de la fase de clasificación para la EURO|trans-title=Casciaro and Ibrahimović, the most veteran of EURO qualifiers|publisher=UEFA|language=es|date=24 March 2023|access-date=30 December 2024}}</ref>
+
+On 16 June 2023, the 43-year-old Lima became the oldest player to appear at a [[UEFA European Championship qualifying]] match.<ref>{{cite web|url=https://www.uefa.com/european-qualifiers/news/0253-0d7f1c7bd158-989b0007e2aa-1000--ildefons-lima-becomes-oldest-player-in-euro-qualifying-hi/|title=Ildefons Lima becomes oldest player in EURO qualifying history|publisher=UEFA|date=15 June 2023|access-date=17 June 2023|url-status=live|archive-url=https://web.archive.org/web/20230617233757/https://www.uefa.com/european-qualifiers/news/0253-0d7f1c7bd158-989b0007e2aa-1000--ildefons-lima-becomes-oldest-player-in-euro-qualifying-hi/|archive-date=17 June 2023}}</ref> He retired from the national team after a [[UEFA Euro 2024 qualifying|Euro 2024 qualifier]] against [[Switzerland national football team|Switzerland]] on 12 September 2023; he was [[Substitute (association football)|substituted]] after 23 minutes to a standing ovation by both sets of supporters and replaced by [[Ricard Fernández]], a player born two years into his international career. His 26-year spell for his country was the longest in men's football history.<ref>{{cite web|url=https://footballpost.com/latest/after-26-years-making-his-debut-in-1997-andorra-captain-retires-lima/|title=After 26 years – making his debut in 1997, Andorra captain RETIRES|publisher=Football Post|date=13 September 2023|access-date=13 September 2023}}</ref><ref name=BBC/>
+
+Lima's record of youngest-ever capped player was broken by [[Marc Pujol]] in 2026, by one month.<ref>{{cite web|url=https://cadenaser.com/2022/03/24/marc-pujol-100-partits-amb-la-seleccio/|title=Marc Pujol 100 partits amb la selecció|trans-title=Marc Pujol 100 games with the national team|publisher=[[Cadena SER]]|language=ca|date=24 March 2022|access-date=7 December 2024}}</ref><ref>{{cite web|url=https://www.andorradifusio.ad/esports/pujol-prepara-celebrar-partit-numero-100|title=Pujol es prepara per celebrar el partit número 100 amb la selecció|trans-title=Pujol getting ready to celebrate 100th match with the national team|publisher=Andorra Difusió|first=Joan|last=López|language=ca|date=24 March 2022|access-date=7 December 2024}}</ref>
+
+==Personal life==
+Despite debuting for the Andorra national team when he was 17, Lima [[Andorran nationality law#By naturalisation|became a citizen of the country]] when he lived there for 20 years.<ref name=YT/> His older brother, [[Antoni Lima|Antoni]], was also a footballer and a defender. He too spent most of his career in the lower leagues of Spain, and the pair shared teams at Ionikos.<ref>{{cite web|url=http://arogeraldes.blogspot.pt/2007/02/andorra-el-milagro-contra-macedonia.html|title=Andorra – El milagro contra Macedonia|trans-title=Andorra – The miracle against Macedonia|publisher=Pablo Aro Geraldes|language=es|date=3 February 2007|access-date=3 June 2016}}</ref><ref>{{cite web|url=http://www.am14.net/ildefons-lima-de-andorra-wembley/|title=Ildefons Lima, un andorrano en Wembley|trans-title=Ildefons Lima, an Andorran in Wembley|publisher=AM 14|first=Jordi|last=Blanco|language=es|date=13 November 2014|access-date=3 June 2016|url-status=dead|archive-url=https://web.archive.org/web/20160625181436/http://www.am14.net/ildefons-lima-de-andorra-wembley/|archive-date=25 June 2016}}</ref>
+
+==Career statistics==
+===Club===
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition<ref>{{Soccerway|new_id=lima-ildefons/IFssRWp2}}</ref>
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[FC Andorra]]
+|[[1996–97 Segunda División B|1996–97]]
+|rowspan=2|[[Segunda División B]]
+|0||0||0||0||0||0||colspan="2"|—||0||0
+|-
+|[[1997–98 Segunda División B|1997–98]]
+|32||0||0||0||0||0||colspan="2"|—||32||0
+|-
+|[[1998–99 Tercera División|1998–99]]
+|[[Tercera División]]
+|26||2||0||0||0||0||colspan="2"|—||26||2
+|-
+!colspan="2"|Total
+!58!!2!!0!!0!!0||0||0||0||58||2
+|-
+|rowspan="1"|[[RCD Espanyol B|Espanyol B]]
+|[[1999–2000 Tercera División|1999–2000]]
+|Tercera División
+|1||0||0||0||0||0||colspan="2"|—||1||0
+|-
+|rowspan="1"|[[UE Sant Andreu|Sant Andreu]]
+|[[2000–01 Tercera División|2000–01]]
+|Tercera División
+|25||2||0||0||0||0||colspan="2"|—||25||2
+|-
+|rowspan="1"|[[Ionikos F.C.|Ionikos]]
+|[[2001–02 Alpha Ethniki|2001–02]]
+|[[Super League Greece]]
+|0||0||0||0||0||0||colspan="2"|—||0||0
+|-
+|rowspan="1"|[[C.F. Pachuca|Pachuca]]
+|[[Primera División de México Verano 2002|2002]]
+|[[Liga MX]]
+|3||1||0||0||0||0||colspan="2"|—||3||1
+|-
+|rowspan="3"|[[UD Las Palmas|Las Palmas]]
+|[[2002–03 Segunda División|2002–03]]
+|rowspan=2|[[Segunda División]]
+|22||2||1||0||0||0||colspan="2"|—||23||2
+|-
+|[[2003–04 Segunda División|2003–04]]
+|3||0||0||0||0||0||colspan="2"|—||3||0
+|-
+!colspan="2"|Total
+!25!!2!!1!!0!!0||0||0||0||26||2
+|-
+|rowspan="1"|[[Polideportivo Ejido|Poli Ejido]]
+|2003–04
+|Segunda División
+|2||0||0||0||0||0||colspan="2"|—||2||0
+|-
+|rowspan="1"|[[Rayo Vallecano]]
+|[[2004–05 Segunda División B|2004–05]]
+|Segunda División B
+|34||1||0||0||0||0||colspan="2"|—||34||1
+|-
+|rowspan="5"|[[US Triestina Calcio 1918|Triestina]]
+|[[2005–06 Serie B|2005–06]]
+|rowspan=4|[[Serie B]]
+|21||0||0||0||0||0||colspan="2"|—||21||0
+|-
+|[[2006–07 Serie B|2006–07]]
+|34||1||2||0||0||0||colspan="2"|—||36||1
+|-
+|[[2007–08 Serie B|2007–08]]
+|21||0||3||0||0||0||colspan="2"|—||24||0
+|-
+|[[2008–09 Serie B|2008–09]]
+|4||0||2||0||0||0||colspan="2"|—||6||0
+|-
+!colspan="2"|Total
+!80!!1!!7!!0!!0||0||0||0||87||1
+|-
+|rowspan="3"|[[AC Bellinzona|Bellinzona]]
+|[[2010–11 Swiss Super League|2009–10]]
+|rowspan=2|[[Swiss Super League]]
+|24||4||0||0||0||0||colspan="2"|—||24||4
+|-
+|[[2009–10 Swiss Super League|2010–11]]
+|19||0||1||0||0||0||colspan="2"|—||20||0
+|-
+!colspan="2"|Total
+!43!!4!!1!!0!!0||0||0||0||44||4
+|-
+|rowspan="1"|[[US Triestina Calcio 1918|Triestina]]
+|[[2011–12 Lega Pro Prima Divisione|2011–12]]
+|[[Lega Pro Prima Divisione]]
+|17||2||0||0||0||0||colspan="2"|—||17||2
+|-
+|rowspan="3"|[[FC Andorra]]
+|2012–13
+|rowspan=2|[[Primera Catalana]]
+|17||5||0||0||0||0||colspan="2"|—||17||5
+|-
+|2013–14
+|28||10||0||0||0||0||colspan="2"|—||28||10
+|-
+!colspan="2"|Total
+!45!!15!!0!!0!!0||0||0||0||45||15
+|-
+|rowspan="6"|[[FC Santa Coloma|Santa Coloma]]
+|[[2014–15 Primera Divisió|2014–15]]
+|rowspan=5|[[Primera Divisió]]
+|12||3||4||4||2||1||1||0||19||8
+|-
+|[[2015–16 Primera Divisió|2015–16]]
+|17||4||2||1||2||1||colspan="2"|—||21||6
+|-
+|[[2016–17 Primera Divisió|2016–17]]
+|18||0||2||0||2||0||0||0||22||0
+|-
+|[[2017–18 Primera Divisió|2017–18]]
+|17||3||1||1||2||1||1||0||20||5
+|-
+|[[2018–19 Primera Divisió|2018–19]]
+|0||0||0||0||3||0||0||0||3||0
+|-
+!colspan="2"|Total
+!64!!10!!9!!6!!9||3||2||0||84||19
+|-
+|rowspan="6"|[[Inter Club d'Escaldes|Inter d'Escaldes]]
+|[[2018–19 Primera Divisió|2018–19]]
+|rowspan=5|Primera Divisió
+|15||0||1||0||–||–||colspan="2"|—||16||0
+|-
+|[[2019–20 Primera Divisió|2019–20]]
+|20||2||1||0||–||–||colspan="2"|—||21||2
+|-
+|[[2020–21 Primera Divisió|2020–21]]
+|10||1||1||0||1||0||1||1||13||2
+|-
+|[[2021–22 Primera Divisió|2021–22]]
+|8||2||0||0||3||0||1||0||12||2
+|-
+|[[2022–23 Primera Divisió|2022–23]]
+|0||0||0||0||3||0||0||0||3||0
+|-
+!colspan="2"|Total
+!53!!5!!3!!0!!7||0||2||1||65||6
+|-
+|rowspan="1"|[[FC Andorra|FC Andorra B]]
+|2022–23
+|[[Tercera Catalana]]
+|13||0||–||–||–||–||colspan="2"|—||13||0
+|-
+!colspan="3"|Career total
+!463||45||21||6||16||3||4||1||504||55
+|}
+
+===International===
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="27"|[[Andorra national football team|Andorra]]<ref name=EU>{{Eu-Football.info|12204}}</ref><ref name=RSSSF/>
+|1997||2||1
+|-
+|1998||7||0
+|-
+|1999||8||0
+|-
+|2000||8||1
+|-
+|2001||3||1
+|-
+|2002||4||1
+|-
+|2003||2||0
+|-
+|2004||5||0
+|-
+|2005||5||0
+|-
+|2006||0||0
+|-
+|2007||6||0
+|-
+|2008||6||1
+|-
+|2009||5||2
+|-
+|2010||4||0
+|-
+|2011||6||0
+|-
+|2012||7||0
+|-
+|2013||6||0
+|-
+|2014||6||2
+|-
+|2015||7||1
+|-
+|2016||6||0
+|-
+|2017||8||1
+|-
+|2018||8||0
+|-
+|2019||9||0
+|-
+|2020||0||0
+|-
+|2021||5||0
+|-
+|2022||1||0
+|-
+|2023||3||0
+|-
+!colspan="2"|Total!!137!!11
+|}
+
+:''Scores and results list Andorra's goal tally first, score column indicates score after each Lima goal''.<ref name=EU/><ref name=RSSSF/>
+{| class="wikitable sortable"
+|+ List of international goals scored by Ildefons Lima
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| align="center"|1 || 22 June 1997 || [[Kuressaare linnastaadion|Linnastaadion]], [[Kuressaare]], Estonia || {{fb|EST}} || align="center"|1–3 || align="center"|1–4 || [[Exhibition game#Association football|Friendly]]
+|-
+| align="center"|2 || 2 September 2000 || [[Estadi Comunal d'Aixovall|Communal d'Aixovall]], [[Andorra La Vella]], Andorra || {{fb|CYP}} || align="center"|2–1 || align="center"|2–3 || rowspan="2"|[[2002 FIFA World Cup qualification – UEFA Group 2|2002 FIFA World Cup qualification]]
+|-
+| align="center"|3 || 25 April 2001 || [[Lansdowne Road]], [[Dublin]], Republic of Ireland || {{fb|IRL}} || align="center"|1–0 || align="center"|1–3
+|-
+| align="center"|4 || 27 March 2002 || [[Ta' Qali Stadium]], [[Ta' Qali]], Malta || {{fb|MLT}} || align="center"|1–0 || align="center"|1–1 || rowspan=3 | Friendly
+|-
+| align="center"|5 || 4 June 2008 || Comunal d'Aixovall, Andorra la Vella, Andorra || {{fb|AZE}} || align="center"|1–1 || align="center"|1–2
+|-
+| align="center"|6 || 11 February 2009 || [[S. Darius and S. Girėnas Stadium|S. Darius and S. Girėnas]], [[Kaunas]], Lithuania || {{fb|LTU}} || align="center"|1–2 || align="center"|1–3
+|-
+| align="center"|7 || 6 June 2009 || [[Neman Stadium]], [[Grodno]], Belarus || {{fb|BLR}} || align="center"|1–5 || align="center"|1–5 || [[2010 FIFA World Cup qualification – UEFA Group 6|2010 FIFA World Cup qualification]]
+|-
+| align="center"|8 || 9 September 2014 || rowspan=3 | [[Estadi Nacional]], Andorra la Vella, Andorra || {{fb|WAL}} || align="center"|1–0 || align="center"|1–2 || rowspan=3 | [[UEFA Euro 2016 qualifying Group B|UEFA Euro 2016 qualifying]]
+|-
+| align="center"|9 || 13 October 2014 || {{fb|ISR}} || align="center"|1–1 || align="center"|1–4
+|-
+| align="center"|10 || 11 October 2015 || {{fb|BEL}} || align="center"|1–2 || align="center"|1–4
+|-
+| align="center"|11 || 22 February 2017 || [[Stadio Olimpico di Serravalle|Olimpico di Serravalle]], [[Serravalle (San Marino)|Serravalle]], San Marino || {{fb|SMR}} || align="center"|1–0 || align="center"|2–0 || Friendly
+|}
+
+==Honours==
+'''Santa Coloma'''
+*[[Primera Divisió]]: [[2014–15 Primera Divisió|2014–15]],  [[2015–16 Primera Divisió|2015–16]], [[2016–17 Primera Divisió|2016–17]], [[2017–18 Primera Divisió|2017–18]]<ref>{{cite web|url=https://trivela.com.br/europa/andorra-agora-tem-um-recorde-no-futebol-com-mais-de-22-anos-na-selecao-ildefons-lima-estabeleceu-a-maior-marca-da-historia/|title=Andorra agora tem um recorde no futebol: com mais de 22 anos na seleção, Ildefons Lima estabeleceu a maior marca da história|trans-title=Andorra now has a record in football: with over 22 years in the national team, Ildefons Lima set greatest mark in history|publisher=Trivela|first=Leandro|last=Stein|language=pt|date=18 November 2019|access-date=10 May 2024}}</ref>
+*[[Copa Constitució]]: [[2018 Copa Constitució|2018]]
+
+'''Inter d'Escaldes'''
+*Primera Divisió: [[2019–20 Primera Divisió|2019–20]], [[2020–21 Primera Divisió|2020–21]], [[2021–22 Primera Divisió|2021–22]]<ref name=Trivela/>
+*Copa Constitució: [[2020 Copa Constitució|2020]]
+*[[Andorran Supercup]]: 2020, 2021
+
+==See also==
+*[[List of men's footballers with 100 or more international caps]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{commons category}}
+*{{BDFutbol|4721}}
+*{{NFT player|pid=166}}
+*{{FIFA player|178695}}
+*[http://www.fedandfut.com/default.asp?idioma=cat&navpage=page2&showjugador=yes&idjugador=19&seleccio=1 National team data]
+*{{Official website|https://web.archive.org/web/20110713105336/http://lima6.jimdo.com/}} {{in lang|ca}}
+
+{{DEFAULTSORT:Lima, Ildefons}}
+[[Category:1979 births]]
+[[Category:Living people]]
+[[Category:Andorran people of Catalan descent]]
+[[Category:Spanish emigrants to Andorra]]
+[[Category:Naturalised citizens of Andorra]]
+[[Category:Sportspeople of Spanish descent]]
+[[Category:Spanish men's footballers]]
+[[Category:Andorran men's footballers]]
+[[Category:Footballers from Barcelona]]
+[[Category:Men's association football central defenders]]
+[[Category:Segunda División players]]
+[[Category:Segunda División B players]]
+[[Category:Tercera División players]]
+[[Category:Divisiones Regionales de Fútbol players]]
+[[Category:CF Damm players]]
+[[Category:FC Andorra players]]
+[[Category:RCD Espanyol B footballers]]
+[[Category:UE Sant Andreu footballers]]
+[[Category:UD Las Palmas players]]
+[[Category:Polideportivo Ejido footballers]]
+[[Category:Rayo Vallecano players]]
+[[Category:Ionikos F.C. players]]
+[[Category:Liga MX players]]
+[[Category:C.F. Pachuca players]]
+[[Category:Serie B players]]
+[[Category:US Triestina Calcio 1918 players]]
+[[Category:Swiss Super League players]]
+[[Category:AC Bellinzona players]]
+[[Category:Primera Divisió players]]
+[[Category:FC Santa Coloma players]]
+[[Category:Inter Club d'Escaldes players]]
+[[Category:Andorra men's international footballers]]
+[[Category:Andorran expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Greece]]
+[[Category:Expatriate men's footballers in Italy]]
+[[Category:Expatriate men's footballers in Switzerland]]
+[[Category:Expatriate men's footballers in Mexico]]
+[[Category:Andorran expatriate sportspeople in Italy]]
+[[Category:FIFA Men's Century Club]]

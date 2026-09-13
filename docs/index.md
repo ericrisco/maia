@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**355** documents · **109** fonts · **0** aptes com a model de llengua · **109** temes amb contingut.
+**421** documents · **110** fonts · **0** aptes com a model de llengua · **111** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -142,6 +142,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El dipòsit legal](temes/cultura/museus-i-arxius/el-diposit-legal.md) | `temes/cultura/museus-i-arxius` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La Societat Andorrana de Ciències](temes/cultura/museus-i-arxius/la-societat-andorrana-de-ciencies.md) | `temes/cultura/museus-i-arxius` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [L'Arxiu d'Etnografia d'Andorra](temes/cultura/museus-i-arxius/larxiu-detnografia.md) | `temes/cultura/museus-i-arxius` | compilada | contemporania | no | `de-la-parte-immigracio-cultura` |
 | [L'Arxiu Nacional d'Andorra](temes/cultura/museus-i-arxius/larxiu-nacional.md) | `temes/cultura/museus-i-arxius` | compilada | contemporania | no | `viquipedia-ca` |
@@ -169,8 +170,11 @@
 | --- | --- | --- | --- | --- | --- |
 | [Abans dels bancs](temes/economia/banca-i-fiscalitat/abans-dels-bancs.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `cerqueda-banca` |
 | [Banca i fiscalitat](temes/economia/banca-i-fiscalitat/banca-i-fiscalitat.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `viquipedia-ca` |
+| [Blanqueig i actius digitals](temes/economia/banca-i-fiscalitat/blanqueig-i-actius-digitals.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El Banc Agrícol](temes/economia/banca-i-fiscalitat/el-banc-agricol.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `cerqueda-banca` |
 | [El cas BPA](temes/economia/banca-i-fiscalitat/el-cas-bpa.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `premsa-andorrana` |
+| [Els tipus impositius](temes/economia/banca-i-fiscalitat/els-tipus-impositius.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [La supervisió financera](temes/economia/banca-i-fiscalitat/la-supervisio-financera.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `jurisprudencia-ad` |
 
 ## temes/economia/comerc
 
@@ -179,6 +183,7 @@
 | [Comerç](temes/economia/comerc/comerc.md) | `temes/economia/comerc` | compilada | contemporania | no | `viquipedia-ca` |
 | [El comerç a l'edat moderna](temes/economia/comerc/el-comerc-a-ledat-moderna.md) | `temes/economia/comerc` | compilada | contemporania | no | `mas-relacions-comercials-1994` |
 | [El que Andorra comprava a Espanya](temes/economia/comerc/el-que-andorra-comprava-a-espanya.md) | `temes/economia/comerc` | compilada | contemporania | no | `diario-sesiones-corts-1895` |
+| [Els horaris comercials](temes/economia/comerc/els-horaris-comercials.md) | `temes/economia/comerc` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La Cambra de Comerç i la formació](temes/economia/comerc/la-cambra-de-comerc-i-la-formacio.md) | `temes/economia/comerc` | compilada | contemporania | no | `escaler-cambra-de-comerc` |
 
 ## temes/economia/energia-i-serveis
@@ -186,6 +191,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [FHASA](temes/economia/energia-i-serveis/fhasa.md) | `temes/economia/energia-i-serveis` | compilada | contemporania | no | `societat-andorrana-ciencies` |
+| [La transició energètica](temes/economia/energia-i-serveis/la-transicio-energetica.md) | `temes/economia/energia-i-serveis` | compilada | contemporania | no | `jurisprudencia-ad` |
 
 ## temes/economia/ramaderia-i-agricultura
 
@@ -209,6 +215,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Els jocs d'atzar](temes/economia/transformacio-economica/els-jocs-datzar.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Transformació econòmica](temes/economia/transformacio-economica/transformacio-economica.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/economia/turisme-i-neu
@@ -217,6 +224,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [De la fonda a l'hotel](temes/economia/turisme-i-neu/de-la-fonda-a-lhotel.md) | `temes/economia/turisme-i-neu` | compilada | contemporania | no | `lacueva-hoteleria` |
 | [Els hostals comunals](temes/economia/turisme-i-neu/els-hostals-comunals.md) | `temes/economia/turisme-i-neu` | compilada | contemporania | no | `lacueva-hoteleria` |
+| [Els pisos turístics](temes/economia/turisme-i-neu/els-pisos-turistics.md) | `temes/economia/turisme-i-neu` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Turisme i neu](temes/economia/turisme-i-neu/turisme-i-neu.md) | `temes/economia/turisme-i-neu` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/esports/competicio
@@ -224,8 +232,10 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Andorra als Jocs Olímpics](temes/esports/competicio/andorra-als-jocs-olimpics.md) | `temes/esports/competicio` | compilada | contemporania | no | `wikipedia-esport-andorra` |
+| [Els abanderats](temes/esports/competicio/els-abanderats.md) | `temes/esports/competicio` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Els altres Jocs](temes/esports/competicio/els-altres-jocs.md) | `temes/esports/competicio` | compilada | contemporania | no | `wikipedia-jocs-andorra` |
 | [Els Jocs dels Petits Estats d'Europa](temes/esports/competicio/els-jocs-dels-petits-estats.md) | `temes/esports/competicio` | compilada | contemporania | no | `gelabert-jocs-petits-estats` |
+| [La llei de l'esport](temes/esports/competicio/la-llei-de-lesport.md) | `temes/esports/competicio` | compilada | contemporania | no | `jurisprudencia-ad` |
 
 ## temes/esports/esqui
 
@@ -245,9 +255,14 @@
 | [Caroline Poussier](temes/esports/esqui/esquiadors/caroline-poussier.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
 | [Claudina Rossel i Badia](temes/esports/esqui/esquiadors/claudina-rossel.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
 | [Esteve Tomàs i Roca](temes/esports/esqui/esquiadors/esteve-tomas.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+| [François «Francesc» Soulié](temes/esports/esqui/esquiadors/francois-soulie.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Gerard Escoda i Alegret](temes/esports/esqui/esquiadors/gerard-escoda.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+| [Gina del Rio](temes/esports/esqui/esquiadors/gina-del-rio.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Jordi Torres](temes/esports/esqui/esquiadors/jordi-torres.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
 | [Kevin Esteve i Rigail](temes/esports/esqui/esquiadors/kevin-esteve-rigail.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+| [Laure Soulié](temes/esports/esqui/esquiadors/laure-soulie.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Lluís Marín i Tarroch](temes/esports/esqui/esquiadors/lluis-marin-tarroch.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Maeva Estévez](temes/esports/esqui/esquiadors/maeva-estevez.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Marc Oliveras i Gabarre](temes/esports/esqui/esquiadors/marc-oliveras.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
 | [Miguel Font i Puig](temes/esports/esqui/esquiadors/miguel-font.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
 | [Mireia Gutiérrez i Cabanes](temes/esports/esqui/esquiadors/mireia-gutierrez.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
@@ -263,6 +278,36 @@
 | [Xavier Areny i Fite](temes/esports/esqui/esquiadors/xavier-areny.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
 | [Xavier Barios](temes/esports/esqui/esquiadors/xavier-barios.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
 | [Xavier Fernández](temes/esports/esqui/esquiadors/xavier-fernandez.md) | `temes/esports/esqui/esquiadors` | compilada | contemporania | no | `wikipedia-esquiadors-andorrans` |
+
+## temes/esports/estiu
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Joan Aitor Osorio i Martí](temes/esports/estiu/aitor-osorio.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Antoni «Toni» Bernadó i Planas](temes/esports/estiu/antoni-bernado.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Carolina Cerqueda i Santacreu](temes/esports/estiu/carolina-cerqueda.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Cristina Llovera i Rossell](temes/esports/estiu/cristina-llovera.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Daniel García i González](temes/esports/estiu/daniel-garcia-gonzalez.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Emili Pérez i Font](temes/esports/estiu/emili-perez.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Esteve Dolsa i Montaña](temes/esports/estiu/esteve-dolsa.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Esther Barrugués i Alviñá](temes/esports/estiu/esther-barrugues.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Francesc Gaset i Fris](temes/esports/estiu/francesc-gaset.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Hocine Haciane i Constantin](temes/esports/estiu/hocine-haciane.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Joan Claudi Montane i Delneufcourt](temes/esports/estiu/joan-montane.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Joan Tomàs i Roca](temes/esports/estiu/joan-tomas-roca.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Josep Graells i Esquius](temes/esports/estiu/josep-graells.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Laura Sallés i López](temes/esports/estiu/laura-salles.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Margarida «Maggy» Moreno i Sánchez](temes/esports/estiu/margarida-moreno.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Meritxell Sabaté i González](temes/esports/estiu/meritxell-sabate.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Mònica Ramírez i Abella](temes/esports/estiu/monica-ramirez.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Montserrat García i Riberaygua](temes/esports/estiu/montserrat-garcia-riberaygua.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Montserrat Pujol i Joval](temes/esports/estiu/montserrat-pujol.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Pol Arias i Dourdet](temes/esports/estiu/pol-arias.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Pol Moya i Betriu](temes/esports/estiu/pol-moya.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Santiago Deu i Sandoval](temes/esports/estiu/santiago-deu.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Silvia Felipo i Suñé](temes/esports/estiu/silvia-felipo.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Antoni «Toni» Besolí i Cervellera](temes/esports/estiu/toni-besoli.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Víctor Manuel Martínez](temes/esports/estiu/victor-martinez.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 
 ## temes/esports/formacio-esportiva
 
@@ -435,6 +480,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Els diners dels comuns](temes/institucions/comuns-i-parroquies/els-diners-dels-comuns.md) | `temes/institucions/comuns-i-parroquies` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La taba i el mostassà](temes/institucions/comuns-i-parroquies/la-taba-i-el-mostassa.md) | `temes/institucions/comuns-i-parroquies` | compilada | contemporania | no | `lacueva-hoteleria` |
 | [Les set parròquies i els seus comuns](temes/institucions/comuns-i-parroquies/les-set-parroquies.md) | `temes/institucions/comuns-i-parroquies` | compilada | contemporania | no | `consell-general-web` |
 
@@ -460,7 +506,10 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [El Govern](temes/institucions/govern/el-govern.md) | `temes/institucions/govern` | compilada | contemporania | no | `govern-andorra-web` |
+| [El Raonador del Ciutadà](temes/institucions/govern/el-raonador-del-ciutada.md) | `temes/institucions/govern` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La funció pública](temes/institucions/govern/la-funcio-publica.md) | `temes/institucions/govern` | compilada | contemporania | no | `llovera-visio-del-treballador` |
+| [La llei de transparència](temes/institucions/govern/la-llei-de-transparencia.md) | `temes/institucions/govern` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [Tractar amb l'Administració](temes/institucions/govern/tractar-amb-ladministracio.md) | `temes/institucions/govern` | compilada | contemporania | no | `jurisprudencia-ad` |
 
 ## temes/institucions/justicia
 
@@ -470,14 +519,21 @@
 | [El dret supletori](temes/institucions/justicia/el-dret-supletori.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [El dret andorrà vigent](temes/institucions/justicia/el-dret-vigent.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El notariat](temes/institucions/justicia/el-notariat.md) | `temes/institucions/justicia` | compilada | contemporania | no | `rodriguez-minana-notaris` |
+| [El procés penal](temes/institucions/justicia/el-proces-penal.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El saig](temes/institucions/justicia/el-saig.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
+| [El Tribunal Constitucional](temes/institucions/justicia/el-tribunal-constitucional.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La justícia](temes/institucions/justicia/justicia.md) | `temes/institucions/justicia` | compilada | contemporania | no | `viquipedia-ca` |
 | [La justícia abans de la Constitució](temes/institucions/justicia/la-justicia-dabans.md) | `temes/institucions/justicia` | compilada | contemporania | no | `pujadas-dret-andorra` |
+| [La llei penitenciària](temes/institucions/justicia/la-llei-penitenciaria.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La presó sense llei](temes/institucions/justicia/la-preso-sense-llei.md) | `temes/institucions/justicia` | compilada | contemporania | no | `canturri-delinquencia-reinsercio-2007` |
 | [Les fonts del dret](temes/institucions/justicia/les-fonts-del-dret.md) | `temes/institucions/justicia` | compilada | contemporania | no | `pujadas-dret-andorra` |
 | [Les lleis qualificades](temes/institucions/justicia/les-lleis-qualificades.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [Les penes del Codi Penal](temes/institucions/justicia/les-penes-del-codi-penal.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [L'execució forçosa](temes/institucions/justicia/lexecucio-forcosa.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [L'ordenament jurídic avui](temes/institucions/justicia/lordenament-juridic-avui.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Quants notaris](temes/institucions/justicia/quants-notaris.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
+| [Qui nomena els jutges](temes/institucions/justicia/qui-nomena-els-jutges.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [Resoldre sense judici](temes/institucions/justicia/resoldre-sense-judici.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 
 ## temes/institucions/nacionalitat-i-residencia
 
@@ -653,6 +709,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Com es compten els vots](temes/politica/sistema-electoral/com-es-compten-els-vots.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El sufragi universal masculí](temes/politica/sistema-electoral/el-sufragi-universal-masculi.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `cavero-parlamentarisme-segle-xx` |
 | [Els tres sistemes electorals](temes/politica/sistema-electoral/els-tres-sistemes-electorals.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `dalleres-coprincipat-parlamentari` |
 | [La desigualtat del vot](temes/politica/sistema-electoral/la-desigualtat-del-vot.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `lopez-escenaris-de-futur` |
@@ -680,6 +737,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [El sufragi femení](temes/societat/dones/el-sufragi-femeni.md) | `temes/societat/dones` | compilada | contemporania | no | `consell-general-web` |
+| [La llei d'igualtat](temes/societat/dones/la-llei-digualtat.md) | `temes/societat/dones` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Les primeres becàries](temes/societat/dones/les-primeres-becaries.md) | `temes/societat/dones` | compilada | contemporania | no | `toquec-ensenyament-frances` |
 
 ## temes/societat/educacio
@@ -712,12 +770,21 @@
 | --- | --- | --- | --- | --- | --- |
 | [L'esport a Andorra](temes/societat/esport/lesport.md) | `temes/societat/esport` | compilada | contemporania | no | `viquipedia-ca` |
 
+## temes/societat/familia
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Casar-se a Andorra](temes/societat/familia/casar-se-a-andorra.md) | `temes/societat/familia` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [Els drets dels infants](temes/societat/familia/els-drets-dels-infants.md) | `temes/societat/familia` | compilada | contemporania | no | `jurisprudencia-ad` |
+
 ## temes/societat/habitatge
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Els habitatges buits](temes/societat/habitatge/els-habitatges-buits.md) | `temes/societat/habitatge` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La crisi de l'habitatge](temes/societat/habitatge/la-crisi-de-lhabitatge.md) | `temes/societat/habitatge` | compilada | contemporania | no | `premsa-andorrana` |
 | [L'habitatge el 1989](temes/societat/habitatge/lhabitatge-el-1989.md) | `temes/societat/habitatge` | compilada | contemporania | no | `font-fenomens-socials-immigracio` |
+| [Llogar un pis](temes/societat/habitatge/llogar-un-pis.md) | `temes/societat/habitatge` | compilada | contemporania | no | `jurisprudencia-ad` |
 
 ## temes/societat/immigracio
 
@@ -752,6 +819,7 @@
 | [La Clínica Vilanova](temes/societat/sanitat/la-clinica-vilanova.md) | `temes/societat/sanitat` | compilada | contemporania | no | `pallares-medicina-andorra` |
 | [La reacreditació dels metges](temes/societat/sanitat/la-reacreditacio-dels-metges.md) | `temes/societat/sanitat` | compilada | contemporania | no | `martinez-benazet-professions-liberals` |
 | [La salut mental](temes/societat/sanitat/la-salut-mental.md) | `temes/societat/sanitat` | compilada | contemporania | no | `obiols-salut-mental` |
+| [La via preferent](temes/societat/sanitat/la-via-preferent.md) | `temes/societat/sanitat` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Les iguales](temes/societat/sanitat/les-iguales.md) | `temes/societat/sanitat` | compilada | contemporania | no | `pallares-medicina-andorra` |
 | [L'Escola d'Infermeria](temes/societat/sanitat/lescola-dinfermeria.md) | `temes/societat/sanitat` | compilada | contemporania | no | `insa-ensenyament-salut` |
 
@@ -759,11 +827,14 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El dret de vaga](temes/societat/treball/el-dret-de-vaga.md) | `temes/societat/treball` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [El preu de l'acomiadament](temes/societat/treball/el-preu-de-lacomiadament.md) | `temes/societat/treball` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El sindicalisme](temes/societat/treball/el-sindicalisme.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
 | [La memòria de FHASA](temes/societat/treball/la-memoria-de-fhasa.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
 | [L'acomiadament lliure](temes/societat/treball/lacomiadament-lliure.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
 | [L'ARA i el SAT](temes/societat/treball/lara-i-el-sat.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
 | [Treball](temes/societat/treball/treball.md) | `temes/societat/treball` | compilada | contemporania | no | `iec-vocabulari-andorra` |
+| [Treballar de temporada](temes/societat/treball/treballar-de-temporada.md) | `temes/societat/treball` | compilada | contemporania | no | `jurisprudencia-ad` |
 
 ## temes/societat/vida-civica
 
@@ -780,14 +851,17 @@
 | --- | --- | --- | --- | --- | --- |
 | [El canvi climàtic a Andorra](temes/territori/clima-i-muntanya/el-canvi-climatic.md) | `temes/territori/clima-i-muntanya` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [El clima](temes/territori/clima-i-muntanya/el-clima.md) | `temes/territori/clima-i-muntanya` | compilada | contemporania | no | `viquipedia-ca` |
+| [La protecció civil](temes/territori/clima-i-muntanya/la-proteccio-civil.md) | `temes/territori/clima-i-muntanya` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [L'aigua i la neu](temes/territori/clima-i-muntanya/laigua-i-la-neu.md) | `temes/territori/clima-i-muntanya` | compilada | contemporania | no | `pons-neu-i-aigua` |
 
 ## temes/territori/fauna-i-flora
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Caçar i pescar](temes/territori/fauna-i-flora/cacar-i-pescar.md) | `temes/territori/fauna-i-flora` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Els seguiments del CENMA](temes/territori/fauna-i-flora/els-seguiments-del-cenma.md) | `temes/territori/fauna-i-flora` | compilada | contemporania | no | `komac-biodiversitat-canvi-climatic` |
 | [Fauna i flora](temes/territori/fauna-i-flora/fauna-i-flora.md) | `temes/territori/fauna-i-flora` | compilada | contemporania | no | `viquipedia-ca` |
+| [La tinença d'animals](temes/territori/fauna-i-flora/la-tinenca-danimals.md) | `temes/territori/fauna-i-flora` | compilada | contemporania | no | `jurisprudencia-ad` |
 
 ## temes/territori/geografia-fisica
 
@@ -864,6 +938,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Qui mana al territori](temes/territori/urbanisme/qui-mana-al-territori.md) | `temes/territori/urbanisme` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [L'urbanisme](temes/territori/urbanisme/urbanisme.md) | `temes/territori/urbanisme` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 
 ## temes/vida-quotidiana/com-funciona-tot
@@ -871,6 +946,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Com funciona tot](temes/vida-quotidiana/com-funciona-tot/com-funciona-tot.md) | `temes/vida-quotidiana/com-funciona-tot` | compilada | contemporania | no | `iec-vocabulari-andorra` |
+| [Conduir a Andorra](temes/vida-quotidiana/com-funciona-tot/conduir-a-andorra.md) | `temes/vida-quotidiana/com-funciona-tot` | compilada | contemporania | no | `jurisprudencia-ad` |
 
 ## temes/vida-quotidiana/convencions-socials
 
@@ -1013,6 +1089,7 @@
 | [`vinas-nacionalitat-andorrana-1990`](fonts/vinas-nacionalitat-andorrana-1990.md) | Ramon Viñas i Farré · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`viquipedia-ca`](fonts/viquipedia-ca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-art-andorra`](fonts/wikipedia-art-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-atletes-andorrans`](fonts/wikipedia-atletes-andorrans.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-esport-andorra`](fonts/wikipedia-esport-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-esquiadors-andorrans`](fonts/wikipedia-esquiadors-andorrans.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-jocs-andorra`](fonts/wikipedia-jocs-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
