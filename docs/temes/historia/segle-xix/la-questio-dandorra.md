@@ -296,6 +296,19 @@ escriure per guanyar una discussió política.** **El corpus ho registra com a
 avís de lectura per a
 [la historiografia](../../historia/historiografia/historiografia.md).**
 
+## L'ombra que la font declara sobre ella mateixa
+
+**A la secció d'historiografia, l'article escriu:**
+
+> **«el paper de les grans famílies andorranes (…) és encara una ombra a la
+> historiografia d'Andorra, com a conseqüència, en part, de la dificultat per
+> accedir a la documentació privada.»**
+
+**El corpus ha obert una branca amb aquest buit com a raó de ser**:
+[les grans famílies](../../economia/les-grans-families/README.md). **No la pot
+omplir —no té accés a documentació privada— però hi reuneix el que és públic i
+deixa el buit delimitat en comptes de difús.**
+
 ## L'altra nota positiva del període
 
 **Dues, segons la font:** **la construcció del rec del Solà d'Andorra la Vella

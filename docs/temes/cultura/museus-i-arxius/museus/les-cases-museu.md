@@ -118,7 +118,11 @@ país».**
 
 ## El que falta
 
-- **Els Rull, els Cristo i els Pal**: cap genealogia, cap nom propi.
+- ~~**Els Rull**~~ — **tancat el mateix dia**:
+  [la nissaga Perich](../../../historia/antic-regim/la-nissaga-perich.md) dona
+  dotze generacions de la Casa Rull, del 1600 al 1959, i explica per què la casa
+  s'ha dit Naufreu, Rossell, Pal i Perich sense deixar de ser la mateixa casa.
+- **Els Cristo i els Pal**: **segueixen sense genealogia i sense nom propi.**
 - **Les darreres propietàries de Casa Cristo**, i per què van marxar a França.
 - ~~**L'emigració andorrana**~~ — [La Qüestió d'Andorra](../../../historia/segle-xix/la-questio-dandorra.md).
 - **Els boquers amb rostres humans de Cal Pal.**

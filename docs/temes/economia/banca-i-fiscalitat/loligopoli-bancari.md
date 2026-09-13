@@ -66,6 +66,10 @@ competència.**
 és AndBank.** **Això tanca el buit número 6 de la seva fitxa** —*«Què va ser del
 Banc Agrícol — existeix encara, amb quin nom?»*.
 
+**La família Reig té fitxa pròpia**:
+[els Reig](../les-grans-families/els-reig.md), **que reuneix el tabac, la banca,
+la sindicatura, el primer Govern, la premsa i els museus en una sola taula.**
+
 **I la família Reig torna a sortir**: **Julià Reig** és síndic general dues
 vegades ([els síndics generals](../../persones/els-sindics-generals.md)), i la
 **Fundació Julià Reig** publica l'estudi de Josep M. Bricall sobre l'economia

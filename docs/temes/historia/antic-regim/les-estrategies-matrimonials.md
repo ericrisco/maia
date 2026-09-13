@@ -147,11 +147,16 @@ cadascun dels tres moments. Creuar amb
 3. **L'estudi de testaments** de Camiade — quins, d'on.
 4. **Les enquestes orals** que va fer: existeixen, estan dipositades? Creuar amb
    [l'Arxiu d'Etnografia](../../cultura/museus-i-arxius/larxiu-detnografia.md).
-5. **Dades** de procedència dels consorts, per parròquia.
+5. ~~**Dades** de procedència dels consorts, per parròquia.~~ — **parcialment
+   tancat**: [la nissaga Perich](./la-nissaga-perich.md) dona **dotze matrimonis
+   datats d'una sola casa de Sispony, del 1600 al 1959, amb l'origen de cada
+   consort** — i quatre dels dotze vénen de fora d'Andorra, tres de l'Alt Urgell
+   i la Cerdanya. **Un cas, no una sèrie**, però és el primer que el corpus té.
 6. **Els rituals de veïnatge.**
 
 ## Related
 
+- [La nissaga Perich](./la-nissaga-perich.md) — el cas concret, generació a generació.
 - [L'hereu i el cabaler](./lhereu-i-el-cabaler.md) — qui marxava.
 - [Els capítols matrimonials](./els-capitols-matrimonials.md) — com es signava.
 - [El dot](./el-dot.md) — què s'hi aportava.

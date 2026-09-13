@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**699** documents · **147** fonts · **0** aptes com a model de llengua · **120** temes amb contingut.
+**701** documents · **150** fonts · **0** aptes com a model de llengua · **121** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -218,6 +218,12 @@
 | --- | --- | --- | --- | --- | --- |
 | [FHASA](temes/economia/energia-i-serveis/fhasa.md) | `temes/economia/energia-i-serveis` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [La transició energètica](temes/economia/energia-i-serveis/la-transicio-energetica.md) | `temes/economia/energia-i-serveis` | compilada | contemporania | no | `jurisprudencia-ad` |
+
+## temes/economia/les-grans-families
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Els Reig](temes/economia/les-grans-families/els-reig.md) | `temes/economia/les-grans-families` | compilada | contemporania | no | `wikipedia-familia-reig` |
 
 ## temes/economia/ramaderia-i-agricultura
 
@@ -638,6 +644,7 @@
 | [El dot](temes/historia/antic-regim/el-dot.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `rodriguez-minana-notaris` |
 | [Els capítols matrimonials](temes/historia/antic-regim/els-capitols-matrimonials.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `rodriguez-minana-notaris` |
 | [La casa als papers](temes/historia/antic-regim/la-casa-als-papers.md) | `temes/historia/antic-regim` | compilada | historica | no | `camiade-concepte-didentitat-1990` |
+| [La nissaga Perich, o per què una casa andorrana canvia de nom](temes/historia/antic-regim/la-nissaga-perich.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `wikipedia-familia-perich` |
 | [La quèstia](temes/historia/antic-regim/la-questia.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `vela-ordinacions-segle-xv` |
 | [L'antic règim](temes/historia/antic-regim/lantic-regim.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 | [Les estratègies matrimonials](temes/historia/antic-regim/les-estrategies-matrimonials.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `camiade-migracions` |
@@ -1321,6 +1328,7 @@
 | [`becat-vida-pastoral`](fonts/becat-vida-pastoral.md) | Joan (Jean) Becat | document de divulgació per a ensenyants; sense llicència explícita | pendent |
 | [`boladeres-ensenyament-espanyol`](fonts/boladeres-ensenyament-espanyol.md) | Antoni Boladeres i Sorribes · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`boletin-oficial-leon-1894`](fonts/boletin-oficial-leon-1894.md) | Diputación provincial de León (Espanya) · butlletí oficial | butlletí oficial espanyol de 1894; domini públic per antiguitat | si |
+| [`bopa-reglament-prestacions-2020`](fonts/bopa-reglament-prestacions-2020.md) | Servei del Butlletí Oficial del Principat d'Andorra · Govern d'Andorra | condicions generals de reutilització de la informació de la seu electrònica del BOPA | si |
 | [`brutails-coutume-1904`](fonts/brutails-coutume-1904.md) | J.-A. Brutails · Ernest Leroux, éditeur, París · obra de 1904, domini públic | domini públic per antiguitat; digitalització de Google Books | si |
 | [`cairal-escola-andorrana`](fonts/cairal-escola-andorrana.md) | M. Teresa Cairat i Vila · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`camiade-concepte-didentitat-1990`](fonts/camiade-concepte-didentitat-1990.md) | Martina Camiade · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
@@ -1442,6 +1450,8 @@
 | [`wikipedia-esport-andorra`](fonts/wikipedia-esport-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-esquiadors-andorrans`](fonts/wikipedia-esquiadors-andorrans.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-estacions-esqui-andorra`](fonts/wikipedia-estacions-esqui-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-familia-perich`](fonts/wikipedia-familia-perich.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-familia-reig`](fonts/wikipedia-familia-reig.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-futbol-femeni-andorra`](fonts/wikipedia-futbol-femeni-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-jocs-andorra`](fonts/wikipedia-jocs-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-llegendes-andorra`](fonts/wikipedia-llegendes-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
