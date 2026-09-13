@@ -1129,6 +1129,24 @@ el nom queda com a testimoni oral, no com a autoria establerta.
 [GENOPARFUM](https://hal.inrae.fr/hal-03098019);
 [*El País Semanal*](https://elpais.com/elpais/2017/10/25/eps/1508882707_150888.html).
 
+Una etnografia de la filière explica per què no apareix un obtentor individual
+clar. El 12/08/2015 cap varietat de lavanda o lavandí no constava al Catalogue
+officiel; ITEIPMAI i CRIEPPAM havien assumit la selecció des d'estructures
+professionals, amb entrada recent de la recerca pública. El text, basat en
+quatre estades i entrevistes anonimitzades, mostra també que els *plants sains*
+garantien absència de fitoplasma en plantar, no immunitat futura, i que alguns
+productors temien la centralització del circuit i la pèrdua de diversitat.
+
+El mateix treball descriu una qualitat AOC negociada amb la pràctica: Carla
+encaixava bé en la norma, mentre l'expansió de Rapido i l'escurçament del
+preassecat exigiren adaptar límits químics. Un itinerari de la Chambre
+d'agriculture de la Drôme de 2020 manté Carla entre les varietats tolerants,
+amb gran potencial de rendiment, i dona per a Carla/Rapido/Saralia una forquilla
+de 120-130 €/kg convencional i 160-180 €/kg ecològic. El 170 €/kg declarat per
+Morel el 2017 és coherent amb aquella banda ecològica, no queda auditat per ella.
+[Etnografia 2015](https://www.culture.gouv.fr/content/download/196863/file/Ethno_Tabouret-Herriot_2015.pdf);
+[itinerari tècnic 2020](https://www.ada-aura.org/wp-content/uploads/2020/10/BP_ADAAURA_2020_Lavande_itineraires-techniques.pdf).
+
 La quarta operació fracassà el 2017: d'una previsió de 150 kg, Guerlain passà a
 125 kg per atendre compromisos amb recol·lectors; acordaren lliurament a
 l'octubre, Baume no lliurà per un impediment i les noves condicions posteriors
