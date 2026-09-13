@@ -107,3 +107,4 @@ d'abans de la Constitució.
 - [El Govern](../../institucions/govern/el-govern.md)
 - [Conduir a Andorra](./conduir-a-andorra.md) — 90 km/h, els claus i la bici.
 - [Comprar i reclamar](./comprar-i-reclamar.md) — la garantia, els sis mesos i les clàusules que són nul·les de ple dret.
+- [Què costa una multa](./que-costa-una-multa.md) — l'escala, l'alcohol i la suspensió que substitueix els punts.

@@ -98,7 +98,10 @@ sang al centre clínic més pròxim**. Amb una condició:
 
 ## Buits registrats
 
-- **Les sancions no s'han llegit.** El corpus té les normes de conducta i no què
+- ~~**Les sancions no s'han llegit.**~~ **Tancat**: vegeu
+  [què costa una multa](./que-costa-una-multa.md). El que segueix obert és
+  **l'annex II**, amb les multes per excés de velocitat per franges.
+- El buit original deia: el corpus té les normes de conducta i no què
   costa incomplir-les.
 - **El permís de conduir** —categories, edats, obtenció— és al títol III i no
   s'ha buidat.
