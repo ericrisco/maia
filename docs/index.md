@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**698** documents · **146** fonts · **0** aptes com a model de llengua · **120** temes amb contingut.
+**699** documents · **147** fonts · **0** aptes com a model de llengua · **120** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -724,6 +724,7 @@
 | [El nom d'Andorra](temes/historia/origens/el-nom-dandorra.md) | `temes/historia/origens` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [La donació del 988](temes/historia/origens/la-donacio-de-988.md) | `temes/historia/origens` | compilada | contemporania | no | `pujol-fet-religios` |
 | [La fundació per Carlemany](temes/historia/origens/la-fundacio-per-carlemany.md) | `temes/historia/origens` | compilada | contemporania | no | `viquipedia-ca` |
+| [On eren els andosins](temes/historia/origens/on-eren-els-andosins.md) | `temes/historia/origens` | compilada | contemporania | no | `wikipedia-andosins` |
 
 ## temes/historia/pareatge
 
@@ -1431,6 +1432,7 @@
 | [`viquipedia-ca`](fonts/viquipedia-ca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-aeroport-andorra`](fonts/wikipedia-aeroport-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-aiguats-1982`](fonts/wikipedia-aiguats-1982.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-andosins`](fonts/wikipedia-andosins.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-anys-daurats`](fonts/wikipedia-anys-daurats.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-art-andorra`](fonts/wikipedia-art-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-atletes-andorrans`](fonts/wikipedia-atletes-andorrans.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

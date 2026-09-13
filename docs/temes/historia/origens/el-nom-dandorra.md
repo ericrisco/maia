@@ -229,6 +229,8 @@ consten; cap no s'hi dona per tancada.
 
 ## Related
 
+- [On eren els andosins](./on-eren-els-andosins.md) — **l'altra meitat de la
+  pregunta, i una proposta del 2024 que els treu d'Andorra.**
 - [La fundació per Carlemany](./la-fundacio-per-carlemany.md) — l'altre pilar del relat.
 - [La toponímia andorrana](../../territori/toponimia/toponimia-andorrana.md)
 - [El substrat](../../llengua/dialectologia/el-substrat.md)
