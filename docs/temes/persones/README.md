@@ -56,6 +56,7 @@ llista de buits: bona part de les files hi apunten a fitxa.
 | **Francesc Duran (a) Guillemó** | Síndic conservador que tanca la revolució andorrana, **1881**. A la llista hi consta **tres mandats**: 1861-65, 1881-83 i 1886 | [a la llista](./els-sindics-generals.md) |
 | **Marc Forné i Molné** | **El mandat més llarg del càrrec**: cap de Govern **deu anys i mig**, 1994-2005 | [a la llista](./els-caps-de-govern.md) |
 | **Xavier Espot Zamora** | Cap de Govern des del **2019** i **president de DA** | [a la llista](./els-caps-de-govern.md) |
+| **Jordi Gallardo Fernàndez** | Campió europeu de bàsquet el **1998**; conseller general i ministre de Presidència, Economia i Empresa **2019-2023** | **[fitxa](./jordi-gallardo.md)** |
 | **Antoni Martí** (1963-2023) | Cap de Govern 2011-2019 i **fundador de DA** el 22 de febrer del 2011 | [a l'arbre](../politica/partits/larbre-dels-partits.md) |
 | **Carles Enseñat i Reig** | Síndic general **des del 26 d'abril del 2023**. Nascut a Encamp el 1985 | [a la llista](./els-sindics-generals.md) |
 | **Andreu de Alas** | **Primer síndic, 1419.** Mateix nom, any i institució que **l'Andreu d'Alàs que formula la petició del privilegi**. **El corpus registra la concordança i no afirma que siguin el mateix** | [la concordança](../institucions/consell-general/el-consell-de-la-terra.md) |

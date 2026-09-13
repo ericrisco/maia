@@ -44,7 +44,7 @@ l'escola.**
 | **[Futbol femení](./futbol/femeni/README.md)** | **41 fitxes** i la selecció: **47 partits, 12 victòries.** **La selecció andorrana que guanya més** |
 | **[Altres esports](./altres-esports/README.md)** | **24 fitxes**: tennis, escacs, motor, bàsquet, taekwondo, gimnàstica, patinatge, salt d'esquí — **on hi ha les fites que no surten a cap medaller** |
 | **[Clubs i competicions](./futbol/clubs-i-competicions/README.md)** | **4 fitxes**: la lliga, la copa, el FC Andorra i la federació — **l'estructura que explica la resta** |
-| **[Les seleccions](./seleccions/README.md)** | **6 fitxes**: bàsquet, els dotze campions del 2024, tennis, hoquei gel, rugbi i futbol sala — **on hi ha els sis títols europeus que el corpus no sabia que existien** |
+| **[Les seleccions](./seleccions/README.md)** | **7 fitxes**: bàsquet, els campions del 1998 i el 2024, tennis, hoquei gel, rugbi i futbol sala — **on hi ha els sis títols europeus que el corpus no sabia que existien** |
 | [La competició](./competicio/README.md) | 5 fitxes: els Jocs, els abanderats, la llei de l'esport |
 
 **242 fitxes de persones, clubs, competicions i seleccions**, escrites entre el
