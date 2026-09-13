@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**712** documents · **157** fonts · **0** aptes com a model de llengua · **121** temes amb contingut.
+**713** documents · **157** fonts · **0** aptes com a model de llengua · **121** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -1024,6 +1024,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Com es compten els vots](temes/politica/sistema-electoral/com-es-compten-els-vots.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El finançament dels partits](temes/politica/sistema-electoral/el-financament-dels-partits.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [El referèndum constitucional del 1993](temes/politica/sistema-electoral/el-referendum-constitucional-de-1993.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `wikipedia-referendums-andorra` |
 | [El sufragi universal masculí](temes/politica/sistema-electoral/el-sufragi-universal-masculi.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `cavero-parlamentarisme-segle-xx` |
 | [Els primers referèndums: 1977, 1978 i 1982](temes/politica/sistema-electoral/els-primers-referendums.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `wikipedia-referendums-andorra` |
 | [Els tres sistemes electorals](temes/politica/sistema-electoral/els-tres-sistemes-electorals.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `dalleres-coprincipat-parlamentari` |

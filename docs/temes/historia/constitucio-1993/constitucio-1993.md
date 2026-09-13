@@ -60,6 +60,15 @@ malament el país.
 | Nuls i blancs | 4,35 % |
 | **Abstenció** | **24,25 %** |
 
+**Ampliat el 2026-09-13** a
+[el referèndum constitucional del 1993](../../politica/sistema-electoral/el-referendum-constitucional-de-1993.md),
+**amb les xifres absolutes** —**4.903 sís, 1.706 nos, 301 nuls, 6.910 votants
+sobre 9.123 registrats**— **i el resultat de sis de les set parròquies.**
+
+**Atenció al denominador**: **els percentatges d'aquesta taula són sobre vots
+emesos.** **Sobre vots vàlids, el sí és 74,19 % i el no 25,81 %.** **Les dues
+lectures són correctes i la fitxa nova ho comprova amb l'aritmètica.**
+
 **I la pregunta, literal:** ***«Voteu a favor del Projecte de Constitució del
 Principat d'Andorra, elaborat en concertació amb els serveis dels Coprínceps i
 adoptat pel Consell General en sessió extraordinària celebrada el 2 de febrer del
