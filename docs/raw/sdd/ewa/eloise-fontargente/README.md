@@ -1340,6 +1340,16 @@ charcutier de M. Delvert**. Quatre residents més consten com a empleats
 xarcuters. La xarcuteria era, doncs, un establiment familiar amb divisió de
 tasques i personal, però el cens tampoc no diu `Léo` ni `lavande`.
 
+La sèrie digital no permet saltar netament a 1936: el filtre oficial només
+retorna **Saint-Denis-lès-Martel** (`6 M 314`), una comuna diferent, i cap
+quadern de Martel. En canvi, el cens de **1946** (`1 W 697`) sí que conserva
+17 imatges dobles. La revisió visual de les 34 pàgines i un OCR de control de
+les columnes de cognoms no hi han localitzat cap `Delvert` inequívoc. És un
+resultat negatiu del padró, no una prova de defunció, trasllat o tancament; la
+cal·ligrafia, una omissió o una inscripció sota un altre cognom en limiten
+l'abast. Pierre ja treballava a Beynat des de 1935, però aquesta dada externa
+no explica automàticament què fou de la resta del fogar martelès.
+
 La logística sindical també queda més definida. El local cadurcien de 1936 no
 podia emmagatzemar més de 150 kg de flor fresca al dia: era un límit d'espai,
 no de destil·lació. El nou taller de Cabazat, anunciat amb un alambí nominal de
