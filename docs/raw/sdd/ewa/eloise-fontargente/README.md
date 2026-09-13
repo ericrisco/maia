@@ -1340,11 +1340,36 @@ charcutier de M. Delvert**. Quatre residents més consten com a empleats
 xarcuters. La xarcuteria era, doncs, un establiment familiar amb divisió de
 tasques i personal, però el cens tampoc no diu `Léo` ni `lavande`.
 
+La mort d'Henri ja es pot delimitar: l'estat civil de Martel publicat al
+*Journal du Lot* del 05/01/1937 registra **Henri Delvert, 56 anys**, entre les
+defuncions de desembre de 1936. L'edat coincideix amb el naixement censal de
+1880; l'índex mensual no en dona el dia. El 16/11/1943, un arrêté d'inscripció
+patrimonial de la place des Consuls associa la parcel·la cadastral 721 a
+**«Vve DELVERT Henri née Lacroix et DELVERT Léonie-Martel»**. La propietat
+conjunta confirma la viduïtat i la continuïtat patrimonial d'Anna/Anne
+Lacroix, però no prova que la parcel·la fos la conserverie.
+
+El fitxer oficial de persones difuntes permet identificar amb molta força la
+copropietària com **Alberte Léonie Delvert** (Martel, 15/06/1918 – Niça,
+05/03/2008), l'Albert/Alberte dels censos. També desplega els noms complets de
+Marguerite, Denise, Pierre, Yvonne i Paulette i en resol diverses variants
+censals. Com que l'índex no mostra els pares, les actes civils continuen essent
+necessàries per convertir els enllaços contextuals en filiacions autònomes.
+
+Una tesi de l'ISTHIA de 2023 afegeix el paper econòmic d'Anna: Enzo Delpech
+afirma, sobre la base dels **Archives familiales Redon-Blanchard-Delvert**, que
+la propietària de la conserverie proveí tot Martel durant la guerra i que la
+comuna no apareix abans de l'Alliberament amb manca d'aliments. És una
+atribució acadèmica precisa, però el document familiar no es reprodueix ni té
+cota pública; no se n'han inferit forma jurídica, quantitats, preus ni
+continuïtat amb la marca de lavanda de Léo.
+
 La sèrie digital no permet saltar netament a 1936: el filtre oficial només
 retorna **Saint-Denis-lès-Martel** (`6 M 314`), una comuna diferent, i cap
 quadern de Martel. En canvi, el cens de **1946** (`1 W 697`) sí que conserva
-17 imatges dobles. La revisió visual de les 34 pàgines i un OCR de control de
-les columnes de cognoms no hi han localitzat cap `Delvert` inequívoc. És un
+17 imatges dobles. La revisió visual de les 34 pàgines i dues passades OCR de
+les columnes de cognoms no hi han localitzat cap `Delvert`, `Lacroix`,
+Anna/Anne, Alberte/Léonie o Blanchard inequívoc. És un
 resultat negatiu del padró, no una prova de defunció, trasllat o tancament; la
 cal·ligrafia, una omissió o una inscripció sota un altre cognom en limiten
 l'abast. Pierre ja treballava a Beynat des de 1935, però aquesta dada externa
