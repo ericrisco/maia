@@ -75,7 +75,11 @@ econòmics als anys vint.**
 **Això tanca parcialment un buit que el corpus va obrir el mateix dia a
 [les cases museu](../../cultura/museus-i-arxius/museus/les-cases-museu.md)**:
 **hi havia emigració andorrana cap a França, i el corpus no en tenia res.**
-**Ara en té una data —els anys vint— i una conseqüència cultural.**
+**Ara en té una data —els anys vint— i una conseqüència cultural**, **i el
+mateix dia en va tenir les xifres i el segle sencer:
+[La Qüestió d'Andorra](../../historia/segle-xix/la-questio-dandorra.md).**
+**L'emigració que va matar les festes de l'ossa als anys vint venia de lluny:
+feia vuitanta anys que durava.**
 
 ## On es feia
 

@@ -58,7 +58,9 @@ i **el museu és on s'explica.**
 ## El que falta
 
 - **Com i quan s'estableixen els dos correus**, francès i espanyol.
-- **La Qüestió d'Andorra**: el corpus no en té fitxa amb aquest nom.
+- ~~**La Qüestió d'Andorra**: el corpus no en té fitxa amb aquest nom.~~ —
+  **tancat el mateix dia**:
+  [La Qüestió d'Andorra](../../../historia/segle-xix/la-questio-dandorra.md).
 - **Els segells andorrans**: n'emeten França i Espanya per separat, i el corpus
   no en sap res.
 

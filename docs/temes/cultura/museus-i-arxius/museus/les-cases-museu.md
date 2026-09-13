@@ -70,7 +70,13 @@ propietàries eren dones.** **La segona: se'n van anar a França, cap als anys
 cinquanta** — **és a dir, en direcció contrària al moviment que
 [els anys daurats](../../../historia/historia-recent/els-anys-daurats.md)
 descriuen**, quan **Andorra passava de 6.176 a 35.460 habitants per immigració.**
-**Hi havia també emigració andorrana, i el corpus no en té res.** **Buit obert.**
+**Hi havia també emigració andorrana, i el corpus no en tenia res.**
+**~~Buit obert~~ — tancat el mateix dia amb
+[La Qüestió d'Andorra](../../../historia/segle-xix/la-questio-dandorra.md)**:
+**unes 14.000 persones a la zona de Besiers i un 15% dels andorrans a
+Barcelona**, **i Andorra perdent població de manera contínua fins al 1930.**
+**Les darreres propietàries de Casa Rull se'n van anar als anys cinquanta: són
+la cua d'un moviment de cent anys, no una excepció.**
 
 ## Cal Pal, la que serveix per discutir
 
@@ -114,7 +120,7 @@ país».**
 
 - **Els Rull, els Cristo i els Pal**: cap genealogia, cap nom propi.
 - **Les darreres propietàries de Casa Cristo**, i per què van marxar a França.
-- **L'emigració andorrana**, que aquesta fitxa obre com a buit.
+- ~~**L'emigració andorrana**~~ — [La Qüestió d'Andorra](../../../historia/segle-xix/la-questio-dandorra.md).
 - **Els boquers amb rostres humans de Cal Pal.**
 - **Quantes moles i serradores hi havia al país.**
 

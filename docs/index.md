@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**698** documents · **145** fonts · **0** aptes com a model de llengua · **120** temes amb contingut.
+**698** documents · **146** fonts · **0** aptes com a model de llengua · **120** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -739,7 +739,7 @@
 | [El desenllaç de la qüestió duanera](temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `vilar-andorre-1904` |
 | [Els casalers i els anfochs](temes/historia/segle-xix/els-casalers-i-els-anfochs.md) | `temes/historia/segle-xix` | compilada | historica | no | `tarrene-influencies-multiculturals` |
 | [Guillem d'Areny-Plandolit](temes/historia/segle-xix/guillem-dareny-plandolit.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `viquipedia-ca` |
-| [La qüestió d'Andorra](temes/historia/segle-xix/la-questio-dandorra.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `la-cuestion-de-andorra-1894` |
+| [La Qüestió d'Andorra](temes/historia/segle-xix/la-questio-dandorra.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `wikipedia-questio-dandorra` |
 | [La qüestió duanera de 1895](temes/historia/segle-xix/la-questio-duanera-de-1895.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `diario-sesiones-corts-1895` |
 | [La reial ordre de setembre de 1894](temes/historia/segle-xix/la-reial-ordre-de-setembre-de-1894.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `boletin-oficial-leon-1894` |
 | [La Nova Reforma de 1866](temes/historia/segle-xix/nova-reforma.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `viquipedia-ca` |
@@ -1446,6 +1446,7 @@
 | [`wikipedia-museus-andorra`](fonts/wikipedia-museus-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-pena-de-mort-andorra`](fonts/wikipedia-pena-de-mort-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-politica-andorra`](fonts/wikipedia-politica-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-questio-dandorra`](fonts/wikipedia-questio-dandorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-referendums-andorra`](fonts/wikipedia-referendums-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-religio-andorra`](fonts/wikipedia-religio-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-sat-andorra`](fonts/wikipedia-sat-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

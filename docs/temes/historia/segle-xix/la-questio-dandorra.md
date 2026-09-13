@@ -1,283 +1,330 @@
 ---
 type: article
-title: La qüestió d'Andorra
-description: "Vint-i-cinc anys de conflicte amb el copríncep episcopal, i va començar per un casino. El Consell General ho va posar per escrit el 1894 i ho va enviar al Papa."
+title: La Qüestió d'Andorra
+description: "Quinze mil andorrans emigrats, una revolució pel casino, una guerra civil de vint-i-quatre hores i dos coprínceps competint a obrir escoles. El segle XIX."
 tema: temes/historia/segle-xix
 veu: compilada
 epoca: contemporania
 apte_llengua: false
-font: la-cuestion-de-andorra-1894
-timestamp: 2026-09-13T00:20:00Z
-tags: [historia, segle-xix, coprincipat, bisbe-durgell, sobirania, consell-general, joc, font-primaria]
+font: wikipedia-questio-dandorra
+timestamp: 2026-09-14T01:50:00Z
+tags: [historia, economia, societat, politica]
 ---
 
-# La qüestió d'Andorra
+# La Qüestió d'Andorra
 
-El corpus tenia d'aquest conflicte **una línia de cronologia**: «1881 · Tractat
-del Pont dels Escalls. Es prohibeix el joc». Res del que hi havia al darrere.
+## El buit que això tanca
 
-I al darrere hi havia **un quart de segle d'enfrontament amb el copríncep
-episcopal**, que el **Consell General** va posar per escrit el **1894** i va
-enviar **al bisbe d'Urgell i al Papa**
-([font](../../../fonts/la-cuestion-de-andorra-1894.md)).
+**El corpus va obrir aquest nom el mateix dia, a
+[el Museu Postal](../../cultura/museus-i-arxius/museus/el-museu-postal.md)**:
+*«La Qüestió d'Andorra: el corpus no en té fitxa amb aquest nom.»*
 
-> **Això és un al·legat d'una de les parts.** Les dates i els fets són els que
-> dona el Consell General; les intencions que atribueix al bisbe són la seva
-> versió. Les citacions van **en castellà**, la llengua de l'original.
+**És l'expressió amb què es designa la revolució del 1881 i el que en va sortir.**
 
-## La tesi, en una frase
+## Per què la revolució industrial va arruïnar Andorra
 
-> «...la única causa de todas las graves perturbaciones, ha sido y es en el
-> actual momento histórico, **el empeño particular de los dos últimos Sres.
-> Obispos de querer imponerse, como soberanos absolutos, sobre los Valles de
-> Andorra**.»
->
-> — **Introducció**, *La cuestión de Andorra*, 1894
+> **«Si per al Regne Unit, Bèlgica, França, Suïssa o Alemanya la revolució
+> industrial va representar un desenvolupament espectacular, per a Andorra va
+> suposar la ruïna.»**
 
-I el contraatac documental: els bisbes funden el seu dret en documents de nou
-segles enrere, «**escritos con redacción incompleta y expresión nebulosa**» —i
-aquí el Consell General cita **Brutails**, l'arxiver de la Gironda, del qual el
-corpus [ja té una altra obra](../../societat/demografia/la-poblacio-al-segle-xix.md)—
-i en actes «**que tienen la apariencia de Soberanos**».
+**Mentre Catalunya no s'industrialitzava, Andorra prosperava.** **Quan Catalunya
+es converteix en el motor industrial d'Espanya, Andorra s'arruïna.**
 
-## L'argument andorrà no és jurídic: és pràctic
+| Indicador | Què passa |
+| --- | --- |
+| **Caps de bestiar, 1800-1898** | **Es redueixen a la meitat** |
+| **Confraria de paraires** | **Es dissol el 1767**, per la revolució tèxtil |
+| **Fargues** | **De deu, només en queda una** |
+| **La farga dels Areny** | **La producció cau en picat el 1850** |
+| **Naixements** | **300 el 1850 → 80 o 90 el 1920** |
+| **Matrimonis** | **60 el 1850 → 10 el 1920** |
 
-Aquí hi ha el que fa aquest document diferent de qualsevol tractat de dret.
+**Les causes que la font dona per a les fargues:** **l'alt cost del transport, la
+dificultat de trobar mena, l'esgotament dels boscos i els centres de producció
+gegantins catalans i francesos.**
 
-> «A esto oponen los Andorranos **su soberanía práctica tradicional**, fundada en
-> documentos históricos y **en la necesidad de gobernarse por sí mismos, por
-> residir constantemente en el extranjero sus pretendidos soberanos absolutos**,
-> á quienes falta, para poder gobernar con acierto, el conocimiento de los
-> hombres y de las cosas... y faltarles, además, otro elemento esencial, cual es
-> **la fuerza pública para hacerse obedecer**.»
+**L'únic sector que es mantenia era el contraban**, i **els governs de Madrid i
+de París hi posaven entrebancs.** **El veguer francès redactava sovint informes
+sobre el contraban andorrà per al copríncep.**
 
-**Tres arguments, i cap és un pergamí:**
+> **«El decret del bisbe Boltàs, que prohibia el comerç però no el cultiu del
+> tabac, va empènyer els andorrans a ser paquetaires.»**
 
-1. Els sobirans **viuen fora**.
-2. Per tant **no coneixen ni la gent ni les coses**.
-3. I **no tenen força pública** per fer-se obeir.
+**El 1870, Escaldes va intentar construir una fàbrica tèxtil.** **L'aïllament del
+país va fer fracassar el projecte.**
 
-El tercer és el més cru i el més real: **qui no pot fer complir res, no mana**.
-El Consell General ho remata més endavant amb una exclamació que val per tot
-l'opuscle:
+> **«El que durant molt de temps va ser beneficiós per al país —l'aïllament— es
+> va transformar en el verí de l'economia.»**
 
-> «¡Prueba experimental y luminosa de que **un Príncipe que quiera ser Soberano
-> verdadero debe irremisiblemente residir entre sus súbditos**, para conocer como
-> corresponde, los hombres y las cosas!»
+## L'emigració: el buit que això tanca del tot
 
-## I tot va començar per un casino
+**El corpus va obrir aquest buit el mateix dia, dues vegades**: a
+[les cases museu](../../cultura/museus-i-arxius/museus/les-cases-museu.md) i a
+[les festes de l'ossa](../../costums/danses/les-festes-de-lossa.md). **Aquí hi ha
+les xifres.**
 
-L'origen del conflicte, segons el Consell General, és **una concessió de
-carreteres**:
+> **Els andorrans van emigrar principalment cap al sud de França —**es calculen
+> unes **14.000 persones a la zona de Besiers**— **i cap a la zona industrial
+> catalana, sobretot Barcelona, on **es calcula que hi havia un 15%
+> d'andorrans**.**
+
+**Andorra va perdre població contínuament fins al 1930.**
+
+**I la frase que el corpus destaca sobre totes les d'aquesta fitxa:**
+
+> **«Va ser aquest 15% que va crear les primeres publicacions periòdiques, una
+> associació andorrana a l'estranger i un partit polític de caràcter progressista
+> cap al començament del segle XX.»**
+
+**La primera premsa andorrana, la primera associació andorrana i el primer
+partit progressista andorrà els van fer andorrans de Barcelona.**
+
+**Això toca directament
+[les capçaleres](../../societat/mitjans/les-capcaleres.md),
+[l'arbre dels partits](../../politica/partits/larbre-dels-partits.md) i
+[la consciència nacional](../../politica/identitat-politica/la-consciencia-nacional-andorrana.md)**,
+i **cap de les tres no ho té.** **Buit prioritari: quines publicacions, quina
+associació, quin partit.**
+
+## Les epidèmies
+
+**El còlera i la febre groga.** **El Consell General va establir cordons
+sanitaris a les fronteres**, **però ni els metges andorrans ni els dels països
+veïns sabien que el còlera es transmet per l'aigua.**
+
+**Els andorrans es van adreçar a la Mare de Déu de
+[Meritxell](../../costums/meritxell/README.md) i es feien misses especials.**
+
+> **El 1820 el prefecte de l'Arieja va ordenar al síndic que prengués mesures
+> contra la febre groga: prohibir la importació de mercaderies, prohibir emigrar
+> i immigrar, i prohibir el contacte amb barcelonins.**
+
+**La mortalitat infantil es va disparar, «fins i tot a les cases més benestants,
+com l'Areny-Plandolit».**
+
+## Una societat on decidia el 3%
+
+> **«Si el país tenia 4.000 habitants, només el 3% podia prendre decisions
+> polítiques.»**
+
+**Els focs** —les cases riques— **eren els únics que podien seure al Consell
+General i als comuns**: **«primerament perquè eren rics i podien pagar per seure
+al parlament, segon perquè eren els que més temps portaven a Andorra».**
+
+**I hi havia casalers que s'havien fet rics amb el comerç, el contraban i les
+fargues** i **que, com que feia poc temps que eren al país, no podien votar ni
+ser elegits.**
+
+**La font ho compara amb la resta d'Europa**: **una burgesia cada cop més
+nombrosa i rica sense drets polítics.** **«A Europa aquesta situació va provocar
+reformes i revolucions. Doncs bé, a Andorra també.»**
+
+## La reforma des de dalt: la Nova Reforma del 1866
+
+**La va encapçalar
+[Guillem d'Areny-Plandolit](./guillem-dareny-plandolit.md)**, **«un foc
+riquíssim, propietari de fargues»**.
+
+> **«La biblioteca personal d'aquest senyor és considerada la biblioteca privada
+> més gran dels Pirineus.»**
+
+**El corpus no tenia aquesta dada.** **Buit obert: on és aquella biblioteca.**
+
+**El 22 d'abril del 1866 el bisbe Josep Caixal i Estradé va decretar a favor,
+amb el decret *Pla de Reforma*, que recollia sis peticions:**
+
+1. **Dret a vot a tots els caps de casa sense diferències.**
+2. **Creació del càrrec de comissionat de poble**, per controlar l'administració
+   i els comptes comunals.
+3. **Renovació de la meitat del parlament comunal i general cada dos anys.**
+4. **Incompatibilitat entre conseller general i cònsol o conseller de comú.**
+5. **Limitació del nombre de consellers de comú per parròquia.**
+6. **Durada màxima d'un càrrec: quatre anys.**
+
+**Napoleó III la va ratificar tres anys després.**
+
+**El mateix bisbe Caixal que va comprar el garrot vil** ([la pena de mort](../../institucions/justicia/la-pena-de-mort.md))
+**i que va impulsar l'Institut de la Sagrada Família d'Urgell** és **qui decreta
+el sufragi de tots els caps de casa a Andorra.**
+
+## El Mònaco andorrà
+
+**La reforma política no va arreglar l'economia.** **La sortida que es va buscar
+va ser el turisme.**
+
+> **«El Principat de Mònaco es va presentar com l'exemple a seguir. França va
+> prohibir l'obertura de casinos al seu territori i Mònaco va aprofitar la
+> prohibició per fer venir fortunes europees.»**
+
+**El problema: el Consell General no tenia diners per a balnearis, casinos ni
+carreteres** — **el país només era accessible amb mula o cavall.**
+
+**L'octubre del 1866 va signar un contracte de concessió:**
 
 | | |
 | --- | --- |
-| **Què es va concedir** | La **primera concessió per construir carreteres** a Andorra, a favor d'una **companyia estrangera** |
-| **Qui la va decretar** | El **bisbe**, «oficiando de Presidente honorario del Consejo General, por encontrarse accidentalmente en estos Valles» |
-| **La condició** | La companyia havia de construir **un llarg tram de carretera abans de poder aixecar cap edifici** |
-| **Què va fer la companyia** | Simular que treballava a la carretera i **traslladar de l'estranger una casa portàtil** |
-| **Per a què** | «...con el fin ostensible de empezar allí **los juegos á estilo de Spáa y Mónaco**» |
+| **Amb qui** | **La banca Duvivier de París** |
+| **Mediador** | **El síndic Guillem d'Areny-Plandolit** |
+| **Durada** | **90 anys** |
+| **Què podia construir** | **balnearis, cases de joc, teatres, cafès** |
+| **A canvi** | **una carretera d'Escaldes fins a la frontera** i la millora dels camins |
+| **Garantia** | **30.000 francs** |
 
-El Consell General s'hi va oposar i va exigir el compliment de l'escriptura. I
-llavors ve la part que el corpus no s'esperava:
+**Va fracassar.** **Les infraestructures costaven més del previst**, i **la
+companyia va començar a especular amb la concessió del joc i va decidir
+construir el casino a la Solana del Pas de la Casa**, **una zona amb litigis
+entre Canillo, Encamp i els pobles francesos veïns.**
 
-> «...el Presidente del Consejo de aquel entonces **estaba identificado con dicha
-> Compañía** y tenía además **gran privanza con el Sr. Obispo**.»
+**Els coprínceps van intervenir i van prohibir els casinos, deixant només els
+balnearis.** **«La classe política andorrana no va poder oposar-s'hi, ja que
+temia perdre els privilegis duaners.»**
 
-El bisbe **es va posar del costat de la companyia i contra el Consell General**.
-I el Consell General hi afegeix l'observació que més li dol:
+## La reforma des de baix: la revolució del 1881
 
-> «...á las gentes poco enteradas **les parecía que el Consejo General se oponía
-> al juego y que el Sr. Obispo lo patrocinaba**.»
+**Va esclatar el 8 de desembre del 1880 i va durar fins al juny del 1881.**
 
-**La lectura popular del conflicte era la contrària de la que ell sostenia.** És
-una nota sobre com es fabrica una versió dels fets, escrita el 1894 per qui hi
-perdia.
+**Qui**: **«la part del poble que patia més la crisi: jornalers, petits
+propietaris, cabalers»**, **armats i «amb el suport de les companyies de joc».**
 
-## Com un país es queda sense justícia
+| Què va passar |
+| --- |
+| **Assalten la casa del síndic general i l'obliguen a lliurar les claus i els segells de la [Casa de la Vall](../../institucions/patrimoni-institucional/casa-de-la-vall.md)** |
+| **El síndic i la seva família són detinguts** |
+| **Es crea el *Consell Revolucionari Provisional*** |
+| **Nou síndic: Joan Pla i Calvo.** **Subsíndic: Pere Baró i Mas, metge de Sant Julià de Lòria** |
+| **La primera actuació del Consell Revolucionari és concedir casinos i balnearis a una companyia estrangera** |
 
-La resposta episcopal a la resistència del Consell va ser **retirar tots els seus
-empleats de l'ordre judicial**.
+**El corpus ho subratlla**: **la primera cosa que fa un govern revolucionari
+andorrà és donar la concessió del joc.**
 
-I aquí es veu **per què el copríncep dual no és un ornament**: com que el poder
-judicial estava **partit per igual** amb el copríncep francès, el Consell General
-**es va adreçar a França** perquè mantingués l'ordre públic i processés els dos
-caps del moviment.
+**Els coprínceps van respondre bloquejant les fronteres** —**mercaderies, bestiar
+i persones.**
 
-Els representants francesos van acceptar el primer, i per al segon **van fer
-llargues**: van veure els dos caps «**ligados con el Sr. Obispo, con toda clase
-de relaciones**», i van aconsellar al Consell que insistís davant del bisbe perquè
-nomenés **un veguer interí** i es pogués formar el **Tribunal de Corts**.
+**El 7 de juny del 1881, lleials als coprínceps de Canillo i Encamp** —**«les
+parròquies menys favorables a la revolució»**— **van pujar a Ordino i la Massana
+a detenir els membres del Consell Revolucionari.** **A Escaldes els
+revolucionaris es van fer forts i van ser reprimits.**
 
-## Tres consellers, presos al castell de la Seu
+### El Tractat del Pont dels Escalls
 
-> «...**tres de sus representantes enviados en Comisión al Palacio episcopal de
-> Seo de Urgel, fueron detenidos por orden del Sr. Obispo y conducidos, bajo su
-> responsabilidad, al castillo de Seo de Urgel, en calidad de prisioneros**.»
+**La nit del 10 de juny, després de reunions entre revolucionaris i
+contrarevolucionaris, s'hi va arribar a un acord:**
 
-**Tres membres del Consell General, empresonats pel seu propi cap d'estat, fora
-del país, mentre hi anaven de comissió.**
+- **Amnistia general per als andorrans dels dos bàndols.**
+- **Noves eleccions generals.**
 
-El que va desencallar-ho, segons el text, va ser la por:
+> **«Els coprínceps no van acceptar l'amnistia i van ordenar al Tribunal de Corts
+> jutjar i condemnar els revolucionaris. Un gran nombre va acabar entre reixes,
+> desterrats o amb una forta multa.»**
 
-> «...**temiendo el Veguer francés que, al fin, el pueblo tomaría la justicia por
-> sí mismo**, se determinó á abrir proceso contra los dos sujetos aludidos...»
+**Els andorrans es van amnistiar entre ells i els coprínceps ho van anul·lar.**
 
-I el resultat de tot plegat, «apesar de la gravedad de los hechos»: **una multa i
-un desterrament curt**.
+**Al juliol es van fer les eleccions**, i **els coprínceps van prohibir
+formalment el joc a Andorra.**
 
-## Els dos períodes, i la paraula que el corpus no tenia
+> **La prohibició va durar fins al 1993.**
 
-> «...conflictos **ruidosos y sangrientos**, como los ocasionados en el primer
-> período transcurrido **desde 1868 á 1878** y en el segundo período **de 1883 á
-> 1886**.»
+### El casino que tampoc no es va fer el 1993
 
-**Sagnants.** El corpus tenia el segle XIX andorrà com un segle de reformes
-institucionals tranquil·les —[la Nova Reforma de 1866](./nova-reforma.md),
-[Guillem d'Areny](./guillem-dareny-plandolit.md)— i **aquesta és la primera font
-que li diu que hi va haver sang**.
+**Després de la Constitució, el Govern d'Andorra ho va tornar a intentar.**
+**S'hi van interessar la britànica Ladbrokes i l'empresari de Las Vegas Sheldon
+Adelson.**
 
-**Buit registrat:** què va passar exactament, i qui va morir. El document ho diu
-de passada i no ho detalla.
+**No va prosperar** — **i aquest cop no pels coprínceps, «ja que després de la
+constitució regnen però no governen», sinó perquè la població no va donar suport
+al projecte del cap de Govern Marc Forné, «per por que es veiés des de la Unió
+Europea com una mena de rentadora de diner negre».**
 
-**El que sí que se sap ara és com es deien els dos costats.** Claudine Tarrene
-parla de «**les rivalitats entre els casalers i els anfochs**», i hi afegeix el
-motor polític: **l'afiliació del bisbe Josep Caixal a la causa carlina** i uns
-successors que «s'oposaven encara més a les reformes»
-([els casalers i els anfochs](./els-casalers-i-els-anfochs.md)). **Els dos
-períodes sagnants queden dins el mateix arc.**
+**Sí que es van legalitzar la loteria i les apostes.**
 
-## La doctrina de la representació exterior
+**Adelson se'n va anar a Catalunya el 2012 i finalment a Madrid.**
 
-El Consell General hi fa una reclamació concreta i verificable: **les relacions
-exteriors sempre han estat seves**, no dels coprínceps.
+**El corpus ho lliga amb [els jocs d'atzar](../../economia/transformacio-economica/els-jocs-datzar.md)**,
+que ja té.
 
-> «...**nunca jamás han pretendido los Copríncipes tal derecho**; antes por el
-> contrario, **ha sido siempre el Consejo general y sus Síndicos** los que han
-> sostenido oficialmente las relaciones extranjeras, ya firmando convenios ó
-> conciertos comerciales con España y Francia...»
+## La guerra civil de vint-i-quatre hores
 
-I ho prova amb dues visites:
+**Després de les eleccions comunals de l'hivern del 1885 a Canillo, el triomf
+dels partidaris de França —que van acabar dominant el Consell General— va portar
+el bisbe a demanar ajuda al govern de Madrid.**
 
-| Any | Qui | A qui |
-| --- | --- | --- |
-| **1850** | El **síndic president** dels Valls | **Isabel II** d'Espanya — «y se les tributaron **honores de Príncipe**» |
-| **1851** | Una **comissió del Consell General** | **Napoleó III**, llavors president de la República francesa |
+**En una carta del març del 1886, el bisbe Casañas escrivia:**
 
-**Honors de príncep a un síndic andorrà a la cort d'Isabel II.** Val la pena
-llegir-ho al costat [del reconeixement internacional](../../institucions/relacions-exteriors/el-reconeixement-internacional.md),
-que Andorra no va tenir fins al **1993**: la representació exterior existia de
-fet **cent quaranta anys abans** de ser reconeguda de dret.
+> ***«Els meus lleials andorrans han hagut de cedir després de vint-i-quatre
+> hores de lluita per falta de municions, davant de l'actitud imponent dels
+> afrancesats.»*** **I acabava demanant provisions, remarcant: *«estem vençuts i
+> humiliats»*.**
 
-## Una acusació sobre la Nova Reforma de 1866
+**Un copríncep demanant munició a Madrid per a una batalla dins d'Andorra.**
 
-I aquí el document toca una peça que el corpus ja tenia escrita, i la discuteix.
+## I què en va sortir
 
-> «**No es tampoco exacto lo que se dice relativo á la Reforma, ó ley electoral,
-> pues no la redactó aquel Sr. Obispo, sino el pueblo andorrano**, y se presentó
-> á la aprobación de los dos Copríncipes, con la particularidad que el encargado
-> de hacerla imprimir en Seo de Urgel, **admitió del Sr. Obispo Caixal, sin
-> saberlo el Consejo, la adición de que se podía acudir al Príncipe Soberano**,
-> después de haberse recorrido al Consejo...»
+**França proposa a Andorra esdevenir francesa a canvi de terciaritzar-ne
+l'economia.** **Espanya contraresta amb la mateixa oferta, «però amb la voluntat
+de castellanitzar els andorrans».**
 
-I hi dona un argument intern: «**La misma redacción del artículo 11 de dicha ley
-demuestra que la adición fué subrepticia.**»
+> **«Els andorrans no acceptaren cap dels dos tractes però deixaren fer els dos
+> Estats, perquè aquests començaren a millorar les infraestructures del país com
+> a mostra de la seva suposada bona voluntat.»**
 
-**El Consell General sosté que a la llei electoral de 1866 hi ha una clàusula que
-no va votar ningú**, afegida a la impremta de la Seu d'Urgell, i que és
-precisament la que obre el recurs al «Príncep Sobirà».
+**Els coprínceps van entrar en una cursa de serveis**: **«els francesos obrien
+escoles laiques, el bisbe obria les seves; els francesos implantaven telègrafs,
+el bisbe implantava els seus».**
 
-> **Acusació, no fet provat.** El corpus la registra i no la dona per bona. Però
-> canvia com s'ha de llegir [la Nova Reforma](./nova-reforma.md): el text que ha
-> arribat fins avui **podria no ser el que es va aprovar**.
+**I la conclusió que la font en treu, i que el corpus reté:**
 
-## El precedent de 1855: un indult que va fer caure un veguer
+> **«En tota regla hi veiem la plasmació de la màxima del *Manual Digest* i
+> refrany català dit de "fer-se l'andorrà".»**
 
-Abans de tot això n'hi va haver un assaig. El **bisbe Caixal** va concedir el
-**1855** un **indult de pena de mort** **ell sol**, sense comunicar-ho al
-copríncep francès ni al Tribunal de Corts que havia dictat la sentència.
+**I l'altra, que és la que importa per a la resta del corpus:**
 
-| | |
-| --- | --- |
-| Reacció del Consell | Comissió al bisbe, protestant |
-| Reacció dels veguers | Ho comuniquen al copríncep francès; **el veguer episcopal dimiteix** |
-| **23 de gener de 1855** | En donar possessió al nou veguer episcopal, se li adverteix que **per ordre del copríncep francès el condemnat queda a disposició del Consell** |
-| Desenllaç | **El condemnat va morir de les ferides poques setmanes després** |
+> **«La situació portà els andorrans a reivindicar-se a ells mateixos com a nació
+> i per primer cop a la història els andorrans deixen de sentir-se catalans.»**
 
-El Consell General ho llegeix com el que és: un acte fet «**para constituir
-precedente**», i l'inici d'«una série de actos á cual más soberanos y absolutos».
+**La consciència nacional andorrana neix, segons aquesta font, d'una subhasta
+d'infraestructures entre dos estats.** Vegeu
+[la consciència nacional andorrana](../../politica/identitat-politica/la-consciencia-nacional-andorrana.md).
 
-## Per què van escriure al Papa, i quan
+**I es van iniciar «nombrosos estudis sobre l'origen i la història del país» per
+legitimar cadascuna de les tres postures** —**colonialisme francès, dominació
+eclesiàstica, o independència**— **i el Consell General va redactar un llibret
+titulat precisament *La Qüestió d'Andorra*.** **Els profrancesos i els probisbe
+van fer el mateix.**
 
-El corpus tenia la data —**18 d'octubre de 1894**— i no el detonant. El detonant
-és **de dos mesos abans**, i el cita Carvajal al Congrés espanyol des d'**una
-carta pastoral del bisbe del 21 d'agost de 1894**:
+**Això vol dir que bona part de la historiografia andorrana del segle XIX es va
+escriure per guanyar una discussió política.** **El corpus ho registra com a
+avís de lectura per a
+[la historiografia](../../historia/historiografia/historiografia.md).**
 
-> «Si, au contraire, **le Conseil général ne se range pas au désir exposé (désir de
-> souveraineté)**... **il souffrira les conséquences de son obstination, et les
-> mesures prises pour l'importation et l'exportation du bétail s'aggraveront
-> jusqu'aux dernières limites**.»
->
-> — citada per **André Vilar**, *L'Andorre*, 1904, en traducció francesa
+## L'altra nota positiva del període
 
-**Sotmeteu-vos o us tanquem la frontera del bestiar.** Això lliga aquest conflicte
-amb [la qüestió duanera](./la-questio-duanera-de-1895.md), que el corpus tenia per
-separat: **eren la mateixa crisi**, i el bestiar n'era l'instrument. Vegeu
-[el desenllaç](./el-desenllac-de-la-questio-duanera.md).
+**Dues, segons la font:** **la construcció del rec del Solà d'Andorra la Vella
+per a ús agrícola**, i **la creació de la primera fàbrica tabaquera del país:
+Tabacalera Andorrana, SA, el 1899.**
 
-## I l'última carta: el Papa
+**El corpus té [el tabac](../../economia/tabac/README.md) i
+[el Museu del Tabac](../../cultura/museus-i-arxius/museus/el-museu-del-tabac.md)
+—la fàbrica Reig, del 1909— i no tenia que n'hi hagués una deu anys abans.**
 
-La segona exposició no va al bisbe: **va al Sant Pare**. És a dir, **al superior
-jeràrquic del cap d'estat**.
+## El que falta
 
-El Consell General descriu la situació com a bloquejada:
-
-> «El problema aparece al fin, como planteado **ab irato** en los siguientes
-> términos extremos: **ó todo ó nada**.»
-
-**Un estat de sis mil habitants demanant empara al superior del seu propi cap
-d'estat.** El corpus no coneix cap altre cas, i no sap com va acabar.
-
-**El que sí que sap ara és què hi havia entremig.** Sis setmanes abans d'aquesta
-carta, el **Govern espanyol** va dictar una **reial ordre** que prohibia a tots
-els seus jutges tractar amb les autoritats andorranes i feia del bisbe d'Urgell
-l'únic canal, per no posar Andorra «en una situación de independencia contraria á
-los derechos é intereses de la Nación española»
-([la reial ordre de setembre de 1894](./la-reial-ordre-de-setembre-de-1894.md)).
-**Aquesta exposició no l'esmenta**, i el corpus no sap si el Consell General en
-tenia notícia.
-
-## Buits registrats
-
-1. **La resposta.** Ni la del bisbe ni la de la Santa Seu. **El corpus no sap què
-   va contestar ningú**, ni si va contestar. El que sí que sap ara és **què va fer
-   el bisbe deu mesos després**: declarar a Madrid contra la franquícia del bestiar
-   andorrà. Vegeu [el desenllaç](./el-desenllac-de-la-questio-duanera.md).
-2. **Els morts.** «Conflictos ruidosos y sangrientos» és tot el que diu.
-3. **Qui era la companyia estrangera** de les carreteres i el casino, i com es
-   deia.
-4. **Qui era el president del Consell** «identificado con dicha Compañía».
-5. **Els noms dels tres consellers empresonats** al castell de la Seu, i quants
-   dies hi van ser.
-6. **El Tractat del Pont dels Escalls de 1881**, que la cronologia del corpus
-   data i aquest document **no esmenta pel nom**. Si és el tancament d'aquest
-   conflicte, cal el text.
-7. **Si la clàusula de l'article 11** de la llei de 1866 és realment una addició.
-   Es comprova **comparant l'original del Consell amb l'imprès de la Seu**.
-8. **Salvador Sausa**, secretari, i **Antonio Moles**, **Buenaventura Maestre** i
-   **Antonio Cabanes**, síndics. El corpus no en sap res.
+- **Les publicacions, l'associació i el partit** que van fer els andorrans de
+  Barcelona. **Buit prioritari.**
+- **El llibret *La Qüestió d'Andorra*** del Consell General, i **els que van fer
+  els profrancesos i els probisbe.**
+- **La biblioteca de Guillem d'Areny-Plandolit.**
+- **El decret del bisbe Boltàs** sobre el tabac.
+- **La banca Duvivier de París.**
+- **Joan Pla i Calvo** i **Pere Baró i Mas**, el síndic i el subsíndic
+  revolucionaris. **Cap fitxa de cap.**
+- **El Tractat del Pont dels Escalls**: el text.
+- **Quants revolucionaris van ser condemnats, i a què.**
+- **La carta del bisbe Casañas del març del 1886**: font primària.
 
 ## Related
 
-- [La Nova Reforma de 1866](./nova-reforma.md) — la llei que aquest document diu que va ser alterada.
-- [Els casalers i els anfochs](./els-casalers-i-els-anfochs.md) — com es deien els bàndols, i què els movia.
-- [Guillem d'Areny i Plandolit](./guillem-dareny-plandolit.md) — qui la va impulsar.
-- [La qüestió duanera de 1895](./la-questio-duanera-de-1895.md) — l'any següent, i el mateix bisbe acusat altra vegada.
-- [La reial ordre de setembre de 1894](./la-reial-ordre-de-setembre-de-1894.md) — què feia Espanya mentre s'escrivia aquest al·legat.
-- [El desenllaç de la qüestió duanera](./el-desenllac-de-la-questio-duanera.md) — la carta pastoral que lliga les dues crisis.
-- [Les tres sobiranies](../../institucions/coprincipat/les-tres-sobiranies.md) — aquesta tesi, al costat de l'espanyola i la francesa.
-- [El coprincipat](../../institucions/coprincipat/el-coprincipat.md) — la institució en litigi.
-- [El reconeixement internacional](../../institucions/relacions-exteriors/el-reconeixement-internacional.md) — el que Andorra reclamava ja el 1894.
-- [La cronologia d'Andorra](../moments-historics/la-cronologia-dandorra.md) — on això era una línia.
-- [El Consell General](../../institucions/consell-general/el-consell-general.md) — la institució que signa.
-- [Qui parlava per Andorra](../../institucions/relacions-exteriors/qui-parlava-per-andorra.md) — la rèplica francesa a la doctrina de la representació exterior, i el contraexemple que el mateix replicant dona.
+- [Segle XIX](./README.md)
+- [Guillem d'Areny-Plandolit](./guillem-dareny-plandolit.md)
+- [El contraban](../contraban/README.md)
+- [Els jocs d'atzar](../../economia/transformacio-economica/els-jocs-datzar.md)
+- [La consciència nacional andorrana](../../politica/identitat-politica/la-consciencia-nacional-andorrana.md)
