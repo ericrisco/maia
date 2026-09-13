@@ -977,6 +977,34 @@ en registra finalment la **déchéance** amb data 05/05/2024. Aquesta data tanca
 el títol jurídic localitzat, no acredita el final de l'empresa ni de l'ús del
 dispositiu. [Publicació A1 i expedient](https://patents.google.com/patent/FR3010324A1/fr).
 
+Els registres empresarials separen tres capes que els reportatges agrupen sota
+la marca. L'API estatal dona **BAUME DES ANGES** (`442 953 782`) com a explotació
+activa, creada el 04/07/2002 al 425 chemin des Roches de Donzère, amb activitat
+`01.24Z` i un a dos assalariats el 2023. Hi enumera Laurent, la gerent **Elsa
+Messodie Alice Dreyfus-Schmidt** i Elso Investissements, però sense datar cada
+mandat. **VALLON DES OPILIAS** (`518 839 352`), creada el 03/12/2009 al mateix
+domicili i classificada `20.53Z`, fabricació d'olis essencials, consta tancada el
+16/12/2022. **ELSO INVESTISSEMENT** (`400 365 201`), creada el 10/03/1995,
+continua activa en R+D (`72.19Z`) i Elsa hi consta com a gerent. Els codis APE
+són estadístics: dibuixen una separació plausible entre agricultura, fabricació
+i recerca, no proven contractes interns ni funcions operatives.
+
+La marca reflecteix el doble mercat. L'USPTO publicà el 09/11/2010 la sol·licitud
+`79-079,088`, presentada per Laurent el 14/12/2009 i vinculada al registre
+internacional `1029289`, per a olis essencials en classe 3; la registrà el
+25/01/2011 com a **3,910,356**. Una segona sol·licitud, `79-110,325`, presentada
+el 20/12/2011 i publicada el 19/03/2013, estenia `BAUME DES ANGES` a les classes
+alimentàries 29-30, incloses espècies, aromatitzants i herbes processades. És
+el pont documental entre perfumeria i cuina. L'estat actual del registre
+internacional encara s'ha de comprovar; les dates d'expiració impreses als
+butlletins antics no permeten saber si fou renovat.
+[API Baume des Anges](https://recherche-entreprises.api.gouv.fr/search?q=442953782);
+[Vallon des Opilias](https://recherche-entreprises.api.gouv.fr/search?q=518839352);
+[Elso Investissement](https://recherche-entreprises.api.gouv.fr/search?q=400365201);
+[USPTO 2010](https://www.uspto.gov/web/trademarks/tmog/20101109_OG.pdf),
+[2011](https://www.uspto.gov/web/trademarks/tmog/20110125_OG.pdf) i
+[2013](https://www.uspto.gov/web/trademarks/tmog/20130319_OG.pdf).
+
 L'article de 2016 tanca amb el projecte de cultivar maduixes silvestres com les
 del peu dels Vosges que Laurent recordava de la infància. La imatge dialoga
 amb el record de bolets, nabius i gerds recollits amb Jacques, però cap font
