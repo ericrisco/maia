@@ -82,6 +82,7 @@ I, als annexos, **extractes del Politar** i la **Instructa als batlles de 1740**
 | Tema | Fitxa |
 | --- | --- |
 | Els censos duaners de 1898-1900, i quant bestiar tenia Andorra | [El cens del bestiar de 1898-1900](../temes/economia/ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md) |
+| El Consell General taxant la carn, el vi, el blat i el metge | [Qui posava els preus](../temes/economia/comerc/qui-posava-els-preus.md) |
 
 **I una funció que no s'esperava: aquesta obra fa de tercer testimoni.** La quota
 de bestiar de Carvajal de 1895 hi surt amb **100 cavalls i 7.000 caps de bestiar

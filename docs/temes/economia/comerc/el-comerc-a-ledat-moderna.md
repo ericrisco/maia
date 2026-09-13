@@ -281,3 +281,4 @@ Deducció de Mas: **les compraven per revendre**.
 - [El Consell de la Terra](../../institucions/consell-general/el-consell-de-la-terra.md) — la institució que en surt.
 - [El Manual Digest](../../historia/manual-digest/manual-digest.md) — llegit també com a al·legat duaner.
 - [La transhumància](../ramaderia-i-agricultura/la-transhumancia.md) — el centenar de pastors.
+- [Qui posava els preus](./qui-posava-els-preus.md) — el Consell del Afor, i la sèrie del blat de 1744 a 1793.

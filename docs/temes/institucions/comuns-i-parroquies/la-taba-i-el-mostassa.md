@@ -141,3 +141,4 @@ i amb ells, presumiblement, aquesta manera d'arrendar els serveis.
 - [L'accés als comunals](../../historia/edat-mitjana/lacces-als-comunals.md) — l'altra cara del comunal.
 - [Les fonts del dret](../justicia/les-fonts-del-dret.md) — el costum posat per escrit.
 - [Quarts i veïnats](../quarts-i-veinats/quarts-i-veinats.md) — el nivell de sota.
+- [Qui posava els preus](../../economia/comerc/qui-posava-els-preus.md) — el decret del vi de 1873, on el mostassà podia desactivar una multa.

@@ -99,3 +99,4 @@ i mig abans.
 - [De les iguales a l'hospital](./de-les-iguales-a-lhospital.md) — el salt sencer.
 - [La Clínica Vilanova](./la-clinica-vilanova.md) — on s'operava mentrestant.
 - [Associacionisme](../associacionisme/associacionisme.md) — el socors mutu com a forma andorrana.
+- [Qui posava els preus](../../economia/comerc/qui-posava-els-preus.md) — la visita a 75 cèntims, fixada per decret del Consell General.

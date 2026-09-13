@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**534** documents · **123** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
+**535** documents · **123** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -180,6 +180,7 @@
 | [El comerç a l'edat moderna](temes/economia/comerc/el-comerc-a-ledat-moderna.md) | `temes/economia/comerc` | compilada | contemporania | no | `mas-relacions-comercials-1994` |
 | [El que Andorra comprava a Espanya](temes/economia/comerc/el-que-andorra-comprava-a-espanya.md) | `temes/economia/comerc` | compilada | contemporania | no | `diario-sesiones-corts-1895` |
 | [La Cambra de Comerç i la formació](temes/economia/comerc/la-cambra-de-comerc-i-la-formacio.md) | `temes/economia/comerc` | compilada | contemporania | no | `escaler-cambra-de-comerc` |
+| [Qui posava els preus](temes/economia/comerc/qui-posava-els-preus.md) | `temes/economia/comerc` | compilada | historica | no | `brutails-coutume-1904` |
 
 ## temes/economia/energia-i-serveis
 
