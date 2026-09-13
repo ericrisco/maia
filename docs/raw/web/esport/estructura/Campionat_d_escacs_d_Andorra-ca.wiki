@@ -1,0 +1,72 @@
+{{Infotaula competició esportiva}}
+El '''campionat d'escacs d'Andorra''' és un [[torneig d'escacs]] estatal celebrat a [[Andorra]] per determinar el campió del país.
+
+== Quadre d'honor ==
+:{| class="sortable wikitable"
+! # !! Any !! Guanyador 
+|-
+| 1 ||	2000 || [[Òscar de la Riva]]
+|-
+| 2 ||	2001 || [[Òscar de la Riva]]
+|-
+| 3 ||	2002 || [[Daniel José Queraltó]]
+|-
+| 4 ||	2003 || [[Josep Oms i Pallisé]]
+|-
+| 5 ||	2004 || [[Josep Oms i Pallisé]]
+|-
+| 6 ||	2005 || [[Josep Oms i Pallisé]]
+|-
+| 7 || 2006<ref>{{ref-web|url= http://www.heldercamara.com.br/Informacion%20para%20prensa%202011.pdf|consulta= 16 febrer 2015|títol= Palmares Josep Oms|arxiuurl= https://web.archive.org/web/20150217023627/http://www.heldercamara.com.br/Informacion%20para%20prensa%202011.pdf|arxiudata= 17 de febrer 2015}}</ref> || [[Josep Oms i Pallisé]]
+|-
+| 8 || 2007<ref>{{ref-web|url= http://www.chessgames.com/player/oscar_de_la_riva_aguado.html| consulta=16 febrer 2015|títol=Biografia Òscar de la Riva| editor=chessgames.com}}</ref> || [[Òscar de la Riva]]
+|-
+| 9 || 2008<ref>{{ref-web|url= http://ratings.fide.com/tournament_report.phtml?event16=11461| consulta=16 febrer 2015|títol=Classificació edició 2008| editor=fide.com}}</ref> || [[Joan Mellado Triviño]]
+|-
+| 10 || 2009<ref>{{ref-web|url= http://www.escacsandorra.com/2009/10/18/campionat-absolut-dandorra-2009-final/| consulta=16 febrer 2015|títol=Resum edició 2009}}</ref> || [[Raül Garcia]]
+|-
+| 11 || 2010<ref>{{ref-web|url= http://www.chess-results.com/tnr40277.aspx?lan=1&art=1&rd=7&wi=821| consulta=16 febrer 2015|títol=Jose Queralto Daniel, campió 2010| editor=chess-results.com}}</ref> || [[Daniel José Queraltó]]
+|-
+| 12 || 2011<ref>{{ref-web|url= http://www.chess-results.com/tnr57712.aspx?lan=1&art=1&rd=7&flag=30&wi=821| consulta=16 febrer 2015|títol=Raül Garcia, campió 2011| editor=chess-results.com}}</ref> || [[Raül Garcia]]
+|-
+| 13 || 2012<ref>{{ref-web|url= http://www.chess-results.com/tnr84732.aspx?lan=1&art=1&wi=821| consulta=16 febrer 2015|títol=Resultats i classificació edició 2012| editor=chess-results.com}}</ref> || [[Óscar de la Riva]]
+|-
+| 14 || 2013<ref>{{ref-web|url= http://www.chess-results.com/tnr113821.aspx?lan=1&art=1&wi=821| consulta=16 febrer 2015|títol=Resultats i classificació edició 2013| editor=chess-results.com}}</ref> || [[Raül Garcia]]
+|-
+| 15 || 2014<ref>{{ref-web|url= http://www.chess-results.com/tnr148949.aspx?lan=1&art=1&wi=821| consulta=16 febrer 2015|títol=Oscar de la Riva, campió 2014| editor=chess-results.com}}</ref> || [[Óscar de la Riva]]
+|-
+| 16 || 2015<ref>{{ref-web|url= http://chess-results.com/tnr191478.aspx?lan=2&art=1&wi=821| consulta=7 abril 2016|títol=Absolut d'Andorra 2015| editor=chess-results.com}}</ref> || [[Óscar de la Riva]]
+|-
+| 17 || 2016 || [[Robert Alomà]]
+|-
+| 18 || 2017 || [[Oscar de la Riva]] <br/> [[Robert Alomà]]
+|-
+| 19 || 2018 || [[Jordi Fluvià]]<ref>[https://s1.chess-results.com/tnr395040.aspx?lan=2&art=1&SNode=SO Campionat d'Andorra 2018]</ref>
+|-
+| 20 || 2019 || [[Robert Alomà]]<ref>[https://s1.chess-results.com/tnr479831.aspx?lan=2&art=1&SNode=SO Campionat d'Andorra 2019]</ref>
+|-
+| 21 || 2021 || [[Serni Ribera]]<ref>[https://s2.chess-results.com/tnr583788.aspx?lan=2&art=1&SNode=SO Campionat d'Andorra 2021]</ref>
+|-
+| 22 || 2022 || [[Felipe Porras]]<ref>[https://s2.chess-results.com/tnr682814.aspx?lan=2&art=4&SNode=SO Campionat d'Andorra 2022]</ref>
+|-
+| 23 || 2023 || [[Serni Ribera]]<ref>[https://s1.chess-results.com/tnr825988.aspx?lan=2&art=4&SNode=SO Campionat d'Andorra 2023]</ref>
+|-
+| 24 || 2024 || [[Serni Ribera]]<ref>[https://s1.chess-results.com/tnr1022088.aspx?lan=2&art=4&SNode=SO Campionat d'Andorra 2024]</ref>
+|-
+|}
+
+== Referències ==
+{{referències}}
+
+== Enllaços externs ==
+* [http://www.ajedrezdeataque.com/05%20Palmares/Campeonatos/Nacionales/Europa/Andorra.htm Historial campionat absolut d'Andorra 2001-2005]
+* [http://www.escacsandorra.com/ Federació andorrana d'escacs]
+
+{{Campionats nacionals d'escacs}}
+
+{{ORDENA:Campionat D'Escacs D'Andorra}}
+[[Categoria:Campionats estatals d'escacs|Andorra]]
+[[Categoria:Escacs al segle XXI]]
+[[Categoria:Competicions esportives a Andorra]]
+[[Categoria:Escacs a Andorra]]
+[[Categoria:Competicions d'escacs als Països Catalans]]

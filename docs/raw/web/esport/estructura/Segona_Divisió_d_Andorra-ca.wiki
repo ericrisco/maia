@@ -1,0 +1,75 @@
+{{Infotaula competició esportiva}}
+La '''Segona divisió andorrana de futbol''' (oficialment i per motius de patrocini: '''Segona Divisió''' i '''Lliga UNIDA'''),<ref>{{Ref-web|títol=Lliga UNIDA, la nova Segona Divisió|url=https://www.faf.ad/pnfg/NNws_ShwNewDup?codigo=1007439&cod_primaria=3000301&cod_secundaria=3000301|consulta=2022-08-15}}</ref> és la divisió immediatament inferior a la màxima categoria del campionat de lliga d'Andorra, la [[Lliga andorrana de futbol|Lliga Nacional de Futbol]]. Està organitzada per la [[Federació Andorrana de Futbol]] i es disputa des del 1999. Està formada per 11 equips.
+
+== Equips de la temporada 2022-23 ==
+{| class=wikitable
+|+
+!Equip<ref>{{Ref-web|títol=FAF|url=http://www.ffandorra.novanet.es/pnfg/NPcd/NFG_LstDirectorioEquipos|consulta=2022-08-15}}</ref>
+!Localitat
+|-
+|[[Club Esportiu Carroi|CE Carroi]]
+|[[Andorra la Vella]]
+|-
+|CF Atlètic Amèrica
+|[[Les Escaldes|Escaldes]]
+|-
+|[[CF Esperança d'Andorra]]
+|[[Andorra la Vella]]
+|-
+|[[Futbol Club Encamp|FC Encamp]]
+|[[Encamp]]
+|-
+|[[Futbol Club Ordino|FC Ordino]] B
+|[[Ordino]]
+|-
+|[[FC Santa Coloma|FC Santa Coloma B]]
+|[[Santa Coloma d'Andorra]]
+|-
+|FC Pas de la Casa
+|[[Encamp]]
+|-
+|[[FS La Massana]]
+|[[La Massana]]
+|-
+|[[Futbol Club Rànger's]]
+|[[Andorra la Vella]]
+|-
+|[[UE Engordany]] B
+|[[Escaldes-Engordany]]
+|-
+|[[Unió Esportiva Santa Coloma|UE Santa Coloma]] B
+|[[Andorra la Vella]]
+|}
+
+== Palmarès ==
+* 1999-00 [[Lusitans|FC Lusitans]]
+* 2000-01 [[FC Rànger's]]
+* 2001-02 [[Racing d'Andorra]] (es va dissoldre al final de la temporada, en el seu lloc va pujar el [[Unió Esportiva Extremenya|FC Cerni]])
+* 2002-03 [[UE Engordany]]
+* 2003-04 [[Atlètic Club d'Escaldes]]
+* 2004-05 [[FC Santa Coloma|FC Santa Coloma B]] (no va pujar en ser filial. La [[UE Extremenya]] va ocupar el seu lloc)
+* 2005-06 [[FC Encamp]]
+* 2006-07 [[Casa Estrella del Benfica]]
+* 2007-08 [[Unió Esportiva Santa Coloma|UE Santa Coloma]]
+* 2008-09 [[FC Encamp]]
+* 2009-10 [[Casa Estrella del Benfica]]
+* 2010-11 [[Futbol Club Lusitans|FC Lusitanos B]]
+* 2011-12 [[FC Encamp]]
+* 2012–13 [[FC Ordino]]
+* 2013-14: [[UE Engordany]]
+* 2014-15: [[Penya Encarnada d'Andorra]]
+* 2015-16: [[CE Jenlai]]
+* 2016-17: [[Inter Club d'Escaldes]]
+* 2017-18: [[FC Ordino]]
+* 2018-19: [[Atlètic Club d'Escaldes]]
+* 2019-20: [[Penya Encarnada d'Andorra]]
+* 2020-21 La Massana
+
+== Referències ==
+{{Referències}}
+
+== Enllaços externs ==
+* [http://www.league321.com/andorra-football-historic-league-tables.html League 321 - Andorra]
+* [http://www.faf.ad/pnfg/ Federació Andorrana de Fútbol]
+{{ORDENA:Segona Divisio Andorra}}
+[[Categoria:Competicions futbolístiques a Andorra]]

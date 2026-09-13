@@ -27,7 +27,9 @@ fitxada tret de les dues de futbol.** Aquesta subbranca n'obre cinc més.
 | **[Els dotze de la primera final del 2004](./els-dotze-de-la-primera-final-del-2004.md)** | Tercer or consecutiu, primera final i un Txetxu Bermudo de trenta-cinc anys: 24 punts i 14 rebots contra Luxemburg |
 | **[Els dotze campions del 2024](./els-dotze-campions-del-2024.md)** | La plantilla, les tres generacions i l'últim minut de la final que va donar a Andorra el sisè títol |
 | **[El tennis](./el-tennis.md)** | **63 eliminatòries de Copa Davis**, i **una sola persona n'ha jugat 53** |
+| **[L'hoquei sobre patins](./lhoquei-patins.md)** | **DOS Campionats del Món «B»** (1992 i 2002) i **setena del món el 1993**. **El millor resultat mundial de cap selecció andorrana** |
 | **[L'hoquei gel](./lhoquei-gel.md)** | **Un 12-0 i un 24-2 en tres anys.** Neix el 2017 al Palau de Gel de Canillo |
+| [L'handbol](./lhandbol.md) | **La selecció més nova**: 2011. Primer partit perdut als últims segons davant de 350 persones |
 | **[El rugbi](./el-rugbi.md)** | **Els Isards.** Va debutar guanyant 24-3 el 1987, i **juga alguns partits de casa a França** |
 | **[El futbol sala](./el-futbol-sala.md)** | Primer partit el 1998, 0-4 contra Portugal. **La mateixa federació que el futbol** |
 
@@ -44,6 +46,17 @@ fitxada tret de les dues de futbol.** Aquesta subbranca n'obre cinc més.
 a l'ACB i a la VTB russa, [David Navarro](../altres-esports/david-navarro.md) al
 MoraBanc— **i no havia mirat mai la selecció.** **La lliçó queda registrada
 aquí: el corpus buscava individus i el palmarès era col·lectiu.**
+
+**I unes hores més tard n'ha trobat dos més, i són del món.**
+**[L'hoquei sobre patins](./lhoquei-patins.md) ha guanyat dos Campionats del Món
+«B» —el 1992 a casa i el 2002 a l'Uruguai— i el 1993 va acabar SETENA DEL MÓN al
+Mundial «A».** **És el millor resultat mundial absolut de cap selecció andorrana
+de cap esport, i el corpus no en sabia res fins avui.**
+
+**Aquesta segona troballa té una causa de mètode que queda escrita**: **la
+selecció d'hoquei patins no té article a la Viquipèdia en anglès, i sí a la
+catalana.** **El corpus havia fet tota la recerca esportiva en anglès.** Vegeu
+[la fitxa de la font](../../../fonts/wikipedia-escacs-andorra.md).
 
 ## El patró que les cinc comparteixen
 
@@ -72,7 +85,9 @@ jugat 53 de les 63 eliminatòries de Copa Davis de la història d'Andorra.**
   plantilles dels títols del 2012 i 2014.
 - **Les federacions**: de basquetbol, d'esports de gel, de rugbi i de tennis.
   **Cap fitxa de cap.**
-- **Les altres divuit seleccions** de les vint-i-tres que Andorra declara.
+- **Les altres catorze seleccions** de les vint-i-tres que Andorra declara.
+  **Ara el corpus en té nou**: futbol masculí i femení, bàsquet, hoquei gel,
+  hoquei patins, rugbi, tennis, futbol sala i handbol.
 - ~~**El BC Andorra / MoraBanc**, club de l'ACB.~~ **Tancat:**
   [el BC Andorra](../altres-esports/bc-andorra.md).
 

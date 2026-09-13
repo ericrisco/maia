@@ -1,0 +1,49 @@
+{{Infotaula organització}}
+El '''Comitè Olímpic Andorrà''' ('''COA'''), és el [[Comitè Olímpic Nacional]] d'[[Andorra]]. Té 26 federacions, de les quals 18 corresponen a disciplines olímpiques.<ref>{{ref-web| url= http://www.coa.ad/index.php?option=com_content&view=article&id=132&Itemid=55| títol= Membres del COA| editor= coa.ad| consulta= 8 de gener de 2013}}</ref>
+
+== Federacions membres del COA ==
+=== Federacions olímpiques ===
+{{Div col}}
+* Federació andorrana d'atletisme 
+* Federació andorrana de basquetbol 
+* Federació andorrana de canoa-caiac 
+* Federació andorrana de ciclisme
+* Federació andorrana d'esports de gel 
+* Federació andorrana d'esquí 
+* [[Federació andorrana de futbol]]
+* Federació andorrana de gimnàstica 
+* Federació andorrana d'hípica 
+* Federació andorrana de judo ju-jitsu 
+* Federació andorrana de natació 
+* [[Federació andorrana de rugbi]]
+* Federació andorrana de taekwondo
+* Federació andorrana de tennis 
+* Federació andorrana de tennis taula 
+* Federació andorrana de tir 
+* Federació andorrana de vela 
+* Federació andorrana de voleibol 
+{{Div col end}}
+
+=== Federacions no olímpiques ===
+{{Div col}}
+* Automòbil Club
+* Federació andorrana de karate 
+* Federació andorrana motociclista 
+* Federació andorrana de muntanyisme 
+* Federació andorrana de patinatge 
+* Federació andorrana de petanca 
+* [[Federació Andorrana d'Escacs|Federació andorrana d'escacs]]
+* Special Olympics 
+{{Div col end}}
+
+Andorra també forma part dels [[Jocs del Mediterrani]] i dels [[Jocs dels Petits Estats d'Europa]], (JPEE).
+
+== Referències ==
+{{referències}}
+
+== Enllaços externs ==
+* {{Oficial}}
+
+{{ORDENA:Comite Olimpic D'Andorra}}
+[[Categoria:Organitzacions esportives d'Andorra]]
+[[Categoria:Comitès Olímpics Nacionals|Andorra]]

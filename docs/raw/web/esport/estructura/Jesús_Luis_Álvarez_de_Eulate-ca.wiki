@@ -1,0 +1,47 @@
+{{Infotaula esportista
+| nom = Koldo
+| nom_naixement = Jesús Luis Álvarez de Eulate
+| alies = Koldo
+| club_actual = {{F Andorra}} {{Mida|(seleccionador)}}
+| posicio_equip = [[Porter (futbol)|Porter]] {{Mida|(retirat)}}
+| clubsentrenats = {{F Andorra}}
+| clubs = [[Aurrerá Vitoria]]<br />[[Atlètic de Madrid]]<br />[[Club Deportivo Toledo|CD Toledo]]<br />[[UD Salamanca]]<br />[[Futbol Club Andorra|FC Andorra]]<br />[[CF Balaguer]]<br />[[Futbol Club Andorra|FC Andorra]]
+| anys = 1989-1991<br />¿1991-1992?<br />¿1992-1993?<br />1993-1994<br />1994-2006<br />2006-2007<br />2007-2009
+| equipnacional = {{F Andorra}}
+| anysnacional = 1998-2009
+| golsnacional = 0
+| anysentrenador = 2010-
+| partitsnacional = 79
+}}
+'''Jesús Luis Álvarez de Eulate''', més conegut com a '''Koldo''', ([[Vitòria]], [[4 de setembre]], [[1970]]) és un ex[[futbolista]] [[Andorrans|andorrà]] d'origen [[Bascos|basc]], que jugava com a [[Porter (futbol)|porter]]. Va ser internacional amb la {{Sel|Andorra|selecció andorrana}}.
+
+Començà la seva carrera al [[CD Aurrerá de Vitoria]]. Posteriorment jugà a clubs com l'[[Atlètic de Madrid]], el [[Club Deportivo Toledo|CD Toledo]] i la [[UD Salamanca]]. Des del 1994 defensà els colors del [[Futbol Club Andorra|FC Andorra]] amb una breu estada al [[CF Balaguer]]. L'any 2003, per celebrar el jubileu de la [[UEFA]], fou seleccionat com a ''[[Golden Players de la UEFA|Golden Player]]'' d'Andorra per la [[Federació Andorrana de Futbol]] com el jugador més destacat dels darrers 50 anys al país.<ref>{{ref-web| url= http://www.rsssf.com/miscellaneous/uefa-awards.html| editor=RSSSF| llengua=anglès| títol=Premis de la UEFA}}</ref>
+
+L'any 2010 va ser nomenat seleccionador de la [[selecció de futbol d'Andorra|selecció andorrana]].<ref>{{ref-web| url= http://www.diariandorra.ad/index.php?option=com_k2&view=item&id=2031| editor= [[Diari d'Andorra|diariandorra.ad]] | consulta=28/12/2011| títol=Koldo, nou seleccionador de futbol| data=2/2/2011| arxiuurl= https://web.archive.org/web/20120421104612/http://www.diariandorra.ad/index.php?option=com_k2&view=item&id=2031| arxiudata=2012-04-21}}</ref>
+
+== Referències ==
+{{Referències}}
+
+== Enllaços externs ==
+{{commonscat}}
+* [http://www.rsssf.com/miscellaneous/koldo-intl.html Partits internacionals] {{en}}
+* [http://www.national-football-teams.com/v2/player.php?id=172 Perfil] {{en}}
+* [http://www.transfermarkt.de/de/koldo/profil/spieler_44145.html Koldo a transfermarkt.de] {{de}}
+* [https://www.transfermarkt.com/koldo/profil/spieler/44145 Koldo a transfermarkt.com] {{en}}
+
+{{Golden Players de la UEFA}}
+
+{{ORDENA:Alvarez Eulate, Jesus Luis}}
+[[Categoria:Naixements del 1970]]
+[[Categoria:Futbolistes vitorians]]
+[[Categoria:Porters de futbol alabesos]]
+[[Categoria:Futbolistes internacionals amb Andorra]]
+[[Categoria:Futbolistes del CD Aurrera Vitoria]]
+[[Categoria:Futbolistes de l'Atlètic de Madrid B]]
+[[Categoria:Futbolistes de l'Atlètic de Madrid de la dècada de 1990]]
+[[Categoria:Futbolistes del CD Toledo]]
+[[Categoria:Futbolistes de la UD Salamanca]]
+[[Categoria:Futbolistes del FC Andorra]]
+[[Categoria:Futbolistes del CF Balaguer]]
+[[Categoria:Entrenadors de futbol dels Països Catalans]]
+[[Categoria:Entrenadors de futbol alabesos]]

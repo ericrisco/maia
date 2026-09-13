@@ -1,0 +1,20 @@
+{{Infotaula persona
+| titol_personal = [[Títols d'escacs#Mestre Candidat|Mestre Candidat]] (2012)<br/>2 cops [[Campionat d'escacs d'Andorra|Campió d'Andorra]]
+}}
+'''Daniel José Queraltó''' ([[Igualada]], [[25 d'octubre]] de [[1973]]) és un [[informàtic]] i [[jugador d'escacs]] [[Andorra|andorrà]] i que té el títol de [[Títols d'escacs#Mestre Candidat|Mestre Candidat]] des de 2012.<ref name="CGbio">{{ref-web |url= http://www.chessgames.com/perl/chessplayer?pid=127212 |títol=Nota biogràfica de Daniel José Queraltó|consulta= 7 d'abril de 2016 |editor= Chessgames.com |llengua=anglès}}</ref><ref>{{ref-web|cognom=Gordillo|nom=Saül|url=http://www.saul.cat/article/4747/daniel-jose-queralto|consulta=7 abril 2016|títol=Nota a Daniel José Queraltó|editor=saul.cat}}</ref> A la [[Llista FIDE|llista d'Elo]] de la [[FIDE]] de l'abril de 2016, hi tenia un [[Elo]] de 2124 punts, cosa que en feia el jugador número 7 (en actiu) d'Andorra.<ref>{{ref-web |url= http://ratings.fide.com/topfed.phtml?ina=1&country=AND |títol= "Rànquing d'escaquistes per federació: Andorra" |editor= lloc web de la [[FIDE]] |consulta= 7 d'abril de 2016 |llengua= anglès }}{{Enllaç no actiu|date=de febrer 2026 |bot=InternetArchiveBot }}</ref> Ha estat dos cops [[Campionat d'escacs d'Andorra|campió d'escacs d'Andorra]] en els anys 2002 i 2010,<ref>{{ref-web|url=http://www.ajedrezdeataque.com/05%20Palmares/Campeonatos/Nacionales/Europa/Andorra.htm|consulta=7 abril 2016|títol=Historial campions d'Andorra}}</ref><ref>{{ref-web|url=http://www.chess-results.com/tnr40277.aspx?lan=1&art=1&rd=7&wi=821|consulta=7 abril 2016|títol=Campionat Absolut d'Andorra 2010|editor=chess-results.com}}</ref> i subcampió el 2019.<ref>{{ref-web |url=https://www.bondia.ad/esports/robert-aloma-campio-absolut-dandorra |consulta=23 desembre 2021 |títol=Robert Alomà, campió absolut d'Andorra |editor=Bon dia TV}}</ref>
+
+Daniel fou qui edità ''[[Àbac]]'', el primer article de la [[Viquipèdia en català]] el març de 2001. A més ha editat altres articles relacionats amb la [[informàtica]], la [[matemàtica]] o els [[escacs]]. Ha estat soci fundador i col·laborador de l'[[Associació Amical Viquipèdia]]. Per aquestes contribucions, el 2013 rebé el [[Premis d'Actuació Cívica|premi d'Actuació Cívica]] de la [[Fundació Lluís Carulla]].<ref>{{ref-web|url=http://www.fundaciocarulla.cat/ca/premis-d-actuacio-civica/bones-practiques/daniel-jos%C3%A9-queralt%C3%B3|consulta=7 abril 2016|títol=Premis d'Actuació Cívica|editor=fundaciocarulla.cat|arxiuurl=https://web.archive.org/web/20160418150719/http://www.fundaciocarulla.cat/ca/premis-d-actuacio-civica/bones-practiques/daniel-jos%C3%A9-queralt%C3%B3|arxiudata=18 d'abril 2016}}</ref><ref>{{ref-web|url=http://www.diariandorra.ad/index.php?option=com_k2&view=item&id=29080|consulta=7 abril 2016|títol=Premi per a l'andorrà pioner de la Viquipèdia|editor=diariandorra.ad|arxiuurl=https://web.archive.org/web/20210121083644/https://www.diariandorra.ad/index.php?option=com_k2&view=item&id=29080|arxiudata=21 de gener 2021}}</ref>
+
+Com a informàtic, Daniel és l'autor de la nova màquina d'escacs Andscacs, projecte que començà el 2013 i continua desenvolupant, i que el 2016 participarà en el reconegut Campionat de màquines d'escacs TCEC.<ref>{{ref-web|url=http://www.chessdom.com/andscacs-the-3150-elo-computer-chess-engine-from-andorra/|consulta=7 abril 2016|títol=Andscacs – the 3150 ELO computer chess engine from Andorra|editor=chessdom.com}}</ref>
+
+== Referències ==
+{{Referències}}
+
+{{ORDENA:Queralto, Daniel Jose}}
+[[Categoria:Jugadors d'escacs andorrans]]
+[[Categoria:Esportistes igualadins]]
+[[Categoria:Premis d'Actuació Cívica]]
+[[Categoria:Wikimedia]]
+[[Categoria:Jugadors d'escacs catalans del sud de la dècada del 2000]]
+[[Categoria:Jugadors d'escacs catalans del sud de la dècada del 2010]]
+[[Categoria:Naixements del 1973]]

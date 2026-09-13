@@ -1,0 +1,85 @@
+{{Campionat de motor
+| categoria = [[Trial]]
+| ambit = [[Andorra]]
+| entitat = FMA
+| inaugural2 = 1987
+| any = 2024
+| campio_pilot = [[Gaudí Vall Inglés|Gaudí Vall]]
+}}
+El '''Campionat d'Andorra de trial''', regulat per la federació andorrana de [[motociclisme]], FMA (Federacio Motociclista d'Andorra), és la màxima competició de [[trial]] que es disputa a [[Andorra]].
+
+== Llista de guanyadors ==
+{{updated|10 de desembre de 2024}}
+{|class="wikitable sortable"
+|-
+! Temporada
+! Campió
+! Motocicleta
+|-
+|1987 || [[Santiago Llorens]] || {{Bandera|Itàlia}} [[Beta (motocicleta)|Beta]]
+|-
+|1988 || [[Santiago Llorens]] || {{Bandera|Itàlia}} [[Beta (motocicleta)|Beta]]
+|-
+|1989 || [[Santiago Llorens]] || {{Bandera|Itàlia}} [[Fantic]]
+|-
+|align=center colspan='3' bgcolor="white"|1990 - 1995: Sense dades
+|-
+|1996 || [[Daniel Estragués i Armengol|Daniel Estragués]] || {{Bandera|Itàlia}} [[Fantic]]
+|-
+|1997 || [[Xavier Casas Blanch|Xavier Casas]] || {{Bandera|Catalunya}} [[Gas Gas]]
+|-
+|1998 || [[Xavier Casas Blanch|Xavier Casas]] || {{Bandera|Catalunya}} [[Gas Gas]]
+|-
+|align=center colspan='3' bgcolor="white"|1999 - 2000: Sense dades
+|-
+|2001 || [[Albert Cabanes (motociclista)|Albert Cabanes]] || ?
+|-
+|2002 || [[Albert Cabanes (motociclista)|Albert Cabanes]] || ?
+|-
+|align=center colspan='3' bgcolor="white"|2003 - 2008: Sense dades
+|-
+|2009 || {{Bandera|Catalunya}} [[Francesc Recio i Berdegué|Francesc Recio]] || {{Bandera|Itàlia}} [[Beta (motocicleta)|Beta]]
+|-
+|2010 || [[Marcel Albós Sorribes|Marcel Albós]] || ?
+|-
+|2011 || [[Marcel Albós Sorribes|Marcel Albós]] || ?
+|-
+|2012 || [[Pere Martí Casal|Pere Martí]] || ? 
+|-
+|2013 || [[Pere Martí Casal|Pere Martí]] || ?
+|-
+|2014 || [[Albert Cabanes (motociclista)|Albert Cabanes]] || ?
+|-
+|2015 || [[Marcel Albós Sorribes|Marcel Albós]] || ?
+|-
+|2016 || [[Pere Martí Casal|Pere Martí]] || ? 
+|-
+|2017 || [[Xavier Casas Blanch|Xavier Casas]] || {{bandera|CAT}} [[Sherco]]
+|-
+|2018 || {{Bandera|Catalunya}} [[Oriol Pi i Ramírez|Oriol Pi]] || ? 
+|-
+|2019 || [[Jordi Lestang Caubet|Jordi Lestang]] || {{bandera|CAT}} [[Gas Gas]]
+|-
+|2020 || [[Jordi Lestang Caubet|Jordi Lestang]] || {{bandera|CAT}} {{moto|MontesaH}}
+|-
+|2021 || [[Jordi Lestang Caubet|Jordi Lestang]] || {{bandera|CAT}} {{moto|MontesaH}}
+|-
+|2022 || [[Jordi Lestang Caubet|Jordi Lestang]] || {{bandera|CAT}} {{moto|MontesaH}}
+|-
+|2023 || [[Jordi Lestang Caubet|Jordi Lestang]] || {{bandera|CAT}} {{moto|MontesaH}}
+|-
+|2024<ref>{{ref-web |url=https://www.andorradifusio.ad/esports/gaudi-vall-campio-andorra-trial |consulta=12 març 2025 |títol=Gaudi Vall, campió d'Andorra de Trial |obra=andorradifusio.ad |data=14 d'octubre de 2024}}</ref> || [[Gaudí Vall Inglés|Gaudí Vall]] || {{bandera|CAT}} [[Gas Gas]]
+|}
+
+== Referències ==
+{{refbegin}}
+* {{ref-web |consulta=30 octubre 2021 |obra=trialonline.org |llengua=anglès |url=https://www.trialonline.org/01%20TRIAL.FIM/300.PAYS.CHAMPIONNATS/22%20101%20EUROPE/22%20100%20ANDORRE/22%20150%20INDEX%20ANDORRE.htm |títol=Andorra |arxiuurl=https://web.archive.org/web/20211112230839/https://trialonline.org/01%20TRIAL.FIM/300.PAYS.CHAMPIONNATS/22%20101%20EUROPE/22%20100%20ANDORRE/22%20150%20INDEX%20ANDORRE.htm |arxiudata=12 de novembre 2021 }}
+{{refend}}
+{{Referències}}
+
+{{Campionats estatals de trial}}
+
+{{ORDENA:Andorra, Campionat De Trial De}}
+[[Categoria:Campionats estatals de trial]]
+[[Categoria:Motociclisme a Europa]]
+[[Categoria:Competicions esportives a Andorra|Trial]]

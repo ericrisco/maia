@@ -1,0 +1,45 @@
+ 
+
+{{Infotaula organització|lloc_web=https://www.fahandbol.ad/|president=Gerrard Pifarré|imatge=}}
+
+La '''selecció masculina d'handbol d'Andorra''' representa a [[Andorra]] en els partits d'[[handbol]] masculí internacionals. Està controlat per la [[Federació Andorrana d'Handbol]].
+
+== Història ==
+Andorra es va convertir en membre de ple dret de la [[Federació Europea d'Handbol]] a l'11è Congrés Extraordinari de l'EHF el 29 de maig de 2011.<ref>{{Ref-notícia|url=http://www.eurohandball.com/article/013978|títol=Andorra new member federation of the EHF|obra=European Handball Federation|editorial=Eurohandball.com|data= 1 juny 2011|consulta= 10 octubre 2011}}</ref> La selecció nacional masculina va jugar el seu primer partit oficial, en un amistós el 7 d'octubre de 2011, rebent a Irlanda. 350 aficionats es van reunir per presenciar el partit, que van guanyar els visitants en els darrers segons per 30-29.<ref>{{Ref-notícia|url=http://www.eurohandball.com/article/14246|títol=Andorra's first international game|obra=European Handball Federation|editorial=Eurohandball.com|data= 10 octubre 2011|consulta= 10 octubre 2011}}</ref>
+
+El 2015, Andorra va jugar el [[Campionat de Nacions Emergents de l'IHF 2015|Campionat de Nacions Emergents de l'IHF]] a [[Kosovo]], on només va poder guanyar un dels sis partits disputats.
+
+== Resultats del Campionat de Nacions Emergents de la IHF ==
+{| class=wikitable style="text-align: center;font-size:90%;"
+!Curs
+! Posició
+! width="30" | PJ
+! width="30" |G
+! width="30" |E
+! width="30" |D
+|-
+|{{Flagicon|KOS}} [[Campionat de Nacions Emergents de l'IHF 2015|2015]]
+| 15è
+| 6
+| 1
+| 0
+| 5
+|-
+|{{Flagicon|BUL}} [[Campionat de Nacions Emergents de l'IHF 2017|2017]]
+| 14è
+| 6
+| 1
+| 0
+| 5
+|-
+! colspan=2 | Total
+! 12
+! 2
+! 0
+! 10
+|}
+
+== Referències ==
+{{Referències}}
+
+[[Categoria:Organitzacions esportives d'Andorra]]

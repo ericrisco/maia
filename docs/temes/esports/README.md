@@ -44,10 +44,11 @@ l'escola.**
 | **[Futbol femení](./futbol/femeni/README.md)** | **41 fitxes** i la selecció: **47 partits, 12 victòries.** **La selecció andorrana que guanya més** |
 | **[Altres esports](./altres-esports/README.md)** | **24 fitxes**: tennis, escacs, motor, bàsquet, taekwondo, gimnàstica, patinatge, salt d'esquí — **on hi ha les fites que no surten a cap medaller** |
 | **[Clubs i competicions](./futbol/clubs-i-competicions/README.md)** | **4 fitxes**: la lliga, la copa, el FC Andorra i la federació — **l'estructura que explica la resta** |
-| **[Les seleccions](./seleccions/README.md)** | **9 fitxes**: bàsquet, els campions del 1998, el 2000, el 2004 i el 2024, tennis, hoquei gel, rugbi i futbol sala — **on hi ha els sis títols europeus que el corpus no sabia que existien** |
+| **[Les seleccions](./seleccions/README.md)** | **11 fitxes**: bàsquet i les seves quatre plantilles campiones, **hoquei patins**, tennis, hoquei gel, rugbi, **handbol** i futbol sala — **on hi ha els sis títols europeus i els dos mundials que el corpus no sabia que existien** |
+| **[Escacs](./escacs/README.md)** | **4 fitxes**: la federació (1967), el campionat, l'Obert Internacional i Òscar de la Riva. **Andorra té més Grans Mestres que futbolistes de primera divisió espanyola** |
 | [La competició](./competicio/README.md) | 5 fitxes: els Jocs, els abanderats, la llei de l'esport |
 
-**245 fitxes de persones, clubs, competicions i seleccions**, escrites entre el
+**257 fitxes de persones, clubs, competicions i seleccions**, escrites entre el
 2026-09-12 i el 2026-09-13. **La branca era, fa dos dies, la més buida del
 corpus.**
 
@@ -57,12 +58,19 @@ Gairebé tot. El corpus **no té res** sobre:
 
 - Les **estacions d'esquí** com a empreses i com a territori — vegeu
   [turisme i neu](../economia/turisme-i-neu/turisme-i-neu.md).
-- Les **federacions esportives**, que apareixen esmentades com a col·laboradores
-  de l'Escola Andorrana i mai descrites. **El corpus ja en té els noms** —de
-  futbol, de basquetbol, d'esports de gel, de rugbi, de tennis, d'esports
-  adaptats (FADEA)— **i cap fitxa de cap.**
+- ~~Les **federacions esportives**, que apareixen esmentades com a
+  col·laboradores de l'Escola Andorrana i mai descrites.~~ — **tancat el
+  2026-09-13**: **[el Comitè Olímpic Andorrà i les seves vint-i-sis
+  federacions](./competicio/el-comite-olimpic.md)**, divuit d'elles olímpiques,
+  amb la llista sencera i què en té el corpus de cadascuna. **Set no tenen ni
+  una línia**: hípica, tennis taula, vela, voleibol, karate, petanca i Special
+  Olympics. **I n'hi ha una que existeix i no surt a la llista del COA**: la
+  d'handbol.
 - L'**Open internacional de tennis ATP d'Andorra**.
-- El **Comitè Olímpic Andorrà** i **Andorra als Jocs Olímpics** pròpiament dits
+- ~~El **Comitè Olímpic Andorrà**~~ — **tancat**:
+  [la seva fitxa](./competicio/el-comite-olimpic.md). **El que segueix obert és
+  quan es va fundar, qui el presideix i el pressupost.** **Andorra als Jocs
+  Olímpics** pròpiament dits
   — els [Jocs dels Petits Estats](./competicio/els-jocs-dels-petits-estats.md) sí que hi són.
   **Una data solta**: Andorra hi participa **per primera vegada el 1976**
   ([la cronologia](../historia/moments-historics/la-cronologia-dandorra.md)).

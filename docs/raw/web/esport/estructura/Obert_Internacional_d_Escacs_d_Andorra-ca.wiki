@@ -1,0 +1,120 @@
+{{Infotaula competició esportiva}}
+L{{'}}'''Obert Internacional d'Escacs d'Andorra''' és un [[torneig d'escacs]] que es juga al [[Andorra|Principat d'Andorra]] als juliols des de l'any 1983, creat per [[Benet Pantebre]] que en fou director durant 18 anys.<ref>{{ref-publicació|títol=Ressenya de Benet Pantebre|publicació=Butlletí d'Escacs de FCE|data=octubre del 2009|pàgines=7|exemplar=140| consulta=27 juliol 2015}}</ref> El torneig es disputa a nou rondes per [[sistema suís]] i és organitzat per la [[Federació d'Escacs de les Valls d'Andorra]] des del 2001. Actualment es juga a l'Hotel Sant Gothard ubicat a la parròquia de [[La Massana]].<ref>[http://www.escacsandorra.com/open/ Història del torneig per la Federació d'Escacs Valls d'Andorra]</ref> L'Obert d'Andorra és computable pel [[Circuit Català d'Oberts Internacionals d'Escacs]].
+
+== Quadre d'honor <ref>[https://www.ajedrezdeataque.com/05%20Palmares/Torneos/Europa/Andorra.htm I-VIII, X, XIII, XVIII Obert Internacional d'Escacs d'Andorra]</ref> ==
+Quadre de totes les edicions amb els tres primers de la classificació general:
+
+{| class="wikitable sortable" 
+! Any
+! Dates
+! Edició
+! Campió
+! Subcampió
+! Tercer
+|-
+| 1983 || || I Obert || {{Banderes|CHI}} [[Javier Campos]], (7.5) || ||
+|-
+| 1984 || || II Obert || {{Banderes|ARG}} [[Carlos García Palermo]], (7) || ||
+|-
+| 1985 || || III Obert || {{Banderes|GBR}} [[Anthony Kosten]], (6.5) || ||
+|-
+| 1986 || || IV Obert || {{Banderes|ESP}} [[Javier Ochoa]], (7) || ||
+|-
+| 1987 || || V Obert || {{Banderes|USA}} [[John Fedorovsky]], (7) || ||
+|-
+| 1988 || || VI Obert || {{Banderes|CRO}} [[Davor Komljenovic]], (7.5) || ||
+|-
+| 1989 || || VII Obert || {{Banderes|HUN}} [[Jozsef Horvath]], (7) || ||
+|-
+| 1990 || || VIII Obert || {{Banderes|URS}} [[Elmar Maguerranov]], (8) || ||
+|-
+| 1991<ref>{{ref-web|url= http://www.365chess.com/tournaments/Andorra_op_9th_1991/18725| consulta=17 febrer 2015|títol=IX Obert d'Andorra}}</ref> || || IX Obert || {{Banderes|POL}} [[Michał Krasenkow]], (6.5) || {{Banderes|ROM}} [[Mihail Marin]] || {{Banderes|ISL}} [[Margeir Petursson]]
+|-
+| 1992 || || X Obert || {{Banderes|GER}} [[Thomas Luther]], (6.5) || || 
+|-
+| 1993<ref>{{ref-web|url= http://www.365chess.com/tournaments/Andorra_op_11th_1993/16927| consulta=17 febrer 2015|títol=XI Obert d'Andorra}}</ref> || || XI Obert || {{Banderes|CAN}} [[Kevin Spraggett]], (7) || {{Banderes|ROM}} [[Mihai Șubă]] || {{Banderes|CRO}} [[Bogdan Lalić]]
+|-
+| 1994<ref>{{ref-web|url= http://www.365chess.com/tournaments/Andorra_op_12th_1994/15788| consulta=17 febrer 2015|títol=XII Obert d'Andorra}}</ref> || || XII Obert || {{Banderes|GBR}} [[Anthony Miles]], (7.5) || {{Banderes|ISR}} [[Lev Psakhis]] || {{Banderes|ROM}} [[Mihail Marin]]
+|-
+| 1995 || || XIII Obert || {{Banderes|ROM}} [[Mihail Marin]], (7)|| || 
+|-
+| 1996<ref>{{ref-web|url= http://www.365chess.com/tournaments/Andorra_op_14th_1996/13299| consulta=17 febrer 2015|títol=XIV Obert d'Andorra}}</ref> || || XIV Obert || {{Banderes|ISR}} [[Lev Psakhis]], (7)|| {{Banderes|ROM}} [[Mihail Marin]] || {{Banderes|CAT}} [[Jordi Magem Badals]]
+|-
+| 1997<ref>{{ref-web|url= http://www.365chess.com/tournaments/Andorra_op_15th_1997/11880| consulta=17 febrer 2015|títol=XV Obert d'Andorra}}</ref> || || XV Obert || {{Banderes|ROM}} [[Mihail Marin]], (7) || {{Banderes|ESP}} [[Elizbar Ubilava]] || {{Banderes|ISR}} [[Lev Psakhis]]
+|-
+| 1998<ref>{{ref-web|url= http://www.365chess.com/tournaments/Andorra_op_16th_1998/10079| consulta=17 febrer 2015|títol=XVI Obert d'Andorra}}</ref> || || XVI Obert || {{Banderes|GBR}} [[Anthony Miles]], (6.5) || {{Banderes|CAT}} [[Jordi Magem i Badals]] || {{Banderes|AND}} [[Òscar de la Riva Aguado]]
+|-
+| 1999<ref>{{ref-web|url= http://www.365chess.com/tournaments/Andorra_op_17th_1999/8236| consulta=17 febrer 2015|títol=XVII Obert d'Andorra}}</ref> || || XVII Obert || {{Banderes|QAT}} [[Mohamad Al-Modiahki]], (7.5) || {{Banderes|ROM}} [[Mihail Marin]] || {{Banderes|BUL}} [[Aleksandr Dèltxev]]
+|-
+| 2000 || || XVIII Obert || {{Banderes|ISR}} [[Lev Psakhis]], (7.5) || || 
+|-
+| 2001<ref>{{ref-web|url= http://ratings.fide.com/tournament_details.phtml?event=19614| consulta=17 febrer 2015|títol=XIX Obert d'Andorra| editor=fide.com}}</ref> || 30 juny || XIX Obert || {{Banderes|BUL}} [[Antoaneta Stefanova]], (7)|| {{Banderes|ISR}} [[Victor Mikhalevski]] || {{Banderes|ARG}} [[Daniel Hugo Cámpora Sívori|Daniel H. Cámpora]]
+|-
+| 2002<ref>{{ref-web|url= http://ratings.fide.com/tournament_details.phtml?event=22312| consulta=16 febrer 2015|títol=Classificació final del XX Obert| editor=fide.com}}</ref> || Del 6 al 14 de juliol || XX Obert || {{Banderes|ISR}} [[Lev Psakhis]], (7.5) || {{Banderes|ISR}} [[Boris Avrukh]] || {{Banderes|CUB}} [[Reynaldo Vera González-Quevedo|Reynaldo Vera]]
+|-
+| 2003<ref>{{ref-web|url= http://ratings.fide.com/tournament_details.phtml?event=25722| consulta=16 febrer 2015|títol=Classificació final edició 2003| editor=fide.com}}</ref> || Del 5 al 13 de juliol || XXI Obert || {{Banderes|ROU}} [[Liviu-Dieter Nisipeanu]], (7.5) || {{Banderes|GER}} [[Ígor Khenkin]] || {{Banderes|UKR}} [[Pàvel Eliànov]]
+|-
+| 2004<ref>{{ref-web|url= http://pro.chessmix.com/chess-games/tournaments/Andorra%2Bla%2BVella%2BAND%252C%2B22nd%2BOpen.html| consulta=16 febrer 2015|títol=Classificació final edició del 2004}}</ref> || Del 3 a l'11 de juliol || XXII Obert || {{Banderes|GER}} [[Ígor Khenkin]], (7) || {{Banderes|FRA}} [[Laurent Fressinet]] || {{Banderes|SRB}} [[Branko Damljanovic]]
+|-
+| 2005<ref>{{ref-web|url= http://ratings.fide.com/tournament_details.phtml?event=33041| consulta=16 febrer 2015|títol=Classificació final edició 2005| editor=fide.com}}</ref> || Del 9 al 17 de juliol || XXIII Obert || {{Banderes|ARG}} [[Fernando Peralta (jugador d'escacs)|Fernando Peralta]], (7) || {{Banderes|SRB}} [[Branko Damljanovic]] || {{Banderes|FIN}} [[Heikki Kallio]]
+|-
+| 2006<ref>{{ref-web|url= http://chesslodge.blogspot.com.es/2006/07/igor-khenkin-wins-andorra-open.html| consulta=5 octubre 2014|títol=Ígor Khenkin guanya l'Obert d'Andorra}}</ref><ref>{{ref-web|url= http://ratings.fide.com/tournament_details.phtml?event=3459| consulta=16 febrer 2015|títol=Classificació final edició 2006| editor=fide.com}}</ref> || Del 8 al 16 de juliol || XXIV Obert || {{Banderes|GEO}} [[Ígor Khenkin]], (7) || {{Banderes|SRB}} [[Branko Damljanovic]] || {{Banderes|POR}} [[Luís Galego]]
+|-
+| 2007<ref>{{ref-web|url= http://ratings.fide.com/tournament_report.phtml?event16=9426| consulta=16 febrer 2015|títol=Classificació edició 2007| editor=fide.com}}</ref> || Del 30 juny al 8 de juliol || XXV Obert || {{Banderes|SRB}} [[Branko Damljanovic]], (7.5) || {{Banderes|ISR}} [[Maxim Rodshtein]] || {{Banderes|ESP}} [[Salvador Gabriel Del Río Angelis]]
+|-
+| 2008<ref>{{ref-web| url=http://ratings.fide.com/tournament_report.phtml?event16=15372| consulta=16 febrer 2015| títol=Classificació edició 2008| editor=fide.com| arxiudata=2017-02-03| arxiuurl=https://web.archive.org/web/20170203173851/http://ratings.fide.com/tournament_report.phtml?event16=15372}}</ref> || Del 19 al 27 de juliol || XXVI Obert || {{Banderes|ENG}} [[David Howell]], (8) || {{Banderes|FRA}} [[Romain Édouard]] || {{Banderes|CAT}} [[Lluís Comas i Fabregó]]
+|-
+| 2009<ref>{{ref-web| url= http://chess-results.com/tnr23864.aspx?lan=9&art=1&rd=9&turdet=YES&wi=821 |títol= Resum resultats XXVII Obert | editor= chess-results.com| consulta= 20 d'agost de 2014}}</ref> || Del 18 al 26 de juliol || XXVII Obert || {{Banderes|FRA}} [[Romain Édouard]], (7.5) || {{Banderes|ROU}} [[Mihail Marin]] || {{Banderes|CAT}} [[Josep Manuel López Martínez]]
+|-
+| 2010<ref>{{ref-web| url= http://reports.chessdom.com/news-2010/andorra-chess-open| títol= Ressenya del XXIX Open per Chessdom| editor= web de chessdom.com| consulta= 31 de març de 2014| data= 28 de juliol de 2010| arxiuurl= https://web.archive.org/web/20140704025742/http://reports.chessdom.com/news-2010/andorra-chess-open| arxiudata= 2014-07-04}}</ref> || Del 17 al 25 de juliol || XXVIII Obert || {{Banderes|ISR}} [[Dan Zoler]], (7.5) || {{Banderes|CUB}} [[Lázaro Bruzón Batista]] || {{Banderes|FRA}} [[Hicham Hamdouchi]]
+|-
+| 2011<ref>{{ref-web| url= http://reports.chessdom.com/news-2011/kiril-georgiev-andorra-chess-open| títol= Ressenya del XXIX Open per Chessdom| editor= web de chessdom.com| consulta= 31 de març de 2014| data= 25 de juliol de 2011| arxiuurl= https://web.archive.org/web/20160303171433/http://reports.chessdom.com/news-2011/kiril-georgiev-andorra-chess-open| arxiudata= 2016-03-03}}</ref> || Del 16 al 24 de juliol || XXIX Obert || {{Banderes|BUL}} [[Kiril Gueorguiev]], (7.5)|| {{Banderes|ESP}} [[Julen Luís Arizmendi Martinez|Julen Arizmendi Martinez]] || {{Banderes|CAT}} [[Marc Narciso Dublan]]
+|-
+| 2012<ref>{{ref-web| url= http://www.chess.com/news/hammertime-at-the-30th-andorra-open-3266| títol= Ressenya del XXX Open per Chess.com| editor= web de chess.com| consulta= 31 de març de 2014| data= 6 d'agost de 2012| arxiudata= 2015-07-23| arxiuurl= https://web.archive.org/web/20150723043944/http://www.chess.com/news/hammertime-at-the-30th-andorra-open-3266}}</ref> || Del 21 al 29 de juliol || XXX Obert || {{Banderes|NOR}} [[Jon Ludvig Hammer]], (7) || {{Banderes|BUL}} [[Kiril Gueorguiev]] || {{Banderes|CAT}} [[Miquel Illescas i Córdoba]]
+|-
+| 2013<ref>{{ref-web| url= http://susanpolgar.blogspot.com.es/2013/07/andrey-vovk-wins-31st-andorra-open.html |títol= Ressenya del XXXI Open per Susan Polgar | editor= Blog de la Susan Polgar| consulta= 31 de març de 2014| data= 31 de juliol de 2013}}</ref> || Del 20 al 28 de juliol || XXXI Obert || {{Banderes|UKR}} [[Andrey Vovk]], (7.5) || {{Banderes|ISR}} [[Maxim Rodshtein]] || {{Banderes|ESP}} [[Renier Vazquez Igarza]]
+|-
+| 2014<ref>{{ref-web| url= http://chess-results.com/tnr23864.aspx?lan=9&art=1&rd=9&turdet=YES&wi=821 |títol= Resum resultats XXXII Obert | editor= chess-results.com| consulta= 20 d'agost de 2014}}</ref> || Del 19 al 27 de juliol || XXXII Obert || {{Banderes|PER}} [[Julio Granda Zúñiga]], (7.5) || {{Banderes|FRA}} [[Adrien Demuth]] || {{Banderes|FRA}} [[Yannick Gozzoli]]
+|-
+| 2015<ref>{{ref-web|url= http://www.chessdom.com/julio-granda-zuniga-repeats-success-in-andorra-open/| consulta=27 juliol 2015|títol=Julio Granda Zuniga repeats success in Andorra Open| editor=chessdom.com}} {{en}}</ref><ref>{{ref-web| url= http://chess-results.com/tnr180992.aspx?lan=9&art=1&rd=9&flag=30&wi=821 |títol= Resum resultats XXXIII Obert | editor= chess-results.com| consulta= 17 juliol de 2015}}</ref> || Del 18 al 26 de juliol || XXXIII Obert || {{Banderes|PER}} [[Julio Granda Zúñiga]], (8) || {{Banderes|UKR}} [[Andrey Vovk]] || {{Banderes|UKR}} [[Yuri Vovk]]
+|-
+| 2016<ref>{{ref-web|url= http://es.chessbase.com/post/abierto-de-andorra-2016| consulta=10 agost 2016|títol=Abierto de Andorra 2016| editor=chessbase.com}}</ref><ref>{{ref-web| url=http://es.chessbase.com/post/jorge-cori-gana-abierto-de-andorra-2016| consulta=12 agost 2016| títol=Jorge Cori gana Abierto de Andorra 2016| editor=chessbase.com}}{{Enllaç no actiu|bot=InternetArchiveBot |data=2021}}</ref><ref>{{ref-web|url= http://chess-results.com/tnr230438.aspx?lan=9&art=1&rd=9&flag=30&wi=821| consulta=11 agost 2016|títol=34 Andorra Open| editor=http://chess-results.com}}</ref> || Del 3 a l'11 d'agost || XXXIV Obert || {{Banderes|PER}} [[Jorge Cori Tello]], (7.5) || {{Banderes|PER}} [[Julio Granda Zúñiga]] || {{Banderes|FRA}} [[Maxime Lagarde]]
+|-
+| 2017<ref>{{ref-web|url= https://es.chessbase.com/post/manuel-pena-gana-abierto-de-andorra-2017| consulta= 24 novembre 2017|títol=Manuel Pena fue el mejor de tres en Andorra| editor=chessbase.com}} {{es}}</ref><ref>{{ref-web|url= http://chess-results.com/tnr292491.aspx?lan=9&art=1&rd=9&wi=821&turdet=YES| consulta= 24 novembre 2017|títol=35 Open Internacional d'Andorra| editor=chess-results.com}}</ref> || Del 22 al 30 de juliol || XXXV Obert || {{Banderes|ESP}} [[Manuel Peña Gomez]], (7.5) || {{Banderes|ESP}} [[Daniel Forcén Esteban]] || {{Banderes|ISR}} [[Alexander Kaspi]]
+|-
+|2018<ref>{{Ref-web|títol=Andorra open 2018 – Ronda 09 {{!}} Andorra Chess Open 2020|url= https://open.escacsandorra.com/2018/07/29/andorra-open-2018-ronda-09/| consulta= 9 de març de 2021}}</ref>
+|Del 21 al 29 de juliol
+|XXXVI Obert
+|{{Banderes|Països Baixos}} [[Miguoel Admiraal]], (7.5)
+|{{Banderes|FRA}} [[Maxime Lagarde]]
+|{{Banderes|ISR}} [[Evgeny Postny]]
+|-
+|2019<ref>{{Ref-web|títol=Andorra open 2019 – Ronda 09 {{!}} Andorra Chess Open 2020|url= https://open.escacsandorra.com/2019/08/04/andorra-open-2019-ronda-09/| consulta= 9 de març de 2021}}</ref>
+|Del 27 de juliol al 4 d'agost
+|XXXVII Obert
+|{{Banderes|FRA}} [[Maxime Lagarde]], (8.5)
+|{{Banderes|ESP}} [[Julen Luis Arizmendi Martínez|Julen Luis Arizmendi Martinez]]
+|{{Banderes|DEN}} [[Jesper Søndergaard Thybo]]
+|-
+|2022<ref>[https://s3.chess-results.com/tnr644761.aspx?lan=2&art=4&flag=30&SNode=SO Andorra Chess Open 2022]</ref> || || XXXVIII Obert || {{Banderes|IND}} [[Panneerselvam Iniyan]], (7) || ||
+|-
+|2023<ref>[https://s3.chess-results.com/tnr752885.aspx?lan=2&art=4&flag=30&SNode=SO Andorra Chess Open 2023]</ref> ||  || XXXIX Obert || {{Banderes|UKR}} [[Andrey Sumets]], (7) || ||
+|-
+|2024<ref>[https://s3.chess-results.com/tnr896285.aspx?lan=2&art=4&turdet=YES&flag=30&SNode=SO Andorra Chess Open 2024]</ref> || || XL Obert || {{Banderes|CHI}} [[Cristóbal Henriquez]], (7.5) || ||
+|-
+|2025<ref>[https://s3.chess-results.com/tnr1122408.aspx?lan=2&art=4&turdet=YES&flag=30&SNode=SO Andorra Chess Open 2025]</ref> || || XLI Obert || {{Banderes|NOR}} [[Aryan Tari]], (7) || ||
+|-
+|}
+
+== Referències ==
+{{Referències}}
+
+== Enllaços externs ==
+* [http://www.escacsandorra.com Lloc web de la Federació d'Escacs de les Valls d'Andorra]
+
+[[Categoria:Competicions esportives a Andorra|Andorra]]
+[[Categoria:Escacs al segle XX|Andorra]]
+[[Categoria:Escacs al segle XXI|Andorra]]
+[[Categoria:Circuit Català d'Oberts Internacionals d'Escacs|Andorra]]
+[[Categoria:Escacs a Andorra]]
+[[Categoria:Competicions d'escacs als Països Catalans]]

@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**653** documents · **128** fonts · **0** aptes com a model de llengua · **116** temes amb contingut.
+**661** documents · **129** fonts · **0** aptes com a model de llengua · **117** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -277,10 +277,20 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Andorra als Jocs Olímpics](temes/esports/competicio/andorra-als-jocs-olimpics.md) | `temes/esports/competicio` | compilada | contemporania | no | `wikipedia-esport-andorra` |
+| [El Comitè Olímpic Andorrà](temes/esports/competicio/el-comite-olimpic.md) | `temes/esports/competicio` | compilada | contemporania | no | `wikipedia-escacs-andorra` |
 | [Els abanderats](temes/esports/competicio/els-abanderats.md) | `temes/esports/competicio` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Els altres Jocs](temes/esports/competicio/els-altres-jocs.md) | `temes/esports/competicio` | compilada | contemporania | no | `wikipedia-jocs-andorra` |
 | [Els Jocs dels Petits Estats d'Europa](temes/esports/competicio/els-jocs-dels-petits-estats.md) | `temes/esports/competicio` | compilada | contemporania | no | `gelabert-jocs-petits-estats` |
 | [La llei de l'esport](temes/esports/competicio/la-llei-de-lesport.md) | `temes/esports/competicio` | compilada | contemporania | no | `jurisprudencia-ad` |
+
+## temes/esports/escacs
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [El Campionat d'Andorra d'escacs](temes/esports/escacs/el-campionat.md) | `temes/esports/escacs` | compilada | contemporania | no | `wikipedia-escacs-andorra` |
+| [La Federació d'Escacs Vall d'Andorra](temes/esports/escacs/la-federacio.md) | `temes/esports/escacs` | compilada | contemporania | no | `wikipedia-escacs-andorra` |
+| [L'Obert Internacional d'Escacs d'Andorra](temes/esports/escacs/lobert-internacional.md) | `temes/esports/escacs` | compilada | contemporania | no | `wikipedia-escacs-andorra` |
+| [Òscar de la Riva i Aguado](temes/esports/escacs/oscar-de-la-riva.md) | `temes/esports/escacs` | compilada | contemporania | no | `wikipedia-escacs-andorra` |
 
 ## temes/esports/esqui
 
@@ -537,7 +547,9 @@
 | [Els dotze campions a casa: Andorra, 2000](temes/esports/seleccions/els-dotze-campions-a-casa-del-2000.md) | `temes/esports/seleccions` | compilada | contemporania | no | `fiba-andorra-basquet-2000` |
 | [Els dotze campions del 2024](temes/esports/seleccions/els-dotze-campions-del-2024.md) | `temes/esports/seleccions` | compilada | contemporania | no | `fiba-andorra-basquet-2024` |
 | [Els dotze de la primera final: Andorra, 2004](temes/esports/seleccions/els-dotze-de-la-primera-final-del-2004.md) | `temes/esports/seleccions` | compilada | contemporania | no | `fiba-andorra-basquet-2004` |
+| [L'handbol](temes/esports/seleccions/lhandbol.md) | `temes/esports/seleccions` | compilada | contemporania | no | `wikipedia-escacs-andorra` |
 | [L'hoquei gel: un 12-0 i un 24-2](temes/esports/seleccions/lhoquei-gel.md) | `temes/esports/seleccions` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [L'hoquei sobre patins: dos campionats del món i una setena plaça mundial](temes/esports/seleccions/lhoquei-patins.md) | `temes/esports/seleccions` | compilada | contemporania | no | `wikipedia-escacs-andorra` |
 
 ## temes/gastronomia/begudes
 
@@ -1204,6 +1216,7 @@
 | [Com funciona tot](temes/vida-quotidiana/com-funciona-tot/com-funciona-tot.md) | `temes/vida-quotidiana/com-funciona-tot` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 | [Comprar i reclamar](temes/vida-quotidiana/com-funciona-tot/comprar-i-reclamar.md) | `temes/vida-quotidiana/com-funciona-tot` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Conduir a Andorra](temes/vida-quotidiana/com-funciona-tot/conduir-a-andorra.md) | `temes/vida-quotidiana/com-funciona-tot` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [Què costa una multa](temes/vida-quotidiana/com-funciona-tot/que-costa-una-multa.md) | `temes/vida-quotidiana/com-funciona-tot` | compilada | contemporania | no | `jurisprudencia-ad` |
 
 ## temes/vida-quotidiana/convencions-socials
 
@@ -1364,6 +1377,7 @@
 | [`viquipedia-ca`](fonts/viquipedia-ca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-art-andorra`](fonts/wikipedia-art-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-atletes-andorrans`](fonts/wikipedia-atletes-andorrans.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-escacs-andorra`](fonts/wikipedia-escacs-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-esport-andorra`](fonts/wikipedia-esport-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-esquiadors-andorrans`](fonts/wikipedia-esquiadors-andorrans.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-futbol-femeni-andorra`](fonts/wikipedia-futbol-femeni-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

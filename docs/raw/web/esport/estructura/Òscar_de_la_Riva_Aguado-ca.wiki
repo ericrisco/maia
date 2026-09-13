@@ -1,0 +1,67 @@
+{{Infotaula persona
+| nacionalitat = {{CAT}}<br />{{AND}}
+| ocupacio = [[Jugador d'escacs]]
+| titol_personal = [[Gran Mestre Internacional|Gran Mestre]] (2004)<br />2 cops [[Campionat de Catalunya d'escacs|Campió de Catalunya]]<br />1 cop [[Campionat d'Espanya d'escacs|Campió d'Espanya]] (2003)<br/>6 cops [[Campionat d'escacs d'Andorra|Campió d'Andorra]]
+}}
+'''Òscar de la Riva Aguado''', ([[Barcelona]], [[17 de juliol]] el [[1972]]) és un jugador d'[[escacs]] [[Catalans|català]], que té el títol de [[Gran Mestre Internacional|Gran Mestre]] des de 2004; juga representant la Federació Andorrana des de 2000.<ref name="CGbio">{{ref-web |url= http://www.chessgames.com/perl/chessplayer?pid=49948 |títol=Nota biogràfica d{{'}}Òscar de la Riva Aguado| consulta= 8 de maig de 2011 | editor= Chessgames.com |llengua= anglès}}</ref><ref>{{ref-web |url= http://ratings.fide.com/id.phtml?event=6900224
+|títol=Fitxa d{{'}}Òscar de la Riva Aguado| consulta= 8 de maig de 2011 | editor= Fide.com |llengua= anglès}}</ref> Va obtenir molts èxits a nivell català i espanyol en les seves etapes infantil i juvenil. Obtingué el títol de [[Mestre Internacional]] el 1994, i el de [[Gran Mestre Internacional|Gran Mestre]] el 2004. Va ser guardonat el 1989 amb la ''Insígnia de Plata'' de la [[Federació Catalana d'Escacs]].<ref>{{ref-web | url= http://www.escacs.cat/historia/guardons.htm | títol= Historial de guardons de la FCE | consulta= 8 de maig de 2011 | editor= Federació Catalana d'escacs | arxiuurl= https://web.archive.org/web/20100123193716/http://escacs.cat/historia/guardons.htm | arxiudata= 2010-01-23 }}</ref>
+
+A la [[Llista FIDE|llista d'Elo]] de la [[FIDE]] de l'abril de 2022, hi tenia un [[Elo]] de 2429 punts, cosa que en feia el jugador número 3 (en actiu) d'Andorra.<ref>{{ref-web |url= http://ratings.fide.com/topfed.phtml?ina=1&country=AND |títol= "Rànquing d'escaquistes per federació: Andorra" |editor= lloc web de la [[FIDE]] |consulta= 24 d'abril de 2022 |llengua= anglès }}{{Enllaç no actiu|date=d'agost 2025 |bot=InternetArchiveBot }}</ref> El seu màxim Elo va ser de 2556 punts, a la llista d'abril de 2004 (posició 265 al rànquing mundial).<ref>Posició al rànquing mundial i evolució Elo d{{'}}Òscar de la Riva Aguado {{ref-web |url= http://www.benoni.de/schach/elo/his_e.html?id=6900224 |títol= benoni.de | consulta= 8 de maig de 2011 |arxiuurl= https://web.archive.org/web/20141006174826/http://www.benoni.de/schach/elo/his_e.html?id=6900224 |arxiudata= 2014-10-06 }} {{de}}</ref>
+
+== Resultats destacats en competició ==
+De la Riva es proclamà [[Campionat de Catalunya d'escacs|Campió de Catalunya absolut]] en dues ocasions, els anys 1990 i 1992. El [[2003]] va guanyar el [[Campionat d'Espanya d'escacs]], a [[Burgos]], tot vencent en el desempat de la final a [[Gabriel del Rio]] per 2-0, després d'eliminar en [[Miquel Illescas Córdoba|Miquel Illescas]] en semifinals.
+
+El 2005 participà en el fortíssim XV Torneig de [[Pamplona]] ([[Categoria d'un torneig d'escacs|Categoria XVI]]), on hi era de llarg el jugador amb pitjor rànquing, i hi acabà en darrer lloc (el campió fou [[Ruslan Ponomariov]]).<ref>{{ref-web | url= http://www.chesscenter.com/twic/twic582.html#4 | editor= [[The Week in Chess]] 582 | llengua= anglès | consulta= 22 de novembre de 2011 | títol= Torneig de Pamplona 2005, classificació final | cognom= Weeks | nom= Mark | arxiuurl= https://web.archive.org/web/20090104162036/http://www.chesscenter.com/twic/twic582.html#4 | arxiudata= 2009-01-04 }}</ref><ref>{{ref-web | url= http://www.chesspamplona.com/Oberena05/castellano.htm | títol= Pàgina oficial del Torneig d'escacs de Pamplona - Oberena | llengua= castellà | consulta= 22 de novembre de 2011 | arxiuurl= https://web.archive.org/web/20120121013310/http://www.chesspamplona.com/Oberena05/castellano.htm | arxiudata= 2012-01-21 }}</ref>
+
+Ha estat sis cops [[Campionat d'escacs d'Andorra|campió absolut d'Andorra]] en els anys 2000, 2001, 2007, 2012, 2014 i 2015.<ref>{{ref-web|url= http://www.ajedrezdeataque.com/05%20Palmares/Campeonatos/Nacionales/Europa/Andorra.htm| consulta=7 abril 2016|títol=Historial campions d'Andorra}}</ref><ref>{{ref-web|url= http://www.chessgames.com/player/oscar_de_la_riva_aguado.html| consulta=16 febrer 2015|títol=Biografia Òscar de la Riva| editor=chessgames.com}}</ref><ref>{{ref-web|url= http://www.chess-results.com/tnr84732.aspx?lan=1&art=1&wi=821| consulta=16 febrer 2015|títol=Resultats i classificació edició 2012| editor=chess-results.com}}</ref><ref>{{ref-web|url= http://www.chess-results.com/tnr148949.aspx?lan=1&art=1&wi=821| consulta=16 febrer 2015|títol=Oscar de la Riva, campió 2014| editor=chess-results.com}}</ref><ref>{{ref-web|url= http://chess-results.com/tnr191478.aspx?lan=2&art=1&wi=821| consulta=7 abril 2016|títol=Absolut d'Andorra 2015| editor=chess-results.com}}</ref>
+
+=== Participació en olimpíades d'escacs ===
+De la Riva ha participat, representant Andorra, en set [[Olimpíades d'escacs]] entre els anys 2000 i 2012 (sempre com a 1r tauler), amb un resultat de (+38 =36 –7),<ref name="matx">La notació <nowiki>(+x -y =z)</nowiki> vol dir que el primer jugador va guanyar x partides, en va perdre y, i va fer [[Reglament dels escacs#Les taules|taules]] en z.</ref> per un 69,1% de la puntuació.
+
+== Vegeu també ==
+* [[Llista de Grans Mestres espanyols|Llista de Grans Mestres amb nacionalitat espanyola]]
+
+== Notes i referències ==
+{{Referències}}
+
+== Enllaços externs ==
+{{commonscat}}
+
+* Estimació Elo d{{'}}Òscar de la Riva Aguado a {{ref-web |url= http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S027797000000111000000000005010100 |títol= chessmetrics.com | consulta=8 de maig de 2011}} {{en}}
+
+{{inicia taula}}
+{{s-ach|awards}}
+{{filera de successions|
+ títol= [[Campionat de Catalunya d'escacs|Campió de Catalunya]] |
+ abans= [[Alexandre Pablo Marí|Alexandre Pablo]] |
+ després= [[Josep Collado i Forner|Josep Collado]] |
+ anys= 1990|
+}}
+{{filera de successions|
+ títol= [[Campionat de Catalunya d'escacs|Campió de Catalunya]] |
+ abans= [[Josep Collado i Forner|Josep Collado]] |
+ després= [[Marc Narciso Dublan|Marc Narciso]] |
+ anys= 1992|
+}}
+{{filera de successions|
+ títol= [[Campionat d'Espanya d'escacs|Campió d'Espanya]] |
+ abans= [[Aleksei Xírov]] |
+ després= [[Miquel Illescas Córdoba|Miquel Illescas]] |
+ anys= 2003|
+}}
+{{finalitza taula}}
+
+{{Grans Mestres dels Països Catalans}}
+{{Grans Mestres amb nacionalitat espanyola}}
+
+{{Autoritat}}
+
+{{ORDENA:De La Riva Aguado, Oscar}}
+[[Categoria:Grans Mestres d'escacs barcelonins]]
+[[Categoria:Jugadors d'escacs catalans del sud de la dècada del 1990]]
+[[Categoria:Jugadors d'escacs catalans del sud de la dècada del 2000]]
+[[Categoria:Jugadors d'escacs catalans del sud de la dècada del 2010]]
+[[Categoria:Competidors en les olimpíades d'escacs]]
+[[Categoria:Jugadors d'escacs andorrans]]
+[[Categoria:Jugadors d'escacs catalans del sud de la dècada del 2020]]
+[[Categoria:Naixements del 1972]]
