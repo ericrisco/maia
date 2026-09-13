@@ -1256,6 +1256,15 @@ plantes, més de 3.000 SNP i 189 associacions sobre 151 marcadors, però tampoc
 publica la clau de `CARLA 20/2`.
 [Circuit perfumista i límit genòmic](dreyfus-schmidt/yvonne-kahn/jacques-dreyfus-schmidt/baume-des-anges/carla/carla-circuit-perfumeria-i-dades-genomiques-2009-2026.md).
 
+Els resums dels mémoires GENOLAVANDE 2018–2020 precisen l'escala: el catàleg
+passà de 47 a 30 i després 25 descriptors, aplicats el 2020 a 384 individus en
+tres llocs. No exposen codis ni filiacions. SELAV obrí el 2023 una branca nova
+amb assajos clonals «tipus Maillette i Carla», mentre el predesenvolupament de
+Mila2, Eternelle2 i Astra contra Rapido era una branca de poblacions polycross.
+El resum de *L'Essentiel* 125 (2026) diu que Astra sembla destacar, però no és
+un resultat de l'assaig Carla. El compte AMELAV 2024 que podria resoldre aquesta
+qüestió té 72 pàgines i només és accessible amb autenticació al CRIEPPAM.
+
 La recepció de 2017 revela després com aquell material agronòmic es convertí en
 relat. En una entrevista a *Basenotes*, Thierry Wasser atribuïa a Baume la seva
 descoberta de Carla, però la peça confonia la població de *L. angustifolia* amb
