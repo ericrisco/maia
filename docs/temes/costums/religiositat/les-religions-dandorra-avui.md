@@ -102,12 +102,112 @@ fogueres de Sant Joan**» — dues de les quals **el corpus ja té fitxades**
 **El costumari andorrà d'avui es forma amb aportacions datades i recents, i es
 pot dir de quin any és cadascuna.**
 
+## El que una segona font hi afegeix
+
+**Afegit el 2026-09-13**, de
+[la Viquipèdia en català](../../../fonts/wikipedia-religio-andorra.md).
+
+### La mesquita: no és que no n'hi hagi, és que se'n va demanar i es va dir que no
+
+> **«La comunitat musulmana andorrana havia demanat al govern andorrà reiterades
+> vegades que l'ajudés a construir una mesquita, però la resposta sempre va ser
+> negativa. La comunitat jueva, musulmana i bahá'í també demanaven la
+> construcció d'un cementiri no cristià, que mai va arribar.»**
+
+**Això canvia la naturalesa del buit que aquesta fitxa tenia obert.** **No és una
+absència de dada: és una decisió documentada.** **I no afecta només els
+musulmans: tres confessions van demanar un cementiri no cristià i no el van
+tenir.**
+
+**El corpus no ha vist la font primària d'aquesta afirmació** i **la registra
+com a declarada.** **Buit: quan es van fer les peticions, a qui, i amb quina
+resposta escrita.**
+
+### El favoritisme, mesurat
+
+**El CRES (revista *Ciutadans*, núm. 10) mesura un «índex de favoritisme
+religiós» que a Andorra va passar de 5,7 el 2003 a 7 el 2008** — **tres punts
+amunt en cinc anys** — i **diu que «una religió té privilegis o l'accés del
+govern no està disponible per a altres religions».**
+
+**La base jurídica és l'article 11 de la Constitució**, que **garanteix la
+llibertat religiosa i alhora garanteix a l'Església Catòlica «l'exercici lliure
+i públic de les seves activitats i el manteniment de les relacions de
+col·laboració especial amb l'Estat d'acord amb la tradició andorrana»**, amb
+**personalitat jurídica pròpia**. Vegeu
+[la Constitució de 1993](../../historia/constitucio-1993/constitucio-1993.md).
+
+### Què diuen els andorrans que creuen
+
+**Estudi del CRES publicat a *Ciutadans* núm. 10 (2013):**
+
+| | |
+| --- | --- |
+| **El fet religiós és bastant o molt important** | **30%** |
+| **És poc o gens important** | **70%** |
+| **Se senten religiosos** | **48%** |
+| **Se senten «no religiosos»** | **37,5%** |
+| **«Ateus convençuts»** | **14,2%** |
+
+**I la frase que el corpus reté**: **«Llevat de la cristiana catòlica, cap
+comunitat no té a Andorra l'any 2013 un centre de culte expressament
+dissenyat.»**
+
+### La població per nacionalitat i confessió
+
+**Font: Departament d'Estadística d'Andorra, via la Viquipèdia.** **La font
+mateixa avisa que «els resultats obtinguts no són complets» i que «es proposa
+una taula aproximativa».**
+
+| Nacionalitats | 2000 | 2005 | 2010 | Confessió |
+| --- | --- | --- | --- | --- |
+| andorrana, catalana, basca, francesa, espanyola, portuguesa | 61.478 | 72.696 | **77.837** | **catòlica** |
+| suïssa, britànica, alemanya, nord-americana, holandesa, danesa | 1.851 | 1.953 | **2.076** | **protestant** |
+| marroquina | 496 | 504 | **508** | **musulmana** |
+| índia | 114 | 133 | **103** | **hinduista** |
+
+**I una segona xifra de nacionalitats, sense any**: **marroquina 515, turca 112,
+pakistanesos 79.**
+
+> **Això dona una resposta parcial al buit número 2 d'aquesta fitxa**, que
+> preguntava d'on ve la població musulmana si no és majoritàriament marroquina.
+> **Les tres nacionalitats de tradició musulmana que la font identifica sumen
+> 706 persones.** **Les estimacions de població musulmana van de 1.000 (La
+> Vanguardia) a 2.000 (Departament d'Estat dels Estats Units, informe del
+> 2009).** **Falten entre tres-centes i mil tres-centes persones per explicar**,
+> i **la conclusió que el corpus ja havia marcat com a seva es manté: la
+> comunitat musulmana d'Andorra no és, majoritàriament, marroquina.**
+
+**La font declara també que «llevat d'aquestes dades aproximatives no hi ha cap
+cens»**, cosa que **concorda amb el que aquesta fitxa ja tenia**: **l'article
+11.1 de la Constitució diu que ningú no pot ser obligat a declarar la seva
+religió.**
+
+### I una dada arqueològica
+
+> **«S'han trobat objectes a necròpolis situades prop d'esglésies romàniques amb
+> filiació islàmica, fet que porta a pensar en una presència a la vora de
+> musulmans.»**
+
+**La font no afirma que hi hagués musulmans a Andorra a l'alta edat mitjana** —
+**diu «no se sap del cert»**— i **tampoc no pot afirmar que Andorra estigués sota
+control visigot.** **El corpus ho registra tal com és: objectes de filiació
+islàmica en necròpolis andorranes, i cap conclusió.**
+
+**Això s'ha de llegir contra el que
+[Montserrat Palau i Martí](../../persones/montserrat-palau-marti.md) sostenia**,
+recollit a [la fitxa de la seva ponència](../../../fonts/palau-marti-identitat-andorrana-1994.md):
+**«és poc probable que [els sarraïns] haguessin mai ocupat les valls andorranes,
+malgrat el que pugui dir l'autor del Manual Digest».** **Ocupar i ser-hi a prop
+no són el mateix, i cap de les dues fonts no contradiu l'altra.**
+
 ## Buits registrats
 
 1. **Si hi ha mesquita o sala d'oració musulmana a Andorra.** **Prioritari**, i
    **ara se sap on mirar**: des del 2025, el **Registre d'entitats religioses** ha
    de fer constar «**el lloc o llocs de culte al Principat**» de cada entitat
-   inscrita, i és públic.
+   inscrita, i és públic. **I ara se sap també que se n'havia demanat una i que
+   el Govern hi va dir que no, reiteradament.**
 2. **D'on ve la població musulmana**, si no és majoritàriament marroquina.
 3. **Xifres oficials de confessions.** Les dues que hi ha són estimacions de
    premsa — i **no n'hi pot haver de censals**: l'article 11.1 de la Constitució

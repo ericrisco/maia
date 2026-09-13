@@ -1,0 +1,23 @@
+{{Infotaula persona}}
+'''Ferran Palau i Martí''' és un matemàtic i lingüista [[Catalunya|català]], autor d'estudis sobre el rendiment funcional de les oposicions fonològiques i de les dificultats que plantegen les preposicions ''per'' i ''per a''. És membre de l'[[Associació Internacional de Llengua i Literatura Catalanes]].<ref>{{Ref-llibre|cognom = Massot i Muntaner|nom = Josep (ed.)|títol=Repertori de catalanòfils|data = 1984|editorial = L'Abadia de Montserrat|lloc = Barcelona|pàgines = 57|isbn = 9788472026452|capítol = 134. Palau i Martí, Ferran. Professor|volum = volum 2|enllaçautor = Josep Massot i Muntaner}}</ref> El 1968 va rebre el Premi Carles Cardó d'assaig per ''Introducció a la matemàtica''.<ref>{{Ref-publicació|article = Una mica de tot|publicació = Serra d'Or|data = Agost 1968|pàgines = 6|volum = volum X|exemplar = n°107}}</ref> Actualment, és un dels col·laboradors de la ''[[Gran Enciclopèdia Catalana]]''.<ref>{{ref-web|url=http://www.enciclopedia.cat/obra/enciclopedia/gran-enciclopedia-catalana|consulta=2 desembre 2015|títol=Relació de col·laboradors i equip editorial. Col·laboradors (i signatures abreujades): Palau i Martí, Ferran (FPaM)|obra=GEC (Gran enciclopèdia catalana)}}</ref>
+
+== Obres ==
+* ''El problema de les preposicions "per" i "per a", comparació amb altres llengües romàniques'' ([[1976]])<ref>{{ref-llibre|cognom=Palau i Martí|nom=Ferran|títol=El problema de les preposicions "per" i "per a"|lloc=Barcelona|editorial=Barcino|any=1986|isbn=84-7226-605-2}}</ref>
+* {{Ref-llibre|títol=Actes del Tercer Col·loqui Internacional de Llengua i Literatura Catalanes|data = 1976|lloc = Oxford|pàgines = 141-171|capítol = Morfologia i accentologia del català central}}
+* {{Ref-publicació|article = Les prépositions catalanes «per, per a» exprimant la «cause» et la «finalité»|publicació = Iberica|data = 1977|pàgines = 217-234|llengua = francès}}
+* ''Introducció a la matemàtica''
+* ''Elements de matemàtica'' ([[1974]])
+* ''[[Bretanya]]'' ([[1992]])<ref>{{ref-llibre|cognom=Palau i Martí|nom=Ferran|títol=Bretanya|lloc=Lleida|editorial=Pagès editors|any=1992|isbn=84-7935-094-6}}</ref>
+* ''[[Alsàcia]]'' ([[1995]])<ref>{{ref-llibre|cognom=Palau i Martí|nom=Ferran|títol=Alsàcia|lloc=Lleida|editorial=Pagès editors|any=1995|isbn=84-7935-281-7}}</ref>
+* ''Phonologie du catalan et introduction à la morphologie'' (tesi doctoral) ([[2005]])<ref>{{ref-llibre|cognom=Palau-Martí|nom=Ferran|títol=Phonologie et introduction à la morphologie du catalan|lloc=París|editorial=Peeters Publishers|any=2005|isbn=9789042917132}}</ref>
+
+== Referències ==
+{{Referències}}
+
+{{Autoritat}}
+
+{{ORDENA:Palau Marti, Ferran}}
+[[Categoria:Matemàtics catalans del sud contemporanis]]
+[[Categoria:Matemàtics del segle XXI]]
+[[Categoria:Lingüistes catalans del sud contemporanis]]
+[[Categoria:Matemàtics nascuts al segle XX]]

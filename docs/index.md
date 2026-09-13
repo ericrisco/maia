@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**670** documents · **132** fonts · **0** aptes com a model de llengua · **118** temes amb contingut.
+**672** documents · **133** fonts · **0** aptes com a model de llengua · **118** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -193,6 +193,7 @@
 | [Muntar alguna cosa](temes/economia/comerc/muntar-alguna-cosa.md) | `temes/economia/comerc` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Quan el preu baixa](temes/economia/comerc/quan-el-preu-baixa.md) | `temes/economia/comerc` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Qui posava els preus](temes/economia/comerc/qui-posava-els-preus.md) | `temes/economia/comerc` | compilada | historica | no | `brutails-coutume-1904` |
+| [Qui respon d'una societat](temes/economia/comerc/qui-respon-duna-societat.md) | `temes/economia/comerc` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Vigilar i sancionar](temes/economia/comerc/vigilar-i-sancionar.md) | `temes/economia/comerc` | compilada | contemporania | no | `jurisprudencia-ad` |
 
 ## temes/economia/energia-i-serveis
@@ -937,6 +938,7 @@
 | [Jordi Gallardo Fernàndez](temes/persones/jordi-gallardo.md) | `temes/persones` | compilada | contemporania | no | `fiba-andorra-basquet-1998` |
 | [Julià Reig i Ribó](temes/persones/julia-reig.md) | `temes/persones` | compilada | contemporania | no | `bascompte-consell-de-la-terra` |
 | [Mònica Dòria Vilarrubla](temes/persones/monica-doria.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
+| [Montserrat Palau i Martí](temes/persones/montserrat-palau-marti.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-religio-andorra` |
 | [Nahuel Carabaña](temes/persones/nahuel-carabana.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
 | [Naiara Liñán](temes/persones/naiara-linan.md) | `temes/persones` | compilada | contemporania | no | `anaesports` |
 | [Òscar Ribas Reig](temes/persones/oscar-ribas-reig.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
@@ -1400,3 +1402,4 @@
 | [`wikipedia-futbol-femeni-andorra`](fonts/wikipedia-futbol-femeni-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-jocs-andorra`](fonts/wikipedia-jocs-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-politica-andorra`](fonts/wikipedia-politica-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-religio-andorra`](fonts/wikipedia-religio-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
