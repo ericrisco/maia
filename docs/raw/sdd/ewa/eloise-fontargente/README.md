@@ -1315,6 +1315,17 @@ explica el rerefons familiar comercial, però Pierre només tenia disset anys el
 Léopold Delvert de Cazillac en Léo, ni s'ha identificat Firmin amb el reclam,
 sense una baula nominal.
 
+Els censos oficials completen ara el marc domèstic. El del 05/03/1911 (`6 M
+239`, imatge 21) situa a rue Mercière Henri Delvert (1880), xarcuter, Maria
+Lacroix (1887), Marguerite (1909) i Lucie (1910): Pierre no hi podia aparèixer
+perquè nasqué quinze dies després. El de 1921 (`6 M 266`, imatge 18) conserva
+la mateixa adreça i descriu Henri com a **charcutier, patron**, amb vuit Delvert
+al nucli familiar i dues persones de servei domèstic. L'esposa hi consta com a
+Anne Delvert, nascuda el 1887; la continuïtat amb Maria Lacroix és probable
+per any, fills i domicili, però el canvi de nom no s'ha normalitzat com un fet.
+La nova prova reforça una xarcuteria familiar estable i independent, no la
+identificació encara absent entre Henri i `Léo`.
+
 La logística sindical també queda més definida. El local cadurcien de 1936 no
 podia emmagatzemar més de 150 kg de flor fresca al dia: era un límit d'espai,
 no de destil·lació. El nou taller de Cabazat, anunciat amb un alambí nominal de
