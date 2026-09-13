@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**688** documents · **137** fonts · **0** aptes com a model de llengua · **120** temes amb contingut.
+**689** documents · **138** fonts · **0** aptes com a model de llengua · **120** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -684,6 +684,7 @@
 | [De 1993 ençà](temes/historia/historia-recent/de-1993-enca.md) | `temes/historia/historia-recent` | compilada | contemporania | no | `viquipedia-ca` |
 | [Els aiguats del 1982](temes/historia/historia-recent/els-aiguats-del-1982.md) | `temes/historia/historia-recent` | compilada | contemporania | no | `wikipedia-aiguats-1982` |
 | [Els Anys Daurats](temes/historia/historia-recent/els-anys-daurats.md) | `temes/historia/historia-recent` | compilada | contemporania | no | `wikipedia-anys-daurats` |
+| [La Transició Nacional](temes/historia/historia-recent/la-transicio-nacional.md) | `temes/historia/historia-recent` | compilada | contemporania | no | `wikipedia-transicio-nacional` |
 | [La visita del copríncep De Gaulle (1967)](temes/historia/historia-recent/la-visita-de-de-gaulle.md) | `temes/historia/historia-recent` | compilada | contemporania | no | `wikipedia-anys-daurats` |
 
 ## temes/historia/historiografia
@@ -1433,3 +1434,4 @@
 | [`wikipedia-museus-andorra`](fonts/wikipedia-museus-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-politica-andorra`](fonts/wikipedia-politica-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-religio-andorra`](fonts/wikipedia-religio-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-transicio-nacional`](fonts/wikipedia-transicio-nacional.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

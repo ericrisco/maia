@@ -51,14 +51,36 @@ malament el país.
 
 ## El que falta
 
-El text de la Constitució article per article, el resultat exacte del referèndum,
-i el debat constituent. El Consell General publica la Constitució al seu portal:
-és font primària i encara no s'ha incorporat. **Buit registrat.**
+~~El resultat exacte del referèndum~~ — **tancat el 2026-09-13**:
+
+| | |
+| --- | --- |
+| **Sí** | **70,95 %** |
+| No | 24,68 % |
+| Nuls i blancs | 4,35 % |
+| **Abstenció** | **24,25 %** |
+
+**I la pregunta, literal:** ***«Voteu a favor del Projecte de Constitució del
+Principat d'Andorra, elaborat en concertació amb els serveis dels Coprínceps i
+adoptat pel Consell General en sessió extraordinària celebrada el 2 de febrer del
+1993?»***
+
+**El debat constituent** té ara un relat, encara que sense referències
+puntuals: [la Transició Nacional](../historia-recent/la-transicio-nacional.md).
+**Hi surt que el Consell d'Europa va obligar França i Espanya a dotar Andorra
+d'una Constitució escrita per un expedient de drets humans**, i **que el bisbe
+de la Seu va amenaçar d'abandonar el títol de copríncep si el text no li donava
+més poder.** **Cap de les dues coses no està verificada en font primària.**
+
+**El que segueix obert**: **el text de la Constitució article per article**. El
+Consell General la publica al seu portal: **és font primària i encara no s'ha
+incorporat.** **Buit registrat.**
 
 ## Related
 
 - [El Coprincipat](../../institucions/coprincipat/el-coprincipat.md) — què en va quedar.
 - [Democratització](../democratitzacio/democratitzacio.md) — el camí fins aquí.
+- [La Transició Nacional](../historia-recent/la-transicio-nacional.md) — com s'hi va arribar, i qui hi va empènyer des de fora.
 - [El Consell General](../../institucions/consell-general/el-consell-general.md) — qui la va fer.
 - [La funció pública](../../institucions/govern/la-funcio-publica.md) — què va costar en persones construir l'estat que la Constitució formalitza.
 - [Andorra com a microestat](../../institucions/petits-estats/andorra-com-a-microestat.md) — abans del 1993, un «objecte jurídic no identificat».

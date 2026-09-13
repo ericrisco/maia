@@ -44,8 +44,15 @@ Les dues coses són certes.
 Els partits polítics i quan apareixen. ~~La majoria d'edat electoral.~~ **TANCADA
 per al 1933**: el Consell General va concedir els drets civils «a tots els
 andorrans **majors de 25 anys** d'edat i **residents habitualment a Andorra**»
-([per on van entrar les idees](./per-on-van-entrar-les-idees.md)). Queden obertes
-les rebaixes posteriors. El debat
+([per on van entrar les idees](./per-on-van-entrar-les-idees.md)). ~~Queden obertes
+les rebaixes posteriors.~~ — **una de tancada el 2026-09-13**: **el 1970 es
+rebaixa l'edat de vot a 21 anys**
+([els anys daurats](../historia-recent/els-anys-daurats.md)). **I una dada més
+gran**: **el sufragi universal masculí es va PROHIBIR el 1941**, obligant a
+tornar al sistema de la Nova Reforma, i **el copríncep francès el va restaurar**
+([la visita de De Gaulle](../historia-recent/la-visita-de-de-gaulle.md)). **Els
+anys cinquanta i seixanta no són anys de conquesta de drets nous: són anys de
+recuperació de drets perduts.** El debat
 social del 1970 — s'ha vist esmentada la lectura del sufragi femení com «una
 expressió del maig del 68 andorrà», que és una tesi interessant i necessita font
 i desenvolupament. **Buit registrat.**
