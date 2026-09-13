@@ -853,6 +853,16 @@ identifica els integrants ni mostra la imatge. Aquestes unitats poden fixar les
 dates de la presidència de Jacques; encara no s'han vist i no es pressuposa que
 ell surti a la fotografia.
 
+La segona sigla del currículum, «Ancien Président de l'U.S.B.», també es pot
+resoldre: era la **Union Sportive Belfortaine**, club poliesportiu laic fusionat
+el 1971 amb l'Association Sportive Patronale per formar l'ASMB. El catàleg
+conserva `3 Z 68`, fotografies i articles USB de 1920–1965, i `Br/2067`, el
+*Livre d'or sportif. Belfort: 1919-1966* editat per la mateixa USB el 1966.
+Cap notice anomena Jacques, però ambdues peces poden datar la seva presidència.
+Una història local situa després o durant una part dels anys seixanta un
+president Eich sense data precisa; és una successió per resoldre, no una raó
+per descartar el testimoni electoral.
+
 Un catàleg oficial dels Archives départementales du Doubs explica el pes del
 club: fundat el 1908, construí el refugi del Plain de la Gentiane, traçà pistes
 i senders i finançà per subscripció el remuntador del Grand Langenberg, muntat
