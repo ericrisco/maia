@@ -98,8 +98,12 @@ sexual per les muntanyes** i **els senyors premien els qui l'han mort**.
 Des d'aleshores la farsa **es desritualitza** i es converteix en **sàtira
 política anual** — «s'hi comenten i **se seguen els fets polítics de l'any**».
 
-**Buit que es manté:** **la música**, **els personatges un a un** i
-**l'argument a la resta de parròquies**.
+**Buit que es manté:** **la música** i **l'argument a la resta de
+parròquies**. **~~Els personatges un a un~~ — tancat el 2026-09-13** a
+[el ball de l'ossa d'Encamp](../danses/el-ball-de-lossa-dencamp.md), **que
+també hi registra dues discrepàncies: les dates d'Ordino d'aquesta fitxa no
+coincideixen amb les de la Viquipèdia, i els dos articles d'aquesta no
+coincideixen entre ells sobre la UNESCO.**
 
 ## La tercera farsa, que el corpus no tenia
 

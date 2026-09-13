@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**709** documents · **155** fonts · **0** aptes com a model de llengua · **121** temes amb contingut.
+**711** documents · **156** fonts · **0** aptes com a model de llengua · **121** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -22,6 +22,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Danses — índex](temes/costums/danses/danses.md) | `temes/costums/danses` | compilada | contemporania | no | `premsa-andorrana` |
+| [El ball de l'ossa d'Encamp](temes/costums/danses/el-ball-de-lossa-dencamp.md) | `temes/costums/danses` | compilada | contemporania | no | `wikipedia-ball-ossa-encamp` |
 | [El ball del Cerdà](temes/costums/danses/el-ball-del-cerda.md) | `temes/costums/danses` | compilada | contemporania | no | `premsa-andorrana` |
 | [El contrapàs](temes/costums/danses/el-contrapas.md) | `temes/costums/danses` | compilada | contemporania | no | `premsa-andorrana` |
 | [Els catorze balls](temes/costums/danses/els-catorze-balls.md) | `temes/costums/danses` | compilada | contemporania | no | `canturri-costumari-amades-1994` |
@@ -1162,6 +1163,7 @@
 | [La memòria de FHASA](temes/societat/treball/la-memoria-de-fhasa.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
 | [L'acomiadament lliure](temes/societat/treball/lacomiadament-lliure.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
 | [L'ajut per desocupació involuntària](temes/societat/treball/lajut-per-desocupacio-involuntaria.md) | `temes/societat/treball` | compilada | contemporania | no | `bopa-ad` |
+| [L'ajut per la feina que no havia començat](temes/societat/treball/lajut-per-la-feina-que-no-havia-comencat.md) | `temes/societat/treball` | compilada | contemporania | no | `bopa-ad` |
 | [L'ARA i el SAT](temes/societat/treball/lara-i-el-sat.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
 | [No tornar a casa ferit](temes/societat/treball/no-tornar-a-casa-ferit.md) | `temes/societat/treball` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Treball](temes/societat/treball/treball.md) | `temes/societat/treball` | compilada | contemporania | no | `iec-vocabulari-andorra` |
@@ -1453,6 +1455,7 @@
 | [`wikipedia-anys-daurats`](fonts/wikipedia-anys-daurats.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-art-andorra`](fonts/wikipedia-art-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-atletes-andorrans`](fonts/wikipedia-atletes-andorrans.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-ball-ossa-encamp`](fonts/wikipedia-ball-ossa-encamp.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-clubs-futbol-andorra`](fonts/wikipedia-clubs-futbol-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-constitucio-1934`](fonts/wikipedia-constitucio-1934.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-dama-blanca`](fonts/wikipedia-dama-blanca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
