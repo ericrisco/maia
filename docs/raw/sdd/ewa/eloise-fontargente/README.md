@@ -977,6 +977,42 @@ en registra finalment la **déchéance** amb data 05/05/2024. Aquesta data tanca
 el títol jurídic localitzat, no acredita el final de l'empresa ni de l'ús del
 dispositiu. [Publicació A1 i expedient](https://patents.google.com/patent/FR3010324A1/fr).
 
+La biografia dels inventors obre una capa anterior i regional. **Michel
+Silhol** ja havia compartit amb **Pierre Denis** i Claude Simeon la patent CEA
+**FR 2 629 677 A1**, presentada el 12/04/1988, sobre recuperació solar en
+hivernacles. L'exemple construït descriu una serra de 900 m², un bassí de 150
+m³ i resultats inicials del 50 % de captació i 60 % d'estalvi en calefacció a
+la latitud de **Pierrelatte**. La sèrie de patents atribuïda a Pierre Denis des
+dels anys setanta suggereix una trajectòria CEA en energia solar i agricultura;
+com que el nom pot tenir homònims, no totes les coincidències s'han convertit
+automàticament en una sola persona. [Patent solar](https://patents.google.com/patent/FR2629677A1/fr).
+
+CORDIS situa a La Blanchette, Pierrelatte, el projecte europeu
+**SE.-00163-85**, coordinat pel CEA entre l'01/07/1986 i el 31/10/1988. La fitxa
+descriu una serra de 845 m² per a plantes aromàtiques i medicinals, 215 m² de
+captadors plàstics, el mateix dipòsit de 150 m³ i un *radiant mulch (CEA
+Patent)*. Publica fins al 60 % d'eficiència, 65 MWh anuals estalviats i una
+millora del 60 al 70 % entre els dos anys experimentals. Lloc, dates,
+arquitectura i magnituds fan molt probable que la patent de 1988 formalitzi
+aquest projecte, però la fitxa no en dona el número i la identitat es manté com
+una inferència documentada. [Projecte CORDIS](https://cordis.europa.eu/project/id/SE.-00163-85).
+
+Pierrelatte ja assajava agricultura tèrmica el 1975. Un informe de 1980 explica
+que EDF, CEA i Agricultura havien creat el 1972 un grup sobre les «calories
+perdudes» i que un prototip d'1,5 hectàrees derivà 500 m³/h d'aigua a 35 °C del
+circuit de refrigeració isotòpic. El balanç de tres anys remarca reparacions,
+pèrdues dels túnels, manca de regulació i rendiments mediocres en fred; és a
+dir, documenta també els límits que el sistema posterior intentava resoldre.
+[Informe de Darnis](https://www.persee.fr/doc/jhydr_0000-0001_1980_act_16_2_4726).
+
+La finca de Laurent és a **Donzère**, al mateix corredor del Tricastin. El CEA
+recorda que Pierrelatte acollí les plantes d'enriquiment de 1965-1967 i EURODIF
+de 1979 a 2012, mentre la recerca continuà des de 1976 sota **CEA VALRHO**.
+Aquest veïnatge converteix la patent comprada i la consulta a un tècnic en una
+transferència local plausible. Encara no identifica el tècnic: Pierre Denis és
+el candidat longitudinal més visible, no una atribució provada.
+[Història CEA](https://www.cea.fr/Marcoule/Pages/OLD-histoire-de-marcoule.aspx).
+
 Els registres empresarials separen tres capes que els reportatges agrupen sota
 la marca. L'API estatal dona **BAUME DES ANGES** (`442 953 782`) com a explotació
 activa, creada el 04/07/2002 al 425 chemin des Roches de Donzère, amb activitat
