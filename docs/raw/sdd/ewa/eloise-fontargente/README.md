@@ -1171,6 +1171,23 @@ Guerlain per cap actor concret.
 [balanç 2023](https://www.franceagrimer.fr/sites/default/files/2025-07/Focus_Lavande_Lavandin_2023.pdf);
 [ordre 2024](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050099774).
 
+Aigües amunt, el reglament estatal de 2017 confirma que Carla, com a població
+millorada, segueix la via de la llavor: mantenidor dels clones parentals,
+`polycross` aïllat almenys 500 m d'altres lavandes florides, llavor base i
+sembra en viver. No és la via clonal de material *in vitro*, plantes àvies,
+mares i esqueixos. Biotop opera les dues per separat i anuncia Carla, Rapido i
+Saralia procedents de sembra sota malla antiinsectes.
+
+La garantia `plants sains` cobreix l'absència de *Xylella*, *stolbur* i AMV en
+sortir del viver, no immunitat al camp. CERTIPAM substituí la vinyeta SOC el
+2024 i reforçà traçabilitat i garantia varietal. La seva base productiva, però,
+caigué de 20 milions de plantes i 44 vivers el 2020 a 2,7 milions i 14 vivers
+el 2023-2024. La llista APPSL actual conserva 14 socis, només cinc amb lavanda
+de població; la portada que encara anuncia 47 vivers és una dada antiga.
+[Reglament de llavors](https://info.agriculture.gouv.fr/boagri/document_administratif-c236f21b-c866-40d9-b03a-471d85586597/telechargement);
+[CERTIPAM](https://appsl.fr/certipam/);
+[vivers APPSL](https://appsl.fr/nos-pepinieristes-partenaires/).
+
 La recepció de 2017 revela després com aquell material agronòmic es convertí en
 relat. En una entrevista a *Basenotes*, Thierry Wasser atribuïa a Baume la seva
 descoberta de Carla, però la peça confonia la població de *L. angustifolia* amb
