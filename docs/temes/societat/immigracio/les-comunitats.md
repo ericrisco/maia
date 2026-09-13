@@ -72,6 +72,33 @@ I, alhora, l'agraïment:
   acollit i haver-li donat la possibilitat de progressar econòmicament i de
   sortir de la misèria»**, amb «una feina digna, que no sigui denigrant».
 
+### La queixa sobre la llei ara es pot contrastar, i es confirma
+
+Raguig diu que la llei d'immigració «**afavoreix l'entrada al Principat
+d'estrangers provinents de diferents indrets de la Unió Europea i, en canvi, no
+atorga permisos de treball i sojorn als africans**». Quan aquesta fitxa es va
+escriure, **el corpus no tenia amb què comprovar-ho**.
+
+Ara sí. La cadena normativa publicada per **Francesca Ros Pascuet** al **mateix
+volum del 1997**
+([font](../../../fonts/ros-pascuet-normativa-migratoria-1997.md)) ho documenta:
+
+| Període | Què deia la quota |
+| --- | --- |
+| **1984-1987** | Repartiment per nacionalitats: **40% francesos, 40% espanyols, 20% altres nacionalitats** |
+| **des del 1991** | Les quotes **«restringeixen l'entrada de treballadors procedents d'altres països que no pertanyen a la Unió Europea i a l'EFTA»** |
+
+**La queixa no era una impressió: descriu el criteri escrit de la norma.** Vuit de
+cada deu places per als dos veïns durant quatre anys, i **restricció explícita
+per origen extracomunitari** a partir del 1991 — l'any en què Raguig diu que «és
+molt difícil que aquesta comunitat s'incrementi, **a causa del sistema
+institucional d'atribució de quotes d'immigració**».
+
+**El corpus distingeix el que confirma del que no.** La norma **confirma el tracte
+desigual per origen**; **no diu res** sobre «discriminació i racisme» en
+l'allotjament o la feina, que segueix sent **testimoni de Raguig**. Vegeu
+[la normativa migratòria](./la-normativa-migratoria.md).
+
 ## La frase sobre la llengua, que canvia una cosa
 
 **Aquesta és, per a maia, la part més important de tota la ponència:**

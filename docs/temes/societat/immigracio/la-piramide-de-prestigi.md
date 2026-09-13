@@ -109,6 +109,18 @@ contrari**: **Rachid Raguig**, el 1997, a
 [les comunitats](./les-comunitats.md): **«Se'ns considera diferents dels
 europeus i se'ns tracta amb discriminació i racisme.»**
 
+**I ara hi ha una tercera peça, que no és percepció sinó norma.** Les quotes
+d'immigració repartien **40% francesos, 40% espanyols i 20% la resta del món**
+entre 1984 i 1987, i **des del 1991 restringeixen explícitament l'entrada de
+treballadors de fora de la Unió Europea i l'EFTA**
+([la normativa migratòria](./la-normativa-migratoria.md)).
+
+**Això no resol la paradoxa: la desplaça.** «Pocs conflictes» i «bona imatge»
+poden conviure perfectament amb **un accés desigual escrit a la norma** — i, de
+fet, **una comunitat mantinguda petita per quota difícilment genera conflicte
+visible**. **El corpus ho apunta com a hipòtesi seva i no com a conclusió de cap
+font.**
+
 **No és una contradicció necessària:** una cosa és **la percepció mesurada per
 enquesta** i l'altra **l'experiència de qui la viu**. **El corpus registra les
 dues i no en descarta cap.** Vint-i-quatre anys les separen, i **cap font no
@@ -244,7 +256,8 @@ llengua catalana implica»**.
 2. **Els informes del Consell d'Europa** (ECRI) sobre Andorra. La font en cita
    el **tercer, del 2008**, amb URL.
 3. **Si la posició de la comunitat marroquina ha canviat** entre el 1997 de
-   Raguig i el 2021.
+   Raguig i el 2021. **I si la quota per origen es va mantenir després del 1997**:
+   la sèrie documentada s'acaba aquell any.
 4. **Les festes interculturals** del Pas de la Casa i d'Andorra la Vella.
 5. **D'on ve «pota negra»** i des de quan es diu.
 6. **Quantes candidatures amb cognoms no andorrans**, amb xifres.
