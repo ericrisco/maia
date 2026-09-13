@@ -238,3 +238,4 @@ hagut necessitat», i **l'escola nacional pròpia no comença fins al 1982**,
 - [El Gran Carlemany](../../institucions/simbols/el-gran-carlemany.md) — l'himne del 1914.
 - [La bandera](../../institucions/simbols/la-bandera.md) — la tricolor del 1866.
 - [Andorra vista de fora](../../cultura/andorra-vista-de-fora/andorra-vista-de-fora.md)
+- [L'enquesta de 1994](./lenquesta-de-1994.md) — el mateix debat, preguntat a vint-i-dues persones amb nom.

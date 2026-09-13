@@ -105,6 +105,37 @@ Contingut documentat:
 [Pareatge](../../historia/pareatge/el-pareatge.md)**. Andorra té documentació
 pròpia anterior al document que en fixa el règim polític.
 
+### I ara el corpus sap què és
+
+**Manuel Anglada**, responent l'enquesta d'Àlvar Valls el 1994
+([font](../../../fonts/valls-enquesta-andorranitat-1994.md)), anomena **les actes
+de Concòrdia**:
+
+| Any | Què |
+| --- | --- |
+| **1162** | Una primera Concòrdia, que qualifica d'**«ineficaç»** |
+| **1176** | La segona — i hi fa notar que **«no hi figura ni un sol cap de casa (cap gros) de Soldeu»** |
+
+**La data més antiga de l'Arxiu de les Set Claus coincideix amb la segona
+Concòrdia.** El corpus **no afirma que siguin el mateix document** —l'inventari
+no s'ha buidat— però **la coincidència d'any val registrar-la**, i **hi ha una
+Concòrdia catorze anys anterior** que caldria buscar-hi.
+
+I Anglada hi llegeix el que el nom amaga:
+
+> «Crec que **rere aquest epítet de concòrdia, s'hi pot entreveure una discòrdia
+> latent**. A tot el país **es respira un conat d'oposició a sotmetre's a
+> ingerències forasteres**.»
+
+**És lectura seva i el corpus la marca com a tal.** Concorda, això sí, amb la
+tesi de **Bonnassie** que recull
+[qui deia que Andorra no era sobirana](../../institucions/coprincipat/qui-deia-que-andorra-no-era-sobirana.md):
+que la unitat de les sis parròquies neix **de la resistència a la feudalització**.
+
+**L'absència de Soldeu** és el detall que més demana comprovació: si al 1176 no
+hi ha cap cap de casa de Soldeu, **o no n'hi havia, o no hi van voler ser**. Cap
+de les dues coses no és petita. **Buit registrat.**
+
 I la primera petició coneguda dels síndics andorrans és **per poder comerciar**.
 Encaixa amb tot el que el corpus té sobre
 [el comerç](../../economia/comerc/comerc.md) i

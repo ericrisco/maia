@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**351** documents · **106** fonts · **0** aptes com a model de llengua · **109** temes amb contingut.
+**352** documents · **107** fonts · **0** aptes com a model de llengua · **109** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -629,6 +629,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [La consciència nacional andorrana](temes/politica/identitat-politica/la-consciencia-nacional-andorrana.md) | `temes/politica/identitat-politica` | compilada | contemporania | no | `pol-consciencia-nacional` |
+| [L'enquesta de 1994](temes/politica/identitat-politica/lenquesta-de-1994.md) | `temes/politica/identitat-politica` | compilada | contemporania | no | `valls-enquesta-andorranitat-1994` |
 
 ## temes/politica/parlamentarisme
 
@@ -999,6 +1000,7 @@
 | [`tor-climatologia-casa-auvinya`](fonts/tor-climatologia-casa-auvinya.md) | Esteve Tor i Armengol · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`ubach-moviments-socials`](fonts/ubach-moviments-socials.md) | Gabriel Ubach i Valdivia · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`valero-escola-privada`](fonts/valero-escola-privada.md) | Fátima Valero i Alcaide · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`valls-enquesta-andorranitat-1994`](fonts/valls-enquesta-andorranitat-1994.md) | Àlvar Valls i Oliva · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`vela-consell-de-la-terra-1419`](fonts/vela-consell-de-la-terra-1419.md) | Susanna Vela i Palomares · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`vela-ordinacions-segle-xv`](fonts/vela-ordinacions-segle-xv.md) | Susanna Vela i Palomares · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`vilar-andorre-1904`](fonts/vilar-andorre-1904.md) | André Vilar · V. Giard & E. Brière, París · obra de 1904, domini públic | domini públic per antiguitat; digitalització de Google Books | si |
