@@ -22,6 +22,7 @@ fitxada tret de les dues de futbol.** Aquesta subbranca n'obre cinc més.
 | Selecció | Què hi ha |
 | --- | --- |
 | **[El bàsquet](./el-basquet.md)** | **Sis campionats d'Europa de països petits**: 1998, 2000, 2004, 2012, 2014, 2024. **Dotze medalles en disset participacions.** **El palmarès més gran de l'esport andorrà** |
+| **[Els dotze campions del 2024](./els-dotze-campions-del-2024.md)** | La plantilla, les tres generacions i l'últim minut de la final que va donar a Andorra el sisè títol |
 | **[El tennis](./el-tennis.md)** | **63 eliminatòries de Copa Davis**, i **una sola persona n'ha jugat 53** |
 | **[L'hoquei gel](./lhoquei-gel.md)** | **Un 12-0 i un 24-2 en tres anys.** Neix el 2017 al Palau de Gel de Canillo |
 | **[El rugbi](./el-rugbi.md)** | **Els Isards.** Va debutar guanyant 24-3 el 1987, i **juga alguns partits de casa a França** |
@@ -60,12 +61,14 @@ jugat 53 de les 63 eliminatòries de Copa Davis de la història d'Andorra.**
 ## El que falta
 
 - **Els jugadors.** **De les cinc seleccions, el corpus té set noms de tennis,
-  un d'hoquei, un de rugbi i cap de bàsquet.** **Ni un sol jugador de la
-  selecció que ha guanyat sis títols europeus.** **Buit prioritari.**
+  un d'hoquei, un de rugbi i [els dotze campions de bàsquet del
+  2024](./els-dotze-campions-del-2024.md).** En bàsquet queden obertes les
+  plantilles dels altres cinc títols europeus.
 - **Les federacions**: de basquetbol, d'esports de gel, de rugbi i de tennis.
   **Cap fitxa de cap.**
 - **Les altres divuit seleccions** de les vint-i-tres que Andorra declara.
-- **El BC Andorra / MoraBanc**, club de l'ACB.
+- ~~**El BC Andorra / MoraBanc**, club de l'ACB.~~ **Tancat:**
+  [el BC Andorra](../altres-esports/bc-andorra.md).
 
 ## Related
 

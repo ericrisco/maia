@@ -114,11 +114,15 @@ intercanviats.**
 
 ## El que falta
 
-- **Els jugadors.** **Cap nom.** El corpus té **[Quino Colom](../altres-esports/quino-colom.md)**,
-  base d'ACB i de la VTB russa, **i no sap si ha jugat mai amb la selecció.**
-  **Buit prioritari.**
+- ~~**Els jugadors. Cap nom.**~~ **Tancat per al 2024:** el corpus ja té
+  [els dotze campions del sisè títol](./els-dotze-campions-del-2024.md), el
+  seleccionador i el relat complet de la final. **Segueixen obertes les
+  plantilles campiones del 1998, 2000, 2004, 2012 i 2014.**
+- Si **[Quino Colom](../altres-esports/quino-colom.md)**, base d'ACB i de la VTB
+  russa, ha jugat mai amb la selecció.
 - **La Federació Andorrana de Basquetbol**: cap fitxa.
-- **El BC Andorra / MoraBanc Andorra**, club d'ACB: cap fitxa.
+- ~~**El BC Andorra / MoraBanc Andorra**, club d'ACB: cap fitxa.~~ **Tancat:**
+  [el BC Andorra](../altres-esports/bc-andorra.md).
 - **Les seus i els resultats** de les edicions del 2014 endavant.
 
 ## Related
@@ -126,4 +130,5 @@ intercanviats.**
 - [Les seleccions](./README.md)
 - [Esports](../README.md)
 - [Els Jocs dels Petits Estats](../competicio/els-jocs-dels-petits-estats.md)
+- [Els dotze campions del 2024](./els-dotze-campions-del-2024.md)
 - [Quino Colom](../altres-esports/quino-colom.md)
