@@ -53,6 +53,8 @@ havia al país**.
 | Data | Què |
 | --- | --- |
 | **21 d'agost de 1894** | **Carta pastoral del bisbe d'Urgell** al Consell General |
+| **~1 de setembre de 1894** | **Reial ordre** del Ministeri de Gràcia i Justícia espanyol: cap jutge espanyol no pot tractar amb les autoritats andorranes; tot ha de passar **pel bisbe d'Urgell** ([la reial ordre](./la-reial-ordre-de-setembre-de-1894.md), [font](../../../fonts/boletin-oficial-leon-1894.md)) |
+| **12 de setembre de 1894** | L'**Audiencia de Valladolid** la circula a tot el seu districte judicial |
 | **18 d'octubre de 1894** | El Consell General eleva [les seves exposicions al bisbe i al Papa](./la-questio-dandorra.md) |
 | **27 de març de 1895** | Carvajal i sis diputats més signen l'addició |
 | **17 de juny de 1895** | **El Congrés dels Diputats l'aprova** |
@@ -68,6 +70,12 @@ havia al país**.
 
 **Va caure.** I el 1904, nou anys després, els productes andorrans seguien pagant
 **la tarifa màxima** per entrar a Espanya.
+
+**I les dues files noves d'aquesta taula canvien com es llegeix la resta.** Entre
+la pastoral del bisbe i l'exposició del Consell General al Papa **no hi ha buit**:
+hi ha **el Govern espanyol tancant files amb el bisbe per escrit**, tres setmanes
+després de la pastoral i un mes abans de la carta al Papa. **Cap font del corpus
+no diu que una cosa causés l'altra**, i el corpus no ho afirma.
 
 ## El bisbe hi va declarar, i la premsa ho va publicar
 

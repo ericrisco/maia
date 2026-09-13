@@ -238,6 +238,15 @@ El Consell General descriu la situació com a bloquejada:
 **Un estat de sis mil habitants demanant empara al superior del seu propi cap
 d'estat.** El corpus no coneix cap altre cas, i no sap com va acabar.
 
+**El que sí que sap ara és què hi havia entremig.** Sis setmanes abans d'aquesta
+carta, el **Govern espanyol** va dictar una **reial ordre** que prohibia a tots
+els seus jutges tractar amb les autoritats andorranes i feia del bisbe d'Urgell
+l'únic canal, per no posar Andorra «en una situación de independencia contraria á
+los derechos é intereses de la Nación española»
+([la reial ordre de setembre de 1894](./la-reial-ordre-de-setembre-de-1894.md)).
+**Aquesta exposició no l'esmenta**, i el corpus no sap si el Consell General en
+tenia notícia.
+
 ## Buits registrats
 
 1. **La resposta.** Ni la del bisbe ni la de la Santa Seu. **El corpus no sap què
@@ -264,6 +273,7 @@ d'estat.** El corpus no coneix cap altre cas, i no sap com va acabar.
 - [Els casalers i els anfochs](./els-casalers-i-els-anfochs.md) — com es deien els bàndols, i què els movia.
 - [Guillem d'Areny i Plandolit](./guillem-dareny-plandolit.md) — qui la va impulsar.
 - [La qüestió duanera de 1895](./la-questio-duanera-de-1895.md) — l'any següent, i el mateix bisbe acusat altra vegada.
+- [La reial ordre de setembre de 1894](./la-reial-ordre-de-setembre-de-1894.md) — què feia Espanya mentre s'escrivia aquest al·legat.
 - [El desenllaç de la qüestió duanera](./el-desenllac-de-la-questio-duanera.md) — la carta pastoral que lliga les dues crisis.
 - [Les tres sobiranies](../../institucions/coprincipat/les-tres-sobiranies.md) — aquesta tesi, al costat de l'espanyola i la francesa.
 - [El coprincipat](../../institucions/coprincipat/el-coprincipat.md) — la institució en litigi.

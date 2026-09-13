@@ -379,7 +379,7 @@ espanyol que va provocar.
 | --- | --- | --- |
 | `congreso-*` | **Diari de sessions del Congreso de los Diputados**, juny de 1895, amb apèndixs | Arxiu històric del Congreso (**URL exacta no registrada**) |
 | `senado-1895-*` | **Diari de sessions del Senado**, juny de 1895 | Arxiu del Senado (**URL exacta no registrada**) |
-| `boletin-leon-1894-09-17` | Butlletí provincial, 17.09.1894 | **URL no registrada** |
+| `boletin-leon-1894-09-17` | Butlletí provincial, 17.09.1894. **Hi ha la reial ordre espanyola de setembre de 1894 sobre Andorra** | **URL no registrada** |
 | `heraldo-1895-06-27-p2`, `correspondencia-1895-06-27` | Premsa espanyola del **27 de juny de 1895** | Hemeroteca Digital de la **BNE** (**URL no registrada**) |
 | `bpt-*` | *Bulletin* francès, 1878-1893 | **Gallica / BnF** (**URL no registrada**) |
 | `12052025` | Document del **12.05.2025** | **URL no registrada** |
@@ -396,11 +396,19 @@ encara que falti l'URL de descàrrega.
 | `congreso-1895-06-30` | Congrés, **núm. 158**, sessió de **diumenge 30 de juny de 1895** |
 | `congreso-1895-ap40` | **Apèndix 40 al núm. 89** — l'addició signada el **27 de març de 1895** |
 | `congreso-153-ap2`, `congreso-157-ap2` | Apèndixs **2n** als núm. **153** i **157** |
-| `boletin-leon-1894-09-17` | **Boletín Oficial de la provincia de León**, núm. 34, **17 de setembre de 1894** |
+| `boletin-leon-1894-09-17` | **Boletín Oficial de la provincia de León**, núm. 34, **17 de setembre de 1894**, p. 79-80. **Buidat el 2026-09-13**: hi ha la circular de l'Audiencia de Valladolid (12.09.1894) que reprodueix la **reial ordre del Ministeri de Gràcia i Justícia** prohibint als jutges espanyols tota relació amb les autoritats andorranes |
 | `12052025` | **No és premsa.** És l'acta d'una **Junta de Govern comunal** del **12-5-2025**, exp. 2025/2714. **Està mal classificat en aquesta carpeta** |
 
 **Ja tenen fitxa de font:** els diaris de sessions del Congrés, a
-[`diario-sesiones-corts-1895`](../fonts/diario-sesiones-corts-1895.md).
+[`diario-sesiones-corts-1895`](../fonts/diario-sesiones-corts-1895.md), i el
+butlletí de León, a
+[`boletin-oficial-leon-1894`](../fonts/boletin-oficial-leon-1894.md).
+
+**Avís de lectura, i val per als dos.** Tots aquests documents vénen a columnes
+—dues als diaris de sessions, **cinc** al butlletí provincial— i l'OCR les
+aplana en una sola línia. **Llegir-los seguits fabrica frases que ningú no va
+escriure.** Tot el que el corpus en cita s'ha reconstruït tallant per columnes
+de caràcters.
 
 ~~**Dos fitxers `.txt` són buits** —`senado-1895-06-29` i
 `correspondencia-1895-06-27`—: els PDF no tenen capa de text i **necessiten
@@ -457,7 +465,7 @@ com està**: són material de cerca, no fonts.
 | `sac-diades/` | **sí** — institució, llicència, handle i patró d'URL |
 | `llibres/` | **no** — falta l'URL de les quatre obres |
 | `academic/` | **parcial** — les sis identificades per revista, volum i, en dos casos, DOI; falta l'URL de descàrrega. Una era **un duplicat mal anomenat** |
-| `hemeroteca/` | **parcial** — els diaris de sessions s'identifiquen per número, data i pàgina i ja tenen fitxa; falta l'URL, i la premsa i els `bpt-*` segueixen sense signatura |
+| `hemeroteca/` | **parcial** — els diaris de sessions i el butlletí de León s'identifiquen per número, data i pàgina i ja tenen fitxa; falta l'URL de tots, i la premsa i els `bpt-*` segueixen sense signatura |
 | `web/` | **parcial** — s'identifica l'origen, no l'URL exacta |
 
 **Aquest quadre és, ell mateix, la llista de feina.** La regla del projecte

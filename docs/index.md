@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**527** documents · **120** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
+**528** documents · **121** fonts · **0** aptes com a model de llengua · **112** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -597,6 +597,7 @@
 | [Guillem d'Areny-Plandolit](temes/historia/segle-xix/guillem-dareny-plandolit.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `viquipedia-ca` |
 | [La qüestió d'Andorra](temes/historia/segle-xix/la-questio-dandorra.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `la-cuestion-de-andorra-1894` |
 | [La qüestió duanera de 1895](temes/historia/segle-xix/la-questio-duanera-de-1895.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `diario-sesiones-corts-1895` |
+| [La reial ordre de setembre de 1894](temes/historia/segle-xix/la-reial-ordre-de-setembre-de-1894.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `boletin-oficial-leon-1894` |
 | [La Nova Reforma de 1866](temes/historia/segle-xix/nova-reforma.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/historia/segle-xx-primera-meitat
@@ -1107,6 +1108,7 @@
 | [`becat-moviments-migratoris-1989`](fonts/becat-moviments-migratoris-1989.md) | Joan Becat · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`becat-vida-pastoral`](fonts/becat-vida-pastoral.md) | Joan (Jean) Becat | document de divulgació per a ensenyants; sense llicència explícita | pendent |
 | [`boladeres-ensenyament-espanyol`](fonts/boladeres-ensenyament-espanyol.md) | Antoni Boladeres i Sorribes · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`boletin-oficial-leon-1894`](fonts/boletin-oficial-leon-1894.md) | Diputación provincial de León (Espanya) · butlletí oficial | butlletí oficial espanyol de 1894; domini públic per antiguitat | si |
 | [`brutails-coutume-1904`](fonts/brutails-coutume-1904.md) | J.-A. Brutails · Ernest Leroux, éditeur, París · obra de 1904, domini públic | domini públic per antiguitat; digitalització de Google Books | si |
 | [`cairal-escola-andorrana`](fonts/cairal-escola-andorrana.md) | M. Teresa Cairat i Vila · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`camiade-concepte-didentitat-1990`](fonts/camiade-concepte-didentitat-1990.md) | Martina Camiade · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |

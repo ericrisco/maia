@@ -19,11 +19,17 @@ dècada**. Cadascun diu **de qui és Andorra**. **Cap dels tres diu el mateix.**
 | Any | Document | Qui l'escriu | Què sosté |
 | --- | --- | --- | --- |
 | **1894** | [La cuestión de Andorra](../../historia/segle-xix/la-questio-dandorra.md) | **El Consell General**, als síndics i al Papa | **La sobirania és pràctica i és andorrana** |
+| **1894** | [La reial ordre de setembre](../../historia/segle-xix/la-reial-ordre-de-setembre-de-1894.md) | El **Govern espanyol**, als seus jutges | Espanya hi exerceix **«el protectorado... por medio de la Mitra de Urgel»** |
 | **1895** | [L'apèndix de Carvajal](../../historia/segle-xix/la-questio-duanera-de-1895.md) | Un **diputat espanyol**, a les Corts | Andorra és **«una espècie de feu... dins de la sobirania nacional espanyola»** |
 | **1904** | [L'Andorre](../../../fonts/vilar-andorre-1904.md) | Un **jurista francès**, conseller general dels Pirineus Orientals | França hi exerceix **«un droit de suzeraineté»** |
 
 **Tres estats, tres tesis, deu anys.** I una quarta part —el copríncep episcopal—
 que, segons totes tres, **es creia sobirà pel seu compte**.
+
+**Són quatre documents i segueixen sent tres tesis**: la reial ordre de 1894 i el
+discurs de Carvajal de 1895 diuen **el mateix**, i la novetat és **qui ho diu i
+amb quina forma** — el primer no és una opinió parlamentària, és **una ordre de
+servei del Govern**.
 
 ## La tesi andorrana: mana qui hi és
 
@@ -52,6 +58,27 @@ de Foix ho és del francès. D'aquí surt el «feu... dins de la sobirania nacio
 espanyola».
 
 **Criteri: el copríncep no és sobirà, és funcionari d'un altre.**
+
+### I nou mesos abans, el Govern ho havia ordenat
+
+Carvajal parlava el juny de 1895. **El Ministeri de Gràcia i Justícia ho havia
+posat per escrit el setembre de 1894**, en una reial ordre als jutges espanyols
+([font](../../../fonts/boletin-oficial-leon-1894.md)):
+
+> «...**la Autoridad del protectorado que España ejerce en aquel Principado por
+> medio de la Mitra de Urgel**...»
+
+**La mateixa tesi, amb la mateixa peça central —el bisbe com a via espanyola— i
+amb una paraula que Carvajal no fa servir: *protectorat*.** I amb una conseqüència
+pràctica que un discurs no té: **la prohibició a tots els jutges espanyols de
+tractar amb les autoritats andorranes**, per evitar que Andorra quedi «en una
+situación de independencia contraria á los derechos é intereses de la Nación
+española». Vegeu
+[la reial ordre de setembre de 1894](../../historia/segle-xix/la-reial-ordre-de-setembre-de-1894.md).
+
+**Això reforça el diagnòstic de Becat i alhora el complica:** la confusió entre
+els drets d'Espanya i els del copríncep episcopal **no era un lapsus d'un diputat
+mal informat**; era **la norma administrativa vigent**.
 
 Joan Becat, llegint el mateix document un segle després, hi posa el diagnòstic:
 Carvajal recorda els drets d'Espanya «**per confusió amb els del copríncep
@@ -129,7 +156,8 @@ va arribar el mateix any.
 
 - [El coprincipat](./el-coprincipat.md) — la institució en litigi.
 - [La qüestió d'Andorra](../../historia/segle-xix/la-questio-dandorra.md) — la tesi andorrana, del 1894.
-- [La qüestió duanera de 1895](../../historia/segle-xix/la-questio-duanera-de-1895.md) — la tesi espanyola.
+- [La qüestió duanera de 1895](../../historia/segle-xix/la-questio-duanera-de-1895.md) — la tesi espanyola, en un discurs.
+- [La reial ordre de setembre de 1894](../../historia/segle-xix/la-reial-ordre-de-setembre-de-1894.md) — la tesi espanyola, en una ordre.
 - [El desenllaç de la qüestió duanera](../../historia/segle-xix/el-desenllac-de-la-questio-duanera.md) — la tesi francesa, i com va acabar l'afer.
 - [La Constitució de 1993](../../historia/constitucio-1993/constitucio-1993.md) — la resposta.
 - [El reconeixement internacional](../relacions-exteriors/el-reconeixement-internacional.md) — el mateix any.

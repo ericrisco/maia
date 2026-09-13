@@ -207,3 +207,4 @@ tot l'anterior:
 - [El coprincipat](../../institucions/coprincipat/el-coprincipat.md) — la institució que hi apareix acusada.
 - [El reconeixement internacional](../../institucions/relacions-exteriors/el-reconeixement-internacional.md) — el que Andorra no tenia el 1895.
 - [Comerç](../../economia/comerc/comerc.md) — la branca.
+- [La reial ordre de setembre de 1894](./la-reial-ordre-de-setembre-de-1894.md) — la mateixa tesi espanyola, nou mesos abans i en forma d'ordre als jutges.
