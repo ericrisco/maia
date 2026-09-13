@@ -863,6 +863,15 @@ Una història local situa després o durant una part dels anys seixanta un
 president Eich sense data precisa; és una successió per resoldre, no una raó
 per descartar el testimoni electoral.
 
+La professió de fe no diu quina empresa hi havia darrere de «Directeur
+Commercial» i «Délégué Cadre». El catàleg municipal conserva, però, nou
+anuaris amb pàgines blanques i grogues entre 1970 i 1973 (`Per/413/46-54`). Els
+dos del mateix 1973 són `Per/413/53`, *Allo Belfort*, i `Per/413/54`, l'anuari
+oficial PTT del Territoire de Belfort. No estan digitalitzats: comprovar-hi
+`Dreyfus-Schmidt, Jacques` i `3 rue Metz-Juteau`, i seguir qualsevol raó social
+a les pàgines grogues, és ara la via més curta per trobar domicili, telèfon
+professional o empresa sense inventar una afiliació industrial.
+
 Un catàleg oficial dels Archives départementales du Doubs explica el pes del
 club: fundat el 1908, construí el refugi del Plain de la Gentiane, traçà pistes
 i senders i finançà per subscripció el remuntador del Grand Langenberg, muntat
