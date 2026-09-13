@@ -1326,6 +1326,13 @@ per any, fills i domicili, però el canvi de nom no s'ha normalitzat com un fet.
 La nova prova reforça una xarcuteria familiar estable i independent, no la
 identificació encara absent entre Henri i `Léo`.
 
+El tall de 1926 (`6 M 293`, imatge 3) manté deu persones a rue Mercière i
+precisa que **Henri era charcutier, patron i Anne Lacroix charcutière**. Pierre,
+als quinze anys, seguia sense professió. La font explicita així una empresa
+conjugal, alhora que introdueix variants censals —Lucie/Denise i anys diferents
+per Yvonne i Albert— que s'han preservat literalment. Tampoc aquest tercer cens
+anomena `Léo` ni associa la xarcuteria amb la lavanda.
+
 La logística sindical també queda més definida. El local cadurcien de 1936 no
 podia emmagatzemar més de 150 kg de flor fresca al dia: era un límit d'espai,
 no de destil·lació. El nou taller de Cabazat, anunciat amb un alambí nominal de
