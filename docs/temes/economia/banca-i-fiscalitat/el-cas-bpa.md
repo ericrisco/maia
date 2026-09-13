@@ -134,9 +134,14 @@ I una nota per al lèxic: el corpus ja té **parapública**
 6. Com va afectar **la resta del sistema financer andorrà** i la seva reputació.
 7. El document de l'**Associació de Bancs Andorrans** sobre el sistema financer
    del 2015.
+8. **L'operació Catalunya** com a objecte propi. **Surt citada a
+   [l'estafa d'Andorra](../../cultura/andorra-vista-de-fora/lestafa-dandorra.md)
+   com a context donat per sabut, i el corpus no en té fitxa.**
 
 ## Related
 
+- [L'estafa d'Andorra](../../cultura/andorra-vista-de-fora/lestafa-dandorra.md) —
+  el documental del 2020 sobre aquest cas, i la baralla sobre què és.
 - [Banca i fiscalitat](./banca-i-fiscalitat.md)
 - [De 1993 ençà](../../historia/historia-recent/de-1993-enca.md)
 - [L'acord d'associació amb la UE](../../institucions/relacions-exteriors/lacord-dassociacio-amb-la-ue.md)

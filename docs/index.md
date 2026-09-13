@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**701** documents · **150** fonts · **0** aptes com a model de llengua · **121** temes amb contingut.
+**703** documents · **152** fonts · **0** aptes com a model de llengua · **121** temes amb contingut.
 
 ## temes/costums/calendari-festiu
 
@@ -85,6 +85,7 @@
 | [Els gravats romàntics](temes/cultura/andorra-vista-de-fora/els-gravats-romantics.md) | `temes/cultura/andorra-vista-de-fora` | compilada | contemporania | no | `rodriguez-rossa-creacio-artistica` |
 | [La por de fondre's](temes/cultura/andorra-vista-de-fora/la-por-de-fondres.md) | `temes/cultura/andorra-vista-de-fora` | compilada | contemporania | no | `ferrer-percepcio-andorra-exterior` |
 | [Les guies de viatge](temes/cultura/andorra-vista-de-fora/les-guies-de-viatge.md) | `temes/cultura/andorra-vista-de-fora` | compilada | contemporania | no | `lacueva-hoteleria` |
+| [L'estafa d'Andorra, el documental](temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md) | `temes/cultura/andorra-vista-de-fora` | compilada | contemporania | no | `wikipedia-estafa-dandorra` |
 
 ## temes/cultura/arquitectura
 
@@ -1154,6 +1155,7 @@
 | [El Sindicat Andorrà de Treballadors](temes/societat/treball/el-sindicat-andorra-de-treballadors.md) | `temes/societat/treball` | compilada | contemporania | no | `wikipedia-sat-andorra` |
 | [La memòria de FHASA](temes/societat/treball/la-memoria-de-fhasa.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
 | [L'acomiadament lliure](temes/societat/treball/lacomiadament-lliure.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
+| [L'ajut per desocupació involuntària](temes/societat/treball/lajut-per-desocupacio-involuntaria.md) | `temes/societat/treball` | compilada | contemporania | no | `bopa-ad` |
 | [L'ARA i el SAT](temes/societat/treball/lara-i-el-sat.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
 | [No tornar a casa ferit](temes/societat/treball/no-tornar-a-casa-ferit.md) | `temes/societat/treball` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Treball](temes/societat/treball/treball.md) | `temes/societat/treball` | compilada | contemporania | no | `iec-vocabulari-andorra` |
@@ -1328,6 +1330,7 @@
 | [`becat-vida-pastoral`](fonts/becat-vida-pastoral.md) | Joan (Jean) Becat | document de divulgació per a ensenyants; sense llicència explícita | pendent |
 | [`boladeres-ensenyament-espanyol`](fonts/boladeres-ensenyament-espanyol.md) | Antoni Boladeres i Sorribes · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`boletin-oficial-leon-1894`](fonts/boletin-oficial-leon-1894.md) | Diputación provincial de León (Espanya) · butlletí oficial | butlletí oficial espanyol de 1894; domini públic per antiguitat | si |
+| [`bopa-ad`](fonts/bopa-ad.md) | Servei del Butlletí Oficial del Principat d'Andorra · Govern d'Andorra | condicions generals d'utilització de la informació de la seu electrònica del BOPA | si |
 | [`bopa-reglament-prestacions-2020`](fonts/bopa-reglament-prestacions-2020.md) | Servei del Butlletí Oficial del Principat d'Andorra · Govern d'Andorra | condicions generals de reutilització de la informació de la seu electrònica del BOPA | si |
 | [`brutails-coutume-1904`](fonts/brutails-coutume-1904.md) | J.-A. Brutails · Ernest Leroux, éditeur, París · obra de 1904, domini públic | domini públic per antiguitat; digitalització de Google Books | si |
 | [`cairal-escola-andorrana`](fonts/cairal-escola-andorrana.md) | M. Teresa Cairat i Vila · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
@@ -1450,6 +1453,7 @@
 | [`wikipedia-esport-andorra`](fonts/wikipedia-esport-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-esquiadors-andorrans`](fonts/wikipedia-esquiadors-andorrans.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-estacions-esqui-andorra`](fonts/wikipedia-estacions-esqui-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-estafa-dandorra`](fonts/wikipedia-estafa-dandorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-familia-perich`](fonts/wikipedia-familia-perich.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-familia-reig`](fonts/wikipedia-familia-reig.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-futbol-femeni-andorra`](fonts/wikipedia-futbol-femeni-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
