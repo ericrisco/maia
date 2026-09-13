@@ -1321,10 +1321,15 @@ Lacroix (1887), Marguerite (1909) i Lucie (1910): Pierre no hi podia aparèixer
 perquè nasqué quinze dies després. El de 1921 (`6 M 266`, imatge 18) conserva
 la mateixa adreça i descriu Henri com a **charcutier, patron**, amb vuit Delvert
 al nucli familiar i dues persones de servei domèstic. L'esposa hi consta com a
-Anne Delvert, nascuda el 1887; la continuïtat amb Maria Lacroix és probable
-per any, fills i domicili, però el canvi de nom no s'ha normalitzat com un fet.
-La nova prova reforça una xarcuteria familiar estable i independent, no la
-identificació encara absent entre Henri i `Léo`.
+Anne Delvert, nascuda el 1887. Les actes oficials resolen ara la variant: `4 E
+1847`, acta 13, registra **Lacroix Maria** nascuda el 27/03/1887; `4 E 3957`,
+acta matrimonial 11 del 21/04/1908, la casa amb Firmin Henri i mostra la
+mateixa núvia signant **`Anna Lacroix`**. Maria, Anna i l'Anne dels censos són,
+doncs, la mateixa dona. L'acta qualifica a més la seva mare **Marguerite
+Maillot de `charcutière`**, mentre Henri encara era empleat del chemin de fer
+d'Orléans i Anna constava sense professió. La xarcuteria té així un antecedent
+femení i matern documentat el 1908, però l'acta no prova encara conserverie,
+societat ni activitat de lavanda.
 
 El tall de 1926 (`6 M 293`, imatge 3) manté deu persones a rue Mercière i
 precisa que **Henri era charcutier, patron i Anne Lacroix charcutière**. Pierre,
@@ -1376,6 +1381,14 @@ Beynet i Monique Redon— i les afirmacions sobre Fauchon, Félix Potin, trenta
 empleats i la Coupe d'Or 1970 són ara pistes separades, no fets assimilats. La
 llista institucional actual del Comité de France confirma únicament que la
 Conserverie Delvert fou guardonada, sense precisar-hi l'any.
+
+Una necrològica de 2026 corregeix ja una compressió d'aquell relat: Monique
+Redon Mayeur hi figura com a vídua de Christian Beynet i Jean Redon, amb
+Pierre-Yves Redon entre els fills i Nicole i Jean-Louis Cheyrou entre germans i
+germanes. El fitxer INSEE identifica Christian Albert Beynet (Martel,
+08/11/1936 – Brignoles, 19/05/1973). Era el marit de Monique, mentre la redacció
+de 2014 l'havia anomenat erròniament «primer fill d'Yvonne». La peça reforça la
+cadena familiar Cheyrou–Beynet–Redon, no prova encara qui dirigia l'empresa.
 
 La sèrie digital no permet saltar netament a 1936: el filtre oficial només
 retorna **Saint-Denis-lès-Martel** (`6 M 314`), una comuna diferent, i cap
