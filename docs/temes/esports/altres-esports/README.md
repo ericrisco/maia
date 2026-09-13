@@ -28,6 +28,13 @@ mirés els Jocs, no en tindria cap.**
 | [Xavier Cardelús](./xavier-cardelus.md) | **Motociclisme** | Mundial de Supersport; fill d'un altre pilot |
 | [Cyril Despres](./cyril-despres.md) | **Motor** | **Cinc Dakars** — **resident a Andorra, però competint per França** |
 | [Quino Colom](./quino-colom.md) | **Bàsquet** | Base de l'ACB i de la VTB russa; **millor sisè home de la VTB 2015-16** |
+| **[Fiona Morrison](./fiona-morrison.md)** | **Windsurf** i **art** | **Olímpica a Atlanta 1996 per un país sense mar**, i **artista exposada a la Biennal de Venècia** |
+| **[Yolanda García](./yolanda-garcia.md)** | **Taekwondo** | **Plata mundial (1995) i or europeu (1994)** — **nascuda a Andorra, competint per Espanya** |
+| [Berta Miquel](./berta-miquel.md) | **Gimnàstica rítmica** | **La primera gimnasta andorrana en una final de la FIG.** Entrena set hores al dia |
+| [Melissandre Fuentes](./melissandre-fuentes.md) | **Patinatge artístic** | **La primera andorrana en un campionat de la ISU** (2002). Campiona nacional 2004 i 2005 |
+| [Claudia Guri](./claudia-guri.md) | **Atletisme** i bàsquet | **Única representant d'Andorra al Mundial de Pequín 2015** |
+| [Estefania Sebastian](./estefania-sebastian.md) | Atletisme | 60 m al Mundial en pista coberta del 2014 |
+| [Lea Ricart](./lea-ricart.md) | Natació | 50 lliures al Mundial del 2017, amb setze anys |
 
 ## Les tres fites que aquesta subbranca conté
 
@@ -43,7 +50,11 @@ documenta d'Andorra en cap competició internacional per països.**
 el 16 de març del 2026** — **la primera persona d'Andorra, home o dona, que hi
 entra en tota l'era Open.**
 
-**Cap de les tres surt a cap medaller olímpic.** Vegeu
+**I n'hi ha una quarta que no és d'Andorra i val la pena escriure:** **[Yolanda
+García](./yolanda-garcia.md), nascuda a Andorra, va guanyar la PLATA al Mundial
+de taekwondo del 1995 i l'OR a l'Europeu del 1994 — competint per Espanya.**
+
+**Cap de les tres primeres surt a cap medaller olímpic.** Vegeu
 [Andorra als Jocs Olímpics](../competicio/andorra-als-jocs-olimpics.md), on la
 xifra de medalles és **zero**.
 
@@ -75,6 +86,14 @@ una pràctica legal i comuna, i és com funciona.**
   seleccions nacionals de bàsquet**, 3x3 incloses
   ([els altres Jocs](../competicio/els-altres-jocs.md)). **Cap fitxa.**
 - **El motor**: federació, el ral·li d'Andorra, quants pilots.
+- **Els esports de gel.** Andorra té **pista de gel a Canillo** i **dues
+  seleccions d'hoquei**, i el corpus només té
+  **[Melissandre Fuentes](./melissandre-fuentes.md)**.
+- **La gimnàstica.** Dues gimnastes internacionals i cap federació fitxada.
+- **El taekwondo.** Hi surt **dues vegades** —[Yolanda
+  García](./yolanda-garcia.md) el 1994-95 i [Naiara
+  Liñán](../../persones/naiara-linan.md) el 2026— **i el corpus no sap si hi ha
+  relació entre les dues.**
 - **El pitch and putt**, que és selecció nacional i el corpus no sap ni què hi
   fa Andorra. I **[Kevin Esteve Rigail](../esqui/esquiadors/kevin-esteve-rigail.md)**,
   esquiador olímpic reconvertit en **golfista professional**.

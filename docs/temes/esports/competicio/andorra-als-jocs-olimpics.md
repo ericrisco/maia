@@ -161,11 +161,15 @@ ciclisme en ruta · judo · vela · tir · surf de neu · natació**
 **Tres d'aquests dotze sorprenen en un país de muntanya sense mar:**
 
 - **Vela.** **David** i **Oscar Ramón** en **470** a **Barcelona 1992** i
-  **Atlanta 1996**, i **Fiona Morrison** en **Mistral** el 1996. **Un país
-  sense mar ha tingut tres olímpics de vela.**
+  **Atlanta 1996**, i **[Fiona Morrison](../altres-esports/fiona-morrison.md)**
+  en **Mistral** el 1996 — **24a de 27**. **Un país sense mar ha tingut tres
+  olímpics de vela.**
 - **Boxa.** **Joan Montane**, **1976**, **i mai més**.
-- **Biatló.** **Olympedia el llista i el corpus no ha trobat cap biatleta
-  andorrà** a cap edició. **Desacord registrat i no resolt.**
+- ~~**Biatló.** Olympedia el llista i el corpus no ha trobat cap biatleta
+  andorrà.~~ — **RESOLT**: Olympedia tenia raó. **[Laure
+  Soulié](../esqui/esquiadors/laure-soulie.md)**, del Pas de la Casa, **va
+  córrer l'individual i l'esprint a Sotxi 2014** (48a i 66a), i **va ser 9a en
+  una cursa de 15 km a Ruhpolding** la temporada 2013-14.
 
 **Als Jocs Olímpics de la Joventut**, Olympedia hi afegeix: **bàsquet 3x3,
 piragüisme en esprint, esquí acrobàtic** i **esquí de muntanya**.
