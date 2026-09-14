@@ -115,7 +115,18 @@ L'autor enumera què més podria haver triat per il·lustrar la tesi, i la llist
    **per terra en un sostre, podrint-se, i repartits per cases particulars**
    ([excomunió major per a qui tregui un paper](../patrimoni-institucional/excomunio-major-per-a-qui-tregui-un-paper.md)).
    **El corpus no sap quina part es va perdre**, i **la font que ho denuncia no
-   en dona cap xifra.**
+   en dona cap xifra.** — **Ampliat el 2026-09-17 amb el perquè jurídic**: **els
+   *manuals* quedaven al notari i, en morir ell, a la seva família**, cosa que
+   **un privilegi del bisbe d'Urgell de 1607 prohibia expressament** —els papers
+   es queden a l'escrivania pública de la Vall, **no se'n poden treure**, i **ni
+   els hereus ni els successors no en poden treure profit**— i que **una
+   constitució catalana de 1520 ja manava resoldre** lliurant les minutes del
+   notari difunt a un notari en exercici. **El Consell General hi va tornar el
+   20 de desembre de 1900**, i **Brutails considera el decret eludible perquè no
+   ve de qui nomena els notaris**. Vegeu [escrúpols quant a la forma, atreviments
+   quant al fons](./escrupols-quant-a-la-forma-atreviments-quant-al-fons.md).
+   **Segueix obert quina part se'n va perdre i si el decret de 1900 es va
+   complir.**
 5. **L'adaptació a l'euro** d'un país que no és a la UE.
 6. ~~La **compravenda a carta de gràcia**~~ i el **censal** a Andorra. **La
    carta de gràcia, documentada en volum:** a les minutes de **1875-1877**
