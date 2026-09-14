@@ -159,10 +159,17 @@ aconsegueix tancar-ne els números.**
 > **el corpus ho marca com a observació pròpia**: **la font cita els pactes i no
 > comenta la coincidència.**
 >
-> **Tercera, i és la que menys s'endevina: «*no lo pugan quitar sino per son propri
-> us*».** **Es podia pactar que el venedor només rescatés per fer-ne ús ell, no per
-> revendre.** **El dret de recompra no era transmissible en aquests casos ni
-> utilitzable com a operació**: **era un dret a tornar a casa.**
+> **Tercera: «*no lo pugan quitar sino per son propri us*».**
+>
+> > **CORREGIT el 2026-09-18.** **Aquest paràgraf deia que la clàusula impedia
+> > rescatar per revendre i que el dret de recompra era, en aquests casos, «un dret
+> > a tornar a casa».** **Era una inferència meva del text dels pactes, i la font en
+> > dona la interpretació rebuda a la p. 208**: **la clàusula —que s'hi enuncia
+> > junta amb «*ab propris diners*»— vol dir que **el detentor del retracte no pot
+> > manllevar per exercir-lo**, i **la cessió del retracte és permesa sota la
+> > mateixa reserva.** **La citació es manté; la conclusió es retira.** Vegeu
+> > [ab propris diners y per son propri us](./ab-propris-diners-y-per-son-propri-us.md),
+> > **on un plet de 1901 es va decidir precisament sobre aquesta clàusula.**
 
 ## Les millores, i qui les paga
 
@@ -217,7 +224,9 @@ l'adquirent per les reparacions, *adobs***.
 4. **La peça justificativa p. XLVI** *(venda del 10 d'agost de 1788)* del mateix
    volum, **no llegida.** **A l'abast.**
 5. **Si la clàusula «*no lo pugan quitar sino per son propri us*» era corrent**
-   o **excepcional.** **La font en dona dos casos del mateix any.**
+   o **excepcional.** **La font en dona dos casos del mateix any.** — **I el seu
+   sentit queda fixat el 2026-09-18**: **prohibeix manllevar per rescatar, no
+   revendre.**
 6. **Què era el *dret de cuarta* que s'atribueix a Z cap al 1900** en una cessió de
    béns: **el corpus el té al [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)**
    **i la secció que la font hi dedica encara no està llegida.** `Unitat següent.`
