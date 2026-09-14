@@ -59,6 +59,28 @@ Dues coses hi ha, i totes dues importen:
 Es comprova d'una manera concreta: **comparant l'original del Consell amb
 l'imprès de la Seu**. Buit registrat.
 
+### I el 1904 una font independent descriu l'imprès
+
+**Afegit el 2026-09-16 des de [La Coutume d'Andorre](../../../fonts/brutails-coutume-1904.md),
+capítol II, p. 29, notes 2 i 3** ([la unitat destil·lada](../../institucions/consell-general/vuitanta-pessetes-per-fer-reunir-el-consell.md)).
+
+Brutails dona **la fitxa bibliogràfica de l'imprès de la Seu d'Urgell** —*Plan de
+reforma adoptat en las valls de Andorra…*, **1866, in-12, 16 pàgines**, «**molt
+rara**»— i **hi descriu el que l'acusació suposava**:
+
+> **«l'aprovació episcopal, que és impresa al capdavant de la Reforma».**
+
+**I aquella aprovació té valor normatiu**: a la **pàgina 31** en cita el **§ 1**
+per fixar que **el Consell General es renova per meitat**. **És a dir: dins de
+l'imprès de la Seu d'Urgell hi ha un text del bisbe, amb paràgrafs numerats, del
+qual se'n treuen regles de composició del Consell General.**
+
+**Això no prova que l'addició fos subreptícia**, i el corpus no ho afirma. **El
+que registra és que el fet material que l'acusació del 1894 suposava —un text
+episcopal imprès dins de la llei— és documentat per una font independent, noranta
+anys abans que el corpus s'ho preguntés.** `Buit nou i prioritari: el text de
+l'aprovació episcopal, paràgraf per paràgraf.`
+
 ## Les dues dates que la fan una llei dels dos coprínceps
 
 **Afegit el 2026-09-16 des de [La Coutume d'Andorre](../../../fonts/brutails-coutume-1904.md),

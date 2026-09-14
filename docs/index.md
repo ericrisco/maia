@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**837** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**838** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -862,6 +862,7 @@
 | [L'estrany i el llot](temes/institucions/consell-general/lestrany-i-el-llot.md) | `temes/institucions/consell-general` | compilada | historica | no | `brutails-coutume-1904` |
 | [L'extensió dels poders](temes/institucions/consell-general/lextensio-dels-poders.md) | `temes/institucions/consell-general` | compilada | historica | no | `brutails-coutume-1904` |
 | [Un cego malament judica de colors](temes/institucions/consell-general/un-cego-malament-judica-de-colors.md) | `temes/institucions/consell-general` | compilada | contemporania | no | `brutails-coutume-1904` |
+| [Vuitanta pessetes per fer reunir el Consell General](temes/institucions/consell-general/vuitanta-pessetes-per-fer-reunir-el-consell.md) | `temes/institucions/consell-general` | compilada | historica | no | `brutails-coutume-1904` |
 
 ## temes/institucions/coprincipat
 

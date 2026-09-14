@@ -210,8 +210,24 @@ mateix**.
 ## Buits registrats
 
 1. **El text de la Reforma de 1866**, paràgraf per paràgraf. Brutails en cita els
-   §§ 1, 3, 5-7, 9, 10, 14 i 16 i **el corpus no en té cap de sencer**.
-   **Prioritari.**
+   §§ **1, 3, 5-10, 14, 15 i 16** —**la llista va créixer el 2026-09-16 amb els
+   §§ 8, 10 i 15**, llegits a la secció *Organisation administrative* del mateix
+   capítol ([vuitanta pessetes per fer reunir el Consell General](../../institucions/consell-general/vuitanta-pessetes-per-fer-reunir-el-consell.md))—
+   i **el corpus no en té cap de sencer**. **Prioritari.**
+
+   > **Ara en té la fitxa bibliogràfica completa**, de la nota 2 de la pàgina 29:
+   > ***Plan de reforma adoptat en las valls de Andorra per lo nombrament de
+   > consellers, consuls y demes autoritats y comisionats, que han de constituir
+   > lo gobern general y de cada parroquia y entendrer en la administracio de las
+   > cosas comunas*, **Seu d'Urgell, 1866, in-12, 16 pàgines**, i **«aquesta
+   > brochure és molt rara»** ja el 1904. **El buit no es tanca; deixa de ser una
+   > cerca a cegues.**
+   >
+   > **I hi ha dues peces més a buscar amb ella**: **l'exposició de motius
+   > adreçada al Govern francès el 24 d'abril de 1866**, i **l'aprovació
+   > episcopal, «impresa al capdavant de la Reforma»**, que **té paràgrafs propis
+   > i valor normatiu** —Brutails en treu del **§ 1** la renovació per meitat del
+   > Consell General.
 2. **L'apèndix de la Reforma, pàgina 14**, amb l'obligació de mestre i mestra.
 3. **En què consistien les «facilitats» de naturalització** per al cap de casa
    estranger.

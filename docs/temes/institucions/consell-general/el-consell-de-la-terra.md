@@ -387,6 +387,19 @@ Els llibres d'actes del **segle XVI** ja documenten que el Consell de la Terra
 tenia **24 membres**: **dos cònsols i dos consellers per cadascuna de les sis
 parròquies**.
 
+> **Com era el 1904, i què havia canviat.** **Afegit el 2026-09-16 des de
+> [Brutails](../../../fonts/brutails-coutume-1904.md), capítol II, p. 31**
+> ([la unitat destil·lada](./vuitanta-pessetes-per-fer-reunir-el-consell.md)).
+> **El nombre es manté —24, quatre per parròquia— però la composició ja no és la
+> mateixa**: després de la Reforma de 1866 són **quatre consellers generals per
+> parròquia, expressament distints dels consellers de parròquia**, i **no dos
+> cònsols i dos consellers**. **Mandat de quatre anys, renovable per meitat**
+> *(aprovació episcopal de la Reforma, § 1)*, amb **tractament d'*Il·lustres***.
+> **I la vacant per mort la cobreixen els tres altres consellers generals de la
+> mateixa parròquia, obligats a triar el successor dins del mateix grup de
+> quarts** *(Reforma, § 10)*. **El Consell General deixa de ser una emanació
+> directa dels comuns i el quart hi torna com a circumscripció.**
+
 **Vint-i-quatre.** El mateix nombre que apareix als 24 vots a favor de
 [Boris Skossyreff](../../historia/segle-xx-primera-meitat/boris-skossyreff.md) el
 1934 — el que confirma que aquella xifra **era el ple del Consell**.
@@ -397,6 +410,13 @@ El sistema tenia **rotació automàtica**, i això és molt bonic:
 
 - **Fins al 1866**, els **cònsols** els elegien els consells de parròquia **a
   final d'any, durant el consell dels Sants Innocents**, per **un any**.
+> **La rotació va sobreviure a la Reforma, amb el termini doblat.** El 1904 **el
+> consell de parròquia tria els cònsols entre els consellers acabats d'elegir**,
+> i **els cònsols manen dos anys i després són consellers dos anys més**
+> *(Reforma, § 8; [Brutails](../../../fonts/brutails-coutume-1904.md), p. 30)*.
+> **El mecanisme és el mateix que aquesta fitxa descriu per abans del 1866; el
+> que canvia és la durada, d'un any a dos.**
+
 - Els cònsols que acabaven mandat passaven **directament a consellers generals**
   a la sessió de Sancogesma següent.
 - Els **consellers de la Terra sortints** passaven, també de forma directa, a:

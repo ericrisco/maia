@@ -179,6 +179,28 @@ càrrec que més importa:
 testimoni un privilegi que limita a un el nombre de veguers que els andorrans han
 d'obeir.
 
+## Com llegeix Brutails aquest document, al cos del llibre
+
+**Afegit el 2026-09-16.** El corpus tenia **la transcripció** d'aquesta peça i
+**no el que el seu editor en treu**. Al **capítol II, p. 27**, Brutails la fa
+servir per a una tesi, i a la **p. 26, nota 1**, per a una altra
+([no una imitació, sinó una caricatura](../pareatge/no-una-imitacio-sino-una-caricatura.md)):
+
+1. **És un exemple de «veritables lleis dictades pel sol comte de Foix»** — la fa
+   servir per sostenir que **els cosenyors legislaven de vegades per separat**.
+2. I més fort: **«un text de 1305 del qual sembla ben bé resultar que en aquella
+   data el Bisbe era exclòs de l'administració de les Valls»**.
+
+**El corpus registra la lectura i no l'adopta.** `És una inferència del qui
+transcriu: el document és un privilegi del comte i no diu res del Bisbe. Que qui
+el signa sol no esmenti l'altre senyor és compatible amb l'exclusió i també amb
+altres explicacions, i Brutails mateix escriu «il semble bien».`
+
+**El que sí que queda establert**, i és la part que importa per a la cadena de
+còpia: **aquesta peça és una de les que Brutails declara haver transcrit ell
+mateix** *(p. CLXVI)*. **No passa pel copista intermedi que afecta el Politar i
+la Instructa de 1740** ([fitxa de font](../../../fonts/brutails-coutume-1904.md)).
+
 ## Buits registrats
 
 **El pergamí no s'ha vist.** El corpus té **la transcripció de Brutails del 1904**
