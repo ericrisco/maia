@@ -170,7 +170,14 @@ papers](./la-casa-als-papers.md).
    que **no s'hi practicava**. **Un buit de la font no és un buit del món.**
 4. **El cas de la sogra assassinada**: **sense data, sense noms i sense
    referència**. **El corpus no sap si va arribar a sentència.** `Requereix font
-   externa: els registres de judicis criminals dels batlles.`
+   externa: els registres de judicis criminals dels batlles.` — **Pista afegida el
+   2026-09-18**: la mateixa obra, a la **p. 147**, explica que **les Corts van
+   haver de decidir si un pare podia desheretar un fill hereu que havia matat la
+   seva mare**, i **van deixar-lo hereu pensant en els fills del culpable** ([massa
+   fàcil fer la vida impossible al gendre](./massa-facil-fer-la-vida-impossible-al-gendre.md)).
+   **Podria ser el mateix fet vist dues vegades**, un cop com a fet social i
+   l'altre com a plet successori, **però cap dels dos passatges no porta data ni
+   nom i la font no els relaciona.** `hipòtesi del corpus, no verificada.`
 5. **Quants processos entre sogres i nores hi va haver**: la font diu **«força
    freqüents»** i **no en dona cap xifra ni cap cas datat.**
 6. **Fins quan va estar vigent la llicència del Consell per fer-se poblador.**

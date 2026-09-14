@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**868** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**869** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -713,6 +713,7 @@
 | [L'antic règim](temes/historia/antic-regim/lantic-regim.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 | [Les estratègies matrimonials](temes/historia/antic-regim/les-estrategies-matrimonials.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `camiade-migracions` |
 | [L'hereu i el cabaler](temes/historia/antic-regim/lhereu-i-el-cabaler.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `rodriguez-minana-notaris` |
+| [Massa fàcil fer la vida impossible al gendre](temes/historia/antic-regim/massa-facil-fer-la-vida-impossible-al-gendre.md) | `temes/historia/antic-regim` | compilada | historica | no | `brutails-coutume-1904` |
 | [Mig per mig, com vulgarment es diu a la vall d'Andorra](temes/historia/antic-regim/mig-per-mig-com-vulgarment-es-diu-a-la-vall-dandorra.md) | `temes/historia/antic-regim` | compilada | historica | no | `brutails-coutume-1904` |
 | [No són un contracte: són una llei](temes/historia/antic-regim/no-son-un-contracte-son-una-llei.md) | `temes/historia/antic-regim` | compilada | historica | no | `brutails-coutume-1904` |
 | [Primer el meu pare; després, el meu marit](temes/historia/antic-regim/primer-el-meu-pare-despres-el-meu-marit.md) | `temes/historia/antic-regim` | compilada | historica | no | `brutails-coutume-1904` |
