@@ -316,6 +316,13 @@ article la presentava com la regla, i és la regla anterior.**
 
 **I es va trencar per fam.** *(pàgina 206, nota 2)*
 
+> **Continuació, 2026-09-18**: **el que ve després d'aquestes pàgines** —**el decret
+> del bisbe Boltas de 1785 que hauria fet perpetu el retracte de les vendes
+> judicials, que ningú no ha vist mai, que un batlle coneixia només d'oïda i que les
+> parts amb més interès no van poder produir**, **i la confirmació que el bisbe
+> d'Urgell en va fer el 1881**— **és a** [un decret que ningú no ha produït
+> mai](./un-decret-que-ningu-no-ha-produit-mai.md).
+
 > **9 d'abril del 1770.** El blat havia estat car els anys anteriors i moltes
 > famílies n'havien quedat escanyades: «**Resol lo present Concell y comissiona
 > al dr Ignasi Fiter y Rossell y a Esteve Rossa y Pujol peraque vagien a suplicar
@@ -323,12 +330,17 @@ article la presentava com la regla, i és la regla anterior.**
 > cessio de bens de poder recobrarlos, avent perdut la quarta.**»
 
 **El Consell General envia dos comissionats a suplicar al bisbe que perdoni el
-termini a tots els qui havien fet cessió de béns, perquè el blat era car.** I un
-dels dos és **el doctor Ignasi Fiter i Rossell**, l'autor del
-[Manual Digest](../../historia/manual-digest/manual-digest.md).
+termini a tots els qui havien fet cessió de béns, perquè el blat era car.**
 
-**El corpus el tenia com a jurista i com a autor. Ara el té fent d'ambaixador
-d'insolvents.**
+> **CORRECCIÓ, 2026-09-18.** **Aquest article deia que un dels dos comissionats
+> era «el doctor Ignasi Fiter i Rossell, l'autor del *Manual Digest*».**
+> **La identificació es retira.** **L'acord diu «*al dr **Ignasi** Fiter y
+> Rossell*»**, i **l'autor del *Manual Digest* és **Antoni** Fiter i Rossell**,
+> nascut el 1706 ([el Manual Digest](../../historia/manual-digest/manual-digest.md)).
+> **Són dos noms de pila diferents en dues fonts diferents**, i **el corpus no
+> afirma que siguin la mateixa persona ni que hi hagi parentiu.** **Qui era Ignasi
+> Fiter i Rossell queda com a buit.** Vegeu [un decret que ningú no ha produït
+> mai](./un-decret-que-ningu-no-ha-produit-mai.md).
 
 > **I el Politar diu una altra cosa del retracte.** Assimila el bestiar als
 > mobles (pàgines 213-214) i **declara que en les vendes judicials no hi ha
