@@ -1,0 +1,118 @@
+GV20160603_12_31_51 
+ Edicte
+ Edicte de l’1-06-2016 de publicació de les taules d’avaluació establertes per la Comissió d’Avaluació de la documentació (CAD), any 2016.
+ La Comissió d’Accés i Avaluació de la Documentació té per objecte: analitzar la documentació de l’Administració general; assessorar les entitats parapúbliques i les entitats de capital social majoritàriament públic en l’avaluació i la tria de la seva documentació; elaborar i regular els criteris generals d’avaluació i tria de la documentació de l’Administració general, i controlar-ne l’aplicació correcta; establir els procediments d’eliminació i els de conservació; i establir les taules d’avaluació de la documentació de l’Administració general; identificar les obsolescències de formats de la documentació electrònica i proposar la migració dels formats per a la seva preservació; i establir els criteris generals sobre l’aplicació de la normativa que regeix l’accés als documents públics
+ Les resolucions de la CAAD han de ser aprovades pel Govern perquè siguin plenament executives.
+ Per cada un dels expedients s’assenyala el departament i/o àrea titular de la documentació avaluada, la sèrie documental i la decisió adoptada per la CAAD.
+ D’acord amb el Decret del 9-9-2015 d’aprovació del Reglament organitzatiu de la Comissió d’Accés i Avaluació de la Documentació (CAAD), les resolucions de la CAAD han de ser publicades al BOPA un cop aprovades Govern (art.12).
+ El Govern en les sessions de Govern de 24 de febrer del 2016 i de l’1 de juny del 2016, va decretar les taules d’avaluació documental següents:
+ Núm. exp.: 1/2016
+ Departament d’Agricultura
+ H1202 Gestió de les assegurances
+ Resolució:
+ Conservació permanent de la documentació anterior al 2000, i les actes de peritatge.
+ Eliminació total als 5 anys la documentació posterior al 2000.
+ Accés:
+ Lliure als 5 anys.
+ Observacions:
+ Per a garantir la conservació de les dades informàtiques aquestes s’hauran de migrar periòdicament.
+ Les dades guardades en Access han de ser transferides a format XML abans de fer la transferència documental a l’Arxiu.
+ Data aprovació de Govern: 24/02/2016
+ Núm. exp.: 2/2016
+ Departament d’Agricultura
+ H1302 Padral
+ Resolució:
+ Conservació permanent la documentació anterior al 2000.
+ Eliminació total als 10 anys la documentació posterior al 2000.
+ Accés:
+ Lliure als 5 anys.
+ Observacions:
+ Per a garantir la conservació de les dades informàtiques aquestes s’hauran de migrar periòdicament.
+ Les dades guardades en Access han de ser transferides a format XML abans de fer la transferència documental a l’Arxiu.
+ Data aprovació de Govern: 24/02/2016
+ Núm. exp.: 3/2016
+ Agricultura
+ H1207 Control i seguiment de conreus
+ Resolució:
+ Conservació permanent la documentació anterior al 2001.
+ Eliminació total als 2 anys la documentació posterior al 2001.
+ Accés:
+ Lliure als 15 anys.
+ Observacions:
+ Per a garantir la conservació de les dades informàtiques aquestes s’hauran de migrar periòdicament.
+ Les dades guardades en Access han de ser transferides a format XML abans de fer la transferència documental a l’Arxiu.
+ Data aprovació de Govern: 24/02/2016
+ Núm. exp.: 4/2016
+ Agricultura
+ H1305Importació i exportació [d’animals]
+ Resolució:
+ Conservació permanent la documentació anterior al 2000.
+ Eliminació total als 5 anys la documentació posterior al 2000.
+ Accés:
+ Lliure als 5 anys.
+ Observacions:
+ Per a garantir la conservació de les dades informàtiques aquestes s’hauran de migrar periòdicament.
+ Les dades guardades en Access han de ser transferides a format XML abans de fer la transferència documental a l’Arxiu.
+ Data aprovació de Govern: 24/02/2016
+ Núm. exp.: 5/2016
+ Agricultu ra 
+ H1404Campanyes de sanejament ramaders
+ Resolució:
+ Conservació permanent la documentació no informatitzada (aproximadament des del 2009).
+ Eliminació total als 5 anys.
+ Accés:
+ Lliure als 5 anys.
+ Observacions:
+ Per a garantir la conservació de les dades informàtiques aquestes s’hauran de migrar periòdicament.
+ Les dades guardades en Access han de ser transferides a format XML abans de fer la transferència documental a l’Arxiu.
+ Data aprovació de Govern: 24/02/2016
+ Núm. exp.: 6/2016
+ Agricultura
+ H1303 Registre animals de companyia
+ Resolució:
+ Conservació permanent la documentació anterior al 1999.
+ Eliminació total als 25 anys la documentació posterior al 2000.
+ Accés:
+ Lliure als 5 anys.
+ Observacions:
+ Per a garantir la conservació de les dades informàtiques aquestes s’hauran de migrar periòdicament.
+ Les dades guardades en Access han de ser transferides a format XML abans de fer la transferència documental a l’Arxiu.
+ Data aprovació de Govern: 23/03/2016
+ Núm. exp.: 7/2016
+ Agricultura
+ H1308 Incidències, queixes i denúncies
+ E10 Animals de companyia
+ E11 Gossos potencialment perillosos
+ E20 Animals de renda
+ Resolució:
+ Conservació permanent.
+ Accés:
+ Lliure.
+ Data aprovació de Govern: 1/06/2016
+ Núm. exp.: 8/2014
+ Agricultura
+ H1309 Expedients sancionadors
+ E10 Animals de companyia
+ E11 Gossos potencialment perillosos
+ E20 Animals de renda
+ Resolució:
+ Conservació permanent.
+ Accés:
+ Lliure
+ Data aprovació de Govern: 1/06/2016
+ Núm. exp.: 9/2014
+ Agricultura
+ H1312 Adopció, cessió, recuperació i acollida
+ Resolució:
+ Conservació permanent la documentació anterior al 1984.
+ Eliminació total als 25 anys la documentació posterior a 1984.
+ Accés:
+ Lliure
+ Observacions:
+ Per a garantir la conservació de les dades informàtiques aquestes s’hauran de migrar periòdicament.
+ Les dades guardades en Access han de ser transferides a format XML abans de fer la transferència documental a l’Arxiu.
+ Data aprovació de Govern: 1/06/2016
+ Cosa que es fa pública per a coneixement general.
+ Andorra la Vella, 1 de juny del 2016
+ Antoni Martí Petit
+Cap de Govern

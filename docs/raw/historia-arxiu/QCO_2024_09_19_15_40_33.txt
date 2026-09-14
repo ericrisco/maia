@@ -1,0 +1,252 @@
+QCO_2024_09_19_15_40_33 
+ Reglament del 17-9-2024 de l’Arxiu Comunal del Comú de Canillo.
+ Exposició de motius
+ L’any 2013, el Comú de Canillo va aprovar, per acord de Consell de Comú de data 21 de març, el Reglament del Servei d’Arxiu del Comú de Canillo que ara ha de ser actualitzat, degut a que en el decurs dels darrers anys, les administracions comunals han assumit noves funcions i han adquirit una major complexitat administrativa que han comportat un increment considerable de la documentació i, per tant, un replantejament de la seva gestió.
+ En conseqüència, la finalitat del present reglament és donar resposta a la creixent complexitat derivada de l’evolució de l’administració, i en especial als reptes sorgits arran de la implantació de l’administració electrònica i la seu electrònica, així com dels objectius de transformació digital a nivell nacional.
+ En aquest context, l’objecte d’aquest reglament és definir i regular de nou les competències, l’estructura i funcions de l’Arxiu Comunal del Comú de Canillo i de les persones responsables d’aquest servei. Així com establir els criteris bàsics d’organització del servei i de conservació, de tractament arxivístic i d’accés als arxius que integren la documentació, en totes les seves fases (activa, semiactiva i inactiva), independentment del format i suport en què es trobi afavorint una gestió administrativa transparent i eficaç en el tractament i consulta de dades.
+ El present reglament s’emmarca en el què s’estableix en la Llei 14/2023 , del 3 de juliol, del text consolidat del Codi de l’Administració, en la Llei qualificada de delimitació de competències dels comuns del 4 de novembre del 1993; en l’Ordinació de 28-6-2024 d’organització i funcionament del Comú de Canillo; en la Llei 9/2003 , del 12 de juny, del patrimoni cultural d’Andorra; en la Llei 30/2014 , del 27 de novembre, qualificada de protecció civil als drets a la intimitat, a l’honor i a la pròpia imatge; en la Llei 29/2021 , del 28 d’octubre, qualificada de protecció de dades personals; en la Llei 33/2021 , del 2 de desembre, de transparència, accés a la informació pública i govern obert; en la Llei 35/2014 , del 27 de novembre, de serveis de confiança electrònica; i, en l’Ordinació de 28-6-2024 reguladora de l’administració electrònica.
+ El Comú de Canillo, en la sessió ordinària del Consell de Comú del 16 de setembre de 2024, ha aprovat el següent:
+ Reglament de l’Arxiu Comunal del Comú de Canillo
+ Capítol I. Disposicions generals
+ Article 1. Definicions 
+ A efectes d’una millor comprensió es defineixen els conceptes següents:
+ a) Arxiu Comunal: servei del Comú, adscrit al Departament de Secretaria General, de caràcter administratiu i cultural especialitzat en la gestió, el tractament, la custòdia i la difusió de la documentació generada per l’administració comunal, així com altres tipus de fons reunits pel Comú en l’exercici de la seva activitat. També s’ha d’entendre com la instal·lació a on es reuneixen, conserven, organitzen i difonen els documents.
+ b) Avaluació documental: funció destinada a determinar el valor cultural, informatiu o jurídic dels documents per tal de decidir-ne la conservació o l’eliminació.
+ c) Document: qualsevol expressió en llenguatge natural o convencional, i gràfica, sonora o en imatge, recollida en qualsevol tipus de suport material i creat en qualsevol entorn (físic o electrònic).
+ d) Document electrònic: informació de qualsevol naturalesa en format electrònic, arxivada en un suport electrònic segons un format determinat i susceptible d’identificació i tractament diferenciat.
+ e) Documentació en fase activa: documents administratius que s’utilitzen de forma habitual per part de les unitats administratives en execució d’un tràmit administratiu o bé per poder dur a terme les funcions i activitats que li són pròpies.
+ f) Documentació en fase semiactiva: documents administratius que una vegada conclosa la seva tramitació ordinària no s’utilitzen de manera habitual per la unitat administrativa que els ha generat.
+ g) Documentació en fase inactiva: documents administratius que una vegada conclosa la seva vigència administrativa contenen valors de caràcter informatiu, probatori, testimonial, estadístic o històric.
+ h) Documentació de suport: documents d’ús informatiu i de treball que ajuden en la resolució d’un tràmit o d’una actuació administrativa; no és consideren documents d’arxiu.
+ i) Fons documental: conjunt de documents rebuts o produïts per les persones físiques i jurídiques, públiques o privades, com a resultat de la seva activitat i les seves funcions al llarg de la seva existència.
+ j) Expedient: conjunt ordenat de documents i d’actuacions que serveixen d’antecedent i de fonament a la resolució administrativa, així com les diligències adreçades a executar-les. Els expedients es formaran mitjançant l’agregació successiva de tots els documents, les proves, els dictàmens, els decrets, els acords, les notificacions i dels altres documents que en siguin constitutius així com la resolució adoptada. Els seus fulls seran paginats pels funcionaris o agents administratius encarregats de la seva tramitació.
+ k) Expedient electrònic: conjunt de documents electrònics corresponents a un procediment administratiu, sigui quin sigui el tipus d’informació que continguin. Ha d’incloure un índex electrònic que foliï els documents que el componen, que ha de ser signat electrònicament per l’Administració pública, òrgan o entitat actuant i ha de garantir la integritat de l’expedient i permetre recuperar-lo a través de metadades mínimes obligatòries.
+ l) Patrimoni documental comunal: tots aquells documents rebuts, produïts o reunits per les seccions, serveis i departaments del Comú; organismes autònoms administratius; persones jurídiques i per entitats sense personalitat jurídica creats pel Comú o amb participació majoritària del Comú.
+ m) Sistema de gestió documental: conjunt d’operacions destinades a controlar de manera eficient, estructurada i sistemàtica la creació, la recepció, la conservació, el manteniment, la utilització i l’accés als documents.
+ n) Transferència: procediment habitual d’ingrés de documents o expedients a l’arxiu un cop complert el termini de permanència establert segons el cicle de vida de la documentació i la seva avaluació.
+ o) Comissió de Gestió Documental: òrgan encarregat de desenvolupar mantenir els diferents instruments arxivístics i de gestió documental, entre altres funcions.
+ Article 2. El patrimoni documental del Comú 
+ La documentació generada i rebuda pel Comú de Canillo que no tingui caràcter personal forma part del patrimoni documental del Comú. S’entén per documentació personal aquella que forma part de l’esfera privada de la persona que ostenta un càrrec polític o de la persona que ocupa un lloc de treball al Comú.
+ A aquests efectes, constitueix el patrimoni documental del Comú el conjunt orgànic de documents que es descriu a continuació, independentment de la data, el format i el suport en què aquests han estat generats:
+ a) Els fons documentals generats o originats pels càrrecs electes, persones que els assessoren o de la seva confiança o pel personal que exerceix funcions administratives pel Comú, en el marc de l’exercici de les seves funcions i activitats.
+ b) La documentació generada per organismes autònoms administratius, persones físiques o jurídiques gestores de serveis públics o per entitats sense personalitat jurídica creats pel Comú o de capital social majoritàriament públic que exerceixin llur activitat a la parròquia de Canillo que hagin estat lliurats al Comú de Canillo.
+ c) Tota aquella documentació que hagi estat objecte de dipòsit, cessió o donació al Comú de Canillo per terceres persones, amb el seu corresponent contracte, i que tingui relació amb Canillo i el seu territori.
+ d) Els documents de més de 100 anys d’antiguitat produïts o rebuts per qualsevol persona física o empresa privada de la parròquia de Canillo, i els de menor antiguitat que hagin estat produïts en suports de caducitat inferior als 100 anys.
+ Aquest conjunt documental composa l’Arxiu del Comú de Canillo i el seu acrònim és ACC.
+ Capítol II. L’Arxiu Comunal
+ Article 3. Funcions 
+ 1. Les funcions de l’Arxiu Comunal comprenen des de la gestió administrativa fins a l’actuació cultural i són les detallades a continuació
+ a) Gestionar i realitzar el tractament arxivístic de la documentació del Comú.
+ b) Garantir l’accés a la informació en relació als documents que estiguin sota la seva responsabilitat, tot respectant el dret a la intimitat i altres drets protegits per l’ordenament.
+ c) Gestionar, organitzar i difondre el patrimoni documental comunal.
+ d) Fomentar la difusió del patrimoni documental comunal amb finalitat de divulgació cultural, recerca i suport a la docència.
+ e) Participar en actuacions i campanyes de protecció i difusió del patrimoni documental promogudes des d’altres administracions competents.
+ f) Vetllar per la salvaguarda i conservació del patrimoni documental comunal.
+ g) L’aplicació de criteris d’avaluació i tria dels documents del Comú, fent propostes concretes de conservació i eliminació a la Comissió de Gestió Documental.
+ h) Col·laborar en la definició i actualització, quan escaigui, de la política de gestió el document electrònic i en la implantació del vocabulari de metadades.
+ i) La gestió dels mitjans i instal·lacions de l’Arxiu Comunal.
+ j) Totes aquelles altres funcions i responsabilitat que li siguin encomanades pels òrgans de govern del Comú de Canillo.
+ 2. L’Arxiu Comunal és un servei amb incidència sobre totes les unitats administratives i la seva participació esdevé necessària per a qualsevol acció de tractament de la documentació endegada pel Comú.
+ Article 4. Mitjans i instal·lacions 
+ 1. Per a un correcte desenvolupament de les seves funcions i als efectes de garantir la integritat i la conservació del patrimoni documental, l’Arxiu Comunal haurà de disposar dels mitjans, instal·lacions i personal adequats.
+ 2. Les instal·lacions de l’Arxiu Comunal tenen com a funció única i exclusiva aquelles que li són pròpies i que es troben establertes al present reglament, i en cap cas no podran ser utilitzades per a altres finalitats.
+ 3. Les zones de treball i de dipòsit de documentació són d’accés restringit i no hi podran accedir persones alienes a aquest servei sense disposar de la corresponent autorització, llevat de casos de força major o excepcionals.
+ Article 5. Personal de l’Arxiu Comunal 
+ 1. El responsable de l’Arxiu Comunal ho és del bon ordre i funcionament del servei, de les instal·lacions que hi estiguin destinades i de les tasques que hi desenvolupa el personal de suport.
+ 2. Són funcions del personal de l’Arxiu Comunal:
+ a) Rebre, conservar i custodiar adequadament la documentació.
+ b) Classificar i ordenar la documentació en suport paper i supervisar la documentació en format electrònic.
+ c) Elaborar i proposar programes de treball de formació, així com exposar les necessitats i proposar les millores que es considerin necessàries.
+ d) Elaborar protocols de classificació, ordenació i tractament de la documentació de gestió dels diferents departaments de l’administració comunal.
+ e) Proposar directrius per a la correcta ubicació física dels documents en suport paper.
+ f) Elaborar inventaris, catàlegs, índexs, repertoris i d’altres instruments de descripció documental que es considerin necessaris per a facilitar un adequat accés dels usuaris a la documentació.
+ g) Facilitar l’accés i consulta de la documentació a tots els investigadors, estudiosos i ciutadans en general, d’acord amb el marc legal i normatiu existent.
+ h) Realitzar propostes d’eliminació de documentació d’acord amb el marc normatiu existent.
+ i) Col·laborar en el disseny i implementació del Sistema de Gestió Documental.
+ j) Mantenir relació amb els ens públics i privats en tot allò que concerneix l’Arxiu Comunal.
+ k) Proposar l’adquisició de materials que siguin necessaris.
+ l) Mantenir els registres necessaris per a controlar els ingressos, consultes i préstec de la documentació.
+ m) Preocupar-se del foment del patrimoni documental comunal, mitjançant propostes d’adquisició, donació o dipòsit en els casos que sigui possible.
+ n) Planificar i coordinar les activitats de difusió de l’Arxiu.
+ o) Proposar programes de formació de personal d’arxiu.
+ p) Aplicar les recomanacions i decisions adoptades per la CNAAD en matèria d’accés i avaluació de la documentació pública.
+ q) Col·laborar amb la CNAAD i formar-ne part en representació del Comú, quan així es designi.
+ r) Qualsevol altra funció que descrigui la fitxa de funcions del lloc de treball.
+ Capítol III. La gestió documental
+ Secció 1a. Definició i àmbit d’actuació
+ Article 6. La gestió del patrimoni documental 
+ La gestió del patrimoni documental del Comú, en tant que funció de l’Arxiu Comunal, comprèn:
+ a) Analitzar i identificar la documentació.
+ b) Proposar normes reguladores de classificació ordenació i tractament de la documentació durant la seva gestió administrativa en els diferents òrgans auxiliars, i departaments del Comú, i supervisar-ne l’aplicació.
+ c) Establir criteris i protocols sobre la producció, la gestió i les transferències de documentació, així com sobre la tria i eliminació de documents amb la col·laboració dels serveis comunals afectats, i d’acord amb el marc normatiu vigent.
+ d) Administrar l’eina d’arxiu electrònic per a la correcta conservació de documents electrònics.
+ e) Marcar directrius sobre les condicions idònies dels locals de dipòsit, les instal·lacions i la correcta col·locació física de la documentació en paper per tal de garantir-ne l’accessibilitat i la seguretat.
+ f) Contribuir a una millor eficàcia i un millor funcionament de l’administració comunal mitjançant l’elaboració dels instruments de descripció adients per tal de facilitar d’una manera ràpida i pertinent la documentació necessària per resoldre qualsevol tràmits administratiu.
+ Article 7. El Sistema de Gestió Documental 
+ El sistema de gestió documental es fonamenta en la Política de Gestió del Document Electrònic (PGDE) i en el Model de Gestió de l’Expedient i el Document Electrònic (MGEDE) que la desenvolupa.
+ La Política de Gestió del Document Electrònic estableix els criteris, pautes i estratègies que han de guiar la producció i gestió dels documents i expedients electrònics al Comú amb l’objectiu de garantir la seva autenticitat, fiabilitat, integritat i disponibilitat pel temps que es determini necessari.
+ El Model de Gestió de l’Expedient i Document Electrònic proporciona l’estratègia clara i concreta que s’ha de seguir per tal d’implementar allò establert a la PGDE. Aquesta estratègia es desenvolupa a través d’un conjunt de capítols. Cadascun d’ells desenvolupa al seu torn un aspecte fonamental en la gestió de documents i expedients electrònics.
+ Article 8. Instruments arxivístics 
+ Els processos de gestió documental es desenvolupen a través dels instruments arxivístics següents:
+ a) Quadre de classificació: Instrument de descripció que reflecteix l’estructura jeràrquica i lògica que permet la identificació, l’ordenació i la localització dels documents d’un organisme. Cada expedient o document s’identifica amb un nivell del quadre de classificació que ens remet a un concepte general o específic.
+ b) El Vocabulari de Metadades del Comú reflecteix les metadades que s’han d’incorporar als documents, expedients i signatures electròniques, partint del model utilitzat pel Govern d’Andorra. Aquest vocabulari, facilita, per una banda, la recuperació, la consulta, la transparència, l’avaluació i l’accés a la documentació del Comú; i de l’altra, garanteix la interoperabilitat entre els sistemes i promou el reaprofitament de documents en més d’un procés o tràmit.
+ c) El Catàleg de Tipologies documentals permet identificar les tipologies que composen els expedients del Comú. Així mateix, regula i determina les tipologies que composen expedients i sèries documentals, així com el seu ús com a metadada, que permet realitzar cerques o aplicar processos automatitzats com eliminar d’un expedient els documents d’una mateixa tipologia a partir de la seva Taula d’Avaluació i Accés a la Informació (TAAI).
+ d) El Catàleg de Formats documentals estableix els formats acceptats i normalitzats tant en la tramitació com en la conservació dels documents electrònics. Es fonamenta en els estàndards internacionals i en les convencions normatives al respecte.
+ e) Les Taules d’Avaluació i Accés a la Informació són l’instrument que assenyala per a cada sèrie documental del Quadre de Classificació els períodes de conservació i els terminis d’accessibilitat, identificant la documentació que s’ha de conservar permanentment i la que s’ha d’eliminar total o parcialment. Es troben validades i aprovades per la Comissió de Gestió Documental.
+ f) El Calendari de Conservació i Accés recull les decisions concretes respecte als períodes de conservació, accessibilitat i eliminació o conservació permanent per al conjunt de les sèries documentals produïdes pel Comú a partir d’allò determinat a les Taules d’Avaluació i Accés a la Informació.
+ Article 9. Ús i manteniment dels instruments arxivístics 
+ Els instruments arxivístics són d’ús comú per a totes les àrees i departaments del Comú, independentment de la tecnologia utilitzada en la gestió dels documents i expedients. El seu manteniment i actualització correspon a la Comissió de Gestió Documental en col·laboració amb l’Arxiu Comunal i amb els departaments que siguin requerits quan s’estimi oportú.
+ Article 10. Inclusió de sèries documentals 
+ La inclusió en el Quadre de Classificació de noves sèries documentals és funció exclusiva del personal de l’Arxiu Comunal, el qual haurà de prendre en consideració els criteris o propostes de les unitats productores de documentació. Qualsevol modificació a nivell formal, del contingut o de tramitació de les sèries documentals ja existents, haurà de ser comunicada al personal de l’Arxiu Comunal per tal que aquest procedeixi a una nova avaluació i actualitzi, si escau, el Quadre de Classificació i calendaris corresponents.
+ Secció 2a. De la transferència de documentació
+ Article 11. Transferències de documentació interna 
+ 1. Cadascuna de les unitats administratives del Comú, així com els organismes autònoms i les empreses que hi estiguin vinculades, transferiran periòdicament a l’Arxiu la seva documentació un cop finalitzada la seva tramitació administrativa. Fins el moment de realització de la transferència, la documentació serà custodiada sota la responsabilitat directa de les unitats productores.
+ 2. Les transferències de documentació, amb independència del seu suport i/o format, es faran d’acord amb la classificació que l’Arxiu Comunal hagi determinat, segons les necessitats de les diferents unitats productores de documentació i de la capacitat de recepció dels locals i equipament.
+ 3. La documentació es transferirà d’acord amb el calendari establert des de l’Arxiu Comunal i aprovat pel Consell de Comú. En qualsevol cas, la documentació que superi els 30 anys d’antiguitat haurà de ser custodiada directament per l’Arxiu Comunal llevat dels casos concrets decidits de forma expressa per la Corporació, previ informe de la persona responsable de l’Arxiu Comunal.
+ Article 12. Requisits de la documentació a transferir 
+ 1. La documentació que es transfereixi a l’Arxiu Comunal o a l’arxiu electrònic ha de ser original llevat de casos especials, que s’hauran de motivar convenientment. Per tant, abans de fer la transferència caldrà eliminar totes les còpies i duplicats que no estiguin degudament justificats.
+ 2. La documentació que es transfereixi a l’Arxiu Comunal o a l’arxiu electrònic ha d’haver finalitzat la seva tramitació administrativa i ha d’estar en expedients complets.
+ 3. La documentació electrònica només es podrà transferir en cas de tenir informades les metadades mínimes obligatòries, d’estar en un format reconegut pel Catàleg de Formats documentals i, en cas d’estar signada electrònicament, disposar d’una signatura electrònica vàlida.
+ 4. La documentació que sigui transferida a l’Arxiu Comunal físicament ha d’anar acompanyada del corresponent formulari de transferència que les unitats remitents hauran omplert d’acord amb els protocols establerts des de l’Arxiu Comunal.
+ 5. Qualsevol documentació que no compleixi amb els punts anteriors es retornarà al servei remitent, indicant les possibles deficiències i errors. No s’admetrà el seu ingrés a l’arxiu fins que no s’hagin corregit aquestes deficiències.
+ Article 13. Mètodes de transferència 
+ 1. La documentació en paper es transferirà convenientment ordenada i descrita, sense còpies ni elements que no hi guardin relació, prèvia eliminació dels elements materials que la puguin deteriorar. Sense el compliment d’aquestes condicions no podrà ser acceptada la transferència, llevat que hi consti una diligència específica del cap del departament o del servei productor, o en el seu defecte del/de la secretari/a general de la Corporació, que informi d’aquestes circumstàncies i de les seves causes.
+ 2. Els expedients electrònics en fase activa es transferiran un cop tancats i foliats, acompanyats d’un índex electrònic signat electrònicament.
+ 3. Un cop transferits es produirà un canvi de responsabilitat sobre els expedients, passant de la unitat productora a l’Arxiu Comunal.
+ 4. Els expedients electrònics tancats en fase de vigència la conservació dels quals sigui permanent o de llarga duració segons la Taula d’Avaluació i Accés a la Informació corresponent, seran transferits a l’eina d’arxiu electrònic segons les condicions tècniques que l’eina especifiqui per a poder-ne garantir la conservació i la difusió a llarg termini. La responsabilitat sobre aquesta documentació també serà de l’Arxiu Comunal.
+ Secció 3a. De l’avaluació i conservació del patrimoni documental
+ Article 14. Avaluació i tria de la documentació. 
+ 1. Es podrà eliminar tota documentació que no calgui conservar un cop hagi expirat el període de vigència administrativa, que no tingui interès per a la informació i la investigació o bé que la llei no obligui a conservar.
+ 2. La conservació o eliminació de documents generats pel Comú de Canillo es resoldrà a través de la Comissió de Gestió Documental.
+ Article 15. Comissió de Gestió Documental 
+ El Comú crearà una Comissió de Gestió Documental integrada per les persones següents:
+ a) El/la cònsol major o cònsol menor.
+ b) El/la secretari/a general.
+ c) L’interventor comunal.
+ d) El/la responsable de l’Arxiu Comunal.
+ e) El/la jurista de la Corporació.
+ f) El/la responsable de les Tecnologies de la Informació.
+ g) El/la responsable de la gestió de la documentació que s’ha d’avaluar.
+ Article 16. Funcions de la Comissió 
+ Les funcions de la Comissió de Gestió Documental són les següents:
+ a) Assignació de recursos tècnics, humans i econòmics necessaris per a l’impuls del Model de Gestió de l’Expedient i del Document Electrònic.
+ b) Garantir que les decisions adoptades al model de gestió i la seva aplicació sobre els diferents processos existents es fan conforme al dret i serveixen per a complir amb les obligacions legals del Comú.
+ c) Garantir el servei de les eines informàtiques necessàries per a la gestió i la preservació documental.
+ d) Garantir la capacitació necessària al personal afectat per a que entenguin i apliquin les directrius del model, així com difondre la seva aplicació sobre processos concrets entre els seus destinataris interns i externs.
+ e) Desenvolupar i mantenir els instruments arxivístics i de gestió documental. Entre d’altres establir les Taules d’Avaluació i Accés a la Informació del Comú de Canillo.
+ Article 17. Procediment d’avaluació 
+ El procediment s’inicia a proposta de la persona responsable de l’Arxiu Comunal o del/la Cap de Departament afectat i aquests, seguint els criteris generals d’avaluació i tria de la documentació, han de trametre la proposta a Secretaria General.
+ En cap cas es pot iniciar un procés d’avaluació i tria de documents si la proposta no compleix amb els requisits establerts.
+ Si des de Secretaria General s’avala la proposta en la qual es concreta de forma raonada i justificada la documentació a eliminar es convocarà una Comissió de Gestió Documental que estudiarà cada proposta, si és necessari es requerirà un assessorament extern i/o l’elevarà a la CNAAD i se n’aixecarà una acta.
+ Article 18. Acta de la Comissió de Gestió Documental 
+ L’acta de la Comissió de Gestió Documental ha d’incloure la relació detallada de la documentació que s’acorda eliminar i la documentació que s’acorda conservar, després serà aprovada en una Junta de Govern i posteriorment informada al Consell de Comú. Tot seguit es notificarà l’acord pres al/la responsable de l’Arxiu Comunal.
+ Article 19. La conservació dels fons documentals 
+ L’Arxiu Comunal vetllarà perquè en totes les dependències es compleixin les condicions adequades per a una correcta conservació i protecció de la documentació, independentment del seu suport físic o electrònic. Si fos el cas, proposarà l’adopció de les mesures necessàries per a garantir el compliment d’aquestes condicions.
+ La guarda i la conservació del patrimoni documental del Comú de Canillo porta implícits els aspectes següents:
+ a) Garantir la conservació i la integritat del patrimoni documental de l’Arxiu del Comú i vetllar contra el seu espoli, evitant qualsevol acció o omissió que posi en perill de deterioració, de pèrdua o de destrucció de tots o d’alguns dels béns que integren el patrimoni documental del Comú.
+ b) Establir les normes i mesures de seguretat de custòdia i d’accés necessàries per a la protecció i la salvaguarda de la documentació.
+ c) Elaborar protocols, normatives i plans de gestió per a la conservació i la custòdia de la documentació dels arxius de gestió i administratius.
+ d) Tenir cura especial d’aquells documents físics que no han estat reproduïts per qualsevol mitjà, per tractar-se d’exemplars únics i irrepetibles.
+ e) Coordinar i supervisar les actuacions destinades a la reproducció de documents físics per qualsevol mitjà.
+ f) Evitar la consulta i reproducció d’aquella documentació física en mal estat de conservació.
+ g) Fomentar la protecció del patrimoni documental de la parròquia mitjançant propostes d’adquisició o d’acceptació de dipòsits.
+ h) Determinar les polítiques de preservació que s’han d’aplicar per tal de garantir la conservació dels suports i de la informació, estudiar les causes de les alteracions que pateixen els documents i establir les prioritats de restauració.
+ i) Totes aquelles altres funcions i tasques que comportin l’organització i el tractament de la documentació que constitueix el patrimoni documental de la parròquia de Canillo.
+ Article 20. Mesures de preservació 
+ 1. En cas d’observar processos de deteriorament i/o degradació de la documentació en paper, l’Arxiu Comunal prendrà les mesures que estiguin al seu abast i proposarà als òrgans competents l’adopció de les mesures correctores adients. Si l’actuació requerís el trasllat de la documentació, serà preceptiu informe previ de la persona responsable de l’Arxiu Comunal i acord exprés de la Corporació.
+ 2. Igualment identificarà les obsolescències de formats de la documentació electrònica i proposarà la migració dels formats per preservar-la.
+ 3. Per garantir la conservació i integritat de la informació, l’Arxiu Comunal proposarà la utilització de suports i sistemes de protecció adequats. Per a la documentació electrònica, la preservació d’aquesta es durà a terme a l’eina d’arxiu electrònic.
+ 4. Es crearà un catàleg de documents essencials que garanteixi la seguretat davant possibles incidències que puguin posar en perill la conservació de la documentació i de la informació continguda.
+ Capítol IV. L’accés a la documentació
+ Article 21. L’accés a la documentació 
+ L’accés a la documentació ha de garantir el dret a la informació, el dret a la intimitat i altres drets protegits per l’ordenament. Aquesta exigència comporta:
+ a) Assessorar i informar l’usuari de l’Arxiu Comunal sobre aquells aspectes relacionats amb el tractament de la informació, possibilitats d’explotació i accessibilitat de la documentació que custodia.
+ b) Establir i regular les condicions de préstec i consulta de documentació per al seu ús en les diferents dependències del Comú i mantenir un registre de tots els documents prestats i consultats.
+ c) Posar a disposició dels usuaris els instruments de descripció documental en les condicions escaients per tal de facilitar l’accés de dits usuaris a la documentació.
+ d) Garantir l’accés i la consulta de la documentació a la ciutadania, d’acord amb el marc legal i normatiu vigent.
+ e) Mantenir una relació d’investigadors i confeccionar estadístiques d’accés i d’explotació dels fons documentals.
+ Article 22. Custòdia de documentació 
+ 1. Els documents de l’Arxiu Comunal només poden sortir del seu lloc habitual de custòdia en casos excepcionals. Prèviament, cal establir la durada, les condicions de seguretat i les garanties que es considerin necessàries. Alguns dels casos concrets en els quals es pot considerar aquesta possibilitat són:
+ a) Préstec.
+ b) Per digitalitzar o realitzar qualsevol altre tipus de reproducció que no sigui possible fer a les dependències de l’Arxiu Comunal.
+ c) Per acomplir tasques de restauració, relligat, enquadernació, neteja o desinfecció dels documents.
+ d) Per ordre judicial.
+ 2. L’extracció de documents de l’Arxiu Comunal s’ha de fer amb caràcter temporal per un termini establert i convingut prèviament amb el Comú amb les garanties de seguretat necessàries i, quan sigui convenient, amb l’establiment d’una assegurança segons ho determini el Comú a proposta del responsable de l’Arxiu.
+ 3. La sortida del territori nacional de béns d’interès cultural i de béns inventariats se subjecta a les disposicions previstes en la Llei de patrimoni cultural d’Andorra.
+ Article 23. Condicions generals de consulta 
+ 1. Atès que certa documentació pot afectar l’honor i la intimitat de les persones, la resposta als drets d’accés exercits per la ciutadania haurà de salvaguardar l’equilibri entre el dret a la informació previst per la normativa de la transparència i el dret a la intimitat previst a la normativa de protecció de dades personals.
+ L’exercici del dret d’accés no autoritza el ciutadà a utilitzar la documentació amb finalitats comercials ni a reproduir-la o difondre-la.
+ 2. L’Arxiu Comunal atén les consultes de documentació en horari d’atenció al públic. Fora d’aquest horari no es podrà accedir a les dependències ni utilitzar els seus serveis, llevat l’autorització expressa del/de la secretari/a general i sempre en presència del responsable de l’Arxiu o bé d’alguna persona de suport de l’Arxiu.
+ 3. La documentació s’ha de consultar en l’àrea habilitada per aquesta finalitat o a les eines informàtiques on es conservi la documentació electrònica. Les persones que consultin la documentació en paper hauran de conservar-ne l’ordre intern i tractar-la de forma adequada.
+ Els danys ocasionats maliciosament i els possibles robatoris es posaran en coneixement del/la secretari/secretària general perquè ho posi en coneixement del ministeri titular del Patrimoni Cultural del Govern d’Andorra i de les instàncies i jurisdiccions que consideri oportunes, a fi d’incoar el corresponent expedient sancionador o procediment penal i/o civil de reclamació de danys, si escau.
+ Article 24 Els préstecs o consultes internes de documentació 
+ 1. Per usuari intern s’entén el conjunt de persones vinculades a la institució del Comú de Canillo en motiu de càrrecs electes o pel desenvolupament de tasques i funcions administratives en el mateix, així com les empreses o organismes que en puguin dependre.
+ 2. Els usuaris interns de l’Arxiu Comunal no podran accedir ni retirar pel seu compte els documents que hagin estat traspassats a l’Arxiu, llevat de disposar d’autorització de la persona titular de la Secretaria General, del responsable de l’Arxiu o de la persona de suport de l’Arxiu. El préstec intern de documents es durà a terme mitjançant una demanda a l’Arxiu Comunal. Quan es retorni la documentació, des de l’Arxiu Comunal es deixarà constància en la mateixa demanda.
+ 3. Per raons de conservació, de preservació i de seguretat es prioritzarà la consulta de documents originals a les dependències del propi Arxiu Comunal. De fet, l’Arxiu Comunal podrà excloure documentació de préstec si el seu estat de conservació ho requereix. En aquest cas la documentació serà consultada als espais comunals habilitats a tal efecte o per mitjà de reproduccions.
+ 4. La documentació retornada haurà de mantenir les mateixes característiques, ordre, constitució interna i externa, neteja i condicions en què estava quan va ser facilitada per a la seva consulta, en els casos dels documents físics. En cas de no complir amb aquesta obligació i/o de no esmenar-ho previ requeriment per part del responsable de l’Arxiu Comunal, s’actuarà conforme a allò previst a l’apartat 7 del present article. No es pot agregar o sostreure documents sense donar-ne coneixement previ a la persona responsable de l’Arxiu i per motius justificats i degudament autoritzats.
+ 5. No es deixaran en préstec parts d’expedients o documents separats de la unitat documental de la qual formen part.
+ 6. Quan una unitat administrativa vulgui consultar documentació d’accés restringit generada per una altra unitat administrativa, per a l’exercici de les funcions que li són pròpies, caldrà l’autorització del cap de departament o servei que l’ha transferida o bé del superior jeràrquic comú a ambdues unitats.
+ 7. Els usuaris interns de l’Arxiu Comunal que malmetin o deteriorin els documents o els béns i equips de l’Arxiu Comunal, podran ser sancionades de conformitat a l’Ordinació de la Funció Pública del Comú de Canillo i, obligades a indemnitzar els danys causats d’acord amb la valoració que es realitzi, previ informe de la persona responsable de l’Arxiu Comunal i sense perjudici d’altres responsabilitats administratives o penals que se’n poguessin derivar.
+ Article 25. Els préstecs o consultes de documentació a usuaris externs 
+ 1. S’entén per usuari extern tot aquell conjunt de ciutadans aliens a les responsabilitats i funcions pròpies de la institució del Comú de Canillo i a les empreses i organismes que en puguin dependre. També es consideren usuaris externs les altres administracions públiques en l’exercici de les seves funcions i competències.
+ El Comú ha de garantir l’accés dels ciutadans a l’Arxiu Comunal, sense perjudici de les exclusions i limitacions establertes per la llei o justificades per raó de conservació.
+ La recerca d’informació anirà a càrrec de les persones peticionàries. El personal de l’Arxiu Comunal no està obligat a fer recerques particulars per als usuaris externs.
+ 2. Tot usuari extern que vulgui consultar un document de l’Arxiu ha d’omplir i signar el full de consulta on han de constar les dades personals de l’usuari, la documentació que vol consultar i el motiu de la consulta.
+ 3. La documentació resta exclosa de préstec per als usuaris externs i, en tot moment, s’ha de consultar dins del espais habilitats per aquesta finalitat o a les eines informàtiques on es conservi la documentació electrònica. Malgrat aquest principi general, es podrà autoritzar a usuaris externs l’extracció de documentació de les dependències comunals, de forma temporal i amb prèvia autorització per escrit d’algun dels Cònsols, únicament en els casos que es contemplen a continuació:
+ a) Per a treballs de reproducció (microfilmació, digitalització) que no sigui possible dur a terme en les dependències comunals.
+ b) Préstec per activitats de difusió del patrimoni cultural, per a exposicions en les condicions particulars que s’estableixin en cada cas, o altres activitats de divulgació cultural.
+ c) Per a realitzar tasques de restauració, relligat, enquadernació, neteja o desinfecció dels documents.
+ d) Per a demanda d’administracions públiques en l’exercici de les seves funcions i competències reconegudes per llei.
+ e) Per ordre judicial.
+ 4. El procediment per al préstec temporal de documents de l’Arxiu del Comú de Canillo a usuaris externs s’haurà de fer a partir de l’autorització signada per un dels dos Cònsols al responsable de l’Arxiu Comunal, el qual expedirà el corresponent document de cessió temporal de documentació a la persona, institució, organisme o empresa peticionària.
+ En aquests casos, s’ha de tenir en compte, sempre que la situació ho requereixi, els següents punts:
+ a) Les sol·licituds de préstec han d’incloure una descripció clara dels documents sol·licitats, del nom del responsable dels trasllats, custòdia i retorn de la documentació i del termini de préstec sol·licitat.
+ b) Si l’estat de conservació de la documentació aconsella la seva permanència a les dependències comunals, des del mateix Arxiu Comunal s’encarreguen reproduccions de la documentació a càrrec del sol·licitant.
+ c) Abans de lliurar la documentació se’n fa una còpia digital de seguretat, el cost de la qual anirà a càrrec del sol·licitant.
+ d) En el cas de documents procedents de donació o de dipòsit, caldrà respectar les condicions establertes per les persones, institucions o organismes donants o dipositants per a la seva consulta o préstec.
+ e) Les despeses d’embalatge i transport van a càrrec del sol·licitant, llevat que des del Comú s’estipulin altres fórmules.
+ f) El sol·licitant ha de contractar una assegurança que cobreixi tots els riscos als quals estarà sotmesa la documentació. Si es desitja una pròrroga del termini de cessió, s’ha de demanar l’autorització i ampliar el termini de l’assegurança.
+ g) S’han de respectar les condicions de conservació i sistemes de seguretat adequats.
+ h) Qualsevol mena de reproducció ha de ser autoritzada expressament.
+ i) L’Arxiu Comunal porta un registre de préstecs on consta el número, la data de la seva aprovació, la data efectiva del préstec, les dades del sol·licitant, el motiu de la sol·licitud i la data de retorn.
+ 5. La documentació retornada haurà de mantenir les mateixes característiques, ordre, constitució interna i externa, neteja i condicions en què estava quan va ser facilitada per a la seva consulta, en els casos dels documents físics. En cas contrari, la persona haurà d’indemnitzar els danys causats conforme al previst a l’apartat 6 del present article.
+ 6. Les persones que malmetin o deteriorin els documents, o els béns i equips de l’Arxiu Comunal, hauran d’indemnitzar els danys causats d’acord amb la valoració que es realitzi, previ informe de la persona responsable de l’Arxiu Comunal i sense perjudici d’altres responsabilitats administratives o penals que se’n poguessin derivar.
+ Article 26. Reproducció de documents 
+ 1. Qualsevol persona o entitat pot demanar reproduccions dels documents de l’Arxiu Comunal a excepció d’aquells l’accés als quals estigui restringit per la legislació vigent, estiguin afectats per drets d’autor o de propietat intel·lectual que en condicionin la seva reproducció, per la voluntat del dipositant en cas de cessions, per raons de conservació o per manca de mitjans adequats de reproducció.
+ Des de l’Arxiu Comunal se cedirà el mitjà més adequat per a procedir a la reproducció segons les característiques físiques del document. Excepcionalment es permetrà la realització de reproduccions fora de les dependències de l’Arxiu quan es requereixi el concurs de professionals o empreses especialitzades.
+ 2. Per a la reproducció de qualsevol mena de document es requereix la sol·licitud prèvia de l’interessat i l’autorització expressa i per escrit, en el mateix imprès, del responsable de l’Arxiu Comunal. El sol·licitant ha de fer constar la finalitat de la reproducció. L’autorització de reproducció no atorga cap dret de propietat intel·lectual o industrial a qui la realitzi o l’obtingui.
+ 3. En el cas d’utilització dels documents de l’Arxiu Comunal en vista a la seva publicació o difusió pública, s’ha de fer constar obligatòriament la seva procedència. En el cas de reproducció d’imatges o documents afectats per la normativa de propietat intel·lectual, s’ha de fer constar també el nom de l’autor, si es coneix, sense perjudici d’altres obligacions que es puguin establir. Es podran establir altres condicions per a la reproducció, distribució o comunicació en funció de la naturalesa del document.
+ 4. L’Arxiu Comunal s’encarrega de la reproducció dels documents sol·licitats sempre que el seu estat de conservació no ho impedeixi, previ pagament del corresponent preu públic.
+ 5. Quan es tracti de documentació reproduïda fotogràficament, l’Arxiu Comunal cedirà la reproducció en concepte de lloguer de la imatge i per a un sol ús i edició. Qualsevol reedició ha de comptar amb un nou permís de reproducció.
+ 6. En cas de sol·licituds de reproduccions per a finalitats comercials, amb el lliurament només s’autoritzarà l’ús per a la forma i mitjà expressats en la sol·licitud. Qualsevol ús diferent requerirà una nova autorització.
+ Capítol V. De l’adquisició, protecció i divulgació del patrimoni documental
+ Article 27. Adquisició de patrimoni documental 
+ 1. L’Arxiu Comunal ha de vetllar per la integritat del patrimoni documental de la parròquia de Canillo i per la seva protecció, recuperació i conservació, sense perjudici de la competència del Govern per definir la política en matèria de patrimoni cultural i coordinar-ne les mesures de protecció, en compliment de l’article 4 de la Llei de patrimoni cultural. Amb aquesta finalitat fa les oportunes propostes d’adquisició, de cessió, de donació o de reproducció dels fons documentals d’interès per a la parròquia. Al mateix temps, podrà assessorar entitats, empreses i particulars sobre les condicions de conservació i tractament de la documentació.
+ 2. En cas de tenir coneixement de qualsevol situació de perill pel que respecta a la integritat o conservació de documents, el Comú ho ha de comunicar al Ministeri titular del patrimoni cultural, i si cal, ha d’adoptar les mesures necessàries per a evitar-ne el deteriorament, la pèrdua o la destrucció.
+ 3. Les persones o entitats privades que estiguin en possessió de documents que formin part del patrimoni documental de la parròquia de Canillo i d’Andorra estan obligades a conservar-los, mantenir-los i preservar-los, sense perjudici que els més rellevants puguin ser declarats d’interès cultural a nivell nacional.
+ Article 28. Condicions d’incorporació de patrimoni documental 
+ 1. L’ingrés de documentació externa a l’Arxiu Comunal ha de ser acceptat per la Junta de Govern, prèvia aprovació de les condicions sota les quals s’ha d’efectuar, així com les que n’han de regular l’accés. Un cop acceptat l’ingrés, se signa un conveni amb la propietat del fons documental que recull totes les condicions de l’adquisició, donació, cessió o dipòsit. El Comú lliura al cedent un document probatori de l’ingrés efectuat.
+ 2. Un cop cedida, es confecciona un primer inventari de la documentació que serà rubricat pel responsable de l’Arxiu Comunal.
+ Article 29. Recuperació de documentació 
+ Per recuperar documentació cedida a l’Arxiu Comunal serà imprescindible, a fi de complimentar el procediment administratiu, sol·licitar-ho per escrit al Comú exposant els motius pels quals es demana la devolució de la documentació. El Comú retornarà la documentació d’acord amb els pactes efectuats en el moment de la cessió o, si aquests no s’haguessin formalitzat, amb les disposicions legals que la regulen.
+ Article 30. Divulgació del patrimoni 
+ Correspon a l’Arxiu Comunal la divulgació del patrimoni documental del Comú. Amb aquest objectiu potenciarà activitats de divulgació i de foment de la recerca i podrà programar, entre altres, les següents activitats:
+ a) L’edició de material divulgatiu dels fons i dels serveis.
+ b) La incorporació d’informació relativa a l’Arxiu Comunal, al web del Comú, o en un web propi de l’Arxiu.
+ c) La publicació d’articles i monografies d’àmbit local.
+ d) La realització de visites guiades a l’Arxiu Comunal.
+ e) L’organització de cursets i conferències.
+ f) El muntatge d’exposicions.
+ Article 31. Col·laboració i cooperació 
+ 1. Pel caràcter cultural de la documentació que custodia, l’Arxiu Comunal, a més de les activitats pròpies, resta obert a col·laborar en actuacions, activitats i iniciatives generades des del mateix Comú o per altres arxius, entitats, organismes, empreses i particulars, que contribueixin a la conservació i divulgació del patrimoni cultural de la parròquia de Canillo en general.
+ 2. La participació del Comú amb d’altres administracions o amb particulars en actuacions i campanyes destinades a la protecció i difusió del patrimoni documental de la parròquia de Canillo comporta:
+ a) Col·laborar en la protecció i la conservació del patrimoni documental de la parròquia de Canillo mitjançant la proposta o la participació en actuacions, activitats i campanyes de sensibilització.
+ b) Proposar l’adquisició, la donació, la cessió o el dipòsit de documentació de tercers a l’Arxiu del Comú de Canillo.
+ c) Col·laborar en la detecció i seguiment dels possibles casos de negligència i espoli en què resulti afectat el patrimoni documental de la parròquia de Canillo.
+ Disposició derogatòria
+ Queda derogat el Reglament de 21-3-2013 del Servei d’Arxiu del Comú de Canillo, i totes les disposicions de rang igual o inferior que s’oposin al que s’estableix en el present Reglament.
+ Disposició final
+ Aquest Reglament entra en vigor el mateix dia de la seva publicació al Butlletí Oficial del Principat d’Andorra .
+ Canillo, el 17 de setembre de 2024
+ Jordi Alcobé Font
+Cònsol major

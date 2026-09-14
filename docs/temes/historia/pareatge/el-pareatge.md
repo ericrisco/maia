@@ -166,15 +166,95 @@ nacional d'Andorra. Cal no confondre les dues coses ni donar per fet que l'una
 explica l'altra: són dues efemèrides que cauen el mateix dia, i qualsevol relació
 entre elles s'ha de documentar abans d'afirmar-la.
 
+## El que un geògraf hi afegeix: que el pariatge no tenia res d'especial
+
+**Afegit el 2026-09-13 des del [llibre 2 de la tesi de Joan
+Becat](../../../fonts/becat-tesi-1993.md).** *(Text francès; traduccions del
+corpus.)* **Aquesta fitxa explicava què és el Pariatge d'Andorra. Becat explica
+què és un pariatge**, i **el resultat capgira la pregunta.**
+
+> «**A l'edat mitjana, un pariatge és una sentència arbitral entre dos senyors
+> que arreglava momentàniament els seus conflictes.** Podia definir i repartir
+> els drets, **o bé establir un sistema de cosenyoria** entre dos senyors (o més
+> rarament més). **Era un acte prou corrent** […]. **En general tenien una vida
+> limitada, perquè tenien la funció d'estabilitzar una relació de forces
+> momentània.**»
+
+I la conclusió, que val la pena sencera:
+
+> «**L'originalitat de la situació andorrana no és, doncs, el seu pariatge**,
+> sinó **el fet que les valls no van ser absorbides per una entitat territorial
+> més important** —per exemple la Catalunya d'on prové— **i que aquesta sentència
+> que arreglava un conflicte local al segle XIII hagi esdevingut la base
+> jurídica d'un estat contemporani.**»
+
+**No és el document el que és rar: és que hagi durat.** I el corpus en té ara
+la prova comparativa a la vora: **[la Vallferrera va entrar en un pariatge el
+1265](../edat-mitjana/els-privilegis.md)**, **tretze anys abans que Andorra i
+amb el mateix comte de Foix**, **i no en va quedar res.**
+
+> **Becat hi afegeix un avís historiogràfic que el corpus reté**: **«els
+> historiadors andorrans, i per causa, tenen el costum d'insistir en la segona
+> possibilitat, la sobirania indivisa»**, **encara que la primera —definir i
+> repartir drets— no quedi explícitament descartada.** **És a dir: la
+> definició que el corpus fa servir és la que convé a la lectura andorrana.**
+> `Observació de Becat, registrada com a seva.`
+
+### Cinc dels onze articles no parlen d'Andorra
+
+**Dada nova i concreta**: **el pariatge té onze articles**, i **cinc tracten
+d'altres problemes i territoris**:
+
+| On | Regió |
+| --- | --- |
+| **La Vall de Sant Joan i d'Os**, **la Vall de Caboet**, **Nargó**, **Montellà** | **Alt Urgell i Cerdanya** |
+| **Montferrer**, **Aiguatèbia** | **l'actual Catalunya Nord** |
+
+**El document fundacional d'Andorra dedica gairebé la meitat del text a
+territoris que no són Andorra.** **Era un arranjament general entre dos senyors,
+i Andorra n'era una peça.** Vegeu
+[la cadena feudal](../edat-mitjana/els-privilegis.md).
+
+**I el règim que instauren, dit en dues paraules**: **impostos pagats
+alternativament als dos senyors** i **duplicació de totes les càrregues i
+responsabilitats**. Vegeu [la quèstia](../antic-regim/la-questia.md), que és
+l'impost alternat, i [el coprincipat](../../institucions/coprincipat/el-coprincipat.md).
+**Tots dos pariatges van ser confirmats pel Papa.**
+
+### Per què el comte de Foix va signar
+
+**Aquesta fitxa diu que el pariatge és com acaba una guerra.** **Becat hi posa
+la guerra concreta, i no és la d'Andorra:**
+
+> **Quan el comte de Foix va acceptar de signar el primer pariatge** —**és a
+> dir, de renunciar a drets reals que exercia efectivament sobre Andorra**—
+> **estava en situació delicada.** **Després de la croada dels albigesos, tot
+> el sud de l'actual França havia estat conquerit pels croats en benefici del
+> rei de França.** **Una guarnició francesa ocupava el castell de Foix**, i
+> **es tractava d'obligar el comte a prestar homenatge al rei de França per les
+> seves possessions al nord del Pas de la Barra.**
+
+**El comte cedeix a Andorra perquè està perdent a casa.** **Això lliga amb el
+que aquesta fitxa ja diu de l'homenatge que cap comte de Foix no va tornar a
+fer**: **l'homenatge era, precisament, el que li estaven exigint al nord.**
+`Lectura de Becat; el corpus no l'adopta com a fet.`
+
 ## El que falta
 
-- **El text del Pareatge**, sencer. El corpus el té **descrit i no llegit**.
+- **El text del Pareatge**, sencer. El corpus el té **descrit i no llegit** —
+  **i des del 2026-09-13 en sap l'extensió**: **onze articles, dels quals sis
+  sobre Andorra i cinc sobre altres territoris.**
 - **La contrasignatura de Pere II**. **Prioritari.**
 - **La carta de Pere II als andorrans del 25 de desembre de 1283**, sencera.
   **Prioritari.**
 - **Per què cap comte de Foix no va tornar a fer l'homenatge**, i si algú els ho
   va reclamar.
-- **El pareatge del 1288**, text.
+- **El pareatge del 1288**, text. **Confirmat pel Papa**, com el primer.
+- **NOU, i comparatiu:** **el pariatge de la Vallferrera del 1265**, tretze anys
+  anterior i **amb el mateix Roger Bernat com a part**
+  ([els privilegis](../edat-mitjana/els-privilegis.md)). **Cap altra font del
+  corpus no l'esmenta**, i **és el contrafactual d'aquesta fitxa**: **el mateix
+  instrument, el mateix senyor, la vall del costat, i cap estat.**
 - **Si la sobirania catalana sobre Andorra** al segle XIII està establerta o és
   lectura de l'autora.
 

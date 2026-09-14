@@ -68,11 +68,34 @@ i el **Nomenclàtor** amb les seves 4.240 entrades és qui ho ha de dir.
 
 - La versió completa i les variants.
 - **Si el poble negat té nom** a la llegenda.
-- La **relació amb el llac real**: Engolasters és avui un embassament lligat a
+- ~~La **relació amb el llac real**: Engolasters és avui un embassament lligat a
   la producció hidroelèctrica
   ([energia](../../economia/energia-i-serveis/README.md)) — **la llegenda parla
   d'un llac natural i el llac d'ara és en part obra humana**, i això mereix
-  aclarir-se.
+  aclarir-se.~~ — **`parcial`, comprovat el 2026-09-14.** **El corpus no pot
+  documentar la relació entre l'embassament i FHASA**: **la fitxa de
+  [FHASA](../../economia/energia-i-serveis/fhasa.md) situa la central al Grau
+  del Corb i no esmenta Engolasters**, i **cap altre document del corpus no
+  lliga les dues coses.** **L'afirmació que el llac d'ara és en part obra humana
+  no està fonamentada en cap font del corpus**, i **es marca com a tal.**
+
+  **El que sí que es pot dir, i val per a la llegenda, és com era aquell lloc
+  abans:**
+
+  | Què | On és al corpus |
+  | --- | --- |
+  | **Al segle XIX, «truites i barbs només se'n trobaven a Engolasters»** | [Els descobridors](../andorra-vista-de-fora/els-descobridors.md) |
+  | **Fotografies d'època amb cavallons de cereal a Engolasters**, cosa «difícil d'imaginar mirant Engolasters avui» | [L'agricultura de subsistència](../../economia/ramaderia-i-agricultura/lagricultura-de-subsistencia.md) |
+  | **El Pla d'Engolasters era una de les tres zones de bordes d'Andorra la Vella-les Escaldes, i tenia capella pròpia** | [Joan Becat](../../../fonts/becat-tesi-1993.md) |
+  | **És a 1.640 m**, i la seva sèrie de precipitació es va desestimar per problemes de qualitat | [El canvi climàtic](../../territori/clima-i-muntanya/el-canvi-climatic.md) |
+
+  **Un pla de bordes amb capella, cereal i l'únic peix del país.** **La llegenda
+  no parla d'un lloc desert: parla d'un lloc habitat a temporades i explotat.**
+  `deducció del corpus.`
+
+  **El que segueix obert és el que el buit demanava**: **quan i com es converteix
+  en embassament, i qui el va fer.**
+  `Requereix font externa: FEDA, o la història de FHASA.`
 - El **paral·lel** amb altres llegendes de pobles negats del Pirineu.
 
 ## Related

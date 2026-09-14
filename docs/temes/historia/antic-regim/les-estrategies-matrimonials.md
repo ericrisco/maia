@@ -145,14 +145,30 @@ cadascun dels tres moments. Creuar amb
 2. **Les mines de ferro** de la Catalunya Nord on anaven els andorrans: quines,
    quants, quan.
 3. **L'estudi de testaments** de Camiade — quins, d'on.
-4. **Les enquestes orals** que va fer: existeixen, estan dipositades? Creuar amb
-   [l'Arxiu d'Etnografia](../../cultura/museus-i-arxius/larxiu-detnografia.md).
-5. ~~**Dades** de procedència dels consorts, per parròquia.~~ — **parcialment
+4. ~~**Les enquestes orals** que va fer: existeixen, estan dipositades? Creuar
+   amb [l'Arxiu d'Etnografia](../../cultura/museus-i-arxius/larxiu-detnografia.md).~~
+   — **`parcial`, i amb un testimoni de tercer que en confirma l'existència el
+   1993.** **[Joan Becat](../../../fonts/becat-tesi-1993.md) declara en nota que
+   va tenir accés «per comunicació oral» al treball de camp de Martine Camiade
+   sobre «les aliances de cases sorgides de parròquies o de quarts rivals a
+   propòsit de la utilització de la muntanya»**, i **el dona com a inèdit**.
+   **Les enquestes existien el 1993 i vuit anys després es van publicar**
+   ([la nissaga Perich](./la-nissaga-perich.md)). **On són dipositades segueix
+   sense saber-se.**
+5. **I el mecanisme que aquella recerca descriu ja és al corpus**: **casar-se
+   amb una casa d'una parròquia o d'un quart rival servia per «crear lligams
+   perquè les baralles no anessin massa lluny» i per tenir «passarel·les» per
+   negociar després dels enfrontaments**, en conflictes **sobre una muntanya
+   mitgera en *empriu* o un territori en litigi**. **Hi havia fins i tot un
+   fre**: **regles socials, «una mena de codi deontològic realment aplicat»,
+   que limitaven els matrimonis entre hereus perquè no es formessin cases massa
+   grans.** Vegeu [quarts i veïnats](../../institucions/quarts-i-veinats/quarts-i-veinats.md).
+6. ~~**Dades** de procedència dels consorts, per parròquia.~~ — **parcialment
    tancat**: [la nissaga Perich](./la-nissaga-perich.md) dona **dotze matrimonis
    datats d'una sola casa de Sispony, del 1600 al 1959, amb l'origen de cada
    consort** — i quatre dels dotze vénen de fora d'Andorra, tres de l'Alt Urgell
    i la Cerdanya. **Un cas, no una sèrie**, però és el primer que el corpus té.
-6. **Els rituals de veïnatge.**
+7. **Els rituals de veïnatge.**
 
 ## Related
 

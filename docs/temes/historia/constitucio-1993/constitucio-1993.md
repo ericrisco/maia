@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: viquipedia-ca
-timestamp: 2026-09-11T18:50:00Z
+timestamp: 2026-09-14T12:10:00Z
 tags: [historia, institucions, segle-xx]
 ---
 
@@ -81,12 +81,34 @@ d'una Constitució escrita per un expedient de drets humans**, i **que el bisbe
 de la Seu va amenaçar d'abandonar el títol de copríncep si el text no li donava
 més poder.** **Cap de les dues coses no està verificada en font primària.**
 
-**El que segueix obert**: **el text de la Constitució article per article**. El
-Consell General la publica al seu portal: **és font primària i encara no s'ha
-incorporat.** **Buit registrat.**
+~~El text de la Constitució article per article~~ — **obert el 14-09-2026**:
+[Vuit dies i no més de quinze](./vuit-dies-i-no-mes-de-quinze.md) llegeix el text
+complet —preàmbul, disposicions i fórmula de promulgació inclosos— i en destil·la
+el **títol I**, el **títol III dels coprínceps**, els articles **63 a 66** i el
+**títol IX** de reforma.
+
+**Tres coses que aquesta fitxa no podia donar i el text sí:**
+
+- **Una quarta data.** La Constitució se signa a **Casa de la Vall el 28 d'abril
+  de 1993**, per **François Mitterrand**, **Jordi Farrás Forné** com a síndic
+  general i **Joan Martí Alanís**, bisbe d'Urgell. Entra en vigor **el dia de la
+  publicació al BOPA**, que el corpus encara no té.
+- **El text no descriu un traspàs de sobirania.** El preàmbul diu que el poble
+  andorrà aprova la Constitució **«en exercici de la seva pròpia sobirania»**, i
+  la fórmula de promulgació diu que els coprínceps **«la fem nostra»**. L'article
+  1.3 diu que la sobirania **resideix** en el poble. **El corpus registra les
+  dues frases i no arbitra** com s'ha d'explicar el 1993.
+- **L'article 43.2**: els poders dels coprínceps són **«iguals i derivats de la
+  present Constitució»**, i el títol el tenen **«a títol personal i exclusiu»**.
+
+**El que segueix obert:** els **títols II, IV, V, VI, VII i VIII** —vuitanta
+articles, entre ells tot el catàleg de drets i llibertats— **no s'han
+destil·lat**. I **la data de publicació al BOPA**, que és la d'entrada en vigor,
+**segueix sense constar**.
 
 ## Related
 
+- [Vuit dies i no més de quinze](./vuit-dies-i-no-mes-de-quinze.md) — el text, llegit article per article.
 - [El Coprincipat](../../institucions/coprincipat/el-coprincipat.md) — què en va quedar.
 - [Democratització](../democratitzacio/democratitzacio.md) — el camí fins aquí.
 - [La Transició Nacional](../historia-recent/la-transicio-nacional.md) — com s'hi va arribar, i qui hi va empènyer des de fora.

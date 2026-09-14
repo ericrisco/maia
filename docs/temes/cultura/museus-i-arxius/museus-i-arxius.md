@@ -58,10 +58,27 @@ Canillo i el fons de la casa Bonavida, entre d'altres.
   com a antenes al voltant d'un Museu Nacional d'Andorra que no s'ha construït
   mai.** **El país té vint antenes i cap tronc.**
 - El *Diccionari enciclopèdic d'Andorra* (2007) i el *Vocabulari d'Andorra*
-  (1992), citats per l'IEC i no consultats directament.
+  (1992), citats per l'IEC i no consultats directament. — **`parcial` des del
+  2026-09-13.** **El DEA ja té fitxa pròpia**:
+  [el Diccionari enciclopèdic d'Andorra](../../historia/historiografia/el-diccionari-enciclopedic.md),
+  que en descriu el contingut, **registra la discrepància de data** (edició 2006,
+  presentació el juny del 2007) i **diu exactament què hi falta per obrir**: les
+  **200 biografies**, el **lèxic entrada per entrada** i les àrees de **medi
+  natural** i **cultura, arts i patrimoni**. **I hi afegeix una porta que aquest
+  article no tenia**: **`catalegbiblioteques.ad`**, el catàleg en línia de les
+  biblioteques d'Andorra, **amb 184 entrades només a *Andorra — Història***.
+  **Del *Vocabulari d'Andorra* (1992), en canvi, el corpus segueix sense tenir
+  fitxa**, tot i que **el [glossari de mots
+  documentats](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) el
+  cita com una de les seves tres fonts de base.**
 
 **Buit registrat, i és el més accionable de tot el corpus**: no és informació que
 no existeixi, és informació que existeix i encara no s'ha anat a buscar.
+
+> **Precisió afegida el 2026-09-13**: **és accionable i té una nota de drets.**
+> El DEA és **obra editorial amb drets reservats**: se'n poden citar dades i
+> definicions puntuals amb atribució i **no se'n pot bolcar el contingut**.
+> **Obrir-lo no vol dir incorporar-lo.**
 
 ## Related
 

@@ -1,0 +1,258 @@
+[
+ {
+  "date": "2023-03-17",
+  "num": "TNAAD01/2023",
+  "org": "Servei Andorrà d’Atenció Sanitària (SAAS).",
+  "codi": "",
+  "disp": "eliminació transcorreguts els quinze anys des de la data de la defunció de la persona o quinze anys des de la data d’alta de l’últim procés assistencial de la persona si aquesta persona no ha tornat a entrar en contacte amb el SAAS.",
+  "acces": "restringit."
+ },
+ {
+  "date": "2023-03-17",
+  "num": "TNAAD02/2023",
+  "org": "Departament de Protecció Civil i Gestió d’Emergències del Govern.",
+  "codi": "V1302-001 Elaboració del pla anual de formació escolar en capacitació bàsica.",
+  "disp": "eliminació al cap de tres anys del tancament de l’expedient.",
+  "acces": "accés restringit a excepció de qui manifesti i acrediti interès en els termes establerts a l’article 42 del Codi de l’Administració."
+ },
+ {
+  "date": "2023-03-17",
+  "num": "TNAAD03/2023",
+  "org": "Departament de Protecció Civil i Gestió d’Emergències de Govern.",
+  "codi": "V1302-002 Elaboració de guies tècniques i pedagògiques per a la formació escolar en capacitació bàsica.",
+  "disp": "conservació de la versió en curs i eliminació total de les versions anteriors.",
+  "acces": "lliure."
+ },
+ {
+  "date": "2023-03-17",
+  "num": "TNAAD04/2023",
+  "org": "Departament de Protecció Civil i Gestió d’Emergències de Govern",
+  "codi": "V1303-001 Formació escolar en capacitació bàsica.",
+  "disp": "eliminació total al cap de cinc anys de l’emissió del certificat. Conservació de les dades estadístiques recollides en documents recapitulatius.",
+  "acces": "accés restringit a excepció de qui manifesti i acrediti interès en els termes establerts a l’article 42 del Codi de l’Administració."
+ },
+ {
+  "date": "2023-03-17",
+  "num": "TNAAD05/2023",
+  "org": "Departament de Protecció Civil i Gestió d’Emergències de Govern.",
+  "codi": "V1303-001 Formació bàsica en protecció civil als grups de suport en cas d’intervenció.",
+  "disp": "conservar dins de les seves memòries les dades d’interès estadístic.",
+  "acces": "restringit."
+ },
+ {
+  "date": "2023-03-17",
+  "num": "TNAAD06/2023",
+  "org": "Departament de Protecció Civil i Gestió d’Emergències de Govern.",
+  "codi": "V1306-001 Elaboració de continguts per a la difusió de la protecció civil.",
+  "disp": "eliminació total al cap de dos anys del tancament de l’expedient.",
+  "acces": "restringit."
+ },
+ {
+  "date": "2023-06-29",
+  "num": "TNAAD06/2023",
+  "org": "Unitat de Consum i Inspecció de Comerç, Àrea de Registres d’Activitat Econòmica, Govern d’Andorra.",
+  "codi": "H3306-001 Reclamacions de consum.",
+  "disp": "eliminació de la documentació al cap de cinc anys del tancament de l’expedient.",
+  "acces": "restringit, sens perjudici d’accés parcial."
+ },
+ {
+  "date": "2023-06-29",
+  "num": "TNAAD07/2023",
+  "org": "Àrea de Promoció, Prevenció i Vigilància de la Salut, Departament de Salut.",
+  "codi": "O1308-004 Cribratge de malalties.",
+  "disp": "eliminació al cap de tres anys de la data del document.",
+  "acces": "restringit, sens perjudici d’accés parcial."
+ },
+ {
+  "date": "2023-06-29",
+  "num": "TNAAD08/2023",
+  "org": "Laboratori de Salut Pública, Departament de Salut.",
+  "codi": "PAAI O1352 Dades primàries de les anàlisis.",
+  "disp": "eliminació al cap de cinc anys del tancament de l’expedient.",
+  "acces": "restringit, sens perjudici d’accés parcial."
+ },
+ {
+  "date": "2023-06-29",
+  "num": "TNAAD09/2023",
+  "org": "Centre de Processament de Dades i Digitalització, Àrea de Policia Administrativa i Suport, Departament de Policia d’Andorra.",
+  "codi": "U2404-001 Autoritzacions de sortida de menors a l’estranger.",
+  "disp": "eliminació al cap d’un any de l’autorització.",
+  "acces": "restringit, sens perjudici d’accés parcial."
+ },
+ {
+  "date": "2023-06-29",
+  "num": "TNAAD10/2023",
+  "org": "Centre de Processament de Dades i Digitalització, Àrea de Policia Administrativa i Suport, Departament de Policia d’Andorra.",
+  "codi": "U2401-002 Denúncies per pèrdues.",
+  "disp": "eliminació al cap de deu anys de la data del document de denúncia.",
+  "acces": "restringit, sens perjudici d’accés parcial."
+ },
+ {
+  "date": "2024-07-08",
+  "num": "TNAAD001/24",
+  "org": "Departament d’Energia i Transports del Govern, Àrea de Transports.",
+  "codi": "N 2309-001 Quadern de ruta dels transports de mercaderies fets per viatge.",
+  "disp": "eliminació al cap de 30 dies de la recepció.",
+  "acces": "restringit."
+ },
+ {
+  "date": "2024-07-08",
+  "num": "TNAAD002/24",
+  "org": "Departament d’Energia i Transports del Govern, Àrea de Transports.",
+  "codi": "N 2136-001 Carnet de fulls de ruta per al transport ocasional internacional de viatgers – Acord Interbus.",
+  "disp": "eliminació al cap de 30 dies naturals de la recepció.",
+  "acces": "restringit parcialment."
+ },
+ {
+  "date": "2024-07-08",
+  "num": "TNAAD003/24",
+  "org": "Departament de Justícia i Interior, Àrea de Relacions i Cooperació Jurídica Internacional.",
+  "codi": "F1304-001 Trasllat internacional de condemnats.",
+  "disp": "eliminació passat el termini de compliment de la pena, d’acord amb la notificació del país receptor del trasllat o, en la seva absència, passats 30 anys de la creació de l’expedient.",
+  "acces": "restringit."
+ },
+ {
+  "date": "2024-07-08",
+  "num": "TNAAD004/24",
+  "org": "Departament de Justícia i Interior, Àrea de Relacions i Cooperació Jurídica Internacional.",
+  "codi": "F1306-001 Extradicions sol·licitades a Andorra i F1307-001 Extradicions sol·licitades per Andorra.",
+  "disp": "eliminació passat el termini de deu anys del tancament de l’expedient.",
+  "acces": "restringit."
+ },
+ {
+  "date": "2024-07-08",
+  "num": "TNAAD005/24",
+  "org": "Departament de Territori, Àrea d’Urbanisme.",
+  "codi": "M1103-001 Cèdules d’habitabilitat.",
+  "disp": "eliminació al cap de deu anys sempre que la informació es trobi recollida al registre de cèdules i certificats d’habitabilitat.",
+  "acces": "restringit parcialment."
+ },
+ {
+  "date": "2024-07-08",
+  "num": "TNAAD006/24",
+  "org": "Departament de Territori, Àrea d’Urbanisme.",
+  "codi": "M1113-001 Registre de cèdules d’habitabilitat.",
+  "disp": "conservació permanent de la informació del registre.",
+  "acces": "restringit parcialment."
+ },
+ {
+  "date": "2024-11-22",
+  "num": "TNAAD007/24",
+  "org": "Consell Regulador Andorrà del Joc.",
+  "codi": "llicència de classe A.",
+  "disp": "- Conservació permanent per a la llicència atorgada. - Eliminació dels expedients de les ofertes no guanyadores al cap d’un any de l’adjudicació.",
+  "acces": "restringit."
+ },
+ {
+  "date": "2024-11-22",
+  "num": "TNAAD008/24",
+  "org": "Consell Regulador Andorrà del Joc.",
+  "codi": "llicència de classe B.",
+  "disp": "conservació permanent.",
+  "acces": "restringit."
+ },
+ {
+  "date": "2024-11-22",
+  "num": "TNAAD009/24",
+  "org": "Consell Regulador Andorrà del Joc.",
+  "codi": "llicència de classe C.",
+  "disp": "conservació permanent.",
+  "acces": "lliure accés."
+ },
+ {
+  "date": "2024-11-22",
+  "num": "TNAAD010/24",
+  "org": "Consell Regulador Andorrà del Joc.",
+  "codi": "llicència de classe E.",
+  "disp": "eliminació al cap de quatre anys després del tancament.",
+  "acces": "restringit."
+ },
+ {
+  "date": "2024-11-22",
+  "num": "TNAAD011/24",
+  "org": "Consell Regulador Andorrà del Joc.",
+  "codi": "llicència de classe F.",
+  "disp": "eliminació al cap de quatre anys del tancament.",
+  "acces": "restringit parcialment."
+ },
+ {
+  "date": "2024-11-22",
+  "num": "TNAAD012/24",
+  "org": "Consell Regulador Andorrà del Joc.",
+  "codi": "llicència de classe G.",
+  "disp": "eliminació al cap de cinc anys del tancament.",
+  "acces": "restringit parcialment."
+ },
+ {
+  "date": "2024-11-22",
+  "num": "TNAAD013/24",
+  "org": "Consell Regulador Andorrà del Joc.",
+  "codi": "llicència de classe H.",
+  "disp": "eliminació al cap de quatre anys del tancament.",
+  "acces": "restringit parcialment."
+ },
+ {
+  "date": "2024-11-22",
+  "num": "TNAAD014/24",
+  "org": "Consell Regulador Andorrà del Joc.",
+  "codi": "llicència de classe I.",
+  "disp": "eliminació al cap de deu anys del tancament.",
+  "acces": "restringit."
+ },
+ {
+  "date": "2024-11-22",
+  "num": "TNAAD015/24",
+  "org": "Consell Regulador Andorrà del Joc.",
+  "codi": "llicència de classe J.",
+  "disp": "eliminació al cap de tres anys del tancament.",
+  "acces": "restringit."
+ },
+ {
+  "date": "2024-11-22",
+  "num": "TNAAD016/24",
+  "org": "Consell Regulador Andorrà del Joc.",
+  "codi": "permís d’explotació de jocs.",
+  "disp": "eliminació al cap de quatre anys del tancament.",
+  "acces": "restringit."
+ },
+ {
+  "date": "2024-11-22",
+  "num": "TNAAD017/24",
+  "org": "Consell Regulador Andorrà del Joc.",
+  "codi": "Registre general del CRAJ.",
+  "disp": "a) Quant a les persones amb limitacions o prohibicions respecte al joc d’atzar en una relació professional o de codi ètic, la durada és la disposada fins que aquesta persona deixa de tenir la limitació.",
+  "acces": "restringit."
+ },
+ {
+  "date": "2025-04-16",
+  "num": "TNAAD001/25",
+  "org": "Consell Regulador Andorrà del Joc.",
+  "codi": "Registre Prohibits al Joc del CRAJ.",
+  "disp": "Eliminació immediata en el moment de la petició de baixa del registre per la persona auto prohibida, o des del coneixement de la no prohibició, i si no existeix aquest aixecament de la prohibició per la persona interessada o per comunicació de l’organisme que establí una prohibició, es procedirà a la destrucció en el moment del coneixement de la defunció del prohibit o als 100 anys des del seu registre si no es dona cap de les circumstàncies anteriors.",
+  "acces": "Restringit."
+ },
+ {
+  "date": "2025-11-18",
+  "num": "TNAAD002/25",
+  "org": "Caixa Andorrana de Seguretat Social (CASS).",
+  "codi": "sol·licituds de targetes sanitàries (F605)",
+  "disp": "eliminació total al cap de sis mesos del tancament de l’expedient tenint en compte els programes que actuen com a eines recapitulatives.",
+  "acces": "restringit per a la persona sol·licitant de la targeta i/o el seu representant legal (mare, pare, tutor) sempre que la persona sol·licitant sigui menor d’edat o bé que la persona que sol·liciti l’accés presenti un document de poder (públic o privat)."
+ },
+ {
+  "date": "2025-11-18",
+  "num": "TNAAD003/25",
+  "org": "Caixa Andorrana de Seguretat Social (CASS).",
+  "codi": "sol·licituds d’accés a la informació (E501.1)",
+  "disp": "eliminació total al cap d’un any de la recepció de la sol·licitud que inicia l’expedient tenint en compte la legislació vigent i aplicable.",
+  "acces": "restringit per a la persona sol·licitant i/o el seu representant legal sempre que la persona que sol·liciti l’accés presenti un document de poder (públic o privat)."
+ },
+ {
+  "date": "2025-11-18",
+  "num": "TNAAD004/25",
+  "org": "Unitat de Transparència, Govern d’Andorra.",
+  "codi": "demandes d’accés a la informació B1602-006.",
+  "disp": "eliminació total al cap d’un any des de la recepció de la sol·licitud que inicia l’expedient tenint en compte la legislació vigent i aplicable.",
+  "acces": "restringit en funció de la documentació i les dades personals que conté la informació sol·licitada (anonimització i limitacions legals a la informació pública)."
+ }
+]

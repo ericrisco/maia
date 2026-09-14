@@ -22,7 +22,9 @@ marcada **⚠**.
 **Les quatre cronologies creuades:**
 **Bascompte** (B, arxiver) · **Pol** (P, arquitecte) · **Cavero** (C,
 historiador) · **Duró** (D, ex-conseller). Més **Vela** (V, cap de l'Arxiu
-Nacional) i **Massa** (M, exsecretari del Copríncep Episcopal) per al 1419.
+Nacional) i **Massa** (M, exsecretari del Copríncep Episcopal) per al 1419, i
+**Becat** (**Bc**, geògraf) per a les Assemblees Magnes dels anys setanta
+([font](../../../fonts/becat-tesi-1993.md)).
 
 ---
 
@@ -131,7 +133,8 @@ Nacional) i **Massa** (M, exsecretari del Copríncep Episcopal) per al 1419.
 | **1975** | **Llei de nacionalitat restrictiva**: sense nacionalitat els nats a Andorra si cap dels pares no és andorrà | [demografia](../../societat/demografia/la-composicio-per-nacionalitats.md) |
 | **1976 · 1977** | **Dues consultes al poble** sobre la reforma de les institucions. El **1976**, **primers Jocs Olímpics** | P |
 | **1978** | Es crea **Escaldes-Engordany**: de **24 a 28 consellers** | B · D · P |
-| **1980-81** | **Guerra de les ràdios**: el Consell les tanca, els delegats permanents les reobren, **Assemblea Magna**, tancament pels batlles | P |
+| **1974 · 1975** | **Dues [Assemblees Magnes](../../institucions/consell-general/lassemblea-magna.md)** sobre **l'anul·lació i el rescat de les concessions de FHASA** | Bc |
+| **1980-81** | **Guerra de les ràdios**: el Consell les tanca, els delegats permanents les reobren, **[Assemblea Magna](../../institucions/consell-general/lassemblea-magna.md)**, tancament pels batlles | P |
 | **1981** | **La Reformeta**: decret de reforma de les institucions. **Un conseller dimiteix** per la signatura dels veguers | C · D · P |
 | **1982** | **Primer Consell Executiu.** Darrer síndic abans: **Estanislau Sangrà**. Comença **l'Escola Andorrana** | B · P |
 | **1984** | **Sistema de quotes** d'immigració | [demografia](../../societat/demografia/la-composicio-per-nacionalitats.md) |

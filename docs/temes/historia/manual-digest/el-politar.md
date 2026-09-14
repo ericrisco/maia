@@ -169,11 +169,25 @@ la practicava**, i amb el mateix criteri: **un blanc es veu; un any inventat, no
 5. **«Fer la cisena»** — el privilegi que la regula. El document de 1894 l'anomena
    «el llamado privilegio de **Sisena**, dado por el Sr. Obispo Urries y
    restaurado más tarde por el Obispo Capella», i el corpus **no en té el text**.
-6. **Capitans, deseners i guardes**: el capítol VII hi és i encara no s'ha llegit.
+6. **Capitans, deseners i guardes**: el capítol VII hi és i encara no s'ha
+   llegit. — **`obert` pel que fa a la lectura, i ara se sap per què val la pena
+   fer-la.** **Dos d'aquests tres càrrecs són vigents.** La **Llei 28/2022,
+   qualificada de protecció civil**, organitza el **sometent** de cada parròquia
+   amb **un capità i els deseners**, nomenats pel Consell de Comú «**si escau i
+   d'acord amb la tradició**» ([el sometent](../../institucions/comuns-i-parroquies/el-sometent.md)).
+   **El capítol VII del Politar és, literalment, el que aquella llei anomena
+   «la tradició»**, i **el corpus té el terme final de la sèrie i no el
+   principi.** **Buit barat i d'alt rendiment.**
+7. **El títol sencer del Politar no diu el mateix segons l'exemplar**, i **el
+   corpus no ha col·lacionat cap còpia**. Registrat a
+   [els costumaris andorrans](./els-costumaris-andorrans.md), amb **l'avís de
+   Brutails del 1904**: **«serà prudent no acceptar aquests textos sinó sota
+   benefici de revisió»**. **Això afecta totes les citacions d'aquesta fitxa.**
 
 ## Related
 
 - [El Manual Digest](./manual-digest.md) — l'altre costumari, quinze anys abans.
+- [El sometent](../../institucions/comuns-i-parroquies/el-sometent.md) — el capità i els deseners del capítol VII, vius en una llei del 2022.
 - [Els costumaris andorrans](./els-costumaris-andorrans.md) — tots els que hi havia, i on eren.
 - [El saig](../../institucions/justicia/el-saig.md) — el mot que va canviar de nom.
 - [El dret supletori](../../institucions/justicia/el-dret-supletori.md) — què s'aplicava quan el costum callava.

@@ -110,6 +110,62 @@ general»**: **no és obra d'un particular, és un encàrrec**.
 
 L'obra està dividida en **sis llibres**, subdividits en capítols.
 
+## El títol complet del Politar, i per què n'hi ha dos
+
+**Afegit el 2026-09-13 des del [llibre 2 de la tesi de Joan
+Becat](../../../fonts/becat-tesi-1993.md)**, que **reprodueix els dos títols en
+nota**. **El corpus tenia el títol sencer del Manual Digest i no el del
+Politar**, i **resulta que el Politar no en té un, en té dos.**
+
+**El de l'edició publicada el 1983:**
+
+> ***Politar Andorrà.** Que conté ab fàcil méthodo la Antiquitat, Govern,
+> Religió, Usos, Preheminencias, Prerogativas y Privilegis de les **Valls neutres
+> de Andorra**. Escrit per lo **Rnt An. Pg. Preb. de les Caldes** per lo millor
+> gobern de sos Patricis. **Tret de les sublimes obres de M.I. Dr Anton Fiter y
+> Rossell, Veguer de ditas Valls.** Andorra 1763.*
+
+**El de l'exemplar de la Casa de la Vall que va consultar Brutails:**
+
+> ***Politar andorrà.** De la antiquitat, govern y religió, dels privilegis,
+> usos, preheminencias, consuetuts y prerogativas de **la Vall de Andorra**. Tret
+> molta part de les sublimes obres del molt Illre dr **Anton Fiter y Rossell de
+> Ordino**, y **part dels arxius del Illre Consell de la Vall**, lo any 1763,
+> **per lo Reverent Anton Puigt**.*
+> (Brutails, *La coutume*, p. 69)
+
+**Tres diferències, i cap és innocent:**
+
+| | Edició del 1983 | Exemplar de la Casa de la Vall |
+| --- | --- | --- |
+| **El país** | **«les Valls neutres de Andorra»** — **la neutralitat al títol**, com al Manual Digest | **«la Vall de Andorra»**, sense neutralitat |
+| **Qui és Fiter i Rossell** | **«Veguer de ditas Valls»** | **«de Ordino»**, com al títol del Manual Digest |
+| **D'on ve el material** | **només de les obres de Fiter** | **de Fiter i, a més, «part dels arxius del Illre Consell de la Vall»** |
+| **L'autor** | **abreujat**: «Rnt An. Pg. Preb. de les Caldes» | **sencer**: «lo Reverent Anton Puigt» |
+
+**El segon títol resol una cosa que el corpus donava per sabuda sense document**:
+**Antoni Puig era prevere de les Escaldes**, i **el Politar no és només un resum
+del Manual Digest** — **hi ha entrat material d'arxiu del Consell.**
+
+**I «Veguer de ditas Valls» aplicat a Fiter i Rossell mereix un avís**: el
+corpus el té documentat **com a doctor en drets d'Ordino** i el Manual Digest
+mateix el presenta així. `Divergència registrada, no arbitrada.`
+
+### I l'avís que hauria de precedir qualsevol citació d'aquests textos
+
+**Brutails, el 1904, desconfiava de les còpies**, i el corpus no ho tenia escrit:
+
+> «**Els Privilegis** […] estan transcrits en dos gruixuts volums. **El poc que
+> en sé m'inspira una viva desconfiança sobre la sinceritat de les còpies.**
+> **Serà prudent no acceptar aquests textos sinó sota benefici de revisió.**»
+> (Brutails, p. 68 i 73, citat per Becat; **traducció del corpus**)
+
+**Això val per a tot el que el corpus cita d'aquests manuscrits.** Ho diu el
+mateix jutge que li ha servit els extractes, i **encaixa amb el que aquesta fitxa
+ja registrava**: **la còpia de la Biblioteca de Foix és «fort inexacte»**, i
+**n'hi ha exemplars a la Casa de la Vall, a Perpinyà, al bisbat d'Urgell, a
+Barcelona i a París**. **Sis parades, cap col·lació.**
+
 ## Buits registrats
 
 1. **El text de la Instructa de 1740.** És a les peces justificatives del mateix
@@ -120,7 +176,11 @@ L'obra està dividida en **sis llibres**, subdividits en capítols.
 4. **Si les còpies de 1879 són encara a París**, i què n'ha estat de la
    Bibliothèque du Comité de législation comparée.
 5. **Qui eren Palmitjavila, de Riba i Bonaventura Moles.**
-6. ~~**El Politar sencer.** Brutails en publica extractes (annex XXXIV) i el
+6. **La col·lació dels exemplars.** **Brutails avisa el 1904 que no es fiïn
+   de les còpies** (secció de dalt) i **ningú no les ha comparades**. **Aquest
+   és el buit metodològicament més greu de la branca**: **tot el que el corpus
+   cita del Politar i del Manual Digest depèn de quin exemplar es llegeix.**
+7. ~~**El Politar sencer.** Brutails en publica extractes (annex XXXIV) i el
    corpus encara no els ha llegit.~~ **Els extractes, llegits:**
    [El Politar andorrà](./el-politar.md). Queda obert **el Politar sencer**: el
    que hi ha és **una tria feta per un jutge francès**.

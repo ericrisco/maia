@@ -63,11 +63,129 @@ El contraban és una de les capes de què està feta la manera andorrana de mira
 la frontera, l'estat i la norma. Explicar-lo com una curiositat pintoresca és
 perdre'n el sentit.
 
+## El cicle no s'acaba als anys quaranta
+
+**Afegit el 2026-09-13 des del [llibre 2 de la tesi de Joan
+Becat](../../../fonts/becat-tesi-1993.md)**, que **hi dedica un annex sencer**,
+*La perméabilité de la frontière*. **El corpus tenia el contraban com a cosa
+acabada i el tancava als anys quaranta.** **No ho estava.**
+
+*(La tesi és en francès; les traduccions són del corpus. Les citacions catalanes
+hi van tal com Becat les reprodueix.)*
+
+### El dossier de premsa, 1986-1992
+
+**Becat annexa nou peces de diari, i totes són posteriors a la data on el corpus
+tancava el cicle:**
+
+| Data | Peça |
+| --- | --- |
+| **15 i 18 de maig de 1986** | ***Avui***: **«L'entrada il·legal de bestiar des d'Andorra provoca protestes»** a l'Alt Urgell, i **Miró i Ardèvol la confirma** |
+| **10 de desembre de 1986** | ***Avui***: **«S'ha desarticulat una altra xarxa d'evasors via Andorra»**, amb **sis industrials valencians i catalans implicats** |
+| **6 de febrer de 1987** | ***L'Indépendant*** (Perpinyà): **«Andorre. Contrebande pas morte.»** |
+| **18 de febrer de 1988** | ***Avui***: **judici a dinou evasors de capital**, **1.104 milions** |
+| **25 d'abril i 12 de desembre de 1988** | ***El Temps***: **«Andorra: el color dels diners»** i **«L'evasió és catalana»** |
+| **27 de novembre de 1989** | ***El Temps***: **«L'últim refugi»** |
+| **15 de febrer de 1992** | ***Diari d'Andorra***: **Holanda investiga un frau a la CEE**; **les Valls, plataforma de reexportació fraudulenta de formatges** |
+
+**«Contrabande pas morte», el 1987.** **I el que hi passa ja no són llumins**:
+és **bestiar, capital i formatge de la política agrària comunitària.**
+
+### Què havia canviat, i què no
+
+**El bestiar segueix passant, i per dues vies.** **Per la muntanya**, perquè
+**a les estives, la majoria en contacte amb una frontera, el bestiar ja no es
+guarda ni es controla com abans i passa sol**. **I pels llocs fronterers
+controlats**, amb papers. Becat hi afegeix **la peça que fa d'aquest tràfic un
+negoci modern**: **hi ha qui puja vaques comprades per a l'ocasió o tingudes en
+pensió fora d'Andorra**, **i cobra al pas les primes importants que el Govern
+andorrà dona al bestiar que pastura a Andorra.**
+
+**La prima a la pastura andorrana finançant bestiar que no hi vivia.** Vegeu
+[la transhumància](../../economia/ramaderia-i-agricultura/la-transhumancia.md) i
+[la crisi de l'oví](../../economia/ramaderia-i-agricultura/la-crisi-de-lovi.md).
+
+**I la continuïtat institucional és la part que val més:**
+
+> **«Com a principi de segle, les autoritats andorranes protegeixen els seus
+> nacionals. Tot passa com si acceptessin de deixar un marge de maniobra als
+> ramaders**, sigui **per ajudar a mantenir una activitat ramadera avui en
+> declivi**, sigui **per evitar de crear escàndols** —**per tant, protegint
+> indirectament els traficants**.»
+
+**El mateix mecanisme que [l'empresa del
+contraban](./lempresa-del-contraban.md) documenta per al segle XIX**,
+**funcionant el 1993.** `Tesi de Becat, registrada com a seva.`
+
+### La frase de govern que es pot llegir de dues maneres
+
+**Òscar Ribas Reig**, **discurs-programa al Consell General del 6 de febrer del
+1990**:
+
+> «**El meu Govern pensa estudiar la creació d'una Duana Central** que permetria
+> coordinar les operacions en un mateix indret amb la correlativa agilització
+> dels tràmits d'importació i exportació de mercaderies. **Alhora, aquesta Duana
+> Central comportaria un sensible augment de la verificació i control de les
+> mercaderies amb la consegüent reducció de les possibilitats de frau.**»
+
+**Becat la llegeix amb una pregunta i el corpus la conserva sense respondre-la:**
+**era una declaració necessària per calmar la CEE**, amb qui s'havia de signar
+imminentment l'acord comercial —**«com en el passat es condemnava el contraban
+per tranquil·litzar els serveis duaners dels estats veïns»**— **o era la voluntat
+de canviar de debò les regles del joc?** Vegeu
+[la duana](../../economia/comerc/la-duana.md).
+
+**I una data que situa el problema als dos costats:** **el maig del 1993, el
+director de duanes espanyol de la Farga de Moles va ser detingut per la policia
+espanyola**, sospitós d'haver participat en tràfics fraudulents **per sumes
+considerables**.
+
+### La novel·la que el corpus no tenia
+
+Becat cita, com a font de context, **una novel·la que descriu aquest món des de
+dins**: ***Escapa't d'Andorra***, d'**Assumpta Margenat**, **La Magrana,
+Barcelona, 1989**. **No surt enlloc del corpus**, ni a
+[la literatura andorrana](../../cultura/literatura/literatura-andorrana.md).
+
+**Becat n'avisa l'estatut**: **«encara que sigui ficció novel·lesca, s'ha de
+reconèixer que sona veritable: el context i el medi hi són ben observats».**
+**El corpus la registra com el que és —una novel·la— i en reté el vocabulari i
+les pràctiques que descriu, no els fets:**
+
+> «**Una cosa que em va tocar fer era canviar vaques per eugues, dels ramats
+> d'Andorra amb els de Cerdanya. Aquests tractes els feien els pagesos i
+> tractants a la Seu, al cafè, els dies de mercat. Tots s'hi estalviaven diners.
+> […] I pels animals, aquelles vaques calmoses no hi havia ni Catalunya ni
+> Andorra. Elles viuen al seu Pirineu, saps?**»
+
+**«Per als animals no hi havia ni Catalunya ni Andorra.»** És **la mateixa
+lògica que [la lògica pastoral dels
+límits](../../territori/geografia-fisica/la-logica-pastoral-dels-limits.md)
+descriu des de la geografia**, dita en una novel·la.
+
+I **els carabiners, al text, no persegueixen: negocien**:
+
+> «**Es deixaven veure, m'esperaven a la vora del camí, i em proposaven que els
+> fes algun viatge per ells, i que ja farien la vista grossa per altres
+> vegades.**»
+
+**Avís de lectura, i important**: **això és literatura, no testimoni.** **El
+corpus no l'usa per afirmar cap fet**, i **la reté perquè el buit de testimoni
+oral d'aquesta mateixa fitxa segueix obert i això no el tanca.**
+
 ## El que falta
 
-Cronologia amb dates, volums, l'evolució fins al final del cicle, i sobretot
-**testimoni oral** — que és material de la fase 3 i valdria molt més que
-qualsevol resum. **Buit registrat.**
+- ~~Cronologia amb dates, volums, l'evolució fins al final del cicle~~ —
+  **`parcial` des del 2026-09-13, i amb una correcció de fons: no hi ha «final
+  del cicle» als anys quaranta.** **El dossier de Becat porta la sèrie fins al
+  1992-93**, amb **un canvi d'objecte** —**de mercaderies a capital i a frau de
+  subvencions comunitàries**— **i una continuïtat de conducta institucional.**
+  **El que segueix obert són els volums**, que **no consten en cap font del
+  corpus per a cap època.**
+- **I sobretot testimoni oral** — que és material de la fase 3 i valdria molt més
+  que qualsevol resum. **Buit registrat, i segueix sent el més valuós de la
+  branca.** **La novel·la de Margenat no el substitueix.**
+  Vegeu [parla](../../../parla/README.md).
 
 ## Related
 

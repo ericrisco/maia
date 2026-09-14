@@ -1,0 +1,50 @@
+GV_2025_11_18_09_50_20 
+ Edicte del 18-11-2025 pel qual es publiquen les resolucions de la Comissió Nacional d’Accés i Avaluació de la Documentació (CNAAD).
+ D’acord amb l’article 27.7 de la Llei 33/2021 , de transparència, accés a la informació pública i govern obert i l’article 5.5 del Decret 455/2022 , del 9-11-2022, d’aprovació del Reglament d’organització i funcionament de la Comissió Nacional d’Accés i Avaluació de la Documentació (CNAAD), les resolucions de la CNAAD es publiquen al Butlletí Oficial del Principat d’Andorra en forma d’edicte.
+ D’acord amb l’article 25.1, apartat e, de la Llei 33/2021 , la CNAAD estableix la taula d’avaluació documental següent:
+ Taules d’avaluació
+ • TNAAD 002/25
+ Organisme: Caixa Andorrana de Seguretat Social (CASS).
+ Codi de procediment: sol·licituds de targetes sanitàries (F605)
+ Disposició: eliminació total al cap de sis mesos del tancament de l’expedient tenint en compte els programes que actuen com a eines recapitulatives.
+ Motivació: el valor administratiu (primari) de l’expedient es manté fins que la persona sol·licitant presenti una sol·licitud nova. Segons els motius (pèrdua de la targeta i dades errònies o actualització de les mateixes dades), la CASS emet una factura per poder crear una targeta nova. Tanmateix, la CASS dona l’opció de fer un canvi gratuït de la targeta en els supòsits següents:
+ a) Si la targeta té més de deu anys d’antiguitat.
+ b) Si té defectes de fabricació del material.
+ El valor fiscal es relaciona amb aquest expedient en el moment de l’emissió de la factura d’una targeta nova (si escau). De tota manera, el programa SAP actua com a eina recapitulativa en el seu llibre diari i anual d’assentament comptable amb valor juridicolegal. Amb la targeta, a més, s’efectua l’ordre de pagament automàtica de la prestació mèdica (visita/medicació) a la CASS per al reemborsament.
+ No es considera que aquest expedient tingui valor històric per a la recerca futura i/o acadèmica, tenint en compte que la targeta sanitària emesa no forma part de l’expedient administratiu.
+ Un cop tancat l’expedient, la documentació passa directament de la fase activa (arxiu de gestió) a la fase inactiva (arxiu definitiu).
+ Accés: restringit per a la persona sol·licitant de la targeta i/o el seu representant legal (mare, pare, tutor) sempre que la persona sol·licitant sigui menor d’edat o bé que la persona que sol·liciti l’accés presenti un document de poder (públic o privat).
+ Motivació: conté dades personals de persones físiques i qüestions relatives als procediments de l’organisme.
+ En tot cas, es podrien publicar dades estadístiques del nombre de targetes sanitàries emeses per la CASS.
+ Motivació: vist que el registre conté dades personals que són identificatives relacionades amb el funcionament o l’activitat pública de l’Administració.
+ • TNAAD 003/25
+ Organisme: Caixa Andorrana de Seguretat Social (CASS).
+ Codi de procediment: sol·licituds d’accés a la informació (E501.1)
+ Disposició: eliminació total al cap d’un any de la recepció de la sol·licitud que inicia l’expedient tenint en compte la legislació vigent i aplicable.
+ Motivació:
+ a) El valor administratiu (primari) de l’expedient es manté fins que la persona sol·licitant consulti la informació sol·licitada o fins que caduquin els certificats emesos.
+ b) El valor fiscal es relaciona amb aquest expedient en el moment de l’emissió de la factura d’una fotocòpia, un duplicat o si és un dels casos estipulats a l’edicte del 25-4-2023 pel qual es fan públics els preus de totes les tramitacions administratives de la CASS (si escau). Tanmateix, el programa SAP actua com a eina recapitulativa en el seu llibre diari i anual d’assentament comptable amb valor juridicolegal. Certs certificats sol·licitats que formen part de l’expedient poden tenir valor fiscal, però aquests certificats són vàlids únicament per al dia en què s’emeten tenint en compte l’alta alterabilitat administrativa en què pot estar subjecte un ciutadà.
+ c) No es considera que aquest expedient tingui valor històric per a la recerca futura i/o acadèmica, tenint en compte que la documentació sol·licitada forma part d’un altre expedient administratiu (a excepció dels certificats sol·licitats).
+ d) Un cop tancat l’expedient, la documentació passa directament de la fase activa (arxiu de gestió) a la fase inactiva (arxiu definitiu).
+ Accés: restringit per a la persona sol·licitant i/o el seu representant legal sempre que la persona que sol·liciti l’accés presenti un document de poder (públic o privat).
+ En cas que la documentació afecti tercers, aquests últims en seran informats i podran presentar al·legacions.
+ Motivació: pot contenir dades personals de persones físiques i qüestions relatives als procediments de l’organisme.
+ La persona sol·licitant, tenint en compte la Llei 33/2021 , del 2 de desembre, de transparència, accés a la informació pública i govern obert, té dret a sol·licitar l’estat de l’expedient o una còpia de la sol·licitud i/o l’expedient sempre que la CASS disposi de la documentació sol·licitada tenint en compte les taules d’avaluació i accés.
+ En tot cas, i tenint en compte els registres de dades, hi hauria la possibilitat d’emetre un certificat probatori de l’acte administratiu i dels documents presentats davant de l’Administració.
+ • TNAAD 004/25
+ Organismes: Unitat de Transparència, Govern d’Andorra.
+ Codi de procediment: demandes d’accés a la informació B1602-006.
+ Disposició: eliminació total al cap d’un any des de la recepció de la sol·licitud que inicia l’expedient tenint en compte la legislació vigent i aplicable.
+ Motivació: el valor administratiu (primari) de l’expedient es manté fins que la persona sol·licitant consulti la informació sol·licitada.
+ El valor fiscal es relaciona amb aquest expedient en el moment de l’aplicació del preu públic (si escau) per a l’expedició de còpies o la transposició de la informació a un format diferent de l’original o, si escau, els preus estipulats en els edictes corresponents pels quals es fan públics els preus de totes les tramitacions administratives.
+ No es considera que aquest expedient tingui valor històric per a la recerca futura i/o acadèmica, tenint en compte que la documentació sol·licitada forma part d’un altre expedient administratiu.
+ Un cop tancat l’expedient, la documentació passa directament de la fase activa (arxiu de gestió) a la fase inactiva (arxiu definitiu).
+ Accés: restringit en funció de la documentació i les dades personals que conté la informació sol·licitada (anonimització i limitacions legals a la informació pública).
+ Motivació: pot contenir dades personals de persones físiques i qüestions relatives als procediments de l’organisme.
+ En atenció a l’article 11.4 de la Llei 33/2021 , relativa a la transparència, és aplicable la normativa en matèria de protecció de dades personals al tractament posterior de les dades obtingudes a través de l’exercici del dret d’accés a la informació pública.
+ Tanmateix, quant a la protecció de dades personals sobre qualsevol informació demanada que contingui dades personals, s’ha d’aplicar el que estableix l’article 12 de la Llei 33/2021 .
+ La resolució, i per tant l’accés a la informació, ha de ser estimatòria de la sol·licitud, llevat que sigui aplicable algun dels límits establerts per les lleis, i la resposta i la informació que s’han de lliurar han de contenir la motivació si s’apliquen els límits; es pot, parcialment, donar l’accés, en funció dels límits legals.
+ Cosa que es fa pública per a coneixement general.
+ Andorra la Vella, 18 de novembre del 2025
+ Ester Fenoll Garcia
+Presidenta de la CNAAD

@@ -211,6 +211,35 @@ gairebé cap**:
 1. Les **ordinacions senceres**, en text.
 2. **Quant valia un sou** el segle XV — sense això, «cinc sous de ban» no es pot
    avaluar.
+   **`parcial` — 2026-09-13.** **La conversió ja era al corpus i aquesta fitxa
+   no hi anava.** Brutails la publica a l'apèndix del primer capítol de *La
+   Coutume d'Andorre* (1904): «*la livre ancienne, catalane ou barcelonaise,
+   **qui vaut 2 pesetas 66***… *Le sou ancien est donc au sou de 5 centimes
+   comme **2 2/3** est à 1. Il se divise en **12 deniers***»
+   ([les mesures i les monedes](../../economia/comerc/les-mesures-i-les-monedes.md),
+   `font directa`; [fitxa](../../../fonts/brutails-coutume-1904.md)). D'aquí:
+   **1 lliura = 20 sous = 2,66 pessetes**, **1 sou = 0,133 pessetes**, **1 diner
+   = 0,0111 pessetes** — els mateixos números que ja fa servir
+   [la quèstia](../antic-regim/la-questia.md).
+
+   **I ara «cinc sous de ban» es pot avaluar** — `deducció del corpus`,
+   aritmètica amb els números a la vista i **cap font no la fa**:
+
+   - **En pessetes:** 5 × 0,133 = **0,67 pessetes per nit**.
+   - **Contra un bé del corpus:** [les mules](../../economia/ramaderia-i-agricultura/les-mules.md)
+     dona **una ovella a 3 lliures 2 sous**, que són **62 sous**. **El ban d'una
+     nit és una dotzena part d'ovella**, i **dotze o tretze nits de bestiar mal
+     jagut costaven l'ovella sencera**.
+
+   **Continua obert, i és la meitat important:** **el corpus no sap si el sou del
+   segle XV valia el mateix que el «sou ancien» que Brutails converteix el
+   1904**, i **l'ovella de referència és de les operacions dels segles XVII-XVIII**,
+   no del XV. **Les tres dates són diferents i cap font del corpus no les
+   encadena.** [La quèstia](../antic-regim/la-questia.md) registra el mateix
+   dubte amb les mateixes paraules.
+   `Requereix font externa: una sèrie del valor real de la lliura catalana al
+   segle XV — la taula de la pàgina 20 de Brutails, que el corpus té registrada
+   com a buit prioritari i no ha pogut transcriure.`
 3. ***Parra*** i ***stali***.
 4. **Sant Bernabé (7 de juny)** com a data de dret: hi ha més drets que hi
    pengin?
@@ -221,6 +250,24 @@ gairebé cap**:
    de les bohigues**. La cadena va del **1366** al **1904** passant pel **Politar**
    i per un decret del Consell General del **4 de juny de 1878**. Vegeu
    [el sòl comunal](../../territori/geografia-fisica/el-sol-comunal.md).
+
+   **I el 2026-09-14 la cadena arriba fins al 1993**, des del
+   [llibre 2 de la tesi de Joan Becat](../../../fonts/becat-tesi-1993.md), **amb
+   el final que cap font del corpus no donava**: **«la major part d'aquestes
+   *boïgues* han esdevingut cessions permanents, considerades avui per les cases
+   que en van ser beneficiàries com a part integrant del seu patrimoni».**
+
+   **Una concessió temporal de deu anys sobre terra pública acabada en propietat
+   privada.** **Becat hi afegeix qui les demanava**: **no només les cases
+   modestes que la figura havia de protegir, sinó també «cases mitjanes o
+   fortes»**, i **en conclou que les boïgues eren «un altre mecanisme de
+   reforçament de les cases»**. `Tesi de Becat, registrada com a seva.`
+
+   **I el situa fora d'Andorra**: **el sistema és de tota la serralada**, i **a
+   Catalunya la concessió de boïgues va ser una de les tècniques per estendre
+   els conreus i instal·lar unitats familiars noves**, al costat de
+   **l'emfiteusi**, **les artigues** i **les rompudes** — **tres mots que el
+   corpus no tenia.**
 6. Tots els mots d'aquesta fitxa contra el ***Vocabulari d'Andorra*** (1992).
 
 ## Related

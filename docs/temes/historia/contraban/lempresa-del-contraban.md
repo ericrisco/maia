@@ -181,8 +181,15 @@ comptabilitat**.
 3. **Qui era M. Sicard**, jutge d'apel·lacions, i on és la seva sentència.
 4. **La fàbrica andorrana de llumins**: qui la tenia i des de quan.
 5. **Quant pesava el contraban en el PIB**, si es pot estimar.
-6. **Quan s'acaba.** Aquestes fonts arriben als anys quaranta i el corpus no té el
-   final.
+6. ~~**Quan s'acaba.** Aquestes fonts arriben als anys quaranta i el corpus no té
+   el final.~~ — **`incorrecte` en la premissa.** **No s'acaba.** **El dossier de
+   premsa que [Joan Becat](../../../fonts/becat-tesi-1993.md) annexa a la seva
+   tesi va del 1986 al 1992**, i un titular de *L'Indépendant* del **6 de febrer
+   del 1987** ho diu amb tres paraules: **«Contrebande pas morte.»** **El que
+   canvia no és que s'acabi, és què passa**: **bestiar, capital i formatge de la
+   política agrària comunitària en lloc de llumins i tabac.** Tot a
+   [contraban](./contraban.md). **El que segueix obert són els volums**, per a
+   qualsevol època.
 
 ## Related
 

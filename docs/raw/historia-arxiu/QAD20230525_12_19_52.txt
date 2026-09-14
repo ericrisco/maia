@@ -1,0 +1,193 @@
+QAD20230525_12_19_52 
+ Reglament
+ Reglament de l’1-6-2023 de l’Arxiu Comunal del Comú d’Andorra la Vella.
+ Exposició de motius
+ L’objecte d’aquest reglament és el de definir i regular les funcions, estructura i competències de l’Arxiu Comunal d’Andorra la Vella i de les persones responsables d’aquest servei, així com d’establir els criteris bàsics d’un sistema de gestió documental que afavoreixi un sistema eficaç en el tractament i consulta de dades.
+ Així, en virtut del que estableix el Codi de l’Administració del 29 de març de 1989, de la Llei qualificada de delimitació de competències dels Comuns, del 4 de novembre del 1993, de l’Ordinació d’organització i funcionament dels comuns, del 17 de novembre del 2011, de la Llei 9/2003 , del 12 de juny, del patrimoni cultural d’Andorra, de la Llei 29/2021 , del 28 d’octubre, qualificada de protecció de dades personals, de la Llei 30/2014 , del 27 de novembre, qualificada de protecció civil als drets a la intimitat, a l’honor i a la pròpia imatge, de la Llei 35/2014 , del 27 de novembre, de serveis de confiança electrònica, de la Llei 33/2021 , del 2 de desembre, de transparència, accés a la informació pública i govern obert, i de l’Ordinació del 20-4-2023 reguladora de l’Administració electrònica;
+ El Comú d’Andorra la Vella, en la sessió del Consell de Comú de l’1 de juny del 2023, ha aprovat el següent:
+ Reglament de l’1-6-2023 de l’Arxiu Comunal del Comú d’Andorra la Vella
+ Capítol I. Disposicions generals
+ Article 1. Definicions 
+ A efectes d’una millor comprensió d’aquest Reglament es defineixen els conceptes següents:
+ a) Document: qualsevol expressió en llenguatge natural o convencional, gràfica, sonora o en imatge que es trobi recollida en un suport físic o electrònic.
+ b) Fons documental: conjunt de documents rebuts o produïts per les persones físiques i jurídiques, públiques o privades, com a resultat de la seva activitat i les seves funcions al llarg de la seva existència.
+ c) Expedient: conjunt ordenat de documents i d’actuacions que serveixen d’antecedent i de fonament a una resolució administrativa, així com les diligències adreçades a executar-la. Els expedients es formen mitjançant l’agregació successiva de tots els documents, les proves, els dictàmens, els decrets, els acords, les notificacions i altres documents que en siguin constitutius, així com la resolució adoptada.
+ d) Documentació en fase activa: documents administratius que s’utilitzen de forma habitual per part de les unitats administratives en execució d’un tràmit administratiu o bé per poder dur a terme les funcions i activitats que li són pròpies.
+ e) Documentació en fase semiactiva: documents que una vegada conclosa la seva tramitació ordinària no s’utilitzen de manera habitual per la unitat administrativa que els ha generat.
+ f) Documentació en fase inactiva: documents que una vegada conclosa la seva vigència administrativa contenen valors de caràcter informatiu, probatori, testimonial, estadístic o històric.
+ g) Documentació de suport: documents d’ús informatiu i de treball que ajuden en la resolució d’un tràmit o d’una actuació administrativa, però que no es consideren documents d’arxiu.
+ h) Sistema de Gestió Documental: conjunt d’operacions i de tècniques, integrades en la gestió administrativa general, basades en l’anàlisi de la producció, la tramitació i els valors dels documents que es destinen a la planificació, el control, l’ús, la conservació i l’eliminació o la transferència dels documents a un centre d’arxiu, amb l’objectiu de racionalitzar-ne i unificar-ne el tractament i aconseguir-ne una gestió eficaç i rendible.
+ i) Transferència: procediment de traspàs legal de la custòdia dels expedients i documents de les diferents unitats productores a l’Arxiu Comunal.
+ Article 2. El patrimoni documental del Comú 
+ 1. El patrimoni documental del Comú en els seus diferents suports està constituït per:
+ a) El fons històric del Comú de l’originària parròquia d’Andorra, previ a la divisió parroquial del juny del 1978 que es troba dipositat a l’Arxiu Nacional d’Andorra per acord del Comú d’Andorra la Vella i el Comú d’Escaldes-Engordany.
+ b) El fons històric del Quart d’Andorra la Vella.
+ c) Els fons documentals generats i rebuts pel Comú o pels organismes que en depenen, independentment de la seva data i suport. S’exclouen els documents que continguin dades personals de treballadors i càrrecs electes comunals.
+ d) Els documents que hagin estat objecte de dipòsit, cessió o donació, amb el seu corresponent contracte.
+ e) La documentació generada per les persones que exerceixen funcions polítiques o administratives en el Comú.
+ 2. De tota edició en la qual s’utilitzin reproduccions de documents procedents de l’Arxiu Comunal s’hauran de lliurar dos exemplars al Comú per tal que s’incorporin al seu fons. Aquesta disposició és aplicable a edicions de llibres, notícies de premsa, vídeos, cartells o d’altres productes sobre materials aptes per a la reproducció d’imatges. Segons el tipus d’edició, l’Arxiu Comunal podrà establir altres condicions de reproducció.
+ Capítol II. L’Arxiu Comunal
+ Article 3. L’Arxiu Comunal 
+ 1. L’Arxiu Comunal és un servei adscrit al Departament de Secretaria General del Comú que té les funcions següents:
+ a) Gestionar, organitzar i difondre el patrimoni documental comunal.
+ b) Garantir el dret a la informació i l’accés a la documentació.
+ c) Facilitar la investigació.
+ d) Vetllar per la salvaguarda i conservació del patrimoni documental comunal.
+ e) Col·laborar en la definició de la política de gestió del document electrònic i en la implantació del vocabulari de metadades.
+ 2. L’acrònim de l’Arxiu Comunal del Comú d’Andorra la Vella és ACAV. Pel que fa al fons històric del Quart d’Andorra la Vella, el seu acrònim és AQAV. El fons històric de la parròquia compartit amb el d’Escaldes-Engordany és conegut com l’Arxiu del Comú d’Andorra (ACA). Aquests acrònims s’utilitzen sempre a l’hora de citar la documentació.
+ 3. Per al desenvolupament de les seves funcions, l’Arxiu Comunal ha de comptar amb els mitjans adequats tant pel que fa a l’espai, el personal i els recursos materials necessaris, com pel que fa a instal·lacions, les quals tenen com a funció única i exclusiva les que li són pròpies i específiques i en cap cas poden ser utilitzades amb altres finalitats. En la mesura del possible, les dependències de l’Arxiu Comunal inclouran una biblioteca auxiliar que acollirà, entre d’altres, les publicacions locals.
+ 4. Els sistemes d’accés a l’Arxiu Comunal estan sota la custòdia directa del seu responsable. Les zones de treball i de dipòsit de documentació es consideren d’accés restringit i no hi poden accedir persones alienes a l’Arxiu Comunal sense anar acompanyades per algú del servei llevat de casos de circumstàncies excepcionals de força major.
+ Article 4. La gestió dels documents 
+ La gestió dels documents, en tant que funció de l’Arxiu Comunal, comprèn:
+ a) Analitzar i identificar la documentació.
+ b) Proposar normes reguladores de classificació, ordenació i tractament de la documentació durant la seva gestió administrativa en els diferents òrgans auxiliars i departaments del Comú, i supervisar-ne l’aplicació.
+ c) Establir criteris i protocols sobre la producció, la gestió i les transferències de documentació, així com sobre la tria i eliminació de documents amb la col·laboració dels serveis comunals afectats, i d’acord amb el marc normatiu vigent i amb les directrius emeses per la Comissió Nacional d’Accés i Avaluació de la Documentació (en endavant la CNAAD).
+ d) Gestionar el gestor documental corporatiu o l’eina equivalent per a la conservació de documents electrònics.
+ e) Marcar directrius sobre les condicions idònies dels locals de dipòsit, les instal·lacions i la correcta col·locació física de la documentació en paper per tal de garantir-ne l’accessibilitat i la seguretat.
+ f) Contribuir a una millor eficàcia i un millor funcionament de l’administració comunal mitjançant l’elaboració dels instruments de descripció adients per tal de facilitar d’una manera ràpida i pertinent la documentació necessària per resoldre qualsevol tràmit administratiu.
+ Article 5. L’accés a la documentació 
+ L’accés a la documentació requereix:
+ a) Establir i regular les condicions de préstec i consulta dels documents per al seu ús en les diferents dependències comunals i mantenir un registre de tots els documents prestats i consultats.
+ b) Facilitar l’accés i la consulta a totes les persones interessades, d’acord amb el marc legal i normatiu vigent.
+ c) Posar a disposició pública inventaris, catàlegs, índexs, repertoris i altres instruments de descripció documental que facilitin l’accés dels usuaris a la documentació.
+ Article 6. Protecció i conservació del patrimoni documental 
+ La protecció, conservació i difusió del patrimoni documental implica, entre altres:
+ a) Conservar i tractar la documentació d’interès històric o cultural relacionada amb la parròquia d’Andorra la Vella.
+ b) Establir les normes i mesures de seguretat de custòdia i d’accés necessàries per a la protecció i la salvaguarda de la documentació.
+ c) Elaborar protocols per a la conservació i la custòdia de la documentació dels arxius.
+ d) Fomentar la protecció del patrimoni documental de la parròquia mitjançant propostes d’adquisició o d’acceptació de dipòsits.
+ e) Determinar les polítiques de preservació que s’han d’aplicar per tal de garantir la conservació dels suports i de la informació, estudiar les causes de les alteracions que pateixen els documents i establir les prioritats de restauració.
+ f) Vetllar contra l’espoli del patrimoni documental de la parròquia d’Andorra la Vella, entenent com a tal qualsevol acció o omissió que posi en perill de deterioració, de pèrdua o de destrucció de qualsevol dels béns que integren el patrimoni documental de la parròquia.
+ g) Totes aquelles altres funcions i tasques que comportin l’organització i el tractament de la documentació que constitueix el patrimoni documental de la parròquia d’Andorra la Vella.
+ Article 7. Divulgació del patrimoni documental 
+ Correspon a l’Arxiu Comunal la divulgació del patrimoni documental que custodia com a part integrant del patrimoni cultural de la parròquia. Amb aquest objectiu dissenya programes d’activitats que poden incloure, entre d’altres els següents eixos:
+ a) L’edició de material divulgatiu dels fons i dels serveis.
+ b) La difusió de documents.
+ c) La publicació de revistes i monografies d’àmbit local.
+ d) La realització de visites comentades a l’Arxiu Comunal.
+ e) L’organització de cursets i conferències.
+ f) El muntatge o col·laboracions en exposicions.
+ g) La col·laboració amb els centres d’ensenyament, així com amb iniciatives d’altres entitats que contribueixin a la divulgació del patrimoni cultural de la parròquia.
+ h) L’assessorament als usuaris sobre les característiques, continguts i possibilitats d’explotació de la documentació que custodia en la mesura que sigui possible.
+ Capítol III. El personal de l’Arxiu Comunal
+ Article 8. El tècnic d’arxiu 
+ La gestió de l’Arxiu Comunal recau sobre el tècnic d’arxiu, o sobre la persona a la qual la Junta de Govern encomani expressament aquesta funció. El tècnic d’arxiu ha de gestionar les tasques del personal que se li delegui, així com vetllar pel bon ordre i funcionament del servei i de les seves instal·lacions.
+ Article 9. Funcions del tècnic d’arxiu 
+ Són funcions del tècnic d’arxiu, prèvia consulta i assessorament per part de la CNAAD quan s’escaigui, les següents:
+ a) Rebre, conservar i custodiar adequadament la documentació.
+ b) Classificar i ordenar la documentació en suport paper i supervisar la documentació en format electrònic.
+ c) Elaborar i proposar programes de treball i de formació, així com exposar les necessitats i proposar les millores que es considerin necessàries.
+ d) Elaborar protocols de classificació, ordenació i tractament de la documentació de gestió dels diferents departaments de l’administració comunal.
+ e) Proposar directrius per a la correcta ubicació física dels documents en suport paper.
+ f) Elaborar inventaris, catàlegs, índexs, repertoris i d’altres instruments de descripció documental que es considerin necessaris per a facilitar un adequat accés dels usuaris a la documentació.
+ g) Facilitar l’accés i consulta de la documentació a tots els investigadors, estudiosos i ciutadans en general, d’acord amb el marc legal i normatiu existent.
+ h) Realitzar propostes d’eliminació de documentació d’acord amb el marc normatiu existent.
+ i) Col·laborar en el disseny i implementació del Sistema de Gestió Documental.
+ j) Mantenir relació amb els ens públics i privats en tot allò que concerneix el Servei d’Arxiu.
+ k) Proposar l’adquisició de materials que siguin necessaris.
+ l) Mantenir els registres necessaris per a controlar els ingressos, consultes i préstecs de la documentació.
+ m) Preocupar-se del foment del patrimoni documental comunal, mitjançant propostes d’adquisició, donació o dipòsit en els casos que sigui possible.
+ n) Planificar i coordinar les activitats de difusió de l’Arxiu.
+ o) Proposar programes de formació de personal d’arxiu.
+ p) Aplicar les recomanacions i decisions adoptades per la CNAAD en matèria d’accés i avaluació de la documentació pública.
+ q) Col·laborar amb la CNAAD i formar-ne part en representació del Comú d’Andorra la Vella, quan així es designi.
+ r) Qualsevol altra funció que descrigui la fitxa de funcions del lloc de treball.
+ Capítol IV. La gestió documental
+ Article 10. La gestió dels documents administratius 
+ La gestió dels documents administratius comprèn el conjunt d’operacions i tècniques relatives a la concepció, el desenvolupament, l’aplicació i l’avaluació dels sistemes i procediments necessaris per garantir la seguretat i transparència del circuit documental des del moment de la creació o recepció dels documents al Comú fins a la seva transferència, conservació o eliminació.
+ Article 11. El Sistema de Gestió Documental 
+ 1. La gestió de documents s’ha de sustentar en un Sistema de Gestió Documental que es fonamenta en l’aplicació del Quadre de Classificació de la documentació comunal i en la normalització dels documents i dels seus continents.
+ 2. El Sistema de Gestió Documental ha de:
+ a) Garantir el seguiment i la localització de qualsevol document en tots i cadascun dels circuits de l’actuació administrativa.
+ b) Establir les condicions de transferència, conservació i accés dels documents.
+ c) Elaborar els calendaris que en relació amb el Quadre de Classificació han de regir la transferència, l’accés i la conservació o l’eliminació de la documentació, d’acord amb la legislació aplicable.
+ d) Gestionar la transició del model basat en el suport paper al document electrònic.
+ Article 12. Transferència de documentació interna 
+ 1. Els expedients administratius que produeixin cadascuna de les unitats administratives del Comú i que hagi exhaurit la seva etapa activa han de ser transferits a l’Arxiu Comunal en els terminis establerts en el Quadre de Classificació inclòs en el Sistema de Gestió Documental i d’acord amb els protocols que s’estableixin des del mateix Arxiu Comunal. En qualsevol cas, la documentació que superi els 30 anys d’antiguitat haurà de ser custodiada per l’Arxiu Comunal excepte en casos degudament justificats.
+ 2. Són objecte de transferència a l’Arxiu Comunal els llibres oficials, els expedients i qualsevol altre document detallat a l’article 2 d’aquest reglament, així com els instruments de descripció relatius a aquesta documentació.
+ Article 13. Requisits de la documentació a transferir 
+ 1. La documentació que es transfereixi a l’Arxiu Comunal ha de ser original. Per tant, abans de fer la transferència caldrà eliminar totes les còpies i duplicats que no estiguin degudament justificats.
+ 2. La documentació que sigui transferida a l’Arxiu Comunal ha d’anar acompanyada del corresponent formulari de transferència que les unitats remitents hauran omplert d’acord amb els protocols establerts des de l’Arxiu Comunal.
+ 3. Abans de transferir els expedients administratius a l’Arxiu Comunal cal que hagin finalitzat la seva tramitació administrativa i que estiguin complets. En cas contrari no seran acceptats llevat que hi consti una diligència específica del responsable del departament indicant el seu caràcter incomplet, quins són els documents que hi manquen i quines han estat les raons que han motivat la transferència. La documentació administrativa que estigui desordenada, barrejada, deteriorada o que no mantingui les característiques mínimes del que ha de ser un expedient es retornarà al servei remitent indicant les deficiències per escrit i no s’admetrà el seu ingrés a l’arxiu fins que no s’hagin corregit aquestes deficiències.
+ Article 14. Eliminació de documentació administrativa 
+ 1. La documentació administrativa que no calgui conservar un cop hagi expirat el període de vigència administrativa, que no tingui interès per a la informació i la investigació o bé que la llei no obligui a conservar pot ser eliminada.
+ 2. El procediment d’eliminació s’inicia a proposta del responsable de l’Arxiu Comunal o del cap del departament afectat que, seguint els criteris generals d’avaluació i tria de la documentació, tramet una proposta justificada al secretari general.
+ 3. En cas que el secretari general avali la proposta, aquesta s’eleva a la consideració de la CNAAD.
+ Article 15. Criteris de conservació de la documentació 
+ Prèvia consulta i assessorament de la CNAAD, es preserven amb caràcter permanent els documents següents:
+ a) Els documents essencials que siguin indispensables per al funcionament del Comú, els que garanteixen la continuïtat de les seves activitats en qualsevol circumstància, així com els que permeten conèixer els orígens del Comú, quina és la seva organització, quina ha estat l’evolució de les estructures que el formen, les seves funcions polítiques, els programes en què participa i les activitats que organitza.
+ b) Els documents que permeten conèixer els processos d’elaboració de les ordinacions i els reglaments que afecten el Comú i el seu funcionament.
+ c) Els documents que permeten valorar l’impacte o l’eficàcia dels programes o les activitats del Comú.
+ d) Els documents que supervisen el funcionament intern del Comú pel que fa a delegacions d’autoritat, relacions de poder i programes per governar i gestionar els afers públics.
+ e) Els documents que contenen dades significatives sobre un esdeveniment, una persona amb una trajectòria rellevant, una institució, una entitat, un col·lectiu, un lloc.
+ f) Els documents que contenen dades significatives sobre esdeveniments importants, moviments o tendències de la història política, econòmica i social.
+ g) Els documents que contenen dades necessàries per a la protecció dels drets civils, financers i jurídics de les persones, de les institucions i entitats del mateix Comú.
+ h) Els documents que es relacionen de forma significativa amb altres fonts o sèries documentals.
+ i) Els documents que responen a les necessitats de l’anàlisi estadística i de la història quantitativa.
+ Capítol V. L’accés a la documentació
+ Article 16. Custòdia de documentació 
+ 1. Únicament en casos excepcionals, els documents de l’Arxiu Comunal poden sortir del seu lloc habitual de custòdia. Prèviament, cal establir la durada, les condicions de seguretat i les garanties que es considerin necessàries.
+ Alguns dels casos concrets en els quals es pot considerar aquesta possibilitat són:
+ a) Préstec.
+ b) Per digitalitzar o realitzar qualsevol altre tipus de reproducció que no sigui possible fer-la a les dependències de l’Arxiu Comunal.
+ c) Per acomplir tasques de restauració, relligat, enquadernació, neteja o desinfecció dels documents.
+ d) Per ordre judicial.
+ 2. L’extracció de documents de l’Arxiu Comunal s’ha de fer amb caràcter temporal per un termini establert i convingut prèviament amb el Comú amb les garanties de seguretat necessàries i, quan sigui convenient, amb l’establiment d’una assegurança segons ho determini el Comú a proposta del responsable de l’Arxiu.
+ 3. La sortida del territori nacional de béns d’interès cultural i de béns inventariats se subjecta a les disposicions previstes en la Llei de patrimoni cultural d’Andorra.
+ Article 17. Condicions generals de consulta 
+ 1. El Comú facilita l’accés a la documentació dipositada a l’Arxiu Comunal sense perjudici de les restriccions definides en aquest reglament, en la legislació vigent d’aplicació, o d’aquelles que es puguin establir per raons de conservació o de causes degudament justificades.
+ 2. Quan la consulta de la documentació pugui entrar en conflicte amb les restriccions previstes, cal la validació prèvia del secretari general, o de la figura o ens responsable del compliment normatiu.
+ 3. L’Arxiu Comunal atén les consultes de documentació en horari d’atenció al públic. Fora d’aquest horari no s’hi podrà accedir a les dependències ni utilitzar els seus serveis, llevat l’autorització expressa del secretari general i sempre en presència del responsable de l’Arxiu o de la persona expressament delegada per la Junta de Govern.
+ Article 18. Consultes internes de documentació dipositada a l’Arxiu Comunal 
+ 1. Es consideren consultes internes de documentació física dipositada a l’Arxiu Comunal les realitzades per les persones vinculades amb el Comú per una relació d’ocupació o pels membres de la corporació comunal.
+ 2. Per a les consultes internes de documentació cal omplir l’imprès de demanda de documentació habilitat a tal efecte.
+ Article 19. Consultes externes de documentació 
+ 1. Es consideren consultes externes de documentació les realitzades tant per altres administracions públiques com per persones físiques o jurídiques. La consulta pública dels fons documentals és lliure i està oberta a tots els ciutadans sempre que es compleixi el marc legal vigent, la normativa referida en aquest reglament i les normes d’ús que se’n derivin d’aquest.
+ 2. Les consultes externes de documentació han de complir els següents requisits:
+ a) La consulta pública de documentació es realitza en l’espai habilitat en el mateix arxiu, omplint prèviament un imprès específic per a cada unitat documental que ha de contenir les dades personals del sol·licitant i la finalitat de la consulta.
+ b) L’Arxiu Comunal ha de demanar als usuaris la presentació d’un document per tal d’identificar la persona que realitza la consulta.
+ c) L’Arxiu Comunal facilita la localització i consulta de les sèries documentals sol·licitades. Tanmateix, la recerca d’informació va sempre a càrrec dels peticionaris o interessats.
+ Article 20. Préstecs interns de documentació dipositada a l’Arxiu Comunal 
+ El préstec de documents únicament s’autoritza per a consultes internes, sense perjudici de les excepcions establertes en l’article 21, i es realitza d’acord amb les condicions següents:
+ a) La sol·licitud de préstec documentació s’ha de formalitzar mitjançant el formulari corresponent, en el qual hi ha de constar la identificació del sol·licitant, el motiu de la sol·licitud, la signatura, la naturalesa o codificació del document demanat i la data en què es lliura.
+ b) El préstec de documents segueix un ordre cronològic en funció de la data de la demanda.
+ c) La unitat administrativa únicament pot disposar de la documentació original prestada durant un termini màxim de 2 mesos. Aquest termini pot ser prorrogable durant un mes addicional. En cas de superar el termini establert, el responsable del Servei d’Arxiu n’informa el secretari general, per tal que requereixi que els documents siguin reintegrats immediatament a l’Arxiu.
+ d) Quan la documentació sigui retornada a l’Arxiu Comunal, el seu responsable ha de signar el formulari del retorn del document, on hi ha de constar la data.
+ e) La documentació retornada ha de mantenir les mateixes condicions d’ordre, constitució interna i externa i neteja en què estava quan va ser facilitada per a la seva consulta. En cas contrari no s’accepta la devolució. No es poden sostreure documents i la incorporació de nous ha de ser comunicada prèviament al tècnic d’arxiu.
+ f) Queda exclosa de préstec la documentació que tingui una antiguitat superior als 30 anys i la que es trobi en mal ús de conservació. En aquests casos la documentació haurà d’examinar-se a la sala de consulta de l’Arxiu Comunal.
+ g) No es deixen en préstec parts d’expedients o documents separats de la unitat documental de la qual formen part.
+ h) Per raons de conservació, de preservació i de seguretat es prioritza la consulta de documents originals a les dependències del propi l’Arxiu Comunal.
+ Article 21. Préstecs externs de documentació dipositada a l’Arxiu Comunal 
+ 1. La documentació dipositada a l’Arxiu Comunal està exclosa del préstec extern i en tot moment s’ha de consultar dins dels espais habilitats per aquesta finalitat. Malgrat aquest principi general, s’admeten excepcions en els supòsits que tinguin com a finalitat la difusió del patrimoni documental. En aquest cas s’han de tenir en compte els següents punts:
+ a) Les sol·licituds de préstec es formulen per escrit, amb una descripció clara dels documents sol·licitats, del nom del responsable dels trasllats, custòdia i retorn de la documentació i del termini de préstec sol·licitat. La resolució de Comú es notifica per escrit al sol·licitant.
+ b) Si l’estat de conservació de la documentació aconsella la seva permanència a les dependències comunals, des del mateix Arxiu Comunal s’encarreguen reproduccions de la documentació a càrrec del sol·licitant.
+ c) Abans de lliurar la documentació se’n fa una còpia digital de seguretat.
+ d) Les despeses d’embalatge i transport van a càrrec del sol·licitant, llevat que des del Comú s’estipulin altres fórmules.
+ e) El sol·licitant ha de contractar una assegurança que cobreixi tots els riscos als quals estarà sotmesa la documentació. Si es desitja una pròrroga del termini de cessió, s’ha de demanar autorització i ampliar també el termini de l’assegurança.
+ f) S’han de respectar les condicions de conservació i sistemes de seguretat adequats.
+ g) Qualsevol mena de reproducció ha de ser autoritzada expressament.
+ h) L’Arxiu Comunal porta un registre de préstecs on consta el número, la data de la seva aprovació, la data efectiva de préstec, les dades del sol·licitant, el motiu de la sol·licitud i la data de retorn.
+ 2. Els usuaris que deteriorin qualsevol document procedent de l’Arxiu Comunal han d’indemnitzar els danys causats d’acord amb la valoració que es realitzi sense perjudici d’altres responsabilitats que se’n puguin derivar. 
+ Article 22. Reproduccions de documentació 
+ 1. Qualsevol persona o entitat pot demanar reproduccions dels documents de l’Arxiu Comunal a excepció d’aquells l’accés als quals estigui restringit per la legislació vigent, estiguin afectats per drets d’autor o de propietat intel·lectual que en condicionin la seva reproducció, per la voluntat del dipositant en cas de cessions, per raons de conservació o per manca de mitjans adequats de reproducció.
+ 2. Per a la reproducció de qualsevol mena de document es requereix la sol·licitud prèvia de l’interessat i l’autorització expressa i per escrit, en el mateix imprès, del tècnic d’arxiu i del secretari general. El sol·licitant ha de fer constar la finalitat de la reproducció. L’autorització de reproducció no atorga cap dret de propietat intel·lectual o industrial a qui la realitzi o l’obtingui.
+ 3. En el cas d’utilització dels documents de l’Arxiu Comunal en vista a la seva publicació o difusió pública, s’ha de fer constar obligatòriament la seva procedència. En el cas de reproducció d’imatges s’ha de fer constar també el nom de l’autor, si es coneix, sense perjudici d’altres obligacions que es puguin establir.
+ 4. El Servei d’Arxiu s’encarrega de la reproducció dels documents sol·licitats sempre que el seu estat de conservació no ho impedeixi, previ pagament del corresponent preu públic.
+ 5. Quan es tracti de documentació reproduïda fotogràficament, el Servei d’Arxiu cedeix la reproducció en concepte de lloguer de la imatge i per a un sol ús i edició. Qualsevol reedició ha de comptar amb un nou permís de reproducció.
+ 6. El Comú es reserva el dret d’emprendre les accions legals que cregui oportunes contra aquelles persones que incompleixin les condicions establertes en aquest reglament o en els acords específics signats per ambdues parts.
+ Capítol VI. Adquisició de patrimoni documental
+ Article 23. Adquisició de patrimoni documental 
+ L’Arxiu Comunal vetlla per la integritat del patrimoni documental de la parròquia d’Andorra la Vella i per la seva protecció i recuperació. Amb aquesta finalitat fa les oportunes propostes d’adquisició, d’acceptació de cessió o de reproducció dels fons documentals d’interès per a la parròquia.
+ Article 24. Condicions d’adquisició de patrimoni documental 
+ 1. L’ingrés de documentació a l’Arxiu Comunal ha de ser acceptat per la Junta de Govern, prèvia aprovació de les condicions sota les quals s’ha d’efectuar, així com les que han de regular-ne l’accés. Un cop acceptat l’ingrés, se signa un conveni amb la propietat del fons documental que recull totes les condicions de la cessió o del dipòsit. El Comú lliura al cedent un document probatori de l’ingrés efectuat.
+ 2. Un cop cedida, es confecciona un primer inventari de la documentació que serà rubricat pel tècnic d’arxiu.
+ Article 25. Recuperació de documentació 
+ Per recuperar documentació cedida a l’Arxiu Comunal és imprescindible sol·licitar-ho per escrit al Comú, el qual la retornarà d’acord amb els pactes efectuats en el moment de la cessió o, si aquests no s’haguessin formalitzat, a les disposicions legals que la regulen.
+ Disposició final
+ Aquest reglament entra en vigor el mateix dia de la seva publicació al Butlletí Oficial del Principat d’Andorra .
+ Cosa que es fa pública per a coneixement general.
+ Andorra la Vella, 1 de juny del 2023
+ P. O. del Comú
+Àngel Grau Navarro
+ Vist i plau
+David Astrié Padilla

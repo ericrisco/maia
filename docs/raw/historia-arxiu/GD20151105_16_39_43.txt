@@ -1,0 +1,1215 @@
+Decret de creació del Pla director de preservació dels objectes digitals del Govern d’Andorra
+ Decret del 4-11-2015 de creació del Pla director de preservació dels objectes digitals del Govern d’Andorra.
+ Exposició de motius
+ La Llei 9/2003 , del 12 de juny, del patrimoni cultural d’Andorra defineix que són arxius els conjunts orgànics de documents, o la reunió de diversos conjunts, reunits per les persones o entitats públiques o privades en l’exercici de les seves activitats, per a la investigació, la cultura, la informació i la gestió administrativa. S’entén per document tota expressió en llenguatge natural o convencional i qualsevol altra expressió gràfica, sonora o en imatge, recollides en qualsevol tipus de suport material.
+ Una de les competències i funcions de l’Arxiu Nacional d’Andorra és la custòdia i la preservació adequada del patrimoni documental d’Andorra en qualsevol suport i format. Actualment el suport digital ja ha assolit un volum considerable i es preveu que es vagi incrementant al llarg del temps; d’altra banda, l’evolució contínua de la tecnologia fa que sigui difícil seleccionar suports i formats estables i perdurables.
+ Davant del fet que la custòdia i la preservació a llarg termini d’objectes digitals planteja un autèntic repte, l’aprovació d’un Pla director de preservació dels objectes digitals d’Andorra és necessària per definir quins objectes s’han de preservar, com s’han de preparar aquests objectes des de les seves fonts per facilitar-ne la preservació, quines metadades han d’acompanyar aquests objectes per permetre no tan sols la seva cerca, sinó també la seva gestió i recuperació, i quant de temps s’han de preservar, entre d’altres.
+ Amb la definició i l’establiment de les polítiques de gestió i preservació de la documentació electrònica i digital estem, a la vegada, incidint en la gestió de la documentació en tot el seu cicle de vida. Davant de la implantació i la generalització de la utilització de les noves tecnologies en les diferents tramitacions, juntament amb la posada en funcionament de la signatura electrònica reconeguda, és necessari regular la creació i la conservació de la documentació en suport electrònic d’acord amb una política consensuada i planificada. És bàsic i inqüestionable fixar una organització que estableixi la gestió eficient i eficaç que garanteixi el dret d’accés a la informació amb seguretat, equitat i homogeneïtat de criteris, i que al mateix temps n’exerceixi un control responsable.
+ El Govern vol ser el referent internacional de garantia a escala nacional de preservació dels objectes digitals que formen part del patrimoni cultural del país. Aquesta garantia no solament la dóna pel que fa a l’accessibilitat sinó també a la validesa jurídica d’aquests objectes.
+ El Pla analitza la situació actual dels documents electrònics i digitals en els àmbits normatius, de gestió documental i arxiu, i tecnològic.
+ La recent revolució en l’ús del document electrònic resulta de l’aparició de canvis normatius que han donat impuls a les eines telemàtiques i han equiparat, en determinades circumstàncies, els documents en format electrònic amb els documents en formats més tradicionals.
+ A més, tant a escala nacional com a la Unió Europea o internacionalment, les organitzacions d’estandardització tècnica han definit i han documentat els criteris i els formats que s’han de fer servir per a la gestió dels documents digitals en tots els seus aspectes.
+ Algunes de les decisions reflectides en el Pla director estan inspirades o basades en aquesta normativa o aquests estàndards. Tot i que el Pla director ha de ser prou detallat per oferir solucions concretes en la gestió diària de la preservació dels objectes digitals del Govern, tant a efectes d’interpretació com de la futura extensió i desenvolupament del Pla, cal tenir identificat aquest marc normatiu.
+ El Pla defineix com han de ser els processos de transferència des dels diferents orígens: ministeris, comuns, o altres organismes, fins a la plataforma d’arxiu d’acord amb el Decret del 15-09-2010 d’aprovació del Reglament de transferències de documents del Govern d’Andorra. També defineix en què consisteix el procés de càrrega dels objectes provinents de la transferència de les fonts originàries a l’arxiu electrònic. En aquest capítol del Pla director de preservació dels objectes digitals d’Andorra es defineix com es faran les consultes i les recuperacions dels objectes digitals guardats a la plataforma d’arxiu electrònic del Govern. El Pla estableix com s’han de realitzar els processos de migració d’objectes una vegada es detecti que hi ha un problema d’obsolescència d’algun dels formats que estan guardats a la plataforma d’arxiu.
+ Un apartat del Pla està dedicat al model d’objecte electrònic i defineix la relació dels formats que seran admesos en el moment de la transferència dels objectes digitals a la plataforma d’arxiu del Govern, el vocabulari de metadades i l’estructura dels 
+ expedients electrònics. 
+ Aquesta relació esdevé d’obligat compliment per a tots els objectes que s’hagin de preservar en la plataforma d’arxiu. Els objectes digitals generats que no compleixin aquests formats no poden ser admesos per ser preservats. 
+ Per facilitar la preservació d’aquests objectes, des de l’Arxiu es farà una conversió d’aquests objectes amb els formats d’ingrés a uns formats més idonis per a la preservació. 
+ Aquest Decret assenyala tant els formats de preservació com els formats d’ingrés i les signatures electròniques associades a aquests documents amb un format d’ingrés diferent del format de preservació. 
+ Pel que fa al model de signatura electrònica i per garantir que tots els documents que es volen preservar i que han estat signats digitalment tenen una signatura que en permet la preservació, i tenint en compte que el Govern ja ha elaborat un conjunt de polítiques de signatura electrònica, cal que qualsevol objecte digital que tingui una o més signatures electròniques compleixi amb el que estableix aquest model de signatura electrònica per a la preservació digital. 
+ En el cas que la signatura electrònica tingui una política de signatura, aquesta política haurà de ser una de les previstes en el document de polítiques de signatura. 
+ Un apartat està dedicat a les polítiques d’accés atenent la garantia del compliment dels preceptes legals en matèria d’accés a la documentació, pública i privada; la plataforma d’arxiu segur garantirà el bon funcionament d’un conjunt d’elements de seguretat i s’establiran uns principis de relació entre aplicacions terceres i la plataforma d’arxiu segur. 
+ Finalment, acompanyen el decret quatre annexos: Annex 1. Formats documentals, Annex II. Quadre d’organització de fons de l’Arxiu Nacional d’Andorra, Annex III. Vocabulari de metadades i Annex IV. Tipologies documentals. 
+ A proposta de la ministra de Cultura, Joventut i Esports, i del secretari general del Govern, el Govern, en la sessió del 4 de novembre del 2015, ha aprovat aquest Decret. 
+ Article 1. 
+ Objecte 
+ Aquest Decret crea el Pla director de preservació dels objectes digitals del Govern d’Andorra. 
+ Article 2. 
+ Objectius 
+ Els objectius principals que pretén cobrir aquest Pla director de preservació dels objectes digitals són garantir: 
+ 1. Que els objectes digitals de les diferents administracions públiques que s’hagin de preservar al llarg del temps es puguin preservar des d’una plataforma única en tot el país. 
+ 2. Que la validesa jurídica dels objectes que es preservin es pugui garantir en el temps. 
+ 3. Que l’accés als objectes digitals es pugui fer d’acord amb unes polítiques d’accés comunes implantades sobre la plataforma única. 
+ 4. Que els sistemes d’informació que generen objectes electrònics que s’hagin de preservar disposin d’uns estàndards coneguts i únics per poder fer l’ingrés d’aquests objectes sobre la plataforma única. 
+ 5. Que el sistema sigui tan eficient com sigui possible i que tingui els mínims costos possibles per al país. 
+ 6. Que totes les administracions públiques d’Andorra es puguin adherir al sistema. 
+ 7. Que la informació sobre les responsabilitats de tots els actors implicats en la preservació dels objectes digitals estigui totalment definida i sigui clara. 
+ 8. Que la documentació que es transfereixi es tracti d’acord amb els procediments i els criteris del Sistema de gestió de la documentació del Govern establerts per l’Àrea d’Arxius i de Gestió de Documents. 
+ 9. Que en el moment que un objecte digital ingressi a l’arxiu electrònic, se’n validi l’origen, la integritat i la preservabilitat dels documents. 
+ Article 3. 
+ T ransferència a la plataforma de preservació de l’Arxiu Nacional 
+ 1. Els processos de transferència consisteixen sempre en una proposta per part dels organismes que volen transferir els objectes, en la qual s’indica els objectes a transferir, la data i l’origen, com a mínim. A partir de la proposta, la plataforma analitza els objectes, tal com es defineix en el capítol de l’ingrés, i en cas que aquesta proposta sigui correcta, es fa la transferència. 
+ 2. La documentació que es transfereixi s’ha de tractar d’acord amb els procediments i els criteris del sistema de gestió de la documentació del Govern establerts per l’Àrea d’Arxius i de Gestió de Documents. 
+ Aquesta transferència consta en el registre de transferències de l’arxiu, de forma que queda sempre constància d’aquest fet. En aquest cas, es retorna a l’origen la informació de l’acceptació de la transferència i els rebuts de comprovant de l’ingrés. 
+ 3. En cas que la transferència no sigui possible per problemes en les comprovacions de l’ingrés o bé perquè els orígens no siguin autoritzats, es retorna la proposta a l’origen perquè solucioni els problemes que n’han impedit la transferència, i l’informe del problema detectat. 
+ 4. El procés pot ser manual o automàtic. 
+ 5. Perquè un organisme pugui demanar fer una transferència d’objectes digitals a l’Arxiu Nacional d’Andorra, a excepció dels departaments del Govern, cal que tingui un acord signat amb l’Arxiu que ho habiliti així. A partir d’aquest moment, l’organisme ha de tenir els mitjans d’identificació electrònics necessaris per poder-se acreditar davant l’Arxiu i poder fer propostes de transferència. Els certificats són subministrats pel Govern d’Andorra. Els usuaris i les contrasenyes, per l’Arxiu Nacional d’Andorra. 
+ 6. Els organismes que estiguin donats d’alta a la plataforma d’arxiu electrònic, és a dir, que hagin signat el conveni, disposin d’un certificat digital (o d’un usuari i contrasenya en cas de transferències manuals) i hagin estat donats d’alta a la plataforma poden sol·licitar fer transferències. 
+ 7. Els objectes digitals el període de vigència dels quals hagi finalitzat o que no hagin tingut valor jurídic només es poden transferir a partir de l’onzè any des de la seva creació. Els objectes a transferir han de complir amb els requeriments que es defineixen a l’article 4, relatiu al procediment d’ingrés: ser autèntics, en cas que hagin tingut valor jurídic, que siguin idèntics al moment en què van deixar de tenir-lo, que tinguin alguns dels formats especificats en el capítol de formats de preservació, que tinguin les metadades obligatòries informades. 
+ 8. En el moment en què es completi la transferència, la responsabilitat sobre els objectes transferits passa a ser de l’Arxiu Nacional d’Andorra, i aquests documents queden subjectes a les condicions d’accés, préstec i reproducció establertes en la normativa vigent. En el cas que no es pugui completar un procés de transferència, la responsabilitat sobre els objectes continua en l’organisme que volia fer la transferència. 
+ Article 4. 
+ Ingrés a la plataforma de preservació de l’Arxiu Nacional 
+ Aquest procés defineix les tasques següents:
+ 1. Validació de l’origen dels objectes digitals a ingressar. En el moment en el qual es fa l’ingrés d’un objecte digital de documents a l’arxiu electrònic, es valida que aquest objecte provingui d’una font original vàlida; és a dir, que no es permeti l’entrada dels objectes digitals l’origen dels quals no es pugui verificar.
+ 2. Validació de la integritat dels objectes digitals. Quan se sol·liciti una petició d’ingrés d’un objecte digital a l’arxiu electrònic i l’arxiu contingui més d’un objecte, aquest últim ha de portar associat un foliat, tal com s’especifica a l’article 10.
+ Aquest foliat ha d’estar signat amb un segell electrònic amb una signatura XAdES-A i ha de portar la política de signatura d’acte de foliació, tal com s’especifica a l’article 11.
+ 3. Validació que els formats dels objectes digitals són preservables. Per validar que els objectes que es volen ingressar no tindran problemes de preservació, en el moment de l’ingrés, se’n comprova el format. Per cada objecte es verifica que el format és un dels recollits en el document de formats admesos per a la preservació, i que forma part d’aquest Pla.
+ 4. Validació de les signatures electròniques. L’objecte que s’envia per fer l’ingrés a l’arxiu electrònic pot contenir signatures electròniques assignades als documents que el componen i la signatura corresponent a l’índex. S’ha de comprovar, amb ingrés previ, que aquestes signatures són vàlides. Per a això, cal emprar eines que comprovin la validesa d’aquestes signatures: que el certificat sigui vàlid en el moment de la signatura, que el document sigui íntegre en relació amb la signatura i que el certificat hagi estat emès per una de les autoritats de certificació admeses pel Govern d’Andorra.
+ 5. Validació de metadades. En el moment que se sol·liciti l’ingrés d’un objecte digital a l’arxiu electrònic, també cal comprovar i validar les metadades associades.
+ 6. Comunicació amb la font original de l’objecte digital per informar de l’acceptació o el rebuig. Un cop realitzades totes les validacions esmentades, s’informa la font originària de l’objecte digital a transferir de l’acceptació o el rebuig d’aquest objecte dins l’arxiu electrònic. 
+ Article 5. 
+ C onsulta 
+ 1. Les condicions d’accés i ús dels documents i expedients electrònics conservats als repositoris documentals han de seguir les directrius següents:
+ a) La ciutadania ha de poder consultar els documents i els expedients electrònics un cop finalitzat el procediment administratiu, sense cap més limitació que les establertes legalment.
+ b) Les restriccions legals d’accés als documents i expedients electrònics les determina la normativa sectorial aplicable (protecció de dades de caràcter personal, seguretat nacional o qualsevol altra que resulti aplicable) i específicament, si escau, el nivell de seguretat que aquesta normativa els hagi atribuït. Les mesures de seguretat que corresponguin s’han d’aplicar des del moment en què es crea el document o l’expedient electrònic.
+ c) Les persones que acreditin la condició d’interessades poden tenir accés a l’expedient tant durant la tramitació com un cop finalitzada, d’acord amb el que estableix la normativa vigent.
+ d) El sistema d’accés als documents i expedients electrònics ha d’incloure mecanismes per mitjans segurs i amb controls suficients que permetin la identificació fefaent de les persones que hi accedeixin.
+ e) L’accés als documents i expedients electrònics, un cop finalitzada l’etapa de tramitació, ha de ser possible independentment de quina hagi estat l’aplicació de tramitació que l’ha generat.
+ f) Un cop finalitzada la tramitació i tancats els expedients, aquests darrers han de ser conservats durant el termini dins del qual, d’acord amb la normativa aplicable, se’n puguin derivar efectes jurídics, bé siguin fiscals, administratius o d’altres tipus. Un cop transcorregut aquest termini, el règim d’accés, de seguretat i de custòdia es pot modificar.
+ g) Una vegada que aquests documents i expedients hagin finalitzat el seu període de vigència administrativa i que hagin transcorregut 11 anys de la seva creació, cal fer-ne la transferència a la plataforma de preservació o arxiu segur de l’Arxiu Nacional d’Andorra.
+ 2. Accés als objectes digitals a l’Arxiu Nacional d’Andorra
+ a. L’accés a l’Arxiu Nacional d’Andorra implica l’acceptació del reglament que en regula el funcionament i que estigui en vigor a cada moment. La documentació, des de la seva entrada a l’Arxiu, és de lliure accés, excepte la que tracta matèries classificades i la que conté dades de caràcter policial, processal o clíniques.
+ b. La plataforma permetrà donar les garanties esmentades més amunt sobre els objectes digitals guardats a la plataforma de preservació de l’Arxiu Nacional d’Andorra. Una vegada s’accedeix a la plataforma es pot: consultar l’objecte digital per pantalla, descarregar una versió de l’objecte guardat, generar una còpia autèntica de l’objecte, amb la garantia d’autenticitat de l’Arxiu Nacional d’Andorra, guardat a la plataforma.
+ c. La plataforma gestiona les consultes d’usuaris interns, del personal del Govern que, en l’exercici de les seves funcions, demana accedir a un document del Govern, i dels usuaris externs.
+ d. En cas que no es puguin proporcionar els documents de manera immediata, aquests documents s’han de poder sol·licitar a través de la web o del portal d’accés que es determini. Les peticions es fan per mitjà d’un formulari.
+ e. En el cas de les consultes als seus propis fons per part de productors de documentació privada o d’altres institucions diferents del Govern d’Andorra, l’accés és lliure i el procediment és el mateix que s’ha definit per als usuaris interns.
+ f. Durant la consulta de documents es pot sol·licitar l’expedició de còpies autèntiques. Aquesta còpia autèntica ha de complir la normativa que reguli la generació de còpies autèntiques. Es poden generar tres tipus de còpies autèntiques:
+ i) Còpies electròniques autèntiques de documents electrònics autèntics.
+ ii) Còpies electròniques de documents en suport no electrònic.
+ iii) Còpies en paper de documents emesos per mitjans electrònics i signats electrònicament.
+ 3. Les restriccions legals d’accés als documents i expedients electrònics les determina la normativa aplicable i les resolucions de la Comissió Competent sobre l’Accés, la Comissió d’Accés i Avaluació de la Documentació (CAAD).
+ 4. La Comissió Competent sobre l’Accés ha d’emetre un dictamen en què s’especifiqui:
+ a) Quina és la qualificació d’accés d’una determinada sèrie documental: lliure o bé restringit.
+ b) Durant quin període conserva aquesta qualificació d’accés.
+ c) Quin és l’objecte d’accés d’una determinada sèrie documental: si s’accedeix als documents o als expedients, a determinades dades, o bé si s’accedeix a parts de documents o expedients.
+ d) En el cas de les resolucions de sol·licituds de ciutadans per consultar documentació en principi restringida, la Comissió ha d’indicar si poden consultar o no la documentació i com (si es dóna accés a la totalitat del document o l’expedient o només a una part).
+ 5. Els sol·licitants externs, quan siguin requerits, s’han d’identificar a través dels sistemes següents:
+ a) Els sistemes de signatura electrònica avançada que reconegui la normativa del Govern d’Andorra sobre signatura electrònica.
+ b) A través de la identificació i autenticació per a funcionaris públics mitjançant el sistema de signatura electrònica del qual disposin, quan les persones interessades no disposin de cap sistema de signatura electrònica.
+ Article 6. 
+ Migració dels objectes digitals 
+ 1. La responsabilitat d’identificar les obsolescències de formats recau en la Comissió de Preservació dels Objectes Digitals formada com a mínim per un responsable de l’Àrea d’Arxius i Gestió de Documents, un responsable dels Sistemes d’Informació, un jurista del Gabinet Jurídic i un responsable de gestió administrativa.
+ Aquesta Comissió s’ha de reunir com a mínim un cop l’any i s’encarrega d’efectuar una revisió dels formats vigents de preservació i verificar un per un si en alguna publicació digital s’ha informat d’algun problema quant a la seva obsolescència. En el cas que detecti algun format obsolet, es fa una anàlisi de quants objectes estan afectats per aquesta obsolescència. En aquest cas es defineix el nou format a migrar.
+ La Comissió de Preservació dels Objectes Digitals ha d’elaborar una acta amb les conclusions de cada reunió.
+ 2. Aquesta mateixa Comissió de Preservació dels Objectes Digitals és la responsable de definir i proposar a quin nou format cal migrar els formats obsolets.
+ 3. Responsabilitat en el procés de migració dels objectes digitals
+ a) La responsabilitat sobre el procés de migració recau en l’Arxiu, que ha de començar seleccionant tots els objectes que són a la plataforma d’arxiu i que tenen el format en qüestió. Aquesta selecció es fa d’acord amb la metadada de format que consta en tots els objectes emmagatzemats.
+ Amb aquesta selecció realitzada, es disposa d’una informació sobre el temps que pot suposar la migració o els riscos.
+ b) Cal iniciar el procés amb un test inicial consistent a fer una selecció de pocs objectes (entre 10 i 15) afectats d’obsolescència, per valorar si es fan les migracions correctament. Una vegada feta la migració d’aquest test inici També s’han de generar, com a mínim, totes les evidències de migració i la vinculació de l’objecte nou amb l’anterior. Aquest procés depèn de l’eina d’arxiu escollida.
+ d) A continuació de la migració cal realitzar un procés de comprovacions consistent que l’Arxiu seleccioni de forma aleatòria un conjunt d’objectes migrats i faci una comparació entre l’objecte migrat i l’original per veure si s’ha fet la migració correctament. Per fer-ho pot utilitzar mitjans manuals o automatitzats de comparació de les imatges dels objectes. El departament encarregat dels sistemes d’informació ha de fer la comprovació de les evidències del procés.
+ També s’han de comprovar de manera automatitzada les signatures electròniques generades durant el procés, des de l’Arxiu o des del departament encarregat dels sistemes d’informació.
+ e) Una vegada fetes les comprovacions, s’efectua la confirmació del procés, la generació dels informes que calguin i la consolidació dels nous objectes dins la plataforma d’arxiu.
+ d) La plataforma d’arxiu ha de guardar les diferents evidències del procés de migració, i ha de detallar: quins objectes s’han migrat; quina era la versió abans del procés i quina és la nova versió; quin hash tenien els objectes; qui ha esta t el responsable de la migració; que s’ha fet el test inicial i que s’han fet les comprovacions; quan es van fer els processos; quines persones han intervingut en els processos; quines eines d’actuació administrativa automatitzada han estat emprades i el hash del programari utilitzat; quin segell de temps s’ha utilitzat per fer les còpies autèntiques (autoritat de certificació, responsable del segell, entre d’altres).
+ Article 7. 
+ Avaluació dels objectes digitals susceptibles de ser eliminats 
+ 1. Els expedients i els documents electrònics s’han d’avaluar per establir el seu període conservació.
+ 2. Aquests períodes de conservació s’han de poder assignar als documents i expedients en el moment de la seva creació, a través de la incorporació en les metadades de l’expedient de la sèrie documental, i aquesta amb la seva vinculació amb una taula d’avaluació.
+ 3. L’avaluació permet establir els terminis de transferència entre els arxius del sistema i els terminis d’eliminació. Els terminis assignats en l’avaluació per a cada procediment s’han de consignar a les metadades, a través de l’assignació a una sèrie documental.
+ 4. L’avaluació l’ha de portar a terme la Comissió d’Accés i Avaluació de la Documentació en aplicació del seu reglament organitzatiu, que determina el procés d’avaluació i identifica els documents essencials que genera el Govern d’Andorra per establir les mesures de protecció.
+ 5. L’eliminació de documents que es faci en virtut d’una resolució de la Comissió d’Accés i Avaluació de la Documentació la porta a terme l’òrgan titular de la documentació, que tal com s’estableix en el Reglament de la CAAD, és el responsable d’aplicar les resolucions.
+ Article 8. 
+ Model de l’objecte electrònic 
+ Per garantir que els formats d’ingrés i de preservació elementals seleccionats són estàndards, s’han escollit formats normalitzats pels organismes següents: ISO, IETF, W3C, Consorci ODA, OASIS i RSS Advisoryboard.
+ L’annex I d’aquest decret, estructurat en tres parts, estableix els formats dels objectes digitals perquè es puguin transferir a la plataforma d’arxiu, i els formats en què s’han de guardar els objectes. Finalment recull el detall de les transformacions que s’han d’efectuar en el moment de la transferència.
+ Article 9. 
+ Vocabulari de metadades 
+ Les metadades que han d’acompanyar els objectes digitals i que han de permetre, entre d’altres, cercar-los, així com preservar-los, gestionar-los i recuperar-los, estan indicades a l’annex III d’aquest Decret.
+ Article 10. 
+ Estructura dels expedients 
+ 1. El foliat és el procediment pel qual es garanteix la integritat de tot el contingut d’un expedient o paquet d’objectes, perquè aquesta integritat es pugui verificar fins i tot fora del gestor documental o repositori en el qual es custodiï en cada moment.
+ Es pot aplicar també a paquets d’objectes digitals en els quals es vulgui garantir en un futur que el paquet és complet, és a dir, que no s’ha perdut cap objecte o que els objectes que en formen part en aquest moment són els mateixos que en formaven part en el moment en què es va decidir foliar-lo.
+ 2. Aquest procediment genera un arxiu XML que conté les dades següents:
+ a) Un conjunt mínim de metadades, entre les definides en el vocabulari de metadades, associades a l’expedient o paquet d’objectes. Entre aquestes metadades hi ha d’haver, com a mínim, el número d’expedient, el codi de classificació, la data de creació de l’expedient, la data de tancament.
+ b) Una llista ordenada de documents continguts dins de l’expedient o paquet d’objectes digitals i les dades corresponents de cadascun.
+ Article 11. 
+ Model de signatura electrònica 
+ Per garantir que tots els documents que es volen preservar i que han estat signats digitalment tenen una signatura que en permet la preservació, cal que qualsevol objecte digital que contingui una o més signatures electròniques compleixi amb el que estableix el model de signatura electrònica per a la preservació digital.
+ En cas que la signatura electrònica tingui una política de signatura, s’ha de preveure en les polítiques de signatura que adopti el Govern:
+ 1. Expedients o agrupacions documentals amb foliats
+ a) Cal que cada document de foliat tingui una signatura amb la política de signatura electrònica d’acte administratiu de foliat electrònic. El perfil de signatura que cal que tinguin els foliats és XAdES-A.
+ b) Cal anar ressegellant els foliats cada 9 anys, mentre no s’hagin enviat a l’arxiu de preservació.
+ c) Convé que els documents que formen part dels expedients o agrupacions documentals foliades també tinguin una signatura preservable en format AdES-A en els casos CAdES i XAdES o PAdES-LTV en el casos dels PDF. En aquests casos no cal fer el ressegellat dels documents.
+ d) En cas que calgui fer una migració dels documents, la política de signatura que s’ha d’utilitzar per generar les còpies migrades ha de ser la d’acte administratiu de còpia autèntica electrònica. La signatura ha de tenir el perfil AdES-A o PAdES-LTV.
+ 2. Documents que no formin part d’expedients o agrupacions documentals amb foliats
+ a) Pel que fa als documents que no formin part d’expedients o agrupacions documentals amb foliats, cal que tinguin el perfil AdES-A o PAdES-LTV.
+ b) Cal anar ressegellant els documents cada 9 anys, mentre no s’hagin enviat a l’arxiu de preservació.
+ c) En cas que calgui fer una migració dels documents, la política de signatura que s’ha d’utilitzar per generar les còpies migrades és la d’acte administratiu de còpia autèntica electrònica. La signatura ha de tenir el perfil AdES-A o PAdES-LTV.
+ Article 12
+ Accés a la documentació
+ 1. El Reglament de l’Arxiu Nacional d’Andorra vigent garanteix als ciutadans l’accés als documents constitutius del patrimoni documental d’Andorra, de conformitat amb el que disposa la Llei 9/2003 , del 12 de juny, del patrimoni cultural d’Andorra.
+ 2. La documentació, des de la seva entrada a l’Arxiu, és de lliure accés, excepte la que tracta matèries classificades i la que conté dades de caràcter policial, processal o clíniques.
+ 3. La CAAD, només per a la documentació del Govern d’Andorra, assumeix les funcions en l’àmbit d’accés següents: promoure l’exercici del dret d’accés als documents de les persones i les entitats públiques i privades; emetre informes sobre les reclamacions de les persones i de les entitats públiques i privades que considerin vulnerat el seu dret d’accés als documents, i emetre informes sobre les excepcions singulars de la normativa sobre accés als documents establertes per la llei.
+ Disposició addicional
+ El procediment d’eliminació d’expedients i de documents electrònics emesos en suport paper i digitalitzats ha de ser objecte d’un altre decret.
+ Disposició final
+ Aquest Decret entrarà en vigor al cap de 12 mesos de ser publicat al Butlletí Oficial del Principat d’Andorra.
+ Cosa que es fa pública per a coneixement general.
+ Andorra la Vella, 4 de novembre del 2015
+ Antoni Martí Petit
+Cap de Govern
+ Annex 1. Formats documentals
+ I. Els formats admesos perquè es puguin transferir a la plataforma d’arxiu són:
+ Format
+ Norma
+ Imatges
+ PNG
+ Norma ISO 15948
+ JPG 
+ Norma ISO 10918
+ GIF 
+ TIFF
+ Norma ISO 12639:2004
+ DNG 
+ Vídeos
+ MPEG2
+ Norma ISO 13818
+ MPEG4 
+ Norma ISO 14496
+ AVI 
+ En desús
+ Àudio
+ MP3
+ Norma ISO 11172
+ OGG Vorbis
+ MPC Musepack
+ FLA FreeLosslessAudioCodec
+ Objectes gràfics 2D
+ SVG 1.1
+ W3C
+ CGM 
+ Norma ISO 8632
+ SWF 
+ Objectes gràfics 3D
+ X3D
+ Norma ISO 19777
+ Formats de dibuixos tècnics
+ DWG Direct
+ Consorci ODA
+ GML 
+ Norma ISO 19136:2007
+ WFS 
+ Norma ISO 19142:2010
+ WMS 
+ Norma ISO 19128:2005
+ PDF 1.7 (Per a dibuixos no revisables)
+ Norma ISO 32000
+ Exportació de dades
+ XML
+ W3C
+ SIARD 
+ CSV
+ Documents ofimàtica
+ TXT
+ ODF 1.1
+ OASIS
+ Office OpenXml
+ Norma ISO 29500
+ PDF 1.7
+ Norma ISO 32000
+ PDF/A (Arxiu a llarg termini) 
+ Norma ISO 19005
+ TeX 
+ LaTex
+ Publicacions electròniques
+ EPUB
+ IPDF ( International Digital PublishingForum )
+ Intercanvi de dades d’impressió
+ PDF/X
+ Norma ISO 15930
+ Intercanvi de documents estructurats
+ XML
+ W3C 
+ Transformació de dades estructurades
+ XSLT/XPATH
+ W3C 
+ Arxius comprimits
+ ZIP
+ GZIP
+ TAR
+ BZIP2
+ II. Els formats de preservació són:
+ Format
+ Norma
+ Imatges
+ TIFF
+ Norma ISO 12639:2004
+ Vídeos
+ MPEG2
+ Norma ISO 13818
+ MOV 
+ Àudio
+ WAV
+ Objectes gràfics 2D
+ TIFF
+ Objectes gràfics 3D
+ TIFF
+ Norma ISO 12639:2004
+ Formats de dibuixos tècnics
+ TIFF
+ Norma ISO 12639:2004
+ Documents ofimàtica
+ TIFF
+ Norma ISO 12639:2004
+ PDF/A (Arxiu a llarg termini) 
+ Norma ISO 19005
+ Publicacions electròniques
+ TIFF
+ Norma ISO 12639:2004
+ PDF/A (Arxiu a llarg termini) 
+ Norma ISO 19005
+ Intercanvi de dades d’impressió
+ PDF/X
+ Norma ISO 15930
+ Intercanvi de documents estructurats
+ XML
+ W3C 
+ Transformació de dades estructurades
+ XSLT/XPATH
+ W3C 
+ Arxius comprimits
+ ZIP
+ GZIP
+ TAR
+ BZIP2
+ III. Conversió de formats. Són els següents:
+ Format d’ingrés
+ Format de preservació
+ Imatges
+ PNG
+ TIFF
+ JPG
+ TIFF
+ GIF
+ TIFF
+ TIFF
+ TIFF
+ DNG
+ TIFF
+ Vídeos
+ MPEG2
+ MPEG2
+ MPEG4
+ MPEG2
+ AVI
+ MOV
+ Àudio
+ MP3
+ WAV
+ OGG Vorbis
+ WAV
+ MPC Musepack
+ WAV
+ FLA FreeLosslessAudioCodec
+ WAV
+ Objectes gràfics 2D
+ SVG 1.1
+ TIFF
+ CGM
+ TIFF
+ SWF
+ TIFF
+ Objectes gràfics 3D
+ X3D
+ TIFF
+ Formats de dibuixos tècnics
+ DWG Direct
+ PDF/A
+ GML
+ PDF/A
+ WFS
+ PDF/A
+ WMS
+ PDF/A
+ Exportació de dades
+ XML
+ XML
+ SIARD
+ XML
+ CSV
+ XML
+ Documents ofimàtica
+ TXT
+ PDF/A
+ ODF 1.1
+ PDF/A
+ Office OpenXml
+ PDF/A
+ PDF 1.7
+ PDF/A
+ PDF/A (Arxiu a llarg termini)
+ PDF/A
+ TeX
+ PDF/A
+ LaTeX
+ PDF/A
+ Publicacions electròniques
+ EPUB
+ PDF/A
+ Intercanvi de dades d’impressió
+ PDF/X
+ PDF/A
+ Intercanvi de documents estructurats
+ XML
+ XML
+ Transformació de dades estructurades
+ XSLT/XPATH
+ XSLT
+ Arxius comprimits
+ ZIP
+ *
+ GZIP
+ *
+ TAR
+ *
+ BZIP2
+ *
+ * Dependrà dels objectes que hi hagi dins els arxius comprimits.
+ Annex II Quadre d’organització de fons de l’Arxiu Nacional d’Andorra*
+ 1. Fons de l’Administració central
+ 1.1. Antic Consell General
+ 1.1.1. Arxiu de les Set Claus
+ 1.1.2. Secretaria del Consell General
+ 1.1.3. Casa de la Vall
+ 1.2. Consell General (GC)
+ 1.3. Govern d’Andorra
+ 1.3.1. Fons del Govern d’Andorra
+ Subfons actuals del Govern
+ Govern d’Andorra (fons)
+ Codi de referència: AD ANA, GA
+ Arxiu del So Nacional (subfons)
+ Codi de referència: AD ANA, GA ASN
+ Departament de Turisme d’Andorra (subfons)
+ Codi de referència: AD ANA, GA DTA
+ Ministeri d’Ordenament Territorial (subfons)
+ Codi de referència: AD ANA, GA FMOT
+ Televisions Estrangeres (subfons)
+ Codi de referència: AD ANA, GA FTE
+ Ministeri d’Educació i Joventut / Conselleria d’Educació (subfons)
+ Codi de referència: AD ANA, GA MEJ/CE
+ Patrimoni Cultural d’Andorra (subfons)
+ Codi de referència: AD ANA, GA PCA
+ Servei Fotogràfic del Govern d’Andorra (subfons)
+ Codi de referència: AD ANA, GA SFG
+ Servei de Policia (subfons)
+ Codi de referència: AD ANA, GA SP
+ Subfons previstos per a les transferències futures des de l’arxiu intermedi 
+ Afers Exteriors
+ Codi de referència: AD ANA, GA AE
+ Agricultura
+ Codi de referència: AD ANA, GA Ag
+ Benestar
+ Codi de referència: AD ANA, GA Be
+ Comerç
+ Codi de referència: AD ANA, GA Co
+ Cultura
+ Codi de referència: AD ANA, GA Cu
+ Economia
+ Codi de referència: AD ANA, GA Ec
+ Educació
+ Codi de referència: AD ANA, GA Ed
+ Ensenyament Superior i Recerca
+ Codi de referència: AD ANA, GA ER
+ Esports
+ Codi de referència: AD ANA, GA Es
+ Finances
+ Codi de referència: AD ANA, GA Fi
+ Habitatge
+ Codi de referència: AD ANA, GA Ha
+ Indústria
+ Codi de referència: AD ANA, GA In
+ Interior
+ Codi de referència: AD ANA; GA It
+ Joventut i Voluntariat
+ Codi de referència: AD ANA, GA JV
+ Justícia
+ Codi de referència: AD ANA, GA Ju
+ Medi Ambient
+ Codi de referència: AD ANA, GA MA
+ Ordenament Territorial
+ Codi de referència: AD ANA, GA OT
+ Patrimoni Natural
+ Codi de referència: AD ANA, GA PN
+ Presidència del Govern
+ Codi de referència: AD ANA, GA PG
+ Salut
+ Codi de referència: AD ANA, GA Sa
+ Treball
+ Codi de referència: AD ANA, GA Tr
+ Turisme
+ Codi de referència: AD ANA, GA Tu
+ 1.3.2. Fons registrals
+ Registre Civil del Principat d’Andorra
+ Codi de referència: AD ANA, RCPA
+ 2. Fons de l’Administració local
+ 2.1. Comuns
+ 2.1.0. Àmbit compartit
+ La Solana (fons)
+ Codi de referència: AD ANA, AS
+ 2.1.1. Canillo
+ Arxiu Comunal de Canillo i fons casa Bonavida (fons)
+ Codi de referència: AD ANA, ACC i FCB
+ 2.1.2. Encamp
+ Arxiu Comunal d’Encamp (fons)
+ Codi de referència: AD ANA, ACE
+ 2.1.3. Ordino
+ Arxiu Comunal d’Ordino (fons)
+ Codi de referència: AD ANA, ACO
+ 2.1.4. La Massana
+ Arxiu Comunal de la Massana (fons)
+ Codi de referència: AD ANA, ACM
+ 2.1.5. Andorra la Vella
+ Arxiu de l’Antic Comú d’Andorra (fons)
+ Codi de referència: AD ANA, ACA
+ Arxiu Històric del Comú d’Andorra la Vella (fons)
+ Codi de referència: AD ANA, AHCA
+ 2.1.6. Sant Julià de Lòria
+ Arxiu Comunal de Sant Julià de Lòria (fons)
+ Codi de referència: AD ANA, ACSJ
+ 2.1.7. Escaldes-Engordany
+ Arxiu Històric d’Escaldes-Engordany (fons)
+ Codi de referència: AD ANA, AHEE
+ 2.2. Quarts / Veïnats
+ 2.2.2. Ordino
+ Arxiu del Quart d’Ordino (fons)
+ Codi de referència: AD ANA, AQO
+ Arxiu del Quart de la Cortinada (fons)
+ Codi de referència: AD ANA, AQC
+ 2.2.3. La Massana
+ Arxiu del Quart d’Anyós (fons)
+ Codi de referència: AD ANA, AQA
+ Arxiu del Quart d’Arinsal (fons)
+ Codi de referència: AD ANA, AQAR
+ Arxiu del Quart d’Erts (fons)
+ Codi de referència: AD ANA, AQE
+ Arxiu del Quart de l’Aldosa (fons)
+ Codi de referència: AD ANA, AQAL
+ 3. Fons de l’Administració eclesiàstica
+ 3.1. Canillo
+ 3.2. Encamp
+ 3.3. Ordino
+ 3.4. La Massana
+ 3.5. Andorra
+ 3.6. Sant Julià de Lòria
+ 4. Fons judicials
+ 4.1.Tribunal de Corts
+ Arxiu del Tribunal de Corts (fons)
+ Codi de referència: AD ANA, TC
+ 4.2. Batllia
+ 4.2.1. Episcopal
+ 4.2.2. Francesa
+ 4.3. Jutjat d’Apel·lacions
+ 4.4. “Òrgans primitius del Consell Superior de la Justícia”
+ 4.4.2. Tribunal Administratiu i Fiscal
+ 4.4.2. Tribunal Superior de Corts
+ 5. Fons notarials
+ 5.1. Notaria Marc Vila
+ 5.2. Notaria Maties Aleix
+ 5.3. Cambra de Notaris
+ Cambra de Notaris
+ Codi de referència: AD ANA, CN
+ 6. Fons d’institucions públiques i parapúbliques
+ 6.1. Institucions públiques
+ Col·legi Sant Ermengol (fons)
+ Codi de referència: AD ANA, CSE
+ Escola Espanyola de Sant Julià de Lòria (fons)
+ Codi de referència: AD ANA, EESJ
+ Ràdio i Televisió d’Andorra (fons)
+ Codi de referència: AD ANA, RTVA
+ 6.2. Institucions parapúbliques
+ Fons Forces Elèctriques d’Andorra (fons)
+ Codi de referència: AD ANA, FEDA
+ STA (fons)
+ Codi de referència: AD ANA, STA
+ 7. Fons familiars i patrimonials
+ 7.1. Canillo
+ 7.2. Encamp
+ 7.3. Ordino
+ 7.4. La Massana
+ 7.5. Andorra la Vella
+ 7.6. Sant Julià de Lòria
+ 7.7. Escaldes-Engordany
+ 8. Fons personals
+ 9. Fons d’associacions i fundacions
+ 9.1. Associacions
+ 10. Fons de partits polítics i associacions sindicals
+ 10.1. Partits polítics
+ 10.2. Associacions sindicals
+ 11. Fons d’empreses
+ 11.1. Banca i finances
+ 11.2. Indústria
+ 11.4. Transport i comunicacions
+ 11.6. Turisme i lleure
+ 11.7. Serveis
+ 12. Col·leccions
+ 12.1. Col·leccions de l’ANA
+ 12.2. Col·leccions privades
+ 13. Fons estrangers
+ 13.1. Arxius
+ 13.1.1. Espanya
+ 13.1.2. França
+ 13.1.3. Altres països
+ 13.2. Biblioteques
+ 13.2.1. Espanya
+ 13.2.2. França
+ 13.3. Altres institucions
+ 13.3.1. Espanya
+ 13.3.2. França
+ 13.3.3. Altres països
+ 14. Fons etnogràfic
+ Arxiu d’Etnografia d’Andorra (fons)
+ Codi de referència: AD ANA, AEA
+ • Només s’han detallat els fons públics que es podrien incrementar amb nous ingressos de documentació.
+ Annex III Vocabulari de metadades
+ Expedient 
+ Agrupació
+ Metadada
+ Descripció de la metadada
+ Obligatòria/Opcional
+ 1
+ Elements d’identificació
+ Codi
+ Codi que identifica inequívocament la unitat
+ Obligatòria
+ 2 
+ Identificador
+ Número o nominal que identifica l’expedient
+ Obligatòria
+ 3 
+ Nivell descripció
+ Identifica el nivell de la unitat de descripció
+ Obligatòria
+ 4 
+ Títol
+ Camp de text que dóna nom a l’objecte. Descripció breu de l’expedient
+ Obligatòria
+ 5 
+ Data d’obertura
+ Data d’obertura de l’expedient
+ Obligatòria
+ 6 
+ Idioma
+ Idioma del document
+ Opcional
+ 7 
+ Data de tancament
+ Data de tancament de l’expedient
+ Opcional
+ 8 
+ Descripció
+ Breu resum de l’abast cronològic, de l’àmbit geogràfic i del contingut (tipologia, tema principal, procediments administratius) de l’expedient
+ Opcional
+ 9 
+ Descriptors
+ Vocabulari controlat dels diferents descriptors
+ Opcional
+ 10 
+ Productor
+ Nom productor
+ Indica el nom de l’organisme responsable de la producció de l’expedient
+ Obligatòria
+ 11 
+ Unitat productora
+ Indica el nom de la unitat o òrgan de l’organisme
+ Obligatòria
+ 12 
+ Unitat de tramitació
+ Unitat responsable de la tramitació de l’expedient o document
+ Obligatòria
+ 13 
+ Classificació
+ Codi de classificació
+ Codi que identifica el procediment/la sèrie documental a la qual pertany l’objecte
+ Obligatòria
+ 14 
+ Títol sèrie
+ Camp de text per incloure el nom o el títol de la sèrie documental a la qual pertany l’objecte
+ Obligatòria
+ 15 
+ Relacions entre agrupacions documentals o sistemes
+ Documentació relacionada
+ Identificador dels expedients relacionats. Inclou només l’identificador, en cap cas el vincle
+ Opcional
+ 16 
+ Tipus de relació
+ Vocabulari controlat dels principals tipus de relacions entre l’expedient principal i els expedients relacionats
+ Opcional
+ 17 
+ Accés
+ Classificació d’accés i seguretat
+ Identifica els diferents nivells d’accés a l’objecte segons els tipus d’informació que conté
+ Obligatòria
+ 18 
+ Sensibilitat de dades LQPD
+ Identifica, d’acord amb la Llei de protecció de dades de caràcter personal LOPD, quin dels tres nivells de seguretat és aplicable a la informació continguda en l’objecte 
+ Obligatòria
+ 19 
+ Característiques
+tècniques
+ Suport
+ Suport en què es troba el document o expedient
+ Opcional
+ 20 
+ Identificador en iArxiu
+ Identificador que relaciona l’Ex o DI amb la seva entrada a iArxiu
+ Obligatòria
+ 21 
+ Disposició
+ Data d’inici de vigència
+ Data d’inici de vigència. Data en què un expedient, una vegada tancat, inicia el període de vigència administrativa
+ Opcional
+ 22 
+ Data de fi de vigència
+ Data de fi de vigència. Data en què un expedient, una vegada tancat, finalitza el seu període de vigència administrativa
+ Opcional
+ 23 
+ Avaluació documental
+ Criteris d’avaluació documental aplicables - tenir en compte que la política no s’assigna com a metadada. Criteris que estableix la Taula d’avaluació documental corresponent. Per exemple, conservar-la 10 anys i després eliminar-la
+ Opcional
+ 24 
+ Taula d’avaluació documental
+ TAAD aplicable. Identificador de la Taula d’avaluació documental corresponent
+ Opcional
+ Document 
+ Agrupació
+ Metadada
+ Descripció
+de la metadada
+ Obligatòria/Opciona l 
+ 1
+ Elements
+d’identificació
+ Codi
+ Codi que identifica inequívocament la unitat
+ Obligatòria
+ 2 
+ Identificador
+ Identificador o nominal de l’expedient
+ Obligatòria
+ 3 
+ Títol
+ Camp de text que dóna nom a l’objecte. Descripció breu del document
+ Obligatòria
+ 4 
+ Data obertura
+ Data de creació/captura del document
+ Obligatòria
+ 5 
+ Nivell descripció
+ Identifica el nivell de la unitat de descripció
+ Obligatòria
+ 6 
+ Idioma
+ Idioma del document
+ Opcional
+ 7 
+ Descripció
+ Breu resum de l’abast cronològic, de l’àmbit geogràfic i del contingut del document
+ Opcional
+ 8 
+ Descriptors
+ Vocabulari controlat dels diferents descriptors
+ Opcional
+ 9 
+ Resum
+ Breu resum del contingut del document
+ Opcional
+ 10 
+ Volum
+ Volum al qual pertany el document
+ Opcional
+ 11 
+ Característiques
+tècniques
+ Suport
+ Suport en què es troba fixat el document
+ Opcional
+ 12 
+ Productor
+ Identificador del productor
+ Indica el nom de l’organisme o persona responsable de la producció del document
+ Obligatòria
+ 13 
+ Unitat productora
+ Indica el nom de la unitat o òrgan de l’organisme
+ Obligatòria
+ 14 
+ Unitat de tramitació
+ Unitat responsable de la tramitació de l’expedient o document
+ Obligatòria
+ 15 
+ Classificació
+ Tipus de document
+ Identifica la tipologia documental
+ Obligatòria
+ 16 
+ Accés
+ Classificació d’accés i seguretat
+ Identifica els diferents nivells d’accés a l’objecte segons el tipus d’informació que conté
+ Obligatòria
+ 17 
+ Sensibilitat de dades LQPD
+ Identifica, d’acord amb la Llei de protecció de dades de caràcter personal LOPD, quin dels tres nivells de seguretat és aplicable a la informació continguda en l’objecte 
+ Obligatòria
+ 18 
+ Característiques
+tècniques
+ Algorisme integritat
+ Algorisme aplicat per validar la integritat
+ Opcional
+ 19 
+ Valor integritat
+ Valor d’integritat associat
+ Opcional
+ 20 
+ Document
+essencial
+ Identifica si el document és essencial
+ Opcional
+ 21 
+ Format
+ Format electrònic del document o la signatura
+ Obligatori
+ 22 
+ Aplicació
+ Aplicació que genera el document o la signatura. En cas de digitalització, l’aplicació corresponent
+ Obligatori
+ 23 
+ Versió de l’aplicació
+ Versió de l’aplicació emprada
+ Opcional
+ 24 
+ Disposició
+ Data d’inici de vigència
+ Data d’inici de vigència. Data en què un document inicia el seu valor legal. Per exemple la data de signatura d’un contracte, la data d’emissió d’un certificat.
+ Opcional
+ 25 
+ Data de fi de vigència
+ Data de fi de vigència. Data en què un document finalitza el seu valor legal. Per exemple la data en què un certificat deixa de tenir valor, un document d’identitat deixa de ser vàlid, etc. Té sentit en els casos en què es vulgui reutilitzar un document per a diferents expedients
+ Opcional
+ 26 
+ Avaluació documental
+ Criteris d’avaluació documental aplicables - tenir en compte que la política no s’assigna com a metadada
+ Opcional
+ 27 
+ Digitalització
+ Suport original
+ Només per a documents digitalitzats
+ Opcional
+ 28 
+ Resolució digitalització
+ Només per a documents digitalitzats
+ Opcional
+ 29 
+ Característiques de la còpia
+ Només per a documents digitalitzats
+ Opcional
+ 30 
+ Indexació
+ Localització
+ Ubicació física de l’expedient o document
+ Opcional
+ 31 
+ Relacions
+entre agrupacions documentals o sistemes
+ Objectes relacionats
+ Objectes relacionats amb aquest
+ Opcional
+ 32 
+ Interessat
+ Interessats
+ Interessats sobre el document
+ Opcional
+ 33 
+ Registre
+d’entrada i sortida
+ Número de registre entrada
+ Número de registre entrada
+ Opcional
+ 34 
+ Data registre d’entrada
+ Data registre d’entrada
+ Opcional
+ 35 
+ Número de registre sortida
+ Número de registre sortida
+ Opcional
+ 36 
+ Data registre de sortida
+ Data registre de sortida
+ Opcional
+ Signatura 
+ Agrupació
+ Metadada
+ Descripció
+de la metadada
+ Obligatòria/Opcional
+ 1
+ Elements
+d’identificació
+ Identificador
+ Identificador de la signatura
+ Obligatòria
+ 2 
+ Identificador del document
+ Identificador del document
+ Obligatòria
+ 3 
+ Data d’obertura
+ Data de la signatura
+ Obligatòria
+ 4 
+ Productor
+ Organització
+ Nom de l’organisme del qual depèn orgànicament el signatari
+ Opcional
+ 5 
+ Unitat productora
+ Nom de la unitat orgànica de la qual depèn el signatari
+ Opcional
+ 6 
+ Signatura
+ Tipus de signatura
+ Tipus de signatura
+ Obligatòria
+ 7 
+ Format
+ Format de la signatura
+ Obligatòria
+ 8 
+ Data de validació de la signatura
+ Data de la validació de la signatura
+ Obligatòria
+ 9 
+ Evidència de la validació
+ Evidència de la validació
+ Opcional
+ 10 
+ Nom del signatari
+ Nom del signatari del document
+ Obligatòria
+ 11 
+ Identificador del signatari
+ Número identificatiu del signatari
+ Obligatòria
+ 12 
+ Política de signatura
+ Identificador de la política de signatura electrònica
+ Opcional
+ 13 
+ Data de caducitat de la signatura
+ Data de caducitat del certificat de signatura o del segell de temps
+ Obligatòria
+ 14 
+ Rol del signant
+ Caràcter en què actua el signant
+ Opcional
+ Annex IV. Tipologies documentals
+ A) Taula resum de tipologies documentals del Govern d’Andorra
+ TIPOLOGIA
+ EXEMPLES
+ Documents de decisió
+ 1
+ Acord
+ 2
+ Contracte
+ Pòlissa
+ 3
+ Conveni
+ 4
+ Declaració
+ Afidàvit
+ Baixa
+ Declaració de duana
+ 5
+ Decret
+ 6
+ Instrument de ratificació
+ 7
+ Ordre ministerial
+ 8
+ Plec de bases o plec de condicions
+ 9
+ Proposta d’acord
+ 10
+ Resolució
+ Adjudicació
+ Autorització
+ Documents de transmissió
+ 11
+ Acusament de recepció
+ 12
+ Avís
+ 13
+ Carta
+ 14
+ Comunicació
+ Nota verbal
+ Nota interior o comunicat intern
+ Nota informativa
+ 15
+ Convocatòria
+ 16
+ Discurs
+ 17
+ Full de lliurament / tramesa
+ 18
+ Notificació
+ 19
+ Publicació
+ Comunicat de premsa
+ Edicte 
+ 20
+ Requeriment
+ Documents de constància
+ 21
+ Acreditació
+ Passaport
+ Justificant
+ 22
+ Acta
+ Acta de recepció d’obra
+ Acta d’inspecció
+ 23
+ Certificat
+ 24
+ Declaració jurada
+ 25
+ Diligència
+ 26
+ Registre
+ Registre d’entrades i sortides
+ Talonari d’incidències
+ Cadastre sonor/de soroll
+ 27
+ Títol
+ Documents de judici
+ 28
+ Examen
+ 29
+ Informes
+ Documents dels ciutadans
+ 30
+ A l·l egació
+ 31
+ Demanda
+ 32
+ Denúncia
+ 33
+ Poders
+ 34
+ Recurs
+ 35
+ Reclamació
+ 36
+ Renúncia
+ 37
+ So l·l icitud
+ Formulari / Fitxa
+ Documents informatius i de representació
+ 38
+ Annals
+ 39
+ Estadística
+ 40
+ Estudi
+ Estudis d’impacte ambiental
+ 41
+ Fotografia
+ 42
+ Llista
+ 43
+ Mapa
+ 44
+ Memòria
+ 45
+ Plànol
+ 46
+ Qüestionari
+ 47
+ Recull de premsa
+ 48
+ Targeta comercial
+ Documents de planificació
+ 49
+ Ordre del dia
+ 50
+ Programa
+ 51
+ Projecte
+ Projecte d’obres
+ Pla
+ 52
+ Protocol
+ 53
+ Temari
+ 54
+ Unitat didàctica
+ Documents de recursos humans
+ 55
+ Full de nòmina
+ 56
+ Full de servei
+ Documents comptables i financers
+ 57
+ Balanç
+ 58
+ Compromís de despesa
+ 59
+ Compte
+ 60
+ Document de recepció o ingrés
+ 61
+ Factura
+ 62
+ Liquidació
+ 63
+ Ordre de pagament
+ 64
+ Pressupost
+ 65
+ Rebut
+ 66
+ Xec
+ Documents de relacions diplomàtiques
+ 67
+ Cartes credencials
+ 68
+ Exequàtur
+ 69
+ Plàcet
+ Documents jurídics i notarials
+ 70
+ Aute
+ 71
+ Escriptura
+ 72
+ Plec de càrrecs
+ 73
+ Providència
+ 74
+ Sentència
+ B) Definició de les tipologies documentals
+ Documents de decisió
+ 1. Acord: recull les decisions adoptades pels òrgans competents sobre l’inici i les qüestions que es deriven del procediment previ a la seva resolució (declaració unilateral d’un òrgan administratiu).
+ 2. Contracte: document amb què s’estableixen uns acords entre dues o més parts, el compliment dels quals té caràcter obligatori. (P. ex.: compravenda, contracte d’obres, contracte de manteniment, contracte de serveis, arrendament, comodat, etc.).
+ - Pòlissa: document on es formalitza, per imposició legal o per costum, determinats contractes mercantils.
+ També: document mercantil redactat normalment per una de les parts en dos o més exemplars originals que s’atorga amb intervenció del notari, el qual dóna fe de la data i del consentiment de les parts contractants i que l’han signat davant seu.
+ 3. Conveni: document per mitjà del qual s’estableixen uns acords en termes d’igualtat entre institucions, organismes i/o persones per dur a terme un objectiu d’interès comú. Exemples: conveni de col·laboració, acord de cooperació, acord marc, tractat, protocol, etc.
+ 4. Declaració: és la manifestació feta per comunicar o per establir la veritat sobre un fet o un esdeveniment.
+ Exemple:
+ - Baixa: declaració per mitjà de la qual una persona, una indústria, un vehicle, un predi, etc., són exclosos d’un padró, d’un cens, d’un registre, a efectes tributaris, d’exercici d’activitats, estadístics, de cessació en el treball per malaltia, de requisa militar, o amb altres finalitats diverses.
+ - Declaració de duana: exposició duanera, feta de paraula o bé per escrit (en cas de tràfic comercial), de les mercaderies subjectes a pagar drets de duana o impostos.
+ - Afidàvit: acte de manifestació de coneixement o de declaració de voluntat formalitzat en un document perquè en quedi constància, destinat a produir determinats efectes jurídics. (En el cas del Govern d’Andorra, és un document específic del procés d’adopció).
+ 4. Decret: decisió o resolució del poder executiu (del Govern i del cap de Govern) de caràcter general.
+ 5. Instrument de ratificació: document que recull l’acte solemne amb què un estat manifesta el seu consentiment a obligar-se per un tractat internacional que ja ha signat prèviament per mitjà d’un representant autoritzat.
+ 6. Ordre ministerial: disposició, decisió o prescripció emanada dels ministres.
+ 7. Plec de bases o plec de condicions: bases generals que ha d’establir l’Administració pública amb caràcter previ, per adjudicar en contracte administratiu una obra, un servei públic, per concurs, subhasta o concurs subhasta.
+ 8. Proposta d’acord: proposició en relació amb un procediment administratiu perquè l’Administració pública adopti una decisió, preferentment, un òrgan col·legiat.
+ 9. Resolució: recull les decisions de l’òrgan competent que posen fi a un procediment i resol totes les qüestions plantejades. La decisió pot ser positiva (autoritzen, concedeixen, reconeixen o sancionen) o negativa (deneguen o desautoritzen).
+ Exemples.
+ - Adjudicació: resolució de l’autoritat judicial o administrativa que declara a favor d’un licitador la cosa objecte d’una subhasta, d’un contracte administratiu.
+ - Autorització: acte administratiu mitjançant el qual les administracions públiques habiliten un particular perquè pugui dur a terme una activitat determinada, havent comprovat prèviament que aquesta activitat s’ajusta als requisits previstos per la normativa aplicable i havent valorat l’interès públic afectat (exemples: autorització d’obres, de residència i treball; permís de conduir; llicències d’armes, de pesca, de taxi, etc.).
+ Documents de transmissió
+ 11. Acusament de recepció: escrit signat on hom declara haver rebut una carta, una tramesa, diners, etc.
+ 12. Avís: document que dóna notícia a algú d’alguna cosa perquè estigui advertit i actuï en conseqüència (ex.: alertes i comunicats sanitaris).
+ 13. Carta: comunicació escrita adreçada a una persona o a una entitat, generalment per via postal i dins d’un sobre.
+ 14. Comunicació:
+ - Nota verbal: comunicació diplomàtica, sense signatura ni els requisits formals, que a manera d’observació o de record s’adrecen entre ells els ministres d’afers estrangers i els agents acreditats.
+ - Nota interior o comunicat intern: utilitzat per a la comunicació entre òrgans i unitats de la mateixa entitat.
+ - Nota informativa: escrit que permet informar la comunitat sobre algun assumpte que ha succeït o està per succeir o que és d’interès públic, és dir, que interessi tothom. Es produeix quan es vol transmetre un missatge que compleixi l’objectiu d’informar a través de l’objectivitat i la claredat.
+ 15. Convocatòria: document per mitjà del qual es convoca algú perquè es presenti en un lloc, en una data i en una hora determinats.
+ 16. Discurs: text que, dit o llegit en públic, tracta d’un assumpte amb cert mètode i certa extensió.
+ 17. Full de lliurament / tramesa: document que acompanya una tramesa de documents i que detalla informació relativa a l’enviament, com ara l’assumpte, la data o la relació dels documents enviats.
+ 18. Notificació: és el tràmit pel qual l’òrgan competent comunica a les persones interessades una resolució o un acord i constitueix un requisit d’eficàcia de l’acte que es notifica. La notificació ha d’estar sempre datada i signada pels responsables de l’acte que es notifica i per la persona a qui s’adreça.
+ 19. Publicació: consisteix en la inserció d’un acte administratiu, una llei, una disposició o un text que reglamentàriament s’hagi de publicar, en un diari oficial, un tauler d’anuncis o un mitjà de comunicació amb la finalitat de comunicar-ho. La publicació dóna publicitat, vigència i validesa.
+ - Comunicat de premsa: text que hom envia als mitjans de comunicació amb la finalitat de convocar-los a actes i conferències de premsa o de fer-los conèixer alguna informació susceptible de ser publicada o transmesa per ràdio o per televisió.
+ - Edicte: avís publicat per l’autoritat que fa ús de les seves atribucions o dóna compliment a un altre precepte legal, amb la finalitat de promulgar una disposició, fer pública alguna resolució, donar notícia d’algun acte o citar algú.
+ 20. Requeriment: instigació verbal o escrita, feta mitjançant una autoritat pública o una persona, perquè executi o s’abstingui d’executar un acte determinat.
+ Documents de constància
+ 21. Acreditació: document que acredita la identitat o la condició d’una persona i la capacitat per fer determinades funcions.
+ Exemples:
+ - Passaport: llicència i document d’identitat personal, lliurat per l’administració de l’estat o per organitzacions internacionals, que faculta per viatjar per determinats països.
+ - Justificant: document que testimonia la realització d’un acte o que acredita el pagament d’una despesa davant de tercers.
+ 22. Acta: és el terme utilitzat genèricament per designar els documents que acrediten fets, circumstàncies, judicis i acords. Els més habituals són les actes dels òrgans col·legiats (Govern), les actes d’infracció i les actes processals.
+ Exemple:
+ - Acta de recepció d’obra: acta en la qual es consignen el cost final d’execució d’una obra, la declaració del promotor conforme ha rebut l’obra, amb reserves o sense, i les garanties que s’exigeixen al constructor per assegurar les seves responsabilitats.
+ - Acta d’inspecció: acta en la qual es recullen les actuacions dutes a terme per una administració pública quan exerceix l’activitat d’inspecció.
+ 23. Certificat: acredita actes o situacions de caràcter administratiu i el seu destinatari és una persona, un òrgan o una entitat que pretén produir efectes en un procediment administratiu o en el marc de les relacions jurídiques privades.
+ 24. Declaració jurada: manifestació oral o escrita feta sota jurament o promesa a requeriment de l’autoritat judicial o administrativa o voluntàriament davant notari.
+ 25. Diligència: part d’un instrument públic en què consta un fet que ha tingut lloc després de l’inici d’aquest instrument, com ara la ratificació d’una de les persones que l’atorguen, la notificació a un tercer o la descripció d’un fet que percep el notari.
+ També: nota en un procés (civil, criminal o administratiu) acreditativa de l’execució d’un acord o decisió.
+ 26. Registre: conjunt d’assentaments que fa un òrgan administratiu de dades relatives a persones o béns per dur a terme les finalitats previstes en la legislació.
+ També: anotació feta en inscriure una cosa o un fet en un llibre de registre, talonari, etc.
+ Exemple:
+ - Registre d’entrades i sortides: conjunt d’assentaments que porta un òrgan administratiu de qualsevol escrit o comunicació que es presenta o que es rep en qualsevol unitat administrativa pròpia i de qualsevol escrit o comunicació oficial adreçat a un altre òrgan administratiu o un particular que en surt.
+ - Talonari d’incidències: document en què es registra el que sobrevé en el curs d’un afer, esdeveniment, etc. (P. ex.: talonari d’incidències en l’explotació de ginys).
+ - Cadastre sonor/de soroll: registre o representació en què s’assignen els valors d’immissió sonora fixats com a objectius de qualitat en un territori determinat.
+ 27. Títol: document expedit per l’Administració pública per a l’exercici d’una professió a favor de les persones que n’han cursat els estudis corresponents, han passat les proves pertinents i han satisfet els drets que pertoquen a tal títol.
+ També: menció acreditada per un document que dóna fe que una persona ha superat uns estudis determinats dins del sistema d’educació formal.
+ Documents de judici
+ 28. Examen: prova escrita o oral a què se sotmet un alumne, un candidat, per poder declarar si és apte a entrar en una escola, a obtenir l’aprovació d’una assignatura o d’un curs, un grau, un càrrec o una ocupació, etc.
+ 29. Informes: tenen la finalitat de proporcionar, als òrgans competents en la instrucció i resolució d’un procediment, dades, valoracions i opinions necessàries per a la formació de les corresponents decisions.
+ Documents dels ciutadans
+ 30. Al·legació: és el document pel qual la persona interessada en un procediment administratiu aporta als òrgans responsables dades o valoracions de caràcter fàctic o jurídic perquè es tinguin en consideració.
+ 31. Demanda: escrit que formula la part demandant en un procés contenciós administratiu en què es fan constar els fets, els fonaments de dret, les pretensions i els motius que les justifiquen.
+ 32. Denúncia: és el document pel qual qualsevol ciutadà, en compliment o no d’una obligació legal, posa en coneixement d’un òrgan administratiu l’existència d’un fet determinat que pot obligar a iniciar un procediment administratiu.
+ 33. Poders: capacitat jurídica per poder actuar en nom i a favor d’una altra persona (poderdant), legalment escripturada i l’instrument o acta en què consta aquest dret.
+ 34. Recurs: és el document pel qual el ciutadà impugna un acte administratiu que afecta els seus drets o interessos, i en demana l’anul·lació. Hi ha tres tipus de recurs: recurs ordinari (de caràcter administratiu, que té per finalitat impugnar resolucions que no posin fi a la via administrativa; i actes de tràmit que impossibilitin el procediment o produeixin indefensió); recurs de revisió, i recurs contenciós administratiu (de caràcter judicial).
+ 35. Reclamació: document on consta una protesta o una queixa que hom presenta per una injustícia soferta o per una irregularitat que li pot ser perjudicial, per exigir-ne la reparació.
+ 36. Renúncia: o desistiment. S’utilitza perquè els administrats manifestin la seva voluntat de desistir d’una sol·licitud o de renunciar als seus drets. Acció d’una persona interessada d’abandonar definitivament un dret, sempre que no ho prohibeixi l’ordenament jurídic, la qual posa fi a un procediment administratiu.
+ 37. Sol·licitud: és el document que conté una o diverses peticions d’un ciutadà dirigides a promoure l’acció de l’òrgan administratiu al qual es dirigeix per satisfer una o diverses pretensions amb fonament en un dret subjectiu o un interès legítim.
+ - Formulari / fitxa: imprès, generalment amb espais en blanc, que cal emplenar amb la informació que es demana.
+ Documents informatius i de representació
+ 38. Annals: exposició de fets històrics concrets, en forma breu i seguint un ordre estrictament cronològic.
+ 39. Estadística: conjunt de dades recollides, classificades, analitzades d’acord amb mètodes matemàtics i interpretades, relatives a un conjunt d’elements.
+ 40. Estudi: treball científic, artístic, etc., fet amb la principal finalitat d’estudiar o aprofundir un punt o un tema concrets.
+ També projecte, proposta, etc., que encara és objecte d’estudi o d’examen per part d’un òrgan competent.
+ Exemple:
+ - Estudis d’impacte ambiental: estimació de l’efecte que pot tenir o té un projecte, obra o activitat sobre el medi ambient.
+ 41. Fotografia: imatge o estampa obtinguda mitjançant el procediment de la fotografia, especialment la còpia o positiu.
+ 42. Llista: full o conjunt de fulls en què hi ha escrita una sèrie enumerativa de noms de persones o coses, d’adreces o altres indicacions, especialment ordenades de dalt a baix.
+ 43. Mapa: representació proporcional del territori en la qual les informacions s’expressen de forma selectiva i generalitzada mitjançant un llenguatge propi i convencional.
+ 44. Memòria: document que resumeix les activitats dutes a terme per una organització, una unitat de gestió, etc., durant un període.
+ 45. Plànol: document cartogràfic a gran escala, normalment superior a 1:20.000, que representa una obra arquitectònica, urbanística, d’enginyeria, etc., amb dibuixos de l’estructura i la forma general o de cada part o peça, i la distribució o les proporcions del conjunt.
+ 46. Qüestionari: és un formulari que conté les preguntes o variables d’una investigació i on es registren les respostes dels entrevistats. Sèrie de preguntes, generalment escrites, a les quals el subjecte ha de respondre o contestar únicament sí o no, o bé escollir, entre un grup de respostes, la que creu més convenient.
+ 47. Recull de premsa: document que és una compilació d’articles de premsa al voltant d’un acte, esdeveniment o assumpte determinat, especialment que concerneixen una organització.
+ 48. Targeta comercial: targeta que duu impreses les dades que identifiquen una empresa (nom, logotip, adreça, números de telèfon i de fax, adreça electrònica) i sovint el nom i el càrrec d’algun membre de l’empresa.
+ (Document inclòs a l’expedient d’obertura de comerç). 
+ Documents de planificació
+ 49. Ordre del dia: document amb la indicació dels assumptes que s’han de tractar en una reunió.
+ 50. Programa: document que recull el conjunt d’accions organitzades per assolir uns objectius, els mitjans necessaris, l’adjudicació de responsabilitats i els terminis que cal complir.
+ També: document que anuncia el detall d’un acte, d’una cerimònia, d’un congrés, etc.
+ 51. Projecte: estudi que configura la realització concreta d’una activitat. Exemples:
+ - Projecte d’obres: Document que defineix amb precisió l’objecte d’un contracte d’obres, que s’ha d’elaborar, supervisar, aprovar i replantejar abans de l’adjudicació d’aquest contracte.
+ - Pla: projecte ordenat d’una obra a realitzar, d’una cosa a fer, d’una conducta a seguir. Instrument de l’Administració pública per fixar uns objectius amb un horitzó temporal determinat, inclosos objectius de caràcter estrictament normatiu, amb la previsió dels mitjans necessaris per aconseguir-los i l’ordenació de les actuacions concretes i les fases que cal seguir.
+ 52. Protocol: pla precís i detallat per a l’estudi d’un problema biomèdic o per al tractament d’una determinada malaltia.
+ 53. Temari: repertori de temes tractats o a tractar en una conferència, un curs, un examen, una reunió, etc.
+ 54. Unitat didàctica: unitat de treball entorn d’un tema central formada per un conjunt de continguts, objectius, activitats d’aprenentatge i activitats d’avaluació, que té una durada variable.
+ Documents de recursos humans
+ 55. Full de nòmina: document que l’entitat lliura mensualment al treballador i on s’especifiquen els diferents conceptes retributius.
+ 56. Full de servei: document en què consta tot l’historial professional d’un treballador públic. Al full de serveis hi consten la situació administrativa, les places ocupades, les comissions de serveis, la remuneració, els diplomes i títols acadèmics i professionals, les sancions i les llicències.
+ També: document, generalment fet de fulls grans i exposat en una taula, en què s’assenyala al personal d’una determinada unitat el servei que se’ls ha assignat.
+ Documents comptables i financers
+ 57. Balanç: document comptable que resumeix les dades referents a operacions administratives d’un patrimoni d’acord amb un sistema de comptes determinat.
+ 58. Compromís de despesa: és l’acte mitjançant el qual s’acorda la realització de despeses, prèviament autoritzades, per un import exactament determinat.
+ 59. Compte: estat comptable que conté les variacions de volum que experimenta un element patrimonial mesurades en una unitat determinada, generalment la monetària.
+ 60. Document de recepció o ingrés: document que acredita el dipòsit a la caixa i l’entrada dels recursos financers obtinguts per l’Administració pública.
+ 61. Factura: document comptable en què es detallen l’import i les característiques dels productes que es venen o dels serveis que es presten.
+ 62. Liquidació: document d’arranjament final de comptes, sigui periòdicament o definitivament.
+ 63. Ordre de pagament: ordre generalment instrumentada mitjançant un document pel qual una persona o una entitat ordena a una altra persona, dipositària dels seus fons, que faci un pagament a un tercer.
+ 64. Pressupost: document que conté un resum sistemàtic de les previsions de les despeses i dels ingressos per cobrir-les, referit a un període determinat.
+ També: document per mitjà del qual una empresa presenta a una entitat o a una persona que la hi ha sol·licitada prèviament, la previsió econòmica del cost d’una activitat, d’un producte o d’un servei.
+ 65. Rebut: document en què es reconeix haver percebut d’algú diners o alguna altra cosa, generalment com a pagament d’un producte o servei adquirit.
+ 66. Xec: document de crèdit pel qual el titular d’un compte corrent bancari dóna una ordre de pagament al banc de la totalitat o d’una part dels fons que tingui disponibles en el compte.
+ Documents de relacions diplomàtiques
+ 67. Cartes credencials: document dirigit pel cap de l’estat acreditant al cap de l’estat receptor, que acredita un ambaixador o el ministre d’afers estrangers davant d’un estat estranger, i la presentació del qual marca l’inici d’una missió diplomàtica.
+ 68. Exequàtur: autorització que atorga l’estat receptor al cap d’una oficina consular perquè pugui exercir les funcions pròpies del seu càrrec.
+ També: autorització que atorga el cap d’estat a un agent estranger perquè pugui exercir en el país les funcions pròpies del càrrec de què ha estat investit pel seu govern.
+ 69. Plàcet: assentiment que l’estat receptor dóna a l’estat acreditant, amb el qual accepta el representant diplomàtic que li ha proposat.
+ Documents jurídics i notarials
+ 70. Aute: en el dret processal andorrà, interlocutòria: resolució judicial motivada que decideix una incidència en un procés i no les qüestions de fons, que han de ser resoltes per mitjà de sentència.
+ 71. Escriptura: document autoritzat per un notari competent, amb les solemnitats legals i a instància de part interessada, que documenta un acte jurídic, del qual el notari dóna fe, que resta incorporat al protocol i queda sota la salvaguarda dels tribunals.
+ També: document en el qual hom fa constar un acte o negoci jurídic.
+ 72. Plec de càrrecs: formulació d’acusacions que elabora l’Administració pública durant un procediment administratiu sancionador o un procediment administratiu disciplinari contra una persona presumptament responsable.
+ 73. Providència: resolució dictada per un jutge o per un tribunal per a la tramitació d’un afer.
+ 74. Sentència: decisió d’un òrgan judicial (jutge o tribunal) que dóna acabament al procés o judici.

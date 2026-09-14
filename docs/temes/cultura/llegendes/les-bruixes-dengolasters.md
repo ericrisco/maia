@@ -113,17 +113,43 @@ resposta honesta és «no ho sabem».**
 
 - **Les 63 citacions andorranes d'Amades**, una per una, contrastades. **És el
   buit mare de tota la branca de cultura popular.**
-- **El *tamarro* a Andorra**: qualsevol font andorrana.
+- ~~**El *tamarro* a Andorra**: qualsevol font andorrana.~~ — **`parcial`, i el
+  corpus té ara fitxa pròpia**: [el tamarro](./el-tamarro.md), **amb tres
+  referències andorranes o d'autor andorrà**: **Joan de Déu Prats, «Andorra i la
+  caça del Tamarro»**; **Pau Riera Dejuan, «El món Tamarro», *Ara Andorra*, 4 de
+  maig del 2018**; i **Guillem Molla, «Andorra, entre el torb i el
+  mestissatge»**. **I el fet institucional que val més que cap font escrita**:
+  **el tamarro té itineraris promoguts per Visit Andorra i pel comú de Sant
+  Julià de Lòria**, i **va ser mascota olímpica el 1991**. **Del que Amades en
+  deia, en canvi, segueix sense haver-hi confirmació andorrana.**
 - **Les bruixes d'Engolasters** en alguna font andorrana anterior o posterior a
   Amades.
-- **Les guerres entre moros i catalans de Sant Julià**: si mai s'hi van fer.
+- ~~**Les guerres entre moros i catalans de Sant Julià**: si mai s'hi van fer.~~
+  — **`resolt` en la mesura que una absència es pot resoldre.** **[El cas
+  Amades](../../historia/historiografia/el-cas-amades.md)** recull el veredicte
+  de **Pere Canturri, el 1994**: **de les «guerres de moros i catalans a Sant
+  Julià», amb «gran exhibició d'armes de foc i sorolloses galejades
+  multitudinàries», no hi ha «cap constància entre la gent del país».**
+  **El corpus les classifica com a material d'Amades no corroborat, no com a
+  tradició andorrana** — **el mateix estatut que dona a les bruixes d'aquesta
+  fitxa.** **Dos elements espectaculars, tots dos sense testimoni.**
 - **El *Costumari català*** consultat directament — el corpus el coneix **només
   a través de qui el critica**.
 - **Les altres creences que Amades hi recull** i que el corpus només té
   enumerades: **l'argolla que es converteix en or i on Noè va estacar l'arca
   després del diluvi**, i **la campana dels difunts soterrada a les muntanyes
   andorranes que tocarà el dia del judici final**. **Dues llegendes andorranes
-  amb nom i sense fitxa.**
+  amb nom i sense fitxa.** — **`obert`, confirmat, i és un buit escrit dues
+  vegades**: **[el cas Amades](../../historia/historiografia/el-cas-amades.md)
+  les enumera amb les mateixes paraules i tampoc no en té res més.**
+  **Comptat un sol cop, és un buit i no dos.**
+- **NOU, registrat el 2026-09-13 des de la mateixa font:** **els sis jocs
+  tradicionals que Amades documenta** —**el joc del sembrar**, **jugar-se els
+  ous**, **les gralles**, **el joc de l'ós**, **el del garrapal** i, ja
+  d'adults, **el del velló de la mestressa**—, **alguns amb gràfics i
+  il·lustracions**. **El corpus no té cap fitxa de jocs tradicionals**, i
+  [costums](../../costums/README.md) no té aquesta porta oberta. **És el buit
+  més barat de la branca: sis noms i una font localitzable.**
 
 ## Related
 

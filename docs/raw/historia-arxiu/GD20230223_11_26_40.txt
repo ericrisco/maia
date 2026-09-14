@@ -1,0 +1,185 @@
+GD20230223_11_26_40 
+ Decret 90/2023, del 22 de febrer del 2023
+ Decret 90/2023, del 22-2-2023, d’arxiu qualificat.
+ Exposició de motius
+ Aquest Decret regula els requisits que han de complir els prestadors de serveis d’arxiu qualificat a fi de garantir la preservació i conservació a llarg termini dels objectes digitals que es custodien.
+ Aquest Decret s’estructura en deu capítols, una disposició final i un annex.
+ El capítol primer fa referència a les disposicions generals del Decret, en què es determina l’objecte, l’àmbit d’aplicació i els objectius de la preservació digital.
+ El capítol segon regula el règim aplicable a les entitats prestadores del servei d’arxiu qualificat, d’acord amb el que disposa la Llei 35/2014 , del 27 de novembre, de certificació i confiança electrònica, en referència als prestadors de serveis de confiança electrònica.
+ En aquest Decret es reconeix a l’Arxiu Nacional d’Andorra un rol addicional al previst al Reglament pel qual s’aprova el Reglament de l’Arxiu Nacional d’Andorra, que estableix que l’Arxiu té per objectiu “garantir l’accés, el tractament i la difusió del patrimoni documental d’Andorra tant per part de l’Administració de l’Estat i dels organismes i entitats que en depenen, de les entitats privades, de les persones físiques i empreses privades com dels administrats”.
+ El capítol tercer estableix els requisits que han de complir els prestadors de serveis d’arxiu qualificat tenint en compte el que regulen els articles 26 i 27 de la Llei 35/2014 , del 27 de novembre, de certificació i confiança electrònica.
+ El capítol quart fixa els requisits funcionals que ha de complir i oferir la plataforma d’arxiu qualificat i determina funcionalitats bàsiques de la plataforma com la ingesta, la integració, la preservació proactiva, la recuperació, l’explotació i els controls i la seguretat.
+ El capítol cinquè estableix un exemple de model de referència que ha de permetre complir amb les finalitats d’arxiu qualificat descrites al capítol tercer d’aquest Decret. El model és el que es descriu a la norma ISO 14721, coneguda també com a model OAIS.
+ El capítol sisè tracta dels instruments de gestió documental que el prestador de serveis d’arxiu qualificat ha de configurar sobre la plataforma.
+ El capítol setè fa referència a la gestió dels riscos d’infraestructura i seguretat i estableix l’obligació dels prestadors de serveis d’arxiu qualificat de tenir la certificació actualitzada en la norma ISO 27001.
+ El capítol vuitè regula la confidencialitat i les dades i estableix qui determina l’accés als objectes digitals i les limitacions al dret d’accés.
+ El capítol novè disposa la continuïtat del servei i determina el cessament per part del prestador del servei, el cessament per part del productor i l’extinció del productor.
+ El capítol desè estableix el règim sancionador aplicable als prestadors de serveis de confiança electrònica.
+ S’hi inclou una disposició final única que fixa l’entrada en vigor del Decret d’arxiu qualificat.
+ Alhora, aquest Decret addiciona un annex que conté un glossari de termes tècnics emprats en el text.
+ Per elaborar aquest Decret s’han tingut en compte la normativa aplicable en matèria nacional i, especialment, estàndards internacionals. Els estàndards internacionals utilitzats per redactar aquest Decret són els que es troben vigents en el moment actual; en aquest sentit, s’ha d’atenir a possibles modificacions futures.
+ A proposta del ministre de Finances i portaveu en funcions, el Govern, en la sessió del 22 de febrer del 2023, aprova aquest Decret amb el contingut següent:
+ Capítol primer. Disposicions generals
+ Article 1. Objecte i àmbit d’aplicació 
+ 1. Aquest Decret té per objecte establir els requisits que han d’assumir els prestadors del servei d’arxiu qualificat a fi de garantir la preservació i conservació a llarg termini dels objectes digitals que es custodien, mitjançant:
+ a) La concreció dels objectius de la preservació i conservació digital entesa com el conjunt de tècniques i processos que permeten garantir la permanència de la informació digital mantenint les seves característiques fonamentals d’integritat, autenticitat i usabilitat.
+ b) L’establiment del règim aplicable a l’activitat dels prestadors de serveis d’arxiu qualificat i dels compromisos i responsabilitats que han de complir.
+ c) La definició de les funcionalitats bàsiques que ha de complir la plataforma d’arxiu qualificat per poder prestar els serveis descrits en aquest Decret.
+ 2. Aquest Decret és aplicable a qualsevol objecte digital que sigui susceptible de conservació i, en particular, als béns integrants del patrimoni documental i bibliogràfic que estableix la Llei 9/2003 , del 12 de juny, del patrimoni cultural.
+ 3. Aquest Decret és aplicable a les persones jurídiques que presten serveis d’arxiu qualificat que tenen la seu o un establiment degudament establert a Andorra o bé als que, malgrat no tenir la seu o un establiment a Andorra, presten serveis a entitats andorranes o emmagatzemen patrimoni cultural andorrà, segons el que es descriu en l’article 3.
+ Article 2. Objectius de la preservació digital 
+ La preservació digital té com a objectiu garantir l’autenticitat, la integritat i la usabilitat dels objectes digitals en tot el seu cicle de vida a fi d’assegurar-ne l’accessibilitat i el valor d’evidència a llarg termini.
+ Capítol segon. Actors involucrats
+ Article 3. Prestadors de serveis d’arxiu qualificat 
+ 1. D’acord amb l’article 26 de la Llei 35/2014 , del 27 de novembre, de certificació i confiança electrònica, les entitats públiques o privades que presten el servei d’arxiu qualificat tenen la consideració de prestadors de serveis de confiança electrònica qualificats.
+ 2. Donada la perdurabilitat d’aquest servei, només el poden prestar les persones jurídiques.
+ 3. Les entitats públiques que presten serveis d’arxiu qualificat han de fer-ho d’acord amb els principis d’objectivitat, transparència, no-discriminació i lliure competència.
+ 4. Als efectes d’aquest Decret, s’entén per entitats públiques les entitats previstes a l’article 13 del Codi de l’Administració, del 29 de març de 1989.
+ Article 4. Supervisió dels prestadors de serveis de confiança i l’Arxiu Nacional d’Andorra 
+ 1. La Comissió Nacional d’Acreditació de serveis de confiança (CNAC) assumeix les funcions d’organisme de supervisió respecte dels prestadors de serveis de confiança en els termes previstos per l’article 33 de la Llei 35/2014 , del 27 de novembre, de certificació i confiança electrònica.
+ 2. L’Arxiu Nacional d’Andorra, a banda de ser prestador de serveis d’arxiu qualificat tant per a la seva producció pròpia com per a qualsevol altra administració pública a qui vulgui oferir el servei, dona suport tècnic a la CNAC en l’exercici de les seves funcions com a organisme de supervisió.
+ 3. En el seu rol de prestar suport a l’organisme de supervisió, l’Arxiu Nacional d’Andorra:
+ a) Ha de resoldre els dubtes que puguin sorgir als prestadors de servei d’arxiu qualificat per interpretar correctament aquest Decret.
+ b) Ha d’oferir suport tècnic a la resta d’arxius públics.
+ c) Ha d’assumir la custòdia del patrimoni documental que estigui en poder d’un prestador de serveis quan estigui en dubte la continuïtat de la seva preservació, en els termes i condicions que s’estableixen al capítol novè.
+ Capítol tercer. Compromís i responsabilitats
+ Article 5. Requisits dels prestadors de serveis d’arxiu qualificat 
+ 1. Els prestadors han de complir la llista de compromisos i responsabilitats següent per poder prestar el servei d’arxiu qualificat de conformitat amb la Llei 35/2014 , del 27 de novembre, de certificació i confiança electrònica:
+ a) Amb la finalitat de complir el que estableix l’article 26.1. a sobre informació dels usuaris dels serveis de confiança electrònica qualificats, els prestadors de serveis d’arxiu qualificat han de dur a terme, com a mínim, les tasques següents:
+ i. Portar a terme la declaració de la missió que reflecteixi un compromís amb la informació digital per a la seva preservació i conservació a llarg termini, gestió i accés.
+ ii. Complir amb l’obligació d’informació prèvia, secret professional, materials i suports de conservació i cessament d’activitat per part del prestador.
+ iii. Contractes, llicències i passius: tenir i mantenir els contractes apropiats o contractes de dipòsit per als objectes digitals que gestiona, conserva i per als quals proporciona accés.
+ - Tenir contractes o acords de dipòsit que especifiquin i transfereixin tots els drets de conservació necessaris i documentin els drets transferits.
+ - Especificar tots els aspectes pertinents de l’adquisició, el manteniment, l’accés i la retirada d’acords escrits amb les parts.
+ - Establir polítiques escrites que identifiquin quan accepta la responsabilitat de la conservació del contingut de cada conjunt d’objectes transferits.
+ - Disposar de polítiques establertes per tractar la responsabilitat en la propietat i els drets.
+ b) Amb la finalitat de complir el que estableix l’article 26.1.f sobre la continuïtat del servei dels prestadors de serveis d’arxiu qualificat, aquests prestadors han de definir un pla de continuïtat que compleixi el que estableix el capítol novè d’aquest Decret.
+ c) Amb la finalitat de complir el que determina l’article 27.1 sobre les mesures tècniques i organitzatives per tal de gestionar els riscos per a la seguretat dels serveis de confiança que presten, es considera acomplert, com a mínim, si els prestadors de serveis d’arxiu qualificat disposen del següent:
+ i. Pla estratègic de conservació que defineixi l’enfocament que l’arxiu qualificat manté en el suport a llarg termini de la seva missió.
+ ii. Política d’arxiu i declaració de pràctiques d’arxiu.
+ iii. Infraestructura organitzativa que permeti identificar i establir les responsabilitats necessàries que ha de tenir el personal nomenat amb les habilitats i l’experiència adequades per complir amb les seves funcions.
+ iv. Polítiques de conservació per al compliment del Pla estratègic de conservació.
+ 2. Per tal de complir amb els requisits descrits anteriorment, el proveïdor s’ha de dotar d’un model adequat que atengui, com a mínim, els requisits funcionals que es descriuen en el capítol quart d’aquest Decret. Si el proveïdor implementa correctament el model OAIS, descrit al capítol cinquè d’aquest Decret, es presumeix que està complint els requisits funcionals descrits al capítol quart.
+ 3. Tots els processos i procediments que s’apliquen, ja sigui sobre els objectes digitals o que tenen lloc en el sistema, han d’estar degudament documentats per part del prestador de serveis d’arxiu qualificat. El prestador ha de disposar de documents tècnics i de descripció dels processos que s’apliquen. També s’ha de disposar de la història documentada dels canvis en els procediments, en el programari i en el maquinari, a fi de disposar de la traçabilitat sobre les diferents versions que han estat en producció.
+ Capítol quart. Requisits funcionals de la plataforma
+ Article 6. Funcionalitats bàsiques de l’arxiu qualificat 
+ La plataforma d’arxiu qualificat ha d’oferir, com a mínim, les funcionalitats següents:
+ a) Un procés d’ingesta que, mitjançant un conjunt de processos, permeti que els objectes digitals siguin inclosos i emmagatzemats en la plataforma.
+ b) Processos interns de preservació proactiva que assegurin l’execució de processos de canvi de format de manera controlada, de resignatura i altres processos que calgui aplicar als objectes digitals per garantir-ne la preservació i conservació a llarg termini.
+ c) Mecanismes de recuperació que permetin la cerca i la identificació dels objectes digitals.
+ d) Un sistema que permeti explotar la informació de context i generar informes d’activitat.
+ e) Mesures de seguretat i control per garantir la protecció dels objectes digitals contra l’alteració intencionada o accidental del seu contingut, l’estructura i el context.
+ Article 7. Ingesta 
+ 1. La plataforma ha de garantir i permetre, com a mínim, els requisits següents en relació amb el procés d’ingesta:
+ a) Verificar la completesa i la integritat dels objectes digitals que ingressen en la plataforma mitjançant la validació de formats, signatures electròniques i metadades.
+ b) Efectuar controls en la verificació dels objectes digitals tenint en compte el següent:
+ i. La quantitat i el volum dels documents dipositats.
+ ii. El compliment de les metadades associades a formats específics.
+ iii. La manca de dades codificades o, alternativament, la manca de valors llegibles que permetin la interpretació dels codis.
+ c) Aplicar mecanismes que verifiquin l’origen i la integritat dels objectes digitals que ingressen des d’aplicacions externes abans d’incorporar-los al sistema.
+ d) Comprovar que no s’ha alterat el contingut dels objectes digitals que ingressen per part d’un usuari o administrador durant el procés d’ingesta dels documents.
+ e) Emetre un rebut d’ingesta que acrediti la recepció de l’objecte digital per part de l’arxiu segur.
+ 2. Davant qualsevol defecte detectat durant la ingesta d’un objecte digital, la plataforma ha de permetre l’enviament d’un avís als usuaris de la plataforma. El proveïdor ha d’informar el productor de qualsevol incident i pot retornar els objectes digitals que ingressen si no compleixen amb els criteris establerts prèviament en el contracte de servei.
+ Article 8. Integració 
+ La plataforma ha de permetre la integració amb les aplicacions del productor de manera que els objectes digitals creats en les seves aplicacions puguin ser enviats al sistema d’ingesta de manera automàtica. També es poden oferir integracions per a les funcions de recuperació i explotació de dades.
+ Aquesta integració s’ha de dur a terme a través de la publicació per part del productor d’un protocol de comunicació de tipus API o similar.
+ Article 9. Preservació i conservació proactiva 
+ La plataforma ha de garantir que l’autenticitat, la integritat i la usabilitat dels objectes digitals es mantinguin al llarg del temps respectant la utilitat original del document mitjançant els requisits següents:
+ a) Garantir la usabilitat del document implementant una de les dos estratègies següents:
+ • Migració: executar processos de canvi de format de manera controlada, recuperant objectes digitals que es troben en un format que corre el risc de quedar obsolet, per generar altres documents en un nou format més adequat a la finalitat de custòdia.
+ • Emulació: garantir la conservació dels mitjans tecnològics necessaris per a la visualització adequada dels documents quan el seu format tecnològic hagi caigut en desús o no sigui possible la seva visualització amb les tecnologies generalment disponibles en el mercat.
+ b) Executar processos de resignatura sobre els documents les característiques criptogràfiques dels quals estiguin en risc de quedar obsoletes.
+ c) Executar altres processos que calgui aplicar als objectes digitals per garantir-ne la preservació i conservació a llarg termini.
+ d) Auditar la totalitat del procés, i generar i custodiar una traça separada de cada objecte digital gestionat.
+ Article 10. Recuperació 
+ 1. Els objectes digitals han d’estar classificats, identificats i indexats utilitzant un sistema que en permeti la cerca mitjançant identificadors únics que els identifiquin unívocament i que permetin distingir entre versions dins el sistema per facilitar-ne la usabilitat.
+ 2. Els índexs s’han de constituir a partir de les metadades dels documents i la informació de la indexació s’ha de conservar dins el sistema, fet que ha de permetre’n la recuperació.
+ 3. La plataforma ha de permetre associar amb un únic identificador unívocament cada objecte digital; requerir que tots els identificadors siguin únics i impossibles de duplicar en la totalitat del sistema o plataforma, i emmagatzemar els identificadors únics com a metadades de l’entitat a la qual fan referència.
+ Article 11. Explotació 
+ La plataforma ha de garantir l’explotabilitat dels registres d’esdeveniments i la generació d’informes, mitjançant:
+ a) Funcionalitats flexibles d’informes per a l’administrador que incloguin, com a mínim, el següent:
+ i. Nombre d’agrupacions, volumetria i documents.
+ ii. Estadística de transaccions per agrupacions, volumetria i documents.
+ iii. Informes d’activitat per a usuaris individuals.
+ b) Producció d’informes d’auditoria sobre els esdeveniments que han afectat un objecte o un conjunt d’objectes.
+ c) Permetre a l’administrador sol·licitar informes periòdics i puntuals.
+ Article 12. Controls i seguretat 
+ 1. La plataforma ha de disposar de controls d’accés o controls sobre qualsevol alteració, ja sigui en els objectes digitals o en les metadades, mitjançant el compliment dels requisits següents:
+ a) Mantenir complets i inalterables els objectes digitals, excepte en circumstàncies en què una norma amb rang de llei pugui exigir-ne l’alteració.
+ b) Documentar cada canvi excepcional dels objectes digitals i/o les metadades corresponents, segons el que s’ha descrit al requisit anterior.
+ c) Comprovar que no s’han destruït o eliminat els objectes digitals que ingressen i les metadades que els descriuen per part d’un usuari, inclòs un administrador, amb excepció de la destrucció, de conformitat amb el calendari de conservació i l’eliminació autoritzada per part d’un administrador.
+ d) Restringir l’accés a les funcionalitats del sistema d’acord amb el rol de cada usuari.
+ 2. La plataforma ha d’advertir automàticament l’administrador en cas de produir-se una alteració intencionada o accidental d’un objecte digital que no permeti conservar-ne i garantir-ne l’autenticitat. La plataforma ha de tenir prou capacitat de resposta en les còpies de seguretat per poder recuperar la versió correcta de l’objecte digital.
+ Capítol cinquè. Model de referència
+ Article 13. Estratègia de preservació 
+ Les entitats que presten servei d’arxiu qualificat han de tenir definida quina és la seva estratègia tecnològica per complir amb les finalitats d’arxiu qualificat que s’estableixen a l’article 5 d’aquest Decret.
+ D’entre les possibles estratègies que es poden adoptar, està identificat que la descrita a la ISO 14721, coneguda com a model OAIS, és suficient per garantir aquestes finalitats i poder prestar el servei d’arxiu qualificat, si està correctament implementada. Per tant, una entitat que vulgui complir i prestar un servei d’arxiu qualificat, implementant el model OAIS, hauria de dotar-se dels elements descrits en els articles següents.
+ Article 14. Arquitectura tecnològica 
+ Per complir amb la preservació i conservació de la informació, el prestador ha de disposar de les sis entitats funcionals del model OAIS: ingrés, emmagatzematge d’arxiu, gestió de dades, administració, planificació de la conservació i accés, tal com s’identifica al model d’informació definit a l’apartat 4.1 de la norma ISO 14721, que estableix com es gestiona i transporta la informació des de l’entitat funcional d’ingesta de dades fins a l’entitat funcional d’accés.
+ Article 15. Estructura conceptual 
+ 1. Ontologia de la informació
+ Ha de complir amb el model d’informació, que defineix els tipus d’objectes d’informació necessaris per garantir la preservació i conservació de la informació a llarg termini i l’accés a la mateixa informació per part d’una comunitat específica, segons el que es desenvolupa en l’apartat 4.2.1 de la norma ISO 14721, en el qual es defineixen i s’estableixen les relacions entre els components que configuren un paquet d’informació: objecte d’informació, informació de representació i informació de contingut.
+ 2. Paquets d’informació
+ Ha de complir amb la configuració dels paquets d’informació i amb les tipologies de paquets d’informació (PIT, PIA i PIC) per poder garantir la preservació i conservació a llarg termini. Cada un d’aquests tipus de paquets d’informació ha de contenir tot allò que es desenvolupa en l’apartat 4.2.2 de la norma ISO 14721.
+ Capítol sisè. Gestió documental
+ Article 16. Instruments de gestió documental 
+ 1. Els prestadors de serveis d’arxiu qualificat han de configurar, sobre la plataforma d’arxiu qualificat, els instruments de gestió documental del productor (quadre de classificació, catàleg de formats, vocabulari de metadades i calendari de conservació).
+ 2. En cas que el productor no tingui instruments propis, el prestador de serveis d’arxiu qualificat ha de disposar d’instruments de gestió documental, molt especialment d’un quadre de classificació, d’un vocabulari de metadades, d’un catàleg de formats i del calendari de conservació. El prestador s’ha de comprometre a comptar almenys amb aquests instruments i a tenir-los actualitzats.
+ Article 17. Retenció i disposició 
+ 1. El prestador ha de garantir l’aplicació dels calendaris de conservació del productor en els objectes digitals que custodia. Els calendaris de conservació són polítiques que autoritzen la disposició dels objectes digitals aplicant processos controlats de destrucció associats a la valoració dels documents.
+ 2. Els documents públics no es poden eliminar si no disposen de taules d’accés i avaluació en els termes establerts en la Llei 33/2021 , del 2 de desembre, de transparència, accés a la informació pública i govern obert.
+ 3. Respecte a l’eliminació dels objectes digitals, cal tenir en compte el següent:
+ a) Cap objecte digital, independentment que sigui públic o privat, no pot ser eliminat sense consentiment del productor.
+ b) Si el període de retenció ha vençut, cal revisar les accions d’eliminació per evitar la destrucció descontrolada dels objectes digitals.
+ Article 18. Conservació de signatures electròniques 
+ 1. El sistema ha d’acceptar les signatures que preveu la Llei 35/2014 , del 27 de novembre, de certificació i confiança electrònica. Així mateix, la seva preservació s’ha de garantir mitjançant el ressegellat de signatures electròniques avançades o qualificades.
+ 2. Alternativament al ressegellat individual de les signatures electròniques, el prestador de serveis pot oferir un servei auxiliar d’emissió d’informes de custòdia segura dels objectes preservats que permeti relacionar la seva autenticitat amb les signatures originalment verificades en el procés d’ingesta d’acord amb les garanties que la plataforma ofereix sobre preservació segura durant tota la vida de l’objecte digital.
+ Capítol setè. Gestió de riscos d’infraestructura i seguretat
+ Article 19. Certificació en la norma ISO 27001 
+ S’estableix l’obligació del prestador de serveis d’arxiu qualificat d’estar certificat en la norma ISO 27001 i mantenir actualitzada la certificació.
+ Capítol vuitè. Confidencialitat i dades
+ Article 20. Accés als objectes digitals 
+ 1. El productor ha de determinar l’accés als objectes digitals tal com està regulat a la seva política d’accés, que, com a mínim, ha d’establir:
+ a) Qui té accés a al sistema i sota quines condicions.
+ b) Els requisits per a l’autenticació i autorització dels qui accedeixin a la plataforma.
+ c) La traça d’auditoria dels accessos.
+ 2. En la definició de la seva política d’accés, el productor ha d’haver tingut en compte el respecte als drets de propietat intel·lectual i qualsevol altre dret que un tercer pugui tenir sobre la seva documentació.
+ 3. El prestador de serveis d’arxiu qualificat ha d’administrar el compliment de la política d’accés definida pel productor.
+ 4. El prestador de serveis d’arxiu qualificat ha de complir amb les disposicions que es deriven de la normativa aplicable en matèria de protecció de dades personals dintre de la qual assumeix el rol d’encarregat del tractament.
+ Capítol novè. Continuïtat del servei
+ Article 21. Extinció o abandonament per part del productor 
+ En cas que deixi d’existir el productor i, per tant, en cas d’extinció del productor o en cas que el productor abandoni les seves obligacions en relació amb el seu patrimoni documental, cal iniciar el procediment següent:
+ a) El prestador té l’obligació de custodiar el patrimoni documental del productor que ha causat extinció o abandonament i, com a conseqüència, el productor no s’ha de fer càrrec de la documentació. El prestador ha de comunicar a l’Arxiu Nacional d’Andorra tal circumstància perquè pugui valorar si existeix algun motiu d’interès públic per assumir o reclamar la custòdia del patrimoni documental.
+ b) Si l’Arxiu Nacional determina que s’ha de custodiar la documentació, ha de comunicar al prestador la seva decisió en un termini màxim de sis mesos, la qual s’ha de materialitzar en una de les opcions següents:
+ i. L’assumpció del cost del servei que presta el prestador, per mantenir la preservació i conservació de la documentació patrimonial.
+ ii. El requeriment de la transferència de la documentació per assumir-ne, des de l’Arxiu Nacional, la custòdia de manera directa.
+ iii. En cas que existeixi una entitat de supervisió sectorial que tingui competència per raó de la matèria per assumir la custòdia del patrimoni documental de l’entitat productora, l’Arxiu Nacional ha de facilitar al proveïdor del servei la manera de contactar amb aquesta entitat de supervisió perquè sigui aquesta entitat la que opti per una de les dos solucions anteriors.
+ c) Finalment, el prestador no pot eliminar la documentació fins transcorreguts sis mesos després d’haver complert amb l’obligació anterior.
+ Article 22. Extinció o cessament de l’activitat per part del prestador del servei 
+ 1. El servei d’arxiu qualificat té com a objectiu la preservació i conservació a llarg termini dels objectes digitals i, donada aquesta aspiració, els prestadors han de preveure el següent en cas d’extinció o cessament de la seva activitat:
+ a) Anunciar-ho amb una antelació mínima de sis mesos i assegurar-se que els productors s’han assabentat d’aquesta situació.
+ b) En cas de no haver localitzat un productor perquè recuperi la seva documentació, cal activar els protocols descrits en l’article anterior perquè hi pugui intervenir l’Arxiu Nacional d’Andorra.
+ c) Per tal de garantir el compliment de l’obligació que fa referència al període de manteniment del sistema dels prestadors de serveis, aquests prestadors han de tenir contractada una assegurança que tingui entre els seus compromisos finançar la continuïtat del servei durant el termini establert en aquest Decret.
+ Article 23. Devolució del servei 
+ En cas d’efectuar la devolució del servei, cal posar a disposició de cada productor el següent:
+ a) Una API d’integració des de la qual es puguin descarregar els objectes digitals, les metadades i l’auditoria.
+ b) La possibilitat d’exportar els objectes digitals, les metadades i l’auditoria en un sistema de fitxers en format XML.
+ Capítol desè. Règim sancionador
+ Article 24. Règim sancionador aplicable 
+ Qualsevol incompliment de naturalesa administrativa, comès per acció o omissió pels prestadors de serveis d’arxiu qualificat que d’acord amb l’article 3 són considerats prestadors de serveis de confiança electrònica, està sotmès al règim sancionador de la Llei 35/2014 , del 27 de novembre, de certificació i confiança electrònica.
+ Disposició final. Entrada en vigor
+ Aquest Decret entra en vigor en el termini de sis mesos a comptar de la seva publicació al Butlletí Oficial del Principat d’Andorra .
+ Cosa que es fa pública per a coneixement general.
+ Andorra la Vella, 22 de febrer del 2023
+ Xavier Espot Zamora
+Cap de Govern en funcions
+ Annex I. Termes i definicions
+ Als efectes d’aquest Decret, s’entén per:
+ a) Autenticitat : propietat o característica que consisteix en la confiabilitat d’un objecte digital la qualitat del qual no ha estat alterada.
+ b) Confidencialitat : propietat o característica que consisteix en què la informació no es posa a disposició, ni es revela, a entitats o processos no autoritzats.
+ c) Conservació i preservació a llarg termini : conjunt de processos, polítiques, estratègies i accions específiques que tenen com a finalitat garantir l’estabilitat tecnològica i física de les dades i la permanència i l’accés de la informació dels objectes digitals en qualsevol moment del seu cicle de vida.
+ d) Integritat : propietat o característica que consisteix en el fet que l’objecte digital no ha estat alterat de manera no autoritzada.
+ e) Objecte digital : entitat d’informació estructurada i composta per seqüències de bits que requereix una eina o un sistema de visualització per tal de ser copsat.
+ f) Patrimoni documental : documentació generada i conservada per una entitat en l’exercici de les seves funcions.
+ g) Productor : persona, o sistema client, que proporciona informació que s’ha de conservar i, amb aquesta finalitat, contracta un prestador de serveis d’arxiu qualificat.
+ h) Usabilitat : propietat o característica que permet que l’objecte digital pugui ser localitzat, recuperat, presentat i interpretat en un període de temps considerable per part de les persones interessades.

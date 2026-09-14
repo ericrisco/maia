@@ -1,0 +1,216 @@
+ia.
+ - Número d’habitació o llit en cas d’ingrés.
+ - Metge responsable del malalt i identificació d’altres professionals que han intervingut en la seva assistència, en àmbits de responsabilitat específics.
+ b) Dades clíniques i assistencials:
+ - Antecedents personals i familiars, fisiològics i psicològics.
+ - Descripció de la malaltia o problema de salut i motius de consulta.
+ - Procediments emprats i resultats obtinguts, amb els dictàmens o els informes corresponents per part del professional especialista.
+ - Diagnòstic, degudament codificat, d’acord amb els estàndards internacionals de codificació.
+ - Fulls d’interconsulta.
+ - Fulls de curs clínic, en cas d’ingrés.
+ - Fulls de tractament mèdic o pla terapèutic prescrit.
+ - Full d’informació facilitada a l’usuari del sistema sanitari en relació amb el diagnòstic i el pla terapèutic prescrit.
+ - Consentiments informats signats, o anotació del consentiment informat en cas que es pugui prestar verbalment conforme al que disposa aquesta Llei.
+ - Excepció al consentiment i justificació.
+ - Document de voluntats anticipades o pla de decisions anticipades.
+ - Full operatori i informe d’anestèsia en cas de cirurgia.
+ - Fulls de transfusió de sang i/o hemoderivats.
+ - Informes d’anatomia patològica.
+ - Actuació terapèutica d’infermeria i gràfic de constants.
+ - Dades de registre de part.
+ - Informe d’alta, que inclogui les pautes terapèutiques a seguir així com altres recomanacions.
+ - Document d’alta voluntària.
+ - Informe de necròpsia.
+ - Altres resultats de proves complementàries que puguin ser practicades.
+ - Les anotacions a què es refereix aquesta Llei amb la finalitat de garantir els drets d’informació i d’autonomia de l’usuari del sistema sanitari.
+ c) Dades socials:
+ - Informe social, d’acord amb el que disposa la legislació vigent en matèria de serveis socials i sociosanitaris, si escau i sempre que influeixi en l’adherència al tractament i en la recuperació de l’usuari del sistema sanitari.
+ Aquest contingut es configura conforme a les necessitats concretes de l’usuari del sistema sanitari.
+ 3. En les històries clíniques en què intervenen diversos professionals hi han de constar individualitzades les accions, les intervencions i les prescripcions fetes per cada professional.
+ 4. Cal registrar les modificacions que s’hagin portat a terme, així com la identificació del professional que les introdueix.
+ 5. Els centres sanitaris han de disposar d’un model d’història clínica que reculli els continguts adaptats a l’àmbit assistencial i al tipus de prestació que es porta a terme.
+ Article 36. Conservació de la història clínica 
+ 1. La història clínica s’ha de conservar en les condicions que garanteixin l’autenticitat, la integritat, la confidencialitat, la preservació i el manteniment correcte de la informació assistencial registrada i que n’assegurin la possibilitat de reproducció completa en el futur.
+ 2. La documentació clínica generada s’ha de conservar segons la normativa vigent en matèria de conservació d’arxius i de gestió de documents.
+ 3. El suport en què es conservin els documents no ha de ser necessàriament l’original, i es pot fer en format digital per tal de garantir la inalterabilitat i la perdurabilitat de la informació registrada.
+ 4. En cas que un centre sanitari cessi la seva activitat, ha de garantir la conservació de les històries clíniques i altra documentació que pertanyin als usuaris del sistema sanitari. En aquest cas, el responsable del fitxer ha de contactar amb els usuaris del sistema sanitari per informar-los del cessament i lliurar-los la documentació clínica o material biològic que els pertany. En cas de no poder comunicar el cessament i retornar la documentació, el responsable ha de dipositar-la a la Comissió Nacional de la Història Clínica Compartida, que n’assumeix la conservació durant el termini establert legalment.
+ Article 37. Comissió Nacional de la Història Clínica Compartida (CNHCC) 
+ Es crea la Comissió Nacional de la Història Clínica Compartida com a òrgan que depèn del ministeri encarregat de la salut.
+ Aquesta comissió s’encarrega de garantir la consecució de la història clínica compartida de l’usuari del sistema sanitari públic, única i integrada, acumulativa i en format digital, que respongui als estàndards de qualitat i a les necessitats i demandes a la documentació.
+ Article 38. Responsable de la història clínica 
+ Als efectes d’exercir el dret d’accés, oposició, rectificació i supressió en relació amb la història clínica, així com de garantir la custòdia diligent, la confidencialitat i la seguretat de la mateixa, n’és responsable la direcció del centre sanitari; i en el cas d’activitats practicades de forma agrupada o individual, el mateix professional. A aquest efecte, els professionals poden nomenar una persona responsable del fitxer com a delegat de protecció de dades, d’acord amb el que s’estableixi a les disposicions que pugui fixar la legislació en matèria de protecció de dades personals.
+ Article 39. Accés per part de professionals de la salut a la història clínica amb finalitat assistencial 
+ 1. Els professionals de la salut que realitzin el diagnòstic o el tractament de l’usuari del sistema sanitari tenen accés directe i immediat a la història clínica en compliment de les seves funcions de prevenció o diagnòstic mèdic o de prestació d’assistència sanitària, segons els permisos d’accés corresponents al perfil d’usuari del sistema sanitari del professional.
+ 2. Tanmateix l’usuari del sistema sanitari pot denegar aquest accés directe davant el responsable de la història clínica compatida. La denegació s’aplica a tot professional degudament acreditat a accedir a tota la història clínica compartida de l’usuari del sistema sanitari públic.
+ Article 40. Accés per part de terceres persones a la història clínica 
+ Conforme al que estableix la legislació en matèria de protecció de dades personals, es pot accedir al tractament o la comunicació de les dades contingudes a la història clínica sense el consentiment exprés de l’usuari del sistema sanitari quan:
+ 1. El tractament o la comunicació de les dades es faci per o entre entitats de naturalesa pública i sigui necessari per al compliment de les seves funcions i finalitats legítimes, i les dades contingudes en la història clínica a les quals s’accedeixi s’incloguin en les normes de creació dels respectius fitxers de naturalesa pública.
+ En aquest sentit, els centres sanitaris o professionals de la salut poden cedir a la CASS o al ministeri encarregat de la salut les dades relatives a la salut de l’usuari del sistema sanitari que resultin rellevants per resoldre la prestació sol·licitada per aquests darrers.
+ 2. El tractament o la comunicació l’efectuïn els centres sanitaris o professionals de la salut per preservar l’interès vital de l’usuari del sistema sanitari.
+ 3. El tractament o la comunicació l’efectuï personal del ministeri encarregat de la salut i de la Caixa Andorrana de Seguretat Social que exerceixi funcions de control i inspecció sanitària, de manera que en aquests casos, i sempre amb l’acreditació prèvia de la seva funció, segons els permisos d’accés al seu perfil d’usuari del sistema sanitari i aplicant la mateixa política de traçabilitat que s’aplica a la resta de professionals de la sanitat pot accedir a les dades contingudes a la història clínica, amb la finalitat de comprovar la qualitat assistencial, el compliment dels drets de l’usuari del sistema sanitari o qualsevol altra obligació del centre o professional en relació amb els usuaris del sistema sanitari o la mateixa administració sanitària pública.
+ 4. Així mateix, també es pot accedir a la història clínica per dur a terme estudis epidemiològics i treballs d’investigació i docència, de programació, de facturació, gestió dels recursos i serveis i de planificació de polítiques sanitàries. L’accés a la història clínica amb aquestes finalitats queda subjecte al que s’estableix a la normativa vigent en matèria de protecció de dades personals i obliga a preservar les dades d’identificació de l’usuari del sistema sanitari, a excepció que aquest darrer hagi donat abans el seu consentiment o bé es tracti de treballs d’investigació epidemiològica realitzats pel personal del ministeri encarregat de la salut que desenvolupa funcions de vigilància de la salut que per la seva naturalesa requereixin les dades nominals de l’usuari del sistema sanitari davant situacions que poden comportar un risc per a la salut pública o comunitària.
+ 5. El personal que desenvolupa tasques d’administració i gestió dels centres sanitaris pot accedir únicament al tractament de les dades de la història clínica que estiguin relacionades amb les seves funcions.
+ Tota persona que accedeix a tractar o comunicar les dades contingudes a la història clínica, per raons de les seves funcions i competències professionals, està obligada a guardar-ne secret.
+ Article 41. Història clínica compartida de l’usuari del sistema sanitari públic 
+ 1. Es crea la història clínica compartida de l’usuari del sistema sanitari públic, amb la finalitat principal de garantir una assistència segura i apropiada a totes les persones que, com a usuaris del sistema sanitari, hi poden recórrer. La història clínica compartida de l’usuari del sistema sanitari públic s’articula mitjançant una eina que permet fer un ús compartit de la informació disponible sobre la situació i l’evolució d’un usuari del sistema sanitari al llarg de la continuïtat assistencial, de manera que proporciona informació actualitzada, per facilitar la presa de decisions i les tasques dels professionals de la salut al llarg d’aquest procés. La història clínica compartida de l’usuari del sistema sanitari públic s’estableix sense perjudici dels fitxers que puguin tenir els centres sanitaris i els professionals de la salut en relació amb la seva pròpia història clínica.
+ 2. Als efectes de la història clínica compartida de l’usuari del sistema sanitari públic, els continguts són els mateixos que els establerts a l’article 35 d’aquesta Llei.
+ 3. El Govern, a través del ministeri encarregat de la salut, és competent per a la gestió de la història clínica compartida de l’usuari del sistema sanitari públic d’acord amb les disposicions d’aquesta Llei. Tanmateix, pot delegar l’exercici d’aquesta competència al Servei Andorrà d’Atenció Sanitària o en una altra entitat de dret públic.
+ 4. A la història clínica compartida de l’usuari del sistema sanitari públic hi tenen accés tots els professionals de la salut autoritzats a exercir a Andorra, bé sigui per compte propi o bé per compte aliè. Els professionals sanitaris accedeixen, per mitjà d’una motivació, a la història clínica compartida de l’usuari del sistema sanitari públic, a l’excepció del metge que tingui l’usuari del sistema sanitari com a referent. L’accés d’aquests professionals a la història clínica compartida de l’usuari del sistema sanitari públic es realitza també d’acord amb el que estableix l’article 39 d’aquesta Llei amb les finalitats i les limitacions que s’hi preveuen.
+ 5. Tots els centres i professionals de la salut autoritzats que exerceixen dins el territori andorrà han de fer constar a la història clínica compartida de l’usuari del sistema sanitari públic les actuacions que efectuen als usuaris del sistema sanitari públic i, en general, totes les altres anotacions que cal realitzar a la història clínica, conforme al que estableix l’article 35 d’aquesta Llei. Aquesta obligació és sense perjudici de les obligacions que els titulars administratius dels centres on exerceixen els professionals puguin tenir sobre els seus propis fitxers, conforme al que estableix la normativa vigent en matèria de protecció de dades personals i aquesta mateixa Llei.
+ 6. Les prestacions originades fora d’Andorra, però que siguin tributàries de reemborsament segons la Llei de la Caixa Andorrana de la Seguretat Social, no seran reemborsades a l’usuari del sistema sanitari mentre la informació sanitària no s’hagi inclòs a la història clínica compartida de l’usuari del sistema sanitari públic seguint el que estableix aquesta Llei. Aquestes dades han de ser incloses a la història clínica únicament per un professional de la salut autoritzat a exercir a Andorra.
+ 7. A la història clínica compartida de l’usuari del sistema sanitari públic hi són aplicables la resta de preceptes d’aquest capítol de la Llei.
+ Article 42. Mesures per fer efectiva la història clínica compartida de l’usuari del sistema sanitari públic 
+ A l’efecte d’acomplir el que estableix l’article 39, els titulars administratius dels centres sanitaris, en el cas que per les seves prestacions de servei puguin requerir suports tecnològics específics, han de preveure i establir les solucions tecnològiques necessàries perquè garanteixin la introducció dels continguts de la història clínica i/o la seva interoperabilitat efectiva amb la solució tecnològica que suporta la història clínica compartida de l’usuari del sistema sanitari públic.
+ Sense perjudici del que estableix l’article 36, els centres sanitaris han de preveure i fer efectives les mesures tècniques i d’organització que pugin estimar més adequades i suficients per garantir la seguretat de les dades personals que han de ser objecte de tractament o comunicades a la història clínica compartida de l’usuari del sistema sanitari públic, evitant que puguin patir qualsevol alteració, pèrdua, tractament o accés no autoritzat.
+ Article 43. Dret d’accés de l’usuari del sistema sanitari a la història clínica 
+ 1. L’usuari del sistema sanitari té dret d’accés a la història clínica, i en concret a tota la documentació que conté. Del seu contingut se n’ha d’informar l’usuari del sistema sanitari en els millors terminis possibles, i com a màxim en el termini de cinc dies hàbils. En cas que sol·liciti documents originals, certificats o còpies d’aquesta documentació, es lliuren en el mateix termini.
+ 2. S’hi pot accedir pel mitjà que prefereixi l’usuari del sistema sanitari, d’entre els que ofereixi el centre sanitari o el professional i/o el responsable del fitxer.
+ 3. El responsable del fitxer pot denegar l’accés a les dades personals que conté la història clínica de l’usuari del sistema sanitari i que fan referència a terceres persones.
+ 4. El dret d’accés de l’usuari del sistema sanitari a la història clínica també es pot exercir per representació a través d’una tercera persona, sempre que aquesta representació consti de forma fefaent.
+ Article 44. Anotacions subjectives 
+ Les anotacions subjectives no formen part de la història clínica, i en conseqüència l’usuari del sistema sanitari no hi té dret d’accés. Tanmateix, el professional que les ha anotades pot donar el seu consentiment perquè se li lliurin.
+ Article 45. Usuaris del sistema sanitari amb capacitat compromesa 
+ A la història clínica de l’usuari del sistema sanitari amb capacitat compromesa hi accedeix ell mateix si té capacitat suficient segons el parer del responsable del fitxer, o en cas contrari, el seu representant.
+ Article 46. Accés a la història clínica del difunt 
+ 1. El responsable de la història clínica del centre sanitari pot permetre l’accés a la història clínica dels usuaris del sistema sanitari difunts als seus hereus, al cònjuge o situació de fet equivalent i a familiars fins a segon grau (consanguini o per afinitat), o de graus posteriors, sempre que acreditin un interès legítim per accedir-hi.
+ 2. En tot cas cal respectar la prohibició expressa d’accés per part de terceres persones manifestada pel difunt, amb caràcter general o que afecti només un o diversos individus concrets, sempre que consti la seva voluntat a la història clínica o d’una altra forma fefaent.
+ 3. En qualsevol cas l’accés d’un tercer a la història clínica motivada per un risc per a la salut es limita a les dades pertinents. No es facilita informació que afecti la intimitat del difunt ni les anotacions subjectives dels professionals.
+ Article 47. Exercici dels drets d’oposició, rectificació i supressió en relació amb la història clínica 
+ Els drets d’oposició, de rectificació i de supressió en relació amb la història clínica els exerceix l’usuari del sistema sanitari d’acord amb el que disposa l’apartat 7 de l’article 34 d’aquesta Llei.
+ Capítol cinquè. Investigació sobre subjectes humans
+ Article 48. Drets a la informació i a l’autonomia de les persones que participen en projectes de recerca 
+ L’usuari del sistema sanitari que es plantegi participar en un projecte de recerca té dret a:
+ 1. Rebre una informació exhaustiva i acurada sobre el projecte en qüestió, amb detall dels riscos, les conseqüències i els beneficis, i les garanties establertes per a la seva protecció. Aquesta informació ha de ser comprensible i prestada per un professional coneixedor de la recerca plantejada que pugui clarificar dubtes a la persona interessada.
+ 2. Donar el seu lliure i informat consentiment per escrit, amb garanties de poder-lo revocar en qualsevol moment sense que aquest fet suposi cap repercussió negativa en la seva persona o en l’assistència sanitària que hagi de rebre.
+ 3. En qualsevol moment la persona pot retirar-ne lliurement el seu consentiment.
+ 4. Demanar la cancel·lació de les seves dades recollides en la documentació del projecte d’investigació, en cas de revocar el consentiment, sempre que sigui factible, sense desvirtuar-ne els resultats.
+ 5. Les dades de caràcter personal utilitzades per a finalitats de recerca no poden ser publicades de manera que s’identifiquin les persones, a menys que aquestes persones hi donin el seu consentiment.
+ 6. Tot projecte de recerca que s’iniciï al Principat d’Andorra i que actuï sobre persones l’ha de validar prèviament la Comissió d’Ètica de la Investigació pel que fa als aspectes científics, ètics i metodològics.
+ Aquesta validació es fa seguint els estàndards internacionals sobre bones pràctiques en investigació, i cal que tingui especialment present la protecció dels drets i la dignitat de les persones a qui es proposi participar-hi, així com el fet que la recerca no pugui fer-se amb un mètode alternatiu d’eficàcia comparable i que els riscos als quals se sotmeti la persona no siguin desproporcionats respecte als beneficis potencials.
+ Article 49. La protecció de les persones sense competència en la seva participació en recerca 
+ Al Principat d’Andorra només es pot dur a terme l’activitat de recerca que impliqui persones sense competència per prestar el seu consentiment si es compleixen les condicions de forma cumulativa següents:
+ 1. Si el projecte no es pot dur a terme amb persones competents amb igual eficàcia.
+ 2. Si el projecte suposa un risc mínim per al participant.
+ 3. Si hi ha indicis d’evidència que els resultats del projecte han de suposar un benefici real i directe per a la seva salut o, si no fos així, almenys un benefici a curt termini en el coneixement de la malaltia i el tractament de les persones afectades.
+ 4. Si la persona no expressa el seu rebuig a participar-hi.
+ 5. Si el consentiment per participar-hi és atorgat per les persones, físiques o jurídiques, que disposin de la representació legal de la persona interessada, atorgat expressament i específicament i estar consignat per escrit. Aquest consentiment pot ser lliurement revocat en qualsevol moment.
+ Article 50. D ret a la protecció del propi cos 
+ 1. L’usuari del sistema sanitari té dret que qualsevol part del seu cos, íntegra o el seu excedent, que hagi estat extreta en una intervenció o actuació sanitària, només sigui conservada o utilitzada per a la finalitat que va motivar aquesta extracció.
+ 2. El fet d’utilitzar-la per a recerca requereix la informació completa dels objectius pretesos i el consentiment exprés i per escrit de l’usuari del sistema sanitari, així com el compliment dels requisits que la normativa específica sobre recerca biomèdica determini.
+ Article 51. Dret a la protecció de la intimitat en els projectes de recerca 
+ L’usuari del sistema sanitari té dret que la informació i les dades recollides en la història clínica o qualsevol altra documentació sanitària no siguin utilitzades per a la recerca sense la informació prèvia completa dels objectius pretesos i amb el seu consentiment exprés i per escrit, quan aquestes dades no són segregades i suposen la identificació de l’usuari del sistema sanitari.
+ Capítol sisè. Deures dels ciutadans i professionals vers el sistema sanitari públic
+ Article 52. Deures dels ciutadans 
+ Tots els ciutadans, com a usuaris del sistema sanitari potencials o en acte del sistema sanitari públic, han d’assumir el compliment dels deures següents:
+ 1. Cuidar de la pròpia salut i responsabilitzar-se’n. Aquest deure s’ha d’exigir especialment quan es puguin derivar riscos o perjudicis per a la salut d’altres persones, des del vessant social que també té la salut individual.
+ 2. Fer un ús racional dels recursos, les prestacions i els drets d’acord amb les seves necessitats assistencials i en funció de les disponibilitats del sistema sanitari públic, per facilitar l’accés equitatiu de tots els ciutadans a l’atenció sanitària en condicions d’igualtat.
+ 3. Complir les prescripcions generals de naturalesa sanitària comunes a tota la població, així com les específiques o individuals determinades pels serveis sanitaris, sens perjudici, en aquest darrer cas, dels drets de lliure elecció entre les opcions terapèutiques i de rebuig al tractament proposat, dins els límits que disposa aquesta mateixa Llei.
+ 4. Complir les mesures sanitàries adoptades amb caràcter obligatori per prevenir riscos, protegir la salut i lluitar contra les amenaces a la salut pública susceptibles de ser previngudes mitjançant vacunacions, o altres mesures preventives, així com col·laborar per assolir-ne els fins.
+ 5. Responsabilitzar-se de l’ús adequat de les prestacions sanitàries ofertes pel sistema sanitari, fonamentalment les farmacèutiques, les proves complementàries, les d’incapacitat laboral i les de caràcter social.
+ 6. Utilitzar i gaudir de manera responsable, d’acord amb les normes corresponents, de les instal·lacions i els serveis assistencials sanitaris, respectant-ne la integritat i la funcionalitat.
+ 7. Complir les normes establertes en cada centre i respectar la intimitat i el descans dels altres usuaris del sistema sanitari, així com la dignitat personal i professional de les persones que hi presten els seus serveis, i evitar tota manca de respecte o actituds d’agressivitat.
+ 8. Facilitar, de forma lleial, completa i veraç, les dades d’identificació i les referents al seu estat físic i/o psíquic, o a la seva salut en general, incloent-hi hàbits de vida i antecedents, necessàries per a una atenció sanitària adequada i segura o bé quan ho aconsellin raons d’interès general degudament motivades.
+ 9. Facilitar al seu metge o professional de la salut responsable, en la mesura que sigui possible, les dades, la informació i la documentació clínica relativa a l’assistència sanitària realitzada per compte de la Caixa Andorrana de Seguretat Social fora del Principat d’Andorra.
+ 10. Signar el document pertinent, en el cas de negar-se a les actuacions sanitàries proposades, especialment en cas de proves diagnòstiques, actuacions preventives i tractaments d’especial rellevància per a la salut de l’usuari del sistema sanitari que requereixin un consentiment escrit.
+ 11. Acceptar l’alta un cop s’ha acabat el procés assistencial que el centre sanitari li pot oferir. Si per diverses raons existís divergència de criteri per part de l’usuari del sistema sanitari, cal esgotar les vies de diàleg i tolerància raonables vers la seva opinió i, sempre que la situació ho requereixi, el centre ha de fer la cerca dels recursos necessaris per a una atenció adequada.
+ Article 53. Deures dels professionals 
+ 1. De forma general, els professionals de la salut formalitzen per escrit el seu treball als efectes de compliment de les dades, la informació i la documentació clínica amb què treballen en el marc de les serves funcions assistencials i que aporten als continguts de la història clínica compartida de l’usuari del sistema sanitari públic, la qual tendeix a ser compartida entre tots els professionals dels diferents nivells assistencials que formen el sistema.
+ 2. Els professionals de la salut tenen les obligacions següents:
+ a) Identificar-se davant dels usuaris del sistema sanitari.
+ b) Omplir la història clínica de forma llegible en els aspectes relacionats amb l’assistència prestada a l’usuari del sistema sanitari, identificant-se en totes les anotacions que s’hi facin.
+ c) Bolcar a la història clínica les dades, la informació i la documentació clínica que consideri, sota el seu judici, oportuna i rellevant, i que pugui facilitar l’usuari del sistema sanitari en relació a la seva assistència sanitària.
+ d) Informar cada usuari del sistema sanitari, de forma verdadera, comprensible i adequada a les seves necessitats, sobre la finalitat i la natura de les intervencions assistencials, els seus riscos i conseqüències, i deixar-ne constància a la història clínica compartida de l’usuari del sistema sanitari públic d’acord amb el que estableix aquesta Llei.
+ e) Informar les persones vinculades a l’usuari del sistema sanitari, sigui per raons familiars o de fet i quan aquest darrer així ho permeti de manera expressa o tàcita, o quan no disposi de capacitat per fer-ho a criteri mèdic. Si l’usuari del sistema sanitari té designat un representant legal, se n’informa el seu representant.
+ f) Sol·licitar el consentiment oral i, quan escaigui, per escrit dels usuaris del sistema sanitari, d’acord amb el que s’estableix en aquesta Llei. En aquest darrer cas li correspon al professional verificar que l’usuari del sistema sanitari ha signat el consentiment informat escrit.
+ g) Guardar el secret derivat de les seves actuacions professionals, així com de tota la informació a la qual tinguin accés.
+ h) Gestionar i custodiar la documentació clínica que puguin guardar.
+ i) Col·laborar en la creació i el manteniment de les dades, la informació i la documentació clínica continguda a la història clínica compartida de l’usuari del sistema sanitari públic de manera que aquesta història clínica pugui estar ordenada, sigui verídica i es mantingui actualitzada, amb la finalitat de permetre una actuació seqüencial i intel·ligible al llarg del contínuum assistencial dels usuaris del sistema sanitari.
+ j) Fer un ús racional i equitatiu dels recursos, d’acord amb les necessitats assistencials dels usuaris del sistema sanitari i en funció de les disponibilitats del sistema sanitari públic.
+ k) Complir les normes establertes en cada centre i respectar l’autonomia, la intimitat i la dignitat personal dels usuaris del sistema sanitari i els professionals que hi presten els seus serveis, i evitar tota manca de respecte o actituds d’agressivitat.
+ l) Respectar la voluntat d’una persona a no ser informada.
+ m) Respectar el dret a la privadesa de l’usuari del sistema sanitari quan es tractin informacions relatives a la seva salut.
+ n) Donar compliment a la normativa vigent en matèria de protecció de dades.
+ o) Guardar el secret derivat de les actuacions professionals, així com de tota la informació a la qual tinguin accés.
+ p) Respectar les voluntats de l’usuari del sistema sanitari.
+ Capítol setè. Règim disciplinari dels professionals de la salut
+ Article 54. Infraccions i sancions 
+ 1. Són infraccions les accions i omissions, voluntàries o imprudents, contràries a la normativa legal o reglamentària tipificades i sancionades de conformitat amb aquesta Llei.
+ 2. Tota infracció comesa per un professional de la salut s’ha de qualificar com a lleu, greu o molt greu tenint en compte la importància, la transcendència o la intencionalitat, així com les circumstàncies concurrents.
+ 3. Qualsevol persona subjecta a un expedient sancionador té els drets i les garanties previstos al Codi de l’Administració.
+ Article 55. I nfraccions lleus 
+ Són infraccions lleus:
+ 1. La vulneració del dret a la informació en relació amb l’assistència sanitària, previst a l’article 6 i al 8 d’aquesta Llei.
+ 2. La vulneració del dret a la informació de l’usuari del sistema sanitari amb autonomia compromesa, previst a l’article 7 i al 8 de d’aquesta Llei.
+ 3. La vulneració del dret a la informació dels menors, previst a l’article 8 i al 25 d’aquesta Llei.
+ 4. Les previstes en aquesta Llei, sempre que no es pugui qualificar com a infracció greu o molt greu.
+ Article 56. Infraccions greus 
+ Són infraccions greus:
+ 1. Dur a terme una actuació en l’àmbit de la salut sense el consentiment lliure, específic, informat i inequívoc de l’usuari del sistema sanitari, en els casos en què hagi de constar per escrit d’acord amb l’article 9.3 d’aquesta Llei.
+ 2. La vulneració de les obligacions establertes en relació amb el consentiment del menor, previstes a l’article 26 d’aquesta Llei.
+ 3. La vulneració de les obligacions establertes en relació amb el consentiment obtingut per decisió subrogada, establertes a l’article 12 d’aquesta Llei.
+ 4. La vulneració de les obligacions relatives al dret al rebuig del tractament, previstes a l’article 13 d’aquesta Llei.
+ 5. La vulneració dels drets a la informació i a l’autonomia de les persones que participen en projectes de recerca, previstos a l’article 48 d’aquesta Llei.
+ 6. La conservació o utilització d’una part del cos íntegra de l’usuari del sistema sanitari o el seu excedent per a una finalitat diferent de la que va motivar-ne l’extracció.
+ 7. La utilització per a la recerca de les dades recollides en la història clínica o qualsevol altra documentació sanitària, sense la informació prèvia completa dels objectius pretesos i el consentiment exprés i per escrit de l’usuari del sistema sanitari.
+ 8. La vulneració dels deures establerts als apartats d) e) f) i g) de l’article 53.2 d’aquesta Llei.
+ 9. Haver estat sancionat per la comissió de tres infraccions lleus en el termini d’un any a comptar de la comissió de la primera infracció.
+ Article 57. Infraccions molt greus 
+ Són infraccions molt greus:
+ 1. L’accés indegut o injustificat a les dades assistencials de l’usuari del sistema sanitari.
+ 2. La vulneració dels drets de l’usuari del sistema sanitari en relació amb la història clínica, previstos a l’article 34 d’aquesta Llei.
+ 3. La vulneració de les condicions o els terminis de conservació de la història clínica previstos a l’article 36 d’aquesta Llei.
+ 4. Haver estat sancionat per segona vegada per la comissió d’una infracció greu en el termini de cinc anys a comptar de la comissió de l’anterior sanció greu.
+ Article 58. Prescripció de les infraccions 
+ 1. Les infraccions lleus prescriuen en el termini d’un any a partir del dia en què cessa l’acció o omissió sancionable.
+ 2. Les infraccions greus prescriuen en el termini de dos anys a partir del dia en què cessa l’acció o omissió sancionable.
+ 3. Les infraccions molt greus prescriuen en el termini de tres anys a partir del dia en què cessa l’acció o omissió sancionable.
+ Article 59. S ancions 
+ 1. Les infraccions se sancionen de la manera següent:
+ a) Infraccions lleus, amb una amonestació escrita o multa de 600 euros fins a 1.000 euros.
+ b) Infraccions greus, amb una multa de 1.001 euros fins a 50.000 euros.
+ c) Infraccions molt greus, amb una multa de 50.001 euros fins a 100.000 euros.
+ 2. Les sancions s’han d’imposar, preferentment en grau mínim, si no concorren cap de les circumstàncies mencionades a continuació; en grau mitjà, si concorren una o dos de les circumstàncies, i en grau màxim, si concorren tres o més circumstàncies de les següents:
+ a) Intencionalitat o negligència greu en la conducta infractora.
+ b) El menyspreu manifest pels drets reconeguts en aquesta Llei.
+ c) La falta de col·laboració en la reparació de la situació fàctica alterada.
+ d) La generalització de la infracció de manera que afecti la col·lectivitat.
+ e) El perjudici causat i l’eventual benefici obtingut.
+ f) El risc per a la salut pública, sempre que aquest element no s’hagi tingut en compte per qualificar la infracció.
+ g) El dany causat a la salut pública, sempre que aquest element no s’hagi tingut en compte per qualificar la infracció.
+ 3. Sense perjudici del que estableix el paràgraf anterior, la sanció es pot atenuar en atenció a les circumstàncies següents:
+ a) En cas que l’infractor, hagi notificat el fet a les autoritats competents a fi d’evitar un mal major o aclarir els fets succeïts.
+ b) En cas que l’infractor hagi pres, les mesures correctives necessàries per evitar l’agreujament del risc o del dany.
+ Article 60. Prescripció de les sancions 
+ Les sancions per infraccions lleus, greus i molt greus prescriuen en el termini de tres anys a comptar de la data de notificació de la resolució sancionadora esdevinguda ferma.
+ Article 61. Expedient sancionador 
+ 1. La constatació d’una infracció comporta la incoació de l’expedient sancionador per part del director o secretari d’Estat del ministeri encarregat de la salut, d’acord amb el que disposen el Codi de l’Administració i la reglamentació vigent en matèria de procediment sancionador.
+ 2. Contra l’acte administratiu de qualsevol mesura cautelar que s’adopti, se’n pot fer recurs sense efectes suspensius, que es tramita en una peça separada a l’expedient sancionador.
+ 3. Les actes dels serveis oficials gaudeixen de la presumpció d’exactitud, llevat de prova en contra.
+ 4. La competència per resoldre l’expedient correspon al ministre encarregat de la salut. Aquesta resolució posa fi al procediment sancionador, ha de ser motivada, i ha d’expressar, quan escaigui, els fets que es consideren provats, la norma legal en què es tipifiquen com a infracció i la norma legal que estableix la sanció que s’aplica.
+ 5. Contra la resolució es pot interposar recurs d’acord amb el que disposen el Codi de l’Administració i la reglamentació vigent en matèria de procediment sancionador.
+ Disposició transitòria
+ Mentre el Govern no disposi d’altra forma, el responsable de la gestió de la història clínica compartida de l’usuari del sistema sanitari públic és el director general del Servei Andorrà d’Atenció Sanitària.
+ Disposició final primera
+ S’encomana al Govern que en el termini de sis mesos des de l’entrada en vigor d’aquesta Llei desplegui reglamentàriament el funcionament de la història clínica compartida de l’usuari del sistema sanitari públic.
+ Disposició final segona
+ D’acord amb el que estableix l’article 6.6, s’encomana al Govern que en el termini de sis mesos des de l’entrada en vigor d’aquesta Llei desplegui reglamentàriament la forma com s’exerceix el dret a rebre una segona opinió.
+ Disposició final tercera
+ D’acord amb el que estableix l’article 15.1, s’encomana al Govern que en el termini d’un any des de l’entrada en vigor d’aquesta Llei desplegui el Reglament de funcionament del Registre Nacional de Voluntats Anticipades.
+ Disposició final quarta
+ S’encomana al Govern que en el termini de dos anys des de l’entrada en vigor d’aquesta Llei desplegui el Reglament de creació i funcionament de la Comissió d’Ètica de la Investigació, adscrita al ministeri encarregat de la salut, que té com a funció principal avaluar i validar els projectes de recerca clínica i biomèdica que es duguin a terme arreu del territori nacional.
+ Disposició final cinquena
+ S’encomana al Govern que en el termini d’un any des de l’entrada en vigor d’aquesta Llei desplegui el Reglament de creació i funcionament de la Comissió d’Ètica Assistencial del centre, adscrita al ministeri corresponent, que té com a funció principal assessorar els professionals i usuaris d’una institució sanitària en tot allò relatiu als problemes ètics que puguin sorgir i en la millora de l’assistència sanitària.
+ Disposició final sisena
+ S’encomana al Govern que en el termini de sis mesos des de l’entrada en vigor d’aquesta Llei desplegui el Reglament de creació i funcionament de la Comissió Nacional de la Història Clínica Compartida (CNHCC).
+ Disposició final setena
+ S’encomana al Govern que en el termini de dos anys des de l’entrada en vigor d’aquesta Llei presenti a tràmit parlamentari un projecte de llei que reguli els arxius i la gestió de documents.
+ Mentre no s’aprovi la dita Llei es conserva tota la documentació.
+ Disposició final vuitena
+ Aquesta Llei entra en vigor l’endemà de ser publicada al Butlletí Oficial del Principat d’Andorra.
+ Casa de la Vall, 27 d’octubre del 2017
+ Vicenç Mateu Zamora
+Síndic General
+ Nosaltres els coprínceps la sancionem i promulguem i n’ordenem la publicació en el Butlletí Oficial del Principat d’Andorra.
+ Joan Enric Vives Sicília Emmanuel Macron
+Bisbe d’Urgell President de la República Francesa
+Copríncep d’Andorra Copríncep d’Andorra

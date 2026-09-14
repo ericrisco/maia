@@ -284,7 +284,32 @@ assembla força al que aquest corpus intenta fer amb text.
 
 - **Què va passar realment del 2001 ençà.** Tota la meitat final d'aquesta fitxa
   és **pla anunciat el 2000**. **Buit prioritari.**
-- **La relació entre el CRECIT i el CENMA.** El corpus té documentat el
+- **La relació entre el CRECIT i el CENMA.** — **`parcial` des del 2026-09-13, i
+  el corpus té una prova que no sabia que tenia: el CRECIT va existir i va
+  treballar.** **[Com es compta l'aigua dels canons](../../territori/clima-i-muntanya/com-es-compta-laigua-dels-canons.md)
+  cita dades de «CRECIT (2005)»**, i el material en brut les documenta amb títol
+  i tot: **CRECIT-IEA (2005), *Estudi sobre la despesa hídrica actual i futura al
+  Principat d'Andorra***
+  ([`raw/recurs-hidric/despesa-hidrica-2019.txt`](../../../raw/recurs-hidric/despesa-hidrica-2019.txt)),
+  d'on surt també la definició del **40% de pèrdues de xarxa** que el corpus fa
+  servir. **Planificat el 2000, produint estudis el 2005.**
+
+  **I la fitxa de font d'aquesta mateixa ponència ho emmarca**
+  ([`guillamet-la-recerca`](../../../fonts/guillamet-la-recerca.md)): **el
+  desplegament dels tres centres —Biodiversitat, CRES i CRECIT— és de
+  1998-2001**, i **la fitxa avisa que la font és institucional i de part, escrita
+  pel director de la institució, i que tot el que hi és en futur s'ha de llegir
+  com a previsió del 2000 no verificada.** **L'estudi hidrològic del 2005 és,
+  doncs, la primera prova que el CRECIT va passar de previsió a fet.**
+
+  > **Això no resol la pregunta i l'estreny**: **CRECIT feia ciències de la terra
+  > i hidrologia; el CENMA fa neu, muntanya i seguiments biològics.** **Poden ser
+  > el mateix rebatejat amb el focus desplaçat, o dos centres germans.** **Cap
+  > document del corpus no els posa mai junts**, i **el corpus segueix sense
+  > inventar-ho.** `Requereix font externa: l'organigrama de l'IEA, o les seves
+  > memòries entre 2005 i avui.`
+
+  **El text original del buit, que es conserva:** El corpus té documentat el
   **CENMA — Centre d'Estudis de la Neu i de la Muntanya d'Andorra** com a centre
   actual de l'IEA
   ([el canvi climàtic](../../territori/clima-i-muntanya/el-canvi-climatic.md)),

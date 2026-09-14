@@ -105,7 +105,23 @@ lèxic viu, no categoria abstracta.
 
 ## Buits registrats
 
-1. Els **estatuts de la Confraria de Paraires i Teixidors**, si es conserven.
+1. ~~Els **estatuts de la Confraria de Paraires i Teixidors**, si es
+   conserven.~~ — **`parcial`, i la resposta era a un clic.** **Sí que es
+   conserva el document d'aprovació**, i [el cas
+   Amades](../../historia/historiografia/el-cas-amades.md) —**que el punt
+   següent d'aquesta mateixa llista ja enllaçava**— en diu on: **a l'arxiu
+   parroquial de les Escaldes**, on **el pare Cebrià Baraut el va trobar i el
+   va publicar el 1979 als *Quaderns d'Estudis Andorrans*** dient que **«havia
+   romàs fins ara inèdit»**. **Datat el 13 de febrer de 1604 i signat pel bisbe
+   d'Urgell.** **Els estatuts pròpiament dits** —el contingut de les ordinacions—
+   **segueixen sense ser al corpus**, però **ara se sap en quin arxiu són i quin
+   article els descriu.** **I des del 2026-09-13 el corpus en té la referència exacta**, trobada al
+   document d'historiografia que ja tenia sense llegir
+   ([les tres fases](../../historia/historiografia/les-tres-fases.md)):
+   **Cebrià Baraut, «Els estatuts de la confraria de paraires i teixidors de les
+   Valls d'Andorra (1604)», *Quaderns d'Estudis Andorrans*, 4 (1979),
+   p. 115-128.** `Requereix font externa: aquell article, i l'arxiu parroquial
+   de les Escaldes.`
 1b. **1604 o 1659?** **El mateix autor dona dues dates.** Pere Canturri, el
    **1994**, cita Amades i **Cebrià Baraut** per situar les **ordinacions**
    aprovades pel bisbe **el 13 de febrer de 1604**

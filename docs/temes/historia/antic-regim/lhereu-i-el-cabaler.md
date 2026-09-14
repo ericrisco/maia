@@ -149,6 +149,122 @@ a viure dels béns del difunt**.
 És **una clàusula de control** i, en una societat on la casa ho era tot, **una de
 molt eficaç**: la vídua que es tornava a casar **sortia del patrimoni**.
 
+## Què era exactament la llegítima, i per què gairebé ningú no la reclamava
+
+**Afegit el 2026-09-13 des del [llibre 2 de la tesi de Joan
+Becat](../../../fonts/becat-tesi-1993.md).** *(Text francès; traduccions del
+corpus.)* **Aquesta fitxa tenia les quatre sortides del cabaler i no tenia què
+se'n duia.**
+
+> **A Andorra la llegítima gairebé no consisteix en terrenys ni en propietats**,
+> sinó en **bestiar** —per exemple **un *escamot* d'ovelles, propietat del
+> cabaler solter, barrejat amb el ramat de la casa que ell mateix guarda de
+> pastor**—, **en diners o en valors**, **en una dotació en casar-se** o,
+> **de vegades, la llegítima esdevé el pagament dels estudis del cabaler, en una
+> escola o en un seminari**, per donar-li un bagatge que li permeti guanyar-se la
+> vida.
+
+**Tres coses que això canvia en aquesta fitxa:**
+
+1. **La sortida per l'Església estava finançada.** **«L'Església» com a sortida
+   del cabaler no era una vocació: era una llegítima pagada en forma de
+   seminari.** Vegeu [la religiositat](../../costums/religiositat/religiositat.md).
+2. **El cabaler que es quedava podia ser propietari de part del ramat que
+   guardava.** **El seu *escamot* anava dins el ramat de la casa i era seu.**
+   **«El jaç i el plat a taula» no era literalment tot.**
+3. **La llegítima es podia cobrar en escola.** **En un país sense escoles
+   públiques fins al segle XX, aquesta era una de les poques vies de formació
+   que existien** ([les escoles dels comuns](../../societat/educacio/les-escoles-dels-comuns.md)).
+
+### I la regla no escrita que ho sostenia
+
+> **«No demanar la llegítima, fins i tot quan es deixa la casa per provar sort a
+> l'estranger, és conservar el lligam de solidaritat amb la casa i la
+> possibilitat de tornar-hi.»** **«En canvi, reclamar la part legítima, que
+> l'hereu està obligat a donar-te, és trencar definitivament amb la casa i amb
+> tots els seus membres. És perdre també el seu ajut i la seva solidaritat en el
+> futur.»**
+
+**Cobrar era marxar per sempre.** **I Becat hi afegeix l'argument econòmic que
+ho feia raonable**: **la part legítima que no s'ha cobrat continua sent teva dins
+el patrimoni comú** i, mentre eres fora, **ha beneficiat els altres, l'hereu
+inclòs**.
+
+**Això tanca per dalt el que [les tres
+migracions](../../societat/demografia/les-tres-migracions.md) descriu per baix**:
+**el cabaler que emigrava normalment no cobrava**, i per això **el sistema
+exportava gent sense descapitalitzar la casa.**
+
+### El nom del que es quedava
+
+> **Els cabalers que es queden a la casa** «hi rebran sostre i menjar, però **hi
+> treballaran gratuïtament per al pare o per al germà gran i no es casaran**.
+> **Seran solters de per vida i designats pejorativament amb el terme de
+> *concos*.**»
+
+**El corpus no tenia aquest mot.** Vegeu
+[el glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md).
+
+**I Becat hi llegeix una funció demogràfica, no moral:**
+
+> **«Aquest sistema social i successori crea més cèlibes que els altres sense
+> perdre'n la força de treball. És una manera com una altra d'ajustar la població
+> i el creixement demogràfic als recursos.»**
+
+**El celibat com a política de població.** `Tesi de Becat, registrada com a
+seva`, i **coherent amb el que [la població al segle
+XIX](../../societat/demografia/la-poblacio-al-segle-xix.md) mesura.**
+
+### *Fer canvi*: com es neutralitzava el dot
+
+> **Les famílies concerten sempre que poden matrimonis creuats** —**a Andorra,
+> popularment, *«fer canvi»***— **entre dues o fins i tot tres famílies**, cosa
+> que **neutralitza a la pràctica el pagament del dot o de la llegítima**.
+
+**Dos germans d'una casa es casen amb dos germans d'una altra i els dots
+s'anul·len.** **És comptabilitat feta amb matrimonis.**
+
+### I una casa nova necessitava permís del Consell General
+
+> ***Poblador*: casa nova, sortida d'una casa més important, sovint per
+> atribució del domini d'una borda, que esdevé habitatge permanent.** **Calia
+> una autorització del Consell General per instal·lar un *poblador*.**
+
+**Fundar una casa no era un acte privat.** Vegeu
+[el sòl comunal](../../territori/geografia-fisica/el-sol-comunal.md) i
+[el Consell de la Terra](../../institucions/consell-general/el-consell-de-la-terra.md).
+
+### La pubilla dona la nacionalitat
+
+> **A Andorra, a més de la propietat i la direcció de la casa, la pubilla té la
+> facultat de donar la nacionalitat andorrana al seu marit, si és estranger.**
+> **I en tots els casos, en casar-se amb una pubilla, el marit canvia de nom de
+> casa i pren el de la seva dona.**
+
+**I el nom popular, que Becat recull i el corpus no tenia:** **els qui es fan
+andorrans així —o andorranes, quan una estrangera es casa amb un cap de casa
+andorrà— se'ls diu, en la conversa, *«andorrans de bragueta»*.**
+
+**Un mot que documenta alhora una via legal d'accés a la nacionalitat i el que
+se'n pensava.** Vegeu
+[la política de nacionalitat](../../institucions/nacionalitat-i-residencia/la-politica-de-nacionalitat.md)
+i [els andorrans de primera generació](../../institucions/nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md).
+
+### Una divergència que el corpus no arbitra
+
+**Sobre si hi havia ordre de preferència per naixement**, les dues fonts del
+corpus no diuen el mateix:
+
+| Qui | Què diu |
+| --- | --- |
+| **El notari que aquesta fitxa segueix** | **«no valien frivolitats, ni prelacions per primogenitura ni gènere»** |
+| **Becat** | **«En principi l'hereu és el fill gran»**, amb **derogacions** perquè «no es pot posar en perill la supervivència de la casa confiant-la al gran si aquest no té les qualitats desitjades» |
+
+**Poden ser compatibles** —una regla amb excepció freqüent es pot descriure com a
+regla o com a absència de regla— **però són dues descripcions diferents del
+mateix, i el corpus les conserva totes dues.** `Divergència registrada, no
+arbitrada.`
+
 ## Buits registrats
 
 1. **Casos reals** de tria d'hereu documentats amb noms. **Un, del 1788**, encara
@@ -164,9 +280,20 @@ molt eficaç**: la vídua que es tornava a casar **sortia del patrimoni**.
    possibilitat de disposar de tres mesos» per venir a ajudar.
 4. La **clàusula de viduïtat**: es complia? es litigava?
 5. **Quan cau** el sistema — l'autor diu que els capítols «han caigut clarament
-   en desús», i no dona data.
-6. El **lèxic**: *cabal*, *cabaler*, *pubilla*, *jaç*, *béns relictes*, *cap de
+   en desús», i no dona data. — **`obert`, i amb una fita nova per l'altre
+   extrem**: **el 1990 Becat encara descriu el sistema en present d'anàlisi i en
+   passat de pràctica**, i **situa l'inici del canvi econòmic als anys
+   quaranta**. **Entre els anys quaranta i «avui» hi ha la finestra**; **ningú
+   no l'ha estrenyt.**
+6. **La llegítima en xifres.** **La fracció sí que se sap** —**l'hereu tres
+   quartes parts, i el quart restant repartit entre tots els fills, ell
+   inclòs**: [els capítols matrimonials](./els-capitols-matrimonials.md)— **però
+   el corpus no té cap cas andorrà on es vegi el repartiment executat.**
+7. El **lèxic**: *cabal*, *cabaler*, *pubilla*, *jaç*, *béns relictes*, *cap de
    casa*, al [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md).
+   **I quatre mots més, des del 2026-09-13**: ***conco***, ***poblador***,
+   ***fer canvi*** i ***andorrà de bragueta***, **cap dels quals no era al
+   corpus.**
 
 ## L'alternativa que tots volien, i per què no bastava
 

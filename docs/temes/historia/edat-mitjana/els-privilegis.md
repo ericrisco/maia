@@ -59,7 +59,15 @@ exèrcit ([els castells que no hi ha](../../territori/paisatge-construit/els-cas
 | **1280** | **Pere d'Urg**, bisbe | Les valls d'Andorra | **Concessió de l'empriu de Vallcivera** |
 | **1288** | Els mateixos | — | **Segon Pareatge** |
 | **1303** | **Jaume II d'Aragó**, **a demanda del bisbe** | Els habitants d'Andorra | **Guiatge i protecció** |
+| **22 de març de 1305** | **Gastó, comte de Foix**, vescomte de Bearn i de Castellbò | **Els homes i les dones** que viuen a les valls **i els seus successors, a perpetuïtat** | **Exempció de pagar justícia per vessament de sang als menors de dotze anys**; **límit** a la comitiva que cobra la quèstia —un receptor, un escrivà, una bèstia—; **divuit diners per dia** als portadors de cartes que vinguin a exigir deutes; **un sol saig, nomenat: Bernat de Lareyu**; **un sol veguer i un lloctinent**; i cap dona casada obligada a firmar dret si el marit ho fa per ella. *(Arch. Basses-Pyrénées, E 459)* — **afegit el 14-09-2026 des de la font primària** |
 | **1328** | **Alfons el Benigne**, **a demanda del comte de Foix** | Els habitants d'Andorra | **La mateixa concessió** |
+
+**Aquesta taula no és exhaustiva, i des del 14-09-2026 se'n sap un cas.** La
+cronologia surt d'una ponència, no dels documents. **Hi faltava el privilegi de
+Gastó de Foix del 22 de març del 1305**, que té **text conservat i signatura
+d'arxiu** i que el corpus ha llegit sencer a
+[Un sol saig, i amb nom](./un-sol-saig-i-amb-nom.md). **Si n'hi faltava un, la
+llista s'ha de llegir com una selecció.**
 
 ## Com llegir aquesta taula
 
@@ -194,10 +202,105 @@ d'Andorra*** ([fitxa](../segle-xx-primera-meitat/boris-skossyreff.md)). **La
 mateixa persona defensa l'autenticitat de la carta de Carlemany i novel·la el
 rei impostor de 1934.** El corpus ho registra sense treure'n conclusions.
 
+## Quatre documents amb volum i pàgina, i tres que el corpus no tenia
+
+**Afegit el 2026-09-13 des del [llibre 2 de la tesi de Joan
+Becat](../../../fonts/becat-tesi-1993.md)**, que **cita Valls i Taberner amb
+pàgina** — **la mateixa edició que aquesta fitxa tenia localitzada i no
+oberta.** *(Els regestos van en el català de Valls i Taberner, tal com Becat els
+reprodueix.)*
+
+| Any | Què | Referència |
+| --- | --- | --- |
+| **1213** | **Els andorrans són exempts de tributs** — **el privilegi que aquesta fitxa ja té a la cronologia**, ara **amb signatura d'edició** | **Valls Taberner, *Privilegis…*, vol. 3, p. 408** |
+| **1332** | **«Pere de Castellverdú, veguer de la vall d'Andorra pel comte de Foix, concedeix als andorrans facultat que puguin defensar llurs muntanyes i emprius, contra qualsevols persones que'ls ataquessin.»** | **vol. 3, p. 455** |
+| **1371 i 1387** | **El bisbe d'Urgell concedeix als homes de la vall d'Andorra fira i mercat** | **vol. 3, p. 474** |
+| **1448** | **El comte de Foix i el bisbe d'Urgell, per dos actes separats, concedeixen la fira anual** d'Andorra la Vella el dilluns i dimarts després de Pasqua | **ibíd.** |
+
+**Tres coses que això afegeix:**
+
+1. **El 1332 no era al corpus**, i **és el document que autoritza els andorrans a
+   defensar-se ells mateixos** — **de les seves muntanyes i dels seus
+   *emprius***. **És la forma medieval del que avui és
+   [el sometent](../../institucions/comuns-i-parroquies/el-sometent.md)**, i
+   **explica per què un país sense exèrcit té una lleva parroquial.**
+   `deducció del corpus.`
+2. **El 1371 i el 1387 tampoc no hi eren.** El corpus tenia
+   **la fira del 1448** ([els bisbes d'Urgell](./els-bisbes-durgell.md)) i **no
+   les concessions anteriors**: **la fira andorrana és setanta-set anys més vella
+   del que el corpus la datava.**
+3. **La del 1448 la donen *dos* senyors per separat.** **Cap dels dos no podia
+   concedir-la tot sol**: és **el coprincipat funcionant en dos papers de la
+   mateixa data.** Vegeu [el Pariatge](../pareatge/el-pareatge.md).
+
+## I la pregunta que aquesta cronologia no es feia: per què només Andorra
+
+**Valls i Taberner no va dedicar a Andorra una obra: li va dedicar un volum
+d'una col·lecció sobre *les valls pirinenques*.** **Becat llegeix els altres
+volums, i el resultat és incòmode i útil alhora.**
+
+> **«A la lectura dels treballs de Ferran Valls Taberner, es nota que la
+> Vallferrera i la Vall del Querol, que a més emmarquen Andorra a l'oest i a
+> l'est, gaudien d'estructures institucionals i de privilegis semblants als que
+> han durat fins als nostres dies al Principat i que en fan l'originalitat.
+> La incorporació als estats espanyol per a l'una i francès per a l'altra han
+> fet desaparèixer aquestes particularitats, per la imposició de normes
+> diferents que les han substituïdes autoritàriament.»**
+
+**La Vall del Querol, documentada:**
+
+| Any | Qui | Què |
+| --- | --- | --- |
+| **1243** | **Jaume I**, des de Montpeller | **Aprofitament del bosc de Campcardós** — fusta, aigües i pasturatges |
+| **1257** | **Jaume I**, des de Lleida | **Els bestiars poden pasturar dins el radi d'un dia de sortida i tornada al corral**, i **es prohibeix que la gent d'altres llocs hi entri el seu bestiar** |
+| **1321** | **Sanç de Mallorca**, des de Perpinyà | **Poden elegir cada any, per Sant Joan, tres prohoms per a jurats o consellers de la vall** |
+| **1381** | **L'infant Joan**, des de Barcelona | **Confirma als cònsols i prohoms el costum d'establir taxadors de pa, vi i carn, posar coneixedors a les deveses i constituir oïdors de comptes** |
+| **1391** | **Joan**, des de Saragossa | **Substitueix les reunions generals de tots els habitants per l'elecció de vint prohoms** que, amb els cònsols, resolguin els afers de la vall. **I confirma l'elecció anual de cònsols per l'Epifania** |
+
+**La Vallferrera**: **tenia drets i privilegis que li venien, com a Andorra, del
+bisbe d'Urgell** (jurament del 1201), i **el 1265 entra en un pariatge** entre
+**Roger Bernat, comte de Foix i vescomte de Castellbó** —**que pel mateix títol
+reivindicava drets sobre les valls d'Andorra, cosa que va portar als pariatges
+del 1278 i del 1288**— i **Bernat de Torella**.
+
+> **Això reordena la cronologia d'aquesta fitxa.** **El pariatge de la
+> Vallferrera és tretze anys anterior al d'Andorra**, i **el mateix senyor hi és
+> part.** **[El Pariatge](../pareatge/el-pareatge.md) no era una invenció per a
+> Andorra: era una eina que aquell comte ja havia fet servir a la vall del
+> costat.** `Becat ho diu; el corpus ho registra i no ho arbitra`, perquè
+> **cap altra font del corpus no esmenta el pariatge del 1265.**
+
+**I el 1391 de Querol val la pena al costat del 1419 andorrà**: **una assemblea
+general de tots els habitants substituïda per vint prohoms elegits**. **És la
+mateixa operació que [el Consell de la
+Terra](../../institucions/consell-general/el-consell-de-la-terra.md) descriu per
+a Andorra vint-i-vuit anys després** — **i allà va durar fins avui, i aquí no.**
+
+### Una institució pirinenca que el corpus no tenia: les *lies i passeries*
+
+Becat esmenta, de passada, els acords entre valls veïnes —per exemple **entre la
+vall de Vic de Sòs i la Vallferrera**— per **deixar comerciar lliurement els seus
+habitants**: **«els tractats dits de *lies i passeries*»**.
+
+**Cap document del corpus no els anomena.** **En un país que ha viscut de la
+frontera, un tractat intervalls de lliure comerç medieval és una peça que
+falta.** Vegeu [el contraban](../../historia/contraban/contraban.md) i
+[la duana](../../economia/comerc/la-duana.md). **Buit nou i prioritari.**
+
 ## Buits registrats
 
 1. **Els documents de 843, 860, 1001, 1133, 1170, 1186, 1213, 1266, 1280, 1303 i
-   1328.** Cap no s'ha vist.
+   1328.** Cap no s'ha vist. — **`obert`, i des del 2026-09-13 amb l'edició
+   localitzada dins del corpus**: **Ferran Valls i Taberner, *Privilegis i
+   ordinacions de les Valls Pirinenques*, III, *Vall d'Andorra*, Barcelona,
+   1920** —**reeditat el 1990 per les universitats de Saragossa i de Màlaga**—,
+   citat al document d'historiografia que el corpus ja tenia
+   ([les tres fases](../historiografia/les-tres-fases.md)). **És el volum que
+   Valls i Taberner va dedicar sencer a Andorra**, i **el lloc on aquests
+   documents haurien de ser transcrits.** **I hi ha una segona porta per al
+   llibre de privilegis de les Sis Claus**: **Ignasi J. Baiges (ed.), *El llibre
+   de la terra. Un llibre de privilegis*, Andorra, 1997**, que el corpus ja
+   fitxa a [el Llibre de la Terra](../../institucions/consell-general/el-llibre-de-la-terra.md).
 2. **Les tres contradiccions** de dalt.
 3. **L'Arxiu Diocesà i Capitular de la Seu d'Urgell** — cartularis i registres.
 4. El **privilegi de 1266** té signatura: **AHN/ASC, pergamí núm. 2**. **És el
@@ -210,6 +313,7 @@ rei impostor de 1934.** El corpus ho registra sense treure'n conclusions.
 
 ## Related
 
+- [Un sol saig, i amb nom](./un-sol-saig-i-amb-nom.md) — el privilegi de 1305, llegit a la font, que aquesta taula no tenia.
 - [El Pareatge](../pareatge/el-pareatge.md) — el centre de la taula.
 - [La donació del 988](../origens/la-donacio-de-988.md) — el que ve abans.
 - [La fundació per Carlemany](../origens/la-fundacio-per-carlemany.md) — el document discutit.

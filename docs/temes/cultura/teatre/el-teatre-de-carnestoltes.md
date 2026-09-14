@@ -233,7 +233,20 @@ pogut datar-ne els anys**.
    escrit.** **Prioritari absolut per a la fase 3.**
 2. **El guió de Rossend Marsol del 1959.**
 3. **Enregistraments**: àudio o vídeo de qualsevol d'aquestes farses.
-4. **Els arguments de l'óssa a la resta de parròquies.** La font en dona dos.
+4. ~~**Els arguments de l'óssa a la resta de parròquies.** La font en dona dos.~~
+   — **`parcial`, i ara se sap per què només n'hi ha dos.** **[Les festes de
+   l'ossa](../../costums/danses/les-festes-de-lossa.md)** dona **els dos
+   arguments amb personatges** —**a l'Última ossa d'Ordino: el senyoret del
+   poble, els dallaires, les criades i l'ossa**; **al ball de l'Ossa d'Encamp,
+   els mateixos papers**— i, **sobretot, la causa de la desaparició de la
+   resta**: **«la forta emigració de joves andorrans cap al sud de França als
+   anys 1920 provocà la decadència i desaparició de les festes de l'ossa a
+   pràcticament tot el Principat».** **No és que la font en doni dos: és que en
+   queden dos.** **I la primera referència escrita és del 1838**, a la
+   *Relació sobre la Vall de Andorra* del frare **Tomàs Junoy i Arraut**, **on
+   ja hi surten els dallaires, les criades, els senyors, els caçadors i
+   l'ossa.** **El que segueix obert són els arguments de les parròquies que la
+   van perdre**, i **és probable que no existeixin escrits.**
 5. **Qui va escriure l'operació del Carnestoltes**, cap al 1970.
 6. **Per què Ordino l'atura el 1959 i el 1992**, i qui la recupera el 1978 i el
    2017.

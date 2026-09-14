@@ -122,8 +122,21 @@ saber què van signar les persones entrevistades.**
 4. **Qui el va crear** i quan exactament.
 5. L'**estudi etnogràfic de 1993-1995**: està publicat? on?
 6. Si hi ha **altres fons orals** andorrans.
-7. La comunitat **hindú** i la **filipina** d'Andorra, que apareixen aquí i
-   enlloc més.
+7. ~~La comunitat **hindú** i la **filipina** d'Andorra, que apareixen aquí i
+   enlloc més.~~ — **`incorrecte` en l'afirmació d'absència, `obert` en el
+   fons**, comprovat el **2026-09-13**. **«Enlloc més» és fals i no s'havia
+   comprovat.** **Totes dues surten a
+   [la composició per nacionalitats](../../societat/demografia/la-composicio-per-nacionalitats.md)**
+   —**509 filipins i 59 indis el 2020**, classificats com a «vinguts per
+   l'oferta de treball»—, **a [les comunitats](../../societat/immigracio/les-comunitats.md)**
+   —**totes dues hi tenen associació: Filand i Indira**—, **a
+   [la piràmide de prestigi](../../societat/immigracio/la-piramide-de-prestigi.md)**
+   i **a [per què tothom s'hi sentia integrat](../../societat/immigracio/per-que-tothom-shi-sentia-integrat.md)**,
+   on **són dues de les tres comunitats percebudes com a grup tancat**. **La
+   filipina, a més, és a [l'ARA i el SAT](../../societat/treball/lara-i-el-sat.md)
+   des del 1976.** **El que és cert és el fons del buit**: **totes aquestes
+   mencions en parlen des de fora**, i **el que aquest arxiu tindria és la veu
+   pròpia.**
 
 ## Related
 

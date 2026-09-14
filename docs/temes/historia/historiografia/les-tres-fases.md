@@ -221,14 +221,54 @@ mossèn Benigne Marquès.**
 > **El corpus no ha obert cap d'aquests volums.** **És el buit documental més
 > gran que té, i ara en té la llista completa.**
 
+
+## El que la bibliografia dona a la resta del corpus
+
+**Trobat el 2026-09-13 recorrent els capítols que aquesta fitxa declarava sense
+llegir.** **No és síntesi: són les fitxes bibliogràfiques exactes de coses que
+altres articles del corpus declaren com a buit.** **El corpus les tenia i no ho
+sabia.**
+
+| Qui hi esperava | La referència exacta, tal com és al document |
+| --- | --- |
+| [El tèxtil](../../cultura/artesania/el-textil.md) — *«els estatuts de la Confraria de Paraires i Teixidors, si es conserven»* | **Cebrià Baraut, «Els estatuts de la confraria de paraires i teixidors de les Valls d'Andorra (1604)», *Quaderns d'Estudis Andorrans*, 4 (1979), p. 115-128** |
+| [Els privilegis](../edat-mitjana/els-privilegis.md) | **Ferran Valls i Taberner, *Privilegis i ordinacions de les Valls Pirinenques*, III, *Vall d'Andorra*, Barcelona, 1920** [reedició Saragossa-Màlaga, 1990] |
+| [El Llibre de la Terra](../../institucions/consell-general/el-llibre-de-la-terra.md) | **Ignasi J. Baiges (ed.), *El llibre de la terra. Un llibre de privilegis*, Andorra, Ministeri d'Afers Socials i Cultura, 1997** — **transcrit i publicat** |
+| [El Pareatge](../pareatge/el-pareatge.md) | **Joan Riera, *Pariatge d'Andorra*, 1978** — **text llatí original, traducció catalanooccitana del segle XV i traducció catalana moderna**; i ***Pariatges Andorra, 1278-1288*, Conselleria d'Educació i Cultura, 1988**, edició comentada del setè centenari |
+| [El Politar](../manual-digest/el-politar.md) | **Antoni Puig, *Politar andorrà*, ed. Ignasi J. Baiges, Consell General** — **nova edició diplomàtica del 2015** |
+| [El Manual Digest](../manual-digest/manual-digest.md) | **Edició diplomàtica dels anys vuitanta amb facsímil de la còpia de l'armari de les Sis Claus**, i **una edició crítica amb ortografia normativa prevista per al setembre del 2018** |
+| [L'associacionisme històric](../../societat/vida-civica/lassociacionisme-historic.md) — *«els estatuts de la Consòrcia»*, *«la Confraria de Sant Sebastià»* | **Pere Canturri, *La consòrcia de casats d'Andorra*, Editorial Andorra, 1989**; i **David Mas i Sergi Mas, *Consòrcies i germandats de Sant Julià de Lòria*, 1987** |
+| [Les escoles dels comuns](../../societat/educacio/les-escoles-dels-comuns.md) | **Fernando de los Ríos, *Vida e instituciones del pueblo de Andorra, una supervivencia señorial*, Madrid, Centro de Estudios Históricos, 1920** [reedició Madrid, UIMP, 1994] |
+
+> **Vuit buits de set branques diferents tenien la seva referència dins d'aquest
+> document, i el document era al corpus.** **Cap d'ells no es tanca amb això**
+> —segueix calent anar a buscar l'obra— **però tots vuit deixen de ser una cerca
+> i passen a ser una comanda.**
+>
+> **I la de Baraut és la més neta de totes**: [el cas
+> Amades](./el-cas-amades.md) ja explicava que Baraut havia trobat el document a
+> l'arxiu parroquial de les Escaldes i l'havia donat per inèdit el 1979. **Ara
+> el corpus en sap també la revista, el volum i les pàgines.**
+
 ## El que falta
 
-- **Llegir el document sencer.** **Aquesta fitxa n'ha buidat la introducció, el
-  capítol del segle XIX i les conclusions.** **Queden deu capítols: fonts
-  documentals, manuals i revistes, prehistòria, protohistòria i romanització,
-  edat mitjana, edat moderna, Andorra contemporània, altres estudis, política i
-  institucions, i els llibres de text.** **Buit prioritari i barat: el PDF ja és
-  al corpus.**
+- **Llegir el document sencer.** — **`parcial` des del 2026-09-13, i el buit
+  estava mal plantejat.** **S'han recorregut els deu capítols que quedaven, i el
+  que hi ha no és el que el buit esperava:**
+
+  > **Els capítols 1 a 11 són, gairebé íntegrament, una bibliografia.** **Tenen
+  > pròleg de prosa només tres** —*prehistòria*, *edat mitjana* i la
+  > introducció— **i la resta són llistes de referències ordenades per any.**
+  > **«Llegir-lo sencer» no dona relat: dona una llista de la compra.**
+
+  **I aquesta llista val molt**, perquè **hi són, amb citació completa, obres que
+  el corpus porta setmanes buscant.** Vegeu la secció següent.
+
+  **El que segueix obert**: **el capítol 11, els llibres de text**, que és l'únic
+  que prometia anàlisi i no s'ha pogut llegir —**l'OCR del PDF és a dues columnes
+  i les barreja**—, i **la prosa dels capítols 4, 6, 7, 8, 9 i 10**, si és que
+  n'hi ha al PDF i l'OCR l'ha perduda. `Requereix el PDF, no el text extret:`
+  [`raw/academic/historiografia/`](../../../raw/academic/historiografia/iea-estudis-politics-i-historiografia-andorrana.pdf).
 - **Albert Villaró**: **qui és.** **El corpus no en té fitxa.**
 - **El CEHiP**: **què ha fet des del 2018.**
 - **Roland Viader** i **Olivier Codina**.

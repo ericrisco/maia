@@ -149,9 +149,38 @@ interessada, i el contrast amb els llibres parroquials queda com a buit.**
 - **Martina Camiade Boyer**, ***La casa en la comunitat andorrana del S. XVII al
   S. XIX. Solidaritats i estratègies d'aliances i de poder***, **Editorial
   Andorra, 2001**. **El corpus ja ha llegit dos treballs seus i no aquest, que
-  és el llibre.** **Buit prioritari.**
-- **Quins eren els interessos econòmics i polítics** que van fer els Perich
-  casar-se fora repetidament.
+  és el llibre.** **Buit prioritari.** — **`obert`, i ara se'n coneix la
+  prehistòria.** **El 1993, [Joan Becat](../../../fonts/becat-tesi-1993.md)
+  declara en nota que ha tingut accés «per comunicació oral» al treball de camp
+  de Martine Camiade sobre «les aliances de cases sorgides de parròquies o de
+  quarts rivals a propòsit de la utilització de la muntanya»**, i **el dona com a
+  inèdit**. **El llibre del 2001 és la forma publicada d'una recerca que ja
+  circulava vuit anys abans**, i **el corpus sap ara quin és el seu objecte
+  exacte**: **no la genealogia, sinó l'aliança entre cases de bàndols
+  territorials oposats.**
+- ~~**Quins eren els interessos econòmics i polítics** que van fer els Perich
+  casar-se fora repetidament.~~ — **`parcial`: el corpus no té el cas, però des
+  del 2026-09-13 té el mecanisme**, i **ve de la mateixa nota.** **Becat descriu
+  l'estratègia matrimonial pirinenca com una eina de política territorial:**
+
+  > **«És el cas […] de les aliances entre cases de parròquies o de quarts
+  > oposats per rivalitats a propòsit d'una muntanya mitgera en *empriu* o d'un
+  > territori en litigi. En certa manera, es tracta de crear lligams per evitar
+  > que les baralles no vagin massa lluny, ja que una part dels rivals tenen
+  > interessos privats comuns, de facilitar el pas de la informació malgrat les
+  > ruptures, de tenir passarel·les que permetran negociar un acord després dels
+  > enfrontaments.»**
+
+  **Casar-se fora era construir un canal diplomàtic.** **I l'objectiu declarat
+  de tota estratègia matrimonial és «reforçar les cases o renovar les aliances,
+  a cada generació».** **Hi ha fins i tot un fre**: **regles socials —«una mena
+  de codi deontològic realment aplicat»— que limiten els matrimonis entre hereus
+  perquè no es formin cases massa grans.**
+  **El corpus no afirma que això expliqui els Perich**: **afirma que és
+  l'explicació que la bibliografia dona per al patró, i que el cas Perich hi
+  encaixa.** `deducció del corpus.` Vegeu
+  [els emprius](../../territori/geografia-fisica/el-sol-comunal.md) i
+  [quarts i veïnats](../../institucions/quarts-i-veinats/quarts-i-veinats.md).
 - **Quan es va enderrocar la casa de la placeta Monjó.**
 - **Els Cristo i els Pal**: **segueixen sense genealogia.**
 

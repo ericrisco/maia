@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: viquipedia-ca
-timestamp: 2026-09-12T11:10:00Z
+timestamp: 2026-09-14T13:30:00Z
 tags: [arxius, institucions, fonts, historia, patrimoni]
 ---
 
@@ -87,8 +87,52 @@ Gairebé tots els buits prioritaris del corpus acaben aquí:
 
 **El corpus ha arribat, per moltes vies diferents, sempre a la mateixa porta.**
 
+## Comprovat contra la llei — 14-09-2026
+
+Aquesta fitxa es va escriure des d'una enciclopèdia. **S'ha llegit la font
+primària**: la **Llei 9/2003, del patrimoni cultural d'Andorra**, article 31.2
+([Trenta anys, cent anys, o cap](./trenta-anys-cent-anys-o-cap.md)).
+
+**Confirmat, i amb la lletra exacta.** Les funcions que aquesta fitxa descrivia
+—recollir, preservar i difondre la documentació de l'Administració de l'Estat i
+dels organismes que en depenen, i tota la documentació rellevant relacionada amb
+Andorra i la seva història— **són les de l'article 31.2**, que hi afegeix dues
+funcions més que la fitxa no recollia: **donar suport tècnic a la resta d'arxius
+públics o d'interès públic** del Principat i **vetllar per la conservació del
+patrimoni documental d'Andorra**.
+
+**No confirmat: cap de les dues dates.** La llei **no diu** que l'Arxiu Nacional
+es creés el **1975** ni que passés al patrimoni del Govern el **2005**. No les
+desmenteix: **no en parla**. Les dues dates segueixen tenint com a únic suport
+la Viquipèdia, i **la norma de creació no s'ha localitzat**.
+
+**Buit nou, i és el que decideix tota la resta.** L'última frase de l'article
+31.2 diu: «**El dret i les condicions d'accés al patrimoni documental conservat
+a l'Arxiu Nacional es regirà per una regulació específica.**» **La llei que
+defineix l'Arxiu Nacional no diu com s'hi entra.** Mentre no se sàpiga, tot el
+que aquesta fitxa enumera com a «feina pendent» —les actes de 1933 i 1934, els
+manuals notarials, els fons orals— **té una porta abans, i és documental, no
+tècnica**.
+
+**Localitzada el 14-09-2026, i encara no llegida.** Aquella regulació
+específica és el **Decret del 6 d'abril del 2005 pel qual s'aprova el Reglament
+de l'Arxiu Nacional d'Andorra**, publicat al BOPA, amb **un segon decret del
+mateix dia** sobre el **Sistema d'Arxius i l'Àrea d'Arxius del Govern**. Tots dos
+són a l'[evidència del corpus](../../../raw/historia-arxiu/README.md) i **cap
+dels dos no s'ha destil·lat**: aquesta fitxa **no diu encara** quines són les
+condicions d'accés.
+
+**I el marc legal d'aquesta institució té un buit que no és del corpus.** El
+2017 el Consell General va encarregar al Govern un **projecte de llei que reguli
+els arxius i la gestió de documents** en dos anys; el 2022 la llei de pressupost
+encara escrivia «mentre no s'aprovi la dita Llei», **i alhora esborrava la regla
+que deia que fins llavors es conservava tota la documentació**
+([La llei que deia que es conservava tot](./la-llei-que-deia-que-es-conservava-tot.md)).
+
 ## Related
 
+- [Trenta anys, cent anys, o cap](./trenta-anys-cent-anys-o-cap.md) — la llei que defineix aquest arxiu i el patrimoni documental.
+- [La llei que deia que es conservava tot](./la-llei-que-deia-que-es-conservava-tot.md) — qui autoritza avui destruir documentació pública, i què ha autoritzat.
 - [Museus i arxius](./museus-i-arxius.md)
 - [L'Armari de les Set Claus](../../institucions/patrimoni-institucional/larmari-de-les-set-claus.md)
 - [La historiografia andorrana](../../historia/historiografia/historiografia.md)
