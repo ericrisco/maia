@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**918** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**919** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -947,6 +947,7 @@
 | [El recurs d'empara](temes/institucions/justicia/el-recurs-dempara.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El saig](temes/institucions/justicia/el-saig.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [El Tribunal Constitucional](temes/institucions/justicia/el-tribunal-constitucional.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [Els cònsols els lliuren amb els ulls tancats](temes/institucions/justicia/els-consols-els-lliuren-amb-els-ulls-tancats.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Els notaris deien que sense escriptura no hi havia venda](temes/institucions/justicia/els-notaris-deien-que-sense-escriptura-no-hi-havia-venda.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Els tribunals tancaven per la fira d'Organyà](temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Es pot renunciar a una autorització, no a una prescripció](temes/institucions/justicia/es-pot-renunciar-a-una-autoritzacio-no-a-una-prescripcio.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |

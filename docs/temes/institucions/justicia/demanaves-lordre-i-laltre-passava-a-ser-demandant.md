@@ -273,9 +273,13 @@ registrar**
 
 ## Buits registrats
 
-1. **El final de la frase del *Politar*, p. 253**, sobre amb quina precaució s'ha
-   d'actuar en lliurar un *manament* de visura. **L'extracció la talla.**
-   `Requereix la pàgina impresa.`
+1. ~~**El final de la frase del *Politar*, p. 253**, sobre amb quina precaució
+   s'ha d'actuar en lliurar un *manament* de visura.~~ — **Tancat el
+   21-09-2026**: **el *Politar* recomana «*de no actuar sinó amb una **extrema
+   circumspecció***»**, i **la font hi afegeix que «*actualment, els cònsols
+   lliuren els *manaments*, per dir-ho així, **amb els ulls tancats***»**
+   ([els cònsols els lliuren amb els ulls tancats](./els-consols-els-lliuren-amb-els-ulls-tancats.md)).
+   **La distància entre la doctrina i la pràctica, dita en una frase.**
 2. **L'attestació d'antics batlles** sobre la cosa jutjada: **qui la va demanar,
    quan i a instància de qui.** **Prioritari**: **la forma de la frase coincideix
    amb la de la llista de feriats, que la font va fer redactar.**
