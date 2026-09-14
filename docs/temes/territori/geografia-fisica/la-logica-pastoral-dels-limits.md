@@ -178,6 +178,25 @@ difícilment se solucionarà si no és **per un compromís polític**.
 **concòrdia** · **dret de veure** · **dret de passar** · **usdefruit** ·
 **vacada** · **coma**
 
+## L'empriu, definit contra la font primària
+
+**Afegit el 2026-09-18.** **Aquesta fitxa feia servir *empriu* com a terme
+descriptiu.** **La definició jurídica és a** [en la ubaga tot hom hi pot
+anar](./en-la-ubaga-tot-hom-hi-pot-anar.md), **i confirma el que aquí semblava una
+contradicció:**
+
+> **L'*empriu* és el dret d'ús que una unitat administrativa té sobre un bé comú
+> d'una unitat veïna, concurrentment amb aquesta** — **i el bé comú mateix.** **Com
+> que sol ser recíproc**, **el mot designa franges que acompanyen el límit de dues
+> parròquies a banda i banda**, **on totes dues hi envien llenyataires i pastors.**
+
+**Per tant la frontera i el dret d'ús no són la mateixa línia, i no ho han de ser.**
+**I la distinció que ho ordena és *terme propi* contra *emprius* i *termes
+mitgers***: **al terme propi el dret ve de la propietat; a l'empriu ve d'un títol**,
+i per això **cada empriu pot ser diferent.** **El 22 d'abril de 1760 una sentència
+declara que «*Gargantilla es terme propri de Encamp y ampriu de Andorra*»**: **el
+mateix tros de muntanya, dos règims alhora.**
+
 ## El que falta
 
 - **Quines són exactament les Velletes i Montmalús**, i l'estat actual del

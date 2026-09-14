@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**876** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**877** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1375,6 +1375,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [El sòl comunal](temes/territori/geografia-fisica/el-sol-comunal.md) | `temes/territori/geografia-fisica` | compilada | contemporania | no | `brutails-coutume-1904` |
+| [En la ubaga tot hom hi pot anar](temes/territori/geografia-fisica/en-la-ubaga-tot-hom-hi-pot-anar.md) | `temes/territori/geografia-fisica` | compilada | historica | no | `brutails-coutume-1904` |
 | [Geografia física](temes/territori/geografia-fisica/geografia-fisica.md) | `temes/territori/geografia-fisica` | compilada | contemporania | no | `viquipedia-ca` |
 | [La lògica pastoral dels límits](temes/territori/geografia-fisica/la-logica-pastoral-dels-limits.md) | `temes/territori/geografia-fisica` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [La ratlla passa a l'altra banda de l'aigua](temes/territori/geografia-fisica/la-ratlla-passa-a-laltra-banda-de-laigua.md) | `temes/territori/geografia-fisica` | compilada | contemporania | no | `brutails-coutume-1904` |
