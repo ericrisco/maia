@@ -44,6 +44,16 @@ judicial. Per llegir-lo s'ha d'anar al cos de l'obra: **pàgines 236-238**
 > los Senyos*», **i una súplica dels andorrans demana «jutge comu» després de
 > vuitanta-sis dies de justícia torbada per tenir-ne dos.**
 
+> **I la regla que el formulari de 1888 substitueix també té nom — 19-09-2026.**
+> **Abans, qui coneixia del darrer grau era «*aquel principe **que es
+> prevenido***»**, **el requerit primer**, segons la carta de **Fiter i Rossell**
+> al Consell d'Estat espanyol
+> ([aquell príncep que és prevengut](./aquell-princep-que-es-prevengut.md)).
+> **El decret no inventa el criteri de la tria: el formalitza i n'afegeix el que
+> passa si el qui apel·la calla** —**que triï l'altra part**. **I el corpus
+> registra que el mateix principi de prevenció governa el primer grau**, **on el
+> demandant tria a quin dels dos batlles s'adreça.**
+
 ## El que diu el formulari
 
 > «Nous, **Préfet des Pyrénées-Orientales, Délégué permanent du Gouvernement
