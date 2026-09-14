@@ -260,6 +260,31 @@ de gener del 1788 a Ordino**, que és el contracte concret del qual els decrets 
 [ja s'havia registrat](../antic-regim/dos-capitols-matrimonials-de-1788.md). **Els
 càrrecs hi són sencers** i aquesta fitxa els cita en exercici del càrrec.
 
+## Com se saltava el decret, i per què no valia
+
+**Afegit el 2026-09-17 des de [Brutails](../../../fonts/brutails-coutume-1904.md),
+capítol IV, p. 75** ([la unitat destil·lada](../../institucions/justicia/es-pot-renunciar-a-una-autoritzacio-no-a-una-prescripcio.md)).
+**Aquesta fitxa té el decret; el cos doctrinal del mateix llibre en dona la
+conseqüència pràctica i el frau que provava d'esquivar-lo:**
+
+> «Sigui **una constitució de renda al 7 %**; **el prestatari renuncia a tot dret
+> escrit o no escrit, canònic o civil, que prohibeixi les rendes a aquest tipus**,
+> **i declara donar en pur do al prestador el que passa del tipus legal**: **un
+> acte així és fet en violació del decret del 4 d'agost de 1854 […]; és nul de ple
+> dret.**»
+
+| | |
+| --- | --- |
+| **Tipus màxim del decret** | **3,33 %** |
+| **Tipus de l'acte descrit** | **7 %** |
+| **Excés dissimulat com a «pur do»** | **3,67 punts** |
+
+`La resta és del corpus: la font dona el 7 i el 3,33 i no en fa la diferència.`
+
+**La usura andorrana tenia, doncs, una forma documental**: **no un contracte
+il·legal, sinó un contracte legal amb una donació al costat.** **Brutails descriu
+el muntatge i no en cita cap cas** — **buit nou i prioritari.**
+
 ## Related
 
 - [Primer la terra](../antic-regim/primer-la-terra.md) — els dos decrets del 1785 que aquesta fitxa declarava com a buit.
