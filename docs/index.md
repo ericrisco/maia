@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**881** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**882** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -252,6 +252,7 @@
 | [La venda a carta de gràcia](temes/economia/banca-i-fiscalitat/la-carta-de-gracia.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `becat-tesi-1993` |
 | [La supervisió financera](temes/economia/banca-i-fiscalitat/la-supervisio-financera.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [L'oligopoli bancari: del 1951 al segle XXI](temes/economia/banca-i-fiscalitat/loligopoli-bancari.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `wikipedia-anys-daurats` |
+| [Però en tot lo demés, al cinc per cent](temes/economia/banca-i-fiscalitat/pero-en-tot-lo-demes-al-cinc-per-cent.md) | `temes/economia/banca-i-fiscalitat` | compilada | historica | no | `brutails-coutume-1904` |
 | [Què aprova el pressupost inicial de 2026](temes/economia/banca-i-fiscalitat/que-aprova-el-pressupost-de-2026.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `govern-pressupost-2026` |
 
 ## temes/economia/comerc

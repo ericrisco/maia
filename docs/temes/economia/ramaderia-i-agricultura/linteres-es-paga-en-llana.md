@@ -168,6 +168,18 @@ tenir rebudas dels predits administradors […] per real y efectiva entrega que 
 las mateixas me han fet antes de la firma del present acte»**, seguida de la
 **renúncia «a la excepcio de la cosa no esser aixis rebuda y entregada»**.
 
+## La divergència del tipus, tancada
+
+**Afegit el 2026-09-18.** **Aquesta fitxa registrava, amb** [trenta-nou anys si el
+creditor és l'Església](../../historia/segle-xix/trenta-nou-anys-si-el-creditor-es-lesglesia.md),
+**que el mateix volum donava dos tipus legals: el tres i terç del decret episcopal
+de 1854 i el cinc per cent de la pàgina 184.** **Un decret del Consell General del
+25 de novembre de 1895 ho resol**: **el tres i terç és «*lley de la Vall*» per als
+diners donats «*per via de sensal*»**, **i «*en tot lo demes*» el Consell i el
+Tribunal de Corts apliquen el cinc.** **Eren dos contractes diferents.** Vegeu
+[però en tot lo demés, al cinc per
+cent](../banca-i-fiscalitat/pero-en-tot-lo-demes-al-cinc-per-cent.md).
+
 ## Buits registrats
 
 **El corpus no pot calcular el tipus d'interès d'aquest contracte.** Té el

@@ -227,7 +227,26 @@ notarials que aquesta fitxa descriu no s'aplicava el 1904**
 ([abrogats el 1839, aplicats el 1889](../../institucions/justicia/abrogats-el-1839-aplicats-el-1889.md)).
 **Segueix obert** si es va aplicar mai, i **des de quan no.**
 
-**I el 14-09-2026 això es complica, dins del mateix volum.** A la **pàgina 184**
+**TANCAT el 2026-09-18, i la primera hipòtesi del corpus era la bona.** **Un
+decret del Consell General del 25 de novembre de 1895**, citat al mateix llibre,
+p. 184, nota 4:
+
+> «*Decreta que **tots los dinés donats per via de sensal, segons lley de la Vall,
+> son 3 ll. 6 s. 8 d. per sent**; **pero que, en tot lo demes**, tan lo Concell com
+> lo Tribunal de Corts **ho ha acceptat al 5 %**.*»
+
+**3 ll. 6 s. 8 d. per cent són exactament tres i terç** —3 + 6/20 + 8/240 =
+3,3333— **escrit en moneda de compte en lloc de en fracció.** **Per tant**:
+**el decret de 1854 no va caure**, **seguia essent «*lley de la Vall*» quaranta-un
+anys després**, i **el seu àmbit és el *censal***. **El 5 % de la pàgina 184 és el
+del préstec, que és un altre contracte.** **I el 1895 el propi Consell General
+declara per escrit que per a tota la resta ell mateix i el Tribunal de Corts
+apliquen el cinc.** Vegeu [però en tot lo demés, al cinc per
+cent](../../economia/banca-i-fiscalitat/pero-en-tot-lo-demes-al-cinc-per-cent.md).
+**Segueix obert si el tres i terç es va aplicar a cap contracte real**: **el corpus
+té la norma confirmada vigent i continua sense cap escriptura posterior al 1854.**
+
+**El registre del 14-09-2026, que aquesta entrada substitueix:** A la **pàgina 184**
 del cos de l'obra, Brutails escriu que **«le taux légal maximum de l'intérêt est
 de 5 pour cent»** i que els tribunals civils i criminals tenen per usurari tot el
 que el passi. **El decret que aquesta fitxa llegeix, imprès com a peça
