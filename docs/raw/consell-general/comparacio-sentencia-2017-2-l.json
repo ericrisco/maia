@@ -1,0 +1,12 @@
+{
+  "scope": "Des d’En nom del Poble Andorrà fins a data final14-03-2018,abans de signatures; no capçalera ni navegació.",
+  "method": "Elimina capçaleres i peus BOPA observats,desfà particions de paraula a final de línia,normalitza apòstrofs/cometes/punts suspensius i elimina espais. Igualtat no prova disposició ni separació de paraules. Passatges citats llegits i renders7,9,10 contrastats a banda.",
+  "bopa_text_sha256": "c9f2f08c86c1789695bae02d9c8f972aab420c199bba849dcf5610684e7912a8",
+  "tc_text_sha256": "f74a6775ed4e522771f90408094670f954f65019ddbfcfc56544d867d95a9df5",
+  "equal_normalized": true,
+  "normalized_lengths": [
+    36792,
+    36792
+  ],
+  "checked_on": "2026-09-13"
+}

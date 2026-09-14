@@ -1,0 +1,263 @@
+FORA_DEL_CORPUS
+Font: https://sig.govern.ad/SIGDDE.Public/Files/Documents/Metodologia_Classificacions/Metodologia%20estimacions%20de%20poblaci%C3%B3.pdf
+Consulta: 2026-09-13. CC BY 4.0 segons avís legal del Departament.
+
+                                     Metodologia de les estimacions de població
+                                      (Codi A001 del Pla d’estadística 2022-2025)
+
+
+
+
+Índex
+
+
+1     Introducció ................................................................................................................................. 2
+2     Conceptes principals ................................................................................................................. 3
+3     Càlcul de la població estimada .................................................................................................. 4
+    3.1     Procés del càlcul ................................................................................................................ 4
+    3.2     Perspectives de millores metodològiques .......................................................................... 6
+4     Similituds amb altres països de l’entorn .................................................................................... 7
+5     Annex: Concepte estadístic de residència habitual................................................................... 7
+1    Introducció
+
+    La població estimada del Principat d’Andorra es calcula d’ençà de l’any 2009 per tal d’aportar
+    un recompte fiable i sistemàtic de la població resident i les seves característiques principals,
+    apropant-se fins on és permès al concepte de residència habitual en l’estadística europea
+    (vegeu l’annex). El motiu principal de l’inici d’aquest càlcul de la població resident és
+    l’existència de desfasaments temporals entre baixes efectives de persones residents i aquestes
+    mateixes baixes reflectides en els censos parroquials. Altres motius serien les evidències de
+    baixa o absència de la persona, així com l’alta de la persona, que no sempre es recullen en els
+    registres esmentats.
+
+    Aquesta activitat estadística, inspirada en els estàndards estadístics europeus, està inclosa en
+    la Llei 13/2022, del 12 de maig, del Pla d’estadística 2022-2025 (codi A001) i es desplega
+    oficialment en tots els programes estadístics que l’engloben sota la responsabilitat del
+    Departament d’Estadística.
+
+
+
+
+                                                                                                   2
+2   Conceptes principals
+
+-   La població registrada és el recompte de què disposen els comuns per poder registrar les
+    persones residents al país amb una durada igual o superior a 183 dies de l’any; per tant, la
+    inscripció als censos parroquials és prova de la residència a la parròquia en què està
+    empadronada la persona, però la situació d’immigració dels estrangers, i la seva residència
+    permanent i efectiva, únicament s’acredita de la forma que disposa la Llei qualificada
+    d’immigració (Llei 9/2012, del 31 de maig, de la Llei qualificada d’immigració).
+
+
+-   La població estimada és el càlcul que utilitza el Departament d’Estadística, a través dels
+    registres administratius disponibles, per poder determinar la població resident, apropant-se al
+    concepte estadístic de residència habitual.
+
+
+-   Pel que fa al “Registre estadístic de població”, es tracta de l’eina o dispositiu principal que
+    engloba totes les activitats anteriors i que ens permet donar dades i atributs referents a les
+    tres definicions de població mencionades en els punts anteriors. El concepte de població que
+    conté aquest registre és tan ampli que fins i tot pot arribar a incloure determinats segments de
+    població com ara els fronterers i les persones amb un permís de residència temporal.
+
+-   El Cens estadístic de població serà fruit de la combinació de l’operació de camp que es
+    preveu desplegar en una o unes mostres representatives de la població resident no
+    institucionalitzada i de l’explotació del “Registre estadístic de població”, per tal d’identificar
+    quina és la població resident segons el concepte de residència habitual, l’estructura i la
+    naturalesa de la població, particularment sobre les migracions, el nivell d’instrucció, la relació
+    amb l’activitat i el coneixement de les llars i de l’estructura familiar.
+
+         REGISTRE ESTADÍSTIC DE
+               POBLACIÓ
+
+                      POBLACIÓ ESTIMADA
+
+
+
+
+                    POBLACIÓ REGISTRADA
+
+                                                                                    CENS
+                                                                                 ESTADÍSTIC
+                                                                                DE POBLACIÓ
+
+
+
+
+                                                                                                    3
+3      Càlcul de la població estimada
+
+      La metodologia de càlcul de la població estimada pren com a base la població registrada als
+      censos parroquials i efectua l’encreuament de dades amb els registres administratius següents:
+            El registre de sol·licitud de permisos d’immigració (Departament d’Immigració, del
+             Ministeri d’Afers Socials, Justícia i Interior)
+            El registre de passaports de nacionalitat andorrana (Servei de Passaports, del Ministeri
+             d’Afers Socials, Justícia i Interior)
+            El registre d’assegurats de la Caixa Andorrana de Seguretat Social (CASS) per a les
+             persones que tenen una nacionalitat estrangera
+            El registre d’escolaritzats en l’ensenyament obligatori (Ministeri d’Educació i
+             Ensenyament Superior)
+            El registre de defuncions (Registre Civil, del Ministeri d’Afers Socials, Justícia i Interior)
+            El registre de persones en recerca d’una feina inscrites al Servei d’Ocupació
+             (Departament d’Ocupació i Treball del Ministeri d’Afers Socials, Justícia i Interior)
+
+
+
+3.1      Procés del càlcul
+
+
+      L’objectiu principal és obtenir unes xifres de població tan ajustades a la realitat com sigui
+      possible; alhora, es corregeixen els desfasaments temporals que hi pugui haver, tant d’altes
+      (com ara la incorporació a la població estimada de persones amb un permís vigent
+      d’immigració de residència i treball que estan assegurades com a assalariades a la CASS)
+      com de baixes (com ara les persones amb un permís d’immigració donades de baixa perquè
+      informen que marxen del país, sense estar donades d’alta a la CASS). Així mateix, es
+      corregeixen les evidències de baixa o d’absència de la persona, ja sigui perquè apareix
+      com a difunta en alguns dels registres administratius amb els quals es contrasta la informació
+      o bé perquè es constata que aquella persona ja no resideix al país, com, per exemple,
+      persones amb una probable residència secundària al país que s’identifiquen com a estrangers
+      que no apareixen documentats als registres de sol·licitud de permisos del Departament
+      d’Immigració. I, a l’últim, les evidències d’alta de la persona amb un permís de residència i
+      treball als registres de sol·licitud dels permisos del Departament d’Immigració des de fa un any
+      o més i que estan d’alta al registre d’assegurats de la CASS com a persones assalariades.
+
+
+      Per al càlcul de la població estimada es pren com a base o referència la població registrada
+      als censos parroquials i es creua aquesta informació amb altres fonts administratives,
+      com són el registre de sol·licitud de permisos, el registre de passaports de nacionalitat
+      andorrana, el registre d’assegurats a la Caixa Andorrana de Seguretat Social (CASS), el
+      registre d’escolars en l’ensenyament obligatori, el registre de defuncions del Registre Civil i el
+      registre de persones en recerca d’una feina.
+
+
+
+                                                                                                          4
+Aquest encreuament de fonts administratives s’utilitza per verificar la informació de les
+persones i detectar-les com a probables baixes. Se n’identifiquen diferents tipus:
+
+
+-   Persones de baixa a Immigració o la CASS: per a les persones que estan donades
+    d’alta als censos parroquials i de nacionalitat no andorrana, es verifica si apareixen al
+    registre de sol·licitud de permisos del Departament d’Immigració i el seu estat al registre
+    d’assegurats de la CASS. En el supòsit que la persona estrangera estigui inscrita, o no, al
+    registre de sol·licitud de permisos del Departament d’Immigració, no estigui d’alta al
+    registre d’assegurats de la CASS i no hi hagi cap membre de la família d’alta al registre de
+    persones en recerca d’una feina ni al registre d’escolars en l’ensenyament obligatori,
+    aleshores s’identifica aquesta persona com a probable baixa.
+
+
+-   Probables residències secundàries: possibles canvis de persones de residència
+    principal a residència secundària, ja que en el moment del càlcul no apareixen
+    documentades en el registre de sol·licitud de permisos del Departament d’Immigració ni el
+    registre de passaports de nacionalitat andorrana.
+
+
+-   Difunts: per a les persones que estan donades d’alta als censos parroquials, es comprova
+    si apareixen com a difuntes en alguna de les fonts següents: el registre de defuncions del
+    Registre Civil, el registre d’assegurats de la CASS, el registre de passaports de
+    nacionalitat andorrana i el registre de sol·licitud de permisos del Departament
+    d’Immigració, i s’identifiquen com a difuntes en cas afirmatiu.
+
+Aquest encreuament de fonts administratives també s’utilitza per detectar les probables altes:
+-   Pel que fa a les persones que no estan donades d’alta als comuns i són de nacionalitat
+    estrangera, es comprova si disposen d’un permís d’immigració legalitzat i, en el cas de
+    que el permís no correspongui a residències passives, es comprova si apareixen d’alta a
+    la CASS com a assalariades. Si és així, s’identifiquen com a persones probables per
+    donar-les d’alta als censos parroquials.
+
+
+La base pel càlcul de la població estimada són els censos parroquials, per la qual cosa amb
+els comuns hi ha una comunicació fluida i mensualment se’ls faciliten els registres que poden
+ser baixa amb l’objectiu que les diferències operatives entre els dos recomptes de població
+siguin mínimes.
+
+
+
+
+                                                                                               5
+                                                                         - Persones de baixa a
+                                                                         Immigració o a la CASS
+                                                 Baixes
+                                                                         - Probables residències
+                                                                         secundàries
+                                                                         - Difunts
+                  Població registrada als
+                   censos parroquials                                    - Altres                   Persones
+                                                                Info
+                                                               CASS                                 residents
+
+
+
+
+                                                   Altes
+
+
+
+                                                                             Info
+                                                                            CASS
+
+
+
+
+3.2     Perspectives de millores metodològiques
+
+
+      Les millores metodològiques es fonamenten en l’increment i qualitat dels registres
+      administratius amb els quals es creua la informació, com per exemple l’ampliació del registre
+      d’assegurats de la CASS amb la informació dels nacionals andorrans i l’encreuament amb els
+      tributaris obligats. Alhora, es treballa conjuntament amb els comuns per aconseguir millores en
+      la població registrada a través una depuració de les dades contínua en origen.
+
+
+      En aquesta línia, també s’impulsa la millora dels registres d’adreces per garantir una
+      verificació més precisa i una homogeneïtzació efectiva de la informació de residència. Això
+      inclou la desagregació dels camps que actualment s’inclouen en el camp lliure complement
+      d’adreça, establint columnes diferenciades per elements com el nom de l’edifici, l’escala i el
+      bloc. Aquest procés afavoreix una identificació més acurada de les adreces, facilitant l’anàlisi
+      territorial, la integració amb altres registres administratius i reduint el risc d’errors en l’entrada
+      de dades.
+
+
+
+
+                                                                                                          6
+4    Similituds amb altres països de l’entorn
+
+    Cal remarcar que el Principat d’Andorra no és l’únic país que disposa de dos xifres de població
+    alternatives que conceptualment són diferents. L’Institut d’Estadística de Catalunya (IDESCAT)
+    i l’Instituto Nacional de Estadística (INE) també publiquen dades de població registrada,
+    basada en els censos de població, i estimada.
+
+
+
+5    Annex: Concepte estadístic de residència habitual
+
+    El concepte estadístic de residència habitual relatiu als censos de població i d’habitatge es
+    defineix, segons la normativa europea (Reglament núm. 763/2008 del Parlament Europeu i del
+    Consell, del 9 de juliol del 2008, relatiu als censos de població i d’habitatge), com el lloc on
+    una persona passa normalment el període diari de descans, independentment de les
+    absències temporals amb finalitats d’oci, vacances, visites a amics o parents, negocis,
+    tractaments mèdics o pelegrinatge religiós. S’hauran de considerar residents habituals de la
+    zona geogràfica en qüestió només:
+               a) Les persones que hagin viscut en el seu lloc de residència habitual durant un
+               període ininterromput d’almenys dotze mesos abans de la data de referència; o
+               b) Les persones que hagin arribat al seu lloc de residència habitual en els dotze
+               mesos anteriors a la data de referència amb la intenció de romandre en el lloc durant
+               almenys un any.
+         i)        Amb alguns matisos que es detallen en el recull internacional de recomanacions
+                   dels censos de població i d’habitatge; per exemple, les persones que marxen a
+                   treballar a l’estranger i que retornen regularment1 a visitar la seva família al país
+                   d’origen estarien incloses dins la població resident del país on hi ha la família.
+         ii)       Quan no es puguin determinar les circumstàncies descrites en els detalls a o b,
+                   s’entendrà per residència habitual el lloc on la persona tingui la residència legal o
+                   estigui registrada en aquell moment.
+
+
+
+
+1 Regularment significa més de dos cops al mes (com ara dos vegades a la setmana).
+
+
+
+
+                                                                                                        7
+

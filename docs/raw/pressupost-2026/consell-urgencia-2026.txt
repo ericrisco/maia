@@ -1,0 +1,577 @@
+FORA_DEL_CORPUS
+Font: Consell General, https://seu.consellgeneral.ad/normativaMilloradaAnunciPublic/categories/17
+Consulta: 2026-09-13. Drets pendents; no datasets.
+Extracció HTML, inclou navegació i enllaços.
+
+Publicacions oficials - Consell General Principat d'Andorra
+function getCookie(name) {
+// Split cookie string and get all individual name=value pairs in an array
+let cookieArr = document.cookie.split(";");
+// Loop through the array elements
+for(let i = 0; i < cookieArr.length; i++) {
+let cookiePair = cookieArr[i].split("=");
+/* Removing whitespace at the beginning of the cookie name
+and compare it with the given string */
+if(name === cookiePair[0].trim()) {
+// Decode the cookie value and return
+return decodeURIComponent(cookiePair[1]);
+}
+}
+// Return null if not found
+return null;
+}
+function isGAEnabled() {
+const cookies = getCookie('cb-enabled');
+if (cookies != null && cookies !== "") {
+const json = JSON.parse(cookies);
+const analytics = json['analytics'] !== undefined ? json['analytics'] : false;
+const ga = json['ga'] !== undefined ? json['ga'] : false;
+return analytics || ga;
+}
+return false;
+}
+function isPiwikEnabled() {
+const cookies = getCookie('cb-enabled');
+if (cookies != null && cookies !== "") {
+const json = JSON.parse(cookies);
+const analytics = json['analytics'] !== undefined ? json['analytics'] : false;
+const piwik = json['piwik'] !== undefined ? json['piwik'] : false;
+return analytics || piwik;
+}
+return false;
+}
+//<![CDATA[
+let nSinc = 0;
+var horaOfi = 1789315998023;
+var dataSeu = new Date(horaOfi);
+setInterval("actualitzaHora()", 1000);
+function actualitzaHora() {
+nSinc++;
+if (nSinc > 60) {
+ajaxSincronitzaHora();
+} else {
+horaOfi = horaOfi + 1000;
+dataSeu.setTime(horaOfi);
+var hor = dataSeu.getHours();
+if (hor < 10)
+hor = "0" + hor
+var sec = dataSeu.getSeconds();
+if (sec < 10)
+sec = "0" + sec
+var min = dataSeu.getMinutes();
+if (min < 10)
+min = "0" + min
+jQuery('#horaOficialUpdate .horaOficialTime').html(hor + ":" + min + ":" + sec);
+}
+}
+function ajaxSincronitzaHora() {
+nSinc = 0;
+const noString = false
+jQuery.ajax({
+cache: false,
+timeout: 300000,
+url: "/calendariPublic/getHoraOficial2?nSinc=" + nSinc + "&noString=" + noString,
+success: function (data) {
+var foo = data.split('!');
+horaOfi = parseInt(foo[1]);
+jQuery('#horaOficialUpdate').html(foo[0]);
+}
+});
+return false;
+}
+//]]>
+jQuery(document).ready(function () {
+jQuery(".arbreTramits").treeview({
+persist: "location",
+collapsed: true,
+unique: true
+});
+});
+jQuery(document).ready(function () {
+jQuery("input#jQueryDate_dataAprovacioInici").datepicker({
+buttonText: "Seleccionar data",
+buttonImage: '/consellandorra/images/calendar-days-regular-svg.png',
+buttonImageOnly: true,
+firstDay: 1,
+changeMonth: true,
+changeYear: true,
+dateFormat: 'dd/mm/yy',
+showOn: 'both',
+onClose: function (dateText, inst) {
+this.nextSibling.focus();
+}
+});
+jQuery("input#jQueryDate_dataAprovacioFi").datepicker({
+buttonText: "Seleccionar data",
+buttonImage: '/consellandorra/images/calendar-days-regular-svg.png',
+buttonImageOnly: true,
+firstDay: 1,
+changeMonth: true,
+changeYear: true,
+dateFormat: 'dd/mm/yy',
+showOn: 'both',
+onClose: function (dateText, inst) {
+this.nextSibling.focus();
+}
+});
+jQuery("input#jQueryDate_dataEntradaVigorInici").datepicker({
+buttonText: "Seleccionar data",
+buttonImage: '/consellandorra/images/calendar-days-regular-svg.png',
+buttonImageOnly: true,
+firstDay: 1,
+changeMonth: true,
+changeYear: true,
+dateFormat: 'dd/mm/yy',
+showOn: 'both',
+onClose: function (dateText, inst) {
+this.nextSibling.focus();
+}
+});
+jQuery("input#jQueryDate_dataEntradaVigorFi").datepicker({
+buttonText: "Seleccionar data",
+buttonImage: '/consellandorra/images/calendar-days-regular-svg.png',
+buttonImageOnly: true,
+firstDay: 1,
+changeMonth: true,
+changeYear: true,
+dateFormat: 'dd/mm/yy',
+showOn: 'both',
+onClose: function (dateText, inst) {
+this.nextSibling.focus();
+}
+});
+jQuery("#jQueryDate_dataAprovacioInici_clean").click(function () {
+jQuery("#jQueryDate_dataAprovacioInici").val('');
+});
+jQuery("#jQueryDate_dataAprovacioFi_clean").click(function () {
+jQuery("#jQueryDate_dataAprovacioFi").val('');
+});
+jQuery("#jQueryDate_dataEntradaVigorInici_clean").click(function () {
+jQuery("#jQueryDate_dataEntradaVigorInici").val('');
+});
+jQuery("#jQueryDate_dataEntradaVigorFi_clean").click(function () {
+jQuery("#jQueryDate_dataEntradaVigorFi").val('');
+});
+});
+Web del Consell General
+[https://www.consellgeneral.ad/]
+Tràmits
+[https://registre.consellgeneral.ad/Ciutadania/]
+BOPA / Portal jurídic
+[https://www.bopa.ad/]
+Validador de documents
+[https://registre.consellgeneral.ad/Ciutadania/ValidarDocuments.aspx]
+Data i hora oficial: diumenge 13 de setembre de 2026, 16:13:18
+Ajuda
+[/dynamicItemPublic/mostrarContingut/42]
+Seu electrònica
+[/]
+$(document).ready(function () {
+class Dropdown {
+constructor(container) {
+this.isOpen = false;
+this.activeIndex = undefined;
+this.container = container;
+this.button = container.querySelector(".dropdown-button");
+this.menu = container.querySelector(".dropdown-menu");
+this.items = container.querySelectorAll(".dropdown-menu-item");
+}
+initEvents() {
+this.button.addEventListener("click", this.toggle.bind(this));
+document.addEventListener("click", this.onClickOutside.bind(this));
+document.addEventListener("keydown", this.onKeyEvent.bind(this));
+}
+toggle() {
+this.isOpen = !this.isOpen;
+this.button.setAttribute("aria-expanded", this.isOpen);
+this.menu.setAttribute("aria-hidden", !this.isOpen);
+this.container.dataset.open = this.isOpen;
+}
+onClickOutside(e) {
+if (!this.isOpen) return;
+let targetElement = e.target;
+do {
+if (targetElement == this.container) return;
+targetElement = targetElement.parentNode;
+} while (targetElement);
+this.toggle();
+}
+onKeyEvent(e) {
+if (!this.isOpen) return;
+if (e.key === "Tab") {
+this.toggle();
+}
+if (e.key === "Escape") {
+this.toggle();
+this.button.focus();
+}
+if (e.key === "ArrowDown") {
+this.activeIndex =
+this.activeIndex < this.items.length - 1 ? this.activeIndex + 1 : 0;
+this.items[this.activeIndex].focus();
+}
+if (e.key === "ArrowUp") {
+this.activeIndex =
+this.activeIndex > 0 ? this.activeIndex - 1 : this.items.length - 1;
+this.items[this.activeIndex].focus();
+}
+}
+}
+const dropdowns = document.querySelectorAll(".dropdown");
+dropdowns.forEach((dropdown) => new Dropdown(dropdown).initEvents());
+});
+Menú
+Què és la seu electrònica?
+[/dynamicItemPublic/mostrarContingut/7]
+Formats de documents admesos
+[/dynamicItemPublic/mostrarContingut/31]
+Relació de signatures electròniques i certificats digitals admesos
+[/dynamicItemPublic/mostrarContingut/9]
+Calendari laboral i horari d'atenció al públic
+[/dynamicItemPublic/mostrarContingut/12]
+Interrupcions previstes de la seu
+[/dynamicItemPublic/mostrarContingut/13]
+Cerca per paraules
+Cercar
+Inici [/]
+Publicacions oficials
+Butlletí del Consell General
+[/normativaMilloradaAnunciPublic/categories/5]
+BCG - Per data
+[/normativaMilloradaAnunciPublic/categories/57]
+BCG 2026
+[/normativaMilloradaAnunciPublic/categories/65]
+BCG 2025
+[/normativaMilloradaAnunciPublic/categories/64]
+BCG 2024
+[/normativaMilloradaAnunciPublic/categories/62]
+BCG 2023
+[/normativaMilloradaAnunciPublic/categories/63]
+Composició dels òrgans de la Cambra
+[/normativaMilloradaAnunciPublic/categories/7]
+Elecció de la Sindicatura
+[/normativaMilloradaAnunciPublic/categories/8]
+Composició dels altres òrgans
+[/normativaMilloradaAnunciPublic/categories/9]
+Procediment legislatiu comú
+[/normativaMilloradaAnunciPublic/categories/10]
+Projectes de llei
+[/normativaMilloradaAnunciPublic/categories/11]
+Proposicions de llei
+[/normativaMilloradaAnunciPublic/categories/12]
+Proposició de llei d'iniciativa parlamentària
+[/normativaMilloradaAnunciPublic/categories/41]
+Proposició de llei d'iniciativa comunal
+[/normativaMilloradaAnunciPublic/categories/42]
+Proposició de llei d'iniciativa popular
+[/normativaMilloradaAnunciPublic/categories/43]
+Procediments especials
+[/normativaMilloradaAnunciPublic/categories/13]
+Llei del Pressupost General
+[/normativaMilloradaAnunciPublic/categories/14]
+Projectes de llei qualificada
+[/normativaMilloradaAnunciPublic/categories/15]
+Proposicions de llei qualificada
+[/normativaMilloradaAnunciPublic/categories/16]
+Proposició de llei qualificada d'iniciativa parlamentària
+[/normativaMilloradaAnunciPublic/categories/44]
+Proposició de llei qualificada d'iniciativa comunal
+[/normativaMilloradaAnunciPublic/categories/45]
+Proposició de llei qualificada d'iniciativa popular
+[/normativaMilloradaAnunciPublic/categories/46]
+Legislació d'extrema urgència i necessitat
+[/normativaMilloradaAnunciPublic/categories/17]
+Lleis de lectura única
+[/normativaMilloradaAnunciPublic/categories/18]
+Reforma constitucional
+[/normativaMilloradaAnunciPublic/categories/19]
+Tractats Internacionals
+[/normativaMilloradaAnunciPublic/categories/20]
+Consolidació de la legislació vigent
+[/normativaMilloradaAnunciPublic/categories/21]
+Impuls i control de l'acció política del Govern
+[/normativaMilloradaAnunciPublic/categories/22]
+Elecció del Cap de Govern
+[/normativaMilloradaAnunciPublic/categories/23]
+Moció de censura
+[/normativaMilloradaAnunciPublic/categories/24]
+Qüestió de confiança
+[/normativaMilloradaAnunciPublic/categories/25]
+Preguntes al Govern
+[/normativaMilloradaAnunciPublic/categories/26]
+Preguntes amb resposta oral en el Ple
+[/normativaMilloradaAnunciPublic/categories/27]
+Preguntes amb resposta escrita
+[/normativaMilloradaAnunciPublic/categories/28]
+Respostes escrites
+[/normativaMilloradaAnunciPublic/categories/29]
+Preguntes urgents
+[/normativaMilloradaAnunciPublic/categories/30]
+Debat sobre l'orientació política del Govern
+[/normativaMilloradaAnunciPublic/categories/31]
+Propostes de resolució
+[/normativaMilloradaAnunciPublic/categories/32]
+Debat sobre l'acció política i de govern
+[/normativaMilloradaAnunciPublic/categories/33]
+Programes, plans i comunicats del Govern
+[/normativaMilloradaAnunciPublic/categories/34]
+Control de la legislació delegada
+[/normativaMilloradaAnunciPublic/categories/35]
+Propostes d'acord i mocions
+[/normativaMilloradaAnunciPublic/categories/36]
+Convocatòries
+[/normativaMilloradaAnunciPublic/categories/37]
+Convocatòria del Ple
+[/normativaMilloradaAnunciPublic/categories/38]
+Convocatòria pública de Comissió Legislativa
+[/normativaMilloradaAnunciPublic/categories/39]
+Convocatòria pública d'altres Comissions
+[/normativaMilloradaAnunciPublic/categories/60]
+Altres comunicacions
+[/normativaMilloradaAnunciPublic/categories/47]
+Acords, resolucions i comunicacions dels òrgans de la Cambra
+[/normativaMilloradaAnunciPublic/categories/55]
+Rectificacions per error tècnic
+[/normativaMilloradaAnunciPublic/categories/56]
+Concursos, adjudicacions i edictes públics
+[/normativaMilloradaAnunciPublic/categories/48]
+Concursos públics
+[/normativaMilloradaAnunciPublic/categories/52]
+Contractacions directes
+[/normativaMilloradaAnunciPublic/categories/53]
+Oferta pública de llocs de treball
+[/normativaMilloradaAnunciPublic/categories/54]
+Personal de relació especial
+[/normativaMilloradaAnunciPublic/categories/58]
+Organismes adscrits al Consell General
+[/normativaMilloradaAnunciPublic/categories/49]
+Declaracions oficials
+[/normativaMilloradaAnunciPublic/categories/50]
+Altres informacions
+[/normativaMilloradaAnunciPublic/categories/51]
+Actes del Ple del Consell General IX Legislatura
+[/normativaMilloradaAnunciPublic/categories/6]
+Actes del Ple del Consell General 2023
+[/normativaMilloradaAnunciPublic/categories/40]
+Actes del Ple del Consell General 2024
+[/normativaMilloradaAnunciPublic/categories/59]
+Actes del Ple del Consell General 2025
+[/normativaMilloradaAnunciPublic/categories/61]
+Actes del Ple del Consell General 2026
+[/normativaMilloradaAnunciPublic/categories/66]
+Cercador
+Text:
+Tipus:
+Totes
+Butlletí del Consell General
+-> BCG - Per data
+--> BCG 2026
+--> BCG 2025
+--> BCG 2024
+--> BCG 2023
+-> Composició dels òrgans de la Cambra
+--> Elecció de la Sindicatura
+--> Composició dels altres òrgans
+-> Procediment legislatiu comú
+--> Projectes de llei
+--> Proposicions de llei
+---> Proposició de llei d'iniciativa parlamentària
+---> Proposició de llei d'iniciativa comunal
+---> Proposició de llei d'iniciativa popular
+-> Procediments especials
+--> Llei del Pressupost General
+--> Projectes de llei qualificada
+--> Proposicions de llei qualificada
+---> Proposició de llei qualificada d'iniciativa parlamentària
+---> Proposició de llei qualificada d'iniciativa comunal
+---> Proposició de llei qualificada d'iniciativa popular
+--> Legislació d'extrema urgència i necessitat
+--> Lleis de lectura única
+--> Reforma constitucional
+--> Tractats Internacionals
+--> Consolidació de la legislació vigent
+-> Impuls i control de l'acció política del Govern
+--> Elecció del Cap de Govern
+--> Moció de censura
+--> Qüestió de confiança
+--> Preguntes al Govern
+---> Preguntes amb resposta oral en el Ple
+---> Preguntes amb resposta escrita
+---> Respostes escrites
+---> Preguntes urgents
+--> Debat sobre l'orientació política del Govern
+---> Propostes de resolució
+--> Debat sobre l'acció política i de govern
+--> Programes, plans i comunicats del Govern
+--> Control de la legislació delegada
+--> Propostes d'acord i mocions
+-> Convocatòries
+--> Convocatòria del Ple
+--> Convocatòria pública de Comissió Legislativa
+--> Convocatòria pública d'altres Comissions
+-> Altres comunicacions
+--> Acords, resolucions i comunicacions dels òrgans de la Cambra
+--> Rectificacions per error tècnic
+-> Concursos, adjudicacions i edictes públics
+--> Concursos públics
+--> Contractacions directes
+--> Oferta pública de llocs de treball
+--> Personal de relació especial
+-> Organismes adscrits al Consell General
+-> Declaracions oficials
+-> Altres informacions
+Actes del Ple del Consell General IX Legislatura
+-> Actes del Ple del Consell General 2023
+-> Actes del Ple del Consell General 2024
+-> Actes del Ple del Consell General 2025
+-> Actes del Ple del Consell General 2026
+Cerca
+Legislació d'extrema urgència i necessitat
+7 publicacions
+Butlletí del Consell General / Procediments especials / Legislació d'extrema urgència i necessitat
+Projecte de llei de mesures temporals per fer front a l'increment dels preus dels hidrocarburs.
+10/07/2026 10:33
+-
+Registre de publicació
+[/registrePublic/registrePublicacio/1540]
+Projecte de llei de mesures temporals per fer front a l'increment dels preus dels hidrocarburs, acompanyat de la memòria justificativa, de valoració econòmica i de perspectiva de gènere.
+La Sindicatura atorga al Projecte de llei el caràcter d'extrema urgència i necessitat.
+Disponible per a la sessió ordinària del Ple del Consell General del dimarts 14 de juliol del 2026, a les 10h.
+Projecte de llei APROVAT per assentiment.
+Llei 15/2026, del 14 de juliol, de mesures temporals per fer front a l'increment dels preus dels hidrocarburs [https://documents.bopa.ad/bopa-documents/038092/pdf/CGL_2026_07_24_09_21_41.pdf].
+Projecte de llei de mesures temporals per fer front a l'increment dels preus dels hidrocarburs.(Pdf, 808,98 Kb) [/documentPublic/download/3093]
+Memòria justificativa, econòmica i de gènere(Pdf, 138,88 Kb) [/documentPublic/download/3094]
+Butlletí del Consell General / Procediments especials / Legislació d'extrema urgència i necessitat
+Projecte de llei de modificació de la llei 32/2014, del 27 de novembre, de sostenibilitat de les finances públiques i d'estabilitat pressupostària i fiscal i de la llei general de les finances públiques, del 19 de desembre del 1996, i d'aprovació d'un crèdit extraordinari i d'un suplement de crèdit per atendre inversions destinades a ampliar el parc públic d'habitatge i a enfortir el sistema sociosanitari.
+05/05/2026 10:31
+-
+Registre de publicació
+[/registrePublic/registrePublicacio/1436]
+Projecte de llei acompanyat de les memòries explicatives, de valoració econòmica i de perspectiva de gènere del ministeri de Presidència, Economia, Treball i Habitatge, i del ministeri de Salut, i d'un informe de la Intervenció general del ministeri de Finances.
+La Sindicatura atorga al Projecte de llei el caràcter d'extrema urgència i necessitat.
+Disponible per a la sessió ordinària del Ple del Consell General del dijous 7 de maig del 2025, a les 9.15h
+Projecte de llei APROVAT per 24 vots a favor, cap en contra i 3 abstencions.
+Llei 10/2026, del 7 de maig, de modificació de la Llei 32/2014, del 27 de novembre, de sostenibilitat de les finances públiques i d'estabilitat pressupostària i fiscal i de la Llei general de les finances públiques, del 19 de desembre del 1996, i d'aprovació d'un crèdit extraordinari i d'un suplement de crèdit per atendre inversions destinades a ampliar el parc públic d'habitatge i a enfortir el sistema sociosanitari [https://bopadocuments.blob.core.windows.net/bopa-documents/038056/pdf/CGL_2026_06_01_15_22_42.pdf].
+Projecte de llei de modificació de la llei 32/2014i de la llei de les finances públiques, i de crèdit extraordinari i suplement de crèdit(Pdf, 1134,68 Kb) [/documentPublic/download/2826]
+Memòria justificativa, econòmica i de gènere del ministeri de Presidència, Economia, Treball i Habitatge(Pdf, 216,54 Kb) [/documentPublic/download/2827]
+Memòria justificativa, econòmica i de gènere del ministeri de Salut(Pdf, 379,24 Kb) [/documentPublic/download/2828]
+Informe de la Intervenció general(Pdf, 622,05 Kb) [/documentPublic/download/2829]
+Butlletí del Consell General / Procediments especials / Legislació d'extrema urgència i necessitat
+Projecte de llei de modificació de la Llei 2/2018, del 22 de març, de control de mercaderies sensibles.
+28/10/2025 09:32
+-
+Registre de publicació
+[/registrePublic/registrePublicacio/1205]
+Projecte de llei de modificació de la Llei 2/2018, del 22 de març, de control de mercaderies sensibles, acompanyat de la memòria justificativa, econòmica i de perspectiva de gènere.
+La Sindicatura atorga al Projecte de llei el caràcter d'extrema urgència i necessitat.
+Disponible per a la sessió ordinària del Ple del Consell General del dijous 30 d'octubre del 2025, a les 9.25h.
+Projecte de llei APROVAT per majoria: 22 vots a favor, 2 vots en contra i cap abstenció.
+Llei 18/2025, del 30 d'octubre, de modificació de la Llei 2/2018, del 22 de març, de control de mercaderies sensibles [https://bopadocuments.blob.core.windows.net/bopa-documents/037141/pdf/CGL_2025_11_20_15_53_20.pdf].
+Projecte de llei de modificació de la Llei 2/2018 de control de mercaderies sensibles(Pdf, 831,05 Kb) [/documentPublic/download/2281]
+Memòria justificativa, econòmica, de gènere(Pdf, 97,79 Kb) [/documentPublic/download/2280]
+Butlletí del Consell General / Procediments especials / Legislació d'extrema urgència i necessitat
+Projecte de llei de modificació de la Llei 4/2025, del 30 de gener, del pressupost per a l'exercici del 2025.
+11/07/2025 09:21
+-
+Registre de publicació
+[/registrePublic/registrePublicacio/1101]
+Projecte de llei de modificació de la Llei 4/2025, del 30 de gener, del pressupost per a l'exercici del 2025 (article 20), acompanyat de la memòria justificativa, econòmica i de perspectiva de gènere.
+La Sindicatura atorga al Projecte de llei el caràcter d'extrema urgència i necessitat.
+Disponible per a la sessió ordinària del Ple del Consell General del dimarts 15 de juliol del 2025, a les 9.30h. APROVAT per assentiment.
+Llei 12/2025, del 15 de juliol, de modificació de la Llei 4/2025, del 30 de gener, del pressupost per a l'exercici del 2025. Publicada al BOPA número 95, de data 13 d'agost del 2025 [https://bopadocuments.blob.core.windows.net/bopa-documents/037095/pdf/CGL_2025_08_07_10_29_15.pdf].
+Projecte de llei de modificació de la Llei 472025 del pressupost 2025(Pdf, 887,90 Kb) [/documentPublic/download/2091]
+Memòria justificativa, econòmica i de perspectiva de gènere(Pdf, 42,50 Kb) [/documentPublic/download/2090]
+Butlletí del Consell General / Procediments especials / Legislació d'extrema urgència i necessitat
+Projecte de llei de modificació de la Llei general d'Ordenament del Territori i Urbanisme, del 29 de desembre del 2000.
+01/04/2025 14:56
+-
+Registre de publicació
+[/registrePublic/registrePublicacio/928]
+La Sindicatura atorga al Projecte de llei el caràcter d'extrema urgència i necessitat.
+S'acompanya de la memòria justificativa.
+Disponible per a la sessió ordinària del Ple del Consell General del dijous 3 d'abril del 2025, a les 16h. APROVAT per 21 vots favorables, 0 vots en contra i 3 abstencions.
+Llei 6/2025 publicada al BOPA número 46, de data 22 d'abril del 2025 [https://bopadocuments.blob.core.windows.net/bopa-documents/037046/pdf/CGL_2025_04_17_10_31_42.pdf].
+Projecte de llei de modificació de la LGOTU(Pdf, 903,63 Kb) [/documentPublic/download/1730]
+Memòria justificativa(Pdf, 519,72 Kb) [/documentPublic/download/1731]
+Butlletí del Consell General / Procediments especials / Legislació d'extrema urgència i necessitat
+Projecte de llei de modificació de la tarifa general de taxes sobre el consum.
+18/06/2024 15:04
+-
+Registre de publicació
+[/registrePublic/registrePublicacio/542]
+La Sindicatura atorga al Projecte de llei el caràcter d'extrema urgència i necessitat.
+S'acompanya de la memòria justificativa sobre el Projecte de llei de modificació de la tarifa general de taxes sobre el consum i d'una simulació de l'augment de taxes.
+DISPONIBLE pel Ple del Consell General del dijous 20 de juny del 2024, a les 15.30h.  APROVAT per assentiment.
+Llei 11/2024 Publicada al BOPA número 79 de data 10 de juliol del 2024 [https://bopadocuments.blob.core.windows.net/bopa-documents/036079/pdf/CGL_2024_07_05_10_18_37.pdf]
+Projecte de llei modificació taxes consum(Pdf, 191,42 Kb) [/documentPublic/download/966]
+Memòria justificativa(Pdf, 62,53 Kb) [/documentPublic/download/965]
+Simulació augment taxes(Pdf, 39,77 Kb) [/documentPublic/download/967]
+BOPA Llei 11/2024(Pdf, 1438,56 Kb) [/documentPublic/download/1045]
+Butlletí del Consell General / Procediments especials / Legislació d'extrema urgència i necessitat
+Projecte de llei de suspensió transitòria de la inversió estrangera en immobles.
+05/09/2023 15:38
+-
+Registre de publicació
+[/registrePublic/registrePublicacio/170]
+Projecte de llei de suspensió transitòria de la inversió estrangera en immobles al Principat d'Andorra, tramitat pel procediment d'extrema urgència i necessitat i acompanyat de la memòria explicativa, econòmica i de perspectiva de gènere.
+En la sessió plenària del Consell General de data 7 de setembre del 2023 s'aprova per 23 vots a favor, 3 en contra i cap abstenció.
+Llei 16/2023 publicada al BOPA número 115, de data 22 de setembre del 2023 [https://bopadocuments.blob.core.windows.net/bopa-documents/035115/pdf/CGL_2023_09_22_13_08_58.pdf].
+Projecte de llei de suspensió transitòria de la inversió estrangera en immobles.(Pdf, 222,86 Kb) [/documentPublic/download/223]
+Memòria justificativa(Pdf, 2480,92 Kb) [/documentPublic/download/221]
+Llei16/2023 de suspensió transitòria de la inversió estrangera en immobles (BOPA)(Pdf, 959,08 Kb) [/documentPublic/download/392]
+Serveis
+Butlletins per data
+[/normativaMilloradaAnunciPublic/categories/57]
+Iniciatives legislatives
+[/normativaMilloradaAnunciPublic/categories/11]
+Control i impuls de l'acció de Govern
+[normativaMilloradaAnunciPublic/categories/26]
+Sessions públiques
+[/normativaMilloradaAnunciPublic/categories/38]
+Concursos públics
+[/normativaMilloradaAnunciPublic/categories/52]
+Demandes d'informació
+[/taulerAnuncisPublic/listPublicacions?cat.id=74]
+Actes del Ple
+[/normativaMilloradaAnunciPublic/categories/6]
+Oferta pública de Llocs de treball
+[/normativaMilloradaAnunciPublic/categories/54]
+Organismes adscrits
+[/normativaMilloradaAnunciPublic/categories/49]
+Transparència
+[/dynamicItemPublic/mostrarContingut/76]
+Altres informacions
+[https://seu.consellgeneral.ad/normativaMilloradaAnunciPublic/categories/51]
+Consell General del Principat d'Andorra
+Carrer de la Vall 9-13, Andorra la Vella, AD500
+(Principat d'Andorra)
+Tel. +376 877 877 [tel:+376877877]
+Twitter
+[https://x.com/consellgeneral]
+Facebook
+[https://www.facebook.com/consellgeneral.ad/]
+Instagram
+[https://www.instagram.com/consellgeneral/]
+Youtube
+[https://www.youtube.com/@consellgeneral]
+Mapa de la web
+[/dynamicItemPublic/mostrarContingut/11]
+Accessibilitat
+[/dynamicItemPublic/mostrarContingut/89]
+Avís Legal
+[/dynamicItemPublic/mostrarContingut/90]
+Política de privacitat
+[/dynamicItemPublic/mostrarContingut/91]
+Data i hora oficial de la Seu
+[/dynamicItemPublic/mostrarContingut/10]
+Identificació dels canals d'accés als serveis
+[/dynamicItemPublic/mostrarContingut/29]
+Butlletí del Consell General anterior al 2023
+[https://consellgeneral.3c-cloud.ad/000006/applications/Butlleti_Consell.NSF]
+Política de cookies
+[/dynamicItemPublic/mostrarContingut/34]
+© 2024 Consell General Principat d'Andorra
+Desenvolupat per
+L'informem que en aquest lloc web utilitzem cookies tant pròpies com de tercers per oferir un millor servei, d'acord amb els seus hàbits de navegació. Consulta la política de cookies [/contingutPublic/mostrar/politica-cookies]
+Rebutjar-les totes
+Acceptar-les totes

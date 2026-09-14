@@ -117,9 +117,20 @@ població pot rebre i els andorrans no**.
 - **Com s'apliquen aquestes penes, no se sap.** El corpus té el text i cap dada
   d'execució: quantes condemnes, de quina durada, quants arrestos de cap de
   setmana, quantes expulsions.
-- **La presó real no hi surt.** El Codi diu «establiment penitenciari especial o
-  unitat separada» i la **llei qualificada penitenciària** és
-  al recull, però el corpus encara no l'ha llegida.
+- ~~**La presó real no hi surt.** El Codi diu «establiment penitenciari especial
+  o unitat separada» i la **llei qualificada penitenciària** és al recull, però
+  el corpus encara no l'ha llegida.~~ — **`incorrecte` des del 2026-09-13: sí que
+  l'ha llegida.** [La llei penitenciària](./la-llei-penitenciaria.md) és al
+  corpus i en dona la presó per llista —**cel·les dignes, infermeria, cuina,
+  locutoris individuals, biblioteca, instal·lacions esportives, pati, sala de
+  reunions familiars i espais laborals** (art. 15.1)—, **vuit hores de descans
+  nocturn**, **una hora diària de passeig** per a qui no té règim semiobert, i la
+  norma que retrata el país: **la roba del centre «no pot ser distintiva de la
+  condició d'intern»** en les sortides a l'exterior. **I una porta que als estats
+  grans no caldria escriure**: Andorra **pot complir condemnes en un centre
+  estranger** per conveni internacional (art. 17.3). **El buit real, i segueix
+  obert, és un altre**: **quantes persones hi ha, en quin règim i per quant
+  temps.**
 - **Les 28 versions no s'han comparat.** Saber què ha canviat del Codi del 2005
   al d'avui demanaria llegir-ne els diffs, i això no s'ha fet.
 - **El llibre segon, amb els delictes concrets, queda per llegir.** Aquesta

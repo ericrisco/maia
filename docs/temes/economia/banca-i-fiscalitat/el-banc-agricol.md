@@ -73,8 +73,36 @@ Aquesta és una **clàusula de renda perpètua**: **el titular del monopoli guan
 tant si l'exercia com si no**. I el Consell **es feia soci del monopoli** en lloc
 de regular-lo.
 
-**Buit registrat, i important:** **quan i com es va acabar aquesta clàusula**,
-i si es va arribar a aplicar.
+**Buit registrat — `parcial`, revisat el 2026-09-13 contra el corpus mateix.**
+
+- **Quan s'acaba: el 1951**, quan cau l'exclusiva
+  ([l'oligopoli bancari](./loligopoli-bancari.md)). `font directa` d'aquell
+  article.
+- **Si es va arribar a aplicar: sí.** El mateix article diu que el **1949**
+  Crèdit Andorrà i la Caixa **«han d'abonar el 5% de les operacions al Consell
+  General, per garantir la clàusula d'exclusiva del Banc Agrícol»**. `font
+  directa` d'aquell article, **no de Cerqueda**.
+- **Continua obert:** **quant va recaptar**, i **si la meitat dels
+  concessionaris es va arribar a pagar mai**.
+
+**Les dues fonts del corpus no descriuen la mateixa clàusula.** `Divergència
+registrada, no arbitrada:`
+
+| | Cerqueda, 15a Diada Andorrana, 2002 ([font](../../../fonts/cerqueda-banca.md)) | Viquipèdia, «Andorra durant els Anys Daurats» ([font](../../../fonts/wikipedia-anys-daurats.md)) |
+| --- | --- | --- |
+| **Quan s'activa el 5%** | **Només si els concessionaris renunciaven** a l'exclusiva | **Amb l'exclusiva vigent**, i precisament **per garantir-la** |
+| **Qui el cobra** | **Meitat Consell, meitat concessionaris** | **El Consell General** |
+| **Època de la font** | **2002**, testimoni familiar del fundador | **contemporània**, síntesi enciclopèdica sense nota a peu |
+
+**Una aritmètica que el corpus sí que pot fer** — `deducció del corpus`, no
+lectura de cap font: Cerqueda diu que l'impost s'havia d'imposar **durant 25
+anys**; comptats des de la concessió del **27 de setembre de 1928**, s'haurien
+acabat el **1953**. **L'exclusiva va caure el 1951, dos anys abans.** Cap de les
+dues fonts no relaciona les dues dates.
+
+**Què caldria per resoldre la divergència:** el **text de la concessió del 27 de
+setembre de 1928**, que cap de les dues fonts no reprodueix.
+`Requereix font externa: l'acta del Consell General del 27-9-1928.`
 
 ## El banc
 
@@ -165,13 +193,65 @@ va ser **limitar-se a l'estalvi** i **eixamplar-se després**.
 Cerqueda ho atribueix a l'èxit del primer: la gent «**agraeix el fet de no haver
 de desplaçar-se fora per dipositar els seus estalvis**».
 
+### Tres dates per a la mateixa caixa
+
+**Buit obert el 2026-09-13 per l'auditoria interna del corpus**, no per una font
+nova. **El corpus dona tres dates d'arribada** per a una institució que **totes
+tres anomenen amb les mateixes paraules**:
+
+| Data | On ho diu el corpus | De quina font ve |
+| --- | --- | --- |
+| **Juny de 1935**, a casa Guillema, **només comptes d'estalvi** | aquesta fitxa, secció de dalt | **Cerqueda, 15a Diada Andorrana, 2002** ([font](../../../fonts/cerqueda-banca.md)), que ho recull també al camp `abast` |
+| **1949**, s'instal·la amb Crèdit Andorrà | [l'oligopoli bancari](./loligopoli-bancari.md) | **Viquipèdia, «Andorra durant els Anys Daurats»** ([font](../../../fonts/wikipedia-anys-daurats.md)) |
+| **1951**, hi entra com a **«primer banc estranger del país»** | ídem | ídem |
+
+**Que els tres noms designen la mateixa institució és `deducció del corpus`**:
+*Caixa d'Estalvis i Pensions per a la Vellesa* i *Caixa de Pensions per a la
+Vellesa i d'Estalvis* tenen els mateixos components en ordre diferent. **Cap
+document del corpus no ho afirma.**
+
+**Una reconciliació possible, marcada com a `hipòtesi del corpus` i no com a
+lectura de cap font:** el 1935 seria una **oficina limitada a l'estalvi** —que
+és exactament el que aquesta fitxa diu que el permís li deixava fer, perquè el
+Banc Agrícol tenia l'exclusiva—, el 1949 una **instal·lació plena** encara
+pagant el 5%, i el 1951 **l'entrada com a banc** un cop abolida l'exclusiva.
+**Cap font del corpus no encadena les tres.**
+
+**Què caldria per resoldre-ho:**
+`Requereix font externa: la cronologia d'implantació de la Caixa de Pensions a
+Andorra, o les actes del Consell General de 1935 i 1949.`
+
 ## Buits registrats
+
+> **Auditats contra la resta del corpus el 2026-09-13.** Cap font nova: només
+> documents que el corpus ja tenia i no havia connectat.
 
 1. **Qui eren André Boussac i Llorenç Gómez Quintero.** **Prioritari** — són els
    homes a qui Andorra va concedir l'aigua i la banca.
+   **`parcial` — 2026-09-13.** [FHASA](../energia-i-serveis/fhasa.md) ja els
+   descrivia i aquesta fitxa no ho recollia: **«representants d'un grup
+   hispanofrancès»**, amb una concessió **per explotar els rius durant 75
+   anys**. `font directa`: M. Jesús Lluelles i Larrosa, *«Els impactes de
+   FHASA»*, Debats de Recerca 12, SAC, 2020, p. 222-235.
+   **Continua obert:** **quin grup**, **d'on venia el capital**, i **què van
+   fer abans i després**.
+   **I una divergència de nom, registrada i no arbitrada:** aquesta fitxa diu
+   **«André Boussac»** i **«Gómez Quintero»**; FHASA diu **«Andreu Boussac»** i
+   **«Gómez Quintana»**. **Dos cognoms diferents per a la mateixa persona en el
+   mateix expedient de concessió.**
+   `Requereix font externa: el contracte de concessió de 1929 amb els noms tal
+   com hi consten.`
 2. **La Companyia d'Andorra** de 1928: qui hi havia, què va ser-ne.
+   **`obert` — confirmat el 2026-09-13:** el nom **no surt enlloc més del
+   corpus**.
 3. **Les actes del Consell General** de 1928-1930. **Font primària citada i no
    consultada.**
+   **`obert` — confirmat el 2026-09-13.** **Tres buits d'aquesta fitxa hi van a
+   parar** (aquest, la clàusula del 5% i les dates de la Caixa), i
+   [l'oligopoli bancari](./loligopoli-bancari.md) n'hi envia un quart —
+   **si l'acord del 1968 consta per escrit**. **És la font primària que més
+   deute té acumulat a la branca.**
+   `Requereix font externa: les actes del Consell General de 1928-1930.`
 4. ~~**Quan acaba** l'exclusiva bancària i la clàusula del 5%.~~ — **tancat el
    2026-09-13**: **el 1951**, i el que ve després és
    [l'oligopoli bancari](./loligopoli-bancari.md): **el 1957 els coprínceps
@@ -180,10 +260,25 @@ de desplaçar-se fora per dipositar els seus estalvis**».
 5. **Manel Cerqueda i Escaler**: la biografia. Consta que va crear **oficines de
    comerç internacional a Milà, Casablanca i Andorra** abans del banc. **Això és
    extraordinari per a un andorrà dels anys vint i el corpus no en sap res més.**
+   **`obert` — confirmat el 2026-09-13:** el nom només surt en aquesta fitxa i a
+   la seva [fitxa de font](../../../fonts/cerqueda-banca.md), i cap de les dues
+   no hi afegeix res.
 6. ~~**Què va ser del Banc Agrícol** — existeix encara, amb quin nom?~~ —
    **tancat**: **es va fusionar amb Banca Reig i el resultat és AndBank**
    ([l'oligopoli bancari](./loligopoli-bancari.md)).
 7. **La plaça Rebés** i **casa Guillema**.
+   **`parcial` — 2026-09-13.** El corpus ja hi situa **tres edificis en tres
+   fitxes separades**: el **banc** i **l'escola** (aquesta fitxa, records de
+   Cerqueda) i una **«clínica petita a l'actual plaça Rebés»** el **1968**
+   ([de les iguales a l'hospital](../../societat/sanitat/de-les-iguales-a-lhospital.md)),
+   `font directa`: ponència de Pallarés
+   ([font](../../../fonts/pallares-medicina-andorra.md)).
+   **Continua obert:** **casa Guillema**, que **no surt enlloc més del corpus**,
+   i qualsevol cronologia de la plaça.
+8. **Tres dates per a l'arribada de la Caixa** — 1935, 1949 i 1951.
+   **`obert`, buit nou obert el 2026-09-13** per l'auditoria interna. El detall
+   i la hipòtesi són a la secció **«Tres dates per a la mateixa caixa»**, més
+   amunt en aquesta mateixa fitxa.
 
 ## Related
 

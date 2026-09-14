@@ -19,6 +19,7 @@ el mateix cap vegada**, i que **encara és a l'Estatut de les professions**.
 | Quan | Qui és el saig | On consta |
 | --- | --- | --- |
 | **1266** | El **mesurador o saig de la Seu**, que cobra el dret de mesuratge de l'oli | [Els privilegis](../../historia/edat-mitjana/els-privilegis.md) |
+| **1305** | **Bernat de Lareyu, l'únic saig** que els andorrans han d'obeir, **nomenat dins d'un privilegi del comte de Foix** | [Un sol saig, i amb nom](../../historia/edat-mitjana/un-sol-saig-i-amb-nom.md) |
 | **1390** | **Ramon de l'Areny, saig comtal**, requerit sobre la restitució de la quèstia | [El Llibre de la Terra](../consell-general/el-llibre-de-la-terra.md) |
 | **abans de 1763** | **El nom antic dels batlles**: «los Batlles desde sa antiquitat se anomenassen **Saigs y en lleti Sagiones**» | [El Politar](../../historia/manual-digest/el-politar.md) |
 | **2023** | **Professional del dret investit de funció pública** que executa forçosament les resolucions judicials | [Llei 18/2023](../../../fonts/jurisprudencia-ad.md) |
@@ -98,10 +99,27 @@ Vegeu
    i el corpus tampoc la té.
 3. **Si hi ha continuïtat real o només reaparició del mot** entre el saig comtal
    del 1390 i el saig del 2023.
+   - **Afegit el 14-09-2026, i obre una pregunta nova.** El saig comtal del
+     **1305** es diu **Bernat de Lareyu** i el del **1390**, **Ramon de
+     l'Areny**: **el mateix nom de casa en el mateix ofici, a vuitanta-cinc anys
+     de distància**. **El corpus no afirma parentiu ni caràcter hereditari de
+     l'ofici**; registra la coincidència i que és comprovable contra el pergamí
+     E 459 i contra el Llibre de la Terra.
 4. **La Cambra de Saigs**: quants n'hi ha i des de quan.
 5. **Què vol dir *saig* en català general**, segons el diccionari normatiu. Sense
    això, la columna del fals amic està incompleta.
-6. **El nunci**: si el nom també és una represa d'un ofici antic.
+6. **El nunci**: si el nom també és una represa d'un ofici antic. — **`parcial`
+   des del 2026-09-13.** **Represa, probablement no: el nunci no s'ha aturat
+   mai.** El corpus el documenta **fent de càrrec comunal en un ritu viu fins al
+   1993** ([«Mort, qui t'ha mort?»](./mort-qui-tha-mort.md)), **fent
+   emplaçaments** al Codi de Procediment Civil vigent
+   ([tretze dies](./tretze-dies.md)), i **com a ajudant del saig**
+   ([l'execució forçosa](./lexecucio-forcosa.md)). **I el
+   [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) el
+   defineix com a «conserge de l'administració pública — *no només*
+   pregoner».** `deducció del corpus`: **a diferència del saig, que desapareix i
+   torna, el nunci té continuïtat documentada.** **Cap font no ho afirma amb
+   aquestes paraules.**
 
 ## Related
 

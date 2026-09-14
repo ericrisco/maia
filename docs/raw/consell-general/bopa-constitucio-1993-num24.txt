@@ -1,0 +1,834 @@
+FORA_DEL_CORPUS — còpia de consulta normativa, no exportació de dataset
+Font: BOPA24,any5,capçalera4-05-1993,p.448–458;peça7586
+URL: https://bopadocuments.blob.core.windows.net/bopa-documents/005024/pdf/7586.pdf
+Consulta:13-09-2026; condicions textuals BOPA, no gràfics/maquetació.
+Extracció: pdftotext -layout, salts de pàgina i tres columnes conservats.
+Lectura: articles50–57 complets,p.452(PDF5),text i render;final i signatures,p.458(PDF11),text i render.
+També p.448 en text i peces veïnes49,58,fragment59; no tota la Constitució.
+Dates diferenciades: capçalera4-05-1993; promulgació al peu28-04-1993.
+No s'infereix aquí una data d'entrada en vigor de tota la història de publicació.
+
+448                                       Butlletí Oficial del Principat d’Andorra                                Núm. 24 - any 5 - 4.5.1993
+
+
+                            Constitució del Principat d’Andorra
+
+
+
+                                                                                                    del Principat d’Andorra, i no poden ésser
+Constitució                                      Títol I                                            modificats o derogats per les lleis.
+del Principat d’Andorra                          De la sobirania d’Andorra
+                                                 Article 1                                          Títol II
+                                                   1. Andorra és un Estat independent, de
+Preàmbul                                         Dret, Democràtic i Social. La seva deno-           Dels drets i llibertats
+                                                 minació oficial és Principat d’Andorra.
+  El Poble Andorrà, amb plena llibertat i                                                           Capítol I. Principis generals
+independència, i en exercici de la seva             2. La Constitució proclama com a prin-
+pròpia sobirania,                                cipis inspiradors de l’acció de l’Estat an-        Article 4
+                                                 dorrà el respecte i la promoció de la                 La Constitució reconeix que la dignitat
+   Conscient de la necessitat d’adequar          llibertat, la igualtat, la justícia, la toleràn-   humana és intangible i, en conseqüència,
+l’estructura institucional d’Andorra a les       cia, la defensa dels drets humans i la             garanteix els drets inviolables i impres-
+noves circumstàncies que comporta                dignitat de la persona.                            criptibles de la persona, els quals consti-
+l’evolució de l’entorn geogràfic, històric i                                                        tueixen el fonament de l’ordre polític, la
+sòcio-cultural en què es troba situada,             3. La sobirania resideix en el Poble An-
+                                                 dorrà, que l’exerceix per mitjà de les di-         pau social i la justícia.
+així com de la necessitat de regular les
+relacions que, dins d’aquest nou marc            ferents classes de participació i de les           Article 5
+jurídic, hauran de tenir unes institucions       institucions que estableix aquesta Cons-             La Declaració Universal dels Drets Hu-
+que troben els seus orígens en els Pareat-       titució.                                           mans és vigent a Andorra.
+ges,                                               4. El règim polític d’Andorra és el Co-
+                                                 principat parlamentari.                            Article 6
+   Convençut de la conveniència de do-                                                                 1. Totes les persones són iguals davant
+tar-se de tots els mecanismes que han de           5. Andorra està integrada per les Parrò-         la llei. Ningú no pot ésser discriminat per
+permetre tenir la seguretat jurídica en          quies de Canillo, Encamp, Ordino, La               raó de naixement, raça, sexe, origen, re-
+l’exercici d’uns drets fonamentals de la         Massana, Andorra la Vella, Sant Julià de           ligió, opinió, o qualsevol altra condició
+persona que, si bé sempre han estat pre-         Lòria i Escaldes-Engordany.                        personal o social.
+sents i respectats en el tarannà de la
+societat andorrana, no es beneficiaven           Article 2                                             2. Els poders públics han de crear les
+d’una regulació material concreta,                  1. La llengua oficial de l’Estat és el ca-      condicions per tal que la igualtat i la
+                                                 talà.                                              llibertat dels individus siguin reals i efec-
+   Decidit a perseverar en la promoció de                                                           tives.
+valors com la llibertat, la justícia, la de-       2. L’himne nacional, la bandera i l’es-
+mocràcia i el progrés social, i a mantenir       cut d’Andorra són els tradicionals.                Capítol II. De la nacionalitat
+i enfortir unes relacions harmòniques               3. Andorra la Vella és la capital de l’Es-      andorrana
+d’Andorra amb la resta del món, i espe-          tat.
+cialment amb els països veïns, sobre la                                                             Article 7
+base del respecte mutu, de la convivèn-          Article 3                                              1. La condició de nacional andorrà, ai-
+cia i de la pau,                                   1. La present Constitució, que és la             xí com les seves conseqüències jurídi-
+                                                 norma suprema de l’ordenament jurídic,             ques, s’adquireix, es conserva i es perd
+   Amb la voluntat d’aportar a totes les
+                                                 vincula tots els poders públics i els ciuta-       d’acord amb el que es reguli en Llei Qua-
+causes comunes de la humanitat la seva
+                                                 dans.                                              lificada.
+col.laboració i el seu esforç, i molt espe-
+cialment quan es tracti de preservar la             2. La Constitució garanteix els princi-            2. L’adquisició o el manteniment d’una
+integritat de la Terra i de garantir per a les   pis de legalitat, de jerarquia, de publicitat      nacionalitat diferent de l’andorrana im-
+generacions futures un medi de vida ade-         de les normes jurídiques, de no retroac-           plicarà la pèrdua d’aquesta en els termes
+quat,                                            tivitat de les disposicions restrictives de        i terminis fixats per la llei.
+  Amb el desig que el lema “virtus, unita,       drets individuals o que comportin un
+                                                 efecte o estableixin una sanció desfavo-           Capítol III. Dels drets fonamentals
+fortior”, que ha presidit el camí pacífic                                                           de la persona i de les llibertats
+d’Andorra a través de més de set-cents           rables, de seguretat jurídica, de respon-
+                                                 sabilitat dels poders públics i                    públiques
+anys d’història, segueixi essent una divi-
+sa plenament vigent i orienti sempre les         d’interdicció de tota arbitrarietat.
+                                                                                                    Article 8
+actuacions dels andorrans,                         3. Andorra incorpora al seu ordena-                1. La Constitució reconeix el dret a la
+   Aprova sobiranament la present Cons-          ment els principis de dret internacional           vida i la protegeix plenament en les seves
+titució.                                         públic universalment reconeguts.                   diferents fases.
+                                                    4. Els tractats i acords internacionals            2. Tota persona té dret a la integritat
+                                                 s’integren en l’ordenament jurídic a partir        física i moral. Ningú no pot ésser sotmès
+                                                 de la seva publicació en el Butlletí Oficial
+Núm. 24 - any 5 - 4.5.1993                Butlletí Oficial del Principat d’Andorra                                                           449
+
+
+
+
+a tortures o a penes i tractes cruels, inhu-     únicament a les limitacions establertes          requereix la comunicació prèvia a l’auto-
+mans o degradants.                               per la llei que siguin necessàries per pro-      ritat i no pot impedir la lliure circulació
+                                                 tegir la seguretat, l’ordre, la salut o la       de persones i béns.
+  3. Es prohibeix la pena de mort.
+                                                 moral públiques o els drets i les llibertats
+                                                 fonamentals de les altres persones.              Article 17
+Article 9
+                                                                                                     Es reconeix el dret d’associació per a
+   1. Totes les persones tenen dret a la            3. La Constitució garanteix a l’Església      la consecució de fins lícits. La llei establi-
+llibertat i a la seguretat i només en poden      Catòlica l’exercici lliure i públic de les       rà, a efectes de publicitat, un Registre de
+ésser privades per les causes i d’acord          seves activitats i el manteniment de les         les associacions que es constitueixin.
+amb els procediments establerts a la             relacions de col.laboració especial amb
+Constitució i les lleis.                         l’Estat d’acord amb la tradició andorrana.       Article 18
+   2. La detenció governativa no pot du-                                                             Es reconeix el dret de creació i funcio-
+                                                    La Constitució reconeix a les entitats de
+rar més del temps necessari per dur a                                                             nament d’organitzacions empresarials,
+                                                 l’Església Catòlica que tenen personalitat
+terme les indagacions tendents a l’escla-                                                         professionals i sindicals. Sense perjudici
+                                                 jurídica d’acord amb les seves pròpies
+riment del cas i mai no pot excedir de                                                            de la seva vinculació amb organismes
+                                                 normes la plena capacitat jurídica dins de
+quaranta-vuit hores sense que el detingut                                                         internacionals, aquestes organitzacions
+                                                 l’àmbit de l’ordenament general andorrà.
+sigui posat a disposició de l’autoritat ju-                                                       han d’ésser d’àmbit andorrà, disposar
+dicial.                                          Article 12                                       d’autonomia pròpia sense dependències
+                                                    Es reconeixen les llibertats d’expres-        orgàniques estrangeres i funcionar de-
+   3. La llei establirà un procediment per-                                                       mocràticament.
+                                                 sió, de comunicació i d’informació. La llei
+què tot detingut pugui acudir a un òrgan
+                                                 regularà el dret de rèplica, el dret de
+judicial, a fi que aquest es pronunciï so-                                                        Article 19
+                                                 rectificació i el secret professional. Que-
+bre la legalitat de la seva detenció. Així                                                          Els treballadors i els empresaris tenen
+                                                 da prohibida la censura prèvia o qualse-
+mateix, crearà el procediment per resta-                                                          dret a la defensa dels seus interessos
+                                                 vol altre mitjà de control ideològic per
+blir els drets fonamentals lesionats de                                                           econòmics i socials. La llei regularà les
+                                                 part dels poders públics.
+tota persona privada de llibertat.                                                                condicions d’exercici d’aquest dret per
+   4. Ningú no pot ésser condemnat o             Article 13                                       garantir el funcionament dels serveis es-
+sancionat per accions o omissions que en            1. La llei regularà la condició civil de      sencials de la comunitat.
+el moment de produir-se no constituei-           les persones i les formes de matrimoni.
+                                                                                                  Article 20
+xin delicte, falta o infracció administrati-     Es reconeixen els efectes civils del matri-
+                                                                                                     1. Tota persona té dret a l’educació, la
+va.                                              moni canònic.
+                                                                                                  qual s’ha d’orientar vers el desenvolupa-
+                                                   2. Els poders públics promouran una            ment ple de la personalitat humana i de
+Article 10
+                                                 política de protecció de la família, ele-        la dignitat, tot enfortint el respecte a la
+  1. Es reconeix el dret a la jurisdicció, a
+                                                 ment bàsic de la societat.                       llibertat i als drets fonamentals.
+obtenir d’aquesta una decisió fonamen-
+tada en Dret, i a un procés degut, subs-            3. Els cònjuges tenen els mateixos             2. Es reconeix la llibertat d’ensenya-
+tanciat per un tribunal imparcial                drets i obligacions. Els fills són iguals        ment i de creació de centres docents.
+predeterminat per la llei.                       davant de la llei, amb independència de
+                                                                                                      3. Els pares tenen dret a escollir el tipus
+                                                 la seva filiació.
+   2. Es garanteix a tothom el dret a la                                                          d’educació que hagin de rebre els seus
+defensa i a l’assistència tècnica d’un lle-      Article 14                                       fills. Igualment, tenen dret a una educa-
+trat, a un judici de durada raonable, a la          Es garanteix el dret a la intimitat, a        ció moral o religiosa per a llurs fills
+presumpció d’innocència, a ésser infor-          l’honor i a la pròpia imatge. Tothom té          d’acord amb les conviccions pròpies.
+mat de l’acusació, a no confessar-se cul-        dret a ésser protegit per les lleis contra les
+pable, a no declarar en contra d’ell                                                              Article 21
+                                                 intromissions il.legítimes en la seva vida
+mateix i, en els processos penals, al re-                                                           1. Tothom té dret a circular lliurement
+                                                 privada i familiar.
+curs.                                                                                             pel territori nacional, i a entrar i sortir del
+                                                 Article 15                                       país d’acord amb les lleis.
+  3. La llei regularà els supòsits en què,
+                                                    Es garanteix la inviolabilitat del domi-       2. Els nacionals i els estrangers legal-
+per garantir el principi d’igualtat, la justí-
+                                                 cili, al qual no es pot entrar sense el          ment residents tenen dret a fixar lliure-
+cia ha d’ésser gratuïta.
+                                                 consentiment del titular o sense mana-           ment la seva residència dins Andorra.
+Article 11                                       ment judicial, excepte en el cas de delicte
+   1. La Constitució garanteix la llibertat      flagrant. Es garanteix igualment el secret       Article 22
+ideològica, religiosa i de culte, i ningú no     de les comunicacions, llevat el cas de              La no renovació de la condició de resi-
+pot ésser obligat a declarar o a manifes-        manament judicial motivat.                       dent o l’expulsió de la persona legalment
+tar-se sobre la seva ideologia, religió o                                                         resident només es podrà acordar per les
+                                                 Article 16                                       causes i segons els termes previstos en la
+creences.
+                                                    Es reconeixen els drets de reunió i de        llei, en virtut de resolució judicial ferma,
+  2. La llibertat de manifestar la pròpia        manifestació pacífiques amb finalitats lí-
+religió o les pròpies creences és sotmesa        cites. L’exercici del dret de manifestació
+450                                      Butlletí Oficial del Principat d’Andorra                              Núm. 24 - any 5 - 4.5.1993
+
+
+
+
+si la persona interessada exerceix el dret     a la limitació raonable de la jornada labo-      llei i fonamentat en els principis de gene-
+a la jurisdicció.                              ral, al repòs setmanal i a les vacances          ralitat i de distribució equitativa de les
+                                               pagades.                                         càrregues fiscals.
+Article 23
+   Tothom amb interès directe té dret a        Article 30                                       Article 38
+dirigir peticions als poders públics en la        Es reconeix el dret a la protecció de la         L’Estat podrà crear per llei formes de
+forma i amb els efectes previstos per la       salut i a rebre prestacions per atendre          servei cívic per al compliment de finali-
+llei.                                          altres necessitats personals. Amb aques-         tats d’interès general.
+                                               tes finalitats, l’Estat garantirà un sistema
+Capítol IV. Dels drets polítics dels           de Seguretat Social.                             Capítol VII. De les garanties dels
+andorrans                                                                                       drets i llibertats
+                                               Article 31
+Article 24                                        És funció de l’Estat vetllar per la utilit-   Article 39
+  Tots els andorrans majors d’edat, en         zació racional del sòl i de tots els recursos       1. Els drets i llibertats reconeguts en els
+ple ús dels seus drets, gaudeixen del dret     naturals, amb la finalitat de garantir a         capítols III i IV del present Títol vinculen
+de sufragi.                                    tothom una qualitat de vida digna i de           immediatament els poders públics a títol
+                                               restablir i mantenir per a les generacions       de dret directament aplicable. El seu con-
+Article 25                                     futures un equilibri ecològic racional en        tingut no pot ésser limitat per la llei i és
+   Tots els andorrans tenen dret a accedir     l’atmosfera, l’aigua i la terra i de defensar    protegit pels Tribunals.
+en condicions d’igualtat a les funcions i      la flora i la fauna autòctones.
+als càrrecs públics, amb els requisits que                                                        2. Els estrangers legalment residents a
+determinin les lleis. L’exercici de càrrecs    Article 32                                       Andorra poden exercir lliurement els
+institucionals queda reservat als andor-          L’Estat pot intervenir en l’ordenació del     drets i les llibertats del capítol III d’aquest
+rans, excepte en el que prevegin aquesta       sistema econòmic, mercantil, laboral i           Títol.
+Constitució o els tractats internacionals.     financer per fer possible, en el marc de            3. Els drets del capítol V conformen la
+                                               l’economia de mercat, el desenvolupa-            legislació i l’acció dels poders públics,
+Article 26                                     ment equilibrat de la societat i el benestar     però només poden ésser invocats en els
+   Es reconeix als andorrans el dret de        general.                                         termes fixats per l’ordenament jurídic.
+lliure creació de partits polítics. El seu
+funcionament i organització han d’ésser        Article 33                                       Article 40
+democràtics i les seves actuacions, con-          Els poders públics han de promoure               La regulació de l’exercici dels drets
+formes a la llei. La suspensió de les seves    les condicions necessàries per fer efectiu       reconeguts en aquest Títol només es pot
+activitats i la seva dissolució hauran de      el dret de tothom a gaudir d’un habitatge        dur a terme per llei. Els drets dels capítols
+ser efectuades pels òrgans judicials.          digne.                                           III i IV s’han de regular mitjançant lleis
+                                                                                                qualificades.
+Capítol V. Dels drets i principis              Article 34
+econòmics, socials i culturals                   L’Estat garantirà la conservació, pro-         Article 41
+                                               moció i difusió del patrimoni històric,            1. Els drets i llibertats reconeguts en els
+Article 27                                     cultural i artístic d’Andorra.                   capítols III i IV són tutelats pels tribunals
+   1. Es reconeix el dret a la propietat                                                        ordinaris per mitjà d’un procediment ur-
+privada i a l’herència, sense altres limita-   Article 35                                       gent i preferent regulat per la llei, que, en
+cions que les derivades de la funció so-         La llei garantirà i els poders públics         qualsevol cas, se substanciarà en dues
+cial de la propietat.                          defensaran els drets dels consumidors i          instàncies.
+                                               dels usuaris.
+   2. Ningú no pot ésser privat dels seus                                                          2. La llei crearà un procediment excep-
+béns o drets, si no és per causa justificada   Article 36                                       cional d’empara davant el Tribunal Cons-
+d’interès públic, mitjançant la justa in-        L’Estat pot crear mitjans de comunica-         titucional contra els actes dels poders
+demnització i d’acord amb el procedi-          ció social. D’acord amb els principis de         públics que violin el contingut essencial
+ment establert per la llei.                    participació i pluralisme, una llei en re-       dels drets esmentats en l’apartat anterior,
+                                               gularà l’organització i el control per part      llevat el supòsit previst a l’article 22.
+Article 28
+                                               del Consell General.
+   Es reconeix la llibertat d’empresa en el                                                     Article 42
+marc de l’economia de mercat i conforme        Capítol VI. Dels deures dels                        1. Una Llei Qualificada regularà els es-
+a les lleis.                                   andorrans i dels estrangers                      tats d’alarma i d’emergència. El primer
+                                                                                                podrà ser declarat pel Govern en casos
+Article 29                                     Article 37                                       de catàstrofes naturals, per un termini de
+  Tota persona té dret al treball, a la          Totes les persones físiques i jurídiques       quinze dies i amb notificació al Consell
+promoció per mitjà del treball, a una          contribuiran a les despeses públiques se-        General. El segon també serà declarat pel
+remuneració que garanteixi al treballa-        gons la seva capacitat econòmica, mitjan-        Govern per un termini de trenta dies en
+dor i a la seva família una existència         çant un sistema fiscal just, establert per la    els supòsits d’interrupció del funciona-
+conforme a la dignitat humana, així com
+Núm. 24 - any 5 - 4.5.1993                 Butlletí Oficial del Principat d’Andorra                                                         451
+
+
+
+
+ment normal de la convivència democrà-            Article 45                                     de Govern. En aquest supòsit, els actes,
+tica i requerirà l’autorització prèvia del          1. Els Coprínceps, amb la contrasigna-       normes o decisions afectats entraran en
+Consell General. Tota pròrroga d’aquests          tura del Cap de Govern o, en el seu cas,       vigor transcorreguts els dits terminis amb
+estats requereix necessàriament l’apro-           del Síndic General, que n’assumeixen la        la signatura de l’altre Copríncep i la con-
+vació del Consell General.                        responsabilitat política:                      trasignatura del Cap de Govern o, en el
+                                                                                                 seu cas, del Síndic General.
+    2. Durant l’estat d’alarma es pot limitar       a) Convoquen les eleccions generals
+l’exercici dels drets reconeguts en els             d’acord amb la Constitució.                  Article 46
+articles 21 i 27. Durant l’estat d’emergèn-         b) Convoquen referèndum d’acord                1. Són actes de lliure decisió dels Co-
+cia poden ésser suspesos els drets reco-            amb els articles 76 i 106 de la Constitu-    prínceps:
+llits en els articles 9.2, 12, 15, 16, 19 i 21.     ció.
+L’aplicació d’aquesta suspensió als drets           c) Nomenen el Cap de Govern segons             a) L’exercici conjunt de la prerrogativa
+continguts en els articles 9.2 i 15 s’ha de         el procediment previst en la Constitu-         de gràcia.
+dur a terme sempre sota control judicial            ció.                                           b) La creació i l’estructuració dels ser-
+i sense perjudici del procediment de pro-           d) Signen el decret de dissolució del          veis que considerin necessaris per a la
+tecció establert a l’article 9.3.                   Consell General segons el procedi-             realització de les seves funcions insti-
+                                                    ment de l’article 71 de la Constitució.        tucionals, el nomenament dels seus
+                                                    e) Acrediten els representants diplo-          titulars i el seu acreditament a tots els
+                                                    màtics d’Andorra a l’estranger, i els re-      efectes.
+Títol III                                           presentants estrangers a Andorra               c) La designació dels membres del
+Dels Coprínceps                                     s’acrediten davant de cadascun d’ells.         Consell Superior de la Justícia, d’acord
+                                                    f) Nomenen els titulars de les altres          amb l’article 89.2 de la Constitució.
+Article 43                                          institucions de l’Estat d’acord amb la         d) El nomenament dels membres del
+  1. D’acord amb la tradició institucional          Constitució i les lleis.                       Tribunal Constitucional, d’acord amb
+d’Andorra els Coprínceps són, conjunta-             g) Sancionen i promulguen les lleis se-        l’article 96.1 de la Constitució.
+ment i indivisa, el Cap de l’Estat, i n’assu-       gons l’article 63 de la present Constitu-      e) El requeriment de dictamen previ
+meixen la representació més alta.                   ció.                                           d’inconstitucionalitat de les lleis.
+                                                    h) Manifesten el consentiment de l’Es-         f) El requeriment del dictamen sobre la
+   2. Els Coprínceps, institució sorgida
+                                                    tat per a obligar-se per mitjà dels trac-      inconstitucionalitat dels tractats inter-
+dels Pareatges i de la seva evolució his-
+                                                    tats internacionals, en els termes             nacionals, previ a la seva ratificació.
+tòrica són, a títol personal i exclusiu, el
+                                                    previstos en el capítol III del Títol IV       g) La interposició de conflicte davant
+Bisbe d’Urgell i el President de la Repú-
+blica Francesa. Llurs poders són iguals i           de la Constitució.                             del Tribunal Constitucional per raó
+                                                    i) Realitzen els altres actes que expres-      d’afectació de llurs funcions institucio-
+derivats de la present Constitució. Cadas-
+                                                    sament els atribueix la Constitució.           nals, en els termes dels articles 98 i 103
+cun d’ells jura o promet exercir les seves
+funcions d’acord amb la present Consti-                                                            de la Constitució.
+                                                     2. Les disposicions previstes en els          h) L’atorgament de l’acord per a
+tució.                                            apartats g) i h) d’aquest article han d’és-      l’adopció del text d’un tractat interna-
+                                                  ser presentades simultàniament a un i            cional, d’acord amb les previsions de
+Article 44
+   1. Els Coprínceps són símbol i garantia        altre Copríncep que han de sancionar-les         l’article 66, abans de la seva aprovació
+                                                  i promulgar-les o manifestar el consenti-        en seu parlamentària.
+de la permanència i continuïtat d’Andor-
+                                                  ment de l’Estat segons el cas, i n’han
+ra, així com de la seva independència i                                                             2. Els actes derivats dels articles 45 i 46
+del manteniment de l’esperit paritari en          d’ordenar la publicació no abans de vuit
+                                                  dies i no més tard de quinze.                  són exercits personalment pels Coprín-
+les tradicionals relacions d’equilibri amb                                                       ceps, llevat de les facultats previstes a les
+els Estats veïns. Manifesten el consenti-            En aquest període els Coprínceps, con-      lletres e), f), g) i h) del present article, que
+ment de l’Estat andorrà a obligar-se inter-       juntament o separadament, poden adre-          poden ésser realitzats per delegació ex-
+nac ionalment, d’acord amb la                     çar-se al Tribunal Constitucional amb          pressa.
+Constitució.                                      missatge raonat a fi que aquest es pro-
+   2. Els Coprínceps arbitren i moderen el        nunciï sobre la seva constitucionalitat. Si    Article 47
+                                                  la resolució fos positiva l’acte pot ésser        El Pressupost General del Principat ha
+funcionament dels poders públics i de les
+                                                  sancionat amb la signatura d’almenys           d’assignar una quantitat igual a cada Co-
+institucions, i a iniciativa ja sigui de ca-
+dascú d’ells, ja sigui del Síndic General o       d’un dels Coprínceps.                          príncep, destinada al funcionament de
+                                                                                                 llurs serveis, de la qual poden disposar
+del Cap de Govern, són informats regu-               3. Quan concorrin circumstàncies que
+                                                                                                 lliurement.
+larment dels afers de l’Estat.                    impedeixin per part d’un dels Coprín-
+  3. Llevat dels casos previstos en la pre-       ceps la formalització dels actes enume-        Article 48
+                                                  rats en l’apartat 1 del present article dins     Cada Copríncep nomena un represen-
+sent Constitució, els Coprínceps no estan
+                                                  dels terminis constitucionalment previs-       tant personal a Andorra.
+subjectes a responsabilitat. Dels actes
+dels Coprínceps se’n fan responsables             tos, el seu representant ho ha de notificar
+                                                  al Síndic General o, en el seu cas, al Cap
+qui els contrasignen.
+452                                      Butlletí Oficial del Principat d’Andorra                           Núm. 24 - any 5 - 4.5.1993
+
+
+
+
+Article 49                                     sotmesos a mandat imperatiu de cap clas-       ra que respecti la composició paritària de
+  En cas de vacança d’un dels Coprín-          se. Llur vot és personal i indelegable.        la Cambra.
+ceps la present Constitució reconeix la
+                                                  2. Els Consellers són irresponsables          4. Els Consellers poden agrupar-se en
+validesa dels mecanismes de substitució
+                                               pels vots i opinions manifestats en l’exer-    grups parlamentaris. El Reglament pre-
+previstos en els seus ordenaments res-
+                                               cici de les seves funcions.                    veurà els drets i deures dels Consellers i
+pectius, a fi que no s’interrompi el fun-
+                                                                                              dels grups parlamentaris, així com l’esta-
+cionament normal de les institucions              3. Al llarg del seu mandat els Conse-
+                                                                                              tut dels Consellers no adscrits.
+andorranes.                                    llers no podran ésser detinguts ni retin-
+                                               guts, excepte en el cas de delicte flagrant.   Article 57
+                                               Llevat d’aquest cas, correspon decidir so-       1. Per prendre vàlidament acords, el
+                                               bre la seva detenció, inculpació i proces-     Consell General ha de trobar-se reunit,
+Títol IV                                       sament al Tribunal de Corts en Ple i el seu    amb l’assistència mínima de la meitat dels
+Del Consell General                            judici, al Tribunal Superior.                  Consellers.
+Article 50                                     Article 54                                       2. Els acords són vàlids quan han estat
+  El Consell General, que expressa la             El Consell General aprova i modifica el     aprovats per la majoria simple dels Con-
+representació mixta i paritària de la po-      seu Reglament per majoria absoluta de la       sellers presents, sense perjudici de les
+blació nacional i de les set Parròquies,       Cambra, fixa el seu pressupost i regula        majories especials determinades per la
+representa el poble andorrà, exerceix la       l’estatut del personal al seu servei.          Constitució.
+potestat legislativa, aprova els pressu-                                                         3. Les lleis qualificades previstes per la
+postos de l’Estat i impulsa i controla l’ac-   Article 55
+                                                 1. La Sindicatura és l’òrgan rector del      Constitució requereixen per a la seva
+ció política del Govern.                                                                      aprovació el vot final favorable de la
+                                               Consell General.
+                                                                                              majoria absoluta dels membres del Con-
+Capítol I. De l’organització del                  2. El Consell General es reuneix en         sell General, llevat de les Lleis Qualifica-
+Consell General                                sessió constitutiva quinze dies després        des electoral i de referèndum, de
+                                               de la proclamació dels resultats electorals    competències comunals, i de transferèn-
+Article 51
+                                               i elegeix, en la mateixa sessió, el Síndic     cies als Comuns, que requereixen per a
+  1. Els Consellers són elegits per sufragi
+                                               General, el Subsíndic General i, si és el      la seva aprovació el vot final favorable de
+universal, lliure, igual, directe i secret,
+                                               cas, els altres membres que reglamentà-        la majoria absoluta dels Consellers elegits
+per un termini de quatre anys. El mandat
+                                               riament puguin compondre la Sindicatu-         en circumscripció parroquial i de la ma-
+dels Consellers acaba quatre anys des-
+                                               ra.                                            joria absoluta dels Consellers elegits en
+prés de la seva elecció o el dia de la
+dissolució del Consell General.                  3. El Síndic i Subsíndic Generals no         circumscripció nacional.
+                                               poden exercir el seu càrrec més de dos
+   2. Les eleccions s’han de celebrar entre                                                   Capítol II. Del procediment
+                                               mandats consecutius complets.
+els trenta i quaranta dies següents a la                                                      legislatiu
+finalització del mandat dels Consellers.       Article 56
+                                                  1. El Consell General es reuneix en         Article 58
+  3. Són electors i elegibles tots els an-
+                                               sessions tradicionals, ordinàries i ex-          1. La iniciativa legislativa correspon al
+dorrans que estiguin en el ple ús dels
+                                               traordinàries, convocades segons el que        Consell General i al Govern.
+seus drets polítics.
+                                               es prevegi en el Reglament. Hi haurà dos         2. Tres Comuns conjuntament o una
+  4. Una Llei Qualificada regularà el rè-      períodes ordinaris de sessions al llarg de     desena part del cens electoral nacional
+gim electoral i preveurà les causes d’ine-     l’any, determinats pel Reglament. Les          poden presentar proposicions de llei al
+legibilitat i d’incompatibilitat dels          sessions del Consell General són públi-        Consell General.
+Consellers.                                    ques, llevat que el mateix Consell Gene-
+                                               ral acordi el contrari per majoria absoluta       3. Els projectes i les proposicions de
+Article 52                                                                                    llei han d’ésser examinats pel Ple i per les
+   El Consell General es compon d’un           dels seus membres.
+                                                                                              comissions en la forma que determini el
+mínim de vint-i-vuit i d’un màxim de              2. El Consell General funciona en Ple i     Reglament.
+quaranta-dos Consellers Generals, la           en comissions. El Reglament preveurà la
+meitat dels quals s’elegeixen a raó d’un       formació de les comissions legislatives        Article 59
+nombre igual per cadascuna de les set          de manera que siguin representatives de           Mitjançant llei, el Consell General pot
+Parròquies i l’altra meitat s’elegeix per      la composició de la Cambra.                    delegar l’exercici de la funció legislativa
+circumscripció nacional.                                                                      al Govern, la qual en cap cas podrà ésser
+                                                  3. El Consell General nomena una Co-
+                                                                                              subdelegada. La llei de delegació deter-
+Article 53                                     missió Permanent per vetllar pels poders       mina la matèria delegada, els principis i
+  1. Els membres del Consell General te-       de la Cambra quan aquesta estigui dissol-
+                                                                                              les directrius sota els quals haurà de re-
+nen la mateixa naturalesa representativa,      ta o en el període entre sessions. La Co-
+                                                                                              gir-se el corresponent decret legislatiu
+són iguals en drets i en deures i no estan     missió Permanent, sota la presidència del      del Govern, així com el termini dintre del
+                                               Síndic General, estarà formada de mane-
+                                                                                              qual haurà d’ésser exercida. L’autoritza-
+Núm. 24 - any 5 - 4.5.1993              Butlletí Oficial del Principat d’Andorra                                                       453
+
+
+
+
+ció preveurà les formes parlamentàries        ze dies següents, la sancionin, promul-          dels membres nomenats pel Govern, un
+de control de la legislació delegada.         guin i n’ordenin la publicació en el But-        membre nomenat per cada Copríncep.
+                                              lletí Oficial del Principat d’Andorra.
+Article 60                                                                                       3. Per a l’adopció del text del tractat
+   1. En casos d’extrema urgència i neces-                                                     caldrà l’acord dels membres nomenats
+                                              Capítol III. Dels tractats
+sitat, el Govern podrà presentar al Con-                                                       pel Govern i de cadascun dels membres
+                                              internacionals
+sell General un text articulat perquè sigui                                                    nomenats pels Coprínceps.
+aprovat com a llei, en una votació de         Article 64
+                                                                                               Article 67
+totalitat, en el termini de quaranta-vuit        1. Els tractats internacionals han d’és-
+                                                                                                  Els Coprínceps són informats dels al-
+hores.                                        ser aprovats pel Consell General per ma-
+                                                                                               tres projectes de tractats i d’acords inter-
+                                              joria absoluta de la Cambra en els casos
+    2. Les matèries reservades a Llei Qua-                                                     nacionals i, a petició del Govern, poden
+                                              següents:
+lificada no poden ésser objecte de dele-                                                       ésser associats a la negociació si així ho
+gació legislativa ni del procediment            a) Tractats que vinculin l’Estat a una         exigeix l’interès nacional d’Andorra,
+previst a l’apartat 1 d’aquest article.         organització internacional.                    abans de la seva aprovació en seu parla-
+                                                b) Tractats relatius a la seguretat inte-      mentària.
+Article 61                                      rior i a la defensa.
+  1. La iniciativa del projecte de Llei del     c) Tractats relatius al territori d’Andorra.   Capítol IV. De les relacions del
+Pressupost General correspon exclusiva-         d) Tractats que afectin els drets fona-        Consell General amb el Govern
+ment al Govern, que ha de presentar-lo          mentals de la persona regulats al Títol II.
+per a l’aprovació parlamentària, com a          e) Tractats que impliquin la creació de        Article 68
+mínim, dos mesos abans de l’expiració           noves obligacions per a la Hisenda                1. Després de cada renovació del Con-
+dels pressupostos anteriors.                    Pública.                                       sell General, en la primera sessió, que se
+                                                f) Tractats que creïn o modifiquin dis-        celebrarà en el termini de vuit dies des-
+  2. El projecte de Llei del Pressupost
+                                                posicions de naturalesa legislativa o          prés de la sessió constitutiva, es procedi-
+General té preferència en la seva tramita-                                                     rà a l’elecció del Cap de Govern.
+ció respecte a d’altres qüestions i es tra-     que requereixin mesures legislatives
+mitarà d’acord amb un procediment               per a llur execució.                             2. Els candidats han d’ésser presentats
+propi, regulat en el Reglament.                 g) Tractats que versin sobre representa-       per una cinquena part dels membres del
+                                                ció diplomàtica o funcions consulars, so-      Consell General. Cada Conseller només
+   3. Si la Llei del Pressupost General no      bre cooperació judicial o penitenciària.       pot avalar una candidatura.
+és aprovada abans del primer dia de
+l’exercici econòmic corresponent, es             2. El Govern informarà el Consell Ge-           3. Els candidats han de presentar el seu
+considera automàticament prorrogat el         neral i els Coprínceps de la conclusió dels      programa i resultarà elegit aquell que,
+pressupost de l’exercici anterior fins a      altres acords internacionals.                    després d’un debat, en una primera vo-
+l’aprovació del nou.                             3. Per a la denúncia dels tractats inter-     tació pública i oral obtingui la majoria
+                                              nacionals que afectin les matèries enu-          absoluta del Consell General.
+  4. La Llei del Pressupost General no
+pot crear tributs.                            merades a l’epígraf 1 també caldrà                  4. En el cas que fos necessària una
+                                              l’aprovació prèvia de la majoria absoluta        segona votació tan sols poden presentar-
+ 5. La Comissió de Finances del Consell       de la Cambra.                                    se els dos candidats que hagin obtingut
+General revisarà anualment el compli-
+                                                                                               els millors resultats en la primera votació.
+ment de l’execució pressupostària.            Article 65
+                                                                                               Serà proclamat com a Cap de Govern el
+                                                Per als interessos del poble andorrà,
+Article 62                                                                                     candidat que obtingui més vots.
+                                              del progrés i de la pau internacionals, es
+   1. Els Consellers i els grups parlamen-    podran cedir competències legislatives,            5. El Síndic General comunicarà als
+taris tenen dret d’esmena als projectes i a   executives o judicials sempre que sigui a        Coprínceps el resultat de la votació per-
+les proposicions de llei.                     organitzacions internacionals i per mitjà        què el candidat elegit sigui nomenat Cap
+   2. El Govern podrà sol.licitar que no es   d’un tractat que ha d’ésser aprovat per          de Govern i en contrasignarà el nomena-
+debatin aquelles esmenes que comportin        una majoria de dues terceres parts dels          ment.
+increment de despeses o disminució            membres del Consell General.                       6. S’ha de seguir el mateix procedi-
+d’ingressos en relació amb els previstos                                                       ment en els altres supòsits en què quedi
+                                              Article 66
+a la Llei del Pressupost General. El Con-                                                      vacant el càrrec de Cap de Govern.
+                                                1. Els Coprínceps participen en la ne-
+sell General, per majoria absoluta de la
+                                              gociació dels tractats que afectin les rela-     Article 69
+Cambra, podrà oposar-se a aquella sol.li-
+                                              cions amb els Estats veïns quan versin             1. El Govern respon políticament da-
+citud amb una moció motivada.
+                                              sobre les matèries enumerades en els             vant del Consell General de manera soli-
+Article 63                                    apartats b), c) i g) de l’article 64.1.          dària.
+   Aprovada una llei pel Consell General,       2. La representació andorrana que tingui
+el Síndic General en donarà compte als                                                           2. Una cinquena part dels Consellers
+                                              per missió negociar els tractats assenyalats     poden presentar una moció de censura,
+Coprínceps perquè, entre els vuit i quin-     en el paràgraf anterior, comprendrà, a més
+454                                     Butlletí Oficial del Principat d’Andorra                          Núm. 24 - any 5 - 4.5.1993
+
+
+
+
+per mitjà d’un escrit motivat, contra el                                                        2. Els membres del Govern no poden
+Cap de Govern.                                Títol V                                        compatibilitzar el seu càrrec amb el de
+                                              Del Govern                                     Conseller General i només poden exercir
+  3. Un cop fet el debat entre els tres i
+                                                                                             les funcions públiques derivades de la
+cinc dies posteriors a la presentació de la
+                                              Article 72                                     seva pertinença al Govern.
+moció i en la forma que determini el
+Reglament, es procedirà a una votació           1. El Govern es compon del Cap de
+pública i oral. Perquè la moció de censu-     Govern i dels Ministres, en el nombre que
+ra prosperi, caldrà el vot favorable de la    determini la llei.                             Títol VI
+majoria absoluta del Consell General.            2. Sota l’autoritat del seu Cap, dirigeix   De l’estructura territorial
+  4. Si la moció de censura és aprovada,      la política nacional i internacional d’An-
+el Cap de Govern cessa. Tot seguit es         dorra. Dirigeix també l’administració de       Article 79
+procedirà segons el que preveu l’article      l’Estat i exerceix la potestat reglamentà-        1. Els Comuns, com a òrgans de repre-
+anterior.                                     ria.                                           sentació i administració de les Parrò-
+                                                 3. L’Administració pública serveix amb      quies, són corporacions públiques amb
+   5. No es pot presentar cap moció de                                                       personalitat jurídica i potestat normativa
+censura abans que hagin transcorregut         objectivitat l’interès general, i actua
+                                              d’acord amb els principis de jerarquia,        local, sotmesa a la llei, en forma d’ordi-
+sis mesos des de la darrera elecció del                                                      nacions, reglaments i decrets. Dins l’àm-
+Cap de Govern.                                eficàcia, transparència i plena submissió
+                                              a la Constitució, les lleis i els principis    bit de les seves competències, exercides
+  6. Els Consellers que hagin presentat       generals de l’ordenament jurídic definits      d’acord amb la Constitució, les lleis i la
+una moció de censura no en poden sig-         en el Títol I. Tots els seus actes i normes    tradició, funcionen sota el principi d’au-
+nar cap altra abans que hagi trans-           estan sotmesos al control jurisdiccional.      togovern, reconegut i garantit per la
+corregut un any.                                                                             Constitució.
+                                              Article 73
+Article 70                                                                                      2. Els Comuns expressen els interessos
+                                                El Cap de Govern és nomenat pels             de les Parròquies, aproven i executen el
+   1. El Cap de Govern pot plantejar da-      Coprínceps, una vegada hagi estat elegit
+vant del Consell General la qüestió de                                                       pressupost comunal, fixen i duen a terme
+                                              en els termes previstos en la Constitució.
+confiança sobre el seu programa, sobre                                                       les seves polítiques públiques en el seu
+una declaració de política general o so-      Article 74                                     àmbit territorial i gestionen i administren
+bre una decisió de transcendència espe-         El Cap de Govern i els Ministres estan       tots els béns de propietat parroquial, si-
+cial.                                         sotmesos al mateix règim jurisdiccional        guin de domini públic comunal o de
+                                              que els Consellers Generals.                   domini privat o patrimonial.
+   2. La confiança es considera atorgada
+quan, en una votació pública i oral, ob-                                                        3. Els seus òrgans de govern són ele-
+                                              Article 75
+tingui la majoria simple. En cas de no                                                       gits democràticament.
+                                                El Cap de Govern o, si és el cas, el
+obtenir aquesta majoria el Cap de Go-         Ministre responsable, contrasigna els ac-      Article 80
+vern ha de presentar la seva dimissió.        tes dels Coprínceps previstos en l’article       1. Dins el marc de l’autonomia admi-
+                                              45.                                            nistrativa i financera dels Comuns, les
+Article 71
+   1. El Cap de Govern, després d’una                                                        seves competències són delimitades mit-
+                                              Article 76
+deliberació amb el Govern, i sota la seva                                                    jançant Llei Qualificada, almenys en les
+                                                El Cap de Govern, amb l’acord de la
+responsabilitat, pot demanar als Coprín-                                                     matèries següents:
+                                              majoria del Consell General, pot dema-
+ceps la dissolució anticipada del Consell     nar als Coprínceps la convocatòria d’un          a) Cens de població.
+General. El decret de dissolució ha de        referèndum sobre una qüestió d’ordre             b) Cens electoral. Participació en la
+fixar la convocatòria de les eleccions        polític.                                         gestió del procés i administració elec-
+d’acord amb l’article 51.2 de la Constitu-                                                     torals que els correspongui segons la
+ció.                                          Article 77                                       llei.
+                                                El Govern finalitza el seu mandat quan         c) Consultes populars.
+   2. La dissolució no pot efectuar-se si     acaba la legislatura, per dimissió, defun-
+s’està tramitant una moció de censura o                                                        d) Comerç, indústria i activitats profes-
+                                              ció o incapacitació definitiva del Cap de        sionals.
+s’ha declarat l’estat d’emergència.
+                                              Govern, en prosperar una moció de cen-           e) Delimitació del territori comunal.
+  3. Cap dissolució no pot efectuar-se        sura o perdre una qüestió de confiança.          f) Béns propis i de domini públic co-
+abans que hagi transcorregut un any des       En tots els casos, el Govern segueix en          munal.
+de les eleccions anteriors.                   funcions fins a la formació del nou Go-          g) Recursos naturals.
+                                              vern.                                            h) Cadastre.
+                                                                                               i) Urbanisme.
+                                              Article 78
+                                                                                               j) Vies públiques.
+                                                 1. El Cap de Govern no pot exercir el
+                                                                                               k) Cultura, esports i activitats socials.
+                                              seu càrrec més de dos mandats consecu-
+                                                                                               l) Serveis públics comunals.
+                                              tius complets.
+Núm. 24 - any 5 - 4.5.1993                Butlletí Oficial del Principat d’Andorra                                                      455
+
+
+
+
+  2. Dins el marc de la potestat tributària                                                     administració de l’organització judicial,
+de l’Estat, l’esmentada Llei Qualificada        Títol VII                                       vetlla per la independència i el bon fun-
+determina les facultats econòmiques i fis-      De la Justícia                                  cionament de la Justícia. Tots els seus
+cals dels Comuns per a l’exercici de les                                                        membres seran de nacionalitat andor-
+seves competències. Aquestes facultats          Article 85                                      rana.
+es referiran, almenys, a l’aprofitament i         1. En nom del poble andorrà la Justícia          2. El Consell Superior de la Justícia es
+explotació dels recursos naturals, als tri-     és administrada exclusivament per jutges        compon de cinc membres designats en-
+buts tradicionals i a les taxes per serveis     independents, inamovibles i, en l’àmbit         tre andorrans majors de vint-i-cinc anys i
+comunals, autoritzacions administrati-          de les seves funcions jurisdiccionals, sot-     coneixedors de l’Administració de Justí-
+ves, radicació d’activitats comercials, in-     mesos només a la Constitució i a la llei.       cia, un per cada Copríncep, un pel Síndic
+dustrials i professionals i propietat
+                                                  2. L’organització judicial és única. La       General, un pel Cap de Govern i un pels
+immobiliària.
+                                                seva estructura, composició, funciona-          Magistrats i Batlles. El seu mandat és de
+   3. Mitjançant llei es podrà delegar a les    ment i l’estatut jurídic dels seus membres      sis anys i no poden ser reelegits més
+Parròquies competències de titularitat es-      hauran d’ésser regulats per Llei Qualifi-       d’una vegada consecutiva. El Consell Su-
+tatal.                                          cada. Es prohibeixen les jurisdiccions es-      perior de la Justícia és presidit per la
+                                                pecials.                                        persona designada pel Síndic General.
+Article 81
+   Amb la finalitat d’assegurar la capacitat    Article 86                                         3. El Consell Superior de la Justícia no-
+econòmica dels Comuns, una Llei Quali-            1. Les normes de competència i proce-         mena els Batlles i Magistrats, exerceix
+ficada determina les transferències de ca-      diment aplicables a l’Administració de          sobre ells la funció disciplinària i promou
+pital del Pressupost General als Comuns,        Justícia estan reservades a la llei.            les condicions perquè l’Administració de
+garantint una partida igual per a totes les                                                     Justícia disposi dels mitjans adients per al
+                                                   2. En tot cas, les sentències seran mo-      seu bon funcionament. Amb aquesta dar-
+Parròquies i una partida variable, propor-
+                                                tivades, fonamentades en l’ordenament           rera finalitat podrà emetre informes amb
+cional segons la seva població, l’extensió
+                                                jurídic i notificades fefaentment.              motiu de la tramitació de les lleis que
+del seu territori i altres indicadors.
+                                                   3. El judici penal és públic, salvades les   afectin la Justícia o per donar compte de
+Article 82                                      limitacions previstes per la llei. El seu       la situació d’aquesta.
+   1. Els litigis sobre interpretació o exer-   procediment és preferentment oral. La             4. La Llei Qualificada sobre la Justícia
+cici competencial entre els òrgans gene-        sentència que posi fi a la primera instàn-      regularà les funcions i competències
+rals de l’Estat i els Comuns seran resolts      cia és dictada per un òrgan judicial dife-      d’aquest Consell Superior.
+pel Tribunal Constitucional.                    rent del que va dirigir la fase d’instrucció,
+   2. Els actes dels Comuns tenen caràcter      i sempre és susceptible de recurs.              Article 90
+executiu directe pels mitjans establerts                                                           1. Tots els Jutges, independentment de
+                                                  4. La defensa jurisdiccional dels inte-
+per llei. Contra aquests es poden interpo-                                                      la seva categoria, seran nomenats per a
+                                                ressos generals pot efectuar-se mitjan-
+sar recursos administratius i jurisdiccio-                                                      un mandat renovable de sis anys, entre
+                                                çant l’acció popular en els supòsits
+nals per controlar-ne l’adequació a                                                             persones titulades en Dret que comptin
+                                                regulats per les lleis processals.
+l’ordenament jurídic.                                                                           amb aptitud tècnica per a l’exercici de la
+                                                Article 87                                      funció jurisdiccional.
+Article 83                                        La potestat jurisdiccional és exercida           2. Els Presidents del Tribunal de Bat-
+   Els Comuns tenen iniciativa legislativa      pels Batlles, el Tribunal de Batlles, el        lles, del Tribunal de Corts i del Tribunal
+i estan legitimats per interposar recursos      Tribunal de Corts i el Tribunal Superior        Superior de la Justícia són designats pel
+d’inconstitucionalitat en els termes pre-       de Justícia d’Andorra, així com pels pre-       Consell Superior de la Justícia. La durada
+vistos en la Constitució.                       sidents respectius d’aquests tribunals,         del seu mandat i les condicions d’elegi-
+                                                d’acord amb les lleis.                          bilitat seran determinades per la Llei
+Article 84
+  Les lleis tindran en compte els usos i                                                        Qualificada esmentada a l’article 89.4 de
+                                                Article 88
+costums per determinar la competència                                                           la Constitució.
+                                                  Les sentències, un cop fermes, tenen el
+dels Quarts i dels Veïnats, així com les        valor de cosa jutjada i no poden ésser          Article 91
+seves relacions amb els Comuns.                 modificades o anul.lades llevat els casos          1. El càrrec de Jutge és incompatible
+                                                previstos per la llei o quan excepcional-       amb qualsevol altre càrrec públic i amb
+                                                ment el Tribunal Constitucional, mitjan-        l’exercici d’activitats mercantils, indus-
+                                                çant el procés d’empara corresponent,           trials o professionals. Els Jutges són re-
+                                                estimi que han estat dictades amb viola-        munerats únicament a càrrec dels
+                                                ció d’algun dret fonamental.                    pressupostos de l’Estat.
+                                                Article 89                                         2. Durant el seu mandat, cap Jutge no
+                                                  1. El Consell Superior de la Justícia         pot ésser amonestat, traslladat, suspès en
+                                                com a òrgan de representació, govern i          les seves funcions o separat del seu càr-
+456                                       Butlletí Oficial del Principat d’Andorra                               Núm. 24 - any 5 - 4.5.1993
+
+
+
+
+rec si no és com a conseqüència de san-          Article 96                                        de trenta dies des de la data de publicació
+ció imposada per haver incorregut en                1. El Tribunal Constitucional es com-          de la norma.
+responsabilitat penal o disciplinària, mit-      pon de quatre Magistrats constitucionals,
+                                                                                                      2. La interposició del recurs no suspèn
+jançant un procediment regulat per la            designats entre persones de reconeguda
+                                                                                                   la vigència de la norma impugnada. El
+Llei Qualificada i amb totes les garanties       experiència jurídica o institucional, un
+                                                                                                   Tribunal haurà de dictar sentència en el
+d’audiència i defensa. La mateixa llei re-       per cadascun dels Coprínceps i dos pel
+                                                                                                   termini màxim de dos mesos.
+gularà també els supòsits de responsabi-         Consell General. El seu mandat té una
+litat civil del Jutge.                           durada de vuit anys i no és renovable per         Article 100
+                                                 períodes consecutius. La renovació del               1. Si en la tramitació d’un procés un
+Article 92                                       Tribunal Constitucional es farà per parts.        tribunal té dubtes raonables i fonamen-
+   D’acord amb les lleis i sense perjudici       El règim d’incompatibilitats serà regulat         tats sobre la constitucionalitat d’una llei
+de les responsabilitats personals dels qui       per la Llei Qualificada a què fa referència       o d’un decret legislatiu que sigui d’apli-
+els causin, l’Estat repararà els danys ori-      l’article anterior.                               cació imprescindible per a la solució de
+ginats per error judicial o pel funciona-
+                                                    2. És presidit cada dos anys pel Magis-        la causa, formularà escrit davant del Tri-
+ment anormal de l’Administració de
+                                                 trat al qual correspongui l’esmentada             bunal Constitucional demanant el seu
+Justícia.
+                                                 presidència segons torn rotatori.                 pronunciament sobre la validesa de la
+Article 93                                                                                         norma afectada.
+   1. El Ministeri Fiscal té la missió de        Article 97
+                                                                                                      2. El Tribunal Constitucional podrà no
+vetllar per la defensa i aplicació de l’ordre       1. El Tribunal Constitucional adopta
+                                                                                                   admetre la tramitació de l’escrit sense
+jurídic i per la independència dels tribu-       les seves decisions per majoria de vots.
+                                                                                                   recurs posterior. En cas d’admissió dicta-
+nals i de promoure davant d’aquests              Les deliberacions i els vots són secrets. El
+                                                                                                   rà sentència en el termini màxim de dos
+l’aplicació de la llei per a la salvaguarda      ponent, sempre designat per sorteig, té
+                                                                                                   mesos.
+dels drets dels ciutadans i la defensa de        vot de qualitat en cas d’empat.
+l’interès general.                                  2. Les sentències que estimin parcial-         Article 101
+                                                 ment o totalment la demanda han d’es-                1. Els Coprínceps, en els termes de l’ar-
+   2. El Ministeri Fiscal es compon de
+                                                 pecificar, d’acord amb la Llei Qualificada,       ticle 46.1.f), el Cap de Govern o una
+membres nomenats pel Consell Superior
+                                                 l’àmbit i extensió dels seus efectes.             cinquena part dels membres del Consell
+de la Justícia a proposta del Govern, amb
+                                                                                                   General, poden requerir dictamen previ
+mandats renovables de sis anys, entre
+                                                 Article 98                                        d’inconstitucionalitat sobre els tractats
+persones que reuneixin les condicions
+                                                   El Tribunal Constitucional coneix:              internacionals abans de la seva ratifica-
+per a ésser nomenades Jutge. El seu es-
+                                                                                                   ció. Aquest procediment tindrà caràcter
+tatut jurídic serà regulat per llei.                a) Dels processos d’inconstitucionali-
+                                                                                                   preferent.
+                                                 tat contra les lleis, els decrets legislatius i
+   3. El Ministeri Fiscal, dirigit pel Fiscal
+                                                 el Reglament del Consell General.                    2. La resolució estimatòria d’inconsti-
+General de l’Estat, actua d’acord amb els
+                                                                                                   tucionalitat impedirà la ratificació del
+principis de legalitat, unitat i jerarquia          b) Dels requeriments de dictamen pre-
+                                                                                                   tractat. En tot cas, la celebració d’un trac-
+interna.                                         vi d’inconstitucionalitat sobre lleis i trac-
+                                                                                                   tat internacional que contingui estipula-
+                                                 tats internacionals.
+Article 94                                                                                         cions que contradiguin la Constitució
+   Els Jutges i el Ministeri Fiscal dirigeixen     c) Dels processos d’empara constitu-            exigirà la reforma prèvia d’aquesta.
+l’acció de la policia en matèria judicial        cional.
+                                                                                                   Article 102
+segons el que estableixin les lleis.                d) Dels conflictes de competències en-            Contra els actes dels poders públics
+                                                 tre els òrgans constitucionals. A aquests         que lesionin drets fonamentals, estan le-
+                                                 efectes, es consideren òrgans constitu-           gitimats per demanar empara davant el
+Títol VIII                                       cionals els Coprínceps, el Consell Gene-          Tribunal Constitucional:
+                                                 ral, el Govern, el Consell Superior de la
+Del Tribunal Constitucional                      Justícia i els Comuns.                              a) Els qui hagin estat part o siguin
+                                                                                                   coadjuvants en el procés judicial previ al
+Article 95                                       Article 99                                        que es refereix l’article 41.2 d’aquesta
+   1. El Tribunal Constitucional és l’intèr-        1. Poden interposar recurs d’inconsti-         Constitució.
+pret suprem de la Constitució, actua ju-         tucionalitat contra les lleis i els decrets
+risdiccionalment i les seves sentències                                                              b) Els qui tinguin un interès legítim en
+                                                 legislatius una cinquena part dels mem-
+vinculen els poders públics i els particu-                                                         relació a disposicions o actes sense força
+                                                 bres del Consell General, el Cap de Go-
+lars.                                                                                              de llei del Consell General.
+                                                 vern i tres Comuns. Una cinquena part
+   2. El Tribunal Constitucional aprova el       dels membres del Consell General pot                c) El Ministeri Fiscal en cas de violació
+seu propi reglament i exerceix la seva           interposar recurs d’inconstitucionalitat          del dret fonamental a la jurisdicció.
+funció sotmès únicament a la Constitució         contra el Reglament de la Cambra. El
+i la Llei Qualificada que el reguli.             termini d’interposició de la demanda és
+Núm. 24 - any 5 - 4.5.1993                Butlletí Oficial del Principat d’Andorra                                                        457
+
+
+
+
+Article 103                                     ciació dels Coprínceps, proposin nego-           que, en el moment de la seva promulga-
+   1. El conflicte entre els òrgans consti-     ciacions als Governs d’Espanya i de Fran-        ció, no tinguin la titulació acadèmica pre-
+tucionals es plantejarà quan un d’ells          ça amb l’objectiu de signar un Tractat           vista en aquesta Constitució.
+al.legui l’exercici il.legítim per l’altre de   Internacional trilateral per establir el
+                                                                                                    3. L’esmentada Llei Qualificada de la
+competències que li són constitucional-         marc de les relacions amb els dos Estats
+                                                                                                 Justícia preveurà els sistemes d’adaptació
+ment atribuïdes.                                veïns sobre la base del respecte a la so-
+                                                                                                 dels processos i causes pendents al siste-
+                                                birania, independència i integritat territo-
+   2. El Tribunal Constitucional podrà                                                           ma judicial i processal previst en aquesta
+                                                rial d’Andorra.
+suspendre amb caràcter cautelar els efec-                                                        Constitució, per tal de garantir el dret a la
+tes de les normes o actes impugnats i, en       Disposició addicional segona                     jurisdicció.
+el seu cas, ordenar el cessament de les
+                                                                                                   4. Les lleis i normes amb força de llei
+actuacions que han donat lloc al conflic-          L’exercici de la funció de representació
+                                                diplomàtica d’un Estat a Andorra és in-          vigents en el moment de la creació del
+te.
+                                                                                                 Tribunal Constitucional, podran ésser
+                                                compatible amb l’exercici de qualsevol
+   3. La sentència determinarà i atribuirà                                                       objecte de recurs directe d’inconstitucio-
+                                                altre càrrec públic.
+a una de les parts la competència en litigi.                                                     nalitat dins d’un termini de tres mesos, a
+   4. L’inici d’un conflicte de competèn-       Disposició transitòria primera                   partir de la presa de possessió dels Ma-
+                                                                                                 gistrats constitucionals. Els subjectes le-
+cies impedeix el plantejament de la qües-         1. El mateix Consell General que ha            gitimats per interposar-lo són els
+tió davant l’Administració de Justícia.         aprovat la present Constitució obrirà un         previstos en l’article 99 de la Constitució.
+  5. La llei regularà els supòsits en els       període extraordinari de sessions, per tal
+                                                d’aprovar, almenys, el Reglament del                5. Durant el primer mandat subse-
+quals el conflicte es plantegi per raó del
+                                                Consell General i les lleis qualificades         güent a l’entrada en vigor de la Constitu-
+no exercici de les competències que els
+                                                referents al règim electoral, les compe-         ció, els representants dels Coprínceps en
+òrgans mencionats tenen atribuïdes.
+                                                tències i el sistema de finançament dels         el Consell Superior de la Justícia podran
+Article 104                                     Comuns, la Justícia i el Tribunal Consti-        no ésser andorrans.
+   Una Llei Qualificada regularà l’estatut      tucional. Aquest període de sessions fi-
+jurídic dels membres del Tribunal Cons-
+                                                                                                 Disposició transitòria tercera
+                                                nalitzarà el dia 31 de desembre de 1993.
+titucional, els processos constitucionals i                                                         1. Els serveis institucionals dels Co-
+el funcionament de la institució.                 2. En aquest període, que comença el
+                                                                                                 prínceps, les competències i funcions
+                                                dia hàbil següent al de la publicació de la
+                                                                                                 dels quals han estat encomanades per
+                                                Constitució, el Consell General no podrà
+                                                                                                 aquesta Constitució a altres òrgans de
+                                                ser dissolt i exercirà totes les facultats que
+Títol IX                                        constitucionalment li corresponen.               l’Estat, seran objecte de traspàs als òrgans
+                                                                                                 mencionats. Amb aquesta finalitat, es
+De la Reforma                                      3. El dia vuit de setembre de 1993, festa     constituirà una comissió tècnica formada
+Constitucional                                  de la Mare de Deu de Meritxell, el Síndic        per un representant de cada Copríncep,
+                                                General convocarà eleccions generals,            dos del Consell General i dos del Govern
+Article 105                                     que se celebraran dins la primera quin-          que prepararà i adreçarà un informe al
+  La iniciativa de reforma de la Constitu-      zena del mes de desembre d’aquest ma-            Consell General perquè, en el període
+ció correspondrà als Coprínceps conjun-         teix any.                                        esmentat en la Disposició Transitòria Pri-
+tament o a una tercera part dels membres                                                         mera, s’adoptin les disposicions necessà-
+                                                  4. La finalització d’aquest període de
+del Consell General.                                                                             ries per fer efectius els traspassos.
+                                                sessions implicarà la dissolució del Con-
+Article 106                                     sell General i el cessament del Govern,            2. La mateixa comissió prendrà les dis-
+   La reforma de la Constitució requerirà       que seguirà en funcions fins a la formació       posicions necessàries per posar els ser-
+l’aprovació del Consell General per una         del nou, d’acord amb la Constitució.             veis de policia sota l’autoritat exclusiva
+majoria de dues terceres parts dels mem-                                                         del Govern en el termini de 2 mesos a
+bres de la Cambra. Immediatament des-
+                                                Disposició transitòria segona                    partir de l’entrada en vigor de la Consti-
+prés la proposta serà sotmesa a                    1. La Llei Qualificada relativa a la Justí-   tució.
+referèndum de ratificació.                      cia preveurà, amb esperit d’equilibri, la
+                                                designació de Jutges i Fiscals procedents
+                                                                                                 Disposició derogatòria
+Article 107                                     dels Estats veïns mentre no sigui possible         Amb l’entrada en vigor d’aquesta
+   Superats els tràmits de l’article 106, els   fer altrament. Aquesta llei, així com la del     Constitució queden derogades totes les
+Coprínceps sancionaran el nou text cons-        Tribunal Constitucional, regularan el rè-        normes anteriors en allò que la contradi-
+titucional per a la seva promulgació i          gim de nacionalitat per als Jutges i Magis-      guin.
+entrada en vigor.                               trats que no siguin andorrans.
+Disposició addicional primera                      2. La Llei Qualificada de la Justícia ha-
+                                                bilitarà així mateix el règim transitori de
+ La Constitució dóna mandat al Consell
+                                                continuïtat en el càrrec d’aquells jutges
+General i al Govern perquè, amb l’asso-
+458                                   Butlletí Oficial del Principat d’Andorra                       Núm. 24 - any 5 - 4.5.1993
+
+
+
+
+Disposició final
+  La Constitució entra en vigor el dia de la seva publicació en el Butlletí Oficial del Principat d’Andorra.
+  I nosaltres els Coprínceps, després que el Consell l’ha adoptat en sessió solemne celebrada el dia 2 de febrer de 1993, i que
+el Poble Andorrà l’ha aprovat en referèndum celebrat el dia 14 de març de 1993, la fem nostra, la ratifiquem, la sancionem i
+promulguem i, per a general coneixement, n’ordenem la publicació.
+
+Casa de la Vall, 28 d’abril de 1993
+
+
+
+
+François Mitterrand                Jordi Farràs Forné 			                                Joan Martí Alanís
+President de la República Francesa Síndic General			                                     Bisbe d’Urgell
+Copríncep d’Andorra						                                                                Copríncep d’Andorra
+

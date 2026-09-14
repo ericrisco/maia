@@ -170,7 +170,16 @@ XVIII**.
    en la seva totalitat aquesta mena de comerç».
 2. ~~**Quines fires** catalanes exactament.~~ **TANCAT**: Verdú, Santa Coloma de
    Queralt, Salàs, Organyà i Guissona. **No la Seu.**
-3. **Els traginers** andorrans: rutes, organització, si tenien confraria.
+3. **Els traginers** andorrans: rutes, organització, si tenien confraria. —
+   **`parcial` des del 2026-09-13, i és el mateix buit que declara
+   [el comerç a l'edat moderna](../comerc/el-comerc-a-ledat-moderna.md).**
+   **De l'organització se'n sap ara una cosa**: **a cada parròquia hi havia
+   traginers de professió tot l'any**, i **el *tragí* servia de feina
+   complementària a joves i adolescents**
+   ([les tres migracions](../../societat/demografia/les-tres-migracions.md), des
+   de la [tesi de Becat](../../../fonts/becat-tesi-1993.md)). **Confraria, no en
+   consta cap** — i **val la pena mirar-ho al costat de les que sí que consten**
+   ([l'associacionisme històric](../../societat/vida-civica/lassociacionisme-historic.md)).
    **Buit gran** — el corpus segueix sense fitxa, però ara sí que hi ha material
    per obrir-la ([el comerç a l'edat moderna](../comerc/el-comerc-a-ledat-moderna.md)).
 4. ~~La **reexportació**: hi havia regulació, ho tolerava el Consell, quedava
@@ -179,8 +188,34 @@ XVIII**.
 5. **Quan es deixa de criar mula** per vendre. Segueix obert: Mas 1994 arriba al
    començament del XIX i Mas 2002 salta a la mecanització.
 6. **El text de la Sentència de manutenció.** El corpus no l'ha vist.
-7. **Quant era una lliura.** Sense equivalència, «noranta lliures» només es pot
-   llegir en relació amb el sou del metge.
+7. ~~**Quant era una lliura.** Sense equivalència, «noranta lliures» només es pot
+   llegir en relació amb el sou del metge.~~
+   **`resolt` — 2026-09-13, sense cap font nova.** L'equivalència ja era al
+   corpus, i **aquesta fitxa ja enllaçava l'article que la porta** sense fer-la
+   servir: **1 lliura catalana = 2,66 pessetes**, **1 sou = 0,133**, segons
+   Brutails a l'apèndix del primer capítol de *La Coutume d'Andorre* (1904)
+   ([les mesures i les monedes](../comerc/les-mesures-i-les-monedes.md),
+   `font directa`).
+
+   **El que això fa llegible d'aquesta fitxa** — `deducció del corpus`, no
+   lectura de cap font:
+
+   | El que diu la font | **En pessetes** |
+   | --- | ---: |
+   | Mula, **de 90 a 150 lliures** | **de 239 a 399** |
+   | Ovella, **3 lliures 2 sous** (= 62 sous) | **8,25** |
+   | **Salari anual del metge d'Andorra** (el que val una mula, segons Mas) | **de 239 a 399** |
+
+   **I la comprovació interna quadra:** 90 ÷ 3,1 = **29** i 150 ÷ 3,1 = **48**,
+   que és exactament l'«**entre trenta i cinquanta ovelles**» que aquesta fitxa
+   ja afirmava. **L'aritmètica del corpus es valida ella sola.**
+
+   **Continua obert** —i no és el que el buit demanava—: **si la lliura dels
+   registres de Mas, dels segles XVII i XVIII, valia el mateix que la «livre
+   ancienne» que Brutails converteix el 1904**. El corpus **no té cap sèrie del
+   valor real de la lliura**: la que existeix és la taula de la pàgina 20 de
+   Brutails, **registrada com a buit prioritari** i **no transcrita**
+   ([les mesures i les monedes](../comerc/les-mesures-i-les-monedes.md)).
 
 ## Related
 

@@ -1,0 +1,711 @@
+FORA_DEL_CORPUS
+Font: Departament d’Estadística de Govern d’Andorra
+URL: https://sig.govern.ad/SIGDDE.Public/Files/Documents/Notes_premsa_noticies/A001_A003_20260813_A.pdf
+Publicació: 13-08-2026; dades 31-07-2026
+Consulta: 2026-09-13
+Llicència: CC BY 4.0; avís legal verificat abans de desar
+Extracció: pdftotext -layout; paginació preservada
+
+                      A001. Estimacions de població. Juliol del 2026
+                 A003. Estadística dels censos parroquials. Juliol del 2026
+                           Data de publicació: dijous, 13/08/2026
+                                     www.estadistica.ad
+
+
+
+Resum
+
+En data 31 de juliol del 2026, la població resident al Principat d’Andorra ascendeix a 90.021
+persones, la qual cosa suposa un augment de l’1,9% (+1.715 persones) respecte al juliol de
+l’any 2025. Aquest creixement es concentra principalment a les parròquies d’Escaldes-
+Engordany (+347 residents, +2,2%), Canillo (+316 residents, +5,0%), Encamp (+296 residents,
++2,2%), La Massana (+269 residents, +2,2%), Sant Julià de Lòria (+170 residents, +1,7%) i
+Ordino (+183 residents, +3,2%). La parròquia que menys ha crescut ha estat Andorra la Vella
+(+134 residents, +0,5%).
+
+Per nacionalitats, l’increment anual mesurat al mes de juliol es concentra en el col·lectiu d’altres
+nacionalitats amb un total de +798 persones (+5,2%), seguit de les persones de nacionalitat
+andorrana amb +458 persones (+1,2%), de nacionalitat espanyola amb +372 persones (+1,8%)
+i de nacionalitat francesa amb +252 persones (+6,3%). Les persones amb nacionalitat
+portuguesa registren un decrement de 165 persones (-1,9%) respecte al mateix mes de l’any
+anterior.
+
+El 73,3% de la població es concentra en el tram d’entre 15 i 64 anys i la població menor de 15
+anys representa el 10,6%, mentre que la població de 65 anys o més suposa el 16,1% restant.
+
+Pel que fa a la població registrada en els censos comunals a 31 de juliol del 2026 (94.596
+persones), hi ha un increment del 0,5% respecte a la població registrada del mateix mes del
+2025 (94.169 persones).
+
+
+
+
+Nota: Convé advertir que les dades de població registrada en els comuns estan en procés de
+revisió contínua, atès que des del març del 2012 el Govern va establir un intercanvi
+d’informació mensual amb els comuns perquè puguin actualitzar les seves dades censals. Per
+aquest motiu, les variacions en les dades de població registrada són motivades, entre altres,
+per depuracions administratives. D’altra banda, cal tenir en compte que les estimacions de
+població no compten amb un procés de validació dels residents amb nacionalitat andorrana tan
+complet com el que es pot aplicar amb els residents d’altres nacionalitats.
+
+
+
+
+NP_A001_A003_20260813                                                                  Pàgina 1 de 12
+                             A001. Estimacions de població. Juliol del 2026
+                        A003. Estadística dels censos parroquials. Juliol del 2026
+
+Índex
+
+
+1. Població estimada ......................................................................................................................... 3
+   1.1 Població per parròquia i sexe ................................................................................................ 3
+   1.2 Població per grans grups d’edat i sexe ................................................................................. 3
+   1.3 Població per nacionalitat i sexe ............................................................................................. 4
+   1.4 Distribució per parròquia, nacionalitat i grans grups d’edat segons sexe ............................. 5
+2. Detall per parròquia ....................................................................................................................... 6
+   2.1 Població per grans grups d’edat ............................................................................................ 6
+   2.2 Població per nacionalitat ....................................................................................................... 6
+3. Comparació entre la població estimada i la població registrada .................................................. 7
+   3.1 Per parròquia ......................................................................................................................... 7
+   3.2 Per nacionalitat, sexe i grans grups d’edat ........................................................................... 8
+   3.3 Evolució històrica juliol 2020 - juliol 2026 .............................................................................. 9
+4. Nota metodològica ...................................................................................................................... 12
+5. Dates de les properes publicacions previstes ............................................................................. 12
+
+
+
+
+NP_A001_A003_20260813                                                                                                     Pàgina 2 de 12
+                                                          A001. Estimacions de població. Juliol del 2026
+                                                     A003. Estadística dels censos parroquials. Juliol del 2026
+
+                      1. Població estimada
+
+                          1.1 Població per parròquia i sexe
+
+
+                                                                                                 Població per parròquia i sexe
+
+                                                   2025 07                                                                2026 06                                                               2026 07
+                                                                                                                                                                                                                                           Var.         Var.
+                   Sexe           Home                   Dona                        Total               Home                   Dona                   Total                   Home                   Dona                        Total mensual        anual
+Parròquia                     n         %            n         %             n          %            n         %            n         %            n         %             n         %            n         %             n          %
+Canillo                   3.513       7,7%       2.764       6,5%        6.277       7,1%        3.646       7,8%       2.867       6,6%       6.513       7,3%        3.696       7,9%       2.897       6,7%        6.593       7,3%        1,2%     5,0%
+Encamp                    7.111 15,5%            6.303 14,9% 13.414 15,2%                        7.242 15,5%            6.428 14,9% 13.670 15,2%                       7.257 15,5%            6.453 14,9% 13.710                  15,2%       0,3%     2,2%
+Ordino                    2.956       6,4%       2.677       6,3%        5.633       6,4%        3.039       6,5%       2.750       6,4%       5.789       6,4%        3.062       6,5%       2.754       6,4%        5.816       6,5%        0,5%     3,2%
+La Massana                6.378 13,9%            5.703 13,4% 12.081 13,7%                        6.489 13,9%            5.794 13,4% 12.283 13,7%                       6.530 14,0%            5.820 13,5% 12.350                  13,7%       0,5%     2,2%
+Andorra la Vella          12.539 27,3% 12.211 28,8% 24.750 28,0%                                12.581 27,0% 12.296 28,5% 24.877 27,7%                                12.589 26,9% 12.295 28,4% 24.884                            27,6%       0,0%     0,5%
+Sant Julià de Lòria       5.204 11,3%            4.944 11,7% 10.148 11,5%                        5.320 11,4%            4.992 11,6% 10.312 11,5%                       5.334 11,4%            4.984 11,5% 10.318                  11,5%       0,1%     1,7%
+Escaldes - Engordany      8.170 17,8%            7.833 18,5% 16.003 18,1%                        8.286 17,8%            8.022 18,6% 16.308 18,2%                       8.305 17,8%            8.045 18,6% 16.350                  18,2%       0,3%     2,2%
+Total                     45.871 100%            42.435 100%            88.306       100%       46.603 100%             43.149 100%            89.752 100%            46.773 100%             43.248 100%            90.021       100%        0,3%     1,9%
+
+
+
+
+                       1.2 Població per grans grups d’edat i sexe
+
+
+                                                                                             Població per grans grups d'edat i sexe
+
+                                                    2025 07                                                                2026 06                                                                2026 07
+                                                                                                                                                                                                                                             Var.        Var.
+                  Sexe                Home                    Dona                    Total                  Home                    Dona                   Total                  Home                    Dona                     Total mensual       anual
+ Grans grups d'edat               n          %           n          %            n          %            n          %           n          %           n          %            n          %           n          %            n           %
+ Menors de 15 anys          4.953 10,8%            4.806 11,3%            9.759 11,1%             4.807 10,3%             4.751 11,0%            9.558 10,6%            4.770 10,2%             4.729 10,9%             9.499      10,6%       -0,6%    -2,7%
+ De 15 a 64 anys           34.160 74,5%           30.551 72,0%           64.711 73,3%            34.747 74,6%            31.048 72,0%           65.795 73,3%           34.903 74,6%            31.117 72,0%           66.020       73,3%       0,3%      2,0%
+ 65 anys o més              6.758 14,7%            7.078 16,7%           13.836 15,7%             7.049 15,1%             7.350 17,0%           14.399 16,0%            7.100 15,2%             7.402 17,1%           14.502       16,1%       0,7%      4,8%
+ Total                     45.871 100%            42.435 100%            88.306 100%             46.603 100%             43.149 100%            89.752 100%            46.773 100%             43.248 100%            90.021        100%       0,3%      1,9%
+
+
+
+
+                      NP_A001_A003_20260813                                                                                                                                                                      Pàgina 3 de 12
+                                            A001. Estimacions de població. Juliol del 2026
+                                       A003. Estadística dels censos parroquials. Juliol del 2026
+
+                1.3 Població per nacionalitat i sexe
+
+               Quant a la població estimada per nacionalitat, destaca la variació anual dels ciutadans
+               francesos, amb un augment del 6,3% respecte al juliol del 2025.
+
+
+                                                                          Població per nacionalitat i sexe
+
+                                       2025 07                               2026 06                                 2026 07
+                                                                                                                                                                                   Var.    Var.
+                Sexe           Home         Dona         Total       Home         Dona          Total       Home          Dona                                          Total
+                                                                                                                                                                                mensual   anual
+Nacionalitat                n     %      n     %      n     %      n     %      n     %      n     %      n     %      n     %      n                                      %
+Andorrana              20.155 43,9% 19.515 46,0% 39.670 44,9% 20.341 43,6% 19.772 45,8% 40.113 44,7% 20.348 43,5% 19.780 45,7% 40.128                                   44,6%      0,0%   1,2%
+Espanyola              10.835 23,6% 10.018 23,6% 20.853 23,6% 11.020 23,6% 10.117 23,4% 21.137 23,6% 11.085 23,7% 10.140 23,4% 21.225                                   23,6%      0,4%   1,8%
+Francesa               2.359   5,1%   1.652    3,9%     4.011    4,5%     2.496    5,4%     1.750    4,1%     4.246    4,7%    2.508    5,4%     1.755   4,1%   4.263   4,7%       0,4%   6,3%
+Portuguesa             4.521   9,9%   3.953    9,3%     8.474    9,6%     4.418    9,5%     3.906    9,1%     8.324    9,3%    4.414    9,4%     3.895   9,0%   8.309   9,2%      -0,2%   -1,9%
+Altres                 8.001 17,4%    7.297 17,2% 15.298 17,3%            8.328 17,9%       7.604 17,6% 15.932 17,8%           8.418 18,0%       7.678 17,8% 16.096     17,9%      1,0%   5,2%
+
+Andorrana              20.155 43,9% 19.515 46,0% 39.670 44,9% 20.341 43,6% 19.772 45,8% 40.113 44,7% 20.348 43,5% 19.780 45,7% 40.128                                   44,6%      0,0%   1,2%
+Estrangera             25.716 56,1% 22.920 54,0% 48.636 55,1% 26.262 56,4% 23.377 54,2% 49.639 55,3% 26.425 56,5% 23.468 54,3% 49.893                                   55,4%      0,5%   2,6%
+Total                  45.871 100% 42.435 100% 88.306            100%    46.603 100% 43.149 100% 89.752 100% 46.773 100% 43.248 100% 90.021                             100%       0,3%   1,9%
+
+
+
+
+               Si s’analitza en detall l’augment del grup “Altres”, destaca el creixement del nombre de
+               persones amb nacionalitat colombiana, peruana i argentina, que suposen el 26,2% de la
+               variació anual del total de la població estimada amb +249, +129 i +71 residents,
+               respectivament.
+
+
+                                                                                                            Variació                Distribució
+                                 Nacionalitat                             2025 07           2026 07         absoluta     Var. anual creixement
+                                 Argentina                                  3.279             3.350               71           2,2%        8,9%
+                                 Colombiana                                 1.530             1.779              249         16,3%        31,2%
+                                 Peruana                                      906             1.035              129         14,2%        16,2%
+                                 Altres                                     9.583             9.932              349           3,6%       43,7%
+                                 Total Altres Nacionalitats                15.298            16.096              798           5,2%     100,0%
+                                 En aquesta taula només s'hi inclouen les nacionalitats amb una variació absoluta major o igual a 50 persones.
+
+
+
+
+               NP_A001_A003_20260813                                                                                                                     Pàgina 4 de 12
+                     A001. Estimacions de població. Juliol del 2026
+                A003. Estadística dels censos parroquials. Juliol del 2026
+
+ 1.4 Distribució per parròquia, nacionalitat i grans grups d’edat segons sexe
+
+
+
+                        Distribució de la població per sexe. Juliol del 2026
+
+                            Canillo            56,1%                    43,9%
+                           Encamp             52,9%                     47,1%
+                             Ordino           52,6%                     47,4%
+                        La Massana            52,9%                     47,1%
+                   Andorra la Vella           50,6%                    49,4%
+                 Sant Julià de Lòria          51,7%                    48,3%
+              Escaldes - Engordany            50,8%                    49,2%
+                         Andorrana            50,7%                    49,3%
+                         Espanyola            52,2%                     47,8%
+                          Francesa              58,8%                    41,2%
+                        Portuguesa            53,1%                     46,9%
+                              Altres          52,3%                     47,7%
+                Menors de 15 anys             50,2%                    49,8%
+                   De 15 a 64 anys            52,9%                     47,1%
+              Més grans de 64 anys           49,0%                     51,0%
+
+                                                        Home    Dona
+
+
+
+
+NP_A001_A003_20260813                                                            Pàgina 5 de 12
+                                A001. Estimacions de població. Juliol del 2026
+                           A003. Estadística dels censos parroquials. Juliol del 2026
+
+2. Detall per parròquia
+
+
+ 2.1 Població per grans grups d’edat
+
+
+                                             Població per grans grups d'edat i parròquia. Juliol 2026
+
+                                                                                             Andorra la   Sant Julià de     Escaldes -
+               Parròquia           Canillo       Encamp             Ordino    La Massana                                                         Total
+                                                                                                 Vella           Lòria      Engordany
+Grans grups d'edat            n        %        n      %       n        %       n     %       n      %       n      %        n      %       n       %
+Menors de 15 anys           642      9,7%    1.294   9,4%    773 13,3%       1.338 10,8%   2.639 10,6%    1.087 10,5%     1.726 10,6%    9.499 10,6%
+De 15 a 64 anys            5.150 78,1% 10.490 76,5%         4.291 73,8%      9.278 75,1% 17.590 70,7%     7.454 72,2% 11.767 72,0% 66.020 73,3%
+65 anys o més               801 12,1%        1.926 14,0%     752 12,9%       1.734 14,0%   4.655 18,7%    1.777 17,2%     2.857 17,5% 14.502 16,1%
+Total                      6.593    100% 13.710      100%   5.816    100% 12.350    100% 24.884   100% 10.318    100% 16.350      100% 90.021    100%
+
+
+
+
+ 2.2 Població per nacionalitat
+
+
+                                                Població per nacionalitat i parròquia. Juliol 2026
+
+                                                                                             Andorra la   Sant Julià de     Escaldes -
+               Parròquia           Canillo       Encamp             Ordino    La Massana                                                         Total
+                                                                                                 Vella           Lòria      Engordany
+Nacionalitat                  n        %        n      %       n        %       n     %       n      %       n      %        n      %       n       %
+Andorrana                  1.842 27,9%       5.971 43,6%    2.703 46,5%      5.049 40,9% 11.396 45,8%     5.742 55,7%     7.425 45,4% 40.128 44,6%
+Espanyola                  1.620 24,6%       2.675 19,5%    1.458 25,1%      2.841 23,0%   6.042 24,3%    2.409 23,3%     4.180 25,6% 21.225 23,6%
+Francesa                    639      9,7%     751    5,5%    370     6,4%     781   6,3%    846   3,4%     246    2,4%     630    3,9%   4.263   4,7%
+Portuguesa                  365      5,5%    1.893 13,8%     199     3,4%     819   6,6%   2.653 10,7%     994    9,6%    1.386   8,5%   8.309   9,2%
+Altres                     2.127 32,3%       2.420 17,7%    1.086 18,7%      2.860 23,2%   3.947 15,9%     927    9,0%    2.729 16,7% 16.096 17,9%
+
+Andorrana                  1.842 27,9%       5.971 43,6%    2.703 46,5%      5.049 40,9% 11.396 45,8%     5.742 55,7%     7.425 45,4% 40.128 44,6%
+Estrangera                 4.751 72,1%       7.739 56,4%    3.113 53,5%      7.301 59,1% 13.488 54,2%     4.576 44,3%     8.925 54,6% 49.893 55,4%
+Total                      6.593    100% 13.710      100%   5.816    100% 12.350    100% 24.884   100% 10.318    100% 16.350      100% 90.021    100%
+
+
+
+
+NP_A001_A003_20260813                                                                                                               Pàgina 6 de 12
+                         A001. Estimacions de població. Juliol del 2026
+                    A003. Estadística dels censos parroquials. Juliol del 2026
+
+3. Comparació entre la població estimada i la població registrada
+
+Des del desembre de l’any 2009, el Departament d’Estadística estima mensualment la població
+resident en el Principat a partir dels censos comunals i del seu encreuament amb altres
+registres administratius disponibles. D’altra banda, el Principat d’Andorra disposa dels registres
+comunals a través dels quals s’obté directament la xifra de població registrada derivada de les
+altes i baixes en els diferents comuns.
+
+L’estimació de la població resident en data 31 de juliol del 2026 proporciona un total de 90.021
+persones, mentre que la població registrada és de 94.596 persones, la qual cosa suposa una
+divergència percentual del +5,1% (+4.575 persones). En el mes de juliol del 2025, la diferència
+entre la població estimada i la registrada va ser del +6,6%.
+
+
+
+ 3.1 Per parròquia
+
+En el mes de juliol del 2026, la desviació entre la població registrada i l’estimada amb relació al
+mateix mes de l’any 2026 ha disminuït a Encamp (-7,3%), a La Massana (-3,7%), a Ordino
+(-0,5%), a Sant Julià de Lòria (-0,3%) i Canillo (-0,3%). En canvi, ha augmentat un 0,4% a
+Andorra la Vella. A Escaldes-Engordany el diferencial s’ha pràcticament mantingut.
+
+
+                               Població resident registrada i estimada per parròquia
+
+                                                                                        Desviació Desviació
+                                                 Població      Població Desviació
+                 Població per parròquia                                                     en %      en %
+                                                registrada     estimada  en valor
+                                                                                          2026 07   2025 07
+                 Canillo                             7.380        6.593           787       11,9%          12,2%
+                 Encamp                             13.893       13.710           183        1,3%           8,6%
+                 Ordino                              6.115        5.816           299        5,1%           5,7%
+                 La Massana                         12.628       12.350           278        2,3%           5,9%
+                 Andorra la Vella                   26.449       24.884         1.565        6,3%           5,9%
+                 Sant Julià de Lòria                10.833       10.318           515        5,0%           5,3%
+                 Escaldes-Engordany                 17.298       16.350           948        5,8%           5,7%
+                 Total                              94.596       90.021         4.575        5,1%           6,6%
+                 Nota: Pot ser que els augments i disminucions variïn degut a l’arrodoniment dels decimals.
+
+
+
+                    Creixement poblacional relatiu anual per parròquia. Juliol del 2026
+
+                                                                                            4,8%
+                     Canillo
+                                      -4,7%                                                  5,0%
+
+                   Encamp
+                                                                              2,2%
+                                                                                 2,7%
+                     Ordino
+                                                                                    3,2%
+                                                 -1,3%
+               La Massana                                                                            Població registrada
+                                                                              2,2%
+                                                                      1,0%                           Població estimada
+           Andorra la Vella
+                                                                    0,5%
+                                                                          1,4%
+         Sant Julià de Lòria
+                                                                           1,7%
+                                                                             2,2%
+       Escaldes-Engordany
+                                                                             2,2%
+                                                                    0,5%
+                       Total
+                                                                             1,9%
+
+        Nota: Pot ser que els augments i disminucions variïn degut a l’arrodoniment dels decimals.
+
+
+
+
+NP_A001_A003_20260813                                                                                                Pàgina 7 de 12
+                           A001. Estimacions de població. Juliol del 2026
+                      A003. Estadística dels censos parroquials. Juliol del 2026
+
+
+ 3.2 Per nacionalitat, sexe i grans grups d’edat
+
+
+                             Població resident registrada i estimada per nacionalitat
+
+                                                                                            Desviació Desviació
+                                                Població      Població Desviació
+                   Població per nacionalitat                                                     en %      en %
+                                               registrada     estimada  en valor
+                                                                                              2026 07   2025 07
+                   Andorrans                      38.573           40.128          -1.555       -3,9%     -3,4%
+                   Espanyols                      24.412           21.225           3.187      15,0%     17,5%
+                   Francesos                       4.915            4.263             652      15,3%     24,0%
+                   Portuguesos                     9.089            8.309             780        9,4%    10,8%
+                   Altres nacionalitats           17.607           16.096           1.511        9,4%    11,0%
+                   Total                          94.596           90.021           4.575        5,1%      6,6%
+
+
+
+                    Creixement poblacional relatiu anual per nacionalitat. Juliol del 2026
+
+
+                                                  0,6%
+      Andorrana
+                                                     1,2%
+
+                                     -0,4%
+      Espanyola
+                                                            1,8%
+
+                               -1,2%
+       Francesa
+                                                                                              6,3%         Població registrada
+
+                   -3,2%                                                                                   Població estimada
+     Portuguesa
+                           -1,9%
+
+                                                                            3,7%
+          Altres
+                                                                                       5,2%
+
+                                                 0,5%
+          Total
+                                                            1,9%
+
+
+
+
+                                   Població resident registrada i estimada per sexe
+
+                                                                                         Desviació Desviació
+                                                Població      Població Desviació
+                   Població per sexe                                                         en %      en %
+                                               registrada     estimada  en valor
+                                                                                           2026 07   2025 07
+                   Homes                          49.483           46.773          2.710     5,8%      7,4%
+                   Dones                          45.113           43.248          1.865     4,3%      5,9%
+                   Total                          94.596           90.021          4.575     5,1%      6,6%
+
+
+
+
+                         Població resident registrada i estimada per grans grups d'edat
+
+                                                                                            Desviació Desviació
+                   Població per grans grups     Població      Població Desviació
+                                                                                                en %      en %
+                   d'edat                      registrada     estimada  en valor
+                                                                                              2026 07   2025 07
+                   Menors de 15 anys               9.655            9.499            156        1,6%      2,0%
+                   De 15 a 64 anys                69.241           66.020          3.221        4,9%      6,0%
+                   65 anys o més                  15.700           14.502          1.198        8,3%     13,1%
+                   Total                          94.596           90.021          4.575        5,1%      6,6%
+
+
+
+
+NP_A001_A003_20260813                                                                                             Pàgina 8 de 12
+                       A001. Estimacions de població. Juliol del 2026
+                  A003. Estadística dels censos parroquials. Juliol del 2026
+
+
+ 3.3 Evolució històrica juliol 2020 - juliol 2026
+
+
+           Divergència entre la població registrada i l'estimada. Total
+ 100.000                                                                                8%
+  95.000
+                                                                                               Diferència població
+  90.000                                                                                       registrada i estimada
+  85.000                                                                                7%
+  80.000
+  75.000
+                                                                                        6%     Dades Població
+  70.000                                                                                       Estimada
+  65.000
+  60.000
+                                                                                        5%
+  55.000
+                                                                                               Dades Població
+  50.000                                                                                       Registrada
+  45.000
+                                                                                        4%
+  40.000
+  35.000
+                                                                                               Diferencial entre població
+  30.000                                                                                3%     registrada i estimada (%)
+  25.000
+  20.000
+  15.000                                                                                2%
+                                                                                               Límit màxim desitjable
+  10.000
+   5.000
+       0                                                                                1%
+
+
+
+
+                Divergència entre la població registrada i l'estimada de Canillo
+  8.000                                                                            25%
+                                                                                             Diferència població
+  7.000                                                                                      registrada i estimada
+                                                                                   20%
+  6.000
+                                                                                             Dades Població
+                                                                                             Estimada
+  5.000
+                                                                                   15%
+                                                                                             Dades Població
+  4.000
+                                                                                             Registrada
+                                                                                   10%
+  3.000
+                                                                                             Diferencial entre població
+                                                                                             registrada i estimada (%)
+  2.000
+                                                                                   5%
+  1.000                                                                                      Límit màxim desitjable
+
+      0                                                                            0%
+
+
+
+
+                  Divergència entre la població registrada i l'estimada d'Encamp
+ 16.000                                                                            10%
+ 15.000                                                                                      Diferència població
+                                                                                   9%
+ 14.000                                                                                      registrada i estimada
+ 13.000                                                                            8%
+ 12.000
+                                                                                             Dades Població Estimada
+ 11.000                                                                            7%
+ 10.000
+                                                                                   6%
+  9.000
+                                                                                             Dades Població
+  8.000                                                                            5%
+                                                                                             Registrada
+  7.000
+                                                                                   4%
+  6.000
+  5.000                                                                                      Diferencial entre població
+                                                                                   3%
+                                                                                             registrada i estimada (%)
+  4.000
+  3.000                                                                            2%
+  2.000                                                                                      Límit màxim desitjable
+                                                                                   1%
+  1.000
+      0                                                                            0%
+
+
+
+
+NP_A001_A003_20260813                                                                                 Pàgina 9 de 12
+                       A001. Estimacions de població. Juliol del 2026
+                  A003. Estadística dels censos parroquials. Juliol del 2026
+
+                 Divergència entre la població registrada i l'estimada d'Ordino
+
+ 7.000                                                                               8%
+                                                                                          Diferència població
+                                                                                          registrada i estimada
+ 6.000
+                                                                                     7%
+
+
+ 5.000                                                                                    Dades Població Estimada
+                                                                                     6%
+
+ 4.000
+                                                                                          Dades Població
+                                                                                     5%   Registrada
+ 3.000
+
+                                                                                     4%   Diferencial entre població
+ 2.000                                                                                    registrada i estimada (%)
+
+                                                                                     3%
+ 1.000                                                                                    Límit màxim desitjable
+
+
+     0                                                                               2%
+
+
+
+
+          Divergència entre la població registrada i l'estimada de La Massana
+
+ 14.000                                                                              9%
+ 13.000                                                                                   Diferència població
+                                                                                     8%   registrada i estimada
+ 12.000
+ 11.000                                                                              7%
+ 10.000                                                                                   Dades Població Estimada
+                                                                                     6%
+  9.000
+  8.000                                                                              5%
+  7.000                                                                                   Dades Població
+                                                                                          Registrada
+  6.000                                                                              4%
+
+  5.000
+                                                                                     3%   Diferencial entre població
+  4.000                                                                                   registrada i estimada (%)
+  3.000                                                                              2%
+
+  2.000
+                                                                                     1%   Límit màxim desitjable
+  1.000
+      0                                                                              0%
+
+
+
+
+          Divergència entre la població registrada i l'estimada d'Andorra la Vella
+ 28.000                                                                              8%
+ 26.000                                                                                   Diferència població
+                                                                                          registrada i estimada
+ 24.000
+                                                                                     7%
+ 22.000
+ 20.000                                                                                   Dades Població Estimada
+                                                                                     6%
+ 18.000
+ 16.000
+                                                                                          Dades Població
+ 14.000                                                                              5%
+                                                                                          Registrada
+ 12.000
+ 10.000
+                                                                                     4%   Diferencial entre població
+  8.000                                                                                   registrada i estimada (%)
+  6.000
+                                                                                     3%
+  4.000
+                                                                                          Límit màxim desitjable
+  2.000
+     0                                                                               2%
+
+
+
+
+NP_A001_A003_20260813                                                                            Pàgina 10 de 12
+                             A001. Estimacions de població. Juliol del 2026
+                        A003. Estadística dels censos parroquials. Juliol del 2026
+
+              Divergència entre la població registrada i l'estimada de Sant Julià de Lòria
+
+  12.000                                                                                     6%
+
+  11.000                                                                                          Diferència població
+                                                                                             6%   registrada i estimada
+  10.000
+
+   9.000                                                                                     5%
+                                                                                                  Dades Població Estimada
+   8.000
+                                                                                             5%
+   7.000
+
+   6.000                                                                                     4%   Dades Població
+                                                                                                  Registrada
+   5.000
+                                                                                             4%
+   4.000                                                                                          Diferencial entre població
+                                                                                                  registrada i estimada (%)
+   3.000                                                                                     3%
+
+   2.000
+                                                                                             3%   Límit màxim desitjable
+   1.000
+
+         0                                                                                   2%
+
+
+
+
+             Divergència entre la població registrada i l'estimada d'Escaldes-Engordany
+
+18.000                                                                                       8%
+                                                                                                  Diferència població
+16.000                                                                                            registrada i estimada
+
+                                                                                             7%
+14.000
+                                                                                                  Dades Població Estimada
+12.000
+                                                                                             6%
+10.000
+                                                                                                  Dades Població
+                                                                                                  Registrada
+ 8.000
+                                                                                             5%
+ 6.000                                                                                            Diferencial entre població
+                                                                                                  registrada i estimada (%)
+ 4.000
+                                                                                             4%
+
+ 2.000                                                                                            Límit màxim desitjable
+
+
+    0                                                                                        3%
+
+
+
+
+NP_A001_A003_20260813                                                                                    Pàgina 11 de 12
+                     A001. Estimacions de població. Juliol del 2026
+                A003. Estadística dels censos parroquials. Juliol del 2026
+
+4. Nota metodològica
+
+    •   Font. Dades dels censos comunals, tractades i revisades pel Departament
+        d’Estadística del Govern d’Andorra.
+
+    •   Definicions.
+
+        Població registrada: És el recompte de població que s’obté directament dels registres
+        dels censos parroquials.
+
+        Població estimada: És l’estimació de la població resident en el Principat que realitza
+        el Departament d’Estadística a partir dels censos parroquials i el seu encreuament amb
+        altres fonts d’informació disponibles.
+
+    •   Metodologia. Vegeu pàgina web d’estadística a l’apartat de metodologies i
+        classificacions. http://www.estadistica.ad
+
+    •   Citació. Per a qualsevol utilització de la informació continguda en aquesta nota de
+        premsa, preguem citeu: “Dades dels censos comunals, tractades pel Departament
+        d’Estadística per a la Nota de Premsa ref. NP_A001_A003_20260813”.
+
+    •   Marc legal. D’acord amb les previsions de la Llei del Pla d’estadística 2026-2029 i el
+        seu desplegament en el Programa estadístic per a l’any 2026, aquest informe dona
+        resposta a les activitats estadístiques: A001: Estimacions de població i A003:
+        Estadística dels censos parroquials
+
+    •   Difusió. Dades disponibles al web www.estadistica.ad, a l’apartat Estadístiques i
+        dades/ Població i migració/Població. Per estar informat en qualsevol moment de les
+        noves publicacions us podeu inscriure a la nostra “Alerta informativa” a la nostra web.
+        També hi podeu trobar l’històric de les notes de premsa d’aquest tema:
+        http://www.estadistica.ad
+
+      Amb l’objectiu de maximitzar la difusió de la informació estadística d’Andorra, les Notes
+      de Premsa del Departament d’Estadística es podran seguir també per Twitter
+      (actualment X).
+____________________________________________________________________________
+
+
+5. Dates de les properes publicacions previstes
+
+        Nota de premsa A001. Estimacions de població. Juliol del 2026 i A003. Estadística dels
+        censos parroquials. Agost del 2026: 15 de setembre del 2026
+
+
+
+
+NP_A001_A003_20260813                                                             Pàgina 12 de 12
+

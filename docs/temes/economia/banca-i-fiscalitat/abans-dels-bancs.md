@@ -65,6 +65,50 @@ espècie**».
 **Un país on el metge cobrava en espècie i els interessos es pagaven amb
 jornals.**
 
+### I un prestador que el corpus no tenia: el comú
+
+**Afegit el 2026-09-14 des del [llibre 2 de la tesi de Joan
+Becat](../../../fonts/becat-tesi-1993.md).** *(Text francès; traducció del
+corpus.)*
+
+> **«Per solidaritat de tots amb les cases que tenen problemes financers
+> momentanis, el comú podia concedir préstecs sobre les finances públiques,
+> mobilitzant les reserves del seu pressupost.»**
+
+**Un ajuntament prestant diners públics a famílies.** I **el motiu que Becat hi
+posa no és caritatiu, és de conveniència col·lectiva**: **manté en activitat més
+famílies** i, **evitant el recurs als préstecs usuraris, en fa més fàcil el
+retorn** — **per tant conserva els patrimonis més fràgils, que si no es
+desmembrarien**.
+
+**És la mateixa lògica que [la venda a carta de gràcia](./la-carta-de-gracia.md)**:
+**mecanismes per mantenir viu el màxim nombre de cases** en una economia on
+**un mal any climàtic, o la mort o la malaltia del cap de casa, podien fer
+desaparèixer una casa sencera.**
+
+> **Becat avisa del seu propi abast**: **«és un aspecte poc estudiat, potser
+> evitat o ignorat pels autors que tracten d'Andorra»**, **no ha trobat
+> bibliografia satisfactòria** i **les seves enquestes «encara no són
+> suficients»**. **El corpus ho reté com el que és: una pràctica assenyalada,
+> no documentada.**
+
+**I en dona la conseqüència, que és la part amarga:**
+
+> **«Sobretot a finals del segle XIX i principi del XX, sembla que moltes cases
+> petites van desaparèixer, algunes després d'endeutar-se amb el comú. Arran
+> d'aquesta evolució, a les parròquies altes és corrent que els comuns es trobin
+> en possessió d'algunes cases de poble i de parcel·les cultivables esdevingudes
+> béns comunals.»**
+
+**Part del patrimoni comunal de les parròquies altes és, doncs, deute impagat.**
+**El corpus no ho afirma com a fet general** —Becat diu «sembla»— **però ho
+registra**, perquè **canvia el sentit de què és un bé comunal** a
+[el sòl comunal](../../territori/geografia-fisica/el-sol-comunal.md) i
+[els diners dels comuns](../../institucions/comuns-i-parroquies/els-diners-dels-comuns.md).
+
+**Buit registrat, i molt concret:** **cap registre de préstec comunal.** **Si
+n'hi ha, seria als llibres de comptes dels comuns.**
+
 ### I abans encara: l'Església
 
 > «Si ens endinsem en èpoques medievals, **una de les entitats de préstec
@@ -134,9 +178,22 @@ dona la mesura real del que costava moure un pagament.
 
 1. **Els dos bancs de la Seu**: quins eren.
 2. Els **comptes del Consell General** als anys trenta: quant hi tenia.
-3. La **venda a carta de gràcia** — figura jurídica esmentada també pel notari
-   ([el notariat](../../institucions/justicia/el-notariat.md)). **Cap fitxa.**
-4. El **crèdit eclesiàstic** medieval a Andorra.
+3. ~~La **venda a carta de gràcia** — figura jurídica esmentada també pel notari
+   ([el notariat](../../institucions/justicia/el-notariat.md)). **Cap fitxa.**~~
+   — **`resolt` des del 2026-09-14**:
+   [la venda a carta de gràcia](./la-carta-de-gracia.md). **I el que en surt
+   corregeix la lectura d'aquesta fitxa**: **no era només una manera de convertir
+   diners en terra, era la manera de prestar-los.** **El preu de venda era
+   fictici i incloïa l'interès**, i **sovint el venedor es quedava treballant la
+   parcel·la pagant un cànon** — **que és l'interès**. **A Andorra, a més, el
+   dret de recompra sembla il·limitat**, i **als anys setanta encara es
+   recuperaven parcel·les venudes al segle XIX pel preu d'aleshores.**
+4. El **crèdit eclesiàstic** medieval a Andorra. — **`obert`, i ara amb el motiu
+   pel qual importa**: **el préstec amb interès era prohibit i condemnat per
+   l'Església**, i **Andorra tenia un copríncep bisbe** — cosa que Becat
+   qualifica de **«circumstància agreujant»** per a l'ús encobert de la carta de
+   gràcia ([la venda a carta de gràcia](./la-carta-de-gracia.md)).
+   **La institució que prestava era també la que ho prohibia.**
 5. **Casos documentats** de préstec entre particulars, amb condicions.
 6. **Quina moneda** circulava: pessetes, francs, totes dues?
    **Buit important i sense resposta.**

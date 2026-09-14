@@ -264,7 +264,45 @@ la vila de Andorra exercint Corts**», dictada a petició del Consell General i
 
 ## Buits registrats
 
-1. **La taula de monedes de la pàgina 20**, contra l'imprès. **Prioritari.**
+1. **La taula de monedes de la pàgina 20**, contra l'imprès. **Prioritari.** —
+   **`parcial` des del 2026-09-14, i amb una àncora que abans no hi havia.**
+   **La decisió de no transcriure res es manté**, i **el motiu segueix sent bo**;
+   **el que ha canviat és que ara hi ha una fila comprovable des de fora de la
+   taula.**
+
+   **A la pàgina 213 del mateix llibre, en prosa i amb OCR net**, Brutails
+   escriu que **«100 lliures del 1602 representen el mateix pes d'or que 992
+   francs»** i que **100 lliures actuals** —el 1903— **en valen 266**. **Això
+   fixa el valor d'una lliura del 1602 en 9,92 francs**, i **9 92 és exactament
+   el que es llegeix a la darrera columna de les files de 1599 i de 1603 de la
+   taula.** **La columna final de la taula és, doncs, el valor de la lliura real
+   en francs i cèntims, i es llegeix bé.**
+
+   **Amb això, i només amb això, el corpus reté aquests punts de la sèrie**, i
+   **amb l'avís que són lectura d'una taula mal extreta i no transcripció**:
+
+   | Anys | Moneda de referència | Valor de la lliura |
+   | --- | --- | ---: |
+   | **1420 · 1466 · 1467 · 1468 · 1495** | florí | **16,27 francs** |
+   | **1471** | florí | **14,61** · *(florí comú: 14,91)* |
+   | **1551 · 1552** | ducat | **9,52** |
+   | **1567 · 1580 · 1599 · 1603** | ducat | **9,92** |
+   | **1682 · 1697 · 1703 · 1708** | doble d'or | **3,88** |
+   | **1783** | doble d'or | **3,81** |
+
+   **La lliura catalana perd quatre cinquenes parts del seu valor entre el 1420 i
+   el 1783.** **Les files de 1642, 1653, 1662, 1672, 1713 i 1765 segueixen
+   il·legibles** i **no es donen.**
+   `Requereix la pàgina impresa, i el buit es manté obert per a la resta.`
+
+   > **I ara se sap per què això importava tant.** **Brutails no fa aquesta
+   > taula per curiositat numismàtica: la fa per poder dir què perd qui recompra
+   > una terra venuda a carta de gràcia.** **Amb la correcció de poder adquisitiu
+   > de d'Avenel —3 a 1— el seu càlcul dona que qui exerceix el 1903 un dret de
+   > recompra d'una venda del 1602 recupera l'immoble per «un valor d'onze a dotze
+   > vegades menor que el preu de compra».** Vegeu
+   > [la venda a carta de gràcia](../banca-i-fiscalitat/la-carta-de-gracia.md).
+   > **La taula de la pàgina 20 és l'aparell de la pàgina 213.**
 2. **Els litres de la càrrega i la quartera de gra**: Brutails dona les relacions
    i només mesura el sisteró i la punyera.
 3. **Les mesures perdudes** que els documents esmenten i que ell no defineix: la

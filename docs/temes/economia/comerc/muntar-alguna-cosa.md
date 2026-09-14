@@ -89,9 +89,14 @@ La llei d'associacions és **qualificada**: modificar-la demana majoria absoluta
 
 - **Els òrgans i el govern de les societats**: la part d'administradors,
   responsabilitat, pactes parasocials i beneficiaris efectius ja és al corpus a
-  [qui respon d'una societat](./qui-respon-duna-societat.md). **Queden per
+  [qui respon d'una societat](./qui-respon-duna-societat.md). ~~**Queden per
   llegir** la junta general (art. 28-44), el règim del capital (66 i següents) i
-  la dissolució, liquidació, fusió i escissió.
+  la dissolució, liquidació, fusió i escissió.~~ — **tancat en bona part el
+  2026-09-13**, al mateix article: **junta general sencera**, **capital mínim**
+  (60.000 € anònima, 3.000 € limitada), **augment, reducció i operació acordió**,
+  i **dissolució**. **Queden obertes** la **liquidació** (art. 88 i següents),
+  les **modificacions estructurals** —fusió, escissió, transformació— i el
+  **règim d'accions pròpies** (art. 23-24).
 - **La Llei del comerç** (111 articles): el **títol III** —tipus de venda,
   rebaixes, liquidacions, outlet i venda a distància— ja és al corpus a
   [quan el preu baixa](./quan-el-preu-baixa.md). **Queden sense llegir** el règim
@@ -101,7 +106,13 @@ La llei d'associacions és **qualificada**: modificar-la demana majoria absoluta
 - **La competència efectiva i protecció del consumidor** (58 articles): el seu
   **títol IV**, el que dona drets a qui compra, ja és al corpus a
   [comprar i reclamar](../../vida-quotidiana/com-funciona-tot/comprar-i-reclamar.md).
-  Els **títols II i III** —defensa de la competència, concentracions i
-  competència deslleial— **queden per llegir**.
+  ~~Els **títols II i III** —defensa de la competència, concentracions i
+  competència deslleial— **queden per llegir**.~~ — **tancat el 2026-09-13**, al
+  mateix article: **acords restrictius i abús de posició dominant**, el llindar
+  de **«menor importància»** (10% horitzontal, 15% vertical), el **control de
+  concentracions** —que només s'ha de notificar amb **≥50% de quota** i **dues
+  empreses de més de 2,5 M€**—, la sanció de **fins al 3% del volum de negoci**,
+  i les **sis conductes deslleials** de l'article 19. **El que queda obert és el
+  títol V**, el procediment judicial civil.
 - **La Llei de fundacions** (42 articles) tampoc.
 - **Quantes societats, associacions i fundacions hi ha**, no consta.

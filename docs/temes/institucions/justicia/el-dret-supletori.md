@@ -150,13 +150,44 @@ manlleus jurídics datada el 1904.
 
 ## Buits registrats
 
+> **Auditats contra la resta del corpus el 2026-09-13.** **Dos han canviat
+> d'estat amb documents que el corpus ja tenia.**
+
 1. **Si algun tribunal va resoldre mai la qüestió.** Brutails la deixa oberta i
-   Pujadas també, cent anys després.
-2. **El text de la sentència de 1686** de Vital Seré, sencer.
+   Pujadas també, cent anys després. — **`parcial`.** **Cap tribunal no ha
+   resolt *la qüestió*; però el corpus té tribunals resolent *casos* en tots dos
+   sentits**, i [les fonts del dret](./les-fonts-del-dret.md) els aplega:
+   **una sentència de batlle del 1868, en català, que rebutja la prescripció
+   triennal espanyola per contrària al dret romà**, i, a l'altre extrem del
+   temps, **la Sala Civil del Tribunal Superior modificant substancialment la
+   prescripció de les accions per doctrina constant des del 1995**. **La segona
+   importa doblement**: **si la jurisprudència andorrana pot moure la
+   prescripció, la pregunta de quin dret supletori s'aplica deixa de ser
+   només històrica.** **El que segueix obert és una resolució que digui *quin*
+   és el dret supletori**, no que n'apliqui un.
+2. **El text de la sentència de 1686** de Vital Seré, sencer. — **`obert`,
+   confirmat.** El corpus només en té la citació de Brutails.
 3. **La declaració del Consell General del 16 de març de 1753**, que Brutails
-   cita en nota i el corpus no té.
-4. **Qui eren els *rahonadors*** de 1877 i quina relació tenen amb
-   [el raonador del ciutadà](./justicia.md) d'avui.
+   cita en nota i el corpus no té. — **`obert`, confirmat.**
+   `Requereix font externa: les actes del Consell General de 1753.` **És el
+   mateix fons que ja esperen quatre buits de la branca bancària** — vegeu
+   [el Banc Agrícol](../../economia/banca-i-fiscalitat/el-banc-agricol.md).
+4. **Qui eren els *rahonadors*** de 1877 i quina relació tenen amb el raonador
+   del ciutadà d'avui. — **`parcial`, i el corpus té les dues puntes i no el
+   fil.** **D'avui en sap molt**: el [Raonador del
+   Ciutadà](../govern/el-raonador-del-ciutada.md) es regeix per la **Llei
+   16/2024**, **no depèn del Govern sinó del parlament**, i **fa cinc feines
+   dins d'una**. **I el [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)
+   avisa d'un fals amic que aquí és clau**: a Andorra **el *raonador* és
+   l'ombudsman i el *síndic* és el president del parlament** — **a Catalunya, el
+   síndic és l'ombudsman.** **Del 1877 no en sap res.**
+
+   **I la connexió que aquesta auditoria registra**: **aquell article també
+   declara un buit que apunta cap aquí** —«quina institució hi havia abans de la
+   Llei 16/2024»—. **Dos articles pregunten per la mateixa genealogia des dels
+   dos extrems i cap dels dos no ho sabia.**
+   `Requereix font externa: la memòria dels rahonadors de 1877, i la llei del
+   Raonador anterior a la de 2024.`
 5. **Què en diu la Constitució de 1993.** [L'ordenament jurídic avui](./lordenament-juridic-avui.md)
    mostra que **no esmenta el costum** fora de l'article 84. **Però una llei del
    2021 sí:** la del notariat diu que els notaris donen fe «amb subjecció a les

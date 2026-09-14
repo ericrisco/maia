@@ -176,8 +176,16 @@ tradicionals més aquestes tres. **Buit registrat: quantes n'hi ha avui.**
    conseqüències. **Prioritari.**
 2. **L'INAF** (1989) i la seva evolució fins a l'AFA d'avui.
 3. **Els canvis de lletres de 1867**: el text, no llegit. Ara se'n sap l'objecte.
-4. **L'acord duaner de 1991**: què vol dir a la pràctica excloure'n els capítols
-   1-24, i què hi ha canviat amb l'acord d'associació.
+4. ~~**L'acord duaner de 1991**: què vol dir a la pràctica excloure'n els
+   capítols 1-24~~ — **`resolt` el 2026-09-13 amb un document que el corpus ja
+   tenia**: [la duana](../comerc/la-duana.md) ho llegeix al Codi de Duana
+   vigent. **Vol dir que Andorra és dos territoris duaners alhora**: el seu
+   propi per als **capítols 1-24** (productes agrícoles i alimentaris) i el de
+   la **Unió Duanera Comunitat Europea - Andorra** per als **25-97** (article
+   69.2). **La unió duanera andorrana és industrial.** **Continua obert** què hi
+   ha canviat amb l'acord d'associació. **I aquesta fitxa data l'acord el 1991
+   mentre que dos documents més del corpus el daten el 1990**: la divergència
+   queda registrada a [la duana](../comerc/la-duana.md) i **no s'arbitra**.
 5. **Quantes d'aquelles cinc sortides s'han fet**, i què va ser del túnel del Rat
    i del port de Cabús.
 6. **Les xifres d'avui** per a cadascuna d'aquestes taules. **Cap dada d'aquesta

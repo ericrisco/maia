@@ -81,17 +81,70 @@ popular.**
 
 ## El que falta
 
-- **Des de quan s'aplicava.** **La font dona la data final i no la inicial.**
-- **Si consta al [Manual Digest](../../historia/manual-digest/manual-digest.md)
-  o al Politar.**
-- **Casos concrets documentats.**
-- **El nunci**: el corpus no en té fitxa pròpia.
-- **Iñaki Rubio Manzano**, escriptor andorrà sense fitxa.
-- **Tor**, i la seva relació amb Andorra. **El mateix topònim surt a
-  [el minairó](../../cultura/llegendes/el-minairo.md)** com a casa que tenia
-  minairons.
+> **Auditat contra la resta del corpus el 2026-09-13.** **Tres dels sis buits
+> tenien material en altres articles que ningú no havia aplegat.**
+
+- ~~**Des de quan s'aplicava.** La font dona la data final i no la inicial.~~ —
+  **tancat el 15-09-2026 per la banda del començament.** Brutails dona
+  **atestacions del 29-12-1627, del 27-06-1628, de l'11-08-1688 i del
+  12-09-1801**, i escriu el **1904** que és **«une pratique étrange, que les
+  bayles modernes n'observent pas toujours»**
+  ([«Cadàver, alça't que la Justícia et demana»](./cadaver-alsat-que-la-justicia-te-demana.md)).
+  **Segueix obert el final**: el 1993 el dona una enciclopèdia i **el corpus no
+  té cap acta posterior al 1801 ni cap norma que l'aboleixi.**
+- ~~**Si consta al [Manual Digest](../../historia/manual-digest/manual-digest.md)
+  o al Politar.**~~ — **tancat: sí.** Brutails remet a **Politar, p. 216** per al
+  *visori* i a **p. 215 i 337** per a les *mostres*. **El corpus no ha llegit
+  aquelles pàgines**: ho sap perquè Brutails ho diu. **Del Manual Digest, res.**
+- ~~**Casos concrets documentats.**~~ — **tancat: n'hi ha quatre datats i un
+  sencer.** L'acta del **12 de setembre del 1801** a Sant Julià de Lòria és al
+  corpus **paraula per paraula**, amb el batlle, el nunci, el cirurgià i el
+  notari.
+
+> **I una cosa que obliga a llegir la fórmula de dalt amb compte.** L'acta
+> notarial del 1801 diu **«Cadaver, alsa t' que la Justicia te demana»** i que el
+> mort ho és **«perque no ou ni parle»**. **Ni la crida ni la conclusió no
+> coincideixen amb les que aquesta fitxa dona**, que vénen d'una enciclopèdia, ni
+> amb la versió francesa de Brutails. **Les tres diuen el mateix i cap no és
+> igual**, i el mateix Brutails avisa que **«les formules de cet interrogatoire
+> varient quelque peu»**. **El corpus registra les tres i no arbitra.**
+>
+> **I el 1688 la fórmula del batlle francès era una altra:** **«qui t'a morta?
+> Lo Rey t'o demana»**. **La crida nomena la sobirania de qui la pronuncia.**
+- ~~**El nunci**: el corpus no en té fitxa pròpia.~~ — **`parcial`, i el corpus
+  en té més del que sabia.** **Fitxa, cap; però el nunci surt en cinc papers
+  diferents repartits per quatre articles**, i **no estaven connectats:**
+
+  | On | Què hi fa el nunci |
+  | --- | --- |
+  | Aquesta fitxa | **Pregunta tres vegades al cadàver** — càrrec **comunal** |
+  | [L'execució forçosa](./lexecucio-forcosa.md) | **Ajudant del saig**, «professional facultat per delegació» |
+  | [Tretze dies](./tretze-dies.md) | **Fa el primer emplaçament al domicili** i, si no hi ha ningú, **ha d'esbrinar si la part hi viu** (art. 24 del Codi de Procediment Civil) |
+  | [El saig](./el-saig.md) | **Saig i nunci**, junts, a la llei del 2023 |
+  | [El glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) | **«Conserge de l'administració pública — *no només* pregoner»**; **el pregoner és el *manador*** |
+
+  > **El glossari desfà l'error més probable**: **el nunci andorrà no és el
+  > pregoner.** **I hi ha un fals amic a la mateixa paraula dins del corpus**: el
+  > **nunci apostòlic** de [el concordat del
+  > 2008](../coprincipat/el-concordat-del-2008.md) **no hi té cap relació.**
+- ~~**Iñaki Rubio Manzano**, escriptor andorrà sense fitxa.~~ — **`parcial`.**
+  **Fitxa, cap; però el corpus el té documentat**: consta a la llista d'**autors
+  i autores d'Andorra**, **n. 1974**
+  ([`Literatura_andorrana-ca.wiki`](../../../raw/web/cultura2/Literatura_andorrana-ca.wiki),
+  el material en brut de [la literatura
+  andorrana](../../cultura/literatura/literatura-andorrana.md)). **L'obra,
+  encara no.**
+- ~~**Tor**, i la seva relació amb Andorra.~~ — **`parcial`, i els dos articles
+  ja s'apuntaven l'un a l'altre.** [El minairó](../../cultura/llegendes/el-minairo.md)
+  registra **«Tor d'Alós» entre les nou cases que, segons la tradició, tenien
+  minairons**, i **subratlla que cap de les nou no és andorrana**. **Tor és, per
+  al corpus, un lloc de l'altra banda que surt dues vegades en tradicions que
+  Andorra comparteix i no posseeix.** **La relació amb Andorra segueix oberta**,
+  i **ara se sap que la pregunta és la mateixa en tots dos articles.**
 
 ## Related
+
+- [«Cadàver, alça't que la Justícia et demana»](./cadaver-alsat-que-la-justicia-te-demana.md) — l'acta notarial de 1801, sencera, i tres atestacions més.
 
 - [Justícia](./README.md)
 - [La pena de mort](./la-pena-de-mort.md)

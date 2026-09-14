@@ -259,6 +259,14 @@ Deducció de Mas: **les compraven per revendre**.
 
 1. **Els traginers.** El corpus segueix sense fitxa pròpia de l'ofici, tot i que
    ara hi ha rutes, contractants i mercaderies. **Buit registrat, ja tancable.**
+   — **`parcial` des del 2026-09-13.** **[Joan Becat](../../../fonts/becat-tesi-1993.md)
+   n'aporta l'estructura social de l'ofici**: **a cada parròquia hi havia
+   traginers que l'exercien tot l'any**, **i al seu voltant el *tragí* era una
+   activitat complementària per a homes joves i fins i tot per a adolescents**
+   ([les tres migracions](../../societat/demografia/les-tres-migracions.md)).
+   **Un ofici professional amb una massa estacional a sobre.** **Bessó** a
+   [les mules](../ramaderia-i-agricultura/les-mules.md), que el declara
+   igual. **Comptat un sol cop, és un buit i no dos.**
 2. **Les companyies de negoci**: contractes, durada, si en queda documentació
    notarial.
 3. **La quantificació global.** Mas avisa que «**és força difícil quantificar en
@@ -268,8 +276,19 @@ Deducció de Mas: **les compraven per revendre**.
    Vegeu [la revolta del tabac](../tabac/la-revolta-del-tabac-de-1733.md).
 5. **Què passa entre el 1800 i el 1895**, que és on comença la primera
    fotografia completa que té el corpus.
-6. **L'equivalència de les monedes** (lliures, sous) amb alguna magnitud
-   comparable moderna.
+6. ~~**L'equivalència de les monedes** (lliures, sous) amb alguna magnitud
+   comparable moderna.~~
+   **`resolt` — 2026-09-13, sense cap font nova**: ja era al corpus, i
+   **aquesta fitxa ja enllaçava l'article que la porta**.
+   **1 lliura catalana = 2,66 pessetes · 1 sou = 0,133 · 1 diner = 0,0111**,
+   i **10 rals = 1 lliura**, **30 lliures = 1 unça**, segons Brutails, *La
+   Coutume d'Andorre* (1904), apèndix del primer capítol
+   ([les mesures i les monedes](./les-mesures-i-les-monedes.md), `font
+   directa`).
+   **Continua obert:** **la sèrie del valor real de la lliura de 1420 a 1783**,
+   que és la taula de la pàgina 20 del mateix llibre i que **el corpus no ha
+   pogut transcriure** — buit prioritari registrat allà. Sense ella, la
+   conversió és **un sol punt del 1904** aplicat a preus de tres segles.
 
 ## Related
 

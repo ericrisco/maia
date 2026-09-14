@@ -107,11 +107,17 @@ L'autor enumera què més podria haver triat per il·lustrar la tesi, i la llist
    [l'Arxiu Nacional](../../cultura/museus-i-arxius/larxiu-nacional.md)?
    **Serien una de les millors fonts de llengua i de societat que existeixen.**
 5. **L'adaptació a l'euro** d'un país que no és a la UE.
-6. La **compravenda a carta de gràcia** i el **censal** a Andorra. **La carta de
-   gràcia, documentada en volum:** a les minutes de **1875-1877** Brutails hi compta
-   **47 vendes a carta de gràcia** contra **55 de definitives**, i **només quatre
-   recompres**. Era **el crèdit d'un país sense bancs**. Vegeu
-   [quants notaris](./quants-notaris.md). **El censal segueix obert.**
+6. ~~La **compravenda a carta de gràcia**~~ i el **censal** a Andorra. **La
+   carta de gràcia, documentada en volum:** a les minutes de **1875-1877**
+   Brutails hi compta **47 vendes a carta de gràcia** contra **55 de
+   definitives**, i **només quatre recompres**. Era **el crèdit d'un país sense
+   bancs**. Vegeu [quants notaris](./quants-notaris.md). — **`resolt` des del
+   2026-09-14, amb fitxa pròpia**:
+   [la venda a carta de gràcia](../../economia/banca-i-fiscalitat/la-carta-de-gracia.md).
+   **En surten dues coses que expliquen aquestes xifres**: **que a Andorra el
+   dret de recompra sembla il·limitat** —a Catalunya caduca als trenta anys—, i
+   **que la figura servia per encobrir préstecs amb interès**, prohibits per
+   l'Església. **El censal segueix obert.**
 
 ## Related
 

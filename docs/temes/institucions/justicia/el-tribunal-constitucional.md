@@ -111,4 +111,20 @@ exclusiva permanent, hi ha retribució per activitat.
 - **Si el Raonador ha assenyalat mai un vici d'inconstitucionalitat** al seu
   informe anual, com li mana la seva llei
   ([el Raonador](../govern/el-raonador-del-ciutada.md)), segueix sense saber-se.
+  — **`obert`, confirmat el 2026-09-13.** **El corpus té el deure i no té cap
+  informe.** `Requereix font externa: els informes anuals del Raonador del
+  Ciutadà al Consell General.`
+- ~~[El recurs d'empara](./el-recurs-dempara.md) — la via per la qual un ciutadà
+  hi arriba, i el dret que en queda fora.~~ — **això no era un buit: era un
+  enllaç relacionat dins la llista de buits.** **Corregit el 2026-09-13** i
+  mogut a `Related`, on toca. **El mateix article ja el donava per tancat al
+  primer punt d'aquesta llista**, de manera que la fitxa es contradeia amb ella
+  mateixa.
+
+## Related
+
 - [El recurs d'empara](./el-recurs-dempara.md) — la via per la qual un ciutadà hi arriba, i el dret que en queda fora.
+- [L'ordenament jurídic avui](./lordenament-juridic-avui.md) — on encaixa el Tribunal.
+- [Les lleis qualificades](./les-lleis-qualificades.md) — les normes que només es poden tocar amb majoria reforçada.
+- [El Raonador del Ciutadà](../govern/el-raonador-del-ciutada.md) — qui li pot assenyalar un vici.
+- [Els diners dels comuns](../comuns-i-parroquies/els-diners-dels-comuns.md) — el conflicte de competències de la lletra e.

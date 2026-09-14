@@ -109,16 +109,89 @@ porta a reclamar.
 Tribunal Constitucional i perd, paga. Val la pena llegir-ho al costat de
 [les taxes judicials](./resoldre-sense-judici.md).
 
+## El que hi ha abans de l'empara: tretze dies, i dues portes
+
+**Tancat el 2026-09-13**: el **procediment urgent i preferent** de l'article
+41.1 de la Constitució, que és a la **Llei transitòria de procediments
+judicials**, secció segona, articles **15 a 18**
+([`raw/lleis/llei-transitoria-procediments.txt`](../../../raw/lleis/llei-transitoria-procediments.txt)).
+
+**No hi ha una porta, n'hi ha dues, i la que et toca depèn d'on t'han lesionat
+el dret:**
+
+| Si la lesió és… | La via és… |
+| --- | --- |
+| **fora d'un procés judicial** | **demanda davant el president del Tribunal de Batlles** (art. 15) |
+| **dins d'un procés judicial**, o afecta els drets de l'**article 10 de la Constitució** | **incident de nul·litat** davant el mateix batlle o tribunal que va dictar la resolució (art. 18 quater) |
+
+**Totes dues es configuren com a «procediment urgent i preferent»** als efectes
+de l'article 41.1 — ho diu la **Llei qualificada de la Justícia**
+([`raw/lleis/llei-qualificada-justicia.txt`](../../../raw/lleis/llei-qualificada-justicia.txt)),
+que remet expressament a la Llei transitòria per a totes dues —, **i totes dues
+acaben podent arribar a l'empara.**
+
+**El calendari, i és el tret que el defineix:**
+
+| Tràmit | Termini |
+| --- | --- |
+| **Al·legacions i proposta de prova** | **13 dies hàbils** |
+| **Sentència del batlle** | **13 dies hàbils** més |
+| **Recurs d'apel·lació al Tribunal Superior** | **13 dies hàbils** |
+| **Durada total del procés** | **un mes**, prorrogable **de forma motivada i excepcional fins a tres mesos** |
+
+> **Tretze dies hàbils, cinc vegades.** **La xifra no és rodona i es repeteix a
+> tot el procediment**, incident de nul·litat inclòs. **El corpus la registra tal
+> com és** i no l'arrodoneix.
+>
+> **I un mes de sostre per a un procés de drets fonamentals amb dues instàncies**
+> és un compromís fort. **La Constitució exigeix «dues instàncies» (art. 41.1) i
+> la llei les encabeix en trenta dies.**
+
+**Dues facilitats que treuen obstacles d'entrada** (art. 18): **no cal haver
+intentat la conciliació prèvia**, ni **haver formulat recurs administratiu previ,
+d'alçada o de reposició.**
+
+**I l'incident de nul·litat té un límit doble** (18 quater.2): **13 dies hàbils
+des de la notificació** o des que s'ha conegut la vulneració, **i mai més de dos
+anys** des de la notificació de la resolució definitiva. **No suspèn l'execució**
+de la sentència, tret que el batlle ho decideixi per evitar un perjudici greu i
+de difícil reparació (18 quater.6).
+
+**I una regla que escurça el camí cap a l'empara**: **si la resolució ferma és
+del Tribunal Superior de Justícia, no cal haver formulat l'incident de nul·litat
+abans d'anar al Constitucional** (18 quater.7).
+
 ## Buits registrats
 
+> **Auditats contra el text de les lleis i contra la resta del corpus el
+> 2026-09-13.** **Dos dels quatre estaven oberts contra material que el corpus
+> ja tenia.**
+
 - **Quants recursos d'empara s'interposen i quants s'estimen**, no consta al
-  recull de lleis.
+  recull de lleis. — **`obert`, confirmat.** **Dada d'execució**, com
+  [quantes sentències ha dictat el Tribunal](./el-tribunal-constitucional.md).
+  `Requereix font externa: la memòria del Tribunal Constitucional.`
 - **Per què l'article 22 queda exclòs** de l'empara: **cap text llegit ho
-  explica**, i el corpus no ho suposa.
-- **El procediment urgent i preferent** de l'article 41.1 de la Constitució
-  —la instància ordinària que precedeix l'empara— **no s'ha llegit**.
-- **La resta de processos del Tribunal** (directe i incidental de
-  constitucionalitat, conflictes de competència) **queden per llegir**.
+  explica**, i el corpus no ho suposa. — **`parcial`, i el buit era més precís
+  del que semblava.** **L'exclusió no és una tria del legislador: és
+  constitucional.** L'article **41.2 de la Constitució** crea l'empara «contra
+  els actes dels poders públics que violin el contingut essencial dels drets
+  esmentats en l'apartat anterior, **llevat el supòsit previst a l'article 22**»
+  ([`raw/lleis/constitucio.txt`](../../../raw/lleis/constitucio.txt)).
+  **Cap llei ordinària no ho podria canviar.** **El *per què* segueix obert**, i
+  ara se sap **on cal buscar-lo**: `Requereix font externa: els debats
+  constituents de 1992-1993.`
+- ~~**El procediment urgent i preferent** de l'article 41.1 de la Constitució
+  (…) **no s'ha llegit**.~~ — **`resolt`** (secció de dalt). **El text era al
+  corpus des del primer dia**, a la Llei transitòria de procediments judicials.
+- ~~**La resta de processos del Tribunal** (directe i incidental de
+  constitucionalitat, conflictes de competència) **queden per llegir**.~~ —
+  **`parcial`, i la llista ja hi era.**
+  [El Tribunal Constitucional](./el-tribunal-constitucional.md) **enumera els
+  set procediments de l'article 6** i n'explica dos que només s'entenen a
+  Andorra: **el dictamen previ que poden demanar els coprínceps** i **el
+  conflicte de competències en què els comuns són part davant l'Estat.** **El
+  que segueix obert és la tramitació de cadascun**, no la seva existència.
 
 ## Related
 

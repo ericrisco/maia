@@ -165,12 +165,43 @@ llegats a l'Església.** Vegeu
 1. **Quants notaris hi ha avui, de fet.** La llei en fixa el mínim i el sostre;
    **el corpus no té el nombre real**.
 2. **La carta de febrer de 1607**, sencera.
-3. **Els protocols notarials històrics**: on són. Segueix sent **una de les
-   millors fonts de llengua i de societat** que el corpus podria incorporar.
+3. ~~**Els protocols notarials històrics**: on són.~~ — **`resolt` el
+   2026-09-13, i la resposta és molt bona notícia per a aquest projecte.**
+   **La Llei del notariat ho diu article per article**
+   ([`raw/lleis/notariat.txt`](../../../raw/lleis/notariat.txt)):
+
+   | Antiguitat del protocol | On va | Quan |
+   | --- | --- | --- |
+   | **L'any en curs** | **al notari**, relligat en volums abans del juny de l'any següent | art. 13.3 |
+   | **Més de 25 anys** | **Arxiu General de Protocols**, **indexats i digitalitzats** a càrrec del notari | art. 36.2 i 36.4 |
+   | **Més de 100 anys** | **Arxiu Nacional d'Andorra**, **en paper i en digital**, **cada mes de gener** | **art. 38.1** |
+
+   > **Els protocols notarials pertanyen a l'Estat andorrà** (art. 13.1), i **els
+   > de més de cent anys són a l'Arxiu Nacional, digitalitzats, per mandat
+   > legal.** **Vol dir que la millor font de llengua i de societat que el corpus
+   > podia desitjar existeix, és pública i ja està digitalitzada.**
+
+   **El que segueix obert és l'accés**: la llei regula qui els hi porta, **no en
+   quines condicions els pot consultar un tercer.** **I una reserva que cal dir**:
+   l'article 36.2 deixa que **els notaris optin per no lliurar** els seus
+   protocols de més de vint-i-cinc anys, amb una certificació; **el traspàs als
+   cent anys, en canvi, no té excepció escrita.**
+   `Requereix font externa: les condicions de consulta del fons notarial de
+   l'Arxiu Nacional d'Andorra.` Vegeu
+   [museus i arxius](../../cultura/museus-i-arxius/museus-i-arxius.md).
 4. **Quin costum** invoca l'article 2.1.a de la Llei del notariat, i on consta.
    **És la pregunta de sempre, feta a una llei de fa cinc anys.**
-5. **Les *visures***: cinc de sis transaccions de 1875-1877 n'eren. **El corpus no
-   sap què és una visura.**
+5. ~~**Les *visures***: cinc de sis transaccions de 1875-1877 n'eren. **El corpus
+   no sap què és una visura.**~~ — **`parcial`, i el corpus sí que ho sabia.**
+   El [glossari de mots
+   documentats](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) hi
+   té l'entrada: ***visura* / *veedoria*, «un tipus de tribunal»**. **Vol dir que
+   cinc de sis d'aquelles transaccions no es van fer davant de notari sinó davant
+   d'un tribunal**, cosa que canvia la lectura de la xifra. **El que segueix
+   obert és el procediment**: qui el formava, què hi passava i per què s'hi
+   anava en comptes d'anar al notari. `Requereix font externa: el Vocabulari
+   d'Andorra (1992) o el Diccionari enciclopèdic d'Andorra (2007), que el
+   glossari cita i el corpus no ha obert.`
 6. **El registre d'Anton Montanya**, rector de Sant Julià, i si es conserva.
 
 ## Related

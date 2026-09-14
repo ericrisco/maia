@@ -1,0 +1,519 @@
+FORA_DEL_CORPUS
+Publicador: Consell General. Autoria: Govern, Ministeri de Presidència, Economia, Treball i Habitatge.
+URL: https://seu.consellgeneral.ad/documentPublic/download/2827
+Consulta: 2026-09-13. Extracció pdftotext -layout. Les taules en imatge de p. 7–9 requereixen PDF o renders.
+Provinença prèvia: 02-DOCS/raw/sources/consell-general-pressupost-2026.md.
+Drets pendents; original i lectura sense datasets.
+
+                  DOCUMENTS                                                                                            REFERÈNCIES
+                  TIPUS: Memòria                                                                                       REGISTRE D'ENTRADA: 0341-2026 - 05/05/2026 09:51
+                  NOM: E-341-2026_ Memoria explicativa PL_suplement crèdit Habitatge sistema sanitari                  SIGNATURES
+                  UNITAT: Serveis Generals                                                                             CONXITA MARSOL RIART: 04/05/2026 15:49
+                  ORIGEN: Administració                                                                                CONSELL GENERAL (SIGNATURA): 05/05/2026 10:07
+                  CODI SEGUR DE VERIFICACIÓ: e5820d81-8970-4a91-91c1-f0059491e673
+                  IDENTIFICADOR: ES_XXXXXXXXX_2026_000000000000000000000000064693
+                  ESTAT D'ELABORACIÓ: Definitiu
+
+
+
+
+                            Memòria explicativa, econòmica i de perspectiva de gènere del Projecte de
+                            llei de modificació de la Llei 32/2014, del 27 de novembre, de sostenibilitat
+                            de les finances públiques i d’estabilitat pressupostària i fiscal i d’aprovació
+                            d’un suplement de crèdit per atendre inversions destinades a ampliar el
+                            parc públic d’habitatge i a enfortir el sistema sanitari
+
+
+
+                            Antecedents
+
+                            La construcció d’un parc públic d’habitatge de lloguer a preu assequible
+                            constitueix un eix central i estratègic de la política d’habitatge del Govern. Durant
+                            aquesta legislatura, s’ha dedicat una gran part del pressupost a construir,
+                            reformar i acabar els edificis que el Govern havia projectat i adquirit o arrendat
+                            per formar part d’aquest parc públic d’habitatge. Gràcies a aquest esforç, el
+                            Govern disposarà de 458 habitatges, distribuïts per totes les parròquies del país,
+                            que permetran l’accés a un habitatge digne a les persones que acreditin
+                            necessitat d’habitatge d’acord amb la normativa d’accés i adjudicació del parc
+                            públic d’habitatge.
+
+                            No obstant això, i amb la voluntat de continuar donant compliment a les
+                            recomanacions del Consell General derivades del debat d’orientació política en
+                            matèria d’habitatge del 16 de novembre del 2023, escau ampliar el parc públic
+                            d’habitatge per atendre la demanda residencial dels anys vinents.
+
+                            Actualment, el Registre de sol·licitants d’habitatges de preu assequible ha rebut
+                            1.120 sol·licituds, de les quals un 28% han estat favorables, de manera que la
+                            disponibilitat dels edificis ha donat la resposta necessària a la demanda.
+                            Tanmateix, si s’analitza en detall la situació de les llars que han vist desestimada
+                            la sol·licitud perquè no destinen més del 30% dels seus ingressos al pagament
+                            de la renda de lloguer, podem constatar que gairebé un 23% dels expedients
+                            superarien aquest llindar en el context macroeconòmic actual.
+
+                            És per això que escau ampliar el parc públic d’habitatge amb accions que tinguin
+                            un impacte gairebé immediat per disposar de més unitats immobiliàries
+                            destinades a lloguer a preu assequible.
+
+
+
+                                                                                                                                                                                        1
+
+
+
+
+                                                         PÀGINA: 1 de 10       DATA I HORA DE LA GENERACIÓ DE LA CÒPIA: 05/05/2026 10:12
+Aquest document és una còpia autèntica del document electrònic original. Podeu comprovar la seva validesa a https://registre.consellgeneral.ad/Consellers/ValidarDocuments.aspx?csv=e5820d81-8970-4a91-91c1-f0059491e673
+                                                                                             emprant el codi segur de verificació.
+                  DOCUMENTS                                                                                            REFERÈNCIES
+                  TIPUS: Memòria                                                                                       REGISTRE D'ENTRADA: 0341-2026 - 05/05/2026 09:51
+                  NOM: E-341-2026_ Memoria explicativa PL_suplement crèdit Habitatge sistema sanitari                  SIGNATURES
+                  UNITAT: Serveis Generals                                                                             CONXITA MARSOL RIART: 04/05/2026 15:49
+                  ORIGEN: Administració                                                                                CONSELL GENERAL (SIGNATURA): 05/05/2026 10:07
+                  CODI SEGUR DE VERIFICACIÓ: e5820d81-8970-4a91-91c1-f0059491e673
+                  IDENTIFICADOR: ES_XXXXXXXXX_2026_000000000000000000000000064693
+                  ESTAT D'ELABORACIÓ: Definitiu
+
+
+
+
+                            En aquest context, el Govern vol treballar des de diferents accions per
+                            incrementar el parc públic d’habitatge. Així, la dotació pressupostària prevista es
+                            destina a finançar diverses actuacions adreçades a aquesta finalitat mitjançant
+                            la convocatòria d’un concurs per a l’adquisició d’edificis sense ús, perquè un cop
+                            reformats o adequats es destinin a ús residencial. La voluntat del Govern és que
+                            la reforma d’aquests immobles sigui mínima per adequar-los als estàndards de
+                            qualitat de la resta del parc públic d’habitatge.
+
+                            Altrament, aquests crèdits també estan destinats a finançar la construcció
+                            d’edificis en parcel·les de titularitat pública o per adquirir terrenys aptes per a la
+                            construcció destinats a aquesta mateixa finalitat.
+
+                            El pressupost per a l’exercici del 2026 no disposa de prou crèdits per assumir
+                            aquestes necessitats, ja que les inversions previstes estan compromeses per a
+                            la construcció dels edificis ja projectats del parc públic d’habitatge.
+
+                            Per això, el Projecte de llei recull les partides pressupostàries necessàries per
+                            adquirir els immobles, per executar les obres necessàries per adequar-los i
+                            destinar-los a ús residencial d’habitatge i per comprar els terrenys per bastir-hi
+                            edificis.
+
+                            La urgència i la necessitat d’aquest suplement de crèdit queda justificada en la
+                            necessitat d’ampliar el parc públic d’habitatge considerant la situació
+                            macroeconòmica internacional, que pot impactar en els preus vinculats al mercat
+                            de l’habitatge i, per tant, incrementar la demanda residencial en el parc públic
+                            d’habitatge.
+
+
+
+                            I.            Memòria econòmica del compliment dels objectius establerts en la
+                            Llei 32/2014, del 27 de novembre, de sostenibilitat de les finances públiques
+                            i d’estabilitat pressupostària i fiscal i les seves modificacions posteriors
+
+                            L’article 1 d’aquest Projecte de llei preveu una modificació específica de la Llei
+                            32/2014, del 27 de novembre, de sostenibilitat de les finances públiques i
+                            d’estabilitat pressupostària i fiscal, de manera que el superàvit de les liquidacions
+                            pressupostàries de l’Estat pugui destinar-se també a inversions de naturalesa
+                            estratègica. Aquesta despesa no computa a l’efecte del límit de despesa màxima
+
+                                                                                                                                                                                        2
+
+
+
+
+                                                         PÀGINA: 2 de 10       DATA I HORA DE LA GENERACIÓ DE LA CÒPIA: 05/05/2026 10:12
+Aquest document és una còpia autèntica del document electrònic original. Podeu comprovar la seva validesa a https://registre.consellgeneral.ad/Consellers/ValidarDocuments.aspx?csv=e5820d81-8970-4a91-91c1-f0059491e673
+                                                                                             emprant el codi segur de verificació.
+                  DOCUMENTS                                                                                            REFERÈNCIES
+                  TIPUS: Memòria                                                                                       REGISTRE D'ENTRADA: 0341-2026 - 05/05/2026 09:51
+                  NOM: E-341-2026_ Memoria explicativa PL_suplement crèdit Habitatge sistema sanitari                  SIGNATURES
+                  UNITAT: Serveis Generals                                                                             CONXITA MARSOL RIART: 04/05/2026 15:49
+                  ORIGEN: Administració                                                                                CONSELL GENERAL (SIGNATURA): 05/05/2026 10:07
+                  CODI SEGUR DE VERIFICACIÓ: e5820d81-8970-4a91-91c1-f0059491e673
+                  IDENTIFICADOR: ES_XXXXXXXXX_2026_000000000000000000000000064693
+                  ESTAT D'ELABORACIÓ: Definitiu
+
+
+
+
+                            permesa i, per tant, compleix els objectius de sostenibilitat financera i d’estabilitat
+                            pressupostària atesa la solidesa de les finances públiques actuals.
+
+                            Així mateix, l’article 2 del Projecte de llei modifica l’apartat 2 de l’article 26 de la
+                            Llei general de finances públiques amb la voluntat de permetre la redistribució
+                            dels imports aprovats en un crèdit extraordinari o en un suplement de crèdit
+                            sempre que no se’n desvirtuï la finalitat original.
+
+                            Així doncs, l’article 3 preveu un crèdit extraordinari per a l’exercici 2026, per un
+                            import de 6.400.000 euros per atendre inversions destinades a ampliar el parc
+                            públic d’habitatge i a enfortir el sistema sociosanitari, per a la partida següent:
+
+                            15 Ministeri de Presidència, Economia, Treball i Habitatge – 180 Departament
+                            d’Habitatge – 180 Gabinet Tècnic d’Habitatge – D/60000 Adquisició de terrenys
+                            –106001 Habitatge social – PR0278 Habitatge
+
+                            L’article 4 preveu un suplement de crèdit per a l’exercici del 2026, per un import
+                            total de 28.600.000 d’euros, per al pressupost de l’Administració general, per
+                            atendre inversions destinades a ampliar el parc públic d’habitatge, per a les
+                            partides següents:
+
+                            15 Ministeri de Presidència, Economia, Treball i Habitatge – 180 Departament
+                            d’Habitatge – 180 Gabinet Tècnic d’Habitatge – D/60200 Adquisicions d’edificis i
+                            altres construccions –106001 Habitatge social – PR0278 Habitatge, per un
+                            import de 21.600.000 d’euros
+
+                            55 Ministeri de Territori i Urbanisme – 560 Departament d’Urbanisme – 561 Àrea
+                            d’Edificació Pública – D/60260 Construccions d’altres edificis –106001 Habitatge
+                            social – IN0109 Habitatges Socials, per un import de 6.000.000 d’euros
+
+                            55 Ministeri de Territori i Urbanisme – 560 Departament d’Urbanisme – 561 Àrea
+                            d’Edificació Pública – D/60910 Estudis i projectes d’inversió –106001 Habitatge
+                            social – IN0109 Habitatges Socials, per un import d’1.000.000 d’euros
+
+                            El suplement de crèdit, tot i que implica un augment de la despesa —en el capítol
+                            d’inversions reals—, no trenca l’equilibri pressupostari previst inicialment en el
+
+
+
+                                                                                                                                                                                        3
+
+
+
+
+                                                         PÀGINA: 3 de 10       DATA I HORA DE LA GENERACIÓ DE LA CÒPIA: 05/05/2026 10:12
+Aquest document és una còpia autèntica del document electrònic original. Podeu comprovar la seva validesa a https://registre.consellgeneral.ad/Consellers/ValidarDocuments.aspx?csv=e5820d81-8970-4a91-91c1-f0059491e673
+                                                                                             emprant el codi segur de verificació.
+                  DOCUMENTS                                                                                            REFERÈNCIES
+                  TIPUS: Memòria                                                                                       REGISTRE D'ENTRADA: 0341-2026 - 05/05/2026 09:51
+                  NOM: E-341-2026_ Memoria explicativa PL_suplement crèdit Habitatge sistema sanitari                  SIGNATURES
+                  UNITAT: Serveis Generals                                                                             CONXITA MARSOL RIART: 04/05/2026 15:49
+                  ORIGEN: Administració                                                                                CONSELL GENERAL (SIGNATURA): 05/05/2026 10:07
+                  CODI SEGUR DE VERIFICACIÓ: e5820d81-8970-4a91-91c1-f0059491e673
+                  IDENTIFICADOR: ES_XXXXXXXXX_2026_000000000000000000000000064693
+                  ESTAT D'ELABORACIÓ: Definitiu
+
+
+
+
+                            pressupost del 2026 atès que aquesta despesa no computa a l’efecte de l’article
+                            15 de l’LSEPF, relatiu al límit del dèficit de l’1% del PIB nominal.
+
+                                   1. Adquisicions d’edificis i altres construccions
+
+                            En el context econòmic actual i de tensió del mercat d’habitatge derivada de la
+                            manca d’oferta d’habitatge de preu assequible, el Govern vol incrementar la
+                            disponibilitat d’habitatges que pertanyen al parc públic d’habitatge amb la finalitat
+                            de disposar del nombre suficient d’habitatges que puguin donar resposta a un
+                            eventual increment de la demanda residencial.
+
+                            Aquesta partida també abasta l’adquisició d’edificis destinats a satisfer la
+                            necessitat d’habitatge de persones en risc d’exclusió residencial com a
+                            conseqüència de factors personals, socials o psicosocials que dificulten l’accés
+                            a un habitatge digne dins del mercat residencial tot i que dins d’aquests immobles
+                            es desenvolupen alhora prestacions tècniques i tecnològiques de la cartera de
+                            serveis socials i sociosanitaris de les quals les persones residents siguin
+                            beneficiàries.
+
+                            En aquest sentit, el Govern vol obrir novament la línia d’adquisició d’immobles i,
+                            posteriorment, cedir-ne l’ús a l’Institut Nacional de l’Habitatge perquè dugui a
+                            terme els processos d’accés, adjudicació i gestió encomanats.
+
+                            Aquesta mesura, alhora, contribueix al creixement sostenible del país en
+                            recuperar immobles que actualment estan en desús i que es destinaran a ús
+                            residencial d’habitatge.
+
+                            15 Ministeri de Presidència, Economia, Treball i Habitatge – 180 Departament
+                            d’Habitatge – 180 Gabinet Tècnic d’Habitatge – D/60200 Adquisicions d’edificis i
+                            altres construccions –106001 Habitatge social – PR0278 Habitatge, per un
+                            import de 21.600.000 d’euros
+
+                                   2. Construcció d’altres edificis
+
+                            El projecte d’adquisició d’edificis per ampliar el parc públic d’habitatge també
+                            preveu la necessitat de fer obres per adequar els edificis adquirits i destinar-los
+                            a ús residencial. En aquest sentit, s’ha considerat necessari fer el canvi de totes
+                            les instal·lacions elèctriques, de les finestres per garantir l’eficiència energètica,
+
+                                                                                                                                                                                        4
+
+
+
+
+                                                         PÀGINA: 4 de 10       DATA I HORA DE LA GENERACIÓ DE LA CÒPIA: 05/05/2026 10:12
+Aquest document és una còpia autèntica del document electrònic original. Podeu comprovar la seva validesa a https://registre.consellgeneral.ad/Consellers/ValidarDocuments.aspx?csv=e5820d81-8970-4a91-91c1-f0059491e673
+                                                                                             emprant el codi segur de verificació.
+                  DOCUMENTS                                                                                            REFERÈNCIES
+                  TIPUS: Memòria                                                                                       REGISTRE D'ENTRADA: 0341-2026 - 05/05/2026 09:51
+                  NOM: E-341-2026_ Memoria explicativa PL_suplement crèdit Habitatge sistema sanitari                  SIGNATURES
+                  UNITAT: Serveis Generals                                                                             CONXITA MARSOL RIART: 04/05/2026 15:49
+                  ORIGEN: Administració                                                                                CONSELL GENERAL (SIGNATURA): 05/05/2026 10:07
+                  CODI SEGUR DE VERIFICACIÓ: e5820d81-8970-4a91-91c1-f0059491e673
+                  IDENTIFICADOR: ES_XXXXXXXXX_2026_000000000000000000000000064693
+                  ESTAT D'ELABORACIÓ: Definitiu
+
+
+
+
+                            dels paviments, així com de les instal·lacions de cuina i cambra de bany per
+                            garantir el mateix estàndard de qualitat que la resta del parc públic d’habitatge,
+                            tot i que el grau d’intervenció dependrà de l’estat dels edificis que s’admetin.
+
+                            S’ha estimat uns costos de reforma equivalents a 6.000.000,00 d’euros, i per a
+                            estudis i projectes, d’1.000.000 d’euros.
+
+                            55 Ministeri de Territori i Urbanisme – 560 Departament d’Urbanisme – 561 Àrea
+                            d’Edificació Pública – D/60260 Construccions d’altres edificis –106001 Habitatge
+                            social – PR0278 Habitatge, per un import de 6.000.000 euros.
+
+                            55 Ministeri de Territori i Urbanisme – 560 Departament d’Urbanisme – 561 Àrea
+                            d’Edificació Pública – D/60910 Estudis i projectes d’inversió –106001 Habitatge
+                            social – PR0278 Habitatge, per un import d’1.000.000 euros.
+
+                                   3. Adquisició de terrenys
+
+                            El Govern també està interessat en l’adquisició de terrenys de titularitat pública
+                            amb la voluntat de bastir-hi edificis destinats al parc públic d’habitatge a preu
+                            assequible.
+
+                            Actualment, el Govern no disposa de terrenys propis suficients per cobrir la
+                            necessitat estimada del parc públic d’habitatge i, per això, escau concertar
+                            acords d’adquisició amb altres administracions o entitats públiques per, al seu
+                            torn, construir-hi edificis destinats a aquesta finalitat.
+
+                            15 Ministeri de Presidència, Economia, Treball i Habitatge – 180 Departament
+                            d’Habitatge – 180 Gabinet Tècnic d’Habitatge – D/60000 Adquisició de terrenys
+                            –106001 Habitatge social – PR0278 Habitatge, per un import de 6.400.000 euros
+                            per a l’exercici 2026.
+
+                                   4. Disposicions finals
+
+                            El Projecte de llei es clou amb quatre disposicions finals. La disposició final
+                            primera fa una modificació puntual de l’article 80 del Codi de l’Administració amb
+                            l’objectiu de facilitar la col·laboració i la cooperació entre administracions
+                            públiques en l’àmbit patrimonial, de manera que no cal sotmetre a subhasta
+
+
+                                                                                                                                                                                        5
+
+
+
+
+                                                         PÀGINA: 5 de 10       DATA I HORA DE LA GENERACIÓ DE LA CÒPIA: 05/05/2026 10:12
+Aquest document és una còpia autèntica del document electrònic original. Podeu comprovar la seva validesa a https://registre.consellgeneral.ad/Consellers/ValidarDocuments.aspx?csv=e5820d81-8970-4a91-91c1-f0059491e673
+                                                                                             emprant el codi segur de verificació.
+                  DOCUMENTS                                                                                            REFERÈNCIES
+                  TIPUS: Memòria                                                                                       REGISTRE D'ENTRADA: 0341-2026 - 05/05/2026 09:51
+                  NOM: E-341-2026_ Memoria explicativa PL_suplement crèdit Habitatge sistema sanitari                  SIGNATURES
+                  UNITAT: Serveis Generals                                                                             CONXITA MARSOL RIART: 04/05/2026 15:49
+                  ORIGEN: Administració                                                                                CONSELL GENERAL (SIGNATURA): 05/05/2026 10:07
+                  CODI SEGUR DE VERIFICACIÓ: e5820d81-8970-4a91-91c1-f0059491e673
+                  IDENTIFICADOR: ES_XXXXXXXXX_2026_000000000000000000000000064693
+                  ESTAT D'ELABORACIÓ: Definitiu
+
+
+
+
+                            pública l’alienació d’un bé immoble quan es tracta d’una transmissió a favor d’una
+                            administració pública i, per tant, el procediment seria el de la contractació directa.
+                            Amb aquesta mateixa finalitat, la disposició final segona modifica la Llei del Fons
+                            de Reserva de Jubilació per facilitar la transmissió directa de béns immobles del
+                            Fons a favor d’una administració pública.
+                            Les disposicions final tercera i quarta encomanen l’aprovació dels projectes de
+                            llei de text consolidat de les normes que es veuen afectades i en determina
+                            l’entrada en vigor.
+
+
+                                   II.          Integració de la perspectiva de gènere
+
+                            La integració de la perspectiva de gènere en l’aprovació de les polítiques
+                            públiques constitueix una obligació legal d’acord amb l’article 5 de la Llei
+                            13/2019, del 15 de febrer, per a la igualtat de tracte i la no-discriminació i l’article
+                            30 de la Llei 6/2022, del 31 de març, per a l’aplicació efectiva del dret a la igualtat
+                            de tracte i d’oportunitats i a la no-discriminació entre dones i homes, que
+                            determina que els projectes i les proposicions normatives de caràcter general,
+                            incloent-hi els pressuposts anuals de les administracions, els comuns, els
+                            organismes i les entitats vinculades o que en depenen, així com els plans i els
+                            programes d’especial rellevància econòmica, social i cultural que se sotmetin a
+                            l’aprovació del Consell General, han d’incloure un informe sobre el seu impacte
+                            de gènere que faci visible l’impacte diferenciat sobre les dones i els homes de
+                            les mesures projectades, i atengui especialment els factors interseccionals i les
+                            situacions d’especial vulnerabilitat de determinats col·lectius de dones.
+
+                            Altrament, l’apartat 3 de l’article 45 de la Llei 6/2022 estableix que les
+                            administracions públiques han de promoure l’accés de les dones a l’habitatge en
+                            igualtat d’oportunitats que els homes, així com el de col·lectius en situació de
+                            necessitat o en risc d’exclusió social, amb atenció especial a les famílies
+                            monoparentals i a les dones víctimes de violència de gènere.
+
+                            La creació del Registre de sol·licitants d’habitatges de preu assequible permet
+                            analitzar la demanda residencial desagregada per sexe. El 2 d’abril del 2024 es
+                            va obrir aquest Registre, que fins avui ha rebut 1.120 sol·licituds, de les quals un
+                            64% han estat presentades per dones i un 36% per homes, cosa que evidencia
+
+
+                                                                                                                                                                                        6
+
+
+
+
+                                                         PÀGINA: 6 de 10       DATA I HORA DE LA GENERACIÓ DE LA CÒPIA: 05/05/2026 10:12
+Aquest document és una còpia autèntica del document electrònic original. Podeu comprovar la seva validesa a https://registre.consellgeneral.ad/Consellers/ValidarDocuments.aspx?csv=e5820d81-8970-4a91-91c1-f0059491e673
+                                                                                             emprant el codi segur de verificació.
+                  DOCUMENTS                                                                                            REFERÈNCIES
+                  TIPUS: Memòria                                                                                       REGISTRE D'ENTRADA: 0341-2026 - 05/05/2026 09:51
+                  NOM: E-341-2026_ Memoria explicativa PL_suplement crèdit Habitatge sistema sanitari                  SIGNATURES
+                  UNITAT: Serveis Generals                                                                             CONXITA MARSOL RIART: 04/05/2026 15:49
+                  ORIGEN: Administració                                                                                CONSELL GENERAL (SIGNATURA): 05/05/2026 10:07
+                  CODI SEGUR DE VERIFICACIÓ: e5820d81-8970-4a91-91c1-f0059491e673
+                  IDENTIFICADOR: ES_XXXXXXXXX_2026_000000000000000000000000064693
+                  ESTAT D'ELABORACIÓ: Definitiu
+
+
+
+
+                            que les dones tenen més dificultats per disposar d’un habitatge a preu
+                            assequible.
+
+                            Un dels condicionants que determinen l’accés a l’habitatge és el poder adquisitiu
+                            de les persones, i concretament de les llars. Pel que fa al nombre de persones
+                            assalariades, el gener del 2026 hi havia 25.931 homes i 23.203 dones; és a dir,
+                            l’ocupació dels homes és lleugerament superior a la de les dones. Pel que fa al
+                            salari mitjà, els homes cobren 2.939,07 €, i les dones, 2.409,94 euros, i això
+                            suposa una diferència salarial de 529,13 €.
+
+                            Pel que fa a l’accés a les prestacions socials i sociosanitàries vinculades a l’àmbit
+                            de l’habitatge, les dones constitueixen les destinatàries principals d’aquests
+                            recursos en tots els supòsits (dones soles, famílies monoparentals i famílies
+                            nuclears).
+
+                            Vist que l’estadística corresponent a l’any 2025 es publica al mes de juny del
+                            2026, analitzem el tancament de l’exercici del 2024.
+
+                            L’any 2024, del nombre d’ajuts econòmics ocasionals (adreçats a cobrir
+                            necessitats bàsiques, inclòs l’allotjament) atorgats, desagregats per sexe de la
+                            persona sol·licitant, 1.905 havien estat presentats per dones (65,2%) mentre que
+                            1.018 havien estat presentades per homes (34,8%).
+
+
+
+
+                                                                                                                                                                                        7
+
+
+
+
+                                                         PÀGINA: 7 de 10       DATA I HORA DE LA GENERACIÓ DE LA CÒPIA: 05/05/2026 10:12
+Aquest document és una còpia autèntica del document electrònic original. Podeu comprovar la seva validesa a https://registre.consellgeneral.ad/Consellers/ValidarDocuments.aspx?csv=e5820d81-8970-4a91-91c1-f0059491e673
+                                                                                             emprant el codi segur de verificació.
+                  DOCUMENTS                                                                                            REFERÈNCIES
+                  TIPUS: Memòria                                                                                       REGISTRE D'ENTRADA: 0341-2026 - 05/05/2026 09:51
+                  NOM: E-341-2026_ Memoria explicativa PL_suplement crèdit Habitatge sistema sanitari                  SIGNATURES
+                  UNITAT: Serveis Generals                                                                             CONXITA MARSOL RIART: 04/05/2026 15:49
+                  ORIGEN: Administració                                                                                CONSELL GENERAL (SIGNATURA): 05/05/2026 10:07
+                  CODI SEGUR DE VERIFICACIÓ: e5820d81-8970-4a91-91c1-f0059491e673
+                  IDENTIFICADOR: ES_XXXXXXXXX_2026_000000000000000000000000064693
+                  ESTAT D'ELABORACIÓ: Definitiu
+
+
+
+
+                            Pel que fa a les característiques de la llar que encapçalen les persones
+                            sol·licitants d’aquests ajuts, cal dir que el nombre de famílies monoparentals a
+                            càrrec d’una dona ascendeix a 168 enfront de les 22 encapçalades per homes.
+
+
+
+
+                                                                                                                                                                                        8
+
+
+
+
+                                                         PÀGINA: 8 de 10       DATA I HORA DE LA GENERACIÓ DE LA CÒPIA: 05/05/2026 10:12
+Aquest document és una còpia autèntica del document electrònic original. Podeu comprovar la seva validesa a https://registre.consellgeneral.ad/Consellers/ValidarDocuments.aspx?csv=e5820d81-8970-4a91-91c1-f0059491e673
+                                                                                             emprant el codi segur de verificació.
+                  DOCUMENTS                                                                                            REFERÈNCIES
+                  TIPUS: Memòria                                                                                       REGISTRE D'ENTRADA: 0341-2026 - 05/05/2026 09:51
+                  NOM: E-341-2026_ Memoria explicativa PL_suplement crèdit Habitatge sistema sanitari                  SIGNATURES
+                  UNITAT: Serveis Generals                                                                             CONXITA MARSOL RIART: 04/05/2026 15:49
+                  ORIGEN: Administració                                                                                CONSELL GENERAL (SIGNATURA): 05/05/2026 10:07
+                  CODI SEGUR DE VERIFICACIÓ: e5820d81-8970-4a91-91c1-f0059491e673
+                  IDENTIFICADOR: ES_XXXXXXXXX_2026_000000000000000000000000064693
+                  ESTAT D'ELABORACIÓ: Definitiu
+
+
+
+
+                            Pel que fa als ajuts per a l’habitatge de lloguer, durant l’any 2024 el nombre de
+                            sol·licituds de prestacions d’aquest tipus havia estat de 1.445 sol·licituds, i les
+                            prestacions del 2023 i del 2024 corresponien a pròrrogues de la convocatòria del
+                            2022 activades d’ofici pel Departament d’Afers Socials. L’estadística d’aquestes
+                            dades no recull les dades desagregades per sexe. No obstant això, pel que fa
+                            als ajuts de lloguer per millorar el poder adquisitiu de la ciutadania atorgats durant
+                            l’any 2024, de les 464 sol·licituds presentades, 309 havien estat presentades per
+                            dones (66,6%) mentre que 155 havien estat presentades per homes (33,4%).
+
+                            El 65,4% de les sol·licituds presentades per dones va ser favorable enfront del
+                            34,6% presentades pels homes.
+
+
+
+
+                                                                                                                                                                                        9
+
+
+
+
+                                                         PÀGINA: 9 de 10       DATA I HORA DE LA GENERACIÓ DE LA CÒPIA: 05/05/2026 10:12
+Aquest document és una còpia autèntica del document electrònic original. Podeu comprovar la seva validesa a https://registre.consellgeneral.ad/Consellers/ValidarDocuments.aspx?csv=e5820d81-8970-4a91-91c1-f0059491e673
+                                                                                             emprant el codi segur de verificació.
+                  DOCUMENTS                                                                                            REFERÈNCIES
+                  TIPUS: Memòria                                                                                       REGISTRE D'ENTRADA: 0341-2026 - 05/05/2026 09:51
+                  NOM: E-341-2026_ Memoria explicativa PL_suplement crèdit Habitatge sistema sanitari                  SIGNATURES
+                  UNITAT: Serveis Generals                                                                             CONXITA MARSOL RIART: 04/05/2026 15:49
+                  ORIGEN: Administració                                                                                CONSELL GENERAL (SIGNATURA): 05/05/2026 10:07
+                  CODI SEGUR DE VERIFICACIÓ: e5820d81-8970-4a91-91c1-f0059491e673
+                  IDENTIFICADOR: ES_XXXXXXXXX_2026_000000000000000000000000064693
+                  ESTAT D'ELABORACIÓ: Definitiu
+
+
+
+
+                            Per tot el que s’ha exposat, es fa palès que la decisió d’ampliar el parc públic
+                            d’habitatge constitueix una acció positiva per facilitar l’accés a l’habitatge de la
+                            població en risc d’exclusió residencial. En aquest sentit, la situació econòmica de
+                            les dones, juntament amb les dificultats d’accés a l’habitatge com a
+                            conseqüència d’estereotips de gènere vinculats a la cura de les persones, fa que
+                            hagin de ser persones beneficiàries de forma preferent, en compliment del
+                            manament establert a l’article 45 de la Llei 6/2022. En aquest sentit, el sistema
+                            d’adjudicació del parc públic d’habitatge prioritza les persones amb menys
+                            ingressos               i     considera               especial             necessitat              d’habitatge                a      les       famílies
+                            monoparentals i a les víctimes de violència de gènere.
+
+                            En definitiva, la inversió pública en la creació d’un parc públic d’habitatge
+                            constitueix una decisió amb impacte de gènere, ja que facilita l’accés de dones
+                            a habitatge de preu assequible, i finalment, es pot considerar que aquest Projecte
+                            de llei ha tingut en compte de manera suficient la perspectiva de gènere.
+
+
+
+                            Andorra la Vella, 29 d’abril del 2026
+
+
+
+
+                            Conxita Marsol Riart
+
+                            Ministra de Presidència, Economia, Treball i Habitatge
+
+
+
+
+                                                                                                                                                                                      10
+
+
+
+
+                                                        PÀGINA: 10 de 10        DATA I HORA DE LA GENERACIÓ DE LA CÒPIA: 05/05/2026 10:12
+Aquest document és una còpia autèntica del document electrònic original. Podeu comprovar la seva validesa a https://registre.consellgeneral.ad/Consellers/ValidarDocuments.aspx?csv=e5820d81-8970-4a91-91c1-f0059491e673
+                                                                                             emprant el codi segur de verificació.
+

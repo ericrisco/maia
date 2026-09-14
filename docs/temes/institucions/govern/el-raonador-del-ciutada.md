@@ -128,13 +128,75 @@ estrangers—, ni carrera judicial o fiscal, ni assessorament jurídic, ni
 I **no pot ser candidat ni fer propaganda política** a cap elecció mentre exerceix
 (article 4.5).
 
+## Com es tramita una queixa
+
+**Tancat el 2026-09-13**: **títol II**, articles **10 a 20**.
+
+**El primer és el que menys es diu de les institucions de garantia: què costa.**
+
+> **«Totes les actuacions del Raonador del Ciutadà són gratuïtes per a la
+> persona interessada»** (art. 10.1), i **«les queixes i les reclamacions no
+> estan subjectes a cap requisit formal»** fora d'identificar-se i explicar els
+> fets (art. 12.4).
+
+| Qui pot queixar-se | **Qualsevol persona física o jurídica amb interès legítim**, «sigui quina sigui la seva nacionalitat, edat, condició o residència» (12.1) |
+| --- | --- |
+| **Menors de 12 anys** | hi han d'anar **els representants legals**, i **sense poder especial** — **de 12 anys en amunt, el menor hi va sol** |
+| **Anònimes** | **no s'admeten** (12.3) |
+| **Acusament de recepció** | **13 dies hàbils** com a màxim (12.7) — **el mateix tretze de sempre**, vegeu [tretze dies](../justicia/tretze-dies.md) |
+| **Durada de l'enquesta** | **sense dilació i, com a regla general, no més de tres mesos** (15.3) |
+| **Termini per respondre-li** | **un mes**, tant les administracions com els privats (15.4-5) |
+| **Recurs contra les seves decisions** | **cap** (art. 17) |
+
+**El seu poder real és la publicació.** Si algú no contesta, **el Raonador
+insisteix una segona vegada**; si continua sense contestar —o contesta de manera
+incompleta o insuficient—, **ho fa constar a l'informe i pot fer públics la
+identitat i el càrrec** de qui calla (15.7, 19.2-3).
+
+> **No pot obligar ningú; pot escriure el nom de qui no li ha contestat al
+> butlletí del parlament.** **La sanció és la publicitat.**
+
+**I dues portes que als estats grans es regulen a part:**
+
+- **Accés sense restriccions** «a tots els documents, bases de dades i materials
+  rellevants, **inclosos els que d'una altra manera podrien ser legalment
+  privilegiats o confidencials**», i **als edificis i a les persones, incloses
+  les privades de llibertat**, on sigui que es trobin. **Les comunicacions dels
+  detinguts amb el Raonador són privades i sense supervisió** (11.3). Vegeu
+  [la llei penitenciària](../justicia/la-llei-penitenciaria.md).
+- **Protecció de fonts**, i **especialment de qui informa d'infraccions i de
+  corrupció dins la seva pròpia empresa** (11.4). **És una clàusula
+  d'alertadors escrita dins la llei de l'ombudsman.**
+
+**Els límits, clars i amb una excepció que diu molt:** **no pot intervenir en
+assumptes portats davant un òrgan jurisdiccional**, i **si el procés comença
+després, ha d'aturar-se** (14.1-2). **Excepció**: **pot continuar informant,
+ajudant, aconsellant i assistint els menors, les víctimes de qualsevol
+discriminació i les persones amb discapacitat** (14.3). **I les queixes sobre el
+funcionament de l'Administració de justícia no les tramita**: **les trasllada al
+Consell Superior de la Justícia** i **les esmenta a l'informe anual** (art. 13).
+
+**Pot actuar d'ofici** sense cap queixa, **i la llei n'enumera els motius**:
+**discriminació, racisme, xenofòbia, antisemitisme, sexisme o intolerància**
+(16.2).
+
 ## Buits registrats
+
+> **Auditats contra el text de la llei i contra la resta del corpus el
+> 2026-09-13.**
 
 - **Qui l'ha exercit i des de quan**, el corpus no ho té.
 - **Quantes queixes rep i contra qui**, tampoc; ni si l'informe anual ha arribat
   a assenyalar mai un vici d'inconstitucionalitat.
 - **Si ha actuat mai com a *amicus curiae***, no consta.
-- **El procediment de tramitació de les queixes** (títol II i següents) no s'ha
-  llegit.
-- **Quina institució hi havia abans** de la Llei 16/2024 i què va canviar: és una
+- ~~**El procediment de tramitació de les queixes** (títol II i següents) no s'ha
+  llegit.~~ — **`resolt`** (secció de dalt). **El text era al corpus** a
+  [`raw/lleis/raonador-ciutada.txt`](../../../raw/lleis/raonador-ciutada.txt).
+- **Quina institució hi havia abans** de la Llei 16/2024 i què va canviar —
+  **`obert`, i el 2026-09-13 l'auditoria hi ha trobat un altre extrem del mateix
+  fil**: [el dret supletori](../justicia/el-dret-supletori.md) registra
+  **uns «*rahonadors*» el 1877** que van deixar una memòria citada per Brutails,
+  i **es pregunta exactament el mateix al revés**: quina relació tenen amb el
+  Raonador d'avui. **Cap dels dos articles no ho sap, i el nom és el mateix.**
+  **Segueix essent** una
   llei del 2024 en text original, i el Raonador existia abans.

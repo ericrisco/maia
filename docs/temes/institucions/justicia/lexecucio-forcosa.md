@@ -143,9 +143,21 @@ dividit en parts iguals** llevat que es provi el contrari (7.4).
   tota la protecció de l'article 8— **no és en aquestes lleis**.
 - **Si la causa de «conseqüències desproporcionades» s'ha invocat mai**, no
   consta.
+- **L'antecedent històric ja és al corpus des del 14-09-2026, i no és una
+  metàfora.** Abans del saig, qui posava algú en possessió d'una finca era **el
+  batlle, amb el cos**: entrava a la finca, agafava la persona per la mà dreta,
+  li posava **un puny de terra als camps i herba als prats** i li feia
+  **tancar i obrir la porta** amb la clau. La taxació la feien dos **prohoms
+  jurats** sota pena de cinc sous, i la divisió es marcava **plantant una fita
+  amb les seves fillolas**
+  ([Es va treure el barret perquè feia vent](../../historia/antic-regim/es-va-treure-el-barret-perque-feia-vent.md)).
+  **Segueix obert** com es passa d'allò a això: entre el darrer acte que el
+  corpus té, del **1788**, i la Llei del saig del **2023**, **no hi ha cap peça
+  intermèdia.**
 
 ## Related
 
 - [El saig](el-saig.md) — el mot, del 1266 al 2023.
+- [Es va treure el barret perquè feia vent](../../historia/antic-regim/es-va-treure-el-barret-perque-feia-vent.md) — com es donava possessió abans, i un batlle que ho va fer des de lluny.
 - [Les penes del Codi Penal](les-penes-del-codi-penal.md) — quan qui executa és l'Estat.
 - [L'ordenament jurídic avui](lordenament-juridic-avui.md) — on encaixen aquestes lleis.

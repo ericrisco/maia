@@ -111,15 +111,27 @@ efectuades i les denegades** (20.6). **Les negatives queden escrites.**
 - **Quantes sol·licituds d'accés es deneguen** i per quina lletra de l'article
   11, no consta: el registre de consultes existeix per llei, els seus números no
   són al recull.
-- **Si s'ha declarat mai informació reservada d'Estat**, i quanta, tampoc.
+- **Si s'ha declarat mai informació reservada d'Estat**, i quanta, tampoc. —
+  **`obert`, confirmat el 2026-09-14, i és el mateix buit escrit dues vegades**:
+  **[la llei de transparència](./la-llei-de-transparencia.md) el declara amb les
+  mateixes paraules.** **Comptat un sol cop, és un buit i no dos.**
+  **És una dada d'execució, no de norma**, i **cap document del corpus no la
+  té.** `Requereix font externa: el BOPA, o l'informe del Raonador.`
 - **La Comissió Nacional d'Accés i Avaluació de la Documentació** (CNAAD) —
-  composició, funcions i com s'apliquen les seves resolucions (articles 23-27)—
-  **queda per llegir**.
+  articles 23 a 27— **llegida el 14-09-2026**:
+  [El registre del que ja no hi és](../../cultura/museus-i-arxius/el-registre-del-que-ja-no-hi-es.md).
+  **El mateix òrgan que resol els recursos d'accés aprova els procediments
+  d'eliminació de documentació**, hi seu per llei **un historiador
+  contemporani**, i el quòrum exigeix **tres representants del Govern de cinc
+  membres**. **Segueix obert**: cap resolució de la CNAAD ni cap memòria anual
+  no s'ha localitzat, tot i que l'article 26.7 obliga a publicar-les al BOPA en
+  quinze dies hàbils.
 - **El títol de govern obert i participació ciutadana** (articles 29-35), amb les
   **iniciatives reglamentàries populars**, segueix **sense llegir**.
 
 ## Related
 
 - [La llei de transparència](./la-llei-de-transparencia.md) — el dret d'accés, i el que sí que es pot veure.
+- [El registre del que ja no hi és](../../cultura/museus-i-arxius/el-registre-del-que-ja-no-hi-es.md) — la CNAAD, i el règim de destrucció documental que hi ha dins d'aquesta llei.
 - [Tractar amb l'Administració](./tractar-amb-ladministracio.md) — el silenci, els terminis i el recurs.
 - [El Raonador del Ciutadà](./el-raonador-del-ciutada.md) — qui pot reclamar en nom teu.

@@ -143,14 +143,53 @@ va arribar el mateix any.
 
 ## Buits registrats
 
+> **Auditats contra la resta del corpus el 2026-09-13.** **Cap no es tanca amb
+> un document dels protagonistes** —que és el que demanen— **però dos canvien de
+> forma quan se'ls posa al costat del que el corpus ja tenia.**
+
 1. **Què en deia el copríncep episcopal**, amb la seva pròpia veu. El corpus té
-   **tres versions del que pensava el bisbe i cap document del bisbe**, fora d'una
-   frase citada d'una pastoral.
-2. **Què en deia el copríncep francès**, oficialment.
-3. **Si hi va haver mai una resposta de la Santa Seu** a l'exposició de 1894.
-4. **La sentència Laugé** (1845), sencera.
-5. **Com es va passar d'aquestes tres tesis a la del 1993.** Entre el 1904 i el
-   1993 hi ha **noranta anys** que aquesta fitxa no cobreix.
+   **tres versions del que pensava el bisbe i cap document del bisbe**, fora
+   d'una frase citada d'una pastoral. — **`obert`, confirmat, i amb un motiu
+   estructural que val la pena escriure.** **El copríncep episcopal no tenia
+   aparell administratiu d'estat**: **la seva presència a Andorra passava pels
+   rectors de les parròquies i per la gestió de l'església**, no per una
+   cancelleria ([el Coprincipat](./el-coprincipat.md), des de
+   [Becat](../../../fonts/becat-tesi-1993.md)). **Un poder que s'exerceix per
+   via pastoral deixa pastorals, no notes diplomàtiques.**
+   `Requereix font externa: l'Arxiu Diocesà d'Urgell.`
+2. **Què en deia el copríncep francès**, oficialment. — **`parcial`, i el corpus
+   té més del que aquesta fitxa comptava, encara que no sigui una declaració.**
+   **La posició francesa té un document i té un autor**: ***La Coutume
+   d'Andorre*, de Brutails, 1904**, escrita **per un jutge del Tribunal Superior
+   amb missió oficial** ([fitxa de font](../../../fonts/brutails-coutume-1904.md)).
+   **I Becat en dona el propòsit**: **proporcionar als representants del
+   copríncep «elements de comprensió de la situació andorrana, per tant de
+   decisió i de control, tant dels andorrans com del bisbe»**
+   ([el Coprincipat](./el-coprincipat.md)). **Si això és cert, el llibre no és
+   una font sobre la posició francesa: n'és un instrument.** `Tesi de Becat,
+   registrada com a seva.`
+3. **Si hi va haver mai una resposta de la Santa Seu** a l'exposició de 1894. —
+   **`obert`, confirmat.**
+4. **La sentència Laugé** (1845), sencera. — **`obert`, confirmat.**
+5. ~~**Com es va passar d'aquestes tres tesis a la del 1993.** Entre el 1904 i el
+   1993 hi ha **noranta anys** que aquesta fitxa no cobreix.~~ — **`parcial`, i
+   el corpus té ara les dues puntes del pont.** **Al final hi ha el referèndum
+   del 1993**, que segons [Becat](../../../fonts/becat-tesi-1993.md) **legitima
+   el copríncep episcopal «sense ambigüitat», amb dos coprínceps iguals en
+   drets** — **és a dir, la Constitució resol per votació el que els juristes
+   discutien per títol.** **I entremig, el corpus té les fites**: **l'afer Drozd
+   i Janousek davant el Tribunal Europeu de Drets Humans** i **la recomanació
+   del Consell d'Europa del 1990 de fer una constitució**
+   ([la cronologia](../../historia/moments-historics/la-cronologia-dandorra.md)).
+   **El que segueix obert és el fil argumental**: **com els juristes passen de
+   discutir de qui és la sobirania a donar-la per andorrana.**
+
+   > **I hi ha una lectura de Becat que, si es té en compte, canvia el sentit
+   > d'aquests noranta anys**: **«el poc pes real del copríncep bisbe va ser en
+   > tot temps el millor baluard dels andorrans contra el pes considerable i les
+   > vel·leïtats imperialistes dels governs i dels interessos francesos».**
+   > **Les tres tesis d'aquesta fitxa no es van resoldre: es van neutralitzar
+   > mútuament prou temps.** `Tesi de Becat; el corpus no l'adopta.`
 
 ## Related
 

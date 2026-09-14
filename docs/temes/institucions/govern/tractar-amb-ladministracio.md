@@ -114,6 +114,11 @@ fins i tot les subvencions atorgades sense publicitat ni concurrència.
   d'entrada: terminis, legitimació i mesures cautelars **queden pendents**.
 - **La carrera i el règim disciplinari** dels funcionaris (les 10 versions de la
   Llei 1/2019) no s'han buidat.
-- **Quants contractes menors i quants directes** s'adjudiquen l'any, tampoc.
+- **Quants contractes menors i quants directes** s'adjudiquen l'any, tampoc. —
+  **`obert`, confirmat el 2026-09-14**, i **bessó** del que declara
+  [la contractació directa](./la-contractacio-directa.md). **Comptat un sol
+  cop, és un buit i no dos.** **I val la pena dir què mesuraria**: **l'article 30.1 obre
+  nou circumstàncies d'adjudicació directa, de la a) a la i), i el corpus no sap
+  per quina se n'adjudica cap.**
 - **El Codi de l'Administració té 147 articles i n'hem llegit dos.** És la norma
   general de tot el dret administratiu andorrà i queda majoritàriament per llegir.

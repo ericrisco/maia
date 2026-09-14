@@ -98,5 +98,15 @@ judicial** amb els mitjans al seu abast.
   consolidat consultat: el recull el titula només «Codi de Procediment Civil».
 - **Què queda viu de la Llei transitòria** i què ha estat substituït pel Codi:
   **el corpus no ho ha determinat**, i amb **11 versions consolidades** la
-  resposta no és òbvia.
+  resposta no és òbvia. — **`parcial` des del 2026-09-13.** **D'un tros se'n té
+  la prova**: la **secció segona** de la Llei transitòria (arts. **15-18**,
+  el procediment de l'article 41.1 de la Constitució) i la **secció tercera**
+  (la **nul·litat d'actuacions**, arts. 18 bis a 18 quater) **segueixen
+  vigents**, perquè **la Llei qualificada de la Justícia hi remet expressament**
+  per a la tutela dels drets fonamentals
+  ([`raw/lleis/llei-qualificada-justicia.txt`](../../../raw/lleis/llei-qualificada-justicia.txt)).
+  **I hi apareix el mateix tretze**: cinc terminis de **tretze dies hàbils** en
+  aquell procediment, amb un sostre total d'**un mes**
+  ([el recurs d'empara](./el-recurs-dempara.md)). **La resta dels 221 articles
+  segueix sense determinar.**
 - **Els llindars de quantia entre ordinari i abreujat**, no llegits.

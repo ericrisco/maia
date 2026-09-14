@@ -187,7 +187,17 @@ ara** — amb datació document a document, del 1176 al 1978.
 ## El que falta
 
 - **L'inventari**, buidat.
-- Com és l'armari **físicament**: fusta, mides, època, qui el va fer.
+- ~~Com és l'armari **físicament**: fusta, mides, època, qui el va fer.~~ —
+  **`parcial` des del 14-09-2026.** El **Politar** hi dedica un capítol sencer i
+  en dona **el disseny**: **dins d'una paret, com un armari**, amb **dues
+  tancadures** —**portes de fusta a dins**, amb pany i clau propis **i un
+  «secret» a part per obrir-les**, i **portes de ferro a fora amb sis panys i sis
+  claus diferents**, cadascuna **marcada amb el nom de la seva parròquia**— més
+  **dos, tres o quatre calaixos amb clau pròpia per als diners del Consell**
+  ([Dues portes, sis panys i un secret](./dues-portes-sis-panys-i-un-secret.md)).
+  **Segueix obert**: **mides, fusta, autor i data**, i **si l'armari que hi ha
+  avui és aquest** o si es va arribar a construir així. **I què era el
+  «secret»**: el text el nomena dues vegades i no el descriu.
 - Si les set claus **encara existeixen** i qui les guarda avui.
 - **Quan es va obrir per última vegada** amb les set claus posades.
 - Les **catorze exposicions virtuals** de l'Arxiu Nacional, accessibles al seu
@@ -197,6 +207,7 @@ ara** — amb datació document a document, del 1176 al 1978.
 
 ## Related
 
+- [Dues portes, sis panys i un secret](./dues-portes-sis-panys-i-un-secret.md) — com el Politar manava que fos aquest armari, i què hi havia a cada calaix.
 - [La Casa de la Vall](./casa-de-la-vall.md) — on és.
 - [Les set parròquies](../comuns-i-parroquies/les-set-parroquies.md) — les set claus.
 - [L'Arxiu Nacional](../../cultura/museus-i-arxius/larxiu-nacional.md)

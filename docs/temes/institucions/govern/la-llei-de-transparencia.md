@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: jurisprudencia-ad
-timestamp: 2026-09-13T18:50:00Z
+timestamp: 2026-09-14T11:10:00Z
 tags: [institucions, govern, dret, drets, societat, consell-general]
 ---
 
@@ -117,10 +117,19 @@ Documentació** (capítol cinquè).
   [el que no et deixen veure](./el-que-no-et-deixen-veure.md). Una de les dotze
   causes no té equivalent enlloc: **les relacions amb els coprínceps i els seus
   serveis**. Queda per llegir **l'article 12**, de protecció de dades.
-- **El títol IV, de govern obert**, i la Comissió Nacional queden per llegir.
+- **El títol IV, de govern obert**, queda per llegir. **La Comissió Nacional
+  d'Accés i Avaluació de la Documentació, llegida el 14-09-2026**
+  ([El registre del que ja no hi és](../../cultura/museus-i-arxius/el-registre-del-que-ja-no-hi-es.md)):
+  és **l'òrgan que aprova els procediments d'eliminació de documentació**, i els
+  comuns hi seuen **sense votar els recursos**, perquè els seus recursos els
+  resol el Consell de Comú amb informe preceptiu i no vinculant de la CNAAD.
+  **Cap resolució ni memòria anual localitzades.**
 - **Quantes sol·licituds d'accés hi ha hagut** i quantes s'han denegat, no
   consta.
-- **Quanta informació s'ha declarat reservada d'Estat**, tampoc.
+- **Quanta informació s'ha declarat reservada d'Estat**, tampoc. — **`obert`,
+  confirmat el 2026-09-14**, i **bessó** del que declara
+  [el que no et deixen veure](./el-que-no-et-deixen-veure.md).
+  **Comptat un sol cop, és un buit i no dos.**
 - **Si el caràcter confidencial de la declaració de patrimoni s'ha discutit**
   políticament, el corpus no en té cap font.
 

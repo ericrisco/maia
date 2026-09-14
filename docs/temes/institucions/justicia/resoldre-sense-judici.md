@@ -114,13 +114,61 @@ matèria penal» (article 1). En un estat encaixat entre dues jurisdiccions gran
 
 ## Buits registrats
 
-- **El nombre de notaris** i la seva evolució ja són al corpus
+> **Auditats contra el text de les lleis el 2026-09-13.** **Dos estaven mal
+> localitzats** i tots dos es tanquen amb text que el corpus ja tenia.
+
+- ~~**El nombre de notaris** i la seva evolució ja són al corpus
   ([quants notaris](quants-notaris.md)); **la resta de la Llei del notariat**
-  —el protocol, els instruments públics, la Cambra— **no s'ha llegit**.
+  —el protocol, els instruments públics, la Cambra— **no s'ha llegit**.~~ —
+  **`parcial`, i el tros que importa ja és buidat.** **El protocol i el seu
+  destí** són ara a [quants notaris](quants-notaris.md): **els protocols
+  pertanyen a l'Estat andorrà**, es relliguen anualment, **passen a l'Arxiu
+  General de Protocols als 25 anys** i **a l'Arxiu Nacional d'Andorra als 100**,
+  en paper i digital. **De la Cambra de Notaris**, la llei diu que és **un
+  organisme de dret públic de pertinença obligatòria**, regit pel **principi de
+  democràcia interna**, amb **presidència elegida per majoria simple per quatre
+  anys** —i **si hi ha empat després de tres votacions, presideix el notari amb
+  més anys d'exercici o, si no, el de més edat** (art. 33). **Proposa els barems
+  d'honoraris, i el Govern els ha d'aprovar** (art. 34). **Queda per llegir** el
+  règim disciplinari (arts. 20-32) i el **Registre de Disposicions de Darrera
+  Voluntat**.
 - **Els requisits de col·legiació** dels advocats (article 7) i el **Col·legi
-  Oficial d'Advocats** no s'han buidat.
-- **Els imports de les taxes judicials** són als articles 4 i següents i **no
-  s'han llegit**: el corpus sap qui no paga, no quant paguen els altres.
+  Oficial d'Advocats** no s'han buidat. — **`obert`, confirmat.**
+- ~~**Els imports de les taxes judicials** són als articles 4 i següents i **no
+  s'han llegit**: el corpus sap qui no paga, no quant paguen els altres.~~ —
+  **`resolt`, i el buit estava mal adreçat: no són a l'article 4, són a
+  l'article 10.** **L'article 4 fixa la base de tributació** —la quantia de
+  l'afer— i **els articles 5, 7, 8 i 11 estan buits**, sense contingut, després
+  de les reformes. **La tarifa sencera:**
+
+  | Quantia del procés | Taxa |
+  | --- | ---: |
+  | fins a **1.000 €** | **20 €** |
+  | 1.001 – 6.000 € | **30 €** |
+  | 6.001 – 10.000 € | **50 €** |
+  | 10.001 – 20.000 € | **70 €** |
+  | 20.001 – 60.000 € | **100 €** |
+  | 60.001 – 150.000 € | **200 €** |
+  | 150.001 – 300.000 € | **300 €** |
+  | 300.001 – 600.000 € | **400 €** |
+  | 600.001 – 1.800.000 € | **500 €** |
+  | **més d'1.800.000 €** | **0,04%** |
+  | **quantia indeterminada**, i arrendaments | **100 €** fixos |
+
+  **I les menudes, que són les que es paguen més sovint**: **certificat, 10 €**;
+  **legalització d'un document, 3 €**; **còpia simple en paper, 0,15 € cadascuna**
+  (art. 10.3). **Jurisdicció voluntària per a dipòsits o consignacions, 10 €**, i
+  **exempta si l'objecte és la defensa i assistència lletrada gratuïta**
+  (10.2.b).
+
+  > **A partir d'1.800.000 euros la taxa deixa de ser un tram fix i passa a ser
+  > un percentatge.** **Fins aquí, litigar per mig milió costa 400 euros**;
+  > **per deu milions, 4.000.** `deducció del corpus`: **el disseny protegeix el
+  > litigi petit i només comença a pesar molt amunt.**
+
+  **I la sanció per no pagar és processal, no econòmica**: si no s'adjunta el
+  justificant, **el secretari judicial requereix esmena en deu dies hàbils** i,
+  si no s'esmena, **l'escrit s'inadmet** (art. 6).
 - **Quants procediments de mediació i d'arbitratge hi ha**, no consta.
 - **La cooperació judicial** només s'ha llegit en el seu article primer: les
   condicions concretes de l'ajuda, l'extradició i el reconeixement de

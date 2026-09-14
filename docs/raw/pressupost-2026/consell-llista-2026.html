@@ -1,0 +1,3049 @@
+
+
+
+
+	
+
+
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    
+    
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<meta name="description" content="&lt;p&gt;Benvinguts a la Seu electr&amp;ograve;nica del Consell General del Principat d&#39;Andorra, l&#39;entorn segur per a la comunicaci&amp;oacute; i intercanvi d&#39;informaci&amp;oacute; i prestaci&amp;oacute; de serveis electr&amp;ograve;nics del Consell General del Principat d&#39;Andorra. Aqu&amp;iacute; podreu trobar la informaci&amp;oacute; sobre serveis que s&amp;rsquo;ofereixen i consultar informaci&amp;oacute; com ara l&amp;rsquo;estat dels vostres expedients i altra informaci&amp;oacute;.&lt;/p&gt;">
+
+
+    
+    
+    <title> Publicacions oficials - Consell General Principat d&#39;Andorra </title>
+
+    
+    
+
+<link rel="stylesheet" href="/css/jquery/jquery-ui/jquery-ui-1.14.0.css">
+
+
+
+    <link rel="stylesheet" href="/base2024/css/main.css" >
+    <link rel="stylesheet" href="/consellandorra/css/main.css">
+
+
+
+
+
+    <link rel="stylesheet" href="/configuration/css/9e516059-2df1-4eae-906b-2280d4c0d1c7">
+
+
+
+<link rel="stylesheet" href="/base2024/icons/css/font-awesome.css">
+
+
+    
+    
+<script>
+    function getCookie(name) {
+        // Split cookie string and get all individual name=value pairs in an array
+        let cookieArr = document.cookie.split(";");
+
+        // Loop through the array elements
+        for(let i = 0; i < cookieArr.length; i++) {
+            let cookiePair = cookieArr[i].split("=");
+
+            /* Removing whitespace at the beginning of the cookie name
+            and compare it with the given string */
+            if(name === cookiePair[0].trim()) {
+                // Decode the cookie value and return
+                return decodeURIComponent(cookiePair[1]);
+            }
+        }
+
+        // Return null if not found
+        return null;
+    }
+    function isGAEnabled() {
+        const cookies = getCookie('cb-enabled');
+        if (cookies != null && cookies !== "") {
+            const json = JSON.parse(cookies);
+            const analytics = json['analytics'] !== undefined ? json['analytics'] : false;
+            const ga = json['ga'] !== undefined ? json['ga'] : false;
+            return analytics || ga;
+        }
+        return false;
+    }
+
+    function isPiwikEnabled() {
+        const cookies = getCookie('cb-enabled');
+        if (cookies != null && cookies !== "") {
+            const json = JSON.parse(cookies);
+            const analytics = json['analytics'] !== undefined ? json['analytics'] : false;
+            const piwik = json['piwik'] !== undefined ? json['piwik'] : false;
+            return analytics || piwik;
+        }
+        return false;
+    }
+
+
+</script>
+
+<!-- Google Analytics -->
+
+
+
+<!-- Fi de Google Analytics -->
+
+<!-- PIWIK APDCAT -->
+
+
+
+
+
+
+
+<script src="/js/jquery/jquery-3.7.1.min.js"></script>
+<script src="/js/jquery/jquery-ui-1.14.0.min.js"></script>
+
+
+
+
+<script src="/js/jquery/jquery.treeview.js"></script>
+<link rel="stylesheet" href="/css/jquery/jquery.treeview/jquery.treeview.css">
+
+
+
+    <script
+            src="/js/jquery/jquery.ui.datepicker-ca.js"></script>
+
+
+
+    <link rel="stylesheet" href="/css/cookies.css">
+
+
+
+
+
+
+
+
+
+
+
+    <script>
+        //<![CDATA[
+        let nSinc = 0;
+        var horaOfi = 1789315245565;
+        var dataSeu = new Date(horaOfi);
+
+        setInterval("actualitzaHora()", 1000);
+
+        function actualitzaHora() {
+            nSinc++;
+            if (nSinc > 60) {
+                ajaxSincronitzaHora();
+            } else {
+
+                horaOfi = horaOfi + 1000;
+                dataSeu.setTime(horaOfi);
+
+                var hor = dataSeu.getHours();
+                if (hor < 10)
+                    hor = "0" + hor
+                var sec = dataSeu.getSeconds();
+                if (sec < 10)
+                    sec = "0" + sec
+                var min = dataSeu.getMinutes();
+                if (min < 10)
+                    min = "0" + min
+
+                jQuery('#horaOficialUpdate .horaOficialTime').html(hor + ":" + min + ":" + sec);
+            }
+
+
+        }
+
+        function ajaxSincronitzaHora() {
+            nSinc = 0;
+            const noString = false
+
+            jQuery.ajax({
+                cache: false,
+                timeout: 300000,
+                url: "/calendariPublic/getHoraOficial2?nSinc=" + nSinc + "&noString=" + noString,
+                success: function (data) {
+                    var foo = data.split('!');
+                    horaOfi = parseInt(foo[1]);
+                    jQuery('#horaOficialUpdate').html(foo[0]);
+                }
+            });
+            return false;
+        }
+
+        //]]>
+    </script>
+
+
+<script>
+    jQuery(document).ready(function () {
+        jQuery(".arbreTramits").treeview({
+            persist: "location",
+            collapsed: true,
+            unique: true
+        });
+    });
+</script>
+
+
+
+
+
+
+
+
+    
+    <link rel="shortcut icon" href="/consellandorra/images/favicon.ico" type="image/x-icon">
+
+    
+    
+
+    
+
+
+
+    
+    
+    
+    
+    <meta name="layout" content="publicLayout">
+    <link rel="stylesheet" href="/css/publicTreeList.css" />
+    <script type="text/javascript" src="/js/publicTreeList.js"></script>
+    
+        <script >
+            jQuery(document).ready(function () {
+                jQuery("input#jQueryDate_dataAprovacioInici").datepicker({
+                    buttonText: "Seleccionar data",
+                    buttonImage: '/consellandorra/images/calendar-days-regular-svg.png',
+                    buttonImageOnly: true,
+                    firstDay: 1,
+                    changeMonth: true,
+                    changeYear: true,
+                    dateFormat: 'dd/mm/yy',
+                    showOn: 'both',
+                    onClose: function (dateText, inst) {
+                        this.nextSibling.focus();
+                    }
+                });
+                jQuery("input#jQueryDate_dataAprovacioFi").datepicker({
+                    buttonText: "Seleccionar data",
+                    buttonImage: '/consellandorra/images/calendar-days-regular-svg.png',
+                    buttonImageOnly: true,
+                    firstDay: 1,
+                    changeMonth: true,
+                    changeYear: true,
+                    dateFormat: 'dd/mm/yy',
+                    showOn: 'both',
+                    onClose: function (dateText, inst) {
+                        this.nextSibling.focus();
+                    }
+                });
+                jQuery("input#jQueryDate_dataEntradaVigorInici").datepicker({
+                    buttonText: "Seleccionar data",
+                    buttonImage: '/consellandorra/images/calendar-days-regular-svg.png',
+                    buttonImageOnly: true,
+                    firstDay: 1,
+                    changeMonth: true,
+                    changeYear: true,
+                    dateFormat: 'dd/mm/yy',
+                    showOn: 'both',
+                    onClose: function (dateText, inst) {
+                        this.nextSibling.focus();
+                    }
+                });
+                jQuery("input#jQueryDate_dataEntradaVigorFi").datepicker({
+                    buttonText: "Seleccionar data",
+                    buttonImage: '/consellandorra/images/calendar-days-regular-svg.png',
+                    buttonImageOnly: true,
+                    firstDay: 1,
+                    changeMonth: true,
+                    changeYear: true,
+                    dateFormat: 'dd/mm/yy',
+                    showOn: 'both',
+                    onClose: function (dateText, inst) {
+                        this.nextSibling.focus();
+                    }
+                });
+                jQuery("#jQueryDate_dataAprovacioInici_clean").click(function () {
+                    jQuery("#jQueryDate_dataAprovacioInici").val('');
+                });
+                jQuery("#jQueryDate_dataAprovacioFi_clean").click(function () {
+                    jQuery("#jQueryDate_dataAprovacioFi").val('');
+                });
+                jQuery("#jQueryDate_dataEntradaVigorInici_clean").click(function () {
+                    jQuery("#jQueryDate_dataEntradaVigorInici").val('');
+                });
+                jQuery("#jQueryDate_dataEntradaVigorFi_clean").click(function () {
+                    jQuery("#jQueryDate_dataEntradaVigorFi").val('');
+                });
+            });
+        </script>
+    
+
+
+
+</head>
+
+<body>
+
+
+
+
+<div class="bodyTop">
+    
+</div>
+
+
+
+<header>
+
+    
+        
+
+
+
+
+
+
+
+    
+
+
+    
+    
+
+
+
+    
+
+    
+        <div class="HEADER" id="HEADER_1">
+            
+                
+
+
+
+
+<div class="zone_1">
+    
+        
+        
+            
+
+<a class="" id="content_41" href="https://www.consellgeneral.ad/"
+   target="_blank">
+    <span>Web del Consell General</span>
+</a>
+
+        
+    
+        
+        
+            
+
+<a class="" id="content_59" href="https://registre.consellgeneral.ad/Ciutadania/"
+   target="_blank">
+    <span>Tràmits</span>
+</a>
+
+        
+    
+        
+        
+            
+
+<a class="" id="content_60" href="https://www.bopa.ad/"
+   target="_blank">
+    <span>BOPA / Portal jurídic</span>
+</a>
+
+        
+    
+</div>
+            
+                
+
+
+
+
+<div class="zone_2">
+    
+        
+        
+            
+
+
+
+    <a href="https://registre.consellgeneral.ad/Ciutadania/ValidarDocuments.aspx" class="validador" id="content_43" target=&quot;_blank&quot;>
+        <img src="/dynamicItem/icon/1201"
+             alt="Validador de documents" class="icon">
+        
+            <span>Validador de documents</span>
+        
+    </a>
+
+
+
+
+
+
+        
+    
+</div>
+            
+                
+
+
+
+
+<div class="zone_3">
+    
+        
+        
+            <div id="oficial-time">
+    <div id="horaOficialUpdate">
+        <span class='horaOficialText'>Data i hora oficial: </span><span class='horaOficialDate'>diumenge 13 de setembre de 2026, </span><span class='horaOficialTime notranslate'>16:00:45</span>
+    </div>
+</div>
+        
+    
+        
+        
+            
+
+
+
+    <a href="/dynamicItemPublic/mostrarContingut/42" class="ajuda" id="content_42" >
+        <img src="/dynamicItem/icon/1200"
+             alt="Ajuda" class="icon">
+        
+            <span>Ajuda</span>
+        
+    </a>
+
+
+
+
+
+
+        
+    
+</div>
+            
+        </div>
+    
+
+    
+
+    
+        <div class="HEADER" id="HEADER_2">
+            
+                
+
+
+
+
+<div class="zone_1">
+    
+        
+        
+            
+
+
+
+<a class="oficial-title" href="/" target="_self" rel="noopener noreferrer">
+    
+        <div class="logo">
+            <img src="/dynamicItem/icon/1276"
+                 alt="Consell General Principat d&#39;Andorra">
+        </div>
+    
+
+    <div class="title">
+        <h1>Seu electrònica </h1>
+
+        
+    </div>
+</a>
+
+        
+    
+</div>
+            
+                
+
+
+
+
+<div class="zone_2">
+    
+        
+        
+            
+
+
+<div class="dropdown menu-dropdown" data-open="false">
+    <script>
+    $(document).ready(function () {
+        
+        class Dropdown {
+            constructor(container) {
+                this.isOpen = false;
+                this.activeIndex = undefined;
+
+                this.container = container;
+                this.button = container.querySelector(".dropdown-button");
+                this.menu = container.querySelector(".dropdown-menu");
+                this.items = container.querySelectorAll(".dropdown-menu-item");
+            }
+
+            initEvents() {
+                this.button.addEventListener("click", this.toggle.bind(this));
+                document.addEventListener("click", this.onClickOutside.bind(this));
+                document.addEventListener("keydown", this.onKeyEvent.bind(this));
+            }
+
+            toggle() {
+                this.isOpen = !this.isOpen;
+                this.button.setAttribute("aria-expanded", this.isOpen);
+                this.menu.setAttribute("aria-hidden", !this.isOpen);
+                this.container.dataset.open = this.isOpen;
+            }
+
+            onClickOutside(e) {
+                if (!this.isOpen) return;
+
+                let targetElement = e.target;
+
+                do {
+                    if (targetElement == this.container) return;
+
+                    targetElement = targetElement.parentNode;
+                } while (targetElement);
+
+                this.toggle();
+            }
+
+            onKeyEvent(e) {
+                if (!this.isOpen) return;
+
+                if (e.key === "Tab") {
+                    this.toggle();
+                }
+
+                if (e.key === "Escape") {
+                    this.toggle();
+                    this.button.focus();
+                }
+
+                if (e.key === "ArrowDown") {
+                    this.activeIndex =
+                        this.activeIndex < this.items.length - 1 ? this.activeIndex + 1 : 0;
+                    this.items[this.activeIndex].focus();
+                }
+
+                if (e.key === "ArrowUp") {
+                    this.activeIndex =
+                        this.activeIndex > 0 ? this.activeIndex - 1 : this.items.length - 1;
+                    this.items[this.activeIndex].focus();
+                }
+            }
+        }
+
+        const dropdowns = document.querySelectorAll(".dropdown");
+        dropdowns.forEach((dropdown) => new Dropdown(dropdown).initEvents());
+    });
+</script>
+
+    <button class="menu-toggle dropdown-button" id="menu-toggle" aria-expanded="false">
+        <span class="screen-reader-text">Menú</span>
+        <svg class="icon icon-menu-toggle" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100">
+            <g class="svg-menu-toggle">
+                <path class="line line-1" d="M5 13h90v14H5z"/>
+                <path class="line line-2" d="M5 43h90v14H5z"/>
+                <path class="line line-3" d="M5 73h90v14H5z"/>
+            </g>
+        </svg>
+    </button>
+    <div class="dropdown-menu scale">
+        
+            <ul class="col" role="menu" aria-hidden="true">
+                
+                
+                    <li class="dropdown-menu-item" tabindex="-1" role="menuitem">
+                        
+
+    <a href="/dynamicItemPublic/mostrarContingut/7" class="link contingut_7 infoSeu">
+        <span style="">Què és la seu electrònica?</span>
+    </a>
+
+
+
+                    </li>
+                
+                    <li class="dropdown-menu-item" tabindex="-1" role="menuitem">
+                        
+
+    <a href="/dynamicItemPublic/mostrarContingut/31" class="link contingut_31 null">
+        <span style="">Formats de documents admesos</span>
+    </a>
+
+
+
+                    </li>
+                
+                    <li class="dropdown-menu-item" tabindex="-1" role="menuitem">
+                        
+
+    <a href="/dynamicItemPublic/mostrarContingut/9" class="link contingut_9 relacioCertificats">
+        <span style="">Relació de signatures electròniques i certificats digitals admesos</span>
+    </a>
+
+
+
+                    </li>
+                
+                    <li class="dropdown-menu-item" tabindex="-1" role="menuitem">
+                        
+
+    <a href="/dynamicItemPublic/mostrarContingut/12" class="link contingut_12 null">
+        <span style="">Calendari laboral i horari d'atenció al públic</span>
+    </a>
+
+
+
+                    </li>
+                
+            </ul>
+        
+            <ul class="col" role="menu" aria-hidden="true">
+                
+                
+                    <li class="dropdown-menu-item" tabindex="-1" role="menuitem">
+                        
+
+    <a href="/dynamicItemPublic/mostrarContingut/13" class="link contingut_13 null">
+        <span style="">Interrupcions previstes de la seu</span>
+    </a>
+
+
+
+                    </li>
+                
+            </ul>
+        
+    </div>
+
+</div>
+
+        
+    
+</div>
+            
+        </div>
+    
+
+    
+
+    
+        <div class="HEADER" id="HEADER_3">
+            
+                
+
+
+
+
+<div class="zone_1">
+    
+        
+        
+            
+
+
+
+
+
+
+<div class="header-searcher" style='background-image: url("/dynamicItem/icon/1226")'>
+    <div class="search-bar">
+        <form action="/cerca/index" method="get" >
+            <label for="search">Cerca per paraules</label>
+            <input type="text" name="q" minlength="3" id="search" class="header-navbar__searchInput"
+                   placeholder="">
+            <!-- Si existe el parametro codi -->
+            
+            <button type="submit" class="header-navbar__searchButton">Cercar</button>
+        </form>
+    </div>
+
+    
+</div>
+
+        
+    
+</div>
+            
+        </div>
+    
+
+
+
+
+
+    
+        <div id="filAriadna">
+            <div class="container">
+                <div id="molletes">
+                    <a href="/">Inici</a>
+                </div>
+            </div>
+        </div>
+    
+
+
+
+</header>
+
+<div class="contenedor">
+
+    
+
+    
+    
+        <h2>Publicacions oficials</h2>
+    
+
+
+
+
+    
+    
+    
+        <aside>
+            <ul></ul>
+        </aside>
+    
+    
+    
+
+
+    <main>
+        
+        
+<div class="areaTreballContent">
+    
+
+
+
+    
+
+
+
+    
+    <div class="duesColumnes row">
+        
+            <div id="llistatTemes" class="col-sm-4">
+                
+                
+
+
+<ul class="depth0 arbreTramits">
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/5" title="Butllet&iacute; del Consell General">
+					Butllet&iacute; del Consell General
+				</a>
+			
+			
+				
+
+
+<ul class="depth1 arbreTramits">
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/57" title="BCG - Per data">
+					BCG - Per data
+				</a>
+			
+			
+				
+
+
+<ul class="depth2 arbreTramits">
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/65" title="BCG 2026">
+					BCG 2026
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/64" title="BCG 2025">
+					BCG 2025
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/62" title="BCG 2024">
+					BCG 2024
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/63" title="BCG 2023">
+					BCG 2023
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/7" title="Composici&oacute; dels &ograve;rgans de la Cambra">
+					Composici&oacute; dels &ograve;rgans de la Cambra
+				</a>
+			
+			
+				
+
+
+<ul class="depth2 arbreTramits">
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/8" title="Elecci&oacute; de la Sindicatura">
+					Elecci&oacute; de la Sindicatura
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/9" title="Composici&oacute; dels altres &ograve;rgans">
+					Composici&oacute; dels altres &ograve;rgans
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/10" title="Procediment legislatiu com&uacute;">
+					Procediment legislatiu com&uacute;
+				</a>
+			
+			
+				
+
+
+<ul class="depth2 arbreTramits">
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/11" title="Projectes de llei">
+					Projectes de llei
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/12" title="Proposicions de llei">
+					Proposicions de llei
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/41" title="Proposici&oacute; de llei d&#39;iniciativa parlament&agrave;ria">
+					Proposici&oacute; de llei d&#39;iniciativa parlament&agrave;ria
+				</a>
+			
+			
+				
+
+
+<ul class="depth4 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/42" title="Proposici&oacute; de llei d&#39;iniciativa comunal">
+					Proposici&oacute; de llei d&#39;iniciativa comunal
+				</a>
+			
+			
+				
+
+
+<ul class="depth4 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/43" title="Proposici&oacute; de llei d&#39;iniciativa popular">
+					Proposici&oacute; de llei d&#39;iniciativa popular
+				</a>
+			
+			
+				
+
+
+<ul class="depth4 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+</ul>
+
+			
+		</li>
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/13" title="Procediments especials">
+					Procediments especials
+				</a>
+			
+			
+				
+
+
+<ul class="depth2 arbreTramits">
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/14" title="Llei del Pressupost General">
+					Llei del Pressupost General
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/15" title="Projectes de llei qualificada">
+					Projectes de llei qualificada
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/16" title="Proposicions de llei qualificada">
+					Proposicions de llei qualificada
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/44" title="Proposici&oacute; de llei qualificada d&#39;iniciativa parlament&agrave;ria">
+					Proposici&oacute; de llei qualificada d&#39;iniciativa parlament&agrave;ria
+				</a>
+			
+			
+				
+
+
+<ul class="depth4 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/45" title="Proposici&oacute; de llei qualificada d&#39;iniciativa comunal">
+					Proposici&oacute; de llei qualificada d&#39;iniciativa comunal
+				</a>
+			
+			
+				
+
+
+<ul class="depth4 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/46" title="Proposici&oacute; de llei qualificada d&#39;iniciativa popular">
+					Proposici&oacute; de llei qualificada d&#39;iniciativa popular
+				</a>
+			
+			
+				
+
+
+<ul class="depth4 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/17" title="Legislaci&oacute; d&#39;extrema urg&egrave;ncia i necessitat">
+					Legislaci&oacute; d&#39;extrema urg&egrave;ncia i necessitat
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/18" title="Lleis de lectura &uacute;nica">
+					Lleis de lectura &uacute;nica
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/19" title="Reforma constitucional">
+					Reforma constitucional
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/20" title="Tractats Internacionals">
+					Tractats Internacionals
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/21" title="Consolidaci&oacute; de la legislaci&oacute; vigent">
+					Consolidaci&oacute; de la legislaci&oacute; vigent
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/22" title="Impuls i control de l&#39;acci&oacute; pol&iacute;tica del Govern">
+					Impuls i control de l&#39;acci&oacute; pol&iacute;tica del Govern
+				</a>
+			
+			
+				
+
+
+<ul class="depth2 arbreTramits">
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/23" title="Elecci&oacute; del Cap de Govern">
+					Elecci&oacute; del Cap de Govern
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/24" title="Moci&oacute; de censura">
+					Moci&oacute; de censura
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/25" title="Q&uuml;esti&oacute; de confian&ccedil;a">
+					Q&uuml;esti&oacute; de confian&ccedil;a
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/26" title="Preguntes al Govern">
+					Preguntes al Govern
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/27" title="Preguntes amb resposta oral en el Ple">
+					Preguntes amb resposta oral en el Ple
+				</a>
+			
+			
+				
+
+
+<ul class="depth4 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/28" title="Preguntes amb resposta escrita">
+					Preguntes amb resposta escrita
+				</a>
+			
+			
+				
+
+
+<ul class="depth4 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/29" title="Respostes escrites">
+					Respostes escrites
+				</a>
+			
+			
+				
+
+
+<ul class="depth4 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/30" title="Preguntes urgents">
+					Preguntes urgents
+				</a>
+			
+			
+				
+
+
+<ul class="depth4 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/31" title="Debat sobre l&#39;orientaci&oacute; pol&iacute;tica del Govern">
+					Debat sobre l&#39;orientaci&oacute; pol&iacute;tica del Govern
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/32" title="Propostes de resoluci&oacute;">
+					Propostes de resoluci&oacute;
+				</a>
+			
+			
+				
+
+
+<ul class="depth4 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/33" title="Debat sobre l&#39;acci&oacute; pol&iacute;tica i de govern">
+					Debat sobre l&#39;acci&oacute; pol&iacute;tica i de govern
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/34" title="Programes, plans i comunicats del Govern">
+					Programes, plans i comunicats del Govern
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/35" title="Control de la legislaci&oacute; delegada">
+					Control de la legislaci&oacute; delegada
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/36" title="Propostes d&#39;acord i mocions">
+					Propostes d&#39;acord i mocions
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/37" title="Convocat&ograve;ries">
+					Convocat&ograve;ries
+				</a>
+			
+			
+				
+
+
+<ul class="depth2 arbreTramits">
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/38" title="Convocat&ograve;ria del Ple">
+					Convocat&ograve;ria del Ple
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/39" title="Convocat&ograve;ria p&uacute;blica de Comissi&oacute; Legislativa">
+					Convocat&ograve;ria p&uacute;blica de Comissi&oacute; Legislativa
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/60" title="Convocat&ograve;ria p&uacute;blica d&#39;altres Comissions">
+					Convocat&ograve;ria p&uacute;blica d&#39;altres Comissions
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/47" title="Altres comunicacions">
+					Altres comunicacions
+				</a>
+			
+			
+				
+
+
+<ul class="depth2 arbreTramits">
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/55" title="Acords, resolucions i comunicacions dels &ograve;rgans de la Cambra">
+					Acords, resolucions i comunicacions dels &ograve;rgans de la Cambra
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/56" title="Rectificacions per error t&egrave;cnic">
+					Rectificacions per error t&egrave;cnic
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/48" title="Concursos, adjudicacions i edictes p&uacute;blics">
+					Concursos, adjudicacions i edictes p&uacute;blics
+				</a>
+			
+			
+				
+
+
+<ul class="depth2 arbreTramits">
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/52" title="Concursos p&uacute;blics">
+					Concursos p&uacute;blics
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/53" title="Contractacions directes">
+					Contractacions directes
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/54" title="Oferta p&uacute;blica de llocs de treball">
+					Oferta p&uacute;blica de llocs de treball
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/58" title="Personal de relaci&oacute; especial">
+					Personal de relaci&oacute; especial
+				</a>
+			
+			
+				
+
+
+<ul class="depth3 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/49" title="Organismes adscrits al Consell General">
+					Organismes adscrits al Consell General
+				</a>
+			
+			
+				
+
+
+<ul class="depth2 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/50" title="Declaracions oficials">
+					Declaracions oficials
+				</a>
+			
+			
+				
+
+
+<ul class="depth2 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/51" title="Altres informacions">
+					Altres informacions
+				</a>
+			
+			
+				
+
+
+<ul class="depth2 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/6" title="Actes del Ple del Consell General IX Legislatura">
+					Actes del Ple del Consell General IX Legislatura
+				</a>
+			
+			
+				
+
+
+<ul class="depth1 arbreTramits">
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/40" title="Actes del Ple del Consell General 2023">
+					Actes del Ple del Consell General 2023
+				</a>
+			
+			
+				
+
+
+<ul class="depth2 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/59" title="Actes del Ple del Consell General 2024">
+					Actes del Ple del Consell General 2024
+				</a>
+			
+			
+				
+
+
+<ul class="depth2 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/61" title="Actes del Ple del Consell General 2025">
+					Actes del Ple del Consell General 2025
+				</a>
+			
+			
+				
+
+
+<ul class="depth2 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+		<li class="">
+			
+			
+				<a href="/normativaMilloradaAnunciPublic/categories/66" title="Actes del Ple del Consell General 2026">
+					Actes del Ple del Consell General 2026
+				</a>
+			
+			
+				
+
+
+<ul class="depth2 arbreTramits">
+	
+</ul>
+
+			
+		</li>
+	
+</ul>
+
+			
+		</li>
+	
+</ul>
+
+            </div>
+        
+        <div id="llistatTramits" class="col-sm-8">
+
+            
+
+                
+
+                <div class="cercadorNormativaMillorada boxform">
+                    <form action="/normativaMilloradaAnunciPublic/categories" method="get" name="cercadorNormativaMilloradaForm" id="cercadorNormativaMilloradaForm" >
+                        <div class="titolCercador">
+                            <span>Cercador</span>
+                            
+                        </div>
+
+                        <div class="textNormativaMillorada line expanded">
+                            <div class="inline label">
+                                <label>Text:</label>
+                            </div>
+
+                            <div class="inline">
+                                <input type="text" name="text" value="2026" id="text" >
+                            </div>
+                        </div>
+
+                        <div class="ordreCategoria line">
+                            <div class="inline label">
+                                <label>Tipus:</label>
+                            </div>
+
+                            <div class="inline">
+                                <select name="tipusId" id="tipusId" >
+<option value="">Totes</option>
+<option value="5" >Butllet&iacute; del Consell General</option>
+<option value="57" >-&gt; BCG - Per data</option>
+<option value="65" >--&gt; BCG 2026</option>
+<option value="64" >--&gt; BCG 2025</option>
+<option value="62" >--&gt; BCG 2024</option>
+<option value="63" >--&gt; BCG 2023</option>
+<option value="7" >-&gt; Composici&oacute; dels &ograve;rgans de la Cambra</option>
+<option value="8" >--&gt; Elecci&oacute; de la Sindicatura</option>
+<option value="9" >--&gt; Composici&oacute; dels altres &ograve;rgans</option>
+<option value="10" >-&gt; Procediment legislatiu com&uacute;</option>
+<option value="11" >--&gt; Projectes de llei</option>
+<option value="12" >--&gt; Proposicions de llei</option>
+<option value="41" >---&gt; Proposici&oacute; de llei d&#39;iniciativa parlament&agrave;ria</option>
+<option value="42" >---&gt; Proposici&oacute; de llei d&#39;iniciativa comunal</option>
+<option value="43" >---&gt; Proposici&oacute; de llei d&#39;iniciativa popular</option>
+<option value="13" >-&gt; Procediments especials</option>
+<option value="14" >--&gt; Llei del Pressupost General</option>
+<option value="15" >--&gt; Projectes de llei qualificada</option>
+<option value="16" >--&gt; Proposicions de llei qualificada</option>
+<option value="44" >---&gt; Proposici&oacute; de llei qualificada d&#39;iniciativa parlament&agrave;ria</option>
+<option value="45" >---&gt; Proposici&oacute; de llei qualificada d&#39;iniciativa comunal</option>
+<option value="46" >---&gt; Proposici&oacute; de llei qualificada d&#39;iniciativa popular</option>
+<option value="17" >--&gt; Legislaci&oacute; d&#39;extrema urg&egrave;ncia i necessitat</option>
+<option value="18" >--&gt; Lleis de lectura &uacute;nica</option>
+<option value="19" >--&gt; Reforma constitucional</option>
+<option value="20" >--&gt; Tractats Internacionals</option>
+<option value="21" >--&gt; Consolidaci&oacute; de la legislaci&oacute; vigent</option>
+<option value="22" >-&gt; Impuls i control de l&#39;acci&oacute; pol&iacute;tica del Govern</option>
+<option value="23" >--&gt; Elecci&oacute; del Cap de Govern</option>
+<option value="24" >--&gt; Moci&oacute; de censura</option>
+<option value="25" >--&gt; Q&uuml;esti&oacute; de confian&ccedil;a</option>
+<option value="26" >--&gt; Preguntes al Govern</option>
+<option value="27" >---&gt; Preguntes amb resposta oral en el Ple</option>
+<option value="28" >---&gt; Preguntes amb resposta escrita</option>
+<option value="29" >---&gt; Respostes escrites</option>
+<option value="30" >---&gt; Preguntes urgents</option>
+<option value="31" >--&gt; Debat sobre l&#39;orientaci&oacute; pol&iacute;tica del Govern</option>
+<option value="32" >---&gt; Propostes de resoluci&oacute;</option>
+<option value="33" >--&gt; Debat sobre l&#39;acci&oacute; pol&iacute;tica i de govern</option>
+<option value="34" >--&gt; Programes, plans i comunicats del Govern</option>
+<option value="35" >--&gt; Control de la legislaci&oacute; delegada</option>
+<option value="36" >--&gt; Propostes d&#39;acord i mocions</option>
+<option value="37" >-&gt; Convocat&ograve;ries</option>
+<option value="38" >--&gt; Convocat&ograve;ria del Ple</option>
+<option value="39" >--&gt; Convocat&ograve;ria p&uacute;blica de Comissi&oacute; Legislativa</option>
+<option value="60" >--&gt; Convocat&ograve;ria p&uacute;blica d&#39;altres Comissions</option>
+<option value="47" >-&gt; Altres comunicacions</option>
+<option value="55" >--&gt; Acords, resolucions i comunicacions dels &ograve;rgans de la Cambra</option>
+<option value="56" >--&gt; Rectificacions per error t&egrave;cnic</option>
+<option value="48" >-&gt; Concursos, adjudicacions i edictes p&uacute;blics</option>
+<option value="52" >--&gt; Concursos p&uacute;blics</option>
+<option value="53" >--&gt; Contractacions directes</option>
+<option value="54" >--&gt; Oferta p&uacute;blica de llocs de treball</option>
+<option value="58" >--&gt; Personal de relaci&oacute; especial</option>
+<option value="49" >-&gt; Organismes adscrits al Consell General</option>
+<option value="50" >-&gt; Declaracions oficials</option>
+<option value="51" >-&gt; Altres informacions</option>
+<option value="6" >Actes del Ple del Consell General IX Legislatura</option>
+<option value="40" >-&gt; Actes del Ple del Consell General 2023</option>
+<option value="59" >-&gt; Actes del Ple del Consell General 2024</option>
+<option value="61" >-&gt; Actes del Ple del Consell General 2025</option>
+<option value="66" >-&gt; Actes del Ple del Consell General 2026</option>
+</select>
+                            </div>
+                        </div>
+
+                        
+
+
+
+                        <div>
+                            <button class="buttonNormativaMilloradaCercar button" type="submit">Cerca</button>
+                        </div>
+
+                        <div class="separador"></div>
+                    </form>
+                </div>
+            
+
+
+            
+
+            
+
+            <div class="resultatsLlistat">
+                164 publicacions
+                
+            </div>
+            
+                <div class="list">
+                    
+                        <div class="dElementPublicacioDefecte">
+                            
+
+                                
+                                
+                                    <div class="tipusNormativa">
+                                        Butlletí del Consell General / BCG - Per data / BCG 2026
+                                    </div>
+                                
+                                
+
+                                <div class="contingut">
+                                    <div class="titol">BCG 062-2026</div>
+                                    
+                                    <div class="data-registre-publicacions">
+                                        <span>10/09/2026 13:16</span>
+                                        -
+                                        <a href="/registrePublic/registrePublicacio/1605" class="registreLink">
+                                            Registre de publicació
+                                        </a>
+                                    </div>
+
+                                    <div class="top">
+                                        
+                                            <p>Butllet&iacute; del Consell General n&uacute;mero 062-2026, publicat en data 9 de setembre del 2026.</p>
+                                        
+
+                                        
+
+                                        
+                                    </div>
+
+                                    <div class="bottom">
+                                        
+                                            <div class="documentsAdjunts">
+                                                <ul>
+                                                    
+                                                        <li><a target="_blank" href="/documentPublic/download/3206"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>BCG 062-2026</span><span class="pdfSize">(Pdf, 84,33 Kb)</span></a></li>
+                                                    
+                                                </ul>
+                                            </div>
+                                        
+                                    </div>
+
+                                    
+                                </div>
+                            
+                        </div>
+                    
+                        <div class="dElementPublicacioDefecte">
+                            
+
+                                
+                                
+                                    <div class="tipusNormativa">
+                                        Butlletí del Consell General / Procediment legislatiu comú / Projectes de llei
+                                    </div>
+                                
+                                
+
+                                <div class="contingut">
+                                    <div class="titol">Projecte de llei de modificaci&oacute; de la Llei 1/2026, del 22 de gener, del pressupost per a l&#39;exercici del 2026.</div>
+                                    
+                                    <div class="data-registre-publicacions">
+                                        <span>01/08/2026 08:55</span>
+                                        -
+                                        <a href="/registrePublic/registrePublicacio/1567" class="registreLink">
+                                            Registre de publicació
+                                        </a>
+                                    </div>
+
+                                    <div class="top">
+                                        
+
+                                        
+                                            <div class="comentarisPublicacio"><ul style="list-style-type: square;">
+<li style="text-align: justify;">Projecte de llei acompanyat de la mem&ograve;ria justificativa, de valoraci&oacute; econ&ograve;mica i de la perspectiva de g&egrave;nere.</li>
+<li style="text-align: justify;">Mem&ograve;ria pressupost&agrave;ria 2026 d'Andorra Digital.</li>
+<li style="text-align: justify;">Certificat de la Intervenci&oacute; General del Govern.</li>
+<li style="text-align: justify;">Projecte de llei tramitat sota el procediment d'urg&egrave;ncia.</li>
+<li style="text-align: justify;">El projecte de llei es tramet a la Comissi&oacute; Legislativa de Finances i Pressupost.</li>
+<li style="text-align: justify;">El termini per a la presentaci&oacute; d'esmenes finalitza el dia 11 de setembre del 2026, a les 13.30h.</li>
+<li style="text-align: justify;">ESMENES A LA TOTALITAT:
+<ul style="list-style-type: square;">
+<li style="text-align: justify;">El Grup parlamentari de Conc&ograve;rdia ha presentat esmena a la totalitat amb retorn del Projecte de llei al Govern.</li>
+<li style="text-align: justify;">El Grup parlamentari Socialdem&ograve;crata ha presentat esmena a la totalitat amb retorn del Projecte de llei al Govern.</li>
+</ul>
+</li>
+</ul></div>
+                                        
+
+                                        
+                                    </div>
+
+                                    <div class="bottom">
+                                        
+                                            <div class="documentsAdjunts">
+                                                <ul>
+                                                    
+                                                        <li><a target="_blank" href="/documentPublic/download/3135"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Projecte de llei de modificaci&oacute; de la Llei 1/2026 del pressupost per a l&#39;exercici del 2026</span><span class="pdfSize">(Pdf, 839,93 Kb)</span></a></li>
+                                                    
+                                                        <li><a target="_blank" href="/documentPublic/download/3136"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Mem&ograve;ria justificativa, econ&ograve;mica, de g&egrave;nere</span><span class="pdfSize">(Pdf, 104,10 Kb)</span></a></li>
+                                                    
+                                                        <li><a target="_blank" href="/documentPublic/download/3137"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Mem&ograve;ria pressupost&agrave;ria Andorra Digital</span><span class="pdfSize">(Pdf, 539,17 Kb)</span></a></li>
+                                                    
+                                                        <li><a target="_blank" href="/documentPublic/download/3138"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Certificat Intervenci&oacute; general del Govern</span><span class="pdfSize">(Pdf, 253,45 Kb)</span></a></li>
+                                                    
+                                                        <li><a target="_blank" href="/documentPublic/download/3195"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Edicte publicaci&oacute; esmenes a la totalitat</span><span class="pdfSize">(Pdf, 739,37 Kb)</span></a></li>
+                                                    
+                                                        <li><a target="_blank" href="/documentPublic/download/3196"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Esmena totalitat GPdC</span><span class="pdfSize">(Pdf, 104,76 Kb)</span></a></li>
+                                                    
+                                                        <li><a target="_blank" href="/documentPublic/download/3197"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Esmena totalitat GPS</span><span class="pdfSize">(Pdf, 136,38 Kb)</span></a></li>
+                                                    
+                                                </ul>
+                                            </div>
+                                        
+                                    </div>
+
+                                    
+                                </div>
+                            
+                        </div>
+                    
+                        <div class="dElementPublicacioDefecte">
+                            
+
+                                
+                                
+                                    <div class="tipusNormativa">
+                                        Butlletí del Consell General / BCG - Per data / BCG 2026
+                                    </div>
+                                
+                                
+
+                                <div class="contingut">
+                                    <div class="titol">BCG 061-2026</div>
+                                    
+                                    <div class="data-registre-publicacions">
+                                        <span>07/09/2026 10:31</span>
+                                        -
+                                        <a href="/registrePublic/registrePublicacio/1598" class="registreLink">
+                                            Registre de publicació
+                                        </a>
+                                    </div>
+
+                                    <div class="top">
+                                        
+                                            <p>Butllet&iacute; del Consell General n&uacute;mero 061-2026, publicat en data 7 de setembre del 2026.</p>
+                                        
+
+                                        
+
+                                        
+                                    </div>
+
+                                    <div class="bottom">
+                                        
+                                            <div class="documentsAdjunts">
+                                                <ul>
+                                                    
+                                                        <li><a target="_blank" href="/documentPublic/download/3189"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>BCG 061-2026</span><span class="pdfSize">(Pdf, 83,94 Kb)</span></a></li>
+                                                    
+                                                </ul>
+                                            </div>
+                                        
+                                    </div>
+
+                                    
+                                </div>
+                            
+                        </div>
+                    
+                        <div class="dElementPublicacioDefecte">
+                            
+
+                                
+                                
+                                    <div class="tipusNormativa">
+                                        Butlletí del Consell General / Convocatòries / Convocatòria del Ple
+                                    </div>
+                                
+                                
+
+                                <div class="contingut">
+                                    <div class="titol">Av&iacute;s convocat&ograve;ria Ple del Consell General 17-09-2026, 9.30h.</div>
+                                    
+                                    <div class="data-registre-publicacions">
+                                        <span>07/09/2026 10:22</span>
+                                        -
+                                        <a href="/registrePublic/registrePublicacio/1596" class="registreLink">
+                                            Registre de publicació
+                                        </a>
+                                    </div>
+
+                                    <div class="top">
+                                        
+                                            <p>El dijous 17 de setembre del 2026, a les 9.30h se celebrar&agrave; una sessi&oacute; ordin&agrave;ria del Consell General, amb un &uacute;nic punt a l&#39;ordre del dia: Preguntes al Govern amb resposta oral.</p>
+                                        
+
+                                        
+
+                                        
+                                    </div>
+
+                                    <div class="bottom">
+                                        
+                                            <div class="documentsAdjunts">
+                                                <ul>
+                                                    
+                                                        <li><a target="_blank" href="/documentPublic/download/3187"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Convocat&ograve;ria Ple 17-09-2026</span><span class="pdfSize">(Pdf, 1514,21 Kb)</span></a></li>
+                                                    
+                                                </ul>
+                                            </div>
+                                        
+                                    </div>
+
+                                    
+                                </div>
+                            
+                        </div>
+                    
+                        <div class="dElementPublicacioDefecte">
+                            
+
+                                
+                                
+                                    <div class="tipusNormativa">
+                                        Butlletí del Consell General / Impuls i control de l'acció política del Govern / Preguntes al Govern / Preguntes amb resposta oral en el Ple
+                                    </div>
+                                
+                                
+
+                                <div class="contingut">
+                                    <div class="titol">Pregunta amb resposta oral del Govern de la M. I. Sra. Maria &Agrave;ngels Ach&eacute; Feliu, relativa a com s&#39;han desenvolupat les proves PISA for Schools.</div>
+                                    
+                                    <div class="data-registre-publicacions">
+                                        <span>07/09/2026 10:16</span>
+                                        -
+                                        <a href="/registrePublic/registrePublicacio/1595" class="registreLink">
+                                            Registre de publicació
+                                        </a>
+                                    </div>
+
+                                    <div class="top">
+                                        
+                                            <p>Disponible per a la sessi&oacute; ordin&agrave;ria del Consell General del dia 17 de setembre del 2026, a les 9.30h.</p>
+                                        
+
+                                        
+
+                                        
+                                    </div>
+
+                                    <div class="bottom">
+                                        
+                                            <div class="documentsAdjunts">
+                                                <ul>
+                                                    
+                                                        <li><a target="_blank" href="/documentPublic/download/3186"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pregunta M. &Agrave;ngels Ach&eacute; - Proves PISA for schools</span><span class="pdfSize">(Pdf, 956,30 Kb)</span></a></li>
+                                                    
+                                                </ul>
+                                            </div>
+                                        
+                                    </div>
+
+                                    
+                                </div>
+                            
+                        </div>
+                    
+                        <div class="dElementPublicacioDefecte">
+                            
+
+                                
+                                
+                                    <div class="tipusNormativa">
+                                        Butlletí del Consell General / Impuls i control de l'acció política del Govern / Preguntes al Govern / Preguntes amb resposta oral en el Ple
+                                    </div>
+                                
+                                
+
+                                <div class="contingut">
+                                    <div class="titol">Pregunta amb resposta oral del Govern del M. I. Sr. Cerni Escal&eacute; Cabr&eacute;, relativa a la creaci&oacute; d&#39;una autoritzaci&oacute; d&#39;immigraci&oacute; vinculada a projectes concrets del sector de la construcci&oacute;.</div>
+                                    
+                                    <div class="data-registre-publicacions">
+                                        <span>07/09/2026 10:13</span>
+                                        -
+                                        <a href="/registrePublic/registrePublicacio/1594" class="registreLink">
+                                            Registre de publicació
+                                        </a>
+                                    </div>
+
+                                    <div class="top">
+                                        
+                                            <p>Disponible per a la sessi&oacute; ordin&agrave;ria del Consell General del dia 17 de setembre del 2026, a les 9.30h.</p>
+                                        
+
+                                        
+
+                                        
+                                    </div>
+
+                                    <div class="bottom">
+                                        
+                                            <div class="documentsAdjunts">
+                                                <ul>
+                                                    
+                                                        <li><a target="_blank" href="/documentPublic/download/3185"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pregunta Cerni Escal&eacute; - Autoritzaci&oacute; immigraci&oacute; vinculada a projectes construcci&oacute;</span><span class="pdfSize">(Pdf, 839,15 Kb)</span></a></li>
+                                                    
+                                                </ul>
+                                            </div>
+                                        
+                                    </div>
+
+                                    
+                                </div>
+                            
+                        </div>
+                    
+                        <div class="dElementPublicacioDefecte">
+                            
+
+                                
+                                
+                                    <div class="tipusNormativa">
+                                        Butlletí del Consell General / Impuls i control de l'acció política del Govern / Preguntes al Govern / Preguntes amb resposta oral en el Ple
+                                    </div>
+                                
+                                
+
+                                <div class="contingut">
+                                    <div class="titol">Pregunta amb resposta oral del Govern de la M. I. Sra. N&uacute;ria Segu&eacute;s Daina, relativa al B&agrave;txelor en Turisme.</div>
+                                    
+                                    <div class="data-registre-publicacions">
+                                        <span>07/09/2026 10:10</span>
+                                        -
+                                        <a href="/registrePublic/registrePublicacio/1593" class="registreLink">
+                                            Registre de publicació
+                                        </a>
+                                    </div>
+
+                                    <div class="top">
+                                        
+                                            <p>Disponible per a la sessi&oacute; ordin&agrave;ria del Consell General del dia 17 de setembre del 2026, a les 9.30h.</p>
+                                        
+
+                                        
+
+                                        
+                                    </div>
+
+                                    <div class="bottom">
+                                        
+                                            <div class="documentsAdjunts">
+                                                <ul>
+                                                    
+                                                        <li><a target="_blank" href="/documentPublic/download/3184"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pregunta N&uacute;ria Segu&eacute;s - B&agrave;txelor en Turisme</span><span class="pdfSize">(Pdf, 952,53 Kb)</span></a></li>
+                                                    
+                                                </ul>
+                                            </div>
+                                        
+                                    </div>
+
+                                    
+                                </div>
+                            
+                        </div>
+                    
+                        <div class="dElementPublicacioDefecte">
+                            
+
+                                
+                                
+                                    <div class="tipusNormativa">
+                                        Butlletí del Consell General / Impuls i control de l'acció política del Govern / Preguntes al Govern / Preguntes amb resposta oral en el Ple
+                                    </div>
+                                
+                                
+
+                                <div class="contingut">
+                                    <div class="titol">Pregunta amb resposta oral del Govern de la M. I. Sra. Susanna Vela Palomares, relativa a la finalitzaci&oacute; progressiva de contractes de lloguer i les seves conseq&uuml;&egrave;ncies.</div>
+                                    
+                                    <div class="data-registre-publicacions">
+                                        <span>07/09/2026 10:09</span>
+                                        -
+                                        <a href="/registrePublic/registrePublicacio/1592" class="registreLink">
+                                            Registre de publicació
+                                        </a>
+                                    </div>
+
+                                    <div class="top">
+                                        
+                                            <p>Disponible per a la sessi&oacute; ordin&agrave;ria del Consell General del dia 17 de setembre del 2026, a les 9.30h.</p>
+                                        
+
+                                        
+
+                                        
+                                    </div>
+
+                                    <div class="bottom">
+                                        
+                                            <div class="documentsAdjunts">
+                                                <ul>
+                                                    
+                                                        <li><a target="_blank" href="/documentPublic/download/3183"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pregunta Susanna Vela - Conseq&uuml;&egrave;ncies finalitzaci&oacute; progressiva contractes de lloguer</span><span class="pdfSize">(Pdf, 981,11 Kb)</span></a></li>
+                                                    
+                                                </ul>
+                                            </div>
+                                        
+                                    </div>
+
+                                    
+                                </div>
+                            
+                        </div>
+                    
+                        <div class="dElementPublicacioDefecte">
+                            
+
+                                
+                                
+                                    <div class="tipusNormativa">
+                                        Butlletí del Consell General / Impuls i control de l'acció política del Govern / Preguntes al Govern / Preguntes amb resposta oral en el Ple
+                                    </div>
+                                
+                                
+
+                                <div class="contingut">
+                                    <div class="titol">Pregunta amb resposta oral del Govern de la M. I. Sra. Laia Molin&eacute; Cintas, relativa a l&#39;adjudicaci&oacute; directa, per procediment negociat i amb car&agrave;cter d&#39;urg&egrave;ncia de prop de 3,1 milions d&#39;euros en llic&egrave;ncies Microsoft i serveis associats.</div>
+                                    
+                                    <div class="data-registre-publicacions">
+                                        <span>07/09/2026 10:06</span>
+                                        -
+                                        <a href="/registrePublic/registrePublicacio/1591" class="registreLink">
+                                            Registre de publicació
+                                        </a>
+                                    </div>
+
+                                    <div class="top">
+                                        
+                                            <p>Disponible per a la sessi&oacute; ordin&agrave;ria del Consell General del dia 17 de setembre del 2026, a les 9.30h.</p>
+                                        
+
+                                        
+
+                                        
+                                    </div>
+
+                                    <div class="bottom">
+                                        
+                                            <div class="documentsAdjunts">
+                                                <ul>
+                                                    
+                                                        <li><a target="_blank" href="/documentPublic/download/3182"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pregunta Laia Molin&eacute; - Adjudicaci&oacute; directa 3,1 M&euro; en llic&egrave;ncies Microsoft</span><span class="pdfSize">(Pdf, 867,74 Kb)</span></a></li>
+                                                    
+                                                </ul>
+                                            </div>
+                                        
+                                    </div>
+
+                                    
+                                </div>
+                            
+                        </div>
+                    
+                        <div class="dElementPublicacioDefecte">
+                            
+
+                                
+                                
+                                    <div class="tipusNormativa">
+                                        Butlletí del Consell General / Impuls i control de l'acció política del Govern / Preguntes al Govern / Preguntes amb resposta oral en el Ple
+                                    </div>
+                                
+                                
+
+                                <div class="contingut">
+                                    <div class="titol">Pregunta amb resposta oral del Govern del M. I. Sr. Pere Bar&oacute; Rocamonde, relativa a la manca de dades actualitzades sobre l&#39;evoluci&oacute; dels trastorns addictius a Andorra.</div>
+                                    
+                                    <div class="data-registre-publicacions">
+                                        <span>07/09/2026 10:03</span>
+                                        -
+                                        <a href="/registrePublic/registrePublicacio/1590" class="registreLink">
+                                            Registre de publicació
+                                        </a>
+                                    </div>
+
+                                    <div class="top">
+                                        
+                                            <p>Disponible per a la sessi&oacute; ordin&agrave;ria del Consell General del dia 17 de setembre del 2026, a les 9.30h.</p>
+                                        
+
+                                        
+
+                                        
+                                    </div>
+
+                                    <div class="bottom">
+                                        
+                                            <div class="documentsAdjunts">
+                                                <ul>
+                                                    
+                                                        <li><a target="_blank" href="/documentPublic/download/3181"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pregunta Pere Bar&oacute; - Manca de dades evoluci&oacute; trastorns addictius </span><span class="pdfSize">(Pdf, 909,63 Kb)</span></a></li>
+                                                    
+                                                </ul>
+                                            </div>
+                                        
+                                    </div>
+
+                                    
+                                </div>
+                            
+                        </div>
+                    
+                </div>
+            
+        </div>
+
+        <div class="separador"></div>
+
+        <div class="paginateButtons">
+            <span class="currentStep">1</span><a href="/normativaMilloradaAnunciPublic/categories?text=2026&amp;tipusRecursivo=true&amp;max=10&amp;offset=10" class="step">2</a><a href="/normativaMilloradaAnunciPublic/categories?text=2026&amp;tipusRecursivo=true&amp;max=10&amp;offset=20" class="step">3</a><a href="/normativaMilloradaAnunciPublic/categories?text=2026&amp;tipusRecursivo=true&amp;max=10&amp;offset=30" class="step">4</a><a href="/normativaMilloradaAnunciPublic/categories?text=2026&amp;tipusRecursivo=true&amp;max=10&amp;offset=40" class="step">5</a><a href="/normativaMilloradaAnunciPublic/categories?text=2026&amp;tipusRecursivo=true&amp;max=10&amp;offset=50" class="step">6</a><a href="/normativaMilloradaAnunciPublic/categories?text=2026&amp;tipusRecursivo=true&amp;max=10&amp;offset=60" class="step">7</a><a href="/normativaMilloradaAnunciPublic/categories?text=2026&amp;tipusRecursivo=true&amp;max=10&amp;offset=70" class="step">8</a><a href="/normativaMilloradaAnunciPublic/categories?text=2026&amp;tipusRecursivo=true&amp;max=10&amp;offset=80" class="step">9</a><a href="/normativaMilloradaAnunciPublic/categories?text=2026&amp;tipusRecursivo=true&amp;max=10&amp;offset=90" class="step">10</a><span class="step gap">..</span><a href="/normativaMilloradaAnunciPublic/categories?text=2026&amp;tipusRecursivo=true&amp;max=10&amp;offset=160" class="step">17</a><a href="/normativaMilloradaAnunciPublic/categories?text=2026&amp;tipusRecursivo=true&amp;max=10&amp;offset=10" class="nextLink">Següent</a>
+        </div>
+    </div>
+</div>
+
+    </main>
+</div>
+
+
+<footer>
+    
+    
+    
+
+
+
+    
+
+    
+        <div class="FOOTER" id="FOOTER_1">
+            
+                
+
+
+
+
+<div class="zone_1">
+    
+        
+        
+            <div class="titol_serveis" id="content_50">
+    <h2>Serveis</h2>
+</div>
+        
+    
+        
+        
+            
+
+
+<div class="serveis contingut_51">
+    
+        
+
+<a target=&quot;_self&quot; href="/normativaMilloradaAnunciPublic/categories/57"
+   class="iconLink contingut_67 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1193"
+                 alt="Butlletins per data" class="icon">
+        </div>
+    
+    <span style="">Butlletins per data</span>
+    
+</a>
+
+
+
+    
+        
+
+<a target=&quot;_self&quot; href="/normativaMilloradaAnunciPublic/categories/11"
+   class="iconLink contingut_68 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1192"
+                 alt="Iniciatives legislatives" class="icon">
+        </div>
+    
+    <span style="">Iniciatives legislatives</span>
+    
+</a>
+
+
+
+    
+        
+
+<a target=&quot;_self&quot; href="normativaMilloradaAnunciPublic/categories/26"
+   class="iconLink contingut_69 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1191"
+                 alt="Control i impuls de l&#39;acci&oacute; de Govern" class="icon">
+        </div>
+    
+    <span style="">Control i impuls de l&#39;acci&oacute; de Govern</span>
+    
+</a>
+
+
+
+    
+        
+
+<a target=&quot;_self&quot; href="/normativaMilloradaAnunciPublic/categories/38"
+   class="iconLink contingut_70 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1190"
+                 alt="Sessions p&uacute;bliques" class="icon">
+        </div>
+    
+    <span style="">Sessions p&uacute;bliques</span>
+    
+</a>
+
+
+
+    
+        
+
+<a target=&quot;_self&quot; href="/normativaMilloradaAnunciPublic/categories/52"
+   class="iconLink contingut_71 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1189"
+                 alt="Concursos p&uacute;blics" class="icon">
+        </div>
+    
+    <span style="">Concursos p&uacute;blics</span>
+    
+</a>
+
+
+
+    
+        
+
+<a target=&quot;_self&quot; href="/taulerAnuncisPublic/listPublicacions?cat.id=74"
+   class="iconLink contingut_72 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1188"
+                 alt="Demandes d&#39;informaci&oacute;" class="icon">
+        </div>
+    
+    <span style="">Demandes d&#39;informaci&oacute;</span>
+    
+</a>
+
+
+
+    
+        
+
+<a target=&quot;_self&quot; href="/normativaMilloradaAnunciPublic/categories/6"
+   class="iconLink contingut_73 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1187"
+                 alt="Actes del Ple" class="icon">
+        </div>
+    
+    <span style="">Actes del Ple</span>
+    
+</a>
+
+
+
+    
+        
+
+<a target=&quot;_self&quot; href="/normativaMilloradaAnunciPublic/categories/54"
+   class="iconLink contingut_74 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1186"
+                 alt="Oferta p&uacute;blica de Llocs de treball" class="icon">
+        </div>
+    
+    <span style="">Oferta p&uacute;blica de Llocs de treball</span>
+    
+</a>
+
+
+
+    
+        
+
+<a target=&quot;_self&quot; href="/normativaMilloradaAnunciPublic/categories/49"
+   class="iconLink contingut_75 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1185"
+                 alt="Organismes adscrits" class="icon">
+        </div>
+    
+    <span style="">Organismes adscrits</span>
+    
+</a>
+
+
+
+    
+        
+
+<a  href="/dynamicItemPublic/mostrarContingut/76"
+   class="iconLink contingut_76 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1184"
+                 alt="Transpar&egrave;ncia" class="icon">
+        </div>
+    
+    <span style="">Transpar&egrave;ncia</span>
+    
+</a>
+
+
+
+    
+        
+
+<a target=&quot;_blank&quot; href="https://seu.consellgeneral.ad/normativaMilloradaAnunciPublic/categories/51"
+   class="iconLink contingut_92 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1275"
+                 alt="Altres informacions" class="icon">
+        </div>
+    
+    <span style="">Altres informacions</span>
+    
+</a>
+
+
+
+    
+</div>
+        
+    
+</div>
+            
+        </div>
+    
+
+    
+
+    
+        <div class="FOOTER" id="FOOTER_2">
+            
+                
+
+
+
+
+<div class="zone_1">
+    
+        
+        
+            <div class="contacte default-footer" id="content_84">
+    <span class="contacte default-footer" id="content_84">
+    <div class="info-contacte">
+    <p class="info">
+        <span class="title">Consell General del Principat d'Andorra</span>
+        <span> Carrer de la Vall 9-13, Andorra la Vella, AD500</span>
+        <span>(Principat d'Andorra)</span>
+        <span>Tel. <a href="tel:+376877877" target="_blank" rel="noopener">+376 877 877</a></span>
+    </p>
+    <ul class="list-social-networks">
+        <li>
+            <a class="socialLink" href="https://x.com/consellgeneral" target="_blank" rel="noopener">
+                <span class="picto-twitter" title="Twitter" aria-hidden="true">
+                </span>
+                <span class="sr-only">Twitter</span>
+            </a>
+        </li>
+        <li>
+            <a class="socialLink" href="https://www.facebook.com/consellgeneral.ad/" target="_blank" rel="noopener">
+                <span class="picto-facebook" title="Facebook" aria-hidden="true">
+                </span>
+                <span class="sr-only">Facebook</span>
+            </a>
+        </li>
+        <li>
+            <a class="socialLink" href="https://www.instagram.com/consellgeneral/" target="_blank" rel="noopener">
+                <span class="picto-instagram" title="Instagram" aria-hidden="true">
+                </span>
+                <span class="sr-only">Instagram</span>
+            </a>
+        </li>
+        <li>
+            <a class="socialLink" href="https://www.youtube.com/@consellgeneral" target="_blank" rel="noopener">
+                <span class="picto-youtube" title="Youtube" aria-hidden="true">
+                </span>
+                <span class="sr-only">Youtube</span>
+            </a>
+        </li>
+    </ul>
+</div>
+</span>
+</div>
+        
+    
+</div>
+            
+                
+
+
+
+
+<div class="zone_2">
+    
+        
+        
+            
+
+
+<div class="footer-sitemap">
+    
+        <ul class="col">
+            
+            
+                <li class="sitemap-item">
+                    
+
+    <a href="/dynamicItemPublic/mostrarContingut/11" class="link contingut_11 mapaDeLaSeu">
+        <span style="">Mapa de la web</span>
+    </a>
+
+
+
+                </li>
+            
+                <li class="sitemap-item">
+                    
+
+    <a href="/dynamicItemPublic/mostrarContingut/89" class="link contingut_89 null">
+        <span style="">Accessibilitat</span>
+    </a>
+
+
+
+                </li>
+            
+                <li class="sitemap-item">
+                    
+
+    <a href="/dynamicItemPublic/mostrarContingut/90" class="link contingut_90 null">
+        <span style="">Avís Legal</span>
+    </a>
+
+
+
+                </li>
+            
+                <li class="sitemap-item">
+                    
+
+    <a href="/dynamicItemPublic/mostrarContingut/91" class="link contingut_91 null">
+        <span style="">Política de privacitat</span>
+    </a>
+
+
+
+                </li>
+            
+                <li class="sitemap-item">
+                    
+
+    <a href="/dynamicItemPublic/mostrarContingut/10" class="link contingut_10 null">
+        <span style="">Data i hora oficial de la Seu</span>
+    </a>
+
+
+
+                </li>
+            
+        </ul>
+    
+        <ul class="col">
+            
+            
+                <li class="sitemap-item">
+                    
+
+    <a href="/dynamicItemPublic/mostrarContingut/29" class="link contingut_29 null">
+        <span style="">Identificació dels canals d'accés als serveis</span>
+    </a>
+
+
+
+                </li>
+            
+                <li class="sitemap-item">
+                    
+
+    <a target="_BLANK" href="https://consellgeneral.3c-cloud.ad/000006/applications/Butlleti_Consell.NSF"
+       class="link contingut_2 ">
+        <span style="">Butlletí del Consell General anterior al 2023</span>
+    </a>
+
+
+
+                </li>
+            
+                <li class="sitemap-item">
+                    
+
+    <a href="/dynamicItemPublic/mostrarContingut/34" class="link contingut_34 politica-cookies">
+        <span style="">Política de cookies</span>
+    </a>
+
+
+
+                </li>
+            
+        </ul>
+    
+</div>
+
+        
+    
+</div>
+            
+        </div>
+    
+
+    
+
+    
+        <div class="FOOTER" id="FOOTER_3">
+            
+                
+
+
+
+
+<div class="zone_1">
+    
+        
+        
+            <div class="copyright">
+    <span>
+        © 2024 Consell General Principat d'Andorra
+    </span>
+</div>
+        
+    
+</div>
+            
+                
+
+
+
+
+<div class="zone_2">
+    
+        
+        
+            <div class="developedBy">
+    <span>Desenvolupat per</span>
+    <img	src="/base2024/images/ecity_espublico_WHITE.svg"
+            alt="Logo eCityclic"
+            title="Logo eCityclic"
+    >
+</div>
+
+        
+    
+</div>
+            
+        </div>
+    
+
+
+</footer>
+
+
+
+    
+
+<link rel="stylesheet" href="/css/cookies.css" >
+<script src="/js/cookies/customCookieMethods.js"></script>
+<div id="cookie-notice-popup" class="cookie-notice">
+    <div class="body">
+            <p>
+                L&apos;informem que en aquest lloc web utilitzem cookies tant pròpies com de tercers per oferir un millor servei, d&apos;acord amb els seus hàbits de navegació. <a class="text-primary" target="_blank" href="/contingutPublic/mostrar/politica-cookies">Consulta la política de cookies</a>
+            </p>
+
+            <div class="bottom">
+                
+
+                <div class="bottons">
+                    
+                        <button class="btn btn-danger" onclick="cookieRejected()">
+                            Rebutjar-les totes
+                        </button>
+                    
+
+                    
+                        <button class="btn" onclick="cookieAcceptSystem()">
+                            Acceptar-les totes
+                        </button>
+                    
+                </div>
+            </div>
+
+
+    </div>
+</div>
+
+
+
+    <script src="/js/cookies/jquery.cookie.js"></script>
+
+
+
+
+
+<!--CONTENIDO BOTTOM-->
+<div class="bodyBottom">
+    
+</div>
+
+
+
+</body>
+</html>
+
+
+

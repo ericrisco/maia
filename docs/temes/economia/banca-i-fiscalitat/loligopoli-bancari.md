@@ -77,12 +77,42 @@ andorrana del canvi de segle.
 
 ## El que falta
 
+> **Auditats contra la resta del corpus el 2026-09-13**, sense fonts noves.
+
 - **La clàusula del 5%**: quan s'aplica exactament, i quant va recaptar.
+  **`parcial` — 2026-09-13.** **Que es va aplicar, i a qui, ja ho diu aquesta
+  mateixa fitxa**: el **1949**, a **Crèdit Andorrà i la Caixa**. El que
+  aquesta fitxa **no sabia** és que **[el Banc Agrícol](./el-banc-agricol.md)
+  en descriu una versió que no encaixa amb aquesta** — segons Cerqueda el 5%
+  només s'activava **si els concessionaris renunciaven** a l'exclusiva, i es
+  repartia **meitat Consell, meitat concessionaris**. **Divergència registrada
+  als dos articles i no arbitrada**; la taula comparada és a
+  [el Banc Agrícol](./el-banc-agricol.md), secció **«La clàusula del 5%»**.
+  **Continua obert: quant va recaptar**, i **quina de les dues descripcions
+  és la del contracte**.
 - **Què era SOBANCA**, i per què va fer fallida.
+  **`obert` — confirmat el 2026-09-13:** el nom només surt en aquesta fitxa, a
+  [el Banc Agrícol](./el-banc-agricol.md) i a la
+  [fitxa de font](../../../fonts/wikipedia-anys-daurats.md). **Cap de les tres
+  no diu què era.**
 - **Quan acaba l'oligopoli.** La font diu «al principi del segle XXI» i **no en
   dona la data.**
+  **`obert` — confirmat el 2026-09-13.**
 - **Si l'acord del 1968 consta per escrit** a les actes del Consell General.
   **Font primària no consultada.**
+  **`obert` — confirmat el 2026-09-13**, i **no és un buit aïllat**: el Banc
+  Agrícol n'hi envia tres més (les concessions de 1928-1930, la clàusula del
+  5% i les dates de la Caixa). **Quatre buits de la branca esperen el mateix
+  fons.**
+  `Requereix font externa: les actes del Consell General de 1928-1930 i de 1968.`
+- **Quan va arribar la Caixa: 1949 o 1951?** **Buit nou, obert el 2026-09-13**
+  per l'auditoria interna. **Aquesta fitxa dona les dues dates** —s'instal·la
+  el 1949, entra el 1951 com a «primer banc estranger del país»— i
+  **[el Banc Agrícol](./el-banc-agricol.md) en dona una tercera, el juny de
+  1935**, a casa Guillema i només amb comptes d'estalvi. **Les tres dates i la
+  hipòtesi que les podria encadenar són a
+  [el Banc Agrícol](./el-banc-agricol.md), secció «Tres dates per a la mateixa
+  caixa».**
 
 ## Related
 

@@ -1,0 +1,1393 @@
+
+
+
+
+	
+
+
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    
+    
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<meta name="description" content="&lt;p&gt;Benvinguts a la Seu electr&amp;ograve;nica del Consell General del Principat d&#39;Andorra, l&#39;entorn segur per a la comunicaci&amp;oacute; i intercanvi d&#39;informaci&amp;oacute; i prestaci&amp;oacute; de serveis electr&amp;ograve;nics del Consell General del Principat d&#39;Andorra. Aqu&amp;iacute; podreu trobar la informaci&amp;oacute; sobre serveis que s&amp;rsquo;ofereixen i consultar informaci&amp;oacute; com ara l&amp;rsquo;estat dels vostres expedients i altra informaci&amp;oacute;.&lt;/p&gt;">
+
+
+    
+    
+    <title> Publicacions oficials - Consell General Principat d&#39;Andorra </title>
+
+    
+    
+
+<link rel="stylesheet" href="/css/jquery/jquery-ui/jquery-ui-1.14.0.css">
+
+
+
+    <link rel="stylesheet" href="/base2024/css/main.css" >
+    <link rel="stylesheet" href="/consellandorra/css/main.css">
+
+
+
+
+
+    <link rel="stylesheet" href="/configuration/css/9e516059-2df1-4eae-906b-2280d4c0d1c7">
+
+
+
+<link rel="stylesheet" href="/base2024/icons/css/font-awesome.css">
+
+
+    
+    
+<script>
+    function getCookie(name) {
+        // Split cookie string and get all individual name=value pairs in an array
+        let cookieArr = document.cookie.split(";");
+
+        // Loop through the array elements
+        for(let i = 0; i < cookieArr.length; i++) {
+            let cookiePair = cookieArr[i].split("=");
+
+            /* Removing whitespace at the beginning of the cookie name
+            and compare it with the given string */
+            if(name === cookiePair[0].trim()) {
+                // Decode the cookie value and return
+                return decodeURIComponent(cookiePair[1]);
+            }
+        }
+
+        // Return null if not found
+        return null;
+    }
+    function isGAEnabled() {
+        const cookies = getCookie('cb-enabled');
+        if (cookies != null && cookies !== "") {
+            const json = JSON.parse(cookies);
+            const analytics = json['analytics'] !== undefined ? json['analytics'] : false;
+            const ga = json['ga'] !== undefined ? json['ga'] : false;
+            return analytics || ga;
+        }
+        return false;
+    }
+
+    function isPiwikEnabled() {
+        const cookies = getCookie('cb-enabled');
+        if (cookies != null && cookies !== "") {
+            const json = JSON.parse(cookies);
+            const analytics = json['analytics'] !== undefined ? json['analytics'] : false;
+            const piwik = json['piwik'] !== undefined ? json['piwik'] : false;
+            return analytics || piwik;
+        }
+        return false;
+    }
+
+
+</script>
+
+<!-- Google Analytics -->
+
+
+
+<!-- Fi de Google Analytics -->
+
+<!-- PIWIK APDCAT -->
+
+
+
+
+
+
+
+<script src="/js/jquery/jquery-3.7.1.min.js"></script>
+<script src="/js/jquery/jquery-ui-1.14.0.min.js"></script>
+
+
+
+
+<script src="/js/jquery/jquery.treeview.js"></script>
+<link rel="stylesheet" href="/css/jquery/jquery.treeview/jquery.treeview.css">
+
+
+
+    <script
+            src="/js/jquery/jquery.ui.datepicker-ca.js"></script>
+
+
+
+    <link rel="stylesheet" href="/css/cookies.css">
+
+
+
+
+
+
+
+
+
+
+
+    <script>
+        //<![CDATA[
+        let nSinc = 0;
+        var horaOfi = 1789315208145;
+        var dataSeu = new Date(horaOfi);
+
+        setInterval("actualitzaHora()", 1000);
+
+        function actualitzaHora() {
+            nSinc++;
+            if (nSinc > 60) {
+                ajaxSincronitzaHora();
+            } else {
+
+                horaOfi = horaOfi + 1000;
+                dataSeu.setTime(horaOfi);
+
+                var hor = dataSeu.getHours();
+                if (hor < 10)
+                    hor = "0" + hor
+                var sec = dataSeu.getSeconds();
+                if (sec < 10)
+                    sec = "0" + sec
+                var min = dataSeu.getMinutes();
+                if (min < 10)
+                    min = "0" + min
+
+                jQuery('#horaOficialUpdate .horaOficialTime').html(hor + ":" + min + ":" + sec);
+            }
+
+
+        }
+
+        function ajaxSincronitzaHora() {
+            nSinc = 0;
+            const noString = false
+
+            jQuery.ajax({
+                cache: false,
+                timeout: 300000,
+                url: "/calendariPublic/getHoraOficial2?nSinc=" + nSinc + "&noString=" + noString,
+                success: function (data) {
+                    var foo = data.split('!');
+                    horaOfi = parseInt(foo[1]);
+                    jQuery('#horaOficialUpdate').html(foo[0]);
+                }
+            });
+            return false;
+        }
+
+        //]]>
+    </script>
+
+
+<script>
+    jQuery(document).ready(function () {
+        jQuery(".arbreTramits").treeview({
+            persist: "location",
+            collapsed: true,
+            unique: true
+        });
+    });
+</script>
+
+
+
+
+
+
+
+
+    
+    <link rel="shortcut icon" href="/consellandorra/images/favicon.ico" type="image/x-icon">
+
+    
+    
+
+    
+
+
+
+    
+    
+	<meta name="layout" content="publicLayout">
+	
+	
+
+
+
+</head>
+
+<body>
+
+
+
+
+<div class="bodyTop">
+    
+</div>
+
+
+
+<header>
+
+    
+        
+
+
+
+
+
+
+
+    
+
+
+    
+    
+
+
+
+    
+
+    
+        <div class="HEADER" id="HEADER_1">
+            
+                
+
+
+
+
+<div class="zone_1">
+    
+        
+        
+            
+
+<a class="" id="content_41" href="https://www.consellgeneral.ad/"
+   target="_blank">
+    <span>Web del Consell General</span>
+</a>
+
+        
+    
+        
+        
+            
+
+<a class="" id="content_59" href="https://registre.consellgeneral.ad/Ciutadania/"
+   target="_blank">
+    <span>Tràmits</span>
+</a>
+
+        
+    
+        
+        
+            
+
+<a class="" id="content_60" href="https://www.bopa.ad/"
+   target="_blank">
+    <span>BOPA / Portal jurídic</span>
+</a>
+
+        
+    
+</div>
+            
+                
+
+
+
+
+<div class="zone_2">
+    
+        
+        
+            
+
+
+
+    <a href="https://registre.consellgeneral.ad/Ciutadania/ValidarDocuments.aspx" class="validador" id="content_43" target=&quot;_blank&quot;>
+        <img src="/dynamicItem/icon/1201"
+             alt="Validador de documents" class="icon">
+        
+            <span>Validador de documents</span>
+        
+    </a>
+
+
+
+
+
+
+        
+    
+</div>
+            
+                
+
+
+
+
+<div class="zone_3">
+    
+        
+        
+            <div id="oficial-time">
+    <div id="horaOficialUpdate">
+        <span class='horaOficialText'>Data i hora oficial: </span><span class='horaOficialDate'>diumenge 13 de setembre de 2026, </span><span class='horaOficialTime notranslate'>16:00:08</span>
+    </div>
+</div>
+        
+    
+        
+        
+            
+
+
+
+    <a href="/dynamicItemPublic/mostrarContingut/42" class="ajuda" id="content_42" >
+        <img src="/dynamicItem/icon/1200"
+             alt="Ajuda" class="icon">
+        
+            <span>Ajuda</span>
+        
+    </a>
+
+
+
+
+
+
+        
+    
+</div>
+            
+        </div>
+    
+
+    
+
+    
+        <div class="HEADER" id="HEADER_2">
+            
+                
+
+
+
+
+<div class="zone_1">
+    
+        
+        
+            
+
+
+
+<a class="oficial-title" href="/" target="_self" rel="noopener noreferrer">
+    
+        <div class="logo">
+            <img src="/dynamicItem/icon/1276"
+                 alt="Consell General Principat d&#39;Andorra">
+        </div>
+    
+
+    <div class="title">
+        <h1>Seu electrònica </h1>
+
+        
+    </div>
+</a>
+
+        
+    
+</div>
+            
+                
+
+
+
+
+<div class="zone_2">
+    
+        
+        
+            
+
+
+<div class="dropdown menu-dropdown" data-open="false">
+    <script>
+    $(document).ready(function () {
+        
+        class Dropdown {
+            constructor(container) {
+                this.isOpen = false;
+                this.activeIndex = undefined;
+
+                this.container = container;
+                this.button = container.querySelector(".dropdown-button");
+                this.menu = container.querySelector(".dropdown-menu");
+                this.items = container.querySelectorAll(".dropdown-menu-item");
+            }
+
+            initEvents() {
+                this.button.addEventListener("click", this.toggle.bind(this));
+                document.addEventListener("click", this.onClickOutside.bind(this));
+                document.addEventListener("keydown", this.onKeyEvent.bind(this));
+            }
+
+            toggle() {
+                this.isOpen = !this.isOpen;
+                this.button.setAttribute("aria-expanded", this.isOpen);
+                this.menu.setAttribute("aria-hidden", !this.isOpen);
+                this.container.dataset.open = this.isOpen;
+            }
+
+            onClickOutside(e) {
+                if (!this.isOpen) return;
+
+                let targetElement = e.target;
+
+                do {
+                    if (targetElement == this.container) return;
+
+                    targetElement = targetElement.parentNode;
+                } while (targetElement);
+
+                this.toggle();
+            }
+
+            onKeyEvent(e) {
+                if (!this.isOpen) return;
+
+                if (e.key === "Tab") {
+                    this.toggle();
+                }
+
+                if (e.key === "Escape") {
+                    this.toggle();
+                    this.button.focus();
+                }
+
+                if (e.key === "ArrowDown") {
+                    this.activeIndex =
+                        this.activeIndex < this.items.length - 1 ? this.activeIndex + 1 : 0;
+                    this.items[this.activeIndex].focus();
+                }
+
+                if (e.key === "ArrowUp") {
+                    this.activeIndex =
+                        this.activeIndex > 0 ? this.activeIndex - 1 : this.items.length - 1;
+                    this.items[this.activeIndex].focus();
+                }
+            }
+        }
+
+        const dropdowns = document.querySelectorAll(".dropdown");
+        dropdowns.forEach((dropdown) => new Dropdown(dropdown).initEvents());
+    });
+</script>
+
+    <button class="menu-toggle dropdown-button" id="menu-toggle" aria-expanded="false">
+        <span class="screen-reader-text">Menú</span>
+        <svg class="icon icon-menu-toggle" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100">
+            <g class="svg-menu-toggle">
+                <path class="line line-1" d="M5 13h90v14H5z"/>
+                <path class="line line-2" d="M5 43h90v14H5z"/>
+                <path class="line line-3" d="M5 73h90v14H5z"/>
+            </g>
+        </svg>
+    </button>
+    <div class="dropdown-menu scale">
+        
+            <ul class="col" role="menu" aria-hidden="true">
+                
+                
+                    <li class="dropdown-menu-item" tabindex="-1" role="menuitem">
+                        
+
+    <a href="/dynamicItemPublic/mostrarContingut/7" class="link contingut_7 infoSeu">
+        <span style="">Què és la seu electrònica?</span>
+    </a>
+
+
+
+                    </li>
+                
+                    <li class="dropdown-menu-item" tabindex="-1" role="menuitem">
+                        
+
+    <a href="/dynamicItemPublic/mostrarContingut/31" class="link contingut_31 null">
+        <span style="">Formats de documents admesos</span>
+    </a>
+
+
+
+                    </li>
+                
+                    <li class="dropdown-menu-item" tabindex="-1" role="menuitem">
+                        
+
+    <a href="/dynamicItemPublic/mostrarContingut/9" class="link contingut_9 relacioCertificats">
+        <span style="">Relació de signatures electròniques i certificats digitals admesos</span>
+    </a>
+
+
+
+                    </li>
+                
+                    <li class="dropdown-menu-item" tabindex="-1" role="menuitem">
+                        
+
+    <a href="/dynamicItemPublic/mostrarContingut/12" class="link contingut_12 null">
+        <span style="">Calendari laboral i horari d'atenció al públic</span>
+    </a>
+
+
+
+                    </li>
+                
+            </ul>
+        
+            <ul class="col" role="menu" aria-hidden="true">
+                
+                
+                    <li class="dropdown-menu-item" tabindex="-1" role="menuitem">
+                        
+
+    <a href="/dynamicItemPublic/mostrarContingut/13" class="link contingut_13 null">
+        <span style="">Interrupcions previstes de la seu</span>
+    </a>
+
+
+
+                    </li>
+                
+            </ul>
+        
+    </div>
+
+</div>
+
+        
+    
+</div>
+            
+        </div>
+    
+
+    
+
+    
+        <div class="HEADER" id="HEADER_3">
+            
+                
+
+
+
+
+<div class="zone_1">
+    
+        
+        
+            
+
+
+
+
+
+
+<div class="header-searcher" style='background-image: url("/dynamicItem/icon/1226")'>
+    <div class="search-bar">
+        <form action="/cerca/index" method="get" >
+            <label for="search">Cerca per paraules</label>
+            <input type="text" name="q" minlength="3" id="search" class="header-navbar__searchInput"
+                   placeholder="">
+            <!-- Si existe el parametro codi -->
+            
+            <button type="submit" class="header-navbar__searchButton">Cercar</button>
+        </form>
+    </div>
+
+    
+</div>
+
+        
+    
+</div>
+            
+        </div>
+    
+
+
+
+
+
+    
+        <div id="filAriadna">
+            <div class="container">
+                <div id="molletes">
+                    <a href="/">Inici</a>
+                </div>
+            </div>
+        </div>
+    
+
+
+
+</header>
+
+<div class="contenedor">
+
+    
+
+    
+    
+        <h2>Publicacions oficials</h2>
+    
+
+
+
+
+    
+    
+    
+        <aside>
+            <ul></ul>
+        </aside>
+    
+    
+    
+
+
+    <main>
+        
+        
+<div class="areaTreballContent">
+	
+
+	
+
+	<div class="resultatsLlistat">
+		
+			<h2 class="h3">Butlletí del Consell General / Procediments especials / Llei del Pressupost General</h2>
+		
+	</div>
+	<div class="dElementPublicacioDefecte">
+		
+			
+				<h3 class="titol">Projecte de llei del pressupost per a l&#39;exercici 2026.</h3>
+			
+			<div class="contingut">
+				
+				<div>
+					<span>29/10/2025 12:27</span>
+					-
+					<a href="/registrePublic/registrePublicacio/1208" class="registreLink">
+						Registre de publicació
+					</a>
+				</div>
+				<div class="top">
+					
+
+					
+						<div class="comentarisPublicacio"><ul style="list-style-type: square;">
+<li style="text-align: justify;">Projecte de llei del pressupost general per a l'exercici 2026, acompanyat del certificat de la Intervenci&oacute; general del Govern i de l'informe d'impacte de g&egrave;nere.</li>
+<li style="text-align: justify;">La Sindicatura atorga a la disposici&oacute; final setena el car&agrave;cter de qualificada.</li>
+<li style="text-align: justify;">Projecte de pressupost del Tribunal Constitucional per al 2026.</li>
+<li style="text-align: justify;">Projecte de pressupost del Consell Superior de la Just&iacute;cia per al 2026.</li>
+<li style="text-align: justify;">Projecte de pressupost del Consell General i organismes adscrits per al 2026.</li>
+<li style="text-align: justify;">ESMENES A LA TOTALITAT:
+<ul style="list-style-type: square;">
+<li>El termini per a la presentaci&oacute; d'esmenes a la totalitat finalitza el dia 12 de novembre del 2025, a les 13.30h</li>
+<li>El Grup parlamentari de Conc&ograve;rdia ha presentat esmena a la totalitat amb retorn al Govern.</li>
+<li>El Grup parlamentari Socialdem&ograve;crata ha presentat esmena a la totalitat amb retorn al Govern.</li>
+<li>Debat de totalitat i examen i votaci&oacute; de les esmenes a la totalitat presentades, en la sessi&oacute; ordin&agrave;ria del Consell General del dia 27 de novembre del 2025:
+<ul style="list-style-type: square;">
+<li>&nbsp;Esmena a la totalitat presentada pel Grup parlamentari de Conc&ograve;rdia DESESTIMADA per 8 vots a favor, 20 vots en contra i cap abstenci&oacute;.</li>
+<li>Esmena a la totalitat presentada pel Grup parlamentari Socialdem&ograve;crata&nbsp; DESESTIMADA per 8 vots a favor, 20 vots en contra i cap abstenci&oacute;.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li style="text-align: justify;">ESMENES A L'ARTICULAT:
+<ul style="list-style-type: square;">
+<li style="text-align: justify;">El termini per a la presentaci&oacute; d'esmenes a l'articulat finalitza el dia 26 de novembre del 2025, a les 13.30h</li>
+<li style="text-align: justify;">PR&Ograve;RROGA al termini de presentaci&oacute; d'esmenes sol&middot;licitada pels Grups parlamentaris Socialdem&ograve;crata i Andorra Endavant, el nou termini finalitza el dia 18 de desembre del 2025, a les 13.30h.</li>
+<li style="text-align: justify;">PR&Ograve;RROGA al termini de presentaci&oacute; d'esmenes sol&middot;licitada pels Grups parlamentaris Andorra Endavant i Socialdem&ograve;crata, el nou termini finalitza el dia 31 de desembre del 2025, a les 11.30h.</li>
+<li style="text-align: justify;">PR&Ograve;RROGA al termini de presentaci&oacute; d'esmenes sol&middot;licitada pel Grup parlamentari Andorra Endavant, el nou termini finalitza el dia 5 de gener del 2026, a les 9.30h.</li>
+</ul>
+</li>
+<li style="text-align: justify;">En data 7 de gener del 2026 es tramet el projecte de llei i les esmenes a l'articulat presentades a la Comissi&oacute; Legislativa de Finances i Pressupost.&nbsp;</li>
+<li style="text-align: justify;">En data 20 de gener del 2026 es publiquen els informes de la pon&egrave;ncia i de la Comissi&oacute; Legislativa de Finances i Pressupost, aix&iacute; com les reserves d'esmena presentades pel Grup parlamentari de Conc&ograve;rdia.</li>
+<li style="text-align: justify;">Disponible per a la sessi&oacute; ordin&agrave;ria del Consell General del dia 22 de gener del 2026.</li>
+<li style="text-align: justify;">Votacions de les Reserves d'esmena presentades:
+<ul style="list-style-type: square;">
+<li style="text-align: justify;">Reserva d'esmena 1 (GPdC) desestimada per 8 vots a favor i 19 en contra.</li>
+<li style="text-align: justify;">Reserva d'esmena 2 (GPdC) desestimada per 8 vots a favor i 19 en contra.</li>
+<li style="text-align: justify;">Reserva d'esmena 3 (GPdC) desestimada per 5 vots a favor, 19 vots en contra i 3 abstencions.</li>
+<li style="text-align: justify;">Reserva d'esmena 4 (GPdC) desestimada per 8 vots a favor, 16 vots en contra i 3 abstencions.</li>
+<li style="text-align: justify;">Reserva d'esmena 5 (GPdC) desestimada per 11 vots a favor i 16 vots en contra.</li>
+</ul>
+</li>
+<li style="text-align: justify;">Projecte de llei del pressupost per a l'exercici del 2026 de l'Administraci&oacute; general, les entitats parap&uacute;bliques o de dret p&uacute;blic i les societats p&uacute;bliques participades per l'Administraci&oacute; general <strong>APROVAT</strong> per majoria (16 vots a favor i 10 vots en contra).</li>
+<li style="text-align: justify;">Projecte de llei de pressupost del Consell General per a l'exercici del 2026 <strong>APROVAT </strong>per majoria (23 vots a favor i 3 abstencions).</li>
+<li style="text-align: justify;">Projecte de llei de pressupost del Consell Superior de la Just&iacute;cia i del Tribunal Constitucional <strong>APROVAT </strong>per majoria (16 vots a favor i 10 abstencions).</li>
+<li style="text-align: justify;"><a href="https://bopadocuments.blob.core.windows.net/bopa-documents/038015/pdf/CGL_2026_02_12_10_09_38.pdf" target="_blank" rel="noopener">Llei 1/2026, del 22 de gener, del pressupost per a l'exercici del 2026. Publicada al BOPA n&uacute;mero 15, del 12 de febrer del 2026</a>.</li>
+</ul></div>
+					
+
+					
+				</div>
+				<div class="bottom">
+					
+						<div class="documentsAdjunts">
+							<ul>
+								
+									<li><a target="_blank" href="/documentPublic/download/2299"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Edicte admissi&oacute; a tr&agrave;mit</span><span class="pdfSize">(Pdf, 741,68 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2300"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Projecte de llei del Pressupost 2026</span><span class="pdfSize">(Pdf, 8315,56 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2301"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Certificat Intervenci&oacute; general del Govern</span><span class="pdfSize">(Pdf, 260,04 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2302"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Informe d&#39;impacte de g&egrave;nere</span><span class="pdfSize">(Pdf, 90,56 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2303"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Fitxes de programa i projecte - Grup 1</span><span class="pdfSize">(Pdf, 12523,78 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2304"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Fitxes de programa i projecte - Grup 3,4</span><span class="pdfSize">(Pdf, 12353,95 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2305"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Fitxes de programa i projecte - Grup 5,6,7</span><span class="pdfSize">(Pdf, 6844,33 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2306"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Fitxes de programa i projecte - Grup 8,9,10</span><span class="pdfSize">(Pdf, 12716,42 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2307"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pressupost CASS 2026</span><span class="pdfSize">(Pdf, 17021,00 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2308"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pressupost Fons de reserva de jubilaci&oacute; 2026</span><span class="pdfSize">(Pdf, 2958,89 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2309"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pressupost Autoritat Financera Andorrana 2026</span><span class="pdfSize">(Pdf, 561,08 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2310"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pressupost SAAS 2026</span><span class="pdfSize">(Pdf, 1064,76 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2311"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pressupost FEDA 2026</span><span class="pdfSize">(Pdf, 1690,94 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2312"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pressupost EFPEM 2026</span><span class="pdfSize">(Pdf, 13465,21 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2313"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pressupost Universitat d&#39;Andorra 2026</span><span class="pdfSize">(Pdf, 642,26 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2314"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pressupost F&ograve;rum Nacional de la Joventut d&#39;Andorra 2026</span><span class="pdfSize">(Pdf, 731,13 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2315"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pressupost SDADV 2026</span><span class="pdfSize">(Pdf, 981,07 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2316"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pressupost CRAJ 2026</span><span class="pdfSize">(Pdf, 324,24 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2317"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pressupost AREB 2026</span><span class="pdfSize">(Pdf, 7199,48 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2318"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pressupost Ag&egrave;ncia andorrana Antidopatge 2026</span><span class="pdfSize">(Pdf, 1231,93 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2319"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pressupost CCIS 2026</span><span class="pdfSize">(Pdf, 1340,41 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2320"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pressupost Institut Nacional de l&#39;Habitatge 2026</span><span class="pdfSize">(Pdf, 648,61 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2321"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pressupost Institut andorr&agrave; de les Dones 2026</span><span class="pdfSize">(Pdf, 1610,61 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2322"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pressupost Andorra Telecom SAU</span><span class="pdfSize">(Pdf, 2970,11 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2323"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pressupost RTVASA 2026</span><span class="pdfSize">(Pdf, 760,58 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2324"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pressupost Ramaders d&#39;Andorra 2026</span><span class="pdfSize">(Pdf, 269,89 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2325"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pressupost Andorra Turisme SAU 2026</span><span class="pdfSize">(Pdf, 3095,38 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2326"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pressupost CTRASA 2026</span><span class="pdfSize">(Pdf, 992,49 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2327"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Quadres financers CTRASA 2026</span><span class="pdfSize">(Pdf, 434,33 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2328"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pressupost Andorra Desenvolupament i Inversi&oacute; SAU 2026</span><span class="pdfSize">(Pdf, 1904,47 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2329"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pressupost FEDA Solucions SAU 2026</span><span class="pdfSize">(Pdf, 1027,72 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2330"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Quadres financers FEDA Solucions SAU 2026</span><span class="pdfSize">(Pdf, 516,84 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2331"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Cap&ccedil;alera d&#39;Infraestructures Energ&egrave;tiques SAU 2026</span><span class="pdfSize">(Pdf, 945,79 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2332"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Quadres financers Cap&ccedil;alera Infraestructures Energ&egrave;tiques SAU 2026</span><span class="pdfSize">(Pdf, 551,66 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2333"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pressupost Diquital SAU 2026</span><span class="pdfSize">(Pdf, 479,68 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2334"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pressupost Tribunal Constitucional 2026</span><span class="pdfSize">(Pdf, 2090,58 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2335"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pressupost Consell Superior de la Just&iacute;cia 2026</span><span class="pdfSize">(Pdf, 703,18 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2336"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pressupost Consell General i organismes adscrits 2026</span><span class="pdfSize">(Pdf, 9406,90 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2358"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Edicte esmena a la totalitat GPdC</span><span class="pdfSize">(Pdf, 739,15 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2359"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Esmena a la totalitat GPdC</span><span class="pdfSize">(Pdf, 104,04 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2405"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Edicte esmena a la totalitat GPS</span><span class="pdfSize">(Pdf, 738,88 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2404"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Esmena a la totalitat GPS</span><span class="pdfSize">(Pdf, 79,92 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2446"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pr&ograve;rroga esmenes 18-12-2025</span><span class="pdfSize">(Pdf, 740,22 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2520"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Prorroga esmenes 31-12-2025</span><span class="pdfSize">(Pdf, 740,36 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2555"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Pr&ograve;rroga esmenes 5-01-2026</span><span class="pdfSize">(Pdf, 740,05 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2567"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Edicte tramesa a Comissi&oacute; Legislativa</span><span class="pdfSize">(Pdf, 741,37 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2568"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Esmenes GP Ciutadans Compromesos</span><span class="pdfSize">(Pdf, 216,53 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2569"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Esmenes GP Dem&ograve;crata</span><span class="pdfSize">(Pdf, 11507,02 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2570"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Esmenes GP Socialdem&ograve;crata</span><span class="pdfSize">(Pdf, 285,75 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2571"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Esmenes GP de Conc&ograve;rdia</span><span class="pdfSize">(Pdf, 212,30 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2595"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Edicte publicaci&oacute; informes CL i reserves d&#39;esmena</span><span class="pdfSize">(Pdf, 739,87 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2596"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Informe de la pon&egrave;ncia</span><span class="pdfSize">(Pdf, 2425,80 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2597"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Informe de la Comissi&oacute;</span><span class="pdfSize">(Pdf, 2338,70 Kb)</span></a></li>
+								
+									<li><a target="_blank" href="/documentPublic/download/2598"><img src="/images/fileicons/default.png" width="20" alt="Document" ><span class='pdfTitle'>Reserves d&#39;esmena GPdC</span><span class="pdfSize">(Pdf, 67,80 Kb)</span></a></li>
+								
+							</ul>
+						</div>
+					
+				</div>
+			</div>
+		
+	</div>
+	<div class="tornar">
+		
+		<a href="/normativaMilloradaAnunciPublic/categories?tipusId=14">
+			Tornar
+		</a>
+	</div>
+</div>
+
+    </main>
+</div>
+
+
+<footer>
+    
+    
+    
+
+
+
+    
+
+    
+        <div class="FOOTER" id="FOOTER_1">
+            
+                
+
+
+
+
+<div class="zone_1">
+    
+        
+        
+            <div class="titol_serveis" id="content_50">
+    <h2>Serveis</h2>
+</div>
+        
+    
+        
+        
+            
+
+
+<div class="serveis contingut_51">
+    
+        
+
+<a target=&quot;_self&quot; href="/normativaMilloradaAnunciPublic/categories/57"
+   class="iconLink contingut_67 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1193"
+                 alt="Butlletins per data" class="icon">
+        </div>
+    
+    <span style="">Butlletins per data</span>
+    
+</a>
+
+
+
+    
+        
+
+<a target=&quot;_self&quot; href="/normativaMilloradaAnunciPublic/categories/11"
+   class="iconLink contingut_68 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1192"
+                 alt="Iniciatives legislatives" class="icon">
+        </div>
+    
+    <span style="">Iniciatives legislatives</span>
+    
+</a>
+
+
+
+    
+        
+
+<a target=&quot;_self&quot; href="normativaMilloradaAnunciPublic/categories/26"
+   class="iconLink contingut_69 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1191"
+                 alt="Control i impuls de l&#39;acci&oacute; de Govern" class="icon">
+        </div>
+    
+    <span style="">Control i impuls de l&#39;acci&oacute; de Govern</span>
+    
+</a>
+
+
+
+    
+        
+
+<a target=&quot;_self&quot; href="/normativaMilloradaAnunciPublic/categories/38"
+   class="iconLink contingut_70 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1190"
+                 alt="Sessions p&uacute;bliques" class="icon">
+        </div>
+    
+    <span style="">Sessions p&uacute;bliques</span>
+    
+</a>
+
+
+
+    
+        
+
+<a target=&quot;_self&quot; href="/normativaMilloradaAnunciPublic/categories/52"
+   class="iconLink contingut_71 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1189"
+                 alt="Concursos p&uacute;blics" class="icon">
+        </div>
+    
+    <span style="">Concursos p&uacute;blics</span>
+    
+</a>
+
+
+
+    
+        
+
+<a target=&quot;_self&quot; href="/taulerAnuncisPublic/listPublicacions?cat.id=74"
+   class="iconLink contingut_72 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1188"
+                 alt="Demandes d&#39;informaci&oacute;" class="icon">
+        </div>
+    
+    <span style="">Demandes d&#39;informaci&oacute;</span>
+    
+</a>
+
+
+
+    
+        
+
+<a target=&quot;_self&quot; href="/normativaMilloradaAnunciPublic/categories/6"
+   class="iconLink contingut_73 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1187"
+                 alt="Actes del Ple" class="icon">
+        </div>
+    
+    <span style="">Actes del Ple</span>
+    
+</a>
+
+
+
+    
+        
+
+<a target=&quot;_self&quot; href="/normativaMilloradaAnunciPublic/categories/54"
+   class="iconLink contingut_74 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1186"
+                 alt="Oferta p&uacute;blica de Llocs de treball" class="icon">
+        </div>
+    
+    <span style="">Oferta p&uacute;blica de Llocs de treball</span>
+    
+</a>
+
+
+
+    
+        
+
+<a target=&quot;_self&quot; href="/normativaMilloradaAnunciPublic/categories/49"
+   class="iconLink contingut_75 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1185"
+                 alt="Organismes adscrits" class="icon">
+        </div>
+    
+    <span style="">Organismes adscrits</span>
+    
+</a>
+
+
+
+    
+        
+
+<a  href="/dynamicItemPublic/mostrarContingut/76"
+   class="iconLink contingut_76 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1184"
+                 alt="Transpar&egrave;ncia" class="icon">
+        </div>
+    
+    <span style="">Transpar&egrave;ncia</span>
+    
+</a>
+
+
+
+    
+        
+
+<a target=&quot;_blank&quot; href="https://seu.consellgeneral.ad/normativaMilloradaAnunciPublic/categories/51"
+   class="iconLink contingut_92 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1275"
+                 alt="Altres informacions" class="icon">
+        </div>
+    
+    <span style="">Altres informacions</span>
+    
+</a>
+
+
+
+    
+</div>
+        
+    
+</div>
+            
+        </div>
+    
+
+    
+
+    
+        <div class="FOOTER" id="FOOTER_2">
+            
+                
+
+
+
+
+<div class="zone_1">
+    
+        
+        
+            <div class="contacte default-footer" id="content_84">
+    <span class="contacte default-footer" id="content_84">
+    <div class="info-contacte">
+    <p class="info">
+        <span class="title">Consell General del Principat d'Andorra</span>
+        <span> Carrer de la Vall 9-13, Andorra la Vella, AD500</span>
+        <span>(Principat d'Andorra)</span>
+        <span>Tel. <a href="tel:+376877877" target="_blank" rel="noopener">+376 877 877</a></span>
+    </p>
+    <ul class="list-social-networks">
+        <li>
+            <a class="socialLink" href="https://x.com/consellgeneral" target="_blank" rel="noopener">
+                <span class="picto-twitter" title="Twitter" aria-hidden="true">
+                </span>
+                <span class="sr-only">Twitter</span>
+            </a>
+        </li>
+        <li>
+            <a class="socialLink" href="https://www.facebook.com/consellgeneral.ad/" target="_blank" rel="noopener">
+                <span class="picto-facebook" title="Facebook" aria-hidden="true">
+                </span>
+                <span class="sr-only">Facebook</span>
+            </a>
+        </li>
+        <li>
+            <a class="socialLink" href="https://www.instagram.com/consellgeneral/" target="_blank" rel="noopener">
+                <span class="picto-instagram" title="Instagram" aria-hidden="true">
+                </span>
+                <span class="sr-only">Instagram</span>
+            </a>
+        </li>
+        <li>
+            <a class="socialLink" href="https://www.youtube.com/@consellgeneral" target="_blank" rel="noopener">
+                <span class="picto-youtube" title="Youtube" aria-hidden="true">
+                </span>
+                <span class="sr-only">Youtube</span>
+            </a>
+        </li>
+    </ul>
+</div>
+</span>
+</div>
+        
+    
+</div>
+            
+                
+
+
+
+
+<div class="zone_2">
+    
+        
+        
+            
+
+
+<div class="footer-sitemap">
+    
+        <ul class="col">
+            
+            
+                <li class="sitemap-item">
+                    
+
+    <a href="/dynamicItemPublic/mostrarContingut/11" class="link contingut_11 mapaDeLaSeu">
+        <span style="">Mapa de la web</span>
+    </a>
+
+
+
+                </li>
+            
+                <li class="sitemap-item">
+                    
+
+    <a href="/dynamicItemPublic/mostrarContingut/89" class="link contingut_89 null">
+        <span style="">Accessibilitat</span>
+    </a>
+
+
+
+                </li>
+            
+                <li class="sitemap-item">
+                    
+
+    <a href="/dynamicItemPublic/mostrarContingut/90" class="link contingut_90 null">
+        <span style="">Avís Legal</span>
+    </a>
+
+
+
+                </li>
+            
+                <li class="sitemap-item">
+                    
+
+    <a href="/dynamicItemPublic/mostrarContingut/91" class="link contingut_91 null">
+        <span style="">Política de privacitat</span>
+    </a>
+
+
+
+                </li>
+            
+                <li class="sitemap-item">
+                    
+
+    <a href="/dynamicItemPublic/mostrarContingut/10" class="link contingut_10 null">
+        <span style="">Data i hora oficial de la Seu</span>
+    </a>
+
+
+
+                </li>
+            
+        </ul>
+    
+        <ul class="col">
+            
+            
+                <li class="sitemap-item">
+                    
+
+    <a href="/dynamicItemPublic/mostrarContingut/29" class="link contingut_29 null">
+        <span style="">Identificació dels canals d'accés als serveis</span>
+    </a>
+
+
+
+                </li>
+            
+                <li class="sitemap-item">
+                    
+
+    <a target="_BLANK" href="https://consellgeneral.3c-cloud.ad/000006/applications/Butlleti_Consell.NSF"
+       class="link contingut_2 ">
+        <span style="">Butlletí del Consell General anterior al 2023</span>
+    </a>
+
+
+
+                </li>
+            
+                <li class="sitemap-item">
+                    
+
+    <a href="/dynamicItemPublic/mostrarContingut/34" class="link contingut_34 politica-cookies">
+        <span style="">Política de cookies</span>
+    </a>
+
+
+
+                </li>
+            
+        </ul>
+    
+</div>
+
+        
+    
+</div>
+            
+        </div>
+    
+
+    
+
+    
+        <div class="FOOTER" id="FOOTER_3">
+            
+                
+
+
+
+
+<div class="zone_1">
+    
+        
+        
+            <div class="copyright">
+    <span>
+        © 2024 Consell General Principat d'Andorra
+    </span>
+</div>
+        
+    
+</div>
+            
+                
+
+
+
+
+<div class="zone_2">
+    
+        
+        
+            <div class="developedBy">
+    <span>Desenvolupat per</span>
+    <img	src="/base2024/images/ecity_espublico_WHITE.svg"
+            alt="Logo eCityclic"
+            title="Logo eCityclic"
+    >
+</div>
+
+        
+    
+</div>
+            
+        </div>
+    
+
+
+</footer>
+
+
+
+    
+
+<link rel="stylesheet" href="/css/cookies.css" >
+<script src="/js/cookies/customCookieMethods.js"></script>
+<div id="cookie-notice-popup" class="cookie-notice">
+    <div class="body">
+            <p>
+                L&apos;informem que en aquest lloc web utilitzem cookies tant pròpies com de tercers per oferir un millor servei, d&apos;acord amb els seus hàbits de navegació. <a class="text-primary" target="_blank" href="/contingutPublic/mostrar/politica-cookies">Consulta la política de cookies</a>
+            </p>
+
+            <div class="bottom">
+                
+
+                <div class="bottons">
+                    
+                        <button class="btn btn-danger" onclick="cookieRejected()">
+                            Rebutjar-les totes
+                        </button>
+                    
+
+                    
+                        <button class="btn" onclick="cookieAcceptSystem()">
+                            Acceptar-les totes
+                        </button>
+                    
+                </div>
+            </div>
+
+
+    </div>
+</div>
+
+
+
+    <script src="/js/cookies/jquery.cookie.js"></script>
+
+
+
+
+
+<!--CONTENIDO BOTTOM-->
+<div class="bodyBottom">
+    
+</div>
+
+
+
+</body>
+</html>
+
+
+

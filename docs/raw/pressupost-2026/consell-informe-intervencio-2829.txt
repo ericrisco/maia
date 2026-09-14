@@ -1,0 +1,330 @@
+FORA_DEL_CORPUS
+Publicador: Consell General. Autor: Govern, Ministeri de Salut (2828) o Ministeri de Finances, Intervenció General (2829).
+URL: https://seu.consellgeneral.ad/documentPublic/download/2829
+Consulta: 2026-09-13. pdftotext -layout. Text íntegre; maquetació original al PDF.
+Provinença prèvia: 02-DOCS/raw/sources/consell-general-pressupost-2026.md.
+Drets pendents; cap export a datasets.
+
+                      DOCUMENTS                                                                             REFERÈNCIES
+                      TIPUS: Informe                                                                        REGISTRE D'ENTRADA: 0341-2026 - 05/05/2026 09:51
+                      NOM: E-341-2026_Informe_crèdit extraordinàri i suplement de crèdit Habitatge sisitema SIGNATURES
+                      sociosanitari                                                                         MARIBEL CERDAN SEGURA: 04/05/2026 14:53
+                      UNITAT: Serveis Generals                                                              MERITXELL BONELL TUSET: 04/05/2026 14:59
+                      ORIGEN: Administració                                                                 CONSELL GENERAL (SIGNATURA): 05/05/2026 10:07
+                      CODI SEGUR DE VERIFICACIÓ: b93af517-9ef5-42aa-bdc9-04a113c5fe11
+                      IDENTIFICADOR: ES_XXXXXXXXX_2026_000000000000000000000000064692
+                      ESTAT D'ELABORACIÓ: Definitiu
+
+
+
+
+                               Govern d'Andorra
+                               Ministeri de Finances
+                               Intervenció General
+                                                                                                         CESC260429-01 Informe IG_SC inv. Habitatge s. sociosanitari
+
+
+
+
+                                                                                                   INFORME
+
+                           Assumpte: Crèdit extraordinari i suplement de crèdit, per un import total de
+                           40.150.000 euros, per atendre inversions destinades a ampliar el parc públic
+                           d’habitatge i a enfortir el sistema sociosanitari
+
+                           La Intervenció General, en l’exercici de les funcions que li atribueixen l’article 44 de la Llei
+                           general de les finances públiques, del 19-12-1996, i les seves modificacions posteriors
+                           (LGFP), i el Decret del 3-4-2019 d’aprovació del Reglament regulador de la Intervenció
+                           General i de l’exercici del control pressupostari, procedeix a la fiscalització de la legalitat
+                           de l’expedient de referència. La legislació aplicable i l’abast de la fiscalització es detallen
+                           a continuació.
+
+
+                           Expedient i normativa aplicable
+
+                           Vista la carta, del 29 d’abril del 2026, de la ministra encarregada d’habitatge i de la
+                           ministra titular de salut, relativa a la demanda d’un crèdit extraordinari i d’un suplement de
+                           crèdit, per un import total de 40.150.000 euros, per atendre inversions destinades a
+                           ampliar el parc públic d’habitatge i a enfortir el sistema sociosanitari;
+
+                           Vistes les memòries explicatives, econòmiques i de perspectiva de gènere del crèdit
+                           extraordinari i del suplement de crèdit per atendre inversions destinades a ampliar el parc
+                           públic d’habitatge i a enfortir el sistema sociosanitari;
+                           Vist que en les memòries explicatives i en el Projecte de llei es justifiquen la necessitat i
+                           la urgència d’aquests crèdit extraordinari i suplement de crèdit, textualment:
+
+                           “[...] en la necessitat d’ampliar el parc públic d’habitatge considerant la situació
+                           macroeconòmica a nivell internacional que pot impactar en els preus vinculats al mercat
+                           de l’habitatge i per tant, incrementar la demanda residencial en el parc públic d’habitatge”.
+
+                           “[...] pel fet que s’han de finançar aquestes inversions cabdals i inajornables per donar
+                           continuïtat a l’objectiu estratègic de millora del sistema sanitari, per part del Servei
+                           Andorrà d’Atenció Sanitària i de l’Administració, i assolir-lo.”
+
+                           “La urgència i la necessitat d’aquests crèdit extraordinari i suplement de crèdit responen a
+                           l’exigència d’executar inversions cabdals i inajornables per consolidar els objectius
+                           estratègics del Govern. Aquestes actuacions són determinants per ampliar el parc públic
+                           d’habitatge i per enfortir la resiliència del sistema sociosanitari, fites que no poden
+                           demorar-se sense comprometre l’interès públic.”
+
+                           Vist que aquestes despeses de capital no estan incloses –o no ho estant de manera
+                           suficient– en el pressupost inicial de l’exercici del 2026, i per la seva urgència, necessitat i
+                           oportunitat no es poden ajornar fins a l’exercici següent.
+
+                           Vistes les partides que se sol·licita habilitar o suplementar:
+
+
+
+
+                                                                                                            1
+
+
+
+
+                                                             PÀGINA: 1 de 4        DATA I HORA DE LA GENERACIÓ DE LA CÒPIA: 05/05/2026 10:09
+Aquest document és una còpia autèntica del document electrònic original. Podeu comprovar la seva validesa a https://registre.consellgeneral.ad/Consellers/ValidarDocuments.aspx?csv=b93af517-9ef5-42aa-bdc9-04a113c5fe11 emprant
+                                                                                                     el codi segur de verificació.
+                      DOCUMENTS                                                                             REFERÈNCIES
+                      TIPUS: Informe                                                                        REGISTRE D'ENTRADA: 0341-2026 - 05/05/2026 09:51
+                      NOM: E-341-2026_Informe_crèdit extraordinàri i suplement de crèdit Habitatge sisitema SIGNATURES
+                      sociosanitari                                                                         MARIBEL CERDAN SEGURA: 04/05/2026 14:53
+                      UNITAT: Serveis Generals                                                              MERITXELL BONELL TUSET: 04/05/2026 14:59
+                      ORIGEN: Administració                                                                 CONSELL GENERAL (SIGNATURA): 05/05/2026 10:07
+                      CODI SEGUR DE VERIFICACIÓ: b93af517-9ef5-42aa-bdc9-04a113c5fe11
+                      IDENTIFICADOR: ES_XXXXXXXXX_2026_000000000000000000000000064692
+                      ESTAT D'ELABORACIÓ: Definitiu
+
+
+
+
+                               Govern d'Andorra
+                               Ministeri de Finances
+                               Intervenció General
+                                                                                                         CESC260429-01 Informe IG_SC inv. Habitatge s. sociosanitari
+
+
+
+
+                           Pressupost de l'Administració general                                                     Exercici 2026                       CE                       SC
+                           15 Ministeri de Presidència, Economia, Treball i
+                           Habitatge – 180 Departament d’Habitatge – 180 Gabinet
+                                                                                                                           6.400.000 €            6.400.000 €                      -
+                           Tècnic d’Habitatge – D/60000 Adquisició de terrenys –
+                           106001 Habitatge social – PR0278 Habitatge
+                           15 Ministeri de Presidència, Economia, Treball i
+                           Habitatge – 180 Departament d’Habitatge – 180 Gabinet
+                           Tècnic d’Habitatge – D/60200 Adquisicions d’edificis i                                        21.600.000 €                     -               21.600.000 €
+                           altres construccions –106001 Habitatge social – PR0278
+                           Habitatge
+                           55 Ministeri de Territori i Urbanisme – 560 Departament
+                           d’Urbanisme – 561 Àrea d’Edificació Pública – D/60260
+                                                                                                                           6.000.000 €                    -                6.000.000 €
+                           Construccions d’altres edificis –106001 Habitatge social
+                           – IN0109 Habitatges Socials
+                           55 Ministeri de Territori i Urbanisme – 560 Departament
+                           d’Urbanisme – 561 Àrea d’Edificació Pública – D/60910
+                                                                                                                           1.000.000 €                    -                1.000.000 €
+                           Estudis i projectes d’inversió –106001 Habitatge social –
+                           IN0109 Habitatges Socials
+                           106001 Habitatge social – IN0109 Habitatges Socials                                           35.000.000 €             6.400.000 €            28.600.000,00
+                           55 Ministeri de Territori i Urbanisme – 560 Departament
+                           d’Urbanisme – 561 Àrea d’Edificació Pública – D/71111
+                                                                                                                              750.000 €                   -                 750.000 €
+                           Servei Andorrà d’Atenció Sanitària – 073101 Serveis
+                           hospitalaris – IN0007 Infraestructures centre hospitalari
+                           65 - Ministeri de Salut - 650 Secretaria d’Estat de Salut -
+                           650 Àrea de Recursos Sanitaris - D/71111/073101 -
+                                                                                                                           4.400.000 €                    -                4.400.000 €
+                           Servei Andorrà d’Atenció Sanitària - PR0097 - Subvenció
+                           explotació HNSM
+                           Inversions destinades a enfortir el sistema sanitari                                            5.150.000 €                    -                5.150.000 €
+
+
+
+                           Import total del suplement de crèdit                                                          40.150.000 €             6.400.000 €             33.750.000 €
+
+
+
+
+                           Pressupost del Servei Andorrà d’Atenció Sanitària                                         Exercici 2026                      CE                       SC
+
+                           60350 Maquinari i aparell med. NC                                                               3.600.000 €                    -                3.600.000 €
+
+                           61300 Inst. tècniques generals                                                                     800.000 €                   -                 800.000 €
+
+                           Total                                                                                           4.400.000 €                                     4.400.000 €
+
+
+
+
+                           Vist que el crèdit extraordinari i el suplement de crèdit per a l’exercici del 2026, per un
+                           import total de 40.150.000 euros, es financen amb la tresoreria provinent del superàvit de
+                           la liquidació pressupostària de l’Estat corresponent a l’exercici del 2025.
+
+
+
+
+                                                                                                            2
+
+
+
+
+                                                             PÀGINA: 2 de 4        DATA I HORA DE LA GENERACIÓ DE LA CÒPIA: 05/05/2026 10:09
+Aquest document és una còpia autèntica del document electrònic original. Podeu comprovar la seva validesa a https://registre.consellgeneral.ad/Consellers/ValidarDocuments.aspx?csv=b93af517-9ef5-42aa-bdc9-04a113c5fe11 emprant
+                                                                                                     el codi segur de verificació.
+                      DOCUMENTS                                                                             REFERÈNCIES
+                      TIPUS: Informe                                                                        REGISTRE D'ENTRADA: 0341-2026 - 05/05/2026 09:51
+                      NOM: E-341-2026_Informe_crèdit extraordinàri i suplement de crèdit Habitatge sisitema SIGNATURES
+                      sociosanitari                                                                         MARIBEL CERDAN SEGURA: 04/05/2026 14:53
+                      UNITAT: Serveis Generals                                                              MERITXELL BONELL TUSET: 04/05/2026 14:59
+                      ORIGEN: Administració                                                                 CONSELL GENERAL (SIGNATURA): 05/05/2026 10:07
+                      CODI SEGUR DE VERIFICACIÓ: b93af517-9ef5-42aa-bdc9-04a113c5fe11
+                      IDENTIFICADOR: ES_XXXXXXXXX_2026_000000000000000000000000064692
+                      ESTAT D'ELABORACIÓ: Definitiu
+
+
+
+
+                               Govern d'Andorra
+                               Ministeri de Finances
+                               Intervenció General
+                                                                                                         CESC260429-01 Informe IG_SC inv. Habitatge s. sociosanitari
+
+
+
+
+                           Llei 32/2014 (LSEPF) i LGFP
+
+                           L’article 1 d’aquest Projecte de llei preveu una modificació de l’article 18.1 de la Llei
+                           32/2014, del 27 de novembre, de sostenibilitat de les finances públiques i d’estabilitat
+                           pressupostària i fiscal, que estableix que el superàvit de les liquidacions pressupostàries
+                           de l’Estat pugui destinar-se també a inversions de naturalesa estratègica.
+                           Addicionalment, aquesta modificació estableix que en cas que els superàvits de les
+                           liquidacions pressupostàries de l’Estat s’apliquin al finançament de despeses de capital,
+                           aquesta despesa no computa a l’efecte del càlcul del límit de dèficit (l’1% del PIB
+                           nominal) que estableix l’article 15 (Despesa màxima permesa) de la Llei.
+                           Així mateix, l’article 2 del Projecte de llei modifica l’apartat 2 de l’article 26 de la Llei
+                           general de finances públiques amb la voluntat de permetre la redistribució dels imports
+                           aprovats en un crèdit extraordinari o en un suplement de crèdit entre els projectes que
+                           s’hi prevegin.
+                           Per tant, pel fet que aquesta despesa de 35.550.000 euros no computa a l’efecte del límit
+                           de despesa màxima permesa, aquest suplement no crèdit no té afectació respecte al
+                           compliment, respectivament, dels límits que estableix la Llei 32/2014, del 27 de
+                           novembre, de sostenibilitat de les finances públiques i d’estabilitat pressupostària i fiscal i
+                           les seves modificacions posteriors (LSEPF), i dels objectius de sostenibilitat financera i
+                           d’estabilitat pressupostària i fiscal de l’Administració general per a l’exercici del 2026 que
+                           determina l’edicte del 10-10-2025 pel qual es fan públics els objectius de sostenibilitat
+                           financera i d’estabilitat pressupostària i fiscal de l’Administració general per a l’exercici del
+                           2026.
+
+
+                                                                                                                                       Llei 1/2026Modificacions   Llei 1/2026
+                                                                                                                                                     Crèdit
+                           Objectius de sostenibilitat de les finances públiques i d’estabilitat                               Pressupost inicial extraordinari  Pressupost
+                           pressupostària i fiscal                                                                                   2026         / suplement     final 2026
+                                                                                                                                                    de crèdit
+                           Objectiu d'endeutament (en valor absolut)                                                              1.240.406.995 €       -       1.240.406.995 €
+                           Objectiu d'endeutament (en % s/PIB nominal)                                                                          30,5%               -                          30,5%
+                           Objectiu de despesa permesa [art. 12 l’LSEPF]                                                              750.226.803 €                 -               750.226.803 €
+                           Dèficit (en valor absolut) [art. 12 l’LSEPF]                                                                39.806.234 €                 -                 39.806.234 €
+                           Dèficit (en % s/PIB nominal) [art. 12 l’LSEPF]                                                                           1%              -                              1%
+                           Objectiu de despesa corrent de l’Administració general                                                               12,2%               -                          12,2%
+                           Objectiu del pes de la imposició directa                                                                             53,7%               -                          53,7%
+
+                           Estimació del PIB nominal (font: Departament d’Estadística)                                             4.064.067.048 €                                4.064.067.048 €
+                           Font: https://sig.govern.ad/SIGDDE.Public/Files/Documents/Notes_premsa_noticies/A092_A093_20250324_A.pdf
+                           Font: https://sig.govern.ad/SIGDDE.Public/Files/Documents/Notes_premsa_noticies/A090_20250610_A.pdf
+
+
+
+
+                                                                                                            3
+
+
+
+
+                                                             PÀGINA: 3 de 4        DATA I HORA DE LA GENERACIÓ DE LA CÒPIA: 05/05/2026 10:09
+Aquest document és una còpia autèntica del document electrònic original. Podeu comprovar la seva validesa a https://registre.consellgeneral.ad/Consellers/ValidarDocuments.aspx?csv=b93af517-9ef5-42aa-bdc9-04a113c5fe11 emprant
+                                                                                                     el codi segur de verificació.
+                      DOCUMENTS                                                                             REFERÈNCIES
+                      TIPUS: Informe                                                                        REGISTRE D'ENTRADA: 0341-2026 - 05/05/2026 09:51
+                      NOM: E-341-2026_Informe_crèdit extraordinàri i suplement de crèdit Habitatge sisitema SIGNATURES
+                      sociosanitari                                                                         MARIBEL CERDAN SEGURA: 04/05/2026 14:53
+                      UNITAT: Serveis Generals                                                              MERITXELL BONELL TUSET: 04/05/2026 14:59
+                      ORIGEN: Administració                                                                 CONSELL GENERAL (SIGNATURA): 05/05/2026 10:07
+                      CODI SEGUR DE VERIFICACIÓ: b93af517-9ef5-42aa-bdc9-04a113c5fe11
+                      IDENTIFICADOR: ES_XXXXXXXXX_2026_000000000000000000000000064692
+                      ESTAT D'ELABORACIÓ: Definitiu
+
+
+
+
+                               Govern d'Andorra
+                               Ministeri de Finances
+                               Intervenció General
+                                                                                                         CESC260429-01 Informe IG_SC inv. Habitatge s. sociosanitari
+
+
+
+
+                                                                                                                                                  Crèdit
+                                                                                                                     Pressupost
+                                                                                                                                              extraordinari /              Pressupost
+                                                                                                                      inicial 2026
+                                                                                                                                              suplement de                  final 2026
+                                                                                                                     (Llei 1/2026)
+                                                                                                                                                  crèdit
+
+                           Objectiu de despesa permesa de l’Administració general                                    750.181.803 €                                          790.331.803 €
+                                                                                                                                                   40.150.000,00
+
+                           Despeses de personal                                                                      185.324.252 €                                   -      185.324.252 €
+
+                           Consums de béns corrents i serveis                                                          83.509.683 €                                  -       83.509.683 €
+
+                           Despeses financeres                                                                         16.766.214 €                                  -       16.766.214 €
+
+                           Transferències corrents                                                                   327.003.280 €                                   -      327.003.280 €
+
+                           Inversions reals                                                                            81.167.342 €                 35.000.000 €            116.167.342 €
+
+                           Transferències de capital                                                                   56.411.033 €                   5.150.000 €            61.561.033 €
+
+
+
+
+                           Conclusió
+
+
+                           Aquesta Intervenció General, en l’exercici de les funcions que li atribueix l’article 44 de la
+                           Llei general de les finances públiques, del 19-12-1996, i les seves modificacions
+                           posteriors, i el Decret del 3-4-2019 d’aprovació del Reglament regulador de la Intervenció
+                           General i de l’exercici del control pressupostari,
+
+
+                           INFORMA:
+
+                           Que, de conformitat amb els articles 23 i 24 de la Llei general de les finances públiques i
+                           les seves modificacions posteriors, és procedent –tenint en compte l’observació de
+                           l’apartat anterior sobre el compliment de l’LSEPF– que el Govern acordi la presentació
+                           d’un crèdit extraordinari i d’un suplement de crèdit per un import total de 40.150.000 euros
+                           per atendre inversions destinades a ampliar el parc públic d’habitatge i a enfortir el
+                           sistema sociosanitari.
+
+
+
+
+                           Andorra la Vella, 29 d’abril del 2026
+
+
+
+
+                                                                                                            4
+
+
+
+
+                                                             PÀGINA: 4 de 4        DATA I HORA DE LA GENERACIÓ DE LA CÒPIA: 05/05/2026 10:09
+Aquest document és una còpia autèntica del document electrònic original. Podeu comprovar la seva validesa a https://registre.consellgeneral.ad/Consellers/ValidarDocuments.aspx?csv=b93af517-9ef5-42aa-bdc9-04a113c5fe11 emprant
+                                                                                                     el codi segur de verificació.
+
