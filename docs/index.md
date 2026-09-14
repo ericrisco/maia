@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**848** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**849** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -837,6 +837,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [«Avuy s'encanta los llibres dels comuns»](temes/institucions/comuns-i-parroquies/avuy-sencanta-los-llibres-dels-comuns.md) | `temes/institucions/comuns-i-parroquies` | compilada | historica | no | `brutails-coutume-1904` |
 | [El sometent](temes/institucions/comuns-i-parroquies/el-sometent.md) | `temes/institucions/comuns-i-parroquies` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Els diners dels comuns](temes/institucions/comuns-i-parroquies/els-diners-dels-comuns.md) | `temes/institucions/comuns-i-parroquies` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La taba i el mostassà](temes/institucions/comuns-i-parroquies/la-taba-i-el-mostassa.md) | `temes/institucions/comuns-i-parroquies` | compilada | contemporania | no | `lacueva-hoteleria` |
