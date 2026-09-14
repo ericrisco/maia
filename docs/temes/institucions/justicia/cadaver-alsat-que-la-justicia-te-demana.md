@@ -195,6 +195,17 @@ defineix «visura / veedoria» com «un tipus de tribunal».** **Segons Brutails
 desplacen. **Registrat com a divergència entre el que el corpus diu i el que diu
 aquesta font.**
 
+**I els *vehedors* ja tenen lloc. — 16-09-2026.** El **capítol I del llibre III
+del Politar** diu que el Consell General estava repartit en **tres sales**, i
+que **la primera era «de 4 homens, vulgarment nomenats los 4 vehedors»**, que
+**coneixien en primera instància les causes que començaven al Consell General**
+([Jamay interve ministre algun](../../institucions/consell-general/jamay-interve-ministre-algun.md)).
+**Vol dir que el visori dels vehedors del 1783 sobre un dret de pas no era un
+acte pericial solt sinó la primera instància del parlament andorrà** — `lectura
+del corpus: l'arrest del 1783 no ho diu amb aquestes paraules`. **La divergència
+sobre si `visura` és el tribunal o el desplaçament segueix oberta**: **el Politar
+nomena els homes, no l'acte.**
+
 ## Buits registrats
 
 **El manuscrit Palmitjavila no és al corpus.** D'ell surt la frase que explica

@@ -129,6 +129,23 @@ les dues no dona la signatura del document**.
 | La **sisena** per al batlle (sis candidats, un per parròquia, mandat de tres anys) | **7 de maig de 1589**, per **Andreu Capella** | **1551**, per un bisbe anterior |
 | L'**escrivania / doena** (dos candidats per a notari) | **1607**, «privilegi de la doena» | **1604** |
 
+**I ara en són tres, no dues.** El **capítol I del llibre III del Politar**
+—font primària del segle XVIII— atribueix la concessió del cot a **D. Francisco
+de Urries** i **no el data**
+([Jamay interve ministre algun](../../institucions/consell-general/jamay-interve-ministre-algun.md)).
+**Cap de les tres fonts no en dona la signatura del document**, i **el corpus no
+comprova episcopologis de memòria.** `Registrat, no arbitrat.`
+
+**Els altres dos privilegis de la taula, en canvi, la font primària els
+confirma en contingut i no en data.** El Politar descriu **la *cisena* del
+batlle** —sis prohoms, un per parròquia, mandat de tres anys— i **deixa l'any en
+blanc dues vegades**
+([Tinga's pres per lo Príncep](../../institucions/justicia/tingas-pres-per-lo-princep.md)),
+i descriu **la *doena* del notari** —dos homes de la major probitat— **sense
+datar-la**
+([excomunió major per a qui tregui un paper](../../institucions/patrimoni-institucional/excomunio-major-per-a-qui-tregui-un-paper.md)).
+**Les tres divergències de data segueixen obertes exactament igual.**
+
 **No són errades d'OCR:** els números són nets als dos textos i estan escrits
 amb lletra al voltant. Són **dues reconstruccions diferents**.
 

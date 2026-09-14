@@ -249,6 +249,18 @@ feriats**». Amb l'exemple que en dona el mateix llibre —sentència notificada
 **El corpus no sap si el 1740 el còmput era el mateix**: el text del 1902 és el
 que té, i **la Instructa no diu si els deu dies eren hàbils o de calendari.**
 
+**La «jurisdicsio politica y economica» dels comuns ja té matèries. —
+16-09-2026.** El **capítol I del llibre III del Politar** explica que va sortir
+d'un memorial del Comú contra les extorsions dels veguers, resolt pel bisbe
+d'Urgell i per **Gastó, comte de Foix**, que van declarar a favor del Comú la
+jurisdicció econòmica **«de tota la terra de Andorra»** en **nou matèries**:
+**«causes de vehi a vehi, llevar quistias y talles, comunals, boscos, camins
+reals, treta de grans, ayguas, pescas, cassas, pesos y mesuras»**, **inhibint
+tots els oficials de justícia d'immiscuir-s'hi**
+([Jamay interve ministre algun](../consell-general/jamay-interve-ministre-algun.md)).
+**Segueix obert l'any del memorial i el nom del bisbe**: **tots dos són en blanc
+a l'imprès.**
+
 **No consta si la regla dels tres advocats es va aplicar mai.** El corpus **no té
 cap sentència de batlle** d'aquest període, ni cap consulta escrita.
 

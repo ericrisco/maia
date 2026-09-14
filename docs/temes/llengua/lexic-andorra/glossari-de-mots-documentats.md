@@ -71,7 +71,7 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **manador -a** | pregoner |
 | **bander** | guarda forestal (≈ agent rural) |
 | **arrest** | acord comunal — del francès *arrêt*. Documentat al segle XVII: *Areste lo dit Consell...* |
-| **cot** | multa imposada per un consell per incompliment d'un deure. **Documentat viu el 1853**: un decret del copríncep episcopal castiga qui permeti balls «deshonestos» amb «deu lliuras barcelonesas **y lo cot de la terra**, partidoras per mitat entre la iglesia y lo Comu» ([font primària](../../historia/segle-xix/trenta-nou-anys-si-el-creditor-es-lesglesia.md)) |
+| **cot** | multa imposada per un consell per incompliment d'un deure. **El Politar en dona la significació que consta al privilegi**: **«los gastos que ocasione lo delinquent o inhobedient als interessants del Concell en que se examina la causa»**, i **per això no es tarifa**: es cota després de l'examen, ***pro qualitate delicti et pro qualitate personæ***. **Documentat viu el 1853**: un decret del copríncep episcopal castiga qui permeti balls «deshonestos» amb «deu lliuras barcelonesas **y lo cot de la terra**, partidoras per mitat entre la iglesia y lo Comu» ([font primària](../../historia/segle-xix/trenta-nou-anys-si-el-creditor-es-lesglesia.md)) |
 | **capsou** | contracte de bestiar: el prestador en transfereix el domini i es reserva la facultat de quitar, i cobra un rèdit anual **en producte de l'animal**. **Documentat el 1783 a l'Aldosa**; Brutails el donava per **desaparegut el 1904** ([font primària](../../economia/ramaderia-i-agricultura/linteres-es-paga-en-llana.md)) |
 | **parceria**, **aparceria** | el mateix contracte, **el nom que va sobreviure**. *Tenere in parceriam*, documentat a **Mosquera el 7 de desembre del 1419** |
 | **conlloc** | contracte de bestiar. **Documentat el 1740** com a causa que toca al batlle, al costat de *parceries* i *prefets* ([font primària](../../institucions/justicia/dos-de-tres-i-les-parts-no-ho-saben.md)). **El corpus n'acredita l'existència judicial i no el contingut** |
@@ -131,6 +131,12 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **dieta** | en els aranzels de justícia, **no un dia sinó dues hores**: «per cada dieta, **que es de dos en dos horas fora del lloch de sa habitacio**», fraccionable **«per mitjes dietes o ters o quart, segons la distancia»**. Politar, llibre II, cap. VIII |
 | **persona de joch** | categoria social que el Politar **exclou expressament**, al costat dels prohoms, de poder ser obligada a fer de porter. **El corpus no la defineix.** Politar, llibre II, cap. VIII |
 | **fogo** | braser en què s'escalfava **la marca** dels criminals, **a la plaça de la vila d'Andorra**. Politar, llibre II, cap. VIII |
+| **vehedor** | membre de **la primera sala del Consell General**, que n'eren **quatre** —«los 4 vehedors»— i **coneixien en primera instància les causes que hi començaven**. Politar, llibre III, cap. I |
+| **cot de la Terra** · **cot de la parròquia** · **cot del quart** | els tres graus del *cot* **segons qui l'imposa**: el Consell General, una de les seves sales o un Conseller; un cònsol, un prohom o el Consell de parròquia; el Consell de quart. Politar, llibre III, cap. I |
+| **cot de fallits** | quart grau del *cot*, per a qui falta a una **manobra** o a una **missa de devoció** manades: «castigaran ab la pena que se trobara corresponent als **fallits**». Politar, llibre III, cap. I |
+| **manobra** | treball comunal obligatori que el consell podia manar **sota pena de cot de fallits**. Politar, llibre III, cap. I |
+| **pecho** | tribut: els veguers feien pagar al Comú «tributs y **crescuts pechos**». Politar, llibre III, cap. I |
+| **sufragània** | església o nucli dependent d'una parròquia, comptat amb ella en la representació al Consell General. Politar, llibre III, cap. I |
 | **ordinació** | norma d'un comú |
 | **foc i lloc** | impost parroquial |
 | **consòrcia** | unió de persones amb un interès comú que s'ajuden en cas de necessitat |
