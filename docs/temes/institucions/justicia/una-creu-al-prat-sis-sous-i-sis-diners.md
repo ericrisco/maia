@@ -321,9 +321,18 @@ no dret»**, encara a la finca i amb la finca **especialment hipotecada**.
 **Segueix obert** on és el manuscrit i què diuen els nou primers paràgrafs, que
 l'extracte no porta.
 
-**La llista de feriats tampoc.** És la peça **XXVIII**, del **25 de novembre del
-1902**, i importa perquè aquest article estableix que **en feriat sí que es pot
-embargar**: sense la llista, no se sap quants dies eren.
+~~**La llista de feriats tampoc.**~~ — **Tancada el 15-09-2026**: la peça
+**XXVIII** és destil·lada a
+[els tribunals tancaven per la fira d'Organyà](./els-tribunals-tancaven-per-la-fira-dorganya.md).
+**Seixanta-dos dies datats l'any**, més tots els diumenges de fora dels trams i
+quatre blocs mòbils; **i la llista es va fer el 1902 a petició del mateix
+Brutails**, perquè els *savis* no s'hi posaven d'acord. **Segueix obert** el
+total anual, que depèn de l'any, i **les tres llistes anteriors** —1585, 1742 i
+una «potser del segle XVIII»— **que no són al corpus**. **I ara se sap per què
+importava saber-ho**: si l'embargament s'hagués aturat en feriat, l'*ampara de
+creu* —que només es pot fer sobre fruit segat— **no s'hauria pogut fer mai**,
+perquè la parada d'estiu dels tribunals era precisament **«tot lo cop de segá y
+reculli las garbas»**.
 
 **No consta què cobrava el batlle per sentenciar.** **Tot l'aranzel és de
 tràmits i desplaçaments**: dieta, verbal, penyora, firma, possessió, inventari.

@@ -218,13 +218,26 @@ contingut.** [La transhumància](../../economia/ramaderia-i-agricultura/la-trans
 té declarat com a buit «els contractes de conlloc: com s'escrivien i què hi
 constava», **i segueix obert.**
 
-**Els «drets tocants a ells y dietes» del títol no es destil·len aquí.** Són la
-part que diu **quant cobrava un batlle per cada acte**, i és **una unitat
-pendent**.
+~~**Els «drets tocants a ells y dietes» del títol no es destil·len aquí.**~~ —
+**Tancat el 15-09-2026**: l'aranzel sencer, amb l'estima del notari del 1657 al
+costat, és a
+[una creu al prat, sis sous i sis diners](./una-creu-al-prat-sis-sous-i-sis-diners.md).
 
-**La part criminal no s'ha buidat sencera.** Aquesta fitxa en llegeix el
-començament i les prohibicions d'armes; **la resta de la peça, fins a la pàgina
-LVI, queda sense destil·lar.**
+~~**La part criminal no s'ha buidat sencera.**~~ — **Tancat el 15-09-2026.** La
+peça XXVI és destil·lada fins a la pàgina LVI en dues unitats: aquesta i
+l'aranzel. **Segueix obert**, però, **què cobrava el batlle per sentenciar**:
+**no hi ha cap línia d'aranzel per donar sentència.**
+
+**Els deu dies d'apel·lació no eren deu dies. — `parcial` des del 15-09-2026.**
+La *Instructa* en diu **deu** i **les lletres d'apel·lació del 1902 també**, però
+al càlcul real **s'hi sumen tres dies de gràcia i tots els feriats**, perquè
+«**on ne retient dans la supputation du délai que les jours habils, non
+feriats**». Amb l'exemple que en dona el mateix llibre —sentència notificada
+**dissabte 12 de gener**, apel·lació possible **fins a dilluns 28 inclòs**—,
+**un termini de deu dies en dura setze**
+([els tribunals tancaven per la fira d'Organyà](./els-tribunals-tancaven-per-la-fira-dorganya.md)).
+**El corpus no sap si el 1740 el còmput era el mateix**: el text del 1902 és el
+que té, i **la Instructa no diu si els deu dies eren hàbils o de calendari.**
 
 **No consta si la regla dels tres advocats es va aplicar mai.** El corpus **no té
 cap sentència de batlle** d'aquest període, ni cap consulta escrita.

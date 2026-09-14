@@ -69,6 +69,30 @@ font seria exactament el tipus d'error que aquest corpus existeix per evitar.
 **Buit registrat**: verificar si hi ha relació documentada entre la data del
 pareatge i la festivitat mariana del 8 de setembre.
 
+## El que una font primària sí que diu, i com ho diu
+
+**El corpus ja té un document oficial datat que recull el 8 de setembre**, i
+val la pena mirar **amb quin nom**.
+
+La ***Liste des feriats*** dels tribunals d'Andorra, **aprovada pel Consell
+General el 25 de novembre del 1902**
+([els tribunals tancaven per la fira d'Organyà](../../institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md)),
+hi posa: «**en setembre, la Nativitat de la Mare de Deu**».
+
+**Queda acreditat** que el **8 de setembre** era **dia feriat per als tribunals
+andorrans el 1902** — vint-i-nou anys després de la declaració de patronatge del
+1873 que aquest article pren de la premsa.
+
+**I queda acreditat també el que el document no diu.** **No l'anomena
+Meritxell**, ni **patrona**, ni **festa nacional**: l'anomena **pel nom del
+santoral**. **El corpus registra la coincidència de data i no dedueix res del
+nom**: el sentit nacional de la data **no és a aquesta font**, i **la declaració
+del 1873 segueix descansant només en premsa.**
+
+**Buit registrat**: **l'acord del Consell General del 24 d'octubre del 1873**,
+contra l'acta original. **És la peça que convertiria aquest article en una
+fitxa de font primària**, i **no és al corpus.**
+
 ## Related
 
 - [El Pareatge](../../historia/pareatge/el-pareatge.md) — la mateixa data.
