@@ -82,7 +82,7 @@ général»**, i és **una acusació en sis punts**:
 | | Què li retreu |
 | --- | --- |
 | **1** | «**il émet l'inadmissible prétention de faire échec à la justice et de suspendre, en cas de conflit, les juges nommés par les Co-seigneurs**» |
-| **2** | «**il lui arrive d'intervenir dans les instances entre particuliers, de prendre parti sur le fond ou de casser des actes de procédure**» |
+| **2** | «**il lui arrive d'intervenir dans les instances entre particuliers, de prendre parti sur le fond ou de casser des actes de procédure**» — **el mecanisme és a [«segons les lleis i costums immemorials del país»](./segons-les-lleis-i-costums-immemorials-del-pais.md)**: **hi arribava per la via de certificar el costum per decret**, i **el 1846 el Jutge d'Apel·lacions ja ho havia intentat impedir amb resposta favorable de Guizot** |
 | **3** | «**il trace des règles aux notaires**, qui ne tiennent de lui à aucun degré leur mandat» |
 | **4** | «**il dispose des biens du domaine public**, qui sont la propriété des Co-seigneurs» |
 | **5** | «**il crée des impôts**» — i aquí hi va la nota del 1902 |
