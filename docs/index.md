@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**913** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**914** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -962,6 +962,7 @@
 | [Les lleis qualificades](temes/institucions/justicia/les-lleis-qualificades.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Les penes del Codi Penal](temes/institucions/justicia/les-penes-del-codi-penal.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Les sentències no les escrivien els batlles](temes/institucions/justicia/les-sentencies-no-les-escrivien-els-batlles.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
+| [L'estranger en tenia prou amb una citació](temes/institucions/justicia/lestranger-en-tenia-prou-amb-una-citacio.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [L'execució forçosa](temes/institucions/justicia/lexecucio-forcosa.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Li vaig preguntar què feien: «no gran cosa»](temes/institucions/justicia/li-vaig-preguntar-que-feien-no-gran-cosa.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [L'ordenament jurídic avui](temes/institucions/justicia/lordenament-juridic-avui.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
