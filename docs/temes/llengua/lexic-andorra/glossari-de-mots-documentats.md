@@ -96,6 +96,10 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **guiat** | l'acusat que ha rebut **un salconduit vàlid fins a les Corts següents**. El Politar el posa al costat del *manlleutat* |
 | **a mig guany** | contracte de bestiar **que reparteix el guany per meitat**. **Documentat el 12 d'octubre del 1797** entre un pagès d'Agramunt i un treballador de Canillo. **No consta si és el mateix que el `conlloc`** |
 | **fermansa** | fiador. A la manlleuta del 1797 **renuncia a la llei que mana executar primer el principal** i **a la que fa caure l'accessori si falta el principal**: **es pot anar contra ell directament** |
+| **drets de menjaria** | el salari del veguer episcopal: **100 lliures l'any**, **pagades per les Valls**. El veguer del comte de Foix **no en tenia**, i el Politar ho dona com una de les conjectures per explicar que cobrés **tres de les quatre parts** dels emoluments de la justícia ([font primària](../../institucions/coprincipat/al-bisbe-la-dignitat-al-de-foix-el-profit.md)). **No consta què eren ni fins quan es van pagar** |
+| **guiatge** | salconduit per a delictes lleus, **vàlid fins a les primeres Corts, on tots queden abolits**. El Politar en diu el motiu: **«per lo fi de que les persones honestes no agen de passar per la ignominia de esser capturadas»** |
+| **enquestat** | el processat. Els veguers **no podien prohibir als prohoms raonar per als «pobres enquestats y manlleutats»** |
+| **penes trencades** | les penes ja incorregudes. **Els veguers les podien compondre o remetre, però no en secret**: «**als ulls del mon o manifestament**» |
 | **ordinació** | norma d'un comú |
 | **foc i lloc** | impost parroquial |
 | **consòrcia** | unió de persones amb un interès comú que s'ajuden en cas de necessitat |

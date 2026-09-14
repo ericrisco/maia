@@ -105,6 +105,16 @@ Vegeu
      de distància**. **El corpus no afirma parentiu ni caràcter hereditari de
      l'ofici**; registra la coincidència i que és comprovable contra el pergamí
      E 459 i contra el Llibre de la Terra.
+   - **El canvi de nom de `saig` a `batlle` ja té el text que el diu —
+     15-09-2026.** El **capítol I del llibre II del Politar**
+     escriu que els qui avui són **batlles** «**entonces en eix temps antich se
+     deyen Saig en vulgar y en lleti Sagiones, fins que los Comissaris dels
+     Princeps** […] **los mudaren lo nom de Saigs en vulgar en Batlles, com se
+     veu en la declaracio per estos feta**»
+     ([al Bisbe la dignitat, al de Foix el profit](../coprincipat/al-bisbe-la-dignitat-al-de-foix-el-profit.md)).
+     **El corpus el tenia per referència i ara en té el text.** **Segueix obert
+     quan**: **el Politar no data la declaració dels Comissaris**, i **aquella
+     declaració no és al corpus.**
 4. **La Cambra de Saigs**: quants n'hi ha i des de quan.
 5. **Què vol dir *saig* en català general**, segons el diccionari normatiu. Sense
    això, la columna del fals amic està incompleta.

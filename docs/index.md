@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**817** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**818** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -861,6 +861,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Al Bisbe la dignitat, al de Foix el profit](temes/institucions/coprincipat/al-bisbe-la-dignitat-al-de-foix-el-profit.md) | `temes/institucions/coprincipat` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [El Concordat del 2008](temes/institucions/coprincipat/el-concordat-del-2008.md) | `temes/institucions/coprincipat` | compilada | contemporania | no | `serra-vatica-microestat` |
 | [El Coprincipat](temes/institucions/coprincipat/el-coprincipat.md) | `temes/institucions/coprincipat` | compilada | contemporania | no | `coprincep-frances` |
 | [La quèstia](temes/institucions/coprincipat/la-questia.md) | `temes/institucions/coprincipat` | compilada | contemporania | no | `wikipedia-questia` |

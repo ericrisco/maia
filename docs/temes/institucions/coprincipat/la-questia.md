@@ -48,6 +48,32 @@ en tenia l'entrada i no la xifra.
 [coprincipat](./el-coprincipat.md) i no com a anècdota**: **la paritat del
 Pareatge no era completa des del primer document.**
 
+### I n'hi ha una segona, de la mateixa direcció
+
+**Ampliat el 15-09-2026 contra el Politar.** El mateix Pareatge mana que **dels
+emoluments de l'administració de justícia se'n facin quatre parts**, i que **el
+veguer del Bisbe d'Urgell en tingui una i el veguer del comte de Foix, tres**
+([al Bisbe la dignitat, al de Foix el profit](./al-bisbe-la-dignitat-al-de-foix-el-profit.md)).
+
+**I això no ho diu el corpus: ho diu el Politar**, que hi dedica el final del
+capítol dels veguers i **ho anomena «una inconsequencia y no connecsio»**, perquè
+**el Pareatge fa que el comte de Foix presti homenatge al Bisbe i tingui la
+senyoria en feu de la Mitra**. La seva conclusió, literal:
+
+> «Pareyx que en est particular **se deteriore la condicio del Bisbe y de son
+> Veguer, quedant lo util de les Valls al Compte de Foyx** y a son Veguer **y al
+> Senyor Bisbe la dignitat de sobera**.»
+
+**El vassall cobrava tres quartes parts i el senyor una.** I **l'autor declara
+que no sap per què**: «**La raho o rahons y motius que tendrien los Senyors que
+feren los Pariatges, no les he llegides en part alguna ni les se.**» Les seves
+explicacions **les marca ell mateix com a conjectures** —el Bisbe ja cobrava els
+delmes; **el veguer episcopal tenia 100 lliures l'any de «drets de menjaria»
+pagades per les Valls** i el de Foix no tenia salari; el de Foix havia fet
+despesa en la guerra; i li costava més **«passar los Pirineus y mals ports»**— i
+tanca amb «**Y baste de congectures**». **El corpus les reté com a conjectures
+seves.**
+
 ### Quant era, al final
 
 | A qui | Import final |

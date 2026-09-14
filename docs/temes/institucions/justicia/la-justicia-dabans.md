@@ -172,7 +172,13 @@ entre els seus membres, «en una divisió de funcions pròpies d'un govern». El
    **El seu parer intervenia en la commutació de penes.** I n'hi ha una segona,
    per negació: **el bisbe Catalán de Ocón va especificar que les funcions de
    `procurador fiscal` no se'ls podien encomanar**. **Segueixen oberts l'origen
-   i la data final.**
+   i la data final.** **I una tercera, ara del Politar** *(capítol II del llibre
+   II)*: **els veguers no podien prohibir als prohoms ser advocats ni
+   rahonadors** «per rahonar sos privilegis y als **pobres enquestats y
+   manlleutats**»
+   ([al Bisbe la dignitat, al de Foix el profit](../coprincipat/al-bisbe-la-dignitat-al-de-foix-el-profit.md)).
+   **El rahonador és un prohom que raona**, i **el que està protegit és que
+   pugui fer-ho per als privilegis de les Valls i per als presos pobres.**
 2. **El Tribunal de Visures** — composició i procediment.
 3. **El Tribunal Superior d'Andorra a Perpinyà** — quan es crea exactament, quan
    s'extingeix. — **`parcial` des del 15-09-2026: la creació sí, l'extinció

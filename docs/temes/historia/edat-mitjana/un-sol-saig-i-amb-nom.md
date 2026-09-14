@@ -207,7 +207,18 @@ pot presentar com si ho fos.
 
 **No s'ha comprovat si aquest privilegi va ser confirmat o revocat.** Els
 privilegis andorrans es confirmaven a cada successió i **el corpus no en té cap
-confirmació posterior.**
+confirmació posterior.** — **`parcial` des del 15-09-2026, i amb cautela.**
+**Dues clàusules d'aquest privilegi tornen al Politar**, quatre segles i mig
+després, **entre el que els veguers no poden fer**: **no poden executar amb
+sentència de sang ningú que no tingui dotze anys complerts**, i **no poden fer
+firmar dret a les mullers pels seus marits**
+([al Bisbe la dignitat, al de Foix el profit](../../institucions/coprincipat/al-bisbe-la-dignitat-al-de-foix-el-profit.md)).
+**No diuen exactament el mateix que el 1305** —allà els menors de dotze anys
+queden exempts de pagar justícia per vessament de sang, i la dona casada queda
+exempta de firmar dret si el marit ho fa per ella— i **el Politar no cita el
+privilegi**. **El corpus registra la coincidència de matèria i de llindar i no
+afirma cap derivació**: **el que sí que consta és que el llindar de dotze anys
+travessa 458 anys de documentació andorrana.**
 
 **No consta què era una `soldada`** al costat de la quèstia, ni si eren dues
 càrregues diferents o dos noms de la mateixa.
