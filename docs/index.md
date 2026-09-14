@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**890** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**891** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -245,6 +245,7 @@
 | [Abans dels bancs](temes/economia/banca-i-fiscalitat/abans-dels-bancs.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `cerqueda-banca` |
 | [Banca i fiscalitat](temes/economia/banca-i-fiscalitat/banca-i-fiscalitat.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `viquipedia-ca` |
 | [Blanqueig i actius digitals](temes/economia/banca-i-fiscalitat/blanqueig-i-actius-digitals.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [Del divuit de març al dos d'abril](temes/economia/banca-i-fiscalitat/del-divuit-de-marc-al-dos-dabril.md) | `temes/economia/banca-i-fiscalitat` | compilada | historica | no | `brutails-coutume-1904` |
 | [El Banc Agrícol](temes/economia/banca-i-fiscalitat/el-banc-agricol.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `cerqueda-banca` |
 | [El cas BPA](temes/economia/banca-i-fiscalitat/el-cas-bpa.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `premsa-andorrana` |
 | [El superàvit que finança habitatge i hospital](temes/economia/banca-i-fiscalitat/el-superavit-que-financa-habitatge-i-hospital.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `bopa-ad` |
