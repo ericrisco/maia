@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**883** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**884** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -937,6 +937,7 @@
 | [Escrúpols quant a la forma, atreviments quant al fons](temes/institucions/justicia/escrupols-quant-a-la-forma-atreviments-quant-al-fons.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [La justícia](temes/institucions/justicia/justicia.md) | `temes/institucions/justicia` | compilada | contemporania | no | `viquipedia-ca` |
 | [La justícia abans de la Constitució](temes/institucions/justicia/la-justicia-dabans.md) | `temes/institucions/justicia` | compilada | contemporania | no | `pujadas-dret-andorra` |
+| [La llei del país que ningú del país no coneixia](temes/institucions/justicia/la-llei-del-pais-que-ningu-del-pais-no-coneixia.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [La llei penitenciària](temes/institucions/justicia/la-llei-penitenciaria.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La pena de mort](temes/institucions/justicia/la-pena-de-mort.md) | `temes/institucions/justicia` | compilada | contemporania | no | `wikipedia-pena-de-mort-andorra` |
 | [La presó sense llei](temes/institucions/justicia/la-preso-sense-llei.md) | `temes/institucions/justicia` | compilada | contemporania | no | `canturri-delinquencia-reinsercio-2007` |

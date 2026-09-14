@@ -195,6 +195,32 @@ La segona: **«lo cot de la terra»**. El corpus ja tenia
 com a multa consuetudinària. **Aquí és viu el 1853, en un decret de copríncep, i
 amb el seu repartiment: la meitat per a l'església i la meitat per al Comú.**
 
+## D'on venen els vint-i-nou i els trenta-nou anys
+
+**Afegit el 2026-09-18, del cos del mateix llibre, p. 193-194** ([la llei del país
+que ningú del país no
+coneixia](../../institucions/justicia/la-llei-del-pais-que-ningu-del-pais-no-coneixia.md)):
+
+**Els terminis d'aquesta fitxa són el residu d'una política que havia començat molt
+més dura.**
+
+| Data | Què |
+|---|---|
+| **11 d'agost de 1785** | **Bisbe Boltas**: **les arrerades es prescriuen per UN any** — si el creditor no cobrava la renda de l'any anterior, **perdia per aquest sol fet tot dret sobre les arrerades vençudes** |
+| **19 de juny de 1786** | **El mateix prelat porta el termini a TRES anys** |
+| **4 d'agost de 1854** | **D'aquella mesura només en queda que el creditor no pot exigir alhora més de tres anualitats** —dues vençudes i la corrent— **i que la prescripció s'adquireix per 29 anys contra un laic i 39 contra una església o fundació pia** |
+| **19 de juny de 1866** | **Un decret del Consell General constata que aquest era el costum en aquella data** |
+
+> **El decret del Consell General del 19 de juny de 1866 fa dues coses alhora**:
+> **manté el tipus del censal al 3,33 %** ([nascut d'una prohibició eclesiàstica,
+> mort per decret
+> episcopal](../../economia/banca-i-fiscalitat/nascut-duna-prohibicio-eclesiastica-mort-per-decret-episcopal.md))
+> **i constata el costum de la prescripció.** **El corpus no en té el text.**
+>
+> **I la font hi posa la seva sospita**: **que en aquests terminis hi hagi hagut «una
+> altra confusió», aquest cop entre el *cens* i el *censal*.** **Hipòtesi seva, no
+> resolta.**
+
 ## Buits registrats
 
 **Brutails no dona la signatura d'arxiu de cap d'aquestes tres peces.** Diu què
