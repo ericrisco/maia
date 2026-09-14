@@ -90,6 +90,18 @@ font sobre ella mateixa:**
 > anàlisis d'Encamp, la transcripció de 1364, la relació de 1806 i ara aquest
 > privilegi**—. **El corpus ho té consolidat com a tret de la font i ho manté en
 > cada cas.**
+
+> **I dues pàgines més enllà la font precisa què li passa, a aquest document —
+> 20-09-2026.** **Sobre el privilegi de la sessió anual escriu**: «*Aquest
+> privilegi **es faria remuntar a 1433**; **en realitat, el text del document de
+> 1433 no conté res de semblant**. **No deixa de ser cert que l'anàlisi que li
+> atribueix aquesta disposició és del segle XVII**»*
+> ([*cesan los demes tribunals inferiors*](./cesan-los-demes-tribunals-inferiors.md)).
+> **No és, doncs, que l'original sigui dubtós: és que **l'anàlisi que en circula
+> hi afegeix disposicions que no hi són**, i l'anàlisi té dos-cents anys.**
+> **El corpus ho generalitza com a regla de treball**: **quan una dada andorrana
+> antiga arriba per un resum, s'ha de marcar** —**és el mateix que passa amb les
+> dues citacions de l'anàlisi d'Encamp de 1456.**
 >
 > **I el text, si és bo, dona la raó de ser dels *rahonadors* en dues meitats**:
 > **conservar els privilegis i usos** i **mirar la justícia i la culpa**. **La
