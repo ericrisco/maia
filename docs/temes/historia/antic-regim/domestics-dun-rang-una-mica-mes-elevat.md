@@ -210,8 +210,16 @@ a **terme pejoratiu**.
    pagant.**
 4. **Quin termini de prescripció es va invocar** el 1893. **La font no el diu**, i
    **el corpus no té el règim de prescripció andorrà.**
-5. **Què era exactament el *dret de vincle***. **La font ho anuncia** —«veurem què
-   cal entendre per això»— **i el corpus encara no ha llegit aquella secció.**
+5. ~~**Què era exactament el *dret de vincle***.~~ — **TANCAT el 2026-09-18**:
+   **el mot té tres capes** —**obligació, hipoteca o fideïcomís** en sentit propi;
+   **el dret sobre una successió *ab intestat* en línia col·lateral** en sentit
+   successori; i, **en llenguatge popular, els col·laterals mateixos**, de manera
+   que quan es presenten a la partició es diu que **«*alsarse lo vincle*»**.
+   **I encara un tercer ús**: **els *béns vinculats*, provinents d'un llegat fet a
+   una casa, que la fallida no pot tocar** ([per amor de Déu, que el mantinguin en
+   possessió](./per-amor-de-deu-que-el-mantinguin-en-possessio.md)). **Segueix
+   obert si prescrivia als trenta anys**: **els *sabis* ho deien i no hi ha ni
+   norma ni sentència.**
 6. **Si el *dret al pa i a l'aigua* era una fórmula fixa** o **una reserva
    ocasional**, i **si mai es va executar.** **La interpretació alimentària és de
    l'autor.**

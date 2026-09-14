@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**873** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**874** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -720,6 +720,7 @@
 | [Massa fàcil fer la vida impossible al gendre](temes/historia/antic-regim/massa-facil-fer-la-vida-impossible-al-gendre.md) | `temes/historia/antic-regim` | compilada | historica | no | `brutails-coutume-1904` |
 | [Mig per mig, com vulgarment es diu a la vall d'Andorra](temes/historia/antic-regim/mig-per-mig-com-vulgarment-es-diu-a-la-vall-dandorra.md) | `temes/historia/antic-regim` | compilada | historica | no | `brutails-coutume-1904` |
 | [No són un contracte: són una llei](temes/historia/antic-regim/no-son-un-contracte-son-una-llei.md) | `temes/historia/antic-regim` | compilada | historica | no | `brutails-coutume-1904` |
+| [Per amor de Déu, que el mantinguin en possessió](temes/historia/antic-regim/per-amor-de-deu-que-el-mantinguin-en-possessio.md) | `temes/historia/antic-regim` | compilada | historica | no | `brutails-coutume-1904` |
 | [Primer el meu pare; després, el meu marit](temes/historia/antic-regim/primer-el-meu-pare-despres-el-meu-marit.md) | `temes/historia/antic-regim` | compilada | historica | no | `brutails-coutume-1904` |
 | [Primer la terra](temes/historia/antic-regim/primer-la-terra.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Remunten a la casa d'on els béns han sortit](temes/historia/antic-regim/remunten-a-la-casa-don-els-bens-han-sortit.md) | `temes/historia/antic-regim` | compilada | historica | no | `brutails-coutume-1904` |
