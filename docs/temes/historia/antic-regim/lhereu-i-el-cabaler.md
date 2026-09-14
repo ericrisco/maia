@@ -265,6 +265,31 @@ regla o com a absència de regla— **però són dues descripcions diferents del
 mateix, i el corpus les conserva totes dues.** `Divergència registrada, no
 arbitrada.`
 
+## La llegítima es podia reclamar i gairebé no es reclamava
+
+**Afegit el 2026-09-16 des de [Brutails](../../../fonts/brutails-coutume-1904.md),
+capítol III, p. 63** ([la unitat destil·lada](../../institucions/justicia/si-aixo-fos-el-costum-ningu-no-aniria-al-notari.md)).
+**Aquesta fitxa té la llegítima com a institució.** La font primària hi afegeix
+**la taxa d'ús real, i és propera a zero:**
+
+> «**Les prescripcions que concerneixen la llegítima són sovint violades**: **els
+> interessats saben que, si porten les seves queixes davant el batlle, aquest els
+> donarà la raó**; **gairebé sempre callen**, però, **perquè la seva consciència
+> està així modelada per l'ensenyament i per l'exemple.**»
+
+**Els cabalers tenien el dret, sabien que el guanyarien, i no el feien servir.**
+`El fet que el corpus reté és aquest, i és comprovable. La caracterització que
+l'acompanya —«el vell andorrà segueix els usos dels avantpassats fins i tot en les
+il·legalitats que li són perjudicials», amb «una noció ben indecisa de la
+legalitat»— és de Brutails i va registrada com a seva.`
+
+**I la secció d'on surt dona el marc**: **hàbit no és costum**. **Nou de cada deu
+testaments andorrans deien el mateix**, i **això no obligava el desè**: **davant
+un plet de partició, el batlle havia de mirar l'escriptura d'aquella casa, no
+l'estadística de totes.** **I qui moria sense testar no era repartit segons el
+costum andorrà sinó segons dret forà** — **la institució d'hereu només operava si
+algú l'havia escrita.**
+
 ## Buits registrats
 
 1. **Casos reals** de tria d'hereu documentats amb noms. **Un, del 1788**, encara

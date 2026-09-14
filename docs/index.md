@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**841** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**842** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -926,6 +926,7 @@
 | [Quants notaris](temes/institucions/justicia/quants-notaris.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Qui nomena els jutges](temes/institucions/justicia/qui-nomena-els-jutges.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Resoldre sense judici](temes/institucions/justicia/resoldre-sense-judici.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [«Si això fos el costum, ningú no aniria al notari»](temes/institucions/justicia/si-aixo-fos-el-costum-ningu-no-aniria-al-notari.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Si no dius a quin copríncep, tria l'altra part](temes/institucions/justicia/si-no-dius-a-quin-coprincep-tria-laltra-part.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Si no hi ha botxí, el fa el porter](temes/institucions/justicia/si-no-hi-ha-botxi-el-fa-el-porter.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Tinga's pres per lo Príncep](temes/institucions/justicia/tingas-pres-per-lo-princep.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |

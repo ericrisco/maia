@@ -227,9 +227,20 @@ dues coses que aquell mateix decenni es discuteixen**. Vegeu
 
 ## Buits registrats
 
-1. **Quins són, de debò, els drets de la vídua sobre els béns del marit.**
-   **La font en va recollir cinc versions i no en publica cap.** `obert, i és un
-   buit de la matèria, no només de la font.`
+1. **Quins són, de debò, els drets de la vídua sobre els béns del marit.** —
+   **`parcial` des del 2026-09-16.** **La font en va recollir cinc versions i no
+   en publica cap** *en aquesta secció*; **vuit pàgines abans, però, n'hi ha una**
+   ([«si això fos el costum, ningú no aniria al notari»](./si-aixo-fos-el-costum-ningu-no-aniria-al-notari.md)):
+
+   > Preguntava a **un magistrat** si la vídua no tenia de dret l'usdefruit dels
+   > béns del marit. **Em va respondre que no**, i la prova que en donava és que
+   > **els contractes contenen ordinàriament una clàusula per assegurar-li aquest
+   > avantatge**: «**Si tal fos el costum, no ens prendríem la molèstia d'anar a
+   > casa el notari.**»
+
+   **El corpus en té una de cinc, amb qui la dona i amb quin raonament**, i **no
+   sap si és la correcta** —**la font no ho diu**. `El buit es redueix, no es
+   tanca.`
 2. **Les cinc respostes**, una per una. **Brutails no les reprodueix.** `obert.`
 3. **El text de les dues convencions del 13 d'abril i el 8 de maig de 1903** que
    van suprimir el delme, i **quina era la prestació fixa** que les va
