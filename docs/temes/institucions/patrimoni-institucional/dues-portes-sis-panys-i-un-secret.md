@@ -189,6 +189,29 @@ distinció entre **arxiu de gestió i arxiu definitiu** que el
 [Reglament de transferències del 2010](../../cultura/museus-i-arxius/res-danterior-al-1984-no-es-tria.md)
 fixaria amb un termini de **cinc anys**.
 
+## Dues visites datades, i un judici que no és només seu
+
+**Afegit el 2026-09-16 des de [Brutails](../../../fonts/brutails-coutume-1904.md),
+capítol III, pp. 70-71** ([la unitat destil·lada](../../llengua/historia-de-la-llengua/costa-tant-dir-no-ho-se.md)).
+**Aquesta fitxa tenia l'observació externa del 1904 de l'armari de sis claus.**
+**Ara en té les dates de les dues visites i el judici sencer:**
+
+> «Els arxius del Consell General omplen, **a la sala de deliberacions, un armari
+> de sis claus confiades als consells de les sis parròquies**. **Havia tingut
+> ocasió de veure'ls molt ràpidament el 1887 o 1888** i de constatar, **després
+> d'altres, que eren molt per sota de la seva reputació**. **Un examen més llarg al
+> qual em vaig lliurar el 1900 ha confirmat la meva opinió.**»
+
+**Tres coses noves.** **La primera visita és del 1887 o 1888** —la font mateixa
+dubta entre els dos anys— i **la segona, del 1900**: **l'observació del llibre
+publicat el 1904 és el resultat de tretze anys de distància, no d'una visita.**
+**El judici no és una impressió de pas**, sinó **un examen llarg que en confirma
+un de ràpid**. I **no és només seu**: «**després d'altres**» — **hi havia hagut
+altres observadors que ja havien dit el mateix, i la font no els nomena.**
+
+`Buit nou: qui eren «els altres». I un matís que aquesta fitxa ha de retenir: el
+que Brutails jutja per sota de la seva reputació és el FONS, no el moble.`
+
 ## Buits registrats
 
 **Aquest text no dona mides, ni fusta, ni autor, ni data de construcció.** Tanca

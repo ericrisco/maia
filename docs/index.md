@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**840** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**841** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1024,6 +1024,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Costa tant dir «no ho sé» a Andorra com a tot arreu](temes/llengua/historia-de-la-llengua/costa-tant-dir-no-ho-se.md) | `temes/llengua/historia-de-la-llengua` | compilada | historica | no | `brutails-coutume-1904` |
 | [Per què el Manual Digest no diu com es parlava](temes/llengua/historia-de-la-llengua/per-que-el-manual-digest-no-diu-com-es-parlava.md) | `temes/llengua/historia-de-la-llengua` | compilada | contemporania | no | `rull-parlar-andorra-xvii-xviii` |
 
 ## temes/llengua/lexic-andorra
