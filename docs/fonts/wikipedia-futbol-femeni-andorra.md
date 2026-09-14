@@ -83,6 +83,24 @@ les set, o bé n'hi ha hagut dues contra Moldàvia.** **El corpus registra
 l'ambigüitat i no l'arbitra**, i alhora **es queda els set noms de rival**, que
 fins ara no tenia. Vegeu [la selecció](../temes/esports/futbol/la-seleccio.md).
 
+## Buits registrats
+
+- **Aquesta fitxa de font no té cap còpia a `raw/`.** **Registrat el
+  2026-09-13 per l'auditoria de buits.** **Les altres fonts web del corpus
+  guarden el bolcat** —`raw/web/esport/atletes/` en té 193 de futbolistes
+  andorrans, i `raw/web/esport/estructura/` els articles d'estructura— **i les
+  quaranta-una fitxes de jugadora que surten d'aquí no en tenen cap.**
+  **Conseqüència pràctica**: **totes les seves xifres depenen d'una lectura que
+  no es pot tornar a comprovar sense tornar a la web**, i **els articles que
+  aquesta font declara** —les cinc biografies de jugadora inclosos— **no es
+  poden rellegir dins el corpus.** **És el mateix problema que
+  [`raw/README.md`](../raw/README.md) registra per a altres materials**: sense
+  còpia, no hi ha verificació. `Buit prioritari i barat: baixar els articles.`
+- **Els bolcats individuals de les cinc jugadores amb biografia** —**Teresa
+  Morató, Marina Fernández, Maria Ruzafa, Maria Moles i Margot Llobera**— **no
+  són a `raw/`**, i **són precisament les que donen les xifres més altes**, les
+  que entren en contradicció amb la llista d'internacionals.
+
 ## El que en surt
 
 | Tema | Fitxa |

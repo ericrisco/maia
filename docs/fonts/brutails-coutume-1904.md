@@ -29,6 +29,14 @@ notes: >
   ES FRANCES I HO ES. Quan parla de sobirania i de jurisdicció, escriu des de
   França i des del tribunal on seu. El corpus reté els documents que cita
   —datats i localitzats en arxiu— i marca les seves tesis com a seves.
+  PER QUE ES VA ESCRIURE, SEGONS UN TERCER. Joan Becat, a la seva tesi del 1993,
+  situa aquesta obra dins l'estrategia de reforc de la presencia del coprincep
+  frances a Andorra: «es tractava de proporcionar als representants del coprincep
+  elements de comprensio de la situacio andorrana, per tant de DECISIO I DE
+  CONTROL, tant dels andorrans COM DEL BISBE». El corpus ho registra com a tesi
+  de Becat, no com a fet declarat per Brutails, i no retira res del que n'ha
+  citat: hi afegeix el proposit. Vegeu fonts/becat-tesi-1993.md i
+  temes/institucions/coprincipat/el-coprincipat.md.
   L'OCR ES DESIGUAL: el cos del text es llegeix bé; les portades, les notes al
   peu i les taules arrosseguen soroll i segells de biblioteca. Les citacions
   s'han de comprovar contra la pagina.

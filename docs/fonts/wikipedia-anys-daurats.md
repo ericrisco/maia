@@ -46,7 +46,7 @@ el període que fa d'Andorra el país que és avui.**
 | **Escaldes es va separar d'Andorra la Vella perquè les construccions es van unir** | [Els anys daurats](../temes/historia/historia-recent/els-anys-daurats.md) |
 | **El 1961 es va obrir una plaça de braus a Andorra la Vella** com a incentiu per a turistes espanyols falangistes | ídem |
 | **El 1965 l'esquí és declarat esport nacional** | ídem |
-| **Els aiguats del 1982** són, segons la font, conseqüència de la manca de planificació dels seixanta | ídem |
+| **Els aiguats del 1982** són, segons la font, conseqüència de la manca de planificació dels seixanta | ídem, i **[els aiguats](../temes/historia/historia-recent/els-aiguats-del-1982.md)**, escrits el mateix dia |
 | **Sis obres de bibliografia històrica andorrana**, amb autor i any | ídem |
 
 ## El desacord que això obre
@@ -81,7 +81,12 @@ atribueix el 1967. **I una causa impossible**: diu que les andorranes estaven
 «contagiades per l'ambient del maig francès» el **1967**, **un any abans del
 maig del 1968**. **No es transcriu.**
 
-**2. «El projecte fallit de l'aeroport andorrà».** **El 1978, un grup
+**2. «El projecte fallit de l'aeroport andorrà».** — **ampliat el mateix dia**
+amb [la font pròpia de l'aeroport](./wikipedia-aeroport-andorra.md) i la fitxa
+[L'aeroport que Andorra no té](../temes/economia/transport/laeroport-que-andorra-no-te.md).
+**El buit «qui és Josep Betriu i Tàpies» queda tancat**: **empresari d'Oliana
+(1917-2014), antic propietari de Taurus, que va construir l'aeroport a partir del
+1975 desmuntant un turó sencer amb 3.000 milions de pessetes.** **El 1978, un grup
 d'empresaris andorrans empesos per Josep Betriu i Tàpies —«un empresari
 industrial que triomfava al país»— van contactar amb una constructora anglesa
 perquè es pogués fer un aeroport a la Seu d'Urgell**, que geogràficament té més
