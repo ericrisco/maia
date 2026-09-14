@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**854** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**855** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -960,6 +960,7 @@
 | [La residència passiva](temes/institucions/nacionalitat-i-residencia/la-residencia-passiva.md) | `temes/institucions/nacionalitat-i-residencia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Nacionalitat i residència](temes/institucions/nacionalitat-i-residencia/nacionalitat-i-residencia.md) | `temes/institucions/nacionalitat-i-residencia` | compilada | contemporania | no | `consell-general-web` |
 | [Qui podia ser andorrà el 1997](temes/institucions/nacionalitat-i-residencia/qui-podia-ser-andorra-el-1997.md) | `temes/institucions/nacionalitat-i-residencia` | compilada | contemporania | no | `duro-pujol-no-integracio-1997` |
+| [Un de Canillo és foraster a Encamp](temes/institucions/nacionalitat-i-residencia/un-de-canillo-es-foraster-a-encamp.md) | `temes/institucions/nacionalitat-i-residencia` | compilada | historica | no | `brutails-coutume-1904` |
 
 ## temes/institucions/patrimoni-institucional
 
