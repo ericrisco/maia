@@ -342,6 +342,19 @@ termini a tots els qui havien fet cessió de béns, perquè el blat era car.**
 > Fiter i Rossell queda com a buit.** Vegeu [un decret que ningú no ha produït
 > mai](./un-decret-que-ningu-no-ha-produit-mai.md).
 
+> **Ampliat el 20-09-2026, i ara l'Antoni té document.** **El mateix llibre, a la
+> p. 248, cita una sentència del **26 de novembre de 1742** d'«*Ant. Fiter y
+> Rossell, juris utriusque doctor, **supremus vicarius secularis Vallium
+> Andorre** pro … episcopo Urgellensi*»**
+> ([no hi pot haver més que un sol veguer](./no-hi-pot-haver-mes-que-un-sol-veguer.md)).
+> **Si és l'autor del *Manual Digest* —nascut el 1706—, el 1742 tenia trenta-sis
+> anys i era veguer episcopal**: **el càrrec més alt que el copríncep hi
+> nomenava.** **`hipòtesi del corpus`**: **la font escriu «Ant.» i no diu enlloc
+> que sigui l'autor del *Manual Digest*.** **La identificació és del corpus, feta
+> sobre nom, cognom doble, data i títol, i cal confirmar-la.** **El que no
+> canvia**: **l'**Ignasi** de 1770 segueix sense identificar i el corpus segueix
+> sense afirmar-hi cap parentiu.**
+
 > **I el Politar diu una altra cosa del retracte.** Assimila el bestiar als
 > mobles (pàgines 213-214) i **declara que en les vendes judicials no hi ha
 > retracte ni per als uns ni per a l'altre**. **Avui només els immobles hi
