@@ -245,6 +245,25 @@ l'heretat**.
 > **El mateix buit institucional que feia convertir papers privats en públics per
 > seguretat fa aquí que ningú no sàpiga de qui és una casa.**
 
+## Les quatre inseguretats, enumerades juntes
+
+**Afegit el 2026-09-18.** **Al final del capítol VI del mateix llibre (p. 216), el
+mateix autor enumera per primer cop com a sistema les quatre coses que fan insegura
+la propietat andorrana**, i **el corpus les tenia documentades una per una, cadascuna
+d'una tanda diferent**:
+
+| | El que fa insegura la propietat |
+|---|---|
+| **1** | **Hipoteques secretes** |
+| **2** | **Vendes dissimulades gràcies a la presa en arrendament pel venedor** |
+| **3** | **Clàusules no divulgades de la institució d'hereu, de les substitucions i dels fideïcomisos** — **que és el que aquesta fitxa descriu** |
+| **4** | **Retractes fa temps oblidats i que poden reaparèixer en qualsevol moment** |
+
+> **I el diagnòstic**: **el principi de tot el règim de béns andorrà és «el
+> manteniment dels patrimonis, la fixesa de les fortunes», i «no sembla que
+> l'objectiu s'assoleixi».** Vegeu [si aquells vells títols donaven dret de
+> rescat](../../economia/banca-i-fiscalitat/si-aquells-vells-titols-donaven-dret-de-rescat.md).
+
 ## Buits registrats
 
 1. **Com va acabar el plet del préstec**: **la font el segueix i no en dona el
