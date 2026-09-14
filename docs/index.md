@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**879** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**880** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1390,6 +1390,7 @@
 | [Dos pianos i una carretera](temes/territori/paisatge-construit/dos-pianos-i-una-carretera.md) | `temes/territori/paisatge-construit` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Els camins dels ports, com més bruscos millor](temes/territori/paisatge-construit/els-camins-dels-ports-com-mes-bruscos-millor.md) | `temes/territori/paisatge-construit` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Els castells que no hi ha](temes/territori/paisatge-construit/els-castells-que-no-hi-ha.md) | `temes/territori/paisatge-construit` | compilada | contemporania | no | `rodriguez-rossa-creacio-artistica` |
+| [La llei afavoreix la finca que presta la servitud](temes/territori/paisatge-construit/la-llei-afavoreix-la-finca-que-presta-la-servitud.md) | `temes/territori/paisatge-construit` | compilada | historica | no | `brutails-coutume-1904` |
 | [Paisatge construït](temes/territori/paisatge-construit/paisatge-construit.md) | `temes/territori/paisatge-construit` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 
 ## temes/territori/parroquies/andorra-la-vella
