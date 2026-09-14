@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**905** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**906** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -972,6 +972,7 @@
 | [Podies denunciar un cònsol, però no demandar-lo](temes/institucions/justicia/podies-denunciar-un-consol-pero-no-demandar-lo.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Propter angustiam loci](temes/institucions/justicia/propter-angustiam-loci.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Quants notaris](temes/institucions/justicia/quants-notaris.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
+| [Qui demanava clemència portava els comptes](temes/institucions/justicia/qui-demanava-clemencia-portava-els-comptes.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Qui nomena els jutges](temes/institucions/justicia/qui-nomena-els-jutges.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Resoldre sense judici](temes/institucions/justicia/resoldre-sense-judici.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [«Si això fos el costum, ningú no aniria al notari»](temes/institucions/justicia/si-aixo-fos-el-costum-ningu-no-aniria-al-notari.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |

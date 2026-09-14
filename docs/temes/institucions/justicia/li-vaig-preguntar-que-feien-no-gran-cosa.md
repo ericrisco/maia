@@ -204,9 +204,18 @@ pàgina la daten:**
 
 ## Buits registrats
 
-1. **Què feien els *rahonadors*.** **La font ho va preguntar a un testimoni
-   directe i la resposta va ser «no gran cosa».** **Prioritari i obert**:
-   **calen actes de Corts que els mostrin actuant.**
+1. ~~**Què feien els *rahonadors*.**~~ — **Tancat com a `parcial` el 20-09-2026,
+   a la pàgina següent, i el que hi ha és més gros del que la pregunta
+   esperava.** **En tenen tres, de papers**: **vetllar que el costum es
+   respecti**, **intercedir per l'acusat —sobretot pel pobre—** i, **sobretot,
+   **portar la comptabilitat de les Corts****
+   ([qui demanava clemència portava els comptes](./qui-demanava-clemencia-portava-els-comptes.md)).
+   **I la font hi lliga un circuit**: **la clemència es materialitza commutant
+   penes corporals en multes, i les multes són els ingressos que el Consell
+   General, que cobreix el dèficit, controla per aquests mateixos delegats.**
+   **Segueix obert**: **els comptes de les Corts, que el corpus no té**, i **si
+   la commutació era realment la font principal d'ingressos** —**la font hi diu
+   «és potser per aquest motiu».**
 2. **Com es concilia la definició dels *rahonadors* —dos delegats que **segueixen**
    les Corts— amb l'acte del 2 d'octubre de 1876, en què el Consell els nomena
    **per tenir-les i fallar apel·lacions**.** **La font no ho comenta.**
