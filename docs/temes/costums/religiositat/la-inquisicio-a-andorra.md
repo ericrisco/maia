@@ -224,7 +224,22 @@ religiositat d'aquest corpus necessita.** **Buit prioritari absolut.**
 - **Les tres dates que Bascompte i Pujol no diuen igual** (el cot, la sisena,
   l'escrivania). **Prioritari.**
 - **Què hi va fer exactament el Tribunal de la Inquisició** —la font diu que no
-  consta cap actuació, però **«no consta» no és «no n'hi va haver»**.
+  consta cap actuació, però **«no consta» no és «no n'hi va haver»**. —
+  **`parcial` des del 2026-09-18, i ara contra una font primària.** **Brutails
+  (1904, p. 222) aporta tres coses**: **dues fórmules datades —4 de febrer de 1574 i
+  1646— que inclouen expressament «*Valls de Aran y Andorra*» a la demarcació dels
+  inquisidors apostòlics**; **un procés civil dut el 1608 davant de la Inquisició de
+  Barcelona perquè el defensor era familiar del Sant Ofici**, amb **la protesta del
+  veguer de França invocant «*pariatges, privilegis y altres antigues consuetuts*»**
+  i **sense que consti quin parer va prevaler**; i **la frase que segueix**:
+  «**sembla tanmateix que a la supressió del Sant Ofici va succeir precisament una
+  campanya contra dissortades dones, que es van enviar al foc com a culpables de
+  bruixeria**». **Amb el compte de despeses del juny de 1604.** Vegeu
+  [al botxí per sos drets de penjar tres
+  dones](../../institucions/justicia/al-botxi-per-sos-drets-de-penjar-tres-dones.md).
+  **Segueix obert si la Inquisició hi va actuar com a tribunal**: **el que hi ha és
+  la pretensió de competència, un plet dut fora i una persecució posterior jutjada
+  per les Corts, no per ella.**
 - **Els hugonots a Andorra**: quan, on, quantes incursions.
 - **Palau Martí, *Protestantisme i inquisició a l'Andorra del segle XVI***
   (1990). **Font localitzada, editada pel Ministeri de Cultura andorrà, no
