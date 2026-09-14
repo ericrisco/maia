@@ -1,0 +1,173 @@
+FORA_DEL_CORPUS
+Font: https://www.govern.ad/ca/tematiques/medi-ambient-i-sostenibilitat/aigua/el-recurs/el-recurs-disponible
+Consulta: 2026-09-13. Drets pendents par peça; no dataset.
+
+El recurs hídric d'un país o d'una conca és la quantitat d'aigua disponible considerant tots els seus estats i tots els seus orígens. Així, per norma general, es tracta de la quantitat d'aigua que resta en un territori després de considerar els diversos fenòmens que la disminueixen en relació amb l’aportada per les precipitacions. Entre aquests fenòmens destaquen l'evaporació i la transpiració dels vegetals (també anomenada evapotranspiració).
+
+En aquest sentit, l'aigua que prové de les precipitacions, en funció de les condicions climàtiques, s'evapotranspira en més o menys mesura. Així, la quantitat d'aigua que escapa a aquest fenomen representa el recurs hídric renovable. Aquesta aigua, en una proporció més gran, s'infiltra en el sòl, recarrega els nivells aqüífers i posteriorment alimenta les aigües superficials, i en menys proporció s'escola de forma directa sobre el sòl.
+
+Els massissos muntanyosos, per les seves característiques, es comporten com a veritables col·lectors d'aigua, recarregant posteriorment els nivells inferiors dels fons de vall, pels quals discorren els rius principals. Aquests acabaran escolant-se fins als mars i oceans, conduint posteriorment a la formació de núvols i a les precipitacions. El conjunt dels processos es pot anomenar “cicle natural de l'aigua”.
+
+L'anàlisi de les dades meteorològiques històriques ha portat a la confecció dels mapes dels models de precipitació i de temperatura del Principat d'Andorra, i ha possibilitat l'establiment d'un balanç hídric a partir del qual s'ha quantificat el recurs hídric mitjà disponible.
+
+S’han utilitzat dos metodologies per dur a terme la interpolació espacial d’aquestes variables climàtiques: l’estimació per gradients constants i l’estimació per regressió múltiple. La primera consisteix a fer una estimació de les variables termopluviomètriques a una mateixa alçada per reduir els errors associats a l’orografia del terreny. La darrera, en canvi, pren en compte la distància al mar, l’alçada, la latitud i la radiació, si escau, donant més o menys pes a cadascuna de les variables, a partir d’una regressió múltiple.
+
+La precipitació mitjana del Principat d'Andorra s'eleva a 958 mm, i la temperatura mitjana del país es quantifica en 5,8ºC. La distribució mensual de les temperatures és gairebé idèntica en ambdós vessants, amb els mínims enregistrats coincidents al gener i els màxims al juliol o l'agost, seguint la pauta característica dels climes mediterranis. El gradient altitudinal no és tan marcat en el vessant nord com en el sud.
+
+En una anàlisi anual o plurianual, tota la pluja útil acaba drenant cap als rius principals, és a dir, que tot el que entra en el sistema n'acaba sortint. En aquest sentit, s'ha pogut quantificar la pluja útil o els excedents en 560 mm per any, de mitjana. Així mateix, s'ha valorat l'evapotranspiració mitjana en 398 mm, que representen el 58 % de les precipitacions totals.
+
+D'acord amb les dades anteriors, i considerant la superfície del país, el recurs hídric mitjà anyal disponible pel Principat d'Andorra ascendeix a 262 hm3/any. La variabilitat d'aquest recurs en el període que va del 1971 al 2000 mostra que l’any més sec es tradueix en una disminució del 45,7 %, mentre que l’any més humit s’incrementa el recurs en un 77,2 % respecte al recurs mitjà.
+
+Mentre que els valors més elevats d'escolament directe superficial se situen bàsicament a la capçalera del Valira del Nord, els valors més importants d'infiltració se centren a la capçalera del riu d'Incles i en general a la zona nord-est del Principat d'Andorra. Aquests fets tenen unes repercussions clares sobre el funcionament hidrològic, tant del riu Valira del Nord, com del riu Valira d'Orient.
+
+Des del 2006 i fins al 2012, s'ha realitzat l'estudi anyal del balanç hídric mitjançant l'estimació per gradients constants. A partir del 2012, es realitza l'estudi mitjançant la metodologia de regressió múltiple.
+
+Estudi per a l’elaboració anyal del balanç hídric del Principat d'Andorra
+
+LINK https://www.govern.ad/documents/d/guest/2025_anyal_del_balanc_hidric?download=true
+
+2025 - Estudi per a l'elaboració anyal del balanç hídric del Principat d'Andorra
+
+Document PDF, 7MB
+
+LINK https://www.govern.ad/documents/d/guest/2024_anyal_del_balanc_hidric-pdf?download=true
+
+2024 - Estudi per a l'elaboració anyal del balanç hídric del Principat d'Andorra
+
+Document PDF, 7MB
+
+LINK https://www.govern.ad/documents/d/guest/signed_bh2023-pdf?download=true
+
+2023 - Estudi per a l'elaboració anyal del balanç hídric del Principat d'Andorra
+
+Document PDF, 6MB
+
+LINK https://www.govern.ad/documents/d/guest/2022_anyal_del_balanc_hidric?download=true
+
+2022 - Estudi per a l'elaboració anyal del balanç hídric del Principat d'Andorra
+
+Document PDF, 6MB | Metodologia per regressió múltiple
+
+LINK https://www.govern.ad/documents/d/guest/bh2021?download=true
+
+2021 - Estudi per a l'elaboració anyal del balanç hídric del Principat d'Andorra
+
+Document PDF, 2MB | Metodologia per regressió múltiple
+
+LINK https://www.govern.ad/documents/d/guest/bh2020?download=true
+
+2020 - Estudi per a l'elaboració anyal del balanç hídric del Principat d'Andorra
+
+Document PDF, 6MB | Metodologia per regressió múltiple
+
+LINK https://www.govern.ad/documents/d/guest/balanc-hidric-any-2019?download=true
+
+2019 - Estudi per a l'elaboració anyal del balanç hídric del Principat d'Andorra
+
+Document PDF, 2MB | Metodologia per regressió múltiple
+
+LINK https://www.govern.ad/documents/d/guest/balanc-hidric-any-2018?download=true
+
+2018 - Estudi per a l'elaboració anyal del balanç hídric del Principat d'Andorra
+
+Document PDF, 1MB | Metodologia per regressió múltiple
+
+LINK https://www.govern.ad/documents/d/guest/balanc-hidric-any-2017?download=true
+
+2017 - Estudi per a l'elaboració anyal del balanç hídric del Principat d'Andorra
+
+Document PDF, 983KB | Metodologia per regressió múltiple
+
+LINK https://www.govern.ad/documents/d/guest/balanc-hidric-any-2016?download=true
+
+2016 - Estudi per a l'elaboració anyal del balanç hídric del Principat d'Andorra
+
+Document PDF, 1MB | Metodologia per regressió múltiple
+
+LINK https://www.govern.ad/documents/d/guest/balanc-hidric-any-2015?download=true
+
+2015 - Estudi per a l'elaboració anyal del balanç hídric del Principat d'Andorra
+
+Document PDF, 2MB | Metodologia per regressió múltiple
+
+LINK https://www.govern.ad/documents/d/guest/balanc-hidric-any-2014?download=true
+
+2014 - Estudi per a l'elaboració anyal del balanç hídric del Principat d'Andorra
+
+Document PDF, 1MB | Metodologia per regressió múltiple
+
+LINK https://www.govern.ad/documents/d/guest/balanc-hidric-any-2013?download=true
+
+2013 - Estudi per a l'elaboració anyal del balanç hídric del Principat d'Andorra
+
+Document PDF, 1MB | Metodologia per regressió múltiple
+
+LINK https://www.govern.ad/documents/d/guest/reconstrucciobalhidric?download=true
+
+Reconstrucció del balanç hídric pel període 1971-2000 i anualment del 2006 al 2012
+
+Document PDF, 15MB | Metodologia per regressió múltiple
+
+LINK https://www.govern.ad/documents/d/guest/balanc-hidric-any-2012?download=true
+
+2012 - Estudi per a l'elaboració anyal del balanç hídric del Principat d'Andorra
+
+Document PDF, 2MB | Metodologia pel gradient constant
+
+LINK https://www.govern.ad/documents/d/guest/balanc-hidric-any-2011?download=true
+
+2011 - Estudi per a l’elaboració anyal del balanç hídric del Principat d'Andorra
+
+Document PDF, 1MB | Metodologia pel gradient constant
+
+LINK https://www.govern.ad/documents/d/guest/balanc-hidric-any-2010?download=true
+
+2010 - Estimació de la pluja útil mitjançant balanç hídric
+
+Document PDF, 1MB | Metodologia pel gradient constant
+
+LINK https://www.govern.ad/documents/d/guest/balanc-hidric-any-2009?download=true
+
+2009 - Estudi per a l’elaboració anyal del balanç hídric del Principat d'Andorra
+
+Document PDF, 1MB | Metodologia pel gradient constant
+
+LINK https://www.govern.ad/documents/d/guest/balanc-hidric-any-2008?download=true
+
+2008 - Estimació de la pluja útil mitjançant balanç hídric
+
+Document PDF, 1MB | Metodologia pel gradient constant
+
+LINK https://www.govern.ad/documents/d/guest/balanc-hidric-any-2007?download=true
+
+2007 - Estimació de la pluja útil mitjançant balanç hídric
+
+Document PDF, 1MB | Metodologia pel gradient constant
+
+LINK https://www.govern.ad/documents/d/guest/balanc-hidric-any-2006?download=true
+
+2006 - Estimació de la pluja útil mitjançant balanç hídric
+
+Document PDF, 2MB | Metodologia pel gradient constant
+
+LINK https://www.govern.ad/documents/d/guest/balanc-hidric-mig-1974-2005?download=true
+
+1974 - 2005 - Les aigües subterrànies del Principat d'Andorra
+
+Document PDF, 2MB | Metodologia pel gradient constant
+
+Estudi per a l’elaboració anyal del balanç hídric del Principat d'Andorra
+
+LINK https://www.govern.ad/documents/d/guest/2024_-_evolucio_del_recurs_hidric_anyals_del_principat_dandorra?download=true
+
+2024 - Evolució del recurs hídric anyal del Principat d'Andorra
+
+Document XLSX, 109KB
+
+El recurs
+
+La despesa hídrica
+
+El recurs disponible
+
+Seguiment del recurs hídric

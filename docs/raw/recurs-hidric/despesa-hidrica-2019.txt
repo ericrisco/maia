@@ -1,0 +1,2009 @@
+FORA_DEL_CORPUS — Inventari de despesa hídrica, any2019. Extracció pdftotext -layout, 13-09-2026. Drets pendents; no datasets. Els salts de pàgina són els del PDF.
+
+      ESTUDI PER A
+ L’ELABORACIÓ ANYAL DE
+     L'INVENTARI I
+  QUANTIFICACIÓ DE LA
+DESPESA HÍDRICA PER USOS
+DEL PRINCIPAT D'ANDORRA
+       - ANY 2019 -
+
+
+
+
+          Gener 2021
+1     INTRODUCCIÓ ................................................................................................................................................. 3
+2     CONSUMS D’AIGUA ......................................................................................................................................... 4
+2.1       USOS CONSUMPTIUS ................................................................................................................................ 4
+2.1.1 DESPESA DOMÈSTICA ...................................................................................................................................... 4
+2.1.1.1     INTRODUCCIÓ ............................................................................................................................................ 4
+2.1.1.2     CONSUMS EN LA PARRÒQUIA D’ORDINO ...................................................................................................... 6
+2.1.1.2.1      XARXA DEL COMÚ D’ORDINO.................................................................................................................. 6
+2.1.1.2.2      XARXA D’AIGUA POTABLE DEL CAMP DE NEU D’ORDINO-ARCALÍS .............................................................. 8
+2.1.1.2.3      CONSUM TOTAL DE LA PARRÒQUIA ......................................................................................................... 8
+2.1.1.3     CONSUMS EN LA PARRÒQUIA DE SANT JULIÀ DE LÒRIA................................................................................. 9
+2.1.1.3.1      XARXA DEL COMÚ DE SANT JULIÀ DE LÒRIA ............................................................................................ 9
+2.1.1.4     CONSUMS EN LA PARRÒQUIA D’ENCAMP...................................................................................................... 9
+2.1.1.4.1      XARXA DEL COMÚ D’ENCAMP ................................................................................................................. 9
+2.1.1.4.2      XARXA D’AIGUA POTABLE DE SAETDE-GRAU ROIG ............................................................................... 10
+2.1.1.4.3      CONSUM TOTAL DE LA PARRÒQUIA ....................................................................................................... 10
+2.1.1.5     CONSUMS EN LA PARRÒQUIA D’ANDORRA LA VELLA ................................................................................... 11
+2.1.1.5.1      XARXA DEL COMÚ D’ANDORRA LA VELLA .............................................................................................. 11
+2.1.1.6     CONSUMS EN LA PARRÒQUIA DE CANILLO.................................................................................................. 13
+2.1.1.6.1      XARXA DEL COMÚ DE CANILLO, DE LA MANCOMUNITAT DE SOLDEU I DE LA SOCIETAT DE FONTS DE CANILLO
+               13
+2.1.1.6.2      XARXA D’AIGUA POTABLE D’ENSISA .................................................................................................... 15
+2.1.1.6.3      CONSUM TOTAL DE LA PARRÒQUIA ....................................................................................................... 16
+2.1.1.7     CONSUMS EN LA PARRÒQUIA D’ESCALDES-ENGORDANY ............................................................................ 16
+2.1.1.7.1      XARXA DEL COMÚ D’ESCALDES ............................................................................................................ 16
+2.1.1.8     CONSUMS EN LA PARRÒQUIA DE LA MASSANA ........................................................................................... 17
+2.1.1.8.1      XARXA DEL COMÚ DE LA MASSANA ....................................................................................................... 17
+2.1.1.8.2      XARXA D’AIGUA POTABLE DE VALLNORD: PAL I ARINSAL ......................................................................... 18
+2.1.2 DESPESA EN RAMADERIA ............................................................................................................................... 19
+2.1.3 DESPESA EN AGRICULTURA ......................................................................................................................... 20
+2.1.4 DESPESA EN AIGUA TERMAL........................................................................................................................... 20
+2.1.5 DESPESA EN LES INSTAL.LACIONS DEL CENTRE DE TRACTAMENT TÈRMIC DE RESIDUS DE LA COMELLA ................ 21
+2.1.6 RESUM DESPESES CONSUMPTIVES ................................................................................................................. 22
+2.2       USOS NO CONSUMPTIUS ........................................................................................................................ 25
+2.2.1 DESPESA EN HIDROELECTRICITAT .................................................................................................................. 25
+2.2.2 DESPESA EN FABRICACIÓ NEU ARTIFICIAL ....................................................................................................... 26
+2.2.3 DESPESA EN AQÜÍCULTURA ........................................................................................................................... 26
+2.2.4 RESUM DESPESES NO CONSUMPTIVES............................................................................................................ 26
+3     CONSUMS D’AIGUA. ANÀLISI PER UNITATS HIDROGEOLÒGIQUES ........................................................ 27
+3.1       ANÀLISI ANUAL ......................................................................................................................................... 27
+3.2       ANÀLISI ESTACIONAL .............................................................................................................................. 30
+4     RESUM DELS RESULTATS ........................................................................................................................... 36
+5     BIBLIOGRAFIA................................................................................................................................................ 41
+6     ANNEX DE TAULES ........................................................................................................................................ 42
+
+
+
+
+                                                                                                                                                Pàgina 2 de 48
+1        INTRODUCCIÓ
+       En el present document es donen a conèixer els consums d’aigua que hi ha hagut al
+Principat durant el 2019.
+        L’aigua consumida al Principat presenta diferents usos, d’on els més importants són:
+        - Ús domèstic i hoteler
+     -Ús industrial (entre els quals hi ha l’hidroelèctric i la fabricació de neu artificial pels
+camps de neu)
+        -Ús agrícola/ramader/aqüicultura
+        -Altres usos: regs carrers, jardins, boca d’incendis
+        -Pèrdues de xarxa
+        Els usos de l’aigua es classifiquen segons criteris de qualitat en dos grans grups:
+               Usos consumptius: extracció de l’aigua amb un canvi d’ubicació i retorn al medi
+                en un lloc diferent, reduint-ne la quantitat i/o la qualitat. Inclou els usos
+                domèstics, lúdics, industrials, agrícoles, ramaders.
+               Usos no consumptius: extracció de l’aigua sense modificar-ne la quantitat ni la
+                qualitat. Inclou els usos hidroelèctrics, l’aqüicultura i la generació de neu
+                artificial.
+
+                usos consumptius                                     usos no consumptius
+
+        ús en habitatges (ús domèstic)                       ús en hidroelectricitat
+        ús en hosteleria, restauració                        ús en aqüicultura
+        ús en comerços                                       ús en els canons de neu
+        ús lúdic: termalisme
+        ús industrial i professional: tallers, naus,
+         CTR
+        ús agrícola
+        ús ramader
+        serveis comunitaris
+
+      L’anàlisi dels consums d’aigua del 2019 s’ha fet detallant-ne cada ús, sempre que s’ha
+disposat d’aquesta d’informació. Per a això s’ha consultat diferents fonts d’informació, com ara
+Comuns, Estacions d’esquí, el ministeri responsable d’Agricultura, FEDA, i altres
+hidroelèctriques com Nordandorrà el consum industrial d’aigua del Centre de tractament tèrmic
+de residus (CTR) i entitats privades com CALDEA, CAPESA i la Comunitat d’aigües de Soldeu i
+Societat de les fonts de Canillo.
+
+
+
+
+                                                                                           Pàgina 3 de 48
+       Per completar l’estudi s’han avaluat les extraccions d’aigua inventariades segons el
+recurs hídric disponible, calculat en base al balanç hídric (Govern d’Andorra, 2020). Aquesta
+avaluació s’ha fet des del punt de vista general, però també al detall de cada unitat
+hidrogeològica a fi de disposar d’una visió més concreta de la distribució de les extraccions.
+Aquesta anàlisi s’ha fet tant anualment com a nivell estacional, per tal de veure en quina època
+de l’any i en quins sectors els consums són superiors.
+
+2 CONSUMS D’AIGUA
+2.1  USOS CONSUMPTIUS
+      S’entén per a usos consumptius quan l’aigua captada es canvia d’ubicació i es retorna al
+medi amb una qualitat i/o quantitat inferior.
+      A continuació es detallen els diferents usos consumptius de l’aigua.
+2.1.1           DESPESA DOMÈSTICA
+2.1.1.1 INTRODUCCIÓ
+      Els consums d’aigua relacionats amb la despesa urbana, inclouen:
+      -ús domèstic
+      -ús industrial i professionals: magatzems comercials, naus, tallers
+      -ús hoteler i restauració
+      -aigua per a serveis comunitaris (neteja, jardins, edificis públics, etc)
+      -pèrdua de la xarxa-fuites
+      De l’àmplia llista de captacions que proporcionen aigua per a consum de boca, es
+disposa de dades relatives a cabals captats i/o cabals subministrats de les principals xarxes del
+país, principalment comunals, no obstant, la majoria de captacions formen part de xarxes
+privades i mancomunitat de veïns, que no disposen de dades relatives a cabals captats, i
+cabals consumits, però també és de preveure que no subministrin aigua a una gran població,
+doncs es tracta de captacions secundàries o menors.
+        Les informacions relatives a la població censada han estat obtingudes a partir de les
+informacions oficials publicades del Departament d’Estadística del Govern d’Andorra
+(http://www.estadistica.ad). Amb tot han estat utilitzades dades del cens poblacional. Això dona
+peu a que l’anàlisi del consum d’aigua per càpita no s’hagi pogut fer amb dades reals de
+població servida.
+       Les dades consultades agrupen els diferents usos, ja sigui despesa domèstica, despesa
+en l’hosteleria, despesa en indústria, etc. Sempre que s’ha disposat de la informació detallada
+s’ha comptabilitzat el consum d’aigua de cada ús.
+       Les dades que ens han estat facilitades procedeixen normalment dels cabals distribuïts a
+la xarxa, comptabilitzats mitjançant comptadors instal·lats en els edificis del nucli urbà (cabal
+distribuït). Aquests cabals poden ser consums d’aigua facturats (ús domèstic, industrial, serveis
+privats) o potencialment facturables (per a ús públic) i se’ls anomenarà en conjunt, a partir d’ara
+com a “cabals distribuïts”. Així mateix, se’ns ha facilitat en algunes ocasions, els cabals d’aigua
+captats.
+
+
+
+                                                                                     Pàgina 4 de 48
+       Quan les dades recollides corresponen a cabals captats de sortida de dipòsits, els
+consums d’aigua no comptabilitzats (pèrdues de xarxa, neteges de canonades i dipòsits, errors
+de mesura, fraus, etc.) hi queden inclosos. En algunes xarxes els cabals no comptabilitzats
+també inclouen els consums no facturats, principalment relacionats amb servituds a edificis
+públics, regs de parcs i jardins. A la despesa d’aigua no comptabilitzada se l’anomenarà a partir
+d’ara com a “pèrdues de xarxa”, i és defineix com a un 40% del cabal captat (CRECIT-IEA
+(2005)), malgrat que els valors obtinguts del present estudi aporten valors ben dispars.
+      En el següent esquema es mostra el model plantejat.
+
+
+
+
+       Al 2019, per una població total de 77.543 habitants, segons dades facilitades pel
+Govern d’Andorra (www.estadistica.ad), la despesa hídrica en concepte d’aigua de boca
+ha estat d’uns 15 Hm 3 /any, el que suposa una despesa (litres) per càpita diària de 533
+                       P   P
+
+
+
+
+litres/dia/habitant.
+
+
+
+
+                                                                                    Pàgina 5 de 48
+2.1.1.2 CONSUMS EN LA PARRÒQUIA D’ORDINO
+2.1.1.2.1                XARXA DEL COMÚ D’ORDINO
+       Les dades facilitades per la Mancomunitat de Serveis d’Ordino relatives als cabals
+facturats durant el 2019, són:
+
+
+ Xarxa d'Ordino. Any    1er Trimestre        2on                3er                   4er             Total m3/any
+        2019                 m3           Trimestre          Trimestre             Trimestre
+                                             m3                 m3                    m3
+      ORDINO              110.854          43.407                 31.609            33.677              219.547
+    ANSALONGA               466                 403                423               451                 1.743
+      ARANS                 3.525             3.308               3.788              2.071              12.692
+     SEGUDET                909                 534                462               492                 2.397
+   LA CORTINADA                                                                                         30.461
+                            9.175             7.316               7.573              6.397
+      LLORTS                1.948             1.455               1.648              1.570               6.621
+    EL SERRAT               2.112             2.968               2.847              1.644               9.571
+      SORNAS                1.790             1.126               2.258              1.208               6.382
+
+
+   TOTALS m3/any          130.779          60.517                 49.479            47.510              289.414
+                                                                                   Població              4.942
+
+        El seguiment dels comptadors instal.lats en les entrades de les vivendes, altres edificis i
+instal.lacions per a usos domèstics, per a serveis i d’instal.lacions comunals dona un consum
+anual de 289.414 m3 d’aigua. Considerant el volum d’aigua realment facturat, el consum mig
+per càpita durant el 2019 és de 160 litres/habitant/dia.
+      El Comú ha facilitat també les dades de cabals captats en base a les lectures dels
+comptadors d’entrada als dipòsits d’aigua. Es tracta de valors molt alts, amb un total de
+5.196.481 m3 captats. El cabal facturat respecte el total captat és del 6%, la resta són pèrdues
+de xarxa o cabal que es torna al medi abans d’entrar a la xarxa.
+
+                 ENTRADA A             1er               2er             3er               4art
+                  DIPÒSITS.         trimestre         trimestre       trimestre         trimestre
+               COMPTADORS-
+                     2019
+                      m3
+             Encodina (Entrada)     155.597           317.442            167.922             85.802
+                   Cuiners
+              Arqueta Sorteny       778.103           986.014            236.202           249.232
+              Llorts 1(Entrada)
+              Llorts 2 (Entrada)
+              Llorts 3 (Entrada)
+               Arans (Entrada)       446.318           457.942            17.210            16.929
+                  Ansalonga          396.296           792.592              0                  0
+                    Navina            7.251             31.320            31.085            23.224
+                   Entrades         1.783.565         2.585.310          452.419           375.187
+
+                                                                                                         Pàgina 6 de 48
+     També es disposa de les dades de consums trimestrals distribuïts facturats, són els
+següents:
+                     Usos
+                                    Domèstic          Comunal        Turístic
+                 m3/trimestre
+                 1er trimestre
+                                     266.136           999.31         14.993
+                  2n trimestre
+                                      61.258           1.077          11.029
+                 3er trimestre
+                                      52.481           3.112          12.671
+                  4rt trimestre
+                                      48.218            940           8.775
+
+                  Total parcial     428.092,53        105.060         47.468
+
+                 TOTAL anual
+                                                     580.620,53
+                   m3/any
+
+        Es tractaria de dades que a priori haurien de donar el mateix valor que el cabal facturat
+total, que s’ha comentat que era de 289.414 m3/any, però que per causes que es desconeixen,
+no és així. En la següent figura es dona la distribució dels consums d’aigua en cada sector.
+
+
+                                                     On:
+                                                      Grup “turístic” que inclou el consums en
+                                               hotels, aparthotels, cases rurals, apartaments,
+                                               camp de golf, càmping i centre esportiu
+                                                      Grup “domèstics” que inclou el conjunt de
+                                               vivendes (que poden incloure restaurants, bars i
+                                               altres serveis)
+                                                    Grup “comunal” que avarca instal.lacions
+                                               comunals
+
+
+
+
+                                                                                    Pàgina 7 de 48
+2.1.1.2.2    XARXA D’AIGUA POTABLE DEL CAMP DE NEU
+      D’ORDINO-ARCALÍS
+      Les dades facilitades per la Mancomunitat de Serveis d’Ordino relatives als cabals
+subministrats als restaurants dels Hortells, La Coma i els Planells, durant el 2019, són d’un total
+de 3.472m 3 /any.
+             P   P
+
+
+
+
+      xarxa Arcalís. Any 2019               1er          2on Trimestre                3er               4er           total m3
+                                         Trimestre            m3                   Trimestre         Trimestre
+                                            m3                                        m3                m3
+      RESTAURANT HORTELL
+                                            833                  264                  71               199             1.367
+  RESTAURANT PLANELLS
+                                            693                  102                  0                134              929
+      RESTAURANT LA COMA
+                                            555                  209                 197               215             1.176
+       RESTARURANT LES
+          PORTELLES                          0                    0                   0                 0                0
+                                                                                                      Total            3.472
+                                                                                                      m3/any
+
+
+
+      Tenint en compte les pèrdues de xarxa (suposades del 40%), s’estimen els cabals
+captats en 5.787 m3 /any.
+                       P
+
+
+
+
+2.1.1.2.3                     CONSUM TOTAL DE LA PARRÒQUIA
+      En concepte d’aigua per a ús de boca, s’han facturat durant el 2019 un total 292.886
+m3 /any, i s’estima que s’han captat un total de 5.202.268 m 3 /any, estimant que les pèrdues de
+  P                                                                        P   P
+
+
+
+
+xarxa són del 40%, en el cas de les pistes d’esquí.
+
+
+                             Parròquia            Xarxa Ordino         Camp de             TOTAL
+                                                                         neu
+                           Cabal facturat            289.414            3.472              292.886
+                              m3/any
+                            Cabal captat             5.196.481          5.787             5.202.268
+                              m3/any
+
+       La població censada el 2019 a la parròquia ha estat de 4.942 habitants. El consum mig
+per càpita de la parròquia (sense tenir en compte les pèrdues de xarxa) és de 162
+litres/habitant/dia.
+       Tenint en compte el cabal captat, el consum mig per càpita durant el 2019 és 2884
+litres/habitant/dia.
+
+
+
+
+                                                                                                               Pàgina 8 de 48
+           2.1.1.3 CONSUMS EN LA PARRÒQUIA DE SANT JULIÀ DE LÒRIA
+           2.1.1.3.1                      XARXA DEL COMÚ DE SANT JULIÀ DE LÒRIA
+           Les dades facilitades pel departament d’agricultura del Comú de Sant Julià de Lòria relatives
+           als cabals facturats durant el 2019, són les següents:
+Xarxa Sant      Sant     Aixirivall           Auvinyà   Bissisarri   Certés   Juberri      Nagol i   Aixovall   Fontaneda      Total m3
+Julià. Any      Julià       m3                  m3         m3         m3        m3      llumaneres      m3         m3            /any
+   2019          m3                                                                          m3
+  Gener        38.200      4.242                905        265        401     1.114        581        1.452         213        47.373
+ Febrer        32.491      2.557                619        182        343      504         312        1.714         234        38.956
+  Març         24.879      2.776                534        159        243      637         319        1.271         123        30.941
+  Abril        43.083      4.070                793        276        343      909         689        2.002         168        52.333
+  Maig         26.182      2.472                702        335        318      741         340        1.308         73         32.471
+  Juny         33.874      3.755                649        298        449     1.543        631        2.036         242        43.477
+  Juliol       34.823      4.465               1.468       755        969     2.637       1.176       2.322         165        48.780
+  Agost        44.631      5.545               1.464       583       1.005    3.313       1.524       3.308         270        61.643
+Setembre       31.922      3.300                951        358        402     2.450        494        1.677         151        41.705
+ Octubre       42.697      4.401                887        398        472     1.224        764        1.722         261        52.826
+Novembre       32.756      2.833                624        167        369      636         311        1.791         133        39.620
+Desembre       33.705      3.508                553        162        297      680         552        1.579         157        41.193
+  Total        419.243    43.924              10.149      3.938      5.611    16.388      7.693      22.182        2.190       531.318
+                                                                                                                 Població       9.375
+
+
+
+                  El consum mig per càpita durant el 2019 (sense tenir en compte els consums no
+           facturats i les pèrdues de xarxa) a la Xarxa de Sant Julià s’estima en 155 litres/habitant/dia.
+                 Tenint en compte les pèrdues (suposades del 40%), s’estimen que els cabals captats
+           han estat de 885.530 m 3 /any. El consum mig per càpita durant el 2019 a la Xarxa de Sant Julià
+                                      P   P
+
+
+
+
+           és de 259 litres/habitant/dia.
+
+
+
+
+           2.1.1.4 CONSUMS EN LA PARRÒQUIA D’ENCAMP
+           2.1.1.4.1                      XARXA DEL COMÚ D’ENCAMP
+                 Les dades facilitades pel Comú d’Encamp relatives a la població resident censada i als
+           cabals facturats, durant el 2019, són:
+                                                                                                              Pàgina 9 de 48
+      Xarxa Encamp. Any 2019           1 trimestre    2n trimestre       3er           4rt trimestre   Total m3any
+                                            m3             m3        trimestre m3            m3
+          Pas de la Casa                    142.838     36.275               54.853       48.993          282.959
+ Encamp (excepte Pas de la
+           Casa                             208.669     150.938              124.010     131.174          614.791
+  Població Pas de la Casa                                                                                  1.943
+Població Encamp (excepte Pas                                                                               9.745
+         de la Casa)
+
+      El consum mig per càpita durant el 2019 (sense tenir en compte les pèrdues de xarxa) a
+la xarxa del poble d’Encamp en concepte d’aigua de xarxa és de 173 litres/habitant/dia,
+mentre que en la xarxa del Pas de la Casa és de 399 litres/habitant/dia.
+      En el cas dels cabals captats en el sector del Pas, inclou els consums de les pistes
+d’esquí de SAETDE, sector del Pas.
+       Tenint en compte les pèrdues (suposades del 40%), s’estimen que els cabals captats
+han estat de 1.024.652 m 3 /any i de 471.598 m 3 /any, a Encamp i al Pas, respectivament. El
+                               P   P                     P   P
+
+
+
+
+consum mig per càpita durant el 2019 a la xarxa d’Encamp en concepte d’aigua captada és de
+288 litres/habitant/dia, mentre que en la xarxa del Pas de la Casa és de 665
+litres/habitant/dia.
+       El càlcul de la despesa hídrica per càpita en el sector del Pas és de mal calcular degut al
+gran nombre d’hotels que són presents, al nombre de places hoteleres ocupades i al consum
+atribuïble d’aigua de cada turista-visitant.
+      Com en anys anteriors, no han estat facilitades les dades relatives als consums per
+sectors.
+
+
+2.1.1.4.2                  XARXA D’AIGUA POTABLE DE SAETDE-GRAU ROIG
+
+      No disposem de les dades de consums d’aigua ni del 2018 ni 2019 pel que s’usarà les
+mateixes dades que SAETDE va facilitar en anys anteriors i que eren de 35.035 m 3 /any                      P   P
+
+
+
+
+(entrada a edificis) i de 58.391 m 3 /any (suposats captats).
+                                        P   P
+
+
+
+
+2.1.1.4.3                  CONSUM TOTAL DE LA PARRÒQUIA
+       En concepte d’aigua per a ús de boca, s’han facturat durant el 2019 un total de 932.785
+m 3 /any, que suposa un cabal captat total d’ 1.554.641 m 3 /any, estimant que les pèrdues de
+  P   P                                                              P   P
+
+
+
+
+xarxa són del 40%.
+
+
+
+                                                                                                   Pàgina 10 de 48
+                   Parròquia Encamp        Xarxa       Camp de neu        TOTAL
+                                          Encamp i     (sector Grau       m3/any
+                                            Pas           Roig)
+                    Cabal facturat
+                                           897.750        35.035          932.785
+                        m3/any
+                  Cabal captat m3/any     1.496.250       58.391       1.554.641
+                        Població                                          11.688
+
+
+
+       El consum mig per càpita durant el 2019 (sense tenir en compte les pèrdues de xarxa) a
+la Parròquia d’Encamp, per una població de 11.688, en concepte d’aigua de xarxa és de 219
+litres/habitant/dia.
+       Tenint en compte el cabal captat (pèrdues suposades del 40%), el consum mig per
+càpita durant el 2019 és de 364 litres/habitant/dia.
+
+
+2.1.1.5 CONSUMS EN LA PARRÒQUIA D’ANDORRA LA VELLA
+2.1.1.5.1               XARXA DEL COMÚ D’ANDORRA LA VELLA
+       Les dades facilitades pel Comú d’Andorra la Vella relatives als cabals d’aigua distribuïts
+a la xarxa d’aigua potable, cabals facturats, i als cabals captats, durant el 2019, són:
+                    Xarxa Andorra la Vella. Cabals Captacions en m3/mes              Cabal
+                                                                                    Consum
+   2019          Pous Estadi          Riu de la        Font de la     Font del      Xarxa en
+                  comunal             Comella           Birena         Ribal
+                                                                                    m3/mes
+  Gener            56.056               44.063          126.931       21.528        241.410
+  Febrer           51.152               36.806          108.829       18.044        212.540
+   Març            66.761               34.671          117.701       20.993        234.934
+   Abril           67.640               34.275          110.030       20.745        225.344
+   Maig            22.925               64.910          116.828       37.238        231.177
+   Juny             5.976               68.830          130.653       38.750        232.483
+   Juliol          23.855               64.553          139.420       35.176        254.000
+   Agost           64.261               50.723          124.678       21.229        248.721
+ Setembre          84.154               36.485          111.707       16.001        242.192
+  Octubre          106.088              38.653          104.612       18.381        259.018
+ Novembre          36.483               69.740          111.443       26.509        237.482
+ Desembre          50.182               74.525          114.468       10.454        244.551
+  TOTAL
+                                           2.956.115
+  m3/any
+ Població                                                                            22.440
+
+
+      L’anàlisi es fa sobre les dades que se’ns faciliten, no obstant cal saber que el cabal
+captat no correspon al cabal distribuït perquè una part del captat es torna al medi (sobreixidor),
+s’usa per rentar les instal·lacions, etc i queda comptat dins el 35% de pèrdues de xarxa, que
+s’ha calculat.
+     També es disposa de les dades de consums trimestrals distribuïts facturats, són els
+següents:
+                                                                                       Pàgina 11 de 48
+              Usos
+                             Domèstic        Professional        Hotel        Obra
+          m3/trimestre
+          1er trimestre
+                              297.102          102.056           65.557
+           2n trimestre
+                              303.086          128.881           51.388
+          3er trimestre
+                              324.253          176.750           77.892
+           4rt trimestre
+                              247.809          99.843            42.300
+
+           Total parcial
+                             1.172.250         507.530           237.137
+          TOTAL anual
+                                                     1.916.917
+            m3/any
+
+      Aquest any no s’han donat les dades de consums d’aigua en el sector Obres.
+      El consum mig per càpita en concepte d’aigua de xarxa durant el 2019, sense tenir en
+compte les pèrdues de xarxa, és de 234 litres/habitant/dia. Tenint en compte el cabal captat,
+el consum mig per càpita és de 361 litres/habitant/dia.
+
+
+                                               On:
+                                               Grup “serveis” que inclou el consums en hotels
+                                                 Grup “professionals” que comprèn les
+                                         superfícies comercials, magatzems, tallers, naus,
+                                         edificis administratius, escoles, etc.
+                                               Grup “domèstics” que inclou edificis destinats
+                                         globalment a aigua per a ús domèstic
+                                                 Grup “obra” que avarca les obres en curs, tant
+                                         d’edificacions com d’obra civil
+
+
+      En l’anterior gràfic es mostra la distribució percentual de cada grup. S’observa que el
+sector de “domèstic” és el consumeix més aigua, amb un 61% del consum total, seguit del grup
+de “professionals” que representa el 27%. El consum d’aigua en el sector d’hotels consumeix el
+12%, desconeixent-se els consums en el sector Obres.
+
+
+
+
+                                                                                 Pàgina 12 de 48
+           2.1.1.6 CONSUMS EN LA PARRÒQUIA DE CANILLO
+           2.1.1.6.1                XARXA DEL COMÚ DE CANILLO, DE LA
+                        MANCOMUNITAT DE SOLDEU I DE LA SOCIETAT DE FONTS
+                        DE CANILLO
+                  La xarxa comunal de Canillo subministra aigua per les diferents poblacions de la
+           Parròquia (Canillo, Aldosa, El Forn, El Tarter, El Vilar, Els plans, Incles, Meritxell, Prats, Ransol,
+           Soldeu), no obstant en totes aquestes poblacions existeixen xarxes paral·leles veïnals, de les
+           quals només es té dades de la xarxa de la Societat de Fonts de Canillo, que subministra a un
+           sector del poble de Canillo, i de la xarxa de la Comunitat de Soldeu, que subministra a un
+           sector del poble de Soldeu.
+                  En relació als cabals captats, se’ns ha facilitat la informació a la xarxa de Soldeu amb
+           un valor total de 290.902 m3/any, dels quals només 130.409 m3/any han entrat i sortit del
+           dipòsit, i s’acaben facturant 98.819 m3/any. Estaríem parlant d’un 66% de pèrdues de xarxa si
+           només tinguéssim en compte el cabal captat i el facturat, però de pèrdues reals de xarxa (com
+           a aigua que surt del dipòsit i no arriba al comptador) es tractaria d’un 24%.
+
+
+  Xarxa          cabals                cabal            Riu Gros             La mata             Fontanals            cabal captat
+  poble         facturats         sortida dipòsit                                                                   sortida de dipòsit
+ Soldeu.
+Any 2019
+  Gener                                                                                                                 21.030,33
+                12.385,00           15.813,00            1.868,68           7.560,07             11.601,58
+ Febrer                                                                                                                 17.998,64
+                16.660,00           16.052,00            4.195,17           6.075,33              7.728,14
+  Març                                                                                                                  22.689,83
+                11.260,00           12.664,00            1.975,87           10.291,44            10.422,52
+  Abril                                                                                                                 29.223,13
+                9.176,00            10.020,00             714,9             12.022,79            16.485,44
+  Maig                                                                                                                  59.374,32
+                2.544,00             4.206,00              3,78             16.117,17            43.253,37
+  Juny                                                                                                                  44.426,41
+                5.800,00             8.038,00              0,23             12.692,82            31.733,36
+ Juliol                                                                                                                 32.648,37
+                8.139,00            11.298,00            104,82             8.936,71             23.606,84
+ Agost                                                                                                                  26.506,51
+                8.970,00            12.316,00              0,76             11.165,59            15.340,16
+Setembre        6.781,00            10.825,00             41,87             7.758,53              4.202,78              12.003,18
+Octubre                                                                                                                 8.317,03
+                4.444,00             8.158,00            1.206,86           7.110,17
+Novembre                                                                                                                7.123,45
+                5.359,00             9.593,00              0,89             7.122,56
+Desembre                                                                                                                9.560,34
+                7.301,00            11.426,00             185,5             9.374,84
+ Total
+ m3/any         98.819,00           130.409,00          10.299,33          116.228,02            164.374,19            290.901,54
+
+
+                    De la xarxa comunal de Canillo, la informació la trobem al web https://e-
+           canillo.com/estadistiques/ i de les dades del Servei d’aigües del Comú de Canillo. Les dades
+           usades han estat les següents:
+
+
+
+
+                                                                                                  Pàgina 13 de 48
+   Xarxa             Cases      Hotels i aparthotels          Locals comercials i        Contraincendis     Total m3/any
+  comunal.           m3/any           m3/any                      agrícoles                 m3/any
+   Pobles                                                           m3/any
+  Meritxell          1.333                497                       1.105                       0               2.935
+    Forn             10.735              7.066                        18                        0              17.819
+    Prats            6.241                   0                        0                         3               6.244
+   Canillo           17.150              10.528                     7.029                      569             35.276
+   Aldosa            5.764               1.115                        0                         0               6.879
+   Ransol            8.627                   0                      20.663                      8              29.298
+  El Tarter          58.574              8.242                      1.178                      52              68.046
+    Incles           21.215              33.957                     1.215                      35              56.422
+   Soldeu            10.642              17.642                       0                         7              28.291
+  Envalira           10.208              2.532                       364                      3                13.107
+                                                                                         TOTAL m3/any         264.317
+
+      Els consums totals de la parròquia, per trimestres, es desglossa a continuació. Sembla
+que les dades del 4rt trimestre encara no les tenen actualitzades, i això fa pensar que els
+consums totals anuals, de la taula anterior tampoc són complets, deuen correspondre als
+consums dels primers tres trimestres.
+
+
+  Xarxa comunal de            1r trimestre        2n trimestre m3      3r trimestre       4rt trimestre     Total
+   Canillo. Any 2019                m3                                       m3                 m3          m3/any
+Cases                           49.276                49.276               51.344             593           150.489
+Hotels i aparthotels            30.344                30.472               20.763              0            81.579
+Locals comercials i
+agrícoles                        4.415                4.287                22.870              0            31.572
+Contraincendis                    227                  227                   223               0              677
+      Total m3/any              84.262                84.262               95.200             593           264.317
+
+
+
+
+                                                                                         En el següent gràfic es
+                                                                                   mostra      la       distribució
+                                                                                   percentual de cada grup de
+                                                                                   consum. S’observa que el
+                                                                                   sector de “cases” és el
+                                                                                   consumeix més aigua, amb un
+                                                                                   57% del consum total, seguit
+                                                                                   del grup d’hotels i aparthotels
+                                                                                   que representa el 31% i de
+                                                                                   locals comercials i agrícoles
+                                                                                   amb un 12%.
+
+
+
+                                                                                                      Pàgina 14 de 48
+       El Comú de Canillo ens ha facilitat els cabals captats mensuals de les captacions
+d’Envalira, Coma de Ransol i del sector del Forn, amb un total de 969.237 m3. El cabal facturat
+(parcial només dels tres primers trimestres) respecte el total captat és del 27%, la resta, el 73%
+són pèrdues de xarxa o cabal que es torna al medi abans d’entrar a la xarxa.
+
+
+  Cabals captats.                                                                             4rt trimestre
+                      1r trimestre m3            2n trimestre m3           3r trimestre m3                     Total m3/any
+    Any 2019                                                                                        m3
+  Bordes Envalira             19.108                 12.679                    10.238              14.609         56.634
+  Coma de Ransol          190.146                   125.873                    182.178          230.032          728.229
+      El Forn                 38.799                 41.580                    42.134              61.861        184.374
+    Total m3/any          248.053                   180.132                    234.550          306.502          969.237
+
+
+        De la xarxa de poble la societat d’aigües de les Fonts de Canillo disposem de vàries
+dades de comptadors, entre les quals tenim les lectures puntuals preses al llarg del 2019 a la
+sortida del dipòsit de Rius, que abasteix aigua a part de la població de Canillo poble. Aquestes
+lectures no són pròpiament cabals captats, i tampoc cabals finals facturats o distribuïts. Si
+suposem que el 40% del cabal captat total es perd abans d’arribar al dipòsit, estem parlant d’un
+cabal total captat de 388.582 m3 i el cabal facturat estimat seria de l’ordre d’uns 139.889 m3.
+
+
+                                                                                              4rt trimestre
+        m3            1r trimestre m3            2n trimestre m3           3r trimestre m3                     Total m3/any
+                                                                                                    m3
+   Cabals dipòsit
+                              59.118                 55.381                    61.558              57.092        233.149
+  Canillo Any 2019
+    Cabal captat
+      estimat                 98.530                 92.302                    102.597             95.153        388.582
+   Cabal facturat
+      estimat                 35.471                 33.229                    36.935              34.255        139.889
+
+
+        A continuació es resumeixen les dades exposades fins ara:
+
+             Xarxa Canillo          Xarxa        Xarxa        Xarxa fonts de        TOTAL m3/any
+                                   Comunal       Soldeu          Canillo
+             Cabal facturat        264.317       98.819          139.889                 503.025
+                m3/any
+             Cabal captats             969.237   290.902         388.582                 1.648.720
+                m3/any
+               Població
+
+
+
+       El consum mig diari en base al cabal total facturat ha estat de 319 l/dia/habitant i de
+l’ordre de 1044 l/dia/habitant si es té en compte el cabal captat.
+
+2.1.1.6.2                 XARXA D’AIGUA POTABLE D’ENSISA
+       Aquest 2019 ENSISA ha facilitat els consums d’aigua de boca dels diferents sectors.
+Així, al Forn de Canillo s’ha consumit un total de 2.128 m3 d’aigua i al sector de Soldeu i el
+Tarter un total de 9.770 m3 d’aigua.
+                                                                                                     Pàgina 15 de 48
+      El nombre d’esquiadors ha estat de 827.515 que repartits entre la temporada d’esquí,
+estimada en 151 dies (no es té el nombre exacte de dies), suposa un total de 5.480
+esquiadors/dia.
+
+
+                   Xarxa ENSISA        Sector El Forn m3      Sector         Total
+                                                            Soldeu i El       m3
+                                                             Tarter m3
+                       hivern
+                                             634               6.024         6.658
+                     primavera
+                                             298               1.573         1.871
+                        estiu
+                                             924               549           1.473
+                       tardor
+                                             272               1.624         1.896
+                    total m3/any
+                                            2.128              9.770         11.898
+
+
+
+      El cabal captat, suposant que el 40% del cabal captat són pèrdues de xarxa, és de
+19.830 m 3/temporada.
+          P
+
+
+
+
+2.1.1.6.3               CONSUM TOTAL DE LA PARRÒQUIA
+       En concepte d’aigua per a ús de boca, s’han facturat durant el 2019 un total de 514.923
+m 3 /any, essent el cabal captat de 1.668.550 m3 /any.
+  P   P                                             P
+
+
+
+
+                   Parròquia Canillo     Xarxa pobles      Camp de         TOTAL
+                                                             neu
+                    Cabal facturat          503.025         11.898
+                                                                          514.923
+                       m3/any
+                    Cabal captats          1.648.720       19.830
+                                                                          1.668.550
+                       m3/any
+                      Població                                             4.325
+
+
+
+      El càlcul de la despesa hídrica per càpita és de mal calcular donada la incertesa de
+nombre de consumidors que s’abasteixen d’aquesta xarxa, així com el gran nombre d’hotels i
+apartaments turístics que són presents en la parròquia.
+      Segons informacions facilitades pel departament d’estadística del Govern d’Andorra, la
+població resident a la parròquia de Canillo és de 4.325 habitants. Al total de la parròquia, el
+consum mig per càpita durant el 2019 (sense tenir en compte les pèrdues de xarxa) en
+concepte d’aigua de xarxa és de 326 litres/habitant/dia.
+      Tenint en compte una pèrdua de xarxa del 40%, el consum mig per càpita durant el 2019
+és de 1057 litres/habitant/dia.
+
+
+2.1.1.7 CONSUMS EN LA PARRÒQUIA D’ESCALDES-ENGORDANY
+2.1.1.7.1               XARXA DEL COMÚ D’ESCALDES
+      CAPESA ens ha facilitat els cabals d’entrada als dipòsits i dels cabals facturats d’aquest
+2019. Els valors es donen en la següent taula:
+
+                                                                                      Pàgina 16 de 48
+                     Xarxa         Riu Madriu        Pou La Closa m3             Total
+                 CAPESA. Any           m3                                      general m3
+                     2019
+                 1er trimestre
+                                     377.014                 3.101                 380.115
+                  2n trimestre
+                                     364.163                 3.309                 367.472
+                 3er trimestre
+                                     420.911                 3.390                 424.220
+                 4rt trimestre
+                                     352.932                 2.627                 355.559
+                  total m3/any
+                                    1.515.020                12.427            1.527.447
+                   Població                                                     14.599
+
+
+                                 Consums aigua              Cabals
+                                   2019. Xarxa           facturats m3
+                                    CAPESA
+                                  1er trimestre               321.328
+                                   2n trimestre               303.234
+                                   3er trimestre              353967
+                                   4rt trimestre              292.531
+                                   Total m3/any              1.271.060
+
+      Els cabals captats han estat de 1.527.447 m3 i els cabals facturats són de 1.271.060 m3.
+Les pèrdues de xarxa es calcula que són del 17%.
+       El consum mig per càpita en concepte d’aigua de xarxa durant el 2019, sense tenir en
+compte les pèrdues de xarxa, és de 239 litres/habitant/dia. Tenint en compte les pèrdues de
+xarxa, el consum mig per càpita és de 287 litres/habitant/dia.
+     De la mateixa manera que l’any passat, no es disposa de les dades relatives als
+consums per sectors.
+
+
+2.1.1.8 CONSUMS EN LA PARRÒQUIA DE LA MASSANA
+2.1.1.8.1               XARXA DEL COMÚ DE LA MASSANA
+      En base a les dades facilitades pel Comú relatives als cabals distribuïts (consums totals
+comptabilitzats/facturats), durant el 2019, s’ha establert la despesa hídrica distribuïda a la
+població de la parròquia de la Massana:
+
+                        Xarxa Massana           Cabal facturat           Població
+                           Any 2019                m3/any
+                        1r trimestre m3
+                                                   215.325
+                        2n trimestre m3
+                                                   179.585
+                        3r trimestre m3
+                                                   201.792
+                        4rt trimestre m3
+                                                   169.550
+                          Total m3/any
+                                                   766.252                10.174
+
+                                                                                             Pàgina 17 de 48
+       Aquests consums d’aigua inclouen els subministrats a vivendes, sector serveis (hotels,
+restauració, comerços, escoles, etc), sector industrial, boca d’incendis, agricultura, edificis
+comunals, regs, etc, en definitiva al conjunt d’aigua subministrada pel Comú a la parròquia, tant
+facturada com no. El consum mig per càpita durant el 2019 (sense tenir en compte les pèrdues
+de xarxa) és de 206 litres/habitant/dia. En base als cabals facturats i suposant un 40% de
+pèrdues de xarxa, s’estima que els cabals captats han estat de 1.277.087 m 3 /any, i el consum                          P   P
+
+
+
+
+mig per càpita serà de 344 litres/habitant/dia.
+       Gràcies a les dades facilitades
+pel Comú es disposa dels consums
+d’aigua segons els usos, i per les
+diferents poblacions. En la següent
+taula s’observa que la principal sortida
+és pel consum de boca.
+  Xarxa Massana              Total
+                             m3/any
+     Domèstic*               731.211
+   Boca incendi               1.060
+   Agricultura**              2.569
+      Serveis
+    excempts***              31.412
+    Total m3/any             766.252
+         *domèstic: vivendes, regs privats, piscines, comerços, bancs, cases quarts, col·legis, guarderies, restaurants, discoteques, museus,
+centres esportius, hotels, càmpings, hípiques, naus industrials, tallers, garatges, gasolineres, assecadors.
+
+         **Agricultura: Es tracta de valors mínims, ja que per a ús agrícola solen usar-se captacions privades que no es tenen inventariades.
+
+         ***Serveis excempts: edificis comunals, fonts i regs comunals, càmpings parròquia.
+
+
+
+2.1.1.8.2    XARXA D’AIGUA POTABLE DE VALLNORD: PAL I
+      ARINSAL
+
+    Dins de la xarxa d’aigua potable de la Massana hi ha inclosos els consums d’aigua del
+domini esquiable de Vallnord de Pal i d’Arinsal, del qual disposem del detall de consums:
+
+                              Xarxa Vallnord               Sector Pal m3                Sector                 Total
+                                                                                       Arinsal m3               m3
+                                   hivern
+                                                                 4.664                     2.019               6.683
+                                 primavera
+                                                                 2.829                     1.023               3.852
+                                    estiu                        2.368                      514                2.882
+                                    tardor
+                                                                  962                       664                1.626
+                                total m3/any
+                                                                10.823                     4.220               15.043
+
+      Aquest 2019 s’ha subministrat un total de 15.043 m3/any, dels quals 10.823 m3/any són
+del sector de Pal i 4.220 m3/any del sector d’Arinsal. Si se suposa que les pèrdues de xarxa
+han estat d’un 40%, el cabal total captat seria de 25.072 m3/any.
+                                                                                                                                Pàgina 18 de 48
+      El nombre d’esquiadors que han passat el 2019 pel domini han estat de 506.646, fet que
+suposa un consum per esquiador de 50 l/dia/esquiador tenint en compte les pèrdues de xarxa i
+que una temporada són 257 dies.
+
+
+
+2.1.2               DESPESA EN RAMADERIA
+
+        De cara a estimar el consum d’aigua en el sector ramader s’ha fet ús de les dades
+facilitades pel ministeri responsable d’Agricultura i Ramaderia:
+      -nombre de caps de bestiar (cadastre 2019): bovins, equins, ovins i cabrums
+      -situació geogràfica de les corts
+       Si bé es localitza el bestiar en punts del territori concrets, que s’associa a corts, durant la
+transhumància (període d’estiu que el bestiar pastura als prats d’alta muntanya) es distribueix
+per les muntanyes del país i dels voltants, sense una ubicació concreta. Davant de la falta de
+més informació s’ha procedit a no tenir en compte la transhumància i per tant suposar que el
+bestiar pastura en la mateixa ubicació de la cort. Així mateix es tenen identificats 410 vaques,
+234 cavalls, 1058 ovelles i 114 cabres que no tenen un lloc estable en cap època de l’any, no
+podent-se ubicar geogràficament.
+       Des del Ministeri responsable d’Agricultura i Ramaderia s’ha facilitat la situació de les
+explotacions i el nombre de caps que gestiona. Algunes de les explotacions presenten diferents
+corts (a vegades emplaçades en unitats hidrogeològiques diferents), i davant la falta de dades
+concretes dels caps de bestiar en cada cort, s’ha escollit a l’atzar una cort.
+      Així mateix, donat que no es disposa de dades relatives al consum d’aigua, s’ha procedit
+a calcular la despesa hídrica en base a dades obtingudes per fonts bibliogràfiques, seguint la
+metodologia exposada en l’informe del M.I. Govern (2007).
+      Tenint en compte els 90 dies que passen a la cort i els 275 dies que pasturen i els
+respectius consums d’aigua, el consum anual d’aigua el 2019, ha estat el següent:
+
+
+                                      Nº caps de               Consum aigua                  Consum aigua total
+                                       bestiar*                  L/dia/cap
+                                                                                                  m 3 /any
+                                                                                                    P   P
+
+
+
+
+                                                                (cort-pastura)
+
+                   Equins                  889                       30-70                         19.514
+
+                   Bovins                 3.367                      10-70                         67.845
+
+                   Ovins                  2.435                      3,5-7,5                       5.789
+
+                 Cabrums                   304                       3,5-7,5                        723
+
+                   TOTAL                  6.995                                                    93.871
+
+      * bestiar amb una cort situada amb coordenades Lambert III, i sense cort localitzada
+
+
+
+
+                                                                                                              Pàgina 19 de 48
+2.1.3               DESPESA EN AGRICULTURA
+        De cara a estimar el consum d’aigua en el sector agrícola s’ha fet ús de les dades
+facilitades pel ministeri responsable d’Agricultura i Ramaderia:
+      -Distribució i superfície de camps de conreu (declaració 2019).
+     Donat que a Andorra el principal cultiu de regadiu és el tabac s’ha procedit a calcular els
+consums hídrics en base a la superfície de conreu de tabac.
+       Degut a la manca de dades sobre la despesa hídrica (m 3 /ha) que es genera en el cultiu
+                                                               P   P
+
+
+
+
+del tabac s’ha estimat en base a valors que es donen en bibliografia, seguint la metodologia
+exposada en l’informe Govern d’Andorra (2008). Es conclou que el conreu de tabac necessita
+per a un creixement òptim 1500 mm d’aigua.
+       Segons el model de distribució de les pluges Govern d’Andorra (2019) en el sector del
+Principat on es conrea tabac, a l’estiu (període juny-agost) les pluges varien d’entre 131 i 266
+mm, amb un valor mig de 198 mm. Per a cada unitat s’ha calculat l’aigua que cal afegir per
+arribar als 1500 mm, que multiplicats per la superfície de conreu de cada unitat (el 2019, ha
+estat un total de 147,24 ha), ha permès calcular que el consum estimat d’aigua captada per a
+regar és de 1.95 Hm 3 /estiu.
+                      P   P
+
+
+
+
+2.1.4               DESPESA EN AIGUA TERMAL
+      Les dades de consums d’aigua termal han estat facilitades pel Comú d’Escaldes
+(consums trimestrals) i per SEMTEE (diferenciant consums de CALDEA i de INUU).
+
+
+         Any 2019             Caldea m3   Inuu m3   TOTAL           TOTAL      Consum m3
+                                                    m3/any         parròquia
+          Gener
+                               14.974      7.536
+          Febrer                                               1er trimestre    81.135
+                               10.677      7.224
+           Març                                                2on trimestre    71.142
+                               10.969      7.636
+           Abril                                               3er trimestre    62.883
+                               11.361      7.136
+           Maig                                                4rt trimestre    67.826
+                                8.773      6.264
+           Juny                                                    Total any    282.986
+                               12.475      4.144
+           Juliol
+                                9.114      5.352
+          Agost
+                                9.182      5.112
+         Setembre
+                                9.758      5.668
+         Octubre
+                               10.159      6.004
+        Novembre
+                               11.060      6.564
+         Desembre
+                               12.459      6.972
+       Total m3/any
+                               130.961    75.612    206.573
+
+
+
+      En resum tenim els valors de la següent taula:
+
+                                                                                   Pàgina 20 de 48
+             Aigua termal          Termal CALDEA/INUU              Altres          Total
+                                                                consumidors
+         Cabal facturat m3/any           206.573                   76.413         282.986
+          Cabal captat m3/any                   -                    -            471.643
+
+     El cabal subministrat pel Comú d’Escaldes-Engordany ha estat de 282.986 m3/any.
+Suposant una pèrdua de xarxa del 40%, suposa un cabal captat de 471.643 m3/any.
+     D’aquest consum d’aigua, 206.573 m3/any corresponen als cabals distribuïts per
+Caldea/Inuu.
+       El nombre d’usuaris que han passat per les instal.lacions de Caldea/Inuu del 2019 ha
+estat de 377.878, fet que implica que la despesa mitjana d’aigua termal per usuari (sense tenir
+en compte les pèrdues de xarxa) és de 749 litres aigua calenta/usuari/dia, i tenint en compte
+les pèrdues de xarxa és de 1.248 litres aigua calenta/usuari/dia, si el 100% de l’aigua
+captada fos destinada a les instal.lacions de Caldea/Inuu.
+
+
+
+
+2.1.5           DESPESA EN LES INSTAL.LACIONS DEL CENTRE DE
+        TRACTAMENT TÈRMIC DE RESIDUS DE LA COMELLA
+       Segons dades facilitades pel Centre de tractament tèrmic de residus de la Comella,
+l’aigua utilitzada en el procés industrial durant el 2019, procedent del torrent del Cuc, de la font
+del Queco i de la pluja han estat de 4.607,5 m3/any. Considerant les pèrdues de xarxa i
+suposant que el percentatge de pluja és insignificant, el cabal captat ha estat de 7.679 m3/any.
+
+
+                                                     Consum
+                                                      aigua
+                                                    CTRSA m3
+                                        gener         590,00
+                                        febrer        532,00
+                                        març          590,00
+                                        abril         365,00
+                                        maig          348,00
+                                        juny          305,90
+                                        juliol        320,33
+                                        agost         364,98
+                                      setembre        230,60
+                                       octubre        265,50
+                                      novembre        328,63
+                                      desembre        366,54
+                                    Total m3/any     4.607,48
+
+
+
+
+                                                                                     Pàgina 21 de 48
+2.1.6                  RESUM DESPESES CONSUMPTIVES
+        Com a despeses consumptives hi englobem els consums d’aigua domèstica (hotels,
+llars, tallers, etc), consums en agricultura i ramaderia i consums d’aigua termal. A continuació
+es presenta un resum dels resultats vistos en capítols anteriors.
+
+
+               Despesa d’aigua de boca (aigua domèstica, aigua en hotels i restauració, aigua de
+               reg de parcs i jardins, indústria)
+
+
+
+            Xarxes                     Cabal facturat m3/any           Cabal captat          Població         Despesa per dia i
+                                                                         m3/any              resident            habitant*
+                                                                                             censada
+        Xarxa Ordino
+                                                289.414                 5.196.481             4.942                 2.881
+      Xarxa Sant Julià
+                                                531.318                  885.530              9.375                  259
+       Xarxa Encamp
+                                                614.791                 1.024.652             9.745                  288
+          Xarxa Pas
+                                                282.959                  471.598              1.943                  665
+  Xarxa Andorra la Vella
+                                               1.916.917                2.956.115             22.440                 361
+   Xarxa Comú Canillo
+                                                264.317                  969.237
+    Xarxa fonts Canillo
+                                                139.889                  388.582
+        Xarxa Soldeu
+                                                 98.819                  290.902
+Canillo (suma parròquia)
+                                                503.025                 1.648.720             4.325                 1.044
+       Xarxa CAPESA
+                                               1.271.060                1.527.447             14.599                 287
+       Xarxa Massana
+                                                766.252                 1.277.087             10.174                 344
+         SUBTOTAL
+                                               6.175.736               14.987.630             77.543                  -
+   Xarxa Ordino-Arcalís
+                                                  3.472                   5.787
+       Xarxa ENSISA
+                                                 11.898                  19.830
+       Xarxa SAETDE
+                                                 35.035                  58.391
+         SUBTOTAL
+                                                 50.405                  84.008                                       -
+            TOTAL
+                                               6.226.140               15.071.637                                     -
+Tenint en compte el cabal captat o les pèrdues de xarxa
+
+
+                      Xarxes                         Consums aigua          Població censada        despesa
+                                                                                                  dia/habitant
+             Cabal facturat m3/any                        6.226.140                                     220
+                   Cabal captat                                                     77.543
+                                                          15.071.637                                    533
+                     m3/any
+
+
+
+
+                                                                                                         Pàgina 22 de 48
+                                                                       En base a la informació detallada
+                                                               facilitada per alguns Comuns, els consums
+                                                               d’aigua destinats al sector domèstic
+                                                               (“vivendes”) representa en el conjunt del
+                                                               territori estudiat un 70% del conjunt d’aigua
+                                                               facturada. El sector “serveis”, que inclouria
+                                                               hotels, representa entre el 10% del consum
+                                                               de boca total, i altres consums (edificis
+                                                               comunals, ús agrícola, etc) representa el
+                                                               19%.
+
+
+       En el gràfic es mostra la distribució de cada sector consumidor d’aigua de boca, amb
+valors mitjos.
+
+
+
+
+          Despesa d’aigua en ramaderia:
+
+
+      Els caps de bestiar del país al 2019 és de 6.995, estimant-se un consum de 93.871
+m 3/any d’aigua.
+ P
+
+
+
+
+                                                                        TOTAL
+                                   Caps de            Consum
+                                                                        consum
+                                   bestiar*           L/dia/cap
+                                                                        m3/any
+                                    6.995              variable         93.871
+                                     *Suma dels equins, bovins, ovins i cabrums
+
+          Despesa d’aigua en reg pel conreu de tabac:
+
+
+     La superfície destinada al conreu de tabac, el 2019, ha estat d’1,47 Km2 . Això suposa un    P
+
+
+
+
+consum hipotètic d’aigua de reg de 1.95 Hm 3 /temporada.
+                                                       P   P
+
+
+
+
+                                         Superfície             TOTAL
+                                         conreu ha              consum
+                                                                m3/estiu
+                                              147.25           1.948.923
+
+          Despesa d’aigua termal
+
+
+                   Aigua termal            Termal                    Altres             TOTAL
+                                        CALDEA/INUU               consumidors
+                   Cabal facturat         206.573                    76.413             282.986
+                      m3/any
+                    Cabal captat                  -                     -               471.643
+                      m 3/any
+                   Nº usuaris/dia
+                                                                                         1.035
+                    L/dia/usuari                                        -                1.248
+                                *Tenint en compte les pèrdues de xarxa (cabal captat)
+
+                                                                                                      Pàgina 23 de 48
+                Despesa d’aigua industrial: CTR
+
+
+                                          Aigua industrial      TOTAL
+                                           Cabal captat
+                                                                  7.679
+                                              m3/any
+
+
+
+
+  RESUM DESPESES CONSUMPTIVES
+
+
+                     Aigua de       Ramaderia       Agricultura           Termal    Industrial         TOTAL
+                       boca
+Cabal extrets
+                    15.071.637        93.871        1.948.923             471.643     7.679          17.593.753
+  m3/any
+
+
+
+         El còmput total de despeses d’aigua en concepte de consums consumptius,
+  durant el 2019 ha estat de 17,6 Hm3/any.
+
+
+
+
+                                                                                              Pàgina 24 de 48
+   2.2                USOS NO CONSUMPTIUS
+         S’entén per a usos no consumptius quan l’aigua captada no es canvia d’ubicació i es
+   retorna al medi amb una qualitat i/o quantitat no inferior.
+          En el cas d’Andorra, estaríem parlant dels següents consums:
+                  Producció d’energia hidroelèctrica
+                  Producció de neu artificial
+                  Explotació piscícola
+
+
+          A continuació es detallen els diferents usos no consumptius de l’aigua.
+
+
+   2.2.1              DESPESA EN HIDROELECTRICITAT
+           Les dades facilitades per FEDA relatives als cabals captats el 2019 per a ús
+   hidroelèctric són les següents:
+Xarxa FEDA. 2019             Ràmio-Madriu               Ransol-Valira      Barrancs          TOTAL
+
+Cabal captat m3/any           12.036.384                 41.038.272        17.455.392      70.530.048
+
+        Els cabals captats són retornats al riu Valira d’Orient a l’alçada de FEDA-Central, de
+   manera puntual en l’espai i discontinu en el temps.
+          FEDA capta aigua de tres sectors: riu Madriu a Ràmio, riu Valira d’Orient a Ransol, i
+   diferents captacions de torrents existents entre Ransol i Engolasters (Tarragó, Seig, Vall del Riu
+   i Mascaró, Prats, Cortals, Ensagents, i Agols), així com riu de la Vall del Riu. El 2019 s’ha
+   captat un total de 70,5 Hm3.
+         Aquest és el primer any que es tenen les dades d’energia produïda, amb un valor total
+   de 85.597.150 KWh, fet que suposa que per cada m3 s’ha generat 1,2KWh.
+
+
+           Aquest any disposem també de les dades de consum d’aigua de la hidroelèctrica de
+   Nordandorrà que capten aigua del riu d’Arcalís a l’alçada de les pistes d’esquí. La informació
+   facilitada ha estat la d’un cabal mig (l/s) cada 15 minuts des de l’1 de gener fins al 31 de
+   desembre. A partir d’aquesta informació de base s’ha resumit amb els següents valors, amb un
+   valor total de 3,97 Hm3 d’aigua captada.
+                                       Hidroelèctrica riu Arcalís. 2019
+                                                    (m3)
+                                        gener-març          356.120,1
+                                           abril-juny        2.006.443,0
+                                      juliol-setembre         725.391,1
+                                         octubre-
+                                        desembre              885.505,8
+                                      TOTAL m3/any           3.973.460,0
+
+
+                                                                                        Pàgina 25 de 48
+2.2.2             DESPESA EN FABRICACIÓ NEU ARTIFICIAL
+      Segons dades facilitades per les diferents estacions d’esquí, els cabals destinats a la
+producció de neu artificial (i golf en el sector d’Ensisa) durant el 2019 han estat els següents:
+
+ Xarxes canons de       Ordino-Arcalís        SAETDE-Grau   ENSISA     VALLNORD Pal -         TOTAL
+       neu                                       Roig                     Arinsal
+  Cabals m3/any            207.919              345.291      729.857      210.606            1.493.673
+
+
+        El 2019 s’ha captat un total de 1,5 Hm3.
+
+
+2.2.3             DESPESA EN AQÜÍCULTURA
+       Segons dades facilitades pel Ministeri responsable de Patrimoni Natural, el cabal captat
+per a usos de piscifactoria són del mateix ordre de magnitud que en anys anteriors, de 1,3
+Hm3/any (CRECIT (2005)).
+
+
+                                        Xarxa           TOTAL
+                                     piscifactoria
+                                     Cabal captat      1.300.000
+                                        m3/any
+
+
+
+2.2.4             RESUM DESPESES NO CONSUMPTIVES
+      Com a despeses no consumptives hi englobem els consums d’aigua per
+hidroeolectricitat, per a ús de canons de neu i per a ús piscícola. A continuació es presenta un
+resum dels resultats vistos en capítols anteriors.
+
+
+Consum d’aigua no consumptius
+
+
+
+       Any 2019            Consum hidroelèctric       Canons de neu     Consum                 TOTAL
+                                                                        piscícola
+  Cabal captat m3/any
+                                 74.503.508             1.493.673       1.300.000            77.297.181
+
+       El còmput total d’aigua captada en concepte de consums no consumptius,
+durant el 2019, ha estat de 77,3 Hm3/any.
+
+
+
+
+                                                                                    Pàgina 26 de 48
+3  CONSUMS D’AIGUA. ANÀLISI PER
+   UNITATS HIDROGEOLÒGIQUES
+3.1   ANÀLISI ANUAL
+       L’anàlisi de la valoració de les extraccions es procedeix a fer en base al recurs hídric
+disponible en cada unitat hidrogeològica calculat en l’estudi Elaboració anyal del balanç hídric
+del Principat d’Andorra (any 2019) (Govern d’Andorra, 2020). El recurs hídric disponible
+equival a l’aigua que pot ésser usada pel consum humà i per tant, s’ha descomptat al recurs
+hídric calculat, el 10%, entenent que aquest 10% és l’aigua destinada als ecosistemes aquàtics
+-cabals ecològics-.
+       El recurs hídric disponible en el conjunt d’unitats hidrogeològiques analitzades (S=522
+Km2) s’ha calculat que és de 369 Hm3/any, segons els resultats del balanç hídric (Govern
+d’Andorra, 2019).
+
+
+            Recurs disponible Andorra (S=522 Km2)             Despesa total              Extraccions
+                                                                                            totals
+                                                                      Hm 3 /any
+                                                                         P   P
+
+
+
+
+                                                                                              %
+
+                                                                         95                 26 %
+
+                                                                   Despesa                Extraccions
+Pluja útil disponible:                369 Hm 3 /any
+                                             P   P                consumptiu               consums
+                                                                                         consumptius
+                                                                      Hm 3 /any
+                                                                         P   P
+
+
+
+
+                                                                                           Hm3/any
+
+                                                                         18                  5%
+
+      La despesa en aigua total del 2019 ha estat de 95 Hm 3 /any, que suposa un consum del
+                                                              P   P
+
+
+
+
+26% del recurs hídric anual. D’aquests, 18 Hm 3 /any són de tipus consumptiu, que representen
+                                                      P   P
+
+
+
+
+el 5% del recurs total disponible.
+      Si s’analitza en detall la distribució de les extraccions en les diferents unitats
+hidrogeològiques, s’observa que en 32 unitats hi ha captacions inventariades. El total de
+recurs disponible en el conjunt d’aquestes unitats és de 300 Hm3 /any.           P   P
+
+
+
+
+       Algunes unitats presenten les captacions en capçalera, i per tant el cabal consumit
+només representa una petita fracció del conjunt de la unitat. Per tal de fer més realista els
+resultats, en aquestes unitats s’han fraccionat en subunitats, analitzant-se els consums només
+en la subunitat involucrada. Les unitats subdividides han estat les següents:
+                Ariège
+                Prat Primer
+                Coll Gallina
+                Salines
+
+
+                                                                                         Pàgina 27 de 48
+       En la següent taula es mostra la superfície de la unitat i la pluja útil corresponent, per
+l’any 2019, i la superfície de la subunitat amb la seva pluja útil, utilitzada en l’anàlisi dels
+consums.
+
+
+                          U.H.              Àrea         Pluja útil       Àrea      Pluja útil
+                                                                        subunitat   subunitat
+                                            Km2          Hm3/any          Km2       Hm3/any
+                        Ariege             45,63           40,99           7,4        6,64
+                      Prat Primer          13,95            9,38           6,5        4,37
+                      Coll Gallina         17,32           10,39            3         1,80
+                        Salines             18,4           15,28           4,5        3,71
+
+
+
+
+Figura 1. Situació de les unitats en les quals s’ha aplicat reducció de conca.
+      A l’Annex de taules es detalla les extraccions estudiades en cada unitat. Les unitats en
+les quals no s’ha detectat extraccions no s’han inclòs en la taula.
+      A l’hora de representar geogràficament els percentatges extrets respecte el recurs hídric
+disponible, les dades s’han agrupat en funció de si la unitat està molt explotada (entre 66 i
+99%) o sobreexplotada (superior al 100%, indicant que pot no respectar-se el cabal ecològic),
+explotada (percentatges captats entre 33 i 66%), o poc explotades (percentatges captats entre
+0 i 33%).
+     L’anàlisi s’ha fet tenint en compte la despesa total (consumptius i no consumptius) i la
+despesa consums consumptius.
+
+
+
+
+                                                                                                 Pàgina 28 de 48
+Figura 2. Distribució dels consums totals anuals en les diferents unitats hidrogeològiques.
+       Dels 300 Hm3/any disponibles s’han usat 95 Hm3/any, essent les unitats amb major
+extracció d’aigua la del Forn i Valira d’Orient. Es tracta de les unitats afectades per a la
+producció d’energia hidroelèctrica (FEDA). Si s’analitza els cabals captats per a extraccions
+estrictament consumptives aquest any en totes les unitats els consums han estat inferiors als
+66%.
+Figura 3. Distribució
+dels consums
+consumptius anuals
+en les diferents
+unitats
+hidrogeològiques.
+
+
+
+
+                                                                                              Pàgina 29 de 48
+3.2               ANÀLISI ESTACIONAL
+       En l’anàlisi anual passen desapercebuts aquells moments més crítics on s’usa més
+aigua o bé el recurs és menor (i hi ha el risc d’eixugar torrents i fonts) i que queden compensats
+a la resta de l’any, per això la necessitat de fer una anàlisi més detallada. L’anàlisi estacional
+hauria de permetre en aquest sentit, detectar aquests períodes negres.
+       De cara a simplificar els càlculs s’ha suposat que l’hivern inclou els mesos de gener,
+febrer i març, la primavera inclou els mesos d'abril, maig i juny, l’estiu inclou els mesos de juliol,
+agost i setembre, i la tardor inclou els mesos d’octubre, novembre i desembre.
+      En l’anàlisi estacional cal tenir en compte el paper distorsionant de la neu. A l’hivern, el
+recurs disponible en forma de neu, no és realment disponible fins que fon, o sigui una part
+durant el mateix hivern i la resta a la primavera. Aquesta situació es dona en les unitats que
+presenten una temperatura mitja inferior a zero graus durant l’hivern.
+     Per estimar els cabals disponibles durant l’hivern, i a falta de dades, s’ha suposat el
+següent:
+       -Els cabals disponibles de l’hivern procedeixen de la pluja útil de l’hivern, però no tot el
+recurs generat serà disponible en el mateix hivern. Se suposa que l’11,4 % de la pluja útil
+calculada per balanç hídric correspon a aigua en forma líquida. La resta, està en forma en neu i
+serà disponible a la primavera (Doc 5. Demandes d’aigua i pressió antròpica sobre les masses
+d’aigua. Les aigües subterrànies del Principat d’Andorra. Govern d’Andorra (2007)). En la
+següent taula es mostra la pluja útil de la primavera.
+       UH          Pluja útil       %         Pluja útil    Pluja útil     Neu que     Pluja útil
+                   estimada                  disponible    (estimada)        fon a        total
+                                               hivern      primavera      primavera    primavera
+                    hivern
+    Salines           0,67                      0,08          0,89              0,60      1,48
+   Valira nord        7,08                      0,81          9,96              6,27     16,23
+  Valira Orient      12,10                      1,38         17,88             10,72     28,61
+     Arinsal          2,42                      0,28          3,42              2,15      5,56
+    Montaup           2,60        11.4          0,30          3,54              2,30      5,85
+     Madriu           5,54                      0,63          9,67              4,90     14,57
+     Ariege           1,22                      0,14          1,83              1,08      2,91
+      Orris           1,97                      0,22          2,80              1,74      4,54
+  Engolasters-
+    pessons         3,37                        0,38          5,24             2,99      8,23
+       UT          Hm3/any                                           Hm3/any
+
+
+
+      Aquest percentatge s’ha aplicat a totes les conques (o subconques) que tenen una
+temperatura mitja a l’hivern per sota dels 0ºC durant el 2019, i en les quals es tenen
+inventariades captacions d’aigua.
+       En l'Annex de taules es mostren les extraccions estacionals en els diferents usos, en
+base a dades obtingudes directament per les diferents fonts consultades o estimades a partir
+de la dada anual.
+      L’anàlisi dels cabals captats s’ha fet tenint en compte els consums totals (consumptius i
+no consumptius) i tenint en compte només els consums associats amb els usos consumptius.
+
+
+
+                                                                                         Pàgina 30 de 48
+Figura 4. Distribució dels consums totals de l’hivern en les diferents unitats hidrogeològiques.
+      En relació als cabals captats totals durant la temporada d’hivern (figura 4) dels 24 Hm3
+d’aigua disponible, s’ha usat 16 Hm3, dels quals 5 Hm3 han estat destinats a cabals captats
+consumptius. S’observa que les unitats de Prat Primer, Engolasters, Madriu, el Forn, Valira
+d’Orient, Ariege, Valira del Nord i Arinsal presenten valors de consums molt alts Les principals
+extraccions estan associades amb l’ús hidroelèctric de FEDA, al sector del Forn, Madriu i Valira
+d’Orient, i per a consum domèstic en la resta de sectors (figura 5).
+
+
+
+
+                                                                                                   Pàgina 31 de 48
+Figura 5. Distribució dels consums consumptius de l’hivern en les diferents unitats hidrogeològiques.
+
+
+
+
+Figura 6. Distribució dels consums totals de la primavera en les diferents unitats hidrogeològiques.
+      A la primavera, les extraccions totals són de 41 Hm3 de 108 Hm3 de recurs d’aigua
+disponible, de les quals 5 Hm3 han estat procedents de consums consumptius.
+
+
+                                                                                                   Pàgina 32 de 48
+Figura 7. Distribució dels consums consumptius de la primavera en les diferents unitats hidrogeològiques.
+       A la temporada d’estiu, el recurs disponible ha estat molt baix, s’ha estimat en 7 Hm3 en
+front dels 15 Hm3 totals d’aigua captada, dels quals, 5 Hm3 han estat destinats a usos
+consumptius (aigua de boca i reg agrícola principalment (figures 8 i 9).
+
+
+
+
+Figura 8. Distribució dels consums totals de l’estiu en les diferents unitats hidrogeològiques.
+
+                                                                                                  Pàgina 33 de 48
+Figura 9. Distribució dels consums consumptius de l’estiu en les diferents unitats hidrogeològiques.
+
+
+
+
+Figura 10. Distribució dels consums totals de la tardor en les diferents unitats hidrogeològiques.
+
+
+
+
+                                                                                                     Pàgina 34 de 48
+      A la tardor s’observa que els consums són menors, amb un total de 23 Hm3/tardor i els
+recursos disponibles han augmentat (161 Hm3/tardor), donant lloc a un moment de baixa
+pressió hídrica (figura 10 i 11), tot i així a la unitat del Forn els consums per a ús hidroelèctric
+han estat molt alts. Els consums consumptius també han disminuït, quedant-se per sota el 3
+Hm3.
+
+
+
+
+Figura 11. Distribució dels consums consumptius de la tardor en les diferents unitats hidrogeològiques.
+
+
+
+
+                                                                                                  Pàgina 35 de 48
+4       RESUM DELS RESULTATS
+      S’entén per a usos consumptius quan l’aigua captada es canvia d’ubicació i es retorna al
+medi amb una qualitat i/o quantitat inferior.
+       En el cas d’Andorra, estaríem parlant dels següents consums:
+              Usos domèstics, lúdics (termalisme), industrials
+              Agricultura i ramaderia
+     En relació al conjunt de cabals captats per a usos consumptius, suposa un total de 17,6
+Hm3/any.
+       Les xarxes d’aigua de boca que es disposa d’informació subministren aigua per les
+diferents poblacions d’Andorra, no obstant en totes aquestes poblacions existeixen xarxes
+paral.leles veïnals, la majoria de les quals no es té dades. El càlcul de la despesa hídrica per
+càpita és de mal calcular donada la incertesa de nombre de consumidors que s’abasteixen
+d’aquestes xarxes, però també pel desconeixement del nombre de població de segona
+residència, així com de població formada per turistes que pernocten al país, sobretot en les
+poblacions més preparades com les d’Ordino, La Massana, Encamp i Canillo.
+       A continuació es resumeixen els resultats obtinguts.
+       TOTAL CONSUMPTIU:
+
+
+
+
+                                                      Cabal captat
+                                                                        Població         Despesa litres/dia
+         Despesa            Cabal facturat m3/any        m3/any         resident             /habitant
+
+
+
+    Despesa domèstica            6.226.140             15.071.637                               533
+    Despesa ramaderia                                    93.871                                      3
+    Despesa agricultura                                1.948.923                                 69
+    Despesa hidrotermal           282.986               471.643                                  17
+ Despesa industrial (CTR)                                7.679           77.543                      0
+      TOTAL m3/any                                     17.593.753        77.543                 620
+
+
+
+
+                                                                                   Pàgina 36 de 48
+     Del total de 17,6 Hm3/any d’aigua consumits el 2019 en concepte de despeses
+consumptives, el 86% respon a consum d’aigua domèstica, el 11% en aigua per a ús
+agrícola, i la resta es distribueix en consum d’aigua termal, industrial (CTR) i ramaderia.
+
+Resum interanual dels consum d’aigua captats
+
+                                        2.007            2.008              2.009            2.010                      2.011                        2.012
+            Despesa domèstica       11.373.446,00   11.397.433,00     10.249.263,00      10.684.144,00             10.773.123,93                11.218.287,67
+            Despesa ramaderia         72.993,20        76.642,00         76.137,00         72.924,00                 78.843,79                     76.726,32
+           Despesa agricultura      2.329.746,80     2.203.355,22      2.076.487,00      2.124.773,00              2.039.876,33                  2.062.175,61
+           Despesa hidrotermal       251.963,00       267.957,00        265.760,00        274.112,00                458.345,00                    417.948,33
+         Despesa industrial (CTR)                                         4.275,00         3.086,00                   3.901,00                     4.276,00
+                       3
+               TOTAL m /any         14.028.149,00   13.945.387,22     12.671.922,00      13.159.039,00             13.354.090,05                13.779.413,93
+
+
+                                        2.013         2.014           2.015             2.016              2.017                     2.018              2.019
+Despesa domèstica                    12.138.744     10.924.043      10.887.190        12.016.828         13.010.463                10.830.179         15.071.637
+Despesa ramaderia                      73.417         72.262           73.853           76.245             52.172                    57.590              93.871
+Despesa agricultura                  1.917.276      1.753.528        1.664.764        1.696.040          1.591.216                 1.759.137           1.948.923
+Despesa hidrotermal                   474.157        532.312          545.408          542.025            498.307                   495.010             471.643
+Despesa industrial (CTR)                3.825         3.132             5.813            6.025              6.625                     8.942              7.679
+TOTAL m3/any                         14.607.419     13.285.276      13.177.028        14.337.164         15.158.783                13.150.858         17.593.753
+
+*En l’informe “despesa hídrica al Principat-2007”el consum d’aigua termal es donava el valor de 419.938,3 m3/any quan en
+realitat fou de 251.963 m3/any, fet que també fa variar el consum total
+
+
+
+
+                                                                                                                       Pàgina 37 de 48
+         Al 2019 s’utilitza un 33,8% més d’aigua que a l’any anterior, associat a un increment en
+       el nombre de caps de bestiar i per tant en el consum d’aigua per a ús ramader, també un
+       increment en l’aigua de reg degut a l’augment en les hectàrees conreades amb tabac en
+       un estiu més sec que el del 2018 i finalment i com a més destacable un augment en el
+       consum d’aigua de boca, que es vincula amb l’increment de població i en un augment en
+       el consum per habitant/dia en parròquies com Ordino, Sant julià, Canillo i la Massana.
+
+       TOTAL NO CONSUMPTIU:
+
+
+      S’entén per a usos no consumptius quan l’aigua captada no es canvia d’ubicació i es
+retorna al medi amb una qualitat i/o quantitat no inferior
+       En el cas d’Andorra, estaríem parlant dels següents consums:
+                    Producció d’energia hidroelèctrica
+                    Producció de neu artificial
+                    Explotació piscícola
+      En relació al conjunt de cabals captats per a usos no consumptius, suposa un total de
+100.85 Hm3/any.
+       Consum d’aigua no consumptius
+
+
+
+
+                                 Consum hidroelèctric           Canons de neu                Consum                      TOTAL
+                                                                                             piscícola
+  Cabal captat m3/any                 74.503.508                  1.493.673                  1.300.000                  77.297.181
+   Població resident                                                             77.543
+  Despesa hídrica dia i
+                                           2.625                     53                            46                     2.724
+  càpita (l/dia/persona)
+
+       L’anàlisi interanual permet veure que els consums no han disminuït respecte l’any
+anterior, situant-se amb valors similars a l’any 2009.
+
+                                          2.007         2.008            2.009                 2.010            2.011                2.012
+          hidroelèctric              50.960.000    56.171.000       64.949.000            89.678.000       71.623.000          68.593.000
+         canons de neu                2.135.565     1.152.405        1.444.697             1.370.428        1.390.104           1.508.209
+          aqüicultura                 1.300.000     1.300.000        1.300.000             1.300.000        1.300.000           1.300.000
+         TOTAL m3/any                54.395.565    58.623.405       67.693.697            92.348.428       74.313.104          71.401.209
+
+                                          2.013         2.014            2.015                 2.016            2.017               2.018         2.019
+          hidroelèctric              88.756.992    97.454.016       74.480.256            69.927.840       71.313.696          98.216.321    74.503.508
+         canons de neu                1.244.433       860.414        1.192.912             1.478.921        1.123.666           1.334.061     1.493.673
+          aqüicultura                 1.300.000     1.300.000        1.300.000             1.300.000        1.300.000           1.300.000     1.300.000
+         TOTAL m3/any                91.301.425    99.614.430       76.973.168            72.706.761       73.737.362         100.850.382    77.297.181
+
+
+
+
+        En l’àmbit de la piscicultura, a falta de dades concretes, s’estima que no hi ha hagut
+       variacions.
+                                                                                                         Pàgina 38 de 48
+      CONSUM TOTAL D’AIGUA
+
+
+       La despesa d’aigua TOTAL durant el 2019 ha estat d’uns 95 Hm 3 /any (3.353    P   P
+
+
+
+
+litres/dia/càpita), dels quals 17,6 Hm 3 /any són consumptius, relacionats amb la despesa
+                                         P   P
+
+
+
+
+domèstica, termalisme, industrial, agrícola i ramadera, i 77,3 Hm 3 /any es relacionen amb no
+                                                                     P   P
+
+
+
+
+consumptius, que inclouen els usos hidroelèctrics, l’aqüicultura i la fabricació de neu artificial.
+
+
+
+
+       Del conjunt de 95 Hm 3 /any d’aigua extrets el 2019, el 79% és per a la producció
+                               P   P
+
+
+
+
+d’energia hidroeolèctrica (FEDA i Nordandorrà), seguit del 16% per a aigua de consum de
+boca, i del voltant del 2% per a aigua de reg i canons de neu. La resta d’activitats han consumit
+un total d’un 4%.
+
+
+
+
+                                                                                    Pàgina 39 de 48
+                                                                                   El      recurs
+                                                                            hídric disponible en
+                                                                            el conjunt d’unitats
+                                                                            hidrogeològiques
+                                                                            s’ha calculat que és
+                                                                            de 368 Hm 3 /any,
+                                                                                           P   P
+
+
+
+
+                                                                            segons els resultats
+                                                                            del balanç hídric
+                                                                            (Govern
+                                                                            d’Andorra, 2020), i
+                                                                            s’estima que s’ha
+                                                                            extret    el     26%
+                                                                            d’aquest recurs.
+
+
+
+      Un 5 % del
+recurs captat ha estat
+en concepte d’ús
+consumptiu.
+
+
+
+
+       L’anàlisi dels consums per unitats hidrogeològiques, permet veure que dels 300 Hm3/any
+disponibles s’han usat 95 Hm3/any, essent les unitats amb major extracció d’aigua la del Forn i
+Valira d’Orient. Es tracta de les unitats afectades per a la producció d’energia hidroelèctrica
+(FEDA). Si s’analitza els cabals captats per a extraccions estrictament consumptives aquest
+any en totes les unitats els consums han estat inferiors als 66%.
+      En relació als cabals captats totals durant la temporada d’hivern, dels 24 Hm3 d’aigua
+disponible, s’ha usat 16 Hm3, dels quals 5 Hm3 han estat destinats a cabals captats
+consumptius. S’observa que les unitats de Prat Primer, Engolasters, Madriu, el Forn, Valira
+d’Orient, Ariege, Valira del Nord i Arinsal presenten valors de consums molt alts. Les principals
+extraccions estan associades amb l’ús hidroelèctric de FEDA, al sector del Forn, Madriu i Valira
+d’Orient, i per a consum domèstic en la resta de sectors.
+      A la primavera, les extraccions totals són de 41 Hm3 de 108 Hm3 de recurs d’aigua
+disponible, de les quals 5 Hm3 han estat procedents de consums consumptius.
+       A la temporada d’estiu, el recurs disponible ha estat molt baix, s’ha estimat en 7 Hm3 en
+front dels 18 Hm3 totals d’aigua captada, dels quals, 5 Hm3 han estat destinats a usos
+consumptius (aigua de boca i reg agrícola principalment.
+       A la tardor s’observa que els consums són menors, amb un total de 23 Hm3/tardor i els
+recursos disponibles han augmentat (161 Hm3/tardor), donant lloc a un moment de baixa
+pressió hídrica, tot i així a la unitat del Forn els consums per a ús hidroelèctric han estat molt
+alts. Els consums consumptius també han disminuït, quedant-se per sota el 3 Hm3.
+
+                                                                                   Pàgina 40 de 48
+5       BIBLIOGRAFIA
+       CRECIT-IEA (2005). Estudi sobre la despesa hídrica actual i futura al Principat d’Andorra
+       Govern d’Andorra (2007). Estudi de les aigües subterrànies del Principat d’Andorra.
+       Govern d’Andorra (2020). Elaboració anyal del balanç hídric del Principat d’Andorra. Any
+2019
+
+
+       Àurea Ponsa i Vidales                             Pau Ferrer (col.laborador)
+       Llicenciada en Geologia d’Hídric                  Llicenciat en Geologia d’Eurogeotècnica.
+       NºDecret: 42142/2005
+                                                       Sant Julià de Lòria, 19 de gener del 2020
+
+
+
+
+                                                                                      Pàgina 41 de 48
+6   ANNEX DE TAULES
+
+
+
+
+                      Pàgina 42 de 48
+     Anàlisi anual 2019        Consum aigua potable   Consum canons de neu   Consum Aqüicultura   Consum hidroelèctrica    Consum      Consum ramaderia      consum         Consum agricultura   TOTAL Consum   TOTAL     Pluja útil   Pluja útil disponible % Recurs usat total    Consums      % Recurs usat
+                                     urbana                                                                               Termalisme                      indústria (CTR)                                       Consum                                                             consumptius    consumptiu
+
+
+                                     m3/any                 m3/any                m3/any                m3/any             m3/any          m3/any            m3/any              m3/any             m3/any      Hm3/any   Hm3/any           Hm3/any                                 Hm3/any
+                                                                                                                                                                                                                                                                     %                                 %
+           El Forn                   187920,7                  0,0                  0,0                8727696,0              0,0           4457,5                               86150,6           9006224,8      9,0        1,9               1,7                 >100                0,3           16,3
+     Engolasters-Pessons            1037078,7                  0,0                  0,0                   0,0                0,0              0,0                                62395,3          1099474,0       1,1       19,4              17,4                  6,3                1,1            6,3
+            Madriu                  1515020,0                  0,0                  0,0                12036384,0          471643,3           0,0                                 2549,7          14025597,1     14,0       34,5              31,1                 45,1                2,0            6,4
+             Orris                      0,0                    0,0                  0,0                   0,0                 0,0            972,4                              33517,7              34490,1     0,0        10,4               9,3                  0,4                0,0           0,4
+           Sispony                   319271,7               112989,0                0,0                   0,0                0,0            5159,9                               37412,2            474832,8      0,5        7,8               7,0                  6,8                0,4            5,2
+        Valira d’Orient             1150438,7              1075148,0                0,0                49765968,0             0,0          7725,7                                13975,2          52013255,6     52,0       65,4              58,9                 88,3                1,2            2,0
+          Muntaner                   618234,0                  0,0                  0,0                   0,0                 0,0             0,0                                4851,7             623085,7      0,6        4,5               4,1                 15,3                0,6           15,3
+         Prat Primer                2052833,0                  0,0                  0,0                   0,0                 0,0             0,0             7679,1             50024,9           2110537,0      2,1        4,4               3,9                 53,7                2,1           53,7
+            Enclar                   247423,9                  0,0                  0,0                   0,0                 0,0            53,4                                87553,7            335031,0      0,3        9,6               8,7                  3,9                0,3            3,9
+         Coll Gallina                251073,9                  0,0                  0,0                   0,0                 0,0             0,0                                50389,1           301463,0       0,3        1,8               1,6                 18,6                0,3           18,6
+         Valira Nord                2982100,7               207919,0             1300000,0             3973460,0              0,0             0,0                                   0,0            8463479,6      8,5       40,8              36,7                 23,0                3,0            8,1
+            Arinsal                  957815,0                97617,0                0,0                   0,0                 0,0             0,0                                 3247,1           1058679,1      1,1       14,1              12,7                  8,3                1,0            7,6
+          Pardines                      0,0                    0,0                  0,0                   0,0                 0,0          10556,4                               82375,3            92931,7       0,1        2,7               2,5                  3,8                0,1            3,8
+          Sant Julià                 139608,3                  0,0                  0,0                   0,0                 0,0          16374,7                              395732,8            551715,8      0,6       22,5              20,3                  2,7                0,6            2,7
+            Ordino                  2220167,0                  0,0                  0,0                   0,0                 0,0          1479,9                               125546,3           2347193,2      2,3       11,9              10,7                 21,9                2,3           21,9
+           Padern                       0,0                    0,0                  0,0                   0,0                 0,0           4361,4                              62618,1              66979,6     0,1         3,6               3,2                  2,1                0,1           2,1
+            Aldosa                      0,0                    0,0                  0,0                   0,0                 0,0          3211,2                                45338,0             48549,2      0,0       5,3                4,7                  1,0                0,0            1,0
+                                        0,0                    0,0                  0,0                   0,0                 0,0                                                48354,8            48398,7       0,0        0,6               0,6                  8,6                0,0            8,6
+  Cubeta Pui Olivesa-Runer*                                                                                                                  43,9
+      Cubeta Encamp*                   0,0                    0,0                   0,0                    0,0               0,0            5780,9                              102830,8           108611,7       0,1        1,4               1,2                  8,9                0,1            8,9
+   Cubeta Andorra la Vella-         285048,0                  0,0                   0,0                    0,0               0,0                                                169175,8           456460,4       0,5        5,7               5,1                  8,9                0,5            8,9
+          Escaldes*                                                                                                                         2236,7
+                                       0,0                    0,0                   0,0                    0,0               0,0                                                 50929,1            55603,2       0,1        1,2               1,1                  5,3                0,1            5,3
+Cubeta Sornàs-Pont d'Ordino*                                                                                                                4674,2
+           Ariege                   471598,3                  0,0                   0,0                    0,0               0,0              0,0                                  0,0             471598,3       0,5        6,6               6,0                  7,9                0,5            7,9
+          Encamp                       0,0                    0,0                   0,0                    0,0               0,0            528,6                                56398,8            56927,4       0,1        7,2               6,5                  0,9                0,1            0,9
+         Montaup                    388581,7                  0,0                   0,0                    0,0               0,0             65,9                                12589,7           401237,2       0,4       13,8              12,4                  3,2                0,4            3,2
+   Cubeta Llorts-Arans*               0,0                     0,0                   0,0                    0,0               0,0            2049,6                               39316,4           41366,0        0,0       1,8                1,6                  2,6                0,0            2,6
+            Erts                       0,0                    0,0                   0,0                    0,0               0,0              0,0                                60072,0           60072,0        0,1       10,0               9,0                  0,7                0,1            0,7
+                                       0,0                    0,0                   0,0                    0,0               0,0                                                 27972,4           32239,6        0,0        1,1               0,9                  3,4                0,0            3,4
+ Cubeta La Cortinada-Sornàs*                                                                                                                4267,2
+      Cubeta La Bartra*                0,0                    0,0                   0,0                    0,0               0,0              0,0                                 2418,8            2418,8        0,0        0,6              0,5                    0,5               0,0           0,5
+Cubeta de la Massana*                  0,0                    0,0                   0,0                    0,0               0,0            1141,4                              209350,4           210491,8       0,2        2,0              1,8                   11,9               0,2           11,9
+            Salines                    0,0                    0,0                   0,0                    0,0               0,0            2545,6                               25836,2            28381,9       0,0        3,7              3,3                    0,8               0,0           0,8
+                                    247423,9                  0,0                                          0,0               0,0             0,0                                   0,0             247423,9       0,2       16,4              14,7                   1,7               0,2           1,7
+                                                                                    0,0
+Ós de Civís
+       cubeta montaup                 0,0                     0,0                   0,0                    0,0               0,0             0,0                                   0,0                0,0        0,0         0,3              0,3                   0,0               0,0             0,0
+        Indeterminada                 0,0                     0,0                   0,0                   0,0                0,0           16184,2                                 0,0             16184,2        0,0                         0,0                                     0,0
+             total                 15071637,4              1493673,0             1300000,0             74503508,0          471643,3        93870,6            7679,1            1948923,1         94890934,5     94,9      332,9             299,6                                    17,6
+
+
+Resum dels consums anuals entre les diferents unitats on es tenen inventariats consums.
+*En el cas de les cubetes el valor de la pluja útil, equival a la capacitat d’emmagatzematge de cada cubeta.
+
+
+
+
+                                                                                                                                                                                                                                                                      Pàgina 43 de 48
+Resum dels consums de la temporada d’hivern entre les diferents unitats on es tenen inventariats consums.
+*En el cas de les cubetes el valor de la pluja útil, equival a la capacitat d’emmagatzematge de cada cubeta.
+  Anàlisi hivern 2019       Consum aigua potable   Consum canons de   Consum Aqüicultura   Consum hidroelèctric   Consum Termalisme   Consum ramaderia   consum      Consum agricultura   TOTAL Consum   TOTAL     Pluja útil   Pluja útil disponible % Recurs usat total    Consums      % Recurs usat
+                                  urbana                 neu                                                                                             indústria                                       Consum                                                             consumptius    consumptiu
+                                                                                                                                                          (CTR)
+
+                                  m3/any               m3/any              m3/any                m3/any                m3/any             m3/any         m3/any           m3/any             m3/any      Hm3/any   Hm3/any          Hm3/any                                  Hm3/any
+                                                                                                                                                                                                                                                              %                                 %
+        El Forn                   39855,7                 0,0                0,0               1273968,0                0,0                243,1                            0,0             1314066,8      1,3        0,4              0,4                  >100                0,0           11,0
+  Engolasters-Pessons            350882,7                 0,0                0,0                   0,0                  0,0                 0,0                             0,0             350882,7       0,4        0,4              0,3                  >100                0,4           >100
+         Madriu                  377014,0                 0,0                0,0               1255392,0              135225,0              0,0                             0,0             1767631,0      1,8        0,6              0,6                  >100                0,5           90,2
+          Orris                     0,0                   0,0                0,0                   0,0                  0,0                128,8                            0,0                128,8       0,0        0,2              0,2                   0,1                0,0            0,1
+        Sispony                   89718,8              41038,0               0,0                   0,0                  0,0                297,2                            0,0             131054,0       0,1        1,3              1,2                  11,1                0,1            7,6
+     Valira d’Orient             326435,0              476856,0              0,0               7531056,0                 0,0               525,5                            0,0             8334872,5      8,3        1,4              1,2                  >100                0,3           26,3
+       Muntaner                  115540,0                 0,0                0,0                   0,0                  0,0                 0,0                             0,0              115540,0      0,1        0,7              0,7                  17,2                0,1           17,2
+      Prat Primer                527430,0                 0,0                0,0                   0,0                  0,0                 0,0          2853,3             0,0              530283,3      0,5        0,6              0,6                  90,7                0,5           90,7
+         Enclar                   55896,1                 0,0                0,0                   0,0                  0,0                 6,7                             0,0              55902,8       0,1        1,5              1,4                   4,0                0,1            4,0
+      Coll Gallina                56846,1                 0,0                0,0                   0,0                  0,0                 0,0                             0,0               56846,1      0,1        0,3              0,3                  20,6                0,1           20,6
+      Valira Nord                937168,3               48735,0              0,0                356120,1                0,0                 0,0                             0,0             1342023,4      1,3        0,8              0,7                  >100                0,9           >100
+         Arinsal                 269156,3              46337,0               0,0                   0,0                  0,0                 0,0                             0,0              315493,3      0,3        0,3              0,2                  >100                0,3           >100
+       Pardines                     0,0                   0,0                0,0                   0,0                   0,0               590,4                            0,0                590,4       0,0        0,5              0,5                   0,1                0,0            0,1
+       Sant Julià                26811,7                  0,0                0,0                   0,0                  0,0                897,0                            0,0               27708,7      0,0        3,5              3,2                   0,9                0,0            0,9
+         Ordino                  849865,0                 0,0                0,0                   0,0                  0,0                186,7                            0,0              850051,7      0,9        2,4              2,1                  39,9                0,9           39,9
+        Padern                      0,0                   0,0                0,0                   0,0                  0,0                261,2                            0,0                261,2       0,0        0,6              0,5                   0,1                0,0            0,1
+         Aldosa                     0,0                   0,0                0,0                   0,0                  0,0                192,4                            0,0                192,4       0,0        1,0              0,9                   0,0                0,0            0,0
+                                    0,0                   0,0                0,0                   0,0                  0,0                                                 0,0                 5,4        0,0        0,2              0,1                   0,0                0,0            0,0
+Cubeta Pui Olivesa-Runer*                                                                                                                   5,4
+    Cubeta Encamp*                  0,0                  0,0                 0,0                   0,0                   0,0               275,4                            0,0               275,4        0,0        0,3               0,3                  0,1                0,0            0,1
+ Cubeta Andorra la Vella-         60565,0                0,0                 0,0                   0,0                   0,0                                                0,0              60664,9       0,1        1,4               1,3                  4,8                0,1            4,8
+        Escaldes*                                                                                                                           99,9
+   Cubeta Sornàs-Pont               0,0                  0,0                 0,0                   0,0                   0,0                                                0,0               243,9        0,0        0,3               0,3                  0,1                0,0            0,1
+        d'Ordino*                                                                                                                          243,9
+         Ariege                  238063,3                0,0                 0,0                   0,0                   0,0                0,0                             0,0             238063,3       0,2        0,1              0,1                  >100                0,2           >100
+        Encamp                      0,0                  0,0                 0,0                   0,0                   0,0               65,3                             0,0               65,3         0,0        1,5              1,3                   0,0                0,0            0,0
+        Montaup                   98530,0                0,0                 0,0                   0,0                   0,0                8,1                             0,0             98538,1        0,1        0,3              0,3                  36,9                0,1           36,9
+  Cubeta Llorts-Arans*              0,0                  0,0                 0,0                   0,0                   0,0               201,6                            0,0              201,6         0,0        0,5              0,4                   0,0                0,0            0,0
+           Erts                     0,0                  0,0                 0,0                   0,0                   0,0                0,0                             0,0                0,0         0,0        1,8              1,6                   0,0                0,0            0,0
+  Cubeta La Cortinada-              0,0                  0,0                 0,0                   0,0                   0,0                                                0,0              241,2         0,0        0,3              0,2                   0,1                0,0            0,1
+         Sornàs*                                                                                                                           241,2
+    Cubeta La Bartra*               0,0                  0,0                 0,0                   0,0                   0,0                0,0                             0,0                0,0         0,0        0,1              0,1                   0,0                0,0            0,0
+Cubeta de la Massana*               0,0                  0,0                 0,0                   0,0                   0,0               140,4                            0,0               140,4        0,0        0,5              0,4                   0,0                0,0            0,0
+         Salines                    0,0                  0,0                 0,0                   0,0                   0,0               313,3                            0,0               313,3        0,0        0,1              0,1                   0,5                0,0            0,5
+                                  55896,1                0,0                                       0,0                   0,0                0,0                             0,0              55896,1       0,1        2,6              2,4                   2,4                0,1            2,4
+                                                                             0,0
+Ós de Civís
+     cubeta montaup                 0,0                   0,0                0,0                   0,0                  0,0                 0,0                            0,0                0,0         0,0         0,1              0,1                   0,0                0,0            0,0
+      Indeterminada                 0,0                   0,0                0,0                   0,0                   0,0               1370,0                          0,0               1370,0        0,0                          0,0                                     0,0
+            total                4475674,0             612966,0              0,0               10416536,1             135225,0             6293,4        2853,3            0,0             15649547,8     15,6       26,7              24,0                                     4,6
+         *cubetes                                                                                                                                        TOTAL          15649547,8                                                      4,3
+
+
+
+
+                                                                                                                                                                                                                                                                   Pàgina 44 de 48
+Resum dels consums de la temporada de la primavera entre les diferents unitats on es tenen inventariats consums.
+*En el cas de les cubetes el valor de la pluja útil, equival a la capacitat d’emmagatzematge de cada cubeta.
+  Anàlisi primavera 2019      Consum aigua potable   Consum canons   Consum Aqüicultura   Consum hidroelèctric   Consum Termalisme    Consum         consum      Consum agricultura   TOTAL Consum   TOTAL Consum   Pluja útil   Pluja útil disponible   % Recurs usat             % Recurs usat
+                                    urbana               de neu                                                                      ramaderia   indústria (CTR)                                                                                             total                  consumptiu
+
+
+                                    m3/any              m3/any            m3/any                m3/any                m3/any          m3/any        m3/any            m3/any             m3/any        Hm3/any      Hm3/any           Hm3/any                            Hm3/any
+                                                                                                                                                                                                                                                               %                        %
+         El Forn                     42076,7              0,0               0,0               3283632,0                0,0            1404,8                            0,0            3327113,5          3,3          0,5               0,4                 >100          0,0          9,9
+   Engolasters-Pessons             254872,3               0,0               0,0                  0,0                    0,0             0,0                             0,0              254872,3         0,3          8,2               7,4                  3,4          0,3          3,4
+          Madriu                    364163,0              0,0               0,0               5768064,0              118570,0           0,0                             0,0             6250797,0         6,3         14,6               13,1                47,7          0,5          3,7
+           Orris                       0,0                0,0               0,0                  0,0                   0,0             281,2                            0,0                 281,2         0,0          4,5               4,1                  0,0          0,0          0,0
+         Sispony                     74827,1              0,0               0,0                  0,0                    0,0           1620,9                            0,0               76448,0         0,1         1,9                1,7                  4,4          0,1          4,4
+      Valira d’Orient               274197,5              0,0               0,0               24757488,0               0,0            2400,1                            0,0            25034085,6        25,0         28,6               25,7                97,2          0,3          1,1
+        Muntaner                   168015,0               0,0               0,0                  0,0                    0,0             0,0                             0,0              168015,0         0,2          1,2               1,0                 16,0          0,2         16,0
+       Prat Primer                  454052,0              0,0               0,0                  0,0                    0,0             0,0         1698,2              0,0              455750,2         0,5          1,2               1,1                 43,0          0,5         43,0
+          Enclar                     60774,4              0,0               0,0                  0,0                   0,0             15,6                             0,0              60790,0          0,1         2,5                2,3                  2,7          0,1          2,7
+       Coll Gallina                  61579,4              0,0               0,0                  0,0                    0,0             0,0                             0,0              61579,4          0,1          0,5               0,4                 14,8          0,1         14,8
+       Valira Nord                 1304414,3              0,0            433333,3             2006443,0                0,0              0,0                             0,0            3744190,7          3,7         16,2               14,6                25,6          1,3          8,9
+          Arinsal                  224481,3               0,0               0,0                  0,0                   0,0              0,0                             0,0             224481,3          0,2          5,6               5,0                  4,5          0,2          4,5
+        Pardines                       0,0                0,0               0,0                  0,0                   0,0            3322,0                            0,0                3322,0         0,0          0,7               0,6                  0,5          0,0          0,5
+        Sant Julià                   30673,3              0,0               0,0                  0,0                    0,0           5159,2                            0,0               35832,6         0,0          6,1               5,5                  0,7          0,0          0,7
+          Ordino                   1281854,0              0,0               0,0                  0,0                   0,0             431,1                            0,0            1282285,1          1,3          2,9               2,6                 49,9          1,3         49,9
+         Padern                        0,0                0,0               0,0                  0,0                    0,0           1366,8                            0,0               1366,8          0,0         0,9                0,8                  0,2          0,0          0,2
+          Aldosa                       0,0                0,0               0,0                  0,0                   0,0            1006,3                            0,0                1006,3         0,0          1,3               1,1                  0,1          0,0          0,1
+                                       0,0                0,0               0,0                  0,0                    0,0                                             0,0                 12,8          0,0          0,2               0,1                  0,0          0,0          0,0
+ Cubeta Pui Olivesa-Runer*                                                                                                             12,8
+     Cubeta Encamp*                   0,0                 0,0               0,0                   0,0                   0,0           1835,2                            0,0               1835,2         0,0           0,3               0,3                  0,6          0,0          0,6
+  Cubeta Andorra la Vella-          96733,0               0,0               0,0                   0,0                   0,0                                             0,0              97445,3         0,1           1,4               1,3                  7,6          0,1          7,6
+         Escaldes*                                                                                                                     712,3
+    Cubeta Sornàs-Pont                0,0                 0,0               0,0                   0,0                   0,0                                             0,0              1476,8          0,0           0,3               0,3                  0,6          0,0          0,6
+         d'Ordino*                                                                                                                    1476,8
+          Ariege                    60458,3               0,0               0,0                   0,0                   0,0             0,0                             0,0              60458,3         0,1           2,9               2,6                  2,3          0,1          2,3
+         Encamp                       0,0                 0,0               0,0                   0,0                   0,0           154,5                             0,0                154,5         0,0           1,8               1,6                  0,0          0,0          0,0
+         Montaup                    92301,7               0,0               0,0                   0,0                   0,0            19,3                             0,0              92320,9         0,1           5,8               5,3                  1,8          0,1          1,8
+   Cubeta Llorts-Arans*               0,0                 0,0               0,0                   0,0                   0,0            616,0                            0,0                616,0         0,0           0,5               0,4                  0,2          0,0          0,2
+            Erts                      0,0                 0,0               0,0                   0,0                   0,0             0,0                             0,0                 0,0          0,0           2,4               2,2                  0,0          0,0          0,0
+                                      0,0                 0,0               0,0                   0,0                   0,0                                             0,0               1342,0         0,0           0,3               0,2                  0,6          0,0          0,6
+Cubeta La Cortinada-Sornàs*                                                                                                           1342,0
+     Cubeta La Bartra*                0,0                 0,0               0,0                   0,0                   0,0             0,0                             0,0                0,0           0,0           0,1               0,1                  0,0          0,0          0,0
+Cubeta de la Massana*                 0,0                 0,0               0,0                   0,0                   0,0           333,7                             0,0               333,7          0,0           0,5               0,4                  0,1          0,0          0,1
+          Salines                     0,0                 0,0               0,0                   0,0                   0,0           744,1                             0,0               744,1          0,0           1,5               1,3                  0,1          0,0          0,1
+                                    60774,4               0,0                                     0,0                   0,0             0,0                             0,0              60774,4         0,1           4,2               3,8                  1,6          0,1          1,6
+                                                                            0,0
+Ós de Civís
+      cubeta montaup                  0,0                 0,0               0,0                   0,0                   0,0             0,0                            0,0                 0,0                         0,1               0,1                  0,0          0,0          0,0
+       Indeterminada                  0,0                 0,0               0,0                   0,0                  0,0            4938,1                            0,0              4938,1           0,0                            0,0                               0,0
+            total                  4906247,9              0,0            433333,3             35815627,0             118570,0        29192,4        1698,2             0,0             41304668,8        41,3        119,5              107,5                              5,1
+          *cubetes                                                                                                                                  TOTAL           41304668,8                                                           73,2
+
+
+
+
+                                                                                                                                                                                                                                                                Pàgina 45 de 48
+Resum dels consums de la temporada de la estiu entre les diferents unitats on es tenen inventariats consums.
+*En el cas de les cubetes el valor de la pluja útil, equival a la capacitat d’emmagatzematge de cada cubeta.
+   Anàlisi estiu_2019       Consum aigua potable    Consum     Consum Aqüicultura Consum hidroelèctric    Consum      Consum ramaderia   consum      Consum agricultura   TOTAL Consum   TOTAL     Pluja útil   Pluja útil disponible % Recurs usat total    Consums      % Recurs usat
+                                  urbana         canons de neu                                           Termalisme                      indústria                                       Consum                                                             consumptius    consumptiu
+                                                     i golf                                                                                (CTR)
+
+                                  m3/any             m3/any          m3/any              m3/any           m3/any          m3/any         m3/any           m3/any             m3/any      Hm3/any   Hm3/any          Hm3/any                                  Hm3/any
+                                                                                                                                                                                                                                             %                                 %
+        El Forn                   43674,0             0,0             0,0               1368576,0           0,0            1404,8                         86150,6           1499805,4      1,5        0,0               0,0                 >100                0,1           >100
+  Engolasters-Pessons            210073,3             0,0             0,0                  0,0               0,0             0,0                         62395,3            272468,6       0,3        0,0               0,0                 >100                0,3           >100
+         Madriu                  420911,0             0,0             0,0               1640736,0         104805,0           0,0                          2549,7            2169001,7      2,2        0,1               0,1                 >100                0,5           >100
+          Orris                     0,0               0,0             0,0                  0,0               0,0            281,2                         33517,7            33798,9       0,0        0,0               0,0                 >100                0,0           >100
+        Sispony                   84080,0             0,0             0,0                  0,0               0,0           1620,9                         37412,2           123113,1       0,1        0,0               0,0                 >100                0,1           >100
+     Valira d’Orient             264489,1           40257,0           0,0               5469120,0           0,0            2400,1                        13975,2            5790241,3      5,8        0,7               0,6                 >100                0,3           43,7
+       Muntaner                  151761,0             0,0             0,0                  0,0               0,0             0,0                           4851,7           156612,7       0,2        0,0               0,0                 >100                0,2           >100
+      Prat Primer                548075,0             0,0              0,0                 0,0               0,0              0,0        1526,5          50024,9             599626,4      0,6        0,0               0,0                 >100                0,6           >100
+         Enclar                   66877,2             0,0             0,0                  0,0               0,0             15,6                         87553,7           154446,5       0,2        0,0               0,0                 >100                0,2           >100
+      Coll Gallina                67853,9             0,0              0,0                 0,0               0,0              0,0                        50389,1             118243,0      0,1        0,0               0,0                 >100                0,1           >100
+      Valira Nord                404570,7            964,0          433333,3            725391,1            0,0              0,0                             0,0            1564259,1      1,6        1,8               1,6                 95,0                0,4           24,6
+         Arinsal                 252240,0             0,0             0,0                  0,0              0,0               0,0                          3247,1            255487,1      0,3        0,4               0,4                 68,5                0,3           68,5
+       Pardines                     0,0               0,0             0,0                  0,0               0,0           3322,0                        82375,3             85697,3       0,1        0,0               0,0                 >100                0,1           >100
+       Sant Julià                 51938,3             0,0             0,0                  0,0               0,0           5159,2                        395732,8           452830,4       0,5        0,0               0,0                 >100                0,5           >100
+         Ordino                  48295,0              0,0             0,0                  0,0              0,0            431,1                         125546,3            174272,4      0,2        0,0               0,0                 >100                0,2           >100
+        Padern                      0,0               0,0             0,0                  0,0               0,0           1366,8                        62618,1             63984,9       0,1        0,0               0,0                 >100                0,1           >100
+         Aldosa                     0,0               0,0             0,0                  0,0              0,0            1006,3                        45338,0             46344,3       0,0        0,0               0,0                 >100                0,0           >100
+                                    0,0               0,0             0,0                  0,0              0,0                                           48354,8            48367,6       0,0        0,2               0,1                 34,4                0,0           34,4
+Cubeta Pui Olivesa-Runer*                                                                                                   12,8
+    Cubeta Encamp*                  0,0               0,0              0,0                 0,0              0,0            1835,2                        102830,8           104666,0       0,1        0,3               0,3                  34,5               0,1           34,5
+ Cubeta Andorra la Vella-         72406,0             0,0              0,0                 0,0              0,0                                          169175,8           242294,0       0,2        1,4               1,3                  19,0               0,2           19,0
+        Escaldes*                                                                                                          712,3
+   Cubeta Sornàs-Pont               0,0                0,0             0,0                 0,0              0,0                                           50929,1            52405,8       0,1        0,3               0,3                  19,8               0,1           19,8
+        d'Ordino*                                                                                                          1476,8
+         Ariege                   91421,7             0,0              0,0                 0,0              0,0              0,0                            0,0             91421,7        0,1        0,2               0,2                 52,4                0,1           52,4
+        Encamp                      0,0               0,0              0,0                 0,0              0,0            154,5                          56398,8           56553,3        0,1        0,0               0,0                 >100                0,1           >100
+        Montaup                  102596,7             0,0              0,0                 0,0              0,0              19,3                         12589,7           115205,6       0,1        0,1               0,1                 92,9                0,1           92,9
+  Cubeta Llorts-Arans*              0,0               0,0              0,0                 0,0              0,0             616,0                         39316,4           39932,4        0,0        0,5               0,4                  9,9                0,0            9,9
+           Erts                     0,0               0,0              0,0                 0,0              0,0              0,0                          60072,0           60072,0        0,1        0,0               0,0                 >100                0,1           >100
+  Cubeta La Cortinada-              0,0               0,0              0,0                 0,0              0,0                                           27972,4           29314,4        0,0        0,3               0,2                 12,4                0,0           12,4
+         Sornàs*                                                                                                           1342,0
+    Cubeta La Bartra*               0,0               0,0              0,0                 0,0              0,0             0,0                           2418,8             2418,8        0,0        0,1               0,1                   1,9               0,0            1,9
+Cubeta de la Massana*               0,0               0,0              0,0                 0,0              0,0            333,7                         209350,4           209684,1       0,2        0,5               0,4                  47,3               0,2           47,3
+         Salines                    0,0               0,0              0,0                 0,0              0,0            744,1                         25836,2            26580,3        0,0        0,1               0,1                  32,8               0,0           32,8
+                                  66877,2             0,0                                  0,0              0,0              0,0                            0,0              66877,2       0,1        0,1               0,1                  58,1               0,1           58,1
+                                                                       0,0
+Ós de Civís
+     cubeta montaup                 0,0               0,0             0,0                  0,0              0,0             0,0                             0,0                0,0                    0,1               0,1                  0,0                0,0            0,0
+      Indeterminada                 0,0               0,0             0,0                  0,0              0,0           4938,1                            0,0              4938,1       0,0                           0,0                                     0,0
+           total                 2948140,1          41221,0         433333,3            9203823,1         104805,0        29192,4        1526,5          1948923,1         14710964,4     14,7        7,4               6,7                                     5,0
+         *cubetes                                                                                                                        TOTAL          14710964,4
+
+
+
+
+                                                                                                                                                                                                                                                       Pàgina 46 de 48
+Resum dels consums de la temporada de tardor entre les diferents unitats on es tenen inventariats consums.
+*En el cas de les cubetes el valor de la pluja útil equival a la capacitat d’emmagatzematge de cada cubeta.
+     Anàlisi tardor_2019        Consum aigua potable Consum canons    Consum       Consum hidroelèctric    Consum       Consum         consum         Consum       TOTAL Consum   TOTAL     Pluja útil   Pluja útil disponible % Recurs usat    Consums      % Recurs usat
+                                      urbana             de neu      Aqüicultura                          Termalisme   ramaderia   indústria (CTR)   agricultura                  Consum                                           total       consumptius    consumptiu
+
+
+                                      m3/any            m3/any        m3/any             m3/any            m3/any       m3/any        m3/any          m3/any          m3/any      Hm3/any   Hm3/any          Hm3/any                            Hm3/any
+                                                                                                                                                                                                                                   %                              %
+           El Forn                   62314,3              0,0          0,0              2801520,0            0,0        1404,8                          0,0          2865239,1      2,9        1,0               0,9              >100             0,1            7,0
+     Engolasters-Pessons             221250,3             0,0          0,0                 0,0               0,0           0,0                          0,0          221250,3       0,2       10,7               9,6               2,3             0,2           2,3
+            Madriu                   352932,0             0,0          0,0              3372192,0          113043,3        0,0                          0,0          3838167,3      3,8       19,3              17,3              22,1             0,5           2,7
+             Orris                      0,0               0,0          0,0                  0,0              0,0         281,2                          0,0            281,2       0,0         5,6               5,0               0,0             0,0            0,0
+           Sispony                   70645,8            71951,0        0,0                  0,0              0,0        1620,9                          0,0           144217,7     0,1         4,5               4,1               3,6             0,1            1,8
+        Valira d’Orient              285317,1          558035,0        0,0             12008304,0            0,0        2400,1                          0,0         12854056,2     12,9       34,7              31,3              41,1             0,3            0,9
+          Muntaner                   182918,0             0,0          0,0                  0,0              0,0           0,0                          0,0           182918,0     0,2         2,6               2,3               7,8             0,2            7,8
+         Prat Primer                 523276,0             0,0          0,0                 0,0               0,0           0,0         1601,1           0,0          524877,1       0,5        2,5               2,3              23,0             0,5           23,0
+            Enclar                   63876,1              0,0          0,0                  0,0              0,0          15,6                          0,0           63891,7      0,1         5,6               5,0               1,3             0,1            1,3
+         Coll Gallina                64794,4              0,0          0,0                 0,0               0,0           0,0                          0,0           64794,4       0,1        1,0               0,9               7,0             0,1           7,0
+         Valira Nord                 335947,3          158220,0      433333,3            885505,8            0,0           0,0                          0,0          1813006,5     1,8        21,9              19,7               9,2             0,3            1,7
+            Arinsal                  211937,5           51280,0        0,0                 0,0               0,0           0,0                          0,0          263217,5      0,3         7,9               7,1               3,7             0,2            3,0
+          Pardines                      0,0               0,0          0,0                  0,0              0,0        3322,0                          0,0            3322,0       0,0        1,6               1,4               0,2             0,0            0,2
+          Sant Julià                 30185,0              0,0          0,0                  0,0              0,0        5159,2                          0,0           35344,2      0,0        12,9              11,6               0,3             0,0            0,3
+            Ordino                   40153,0              0,0          0,0                 0,0               0,0         431,1                          0,0           40584,1      0,0         6,6               6,0               0,7             0,0            0,7
+           Padern                       0,0               0,0          0,0                  0,0              0,0        1366,8                          0,0            1366,8       0,0        2,1               1,9               0,1             0,0            0,1
+            Aldosa                      0,0               0,0          0,0                 0,0               0,0        1006,3                          0,0            1006,3      0,0         3,0               2,7               0,0             0,0            0,0
+                                        0,0               0,0          0,0                 0,0               0,0                                        0,0             12,8        0,0        0,2               0,1               0,0             0,0            0,0
+  Cubeta Pui Olivesa-Runer*                                                                                              12,8
+      Cubeta Encamp*                   0,0               0,0            0,0                0,0               0,0        1835,2                          0,0            1835,2       0,0        0,3              0,3                0,6             0,0            0,6
+   Cubeta Andorra la Vella-          55344,0             0,0            0,0                0,0               0,0                                        0,0           56056,3       0,1        1,4              1,3                4,4             0,1            4,4
+          Escaldes*                                                                                                      712,3
+                                        0,0              0,0            0,0                0,0               0,0                                        0,0           1476,8        0,0        0,3              0,3                0,6             0,0            0,6
+ Cubeta Sornàs-Pont d'Ordino*                                                                                           1476,8
+            Ariege                   81655,0             0,0            0,0                0,0               0,0          0,0                           0,0           81655,0       0,1        3,4              3,1                2,7             0,1            2,7
+           Encamp                      0,0               0,0            0,0                0,0               0,0         154,5                          0,0             154,5       0,0        3,9              3,5                0,0             0,0            0,0
+          Montaup                    95153,3             0,0            0,0                0,0               0,0         19,3                           0,0           95172,6       0,1        7,5              6,8                1,4             0,1            1,4
+    Cubeta Llorts-Arans*               0,0               0,0            0,0                0,0               0,0         616,0                          0,0             616,0       0,0        0,5              0,4                0,2             0,0            0,2
+             Erts                      0,0               0,0            0,0                0,0               0,0          0,0                           0,0              0,0        0,0        5,8              5,2                0,0             0,0            0,0
+                                       0,0               0,0            0,0                0,0               0,0                                        0,0            1342,0       0,0        0,3              0,2                0,6             0,0            0,6
+ Cubeta La Cortinada-Sornàs*                                                                                            1342,0
+       Cubeta La Bartra*               0,0               0,0            0,0                0,0               0,0          0,0                           0,0             0,0         0,0        0,1              0,1                0,0             0,0            0,0
+Cubeta de la Massana*                  0,0               0,0            0,0                0,0               0,0         333,7                          0,0            333,7        0,0        0,5              0,4                0,1             0,0            0,1
+            Salines                    0,0               0,0            0,0                0,0               0,0         744,1                          0,0            744,1        0,0        2,1              1,9                0,0             0,0            0,0
+                                     63876,1             0,0                               0,0               0,0          0,0                           0,0           63876,1       0,1        9,4              8,5                0,8             0,1            0,8
+                                                                        0,0
+Ós de Civís
+        cubeta montaup                 0,0               0,0           0,0                 0,0                0,0        0,0                             0,0            0,0                    0,1               0,1               0,0             0,0            0,0
+         Indeterminada                 0,0               0,0           0,0                 0,0                0,0      4938,1                            0,0          4938,1        0,0                          0,0                               0,0
+              total                 2741575,4          839486,0      433333,3          19067521,8          113043,3    29192,4         1601,1            0,0        23225753,4     23,2      179,3             161,4                               2,9
+            *cubetes                                                                                                   TOTAL                         23225753,4                                                 95,4
+
+
+
+
+                                                                                                                                                                                                                                         Pàgina 47 de 48
+www.mediambient.ad
+

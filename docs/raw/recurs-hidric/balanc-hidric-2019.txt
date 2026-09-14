@@ -1,0 +1,785 @@
+FORA_DEL_CORPUS — Balanç hídric2019, datat21-12-2020. Extracció pdftotext -layout13-09-2026. Drets pendents; no datasets. Salts de pàgina delPDF.
+
+ESTUDI PER A L’ELABORACIÓ ANYAL DEL
+    BALANÇ HÍDRIC DEL PRINCIPAT
+            D'ANDORRA
+            - ANY 2019 -
+
+
+
+
+              Desembre 2020
+1     OBJECTIUS ............................................................................................................................ 3
+2     DADES BASE DE PRECIPITACIÓ I TEMPERATURA ........................................................... 4
+3     CÀLCUL DEL BALANÇ HÍDRIC ............................................................................................. 6
+3.1 RESULTATS DEL BALANÇ HÍDRIC ...................................................................................... 6
+4     CONTRAST DE RESULTATS ................................................................................................ 7
+4.1 ANÀLISI DELS CABALS AFORATS ....................................................................................... 7
+5     EL BALANÇ HÍDRIC EN LES UNITATS HIDROGEOLÒGIQUES ........................................ 10
+6     CONCLUSIONS .................................................................................................................... 17
+7     BIBLIOGRAFIA ..................................................................................................................... 18
+8     ANNEX DE DOCUMENTACIÓ. CÀLCUL DEL BALANÇ HÍDRIC ......................................... 19
+8.1 CÀLCUL DE L’EVAPOTRANSPIRACIÓ ............................................................................... 20
+8.1.1   Generalitats ....................................................................................................................... 20
+8.1.2   Aplicació del mètode empíric de Thornthwaite .................................................................. 20
+8.2 CÀLCUL DE LA PLUJA ÚTIL ................................................................................................ 23
+8.3 ESTIMACIÓ DEL DÈFICIT HÍDRIC ...................................................................................... 24
+8.4 EVOLUCIÓ DE LA RESERVA D’AIGUA DEL SÒL............................................................... 25
+8.5 COMPROVACIÓ RESULTATS ............................................................................................. 27
+
+
+
+
+                                                                                                                         Pàgina 2 de 29
+1       OBJECTIUS
+         L’objectiu del present document, com el d’anys anteriors, és el d’estimar els recursos
+hídrics subterranis del Principat, en aquest cas, per l’any 2019, en base a un balanç hídric.
+          Per dur a terme el balanç hídric es tenen en compte dues dades bàsiques, per una banda
+els aports d’aigua procedents de les precipitacions mensuals, i per l’altra la temperatura màxima i
+mínima diària. Des del 2016 és el CENMA –Centre d’estudis de la neu i de la muntanya d’Andorra-
+qui ens proporciona les dades base de precipitació i temperatura. Així mateix, el CENMA també ens
+ha facilitat la distribució de la temperatura i precipitació per a un any mig (període 1981-2010).
+          Malgrat que el CENMA facilita els mapes base amb els límits administratius (territori
+andorrà), per a l’estimació dels recursos hídrics es treballa amb els límits de conques
+hidrogeològiques, abastant una superfície de 522,26 Km2, que inclou territori andorrà i
+transfronterer. Totes les figures que es presenten en el present document fan referència a aquests
+límits, tot i que es podrà observar que tant es donen resultats que tracten sobre el domini andorrà
+(límit administratiu) com sobre el domini d’estudi (conques hidrogeològiques).
+        Comentar, finalment que des de finals del 2017 ha canviat la superfície d’Andorra (límit
+administratiu): el Servei de Cartografia del Govern d’Andorra proporciona la dada de 467,45 Km2,
+enlloc dels 467,7 Km2 que hi havia fins al moment.
+
+
+
+
+                                                                                   Pàgina 3 de 29
+2        DADES BASE DE PRECIPITACIÓ I
+         TEMPERATURA
+        Des del 2016 el model de precipitació i temperatura el proporciona el CENMA. S’elaboren
+mapes mensuals tenint en compte una àmplia xarxa d’estacions meteorològiques d’Andorra, amb
+registres en continu de dades climàtiques. Les estacions usades per aquest centre han estat:
+
+a)   CENMA: Aixàs, Bony de les Neres, Sorteny, Perafita
+b)   FEDA: Ransol, Central
+c)   Govern: Roc de sant Pere, Borda Vidal, La comella, Les Salines
+d)   MeteoFrance: Hospitalet près l’Andorre
+         Les dades recollides passen un control de qualitat. Per elaborar els mapes de temperatura
+i precipitació han utilitzat les estacions que presenten com a molt 3 dies consecutius o 5 dies no
+consecutius sense dades al mes, tot i que si se sap que no hi ha hagut precipitació en aquests dies,
+si que s’utilitza la informació del mes.
+         A continuació es donen els resultats de precipitació i temperatura del 2019.
+         El mapa de distribució de les precipitacions anuals permet veure que es tenen valors
+màxims d’entre 1300 i 1500 mm al nord i est del país, i mínims entre 830 i 1200 mm als fons de vall
+i sobretot al sud del país.
+         A nivell de país, el valor mig és de 1180 mm (límit administratiu).
+En la figura 1 es mostra el model de distribució de les precipitacions de l’any 2019.
+
+
+
+
+     Figura 1. Mapa d’isohietes de les precipitacions acumulades el 2019. Dades base facilitades pel CENMA
+
+
+
+                                                                                            Pàgina 4 de 29
+                                                                                 Si es comparen les
+                                                                            precipitacions acumulades el
+                                                                            2019 amb la mitjana climàtica
+                                                                            de 30 anys –sèrie 1981-2010
+                                                                            (valorat amb 1054 mm, límit
+                                                                            administratiu), s’observa que
+                                                                            es tracta d’un any plujós. En la
+                                                                            figura 2 es mostra el resultat
+                                                                            de relacionar les precipitacions
+                                                                            del 2019 amb la mitjana
+                                                                            climàtica.
+
+
+
+
+Figura 2. Mapa comparatiu de les quantitats acumulades registrades el 2019 i els corresponents valors mitjans.
+    En relació a la temperatura, l’any 2019 presenta una temperatura mitja anual a nivell de país de
+5,2ºC (límit administratiu), amb valors que oscil·len entre -1,9 i els +13ºC. Els valors mínims es
+detecten en el terç nord i est del Principat coincidint amb alta muntanya i les temperatures màximes
+es detecten en els fons de vall i sud del país. En la figura 3 es mostra el model de distribució de les
+temperatures de l’any 2019.
+
+
+
+
+          Figura 3. Mapa de distribució de les temperatures mitges del 2019. Dades base facilitades pel CENMA
+                                                                                             Pàgina 5 de 29
+    Comparant la temperatura
+mitja anual amb la mitjana
+climàtica de 30 anys (període
+1981-2010 valor de 5,6ºC),
+s’observa que les temperatures
+del 2019 han estat normals,
+variant en conjunt poc respecte
+la mitjana.
+
+
+    En la figura 4 es mostra la
+relació entre la temperatura
+estimada pel 2019 i la mitjana
+climàtica.
+
+
+
+     Figura 4. Mapa de les diferències de temperatura de l’any 2019 respecte la mitja.
+
+3        CÀLCUL DEL BALANÇ HÍDRIC
+        De cara a estimar els recursos hídrics del 2019, que potencialment poden ésser usats per
+les necessitats de l’home (també anomenada pluja útil), s’ha dut a terme un balanç hídric.
+
+         L’expressió que permet deduir la pluja útil és la següent:
+
+                            P = ETR + Pu  R ..........................(1)
+         on:
+         P=Precipitació total: sòlida i líquida
+         ETR= Evapotranspiració real
+         Pu=Pluja útil o excedents
+         R=Variació de la reserva d’aigua en el sòl
+3.1 RESULTATS DEL BALANÇ HÍDRIC
+        En la següent taula es mostra un resum del balanç hídric segons la metodologia i càlculs
+que s’exposen en l’Annex de documentació.
+
+
+       T mitja              P acumulada              ETR             Pluja útil (excedents)                R*
+
+         5,2                     1180                396                      783                          +1,5
+
+        Taula 1. Resum balanç hídric en base al mètode de Thornthwaite. Superfície calculada=467,45 Km2 (límit
+administratiu)(*) R dada obtinguda directament del model. Cal saber que el ràster de precipitació (P) és d'una
+mida de cel.la de 90 x 90, en canvi el ràster del balanç (on hi intervé la ETR, els excedents, la reserva) està fet a 27 x
+27, si es calcula la R amb l’equació 1 usant les dades de la taula 1 tindrem un valor orientatiu de la reserva. El valor
+més exacte serà el que donarà el model numèric, que és el valor que es dona a la taula.
+                                                                                                       Pàgina 6 de 29
+                                                                   Les entrades al sistema són les
+                                                          precipitacions, amb un valor mig de 1180
+                                                          mm/any. Les sortides al sistema es
+                                                          distribueixen en evapotranspiració, amb uns
+                                                          396 mm i pluja útil amb 783 mm.
+                                                                  La reserva d’aigua en el sòl a finals del
+                                                          2019 té un balanç positiu, de +1,5. En l’Annex
+                                                          8.4 es mostra l’evolució històrica de la reserva.
+                                                                  Segons el mètode de Thorthwaite,
+                                                          l’evapotranspiració (ETR) suposa el 34%
+                                                          mentre que la pluja útil representa el 66%. En
+                                                          el següent gràfic es mostra la distribució de les
+                                                          sortides segons el mètode de càlcul utilitzat.
+     Figura 5. Balanç hídric segons Thornthwaite (Calculat tenint en compte que la reserva d’aigua al sòl és
+variable segons la zona)
+
+
+
+4        CONTRAST DE RESULTATS
+4.1 ANÀLISI DELS CABALS AFORATS
+       Quan es parla de pluja útil s’està parlant de l’aigua que surt com a escolament superficial
+directe i com a escolament subterrani, que en un balanç anual es pot interpretar que tota la pluja útil
+acaba drenant cap als rius.
+      Donant per vàlid aquest supòsit, es contrasten els resultats de la pluja útil estimada amb el
+model de balanç hídric, i els cabals aforats.
+       Per a dur a terme aquest contrast de dades s’ha fet ús dels registres de cabal diaris recollits
+durant el 2019 del riu Gran Valira en l’estació d’aforament de la Borda Sabater, així com en el riu
+Madriu, riu Valira d’Orient a Ransol i al riu Valira del Nord en el pont dels Escalls. En la següent
+taula es donen les dades tècniques de cada estació d’aforament.
+
+
+
+         Estació d’aforament        X             Y              Riu aforat          Superfície conca
+                                                                                    hidrogràfica (Km2)
+                                                                                          81,86
+            FEDA-Ransol         542773,6       31220,0         Valira Orient
+                                                                                          26,05
+           FEDA Madriu -        537514,6       22164,2            Madriu
+              Ràmio
+                                                                                         145,68
+          CHE(A402)-Pont         533986         24046           Valira Nord
+             Escalls
+                                                                                         452,33
+           Borda Sabater        529639,5       16525,1          Gran Valira
+
+       Taula 2. Situació aproximada (coordenades Lambert III Andorra), riu aforat, superfície de la conca
+hidrogràfica de les estacions d’aforament utilitzades.
+
+                                                                                               Pàgina 7 de 29
+       En la següent figura
+es      mostra      l’abast
+hidrogràfic cada estació
+d’aforament.
+
+
+
+
+Figura 6.. Mapa de situació
+de les conques estudiades de
+Valira Nord – Escalls, Conca
+Valira Orient Ransol i Conca
+Ràmio – Madriu.
+
+
+
+
+Figura 7. Mapa de situació de la conca Valira – Borda Sabater.
+
+
+
+
+                                                                 Pàgina 8 de 29
+            Donat que part dels cabals de fonts i torrents que drenen cap la riu Gran Valira són captats
+     per a usos principalment domèstics i que les seves aigües no són directament abocades al riu Gran
+     Valira si no a la xarxa de col·lectors d’aigües residuals de l’EDAR-SUD de St. Julià, s’ha tingut en
+     compte també el cabal procedent d’aquesta EDAR.
+           El cabal d’entrada a l’EDAR-SUD de St. Julià durant el 2019, segons dades facilitades pel
+     ministeri responsable del medi ambient, és de 0,45 m3/s. El cabal mig del riu Gran Valira (segons el
+     mateix ministeri) durant el 2019 ha estat de 9,8 m3/s. Aquest cabal, sumat amb el procedent de
+     l’EDAR, suposa uns 10,25 m3/s, o sigui 323 Hm3/any, que repartit per la superfície de la conca
+     hidrogràfica suposa 725 L/m2*any.
+            El cabal del riu Valira del Nord, segons dades facilitades per la Confederación Hidrológica del
+     Ebro es calcula que és d’uns 2,64 m3/s, o sigui 83 Hm3/any. Aquest cabal, repartit per la superfície
+     de la conca hidrogràfica suposa 571 L/m2*any.
+           El cabal del riu Valira d’Orient a Ransol, segons dades facilitades per FEDA es calcula que
+     és d’uns 3,4 m3/s, o sigui 108 Hm3/any. Aquest cabal, repartit per la superfície de la conca
+     hidrogràfica suposa 1321 L/m2*any.
+           El cabal del riu Madriu, segons dades facilitades per FEDA es calcula que és d’uns 0,8 m3/s,
+     o sigui 26 Hm3/any. Aquest cabal, repartit per la superfície de la conca hidrogràfica suposa 985
+     L/m2*any.
+             En la següent taula es resumeix els valors anteriorment comentats.
+
+Balanç hídric      Dades tècniques           Gran Valira         Valira Nord      Valira Orient             Madriu
+                                             (riu +EDAR)
+                                                10,25               2,64              3,43                   0,81
+   Cabals            Cabals m3/s
+   aforats
+                                               323,16               83,26            108,10                 25,65
+                   Cabals Hm3/any
+                                               724,95              571,49            1320,55                984,64
+                 Cabal específic (Qe)
+                      L/m2*any
+
+ Mètode de        Pluja útil estimada
+Thornthwaite           L/m2*any
+                                               777,34             779,56             856,13                892,66
+                                                 -7                 -36                35                    9
+                  Variació respecte
+                    Cabal Qe (%)
+
+           Taula 3. Resum dels cabals registrats durant el 2019 en diferents conques hidrogràfiques i pluja útil
+     estimada per cada conca.
+             Aquest any observem una bona relació en el sector del Madriu i Gran Valira, mentre que a
+     la conca del Valira del Nord el cabal estimat és un 36% més petit i la conca del Valira d’Orient és un
+     35% més alt que els cabals dels aforadors.
+             Cal tenir present que els cabals aforats poden dur associats fins un ±25% d’error, i
+     cal tenir en compte les següents limitacions en les anàlisis dutes a terme:
+            - S’ha dut a terme manualment els càlculs del balanç hídric en algunes estacions
+     representatives del país (Ransol, i Central FEDA) per tal de comprovar que la resolució del model
+     s’ha fet correctament, i s’obtenen valors similars (Annex 8.5).
+
+
+                                                                                                  Pàgina 9 de 29
+       - En les estacions de cabal de FEDA, diàriament es procedeix a fer un balanç d’entrades
+(procedents de Ransol, barrancs Cortals i de Ràmio) i sortides a l’estany d’Engolasters, existint un
+error que no se’ns ha facilitat.
+       - No es té la certesa que en els aforadors utilitzats es duguin a terme les tasques de
+manteniment i neteja adequades per al bon funcionament d’aquest. Així mateix tampoc es té
+coneixement del grau d’error associat a la corba alçades versus cabals o taula de tarat.
+         - En el balanç hídric les precipitacions són totes líquides (pluges) que al mateix mes ja
+s’incorporen en el balanç com a excedents i ETR del mes, quan en realitat hi ha mesos que les
+precipitacions són en forma sòlida (neu) que no s’incorpora al balanç fins mesos més tard.
+        - L’efecte del vent com a variador dels gruixos de neu, o l’efecte de la sublimació no es té
+en compte; es tenen comptabilitzades precipitacions totals (suma de pluja i neu fosa) acumulades
+en els pluviòmetres.
+         -Segons se’ns ha comentat des del CENMA les lectures de precipitacions durant l’hivern no
+són sempre fiables perquè la mostra d’aigua/neu recollida en els pluviòmetres es gela i dóna un
+registre poc real.
+       -La distribució de les precipitacions i temperatures es fa segons un model numèric, donat
+que no es disposa de suficients estacions meteorològiques.
+        - A l’hora de calcular la ETR es considera que tota la precipitació està disponible, no tenint-
+se en compte que part d’aquesta s’escapa per l’escolament superficial directe que directament
+alimenta a torrents i rius. En aquest sentit s’està sobrevalorant l’ETR.
+        - Limitacions associades al càlcul de l’ETP segons Thornthwaite que es basa exclusivament
+en la variable temperatura mitja mensual.
+        - S’està suposant que la conca és tancada, sense entrades o sortides de fora la conca, i
+que l’any hidrològic està tancat, o sigui que totes les precipitacions acaben descarregant o sortint
+de la conca al mateix any.
+
+
+5       EL BALANÇ HÍDRIC EN LES UNITATS
+        HIDROGEOLÒGIQUES
+       De les diferents unitats hidrogeològiques identificades en l’estudi de les Aigües subterrànies
+del Principat d’Andorra (Govern d’Andorra, 2007) es mostra una taula resum amb els resultats del
+balanç hídric dut a terme.
+      El mètode de càlcul per estimar la pluja útil de cada unitat ha estat mitjançant el càlcul de
+l’ETP segons Thornthwaite.
+      En el conjunt del territori estudiat (que tal i com s’ha comentat es treballa a nivell de
+conques hidrogeològiques que inclouen tota la conca hidrogràfica del Valira i conca
+hidrogràfica del riu de l’Ariege, i és de 522 Km2) la pluja útil ha estat el 2019 d’uns 410
+Hm3/any, calculats mitjançant el balanç hídric amb el mètode de Thornhwaite, i d’aquests,
+369 Hm3/any són disponibles, doncs es fixa la xifra del 10% de la pluja útil com a aigua
+destinada als ecosistemes aquàtics -cabals ecològics-.
+      Repartit entre el territori andorrà (467 Km2), la pluja útil estimada mitja del 2019
+representa uns 366 Hm3/any. D’aquests, 329 Hm3/any serien disponibles, reservant-se el 10%
+com a cabals “ecològic”.
+                                                                                      Pàgina 10 de 29
+                                                                                                                                               Cabal      Precipitació   Temperatura
+                                                           Excedents                           Precipitació                    Excedents     disponible respecte mitjana   respecte   Comportament   Comportament
+               Nom           Superficie (m2)   ETR (mm)      (mm)       P (mm)     T (ºC)       (Hm3/any)      ETR (Hm3/any)   (Hm3/any)     (Hm3/any)        (%)        mitjana (ºC)   segons P       segons T
+              Arinsal          16.551.735,91      399,33       852,09    1253,94        4,47           20,75            6,61         14,10        12,69        111,75%         0,02 Plujós           Normal
+              Ariège           45.628.658,41      371,88       898,28    1269,96        3,28           57,95           16,97         40,99        36,89        106,69%        -1,46 Normal           Fred
+       Coll de la Gallina      17.321.678,00      401,36       599,61    1003,90        8,02           17,39            6,95         10,39         9,35        106,59%         0,41 Normal           Normal
+          Conca d'Erts         15.149.624,07      451,40       661,85    1116,13        7,10           16,91            6,84         10,03         9,02        112,12%         0,19 Plujós           Normal
+       Conca de Setúria         6.664.367,23      427,70       751,68    1184,26        5,51            7,89            2,85          5,01         4,51        109,76%         0,39 Normal           Normal
+        Cubeta Encamp             768.145,17      428,51       599,51    1028,20        9,45            0,79            0,33          0,46         0,41        119,09%         0,22 Plujós           Normal
+      Cubeta d'Andorra          2.268.308,61      436,98       473,83     911,50       11,34            2,07            0,99          1,07         0,97        113,52%         0,89 Plujós           Càlid
+        Cubeta d'Incles           399.509,12      446,26       663,50    1110,19        5,98            0,44            0,18          0,27         0,24        106,51%        -0,36 Normal           Normal
+           Dels Orris          12.728.986,14      380,99       815,42    1197,21        4,51           15,24            4,85         10,38         9,34        112,95%        -0,65 Plujós           Fred
+             El Forn            2.632.292,26      426,25       721,48    1148,03        5,89            3,02            1,12          1,90         1,71        112,09%        -0,30 Plujós           Normal
+             Encamp             9.831.249,34      408,73       731,28    1142,25        6,85           11,23            4,02          7,19         6,47        117,21%        -0,22 Plujós           Normal
+              Enclar           16.449.982,02      416,80       586,51    1008,02        8,76           16,58            6,86          9,65         8,68        109,27%         0,60 Normal           Càlid
+     Engolasters-Pessons       23.004.376,30      364,75       842,37    1208,34        4,22           27,80            8,39         19,38        17,44        115,76%        -0,79 Plujós           Fred
+          Estall Serrer           256.289,80      387,18       777,91    1166,00        5,37            0,30            0,10          0,20         0,18        113,67%        -0,23 Plujós           Normal
+              Juclar           17.448.266,46      371,29       893,69    1265,54        2,80           22,08            6,48         15,59        14,03        107,29%        -1,25 Normal           Fred
+            La Bartra             227.795,13      429,47       566,75     998,79        9,77            0,23            0,10          0,13         0,12        120,81%         0,06 Plujós           Normal
+     La Cortinada-Sornàs          240.503,74      482,20       561,71    1044,44        9,24            0,25            0,12          0,14         0,12        114,34%         0,41 Plujós           Normal
+         Llorts - Arans           434.935,60      506,31       572,41    1079,19        8,69            0,47            0,22          0,25         0,22        114,95%         0,24 Plujós           Normal
+             Madriu            40.121.360,95      352,39       860,80    1214,49        3,94           48,73           14,14         34,54        31,08        114,36%        -0,63 Plujós           Fred
+          Montmalús             7.594.231,04      332,42       957,90    1291,80        2,77            9,81            2,52          7,27         6,55        112,33%        -0,85 Plujós           Fred
+             Ordino            16.960.118,50      450,05       701,44    1153,80        6,67           19,57            7,63         11,90        10,71        115,43%        -0,12 Plujós           Normal
+             Padern             6.040.215,34      443,67       590,00    1038,72        9,24            6,27            2,68          3,56         3,21        119,42%         0,31 Plujós           Normal
+            Pardines            5.125.714,31      406,95       533,13     940,99        9,73            4,82            2,09          2,73         2,46        107,42%         0,61 Normal           Càlid
+          Pla de l'Ingla           96.831,14      373,39       820,85    1195,67        4,89            0,12            0,04          0,08         0,07        113,41%        -0,22 Plujós           Normal
+          Prat Primer          13.956.181,56      390,34       671,82    1064,36        6,93           14,85            5,45          9,38         8,44        113,62%        -0,15 Plujós           Normal
+      Pui Olivesa - Runer         400.975,76      435,34       408,08     843,88       11,90            0,34            0,17          0,16         0,15        106,48%         0,87 Normal           Càlid
+         Riu Muntaner           6.750.482,65      410,18       669,58    1081,02        6,65            7,30            2,77          4,52         4,07        113,12%        -0,19 Plujós           Normal
+              Ràmio               231.213,47      408,99       671,29    1080,54        7,36            0,25            0,09          0,16         0,14        116,93%         0,03 Plujós           Normal
+             Salines           18.401.587,26      426,99       830,38    1258,63        4,84           23,16            7,86         15,28        13,75        115,45%        -0,32 Plujós           Normal
+            Sant Julià         33.250.793,13      381,35       676,92    1062,16        7,29           35,32           12,68         22,51        20,26        111,01%         0,25 Plujós           Normal
+    Sornàs-Pont d'Ordino          259.304,35      474,44       545,04    1020,01        9,73            0,26            0,12          0,14         0,13        115,27%         0,56 Plujós           Càlid
+        Valira del Nord        45.880.845,18      409,44       889,47    1299,27        3,95           59,61           18,79         40,81        36,73        114,53%        -0,50 Plujós           Normal
+           Òs de Civís         22.777.602,33      402,36       719,51    1127,84        6,15           25,69            9,16         16,39        14,75        108,37%         0,42 Normal           Normal
+         Coma Ransol               98.512,69      443,92       687,65    1131,96        5,35            0,11            0,04          0,07         0,06        107,29%        -0,51 Normal           Fred
+         Valira d'Orient       77.701.776,81      381,60       842,16    1224,51        3,57           95,15           29,65         65,44        58,89        109,13%        -0,76 Normal           Fred
+            Montaup            16.994.092,97      418,49       813,37    1233,76        5,00           20,97            7,11         13,82        12,44        114,26%        -0,23 Plujós           Normal
+       Cubeta Montaup             286.720,34      392,29       785,62    1178,83        4,18            0,34            0,11          0,23         0,20        109,19%        -0,63 Normal           Fred
+              Aldosa            7.713.967,17      422,27       683,80    1108,65        7,38            8,55            3,26          5,27         4,75        117,62%        -0,03 Plujós           Normal
+       Conca de Sispony        11.643.664,71      430,39       666,27    1099,84        7,04           12,81            5,01          7,76         6,98        111,91%         0,27 Plujós           Normal
+    Cubeta de la Massana        1.970.611,14      460,08       544,00    1005,51        9,75            1,98            0,91          1,07         0,96        115,06%         0,60 Plujós           Càlid
+     Límits administratius    467.000.000,00      396,11       782,60    1180,39        5,21          551,24          184,98        365,47       328,93        111,97%        -0,36 Plujós           Normal
+         Nous Límits          522.263.506,11      394,77       784,54    1181,18        5,18          616,89          206,18        409,74       368,76        111,52%        -0,38 Plujós           Normal
+
+
+Taula 4. Resum balanç hídric de les unitats hidrogeològiques_any 2019. Mitja del període 1981-2010
+
+
+                                                                                                                                                                                                                    Pàgina 11 de 29
+ La distribució de les precipitacions, ETR i pluja útil en les diferents unitats hidrogeològiques es
+mostra en les següents figures. En relació a les precipitacions s’observa el següent:
+
+
+
+
+Figura 8. Mapa de distribució de les precipitacions en les diferents unitats hidrogeològiques descrites en
+l’estudi del M.I. Govern, 2007
+       Les unitats amb precipitacions superiors són les del Valira del Nord, amb 1300 mm i la unitat
+amb un valor menor és Pui d’Olivesa amb 844 mm.
+       En relació a l’ETR, trobem valors màxims a la unitat de Llorts-Arans, amb 506 mm, i mínim
+de 332 mm a la unitat de Montmalús.
+
+
+
+
+                                                                                           Pàgina 12 de 29
+Figura 9. Mapa de distribució de l’ETR en les diferents unitats hidrogeològiques descrites en l’estudi del M.I.
+Govern, 2007
+       La unitat hidrogeològica amb major excedent d’aigua ha estat Montmalús amb 958 mm, i on
+s’ha registrat un valor més petit ha estat a la unitat del Pui d’Olivesa, amb 409 mm.
+
+
+
+
+                                                                                               Pàgina 13 de 29
+Figura 10. Mapa de distribució de la pluja útil en les diferents unitats hidrogeològiques descrites en l’estudi del
+M.I. Govern, 2007
+       La figura 11 representa els excedents de cada conca com a percentatge de desviació
+respecte el valor mig de la mateixa per al període 1981-2010. Aquest any totes les unitats presenten
+valors superiors a la mitjana.
+
+
+
+
+Figura 11. Gràfic de distribució dels excedents en les diferents unitats hidrogeològiques descrites en l’estudi
+del M.I. Govern, 2007
+
+
+      En la taula 5 es mostra els excedents, passats a unitats de cabal, en Hm3/any, que s’haurien
+de registrar en els torrents de les conques hidrogràfiques analitzades: Valira del Nord, Valira
+d’Orient, Gran Valira, Ariege, i la Llosa.
+
+
+
+                                                                                                   Pàgina 14 de 29
+                                             Excedents estimats (Hm3/any)
+
+    Valira d’Orient        Valira del Nord           Gran Valira*           Ariege*             La Llosa*
+
+        172,3                  113,4                    76,3                 40,9                 17,0
+
+       Taula 5. Estimació dels excedents per diferents conques hidrogràfiques. (*) es tracta de conques parcials
+–veure figura 12-
+
+
+
+
+Figura 12. Mapa de distribució de la pluja útil en les grans conques hidrogràfiques.
+
+
+
+
+                                                                                                Pàgina 15 de 29
+        En els següents gràfics es mostra l’evolució que segueixen els excedents estimats entre el
+2016 i el 2019 de cada subconca. S’observa valors baixos al 2016 i 2017 i alts al 2018 i 2019,
+essent el 2019 l’any amb excedents més alts, excepte per a les subconques perifèriques de l’Ariege
+i de la Llosa, que és al 2018 l’any amb valors més alts.
+
+
+
+
+Figura 13. Evolució dels excedents en cada subconca entre 2016 i 2019
+
+
+
+
+                                                                                    Pàgina 16 de 29
+6      CONCLUSIONS
+
+        Aquest 2019 el mòdul de precipitació mig del territori andorrà s’estima que és de 1180 mm
+quan la mitja de 30 anys és d’uns 1054 mm. El 2019 ha estat un any plujós si es compara amb la
+mitjana de precipitacions de 30 anys pel període 1981-2010, segons dades base facilitades pel
+CENMA.
+       La temperatura mitja del 2019 s’estima que ha estat de 5,2 ºC, quan la mitja de 30 anys és
+de 5,6 ºC. Comparant la temperatura mitja anual amb la mitjana climàtica, es tracta d’un any
+normal.
+      El mètode de càlcul per estimar la pluja útil de cada unitat ha estat mitjançant el càlcul de
+l’ETP segons Thornthwaite.
+      En el conjunt del territori estudiat (que tal i com s’ha comentat es treballa a nivell de
+conques hidrogeològiques que inclouen tota la conca hidrogràfica del Valira i conca
+hidrogràfica del riu de l’Ariege, i és de 522 Km2) la pluja útil ha estat el 2019 d’uns 410
+Hm3/any, calculats mitjançant el balanç hídric amb el mètode de Thornhwaite, i d’aquests, 369
+Hm3/any són disponibles, doncs es fixa la xifra del 10% de la pluja útil com a aigua destinada
+als ecosistemes aquàtics -cabals ecològics-.
+      Repartit entre el territori andorrà (467 Km2), la pluja útil estimada mitja del 2019
+representa uns 366 Hm3/any. D’aquests, 329 Hm3/any serien disponibles, reservant-se el 10%
+com a cabals “ecològic”.
+
+
+
+
+                                                                                     Pàgina 17 de 29
+7    BIBLIOGRAFIA
+    Govern d’Andorra, 2007. Estudi de les aigües subterrànies del Principat d’Andorra
+    Govern d’Andorra, 2015. Estudi de per a l’elaboració anyal del balanç hídric del Principat
+    d’Andorra. Període 1971-2000 i 2006-2012
+    Govern d’Andorra, 2016. Estudi de per a l’elaboració anyal del balanç hídric del Principat
+    d’Andorra. Any 2015
+    Govern d’Andorra, 2017. Estudi de per a l’elaboració anyal del balanç hídric del Principat
+    d’Andorra. Any 2016
+    Govern d’Andorra, Gener 2019. Estudi de per a l’elaboració anyal del balanç hídric del
+    Principat d’Andorra. Any 2017
+    Govern d’Andorra, Novembre 2019. Estudi de per a l’elaboració anyal del balanç hídric del
+    Principat d’Andorra. Any 2018
+    Custodio, E. i Llamas, M.R. 2001.Hidrología subterránea- segunda edición, ed Omega
+
+
+
+
+    Àurea Ponsa i Vidales                              Pau Ferrer i Roura (col.laborador)
+    Llicenciada en Geologia, d’Hídric                  Llicenciat en Geologia
+    NºDecret: 42142/2005
+
+
+
+
+                                                     Sant Julià de Lòria, 21 de desembre del 2020
+
+
+
+
+                                                                                     Pàgina 18 de 29
+8   ANNEX DE DOCUMENTACIÓ. CÀLCUL DEL
+    BALANÇ HÍDRIC
+
+
+
+
+                                Pàgina 19 de 29
+8.1 CÀLCUL DE L’EVAPOTRANSPIRACIÓ
+8.1.1            Generalitats
+
+       Existeixen diferents mètodes per a realitzar el càlcul de l’evapotranspiració, des de mètodes
+de camp, fins a mètodes empírics. Entre els mètodes més comuns per elaborar els mapes
+d’evapotranspiració potencial destaquen els següents:
+            •    Radiació: aquest mètode precisa disposar de dades mensuals de temperatura mitja,
+                 humitat relativa mitja, nombre d’hores de sol i velocitat del vent diürn.
+            •    Penman: aquest mètode requereix disposar de temperatures mitges mensuals,
+                 humitats relatives mitja i màxima, nombre d’hores de sol, velocitat del vent i
+                 estimació de la relació entre velocitats del vent diürnes i nocturnes.
+            •    Blaney-Criddle: es basa en les dades de temperatura mitja, humitat relativa mínima,
+                 nombre d’hores de sol i velocitat diürna del sol.
+            •    Turc: Permet estimar l’evapotranspiració potencial en base a la humitat disponible
+                 del sòl i del poder evaporant de l’atmosfera, intervenint en els càlculs la temperatura
+                 mitja, la humitat relativa de l’aire i la radiació solar. Així mateix, mitjançant una
+                 relació directa entre les precipitacions i les temperatures mitges anuals, permet
+                 estimar l’evapotranspiració real anual.
+            •    Thornthwaite: tan sols requereix les dades de temperatura mitja mensuals, i permet
+                 calcular l’evapotranspiració potencial (ETP) mensual. El càlcul de la pluja útil parteix
+                 de la següent expressió P=ETP+Pluja útil-Dèficit hídric
+
+
+         Entre els mètodes més utilitzats, per la seva simplicitat per al càlcul de l’evapotranspiració hi
+ha el mètode de Thornthwaite. El mètode de Thornthwaite és un dels mètodes empírics més pràctics
+per a realitzar càlculs detallats de balanços anuals i mensuals d’aigua, i àmpliament usat, destacant
+l’aplicació que en fan des de la Conferación hidrográfica del Ebro, amb bona part de la conca
+emplaçada al Pirineu. El mètode de Thornthwaite aporta valors acceptables en zones més o menys
+humides, en canvi no funciona bé per a les zones àrides o semiàrides (Custodio. E et al 2001).
+        La manca d’informació d’observacions meteorològiques de paràmetres com la humitat, la
+radiació, la velocitat del vent, etc. i el fet que es disposi d’una xarxa d’estacions
+termopluviomètriques amb registres diaris, ha conduït a estimar l’evaporació i el balanç hídric
+mitjançant l’aplicació del mètode empíric de Thornthwaite (1948).
+
+
+8.1.2   Aplicació                           del           mètode              empíric                de
+    Thornthwaite
+         Per dur a terme els càlculs de balanç hídric s’ha iniciat l’any hidrològic al mes de gener, s’ha
+considerat la reserva d’aigua del sòl del desembre de l’any anterior, i s’ha tingut en compte les
+precipitacions totals, suma de pluja i neu registrada al mateix mes.
+
+
+
+
+                                                                                           Pàgina 20 de 29
+       L’evapotranspiració potencial ETP s’estima per cada mes, utilitzant les dades de
+temperatura, segons les expressions següents (Thornthwaite, 1948, 1951, 1957):
+                                                                  a
+                                                10T 
+                                    Epa = 16 *      
+                                                    
+                                                                          (2)
+                                                  I
+
+On
+Epa és l’evapotranspiració potencial no corregida, calculada per un dia amb 12 hores de sol.
+T és la temperatura mitjana mensual
+        I és un índex anual de calor i equival a la ∑i pels 12 mesos de l’any.
+        i és l’índex de calor mensual (3)
+
+                                               1, 514
+                                    T 
+                                  i= 
+                                    5                   (3)
+
+
+        a és un exponent que s’obté a partir de l’expressió (4)
+
+       a = 0,000000675 * I 3 − 0,0000771* I 2 + 0,01792 * I + 0,49239                         (4)
+
+
+
+
+        La correcció de l’EPA a ETP es fa segons l’expressió següent:
+
+                                                    N NDM
+                       ETP(mm / mes) = Epa             *                        (5)
+                                                    12   30
+on N és el nombre d’hores d’insolació (està tabulat en funció de la latitud, ajustant-se a latitud de
+42º)
+                             NDM és el nombre de dies considerat
+
+       Una de les correccions que s’ha hagut de dur a terme és el de suposar que a temperatures
+mitges mensuals inferiors o iguals a zero, l’EPA és nul·la.
+
+
+         Per a l’estimació de l’evapotranspiració s’ha tingut en compte les precipitacions totals, de la
+pluja i neu. El desconeixement sobre com la neu intervé en el balanç hídric és important (relació
+entre acumulació de neu i neu que arribi a fondre, a sublimar, la distribució del gruix de neu al
+Principat, efectes del vent sobre la coberta de neu, etc.) per això s’ha tractat la neu conjuntament
+amb la pluja, com a precipitacions totals, que és com les estacions meteorològiques proporcionen
+les dades, i sense aplicar cap correcció.
+       De cara a estimar l’ETR s’ha realitzat un balanç hídric per cada cel·la de 27.5 m*27.5 m,
+duent-se a terme les següents suposicions:
+
+
+
+                                                                                         Pàgina 21 de 29
+           •    Mentre les precipitacions i la reserva del sòl ho permetin, l’ETR serà igual a l’ETP.
+                Quan això és possible, es parla d’excedents (o pluja útil) si l’ETR no esgota totes les
+                precipitacions. Quan les precipitacions no són prou importants, s’usa aigua de la
+                reserva del sòl fins a esgotar-la, si és necessari; quan la reserva està buida, l’ETR
+                serà inferior a l’ETP i aleshores es parla de dèficit hídric.
+           •    Per al càlcul de l’evapotranspiració real se suposa que aquesta és igual a la potencial
+                sempre i quan hi hagi aigua disponible; ja sigui procedent de les precipitacions o bé
+                de la reserva útil. La reserva màxima del sòl que correspon a la d’un sòl saturat és
+                variable en funció de la pedologia i del pendent topogràfic. En termes mitjos s’obté un
+                valor de 8.6mm per al país (M.I.Govern d’Andorra, 2015).
+           •    Cada any hidrològic s’inicia amb la reserva del darrer mes de l’any anterior. L’any
+                2019 s’inicia amb la reserva del desembre del 2018, que era de 7.1 mm i finalitza el
+                desembre del 2019 amb la reserva a 8.6 mm.
+        El mapa de distribució de l’ETR anual (Figura 14) presenta un valor mig de 396 mm/any,
+amb valors màxims al voltant dels 550 mm i mínims inferiors als 200 mm. L’ETR es troba
+condicionada per la temperatura, i l’aigua disponible, ja sigui en forma de precipitacions o bé en
+forma de reserva en el sòl. Els valor mínims es detecten en les capçaleres, on la temperatura és
+menor a causa de l’alçada de la zona. Igualment, en aquests punts el sòl és de tipus litosòl, fet que
+comporta una baixa reserva d’aigua.
+         Per contra, les zones amb alta ETR acostumen a aparèixer en els fons de valls, on tant la
+temperatura com la reserva del sòl és més elevada, tot i tenir precipitacions significativament
+inferiors respecte a cotes altes.
+
+
+
+
+Figura 14. : Mapa de distribució de l’ETR_2019
+
+
+
+
+                                                                                         Pàgina 22 de 29
+8.2 CÀLCUL DE LA PLUJA ÚTIL
+      Tal i com s’ha comentat, es parla de pluja útil o excedents a la precipitació que escapa de
+l’evapotranspiració i de la reserva del sòl.
+      Quan es parla de pluja útil és refereix a aigua que surt com a escolament superficial directe i
+com a escolament subterrani. En un balanç anual es pot interpretar que els excedents acaben
+drenant cap als rius més tard o més d’hora.
+       Els mapes de distribució dels excedents anuals, estimant l’ETP segons Thornthwaite
+mostren les següents distribucions de resultats (figura 15).
+
+
+
+
+Figura 15. Mapa de distribució de la pluja útil o excedents estimats per l’any 2019
+
+
+        La pluja útil o excedents estimats presenten un valor mig de 783 mm. Els valors màxims són
+superiors als 1200 mm a l’extrem nord i est del país, coincidint amb sectors emplaçats en cotes
+altes, amb una major precipitació, menor temperatura i baixa ETR. Els valors més baixos, per sota
+els 350 mm, s’emplacen cap al sud i en tots els fons de vall.
+
+
+
+
+                                                                                       Pàgina 23 de 29
+8.3 ESTIMACIÓ DEL DÈFICIT HÍDRIC
+         Es parla de dèficit quan les precipitacions i la reserva del sòl no poden garantir que l’ETR
+sigui igual a l’ETP.
+        El mapa de dèficit anual calculat en base a l’ETR obtinguda amb el mètode de Thorthwaite
+(figura 16), permet veure que en termes mitjos el dèficit ha estat baix en les parts més muntanyoses
+o elevades, amb valors per sota els 50 mm, i és més alt en els fons de vall, amb valors de fins a 350
+mm.
+
+
+
+
+Figura 16. Mapa de distribució dels dèficits estimats per l’any 2019. R= variable, seguint el mètode de
+Thornthwaite El mètode de càlcul ha consistit en la diferència entre ETP i ETR quan no hi ha reserva disponible.
+
+
+
+
+                                                                                                Pàgina 24 de 29
+8.4 EVOLUCIÓ DE LA RESERVA D’AIGUA DEL SÒL
+
+       El cicle per a un any climatològicament normal vindria a ser el següent: de mitjans de
+primavera fins a inici d’estiu la reserva està plena, al màxim. A l’estiu es va buidant, fins a nivells
+mínims, podent esgotar-se del tot. A finals d’estiu-mitjans de tardor es torna a omplir. Aquest model
+es compleix en l’any 2009, 2010, 2012, 2013, 2017 i 2019, tal i com es veu representat en el
+següent gràfic. La metodologia de càlcul de la reserva mitja del sòl s’explica en Govern d’Andorra,
+2015.
+        En els anys més secs, es trenca aquesta ciclicitat, durant l’estiu es buida fins a esgotar-se la
+reserva i a la tardor hi ha recuperació però no és completa, com succeeix al 2006, 2007, 2008,
+2011, 2012 , 2014, 2015 i 2016 i 2018.
+
+
+
+
+                                                                                         Pàgina 25 de 29
+             Variació de la
+    Any
+             reserva (mm)
+    2006         -1,63
+    2007          1,37
+    2008          0,09
+    2009            0
+    2010            0
+    2011         -1,15
+    2012          1,78
+    2013            0
+    2014          -0,3
+    2015          -6,1
+    2016           3,7
+    2017           2,7
+    2018          -1,5
+    2019           1,5
+
+Figura 17. Evolució de la reserva mitja mensual d’aigua del sòl des del 2006 fins al desembre del 2019. Dades obtingudes del balanç hídric efectuat a nivell de límit
+administratiu (S=467.7Km2)
+NOTA: Aquest valor de reserva es calcula en base al càlcul del balanç hídric (modelització). Cal saber que el ràster de precipitació (P) és d'una mida de cel.la de 90 x 90, en canvi el
+ràster del balanç (on hi intervé la ETR, els excedents, la reserva) està fet a 27 x 27.
+
+
+
+
+                                                                                                                                                                            Pàgina 26 de 29
+8.5 COMPROVACIÓ RESULTATS
+
+
+
+
+                            Pàgina 27 de 29
+                                      ransol                    central-feda
+          valor               model       manual         model        manual
+          etr_00                445,7        455,9          461,9          475,3
+          etr_01                 0,0          0,0            7,6            9,1
+          etr_02                 1,4          5,1           13,9           13,2
+          etr_03                 18,9         24,6          30,5           32,1
+          etr_04                 28,0         26,6          36,2           34,7
+          etr_05                 48,7         51,7          60,2           67,4
+          etr_06                 90,4         92,0          72,4           72,4
+          etr_07                 84,7         84,0          58,0           58,0
+          etr_08                 71,0         71,0          73,0           73,0
+          etr_09                 52,0         52,0          34,0           34,0
+          etr_10                 43,9         44,0          50,6           55,9
+          etr_11                 0,0          0,0           12,9           12,9
+          etr_12                 6,8          4,9           12,5           12,5
+          excedents_00          575,3        566,1          512,7          502,7
+          excedents_01          101,0        101,0          64,9           69,9
+          excedents_02           31,6         27,9          10,1           10,8
+          excedents_03           0,0          0,0            0,0            0,0
+          excedents_04          103,1         98,8          98,3           98,2
+          excedents_05           45,3         42,3          18,8           10,6
+          excedents_06           0,0          0,0            0,0            0,0
+          excedents_07           0,0          0,0            0,0            0,0
+          excedents_08           0,0          0,0            0,0            0,0
+          excedents_09           0,0          0,0            0,0            0,0
+          excedents_10           51,1         51,0          103,0          96,7
+          excedents_11          105,0        105,0          83,1           82,1
+          excedents_12          138,2        140,1          134,5          134,5
+          reserva_01             44,0         44,0          28,4           28,4
+          reserva_02             44,0         44,0          28,4           28,4
+          reserva_03             32,1         26,4          10,9            9,3
+          reserva_04             44,0         44,0          28,4           28,4
+          reserva_05             44,0         44,0          28,4           28,4
+          reserva_06             0,7          0,0            0,0            0,0
+          reserva_07             0,0          0,0            0,0            0,0
+          reserva_08             0,0          0,0            0,0            0,0
+          reserva_09             0,0          0,0            0,0            0,0
+          reserva_10             44,0         44,0          28,4           28,4
+          reserva_11             44,0         44,0          28,4           28,4
+          reserva_12             44,0         44,0          28,4           28,4
+Taula 6. Taula comparativa del balanç hídric resolt amb el model numèric i resolt manualment, usant les dades
+de precipitació i temperatura mensual, aplicant Thornthwaite. Any 2019
+
+
+
+
+                                                                                               Pàgina 28 de 29
+www.mediambient.ad
+
