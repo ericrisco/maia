@@ -196,6 +196,18 @@ n'ha llegit:**
    el Bisbe hi va respondre**: **textos i dates.**
 3. **Quant va durar la paràlisi**, **quantes presons preventives s'hi van
    allargar** i **què va passar amb les causes avocades pel veguer francès.**
+   - **`parcial` des del 20-09-2026: ja té durada mínima.** **Les notes de la
+     p. 252 la daten de **1874 a 1877** com a mínim**: la sentència del vescomte
+     de Foix «*en representacio dels Illustres senyors Com-princeps, estant reunit
+     en tribunal de Corts per lo negoci civil promogut en grau de apelacio*»
+     (1874); **el Consell General nomenant *rahonadors* per tenir Corts sobre la
+     Solana «*per fallar las causas que actualment se encontran pendents de
+     apelacio*»** (2 d'octubre de 1876); i **una carta «curiosa» del vescomte de
+     Foix del 26 de desembre de 1877**, **conservada a l'escrivania del Tribunal
+     Superior**
+     ([li vaig preguntar què feien](./li-vaig-preguntar-que-feien-no-gran-cosa.md)).
+     **Segueix obert el contingut de la carta i el desenllaç**, **però ara se'n
+     sap la ubicació.**
 4. **Si l'avocació de les apel·lacions pel vescomte de Foix va ser mai
    discutida o revocada.** **La font la narra i no en diu el desenllaç
    jurídic.**
@@ -215,6 +227,9 @@ n'ha llegit:**
     sol, **i on era el llindar.**
 11. **Quants anys va estar impedit el veguer episcopal** «recentment» abans del
     1904.
+    - **I hi ha un precedent molt més gros, del 20-09-2026**: **al segle XVIII la
+      plaça de veguer **francès** va restar vacant **vint anys*** *(Archives des
+      Pyrénées-Orientales, C 2101)*. **La font no diu quins vint anys.**
 
 ## Related
 
