@@ -108,6 +108,11 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **dobla** | moneda de compte. **5 lliures 12 sous**, documentat al Politar amb un exemple que quadra: **5 dobles = 28 lliures** |
 | **estrenes** | el que es dona a batlles, notari i porter en clausurar les Corts, **«tot ad libitum dels Veguers»** |
 | **paus i treves** | l'acte pel qual els batlles manen a dos que no renyeixin, **sota pena de 25 lliures** |
+| **cisena** | la terna —de fet, sisena— de prohoms que el Consell General proposava als Prínceps per proveir una batllia vacant: **sis homes, un per parròquia**, «vulgarmen dit **fer la cisena de Batlle**». Politar, llibre II, cap. V |
+| **cap gros** | la classe alta d'una parròquia: els prohoms de la *cisena* havien de ser «de la **classe alta o del cap gros vulgarmen dits**». Politar, llibre II, cap. V |
+| **moins** | unitat de civada en què cobrava el batlle del príncep francès. **El Politar en deixa la quantitat en blanc** i **cap font del corpus no el defineix** |
+| **seps** | ferros de subjecció per als presos, llistats al costat de «grillons y esposas, cadenas, collars y altres adminiculos y presons». Politar, llibre II, cap. V |
+| **adminicles** | *adminiculos*: estris auxiliars; aquí, la ferramenta de presó que el batlle havia de tenir a punt |
 | **ordinació** | norma d'un comú |
 | **foc i lloc** | impost parroquial |
 | **consòrcia** | unió de persones amb un interès comú que s'ajuden en cas de necessitat |

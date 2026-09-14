@@ -215,7 +215,23 @@ de les tres no és al corpus.**
 
 **Les pàgines 215, 216 i 337 del Politar no s'han llegit**, ni la 267. **El
 corpus sap que el Politar tracta del visori i de les mostres perquè Brutails
-ho diu**, no perquè ho hagi llegit.
+ho diu**, no perquè ho hagi llegit. — **`parcial` des del 15-09-2026: el ritu
+ja té norma escrita.** El **capítol V del llibre II del Politar** el mana, i
+**és paraula per paraula l'acta del 1801**: el batlle passa a la visura
+«**acompanyat del notari, de un porter y de un cirurgia**», i en els homicidis
+fa que **el porter o nunci descobreixi el cadàver, el cridi tres vegades «en la
+forma estilada»**, que **el cirurgià reconegui les ferides i en faci relació
+jurada**, i que **el notari en llevi acte**
+([Tinga's pres per lo Príncep](./tingas-pres-per-lo-princep.md)). **El corpus
+tenia un acte solt i ara en té la regla.** **Segueix obert** el text de les
+pàgines que Brutails cita: **no són aquestes.**
+
+**I hi ha una norma sanitària que el corpus no tenia.** El mateix capítol mana
+«**que los cirurgians no passien a la curacio de ferida alguna feta per altre,
+que no age primer passada la visura de la Justicia**». **Una ferida feta per un
+altre no es podia curar fins que la Justícia no l'hagués vista.** **No consta
+què passava si el ferit es moria esperant**, ni **quina pena tenia el cirurgià
+que la curava abans.**
 
 **No consta quan es va deixar de fer.** La fitxa anterior dona **1993** des
 d'una enciclopèdia; Brutails diu que el **1904** ja no s'observava sempre. **El

@@ -97,6 +97,14 @@ Vegeu
    seva exposició de motius**.
 2. **La data exacta del canvi de saig a batlle.** El Politar **la deixa en blanc**
    i el corpus tampoc la té.
+   - **Confirmat el 15-09-2026, i ara se sap per què.** El **capítol V del
+     llibre II** del Politar torna a explicar el canvi i **deixa l'any en blanc
+     dues vegades** —«nomenats ab aquest nom **desde l'any ….**» i «**desde
+     l'any …., en que fou concedit a las Valls aquest privilegi**»— i **també hi
+     deixa en blanc els noms dels comissionats**
+     ([Tinga's pres per lo Príncep](./tingas-pres-per-lo-princep.md)). **No és
+     que el Politar no ho dati: és que no ho omple.** `Requereix el privilegi
+     mateix, o l'exemplar d'on copia Brutails.`
 3. **Si hi ha continuïtat real o només reaparició del mot** entre el saig comtal
    del 1390 i el saig del 2023.
    - **Afegit el 14-09-2026, i obre una pregunta nova.** El saig comtal del
@@ -115,6 +123,25 @@ Vegeu
      **El corpus el tenia per referència i ara en té el text.** **Segueix obert
      quan**: **el Politar no data la declaració dels Comissaris**, i **aquella
      declaració no és al corpus.**
+   - **I ja se sap de què sortia la declaració — 15-09-2026.** **D'un plet.** El
+     **capítol V del llibre II** diu que els comissionats van venir a declarar
+     «**diferents questions que lo Concell de la Vall per una part tenia ab
+     Bernat de Areny**, […] acerca de **diferents extorcions que aquest habia
+     usat contra del Concell de la Vall, no volent pagar quisties, donant
+     facultat pera edificar en comunals**», i que **entre altres coses** van
+     resoldre «**quot in posterum non amplius Sagiones apellentur, sed
+     Bajuli**», mantenint **la mateixa autoritat i ofici**. **I del mateix
+     conflicte en van sortir dues coses més**: que **l'ofici de batlle fos
+     triennal** i que **el Consell General pogués proposar sis prohoms, un per
+     parròquia —«vulgarmen dit fer la cisena de Batlle»**
+     ([Tinga's pres per lo Príncep](./tingas-pres-per-lo-princep.md)).
+     **El nom de l'ofici, el seu termini i el dret de terna del parlament
+     andorrà tenen tots tres el mateix origen: els abusos d'un sol saig.**
+   - **I és un tercer Areny.** **El corpus en té tres en el mateix ofici**:
+     **Bernat de Lareyu (1305)**, **Ramon de l'Areny (1390)** i **aquest Bernat
+     de Areny**, **que és el que va fer que l'ofici deixés de dir-se saig**.
+     **El corpus registra els tres i no n'afirma cap relació**, i **no sap la
+     data d'aquest tercer.**
 4. **La Cambra de Saigs**: quants n'hi ha i des de quan.
 5. **Què vol dir *saig* en català general**, segons el diccionari normatiu. Sense
    això, la columna del fals amic està incompleta.

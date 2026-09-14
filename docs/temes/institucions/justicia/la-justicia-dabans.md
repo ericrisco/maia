@@ -224,6 +224,14 @@ entre els seus membres, «en una divisió de funcions pròpies d'un govern». El
    els pagava el pres**: per declaració fundada al Pareatge **les Valls no
    estaven obligades a guardar-los**, es feien **lleves per parròquia**, i **el
    pres que tenia béns no sortia de la presó fins que els hagués pagat**.
+   **Ampliat el 15-09-2026 amb el capítol V del mateix llibre**, que ho diu des
+   de l'ofici que capturava: els batlles **«pendran la casa que be los
+   apareyxera»**, tenint raó **de la qualitat dels reus i també dels amos de les
+   cases**, i han de tenir a punt **«seps, grillons y esposas, cadenas, collars y
+   altres adminiculos y presons»**, anotant **totes les lleves, els guardes i els
+   dies** perquè **els presos amb béns siguin condemnats a pagar-los**
+   ([Tinga's pres per lo Príncep](./tingas-pres-per-lo-princep.md)). **No hi
+   havia edifici de presó: hi havia cases requisades i ferramenta.**
    **Segueix obert** des de quan i fins quan. I **hi ha una via de detenció que no passava
    per cap presó de la Justícia**: per **decisió del Consell General del 12 de
    maig del 1866**, els cònsols podien capturar **«sia ab ferros, sia ab

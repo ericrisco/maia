@@ -207,7 +207,17 @@ procediment mateix.**
 
 **No consta quin és el «privilegi de la Vall» que prohibeix la presó per
 deutes.** És la remissió més important de tota la *Instructa* i **la instrucció
-no el cita.** `Requereix el llibre de privilegis o el Llibre de la Terra.`
+no el cita.** `Requereix el llibre de privilegis o el Llibre de la Terra.` —
+**`parcial` des del 15-09-2026: ara se'n sap el límit, no el nom.** El **capítol
+V del llibre II del Politar** el torna a invocar sense nomenar-lo, i **hi posa
+l'excepció**: cap presó per causa civil, «**menos en los deutes de composicions
+de les Corts per delictes, y altres reals y fiscals**», i en aquells sí que val
+«***Qui non habet in re, luat in corpore***», «**essent ayxi que en tot lo demes
+en ellas no te lloch**»
+([Tinga's pres per lo Príncep](./tingas-pres-per-lo-princep.md)). **Deutes
+privats, no; multes penals de les Corts i deutes fiscals, sí.** **Dues fonts
+andorranes independents remeten al mateix privilegi i cap de les dues el
+cita.**
 
 **`Prefet` no es defineix enlloc.** La *Instructa* el nomena com a tipus de
 contracte al costat de `parceries` i `conllochs`, i **el corpus no en sap res
@@ -268,11 +278,34 @@ cobrava **dos sous per lliura del que es pledejava**, sense sostre.
 **I els deu dies d'aquesta Instructa no són els del Politar.** El Politar, ~1763,
 diu «**13 dias habils per interposar la apellacio, a saber es 10 de justicia y 3
 de gracia**» i hi afegeix **«si no me enganyo»**. **Dues fonts andorranes de
-mitjan segle XVIII que no diuen el mateix.** `Registrat, no arbitrat.`
+mitjan segle XVIII que no diuen el mateix.** ~~`Registrat, no arbitrat.`~~ —
+**Resolt per la font mateixa el 15-09-2026, i no eren dues regles.** El **capítol
+V del llibre II** del Politar ho explica: «desde l' verbal o sentencia **13 dias,
+so es deu de justicia y 3 de gracia** […] **pero en la sentencia o declaracio
+dels Batlles se deu tan solament posar lo manament deu dias, que son los de
+justicia, venint los 3 altres de mera gracia**»
+([Tinga's pres per lo Príncep](./tingas-pres-per-lo-princep.md)). **El termini
+és de tretze; el paper només n'ha de dir deu.** **És una regla i la seva
+redacció.** I **explica per què les lletres d'apel·lació del 1902 encara només
+esmentaven els deu dies «ainsi que le recommande le Politar»**
+([els tribunals tancaven per la fira d'Organyà](./els-tribunals-tancaven-per-la-fira-dorganya.md)).
 
-**La *Instructa* diu que havia d'anar al «capitol 5 del llibre 2 de la present
-obra».** **El corpus no sap de quina obra parla** —Brutails la publica solta— ni
-si hi va arribar a ser. **La referència al foli queda en blanc al text imprès.**
+~~**La *Instructa* diu que havia d'anar al «capitol 5 del llibre 2 de la present
+obra».** **El corpus no sap de quina obra parla.**~~ — **L'obra és el Politar.
+Tancat el 15-09-2026.** El **capítol V del llibre II del Politar** —que és,
+literalment, el capítol que la *Instructa* nomena— diu que els batlles «poran
+copiar o fer copiar **una llibreta dels procehiments, tant en civil com en
+criminal, de casos generals, que per la direcsio de cert Batlle se trevalla en
+les Corts se tingueren lo any 1740, (laque sera traslladada a la fi de la present
+obra)**», i hi remet **tres paràgrafs abans de l'epígraf «OBLIGACIONS»** — que és
+on la *Instructa* deia que havia d'anar, «**parlant dels batlles, antes de ses
+obligacions**»
+([Tinga's pres per lo Príncep](./tingas-pres-per-lo-princep.md)). **Les dues
+remissions encaixen.**
+
+**Segueix obert si hi va arribar a ser.** El Politar diu que **serà traslladada
+al final de l'obra**; **Brutails la publica com a peça solta** i **no diu d'on la
+treu**. **La referència al foli segueix en blanc al text imprès.**
 
 ## Related
 

@@ -321,7 +321,15 @@ la vila de Andorra exercint Corts**», dictada a petició del Consell General i
    > [la venda a carta de gràcia](../banca-i-fiscalitat/la-carta-de-gracia.md).
    > **La taula de la pàgina 20 és l'aparell de la pàgina 213.**
 2. **Els litres de la càrrega i la quartera de gra**: Brutails dona les relacions
-   i només mesura el sisteró i la punyera.
+   i només mesura el sisteró i la punyera. — **El corpus n'ha necessitat el
+   càlcul el 15-09-2026**, i el fa constar com a `hipòtesi del corpus`, no com a
+   dada de la font: **1 quartera = 6 sisterons = 71,3814 L** i **1 càrrega = 2
+   quarteres = 142,7628 L**. **La utilitat**: el Politar diu que **el bisbe
+   d'Urgell pagava al seu batlle 3 càrregues de blat l'any**, cobrades sobre la
+   renda episcopal a les Valls, i **això són uns 428,3 litres**
+   ([Tinga's pres per lo Príncep](../../institucions/justicia/tingas-pres-per-lo-princep.md)).
+   **El buit no es tanca**: **cap font no dona els litres; només les
+   relacions.**
 3. **Les mesures perdudes** que els documents esmenten i que ell no defineix: la
    ***justia*** d'oli (14 de febrer de 1445) i el ***cortó*** d'oli (3 d'abril de
    1446), tots dos «**ad rectam mensuram Vallium Andorre**».
@@ -348,8 +356,12 @@ la vila de Andorra exercint Corts**», dictada a petició del Consell General i
    **1 dobla = 5,6 lliures = 112 sous.** **És un sol lloc i no fa sèrie**, i
    **no s'ha creuat amb les files del doble d'or de la taula de la pàgina 20**,
    que està mal extreta.
-9. **Qui era Vidal Seré**, i què era exactament «exercint Corts» a la vila
-   d'Andorra el 1662.
+9. **No consta què és un `moins` de civada.** El Politar diu que **el batlle del
+   príncep francès cobrava «la quantitat de ….. moins de cibada»** i **la xifra
+   és en blanc**. **El mot no surt enlloc més del corpus** i **no és a cap
+   taula d'aquesta fitxa.**
+10. **Qui era Vidal Seré**, i què era exactament «exercint Corts» a la vila
+    d'Andorra el 1662.
 
 ## Related
 
