@@ -195,6 +195,40 @@ dels boscos d'aquella data.
 **Buit registrat:** **quin cataclisme és** el que acabava de devastar valls
 veïnes, i **si Andorra va fer res** després d'aquest avís.
 
+## D'on venia l'estrany, i on anava
+
+**Afegit el 16-09-2026, des d'una font primària del segle XVIII.** El **capítol
+III del llibre III del Politar** diu que el tribut dels forasters **el cobraven
+abans els veguers «per abus»**, «petxant a les persones forasteres y bestiars
+grossos y menuts que pujaben y habitaben en les Valls», i que el Consell General
+hi va suplicar als Prínceps contra **«esta mala introducsio y usurpacio de
+facultat del Concell feta per los Veguers»** — al costat de **llevar les
+quísties, el pescar, el caçar, els boscos i els comunals**, que els veguers
+també usurpaven **«y los constrenyien ab gravissimas penas»**. **Els Prínceps van
+declarar contra els veguers**, «declarant **no pertocarlos a ells, sino als
+promens de Andorra eo al Concell General**»
+([una persona, un bou, un colomer](../../historia/antic-regim/una-persona-un-bou-un-colomer.md)).
+
+**La data de la sentència és en blanc a l'imprès**: «*Vide sententiam latam super
+hoc die, &c.*»
+
+**I la destinació del diner hi és escrita:**
+
+> «serveyx a aquest **de alivio y ajuda de cost pera pagar sos mals, com son
+> pensions fa y salaris presta als metges y cirurgia y advocats**. Enfin lo
+> Concell, **com a duenyo qu'en es, ho fa servir per lo que vol**.»
+
+**Els forasters pagaven el metge, el cirurgià i els advocats del país**, i **la
+taxació es feia al consell del dilluns abans de Sant Andreu**, amb **una part
+que quedava a la parròquia on vivien**. **Els tres imports i aquella part són en
+blanc a l'imprès.**
+
+**I hi ha dos llindars**: **per pagar l'estrany personal calia haver viscut a les
+Valls sis mesos o la major part de l'any**; **per al bestiar, n'hi havia prou que
+entrés a les Valls** per deure'l al Comú, **però per deure'l a una parròquia
+havia d'haver pasturat les seves herbes alguns dies, «segons arrestos de la tal
+parroquia»**.
+
 ## Buits registrats
 
 1. ~~**Quin impost va fracassar** poc abans del 1904, i per què.~~ **TANCAT el

@@ -143,10 +143,18 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **compter** | l'encarregat nomenat pel Consell General de **comptar i descriure** tot el que està subjecte a quèstia: persones **de deu anys en amunt**, bestiar, arnes, colomers i cavallons. Politar, llibre III, cap. II |
 | **afor** | el consell **sense dia fix** —convocat **«en haberhi cabalions de blat en Meritxell»**— que **posava el preu del blat venut a fiar**, amb **nul·litat del preu superior**. Politar, llibre III, cap. II |
 | **allcalar** | verb aplicat a **pesos i mesures** entre les facultats privatives del Consell General. **El corpus no el defineix.** Politar, llibre III, cap. II |
-| **cavalló** | unitat comptada a l'efecte de la quèstia, al costat del bestiar, les arnes i els colomers. **El corpus no el defineix.** Politar, llibre III, cap. II |
+| **cavalló** | unitat de blat comptada a l'efecte de la quèstia: **«los caballons de blat de 120 en 120 a quistia de un metado»**, és a dir **cent vint cavallons paguen com una persona**. **El corpus no en sap la mida.** Politar, llibre III, caps. II i III |
 | **xarpó** | peça de vestir dels qui anaven «mal vestits o indecents» sota la capa del Consell. **El corpus no el defineix.** Politar, llibre III, cap. II |
 | **recot** | pena de consell nomenada **una sola vegada**, al costat del *cot*: «totas las penas, o **cot y recot**». **El text no la distingeix del cot.** Politar, llibre III, cap. II |
 | **arrest** | en el Consell General, **la decisió assentada al llibre d'arrestos**, al costat del llibre d'ordinacions. Politar, llibre III, cap. II |
+| **metado** | **la unitat de compte de la quèstia**: hi paguen igual **una persona** (*metado de pa*), **un cavall, egua, mula o matxo** (*metado de peu rado*) i **un bou, vaca, toro, jònec o vedell** (*metado de peu forcat*), **a 2 s. 6 d. o 3 s. segons l'any**. **Un colomer val un metado i cent vint cavallons de blat també.** Politar, llibre III, cap. III |
+| **avèria** | en el repartiment de la quèstia, **el cap de bestiar menut** —llana, cabrum, tocinos—, a **2 diners o 2 diners i malla**. **Una arna d'abelles paga com una avèria.** Politar, llibre III, cap. III |
+| **peu rado** · **peu forcat** | les dues classes de bestiar gros a efectes de quèstia: **casc rodó** (cavalls, egües, mules, matxos) i **peu forcat** (bous, vaques, toros, jònecs, vedells). **Paguen el mateix.** Politar, llibre III, cap. III |
+| **menjaria** | dret que **els veguers episcopals cobraven a 100 lliures l'any** i que **els bisbes es van apropiar**, de manera que des de llavors cobren **quèstia i menjaria** i **excedeixen la suma dels Pareatges**. Politar, llibre III, cap. III |
+| **carnalatge** | les vitualles —carn, pa, vi— que les Valls havien de donar al bisbe quan hi pujava, **obligació de la qual els van alliberar els bisbes Ugo de Moncada i Pere de Cardona**. Politar, llibre III, cap. III |
+| **antoixà** | la franja contigua a una finca, de la qual el propietari havia de mantenir el **camí reial** en forma; **no fer-ho feia incórrer en cot**. Politar, llibre III, cap. III |
+| **pach** | termini de pagament: la quèstia francesa es pagava **«en dos pagos, vulgo pachs, iguals»**, per Pasqua i per Tots Sants. Politar, llibre III, cap. III |
+| **comissari de satisfacció** | l'encarregat que el Consell General nomenava **per visitar pesos i mesures**, legalitzar-los amb les marques i **prendre els falsos**, castigant-ne els amos. Politar, llibre III, cap. III |
 | **ordinació** | norma d'un comú |
 | **foc i lloc** | impost parroquial |
 | **consòrcia** | unió de persones amb un interès comú que s'ajuden en cas de necessitat |

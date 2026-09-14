@@ -285,8 +285,16 @@ la parròquia **«afi de tenir les coses previngudes y menjar, segons estil»**.
 Setmana Santa**, es paga al copríncep francès pel de **Tots Sants** —**només
 l'any que li toca**— i es **talla o taxa** pel de **Sant Tomàs**.
 
-**No consta la tarifa per cap de bestiar ni per persona**, ni què és un
-**`cavalló`**. `El corpus té la base i no els tipus.`
+**Ampliat el 16-09-2026, i ara sí que hi ha tipus.** El **capítol III del mateix
+llibre** dona **la unitat de compte i les equivalències**: el ***metado***, que
+paguen igual **les persones** (*metados de pa*), **cavalls, egües, mules i
+matxos** (*metados de peu rado*) i **bous, vaques, toros, jònecs i vedells**
+(*metados de peu forcat*), **a 2 s. 6 d. o 3 s. segons l'any**; el bestiar menut
+—**llana, cabrum, tocinos**— dit ***avèria***, a **2 diners** o **2 diners i
+malla** per cap; **un colomer com un metado**; **una arna d'abelles com una
+avèria**; i **cent vint cavallons de blat com un metado**
+([una persona, un bou, un colomer](./una-persona-un-bou-un-colomer.md)).
+**Un cavalló segueix sense definir**, però **ara se'n sap la ràtio fiscal.**
 
 ## Buits registrats
 

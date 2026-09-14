@@ -112,3 +112,18 @@ i els ecosistemes aquàtics»** (article 4).
   és sencer; **l'encapçalament no és fiable** i el corpus cita pel número.
 - **La caça i la pesca com a pràctica social** —qui hi va, quant, amb qui— és
   una altra fitxa i no s'ha escrit.
+- **Les vedes del segle XVIII sí que consten, i la manera de fer-les complir
+  encara més. — Afegit el 16-09-2026.** El **capítol III del llibre III del
+  Politar** diu que el Consell General privava cada any **la caça de perdius i
+  altra caça «de publica utilitat» de Nostra Senyora de març a Nostra Senyora de
+  setembre**, i **la pesca «ab tot genero de instruments» de Sant Miquel de
+  setembre a Nostra Senyora de febrer**; i que per fer complir la primera manava
+  **«als Consols de las parroquias recollien en sa casa tots los esparbes de sa
+  parroquia fins sie finida la prohibicio»**
+  ([una persona, un bou, un colomer](../../historia/antic-regim/una-persona-un-bou-un-colomer.md)).
+  **Durant la veda, els cònsols guardaven a casa els esparvers de la
+  parròquia**: **no es vigilava el caçador, es requisava l'ocell.** I **caçar i
+  pescar eren facultat privativa del Consell General**, que també **posava preu
+  a «la cassa, truites, barbs y altres peyxos»**. **Segueix obert** si la veda
+  tenia excepcions i **quina relació té amb el calendari de vedes d'avui**, que
+  el corpus no ha localitzat.
