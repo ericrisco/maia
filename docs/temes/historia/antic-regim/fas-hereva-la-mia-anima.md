@@ -179,8 +179,15 @@ supletori](../../institucions/justicia/el-dret-supletori.md).
 3. **Si l'acusació dels notaris contra els testaments dels rectors es pot
    verificar**, comparant testaments rebuts per uns i altres. `Requereix font
    externa: el fons notarial i els arxius parroquials.`
-4. **Quants testaments amb l'ànima per hereva hi ha a Andorra**, i **qui n'eren
-   marmessors**. **El corpus en té un, de 1675.**
+4. ~~**Quants testaments amb l'ànima per hereva hi ha a Andorra**, i **qui n'eren
+   marmessors**. **El corpus en té un, de 1675.**~~ — **`parcial` des del
+   2026-09-18: en són quatre**, entre **1679 i 1874**, i **ara se'n coneix el
+   mecanisme** —**inventari, venda a l'encant, fundació de misses**, amb
+   **marmessors sovint eclesiàstics** i, en un cas, **la preferència que les misses
+   les digui un prevere de la família del difunt**. **N'hi ha un, del 13 d'abril de
+   1679, fet havent-hi hereus naturals.** Vegeu [els néts abans que el
+   fill](./els-nets-abans-que-el-fill.md). **El que segueix obert és la
+   freqüència**: **quatre casos triats per un autor no en fan una.**
 5. **La sentència del Tribunal Superior del 28 de juliol de 1899**, sencera, i
    **si va fixar alguna excepció** —per exemple **substitució prevista al mateix
    testament**.

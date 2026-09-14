@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**866** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**867** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -703,6 +703,7 @@
 | [Dos capítols matrimonials de 1788](temes/historia/antic-regim/dos-capitols-matrimonials-de-1788.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [El dot](temes/historia/antic-regim/el-dot.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `rodriguez-minana-notaris` |
 | [Els capítols matrimonials](temes/historia/antic-regim/els-capitols-matrimonials.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `rodriguez-minana-notaris` |
+| [Els néts abans que el fill](temes/historia/antic-regim/els-nets-abans-que-el-fill.md) | `temes/historia/antic-regim` | compilada | historica | no | `brutails-coutume-1904` |
 | [Es va treure el barret perquè feia vent](temes/historia/antic-regim/es-va-treure-el-barret-perque-feia-vent.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Fas hereva la mia ànima](temes/historia/antic-regim/fas-hereva-la-mia-anima.md) | `temes/historia/antic-regim` | compilada | historica | no | `brutails-coutume-1904` |
 | [La casa als papers](temes/historia/antic-regim/la-casa-als-papers.md) | `temes/historia/antic-regim` | compilada | historica | no | `camiade-concepte-didentitat-1990` |

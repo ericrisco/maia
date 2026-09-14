@@ -307,7 +307,13 @@ dues.**
    i 50** —**és a dir 750 contra 200, tres vegades i tres quartes parts més per a
    les filles**. **El corpus registra la xifra impresa i declara que no la pot
    verificar**: **podria ser un error de lectura de l'original.** `Requereix font
-   externa: el facsímil de la pàgina 124.`
+   externa: el facsímil de la pàgina 124.` — **Actualitzat el 2026-09-18: la direcció
+   queda corroborada.** **El contracte del 17 de febrer de 1697 fixa 25 lliures per
+   a cada fill i 50 per a cada filla** ([els néts abans que el
+   fill](./els-nets-abans-que-el-fill.md)): **dues peces independents, dos segles
+   de distància, i a totes dues les filles reben més que els fills.** **El corpus
+   deixa d'insinuar que 1874 sigui un error de lectura i manté obert l'ordre de
+   magnitud**, que segueix sent molt més gran que el de 1697.
 2. **La sentència sobre el dot de les dues germanes**: **sense data ni
    referència.**
 3. **Si la hipoteca dotal era legal o només d'estil.** **La font ho infereix i no
