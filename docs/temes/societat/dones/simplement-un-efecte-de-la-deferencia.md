@@ -205,9 +205,16 @@ silenci no era neutre.**
    **amb data exacta**.
 5. **Si la vídua tornada a casar de 1784 conservava realment la *tenuta***, o **si
    el notari va fer servir el mot per inèrcia.** **La font no ho aclareix.**
-6. **Quantes vídues *ab intestat* hi va haver de fet**: si les successions es
+6. ~~**Quantes vídues *ab intestat* hi va haver de fet**: si les successions es
    regulaven gairebé sempre per contracte o testament, **el cas discutit podia ser
-   raríssim**. **La font no en dona cap freqüència.**
+   raríssim**.~~ — **`parcial` des del 2026-09-18, i no és una xifra sinó un
+   mecanisme**: **una successió *ab intestat* no era normalment una manca de
+   previsió sinó una previsió que havia fallat**, i **la manera típica de fallar
+   era que l'hereu instituït es morís abans que el testador** —cas en què **el
+   Tribunal Superior, el 28 de juliol de 1899, va declarar caduc tot el testament
+   que contenia la institució** ([fas hereva la mia
+   ànima](../../historia/antic-regim/fas-hereva-la-mia-anima.md)). **La
+   freqüència segueix sense saber-se.**
 7. **El conveni homologat el 13 d'agost de 1793**, sencer.
 8. **Si la regla del 12 d'octubre de 1861 sobre el dot *inestimadament* es va
    aplicar més vegades**, o **va quedar en aquella sentència.**
