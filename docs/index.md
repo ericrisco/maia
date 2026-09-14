@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**900** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**901** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -972,6 +972,7 @@
 | [Qui nomena els jutges](temes/institucions/justicia/qui-nomena-els-jutges.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Resoldre sense judici](temes/institucions/justicia/resoldre-sense-judici.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [«Si això fos el costum, ningú no aniria al notari»](temes/institucions/justicia/si-aixo-fos-el-costum-ningu-no-aniria-al-notari.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
+| [Si dos consellers són parents, desapareix una instància](temes/institucions/justicia/si-dos-consellers-son-parents-desapareix-una-instancia.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Si no dius a quin copríncep, tria l'altra part](temes/institucions/justicia/si-no-dius-a-quin-coprincep-tria-laltra-part.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Si no hi ha botxí, el fa el porter](temes/institucions/justicia/si-no-hi-ha-botxi-el-fa-el-porter.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Si només volien ballar, era un altre tribunal](temes/institucions/justicia/si-nomes-volien-ballar-era-un-altre-tribunal.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |

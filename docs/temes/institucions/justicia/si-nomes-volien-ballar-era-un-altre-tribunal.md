@@ -74,6 +74,16 @@ Coutume d'Andorre*, de **J.-A. Brutails** (1904), amb les notes
 > admesa», no com a regla establerta**, **i el corpus ho reté amb aquesta
 > gradació.**
 
+> **Matisat el 19-09-2026, i el matís és gros.** **La nota de la mateixa pàgina
+> diu que **els tribunals de visures «interpreten de vegades els títols»**, i
+> que **«si la qüestió és molesta, poden agafar aquest pretext per passar-la als
+> batlles»** —**«el cas s'ha presentat fa quinze o vint anys»**
+> ([si dos consellers són parents](./si-dos-consellers-son-parents-desapareix-una-instancia.md)).
+> **No és, doncs, que els títols escrits els inhabilitin: els interpreten quan
+> volen.** **La regla existeix i és disponible**, i **la font la descriu
+> funcionant com a porta de sortida i no només com a frontera.** **El corpus
+> retira la lectura, no la citació.**
+
 ## Què jutgen avui, i què refusen
 
 > **Avui la jurisprudència dels tribunals de veheduria és molt neta.**
