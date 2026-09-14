@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**858** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**859** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1071,6 +1071,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Els gentilicis de les set parròquies](temes/llengua/onomastica/els-gentilicis.md) | `temes/llengua/onomastica` | compilada | contemporania | no | `iec-vocabulari-andorra` |
+| [L'hereu pren el seu lloc i el seu nom](temes/llengua/onomastica/lhereu-pren-el-seu-lloc-i-el-seu-nom.md) | `temes/llengua/onomastica` | compilada | historica | no | `brutails-coutume-1904` |
 | [Onomàstica](temes/llengua/onomastica/onomastica.md) | `temes/llengua/onomastica` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 
 ## temes/llengua/politica-linguistica
