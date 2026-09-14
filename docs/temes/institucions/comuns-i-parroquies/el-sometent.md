@@ -115,13 +115,33 @@ frase de llei vigent**, no d'un llibre de folklore.
 ## Buits registrats
 
 1. **La història del sometent andorrà entre el segle XIX i el 2022.** Quan deixa
-   de ser policial. **Prioritari.**
+   de ser policial. **Prioritari.** — **Confirmat obert el 16-09-2026.** La
+   lectura del capítol VII del Politar dona **l'estat de la institució cap al
+   1763** i **res del que va passar després**
+   ([«Y si no tenen, paciència»](../justicia/y-si-no-tenen-paciencia.md)).
+   **El buit no s'estreny per aquesta banda.**
 2. **Les ordinacions comunals** que fixen criteris, nombre i renovació: **set
    parròquies, set normes**, i el corpus no n'ha vist cap.
 3. **Quantes persones el formen** avui, per parròquia.
 4. **Quan s'ha mobilitzat** i per què. **Cap cas documentat al corpus.**
 5. **«Desener»**: el mot, el seu origen i si és viu fora d'aquest context. Vegeu
-   [el lèxic andorrà](../../llengua/lexic-andorra/lexic-andorra.md).
+   [el lèxic andorrà](../../llengua/lexic-andorra/lexic-andorra.md). —
+   **`parcial` des del 16-09-2026: l'ofici sí, el mot no.** El **capítol VII del
+   llibre II del Politar** li dedica un capítol sencer
+   ([«Y si no tenen, paciència»](../justicia/y-si-no-tenen-paciencia.md)).
+   **Capitans i deseners eren «oficials per indivis»** dels dos coprínceps,
+   **«de molts sigles a esta part»**, i **els únics oficials militars de les
+   Valls**, per a la guarda del país i la dels presoners. **El capità mana el
+   desener dins de la seva parròquia**, però **no hi ha superioritat de capità a
+   capità ni de desener a desener entre parròquies**, i **tots dos són subdits
+   dels batlles**. **Els capitans els nomenava el Consell General** el dilluns
+   abans de la Pentecosta, **a informe dels cònsols i consellers**; **els
+   deseners, el Consell de cada parròquia**. **Capturaven en absència del
+   batlle** i havien d'**entregar el pres a un batlle dins de 24 hores**.
+   **L'ofici era «oneros y no lucratiu»** i es cobrava del reu: **«si tenen, y si
+   no tenen, paciencia»**. **Segueix obert el mot**: **origen, etimologia i si és
+   viu**, i **la relació amb el `nunci`** que el capítol de les Corts insinuava i
+   aquest no confirma.
 6. **Si el sometent andorrà i el sometent català** tenen el mateix origen o són
    institucions paral·leles.
 7. **El text anterior a la Llei 28/2022**: quina norma regulava el sometent

@@ -299,7 +299,7 @@ Les sessions es dividien en **ordinàries —«consells sabuts»—** i
 | Consell | Quan |
 | --- | --- |
 | **Consell de Setmana Santa** | **dilluns de Pasqua** |
-| **Consell de Santagesma** (o **Sancogesma**, o de la Pasqua de l'Esperit Sant) | **dilluns abans de la Pentecosta** |
+| **Consell de Santagesma** (o **Sancogesma**, o de la Pasqua de l'Esperit Sant) | **dilluns abans de la Pentecosta** — **i ara se sap una cosa que s'hi feia**: **nomenar els capitans de cada parròquia**, a informe dels cònsols i consellers ([«Y si no tenen, paciència»](../justicia/y-si-no-tenen-paciencia.md)) |
 | **Consell de l'Afor** | **sense dia fix**: final d'estiu o principi de tardor |
 | **Consell de Tots Sants** | **només els anys imparells**, quan es pagava el tribut de **la quèstia** al Consenyor francès |
 | **Consell de Sant Andreu** | abans del **dilluns 30 de novembre** |

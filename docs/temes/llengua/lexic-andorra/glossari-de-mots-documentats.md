@@ -121,6 +121,10 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **post** | tauló o plafó per clavar a la paret: el decret d'excomunió s'havia de posar «o **post gran**… plantada en un puesto haon se puga facilment llegir y veurer». Politar, llibre II, cap. VI |
 | **artista** | en l'aranzel del notari, l'estimador que exerceix un ofici titulat —«si los estimadors fosen **artistes**, v. gr., escrivans, cirurgians o altres»—, que cobra més que l'estimador comú. Politar, llibre II, cap. VI |
 | **pinyora** | penyora: el bé embargat i guardat en nom de la Justícia, amb tarifa d'entrada, de custòdia anual i de bestiar. **Al cap de dos anys, si no es redimeix, «se judiquen bens vacants»**. Politar, llibre II, cap. VI |
+| **desener** | oficial de justícia de parròquia, **inferior al capità i subdit del batlle**, nomenat pel Consell de la seva parròquia; amb el capità, **l'únic oficial militar de les Valls**. Politar, llibre II, cap. VII. **L'origen del mot no consta** |
+| **capità** | oficial de justícia de parròquia **superior al desener**, nomenat pel **Consell General** el dilluns abans de la Pentecosta a informe dels cònsols; **tots els capitans són iguals entre si**. Politar, llibre II, cap. VII |
+| **galejar** | conducta perseguida pels capitans i deseners quan es fa **«sens llicencia»**, entre viure escandalosament i avalotar de nits. **El corpus no el tradueix.** Politar, llibre II, cap. VII |
+| **mostra d'armes** | la revista o ressenya d'armes que passava el ministre de justícia, i **el dia en què capitans i deseners juraven el càrrec, abans de començar-la**. Politar, llibre II, cap. VII |
 | **ordinació** | norma d'un comú |
 | **foc i lloc** | impost parroquial |
 | **consòrcia** | unió de persones amb un interès comú que s'ajuden en cas de necessitat |
