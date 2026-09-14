@@ -173,6 +173,16 @@ Vegeu
      de Areny**, **que és el que va fer que l'ofici deixés de dir-se saig**.
      **El corpus registra els tres i no n'afirma cap relació**, i **no sap la
      data d'aquest tercer.**
+   - **I un quart, del 19-09-2026, aquest ja amb el nom nou.** **Joan Areny,
+     d'Encamp, batlle episcopal**, dicta sentència el **23 de juny de 1623** «*y
+     en dit nom jutge primitiu verbal de les causes civils de lesdites Valls*»
+     ([dotze sentències de tretze](./dotze-sentencies-de-tretze-les-escrivia-un-altre.md)).
+     **Quatre Arenys en el mateix ofici entre el 1305 i el 1623**, **i la casa
+     que apareix el 1456 al plet de les llicències d'obres en seria una
+     cinquena menció** ([aquesta opinió del poble](../../territori/geografia-fisica/aquesta-opinio-del-poble-era-util-de-notar.md)).
+     **El corpus segueix sense afirmar cap relació ni cap caràcter hereditari**,
+     **i fa constar que la recurrència ja és prou densa per merèixer
+     comprovació**: **cinc aparicions, tres segles, un sol ofici.**
 4. **La Cambra de Saigs**: quants n'hi ha i des de quan.
 5. **Què vol dir *saig* en català general**, segons el diccionari normatiu. Sense
    això, la columna del fals amic està incompleta.

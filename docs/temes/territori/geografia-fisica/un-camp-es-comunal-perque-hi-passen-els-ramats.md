@@ -76,6 +76,18 @@ antiga val 2,66 pessetes**, i **1 sou = 2,66 ÷ 20 = 0,133 pessetes**.
 > **Registrat, no arbitrat** — **i és la tercera vegada en quatre tandes que una
 > xifra impresa d'aquest llibre no quadra amb el seu propi enunciat.**
 
+> **Rebaixat el 19-09-2026: ja no és un tipus de canvi, és un cèntim.** **La
+> p. 229 del mateix llibre converteix «10 livres catalanes» en «26 pesetas 66»**
+> ([dotze sentències de tretze les escrivia un altre](../../institucions/justicia/dotze-sentencies-de-tretze-les-escrivia-un-altre.md)).
+> **26,66 ÷ 10 = 2,666 pessetes per lliura**, **que és 2⅔**, i **el corpus ja
+> tenia establert que el «2,66» de l'apèndix n'és l'arrodoniment**
+> ([abrogats el 1839](../../institucions/justicia/abrogats-el-1839-aplicats-el-1889.md)).
+> **Amb 2⅔, 5 sous = 2,666 ÷ 4 = 0,6666**, que **s'arrodoneix a 0,66.**
+> **`hipòtesi del corpus`: el «0 pta 65» és probablement una errata per «0 pta
+> 66».** **No arbitrat**: **caldria un tercer import convertit al llibre per
+> confirmar-ho.** **El que sí que queda establert és que el llibre converteix amb
+> 2⅔ i no amb 2,60.**
+
 ## Per què una bohiga s'abandona
 
 **La renovació cada dos anys no és un capritx administratiu. És agronomia:**
