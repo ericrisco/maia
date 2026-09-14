@@ -137,6 +137,16 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **manobra** | treball comunal obligatori que el consell podia manar **sota pena de cot de fallits**. Politar, llibre III, cap. I |
 | **pecho** | tribut: els veguers feien pagar al Comú «tributs y **crescuts pechos**». Politar, llibre III, cap. I |
 | **sufragània** | església o nucli dependent d'una parròquia, comptat amb ella en la representació al Consell General. Politar, llibre III, cap. I |
+| **sabudes** | **el reemborsament dels desplaçaments** fets per particulars durant l'any «en portar cartas o recados, ordes, bitllets **a benefici del be publich**», liquidat al **consell de Sant Tomàs**. Politar, llibre III, cap. II |
+| **adot** | la prima pagada **a qui mata una fera** —«ossos, llops, **xichs y grossos**»—, liquidada al **consell de Sant Tomàs**. Politar, llibre III, cap. II |
+| **mitja conducta** | la meitat de la iguala anual amb **metges i barbers**, que era **privativa del Consell General**: se'n pagava una part per **Sant-Cugesma** i la resta per **Sant Andreu**. Politar, llibre III, cap. II |
+| **compter** | l'encarregat nomenat pel Consell General de **comptar i descriure** tot el que està subjecte a quèstia: persones **de deu anys en amunt**, bestiar, arnes, colomers i cavallons. Politar, llibre III, cap. II |
+| **afor** | el consell **sense dia fix** —convocat **«en haberhi cabalions de blat en Meritxell»**— que **posava el preu del blat venut a fiar**, amb **nul·litat del preu superior**. Politar, llibre III, cap. II |
+| **allcalar** | verb aplicat a **pesos i mesures** entre les facultats privatives del Consell General. **El corpus no el defineix.** Politar, llibre III, cap. II |
+| **cavalló** | unitat comptada a l'efecte de la quèstia, al costat del bestiar, les arnes i els colomers. **El corpus no el defineix.** Politar, llibre III, cap. II |
+| **xarpó** | peça de vestir dels qui anaven «mal vestits o indecents» sota la capa del Consell. **El corpus no el defineix.** Politar, llibre III, cap. II |
+| **recot** | pena de consell nomenada **una sola vegada**, al costat del *cot*: «totas las penas, o **cot y recot**». **El text no la distingeix del cot.** Politar, llibre III, cap. II |
+| **arrest** | en el Consell General, **la decisió assentada al llibre d'arrestos**, al costat del llibre d'ordinacions. Politar, llibre III, cap. II |
 | **ordinació** | norma d'un comú |
 | **foc i lloc** | impost parroquial |
 | **consòrcia** | unió de persones amb un interès comú que s'ajuden en cas de necessitat |

@@ -103,6 +103,29 @@ El detall del **drap gairebé impermeable** és el tipus de dada que val doble p
 a un corpus de llengua: **és un producte amb nom, propietat i ús**, i per tant
 lèxic viu, no categoria abstracta.
 
+## El parlament anava vestit de drap del país
+
+**Afegit el 16-09-2026, des d'una font primària.** El **capítol II del llibre III
+del Politar** diu que els membres del Consell General anaven **«de tot temps al
+Concell y en totes les funcions publiques vestits ab capes de panyo de la terra o
+de burell»**, i **no es permetia a cap d'ells, «per rich ni poderos que sie»,
+entrar-hi d'una altra manera**
+([la capa ho cobreix tot](../../institucions/consell-general/la-capa-ho-cobreix-tot.md)).
+
+**I una de les tres raons que el text en dona és comercial:**
+
+> «lo anar los de Concell vestits ab semblants capas de panyo de la terra **fa
+> honor a aquest drap y facilita son despaitg o venda**»
+
+**El parlament andorrà del segle XVIII vestia de producció local i el llibre diu
+que era, en part, per fer-ne mercat.** Les altres dues raons són **la igualtat
+dins de la sala** —«alli tots son iguals»— i **la dissimulació**: «molts de la
+roba de dessota van mal vestits o indecents ab correja, xarpo, &c., y la capa o
+cobreyx tot».
+
+`El corpus no en dedueix cap volum de producció: el text dona el costum i el
+motiu, no xifres.`
+
 ## Buits registrats
 
 1. ~~Els **estatuts de la Confraria de Paraires i Teixidors**, si es

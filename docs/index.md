@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**825** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**826** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -852,6 +852,7 @@
 | [El debat sobre el càlcul patrimonial de 2018](temes/institucions/consell-general/el-debat-sobre-el-calcul-patrimonial-de-2018.md) | `temes/institucions/consell-general` | compilada | contemporania | no | `consell-general-dcg-2018-7` |
 | [El Llibre de la Terra](temes/institucions/consell-general/el-llibre-de-la-terra.md) | `temes/institucions/consell-general` | compilada | contemporania | no | `vela-ordinacions-segle-xv` |
 | [Jamay interve ministre algun](temes/institucions/consell-general/jamay-interve-ministre-algun.md) | `temes/institucions/consell-general` | compilada | contemporania | no | `brutails-coutume-1904` |
+| [La capa ho cobreix tot](temes/institucions/consell-general/la-capa-ho-cobreix-tot.md) | `temes/institucions/consell-general` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [La proposta de pressupost d'Andorra Digital](temes/institucions/consell-general/la-proposta-de-pressupost-dandorra-digital.md) | `temes/institucions/consell-general` | compilada | contemporania | no | `consell-general-pressupost-2026` |
 | [La resposta sobre l'ajut de l'esquí](temes/institucions/consell-general/la-resposta-sobre-lajut-de-lesqui.md) | `temes/institucions/consell-general` | compilada | contemporania | no | `consell-general-bcg-2021-23` |
 | [L'Assemblea Magna](temes/institucions/consell-general/lassemblea-magna.md) | `temes/institucions/consell-general` | compilada | contemporania | no | `becat-tesi-1993` |

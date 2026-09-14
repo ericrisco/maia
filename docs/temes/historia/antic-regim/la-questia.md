@@ -264,6 +264,30 @@ a la Mitra es **cuarteja** a més (15), i per la banda dels imports absoluts,
 proporció**: no sap quants metadors hi havia, i les dues quèsties no es pagaven
 amb la mateixa periodicitat.
 
+## La base imposable, enumerada
+
+**Afegit el 16-09-2026.** El **capítol II del llibre III del Politar** diu que al
+**consell de Sant-Cugesma** es nomenaven **compters** que havien de
+
+> «**comptien y describescan totas las personas subjectas a quistias, de la edat
+> de 10 anys en amunt, bestiars, tan grossos com menuts, arnes de abellas,
+> colomers, cavallons y tot lo demes subjecte a pagar quistia, segons us y
+> practica de la terra**»
+
+([la capa ho cobreix tot](../../institucions/consell-general/la-capa-ho-cobreix-tot.md))
+
+**És el recompte fiscal andorrà amb la seva base enumerada**: **persones de deu
+anys en amunt**, **bestiar gros i menut**, **arnes d'abelles**, **colomers** i
+**cavallons**. **I els cònsols havien de saber quin dia passava la Justícia** per
+la parròquia **«afi de tenir les coses previngudes y menjar, segons estil»**.
+
+**El calendari de tot l'any hi gira**: la quèstia es recull pel **consell de
+Setmana Santa**, es paga al copríncep francès pel de **Tots Sants** —**només
+l'any que li toca**— i es **talla o taxa** pel de **Sant Tomàs**.
+
+**No consta la tarifa per cap de bestiar ni per persona**, ni què és un
+**`cavalló`**. `El corpus té la base i no els tipus.`
+
 ## Buits registrats
 
 1. ~~**Quant valien** sou, diner, muig, quarta, jornal i quarter.~~ **TANCAT A

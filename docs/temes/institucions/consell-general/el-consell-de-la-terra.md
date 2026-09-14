@@ -301,15 +301,37 @@ Les sessions es dividien en **ordinàries —«consells sabuts»—** i
 | **Consell de Setmana Santa** | **dilluns de Pasqua** |
 | **Consell de Santagesma** (o **Sancogesma**, o de la Pasqua de l'Esperit Sant) | **dilluns abans de la Pentecosta** — **i ara se sap una cosa que s'hi feia**: **nomenar els capitans de cada parròquia**, a informe dels cònsols i consellers ([«Y si no tenen, paciència»](../justicia/y-si-no-tenen-paciencia.md)) |
 | **Consell de l'Afor** | **sense dia fix**: final d'estiu o principi de tardor |
-| **Consell de Tots Sants** | **només els anys imparells**, quan es pagava el tribut de **la quèstia** al Consenyor francès |
+| **Consell de Tots Sants** | **només els anys imparells**, quan es pagava el tribut de **la quèstia** al Consenyor francès — **però vegeu l'avís de sota: la font primària no parla de paritat** |
 | **Consell de Sant Andreu** | abans del **dilluns 30 de novembre** |
 | **Consell de Sant Tomàs** | **dilluns abans del 21 de desembre**; tancava la sèrie |
 
 **S'evitava al màxim convocar consells durant l'estiu**, perquè **era el moment
 de més activitat als camps**.
 
+**I des del 16-09-2026 el corpus sap què es feia a cadascun.** El **capítol II
+del llibre III del Politar** dona **l'ordre del dia dels sis**
+([la capa ho cobreix tot](./la-capa-ho-cobreix-tot.md)): **Setmana Santa**,
+recollir les quísties; **Sant-Cugesma**, pagar mitges conductes a metges i
+barbers, **mudar Consellers**, **nomenar capitans i deseners** i **nomenar
+compters**; **l'Afor**, **posar el preu del blat venut a fiar**, convocat **quan
+hi ha «cabalions de blat en Meritxell»**; **Tots Sants**, pagar la quèstia al
+copríncep francès; **Sant Andreu**, pagar les conductes restants i **cobrar els
+estranys**; **Sant Tomàs**, **taxar la quèstia i els gastos**, **pagar els adots
+de les feres mortes** i **pagar les sabudes**.
+
 **El calendari parlamentari d'Andorra el fixava la feina del camp.** I un dels
 sis consells existia **només els anys parells que tocava pagar impost**.
+
+> **Avís afegit el 16-09-2026, i el corpus no l'arbitra.** **Aquestes dues línies
+> no diuen el mateix**: la taula diu **imparells** i el paràgraf, **parells**.
+> **I la font primària no parla de paritat.** El **capítol II del llibre III del
+> Politar** diu que el consell de Tots Sants es té **«solament en lo any se deu
+> pagar la quistia al Rey Christianissim, com a Compte de Foyx, y no en lo any
+> que percebeyx la quistia lo Senyor Bisbe, en cuyo any son los concells
+> ordinaris 5 tan solament»**
+> ([la capa ho cobreix tot](./la-capa-ho-cobreix-tot.md)). **El criteri és de
+> quin copríncep és l'any**, no si l'any és parell. `Cap de les dues
+> formulacions d'aquesta fitxa no ve d'aquesta font.`
 
 ## Com era una sessió
 
