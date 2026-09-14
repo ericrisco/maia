@@ -40,6 +40,18 @@ notes: >
   L'OCR ES DESIGUAL: el cos del text es llegeix bé; les portades, les notes al
   peu i les taules arrosseguen soroll i segells de biblioteca. Les citacions
   s'han de comprovar contra la pagina.
+  NO TOTES LES PECES JUSTIFICATIVES LES VA TRANSCRIURE ELL, I HO DIU. A la nota
+  al peu de la pagina CLXVI, l'ultima de les peces, declara: «De ces pieces
+  justificatives, j'ai transcrit les n. II, III, IV, V, VI, XVII, XX, XXIII,
+  XXVII, XXVIII, XXX, XXXI, XXXII et XXXIII; la piece XXIX a ete directement
+  composee sur une formule originale autographiee; enfin, M. J. PICART, NOTAIRE
+  A ENCAMP, a bien voulu se charger de COPIER LES AUTRES». Vol dir que LA PECA
+  XXXIV, tot l'extracte del Politar, i LA PECA XXVI, la Instructa als batlles de
+  1740, NO les va transcriure Brutails sino el notari Picart. Quinze de les vint
+  unitats que el corpus ha destil·lat d'aquest llibre passen per aquell copista.
+  El corpus no retira cap cita: allarga la cadena en un grao i hi posa el nom.
+  Segueix sense constar de quin exemplar del Politar es va copiar, ni quan.
+  Registrat el 2026-09-16.
 ---
 
 # La Coutume d'Andorre (1904)

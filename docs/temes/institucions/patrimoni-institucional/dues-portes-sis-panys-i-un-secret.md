@@ -213,7 +213,15 @@ fitxa llegeix **l'extracte que Brutails en publica**, amb la paginació interna
 entre claudàtors; **no s'ha vist cap exemplar del Politar.**
 
 **Brutails no diu de quin exemplar del Politar copia**, ni si hi ha variants.
-`Requereix la procedència de l'extracte.`
+`Requereix la procedència de l'extracte.` — **`parcial` des del 16-09-2026: ara
+se sap qui el va copiar.** A la **nota al peu de la pàgina CLXVI**, l'última de
+les peces justificatives, Brutails **enumera les que va transcriure ell** i
+**la XXXIV —tot l'extracte del Politar— no hi és**: **«M. J. Picart, notaire à
+Encamp, a bien voulu se charger de copier les autres»**
+([a les galeres d'Espanya, per la neu](../justicia/a-les-galeres-despanya-per-la-neu.md)).
+**Segueix sense constar l'exemplar, ni quan es va copiar, ni si hi ha
+variants** — **i ara el corpus sap que entre el manuscrit i la impremta hi ha un
+copista amb nom.**
 
 **Els termes fiscals del quart calaix no s'expliquen enlloc del corpus**:
 **lleudes**, **rals de batlles**, **drets de marca**, **de barra** i **egipcio**.
