@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**842** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**843** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -918,6 +918,7 @@
 | [Les fonts del dret](temes/institucions/justicia/les-fonts-del-dret.md) | `temes/institucions/justicia` | compilada | contemporania | no | `pujadas-dret-andorra` |
 | [Les lleis qualificades](temes/institucions/justicia/les-lleis-qualificades.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Les penes del Codi Penal](temes/institucions/justicia/les-penes-del-codi-penal.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [Les sentències no les escrivien els batlles](temes/institucions/justicia/les-sentencies-no-les-escrivien-els-batlles.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [L'execució forçosa](temes/institucions/justicia/lexecucio-forcosa.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [L'ordenament jurídic avui](temes/institucions/justicia/lordenament-juridic-avui.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Manllevat de la Justícia, i promès de tornar](temes/institucions/justicia/manllevat-de-la-justicia-i-promes-de-tornar.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |

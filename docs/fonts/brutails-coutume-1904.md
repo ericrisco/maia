@@ -52,6 +52,21 @@ notes: >
   El corpus no retira cap cita: allarga la cadena en un grao i hi posa el nom.
   Segueix sense constar de quin exemplar del Politar es va copiar, ni quan.
   Registrat el 2026-09-16.
+  I HI HA UNA SEGONA VIA PER LA MATEIXA PERSONA. A la pagina 59 Brutails declara
+  que els judicis moderns que va buidar «m'ont ete communiques par MM.
+  Bonaventure Moles et Joseph Picart». Picart no nomes copia les peces
+  justificatives antigues: tambe subministra les sentencies del segle XIX. Dues
+  de les vies per les quals el material andorra arriba a aquest llibre passen per
+  ell. L'altre nom, Bonaventura Moles, era consol menor d'Andorra el 1868 i un
+  dels cinc encarregats de redactar un codi de lleis. El corpus no en dedueix cap
+  defecte: registra que la provinenca esta concentrada en poques mans i que
+  l'autor ho declara. Registrat el 2026-09-17.
+  I UNA RESERVA SOBRE LES SENTENCIES, de la pagina 58: «les sentences des bayles
+  ne sont ordinairement pas redigees par eux, mais par un conseil etranger aux
+  Vallees». La llengua, les autoritats citades i la construccio juridica d'una
+  sentencia andorrana poden ser d'un lletrat de fora encara que la decisio sigui
+  del batlle. La font no el nomena ni l'identifica amb l'assessor, de qui parla
+  amb un altre mot.
 ---
 
 # La Coutume d'Andorre (1904)

@@ -160,6 +160,29 @@ del tot complerts, el donem per acabat.»** Vuit mesos després del testament.
 llegats a l'Església.** Vegeu
 [la religiositat](../../costums/religiositat/religiositat.md).
 
+## Quatre el 1904, i tots quatre formats a Catalunya
+
+**Afegit el 2026-09-17 des de [Brutails](../../../fonts/brutails-coutume-1904.md),
+capítol III, p. 60** ([la unitat destil·lada](./les-sentencies-no-les-escrivien-els-batlles.md)).
+
+> «Així doncs, **manuscrits o impresos, antics o recents, els formularis d'Andorra
+> són catalans**. **Hi afegeixo que els quatre notaris en exercici han fet les
+> pràctiques a Catalunya.**»
+
+**Quatre notaris en exercici**, i **la seva formació era de fora.** Els formularis
+impresos que feien servir tenen títol:
+**Feliz-Maria Falguera, *Formulario completo de notaría*, 3a ed., Barcelona,
+1888**, i **Jayme Morelló, *Colleccion de contratos, pactos públicos, testamentos,
+y últimas voluntades, para gobierno de los notarios de Cataluña*, 2 vols., 1827.**
+
+**I el contrapès, que la mateixa pàgina posa:** «**cada notari es fa el seu
+formulari**», deia **el notari d'Andorra la Vella**, i **les necessitats locals i
+els intercanvis de parers entre quatre notaris que es coneixen donen a les
+fórmules una unitat pròpia.** **El motlle era català; el que se'n treia, no del
+tot.**
+
+`Buit nou: qui eren els quatre, i on van fer les pràctiques en concret.`
+
 ## Buits registrats
 
 1. **Quants notaris hi ha avui, de fet.** La llei en fixa el mínim i el sostre;
