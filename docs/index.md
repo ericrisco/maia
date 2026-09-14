@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**877** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**878** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1380,6 +1380,7 @@
 | [La lògica pastoral dels límits](temes/territori/geografia-fisica/la-logica-pastoral-dels-limits.md) | `temes/territori/geografia-fisica` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [La ratlla passa a l'altra banda de l'aigua](temes/territori/geografia-fisica/la-ratlla-passa-a-laltra-banda-de-laigua.md) | `temes/territori/geografia-fisica` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [La sessió de les perdius](temes/territori/geografia-fisica/la-sessio-de-les-perdius.md) | `temes/territori/geografia-fisica` | compilada | contemporania | no | `brutails-coutume-1904` |
+| [Un camp és comunal perquè hi passen els ramats](temes/territori/geografia-fisica/un-camp-es-comunal-perque-hi-passen-els-ramats.md) | `temes/territori/geografia-fisica` | compilada | historica | no | `brutails-coutume-1904` |
 
 ## temes/territori/paisatge-construit
 

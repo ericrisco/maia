@@ -206,6 +206,27 @@ gairebé cap**:
 **Dos mots sense resoldre**, i el corpus no els endevina: ***parra*** i
 ***stali***.
 
+## El mateix mecanisme el 1904, parròquia per parròquia
+
+**Afegit el 2026-09-18.** **Aquesta fitxa surt de les ordinacions del segle XV.**
+**La mateixa institució, viva el 1904 i descrita contra la font primària, és a**
+[un camp és comunal perquè hi passen els
+ramats](../../territori/geografia-fisica/un-camp-es-comunal-perque-hi-passen-els-ramats.md).
+**El que hi ha de nou i no es podia deduir d'aquí:**
+
+- **La concessió no dura el que dura el treball, sinó el que dura la cendra**: **les
+  bohigues es fumen cremant el que hi creix**, i **quan l'adob s'esgota, al cap
+  d'una o dues collites, s'abandonen**. **A la Massana, Andorra i Sant Julià la
+  concessió es renova cada dos anys**, **«és a dir que només val per a una
+  collita»**.
+- **Els terminis de decadència d'Encamp**: **un any per rompre-la**, **sis anys
+  d'abandó després de romputa**, i **després un altre veí pot demanar-ne la
+  desposessió a profit seu.** **El dret de retracte és indefinit en el temps.**
+- **Les bohigues es venien**: **el 26 de juny de 1634** ja se'n revén una que
+  s'havia comprat.
+- **Les tarifes canvien d'una parròquia a la veïna**, i **només Canillo cobra en
+  proporció i exigeix que la bohiga sigui closa de murs.**
+
 ## Buits registrats
 
 1. Les **ordinacions senceres**, en text.
