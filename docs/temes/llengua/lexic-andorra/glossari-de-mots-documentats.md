@@ -169,6 +169,10 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **guiat** · **assegurat** | les dues categories que, al costat dels **enquestats** i **manlleutats**, havien de comparèixer a les Corts **dins de tres dies** des de la publicació. Politar, llibre IV, cap. III |
 | **fiaduria** | l'obligació de la fiança: passat el termini de comparèixer, **«incorren les fianses a les penes de la fiaduria, vulgarment dit penes trencades»**. Politar, llibre IV, cap. III |
 | **cèdula de notificació** | l'avís que l'escrivà de les Corts feia i el **porter o nunci** lliurava als enquestats, manlleutats, fiances, guiats i assegurats. Politar, llibre IV, cap. III |
+| **atenellament** | pena executada amb **estenalles**, nomenada al costat de la mutilació de membres: «se execute en los endrets que la Cort disposara». **El corpus no en fixa el sentit.** Politar, llibre IV, cap. III, § III |
+| **boltejar a pausa** | tocar la campana major **lentament**, **des que la processó de l'execució sortia de l'església fins que hi tornava**. Politar, llibre IV, cap. III, § III |
+| **butxí** | l'executor de la justícia, **que no era andorrà**: un prohom de les Valls l'anava a buscar fora amb **escorta de sis o vuit homes armats**, i **se'l tenia «en una caseta ab guardas»** fins al dia. Politar, llibre IV, cap. III, § III |
+| **suplici** | el patíbul, que **es muntava cada vegada** amb mestres de cases, fusters i ferrers **manats sota pena de presó**. Politar, llibre IV, cap. III, § III |
 | **ordinació** | norma d'un comú |
 | **foc i lloc** | impost parroquial |
 | **consòrcia** | unió de persones amb un interès comú que s'ajuden en cas de necessitat |

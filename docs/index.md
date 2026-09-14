@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**832** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**833** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -917,6 +917,7 @@
 | [L'ordenament jurídic avui](temes/institucions/justicia/lordenament-juridic-avui.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Manllevat de la Justícia, i promès de tornar](temes/institucions/justicia/manllevat-de-la-justicia-i-promes-de-tornar.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [«Mort, qui t'ha mort?»](temes/institucions/justicia/mort-qui-tha-mort.md) | `temes/institucions/justicia` | compilada | contemporania | no | `wikipedia-llegendes-andorra` |
+| [Pagat un poc abans d'obrar](temes/institucions/justicia/pagat-un-poc-abans-dobrar.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Quants notaris](temes/institucions/justicia/quants-notaris.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Qui nomena els jutges](temes/institucions/justicia/qui-nomena-els-jutges.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Resoldre sense judici](temes/institucions/justicia/resoldre-sense-judici.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |

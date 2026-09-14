@@ -99,6 +99,37 @@ declarada com a tal**, i que **la Viquipèdia no hi posa nota a peu.** **Què ho
 resoldria**: `Requereix font externa: l'expedient del cas Mandicó de 1860, o la
 sol·licitud de permís al copríncep episcopal.`
 
+## El procediment que aquesta fitxa no tenia
+
+**Afegit el 16-09-2026, des d'una font primària.** Aquesta fitxa diu que, el
+1943, **«seguint els costums del Manual Digest, la sentència es va llegir a la
+plaça pública»**. **El corpus no tenia aquells costums escrits.** **Ara sí**:
+el ***Ceremonial* del Politar** —llibre IV, capítol III, paràgrafs II i III— dona
+**la lectura** i **l'execució** amb tot el detall
+([la sentència en llatí, la pena en català](./la-sentencia-en-llati-la-pena-en-catala.md)
+i [pagat un poc abans d'obrar](./pagat-un-poc-abans-dobrar.md)).
+
+**El que hi consta i aquesta fitxa no podia saber:**
+
+- **El botxí venia de fora.** **Un prohom de les Valls l'anava a buscar «alli haon
+  los Veguers hauran previngut»**, **amb sis o vuit homes armats a l'anada i a la
+  tornada**, i **mentre hi era el tenien «en una caseta ab guardas»**.
+- **Se'l pagava abans d'actuar**: **«lo fiscal li donara la paga antes»**, i
+  **«pagarlo un poch antes de obrar la execussio»**.
+- **Per executar no calien ni Corts obertes ni Consell reunit**, **només els
+  batlles i els seus guardes** — **mentre que per llegir la sentència calia el
+  Consell General en ple i l'assistència manada porta per porta**.
+- **La processó anava precedida d'una confraria** —**les Ànimes, el Sagrat Cor de
+  Jesús o el Rosari de Maria**— **resant el rosari**, amb **un gran Sant Crist
+  davant del penitent** i **la campana major voltejant a pausa des que sortia fins
+  que tornava**.
+- **I el senyal final el donava el porter**, perquè **«may lo director o confessor
+  dirie al reo se alsas»**.
+
+`Això descriu la pràctica del segle XVIII. El corpus no afirma que el
+procediment del 1860, del 1942 o del 1943 fos aquest: la font d'aquesta fitxa
+diu que se seguien «els costums del Manual Digest» i no els detalla.`
+
 ## El que falta
 
 > **Auditat contra la resta del corpus el 2026-09-13.** **Dos dels sis buits
