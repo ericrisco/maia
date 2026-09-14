@@ -57,6 +57,13 @@ l'autor del **Manual Digest**, i el cita dues vegades i en sentits oposats:
 país que no es pot envair fàcilment tampoc no s'hi pot entrar fàcilment, i el
 text fundacional del pensament polític andorrà ho recomanava.
 
+> **Confirmat en una segona font andorrana el 16-09-2026, i en català.** El
+> **capítol IV del llibre III del Politar** ho mana amb les mateixes paraules i
+> hi afegeix el motiu, que Brutails no dona: **«es convenient a una y altra
+> politica contraria mes elevada y mes fina»**
+> ([els camins dels ports, com més bruscos millor](./els-camins-dels-ports-com-mes-bruscos-millor.md)).
+> **El text no diu quina és aquella política**, i **el corpus no li posa nom.**
+
 Brutails ho remata amb ironia: «**A ce point de vue, la viabilité andorrane est
 bien près de répondre à l'idéal.**»
 
@@ -176,7 +183,20 @@ projecte d'explotació del granit andorrà.
 5. **Els dos pianos**: on eren, i de qui.
 6. **Les palanques encadenades**: si en queda cap.
 7. **La recomanació del Manual Digest sobre els camins dels ports**, contra
-   l'original — i **amb quin capítol**, perquè **Brutails el data malament**.
+   l'original — i **amb quin capítol**, perquè **Brutails el data malament**. —
+   **`parcial` des del 16-09-2026: l'original segueix sense aparèixer, però ja no
+   és de segona mà.** El **capítol IV del llibre III del Politar** dona la mateixa
+   doctrina **en català i com a instrucció al Consell General**: cal vigilar que
+   els camins reials i els de les riberes estiguin en el millor estat possible,
+   **«menos los camins dels ports, losquals, com puguen passar, es convenient a
+   una y altra politica contraria mes elevada y mes fina que no sien bons o no
+   estigan en gran disposicio, antes be que sian bruscos, estrets y
+   pedragosos»**
+   ([els camins dels ports, com més bruscos millor](./els-camins-dels-ports-com-mes-bruscos-millor.md)).
+   **El corpus té ara dues obres andorranes del segle XVIII que diuen el mateix**
+   i **no afirma que siguin la mateixa font ni que una copiï l'altra**. **Segueix
+   obert el text del Manual Digest i el seu capítol.** **I el Politar tampoc no
+   diu quina és aquella «politica… mes elevada y mes fina».**
 
 ## Related
 

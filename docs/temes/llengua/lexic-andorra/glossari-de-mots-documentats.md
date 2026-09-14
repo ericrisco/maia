@@ -155,6 +155,10 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **antoixà** | la franja contigua a una finca, de la qual el propietari havia de mantenir el **camí reial** en forma; **no fer-ho feia incórrer en cot**. Politar, llibre III, cap. III |
 | **pach** | termini de pagament: la quèstia francesa es pagava **«en dos pagos, vulgo pachs, iguals»**, per Pasqua i per Tots Sants. Politar, llibre III, cap. III |
 | **comissari de satisfacció** | l'encarregat que el Consell General nomenava **per visitar pesos i mesures**, legalitzar-los amb les marques i **prendre els falsos**, castigant-ne els amos. Politar, llibre III, cap. III |
+| **camí reial** | la xarxa viària principal, definida al Politar **«desde la ralla de Andorra ab lo terme de Arcabell fins als pobles immediats als ports, o desde dita ralla fins a Soldeu, a Llorts o Arensal, Pal»**. **Brutails el descriu el 1904 com «un sentier muletier».** Politar, llibre III, cap. IV |
+| **gravada** | segons Brutails, **costa pedregosa i xaragallada**; al Politar, **una cosa que s'enterra, s'arrasa i s'omple de runa amb les pluges**. **El corpus registra els dos usos i no en fixa la definició.** |
+| **confirmam** | la paraula que s'escrivia **a continuació del paper de comissió** d'un càrrec del Consell **quan se li renovava el nomenament al cap de l'any**. Politar, llibre III, cap. IV |
+| **fer plats i comares** | conducta prohibida al comissari de camins en l'exercici del càrrec. **El corpus no ho tradueix.** Politar, llibre III, cap. IV |
 | **ordinació** | norma d'un comú |
 | **foc i lloc** | impost parroquial |
 | **consòrcia** | unió de persones amb un interès comú que s'ajuden en cas de necessitat |
