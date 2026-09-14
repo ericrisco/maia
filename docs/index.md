@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**823** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**824** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -914,6 +914,7 @@
 | [Qui nomena els jutges](temes/institucions/justicia/qui-nomena-els-jutges.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Resoldre sense judici](temes/institucions/justicia/resoldre-sense-judici.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Si no dius a quin copríncep, tria l'altra part](temes/institucions/justicia/si-no-dius-a-quin-coprincep-tria-laltra-part.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
+| [Si no hi ha botxí, el fa el porter](temes/institucions/justicia/si-no-hi-ha-botxi-el-fa-el-porter.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Tinga's pres per lo Príncep](temes/institucions/justicia/tingas-pres-per-lo-princep.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Tretze dies](temes/institucions/justicia/tretze-dies.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Un corpus no és un organisme competent](temes/institucions/justicia/un-corpus-no-es-un-organisme-competent.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |

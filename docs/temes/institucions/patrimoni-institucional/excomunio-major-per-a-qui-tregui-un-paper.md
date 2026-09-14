@@ -369,8 +369,16 @@ arbitrat.`
 i fills.** **El text els exclou del pagament a mitges i no diu la regla que els
 aplica.**
 
-**No consta què és «lo quart diner»** que cobrava el porter en l'encant públic:
-si és una fracció del preu o una moneda. **El corpus no ho dedueix.**
+~~**No consta què és «lo quart diner»** que cobrava el porter en l'encant
+públic.~~ — **Tancat el 16-09-2026, pel capítol següent.** L'aranzel del porter
+s'explica sol: **«lo quart diner, que son 60 din. o 5 s. per lliura»**
+([si no hi ha botxí, el fa el porter](../justicia/si-no-hi-ha-botxi-el-fa-el-porter.md)).
+**És la quarta part**: 240 diners de la lliura **÷ 4 = 60 diners = 5 sous**.
+**Però s'hi obre una divergència**: el mateix capítol VIII fixa que **dels béns
+que van a l'encant per execució de Cort el nunci cobra 4 diners per lliura fins
+a 100 lliures i 2 per sobre** —**1,67 % i 0,83 %, no la quarta part**—, **i
+totes dues regles parlen del mateix porter i del mateix encant.** `Registrat, no
+arbitrat.`
 
 **No consta si les dotze instruccions es van aplicar.** El Politar les dona com
 a resolució del Consell **«per ara y per sempre»**, i **el corpus no té cap acta

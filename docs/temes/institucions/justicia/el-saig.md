@@ -166,6 +166,19 @@ Vegeu
    **La continuïtat documentada del nunci arriba, doncs, com a mínim al 1657**,
    i **amb ofici retribuït, no honorífic.**
 
+   **Ampliat el 16-09-2026, i el nunci no era un ofici sinó un nom.** El
+   **capítol VIII del llibre II del Politar** obre dient que **«lo porter,
+   nunci, cursor o bastoner […] es una mateyxa cosa, convenintli aquellas
+   denominacions del exercici dels actes y obras que executa, essent tots
+   aquells termes sinonims y que en la realitat significan una mateyxa
+   persona»**
+   ([si no hi ha botxí, el fa el porter](./si-no-hi-ha-botxi-el-fa-el-porter.md)).
+   **Quatre noms per a una sola persona, i el nom el donava l'acte.** **I era un
+   ofici que ningú no volia**: si a la vacant no es trobava qui l'exercís, els
+   ministres de justícia i els batlles **podien obligar-hi algú**, triant
+   **«las personas mes desestimades»** i **cap prohom**. **Segueix obert quin
+   nom corresponia a quin acte**: **el text no ho desglossa.**
+
 ## Related
 
 - [La justícia](./justicia.md) — el batlle, l'altre fals amic.

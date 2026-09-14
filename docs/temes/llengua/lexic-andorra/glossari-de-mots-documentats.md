@@ -125,6 +125,12 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **capità** | oficial de justícia de parròquia **superior al desener**, nomenat pel **Consell General** el dilluns abans de la Pentecosta a informe dels cònsols; **tots els capitans són iguals entre si**. Politar, llibre II, cap. VII |
 | **galejar** | conducta perseguida pels capitans i deseners quan es fa **«sens llicencia»**, entre viure escandalosament i avalotar de nits. **El corpus no el tradueix.** Politar, llibre II, cap. VII |
 | **mostra d'armes** | la revista o ressenya d'armes que passava el ministre de justícia, i **el dia en què capitans i deseners juraven el càrrec, abans de començar-la**. Politar, llibre II, cap. VII |
+| **cursor** | un dels **quatre noms d'un sol ofici** —porter, nunci, cursor, bastoner—, que canviaven **«del exercici dels actes y obras que executa»**. Politar, llibre II, cap. VIII |
+| **bastoner** | el mateix ofici que el porter, el nunci i el cursor: **«en la realitat significan una mateyxa persona»**. Politar, llibre II, cap. VIII |
+| **quart diner** | **la quarta part**, expressada com **«60 din. o 5 s. per lliura»** sobre els 240 diners de la lliura. Politar, llibre II, cap. VIII |
+| **dieta** | en els aranzels de justícia, **no un dia sinó dues hores**: «per cada dieta, **que es de dos en dos horas fora del lloch de sa habitacio**», fraccionable **«per mitjes dietes o ters o quart, segons la distancia»**. Politar, llibre II, cap. VIII |
+| **persona de joch** | categoria social que el Politar **exclou expressament**, al costat dels prohoms, de poder ser obligada a fer de porter. **El corpus no la defineix.** Politar, llibre II, cap. VIII |
+| **fogo** | braser en què s'escalfava **la marca** dels criminals, **a la plaça de la vila d'Andorra**. Politar, llibre II, cap. VIII |
 | **ordinació** | norma d'un comú |
 | **foc i lloc** | impost parroquial |
 | **consòrcia** | unió de persones amb un interès comú que s'ajuden en cas de necessitat |
