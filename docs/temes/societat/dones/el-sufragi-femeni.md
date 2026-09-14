@@ -270,6 +270,21 @@ de cada moment i no pas a un programa preordenat»**
    [casar-se a Andorra](../familia/casar-se-a-andorra.md), **que la designa com
    a norma que la llei d'avui substitueix.**
    `Requereix font externa: el text del decret de 1975.`
+    — **Ampliat el 2026-09-17 amb el que es podia dir el 1904**, des de
+    [Brutails](../../../fonts/brutails-coutume-1904.md), p. 110-111
+    ([la unitat](./el-batlle-va-anullar-la-venda-amb-una-doctrina-que-no-era-seva.md)):
+    **els pràctics andorrans estaven dividits** sobre la capacitat de la dona
+    casada, per **influència del dret romà i dels homes de lleis de la Seu**; **un
+    batlle va anul·lar una venda dient que «la dona casada no es pot obligar sense
+    la intervenció i l'autorització del seu marit»** i **en conversa va sostenir
+    el contrari**, perquè **a la sentència hi havia l'opinió del seu conseller i no
+    la seva**; **Brutails afirma que el dret romà no era la llei de les Valls en
+    matèria de capacitat de la dona**; i **hi ha vendes de 1783 i 1789 en què una
+    dona ven sola**, **amb l'absència del marit com a única motivació escrita i
+    sense cap autorització judicial**. **Divergència registrada i no arbitrada**:
+    la font secundària diu incapacitat fins al 1975, la primària diu que el 1904
+    la incapacitat no era la llei i que la pràctica notarial la contradeia.
+    **Sense el text de 1975 el corpus no pot dir què va tancar.**
 10. **El sufragi femení comunal** — anava alhora?
 11. ~~**Roser Suñé** i la sindicatura del 2019.~~ — **`resolt` amb el corpus,
     sense cap font nova.** **Roser Suñé i Pascuet, Andorra la Vella, 26 d'agost

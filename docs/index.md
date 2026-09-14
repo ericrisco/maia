@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**855** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**856** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1184,6 +1184,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El batlle va anul·lar la venda amb una doctrina que no era seva](temes/societat/dones/el-batlle-va-anullar-la-venda-amb-una-doctrina-que-no-era-seva.md) | `temes/societat/dones` | compilada | historica | no | `brutails-coutume-1904` |
 | [El sufragi femení](temes/societat/dones/el-sufragi-femeni.md) | `temes/societat/dones` | compilada | contemporania | no | `consell-general-web` |
 | [La llei d'igualtat](temes/societat/dones/la-llei-digualtat.md) | `temes/societat/dones` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Les primeres becàries](temes/societat/dones/les-primeres-becaries.md) | `temes/societat/dones` | compilada | contemporania | no | `toquec-ensenyament-frances` |
