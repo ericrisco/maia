@@ -245,9 +245,14 @@ qualsevol plet comunal.**
 
 ## Buits registrats
 
-1. **Els «certs processos entre particulars»** que pertanyen a la justícia
-   política. **La font els llista i no els defineix.** **Sense això, la frontera
-   entre el polític i el civil queda incompleta.**
+1. ~~**Els «certs processos entre particulars»** que pertanyen a la justícia
+   política.~~ — **Tancat el 19-09-2026, a la pàgina següent.** **Són els dels
+   ***tribunals de veheduria***, que es traslladen al lloc del litigi —la
+   ***visura***— i que avui coneixen **exclusivament de servituds urbanes i
+   rurals**
+   ([si només volien ballar, era un altre tribunal](./si-nomes-volien-ballar-era-un-altre-tribunal.md)).
+   **Queda obert**, en canvi, **per què poden imposar i indemnitzar una servitud
+   i no poden declarar la propietat ni concedir danys.**
 2. **L'***Instructa*** donada als batlles per les Corts de **1740** *(pièce
    justificative)*. **Quarta citació i encara no llegida.** **Prioritari per
    acumulació.**
