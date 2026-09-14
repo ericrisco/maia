@@ -136,8 +136,23 @@ on el corpus té **l'acta de manlleuta de 1797**: **és la mateixa institució, 
 segles més tard.**
 
 `El corpus registra la coincidència de fórmula i de funció. No afirma que el
-gest del 1278 i el del 1603 siguin el mateix acte jurídic: afirma que la font els
-anomena igual i que Brutails ho explica per una tendència comuna del dret català.`
+gest del 1278 i el del 1603 siguin el mateix acte jurídic.`
+
+> **I la font ho resol ella mateixa, dues pàgines més avall** *(nota de les pp.
+> 85-86; [la unitat destil·lada](./pendre-sela-de-sa-propia-autoritat.md))*:
+>
+> «***Homenatge* designa doncs tant l'homenatge pròpiament dit com un mode
+> d'obligació que s'adaptava als contractes més diversos.** **Aquest mode
+> d'obligació és la garantia de l'*hostatge*, recolzada per un jurament que
+> manllevava a l'homenatge la seva forma *ore et manibus*** […] **però els efectes
+> n'eren del tot diferents dels de l'homenatge feudal, i creava relacions que no
+> s'assemblaven en res a la vassallatge.**»
+>
+> **La forma és manllevada; els efectes, no.** I **l'argument que ho tanca**:
+> **els andorrans que prestaven homenatge en mans del batlle, que actuava en nom
+> dels Senyors, ja eren els homes d'aquells senyors** — **no es podien fer
+> vassalls de qui ja ho eren.** **Amb això, la pregunta de si eren el mateix acte
+> queda tancada.**
 
 ### I la font ho sosté amb dos textos catalans
 

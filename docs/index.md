@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**847** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**848** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -928,6 +928,7 @@
 | [Ni amb els seus peus ni amb els peus d'altri](temes/institucions/justicia/ni-amb-els-seus-peus-ni-amb-els-peus-daltri.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Nul per al jutge, vàlid per a la consciència](temes/institucions/justicia/nul-per-al-jutge-valid-per-a-la-consciencia.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Pagat un poc abans d'obrar](temes/institucions/justicia/pagat-un-poc-abans-dobrar.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
+| [Pendre-se-la de sa pròpia autoritat](temes/institucions/justicia/pendre-sela-de-sa-propia-autoritat.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Quants notaris](temes/institucions/justicia/quants-notaris.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Qui nomena els jutges](temes/institucions/justicia/qui-nomena-els-jutges.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Resoldre sense judici](temes/institucions/justicia/resoldre-sense-judici.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
