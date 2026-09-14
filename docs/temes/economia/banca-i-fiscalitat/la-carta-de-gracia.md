@@ -275,6 +275,34 @@ perpetu.** Vegeu [el notariat](../../institucions/justicia/el-notariat.md).
 **Assier-Andrieu treballava al Capcir**, i **Becat hi remet per a la comarca
 nord-catalana veïna**: **la figura és pirinenca i Andorra n'és el cas extrem.**
 
+## Refet contra el capítol que la font dedica al contracte
+
+**Afegit el 2026-09-18.** **Aquesta fitxa venia d'una font secundària** —la tesi de
+Becat— **i ja s'havia completat amb pàgines del capítol III.** **El capítol VI,
+p. 198-202, és on la font tracta el contracte com a tal, i és a** [tenen un fill a
+França o a Amèrica](./tenen-un-fill-a-franca-o-a-america.md). **El que hi ha de nou:**
+
+- **Un segon i un tercer recompte**, **anteriors al de 1875-1877** que aquesta fitxa
+  ja tenia: **1844-1847, 26 vendes perpètues contra 48 a carta de gràcia (64,9 %)**;
+  **1872-1874, 32 contra 35 (52,2 %)**. **Amb les dues reserves que el mateix autor
+  hi posa**, de manera que **la tendència no es pot donar per establerta.**
+- **L'evolució del termini**: **el 1412 encara se'n fixaven de breus** —«*hinc ad
+  decem annos*»— **i el mateix any ja hi ha la fórmula indefinida**; **el 1904 el
+  termini és «gairebé invariablement indefinit».**
+- **Els mobles no es venien mai a carta de gràcia.**
+- **La combinació amb un arrendament al venedor**, **calculada habitualment al 5 %**,
+  **que era la via per dissimular préstecs usuraris**: el decret episcopal parla de
+  qui «comprava a carta de gràcia béns a un preu **escandalosament reduït** i en
+  treia un arrendament **escandalosament elevat**».
+- **El decret del 30 de setembre de 1853**, **que obligava a taxar per perits abans
+  de cap venda a carta de gràcia i prohibia als notaris de rebre-la sense taxació**
+  — **i que «per desgràcia no sempre es respecta».** **Amb un cas de 1785 on la
+  terra es ven per 22 lliures «*no obstant de ser judicada a trenta*»**: **73,3 % de
+  la taxació, escrit a l'acte sense dissimular.**
+- **I la raó humana que la font hi dona**: **qui ho havia venut tot, fins i tot la
+  casa, i passava fam, no convertia la venda en definitiva perquè tenia «*un fill a
+  França o a Amèrica*» que un dia podria rescatar-ho.**
+
 ## Buits registrats
 
 - ~~**Cap norma andorrana escrita que fixi —o que no fixi— el termini.**~~ —
