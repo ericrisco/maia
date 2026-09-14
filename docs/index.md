@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**869** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**870** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -700,6 +700,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [A Andorra qui no té fills és menys lliure](temes/historia/antic-regim/a-andorra-qui-no-te-fills-es-menys-lliure.md) | `temes/historia/antic-regim` | compilada | historica | no | `brutails-coutume-1904` |
 | [Dos capítols matrimonials de 1788](temes/historia/antic-regim/dos-capitols-matrimonials-de-1788.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [El dot](temes/historia/antic-regim/el-dot.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `rodriguez-minana-notaris` |
 | [Els capítols matrimonials](temes/historia/antic-regim/els-capitols-matrimonials.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `rodriguez-minana-notaris` |
