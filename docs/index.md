@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**874** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**875** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -714,6 +714,7 @@
 | [La nissaga Perich, o per què una casa andorrana canvia de nom](temes/historia/antic-regim/la-nissaga-perich.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `wikipedia-familia-perich` |
 | [La quèstia](temes/historia/antic-regim/la-questia.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `vela-ordinacions-segle-xv` |
 | [La suma sacramental de cinc sous](temes/historia/antic-regim/la-suma-sacramental-de-cinc-sous.md) | `temes/historia/antic-regim` | compilada | historica | no | `brutails-coutume-1904` |
+| [L'andorrà és més medieval que el seu costum](temes/historia/antic-regim/landorra-es-mes-medieval-que-el-seu-costum.md) | `temes/historia/antic-regim` | compilada | historica | no | `brutails-coutume-1904` |
 | [L'antic règim](temes/historia/antic-regim/lantic-regim.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 | [Les estratègies matrimonials](temes/historia/antic-regim/les-estrategies-matrimonials.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `camiade-migracions` |
 | [L'hereu i el cabaler](temes/historia/antic-regim/lhereu-i-el-cabaler.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `rodriguez-minana-notaris` |

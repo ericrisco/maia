@@ -305,8 +305,15 @@ algú l'havia escrita.**
    possibilitat de disposar de tres mesos» per venir a ajudar.
 4. La **clàusula de viduïtat**: es complia? es litigava?
 5. **Quan cau** el sistema — l'autor diu que els capítols «han caigut clarament
-   en desús», i no dona data. — **`obert`, i amb una fita nova per l'altre
-   extrem**: **el 1990 Becat encara descriu el sistema en present d'anàlisi i en
+   en desús», i no dona data. — **`obert`, i ara amb tres fites**. **La primera
+   és del 1904 mateix**: **la conclusió del capítol V diu que «les velles cases
+   andorranes desapareixen»** i que **les combinacions descrites són ineficaces
+   contra «les exigències imperioses de les condicions econòmiques modernes»**
+   ([l'andorrà és més medieval que el seu
+   costum](./landorra-es-mes-medieval-que-el-seu-costum.md)). **Per tant el
+   desgast ja era visible el 1904**, **i el mateix autor prediu que el dret
+   familiar andorrà acabarà essent «un recull de fórmules antiquades».** **La
+   segona és l'altre extrem**: **el 1990 Becat encara descriu el sistema en present d'anàlisi i en
    passat de pràctica**, i **situa l'inici del canvi econòmic als anys
    quaranta**. **Entre els anys quaranta i «avui» hi ha la finestra**; **ningú
    no l'ha estrenyt.**
@@ -319,6 +326,27 @@ algú l'havia escrita.**
    **I quatre mots més, des del 2026-09-13**: ***conco***, ***poblador***,
    ***fer canvi*** i ***andorrà de bragueta***, **cap dels quals no era al
    corpus.**
+
+## El costum no imposava aquest sistema: el prohibia per defecte
+
+**Afegit el 2026-09-18, i capgira la lectura d'aquest article.** **La conclusió
+del capítol V de la mateixa font** ([l'andorrà és més medieval que el seu
+costum](./landorra-es-mes-medieval-que-el-seu-costum.md)) **diu que el costum
+andorrà**:
+
+- **permet els testaments sense institució d'hereu**;
+- **permet la partició igual entre tots els fills**;
+- **i, a falta de declaració positiva del pare de família, la prescriu.**
+
+> «**Però l'andorrà és més medieval que el seu costum.**»
+
+**El règim d'hereu únic que aquest article descriu no era el dret supletori del
+país: era el que les famílies contractaven per escapar del dret supletori.**
+**Els capítols matrimonials, els heretaments, els *vincles*, les substitucions i
+les renúncies són l'aparell necessari precisament perquè, sense ells, els béns
+s'haurien repartit.** **El corpus no retira res del que hi ha escrit aquí —els
+capítols i les seves clàusules estan documentats— però sí la implicació que això
+fos «la llei andorrana de successions».**
 
 ## L'alternativa que tots volien, i per què no bastava
 

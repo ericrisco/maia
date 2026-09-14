@@ -175,6 +175,16 @@ I encara un tercer sentit del mot, que és **el més concret de tots**:
 > rector i batlle, són vies alternatives**. Vegeu [el rector, notari ordinari de la
 > parròquia](../../institucions/justicia/el-rector-notari-ordinari-de-la-parroquia.md).
 
+## Defecte de localitzador, declarat
+
+**Aquesta unitat declara les p. 156-159**, **però la destil·lació es va aturar a
+l'inici de la conclusió del capítol, a la p. 158.** **La conclusió (p. 158-159) es
+destil·la a** [l'andorrà és més medieval que el seu
+costum](./landorra-es-mes-medieval-que-el-seu-costum.md), **i el corpus ho fa
+constar aquí en lloc de corregir el localitzador enrere.** **És el segon cas
+d'aquesta sèrie**; el primer va ser el de les p. 142-143, a [la institució no és
+pública](./la-institucio-no-es-publica.md).
+
 ## Buits registrats
 
 1. **El decret del Consell General sobre els béns dels *concos***: **sense data,

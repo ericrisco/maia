@@ -125,6 +125,26 @@ inculta**; i al sud-oest francès hi ha les formes **bouzigue**, **la Bouygue**,
 **Per al corpus, això és un model de com es registra una hipòtesi**: es diu, es
 marca com a incerta i es posen al costat les autoritats que en saben.
 
+## Per què el domini públic hi pesa tant, i a qui aprofita
+
+**Afegit el 2026-09-18 des de la mateixa font, p. 161-163** ([l'andorrà és més
+medieval que el seu costum](../../historia/antic-regim/landorra-es-mes-medieval-que-el-seu-costum.md)):
+
+- **La causa és geològica**: **la superfície cultivable és mínima**, i això ha dut
+  **a deixar en indivisió vastes extensions de pasturatges i boscos**. **La força
+  motriu dels cursos d'aigua, la riquesa mineralògica i les aigües minerals** són
+  **reserves importants que pertanyen al domini públic**.
+- **I el comunal no reparteix igual**: **els pasturatges aprofiten més la gent
+  benestant**, que pot mantenir els ramats durant l'hivern; **els boscos serveixen
+  sobretot la classe pobra**, i **alguns viuen de la llenya que van a buscar a la
+  muntanya comunal i que revenen**.
+- **La mà morta laica va conservar els pasturatges i no va saber estalviar els
+  boscos**: **«la riquesa dels *comuns* ha disminuït, i han deixat de ser, amb les
+  esglésies, els banquers de les Valls»**.
+- **Quant pesa el comunal sobre el total és un càlcul que la font declara
+  impossible**, **i en dona la raó institucional**: **«Andorra no coneix ni
+  cadastre ni impost sobre béns immobles»**.
+
 ## Buits registrats
 
 1. **El «dret de veure».** Segueix obert:
