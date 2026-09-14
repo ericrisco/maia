@@ -214,8 +214,17 @@ entre els seus membres, «en una divisió de funcions pròpies d'un govern». El
    15-09-2026: una, amb data.** Un acte de manlleuta del **12 d'octubre del
    1797** diu que el fiat estava **«pres y detingut en la casa de la Vall»**
    ([manllevat de la Justícia](./manllevat-de-la-justicia-i-promes-de-tornar.md)).
-   **Es tancava gent a l'edifici del Consell General.** **Segueix obert** si era
-   l'única, des de quan i fins quan. I **hi ha una via de detenció que no passava
+   **Es tancava gent a l'edifici del Consell General.** **Ampliat el 15-09-2026: no era l'única.** El **capítol IV del llibre II del
+   Politar** parla de **«les cases del vehinat de casa de la Vall o enfin
+   aquellas que estaran disposadas per tenir los presoners»**, que **ja tenen
+   prou gravamen**, de manera que **els rahonadors han d'interessar-se perquè
+   als seus amos no els manin també guardes ni altres càrrecs**
+   ([un pernil i dos formatges per dobla](./un-pernil-i-dos-formatges-per-dobla.md)).
+   **Hi havia cases del veïnat habilitades per tenir presos.** I **els guardes
+   els pagava el pres**: per declaració fundada al Pareatge **les Valls no
+   estaven obligades a guardar-los**, es feien **lleves per parròquia**, i **el
+   pres que tenia béns no sortia de la presó fins que els hagués pagat**.
+   **Segueix obert** des de quan i fins quan. I **hi ha una via de detenció que no passava
    per cap presó de la Justícia**: per **decisió del Consell General del 12 de
    maig del 1866**, els cònsols podien capturar **«sia ab ferros, sia ab
    arrest»** qui fes mal al bestiar o robés llenya o fruits, **detenir-lo «lo

@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**819** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**820** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -917,6 +917,7 @@
 | [Tretze dies](temes/institucions/justicia/tretze-dies.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Un corpus no és un organisme competent](temes/institucions/justicia/un-corpus-no-es-un-organisme-competent.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Un fadrí sense casa sí que es pot emparar](temes/institucions/justicia/un-fadri-sense-casa-si-que-es-pot-emparar.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
+| [Un pernil i dos formatges per dobla](temes/institucions/justicia/un-pernil-i-dos-formatges-per-dobla.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Una creu al prat, sis sous i sis diners](temes/institucions/justicia/una-creu-al-prat-sis-sous-i-sis-diners.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 
 ## temes/institucions/nacionalitat-i-residencia

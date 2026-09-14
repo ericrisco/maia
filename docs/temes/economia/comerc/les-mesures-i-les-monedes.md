@@ -339,7 +339,16 @@ la vila de Andorra exercint Corts**», dictada a petició del Consell General i
    **És un sol acte i no fa sèrie**, i **no s'ha creuat amb les files de 1551,
    1552, 1567, 1580, 1599 i 1603 de la taula**, que donen el ducat com a moneda
    de referència sense donar-ne la relació amb la lliura.
-8. **Qui era Vidal Seré**, i què era exactament «exercint Corts» a la vila
+8. **La dobla, a 5 lliures 12 sous.** — **Guany parcial del 15-09-2026.** El
+   **capítol IV del llibre II del Politar** fixa la composició dels delictes a
+   **«un pernill y dos formatges per dobla de 5 ll. 12 s.»** i en dona un exemple
+   que quadra: **«se compon lo delicte de Pere a 5 dobles o en la quantitat de 28
+   ll.»** — **5 × 5,6 = 28** ✓
+   ([un pernil i dos formatges per dobla](../../institucions/justicia/un-pernil-i-dos-formatges-per-dobla.md)).
+   **1 dobla = 5,6 lliures = 112 sous.** **És un sol lloc i no fa sèrie**, i
+   **no s'ha creuat amb les files del doble d'or de la taula de la pàgina 20**,
+   que està mal extreta.
+9. **Qui era Vidal Seré**, i què era exactament «exercint Corts» a la vila
    d'Andorra el 1662.
 
 ## Related

@@ -219,6 +219,24 @@ de represàlies.**
 **Si el manlleutat no compareixia, la pena s'havia incorregut**, i això es deia
 **`pena trencada`**.
 
+> **I el 15-09-2026 el corpus en té la definició, del mateix Politar** *(capítol
+> IV del llibre II)*, que s'atura a donar-la **«per quant habem parlat de penas
+> trencadas y no tots saben lo que es»**: és la pena que s'incorre **quan algú
+> s'obliga voluntàriament sota pena determinada, o quan els ministres de justícia
+> l'obliguen a fer o no fer una cosa sota pena determinada, i contravé**. **I
+> l'exemple que en dona és exactament una manlleuta**: Tici fia Gai per treure'l
+> de la presó **sota pena de tres-centes lliures**, no el presenta dins del
+> termini del pregó, **i incorre les tres-centes**
+> ([un pernil i dos formatges per dobla](./un-pernil-i-dos-formatges-per-dobla.md)).
+>
+> **I hi ha l'abús.** El privilegi de les Valls mana **modificar i temperar** les
+> penes trencades, **«y no barbarament exegirlas totas a las fiansas o altres,
+> encara que fosen 300 ll. per un delicte de petita gravedat, com deplorablement
+> habia introduit est abus y corruptela a ulls y a vista dels rahonadors la
+> tirana y negra codicia dels ministres de justicia, sens reclamar ningu»**.
+> **Les cent lliures de l'acte del 1797 són, doncs, una xifra de la forquilla
+> alta d'aquest sistema**, i **el corpus no sap si es van temperar.**
+
 I al costat dels manlleutats, **el Politar hi posa els `guiats`**: els acusats
 que havien rebut **un salconduit vàlid fins a les Corts següents.**
 
@@ -233,7 +251,19 @@ I aquí hi ha el motiu pel qual tot això importava tant *(pàgines 319-320)*:
 > «**C'est la période des travaux agricoles, pendant laquelle les Andorrans sont
 > tout à leurs occupations.**»
 
-**Cent quaranta-cinc dies l'any sense tribunal criminal.** És la mateixa lògica
+**Cent quaranta-cinc dies l'any sense tribunal criminal.**
+
+> **I el 15-09-2026 el corpus en té el text andorrà i la qualificació jurídica.**
+> El **capítol IV del llibre II del Politar** diu que les Corts no es poden obrir
+> de sant Miquel de maig a sant Miquel de setembre **«segons privilegi de las
+> Valls»** —**no és costum, és privilegi**— i **en dona la raó**: perquè és **«lo
+> temps mes ocupat y lo unich temps en que se pot treballar en les Valls de
+> Andorra, cultivar los camps y prats»**. **I n'hi afegeix una segona, de
+> diners**: les Corts s'obren **una vegada l'any i no dues**, llevat de causa
+> justa, **pels molts costos que ocasionen**
+> ([un pernil i dos formatges per dobla](./un-pernil-i-dos-formatges-per-dobla.md)).
+
+És la mateixa lògica
 que tancava els tribunals civils per la sega i per les fires
 ([els tribunals tancaven per la fira d'Organyà](./els-tribunals-tancaven-per-la-fira-dorganya.md)),
 **portada fins al final: aquí no és que els terminis s'aturin, és que el tribunal

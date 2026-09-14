@@ -104,6 +104,10 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **composició** *(criminal)* | l'acord que tanca una causa criminal sense procés. **La fan els veguers amb intervenció dels dos rahonadors**, i el Jutge n'escriu la remissió **al marge del llibre de mostres** |
 | **sitiades** | despeses que els privilegis prohibien fer pagar a les parts, al costat de les *missions*. **El corpus registra el mot i no en té el significat** |
 | **araris de la Cort** | on es dipositaven **les penes pecuniàries** del criminal, per sentència o per composició. **El Jutge en cobrava dos sous per lliura abans de descomptar les despeses del tribunal** |
+| **truita** *(a les Corts)* | el pagament en espècie —**«com son pernills, formatges, &c.»**— que **no entrava als comptes de les Corts** i que **es repartien els veguers a mitges**, a raó d'**un pernill i dos formatges per dobla** de composició ([font primària](../../institucions/justicia/un-pernil-i-dos-formatges-per-dobla.md)). **El sentit es llegeix del context i no s'ha comprovat** |
+| **dobla** | moneda de compte. **5 lliures 12 sous**, documentat al Politar amb un exemple que quadra: **5 dobles = 28 lliures** |
+| **estrenes** | el que es dona a batlles, notari i porter en clausurar les Corts, **«tot ad libitum dels Veguers»** |
+| **paus i treves** | l'acte pel qual els batlles manen a dos que no renyeixin, **sota pena de 25 lliures** |
 | **ordinació** | norma d'un comú |
 | **foc i lloc** | impost parroquial |
 | **consòrcia** | unió de persones amb un interès comú que s'ajuden en cas de necessitat |
