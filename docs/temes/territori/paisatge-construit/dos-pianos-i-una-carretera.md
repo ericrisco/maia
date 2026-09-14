@@ -104,6 +104,24 @@ petroli, sucre i vi eren partides **espanyoles**, i Brutails preveu que la
 carretera les giri cap a França. **El corpus no té amb què comprovar si va
 passar.** **Buit registrat.**
 
+### Com es va decidir pagar-la: només les cases
+
+**Afegit el 2026-09-18, del mateix llibre, p. 196** ([només es pagaran les
+cases](../../institucions/consell-general/nomes-es-pagaran-les-cases.md)):
+
+> **Per a la ruta que està en construcció, el Consell ha decidit que, **no tenint la
+> Vall els fons necessaris per desinteressar tots els propietaris**, **els immobles
+> bastits serien els únics pagats immediatament**; **quant als immobles no bastits,
+> els interessos del preu seran servits fins que el Consell estigui en situació de
+> saldar.**
+
+**Per als terrenys, l'expropiació es convertia en un préstec forçós del propietari a
+la Vall, sense termini.** **I la font hi afegeix que va sentir andorrans sostenir
+que la mesura excedeix els poders del Consell, i que «sembla ben bé que l'observació
+és fonamentada i que la decisió del Consell és atacable».** **Amb una nota que obre
+un buit i el tanca ella mateixa**: «**hi hauria molt a dir igualment sobre la manera
+com aquesta decisió ha estat aplicada**».
+
 ### I el dia que va veure un vehicle
 
 > «La dernière fois que je fis le trajet d'Encamp aux Escaldes, **je rencontrai
@@ -178,6 +196,9 @@ projecte d'explotació del granit andorrà.
    fer. **Prioritari** — és la prehistòria de FHASA.
 2. **Quan es va acabar la carretera de França a Soldeu**, i si es va continuar
    cap a Espanya com es projectava.
+2 bis. **Com es va aplicar la decisió de pagar només els immobles bastits**, i
+   **si el Consell va arribar mai a saldar el capital dels terrenys.** **La font
+   diu «hi hauria molt a dir» i no ho diu.** **Prioritari.**
 3. **Si la carretera va girar cap a França** les compres de petroli, sucre i vi.
 4. **El granit**: cap projecte conegut.
 5. **Els dos pianos**: on eren, i de qui.
