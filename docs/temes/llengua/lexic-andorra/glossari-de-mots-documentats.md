@@ -159,6 +159,11 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **gravada** | segons Brutails, **costa pedregosa i xaragallada**; al Politar, **una cosa que s'enterra, s'arrasa i s'omple de runa amb les pluges**. **El corpus registra els dos usos i no en fixa la definició.** |
 | **confirmam** | la paraula que s'escrivia **a continuació del paper de comissió** d'un càrrec del Consell **quan se li renovava el nomenament al cap de l'any**. Politar, llibre III, cap. IV |
 | **fer plats i comares** | conducta prohibida al comissari de camins en l'exercici del càrrec. **El corpus no ho tradueix.** Politar, llibre III, cap. IV |
+| **la major i més sana part** | doctrina europea de vot que el Politar **nomena i rebutja expressament**: a Andorra **preval la majoria numèrica «sens que se atenga… la dignitat de les persones, com en las Valls de Andorra tots sien iguals»**, i **cap estatut ni costum no ho pot derogar**. Politar, apèndix, proposicions 3 i 4 |
+| **furveria** | frau o engany en la votació, que el Consell podia evitar **votant per sort en lloc de per veu**. **El corpus no en fixa el sentit.** Politar, apèndix, proposició 6 |
+| **estatut ambiciós** | la norma **feta «a benefici de certas y determinadas personas y en dany de altras sens rahonable causa»**, o amb **«la sola mira de complaurer a algunes… persones»**: **prohibida i revocable per recurs**. Politar, apèndix, proposició 44 |
+| **ofici vil** | categoria d'exclusió per ser cònsol, exemplificada amb **carnissers, nuncis, trompetes i lacais**. Politar, apèndix, proposició 16 |
+| **mal caduc** | l'epilèpsia, causa d'exclusió dels oficis de la República al costat de la ceguesa, la mudesa i la sordesa greu. Politar, apèndix, proposició 20 |
 | **ordinació** | norma d'un comú |
 | **foc i lloc** | impost parroquial |
 | **consòrcia** | unió de persones amb un interès comú que s'ajuden en cas de necessitat |

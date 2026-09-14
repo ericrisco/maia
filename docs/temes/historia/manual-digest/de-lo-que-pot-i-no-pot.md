@@ -54,6 +54,15 @@ font**, sense modernitzar:
 > **Núm. 32.** «Pot-se apel·lar dels estatuts, ordinacions, arrestos, acerca lo
 > efecte devolutiu i no en quant al suspensiu si són generals o a lo menos se
 > mera appellatione **se pot recórrer al superior per viam querelae**.»
+>
+> **Avís afegit el 16-09-2026: aquesta proposició no es llegeix igual a les dues
+> edicions.** On aquest estudi transcriu **«se mera appellatione»**, **Brutails,
+> el 1904, imprimeix «semota (sic) apellatione»** — **amb un «(sic)» de l'editor,
+> que ja hi va veure un problema al seu exemplar**
+> ([la major part, i no la més sana](../../institucions/consell-general/la-major-part-i-no-la-mes-sana.md)).
+> **Les altres quatre proposicions que aquesta fitxa transcriu coincideixen amb
+> la font primària.** `Registrat, no arbitrat: el corpus no té cap dels dos
+> manuscrits.`
 
 > **Núm. 33.** «Encara que les Valls o son Consell puga estatuir, ordenar i
 > arrestar **no impedeix que los prínceps ho puguen així mateix fer-ho**, com no
@@ -95,6 +104,11 @@ prínceps revocar un acte del Consell General?*
 | --- | --- |
 | **Manual Digest** (1748), p. 238 | «Diria que **no**, per ser cert que als prínceps los queda llibre semblant revocació per ses regalies» |
 | **Politar** (1764), p. 335 | «Diria que **sí**, per ser cert que als prínceps los queda llibre semblant revocassió per sas regalies» |
+| **Politar**, *contra una segona edició* — **verificat el 16-09-2026** | **Brutails, 1904, p. CLII: «Diria que si, per ser cert que als Princeps los queda llibre semblant revocacio per sas regalias»** |
+
+**La meitat del Politar de la contradicció està verificada contra una edició
+independent.** **La del Manual Digest, no**: **el corpus segueix sense tenir-ne
+el text.**
 
 **La justificació és la mateixa paraula per paraula. La resposta és la
 contrària.**
@@ -183,9 +197,14 @@ Va a
 
 ## Buits registrats
 
-1. **Les 44 proposicions i els 8 dubtes sencers.** El corpus en té **cinc i
-   un**. **Prioritari**: és el text constitucional andorrà d'abans de la
-   Constitució.
+1. ~~**Les 44 proposicions i els 8 dubtes sencers.** El corpus en té **cinc i
+   un**.~~ — **Les quaranta-quatre proposicions del Politar són al corpus des del
+   16-09-2026**, llegides contra la font primària
+   ([la major part, i no la més sana](../../institucions/consell-general/la-major-part-i-no-la-mes-sana.md)).
+   **Segueixen obertes dues coses**: **els vuit dubtes**, que són la unitat
+   següent, i **les proposicions del Manual Digest**, que **no són al corpus** i
+   **sense les quals no es pot comparar les dues obres proposició per
+   proposició**. **Prioritari.**
 2. **L'estudi d'Albert Villaró sobre la tradició manuscrita** del Manual Digest
    (ed. 2018).
 3. **La crisi de 1762** entre el Consell General i el bisbe **Francisco Catalán
