@@ -1,0 +1,86 @@
+FORA_DEL_CORPUS
+Font: Andorra Recerca i Innovació.
+URL: https://allaus.ad/ates
+Consulta: 2026-09-13. Drets reservats; autorització específica absent, no datasets.
+Extracció del text HTML; imatges, mapes i funcionalitats del visor no inclosos.
+
+Allaus.ad
+Ens veiem la següent temporada!
+BPA
+Meteo.ad
+ATES
+Accedir al geovisor
+Què és
+Catàleg de terrenys
+Trampes del terreny
+El projecte
+EDNA
+Qui som
+Motivacions i objectius
+Cursos
+Activitats
+Divulgació
+Blog
+Enllaços
+Zona usuari
+Notifica accident
+Cartografia ATES d'Andorra i proposta d'itineraris classificats
+Accedir al geovisor
+Què és la cartografia ATES?
+L’Escala d'Exposició de Terreny d’Allaus (ATES pel seu acrònim en anglès) és una eina que permet avaluar, descriure i comunicar com de procliu és el terreny a estar afectat per allaus, sense tenir en compte els factors variables nivometeorològics.
+La classificació ATES va ser desenvolupada l’any 2004 per Parks Canada arran d’un accident en que van morir set adolescents a causa, probablement, d’una mala elecció de l’itinerari. Des de llavors, aquesta escala s’ha anat aplicant a diversos massissos muntanyosos del Canadà i Nova Zelanda.
+Al Pirineu, aquest projecte s’ha desenvolupat al Centre de Lauegi d’Aran, a Tavascan, a alguns sectors del Pirineu aragonès i a Andorra. Per a realitzar aquesta classificació, els tècnics tenen en compte diferents variables com el pendent, la densitat de la vegetació, les trampes del terreny o la freqüència i mida d’allaus esperades, entre d’altres.
+El producte final és un mapa invariable en el qual el terreny allavós es divideix en tres classes.
+Normalment, aquest mapa va acompanyat del traçat d’alguns itineraris que també estan classificats amb aquesta eina
+Simple
+Exposició a pendents poc drets i terreny forestal. Algunes clarianes de bosc poden implicar zones d'arribada d'allaus poc freqüents. Moltes opcions per reduir o eliminar l'exposició
+Exigent
+Exposició a zones de trajecte d'allaus ben definides, a zones de sortida o a trampes. Hi ha opcions per reduir o eliminar l'exposició trobant rutes amb compte
+Complex
+Exposició a zones de trajecte d'allaus múltiples i superposades o a grans extensions de terreny obert i pendent. Zones d'inici d'allaus múltiples i amb trampes a sota. Mínimes opcions de reduir l'exposició
+Prepara la sortida a casa i
+endú-te-la a la muntanya
+Accedir al geovisor
+Catàleg de terrenys
+Per a classificar els terrenys, es tenen en compte múltiples variables com el pendent, la densitat de la vegetació, les trampes del terreny o la freqüència i mida d’allaus esperades.
+Simple
+Vessant sense bosc amb exposició a pendents poc drets (<20° aprox.) i amb moltes opcions per traçar itineraris segurs.
+Simple
+Lloms i carenes amples sense exposició a zones de sortida, trajecte i arribada d'allaus
+Simple
+Terreny forestal dens amb algunes clarianes que poden implicar zones d'allaus poc freqüents (freqüència >10 anys)
+Simple
+Terreny de bosc esclarissat amb pendents generalment inferiors a 30° però amb algunes zones de sortida d'allaus (>30°) isolades sense potencial d'enterrament complet.
+Exigent
+Terreny obert amb opcions per reduir o eliminar l'exposició a allaus amb potencial d'enterrament.
+Exigent
+Terreny dret però amb presència de bosc que fixa el mantell i limita la mida de les allaus esperades
+Complex
+Exposició a grans extensions de terreny obert i dret on és molt favorable el desencadenament d'allaus. Les opcions de reduir l'exposició són mínimes
+Complex
+Terreny dret amb zones de sortida i trajecte d'allaus múltiples i superposades. La forma d'embut del vessant i la presència d'arbres a la zona de trajecte de les allaus agreugen les conseqüències d'una possible allau
+Les trampes
+Trampa
+Malls situats sota una pala de més de 30° que poden provocar danys fatals si la persona és arrossegada per una allau i es precipita pel tallat. En terreny complex, també es preveuen trampes amb potencial d'enterrament complet
+Trampa
+Fons de vall estret i llarg, amb vessants drets. En cas d'allau de qualsevol mida, l'enterrament pot ser molt profund, a més de no presentar cap escapatòria ni ruta alternativa
+Trampa
+Bosc amb clarianes que són zones de sortida d'allaus; si es desencadena l'allau, els arbres augmentaran el risc de patir traumatismes
+El Projecte
+L'any 2015 el Centre d'Estudis de la Neu i la Muntanya d'Andorra (CENMA) va començar a treballar en la cartografia ATES per Andorra. Un any més tard, gràcies a un ajut del departament d'Ensenyament Superior, Recerca i Ajuts a l'Estudi del Ministeri d'Educació del Govern d'Andorra és va crear un projecte de recerca i desenvolupament entre el CENMA i l'Observatori de la Sostenibilitat d'Andorra (OBSA) dedicat a generar una plataforma per donar a conèixer aquesta cartografia.
+També al 2016, el Ministeri de Turisme i els diferents comuns d'Andorra, a través d'Infoturisme, d'Andorra Turisme, es van sumar al projecte per donar-li un impuls i obtenir en 4 anys la cartografia de totes les zones d’Andorra on es poden desenvolupar activitats hivernals de muntanya, així com afegir una descripció dels principals itineraris.
+D'aquesta manera, s'aconsegueix tant una eina per millorar la conscienciació i la seguretat a l'hora de preparar sortides en medi hivernal, com una plataforma per promocionar i donar a conèixer noves zones i rutes que permetin potenciar aquesta activitat a diferents indrets del país.
+ATES
+EDNA
+Accidents
+Notificar allau
+BPA
+Contacte
+Guia de Seguretat
+Avís Legal
+Política de privacitat
+Política d’ús
+Condicions generals de contractació
+Tots els drets reservats per Andorra Recerca + Innovació © 2026
+Dissenyat i desenvolupat amb ♥ des d’Andorra per Montpackers.com i Arcalaska.co
+​

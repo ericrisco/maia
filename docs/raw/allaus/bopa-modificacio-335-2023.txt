@@ -1,0 +1,151 @@
+FORA_DEL_CORPUS — evidència textual, no text consolidat
+Font: https://bopadocuments.blob.core.windows.net/bopa-documents/035084/pdf/GR_2023_06_30_12_15_55.pdf
+Peça: BOPA 84, 05-07-2023; Decret 335/2023 del 28-06-2023; 3 pàgines
+Consulta: 13-09-2026. Extracció pdftotext -layout; text complet llegit.
+Provinença prèvia: 02-DOCS/raw/sources/bopa-ad.md (workspace).
+Condicions generals BOPA per a informació textual, sense suport implícit.
+PDF i renders no es reutilitzen com a gràfics. Cap dataset exportat.
+
+         Núm. 84                                        5 de juliol del 2023                                                 1/3
+
+
+
+
+         Reglaments
+
+         Decret 335/2023, del 28 de juny del 2023
+         Decret 335/2023, del 28-6-2023, d’aprovació del Reglament de modificació del Reglament de classificació
+         i utilització del terreny segons la perillositat d’allaus, i de la cartografia de zonificació reglamentària de
+         la perillositat d’allaus.
+
+         Exposició de motius
+         El Govern, en la sessió del 9 de març del 2016, va aprovar el Decret d’aprovació del Reglament de classifi-
+         cació i utilització del terreny segons la perillositat d’allaus, i de la cartografia de zonificació reglamentària de
+         la perillositat d’allaus, que va ser publicat al Butlletí Oficial del Principat d’Andorra (BOPA) el dia 16 del mateix
+         mes i va entrar en vigor l’endemà.
+         El Reglament de classificació i utilització del terreny segons la perillositat d’allaus, i de la cartografia de zoni-
+         ficació reglamentària de la perillositat d’allaus estableix la qualificació del sòl i les prescripcions tècniques i
+         administratives relatives al desenvolupament en àrees amb afectacions per risc d’allau. En el context de la
+         utilització del sòl, entre altres aspectes, el Reglament defineix la documentació tècnica que han d’incloure
+         les sol·licituds de llicències urbanístiques i, en el marc de les prescripcions tècniques, defineix les conside-
+         racions tècniques de les mesures de protecció i defineix, qualifica i quantifica el risc residual màxim assu-
+         mible davant la problemàtica allavosa. El Reglament, així mateix, inclou excepcions per a les proteccions en
+         terrenys dels dominis esquiables, tenint en compte que en aquestes àrees el mantell nival i els fenòmens
+         associats a la seva desestabilització són vigilats i controlats pels concessionaris.
+         Ha estat, justament, l’experiència acumulada en aquesta darrera casuística associada als dominis esquiables
+         la que ha posat de manifest que escau precisar alguns detalls concrets sobre les característiques i l’abast
+         dels documents tècnics que els concessionaris han d’aportar en les sol·licituds de llicències urbanístiques.
+         Per aquest motiu, amb la finalitat d’esvair dubtes i facilitar la revisió i l’agilització en la tramitació d’aquestes
+         sol·licituds, es modifica puntualment l’article 35.2 i s’hi afegeix el punt 35.3. Aquest canvi està encaminat,
+         doncs, a esclarir quina documentació tècnica d’allaus han d’aportar els projectes que es desenvolupin en
+         terrenys de dominis esquiables incorporats al Pla d’intervenció per al desencadenament preventiu d’allaus
+         (PIDA) de l’estació.
+         D’altra banda, atès que també s’han constatat dos equivocacions menors en el text del reglament de l’any
+         2016, s’aprofita aquesta modificació per esmenar-les. La primera d’aquestes correccions es troba en l’ar-
+         ticle 1 i fa referència a l’any del Decret del 26 de setembre del 2012 que aprova la zonificació del terreny
+         segons la seva perillositat a causa de l’afectació per allaus, i a la cartografia de zonificació reglamentària de
+         la perillositat. La segona d’aquestes esmenes correspon a l’eliminació de l’article 7.4, que conduïa el lector
+         a un annex que finalment no va ser inclòs en el Reglament publicat al BOPA.
+         Pels motius exposats, a proposta del ministre de Territori i Urbanisme, el Govern, en la sessió del 28 de
+         juny del 2023, aprova aquest Decret amb el contingut següent:
+
+         Article únic
+         S’aprova el Reglament de modificació del Reglament de classificació i utilització del terreny segons la pe-
+         rillositat d’allaus, i de la cartografia de zonificació reglamentària de la perillositat d’allaus, que entrarà en
+         vigor l’endemà de ser publicat al Butlletí Oficial del Principat d’Andorra.
+
+
+
+
+Govern
+                                                            www.bopa.ad
+                                                                                                         Dipòsit legal: AND.2-2015
+         Núm. 84                                       5 de juliol del 2023                                                2/3
+
+
+
+
+         Reglament de modificació del Reglament de classificació i utilització del
+         terreny segons la perillositat d’allaus, i de la cartografia de zonificació
+         reglamentària de la perillositat d’allaus
+         Article 1
+         Es modifiquen els articles 1, 7.4 i 35.2 del Reglament de classificació i utilització del terreny segons la
+         perillositat d’allaus, i de la cartografia de zonificació reglamentària de la perillositat d’allaus, que queden
+         redactats com segueix:
+
+         “Article 1. Objecte
+         L’objecte d’aquest Reglament és establir la qualificació del sòl i les prescripcions tècniques i administratives
+         relatives al desenvolupament en matèria de riscos naturals d’acord amb la Llei general d’ordenació del
+         territori i urbanisme, segons la perillositat d’allaus establerta al Decret del 26 de setembre del 2012 que
+         aprova la zonificació del terreny segons la seva perillositat a causa de l’afectació per allaus, i a la cartografia
+         de zonificació reglamentària de la perillositat.”
+
+         “Article 7. Zonificació reglamentària de perillositat d’allaus
+         1. La zonificació reglamentària de perillositat d’allaus estableix les condicions tècniques i administratives per
+         a la utilització del sòl afectat per risc d’allaus. Desenvolupa la zonificació aprovada pel Govern mitjançant
+         el Decret del 26-9-2012.
+         2. Segons la perillositat, i d’acord amb la cartografia reglamentària de perillositat d’allaus, s’estableix la
+         zonificació següent:
+           a) R1: zona reglamentària de perillositat alta
+           b) R2B: zona reglamentària de perillositat condicionada mitjana per gran allau
+           c) R2: zona reglamentària de perillositat mitjana per gran allau
+           d) R3: zona reglamentària de perillositat baixa per gran allau i/o corona de precaució associada a gran allau
+           e) R4: zona reglamentària de perillositat mitjana per allau de vessant
+           f) R5: zona de perillositat baixa per allau de vessant i/o corona de precaució associada a allau de vessant
+           g) R6: zona reglamentària de perillositat màxima versemblant
+           h) R7: zona reglamentària de bosc de defensa
+         3. Els terrenys de perillositat sense determinar s’han de catalogar segons la zonificació de l’apartat anterior,
+         en funció dels articles 3, 4 i 5 del capítol primer, atenent els resultats dels estudis tècnics específics d’allaus
+         promoguts per particulars o entitats públiques.”
+
+         “Article 35. Actuacions excepcionals en instal·lacions pròpies de dominis esquiables
+         1. Com a excepcions a l’article 12, per protegir els usuaris i les instal·lacions dels dominis esquiables es
+         poden aplicar mesures de protecció temporal, mentre aquestes instal·lacions continuïn formant part dels
+         dominis esquiables i estiguin incorporades al Pla d’intervenció per al desencadenament preventiu d’allaus
+         (PIDA) de l’estació, segons la reglamentació en matèria de desencadenament preventiu d’allaus.
+         2. En l’àmbit d’aplicació d’aquest Reglament i en ocasió de projectes que es desenvolupin en terrenys de
+         dominis esquiables incorporats al Pla d’intervenció per al desencadenament preventiu d’allaus (PIDA) de
+         l’estació, s’ha de fer una nota tècnica específica d’allaus quan els projectes se situïn fora de la zona d’abast
+         de la cartografia reglamentària i sempre que no hagin estat inventariats en el Cadastre d’allaus sota la de-
+         signació‘amb informació històrica’. Aquesta nota tècnica específica d’allaus ha de comprendre el contingut
+         mínim de l’annex III, per assegurar que les proteccions temporals previstes són suficients, o, en cas contrari,
+         si s’han d’adoptar mesures complementàries per garantir que el risc residual és assumible i les actuacions
+
+
+
+Govern
+         previstes no comporten un augment del risc propi o aliè. En ocasió de projectes situats en una àrea‘amb
+
+
+
+                                                            www.bopa.ad
+                                                                                                       Dipòsit legal: AND.2-2015
+         Núm. 84                                      5 de juliol del 2023                                               3/3
+
+
+
+
+         informació històrica’dins el Cadastre d’allaus, correspon elaborar un estudi tècnic específic d’allaus, el qual
+         ha de comprendre el contingut mínim de l’annex I.
+         3. En l’àmbit d’aplicació d’aquest Reglament i en ocasió de projectes que es desenvolupin en terrenys de
+         dominis esquiables incorporats al Pla d’intervenció per al desencadenament preventiu d’allaus (PIDA) de l’es-
+         tació, s’aplica, respectivament, el que requereix l’article corresponent que regula la zonificació reglamentària
+         d’allaus (articles 14-21) quan els projectes se situïn dins de la zona d’abast de la cartografia reglamentària.
+         Segons escaigui, la documentació tècnica específica d’allaus ha de comprendre el contingut mínim dels
+         annexos I o III, per assegurar que les proteccions temporals previstes són suficients, o, en cas contrari, si
+         s’han d’adoptar mesures complementàries per garantir que el risc residual és assumible i les actuacions
+         previstes no comporten un augment del risc propi o aliè.”
+         Cosa que es fa pública per a coneixement general.
+
+         Andorra la Vella, 28 de juny del 2023
+
+         Xavier Espot Zamora
+         Cap de Govern
+
+
+
+
+Govern
+                                                          www.bopa.ad
+                                                                                                     Dipòsit legal: AND.2-2015
+

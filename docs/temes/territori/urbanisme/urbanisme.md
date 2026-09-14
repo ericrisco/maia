@@ -80,9 +80,41 @@ territori nacional blindat**, en un país que no té on posar la gent.
 - Les **estacions d'esquí** com a fet urbanístic, no com a indústria.
 - El **despoblament dels pobles alts** contra la concentració al fons de vall.
 - L'**arquitectura tradicional** —la casa andorrana, la borda de veritat— i el
-  seu lèxic: *cap de casa* 'golfa', *gaial* 'obertura al sostre', *tampall*,
-  *rellindar*, *escaliró*, *càbio*. **El corpus té les paraules i no té les
-  cases.**
+  seu lèxic. **El corpus té les paraules i no té les cases.** — **`parcial` des
+  del 2026-09-13: les paraules, ara aplegades i amb els seus avisos.**
+
+  | Mot | Què vol dir | Estat |
+  | --- | --- | --- |
+  | **cap de casa** | **golfa** — i **també el membre de la família que té l'autoritat** | **admès al DIEC2** el 2003 |
+  | **gaial** | **obertura feta al sostre** | **el DIEC2 el defineix com «obertura feta en una paret»** — **a Andorra és al sostre** |
+  | **tampall** | **porticó que obre cap enfora** | candidat |
+  | **rellindar** | llinda | candidat |
+  | **escaliró** | esglaó | candidat |
+  | **càbio** | cabiró | **proposat i rebutjat per l'IEC** |
+  | **posella** | prestatge | *Diccionari enciclopèdic d'Andorra* |
+  | **arribada** | **marge fet amb terra amuntegada** | candidat |
+  | **borda** | **restaurant típic de l'Alt Pirineu**, i **antiga borda rehabilitada per a caps de setmana** | **sentit nou; proposat i rebutjat per l'IEC** |
+  | **pleta** | tradicionalment, **lloc on es guarda bestiar**; **avui, urbanització** | **sentit nou** |
+
+  (Tot al [glossari de mots
+  documentats](../../llengua/lexic-andorra/glossari-de-mots-documentats.md).)
+
+  > **Dos d'aquests mots són aquest article escrit en una paraula.** ***Borda***
+  > passa de construcció agrícola a restaurant i a segona residència; ***pleta***
+  > passa de tancat de bestiar a **urbanització**. **El vocabulari de la casa
+  > andorrana ha canviat de sentit exactament on ha canviat el país.**
+  > `deducció del corpus`: el glossari dona els dos sentits de cadascun i **no en
+  > fa aquesta lectura**.
+  >
+  > **I *cap de casa* val doble**: **golfa i cap de família alhora.** Vegeu
+  > [la casa als papers](../../historia/antic-regim/la-casa-als-papers.md) i
+  > [l'hereu i el cabaler](../../historia/antic-regim/lhereu-i-el-cabaler.md):
+  > **la mateixa paraula designa el pis de dalt i qui mana.**
+
+  **El que segueix obert són les cases**: la planta, els materials, la tipologia
+  per parròquia i el pas de la borda a l'habitatge. `Requereix font externa:
+  l'inventari de patrimoni arquitectònic del Govern.` Vegeu
+  [el paisatge construït](../paisatge-construit/paisatge-construit.md).
 
 ## Related
 

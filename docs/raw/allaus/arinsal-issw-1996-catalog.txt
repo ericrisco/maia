@@ -1,0 +1,50 @@
+Avalanche Modeling in France - Theory and Applications, International Snow Service Workshops (ISSW) Proceedings professional paper or poster talk citation record. - Montana State University Library
+International Snow Science Workshop Proceedings - Montana State University Library
+skip navigation
+Digital Collections Home
+Item:
+Avalanche Modeling in France - Theory and Applications
+Title:
+Avalanche Modeling in France - Theory and Applications
+Proceedings:
+Proceedings of the 1996 International Snow Science Workshop, Banff, Canada
+Authors:
+Mohamed Naaim
+[ Cemagref, Division Nivologie, B.P.76, F-38402, Saint Martin d'Heres, France ]
+Gerard Brugnot
+[ Cemagref, Division Nivologie, B.P.76, F-38402, Saint Martin d'Heres, France ]
+Jean Claude Charry
+[ Cemagref, Division Nivologie, B.P.76, F-38402, Saint Martin d'Heres, France ]
+Date:
+1996
+Abstract:
+First, this paper succinctly describes our numerical powder snow avalanche model. Then, an application of this model is presented in the frame of an avalanche zoning. This application is an example of a practical use of the numerical model in avalanche risk engineering. For each study the model was used to simulate different avalanche scenarios. It allows to give a coherence between input data (production conditions)
+and the effects of the avalanche. The use of the model can be made according to the following process: First it begins with searching in the archives for the most important powder snow avalanche having taken place on the site. This search concerns the conditions of production as well as the effects of the avalanche in its flowing and run-out zones. For this purpose, different indicators can be used. All caused damages "indicate" that the dynamic pressure developed by the avalanche was superior to the threshold stress of the damaged objects (tree, pylon, etc.). Effects are mapped in terms of pressure fields. Secondly we use the numerical model to simulate an avalanche scenarios whose entry conditions take into
+account all the available observations concerning the production factors (meteorology, snow, starting zone etc.). It is important to note here that such type of data is very often sketchy for several technical reasons ( access
+to starting zone ... ). Several numerical simulations allow to specify and complete the model input conditions. The purpose is to define a "reference avalanche"
+which produces effects similar to the observed one (pressure field, velocities, height etc.). Last we define the "observed-extreme-avalanche" and simulate it. The model gives access to a large spectra of scenarios by increasing or reducing production conditions or by modifying the topography of the flowing or run-out zones. Therefore, we can build a database of avalanches that can be used in defining the protection for the desired site.
+Object ID:
+issw-1996-239-243.pdf
+Language of Article:
+English
+Presenter(s):
+Unknown
+Keywords:
+model, risk, avalanche
+Page Number(s):
+239-243
+Subjects:
+avalanche model
+avalanche starting zones
+avalanche risk
+Get Full Article
+Back to Home page
+For library collections that are not accessible, we are committed to providing reasonable accommodations and timely access to users with disabilities. For assistance, please
+submit an accessibility request
+for library material.
+© Copyright 2001-2026  Montana State University Library
+Research Optimization, Analytics and Data Services (ROADS)
+|
+Contact Us
+|
+XML feed

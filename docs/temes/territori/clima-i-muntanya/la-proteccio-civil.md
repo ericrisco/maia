@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: jurisprudencia-ad
-timestamp: 2026-09-13T22:30:00Z
+timestamp: 2026-09-13T17:25:48Z
 tags: [territori, clima, dret, societat, muntanya, turisme]
 ---
 
@@ -105,11 +105,17 @@ Hi ha també un **Cos de voluntaris de protecció civil** amb capítol propi
 
 ## Buits registrats
 
-- **Quins són els riscos identificats a Andorra** i quins plans hi ha aprovats,
-  la llei no ho diu: els plans es fan segons el seu títol cinquè i **no són al
-  corpus**.
-- **Els episodis reals** —allaus, aiguats, nevades que tallen les carreteres— no
-  tenen encara fitxa al corpus, i són la prova d'aquesta llei.
+- **Plans, buit parcialment tancat:** s'ha llegit el
+  [pla d'Arinsal de 2022](el-pla-darinsal-i-els-avisos-dallaus.md),
+  amb l'avís BOPA d'aprovació, i la
+  [guia per als edificis](la-guia-dallaus-per-als-edificis.md), que és
+  un model de redacció. Queden pendents els altres cinc plans enllaçats
+  pel portal, el cens complet de plans i l'operativitat actual.
+- **Episodis reals, buit parcialment tancat:** hi ha una primera
+  [lectura de les allaus d'Arinsal del 1996](que-es-va-mesurar-a-lallau-darinsal.md),
+  amb mesures, estimacions i cronologies atribuïdes. És anterior a
+  la llei de 2022 i no n'acredita l'aplicació. Queden pendents el
+  conjunt d'episodis, els informes operatius originals i els aiguats.
 - **Quantes persones hi ha al Cos de voluntaris**, no consta.
 - **Si el deure de col·laboració s'ha activat mai**, tampoc.
 - **La [Llei de seguretat pública](../../institucions/justicia/el-dret-vigent.md)**

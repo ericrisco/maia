@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: viquipedia-ca
-timestamp: 2026-09-12T05:50:00Z
+timestamp: 2026-09-13T17:25:48Z
 tags: [territori, clima, muntanya, neu]
 ---
 
@@ -67,11 +67,23 @@ Aquests sis mesos són **la base material** de
 [l'esport](../../societat/esport/lesport.md). No és casualitat que un país de
 80.000 habitants porti la delegació olímpica d'hivern que porta.
 
-## El que falta
+## Related
 
-- **Les allaus**: buscades expressament i **no documentades aquí**. En un país
-  d'aquesta verticalitat són un fet de seguretat i de vida quotidiana, amb servei
-  propi de prevenció. **Buit registrat, prioritari.**
+- [Geografia física](../geografia-fisica/geografia-fisica.md)
+- [Turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md)
+- [Fauna i flora](../fauna-i-flora/fauna-i-flora.md)
+
+## Buits registrats
+
+- **Allaus, buit parcialment tancat:** hi ha una primera lectura de
+  [la classificació ATES](que-classifica-el-mapa-ates-dandorra.md), amb
+  definició i límits de l'eina, i del
+  [BPA estacional i la seva escala](les-dates-i-lescala-del-butlleti-dallaus.md).
+  També hi ha una primera lectura de
+  [l'episodi d'Arinsal de 1996](que-es-va-mesurar-a-lallau-darinsal.md),
+  que distingeix mesures i estimacions. Continuen pendents el pronòstic
+  hivernal complet, l'inventari històric, altres episodis i la verificació
+  dels mapes; no es declara coberta tota la matèria.
 - ~~El **canvi climàtic** i què li fa a la temporada de neu — «no hi ha ni una
   línia».~~ **JA HI HA FITXA:**
   [El canvi climàtic a Andorra](./el-canvi-climatic.md) — les màximes d'estiu
@@ -82,9 +94,3 @@ Aquests sis mesos són **la base material** de
   més val per a maia** i no s'ha buidat.
 - La **toponímia dels cims**, coll a coll — lligat al
   [Nomenclàtor](../toponimia/toponimia-andorrana.md).
-
-## Related
-
-- [Geografia física](../geografia-fisica/geografia-fisica.md)
-- [Turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md)
-- [Fauna i flora](../fauna-i-flora/fauna-i-flora.md)

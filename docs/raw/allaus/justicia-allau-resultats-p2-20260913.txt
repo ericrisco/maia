@@ -1,0 +1,7 @@
+FORA_DEL_CORPUS — captura de metadades del DOM públic, 13-09-2026.
+Consulta de text lliure allau; sense filtre temporal; totes les jurisdiccions i tipus. Pàgina2 de2.
+No és text de resolucions ni validació de resums IA.
+Script ran on page and returned:
+```json
+{"url":"https://jurisprudencia.poderjudicial.es/andorra/#","query":"allau","page":2,"titles":["STSJAD ANDORRA, a 12 d'abril del 2010 - ROJ: STSJAD 28/2010","STSJAD ANDORRA, a 16 de febrer del 2006 - ROJ: STSJAD 85/2006","ATSJAD ANDORRA, a 14 d'abril del 2005 - ROJ: ATSJAD 34/2005","STSJAD ANDORRA, a 08 de gener del 2004 - ROJ: STSJAD 27/2004","STSJAD ANDORRA, a 18 de novembre del 2002 - ROJ: STSJAD 83/2002","ATSJAD ANDORRA, a 20 d'abril del 1998 - ROJ: ATSJAD 9/1998"],"count":"16 resultats","identifiers":["ECLI:AD:TSJADAD:2010:28","ECLI:AD:TSJADAD:2006:85","ECLI:AD:TSJADAD:2005:34A","ECLI:AD:TSJADAD:2004:27","ECLI:AD:TSJADAD:2002:83","ECLI:AD:TSJADAD:1998:9A"]}
+```

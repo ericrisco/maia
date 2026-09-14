@@ -1,0 +1,161 @@
+FORA_DEL_CORPUS
+Font: Servei Meteorològic Nacional, https://www.meteo.ad/estatneu
+Consulta HTTP: 2026-09-13. Drets pendents; no datasets. Text HTML; imatges no incloses.
+
+Meteo.ad. Servei Meteorològic Nacional.
+Menu
+Servei Meteorològic Nacional. Meteo.ad
+Servei Meteorològic Nacional
+CA
+ES
+FR
+EN
+Inici
+Qui som
+Presentació
+Missió i Funcions bàsiques
+Història
+Previsió meteorològica
+Avisos meteorològics
+Butlletí d’allaus
+Climatologia
+Estacions meteorològiques
+Climatologia
+Butlletins Climàtics
+Divulgació
+Enllaços
+Neu i allaus
+Meteorologia
+Publicacions de l'SMN
+Xarxa Observadors
+Serveis
+Àrea privada
+Json
+Ginys
+Contacte
+Versió per imprimir
+Butlletí del perill d'allaus del Principat d'Andorra
+Elaborat el 16/07/2026 13:56, vàlid fins el 01/12/2026
+Propera actualització 01/12/2026 a les 16:00
+Zona nord
+Problema
+Vessants
+Mida
+Sobrecàrrega
+Tendència
+Zona centre
+Problema
+Vessants
+Mida
+Sobrecàrrega
+Tendència
+Zona sud
+Problema
+Vessants
+Mida
+Sobrecàrrega
+Tendència
+Gruixos del mantell nival fora de pista
+Zona nord
+Gruix neu
+Mantell Nival
+1500m
+2000m
+2500m
+N
+2900 m
+0 cm
+0 cm
+0 cm
+S
+2900 m
+0 cm
+0 cm
+0 cm
+Zona centre
+Gruix neu
+Mantell Nival
+1500m
+2000m
+2500m
+N
+2900 m
+0 cm
+0 cm
+0 cm
+S
+2900 m
+0 cm
+0 cm
+0 cm
+Zona sud
+Gruix neu
+Mantell Nival
+1500m
+2000m
+2500m
+N
+2900 m
+0 cm
+0 cm
+0 cm
+S
+2900 m
+0 cm
+0 cm
+0 cm
+Estabilitat del mantell nival
+La publicació regular de butlletins d’allaus amb mapa del perill d’allaus es reprendrà a principis de desembre, segons la situació de neu.
+Qualitat de la neu
+Gruixos de neu nova dels darrers dies (de les últimes 24h mesurat a les 06:00h UTC)
+09/09/2026
+10/09/2026
+11/09/2026
+12/09/2026
+Breu guia nivometeorològica
+Aquest butlletí ha estat elaborat amb col·laboració amb Météo France i elaborat seguint les normes i recomanacions de l’European Avalanche Warning Services, del qual el Servei meteorològic Nacional n’és membre.
+×
+Escala Europea de Perill d'Allaus
+Índex de perill
+Estabilitat del mantell nival
+Probabilitat de desencadenament
+Indicacions per a l'esquí forapista i recomanacions
+5 Molt fort
+El mantell està poc consolidat i és molt inestable en general.
+S'esperen caigudes de forma espontània de nombroses allaus molt grans i fins i tot extremadament molt grans, inclús en terreny poc inclinat*.
+Cal renunciar a les excursions i la presència a la muntanya.
+4 Fort
+El mantell nival està feblement estabilitzat a la majoria de pendents inclinats*.
+És probable el desencadenament d'allaus fins i tot per una sobrecàrrega feble** en nombrosos pendents inclinats*. En algunes ocasions es poden esperar nombroses caigudes espontànies de nombroses allaus grans i sovint molt grans.
+Excursions limitades a zones amb pendent moderat i sense estar exposats a allaus que es desencadenin de parts superiors.
+3 Marcat
+El mantell nival està entre moderadament a feblement estabilitzat en nombrosos pendents inclinats*.
+És possible el desencadenament d'allaus fins i tot per sobrecàrrega feble** sobretot en el terreny* indicat en el butlletí. En algunes situacions són possibles les caigudes de forma espontània d'algunes allaus grans i de manera aïllada de molt grans.
+Cal evitar els vessants inclinats en les altituds i les orientacions indicades al BPA. Es requereix molta experiència i una bona capacitat d'apreciació del perill d'allaus. És primordial escollir el terreny segons les condicions.
+2 Moderat
+El mantell nival està moderadament estabilitzat en alguns pendents inclinats*; a la resta està ben estabilitzat.
+El desencadenament d'allaus sobretot per sobrecàrrega forta** en terreny inclinat *, generalment descrit al butlletí. No s'esperen allaus espontànies de mida molt gran.
+Cal una planificació acurada de les excursions. S'aconsella prudència en la selecció de l'itinerari, sobretot cal evitar els vessants inclinats amb l'orientació i l'altitud indicades.
+1 Feble
+El mantell nival està ben estabilitzat en general.
+En general els desencadenaments només són possibles aïlladament per sobrecàrrega forta** en terreny molt inclinat*. De forma espontània només són possibles allaus petites i mitjanes.
+Les excursions i el descens amb esquís són possibles gairebé sense restriccions, encara que cal seguir les recomanacions del BPA.
+(*) El terreny propens a la caiguda d'allaus es descriu amb més detall en el Butlletí de Perill d'Allaus (altitud, orientació del vessant, tipus de terreny):
+- Pendent moderadament inclinat: pendents inferiors a 30º
+- Pendents inclinats: pendents superiors a uns 30º
+- Pendent molt inclinat i pendent extrem: terreny especialment advers relacionat amb l'angle de pendent (superior a 40º aproximadament), perfil del terreny, proximitat de cresta, sòl subjacent amb poca rugositat.
+(**)Sobrecàrrega addicional:
+- Feble: esquiador individual /surfista, circulació suau, sense caure, respectant les distàncies de seguretat (mínim 10 metres)
+- Forta: dos o més esquiadors/surfistes sense l'espai de seguretat (o sense intervals); vehicles motoritzats; explosius
+Espontània: Sense influència humana
+×
+Llegenda
+Inici
+Presentació
+Previsió meteorològica
+Butlletí d’allaus
+Climatologia
+Estacions meteorològiques
+Enllaços
+Contacte
+Avís Legal

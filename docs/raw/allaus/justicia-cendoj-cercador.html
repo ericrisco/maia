@@ -1,0 +1,1030 @@
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+		
+			
+			
+				<title>CENDOJ : Cercador del Sistema de Jurisprudència</title>
+			
+		
+        <meta http-equiv="Expires" content="-1" />
+        <meta http-equiv="Pragma" content="no-cache" />
+        <meta http-equiv="Cache-Control" content="no-cache" />
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        
+		
+		
+		<meta name="robots" content="none, noarchive" />
+
+		<link rel="icon" href="/andorra/img/thumbnail_image.jpg" sizes="32x32">
+		<link rel="icon" href="/andorra/img/thumbnail_image.jpg" sizes="192x192">
+		<link rel="apple-touch-icon" href="/andorra/img/thumbnail_image.jpg">
+		
+        <link href='/andorra/css/font-roboto.css' rel='stylesheet' type='text/css'>
+
+		<link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+
+        <link rel="stylesheet" type="text/css" media="all" href="/andorra/css/jquery-ui.min.css" />
+		<link rel="stylesheet" type="text/css" media="all" href="/andorra/css/normalize.css" />
+		<link rel="stylesheet" type="text/css" media="all" href="/andorra/css/bootstrap.min.css" />
+		<link rel="stylesheet" type="text/css" media="all" href="/andorra/css/bootstrap-select.min.css" />
+		<link rel="stylesheet" type="text/css" media="all" href="/andorra/css/bootstrap-datetimepicker.min.css" />
+		<link rel="stylesheet" type="text/css" media="all" href="/andorra/css/font-awesome.min.css"/>
+		<link rel="stylesheet" type="text/css" media="all" href="/andorra/css/bootstrap-multiselect.css"/>
+		<link rel="stylesheet" type="text/css" media="all" href="/andorra/css/common-styles.css?guid=202608240847" />
+        <link rel="stylesheet" type="text/css" media="all" href="/andorra/css/styles.css?guid=202608240847" />
+		<link rel="stylesheet" type="text/css" media="all" href="/andorra/css/captcha.css?guid=202608240847"/>
+		<link rel="stylesheet" type="text/css" media="all" href="/andorra/css/lineajur.css?guid=202608240847" />
+        <link rel="stylesheet" type="text/css" media="all" href="/andorra/css/bbLineajViewer.css?guid=202608240847" />
+        <link rel="stylesheet" type="text/css" media="all" href="/andorra/css/tesauro.css?guid=202608240847" />
+        <!--  ayudas -->
+        <link rel="stylesheet" type="text/css" media="all" href="/andorra/css/help.css?guid=202608240847" />
+        <link rel="stylesheet" type="text/css" media="all" href="/andorra/css/responsive.css?guid=202608240847" />
+        
+        <link rel="stylesheet" type="text/css" media="print" href="/andorra/css/print.css" />
+        
+		<!-- librerias externas -->        
+			
+        <script src="/andorra/js/common-scripts/ext/respond.min.js" type="text/javascript"></script>
+        <script src="/andorra/js/common-scripts/ext/moment.js" type="text/javascript"></script>
+        <script src="/andorra/js/common-scripts/ext/locale/es.js" type="text/javascript"></script>
+        <script src="/andorra/js/common-scripts/ext/locale/gl.js" type="text/javascript"></script>
+        <script src="/andorra/js/common-scripts/ext/locale/ca.js" type="text/javascript"></script>
+        <script src="/andorra/js/common-scripts/ext/locale/eu.js" type="text/javascript"></script>
+        <script src="/andorra/js/common-scripts/ext/jquery-1.11.2.min.js" type="text/javascript"></script>
+        <script src="/andorra/js/common-scripts/ext/jquery-ui.min.js" type="text/javascript"></script>
+		<script src="/andorra/js/common-scripts/ext/bootstrap.js" type="text/javascript"></script>
+		<script src="/andorra/js/common-scripts/ext/bootstrap-select.js" type="text/javascript"></script>
+		<script src="/andorra/js/common-scripts/ext/bootstrap-datetimepicker.min.js" type="text/javascript"></script>
+        <script src="/andorra/js/common-scripts/ext/jquery.nicescroll.js" type="text/javascript"></script>
+        <script src="/andorra/js/common-scripts/ext/clipboard.min.js" type="text/javascript"></script>
+        <script src="/andorra/js/common-scripts/ext/jquery.fileDownload.js" type="text/javascript"></script>
+		<script src="/andorra/js/bootstrap-multiselect.js" type="text/javascript"></script>
+        <script src="/andorra/js/common-scripts/webspeech.js" type="text/javascript"></script>
+
+        <script src="/andorra/js/ext/d3.v7.js" type="text/javascript"></script>
+        <script src="/andorra/js/common-scripts/bbLineajViewer.js" type="text/javascript"></script>
+        <script src="/andorra/js/tesauro.js" type="text/javascript"></script>
+        
+		<script type="text/javascript">
+		<!-- 
+			var contextPath = "/andorra/";
+			var mobile = false;
+			
+			
+			
+			var PORTAL_URL = "https://www.poderjudicial.es/andorra";
+			
+			const sessionId = '40506853641837DAF7A76DE33DF98CFC.sidolapp04';
+			
+		-->
+		</script>
+		
+        <script src="/andorra/js/common-scripts/cookies.js?guid=202608240847" type="text/javascript"></script>
+        <script src="/andorra/js/common-scripts/localizaciones.js?guid=202608240847" type="text/javascript"></script>
+        <script src="/andorra/js/common-scripts/form-components.js?guid=202608240847" type="text/javascript"></script>
+        <script src="/andorra/js/common-scripts/common-scripts.js?guid=202608240847" type="text/javascript"></script>
+        <script src="/andorra/js/common-scripts/jurisprudencia.js?guid=202608240847" type="text/javascript"></script>
+        
+        <script src="/andorra/js/functions.js?guid=202608240847" type="text/javascript"></script>
+        
+        <!-- autocomplete -->   
+		<script src="/andorra/js/autocompleteLocal/ponentes.js" type="text/javascript"></script>
+        <script src="/andorra/js/autocompleteLocal/magistrados.js" type="text/javascript"></script>
+        <script src="/andorra/js/autocompleteLocal/voces.js" type="text/javascript"></script>
+        
+    </head>
+    <body class="publico TS" data-tab="TS">
+		<section id="main-container" >
+			
+			<!-- header start -->
+			<header class="header">
+				
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-xs-12 col-sm-6">
+							<div class="logo pull-left">
+								<img src="/andorra/img/logo.png" alt="Consell Superior de la Justícia"/>
+							</div> <!-- .logo -->
+						</div>
+						<div class="col-xs-12 col-sm-6">
+							<div class="main-header">
+								<div class="pull-right lang-selection">
+									<ul class="hidden">
+										
+											<li data-lang="es">
+												<a href="#">es</a>
+											</li>
+										
+										
+											<li data-lang="ca">
+												
+													<span class="separator">&nbsp;</span>
+												
+												<a href="#">cat</a>
+											</li>
+										
+										
+											<li data-lang="gl">
+												<span class="separator">&nbsp;</span>
+												<a href="#">ga</a>
+											</li>
+										
+										
+											<li data-lang="eu">
+												<span class="separator">&nbsp;</span>
+												<a href="#">eusk</a>
+											</li>
+										
+									</ul>
+								</div> <!-- .lang-selection -->
+									
+														
+								<div class="pull-right utils">
+									<ul>
+										
+									</ul>
+								</div> <!-- .pull-right -->
+								
+								
+								<div class="pull-right hidden-xs appname">
+									<h1>
+										Jurisprudència
+									</h1>
+									<div class="flag"></div>
+								</div> <!-- .appname -->
+								
+								
+							</div> <!-- .main-header -->
+						</div> <!-- .col-xs-12 -->
+					</div> <!-- .row -->
+				</div> <!-- .container-fluid -->
+			</header>
+			<!-- header end -->
+			
+			<div class="container-fluid">
+				
+				<div class="row">
+					
+					<!--main content start-->
+					<section id="main-content" class="main-content">
+						
+						<!-- tab jurisprudencia start -->
+						<section id="jurisprudencia" class="bbtabcontent active">
+							
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+		
+		
+		
+		
+	
+
+
+<ol class="breadcrumb hidden">
+	<li data-subtab="search" class="active on"><a href="#">Cercador</a></li>
+	<li data-subtab="results" class=""><a href="#">Resultats</a></li>
+	<li data-subtab="content"><a href="#">Document</a></li>
+</ol>
+<!-- .breadcrumb -->
+
+<div id="jurisprudenciasearch"
+	class="clearfix search bbsubtabcontent active">
+
+	<div id="mainjurisprudenciasearch">
+
+		<div id="jurformmenu" class="row topmenu">
+			<ul class="pull-right">
+				<li class="lnchtesauro" >
+					<span id="lnchtesauro">
+						<a class="tooltips" href="#" data-toggle="tooltip" data-placement="top" data-original-title="Obrir el TESAURUS">Tesaurus</a>
+					</span>
+				</li>
+				<li class="lnchnormas" >
+					<span id="lnchnormas" data-a="normas" data-toggle="popover" data-placement="top" aria-describedby="normaspopover" data-callback="seleccionarChecksNormas();">
+						<a href="#">Normes</a>
+					</span>
+				</li>
+			</ul>
+		</div> <!-- #jurformmenu -->
+		<!--  popovers -->
+		<div class="hidden">
+			<div id="tesauro">
+				<div id="layouttesauro" class="layouttesauro">
+					<ul class="root">
+						<li data-ref="CIVIL">
+							<a href="#">
+								Civil
+							</a>
+						</li>
+                        <li data-ref="PENAL">
+                    		<a href="#">
+								Penal
+							</a>
+						</li>
+                        <li data-ref="CONTENCIOSO">
+                    		<a href="#">
+								Administrativa
+							</a>
+						</li>
+                        <li data-ref="SOCIAL">
+                    		<a href="#">
+								Social
+							</a>
+						</li>
+                        <li data-ref="MILITAR">
+                    		<a href="#">
+								Militar
+							</a>
+						</li>                                            
+                        <li data-ref="CONSTITUCIONAL">
+                    		<a href="#">
+								Constitucional
+							</a>
+						</li>
+                 	</ul>
+				</div> <!-- #layouttesauro -->
+                <div id="layouttesauroOpen" class="hidden"></div>    
+                <div id="tesaurovocesquery" style="display: none;"><ul></ul></div>  
+			</div>
+			<div id="normas">
+				 <div id="layoutnorma" class="advanced">
+					<div class="desc">
+						Utilitzeu el cercador de disposicions per cercar normes<br/>que són citades en les diferents resolucions del fons documental.
+					</div> <!-- .desc -->
+					<div id="busquedaNormas" class="searchform row">
+						<form id="searchNormaForm" action="#">
+							<input type="hidden" id="searchNormaForm_action" name="action" value="getNormasList"/>
+							<input type="hidden" id="searchNormaForm_start" name="start" value="1"/>
+							<input type="hidden" id="searchNormaForm_recordsPerPage" name="recordsPerPage" value="20"/>
+							<input type="hidden" id="searchNormaForm_maxresults" name="maxresults" value="0"/>
+							<input type="hidden" id="searchNormaForm_page" name="page" value="1"/>
+							<input type="hidden" id="searchNormaForm_databasematch" name="databasematch" value="legislacion"/>
+							
+							<div class="row">
+								<div class="col-xs-11">
+									<div class="input-group m-bot15">
+										<input type="text" name="TITULO" id="searchNormaForm_TEXTNorma" onkeyup="searchNorma();" autocomplete="off" class="form-control input-sm" />
+										<span class="input-group-btn">
+											<button class="btn btn-default"><i class="fa fa-search"> </i></button>	
+										</span> <!-- .input-group-btn -->
+									</div> <!-- .input-group -->
+								</div> <!-- .col-xs-11 -->
+								<div class="col-xs-1 nopad">
+									<a href="#" id="searchNormaForm_advanced" class="tooltips pull-left hidden-xs" data-placement="bottom" title="Cerca avançada/senzilla">
+										<i class="fa fa-minus"></i>
+									</a>
+								</div> <!-- .col-xs-1 -->
+							</div> <!-- .row -->
+							
+							<div id="advancedSearchNorm" class="advancedform active hidden-xs">
+                           		
+								<div class="form-group row">
+                                    <div class="col-xs-12 col-sm-4 nopad">
+                                        <label for="searchNormaForm_NOFICIAL" class="control-label">
+                                            Núm. Oficial
+                                        </label>
+                                        <input type="text" name="NOFICIAL" id="searchNormaForm_NOFICIAL" class="form-control input-sm" />
+                                    </div>
+                                    <div class="col-xs-12 col-sm-4">
+                                        <label for="searchNormaForm_NBOE" class="control-label">
+                                            Núm. BOE
+                                        </label>
+                                        <input type="text" name="NBOE" id="searchNormaForm_NBOE" class="form-control input-sm" />
+                                    </div>
+                                    <div class="col-xs-12 col-sm-4">
+                                        <label for="searchNormaForm_NREFERENCIA" class="control-label">
+                                            Núm. Refer.
+                                        </label>
+                                        <input type="text" name="NREFERENCIA" id="searchNormaForm_NREFERENCIA" class="form-control input-sm">
+                                    </div>
+                                </div>
+                                
+                                <div class="form-group row">
+                                    <div class="col-xs-12 col-sm-4 nopad">
+                                        <label for="searchNormaForm_RANGO" class="control-label">
+                                            Rang
+                                        </label>
+                                        <input type="text" name="RANGO" id="searchNormaForm_RANGO" class="form-control input-sm autocomplete" />
+                                    </div>
+                                    <div class="col-xs-12 col-sm-4">
+                                        <label for="searchNormaForm_DEPARTAMENTO" class="control-label">
+                                            Òrgan
+                                        </label>
+                                        <input type="text" name="DEPARTAMENTO" id="searchNormaForm_DEPARTAMENTO" class="form-control input-sm autocomplete" />
+                                    </div>
+                                    <div class="col-xs-12 col-sm-4">
+                                        <label for="searchNormaForm_MATERIAS" class="control-label">
+                                            Matèria
+                                        </label>
+                                        <input type="text" name="MATERIAS" id="searchNormaForm_MATERIAS" class="form-control input-sm autocomplete" />
+                                    </div>
+                                </div>
+								
+								<div class="form-group row fielddates">
+				                	<label for="searchNormaForm_FECHAPUBLICACIONDESDE" class="col-xs-2 control-label nopad">
+				                		Fª Public.
+				                	</label>
+									<div class="col-xs-9">
+										<div class="col-xs-6 nopad tooltips" data-placement="bottom" data-original-title="Des de">
+											<div class='input-group date datetimepicker'>
+							                    <input type='text' id='searchNormaForm_FECHAPUBLICACIONDESDE' class="form-control" name="FECHAPUBLICACIONDESDE"/>
+							                    <span class="input-group-addon">
+		                        					<span class="fa fa-calendar"></span>
+		                        				</span>
+							                </div> <!-- .input-group -->
+										</div> <!-- .col-xs-6 -->
+										<div class="col-xs-6 nopad tooltips" data-placement="bottom" data-original-title="Fins a">
+											<div class='input-group date datetimepicker'>
+							                    <input type='text' id='searchNormaForm_FECHAPUBLICACIONHASTA' class="form-control" name="FECHAPUBLICACIONHASTA"/>
+						                        <span class="input-group-addon">
+		                        					<span class="fa fa-calendar"></span>
+		                        				</span>
+							                </div> <!-- .input-group -->
+										</div> <!-- .col-xs-6 -->
+									</div> <!-- .col-xs-9 -->
+								</div> <!-- .form-group -->
+                  	
+                  				<div class="form-group row fielddates">
+				                	<label for="searchNormaForm_FECHAAPLICACIONDESDE" class="col-xs-2 control-label nopad">
+				                		Fª Dispos.
+				                	</label>
+									<div class="col-xs-9">
+										<div class="col-xs-6 nopad tooltips" data-placement="bottom" data-original-title="Des de">
+											<div class='input-group date datetimepicker'>
+							                    <input type='text' id='searchNormaForm_FECHAAPLICACIONDESDE' class="form-control" name="FECHAAPLICACIONDESDE"/>
+							                    <span class="input-group-addon">
+		                        					<span class="fa fa-calendar"></span>
+		                        				</span>
+							                </div> <!-- .input-group -->
+										</div> <!-- .col-xs-6 -->
+										<div class="col-xs-6 nopad tooltips" data-placement="bottom" data-original-title="Fins a">
+											<div class='input-group date datetimepicker'>
+							                    <input type='text' id='searchNormaForm_FECHAAPLICACIONHASTA' class="form-control" name="FECHAAPLICACIONHASTA"/>
+						                        <span class="input-group-addon">
+		                        					<span class="fa fa-calendar"></span>
+		                        				</span>
+							                </div> <!-- .input-group -->
+										</div> <!-- .col-xs-6 -->
+									</div> <!-- .col-xs-9 -->
+								</div> <!-- .form-group -->
+							</div> <!-- #advancedSearchNorm -->
+						</form>
+					</div>  <!-- .row  --> 
+					<div id="layoutNormaResults" class="hidden row nicescroll"></div>  <!-- #layoutNormaResults  -->  
+				</div> <!-- #layoutnorma -->
+                      
+			</div> <!-- #normas -->
+			<div id="organos">
+                <div id="scroll_layouttipoorgano" class="layouttipoorgano nicescroll"></div>
+			</div> <!-- #organos  --> 
+		</div> <!-- .hidden --> 
+		
+		<div id="jurformsearch" class="searchform principal">
+			<form id="frmBusquedajurisprudencia" class="form-horizontal"
+				action="search.action">
+				<input type="hidden" id="frmBusquedajurisprudencia_action"
+					name="action" value="query" />
+				<!-- Ordenación -->
+				<input type="hidden" id="frmBusquedajurisprudencia_sort" name="sort"
+					value="IN_FECHARESOLUCION:decreasing"
+					data-defaultvalue="IN_FECHARESOLUCION:decreasing" /> <input
+					type="hidden" id="frmBusquedajurisprudencia_recordsPerPage"
+					name="recordsPerPage" value="10" /> <input type="hidden"
+					class="temporal" id="frmBusquedajurisprudencia_lastsentences"
+					name="lastsentences" value="" /> <input type="hidden"
+					id="frmBusquedajurisprudencia_databasematch" name="databasematch"
+					value="ANDORRA" /> <input type="hidden"
+					id="frmBusquedajurisprudencia_start" name="start" value="1" /> <input
+					type="hidden" id="frmBusquedajurisprudencia_maxresults"
+					name="maxresults" value="" /> <input type="hidden"
+					id="frmBusquedajurisprudencia_page" name="page" value="" /> <input
+					type="hidden" class="temporal"
+					id="frmBusquedajurisprudencia_SECCION" name="SECCION" value="" /> <input
+					type="hidden" id="frmBusquedajurisprudencia_ID_NORMA"
+					name="ID_NORMA" value="" /> <input
+					type="hidden" id="frmBusquedajurisprudencia_ARTICULO"
+					name="ARTICULO" value="" /> <input
+					type="hidden" id="frmBusquedajurisprudencia_ANYO" name="ANYO"
+					value="" />
+				<!-- temas -->
+				<input type="hidden" class="temporal"
+					id="frmBusquedajurisprudencia_landing" name="landing"
+					value="" /> <input type="hidden" class="temporal"
+					id="frmBusquedajurisprudencia_landingtype" name="landingtype"
+					value="" />
+				
+
+				<!-- bloque 1: Jurisdicción, tipo resolucion e Idioma-->
+				<div class="form-group row">
+					<div class="form-row row">
+	                	<label for="frmBusquedajurisprudencia_JURISDICCION" class="col-xs-11 col-sm-2 control-label">Jurisdicció</label>
+						<div class="col-xs-11 col-sm-9">
+							<div class="row">
+								<div class="col-xs-12 col-sm-6 fit">
+									<select id="frmBusquedajurisprudencia_JURISDICCION" name="JURISDICCION" class="multiselect form-control" multiple="multiple">
+										<option value="CIVIL" selected>Civil</option>
+										<option value="PENAL" selected>Penal</option>
+										<option value="ADMINISTRATIVA" selected>Administrativa</option>
+									</select>
+								</div> <!-- .col-sm-3 -->
+							
+								<div class="col-xs-12 col-sm-6">
+									<label for="frmBusquedajurisprudencia_TIPORESOLUCION" class="col-xs-12 col-sm-2 control-label">
+										Tipus res.
+									</label>
+									<div class="col-xs-12 col-sm-10 fit custom nopad">
+										<select id="frmBusquedajurisprudencia_TIPORESOLUCION" name="TIPORESOLUCION" class="multiselect form-control" multiple="multiple">
+											<option value="SENTENCIA" selected>Sentència</option>
+											<option value="AUTE" selected>Aute</option>
+											<option value="ORDENANÇA" selected>Ordenança</option>
+										</select>
+										
+									</div> <!-- .col-sm-10 -->
+								</div> <!-- .col-sm-6 -->
+								
+								
+							</div> <!-- .row -->
+							
+						</div> <!-- .col-sm-9 -->
+					</div> <!-- .form-row -->
+					<!-- sección destino Autos de Admisión del recurso de casación del TSCA -->
+					<div class="form-row row" style="display:none;" id="fSeccionAuto">
+						<label for="frmBusquedajurisprudencia_SECCIONAUTO" class="col-xs-11 col-sm-3 control-label">
+							Secció de destinació
+						</label>
+						<div class="col-xs-11 col-sm-8">
+							<div class="col-xs-12 col-md-5 nopad">
+								<select name="SECCIONAUTO" id="frmBusquedajurisprudencia_SECCIONAUTO"  class="selectpicker form-control">
+										<option value="" selected>Totes</option>
+										<option value="2" >Segona</option>
+										<option value="3" >Tercera</option>
+										<option value="4" >Quarta</option>
+										<option value="1" >Cinquena</option>
+								</select>
+							</div> <!-- .col-md-5 -->
+						</div> <!-- .col-sm-8 -->
+					</div> <!-- .form-row.row #fSeccionAuto-->
+				</div> <!-- .form-group -->
+				<div class="line"></div>
+				<!-- bloque 1 fin -->
+				
+				<div class="line"></div>
+				<!-- bloque 2 start -->
+				<div class="form-group row">
+					<div class="form-row row">
+						<label for="frmBusquedajurisprudencia_TEXT" class="col-xs-11 col-sm-2 control-label">Cerca per text lliure</label>
+						<div class="col-xs-11 col-sm-9 custom">
+							<input type="text" name="TEXT" id="frmBusquedajurisprudencia_TEXT" class="form-control input-sm autocomplete addoperators showtooltip" />
+							<div class="hidden-xs operators col-sm-7 nopad" data-form="frmBusquedajurisprudencia">
+	                       	    <a href="#" data-operator="I">I</a>
+	                            <span class="separator">&nbsp;</span>
+	                            <a href="#" data-operator="O">O</a>
+	                            <span class="separator">&nbsp;</span>
+	                            <a href="#" data-operator="NO">No</a>
+	                            <span class="separator">&nbsp;</span>
+	                            <a href="#" data-operator="PROP20">Proper</a>
+	                        </div> <!-- .operators -->
+						</div> <!-- .col-xs-8 -->
+					</div> <!-- .form-row.row -->
+					<div class="form-row row">
+						<label for="frmBusquedajurisprudencia_RESUMEN" class="col-xs-11 col-sm-2 control-label">Resum I.A.</label>
+						<div class="col-xs-11 col-sm-9 custom">
+							<input type="text" name="RESUMEN" id="frmBusquedajurisprudencia_RESUMEN" class="form-control input-sm autocomplete addoperators showtooltip" />
+							<div class="hidden-xs operators col-sm-7 nopad" data-form="frmBusquedajurisprudencia">
+	                       	    <a href="#" data-operator="I">I</a>
+	                            <span class="separator">&nbsp;</span>
+	                            <a href="#" data-operator="O">O</a>
+	                            <span class="separator">&nbsp;</span>
+	                            <a href="#" data-operator="NO">No</a>
+	                            <span class="separator">&nbsp;</span>
+	                            <a href="#" data-operator="PROP20">Proper</a>
+	                        </div> <!-- .operators -->
+						</div> <!-- .col-xs-8 -->
+					</div> <!-- .form-row.row -->
+					<div class="form-row row">
+						<label for="frmBusquedajurisprudencia_VOCES" class="col-xs-11 col-sm-2 control-label">Veus</label>
+						<div class="col-xs-11 col-sm-9 custom">
+							<input type="text" name="VOCES" id="frmBusquedajurisprudencia_VOCES" class="form-control input-sm autocomplete addoperators showtooltip" />
+							<div class="hidden-xs operators col-sm-7 nopad" data-form="frmBusquedajurisprudencia">
+	                       	    <a href="#" data-operator="I">I</a>
+	                            <span class="separator">&nbsp;</span>
+	                            <a href="#" data-operator="O">O</a>
+	                            <span class="separator">&nbsp;</span>
+	                            <a href="#" data-operator="NO">No</a>
+	                        </div> <!-- .operators -->
+						</div> <!-- .col-xs-8 -->
+					</div> <!-- .form-row.row -->
+					<div class="form-row row">
+						<label for="frmBusquedajurisprudencia_NORMA"
+							class="col-xs-11 col-sm-2 control-label">Legislació</label>
+							<div class="col-xs-11 col-sm-9 custom">
+								<!-- <div class="fielddesc">
+									Només es cercaran sentències que citin la norma seleccionada.
+								</div>  -->
+								
+								<input type="text" name="NORMA"
+									id="frmBusquedajurisprudencia_NORMA" readonly
+									class="pull-left form-control clearable input-sm autocomplete showtooltip"
+									title="Cerca per les disposicions citades en les resolucions del Fons Documental"
+									value="" />
+							</div>
+							<!-- .col-sm-9 -->
+							<div class="col-xs-1 nopad pull-left">
+								<a href="#" id="frmBusquedajurisprudencia_lnchnorma"
+									class="tooltips"
+									title="Obrir cercador de normes"
+									aria-label="Abrir buscador de normas"> <img
+									src="/andorra/img/normas.png" alt="Icono acceso al buscador de normas" />
+								</a>
+							</div> <!-- .col-xs-1 -->
+					</div>
+				</div>	
+				<div class="line"></div>
+				<!-- bloque 2 end-->
+				
+				<!-- bloque 3 -->
+				<div class="form-group row">
+				
+					<div class="form-row row">
+						<label for="frmBusquedajurisprudencia_PONENTE" class="col-xs-11 col-sm-2 control-label">
+							Ponent
+						</label>
+						<div class="col-xs-11 col-sm-9">
+							<div class="col-xs-12 col-sm-5 nopad custom">
+								<!--  TODO[autocompletado] -->
+								<input type="text" name="PONENTE" id="frmBusquedajurisprudencia_PONENTE" class="form-control input-sm autocomplete addoperators showtooltip" />
+							</div> <!-- .col-sm-5 -->
+							<div class="col-xs-12 col-sm-7 nopad">
+								<label for="frmBusquedajurisprudencia_MAGISTRADO" class="col-xs-12 col-sm-4 control-label">
+									Magistrat
+								</label>
+								<div class="col-xs-12 col-sm-8 nopad custom">
+									<input type="text" name="MAGISTRADO" id="frmBusquedajurisprudencia_MAGISTRADO" class="form-control input-sm autocomplete addoperators showtooltip"/>
+								</div> <!-- .col-sm-8 -->	
+							</div> <!-- .col-sm-7 -->		
+							
+						</div> <!-- .col-sm-9 -->
+					</div> <!-- .form-row.row -->
+					
+					<div class="form-row row">
+						<label for="frmBusquedajurisprudencia_TIPOORGANO" class="col-xs-11 col-sm-2 control-label">
+							Tipus d'òrgan
+						</label>
+						<div class="col-xs-11 col-sm-9">
+							<div class="col-xs-12 col-sm-5 fit nopad">
+								<select id="frmBusquedajurisprudencia_TIPOORGANO" name="TIPOORGANO" class="multiselect form-control" multiple="multiple">
+									<option value="TRIBUNAL SUPERIOR DE JUSTICIA DE ANDORRA" selected>Tribunal Superior de Justicia</option>
+									<option value="TRIBUNAL DE CORTS" selected>Tribunal de Corts</option>
+									<option value="TRIBUNAL DE BATLLES" selected>Batllia</option>
+								</select>
+							</div> <!-- .col-sm-5 -->
+						
+							<div class="col-xs-12 col-sm-7 nopad">
+								<label for="frmBusquedajurisprudencia_SECCION" class="col-xs-12 col-sm-4 control-label">
+									Secció
+								</label>
+								<div class="col-xs-12 col-sm-8 nopad custom">
+									<input type="text" name="SECCION" id="frmBusquedajurisprudencia_SECCION" class="form-control input-sm "/>
+								</div> <!-- .col-sm-8 -->
+								
+							</div> <!-- .col-sm-7 -->
+							
+						</div> <!-- .col-sm-9 -->
+						<div class="form-row row checkblue" style="display:none;" id="fSOLOPLENO" data-form="frmBusquedajurisprudencia">
+                            <div class="col-xs-11 col-sm-2"></div>
+                            <div class="col-xs-11 col-sm-10">
+	                            <label class="col-xs-11 col-sm-8 check-label" for="frmBusquedajurisprudencia_SECCIONSOLOPLENO">
+	                                <input type="checkbox" value="true" id="frmBusquedajurisprudencia_SECCIONSOLOPLENO" name="SECCIONSOLOPLENO"/>
+	                                Ple del TSJ
+	                            </label>
+                            </div>
+                        </div> <!-- #fSOLOPLENO -->
+					</div> <!-- .form-row.row -->
+					
+				</div> <!-- .form-group -->
+				<div class="line"></div>
+				<!-- bloque 3 fin -->
+				
+				
+				
+				<div class="line"></div>
+				<!-- bloque 3 end -->
+
+				<!-- bloque 4 start -->
+				<div class="form-group row">
+					<div class="form-row row fecharesformgroup">
+						<label for="frmBusquedajurisprudencia_FECHA" class="col-xs-11 col-sm-2 control-label">
+							Data resolució
+						</label>
+						<div class="col-xs-11 col-sm-9">
+							<div class="col-xs-12 col-md-5 nopad">
+								<select name="datalinks" id="frmBusquedajurisprudencia_FECHA" class="selectpicker form-control">
+		                            <option value="1">Últim any</option>
+		                            <option value="5">Últims 5 anys</option>
+		                            <option value="-1" selected>Tot</option>
+								</select>
+							</div> <!-- .col-md-5 -->
+							<div class="col-xs-12 col-md-7 nopad fielddates fieldyears">
+								<label for="frmBusquedajurisprudencia_FECHARESOLUCIONDESDE" class="col-xs-12 col-sm-4 control-label">
+									Des de
+								</label>
+								<div class="col-xs-12 col-sm-8 nopad tooltips" data-placement="bottom" data-original-title="Des de">
+									<div class='input-group date datetimepicker' id='frmBusquedajurisprudencia_FECHADESDE'>
+					                    <input type='text' class="form-control" id='frmBusquedajurisprudencia_FECHARESOLUCIONDESDE' name="FECHARESOLUCIONDESDE"/>
+					                    <span class="input-group-addon">
+                        					<span class="fa fa-calendar"></span>
+                        				</span>
+					                </div>
+								</div>
+							</div> <!-- .col-md-7 -->
+							<div id="frmBusquedajurisprudencia_SHOW_ANYOS" style="display: none;" class="col-xs-12 col-sm-7 nopad showyears">
+								<label for="frmBusquedajurisprudencia_ANYOS" class="col-xs-12 col-sm-4 control-label">
+									Anys
+								</label>
+								<div class="col-xs-12 col-sm-8 nopad tooltips"><div class="form-control input-sm years"></div></div>
+							</div>
+						</div> <!-- .col-sm-8 -->
+					</div> <!-- .form-row.row.fecharesformgroup -->
+					
+					<div class="form-row row fecharesformgroup">
+						<label class="hidden-xs col-sm-2 control-label">
+						</label>
+						<div class="col-xs-11 col-sm-9">
+							<div class="col-xs-12 col-md-5 nopad">
+							</div> <!-- .col-md-5 -->
+							<div class="col-xs-12 col-sm-7 nopad fielddates fieldyears">
+								<label for="frmBusquedajurisprudencia_FECHARESOLUCIONHASTA" class="col-xs-12 col-sm-4 control-label">
+									Fins a
+								</label>
+								<div class="col-xs-12 col-sm-8 nopad tooltips" data-placement="bottom" data-original-title="Fins a">
+									<div class='input-group date datetimepicker' id='frmBusquedajurisprudencia_FECHAHASTA'>
+										<input type='text' class="form-control" id='frmBusquedajurisprudencia_FECHARESOLUCIONHASTA' name="FECHARESOLUCIONHASTA"/>
+										<span class="input-group-addon">
+											<span class="fa fa-calendar"></span>
+										</span>
+									</div>
+								</div>
+							</div> <!-- .col-sm-7 -->
+						</div> <!-- .col-sm-8 -->
+					</div> <!-- .form-row.row.fecharesformgroup -->
+					
+					<div class="form-row row">
+
+						<label for="frmBusquedajurisprudencia_NUMERORECURSO" class="col-xs-11 col-sm-2 control-label">Núm. Recurs</label>
+						<div class="col-xs-11 col-sm-9">
+							<div class="col-xs-12 col-sm-5 nopad custom">
+								<input type="text" name="NUMERORECURSO" id="frmBusquedajurisprudencia_NUMERORECURSO" class="form-control input-sm" value="" />
+							</div> <!-- .col-sm-5 -->
+							<div class="col-xs-12 col-sm-7 nopad">
+								<label for="frmBusquedajurisprudencia_NIG" class="col-xs-12 col-sm-4 control-label">
+									NIG
+								</label>
+								<div class="col-xs-12 col-sm-8 nopad custom">
+									<input type="text" name="NIG" id="frmBusquedajurisprudencia_NIG" class="form-control input-sm cleardates"/>
+								</div> <!-- .col-sm-8 -->	
+							</div> <!-- .col-sm-7 -->		
+						</div> <!-- .col-sm-8 -->
+					</div> <!-- .form-row.row -->						
+
+					<div class="form-row row">
+
+						<label for="frmBusquedajurisprudencia_ROJ" class="col-xs-11 col-sm-2 control-label">Núm. ROJ</label>
+						<div class="col-xs-11 col-sm-9">
+							<div class="col-xs-12 col-sm-5 nopad custom">
+								<input type="text" name="ROJ" id="frmBusquedajurisprudencia_ROJ" class="form-control input-sm" value="" />
+							</div> <!-- .col-sm-5 -->
+							<div class="col-xs-12 col-sm-7 nopad">
+								<label for="frmBusquedajurisprudencia_ECLI" class="col-xs-12 col-sm-4 control-label">
+									ECLI
+								</label>
+								<div class="col-xs-12 col-sm-8 nopad custom">
+									<input type="text" name="ECLI"	id="frmBusquedajurisprudencia_ECLI"	class="form-control input-sm cleardates" placeholder="ECLI:AD:TBAT:2014:3877"	value="" />
+								</div> <!-- .col-sm-8 -->	
+							</div> <!-- .col-sm-7 -->
+						</div>
+						<!-- .col-xs-12 -->
+					</div>
+					<!-- .form-row -->
+
+				</div>
+				<!-- .form-group -->
+				
+				<div class="line"></div>
+				<!-- bloque 4 end -->
+
+
+				<!-- botonera -->
+				<div class="botonera row">
+					<div id="frmBusquedajurisprudencia_botonera"
+						class="form-row row pull-right">
+						<button id="srcjur_clean" type="button"
+							class="btn btn-default btn-sm">
+							Netejar
+						</button>
+						<button id="srcjur_search" type="submit"
+							class="btn btn-primary btn-sm">
+							Cercar
+						</button>
+					</div>
+					<!-- #frmBusquedajurisprudencia_botonera -->
+				</div>
+				<!-- .botonera -->
+				<!-- botonera end -->
+			</form>
+		</div>
+		<!-- #jurformsearch -->
+
+	</div>
+	<!-- #mainjurisprudenciasearch -->
+
+
+</div>
+<!-- #jurisprudenciasearch -->
+<div id="jurisprudenciaresults"
+	class="results bbsubtabcontent ">
+	
+	
+</div>
+<!-- #jurisprudenciaresults -->
+<div id="jurisprudenciacontent" class="content bbsubtabcontent clearfix">
+	
+	<div class="docactions" style="display: none;">
+		<ul>
+			<li class="readspk tooltips" title="Escuchar resolución"
+				data-placement="bottom">
+				<a href="#" class="readspk-button"
+					aria-label="Icono escuchar resolución. Pulse para escuchar la resolución">
+					<i class="fa fa-headphones" aria-hidden="true"></i>
+				</a>
+			</li>
+			<li class="social tooltips" title="compartir en Facebook"
+				data-placement="bottom">
+				<a href="#" class="fb-button"
+					aria-label="Icono compartir en Facebook. Pulse para compartir en Facebook">
+					<i class="fa fa-facebook-square" aria-hidden="true"></i>
+				</a>
+			</li>
+			<li class="social tooltips twitter" title="compartir en Twitter"
+				data-placement="bottom">
+				<a href="#" class="twtr-button" aria-label="Icono compartir en Twitter. Pulse para compartir en Twitter">
+					<svg class="social_twitter" viewBox="0 0 26 26" aria-hidden="true">
+						<g>
+						<path
+							d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"></path></g>
+					</svg>
+				</a>
+			</li>
+			<li class="social tooltips" title="copiar enlace"
+				data-placement="bottom">
+				<a href="#" class="cp-button"
+					aria-label="Icono copiar enlace. Pulse para copiar el enlace al documento en el portapapeles">
+					<i class="fa fa-clipboard" aria-hidden="true"></i>
+				</a>
+			</li>
+			<li class="social tooltips"
+				title="Abrir el documento en nueva ventana" data-placement="bottom">
+				<a href="#" class="new-button"
+				aria-label="Icono nueva ventana. Pulse para abrir el documento en nueva ventana">
+					<i class="fa fa-external-link" aria-hidden="true"></i>
+				</a>
+			</li>
+			<li class="hidden lecturafacil tooltips" title="Descargar resolución en lectura fácil"
+				data-placement="bottom">
+				<a href="#" class="lecturafacil-button">
+					<img
+					alt="Icono lectura fácil. Pulse para descargar la resolución en modo lectura fácil"
+					src="/andorra/img/j/b_lectura_facil.png" />
+				</a>
+			</li>
+			<li class="hidden alertts tooltips" title="Descargar documento" 
+				data-placement="bottom">
+                <a href="#" class="alertts-button" aria-label="Icono descargar documento. Pulse para descargar documento">
+                	<i class="fa fa-download" aria-hidden="true"></i>
+                </a>
+            </li>
+		</ul>
+	</div>
+	
+	
+	
+	
+	<div id="objtcontentpdf_cont"
+		class="embed-responsive embed-responsive-16by9">
+		<object id="objtcontentpdf" data="" type="application/pdf"
+			width="90%" height="100%">
+			<p>
+				Parece que no tiene configurado el plugin para ver el pdf
+				embebido... puede descargar la resolución <a href=""
+					target="_blank">aquí</a>.
+			</p>
+		</object>
+	</div>
+	<div id="readspkpdf_cont"
+		class="embed-responsive embed-responsive-16by9" style="display: none;"></div>
+
+</div>
+<!-- #jurisprudenciacontent -->
+
+
+						</section> <!-- #jurisprudencia -->
+						<!--tab jurisprudencia end -->
+						
+					</section>
+					<!--main content end-->
+					
+				</div> <!-- .row -->
+			</div> <!-- .container-fluid -->
+			
+			<footer>
+				<div class="container-fluid"> <!-- .container-fluid -->
+					<div class="footer"></div>
+				</div> <!-- .container-fluid -->
+			</footer>
+			
+		</section> <!-- #main-container -->
+
+		<!-- Modal aviso legal-->
+		<div id="modalAvisoLegal" class="modal fade" role="dialog">
+			<div class="modal-dialog">
+			
+			    <!-- Modal content-->
+			    <div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" tabindex="0" data-dismiss="modal">&times;</button>
+						<h1 class="modal-title">Avís legal</h1>
+					</div> <!-- .modal-header -->
+					<div class="modal-body">
+						<p>Les resolucions que componen aquesta base de dades es difonen a efectes de coneixement i consulta dels criteris de decisió dels Tribunals, en compliment de la competència atorgada al Consell General del Poder Judicial per l'art. 560.1.10º de la Llei Orgànica del Poder Judicial.</p> <p>L'usuari de la base de dades podrà consultar els documents sempre que ho faci per al seu ús particular.</p> <p>No està permesa la utilització de la base de dades per a usos comercials, ni la descàrrega massiva d'informació. La reutilització d'aquesta informació per a l'elaboració de bases de dades o amb finalitats comercials ha de seguir el procediment i les condicions establertes pel CGPJ a través del seu Centre de Documentació Judicial.</p> Qualsevol actuació que contravingui les indicacions anteriors podrà donar lloc a l'adopció de les mesures legals que corresponguin.
+					</div> <!-- .modal-body -->
+				</div> <!-- .modal-content -->
+			
+			</div> <!-- .modal-dialog-content -->
+		</div> <!-- #modalAvisoLegal -->
+		
+		
+		<!-- Modal para errores -->
+		<div id="errorsModal" class="modal error" role="dialog">
+			<div class="modal-dialog">
+			    <!-- Modal content-->
+			    <div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal">&times;</button>
+					</div>
+					<div class="modal-body">
+						<h2>Ho sentim, alguna cosa ha fallat!</h2>
+						<h3>Si us plau, torneu-ho a provar.</h3>
+						<div class="message"></div>
+					</div>
+				</div> <!-- .modal-content -->
+			
+			</div> <!-- .modal-dialog-content -->
+		</div> <!-- #errorsModal -->
+		
+		<!-- Modal ayudas -->
+		<div id="modalAyudas" class="modal fade" role="dialog">
+			<div class="modal-dialog">
+			
+			    <!-- Modal content-->
+			    <div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal">&times;</button>
+						<h1 class="modal-title">AJUDA / INFORMACIÓ</h1>
+					</div> <!-- .modal-header -->
+					<div class="modal-body"></div> <!-- .modal-body -->
+					<div class="modal-footer">
+			    	</div> <!-- .modal-footer -->
+				    
+				</div> <!-- .modal-content -->
+			
+			</div> <!-- .modal-dialog-content -->
+		</div> <!-- #modalAyudas -->
+		<!-- Modal para warnings -->
+        <div id="warnModal" class="modal warn" role="dialog">
+            <div class="modal-dialog">
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="message"></div>
+                    </div>
+                </div> <!-- .modal-content -->
+            
+            </div> <!-- .modal-dialog-content -->
+        </div> <!-- #warnModal -->
+        
+        
+		<!-- Modal tesauro -->
+		<div id="modalTesauro" class="modal fade" role="dialog">
+			<div class="modal-dialog">
+			
+			    <!-- Modal content-->
+			    <div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal">&times;</button>
+						<h1 class="modal-title">Tesaurus</h1>
+					</div> <!-- .modal-header -->
+					<div class="modal-body"></div> <!-- .modal-body -->
+					<div class="modal-footer">
+			    	</div> <!-- .modal-footer -->
+				    
+				</div> <!-- .modal-content -->
+			
+			</div> <!-- .modal-dialog-content -->
+		</div> <!-- #modalTesauro -->
+		
+		<!-- Modal legislacion -->
+		<div id="modalLeg" class="modal fade" role="dialog">
+			<div class="modal-dialog">
+			
+			    <!-- Modal content-->
+			    <div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal">&times;</button>
+						<h1 class="modal-title">NORMES</h1>
+					</div> <!-- .modal-header -->
+					<div class="modal-body"></div> <!-- .modal-body -->
+					<div class="modal-footer">
+			    	</div> <!-- .modal-footer -->
+				    
+				</div> <!-- .modal-content -->
+			
+			</div> <!-- .modal-dialog-content -->
+		</div> <!-- #modalLeg -->
+		
+		<link rel="localizations" href="/andorra/js/locales.json?guid=202608240847" type="application/vnd.oftn.l10n+json"/>
+		<script type="text/javascript" src="/andorra/js/common-scripts/ext/l10n.js"></script>
+		
+        <script src="/andorra/js/common-scripts/start-scripts.js?guid=202608240847" type="text/javascript"></script>
+        <script src="/andorra/js/start-scripts.js?guid=202608240847" type="text/javascript"></script>
+        		
+        <script src="/andorra/js/iframe_resizer.js?guid=202608240847" type="text/javascript"></script>
+        			
+        <script src="/andorra/js/common-scripts/stats.js?guid=202608240847" type="text/javascript"></script>
+		<script type="text/javascript">
+
+			var STATS_SERVICE_URL;
+			
+				STATS_SERVICE_URL = "//jurisestad.poderjudicial.es/stats/service.action";
+
+			
+		
+			var statsSession = {
+				session: '40506853641837DAF7A76DE33DF98CFC.sidolapp04',
+				ip: '46.172.231.227',
+			
+			
+				geo_pais: 'AD',
+				geo_ccaa: 'Andorra la Vella',
+				geo_prov: 'Andorra la Vella',
+				browser: 'UNKNOWN',
+				version: '',
+				mobile: 'false'
+			};
+	
+			var statsData = {
+				portal: 'andorra',
+				tab: 'index',
+				statsSession: statsSession
+			};
+		
+		
+		</script>	
+	</body>
+</html>

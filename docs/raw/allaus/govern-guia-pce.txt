@@ -1,0 +1,570 @@
+FORA_DEL_CORPUS — còpia textual de consulta
+Font: https://www.govern.ad/documents/d/guest/guia_de_redaccio_23-compressed?download=true
+Peça: Guia de redacció, 12 pàgines; data i versió no emplenades
+Consulta 13-09-2026; extracció pdftotext -layout.
+Registre previ: 02-DOCS/raw/sources/govern-plans-allaus.md; drets pendents, no datasets
+Els renders i els PDFs es conserven com a evidència, no datasets.
+
+           GUIA PER LA
+        REDACCIÓ DEL PLA
+        DE CONFINAMENT
+          I EVACUACIÓ
+
+Adreça: ................................................................................................................
+
+Edifici: ..................................................................................................................
+
+CP i població: ....................................................................................................
+
+
+
+
+Data: ....................................................................................................................
+GUIA PER LA REDACCIÓ DEL PLA DE CONFINAMENT I EVACUACIÓ
+Departament de Protecció Civil i Gestió d’Emergències
+
+
+
+
+ÍNDEX
+
+1.   INTRODUCCIÓ                                                             3
+     1.1. Antecedents (model de redacció proposat)                           3
+     1.2. Marc legal (model de redacció proposat)                            3
+     1.3. Objectius del Pla (model de redacció proposat)                     3
+
+2.   AVALUACIÓ - ANÀLISI DEL RISC                                            4
+     2.1. Zonificació reglamentària de la perillositat d’allaus de la zona   4
+     2.2. Descripció dels punts sensibles i registre històric                4
+
+3.   DESCRIPCIÓ DE L’EDIFICACIÓ                                              4
+     3.1. Identificació i característiques de l’edificació                   4
+     3.2. Afectació i relació de persones                                    4
+     3.3. Proteccions                                                        4
+     3.4. Senyalització (dins i fora l’edificació)                           5
+     3.5. Mitjans disponibles (s’hi poden incloure fotografies)              5
+
+4.   ESTRUCTURA ORGANITZATIVA                                                5
+     4.1. Director del Pla (model de redacció proposat)                      5
+     4.2. Funcions del director del Pla (model de redacció proposat)         6
+     4.3. Comunicació amb l’Administració (model de redacció proposat)       6
+
+5.   NIVELLS DE RISC I PROTOCOLS D’ACTUACIÓ                                  6
+     5.1. Criteris d’activació del Pla (model de redacció proposat)          6
+     5.2. Nivells de risc (feble/marcat/fort) (model de redacció proposat)   6
+     5.3. Eines de comunicació                                               7
+     5.4. Conceptes bàsics (model de redacció proposat)                      7
+     5.5. Protocols d’actuació (model de redacció proposat)                  7
+     5.6. Interfase amb altres plans d'intervenció o de nivell superior      8
+
+6.   IMPLANTACIÓ I MANTENIMENT                                               9
+     6.1. Implantació (model de redacció proposat)                           9
+     6.2. Manteniment (model de redacció proposat)                           9
+     6.3. Transmissió del document (model de redacció proposat)              9
+
+7.   ANNEXOS                                                                 10
+     7.1. Plànols de l’edifici/equipament/instal·lació                       10
+     7.2. Llista d’afectats i dades personals                                10
+     7.3. Consells d’autoprotecció i recomanacions.                          10
+     7.4. Webs d’interès                                                     11
+     7.5. Escala europea de perill d’allaus                                  11
+
+
+
+
+                         - -                              2
+GUIA PER LA REDACCIÓ DEL PLA DE CONFINAMENT I EVACUACIÓ
+Departament de Protecció Civil i Gestió d’Emergències
+
+
+
+1. INTRODUCCIÓ
+1.1. Antecedents (model de redacció proposat)
+A fi de donar compliment al Reglament de classificació i utilització del terreny segons la
+perillositat d’allaus i de la cartografia de zonificació reglamentària de la perillositat d’allaus, del
+09.03.16 (d’ara en endavant, “Reglament d’allaus”), es redacta aquest Pla de confinament i
+evacuació.
+
+Feu una breu descripció de l’edifici i el motiu d’aquest Pla de confinament i evacuació (d’ara en
+endavant, “Pla”), així com de la catalogació de la perillositat a què es troba afectat. Mencioneu
+si s’elabora el Pla en el marc d’un nou projecte constructiu, de modificació, de canvi d’ús...
+
+
+1.2. Marc legal (model de redacció proposat)
+Amb l’entrada en vigor del Reglament d’allaus, es va regular la utilització del sòl segons la
+zonificació reglamentària de perillositat d’allaus.
+
+Escau destacar els articles següents:
+• L’article 23, apartat 2, lletra e estableix que el projecte constructiu dels edificis de
+  nova planta ha d’incloure com a annex el Pla de confinament i evacuació, redactat per un
+  tècnic autoritzat i competent en la matèria a les zones reglamentàries R2, R2B, R4 o R7. Aquest
+  Pla s’ha de sotmetre al ministeri titular de protecció civil, el qual pot introduir-hi les
+  modificacions que consideri adients abans d’aprovar-lo. Els usuaris habituals tenen l’obligació
+  d’adherir-se al Pla de confinament i evacuació aprovat i d’adoptar les mesures que el Pla
+  estableixi.
+
+• L’article 29, apartat 1 disposa que els edificis, els equipaments i les instal·lacions que estiguin
+ ubicats totalment o parcialment en alguna zona reglamentària R1, R2, R2B, R4 o R7 han de
+ disposar d’un pla de confinament i evacuació, al qual els usuaris del terreny s’han d’adherir. A
+ aquest efecte, la propietat ha d’encomanar a un tècnic especialitzat i autoritzat l’elaboració del
+ Pla de confinament i evacuació i presentar-lo a l’aprovació del ministeri competent en matèria
+ de protecció civil dins dels terminis fixats en les disposicions transitòries d’aquest Reglament.
+
+• L’article 30, apartat 2 i 3 preveu que els edificis, els equipaments o les instal·lacions situats en
+ zones reglamentàries R2, R2B, R3, R4, R5, R6 o R7, i que siguin objecte d’alguna de les
+ modificacions exposades a l’article 2.1, per obtenir la llicència de construcció o de canvi d’ús
+ envers els usos exposats, han de complir íntegrament aquest Reglament, i especialment els
+ articles que correspongui segons la zona reglamentària de perillositat en què el terreny estigui
+ ubicat.
+
+
+1.3. Objectius del Pla (model de redacció proposat)
+L’objectiu d’aquest Pla és documentar i establir els mecanismes d’actuació adients en cas de risc
+d’allaus, amb la finalitat d’assegurar la protecció de les persones confinant-les (o bé evacuant-
+les en situacions excepcionals).
+
+
+
+                         - -                              3
+GUIA PER LA REDACCIÓ DEL PLA DE CONFINAMENT I EVACUACIÓ
+Departament de Protecció Civil i Gestió d’Emergències
+
+
+Aquest document desenvolupa els aspectes següents:
+• Descripció de l’edifici, l’equipament o la instal·lació, de les afectacions i de les proteccions de
+  què disposa.
+• Criteris d’activació del Pla i definició de les actuacions que s’han d’adoptar per confinar o
+  evacuar els ocupants de l’edifici objecte del Pla.
+• Actuacions que s’han d’adoptar quan el risc ha disminuït.
+• Identificació dels responsables que intervenen per dur a terme les actuacions dels punts
+  anteriors i proporcionen amb aquest objectiu les seves dades de contacte.
+
+
+
+
+2. AVALUACIÓ - ANÀLISI DEL RISC
+2.1. Zonificació reglamentària de la perillositat d’allaus de la zona
+Incloeu-hi el mapa de zonificació reglamentària de la perillositat d’allaus de la zona i de l’edifici,
+l’equipament, la instal·lació o el terreny afectat totalment o parcialment (escala 1/1000 aprox.).
+Identifiqueu l’edifici, l’equipament o la instal·lació objecte del Pla en el mapa amb un cercle o
+color diferent per identificar-lo.
+Altres dades d’interès.
+
+
+2.2. Descripció dels punts sensibles i registre històric
+Descriviu els punts sensibles (camins d’accés, carreteres d’accés..., del punt X al punt Y, nom de
+la zona) i, en concret, l’històric d’allaus i d’incidències a la zona.
+Altres dades d’interès.
+
+
+
+3. DESCRIPCIÓ DE L’EDIFICACIÓ
+3.1. Identificació i característiques de l’edificació
+Preciseu l’adreça concreta de l’edifici, equipament o instal·lació (parròquia, carrer, avinguda,
+número, amb circulació/sense...), així com el seu codi CESI.
+Incloeu-hi una foto de l’edifici, l’equipament o la instal·lació, la parcel·la ...
+Detalleu les característiques tècniques de l’edifici, l’equipament o la instal·lació (any de
+construcció, any de reformes, nombre de plantes, plantes de pàrquing, superfícies, tipus
+d’estructura...).
+Identifiqueu l’activitat que s’hi desenvolupa (si n’hi ha), els horaris d’obertura al públic, el nombre
+de treballadors...
+Altres dades d’interès.
+
+
+3.2. Afectació i relació de persones
+Nombre de persones que hi pernocten o hi poden habitar sense pernoctar.
+Preciseu el nombre total de persones que podrien estar afectades, el nombre total de persones
+susceptibles d’utilitzar aquest equipament.
+
+                         - -                              4
+GUIA PER LA REDACCIÓ DEL PLA DE CONFINAMENT I EVACUACIÓ
+Departament de Protecció Civil i Gestió d’Emergències
+
+
+Indiqueu si dins l’edifici, l’equipament o la instal·lació hi ha locals públics.
+En cas de ser un hotel i de tenir estadística d’ocupació per temporada hivern/estiu, incloeu-la-
+hi.
+Altres dades d’interès.
+
+
+3.3. Proteccions
+Detalleu si l’edifici, l’equipament o la instal·lació disposa de proteccions i si compta amb l’informe
+favorable de l’Àrea d’Urbanisme del Ministeri d’Ordenament Territorial (feu-hi referència).
+En cas d’haver incorporat proteccions, indiqueu la data i descriviu-les.
+Annexeu els plànols a aquest informe.
+Altres dades d’interès.
+
+3.4. Senyalització (dins i fora l’edificació)
+Descriviu el tipus de senyalització que hi ha dins l’edifici, l’equipament o la instal·lació per
+informar els usuaris dels punts de trobada, els circuits d’evacuació... i la seva ubicació.
+En cas d’habitatges unifamiliars d’ús temporal, identifiqueu els punts oposats on impactaria l’allau
+com a zona segura.
+Incloeu-hi plànols de les zones i de la senyalització d’evacuació i punts de reagrupament que hi
+ha d’acord amb la Llei de seguretat i qualitat industrial, del 22-6-2000 (BOPA 41, Any 12), i la
+directiva i norma tècnica de senyalització.
+Descriviu el tipus de senyalització exterior, en cas d'haver-n'hi.
+Altres dades d’interès.
+
+
+3.5. Mitjans disponibles (s’hi poden incloure fotografies)
+- Centre de control (en cas de disposar d’aquest espai):
+- Accessibilitat per a vehicles d’emergència:
+- Vies d’evacuació:
+- Senyalització d’emergència i evacuació de l’edifici:
+- Sistemes de comunicació:
+- Zona o zones de confinament/reagrupament, punts de reunió i capacitat:
+- Zona de reagrupament exterior:
+- Altres dades d’interès.
+
+
+
+4. ESTRUCTURA ORGANITZATIVA
+4.1. Director del Pla (model de redacció proposat)
+El director del Pla és la màxima autoritat mentre estigui activat el Pla i haurà d’assumir la gestió
+de les actuacions que hi estan relacionades.
+
+Com a condicions, haurà de ser un resident amb plena capacitat d’obrar i escollit, i, en el supòsit
+d’edificis en què hi hagi més d’un habitatge, per consens dels seus veïns. Així mateix, caldrà
+nomenar un director suplent, que assumirà les seves responsabilitats en cas d’absència del
+director.
+
+                         - -                              5
+GUIA PER LA REDACCIÓ DEL PLA DE CONFINAMENT I EVACUACIÓ
+Departament de Protecció Civil i Gestió d’Emergències
+
+
+Altrament, i en el supòsit que el director o el director suplent cessin per la causa que sigui, caldrà
+nomenar el més aviat possible el substitut de la persona que hagi cessat, fet que es reflectirà
+degudament en l’actualització del Pla, i s’informarà el Departament de Protecció Civil i Gestió
+d’Emergències.
+
+Director del Pla                                                Suplent
+Nom i cognoms:                                                  Nom i cognoms:
+Domicili habitual:                                              Domicili habitual:
+Telèfon fix:                                                    Telèfon fix:
+Telèfon mòbil:                                                  Telèfon mòbil:
+Adreça electrònica:                                             Adreça electrònica:
+
+4.2. Funcions del director del Pla (model de redacció proposat)
+Les funcions del director del Pla són:
+• Fer la implantació del Pla (organitzar reunions informatives, exercicis...).
+• Fer el seguiment meteorològic a partir del moment que hi hagi fenòmens no habituals.
+• Decidir si s’activa el Pla i si es confina (o s’evacua situació excepcional) l’edifici, l’equipament
+  o la instal·lació.
+• Informar de l’activació del Pla cadascun dels afectats (en cas d’haver-n’hi).
+• Informar de l’activació del Pla les autoritats a través d’una trucada al 112.
+• Actuar com a interlocutor dels serveis d’emergència, davant dels quals s’identificarà com a tal.
+• Actuar des del centre de control (en cas d’haver-n’hi), des d’on dirigirà i coordinarà totes les
+  actuacions.
+• Informar de la desactivació del Pla cadascun dels afectats i el 112.
+
+4.3. Comunicació amb l’Administració (model de redacció proposat)
+En cas d’activació del Pla, el director del Pla ho comunicarà a les autoritats competents a través
+de la preceptiva trucada al 112, moment en què facilitarà tota la informació que cregui rellevant
+o que se li demani.
+
+
+
+
+5. NIVELLS DE RISC I PROTOCOLS D’ACTUACIÓ
+5.1. Criteris d’activació del Pla (model de redacció proposat)
+Per tal de facilitar la presa de decisió (confinament o evacuació), el director del Pla disposarà de
+les eines de consulta següents:
+• Butlletí de previsió d’allaus (www.meteo.ad/estatneu/general)
+• Butlletí de previsió meteorològica (www.meteo.ad)
+• Comunicats oficials emesos per les autoritats competents a través dels mitjans de
+comunicació
+
+
+
+
+                         - -                              6
+GUIA PER LA REDACCIÓ DEL PLA DE CONFINAMENT I EVACUACIÓ
+Departament de Protecció Civil i Gestió d’Emergències
+
+
+5.2. Nivells de risc (feble/marcat/fort) (model de redacció proposat)
+Als efectes d’aquest Pla, es determinen tres nivells, que han estat definits en funció del risc:
+
+
+ Nivell de          Color      Definició                                       Accions
+ risc
+ Marcat
+                     Les
+                       són
+                           condicions i previsions meteorològiques             Seguiment del
+                                                                               fenomen
+                               desfavorables i/o hi ha un perill d’allaus
+                               marcat (3/5).
+ Fort                          Les condicions i previsions meteorològiques     Confinament
+                             El director del Pla en fa el seguiment.
+                               són molt                                        i seguiment
+                               desfavorables i/o hi ha un perill d’allaus de   (evacuació
+                               4/5 o 5/5 .                                     excepcionalment)
+                               El director pot activar el Pla.
+ Feble                         En general, condicions segures.                 Retorn a la
+                             No hi ha cap perill meteorològic.               normalitat
+                               Es considera una situació de normalitat.
+
+
+
+5.3. Eines de comunicació
+El director del Pla haurà de comunicar el confinament (o l’evacuació en situacions excepcionals)
+als afectats de forma ràpida, clara i eficaç.
+
+Els mitjans utilitzats poden ser diversos:
+• Porta a porta.
+• Trucada telefònica o qualsevol altre mitjà de comunicació directe (mitjà de comunicació que
+ permeti assegurar que el receptor i l’emissor reben i entenen la rellevància del que es comunica).
+• Enviament de missatges SMS o electrònics o de missatges per qualsevol altra eina
+ de missatgeria instantània que n’acrediti degudament la recepció.
+• Altres mitjans segons les característiques de l’edifici, equipament o instal·lació
+
+5.4. Conceptes bàsics (model de redacció proposat)
+• Confinament:
+ És la mesura general que s’ha d’adoptar per protegir la població que es troba en una zona de
+ risc.
+ El confinament consisteix en que la població es quedi preferentment en el seu domicili (si es
+ considera segur) o en algun local protegit i aïllat de l’exterior, on han d’estar fins que les
+ condicions a l’exterior siguin segures.
+
+ Un cop confinades, les persones han de seguir l’evolució de l’emergència a través dels canals
+ d’informació oficials; el responsable d’aquest seguiment és el director del Pla.
+
+• Evacuació:
+ És la mesura excepcional que s’aplica quan el confinament no ofereix garanties suficients per a
+ la protecció de la població afectada.
+
+ L’evacuació consisteix en el desallotjament de les persones, de forma ordenada i controlada, a
+ espais o allotjaments temporals i segurs identificats prèviament en aquest Pla.
+
+                         - -                              7
+GUIA PER LA REDACCIÓ DEL PLA DE CONFINAMENT I EVACUACIÓ
+Departament de Protecció Civil i Gestió d’Emergències
+
+
+5.5. Protocols d’actuació (model de redacció proposat)
+i. Si hi ha una situació de risc marcat - seguiment del fenomen
+ Situació:    Les previsions meteorològiques són desfavorables i/o el perill d’allaus és marcat
+             (3/5).
+
+ Accions: El director del Pla haurà de fer el seguiment del fenomen meteorològic i consultar el
+          Butlletí de perill d’allaus, la previsió meteorològica i les recomanacions de les
+          autoritats, en cas d’haver-n’hi (vegeu 5.1).
+          El director del Pla també podrà informar els afectats de la situació perquè adoptin
+          mesures d’autoprotecció en cas de creure-ho convenient (vegeu les “Recomanacions
+          d’autoprotecció” en l’annex).
+
+ii. Si hi ha una situació de risc fort - confinament
+ Situació: Les condicions i previsions meteorològiques són molt desfavorables o el perill d’allaus
+           és de 4/5 o 5/5.
+           Les autoritats competents emeten avisos/recomanacions.
+
+ Accions: En cas d’activar aquesta fase, el director del Pla pot determinar el confinament i se
+          seguirà el procediment següent:
+          • El director del Pla haurà d’informar els afectats a través dels mitjans previstos (vegeu
+           5.3).
+          • En cas d’un edifici d’habitatges o altres edificacions habitables, els veïns o els
+           ocupants hauran de tancar totes les portes, finestres, persianes... del seu habitatge i
+           situar-se lluny de les obertures exteriors i al costat oposat de la paret on
+           previsiblement podria impactar l’allau, en cas de produir-se. Un dels residents
+           designat prèviament o, si no és possible, el director suplent, serà el responsable de
+           tancar les portes o les finestres dels espais comuns que es podrien veure afectats
+           per l’allau.
+          • Els caps de casa o persones de contacte es podran reunir en un punt de reunió
+           (designat i conegut per tots els afectats), on el director del Pla els informarà de la
+           situació.
+          • El director del Pla informarà el 112 de l’activació del Pla en fase de confinament, i
+           posarà al corrent els residents de la situació i el risc.
+          • El director del Pla farà el seguiment del fenomen.
+
+Nota:
+Excepcionalment, el director del Pla pot determinar l’evacuació en els casos següents:
+• Davant d’una situació de risc d’allaus molt fort (5/5) de la zona.
+• Davant de condicions o previsions meteorològiques extremes.
+• Davant d’avisos/recomanacions de les autoritats competents.
+
+En cas de fer una evacuació, se seguiran les indicacions següents:
+• El director del Pla haurà d’informar tots els afectats a través dels mitjans previstos (vegeu 5.3).
+• Els veïns i el director del Pla es reuniran en el punt de reunió (designat prèviament).
+• Abans de l’evacuació, el director del Pla haurà de fer un recompte de les persones per verificar
+ que tothom hi és present i informarà telefònicament de l’activació del Pla en fase d’evacuació.
+
+
+                         - -                              8
+GUIA PER LA REDACCIÓ DEL PLA DE CONFINAMENT I EVACUACIÓ
+Departament de Protecció Civil i Gestió d’Emergències
+
+
+• Un cop completades totes aquestes accions, es farà l’evacuació de forma ordenada i controlada
+ fins al punt de reagrupament exterior definit (aquesta evacuació es podrà fer a peu o amb
+ vehicle).
+
+iii. Si es constata un retorn a risc feble
+ Situació: El risc d’allaus baixa (1/5-2/5) i les condicions i previsions meteorològiques milloren
+           (aquest aspecte es podrà consultar a les pàgines oficials).
+
+ Accions: El director del Pla informarà la resta d’afectats del retorn a la normalitat i farà saber
+          al 112 la desactivació del Pla.
+
+iv. Si es produeix una allau
+ El director del Pla alertarà els serveis d’emergència a través del 112 en cas que hi hagi una
+ allau.
+
+
+5.6. Interfase amb altres plans d'intervenció o de nivell superior
+- Identificar si la zona disposa d'un PIDA. De ser el cas posar l'actuació del responsable del pla
+  vinculada amb l'operativa de desencadenament preventiu de l'allau que els afecta.
+- Identificar d'altra banda si la zona on es troba l'edifici, equipament o instal·lació disposa d'un
+  pla específic relacionat amb el risc d'allaus.
+  Si és el cas fer-ne menció i anotar que "els usuaris habituals del terreny s'adheriran al
+  corresponent pla i a adoptaran les mesures determinades en aquest document.
+
+
+
+6. IMPLANTACIÓ I MANTENIMENT
+6.1. Implantació (model de redacció proposat)
+Perquè el Pla sigui realment operatiu, serà necessari que totes les persones implicades i afectades
+tinguin ple coneixement dels mecanismes i les actuacions planificades i assignades en cada fase.
+
+Aquesta fase d’assumpció d’actuacions i informació destinada a aconseguir l’operativitat real del
+Pla
+s’anomena implantació i va a càrrec del seu director o el director suplent en cas d’absència del primer.
+
+Informarà, entre altres coses, de la ubicació de les zones segures, dels recorreguts que s’han de seguir
+en cas d’activació del Pla, dels punts de trobada...
+
+Per tal de realitzar aquesta implantació, es duran a terme reunions amb la comunitat de veïns,
+s’informaran els ocupants de l’habitatge, es penjarà senyalització als hotels...
+
+
+6.2. Manteniment (model de redacció proposat)
+El manteniment del Pla és el conjunt de tasques necessàries per aconseguir que el Pla sigui operatiu
+i efectiu en tot moment. Aquesta fase comença a partir del moment que s’ha acabat la implantació.
+
+
+
+
+                         - -                              9
+GUIA PER LA REDACCIÓ DEL PLA DE CONFINAMENT I EVACUACIÓ
+Departament de Protecció Civil i Gestió d’Emergències
+
+
+Cada dos anys es durà a terme una actualització, que permetrà mantenir al dia les dades de contacte,
+els telèfons, la gerència, els directors del Pla...
+
+Concretament, pel que fa a les dades de contacte del director del Pla, del director suplent i de les
+persones afectades, és necessari que siguin actualitzades convenientment, i en el menor temps
+possible, per mantenir-les vigents.
+
+Cada quatre anys es revisarà el document per a noves anàlisis del risc i altres modificacions que es
+considerin rellevants.
+
+
+6.3. Transmissió del document (model de redacció proposat)
+El Pla i els documents annexos seran tramesos al departament competent en matèria de protecció civil
+del Govern.
+
+Un cop aprovat, s’entregarà una còpia a cada veí o persona afectada (en cas de comunitats de veïns),
+que haurà de signar-lo i acreditar-ne degudament la recepció i adhesió.
+
+En cas d’habitatges unifamiliars d’ús temporal, es vetllarà perquè la informació arribi a totes les
+persones susceptibles de fer ús de l’equipament.
+
+
+
+
+7. ANNEXOS
+7.1. Plànols de l’edifici/equipament/instal·lació
+S’adjunten a aquest document els plànols de l’edifici, equipament, instal·lació o parcel·la que
+proporciona el propietari.
+
+En aquest punt s’han d’adjuntar plànols de la zona, de les plantes (en cas d’haver-n’hi més d’una).
+S’hauran de fer ressaltar les zones de confinament o els punts de reagrupament i reunió previstos.
+
+
+
+
+7.2. Llista d’afectats i dades personals
+En aquest punt s’haurà de fer el cens dels ocupants de l’edifici, equipament o instal·lació (en cas
+de domicilis fixos o edificis d’ús públic).
+A part d’enumerar els afectats amb la identitat, adreça i telèfon de contacte, s’hi anotaran les
+funcions, en cas d’haver-n’hi (director, suplent, responsable de planta...) i altres dades d’interès
+(si hi resideixen menors d’edat, persones amb mobilitat reduïda...).
+
+
+
+                         - -                          10
+GUIA PER LA REDACCIÓ DEL PLA DE CONFINAMENT I EVACUACIÓ
+Departament de Protecció Civil i Gestió d’Emergències
+
+
+Es proposa el quadre següent per recollir la informació sol·licitada:
+
+     Nom del                     Adreça             Telèfon de   Funcions         Altres dades
+ propietari/llogater                                 contacte                      d’interès
+
+
+
+
+Per tal de garantir la màxima transparència en el tractament de les dades de caràcter personal
+que es recullen en aquests plans, en data 6 de febrer del 2019 es va aprovar el decret de creació
+del fitxer de dades personals denominat “Plans de confinament i evacuació”, subjecte a tots els
+efectes a la Llei 29/2021, del 28 d’octubre, qualificada de protecció de dades personals.
+
+
+7.3. Consells d’autoprotecció i recomanacions.
+Consells d’autoprotecció
+• Equipeu-vos amb una ràdio amb piles i una lot.
+• Tingueu a disposició material de treta de neu.
+• No transiteu pels carrers o espais oberts propers a la zona identificada valorada i reconeguda
+  amb un cert grau de risc.
+• Sigueu coneixedors dels sistemes de llum i aigua.
+• Tingueu la documentació personal i de l’edifici/pis a mà (si és possible).
+• Tingueu una reserva d’aigua potable.
+• Tingueu identificada la gent gran i les persones amb discapacitat.
+• Mantingueu-vos informats de l’evolució de la situació, ja sigui mitjançant una ràdio o un
+  televisor o qualsevol altre mitjà que permeti una comunicació. En cas de ser factible, manteniu-
+  vos contínuament informats, ja sigui mitjançant una ràdio o un televisor o qualsevol altre mitjà
+  que permeti una comunicació.
+• En cas d’activació del Pla, espereu a rebre les indicacions i recomanacions de les autoritats.
+
+Recomanacions (en cas d’habitatge unifamiliar d’ús provisional)
+• Consulteu del butlletí de perill d’allaus i de les previsions meteorològiques abans de fer
+ qualsevol ús de l’habitatge.
+• Seguiu les previsions meteorològiques en cas de trobar-vos en perill marcat d’allaus (3/5) i
+ limiteu l’ús de l’habitatge si les previsions són desfavorables o el Servei Meteorològic Nacional
+ ha emès algun avís meteorològic que indiqui un perill moderat d’acumulació de neu.
+• Limiteu l’ús de l’habitatge en cas que el Servei Meteorològic Nacional hagi emès un avís
+  meteorològic que anunciï un perill important o una màxima acumulació de neu que generi un
+  perill alt o molt alt per a les activitats a l’exterior.
+• Limiteu l’ús de l’habitatge en períodes de perill fort (4/5) o molt fort (5/5) d’allaus.
+• Limiteu l’ús de l’habitatge en cas que les autoritats competents emetin comunicats a través
+  dels mitjans de comunicació en què s’anunciïn fenòmens meteorològics adversos i conductes
+  d’autoprotecció a d’adoptar.
+
+
+                         - -                          11
+GUIA PER LA REDACCIÓ DEL PLA DE CONFINAMENT I EVACUACIÓ
+Departament de Protecció Civil i Gestió d’Emergències
+
+
+7.4. Webs d’interès
+• www.meteo.ad
+• www.protecciocivil.ad
+• www.ideandorra.ad
+
+7.5.    Escala europea de perill d’allaus
+
+
+
+
+Data:
+
+Signatura/es
+
+
+
+
+                         - -                          12
+

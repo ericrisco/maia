@@ -1,0 +1,52 @@
+FORA_DEL_CORPUS
+Font: Servei Meteorològic Nacional; https://www.meteo.ad/presentacio
+Consulta: 2026-09-13. Registre meteo-ad.md. Sense datasets.
+
+Meteo.ad. Servei Meteorològic Nacional.
+Menu
+Servei Meteorològic Nacional. Meteo.ad
+Servei Meteorològic Nacional
+CA
+ES
+FR
+EN
+Inici
+Qui som
+Presentació
+Missió i Funcions bàsiques
+Història
+Previsió meteorològica
+Avisos meteorològics
+Butlletí d’allaus
+Climatologia
+Estacions meteorològiques
+Climatologia
+Butlletins Climàtics
+Divulgació
+Enllaços
+Neu i allaus
+Meteorologia
+Publicacions de l'SMN
+Xarxa Observadors
+Serveis
+Àrea privada
+Json
+Ginys
+Contacte
+Presentació
+La Llei 21/2018, del 13 de setembre, d’impuls de la transició energètica i del canvi climàtic, crea mitjançant el seu article 13, el Servei Meteorològic Nacional, que opera com a Servei Meteorològic Nacional en els termes i als efectes de l’Organització Meteorològica Mundial (OMM), de la qual Andorra va esdevenir el 192è membre el 16 de novembre de 2018 integrant el Consell Regional VI (Europa).
+El Servei Meteorològic d’Andorra està adscrit a l’Oficina de l’Energia i del Canvi Climàtic, en un context de canvi climàtic en el qual el Servei proveeix informació sobre les previsions i els avisos en matèria de meteorologia i sobre l’estat del mantell nival, per tal d’augmentar la resiliència de les nostres activitats, així com per informar sobre l’evolució del clima.
+A nivell internacional, el Servei representa el país davant els organismes meteorològics, centres de predicció d’allaus i climàtics d’arreu, en el marc del multilateralisme. Cal remarcar, que el Servei Meteorològic és membre fundador de l’EAWS (Serveis Europeus de Predicció d’Allaus).
+A nivell bilateral, el Servei Meteorològic d’Andorra col·labora activament amb els centres meteorològics veïns, com ara, Météo France, l’Agencia Estatal de Meteorología (AEMET) i el Servei meteorològic de Catalunya. Completa aquesta relació, la col·laboració amb l’Institut Cartogràfic i Geològic de Catalunya.
+Cal fer un incís específic al treball en xarxa a nivell del nostre massís. el Servei participa a l’Observatori Pirinenc del Canvi Climàtic de la Comunitat de Treball dels Pirineus representant el país, per tal de generar nou coneixement sobre el canvi climàtic i identificar vies d’adaptació als seus efectes. En aquest mateix context, el Servei també participa amb el grup de treball de centres predictors del Pirineu del perill d’allaus.
+El Servei disposa d'una xarxa de 18 estacions meteorològiques automàtiques que alimenten els models meteorològics per fer el pronòstic. A més, disposem de 7 estacions manuals que prenen dades durant la temporada hivernal que juntament amb les observacions del mantell nival de les estacions d'esquí i en alta muntanya serveixen per confeccionar el butlletí de perill d'allaus i muntanya hivernal. Aquestes 7 estacions meteorològiques manuals funcionen gràcies a la tasca que duen a terme els observadors nivometeorològics de les estacions d'esquí 2 vegades al dia.
+L'accés a les dades és lliure i es pot consultar a l'apartat de climatologia.
+Inici
+Presentació
+Previsió meteorològica
+Butlletí d’allaus
+Climatologia
+Estacions meteorològiques
+Enllaços
+Contacte
+Avís Legal

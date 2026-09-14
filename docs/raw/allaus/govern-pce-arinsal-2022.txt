@@ -1,0 +1,1217 @@
+FORA_DEL_CORPUS — còpia textual de consulta
+Font: https://www.govern.ad/documents/1898932/3564962/P.ESPC-04-1-_Confinament_i_evacuaci%C3%B3_-_Arinsal_Temp._22-23_-_v01.01_compressed.pdf/e858aede-8e17-2fb8-23df-b59542cd8437?t=1733143549445
+Peça: P.ESPC-04-1/v01.01; novembre 2022; 29 pàgines
+Consulta 13-09-2026; extracció pdftotext -layout.
+Registre previ: 02-DOCS/raw/sources/govern-plans-allaus.md; drets pendents, no datasets
+Els renders i els PDFs es conserven com a evidència, no datasets.
+
+                                                     PLA ESPECÍFIC
+
+
+
+                                                     04-1
+
+
+
+
+PLA D’EMERGÈNCIA
+ESPECÍFIC
+ CONFINAMENT I EVACUACIÓ
+ ARINSAL (Les Fonts – Percanela)
+                             PRINCIPAT D’ANDORRA
+
+
+
+
+                  Ref.: P.ESPC-04-1/v01.01
+                  Actualització: novembre del 2022
+                QUADRE DE SEGUIMENT DE LES ACTUALITZACIONS I REVISIONS
+
+
+
+                                                                                               VERSIÓ      APROVAT  INFO.
+                  DATA        A* R*        COMENTARIS
+                                                                                                             MJI   GOVERN
+                                           Aplicació del document.
+                  02.11.22                                                                     V01.01
+                                           Aprovació del Pla.
+
+
+
+
+                                                                                                                                       Govern d’Andorra
+
+
+
+
+PLA ESPECÍFIC
+                *Actualitzacions: s’efectuaran cada any a partir de la segona quinzena d’octubre per tal d’actualitzar, entre altres
+
+Arinsal
+                informacions, la llista telefònica i l’empresa contractada.
+                *Revisions: s’efectuaran cada quatre anys i seran independents de les actualitzacions. Inclouran noves anàlisis
+                del risc, noves estructures, nous dispositius de desencadenament d’allaus i altres modificacions importants.
+
+
+
+
+                 Pla d’emergència específic – Arinsal                                                                      2 de 29
+                                                                        ÍNDEX
+                1. INTRODUCCIÓ .................................................................................................... 4
+                  1.1.     Antecedents ............................................................................................................ 5
+                  1.2.     Objecte del Pla ........................................................................................................ 5
+                2. ANÀLISI DEL RISC ............................................................................................. 6
+                  2.1.     Mapa de perillositat d’allaus de la zona (font: zonificació de la perillositat d’allaus) . 7
+                  2.2.     Punts conflictius ...................................................................................................... 8
+                  2.3.     Senyalització ..........................................................................................................10
+                  2.4.     Afectació ................................................................................................................10
+                3. NIVELLS DE RISC I ASSISTÈNCIA TÈCNICA ................................................ 12
+                  3.1.     Nivells de risc .........................................................................................................13
+                  3.2.     Assistència tècnica per al control d’allaus ..............................................................14
+                  3.3.     Obligacions de l’assistència tècnica .......................................................................14
+                4. PROCEDIMENTS D’ACTUACIÓ ....................................................................... 15
+                  4.1.     Conceptes bàsics i grups d’actuació ......................................................................16
+                  4.2.     Procediments en fase de prevenció (vegeu codificació del punt 5 - Avisos) ...........17
+                  4.3.     Procediment en fase d’emergència (vegeu codificació del punt 5 - Avisos) ............18
+                  4.4.     Circulació per la zona afectada ..............................................................................19
+                5. AVISOS ............................................................................................................. 24
+
+
+
+                                                                                                                                                          Govern d’Andorra
+                  5.1.     Protocol d’avís (estructura genèrica) ......................................................................25
+                  5.2.     Característiques de l’avís intern al Grup Allaus - Zona Arinsal ...............................26
+                  5.3.     Característiques de l’avís a la població ..................................................................26
+                6. IMPLANTACIÓ I MANTENIMENT ..................................................................... 27
+                  6.1.     Implantació del Pla .................................................................................................28
+                  6.2.     Manteniment del Pla: actualitzacions i revisions .....................................................28
+                7. ANNEXOS ........................................................ Error! No s'ha definit el marcador.
+                  7.1.     Annex 1 – Llista telefònica i cens de la població afectada (informació restringida)
+                           Error! No s'ha definit el marcador.
+                  7.2. Annex 2 – Cens d’apartaments i d’habitatges unifamiliars afectats (informació
+
+PLA ESPECÍFIC
+                  restringida)...................................................................Error! No s'ha definit el marcador.
+
+
+
+Arinsal
+
+
+
+
+                 Pla d’emergència específic – Arinsal                                                                                        3 de 29
+                1. INTRODUCCIÓ
+
+
+
+                                                                 Govern d’Andorra
+
+
+
+
+PLA ESPECÍFIC
+
+
+
+Arinsal
+
+
+
+
+                Pla d’emergència específic – Arinsal   4 de 29
+                1.1. Antecedents
+                El poble d’Arinsal està situat a la parròquia de la Massana, a 1.467 metres d’altitud, al nord-
+                oest d’Andorra, i s’hi accedeix per la CG-5.
+                L’any 1973 s’hi va bastir una estació d’esquí situada a la vall de Comallemple i des del gener
+                del 2001 està enllaçada amb l’estació d’esquí de Pal.
+                Dins del seu territori es troben els pics de Comapedrosa (2.942 m), el Medacorba (2.914 m) i
+                el pic del Pla de l’Estany (2.860 m), que són dels més alts d'Andorra.
+                En la part alta del poble d’Arinsal, a la conca formada pel pic de les Fonts (2.749 m) i el pic de
+                Percanela (2.495 m), situada al marge esquerre de la vall amb una vessant orientada sud -
+                sud-oest, es desprèn una gran allau, més o menys activa durant els períodes hivernals,
+                segons les condicions i l’evolució nivològiques i climatològiques.
+                L’any 1996, després d’una situació meteorològica extraordinària, es va produir l’allau més gran
+                de la història d’Andorra, que va causar danys importants en vuit edificis de la zona.
+
+
+                1.2. Objecte del Pla
+                Aquest Pla específic té per objecte:
+
+                    a. Definir les actuacions que han d’adoptar-se per limitar o tancar l’accés als habitatges
+                       definits en aquest Pla durant els intervals en els quals es detecta que el risc d’allaus
+                       és superior als valors admissibles.
+
+                    b. Definir les actuacions preventives que cal dur a terme en previsió de risc d’allaus i de
+                       condicions meteorològiques adverses.
+
+                    c. Definir igualment les actuacions que s’han d’adoptar per reobrir l’accés als habitatges
+
+
+
+                                                                                                                     Govern d’Andorra
+                       quan el risc ha disminuït.
+
+                    d. Fixar els actors que han d’intervenir per dur a terme les actuacions dels punts anteriors.
+
+
+
+
+PLA ESPECÍFIC
+
+
+
+Arinsal
+
+
+
+
+                 Pla d’emergència específic – Arinsal                                                     5 de 29
+                2. ANÀLISI DEL RISC
+
+
+
+                                                                 Govern d’Andorra
+
+
+
+
+PLA ESPECÍFIC
+
+
+
+Arinsal
+
+
+
+
+                Pla d’emergència específic – Arinsal   6 de 29
+2.1. Mapa de perillositat d’allaus de la zona (font: zonificació de la perillositat d’allaus)
+
+
+
+
+                                                                                                Govern d’Andorra
+
+
+                                                                                 Nucli urbà
+                                                                                 d’Arinsal
+
+
+
+
+                           Carretera
+                          Comallemple
+                2.2. Punts conflictius
+                   2.2.1.   Allau del pic de les Fonts d’Arinsal (FP-01)
+
+                    Al voltant de les 19.30 hores del 8 de febrer de l’any 1996, es va produir un dels episodis
+                    d’allaus més grans d’Europa en zona habitada.
+                    L’allau de les Fonts és la que va tenir una afectació més gran, i va causar nombroses
+                    destrosses i desperfectes a la zona d’arribada. La zona de sortida de l’allau va englobar
+                    gairebé la totalitat de la coma de les Fonts, punt en el qual va deixar un tall en el mantell
+                    nival d’entre 1,2 i gairebé 2 metres d’alçària, i va mobilitzar un volum extraordinari de neu.
+                    Es calcula que es van desprendre al voltant d’1.800.000 metres cúbics de neu, que van
+                    arribar a velocitats de més de 300 km/h i pressions de més de 600 kPa.
+                    La catàstrofe no va causar cap víctima mortal perquè els més de 300 veïns van ser
+                    evacuats a temps, però va deixar la zona sepultada amb un gruix de neu, troncs i
+                    branques de més de sis metres d’alçària i va causar nombrosos danys materials als
+                    edificis, les infraestructures de pistes i tots els vehicles que en aquell moment estaven
+                    estacionats a la zona.
+
+
+
+
+                                                                                                                                  Govern d’Andorra
+                                 Canal de l’allau de les Fonts           Allau de les Fonts - zona del solà d’Arinsal
+
+
+                    Arran de l’allau del 1996, es va instal·lar nou Gazex (vegeu el mapa del punt 2.1) a la
+                    zona de sortida de l’allau de les Fonts i el 1999 es van construir dos dics de 18 metres
+                    d’alçària a la zona d’arribada i un terreny pla aigües amunt per protegir la zona.
+
+
+                                   Dic de
+                                  protecció                              Bassa
+
+
+
+                                                                                                    Vista de les proteccions
+
+PLA ESPECÍFIC
+                                                                                                     actuals (dic + bassa)
+
+
+
+
+Arinsal
+
+
+
+
+                 Pla d’emergència específic – Arinsal                                                                   8 de 29
+                   El 26 de febrer del 2015, arran dels tirs preventius que es van efectuar a la zona de les
+                   Fonts, es va desencadenar una allau de neu humida que va arribar fins a la carretera
+                   d’accés als edificis de Prats Subirans, sense cap afectació.
+
+
+
+
+                                                       Arribada de l’allau de les Fonts
+
+
+
+
+                  2.2.2.   Allau del Pic de Percanela i de la Costa de l’Avier (FP-03) - (FP-04)
+
+                  L’allau del Pic de Percanela baixa per la costa de l’Avier i presenta un desnivell vertical de
+                  940 m des del seu punt més alt situat, a 2.460 m, fins al fons del call, situat a uns
+                  1.500 m. A la part baixa, l’allau es pot dividir en dos branques més escarpades: la més
+                  ampla, al nord amb el camí del Torrent de Ribassols, i la més estreta, al sud amb la canal
+                  de les Fonts.
+
+                  Al voltant de les 9.30 hores del 8 de febrer del 1996, concretament un hora abans que les
+
+
+
+
+                                                                                                                                         Govern d’Andorra
+                  autoritats i la policia tanquessin la carretera, l’allau de Percanela es va desencadenar de
+                  manera natural i va tallar la carretera al llarg d’un centenar de metres. La gran quantitat de
+                  neu dipositada va dificultar la posterior evacuació de la gent.
+
+
+
+                                                                                                                           Allau de
+                                                                                                                          Percanela
+
+
+
+
+PLA ESPECÍFIC
+                                                                   Allau de les
+                                                                      Fonts
+
+Arinsal
+
+                             Allau de Percanela                                   Vista panoràmica de l’allau d’Arinsal
+                             (font: Francesc Areny)                                      (font: Francesc Areny)
+
+
+
+                Pla d’emergència específic – Arinsal                                                                           9 de 29
+                   Per tal d’estabilitzar el mantell i reduir el risc d’allau a la zona de sortida de Percanela, es
+                   van instal·lar 2.300 metres de barreres lineals monoancoratge (580 xarxes de DK3).
+                   Aquesta obra ha permès la regeneració d’un bosc de protecció a la zona de sortida, la qual
+                   cosa ha fet possible estabilitzar el mantell nival a la zona de partida.
+
+                2.3. Senyalització
+                La zona afectada no disposa de senyalització específica ni pel perill d’allaus ni pels talls de
+                circulació que es preveuen en el Pla quan se superen els llindars establerts.
+
+                En aquest sentit, en les situacions que preveu el Pla hi haurà un desplegament d’efectius
+                sobre el terreny per aplicar les mesures de protecció de la població (confinaments i talls de
+                circulació) (vegeu el detall al punt 4.4).
+
+                Quadre resum dels trams de carretera afectats i els punts de control
+
+
+
+
+                                                               Punts de
+                                                                control
+
+
+
+                                                                                     Trams afectats
+                                Tram afectat                                          Risc molt alt
+                           Previsió de risc i risc alt
+
+
+
+
+                                                                                                                      Govern d’Andorra
+                                                                                                 Punt de
+                                                                                                 control
+                                                           Punt de
+                                                           control
+
+
+
+
+                2.4.     Afectació
+                Per dimensionar el dispositiu que cal establir en cas de talls de circulació, quan l’assistència
+
+PLA ESPECÍFIC
+                tècnica consideri que el risc d’allau pot superar els llindars admissibles i s’hagin de fer tirs
+                preventius, cal tenir dades sobre l’ocupació de la zona afectada.
+
+
+Arinsal         A banda de les afectacions que aquestes allaus poden tenir en el tram identificat de la CG-5
+                i la CS-530 en l’àmbit de la circulació, també s’hauran de tenir en compte els habitatges situats
+                en el mapa següent:
+
+
+                 Pla d’emergència específic – Arinsal                                                      10 de 29
+                            Prats
+                           Sobirans                                                     Edifici
+                                                                                        Velvet
+
+
+
+                              Prats                                                               Apartaments
+                             Sobirans                                                               Amadeu
+
+
+                              Xalet
+                             Solona
+
+
+
+                                                                                                         Hotel
+                                                                                                         Cresta
+
+
+
+
+                                             Xalet Carbonera                  Hotel
+                                              dels Tossals                  Patagonia
+
+
+
+                                                               Habitatges afectats
+
+
+
+
+                El dispositiu haurà de permetre assegurar que no hi hagi ningú en el tram afectat i controlar el
+                pas del veïnat i dels vehicles segons les situacions de risc.
+                En les situacions previstes en aquest Pla, la Policia es desplaçarà fins a la zona per evitar
+                possibles sortides i assegurar el confinament dels habitatges afectats (aproximadament 160
+
+
+
+
+                                                                                                                             Govern d’Andorra
+                apartaments i 2 habitatges unifamiliars) - vegeu els quadrats de color taronja.
+                En cas de nevades excepcionals, l’assistència tècnica podrà sol·licitar l’evacuació dels
+                ocupants de tots els habitatges identificats en el plànol fins que el risc disminueixi – afegir-hi
+                quadrats de color blau.
+
+
+
+
+PLA ESPECÍFIC
+
+
+
+Arinsal
+
+
+
+
+                 Pla d’emergència específic – Arinsal                                                             11 de 29
+                3. NIVELLS DE RISC I ASSISTÈNCIA TÈCNICA
+
+
+                                                                  Govern d’Andorra
+
+
+
+
+PLA ESPECÍFIC
+
+
+
+Arinsal
+
+
+
+
+                Pla d’emergència específic – Arinsal   12 de 29
+                3.1. Nivells de risc
+                Als efectes d’aquest Pla es determinen quatre nivells de risc, que s’han definit en funció de
+                la probabilitat que les allaus afectin la carretera i de la seva magnitud previsible.
+
+
+                 Nivell de                 Estabilitat del mantell
+                 risc i                       i probabilitat de                       Accessos          Accions
+                 d’activació                desencadenament
+
+                                    El mantell nival està ben estabilitzat en
+                                    general.
+                 Risc feble         En cas d’allaus, serien petites o mitjanes i       Oberts         Cap restricció.
+                                    relativament inofensives per a les persones.
+                                    S’aturarien al mig del vessant.
+
+
+
+                                    El mantell nival està moderadament
+                 Previsió de        estabilitzat i les previsions meteorològiques                Accés tallat des de
+                 risc               són adverses.                                                l’entrada del túnel
+                                                                                       Tancats
+                                    No s’esperen allaus d’una dimensió molt                       Confinament dels edificis
+                 PREALERTA          gran, però podrien colgar o ferir una persona.                      A–B–C–D
+                                    S’efectuaran tirs preventius.
+
+
+
+                                    El mantell nival està estabilitzat feblement.
+                                                                                                 Accés tallat des de
+                 Risc alt           El desencadenament d’allaus grans és                         l’entrada del túnel
+                                    probable i és previsible que arribin a la          Tancats
+                                                                                                  Confinament dels edificis
+                                    carretera. Podrien colgar o destruir un vehicle
+                 ALERTA                                                                              A–B–C–D– E
+                                    o trencar arbres.
+                                    S’efectuaran tirs preventius.
+
+
+
+
+                                                                                                                              Govern d’Andorra
+                                    El mantell està poc consolidat i és molt                         Accés tallat des de
+                                    inestable.                                                    l’aparathotel St. Andreu
+                 Risc molt alt      En general s’esperen allaus molt grans que                      Evacuació dels veïns
+                                                                                       Tancats
+                                    puguin arribar a la carretera. Podrien colgar i                     dels edificis
+                 ALERTA             destruir edificis i parts del bosc o fins i tot               A–B–C–D–E–F–
+                                    modificar el paisatge.                                                   G
+                                    S’efectuaran tirs preventius.
+
+
+
+
+PLA ESPECÍFIC
+
+
+
+Arinsal
+
+
+
+
+                 Pla d’emergència específic – Arinsal                                                             13 de 29
+                3.2. Assistència tècnica per al control d’allaus
+                L’assistència tècnica per al control d’allaus (en endavant, “assistència tècnica”) és un equip
+                de tècnics especialistes en allaus que assessora els serveis del Govern en relació amb el risc
+                d’allaus de la carretera.
+
+                En aquest sentit, té les funcions i responsabilitats següents:
+
+                    -   Conèixer l’estabilitat del mantell nevós en les zones definides en les condicions
+                        tècniques del contracte.
+
+                    -   Avaluar el nivell de risc que afecta la carretera en cada moment de l’hivern i alertar
+                        immediatament el 112 (en funcions de Centre Nacional d’Emergències - CNE) segons
+                        el nivell de risc (feble, previsió de risc, risc alt o molt alt).
+
+                    -   Fer tirs preventius amb els dispositius disponibles (Gazex) (vegeu el Pla d’intervenció
+                        per al desencadenament d’allaus (PIDA)).
+
+
+                L’assistència tècnica és contractada pel Govern i assumeix les funcions descrites de forma
+                permanent durant tota la temporada hivernal, fixada entre l’1 de novembre i el 15 de maig, 24
+                hores sobre 24, 7 dies sobre 7.
+
+
+                3.3. Obligacions de l’assistència tècnica
+                L’assistència tècnica ha de trucar al 112 en els supòsits següents:
+
+                    -   Quan consideri que hi ha una previsió de risc d’allaus.
+                    -   Quan consideri que hi ha un risc d’allaus alt o molt alt.
+
+
+
+
+                                                                                                                  Govern d’Andorra
+                    -   Quan consideri que el risc d’allaus ha passat de molt alt o alt a feble.
+                    -   Quan estigui efectuant tirs preventius de desencadenament d’allaus.
+
+
+
+
+PLA ESPECÍFIC
+
+
+
+Arinsal
+
+
+
+
+                 Pla d’emergència específic – Arinsal                                                  14 de 29
+                4. PROCEDIMENTS D’ACTUACIÓ
+
+
+                                                                  Govern d’Andorra
+
+
+
+
+PLA ESPECÍFIC
+
+
+
+Arinsal
+
+
+
+
+                Pla d’emergència específic – Arinsal   15 de 29
+                4.1. Conceptes bàsics i grups d’actuació
+                   4.1.1. Conceptes bàsics
+
+                    Evacuació
+                    L’evacuació consisteix a desallotjar les persones, de forma ordenada i controlada, i portar-
+                    les a zones segures.
+                    Només s’adoptarà aquesta mesura en casos excepcionals i d’emergència.
+
+
+                    Confinament
+                    El confinament consisteix a fer que la població romangui en espais segurs i protegits,
+                    aïllada de l’exterior, fins que les condicions siguin segures.
+                    S’adoptaran certes mesures preventives a partir de la previsió de risc i restriccions
+                    de circulació o confinament a partir d’un risc alt o molt alt.
+
+                   4.1.2. Grups d’actuació i missions
+
+                    Per gestionar les accions que s’hauran de dur a terme en les fases de prevenció o
+                    d’emergència, s’identifiquen els grups d’actuació següents:
+
+                      Fases de prevenció
+
+                         Grup d’actuació                Missions i responsabilitats
+                                                        Responsable del tancament dels accessos i carrers de la urbanització i
+                         Policia                        reobertura posterior. Control d’entrada i sortida dels veïns en risc alt.
+                                                        Evacuació dels veïns (en situacions de risc molt alt).
+
+                         COEX Nord                      Suport al Comú de la Massana, neteja de la CG-5.
+
+
+
+
+                                                                                                                                        Govern d’Andorra
+                                                        Suport a la Policia per fer els tancaments dels accessos i possibles
+                         Servei de Circulació de la
+                                                        evacuacions dels veïns (en situacions de risc molt alt). Gestió de
+                         Massana
+                                                        l’aparcament del parc Natural del Compedrosa.
+
+                         Servei de neu del Comú
+                                                        Suport al Servei de Circulació en el tancament dels accessos.
+                         de la Massana
+                        Nota: en les fases de prevenció, cada servei/departament haurà de vetllar pel compliment dels seus
+                        procediments establerts genèricament en aquest Pla i per resoldre les possibles incidències.
+
+
+                      Fase d’emergència
+                        Nota: en cas de produir-se una situació d’emergència, s’alertarà el 112 per tal d’activar, si escau, la resta
+
+                         Grup d’actuació                Missions i responsabilitats
+                                                        Responsables del rescat de persones i dels tirs preventius d’allaus fora
+                         Bombers                        dels dominis esquiables en les zones sensibles no equipades amb Gasex
+
+PLA ESPECÍFIC
+                                                        o Avalancheur (grup EMEDA).
+
+                         Protecció Civil                Coordinació dels grups d’actuació lligats al Pla.
+
+
+Arinsal                  SUM                            Assistència mèdica, si és necessària.
+
+                        de recursos previstos en aquest Pla (vegeu el punt 4.3, “Procediments en fase d’emergència”).
+
+
+
+
+                 Pla d’emergència específic – Arinsal                                                                      16 de 29
+                4.2. Procediments en fases de prevenció (vegeu codificació del punt 5, “Avisos”)
+
+
+
+                                                                                    L assistència tècnica informa del
+                                                                                           nivell de risc el 112
+
+
+
+
+                                                                                                 Previsió
+                                            PREVISIÓ DE RISC                                      o risc?
+                                                                                                                                           SITUACIÓ DE RISC
+
+
+
+                                                                                                                                                   Quin
+                                        Tancament accés zona afectada                                                                              risc?
+                                              Tirs preventius
+                                                -SMS Codi 02-
+                                                                                                                               ALT                                   MOLT ALT
+
+
+                                                                                                              Tancament accés zona afectada                Tancament accés zona afectada
+                                                                                                                 Circulació veïns prohibida                  Circulació veïns prohibida
+                                                                                                                Mesures preventives veïns                       Evacuació dels veïns
+                                                                                                                           -SMS Codi 03-                             -SMS Codi 04-
+
+
+
+
+                                                                      112 envia un SMS al grup intern ARINSAL (SMS Codi 02/03 o 04)
+                                                                                  i ho comunica telefònicament a:
+
+
+
+
+                       AFECTATS                   POLICIA                     COMÚ DE LA                        COEX NORD                       CENATRA                BOMBERS + SUM
+                    (Només SMS veïns)                                          MASSANA
+                  Mesures preventives      Tancament accés zona.                                             Neteja CG5 fins a risc          Per a informació.          Per a informació
+                    o confinament           Actuació preventiva               Suport Policia.                     alt (inclòs).            En risc molt alt, info.
+                      preventiu.            confinament xalets/              Tancament accés                  Suport Policia en el         anticipada població
+
+
+
+
+                                                                                                                                                                                                Govern d’Andorra
+                      Recull info            edifici o evacuació            en risc alt i molt alt            tancament de ctra.             tall de carretera
+                                               d emergència.                                                    Obertura CG-5.                (SMS Codi 06)
+
+
+
+
+                                                                     Un cop completada l actuació preventiva, la Policia informa al
+                                                                              112 i tanca els accessos a la zona afectada.
+
+
+
+                                                                                 112 ho comunica telefònicament a AT
+
+
+
+
+                                                                            AT fa seguiment de l estabilització del mantell
+                                                                                    (possibilitat de tirs preventius)
+
+
+
+
+                                                                NO                              Baixa risc
+                                                                                                                      SI                         AT informa el 112
+                                                                                                 a feble?
+
+
+
+PLA ESPECÍFIC
+                                                                                                                                  112 ho comunica telefònicament a la Policia
+
+
+
+
+Arinsal
+                   L AT pot decidir realitzar tirs preventius en tots els                                                            Policia procedeix a l obertura de l accés.
+                  nivells de risc amb els sistemes de desencadenament                                                                        Confirma l obertura al 112
+                  d allaus previstos en el present pla (vegeu PIDA) per
+                                   tal d assegurar la zona.
+                  Aquests tirs es farien prioritàriament en horaris de                                                            112 informa telefònicament els grups d actuació
+                                    menys afectació.                                                                       i afectats i envia SMS al Grup Intern ARINSAL (SMS Codi 01).
+
+
+                 Pla d’emergència específic – Arinsal                                                                                                                                17 de 29
+                4.3. Procediment en fase d’emergència (vegeu codificació del punt 5, “Avisos”)
+                   En el desencadenament d’una allau que afecti o no persones/vehicles quan la zona està
+                   oberta, se seguirà el procediment següent:
+
+
+
+                                                                           Persona testimoni de l allau informa
+                                                                                         el 112
+
+
+
+
+                                                                                 112 recull informació i
+                                                             activa immediatament el grup de rescat en allaus del DPEIS i els
+                                                                     recursos previstos en els procediments d allaus.
+
+
+
+
+                                                           Un cop activats els recursos necessaris, el 112 envia un SMS al grup
+                                                              intern ARINSAL (SMS Codi 05) i ho comunica telefònicament a:
+
+
+
+
+                       AFECTATS         POLICIA       COMÚ MASSANA           COEX NORD             SUM                    AT          PROTECCIÓ CIVIL      CENATRA
+                         (veïns)
+                                       Tancament       Neteja accessos,      Neteja CG5 i      Atenció mèdica       Suport tècnic i    Coordinació pla          Per
+                        Info. sobre    accés zona                            suport neteja
+                                                        suport Policia                          (si necessari)        seguiment         d emergència       informació.
+                      l emergència.                                         urbanització (si
+                                      des de la CG5                                                                                                       No hi ha avís
+                        Recull info                                            necessari)                                                                 a la població.
+
+
+
+
+                                                                   Un cop assegurada la zona, la Policia informa al 112
+
+
+
+
+                                                                                                                                                                           Govern d’Andorra
+                                                                          El CNE fa el seguiment de l emergència.
+
+                                                               Quan la magnitud ho requereixi, es podran activar equips de
+                                                                                       suport.
+
+
+
+
+                NOTA
+                Circulació de vehicles
+                En la fase d’emergència, només es permetrà la circulació de vehicles dels serveis
+                d’emergència i els tècnics designats pel Govern, a menys que s’autoritzi expressament per
+                part de l’autoritat competent.
+
+                La carretera queda totalment tancada i l’accés a la zona d’Arinsal definida en el Pla està
+
+PLA ESPECÍFIC
+                totalment prohibit.
+
+
+
+Arinsal
+
+
+
+
+                 Pla d’emergència específic – Arinsal                                                                                                    18 de 29
+                4.4. Circulació per la zona afectada
+                 4.4.1. Circulació dels veïns afectats
+
+                   Previsió de risc (tirs preventius) – nevades < 40 cm
+                    En aquesta situació, el desencadenament natural d’una allau és molt poc probable, i en
+                    cas de produir-se seria d’una dimensió petita i no tindria cap afectació a la zona
+                    baixa de l’allau.
+                    En situacions de desencadenament d’una allau mitjançant tirs preventius, la probabilitat
+                    que la neu arribi al fons de l’allau és molt baixa.
+                    Així doncs, quan l’assistència tècnica informi d’una previsió de risc i de tirs preventius, el
+                    Servei de Policia revisarà la zona afectada perquè no hi hagi ningú i s’establiran dos
+                    punts de control:
+                         -   El primer just davant de l’edifici Prats Sobirans, encarregat de prohibir la circulació
+                             de vehicles i de vianants dins de la zona durant la fase de tirs.
+                         -   El segon a l’entrada del túnel que dona accés al parc natural del Comapedrosa.
+
+
+
+                               Revisió de la zona afectada
+                                  per part de la Policia
+
+
+
+
+                                                                                                                         Govern d’Andorra
+                                                                           Control
+                                                                           Policia
+
+
+
+
+                                                                                                    Control
+                                                                                                    Policia
+
+
+
+
+                   Risc alt – nevades importants > 60 cm sense risc d’aerosol
+
+PLA ESPECÍFIC
+                    En aquesta situació, el desencadenament natural d’una allau és feble. No obstant això, si
+                    es produís una allau seria d’una dimensió mitjana i podria tenir afectacions a la
+                    carretera, però sense risc d’aerosol.
+Arinsal             En situacions de desencadenament d’una allau mitjançant tirs preventius, la probabilitat
+                    que la neu arribi al fons de l’allau és alta.
+
+
+
+                 Pla d’emergència específic – Arinsal                                                         19 de 29
+                   Quan l’assistència tècnica informi d’un nivell de risc alt, el Servei de Policia revisarà la
+                   zona afectada perquè no hi hagi ningú i s’establiran tres punts de control:
+                        -   El primer just davant de l’edifici Prats Sobirans, encarregat de prohibir la circulació
+                            de vehicles i de vianants dins de la zona durant la fase de tirs.
+                        -   El segon dins del pàrquing del conjunt d’edificis Velvet, encarregat de prohibir la
+                            circulació de vehicles i de vianants dins de la zona durant la fase de tirs.
+                        -   El tercer, a càrrec del Servei de Circulació de la Massana, a l’entrada del túnel que
+                            dona accés al parc natural del Comapedrosa.
+
+
+                             Revisió de la zona afectada
+                                per part de la Policia
+
+
+                                                                                                      Control
+                                                                                                      Policia
+
+
+
+
+                                                                    Control
+                                                                    Policia
+
+
+
+
+                                                                                                                      Govern d’Andorra
+                                                                                               Control Servei
+                                                                                                de Circulació
+
+
+
+
+                  Risc molt alt – nevades importants > 60 cm amb risc d’aerosol
+                   En aquesta situació excepcional, es poden produir desencadenaments d’allaus de
+                   grans dimensions al circ de les Fonts i la canal del pic de Percanela que afectin la
+                   part alta del poble d’Arinsal.
+                   Així mateix, es poden produir desencadenaments de grans allaus canalitzades a
+                   través del torrent del Ruïder i de la canal de la Costa de l’Avier.
+                   Quan l’assistència tècnica informi d’un nivell de risc molt alt, el Servei de Policia revisarà
+                   la zona afectada i durà a terme, conjuntament amb els altres serveis d’emergències, les
+
+PLA ESPECÍFIC
+                   accions següents:
+                   -   El Servei de Circulació de la Massana situarà un control a l’altura de l’aparthotel Sant
+                       Andreu i s’encarregarà de prohibir la circulació de vehicles i de vianants en sentit nord.
+Arinsal
+                   -   El Servei de Policia serà el responsable de l’evacuació de tots els veïns de la zona
+                       afectada fins que el risc disminueixi. També vetllarà per evacuar l’estació i prohibir
+                       el pas de vehicles i vianants a l’alçada de l’Ed. Astra de la Crta. de Comallemple.
+
+                Pla d’emergència específic – Arinsal                                                      20 de 29
+                   El reallotjament de les persones afectades es realitzarà segons els procediments
+                   establerts en els convenis de col·laboració signats pel Departament de Protecció Civil.
+
+                     Revisió de la zona afectada
+                        per part de la Policia
+
+
+
+
+                      Evacuació dels habitatges,                                               Evacuació dels
+                           edificis i hotels                                                      edificis
+
+
+
+
+                                                                                                    Punt de
+                                                                                                    control
+                                                            Punt de
+                                                            control
+
+
+
+
+                                                                                                                   Govern d’Andorra
+                   En cas d’una situació excepcional, el punt de control ubicat inicialment a l’altura
+                   de l’aparthotel Sant Andreu es podria desplaçar per motius de seguretat al Pont
+                   dels Esquirols, situat uns metres més avall. El radi d’evacuació també es podria
+                   ampliar.
+
+                4.4.2. Identificació dels punts de control de la zona
+
+
+
+
+PLA ESPECÍFIC
+
+
+
+Arinsal
+
+
+                                 Zona de control                                  Zona de control
+                                 Prats Sobirans                                    Edifici Velvet
+
+                Pla d’emergència específic – Arinsal                                                    21 de 29
+                                  Zona de control                                   Zona de control
+                                  Entrada del túnel                              Aparthotel Sant Andreu
+
+
+
+
+                4.4.2. Circulació dels serveis d’emergència
+                Els únics vehicles que estan autoritzats a circular en situacions de risc alt o molt alt, a part
+                dels identificats expressament en aquest Pla i d’acord amb les condicions que es preveuen,
+                són els vehicles dels serveis d’emergència definits en aquest document, així com els vehicles
+                dels membres de l’assistència tècnica encarregada de fer el seguiment i el control d’allaus.
+
+                4.4.3. Gestió de l’aparcament comunal del parc natural del Comapedrosa
+                L’aparcament del Parc natural comunal de les valls del Comapedrosa està ubicat a la zona
+                del parc natural del Comapedrosa d’Arinsal i dona resposta a les necessitats
+                d’estacionament dels veïns de la zona de prats Sobirans i a tots els amants de la muntanya
+
+
+
+
+                                                                                                                     Govern d’Andorra
+                que volen gaudir del seu magnífic entorn.
+
+
+
+
+PLA ESPECÍFIC
+
+
+
+Arinsal
+
+
+
+
+                Pla d’emergència específic – Arinsal                                                      22 de 29
+                No obstant això, durant el període hivernal el risc d’allaus de la zona pot superar els valors
+                admissibles de seguretat i les condicions meteorològiques poden ser puntualment adverses,
+                motiu pel qual s’han d’adoptar una sèrie de mesures i d’accions preventives per garantir la
+                seguretat i el bon ús de l’equipament durant aquests mesos:
+                   -   L’estacionament màxim permès és de 48 hores.
+                   -   No es permet l’estacionament d’autocaravanes.
+                   -   En cas d’avís meteorològic o en funció de les informacions del Servei Meteorològic
+                       Nacional que anunciïn precipitacions en forma de neu, es bloquejarà immediatament
+                       l’entrada de vehicles a l’aparcament. La sortida de vehicles estarà sempre operativa.
+                   -   La capacitat de l’aparcament passarà de 52 places a 25 places, i es prohibirà
+                       l’estacionament de vehicles tan sols a la zona més propera a la travessia de Prats
+                       Sobirans.
+                L’Administració comunal es compromet a fer el seguiment de la informació meteorològica
+                d’interès a través dels canals disponibles (webs oficials, grups de WhatsApp, xarxes
+                socials...) i a aplicar aquestes mesures durant el període hivernal, fixat entre l’1 de
+                novembre i el 15 de maig.
+                D’altra banda, en situacions excepcionals de perill molt alt, també es compromet a adoptar
+                d’altres mesures preventives que poguessin determinar les autoritats competents.
+
+
+
+
+                                                                                                                 Govern d’Andorra
+
+
+
+
+PLA ESPECÍFIC
+
+
+
+Arinsal
+
+
+
+
+                Pla d’emergència específic – Arinsal                                                 23 de 29
+                5. AVISOS
+
+
+
+                                                                  Govern d’Andorra
+
+
+
+
+PLA ESPECÍFIC
+
+
+
+Arinsal
+
+
+
+
+                Pla d’emergència específic – Arinsal   24 de 29
+                5.1. Protocol d’avís (estructura genèrica)
+
+
+
+
+                    Pas 1                                        ASSISTÈNCIA
+                                                                   TÈCNICA
+                   Via trucada
+                    telefònica
+
+
+                                                                     112
+
+
+
+
+                     Pas 2
+                                                                     112
+                   Via trucada
+                    telefònica
+
+
+
+
+                                                                               AFECTATS
+                                                      GRUPS
+                                                                               (habitatges
+                                                   D’ACTUACIÓ
+                                                                               unifamiliars)
+
+
+
+
+                                                                                                          Govern d’Andorra
+
+
+
+
+                     Pas 3                               112                   CENATRA
+                    Via SMS i
+                  xarxes socials
+
+                                                         GRUP
+                                                        INTERN                  POBLACIÓ
+
+PLA ESPECÍFIC
+
+
+
+Arinsal
+
+
+
+
+                 Pla d’emergència específic – Arinsal                                          25 de 29
+                5.2. Característiques de l’avís intern al Grup Allaus - Zona Arinsal
+                Les accions del CNE envers el grup intern d’SMS Allaus - Zona Arinsal quan es produeix un
+                tall a la carretera d’accés als habitatges per risc d’allaus es defineixen a continuació:
+
+
+
+                   SITUACIÓ           CODI                    ESTRUCTURA DE L’SMS – GRUP INTERN
+
+                                                    (Data) (Hora)://AT INFORMA//ZONA ARINSAL///Risc d’allaus feble -
+                    Risc feble           01
+                                                                               Fi del tall
+
+                     Previsió                            (Data) (Hora)://AT INFORMA//ZONA ARINSAL//Previsió de risc
+                                         02
+                      de risc                           d’allaus -Tall de circulació-Confinament preventiu-Tirs preventius
+
+
+                                                    (Data) (Hora)://AT INFORMA//ZONA ARINSAL//Risc d’allaus alt –
+                      Risc alt           03
+                                                         Tall de circulació-Confinament preventiu-Tirs preventius
+
+
+                                                    (Data) (Hora)://AT INFORMA//ZONA ARINSAL//Risc d’allaus molt
+                   Risc molt alt         04
+                                                       alt-Tall de circulació–Evacuació preventiva-Tirs preventius
+
+                                                           (Data) (Hora)://AT INFORMA//ZONA ARINSAL//Allau zona
+                       Allau             05
+                                                                            Arinsal-Tall de circulació
+
+
+
+                En aquest Pla no s’informa la població del risc d’allaus ni de les afectacions al trànsit en ser
+                una zona residencial.
+
+                5.3. Característiques de l’avís a la població
+
+
+
+                                                                                                                                Govern d’Andorra
+                Les accions del Cenatra envers la població, en situació de risc molt alt i per tant afectació
+                a la CG-5, es defineixen a continuació:
+
+                  SITUACIÓ            CODI                      ESTRUCTURA DE L’SMS – POBLACIÓ
+
+                       Tall             06              (Data) (Hora)://MOBILITAT: #Fase Negra #Tall ZONA ARINSAL
+
+
+                    Obertura            07                    (Data) (Hora)://MOBILITAT: #Fi Tall ZONA ARINSAL
+
+
+
+
+                                                         NOTA:
+                  Per tal de mantenir informats els usuaris, tota informació (talls i restabliment de la
+PLA ESPECÍFIC
+                  circulació) es publicarà a les xarxes socials, els panells PIV, la web i els mitjans de
+                                                      comunicació.
+
+Arinsal
+
+
+
+
+                 Pla d’emergència específic – Arinsal                                                                26 de 29
+                6. IMPLANTACIÓ I MANTENIMENT
+
+
+
+                                                                  Govern d’Andorra
+
+
+
+
+PLA ESPECÍFIC
+
+
+
+Arinsal
+
+
+
+
+                Pla d’emergència específic – Arinsal   27 de 29
+                6.1. Implantació del Pla
+                Perquè el Pla sigui realment operatiu, és necessari que tots els actuants previstos tinguin un
+                ple coneixement del mecanisme i les actuacions planificades i assignades en cada fase.
+                Aquesta fase d’assumpció d’actuacions i d’informació s’anomena implantació i està destinada
+                a aconseguir l’operativitat real del Pla.
+
+                Inclou l’organització de sessions formatives als grups d’actuació i l’elaboració de plans
+                d’actuació per part d’aquests grups per determinar el seu procediment intern.
+
+                6.2. Manteniment del Pla: actualitzacions i revisions
+
+                El manteniment del Pla és el conjunt de tasques necessàries per aconseguir que sigui operatiu
+                en tot moment i comença a partir del moment en què s’ha acabat la implantació. Cal dur a
+                terme, de forma periòdica, una sèrie d’activitats:
+
+                 6.2.1. Actualitzacions
+                   Es duran a terme cada any durant la primera quinzena de maig, per qüestions operatives,
+                   i a partir de la segona quinzena d’octubre per actualitzar, entre altres punts, els següents:
+                       -   Llista telefònica
+                       -   Empresa contractada
+                   Les actualitzacions s’efectuaran en col·laboració amb els grups d’actuació implicats i no
+                   requeriran una nova aprovació del Pla.
+
+                 6.2.2. Revisions
+                   Es duran a terme cada dos anys i seran independents de les actualitzacions. Aquestes
+                   anàlisis en profunditat hauran d’incloure el següent:
+
+
+
+
+                                                                                                                   Govern d’Andorra
+                      - Noves anàlisis de risc
+                       -   Estructures noves
+                       -   Altres tipus de modificacions importants
+                   Les revisions es duran a terme en col·laboració amb els grups d’actuació implicats i seran
+                   aprovades pel Ministeri de Justícia i Interior.
+
+
+
+
+PLA ESPECÍFIC
+
+
+
+Arinsal
+
+
+
+
+                 Pla d’emergència específic – Arinsal                                                  28 de 29
+

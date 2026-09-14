@@ -1,0 +1,63 @@
+FORA_DEL_CORPUS
+Font: Andorra Recerca i Innovació.
+URL: https://www.ari.ad/en/news/des-dandorra-recerca-innovacio-presentem-nou
+Consulta: 2026-09-13. Drets reservats; autorització específica absent, no datasets.
+Extracció del text HTML; imatges, mapes i funcionalitats del visor no inclosos.
+
+﻿
+Des d’Andorra Recerca i Innovació presentem el nou geovisor de la cartografia ATES d’Andorra. | Andorra Research + Innovation
+en
+Català
+English
+Areas
+Mountain
+Society
+Sustainability
+Technology
+Innovation Agency
+Projects
+Publications
+Scientific publications
+Monographs
+Journals
+Pop-science
+Newsletters
+International Relations
+Classroom
+Pedagogical resources
+About Us
+Who we are
+Mission, vision and values
+Objectives and activities
+Governance bodies
+Team
+Work with us
+Updates
+News
+Events
+Home
+News
+News
+AR+I presenta el nou geovisor de la cartografia ATES d’Andorra
+Published: 03/01/2024
+El projecte ATES es va iniciar l’any 2015 amb el suport del Ministeri de Turisme i dels diferents comuns. Des de llavors hem seguit treballant amb la incorporació de nous itineraris, i aquest hivern presentem un nou visor amb més funcionalitats i molt més intuïtiu i fàcil d’utilitzar.
+Recordem que la metodologia ATES (Avalanche Terrain Exposure Scale, en anglès escala de classificació del terreny allavós) permet classificar el terreny segons com sigui de procliu a estar afectat per allaus. La classificació es fa tenint en compte diversos paràmetres, com ara el pendent, la vegetació, la forma del vessant o l’ocurrència d’allaus en el passat, entre d’altres, i el resultat és un mapa on el terreny està classificat en els següents tipus: simple, exigent o complex. L’objectiu és que els usuaris tinguin una altra eina, a més del butlletí de perill d’allaus, per poder gestionar el risc d’allaus en les sortides a la muntanya hivernal. En el cas d’Andorra s’han proposat 123 itineraris d’esquí de muntanya i/o raquetes classificats també amb aquesta metodologia.
+Geovisor amb el mapa d'Andorra amb el terreny classifcat ATES i els recorreguts.
+En aquest nou visor, d’entrada es mostra un mapa d’Andorra amb totes les rutes proposades, amb la novetat que es pot fer zoom a la zona d’interès. El mapa de base pot ser topogràfic o bé una imatge satèl·lit. Amb la icona de 3D de la part superior dreta podrem passar fàcilment a una visualització en tres dimensions de la cartografia i les rutes, sense perdre la capacitat de fer zoom.
+Zoom a la zona d'interès.
+D’altra banda, en aquesta nova versió del visor s’incorporen filtres per facilitar la cerca de rutes en funció del tipus de terreny, l’orientació, el desnivell i la zona. D’aquesta manera podem seleccionar, per exemple, rutes en orientacions sud, sud-oest i oest d’entre 500 i 1000 metres de desnivell que estiguin classificades com a màxim en terreny exigent. Això facilita molt l’elecció de la ruta en funció del perill d’allaus del dia i del grup amb qui fem la sortida.
+Filtre per a la recerca de rutes en funció del tipus de terreny, orientació entre altres.
+Us recordem que la cartografia ATES és una eina de PREPARACIÓ d’itineraris i que, per tant, aquest visor està especialment dissenyat per ser utilitzat en ordinadors o tauletes en el moment de preparar la sortida, i no sobre el terreny. Per aquesta raó tampoc és possible fer la descàrrega dels itineraris en gpx ni en cap altre format, ja que aquests son orientatius i s’han de traçar sempre tenint en compte les condicions nivometeorològiques del moment.
+Podeu accedir al nou visor des del web allaus.ad, on s’explica el projecte amb detall i on, a més, podreu accedir a fotografies amb exemples dels diferents tipus de terreny, a l’oferta de cursos de formació de seguretat en muntanya hivernal i a diversos enllaços d’interès.
+A més del visor, també es poden trobar panells informatius amb els mapes i els itineraris a l’entrada de cadascuna de les valls.
+Andorra Recerca + Innovació
+Av Rocafort, 21-23
+Edifici Molí, 3r pis
+AD600 Sant Julià de Lòria
+(+376) 742 630
+Contact
+info@ari.ad
+Transparency ·
+Privacy Policy ·
+Cookies policy ·
+Legal warning

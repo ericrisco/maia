@@ -1,0 +1,1133 @@
+FORA_DEL_CORPUS — evidència textual, no text consolidat
+Font: https://bopadocuments.blob.core.windows.net/bopa-documents/028017/pdf/GD20160311_13_10_55.pdf
+Peça: BOPA 17, 16-03-2016; Decret del 09-03-2016; 19 pàgines
+Consulta: 13-09-2026. Extracció pdftotext -layout; text complet llegit.
+Provinença prèvia: 02-DOCS/raw/sources/bopa-ad.md (workspace).
+Condicions generals BOPA per a informació textual, sense suport implícit.
+PDF i renders no es reutilitzen com a gràfics. Cap dataset exportat.
+
+         Núm. 17                                       16 de març del 2016                                                 1/19
+
+
+
+
+         Reglaments
+
+         Decret d’aprovació del Reglament de classificació i utilització
+         del terreny segons la perillositat d’allaus, i de la cartografia
+         de zonificació reglamentària de la perillositat d’allaus
+         Exposició de motius
+         La situació geogràfica, la climatologia i l’orografia del Principat fan que molts terrenys siguin proclius a l’acu-
+         mulació de neu i al desencadenament d’allaus, fenòmens que històricament han condicionat la seguretat
+         de les persones i els béns.
+         Amb la finalitat de proporcionar una visió global de la recerca, dels estudis i de la normativa desenvolupada
+         per l’Administració andorrana, en fem una ressenya històrica.
+         Des dels anys 80, el Govern ha desenvolupat mapes i normatives relatives a la protecció contra les allaus
+         en el marc de la ocupació, la construcció i l’habitabilitat dels terrenys.
+         L’any 1981, l’Administració va impulsar la localització cartogràfica de les zones d’allaus. El juny de 1989 el
+         Govern va aprovar el Decret sobre el règim jurídic de l’ocupació, la utilització i la construcció de terrenys
+         afectats per allaus. En aquest Decret es van assentar les bases per a la utilització del terreny en funció de la
+         Cartografia de Localització de Probables Allaus (CLPA) i es va preconitzar la necessitat de realitzar i aprovar
+         uns Plans de les Zones Exposades a Allaus (PZEA), que en un futur haurien de “desenvolupar les mesures
+         destinades a prevenir el risc o a reduir-ne les conseqüències i determinar les ocupacions i utilitzacions del
+         sòl compatibles amb l’existència d’aquest risc”.
+         L’any 1999 es disposava de cartografies d’allaus, que cobrien bona part del territori andorrà, realitzades
+         per diverses entitats, a diferents escales, bases topogràfiques i llegendes. L’any 2001 es van recopilar i
+         homogeneïtzar aquestes cartografies amb la creació dels Mapes de Localització d’Allaus. Aquests mapes i
+         una base de dades, que inclou informacions diverses d’episodis allavosos, es van implementar en un sis-
+         tema d’informació geogràfica i es va crear el Cadastre Digital d’Allaus d’Andorra, que recopila la informació
+         d’allaus esdevingudes i fotointerpretades, i que es pot consultar públicament en el web.
+         El cadastre d’allaus, tot i continuar sent una eina molt profitosa que s’ha de mantenir i actualitzar a nivell
+         orientatiu, ha quedat desfasat a causa del ràpid desenvolupament tecnològic de les darreres dècades. El mes
+         d’octubre del 2006 el Govern, conscient d’aquest fet, va engegar un estudi per a realitzar la zonificació del
+         terreny segons la seva perillositat a causa de l’afectació per allaus i, a partir d’aquestes dades, la zonificació
+         reglamentària de la utilització del sòl, que abasta els fons de les valls i els terrenys més probables d’utilització.
+         Finalment, el setembre del 2012, i després del període d’informació pública, el Govern va decretar l’aprovació
+         de l’estudi de la zonificació del terreny del Principat d’Andorra segons la seva perillositat a causa de l’afec-
+         tació per allaus i la cartografia de zonificació de la perillositat, i queda derogat el Decret de juny de 1989.
+         L’exposició de motius del decret expressa la seva pròpia temporalitat: “Mentre el Govern redacta i aprova
+         el reglament que desenvoluparà la normativa que serà aplicable a les zones de perillositat establertes a la
+         cartografia de zonificació de la perillositat, aquest decret regula transitòriament les ocupacions, utilitzacions
+         i construccions dels terrenys susceptibles d’afectació d’allaus”.
+         És a dir, el que es va aprovar el 2012 va ser la primera part de l’estudi pel que fa al coneixement de la peri-
+
+
+
+
+Govern
+         llositat, però encara mancava la reglamentació d’allaus per desenvolupar la zonificació reglamentària, que
+         ha de classificar el sòl en relació amb el perill d’allaus i regular la seva utilització.
+
+
+
+                                                            www.bopa.ad
+                                                                                                         Dipòsit legal: AND.2-2015
+         Núm. 17                                      16 de març del 2016                                                2/19
+
+
+
+
+         Es fa palès, doncs, que les allaus i la protecció consegüent de les persones i els béns preocupen l’Adminis-
+         tració des de fa més de trenta anys.
+         Aquest Reglament es desenvolupa en el marc de la Llei general d’ordenació del territori i urbanisme del
+         29 de desembre de 2000, modificada per la Llei 8/2006 del 21 de juny, per la Llei 6/2011 del 28 de juliol
+         i per la Llei 16/2012 del 31 de juliol, de conformitat amb l’article 10 de la Llei que diu: “A l’efecte d’assolir
+         els objectius de política territorial definits en la present Llei i tots els altres establerts pel Consell General,
+         correspon al Govern redactar […] la reglamentació general urbanística, d’urbanització i de la construcció.”
+         L’article 49 de la Llei general d’ordenació del territori i urbanisme determina que “són zones exposades a
+         riscos naturals totes les qualificades així. per la cartografia d’allaus […] que aprovi i publiqui el Govern previ
+         tràmit d’informació pública corresponent. Aquests estudis poden diferenciar nivells de perillositat del risc”.
+         L’objectiu del Reglament és, doncs, classificar el sòl d’acord amb els nivells de perillositat determinats a la
+         cartografia de zonificació de la perillositat d’allaus, i establir les condicions tècniques i administratives per
+         utilitzar el sòl afectat pel risc d’allaus.
+         Al capítol primer es defineix la terminologia utilitzada en matèria d’allaus i es classifica el territori segons
+         la perillositat corresponent a la cartografia aprovada pel Govern mitjançant el Decret del 26/09/2012 i la
+         conseqüent zonificació reglamentària de perillositat d’allaus, definida al capítol segon, que permet esta-
+         blir els condicionants per utilitzar el sòl afectat per risc d’allaus. Al capítol primer també és destacable la
+         classificació del sòl forestal de defensa d’allaus. Els boscos de defensa són molt rellevants i es defineixen
+         a l’article 6. Sens dubte aquests boscos representen una protecció natural envers els riscos d’allaus, tot i
+         que, poden estar sotmesos a alteracions per tractar-se d’elements naturals.
+         Les condicions administratives i tècniques per a ocupar, parcel·lar, urbanitzar un terreny, o construir-hi
+         s’estableixen al capítol tercer, de conformitat amb l’article 49.2 de la Llei general d’ordenació del territori i
+         urbanisme: “Constitueixen sòl no urbanitzable els terrenys situats en zones afectades per riscos naturals
+         de perillositat alta que el Govern ha de qualificar mitjançant els instruments tècnics escaients. Els restants
+         terrenys constitueixen sòl urbanitzable segons el nivell de perillositat establert pel Govern i les proteccions
+         que, en el seu cas, siguin necessàries”. Com s’ha exposat abans, els boscos de defensa condicionen els
+         terrenys sota la seva protecció, i representen una defensa natural per al risc d’allaus dels terrenys situats a
+         nivells inferiors. En aquest sentit, és raonable preveure una hipotètica afectació o desaparició de la massa
+         arbòria a conseqüència d’incendis, malalties, plagues, etc. Aquests esdeveniments minorarien o anul·larien
+         totalment el grau de protecció dels terrenys subjacents, i fins i tot podrien ser un greuge, perquè aquests
+         terrenys quedarien exposats a un risc amb un grau de perillositat baix, mitjà o alt, que arribat el cas, s’hauria
+         de determinar. És per això que l’Administració ha d’establir els condicionants per protegir la seguretat de
+         les persones i els béns, tant de noves construccions, com de construccions existents.
+         Altrament, cal considerar que en l’actualitat s’aprofita el sòl per a l’habitabilitat i altres usos en moltes zones
+         catalogades amb risc a la cartografia de zonificació d’allaus. Per tant, és raonable considerar aquests edificis
+         o equipaments en un capítol a part, tal com figura al capítol quart, perquè l’aplicació total del Reglament és
+         inviable, a menys que aquestes construccions siguin objecte de modificacions o ampliacions, cas en què
+         cal aplicar íntegrament el Reglament.
+         Respecte a la tramitació de sol·licituds de construcció, parcel·lació, urbanització, canvi d’ús o ocupació,
+         el procediment serà l’habitualment establert a través del Comú de la parròquia on està situat el terreny,
+         segons l’article 136.2 de la Llei general d’ordenació del territori i urbanisme. Al capítol cinquè es pren en
+         consideració aquest article i, endemés, s’estableixen les responsabilitats dels propietaris i dels tècnics que
+         redacten documents en matèria de riscos d’allaus.
+         Atès que tota instal·lació té una durabilitat no indefinida (fatiga, deteriorament dels materials, etc.), i que
+         si es produís una allau les proteccions instal·lades podrien veure’s afectades o invalidades per propers
+         episodis allavosos, el capítol cinquè determina el procediment documental i cronològic de les revisions
+         reglamentàries de les mesures de protecció instal·lades, si és el cas.
+
+
+
+
+Govern
+                                                           www.bopa.ad
+                                                                                                       Dipòsit legal: AND.2-2015
+         Núm. 17                                        16 de març del 2016                                                  3/19
+
+
+
+
+         De conformitat amb l’article 51 de la Llei general d’ordenació del territori i urbanisme, el capítol sisè esta-
+         bleix les condicions d’excepcionalitat per a la utilització dels terrenys localitzats en zones reglamentàries
+         de perillositat alta. També s’inclouen en aquest capítol les excepcions reglamentàries per a les proteccions
+         en terrenys dels dominis esquiables, tenint en compte que els esdeveniments allavosos en aquestes parts
+         del territori són molt observats i vigilats pels concessionaris.
+         Pels motius esmentats, i a proposta del ministre d’Ordenament Territorial, el Govern, en la sessió de data
+         9 de març de 2016, aprova aquest Decret amb el contingut següent:
+
+         Article únic
+         1. S’aproven el Reglament de classificació i utilització del terreny segons la perillositat d’allaus, i la cartografia
+         de zonificació reglamentària de la perillositat d’allaus.
+         2. Els documents que integren la cartografia esmentada es troben al ministeri competent en urbanisme
+         per a consulta pública.
+         Reglament de classificació i utilització del terreny segons la perillositat d’allaus
+
+         Capítol primer. Disposicions generals
+         Article 1. Objecte
+         L’objecte d’aquest Reglament és establir la qualificació del sòl i les prescripcions tècniques i administratives
+         relatives al desenvolupament en matèria de riscos naturals d’acord amb la Llei general d’ordenació del
+         territori i urbanisme, segons la perillositat d’allaus establerta al Decret del 26 de setembre de 2006 que
+         aprova la zonificació del terreny segons la seva perillositat a causa de l’afectació per allaus, i a la cartografia
+         de zonificació reglamentària de la perillositat.
+
+         Article 2. Àmbit d’aplicació
+         1. Amb caràcter general, aquest Reglament és d’aplicació als plans parcials o especials, a qualsevol tipus
+         d’edifici, equipament, instal·lació o urbanització de nova construcció, i a edificis, equipaments o instal·lacions
+         existents que siguin objecte de modificacions, ampliacions, canvis d’ús descrits a l’article 30, i rehabilitacions
+         o reformes que afectin tancaments exteriors, obertures exteriors, coberta, estructura o fonamentació d’edi-
+         ficacions, inclosos els accessos i l’ús del terreny adscrit a l’edificació. Així mateix és d’aplicació en excavacions
+         o qualsevol tipus de modificació de l’estat del terreny actual, encara que no estiguin vinculades a construcció.
+         2. Particularment, el capítol quart és d’aplicació únicament als edificis, els equipaments, les instal·lacions o
+         les urbanitzacions existents que no siguin objecte de modificacions, ampliacions, canvi d’ús, i rehabilitacions
+         o reformes descrites en el paràgraf anterior.
+
+         Article 3. Tipologia de les allaus
+         Reglamentàriament es distingeixen tres tipus d’allau:
+           a) Gran allau és la que, per les característiques topogràfiques de la zona, generalment permet l’acumulació
+           de quantitats significatives de neu en una conca de recepció i amb una diferència de nivell, amb caire
+           general, entre la conca i la zona d’arribada de diversos centenars de metres.
+           b) Allau de vessant és la que no està associada a una conca de recepció i el desnivell entre la part alta i
+           la zona d’arribada és inferior a cent metres.
+           c) Allaus màximes versemblants són les que tenen un període de retorn superior a 100 anys.
+
+         Article 4. Classificació de la perillositat segons el tipus d’allau
+         D’acord amb la cartografia de zonificació de la perillositat d’allaus, s’estableix la següent classificació territorial:
+         1. Grau de perillositat per grans allaus
+           a) A1 perillositat baixa per gran allau
+
+
+
+
+Govern
+           b) A2 perillositat mitjana per gran allau
+           c) A3 perillositat alta per gran allau
+
+
+
+                                                              www.bopa.ad
+                                                                                                           Dipòsit legal: AND.2-2015
+         Núm. 17                                      16 de març del 2016                                                4/19
+
+
+
+
+           d) Corones de precaució de gran allau, d’una amplada mínima de 25 metres
+         2. Grau de perillositat per allaus de vessant
+           a) AV1 perillositat baixa per allau de vessant
+           b) AV2 perillositat mitjana per allau de vessant
+           c) AV3 perillositat alta per allau de vessant
+           d) Corones de precaució d’allau de vessant, d’una amplada mínima de 25 metres
+         3. Grau de perillositat per allaus versemblants
+           a) Perillositat màxima versemblant: AMV
+         4. Perillositat sense determinar, fora de l’abast que s’ha analitzat per confeccionar la cartografia de perillo-
+         sitat per allaus, a classificar segons els graus de perillositat dels apartats anteriors.
+
+         Article 5. Classificació de la perillositat en funció de la pressió dinàmica de l’allau
+         Els criteris per qualificar les diferents zones de perillositat d’una allau s’estableixen segons els intervals
+         següents de la pressió dinàmica exercida:
+           a) Zona de perillositat alta és aquella en què les pressions exercides per una allau són de 30 kPa o més
+           b) Zona de perillositat mitjana és aquella en què les pressions estan compreses entre 1 i 30 kPa
+           c) Zona de perillositat baixa és aquella en què les pressions són superiors a 0 KPa i iguals o inferiors a 1 kPa
+           d) Zona sense perillositat detectada és aquella que no està exposada a risc d’allau previsible.
+
+         Article 6. Classificació del sòl forestal de defensa d’allaus
+         Es defineixen com a boscos de defensa aquells boscos naturals i madurs que per la seva localització exer-
+         ceixen una funció de protecció envers el risc d’allaus.
+
+         Capítol segon. Zonificació i cartografia reglamentàries, revisió i modificació
+         Article 7. Zonificació reglamentària de perillositat d’allaus
+         1. La zonificació reglamentària de perillositat d’allaus estableix les condicions tècniques i administratives per
+         a la utilització del sòl afectat per risc d’allaus. Desenvolupa la zonificació aprovada pel Govern mitjançant
+         el Decret del 26/09/2012.
+         2. Segons la perillositat, i d’acord amb la cartografia reglamentària de perillositat d’allaus, s’estableix la
+         zonificació següent:
+           a) R1 zona reglamentària de perillositat alta
+           b) R2B zona reglamentària de perillositat condicionada mitjana per gran allau
+           c) R2 zona reglamentària de perillositat mitjana per gran allau
+           d) R3 zona reglamentària de perillositat baixa per gran allau i/o corona de precaució associades a gran allau
+           e) R4 zona reglamentària de perillositat mitjana per allau de vessant
+           f) R5 zona de perillositat baixa per allau de vessant i/o corona de precaució associada a allau de vessant
+           g) R6 zona reglamentària de perillositat màxima versemblant
+           h) R7 zona reglamentària de bosc de defensa
+         3. Els terrenys de perillositat sense determinar, es catalogaran segons la zonificació de l’apartat anterior,
+         en funció dels articles 3, 4 i 5 del capítol primer, atenent els resultats dels estudis tècnics específics d’allaus
+         promoguts per particulars o entitats públiques.
+         4. La zonificació reglamentària de perillositat d’allaus i els condicionants per a la utilització del terreny,
+         desenvolupats als capítols tercer i quart, es resumeixen al quadre de l’annex VI.
+
+         Article 8. Revisió de la cartografia de la zonificació reglamentària de perillositat d’allaus
+         El Govern pot revisar la cartografia de zonificació reglamentària de perillositat d’allaus, i fins i tot pot modi-
+
+
+
+Govern
+         ficar el grau de perillositat de terrenys, pels motius següents:
+
+
+
+
+                                                           www.bopa.ad
+                                                                                                       Dipòsit legal: AND.2-2015
+         Núm. 17                                        16 de març del 2016                                                 5/19
+
+
+
+
+           a) Detecció de noves allaus no incloses a la cartografia de zonificació de la perillositat en vigor
+           b) Canvi climàtic associat a noves sèries nivo-meteorològiques
+           c) Evolució dels boscos de defensa
+           d) Desenvolupaments científics i tecnològics dels models de càlcul d’allaus
+           e) Evolució de la tecnologia en l’àmbit de les proteccions d’allaus
+           f) Ampliació de l’abast de la zona estudiada
+           g) Altres motius que responguin a l’interès general, i que comptin amb una justificació tècnica contrastada
+           i solvent, que haurà de ser acreditada documentalment mitjançant els estudis tècnics que corresponguin
+
+         Article 9. Procediment de revisió
+         El procediment de revisió de la cartografia de la zonificació reglamentària de perillositat d’allaus és el següent:
+         1. El Govern, mitjançant els instruments tècnics escaients, revisa l’estudi de perillositat d’allaus.
+         2. Una vegada obtinguda la cartografia resultant del nou estudi, i prèviament a la seva aprovació, el Govern
+         ha de sotmetre la revisió de l’estudi i de la cartografia a informació pública durant un període mínim de
+         20 dies. El procediment d’informació pública no és necessari en el cas que el nou estudi abasti un àmbit
+         reduït, com ara la detecció d’una nova allau o l’afectació d’un bosc de defensa, i sempre que l’extensió de
+         les zones qualificades de perillositat alta o l’afectació del bosc de defensa no augmentin respecte a l’estudi
+         i la cartografia d’allaus vigents.
+         3. El Govern ha de resoldre les al·legacions que es puguin haver presentat.
+         4. El Govern aprova la revisió de la zonificació reglamentària de perillositat d’allaus i procedeix a la publicació
+         al Butlletí Oficial del Principat d’Andorra.
+         5. Els comuns han d’adaptar el POUP a la revisió aprovada.
+
+         Article 10. Modificació de la cartografia de la zonificació reglamentària de perillositat d’allaus
+         1. Els propietaris de terrenys poden sol·licitar al ministeri competent en matèria d’urbanisme modificacions
+         d’abast reduït de la cartografia de zonificació reglamentària de perillositat d’allaus.
+         2. Les sol·licituds han d’anar acompanyades d’un estudi tècnic de detall específic d’allaus que justifiqui la
+         modificació sol·licitada.
+         3. L’estudi tècnic ha de ser redactat per un tècnic autoritzat i competent en la matèria, que compti amb
+         experiència contrastada en aquests tipus d’estudis.
+         4. El nivell d’aprofundiment i rigor tècnics, la metodologia utilitzada, i la versemblança científica de les dades
+         de partida, han de ser com a mínim equiparables, i si pot ser superiors, als que corresponen als estudis que
+         han servit de base per elaborar la cartografia de zonificació reglamentària de perillositat d’allaus aprovada
+         pel Govern.
+
+         Article 11. Procediment de modificació
+         El procediment de modificació de la cartografia de zonificació reglamentària de perillositat d’allaus és el
+         següent:
+         1. El ministeri competent en matèria d’urbanisme, que pot comptar, si escau, amb els assessoraments
+         tècnics que cregui adequats, analitza la sol·licitud i la resol en el sentit que consideri més adient, tenint en
+         compte els resultats tècnics, la confiança i la solvència d’aquests, i els criteris de precaució.
+         2. Si l’estudi tècnic de detall mereix l’aprovació del Govern, el ministeri competent en matèria d’urbanisme
+         incorpora les modificacions a la cartografia de perillositat d’allaus i a la cartografia de zonificació reglamentària.
+         3. El Govern, si escau, aprova la revisió de la zonificació reglamentària de perillositat d’allaus i procedeix a
+         publicar-la al Butlletí Oficial del Principat d’Andorra.
+         4. Els comuns han d’adaptar el POUP a la revisió aprovada.
+
+
+
+Govern
+                                                             www.bopa.ad
+                                                                                                          Dipòsit legal: AND.2-2015
+         Núm. 17                                        16 de març del 2016                                                 6/19
+
+
+
+
+         Capítol tercer. Prescripcions tècniques i administratives per a la utilització del sòl
+         Secció primera. Mesures de protecció i risc residual
+         Article 12. Mesures de protecció
+         1. Als efectes d’aquest reglament, únicament es consideren les mesures de protecció permanents, tals
+         com dics, rastells, xarxes, o altres, que estiguin fabricats o concebuts específicament per protecció d’allaus.
+         Així mateix, en el cas de bastir un o varis edificis es poden adoptar mesures de protecció actuant sobre el
+         mateix edifici amb reforços estructurals.
+         2. Les mesures de protecció temporal que puguin existir a la zona, no s’han de tenir en compte com a
+         protecció del terreny que es vol utilitzar, a excepció dels terrenys reglamentats a l’article 35.
+         3. En zones qualificades de perillositat baixa, a criteri del tècnic redactor de l’estudi o la nota d’allaus, es po-
+         den adoptar mesures de protecció estructurals i constructives sense aplicació d’altres proteccions externes.
+         4. Depenent de la zona reglamentària en què estigui situat un terreny, pot ser necessària l’aplicació de
+         mesures constructives permanents de protecció activa, passiva o combinades.
+           a) S’entén per mesura de protecció activa la que és capaç d’evitar el desencadenament de l’allau, o bé
+           minimitzar-ne els efectes variant la seva trajectòria.
+           b) Són mesures de protecció passiva les que actuen sobre la zona de flux i, una vegada desencadenada
+           l’allau, són capaces d’aturar-la abans de que arribi a la zona que es vol protegir.
+         5. El fabricant dels elements utilitzats com a mesures de protecció externes als edificis, com ara xarxes,
+         rastells, etc., ha de lliurar a la direcció d’obra el certificat CE dels materials subministrats. En finalitzar l’obra
+         d’instal·lació de les proteccions externes a les edificacions, la direcció d’obra ha de demanar el certificat de
+         correcta instal·lació expedit pel subministrador del material.
+         6. La implantació de proteccions en un terreny en cap cas no pot produir un nou risc o augmentar l’existent
+         en altres terrenys susceptibles de veure’s afectats.
+         7. El sol·licitant d’una autorització de pla parcial, de llicència d’urbanització, de construcció o d’edificació, ha
+         d’acreditar a la sol·licitud que disposa del terreny, propi o aliè amb dret d’ús, per a la construcció i mante-
+         niment posterior de les proteccions. Aquest requeriment també és condició sine qua non per a l’aprovació
+         de plans especials.
+         8. En el cas de construcció d’una edificació, el llibre de l’edifici ha d’incloure, entre altra documentació, el
+         projecte de les mesures de protecció, les successives revisions periòdiques i les operacions de manteni-
+         ment efectuades.
+
+         Article 13. Risc residual màxim assumible
+         1. El risc residual s’ha de calcular com la probabilitat de pèrdua de vides humanes a l’any.
+         2. En els casos en què sigui preceptiu un estudi tècnic específic d’allaus, a partir dels resultats de la mode-
+         lització, i atenent la probabilitat de presència de persones en les àrees afectades pels possibles esdeve-
+         niments de risc, l’esmentat estudi tècnic ha d’avaluar la probabilitat de pèrdua de vides humanes a causa
+         del risc d’allaus.
+         3. L’avaluació de la probabilitat de pèrdua de vides humanes ha de tenir en compte tant l’efecte directe
+         que pot ocasionar un esdeveniment de risc, com també l’efecte indirecte que l’esdeveniment pot provocar.
+         4. En funció de l’ús que es fa del terreny, el risc residual màxim assumible pot ser tolerable o acceptable,
+         definits com a:
+           a) Risc tolerable: La probabilitat de pèrdua de vides humanes/any és, com a màxim, de 10^-5. El risc
+           tolerable és aplicable als usos següents: de magatzem, d’estacionament, d’aparcament, de tallers de
+           reparació de vehicles, d’estacions de servei, industrial, rurals.
+
+
+
+Govern
+                                                             www.bopa.ad
+                                                                                                          Dipòsit legal: AND.2-2015
+         Núm. 17                                       16 de març del 2016                                                 7/19
+
+
+
+
+           b) Risc acceptable: La probabilitat de pèrdua de vides humanes/any és, com a màxim, de 10^-6. El risc
+           acceptable és aplicable a la resta d’usos no mencionats al subapartat anterior.
+
+         Secció segona. Utilització del sòl segons la zonificació reglamentària de
+         perillositat d’allaus.
+         Article 14. Zones reglamentàries de perillositat alta R1
+         Els terrenys situats a les zones R1 es classifiquen com a sòl no urbanitzable i no s’hi pot autoritzar cap
+         llicència urbanística, ni el desenvolupament de cap ús, llevat de les actuacions especificades a l’article 34
+         d’excepcions, en aplicació de la Llei general d’ordenació del territori i urbanisme.
+
+         Article 15. Zones reglamentàries de perillositat mitjana R2
+         1. Les zones classificades com a R2 poden ser urbanitzables amb grans restriccions.
+         2. A l’expedient de la sol·licitud d’un pla parcial i per l’aprovació d’un pla especial, en una zona afectada
+         classificada com a R2, és obligatori incorporar un estudi tècnic específic d’allaus, amb el contingut mínim
+         que figura a l’annex I, que ha d’estar redactat i signat per un tècnic competent i autoritzat.
+         3. A l’expedient de la sol·licitud de llicència de construcció de les proteccions, prèvia o simultània a la llicència
+         per a la resta d’obres i usos especificats al punt 1 de l’article 2, en les zones R2 s’ha d’incorporar:
+           a) L’estudi tècnic esmentat al punt 2 d’aquest article.
+           b) El projecte de les proteccions d’allaus que s’han d’implantar, d’acord amb l’estudi tècnic, que ha d’in-
+           cloure, com a mínim, els requisits estipulats a l’annex II.
+           c) La proposta de contracte preliminar de revisió de les mesures de protecció definides al projecte, d’acord
+           amb els articles 28 i 33 d’aquest Reglament.
+         4. Preferentment, les mesures de protecció permanent en zona de perillositat R2 seran passives i actives
+         combinades, i s’han de calcular aplicant un factor de seguretat mínim de dos (FS ≥ 2). Es podran adoptar
+         solucions no combinades, sempre que al càlcul de la solució adoptada s’hi apliqui un coeficient de seguretat
+         mínim de tres (FS ≥ 3).
+         5. En tot cas, les solucions adoptades han d’assegurar el risc residual expressat en termes de probabilitat
+         de pèrdua de vides humanes establert a l’article 13.
+         6. En zona reglamentària R2 no s’han de projectar proteccions integrades als mateixos edificis que no in-
+         cloguin altres proteccions complementàries externes, si prèviament no han estat justificades i acreditades
+         tècnicament i documentalment.
+
+         Article 16. Zones reglamentàries de perillositat condicionada mitjana R2B
+         1. Les zones classificades com a R2B compten amb dents de frenada existents com a mesures de protecció.
+         En l’àmbit d’aplicació d’aquest Reglament, els terrenys situats en zona R2B podran ser utilitzats amb grans
+         restriccions, sempre que, prèviament a les sol·licituds per obtenir l’autorització de pla parcial o l’aprovació
+         de pla especial, o la llicència de construcció, compleixin tots els requisits següents:
+         1.1. Que es dugui a terme un estudi tècnic de detall específic d’allaus, amb rigor i aprofundiment i que, a
+         més del contingut relacionat a l’annex I, compleixi les condicions següents:
+           a) Emprar un model fisicomatemàtic i el corresponent programari informàtic que permetin analitzar de
+           forma fidedigna l’efecte que les dents de frenada existents i/o també un futur sistema complementari de
+           protecció, aquest darrer a definir, provocarien sobre el fenomen físic de l’allau que afecta els terrenys.
+           b) Concloure que l’allau adoptada com a allau de referència per l’estudi de zonificació del terreny al Prin-
+           cipat d’Andorra aprovat pel Govern provocaria una pressió inferior a trenta kilopascals (30 kPa) sobre
+           els terrenys afectats per perillositat condicionada mitjana que pretesament es volen utilitzar en l’àmbit
+           d’aplicació d’aquest Reglament.
+
+
+
+
+Govern
+                                                            www.bopa.ad
+                                                                                                         Dipòsit legal: AND.2-2015
+         Núm. 17                                       16 de març del 2016                                                 8/19
+
+
+
+
+           c) Definir la tipologia, les dimensions i les característiques del sistema complementari de protecció es-
+           mentat, si escau, que cal definir per aconseguir la disminució de pressió especificada a l’apartat b). Aquest
+           estudi ha de ser promogut i assumit econòmicament pels propietaris del terreny afectat.
+         1.2. Que l’estudi tècnic de detall mereixi l’aprovació del Govern en els termes de l’article 38.3 de la Llei
+         general d’ordenació del territori i urbanisme.
+         1.3. Que, en aplicació de l’article 108.c de la Llei general d’ordenació del territori i urbanisme i de l’article
+         108.1 del Reglament urbanístic, els propietaris dels terrenys afectats per perillositat condicionada mitjana
+         es comprometin expressament a:
+           a) Construir al seu càrrec el sistema de protecció complementari, si escau, a les dents de frenada existents.
+           b) Edificar els terrenys afectats per perillositat mitjana condicionada disposant que la façana exposada a
+           l’allau sigui cega, sense obertures de cap mena, i que resisteixi una pressió uniforme de trenta kilopas-
+           cals (30 kPa).
+         1.4. Existeixi un compromís de neteja de la neu en la zona amunt de les dents de fre, per garantir la seva
+         eficàcia.
+         2. Un cop assolits els requisits referits, el Comú ha de notificar oportunament al Govern l’assoliment del
+         requisit de l’apartat 1.3, prèviament o conjuntament a les sol·licituds de pla parcial, d’aprovació de pla es-
+         pecial, o de llicència en l’àmbit d’aplicació d’aquest Reglament.
+         3. Seran d’aplicació els requeriments tècnics i administratius que es descriuen a l’article 15 i que no entren
+         en contradicció amb els requeriments específics d’aquest article.
+         4. Les llicències o autoritzacions sol·licitades, en el cas de ser atorgades, es resoldran provisionalment i
+         condicionades a la materialització efectiva de la construcció del sistema de protecció complementari a les
+         dents de frenada. Una vegada efectuada la construcció de les proteccions, els terrenys seran classificats
+         com a zona reglamentària de perillositat mitjana. A aquest efecte es publicarà al Butlletí Oficial del Principat
+         d’Andorra, i el Comú de la parròquia corresponent haurà de procedir a l’adaptació del POUP.
+         5. Mentre no s’arribi a assolir tots els requisits, fins i tot la materialització de la construcció de les defenses
+         complementàries, els terrenys situats en zona reglamentària R2B es classifiquen com a sòl no urbanitzable
+         i s’hi apliquen els condicionants expressats a l’article 14 d’aquest Reglament.
+
+         Article 17
+         Zones reglamentàries de perillositat baixa R3
+         1. Les zones classificades com a R3 poden ser urbanitzables amb restriccions menors.
+         2. A l’expedient de la sol·licitud d’un pla parcial o d’aprovació d’un pla especial, en una zona classificada
+         com a R3 és obligatori incorporar un estudi tècnic específic d’allaus, amb el contingut mínim que figura a
+         l’annex I, redactat i signat per un tècnic competent i autoritzat.
+         3. A l’expedient de la sol·licitud de llicència de construcció de les proteccions, prèvia o simultània a la llicència
+         per a la resta de casuístiques especificades al punt 1 de l’article 2, en zones R3 s’ha d’incorporar:
+           a) L’estudi tècnic esmentat al punt 2 d’aquest article
+           b) El projecte de les proteccions d’allaus que s’han d’implantar, d’acord amb l’estudi tècnic, que haurà
+           d’incloure, com a mínim, els requisits estipulats a l’annex II
+           c) La proposta de contracte preliminar de revisió de les mesures de protecció definides al projecte, d’acord
+           amb els articles 28 i 33 d’aquest Reglament.
+         4. Les mesures de protecció en zona de perillositat R3 poden ser passives permanents i/o proteccions in-
+         tegrades als mateixos edificis, i han d’assegurar un risc residual màxim expressat en termes de probabilitat
+         de pèrdua de vides humanes de l’article 13. Les solucions adoptades han d’assumir un factor de seguretat
+         mínim de dos (FS ≥ 2).
+
+
+
+
+Govern
+                                                            www.bopa.ad
+                                                                                                         Dipòsit legal: AND.2-2015
+         Núm. 17                                       16 de març del 2016                                                 9/19
+
+
+
+
+         Article 18. Zones reglamentàries de perillositat mitjana R4
+         1. Les zones classificades com a R4 poden ser urbanitzables amb restriccions importants.
+         2. A l’expedient de la sol·licitud d’un pla parcial o per a l’aprovació d’un pla especial en zona classificada R4,
+         és obligatori incorporar un estudi tècnic específic d’allaus, segons figura a l’annex I, redactat i signat per
+         un tècnic competent i autoritzat.
+         3. A l’expedient de la sol·licitud de llicència de construcció de les proteccions, prèvia o simultània a la llicència
+         per a la resta d’obres i usos especificats al punt 1 de l’article 2, a les zona R4 s’ha d’incorporar:
+           a) L’estudi tècnic esmentat al punt 2 d’aquest article
+           b) El projecte de les proteccions d’allaus que s’han implantar d’acord amb l’estudi, que haurà d’incloure,
+           com a mínim, els requisits estipulats a l’annex II.
+           c) La proposta de contracte preliminar de revisió de les mesures de protecció definides al projecte, d’acord
+           amb els articles 28 i 33 d’aquest reglament.
+         4. Les mesures de protecció en zona de perillositat R4 seran passives permanents, si bé és aconsellable
+         valorar la combinació amb mesures actives. Les proteccions en zona R4 han d’assegurar un risc residual
+         màxim expressat en termes de probabilitat de pèrdua de vides humanes de l’article 13. Les solucions
+         adoptades han d’assegurar un factor de seguretat mínim de dos (FS ≥ 2).
+         5. En zona reglamentària R4 no s’han de projectar proteccions integrades als mateixos edificis que no in-
+         cloguin altres proteccions complementàries externes, si prèviament no han estat justificades i acreditades
+         tècnicament i documentalment.
+
+         Article 19. Zones reglamentàries de perillositat baixa R5
+         1. Les zones classificades com a R5 poden ser urbanitzables amb restriccions menors.
+         2. A l’expedient de la sol·licitud d’un pla parcial o per a l’aprovació d’un pla especial, en zona classificada
+         com a R5, s’ha d’incorporar una nota tècnica específica d’allaus amb el contingut mínim que es relaciona
+         a l’annex III, redactada i signada per un tècnic competent i autoritzat, que indiqui si són necessàries o no
+         proteccions per a l’ús del terreny, per assegurar un risc residual màxim expressat en termes de probabilitat
+         de pèrdua de vides humanes de l’article 13.
+         3. En el cas de necessitar proteccions, la nota tècnica ha de definir el tipus i la magnitud de les proteccions
+         per aconseguir el risc residual màxim de l’article 13. Les solucions adoptades han d’assumir un factor de
+         seguretat mínim d’un i mig (FS ≥ 1,5).
+         4. No és preceptiva la presentació d’un estudi tècnic segons l’annex I, a menys que el tècnic ho consideri
+         necessari sota el seu criteri professional a la vista de les observacions sobre el terreny. En aquest cas, s’ha
+         de seguir el procediment descrit a l’article 17 per a les zones reglamentàries de perillositat baixa R3.
+         5. A l’expedient de la sol·licitud de llicència de construcció de les proteccions, prèvia o simultània a la llicència
+         per a la resta d’obres i usos especificats al punt 1 de l’article 2, en una zona afectada classificada com a R5
+         s’ha d’adjuntar la nota tècnica esmentada. En el cas que el resultat de la nota tècnica determini la necessitat
+         d’implantar mesures de protecció, és preceptiva la presentació de:
+           a) El projecte constructiu de les proteccions d’acord amb la nota o l’estudi esmentats. Aquest document
+           ha d’incloure, com a mínim, els requisits estipulats a l’annex II
+           b) La proposta de contracte preliminar de revisió de les mesures de protecció definides al projecte, d’acord
+           amb els articles 28 i 33 d’aquest Reglament.
+
+         Article 20. Zones reglamentàries de perillositat màxima versemblant R6
+         A les zones R6 s’apliquen els mateixos criteris exposats a l’article 17, excepte aquelles que no estiguin
+         associades a grans allaus, a les quals s’han d’aplicar els criteris estipulats a l’article 19.
+
+
+
+
+Govern
+                                                            www.bopa.ad
+                                                                                                         Dipòsit legal: AND.2-2015
+         Núm. 17                                       16 de març del 2016                                               10/19
+
+
+
+
+         Article 21. Zones reglamentàries de bosc de defensa R7 i terrenys localitzats sota la protecció de bosc de
+         defensa
+         1. Les zones classificades com a R7 estan localitzades en boscos de defensa.
+         2. El titular d’una sol·licitud en l’àmbit d’aplicació d’aquest Reglament, en terrenys situats en zona R7 i en
+         terrenys situats sota la protecció de bosc de defensa, pot optar per una de les dues alternatives següents:
+           a) No considerar l’existència del bosc de defensa.
+           b) Encomanar un informe tècnic de bosc de defensa, redactat i signat per un tècnic competent i autorit-
+           zat, segons figura a l’annex IV, complementat amb una nota tècnica, redactada i signada per un tècnic en
+           matèria de riscos naturals, segons l’annex III. Els documents tècnics esmentats han de determinar si la
+           protecció del bosc de defensa és suficient per assolir un risc residual assumible, segons l’article 13, com-
+           patible amb l’habitabilitat o l’ús del terreny sense proteccions artificials.
+         3. Tant si el sol·licitant opta per l’alternativa a com si el resultat de la nota tècnica de l’opció b és desfavora-
+         ble, és a dir, que el bosc existent no és suficient per compatibilitzar el risc residual amb l’habitabilitat o l’ús
+         del terreny, el sol·licitant ha d’encomanar un estudi tècnic específic d’allaus, segons l’annex I, que no tingui
+         en compte l’existència del bosc com a mesura de protecció i que catalogui el terreny segons la zonificació
+         reglamentària establerta al capítol segon, en funció dels articles 3, 4 i 5 del capítol primer.
+         Els requeriments tècnics per obtenir l’atorgament de la llicència o l’autorització sol·licitada són els que es
+         determinen a l’articulat del present capítol per a les zones en què l’estudi tècnic classifiqui el terreny estudiat.
+         4. En el cas que el sol·licitant opti per l’opció b i el resultat de la nota tècnica favorable, és a dir, que l’exis-
+         tència del bosc de defensa actual és suficient, a criteri del tècnic redactor, per compatibilitzar el risc residual
+         amb l’habitabilitat o l’ús que es dóna al terreny, cal tenir en compte l’augment del risc d’allaus si es produeix
+         la desaparició o l’afectació parcials o integrals del bosc de defensa. A aquest efecte, la nota tècnica ha de
+         preveure l’espai necessari per construir les proteccions futures escaients, que s’haurien d’instal·lar en cas
+         d’afectació o desaparició del bosc de defensa. El sol·licitant ha d’acreditar a la sol·licitud que disposa del
+         terreny, propi o aliè amb dret d’ús, per a la construcció d’aquestes futures proteccions.
+         5. En el cas exposat al punt anterior, per a atorgar l’autorització o la llicència en l’àmbit d’aplicació d’aquest
+         Reglament és condició imprescindible que el sol·licitant signi i dipositi al Comú un document declaratiu i
+         de compromís, assumint les obligacions establertes a l’annex V. En aquest cas, en el curs de la tramitació
+         de la sol·licitud, es procedeix segons el que disposa el punt 4 de l’article 31
+         6. Una vegada obtinguda la llicència d’ocupació amb el supòsit de l’alternativa b, i en el cas que es produeixi
+         un esdeveniment real d’afectació del bosc de defensa, el terreny i els seus ocupants estaran sotmesos a
+         un risc natural de magnitud de perillositat desconeguda.
+         En aquest supòsit, i en virtut de l’article 129.3 de la Llei general d’ordenació del territori i urbanisme, el
+         cònsol major de la parròquia pot ordenar el desallotjament del terreny afectat, per un període indefinit.
+         En els termes de l’article 49 de la Llei general d’ordenació del territori i urbanisme, l’Administració general
+         ha d’avaluar el grau de perillositat mitjançant els estudis específics oportuns, per determinar la classificació
+         reglamentària del terreny afectat per la desaparició o afectació del bosc.
+         En el cas que dels estudis específics en resultés un grau de perillositat alta o la inviabilitat de protecció del
+         terreny, s’ha de procedir segons el que preveu la Llei general d’ordenació del territori i urbanisme sobre la
+         declaració d’estat de ruïna a l’article 129.1, apartats a i c. En cas contrari, és a dir, si dels estudis específics
+         en resulta un grau de perillositat compatible amb l’ús del terreny i es determina la viabilitat tècnica i jurídica
+         per implantar mesures de protecció, el projecte i la construcció de les mesures de protecció són a càrrec
+         exclusiu del propietari del terreny, així com les revisions i el manteniment reglamentaris de les proteccions
+         una vegada implantades.
+         L’ocupació del terreny afectat resta supeditada a la finalització de les proteccions i a l’emissió i signatura
+         del certificat final per part de la direcció facultativa de les obres de protecció.
+
+
+
+Govern
+                                                            www.bopa.ad
+                                                                                                         Dipòsit legal: AND.2-2015
+         Núm. 17                                      16 de març del 2016                                             11/19
+
+
+
+
+         Article 22. Zones no incloses a la cartografia de zonificació reglamentària
+         1. Per a obtenir una llicència en l’àmbit d’aplicació d’aquest Reglament, en un terreny de perillositat sense
+         determinar, és preceptiu un estudi tècnic de detall específic d’allaus, segons l’annex I, que catalogui el terreny
+         segons la zonificació exposada a l’article 7, en funció dels articles 3, 4 i 5 del capítol primer.
+         2. Els requeriments tècnics i administratius són els que corresponen a les zones en què l’estudi tècnic
+         classifiqui el terreny en funció de les pressions dinàmiques d’arribada de l’allau.
+
+         Article 23. Limitacions de construcció d’edificis en zones reglamentàries de perillositat mitjana, condicionada
+         mitjana, o en zones de bosc de defensa i terrenys localitzats sota la seva protecció, i en els casos excepcionals
+         A les zones reglamentàries R2, R2B, R4 o R7 i en els casos excepcionals descrits al capítol sisè, s’estableixen
+         les limitacions següents:
+         1. No es poden construir edificis essencials de nova planta destinats a hospitals, escoles, guarderies, resi-
+         dències geriàtriques, i en general cap establiment públic ocupat per persones de difícil evacuació, ni tampoc
+         es poden bastir altres edificis essencials destinats a la seguretat ciutadana, com els de Policia, Bombers,
+         Protecció Civil, etc.
+         2. Per a la resta d’edificis de nova planta s’han d’adoptar les limitacions i els requisits següents:
+           a) Tots els edificis d’allotjament de persones i/o de concurrència pública, han d’incloure zones de confi-
+           nament protegides amb condicions de seguretat al costat oposat a l’arribada de la possible allau.
+           b) Els establiments de concurrència pública que no siguin d’allotjament de persones han de portar a
+           terme la seva activitat durant les hores diürnes.
+           c) Les teulades, les xemeneies, els voladissos i altres elements sobresortints s’han de dissenyar ancorats
+           i reforçats per suportar les pressions de càlcul.
+           d) Les façanes dels edificis exposades cap a la zona d’arribada de l’allau s’han de construir sense obertu-
+           res i amb estructura correguda suficientment reforçada per suportar les pressions de càlcul de l’estudi
+           tècnic específic d’allaus.
+         e) El projecte constructiu dels edificis ha d’incloure com a annex el Pla de confinament i evacuació, redac-
+         tat per un tècnic autoritzat i competent en la matèria. Aquest Pla s’ha de sotmetre al ministeri titular de
+         protecció civil, el qual pot introduir les modificacions que consideri adients abans d’aprovar-lo. Els usuaris
+         habituals tenen l’obligació d’adherir-se al Pla de confinament i evacuació aprovat, i d’adoptar les mesures
+         que el Pla estableixi.
+
+         Article 24. Terrenys afectats per diferents graus de perillositat
+         1. Quan un terreny estigui situat en diverses zones reglamentàries de perillositat d’allau, s’ha de considerar
+         la zona o les zones més restrictives en quant a requeriments administratius.
+         2. No obstant això, es poden adoptar diferents mesures de protecció per a cadascuna de les zones reglamen-
+         tàries en què estigui repartit el terreny, sempre que compleixin els mínims requerits en aquest Reglament.
+         Els requeriments tècnics són, com a mínim, els corresponents a cada zona reglamentària.
+
+         Secció tercera. Execució i finalització de les obres i manteniment de les mesures
+         de protecció
+         Article 25. Execució de les obres d’urbanització i edificació
+         1. Les obres específiques de les proteccions no integrades a l’estructura dels edificis s’han d’executar pre-
+         feriblement abans de les obres d’urbanització i edificació. A criteri de la direcció de les obres de protecció,
+         i aplicant els criteris de precaució adients, les mesures de protecció es poden executar simultàniament
+         a la resta d’obres d’urbanització i edificació. Les obres de protecció han de ser finalitzades abans que la
+         urbanització i els edificis entrin en servei.
+         2. Les proteccions s’han de construir seguint escrupolosament les prescripcions del projecte i les ordres
+         de la direcció facultativa.
+
+
+
+Govern
+                                                           www.bopa.ad
+                                                                                                      Dipòsit legal: AND.2-2015
+         Núm. 17                                      16 de març del 2016                                              12/19
+
+
+
+
+         3. La llicència d’ocupació del terreny, en el marc d’aquest Reglament, resta supeditada a la finalització de
+         totes les proteccions.
+
+         Article 26. Execució per fases de les obres d’urbanització i edificació
+         1. Com a norma general, l’execució per fases d’obres d’urbanització o de construcció en el marc d’un pla
+         parcial o d’un pla especial implica la implantació integral de les mesures de protecció actives i/o passives
+         no integrades als edificis.
+         2. No obstant això, en casos molt especials suficientment justificats, es pot autoritzar l’execució per fases
+         si les mesures de protecció que s’han d’instal·lar per protegir la/les parcel·la/es a construir en cada fase no
+         empitjoren la situació de risc de les altres parcel·les.
+         3. En el cas que s’autoritzi l’execució per fases, és preceptiu redactar un estudi tècnic específic d’allaus que
+         analitzi el risc en cada fase constructiva, i asseguri que la construcció parcial de les defenses és suficient
+         per protegir, com a mínim, cada fase intermèdia de la urbanització, tant els vials d’accés com les parcel·les,
+         i que les mesures de protecció a implantar en cada fase no condicionen les futures construccions de la
+         resta de parcel·les.
+
+         Article 27. Finalització de les obres
+         1. Una vegada executada l’obra i/o les proteccions, la direcció facultativa emet i signa el certificat final d’obra
+         d’execució de les proteccions conforme al projecte autoritzat. Al certificat final d’obra s’hi ha d’adjuntar:
+           a) El contracte final de revisió de les proteccions signat per la propietat i per un tècnic competent i au-
+           toritzat, amb indicació de la durada i la previsió de renovació del contracte, en funció de la periodicitat
+           establerta a l’article 28.
+           b) El certificat dels materials emprats per a les proteccions (xarxes, rastells, tancaments, vidres, …) i el cer-
+           tificat de la correcta execució de les obres de protecció externes, expedits pel fabricant.
+         2. En el cas de la renúncia del tècnic o la rescissió del contracte per part de la propietat del terreny, aquesta
+         part ha de contractar les tasques de revisió d’un altre tècnic competent i autoritzat abans de sis mesos.
+         3. Tant el contracte inicial com els successius s’han d’assentar degudament al Llibre de l’edifici.
+
+         Article 28. Revisió i manteniment de les proteccions
+         1. Les proteccions externes als edificis s’han de fer revisar periòdicament per un tècnic competent i auto-
+         ritzat cada cinc (5) anys o menys. En el cas de terrenys classificats en zonificació R7, els boscos de defensa
+         s’han de fer revisar periòdicament per un tècnic competent i autoritzat cada cinc (5) anys o menys.
+         2. Si durant els períodes de temps estipulats al paràgraf anterior es produís un episodi d’allau suportat per
+         les proteccions o pel bosc, s’ha de procedir a una revisió especial en el menor termini possible. El següent
+         període començarà a comptar des de la data d’aquesta darrera revisió.
+         3. En tot cas, el tècnic que realitza la revisió, ha d’emetre un informe detallant l’estat de les proteccions o
+         del bosc de defensa. Si és el cas, l’informe de revisió de les proteccions ha de determinar les reparacions
+         o reposicions pertinents per tal de mantenir-les en bon estat.
+         4. Les despeses de revisió, manteniment, neteja, reparacions, reposicions, i totes les intervencions neces-
+         sàries o convenients a criteri del tècnic, són a càrrec del propietari.
+
+         Capítol quart. Construccions existents en zones de risc d’allaus
+         Article 29. Pla de confinament i evacuació d’edificis, equipaments i instal·lacions existents en zona de risc
+         d’allaus
+         1. Els edificis, els equipaments i les instal·lacions existents que estiguin localitzats totalment o parcialment
+         en alguna de les zones reglamentàries R1, R2, R2B, R4 i/o R7 han de disposar d’un Pla de confinament i
+         evacuació, al qual els usuaris habituals del terreny s’han d’adherir. A aquest efecte, la propietat ha d’enco-
+
+
+
+Govern
+         manar a un tècnic especialitzat i autoritzat l’elaboració del Pla de confinament i evacuació i presentar-lo a
+
+
+
+
+                                                           www.bopa.ad
+                                                                                                       Dipòsit legal: AND.2-2015
+         Núm. 17                                       16 de març del 2016                                               13/19
+
+
+
+
+         l’aprovació del ministeri competent en matèria de protecció civil dintre dels terminis fixats en les disposicions
+         transitòries d’aquest Reglament.
+         2. El ministeri competent en matèria de protecció civil pot elaborar els Plans de confinament i evacuació
+         respectius als edificis, equipaments o instal·lacions que estimi oportuns per motius de seguretat. Els usuaris
+         habituals del terreny estan obligats a adherir-se al corresponent Pla i a adoptar les mesures determinades
+         en aquest document.
+
+         Article 30. Modificacions de les construccions
+         1. Les actuacions exposades a l’article 2.1 d’aquest Reglament no es poden autoritzar en els edificis, equipa-
+         ments i instal·lacions existents en zona reglamentària R1, llevat dels casos excepcionals exposats a l’article
+         34 d’aquest Reglament.
+         2. Els edificis, els equipaments o les instal·lacions existents en zones reglamentàries R2, R2B, R3, R4, R5, R6
+         i/o R7, i que siguin objecte d’alguna de les modificacions exposades a l’article 2.1, per a obtenir la llicència
+         de construcció han de complir íntegrament aquest Reglament, i especialment en els articles que corres-
+         ponguin segons a la zona reglamentària de perillositat en que el terreny estigui ubicat.
+         3. Els edificis, els equipaments o les instal·lacions existents en zones reglamentàries R2, R2B, R3, R4, R5, R6
+         i/o R7 han de complir íntegrament aquest Reglament per obtenir la llicència de canvi d’ús envers els usos
+         següents: d’habitatge, educatiu, residencial, hoteler, de restauració, comerç mitjà o gran (250 m2 o més),
+         d’estacions de servei, cultural, esportiu, esportivorecreatiu, recreatiu, sanitari, sociosanitari, social o religiós.
+
+         Capítol cinquè. Procediment administratiu i responsabilitats de les parts
+         Article 31. Tramitació de sol·licituds
+         1. Les sol·licituds de parcel·lació, urbanització o construcció en l’àmbit d’aplicació d’aquest Reglament, que
+         corresponguin a terrenys afectats per risc d’allaus en zones R2, R2B, R3, R4, R5, R6, R7, zones protegides
+         per R7 i zones no incloses a la cartografia de zonificació reglamentària, segons correspongui, han d’anar
+         acompanyades de l’estudi tècnic específic d’allaus (annex I), de la nota tècnica específica d’allaus (annex III)
+         o de l’informe tècnic de boscos de defensa d’allaus (annex IV), i, si escau, del corresponent projecte cons-
+         tructiu de les mesures de protecció (annex II).
+         2. En el cas que el terreny estigui afectat per diversos tipus de perillositat en zones R2 a R6, la documentació
+         a presentar serà la que correspon a la de risc més elevat. En el cas que el terreny estigui afectat per bosc
+         de defensa, zona R7, i el sol·licitant opti per la opció b exposada a l’apartat 2 de l’article 21, endemés s’ha
+         de presentar l’informe tècnic de bosc i la nota tècnica específica d’allaus.
+         3. Abans d’atorgar l’autorització, el Comú ha de demanar i obtenir del ministeri competent en matèria d’ur-
+         banisme, d’acord amb la legislació vigent aplicable, l’informe favorable en l’àmbit sectorial de riscos naturals
+         d’allaus. El ministeri pot requerir la informació i documentació complementària que consideri convenient
+         per tal de poder informar l’expedient.
+         4. El ministeri competent en matèria d’urbanisme pot fer constar a l’informe les condicions específiques
+         en matèria de protecció de riscos d’allaus que consideri convenients i, especialment, en el cas que el ter-
+         reny objecte de la sol·licitud estigui protegit per boscos de defensa, l’informe ministerial ha d’explicitar les
+         condicions d’ús del terreny en cas d’hipotètica desaparició o afectació del bosc de defensa. El Comú ha de
+         transcriure aquestes condicions a la llicència, sense perjudici que la normativa subsidiària parroquial pugui
+         establir condicions més restrictives.
+
+         Article 32. Qualificació i responsabilitat dels tècnics
+         1. Els tècnics que poden intervenir en el marc de riscos d’allaus dintre de l’àmbit d’aplicació d’aquest Re-
+         glament han de tenir les qualificacions següents:
+           a) Els autors d’estudis tècnics i notes tècniques específics d’allaus han de ser tècnics competents en
+
+
+
+Govern
+           matèria d’allaus i/o riscos naturals, autoritzats al Principat.
+
+
+
+
+                                                            www.bopa.ad
+                                                                                                         Dipòsit legal: AND.2-2015
+         Núm. 17                                      16 de març del 2016                                              14/19
+
+
+
+
+           b) Els tècnics projectistes, els directors facultatius i els que efectuïn les revisions de les proteccions han de
+           ser enginyers competents en matèria d’enginyeria civil i amb experiència en allaus, autoritzats al Principat.
+           c) Els tècnics autors d’informes tècnics de boscos han de ser enginyers competents i autoritzats a exer-
+           cir al Principat en matèria forestal, autoritzats al Principat.
+         2. En cada cas, els tècnics redactors, respectivament, han de disposar d’experiència fefaent en estudis,
+         notes i/o informes de riscos naturals, i/o de projectes de construcció de proteccions de riscos naturals.
+         3. Els tècnics redactors de notes, informes, estudis o projectes de proteccions són responsables de les
+         modelitzacions, els càlculs, les tipologies de protecció adoptades i de tot el contingut explícit o implícit de
+         la documentació presentada amb l’expedient, i així ho han de signar expressament.
+         4. L’execució de les obres de protecció ha de comptar amb una Direcció d’Obra que compleixi els requisits
+         estipulats per als tècnics redactors de projecte.
+         5. El tècnic autor del projecte de pla parcial o de pla especial o de construcció o d’urbanització es respon-
+         sabilitza solidàriament de la idoneïtat de les mesures proposades en la documentació presentada, i signa
+         a aquest efecte tota la documentació en matèria d’allaus que adjunta a l’expedient.
+         6. La direcció facultativa de l’obra es responsabilitza de l’execució correcta de l’obra d’acord amb el projecte
+         autoritzat.
+         7. En qualsevol cas, l’atorgament d’autorització en l’àmbit d’aquest Reglament no implica l’assumpció de
+         cap responsabilitat per part de l’Administració.
+         8. Els tècnics autors d’estudis, notes, informes i/o projectes i direccions d’obra han de disposar d’una
+         assegurança de responsabilitat civil que cobreixi les seves actuacions professionals en l’àmbit de riscos
+         naturals per un import mínim de sis-cents mil euros (600.000,00 €) i sense clàusules limitatives per un
+         import inferior a aquest.
+
+         Article 33. Responsabilitat dels propietaris
+         1. Els propietaris dels terrenys situats en zones reglamentàries de perillositat d’allau, han de promoure i
+         assumir el cost, tant dels estudis tècnics, les notes tècniques, els projectes i/o els informes tècnics especí-
+         fics d’allaus necessaris per obtenir les autoritzacions/llicències, com de la construcció de les mesures de
+         protecció escaients que es derivin dels documents tècnics abans esmentats.
+         2. La persona sol·licitant d’una autorització d’un pla parcial o d’una llicència en l’àmbit d’aplicació d’aquest
+         Reglament ha de signar conforme ha llegit i està assabentada dels estudis tècnics, les notes tècniques, els
+         projectes i els informes tècnics específics d’allaus, i els contractes preliminars de les revisions de proteccions
+         d’allaus requerits per aquest Reglament.
+         3. És obligació dels propietaris d’un terreny protegit amb defenses, una vegada urbanitzat o construït,
+         mantenir vigent un contracte de revisió amb un tècnic competent i autoritzat, i permetre i promoure les
+         revisions periòdiques necessàries en els termes expressats a l’article 28, així com custodiar la documentació
+         emesa pel tècnic que efectua la revisió.
+         En cas de renúncia del tècnic o de rescissió del contracte per part del propietari, aquest últim està obligat
+         a contractar un altre tècnic competent i autoritzat abans de sis mesos a comptar de la data de la resolució
+         del contracte anterior.
+         4. En aplicació de l’article 127.2 de la Llei general d’ordenació del territori i urbanisme, els propietaris
+         actuals i futurs són responsables de la revisió de les mesures de protecció, del seu manteniment, de les
+         reparacions que dictamini el tècnic contractat, i assumeixen la custòdia de la documentació tècnica. Les
+         escriptures de transmissió de domini i els contractes de lloguer han de transcriure la zona en què està
+         ubicada la propietat i el risc residual assumible per a l’habitabilitat o l’ús que se li dona al terreny, així com
+         de les condicions contractuals i de manteniment de les mesures de protecció.
+
+
+
+
+Govern
+         5. Tots els contractes de revisió i les actes de revisió, manteniment i reparació de les proteccions d’allaus
+         s’hauran de recollir al Llibre de l’edifici.
+
+
+
+                                                           www.bopa.ad
+                                                                                                       Dipòsit legal: AND.2-2015
+         Núm. 17                                      16 de març del 2016                                              15/19
+
+
+
+
+         Capítol Sisè. Excepcions
+         Article 34. Actuacions excepcionals en zones de perillositat alta
+         1. De conformitat amb la Llei general d’ordenació del territori i urbanisme, constitueixen excepcions a l’article
+         14 del present reglament els projectes d’interès nacional, els treballs necessaris per dotar de serveis i accés
+         als terrenys classificats com a sòl urbanitzable, les instal·lacions o els equipaments de caràcter tècnic que
+         siguin destinats exclusivament a la protecció de les persones i els bens. També constitueixen excepcions a
+         l’article 14 les modificacions del terreny, les instal·lacions i les edificacions destinades a ús ramader, agrícola
+         o forestal, i les instal·lacions d’emmagatzematge que no continguin substàncies o productes inflamables,
+         explosius o contaminants.
+         2. En tot cas, s’ha de fer un estudi tècnic de detall específic d’allaus segons l’annex I, que garanteixi que el
+         risc residual assumible està d’acord amb l’article 13, i que no s’empitjoren les condicions de risc dels terrenys
+         propis o aliens. L’estudi esmentat ha d’establir les mesures de protecció necessàries per a ocupar el terreny.
+         3. Les mesures de protecció establertes a l’estudi s’han d’incorporar a un projecte constructiu amb el
+         contingut de l’annex II.
+
+         Article 35. Actuacions excepcionals en instal·lacions pròpies de dominis esquiables
+         1. Com a excepcions a l’article 12, per protegir els usuaris i les instal·lacions dels dominis esquiables es
+         poden aplicar mesures de protecció temporal, mentre aquestes instal·lacions continuïn formant part dels
+         dominis esquiables i estiguin incorporades al pla d’intervenció per al desencadenament preventiu d’allaus
+         (PIDA) de l’estació, segons la reglamentació en matèria de desencadenament preventiu d’allaus.
+         2. En tot cas, en l’àmbit d’aplicació d’aquest Reglament, s’ha de fer un estudi tècnic específic d’allaus, amb
+         el contingut mínim de l’annex I, per assegurar que les proteccions temporals previstes són suficients, o, en
+         cas contrari, si s’han d’adoptar mesures complementàries per garantir que el risc residual és assumible i
+         les actuacions previstes no comporten un augment del risc propi o aliè.
+
+         Disposició transitòria primera
+         1. Els propietaris d’edificis, equipaments i instal·lacions existents afectats per risc alt en zona reglamentària
+         R1 i R2B disposen de tres (3) any, a partir de la data de publicació al BOPA d’aquest Reglament, per elaborar
+         un pla de confinament i evacuació.
+         2. Els propietaris d’edificis, equipaments i instal·lacions que es troben localitzats en zones R2, R4 o R7,
+         disposen de cinc (5) anys per adherir-se a un pla d’evacuació o confinament.
+
+         Disposició transitòria segona
+         Aquest Reglament és aplicable als expedients de llicències que estiguin en fase de tramitació i que, a la data
+         d’entrada en vigor, no hagin estat informats favorablement pel ministeri competent en matèria d’urbanisme.
+
+         Disposició derogatòria
+         Queden derogats els articles 2 al 6 del Decret del 26 de setembre del 2012, pel qual s’aproven l’estudi de
+         zonificació del terreny al Principat d’Andorra segons la seva perillositat a causa de l’afectació per allaus,
+         intitulat “Plans de prevenció de riscos d’allaus previsibles”, i la cartografia de zonificació de la perillositat.
+
+         Disposició final
+         Aquest Reglament entrarà en vigor l’endemà de la seva publicació al Butlletí Oficial del Principat d’Andorra.
+         Cosa que es fa pública per a coneixement general.
+
+         Andorra la Vella, 9 de març del 2016
+
+         Antoni Martí Petit
+
+
+
+Govern
+         Cap de Govern
+
+
+
+
+                                                           www.bopa.ad
+                                                                                                       Dipòsit legal: AND.2-2015
+         Núm. 17                                      16 de març del 2016                                             16/19
+
+
+
+
+         ANNEX I: CONTINGUT DE L’ESTUDI TÈCNIC ESPECÍFIC D’ALLAUS
+         1. Memòria tècnica que inclogui, com a mínim:
+           a) L’empresa autoritzada i/o el professional liberal competent i autoritzat que redacta el document, se-
+           gons l’article 32.
+           b) Referència al pla parcial o especial, o projecte pel qual es fa l’estudi.
+           c) Antecedents històrics i classificació reglamentària de perillositat d’allau.
+           d) Anàlisi dels paràmetres nivometeorològics i de vents predominants, amb determinació de gruixos del
+           mantell nival, amb un període de retorn mínim de 100 anys.
+           e) Estudi de camp i reconeixement sobre el terreny de les condicions topogràfiques, geomorfològiques,
+           forestals, de vegetació,de rugositats del terreny, orientació del vessant, i altres que es considerin a criteri
+           tècnic, com ara l’existència d’un bosc agreujant en cas d’esdeveniment allavós; tot diferenciant zones de
+           sortida, de flux i d’arribada.
+           f) Anàlisi de les proteccions existents, si és el cas.
+           g) Modelització de l’allau o les allaus en el cas de terrenys en zones R2, R2B i R4, zones fora de l’abast de
+           la cartografia de zonificació i en els casos excepcionals de l’article 34, amb un programa contrastat i amb
+           un nivell de precisió suficient.
+           h) Anàlisi cinemàtica i dinàmica de l’allau o les allaus, amb càlculs de les alçades per a diferents tipus de
+           neu i de les pressions dinàmiques, diferenciant zones de sortida, de flux i d’arribada.
+           i) Tipologia i dimensionament de les actuacions de protecció que s’han de realitzar.
+           j) Càlcul del risc residual per a l’habitabilitat o per a l’ús que es dona al terreny estudiat.
+           k) Anàlisi i determinació de la possibilitat de crear un nou risc o d’incrementar l’existent als terrenys sus-
+           ceptibles si s’adopten les mesures de protecció. Vegeu l’apartat 6 de l’article 12, “Mesures de protecció”.
+           l) En el cas de materialitzar per fases un pla parcial o especial, anàlisi del risc d’allaus en cadascuna de les
+           fases constructives, segons l’article 26.
+         2. Plànols:
+           a) Emplaçament sobre plànol topogràfic oficial a escala més gran possible, diferenciant el terreny objecte
+           d’estudi i els terrenys aliens que es poden veure afectats.
+           b) Aixecament topogràfic del terreny a utilitzar a escala 1/200, com a mínim, en coordenades Lambert III,
+           amb indicació de la situació del pla parcial o especial, o del projecte.
+           c) Plànol de situació sobre cartografia de la zonificació reglamentària de la perillositat d’allaus.
+         3. El tècnic redactor ha d’expressar explícitament a l’estudi que la metodologia, els càlculs, els models fisico-
+         matemàtics, els programes informàtics utilitzats, i tot el contingut de l’estudi, implícit o explícit, ofereixen
+         les garanties necessàries per caracteritzar els riscos d’allaus i que s’han realitzat seguint el codi deontològic
+         professional i les regles de les bones pràctiques.
+         4. El tècnic redactor ha d’expressar explícitament que assumeix la responsabilitat de l’estudi i així ho signa.
+         5. Acreditació de la disponibilitat dels terrenys propis o aliens per a la construcció, si escau, de les protec-
+         cions proposades.
+         6. L’estudi ha d’expressar que la propietat està assabentada de la zonificació reglamentària en què es troba
+         el terreny i del risc residual per a l’habitabilitat o l’ús que es dóna al terreny, i es compromet a transcriure
+         aquests fets a les escriptures de transmissió de domini i als contractes de lloguer, presents i futurs, i la
+         propietat així ho ha de signar.
+
+         ANNEX II: CONTINGUT DEL PROJECTE DE PROTECCIONS D’ALLAUS
+         1. Memòria tècnica explicativa de la situació del terreny envers el perill d’allaus i de les solucions adoptades
+         si escau, que inclogui:
+           a) L’empresa projectista autoritzada i/o el professional liberal competent i autoritzat que redacta el do-
+
+
+
+Govern
+           cument, segons l’article 32.
+
+
+
+
+                                                           www.bopa.ad
+                                                                                                      Dipòsit legal: AND.2-2015
+         Núm. 17                                      16 de març del 2016                                              17/19
+
+
+
+
+           b) Referència al pla parcial o especial, o al projecte constructiu, i a l’estudi de detall previ, i identificació
+           de les fases d’urbanització o construcció, si escau.
+           c) Tipologia, capacitats resistents i alçades de les proteccions projectades.
+           d) Risc residual romanent una vegada aplicades les mesures de protecció, assumible per a l’habitabilitat
+           o per a l’ús que es dona al terreny.
+           d) Pla d’evacuació dels edificis: determinar si reglamentàriament és necessari la redacció del Pla de con-
+           finament i evacuació en funció de la zona reglamentària en què està localitzat el terreny. En cas afirma-
+           tiu, presentació com a annex al projecte constructiu.
+         2. Plànols:
+           a) Emplaçament sobre plànol topogràfic oficial a escala més gran possible.
+           b) Plànol de planta en coordenades Lambert III a escala 1/200, com a mínim, amb la tipologia i la ubicació
+           de les proteccions projectades.
+           c) Plànols d’alçats, seccions i detalls de les proteccions amb un nivell de detall suficient per poder execu-
+           tar l’obra. Aquests plànols s’han de lliurar en paper i en format digital.
+         3. Contracte preliminar de revisió de les mesures de protecció definides al projecte.
+         4. Acreditació del propietari de la disponibilitat dels terrenys per a la construcció i el manteniment de les
+         proteccions projectades.
+         5. El tècnic redactor ha d’expressar explícitament que assumeix la responsabilitat del projecte i així ho signa.
+         6. El projecte ha d’expressar que la propietat està assabentada de:
+           a) La qualificació reglamentària en què es troba el terreny.
+           b) El risc residual per a l’habitabilitat o l’ús que es dóna al terreny.
+           c) L’obligació de mantenir vigent un contracte de revisió periòdica i d’assumir el manteniment i les repa-
+           racions de les proteccions, d’acord amb els articles 28 i 33.
+           d) Que les escriptures de transmissió de domini i els contractes de lloguer, presents i futurs, han de re-
+           flectir aquestes condicions.
+
+         ANNEX III: CONTINGUT DE LA NOTA TÈCNICA ESPECÍFICA D’ALLAUS
+         1. Memòria tècnica que inclogui, com a mínim:
+           a) L’empresa autoritzada i/o el professional liberal competent i autoritzat que redacta el document, se-
+           gons article 32.
+           b) Referència al pla parcial o especial, o projecte pel qual es fa la nota.
+           c) Referència a l’informe tècnic de bosc de defensa previ, si és el cas.
+           d) Antecedents històrics i classificació reglamentària de perillositat d’allau.
+           e) Anàlisi dels paràmetres nivo-meteorològics i de vents predominants, amb determinació de gruixos del
+           mantell nival, amb un període de retorn mínim de 100 anys.
+           f) Estudi de camp i reconeixement sobre el terreny de les condicions topogràfiques, geomorfològiques,
+           forestals, de vegetació i de rugositats del terreny, orientació del vessant, i altres que es consideri a criteri
+           tècnic, com ara l’existència d’un bosc agreujant en cas d’esdeveniment allavós; tot diferenciant zones de
+           sortida, de flux i d’arribada.
+           g)Anàlisi de les proteccions existents, si és el cas.
+           h) Càlculs de les pressions dinàmiques a la zona d’arribada.
+           i) Tipologia i dimensionament de les actuacions de protecció a realitzar, si escau.
+           j) Càlcul del risc residual per a l’habitabilitat o per a l’ús que es dóna al terreny estudiat.
+           k) Anàlisi i determinació de la possibilitat de creació d’un nou risc o d’increment de l’existent als terrenys
+           susceptibles si s’adopten mesures de protecció.
+           l) En el cas de materialització per fases d’un pla parcial o especial, anàlisi del risc d’allaus en cadascuna
+           de les fases constructives, segons l’article 26.
+
+
+
+Govern
+                                                           www.bopa.ad
+                                                                                                       Dipòsit legal: AND.2-2015
+         Núm. 17                                        16 de març del 2016                                                18/19
+
+
+
+
+         2. Plànols:
+           a) Emplaçament sobre plànol topogràfic oficial a escala més gran possible, diferenciant el terreny objecte
+           d’estudi i els terrenys aliens que es poden veure afectats.
+           b) Aixecament topogràfic del terreny a construir, a escala 1/200, com a mínim, en coordenades Lambert
+           III, i amb indicació de la situació del Pla parcial o especial, o del projecte.
+           c) Plànol de situació sobre cartografia de la zonificació reglamentària de la perillositat d’allaus.
+         3. El tècnic redactor ha d’expressar explícitament a la nota que la metodologia, els càlculs, i tot el contingut
+         de la nota, implícit o explícit, ofereixen les garanties necessàries per caracteritzar els riscos d’allaus i que
+         s’han realitzat seguint el codi deontològic professional i les regles de les bones pràctiques.
+         4. El tècnic redactor ha d’expressar explícitament que assumeix la responsabilitat de la nota tècnica i així
+         ho signa.
+         5. La propietat ha d’acreditar que disposa dels terrenys propis o aliens amb dret d’ús, per a la construcció,
+         si escau, de les proteccions proposades.
+         6. La nota ha d’expressar que la propietat està assabentada de la zonificació reglamentària en què es troba
+         el terreny i del risc residual per a l’habitabilitat o l’ús que es dóna al terreny, i que es compromet a trans-
+         criure aquests fets a les escriptures de transmissió de domini i als contractes de lloguer, presents i futurs,
+         i la propietat així ho ha de signar.
+
+         ANNEX IV: CONTINGUT DE L’INFORME TÈCNIC DE BOSC DE DEFENSA
+         D’ALLAUS
+         1. Memòria tècnica que inclogui, com a mínim:
+           a) L’empresa autoritzada i/o el professional liberal competent i autoritzat que redacta el document, se-
+           gons l’article 32.
+           b) Referència al pla parcial o especial, o projecte pel qual es fa l’estudi.
+           c) Antecedents històrics i classificació reglamentària del bosc.
+           e) Estudi de camp i inventari forestal qualitatiu i quantitatiu, amb justificació de la metodologia emprada
+           i precisió resultant suficient per prendre decisions d’acord a la funció del bosc, tot seguint els criteris
+           acceptables dins de la comunitat científica forestal.
+           f) Anàlisi de l’estat i l’estructura forestal que determini si el bosc actual és suficient per garantir la protecció,
+           i si l’existència del bosc suposa un agreujant en cas d’esdeveniment allavós.
+           g) Estudi i determinació de la possibilitat de crear d’un nou risc o d’incrementar el risc existent als ter-
+           renys susceptibles, en cas d’afectació del bosc de defensa.
+         2. Plànols:
+           a) Emplaçament sobre plànol topogràfic oficial a l’escala més gran possible, diferenciant el terreny objecte
+           d’estudi i els terrenys aliens que es poden veure afectats.
+           b) Aixecament topogràfic del terreny a utilitzar, a escala 1/200, com a mínim, en coordenades Lambert
+           III, indicant la situació del Pla parcial o especial, o del projecte.
+           c) Plànol de situació sobre cartografia de la zonificació reglamentària de la perillositat d’allaus.
+           d) Plànol topogràfic del bosc a escala 1/1.000, com a mínim, amb diferenciació de l’estat i estructura
+           forestal per sectors, segons l’anàlisi de la memòria tècnica.
+           e) Plànol amb la previsió de l’espai necessari per implementar mesures de protecció en cas d’afectació o
+           desaparició del bosc de defensa.
+         3. El tècnic redactor ha d’expressar explícitament a l’informe que la metodologia, els càlculs, els programes
+         informàtics utilitzats, i tot el contingut de l’informe, implícit o explícit, ofereixen les garanties necessàries per
+         caracteritzar el bosc de defensa i que aquest informe s’ha realitzat seguint el codi deontològic professional
+         i les regles de les bones pràctiques.
+
+
+
+Govern
+         4. El tècnic redactor ha d’expressar explícitament que assumeix la responsabilitat de l’informe i així ho signa.
+
+
+
+                                                             www.bopa.ad
+                                                                                                           Dipòsit legal: AND.2-2015
+         Núm. 17                                       16 de març del 2016                                               19/19
+
+
+
+
+         5. Document que acrediti la disponibilitat dels terrenys per a la construcció de proteccions, en el cas d’afec-
+         tació futura del bosc.
+         6. Contracte de revisió periòdica de la funcionalitat de la defensa del bosc.
+         7. L’informe ha d’expressar que la propietat està assabentada, i així ho ha de signar, de:
+           a) La qualificació reglamentària en què es troba el terreny.
+           b) Que, en cas d’afectació parcial o total del bosc, el terreny romandrà exposat a un risc natural de mag-
+           nitud de perillositat hores d’ara desconeguda.
+           c) Que en cas d’afectació parcial o total del bosc, en compliment de la legislació vigent, el cònsol pot ordenar
+           el desallotjament indefinit del terreny afectat i, fins i tot, atenent els estudis específics d’acord amb l’article
+           21 d’aquest Reglament, el comú pot declarar l’estat de ruïna, total o en part, de les edificacions bastides.
+           d) Que les escriptures de transmissió de domini i els contractes de lloguer, presents i futurs, han de re-
+           flectir totes les condicions expressades en aquest punt 7.
+
+         ANNEX V: DOCUMENT DECLARATIU I DE COMPROMÍS SIGNAT PEL
+         SOL·LICITANT
+         El contingut del document esmentat a l’apartat 5 de l’article 21 és el següent:
+         1. Nom i cognoms o raó social de la persona sol·licitant, nom i cognom del representat legal, tipus de sol·
+         licitud, adreça del terreny objecte de la sol·licitud.
+         2. Es declara sabedor/a que els edificis i terrenys concernits per la llicència estan protegits, de forma total
+         o parcial, de risc d’allaus per un bosc de defensa.
+         3. Es declara sabedor/a que el grau de perillositat que afecta els edificis i terrenys concernits per la llicència
+         pot agreujar-se en el futur com a conseqüència d’una alteració significativa del bosc de defensa.
+         4. Es declara sabedor/a que en cas d’agreujament del grau de perillositat del risc d’allaus com a conse-
+         qüència d’alteració significativa del bosc de defensa, haurà de construir al seu càrrec les proteccions que
+         es determini l’estudi de detall, o fins i tot els edificis poden ser desallotjats els edificis i els terrenys, amb
+         pèrdua provisional de l’habitabilitat i de la llicència d’ús. La pèrdua de l’habitabilitat i de la llicència d’ús pot
+         ser definitiva en cas de no ser construïdes les proteccions, o en cas de què la construcció de les protecci-
+         ons sigui inviable.
+         5. Declara que disposa del terreny, propi o aliè amb dret d’ús, per a la construcció de futures proteccions,
+         i especifica amb detall suficient la posició d’aquest terreny.
+         6. Declara que desenvolupa urbanísticament i/o amb edificació els terrenys situats en l’àmbit de la llicèn-
+         cia urbanística a risc i ventura seves respecte a l’evolució futura del bosc de defensa, i que renuncia a fer
+         futures reclamacions a l’Administració pública en relació a alteracions que pugui patir el bosc de defensa
+         per qualsevol causa.
+         7. Es compromet a incloure els apartats d’aquesta declaració en tota escriptura pública, conveni, acord o
+         contracte de transmissió de propietat, domini, ús, cessió de drets, o lloguer dels béns situats en l’àmbit
+         de la llicència urbanística. I a fer constar en els esmentats documents que aquesta obligació persisteix en
+         totes les transmissions successives que puguin donar-se en el futur.
+
+
+
+
+Govern
+                                                            www.bopa.ad
+                                                                                                         Dipòsit legal: AND.2-2015
+

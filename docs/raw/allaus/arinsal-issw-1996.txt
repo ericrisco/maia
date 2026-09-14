@@ -1,0 +1,363 @@
+                                                                                             Avalanche Dynamics and Defence
+
+
+                Avalanche modeling in France - Theory and applications
+                           Mohamed Naaim, Gerard Brugnot and Jean Claude Charry
+                        Cemagref, Division Nivologie, B.P.76, F-38402, Saint Martin d'Heres, France
+
+
+ABsTRACT                                                         The equations governing this flow are fluid mechanics
+First, this paper succinctly describes our numerical powder      conservation laws. The strong turbulence requires the use
+snow avalanche model. Then, an application of this model         of a closure model that allows to calculate both its inten-
+is presented in the frame of an avalanche zoning. This appli-    sity and scale. The interaction between the avalanche and
+cation is an example of a practical use ofthe numerical model    the ground is taken into account throughout a model of
+in avalanche risk engineering. For each study the model was      erosion / deposition which allows to incorporate or to
+used to simulate different avalanche scenarios. It allows to     deposit the snow according to the concentration in parti-
+give a coherence between input data (production conditions)      cles and the intensity of the turbulence.
+and the effects of the avalanche. The use of the model can be       In order to numerically solve the equations system, and
+made according to the following process :                        considering the complexity of the topography, the area of
+                                                                 the flow is decomposed horizontally and vertically by
+• First it begins with searching in the archives for the
+                                                                 means of a finite elements mesh. The equations are writ-
+    most important powder snow avalanche having taken
+                                                                 ten under their conservative form and integrated on each
+    place on the site. This search concerns the conditions
+                                                                 cell. The resolution is performed by a Godunov numeri-
+    of production as well as the effects of the avalanche in
+                                                                 cal scheme.
+    its flowing and run-out zones. For this purpose, differ-
+    ent indicators can be used. All caused damages "indi-
+    cate" that the dynamic pressure developed by the ava-        2 MODELING
+    lanche was superior to the threshold stress of the dam-      In this paper the powder snow avalanche is considered as
+    aged objects (tree, pylon, etc.). Effects are mapped in      a diphasic flow of a heavy fluid (air + snow) in a light
+    terms of pressure fields.                                    fluid (air). The gravity coupled to the difference of den-
+• Secondly we use the numerical model to simulate an             sity between these fluids generates the flow. This flow is
+    avalanche scenarios whose entry conditions take into         therefore studied as a gravity current. The proposed mod-
+    account all the available observations concerning the        elling assumes that air is a Newtonian perfect gas, and
+    production factors (meteorology, snow, starting zone         that the particles in suspension do not modify neither the
+    etc.). It is important to note here that such type of data   behavior of the fluid nor the turbulence of the flow. The
+    is very often sketchy for several technical reasons ( ac-    equations are written in a Galilean axis system formed by
+    cess to starting zone ... ). Several numerical simulations   three axes; Ox and Oy are in the horizontal plan and Oz
+    allow to specify and complete the model input condi-         is the vertical axis. In this co-ordinates system, the grav-
+    tions. The purpose is to define a "reference avalanche"      ity vector is given by g=90,O-g)t. The other variables are:
+    which produces effects similar to the observed one           Pa the density of the air, Ps density of the snow, u=(u, v,
+    (pressure field, velocities, height etc.).                   w)t the velocity vector, p the pressure, c the particles volu-
+• Last we define the "observed-extreme-avalanche" and            metric concentration and Pm=P a +cPs the average density.
+    simulate it. The model gives access to a large spectra
+    of scenarios by increasing or reducing production con-       2.1 BASIC EQUATIONS
+    ditions or by modifying the topography of the flowing .      Equations governing this kind of flow are the fluid me-
+    or run-out zones. Therefore, we can build a database of      chanics conservation laws. They are the conservation of
+    avalanches that can be used in defining the protection       the air mass, the conservation of the particles mass and
+    for the desired site.                                        the conservation of the momentum. The introduction of
+                                                                 the Reynold's decomposition followed by a statistical
+1. INTRODUCTION                                                  processing enables to obtain the average equations of the
+An. analysis of the meteorological conditions causing the        mean flow. In these equations some new variables appear.
+mam powder snow avalanches taking place in French Alps           They correspond to the second order correlation resulting
+shows that this type of avalanches occurs most often after       from the non-linearity of the Navier Stokes equations. We
+a strong snow fall by cold weather (T < -5°C during 24           determine them using the Boussinesq law (so called eddy
+hours preceding the release). The powder snow avalanches         viscosity) which belongs to the class of models using the
+~e characterized by a low density, high velocities and by        turbulent viscosity concept. Equations of motion can be
+the structure of its particular flow. Whirlwinds are one of      written as follows:
+d e remarkable characteristics that differentiate it from the
+· ense aValanche. The intense turbulence induces a strong
+mcorporation of air and causes a huge increase of the vol-
+                                                                  r p -,     r pu       pv
+                                                                    I pu I Ipu 2 +p ouv puw I
+                                                                                                pw -,           r   °., rO"
+~e. This kind of avalanches is here considered as the                                                   I pu I I ° I
+al;j ;~ a heavy fluid (particles + air) in a light one (the      ft I pw
+                                                                      pv I +divl puv ov2 +p pvw Ldiv(u vi pv j+ I 0 I
+                                                                               I puw pvw pw2 +p I     t I pw I I pg I
+    . e powder snow avalanche is similar to the gravity .
+  hy . alfro m th e VISUal
+current              .     point of view and also in term of
+                                                                    I c I I cu        cv     cw I       I c I Ip-o I
+P SIC process.                                                      L k.J      L ku   kv     kW J          k      r
+                                                                                                                    E
+                                                                                                                L    .J   L   .J
+
+
+                                                                                                                          239
+Avalanche Dynamics and Defence
+
+
+where P = kp ~ , w g is the particle fall-velocity, the turbu-  where (K (ie)) is the set ofthe ie neighbours. In the calcu_
+lent viscosity is linKed to the kinetic turbulent energy k by   lation of the diffusion terms the U gradient is obtained by
+the following formula: '\) t =c 1 lk1/2                         this minimization. On the other hand for the calculation
+                                                                of the hyperbolic part of the equations system and in or-
+the turbulant energy production is given by: 0.078              der to preserve the stability of the scheme, it is necessary
+                                             e    1     k 3 / 2 to limit the gradient value of U on each element in order
+kinetic turbulent energy production is given by,                to avoid new local extrema. To obtain the contribution of
+                                                                the hyperbolic part of the equation system to the numeri-
+                                                                cal flux term, we proceed as follow:
+                                                                • Using the property ofinvariance by rotation of the Con-
+                                                                    servation equations, we write the system in the local
+                                                                    axis system formed by the tangent plan and the normal
+                                                                    to the facet. In order to reduce the calculation of the
+2.2 NUMERICAL RESOLUTION
+                                                                    flux to a one dimensional case we suppose that the
+The calculation area is decomposed using a finite elements          variation in the tangent direction is negligible.
+mesh into cells of variable dimensions. The equations sys-
+                                                                • The problem becoming mono-dimensional, we can then
+tem can be written under the fOllowil vectorial form:
+                                                                    use a Riemann solver on each interface in order to de-
+        ~f + div[F(Ull=div {HV(U)        G(U)
+                                                                    termine the numerical flux of the facet. The Riemann
+                                                                    problem can be put as follows:
+The equations system is written in the conservative form
+                                                                 dU + dF(U) = O. U(x 0) = {Ug if
+for its numerical resolution. The scheme is realized in fi-
+nite volumes. That allows a good adaptation to an area of
+variable shape (relief of an avalanche path). The scheme is      dt    dx n     " •        Ud if
+of second order accuracy in space and first order accuracy
+in time. The system is then integrated on each cell between
+two consecutive dates. The scheme is obtained in two steps:
+the projection step followed by the integration step. The
+projection step consists in allocating to each cell the aver-
+age value of the vector U, obtained by integrating U on the
+                                                                 where ieg,is the left cell and i ed is the right cell of the facet.
+cell volume:
+                                                                 The resolution of the Riemann problem allows to deter-
+U~e= ~fu
+      s
+         dv (V is the volume of ie)                              mine the numerical flux through the interface. It is impor-
+                                                                 tant to notice here the limitation of the time step intro-
+                                                                 duced by the use of this explicit scheme.
+and the integration step consists in integrating the system
+on each cell between times t(n) and t(n+l) :
+
+
+V (U~+ - u;'.)+ JI(n)
+        1           fl(n+l)f
+                           s   rr,/iv F(U) - div (v, V=>)-      1,/
+                                                       (U) G(U) .f'v dt =.= 0
+
+The Ostrogradsky theorem allows to transform the volu-
+metric integral in surface integral. It is then transformed
+into a sum on the facets of the numeric fluxes:
+
+
+
+
+where n is the normal to the surface of ie.
+   Using the average values of neighbor cells, we build the
+gradient of U in order to obtain a linear approximation of
+U. The three components of the local gradient vector are
+obtained by minimizing the following function:
+
+
+
+
+240
+                                                                                                                    Avalanche Dynamics and Defence
+
+
+2.3 BOUNDARY CONDITIONS                                                     of the gravity current are explored. To measure the flow
+The model needs a set of boundary conditions near the                       p.~ameters, the dense fluid is generally colored. The po-
+ground. These conditions are the momentum and the mass                      sltlons of the front and the dimensions of the gravity cur-
+exchanges. Concerning the first one, near the ground the                    rent (length and height) are determined. Several experi-
+flow is considered as a turbulent boundary layer defined                    ments have been used to test the validity of the numerical
+by friction :relocity.and roughness: The snow erosion or                    mod~l. .All these experiments were realized by Pierre
+deposition IS taken mto account usmg a mass flux eroded                     Beghm m the case of bi-dimensional density currents.
+or deposited by the avalanche. It depends on :                                 For the established phase as well as for the phase of
+                                                                            deceleration, measurements show that the results of the
+    threshold velocity: corresponding to the friction ve-
+                                                                            model are globally rather close to the experimental results.
+    locity when the erosion starts
+                                                                            For th~ acce~eratio~phase, the dynamic is only shown by
+threshold concentration: corresponding to the maximum
+                                                                            numeTlcal slmulatlOns because we have no experimental
+concentration that the flow can carry along, It depends
+                                                                            measures in this stage. The qualitative study of numerical
+on the turbulence intensity of the flow. This volumetric
+                                                                            results shows that the model correctly predicts the height
+concentration is less than (10 %) because above this value
+                                                                            and velocity evolution of the front of the bi-dimensional
+the behavior of the fluid becomes non-Newtonian.
+                                                                            gravity current. The numerical model reproduces differ-
+    the fall velocity of the snow particles, this parameter
+                                                                            ent characteristics of the gravity currents. Quantitative
+controls the deposit in the run-out zone of the avalanche.
+                                                                            comparisons are more difficult to do because the experi-
+It has another role: it reduces the vertical diffusion of the
+                                                                            mental results come from a unique experience. However
+snow particles.
+                                                                            we can conclude that the proposed model describes glo-
+                                                                            bally the different phases of the flow. Indeed, for the height
+2.4- VALIDATION                                                             of the front and its speed the results given by the numeri-
+In this section the aim is to verify the validity of the model,             cal model are close to the experiences results.
+comparing its results to those obtained in experiments on
+density currents realized in a water flume. In these ex-                    3. APPLICATION FRAME AND EXAMPLE
+periments were studied the flow produced by a finite vol-
+ume of heavy fluid in the flume containing the ambient                      The aim of this section is to show practical examples of
+                                                                            what the proposed model can bring in term of assistance
+fluid. The effects of the slope, the volume and the density
+                                                                            in analysing and mapping the avalanche risk. We present
+         Front height (em)
+               25
+                                                                                                      0         0                 0
+               20                                                                                           0       0
+                                                                                            00 0
+                                                                                        0
+               15                                                     00
+                                                                              ()                                         o Hf exp4
+                                                             0
+               10         0     0       0000 000                                                                         o H num4
+                5
+                                                                                                 Front position (em)
+                0
+                    0          20                  40            60             80                   100                120               140
+
+
+
+                                    Figure 1 : Example: front height as a function of the front position
+
+       front velocity (em/s)
+               50                   0                                                                               o Ufexp6
+               45                          0
+                                               0
+               40                                  0
+               35                                                                                                   o Ufnum6
+               30                                       o 00
+               25                                                      00           0
+               20                                                               0           6)     00      0:> 00             0       0
+               15
+               10
+                5                                                                                front position (em)
+                0
+                    0          20                  40            60             80                   100                120               140
+                                    Figure 2 : Example: front velocity as a function of the front position
+
+                                                                                                                                                241
+Avalanche Dynamics and Defence
+
+
+
+
+                      n
+                           ....
+                           ""
+                           0
+                           0
+
+                           .....
+                           O'l
+                           0
+                           0
+
+
+                           ""
+                           0
+                           0
+                           0
+
+                                    Figure 3 : Reference avalanche simulated by the model
+
+
+
+                                                                           x20 m
+                                             (Xl                O'l
+                                             0                  0
+                                             0                  0
+                           0
+                           0
+
+
+                           01>-
+                            0
+                            0
+
+                            00
+                            ~
+                            0
+                     ><
+                     :.n
+                     3      ....
+                            ""
+                            0
+                            0
+
+                            .....
+                            en
+                            0
+                            0
+
+
+
+                            ""
+                            0
+                            0
+                            0
+                                    Figure 4 : avalanche obtained using the same input data than the reference avalanche
+                                    except the snow height is increased of 30%
+
+here an example concerning the site of Arinsal (Andorra)                    showed that this avalanche was probably the most impor-
+for which numerical investigations were performed. The                      tant that ever occurred on the site.
+numerical model allows to find an equivalent to the pow-                       Secondly we use the numerical model to simulate an
+der snow avalanche which occurred in February 1996. For                     avalanche scenarioso whose input conditions take into ac-
+this case the purpose was to determine an equivalent-ava-                   count all available observations in term of production fac-
+lanche in terms of damages, using the available data and                    tors (meteorology, snow, starting zone, etc.). Several nu-
+the digital elevation model. The model was used follow-                     merical simulations allow to specify and complete the
+ing the process below:                                                      numerical model input conditions. Thus a reference ava-
+   First, concerning the effects of the real avalanche, a map               lanche with effects and production condition (pressure
+of the damages was made by the French Mountain Forest                       field, velocities, height) similar to the real case is defined,
+Service (RTM -Restauration des Terrains de Montagne ).                      and then simulated.
+For the production conditions, the limit of the starting                       Afterwards we study the influence of a modification of
+zone was mapped and a ram test was realised near the                        the input conditions and of the topography of the flowing
+starting zone. It was shown that the thickness of the light-                or run-out zones. The maximum pressure field is mapped
+snow layer was about 1 m and the density in this layer                      in order to evaluate the effect of these modifications on
+was about 100 kg/m3. Different searches in archives                         the extension of the avalanche. Thus we improve the
+
+242
+                                                                                                  Avalanche Dynamics and Defence
+
+
+kn wledge of the avalanche phenomenon on the consid-                  • choose the most probable scenarios (consultant, with
+   °d site, which can be used to determine the characteris-             the help of the scientist) ;
+ere                  h
+tics of the avalanc . e      '
+                        protectIOn to.b e real'Ize d .  .             • the client decides, with the help of the consultant, of a
+   The following fIgures feature dIfferent pressure fields              scenario of initial conditions that is selected depend-
+obtained in the cases of (three curves corresponding to 100             ing first on historical data, second on the level of safety
+daN/m2, 500 dan/m2 and 1000 daN/m2):the reference                       he/she is willing to buy;
+avalanche (figure 3).                                                 • using again the model, in order to determine the ef-
+• the avalanche obtained using the same input data than                 fects of this avalanche in the run-out zone.Figure 6 :
+    the reference avalanche except the snow height is in-               avalanche obtained using the same input data than the
+    creased of 30% (figure 4).                                          reference avalanche but with an extension of the start-
+• the avalanche obtained using the same input data than                 ing zone
+    the reference avalanche but with an extension of the
+    starting zone (figure 5)                                          4. CONCLUSION
+   In this example are to be found all the steps considered           The different steps of the development of a numerical
+as necessary, depending from French experience, to set                model were shown. We have succinctly recalled the
+up a comprehensive .dialogue between the scientist, the               principles and the physical laws that were used. The
+consultant and the chent :                                            different numerical resolution steps and the phase of
+• investigating the conditions of the event, Le. initial con-         validation using laboratory measures were detailed. Fi-
+    ditions and destruction effects (consultant);                     nally we have presented an application case in which
+• doing historical research on the same site (consultant);            the model allow to determine the extensions of a pow-
+• using the model as a tool find one or several possible              der snow avalanche. A suitable use ofthis type of model
+    scenarios relating the two sets of conditions mentioned           can allow to build a plausible image of an avalanche. It
+    in the first item (scientist);                                    also offers the possibility to present a better coherence
+                                                                      between the production conditions and the effects pro-
+                                                                      duced by the resulting avalanche.
+
+                                                                      REFERENCES
+                                                                      BeghinP., 1979, Etude des bouffees bidimensionnelles de densite
+                                                                      en ecoulement sur pente avec application aux avalanches de
+                                                                      neige poudreuse - Grenoble: Universite Joseph Fourier, (These
+                                                                      de doctorat).
+                                                                      Naaim M., 1995, Modelisation numerique des avalanches
+                                                                      aerosols, Houille Blanche, Revue Internationale de l'eau, N:5/6
+                                                                      1995, pp:56-62.
+                                                                      Naaim M, Martinez H, 1996, Simulacion fisica y numerica de
+                                                                      las avalanchas de nieve en Francia, Geogaceta, 20 (6), pp: 1375-
+                                                                      1376.
+
+
+
+
+     0.0       40.0      80.0       120.0     160.0      200.0
+   Figure 5 : avalanche obtained U&ing the same input data than the
+   reference avalanche but with an extension of the starting zone
+
+                                                                                                                                 243
+

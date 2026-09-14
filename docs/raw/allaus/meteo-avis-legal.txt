@@ -1,0 +1,121 @@
+FORA_DEL_CORPUS
+Font: Servei Meteorològic Nacional; https://www.meteo.ad/legal
+Consulta: 2026-09-13. Registre meteo-ad.md. Sense datasets.
+
+Meteo.ad. Servei Meteorològic Nacional.
+Menu
+Servei Meteorològic Nacional. Meteo.ad
+Servei Meteorològic Nacional
+CA
+ES
+FR
+EN
+Inici
+Qui som
+Presentació
+Missió i Funcions bàsiques
+Història
+Previsió meteorològica
+Avisos meteorològics
+Butlletí d’allaus
+Climatologia
+Estacions meteorològiques
+Climatologia
+Butlletins Climàtics
+Divulgació
+Enllaços
+Neu i allaus
+Meteorologia
+Publicacions de l'SMN
+Xarxa Observadors
+Serveis
+Àrea privada
+Json
+Ginys
+Contacte
+Avís Legal
+La web de la Meteo del Ministeri d’Economia és una web de titularitat  del Govern d’Andorra.
+L’accés a la web del Ministeri d’Economia del Govern  d’Andorra i a la informació continguda comporta l’acceptació de les condicions  previstes en aquest avís legal. Per aquest motiu, li recomanem que llegeixi  atentament el contingut d’aquest avís si vol accedir i utilitzar la informació  i els serveis que s’ofereixen des de la web del Ministeri d’Economia.
+L’usuari, per mitjà de les diverses àrees que formen  part de la pàgina web, pot visitar, obtenir informació, utilitzar una sèrie  d’aplicacions, adreçar sol·licituds o comunicacions.
+La informació continguda en aquesta web ha estat  elaborada i supervisada pel Ministeri d’Economia del Govern d’Andorra. La  bústia de contacte de la web té caràcter merament informatiu, sense que, en cap  cas, puguin derivar-se responsabilitats jurídiques vinculants en cas de  resposta.
+Política de privacitat
+El Govern d’Andorra es compromet a protegir la vostra privadesa i desenvolupar la tecnologia que us proporcioni l’experiència més segura al web i a l’aplicació. Aquesta declaració de privadesa és vàlida per aquest web i aplicació, i regula la recollida i l’ús de dades
+Accepteu les polítiques de privacitat i consentiu les pràctiques descrites en aquesta declaració.
+Qui és el responsable de les dades?
+Us informem que qualsevol dada personal que faciliteu a través d’aquesta aplicació serà tractada pel Govern en qualitat de responsable del tractament. El Govern és el titular d’aquesta aplicació.
+Quines dades recollim?
+En compliment del que requereix la Llei 29/2021, del 28 d’octubre, qualificada de protecció de dades personals (en endavant, “LQDP”) i els reglaments que la desenvolupen, s’informa els usuaris d’aquests llocs web de les dades que es recullen (dades introduïdes al formulari per l´usuari i dades automàtiques (galetes) pel tractament estadístic).
+La visita a aquesta aplicació no implica que l’usuari faciliti dades personals. Les dades que, si escau, siguin facilitades pels usuaris podran ser tractades pel Govern com a responsable del tractament, i seran en tot moment conservades i tractades en territori andorrà.?
+Quan per recaptar aquestes dades de caràcter personal s’utilitzin formularis, la identificació de l’usuari s’entendrà que és correcta, ja que és el mateix usuari qui, voluntàriament, introdueix les dades en els formularis disponibles en els nostres llocs web i en l’aplicació.??
+S’indicarà el caràcter voluntari o obligatori dels camps o respostes que s’han d’emplenar amb un asterisc (*). Negar-se a proporcionar les dades qualificades com a obligatòries suposarà la no prestació del servei o informació sol·licitada. Així mateix, podran facilitar-se dades de manera voluntària amb la finalitat de prestar de la millor manera possible el servei demanat o la informació sol·licitada.?
+A part de les dades facilitades per l’usuari, el Govern recopilarà dades de connexió i de navegació mitjançant galetes o altres eines.?Trobareu una explicació exhaustiva d’aquestes galetes en l’enllaç següent. Galetes
+Amb quina finalitat tractem les vostres dades?
+El Govern podrà tractar les vostres dades personals per a les finalitats descrites a continuació, sempre que en consentiu una part o la totalitat: Enviament d’informació i alertes
+Tractarem les vostres dades personals per a les finalitats següents:?
+FINALITAT
++ informació
+1. Per atendre les sol·licituds o peticions que feu a través del canal de contacte.
+Només tractem les dades personals que siguin estrictament necessàries per gestionar o resoldre la vostra sol·licitud o petició.
+2. Anàlisi d’usabilitat i de qualitat per millorar la navegació.
+Si accediu als llocs web o a les aplicacions, us informem que tractarem les vostres dades de navegació per a finalitats analítiques i estadístiques, és a dir, per entendre la forma en la qual els usuaris interactuen amb el web i l’aplicació i així ser capaços d’introduir-hi millores, i per atendre els suggeriments de millora que com a usuari pugueu remetre’ns.??
+* Les caselles no podran estar premarcades i serà l’usuari qui decidirà consentir de forma lliure, específica i informada totes o una part d’aquestes finalitats.
+Quant de temps es conservaran les meves dades?
+El Govern conservarà les vostres dades personals el temps necessari per a les finalitats descrites més amunt. En cas que hi hagi una legislació que obligui el Govern a conservar les vostres dades personals, el Govern les conservarà durant el dit període addicional, però seran bloquejades i només es tractaran per garantir-ne la conservació. Finalitzats aquests terminis, les dades personals se suprimiran.
+A qui passarem les vostres dades?
+Per norma general, les vostres dades no es passaran a tercers si no comptem amb el vostre consentiment exprés per fer-ho.
+Per aconseguir les finalitats esmentades anteriorment, i només quan sigui necessari, les vostres dades personals es poden transmetre a:
+1. Encarregats de tractament del Govern que hagin de processar les vostres dades personals en relació amb la finalitat que es tracti, cosa que faran segons les instruccions d’aquesta entitat i de conformitat amb la política de privacitat i qualsevol mesura de seguretat i de confidencialitat apropiada que estableixi el Govern.
+2. Administracions públiques competents, en els casos que preveu la Llei i per a les finalitats que s’hi defineixin.
+Passarem les vostres dades a països fora d’Andorra?
+Les dades estaran a Andorra. Si per necessitats del servei hi ha dades que hagin de sortir d’Andorra, es tractaran des de països de la UE que garanteixen un nivell adequat de protecció.
+En cas que es transmetin dades a països que no garanteixen un nivell adequat de protecció, convindrà especificar aquí els riscos que això comporta.
+De quins drets disposeu?
+En compliment de l’LQPD i els seus reglaments de desenvolupament, el Govern us informa que disposeu dels drets d’accés, rectificació, supressió i oposició de les vostres dades personals, reconeguts en la normativa esmentada. Per exercir-los, haureu d’enviar una comunicació escrita i signada a l’adreça de correu electrònic dpd.anc@govern.ad, a la qual haureu d’adjuntar una còpia del vostre passaport o un altre document nacional d’identitat.
+Davant de qualsevol vulneració dels vostres drets, especialment quan no hàgiu obtingut satisfacció en el vostre exercici, podeu presentar una reclamació davant l’Agència Andorrana de Protecció de Dades.
+Podeu retirar el consentiment?
+El GOVERN informa l’usuari que té els següents drets derivats de la normativa aplicable:
+1. El dret d’accés a les seves dades personals per saber quines són objecte de tractament i les operacions de tractament portades a terme amb aquestes dades.?
+2. El dret de rectificació de qualsevol dada personal inexacta o incompleta. De totes formes, informem que, en facilitar-nos activament les seves dades personals per qualsevol via, garanteix que són certes i exactes i es compromet a notificar-nos qualsevol canvi o modificació. Qualsevol pèrdua o mal causat al lloc web, a l’aplicació o al responsable del tractament o a qualsevol tercer per motiu d’una comunicació d’informació errònia, inexacta o incompleta en els formularis i canals de contacte, serà responsabilitat exclusiva de l’usuari. Si us plau, recordeu que per regla general només heu de facilitar-nos les vostres pròpies dades personals, no les de tercers.? El dret de supressió de les dades personals, i així deixar de tractar-les, en la mesura que ja no siguin necessàries per a les finalitats per a les quals necessitem tractar-les segons hem informat més amunt, o en què ja no comptem amb legitimació per fer-ho, tret que hi hagi l’obligació legal de conservar-les o no prevalguin altres motius legítims per tractar-les per part de la fundació.?
+3. El dret a sol·licitar la limitació del tractament de les seves dades personals, la qual cosa suposa que en determinats casos pugui sol·licitar-nos que suspenguem temporalment el tractament de les dades o que les conservem més enllà del temps necessari quan pugui necessitar-ho.?
+4. I, addicionalment, quan el tractament de les seves dades estigui basat en el seu interès legítim, també tindrà dret d’oposició al tractament de les dades.??
+Amb quines mesures de seguretat protegirem les vostres dades?
+El Govern us garanteix que el tractament que portarà a terme de les vostres dades personals està sotmès al deure de confidencialitat més estricte, i que s’han establert les mesures necessàries, tant tècniques com organitzatives, per garantir la seguretat de les vostres dades personals i evitar-ne l’alteració, el mal ús, la pèrdua, el robatori i el tractament o l’accés no autoritzat.
+Possibles canvis en la política de privacitat
+El Govern es reserva el dret de modificar aquesta política de privacitat per adaptar-la a futures novetats legislatives o jurisprudencials, així com per a futurs usos que es poguessin fer de les dades personals dels usuaris dels llocs web i aplicacions.??
+En cas que ho fem, us ho notificarem per diverses vies, com per exemple mitjançant correu electrònic. En qualsevol cas, us suggerim que reviseu aquesta política de privacitat de tant en tant per si hi hagués canvis menors o per si hi introduïm alguna millora interactiva, aprofitant que sempre la trobareu com a punt permanent d’informació en els nostres llocs web i plicacions.?
+Política de cookies
+Les galetes constitueixen una eina usada pels servidors web per emmagatzemar i recuperar informació sobre els visitants. Les galetes són petits arxius de text que s’envien a l’ordinador, tauleta o qualsevol altre dispositiu que permeti navegar per Internet quan accediu a determinats llocs web. Les galetes permeten, entre altres coses, mantenir un registre sobre els vostres hàbits de navegació o del vostre equip i les vostres preferències, i recordar-les quan hi torneu a accedir.
+El Govern utilitza galetes per facilitar la navegació pel lloc web i per l’aplicació, i per obtenir més eficàcia i personalització dels serveis que us oferim. Les galetes de personalització utilitzades permeten emmagatzemar informació sobre les vostres preferències i l’idioma, entre altres dades, amb la finalitat de mostrar-vos continguts i ofertes que tinguin un interès especial per a vosaltres.?
+Segons el termini en què estan activades en l’equip de l’usuari, distingim entre:
+1. Galetes de sessió: són un tipus de galetes dissenyades per recaptar i emmagatzemar dades mentre l’usuari accedeix a un lloc web, i romanen a l’equip durant la visita (per exemple, fins que l’usuari tanca el navegador i finalitza la visita).
+2. Galetes persistents: són un tipus de galetes en què les dades segueixen emmagatzemades al terminal i el responsable de les galetes hi pot accedir i les pot tractar durant un període definit, que pot anar d’uns minuts a diversos anys.
+Segons la finalitat per a la qual es tractin les dades obtingudes a través de les galetes, distingim entre:
+1. Galetes tècniques o necessàries: són les que permeten a l’usuari la navegació a través d’un lloc web, una plataforma o una aplicació i la utilització de les diverses opcions o serveis que hi hagi, com per exemple controlar el trànsit i la comunicació de dades, identificar la sessió, accedir a parts d’accés restringit, recordar els elements que integren una comanda, dur a terme el procés de compra d’una comanda, fer la sol·licitud d’inscripció o participació en un esdeveniment, utilitzar elements de seguretat durant la navegació, emmagatzemar continguts per difondre vídeos o so o compartir continguts a través de xarxes socials.
+2. Galetes de personalització: les galetes de personalització són les que permeten recordar informació perquè l’usuari accedeixi al servei amb unes determinades característiques que poden diferenciar la seva experiència de la d’altres usuaris, com per exemple l’idioma, el nombre de resultats que es mostren quan l’usuari fa una cerca, l’aspecte o el contingut del servei en funció de la mena de navegador a través del qual l’usuari accedeix al servei o de la regió des de la qual accedeix al servei, etc.?Aquestes galetes no tenen l’objectiu d’identificar l’usuari, sinó que, si l’usuari en consent l’ús, la informació que recolliran s’utilitzarà únicament per a treballs de millora del disseny de les pàgines i de navegació pel lloc web i per l’aplicació, les estadístiques d’ús, la velocitat de les cerques, el mesurament de l’activitat del lloc web i de l’aplicació, etc.?
+3. Galetes d’estadística (tercers): les galetes d’estadística són totes les galetes que permeten al Govern entendre com l’usuari interactua amb aquest lloc web i amb aquesta l’aplicació mitjançant la recollida i la comunicació d’informació de forma anònima. Per tant, la informació recollida mitjançant aquest tipus de galetes s’utilitza per mesurar l’activitat d’aquest lloc web i de l’aplicació, així com per elaborar perfils de navegació dels usuaris d’aquest lloc web i de l’aplicació, amb la finalitat d’introduir-hi millores en funció de l’anàlisi de les dades relacionades amb la utilització que fan els usuaris del servei.?
+Qui utilitza la informació emmagatzemada en les galetes??
+La informació emmagatzemada en les galetes del nostre lloc web i de l’aplicació només la utilitzem nosaltres, a excepció de les que s’identifiquen com a galetes de tercers, que les utilitzen i gestionen entitats externes per proporcionar serveis adreçats a millorar els nostres serveis i l’experiència de l’usuari en navegar pel web i per l’aplicació.
+Com puc modificar la configuració sobre les galetes?
+Com que les galetes que apliquem són, amb caràcter general, per a tots els usuaris del lloc web, en el cas que vulgueu modificar-les podreu:?
+Configurar les galetes a través del botó flotant a la zona inferior dreta de la pantalla.?
+L’usuari pot permetre bloquejar o eliminar les galetes instal·lades a l’equip mitjançant la configuració de les opcions del navegador instal·lat a l’ordinador
+Internet Explorer™:?Versió 9?|?Versió 10?|?Versió 11
+Safari™:?Safari™ 5 y 6?|?Safari™ 7?|?Safari™ 8
+Ajustos a iPhone, iPad o iPod:?enllaç
+Chrome™:?enllaç
+Firefox™:?enllaç
+Opera™:?enllaç
+Android:?enllaç
+Windows Phone:?enllaç
+A més, l’usuari també pot gestionar el magatzem de galetes del navegador i la desactivació a través d’eines com:
+Ghostery:?www.ghostery.com
+Your Online Choices:?www.youronlinechoices.com/es/
+Inici
+Presentació
+Previsió meteorològica
+Butlletí d’allaus
+Climatologia
+Estacions meteorològiques
+Enllaços
+Contacte
+Avís Legal

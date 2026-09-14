@@ -1,0 +1,43 @@
+FORA_DEL_CORPUS
+Font: Servei Meteorològic Nacional, Govern d’Andorra.
+URL: https://www.meteo.ad/uploads/neu/estatNeu1675.pdf
+Consulta: 2026-09-13. Emissió declarada: 16-07-2026 13:56.
+Drets pendents; no datasets. pdftotext -layout; dos renders vistos, imatges al PDF.
+
+Elaborat el 16/07/2026 13:56
+Propera actualització 01/12/2026 a les 16h
+
+
+
+                     Problema Vessants Mida Sobrecàrrega Tendència
+
+
+
+
+                     Problema Vessants Mida Sobrecàrrega Tendència
+
+
+
+
+                     Problema Vessants Mida Sobrecàrrega Tendència
+
+
+
+
+ESTABILITAT DEL MANTELL NIVAL
+La publicació regular de butlletins d’allaus amb mapa del perill d’allaus es reprendrà a principis de desembre, segons la situació de neu.
+
+
+
+QUALITAT DE LA NEU
+
+
+GRUIXOS DEL MANTELL NIVAL FORA DE PISTA
+
+   Zona nord           Gruix neu                       Zona centre        Gruix neu                       Zona sud            Gruix neu
+   Mantell Nival       1500m     2000m       2500m     Mantell Nival      1500m 2000m          2500m      Mantell Nival       1500m     2000m   2500m
+   N    2900 m         0 cm      0 cm        0 cm      N    2900 m        0 cm       0 cm      0 cm       N     2900 m        0 cm      0 cm    0 cm
+   S    2900 m         0 cm      0 cm        0 cm      S    2900 m        0 cm       0 cm      0 cm       S     2900 m        0 cm      0 cm    0 cm
+Gruixos de neu nova dels darrers dies (de les últimes 24h mesurat a les 06:00h UTC)
+    12/07/2026                   13/07/2026                  14/07/2026               15/07/2026
+

@@ -1,0 +1,949 @@
+           geosciences
+Article
+The Avalanche of Les Fonts d’Arinsal (Andorra):
+An Example of a Pure Powder, Dry Snow Avalanche
+Glòria Furdada 1, * , Aina Margalef 2 , Laura Trapero 2 , Marc Pons 2 , Francesc Areny 3 ,
+Margaret Baró 4 , Albert Reyes 5 and Marta Guinau 1
+ 1    RISKNAT Research Group, Geomodels Institute, Department of Earth and Ocean Dynamics, University of
+      Barcelona, 08028 Barcelona, Spain; mguinau@ub.edu
+ 2    Snow and Mountain Research Centre of Andorra (CENMA-IEA), AD600 Sant Julià de Lòria, Andorra;
+      amargalef@iea.ad (A.M.); ltrapero@iea.ad (L.T.); mpons@iea.ad (M.P.)
+ 3    Department of Industry and Transport, Ministry of Economy, Andorra Government (until 2006), c/Prat de la
+      Creu 62–64, AD500 Andorra la Vella, Andorra; panxo@andorra.ad
+ 4    ASI Consultants (until 2003), Camí de l’Església Cs Joan PB-1, AD300 Anyós, Andorra;
+      baromargaret@gmail.com
+ 5    Camp de Neu Ordino-Arcalís, Grandvalira Resorts, AD300 El Serrat, Andorra; areyes@ordinoarcalis.com
+ *    Correspondence: gloria.furdada@ub.edu
+                                                                                                      
+ Received: 31 January 2020; Accepted: 27 March 2020; Published: 31 March 2020                         
+
+
+ Abstract: On 8th February 1996, in the north-western part of Andorra in the Pyrenees, the Les
+ Fonts d’Arinsal (LFd’A) pure powder avalanche was triggered, descending some 1200 m to the
+ bottom of the Arinsal valley and continuing up the opposite slope for about 200 m. This size 4–5
+ avalanche reached velocities of up to 80 ms−1 , devastated 18 ha of forest, involved a minimum
+ volume of up to 1.8 × 106 m−3 and caused major damage to eight buildings. Fortunately, no one
+ was injured thanks to an evacuation, but 322 people lost their properties. This study describes
+ the physical characteristics of the LFd’A avalanche path and provides data on earlier avalanches,
+ the meteorological synoptic situation and snowpack conditions that generated the avalanche episode,
+ the warning and preventive actions carried out, the effects and evidence of the large avalanche,
+ and the defence system implemented afterwards. A discussion of the avalanche dynamics based on
+ observations and damage, including the role of snow entrainment, the total lack of characteristic dense
+ flow deposits, as well as the evidence of a two-phase flow (fluidisation and suspension), is presented.
+ This case study is an example of a paradigmatic large, pure powder, dry-snow avalanche, which will
+ be useful for model calibration.
+
+ Keywords: snow avalanches; powder snow avalanche; field observations; snow entrainment;
+ case study; Pyrenees
+
+
+
+
+1. Introduction
+     The winter of 1995 to 1996 was unusually intense in the Pyrenees. Six heavy snowfall episodes
+extended over two thirds of the length of the mountain range, from the Central Pyrenees in
+Aragon [1], across Andorra [2,3], to the Eastern Catalan Pyrenees [4,5]. In the Catalan area of the range,
+from December 1995 to March 1996, the snowfalls doubled and even tripled the means calculated over a
+period of thirty years at half a dozen observatories, and the avalanche situation of 1996 was considered
+the most catastrophic of the second half of the 20th century [4]. Furthermore, the episodes of 22nd
+to 23rd January and 6th to 8th February attained the highest Major Avalanche Activity Magnitude
+Index values ever recorded (this index records quantification of the magnitude of episodes during
+which major avalanche events have occurred [6]). In Andorra, on 8th February 1996, large avalanches
+
+
+Geosciences 2020, 10, 126; doi:10.3390/geosciences10040126                    www.mdpi.com/journal/geosciences
+Geosciences 2020, 10, 126                                                                          2 of 26
+
+
+
+occurred on the slopes of the Valira del Nord valley, including Arinsal and the Casamanya peak; in the
+Madriu and Valira d’Orient valleys, including the Incles, Ransol, Vall del Riu and Montaup valleys [7,8]
+and above Andorra la Vella [9]. The day before, 7th February, the snowstorm halted traffic on all roads
+in the high valleys of Andorra; not even snowploughs could operate. The villages of El Serrat, Soldeu
+and Canillo were isolated and some recently built residential complexes were evacuated. Traffic was
+prohibited on all access roads to ski resorts [2].
+      At the time, two different institutions were jointly responsible for nivometeorological monitoring
+and avalanche control in Andorra. The Meteorological Service of the government’s Department of
+Industry under the leadership of Francesc Areny was in charge of snow and meteorological observations.
+The firm ASI consultants was the government contractor for avalanche control and maintenance of
+roads and infrastructures, and Arinsal was one of their control points. Margaret Baró, an employee of
+ASI at that time, had been in contact with the authorities at the “Comú (municipality) de la Massana”,
+which was administratively responsible for Arinsal. Aware of the potential risk posed by the situation,
+especially after the artificial release of several large avalanches on 6th and 7th February and a few
+natural releases on the night of the 7th to the 8th [7], she alerted the Comú at 8:00 a.m. and urged them
+to evacuate the area. Simultaneously, Areny informed the minister in charge of territorial planning of
+the situation and of the need for urgent intervention to avoid fatal consequences. These alerts led the
+national and local authorities and the police to close the road at 8:30 a.m. on 8th February to prevent
+more people accessing the area at risk. Just one hour later, around 9:30 a.m., the Percanela avalanche
+released and cut off the access road to the Arinsal ski resort, leaving a 4 m thick snow deposit on
+the road [2,8]. The 322 people who at that time were in the hotels, residential buildings and at the
+bottom of the ski resort facilities had to be urgently evacuated; however, the avalanche deposit blocked
+the only evacuation road available, complicating any rapid intervention before a possible second
+avalanche, while the rescue teams had to probe the area looking for potential victims buried under the
+snow. As well as ensuring that no victims were buried, the rescue teams had to look for evacuation
+alternatives through the buildings and the paths above and between them. Finally, 11 buildings were
+evacuated via the deposit above the main road and via buildings located at the side. All areas had
+been successfully vacated by around 5:30 p.m, after several hours of effort. Only an hour and a half
+later, at 7:00 p.m. on 8th February, the Les Fonts d’Arinsal (LFd’A) powder avalanche was triggered,
+descending to the bottom of the Arinsal valley and continuing up the opposite slope, devastating the
+forest and causing major damage to eight buildings (Figure 1). Thanks to the evacuation, no one was
+injured, but 322 people lost their properties.
+      The avalanche event at LFd’A on 8th February 1996 was a paradigmatic case of a pure powder,
+dry snow avalanche. The main aim of this study is to provide an updated compendium of published
+and unpublished data about this event with a view to exploiting it as an interesting example for
+model calibration.
+Geosciences 2020, 10, 126                                                                                   3 of 26
+
+
+
+
+      Figure 1. Geographical location of the study area: (A) location of the Pyrenees and Andorra in Europe;
+      (B) location of the area of interest in Andorra; (C) locations of Les Fonts d’Arinsal-Torrent del Ribal
+      (LFd’A) and Percanela-Costa de l’Avier avalanche paths, Arinsal village, the tourist complex and ski
+      resort and the location of the snow profile on 10th February, 1996, marked with a red star.
+
+     In the following sections, we describe the physical characteristics of the LFd’A avalanche path,
+present a summary of data on earlier avalanches, and report on the meteorological synoptic situation
+and snowpack conditions that generated the avalanche episode. We also review the warning and
+preventive actions carried out, the effects and evidence of the large powder avalanche, and the defence
+system implemented afterwards.
+
+2. The Site
+     The village of Arinsal is located in the heart of the valley of the same name, in the north-west
+of Andorra. Access to the village is via the CG-5 road and also to the tourist complex of hotels and
+apartments just upstream and the entrance to the Arinsal ski resort with its facilities: a car park,
+the CS-520 Comallempla road that goes up to the ski resort and the cable car (a chairlift in 1996) which
+also ascends to the resort. The Arinsal valley lies on a north-west-to-south-east axis. The LFd’A and
+Geosciences 2020, 10, 126                                                                                        4 of 26
+
+
+
+Percanela avalanche paths are on the left margin, on the south-south-west-facing slope (Figure 1).
+By convention, the following path descriptions (starting, track and run-out zones) refer to the paths as
+a whole [10].
+     The LFd’A avalanche path reached its maximum altitude at pic de les Fonts (2749 m), descending
+1200 m through the Clotada de les Fonts cirque and Torrent Ribal stream until its confluence with
+the Arinsal river at the valley bottom (1543 m a.s.l.), crossing it and continuing on to the opposite
+slope for about 200 m, where it reached a height of more than 50 m above the river crossing (Figure 1).
+As the entire ridge lies above 2560 m a.s.l., there is a permanent snowpack in the catchment area during
+the winter months. Meadow covers the area from 2150 m a.s.l. to the crest. Below, pine forests and
+bushes predominate down to the bottom of the valley, which is occupied by pastures and infrastructure
+(Figure 2). The area of the basin, extending to the channel of the Torrent Ribal and corresponding to an
+ancient glacial cirque, covers about 136 ha, with a vertical drop of more than 700 m of and a 1850 m
+long path. The slope angle in the highest part of the basin exceeds 30◦ , reaching values up to 50◦ in the
+western part and 45◦ in the east (Figure 3). The combination of these slope values and the presence of
+the alpine meadow makes the basin a perfect potential avalanche release area when the snowpack
+conditions are appropriate. Most of the frequent avalanches stop at the bottom of the cirque (from 2300
+to 2100 m a.s.l.), where the slope levels out to values of about 14◦ . The main avalanche track zone,
+the Torrent Ribal stream, is 1000 m long and has a vertical drop of 450 m. In the upper part of the
+channel, the slope ranges from 30◦ to 40◦ , while in the lower half it increases to between 35◦ and 47◦
+and ends in a waterfall. The run-out zone starts at a well-defined slope break at 1600 m a.s.l., where
+the slope decreases abruptly from values of over 40◦ in the channel to a much gentler area of less than
+20◦ and often about 12◦ , crossing the river and continuing upstream for about 200 m, where the slope
+increases again to more than 30◦ .
+
+
+
+
+      Figure 2. Orthophotographs covering the track and run-out zones of the avalanche paths of LFd’A
+      (west red contour) and Percanela (east red contour) (Coordinates: NFT (Paris) Lambert South France,
+      EPSG 27563). Changes in vegetation in the track zone, especially forest density, can be clearly seen
+      mostly due to avalanche activity: (A) in 1948, after an avalanche that occurred earlier in the decade);
+      (B) in 1995, with the regenerated forest, just before the 1996 avalanche; (C) in 2012, showing the effects
+      of the 1996 avalanche on vegetation. Yellow dots and numbers indicate the approximate run-out of the
+      historical avalanches: (1) the reach of the wet avalanche in the early 1940s; (2) the reach of the avalanche
+      that occurred between the first avalanche and the last one in the 1960s; (3) the minimum run-out of the
+      last avalanche in the 1960s; (4) the reach of the 2015 wet avalanche.
+Geosciences 2020, 10, 126                                                                            5 of 26
+
+
+
+
+      Figure 3. (A) Main wind direction and wind-drifted snow accumulation zones during the snowfall
+      episode in the LFd’A avalanche path on a slope map. (B) Avalanche path profile indicated in (A).
+Geosciences 2020, 10, 126                                                                              6 of 26
+
+
+
+      The Percanela avalanche path descends through Costa de l’Avier and presents a vertical drop of
+940 m from its highest point, at 2460 m a.s.l., down to the valley bottom, located at about 1500 m a.s.l.
+The slopes are much more regular, with values of 30◦ to 35◦ in the starting zone, which was partially
+covered by some isolated trees and bushes prior to the 1996 avalanche, and decreasing to values of
+between 30◦ and 25◦ in the first half of the track zone that runs through the Costa de l’Avier channel,
+previously completely tree-covered (Figure 2B). The channel drains to a relatively flat meadow, at about
+18◦ , which breaks the slope. After this flat area, the 1996 Percanela avalanche split into two steeper
+branches: the wider one, in the north, used the Torrent de Ribassols path to arrive at the valley bottom
+and then crossed the Arinsal river, while the narrower one, in the south, descended via the Canal de les
+Fonts in at a gradient of up to 42◦ and stopped at the opening of the channel, creating a small, narrow
+deposit (Figures 1 and 2). Together, they completely destroyed the forest (Figure 2).
+      The LFd’A avalanche path has a known history of avalanches reaching the floor of the valley.
+In the early 1940s a wet avalanche descended to the valley bottom and ran downstream for about
+150 m, as far as the Torrent de Ruïder, just in front of the current cable car station (Figure 1). The effects
+of this avalanche on the vegetation can be inferred from the lack of dense forest covering the track
+zone in the 1948 orthophotograph (Figure 2A). On another, undated occasion, the avalanche stopped
+at about 1600 m a.s.l., at the bottom of the waterfall of the Ribal stream. The largest known avalanche
+occurred in the late 1960s: the starting zone incorporated the whole cirque snowpack and the avalanche
+extended over the fields of the opposite slope, transporting a large number of trees into what is now a
+parking area. Moreover, during the construction of the parking lot in front of the Peu de Pistes building
+detritus from trees and trunks was found buried close to the chairlift station [2,8,11] (Figure 1).
+      In February 2015, a wet avalanche triggered by the Gazex®system (see Section 7) reached the
+valley bottom, continuing as far as the Arinsal river, without causing any damage. None of the
+previous events in the LFd’A path achieved the amplitude, extension and power of the avalanche of
+February 1996.
+
+3. Meteorological and Snowpack Conditions
+     Between 28th January and 8th February, two successive and well-differentiated meteorological
+episodes were recorded in the Pyrenees. This meteorological sequence contributed to form a snowpack
+with a high intrinsic instability that triggered many major avalanches in the Pyrenees [6,12], among
+them the Percanela and LFd’A, in Andorra. Previously, at the Arinsal ski resort (1927 m a.s.l.), from the
+beginning of the winter season until 21st January, a succession of precipitations had built up a height
+of snowpack which was, on average, slightly above the mean for the period between 1980 and 2016
+(Figure 4). From 22nd January, several snowfalls accumulated more than 0.85 m of new snow in Arinsal,
+and then a gradual drop in minimum temperature (−6 ◦ C on 26th January; Figure 5) completed the
+snowpack prior to these two episodes [13]. The snow–rain limit had fluctuated through the winter
+between 1500 and 2200 m a.s.l. and so, until that moment, the snowline had been strongly dependent
+on the aspect of the slope. The snowpack persisted in the Clotada de les Fonts cirque (Figure 1),
+but there was no snow along the main torrent (avalanche track zone) or in the valley bottom.
+Geosciences 2020, 10, 126                                                                                7 of 26
+
+
+
+
+      Figure 4. Blue polygon shows the daily snow depth (cm) data recorded at the manual weather station
+      in Arinsal ski resort (1927 m a.s.l.) during the winter season, from 1st November 1995 to 30th April
+      1996. Red, green and brown lines correspond, respectively, to the mean, 30% and 190% values of snow
+      depth (cm) for the 1980–2016 reference period. Gaps in the long-term daily snow depth series have
+      been reconstructed by means of the Safran–Crocus reanalyses generated within the framework of the
+      CLIMPY 2016-2019 project.
+
+
+
+
+      Figure 5. Snow depth (cm), new snow (cm) and minimum and maximum daily temperatures from
+      22nd January to 7th February 1996, observed at the manual weather station at the Arinsal ski resort
+      (1927 m a.s.l.).
+
+     The synoptic atmospheric situation and main characteristics of the two episodes are described
+as follows:
+
+3.1. Episode 1: Warm Melt–Freeze Period (28/1/1996–4/2/1996)
+     Between 28th January and 4th February, a stable atmosphere predominated over the Iberian
+Peninsula with relative anticyclonic conditions and weak geopotential gradient at high levels.
+This circulation pattern favoured weak SSE winds and the advection of a warm air mass up to
+the northern part of the Pyrenees. This winter period was characterized by mostly sunny days and
+Geosciences 2020, 10, 126                                                                             8 of 26
+
+
+
+mild temperatures. At high altitudes, above 1900 m a.s.l., temperatures reached positive values during
+sunlight hours, facilitating the snow melt, while subzero temperatures during the night froze the
+previously melted snow [4,13], as shown by the atmospheric weather observations at the Arinsal
+ski resort (Figure 5). This persistent melt–freeze process gave rise to the formation of a melt–freeze
+crust. During the events of 8th February, the crust acted as a bed surface of the avalanches in Costa de
+l’Avier-Percanela and in Clotada de Les Fonts-LFd’A cirque.
+
+3.2. Episode 2: Heavy Precipitation Period (5/2/1996–8/2/1996)
+      On 5th February, a low-pressure system located near Iceland was growing progressively deeper,
+while the Azores anticyclone remained stationary in its habitual position. This synoptic configuration
+favoured a NW circulation affecting the northern part of the Iberian Peninsula and allowed several cold
+frontal systems to cross over the Pyrenees up until the early morning of 8th February. The dominant
+northerly polar flow caused a sudden drop in temperature on 5th February, with a minimum of
+–10 ◦ C recorded at the Arinsal ski station (Figure 5). The snowfalls began on 6th February, at about
+5:00 a.m., accompanied by strong NW winds across the northern part of Andorra [7,14]. As shown
+in Figure 5, heavy snowfalls intensified with the crossing of a cold front on 7th February [4] and
+persisted throughout the episode, depositing fresh snow cumulatively in the valley bottoms, including
+Arinsal [13]. Although no wind observations were available at Arinsal, ASI consultants reported
+a strong snowstorm with NW winds and large snowdrifts on the east- and south-facing slopes all
+over Northern Andorra. On 6th and 7th February, there was no visibility over the LFd’A starting
+area, and the surveillance helicopter could not fly due to the strong blizzard [7]. Wind data were
+also reported from the automatic weather station at la Molina (2270 m a.s.l.), located on the southern
+slope of the Pyrenees, 40 km south-east of Arinsal. Instantaneous wind observations showed an
+increasing trend in the wind speed, from 20 km/h on 2nd February to more than 100 km/h on 8th
+February, with two peaks exceeding 160 km/h on 6th and 8th February and another 193 km/h on 7th
+February [4]. At the same time, a peak of 145 km/h was registered in Vaqueira-Beret (2500 m a.s.l.),
+45 km east-north-east of Arinsal [4]. The very strong NW winds extended from high atmospheric
+levels to the surface, as shown on the 850 hPa synoptic map, impinging perpendicular to the Pyrenees
+mountain ridge (Figure S1 in the Supplementary Materials), until about 4:00 p.m. on 7th February [7].
+The highly effective drifting snow process resulting from this situation led to major accumulations on
+SE facing slopes, as in the starting zone at la Clotada de les Fonts (Figures 1 and 3).
+      Integrating data from multiple sources and observations at altitudes between 1600 m a.s.l. and
+1800 m a.s.l. across Northern Andorra, the new snowpack was about 0.3 m deep on 6th February [7];
+on 7th February, at about 9:00 a.m., ASI consultants reported a total snowfall of about 0.5 m at
+2000 m a.s.l.; specifically, 0.47 m of new snow at the Arinsal ski resort (1927 m a.s.l.), 0.5 m and 0.7 m at
+Soldeu ski resort (~2000 m a.s.l.), 0.4 m at Grau Roig and 0.5 m at Pas de la Casa (different altitudes),
+respectively [7]. As a rough estimation for the northern part of Andorra, from the morning of the 6th
+February to the evening of the 7th (at about 9:00 p.m.), ASI reported an approximate snowfall of about
+1.5 m to 2 m at 2500 m a.s.l., stressing the difficulty of obtaining a more precise calculation due to the
+strong winds and snowdrifts. At the Arinsal ski resort, from 4th to 10th February, the snowpack height
+was reported to have increased from 1.64 m to 2.57 m, although no measurements were taken between
+the afternoon of 7th February and 9th February because the ski station was closed; the last observation
+was made two days after the avalanches and the cessation of the snowfalls, when the thickness had
+reduced to some extent due to settlement. The Les Fonts starting zone ranges from 2748 m a.s.l. to
+approx. 2050 m a.s.l.: therefore, as ASI had estimated, the fresh, cold, drifted snowpack must have
+been thicker.
+      On 6th February, the temperatures at about 2000 m a.s.l. at various locations in Andorra were
+between −1 ◦ C and −9 ◦ C and fell to between –8 ◦ C and −10 ◦ C on 7th February. According to radiosonde
+data from Nîmes, Bordeaux and La Palma, the temperatures at 700 hPa (approx. 3000 m a.s.l.) were
+Geosciences 2020, 10, 126                                                                             9 of 26
+
+
+
+between −10 ◦ C and −13 ◦ C [7]. The result was a new, very cold and light snowpack deposited as far
+as the bottoms of the valleys of Northern Andorra, including Arinsal.
+      On 10th February, two days after the LFd’A avalanche, a snow profile was made by L. Rey and
+M. Baró (Figure 6) close to and above the crown scar, at 2650 m a.s.l., on a south-west facing slope
+(Figures 1 and 3). The snow thickness above the crust was 1.10 m and the snowpack temperatures
+ranged from −5.1 ◦ C to −9.1 ◦ C, after two days’ settlement. It was composed of a fine layer of a
+few centimetres of faceted grains, which might have formed either during the first episode, when a
+distinct temperature gradient generated near the crust might have produced a thin layer of near-surface
+faceted crystals, or during the beginning of the second episode, when the newly fallen snow might
+have been transformed due to the temperature gradient among the crust and the low atmospheric
+temperatures. Above this layer, there were rounded grains with some wind-broken and partly
+decomposed precipitation particles, with densities ranging from 210 kg/m3 to 370 kg/m3 . In summary,
+a snowpack thicker than 1 m of cold, new, wind-accumulated snow was lying on top of a weak layer of
+poorly bonded, faceted crystals, which in turn was lying over the melt–freeze crust developed during
+the previous warm period. Furthermore, it has to be pointed out that the slopes were covered with
+new snow right to the bottom of the valley (Figures 7 and 8), thus favouring the entrainment of snow
+all along the avalanche descent and feeding it.
+
+
+
+
+      Figure 6. Snowpack profile made by Laurent Rey, accompanied by Margaret Baró, at 9:40 a.m on 10th
+      February. See Figure 1 for location.
+Geosciences 2020, 10, 126                                                                                   10 of 26
+
+
+
+
+      Figure 7. Photographs taken from a helicopter the day after the avalanche (Dept. d’Indústria). (A) track
+      and run-out zones of Les Fonts (left) and Percanela (right) avalanches; the LFd’A avalanche entrained
+      the whole snowpack in the track zone, completely destroying the forest and partially eroding the soil;
+      (B) run-out zone view from downstream to upstream in the main valley; the main aerosol trajectory
+      direction can be observed in the plastered snow on the ground.
+Geosciences 2020, 10, 126                                                                                  11 of 26
+
+
+
+
+      Figure 8. Photographs of the avalanche showing (A) the LFd’A track zone after the pure powder
+      avalanche of 8th February 1996 (photo: A. Reyes); (B) the run-out zone, whose destructive limits can be
+      mostly mapped by observing the damaged forest (red dashed line) (photo: Dept. d’Indústria).
+Geosciences 2020, 10, 126                                                                          12 of 26
+
+
+
+4. The Avalanche, Its Effects and Damage
+      The LFd’A avalanche of 8th February descended about 1200 m. following a straight trajectory
+along the track zone (Figure 1, Figure 7A, Figure 8A), climbed up the opposite slope for about 200 m
+(Figures 1 and 7B) and then turned downstream towards Arinsal village for approximately 1 km
+(Figures 1 and 8B). It appeared as a dirt-brown cloud, accompanied by a loud noise that was heard
+all the way to the centre of the village, and was described as being “like a bomb”, at Mas Ribafeta,
+about 1500 m down the valley. The dominant winds during the snowfall blowing from the north and
+north-west eroded the snowpack on the slopes adjacent to the cirque ridge. Thus, the SE to SW basin
+orientation favoured overaccumulation of the drifted snow (Figure 3). The crown height of the released
+slab was estimated at between 1.1 and 1.5 m. The minimum snow volume released and involved in
+the avalanche ranged from 1.5 × 106 m3 (rapidly estimated by the experts in 1996) to 1.8 × 106 m3 ,
+according to release area drawings and a few helicopter observations made a couple of days after the
+avalanche and through GIS analysis. The whole cirque was considered as the starting zone for these
+estimations, as no stauchwall could be identified. Moreover, snow was entrained all along the track.
+In a rough estimation, the mass involved in the avalanche may have ranged from 300 × 106 m3 to
+550 × 106 m3 . The avalanche velocity was estimated by technical experts to be over 300 kmh−1 (or
+approximately 80 ms−1 ) [15].
+      The avalanche entrained the whole new snowpack down to the valley bottom, destroying
+18 hectares of forest and incorporating all the vegetation and portions of the soil along the track
+(Figure 7A, Figure 8A), where intact trees of about 50 years old and older trees with avalanche impact
+scars were uprooted and mixed into the flow [8]. Thus, the avalanche was composed of a mixture of
+snow, soil, small rocks, pine needles, fragments of branches and trunks.
+      The destructive avalanche flow affected an area of about 16 ha in the run-out, but the area affected
+by the strong, non-destructive aerosol blow went 1 km further downstream into the main valley
+(Figure 1). At about 1600 m a.s.l., at the beginning of the run-out zone where the slope angle abruptly
+decreases (Figure 3), the avalanche plastered the dirt snow against the snowpack and ground, leaving a
+very hard deposit of snow, earth and vegetation fragments, all less than 1 m thick (Figures 7–9, Table 1
+and Figure 10i,j,o,p) and with a roughly estimated mass of <50 × 106 m3 . This deposit represents
+between 10% and 15% of the avalanche mass. Locally, where the slopes present a greater leeward
+inclination, the snow was not plastered but entrained (Figures 9 and 10o,p). Between the Amadeus
+and Prat Sobirans buildings (Figure 9), the trees growing along the road and protruding over it were
+trimmed by the blow at the slope roadside height. At the valley bottom, the compact dirt snow deposit
+locally reached a maximum thickness of 6 m (Figure 9). A few days later, Dr. J. Becat mapped the
+avalanche and distinguished two zones: one with major destruction and deposits, and the other with
+evidence of shock wave and strong blow. His map is reproduced in [8]. The outer and inner limits of
+this map, modified and improved as shown in the Avalanche Cadastre of Andorra [16], are replicated
+here (Figures 1 and 9). It is confirmed that the inner limit corresponds to the zone with major damage,
+including forest destruction (Figure 8B) and the very hard deposits of plastered snow on the ground,
+and the outer limit corresponds to the area affected by the aerosol blow which threw people to the
+ground, displaced parked cars and also plastered up to 0.2 m of snow on the facades of the houses
+oriented upstream along the valley towards Arinsal [8], with snow that was not plastered on the
+ground but just deposited as snowfall. However, faint deposits of dirt snow, pine needles and small
+fragments of branches were found as far away as the Sant Gothard hotel, about 1750 m downstream
+the Arinsal valley and small pieces of furniture and appliances up to half way to the ski resort chairlift
+line (Figure 1). The main damage, as described below, and the referenced buildings and locations are
+summarised in Figures 9 and 10. Figures S2–S9 in the Supplementary Materials show several pictures
+taken from a helicopter.
+Geosciences 2020, 10, 126                                                                                     13 of 26
+
+
+
+
+      Figure 9. Map of the LFd’A avalanche run-out. In violet, the main zone with destruction; the purple
+      dotted plot area corresponds to the strong aerosol blow affected area, and the violet thick dotted line
+      the limit where dirt (pine needles and fragments of branches, small pieces of furniture, etc.) were found.
+      In purple arrows, the main trajectory of the avalanche. The numbers related to the red dots represent
+      the damage and evidence of elements displaced by the avalanche and are explained in Table 1.
+Geosciences 2020, 10, 126                      14 of 26
+
+
+
+
+                            Figure 10. Cont.
+Geosciences 2020, 10, 126                                                                                      15 of 26
+
+
+
+
+      Figure 10. Pictures of damage in the run-out zone: (a) Peu de Pistes (PdP) building with the roof lifted
+      and destroyed; (b) PdP building with the roof lifted and destroyed displaced backwards; (c) PdP and
+      Crest Hotel with plastered snow filling the ground floor; (d) PdP apartment with window glass broken;
+      (e) PdP apartment filled with dirt snow; (f) car smashed in front of PdP; (g) Crest Hotel roof skylights
+      burst; (h) van wrapped around a chairlift pylon; (i) Prat Sobirans (PS) buildings destroyed; (j) PS D
+      block with structural damage; (k) PS D block, top apartment, roof and partitions destroyed; (l) PS D
+      block, ground floor; (m) aerial view of the ski lift area, the bottom right-hand corner points to the Astra
+      complex; (n) Astra complex building in construction, protruding parts of the reinforced concrete’s iron
+      rods bent by the aerosol blow; (o) run-out slope, Velvet and Amadeus blocks; (p) Amadeus buildings.
+Geosciences 2020, 10, 126                                                                                         16 of 26
+
+
+
+      Table 1. Summary of the damage mapped in Figure 9 and related pictures in Figure 10 that illustrate
+      some of this damage, arranged by zones and groups of buildings.
+
+    Group of              Red                                                                              Related
+ Buildings/Zone         Points in                         Damage Reported                                Pictures in
+   in Figure 9          Figure 9                                                                          Figure 10
+   Peu de pistes            1       Roof lifted and displaced to the back of the building.                  a, b
+     building                       1st floor slab raised till the 2nd floor; snow with earth and
+                            2       pine debris and needles clogged the lower floors; window              c, d, e, f
+                                    glass blasted. Cars smashed in front and inside the building.
+  West of Peu de                    Furniture and appliances from Prat Sobirans apartments
+                            3
+  pistes building                   found.
+                                    Snow-clogged staircase and ground floors; roof skylights burst
+    Crest hotel             4                                                                               c, g
+                                    by the blow.
+                                    Structural damages to pillars; 2 floors destroyed at terrain
+   Prat Sobirans            5                                                                              i, j, k,l
+                                    level.
+    apartments
+                                    Doors and windows destroyed; fallen partitions; external
+                            6
+                                    damage to decorative elements.
+                                    Van rolled up to chairlift tower; car displaced to the roof of the
+ Chairlift station          7                                                                               h, m
+                                    chairlift station.
+     Amadeus                        Windows opened outwards and curtains hanging outside
+                            8                                                                               o, p
+    apartments                      (depression effect).
+  Astra complex                     Protruding parts of the reinforced concrete iron rods bent by
+                            9                                                                                 n
+  in construction                                         the aerosol blow.
+   Main road: St.
+                                    Police car displaced by the blow about 30 m along the road
+     Andreu                 10
+                                    until this point.
+    sanctuary
+                                    A holding on to the wall so as not to fall; he thought the
+   North-west               11      avalanche (not the LFd’A one) was coming from the east
+   Arinsal main                     facing slope.
+      village               12      Snow plastered on all the facades (no damage) (approx. 0.2 m).
+                            13      People walking in the street knocked over by the aerosol blast.
+
+
+      Mr. X. Siurana, a policeman who was patrolling the closed road on the afternoon of 8th February
+at the Sant Andreu Aparthotel level, explains that he was in a small 4 × 4 vehicle with his colleague
+when they heard a loud noise and saw a brown cloud behind them. Their vehicle was pushed by the
+blow and glided about 30 m along the road; covered in plastered snow, completely battered and with
+the wheels twisted, the 4x4 was a write-off, but the occupants were not injured [15] (Figure 9).
+      Eight of the eleven evacuated buildings were affected, to differing degrees (Figure 9). The hundreds
+of transported trees acted as battering rams [2]. The avalanche passed over the Amadeus apartment
+buildings, whose roofs had been designed and built as avalanche galleries [2] (Figure 10o,p). It caused
+minor damage to protruding ornamental features but produced a depression effect downwards:
+the windows were opened outwards (rather than inwards) and the curtains were found hanging
+outside; the snow entered and reached the second floor via the staircase [14].
+      The avalanche crossed the river and ran uphill, hitting the Peu de Pistes and the Crest Hotel
+(Figure 10c). It entered the Peu de Pistes building directly through the ground floor, lifted the entire
+first floor slab to the second floor, filling both levels with dirt snow (Figure 10e) (the slab descended
+slowly during the snow melt) [2], exiting through the sixth floor lifting part of the roof and displacing
+it to the back of the building and destroying the rest (Figure 10a,b) [15]. Most of the windows burst
+(Figure 10d) [2]. At the Crest Hotel, the avalanche also entered through the ground floor, clogged the
+ground floor and staircase and left by bursting the roof skylights (Figure 10g). In front of these two
+buildings, about 40 cars parked in the parking lot were smashed (Figure 10f), mostly by being crushed
+against the buildings; some even ended up inside the Peu de Pistes bar [14,15]. The smashed cars were
+Geosciences 2020, 10, 126                                                                           17 of 26
+
+
+
+filled with snow so hard that it was impossible to insert a knife into the deposits. A van was wrapped
+around a chairlift pylon (Figure 10h) and another car was lifted to the roof of the chairlift station [15].
+The compacted dirt snow deposit at the parking lot surpassed 4 m in height (consistent with the ground
+floor clogging of Peu de Pistes and Crest Hotel buildings). Due to its high density and hardness, it had
+to be removed mechanically by bulldozers. Further down, at the Astra complex buildings (now the
+Ribasol Residencial), under construction at that time, the protruding parts of the reinforced concrete’s
+iron rods were bent by the aerosol blow (Figure 10n). About 300 m downwards, a man gripped onto
+the wall of a house so as not to fall (Figure 9); he thought an avalanche (not the LFd’A event) was
+coming from the east-facing slope, thus confirming that the avalanche turned downwards towards the
+valley. Traces of the turn of the avalanche can be clearly observed in Figure 10m.
+      At the right margin of the run-out, the Prat Sobirans buildings were also hit (Figure 9). The worst
+affected was the six-floor block D, where the avalanche completely destroyed the two floors closest to the
+ground level, resulting in structural damage to the supporting pillars (Figure 10i,j,l) [15]. The avalanche
+entered and exited the building through the brick walls which did not resist (Figure 10i,j,l); however,
+some stone clad walls, not perpendicular to the flow, did resist [2,15]. Part of the roof was also
+destroyed (Figure 10i,k). Damaged household appliances and pieces of furniture were found up to the
+run-up at the opposite slope (Figure 9). Later, only the two lower floors were reconstructed, as they
+are below ground level and are protected by a new dike. In block C the doors and windows were
+destroyed, and the partitions fell (Figure 10i,m); in blocks A and B, there was only non-significant
+external damage to decorative features.
+      The devastation was extensive, and feelings of astonishment and anger were generalised among
+the population [15].
+
+5. Les Fonts d’Arinsal Avalanche Dynamics Derived from Observations and Damage
+      Powder snow avalanches (PSAs) like the LFd’A event may be hundreds of metres high and
+descend at high speeds of up to 100 ms−1 [17]. Fundamental information about their dynamics can be
+derived from the description and classification of the evidence of their effects and damage.
+      Firstly, the LFd’A avalanche of 8th February 1996 can be classified by its size, according to the
+Canadian system [10,18] and the system of the European Avalanche Warning Services [19]. Both describe
+five levels, based on the estimated potential destructive effects and other typical factors. In both
+classifications, LFd’A corresponds to somewhere between levels 4 and 5 (5 being extremely large),
+as it destroyed several buildings and 18 ha of forest. The released area involved a huge volume of
+snow. The run-out reached the valley floor, and it was the largest known avalanche along this path.
+This classification is consistent with the history of the path, where none of the previous avalanches
+achieved the amplitude, extension and power of the 1996 event (Figure 2).
+      In the literature, there is currently no unified view of the structure and behaviour of PSAs, even
+though great progress has been made in recent years [17] (and references therein). PSA videos reveal
+that they typically release across a wide slab; this was the case with the LFd’A avalanche, which
+released as a huge slab. PSAs then begin moving downslope as a dense flow; as the resulting slide
+descends, it grows, accelerates and gradually incorporates more material. When it reaches a certain
+speed, particles are launched on high ballistic trajectories while turbulent air eddies scour further
+material from the surface, thus turning the slide into a mixed PSA [17]. In well-developed PSAs with a
+well-developed snow dust cloud, an air blast can precede the avalanche [20].
+      Snowpack entrainment is fundamental to the dynamics of PSAs, because they decay once they can
+no longer entrain snow; their suspension density drops as they engulf air at the interface, the turbulence
+loses intensity and particles settle. This decline occurs mostly in a widening run-out zone or as soon
+as the erodible snow supply disappears [17,20,21]. PSAs typically involve dry, cohesionless snow.
+Because freshly deposited surface snow is cold, its ability to sinter is limited, and it may be brought
+into suspension more easily [17].
+Geosciences 2020, 10, 126                                                                             18 of 26
+
+
+
+      At the LFd’A avalanche path, the new, cold snowpack covered the entire slope and bottom of
+the valley. No measures or estimations of snow entrainment could be made, although the volume
+of new snow entrained must have been huge. In the cirque, it was impossible to distinguish the
+main released area from the area with entrained snow: no stauchwall observations were reported,
+nor could any be derived from the photographs. No secondary slab releases feeding the avalanche,
+as described by Köhler et al. [22], could be identified. Due to the quality of the snow and the angle
+of the slopes at the top of the path, between 40◦ and 45◦ , it is most likely that some small, dry snow
+avalanches descended to the bottom of the cirque on the two preceding days (6th and 7th February)
+and the deposits were entrained by the large avalanche of 8th February [7]. The released volume,
+estimated roughly, must have included the main cirque snowpack. Certainly, entrainment occurred all
+the way along the avalanche’s descent up to the slope rupture at the valley floor (1600 m a.s.l.) and
+even further downwards. Below the cirque, where no previous snowpack existed, visual observations
+corroborate that all the available new snow deposited since 6th February was entrained into the
+avalanche (Figure 7A, Figure 8A).
+      Along the main track zone, two features merit particular comment. The first is that the avalanche
+broke off and completely uprooted mature trees all the way along its track. The second is that the path
+steepens at its lower part (Figure 3), a circumstance that may have caused an increase in avalanche
+velocity counteracted by an increase of air incorporation along the dry waterfall area. Whatever
+the case, the avalanche reached the sharp, concave slope rupture, i.e., the run-out zone, at a very
+high velocity.
+      The avalanche then impacted against the ground due to the sudden decrease of the slope (Figure 3);
+this can be inferred from the very dense, dirt snow deposit in this area, which showed traces of the
+avalanche direction (from the orientation of the mineral contaminants such as soil and of the fragments
+of vegetation). This deposit was most likely formed partly from the existing snowpack, compressed by
+the avalanche air blast and impact (due to the abrupt slope reduction) and partly due to the avalanche
+snow plastered against the ground. Interestingly, there were only minimal deposits: only very hard
+snow on gentle slopes at the run-out (a few decimetres thick, up to the valley thalweg) and inside or
+around obstacles (houses and favourable terrain counter-slopes and depressions). A large part of the
+snow involved in the avalanche was dispersed and deposited as light snowfall across a very large area,
+or even sublimated.
+      Regarding avalanche structure and flow regimes, Gauer et al. [23] indicate that avalanche dynamics
+have traditionally distinguished into dense flow avalanches (DFAs) and powder snow avalanches
+(PSAs), but it has been recognised for a long time that dry snow avalanches are often not pure,
+but mixed-motion. Ancey [21] describes three zones in the structure of large, dry, mixed, aerosol
+avalanches: a rapid and dense zone, typically 1 to 3 m thick, which can generate impact pressures of
+up to 500 kPa; a less dense transition zone, typically ~5 m thick, which can produce significant impact
+pressures (50–100 kPa), and a very diluted zone, corresponding to the cloud, which can produce lower
+impact pressures (1–5 kPa). Gauer et al. [23] and Issler et al. [24], emphasising flow regimes, also describe
+a simplified structure of mixed, dry snow avalanches in three layers, as identified in 30 years of
+full-scale avalanche experiments in Canada [25], Japan [26], the USSR [27], and Europe [28,29]: a dense
+flowing core, a fluidised layer that develops ahead of and over the core (previously referred to as the
+saltation layer by Norem et al. [30] and Issler [31]), and a suspension cloud.
+      Sovilla et al. [17] describe dry PSAs. They suggest a more complex structure, with spatial
+transitions perpendicular and parallel to the slope dimensions. Their work, of undeniable value,
+compiles years of full-scale experiments at Vallée de la Sionne (VdlS) in Switzerland. They assert that a
+fast, low density dilute front is tailed by an energetic and turbulent, suspension region, which together
+form the so-called intermittent frontal region defined by Köhler et al. [22]. This is followed by a slower,
+dense core at the bottom that evolves into a dense tail; a powder cloud of small, suspended particles
+that can reach a height of more than a hundred metres envelops the whole avalanche. At the front,
+surrounding the avalanche, a laminar overpressure is followed by a less turbulent underpressure,
+Geosciences 2020, 10, 126                                                                              19 of 26
+
+
+
+where the fluidised avalanche front entrains large parts of the light, low-density snow cover in the
+head region and deeper snow layers below the energetic region. In fact, measurements made with
+FMCW radar [32] on VdlS [33–37] and [17] revealed that many avalanches studied developed a distinct
+fluidised front, and clearly showed that snow entrainment was produced by this fluidised front or
+“nose” of large, cold, dry avalanches.
+       Several hypotheses regarding the mechanisms involved in entrainment have been proposed by
+Gauer et al. [33], Carroll et al. [38] (and references therein), Sovilla et al. [17] (and references therein)
+and Köhler et al. [22] (and references therein), where very rapid entrainment is related to the existence
+of this frontal, fluidised flow. Ploughing, turbulent fluctuations at the surface, the instantaneous
+failure of snow slabs and rapid erosion-deposition waves related to roll-wave flow instabilities can be
+complementary mechanisms, as the authors cited above propose.
+       In general, a cold and light snow cover typically fluidises [17]. Since the surface (i.e., new snow) is
+cold, a PSA maintains its dynamics from surface entrainment; as it entrains warmer snow, its dynamics
+(i.e., the flow regime) changes, and transition to a denser flow occurs as soon as the temperature of the
+flowing snow reaches −1 ◦ C and above [39].
+       Issler et al. [24] were able to identify the existence of different flow regimes from the snow
+avalanche deposits. The present study takes their work as a fundamental reference. Observing 20
+avalanches in the Davos area of the Swiss Alps, those authors found (1) that most of the avalanches,
+whatever their size, deposited snow along the entire path, the deposited mass being similar to the
+eroded mass; (2) that in areas overflowed only by the fluidised part of the avalanche, deposition was
+absent or significantly less than erosion, as long as the terrain was sufficiently steep; and (3) that in an
+extreme avalanche occurring in 1995, the densities from deposits corresponding to the fluidised flow
+reached values above 500 kgm−3 [40]. They concluded that it appears likely on physical grounds that
+dry snow avalanches in very steep terrain or of very large size will fluidise to a much higher degree.
+       As noted above, in the very large LFd’A avalanche entrainment occurred all the way along the
+steep track and the top of the run-out zone and incorporated all the existing new snow cover, hence
+indicating the existence of a diluted, fluidised layer or flow. This entrainment may also have been
+enhanced by turbulence and other processes.
+       Köhler et al. [39] observed that nearly every large powder snow avalanche in VdlS has undergone
+a partial transition to denser flows, evolving from a cold regime flow (involving cold snow >−1 ◦ C) to a
+warm regime (involving warm snow >−1 ◦ C). In all their GEODAR data, acquired over seven years and
+covering 20 PSAs, only one large PSA without a clear partial transition occurred. Pérez-Guillén et al. [41]
+recorded 30 avalanches at the VdlS with seismic sensors, FMCW radar and other complementary
+devices. Nearly half of the avalanches studied were PSAs, and in all of them they identified the
+frontal, energetic and dense characteristic parts of the typical dry, mixed, powder snow avalanches,
+as described by Sovilla et al. [17]. This suggests that large, purely cold-dry, powder snow avalanches
+are very rare, as Köhler et al. note [39]; these authors think that purely cold-dry avalanches do exist,
+but perhaps only as long as they remain small and thus only entrain layers of cold snow close to
+the surface. In the case of the LFd’A avalanche, (a) no old, warm snow was available; therefore,
+the avalanche entrained the entire new snowpack, which was cold, and fed the avalanche; (b) no
+deposition was observed in the cirque or along the torrent, so no deposits were left by a dense core or
+tail; (c) there was no evidence of dense flow: no snowballs, levees or any other typical feature of dense
+flow were observed, even in the run-out zone. There is no evidence of a dense core or a dense flow
+transition; therefore, according to the hypothesis of Köhler et al. [39], the LFd’A cold-dry, pure powder
+avalanche entrained just cold snow. However, contrary to the premisses of these authors, it was a very
+rare, extremely large event that is likely to have involved a fluidised front, an energetic, turbulent
+suspension zone in the head and a huge suspension cloud.
+       Clear evidence of pressure depression related to the avalanche descent can be seen in the Amadeus
+buildings (Figure 9o,p, Figure 10), where windows facing downslope were opened outwards and
+curtains were found hanging outside. This depression could have been caused by the step effect
+Geosciences 2020, 10, 126                                                                            20 of 26
+
+
+
+produced by the buildings, originating in the angle between the roof and the facade, which disengages
+the flow and generates depression and upward eddy next to the façade, and, to a much lesser extent,
+by the pressure drop in the front of the PSA. The same effect can be deduced at the steepest short slopes
+in the run-out zone (Figure 9o,p, Figure 10), which were completely clean after the avalanche because
+all the snow cover had been entrained. The snow deposits found on the staircase in the Amadeus
+buildings may be related to both depression and upward eddies created by the edifices themselves.
+      Regarding velocity and impact pressure, the LFd’A avalanche broke off and uprooted mature
+trees right along the track, indicating that impact pressures there may have reached (or even exceeded)
+~100 kPa [17,21]: there were no “silent witnesses” that might have recorded higher pressures. Below,
+at Prat Sobirans block D (Figure 9i–l, Figure 10), the severely damaged brick partitions and wood frame
+structures indicate impact pressures of up to 45 kPa [17]. Even though most concrete walls resisted,
+some pillars suffered structural damage, probably due to the ramming impact of the trees entrained in
+the flow, suggesting even higher punctual impact pressures. It can thus be inferred that the trees were
+transported into the energetic, turbulent region of the avalanche front defined by Sovilla et al. [17].
+      Köhler et al. [39] indicate that impact pressures in cold-dominated flow regimes have a dominant
+velocity-squared contribution, and the hydrostatic term vanishes due to small densities. Gauer et al. [23]
+present data from 30 years of measurements at the lower third of the Ryggfonn experimental site, where
+average speeds reached a maximum of about 45 ms−1 for a dry snow event. These authors assume
+velocity values of 60–80 ms−1 at the bottom of the VdlS experimental path (1999-02-25 avalanche).
+Steinkogler et al. [37] present data from VdlS, where several avalanches reached speeds of over 50 ms−1 .
+Later, Köhler et al. [22] concluded that internal surges of large avalanches, mostly produced by the
+entrainment of secondary released slabs, can reach significantly higher velocities than the avalanche
+leading edge or lower edge of the moving snow on the terrain (in the LFd’A avalanche, roughly
+corresponding to the “main avalanche front”). Suriñach et al. [42] estimate maximum velocities of
+over 80 ms−1 for powder avalanches at VdLS. McClung and Gauer [43] present data from 89 flowing
+avalanches that had a dense core of flowing material which dominates the dynamics by serving as
+the driving force for downslope motion. For avalanches of sizes 4 and 5, maximum frontal speed
+measurements reached values from 40 ms−1 to 70 ms−1 . For avalanches with α angles (tan α = H0 /X0 ;
+H0 the measured total vertical drop and X0 the measured total horizontal reach considering the distal
+end of the avalanche run-out position and the top position of the starting zone) close to 20◦ , like the
+LFd’A one, velocities were of about 70 ms−1 . Their set of data probably included the avalanche
+presented by Gauer et al. [29]. In that study, for two VdLS dry flowing avalanches of sizes 4–5, Doppler
+radar measured velocities were of 70 ms−1 and 60–65 ms−1 , and these speeds were reached along the
+track. The LFd’A avalanche could, then, have reached speed values of around 80 ms−1 , as estimated
+by the experts in 1996. This velocity is in accordance with both the impact pressures proposed by
+Ancey [21] for the avalanche transition zone and the rough impact pressures deduced from studying
+the damage. No large particle cluster deposits were observed, probably due to the total disintegration
+of the released slab along the avalanche descent and to the quality of the light, cold, entrained snow.
+Thus, the LFd’A avalanche effects also coincide with the density measurements described by Sovilla
+et al. [17] for the dilute, fluidised front and possibly for the energetic, turbulent suspension region.
+      Due to the topography of the terrain, the distribution of the deposits was highly irregular. Their
+thickness varied from 6 m at the river thalweg, to 4 m piled in front of the buildings at the run-up slope
+and less than 1 m in general all over the run-out. The height of the fluidised flow cannot be deduced,
+in this case, from the deposit’s height (as Issler et al. were able to do for a giant avalanche occurring in
+1995 [40]), as the thickest ones accumulate in front of obstacles and the thinnest ones were plastered.
+The flow height, thus, must be inferred from the amplitude or “height” of the damage.
+Geosciences 2020, 10, 126                                                                           21 of 26
+
+
+
+     In Prat Sobirans and Peu de Pistes, the main damages and snow clogging affected two storeys
+of apartments. In Prat Sobirans, the two most seriously affected floors were in block D (Figure 9i–l,
+Figure 10) at ground level. In the avalanche path run-up, the lower two floors of Peu de Pistes and the
+Crest Hotel (Figure 9a,c, Figure 10) were the most affected, especially in the first building, where these
+two floors were filled up with snow. This, as well as the 4 m of snow piled up in the parking lot in front
+of these buildings, suggests that the denser part of the LFd’A avalanche might have had a height similar
+to these two floors, which would correspond roughly to the ~5 m thick transition zone, as defined
+by Ancey [21], the fluidised layer of Gauer et al. [23] and Issler at al. [24] or, more precisely, to the
+intermittent frontal region defined by Sovilla et al. [17] and Köhler et al. [22]. Thus, the fluidised flow
+height would be around 5–6 m. The high densities of these deposits (see Section 5) are in accordance
+with the density of the fluidised flow deposits measured by Issler et al. [24] in the giant avalanche of
+1995. The frontal air blast injected into the buildings produced the overpressure which burst the roof
+and skylights.
+     It seems clear that the LFd’A cold-dry, pure powder snow avalanche was made possible by the
+absence of a previous, warm snowpack and the new, cold, dry snow cover that was entrained along
+the avalanche’s descent. As is often the case, the coincidence in time and space of different factors that
+do not usually occur together gave rise to this extreme avalanche event.
+
+6. The Present: Defences Implemented
+     Before the 1996 avalanche, protection measures in the LFd’A avalanche path were based on local
+avalanche forecasts. Situations of high danger prompted the evacuation of the buildings under threat.
+After the LFd’A event, when the evacuation of 322 people was completed just 90 minutes before the
+avalanche, the need to change the protection strategy was abundantly clear. Moreover, most access
+routes to the Arinsal ski resort are in the avalanche run-out zone, and so the government was convinced
+of the need to keep the area safe and open during the whole winter.
+     The new protection system consists of (a) a Gazex®system in the release zone of LFd’A avalanche,
+(b) a system of two dikes and flat area in the run-out zone, and (c) avalanche nets in the Percanela
+release zone.
+     In the LFd’A release zone, nine Gazex®tubes and four Gazex®shelters were installed (Figure S10).
+Snowpack monitoring was improved, thanks to an automatic weather station (Les Fonts d’Arinsal,
+2681 m a.s.l.) that measures temperature, wind, and snowpack height, and a FlowCapt sensor which
+allows precise control of the drifted snow.
+     In the run-out area, an 18 m high dike with a flat area upstream was built, designed to hold back the
+denser part of the avalanche and to deflect the aerosol. The overall aim is to protect the infrastructures
+located below (the parking area, buildings and lower chairlift of the ski station, Amadeus apartments,
+Patagonia building, Velvet building, Crest Hotel and Astra complex) from the direct impact of the
+avalanche. A smaller dike in the opposite part of the run-out area was constructed to protect block C
+of the Prat Sobirans apartments and the access to the Velvet building (Figure 11). Most buildings were
+reinforced, and the structure of the Prat Sobirans block D was modified with the removal of three flats.
+Geosciences 2020, 10, 126                                                                              22 of 26
+
+
+
+
+               Figure 11. System of dikes in the run-out zone of Les Fonts d’Arinsal avalanche path.
+
+    In the Percanela release zone, 2300 linear metres (580 nets) of Dk3 mono anchorage net fences
+were installed in order to retain the snow and to permit the regeneration of a protective forest.
+    The strategy adopted, therefore, was to protect the infrastructures.
+
+7. Final Remarks
+      The LFd’A event of 8th February 1996 was a paradigmatic case of an extreme dry, pure powder
+snow avalanche. It was the largest avalanche ever known along this path, and its effects exceeded all
+the previsions.
+      As is often the case in extreme events, a rare combination of circumstances coincided in time and
+space to made this avalanche possible: (a) the winter season began with no snowpack at the lower
+altitudes, and so no dense, warm snow was available for the event to evolve into a denser avalanche;
+(b) over two days, the generalised, heavy snowstorm, with large snowfalls, was accompanied by strong
+winds that generated large snowdrifts susceptible to release; and (c) the decrease in temperature kept
+the new snowpack cold right down to the bottom of the valley, facilitating the entrainment and, thus,
+the growth of the avalanche down to the main valley bottom.
+      In the context of climate change, scenarios of this kind may become more frequent. The first reason
+for this is that the snowpack will be reduced at low altitudes and may even disappear. According to
+the results obtained by the CLIMPY project (for more information, see https://opcc-ctp.org/ca/climpy),
+even though climate projections show a significant spatial variability among the Pyrenees massif in
+terms of precipitation, the rise in mean winter temperatures (December–April) is ubiquitous in the area.
+Climate projections of the future snowpack in Andorra [44–46] show a distinct fall in the mean snow
+height at 1500–1800 m altitudes at mid-term horizon (2041–2070) (Figure S11). In terms of numbers of
+days with a height of snowpack above 5 cm the most pessimistic scenario, without climate policies
+(RCP8.5), indicates that the continuous snowpack from 1800 m to the peaks is likely to endure until
+mid-century, but that the expected normal snowpack will correspond to the current winter seasons
+with lower snowpack accumulation. Winters will present a median of less than 70 days with 5 cm
+at 1800 m, limiting continuous snowpack at altitudes above 2100m, where the number of days with
+Geosciences 2020, 10, 126                                                                                     23 of 26
+
+
+
+height of snowpack >50 cm will be reduced by almost 70 days. Such conditions are similar to the
+ones projected in the Southernmost French Alps and also comparable to expected patterns in the
+Swiss-Austrian Alps [47], where more reliable and larger changes in snow depth are expected in low
+elevation regions. The second reason is that heavy snowstorms may continue to occur and may be
+accompanied by low temperatures, allowing cold snowfalls to cover the slopes sporadically as far as the
+valley bottoms. As for heavy snowfall episodes, the study by López-Moreno et al. [48] in the Pyrenees
+found that they had not changed above 1000 m a.s.l. Changes in extreme snowfalls, their frequency
+and magnitude are still very difficult to predict [49] (and references therein), but scenarios like the
+LFd’A path in 1996 cannot be ignored. In this context, surveillance and forecasting are crucial for the
+activation of defence measures in possible similar scenarios and must be enhanced. The knowledge
+acquired from this event must be capitalised upon in order to minimise risk situations in the LFd’A
+avalanche path (in addition to the defence measures already implemented there) and in other similar
+paths with exposed infrastructures.
+      The main objective of this study is to provide the most complete data set possible and the best
+possible description of the effects of this paradigmatic, cold-dry powder avalanche. The authors
+believe this case study could be useful for calibrating existing or developing numerical models.
+Basic topographic data for the area can be found in [16].
+      In Andorra, the LFd’A event marked a “before-and-after” in avalanche investigation and data
+collection. The Cartes de Localització Probable d’Allaus (Maps of Probable Avalanche Paths [8]) were
+revised and completed, the Cadastre d’Allaus d’Andorra (Andorra Avalanche Cadastre [16,50]) was
+initiated and the Plans de Prevenció de Riscos d’Allaus Previsibles (Prevention Plans of Predictable
+Avalanche Risks [16]) were launched within a few years. The country’s land use management and
+planning were vastly improved. Efforts to increase knowledge of avalanches and their management
+are ongoing and will continue in the future in this small, mountainous country.
+
+Supplementary Materials: The following are available online at http://www.mdpi.com/2076-3263/10/4/126/s1,
+Figure S1: Streamlines and wind intensity (kt) at 850 hPa (around 1500 m) from February 8th at 00h UTC
+from NOAA Reanalysis; Figure S2: Helicopter view of the track and part of the run-out zones of the Les Fonts
+d’Arinsal and Percanela avalanches; Figure S3: Helicopter view of the Les Fonts d’Arinsal avalanche run-out zone
+taken from above the track zone; Figure S4: Helicopter view of the Les Fonts d’Arinsal avalanche run-out zone.
+Downstream Arinsal valley perspective; Figure S5: Helicopter view of the Les Fonts d’Arinsal avalanche run-out
+zone. Detail of Prat Sobirans buildings; Figure S6: View of the Les Fonts d’Arinsal avalanche run-out zone. Closer
+detail of Prat Sobirans buildings; Figure S7: Helicopter view of the Les Fonts d’Arinsal avalanche run-out zone.
+Upstream Arinsal valley perspective; Figure S8: Helicopter view of the Les Fonts d’Arinsal avalanche track zone.
+Downstream perspective; Figure S9: View of the Les Fonts d’Arinsal avalanche run-out zone. Detail of Amadeus
+buildings. Track zone in the background; Figure S10: Gazex®system in the release zone of Les Fonts d’Arinsal
+avalanche path; Figure S11: Anomaly of mean snow depth during the winter season for scenario RCP 4.5 (scenario
+including climate policies aiming to stabilize CO2 concentrations) at near, mid-term and long-term horizon and
+different altitudes (1500, 1800, 2100 m).
+Author Contributions: Conceptualization: G.F., A.M., M.P. Methodology: G.F., A.M., L.T., M.P. Data curation:
+All authors. Investigation: G.F., M.P., F.A., M.B., A.R. Visualization: A.M., L.T., M.G. Supervision: G.F. Writing-
+original draft: G.F., A.M., L.T., M.P. Writing- review and editing: G.F., A.M., L.T., M.G. All authors have read and
+agreed to the published version of the manuscript.
+Funding: This research was funded by the PROMONTEC project (MINEICO-FEDER: CGL2017-84720-R; Spanish
+Ministry of Economy, Industry and Competitiveness) and the 2015 grant from the Andorran Government of the
+complementary call for European aid CLIMPY EFA081/15 POCTEFA 2014-2020, Ref.AUEP002-AND/2015.
+Acknowledgments: We want to thank D. Issler for encouraging us to prepare this work and to J.M. Vilaplana
+for his help in the realisation of this paper and also to Sergi Riba from r2andorra for the figure of the defence
+measures implemented in the LFd’A path.
+Conflicts of Interest: The authors declare no conflict of interest. The funders had no role in the design of the
+study; in the collection, analyses, or interpretation of data; in the writing of the manuscript, or in the decision to
+publish the results.
+Geosciences 2020, 10, 126                                                                                     24 of 26
+
+
+
+References
+1.    Leo, E.; Cuchi, J.A. Los aludes en el Alto Aragón: Tipología, zonas de peligro, daños y víctimas. Lucas Mallada
+      2017, 19, 233–278.
+2.    Meffre, J.F. Arinsal: Un an après. Neige et avalanches 1997, 77, 2–5.
+3.    Esteban, P.; Jones, P.D.; Mases, M.; Martín-Vide, J. Atmospheric circulation patterns related to heavy snowfall
+      days in Andorra, Pyrenees. Int. J. Clim. 2005, 25, 319–329. [CrossRef]
+4.    García, C.; Gavaldà, J.; Martí, G.; Martínez, P.; Oller, P. Avalanche Bulletin. Winter 1995–1996; Institut
+      Cartogràfic de Catalunya: Barcelona, Spain, 2000; p. 125. (in Catalan)
+5.    Garcia-Selles, C.; Martí, G.; Oller, P.; Moner, I.; Gavaldà, J.; Martínez, P.; Peña, J.C. Major avalanches
+      occurrence at regional scale and related atmospheric circulation patterns in the Eastern Pyrenees. Cold Reg.
+      Sci. Technol. 2009, 59, 106–118. [CrossRef]
+6.    Oller, P.; Muntán, E.; Garcia-Selles, C.; Furdada, G.; Baeza, C.; Angulo, C. Characterizing major avalanche
+      episodes in space and time in the twentieth and early twenty-first centuries in the Catalan Pyrenees. Cold Reg.
+      Sci. Technol. 2015, 110, 129–148. [CrossRef]
+7.    ASI. Report: Séquence Avalancheuse du 6 au 8 Février; Unpublished work; 1996.
+8.    Le Risque D’avalanche En Andorre. Études 1971–1996. Available online: http://www.maison-pays-catalans.
+      eu/andorre/joan_becat_6/ (accessed on 21 December 2019).
+9.    Furdada, G.; Vilaplana, J.M.; Tomàs, E.; Mas, D. The avalanche of La tartera de la Pica (Andorra).
+      Publikasjon-Norges Geotekniske Institutt 1998, 203, 104–107.
+10.   McClung, D.; Schaerer, P.A. The Avalanche Handbook; The Mountaineers: Vancouver, BC, Canada, 1995; p. 272.
+11.   Pejouan, H. La Neige Et Les Avalanches. In Contribution À L’étude Du Climat Montagnard, Pyrénées-Orientales,
+      Andorre, Aude, Limites De l’Ariège; Péjouan, H., Ed.; Sofreix Printing House: Perpinyà, France, 1983; p. 462.
+12.   García, C.; Martí, G.; García, A.; Muntán, E.; Oller, P.; Esteban, P. Weather and snowpack conditions of major
+      avalanches in the Eastern Pyrenees. In Proceedings of the Alpine & Snow Workshop, Munich, Germany, 5–6
+      October 2006; pp. 49–56.
+13.   Esteban, P.; Mases, M.; Martín-Vide, J. La predictabilitat de les allaus des de la climatologia. L’allau de les
+      Fonts (Arinsal, Andorra) del 8 de febrer de 1996. Horitzó: Revista del Centre de Recerca en Ciències de la Terra
+      2002, 2, 10–19.
+14.   Ara Andorra. Suplement. Vint Anys de la Gran Allau d’Arinsal. Available online: https://www.ara.ad/
+      suplement/Vint-anys-gran-allau-dArinsal_0_1517248435.html (accessed on 21 November 2019).
+15.   Radio i Televisió d’Andorra. Documental: L’allau d’Arinsal. Available online: https://www.youtube.com/
+      watch?v=FW432TeCXFs (accessed on 21 November 2019).
+16.   Govern d’Andorra. IDE Andorra: Infraestructura de Dades Espacials d’Andorra. Available online:
+      https://www.ideandorra.ad/geoportal/index.jsp?lang=ca (accessed on 17 November 2019).
+17.   Sovilla, B.; McElwaine, J.; Louge, M. The structure of powder snow avalanches. Comptes Rendus Phys. 2015,
+      16, 97–104. [CrossRef]
+18.   Avalanche Canada. Avalanche Size and Impact. Available online: https://www.avalanche.ca/tutorial/
+      avalanche-formation/avalanche-size-and-impact (accessed on 17 November 2019).
+19.   European Avalanche Warning Services. Standards. Avalanche Size. Available online: https://www.
+      avalanches.org/standards/avalanche-size/#verylargeavalanche (accessed on 13 January 2020).
+20.   Major, J.; Perla, R.I.; Martinelli, M. Avalanche Handbook. Arct. Alp. Res. 1977, 9, 318. [CrossRef]
+21.   Ancey, C. Dynamique des Avalanches; Presses Polytechniques and Universitaires Romandes & Cemagref.
+      Lausane: Lausanne, Switzerland, 2006; p. 336.
+22.   Köhler, A.; McElwaine, J.; Sovilla, B.; Ash, M.; Brennan, P. The dynamics of surges in the 3 February 2015
+      avalanches in Vallée de la Sionne. J. Geophys. Res. Earth Surf. 2016, 121, 2192–2210. [CrossRef]
+23.   Gauer, P.; Issler, D.; Lied, K.; Kristensen, K.; Sandersen, F. On snow avalanche flow regimes: Inferences from
+      observations and measurements. In Proceedings of the International Snow Science Workshop, Whistler,
+      Canada, 21–27 September 2008; pp. 717–723.
+24.   Issler, D.; Errera, A.; Priano, S.; Gubler, H.; Teufen, B.; Krummenacher, B. Inferences on flow mechanisms
+      from snow avalanche deposits. Ann. Glaciol. 2008, 49, 187–192. [CrossRef]
+25.   Schaerer, P.A.; Salway, A.A. Seismic and Impact–Pressure Monitoring of Flowing Avalanches. J. Glaciol. 1980,
+      26, 179–187. [CrossRef]
+Geosciences 2020, 10, 126                                                                                        25 of 26
+
+
+
+26.   Nishimura, K.; Sandersen, F.; Kristensen, K.; Lied, K. Measurements of powder snow avalanche-Nature.
+      Surv. Geophys. 1995, 16, 649–660. [CrossRef]
+27.   Bozhinskiy, A.N.; Losev, K.S. The Fundamentals of Avalanche Science; Eidgenössisches Institut für Schnee- und
+      Lawinenforschung: Davos, Switzerland, 1998; p. 55.
+28.   Schaer, M.; Issler, D. Particle densities, velocities and size distributions in large avalanches from impact-sensor
+      measurements. Ann. Glaciol. 2001, 32, 321–327. [CrossRef]
+29.   Gauer, P.; Issler, D.; Lied, K.; Kristensen, K.; Iwe, H.; Lied, E.; Rammer, L.; Schreiber, H. On full-scale
+      avalanche measurements at the Ryggfonn test site, Norway. Cold Reg. Sci. Technol. 2007, 49, 39–53. [CrossRef]
+30.   Norem, H. A general discussion on avalanche dynamics. In Proceedings of the Université européenne d’été
+      sur les risques naturels, Chamonix, France, 14–25 September 1992; pp. 135–143.
+31.   Issler, D. Modelling of snow entrainment and deposition in powder-snow avalanches. Ann. Glaciol. 1998, 26,
+      253–258. [CrossRef]
+32.   Gubler, H.; Hiller, M. The use of microwave FMCW radar in snow and avalanche research. Cold Reg.
+      Sci. Technol. 1984, 9, 109–119. [CrossRef]
+33.   Issler, D. Possible erosion mechanisms in snow avalanches. Ann. Glaciol. 2004, 38, 384–392.
+34.   McElwaine, J.; Turnbull, B. Air pressure data from the Vallée de la Sionne avalanches of 2004. J. Geophys. Res.
+      Space Phys. 2005, 110. [CrossRef]
+35.   Sovilla, B.; Burlando, P.; Bartelt, P. Field experiments and numerical modeling of mass entrainment in snow
+      avalanches. J. Geophys. Res. Space Phys. 2006, 111, 03007. [CrossRef]
+36.   Turnbull, B.; McElwaine, J. Potential flow models of suspension current air pressure. Ann. Glaciol. 2010, 51,
+      113–122. [CrossRef]
+37.   Steinkogler, W.; Sovilla, B.; Lehning, M. Influence of snow cover properties on avalanche dynamics. Cold Reg.
+      Sci. Technol. 2014, 97, 121–131. [CrossRef]
+38.   Carroll, C.S.; Louge, M.; Turnbull, B. Frontal dynamics of powder snow avalanches. J. Geophys. Res. Earth Surf.
+      2013, 118, 913–924. [CrossRef]
+39.   Köhler, A.; Fischer, J.-T.; Scandroglio, R.; Bavay, M.; McElwaine, J.; Sovilla, B. Cold-to-warm flow regime
+      transition in snow avalanches. Cryosphere 2018, 12, 3759–3774. [CrossRef]
+40.   Issler, D.; Gauer, P.; Schaer, M.; Keller, S. Inferences on mixed snow avalanches from field observations.
+      Geoscience 2019, 10, 2. [CrossRef]
+41.   Guillén, C.P.; Sovilla, B.; Suriñach, E.; Tapia, M.; Köhler, A. Deducing avalanche size and flow regimes from
+      seismic measurements. Cold Reg. Sci. Technol. 2016, 121, 25–41. [CrossRef]
+42.   Suriñach, E.; Flores-Márquez, E.L.; Roig-Lafon, P.; Furdada, G.; Tapia, M. Estimation of avalanche
+      development and frontal velocities based on the spectrogram of the seismic signals generated at the
+      Vallée de la Sionne Test Site. Geoscience 2020, 10, 113. [CrossRef]
+43.   McClung, D.; Gauer, P. Maximum frontal speeds, alpha angles and deposit volumes of flowing snow
+      avalanches. Cold Reg. Sci. Technol. 2018, 153, 78–85. [CrossRef]
+44.   CERFACS, IPSL, Drias, data Météo-France.                   Available online: http://drias-climat.fr/decouverte/
+      cartezoomadamont/PYRENEES/1800/quartiles/ADAMONT2017_DISTRIBUTION_ELAB/Q50_
+      ADAMONT/RCP8.5/H2/NORSND5/H# (accessed on 17 January 2020).
+45.   Verfaillie, D.; Lafaysse, M.; Déqué, M.; Eckert, N.; Lejeune, Y.; Morin, S. Multi-component ensembles of
+      future meteorological and natural snow conditions for 1500 m altitude in the Chartreuse mountain range,
+      Northern French Alps. Cryosphere 2018, 12, 1249–1271. [CrossRef]
+46.   Verfaillie, D.; Déqué, M.; Morin, S.; Lafaysse, M. The method ADAMONT v1.0 for statistical adjustment of
+      climate projections applicable to energy balance land surface models. Geosci. Model Dev. 2017, 10, 4257–4283.
+      [CrossRef]
+47.   Schöner, W.; Koch, R.; Matulla, C.; Marty, C.; Tilg, A.-M. Spatiotemporal patterns of snow depth within the
+      Swiss-Austrian Alps for the past half century (1961 to 2012) and linkages to climate change. Int. J. Clim.
+      2018, 39, 1589–1603. [CrossRef]
+48.   López-Moreno, J.I.; Goyette, S.; Vicente-Serrano, S.M.; Beniston, M. Effects of climate change on the intensity
+      and frequency of heavy snowfall events in the Pyrenees. Clim. Chang. 2010, 105, 489–508. [CrossRef]
+Geosciences 2020, 10, 126                                                                                    26 of 26
+
+
+
+49.   Beniston, M.; Farinotti, D.; Stoffel, M.; Andreassen, L.M.; Coppola, E.; Eckert, N.; Fantini, A.; Giacona, F.;
+      Hauck, C.; Huss, M.; et al. The European mountain cryosphere: A review of its current state, trends, and
+      future challenges. Cryosphere 2018, 12, 759–794. [CrossRef]
+50.   Ferrer, P.; Furdada, G. Un Sistema de Información Geográfica para la gestión del Riesgo de Aludes: El
+      Catastro Digital de Aludes de Andorra. In Proceedings of the V Simposio Nacional sobre Taludes y Laderas
+      Inestables, Madrid, Spain, 27–30 November 2001; pp. 939–949.
+
+                            © 2020 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
+                            article distributed under the terms and conditions of the Creative Commons Attribution
+                            (CC BY) license (http://creativecommons.org/licenses/by/4.0/).
+
