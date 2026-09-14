@@ -224,7 +224,14 @@ duanes al pagament de tal o tal crèdit.**»
    estava concedit el 1904.
    `Requereix font externa: els llibres d'acords del Consell General.`
 2. **El decret del 29 de març de 1893 sencer**, i **el del 20 de desembre de 1893**,
-   i **el del 3 de febrer de 1898** sobre el tabac.
+   i **el del 3 de febrer de 1898** sobre el tabac. — **El de 1849 sobre els
+   estrangers, en canvi, es TANCA el 2026-09-18**: **el text és a** [aquesta opinió
+   del poble era útil de
+   notar](../../territori/geografia-fisica/aquesta-opinio-del-poble-era-util-de-notar.md).
+   **No creava el costum, el confirmava** —«*per lley o consuetut inmemorial y ab
+   forsa de tal*»—, **va passar per l'aprovació del Bisbe**, i **el que hi afegia
+   era el segon permís, el del consell de parròquia.** **Segueix sense data de dia i
+   mes.**
 3. **L'acord dels coprínceps del 25 de febrer de 1881 sencer.** **El corpus en té
    el considerant que la font cita** i **la referència de la revista on es va
    publicar**, no el text.
