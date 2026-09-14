@@ -363,6 +363,13 @@ General o els de parròquia.`
 dels Prínceps**, ni si li'n van donar. **El text dona el dret i la condició; el
 corpus, cap cas.**
 
+**El *Ceremonial* ja està localitzat. — 16-09-2026.** **És al mateix extracte**,
+a partir de la **pàgina CLIV**, però **el que Brutails reprodueix és el capítol
+III del llibre IV**, no el capítol 2 que aquest text cita
+([un cego malament judica de colors](./un-cego-malament-judica-de-colors.md)).
+**El capítol 2 —el dels juraments— segueix sense aparèixer.** **I el III no
+s'ha destil·lat encara.**
+
 **El *Ceremonial*, llibre 4, capítol 2, segueix sense ser al corpus**, i **és la
 tercera vegada que aquesta sèrie hi remet.**
 

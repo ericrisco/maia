@@ -392,6 +392,13 @@ I** és **conjectura** —«dire algunes de congruencia… **Y baste de congectu
 i al **capítol IV** és **raó**: el veguer del Bisbe pren una part **«per tenir ja
 de altra part lo salari»**. **Registrat, no arbitrat.**
 
+**Localitzat el 16-09-2026, i no és on el corpus el buscava.** El *Ceremonial*
+**és al mateix extracte de Brutails**, a partir de la **pàgina CLIV**, com a
+**llibre IV, capítol III**, amb un **paràgraf I** sobre **«lo modo y forma de
+traurer los reos a deposar y dels actes de tortura, practicat en les Valls»**
+([un cego malament judica de colors](../consell-general/un-cego-malament-judica-de-colors.md)).
+**Encara no s'ha destil·lat.**
+
 **El *Ceremonial* no és al corpus**, i aquest capítol hi remet **quatre
 vegades**: *verbo Corts*, **llibre 4, capítol 3**, i el **paràgraf 1** per a la
 disposició del tribunal, més els llocs de les sentències capitals. **És el text

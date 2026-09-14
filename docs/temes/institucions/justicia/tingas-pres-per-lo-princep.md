@@ -389,7 +389,13 @@ no la referència.
 **El corpus té tres Arenys en la mateixa òrbita** —**1305, 1390 i aquest**— i
 **no n'afirma cap relació.**
 
-**El *Ceremonial* segueix sense ser al corpus.**
+**El *Ceremonial* segueix sense ser al corpus.** — **`localitzat` el
+16-09-2026**: **hi és, al mateix extracte**, a partir de la **pàgina CLIV**, com
+a **llibre IV, capítol III**, ***Ceremonial en obertura, procecussio, lectura de
+sentencias capitals o de penas aflictivas de cos, clausura de Corts y execussio
+de sentencias criminals majors***, paginació interna **[336]**
+([un cego malament judica de colors](../consell-general/un-cego-malament-judica-de-colors.md)).
+**El buit no era del llibre, era de la lectura.** **No s'ha destil·lat encara.**
 
 **El capítol VI, de l'escrivania pública**, no s'ha destil·lat. **S'obre dient
 que a les Valls «no pot haberhi sino una notaria o escrivania publica», regida
