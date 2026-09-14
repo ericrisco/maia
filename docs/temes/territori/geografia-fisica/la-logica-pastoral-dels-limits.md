@@ -193,6 +193,28 @@ difícilment se solucionarà si no és **per un compromís polític**.
   partir d'una lectura OCR dubtosa. **Verificar.**
 - **Joan Becat** i la seva obra sobre Andorra.
 
+## Un tros de límit que no segueix aquesta lògica
+
+**Afegit el 16-09-2026.** Brutails descriu el 1904 **un tram de frontera que passa
+la divisòria d'aigües**:
+
+> «**Au Nord-Est, au droit des ports de Framiquel et de Soldeu, elle déborde la
+> ligne de partage des eaux et sa limite suit pendant quelques kilomètres la rive
+> gauche de l'Ariège. Cette portion de territoire forme les vastes pacages de la
+> Solane.**»
+> ([la ratlla passa a l'altra banda de l'aigua](./la-ratlla-passa-a-laltra-banda-de-laigua.md))
+
+**Andorra té pasturatges a la conca de l'Arieja**, i **aquell traçat «donne lieu
+depuis des siècles à des réclamations de la part des communes françaises
+voisines, l'Hospitalet et Mérens, et à d'interminables procès»**.
+
+**Si els límits segueixen la lògica de la pastura i no la de l'aigua, aquest tram
+n'és la prova més visible** — `però això és lectura del corpus: Brutails el
+qualifica de «tracé anormal» i no el relaciona amb cap lògica pastoral.`
+
+**No consta què reclamaven, des de quan, ni com va acabar.** `Buit nou i
+prioritari.`
+
 ## Related
 
 - [Geografia física](./geografia-fisica.md)

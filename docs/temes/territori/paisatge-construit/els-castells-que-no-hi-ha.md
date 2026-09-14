@@ -101,6 +101,36 @@ i d'origen desconegut**. **El corpus ho deixa marcat i no ho dona per resolt.**
    castells a Andorra pel Pareatge?
 7. Els **topònims de «moro»** a Andorra, com a família.
 
+## I hi havia una norma escrita que ho prohibia
+
+**Afegit el 16-09-2026, des d'una font primària que el corpus no havia creuat amb
+aquesta fitxa.** L'**apèndix del Politar**, a la **proposició 28**, ho diu sense
+matisos:
+
+> «**No pot edificarse en les Valls castell, fortalesa ni casa de gentilhome**,
+> com ni casa publica o de religio; y si esta se edificaba, hauria de menester
+> **llicencia expressa del Concell General**.»
+> ([la major part, i no la més sana](../../institucions/consell-general/la-major-part-i-no-la-mes-sana.md))
+
+**Ni castell, ni fortalesa, ni casa de gentilhome.** **I la casa religiosa,
+només amb llicència expressa del Consell General.**
+
+**Al costat de les altres dues proposicions del mateix apèndix** —**que preval la
+majoria numèrica «sens que se atenga… la dignitat de les persones, com en las
+Valls de Andorra tots sien iguals»**— i de **la regla que tots els consellers
+anaven al Consell amb la mateixa capa de drap del país «per rich ni poderos que
+sie»**
+([la capa ho cobreix tot](../../institucions/consell-general/la-capa-ho-cobreix-tot.md)),
+**fa tres maneres diferents de dir el mateix.**
+
+`El corpus no afirma que l'absència de castells s'expliqui per aquesta
+proposició: el text és del segle XVIII i les fortificacions que aquesta fitxa
+descriu són molt anteriors. El que registra és que la prohibició existia per
+escrit.`
+
+**Segueix obert** si es va aplicar mai, si hi va haver cap sol·licitud, i des de
+quan regia.
+
 ## Related
 
 - [El Pareatge](../../historia/pareatge/el-pareatge.md) — qui ho mana.

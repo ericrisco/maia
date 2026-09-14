@@ -192,6 +192,8 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **canemar** | camp de cànem: **el 1904 el topònim sobrevivia al conreu**, que ja gairebé no es feia. Brutails 1904, p. 6 |
 | **vi ranci** | vi de l'Urgell portat **en bots de pell de boc** i criat per solera, afegint vi nou al barril a mesura que es buida; **«le champagne de l'Andorre»**, amb què **es feien els brindis als banquets oficials**. Brutails 1904, p. 6 |
 | **paraire** | fabricant de drap; **els d'Escaldes tenien confraria sota l'advocació de sant Pere Màrtir**, amb **registre del 1669 al 1807**. Brutails 1904, p. 8 |
+| **caputxo** · **caputxo a crista** | la caputxa que les dones es posaven **per anar a l'església**, **«quelquefois surmonté d'une sorte de corne qui part de l'arrière»**. Brutails, 1904, p. 11 |
+| **la Solana** | **els pasturatges d'Andorra que són a l'altre vessant de la carena**, a la conca de l'Arieja; **el tram de frontera que els inclou és qualificat de «tracé anormal»** i **causa reclamacions de l'Hospitalet i Merens**. Brutails, 1904, p. 1 |
 | **ordinació** | norma d'un comú |
 | **foc i lloc** | impost parroquial |
 | **consòrcia** | unió de persones amb un interès comú que s'ajuden en cas de necessitat |
