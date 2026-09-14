@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**821** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**822** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -939,6 +939,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [La Casa de la Vall](temes/institucions/patrimoni-institucional/casa-de-la-vall.md) | `temes/institucions/patrimoni-institucional` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 | [Dues portes, sis panys i un secret](temes/institucions/patrimoni-institucional/dues-portes-sis-panys-i-un-secret.md) | `temes/institucions/patrimoni-institucional` | compilada | contemporania | no | `brutails-coutume-1904` |
+| [Excomunió major per a qui tregui un paper](temes/institucions/patrimoni-institucional/excomunio-major-per-a-qui-tregui-un-paper.md) | `temes/institucions/patrimoni-institucional` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [L'Armari de les Set Claus](temes/institucions/patrimoni-institucional/larmari-de-les-set-claus.md) | `temes/institucions/patrimoni-institucional` | compilada | contemporania | no | `viquipedia-ca` |
 | [L'inventari de les Set Claus](temes/institucions/patrimoni-institucional/linventari-de-les-set-claus.md) | `temes/institucions/patrimoni-institucional` | compilada | contemporania | no | `govern-andorra-web` |
 

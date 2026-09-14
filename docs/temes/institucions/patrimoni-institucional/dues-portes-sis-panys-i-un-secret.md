@@ -200,6 +200,14 @@ avui sigui aquest ni que s'arribés a construir així.** `Buit parcialment tanca
 **El corpus no sap què era el «secret».** El text el nomena dues vegades i **no
 el descriu**. `Requereix una descripció física de l'armari.`
 
+**El mot `Diversorum` torna a sortir, i com una altra cosa. — 15-09-2026.** La
+**instrucció 7 del capítol VI del llibre II** mana etiquetar els papers
+il·legibles com ***Diversorum fragmenta P. vel Q non facile legibilium***
+([excomunió major per a qui tregui un paper](./excomunio-major-per-a-qui-tregui-un-paper.md)).
+**Allà no és un llibre: és un rètol d'armari.** `El corpus registra els dos usos
+i no afirma que siguin la mateixa cosa.` **El llibre segueix sense ser al
+corpus.**
+
 **Ni el Politar original ni el llibre `Diversorium` no són al corpus.** Aquesta
 fitxa llegeix **l'extracte que Brutails en publica**, amb la paginació interna
 entre claudàtors; **no s'ha vist cap exemplar del Politar.**

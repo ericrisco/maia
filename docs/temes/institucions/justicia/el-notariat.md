@@ -106,6 +106,16 @@ L'autor enumera què més podria haver triat per il·lustrar la tesi, i la llist
 4. **On són els protocols notarials** històrics —
    [l'Arxiu Nacional](../../cultura/museus-i-arxius/larxiu-nacional.md)?
    **Serien una de les millors fonts de llengua i de societat que existeixen.**
+   — **`parcial` des del 15-09-2026, i la resposta històrica és pitjor del que
+   la pregunta suposava.** **On havien de ser, consta**: el **capítol VI del
+   llibre II del Politar** dona **dotze instruccions d'arxiu** —armaris retolats
+   per notari i per anys, registres amb pany i clau, civils separats dels
+   criminals, els il·legibles a part— i **mana demanar al Bisbe excomunió major
+   contra qui tregui un paper de la casa**. **On eren de fet, també consta**:
+   **per terra en un sostre, podrint-se, i repartits per cases particulars**
+   ([excomunió major per a qui tregui un paper](../patrimoni-institucional/excomunio-major-per-a-qui-tregui-un-paper.md)).
+   **El corpus no sap quina part es va perdre**, i **la font que ho denuncia no
+   en dona cap xifra.**
 5. **L'adaptació a l'euro** d'un país que no és a la UE.
 6. ~~La **compravenda a carta de gràcia**~~ i el **censal** a Andorra. **La
    carta de gràcia, documentada en volum:** a les minutes de **1875-1877**

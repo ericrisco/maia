@@ -113,6 +113,14 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **moins** | unitat de civada en què cobrava el batlle del príncep francès. **El Politar en deixa la quantitat en blanc** i **cap font del corpus no el defineix** |
 | **seps** | ferros de subjecció per als presos, llistats al costat de «grillons y esposas, cadenas, collars y altres adminiculos y presons». Politar, llibre II, cap. V |
 | **adminicles** | *adminiculos*: estris auxiliars; aquí, la ferramenta de presó que el batlle havia de tenir a punt |
+| **doena** | la llista de **dos** homes «de la major probitat» que el Consell General proposava al copríncep a qui tocava nomenar notari: «vulgo **fa la doena**». Politar, llibre II, cap. VI. Compareu amb *cisena* |
+| **plica** | plec de documents notarials arxivat com a unitat, al costat dels *manuals*: «tots los manuals y **pliques** en sos armaris». Politar, llibre II, cap. VI |
+| **aprisia** | l'original d'un instrument notarial, per oposició a «les extractes o copias». Politar, llibre II, cap. VI |
+| **oblata** | la presentació de la súplica introductòria d'una causa, amb línia pròpia d'aranzel: «per quiscuna **oblata** o presentacio de suplica introductoria de causa». Politar, llibre II, cap. VI |
+| **taba** | el plec de condicions d'una subhasta o encant, tarifat per fulls. Politar, llibre II, cap. VI |
+| **post** | tauló o plafó per clavar a la paret: el decret d'excomunió s'havia de posar «o **post gran**… plantada en un puesto haon se puga facilment llegir y veurer». Politar, llibre II, cap. VI |
+| **artista** | en l'aranzel del notari, l'estimador que exerceix un ofici titulat —«si los estimadors fosen **artistes**, v. gr., escrivans, cirurgians o altres»—, que cobra més que l'estimador comú. Politar, llibre II, cap. VI |
+| **pinyora** | penyora: el bé embargat i guardat en nom de la Justícia, amb tarifa d'entrada, de custòdia anual i de bestiar. **Al cap de dos anys, si no es redimeix, «se judiquen bens vacants»**. Politar, llibre II, cap. VI |
 | **ordinació** | norma d'un comú |
 | **foc i lloc** | impost parroquial |
 | **consòrcia** | unió de persones amb un interès comú que s'ajuden en cas de necessitat |

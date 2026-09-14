@@ -164,7 +164,19 @@ llegats a l'Església.** Vegeu
 
 1. **Quants notaris hi ha avui, de fet.** La llei en fixa el mínim i el sostre;
    **el corpus no té el nombre real**.
-2. **La carta de febrer de 1607**, sencera.
+2. **La carta de febrer de 1607**, sencera. — **`parcial` des del 15-09-2026, i
+   el mecanisme ja té nom andorrà.** El **capítol VI del llibre II del Politar**
+   descriu el sistema en vigor: **el nomenen «alternativament per vida» el Bisbe
+   d'Urgell i el comte de Foix**, i **«en la vacant de notari o escriva, lo
+   Concell General consulte dos homens de la major probitat, vulgo fa la doena,
+   al Princep alqual toca la nominacio, dels quals nomena un»**
+   ([excomunió major per a qui tregui un paper](../patrimoni-institucional/excomunio-major-per-a-qui-tregui-un-paper.md)).
+   **La llista de dos noms es diu la *doena*** —germana de la ***cisena*** dels
+   batlles, que n'eren sis. **I la fórmula de signatura és única per als dos
+   coprínceps**: *«Authoritate ordinaria et Condominorum Vallium Andorræ,
+   Illmorum Episcopi Urgellensis et Comitis Fuxi, notarius publicus dictarum
+   Vallium»*. **El corpus segueix sense la carta del 1607**: el que té és **la
+   descripció del sistema un segle i mig després.**
 3. ~~**Els protocols notarials històrics**: on són.~~ — **`resolt` el
    2026-09-13, i la resposta és molt bona notícia per a aquest projecte.**
    **La Llei del notariat ho diu article per article**
@@ -180,6 +192,18 @@ llegats a l'Església.** Vegeu
    > de més de cent anys són a l'Arxiu Nacional, digitalitzats, per mandat
    > legal.** **Vol dir que la millor font de llengua i de societat que el corpus
    > podia desitjar existeix, és pública i ja està digitalitzada.**
+
+   **I una advertència que el corpus ha trobat després, el 15-09-2026**: el
+   **capítol VI del llibre II del Politar** descriu l'escrivania de les Valls
+   **«en lo mes deplorable estat que en part alguna se age vist, sens haberhi
+   paper algun arxivat ni ordenat, ans be tots per terra sobre sostre, haon se
+   han podrit y consumit… del pols y de la humitat»**, amb **manuals i processos
+   originals repartits per cases particulars**
+   ([excomunió major per a qui tregui un paper](../patrimoni-institucional/excomunio-major-per-a-qui-tregui-un-paper.md)).
+   **Que la llei del 2021 mani portar els protocols de més de cent anys a l'Arxiu
+   Nacional no diu res sobre quants n'hi va haver ni quants es conserven**:
+   **hi ha una pèrdua documental declarada per una font del segle XVIII, sense
+   xifrar.**
 
    **El que segueix obert és l'accés**: la llei regula qui els hi porta, **no en
    quines condicions els pot consultar un tercer.** **I una reserva que cal dir**:
