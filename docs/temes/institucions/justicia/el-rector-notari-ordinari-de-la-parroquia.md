@@ -223,6 +223,15 @@ documents:
 | **17 de febrer de 1697** | Altres capítols matrimonials, rebuts pel **rector, *notari ordinari de la parròquia***. |
 | **16 de juny de 1788** | Menció d'uns capítols matrimonials rebuts pel difunt **Jaume Gelabert, vicari perpetu de Sant Julià**. |
 
+> **Ampliat el 2026-09-18**: **Brutails cita aquest mateix acte del 17 de febrer
+> de 1697 una segona vegada, a la p. 121, i per una altra cosa** —**els pares
+> institueixen la noia hereva i el marit aporta 100 lliures de dot i 10 de
+> *spoli***, com a exemple que **quan la dona és l'hereva és l'home qui porta el
+> dot** ([no són un contracte: són una
+> llei](../../historia/antic-regim/no-son-un-contracte-son-una-llei.md)). **L'autor
+> no connecta les dues cites**; **el corpus sí, i així d'aquest acte en sap
+> l'oficiant i el contingut.**
+
 **El títol de 1697 és el detall.** No és un rector que excepcionalment rep un
 acte: és **«notari ordinari de la parròquia»** —un **ofici notarial eclesiàstic
 amb nom**, ordinari i parroquial, dins un país que oficialment tenia **un sol

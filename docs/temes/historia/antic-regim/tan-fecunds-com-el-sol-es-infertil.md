@@ -251,6 +251,15 @@ maltractar**. **No vol cap altre marit que ell.** I afegeix:
 > encaixa amb la figura del *pubill* —el gendre d'una pubilla— que el corpus té
 > a [l'hereu i el cabaler](./lhereu-i-el-cabaler.md). **La font no ho comenta i
 > el corpus no afirma que aquest sigui el cas**: **només mostra les xifres.**
+>
+> **Actualitzat el 2026-09-18**: **la regla és explícita quatre pàgines més
+> endavant** —«**quan un jove no hereu es casa amb una noia hereva, *pubilla*, és
+> l'home qui aporta el dot**»— **i hi ha un segon cas datat**, el **17 de febrer
+> de 1697**, on **els pares institueixen la filla hereva i el marit aporta 100
+> lliures de dot i 10 de *spoli*** ([no són un contracte: són una
+> llei](./no-son-un-contracte-son-una-llei.md)). **La hipòtesi passa de
+> `hipòtesi` a `probable` i no es tanca**: **del contracte de 1551 no consta qui
+> era hereu.**
 
 I una precisió de l'autor sobre la freqüència: **judicant pels actes d'un registre
 de cap al 1530, aquest do recíproc de la persona és excepcional quan el matrimoni
