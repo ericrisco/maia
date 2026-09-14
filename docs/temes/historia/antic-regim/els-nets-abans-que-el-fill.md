@@ -252,8 +252,14 @@ simbòlica als qui no hereten:**
    registrada.**
 8. **Amb quina freqüència s'instituïa hereva l'ànima.** **Quatre casos no en fan
    una.**
-9. **Per què les filles reben més que els fills** a 1697 i a 1874. **La hipòtesi
-   del dot és del corpus i no està verificada.**
+9. ~~**Per què les filles reben més que els fills** a 1697 i a 1874. **La hipòtesi
+   del dot és del corpus i no està verificada.**~~ — **TANCAT el 2026-09-18: la
+   font ho diu en una línia.** **La llegítima «és augmentada o disminuïda a
+   voluntat dels pares», i és «més alta en general per a les filles, que s'han de
+   dotar»** ([la suma sacramental de cinc
+   sous](./la-suma-sacramental-de-cinc-sous.md)). **La hipòtesi del corpus passa a
+   ser l'afirmació de la font.** **Segueix obert només l'ordre de magnitud de
+   1874.**
 
 ## Related
 

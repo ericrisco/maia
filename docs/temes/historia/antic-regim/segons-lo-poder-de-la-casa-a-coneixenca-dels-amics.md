@@ -313,7 +313,11 @@ dues.**
    fill](./els-nets-abans-que-el-fill.md)): **dues peces independents, dos segles
    de distància, i a totes dues les filles reben més que els fills.** **El corpus
    deixa d'insinuar que 1874 sigui un error de lectura i manté obert l'ordre de
-   magnitud**, que segueix sent molt més gran que el de 1697.
+   magnitud**, que segueix sent molt més gran que el de 1697. **I la raó consta
+   des del 2026-09-18**: **la llegítima «és més alta en general per a les filles,
+   que s'han de dotar»** ([la suma sacramental de cinc
+   sous](./la-suma-sacramental-de-cinc-sous.md)). **Queda obert només l'ordre de
+   magnitud.**
 2. **La sentència sobre el dot de les dues germanes**: **sense data ni
    referència.**
 3. **Si la hipoteca dotal era legal o només d'estil.** **La font ho infereix i no
