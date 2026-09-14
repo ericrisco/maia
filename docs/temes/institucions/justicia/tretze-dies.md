@@ -56,6 +56,24 @@ abans de plantejar una qüestió d'inconstitucionalitat (article 2).
 > del Codi vigent **derivi** d'aquest**: **afirma que el tretze ja hi era, no la
 > cadena que els uneix.**
 
+> **I l'endemà, 21-09-2026, el mateix llibre en dona el desglossament.** **El
+> ***termini legal*** del procediment andorrà «*sembla haver estat de **deu
+> dies***» i **el 1904 és de «**deu dies de dret i tres dies de gràcia**»**
+> ([deu dies de dret i tres de gràcia](./deu-dies-de-dret-i-tres-de-gracia.md)).
+>
+> **10 + 3 = 13.** **El tretze no és un nombre triat: és una suma** —**el termini
+> romà-canònic de deu dies més tres de gràcia.**
+>
+> **Això no tanca el buit, el precisa**: **la hipòtesi que el tretze del Codi
+> vigent en derivi passa de ser una coincidència de xifra a ser una
+> descomposició documentada**, **i segueix sent hipòtesi del corpus perquè cap
+> font no fa el pont.** **Buit nou i més concret**: **quan els deu dies van passar
+> a ser deu més tres, i per quin acte.** **La font no ho data.**
+>
+> **I una diferència de règim que el corpus reté**: **el *termini legal* de 1904
+> **corria a instància de part** —«*l'una o l'altra part poden… demanar-lo*»—,
+> **no d'ofici.**
+
 ## Dos procediments, i quan cal advocat
 
 El Codi treballa amb **procediment ordinari** (amb **audiència prèvia**) i
