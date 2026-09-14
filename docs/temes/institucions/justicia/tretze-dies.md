@@ -41,6 +41,21 @@ abans de plantejar una qüestió d'inconstitucionalitat (article 2).
 > herència del dret històric andorrà, dels usos del tribunal o d'una decisió del
 > legislador de 2021— **no consta a cap text llegit**.
 
+> **`parcial` des del 20-09-2026, i de les tres hipòtesis guanya la primera.**
+> **El tretze és herència del dret històric andorrà, i està documentat el 1904**:
+> **Brutails escriu que «*es tenen **tretze dies** per recórrer contra la
+> sentència dels batlles*» i en treu una conseqüència de calendari** —**si les
+> Corts s'obren dins d'aquells tretze dies, la part pot portar-hi l'afer i
+> obtenir una solució més ràpida i definitiva**—
+> ([tretze dies, i ja hi eren el 1904](./tretze-dies-i-ja-hi-eren-el-1904.md)).
+> **Cent disset anys abans del Codi, el mateix nombre i per a la mateixa funció**:
+> **el termini per recórrer una resolució judicial.**
+>
+> **El que segueix obert**: **d'on el treia la font el 1904.** **El dona com a
+> cosa sabuda i no cita ni norma ni ús.** **I el corpus no afirma que el termini
+> del Codi vigent **derivi** d'aquest**: **afirma que el tretze ja hi era, no la
+> cadena que els uneix.**
+
 ## Dos procediments, i quan cal advocat
 
 El Codi treballa amb **procediment ordinari** (amb **audiència prèvia**) i

@@ -390,6 +390,17 @@ seguretat**. **Se'n reté la data i res més.** `Requereix la pàgina impresa.`
 context s'entén que són **les lletres que el jutge *a quo* atorga per deixar
 passar l'apel·lació**, i **el corpus no ho ha comprovat lexicogràficament.**
 
+> **`parcial` des del 20-09-2026, i ara amb la forma contrària documentada.** **Un
+> acte del 15 de novembre de 1533 refusa una apel·lació als Cosenyors «*tanquam
+> inanem et frivolam*» i concedeix la resposta mateixa «***pro apostolis
+> reffutatoriis***»**
+> ([tretze dies, i ja hi eren el 1904](./tretze-dies-i-ja-hi-eren-el-1904.md)).
+> **Els *apòstols* són, doncs, **la resposta escrita del jutge *a quo* sobre
+> l'apel·lació**, i **en tenen dues menes**: **els *reverencials*, que la deixen
+> passar, i els *refutatoris*, que la deneguen.** **El corpus els dona per
+> documentats en els dos sentits i manté obert que no els ha comprovat contra cap
+> diccionari.**
+
 ~~**El Politar, pàgina 183**, que Brutails cita **contra** la tesi que el
 copríncep ha de jutjar en persona, **no s'ha llegit.**~~ — **Tancat el
 15-09-2026**: és la paginació interna **[183]** del **capítol III del llibre II**,
