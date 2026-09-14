@@ -140,6 +140,14 @@ una quantitat**, el marit **només està obligat a tornar una quantitat igual** 
 d'on la conseqüència que **tercers el poden obligar a pagar-hi els seus deutes si
 el reintegrament del dot està assegurat per una altra banda**.
 
+> **I el preu d'aquesta comoditat, afegit el 2026-09-18.** **Sentència d'un batlle
+> del 12 d'octubre de 1861**: «*Lo dret de tenuta **sols pertany a las viudas que
+> han portat al matrimoni un dot en diner o estimat y no a las que ho hagian fet en
+> fincas inestimadament***.*» **La manera habitual de lliurar un dot en béns feia
+> perdre a la vídua la garantia més forta que la protegia** ([simplement un efecte
+> de la deferència](../../societat/dones/simplement-un-efecte-de-la-deferencia.md)).
+> **No taxar era còmode el dia del contracte i car el dia de la viduïtat.**
+
 **L'excepció documentada**: **26 d'octubre de 1785**, un home **de Pal** fa,
 **davant de notari i testimonis**, **inventari dels béns de la seva dona
 lliurats «*inestimadament*» com a fons dotal**, **amb l'obligació de fer-ne

@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**864** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**865** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1195,6 +1195,7 @@
 | [El sufragi femení](temes/societat/dones/el-sufragi-femeni.md) | `temes/societat/dones` | compilada | contemporania | no | `consell-general-web` |
 | [La llei d'igualtat](temes/societat/dones/la-llei-digualtat.md) | `temes/societat/dones` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Les primeres becàries](temes/societat/dones/les-primeres-becaries.md) | `temes/societat/dones` | compilada | contemporania | no | `toquec-ensenyament-frances` |
+| [Simplement un efecte de la deferència](temes/societat/dones/simplement-un-efecte-de-la-deferencia.md) | `temes/societat/dones` | compilada | historica | no | `brutails-coutume-1904` |
 | [Vanessa Mendoza Cortés](temes/societat/dones/vanessa-mendoza-cortes.md) | `temes/societat/dones` | compilada | contemporania | no | `wikipedia-vanessa-mendoza` |
 
 ## temes/societat/educacio
