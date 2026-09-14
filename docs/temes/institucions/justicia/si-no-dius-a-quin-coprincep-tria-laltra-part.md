@@ -31,6 +31,19 @@ judicial. Per llegir-lo s'ha d'anar al cos de l'obra: **pàgines 236-238**
 > alternativa del decret que la regeix**. **El corpus el reté com a font i
 > marca les seves valoracions com a seves.**
 
+> **Afegit el 19-09-2026, i capgira l'ordre de les coses.** **El corpus donava
+> l'alternança per la regla del Jutge d'Apel·lacions.** **La p. 232 del mateix
+> llibre diu que no ho és**: **als segles XV i XVI el jutge «ha de ser, almenys
+> en dret, **proveït per l'un i l'altre cosenyor**», i l'alternança és
+> «**una combinació més pràctica**» adoptada perquè **la tria comuna era sovint
+> difícil**.** **El principi era el jutge comú; l'alternança n'és el
+> substitut**
+> ([no en volien dos, de jutge](./no-en-volien-dos-de-jutge-en-volien-un-de-comu.md)).
+> **I el país ho va fer valer**: **el 24 de febrer de 1484 el Consell General va
+> refusar un jutge nomenat només pel Bisbe** fins que vingués «*probeit de abdos
+> los Senyos*», **i una súplica dels andorrans demana «jutge comu» després de
+> vuitanta-sis dies de justícia torbada per tenir-ne dos.**
+
 ## El que diu el formulari
 
 > «Nous, **Préfet des Pyrénées-Orientales, Délégué permanent du Gouvernement
