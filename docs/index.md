@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**916** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**917** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -992,6 +992,7 @@
 | [Tinga's pres per lo Príncep](temes/institucions/justicia/tingas-pres-per-lo-princep.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Tres dies, deu dies o un mes, segons els camins](temes/institucions/justicia/tres-dies-deu-dies-o-un-mes-segons-els-camins.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Tretze dies, i ja hi eren el 1904](temes/institucions/justicia/tretze-dies-i-ja-hi-eren-el-1904.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
+| [Tretze dies, però comptats d'una altra manera](temes/institucions/justicia/tretze-dies-pero-comptats-duna-altra-manera.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Tretze dies](temes/institucions/justicia/tretze-dies.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Un corpus no és un organisme competent](temes/institucions/justicia/un-corpus-no-es-un-organisme-competent.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Un decret que ningú no ha produït mai](temes/institucions/justicia/un-decret-que-ningu-no-ha-produit-mai.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |

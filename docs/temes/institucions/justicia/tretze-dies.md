@@ -74,6 +74,17 @@ abans de plantejar una qüestió d'inconstitucionalitat (article 2).
 > **corria a instància de part** —«*l'una o l'altra part poden… demanar-lo*»—,
 > **no d'ofici.**
 
+> **I hi ha un moment documentat en què el nombre sobreviu i el còmput es perd —
+> 21-09-2026.** **El decret francès del 13 de juliol de 1888 conserva els «tretze
+> dies» per al recurs al Tribunal Superior i **«ha encarit inoportunament la
+> severitat del costum»***: **fa córrer el termini des de la lectura de l'acord i
+> no des de la notificació efectiva**, **no dedueix els feriats**, i **exigeix que
+> dins d'aquests tretze dies el tribunal de dalt ja hagi estat requerit**
+> ([tretze dies, però comptats d'una altra manera](./tretze-dies-pero-comptats-duna-altra-manera.md)).
+> **El corpus ho reté com a precedent del que li interessa d'aquest fil**: **el
+> tretze pot viatjar d'una norma a una altra **sense les regles que el feien
+> tretze**.**
+
 ## Dos procediments, i quan cal advocat
 
 El Codi treballa amb **procediment ordinari** (amb **audiència prèvia**) i

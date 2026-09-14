@@ -44,6 +44,18 @@ judicial. Per llegir-lo s'ha d'anar al cos de l'obra: **pàgines 236-238**
 > los Senyos*», **i una súplica dels andorrans demana «jutge comu» després de
 > vuitanta-sis dies de justícia torbada per tenir-ne dos.**
 
+> **I la regla no la va inventar el decret: la va recollir — 21-09-2026.** **El
+> manuscrit del senyor Palmitjavila l'enuncia ja, i amb un detall que el
+> formulari no dona**: «*La part que s' voldra apellar **deu en sa apellacio
+> declarar son animo al qual dels princeps vol recorrer**, per que, si no l'
+> declare…, **pot la altra part, encara que no sie gravada, declarar son animo,
+> ab acte**, de recorrer al princep que be li aparexera*»
+> ([tretze dies, però comptats d'una altra manera](./tretze-dies-pero-comptats-duna-altra-manera.md)).
+> **L'altra part ho pot fer **encara que la sentència no l'hagi perjudicada**, i
+> **ho ha de fer per escrit, «ab acte»**.** **El corpus registra que el mateix
+> decret de 1888 **recull aquest ús andorrà en un punt i n'endureix un altre**:
+> el còmput del termini de tretze dies.**
+
 > **I la regla que el formulari de 1888 substitueix també té nom — 19-09-2026.**
 > **Abans, qui coneixia del darrer grau era «*aquel principe **que es
 > prevenido***»**, **el requerit primer**, segons la carta de **Fiter i Rossell**
