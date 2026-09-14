@@ -277,11 +277,22 @@ nord-catalana veïna**: **la figura és pirinenca i Andorra n'és el cas extrem.
 
 ## Buits registrats
 
-- **Cap norma andorrana escrita que fixi —o que no fixi— el termini.** **Becat
-  diu «sembla que il·limitat» i el corpus no té cap text que ho digui.**
-  **És la pregunta central d'aquesta fitxa i segueix oberta.**
-  `Requereix font externa: el Codi de relacions laborals no hi val; caldria la
-  jurisprudència civil andorrana, o el Manual Digest i el Politar.`
+- ~~**Cap norma andorrana escrita que fixi —o que no fixi— el termini.**~~ —
+  **Tancat el 15-09-2026 contra la font primària**, i **el «sembla que
+  il·limitat» de Becat queda confirmat i matisat.** Brutails, **pàgina 205**:
+  «**les actes n'indiquent pas ce délai et alors, comme dans l'ancien droit
+  catalan, le réméré est perpétuel et imprescriptible**». **En venda amistosa es
+  pot pactar un termini** —clàusula **freqüent a l'edat mitjana i molt rara
+  avui**—, i **si no es pacta, no caduca**. **En vendes judicials d'immobles i
+  en repartiments després d'una cessió de béns, el retracte és de dret.** El
+  costum **en presumeix el valor en un quart** —d'aquí **`dret de cuarta`**— i
+  **a Catalunya la presumpció és d'un terç**. **Abans era d'un any i un dia**,
+  i **el Consell General va demanar al bisbe el 9 d'abril del 1770 que en
+  perdonés el termini a tots els insolvents perquè el blat era car**
+  ([abrogats el 1839, aplicats el 1889](../../institucions/justicia/abrogats-el-1839-aplicats-el-1889.md)).
+  **Segueix obert** el **decret episcopal del 15 d'octubre del 1881**, que
+  restringeix el retracte als immobles, i **les pàgines 213-214 del Politar**,
+  que el neguen per a mobles i bestiar en venda judicial.
 - **Els casos dels anys setanta.** **Becat en parla en plural i no en dona cap.**
   `Requereix font externa.`
 - **Assier-Andrieu 1984**, citat i no llegit. **Localitzat: *Quaderns de

@@ -278,7 +278,21 @@ I el paràgraf **13**, que és el que tanca el sistema:
 termini, **encara que després li ofereixis els diners, no te l'ha de tornar.**
 
 **El termini no és una gràcia del creditor: és una data a partir de la qual el
-pagament ja no serveix de res.** Compareu-ho amb
+pagament ja no serveix de res.**
+
+> **Corregit el 15-09-2026, i és una correcció de fons.** **L'any i un dia és la
+> regla vella, no la que regia el 1904.** Brutails ho diu a la **pàgina 206**:
+> «**La durée de ce réméré consécutif aux ventes judiciaires soulève un problème
+> bien étrange. Elle était autrefois de un an et un jour**» — i **les fonts que
+> en dona són aquest mateix manuscrit i el Politar, pàgina 214**. Després es va
+> obrir: **si l'acte no fixa termini, el retracte és perpetu i imprescriptible**,
+> i **en venda judicial d'immobles és de dret**. **El trencament comença el 9
+> d'abril del 1770**, quan el Consell General **comissiona Ignasi Fiter i Rossell
+> i Esteve Rossa i Pujol per suplicar al bisbe** que perdoni el termini a tots
+> els qui havien fet cessió de béns, **perquè el blat era car**
+> ([abrogats el 1839, aplicats el 1889](./abrogats-el-1839-aplicats-el-1889.md)).
+> **El que aquest manuscrit diu segueix sent el que diu**; **el que no es pot
+> fer és llegir-lo com la regla d'Andorra sense data.** Compareu-ho amb
 [la venda a carta de gràcia](../../economia/banca-i-fiscalitat/la-carta-de-gracia.md),
 on el dret de recompra **no caduca** i és el que fa que tres-cents anys després
 encara es pugui exercir. **Dues institucions andorranes sobre la mateixa cosa

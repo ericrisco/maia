@@ -180,11 +180,22 @@ transcripció de Brutails i **cap signatura d'arxiu**: l'editor no en dona per a
 aquesta peça. `Requereix l'Arxiu Capitular de la Seu d'Urgell o el llibre del
 Consell General on el decret de l'11 d'agost mana publicar-se.`
 
-**No consta si aquests decrets es van aplicar.** Cap execució posterior al 1785
-no s'ha llegit. **El corpus té la norma i no en té cap cas**, i les peces de
-possessió que sí que té són del
-[1783 i del 1788](./es-va-treure-el-barret-perque-feia-vent.md): **una abans i
-una després, i cap de les dues no invoca cap d'aquests decrets.**
+~~**No consta si aquests decrets es van aplicar.**~~ — **Tancat el 15-09-2026, i
+la resposta és més estranya que la pregunta.** **Els tres decrets de 1785-1786
+van ser abrogats el 1839** i, diu el mateix llibre, **«ils n'en continuent pas
+moins à être appliqués dans l'ensemble»**. **El Consell General hi va tornar
+cinc vegades** —**16-04-1832, 6-06-1835, 10-05-1842, juny del 1867 i
+5-06-1889**—: el **1835 mana als batlles que n'observin les disposicions** i el
+**juny del 1889 atesta que són la llei del país**, **cinquanta anys després de
+l'abrogació**. **I el cas existeix**: la **sentència d'un batlle del 2 de març
+del 1889** executa «**subastant y fent remate dels bens mobles y efectes
+embargats hasta la suma de 80 lliuras barcelonesas, y per lo restant…
+adjudicantse als acrehedors bens inmobles**» — **que és una de les tres maneres
+que Brutails considera contràries al text dels decrets**
+([abrogats el 1839, aplicats el 1889](../../institucions/justicia/abrogats-el-1839-aplicats-el-1889.md)).
+**Segueix obert amb quina norma es van abrogar el 1839**, i **cap de les peces de
+possessió del [1783 i del 1788](./es-va-treure-el-barret-perque-feia-vent.md) no
+invoca cap d'aquests decrets.**
 
 **No consta què va passar amb el termini de tres anys.** El decret del **4
 d'agost de 1854**, setanta anys després, torna a fixar terminis de prescripció

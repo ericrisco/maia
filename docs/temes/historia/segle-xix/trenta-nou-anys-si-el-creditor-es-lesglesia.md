@@ -216,6 +216,17 @@ demanades pel Consell General, afluixen totes dues la protecció del deutor.**
 Cap escriptura posterior al 1854 no s'ha llegit. **El corpus té la norma i no en
 té cap cas.**
 
+**I de l'altra obligació del decret del 30-09-1853, ara sí que se'n sap una
+cosa, i és que no va servir.** A la llista de decrets episcopals de les
+**pàgines 56-57** del mateix llibre, Brutails resumeix aquell decret —taxació
+prèvia per perits en les vendes a carta de gràcia amb retrocessió en
+arrendament, i **obligació que els notaris presentin anualment les seves minutes
+davant del Consell General**— i hi afegeix quatre paraules: «**Cette dernière
+disposition est sans effet.**» **La revisió anual de tots els protocols
+notarials que aquesta fitxa descriu no s'aplicava el 1904**
+([abrogats el 1839, aplicats el 1889](../../institucions/justicia/abrogats-el-1839-aplicats-el-1889.md)).
+**Segueix obert** si es va aplicar mai, i **des de quan no.**
+
 **I el 14-09-2026 això es complica, dins del mateix volum.** A la **pàgina 184**
 del cos de l'obra, Brutails escriu que **«le taux légal maximum de l'intérêt est
 de 5 pour cent»** i que els tribunals civils i criminals tenen per usurari tot el

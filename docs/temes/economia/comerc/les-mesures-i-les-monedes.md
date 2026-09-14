@@ -38,6 +38,14 @@ metrològic andorrà**, mesurat per l'autor amb els patrons a la mà.
 | **1 unça d'or** o *dubla de cuatre* | **80 pessetes** |
 | **1 duro** | l'escut de **5 pessetes** |
 
+> **I el 2,66 és l'arrodoniment de 2⅔ — comprovat el 15-09-2026.** A la
+> **pàgina 297** del mateix llibre, Brutails converteix **80 lliures barceloneses
+> en «213 pesetas 33»**. **80 × 8/3 = 640/3 = 213,33**, i **80 × 2,66 = 212,80**.
+> **La xifra impresa està feta amb 2⅔**, que és el que el text mateix dona en
+> dir que el sou antic és al sou de cinc cèntims «**comme 2 2/3 est à 1**».
+> **Per als càlculs del corpus, la lliura val 8/3 de pesseta**
+> ([abrogats el 1839, aplicats el 1889](../../institucions/justicia/abrogats-el-1839-aplicats-el-1889.md)).
+
 **I la comprovació interna quadra:** 30 × 2,66 = **79,8 pessetes**, que és la
 unça a **80**. Brutails hi afegeix una venda del **1900** on el preu es diu de les
 dues maneres alhora — «**per lo preu de vint y sinch onsas o sien cuatre cents
@@ -321,7 +329,17 @@ la vila de Andorra exercint Corts**», dictada a petició del Consell General i
    la confraria dels teixidors d'Escaldes el 1904.
 5. **Quan es va passar al sistema mètric** a Andorra, i amb quina norma.
 6. **El Politar, pàgines 583-585**, contra l'original.
-7. **Qui era Vidal Seré**, i què era exactament «exercint Corts» a la vila
+7. **El ducat, a una data concreta.** — **Guany parcial del 15-09-2026, i és
+   una relació que la taula mal extreta no dona.** Un acte del **24 d'agost del
+   1580**, en què un cònsol i un prom judiquen unes penyores a instància del
+   procurador d'un canonge d'Urgell, les taxa en «**deu ducats, diem xi ll.
+   bar.**» — és a dir **10 ducats = 11 lliures barceloneses**, o **1 ducat = 22
+   sous**
+   ([abrogats el 1839, aplicats el 1889](../../institucions/justicia/abrogats-el-1839-aplicats-el-1889.md)).
+   **És un sol acte i no fa sèrie**, i **no s'ha creuat amb les files de 1551,
+   1552, 1567, 1580, 1599 i 1603 de la taula**, que donen el ducat com a moneda
+   de referència sense donar-ne la relació amb la lliura.
+8. **Qui era Vidal Seré**, i què era exactament «exercint Corts» a la vila
    d'Andorra el 1662.
 
 ## Related

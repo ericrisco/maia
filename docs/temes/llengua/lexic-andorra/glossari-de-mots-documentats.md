@@ -86,6 +86,11 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **lletres inhibitòries** | el paper que **atura l'execució d'una sentència mentre s'apel·la**. Del 1888 ençà, per la banda francesa **les signava el prefecte dels Pirineus Orientals** com a delegat permanent, i **se'n feien sis còpies** |
 | **tercera sala** | la **tercera instància** andorrana. **No és cassació**: reté el fons i la forma i sentencia definitivament |
 | **retractació** | la revisió excepcional d'una sentència ferma. **Documentada el 20-08-1760 i el 12-09-1760** com a «**revista**» i «**revistar**» davant del Consell General. **Procediment no fixat** |
+| **dret de cuarta**, **dret de luir e quitar** | el dret de recomprar una finca venuda o executada. Es diu *de cuarta* perquè **el costum en presumeix el valor en un quart del total**: en venda judicial **s'atribueix per 75 lliures un bé taxat en 100**. **Perpetu i imprescriptible si l'acte no fixa termini**; **abans era d'un any i un dia**. **A Catalunya la presumpció és d'un terç** ([font primària](../../institucions/justicia/abrogats-el-1839-aplicats-el-1889.md)) |
+| **dret de sinch sous** | el **segon** retracte: quan el *dret de cuarta* passa als creditors perquè l'actiu no basta, **el deutor conserva aquest**. **No consta per què es diu així** |
+| **judicació** | la taxació i adjudicació de béns a un creditor, feta per **judicadors jurats**. **Els perits per a finques rústiques «se nombran casi sempre de entre las autoritats»**, per decret del Consell General del **20-12-1896** |
+| **agraduació** | l'ordenació dels creditors en una cessió de béns, per **«prioritat de temps y majoria de dret»** |
+| **postor** | qui fa una oferta en una subhasta. **Documentat en un acte del 26-05-1783** |
 | **ordinació** | norma d'un comú |
 | **foc i lloc** | impost parroquial |
 | **consòrcia** | unió de persones amb un interès comú que s'ajuden en cas de necessitat |
