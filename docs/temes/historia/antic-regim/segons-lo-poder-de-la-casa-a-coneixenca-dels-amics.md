@@ -213,6 +213,15 @@ marcat com a tancat **amb un sol cas** i amb l'avís que **calia sèrie**. **Aqu
 > mig, sobre figures que no són la mateixa cosa** —*donació*, *milora*, *augment*,
 > *spoli*, *creix*, *escreix*—, **triades per la font per il·lustrar, no per
 > mostrejar**. **No és una sèrie estadística: és el que hi ha.**
+>
+> **Corregit el 2026-09-18, en llegir la secció següent.** **La font declara
+> expressament, a la p. 130, que «Andorra no observa aquella proporció constant
+> que fixa, en altres països, el douaire a la meitat del dot»**, que **ni tan sols
+> pot afirmar que el *spoli* es reduís quan el dot no es pagava sencer**, i que a
+> Andorra **la proporció d'1 a 2 és *excepcional***. **El corpus manté la taula com
+> a recull de casos i retira la lectura de tendència**: **les xifres són bones, la
+> corba no.** Vegeu [remunten a la casa d'on els béns han
+> sortit](./remunten-a-la-casa-don-els-bens-han-sortit.md).
 
 ### El creix «per sa lloable virginitat»
 
@@ -221,8 +230,16 @@ marcat com a tancat **amb un sol cas** i amb l'avís que **calia sèrie**. **Aqu
 > lliures** a títol d'«***escreix o donacio per noces***», «***per sa lloable
 > virginitat***».
 
-**El fonament escrit del creix és la virginitat de la núvia**, i **val el 10 % del
-dot**. I la mateixa acta fixa **com es torna**: «*conforme constara en la apoca
+**El fonament escrit d'aquest creix és la virginitat de la núvia**, i **val el
+10 % del dot**.
+
+> **Matisat el 2026-09-18.** **La citació és bona; la generalització no.** A la
+> p. 130 la mateixa obra adverteix que **la tesi dels autors catalans segons la
+> qual el *spoli* és el preu de la virginitat «no s'ha de prendre al peu de la
+> lletra»**, perquè **també s'estipula a favor de vídues que es tornen a casar** i
+> perquè **hi ha contractes amb *spoli* recíproc entre els dos esposos**. Vegeu
+> [remunten a la casa d'on els béns han
+> sortit](./remunten-a-la-casa-don-els-bens-han-sortit.md). I la mateixa acta fixa **com es torna**: «*conforme constara en la apoca
 haberse rebut, **so es diners per diners y dinerades per dinerades**.*»
 
 ## Quan el dot el porta l'home

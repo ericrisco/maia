@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**863** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**864** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -714,6 +714,7 @@
 | [No són un contracte: són una llei](temes/historia/antic-regim/no-son-un-contracte-son-una-llei.md) | `temes/historia/antic-regim` | compilada | historica | no | `brutails-coutume-1904` |
 | [Primer el meu pare; després, el meu marit](temes/historia/antic-regim/primer-el-meu-pare-despres-el-meu-marit.md) | `temes/historia/antic-regim` | compilada | historica | no | `brutails-coutume-1904` |
 | [Primer la terra](temes/historia/antic-regim/primer-la-terra.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `brutails-coutume-1904` |
+| [Remunten a la casa d'on els béns han sortit](temes/historia/antic-regim/remunten-a-la-casa-don-els-bens-han-sortit.md) | `temes/historia/antic-regim` | compilada | historica | no | `brutails-coutume-1904` |
 | [Segons lo poder de la casa, a coneixença dels amics](temes/historia/antic-regim/segons-lo-poder-de-la-casa-a-coneixenca-dels-amics.md) | `temes/historia/antic-regim` | compilada | historica | no | `brutails-coutume-1904` |
 | [Tan fecunds com el sòl és infèrtil](temes/historia/antic-regim/tan-fecunds-com-el-sol-es-infertil.md) | `temes/historia/antic-regim` | compilada | historica | no | `brutails-coutume-1904` |
 | [Una persona, un bou, un colomer](temes/historia/antic-regim/una-persona-un-bou-un-colomer.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `brutails-coutume-1904` |
