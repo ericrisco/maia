@@ -1,0 +1,1770 @@
+[00:00:06.660 --> 00:00:21.280] [?Bé,] a tothom, soc Virginia [?Larrat,] cap de l'Escola Internacional de Doctorat de la Universitat d'Andorra
+[00:00:21.280 --> 00:00:25.380] i us dono la benvinguda al concurs de tesi en 4 minuts.
+[00:00:26.180 --> 00:00:31.940] Que degut a la situació actual que estem vivint, ho farem en dos formats.
+[00:00:32.140 --> 00:00:36.840] Un serà presencial en aquesta sala de la Universitat d'Andorra [?a] Sant [?Diguea] de Lònia
+[00:00:36.840 --> 00:00:40.700] i un altre s'està retransmetint en vídeo per streaming.
+[00:00:40.700 --> 00:00:45.860] Així que benvinguts a tots els que esteu aquí a la sala i els que esteu a l'altre costat de la pantalla.
+[00:00:47.270 --> 00:00:51.350] L'Escola Internacional de Doctorat, per tirar endavant aquest concurs,
+[00:00:51.530 --> 00:00:56.450] ha comptat amb la col·laboració dels científics de Big Bang [?Ciència,]
+[00:00:56.750 --> 00:01:03.110] que amb el seu humor característic han ajudat els nostres doctorants a treure el [?millor] de [?si] mateix,
+[00:01:03.210 --> 00:01:05.560] que ara en breus moments veurem.
+[00:01:06.400 --> 00:01:09.220] En la línia del model educatiu de la Universitat d'Andorra,
+[00:01:09.220 --> 00:01:13.940] que planteja reptes als estudiants per tal de desenvolupar les competències,
+[00:01:14.340 --> 00:01:19.010] aquest any el repte que hem marcat els doctorants de la Universitat d'Andorra
+[00:01:19.010 --> 00:01:22.760] és comunicar la seva tesi en 4 minuts.
+[00:01:22.860 --> 00:01:27.740] Això vol dir comunicar-nos què estan fent amb un llenguatge clar, senzill,
+[00:01:27.920 --> 00:01:30.880] entenedor, en un temps límit de 4 minuts,
+[00:01:31.220 --> 00:01:34.460] i amb un públic que no és especialista en el seu àmbit.
+[00:01:35.500 --> 00:01:40.090] [?En] acabar les presentacions dels doctorants,
+[00:01:40.500 --> 00:01:43.880] el públic present i el públic que ens està seguint en streaming,
+[00:01:44.320 --> 00:01:49.800] [?doncs] podrà votar a partir d'una [?enllaç] que us farem arribar.
+[00:01:50.150 --> 00:01:52.170] Utilitzarem els criteris [?d'edmits] per a la Universitat,
+[00:01:52.170 --> 00:01:56.540] [?la] Universitat de Queensland [?de] comprensió i de [?comunicació.]
+[00:01:56.940 --> 00:02:00.700] I en funció d'aquestes valoracions s'establirà un guanyador.
+[00:02:01.100 --> 00:02:10.780] El guanyador [?tindrà] un premi que consisteix en un kit per gravar vídeos i fer videoconferències.
+[00:02:11.020 --> 00:02:20.730] [?Doncs,] sense res més, donem pas a la primera doctoranda, [?Anna] Boada.
+[00:02:21.540 --> 00:02:24.840] Està desenvolupant la seva tesi sobre Medicina regenerativa,
+[00:02:25.080 --> 00:02:27.660] tractament de l'artrosi en [?teràpia] celular.
+[00:02:28.180 --> 00:02:28.360] Anna.
+[00:02:33.370 --> 00:02:35.510] Gràcies, Virginia. Bon dia a tothom.
+[00:02:36.380 --> 00:02:36.540] [?Bé.]
+[00:02:38.050 --> 00:02:38.870] [?Menys] [?el] temps.
+[00:02:39.320 --> 00:02:40.290] [?A] [?mi] tens el temps.
+[00:02:40.680 --> 00:02:40.920] Bé.
+[00:02:41.350 --> 00:02:42.020] [?Tu] [?dius.]
+[00:02:42.450 --> 00:02:46.300] [?A] algú de vostès li fa mal al [?genoll,] no?
+[00:02:46.460 --> 00:02:49.660] Tenen algun amic, algun conegut [?que] li costi [?genollarca,]
+[00:02:49.820 --> 00:02:52.960] que li faci mal al caminar [?o] que no pugui fer l'activitat esportiva que vol?
+[00:02:53.540 --> 00:02:58.000] No seria estrany, de fet, perquè recentment tothom fa activitat d'esport,
+[00:02:58.100 --> 00:03:02.720] exercicis d'impacte i l'esperança de vida ha augmentat [?forçosament.]
+[00:03:03.560 --> 00:03:06.120] No seria estrany, doncs, que algun d'aquests seu amic o conegut,
+[00:03:06.220 --> 00:03:08.880] o potser vostès mateixos, tinguessin [?l'artrosi] de genoll.
+[00:03:09.230 --> 00:03:10.260] Què és l'artrosi de genoll?
+[00:03:10.260 --> 00:03:13.140] L'artrosi es defineix per una patologia articular
+[00:03:13.140 --> 00:03:16.280] que provoca dolor, inflamació a l'articulació
+[00:03:16.280 --> 00:03:19.790] i hi ha un aixafament de l'espai articular
+[00:03:19.790 --> 00:03:22.590] amb detriments d'un dany al [?cartílag.]
+[00:03:23.600 --> 00:03:26.580] Es veu aquesta malaltia, que de fet parlem només del genoll,
+[00:03:26.700 --> 00:03:29.960] perquè és l'articulació que més [?freqüent] s'afecta [?a] Espanya
+[00:03:29.960 --> 00:03:31.520] i afecta 7 milions de persones.
+[00:03:32.180 --> 00:03:35.610] I és que, de fet, és la primera causa d'incapacitat permanent
+[00:03:35.610 --> 00:03:37.610] i la tercera causa d'incapacitat laboral.
+[00:03:37.610 --> 00:03:40.310] És a dir, estem parlant d'un problema prou important a la societat.
+[00:03:40.920 --> 00:03:43.900] I vostès em diran, [?bueno,] però hi ha les [?proteges] de [?genoll,]
+[00:03:44.080 --> 00:03:46.220] perquè preocupar-se per una cosa que té solució.
+[00:03:46.780 --> 00:03:50.280] De fet, a Espanya, cada cop més s'han anat posant més [?proteges] de genoll.
+[00:03:50.480 --> 00:03:53.320] [?Al] 2000, aproximadament, s'en posaven ja unes 25 mil.
+[00:03:54.070 --> 00:03:56.940] Però jo els hi dic, tot i que hi ha les proteges de genoll,
+[00:03:57.040 --> 00:03:59.920] vostès estarien disposats a tallar el [?seu] genoll,
+[00:04:00.160 --> 00:04:01.380] posar una peça de titani,
+[00:04:01.700 --> 00:04:05.340] una peça que sabem que té una vida [?que] no durarà per sempre
+[00:04:05.340 --> 00:04:09.080] i més sabent que, sortosament, nosaltres podríem viure fins als 80
+[00:04:09.080 --> 00:04:11.140] i amb una mica de sort, fins als 100 anys.
+[00:04:11.990 --> 00:04:13.870] [?Bé,] fins ara no teníem massa més solució,
+[00:04:14.540 --> 00:04:17.160] però a finals del segle XIX, aproximadament,
+[00:04:17.220 --> 00:04:19.160] i fruit de la investigació en biologia,
+[00:04:19.880 --> 00:04:21.720] en teràpia celular, sobretot,
+[00:04:21.960 --> 00:04:24.880] es va conèixer que hi ha unes cèl·lules [?que] les tenim al nostre propi organisme
+[00:04:24.880 --> 00:04:28.430] que tenen capacitat per regenerar teixit.
+[00:04:28.430 --> 00:04:32.800] [?I] un d'ells, el [?cartílat,] [?que] fins ara no hi havia cap teràpia que pogués regenerar-lo.
+[00:04:33.870 --> 00:04:39.150] El meu projecte, doncs, vol avaluar aquest tractament [?amb] aquest tipus de cèl·lules,
+[00:04:39.410 --> 00:04:40.910] quin impacte pot tenir en l'artrosi,
+[00:04:41.010 --> 00:04:44.630] és a dir, podem curar [?l'artrosi,] com ho farem?
+[00:04:44.790 --> 00:04:46.570] Aquí a Andorra, en una clínica d'aquí Andorra,
+[00:04:46.650 --> 00:04:48.490] tots els pacients que tinguin artrosi de genoll
+[00:04:48.490 --> 00:04:51.440] passaran per un procediment de liposucció,
+[00:04:52.250 --> 00:04:54.170] sortosament aquestes cèl·lules les tenim al greix,
+[00:04:54.250 --> 00:04:56.170] que tothom en tenim algun cap o altre,
+[00:04:56.790 --> 00:04:58.670] passaran per un procés de liposucció,
+[00:04:58.870 --> 00:05:00.910] [?després,] un laboratori que tenim aquí també,
+[00:05:01.030 --> 00:05:02.310] tenim la sort de tenir-lo,
+[00:05:02.630 --> 00:05:05.770] especialitzat en [?biologia,]
+[00:05:06.310 --> 00:05:08.390] [?van] al processat d'aquest greix
+[00:05:08.390 --> 00:05:14.370] i [?extreuen] una part del [?producte,]
+[00:05:14.450 --> 00:05:16.130] que és la [?fracció] vascular astromal.
+[00:05:16.500 --> 00:05:17.920] Allà és on tenim aquestes cèl·lules.
+[00:05:18.100 --> 00:05:19.940] Aquestes cèl·lules pretenem que després,
+[00:05:20.200 --> 00:05:21.620] un cop les injectem al genoll,
+[00:05:22.380 --> 00:05:23.960] regenerin aquest cartílat.
+[00:05:24.240 --> 00:05:25.360] Com ho veurem si això ho fa?
+[00:05:25.760 --> 00:05:27.580] Abans que faci aquest tractament,
+[00:05:28.180 --> 00:05:29.860] [?amb] proves d'imatge,
+[00:05:29.960 --> 00:05:31.180] una ressonància magnètica,
+[00:05:31.260 --> 00:05:33.140] mirarem [?quins] [?cartíl·lules] tenim
+[00:05:33.140 --> 00:05:35.280] i monitoritzarem aquests pacients
+[00:05:35.280 --> 00:05:37.660] tant preguntant [?si] sobre la seva qualitat de vida,
+[00:05:38.160 --> 00:05:38.860] sobre el seu dolor,
+[00:05:39.460 --> 00:05:42.220] sobre la seva capacitat funcional,
+[00:05:42.360 --> 00:05:42.920] que anomenem,
+[00:05:43.600 --> 00:05:45.280] [?i] després, al cap de l'any,
+[00:05:45.520 --> 00:05:47.160] veurem novament aquestes imatges,
+[00:05:47.480 --> 00:05:49.820] si aquest [?cartíl·luc] el tenim una mica més [?engruixit,]
+[00:05:50.110 --> 00:05:52.410] que en realitat és el resultat que nosaltres esperem.
+[00:05:53.420 --> 00:05:55.060] No només que el cartílat millori,
+[00:05:55.140 --> 00:05:56.320] que al final només serà una imatge,
+[00:05:56.520 --> 00:05:58.640] també que el pacient no tingui dolor,
+[00:05:59.160 --> 00:06:00.160] que pugui tornar a córrer,
+[00:06:00.340 --> 00:06:01.520] que pugui tornar a genollar-se,
+[00:06:01.680 --> 00:06:03.800] que pugui fer la seva vida [?habitual.]
+[00:06:05.090 --> 00:06:07.090] I doncs, amb tot això,
+[00:06:07.650 --> 00:06:08.150] sabent això,
+[00:06:08.370 --> 00:06:10.670] que aquest tractament pot arribar a fer això,
+[00:06:11.010 --> 00:06:12.670] vostès [?es] [?posarien] la [?pròpia] [?de] genoll?
+[00:06:18.870 --> 00:06:23.460] Moltes gràcies, Anna.
+[00:06:24.530 --> 00:06:26.950] La següent doctoranda, Blanca Carrera,
+[00:06:27.190 --> 00:06:28.890] la seva [?teixi] porta com a títol
+[00:06:28.890 --> 00:06:30.750] [?la] formació inicial de mestres
+[00:06:30.750 --> 00:06:33.070] des de un enfocament competencial i plurilingüe
+[00:06:33.070 --> 00:06:34.590] [?d'estudi] de cas del [?Bachelor]
+[00:06:34.590 --> 00:06:37.010] en Ciències de l'Educació de la Universitat Andorra.
+[00:06:53.330 --> 00:06:57.410] Ai, [?li] que [?hables?]
+[00:06:57.720 --> 00:06:59.320] Això és el que va respondre l'Anna
+[00:06:59.320 --> 00:07:00.300] quan li van preguntar
+[00:07:00.300 --> 00:07:01.900] en [?aquell] restaurant [?mètic] [?dinant]
+[00:07:01.900 --> 00:07:03.180] què és el que volia per veure.
+[00:07:03.700 --> 00:07:06.120] Ella estava molt orgullosa de la seva resposta.
+[00:07:06.680 --> 00:07:08.620] què podien anar a [?menys] [?si] des de ben [?petida]
+[00:07:08.620 --> 00:07:10.790] havia estudiat anglès i francès
+[00:07:10.790 --> 00:07:11.890] com a segones llengües.
+[00:07:12.570 --> 00:07:13.310] El que ella no sabia
+[00:07:13.310 --> 00:07:14.430] era que els seus mestres
+[00:07:14.430 --> 00:07:16.010] s'havien centrat exclusivament
+[00:07:16.010 --> 00:07:18.310] en el treball de la gramàtica,
+[00:07:18.470 --> 00:07:19.270] [?d'ortografia,]
+[00:07:19.770 --> 00:07:21.230] elements molt importants [?d'una] llengua.
+[00:07:21.810 --> 00:07:23.330] Però s'havien [?d'esputar]
+[00:07:23.330 --> 00:07:24.270] [?la] [?competència] també
+[00:07:24.270 --> 00:07:25.430] i l'ús d'aquesta llengua
+[00:07:25.430 --> 00:07:27.310] en una situació comunicativa real.
+[00:07:28.690 --> 00:07:29.170] Malauradament,
+[00:07:29.270 --> 00:07:30.930] aquesta experiència no [?s'ho] [?he] fet [?allà.]
+[00:07:31.310 --> 00:07:32.690] I és probable que en aquesta sala
+[00:07:32.690 --> 00:07:34.150] hi hagi [?algú] o alguna Anna
+[00:07:34.150 --> 00:07:36.210] que ha estudiat durant molt de temps una llengua,
+[00:07:36.560 --> 00:07:38.220] però després no s'ha [?hagut] d'utilitzar-la
+[00:07:38.220 --> 00:07:39.320] en un context diferent
+[00:07:39.320 --> 00:07:40.850] a l'aula [?o] en l'aula [?aprendre.]
+[00:07:41.930 --> 00:07:42.690] No es tracta, doncs,
+[00:07:42.690 --> 00:07:44.690] de memoritzar [?estructures] lingüístiques
+[00:07:44.690 --> 00:07:46.570] i vocabulari de forma aleatòria,
+[00:07:46.890 --> 00:07:47.670] sinó de conèixer
+[00:07:47.670 --> 00:07:49.310] quin és el repertori més adequat
+[00:07:49.310 --> 00:07:51.260] segons la situació comunicativa
+[00:07:51.260 --> 00:07:53.460] i conèixer [?de] quina manera
+[00:07:53.460 --> 00:07:54.080] [?l'entendria.]
+[00:07:54.900 --> 00:07:56.450] A través de la meva recerca,
+[00:07:56.590 --> 00:07:57.390] tracto [?d'esprimar]
+[00:07:57.390 --> 00:07:59.650] com des de la formació inicial de mestres
+[00:07:59.650 --> 00:08:02.090] es potencia aquesta competència comunicativa
+[00:08:02.090 --> 00:08:02.950] del futur [?docents.]
+[00:08:03.510 --> 00:08:06.820] I és que un mestre que tingui aquesta competència desenvolupada
+[00:08:06.820 --> 00:08:08.700] no només serà un bon comunicador,
+[00:08:09.080 --> 00:08:09.960] sinó que, a més a més,
+[00:08:10.350 --> 00:08:11.950] podrà utilitzar-la a l'aula
+[00:08:11.950 --> 00:08:13.970] i preparar els futurs ciutadans
+[00:08:13.970 --> 00:08:16.080] per comunicar-se en el dia a dia.
+[00:08:17.520 --> 00:08:19.040] [?perquè] [?fa] la meva recerca
+[00:08:19.040 --> 00:08:22.340] he desenvolupat un total de 28 entrevistes
+[00:08:22.340 --> 00:08:24.010] a responsables acadèmics,
+[00:08:24.330 --> 00:08:25.630] [?professorats] i estudiants
+[00:08:25.630 --> 00:08:27.250] de formació inicial de mestres
+[00:08:27.250 --> 00:08:28.070] de Dinamarca,
+[00:08:28.530 --> 00:08:29.970] País [?Basc] i Andorra.
+[00:08:30.640 --> 00:08:33.320] Totes elles són formacions basades en competències
+[00:08:33.320 --> 00:08:35.580] i el que tenen en comú
+[00:08:35.580 --> 00:08:38.570] és que integren com a mínim
+[00:08:38.570 --> 00:08:39.970] tres llengües vehiculars
+[00:08:39.970 --> 00:08:40.870] i fins a cinc.
+[00:08:41.690 --> 00:08:42.710] [?Davant] d'aquesta realitat
+[00:08:42.710 --> 00:08:43.710] sorgeix la idea
+[00:08:43.710 --> 00:08:45.050] o la pregunta de recerca
+[00:08:45.050 --> 00:08:47.190] de quin tipus de pràctiques
+[00:08:47.190 --> 00:08:48.730] utilitzen aquestes formacions
+[00:08:48.730 --> 00:08:49.910] per poder potenciar
+[00:08:49.910 --> 00:08:51.350] aquesta competència [?comunicativa]
+[00:08:51.350 --> 00:08:52.270] del futur docent.
+[00:08:53.210 --> 00:08:54.570] La resposta ha estat que,
+[00:08:54.930 --> 00:08:55.970] tot i que totes elles
+[00:08:55.970 --> 00:08:57.410] integren llengües diferents,
+[00:08:57.730 --> 00:08:59.130] la realitat és que
+[00:08:59.130 --> 00:09:01.510] coincideixen en el mateix tipus de pràctiques.
+[00:09:02.000 --> 00:09:03.060] Podem parlar, per exemple,
+[00:09:03.560 --> 00:09:04.560] de [?comptar-comptes,]
+[00:09:04.840 --> 00:09:06.620] podem parlar d'intervenir en debats
+[00:09:06.620 --> 00:09:08.600] i reflexions en diverses llengües
+[00:09:08.600 --> 00:09:09.850] i, a més a més, també,
+[00:09:10.130 --> 00:09:10.590] per exemple,
+[00:09:11.010 --> 00:09:13.210] explicar quin és l'escola ideal
+[00:09:13.210 --> 00:09:14.090] de cada mestre.
+[00:09:14.760 --> 00:09:15.540] Com podeu observar,
+[00:09:15.620 --> 00:09:17.180] [?cada] [?una] d'aquestes pràctiques
+[00:09:17.180 --> 00:09:18.610] parlem, doncs,
+[00:09:18.610 --> 00:09:19.550] [?de...]
+[00:09:19.670 --> 00:09:21.130] una exposició,
+[00:09:21.250 --> 00:09:21.930] també parlem
+[00:09:21.930 --> 00:09:23.990] d'una narració [?de] [?fet]
+[00:09:23.990 --> 00:09:24.790] i, fins i tot,
+[00:09:24.870 --> 00:09:25.750] treballem també
+[00:09:25.750 --> 00:09:28.430] l'argumentació
+[00:09:28.430 --> 00:09:30.550] d'un conjunt d'idees pròpies.
+[00:09:31.430 --> 00:09:32.270] El que cal destacar
+[00:09:32.270 --> 00:09:33.550] de totes aquestes activitats,
+[00:09:33.890 --> 00:09:35.270] és el fet que la [?llengua,]
+[00:09:35.350 --> 00:09:35.990] en totes elles,
+[00:09:36.090 --> 00:09:37.610] no [?interven] només [?com] un [?contingut]
+[00:09:37.610 --> 00:09:38.790] que s'hagi de memoritzar,
+[00:09:39.090 --> 00:09:40.230] sinó que s'utilitza
+[00:09:40.230 --> 00:09:41.330] per poder comunicar,
+[00:09:41.470 --> 00:09:42.610] per poder expressar-se.
+[00:09:43.610 --> 00:09:44.330] Cal tenir en compte
+[00:09:44.330 --> 00:09:45.810] que altres universitats
+[00:09:45.810 --> 00:09:47.170] que vulguin implementar
+[00:09:47.170 --> 00:09:49.100] aquest tipus de pràctiques,
+[00:09:49.730 --> 00:09:50.310] [?hauran] de veure
+[00:09:50.310 --> 00:09:51.390] que cal una formació
+[00:09:51.390 --> 00:09:52.630] basada en competències.
+[00:09:52.990 --> 00:09:53.150] Però,
+[00:09:53.330 --> 00:09:53.870] quina relació
+[00:09:53.870 --> 00:09:55.530] té amb la competència comunicativa?
+[00:09:56.130 --> 00:09:56.470] Doncs bé,
+[00:09:56.840 --> 00:09:58.460] perquè aquesta competència comunicativa
+[00:09:58.460 --> 00:09:59.740] sigui significativa,
+[00:10:00.790 --> 00:10:01.590] hem de considerar
+[00:10:01.590 --> 00:10:02.330] d'una banda
+[00:10:02.330 --> 00:10:03.110] que no només
+[00:10:03.110 --> 00:10:03.930] intervingui
+[00:10:03.930 --> 00:10:05.570] de forma presencial
+[00:10:05.570 --> 00:10:07.230] a l'assignatura de llengües,
+[00:10:07.510 --> 00:10:08.310] sinó que flueixi
+[00:10:08.310 --> 00:10:09.270] de forma transversal
+[00:10:09.270 --> 00:10:10.410] per totes les disciplines.
+[00:10:11.190 --> 00:10:11.830] En una formació
+[00:10:11.830 --> 00:10:12.770] per competències,
+[00:10:13.070 --> 00:10:13.590] també tenim
+[00:10:13.590 --> 00:10:15.330] activitats contextualitzades,
+[00:10:15.470 --> 00:10:15.890] de forma
+[00:10:15.890 --> 00:10:17.730] que la competència comunicativa
+[00:10:17.730 --> 00:10:19.140] és treballada
+[00:10:19.140 --> 00:10:19.900] per l'estudiant
+[00:10:19.900 --> 00:10:20.920] com si fos
+[00:10:20.920 --> 00:10:21.780] el principal
+[00:10:21.780 --> 00:10:22.560] que comuniqui.
+[00:10:23.110 --> 00:10:23.810] I, a més a més,
+[00:10:24.210 --> 00:10:24.950] cal tenir en compte
+[00:10:24.950 --> 00:10:26.550] que ha de desenvolupar
+[00:10:26.550 --> 00:10:27.150] aquest estudiant
+[00:10:27.150 --> 00:10:28.150] un rol actiu.
+[00:10:28.680 --> 00:10:29.460] Això significa
+[00:10:29.460 --> 00:10:30.360] que no és només
+[00:10:30.360 --> 00:10:31.760] el professorat universitari
+[00:10:31.760 --> 00:10:32.340] el que parla,
+[00:10:32.620 --> 00:10:33.620] sinó també l'estudiant
+[00:10:33.620 --> 00:10:35.300] que argumenta i justifica.
+[00:10:36.210 --> 00:10:36.830] Si recuperem
+[00:10:36.830 --> 00:10:37.950] [?a] la nostra protagonista,
+[00:10:38.130 --> 00:10:38.590] l'Anna,
+[00:10:39.000 --> 00:10:39.460] [?veurem]
+[00:10:39.460 --> 00:10:40.340] que si ella,
+[00:10:40.540 --> 00:10:41.200] anys enrere,
+[00:10:41.400 --> 00:10:42.740] hagués tingut un mestre
+[00:10:42.740 --> 00:10:43.780] de [?Llamarca,]
+[00:10:43.960 --> 00:10:44.620] del País [?Basc]
+[00:10:44.620 --> 00:10:45.920] o de la Universitat d'Andorra,
+[00:10:46.220 --> 00:10:46.520] sabria
+[00:10:46.520 --> 00:10:47.740] que el que havia de respondre
+[00:10:47.740 --> 00:10:49.020] aquell [?candidat] [?d'Irmina]
+[00:10:49.020 --> 00:10:49.720] era
+[00:10:49.720 --> 00:10:51.240] I would like a cup of coffee.
+[00:10:51.420 --> 00:10:51.580] Fins.
+[00:10:51.970 --> 00:10:52.470] [?Gràcies.]
+[00:10:55.330 --> 00:11:01.140] Molt bé, Blanca.
+[00:11:01.620 --> 00:11:03.200] Has clavat els quatre minuts.
+[00:11:03.940 --> 00:11:05.020] Estàvem patint
+[00:11:05.020 --> 00:11:06.340] [?i] s'acabaven els segons.
+[00:11:06.960 --> 00:11:07.800] Molt bé, molt bé.
+[00:11:08.260 --> 00:11:08.840] Donem pas
+[00:11:08.840 --> 00:11:10.260] [?el] tercer [?doctorat,]
+[00:11:10.340 --> 00:11:11.120] Francesc García.
+[00:11:11.360 --> 00:11:11.820] La seva [?texi]
+[00:11:11.820 --> 00:11:12.500] porta com a nom
+[00:11:12.500 --> 00:11:13.400] Autenticació
+[00:11:13.400 --> 00:11:14.100] distribuïda
+[00:11:14.100 --> 00:11:14.660] i anonimat
+[00:11:14.660 --> 00:11:15.220] [?en] blockchain
+[00:11:15.220 --> 00:11:16.730] i smart contracts.
+[00:11:27.770 --> 00:11:29.830] Abril [?2011.]
+[00:11:30.500 --> 00:11:31.070] [?Forbets,]
+[00:11:31.400 --> 00:11:32.480] una revista digital,
+[00:11:33.070 --> 00:11:33.550] publica
+[00:11:33.550 --> 00:11:34.670] que
+[00:11:34.670 --> 00:11:37.110] 267 milions
+[00:11:37.110 --> 00:11:38.250] de comptes [?de] [?Facebook]
+[00:11:38.250 --> 00:11:39.570] amb les [?segres] personals
+[00:11:39.570 --> 00:11:40.410] estan a la venda
+[00:11:40.410 --> 00:11:41.170] durant tot el [?mes]
+[00:11:41.170 --> 00:11:43.090] de segres del 2019.
+[00:11:44.410 --> 00:11:45.250] Juny [?2020,]
+[00:11:46.700 --> 00:11:47.420] [?Bedefinibus]
+[00:11:47.420 --> 00:11:49.370] publica també
+[00:11:49.370 --> 00:11:50.610] que Twitter
+[00:11:50.610 --> 00:11:52.250] demana disculpes
+[00:11:52.250 --> 00:11:53.930] als seus usuaris [?vines]
+[00:11:53.930 --> 00:11:55.010] per [?fugues]
+[00:11:55.010 --> 00:11:56.210] de dades [?personals.]
+[00:11:57.510 --> 00:11:58.790] [?la] progressiva digitalització
+[00:11:58.790 --> 00:12:00.110] de la nostra vida diària
+[00:12:00.110 --> 00:12:01.540] fa que molts de nosaltres
+[00:12:01.540 --> 00:12:03.160] tinguem [?uns] [?ovaies]
+[00:12:03.160 --> 00:12:04.300] i [?les] [?dades] [?digitals.]
+[00:12:08.810 --> 00:12:09.150] [?Ja] [?venia.]
+[00:12:12.010 --> 00:12:19.840] És igual, ja està.
+[00:12:20.960 --> 00:12:30.000] [?Gràcies,] [?doncs.]
+[00:12:30.200 --> 00:12:31.720] És molt [?complicat,] això, eh?
+[00:12:31.980 --> 00:12:32.840] Molt complicat.
+[00:12:35.540 --> 00:12:36.020] Donem pas
+[00:12:36.020 --> 00:12:38.220] a la següent [?doctoranda,]
+[00:12:38.380 --> 00:12:38.900] [?Sonia] Gili,
+[00:12:39.000 --> 00:12:39.520] la competència
+[00:12:39.520 --> 00:12:40.540] de la cultura democràtica
+[00:12:40.540 --> 00:12:41.540] en la formació inicial
+[00:12:41.540 --> 00:12:42.180] de mestres.
+[00:12:46.030 --> 00:12:48.970] Molt bé.
+[00:12:49.170 --> 00:12:49.390] [?Jovi?]
+[00:12:51.150 --> 00:12:51.590] [?Va.]
+[00:12:51.970 --> 00:12:52.810] Bon dia a tothom.
+[00:12:53.090 --> 00:12:54.030] M'agradaria començar
+[00:12:54.030 --> 00:12:55.210] amb un petit exercici
+[00:12:55.210 --> 00:12:55.990] que estic segura
+[00:12:55.990 --> 00:12:56.830] que tots [?en] sabreu
+[00:12:56.830 --> 00:12:57.730] [?respondre] al moment.
+[00:12:57.930 --> 00:12:58.430] M'ajudem?
+[00:12:59.250 --> 00:12:59.670] Vinga, va.
+[00:12:59.930 --> 00:13:00.570] 5x5?
+[00:13:01.080 --> 00:13:01.720] 5x5.
+[00:13:02.100 --> 00:13:02.650] [?5x5?]
+[00:13:02.650 --> 00:13:03.210] [?25x5?]
+[00:13:03.390 --> 00:13:03.830] 25x5.
+[00:13:03.910 --> 00:13:04.330] Ah, va bé.
+[00:13:04.910 --> 00:13:05.490] 8x10?
+[00:13:06.850 --> 00:13:07.450] Fàcil, no?
+[00:13:07.490 --> 00:13:07.990] Fins aquí.
+[00:13:08.400 --> 00:13:09.160] Doncs ara us faré
+[00:13:09.160 --> 00:13:09.840] una altra pregunta
+[00:13:09.840 --> 00:13:10.600] que estic segura
+[00:13:10.600 --> 00:13:11.240] que no [?sabreu]
+[00:13:11.240 --> 00:13:12.560] respondre tan ràpidament.
+[00:13:13.040 --> 00:13:13.940] Em [?sapreu] explicar
+[00:13:13.940 --> 00:13:15.340] per què en molts països,
+[00:13:15.400 --> 00:13:17.180] per no dir tots els països [?del] món,
+[00:13:17.340 --> 00:13:18.220] encara existeixen
+[00:13:18.220 --> 00:13:19.300] totes aquestes paraules?
+[00:13:21.310 --> 00:13:22.130] És molt més difícil,
+[00:13:22.250 --> 00:13:22.510] de veritat,
+[00:13:22.550 --> 00:13:23.730] respondre amb aquesta pregunta?
+[00:13:24.260 --> 00:13:24.660] Doncs perquè
+[00:13:24.660 --> 00:13:25.760] quan parlem de números
+[00:13:25.760 --> 00:13:27.120] és molt més fàcil
+[00:13:27.120 --> 00:13:28.460] acabar-se [?d'entendre] amb la gent.
+[00:13:28.700 --> 00:13:29.880] Però quan parlem de coses,
+[00:13:30.180 --> 00:13:30.900] de conceptes
+[00:13:30.900 --> 00:13:32.200] que no són quantificables,
+[00:13:32.320 --> 00:13:33.300] que no són palpables,
+[00:13:33.680 --> 00:13:35.350] doncs és molt més difícil
+[00:13:35.350 --> 00:13:36.430] entendre's amb la gent.
+[00:13:38.000 --> 00:13:38.880] Em [?sabríeu,] doncs,
+[00:13:38.880 --> 00:13:39.840] explicar [?per] què
+[00:13:39.840 --> 00:13:41.380] encara al segle XXI
+[00:13:41.380 --> 00:13:42.280] existeixen
+[00:13:42.280 --> 00:13:43.400] la discriminació,
+[00:13:43.640 --> 00:13:44.340] els prejudicis,
+[00:13:44.440 --> 00:13:45.180] la xenofòbia,
+[00:13:45.340 --> 00:13:46.000] l'homofòbia.
+[00:13:47.290 --> 00:13:47.830] [?George] Floyd,
+[00:13:47.970 --> 00:13:48.350] ho sona,
+[00:13:48.430 --> 00:13:48.810] [?la] [?veritat,]
+[00:13:49.130 --> 00:13:49.410] [?doncs,]
+[00:13:49.410 --> 00:13:50.330] ell és un exemple
+[00:13:50.330 --> 00:13:51.530] dels milers i milers
+[00:13:51.530 --> 00:13:52.610] i milers de víctimes
+[00:13:52.610 --> 00:13:53.390] del racisme,
+[00:13:53.770 --> 00:13:54.570] de la violència,
+[00:13:54.990 --> 00:13:55.410] etcètera,
+[00:13:55.470 --> 00:13:55.890] etcètera,
+[00:13:55.970 --> 00:13:57.290] etcètera.
+[00:13:57.290 --> 00:13:58.350] I ara us preguntareu,
+[00:13:58.660 --> 00:13:59.220] i molt bé,
+[00:13:59.340 --> 00:13:59.620] i què?
+[00:13:59.780 --> 00:14:00.740] I com a societat,
+[00:14:00.860 --> 00:14:02.100] com podeu canviar tot això?
+[00:14:02.880 --> 00:14:03.160] Doncs,
+[00:14:03.560 --> 00:14:04.400] senyors i senyores,
+[00:14:04.540 --> 00:14:05.360] en principis,
+[00:14:05.460 --> 00:14:06.340] els principis
+[00:14:06.340 --> 00:14:07.100] són els que
+[00:14:07.100 --> 00:14:08.580] en el vostre dia a dia
+[00:14:08.580 --> 00:14:09.180] apremeu
+[00:14:09.180 --> 00:14:09.820] [?i] sobretot
+[00:14:09.820 --> 00:14:10.640] els principis
+[00:14:10.640 --> 00:14:11.700] s'ensenyen a l'escola
+[00:14:11.700 --> 00:14:12.700] on se li en diu
+[00:14:12.700 --> 00:14:14.040] la cultura democràtica.
+[00:14:14.440 --> 00:14:15.580] La cultura democràtica
+[00:14:15.580 --> 00:14:17.080] no té com a resposta
+[00:14:17.080 --> 00:14:18.160] o un sí o un no
+[00:14:18.160 --> 00:14:19.480] o un blanc o un negre
+[00:14:19.480 --> 00:14:20.940] com les taules de multiplicar,
+[00:14:21.000 --> 00:14:21.460] per exemple,
+[00:14:21.620 --> 00:14:22.960] a una resposta d'un número,
+[00:14:23.300 --> 00:14:24.640] sinó que és molt més complicat
+[00:14:24.640 --> 00:14:24.980] perquè
+[00:14:24.980 --> 00:14:26.720] el que busquem
+[00:14:26.720 --> 00:14:27.460] amb la competència
+[00:14:27.460 --> 00:14:28.760] de la cultura democràtica
+[00:14:28.760 --> 00:14:29.880] és la millora
+[00:14:29.880 --> 00:14:30.940] d'uns certs valors,
+[00:14:31.100 --> 00:14:32.000] d'unes actituds,
+[00:14:32.020 --> 00:14:32.920] d'unes actituds,
+[00:14:32.960 --> 00:14:33.720] un coneixement
+[00:14:33.720 --> 00:14:35.660] i comprensió crítica
+[00:14:35.660 --> 00:14:36.160] del món.
+[00:14:36.580 --> 00:14:36.980] I aquí
+[00:14:36.980 --> 00:14:37.960] el mestre
+[00:14:37.960 --> 00:14:38.740] juga un paper
+[00:14:38.740 --> 00:14:40.240] molt i molt important.
+[00:14:40.800 --> 00:14:41.340] I en direu,
+[00:14:41.420 --> 00:14:42.560] si és el mestre
+[00:14:42.560 --> 00:14:43.280] que [?es] [?fa] un paper
+[00:14:43.280 --> 00:14:44.060] molt important,
+[00:14:44.260 --> 00:14:44.640] és ell
+[00:14:44.640 --> 00:14:45.740] el que ha de transmetre
+[00:14:45.740 --> 00:14:46.920] tots aquests coneixements
+[00:14:46.920 --> 00:14:48.600] de la cultura democràtica
+[00:14:48.600 --> 00:14:49.800] i qui em diu a mi
+[00:14:49.800 --> 00:14:50.360] que el mestre
+[00:14:50.360 --> 00:14:51.120] que tinc davant
+[00:14:51.120 --> 00:14:52.000] ja ha adquirit
+[00:14:52.000 --> 00:14:53.240] aquesta competència
+[00:14:53.240 --> 00:14:54.120] i té ell
+[00:14:54.120 --> 00:14:54.860] i l'aplica
+[00:14:54.860 --> 00:14:55.840] al seu dia a dia
+[00:14:55.840 --> 00:14:56.960] per poder-la després
+[00:14:56.960 --> 00:14:57.680] transmetre
+[00:14:57.680 --> 00:14:58.400] al [?estudiant.]
+[00:14:59.000 --> 00:14:59.480] Doncs aquí
+[00:14:59.480 --> 00:15:02.020] recau [?la] meva investigació.
+[00:15:02.140 --> 00:15:02.720] La finalitat
+[00:15:02.720 --> 00:15:03.620] de la meva recerca
+[00:15:03.620 --> 00:15:04.360] és
+[00:15:04.360 --> 00:15:07.640] fer una taula
+[00:15:07.640 --> 00:15:08.540] d'indicacions
+[00:15:08.540 --> 00:15:09.200] per poder fer
+[00:15:09.200 --> 00:15:09.760] el seguiment
+[00:15:09.760 --> 00:15:10.500] i l'avaluació
+[00:15:10.500 --> 00:15:11.720] d'aquesta competència.
+[00:15:11.780 --> 00:15:12.740] per garantir
+[00:15:12.740 --> 00:15:13.740] que aquest mestre
+[00:15:13.740 --> 00:15:14.760] en un futur
+[00:15:14.760 --> 00:15:15.560] no molt [?llunyat]
+[00:15:15.560 --> 00:15:16.060] que estarà
+[00:15:16.060 --> 00:15:17.600] davant dels seus estudiants
+[00:15:17.600 --> 00:15:19.030] tingui la capacitat
+[00:15:19.030 --> 00:15:20.050] i adquireixi
+[00:15:20.050 --> 00:15:21.410] aquesta cultura democràtica
+[00:15:21.410 --> 00:15:22.310] per poder-la
+[00:15:22.310 --> 00:15:22.910] transmetre
+[00:15:22.910 --> 00:15:23.930] als seus estudiants.
+[00:15:24.270 --> 00:15:25.170] Perquè no és fàcil
+[00:15:25.170 --> 00:15:25.650] [?d'ensenyar]
+[00:15:25.650 --> 00:15:27.050] [?que] aquesta cultura democràtica
+[00:15:27.050 --> 00:15:28.610] no és com una assignatura
+[00:15:28.610 --> 00:15:29.830] [?la] que coneixen fins ara
+[00:15:29.830 --> 00:15:31.210] com les matemàtiques
+[00:15:31.210 --> 00:15:32.070] la ciència
+[00:15:32.070 --> 00:15:32.870] la biologia
+[00:15:32.870 --> 00:15:33.630] que estan dintre
+[00:15:33.630 --> 00:15:34.370] d'una [?faceta]
+[00:15:34.370 --> 00:15:36.290] sinó que la cultura democràtica
+[00:15:36.290 --> 00:15:38.290] és una competència transversal
+[00:15:38.290 --> 00:15:38.890] i els direc
+[00:15:38.890 --> 00:15:39.530] i [?és] això
+[00:15:39.530 --> 00:15:40.250] transversal.
+[00:15:40.670 --> 00:15:42.150] Doncs aquesta cultura democràtica
+[00:15:42.150 --> 00:15:43.630] la portem allà on anem
+[00:15:43.630 --> 00:15:44.610] i el més important
+[00:15:44.610 --> 00:15:45.510] ens defineix
+[00:15:45.510 --> 00:15:46.530] com a persona.
+[00:15:48.890 --> 00:15:49.650] Com a persona.
+[00:15:51.150 --> 00:15:55.690] Senyors i senyores
+[00:15:55.690 --> 00:16:00.290] [?tingueu] clar
+[00:16:00.290 --> 00:16:02.230] que els vostres fills
+[00:16:02.230 --> 00:16:03.090] o els estudiants
+[00:16:03.090 --> 00:16:03.670] que tenen
+[00:16:03.670 --> 00:16:04.770] [?aquest] [?temps] a l'escola
+[00:16:04.770 --> 00:16:06.570] no són els futurs ciutadans
+[00:16:06.570 --> 00:16:07.370] sinó que són
+[00:16:07.370 --> 00:16:08.390] els ciutadans d'ara.
+[00:16:08.730 --> 00:16:09.470] Moltes gràcies.
+[00:16:10.970 --> 00:16:17.440] Moltes [?gràcies,] [?Maria.]
+[00:16:17.580 --> 00:16:18.020] Molt bé.
+[00:16:18.580 --> 00:16:20.460] Donem pas al Carles Perea
+[00:16:20.460 --> 00:16:23.040] [?la] seva [?teixi]
+[00:16:23.040 --> 00:16:24.280] porta com a títol
+[00:16:24.280 --> 00:16:25.160] la formació dual
+[00:16:25.160 --> 00:16:26.020] en el desenvolupament
+[00:16:26.020 --> 00:16:26.720] de la competència
+[00:16:26.720 --> 00:16:27.800] socioprofessional
+[00:16:27.800 --> 00:16:28.440] [?al] docent
+[00:16:28.440 --> 00:16:29.580] estudi de cas.
+[00:16:29.910 --> 00:16:30.290] Carles.
+[00:16:38.310 --> 00:16:40.030] Hola,
+[00:16:40.310 --> 00:16:41.050] em dic Carles
+[00:16:41.050 --> 00:16:41.690] i [?soc]
+[00:16:41.690 --> 00:16:42.370] un home
+[00:16:42.370 --> 00:16:43.250] de [?cafè.]
+[00:16:43.640 --> 00:16:44.460] M'encanta el cafè.
+[00:16:44.980 --> 00:16:45.420] De fet,
+[00:16:45.660 --> 00:16:46.700] no sé si
+[00:16:46.700 --> 00:16:47.300] [?tinc] l'oportunitat
+[00:16:47.300 --> 00:16:48.240] de passar per Santa Coloma
+[00:16:48.240 --> 00:16:49.100] us recomano
+[00:16:49.100 --> 00:16:49.700] la cafeteria
+[00:16:49.700 --> 00:16:50.600] que hi ha a Santa Coloma.
+[00:16:51.170 --> 00:16:51.970] Aquesta cafeteria
+[00:16:51.970 --> 00:16:53.110] la porta el Miquel
+[00:16:53.110 --> 00:16:54.090] i el Joan
+[00:16:54.090 --> 00:16:55.630] i si [?ho] veus
+[00:16:55.630 --> 00:16:56.110] de sencer
+[00:16:56.110 --> 00:16:56.930] prefereixo
+[00:16:56.930 --> 00:16:57.550] que em serveixi
+[00:16:57.550 --> 00:16:57.930] el cafè
+[00:16:57.930 --> 00:16:58.490] [?el] Miquel
+[00:16:58.490 --> 00:16:59.350] perquè
+[00:16:59.350 --> 00:17:00.420] té [?alguna] cosa
+[00:17:00.420 --> 00:17:00.980] que [?m'agrada.]
+[00:17:01.420 --> 00:17:02.620] I tot i que [?els] dos
+[00:17:02.620 --> 00:17:04.230] siguin bons professionals
+[00:17:04.230 --> 00:17:07.040] que [?arribin] a la [?cafeteria]
+[00:17:07.040 --> 00:17:08.380] que et somriïn
+[00:17:08.380 --> 00:17:09.600] que et portin el cafè
+[00:17:09.600 --> 00:17:10.640] que diguin
+[00:17:10.640 --> 00:17:11.040] Carles
+[00:17:11.040 --> 00:17:11.800] com estàs?
+[00:17:11.880 --> 00:17:12.860] Com portes la tesi?
+[00:17:13.300 --> 00:17:13.800] [?Sí,] [?la] piques.
+[00:17:15.180 --> 00:17:16.440] Bé, bé, gràcies.
+[00:17:17.200 --> 00:17:18.260] Però sí que és [?veritat]
+[00:17:18.260 --> 00:17:19.100] que [?al] estar
+[00:17:19.100 --> 00:17:20.780] en un lloc professional
+[00:17:20.780 --> 00:17:22.530] el que fa és
+[00:17:22.530 --> 00:17:23.450] desenvolupar
+[00:17:23.450 --> 00:17:25.130] et permet [?desenvolupar]
+[00:17:25.130 --> 00:17:26.250] una sèrie d'habilitats
+[00:17:26.250 --> 00:17:27.640] una sèrie d'actituds
+[00:17:27.640 --> 00:17:28.180] que atrau
+[00:17:28.180 --> 00:17:29.520] [?i] de fet
+[00:17:29.520 --> 00:17:30.400] a mi és el que m'atrau
+[00:17:30.400 --> 00:17:30.800] del Miquel
+[00:17:30.800 --> 00:17:31.080] perquè
+[00:17:31.080 --> 00:17:31.950] quan no hi [?hagi]
+[00:17:31.950 --> 00:17:32.290] el Miquel
+[00:17:32.290 --> 00:17:32.970] [?o] [?te] vacances
+[00:17:32.970 --> 00:17:35.330] no [?hi] vaig [?gaire.]
+[00:17:35.330 --> 00:17:35.770] [?depèn] de cafè
+[00:17:35.770 --> 00:17:36.290] amb el Jordi
+[00:17:36.290 --> 00:17:37.190] perquè no té
+[00:17:37.190 --> 00:17:37.910] aquesta...
+[00:17:37.910 --> 00:17:38.670] és més [?seriót.]
+[00:17:38.970 --> 00:17:39.950] El mateix passa
+[00:17:39.950 --> 00:17:40.530] amb els docents.
+[00:17:40.870 --> 00:17:41.130] De fet
+[00:17:41.130 --> 00:17:41.870] és que sou pares
+[00:17:41.870 --> 00:17:42.530] o mares
+[00:17:42.530 --> 00:17:43.610] preferiu un docent
+[00:17:43.610 --> 00:17:45.090] que somrigui
+[00:17:45.090 --> 00:17:45.710] un docent
+[00:17:45.710 --> 00:17:46.650] que tingui
+[00:17:46.650 --> 00:17:47.330] aquesta connexió
+[00:17:47.330 --> 00:17:47.810] amb vosaltres
+[00:17:47.810 --> 00:17:48.330] que no pas
+[00:17:48.330 --> 00:17:49.170] el típic docent
+[00:17:49.170 --> 00:17:50.280] seriót.
+[00:17:50.540 --> 00:17:50.740] D'acord?
+[00:17:50.860 --> 00:17:51.800] Aquest saber ser
+[00:17:51.800 --> 00:17:52.730] la persona.
+[00:17:52.730 --> 00:17:54.250] [?aquests] [?actituds]
+[00:17:54.250 --> 00:17:55.250] [?d'habilitats.]
+[00:17:55.250 --> 00:17:56.260] [?De] fet
+[00:17:56.260 --> 00:17:56.600] [?el] Miquel
+[00:17:56.600 --> 00:17:56.880] li deia
+[00:17:56.880 --> 00:17:57.540] [?escolt] [?a] Miquel
+[00:17:57.540 --> 00:17:58.460] aquest cafè
+[00:17:58.460 --> 00:17:59.560] que surt tan bo
+[00:17:59.560 --> 00:18:00.580] com el fas?
+[00:18:01.290 --> 00:18:01.430] [?Diu]
+[00:18:01.430 --> 00:18:01.970] mira [?Carles]
+[00:18:01.970 --> 00:18:02.870] l'únic [?secretari]
+[00:18:02.870 --> 00:18:04.230] és [?l'experiència]
+[00:18:04.230 --> 00:18:05.210] porto molts cafès
+[00:18:05.210 --> 00:18:05.810] a [?l'esquerra]
+[00:18:05.810 --> 00:18:06.730] i té raó
+[00:18:06.730 --> 00:18:08.230] [?i] és que l'experiència
+[00:18:08.230 --> 00:18:09.290] el que permet
+[00:18:09.290 --> 00:18:09.570] és
+[00:18:09.570 --> 00:18:10.930] que ens desenvolupem
+[00:18:10.930 --> 00:18:11.470] millor
+[00:18:11.470 --> 00:18:12.950] a la nostra pràctica
+[00:18:12.950 --> 00:18:13.150] no?
+[00:18:13.490 --> 00:18:14.490] sigui en una cafeteria
+[00:18:14.490 --> 00:18:15.990] o sigui en una escola
+[00:18:15.990 --> 00:18:16.890] d'acord?
+[00:18:16.970 --> 00:18:17.290] De fet
+[00:18:17.290 --> 00:18:18.460] per això és important
+[00:18:18.460 --> 00:18:19.200] que els docents
+[00:18:19.200 --> 00:18:20.990] [?facin] [?de] [?certs] [?estades]
+[00:18:20.990 --> 00:18:21.610] formatives
+[00:18:21.610 --> 00:18:23.110] i que la seva pràctica
+[00:18:23.110 --> 00:18:24.270] doncs [?els] ajudi
+[00:18:24.270 --> 00:18:25.030] en el seu dia [?a] dia
+[00:18:25.030 --> 00:18:25.590] de què serveix
+[00:18:25.590 --> 00:18:26.110] [?que] un docent
+[00:18:26.110 --> 00:18:26.850] estudi
+[00:18:26.850 --> 00:18:28.050] resolució de conflictes
+[00:18:28.050 --> 00:18:28.750] quan després
+[00:18:28.750 --> 00:18:29.150] no [?sap]
+[00:18:29.150 --> 00:18:30.560] [?resolver] un conflicte
+[00:18:30.560 --> 00:18:30.720] [?sí?]
+[00:18:31.080 --> 00:18:31.820] Aquesta pràctica
+[00:18:31.820 --> 00:18:32.960] és molt important
+[00:18:32.960 --> 00:18:34.530] amb això de la Covid
+[00:18:34.530 --> 00:18:35.250] [?abans] hem [?tingut]
+[00:18:35.250 --> 00:18:35.970] aquesta taula [?rodona]
+[00:18:35.970 --> 00:18:36.730] [?amb] els experts
+[00:18:36.730 --> 00:18:39.050] s'han hagut de reinventar
+[00:18:39.050 --> 00:18:39.610] i el Miquel
+[00:18:39.610 --> 00:18:40.470] ara [?és] el que estudia
+[00:18:40.470 --> 00:18:41.370] en [?copteria]
+[00:18:41.370 --> 00:18:43.610] [?i] [?a] més ho fa [?online]
+[00:18:43.610 --> 00:18:44.530] [?i] l'altre dia
+[00:18:44.530 --> 00:18:45.330] [?arreu] un whatsapp
+[00:18:45.330 --> 00:18:45.610] i em diu
+[00:18:45.610 --> 00:18:46.290] baixa
+[00:18:46.290 --> 00:18:47.370] que provaràs
+[00:18:47.370 --> 00:18:47.930] i jo
+[00:18:47.930 --> 00:18:48.630] bueno
+[00:18:48.630 --> 00:18:49.680] [?provem] [?no?]
+[00:18:50.420 --> 00:18:50.860] i de fet
+[00:18:50.860 --> 00:18:51.740] [?sabíeu] que [?socis] [?d'ells]
+[00:18:51.740 --> 00:18:52.740] [?els] tipus de [?Sant] Francisco?
+[00:18:53.020 --> 00:18:53.520] jo no ho sabia
+[00:18:53.520 --> 00:18:54.560] i em diu
+[00:18:54.560 --> 00:18:55.300] i això
+[00:18:55.300 --> 00:18:55.740] [?diu] [?mira]
+[00:18:55.740 --> 00:18:56.300] saps què passa
+[00:18:56.300 --> 00:18:57.500] que no només [?haig] de fer
+[00:18:57.500 --> 00:18:58.000] [?el] còctel
+[00:18:58.000 --> 00:18:59.020] sinó [?l'haig] de saber fer
+[00:18:59.020 --> 00:19:00.400] i aquest saber fer
+[00:19:00.400 --> 00:19:01.240] també és important
+[00:19:01.240 --> 00:19:01.920] per [?a] tots els docents
+[00:19:01.920 --> 00:19:02.900] és el que us deia
+[00:19:02.900 --> 00:19:04.140] com podem gestionar
+[00:19:04.140 --> 00:19:04.760] un conflicte
+[00:19:04.760 --> 00:19:05.580] [?com] [?podem] aprendre
+[00:19:05.580 --> 00:19:06.560] gestionar un conflicte
+[00:19:06.560 --> 00:19:08.310] però si no [?sé] [?resoldre]
+[00:19:08.310 --> 00:19:08.990] no?
+[00:19:09.470 --> 00:19:09.940] doncs això
+[00:19:09.940 --> 00:19:10.940] doncs ara [?estoy] a [?cortineria]
+[00:19:10.940 --> 00:19:11.840] i [?són] uns còctels
+[00:19:11.840 --> 00:19:12.640] boníssims
+[00:19:12.640 --> 00:19:13.320] llavors
+[00:19:13.320 --> 00:19:14.860] això d'aprendre
+[00:19:15.100 --> 00:19:15.640] aquesta teoria
+[00:19:15.640 --> 00:19:16.840] perquè amb aquest còctel
+[00:19:16.840 --> 00:19:18.420] ell ja va mesurant
+[00:19:18.420 --> 00:19:18.580] no?
+[00:19:18.640 --> 00:19:18.880] doncs
+[00:19:18.880 --> 00:19:19.960] quines són les [?proporcions]
+[00:19:19.960 --> 00:19:20.560] d'alcohol
+[00:19:20.560 --> 00:19:21.480] o de suc
+[00:19:21.480 --> 00:19:23.320] i aprendre aquesta teoria
+[00:19:23.320 --> 00:19:24.400] a través de la pràctica
+[00:19:24.400 --> 00:19:25.480] és el que nosaltres [?diem]
+[00:19:25.480 --> 00:19:26.640] la formació [?dual]
+[00:19:26.640 --> 00:19:27.780] i amb les docents
+[00:19:27.780 --> 00:19:28.640] és super important
+[00:19:28.640 --> 00:19:29.250] sí?
+[00:19:29.250 --> 00:19:29.730] perquè es troben
+[00:19:29.730 --> 00:19:31.010] [?amb] situacions
+[00:19:31.010 --> 00:19:31.990] que potser [?la] universitat
+[00:19:31.990 --> 00:19:32.850] no es dona
+[00:19:32.850 --> 00:19:34.640] i aquesta és la meva intenció
+[00:19:34.640 --> 00:19:35.100] [?d'aprendre]
+[00:19:35.100 --> 00:19:36.940] estudiar això
+[00:19:36.940 --> 00:19:37.820] a més
+[00:19:37.820 --> 00:19:38.760] [?ja] per conclusió
+[00:19:38.760 --> 00:19:39.800] jo el títol
+[00:19:39.800 --> 00:19:40.400] de la meva [?tècnica]
+[00:19:40.400 --> 00:19:40.860] [?podria] dir
+[00:19:40.860 --> 00:19:41.780] la pràctica
+[00:19:41.780 --> 00:19:42.500] jo tenc [?treball]
+[00:19:42.500 --> 00:19:44.060] o a l'escola
+[00:19:44.060 --> 00:19:45.100] promou
+[00:19:45.100 --> 00:19:45.820] aquestes actituds
+[00:19:45.820 --> 00:19:46.360] [?i] habilitats
+[00:19:46.360 --> 00:19:46.880] però no
+[00:19:46.880 --> 00:19:47.640] hem de posar
+[00:19:47.640 --> 00:19:48.780] coses acadèmiques
+[00:19:48.780 --> 00:19:50.460] [?i] el títol [?és]
+[00:19:50.460 --> 00:19:51.420] la formació dual
+[00:19:51.420 --> 00:19:51.680] [?o] [?a] dir
+[00:19:51.680 --> 00:19:52.500] [?què] et [?sabe] fer
+[00:19:52.500 --> 00:19:53.880] en el desenvolupament
+[00:19:53.880 --> 00:19:54.560] de competències
+[00:19:54.560 --> 00:19:55.420] o [?és] [?professional] [?docent]
+[00:19:55.420 --> 00:19:56.460] estudiar de cas
+[00:19:56.460 --> 00:19:57.760] per què estudiar de cas?
+[00:19:58.040 --> 00:19:58.800] perquè evidentment
+[00:19:58.800 --> 00:19:59.760] vull saber
+[00:19:59.760 --> 00:20:00.780] aquests docents
+[00:20:00.780 --> 00:20:01.780] que es preparen
+[00:20:01.780 --> 00:20:02.840] per a la seva pràctica
+[00:20:02.840 --> 00:20:04.320] com es desenvolupen
+[00:20:04.320 --> 00:20:05.520] com tenen aquestes [?habilitats]
+[00:20:05.520 --> 00:20:05.680] no?
+[00:20:06.040 --> 00:20:06.880] si tenen aquesta [?habilitat]
+[00:20:06.880 --> 00:20:07.660] d'enganxar
+[00:20:07.660 --> 00:20:08.590] com el Miquel
+[00:20:08.590 --> 00:20:10.330] [?especialment] aquí
+[00:20:10.330 --> 00:20:11.270] amb els seus companys
+[00:20:11.270 --> 00:20:12.170] evidentment
+[00:20:12.170 --> 00:20:12.950] amb els pares
+[00:20:12.950 --> 00:20:14.270] aquestes estratègies
+[00:20:14.270 --> 00:20:15.190] i ja
+[00:20:15.190 --> 00:20:17.930] només per [?conclucció]
+[00:20:17.930 --> 00:20:19.010] els docents
+[00:20:19.010 --> 00:20:20.200] [?n'hem] [?d'aprendre] molt
+[00:20:20.200 --> 00:20:20.960] els [?canvies]
+[00:20:20.960 --> 00:20:21.520] gràcies
+[00:20:21.520 --> 00:20:30.340] [?moltes] gràcies
+[00:20:30.340 --> 00:20:30.920] Carles
+[00:20:30.920 --> 00:20:32.720] passem ara
+[00:20:32.720 --> 00:20:33.420] [?quan] que [?som]
+[00:20:33.420 --> 00:20:34.220] [?l'agraventi]
+[00:20:34.220 --> 00:20:35.410] la seva tesi
+[00:20:35.410 --> 00:20:36.170] [?porta] com a títol
+[00:20:36.170 --> 00:20:36.670] Integrate
+[00:20:36.670 --> 00:20:37.670] [?Analysis] [?of] the Social
+[00:20:37.670 --> 00:20:39.010] Metabolics of Andorra
+[00:20:39.010 --> 00:20:40.550] [?Under] [?the] [?Nusia] [?Sem]
+[00:20:40.550 --> 00:20:42.100] espera un moment
+[00:20:42.100 --> 00:20:45.700] [?que] el [?títol] és llarg
+[00:20:45.700 --> 00:20:46.680] encara no havia acabat
+[00:20:46.680 --> 00:20:48.500] Approach for the Transition
+[00:20:48.500 --> 00:20:50.200] to a More [?Sustainable] Model
+[00:20:50.200 --> 00:20:51.000] ara sí
+[00:20:55.180 --> 00:20:59.800] [?hola] [?bon] dia
+[00:20:59.800 --> 00:21:01.160] la [?Covid-19]
+[00:21:01.160 --> 00:21:02.380] ha llegat
+[00:21:02.380 --> 00:21:02.660] [?entonces]
+[00:21:02.660 --> 00:21:03.440] un sentiment
+[00:21:03.440 --> 00:21:03.880] de viure
+[00:21:03.880 --> 00:21:04.640] [?diez] [?times]
+[00:21:04.640 --> 00:21:05.260] de viure
+[00:21:05.260 --> 00:21:06.540] como de [?perda]
+[00:21:06.540 --> 00:21:07.640] [?la] nostra normalitat
+[00:21:07.640 --> 00:21:10.500] ara després de la [?cuarentena]
+[00:21:10.500 --> 00:21:11.260] [?tende] que podem
+[00:21:11.260 --> 00:21:12.600] [?pretendre]
+[00:21:12.600 --> 00:21:13.240] [?no] que sali
+[00:21:13.240 --> 00:21:14.810] [?si] de la [?devenida]
+[00:21:14.810 --> 00:21:16.050] la nova normalitat
+[00:21:16.050 --> 00:21:16.380] [?no?]
+[00:21:16.380 --> 00:21:17.050] però pot ser
+[00:21:17.050 --> 00:21:17.590] [?interessant]
+[00:21:17.590 --> 00:21:17.970] [?presionar]
+[00:21:17.970 --> 00:21:18.490] sobre si
+[00:21:18.490 --> 00:21:19.590] la normalitat
+[00:21:19.590 --> 00:21:20.010] ja sigui
+[00:21:20.010 --> 00:21:20.550] la nova
+[00:21:20.550 --> 00:21:21.690] o la vella
+[00:21:21.690 --> 00:21:22.430] són [?realment]
+[00:21:22.430 --> 00:21:22.890] [?normals]
+[00:21:22.890 --> 00:21:23.050] [?no?]
+[00:21:23.050 --> 00:21:25.040] [?com] podem
+[00:21:25.040 --> 00:21:25.140] [?o] [?la] [?vella]
+[00:21:25.120 --> 00:21:25.220] [?com] podem [?veure]
+[00:21:25.180 --> 00:21:26.020] [?d'aquest] [?grafic]
+[00:21:26.020 --> 00:21:26.640] [?realment]
+[00:21:26.640 --> 00:21:27.960] la nostra normalitat
+[00:21:27.960 --> 00:21:29.060] és un [?sentiment]
+[00:21:29.060 --> 00:21:29.580] extrem
+[00:21:29.580 --> 00:21:31.300] producte
+[00:21:31.300 --> 00:21:31.680] de la [?revolució]
+[00:21:31.680 --> 00:21:32.240] industrial
+[00:21:32.240 --> 00:21:32.940] que va
+[00:21:32.940 --> 00:21:34.420] començar
+[00:21:34.420 --> 00:21:34.700] fa
+[00:21:34.700 --> 00:21:35.860] [?un] 250
+[00:21:35.860 --> 00:21:36.620] anys
+[00:21:36.620 --> 00:21:38.150] [?250] anys
+[00:21:38.150 --> 00:21:39.150] [?s'hi] [?venen] molts
+[00:21:39.150 --> 00:21:39.960] però realment
+[00:21:39.960 --> 00:21:40.120] [?són]
+[00:21:40.120 --> 00:21:41.660] [?com] [?a] [?operació]
+[00:21:41.660 --> 00:21:42.020] del [?temps]
+[00:21:42.020 --> 00:21:42.340] de vida
+[00:21:42.340 --> 00:21:42.780] de les espècies
+[00:21:42.780 --> 00:21:43.060] humanes
+[00:21:43.060 --> 00:21:43.540] o de la [?terra]
+[00:21:43.540 --> 00:21:45.160] [?a] causa
+[00:21:45.160 --> 00:21:45.580] de la revolució
+[00:21:45.580 --> 00:21:46.160] industrial
+[00:21:46.160 --> 00:21:48.080] [?s'ha] incrementat
+[00:21:48.080 --> 00:21:48.840] la [?producció]
+[00:21:48.840 --> 00:21:49.180] d'una manera
+[00:21:49.180 --> 00:21:49.820] exponencial
+[00:21:49.820 --> 00:21:50.240] però
+[00:21:50.240 --> 00:21:50.600] [?solamente]
+[00:21:50.600 --> 00:21:51.440] [?durant] el [?6] de [?20]
+[00:21:51.440 --> 00:21:52.540] la producció
+[00:21:52.540 --> 00:21:52.760] humana
+[00:21:52.760 --> 00:21:53.320] s'ha multiplicat
+[00:21:53.320 --> 00:21:53.840] per 4
+[00:21:53.840 --> 00:21:54.750] i
+[00:21:54.750 --> 00:21:55.150] també
+[00:21:55.150 --> 00:21:55.590] és veritat
+[00:21:55.590 --> 00:21:56.230] que s'ha [?consolidat]
+[00:21:56.230 --> 00:21:56.970] un nivell de vida
+[00:21:56.970 --> 00:21:57.710] material
+[00:21:57.710 --> 00:21:58.010] sense
+[00:21:58.010 --> 00:21:58.490] [?preservar]
+[00:21:58.490 --> 00:22:00.240] [?nosaltres]
+[00:22:00.240 --> 00:22:01.240] [?amb] això
+[00:22:01.240 --> 00:22:03.060] tot aquest
+[00:22:03.060 --> 00:22:03.600] [?cresciment]
+[00:22:03.600 --> 00:22:04.220] tota aquesta
+[00:22:04.220 --> 00:22:04.900] profunda
+[00:22:04.900 --> 00:22:05.520] transformació
+[00:22:05.520 --> 00:22:06.320] no
+[00:22:06.320 --> 00:22:06.960] ha sigut
+[00:22:06.960 --> 00:22:07.540] gratis
+[00:22:07.540 --> 00:22:09.250] [?les] nostres
+[00:22:09.250 --> 00:22:09.830] societats
+[00:22:09.830 --> 00:22:10.270] som
+[00:22:10.270 --> 00:22:10.890] [?adictes]
+[00:22:10.890 --> 00:22:11.650] als combustibles
+[00:22:11.650 --> 00:22:12.250] [?fòssils]
+[00:22:12.250 --> 00:22:16.190] i s'han [?llegat]
+[00:22:16.190 --> 00:22:17.350] problemes molt greus
+[00:22:17.350 --> 00:22:18.730] a nivell ambiental
+[00:22:18.730 --> 00:22:19.130] com [?pot] ser
+[00:22:19.130 --> 00:22:20.210] el canvi climàtic
+[00:22:20.210 --> 00:22:21.360] o [?l'extricció]
+[00:22:21.360 --> 00:22:21.660] [?massiva]
+[00:22:21.660 --> 00:22:22.280] [?d'espècies]
+[00:22:22.280 --> 00:22:22.820] que pot [?ser]
+[00:22:22.820 --> 00:22:23.340] impedir
+[00:22:23.340 --> 00:22:24.880] la sostenibilitat
+[00:22:24.880 --> 00:22:25.220] de la vida
+[00:22:25.220 --> 00:22:25.780] sobre la terra
+[00:22:25.780 --> 00:22:26.000] [?no]
+[00:22:26.000 --> 00:22:30.000] [?el] fet bàsic
+[00:22:30.000 --> 00:22:30.260] de tot
+[00:22:30.260 --> 00:22:30.880] el fet bàsic
+[00:22:30.880 --> 00:22:32.060] que hem d'entendre
+[00:22:32.060 --> 00:22:32.780] és que
+[00:22:32.780 --> 00:22:34.360] vivim en un planeta
+[00:22:34.360 --> 00:22:35.220] que té límits
+[00:22:35.220 --> 00:22:36.400] i necessitem
+[00:22:36.400 --> 00:22:37.000] [?necessitar]
+[00:22:37.000 --> 00:22:37.400] una manera
+[00:22:37.400 --> 00:22:38.520] trobar
+[00:22:38.520 --> 00:22:39.600] noves [?percepcions]
+[00:22:39.600 --> 00:22:41.470] noves representacions
+[00:22:41.470 --> 00:22:42.690] noves [?idees] analítiques
+[00:22:42.690 --> 00:22:43.530] per
+[00:22:43.530 --> 00:22:45.170] per [?entendre] aquest [?fenòmen]
+[00:22:45.170 --> 00:22:46.820] [?en] aquest sentit
+[00:22:46.820 --> 00:22:47.660] la meva
+[00:22:47.660 --> 00:22:48.140] recerca
+[00:22:48.140 --> 00:22:51.310] aplica una [?negativa]
+[00:22:51.310 --> 00:22:51.810] diferent
+[00:22:51.810 --> 00:22:52.230] de la negativa
+[00:22:52.230 --> 00:22:52.730] convencional
+[00:22:52.730 --> 00:22:53.330] econòmica
+[00:22:53.330 --> 00:22:54.290] per estudiar
+[00:22:54.290 --> 00:22:54.790] el sistema
+[00:22:54.790 --> 00:22:55.530] socioeconòmic
+[00:22:55.530 --> 00:22:56.050] andorra
+[00:22:56.050 --> 00:22:57.300] [?utilitza] una negativa
+[00:22:57.300 --> 00:22:58.000] que es [?riu]
+[00:22:58.000 --> 00:22:58.540] metabòlica
+[00:22:58.540 --> 00:23:00.300] [?una] negativa
+[00:23:00.300 --> 00:23:00.840] metabòlica
+[00:23:00.840 --> 00:23:01.620] implica
+[00:23:01.620 --> 00:23:03.190] pensar en un sistema
+[00:23:03.190 --> 00:23:04.010] socioeconòmic
+[00:23:04.010 --> 00:23:04.590] com un sistema
+[00:23:04.590 --> 00:23:05.210] obert
+[00:23:05.210 --> 00:23:06.870] que necessita
+[00:23:06.870 --> 00:23:07.570] [?d'un] flux
+[00:23:07.570 --> 00:23:08.130] constant
+[00:23:08.130 --> 00:23:10.430] de material
+[00:23:10.430 --> 00:23:10.950] i [?energia]
+[00:23:10.950 --> 00:23:12.670] i expulsar residus
+[00:23:12.670 --> 00:23:13.870] per [?a] [?mantenir]
+[00:23:13.870 --> 00:23:14.650] [?l'identitat]
+[00:23:14.650 --> 00:23:18.410] [?en] essència
+[00:23:18.410 --> 00:23:20.150] [?l'objectiu]
+[00:23:20.150 --> 00:23:20.610] [?bàsic]
+[00:23:20.610 --> 00:23:21.310] de la recerca
+[00:23:21.310 --> 00:23:22.110] és
+[00:23:22.110 --> 00:23:23.030] quantificar
+[00:23:23.030 --> 00:23:23.870] comprendre
+[00:23:23.870 --> 00:23:24.830] els requeriments
+[00:23:24.830 --> 00:23:25.830] d'energia i materials
+[00:23:25.830 --> 00:23:26.970] que són necessaris
+[00:23:26.970 --> 00:23:27.870] per a mantenir
+[00:23:27.870 --> 00:23:28.410] [?l'andorra]
+[00:23:28.410 --> 00:23:29.250] i una vegada
+[00:23:29.250 --> 00:23:31.090] [?tenia] això [?clar]
+[00:23:31.090 --> 00:23:31.850] [?és] possible
+[00:23:31.850 --> 00:23:32.750] vislumbrar
+[00:23:32.750 --> 00:23:34.280] un espai
+[00:23:34.280 --> 00:23:35.040] potencial
+[00:23:35.040 --> 00:23:35.760] per on es pot [?haver]
+[00:23:35.760 --> 00:23:36.620] més [?sostenibilitat]
+[00:23:36.620 --> 00:23:36.780] [?no?]
+[00:23:37.700 --> 00:23:38.720] Entre els
+[00:23:38.720 --> 00:23:39.920] [?experts] [?de] la recerca
+[00:23:39.920 --> 00:23:41.480] es troben
+[00:23:41.480 --> 00:23:43.960] canalitzar
+[00:23:43.960 --> 00:23:44.820] fins a [?cap] punt
+[00:23:44.820 --> 00:23:46.580] [?Andorra]
+[00:23:46.580 --> 00:23:47.960] depèn materialment
+[00:23:47.960 --> 00:23:48.820] dels sistemes
+[00:23:48.820 --> 00:23:49.680] socioeconòmics
+[00:23:49.680 --> 00:23:51.110] o perquè
+[00:23:51.110 --> 00:23:53.260] es portem
+[00:23:53.260 --> 00:23:53.840] per a Andorra
+[00:23:53.840 --> 00:23:54.740] [?com] que no s'agraïn
+[00:23:54.740 --> 00:23:55.220] com [?poden] ser
+[00:23:55.220 --> 00:23:56.080] [?la] [?gestió]
+[00:23:56.080 --> 00:23:56.580] de residus
+[00:23:56.580 --> 00:23:57.020] més
+[00:23:57.020 --> 00:23:58.260] [?perillosos]
+[00:23:58.260 --> 00:23:59.320] també
+[00:23:59.320 --> 00:24:00.300] [?de] la recerca
+[00:24:00.300 --> 00:24:02.720] es [?plantear]
+[00:24:02.720 --> 00:24:03.820] una visió
+[00:24:03.820 --> 00:24:04.560] crítica
+[00:24:04.560 --> 00:24:05.340] o
+[00:24:05.340 --> 00:24:06.400] [?posibles]
+[00:24:06.400 --> 00:24:07.280] problemes
+[00:24:07.280 --> 00:24:08.980] polítiques
+[00:24:08.980 --> 00:24:09.260] que són
+[00:24:09.260 --> 00:24:09.820] sobre la [?caula]
+[00:24:09.820 --> 00:24:10.240] [?com] [?que] [?es]
+[00:24:10.240 --> 00:24:10.500] [?entre]
+[00:24:10.500 --> 00:24:12.200] la implantació
+[00:24:12.200 --> 00:24:12.560] masiva
+[00:24:12.560 --> 00:24:12.960] de
+[00:24:12.960 --> 00:24:13.680] [?VNL]
+[00:24:13.680 --> 00:24:15.210] [?resumen]
+[00:24:15.210 --> 00:24:17.650] la [?meva]
+[00:24:17.650 --> 00:24:18.070] recerca
+[00:24:18.070 --> 00:24:19.770] no busca
+[00:24:19.770 --> 00:24:20.090] trobar
+[00:24:20.090 --> 00:24:20.490] [?solucions]
+[00:24:20.490 --> 00:24:21.230] mágiques
+[00:24:21.230 --> 00:24:22.070] sino
+[00:24:22.070 --> 00:24:22.930] d'alguna manera
+[00:24:22.930 --> 00:24:23.590] [?representada]
+[00:24:23.590 --> 00:24:23.990] sobre
+[00:24:23.990 --> 00:24:24.670] el problema
+[00:24:24.670 --> 00:24:25.370] de la [?sostenibilitat]
+[00:24:25.370 --> 00:24:25.970] [?d'Andorra]
+[00:24:25.970 --> 00:24:26.570] [?sota]
+[00:24:26.570 --> 00:24:27.350] un [?matinal]
+[00:24:27.350 --> 00:24:28.320] [?de]
+[00:24:28.320 --> 00:24:29.840] que
+[00:24:29.840 --> 00:24:30.160] de Houston
+[00:24:30.160 --> 00:24:30.420] [?tenemos]
+[00:24:30.420 --> 00:24:30.880] un problema
+[00:24:30.880 --> 00:24:31.460] com diria
+[00:24:31.460 --> 00:24:31.760] el bo
+[00:24:31.760 --> 00:24:32.400] de Tom [?Hans]
+[00:24:32.400 --> 00:24:34.220] [?de] fet
+[00:24:34.220 --> 00:24:36.150] en un món
+[00:24:36.150 --> 00:24:36.790] amb límits
+[00:24:36.790 --> 00:24:37.590] no hi ha solució
+[00:24:37.590 --> 00:24:38.070] [?mágica]
+[00:24:38.070 --> 00:24:39.290] [?tot] està
+[00:24:39.290 --> 00:24:40.050] internacional
+[00:24:40.050 --> 00:24:40.900] i
+[00:24:40.900 --> 00:24:42.660] el nostre futur
+[00:24:42.660 --> 00:24:43.580] depèn
+[00:24:43.580 --> 00:24:44.820] d'una correcta
+[00:24:44.820 --> 00:24:45.240] relació
+[00:24:45.240 --> 00:24:46.040] amb la [?ETA]
+[00:24:46.040 --> 00:24:46.940] gràcies
+[00:24:46.940 --> 00:24:56.270] molt [?bé]
+[00:24:56.270 --> 00:24:57.190] moltes gràcies
+[00:24:57.190 --> 00:24:58.530] a tots [?els] participants
+[00:24:58.530 --> 00:25:00.050] n'hem tingut
+[00:25:00.050 --> 00:25:00.450] un problema
+[00:25:00.450 --> 00:25:00.990] d'última hora
+[00:25:00.990 --> 00:25:01.550] que l'última
+[00:25:01.550 --> 00:25:02.210] doctoranda
+[00:25:02.210 --> 00:25:03.530] no ha pogut
+[00:25:03.530 --> 00:25:03.890] [?fer]
+[00:25:03.890 --> 00:25:04.810] és una
+[00:25:04.810 --> 00:25:05.230] [?llàstima]
+[00:25:05.230 --> 00:25:05.710] perquè sabem
+[00:25:05.710 --> 00:25:05.970] que
+[00:25:05.970 --> 00:25:06.690] ho portava
+[00:25:06.690 --> 00:25:07.230] molt ben
+[00:25:07.230 --> 00:25:08.390] preparat
+[00:25:08.390 --> 00:25:09.240] i per tant
+[00:25:09.240 --> 00:25:09.860] passarem
+[00:25:09.860 --> 00:25:10.180] ja
+[00:25:10.180 --> 00:25:11.520] a les
+[00:25:11.520 --> 00:25:13.700] [?a] les
+[00:25:13.700 --> 00:25:18.500] [?d'acord]
+[00:25:18.500 --> 00:25:19.970] perfecte
+[00:25:19.970 --> 00:25:21.690] [?o] bé
+[00:25:21.690 --> 00:25:22.490] podeu copiar
+[00:25:22.490 --> 00:25:23.670] aquest [?enllaç]
+[00:25:23.670 --> 00:25:24.090] o bé
+[00:25:24.090 --> 00:25:24.930] podeu fer [?una] foto
+[00:25:24.930 --> 00:25:25.550] directament
+[00:25:25.550 --> 00:25:27.300] amb el vostre
+[00:25:27.300 --> 00:25:28.700] [?mòbil]
+[00:25:28.700 --> 00:25:30.740] QR
+[00:25:30.740 --> 00:25:31.520] sí
+[00:25:31.520 --> 00:25:35.140] sí
+[00:25:35.140 --> 00:25:35.380] sí
+[00:25:35.380 --> 00:25:35.520] sí
+[00:25:35.520 --> 00:25:35.780] [?tothom]
+[00:25:35.780 --> 00:25:36.660] tothom pot [?copiar]
+[00:25:36.660 --> 00:25:37.060] sí
+[00:25:37.060 --> 00:25:38.140] o [?copiu] [?la] llàst
+[00:25:38.140 --> 00:25:38.620] o feu
+[00:25:38.620 --> 00:25:39.920] [?amb] la càmera
+[00:25:39.920 --> 00:25:40.620] el reconeixement
+[00:25:40.620 --> 00:25:41.140] amb el QR
+[00:25:41.140 --> 00:25:42.500] i [?veiem]
+[00:25:42.500 --> 00:25:43.100] si [?no]
+[00:25:43.100 --> 00:25:52.530] [?però] veureu
+[00:25:52.530 --> 00:25:53.610] que en el qüestionari
+[00:25:53.610 --> 00:25:54.810] totes les preguntes
+[00:25:54.810 --> 00:25:55.630] són obligatòries
+[00:25:55.630 --> 00:25:56.490] com que l'última
+[00:25:56.490 --> 00:25:57.610] persona no ha pogut venir
+[00:25:57.610 --> 00:25:58.960] la nota que li poseu
+[00:25:58.960 --> 00:25:59.700] no la tindrem en compte
+[00:25:59.700 --> 00:26:01.020] però poseu-li alguna nota
+[00:26:01.020 --> 00:26:01.700] d'acord
+[00:26:01.700 --> 00:26:12.250] [?molt] bé
+[00:26:12.250 --> 00:26:13.010] doncs moltes gràcies
+[00:26:13.010 --> 00:26:13.350] a tots
+[00:26:13.350 --> 00:26:14.490] per les puntuacions
+[00:26:14.490 --> 00:26:15.710] mentre l'equip
+[00:26:15.710 --> 00:26:16.610] d'informàtics
+[00:26:16.610 --> 00:26:17.950] [?processen] [?els] resultats
+[00:26:17.950 --> 00:26:20.300] doncs
+[00:26:20.300 --> 00:26:22.650] acaba d'arribar
+[00:26:22.650 --> 00:26:23.210] i [?s'ha] [?dit]
+[00:26:23.210 --> 00:26:24.270] [?que] [?s'ha] [?arribat]
+[00:26:24.270 --> 00:26:24.570] ara
+[00:26:24.570 --> 00:26:25.740] participarà
+[00:26:25.740 --> 00:26:27.220] la Rosa Pons
+[00:26:27.220 --> 00:26:27.800] estarà allà
+[00:26:27.800 --> 00:26:28.440] fora de concurs
+[00:26:28.440 --> 00:26:28.680] perquè
+[00:26:28.680 --> 00:26:30.980] el qüestionari
+[00:26:30.980 --> 00:26:32.220] ja s'ha realitzat
+[00:26:32.220 --> 00:26:33.100] entra
+[00:26:33.100 --> 00:26:33.760] Rosa Pons
+[00:26:33.760 --> 00:26:35.340] factors de decisions
+[00:26:35.340 --> 00:26:36.280] didàtiques
+[00:26:36.280 --> 00:26:36.880] en l'ensenyament
+[00:26:36.880 --> 00:26:37.580] [?de] les matemàtiques
+[00:26:37.580 --> 00:26:38.660] a nivell de secundària
+[00:26:38.660 --> 00:26:39.380] a Andorra
+[00:26:39.380 --> 00:26:41.740] [?bones]
+[00:26:41.740 --> 00:26:42.750] i disculpeu
+[00:26:42.750 --> 00:26:49.150] [?això] és [?molt] [?insegureta]
+[00:26:49.150 --> 00:26:51.170] [?que] també no mirar-ho
+[00:26:51.170 --> 00:26:51.530] [?Rosa]
+[00:26:51.530 --> 00:26:52.590] [?4] minuts
+[00:26:52.590 --> 00:26:53.010] sí?
+[00:26:53.250 --> 00:26:53.650] [?Endavant]
+[00:26:53.650 --> 00:26:54.070] [?Endavant]
+[00:26:54.070 --> 00:26:54.170] [?Endavant]
+[00:26:54.070 --> 00:27:04.450] [?Gran] final
+[00:27:04.450 --> 00:27:05.310] del Fortnite
+[00:27:05.310 --> 00:27:06.150] en categoria
+[00:27:06.150 --> 00:27:07.250] 15 anys
+[00:27:07.250 --> 00:27:08.630] [?el] Joan
+[00:27:08.630 --> 00:27:09.330] el Xavier
+[00:27:09.330 --> 00:27:10.350] i el Manu
+[00:27:10.350 --> 00:27:11.490] hi participen
+[00:27:11.490 --> 00:27:12.150] però abans
+[00:27:12.150 --> 00:27:12.830] tenen
+[00:27:12.830 --> 00:27:14.190] deures de matemàtiques
+[00:27:14.190 --> 00:27:15.270] el Joan
+[00:27:15.270 --> 00:27:16.090] el seu professor
+[00:27:16.090 --> 00:27:17.370] de l'Institut Espanyol
+[00:27:17.370 --> 00:27:18.370] [?els] ha donat
+[00:27:18.370 --> 00:27:18.790] de resoldre
+[00:27:18.790 --> 00:27:19.070] [?les] [?situacions]
+[00:27:19.070 --> 00:27:19.890] de segon grau
+[00:27:19.890 --> 00:27:20.710] incompletes
+[00:27:20.710 --> 00:27:22.180] [?però] se'n recorda
+[00:27:22.180 --> 00:27:22.620] i ho [?comenta]
+[00:27:22.620 --> 00:27:23.340] els seus amics
+[00:27:23.340 --> 00:27:25.210] el Xavier
+[00:27:25.210 --> 00:27:26.270] de l'escola [?andorrana]
+[00:27:26.270 --> 00:27:27.050] li diu
+[00:27:27.050 --> 00:27:27.630] que ells
+[00:27:27.630 --> 00:27:28.370] les han [?resolt]
+[00:27:28.370 --> 00:27:28.770] fent-lo
+[00:27:28.770 --> 00:27:29.410] de B [?quadrat]
+[00:27:29.410 --> 00:27:30.370] menys 4C
+[00:27:30.370 --> 00:27:31.490] el Manu
+[00:27:31.490 --> 00:27:32.680] al [?Liceu]
+[00:27:32.680 --> 00:27:33.000] li diu
+[00:27:33.000 --> 00:27:33.440] que ells
+[00:27:33.440 --> 00:27:34.240] només han resolt
+[00:27:34.240 --> 00:27:35.260] de grau 1
+[00:27:35.260 --> 00:27:36.200] i que fins i tot
+[00:27:36.200 --> 00:27:36.940] les han programat
+[00:27:36.940 --> 00:27:37.540] amb [?scratch]
+[00:27:37.540 --> 00:27:38.630] està clar
+[00:27:38.630 --> 00:27:39.230] que no poden
+[00:27:39.230 --> 00:27:39.870] intercambiar
+[00:27:39.870 --> 00:27:41.050] la informació
+[00:27:41.050 --> 00:27:42.460] què està passant?
+[00:27:43.460 --> 00:27:43.600] Hola
+[00:27:43.600 --> 00:27:44.960] sóc la Rosa Pons
+[00:27:44.960 --> 00:27:46.490] i en la [?de] la tesis
+[00:27:46.490 --> 00:27:47.310] investigo
+[00:27:47.310 --> 00:27:48.050] el factor
+[00:27:48.050 --> 00:27:49.420] institucional
+[00:27:49.420 --> 00:27:50.160] de les decisions
+[00:27:50.160 --> 00:27:50.900] didàctiques
+[00:27:50.900 --> 00:27:51.920] en l'ensenyament
+[00:27:51.920 --> 00:27:53.000] de les matemàtiques
+[00:27:53.000 --> 00:27:54.150] a la secundària
+[00:27:54.150 --> 00:27:55.350] d'Andorra
+[00:27:55.350 --> 00:27:56.250] en concret
+[00:27:56.250 --> 00:27:56.870] la resolució
+[00:27:56.870 --> 00:27:57.690] de les equacions
+[00:27:57.690 --> 00:27:59.120] és a dir
+[00:27:59.120 --> 00:28:00.340] com [?s'ho] fa
+[00:28:00.340 --> 00:28:00.980] un professor
+[00:28:00.980 --> 00:28:02.750] per ensenyar
+[00:28:02.750 --> 00:28:03.350] les equacions
+[00:28:03.350 --> 00:28:04.430] als seus alumnes
+[00:28:04.430 --> 00:28:05.510] segons l'escola
+[00:28:05.510 --> 00:28:07.000] a la qual treballa
+[00:28:07.000 --> 00:28:09.520] diversos estudis
+[00:28:09.520 --> 00:28:10.460] han estudiat
+[00:28:10.460 --> 00:28:11.380] les dificultats
+[00:28:11.380 --> 00:28:12.220] i han demostrat
+[00:28:12.220 --> 00:28:13.220] les dificultats
+[00:28:13.220 --> 00:28:13.740] que tenen
+[00:28:13.740 --> 00:28:14.440] els aprenents
+[00:28:14.440 --> 00:28:15.240] quan s'inicien
+[00:28:15.240 --> 00:28:15.880] a l'àlgebra
+[00:28:15.880 --> 00:28:16.580] la resolució
+[00:28:16.580 --> 00:28:17.300] de les equacions
+[00:28:17.300 --> 00:28:18.150] però
+[00:28:18.150 --> 00:28:18.870] s'obliden
+[00:28:18.870 --> 00:28:19.690] del professor
+[00:28:19.690 --> 00:28:27.880] [?de] fet
+[00:28:27.880 --> 00:28:30.060] hi ha tot
+[00:28:30.060 --> 00:28:30.700] un ventall
+[00:28:30.700 --> 00:28:31.480] de tècniques
+[00:28:31.480 --> 00:28:32.140] per resoldre
+[00:28:32.140 --> 00:28:32.980] les equacions
+[00:28:32.980 --> 00:28:33.840] i
+[00:28:33.840 --> 00:28:35.040] quines
+[00:28:35.040 --> 00:28:35.700] [?escollir]
+[00:28:35.700 --> 00:28:36.860] quines
+[00:28:36.860 --> 00:28:38.080] es fan
+[00:28:38.080 --> 00:28:38.980] segon l'escola
+[00:28:38.980 --> 00:28:39.660] on treballa
+[00:28:39.660 --> 00:28:40.200] el professor
+[00:28:40.200 --> 00:28:41.540] quina clau
+[00:28:41.540 --> 00:28:41.920] donar
+[00:28:41.920 --> 00:28:43.240] a cada alumne
+[00:28:43.240 --> 00:28:44.500] perquè [?s'inicien]
+[00:28:44.500 --> 00:28:44.880] al món
+[00:28:44.880 --> 00:28:45.460] de l'àlgebra
+[00:28:45.460 --> 00:28:48.020] [?en] la meva [?tesi]
+[00:28:48.020 --> 00:28:49.270] em fixo
+[00:28:49.270 --> 00:28:50.630] en les decisions
+[00:28:50.630 --> 00:28:51.510] didàctiques
+[00:28:51.510 --> 00:28:52.810] aquesta problemàtica
+[00:28:52.810 --> 00:28:53.690] i
+[00:28:53.690 --> 00:28:55.540] el meu objectiu
+[00:28:55.540 --> 00:28:57.290] és detectar
+[00:28:57.290 --> 00:28:58.510] l'impacte
+[00:28:58.510 --> 00:28:59.610] de les institucions
+[00:28:59.610 --> 00:29:00.570] educatives
+[00:29:00.570 --> 00:29:01.830] és a dir
+[00:29:01.830 --> 00:29:03.150] que prioritza
+[00:29:03.150 --> 00:29:04.150] el professor
+[00:29:04.150 --> 00:29:05.290] d'una escola
+[00:29:05.290 --> 00:29:06.290] o d'una altra
+[00:29:06.290 --> 00:29:07.520] per ensenyar
+[00:29:07.520 --> 00:29:08.060] la resolució
+[00:29:08.060 --> 00:29:08.780] de les equacions
+[00:29:08.780 --> 00:29:09.780] he fet
+[00:29:09.780 --> 00:29:10.600] un repertori
+[00:29:10.600 --> 00:29:11.980] de totes les maneres
+[00:29:11.980 --> 00:29:12.680] que [?resolen]
+[00:29:12.680 --> 00:29:13.380] les equacions
+[00:29:13.380 --> 00:29:14.850] en els programes
+[00:29:14.850 --> 00:29:15.450] els llibres
+[00:29:15.450 --> 00:29:16.150] els recursos
+[00:29:16.150 --> 00:29:17.160] a l'abast
+[00:29:17.160 --> 00:29:17.720] dels professors
+[00:29:17.720 --> 00:29:18.260] de [?seguretat]
+[00:29:18.260 --> 00:29:18.940] i de matemàtiques
+[00:29:18.940 --> 00:29:20.140] dels tres sistemes
+[00:29:20.140 --> 00:29:20.800] educatius
+[00:29:20.800 --> 00:29:21.590] [?se'n] diu
+[00:29:21.590 --> 00:29:21.970] que he fet
+[00:29:21.970 --> 00:29:22.550] una anàlisi
+[00:29:22.550 --> 00:29:23.590] [?tracciològic]
+[00:29:23.590 --> 00:29:24.870] dels documents
+[00:29:24.870 --> 00:29:25.990] institucionals
+[00:29:25.990 --> 00:29:27.890] i les he contrastat
+[00:29:27.890 --> 00:29:29.380] amb les resolucions
+[00:29:29.380 --> 00:29:30.320] que fan els alumnes
+[00:29:30.320 --> 00:29:31.200] a les classes
+[00:29:31.200 --> 00:29:32.880] he trobat
+[00:29:32.880 --> 00:29:34.430] 31 maneres
+[00:29:34.430 --> 00:29:35.270] diferents
+[00:29:35.270 --> 00:29:36.310] de resoldre
+[00:29:36.310 --> 00:29:36.790] [?equacions]
+[00:29:36.790 --> 00:29:38.250] us imagineu
+[00:29:38.250 --> 00:29:39.900] 31
+[00:29:39.900 --> 00:29:40.800] enfocs
+[00:29:40.800 --> 00:29:41.620] diferents
+[00:29:41.620 --> 00:29:42.220] en el [?sí]
+[00:29:42.220 --> 00:29:42.760] d'un país
+[00:29:42.760 --> 00:29:43.620] tan petit
+[00:29:43.620 --> 00:29:45.480] segons la classe
+[00:29:45.480 --> 00:29:46.200] d'un sistema
+[00:29:46.200 --> 00:29:47.280] educatiu donar
+[00:29:47.280 --> 00:29:49.040] [?se] n'ensenyen
+[00:29:49.040 --> 00:29:49.600] moltes
+[00:29:49.600 --> 00:29:50.900] o molt poques
+[00:29:50.900 --> 00:29:52.470] en aquestes
+[00:29:52.470 --> 00:29:53.190] [?dels] professors
+[00:29:53.190 --> 00:29:55.370] i l'impacte
+[00:29:55.370 --> 00:29:56.110] institucional
+[00:29:56.110 --> 00:29:57.440] és una [?vivència]
+[00:29:57.440 --> 00:29:59.050] en un sistema
+[00:29:59.050 --> 00:29:59.730] educatiu
+[00:29:59.730 --> 00:30:00.350] d'una escola
+[00:30:00.350 --> 00:30:00.910] donada
+[00:30:00.910 --> 00:30:02.040] s'ensenya
+[00:30:02.040 --> 00:30:03.060] el mateix concepte
+[00:30:03.060 --> 00:30:04.080] de la mateixa forma
+[00:30:04.080 --> 00:30:05.110] per tots
+[00:30:05.110 --> 00:30:05.630] clar
+[00:30:05.630 --> 00:30:07.310] 31 enfocs
+[00:30:07.310 --> 00:30:07.890] a abordar
+[00:30:07.890 --> 00:30:08.370] pel professor
+[00:30:08.370 --> 00:30:09.290] és [?que] està difícil
+[00:30:09.290 --> 00:30:10.770] i si per exemple
+[00:30:10.770 --> 00:30:12.570] el menú del [?liceu]
+[00:30:12.570 --> 00:30:13.310] pel que sigui
+[00:30:13.310 --> 00:30:14.310] canvia d'escola
+[00:30:14.310 --> 00:30:15.700] doncs al meu professor
+[00:30:15.700 --> 00:30:16.360] encara se li [?complica]
+[00:30:16.360 --> 00:30:16.940] més la tasca
+[00:30:16.940 --> 00:30:19.900] amb les noves tecnologies
+[00:30:19.900 --> 00:30:20.880] ho pot fer
+[00:30:20.880 --> 00:30:22.860] en la meva tesi
+[00:30:22.860 --> 00:30:23.680] proposo
+[00:30:23.680 --> 00:30:25.060] un model didàctic
+[00:30:25.060 --> 00:30:25.760] complet
+[00:30:25.760 --> 00:30:27.000] de la resolució
+[00:30:27.000 --> 00:30:27.900] de les equacions
+[00:30:27.900 --> 00:30:29.040] tenint en compte
+[00:30:29.040 --> 00:30:30.300] la diversitat educativa
+[00:30:30.300 --> 00:30:30.980] d'Andorra
+[00:30:30.980 --> 00:30:32.530] es tracta
+[00:30:32.530 --> 00:30:33.330] d'enriquir
+[00:30:33.330 --> 00:30:34.370] el món digital
+[00:30:34.370 --> 00:30:35.800] i potenciar
+[00:30:35.800 --> 00:30:36.700] les tecnologies
+[00:30:36.700 --> 00:30:38.720] per acompanyar [?el] professor
+[00:30:38.720 --> 00:30:39.970] per ensenyar
+[00:30:39.970 --> 00:30:41.110] de forma més oberta
+[00:30:41.110 --> 00:30:42.090] les matemàtiques
+[00:30:42.090 --> 00:30:43.660] escriure articles
+[00:30:43.660 --> 00:30:44.540] investigar
+[00:30:44.540 --> 00:30:45.460] fer una tesis
+[00:30:45.460 --> 00:30:46.340] està molt bé
+[00:30:46.340 --> 00:30:47.380] però per què serveix
+[00:30:47.380 --> 00:30:48.360] [?si] no [?per] [?millors] coses
+[00:30:48.360 --> 00:30:49.640] entendre
+[00:30:49.640 --> 00:30:50.400] fer entendre
+[00:30:50.400 --> 00:30:50.820] una
+[00:30:50.820 --> 00:30:52.060] [?i] [?no] per millors coses
+[00:30:52.060 --> 00:30:53.280] i no per millors coses
+[00:30:53.280 --> 00:30:54.860] [?no] per millors coses
+[00:30:54.860 --> 00:30:56.510] i no per millors coses
+[00:30:56.510 --> 00:30:57.330] [?el] més important
+[00:30:57.330 --> 00:30:57.830] [?el] més important [?és]
+[00:30:57.830 --> 00:30:57.930] el [?més] important és
+[00:30:57.890 --> 00:30:59.130] el més important és
+[00:30:59.130 --> 00:31:00.370] [?no] per millors coses
+[00:31:00.370 --> 00:31:14.360] [?Volem] acabar que el Manu, el Xavi i el Joan
+[00:31:14.360 --> 00:31:18.240] igual queden per veure la [?final,] no del Fortnite, del GOU,
+[00:31:18.360 --> 00:31:19.960] que la màquina alfa GOU va vèncer
+[00:31:19.960 --> 00:31:23.550] i és un lloc d'estratègia matemàtic molt conegut
+[00:31:23.550 --> 00:31:25.470] i gràcies a les tecnologies va vèncer
+[00:31:25.470 --> 00:31:26.870] i igual ho poden i ho compartir.
+[00:31:27.230 --> 00:31:28.270] Què [?tal,] amb la conclusió?
+[00:31:28.670 --> 00:31:29.050] Molt bé.
+[00:31:35.590 --> 00:31:38.630] Moltes gràcies, Rosa, per l'esforç de [?venir.]
+[00:31:38.630 --> 00:31:41.110] [?Enteneu?] Perquè deia que era una llàstima que no estigués.
+[00:31:42.530 --> 00:31:43.270] Doncs molt bé.
+[00:31:43.590 --> 00:31:46.170] Ara ja fora de concurs en tenim tres doctorants
+[00:31:46.170 --> 00:31:48.150] que malauradament no han pogut venir
+[00:31:48.150 --> 00:31:51.110] i ens van avisar en temps que era incompatible amb la seva feina,
+[00:31:51.310 --> 00:31:54.810] però sí que de manera voluntària han volgut fer un vídeo,
+[00:31:54.970 --> 00:31:56.250] per això queda fora de concurs,
+[00:31:56.570 --> 00:31:57.570] però sí que ens agradaria,
+[00:31:57.670 --> 00:32:00.050] i com el nostre objectiu és fer difusió de tot el [?món]
+[00:32:00.050 --> 00:32:02.840] que estem fent a la universitat,
+[00:32:03.040 --> 00:32:05.060] doncs ara projectarem aquests tres vídeos.
+[00:32:06.490 --> 00:32:08.090] Comencem amb la [?garbota] de [?mi.]
+[00:32:08.860 --> 00:32:13.060] A totes, avui en dia ens trobem
+[00:32:13.060 --> 00:32:15.100] en els [?inècits] del segle XXI
+[00:32:15.100 --> 00:32:18.200] i això és sinònim a quasi tot arreu del món
+[00:32:18.200 --> 00:32:21.140] que estem vivint una revolució tecnològica i social.
+[00:32:21.920 --> 00:32:22.560] Què dir això?
+[00:32:22.940 --> 00:32:25.160] Doncs que ens trobem amb molta tecnologia
+[00:32:25.160 --> 00:32:26.820] en el nostre [?dia] a [?dia.]
+[00:32:27.300 --> 00:32:28.840] I aquesta tecnologia, en teoria,
+[00:32:29.060 --> 00:32:32.180] ens ajuda a portar [?millor,] entre [?cometes,]
+[00:32:32.240 --> 00:32:32.980] les nostres [?visites.]
+[00:32:33.160 --> 00:32:35.020] [?És] a dir, com [?veieu] aquí en la fotografia,
+[00:32:35.480 --> 00:32:37.540] tenim els smartphones que ens ajuden a comunicar-los
+[00:32:37.540 --> 00:32:38.960] [?entre] la família, amb els amics,
+[00:32:39.040 --> 00:32:42.240] que ens poden ajudar amb els treballs
+[00:32:42.240 --> 00:32:45.060] o fer [?les] tasques que puguin comportar la nostra feina,
+[00:32:45.200 --> 00:32:46.180] [?amb] els nostres estudis.
+[00:32:46.600 --> 00:32:50.620] Però què passa amb la tecnologia que es troba a la sanitat?
+[00:32:51.190 --> 00:32:53.170] Realment aquesta ajuda del tot
+[00:32:53.170 --> 00:32:54.890] a que el dia a dia dels sanitaris
+[00:32:54.890 --> 00:32:56.370] sigui més fàcil.
+[00:32:57.010 --> 00:32:57.830] Doncs que ho podeu [?observar,]
+[00:32:57.910 --> 00:32:59.730] la fotografia no sempre és així.
+[00:33:00.470 --> 00:33:02.970] Actualment tenim les històries clíniques electròniques
+[00:33:02.970 --> 00:33:05.730] que moltes d'elles intenten ser intuitives
+[00:33:05.730 --> 00:33:07.290] i intenten ser eficaces
+[00:33:07.290 --> 00:33:09.870] perquè els sanitaris [?disposen] de més temps
+[00:33:09.870 --> 00:33:11.310] per atendre els seus pacients.
+[00:33:11.910 --> 00:33:13.770] [?Quantes] vegades [?m'heu] sentit [?una] infermera
+[00:33:13.770 --> 00:33:14.550] [?a] [?dir,] sí, sí, [?un] moment,
+[00:33:14.610 --> 00:33:15.690] [?que] [?és] 5 minuts que ara arribo,
+[00:33:15.730 --> 00:33:17.010] que acabo [?d'escriure] aquesta història
+[00:33:17.010 --> 00:33:17.610] i ara la [?té.]
+[00:33:18.130 --> 00:33:19.780] Però quantes vegades heu estat a la consulta
+[00:33:19.780 --> 00:33:20.560] amb aquesta infermera
+[00:33:20.560 --> 00:33:24.230] [?i] no us ha pogut mirar tot el que vosaltres [?heu] [?volgut]
+[00:33:24.230 --> 00:33:25.950] perquè a [?lo] millor ha passat [?més] estona
+[00:33:25.950 --> 00:33:27.190] mirant la pantalla de l'ordinador
+[00:33:27.190 --> 00:33:29.090] per poder obrir totes les dades
+[00:33:29.090 --> 00:33:31.750] que es necessiten [?dins] de la vostra història química electrònica.
+[00:33:32.310 --> 00:33:33.950] Doncs bé, la meva investigació
+[00:33:33.950 --> 00:33:37.150] [?intenta] fer la transformació digital
+[00:33:37.150 --> 00:33:38.590] dels [?plans] de [?corres] de l'infermeria
+[00:33:38.590 --> 00:33:41.250] que són els registres que les infermeres utilitzen
+[00:33:41.250 --> 00:33:43.250] per poder incloure
+[00:33:43.250 --> 00:33:44.750] [?dins] d'aquestes històries clíniques
+[00:33:44.750 --> 00:33:46.530] tota la informació dels [?pacients,]
+[00:33:46.970 --> 00:33:48.910] però intentar transformar [?el] digital
+[00:33:48.910 --> 00:33:51.270] [?estal·litzant] aquestes dades
+[00:33:51.270 --> 00:33:55.210] perquè el seguiment d'aquests [?barals]
+[00:33:55.210 --> 00:33:56.610] [?siguin] més fàcils d'incloure
+[00:33:56.610 --> 00:33:58.710] dins de les històries [?clímiques] de les tronques.
+[00:33:59.380 --> 00:34:01.820] Aleshores, el llenguatge d'infermeria
+[00:34:01.820 --> 00:34:04.100] que [?s'utilitza] en els plans de corres d'infermeria
+[00:34:04.100 --> 00:34:06.020] [?aquí] [?en] [?l'orba] és el que [?era] [?l'anariquinòleg]
+[00:34:06.020 --> 00:34:08.140] i la [?tesa] [?s'integra] [?agafa]
+[00:34:08.140 --> 00:34:10.780] un d'aquests plans de corres d'aquest llenguatge.
+[00:34:11.140 --> 00:34:13.200] També el que la [?tesa] [?s'intentarà]
+[00:34:13.200 --> 00:34:15.700] és utilitzar [?l'estàndard] internacional
+[00:34:15.700 --> 00:34:18.880] de llenguatge [?ràdic] que es diu [?SMHT]
+[00:34:18.880 --> 00:34:20.880] que és un [?vers] [?de] reconeguts [?aquí] [?en] [?l'orbià]
+[00:34:20.880 --> 00:34:22.880] per poder recollir aquesta informació
+[00:34:22.880 --> 00:34:26.380] i poder [?incloure] dins de la història clínica electrònica.
+[00:34:26.380 --> 00:34:27.380] [?com] [?ho] farem això?
+[00:34:27.380 --> 00:34:29.380] Com [?anem] a un grup d'experts
+[00:34:29.380 --> 00:34:35.880] quines són les coses que més s'utilitzen [?del] [?plan] de [?cura] [?en] les enquestes
+[00:34:35.880 --> 00:34:38.880] i un cop l'estandarditzem [?amb] el que realment s'utilitza
+[00:34:38.880 --> 00:34:44.880] farem la transformació digital amb aquest tipus d'estàndard que [?ens] ha explicat
+[00:34:44.880 --> 00:34:50.600] [?i] [?aleshores] s'intentarà comprovar [?amb] el treball de les infermeres
+[00:34:50.600 --> 00:34:55.600] [?si] [?realment] hem pogut disminuir el temps de registre electrònic
+[00:34:55.600 --> 00:34:57.100] [?quan] les infermeres treballen
+[00:34:57.100 --> 00:34:58.530] per poder fer
+[00:34:58.530 --> 00:35:02.160] o per poder tenir aquests 5 minuts més amb [?el] [?malalt]
+[00:35:02.160 --> 00:35:05.160] per tant l'implicació social de la nostra investigació
+[00:35:05.160 --> 00:35:06.160] serà aquesta
+[00:35:06.160 --> 00:35:09.070] [?moltes] gràcies per la vostra atenció
+[00:35:09.070 --> 00:35:12.000] [?Molt] bé
+[00:35:12.000 --> 00:35:14.300] El segon és el [?del] [?Joan] Apodaca
+[00:35:14.300 --> 00:35:16.290] Hola
+[00:35:16.290 --> 00:35:18.310] Em dic Joan Apodaca
+[00:35:18.310 --> 00:35:21.310] i ara us presentaré la meva tesi
+[00:35:21.310 --> 00:35:26.670] que estic fent el programa de [?doctorat] de la Universitat d'Andorra
+[00:35:26.670 --> 00:35:31.390] [?Llavors,] [?imaginem] [?que] estem [?a] [?l'any] 2030
+[00:35:31.390 --> 00:35:34.360] i a continuació us presentaré
+[00:35:34.360 --> 00:35:37.450] les [?dades] de [?Marat] i de [?Moss]
+[00:35:37.450 --> 00:35:40.190] [?cumpid-os] a [?l'Otremont]
+[00:35:40.190 --> 00:35:44.830] Veniu [?a] [?Wuhan,] a la [?Xina]
+[00:35:44.830 --> 00:35:48.490] les dades també de New York [?als] [?Estats] Units
+[00:35:48.490 --> 00:35:50.870] les dades de Rio al Brasil
+[00:35:50.870 --> 00:35:53.620] les dades de [?Marrakees] al [?Maró]
+[00:35:53.620 --> 00:35:56.660] les dades de Madrid a España
+[00:35:56.660 --> 00:36:00.090] i les dades d'Andorra
+[00:36:00.090 --> 00:36:02.550] Llavors, què podem obtenir?
+[00:36:02.550 --> 00:36:04.050] [?ha] obtenit aquestes dades
+[00:36:04.050 --> 00:36:06.750] com ja tenim un registre històric
+[00:36:06.750 --> 00:36:10.050] [?per] tant ampli i més informació
+[00:36:10.050 --> 00:36:11.690] que [?en] la primera vegada
+[00:36:11.690 --> 00:36:14.190] és [?a] [?dir,] en aquest exemple [?10] anys
+[00:36:14.190 --> 00:36:16.220] podem obtenir diferents patrons
+[00:36:16.220 --> 00:36:17.530] diferents [?mentes]
+[00:36:17.530 --> 00:36:20.250] i és que [?podríem] [?donar] [?indícips]
+[00:36:20.250 --> 00:36:22.740] de [?lo] que passarà [?als] [?filiales] mesos
+[00:36:22.740 --> 00:36:26.470] també podem sectoritzar [?a] qui l'accepta més
+[00:36:26.470 --> 00:36:27.470] a qui no l'accepta més
+[00:36:27.470 --> 00:36:28.970] aquest tipus de [?malaltia]
+[00:36:28.970 --> 00:36:32.080] [?doncs] això és una mica [?el] que estic fent
+[00:36:32.080 --> 00:36:33.080] [?a] la meva tesi
+[00:36:33.080 --> 00:36:34.600] [?però] en el meu cas
+[00:36:34.600 --> 00:36:37.640] està tot [?relacionat] a la neu i [?les] [?allaus]
+[00:36:37.640 --> 00:36:38.980] [?el] que estic fent
+[00:36:38.980 --> 00:36:40.260] és simplement
+[00:36:40.260 --> 00:36:42.410] el que es diu
+[00:36:42.410 --> 00:36:44.530] fer una [?caracterització]
+[00:36:44.530 --> 00:36:45.530] espai temporal
+[00:36:45.530 --> 00:36:47.560] [?de] l'activitat d'allaus
+[00:36:47.560 --> 00:36:49.440] [?d'andorra]
+[00:36:49.440 --> 00:36:50.440] [?i] en aquesta tesi
+[00:36:50.440 --> 00:36:52.440] està [?molt] [?molt] relacionat
+[00:36:52.440 --> 00:36:53.850] a la neu
+[00:36:53.850 --> 00:36:55.040] [?la] neu
+[00:36:55.040 --> 00:36:57.790] [?és] [?un] dels actius [?principals]
+[00:36:57.790 --> 00:36:58.890] que tenim
+[00:36:58.890 --> 00:37:00.330] al país
+[00:37:00.330 --> 00:37:01.560] [?perquè]
+[00:37:01.560 --> 00:37:03.560] el [?4%] del PIB
+[00:37:03.560 --> 00:37:04.560] ve directament
+[00:37:04.560 --> 00:37:06.060] d'aquell recurs
+[00:37:06.060 --> 00:37:07.750] de totes aquestes activitats
+[00:37:07.750 --> 00:37:08.750] que [?fem]
+[00:37:08.750 --> 00:37:10.650] a la [?neu]
+[00:37:10.650 --> 00:37:12.420] i generen
+[00:37:12.420 --> 00:37:13.420] aquesta riquesa
+[00:37:13.420 --> 00:37:14.420] econòmica
+[00:37:14.420 --> 00:37:15.410] però
+[00:37:15.410 --> 00:37:16.410] podem dir també
+[00:37:16.410 --> 00:37:17.410] que un 30%
+[00:37:17.410 --> 00:37:18.820] del PIB
+[00:37:18.820 --> 00:37:19.820] ve directament
+[00:37:19.820 --> 00:37:22.300] de tot aquest tema
+[00:37:22.300 --> 00:37:24.580] de la neu
+[00:37:24.580 --> 00:37:25.580] [?llavors]
+[00:37:25.580 --> 00:37:26.580] és molt important
+[00:37:26.580 --> 00:37:28.580] [?de] [?envolver] [?aquestes] [?dinámiques]
+[00:37:28.580 --> 00:37:29.580] per evitar
+[00:37:29.580 --> 00:37:32.080] [?el] tot el [?llibus]
+[00:37:32.080 --> 00:37:33.860] i [?minimizar]
+[00:37:33.860 --> 00:37:34.860] la [?vulnerabilitat]
+[00:37:34.860 --> 00:37:35.860] i [?l'exposició]
+[00:37:35.860 --> 00:37:37.270] [?llavors]
+[00:37:37.270 --> 00:37:38.550] en la meva recerca
+[00:37:38.550 --> 00:37:40.050] [?i] [?el] que [?he] fet
+[00:37:40.050 --> 00:37:41.050] [?i] [?el] que [?estic] fent
+[00:37:41.050 --> 00:37:41.550] és
+[00:37:41.550 --> 00:37:42.550] cuidar
+[00:37:42.550 --> 00:37:43.270] [?tots] aquests
+[00:37:43.270 --> 00:37:44.550] [?els] registres històrics
+[00:37:44.550 --> 00:37:44.650] que tenim
+[00:37:44.550 --> 00:37:45.580] [?al·rego]
+[00:37:45.580 --> 00:37:46.580] de tot el país
+[00:37:46.580 --> 00:37:47.800] tant de les estacions
+[00:37:47.800 --> 00:37:48.800] de [?esquí]
+[00:37:48.800 --> 00:37:49.760] com de [?la]
+[00:37:49.760 --> 00:37:50.760] [?de] [?los] [?empujes]
+[00:37:50.760 --> 00:37:52.240] i de les gestions
+[00:37:52.240 --> 00:37:53.240] de carreteres
+[00:37:53.240 --> 00:37:54.200] respecte
+[00:37:54.200 --> 00:37:55.200] a [?la] [?teriocitat]
+[00:37:55.200 --> 00:37:56.120] [?de] [?l'allau]
+[00:37:56.120 --> 00:37:57.390] que [?és] [?el]
+[00:37:57.390 --> 00:37:58.390] [?a] [?l'altre] [?del] temps
+[00:37:58.390 --> 00:37:59.390] [?també]
+[00:37:59.390 --> 00:38:00.420] les dades [?històriques]
+[00:38:00.420 --> 00:38:01.420] que tenim
+[00:38:01.420 --> 00:38:03.600] de les estacions
+[00:38:03.600 --> 00:38:04.600] [?meteorològiques]
+[00:38:04.600 --> 00:38:06.390] manuals
+[00:38:06.390 --> 00:38:07.390] automàtiques
+[00:38:07.390 --> 00:38:09.700] i com estan [?canviant]
+[00:38:09.700 --> 00:38:10.700] aquests [?patrons]
+[00:38:10.700 --> 00:38:11.760] a l'altre del temps
+[00:38:11.760 --> 00:38:12.720] [?tenen] en compte
+[00:38:12.720 --> 00:38:13.840] la problemàtica
+[00:38:13.840 --> 00:38:15.840] del canvi climàtic
+[00:38:15.840 --> 00:38:17.250] [?i] [?l'altre] del temps
+[00:38:17.250 --> 00:38:17.350] [?a] [?l'altre] del temps
+[00:38:17.250 --> 00:38:18.470] [?i] [?l'altre] del temps
+[00:38:18.470 --> 00:38:19.390] [?de] [?l'altre] del temps
+[00:38:19.390 --> 00:38:20.590] [?i] [?l'altre] del temps
+[00:38:20.590 --> 00:38:21.590] [?i] [?l'altre] del temps
+[00:38:21.590 --> 00:38:22.550] [?de] [?l'altre] del temps
+[00:38:22.550 --> 00:38:23.710] [?de] [?l'altre] del temps
+[00:38:23.710 --> 00:38:24.710] [?de] [?l'altre] del temps
+[00:38:24.710 --> 00:38:25.800] [?de] l'altre del temps
+[00:38:25.800 --> 00:38:26.800] [?de] l'altre del temps
+[00:38:26.800 --> 00:38:27.860] [?de] l'altre del temps
+[00:38:27.860 --> 00:38:28.860] [?de] l'altre del temps
+[00:38:28.860 --> 00:38:29.860] [?de] l'altre del temps
+[00:38:29.860 --> 00:38:31.080] en les actuacions
+[00:38:31.080 --> 00:38:32.080] que s'estan fent fins ara
+[00:38:32.080 --> 00:38:36.680] con tal de baixar la mortalitat
+[00:38:36.680 --> 00:38:38.770] i també la histologia
+[00:38:38.770 --> 00:38:39.770] i les peses
+[00:38:39.770 --> 00:38:41.770] que pot provocar aquest risc
+[00:38:41.770 --> 00:38:43.080] Finalment
+[00:38:43.080 --> 00:38:44.080] estic intentant validar
+[00:38:44.080 --> 00:38:47.080] i provar diferents tecnologies
+[00:38:47.080 --> 00:38:48.080] que estem fent servir
+[00:38:48.080 --> 00:38:49.140] últimament
+[00:38:49.140 --> 00:38:50.580] en molts jocs
+[00:38:50.580 --> 00:38:51.650] però que fins ara
+[00:38:51.650 --> 00:38:52.650] aquí ho havien arribat
+[00:38:52.650 --> 00:38:53.650] com poden ser
+[00:38:53.650 --> 00:38:55.680] les imatges satèrics
+[00:38:55.680 --> 00:38:56.830] que han tenen en tensió
+[00:38:56.830 --> 00:38:57.830] que han fet servir
+[00:38:57.830 --> 00:38:58.830] per observació de allà
+[00:38:58.830 --> 00:38:59.830] que estem veient
+[00:38:59.830 --> 00:39:00.830] a veure què poten ser
+[00:39:00.830 --> 00:39:02.860] [?i] també
+[00:39:02.860 --> 00:39:03.860] jugar [?amb] les imatges
+[00:39:03.860 --> 00:39:04.860] [?del] dron
+[00:39:04.860 --> 00:39:05.830] i [?les] [?instalments] models
+[00:39:05.830 --> 00:39:06.830] que [?poden] obtenir
+[00:39:06.830 --> 00:39:07.830] amb [?l'altre] del [?temps]
+[00:39:07.830 --> 00:39:08.830] [?per] [?alguns] [?volumets]
+[00:39:08.830 --> 00:39:09.890] o [?simplement]
+[00:39:09.890 --> 00:39:11.140] la [?presentació]
+[00:39:11.140 --> 00:39:12.140] de [?persones]
+[00:39:12.140 --> 00:39:13.170] o la [?revisió]
+[00:39:13.170 --> 00:39:14.170] de mesures de [?penses]
+[00:39:14.170 --> 00:39:16.940] [?moltes] gràcies
+[00:39:16.940 --> 00:39:18.320] [?que] no hi haurà
+[00:39:18.320 --> 00:39:20.690] [?que] [?no] hi haurà
+[00:39:20.690 --> 00:39:22.170] [?que] [?no] hi haurà
+[00:39:22.170 --> 00:39:23.500] [?que] [?no] hi haurà
+[00:39:23.500 --> 00:39:26.510] [?que] no hi haurà
+[00:39:26.510 --> 00:39:27.510] [?que] [?no] hi haurà
+[00:39:27.510 --> 00:39:28.510] [?que] no hi haurà
+[00:39:28.510 --> 00:39:30.510] [?que] no hi haurà
+[00:39:30.510 --> 00:39:31.510] [?que] no hi haurà
+[00:39:31.510 --> 00:39:32.510] [?que] no hi haurà
+[00:39:32.510 --> 00:39:33.860] [?que] no hi haurà
+[00:39:33.860 --> 00:39:39.360] Jo soc [?geològics,] soc geològics, tenc [?un] [?d'edit] socials i [?almenys] [?a] procurar [?la] universitat [?d'en] Borla,
+[00:39:39.360 --> 00:39:44.830] [?amb] el tema de la [?pacerca,] els noms de geològics [?de] [?l'Urla,] en Borla, com [?has] estudi.
+[00:39:44.830 --> 00:39:48.450] Això és l'estudi dels [?geosintenògics] d'en Borla.
+[00:39:48.450 --> 00:39:51.670] Us podríem preguntar: i per què aquest tema de la pacerca?
+[00:39:51.670 --> 00:39:54.670] Doncs jo [?m'adribuït] a discutir dos grans tipus de noms:
+[00:39:54.670 --> 00:39:58.670] un dels que explicaria des de com els personals i un dels altres [?d'artistes.]
+[00:39:58.670 --> 00:40:03.140] Raons [?personals:] sí, [?tancada,] evidentment, per una [?qüestió] de [?formació,]
+[00:40:03.140 --> 00:40:07.640] però també [?en] gran mesura per una [?motivació] [?còpiga] [?de] [?recerca] sobre aquesta [?menèrica.]
+[00:40:07.640 --> 00:40:12.640] La [?paciència,] [?l'anomàtica,] la [?geològia,] el [?sol] [?i] [?l'altre] [?polítiques] són [?un] [?entusiasta.]
+[00:40:12.640 --> 00:40:15.040] [?El] senyor [?haurien] [?de] [?complir.]
+[00:40:15.040 --> 00:40:22.530] També per aquestes altres [?raons,] [?que] [?explicaria] com [?val] [?a] [?turistes,] de [?caràcters] [?socials,] [?i] [?totes.]
+[00:40:22.530 --> 00:40:28.530] Aquestes raons estan vinculades, [?estan] [?fonamentades] amb [?les] [?característiques] del nostre territori.
+[00:40:28.530 --> 00:40:31.570] [?Aquestes] raons [?estan] [?en] [?la] [?muntanya] [?de] [?250] [?grans] [?quadrats,]
+[00:40:31.570 --> 00:40:33.070] [?en] [?païs] [?de] [?pocs] pendents,
+[00:40:33.070 --> 00:40:35.570] o [?insumenteixen] els fenòmens [?geològiosos,]
+[00:40:35.570 --> 00:40:37.570] [?que] [?les] [?fa] [?extensament] [?poblades,]
+[00:40:37.570 --> 00:40:38.760] [?o] [?amb] [?les] [?qualitats,]
+[00:40:38.760 --> 00:40:40.760] o amb les [?diferents] de [?supervivència,]
+[00:40:40.760 --> 00:40:44.670] passa per conviure amb aquests [?raons] [?que] són aquests [?fenòmens] geològiosos.
+[00:40:44.670 --> 00:40:49.540] [?i] [?hi] ha [?una] [?població] de [?caminades] [?a] [?durar] el [?coneixement.]
+[00:40:49.540 --> 00:40:51.540] Aquestes [?raons] [?afectades] amb [?aquests] [?monògiosos.]
+[00:40:51.540 --> 00:40:55.540] [?Unes] raons [?encaminades] a compartir aquests [?coneixements.]
+[00:40:55.540 --> 00:40:58.100] [?hi] ha [?pels] agents [?educats] [?a] la matèria,
+[00:40:58.100 --> 00:41:00.350] [?científic,]
+[00:41:00.350 --> 00:41:02.300] [?d'una] [?altra] [?banda,]
+[00:41:02.300 --> 00:41:06.530] també hi ha algunes altres raons [?que] [?m'han] ajudat a projectar
+[00:41:06.530 --> 00:41:07.130] a la [?matèria.]
+[00:41:07.130 --> 00:41:10.110] i hi ha un país com un territori pioner en l'estudi de la [?matèria.]
+[00:41:10.110 --> 00:41:11.440] Aquesta temàtica,
+[00:41:11.440 --> 00:41:12.940] el discurs que els fa a la matèria.
+[00:41:12.940 --> 00:41:15.940] Perquè entenc que hi ha un potencial molt interessant,
+[00:41:15.940 --> 00:41:16.940] molt promocador,
+[00:41:16.940 --> 00:41:19.080] que pot ser explicable.
+[00:41:19.080 --> 00:41:22.640] Què no hem de dir sobre la relació de caminades [?de] [?molts] estudiosos?
+[00:41:22.640 --> 00:41:24.640] Tant [?que] ara posar l'accent
+[00:41:24.640 --> 00:41:26.660] en que aquesta relació,
+[00:41:26.660 --> 00:41:28.660] que pot semblar força evident,
+[00:41:28.660 --> 00:41:31.660] és una temàtica que no ha estat [?pràcticament.]
+[00:41:31.660 --> 00:41:33.630] En aquest cas,
+[00:41:33.630 --> 00:41:35.630] aquest treball per a qui no viu [?o] ens [?de] tal
+[00:41:35.630 --> 00:41:37.630] una via de construcció que tenen
+[00:41:37.630 --> 00:41:38.630] [?unes] altres raons,
+[00:41:38.630 --> 00:41:39.630] escriure [?unes] altres raons,
+[00:41:39.630 --> 00:41:41.630] escriure una informació que conté d'aquests [?noves.]
+[00:41:41.630 --> 00:41:43.970] El treball [?parteix,]
+[00:41:43.970 --> 00:41:45.940] com que ens ho [?ha] desmontat com a Angola,
+[00:41:45.940 --> 00:41:47.940] es pot observar que sovint aquests [?noves]
+[00:41:47.940 --> 00:41:49.940] els seus seus seus seus seus seus seus seus seus seus [?seus.]
+[00:41:49.940 --> 00:41:51.940] han quedat fossilitzats amb el nom que reben
+[00:41:51.940 --> 00:41:53.940] els interessos especialistes de partitats,
+[00:41:53.940 --> 00:41:54.940] que és [?d'aquests] noves.
+[00:41:54.940 --> 00:41:56.070] En aquest sentit,
+[00:41:56.070 --> 00:41:57.070] per exemple,
+[00:41:57.070 --> 00:41:58.070] [?en] Angola,
+[00:41:58.070 --> 00:42:00.070] que van dir els [?cincularius] dels parents,
+[00:42:00.070 --> 00:42:02.070] que ens aporta la seva [?lòsia] [?d'informació,]
+[00:42:02.070 --> 00:42:04.070] si no ens recorden algunes expectacions
+[00:42:04.070 --> 00:42:06.070] no massa mirades [?del] temps.
+[00:42:06.070 --> 00:42:08.070] [?a] [?les] [?llars,]
+[00:42:08.070 --> 00:42:09.070] [?les] [?terres,]
+[00:42:09.070 --> 00:42:10.070] els [?xeragalls] [?o] els [?terrenys,]
+[00:42:10.070 --> 00:42:12.030] [?i] [?els] [?llars,]
+[00:42:12.030 --> 00:42:13.030] [?amb] les [?llars,]
+[00:42:13.030 --> 00:42:14.030] [?i] amb les [?llars.]
+[00:42:14.030 --> 00:42:15.930] Però en aquest [?territori,]
+[00:42:15.930 --> 00:42:16.930] hi ha altres [?geocentilògics]
+[00:42:16.930 --> 00:42:18.930] [?un] dels geocentilògics [?més] difícils [?d'aquí.]
+[00:42:18.930 --> 00:42:20.250] [?Som] [?els] [?de] llars [?de] [?la] [?Nau,]
+[00:42:20.250 --> 00:42:21.250] [?i] [?la] Tina,
+[00:42:21.250 --> 00:42:23.250] [?i] que [?ara] [?també] [?hi] ha una [?metodologia] [?d'explorir]
+[00:42:23.250 --> 00:42:26.250] [?però] [?el] seu [?metodologia] [?de] [?la] situació com [?els] [?geocentilògics.]
+[00:42:26.250 --> 00:42:28.250] Una metodologia [?que] [?expliquem] [?i] que [?és] un [?problema]
+[00:42:28.250 --> 00:42:30.250] justament [?del] nostre terreny.
+[00:42:30.250 --> 00:42:32.370] [?i] [?la] [?Nau] és [?difícil] [?gràfic] [?i] [?econòmica]
+[00:42:32.370 --> 00:42:33.370] [?convertiva]
+[00:42:33.370 --> 00:42:36.370] perquè consisteix [?en] la [?comparació] [?geoclògica]
+[00:42:36.370 --> 00:42:39.330] de [?sèries] de [?llars] amb [?noms] iguals o [?sabants.]
+[00:42:39.330 --> 00:42:40.590] [?Tu] [?podis] [?el] [?tipus,]
+[00:42:40.590 --> 00:42:41.590] [?o] [?sèries] [?del] [?tipus,]
+[00:42:41.590 --> 00:42:42.590] [?l'autor,]
+[00:42:42.590 --> 00:42:43.590] [?l'autor,]
+[00:42:43.590 --> 00:42:44.590] [?que] [?tenen] [?llars,]
+[00:42:44.590 --> 00:42:45.750] o
+[00:42:45.750 --> 00:42:46.750] [?queixalits,]
+[00:42:46.750 --> 00:42:47.750] [?ixissaris,]
+[00:42:47.750 --> 00:42:48.750] [?ixillosa,]
+[00:42:48.750 --> 00:42:49.750] ixellosa,
+[00:42:49.750 --> 00:42:52.090] [?ixellosa,]
+[00:42:52.090 --> 00:42:53.090] [?ixec,]
+[00:42:53.090 --> 00:42:54.090] etc.
+[00:42:54.090 --> 00:42:55.090] I què hi ha [?dint-ho] [?de] la nostra recerca?
+[00:42:55.090 --> 00:42:56.090] Per exemple,
+[00:42:56.090 --> 00:42:58.120] [?aprofiteu] l'estudi lingüístic d'aquests [?noms.]
+[00:42:58.120 --> 00:43:00.120] Perquè aquest estudi ha de [?donar] [?a] conèixer [?dades]
+[00:43:00.120 --> 00:43:01.120] [?en] un [?interval] corporal
+[00:43:01.120 --> 00:43:02.120] més o menys àmbit
+[00:43:02.120 --> 00:43:04.120] en el que es va fixar un [?geocentilògic.]
+[00:43:04.120 --> 00:43:06.120] I aquesta circunstància
+[00:43:06.120 --> 00:43:07.120] pot [?incluir]
+[00:43:07.120 --> 00:43:09.120] [?per] nom [?d'un] [?geocentilògic]
+[00:43:09.120 --> 00:43:12.120] [?i] [?això] és molt important,
+[00:43:12.120 --> 00:43:14.120] molt [?rellevant] [?en] [?un] geocentilògic
+[00:43:14.120 --> 00:43:15.120] [?i] [?l'autor.]
+[00:43:15.120 --> 00:43:16.370] En conclusió,
+[00:43:16.370 --> 00:43:17.370] [?doncs,]
+[00:43:17.370 --> 00:43:18.370] [?podria] dir que
+[00:43:18.370 --> 00:43:19.370] el treball ens pot ajudar
+[00:43:19.370 --> 00:43:20.370] a reconèixer
+[00:43:20.370 --> 00:43:21.370] antigues [?olispertades]
+[00:43:21.370 --> 00:43:23.460] per [?tant,]
+[00:43:23.460 --> 00:43:24.640] [?ens] pot ajudar
+[00:43:24.640 --> 00:43:25.640] a intentar
+[00:43:25.640 --> 00:43:26.640] mostrar com
+[00:43:26.640 --> 00:43:27.640] [?el] [?geocentilògic]
+[00:43:27.640 --> 00:43:28.640] [?pot] ser una eina
+[00:43:28.640 --> 00:43:29.600] per [?ajudar]
+[00:43:29.600 --> 00:43:30.530] [?a] [?l'autor.]
+[00:43:30.530 --> 00:43:31.750] Ens pot ajudar
+[00:43:31.750 --> 00:43:32.750] a optimitzar
+[00:43:32.750 --> 00:43:33.750] l'evolució
+[00:43:33.750 --> 00:43:34.750] del risc,
+[00:43:34.750 --> 00:43:35.750] per exemple,
+[00:43:35.750 --> 00:43:36.750] [?l'autor.]
+[00:43:36.750 --> 00:43:37.750] I ens pot ajudar
+[00:43:37.750 --> 00:43:38.750] a aportar
+[00:43:38.750 --> 00:43:39.750] un gra de [?sorda]
+[00:43:39.750 --> 00:43:40.750] al coneixement
+[00:43:40.750 --> 00:43:41.750] [?de] l'autor
+[00:43:41.750 --> 00:43:42.750] [?de] les [?petites] llengues
+[00:43:42.750 --> 00:43:43.750] [?que] es [?valen] [?un] [?pla.]
+[00:43:43.750 --> 00:43:45.320] [?Moltes] gràcies.
+[00:43:45.320 --> 00:44:03.020] [?Doncs,]
+[00:44:03.020 --> 00:44:04.020] ja tenim
+[00:44:04.020 --> 00:44:05.020] el veredicte
+[00:44:05.020 --> 00:44:07.020] del públic
+[00:44:07.020 --> 00:44:09.430] i la presentació
+[00:44:09.430 --> 00:44:10.430] guanyadora
+[00:44:10.430 --> 00:44:11.430] ha estat
+[00:44:11.430 --> 00:44:12.620] la [?DEM,]
+[00:44:12.620 --> 00:44:13.620] la Sònia Gili,
+[00:44:13.620 --> 00:44:14.620] [?la] Competència
+[00:44:14.620 --> 00:44:15.620] de la Cultura Democràtica
+[00:44:15.620 --> 00:44:16.620] [?en] la Formació
+[00:44:16.620 --> 00:44:17.600] [?de] [?l'Estat.]
+[00:44:45.590 --> 00:44:46.590] [?Gràcies,]
+[00:44:46.590 --> 00:44:47.590] tot i que
+[00:44:47.590 --> 00:44:48.590] m'he [?aprobancat,]
+[00:44:48.590 --> 00:44:49.590] espero que
+[00:44:49.590 --> 00:44:50.520] [?per] [?almenys]
+[00:44:50.520 --> 00:44:51.590] us hagueu adonat
+[00:44:51.590 --> 00:44:52.590] de la finalitat
+[00:44:52.590 --> 00:44:53.590] de la meva recerca.
+[00:44:53.590 --> 00:44:54.860] [?d'aquí.]
+[00:45:00.720 --> 00:45:06.040] [?Bé,] doncs,
+[00:45:06.040 --> 00:45:07.040] moltes gràcies
+[00:45:07.040 --> 00:45:08.040] a tots els participants
+[00:45:08.040 --> 00:45:09.040] pel gran esforç
+[00:45:09.040 --> 00:45:10.040] que heu fet.
+[00:45:10.040 --> 00:45:11.040] Moltes gràcies
+[00:45:11.040 --> 00:45:12.040] a tot el públic
+[00:45:12.040 --> 00:45:14.100] i fins aquí
+[00:45:14.100 --> 00:45:15.100] al [?concurs.]
+[00:45:15.100 --> 00:45:16.100] Només comentar
+[00:45:16.100 --> 00:45:17.100] que ha estat
+[00:45:17.100 --> 00:45:18.100] gràcies
+[00:45:18.100 --> 00:45:19.100] a la col·laboració
+[00:45:19.100 --> 00:45:20.100] entre el Servei
+[00:45:20.100 --> 00:45:21.100] de Comunicació
+[00:45:21.100 --> 00:45:22.100] amb la Marta Tor
+[00:45:22.100 --> 00:45:23.100] i els serveis informatius
+[00:45:23.100 --> 00:45:24.100] amb [?l'Aleix] d'Orca
+[00:45:24.100 --> 00:45:25.100] [?amb] l'Aleix d'Orca
+[00:45:25.100 --> 00:45:27.420] i la [?carnivestida]
+[00:45:27.420 --> 00:45:28.420] i jo mateixa
+[00:45:28.420 --> 00:45:29.420] de l'Escola Internacional
+[00:45:29.420 --> 00:45:30.420] de [?Doutorat.]
+[00:45:30.420 --> 00:45:31.510] Moltes gràcies
+[00:45:31.510 --> 00:45:33.640] i fins la propera.

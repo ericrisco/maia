@@ -1,0 +1,448 @@
+---
+type: parla
+title: La Comissió Permanent
+description: "Joan Santamaria Terré, conseller de Sant Julià de Lòria al Consell Constituent. Membre de la Comissió Permanent durant el Consell Constituent."
+tema: parla/oral
+veu: originaria
+epoca: contemporania
+apte_llengua: true
+font: consell-general-constituent
+timestamp: 2026-09-14T09:00:00Z
+tags: [parla, testimoni, historia-oral, constitucio-1993, sant-julia-de-loria, transcripcio-no-verificada]
+---
+
+# La Comissió Permanent
+
+**Tanda 27 de parla.** Entrevista del Consell General amb **Joan Santamaria Terré**,
+conseller general de **Sant Julià de Lòria** al Consell Constituent, **10 min 53 s**
+([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-santamaria/README.md)).
+
+## Avís
+
+**98 marques, el 6.7 % dels mots**, sense verificar contra l'àudio.
+
+**Per sota del llindar d'atenció del 10 %.**
+
+## Consentiment
+
+**Consta, i els drets no.**
+
+**El consentiment sí:** és un **càrrec públic electe** que dona una entrevista a
+la institució sobre la seva pròpia actuació pública, i la institució la publica
+**amb el seu nom al títol i a la descripció**. Parlant viu.
+
+**La redistribució, no:** el Consell General publica amb la llicència estàndard
+de YouTube i **no autoritza redistribuir**. Es registra `redistribucio: pendent`
+(avís R005, constitució §24) i **la decisió és del propietari del projecte**
+([font](../../fonts/consell-general-constituent.md)).
+
+## Qui parla
+
+| | |
+| --- | --- |
+| Nom | **Joan Santamaria Terré.** No es presenta; el nom ve del Consell General. |
+| Parròquia | **Sant Julià de Lòria.** |
+| Generació | Cohort del Consell Constituent (1993). **No es data.** |
+| De casa o vingut | **No consta.** |
+| Llengua primera | **No consta.** |
+| Ofici | **No consta.** |
+| Registre | **Entrevista.** |
+
+**Com a la resta d'aquesta sèrie, del perfil personal no consta res**: no es pregunta.
+
+## La transcripció
+
+```
+[00:00:05.060 --> 00:00:08.060] La gent va entendre que això per a Andorra era important.
+[00:00:09.080 --> 00:00:10.060] És que ho era molt, eh?
+[00:00:10.410 --> 00:00:18.730] Els que no coneixen la història dels veguers i dels coprínceps feudals,
+[00:00:18.910 --> 00:00:19.930] perquè això era així,
+[00:00:19.930 --> 00:00:24.950] i nosaltres ens podem equivocar,
+[00:00:25.290 --> 00:00:28.340] però el nostre destí està a les nostres mans.
+[00:00:28.980 --> 00:00:31.000] Fins a la Constitució no hi estava.
+[00:00:31.830 --> 00:00:35.850] El que el Consell votava no era obligatoriament llei,
+[00:00:36.800 --> 00:00:39.700] perquè si els coprínceps deien no, això no ens agrada.
+[00:00:39.900 --> 00:00:43.090] Ah, si no els agrada els coprínceps, això què [?dèiem?]
+[00:00:43.590 --> 00:00:44.170] Paper moll.
+[00:00:44.610 --> 00:00:45.790] Això ha canviat bastant.
+[00:00:45.890 --> 00:00:48.710] [?I,] clar, molta gent deia, oh, pobres de nosaltres,
+[00:00:48.930 --> 00:00:50.450] què farem sense els coprínceps?
+[00:00:50.550 --> 00:00:53.550] [?Bueno,] que jo [?sàpiga] que els coprínceps encara hi són, eh?
+[00:00:54.250 --> 00:00:58.470] El problema no era que hi fossin els coprínceps o [?no.]
+[00:00:59.210 --> 00:01:03.230] El problema era el poder feudal dels coprínceps.
+[00:01:03.820 --> 00:01:06.040] I això amb la Constitució s'ha acabat.
+[00:01:06.040 --> 00:01:11.200] [?I] un dels coprínceps que va tenir una intervenció [?molt,] molt determinant
+[00:01:11.200 --> 00:01:13.240] va ser el copríncep Mitterrand.
+[00:01:14.280 --> 00:01:16.340] Que serà perquè feia un segon [?mandat?]
+[00:01:16.480 --> 00:01:17.560] Serà per lo que sigui?
+[00:01:18.060 --> 00:01:20.700] Aquest home ho va entendre i va, suposo jo,
+[00:01:21.590 --> 00:01:23.340] per lo poc que jo l'he conegut,
+[00:01:23.480 --> 00:01:25.520] però l'he tractat unes quantes vegades,
+[00:01:25.980 --> 00:01:27.480] igual que algun altre col·lega
+[00:01:27.480 --> 00:01:31.340] que ja en el seu moment ja [?s'explicarà,]
+[00:01:32.240 --> 00:01:34.940] [?doncs] jo crec que aquest home va voler marcar
+[00:01:34.940 --> 00:01:38.020] una cosa històrica per [?a] Andorra.
+[00:01:38.320 --> 00:01:41.600] I això, agradi o no agradi el senyor Mitterrand,
+[00:01:41.760 --> 00:01:44.320] agradi o no agradi les seves idees,
+[00:01:44.830 --> 00:01:47.270] per a Andorra aquest senyor va entendre
+[00:01:47.270 --> 00:01:48.830] que això era molt important.
+[00:01:49.260 --> 00:01:52.690] [?I] la gent que va delegar per fer les negociacions
+[00:01:52.690 --> 00:01:54.920] eren gent d'alt nivell
+[00:01:54.920 --> 00:01:58.520] i que també els hem conegut personalment a tots.
+[00:01:59.850 --> 00:02:03.620] Jo crec que tenien el mandat ben clar
+[00:02:03.620 --> 00:02:04.920] [?de] lo que havien de fer
+[00:02:04.920 --> 00:02:07.930] i la cosa va acabar anant bé,
+[00:02:08.620 --> 00:02:11.360] de lo qual ens anam [?d'alegrar] tots i ja està.
+[00:02:11.710 --> 00:02:13.230] El funcionament del Consell,
+[00:02:14.890 --> 00:02:16.030] en aquest cas concret,
+[00:02:16.230 --> 00:02:20.400] hi havia la [?Comissió] Constituent,
+[00:02:21.590 --> 00:02:23.230] per regla general hi havia gent
+[00:02:23.230 --> 00:02:24.890] amb preparació jurídica
+[00:02:24.890 --> 00:02:31.020] i d'altres amb certa representativitat de país,
+[00:02:31.140 --> 00:02:31.920] digueu-ho així, no?
+[00:02:32.340 --> 00:02:36.180] I la Constituent va ser una barreja de les dues coses.
+[00:02:37.190 --> 00:02:39.610] La permanent, en certa manera, [?era,]
+[00:02:40.940 --> 00:02:42.080] com ho diria jo això,
+[00:02:42.220 --> 00:02:46.100] era una mica el govern del dia a dia
+[00:02:46.100 --> 00:02:51.250] amb constant contacte amb la Constituent
+[00:02:51.250 --> 00:02:55.140] i alguns membres estaven l'una i l'altra.
+[00:02:55.140 --> 00:03:00.490] I, si voleu, era una mica el nucli dur del Consell [?General,]
+[00:03:01.210 --> 00:03:03.630] era la permanent i la Constituent.
+[00:03:04.950 --> 00:03:06.670] Evidentment, la sindicatura, clar.
+[00:03:07.740 --> 00:03:09.570] Aquesta gent és [?el] que estàvem,
+[00:03:09.650 --> 00:03:11.670] que ens veiem cada dia, cada dia, cada dia.
+[00:03:12.250 --> 00:03:13.530] I els merders que hi havia,
+[00:03:13.690 --> 00:03:16.380] els problemes que se suscitaven,
+[00:03:16.500 --> 00:03:17.000] acabaven,
+[00:03:17.630 --> 00:03:19.860] es començaven a tractar aquí.
+[00:03:20.640 --> 00:03:21.400] I després,
+[00:03:22.090 --> 00:03:24.270] [?s'informava] els demés companys,
+[00:03:25.190 --> 00:03:27.470] [?cadascú,] amb les seves comissions,
+[00:03:27.670 --> 00:03:29.470] era autònom.
+[00:03:29.690 --> 00:03:32.810] O sigui, [?que] si hi havia una reunió de la comissió de no sé què,
+[00:03:32.930 --> 00:03:34.570] bueno, d'Economia, bueno,
+[00:03:34.710 --> 00:03:35.270] doncs [?aquests,]
+[00:03:35.570 --> 00:03:39.270] i després aquests informaven [?a] la sindicatura
+[00:03:39.270 --> 00:03:44.400] i a la permanent i [?eventualment] a la Constituent,
+[00:03:44.460 --> 00:03:46.320] perquè hi havia gent que estaven a les dos.
+[00:03:47.350 --> 00:03:48.750] Però, en certa manera,
+[00:03:48.870 --> 00:03:50.170] [?doncs] era això, em sembla a mi.
+[00:03:50.520 --> 00:03:54.210] Era com el nucli dur per fer el dia a dia,
+[00:03:54.350 --> 00:03:54.790] perquè, clar,
+[00:03:54.870 --> 00:03:56.410] el Consell no es reuneix cada dia,
+[00:03:56.490 --> 00:03:57.710] es reuneix quan toca, no?
+[00:03:58.020 --> 00:04:00.060] La permanent es veia cada dia,
+[00:04:00.800 --> 00:04:02.020] cinc dies a la setmana,
+[00:04:02.260 --> 00:04:03.100] i de vegades sí.
+[00:04:04.570 --> 00:04:06.280] I la Constituent també.
+[00:04:06.560 --> 00:04:08.380] I quan la Constituent feia reunió,
+[00:04:09.160 --> 00:04:12.080] [?acostumaven] a informar a la permanent,
+[00:04:12.920 --> 00:04:15.460] perquè [?estiguéssim] tots al cas de com anava el tema.
+[00:04:16.210 --> 00:04:18.090] I, de vegades,
+[00:04:18.940 --> 00:04:22.280] s'havia fet alguna gestió extraparlamentària.
+[00:04:23.050 --> 00:04:23.910] Clar que existien,
+[00:04:24.070 --> 00:04:25.990] però eren reunions informals
+[00:04:25.990 --> 00:04:28.000] entre diferents estaments
+[00:04:28.000 --> 00:04:30.640] fora de l'àmbit del Consell.
+[00:04:30.640 --> 00:04:33.890] [?i] això [?de] vegades havia ajudat
+[00:04:33.890 --> 00:04:37.340] a llimar alguna dificultat,
+[00:04:38.640 --> 00:04:40.340] perquè n'hi va haver de dificultats.
+[00:04:40.520 --> 00:04:41.960] Van patir [?bastant.]
+[00:04:43.000 --> 00:04:44.820] I, clar, ara [?val] més que recordem
+[00:04:44.820 --> 00:04:46.000] el final feliç,
+[00:04:46.520 --> 00:04:47.920] però abans d'arribar al final feliç
+[00:04:48.460 --> 00:04:52.850] hi va haver diferents moments delicats,
+[00:04:53.510 --> 00:04:54.090] diguem-ho així.
+[00:04:54.390 --> 00:04:56.130] Tots érem [?pro] Constitució.
+[00:04:57.410 --> 00:04:58.710] Això era el més important.
+[00:04:59.140 --> 00:04:59.540] Perquè, clar,
+[00:04:59.620 --> 00:05:01.200] si [?hagués] fet un [?que] era anti,
+[00:05:01.770 --> 00:05:03.370] hauria sigut un contrasentit.
+[00:05:03.370 --> 00:05:03.610] No.
+[00:05:04.130 --> 00:05:07.260] [?el] principal comú denominador
+[00:05:07.260 --> 00:05:08.240] és que tots érem
+[00:05:08.240 --> 00:05:09.720] constitucionalistes
+[00:05:09.720 --> 00:05:11.700] amb gran part amics
+[00:05:11.700 --> 00:05:12.760] de [?l'Òscar] [?Ribas,]
+[00:05:13.210 --> 00:05:14.200] que teu també, no?
+[00:05:14.740 --> 00:05:15.900] I que l'Òscar Ribas
+[00:05:15.900 --> 00:05:16.600] era una mica
+[00:05:16.600 --> 00:05:19.010] la sombra allargada
+[00:05:19.010 --> 00:05:19.870] des de fora,
+[00:05:20.050 --> 00:05:20.490] però que
+[00:05:20.490 --> 00:05:22.050] ens havia inspirat
+[00:05:22.050 --> 00:05:23.230] en moltes [?coses,] també.
+[00:05:23.470 --> 00:05:24.920] I això és cert [?que] és així.
+[00:05:25.200 --> 00:05:26.700] l'Electorat de Sant Julià,
+[00:05:27.140 --> 00:05:28.600] amb el cas que ens ocupa,
+[00:05:29.510 --> 00:05:31.310] ja diria que ens va fer confiança
+[00:05:31.310 --> 00:05:32.930] [?i,] per tant, no va pensar res.
+[00:05:33.550 --> 00:05:33.970] Va dir,
+[00:05:34.290 --> 00:05:34.790] han fet
+[00:05:34.790 --> 00:05:35.570] el que
+[00:05:35.570 --> 00:05:36.990] estava previst
+[00:05:36.990 --> 00:05:37.530] que [?farin.]
+[00:05:38.470 --> 00:05:38.670] I
+[00:05:38.670 --> 00:05:40.790] la part d'oposició,
+[00:05:42.020 --> 00:05:43.360] vistes les circumstàncies,
+[00:05:43.480 --> 00:05:44.520] una part important,
+[00:05:44.840 --> 00:05:45.820] també es va sumar.
+[00:05:47.120 --> 00:05:47.520] [?La] qual
+[00:05:47.520 --> 00:05:48.260] demostra
+[00:05:48.260 --> 00:05:49.100] que al final,
+[00:05:50.330 --> 00:05:50.910] una vegada
+[00:05:50.910 --> 00:05:52.690] que la batalla electoral
+[00:05:52.690 --> 00:05:53.350] s'ha acabat,
+[00:05:53.490 --> 00:05:54.690] [?això] a Sant Julià
+[00:05:54.690 --> 00:05:56.190] tenim per costum
+[00:05:56.190 --> 00:05:56.750] de fer-ho,
+[00:05:57.400 --> 00:05:58.160] doncs quan s'ha [?acabat,]
+[00:05:58.240 --> 00:05:58.680] s'ha acabat
+[00:05:58.680 --> 00:05:59.180] i després
+[00:05:59.180 --> 00:06:00.000] hem de continuar
+[00:06:00.000 --> 00:06:02.300] el nostre camí
+[00:06:02.300 --> 00:06:04.620] i fins a la pròxima elecció,
+[00:06:04.720 --> 00:06:05.440] no [?cal] que [?tornem]
+[00:06:05.440 --> 00:06:06.400] a parlar [?d'eleccions,]
+[00:06:06.520 --> 00:06:06.620] ja.
+[00:06:06.980 --> 00:06:07.980] Aquestes s'han acabat?
+[00:06:08.300 --> 00:06:08.480] [?Bé,]
+[00:06:08.540 --> 00:06:09.380] a les pròximes
+[00:06:09.380 --> 00:06:10.380] ja ens tornarem
+[00:06:10.380 --> 00:06:10.920] a esbarallar,
+[00:06:11.020 --> 00:06:11.980] però ara deixem-ho estar.
+[00:06:12.550 --> 00:06:13.910] Jo crec que una part important
+[00:06:13.910 --> 00:06:14.790] d'aquesta gent
+[00:06:14.790 --> 00:06:15.750] que van ser
+[00:06:15.750 --> 00:06:17.130] els nostres adversaris,
+[00:06:17.830 --> 00:06:18.870] després van trobar
+[00:06:18.870 --> 00:06:20.190] [?el] [?de] la Constitució
+[00:06:20.190 --> 00:06:22.640] i al referèndum
+[00:06:22.640 --> 00:06:24.200] van votar que sí.
+[00:06:24.480 --> 00:06:25.120] El fet aquest
+[00:06:25.120 --> 00:06:26.220] que [?a] totes les parroquies
+[00:06:26.220 --> 00:06:27.260] es van votar a favor
+[00:06:27.260 --> 00:06:28.980] demostra alguna cosa,
+[00:06:29.080 --> 00:06:29.860] al meu [?entendre.]
+[00:06:30.360 --> 00:06:31.380] I els meus companys
+[00:06:31.380 --> 00:06:32.620] de les parroquies altes
+[00:06:32.620 --> 00:06:33.480] segurament
+[00:06:33.480 --> 00:06:34.340] ho podran explicar
+[00:06:34.340 --> 00:06:35.000] millor que jo
+[00:06:35.000 --> 00:06:35.380] perquè
+[00:06:35.380 --> 00:06:36.740] jo a Sant Julià
+[00:06:36.740 --> 00:06:37.320] tenia clar
+[00:06:37.320 --> 00:06:38.160] que es votaria
+[00:06:38.160 --> 00:06:38.640] i bé,
+[00:06:39.010 --> 00:06:39.370] i bé,
+[00:06:39.710 --> 00:06:40.350] cap problema.
+[00:06:41.370 --> 00:06:42.650] No em faigui recordar
+[00:06:42.650 --> 00:06:43.270] com va quedar,
+[00:06:43.510 --> 00:06:45.460] però si m'ho recorda
+[00:06:45.460 --> 00:06:46.400] ja me'n recordaré,
+[00:06:46.600 --> 00:06:48.250] però sobretot
+[00:06:48.250 --> 00:06:49.430] a les parroquies altes
+[00:06:49.430 --> 00:06:50.550] que és on molta gent
+[00:06:50.550 --> 00:06:50.830] deia
+[00:06:50.830 --> 00:06:52.070] [?que] [?hagués] [?d'aquí,]
+[00:06:52.150 --> 00:06:52.770] que ells d'allà,
+[00:06:53.390 --> 00:06:54.290] això no ho votaran,
+[00:06:54.570 --> 00:06:55.230] ho van votar.
+[00:06:55.910 --> 00:06:56.370] Doncs,
+[00:06:58.270 --> 00:06:59.010] aquesta gent,
+[00:06:59.400 --> 00:07:00.940] que en alguns casos
+[00:07:00.940 --> 00:07:01.980] potser de vegades
+[00:07:01.980 --> 00:07:03.600] no se'ls hi tela
+[00:07:03.600 --> 00:07:05.460] [?el] respecte degut,
+[00:07:06.070 --> 00:07:06.910] van demostrar
+[00:07:06.910 --> 00:07:07.750] que en un moment
+[00:07:07.750 --> 00:07:09.570] [?de] gran importància
+[00:07:09.570 --> 00:07:10.290] [?pel] país
+[00:07:10.290 --> 00:07:11.890] van estar a l'alçada
+[00:07:11.890 --> 00:07:13.050] i van saber
+[00:07:13.050 --> 00:07:13.850] defensar
+[00:07:13.850 --> 00:07:15.210] els interessos
+[00:07:15.210 --> 00:07:15.890] d'Andorra
+[00:07:15.890 --> 00:07:17.680] com en aquells temps
+[00:07:17.680 --> 00:07:18.980] que li explicava abans.
+[00:07:19.180 --> 00:07:19.580] Per tant,
+[00:07:19.990 --> 00:07:21.070] jo n'estic molt content
+[00:07:21.070 --> 00:07:21.410] d'això.
+[00:07:21.810 --> 00:07:22.790] I quan es va acabar
+[00:07:22.790 --> 00:07:23.970] el recontre aquest
+[00:07:23.970 --> 00:07:26.050] vaig quedar molt satisfet
+[00:07:26.050 --> 00:07:26.690] i vaig dir
+[00:07:26.690 --> 00:07:27.130] [?cony,]
+[00:07:28.940 --> 00:07:29.460] sí senyor,
+[00:07:29.620 --> 00:07:30.280] aquesta gent
+[00:07:30.280 --> 00:07:31.360] s'han portat molt bé.
+[00:07:32.310 --> 00:07:33.270] Això és molt interessant
+[00:07:33.270 --> 00:07:34.690] perquè no tothom
+[00:07:34.690 --> 00:07:35.490] ho tenia clar
+[00:07:35.490 --> 00:07:37.700] i alguns dubtes
+[00:07:37.700 --> 00:07:38.220] potser
+[00:07:38.220 --> 00:07:39.560] fins i tot nosaltres
+[00:07:39.560 --> 00:07:40.000] vam dir
+[00:07:40.000 --> 00:07:40.160] [?que] [?hi] [?va,]
+[00:07:40.160 --> 00:07:40.800] [?senyor,]
+[00:07:40.940 --> 00:07:41.600] [?hi] haurà [?alguna...]
+[00:07:41.600 --> 00:07:42.040] No, senyor,
+[00:07:42.140 --> 00:07:42.260] no.
+[00:07:42.990 --> 00:07:43.840] Tothom va fer
+[00:07:43.840 --> 00:07:44.560] el que havia de fer.
+[00:07:45.230 --> 00:07:47.110] Molt bona feina.
+[00:07:47.370 --> 00:07:48.130] Si vostè agafa
+[00:07:48.130 --> 00:07:48.970] [?Andorra] [?la] [?vella,]
+[00:07:49.210 --> 00:07:51.060] hi ha actualment
+[00:07:51.060 --> 00:07:52.060] no sé quants mils
+[00:07:52.060 --> 00:07:52.920] de votants hi ha,
+[00:07:53.020 --> 00:07:53.120] no?
+[00:07:53.460 --> 00:07:54.710] [?Però] si vostè agafa
+[00:07:54.710 --> 00:07:56.090] [?Ardino,]
+[00:07:56.390 --> 00:07:56.990] Ordino,
+[00:07:57.270 --> 00:07:59.400] [?fa] el 93,
+[00:07:59.820 --> 00:08:00.780] miri quants votants
+[00:08:00.780 --> 00:08:01.200] hi havia.
+[00:08:02.310 --> 00:08:02.890] Això no vol dir
+[00:08:02.890 --> 00:08:03.450] que no fossin
+[00:08:03.450 --> 00:08:04.290] representatius
+[00:08:04.290 --> 00:08:04.970] de la parròquia,
+[00:08:05.050 --> 00:08:06.150] ho eren [?exactament] igual.
+[00:08:06.590 --> 00:08:07.000] Però, clar,
+[00:08:07.440 --> 00:08:08.160] una parròquia
+[00:08:08.160 --> 00:08:08.900] que creix,
+[00:08:09.610 --> 00:08:10.640] per regla general,
+[00:08:10.840 --> 00:08:11.680] creix de forma
+[00:08:11.680 --> 00:08:12.620] desordenada
+[00:08:12.620 --> 00:08:13.760] i anàrquica.
+[00:08:14.600 --> 00:08:15.420] I això pot donar
+[00:08:15.420 --> 00:08:15.920] el que sigui.
+[00:08:16.100 --> 00:08:16.260] Però,
+[00:08:16.620 --> 00:08:17.420] sobre una massa
+[00:08:17.420 --> 00:08:19.250] de 10.000 persones
+[00:08:19.250 --> 00:08:20.110] no és el mateix
+[00:08:20.110 --> 00:08:20.870] que una massa
+[00:08:20.870 --> 00:08:21.890] de 800
+[00:08:21.890 --> 00:08:23.250] o de 1.000
+[00:08:23.250 --> 00:08:24.790] o de 700, no?
+[00:08:24.960 --> 00:08:26.050] El que sí
+[00:08:26.050 --> 00:08:26.890] que és important,
+[00:08:27.310 --> 00:08:27.810] [?sapiguent]
+[00:08:27.810 --> 00:08:29.130] la idiosincràcia
+[00:08:29.130 --> 00:08:31.230] [?d'aquestos] habitants
+[00:08:31.230 --> 00:08:32.790] tradicionals
+[00:08:32.790 --> 00:08:33.810] d'aquestes parròquies
+[00:08:33.810 --> 00:08:34.970] que, per regla general,
+[00:08:35.430 --> 00:08:36.350] havien crescut
+[00:08:36.350 --> 00:08:37.170] molt menys
+[00:08:37.170 --> 00:08:38.210] que les dues
+[00:08:38.210 --> 00:08:39.270] parròquies centrals
+[00:08:39.270 --> 00:08:40.290] o que, en canvi,
+[00:08:40.350 --> 00:08:41.050] Sant Julià
+[00:08:41.050 --> 00:08:41.750] que estàvem
+[00:08:41.750 --> 00:08:43.170] tau a tau, no?
+[00:08:43.270 --> 00:08:43.890] Però sobre
+[00:08:43.890 --> 00:08:45.810] [?aproximadament]
+[00:08:45.810 --> 00:08:47.130] uns 8.000 habitants
+[00:08:47.130 --> 00:08:48.510] i uns 3.000
+[00:08:48.510 --> 00:08:49.770] electors
+[00:08:49.770 --> 00:08:50.410] o una cosa així,
+[00:08:50.530 --> 00:08:51.490] això canvia bastant.
+[00:08:52.130 --> 00:08:52.290] Bueno,
+[00:08:52.530 --> 00:08:53.150] aquesta gent
+[00:08:53.150 --> 00:08:53.950] va reaccionar
+[00:08:53.950 --> 00:08:55.030] de la mateixa manera
+[00:08:55.030 --> 00:08:56.410] que els altres.
+[00:08:56.630 --> 00:08:57.050] Per tant,
+[00:08:57.760 --> 00:08:58.740] la importància
+[00:08:58.740 --> 00:08:59.420] del tema
+[00:08:59.420 --> 00:09:01.470] els va tocar
+[00:09:01.470 --> 00:09:02.050] de prop
+[00:09:02.050 --> 00:09:03.530] i van fer [?el] que [?calia.]
+[00:09:03.530 --> 00:09:04.090] [?d'aquestes] [?parròquies...]
+[00:09:04.090 --> 00:09:04.830] [?Bé,]
+[00:09:04.830 --> 00:09:05.950] [?jo] no estic molt content
+[00:09:05.950 --> 00:09:07.100] [?i] sempre
+[00:09:07.100 --> 00:09:08.180] [?hi] respecten molt
+[00:09:08.180 --> 00:09:09.590] aquests electors
+[00:09:09.590 --> 00:09:10.290] de les parròquies [?altes.]
+[00:09:10.290 --> 00:09:12.820] [?perquè] els conec
+[00:09:12.820 --> 00:09:14.850] [?i] sé que són gent
+[00:09:14.850 --> 00:09:18.600] d'una altra fusta
+[00:09:18.600 --> 00:09:19.680] que els altres
+[00:09:19.680 --> 00:09:22.450] perquè són més [?tradicionalistes,]
+[00:09:22.910 --> 00:09:24.090] tenen més història
+[00:09:24.090 --> 00:09:24.830] que els [?altres.]
+[00:09:25.070 --> 00:09:26.360] És normal,
+[00:09:26.360 --> 00:09:27.630] però van fer
+[00:09:27.630 --> 00:09:28.630] exactament
+[00:09:28.630 --> 00:09:29.780] el mateix
+[00:09:29.780 --> 00:09:31.260] que les grans parròquies
+[00:09:31.260 --> 00:09:32.400] amb habitants.
+[00:09:32.910 --> 00:09:33.290] Per tant,
+[00:09:33.690 --> 00:09:34.950] jo no estic molt content
+[00:09:34.950 --> 00:09:37.340] i va tapar boques
+[00:09:37.340 --> 00:09:38.120] a molta gent
+[00:09:38.120 --> 00:09:39.710] que necessitaven
+[00:09:39.710 --> 00:09:40.850] que algú els hi [?tapés.]
+[00:09:41.050 --> 00:09:41.570] També ho dic.
+[00:09:41.850 --> 00:09:42.650] S'ha demostrat
+[00:09:42.650 --> 00:09:44.820] un parell de coses
+[00:09:44.820 --> 00:09:46.460] que a mi em semblen importants.
+[00:09:46.920 --> 00:09:47.320] Primera,
+[00:09:47.970 --> 00:09:48.860] que els andorrans
+[00:09:48.860 --> 00:09:50.900] amb tots els nostres defectes
+[00:09:50.900 --> 00:09:53.010] i les nostres mancances
+[00:09:53.010 --> 00:09:54.390] han sigut capaços
+[00:09:54.390 --> 00:09:55.780] de governar-nos
+[00:09:55.780 --> 00:09:57.140] i jo penso
+[00:09:57.140 --> 00:09:57.980] que no ho han fet
+[00:09:57.980 --> 00:10:00.810] massa malament.
+[00:10:01.820 --> 00:10:02.800] [?Hauríem] tingut moments
+[00:10:02.800 --> 00:10:03.560] més brillants
+[00:10:03.560 --> 00:10:04.260] [?o] menys [?no] tant,
+[00:10:04.610 --> 00:10:06.860] però ens hem sabut governar.
+[00:10:07.390 --> 00:10:07.870] I segona,
+[00:10:08.970 --> 00:10:10.310] que a l'època [?que] estem
+[00:10:10.310 --> 00:10:11.250] ja no siguem
+[00:10:11.250 --> 00:10:13.020] un estat feudal,
+[00:10:13.180 --> 00:10:13.940] de cara a Europa,
+[00:10:14.080 --> 00:10:14.780] que ara estem
+[00:10:14.780 --> 00:10:15.880] [?amb] negociacions
+[00:10:15.880 --> 00:10:16.860] amb una altra cosa,
+[00:10:17.530 --> 00:10:18.270] de cara a Europa
+[00:10:18.270 --> 00:10:19.410] jo crec que som
+[00:10:19.410 --> 00:10:21.460] un igual
+[00:10:21.460 --> 00:10:22.440] entre parells,
+[00:10:22.560 --> 00:10:23.580] allò que diuen.
+[00:10:24.190 --> 00:10:25.690] Perquè ja no som
+[00:10:25.690 --> 00:10:26.750] una cosa estranya.
+[00:10:27.230 --> 00:10:27.890] Som petits
+[00:10:27.890 --> 00:10:29.050] però no estranys.
+[00:10:29.850 --> 00:10:30.830] Fins al 93
+[00:10:30.830 --> 00:10:31.910] eren petits
+[00:10:31.910 --> 00:10:32.890] i estranys.
+[00:10:33.440 --> 00:10:33.800] [?Doncs] ara
+[00:10:33.800 --> 00:10:34.560] som petits
+[00:10:34.560 --> 00:10:35.620] però no estranys.
+[00:10:36.020 --> 00:10:36.620] Som petits
+[00:10:36.620 --> 00:10:37.520] però iguals.
+[00:10:38.190 --> 00:10:39.280] Iguals que pugui ser
+[00:10:39.280 --> 00:10:40.160] [?l'Incestent,]
+[00:10:41.070 --> 00:10:41.970] iguals que pugui ser
+[00:10:41.970 --> 00:10:42.410] [?Monaco]
+[00:10:42.410 --> 00:10:44.070] i una mica més iguals
+[00:10:44.070 --> 00:10:44.730] que Sant Marino
+[00:10:44.730 --> 00:10:45.410] que pobres
+[00:10:45.410 --> 00:10:46.610] que ens ho tenen
+[00:10:46.610 --> 00:10:47.270] més malament.
+[00:10:47.980 --> 00:10:48.220] [?Voilà.]
+```
+
+## Buits registrats
+
+1. **Les 98 marques no s'han verificat.**
+2. **Del parlant no consta** ni generació, ni origen, ni llengua primera, ni ofici.
+3. **Els drets són `pendent`** (avís R005): consentiment sí, redistribució no.
+4. **Cap afirmació d'aquesta peça no s'ha de citar com a fet.** És memòria
+   personal de fa trenta anys, transcrita per una màquina i no verificada.
