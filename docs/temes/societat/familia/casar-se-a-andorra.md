@@ -119,8 +119,28 @@ on el corpus tenia registrat que **el dret català anterior al 1714 era font viv
 del dret andorrà**. **No era només una prelació teòrica: n'han quedat
 institucions dins la llei vigent.**
 
+## Una capa històrica, del 1904
+
+> **Afegit el 19-09-2026, i ve de la justícia.** **Brutails, descrivint per què
+> els tribunals de parròquia es quedaven sense jutges, deixa anar una dada
+> matrimonial**: **«*les dispenses per consanguinitat són **molt freqüents** als
+> matrimonis celebrats a Andorra, «propter angustiam loci», diuen les
+> fórmules*»** (p. 246, nota 2)
+> ([*propter angustiam loci*](../../institucions/justicia/propter-angustiam-loci.md)).
+> **«Per l'estretor del lloc»**: **és la raó canònica que els expedients mateixos
+> al·legaven per autoritzar els casaments entre parents.**
+>
+> **El corpus ho reté com a capa històrica d'aquesta branca i no com a norma
+> vigent**: **és una observació del 1904 sobre la pràctica del bisbat d'Urgell,
+> no un règim d'impediments.** **Queda obert quin grau de consanguinitat es
+> dispensava i amb quina freqüència real.** `Requereix font externa: els
+> expedients matrimonials del bisbat.`
+
 ## Buits registrats
 
+- **Les dispenses de consanguinitat «*propter angustiam loci*»**: **graus,
+  freqüència i anys.** **El corpus en té la fórmula, per una font del 1904, i cap
+  expedient.**
 - **La filiació, l'autoritat parental i els aliments** ocupen més de la meitat
   de la llei i aquesta fitxa no els toca.
 - **Quants matrimonis canònics i quants civils se celebren**, no consta. El
