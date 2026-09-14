@@ -59,7 +59,35 @@ Dues coses hi ha, i totes dues importen:
 Es comprova d'una manera concreta: **comparant l'original del Consell amb
 l'imprès de la Seu**. Buit registrat.
 
+## Les dues dates que la fan una llei dels dos coprínceps
+
+**Afegit el 2026-09-16 des de [La Coutume d'Andorre](../../../fonts/brutails-coutume-1904.md),
+capítol II, p. 27** ([la unitat destil·lada](../pareatge/no-una-imitacio-sino-una-caricatura.md)).
+**Aquesta fitxa tenia l'any i que «el bisbe la va aprovar».** **Brutails la posa
+com «l'exemple clàssic» de decisió legislativa presa de comú acord pels dos
+cosenyors**, i li dona **dues dates que el corpus no tenia**:
+
+| Data | Acte |
+| --- | --- |
+| **24 d'abril de 1866** | **Els andorrans sotmeten la Reforma al Govern imperial francès** |
+| **10 d'abril de 1868** | **El ministre d'Afers Estrangers francès l'aprova** |
+
+**Dues coses en surten.** **L'aprovació francesa va trigar gairebé dos anys**, i
+**va passar pel ministeri d'Afers Estrangers** — **és a dir, França la va tramitar
+com a afer exterior, no com a afer intern**, tot i sostenir alhora que Andorra era
+«une prolongation du territoire français»
+([les tres sobiranies](../../institucions/coprincipat/les-tres-sobiranies.md)).
+
+**I això data l'acusació d'aquesta fitxa amb més precisió**: si l'addició del
+recurs al Príncep Sobirà es va fer «a la impremta de la Seu d'Urgell», **es va fer
+en algun punt entre el text que el Consell va enviar a París l'abril de 1866 i el
+que es va imprimir**. `El corpus no afirma que les dues coses estiguin
+relacionades; registra que ara hi ha una finestra temporal.`
+
 ## El que falta
+
+- **L'acte d'aprovació francès del 10 d'abril de 1868.** `Nou, i és la peça que
+  diria què va aprovar exactament França.`
 
 ~~Què va motivar la reforma i contra què.~~ **TANCAT A MITGES.** La va motivar
 **la crisi de l'últim terç del segle**, amb **les indústries del ferro i de la

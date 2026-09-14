@@ -194,6 +194,10 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **paraire** | fabricant de drap; **els d'Escaldes tenien confraria sota l'advocació de sant Pere Màrtir**, amb **registre del 1669 al 1807**. Brutails 1904, p. 8 |
 | **caputxo** · **caputxo a crista** | la caputxa que les dones es posaven **per anar a l'església**, **«quelquefois surmonté d'une sorte de corne qui part de l'arrière»**. Brutails, 1904, p. 11 |
 | **la Solana** | **els pasturatges d'Andorra que són a l'altre vessant de la carena**, a la conca de l'Arieja; **el tram de frontera que els inclou és qualificat de «tracé anormal»** i **causa reclamacions de l'Hospitalet i Merens**. Brutails, 1904, p. 1 |
+| **rendableté** | *(mot francès del dret feudal)* **obligació de lliurar al senyor, en pau com en guerra, les places fortes del feu**; **era una de les clàusules del Pareatge de 1278**. Brutails 1904, p. 26 |
+| **talla a mercè** *(taille à merci)* | **talla que el senyor podia fixar a voluntat**, sense quantitat pactada; **el Pareatge en regulava la lleva**. Brutails 1904, p. 26 |
+| **comunitat general** | **la unió de diverses parròquies d'una mateixa vall en un sol sindicat**; **forma corrent al Pirineu**, no exclusiva d'Andorra. Brutails 1904, p. 28 |
+| **comú** · **comuns** | **el 1904 el mot vacil·lava**: designava «**o bé la parròquia, o més aviat el consell de parròquia**». Brutails 1904, p. 28, nota 9 |
 | **ordinació** | norma d'un comú |
 | **foc i lloc** | impost parroquial |
 | **consòrcia** | unió de persones amb un interès comú que s'ajuden en cas de necessitat |

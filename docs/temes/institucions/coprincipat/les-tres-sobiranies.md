@@ -149,14 +149,34 @@ va arribar el mateix any.
 
 1. **Què en deia el copríncep episcopal**, amb la seva pròpia veu. El corpus té
    **tres versions del que pensava el bisbe i cap document del bisbe**, fora
-   d'una frase citada d'una pastoral. — **`obert`, confirmat, i amb un motiu
-   estructural que val la pena escriure.** **El copríncep episcopal no tenia
+   d'una frase citada d'una pastoral. — **`parcial` des del 2026-09-16**, i amb
+   **un motiu estructural que val la pena escriure.** **El copríncep episcopal no tenia
    aparell administratiu d'estat**: **la seva presència a Andorra passava pels
    rectors de les parròquies i per la gestió de l'església**, no per una
    cancelleria ([el Coprincipat](./el-coprincipat.md), des de
    [Becat](../../../fonts/becat-tesi-1993.md)). **Un poder que s'exerceix per
    via pastoral deixa pastorals, no notes diplomàtiques.**
    `Requereix font externa: l'Arxiu Diocesà d'Urgell.`
+
+   > **Per què passa a `parcial`.** **Brutails, a la pàgina 26 del capítol II**,
+   > **enumera quatre actes episcopals datats, dos en cada direcció**
+   > ([no una imitació, sinó una caricatura](../../historia/pareatge/no-una-imitacio-sino-una-caricatura.md)):
+   >
+   > | Data | Què |
+   > | --- | --- |
+   > | **2 de març de 1762** | **Catalan de Ocon** dona **«un decret estrany»** per convertir la cosenyoria en **sobirania exclusiva** |
+   > | **9 de juny de 1806** | El bisbe **es felicita de compartir la sobirania d'Andorra amb l'emperador Napoleó** |
+   > | **20 de novembre de 1822** | El bisbe **pressiona Lluís XVIII perquè faci valer els seus drets sobre les Valls, «fins i tot per la força»** |
+   > | **1894** | **Mgr Casañas** formula **una reivindicació «encara més intransigent»** |
+   >
+   > **El corpus segueix sense tenir cap d'aquests quatre textos** —per això el
+   > buit no es tanca— **però ja no té «tres versions del que pensava el bisbe i
+   > cap document del bisbe»: en té quatre actes datats i atribuïts.** I la
+   > novetat que compta: **dos d'ells diuen el contrari dels altres dos.**
+   > **Brutails ho llegeix així: «és qüestió de circumstàncies i de temperament;
+   > aquestes manifestacions contradictòries s'anul·len».** `Lectura de Brutails;
+   > el corpus no l'adopta, i observa que qui la fa és el jutge en missió del
+   > copríncep francès.`
 2. **Què en deia el copríncep francès**, oficialment. — **`parcial`, i el corpus
    té més del que aquesta fitxa comptava, encara que no sigui una declaració.**
    **La posició francesa té un document i té un autor**: ***La Coutume

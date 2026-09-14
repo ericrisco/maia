@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**836** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**837** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -807,6 +807,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [El Pareatge](temes/historia/pareatge/el-pareatge.md) | `temes/historia/pareatge` | compilada | contemporania | no | `palau-marti-identitat-andorrana-1994` |
+| [No una imitació, sinó una caricatura](temes/historia/pareatge/no-una-imitacio-sino-una-caricatura.md) | `temes/historia/pareatge` | compilada | contemporania | no | `brutails-coutume-1904` |
 
 ## temes/historia/segle-xix
 

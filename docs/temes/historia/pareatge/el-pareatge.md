@@ -239,8 +239,54 @@ que aquesta fitxa ja diu de l'homenatge que cap comte de Foix no va tornar a
 fer**: **l'homenatge era, precisament, el que li estaven exigint al nord.**
 `Lectura de Becat; el corpus no l'adopta com a fet.`
 
+## El que un jutge francès hi objecta, cinc anys abans del segle
+
+**Afegit el 2026-09-16 des de [La Coutume d'Andorre](../../../fonts/brutails-coutume-1904.md),
+capítol II, pp. 25-26** ([la unitat destil·lada](./no-una-imitacio-sino-una-caricatura.md)).
+**Aquesta fitxa està escrita des de fonts secundàries** —Palau i Martí i Becat—
+**i la font primària disponible més antiga en contradiu dos punts i en confirma un.**
+
+**Confirma** la lectura de Becat: **Andorra no és un cas excepcional per a
+l'historiador, sinó un cas regulat pel dret públic antic**; el que la fa semblar
+única és mesurar-la amb les categories del dret internacional modern. Brutails ho
+escriu el 1904 contra **M. Mérignhac**, catedràtic de dret internacional a Tolosa,
+que buscava en el Pareatge «la base de la condició internacional d'Andorra».
+
+**En contradiu dos:**
+
+1. **Que hi hagi cap sobirà al document.** Brutails: **«no es pot parlar de
+   sobirania en aquest acte, on cap sobirà no figura com a part»**. Aquesta fitxa
+   recull, de Palau i Martí, que **Pere II el va contrasignar**. **Contrasignar no
+   és ser part contractant**, i per tant **les dues afirmacions poden ser certes
+   alhora**; però **donen conclusions oposades sobre què pot regular el Pareatge**.
+   **El corpus registra les dues i no arbitra.** **El buit «el text de la
+   contrasignatura de Pere II» queda confirmat obert i agreujat**: ara hi ha una
+   font que sosté que aquell text no existeix en la forma que se li suposa.
+2. **La data del matrimoni que porta Andorra a Foix.** Aquesta fitxa la situa el
+   **1208**; **l'exemplar digitalitzat de Brutails diu «al començament del segle
+   XI»**, i **fa el mateix salt de dos segles dues línies més avall** («au XI<sup>e</sup>
+   siècle, les querelles s'envenimèrent», seguit de la sentència arbitral de
+   **1278**). **Pot ser una pèrdua d'OCR o una data diferent.** `Divergència
+   registrada; el corpus no arbitra.`
+
+**I hi afegeix contingut que aquesta fitxa no tenia**, tot de la pàgina 26:
+
+| Novetat | Què és |
+| --- | --- |
+| **El Pareatge manté poders anteriors que no descriu** | «el Comte i el Bisbe gaudien anteriorment de rendes i de poders **en la possessió dels quals van ser mantinguts, sense que en coneguem la naturalesa ni l'extensió**» — **el document mateix declara que no conté tot el repartiment de l'autoritat pública** |
+| **La *rendableté*** | **obligació de lliurar, en pau com en guerra, les places fortes del feu**: una clàusula del Pareatge. Vegeu [els castells que no hi ha](../../territori/paisatge-construit/els-castells-que-no-hi-ha.md) |
+| **La *taille à merci*** | **la talla a mercè**, que el Pareatge regulava; és [la quèstia](../antic-regim/la-questia.md), i **«a mercè» és el nom tècnic del «sense límit» del comte de Foix** |
+| **Què en quedava el 1904** | **rendes de la justícia, talla a mercè i homenatge: «un record llunyà»**; les fortaleses, «no depenen ja sinó de l'arqueòleg». **«Del règim creat pel Pareatge per als cosenyors no en queda gairebé res.»** |
+
 ## El que falta
 
+- **La lectura de Brutails del Pareatge**, sencera: els seus quatre articles
+  d'erudició a la *Revue des Pyrénées* de **1891** i **1892** i a la *Revue des
+  Universités du Midi* de **1897** i **1898**, on diu que l'exposició és completa
+  i documentada. **Prioritari, i amb referència exacta.**
+- **L'estudi de Mérignhac**, *Bulletin du Comité des travaux historiques*, secció
+  de ciències econòmiques i socials, **Congrés de 1899, p. 267**. Citat i
+  criticat, no llegit.
 - **El text del Pareatge**, sencer. El corpus el té **descrit i no llegit** —
   **i des del 2026-09-13 en sap l'extensió**: **onze articles, dels quals sis
   sobre Andorra i cinc sobre altres territoris.**

@@ -26,6 +26,39 @@ diners ([Viquipèdia](../../../fonts/viquipedia-ca.md)). Les mateixes rutes i el
 mateix coneixement del terreny que servien per al
 [contraban](../contraban/contraban.md) servien per fer passar persones.
 
+## El 1904, un jurista francès diu que el fonament és un joc de paraules
+
+**Afegit el 2026-09-16 des de [La Coutume d'Andorre](../../../fonts/brutails-coutume-1904.md),
+capítol II, p. 26, nota 2** ([la unitat destil·lada](../pareatge/no-una-imitacio-sino-una-caricatura.md)).
+**Aquesta fitxa està escrita des de la Viquipèdia i comença el relat al segle XX.**
+**La font primària més antiga que el corpus té sobre la neutralitat andorrana
+n'ataca el fonament:**
+
+> «**No tinc en compte la neutralitat d'Andorra.** Res no és més curiós, però, que
+> seguir sobre els textos **el desenvolupament d'aquesta idea que Andorra és un
+> país neutre**: **reposa sobre un veritable joc de paraules**, **cosa que no ha
+> impedit als andorrans de prevaler-se'n amb èxit, diverses vegades, d'aquest
+> privilegi.**»
+>
+> — **J.-A. Brutails**, jutge del Tribunal Superior de Perpinyà, 1904 *(traducció
+> del corpus)*
+
+**Són dues afirmacions separades i cap no anul·la l'altra**: **que el fonament és
+un joc de paraules**, i **que el privilegi ha funcionat a la pràctica, més d'una
+vegada, abans del 1904.** **Brutails no diu quines són les paraules ni quines són
+les vegades.**
+
+**Això reobre aquesta fitxa per la punta antiga**: **hi ha un ús andorrà de la
+neutralitat anterior a les dues guerres mundials**, i **el corpus no en té ni un
+sol cas.**
+
+**Buits que obre:**
+
+1. **Quines són les paraules del joc de paraules.** `obert, prioritari.`
+2. **Els casos anteriors al 1904 en què Andorra es va prevaler del privilegi de
+   neutralitat.** `obert.`
+3. **Els textos on Brutails diu que se'n pot seguir el desenvolupament.** `obert.`
+
 ## El que falta
 
 Aquest article és, ara mateix, un esquelet. Falta gairebé tot:

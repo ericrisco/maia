@@ -131,6 +131,28 @@ escrit.`
 **Segueix obert** si es va aplicar mai, si hi va haver cap sol·licitud, i des de
 quan regia.
 
+### I cinc segles abans, el Pareatge ja les tractava com a cosa a lliurar
+
+**Afegit el 2026-09-16 des de [La Coutume d'Andorre](../../../fonts/brutails-coutume-1904.md),
+capítol II, p. 26** ([la unitat destil·lada](../../historia/pareatge/no-una-imitacio-sino-una-caricatura.md)).
+**El Pareatge de 1278 fixava les relacions feudals dels cosenyors en dos punts**:
+**l'homenatge** i **la *rendableté***, que Brutails defineix com
+
+> **«l'obligació de lliurar, en pau com en guerra, les places fortes del feu».**
+
+**És a dir: el document fundacional dona per fet que a Andorra hi ha places
+fortes**, i **en regula el lliurament.** **Això no contradiu aquesta fitxa** —que
+descriu una absència de castells conservats, no una absència de fortificacions
+medievals— **però hi posa una data i una clàusula.**
+
+**I el que Brutails hi afegeix el 1904 és el final de la sèrie**: **les fortaleses
+d'Andorra «no depenen ja sinó de l'arqueòleg»**, i **el Bisbe, «que no té ni tan
+sols un porter a la porta del seu palau», estaria en la impossibilitat
+d'ocupar-les.** **De la clàusula no en quedava res.**
+
+`Buit que obre: el text de la clàusula de rendableté al Pareatge, i quines places
+fortes hi eren anomenades, si n'hi eren.`
+
 ## Related
 
 - [El Pareatge](../../historia/pareatge/el-pareatge.md) — qui ho mana.
