@@ -249,7 +249,15 @@ tot.**
    anava en comptes d'anar al notari. `Requereix font externa: el Vocabulari
    d'Andorra (1992) o el Diccionari enciclopèdic d'Andorra (2007), que el
    glossari cita i el corpus no ha obert.`
-6. **El registre d'Anton Montanya**, rector de Sant Julià, i si es conserva.
+6. ~~**El registre d'Anton Montanya**, rector de Sant Julià, i si es
+   conserva.~~ — **`parcial` des del 2026-09-17.** **Què és i quan comença,
+   consta**: és un ***manual* d'actes diversos —vendes, quitances— començat el
+   **15 d'agost de 1648**, i el seu autor va ser **rector de Sant Julià i
+   després d'Andorra** (Brutails 1904, p. 95, nota 2). **No era un registre de
+   testaments: era protocol notarial ordinari en mans d'un rector.** Vegeu [el
+   rector, notari ordinari de la
+   parròquia](./el-rector-notari-ordinari-de-la-parroquia.md). **Segueix obert
+   si es conserva i on.**
 
 ## Related
 

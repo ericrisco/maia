@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**851** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**852** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -907,6 +907,7 @@
 | [El dret andorrà vigent](temes/institucions/justicia/el-dret-vigent.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El notariat](temes/institucions/justicia/el-notariat.md) | `temes/institucions/justicia` | compilada | contemporania | no | `rodriguez-minana-notaris` |
 | [El procés penal](temes/institucions/justicia/el-proces-penal.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [El rector, notari ordinari de la parròquia](temes/institucions/justicia/el-rector-notari-ordinari-de-la-parroquia.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [El recurs d'empara](temes/institucions/justicia/el-recurs-dempara.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El saig](temes/institucions/justicia/el-saig.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [El Tribunal Constitucional](temes/institucions/justicia/el-tribunal-constitucional.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |

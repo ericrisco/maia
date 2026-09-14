@@ -224,8 +224,25 @@ ritus** vol dir **que no els va veure el 1900**: **el corpus té folklore i cost
 de noces en altres branques**, i **l'anell de compromís pot ser-hi documentat per
 altres vies** ([els ritus de pas](../../costums/ritus-de-pas/ritus-de-pas.md)).
 
+## Afegit: dues notes de la pàgina 94
+
+**Afegit el 2026-09-17**, en distil·lar la secció següent ([el rector, notari
+ordinari de la parròquia](./el-rector-notari-ordinari-de-la-parroquia.md)): **les
+notes 1 i 2 de la p. 94 criden text d'aquesta secció** i no s'havien recollit.
+
+- **12 de maig de 1898. Arrest del Tribunal Superior**: **la fiança es pot
+  establir per prova testimonial, a condició que la prova sigui precisa**; i en
+  aquell cas jutja que **hi havia recomanació i no fiança**. La distinció entre
+  recomanar algú i afiançar-lo **es decideix en seu de prova**, no de forma.
+- **Els arrendaments a preu fet** *(«baux à ferme»)* **es conclouen davant de la
+  població reunida**, i **són objecte d'una acta redactada pel secretari del comú
+  i no signada per les parts**. El contracte que aquesta secció dona com a
+  consensual **es fa en assemblea i es documenta d'ofici** —i **el paper que en
+  queda no porta la signatura de qui s'hi obliga**.
+
 ## Related
 
+- [El rector, notari ordinari de la parròquia](./el-rector-notari-ordinari-de-la-parroquia.md) — la secció següent, i les dues notes d'aquesta pàgina.
 - [Es va treure el barret perquè feia vent](../../historia/antic-regim/es-va-treure-el-barret-perque-feia-vent.md) — el cerimonial de la possessio, des dels documents.
 - [Una creu al prat, sis sous i sis diners](./una-creu-al-prat-sis-sous-i-sis-diners.md) — la creu que aquí cau en desús, i el seu preu.
 - [El Consell li va dir que suspengués](./el-consell-li-va-dir-que-suspengues.md) — el primer cas de la sèrie, de 1885.
