@@ -78,7 +78,10 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **prefet** | tipus de contracte nomenat a la *Instructa als senyors batlles* del **1740** entre *parceries* i *conllochs*. **Cap font del corpus no el defineix** |
 | **prisia** | la presa per escrit d'un acte, abans de treure'l en forma. **Tarifada el 19 de novembre del 1657**: *prisia* d'un debitori **2 sous**, el mateix debitori tret en forma **10** ([font primària](../../institucions/justicia/una-creu-al-prat-sis-sous-i-sis-diners.md)) |
 | **capmàs** | l'estima notarial del **1657** exceptua els *capmassos* del preu únic de les actes de venda **i no en dona el preu**. **El corpus registra el mot i no el significat** |
-| **empara** | embargament. *Empara* i *penyora* són els noms antics del que el segle XIX ja diu *embarch*. **Tarifada a 17 sous i 6 diners el 1657 i el 1740** |
+| **empara**, **ampara** | embargament. *Empara* i *penyora* són els noms antics del que el segle XIX ja diu *embarch*. **Tarifada a 17 sous i 6 diners el 1657 i el 1740**. Al manuscrit de procediment de la peça XXVII és **una via de plet pròpia** i **està prohibida «de habitant a habitant»**: només es podia fer **contra forasters** ([font primària](../../institucions/justicia/un-fadri-sense-casa-si-que-es-pot-emparar.md)) |
+| **ampara de creu** | la tercera via de plet andorrana: embargament dels fruits d'una finca **especialment hipotecada**, marcat **plantant una creu**. **Només sobre fruit «segat y dallat y no dret»** i encara a la finca. **Practicada l'1 de juliol del 1822**, desapareguda el 1904 |
+| **signar penyores** | designar béns concrets dins d'un embargament i deixar-los **en poder del deutor com a dipositari**, que no els pot alienar i n'ha de retre compte. Si **no** s'han signat, **és el deutor qui tria què lliura** |
+| **judicador** | taxador. **Dos, jurats i pagats de la seva feina**, que estimen les penyores. **No s'ha comprovat si és el mateix ofici que el *prohom jurat* dels actes de possessió** |
 | **ordinació** | norma d'un comú |
 | **foc i lloc** | impost parroquial |
 | **consòrcia** | unió de persones amb un interès comú que s'ajuden en cas de necessitat |

@@ -142,7 +142,7 @@ I el 1904 ja no: «**ce mode de saisie a disparu**» (pàgina 292).
 ### Per què això no és una anècdota
 
 Perquè contradiu el que es podria suposar d'un dret antic de muntanya. Brutails
-ho diu amb totes les lletres (**pàgina 251**):
+ho diu amb totes les lletres (**pàgina 92**):
 
 > «**quelque surprenant que cela paraisse, le droit andorran est peu
 > formaliste**»
@@ -308,12 +308,18 @@ costa executar una sentència a Andorra, no se sap», perquè els barems els fix
 un reglament que el corpus no té. **Aquest article no el tanca**: dona el barem
 de l'ofici antecessor i **deixa els dos-cents anys de distància oberts.**
 
-**El manuscrit de procediment no s'ha llegit.** És la peça justificativa
-**XXVII**, pàgines **LVI–LX**, i Brutails n'anuncia, a la pàgina LIX, **un
-paràgraf sobre l'embargament de crèdits, mobles, bestiar o cavalcadura
-«interdite entre andorrans établis»**. **Si això és així, entre andorrans
-establerts no es podien embargar els mobles**, i seria una regla de primer
-ordre. **El corpus no l'ha vista i no l'afirma.** `Unitat pendent, prioritària.`
+~~**El manuscrit de procediment no s'ha llegit.**~~ — **Tancat el 15-09-2026.**
+La peça justificativa **XXVII**, pàgines **LVI–LX**, ja és destil·lada
+([un fadrí sense casa sí que es pot emparar](./un-fadri-sense-casa-si-que-es-pot-emparar.md)),
+**i el paràgraf anunciat existeix i diu una cosa una mica diferent del resum**:
+el text del manuscrit no diu «andorrans establerts» sinó «**de habitant a
+habitant**», i **hi afegeix una excepció que va entre claudàtors de l'editor**
+—«[si no que sie fadri y no tinga casa]»—, de manera que **el corpus no la dona
+per text del manuscrit**. **El que sí que queda establert**: l'*ampara* **només
+es podia fer contra forasters**, i la creu **només sobre fruit «segat y dallat y
+no dret»**, encara a la finca i amb la finca **especialment hipotecada**.
+**Segueix obert** on és el manuscrit i què diuen els nou primers paràgrafs, que
+l'extracte no porta.
 
 **La llista de feriats tampoc.** És la peça **XXVIII**, del **25 de novembre del
 1902**, i importa perquè aquest article estableix que **en feriat sí que es pot

@@ -199,7 +199,15 @@ aquesta font.**
 
 **El manuscrit Palmitjavila no és al corpus.** D'ell surt la frase que explica
 l'inventari de la roba, i **el corpus la té per una nota a peu de pàgina de
-Brutails**. `Requereix el manuscrit.`
+Brutails**. `Requereix el manuscrit.` — **`parcial` des del 15-09-2026.** **El
+corpus ja en té un extracte**: la peça justificativa **XXVII**, pàgines LVI–LX,
+sobre el procediment civil
+([un fadrí sense casa sí que es pot emparar](./un-fadri-sense-casa-si-que-es-pot-emparar.md)).
+**No conté la frase sobre les despeses de la visura** —l'extracte comença pel
+paràgraf 10 i és de matèria d'execució—, i **Brutails no en dona ni signatura
+ni descripció**: només diu a la introducció que **el senyor Palmitjavila pare li
+va posar a les mans «des textes fort curieux»**. **El buit es manté per a la
+frase; el manuscrit ja no és del tot desconegut.**
 
 **Les tres atestacions del 1627, 1628 i 1688 no s'han vist.** Brutails les cita
 **amb data i, en un cas, amb la frase**; **no en dona signatura d'arxiu**. **Cap

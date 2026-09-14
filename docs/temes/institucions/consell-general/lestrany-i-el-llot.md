@@ -206,7 +206,14 @@ veïnes, i **si Andorra va fer res** després d'aquest avís.
 3. **El cataclisme** a les valls veïnes, i l'estat dels boscos andorrans el 1904.
 4. **Quant rendia el llot**, i amb quina freqüència s'enviava.
 5. **El manuscrit de M. Palmitjavila**, que Brutails atribueix al segle XVI i que
-   esmenta l'estrany.
+   esmenta l'estrany. — **`parcial` des del 15-09-2026, i amb una divergència de
+   data que el corpus no arbitra.** El corpus ja té **un extracte d'un manuscrit
+   de Palmitjavila** sobre procediment civil, peça justificativa XXVII
+   ([un fadrí sense casa sí que es pot emparar](../justicia/un-fadri-sense-casa-si-que-es-pot-emparar.md)),
+   **però la capçalera d'aquella peça el data al «XVIIe siècle (?)»**, amb
+   interrogant de l'editor, **mentre que la nota de la pàgina 36 que esmenta
+   l'estrany el data al segle XVI**. **No consta si són el mateix manuscrit**, i
+   **l'extracte publicat no esmenta l'estrany.**
 6. **Quan es va suprimir l'estrany**, i quan la quèstia als coprínceps.
 7. **Les xifres del pressupost de cada parròquia**: Brutails les qualifica i no
    les dona.

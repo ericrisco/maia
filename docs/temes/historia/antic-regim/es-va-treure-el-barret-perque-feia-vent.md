@@ -168,7 +168,24 @@ posició**, i **no ho pot sostenir amb cap diccionari ni amb cap altra font**.
 **No consta si la tramesa en possessió a distància era regular o excepcional.**
 **El corpus té un cas del 1552 i tres casos on el batlle hi va anar**, i això no
 autoritza cap generalització. **Brutails la titula «à distance», que és una
-descripció seva**, no del document.
+descripció seva**, no del document. — **`parcial` des del 15-09-2026.** **El
+corpus ja té la norma que aquests quatre actes segueixen**, i **la norma diu que
+el batlle hi va**: el manuscrit de procediment de la peça justificativa XXVII
+mana que **«lo Batlle ab lo notari, nuncio y testimonis se conferira al puesto
+ahont es situat lo inmoble»**, i descriu el gest exacte —prendre per la mà,
+entregar terra o herba perquè l'escampi, fer sortir els altres, fer tancar i
+obrir la porta— **paraula per paraula com el fan aquestes actes**
+([un fadrí sense casa sí que es pot emparar](../../institucions/justicia/un-fadri-sense-casa-si-que-es-pot-emparar.md)).
+**El cas del 1552 és, doncs, una excepció a una regla escrita, i no una
+variant.** **Segueix obert** si n'hi va haver més i si l'excepció estava
+prevista enlloc: **el manuscrit no la contempla.**
+
+**I una cosa que la norma afegeix i les actes no podien dir**: la possessió és
+**l'últim baula d'una cadena taxada** —«penyorar, lliurar, encantar, judicar y
+entrega de pocessio»—, els immobles **s'encanten tres vegades amb deu dies
+entre encant i encant**, i el desposseït té **un any i un dia** per recuperar la
+finca pagant quantitat i despeses; **passat el termini, ja no la recupera encara
+que pagui.**
 
 **El `cortal dels P.` no s'ha localitzat**, ni cap de les finques d'aquestes
 quatre peces. **Els topònims hi són abreujats o són noms de casa**, i el corpus
