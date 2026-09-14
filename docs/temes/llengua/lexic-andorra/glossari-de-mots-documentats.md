@@ -100,6 +100,10 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **guiatge** | salconduit per a delictes lleus, **vàlid fins a les primeres Corts, on tots queden abolits**. El Politar en diu el motiu: **«per lo fi de que les persones honestes no agen de passar per la ignominia de esser capturadas»** |
 | **enquestat** | el processat. Els veguers **no podien prohibir als prohoms raonar per als «pobres enquestats y manlleutats»** |
 | **penes trencades** | les penes ja incorregudes. **Els veguers les podien compondre o remetre, però no en secret**: «**als ulls del mon o manifestament**» |
+| **rahonador** *(antic)* | **un dels dos prohoms que nomenava el Consell General** amb el títol d'**advocats o rahonadors**: **defensaven els enquestats, manlleutats i pobres**, **vetllaven els privilegis de les Valls**, **cuidaven el menjar i beure dels Senyors de la Cort** i **auditaven les penes trencades i multes** per pagar les despeses de les Corts. **Sis sous al dia, pagats pel Comú de les Valls** ([font primària](../../institucions/justicia/dos-sous-per-lliura-perque-no-sapelli.md)). **No s'ha de confondre amb el raonador del ciutadà d'avui** |
+| **composició** *(criminal)* | l'acord que tanca una causa criminal sense procés. **La fan els veguers amb intervenció dels dos rahonadors**, i el Jutge n'escriu la remissió **al marge del llibre de mostres** |
+| **sitiades** | despeses que els privilegis prohibien fer pagar a les parts, al costat de les *missions*. **El corpus registra el mot i no en té el significat** |
+| **araris de la Cort** | on es dipositaven **les penes pecuniàries** del criminal, per sentència o per composició. **El Jutge en cobrava dos sous per lliura abans de descomptar les despeses del tribunal** |
 | **ordinació** | norma d'un comú |
 | **foc i lloc** | impost parroquial |
 | **consòrcia** | unió de persones amb un interès comú que s'ajuden en cas de necessitat |

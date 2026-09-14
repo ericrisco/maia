@@ -252,7 +252,23 @@ rebre el notari de la Cort dins de les Valls i no fora**. **El jutge era a fora;
 la prova, a dins.** I **per sobre d'ell hi havia la tercera instància de cada
 copríncep**
 ([si no dius a quin copríncep, tria l'altra part](./si-no-dius-a-quin-coprincep-tria-laltra-part.md)).
-**Segueix obert per què el jutge residia a l'estranger** i **com es nomenava.**
+~~**Segueix obert per què el jutge residia a l'estranger** i **com es
+nomenava.**~~ — **Tancat el 15-09-2026 amb el capítol III del llibre II del
+Politar**
+([dos sous per lliura, perquè no s'apel·li](./dos-sous-per-lliura-perque-no-sapelli.md)).
+**Com es nomenava**: **els dos coprínceps l'elegeixen alternativament i per
+vida** —mentre visqui el nomenat per l'un, **l'altre no en nomena cap**—, i
+**abans el nomenaven els veguers**, fins que els Prínceps els ho van treure
+perquè **«lo un volie un Jutge, lo altre un altre»**. **Per què podia viure
+fora**: perquè **no calia que residís a les Valls**, llevat del temps de Corts,
+i podia informar els processos **al lloc de la seva habitació** — **però havia
+de venir a Andorra a pronunciar la sentència**. **I no tenia cap sou públic**:
+cobrava **dos sous per lliura del que es pledejava**, sense sostre.
+
+**I els deu dies d'aquesta Instructa no són els del Politar.** El Politar, ~1763,
+diu «**13 dias habils per interposar la apellacio, a saber es 10 de justicia y 3
+de gracia**» i hi afegeix **«si no me enganyo»**. **Dues fonts andorranes de
+mitjan segle XVIII que no diuen el mateix.** `Registrat, no arbitrat.`
 
 **La *Instructa* diu que havia d'anar al «capitol 5 del llibre 2 de la present
 obra».** **El corpus no sap de quina obra parla** —Brutails la publica solta— ni

@@ -167,6 +167,19 @@ manlleus jurídics datada el 1904.
    és el dret supletori**, no que n'apliqui un.
 2. **El text de la sentència de 1686** de Vital Seré, sencer. — **`obert`,
    confirmat.** El corpus només en té la citació de Brutails.
+   - **Afegit el 15-09-2026, i és una tercera prelació, enunciada pel Politar
+     mateix.** El **capítol III del llibre II** diu que el Jutge ha d'observar
+     «**lo modo, forma y disposicio del dret comu, (que es lo que se obcerva en
+     les Valls de Andorra), menos en aquellas cosas en que es abrogat per alguna
+     lley patria o contraria consuetut, lesquals se deuhen obcervar les
+     primeres**»
+     ([dos sous per lliura, perquè no s'apel·li](./dos-sous-per-lliura-perque-no-sapelli.md)).
+     **Dret comú de base, i llei pàtria i costum contrari al davant.** I **en
+     dona un exemple de dret substantiu**: a Andorra **no té lloc la *querela
+     inofficiosi testamenti***, per costum contrari, i **només es pot actuar
+     *ad reverentiam parentum ad augmentum legitimæ***. **El Politar no diu si
+     el dret comú és el romà o el català**, que és la discussió d'aquesta
+     fitxa, **i per tant no la resol.**
 3. **La declaració del Consell General del 16 de març de 1753**, que Brutails
    cita en nota i el corpus no té. — **`obert`, confirmat.**
    `Requereix font externa: les actes del Consell General de 1753.` **És el

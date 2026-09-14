@@ -367,9 +367,20 @@ seguretat**. **Se'n reté la data i res més.** `Requereix la pàgina impresa.`
 context s'entén que són **les lletres que el jutge *a quo* atorga per deixar
 passar l'apel·lació**, i **el corpus no ho ha comprovat lexicogràficament.**
 
-**El Politar, pàgina 183**, que Brutails cita **contra** la tesi que el copríncep
-ha de jutjar en persona, **no s'ha llegit.** **És la peça que faltaria per
-tancar la contradicció amb el decret del 1899**, i **el corpus no la té.**
+~~**El Politar, pàgina 183**, que Brutails cita **contra** la tesi que el
+copríncep ha de jutjar en persona, **no s'ha llegit.**~~ — **Tancat el
+15-09-2026**: és la paginació interna **[183]** del **capítol III del llibre II**,
+i **el corpus ja la té**
+([dos sous per lliura, perquè no s'apel·li](./dos-sous-per-lliura-perque-no-sapelli.md)).
+**Diu que de la sentència definitiva del Jutge s'apel·la als Prínceps**, que **el
+Príncep previngut comet la causa a l'advocat, jutge o magistrat que li sembli**,
+i que aquell, **en nom del Príncep, coneix en última instància**, **«y aqui
+acaban totas las causas sens mes apellacio, suplicassio ni recurs»**.
+
+**La contradicció queda documentada per totes dues bandes i segueix sense
+arbitrar**: **el Politar nega tot recurs ulterior** i **el decret del Consell
+General del 2 de setembre del 1899 afirma que el superior del Tribunal és el
+copríncep francès i que ja s'hi ha recorregut.**
 
 **No consta quantes sessions va fer el Tribunal ni quants afers va jutjar.** El
 corpus en té **sis arrèts datats** —11 d'octubre del 1894, 12 de maig del 1898,

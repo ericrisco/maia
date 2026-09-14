@@ -179,6 +179,20 @@ entre els seus membres, «en una divisió de funcions pròpies d'un govern». El
    ([al Bisbe la dignitat, al de Foix el profit](../coprincipat/al-bisbe-la-dignitat-al-de-foix-el-profit.md)).
    **El rahonador és un prohom que raona**, i **el que està protegit és que
    pugui fer-ho per als privilegis de les Valls i per als presos pobres.**
+   **I el 15-09-2026 les funcions reals queden tancades**, amb el text del
+   **capítol IV del llibre II del Politar**: **els nomena el Consell General**,
+   són **dos**, porten **el títol d'advocats o rahonadors**, i el seu ofici és
+   **presentar als veguers els enquestats i manlleutats**, **intercedir i
+   defensar-los**, **vetllar que no es lesionin els privilegis de les Valls i
+   queixar-se quan passi**, **cuidar de l'economia del menjar i beure dels
+   Senyors de la Cort**, i **saber les penes trencades i multes que es cobren**
+   perquè **se'n doni compte i es paguin les despeses de les Corts en la
+   clausura**. **Cobren sis sous al dia cadascun, pagats pel Comú de les Valls**,
+   i els veguers **els donen taula**, com al batlle i a l'escrivà
+   ([dos sous per lliura, perquè no s'apel·li](./dos-sous-per-lliura-perque-no-sapelli.md)).
+   **Defensor dels pobres, vigilant dels privilegis, intendent i auditor de
+   multes, tot alhora.** **Segueixen oberts l'origen —el privilegi que els crea
+   no és al corpus i el Politar només hi remet— i la data final.**
 2. **El Tribunal de Visures** — composició i procediment.
 3. **El Tribunal Superior d'Andorra a Perpinyà** — quan es crea exactament, quan
    s'extingeix. — **`parcial` des del 15-09-2026: la creació sí, l'extinció
