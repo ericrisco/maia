@@ -131,11 +131,33 @@ l'altre perquè són el mateix mecanisme, amb trenta anys de diferència.**
 
 - **Com ha acabat el procediment judicial.** **La font no en dona la
   resolució.** **Buit prioritari.**
-- **La llei de l'avortament andorrana**: el corpus no la té.
-- **Stop Violències**: cap fitxa de l'entitat.
-- **El primer Orgull d'Andorra**, del 2019.
+- **La llei de l'avortament andorrana**: el corpus no la té. — **`obert` pel
+  que fa al text, i el corpus en té la raó política, que és millor que res.**
+  **Durant la negociació constitucional del 1992-93 el copríncep episcopal va
+  posar dues coses concretes com a inacceptables**: **«les previsibles lleis
+  sobre el matrimoni civil i l'avortament»**, i **va amenaçar d'abandonar el
+  títol de copríncep** si no se li donava més poder dins del text
+  ([la transició nacional](../../historia/historia-recent/la-transicio-nacional.md)).
+  **No hi ha llei d'avortament perquè un dels dos caps d'estat n'havia declarat
+  la impossibilitat trenta anys abans.** `Marcat com a context, no com a
+  explicació causal provada.`
+- **Stop Violències**: cap fitxa de l'entitat. — **`obert`, confirmat**: **cap
+  altre document del corpus no l'esmenta.**
+- **El primer Orgull d'Andorra**, del 2019. — **`obert`, confirmat, i és un buit
+  de branca sencera**: **el corpus no té cap article sobre drets LGBTI a
+  Andorra**, ni la unió civil, ni el matrimoni igualitari.
+  `Requereix font externa.`
 - **La manifestació del setembre del 2018**, «la primera de la història del país»
-  per aquest tema. **Quanta gent hi va anar.**
+  per aquest tema. **Quanta gent hi va anar.** — **`obert` pel que fa a la
+  xifra, i el fet ja circula pel corpus per tres llocs**:
+  [sortir al carrer](../vida-civica/sortir-al-carrer.md), que **en fa el
+  principi de la sèrie de manifestacions andorranes**, i
+  [els problemes d'Andorra](../vida-civica/els-problemes-dandorra.md), que
+  **hi registra una tensió sense arbitrar-la**: **el 2018 es descriu com la
+  primera manifestació de la història i el 1933 hi va haver una vaga d'un mes
+  amb gendarmes**. **Vaga i manifestació no són el mateix, i el corpus deixa les
+  dues afirmacions dretes.** `Requereix font externa: premsa del setembre del
+  2018.`
 
 ## Related
 

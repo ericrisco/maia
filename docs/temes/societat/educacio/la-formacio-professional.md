@@ -229,7 +229,26 @@ volum expliquen com els pares trien sistema educatiu.
   branques.
 - **Els salaris reals**: el corpus sap que un aprenent va del 25% al 80% del
   salari base, i **no sap quant és el salari base andorrà** de cap any. **Buit
-  prioritari i transversal** — afecta totes les fitxes d'economia.
+  prioritari i transversal** — afecta totes les fitxes d'economia. —
+  **`obert`, confirmat el 2026-09-13, i ara se sap quants articles hi esperen.**
+  **Quatre documents del corpus declaren el mateix buit per separat**, i cap no
+  sabia dels altres:
+
+  | Article | Com el declara |
+  | --- | --- |
+  | Aquesta fitxa | **No se sap el salari base de cap any** |
+  | [La Cambra de Comerç i la formació](../../economia/comerc/la-cambra-de-comerc-i-la-formacio.md) | **«El corpus no té cap sèrie salarial andorrana. Ni salari base, ni per sector, ni de cap any»** |
+  | [L'acomiadament lliure](../treball/lacomiadament-lliure.md) | **«El salari mínim andorrà, sèrie històrica»** |
+  | [Les escoles dels comuns](./les-escoles-dels-comuns.md) | **Què valien les 1.000-1.200 pessetes** que cobrava un mestre el 1920 |
+
+  > **El corpus té tres lleis que calculen prestacions sobre el salari mínim** —
+  > [l'ajut per desocupació](../treball/lajut-per-desocupacio-involuntaria.md),
+  > [cotitzar sense cobrar](../treball/cotitzar-sense-cobrar-lajut-de-desocupacio.md)
+  > i [l'ajut per la feina que no havia
+  > començat](../treball/lajut-per-la-feina-que-no-havia-comencat.md) —
+  > **i no té la xifra sobre la qual es calculen.** **És, en nombre d'articles
+  > afectats, el buit transversal més gran que aquesta auditoria ha trobat.**
+  > `Requereix font externa: el decret anual del salari mínim, o Estadística.`
 - **Si el sector hoteler ha canviat de criteri** sobre la formació.
 - **Quantes noies** hi ha hagut a cada branca.
 

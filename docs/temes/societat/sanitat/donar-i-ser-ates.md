@@ -114,7 +114,36 @@ de treball pactat** amb la persona (article 3.n).
   serveis socials **no és a la llei** i el corpus no la té.
 - **Si Andorra fa trasplantaments** o si depèn d'acords amb l'exterior, no
   consta; la llei regula **l'entrada i sortida d'òrgans del Principat** (article
-  20), cosa que suggereix que sí, però **el corpus no ho afirma**.
+  20), cosa que suggereix que sí, però **el corpus no ho afirma**. —
+  **`parcial` des del 2026-09-13, rellegint la llei.** **La llei preveu les dues
+  coses alhora, i amb detall:**
+
+  - **Preveu centres de trasplantament a Andorra.** L'autoritat competent
+    **atorga les autoritzacions de funcionament «als centres on s'efectuï
+    l'obtenció o el trasplantament d'òrgans»**, i **pot suspendre-les o
+    retirar-les**. **Cap centre no pot obtenir òrgans de donant viu si no té
+    l'autorització com a centre de trasplantament per a aquell òrgan** (art. 18.1
+    del text consolidat).
+  - **Preveu el càrrec que només existeix si es fa**: **«el responsable de la
+    coordinació hospitalària de trasplantaments»**, que ha d'emetre el document
+    que acredita la voluntat del difunt, la informació als familiars i que **els
+    metges que certifiquen la mort no formen part de l'equip de trasplantament**.
+  - **I preveu l'exterior**: entre les funcions de l'autoritat competent hi ha
+    **«supervisar i coordinar els intercanvis d'òrgans, cèl·lules, teixits i sang
+    efectuats amb altres països»**, i **el registre d'establiments ha de ser
+    homologable al registre europeu**.
+  - **Fins i tot preveu la donació creuada** entre persones relacionades
+    genèticament, per parentiu o per amistat íntima (art. 14.2).
+
+  > **El marc legal andorrà contempla que es facin trasplantaments al país i
+  > que se n'intercanviïn amb fora.** **El que el corpus segueix sense poder
+  > afirmar és si hi ha cap centre autoritzat i si se n'ha fet mai cap** —
+  > **dada d'execució, no de norma**, com [quantes multes es
+  > posen](../../vida-quotidiana/com-funciona-tot/que-costa-una-multa.md) o
+  > [quantes societats hi ha
+  > inscrites](../../economia/comerc/qui-respon-duna-societat.md).
+  > `Requereix font externa: el registre d'organitzacions d'obtenció i
+  > trasplantament d'òrgans, o la memòria del SAAS.`
 - **La Llei de recerca i innovació biomèdica** (54 articles) només s'ha
   identificat: comitès d'ètica, assaigs clínics i biobancs **queden per llegir**.
 - **El títol II de les professions de la salut** —que regula cada professió una

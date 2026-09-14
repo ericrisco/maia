@@ -1,0 +1,43 @@
+FORA_DEL_CORPUS — evidència local, no dataset
+Font: BOPA
+URL: https://documents.bopa.ad/bopa-documents/028050/pdf/GD20160902_10_22_05.pdf
+Publicació: Correcció31-08-2016; BOPA50,07-09-2016
+Consulta: 2026-09-13
+Condicions: https://www.bopa.ad/AvisLegal ; text normatiu amb atribució, sentit i dates preservats. Sense suport implícit del publicador; gràfics i maquetació no reutilitzats.
+Extracció: pdftotext -layout, salts de pàgina conservats.
+Lectura: Una pàgina completa llegida i render vist. Afecta15.2.a.ii, primer guió; no s’ha llegit el context íntegre de l’article15 original.
+
+--- TEXT EXTRET ---
+
+         Núm. 50                                   7 de setembre del 2016                                               1/1
+
+
+
+
+         Reglaments
+
+         Correcció d’errata
+         Vist que s’ha constatat una errada de transcripció en el Decret del 18-5-2016 d’aprovació del Reglament
+         regulador de les prestacions econòmiques de serveis socials i sociosanitaris, publicat al Butlletí Oficial del
+         Principat d’Andorra núm. 32 del 25 de maig del 2016, pàgina 12, en concret a l’article 15, apartat 2, lletra
+         a), número ii), primer guió, es fa pública la correcció d’errata següent:
+
+         On hi diu:
+           “- Que l’infant o el jove tingui entre 3 i 16 anys, o fins a 18 anys en cas de persones amb discapacitat.”
+
+         Hi ha de dir:
+           “- Que l’infant o el jove tingui entre 0 i 16 anys, o fins a 18 anys en cas de persones amb discapacitat.”
+         Cosa que es fa pública per a coneixement general.
+
+         Andorra la Vella, 31 d’agost del 2016
+
+         Antoni Martí Petit
+         Cap de Govern
+
+
+
+
+Govern
+                                                         www.bopa.ad
+                                                                                                    Dipòsit legal: AND.2-2015
+

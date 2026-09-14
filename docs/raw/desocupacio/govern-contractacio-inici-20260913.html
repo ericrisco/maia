@@ -1,0 +1,1038 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+		
+			
+		
+			
+	
+    
+		
+    
+    
+    	
+    		
+    	
+    	
+    
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!--
+    /*
+     * NombreFichero: internetPublicNotices
+     * Descripción: Página PÚBLICA que se muestra al entrar a la aplicación y permite ver las noticias, información y normativa reguladora
+     */
+     -->
+	
+
+<html lang="cat-ES">
+<head>
+<!--
+            Copyright 2012 Altia Consultores. Todos los derechos reservados.
+            Queda expresamente prohibida cualquier tipo de modificación y/o copia del sofware expuesto a través de esta aplicación web
+        -->
+<script language="javascript">
+	var idioma = "Catalan";
+</script>
+
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Pragma" content="No-cache">
+<meta http-equiv="Expires" content="0">
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="Content-Script-Type" content="text/javascript; charset=ISO-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta name="ROBOTS" content="NOINDEX, NOFOLLOW, NOYDIR, NOARCHIVE, NOSNIPPET, NOODP">
+<meta name="googlebot" content="noindex, nofollow">
+<meta name="Description" content="Sistema de Licitación Electrónica MERCURIO" >
+<link rel="shortcut icon" href="/SLE_Internet/recursos/imagenes/favicon.ico;jsessionid=ECFCB2F294D558C05EDE461196721456.nodo2"/>
+
+	<!-- ***** TPL: INI estilos **************************** -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- **** (INI) COMMON STYLES ************************************** -->
+
+
+
+<link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/comunes.css" media="screen"/><link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/cabecera.css" media="screen"/><link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/menu.css" media="screen"/><link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/modal.css" media="screen"/><link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/pie_pagina.css" media="screen"/><link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/jquery-ui.css" media="screen"/><link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/jquery.qtip.css" media="screen"/><link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/jquery.ui.timepicker.css" media="screen"/><link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/jquery.alerts.css" media="screen"/><link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/slick.css" media="screen"/><link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/slick-theme.css" media="screen"/><link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/jHtmlArea.css" media="screen"/><link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/jHtmlArea.ColorPickerMenu.css" media="screen"/><link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/jquery-editable-select.css" media="screen"/><link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/cuerpo.css" media="screen"/>
+
+<link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/print.css" media="print"/>
+
+
+<!-- **** (FIN) COMMON STYLES ************************************** -->
+
+
+	
+
+	<!-- ***** TPL: FIN estilos **************************** -->
+
+
+
+	<!-- ***** TPL: INI scripts **************************** -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- **** (INI) COMMON SCRIPTS ************************************** -->
+
+
+
+<script language="JavaScript" type="text/javascript" src="/SLE_Internet/recursos/scripts/log4js.js"></script>
+
+<script language="javascript" type="text/javascript">
+    var idioma = "Catalan";
+    var JS_DEBUG_MODE = true;
+    var SLE_CLID = null;
+    
+    var SLE_CONTEXT_PATH = "/SLE_Internet";
+    var SLE_IMAGES_PATH = "/SLE_Internet/recursos/imagenes";
+    var minYear = 1900;
+    var minYearRegCont = 1800;
+    var minYearCalendar = 1900;
+    var numYearsFutCalendar = 10;
+    var MSG_DEFAULT_TITLE = "null_Application.DefaultTitle???";
+    var MSG_CLOSE = "Tancar";
+    var DATEPICKER_IMG_URL = '/SLE_Internet/recursos/imagenes/seleccion.gif';
+    var DATEPICKER_BUTTON_TOOLTIP = '...';
+
+
+	var logLevel = Log.NONE;
+    var logInitialized = false;
+	try{
+		if (log==null){
+			log = new Log(logLevel, Log.popupLogger);
+            logInitialized = true;
+		}
+	} catch(e) {
+        try {
+		    var log = new Log(logLevel, Log.popupLogger);
+            logInitialized = true;
+        } catch(e1) {
+            var log = null;
+        }
+	}
+
+
+
+
+
+var INTERNET_MOSTRAR_AYUDAS_CONTEXTUALES = 'S';
+var MSG_MOSTRAR_AYUDAS_CONTEXTUALES = 'Premi per mostrar o ocultar l\'ajuda contextual del formulari';
+var URL_TOOLTIP_LICITACION = "/SLE_Internet/viewCallForTenders.doPublic;jsessionid=ECFCB2F294D558C05EDE461196721456.nodo2?fullInfo=false&tooltip=true";
+var URL_TOOLTIP_REGISTRO = "/SLE_Internet/detailsRegistryToolTip.doPublic;jsessionid=ECFCB2F294D558C05EDE461196721456.nodo2";
+var MSG_TOOLTIP_CARGANDO = "Carregant...";
+var MSG_TOOLTIP_TITULO = "Informació de l' expedient";
+var MSG_TOOLTIP_REG_TITULO = "Informació del registre";
+var URL_SERVERCLOCK = "/SLE_Internet/commons/jsonclock.jsp;jsessionid=ECFCB2F294D558C05EDE461196721456.nodo2";
+var URL_ALERTMESSAGES = "/SLE_Internet/commons/internetMessage.jsp;jsessionid=ECFCB2F294D558C05EDE461196721456.nodo2";
+var URL_ALERTCONFIRM = "/SLE_Internet/commons/internetConfirmCancelAlerts.jsp;jsessionid=ECFCB2F294D558C05EDE461196721456.nodo2";
+</script>
+
+
+<script type="text/javascript" src="/SLE_Internet/combined.js.h-1290352697.pack" charset="utf-8"></script>
+
+<script type="text/javascript" src="/SLE_Internet/combined.js.h1843250131.pack" charset="utf-8"></script>
+
+
+
+
+<script language="JavaScript" src="/SLE_Internet/recursos/scripts/validaciones.js"></script>
+
+<script language="JavaScript" src="/SLE_Internet/recursos/scripts/funGenerales.js"></script>
+
+<script language="JavaScript" src="/SLE_Internet/recursos/scripts/funcionesValidacion.js"></script>
+
+<script language="JavaScript" src="/SLE_Internet/recursos/scripts/funGenerarTabla.js"></script>
+
+
+
+<script type="text/javascript" src="/SLE_Internet/combined.js.h-1772131206.pack" charset="utf-8"></script>
+
+<script type="text/javascript">
+    $.fn.qtip.defaults.style.widget=true;
+
+	function obtenerMensajeError(){
+		return 'Licitació electrònica - Error';
+	}
+	function obtenerMensajeInfo(){
+		return 'Licitació electrònica - Missatge informatiu';
+	}
+	function obtenerMensajeWarn(){
+		return 'Licitació electrònica - Advertència';
+	}
+	function obtenerMensajeOk(){
+		return 'Licitació electrònica - Missatge informatiu';
+	}
+
+	function obtenerTextoAceptar(){
+		return 'Acceptar';
+	}
+
+	function obtenerTextoCancelar(){
+		return 'Cancel·lar';
+	}
+
+	function obtenerTextoVolver(){
+		return 'null_boton.inicio???';
+	}
+
+	function obtenerTextoOferta(){
+		return 'null_boton.presentarOferta???';
+	}
+	function obtenerTextoSi(){
+		return 'null_boton.si???';
+	}
+	function obtenerTextoNo(){
+		return 'null_boton.no???';
+	}
+	function obtenerMensajeTituloConfirmacion() {
+		return "Diàleg de confirmació";
+	}
+	
+</script>
+
+<script type="text/javascript">
+    $.fn.qtip.defaults.style.widget=true;
+</script>
+
+
+    <script type="text/javascript">
+		$(document).ready(function() {
+			$('form').attr( 'autocomplete', 'off' );
+		});
+	</script>
+
+
+
+<!-- **** (FIN) COMMON SCRIPTS ************************************** -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="javascript" type="text/javascript">
+
+
+	function jspOnLoad() {
+		initSlickAvisos();
+	}
+		
+	function initSlickAvisos(){
+		$('.bloqueAvisos').slick({
+			slidesToShow: 1,
+		  	slidesToScroll: 1,
+		  	autoplay: true,
+		 	autoplaySpeed: 15000,
+		 	dots: true,
+		 	infinite: true,
+		 	speed: 300,
+		 	adaptiveHeight: true,
+		 	arrows: false
+	 	});
+	}//initSlickAvisos
+
+</script>
+
+<script language="javascript">
+	function imagenClickCau() {
+		funGeneralesWindowOpen("internetCau.jsp", 600, 650);
+	}
+</script>
+
+	<!-- ***** TPL: FIN scripts **************************** -->
+
+
+
+	<!-- ***** TPL: INI titulo **************************** -->
+
+
+		<title>Inici</title>
+	
+
+	<!-- ***** TPL: FIN titulo **************************** -->
+
+</head>
+
+
+		<body class="margenesBodyPortal" onload="jspOnLoad();">
+	
+<table cellspacing="0" cellpadding="0"
+	style="border: 1px dotted #666666;" class="contenedorGlobalBody contenedorGlobalBodyPortal"
+	id="contenedorPrincipal" align="center">
+	<tr>
+		<td id="idContenedorCabecera" style="width: 100%">
+				<!-- ***** TPL: INI cabecera **************************** -->
+			 
+
+
+<!--
+	/*
+	 * NombreFichero: internetHeaderNoLoginTemplate.jsp
+	 * Descripción: Página que muestra la cabecera de la aplicación (usuario no autenticado)
+	 */ 
+-->
+<link rel="styleSheet" href="/SLE_Internet/recursos/general/fontAwesomeIcons/css/all.css">
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script  type="text/javascript">
+
+$(document).ready(function () {
+	
+	var logged = false;
+	
+	$('#catLangBut').click(function () {
+		changeLang (4, logged);
+	})
+	$('#engLangBut').click(function () {
+		changeLang (3, logged);
+	})
+	setClockWhitOfficialHour();
+	//cada 60 segundos(60000 milliseconds)
+    window.setInterval(function(){setClockWhitOfficialHour();},60000);
+	
+});
+
+  function setClockWhitOfficialHour() {
+	var url = "/SLE_Internet/ajaxHoraOficialAction.doPublic;jsessionid=ECFCB2F294D558C05EDE461196721456.nodo2?do=obtenerHoraOficial";
+    var date;
+    jQuery.ajax({
+		type: 'GET',
+		url: url,
+		dataType: 'json',
+		success: function (json, textstatus) 
+		{
+			updateDateJson(json[0]);
+		},
+		error: function (xhr, textEstatus, errorThrown) {
+			date = new Date();
+			updateDateDefault(date);
+		}
+	});
+ 
+} 
+
+function changeLang (lang, logged) {
+    funGeneralesMostrarCargando();
+	var url = "/SLE_Internet/cambiarIdioma.doPublic;jsessionid=ECFCB2F294D558C05EDE461196721456.nodo2"+"?idiomaAplic="+lang;
+	$.get(url,
+	function(data){
+		funGeneralesOcultarCargando();
+		location.reload(true);
+	});	
+}
+
+function cerrarSesionClick() {
+	
+	var url = "https://contractacio.govern.ad/Shibboleth.sso/Logout";
+	
+	$.ajax({
+	    cache:false,
+	    timeout:100000,
+	    type:"POST",
+	    url:url,
+	    error:function() {
+	    	console.log("error");
+			window.location.href = "logout.doServlet";
+	    },
+	    success:function(data) {
+	    	console.log("success: " + data);
+			window.location.href = "logout.doServlet";
+	    }
+	});
+}
+
+</script>
+
+
+
+
+		
+<header class="ImprimirNo cabecera responsiveFlexColumn">
+	
+	<div class="titulo_pagina_cabecera responsiveFlexRow">
+		<div class="cabeceraTituloPortal">
+			<h1>Plataforma de Contractació del Sector Públic.</h1>
+		</div>
+		<div id="datos_cabecera_superior" class="responsiveFlexRow">	           	
+        	<div>
+     			<i class="iconoReloj fa-regular fa-clock" style="color: #ffffff;"></i>	
+    		</div>
+    		<div class="horaOficialCabecera" id="horaOficial"></div>
+     	</div>
+		<ul class="lista-opciones">
+			<li>
+				<ul class="mi-menu-ini">
+					<li id="lista_Ayuda" style="width:100%;"><a href="#" style="text-align:center" >Suport &#9660;</a>
+						<ul id="subUl" class="subUl">
+							<li><a href="/recursos/manuals/ManualUsuariLicitadors.pdf" target="_blank">Manual d'usuari</a></li>
+							<li><a href="/recursos/manuals/RequisitsTecnicsConfiguracio.pdf" target="_blank">Document de Requisits tècnics</a></li>
+							<li><a href="/recursos/manuals/GuiaRapidaLicitadors.pdf" target="_blank">Guia ràpida licitadors</a></li>
+							<li><a href="/recursos/manuals/Respostes_a_les_preguntes_del_Webinar_Plataforma_de_contractaciÃ³_SP_a_la_CCIS.pdf" target="_blank">Preguntes freqüents</a></li>
+							<li><a href="/recursos/manuals/2024_Presentacio_Webinar_PCSP_Licitadors.pdf" target="_blank">Presentació Webinar</a></li>
+							<li><a href="http://contractacio.govern.ad/SLE_Asistente/" target="_blank">Eina Configuradora del sistema</a></li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+			<li>
+				<ul class="mi-menu-ini">
+					<li id="lista_Idioma" style="width:100%;">
+						<a href="#" style="text-align:center">
+							
+								
+									Català 
+								
+								
+							
+							&#9660;
+						</a>
+						<ul id="subUl" class="subUl">
+							<li><a href="javascript:changeLang(4, false);" target="_self">Català</a></li>
+							<li><a href="javascript:changeLang(3, false);" target="_self">Anglès</a></li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+		</ul>
+		
+			<div class="accesoAreaPrivada">
+				<a href="/SLE_Internet/commons/andorra/internetIndex.jsp" target="_blank">
+					<i class="fa-solid fa-user fa-xl" style="color: #ffffff; padding-right: 10px;"></i>Àrea privada
+				</a>
+			</div>
+		
+	</div>
+	<div class="cabeceraConImagen">
+<!-- 		<a class="enlaceCabecera" href="https://www.govern.ad/" title="Govern Andorra" target="_blank">&nbsp;</a> -->
+	</div>
+	
+	<div>				
+		
+	</div>
+	
+</header>
+
+ 
+				<!-- *** TPL: FIN cabecera ***************************************************** -->
+			
+		</td>
+	</tr>
+	<tr>
+        <td class="tituloPagina">
+        </td>
+    </tr>
+    
+	
+    
+	<tr>
+		<td style="width: 100%">
+			<table class="estiloTablaPrincipalPagina" cellspacing="0"
+				cellpadding="0" border="0" style="width: 100%">
+				<tr>
+					<td class="estiloLineaEnBlancoFina" colspan="2"></td>
+				</tr>
+				<tr>
+					<td id="menuVentana" align="left"
+						style="vertical-align: top; width: 200px;">
+							<!-- *** INI: MENU ***************************************************** -->
+						 <!-- /* NombreFichero: internetMenuTemplateClm.jsp */ -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+<!-- INI ************ MENU *************************************************** -->
+<div id="menu" class="imprimirNo">
+	
+	<ul id="VerColMenuAnd" class="responsiveFlexRow">
+		<li>
+			<a href="/SLE_Internet/findPublicNotices.doPublic?do=home" class="VerColMenuAndSelected">
+		    	Inici
+			</a>
+		</li>
+		<li>
+			<a href="/SLE_Internet/findCallForTendersPublic.doPublic?acceso=S" class="">
+		    	Perfil del contractant
+			</a>
+		</li>
+		
+		<li>
+			<a href="/SLE_Internet/findTenders.doPublic?search=S" class="">
+		    	Registre de licitadors i empreses classificades
+			</a>
+		</li>
+	
+		<li>
+			<a href="/SLE_Internet/findContracts.doPublic?search=S" class="">
+		    	Registre contractes
+			</a>
+		</li>
+	    
+		<li>
+			<a href="/SLE_Internet/accesoMisNotificaciones.doServlet" target="_blank">
+		    	Notificacions electròniques
+			</a>
+		</li>
+		
+		<li class="noBorderOption">
+			<a href="/SLE_Internet/publicSubscription.doPublic?do=nuevaSubscripcion" class="">
+		    	Subscripció
+			</a>
+		</li>
+	</ul>	
+
+</div>
+<!-- FIN ************ MENU *************************************************** -->
+
+ 
+							<!-- *** FIN: MENU ***************************************************** -->
+						</td>
+				</tr>
+				<tr>
+					<td id="idContenedorCuerpo" align="left"
+						style="vertical-align: top">
+							<!-- *** INI: CUERPO ***************************************************** -->
+						 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Pragma" content="No-cache">
+<meta http-equiv="Expires" content="0">
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="Content-Script-Type" content="text/javascript; charset=ISO-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta name="ROBOTS" content="NOINDEX, NOFOLLOW, NOYDIR, NOARCHIVE, NOSNIPPET, NOODP">
+<meta name="googlebot" content="noindex, nofollow">
+<meta name="Description" content="Sistema de Licitación Electrónica MERCURIO" >
+<link rel="shortcut icon" href="/SLE_Internet/recursos/imagenes/favicon.ico;jsessionid=ECFCB2F294D558C05EDE461196721456.nodo2"/>
+
+
+
+
+
+
+
+
+
+
+<!-- **** (INI) COMMON STYLES ************************************** -->
+
+
+
+<link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/comunes.css" media="screen"/><link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/cabecera.css" media="screen"/><link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/menu.css" media="screen"/><link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/modal.css" media="screen"/><link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/pie_pagina.css" media="screen"/><link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/jquery-ui.css" media="screen"/><link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/jquery.qtip.css" media="screen"/><link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/jquery.ui.timepicker.css" media="screen"/><link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/jquery.alerts.css" media="screen"/><link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/slick.css" media="screen"/><link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/slick-theme.css" media="screen"/><link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/jHtmlArea.css" media="screen"/><link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/jHtmlArea.ColorPickerMenu.css" media="screen"/><link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/jquery-editable-select.css" media="screen"/><link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/cuerpo.css" media="screen"/>
+
+<link rel="stylesheet" type="text/css" href="/SLE_Internet/recursos/print.css" media="print"/>
+
+
+<!-- **** (FIN) COMMON STYLES ************************************** -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- **** (INI) COMMON SCRIPTS ************************************** -->
+
+
+
+<script language="JavaScript" type="text/javascript" src="/SLE_Internet/recursos/scripts/log4js.js"></script>
+
+<script language="javascript" type="text/javascript">
+    var idioma = "Catalan";
+    var JS_DEBUG_MODE = true;
+    var SLE_CLID = null;
+    
+    var SLE_CONTEXT_PATH = "/SLE_Internet";
+    var SLE_IMAGES_PATH = "/SLE_Internet/recursos/imagenes";
+    var minYear = 1900;
+    var minYearRegCont = 1800;
+    var minYearCalendar = 1900;
+    var numYearsFutCalendar = 10;
+    var MSG_DEFAULT_TITLE = "null_Application.DefaultTitle???";
+    var MSG_CLOSE = "Tancar";
+    var DATEPICKER_IMG_URL = '/SLE_Internet/recursos/imagenes/seleccion.gif';
+    var DATEPICKER_BUTTON_TOOLTIP = '...';
+
+
+	var logLevel = Log.NONE;
+    var logInitialized = false;
+	try{
+		if (log==null){
+			log = new Log(logLevel, Log.popupLogger);
+            logInitialized = true;
+		}
+	} catch(e) {
+        try {
+		    var log = new Log(logLevel, Log.popupLogger);
+            logInitialized = true;
+        } catch(e1) {
+            var log = null;
+        }
+	}
+
+
+
+
+
+var INTERNET_MOSTRAR_AYUDAS_CONTEXTUALES = 'S';
+var MSG_MOSTRAR_AYUDAS_CONTEXTUALES = 'Premi per mostrar o ocultar l\'ajuda contextual del formulari';
+var URL_TOOLTIP_LICITACION = "/SLE_Internet/viewCallForTenders.doPublic;jsessionid=ECFCB2F294D558C05EDE461196721456.nodo2?fullInfo=false&tooltip=true";
+var URL_TOOLTIP_REGISTRO = "/SLE_Internet/detailsRegistryToolTip.doPublic;jsessionid=ECFCB2F294D558C05EDE461196721456.nodo2";
+var MSG_TOOLTIP_CARGANDO = "Carregant...";
+var MSG_TOOLTIP_TITULO = "Informació de l' expedient";
+var MSG_TOOLTIP_REG_TITULO = "Informació del registre";
+var URL_SERVERCLOCK = "/SLE_Internet/commons/jsonclock.jsp;jsessionid=ECFCB2F294D558C05EDE461196721456.nodo2";
+var URL_ALERTMESSAGES = "/SLE_Internet/commons/internetMessage.jsp;jsessionid=ECFCB2F294D558C05EDE461196721456.nodo2";
+var URL_ALERTCONFIRM = "/SLE_Internet/commons/internetConfirmCancelAlerts.jsp;jsessionid=ECFCB2F294D558C05EDE461196721456.nodo2";
+</script>
+
+
+
+
+
+
+
+
+
+<script language="JavaScript" src="/SLE_Internet/recursos/scripts/validaciones.js"></script>
+
+<script language="JavaScript" src="/SLE_Internet/recursos/scripts/funGenerales.js"></script>
+
+<script language="JavaScript" src="/SLE_Internet/recursos/scripts/funcionesValidacion.js"></script>
+
+<script language="JavaScript" src="/SLE_Internet/recursos/scripts/funGenerarTabla.js"></script>
+
+
+
+
+
+<script type="text/javascript">
+    $.fn.qtip.defaults.style.widget=true;
+
+	function obtenerMensajeError(){
+		return 'Licitació electrònica - Error';
+	}
+	function obtenerMensajeInfo(){
+		return 'Licitació electrònica - Missatge informatiu';
+	}
+	function obtenerMensajeWarn(){
+		return 'Licitació electrònica - Advertència';
+	}
+	function obtenerMensajeOk(){
+		return 'Licitació electrònica - Missatge informatiu';
+	}
+
+	function obtenerTextoAceptar(){
+		return 'Acceptar';
+	}
+
+	function obtenerTextoCancelar(){
+		return 'Cancel·lar';
+	}
+
+	function obtenerTextoVolver(){
+		return 'null_boton.inicio???';
+	}
+
+	function obtenerTextoOferta(){
+		return 'null_boton.presentarOferta???';
+	}
+	function obtenerTextoSi(){
+		return 'null_boton.si???';
+	}
+	function obtenerTextoNo(){
+		return 'null_boton.no???';
+	}
+	function obtenerMensajeTituloConfirmacion() {
+		return "Diàleg de confirmació";
+	}
+	
+</script>
+
+<script type="text/javascript">
+    $.fn.qtip.defaults.style.widget=true;
+</script>
+
+
+    <script type="text/javascript">
+		$(document).ready(function() {
+			$('form').attr( 'autocomplete', 'off' );
+		});
+	</script>
+
+
+
+<!-- **** (FIN) COMMON SCRIPTS ************************************** -->
+
+
+
+<div id="bloque_avisos" class="responsiveFlexColumn flexCenter">
+	
+	 	<div id="bloque_inicio_avisos">
+	 		<div class="bloqueAvisos bloque13 " id="bloqueAvisos">
+	 			
+	 				<div class="aviso">
+	 					<div class="tituloAvisoHome">
+	 						<div>SOL·LICITUD NIA EMPRESES ESTRANGERES</div>
+	 					</div>
+	 					<div class="cuerpoAvisoHome">
+	 						<div><div>Per accedir a la plataforma de contractació és necessari que l' apoderat de l' empresa disposi d'un <b>Número d' Identificació Administrativa i Certificat digital</b> de persona física emès pel Govern d'Andorra.</div><div>Les empreses estrangeres poden fer-ho en línia a través del següent enllaç: <b>https://aplicacions.govern.ad/identificacioremota</b></div></div>
+	 					</div>
+	 				</div>
+	 			
+		 	</div>
+	 	</div>
+ 		
+ 	
+ 	
+ 	
+ 	
+</div>
+ 
+							<!-- *** FIN: CUERPO ***************************************************** -->				            
+						
+						<!-- ***** TPL: INI btnVolver ********************* -->
+			            
+			            <!-- ***** TPL: FIN btnVolver ********************* -->
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td id="idPiePagina" class="ImprimirNo" style="width: 100%">
+				<!-- ***** TPL: INI piePagina *************************** -->
+			 
+
+
+
+
+
+<!--
+    /*
+     * NombreFichero: internetFootNoteTemplateAndorra.jsp
+     * Descripción: Página que muestra el pie de la aplicación
+     */
+ -->
+
+<div id="footer" class="clearfix">
+
+	<div class="copyright">
+                Copyright © Govern d'Andorra
+    </div>
+	<div class="footerLinks">
+		<a href="https://www.govern.ad/avis-legal" target="_blank" rel="noopener noreferrer">Avís legal</a>
+		<a href="https://www--govern--ad.accesible.inclusite.com/" target="_blank" rel="noopener noreferrer">Accessibilitat</a>
+		<a href="https://www.govern.ad/identitat-institucional" target="_blank" rel="noopener noreferrer">Identitat institucional</a>
+		<a href="https://www.govern.ad/contactar" target="_blank" rel="noopener noreferrer">Contacte</a>
+	</div>
+	<div class="footerSoporte">
+	<ul>
+		<li>Suport a licitadors.</li>
+		<li>Telèfon: +376 872 272</li>
+		<li>Correu electrònic: SPCP@govern.ad</li>
+	</ul>
+	</div>
+
+
+
+</div><!-- end #footer --> 
+				<!-- ***** TPL: FIN piePagina *************************** -->
+			</td>
+	</tr>
+</table>
+
+
+
+
+
+<div id="precargaGen" class="estiloPrecargaGen ImprimirNo "></div>
+<div id="precarga" class="estiloPrecarga ImprimirNo">
+    <center>
+        <div id="precargaDiv" class="estiloImgPrecarga">Carregant...<br/></div>
+        <div id="imgBusy" class="estiloImgPrecarga"></div>
+        <img src="/SLE_Internet/recursos/imagenes/loadingBar.gif" height="30px" width="300px" alt="Carregant..." />
+    </center>
+</div>
+<div id="precargaTxt" class="estiloPrecarga ImprimirNo">
+    <center>
+        <div id="precargaTxtDiv" class="estiloImgPrecarga"></div>
+        <div id="imgBusyTxt" class="estiloImgPrecarga"></div>
+        <img src="/SLE_Internet/recursos/imagenes/loadingBar.gif" height="30px" width="300px" alt="Carregant..." />
+    </center>
+</div>
+
+
+
+<div id="dialog-confirm" title="Aviso:" style="visibility: hidden;">
+	<p id="parrafoMensaje">
+		<span class="ui-icon ui-icon-alert"
+			style="float: left; margin: 12px 12px 20px 0;"></span>
+	</p>
+</div>
+</body>
+</html>

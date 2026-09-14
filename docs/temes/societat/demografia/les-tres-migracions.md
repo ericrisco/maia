@@ -220,15 +220,151 @@ quatre forasters per cada natural.**
 línia**, i val la pena llegir-la al costat de
 [les onades migratòries](./les-onades-migratories.md), que en dona les xifres.
 
+## Les mateixes tres migracions, vistes per un geògraf
+
+**Afegit el 2026-09-13 des del [llibre 2 de la tesi de Joan
+Becat](../../../fonts/becat-tesi-1993.md)**, **que el corpus ja tenia i no havia
+obert**. *(Text francès; traduccions del corpus. La frase de l'àvia hi va en
+català, com Becat la reprodueix.)*
+
+**Confirma l'esquema d'aquesta fitxa i hi afegeix quatre coses que no hi eren:
+els oficis, la destinació de les dones, els noms dels pobles, i un mecanisme.**
+
+### Els oficis de la colla
+
+**Les migracions de maig i juny eren *colles* de vuit a deu homes**,
+excepcionalment més, **per a la tosa de les ovelles**. **I la mateixa colla
+feia la temporada sencera canviant de feina:**
+
+| Feina | Com se'n deia qui la feia |
+| --- | --- |
+| **Segar** | ***segadors*** o ***garbers*** |
+| **Dallar** | ***dalladors*** |
+| **Fer i adobar les parets de pedra seca** dels camps i dels camins | — (*parets*) |
+
+**Tres mots d'ofici que el corpus no tenia.** Vegeu
+[el glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md).
+
+**I una migració que aquesta fitxa no comptava perquè és interna:** **els homes
+de les parròquies baixes pujaven a dallar dues o tres setmanes a Soldeu i a la
+Vall d'Incles.** **Andorra emigrava dins d'Andorra.**
+
+### El *tragí* no era només un ofici
+
+> «**Si a cada parròquia hi havia *traginers* que exercien el seu ofici tot
+> l'any, el *tragí* podia esdevenir també una activitat complementària per a
+> homes joves, i fins i tot per a adolescents.**»
+
+**Això respon en part el buit que declaren [el comerç a l'edat
+moderna](../../economia/comerc/el-comerc-a-ledat-moderna.md) i [les
+mules](../../economia/ramaderia-i-agricultura/les-mules.md)** —**tots dos
+demanen fitxa pròpia dels traginers**—: **hi havia traginers professionals a
+cada parròquia**, i **al seu voltant una massa de gent que hi feia temporada**.
+**Comptat un sol cop, aquell buit és un i no dos.**
+
+### Les veremes, amb noms de poble
+
+**El buit d'aquesta fitxa demanava «rutes, contractes, si en queda memòria».**
+**Rutes i pobles, sí; contractes, no:**
+
+| Qui | Quan | On |
+| --- | --- | --- |
+| **Colles d'andorrans, homes i dones** | **a la tardor** | **les veremes del Llenguadoc, sobretot a l'Erau** |
+| **Joves cabalers** | **a l'hivern** | **treballadors agrícoles al Llenguadoc, a descalçar i treballar les vinyes**, **sobretot als voltants de Capestany i de Besiers**. **Tornaven per les festes majors, al juny o al juliol** |
+| **Colles de veremadors andorrans** | **abans de la guerra** | **fins a la Costa Vermella**, **a Banyuls**, **i hi anaven amb les seves mules** |
+
+**Dues coses d'aquí valen molt:**
+
+1. **El calendari de tornada és el de la festa major.** **La migració andorrana
+   no acaba una campanya: acaba un cicle festiu.** Vegeu
+   [el calendari festiu](../../costums/calendari-festiu/README.md).
+2. **A l'Erau hi coincidien amb els seus propis pastors transhumants.**
+   **La ruta de la verema i la ruta del bestiar eren la mateixa** — vegeu
+   [la transhumància](../../economia/ramaderia-i-agricultura/la-transhumancia.md).
+
+**I Becat tanca la cadena que [cap on mirava
+Andorra](../../historia/segle-xix/cap-on-mirava-andorra.md) deixava oberta:**
+**«Aquestes migracions estacionals van esdevenir per a alguns migracions
+definitives. És l'origen de les colònies andorranes a Besiers i al baix
+Llenguadoc.»**
+
+### Les mines, amb dos noms i dues parròquies
+
+> **«Durant dues temporades l'any només, o tot l'any, sobretot a partir d'Encamp
+> i de Canillo, els homes anaven a treballar a les mines "a França", és a dir a
+> **La Greda** i a **Luzenac** a l'Arieja, a les mines de talc.»**
+
+**El corpus tenia Luzenac i no tenia ni La Greda ni les parròquies d'origen.**
+**El «quants» i el «quins anys» del buit segueixen sense resposta.**
+
+### I la meitat que faltava: on anaven les dones
+
+**Aquesta és la mancança més gran que la lectura destapa en aquesta fitxa.**
+
+> **«A partir d'Andorra la Vella-les Escaldes i de Sant Julià de Lòria, molts
+> anaven a llogar-se per l'hivern a Catalunya, on acceptaven qualsevol feina.
+> Sovint se'ls feia servir com a paletes, manobres o fusters. Les noies anaven
+> sobretot "a Espanya", en particular a Barcelona i a les ciutats de Catalunya,
+> però també a França, per a feines de *minyones*, és a dir com a empleades de
+> casa: criades, personal de servei, senyoretes de companyia.**»
+
+**Les tres migracions que aquesta fitxa descriu són d'homes.** **La migració
+femenina andorrana existia, era de servei domèstic, i anava a ciutat.**
+**El corpus no en tenia res.** Vegeu [les dones](../dones/README.md) i
+[el treball](../treball/treball.md).
+
+> **I el destí definitiu no era el mateix per a tothom:** **«els migrants
+> definitius més nombrosos anaven sobretot cap a Besiers i cap a Barcelona».**
+> **Una destinació francesa i una d'espanyola**, **que són exactament els dos
+> pols entre els quals el corpus descriu tota la història andorrana.**
+
+### El mecanisme, dit per una àvia
+
+Becat cita una enquesta pròpia:
+
+> **«La gent anava a tal lloc perquè uns hi havien anat primer.»**
+
+**Això és, en una frase d'àvia, el concepte de xarxa migratòria** que
+[el mercat de treball dual](../../societat/immigracio/el-mercat-de-treball-dual.md)
+descriu per a **Mojácar, Lalín i Viana do Castelo** **dos-cents anys després i en
+sentit contrari.** **El mateix mecanisme que va treure andorrans cap a Besiers
+va portar gallecs i minyots del nord de Portugal cap a Andorra.**
+
 ## Buits registrats
 
-1. **Els registres parroquials.** **La font demogràfica bàsica, sense tocar.**
-2. **Les mines de talc de Luzenac**: quants andorrans, quins anys.
-3. **Les veremes de l'Hérault**: rutes, contractes, si en queda memòria.
-4. ***Entrar de jove***: el mot, al glossari.
-5. **Abel Poitrineau**, *Remues d'Hommes*.
-6. **La recerca específica** que Armengol demanava el 1989: **s'ha fet?**
-7. **Quants** marxaven, de quina edat, i si tornaven.
+> **Auditats contra la resta del corpus el 2026-09-13.** **Dos s'han mogut amb
+> una font que el corpus ja tenia**, i **la lectura n'ha obert un de nou que és
+> més gran que cap dels set.**
+
+1. **Els registres parroquials.** **La font demogràfica bàsica, sense tocar.** —
+   **`obert`, confirmat.**
+2. ~~**Les mines de talc de Luzenac**: quants andorrans, quins anys.~~ —
+   **`parcial`.** **Ara se sap que n'eren dues** —**La Greda i Luzenac**— i
+   **d'on sortien**: **sobretot d'Encamp i de Canillo**, **dues temporades l'any
+   o tot l'any.** **Els «quants» i els «quins anys» segueixen oberts.**
+3. ~~**Les veremes de l'Hérault**: rutes, contractes, si en queda memòria.~~ —
+   **`parcial`.** **Pobles i calendari, sí** —**Capestany, Besiers, i fins a
+   Banyuls a la Costa Vermella; tornada per les festes majors**— **i colles
+   mixtes d'homes i dones.** **Contractes, cap.**
+4. ***Entrar de jove***: el mot, al glossari. — **`obert`, i amb companyia
+   nova**: **la mateixa lectura n'ha aportat cinc més** —***segador***,
+   ***garber***, ***dallador***, ***tragí***, ***minyona***— **que tampoc no hi
+   són.**
+5. **Abel Poitrineau**, *Remues d'Hommes*. — **`obert`, confirmat.**
+6. **La recerca específica** que Armengol demanava el 1989: **s'ha fet?** —
+   **`parcial`.** **Una part sí, i el corpus la té des d'avui**: **la tesi de
+   Becat, defensada el 1993, quatre anys després d'aquella petició**, **dedica
+   a les migracions de treball el capítol que aquesta secció destil·la.**
+   **No és la recerca demogràfica que Armengol demanava** —no hi ha xifres—
+   **però no és cert que no s'hagi fet res.**
+7. **Quants** marxaven, de quina edat, i si tornaven. — **`obert`, confirmat.**
+   **Cap font del corpus no en dona xifres.** **De l'edat sí que se'n sap una
+   cosa**: **al *tragí* hi anaven «homes joves i fins i tot adolescents»**.
+8. **NOU, i és el més gran:** **la migració femenina andorrana.** **Anaven a
+   Barcelona i a les ciutats de Catalunya, i també a França, de *minyones*.**
+   **El corpus no en té res més que aquesta frase**: ni quantes, ni quan, ni
+   si tornaven, ni què en va ser.
+   `Requereix font externa, i sobretot [parla](../../../parla/README.md).`
 
 ## Related
 

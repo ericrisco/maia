@@ -184,16 +184,47 @@ pròpia en aquest volum**, cosa que també diu alguna cosa. El corpus no en té 
 
 ## El que falta
 
+> **Auditat contra la resta del corpus el 2026-09-13.** **Dels quatre, dos ja
+> estaven contestats en altres branques** —i **un d'ells és un buit que aquesta
+> fitxa declarava en nom d'una altra**, que entretant l'havia tancat.
+
 - **Tot el que hi ha a la taula de dalt.**
-- **Què ha canviat des del 1997**: si hi ha lloc de culte islàmic a Andorra
-  avui, com és el règim de quotes ara, i si l'escola ofereix llengües d'origen.
-  **Prioritari** — la ponència té trenta anys i el corpus no ha de donar per
-  vigent res del que hi diu.
-- **La 2a Diada Andorrana**, dedicada als **moviments migratoris**
-  ([les Diades](../../historia/historiografia/les-diades-andorranes.md)).
-- Les **religions no catòliques** a Andorra, que
+- ~~**Què ha canviat des del 1997**: si hi ha lloc de culte islàmic a Andorra
+  avui, com és el règim de quotes ara, i si l'escola ofereix llengües d'origen.~~
+  — **`parcial`, i la part del culte té ara una resposta amb forma de silenci.**
+  [Les religions d'Andorra avui](../../costums/religiositat/les-religions-dandorra-avui.md)
+  compta **uns 2.000 musulmans** —prop del **2,6%** de la població—, amb **carn
+  halal**, **almenys una carniseria especialitzada a Andorra la Vella**, **el
+  ramadà** i **la festa del xai**. **I no els dona cap lloc de culte.** **La
+  mateixa taula sí que en dona als Testimonis de Jehovà (temple a Andorra la
+  Vella) i als evangèlics (temple a Encamp).** **El corpus no afirma que no
+  n'hi hagi: afirma que la font que enumera els temples no en dona cap per a la
+  comunitat més nombrosa de les no catòliques.**
+  `Requereix font externa.` **Les quotes i les llengües d'origen a l'escola
+  segueixen obertes.**
+- ~~**La 2a Diada Andorrana**, dedicada als **moviments migratoris**
+  ([les Diades](../../historia/historiografia/les-diades-andorranes.md)).~~ —
+  **`resolt` pel que fa a l'accés, `parcial` pel que fa a la lectura.** **El
+  volum és al corpus sencer i llegible**: `raw/sac-diades/02a-1989-els-moviments-migratoris-a-andorra`,
+  **reextret per OCR el 2026-09-13** perquè **la capa de text anterior no tenia
+  cap vocal accentuada i no es podia citar**
+  ([`raw/README.md`](../../../raw/README.md)). **Dues ponències ja en tenen
+  fitxa de font** —[Becat](../../../fonts/becat-moviments-migratoris-1989.md) i
+  [el debat](../../../fonts/debat-2a-diada-migracions.md)— **i dos articles
+  n'han sortit**: [el diagnòstic de 1989](./el-diagnostic-de-1989.md) i
+  [els nats a Andorra](./els-nats-a-andorra.md). **El que queda és la resta de
+  ponències del volum.**
+- ~~Les **religions no catòliques** a Andorra, que
   [la religiositat](../../costums/religiositat/religiositat.md) ja tenia com a
-  buit.
+  buit.~~ — **`resolt`, i des de les dues bandes.** **El fet**:
+  [les religions d'Andorra avui](../../costums/religiositat/les-religions-dandorra-avui.md)
+  —musulmans, Testimonis de Jehovà, evangèlics, Moon, Baha'i, amb xifres i
+  temples. **El dret**:
+  [el registre d'entitats religioses](../../costums/religiositat/el-registre-dentitats-religioses.md)
+  — **des de la Llei 2/2025, una confessió existeix legalment a Andorra amb
+  vint persones i una resolució**, i **l'article 11.1 de la Constitució
+  prohibeix obligar ningú a declarar la seva religió**, cosa que explica per què
+  totes aquestes xifres són estimacions i **no pot haver-hi cens religiós**.
 
 ## Les associacions, una per una
 

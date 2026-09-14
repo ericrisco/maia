@@ -1,0 +1,1165 @@
+FORA_DEL_CORPUS — evidència local, no dataset
+Font: BOPA
+URL: https://documents.bopa.ad/bopa-documents/028032/pdf/GR20160520_09_21_21.pdf
+Publicació: Decret18-05-2016; BOPA32,25-05-2016
+Consulta: 2026-09-13
+Condicions: https://www.bopa.ad/AvisLegal ; text normatiu amb atribució, sentit i dates preservats. Sense suport implícit del publicador; gràfics i maquetació no reutilitzats.
+Extracció: pdftotext -layout, salts de pàgina conservats.
+Lectura: 19 pàgines conservades. Text p.3–4 llegit, article5.2.a.iii complet contrastat al render4. Articles2–4 i fragments5 adjacents llegits sense destil·lació. No article5 complet ni tot el reglament llegits.
+
+--- TEXT EXTRET ---
+
+         Núm. 32                                       25 de maig del 2016                                                1/19
+
+
+
+
+         Reglaments
+
+         Decret d’aprovació del Reglament regulador de les
+         prestacions econòmiques de serveis socials i sociosanitaris
+         La Llei 6/2014, del 24 d’abril, de serveis socials i sociosanitaris estableix a la secció tercera del capítol tercer
+         les prestacions econòmiques. En concret, si bé regula detalladament les pensions de solidaritat, les pensions
+         de solidaritat per a la gent gran, les prestacions familiars per fill a càrrec i els ajuts econòmics ocasionals,
+         remet tanmateix a la via reglamentària les especificacions necessàries que hi són associades, com ara les
+         compatibilitats o les incompatibilitats de les pensions de solidaritat i de les prestacions familiars per fill a
+         càrrec, o els tipus, els requisits específics, les quanties màximes, les compatibilitats i la durada dels ajuts
+         econòmics ocasionals.
+         D’altra banda, la Llei 6/2014 també preveu que cal precisar o completar per reglament altres matèries o
+         qüestions que s’hi estableixen, com el llindar econòmic de cohesió social o el barem de valoració patrimo-
+         nial, les aportacions del beneficiari al finançament de les prestacions, el concepte i les aportacions dels
+         familiars o les altres persones obligades, determinats requisits generals per accedir al sistema de serveis
+         socials i sociosanitaris, els requisits específics per a cada prestació, o els terminis màxims de resolució de
+         les sol·licituds.
+         És per aquests motius, i també d’acord amb l’habilitació que es conté a la disposició final primera de la Llei
+         6/2014, que es promou aquest Reglament, que es desglossa en vint-i-sis articles, encabits en cinc capítols,
+         una disposició addicional, dos disposicions transitòries i una disposició derogatòria.
+         Aquesta norma té com a finalitat regular d’una forma agrupada i sistemàtica tot el que dimana de les pres-
+         tacions econòmiques de serveis socials i sociosanitaris, raó per la qual s’hi refon el contingut del Reglament
+         regulador de les prestacions familiars per fill a càrrec, que el Govern va aprovar el 3 de setembre del 2014, i
+         que desenvolupava una de les prestacions econòmiques de serveis socials i sociosanitaris reconegudes per
+         la Llei 6/2014. I també s’hi inclou una part del Reglament d’atenció social, de treball i de seguretat social de
+         les persones amb discapacitat, que el Govern va aprovar el 17 de novembre del 2004, i que desenvolupa
+         al seu torn la Llei de garantia dels drets de les persones amb discapacitat, del 17 d’octubre del 2002. En
+         efecte, l’afiliació i la cotització a la CASS de les persones amb discapacitat, a càrrec del Govern, també s’ha
+         configurat i se segueix configurant com una prestació econòmica de serveis socials.
+         Així mateix, s’han tingut en compte en la redacció d’aquest Reglament la Llei 11/2014, del 18 de desembre,
+         de l’embargament, i la Llei 15/2004, del 3 de novembre, d’incapacitació i organismes tutelars.
+         El capítol primer del Reglament, que es desglossa en els articles 1 a 8, fa referència a les disposicions
+         generals i, en concret, regula o desenvolupa l’objecte de la norma i el tipus de prestacions econòmiques
+         de serveis socials i sociosanitaris; els requisits generals, la naturalesa, l’efectivitat i l’abonament d’aquestes
+         prestacions; els drets i els deures de les persones beneficiàries; els principis i les definicions que relaciona
+         la Llei 6/2014, i la protecció i la comprovació de dades, la confidencialitat i el secret professional.
+         El capítol segon, que es divideix en els articles 9 a 12, incideix de forma específica en les prestacions econò-
+         miques periòdiques, que són les pensions de solidaritat per a persones amb discapacitat, les pensions de
+         solidaritat per a gent gran i les prestacions familiars per fill a càrrec. En concret, regula els aspectes comuns
+         de les pensions de solidaritat, i tot el que es relaciona amb el concepte, l’afiliació i la cotització a la Caixa
+         Andorra de Seguretat Social, les compatibilitats o la documentació que cal acompanyar a les sol·licituds de
+
+
+
+
+Govern
+         les pensions i les prestacions esmentades anteriorment.
+
+
+
+
+                                                            www.bopa.ad
+                                                                                                        Dipòsit legal: AND.2-2015
+         Núm. 32                                         25 de maig del 2016                                             2/19
+
+
+
+
+         El capítol tercer i els articles 13 a 17 que en formen part estan dedicats als ajuts econòmics ocasionals. En
+         regulen i completen el concepte; els requisits generals, les compatibilitats i la documentació que cal ad-
+         juntar a les sol·licituds; els tipus i els requisits específics per a cada ajut; les quanties màximes, i la durada,
+         la revisió i l’extinció.
+         El capítol quart, que es desglossa en els articles 18 a 20, reprèn i actualitza les disposicions en matèria de
+         seguretat social que preveia el capítol vuitè del Reglament d’atenció social, de treball i de seguretat social
+         de les persones amb discapacitat, del 17 de novembre del 2004, i en concret la prestació que consisteix
+         en l’afiliació i la cotització a la CASS de les persones amb discapacitat, a càrrec del Govern.
+         Finalment, el capítol cinquè, que es desglossa en els articles 21 a 26, regula els aspectes procedimentals
+         i, en concret, incideix en les normes aplicables; les sol·licituds; l’informe i la proposta de resolució; la re-
+         solució; el procediment simplificat, i el procediment de constrenyiment i execució. En aquest sentit, atesa
+         la necessitat d’agilitzar i facilitar els tràmits en benefici de les persones sol·licitants, s’ha tingut en compte
+         la Llei 93/2010, del 16 de desembre, de mesures de promoció de l’activitat econòmica i social, i de racio-
+         nalització i d’optimització dels recursos de l’Administració, pel que fa a la simplificació de documents que
+         cal aportar quan els hagi emès o ja en disposi l’Administració. Així mateix, l’aplicació de l’article 45 i de les
+         disposicions addicionals primera i quarta de la Llei 6/2014, referents a l’intercanvi de dades amb la segu-
+         retat social i altres entitats de naturalesa pública, ha permès reduir els documents que s’han de requerir
+         a les persones sol·licitants.
+         El Reglament es clou amb una disposició addicional que planteja el supòsit dels ajuts per a casos de neces-
+         sitat i urgència extrema; dos disposicions transitòries que estableixen les normes aplicables a les sol·licituds
+         presentades amb anterioritat a la data de l’entrada en vigor de la norma reglamentària, i a les prestacions
+         de les persones que en aquesta data resideixin a l’estranger per tractar una discapacitat, un problema de
+         salut mental o una malaltia crònica greu, i una disposició derogatòria de les normes vigents fins ara en
+         matèria de prestacions econòmiques de serveis socials i sociosanitaris.
+         Ateses les consideracions esmentades, a proposta del ministre d’Afers Socials, Justícia i Interior, el Govern,
+         en la sessió del 18 de maig del 2016, aprova aquest Decret amb el contingut següent:
+
+         Article únic
+         S’aprova el Reglament regulador de les prestacions econòmiques de serveis socials i sociosanitaris, que
+         entrarà en vigor l’1 de setembre del 2016.
+
+         Reglament regulador de les prestacions econòmiques de serveis socials
+         i sociosanitaris
+         Capítol primer. Disposicions generals
+         Article 1. Objecte del Reglament i tipus de prestacions econòmiques
+         1. Aquest Reglament té per objecte regular les prestacions econòmiques establertes a la secció tercera
+         del capítol tercer de la Llei 6/2014, del 24 d’abril, de serveis socials i sociosanitaris (d’ara endavant, “la Llei
+         6/2014”).
+         2. Les prestacions econòmiques establertes a la secció tercera del capítol tercer de la Llei 6/2014 són les
+         següents:
+           a) Pensions de solidaritat:
+             i) Per a persones amb discapacitat.
+             ii) Per a la gent gran.
+           b) Prestacions familiars per fill a càrrec.
+           c) Ajuts econòmics ocasionals.
+
+
+
+
+Govern
+                                                            www.bopa.ad
+                                                                                                       Dipòsit legal: AND.2-2015
+         Núm. 32                                          25 de maig del 2016                                                    3/19
+
+
+
+
+         Article 2. Requisits generals de les prestacions econòmiques
+         1. Les persones beneficiàries de les prestacions econòmiques han de trobar-se en la situació que assenyala
+         l’article 4 i reunir els requisits que estableix l’article 5 de la Llei 6/2014, que s’apliquen tenint en compte els
+         criteris següents:
+           a) En els supòsits de l’article 5, apartat 1, lletra b), per determinar les situacions que s’hi preveuen i la
+           idoneïtat i l’especificitat del centre estranger es tenen en compte els dictàmens de la Comissió Nacional
+           de Valoració (Conava) i la Comissió de Valoració Sociosanitària (Covass) i, quan sigui necessari, es dema-
+           na informació complementària al Servei de Salut Mental del Servei Andorrà d’Assistència Sanitària (d’ara
+           endavant, “el SAAS”).
+           La idoneïtat i l’especificitat del centre estranger requereixen l’autorització en cada cas del ministeri
+           competent en matèria d’afers socials (d’ara endavant, “el ministeri”). Per emetre l’autorització es tenen
+           en compte, a més de l’opinió de les comissions de valoració i el servei esmentats en el paràgraf anterior,
+           si el centre està conveniat amb la Caixa Andorrana de Seguretat Social (d’ara endavant, “la CASS”). Per
+           obtenir-la, les persones interessades han d’adreçar una sol·licitud al ministeri, que l’ha de resoldre al més
+           aviat possible i, en qualsevol cas, en el termini màxim de dos mesos.
+           b) A l’efecte de l’excepcionalitat establerta per a les persones amb residència per raons de reagrupament
+           familiar, a l’article 5, apartat 1, lletra d), segon paràgraf, de la Llei 6/2014, es consideren necessitats so-
+           brevingudes les que reuneixen els requisits següents:
+              i) Que la causa de les necessitats hagi estat imprevisible.
+              ii) Que la impossibilitat de complir les obligacions sigui objectiva i posterior al reagrupament.
+              iii) Que aquesta impossibilitat no sigui imputable al sol·licitant del reagrupament.
+              iv) Que la impossibilitat esmentada s’acrediti documentalment.
+         2. A més de les situacions i els requisits establerts als articles 4 i 5 de la Llei 6/2014, per poder accedir a les
+         prestacions econòmiques les persones beneficiàries han de complir els requisits i les condicions específics
+         de cadascuna de les prestacions.
+
+         Article 3. Drets i deures
+         1. Les persones beneficiàries de les prestacions econòmiques gaudeixen dels drets i els deures establerts
+         a l’article 6 de la Llei 6/2014, i dels drets i deures específics que es derivin de cadascuna de les prestacions.
+         2. En l’aplicació dels drets i les obligacions es tenen en compte l’edat, les capacitats i la situació psicosocial
+         de la persona beneficiària.
+
+         Article 4. Naturalesa de les prestacions econòmiques
+         1. D’acord amb el que estableixen la secció tercera del capítol tercer i l’article 30, apartat 3, de la Llei 6/2014,
+         les pensions de solidaritat per a persones amb discapacitat, les pensions de solidaritat per a gent gran, les
+         prestacions familiars per fill a càrrec, els ajuts econòmics ocasionals adreçats a atendre situacions urgents,
+         puntuals i bàsiques de subsistència i les prestacions tecnològiques adreçades a persones en situació de
+         dependència greu són garantits; d’altra banda, les prestacions tecnològiques adreçades a persones en
+         situació de dependència greu també són de copagament. La resta de les prestacions econòmiques són
+         de concurrència.
+         2. La naturalesa de les prestacions econòmiques s’ajusta en cada moment als canvis que s’estableixin per
+         reglament o, si es tracta de prestacions garantides, per llei, d’acord amb l’article 16, apartat 2, de la Llei 6/2014.
+
+         Article 5. Principis i definicions
+         1. L’aplicació d’aquest Reglament s’ha d’ajustar als principis rectors establerts a l’article 3 de la Llei 6/2014.
+         2. Els conceptes emprats en aquest Reglament s’interpreten d’acord amb les definicions establertes a
+         l’article 2 de la Llei 6/2014, que s’apliquen segons els criteris següents:
+           a) Llindar econòmic de cohesió social (d’ara endavant, “LECS”) i barem de valoració patrimonial:
+
+
+
+
+Govern
+             i) Per calcular el LECS i el barem de valoració patrimonial, definits a l’article 2, lletres l) i o), de la Llei 6/2014,
+             respectivament, s’han de tenir en compte els criteris establerts als articles 31 i 32 de la Llei 6/2014.
+
+
+
+                                                               www.bopa.ad
+                                                                                                               Dipòsit legal: AND.2-2015
+         Núm. 32                                       25 de maig del 2016                                                 4/19
+
+
+
+
+            ii) El període de referència per determinar els ingressos totals en còmput anyal de la persona o la unitat
+            familiar de convivència són els dotze mesos naturals immediatament anteriors a la data de la sol·licitud.
+            En els exercicis posteriors el càlcul es fa per anys naturals.
+            Es pot reduir el període anyal del càlcul dels ingressos per a l’accés als ajuts econòmics ocasionals si
+            s’adrecen a la cobertura de necessitats bàsiques i l’aplicació del criteri establert al paràgraf anterior pot
+            comportar perjudicis greus per a la persona sol·licitant i/o la seva família.
+            El còmput anyal dels ingressos de la unitat familiar de convivència, definida a l’article 2, lletra p), de la
+            Llei 6/2014 resulta d’addicionar els ingressos totals percebuts pel nucli familiar per tots els conceptes
+            durant el període de referència esmentat anteriorment, calculat d’acord amb l’article 31, apartat 2, de
+            la Llei 6/2014. L’import resultant del càlcul es divideix per dotze per obtenir els ingressos mensuals
+            mitjans del nucli familiar.
+            iii) Per aplicar el barem de valoració patrimonial establert a l’article 32 de la Llei 6/2014, tal com ha estat
+            modificat per la disposició final setena de la Llei 2/2016, del 10 de març, del pressupost per a l’exercici
+            del 2016, es tenen en compte els criteris següents:
+                - Per determinar el valor de mercat dels immobles, en què no es computa l’habitatge habitual, la persona
+                sol·licitant ha d’aportar un informe de valoració emès per un expert independent o per l’Administració
+                a efectes tributaris, realitzat en un període no superior a l’any anterior a la presentació de la sol·licitud.
+              - Per determinar el valor de mercat dels vehicles, en què no es computen els vehicles adaptats per a
+              persones amb discapacitat, l’òrgan gestor de les prestacions calcula aquest valor a partir d’indicadors
+              objectius. En tot cas la persona sol·licitant pot aportar els informes de valoració que consideri oportuns.
+             iv) Els criteris establerts en aquesta lletra a) també s’apliquen per calcular les aportacions dels familiars
+             i de les altres persones obligades que regula l’article 62 de la Llei 6/2014.
+          b) Procediment ordinari i d’urgència:
+          Els procediments de tramitació poden ser ordinaris o d’urgència. Els procediments ordinaris segueixen
+          el procediment establert amb caràcter general, i els procediments d’urgència segueixen el procediment
+          simplificat establert a l’article 25 d’aquest Reglament.
+          c) Reclamació de reemborsament:
+          L’Administració, d’acord amb els articles 24, lletra f), i 68, apartat 3, de la Llei 6/2014, ha de reclamar als
+          perceptors de prestacions econòmiques el reembossament de les prestacions rebudes indegudament,
+          d’acord amb el procediment que estableix el Codi de l’Administració i l’article 26 d’aquest Reglament.
+          d) Mesures de constrenyiment, execució de resolucions i prelació de crèdits:
+             i) Per adoptar les mesures de constrenyiment i execució de resolucions previstes a l’article 63, apartat
+             1, de la Llei 6/2014, se segueix el procediment establert a l’article 26 d’aquest Reglament.
+             ii) D’acord amb l’article 63, apartat 2, de la Llei 6/2014, els crèdits de les administracions públiques contra
+             els beneficiaris, els familiars o les altres persones obligades tenen el caràcter de preferents respecte
+             dels crèdits ordinaris.
+          e) Compatibilitats:
+             i) Són compatibles entre si les prestacions econòmiques quan la seva finalitat és diferent. Així mateix,
+             són compatibles amb altres prestacions públiques i privades adreçades a altres finalitats.
+             ii) Si les prestacions econòmiques públiques o privades tenen la mateixa finalitat es poden complementar
+             fins a la quantia màxima establerta d’acord amb les disposicions normatives aplicables.
+          f) Reconeixement de deute:
+             i) Quan la persona beneficiària no disposi d’ingressos suficients per abonar íntegrament el copagament
+             dels preus establerts en els serveis residencials per a la gent gran, però disposi o pugui disposar en un
+             futur d’un patrimoni que es pugui afectar a aquestes despeses, si rep un ajut econòmic ocasional per
+             gaudir dels serveis esmentats, s’aplica el reconeixement de deute previst a l’article 61, apartat 2, de la
+             Llei 6/2014. A aquest efecte, la persona beneficiària subscriu mensualment un document de reconei-
+             xement de deute a favor del Govern per l’import de l’ajut econòmic ocasional que rep.
+             ii) El reconeixement de deute comporta l’obligació de no alienar o gravar els béns de la persona deutora,
+             i de no renunciar a drets d’índole econòmica o patrimonial mentre el deute no hagi estat liquidat, llevat
+
+
+
+Govern
+             que hagi estat autoritzada expressament pel ministeri.
+
+
+
+
+                                                           www.bopa.ad
+                                                                                                         Dipòsit legal: AND.2-2015
+         Núm. 32                                         25 de maig del 2016                                                   5/19
+
+
+
+
+             iii) La reclamació del deute ha de tenir lloc quan es deixi de percebre la prestació o les prestacions eco-
+             nòmiques que han originat el deute, o quan la persona beneficiària, els familiars o les altres persones
+             obligades disposin d’ingressos suficients per liquidar el deute. En cas que calgui recórrer a l’execució
+             patrimonial dels béns de la persona deutora, no pot materialitzar-se sobre l’habitatge habitual, si és
+             per a ús propi o si és el domicili únic dels cònjuges i/o dels fills menors, que tinguin una discapacitat o
+             que es trobin en situació de desocupació involuntària, i/o d’altres persones que formin part de la unitat
+             familiar de convivència i que es trobin en una situació de precarietat.
+             iv) El reconeixement de deute també s’aplica en el casos previstos a la disposició addicional d’aquest
+             Reglament.
+           g) Terminis per resoldre:
+           A l’efecte de garantir el dret establert a l’article 6, apartat 1, lletra j), de la Llei 6/2014, les sol·licituds de les
+           prestacions econòmiques s’han de resoldre al més aviat possible i, en qualsevol cas, en el termini màxim
+           de dos mesos comptats a partir de la data de presentació de la sol·licitud, amb la informació i la docu-
+           mentació completes. No obstant això, les sol·licituds d’ajuts econòmics ocasionals per atendre situaci-
+           ons urgents, puntuals i bàsiques de subsistència s’han de resoldre amb caràcter provisional i de forma
+           immediata, sense que en cap cas no es pugui superar el termini de 24 hores.
+
+         Article 6. Protecció i comprovació de dades, confidencialitat i secret professional
+         1. Obtenció, tractament i comunicació de les dades:
+         El professional informa les persones sol·licitants de les prestacions sobre les circumstàncies establertes
+         a l’article 13 de la Llei 15/2003, del 18 de desembre, qualificada de protecció de dades personals (d’ara
+         endavant, “la Llei 15/2003”), i demana el consentiment per a l’obtenció, el tractament i la comunicació
+         d’aquestes dades. No obstant això, no són obligatoris la informació i el consentiment esmentats, d’acord
+         amb els articles 18 i 20 de la Llei 15/2003, en els supòsits següents:
+           a) Quan el ministeri sol·liciti informació i dades a l’empara de l’article 45, segon paràgraf, i la disposició
+           addicional quarta de la Llei 6/2014. En aquest cas, els comuns i les altres entitats públiques i privades han
+           de facilitar la informació i les dades al ministeri per al compliment de les funcions de tramitació, valoració
+           i resolució de les prestacions econòmiques que té encomanades. La comunicació de dades entre enti-
+           tats de naturalesa pública ha de constar en el document de creació del fitxer públic de les prestacions
+           econòmiques de serveis socials i sociosanitaris.
+           b) Quan es tracti d’informació i dades sensibles referents a la salut, se’n pot fer la comunicació entre enti-
+           tats de naturalesa pública quan les dades sol·licitades siguin estrictament necessàries per al compliment
+           de les funcions encomanades i l’assoliment de les finalitats legítimes que en resulten. Així mateix, aquesta
+           informació i dades es poden comunicar en els altres supòsits establerts a l’article 20 de la Llei 15/2003.
+         2. Comprovació de dades:
+           a) El ministeri, amb el dret atorgat per les persones sol·licitants de les prestacions, pot comprovar la
+           veracitat de les dades consignades a les sol·licituds presentades així com en la documentació que s’hi
+           incorpori, i sol·licitar la informació rellevant, tant dels registres del mateix Govern com dels registres dels
+           comuns, els notaris, les companyies d’assegurances i la CASS, i dels registres de la propietat o equiva-
+           lents d’altres països, per verificar qualsevol concepte que es prengui en consideració per concedir una
+           prestació, sense perjudici del que estableix la Llei 15/2003.
+           b) El ministeri pot sol·licitar, per verificar el compliment dels requisits exigits, els certificats dels registres
+           de la propietat dels països que cregui convenients i les sol·licituds d’informació bancària de tots els bancs
+           d’Andorra.
+           c) El ministeri també pot dur a terme una valoració socioeconòmica per completar la informació presen-
+           tada en la sol·licitud.
+         3. Confidencialitat i secret professional:
+         Totes les persones que intervenen en el procés de tramitació, valoració i resolució de les prestacions econòmi-
+
+
+
+
+Govern
+         ques resten sotmeses al secret professional i han de respectar la confidencialitat de la informació i les dades.
+
+
+
+
+                                                              www.bopa.ad
+                                                                                                             Dipòsit legal: AND.2-2015
+         Núm. 32                                        25 de maig del 2016                                             6/19
+
+
+
+
+         4. D’acord amb l’article 24, lletra d), i la disposició addicional quarta de la Llei 6/2014, l’òrgan gestor de les
+         prestacions econòmiques recerca i comprova d’ofici els documents i la informació dels quals ja disposa
+         l’Administració, mitjançant la consulta directa prop dels departaments o serveis corresponents.
+
+         Article 7. Efectivitat de les prestacions econòmiques
+         1. Les prestacions econòmiques periòdiques, en cas que s’hagi emès una resolució favorable, s’atorguen
+         a partir del primer dia del mes següent a la data de la presentació de la sol·licitud o en què la persona
+         sol·licitant ha presentat tota la informació i la documentació requerides.
+         2. Els ajuts econòmics ocasionals per atendre situacions urgents, puntuals i bàsiques de subsistència tenen
+         efectes immediats. Els ajuts econòmics ocasionals restants tenen efectes a partir de la data de la resolució
+         favorable corresponent, excepte que aquesta resolució especifiqui una data diferent.
+         3. Les resolucions que deneguen les sol·licituds de prestacions econòmiques han d’estar motivades.
+
+         Article 8. Abonament de les prestacions econòmiques
+         1. Criteri general:
+         D’acord amb els articles 24, lletra b), i 28, apartat 8, de la Llei 6/2014, les prestacions econòmiques s’abonen
+         directament a la persona beneficiària mitjançant una transferència a un compte en el qual consti com a titular.
+         2. Pensions de solidaritat per a persones amb discapacitat i per a la gent gran:
+         Si la persona beneficiària és atesa en algun servei social o sociosanitari, les pensions de solidaritat per a
+         persones amb discapacitat i per a la gent gran s’abonen directament al proveïdor del servei, reservant un
+         15% de l’import d’aquestes pensions per a despeses personals que s’abona directament al beneficiari.
+         3. Prestacions familiars per fills a càrrec:
+         Les prestacions familiars per fills a càrrec s’abonen d’acord amb els criteris establerts a l’article 27, apartat
+         2, de la Llei 6/2014. Si els progenitors o la família d’acollida, segons correspongui, no apliquen la prestació
+         a la seva finalitat, es pot abonar la prestació directament al proveïdor d’un servei o al subministrador d’un
+         producte relacionat amb la criança dels infants o joves, per assegurar-ne l’interès superior.
+         4. Ajuts econòmics ocasionals:
+         Per abonar els ajuts econòmics ocasionals, se segueixen els criteris següents:
+           a) Els ajuts econòmics ocasionals per accedir a serveis i programes de serveis socials i sociosanitaris, i
+           per adquirir productes de suport no recuperables s’abonen, sempre que sigui possible, directament al
+           proveïdor del servei o el producte o a la persona o entitat que es faci càrrec de l’atenció de la persona
+           beneficiària.
+           b) Els altres ajuts econòmics ocasionals s’abonen directament a la persona beneficiària mitjançant una
+           transferència a un compte en el qual consti com a titular. Així mateix, per indicació de la persona bene-
+           ficiària i amb el seu consentiment, els ajuts es poden abonar a una entitat col·laboradora que en tingui
+           cura. En tot cas, el ministeri ha de reconèixer i respectar la capacitat jurídica de tota persona beneficiària,
+           i ha d’establir les salvaguardes adequades i efectives per impedir qualsevol tipus d’abús.
+           c) La modalitat d’abonament dels ajuts econòmics ocasionals ha de garantir la dignitat i afavorir l’auto-
+           nomia de les persones beneficiàries i, si escau, de les seves famílies, tot evitant-ne l’estigmatització. Per
+           això es poden utilitzar, segons els casos, les modalitats d’abonament que consisteixen en la transferèn-
+           cia bancària, els tiquets d’aliments, el xec servei o la targeta de pagament.
+         4. Embargabilitat de les prestacions econòmiques:
+         D’acord amb l’article 8, apartat 1, de la Llei 44/2014, del 18 de desembre, de l’embargament, les quantitats
+         percebudes com a prestacions econòmiques que es regulen en aquest Reglament són inembargables per
+         la part que no superi l’import del salari mínim interprofessional, és a dir, el LECS. En cas que les prestacions
+         econòmiques sobrepassin l’import del LECS, se segueixen els criteris reductors establerts en l’article 8 de
+
+
+
+Govern
+         la Llei 44/2014.
+
+
+
+                                                           www.bopa.ad
+                                                                                                      Dipòsit legal: AND.2-2015
+         Núm. 32                                       25 de maig del 2016                                                 7/19
+
+
+
+
+         Capítol segon. Prestacions econòmiques periòdiques
+         Article 9. Aspectes comuns de les pensions de solidaritat
+         1. La definició i els elements comuns de les pensions de solidaritat, la naturalesa i la garantia de la seva
+         prestació, els criteris d’abonament, els motius d’extinció, la comprovació de dades relatives a la persona
+         sol·licitant d’aquestes pensions, el seguiment, el control i la comprovació dels requisits exigits, i l’obligació
+         de reclamar-ne el reemborsament es regeixen per les disposicions de l’article 24 de la Llei 6/2014.
+         2. Sense perjudici del que estableix l’apartat anterior, la persona beneficiària de les pensions de solidaritat
+         ha de presentar al ministeri, durant el primer trimestre de cada any, una fe de vida. Així mateix, el ministeri
+         requereix a la persona beneficiària, amb la periodicitat que es consideri oportuna, que aporti una certifica-
+         ció de la residència efectiva i permanent a Andorra, i una declaració de la situació econòmica, i en concret
+         dels seus ingressos i patrimoni. En cas que la persona beneficiària no presenti aquesta documentació i
+         informació, després d’haver-la requerit dos vegades en aquest sentit, se suspèn el pagament de la pensió
+         fins que no faciliti la documentació i la informació esmentades.
+
+         Article 10. Pensions de solidaritat per a persones amb discapacitat
+         1. El concepte de les pensions de solidaritat per a persones amb discapacitat, els requisits exigits per ac-
+         cedir-hi i la quantia són els que estableix l’article 25, apartats 1, 2 i 3, de la Llei 6/2014.
+         2. Les compatibilitats de les pensions de solidaritat per a persones amb discapacitat es regeixen per les
+         disposicions de l’article 25, apartat 4, de la Llei 6/2014, tenint en compte que el càlcul del còmput anyal
+         de la compatibilitat d’aquestes pensions amb els ingressos procedents d’ocupacions a temps parcial, a
+         baix rendiment o d’altres per compte propi, es fa el darrer mes de cada any i es regularitza en funció dels
+         resultats dels ingressos obtinguts i el límit dels ingressos fins al 150% del LECS.
+         3. L’afiliació i la cotització a la seguretat social es fa d’acord amb el que preveu l’article 25, apartats 5 i 6, de
+         la Llei 6/2014, l’article 18 de la Llei de garantia dels drets de les persones amb discapacitat, del 17 d’octubre
+         del 2002, i la normativa de la seguretat social aplicable.
+         4. A les sol·licituds de pensions de solidaritat per a persones amb discapacitat s’ha adjuntar la documentació
+         relativa a la persona sol·licitant següent:
+           a) El passaport o el document nacional d’identitat, si és estrangera.
+           b) La targeta on consti el número de compte IBAN.
+           c) Els documents que justifiquen el patrimoni i els ingressos que computen d’acord amb l’article 25,
+           apartat 2, lletra d), de la Llei 6/2014:
+             - Els justificants de tots els ingressos no relacionats amb la CASS dels dotze mesos immediatament
+             anteriors a la presentació de la sol·licitud.
+             - Els extractes bancaris dels comptes dels quals sigui titular o cotitular, i els rebuts d’ingressos i des-
+             peses que no figurin en els extractes, dels dotze mesos immediatament anteriors a la presentació de
+             la sol·licitud.
+             - En cas que sigui empresària o autònoma, el compte de pèrdues i guanys de l’any natural anterior a
+             la presentació de la sol·licitud.
+             - Si és propietària d’immobles, el títol que n’acredita la propietat, a excepció de l’habitatge habitual.
+             - Si disposa d’actius financers i béns mobles, la documentació que ho justifica, a excepció dels mobles
+             d’ús personal i els vehicles adaptats per a persones amb discapacitat.
+
+         Article 11. Pensions de solidaritat per a la gent gran
+         1. El concepte de les pensions de solidaritat per a la gent gran, els requisits exigits per accedir-hi, la quantia
+         i les compatibilitats es regeixen per les disposicions de l’article 26, apartats 1, 2, 3, 4 i 5, de la Llei 6/2014.
+         2. L’afiliació i la cotització a la seguretat social es fan d’acord amb el que preveu l’article 26, apartat 5, de la
+         Llei 6/2014, i la normativa de la seguretat social aplicable.
+
+
+
+
+Govern
+         3. A les sol·licituds de pensions de solidaritat per a la gent gran s’ha d’adjuntar la documentació següent:
+
+
+
+
+                                                            www.bopa.ad
+                                                                                                         Dipòsit legal: AND.2-2015
+         Núm. 32                                        25 de maig del 2016                                                  8/19
+
+
+
+
+           a) Documentació relativa a la persona sol·licitant:
+             i) El passaport o el document nacional d’identitat, si és estrangera.
+             ii) La targeta on consti el número de compte IBAN.
+             iii) Els documents que justifiquen el patrimoni i els ingressos que computen d’acord amb l’article 26,
+             apartat 2, lletra d), de la Llei 6/2014:
+                 - Els justificants de tots els ingressos no relacionats amb la CASS dels dotze mesos immediatament
+                 anteriors a la presentació de la sol·licitud.
+               - Els extractes bancaris dels comptes dels quals sigui titular o cotitular, i els rebuts d’ingressos i des-
+               peses que no figurin en els extractes, dels dotze mesos immediatament anteriors a la presentació
+               de la sol·licitud.
+               - En cas que sigui empresària o autònoma, el compte de pèrdues i guanys de l’any natural anterior a
+               la presentació de la sol·licitud.
+               - Si és propietària d’immobles, el títol que n’acredita la propietat, a excepció de l’habitatge habitual.
+               - Si disposa d’actius financers i béns mobles, la documentació que ho justifica, a excepció dels mobles
+               d’ús personal i els vehicles adaptats per a persones amb discapacitat.
+              iv) La declaració relativa als familiars i les altres persones obligades, amb indicació de les dades d’identi-
+              ficació següents: el nom i els cognoms, la nacionalitat, el número del passaport o del document nacional
+              d’identitat, la data i el lloc de naixement, el domicili habitual, i el parentiu o el motiu de l’obligació de la
+              persona. En aquesta declaració la persona sol·licitant també fa constar, si escau, el fet que els familiars
+              i les altres persones obligades es neguen a aportar la informació i els documents requerits.
+           b) Documentació relativa als familiars i les altres persones obligades:
+           D’acord amb l’article 62, apartats 1 i 2, de la Llei 6/2014, per determinar si els familiars i les altres perso-
+           nes obligades disposen de recursos suficients per fer front a l’obligació d’ajudar la persona sol·licitant de
+           la pensió de solidaritat per a la gent gran, han de presentar la mateixa documentació assenyalada a la
+           lletra a), número iii), d’aquest apartat, relativa als familiars i a les altres persones obligades i, si escau, a
+           les unitats familiars de convivència respectives.
+         4. El ministeri només tramita les sol·licituds de pensions de solidaritat per a la gent gran si s’aporta tota la
+         documentació assenyalada a l’apartat 3, lletra a), d’aquest article.
+         5. En cas que els familiars o les altres persones obligades es neguin a aportar la informació i els documents
+         requerits, i així ho faci constar la persona sol·licitant de la pensió de solidaritat per a la gent gran en virtut de
+         la declaració esmentada a l’apartat 3, lletra a), número iv), d’aquest article, el ministeri estima la sol·licitud si
+         queden reunits la resta dels requisits exigits. Seguidament inicia el procediment per prendre les mesures
+         de constrenyiment i execució establertes a l’article 63 de la Llei 6/2014.
+         6. En el supòsit de les persones que perceben la prestació econòmica de jubilació mitjançant el pagament
+         d’un capital, d’acord amb els articles 194 a 197 del Decret legislatiu del 16 de setembre del 2015, de pu-
+         blicació del text consolidat de la Llei 17/2008, del 13 d’octubre, de la seguretat social, la prestació que els
+         correspongui es fracciona en períodes mensuals equivalents al salari mínim vigent en el moment de la
+         sol·licitud de la pensió de solidaritat per a la gent gran. Fins que no s’hagi esgotat el capital calculat d’acord
+         amb el que s’ha esmentat anteriorment, aquestes persones no poden començar a percebre la pensió de
+         solidaritat per a la gent gran que els correspongui.
+
+         Article 12. Prestacions familiars per fill a càrrec
+         1. El concepte de les prestacions familiars per fill a càrrec, els beneficiaris, els requisits exigits per accedir-hi,
+         la quantia i la durada es regeixen per les disposicions de l’article 27, apartats 1, 2, 3, 4, 5 i 7, de la Llei 6/2014,
+         que s’apliquen d’acord amb els criteris següents:
+           a) Poden sol·licitar aquestes prestacions, indistintament, qualsevol dels dos membres de la parella, i
+           s’atorga a un dels dos membres esmentats.
+
+
+
+Govern
+                                                             www.bopa.ad
+                                                                                                           Dipòsit legal: AND.2-2015
+         Núm. 32                                       25 de maig del 2016                                               9/19
+
+
+
+
+           b) En són beneficiaris la família formada per una parella, ja siguin cònjuges o membres d’una unió esta-
+           ble de parella, i el fill o els fills d’aquesta parella. En cas de ruptura de la convivència familiar, la persona
+           beneficiària és la que es fa càrrec del fill o els fills i, en el supòsit de custòdia compartida, les prestacions
+           es reparteixen a parts iguals. També en poden ser beneficiàries les famílies que acullin un menor tutelat
+           per l’Administració.
+           c) L’obligació consisteix a destinar les prestacions a compensar les despeses derivades de la criança dels
+           fills, és a dir, les despeses indispensables per a la manutenció, l’habitatge, la roba, la salut i les despeses
+           relacionades amb la formació i el lleure.
+           d) El ministeri requereix a la persona beneficiària de les prestacions familiars per fill a càrrec que aporti
+           cada any una certificació de la residència efectiva i permanent a Andorra, i una declaració de la situació
+           econòmica, en concret dels seus ingressos i patrimoni. En cas que la persona beneficiària no presenti
+           aquesta documentació i informació, després d’haver-la requerit dos vegades en aquest sentit, se suspèn
+           el pagament de la prestació fins que no faciliti la documentació i la informació esmentades.
+         2. Les incompatibilitats de les prestacions familiars per fill a càrrec són les que preveu l’article 27, apartat 6,
+         de la Llei 6/2014. En concret, aquestes prestacions no són compatibles amb els ajuts econòmics ocasionals
+         que tinguin la mateixa finalitat.
+         3. A les sol·licituds de prestacions familiars per fill a càrrec s’ha d’adjuntar la documentació següent:
+           a) El passaport o el document nacional d’identitat de la persona sol·licitant, si és estrangera.
+           b) La targeta on consti el número de compte IBAN de la persona sol·licitant.
+           c) Els documents que justifiquen el patrimoni i els ingressos que computen d’acord amb l’article 27,
+           apartat 3, lletra c), de la Llei 6/2014, relatius a la persona sol·licitant i a la resta de membres de la unitat
+           familiar de convivència:
+              - Els justificants de tots els ingressos no relacionats amb la CASS dels dotze mesos immediatament
+              anteriors a la presentació de la sol·licitud.
+              - Els extractes bancaris dels comptes dels quals siguin titulars o cotitulars, i els rebuts d’ingressos i
+              despeses que no figurin en els extractes bancaris, dels dotze mesos immediatament anteriors a la
+              presentació de la sol·licitud.
+              - En cas que siguin empresaris o autònoms, el compte de pèrdues i guanys de l’any natural anterior a
+              la presentació de la sol·licitud.
+              - Si són propietaris d’immobles, el títol que n’acredita la propietat, a excepció de l’habitatge habitual.
+              - Si disposen d’actius financers i béns mobles, la documentació que ho justifica, a excepció dels mobles
+              d’ús personal i els vehicles adaptats per a persones amb discapacitat.
+           d) L’acreditació de les circumstàncies relatives al naixement o l’adopció de l’infant o els infants que do-
+           nen dret a la prestació, mitjançant una certificació literal o en extracte de naixement de cadascun d’ells,
+           emesa pel Registre Civil.
+           e) L’acreditació, si escau, de la condició d’estudiants dels fills amb una edat compresa entre els 18 i els
+           25 anys, mitjançant un certificat d’inscripció del centre on cursen els estudis.
+           f) L’acreditació, si escau, de la separació matrimonial, el divorci o el cessament de la convivència de la pa-
+           rella amb fills en comú, mitjançant la còpia legalitzada de l’aute o la sentència que ho acredita i del conve-
+           ni regulador de les mesures paternofilials que en resulten, en concret pel que fa a la guarda i la custòdia
+           dels fills i a la pensió d’aliments. En cas d’impagament de la pensió d’aliments per part d’un dels progeni-
+           tors, s’ha d’adjuntar la diligència o la denúncia que acrediti que aquest impagament s’ha fet saber a l’òr-
+           gan judicial o del Cos de Policia.
+
+         Capítol tercer. Ajuts econòmics ocasionals
+         Article 13. Concepte d’ajuts econòmics ocasionals
+         1. Els ajuts econòmics ocasionals són ajuts personals o familiars de caràcter temporal destinats a finançar
+         despeses derivades de l’atenció a necessitats puntuals o per un període determinat.
+
+
+
+
+Govern
+                                                           www.bopa.ad
+                                                                                                       Dipòsit legal: AND.2-2015
+         Núm. 32                                      25 de maig del 2016                                             10/19
+
+
+
+
+         2. Les característiques i la tipologia dels ajuts econòmics ocasionals són les que regula l’article 28 de la Llei
+         6/2014, amb les precisions que s’estableixen en aquest capítol.
+         3. En el cas de les prestacions sociosanitàries, només es poden concedir ajuts econòmics ocasionals per
+         contribuir al pagament dels costos dels serveis socials. La part corresponent als serveis sanitaris es finança
+         d’acord amb la normativa de la seguretat social aplicable.
+
+         Article 14. Requisits generals dels ajuts econòmics ocasionals, compatibilitats i documentació
+         1. Per ser beneficiària dels ajuts econòmics ocasionals, la persona sol·licitant ha d’acreditar que és major
+         d’edat o menor d’edat emancipada, i també els requisits generals establerts a l’article 28, apartat 4, lletra
+         a), de la Llei 6/2014, amb les precisions següents:
+           a) No disposar dels recursos suficients per fer front a la situació que origina la sol·licitud, no obtenir
+           recursos suficients dels familiars i les altres persones obligades, i no obtenir altres ajudes de protecció
+           social a Andorra o a l’estranger, públics o privats:
+              i) Amb caràcter general, es considera que la persona o la família no disposa de recursos suficients quan
+              els seus ingressos, personals o familiars, són inferiors al LECS, i el seu patrimoni iguala el barem de
+              valoració patrimonial, calculats d’acord amb els criteris establerts als articles 31 i 32 de la Llei 6/2014
+              i en aquest Reglament.
+              ii) Els familiars i les altres persones obligades han de contribuir a la satisfacció de les necessitats de la
+              persona o la família relacionades amb l’atenció de les necessitats bàsiques i, si escau, l’adaptació de
+              l’habitatge.
+              iii) En el cas de les persones amb discapacitat, es considera que no disposen de prou recursos per viure
+              si els seus ingressos no superen el LECS personal ni el barem de valoració patrimonial.
+           b) Haver obtingut la prescripció tècnica per part d’un professional del servei d’atenció primària o d’un
+           altre servei social o sociosanitari del sector públic específic en relació amb l’ajut sol·licitat.
+           c) Acceptar i subscriure el pla d’atenció individual o familiar que correspongui.
+           d) Acceptar la participació que se li proposi en activitats de col·laboració al servei de la comunitat, quan
+           la persona beneficiària rebi ajudes per atendre necessitats bàsiques, sigui major d’edat o menor d’edat
+           emancipada, no tingui feina i estigui en condicions de poder fer la col·laboració.
+           e) Aportar la informació i els documents necessaris per accedir a l’ajut, i acceptar i facilitar les actuacions
+           de comprovació necessàries per accedir i fer el seguiment de l’ajut.
+           f) Estar inscrita al Servei d’Ocupació en situació de recerca de feina, no rebutjar cap oferta de treball ade-
+           quada que se li presenti i seguir la formació ocupacional que el Servei d’Ocupació consideri adequada,
+           si la persona beneficiària està en edat laboral i en condicions de treballar. Aquest requisit es fa extensiu
+           als altres membres de la unitat familiar de convivència.
+           g) Complir els altres requisits específics de l’ajut sol·licitat.
+         2. Els ajuts econòmics ocasionals són incompatibles amb els serveis i els programes que el Govern financi
+         col·lectivament a través de convenis o concerts de col·laboració pels mateixos conceptes.
+         3. A les sol·licituds d’ajuts econòmics individuals s’ha d’adjuntar la documentació següent:
+           a) El passaport o el document nacional d’identitat de la persona sol·licitant, si és estrangera.
+           b) La targeta on consti el número de compte IBAN de la persona sol·licitant.
+           c) Els documents que justifiquen el patrimoni i els ingressos relatius a la persona sol·licitant i a la resta
+           de membres de la unitat familiar de convivència:
+             - Els justificants de tots els ingressos no relacionats amb la CASS dels dotze mesos immediatament
+             anteriors a la presentació de la sol·licitud.
+             - Els extractes bancaris dels comptes dels quals siguin titulars o cotitulars, i els rebuts d’ingressos i
+             despeses que no figurin en els extractes bancaris, dels dotze mesos immediatament anteriors a la
+             presentació de la sol·licitud.
+             - En cas que siguin empresaris o autònoms, el compte de pèrdues i guanys de l’any natural anterior a
+             la presentació de la sol·licitud.
+
+
+
+Govern
+             - Si són propietaris d’immobles, el títol que n’acredita la propietat, a excepció de l’habitatge habitual.
+
+
+
+                                                           www.bopa.ad
+                                                                                                      Dipòsit legal: AND.2-2015
+         Núm. 32                                       25 de maig del 2016                                            11/19
+
+
+
+
+            - Si disposen d’actius financers i béns mobles, la documentació que ho justifica, a excepció dels mobles
+            d’ús personal i els vehicles adaptats per a persones amb discapacitat.
+          d) Els documents acreditatius del compliment dels requisits específics de l’ajut sol·licitat.
+         4. En cas d’impagament de la pensió d’aliments per part d’un dels progenitors, s’ha d’adjuntar la diligència
+         o la denúncia que acrediti que aquest impagament s’ha fet saber a l’òrgan judicial o del Cos de Policia.
+
+         Article 15. Tipus d’ajuts econòmics ocasionals i requisits específics
+         Els tipus d’ajuts econòmics ocasionals són els que estableix l’article 28, apartat 2, de la Llei 6/2014, amb
+         les precisions següents:
+         1. Ajuts econòmics ocasionals per atendre necessitats bàsiques:
+          a) Ajuts per contribuir a atendre situacions de precarietat:
+            i) La finalitat d’aquests ajuts consisteix a atendre necessitats de subsistència, inclosa la protecció sanità-
+            ria mínima quan sigui imprescindible, mitjançant la cobertura de la CASS de les persones o les famílies
+            que es troben en una situació de precarietat deguda a una malaltia, una dependència funcional, una
+            dificultat per incorporar-se al món laboral o una altra carència greu, d’acord amb la normativa vigent,
+            i sempre que no siguin perceptores de cap altra ajuda o prestació, pública o privada, d’una quantia
+            igual o superior i per a la mateixa finalitat, i alhora no disposin de familiars obligats que se n’hagin de
+            fer càrrec en els termes establerts a la Llei 6/2014.
+            ii) Requisits específics:
+               - Acreditar mitjançant informes oficials mèdics o psicològics, o de valoració social, que la situació de
+               precarietat en què es troba la persona o la família és deguda a una malaltia, una dependència funci-
+               onal, una dificultat per incorporar-se al món laboral o una altra carència greu.
+              - Complir el tractament terapèutic, rehabilitador o el pla d’intervenció social prescrit pel professional
+              o el servei especialitzat corresponent.
+              - Quan els ajuts s’adrecin a la cobertura de les necessitats bàsiques i al foment de l’autonomia i la
+              inserció sociolaboral de joves extutelats pel Govern o en situació de vulnerabilitat, o d’altres persones
+              incloses en programes de formació sociolaboral del ministeri, es requereix un pla individual que ha
+              d’incloure accions de capacitació, laborals i socials.
+              - Els ajuts destinats a joves extutelats pel Govern es poden percebre dels 18 al 21 anys, i en els altres
+              casos tenen una durada màxima de tres mesos, prorrogables tres mesos més.
+              - Per fomentar la inserció laboral dels perceptors d’aquests ajuts, es coordinen les accions oportunes
+              amb el Servei d’Ocupació. Així mateix, és possible compatibilitzar aquest ajut amb la realització de
+              treballs a temps parcial, sempre que l’import de l’ajut sumat als ingressos que s’obtinguin per qualsevol
+              altre concepte no superi el 150% del LECS.
+          b) Ajuts per a l’accés i l’ús d’un habitatge:
+            i) La finalitat d’aquests ajuts consisteix a facilitar l’accés i l’ús de l’habitatge, inclosos els subministra-
+            ments bàsics, a les persones en situació de precarietat, mitjançant la col·laboració en el pagament de
+            les despeses corresponents.
+            ii) Requisits específics:
+               - Acreditar un període mínim de tres anys de residència legal, efectiva i permanent a Andorra amb
+               anterioritat a la presentació de la sol·licitud.
+              - Presentar o comprometre’s a presentar, quan estigui obert el període a aquest efecte, una sol·licitud
+              d’ajut a l’habitatge de lloguer en forma de subvenció periòdica.
+              - En el supòsit dels ajuts per a l’accés a un habitatge de lloguer, la persona sol·licitant s’ha de compro-
+              metre a retornar l’import del dipòsit de garantia que se li hagi atorgat, un cop deixi d’ocupar l’habitatge.
+         2. Ajuts econòmics ocasionals per prevenir situacions de marginació, evitar l’exclusió i fomentar l’autonomia:
+
+
+
+Govern
+          a) Ajuts per a la socialització i el reforç escolar dels infants i joves:
+
+
+
+                                                            www.bopa.ad
+                                                                                                      Dipòsit legal: AND.2-2015
+         Núm. 32                                       25 de maig del 2016                                                12/19
+
+
+
+
+            i) La finalitat d’aquests ajuts consisteix a contribuir a les activitats de socialització, suport i reforç escolar
+            dels infants i joves, en horari extraescolar, de guarderies, de guardes d’infants a domicili i altres activitats
+            relacionades amb l’àmbit socioeducatiu, mitjançant la col·laboració al pagament del cost d’aquestes
+            activitats.
+            ii) Requisits específics:
+               - Que l’infant o el jove tingui entre 3 i 16 anys, o fins a 18 anys en cas de persones amb discapacitat.
+              - Acreditar que s’ha fet la sol·licitud de preinscripció a les activitats corresponents.
+          b) Ajuts a la família extensa per a la socialització i el reforç escolar dels infants i joves en acolliment familiar:
+            i) La família extensa pot accedir amb caràcter prioritari als ajuts per a la socialització i el reforç escolar
+            dels infants i joves que tinguin assignats en acolliment familiar d’acord amb una mesura de protecció
+            que hagi decidit l’autoritat judicial competent.
+            ii) La finalitat d’aquests ajuts i els requisits específics són els que estableix la lletra a) anterior.
+          c) Ajuts per fer possible que les persones grans i les persones amb discapacitat puguin continuar vivint
+          a la llar:
+            i) La finalitat d’aquests ajuts consisteix a fer possible que les persones grans i les persones amb disca-
+            pacitat puguin continuar vivint al seu domicili, sempre que ho vulguin, disposin d’autonomia suficient i
+            s’acompleixin les condicions adequades de convivència i habitabilitat del domicili, mitjançant la col·la-
+            boració al pagament de les despeses bàsiques i els subministraments indispensables de la llar.
+            ii) Requisits específics:
+               - Acreditar un període mínim de tres anys de residència legal, efectiva i permanent a Andorra amb
+               anterioritat a la presentació de la sol·licitud.
+              - En el supòsit de les persones grans, que tinguin una edat mínima de 65 anys o, en cas que siguin
+              vídues, de 60 anys.
+              - En el supòsit de les persones amb discapacitat, que siguin majors de 18 anys o menors d’edat
+              emancipades, i tinguin reconeguda la situació legal de discapacitat.
+         3. Ajuts econòmics ocasionals per accedir a serveis i programes de serveis socials i sociosanitaris:
+            i) La finalitat d’aquests ajuts consisteix a col·laborar per fer possible l’accés als serveis socials i socio-
+            sanitaris que són competència del Govern i que no tenen caràcter gratuït, mitjançant la contribució al
+            copagament d’aquests serveis. Pel que fa a les prestacions tècniques d’atenció diürna que consisteixen
+            en el servei de guarderies, el servei de casals de gent gran i els serveis d’esplai d’àmbit parroquial, que
+            són competència dels comuns d’acord amb l’article 34, apartat 4, de la Llei 6/2014, aquests darrers han
+            de promoure l’accés a les prestacions esmentades. A aquest efecte els comuns contribueixen que les
+            persones o les famílies que no disposen de prou recursos puguin fer front al preu públic dels serveis
+            que els competeixen.
+            ii) Requisits específics comuns als ajuts per accedir a serveis i programes de serveis socials i sociosanitaris:
+                - La persona beneficiària dels ajuts ha de ser atesa en un centre o servei públic o acreditat de ser-
+                veis socials i sociosanitaris. No obstant això, aquests ajuts també els poden rebre les persones amb
+                discapacitat, les persones amb problemes de salut mental i les persones amb malalties cròniques
+                greus que siguin ateses en un centre o servei a l’estranger, si concorren les circumstàncies que preveu
+                l’article 5, apartat 1, lletra b), de la Llei 6/2014.
+              - Excepcionalment, quan no hi hagi places públiques ni concertades per atendre la situació de neces-
+              sitat, es pot concedir una ajuda per rebre la prestació tècnica en un centre o servei privat autoritzat.
+              En aquests casos la quantia concedida no pot ser superior a la que li correspondria a la persona
+              beneficiària si fos atesa en un centre o servei públic.
+          a) Atenció domiciliària:
+            i) Es poden sol·licitar ajuts per als serveis d’atenció domiciliària, de teleassistència domiciliària, d’aco-
+            lliment familiar per a infants i adolescents tutelats pel Govern, per a dones víctimes de violència de
+
+
+
+Govern
+            gènere i per a guardes d’infants a domicili.
+
+
+
+
+                                                            www.bopa.ad
+                                                                                                          Dipòsit legal: AND.2-2015
+         Núm. 32                                         25 de maig del 2016                                               13/19
+
+
+
+
+             ii) Requisits específics:
+                - Acreditar un període mínim de tres anys de residència legal, efectiva i permanent a Andorra amb
+                anterioritat a la presentació de la sol·licitud.
+               - En els casos d’acolliment familiar s’ha de presentar el contracte específic que reguli aquest acolliment.
+            b) Atenció diürna:
+              i) Es poden sol·licitar ajuts per als serveis d’atenció precoç, de centre ocupacional, de centre de dia, de
+              temps lliure específic i de club social.
+              ii) Requisit específic: acreditar un període mínim de tres anys de residència legal, efectiva i permanent
+              a Andorra amb anterioritat a la presentació de la sol·licitud, excepte per als serveis d’atenció precoç,
+              en què no cal aquest període mínim de residència.
+            c) Atenció residencial:
+              i) Es poden sol·licitar ajuts per als serveis d’habitatge tutelat, de llars residencials i de residència assistida.
+              ii) Requisit específic: acreditar un període mínim de set anys de residència legal, efectiva i permanent
+              a Andorra amb anterioritat a la presentació de la sol·licitud.
+            d) Serveis de suport generals:
+              i) Es poden sol·licitar ajuts per contribuir al copagament dels serveis d’assistent personal, de suport a la
+              inserció laboral, de respir i per al transport sociosanitari. El servei de respir inclou ajuts per col·laborar
+              en les despeses extraordinàries que representa per a les famílies la cura dels menors que s’hagin de
+              traslladar fora del país per rebre tractaments oncològics o per a altres malalties greus.
+              ii) Requisit específic: acreditar un període mínim de tres anys de residència legal, efectiva i permanent
+              a Andorra amb anterioritat a la presentació de la sol·licitud, excepte que la persona beneficiària sigui
+              menor de 5 anys, cas en què no cal aquest període mínim de residència.
+            e) Serveis de suport a les víctimes de violència de gènere:
+              i) Es poden sol·licitar ajuts per col·laborar en el procés de recuperació de les víctimes de violència de
+              gènere.
+              ii) Requisits específics: acreditar la prescripció prop del Servei d’Atenció Integral a les Víctimes de Vio-
+              lència de Gènere, i disposar del pla individual corresponent.
+         4. Ajuts econòmics ocasionals per adaptar l‘habitatge, suprimir barreres arquitectòniques i de comunicació,
+         i per adquirir productes de suport no recuperables:
+           a) Ajuts per adaptar l’habitatge i suprimir barreres arquitectòniques i de comunicació:
+             i) La finalitat d’aquests ajuts consisteix a col·laborar en l’adaptació de l’habitatge per millorar l’accessi-
+             bilitat i l’autonomia de la persona amb discapacitat que té problemes de mobilitat o de la persona en
+             situació de dependència, o en la supressió de barreres arquitectòniques al domicili i la millora de la
+             comunicació d’acord amb els principis del disseny universal.
+             ii) Requisits específics:
+                - Acreditar un període mínim de tres anys de residència legal, efectiva i permanent a Andorra amb
+                anterioritat a la presentació de la sol·licitud, excepte que la persona beneficiària tingui una discapa-
+                citat sobrevinguda o que hagi empitjorat substancialment a partir de la concessió de l’autorització de
+                residència, cas en què no cal aquest període mínim de residència.
+               - Tenir reconeguda la situació legal de discapacitat o de dependència, i les dificultats de mobilitat,
+               d’acord amb la normativa vigent.
+               - Proposar les modificacions que cal fer en el domicili per millorar-ne l’accessibilitat. Per elaborar
+               aquesta proposta, la persona beneficiària pot comptar amb l’assessorament de l’Àrea d’Urbanisme del
+               Departament d’Ordenament Territorial i, d’altra banda, totes les propostes han de ser homologades
+               per l’Àrea d’Urbanisme esmentada.
+               - Acreditar que l’habitatge és propietat de la persona beneficiària o d’una de les persones de la unitat
+               familiar de convivència. En el cas d’un habitatge arrendat, es té en compte el que disposa l’article 46
+               de la Llei d’arrendaments de finques urbanes, del 30 de juny de 1999.
+
+
+
+Govern
+                                                              www.bopa.ad
+                                                                                                           Dipòsit legal: AND.2-2015
+         Núm. 32                                     25 de maig del 2016                                             14/19
+
+
+
+
+              - No tenir dret a rebre els ajuts econòmics o els productes de suport de la CASS o de qualsevol altra
+              entitat nacional o estrangera.
+              - En relació amb les sol·licituds presentades per persones amb discapacitat, no es tenen en compte
+              els seus ingressos ni el seu patrimoni per atorgar l’ajut, però es consideren per determinar la quantitat
+              que es concedeix per aquest concepte, d’acord amb paràmetres objectius.
+          b) Ajuts per adquirir productes de suport no recuperables:
+            i) La finalitat d’aquests ajuts consisteix a col·laborar en la millora de l’autonomia de les persones amb
+            discapacitat o en situació de dependència, mitjançant dispositius, instruments, tecnologies i programaris
+            de caràcter no recuperable.
+            ii) Requisits específics:
+               - Acreditar un període mínim de tres anys de residència legal, efectiva i permanent a Andorra amb
+               anterioritat a la presentació de la sol·licitud, excepte que la persona beneficiària tingui una discapa-
+               citat sobrevinguda o que hagi empitjorat substancialment a partir de la concessió de l’autorització de
+               residència, en què no cal aquest període mínim de residència.
+              - Que els productes de suport no siguin ortoprotèsics ni es tracti d’altres productes de caràcter sanitari.
+              - No tenir dret a rebre els ajuts econòmics o els productes de suport de la CASS o de qualsevol altra
+              entitat nacional o estrangera.
+              - En relació amb les sol·licituds presentades per persones amb discapacitat, no es tenen en compte
+              els seus ingressos ni el seu patrimoni per atorgar l’ajut, però es consideren per determinar la quantitat
+              que es concedeix per aquest concepte.
+          c) Ajuts per adaptar vehicles per a persones amb discapacitat i mobilitat reduïda:
+            i) La finalitat d’aquests ajuts consisteix a contribuir a l’autonomia i la mobilitat de les persones amb
+            discapacitat, mitjançant la col·laboració en el pagament de les adaptacions exigides legalment en el
+            carnet de conduir dels vehicles de persones amb discapacitat i mobilitat reduïda.
+            ii) Requisits específics:
+               - Acreditar un període mínim de tres anys de residència legal, efectiva i permanent a Andorra amb
+               anterioritat a la presentació de la sol·licitud, excepte que la persona beneficiària tingui una discapa-
+               citat sobrevinguda o que hagi empitjorat substancialment a partir de la concessió de l’autorització de
+               residència, cas en què no cal aquest període mínim de residència.
+              - Tenir reconeguda la situació legal de discapacitat i les dificultats de mobilitat, d’acord amb la nor-
+              mativa vigent.
+              - No haver obtingut una prestació econòmica per a l’adaptació d’un vehicle en els darrers quatre anys
+              immediatament anteriors a la presentació de la sol·licitud.
+              - No tenir dret a rebre els ajuts econòmics o els productes de suport de la CASS o de qualsevol altra
+              entitat nacional o estrangera.
+              - Que el carnet de conduir de la persona beneficiària especifiqui les adaptacions sol·licitades.
+              - No es tenen en compte els ingressos ni el patrimoni de la persona beneficiària per atorgar l’ajut,
+              però es consideren per determinar la quantitat que es concedeix per aquest concepte.
+         5. Ajuts econòmics ocasionals per atendre situacions urgents, puntuals i bàsiques de subsistència:
+          i) La finalitat d’aquests ajuts consisteix a atendre les persones que es troben en una situació d’urgència
+          social a Andorra, amb independència de la seva situació administrativa.
+          ii) Aquests ajuts poden adreçar-se a la cobertura d’alguna o algunes de les necessitats següents:
+             - Per a la manutenció, i en concret l’alimentació, la higiene i la roba.
+             - Per a l’allotjament, i en concret el manteniment de l’habitatge, el sojorn en un establiment hoteler o
+             altres modalitats d’allotjament.
+
+
+
+Govern
+                                                         www.bopa.ad
+                                                                                                     Dipòsit legal: AND.2-2015
+         Núm. 32                                      25 de maig del 2016                                             15/19
+
+
+
+
+              - Per al retorn al lloc d’origen, i en concret la col·laboració en les despeses per desplaçar-se fins a la
+              representació diplomàtica més propera.
+              - Per cobrir altres necessitats urgents.
+          iii) Requisits específics:
+              - Que les situacions que donen lloc a la concessió dels ajuts tinguin caràcter puntual i siguin degudes
+              a un fet imprevisible.
+              - Que les situacions afectin necessitats bàsiques de subsistència.
+              - Que les situacions requereixin l’actuació immediata per evitar danys greus i irreparables.
+              - La prescripció per part del professional encarregat del Servei d’Atenció Immediata (d’ara endavant, “el
+              SAI”) o d’altres professionals habilitats per fer aquestes funcions.
+          iv) Aquests ajuts tenen una durada màxima de quinze dies naturals, prorrogables excepcionalment i de
+          forma justificada durant quinze dies naturals més. A partir d’aquesta data es dóna per finalitzada l’ajuda
+          d’urgència, si bé la persona beneficiària, si escau, podrà accedir a algun dels ajuts econòmics ordinaris.
+          v) El ministeri pot subscriure convenis de col·laboració amb entitats de serveis socials i sociosanitaris
+          acreditades per gestionar aquests ajuts.
+
+         Article 16. Quanties màximes dels ajuts econòmics ocasionals
+         1. La referència general per determinar les quanties màximes que es poden concedir en concepte dels
+         ajuts econòmics ocasionals és el LECS, calculat d’acord amb els criteris que estableix l’article 31 de la Llei
+         6/2014. Aquestes quanties màximes es modulen en funció de la naturalesa i el tipus d’ajuts, de la neces-
+         sitat que cal cobrir, dels recursos de la persona beneficiària i de les partides pressupostàries assignades.
+         2. Les quanties màximes que es poden concedir segons els tipus d’ajuts econòmics ocasionals són les
+         següents:
+          a) Ajuts per contribuir a atendre situacions de precarietat: l’import equivalent al LECS mensual personal
+          o familiar, segons correspongui.
+          b) Ajuts per a l’accés i l’ús de l’habitatge: l’import equivalent al LECS mensual personal i al 150% del LECS
+          mensual personal quan es tracti de persones beneficiàries de la pensió de solidaritat per a persones
+          amb discapacitat.
+          c) Ajuts per a l’acolliment i la manutenció d’infants: l’import equivalent al 50% o el 70% del LECS mensual
+          personal, segons siguin menors de 14 anys o tinguin 14 anys o més, respectivament. Aquests topalls es
+          poden incrementar per fer front a altres despeses bàsiques necessàries per a l’infant.
+          d) Ajuts per contribuir a les prestacions de suport per a l’acolliment de dones víctimes de violència de
+          gènere, per al procés de recuperació de les dones víctimes de violència de gènere, per al servei d’assis-
+          tència personal, per al suport a la inserció laboral, i per als serveis de respir: l’import equivalent al LECS
+          mensual personal. En cas d’acolliment amb fills, s’incrementa la quantia màxima d’acord amb els criteris
+          que estableix l’article 31, apartat 2, de la Llei 6/2014.
+          e) Ajuts per contribuir al pagament del cost de la part social dels programes de serveis socials i sociosanitaris
+          que consisteixen en l’atenció domiciliària i l’atenció diürna: l’import equivalent al LECS mensual personal.
+          f) Ajuts per contribuir al pagament del cost de la part social dels programes de serveis socials i sociosa-
+          nitaris que consisteixen en l’atenció residencial: l’import equivalent al LECS mensual personal.
+          g) Ajuts per adaptar l’habitatge i suprimir barreres arquitectòniques i de comunicació, per adquirir pro-
+          ductes de suport no recuperables i per adaptar vehicles per a persones amb discapacitat i mobilitat
+          reduïda: segons els costos mitjans del mercat, que es modulen en funció dels ingressos i el patrimoni.
+          h) Ajuts per atendre situacions urgents, puntuals i bàsiques de subsistència: l’import equivalent al LECS
+          mensual personal o familiar, segons correspongui, si tenen com a finalitat cobrir necessitats de manu-
+          tenció i allotjament. Per a la resta d’ajuts urgents la quantia màxima és un LECS mensual personal.
+
+         Article 17. Durada, revisió i extinció dels ajuts econòmics ocasionals
+         1. Els ajuts econòmics ocasionals no es poden concedir per un període superior a l’exercici pressupostari en
+         què s’hagin concedit, si bé es poden prorrogar quan així consti en el pla individual o familiar d’intervenció,
+
+
+
+
+Govern
+         sempre que la persona beneficiària segueixi aquest pla i col·labori en la millora de la seva situació.
+
+
+
+
+                                                          www.bopa.ad
+                                                                                                      Dipòsit legal: AND.2-2015
+         Núm. 32                                      25 de maig del 2016                                             16/19
+
+
+
+
+         2. Els ajuts econòmics ocasionals atorgats per un període superior a sis mesos s’han de revisar periòdi-
+         cament per comprovar que se segueixen complint els objectius del pla individual o familiar d’intervenció.
+         3. Els ajuts econòmics ocasionals s’extingeixen per alguna de les causes establertes a l’article 28, apartat
+         9, de la Llei 6/2014.
+
+         Capítol quart. Disposicions en matèria d’afiliació i cotització a la seguretat social de
+         les persones amb discapacitat
+         Article 18. Menors d’edat amb discapacitat
+         1. Les persones menors d’edat amb discapacitat que tenen la residència a Andorra gaudeixen de la cobertura
+         de la CASS com a drethavents dels pares, tutors o guardadors que hi cotitzen. No obstant això, quan aquests
+         pares, tutors o guardadors no estan obligats a afiliar-se a la CASS, han de donar-los cobertura mitjançant la
+         subscripció d’una pòlissa d’assegurances amb una entitat privada que ofereixi al menor d’edat amb disca-
+         pacitat una protecció que sigui equivalent, com a mínim, a la del règim de la CASS en la secció de malaltia.
+         2. En cas d’incompliment de l’obligació establerta a l’apartat anterior, els pares, tutors o guardadors del
+         menor d’edat amb discapacitat són responsables dels perjudicis que se’n puguin derivar.
+         3. El Govern ha d’afiliar les persones menors d’edat amb discapacitat al règim que correspongui de la CASS,
+         i ha de pagar la cotització que se’n derivi, en els supòsits següents:
+           a) Quan els pares, tutors o guardadors del menor d’edat amb discapacitat ho demanin al ministeri i acre-
+           ditin la manca de mitjans per acomplir l’obligació establerta a l’apartat 1 d’aquest article.
+           b) Quan l’autoritat judicial competent confiï al Govern la guarda i custòdia del menor d’edat amb disca-
+           pacitat.
+         4. En els casos que preveu l’apartat anterior, els familiars del menor d’edat amb discapacitat o les altres
+         persones obligades han de retornar al Govern les quantitats avançades si la seva situació econòmica mi-
+         llora, d’acord amb l’article 26, apartat 2, de la Llei de garantia dels drets de les persones amb discapacitat.
+
+         Article 19. Majors de 18 anys i menors de 65 anys amb discapacitat
+         El Govern ha d’afiliar les persones amb discapacitat majors de 18 anys i menors de 65 anys al règim espe-
+         cial de persones amb discapacitat, previst a l’article 222 de la Llei 17/2008, del 3 d’octubre, de la seguretat
+         social, i ha de pagar la cotització que se’n derivi, d’acord amb la normativa de la seguretat social aplicable,
+         si aquestes persones ho demanen al ministeri i reuneixen els requisits següents:
+           a) Que hagin estat valorades per la Comissió Nacional de Valoració (d’ara endavant “la Conava”) i hagin
+           estat declarades discapacitades amb un grau de menyscabament de les seves discapacitats físiques, psí-
+           quiques i/o sensorials del 33% com a mínim, d’acord amb l’article 22, apartat 3 del Reglament de regulació
+           de la Conava i d’establiment dels criteris i barems per al diagnòstic i la valoració de les disfuncions, les
+           discapacitats i els handicaps, del 10 de juny del 2004.
+           b) Que acreditin la residència legal, efectiva i permanent a Andorra, excepte en el cas de les persones que
+           el ministeri hagi autoritzat a residir a l’estranger per tractar la seva discapacitat, amb l’informe previ de la
+           Conava, i s’hagi comunicat aquesta decisió a la CASS, en els termes establerts a l’article 5 de la Llei 6/2014.
+
+         Article 20. Majors de 65 anys amb discapacitat
+         1. Les persones amb discapacitat majors de 65 anys accedeixen a la pensió de jubilació d’acord amb els
+         requisits i les condicions que estableixi la normativa de la seguretat social aplicable.
+         2. D’acord amb l‘article 25, apartat 6 de la Llei 6/2014, en cas que la pensió de jubilació sigui inferior a la
+         quantia de la pensió de solidaritat per a persones amb discapacitat, el Govern garanteix l’import de la
+         pensió de solidaritat esmentada. En el moment que correspongui, la CASS avisa amb una antelació de tres
+         mesos i informarà a la persona amb discapacitat o, si escau, als seus representants legals, sobre el drets
+         establerts a l’article 25, apartat 6 de la Llei 6/2014.
+
+
+
+Govern
+                                                           www.bopa.ad
+                                                                                                      Dipòsit legal: AND.2-2015
+         Núm. 32                                       25 de maig del 2016                                               17/19
+
+
+
+
+         Capítol cinquè. Procediments
+         Article 21. Normes aplicables
+         El procediment administratiu per tramitar les prestacions econòmiques de serveis socials i sociosanitaris
+         es regeix per les disposicions del capítol VIII del Codi de l’Administració, del 29 de març de 1989, amb les
+         precisions establertes en aquest capítol.
+
+         Article 22. Sol·licitud
+         1. La sol·licitud de les prestacions econòmiques de serveis socials i sociosanitaris es formalitza en l’imprès
+         oficial establert a aquest efecte. Aquests impresos estan a disposició de les persones interessades a les
+         dependències del Servei de Tràmits del Govern i en el seu portal d’Internet, i dels Centres d’Atenció Primària,
+         i s’han de presentar al Servei de Tràmits del Govern.
+         2. La persona sol·licitant ha d’acreditar que compleix els requisits establerts per al tipus de prestació que
+         demana en el moment de presentar la sol·licitud, i ha d’aportar tots els documents requerits. Si s’observa
+         que falten informació o dades, o que manquen els documents exigits, el ministeri s’adreça a la persona
+         sol·licitant perquè esmeni les omissions o mancances constatades, i l’adverteix que si no ho fa en el termini
+         de deu dies hàbils, llevat de causa justificada acreditada degudament, es considerarà que desisteix de la
+         seva sol·licitud i s’arxivarà l’expedient corresponent sense cap altre tràmit.
+         3. En la mesura en què sigui possible, el ministeri no ha d’exigir a la persona sol·licitant que aporti docu-
+         ments que hagi emès l’Administració o dels quals ja en disposi.
+
+         Article 23. Informe i proposta de resolució
+         1. Un cop registrada la sol·licitud i quan es disposi de tota la documentació requerida, l’àrea del ministeri
+         que gestiona les prestacions econòmiques de serveis socials i sociosanitaris tramet, en el termini màxim de
+         tres dies hàbils, l’expedient corresponent al servei d’atenció social primària de la parròquia on resideix la
+         persona sol·licitant o al servei d’atenció social especialitzat que correspongui, perquè elaborin el pla d’inter-
+         venció individual o familiar, i adjuntin a l’expedient l’informe social i la proposta de resolució de la sol·licitud.
+         2. Els serveis d’atenció social primària o especialitzat retornen l’expedient, amb l’informe social i la proposta
+         de resolució corresponents, a l’àrea del ministeri que gestiona les prestacions econòmiques de serveis
+         socials i sociosanitaris, en el termini màxim de quinze dies hàbils.
+         3. En els casos de prestacions econòmiques de serveis socials i sociosanitaris en què aquest Reglament
+         no exigeixi l’elaboració d’un pla d’intervenció individual o familiar, l’expedient es tramita directament i ínte-
+         grament prop de l’àrea del ministeri que gestiona aquestes prestacions.
+
+         Article 24. Resolució
+         1. Un cop l’expedient retorna a l’àrea del ministeri que gestiona les prestacions econòmiques de serveis
+         socials i sociosanitaris, aquesta àrea eleva la proposta de resolució al ministre encarregat dels afers socials
+         (d’ara endavant, “el ministre”), o a la persona en qui hagi delegat aquesta funció. El ministre o la persona
+         delegada resol la sol·licitud en el termini màxim de quinze dies hàbils.
+         2. La resolució ha de ser motivada i s’ha de notificar a la persona sol·licitant, i s’hi han d’indicar les possibles
+         reclamacions i recursos que s’hi puguin interposar, i l’òrgan competent i els terminis de què disposa per
+         fer-ho.
+         3. La sol·licitud s’ha tramitar i resoldre dins el termini establert a l’article 5, apartat 2, lletra g), d’aquest
+         Reglament, comptat des del dia en què es registra la sol·licitud al Servei de Tràmits del Govern o, en cas
+         s’hagin constatat omissions o mancances, des del dia en què s’hagin esmenat.
+         4. L’àrea del ministeri que gestiona les prestacions econòmiques de serveis socials i sociosanitaris tramet
+         una còpia de la resolució al servei d’atenció social primària de la parròquia on resideix la persona sol·licitant
+         o al servei d’atenció social especialitzat que correspongui, a efectes d’informació i seguiment.
+
+
+
+
+Govern
+                                                            www.bopa.ad
+                                                                                                         Dipòsit legal: AND.2-2015
+         Núm. 32                                       25 de maig del 2016                                               18/19
+
+
+
+
+         Article 25. Procediment simplificat
+         1. Els ajuts econòmics ocasionals per atendre situacions urgents, puntuals i bàsiques de subsistència es
+         tramiten mitjançant el SAI, ubicat a les dependències del ministeri, en virtut d’un procediment àgil i simplificat.
+         2. La sol·licitud dels ajuts econòmics ocasionals es presenta directament al SAI, que comprova si es tracta
+         d’una situació urgent, puntual i bàsica de subsistència. En cas que aquesta situació s’esdevingui fora de
+         l’horari d’atenció al públic, l’ajut se sol·licita a través del servei telefònic d’urgència, i es comunica tot seguit
+         al professional de guàrdia perquè hi intervingui immediatament.
+         3. El professional del SAI està facultat per resoldre immediatament la sol·licitud, i si la situació ho fa ne-
+         cessari, pot eximir la persona sol·licitant d’aportar algun dels documents exigits per aquest Reglament, tot
+         requerint-la, però, a presentar-los posteriorment.
+         4. En el termini màxim dels dos dies hàbils posteriors, s’ha de tramitar la sol·licitud pel procediment ordi-
+         nari a través del Servei de Tràmits del Govern. Dins el mateix termini, el SAI n’informa el servei d’atenció
+         social primària de la parròquia on resideix la persona sol·licitant o el servei d’atenció social especialitzat
+         que correspongui, als efectes que escaiguin.
+
+         Article 26. Procediment de reclamació de l’obligació de pagament, de constrenyiment i d’execució
+         1. En cas que el beneficiari de les prestacions econòmiques de serveis socials i sociosanitaris, els familiars o
+         les altres persones obligades hagin de fer efectiva una obligació de pagament d’acord amb les disposicions
+         d’aquest Reglament, el ministeri els concedeix un termini de vuit dies hàbils perquè ho facin, o acreditin
+         que no els correspon assumir-la o que no tenen la consideració de familiars o altres persones obligades,
+         d’acord amb l’article 62 de la Llei 6/2014.
+         2. En cas contrari, el ministeri incoa un expedient administratiu contradictori que es tramita d’acord amb
+         les disposicions del capítol VIII, apartats 1 a 4 del Codi de l’Administració, i que resol el ministre o la per-
+         sona en qui hagi delegat aquesta funció. La resolució ha d’establir si existeix o no l’obligació de pagament
+         esmentada a l’apartat anterior.
+         3. Contra la resolució que obliga a fer efectiva l’obligació de pagament al beneficiari de les prestacions eco-
+         nòmiques de serveis socials i sociosanitaris, als familiars o a les altres persones obligades, es pot interposar
+         recurs administratiu davant del Govern, en el termini d’un mes a comptar del dia en què s’hagi notificat la
+         resolució, d’acord amb l’article 124 del Codi de l’Administració. Tanmateix, de conformitat amb l’article 129
+         de la mateixa norma, la interposició del recurs no suspèn l’execució de la resolució impugnada.
+         4. Contra la desestimació del recurs administratiu es pot interposar recurs davant la jurisdicció adminis-
+         trativa, d’acord amb l’article 127 del Codi de l’Administració.
+         5. El ministeri adopta les mesures de constrenyiment i execució de les resolucions que obliguen a fer efectiva
+         l’obligació de pagament al beneficiari de les prestacions econòmiques de serveis socials i sociosanitaris, als
+         familiars o a les altres persones obligades, d’acord amb el procediment establert als articles 50 i següents
+         del Codi de l’Administració
+
+         Disposició addicional
+         1. La Llei 6/2014, del 24 d’abril, de serveis socials i sociosanitaris, i aquest Reglament, regulen els ajuts
+         econòmics ocasionals per atendre situacions urgents, puntuals i bàsiques de subsidència. No obstant això,
+         en cas que es plantegin altres situacions d’urgència i necessitat extrema que no s’hi prevegin i que calgui
+         atendre per causes humanitàries, d’acord amb la Declaració universal dels drets humans, que forma part de
+         l’ordenament jurídic andorrà, també es poden concedir ajuts, sempre que sigui per garantir la subsistència
+         i la dignitat de les persones. En aquest cas s’apliquen les disposicions i se segueix el procediment establert
+         en aquest Reglament per als ajuts econòmics ocasionals, en el que escaigui, i la resolució que concedeix
+         l’ajut ha de motivar la situació i la causa que ho justifica.
+         2. En el supòsit previst a l’apartat anterior, si la persona beneficiària de l’ajut és estrangera, la concessió de
+
+
+
+Govern
+         l’ajut es fa saber al seu país, a través de la representació diplomàtica corresponent, a l’efecte d’esbrinar si
+
+
+
+
+                                                            www.bopa.ad
+                                                                                                         Dipòsit legal: AND.2-2015
+         Núm. 32                                       25 de maig del 2016                                              19/19
+
+
+
+
+         existeixen ajuts en les mateixes situacions i per les mateixes causes, o per cercar formes de rescabalament
+         de l’ajut concedit. En tot cas s’aplica el reconeixement de deute previst a l’article 61, apartat 2, de la Llei
+         6/2014 i que regula l’article 5, apartat 2, lletra f), d’aquest Reglament.
+
+         Disposició transitòria primera
+         Les sol·licituds de prestacions econòmiques de serveis socials i sociosanitaris presentades amb anterioritat
+         a la data de l’entrada en vigor d’aquest Reglament es tramiten i es resolen d’acord amb les normes vigents
+         en el moment de la presentació d’aquestes sol·licituds, excepte que la persona sol·licitant manifesti per
+         escrit que accepta que la seva sol·licitud es tramiti i es resolgui d’acord amb aquest Reglament.
+
+         Disposició transitòria segona
+         Als efectes que estableix l’article 5 apartat 1, lletra b), de la Llei 6/2014, les persones amb discapacitat, les
+         persones amb problemes de salut mental i les persones amb malalties cròniques greus que a la data de
+         l’entrada en vigor d’aquest Reglament resideixin a l’estranger per tractar la seva discapacitat o malaltia,
+         poden continuar sol·licitant o rebent les prestacions econòmiques de serveis socials o sociosanitaris a què
+         tinguin dret. Tanmateix, en cas que es modifiquin les circumstàncies personals de les persones concernides
+         o que vulguin canviar de centre o servei, han de demanar autorització al ministeri competent en matèria
+         d’afers socials per sol·licitar o continuar rebent les prestacions esmentades.
+
+         Disposició derogatòria
+         1. Es deroguen expressament les normes reglamentàries següents:
+           a) El Decret del 18 de setembre del 2013, d’aprovació del Reglament regulador de les prestacions eco-
+           nòmiques d’atenció social, excepte el capítol cinquè del Reglament esmentat, que regula la prestació per
+           desocupació involuntària.
+           b) El Decret del 3 de setembre del 2014, d’aprovació del Reglament regulador de les prestacions familiars
+           per fill a càrrec.
+           c) Els capítols sisè i vuitè, relatius a la pensió de solidaritat i a les disposicions en matèria de seguretat so-
+           cial, respectivament, del Decret del 17 de novembre del 2004, d’aprovació del Reglament d’atenció soci-
+           al, de treball i de seguretat social de les persones amb discapacitat.
+         2. Amb caràcter general, també es deroguen totes les normes de rang igual o inferior a aquest Reglament
+         i que s’hi oposin.
+         Cosa que es fa pública per a coneixement general.
+
+         Andorra la Vella, 18 de maig del 2016
+
+         Antoni Martí Petit
+         Cap de Govern
+
+
+
+
+Govern
+                                                            www.bopa.ad
+                                                                                                        Dipòsit legal: AND.2-2015
+

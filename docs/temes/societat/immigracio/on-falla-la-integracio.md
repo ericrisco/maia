@@ -188,12 +188,33 @@ estalvia que algú hi torni esperant-hi el que no hi ha.
 
 ## Buits registrats
 
+> **Auditats contra la resta del corpus el 2026-09-13.**
+
 1. **La Llei general de sanitat de 1989**, articles 7 i 8, **i si es va
-   reglamentar mai**. **Prioritari.**
-2. **El termini real de pèrdua de cobertura de la CASS**: vint dies o
-   vint-i-cinc.
-3. **Si el reforç escolar de Càritas** va tenir successor després del 1996.
-4. **Quan es crea el Servei de Formació d'Adults.**
+   reglamentar mai**. **Prioritari.** — **`obert`, confirmat.** `Requereix font
+   externa: el BOPA.`
+2. ~~**El termini real de pèrdua de cobertura de la CASS**: vint dies o
+   vint-i-cinc.~~ — **`obert`, i ara se sap que la divergència és entre dues
+   fonts del corpus i no dins una.** **Aquesta fitxa en dona 25**;
+   [les dones migrants el 1997](./les-dones-migrants-el-1997.md) **en dona 20**.
+   **Són dues ponències del mateix volum de 1997.** **Divergència registrada, no
+   arbitrada.** `Requereix font externa: el reglament de la CASS de l'època.`
+   **I un avís, perquè el corpus no s'hi enganyi**: els **25 dies** que surten
+   a [el preu de l'acomiadament](../treball/el-preu-de-lacomiadament.md) **no
+   tenen res a veure** — **allò són 25 dies de sou per any treballat**, una
+   indemnització, no un termini de cobertura.
+3. **Si el reforç escolar de Càritas** va tenir successor després del 1996. —
+   **`obert`, confirmat.**
+4. ~~**Quan es crea el Servei de Formació d'Adults.**~~ — **`parcial`, i el
+   corpus el tenia amb fitxa pròpia.** [La formació
+   d'adults](../educacio/la-formacio-dadults.md) **no en dona la data
+   fundacional, però l'acota**: **Joan Ramon Marina i Amat n'era director des
+   del 1989**, de manera que **el servei ja existia aquell any**. I
+   [la cronologia escolar](../educacio/la-cronologia-escolar.md) **posa
+   l'arrencada de l'educació d'adults molt abans que la dels nens**: **el 1962,
+   les primeres classes de català que organitza el Consell General són per a
+   adults**. **El que sí que té data pròpia és una altra cosa**: el **Centre
+   d'educació bàsica d'adults**, del **1997**.
 5. **Dades d'habitatge**: quantes famílies vivien en habitació d'hotel o pis
    dividit, el 1989 i el 1997.
 6. **Els programes d'atenció directa de Càritas Andorrana**, que la ponència

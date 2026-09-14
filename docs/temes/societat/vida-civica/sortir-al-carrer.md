@@ -76,7 +76,17 @@ Dues coses que un lector no esperaria trobar al mateix text:
 ## Buits registrats
 
 - **Quantes manifestacions es comuniquen cada any** i si mai se n'ha prohibit
-  cap, no consta.
+  cap, no consta. — **`obert`, confirmat**: **és una dada d'execució i cap
+  document del corpus no la té.** **El que el corpus sí que té ara és el
+  principi de la sèrie**: **la manifestació del setembre del 2018 per la
+  despenalització de l'avortament**, descrita com **la primera de la història
+  del país** ([Vanessa Mendoza Cortés](../dones/vanessa-mendoza-cortes.md)), i
+  **la vaga de FHASA del 1933** ([el sindicalisme](../treball/el-sindicalisme.md)).
+  **Si aquella va ser realment la primera, la xifra anual d'abans del 2018 és
+  zero**, i **això canvia el sentit del buit**: no és una sèrie que falti, és
+  una sèrie que potser tot just comença. `deducció del corpus, no verificada.`
+  `Requereix font externa: el registre de comunicacions del ministeri
+  d'Interior.`
 - **El reglament d'armes** —la classificació i quines són prohibides— és
   reglamentari i **no és al recull de lleis**.
 - Els **66 articles** de la llei cobreixen molt més (espectacles, animals

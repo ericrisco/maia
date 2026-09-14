@@ -1,0 +1,160 @@
+FORA_DEL_CORPUS — OCR Tesseract català de quatre renders; pot contenir errors.
+Original PDF escanejat; pdftotext no extreu text. Quatre pàgines llegides visualment.
+Consulta13-09-2026. Titular Govern; reutilització pendent.
+URL: https://www.govern.ad/documents/d/guest/01_2026_03-instruccio-per-al-registre-de-les-transferencies-entre-entitats-per-al-conveni-cass-saas?download=true
+
+PÀGINA 1
+Govern d'Andorra
+Ministeri de Finances
+Intervenció General
+
+INSTRUCCIÓ Operacions pressupostàries i comptables conveni CASS-SAAS — 1
+
+
+PÀGINA 2
+Govern d'Andorra
+Ministeri de Finances
+Intervenció General
+
+INSTRUCCIÓ DEL 15 DE NOVEMBRE DEL 2017 SOBRE LES OPERACIONS
+COMPTABLES I PRESSUPOSTÀRIES EN RELACIÓ AMB LA FACTURACIÓ DEL
+SAAS A LA CASS PER FINANÇAR LES DESPESES ORIGINADES PER A L'ATENCIÓ
+SANITÀRIA, DELS BENEFICIARIS DE LA CASS PRESTATS EN L'ÀMBIT DEL SAAS
+
+Antecedents
+
+El dia 5 de febrer del 2014 la CASS i el SAAS van signar el contracte transversal CASS-
+SAAS 2014, amb el qual intervenen la CASS com a entitat finançadora i compradora de
+serveis sanitaris, i el SAAS com a prestador d'aquests serveis, que actuen en aquest
+acte de forma vinculada a les directrius i orientacions estratègiques en matèria de política
+sanitària del Govern, que consten en els respectius contractes marc establerts entre el
+ministeri titular de la salut i la CASS, i entre el ministeri titular de la salut i el SAAS
+(contracte marc 2014 Ministeri de Salut i Benestar - CASS, signat el 28 de gener del
+2014).
+
+El contracte transversal entre la CASS i el SAAS preveia la totalitat del finançament que
+el SAAS rep des de la CASS per prestar els serveis assistencials als seus beneficiaris.
+
+L'activitat realitzada pel SAAS durant el 2014 als assegurats de la CASS, que es recollia
+a l'annex I del contracte esmentat, corresponia a l'activitat finançada d'acord amb un
+pressupost global prospectiu que tenia com a mitjans econòmics assignats el pressupost
+que s'estableix en l'annex III del mateix contracte, equivalent a 26.294.893 €.
+
+En canvi, l'activitat duta a terme des del SAAS durant el 2014 prestada als assegurats de
+la CASS i recollida a l'annex II del contracte corresponia a l'activitat finançada amb tarifes
+per acte o per forfet, i tenien assignada com a contraprestació econòmica la quantitat
+resultant del càlcul de les tarifes vigents a l'activitat efectivament realitzada sota aquestes
+modalitats.
+
+Per cobrar l'import corresponent al pressupost prospectiu, el SAAS facturava
+mensualment la dotzena part de la totalitat dels conceptes establerts a l'annex I com a
+activitat finançada amb pressupost global prospectiu, i la CASS executava la liquidació
+d'aquestes facturacions mensuals el dia 5 de cada mes segúent, sempre que hagués
+acusat recepció de tota la documentació i informació que li havia de ser lliurada i
+s'haguessin respectat les condicions estipulades al contracte.
+
+Aquest contracte marc entre la CASS i el SAAS tenia com a vigència l'exercici 2014, però
+es Va prorrogar verbalment fins al 2017. El dia 27 d'abril del 2017, les dos entitats van
+signar un nou conveni, amb l'objectiu d'introduir un model de contraprestació que
+estimulés l'esforç en la millora de l'eficiència.
+
+Amb aquest nou conveni, s'estableix que la participació de la CASS en el finançament de
+les despeses del SAAS s'efectuarà exclusivament mitjançant les tarifes de responsabilitat
+iels altres procediments regulats en el mateix conveni.
+
+La vigència està establerta per un any a partir de la data de la signatura. Transcorregut
+aquest termini, el conveni estableix que s'entendrà com a renovat per períodes anuals
+mentré.no s'hagi notificat la rescissió. Així mateix, l'article 24 especifica que l'entrada en
+igor ésiel dia 1 de juny del 2017 i que, en cas de no poder iniciar-se el nou procediment
+8 acturació en la data d'entrada del conveni, es prorrogarà el sistema de pagament
+
+INSTRUCCIÓ Operacions pressupostàries i comptables conveni CASS-SAAS 2
+
+
+PÀGINA 3
+Govern d'Andorra
+Ministeri de Finances
+Intervenció General
+
+vigent actualment, per un període no superior a dos mesos, i que es regularitzarà
+posteriorment,
+
+El dia 1 de juny del 2017, la CASS i el SAAS van signar una addenda al conveni CASS-
+SAAS 2017 amb la qual, a banda d'altres modificacions que no s'enumeren en aquest
+informe, es modifica l'entrada en vigor, que es fixa en el dia 1 de juliol del 2017 i s'indica
+que, en cas de no poder-se iniciar el nou procediment de facturació en la data d'entrada
+del conveni, es prorrogarà el sistema de pagament vigent actualment, per un període no
+superior a dos mesos, i que es regularitzarà posteriorment.
+
+Per garantir l'estabilitat financera i de tresoreria de la CASS i del SAAS, un cop posat en
+marxa el nou sistema de contraprestació econòmica per serveis prestats pel SAAS a la
+CASS, els dies 19 i 26 de setembre del 2017, el Consell Directiu del SAAS i el Consell
+d'Administració de la CASS, respectivament, van aprovar l'addenda al conveni CASS-
+SAAS signat el 27 d'abril del 2017, que afecta els continguts i l'article seguent:
+
+"Article 24. Entrada en vigor. El present conveni entrarà en vigor l'1 de juliol del 2017"
+
+A efecles de garantir l'estabilitat financera i de tresoreria d'ambdós institucions s'acorda
+que la CASS abonarà al SAAS una quantitat equivalent a la dotzena part del pressupost
+general prospectiu, establert per al període del 2017, fins al desembre del 2017, inclòs.
+
+El diferencial entre la facturació real que el SAAS faci, en aplicació del present conveni, i
+la quantitat abonada per la CASS tindrà consideració d'avançament a compte que haurà
+de ser regularitzada i conciliada, durant un període no superior al primer trimestre del
+2018.
+
+Tot i que en l'acord del Consell Directiu del SAAS i del Consell d'Administració de la
+CASS s'especifica que "el diferencial entre la facturació real que el SAAS faci, en
+aplicació del present conveni, i la quantitat abonada per la CASS tindrà consideració
+d'avançament a compte", cal considerar que es tracta de transferències efectuades per
+un import fix, a l'espera de conèixer l'import definitiu de la facturació real segons el
+conveni del 27 d'abril del 2017, i per tant l'opinió de la Intervenció és que s'han de
+registrar en l'estat de rendiment financer i en la liquidació pressupostària, com a
+transferències corrents de les entitats.
+
+Conclusions
+
+Atenent l'exposat anteriorment, i per homogeneitzar el registre en els comptes de les
+entitats del diferencial que la CASS transfereix al SAAS entre la dotzena part del
+pressupost general prospectiu i ia facturació real del SAAS d'acord amb el conveni signat
+el 27 d'abril del 2017, la Intervenció General informa que cal procedir de la manera
+seguent:
+
+e El SAAS es registra com Un ingrés en l'estat de rendiment financer i en la liquidació
+pressupostària les dotzenes parts liquidades per part de la CASS. El SAAS haurà de
+reduir els ingressos pel diferencial entre l'ingrés rebut de la CASS i l'ingrés real
+
+... d'acord amb ia facturació segons el conveni signat el 27 d'abril dei 2017, mitjançant
+
+tina devolució d'ingrés en favor de la CASS. La CASS haurà de registrar la mateixa
+operació en el mateix mes, en favor del Govern, i registrar la reducció de la despesa
+
+4. corresponent.
+
+INSTRUCCIÓ Operacions pressupostàries i comptables conveni CASS-SAAS —3
+
+
+
+PÀGINA 4
+Govern d'Andorra
+Ministeri de Finances
+Intervenció General
+
+e Un cop el SAAS i la CASS procedeixin a aquesta devolució d'ingrés, el Govern haurà
+d'acordar l'import del qual es fa càrrec per finançar el dèficit pressupostari del SAAS
+si escau.
+
+e En cas en què l'import rebut pel SAAS sigui inferior al que hauria estat segons el
+
+conveni del 27 d'abril del 2017, el Govern acordarà si escau el finançament d'aquest
+diferencial mitjançant una transferència corrent suplementària.
+
+Andorra la Vella, 15 de novembre del 2017
+
+art
+Meritxell Bonell TVget
+Interventora generals ets
+
+4
+
+INSTRUCCIÓ Operacions pressupostàries i comptabies conveni CASS-SAAS — 4

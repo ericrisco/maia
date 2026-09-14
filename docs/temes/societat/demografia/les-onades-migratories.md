@@ -152,9 +152,38 @@ primera onada és de 1931 i és de carreteres, no de central**.
 
 1. **La sèrie de població després de 1960.** La taula s'atura allà.
 2. **D'on venien** les 14.000 arribades, per nacionalitat i any.
-3. **El despoblament de Canillo**: on va anar aquella gent.
-4. **Quan es crea Escaldes-Engordany** com a parròquia i com afecta les sèries.
-5. **La carretera de 1916**: qui la va fer i amb quins obrers.
+3. **El despoblament de Canillo**: on va anar aquella gent. — **`obert`,
+   confirmat.** **Cap document del corpus no ho diu.** **El que sí que hi ha és
+   la conseqüència política, mesurada**: **Ordino i Canillo, les dues parròquies
+   més despoblades, són les dues que menys** —vegeu
+   [el referèndum constitucional de 1993](../../politica/sistema-electoral/el-referendum-constitucional-de-1993.md)—
+   **i la desigualtat del vot que això genera**
+   ([la desigualtat del vot](../../politica/sistema-electoral/la-desigualtat-del-vot.md)).
+4. ~~**Quan es crea Escaldes-Engordany** com a parròquia i com afecta les
+   sèries.~~ — **`resolt` pel quan, `obert` pel com afecta.** **El 1978**, i
+   **el corpus ho té per tres bandes**:
+   [la cronologia](../../historia/moments-historics/la-cronologia-dandorra.md)
+   —**de 24 a 28 consellers**—,
+   [la consciència nacional andorrana](../../politica/identitat-politica/la-consciencia-nacional-andorrana.md)
+   i, **des del 2026-09-13, amb el detall que ho explica**:
+   **Escaldes-Engordany no es va inventar, era el *quart de les Escaldes*
+   d'Andorra la Vella** ([quarts i veïnats](../../institucions/quarts-i-veinats/quarts-i-veinats.md)).
+   **I no és casual que fos aquell quart i no un altre**: **al referèndum del
+   28 d'octubre del 1977, l'opció presentada pel Quart de les Escaldes va
+   guanyar a Escaldes amb el 67,3%**
+   ([els primers referèndums](../../politica/sistema-electoral/els-primers-referendums.md)).
+   **La parròquia va néixer d'un quart que va fer campanya i la va guanyar a
+   casa seva.** **Com afecta les sèries de població segueix obert**, i **és una
+   pregunta real**: **abans del 1978 els habitants d'Escaldes compten dins
+   Andorra la Vella.**
+5. ~~**La carretera de 1916**: qui la va fer i amb quins obrers.~~ —
+   **`parcial`: el corpus no sap qui la va fer, però sap qui la va pagar.**
+   **[La casa als papers](../../historia/antic-regim/la-casa-als-papers.md)**
+   documenta que **el 1913, «durant uns anys, s'ha pagat un impost per fer les
+   carreteres»**, i que **els *padrals* de la carretera són llistes de cases**:
+   **es va pagar casa per casa.** **Els obrers segueixen sense nom** — **i val
+   la pena recordar que aquesta mateixa fitxa atribueix a aquella carretera
+   l'arribada de mà d'obra forana.**
 6. ~~**La clàusula de carreteres** dins la concessió de 1929 — text.~~
    **TANCAT A MITGES.** Claudine Tarrene en dona **el contingut**, encara que no
    el text literal: la companyia «havia de comprometre's a **reservar 1/10 de

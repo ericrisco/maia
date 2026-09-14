@@ -185,9 +185,18 @@ Barbero descriu bé **l'efecte**: un règim fet de decrets i de quotes anuals
 3. **L'ADMA**: quan es funda exactament, quantes sòcies, i què n'ha estat.
 4. **Dades sobre les conseqüències socials** que la ponència descriu sense
    xifres.
-5. **Quan apareix l'assegurança d'atur** a Andorra, si ho fa.
-6. **Quan deixa de perdre's la cobertura** de la Seguretat Social als vint dies i
-   per permís de maternitat.
+5. **Quan apareix l'assegurança d'atur** a Andorra, si ho fa. — **`obert`,
+   confirmat.** **Cap document del corpus no en registra cap.** **I el corpus té
+   la branca laboral prou treballada com perquè l'absència signifiqui alguna
+   cosa**: [el preu de l'acomiadament](../treball/el-preu-de-lacomiadament.md)
+   documenta que **encara es pot acomiadar sense motiu**, amb **25 dies de sou
+   per any treballat**. `Requereix font externa.`
+6. ~~**Quan deixa de perdre's la cobertura** de la Seguretat Social als vint dies
+   i per permís de maternitat.~~ — **`obert`, i abans de saber quan cal saber
+   quants.** **El corpus dona el termini amb dues xifres diferents**, totes dues
+   de ponències del **1997**: **vint dies aquí**, **vint-i-cinc a
+   [on falla la integració](./on-falla-la-integracio.md)**. **Divergència
+   registrada, no arbitrada.**
 
 ## Related
 

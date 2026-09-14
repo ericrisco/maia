@@ -1,0 +1,153 @@
+FORA_DEL_CORPUS — còpia primària, no dataset.
+Font: https://documents.bopa.ad/bopa-documents/037030/pdf/GD_2025_03_12_12_12_15.pdf
+Consulta: 2026-09-13. pdftotext -layout; 3 pàgines completes llegides i renders vistos.
+
+         Núm. 30                                           13 de març del 2025                                          1/3
+
+
+
+
+         Reglaments
+
+         Decret 80/2025, del 12-3-2025, de modificació del Decret de l’1-8-2018
+         d’aprovació del Reglament de l’accés a l’assistència sanitària pública.
+         En data 31-8-2022 el Govern va aprovar el Decret 349/2022, del 31-8-2022, de modificació del Decret de
+         l’1-8-2018 d’aprovació del Reglament de l’accés a l’assistència sanitària pública, que estableix el règim de
+         tercer pagador per als usuaris d’edat igual o superior als 65 anys en els actes i procediments mèdics, di-
+         agnòstics i rehabilitadors, sempre que la prestació es faci a Andorra, s’efectuï en el marc de la via preferent
+         i es facturi electrònicament.
+         En data 3-10-2022, mitjançant el Decret 393/2022, i en data 22-12-2022, a través del Decret 542/2022, el
+         Govern va modificar el Decret de l’1-8-2018 d’aprovació del Reglament de l’accés a l’assistència sanitària
+         pública per efectuar alguns ajustaments en les prestacions en règim de tercer pagador i per incorporar-hi
+         el col·lectiu de persones amb discapacitat, respectivament.
+         Posteriorment, en data 28-6-2023, el Govern va aprovar el Decret 336/2023, de modificació del Decret de
+         l’1-8-2018 d’aprovació del Reglament de l’accés a l’assistència sanitària pública, per incorporar la prestació
+         farmacèutica en les prestacions que gaudeixen del règim de tercer pagador.
+         Vist que escau incorporar la prestació de radiologia odontològica en la relació de prestacions en règim de
+         tercer pagador per a les persones d’edat igual o superior a 65 anys i per a les persones amb discapacitat;
+         El Govern, a proposta del cap de Govern, en la sessió de data 12 de març del 2025, aprova aquest Decret
+         amb el contingut següent:
+
+         Article únic
+         Es modifica l’article 19 del Reglament de l’accés a l’assistència sanitària pública, que queda redactat com
+         segueix:
+
+         “Article 19. Tercer pagador en la via d’atenció integrada (VAI)
+         1. Per incentivar el seguiment de la VAI per part dels usuaris, les consultes al metge referent gaudeixen
+         d’un règim de tercer pagador, sempre que siguin facturades electrònicament.
+         2. A més del que s’ha indicat en l’apartat anterior, per a les persones d’edat igual o superior a 65 anys i per
+         a les persones amb discapacitat, s’estableix el règim de tercer pagador de les prestacions fetes a Andorra
+         dins els circuits previstos de la VAI, sempre que es facturin electrònicament i que formin part d’alguna de
+         les categories següents:
+           Lletra clau                          Definició
+         AMI             Acte efectuat per infermeria
+         AMM             Acte efectuat per fisioterapeutes
+         AMO             Acte efectuat per ortofonistes i logopedes
+         AMU             Acte efectuat per ortoptistes
+         B               Acte d’anàlisi
+         C               Consulta al metge generalista
+         CD              Consulta al dentista
+         CS              Consulta al metge especialista
+         CMT             Visita no presencial de tramitació
+
+
+
+
+Govern
+         CTM             Visita no presencial al metge generalista
+
+
+
+
+                                                                www.bopa.ad
+                                                                                                    Dipòsit legal: AND.2-2015
+         Núm. 30                                           13 de març del 2025                                         2/3
+
+
+
+
+         CTE            Visita no presencial al metge especialista
+         CTP            Visita no presencial al psiquiatre
+         D              Extracció i cirurgia dentàries
+         DO             Obturació i cura
+         DQ             Acte d’anestèsia en odontologia
+         FAC            Contrast en RMN
+         K              Acte de diagnòstic
+         LO             Estada en llit d’observació
+         MAT            Material quirúrgic
+         MDA            Majoració visita domiciliària infermeria
+         MDF            Majoració visita domiciliària fisioterapeuta
+         MF             Majoració visita mèdica en festiu
+         MFA            Majoració visita infermeria en festiu
+         MN             Majoració visita mèdica nocturna
+         MNA            Majoració visita nocturna infermeria
+         MNF            Majoració visita mèdica nocturna en festiu
+         NPS            Consulta al metge psiquiatre
+         P              Pròtesi fixa
+         PE1            Punció-biòpsia de mama mitjançant estereotàxia
+         PE2            Punció-biòpsia mitjançant estereotàxia
+         PM             Pròtesi mòbil
+         Q              Acte quirúrgic
+         QA1            Utilització de sala per a actes de cirurgia ambulatòria
+                        Utilització de sala per a actes de cirurgia menor de
+         QC
+                        consultori
+         R              Acte de radiologia
+         RD             Actes de radiologia odontològica
+         RMN            Ressonància magnètica nuclear
+         TA1            Tomografia axial computeritzada de tipus 1
+         TA2            Tomografia axial computeritzada de tipus 2
+         TA3            Tomografia axial computeritzada de tipus 3
+         TA4            Tomografia axial computeritzada de tipus 4
+         TA5            Tomografia axial computeritzada de tipus 5
+
+         3. S’aplica el règim de tercer pagador per a les persones d’edat igual o superior als 65 anys i per a les per-
+         sones amb discapacitat en la dispensació de medicaments i en la dispensació de productes sanitaris que
+         es puguin facturar electrònicament, dins dels circuits de la VAI, si es compleixen les condicions següents:
+          a) La recepta ha de ser en suport de paper i amb signatura manual.
+          b) La farmàcia ha d’indicar en la recepta del pacient el nombre d’envasos dispensats, la data de la dis-
+          pensació i el segell de la farmàcia.
+          c) El pacient té l’obligació de conservar els tiquets dels medicaments reemborsables comprats durant la
+          darrera mensualitat i adjuntar-los a la recepta original.
+          d) La farmàcia ha de facturar a la CASS mitjançant el full electrònic.
+          e) La farmàcia només pot dispensar tractament per a un mes, llevat dels medicaments o productes sa-
+          nitaris amb envasos per a més temps de tractament.
+         4. El reembossament de la prestació farmacèutica percebut per una dispensació de medicaments o productes
+         sanitaris sense respectar les condicions previstes en aquest Decret es considera una prestació indeguda
+         en els termes de l’article 115 de la Llei 17/2008, del 3 d’octubre, de la seguretat social i, consegüentment,
+         se n’ha de reintegrar l’import a la CASS.
+
+
+
+Govern
+                                                                 www.bopa.ad
+                                                                                                   Dipòsit legal: AND.2-2015
+         Núm. 30                                          13 de març del 2025                                         3/3
+
+
+
+
+         5. Per aplicar el que està previst en els apartats 2 i 3, es consideren persones amb discapacitat les que han
+         estat valorades per la Conava amb un grau de menyscabament igual o superior al 33%. Amb la finalitat de
+         certificar el grau de menyscabament igual o superior al 33% i aplicar de forma automatitzada el règim de
+         tercer pagador a les persones amb discapacitat, es preveu la comunicació entre el ministeri encarregat
+         dels afers socials i la CASS del número de cens de les persones que disposen d’una valoració favorable del
+         grau de menyscabament atorgat per la Conava.”
+
+         Disposició final
+         Aquest Decret entra en vigor el dia 17 de març del 2025.
+         Cosa que es fa pública per a coneixement general.
+
+         Andorra la Vella, 12 de març del 2025
+
+         Per delegació
+         Conxita Marsol Riart
+         Ministra de Presidència, Economia, Treball i Habitatge
+
+
+
+
+Govern
+                                                                  www.bopa.ad
+                                                                                                  Dipòsit legal: AND.2-2015
+

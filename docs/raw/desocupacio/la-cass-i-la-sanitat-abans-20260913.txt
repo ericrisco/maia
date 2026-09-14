@@ -1,0 +1,137 @@
+FORA_DEL_CORPUS — instantània interna abans de revisió
+Origen: maia/docs/temes/societat/sanitat/la-cass-i-la-sanitat.md
+Consulta: 2026-09-13; conté afirmacions no verificades, no evidència externa ni dataset
+
+---
+type: article
+title: La CASS i la sanitat
+description: "Un sol hospital per a tot el país, i un sistema de copagament amb reemborsament."
+tema: temes/societat/sanitat
+veu: compilada
+epoca: contemporania
+apte_llengua: false
+font: viquipedia-ca
+timestamp: 2026-09-12T06:00:00Z
+tags: [societat, sanitat, institucions, vida-quotidiana]
+---
+
+# La CASS i la sanitat
+
+## La CASS
+
+**Caixa Andorrana de Seguretat Social.** Creada l'**abril del 1968**, gestiona
+administrativament, tècnicament i financerament el sistema sanitari andorrà
+([Viquipèdia](../../../fonts/viquipedia-ca.md)).
+
+**«La CASS» és una paraula quotidiana a Andorra**, i el corpus no la tenia. Va
+directament a
+[com funciona tot](../../vida-quotidiana/com-funciona-tot/com-funciona-tot.md),
+que la llistava com a buit.
+
+## El model: copagament i reemborsament
+
+**La cobertura no és absoluta.** El sistema funciona per **copagament**: pagues i
+la CASS et retorna una part.
+
+| Concepte | Retorn |
+| --- | --- |
+| Consultes d'especialista i medicaments | **75 %** |
+| Estades hospitalàries i cirurgia | **90 %** |
+
+Això és un model **diferent del de la sanitat pública espanyola**, on el pacient
+no paga al taulell. Per a un model de llengua, la conseqüència és pragmàtica:
+**a Andorra es parla de la sanitat en termes de percentatges i reemborsaments**,
+i això apareix en conversa normal d'una manera que no passa al sud.
+
+## L'hospital
+
+**Hospital Nostra Senyora de Meritxell**, a **Escaldes-Engordany**. Construït el
+**1993** — el mateix any de la Constitució — **en un terreny molt costerut**.
+**192 habitacions individuals amb bany.**
+
+**És l'únic hospital del país.**
+
+Es diu com la [patrona](../../costums/meritxell/meritxell.md), com tantes coses
+a Andorra.
+
+Que hi hagi **un sol hospital** és un fet estructural: per a qualsevol cosa que
+no s'hi pugui fer, cal sortir del país. D'aquí els **convenis d'assistència
+sanitària amb Espanya, França i Portugal**.
+
+El detall de **Portugal** no és decoratiu: el portuguès és la **tercera llengua
+materna** d'Andorra amb un **13,5 %**
+([dades](../../llengua/politica-linguistica/qui-parla-que.md)). Hi ha un conveni
+sanitari perquè hi ha una comunitat.
+
+## El SAAS
+
+**Servei Andorrà d'Atenció Sanitària** — el prestador públic. Identificat i
+**no documentat**: què cobreix, com es relaciona amb la CASS, quins centres té.
+**Buit registrat.**
+
+## Avís sobre les fonts
+
+Bona part del que es troba a la xarxa sobre la CASS ve de **gestories i
+assessories comercials** que venen serveis de residència. **Aquesta fitxa només
+recull el que coincideix amb fonts no comercials**, i per això és curta.
+
+Les xifres de cotització, els tipus i els requisits **no s'han escrit**, pel
+mateix criteri que a
+[nacionalitat i residència](../../institucions/nacionalitat-i-residencia/nacionalitat-i-residencia.md):
+dades que semblen precises, canvien amb cada reforma i vénen de qui té interès a
+explicar-les d'una manera determinada.
+
+**La font bona és la CASS mateixa i no s'ha obert.**
+
+## El que falta
+
+> **Auditat contra la resta del corpus el 2026-09-13.** **Aquest buit estava
+> escrit en una sola línia amb sis temes separats per punts volats, i per això
+> no s'havia pogut tancar per parts.** **Quatre dels sis ja tenen article
+> propi.** Es desglossa.
+
+- ~~**Cotitzacions i qui paga què.**~~ — **`resolt`.**
+  [La via preferent](./la-via-preferent.md) buida el sistema sencer: **els
+  percentatges de participació de la persona beneficiària**, **el 100% en
+  urgència encara que no se segueixi la via**, **què passa si el metge no té
+  conveni**, **qui no paga res**, i **la jubilació**: **pensió** o, si s'ha
+  cotitzat entre **60 i 180 mesos**, **el capital de tornada** (art. 195.1).
+- **La sanitat privada i el seu pes.** — **`parcial`.** **Pes, cap xifra**; però
+  el corpus en té un cas històric fitxat,
+  [la Clínica Vilanova](./la-clinica-vilanova.md), i
+  [de les iguales a l'hospital](./de-les-iguales-a-lhospital.md) situa la
+  transició del model privat al públic. **El pes actual segueix obert.**
+  `Requereix font externa: Estadística, o la memòria del SAAS.`
+- ~~**Els metges i on s'han format.**~~ — **`parcial`, i amb més matèria de la
+  que aquest article suposava.** [La reacreditació dels
+  metges](./la-reacreditacio-dels-metges.md) documenta **com Andorra resol la
+  formació dels seus professionals: signant convenis** —amb l'Acadèmia de
+  Ciències Mèdiques, amb la UOC per al Campus Virtual, amb la Universitat
+  d'Andorra el maig del 2000— **i el paral·lel exacte amb els mestres**, formats
+  a França i Espanya per a sistemes que no són el d'Andorra. I
+  [l'Escola d'Infermeria](./lescola-dinfermeria.md) fa el mateix amb la
+  infermeria, amb la xifra: **el pla en volia 150 en deu anys i en van sortir
+  111.** **El que segueix obert és on estudien medicina els metges andorrans**,
+  que **cap article del corpus no diu.**
+- ~~**La salut mental.**~~ — **`resolt`.** [La salut
+  mental](./la-salut-mental.md) té fitxa pròpia des de la ponència d'Obiols,
+  amb la data de partida: **els Serveis de Salut Mental del SAAS es posen en
+  marxa el 1998.**
+- **L'envelliment i la dependència.** — **`obert`, confirmat.** **És el buit més
+  net de tota la branca**: **cap article del corpus no el toca**, ni a sanitat ni
+  a [societat](../README.md). `Requereix font externa: la Llei de serveis
+  socials i sociosanitaris, que és al recull
+  ([`raw/lleis/serveis-socials.txt`](../../../raw/lleis/serveis-socials.txt)) i
+  no s'ha llegit.`
+- **Com es demana hora i com se'n parla** —que és **lèxic quotidià** i no és en
+  cap web. — **`obert`, confirmat, i per disseny.** **Això no s'omple amb
+  bibliografia**: és el mateix buit que declara
+  [com funciona tot](../../vida-quotidiana/com-funciona-tot/com-funciona-tot.md),
+  i **s'omple amb [parla espontània](../../../parla/espontani/README.md)**.
+
+## Related
+
+- [La salut mental](./la-salut-mental.md) — el servei del SAAS, des del 1998.
+- [Com funciona tot](../../vida-quotidiana/com-funciona-tot/com-funciona-tot.md)
+- [Nacionalitat i residència](../../institucions/nacionalitat-i-residencia/nacionalitat-i-residencia.md)
+- [Qui parla què](../../llengua/politica-linguistica/qui-parla-que.md)

@@ -256,8 +256,21 @@ provocació metodològica**— i no com una descripció d'Andorra.
    inclòs cap.
 5. **Si la representativitat que demanaven s'ha arribat a articular** d'alguna
    manera.
-6. **Per què els residents trien tan poc l'escola andorrana**, i si això ha
-   canviat.
+6. ~~**Per què els residents trien tan poc l'escola andorrana**, i si això ha
+   canviat.~~ — **`parcial`, i el «si ha canviat» té resposta: sí, i molt.**
+   **El corpus tenia les dues xifres i aquesta fitxa no les citava.**
+   [El mapa escolar del 2000](../educacio/el-mapa-escolar-del-2000.md) dona el
+   repartiment: **francès 3.585 alumnes (38,3%)**, **espanyol 3.578 (38,2%)**,
+   **andorrà 2.200 (23,5%)**. I [els tres
+   sistemes](../educacio/els-tres-sistemes.md) dona el moviment fins al
+   **2002-03**: **sistema andorrà +198,42%**, **francès +4,93%**, **espanyol
+   −21,68%**, **des de la instauració de l'ensenyament andorrà el 1982**.
+   **En vint anys el sistema andorrà es va triplicar i l'espanyol va perdre una
+   cinquena part**, i **tot i així el 2000 encara era el més petit dels tres.**
+   **El «per què» segueix obert** — **i el corpus avisa que la pregunta d'aquest
+   buit dona per fet que és cosa de residents**, quan **el 2000 tres de cada
+   quatre escolars del país sencer, andorrans inclosos, anaven a un sistema
+   estranger.**
 7. **L'antropòleg italià** que Rui cita sense nomenar.
 
 ## Related

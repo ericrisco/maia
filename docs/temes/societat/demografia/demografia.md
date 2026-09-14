@@ -1,67 +1,69 @@
 ---
 type: article
 title: Demografia
-description: 89.000 persones, i els nascuts a Andorra no són el grup més nombrós del seu propi país.
+description: 90.021 residents estimats i 94.596 registrats el juliol de 2026; origen, nacionalitat i llengua demanen dades diferents.
 tema: temes/societat/demografia
 veu: compilada
 epoca: contemporania
 apte_llengua: false
-font: viquipedia-ca
-timestamp: 2026-09-11T19:30:00Z
+font: estadistica-ad
+timestamp: 2026-09-13T15:10:34Z
 tags: [societat, demografia, immigracio]
 ---
 
 # Demografia
 
-## Les xifres
+## Les xifres amb data i definició
 
-Població: **89.058** habitants (2025). Els immigrants són el **59,1%** de la
-població (2024) ([Viquipèdia](../../../fonts/viquipedia-ca.md)).
+A **31 de juliol de 2026**, el Departament d'Estadística calcula **90.021
+residents estimats** i compta **94.596 persones registrades** als censos
+comunals. La mateixa font publica un creixement anual de l'1,9% per a
+l'estimació i del 0,5% per al registre.
+([Nota NP_A001_A003_20260813](../../../raw/estadistica-poblacio/a001-a003-2026-07.pdf),
+p. 1 i §3, p. 7.)
 
-Per país de naixement (estimació 2024):
+La [comparació de les dues sèries](dues-maneres-de-comptar-la-poblacio.md)
+conté el recompte per a les set parròquies. A Encamp i la Massana, el
+registre baixa respecte del juliol de 2025 mentre que l'estimació puja.
+No es pot interpretar la variació sense identificar primer què es compta.
+([Nota](../../../raw/estadistica-poblacio/a001-a003-2026-07.pdf), §3.1, p. 7.)
 
-| Origen | % |
-| --- | --- |
-| **Espanya** | **34,3%** |
-| **Andorra** | **32,1%** |
-| Portugal | 10% |
-| França | 5,6% |
+## Nacionalitat, naixement i llengua
 
-## El que això vol dir
+La taula oficial llegida classifica per **nacionalitat**, no per lloc de
+naixement ni per llengua. Entre els residents estimats, 40.128 són de
+nacionalitat andorrana, 21.225 espanyola, 4.263 francesa, 8.309 portuguesa
+i 16.096 d'altres nacionalitats.
+([Nota](../../../raw/estadistica-poblacio/a001-a003-2026-07.pdf), §3.2, p. 8.)
 
-**Els nascuts a Andorra no són el grup més nombrós d'Andorra.** Els nascuts a
-Espanya els superen.
-
-Aquesta dada reenquadra tot el projecte. Quan es diu que el català andorrà està
-infrarepresentat als models de llengua, no és només perquè hi hagi poca gent: és
-que **la variïtat andorrana és minoritària dins del seu propi territori**. No es
-tracta de 85.000 parlants, es tracta d'una fracció d'aquests 85.000.
-
-I explica també per què el país té un projecte lingüístic actiu i un Servei de
-Política Lingüística: no és nostàlgia, és aritmètica.
-
-## La immigració portuguesa
-
-Va començar de manera notable als **anys vuitanta** i va tenir el màxim el
-**2008**, amb **13.794 persones**, el **16,3%** de la població total. És la
-tercera comunitat del país i la que menys es coneix des de fora.
-
-## Política migratòria
-
-El **2002** el Govern va adoptar una política d'immigració amb **quotes**, que
-prioritzava espanyols i francesos, després els països de la Unió Europea, i
-després l'Espai Econòmic Europeu.
-
-## El que falta
-
-Les xifres oficials del Departament d'Estadística, que és la font primària i no
-s'ha consultat. L'evolució històrica de la població. La distribució per
-parròquies. I l'ús lingüístic real per grup d'origen, que és la dada que de
-veritat importaria per a aquest projecte. **Buit registrat.**
+Aquestes categories no mesuren quants residents parlen català andorrà.
+La versió anterior inferia que la varietat era minoritària a partir del
+país de naixement; la inferència es retira perquè no disposava d'una
+mesura d'ús lingüístic que la sostingués.
 
 ## Related
 
 - [Immigració](../immigracio/immigracio.md) — d'on ve la gent.
-- [Contacte de llengües](../../llengua/contacte-de-llengues/contacte-de-llengues.md) — quatre llengües en 89.000 persones.
+- [Contacte de llengües](../../llengua/contacte-de-llengues/contacte-de-llengues.md) — usos lingüístics.
 - [Educació](../educacio/educacio.md) — el sistema triple.
 - [La funció pública](../../institucions/govern/la-funcio-publica.md) — la plantilla de l'estat de 1970 a 2000, de 123 a 1.490 persones.
+
+## Buits registrats
+
+- **Tancat parcialment el 13-09-2026:** s'ha consultat la font primària
+  d'Estadística i s'ha incorporat la distribució per parròquies del juliol
+  de 2026. No s'ha reconstruït la sèrie històrica completa.
+- No s'han contrastat amb una peça primària identificada les xifres que
+  aquesta entrada atribuïa a [Viquipèdia](../../../fonts/viquipedia-ca.md):
+  total de 2025, percentatge d'immigrants i repartiment per país de
+  naixement de 2024. Queden retirades del cos fins a verificar període,
+  definició i taula; això no afirma que siguin falses.
+- La trajectòria històrica de la immigració portuguesa i l'afirmació sobre
+  prioritats de les quotes del 2002 resten pendents de fonts exactes.
+  La taula de nacionalitats de 2026 no les verifica.
+- No s'ha llegit una taula d'ús lingüístic per origen que permeti estimar
+  parlants de la varietat andorrana. Nacionalitat i naixement no resolen
+  aquest buit.
+- No s'han llegit les p. 2–6 i 9–11 de la nota mensual ni cercat encara
+  les peces històriques anteriors. No es registra una cerca fallida on
+  només hi ha lectura pendent.

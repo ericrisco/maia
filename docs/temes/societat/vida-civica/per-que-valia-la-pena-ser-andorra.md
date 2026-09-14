@@ -176,19 +176,56 @@ sap quines ni en quines condicions.
 
 ## Buits registrats
 
+> **Auditats contra la resta del corpus el 2026-09-13.** **Tres dels set ja
+> tenien resposta, sencera o a mitges, en altres branques** — **i un d'ells va
+> guanyar-la el mateix dia, des d'una tesi de geografia.**
+
 1. **El manuscrit del notable**: qui l'escriu, quan, i on és. **Prioritari** — és
    la millor explicació que té el corpus de per què la independència importava a
-   qui la vivia.
-2. **El servei militar a Andorra**: si n'hi va haver mai, i quan es va fixar
-   l'exempció. Aquest text pressuposa que no n'hi ha i **no ho documenta**.
-3. **La talla i el delme** que es pagaven a Andorra: quant eren i a qui.
-4. **Les mútues d'incendis**: noms, pobles, estatuts, si en queda cap.
-5. **Quines consòrcies prestaven diners**, i amb quines condicions.
-6. **El Politar, pàgina 277 i màxima 32**, contra l'original: Brutails cita per
+   qui la vivia. — **`obert`, confirmat.**
+2. ~~**El servei militar a Andorra**: si n'hi va haver mai, i quan es va fixar
+   l'exempció. Aquest text pressuposa que no n'hi ha i **no ho documenta**.~~ —
+   **`parcial`, i la pregunta estava mal plantejada.** **El corpus no té cap
+   servei militar andorrà**, però **sí que té l'obligació de servei que en fa
+   les funcions**: [el sometent](../../institucions/comuns-i-parroquies/el-sometent.md),
+   **una lleva parroquial que arriba del costum medieval al dret vigent amb el
+   mateix nom**, i que **la Llei 28/2022 encara organitza amb capità, deseners,
+   edats de 18 a 60 anys, formació obligatòria i assegurança d'accidents**.
+   **No és un exèrcit** —[Andorra com a microestat](../../institucions/petits-estats/andorra-com-a-microestat.md)
+   explica per què **la força no és una eina disponible per a un estat
+   petit**— **però tampoc no és l'absència que aquest text pressuposa.**
+   **El que segueix obert és la data de l'exempció**, si mai n'hi va haver una
+   d'escrita. `Requereix font externa.`
+3. ~~**La talla i el delme** que es pagaven a Andorra: quant eren i a qui.~~ —
+   **`parcial`, i és el mateix buit declarat des dels dos extrems.**
+   [La quèstia](../../historia/antic-regim/la-questia.md) **té els tres mots i
+   part de les quantitats**: **la *talla* és «el repartiment de l'exacció»**, i
+   **del *delme* en dona els metadors de les ordinacions del segle XV** —**vuit
+   sous de delme**, **sis feixos o garbes de delme de blat**, **sis quarters de
+   verema de delme**. **I aquella fitxa declara exactament el buit que aquesta
+   declara**: «**la relació entre quèstia, delme i talla — són tres coses i aquí
+   es toquen**». **Comptat un sol cop, és un buit i no dos.**
+4. **Les mútues d'incendis**: noms, pobles, estatuts, si en queda cap. —
+   **`obert`, confirmat**, i **bessó** del que declara
+   [l'associacionisme històric](./lassociacionisme-historic.md).
+5. **Quines consòrcies prestaven diners**, i amb quines condicions. —
+   **`obert`, i ara amb la referència exacta per anar-hi**: **Canturri, *La
+   consòrcia de casats d'Andorra*, 1989**, i **Mas & Mas, *Consòrcies i
+   germandats de Sant Julià de Lòria*, 1987**, localitzades a
+   [les tres fases](../../historia/historiografia/les-tres-fases.md).
+   **El corpus ja no cerca: encarrega.**
+6. ~~**El Politar, pàgina 277 i màxima 32**, contra l'original: Brutails cita per
    l'exemplar «de la Délégation permanente», i **el corpus no sap si totes les
-   còpies diuen el mateix** — ja té documentat que el Politar i el Manual Digest
-   circulen en versions que no coincideixen.
-7. **Els tres documents datats** —1422, 1698, 1796— sencers.
+   còpies diuen el mateix**.~~ — **`parcial`, i la sospita era fundada.**
+   **El 2026-09-13 el corpus n'ha trobat dos títols que no coincideixen** —el de
+   l'edició del 1983 i el de l'exemplar de la Casa de la Vall— **i l'avís del
+   mateix Brutails**: **«serà prudent no acceptar aquests textos sinó sota
+   benefici de revisió»**. Tot a
+   [els costumaris andorrans](../../historia/manual-digest/els-costumaris-andorrans.md).
+   **El que segueix obert és la pàgina 277 concreta**, i **ara se sap que cal
+   demanar-la a un exemplar identificat i no «al Politar».**
+7. **Els tres documents datats** —1422, 1698, 1796— sencers. — **`obert`,
+   confirmat.**
 
 ## Related
 

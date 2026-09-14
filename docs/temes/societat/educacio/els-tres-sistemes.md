@@ -132,15 +132,48 @@ Els universitaris que estudien al Principat van passar de **15 el curs
 
 - **L'estat actual**: totes aquestes xifres són de **~2003**. Cal la sèrie fins
   al 2026. **Buit registrat, prioritari.**
-- La **Universitat d'Andorra** avui, i el **bàtxel·lor**
-  ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)).
+- ~~La **Universitat d'Andorra** avui, i el **bàtxel·lor**
+  ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)).~~ —
+  **`parcial`, auditat el 2026-09-14: era un buit caducat.** **El corpus té
+  fitxa pròpia de [la Universitat d'Andorra](./la-universitat-dandorra.md)**,
+  amb **la Llei d'universitats del 20 d'agost del 1997 (BOPA 53, any 9)** i la
+  ponència del seu rector a la 13a Diada Andorrana del 2000.
+  **El «bàtxel·lor» també és al glossari que aquesta mateixa línia enllaça.**
+  **El que segueix `obert` és l'«avui»** —centres, titulacions, nombre
+  d'estudiants—, **i és el mateix buit que declara la fitxa de la universitat**:
+  **totes dues s'aturen el 2000.**
 - **Com tria la gent** el sistema, que és una decisió social carregada i no està
   documentada enlloc.
 - ~~Els col·legis congregacionals i el seu paper històric~~ — **tancat** a
   [l'ensenyament confessional](./lensenyament-confessional.md), que data el pas
   al català a **la segona meitat dels anys setanta** i en dona el mecanisme.
-- El lèxic escolar propi: **primera i segona ensenyança**, **ludoescola**,
-  **rentrée**, **lycée**.
+- ~~El lèxic escolar propi: **primera i segona ensenyança**, **ludoescola**,
+  **rentrée**, **lycée**.~~ — **`resolt` el 2026-09-13: el corpus els tenia tots
+  quatre**, al [glossari de mots
+  documentats](../../llengua/lexic-andorra/glossari-de-mots-documentats.md), i
+  aquest article ja l'enllaçava dues línies més amunt per al *bàtxel·lor*.
+
+  | Mot | Què vol dir | D'on ve |
+  | --- | --- | --- |
+  | **primera / segona ensenyança** | primària / secundària | **innovació local** |
+  | **ludoescola** | ludoteca | **innovació local** |
+  | **bàtxel·lor** | grau universitari | de l'anglès *bachelor* |
+  | **rentrée** | inici de curs — **pronunciat amb erra francesa** | gal·licisme |
+  | **lycée** | el liceu, **mai «liceu»** | gal·licisme |
+
+  > **Els dos primers són invenció andorrana i els dos últims són manlleus
+  > crus.** **El lèxic escolar del país reprodueix exactament el mapa dels
+  > [tres sistemes](./els-tres-sistemes.md)**: on el sistema és propi, la paraula
+  > és nova; on és francès, la paraula ve en francès sense adaptar. `deducció del
+  > corpus`: el glossari dona els mots, **no fa aquesta lectura**.
+  >
+  > **I el glossari hi afegeix una nota geogràfica que aquest article hauria de
+  > retenir**: **a les parròquies altes, especialment Canillo, més propera a
+  > França, hi ha hagut tradicionalment més gal·licismes.** **El repartiment dels
+  > tres sistemes també és un repartiment territorial.**
+
+  **El que segueix obert és si es fan servir avui i per qui**, que és feina de
+  [parla](../../../parla/README.md), no de bibliografia.
 
 ## Related
 

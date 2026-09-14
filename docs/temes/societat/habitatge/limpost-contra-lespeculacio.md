@@ -146,7 +146,17 @@ error: és una escala d'arrelament, amb dos esglaons.
 - **El règim de vinculació** entre persones jurídiques (article 8.3 de la Llei
   3/2024 modificada) **s'ha citat i no s'ha buidat**.
 - **Què és exactament «preu assequible»** ho fixen la Llei 15/2021 i la 30/2021,
-  citades però **no llegides en aquest punt**.
+  citades però **no llegides en aquest punt**. — **`obert` pel que fa a la
+  definició legal, confirmat el 2026-09-14**: **el corpus té la Llei 15/2021
+  llegida només en la part de l'INH** ([llogar un pis](./llogar-un-pis.md)) **i
+  no té la 30/2021.** **El que sí que té és un llindar d'accés que hi funciona
+  al costat**: **les sol·licituds es desestimen quan la llar no destinaria més
+  del 30% dels ingressos al lloguer**, i el ministeri calcula que **gairebé un
+  23%** dels expedients superarien aquest llindar en el context macroeconòmic
+  que descriu ([els recomptes del parc públic el 2026](./els-recomptes-del-parc-public-el-2026.md)).
+  **Marcat com a deducció del corpus, no com a definició**: **un criteri
+  d'admissió de sol·licitants no és el mateix que la fórmula del preu.**
+  `Requereix font externa: el text de la Llei 30/2021.`
 
 ## Related
 

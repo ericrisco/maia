@@ -208,12 +208,28 @@ l'altra**, perquè podria correspondre a l'aprovació o a una altra publicació.
 ## Buits registrats
 
 - **El règim de col·laboració de 1981** entre el copríncep episcopal i el govern
-  espanyol: text i contingut.
+  espanyol: text i contingut. — **`obert`, confirmat el 2026-09-14, i declarat
+  des dels dos extrems**: **[el marc legal de l'educació](./el-marc-legal-de-leducacio.md)
+  el demana com a «conveni de 1981 entre la Mitra d'Urgell i el Govern
+  espanyol», i el situa com una de les dues peces que expliquen per què calia
+  el 1993.** **L'altra peça, el decret francès, ja té data: 25 de gener i 7 de
+  maig del 1982.** **La del 1981 no.**
+  `Requereix font externa: el BOE del 1981 o l'arxiu de la Mitra.`
 - **El Reial decret 1027/93** sencer, i **la Consejería de Educación de
   l'ambaixada d'Espanya**: què fa exactament a Andorra.
 - **Per què el 90% fa religió** en centres aconfessionals.
-- **La delegació d'ensenyament mitjà del 1964** i la seva dependència de la Seu
-  d'Urgell.
+- ~~**La delegació d'ensenyament mitjà del 1964** i la seva dependència de la
+  Seu d'Urgell.~~ — **`parcial`, i el cos d'aquesta mateixa fitxa ja en té el
+  fet.** **El 1964 Espanya estableix a Andorra la Vella una delegació
+  d'ensenyament mitjà dependent de la Seu d'Urgell**, **que després es
+  transforma en institut de batxillerat**, i **la mateixa fitxa hi afegeix la
+  lectura: l'ensenyament mitjà espanyol a Andorra no penja de Madrid, penja de
+  la Seu.** **Ho repeteix [la cronologia escolar](./la-cronologia-escolar.md).**
+  **El que segueix `obert` és l'expedient administratiu**: **quina norma la crea
+  i quan deixa de dependre'n.**
+  **Defecte registrat, del tipus «buit declarat contra la font pròpia del
+  document»**: **abans de declarar un buit cal comprovar si el cos de l'article
+  ja el cobreix.**
 - **El quadre d'alumnes per nacionalitat i centre**, sencer i sense OCR.
 - **Quants mestres espanyols** hi ha hagut, i si algun s'hi ha quedat.
 - **Tot això el 2026.**

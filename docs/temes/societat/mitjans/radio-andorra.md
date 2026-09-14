@@ -120,7 +120,30 @@ estat, i qui en té els drets.
 - El paper d'Andorra durant la Segona Guerra Mundial en conjunt.
 - Qui era **Victòria Zorzano** — la primera veu. Mereix fitxa pròpia.
 - La programació: què s'hi emetia, en quines llengües, i quant en català.
-- Sud Ràdio i el transmissor del **Pic Blanc**.
+- Sud Ràdio i el transmissor del **Pic Blanc**. — **`parcial` des del
+  2026-09-13.** **De Sud Ràdio, el corpus en té més del que aquesta fitxa
+  suposava, repartit en tres articles**, **i amb una data que no encaixa amb la
+  d'aquí:**
+
+  | Què | On |
+  | --- | --- |
+  | **Emissora estatal francesa creada expressament per prendre-li mercat**, o —segons l'altra font— **oberta per França perquè no podia tancar Ràdio Andorra** | aquesta fitxa |
+  | **El Consell General les tanca totes dues el mateix dia: 5 de novembre de 1981** | [RTVA](./rtva.md) |
+  | **«1951-1958: Ràdio de les Valls; des del 1962, Sud Radio»** | [La consciència nacional andorrana](../../politica/identitat-politica/la-consciencia-nacional-andorrana.md) |
+
+  > `Divergència registrada, no arbitrada:` **aquesta fitxa situa Sud Ràdio com a
+  > resposta francesa d'època indeterminada; l'altre article la data del 1962 i
+  > la fa successora de «Ràdio de les Valls» (1951-1958).** **Cap dels dos no
+  > diu si són la mateixa emissora rebatejada o dues de diferents**, i **entre el
+  > 1958 i el 1962 hi queden quatre anys sense res.** `Requereix font externa: la
+  > cronologia de les concessions radiofòniques franceses a Andorra.`
+
+  **Del transmissor del Pic Blanc, en canvi, el corpus només en té la
+  constatació que li falta** — i **la té dues vegades**:
+  [energia i serveis](../../economia/energia-i-serveis/README.md) el declara
+  **«no documentat»** pel seu compte, raonant que **una emissió comercial des
+  del 1939 implica infraestructura de transmissió pròpia.** **Dos articles, el
+  mateix buit.** `Requereix font externa.`
 - **Qui era el director acusat**, i **si Ràdio Andorra va ser realment del
   govern franquista**. **Buit prioritari obert el 2026-09-13.**
 - **Les assemblees magnes** com a instrument de legitimació exterior.

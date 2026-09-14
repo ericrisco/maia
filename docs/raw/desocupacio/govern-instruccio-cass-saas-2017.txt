@@ -1,0 +1,4 @@
+FORA_DEL_CORPUS — pdftotext -layout no ha extret text del PDF escanejat.
+No és absència de contingut: quatre pàgines llegides visualment i derivat -ocr.txt separat.
+Consulta13-09-2026. Govern, drets reservats; cap dataset.
+

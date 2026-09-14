@@ -186,7 +186,15 @@ deliberat i és una dada**: **així ho deien**.
 
 1. **Jaume Botey**, *Comentari a 50 relats d'immigració* — **font citada, no
    consultada**.
-2. **Qui és Agustí Font** i des de quina organització escrivia.
+2. ~~**Qui és Agustí Font** i des de quina organització escrivia.~~ —
+   **`parcial`, i la meitat de la resposta era a la fitxa de font d'aquest
+   mateix article.** [`font-fenomens-socials-immigracio`](../../../fonts/font-fenomens-socials-immigracio.md)
+   registra que **escriu des de l'acció social cristiana**: cita **l'*Acta
+   Apostolicae Sedis***, el **Concili Vaticà II** (*Apostolicam Actuositatem*)
+   i **Jaume Botey**, i **argumenta en clau moral**. **L'organització concreta
+   no es nomena enlloc**, i **és l'única part del buit que segueix oberta**.
+   **Això també situa el buit 1**: **Botey no és una lectura qualsevol per a
+   aquest autor, és la seva.**
 3. **La feina de la conselleria d'Educació** que elogia: en què consistia.
 4. **Testimoni directe** d'aquella generació. **Fase 3**, i creuar amb
    [l'Arxiu d'Etnografia](../../cultura/museus-i-arxius/larxiu-detnografia.md).

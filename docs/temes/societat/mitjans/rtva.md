@@ -69,7 +69,23 @@ registre propi — i el corpus ja té branques separades per a
   espanyols i francesos.
 - Els altres mitjans del país: **Diari d'Andorra**, **El Periòdic**,
   **Altaveu**, **Bondia**, **Ara Andorra**, **Fòrum.ad** — **cadascun mereix
-  fitxa**, i tots són font de català d'Andorra escrit contemporani.
+  fitxa**, i tots són font de català d'Andorra escrit contemporani. —
+  **`parcial` des del 2026-09-13, i el buit és més urgent del que semblava.**
+  **Fitxa pròpia, cap; però el corpus ja depèn d'aquests diaris i ho fa
+  malament**: la fitxa de font
+  [premsa andorrana](../../../fonts/premsa-andorrana.md) **en llista cinc amb
+  URL** —Diari d'Andorra, Altaveu, Bondia, El Periòdic i La Ciutat— i **hi
+  registra un defecte greu**: **vint articles del corpus la tenen com a única
+  font i dinou no diuen de quin diari surt la dada, ni de quina data, ni amb
+  quin titular.**
+
+  **I [les capçaleres](./les-capcaleres.md) ja en té la cronologia**: **el Diari
+  d'Andorra apareix el 1991**, cosa que fixa un límit útil — **cap dada del
+  corpus que en vingui pot ser anterior.**
+
+  > **Escriure una fitxa per capçalera no és, doncs, feina de completesa: és el
+  > que faria verificable una cinquena part del corpus.** **Segueix obert**, i
+  > **ara amb la llista dels vint articles que hi esperen**, a la fitxa de font.
 
 ## Related
 

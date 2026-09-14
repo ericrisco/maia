@@ -132,4 +132,21 @@ institucions dins la llei vigent.**
 - **Què deia la norma de 1975** sobre els drets civils de la dona casada —el
   buit que va deixar obert
   [la cronologia legislativa](../../institucions/justicia/cronologia-legislativa.md)—
-  **segueix obert**: aquesta llei és la successora, no la resposta.
+  **segueix obert**: aquesta llei és la successora, no la resposta. —
+  **`parcial`, auditat el 2026-09-14: el text segueix faltant i el sentit ja
+  no.** **El corpus té la data, la matèria i la conseqüència**: **fins al 1975
+  la dona casada andorrana no tenia plens drets civils**, i **el 1975 és també
+  l'any en què els advocats entren als tribunals**. **I té la paradoxa**: **les
+  dones podien ser elegides des del 1973 i no tenien plens drets dins del seu
+  matrimoni fins al 1975** — **es podia governar el país abans que la pròpia
+  casa** ([el sufragi femení](../dones/el-sufragi-femeni.md)).
+  **Defecte registrat: el mateix buit està declarat a tres articles alhora**
+  —aquest, la cronologia i el sufragi femení— **i cap dels tres no ho sabia.**
+  `Requereix font externa: el text del decret de 1975.`
+- **El matrimoni civil**, auditat el 2026-09-14. **L'única altra ocurrència de
+  «matrimoni civil» a tot el corpus no és jurídica sinó política**: **el
+  copríncep episcopal el va declarar inacceptable durant la negociació
+  constitucional del 1992-93**, al costat de l'avortament
+  ([la transició nacional](../../historia/historia-recent/la-transicio-nacional.md)).
+  **El corpus té la llei que el regula i el veto que el va precedir, i res al
+  mig.**

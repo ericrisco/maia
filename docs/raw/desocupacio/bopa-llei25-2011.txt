@@ -1,0 +1,425 @@
+FORA_DEL_CORPUS — evidència normativa, cap dataset
+Font: https://documents.bopa.ad/bopa-documents/024003/pdf/74632.pdf
+Consulta: 2026-09-13; condicions textuals BOPA registrades
+Extracció: pdftotext -layout; peces veïnes excloses de la lectura
+
+Núm. 3 - Any 24 - 18.1.2012                Butlletí Oficial del Principat d’Andorra                                                       337
+
+
+
+
+Article 1                                                                                          compreses entre els 25 i els 30 anys. Es
+   S’aprova un suplement de crèdit d’un            Llei 25/2011,                                   preveu la possibilitat que els estudiants
+import de 224.311,18 euros per a la par-           del 29 de desembre, de                          d’aquesta franja d’edat puguin cotitzar a
+tida pressupostària següent:                                                                       la branca general per tenir dret a gaudir
+                                                   modificació de la Llei                          de les prestacions de reembossament. La
+  140 Departament d’Esports-140 Àrea
+  d’Esports-PROJ0006 Federacions i
+                                                   17/2008, del 3 d’octubre,                       quantitat que s’ha de cotitzar pren com
+                                                   de la seguretat social                          a base el 55% del salari mínim mensual
+  clubs-48210 Federacions i clubs es-
+                                                                                                   oficial.
+  portius
+                                                     Atès que el Consell General en la seva          Igualment, per a les persones deso-
+Article 2                                          sessió del dia 29 de desembre del 2011          cupades i inscrites al Servei d’Ocupació
+  Aquest suplement de crèdit es finança            ha aprovat la següent:                          que no reben la prestació econòmica
+mitjançant les partides pressupostaries
+                                                     llei 25/2011, del 29 de desembre, de          per desocupació involuntària, es crea
+següents:
+                                                   modificació de la Llei 17/2008, del 3           un altre règim especial que permet la
+  410-Departament d’Afers Europeus-410             d’octubre, de la seguretat social               cotització a la branca general i l’accés al
+  Serveis de Relacions Diplomàtiques-                                                              dret a les prestacions de reembossament.
+  Europa-PROJ0046 Amb. UE, Benelux                 Exposició de motius                             En aquest cas, la base de càlcul per a
+  i països acreditats-49200 A l’exterior,            L’aplicació de la Llei 17/2008, del 3         la cotització correspon al salari mínim
+  per l’import de 49.222,91 euros                  d’octubre, de la seguretat social ha po-        oficial mensual.
+  410-Departament d’Afers Europeus-                sat de manifest la necessitat d’adaptar           D’altra banda, els períodes d’inscrip-
+  410 Serveis de Relacions Diplomàti-              aquesta norma a la conjuntura socioe-           ció al Servei d’Ocupació computen per
+  ques Europa-PROJ0047 Amb. Espanya                conòmica actual.                                tenir dret a les prestacions de viduïtat
+  i països acreditats-49200 A l’exterior,             De forma urgent, i mentre s’analitza         i orfenesa, i s’evita d’aquesta manera
+  per l’import de 51.985,88 euros                  una reforma de fons del sistema de se-          la possible pèrdua del dret de generar
+  410-Departament d’Afers Europeus-                guretat social del Principat que permeti        aquestes prestacions per a persones que
+  410 Serveis de Relacions Diplomàti-              garantir la sostenibilitat del sistema de       han quedat desocupades.
+  ques Europa-PROJ0052 Ambaixada                   salut i de protecció social, escau modi-           Un altre aspecte que s’ha revisat, en
+  Austria-49200 A l’exterior, per l’im-            ficar determinats aspectes de la Llei que       aquests moments econòmicament difí-
+  port de 8.800,95 euros                           milloren la protecció social i sanitària de     cils per a moltes empreses, és la base
+                                                   col·lectius amb dificultats i que ajuden        sobre la qual cotitzen els treballadors
+  430-Departament d’Afers Multilaterals            a assolir els objectius de racionalització
+  i Cooperació-430 Servei d’Organismes                                                             per compte propi. La Llei 17/2008 es-
+                                                   de la despesa.                                  tableix que aquesta base correspon al
+  Internacionals-PROJ0127 Subvencions
+  a entitats cíviques-49270 Cooperació               En primer lloc, s’ha analitzat la situa-      salari mensual mitjà global del conjunt
+  per al desenvolupament i altres, per             ció particular de determinats col·lectius       dels assalariats. L’import resultant que
+  un import de 114.301,44 euros                    sense possibilitat d’afiliació a la seguretat   s’ha de cotitzar pot resultar excessiu per
+                                                   social.                                         a les persones que fan determinades
+Disposició final                                     La Llei 17/2008 obliga totes les perso-
+                                                                                                   activitats econòmiques amb beneficis i
+                                                                                                   ingressos escassos.
+  Aquesta Llei entra en vigor l’endemà             nes assalariades o que fan una activitat
+de ser publicada al Butlletí Oficial del           per compte propi a afiliar-se a la segu-           La modificació de la Llei inclou una
+Principat d’Andorra.                               retat social. També s’hi poden afiliar les      disposició addicional que preveu una
+                                                   persones assegurades indirectes en les          cotització reduïda específica en funció
+Casa de la Vall, 29 de desembre del                condicions que estableix la Llei.               dels ingressos i dels beneficis de l’activi-
+2011                                                                                               tat que realitza el treballador per compte
+Vicenç Mateu Zamora                                  Les persones que no es troben en              propi, i en tot cas durant els primers dos
+Síndic General                                     cap dels tres supòsits anteriors no te-         anys des de la data d’inici de l’activitat,
+                                                   nen possibilitat d’afiliar-se a la seguretat    afavorint d’aquesta manera la creació de
+  Nosaltres els coprínceps la sancionem
+                                                   social ni de gaudir, per tant, de cobertura     nous negocis.
+i promulguem i n’ordenem la publica-
+                                                   sanitària pública, fet que pot compro-
+ció en el Butlletí Oficial del Principat                                                             Pel que fa a la racionalització econò-
+                                                   metre el dret a la protecció de la salut
+d’Andorra.                                                                                         mica, el desequilibri continuat entre els
+                                                   per motius econòmics. Entre aquestes
+Joan Enric Vives Sicília        Nicolas Sarkozy                                                    ingressos i les despeses de la branca
+Bisbe d’Urgell                   President de la   persones hi ha els estudiants de més de
+                            República Francesa     25 anys i les persones desocupades que          general de la seguretat social requereix
+Copríncep d’Andorra        Copríncep d’Andorra                                                     un esforç per millorar l’assignació dels
+                                                   no reben la prestació de desocupació
+                                                   involuntària, que implica l’afiliació a la      recursos disponibles a les prestacions
+                                                   seguretat social.                               mèdicament rellevants.
+                                                     La modificació de la Llei crea un               En aquest sentit, la modificació de
+                                                   nou règim especial, en el qual s’inclo-         la Llei preveu diversos percentatges
+                                                   uen les persones estudiants amb edats           de reembossament per a determinades
+338                                    Butlletí Oficial del Principat d’Andorra                            Núm. 3 - Any 24 - 18.1.2012
+
+
+
+
+prestacions en funció de la seva eficàcia i    efectivament realitzades o les expressa-          o de la finalització de l’activitat profes-
+eficiència, estableix nous mecanismes de       ment assimilades a aquestes.”                     sional, es reembossen mentre duri la
+control per a les incapacitats temporals                                                         malaltia o els efectes de l’accident i sem-
+                                               Article 3
+i modifica els imports de les pensions                                                           pre que la persona afectada mantingui
+                                                 Es modifica l’article 135.3 de la Llei
+de reversió per apropar-los a la part                                                            la residència a Andorra, d’acord amb els
+                                               17/2008, del 3 d’octubre, de la segu-
+contributiva.                                                                                    límits següents:
+                                               retat social, que queda redactat com
+   Una altra modificació inclosa a la Llei     segueix:                                            a) Fins a 60 dies després de la data del
+preveu un límit per a l’import resultant                                                           cessament o de la finalització si abans
+                                                 “3. Les despeses derivades de pres-
+en els casos en què concorrin el bene-                                                             de la demanda de prestacions ha co-
+                                               tacions efectuades o prescrites com a
+ficiari d’una pensió temporal de vidu-                                                             titzat menys de sis mesos.
+                                               conseqüència d’un accident no laboral
+ïtat amb un o diversos beneficiaris de
+                                               o d’una malaltia comuna s’abonen en els             b) Fins a 90 dies després de la data del
+pensions d’orfenesa. Aquest import no
+                                               percentatges següents, sense perjudici              cessament o de la finalització si abans
+pot excedir del 100% de la pensió o del
+                                               del que estableixen els apartats restants           de la demanda de prestacions ha cotit-
+salari que percebia la persona assegu-
+                                               d’aquest article:                                   zat entre sis i trenta-sis mesos.
+rada difunta, apropant així la prestació
+econòmica a la part contributiva.                a) Les despeses sanitàries correspo-              c) Fins a 120 dies després de la data del
+                                                 nents als actes efectuats o prescrits             cessament o de la finalització si abans
+  S’introdueix també una disposició de-
+                                                 per cadascun dels professionals de                de la demanda de prestacions han co-
+rogatòria que afecta l’article 27 de la Llei
+                                                 la salut,                                         titzat més de trenta-sis mesos.
+31/2008, del 18 de desembre, de mesu-
+                                                    i. En general, el 75% de les tarifes
+res de reactivació econòmica. Aquesta                                                               2. Els límits establerts al número an-
+                                                    de responsabilitat, d’acord amb la
+derogació comporta que els pensionistes                                                          terior, si en el moment de la data del
+                                                    nomenclatura;
+que continuen treballant cotitzin a la                                                           cessament o de la finalització es perce-
+                                                    ii. Del 30% al 75% de les tarifes de
+branca general, de la mateixa manera                                                             ben prestacions econòmiques d’incapa-
+                                                    responsabilitat d’acord amb la no-
+que ho fan la resta de treballadors.                                                             citat temporal o maternitat, comencen a
+                                                    menclatura, les despeses derivades
+                                                                                                 comptar des del moment en què finalitza
+   Totes aquestes modificacions milloren            del cost dels medicaments, els pro-
+                                                                                                 el dret a percebre la prestació a la qual
+el sistema de seguretat social, amplien la          ductes d’ortopèdia i altres productes
+                                                                                                 té dret la persona beneficiària.”
+població coberta i el fan més eficient.             específics de salut;
+                                                    iii. I del 50% al 75% de les tarifes de      Article 5
+  Amb aquesta finalitat s’aprova la Llei
+                                                    responsabilitat d’acord amb la no-             Es modifica l’article 146.4 de la Llei
+de modificació de la Llei 17/2008, del 3
+                                                    menclatura, les despeses derivades           17/2008, del 3 d’octubre, de la segu-
+d’octubre, de la seguretat social.
+                                                    dels actes de reeducació i readap-           retat social, que queda redactat com
+Article 1                                           tació funcional.                             segueix:
+  Es modifica l’article 99.2 de la Llei
+                                                 b) Les despeses d’hospitalització i d’in-          “4. La no-presentació a les convocatò-
+17/2008, del 3 d’octubre, de la segu-
+                                                 ternament, tant de sojorn com dels              ries de la Caixa Andorrana de Seguretat
+retat social, que queda redactat com
+                                                 actes sanitaris efectuats durant l’hos-         Social sense motiu justificat, no trobar-se
+segueix:
+                                                 pitalització o l’internament, el 90% de         al domicili en la franja horària segons el
+   “2. La persona assalariada amb una            les tarifes de responsabilitat d’acord          que s’estableixi per reglament, o qualse-
+base de cotització inferior al salari mínim      amb la nomenclatura.                            vol conducta contrària al procés curatiu
+mensual oficial, sempre que no quedi                                                             en període d’incapacitat temporal, com-
+                                                  Els percentatges de reembossament a
+inclosa en l’àmbit d’aplicació d’un dels                                                         porta l’alta administrativa i la suspensió
+                                               què es refereixen els apartats a)ii.- i a)iii.-
+règims especials previstos als articles                                                          de la prestació.”
+                                               s’estableixen segons el valor terapèutic
+223 bis i 224, ha de complementar la
+                                               del producte o de la prestació, el tipus          Article 6
+cotització amb una quantitat que sumada
+                                               de patologia a què van destinats, així              Es modifica l’article 148.2 de la Llei
+a la cotització realitzada per l’empresa o
+                                               com el grup de població afectat.”                 17/2008, del 3 d’octubre, de la segu-
+les empreses sigui igual a aquesta base
+                                                                                                 retat social, que queda redactat com
+mínima, en les condicions que s’esta-          Article 4
+                                                                                                 segueix:
+bleixin per reglament.”                          Es modifica l’article 140 de la Llei
+                                               17/2008, del 3 d’octubre, de la segu-               “2. Les prestacions econòmiques per
+Article 2
+                                               retat social, que queda redactat com              incapacitat temporal derivades d’accident
+  Es modifica l’article 111.2 de la Llei
+                                               segueix:                                          no laboral o malaltia comuna es paguen
+17/2008, del 3 d’octubre, de la segu-
+                                                                                                 a comptar del quart dia de l’emissió del
+retat social, que queda redactat com           “Article 140.
+                                                                                                 certificat citat en l’article 144.”
+segueix:                                       Finalització de les prestacions
+                                                                                                 Article 7
+  “2. En les prestacions en què la               1. Les prestacions de reembossament               Es modifica l’article 178 de la Llei
+seva concessió o quantia requereix             atorgades com a conseqüència d’un acci-           17/2008, del 3 d’octubre, de la segu-
+determinats períodes de cotització no-         dent o d’una malaltia constatats abans o
+més són computables les cotitzacions           després de la data del cessament laboral
+Núm. 3 - Any 24 - 18.1.2012              Butlletí Oficial del Principat d’Andorra                                                      339
+
+
+
+
+retat social, que queda redactat com             “Article 180.                                  “Article 219.
+segueix:                                         Generació del dret                             Tipus
+“Article 178.                                      1. Perquè sigui efectiu el dret a la pen-       Són règims especials els corresponents
+Import                                           sió de viduïtat, la persona assegurada         a les persones següents:
+                                                 difunta per motiu de malaltia comuna
+  L’import del capital per defunció és                                                            a) Els orfes de pare i mare i les altres
+                                                 o accident no laboral ha d’haver cotitzat
+igual a les despeses justificades deri-                                                           persones la tutela o guarda de les quals
+                                                 almenys trenta-sis mensualitats en els
+vades de l’òbit, amb un import màxim                                                              es confia a l’Estat.
+                                                 últims quaranta-vuit mesos a la branca
+equivalent a tres vegades el salari global
+                                                 general, si tenia menys de trenta anys,          b) Les persones internades en establi-
+mensual mitjà cotitzat per al conjunt de
+                                                 o seixanta mensualitats en els últims            ments penitenciaris.
+les persones assalariades a la Caixa An-
+                                                 setanta-dos mesos, si tenia trenta o més         c) Les persones amb discapacitat.
+dorrana de Seguretat Social de l’any im-
+                                                 anys en el moment de la defunció. Tam-
+mediatament anterior al fet causant.”                                                             d) Les persones assegurades voluntà-
+                                                 bé computaran com a períodes efectius
+Article 8                                        de cotització aquells en què la persona          ries a la branca de jubilació.
+  Es modifica l’article 179 de la Llei           assegurada difunta hagi estat inscrita           e) Les persones assalariades que co-
+17/2008, del 3 d’octubre, de la segu-            com a demandant d’ocupació en el Ser-            bren una retribució inferior al salari mí-
+retat social, que queda redactat com             vei d’Ocupació.                                  nim i són assegurades indirectes.
+segueix:
+                                                   2. Quan la mort tingui per motiu un            f) Les persones prejubilades.
+“Article 179.                                    accident laboral o una malaltia professi-
+Objecte                                          onal, no es requereix un període mínim           g) Les persones estudiants dels 25
+                                                 de cotització.                                   anys als 30 anys.
+  1. Les pensions de reversió es desti-
+nen a compensar la pèrdua de guanys                 3. No computen per a la cotització de         h) Les persones registrades al Servei
+resultants de la defunció de la persona          l’epígraf 1 les cotitzacions a la branca         d’Ocupació que no reben la presta-
+assegurada directa.                              general de les persones de 65 anys o més         ció econòmica per desocupació in-
+                                                 que no perceben cap pensió i només               voluntària.”
+  2. Existeixen dos tipus de pensions
+de reversió: de viduïtat i d’orfenesa. Les       cotitzen a la branca general.”                 Article 12
+pensions de viduïtat poden ser tempo-            Article 10                                       S’afegeix a la Llei 17/2008, del 3 d’oc-
+rals o vitalícies.                                  Es modifica l’article 190.2 i s’afegeix     tubre, de la seguretat social, l’article 223
+                                                 l’article 190.3 a la Llei 17/08, de la segu-   bis, amb la redacció següent:
+   3. Quan concorri el beneficiari d’una
+pensió temporal de viduïtat amb un o             retat social, amb la redacció següent:         “Article 223 bis.
+diversos beneficiaris de pensions d’orfe-          “2. També es genera el dret a la pen-        Persones estudiants dels 25 anys als
+nesa, o diversos beneficiaris de pensions        sió d’orfenesa quan la persona difunta         30 anys
+d’orfenesa, la suma dels respectius im-          no compleix aquests requisits generals,           1. Es troben incloses dins d’aquest
+ports de pensió no pot excedir el 100%           però ha cotitzat a la branca general           règim especial les persones compreses
+de la pensió o del salari que percebia           com a mínim dotze mesos en els dar-            entre els 25 anys i els 30 anys, ambdós
+la persona assegurada difunta -o de la           rers divuit mesos abans de la seva mort.       inclosos, que voluntàriament volen per-
+suma d’ambdós si aquesta persona per-            Computaran com a períodes efectius de          tànyer a aquest col·lectiu, no poden ser
+cebia l’una i l’altre-, o de la base de cotit-   cotització aquells en què la persona as-       inscrites com a persones assegurades
+zació dels assegurats per compte propi           segurada difunta hagi estat inscrita com       indirectes, cursen estudis en un esta-
+si el causant es trobava inclòs en aquest        a demandant d’ocupació en el Servei            bliment d’ensenyança reconegut, no
+col·lectiu. En cas que es doni aquest ex-        d’Ocupació.                                    treballen de forma regular i no fan cap
+cés, l’import de les pensions es redueix                                                        activitat laboral per compte propi. L’acre-
+                                                   3. No computen per a la cotització
+proporcionalment.                                                                               ditació d’aquests requisits es fixa per
+                                                 de l’epígraf anterior les cotitzacions a
+  4. La persona beneficiària d’una pen-          la branca general de les persones de           reglament.
+sió de viduïtat vitalícia que concorri en        65 anys o més que no reben cap pen-               2. Aquestes persones han de sol·licitar
+qualsevol dels supòsits de l’apartat an-         sió de la Caixa Andorrana de Seguretat         la seva afiliació a la seguretat social i
+terior no tindrà reducció de la pensió           Social i que només cotitzen a la branca        acreditar la seva condició d’acord amb el
+per aquesta circumstància.”                      general.”                                      sistema regulat als articles 25 i següents i
+Article 9                                        Article 11                                     en el reglament que desenvolupi aquest
+  Es modifica l’article 180 de la Llei             Es modifica l’article 219 de la Llei         article.
+17/2008, del 3 d’octubre, de la segu-            17/2008, del 3 d’octubre, de la segu-            3. Aquestes persones han de comuni-
+retat social, que queda redactat com             retat social, que queda redactat com           car l’inici o el cessament d’aquesta situ-
+segueix:                                         segueix:                                       ació per ser donades d’alta o de baixa,
+                                                                                                respectivament, en aquest règim espe-
+340                                     Butlletí Oficial del Principat d’Andorra                        Núm. 3 - Any 24 - 18.1.2012
+
+
+
+
+cial d’acord amb el sistema regulat als         “Article 224 bis.                                10. Els períodes cotitzats mentre la
+articles 33 i següents.                         Persones registrades al Servei                persona es troba dins d’aquest règim
+                                                d’Ocupació que no reben la                    especial no computen per tenir dret a
+   4. La inclusió en aquest règim especial
+                                                prestació econòmica per desocupació           les prestacions econòmiques previstes
+dóna dret exclusivament a gaudir de les
+                                                involuntària                                  per l’article 8, però sí que computen a
+prestacions de reembossament segons el
+                                                                                              l’efecte dels períodes cotitzats per les
+règim regulat pels articles 132 i següents,       1. Es troben incloses dins d’aquest
+                                                                                              pensions de reversió.
+llevat de les prestacions de reembos-           règim especial les persones compreses
+sament fins al 100% de les tarifes de           entre els 18 anys i els 65 anys, que volen       11. Les prestacions de reembossament
+responsabilitat per recursos econòmics          pertànyer voluntàriament a aquest col·        es cobreixen a comptar del primer dia
+insuficients.                                   lectiu, tenen com a mínim tres anys de        de la data de la sol·licitud registrada a
+                                                residència continuada a Andorra en el         la Caixa Andorrana de Seguretat Social
+  5. L’obligació de cotitzar només corres-
+                                                moment d’afiliar-s’hi, estan inscrites al     i sempre que estiguin al corrent de pa-
+pon a la branca general, el percentatge
+                                                Servei d’Ocupació com a demandants            gament de les cotitzacions.
+és d’un 10% i l’ha d’assumir la persona
+assegurada.                                     d’ocupació i no reben la prestació eco-         12. Poden seguir formant part d’aquest
+                                                nòmica per desocupació voluntària.            règim especial les persones que són dona-
+  6. La base de cotització correspon al
+                                                   2. Les persones majors de 35 anys han      des de baixa en el Servei d’Ocupació per
+55% del salari mínim mensual oficial.
+                                                d’acreditar haver cotitzat a Andorra pe-      patir una malaltia greu acreditada mèdica-
+   7. La cotització consisteix a aplicar a la   ríodes de 36 mensualitats prèviament a        ment per la Caixa Andorrana de Seguretat
+base de cotització el percentatge corres-       la sol·licitud d’inscripció.                  Social i que les incapacita per desenvolu-
+ponent. En el cas de fer activitats assa-                                                     par qualsevol activitat professional.”
+lariades remunerades per sota del salari          3. Aquestes persones poden sol·licitar
+                                                la seva afiliació a la seguretat social,      Article 14
+mínim oficial mensual i no treballar de
+                                                d’acord amb el sistema regulat als arti-        S’afegeix a la Llei 17/2008, del 3 d’oc-
+forma regular, hauran de cotitzar també
+                                                cles 25 i següents i en el reglament que      tubre, de la seguretat social, una disposi-
+en el règim general, si bé no s’hi podrà
+                                                desenvolupi aquest article.                   ció addicional quinzena amb la redacció
+aplicar el complement de cotització pre-
+                                                                                              següent:
+vist a l’article 99 d’aquesta Llei. També          4. Aquestes persones han de comuni-
+hauran de cotitzar en el règim general          car l’inici o el cessament d’aquesta situ-    “Disposició addicional
+si, ocasionalment, durant els períodes de       ació per ser donades, respectivament,
+vacances reben un salari igual o superior       d’alta o de baixa d’acord amb el sistema
+                                                                                              quinzena
+al salari mínim mensual.                        regulat a l’article 33 i següents. La Caixa     1. Les persones que fan una activitat
+                                                Andorrana de Seguretat Social i el Servei     per compte propi, d’acord amb l’article
+  8. El pagament es fa mitjançant l’in-                                                       19 de la Llei, podran gaudir d’una reduc-
+grés de la quantitat que s’ha de cotitzar       d’Ocupació poden compartir totes les
+                                                informacions i dades que estimin ne-          ció de la cotització si compleixen algun
+obligatòriament. La Caixa Andorrana de                                                        dels requisits següents:
+Seguretat Social autoritza liquidacions         cessàries o convenients per comprovar
+de la cotització per períodes superiors         la validesa de les dades consignades en         a) Trobar-se en els 24 primers mesos
+al mes, en les condicions que es fixin          els expedients.                                 a comptar de la data d’inici de l’acti-
+reglamentàriament.                                5. Aquestes persones tenen dret a gau-        vitat que dóna lloc a la inscripció en
+                                                dir de les prestacions de reembossament         el col·lectiu de persones que fan una
+  9. Els períodes cotitzats exclusivament                                                       activitat per compte propi.
+en aquest règim especial no computen            regulades en els articles 132 i següents i
+per tenir dret a les prestacions econò-         poden tenir al seu càrrec persones asse-        b) Presentar, l’exercici econòmic an-
+miques descrites a l’article 8, ni generen      gurades indirectes sempre que complei-          terior, un resultat inferior als 24.000
+dret a pensió de reversió.                      xin els requisits previstos per la Llei.        €, així com una xifra de negoci infe-
+                                                   6. L’obligació de cotitzar només cor-        rior a 150.000 € per als negocis re-
+   10. Aquestes persones no poden tenir                                                         lacionats amb serveis professionals
+al seu càrrec assegurats indirectes, enca-      respon a la branca general, el percen-
+                                                tatge és d’un 10% i l’han d’assumir les         i empresarials i a 300.000 € per a la
+ra que també cotitzin al règim general.                                                         resta de negocis.
+                                                persones assegurades.
+   11. Les prestacions de reembossament                                                          Per determinar aquests imports s’apli-
+es cobreixen a comptar del primer dia             7. La base de cotització correspon al
+                                                100% del salari mínim oficial mensual.        ca la normativa comptable vigent al
+de la data de la sol·licitud registrada a                                                     Principat, amb els ajustaments positius
+la Caixa Andorrana de Seguretat Social i          8. La cotització consisteix a aplicar       resultants de considerar totes les retri-
+sempre que estiguin al corrent de paga-         a la base de cotització el percentatge        bucions en favor del titular de l’activitat
+ment de les seves cotitzacions.”                corresponent.                                 i de les altres persones que hi treballin
+Article 13                                        9. El pagament es fa mitjançant l’in-       i convisquin amb el titular.
+  S’afegeix a la Llei 17/2008, del 3 d’oc-      grés de la quantitat que s’ha de cotitzar       Per reglament es definiran les activitats
+tubre, de la seguretat social, l’article 224    obligatòriament.                              incloses en els negocis relacionats amb
+bis, amb la redacció següent:                                                                 serveis professionals i empresarials.
+Núm. 3 - Any 24 - 18.1.2012            Butlletí Oficial del Principat d’Andorra                                                       341
+
+
+
+
+   2. No es poden acollir a aquest règim       Disposició transitòria                            Exposició de motius
+les persones que fan més d’una activitat
+per compte propi, si alguna de les acti-
+                                               tercera                                              D’ençà de l’entrada en vigor l’1 de
+vitats no compleix el requisit de la lletra       Les prestacions atorgades o sol·               gener del 2009 de la Llei 30/2007, del
+a), o totes les activitats considerades de     licitades abans de l’entrada en vigor             20 de desembre, de la comptabilitat dels
+forma agregada no compleixen els re-           d’aquesta Llei que tinguin una continu-           empresaris, han transcorregut dos exer-
+quisits establerts a la lletra b).             ïtat després d’entrar en vigor es regulen         cicis comptables complerts en què s’han
+                                               per la legislació en vigor en el moment           aplicat les disposicions d’aquesta Llei.
+   3. En el supòsit que l’activitat econò-                                                       Així, abans del 31 de juliol del 2010 i
+                                               de produir-se el fet causant, sempre que
+mica la faci més d’un treballador per                                                            del 31 de juliol del 2011, els empresaris
+                                               aquesta Llei no sigui més favorable.
+compte propi, a efectes d’aquesta dispo-                                                         han hagut de dipositar els comptes dels
+sició addicional, el resultat de l’exercici    Disposició derogatòria                            exercicis 2009 i 2010, respectivament.
+i la xifra de negoci s’han d’imputar pro-
+porcionalment a cada treballador, llevat         Queda derogat l’article 27 de la Llei              Tanmateix, una primera anàlisi dels
+que s’acrediti una participació diferent       31/2008, del 18 de desembre, de mesu-             comptes anuals dipositats pels empre-
+en la propietat del negoci. Els límits de      res de reactivació econòmica.                     saris i la complexitat d’aplicació de cer-
+la lletra b) s’entenen per cadascun dels                                                         tes disposicions de la Llei recomanen
+                                               Disposició final                                  la modificació d’algunes obligacions
+treballadors per compte propi.
+                                                 Aquesta Llei entra en vigor l’endemà            comptables amb vista a simplificar-ne
+  4. La base de cotització correspon al        de la data de ser publicada al Butlletí           la gestió, i també l’establiment d’algunes
+percentatge del 75% de la base prevista        Oficial del Principat d’Andorra.                  disposicions complementàries que intro-
+pels articles 101 i 104 de la Llei.                                                              dueixen un nivell de control superior del
+                                               Casa de la Vall, 29 de desembre del               compliment de les obligacions compta-
+  5. Les prestacions econòmiques pre-
+                                               2011                                              bles. En resum, el règim de comptabilitat
+vistes per l’article 8 de la Llei s’han de
+calcular d’acord amb la base de càlcul         Vicenç Mateu Zamora                               se simplifica, s’adapta millor a l’estruc-
+                                               Síndic General
+per la qual cotitzen tal com es defineix                                                         tura del teixit empresarial andorrà i es
+en l’article 121 de la Llei, reduïda en la       Nosaltres els coprínceps la sancionem           fomenta el compliment efectiu de les
+proporció indicada en l’apartat 4 an-          i promulguem i n’ordenem la publica-              obligacions establertes per la Llei.
+terior.                                        ció en el Butlletí Oficial del Principat             Entre les modificacions proposades, es
+                                               d’Andorra.                                        delimiten els exercicis comptables de les
+   6. Les persones que desitgin acollir-se
+                                               Joan Enric Vives Sicília       Nicolas Sarkozy    persones físiques fent-los coincidir amb
+a la reducció han de presentar la docu-        President de la                  Bisbe d’Urgell
+mentació acreditativa del compliment           República Francesa                                l’any natural, se simplifica el règim de
+                                               Copríncep d’Andorra        Copríncep d’Andorra    formulació dels comptes anuals consoli-
+dels requisits establerts, en la forma i els
+models establerts reglamentàriament.                                                             dats per adaptar-lo als estàndards inter-
+                                                                                                 nacionals, i es modifiquen les sancions
+   7. En tot allò que no està regulat en       Llei 26/2011,                                     accessòries per les infraccions compta-
+aquesta disposició addicional i en el re-                                                        bles greus i molt greus, amb el doble
+glament del Govern que en desenvolupi          del 29 de desembre,                               objectiu de prevenir l’incompliment de
+el contingut, és d’aplicació supletòria        de modificació de                                 les obligacions comptables i evitar que
+la normativa del col·lectiu de persones
+que realitzen una activitat per compte
+                                               la Llei 30/2007, del                              el règim sancionador interfereixi en el
+                                                                                                 funcionament ordinari de les societats.
+propi.”                                        20 de desembre, de
+                                                                                                    Pel que fa a la modificació dels llin-
+Disposició transitòria primera                 la comptabilitat dels                             dars, en primer lloc s’incrementa de
+  Les prestacions econòmiques pagades
+                                               empresaris, modificada                            100.000 a 150.000 euros, la xifra d’in-
+per la Caixa Andorrana de Seguretat So-        per la Llei 8/2010, del 22                        gressos totals anyals per sota de la qual
+cial l’import de les quals un cop deduï-                                                         els empresaris persones físiques no han
+                                               d’abril                                           de dipositar els comptes a l’Adminis-
+des les cotitzacions de l’assegurat sigui
+igual o superior a 2.000 euros mensuals,         Atès que el Consell General en la seva          tració. Tanmateix, aquesta modificació
+no són revalorades durant l’any 2012.          sessió del dia 29 de desembre del 2011            s’acompanya d’una nova obligació de
+                                               ha aprovat la següent:                            presentació d’una declaració justifica-
+Disposició transitòria segona                                                                    tiva d’aquesta xifra d’ingressos per tots
+                                                 llei 26/2011, del 29 de desembre, de            els empresaris que quedin exclosos de
+   Poden beneficiar-se del règim especi-       modificació de la Llei 30/2007, del 20 de         l’obligació de dipositar els comptes, a
+al de l’article 224 bis les persones que,      desembre, de la comptabilitat dels em-            l’efecte de millorar el nivell de control
+abans de l’entrada en vigor d’aquesta          presaris, modificada per la Llei 8/2010,          i de conèixer la població d’empresaris
+Llei, complien els requisits que conté         del 22 d’abril                                    no subjecta a l’obligació. En segon lloc,
+aquest article i mantindrien el règim per
+                                                                                                 s’elimina la xifra de 250.000 euros cor-
+efecte de l’apartat 12.
+                                                                                                 responent als ingressos màxims anyals
+

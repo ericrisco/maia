@@ -120,6 +120,13 @@ mig, i la resta a cobert.
   andorrana, canvia la lectura.
 - **L'Escola Nacional Andorrana d'Esquí**: quan es crea, què hi fa, qui la
   dirigeix. La llei de 1996 en **modifica** una d'anterior que el corpus no té.
+  — **`obert`, confirmat el 2026-09-14, i declarat des dels dos extrems**:
+  **aquí i a [l'esquí](../../esports/esqui/README.md)**, que hi afegeix **que
+  té llei de creació pròpia i que el corpus només sap que existeix.**
+  **I ara se sap també on NO és**: **`raw/web/esport/` té trenta-nou bolcats
+  d'institucions esportives andorranes i cap no és ni l'Escola Nacional
+  d'Esquí ni la Federació Andorrana d'Esquí.**
+  `Requereix font externa: el BOPA anterior al 1996.`
 - **Si continua sent obligatori el 2026.**
 - ~~Qui ho paga~~ — **tancat**: **el Govern d'Andorra**, també per als alumnes
   dels sistemes espanyol i francès

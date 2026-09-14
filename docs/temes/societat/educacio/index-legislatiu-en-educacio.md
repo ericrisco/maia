@@ -159,7 +159,19 @@ seguretat.** El corpus prefereix un total sòlid a un desglossament inventat.
 
 - **Tot el que hi ha després del 2000.** Aquest índex es tanca aquell any.
 - **Els decrets de programa de formació andorrana (42 i 43).** **Màxima
-  prioritat.**
+  prioritat.** — **`obert`, confirmat el 2026-09-14, i registrat com el buit
+  més declarat de la branca: TRES articles el demanen per separat i cap no
+  sabia dels altres.**
+
+  | Article | Com el demana |
+  | --- | --- |
+  | [L'andorranització](./landorranitzacio.md) | **«Què s'hi ensenya exactament»** — i el qualifica de **«dels materials més valuosos que existeixen»** per a aquest corpus |
+  | [L'índex legislatiu](./index-legislatiu-en-educacio.md) | **«Els decrets de programa de formació andorrana (42 i 43). MÀXIMA PRIORITAT»** |
+  | [L'Escola Andorrana](./lescola-andorrana.md) | **«Els programes publicats»** — 1998 maternal i primera ensenyança, setembre del 1999 segona ensenyança, batxillerat previst per al 2003-04 |
+
+  **Els tres fan servir la mateixa formulació sense saber-ho: «el país
+  explicant-se als seus nens».** **I els tres diuen que són documents públics
+  del Govern.** `Requereix font externa: el BOPA i el Ministeri d'Educació.`
 - **La Llei de l'Escola Andorrana del 2 de maig de 1989**, que no té número de
   BOPA a la llista i per tant és anterior a la sèrie consultable — **cal buscar-la
   a les actes del Consell General**.

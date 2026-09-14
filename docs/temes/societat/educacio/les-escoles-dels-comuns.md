@@ -104,20 +104,113 @@ adopta**: la d'un país que sobreviu com a resta feudal. Vegeu
 
 **El corpus li pren el fet i li deixa la tesi.**
 
+## El paràgraf sencer, i el que hi havia just després de la cita
+
+> **Tancat el 2026-09-13, i el cas és greu perquè no calia cap font nova.**
+> **El llibre de Ríos Urruti és al corpus sencer** —
+> [`raw/llibres/rios-urruti-andorra-1920.txt`](../../../raw/llibres/rios-urruti-andorra-1920.txt),
+> **4.496 línies d'OCR, amb el PDF al costat** — **des d'abans que aquesta fitxa
+> declarés «el llibre sencer» com el seu buit prioritari.** **La cita que
+> l'article reprodueix de segona mà, via Boladeres, continua tres frases més**,
+> **i aquelles tres frases responien la pregunta que la fitxa mateixa declarava
+> «la més important que deixa oberta».**
+
+**El text, tal com és al llibre:**
+
+> «**En las escuelas se enseña el catalán; pero se estudia como única Gramática
+> la castellana, lo que ocasiona no pocas dificultades pedagógicas.**»
+
+**La classe es feia en català i l'única gramàtica que s'estudiava era la
+castellana.** **I l'autor no ho presenta com una política sinó com un problema
+tècnic**: «no poques dificultats pedagògiques». **Això lliga directament amb
+[l'andorranització](./landorranitzacio.md)** —**seixanta anys abans que el país
+tingui escola pròpia, ja té el problema que l'escola pròpia vindrà a resoldre.**
+
+**I dues frases més, que el corpus tampoc no tenia:**
+
+> «**Los maestros no necesitan tener título, y si bien lo poseen algunos, basta
+> para que se les encomiende la función de enseñar que los estime capaces la
+> autoridad.**»
+
+**No calia titulació.** **N'hi havia prou que l'autoritat —el comú— et
+considerés capaç.** **I el llibre hi afegeix, parlant dels quarts:** «**cuando
+la parroquia no designa médico o maestro, el *Quart* lo puede hacer**» — **el
+mestre es nomenava com el metge, i el [quart](../../institucions/quarts-i-veinats/quarts-i-veinats.md)
+podia substituir la parròquia si aquesta no ho feia.**
+
+> «**Francia se ha preocupado últimamente de fortalecer su influjo y costea
+> cuatro escuelas, tres servidas por maestras y una por maestro; pero sólo una
+> de ellas tiene aceptación; España, en cambio, no ha hecho absolutamente
+> nada.**»
+
+**El 1920, França pagava quatre escoles i només una funcionava; Espanya, cap.**
+**Això matisa la frase «úniques centres d'ensenyament que existeixen»** que
+aquesta fitxa comentava més amunt: **Ríos Urruti sí que veia les escoles
+franceses; el que diu és que no s'omplien.** Vegeu
+[l'ensenyament francès](./lensenyament-frances.md) i
+[l'ensenyament espanyol](./lensenyament-espanyol.md).
+
+### I un debat del 1920 que el corpus no sabia que existís
+
+> «**Tratándose de la enseñanza, y en vista de las actuales deficiencias,
+> comienzan a pensar si no sería más conveniente que este servicio se organizara
+> directamente por el Consejo general, y se pesa el pro y el contra.**»
+
+**El 1920 ja es discutia si l'ensenyament l'havia de portar el Consell General
+en comptes dels comuns.** **El corpus tenia l'estatalització de l'escola com un
+fet dels anys vuitanta**
+([la cronologia escolar](./la-cronologia-escolar.md)); **resulta que el debat té
+seixanta anys més dels que se li atribuïen.**
+
+**El corpus registra què és aquesta frase**: **`font directa`, però és un
+observador de fora reportant una conversa**, no una acta. **Qui hi pensava, i
+on es va discutir, segueix obert.**
+
 ## Buits registrats
 
-- **El llibre sencer**: *Vida e instituciones del pueblo de Andorra. Una
+> **Auditats contra la resta del corpus el 2026-09-13.** **Quatre dels sis han
+> canviat d'estat, i el primer era fals.**
+
+- ~~**El llibre sencer**: *Vida e instituciones del pueblo de Andorra. Una
   supervivencia señorial*, Fernando de los Ríos Urruti, **1920**. **Buit
-  prioritari**: és una descripció institucional completa d'Andorra feta per un
-  jurista, i el corpus només en té tres línies.
+  prioritari**: (…) el corpus només en té tres línies.~~ — **`incorrecte`.**
+  **El corpus el té sencer** a
+  [`raw/llibres/rios-urruti-andorra-1920.txt`](../../../raw/llibres/rios-urruti-andorra-1920.txt),
+  amb el PDF i quatre pàgines escanejades a part. **El que el corpus no té és la
+  fitxa de font**: `raw/llibres/` conté **Brutails, Vilar, *La cuestión de
+  Andorra* de 1894 i aquest**, i **només Brutails i Vilar tenen fitxa a
+  `fonts/`.** **I des del 2026-09-13 el corpus en té la fitxa bibliogràfica
+  completa**, trobada al document d'historiografia
+  ([les tres fases](../../historia/historiografia/les-tres-fases.md)): **Madrid,
+  Centro de Estudios Históricos, 1920**, **reeditat per la Universidad
+  Internacional Menéndez Pelayo el 1994**.
+  **Buit nou, i barat:** escriure `fonts/rios-urruti-andorra-1920.md`
+  i citar-lo des dels articles que ja el fan servir de segona mà — aquest,
+  [l'ensenyament espanyol](./lensenyament-espanyol.md),
+  [la cronologia escolar](./la-cronologia-escolar.md) i
+  [les xifres que no quadren](../demografia/les-xifres-que-no-quadren.md).
 - **Quantes escoles comunals hi havia**, exactament, i **fins quan van durar**.
-  De los Ríos diu «una per parròquia»; **no sabem quan desapareixen** ni si es
-  fonen amb els sistemes forans.
-- **En quina llengua s'hi feia classe.** És **la pregunta més important que
-  aquesta fitxa deixa oberta** i cap font del corpus la respon.
-- **Qui eren els mestres**: andorrans? d'on venien? com se'ls triava?
-- **Què s'hi ensenyava.**
-- **Què valien 1.000-1.200 pessetes** a l'Andorra de 1920.
+  — **`parcial`.** **Una per parròquia**, diu el llibre, **i quatre més pagades
+  per França**, de les quals **només una «tiene aceptación»**. **Fins quan van
+  durar, segueix obert.**
+- ~~**En quina llengua s'hi feia classe.** És **la pregunta més important que
+  aquesta fitxa deixa oberta** i cap font del corpus la respon.~~ —
+  **`resolt`**, i **la font que la respon era la mateixa que la fitxa ja
+  citava**: **classe en català, gramàtica castellana**.
+- ~~**Qui eren els mestres**: andorrans? d'on venien? com se'ls triava?~~ —
+  **`parcial`.** **Com se'ls triava, sí**: **sense exigència de títol**, per
+  apreciació de l'autoritat, i **amb el quart com a suplent de la parròquia**.
+  **D'on venien i si eren andorrans, segueix obert.**
+- **Què s'hi ensenyava.** — **`parcial`.** **Català i gramàtica castellana** és
+  tot el que el llibre en diu. **La resta del currículum, obert.**
+- **Què valien 1.000-1.200 pessetes** a l'Andorra de 1920. — **`obert`, i ara
+  amb una peça més**: el llibre precisa que **«la peseta española es la moneda
+  oficial, aun cuando circula también la francesa, pero al cambio»**. **Ja se sap
+  en quina moneda és la xifra; encara no què comprava.** **És el mateix buit
+  transversal que declaren [la Cambra de Comerç i la
+  formació](../../economia/comerc/la-cambra-de-comerc-i-la-formacio.md) i
+  [la formació professional](./la-formacio-professional.md)**: **el corpus no té
+  cap salari base andorrà de cap any.**
 - **Si hi ha actes comunals** sobre aquestes escoles. **Probablement sí**, i
   serien font primària de primer ordre
   ([museus i arxius](../../cultura/museus-i-arxius/museus-i-arxius.md)).

@@ -109,7 +109,19 @@ va haver de fer **per la via del conveni**— i això deixa marca.
 - **Què s'hi ensenya exactament**: els programes d'història i institucions
   andorranes fets pel Govern serien **una font directa de com el país s'explica
   a si mateix als seus nens**. Per a aquest corpus, seria dels materials més
-  valuosos que existeixen.
+  valuosos que existeixen. — **`obert`, confirmat el 2026-09-14, i registrat com el buit
+  més declarat de la branca: TRES articles el demanen per separat i cap no
+  sabia dels altres.**
+
+  | Article | Com el demana |
+  | --- | --- |
+  | [L'andorranització](./landorranitzacio.md) | **«Què s'hi ensenya exactament»** — i el qualifica de **«dels materials més valuosos que existeixen»** per a aquest corpus |
+  | [L'índex legislatiu](./index-legislatiu-en-educacio.md) | **«Els decrets de programa de formació andorrana (42 i 43). MÀXIMA PRIORITAT»** |
+  | [L'Escola Andorrana](./lescola-andorrana.md) | **«Els programes publicats»** — 1998 maternal i primera ensenyança, setembre del 1999 segona ensenyança, batxillerat previst per al 2003-04 |
+
+  **Els tres fan servir la mateixa formulació sense saber-ho: «el país
+  explicant-se als seus nens».** **I els tres diuen que són documents públics
+  del Govern.** `Requereix font externa: el BOPA i el Ministeri d'Educació.`
 - **Si algun centre s'hi va resistir**, i què va passar.
 
 ## Related

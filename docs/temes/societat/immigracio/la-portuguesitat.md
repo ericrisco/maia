@@ -283,10 +283,31 @@ explica Andorra.
 
 ## El que falta
 
-- **L'accident del túnel dels Dos Valires**, 2009. **Prioritari.**
-- **Els tamarros**: fitxa pròpia. **Prioritari** — apareixen a tot arreu i el
-  corpus no els té.
-- **La Confraria de la Mare de Déu de Fàtima**: quan es funda, quanta gent.
+> **Auditat contra la resta del corpus el 2026-09-13.** **Un buit era fals**:
+> **la fitxa que demanava ja existia i és bona.**
+
+- **L'accident del túnel dels Dos Valires**, 2009. **Prioritari.** — **`obert`,
+  confirmat.** **Cap document del corpus no l'esmenta**; aquesta fitxa és
+  l'única que en parla. `Requereix font externa: la premsa del 2009.`
+- ~~**Els tamarros**: fitxa pròpia. **Prioritari** — apareixen a tot arreu i el
+  corpus no els té.~~ — **`incorrecte`.** **El corpus en té fitxa pròpia**
+  —[el tamarro](../../cultura/llegendes/el-tamarro.md)— **i fitxa de font**
+  ([`wikipedia-tamarro`](../../../fonts/wikipedia-tamarro.md)), **i els tamarros
+  hi surten a quatre articles més**: [les llegendes](../../cultura/llegendes/llegendes.md),
+  [les bruixes d'Engolasters](../../cultura/llegendes/les-bruixes-dengolasters.md),
+  [els estripagecs](../../cultura/arquitectura/els-estripagecs.md) i
+  [el cas Amades](../../historia/historiografia/el-cas-amades.md). **I el que la
+  fitxa en diu val exactament per a la lectura d'aquesta**: **la broma consisteix
+  a deixar un foraster amb un sac sota una comporta**. **Que un grup portuguès
+  faci un vídeo de confinament barrejant tamarros i tradició portuguesa és, per
+  tant, un foraster que s'ha posat a l'altra banda de la broma.** `deducció del
+  corpus.`
+- ~~**La Confraria de la Mare de Déu de Fàtima**: quan es funda, quanta gent.~~ —
+  **`obert`, confirmat, i el bessó també.** **La confraria surt en dos documents
+  del corpus** —aquest i [les comunitats](./les-comunitats.md)— **i cap dels dos
+  no en dona ni data ni nombre de socis**: el que se'n sap és **que organitza la
+  processó de ciris a Meritxell** i **que no era a la llista de l'anuari del
+  2015**. `Requereix font externa.`
 - **El llibre *Portuguesos a Andorra – Una visió Global***, de l'autor mateix,
   editat per **Andbank el 2007**. **Citat, no consultat.**
 - ~~**La ponència de Magda Santos i Matias** a la 20a Diada (2007), sencera.~~
@@ -299,7 +320,25 @@ explica Andorra.
 - **El Consell de les Comunitats Portugueses**: què és, i què hi fa un resident
   d'Andorra.
 - **La ruta migratòria portuguesa cap a França** pels Pirineus als anys 60 i 70.
-- **Quantes associacions portugueses hi ha avui** i quantes persones apleguen.
+- ~~**Quantes associacions portugueses hi ha avui** i quantes persones
+  apleguen.~~ — **`parcial` pel compte, `obert` per la gent.** **Creuant aquesta
+  fitxa amb [les comunitats](./les-comunitats.md) en surten sis**, i **la manera
+  com es reparteixen és la lectura**:
+
+  | Entitat | Criteri |
+  | --- | --- |
+  | **Associació de Residents Portuguesos (ARPA)** | **nacional** |
+  | **Associació de Portuguesos al Pas de la Casa** | **per parròquia d'acollida** |
+  | **Associació Cultural de Residents d'Alto Minho** | **per comarca d'origen** |
+  | **Associació de Trás-os-Montes i Alto Douro** *(«recentment creada» el 2020)* | **per comarca d'origen** |
+  | **Grup de Folklore «Casa de Portugal»** *(1 de maig de 1996)* | **per activitat** |
+  | **Confraria de la Mare de Déu de Fàtima** | **per devoció** |
+
+  **Una de sis és «portuguesa» a seques.** **Les altres cinc s'organitzen per
+  comarca, per poble d'arribada, per ball o per Mare de Déu** — **exactament el
+  patró que [les comunitats](./les-comunitats.md) troba en el conjunt**:
+  **no s'organitzen per passaport, s'organitzen per poble.**
+  **Quanta gent apleguen segueix sense saber-se.**
 
 ## Related
 

@@ -1,0 +1,137 @@
+FORA_DEL_CORPUS — còpia primària, no dataset.
+Font: https://documents.bopa.ad/bopa-documents/034149/pdf/GD20221222_12_05_58.pdf
+Consulta: 2026-09-13. pdftotext -layout; 3 pàgines completes llegides i renders vistos.
+
+         Núm. 149                                  22 de desembre del 2022                                                1/3
+
+
+
+
+         Reglaments
+
+         Decret 542/2022, del 22 de desembre del 2022
+         Decret 542/2022, del 22-12-2022, de modificació del Reglament de l’accés a l’assistència sanitària pública
+         aprovat pel Decret de l’1-8-2018.
+         En data 31-8-2022 el Govern va aprovar el Decret 349/2022, del 31-8-2022, de modificació del Decret de
+         l’1-8-2018 d’aprovació del Reglament de l’accés a l’assistència sanitària pública, que estableix el règim de
+         tercer pagador per als usuaris d’edat igual o superior als 65 anys, en els actes i procediments mèdics, di-
+         agnòstics i rehabilitadors, sempre que la prestació es faci a Andorra, s’efectuï en el marc de la via preferent
+         i es facturi electrònicament. El Reglament esmentat es va modificar en data 3-10-2022, mitjançant el Decret
+         393/2022, per efectuar alguns ajustaments a les lletres clau publicades i per establir el dia 2/1/2023 com
+         a data d’entrada en vigor dels actes d’odontologia.
+         Des de l’entrada en vigor, al mes d’octubre, del règim de tercer pagador per al col·lectiu de la gent gran, el
+         circuit previst ha funcionat sense incidències rellevants i ha tingut una bona acceptació tant per part dels
+         prestadors com per part dels usuaris i la Caixa Andorrana de Seguretat Social.
+         Per aquest motiu, i continuant amb l’objectiu d’optimitzar l’accés als serveis i les prestacions sanitaris per
+         als col·lectius que més els utilitzen, s’incorpora el col·lectiu de persones amb discapacitat al règim de tercer
+         pagador, sempre que la prestació es faci a Andorra i s’efectuï en el marc de la via preferent.
+         Als efectes de l’aplicació d’aquest Reglament, i tenint en compte el que està previst en el Decret del 10-6-
+         2004 d’aprovació del Reglament de regulació de la Comissió Nacional de Valoració (Conava) i d’establiment
+         dels criteris i els barems per al diagnòstic i la valoració de les disfuncions, les discapacitats i els hàndicaps,
+         es consideren persones amb discapacitat les que han estat valorades per la Conava amb un grau de
+         menyscabament igual o superior al 33%.
+         Vist l’informe del Consell d’Administració de la Caixa Andorrana de Seguretat Social del 20 de desembre
+         del 2022;
+         Tenint en compte el que s’ha exposat, el Govern, a proposta del ministre de Salut, en la sessió del 22 de
+         desembre del 2022, aprova aquest Decret amb el contingut següent:
+
+         Article 1
+         Es modifica l’article 19 del Reglament de l’accés a l’assistència sanitària pública aprovat pel Decret de l’1-8-
+         2018, que queda redactat com segueix:
+
+         “Article 19. Incentius a la via d’atenció integrada (VAI)
+         1. Per incentivar el seguiment de la VAI per part dels usuaris, les consultes al metge referent gaudeixen
+         d’un règim de tercer pagador sempre que siguin facturades electrònicament.
+         2. A més del que s’ha indicat en l’apartat anterior, per a les persones d’edat igual o superior a 65 anys i per
+         a les persones amb discapacitat, s’estableix el règim de tercer pagador de les prestacions fetes a Andorra
+         dins els circuits previstos de la VAI, sempre que es facturin electrònicament i que formin part d’alguna de
+         les categories següents:
+
+
+
+
+Govern
+                                                           www.bopa.ad
+                                                                                                      Dipòsit legal: AND.2-2015
+         Núm. 149                                         22 de desembre del 2022                                     2/3
+
+
+
+
+          Lletra clau                                 Definició
+         AMI            Acte efectuat per infermeria
+         AMM            Acte efectuat per fisioterapeutes
+         AMO            Acte efectuat per ortofonistes i logopedes
+         AMU            Acte efectuat per ortoptistes
+         B              Acte d’anàlisi
+         C              Consulta al metge generalista
+         CD             Consulta al dentista
+         CS             Consulta al metge especialista
+         CMT            Visita no presencial de tramitació
+         CTM            Visita no presencial al metge generalista
+         CTE            Visita no presencial al metge especialista
+         CTP            Visita no presencial al psiquiatre
+         D              Extracció i cirurgia dentàries
+         DO             Obturació i cura
+         DQ             Acte d’anestèsia en odontologia
+         FAC            Contrast en RMN
+         K              Acte de diagnòstic
+         LO             Estada en llit d’observació
+         MAT            Material quirúrgic
+         MDA            Majoració visita domiciliària infermeria
+         MDF            Majoració visita domiciliària fisioterapeuta
+         MF             Majoració visita mèdica en festiu
+         MFA            Majoració visita infermeria en festiu
+         MN             Majoració visita mèdica nocturna
+         MNA            Majoració visita nocturna infermeria
+         MNF            Majoració visita mèdica nocturna en festiu
+         NPS            Consulta al metge psiquiatre
+         P              Pròtesi fixa
+         PE1            Punció-biòpsia de mama mitjançant estereotàxia
+         PE2            Punció-biòpsia mitjançant estereotàxia
+         PM             Pròtesi mòbil
+         Q              Acte quirúrgic
+         QA1            Utilització de sala per a actes de cirurgia ambulatòria
+         QC             Utilització de sala per a actes de cirurgia menor de consultori
+         R              Acte de radiologia
+         RMN            Ressonància magnètica nuclear
+         TA1            Tomografia axial computeritzada de tipus 1
+         TA2            Tomografia axial computeritzada de tipus 2
+         TA3            Tomografia axial computeritzada de tipus 3
+         TA4            Tomografia axial computeritzada de tipus 4
+         TA5            Tomografia axial computeritzada de tipus 5
+
+         3. Per aplicar el que està previst en l’apartat 2, es consideren persones amb discapacitat les que han estat
+         valorades per la Conava amb un grau de menyscabament igual o superior al 33%.
+         4. Amb la finalitat de certificar el grau de menyscabament igual o superior al 33% i aplicar de forma auto-
+         matitzada el règim de tercer pagador a les persones amb discapacitat, es preveu la comunicació entre el
+         ministeri encarregat dels afers socials i la Caixa Andorrana de Seguretat Social (CASS) del número de cens
+         de les persones que disposen d’una valoració favorable del grau de menyscabament atorgat per la Conava.”
+
+
+
+
+Govern
+                                                                   www.bopa.ad
+                                                                                                  Dipòsit legal: AND.2-2015
+         Núm. 149                               22 de desembre del 2022                       3/3
+
+
+
+
+         Disposició final
+         Aquest Decret entra en vigor el dia 2 de gener del 2023.
+         Cosa que es fa pública per a coneixement general.
+
+         Andorra la Vella, 22 de desembre del 2022
+
+         Xavier Espot Zamora
+         Cap de Govern
+
+
+
+
+Govern
+                                                       www.bopa.ad
+                                                                          Dipòsit legal: AND.2-2015
+

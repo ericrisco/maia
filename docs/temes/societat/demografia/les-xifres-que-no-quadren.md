@@ -144,9 +144,21 @@ altre les ànimes de la parròquia, un altre els presents el dia del recompte.
 canvia la pregunta**: no és «quina és l'errònia» sinó **«què comptava
 cadascuna»**. Vegeu [el diagnòstic de 1989](../immigracio/el-diagnostic-de-1989.md).
 
-**Buit registrat, prioritari:** **si Andorra ha adoptat mai una definició
-estadística de resident, i quan.** Mentre no se sàpiga, **la sèrie moderna també
-és sospitosa**, no només la històrica.
+**Buit registrat, prioritari — ara tancat en part.** La pregunta era **si
+Andorra ha adoptat mai una definició estadística de resident, i quan**. La
+metodologia oficial de les estimacions de població en dona la meitat de la
+resposta: **hi ha un concepte estadístic de residència habitual**, pres del
+Reglament europeu 763/2008 i reproduït en annex, i la població estimada s'hi
+apropa **des del 2009**. Però el mateix document diu que s'hi apropa **«fins on
+és permès»**, el recompte dels comuns manté un llindar **de 183 dies** enfront
+dels **dotze mesos** de la definició europea, i el cens estadístic que
+l'aplicaria es descriu **en futur**. Vegeu
+[qui compta com a resident](./qui-compta-com-a-resident.md).
+
+**El que segueix obert:** si existeix un acte andorrà que **adopti** aquesta
+definició —i no només que l'esmenti—, per què no es pot aplicar del tot, i què
+comptava cada recompte **abans** del 2009. Mentre això no se sàpiga, **la sèrie
+moderna també demana dir quin dels dos recomptes cita**, no només la històrica.
 
 ## El que aquesta fitxa demana
 
@@ -179,4 +191,5 @@ i cadascuna té un autor que responia a una pregunta diferent.
 - [FHASA](../../economia/energia-i-serveis/fhasa.md) — la frase que aquesta fitxa qüestiona.
 - [Els casalers i els anfochs](../../historia/segle-xix/els-casalers-i-els-anfochs.md) — la crisi que buida el país.
 - [El diagnòstic de 1989](../immigracio/el-diagnostic-de-1989.md) — per què els censos andorrans no quadren.
+- [Qui compta com a resident](./qui-compta-com-a-resident.md) — la definició d'avui, i fins on arriba.
 - [La transhumància](../../economia/ramaderia-i-agricultura/la-transhumancia.md) — la pista del 1914-1918.

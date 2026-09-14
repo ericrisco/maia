@@ -174,12 +174,23 @@ educatiu estranger **formant cambrers per a Andorra**. Vegeu
 
 ## Buits registrats
 
-1. **Les xifres d'avui.** La font té **vint-i-sis anys**.
+1. **Les xifres d'avui.** La font té **vint-i-sis anys**. — **`parcial` des del
+   2026-09-13**: hi ha dades **onze anys més noves**, del curs **2011-2012**, a
+   [el que decideix si un escolar parla català](./el-que-decideix-si-un-escolar-parla-catala.md).
+   Segueixen sent de fa catorze anys.
 2. **El decret de 1917** i el de **1982**, textos.
 3. **El conveni de 1993** sencer.
-4. **Quantes hores de català** es fan als centres francesos.
+4. **Quantes hores de català** es fan als centres francesos. — **`obert`, amb el
+   resultat mesurat.** Les hores segueixen sense constar; el que ara consta és
+   **què en surt**: dels alumnes de nacionalitat francesa, **el 66% diu que entén
+   bé el català i el 52% que el parla bé**, trenta punts per sota dels d'origen
+   portuguès.
 5. **Per què els portuguesos trien l'escola francesa** — és la dada més
-   intrigant de la fitxa.
+   intrigant de la fitxa. — **`obert` quant al perquè; quantificat quant al
+   quant.** El curs 2011-2012, **el 44% dels alumnes d'origen portuguès** i **el
+   30% dels andorrans** eren al sistema francès. **Compte amb el denominador**:
+   aquesta fitxa diu *qui hi ha a l'escola francesa* i aquella diu *on va cada
+   grup*. **No són la mateixa pregunta i no es contradiuen.**
 6. **L'ensenyament espanyol** i **el confessional**: ponències del mateix volum,
    **pendents**.
 

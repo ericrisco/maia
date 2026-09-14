@@ -107,7 +107,12 @@ s'anuncia una escola privada a Andorra l'any 2000.**
   país, **és la dada que falta.**
 - **Si existeix encara** i amb quin nom.
 - **L'Open internacional ATP d'Andorra**: el corpus no en té res. Vegeu
-  [esports](../../esports/README.md).
+  [esports](../../esports/README.md). — **`obert`, confirmat el 2026-09-14, i
+  el mateix buit està declarat des dels dos extrems**: **aquí i a
+  [esports](../../esports/README.md).** **Cap dels dos no el pot tancar**:
+  **`raw/web/esport/` no té cap bolcat de tennis fora de la Copa Davis**
+  ([Èric Cervós](../../esports/altres-esports/eric-cervos.md)).
+  `Requereix font externa: l'ATP o la Federació Andorrana de Tennis.`
 - **Quantes escoles privades hi ha avui** a Andorra. Aquesta fitxa documenta
   **l'inici d'una sèrie**, no el seu estat.
 

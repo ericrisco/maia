@@ -179,17 +179,52 @@ el 2012 **el país va perdre població**
 
 ## Buits registrats
 
+> **Auditats contra la resta del corpus el 2026-09-13.** **Cinc dels set
+> necessiten font externa i segueixen igual.** **Dos no**: **les xarxes
+> migratòries tenen rastre al corpus**, i **els prestanoms ja hi tenen
+> secció.**
+
 1. **Les dades de la CASS per tipus d'ocupació**, no només per sector. **La font
    diu explícitament que no hi té accés** i que amb elles «es podria analitzar
-   amb molta més cura». **Buit prioritari, i identificat per qui el pateix.**
-2. **El conveni trilateral del 2003** i l'ampliació a Portugal del **2007**.
-3. **Les quotes d'immigració** any per any.
-4. **Mojácar, Lalín i Viana do Castelo**: quanta gent, quan.
-5. **L'estudi del CRES sobre la promoció del 2004.**
-6. **La figura del prestanoms**: com funcionava, quan deixa de caldre.
+   amb molta més cura». **Buit prioritari, i identificat per qui el pateix.** —
+   **`obert`, confirmat.** `Requereix font externa: la CASS o Estadística.`
+2. **El conveni trilateral del 2003** i l'ampliació a Portugal del **2007**. —
+   **`obert`, confirmat.** **No surt en cap altre document del corpus.**
+3. **Les quotes d'immigració** any per any. — **`obert`, confirmat**, i **és el
+   mateix buit que declaren [la llei d'immigració del
+   2012](./la-llei-dimmigracio-del-2012.md) i [les comunitats](./les-comunitats.md)**.
+   **Comptat un sol cop, aquesta branca en té un i no tres.**
+   `Requereix font externa: els reglaments de quota al BOPA.`
+4. ~~**Mojácar, Lalín i Viana do Castelo**: quanta gent, quan.~~ — **`parcial`,
+   i les tres xarxes tenen rastre al corpus, encara que cap no tingui xifra.**
+
+   | Origen | El que el corpus en té | On |
+   | --- | --- | --- |
+   | **Viana do Castelo** | **Una persona amb nom i data**: **Xisco Pires, porter internacional andorrà, nascut a Viana do Castelo el 25 de gener del 1998**. I **l'Associació Cultural de Residents d'Alto Minho** —la comarca de Viana do Castelo— **amb seu a l'artèria central d'Encamp** | [Xisco Pires](../../esports/futbol/xisco-pires.md), [les comunitats](./les-comunitats.md) |
+   | **Lalín** | **Fillos de Lalín**, una de les sis associacions espanyoles per regió de l'anuari del 2015 | [les comunitats](./les-comunitats.md) |
+   | **Mojácar** | **res més que aquesta fitxa** | — |
+
+   **Dues de les tres xarxes han deixat associació**, i **una ha deixat un
+   internacional de futbol**. **El que segueix obert són les xifres i les
+   dates.**
+5. **L'estudi del CRES sobre la promoció del 2004.** — **`obert`, confirmat.**
+6. ~~**La figura del prestanoms**: com funcionava, quan deixa de caldre.~~ —
+   **`parcial`, i el corpus hi té una secció sencera que aquesta fitxa no
+   citava.** [La política de nacionalitat](../../institucions/nacionalitat-i-residencia/la-politica-de-nacionalitat.md)
+   en dona **la definició** —**un andorrà que figura com a titular d'un negoci
+   que no és seu**, perquè la llei limitava la propietat estrangera— i, **més
+   valuós, el context comparat**: **Judith Pampalona ho diu de passada, com un
+   fet notori**, i **posa Andorra al costat d'Alemanya i Àustria**, que **fa uns
+   anys també restringien els drets econòmics dels immigrants** i on **«la
+   figura dels prestanoms en els negocis era l'ordre del dia»**.
+   **El «com funcionava» i el «quan deixa de caldre» segueixen oberts**, i
+   **per un motiu que el corpus ja ha registrat**: **és una pràctica que no
+   deixa document.**
 7. **Les tres obres del CRES** citades: *Anàlisi de la situació laboral a
    Andorra* (2003), *La immigració a Andorra* (2004), *Composició de les llars a
-   Andorra* (2005).
+   Andorra* (2005). — **`obert`, confirmat**, i **la segona és el mateix buit
+   que declara [la piràmide de prestigi](./la-piramide-de-prestigi.md)**
+   (Batalla, Casals, Micó — Pagès Editors, 2004).
 
 ## Related
 

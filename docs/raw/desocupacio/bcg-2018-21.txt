@@ -1,0 +1,349 @@
+FORA_DEL_CORPUS — còpia de consulta, no dataset
+Font: Consell General, BCG 21/2018, 26-03-2018
+URL: https://www.consellgeneral.ad/fitxers/documents/bcg-2018/bcg-21-2018
+Consulta: 2026-09-13; drets particulars pendents, cap llicència oberta acreditada.
+Extracció: pdftotext -layout; salts de pàgina conservats.
+Lectura: text complet de vuit pàgines; informes p. 2–6. Renders 3–6 vistos.
+ATENCIÓ: el text pla conserva també el text ratllat de les esmenes.
+La lectura de l'esmena 4 s'ha contrastat amb la imatge de la pàgina 4.
+
+                                    Butlletí
+                                      del
+                                 Consell General
+
+                                                   Núm. 21/2018
+                                          Casa de la Vall, 26 de març del 2018
+
+
+
+
+                                                    SUMARI
+
+
+
+2- PROCEDIMENT LEGISLATIU COMÚ
+2.1 Projectes de llei
+Publicació de l'informe de la Ponència i l’informe de
+la Comissió Legislativa d’Afers Socials en relació al
+Projecte de llei de modificació de la Llei 6/2014,
+del 24 d’abril, de serveis socials i sociosanitaris.
+                                                  pàg. 2
+2                                          Butlletí del Consell General – núm. 21/2018 – Casa de la Vall, 26 de març del 2018
+
+
+
+2- PROCEDIMENT LEGISLATIU                                       serveis socials i sociosanitaris, proposa, segons el que
+COMÚ                                                            disposa l'article 97 del Reglament del Consell
+                                                                General, l'informe següent:
+2.1 Projectes de llei
+
+Edicte
+                                                                Projecte de llei de modificació de la
+                                                                Llei 6/2014, del 24 d’abril, de serveis
+La subsíndica general, d’acord amb les previsions de            socials i sociosanitaris
+l’article 100.2 del Reglament del Consell General,
+Disposa                                                         Exposició de motius
+Publicar l’informe de la Ponència i l’informe de la             El 24 d’abril del 2014, el Consell General va aprovar
+Comissió Legislativa d’Afers Socials en relació al              la Llei 6/2014, del 24 d’abril, de serveis socials i
+Projecte de llei de modificació de la Llei 6/2014,              sociosanitaris. De llavors ençà, aquesta Llei ha estat
+del 24 d’abril, de serveis socials i sociosanitaris.            modificada tres vegades, en virtut de la disposició
+Tot el que es fa públic per a general coneixement i             final setena de la Llei 2/2016, del 10 de març, del
+efectes.                                                        pressupost per a l’exercici del 2016; de les
+                                                                disposicions finals quarta i cinquena de la Llei
+Casa de la Vall, 26 de març del 2018                            3/2017, del 19 de febrer, del pressupost per a
+Mònica Bonell Tuset                                             l’exercici del 2017, i dels articles 10 a 12 de la Llei
+Subsíndica General                                              9/2017, del 25 de maig, de mesures per lluitar contra
+                                                                el tràfic d’éssers humans i protegir-ne les víctimes.
+                                                                En concret, la Disposició final cinquena de la Llei
+Informe de la Ponència de la                                    3/2017 va modificar l’article 32 de la Llei 6/2014,
+Comissió Legislativa d’Afers Socials                            relatiu al barem de valoració patrimonial, amb
+relativa al Projecte de llei de                                 l’objectiu d’establir-ne un sistema de càlcul més
+modificació de la Llei 6/2014, del 24                           senzill, a través de llindars únics assignats als béns
+                                                                immobles, als actius financers i als béns mobles. Al
+d’abril,   de   serveis    socials   i                          mateix temps, també es van revisar aquests llindars
+sociosanitaris                                                  per tal de garantir la sostenibilitat del sistema de
+                                                                pensions de solidaritat, sense deixar de garantir uns
+El M. I. Sr. Gerard Alís Eroles, del Grup
+                                                                ingressos mínims a les persones que ho necessiten,
+Parlamentari Mixt-PS, nomenat ponent per la
+                                                                atès que segons es desprèn de l’article 26, apartat 1,
+Comissió Legislativa d’Afers Socials el dia 12 de
+                                                                de la Llei 6/2014, aquestes pensions s’adrecen a les
+desembre del 2017, en relació al Projecte de llei de
+                                                                persones que no disposen de prou recursos per viure.
+modificació de la Llei 6/2014, del 24 d’abril, de
+serveis socials i sociosanitaris, exposa el següent:            Posteriorment, d’acord amb l’apartat 2 de l’article 32
+                                                                de la Llei 6/2014, segons el qual l’abast dels elements
+S’han presentat 4 esmenes a l’articulat: 3 esmenes
+                                                                patrimonials considerats en el barem i la
+per part del Grup Parlamentari Liberal i 1 esmena
+                                                                determinació de la seva valoració es regulen per
+per part de la Consellera General del Grup
+                                                                reglament, el 26 d’abril del 2017 el Govern va
+Parlamentari Mixt, Sra. Sílvia Eloïsa Bonet.
+                                                                aprovar la modificació del Reglament regulador de
+La Sindicatura, els dies 17 d’octubre i 28 de                   les prestacions econòmiques de serveis socials i
+novembre del 2017, i als efectes determinats per                sociosanitaris, amb la finalitat de desenvolupar
+l’article 18.1.d) del Reglament del Consell General,            l’article 32 esmentat. En efecte, per preservar
+va constatar que les esmenes formulades pels grups              l’equitat i la justícia social en l’aplicació d’aquest
+parlamentaris no eren contràries a les disposicions de          article, es va establir que per considerar superat el
+l’article 112 del Reglament del Consell General, i les          barem de valoració patrimonial, el càlcul del valor
+va admetre a tràmit.                                            dels actius financers i dels béns mobles havia de ser
+El dia 30 de novembre del 2017 es va trametre el                cumulatiu. Al mateix temps, pel que fa a la
+Projecte de llei esmentat i les esmenes a l’articulat           determinació del valor dels béns mobles, es van fer
+presentades a la Comissió Legislativa d’Afers Socials,          constar els béns mobles d’ús personal com a no
+d’acord amb el que preveu l’article 45 del Reglament            inclosos en el còmput corresponent. Finalment, es va
+del Consell General.                                            incorporar la regulació del càlcul del valor dels béns
+                                                                immobles en el supòsit de propietats indivises.
+Per aquests fets, el ponent de la Comissió Legislativa
+d’Afers Socials, en relació al Projecte de llei de              Tanmateix, sens perjudici del desenvolupament
+modificació de la Llei 6/2014, del 24 d’abril, de               reglamentari detallat anteriorment, s’ha considerat
+Butlletí del Consell General – núm. 21/2018 – Casa de la Vall, 26 de març del 2018                                                 3
+
+
+
+oportú, per preservar al màxim la seguretat jurídica                      barem de valoració patrimonial, el càlcul del
+en una matèria especialment sensible, de traslladar                       valor dels actius financers i dels béns mobles
+aquest desenvolupament en el contingut mateix de                          havia de ser cumulatiu. Al mateix temps, pel que
+l’article 32 de la Llei 6/2014. És per aquest motiu que                   fa a la determinació del valor dels béns mobles, es
+es promou aquesta Llei, que es divideix en un article                     van fer constar els béns mobles d’ús personal com
+únic que modifica l’article 32 esmentat, i en dos                         a no inclosos en el còmput corresponent.
+disposicions finals que encomanen al Govern la                            Finalment, es va incorporar la regulació del
+publicació del text consolidat de la Llei de serveis                      càlcul del valor dels béns immobles en el supòsit
+socials i sociosanitaris i estableixen la data de                         de propietats indivises.
+l’entrada en vigor de la Llei.                                            Tanmateix, sens perjudici del desenvolupament
+                                                                          reglamentari     detallat  anteriorment,     s’ha
+Esmena 1                                  De modificació                  considerat oportú, per preservar al màxim la
+Grup Parlamentari Liberal (1)                                             seguretat jurídica en una matèria especialment
+   Es proposa la modificació de l’exposició de motius                     sensible, de traslladar aquest desenvolupament
+   del “Projecte de llei de modificació de la Llei 6/2014,                en el contingut mateix de l’article 32 de la Llei
+   del 24 d’abril, de serveis socials i sociosanitaris”,                  6/2014.
+   quin text queda així:                                                  Igualment, per evitar que les prestacions econòmiques
+   Exposició de motius                                                    previstes en la Llei 6/2014, i que van adreçades a
+                                                                          cobrir situacions de necessitat bàsica de subsistència
+   El 24 d’abril del 2014, el Consell General va
+                                                                          de persones i família, puguin ser embargades per part
+   aprovar la Llei 6/2014, del 24 d’abril, de serveis
+                                                                          de les autoritats judicials o del Saig, es considera
+   socials i sociosanitaris. De llavors ençà, aquesta
+                                                                          oportú modificar l’article 23 de la Llei 6/2014 per
+   Llei ha estat modificada tres vegades, en virtut de
+                                                                          afegir la declaració d’inembargables d’aquestes
+   la disposició final setena de la Llei 2/2016, del 10
+                                                                          prestacions.
+   de març, del pressupost per a l’exercici del 2016;
+   de les disposicions finals quarta i cinquena de la                     És per aquests motius que es promou aquesta Llei,
+   Llei 3/2017, del 19 de febrer, del pressupost per a                    que es divideix en dos articles, que modifiquen els
+   l’exercici del 2017, i dels articles 10 a 12 de la                     articles 23 i 32 abans esmentats, i en dos disposicions
+   Llei 9/2017, del 25 de maig, de mesures per lluitar                    finals que encomanen al Govern la publicació del text
+   contra el tràfic d’éssers humans i protegir-ne les                     consolidat de la Llei de serveis socials i sociosanitaris i
+   víctimes.                                                              estableixen la data de l’entrada en vigor de la Llei.
+   En concret, la disposició final cinquena de la Llei                    Motivació
+   3/2017 va modificar l’article 32 de la Llei 6/2014,                    En coherència amb l’esmena següent.
+   relatiu al barem de valoració patrimonial, amb
+   l’objectiu d’establir-ne un sistema de càlcul més                  Esmena 2                                           D'addició
+   senzill, a través de llindars únics assignats als béns             Grup parlamentari Liberal (2)
+   immobles, als actius financers i als béns mobles.
+   Al mateix temps, també es van revisar aquests                          Es proposa l’addició d’un article 1 al projecte de
+   llindars per tal de garantir la sostenibilitat del                     llei, de modificació de l’article 23 de la Llei
+   sistema de pensions de solidaritat, sense deixar de                    6/2014, amb el següent text:
+   garantir uns ingressos mínims a les persones que                       “Article 1. Modificació de l’article 23 de la Llei
+   ho necessiten, atès que segons es desprèn de                           6/2014
+   l’article 26, apartat 1, de la Llei 6/2014, aquestes                   Es modifica l’article 23 de la Llei 6/2014, del 24
+   pensions s’adrecen a les persones que no disposen                      d’abril, de serveis socials i sociosanitaris, el qual
+   de prou recursos per viure.                                            queda redactat de la manera següent:
+   Posteriorment, d’acord amb l’apartat 2 de l’article                    Article 23.Declaració d’inembargables i classificació
+   32 de la Llei 6/2014, segons el qual l’abast dels
+   elements patrimonials considerats en el barem i la                     Les prestacions econòmiques objecte de la present llei
+   determinació de la seva valoració es regulen per                       es declaren inembargables.
+   reglament, el 26 d’abril del 2017 el Govern va                         Les prestacions econòmiques són abonades pel
+   aprovar la modificació del Reglament regulador                         Govern i poden ser pensions de solidaritat,
+   de les prestacions econòmiques de serveis socials i                    prestacions familiars per fill a càrrecs i ajuts
+   sociosanitaris, amb la finalitat de desenvolupar                       econòmics ocasionals.”
+   l’article 32 esmentat. En efecte, per preservar                        Motivació
+   l’equitat i la justícia social en l’aplicació d’aquest
+   article, es va establir que per considerar superat el
+4                                              Butlletí del Consell General – núm. 21/2018 – Casa de la Vall, 26 de març del 2018
+
+
+
+    Arrel de les darreres informacions i queixes fetes                  1. Es considera superat el barem de valoració
+    públiques, segons les quals, els saigs haurien                      patrimonial si el valor de mercat dels béns
+    arribat a embargar part de l’import de les ajudes                   immobles, en què no es computa l’habitatge
+    socials rebudes per algunes persones, es considera                  habitual, és igual o superior a 10 vegades el LECS
+    convenient afegir al “Projecte de llei de modificació               personal en còmput anual. En el supòsit de
+    de la Llei 6/2014, del 24 d’abril, de serveis socials i             propietats indivises, es distribueix el valor de
+    sociosanitaris”, la declaració d’inembargables                      l’immoble a parts iguals entre els propietaris,
+    d’aquestes prestacions econòmiques.                                 llevat que hi hagi proves en contra sobre la quota
+                                                                        dels uns i dels altres.
+Article únic. Modificació de l’article 32 de la Llei
+6/2014                                                                  2. També es considera superat el barem de
+                                                                        valoració patrimonial quan si de forma
+Es modifica l’article 32 de la Llei 6/2014, del 24
+                                                                        cumulativa el valor dels actius financers i el valor
+d’abril, de serveis socials i sociosanitaris, el qual
+                                                                        dels béns mobles, en què no es computen els béns
+queda redactat de la manera següent:
+                                                                        mobles d’ús personal i els vehicles adaptats per a
+“Article 32. Barem de valoració patrimonial                             persones amb discapacitat, és igual o superior a
+1. Es considera superat el barem de valoració                           10 6,5 vegades el LECS personal en còmput
+patrimonial si el valor de mercat dels béns immobles,                   anual.
+en què no es computa l’habitatge habitual, és igual o                   3. I també es considera superat el barem de
+superior a 10 vegades el LECS personal en còmput                        valoració patrimonial quan el valor dels béns
+anual. En el supòsit de propietats indivises, es                        mobles, en què no es computen els béns
+distribueix el valor de l’immoble a parts iguals entre                  mobles d’ús personal i els vehicles adaptats per
+els propietaris, llevat que hi hagi proves en contra                    a persones amb discapacitat, és igual o superior
+sobre la quota dels uns i dels altres.                                  a 15 vegades el LECS personal en còmput
+2. També es considera superat el barem de valoració                     anual.
+patrimonial si de forma cumulativa el valor dels                        4. Per considerar superat el barem de valoració
+actius financers i el valor dels béns mobles, en què                    patrimonial, el càlcul es fa considerant el valor
+no es computen els béns mobles d’ús personal i els                      dels apartats 2 i 3 de forma separada.
+vehicles adaptats per a persones amb discapacitat, és
+                                                                        5 3. L’abast dels elements patrimonials
+igual o superior a 6,5 vegades el LECS personal en
+                                                                        considerats en el barem de valoració patrimonial i
+còmput anual.
+                                                                        la determinació de la seva valoració es regulen
+3. L’abast dels elements patrimonials considerats en                    per reglament.”
+el barem de valoració patrimonial i la determinació
+                                                                        MOTIVACIÓ:
+de la seva valoració es regulen per reglament.”
+                                                                        Es modifiquen les valoracions dels actius mobles i
+Esmena 3                                 De modificació                 dels actius financers, i es deixen de forma
+Grup parlamentari Liberal (3)                                           separada de nou. Entenc que la situació
+                                                                        econòmica de moltes persones continua sent
+    Es proposa modificar únicament el títol o                           molt fràgil, i crec que cal flexibilitzar l’accés a les
+    denominació de l’article únic del projecte de llei,                 ajudes socials.
+    que passaria a ésser l’article 2, amb el següent
+    text:                                                           Disposició final primera. Publicació del text
+    “Article 2. Modificació de l’article 32 de la Llei              consolidat
+    6/2014”                                                         S’encomana al Govern que, en el termini màxim de
+                                                                    sis mesos des de l’entrada en vigor d’aquesta Llei,
+    Motivació
+                                                                    publiqui al Butlletí Oficial del Principat d’Andorra el
+    En coherència amb l’esmena anterior.                            text consolidat de la Llei 6/2014, del 24 d’abril, de
+                                                                    serveis socials i sociosanitaris, que inclogui les
+Esmena 4                                 De modificació             modificacions introduïdes fins a l’actualitat en
+Grup Mixt- Sílvia Eloïsa Bonet (1)                                  aquesta Llei.
+    Es proposa modificar Article únic que modifica
+                                                                    Disposició final segona. Entrada en vigor de
+    l’article 32 de la Llei 6/2014, del 24 d’abril, de
+    serveis socials i sociosanitaris, el qual queda
+                                                                    la Llei
+                                                                    Aquesta Llei entrarà en vigor l’endemà de ser
+    redactat de la manera següent:
+                                                                    publicada al Butlletí Oficial del Principat d’Andorra.
+    “Article 32. Barem de valoració patrimonial
+                                                                    El Ponent,
+Butlletí del Consell General – núm. 21/2018 – Casa de la Vall, 26 de març del 2018                                         5
+
+
+
+M. I. Sr. Gerard Alís Eroles.                                         pensions de solidaritat, sense deixar de garantir uns
+                                                                      ingressos mínims a les persones que ho necessiten,
+                                                                      atès que segons es desprèn de l’article 26, apartat 1,
+Informe de la Comissió Legislativa                                    de la Llei 6/2014, aquestes pensions s’adrecen a les
+d’Afers Socials relativa al Projecte de                               persones que no disposen de prou recursos per viure.
+llei de modificació de la Llei 6/2014,                                Posteriorment, d’acord amb l’apartat 2 de l’article 32
+del 24 d’abril, de serveis socials i                                  de la Llei 6/2014, segons el qual l’abast dels elements
+                                                                      patrimonials considerats en el barem i la
+sociosanitaris                                                        determinació de la seva valoració es regulen per
+La Comissió Legislativa d’Afers Socials ha examinat,                  reglament, el 26 d’abril del 2017 el Govern va
+en el decurs de les reunions celebrades els dies 6 i 20               aprovar la modificació del Reglament regulador de
+de març del 2018, l'informe del ponent relatiu al                     les prestacions econòmiques de serveis socials i
+Projecte de llei de modificació de la Llei 6/2014, del                sociosanitaris, amb la finalitat de desenvolupar
+24 d’abril, de serveis socials i sociosanitaris, d'acord              l’article 32 esmentat. En efecte, per preservar
+amb els articles 98 i 99 del Reglament del Consell                    l’equitat i la justícia social en l’aplicació d’aquest
+General, del qual se'n desprèn el següent:                            article, es va establir que per considerar superat el
+                                                                      barem de valoració patrimonial, el càlcul del valor
+Esmenes no aprovades:                                                 dels actius financers i dels béns mobles havia de ser
+                                                                      cumulatiu. Al mateix temps, pel que fa a la
+Esmena 1 (Grup parlamentari Liberal) de                               determinació del valor dels béns mobles, es van fer
+modificació a l’exposició de motius.                                  constar els béns mobles d’ús personal com a no
+Esmena 2 (Grup parlamentari Liberal) d’addició                        inclosos en el còmput corresponent. Finalment, es va
+d’un article 1.                                                       incorporar la regulació del càlcul del valor dels béns
+Esmena 3(Grup parlamentari Liberal) de                                immobles en el supòsit de propietats indivises.
+modificació a l’article únic.
+                                                                      Tanmateix, sens perjudici del desenvolupament
+                                                                      reglamentari detallat anteriorment, s’ha considerat
+Esmenes retirades:
+                                                                      oportú, per preservar al màxim la seguretat jurídica
+Esmena 4 (Grup Mixt- Sílvia Eloïsa Bonet) de                          en una matèria especialment sensible, de traslladar
+modificació a l’article únic.                                         aquest desenvolupament en el contingut mateix de
+                                                                      l’article 32 de la Llei 6/2014. És per aquest motiu que
+                                                                      es promou aquesta Llei, que es divideix en un article
+Projecte de llei de modificació de la                                 únic que modifica l’article 32 esmentat, i en dos
+Llei 6/2014, del 24 d’abril, de serveis                               disposicions finals que encomanen al Govern la
+                                                                      publicació del text consolidat de la Llei de serveis
+socials i sociosanitaris
+                                                                      socials i sociosanitaris i estableixen la data de
+Exposició de motius                                                   l’entrada en vigor de la Llei.
+
+El 24 d’abril del 2014, el Consell General va aprovar                 Article únic. Modificació de l’article 32 de la Llei
+la Llei 6/2014, del 24 d’abril, de serveis socials i                  6/2014
+sociosanitaris. De llavors ençà, aquesta Llei ha estat                Es modifica l’article 32 de la Llei 6/2014, del 24
+modificada tres vegades, en virtut de la disposició                   d’abril, de serveis socials i sociosanitaris, el qual
+final setena de la Llei 2/2016, del 10 de març, del                   queda redactat de la manera següent:
+pressupost per a l’exercici del 2016; de les
+                                                                      “Article 32. Barem de valoració patrimonial
+disposicions finals quarta i cinquena de la Llei
+3/2017, del 19 de febrer, del pressupost per a                        1. Es considera superat el barem de valoració
+l’exercici del 2017, i dels articles 10 a 12 de la Llei               patrimonial si el valor de mercat dels béns immobles,
+9/2017, del 25 de maig, de mesures per lluitar contra                 en què no es computa l’habitatge habitual, és igual o
+el tràfic d’éssers humans i protegir-ne les víctimes.                 superior a 10 vegades el LECS personal en còmput
+                                                                      anual. En el supòsit de propietats indivises, es
+En concret, la Disposició final cinquena de la Llei
+                                                                      distribueix el valor de l’immoble a parts iguals entre
+3/2017 va modificar l’article 32 de la Llei 6/2014,
+                                                                      els propietaris, llevat que hi hagi proves en contra
+relatiu al barem de valoració patrimonial, amb
+                                                                      sobre la quota dels uns i dels altres.
+l’objectiu d’establir-ne un sistema de càlcul més
+senzill, a través de llindars únics assignats als béns                2. També es considera superat el barem de valoració
+immobles, als actius financers i als béns mobles. Al                  patrimonial si de forma cumulativa el valor dels
+mateix temps, també es van revisar aquests llindars                   actius financers i el valor dels béns mobles, en què
+per tal de garantir la sostenibilitat del sistema de                  no es computen els béns mobles d’ús personal i els
+6                                             Butlletí del Consell General – núm. 21/2018 – Casa de la Vall, 26 de març del 2018
+
+
+
+vehicles adaptats per a persones amb discapacitat, és
+igual o superior a 6,5 vegades el LECS personal en
+còmput anual.
+3. L’abast dels elements patrimonials considerats en
+el barem de valoració patrimonial i la determinació
+de la seva valoració es regulen per reglament.”
+
+Disposició final primera. Publicació del text
+consolidat
+S’encomana al Govern que, en el termini màxim de
+sis mesos des de l’entrada en vigor d’aquesta Llei,
+publiqui al Butlletí Oficial del Principat d’Andorra el
+text consolidat de la Llei 6/2014, del 24 d’abril, de
+serveis socials i sociosanitaris, que inclogui les
+modificacions introduïdes fins a l’actualitat en
+aquesta Llei.
+
+Disposició final segona. Entrada en vigor de
+la Llei
+Aquesta Llei entrarà en vigor l’endemà de ser
+publicada al Butlletí Oficial del Principat d’Andorra.
+
+En els termes precedents es formula l’informe de la
+Comissió Legislativa de què, d’acord amb l’article
+100.1 del Reglament del Consell General, es tramet
+al M.I. Sr. Síndic General, als efectes escaients.
+
+M. I. Sra. Patrícia Riberaygua Marme
+Vicepresidenta
+de la Comissió Legislativa d’Afers Socials
+
+M. I. Sra. Sílvia Eloïsa Bonet Perot
+Presidenta
+de la Comissió Legislativa d’Afers Socials
+Butlletí del Consell General
+Dipòsit legal: And. 262/94
+ISSN 1024-9044
+Preu de l'exemplar: 0,90 €
+Subscripcions: Tel. 877877
+

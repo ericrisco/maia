@@ -141,8 +141,28 @@ si mateixa abans de definir-se jurídicament.
 - ~~El col·legi Janer~~ — **tancat**: és el trasllat a **Santa Coloma el 1968**
   del col·legi d'Andorra la Vella de **1883**
   ([l'ensenyament confessional](./lensenyament-confessional.md)).
-- **Les classes de català per a adults del 1962**: quanta gent, qui les feia.
-- **Què hi havia entre 1962 i 1972**, deu anys en blanc en aquesta cronologia.
+- **Les classes de català per a adults del 1962**: quanta gent, qui les feia. —
+  **`obert`, confirmat el 2026-09-14**: **cap document del corpus no en dona ni
+  el nombre d'assistents ni els docents.**
+  `Requereix font externa: les actes del Consell General.`
+- ~~**Què hi havia entre 1962 i 1972**, deu anys en blanc en aquesta
+  cronologia.~~ — **`resolt`: la dècada no era en blanc, era en un altre article
+  del corpus.** **Buit caducat**, tancat el 2026-09-14 amb
+  [l'ensenyament confessional](./lensenyament-confessional.md) i amb
+  [l'ensenyament francès](./lensenyament-frances.md):
+
+  | Any | Què hi va passar |
+  | --- | --- |
+  | **Fi del curs 1961-62** | **Tanca el col·legi de les germanes a Sant Julià de Lòria**, obert el juliol del 1887 |
+  | **1962** | **El Consell General comença a construir edificis escolars** — **l'any en què el poder andorrà entra a l'educació**, primer com a constructor |
+  | **1964** | **Espanya obre a Andorra la Vella una delegació d'ensenyament mitjà dependent de la Seu d'Urgell**, després institut de batxillerat |
+  | **17 d'octubre del 1966** | **El bisbe Iglesias Navarri inaugura el col·legi Sant Ermengol**, amb **patronat meitat Consell, meitat Mitra** |
+  | **1972** | **El Cours complémentaire francès es transforma en CES** |
+
+  **En deu anys tanca una escola religiosa, s'obre'n una altra amb l'Estat
+  andorrà dins del patronat, Espanya hi posa el batxillerat i França hi fa
+  créixer el collège.** **No és una dècada buida: és la dècada en què el Consell
+  General deixa de mirar i comença a pagar.**
 
 ## Related
 

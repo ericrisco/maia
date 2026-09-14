@@ -151,12 +151,75 @@ on **tretze anys després** el temporer segueix sent la peça central del sistem
 
 ## Buits registrats
 
-1. **Dades del lloguer i del salari** el 1989, per contrastar el 60%.
-2. **Quantes persones vivien en càmpings** i on.
-3. **La proposta de ciutat-dormitori de 1989**: qui, on, quan.
-4. **La resposta de l'alcalde de la Seu.**
-5. **Quan s'aprova el primer habitatge de protecció** a Andorra, si s'ha aprovat.
-6. **Sèrie històrica** del lloguer sobre el salari.
+> **Auditats el 2026-09-14 contra el corpus i contra la font pròpia d'aquesta
+> fitxa.** **Cap dels sis no es tanca del tot, però dos canvien d'estat i dos
+> canvien de motiu**: **no és que el corpus no ho hagi destil·lat, és que la
+> ponència d'Agustí Font s'estalvia expressament el detall**, i això és una cosa
+> diferent d'un buit de destil·lació.
+
+1. **Dades del lloguer i del salari** el 1989, per contrastar el 60%. —
+   **`obert`, confirmat, i ara se sap que no és un buit d'aquesta fitxa sinó
+   d'una branca sencera.** **La meitat de la fracció que falta —el salari— és
+   el buit transversal més gran del corpus**, registrat a
+   [l'acomiadament lliure](../treball/lacomiadament-lliure.md): **quatre
+   articles més depenen del salari mínim andorrà i cap no en té la xifra**, ni
+   del 1989 ni de cap any. **El corpus té el salari mínim de Luxemburg i de
+   Malta i no el d'Andorra**
+   ([els petits estats comparats](../../institucions/petits-estats/els-petits-estats-comparats.md)).
+   `Requereix font externa: Estadística, o el decret anual del salari mínim.`
+2. **Quantes persones vivien en càmpings** i on. — **`obert`, confirmat, i el
+   motiu és de font**: **Font ho dona com a denúncia, no com a recompte** —«fet
+   que algunes vegades hem denunciat»—, **i el corpus no té cap altra ocurrència
+   de càmping com a habitatge**: l'única de tot el corpus és
+   [els pisos turístics](../../economia/turisme-i-neu/els-pisos-turistics.md),
+   **que el compta com a allotjament turístic regulat, que és exactament el
+   contrari.** `Requereix font externa: censos de població de 1989, o premsa de
+   l'època.`
+3. ~~**La proposta de ciutat-dormitori de 1989**: qui, on, quan.~~ — **`parcial`,
+   i el *quan* es tanca amb la font pròpia**: **Font hi respon «fa pocs dies»
+   des de la 2a Diada Andorrana d'agost del 1989**, de manera que **la proposta
+   és de l'estiu del 1989**. **El *qui* i el *on* segueixen oberts, i ara se sap
+   per què: l'autor no els vol dir.** **La font declara la seva pròpia
+   omissió** —la proposta s'ha fet «**com de passada, sense massa filosofies al
+   darrere**» i l'anàlisi «**seria prou dura com per estalviar-la**». **És una
+   font que calla a posta**, no una fitxa que no hagi llegit prou.
+4. **La resposta de l'alcalde de la Seu.** — **`obert`, i el motiu és el
+   mateix**: **la font en dona el to i no el contingut** —«un comentari ple de
+   bon seny i de dignitat»— **i no en dona ni el nom ni el mitjà.** **El corpus
+   tampoc no té cap altre document sobre la relació entre les dues ciutats**
+   excepte una frase, i val la pena posar-la al costat d'aquesta:
+   **«Andorra i la Seu d'Urgell s'han donat l'esquena durant segles»**
+   ([les respostes de 1994](../../politica/identitat-politica/les-respostes-de-1994.md)).
+   `Requereix font externa: premsa de la Seu o d'Andorra, estiu del 1989.`
+5. ~~**Quan s'aprova el primer habitatge de protecció** a Andorra, si s'ha
+   aprovat.~~ — **`parcial`: la segona meitat de la pregunta es tanca amb el
+   corpus, la primera no.** **Sí que s'ha aprovat, i el corpus en té tres peces,
+   totes del 2026:**
+
+   | Peça | Què hi ha | On |
+   | --- | --- | --- |
+   | **Llei del creixement sostenible i dret a l'habitatge** («llei òmnibus»), **6 de març del 2026** | Crea un **parc públic de lloguer assequible** i hi pot cedir pisos buits per **incompliment de la funció social de la propietat** (arts. 71-72) | [els habitatges buits](./els-habitatges-buits.md) |
+   | **Impost contra l'especulació** | Exonera qui posa l'immoble a **lloguer assequible un mínim de deu anys** (4.14) | [l'impost contra l'especulació](./limpost-contra-lespeculacio.md) |
+   | **Llei 10/2026**, superàvit de 2025 | **35 milions d'euros** en quatre partides d'**habitatge social**: terrenys, edificis, construcció i projectes | [el superàvit que finança habitatge i hospital](../../economia/banca-i-fiscalitat/el-superavit-que-financa-habitatge-i-hospital.md) |
+
+   **Trenta-set anys després de la pregunta de Font —«és impossible a Andorra un
+   habitatge social?»— la resposta pressupostària són 35 milions.** **El que
+   segueix `obert` és la data del primer**: **el corpus salta del debat de 1989
+   a la llei del 2026 sense res al mig.**
+   `Requereix font externa: el BOPA anterior al 2026.`
+6. **Sèrie històrica** del lloguer sobre el salari. — **`obert`, confirmat, i és
+   el mateix buit que el número 1 mirat en el temps**: **sense la sèrie del
+   salari mínim no hi ha fracció que valgui.** **El corpus té els dos extrems
+   del numerador** —**«superior al 60% del sou base» el 1989** i **+25% de
+   lloguer entre el 2023 i el 2024, amb el 13% del mercat en lloguer**
+   ([la crisi de l'habitatge](./la-crisi-de-lhabitatge.md))— **i cap punt
+   intermedi ni cap denominador.**
+
+> **Defecte registrat, del tipus «el mateix buit declarat dues vegades dins del
+> mateix article»:** els buits **3** i **4** ja estaven escrits més amunt, al
+> cos, com a «**Buit registrat, i excel·lent**». **Es deixen els dos llocs** —la
+> regla del corpus és no esborrar el text original d'un buit— **però l'estat
+> vàlid és el d'aquesta secció.**
 
 ## Related
 

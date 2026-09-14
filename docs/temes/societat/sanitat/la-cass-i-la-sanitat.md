@@ -1,93 +1,167 @@
 ---
 type: article
 title: La CASS i la sanitat
-description: "Un sol hospital per a tot el país, i un sistema de copagament amb reemborsament."
+description: La tarifa de responsabilitat, el tercer pagador i els límits de resumir el reembossament sanitari en dos percentatges.
 tema: temes/societat/sanitat
 veu: compilada
 epoca: contemporania
 apte_llengua: false
-font: viquipedia-ca
-timestamp: 2026-09-12T06:00:00Z
-tags: [societat, sanitat, institucions, vida-quotidiana]
+font: bopa-ad
+timestamp: 2026-09-13T20:18:33Z
+tags: [societat, sanitat, institucions, vida-quotidiana, cass]
 ---
 
 # La CASS i la sanitat
 
-## La CASS
+La **Caixa Andorrana de Seguretat Social** és l’entitat parapública que
+assegura la gestió administrativa, tècnica i financera del sistema andorrà
+de seguretat social, sota control del Govern. Aquesta és la missió que
+li atribueix l’article 40 del text refós publicat el **2 de maig de 2018**.
+La lectura distingeix aquest marc de les reformes de 2019 i del reglament
+d’accés de 2026; no certifica el cost final d’una consulta concreta.
+([Article 40, p. 10](../../../raw/desocupacio/bopa-seguretat-social-refos-2018.pdf).)
 
-**Caixa Andorrana de Seguretat Social.** Creada l'**abril del 1968**, gestiona
-administrativament, tècnicament i financerament el sistema sanitari andorrà
-([Viquipèdia](../../../fonts/viquipedia-ca.md)).
+## Un percentatge necessita una base
 
-**«La CASS» és una paraula quotidiana a Andorra**, i el corpus no la tenia. Va
-directament a
-[com funciona tot](../../vida-quotidiana/com-funciona-tot/com-funciona-tot.md),
-que la llistava com a buit.
+La llei defineix la **tarifa de responsabilitat** com el valor assignat
+als actes, processos, productes i serveis inclosos en la nomenclatura.
+Aquesta nomenclatura determina què es cobreix, quins prestadors estan
+autoritzats, les condicions i les incompatibilitats entre actes. El Govern
+l’aprova per reglament, amb informe preceptiu però no vinculant del Consell
+d’Administració de la CASS.
+([Articles 134–135, p. 35](../../../raw/desocupacio/bopa-seguretat-social-refos-2018.pdf).)
 
-## El model: copagament i reemborsament
+Per això, dir «reembossament del 100%» exigeix precisar **de les tarifes
+de responsabilitat i segons la nomenclatura**. L’article 139.5 ho estableix
+per als accidents laborals i les malalties professionals; el 139.6 enumera
+altres persones amb aquest dret, entre elles les de recursos insuficients
+que compleixin els requisits reglamentaris. No se’n dedueix que qualsevol
+factura sanitària presentada quedi íntegrament coberta.
+([Article 139.5–8, p. 37](../../../raw/desocupacio/bopa-seguretat-social-refos-2018.pdf).)
 
-**La cobertura no és absoluta.** El sistema funciona per **copagament**: pagues i
-la CASS et retorna una part.
+## Qui avança els diners
 
-| Concepte | Retorn |
-| --- | --- |
-| Consultes d'especialista i medicaments | **75 %** |
-| Estades hospitalàries i cirurgia | **90 %** |
+El **tercer pagador** és el règim en què la CASS abona directament al
+prestador les despeses a càrrec de la seguretat social. El text de 2018
+hi inclou les prestacions hospitalàries i les que tenen dret al
+reembossament del 100% de les tarifes de l’article 139, sota les condicions
+que s’han de fixar reglamentàriament. També preveu altres supòsits.
 
-Això és un model **diferent del de la sanitat pública espanyola**, on el pacient
-no paga al taulell. Per a un model de llengua, la conseqüència és pragmàtica:
-**a Andorra es parla de la sanitat en termes de percentatges i reemborsaments**,
-i això apareix en conversa normal d'una manera que no passa al sud.
+Quan aquest règim no és aplicable, la persona assegurada paga al prestador
+i després demana el reembossament. L’ordre «primer paga el pacient,
+després la CASS» descriu aquest segon circuit, no tots dos.
+([Article 141.1–4, p. 38](../../../raw/desocupacio/bopa-seguretat-social-refos-2018.pdf).)
 
-## L'hospital
+## Per què dues xifres no expliquen tota la cobertura
 
-**Hospital Nostra Senyora de Meritxell**, a **Escaldes-Engordany**. Construït el
-**1993** — el mateix any de la Constitució — **en un terreny molt costerut**.
-**192 habitacions individuals amb bany.**
+L’article 139 bis permet una participació del beneficiari fixa o
+proporcional. En la modalitat proporcional, preveu fins al 10% de les
+tarifes hospitalàries i fins al 25% per a altres actes, amb una regla
+específica del 10% al 50% per a nous productes o processos en el
+desplegament del model assistencial que descriu. També permet que la
+llei del pressupost modifiqui la participació o fixi límits en determinats
+supòsits. No són dos percentatges universals sobre qualsevol despesa.
+([Article 139 bis.1–3, p. 37](../../../raw/desocupacio/bopa-seguretat-social-refos-2018.pdf).)
 
-**És l'únic hospital del país.**
+L’assistència a l’estranger depèn, segons l’article 137, dels tractats
+internacionals i, quan no hi regulen la qüestió, de la llei, els reglaments
+i els convenis amb establiments estrangers. Aquesta remissió no acredita
+per si sola les condicions de cap conveni concret.
+([Article 137, p. 36](../../../raw/desocupacio/bopa-seguretat-social-refos-2018.pdf).)
 
-Es diu com la [patrona](../../costums/meritxell/meritxell.md), com tantes coses
-a Andorra.
+## La via preferent canvia les condicions
 
-Que hi hagi **un sol hospital** és un fet estructural: per a qualsevol cosa que
-no s'hi pugui fer, cal sortir del país. D'aquí els **convenis d'assistència
-sanitària amb Espanya, França i Portugal**.
+La **Llei 6/2019, del 31 de gener**, modifica aquest marc. El seu
+article 14 dona una nova redacció al 139: el reembossament del 100% per
+accident laboral o malaltia professional i el dels col·lectius enumerats
+al 139.6 queden condicionats expressament a accedir al sistema i seguir
+la via que el reglament estableixi com a preferent. La publicació de 2018
+no contenia aquesta condició en aquells apartats.
+([Llei 6/2019, article 14, nou 139.5–6, p. 7–8](../../../raw/desocupacio/bopa-llei6-2019.pdf);
+[refós de 2018, 139.5–6, p. 37](../../../raw/desocupacio/bopa-seguretat-social-refos-2018.pdf).)
 
-El detall de **Portugal** no és decoratiu: el portuguès és la **tercera llengua
-materna** d'Andorra amb un **13,5 %**
-([dades](../../llengua/politica-linguistica/qui-parla-que.md)). Hi ha un conveni
-sanitari perquè hi ha una comunitat.
+També distingeix dos supòsits que no s’han de sumar automàticament.
+El nou 139.2 fixa un reembossament del **20% de les tarifes de
+responsabilitat** per actes efectuats o prescrits per prestadors sense
+conveni, amb possibilitat de modificació pressupostària. El 139.3 preveu
+una excepció per urgència justificada en una àrea sense prestador
+convencionat. Separadament, el nou 139 bis.1.b preveu, quan no s’accedeix
+a la via preferent o no se segueix, una **participació del beneficiari**
+de fins al 67% per la visita mèdica i fins al 40% pels altres actes,
+productes i processos que descriu. Reembossament de la CASS i participació
+del pacient són magnituds diferents; aquí es recull la redacció legal,
+no una liquidació aplicable a qualsevol factura.
+([Articles 14–15, nous 139.2–3 i 139 bis.1–3, p. 7–8](../../../raw/desocupacio/bopa-llei6-2019.pdf).)
 
-## El SAAS
+El tercer pagador també canvia: el nou 141.2.e hi incorpora les consultes
+al **metge referent** dels usuaris que segueixin la via preferent, sempre
+que es facturin electrònicament. El mateix apartat 2 exclou les prestacions
+classificades com a equivalents en la nomenclatura. Per tant, ni tenir
+cobertura ni anar a una consulta determina tot sol qui avança els diners.
+([Article 16, nou 141.1–4, p. 8–9](../../../raw/desocupacio/bopa-llei6-2019.pdf).)
 
-**Servei Andorrà d'Atenció Sanitària** — el prestador públic. Identificat i
-**no documentat**: què cobreix, com es relaciona amb la CASS, quins centres té.
-**Buit registrat.**
+## Una reforma amb dos calendaris
 
-## Avís sobre les fonts
+La disposició final segona publicada el febrer de 2019 fixava l’entrada
+en vigor el **17 de setembre de 2019**. La Llei 20/2019, publicada el
+**9 d’octubre**, la modifica i fixa l’**1 de gener de 2020** per als
+articles 13, 14 i 15, que reformen el 138, el 139 i el 139 bis.
+L’article 16, que reforma el tercer pagador, no figura en aquesta excepció.
+L’exposició de motius atribueix l’ajornament a la necessitat d’adaptació
+d’usuaris, prestadors i sistemes informàtics de la CASS; això no acredita
+que l’adaptació estigués completada en una data concreta.
+([Llei 6/2019, final segona, p. 11](../../../raw/desocupacio/bopa-llei6-2019.pdf);
+[Llei 20/2019, exposició, article únic i final, p. 1–2](../../../raw/desocupacio/bopa-llei20-2019.pdf).)
 
-Bona part del que es troba a la xarxa sobre la CASS ve de **gestories i
-assessories comercials** que venen serveis de residència. **Aquesta fitxa només
-recull el que coincideix amb fonts no comercials**, i per això és curta.
+## El desplegament llegit de 2026
 
-Les xifres de cotització, els tipus i els requisits **no s'han escrit**, pel
-mateix criteri que a
-[nacionalitat i residència](../../institucions/nacionalitat-i-residencia/nacionalitat-i-residencia.md):
-dades que semblen precises, canvien amb cada reforma i vénen de qui té interès a
-explicar-les d'una manera determinada.
+El reglament aprovat pel Decret 305/2026 identifica la via d’atenció
+integrada com a preferent i en concreta les portes d’entrada. El seu
+article 19 estableix el tercer pagador per a consultes al metge referent
+facturades electrònicament i, amb els requisits que precisa, per a persones
+de 65 anys o més i persones amb discapacitat valorada per la Conava amb
+un mínim del 33% de menyscabament. La
+[lectura del reglament](les-portes-dentrada-a-la-via-preferent.md)
+detalla aquests supòsits i l’entrada en vigor diferida de l’ampliació
+del termini de derivacions.
+([Articles 6 i 19, p. 5 i 12–13; article únic, p. 1](../../../raw/desocupacio/bopa-decret305-2026-acces-sanitari.pdf).)
 
-**La font bona és la CASS mateixa i no s'ha obert.**
+## Relacionat
 
-## El que falta
+- [Cotitzar sense cobrar l’ajut de desocupació](../treball/cotitzar-sense-cobrar-lajut-de-desocupacio.md): règim especial del 224 bis i continuïtat de cobertura.
+- [Què justificava la inversió hospitalària de 2026](que-justificava-la-inversio-hospitalaria-de-2026.md): lectura pressupostària amb límits sobre execució i capacitat.
+- [La salut mental](la-salut-mental.md).
+- [Com funciona tot](../../vida-quotidiana/com-funciona-tot/com-funciona-tot.md).
+- [Fitxa del BOPA](../../../fonts/bopa-ad.md).
 
-Cotitzacions i qui paga què · la sanitat privada i el seu pes · els metges i on
-s'han format · la salut mental · l'envelliment i la dependència · com es demana
-hora i com se'n parla —que és **lèxic quotidià** i no és en cap web.
+## Buits registrats
 
-## Related
-
-- [La salut mental](./la-salut-mental.md) — el servei del SAAS, des del 1998.
-- [Com funciona tot](../../vida-quotidiana/com-funciona-tot/com-funciona-tot.md)
-- [Nacionalitat i residència](../../institucions/nacionalitat-i-residencia/nacionalitat-i-residencia.md)
-- [Qui parla què](../../llengua/politica-linguistica/qui-parla-que.md)
+- Tancat el buit genèric «la CASS mateixa no s’ha obert»: la
+  [secció sobre el règim especial d’Ocupació](../../../fonts/cass-ad.md)
+  s’ha consultat. No s’han revisat totes les pàgines de prestacions de la CASS.
+- Articles 40–41 i 132–142, inclòs el 139 bis, llegits complets al refós
+  de 2018; pàgines 35–38 contrastades visualment. No s’han llegit les 77
+  pàgines íntegres. Tancat parcialment el buit posterior amb les lleis
+  6/2019 i 20/2019, llegides completes; pàgines 7–9 de la primera i 1–2
+  de la segona contrastades visualment. La cadena posterior completa,
+  la nomenclatura actual i l’aplicació continuen pendents. El buit de
+  reglament d’accés s’ha tancat amb el Decret 305/2026 complet, inclòs
+  l’article 19 de tercer pagador; queden oberts els seus desplegaments
+  específics i els buits detallats a la lectura enllaçada. No s’ha comprovat el tractament dels
+  expedients entre el 17 de setembre i la publicació de la Llei 20/2019,
+  ni la participació aplicada a cada servei el 2026.
+- Retirades les xifres de 75% i 90% presentades abans sense peça ni versió,
+  i la comparació absoluta amb el pagament a Espanya. La nova lectura
+  acredita el marc legal de 2018, no valida aquella taula com a regla actual.
+- La data de creació de la CASS, les «192 habitacions individuals»,
+  la data i les característiques de construcció de l’hospital i l’afirmació
+  que és l’únic del país no s’han contrastat amb fonts primàries en aquesta
+  tanda. S’han retirat com a fets; la
+  [instantània anterior](../../../raw/desocupacio/la-cass-i-la-sanitat-abans-20260913.txt)
+  conserva el text per auditar la revisió.
+- No s’han llegit els convenis d’assistència amb Espanya, França o Portugal,
+  ni s’ha documentat una relació causal entre llengua materna i existència
+  de convenis. No s’han verificat aquí les competències i centres del SAAS,
+  la sanitat privada o l’atenció efectiva. Els llindars normatius de demora
+  per derivació externa consten al reglament de 2026; els temps reals
+  d’accés continuen sense contrastar.

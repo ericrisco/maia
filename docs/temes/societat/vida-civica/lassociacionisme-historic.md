@@ -177,14 +177,48 @@ constitució formal— però **cap de les dues ponències no ho diu**, i el corp
 1. **La Crema de Canillo**: dates, estatuts, quants associats, si en queda
    documentació. **El corpus no en té res més que aquest paràgraf.**
 2. **Els estatuts de la Consòrcia** i si les obligacions d'assistència hi consten
-   per escrit.
-3. **La Confraria de Sant Sebastià** de Sant Julià: **quin any de pesta**.
-4. **La consòrcia de capellans**: existeix documentació?
-5. **El Centre Moral i Recreatiu**: quan es funda exactament i què se'n va fer.
+   per escrit. — **`obert`, i des del 2026-09-13 amb el llibre localitzat dins
+   del corpus mateix**: **Pere Canturri, *La consòrcia de casats d'Andorra*,
+   Andorra la Vella, Editorial Andorra, 1989**, citat al document
+   d'historiografia que el corpus ja tenia
+   ([les tres fases](../../historia/historiografia/les-tres-fases.md)).
+3. **La Confraria de Sant Sebastià** de Sant Julià: **quin any de pesta**. —
+   **`obert`, i amb la monografia localitzada**: **David Mas i Sergi Mas,
+   *Consòrcies i germandats de Sant Julià de Lòria*, 1987** — **mateixa
+   procedència**. **Cobreix les dues institucions laurèdianes d'aquesta llista
+   alhora.**
+4. **La consòrcia de capellans**: existeix documentació? — **`obert`,
+   confirmat**, i **és l'única de les quatre germandats d'aquesta fitxa que no
+   té cap monografia localitzada.**
+5. ~~**El Centre Moral i Recreatiu**: quan es funda exactament i què se'n va
+   fer.~~ — **`parcial`, i el «què se'n va fer» té resposta en una branca on
+   ningú no la buscava.** **El corpus el té funcionant**: **el Centre Moral i
+   Recreatiu d'Andorra és un dels quatre espais d'Andorra la Vella on es feia
+   teatre** abans que hi hagués cap sala dedicada
+   ([la vida teatral](../../cultura/teatre/la-vida-teatral.md)), al costat del
+   **Cinema-Teatre-Casino Andorrà**, l'**Ateneu Cultural i Recreatiu** i el
+   **Cinema Valira**. **Una entitat d'associacionisme catòlic que fa de sala
+   d'espectacles**: **és exactament el que aquesta fitxa descriu quan diu que
+   les associacions cobrien el que no cobria ningú.** **La data de fundació
+   segueix oberta.**
 6. **La llista de les ~150 associacions** no s'ha transcrit. Serviria per datar
-   la vida cívica del 2007 nom per nom.
-7. **Els quarts i els veïnats**: si encara contracten res, i quines parròquies
-   fan servir cada mot.
+   la vida cívica del 2007 nom per nom. — **`obert`, confirmat**, i **val la
+   pena dir què hi guanyaria**: [les comunitats](../immigracio/les-comunitats.md)
+   en té **vint-i-una del 2015, totes d'immigrants**. **Les dues llistes juntes
+   dirien si la vida associativa andorrana i la immigrant es toquen o són dos
+   mons.**
+7. ~~**Els quarts i els veïnats**: si encara contracten res, i quines parròquies
+   fan servir cada mot.~~ — **`parcial`, i les dues meitats tenen ara
+   resposta desigual.** **Quines parròquies**: [quarts i
+   veïnats](../../institucions/quarts-i-veinats/quarts-i-veinats.md) ho té des
+   de sempre —**quarts a Ordino, la Massana i Sant Julià; veïnats a Canillo**—
+   i **ara hi afegeix per què Escaldes no en té: n'era un, i es va fer parròquia
+   el 1978**. **Si encara contracten res**: **el mestre i el metge, no**; **però
+   el 1990 encara gestionaven l'aigua, el clavegueram, l'electricitat i els
+   permisos d'obra a Ordino i la Massana**, segons el treball de camp de
+   [Joan Becat](../../../fonts/becat-tesi-1993.md). **El que va matar la funció
+   no va ser una llei: van ser les tallades de bosc**, que eren l'únic ingrés
+   propi i **s'havien exhaurit.**
 8. **1604 o 1659** (vegeu l'avís).
 
 ## Related

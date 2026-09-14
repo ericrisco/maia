@@ -185,7 +185,16 @@ mesos.
 5. **Si els anys de sojorn compten** per a la residència.
 6. **Les divuit modificacions**: què va canviar cadascuna.
 7. **La llei de nacionalitat vigent**, que és una altra norma i **el corpus no la
-   té a `raw/lleis/`**.
+   té a `raw/lleis/`**. — **`obert`, confirmat el 2026-09-13.** **A
+   `raw/lleis/` hi ha `immigracio.txt` i cap fitxer de nacionalitat.** **És
+   un buit estructural i no de lectura**, i **té conseqüències més enllà
+   d'aquesta branca**: [els andorrans de primera
+   generació](../../institucions/nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md),
+   [la política de nacionalitat](../../institucions/nacionalitat-i-residencia/la-politica-de-nacionalitat.md)
+   i [els nats a Andorra](./els-nats-a-andorra.md) **descriuen tots la
+   política de nacionalitat sense que el corpus tingui el text de la llei que
+   la fixa avui.** `Requereix font externa: la Llei qualificada de la
+   nacionalitat, al BOPA o a jurisprudencia.ad.`
 
 ## Related
 

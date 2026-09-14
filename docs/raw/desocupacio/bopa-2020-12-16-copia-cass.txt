@@ -1,0 +1,260 @@
+FORA_DEL_CORPUS
+Publicador normatiu: BOPA · Govern d’Andorra
+Allotjador: CASS; termes del portal pendents
+Peça: Decret del 16-12-2020, BOPA 150 del 17-12-2020, 5 pàgines
+Consulta: 2026-09-13
+Extracció: pdftotext -layout; salts de pàgina preservats
+Estat: lectura raw; pendent de contrast amb exemplar directe BOPA
+
+         Núm. 150                                   17 de desembre del 2020                                                  1/5
+
+
+
+
+         Altres disposicions
+
+         Decret
+         Decret del 16-12-2020 de modificació temporal i excepcional del Decret del 7-10-2020 d’aprovació
+         del Reglament de les prestacions econòmiques dels serveis socials i sociosanitaris durant la situació
+         d’emergència sanitària ocasionada pel SARS-CoV-2.
+
+         Exposició de motius
+         La situació actual de crisi sanitària provocada pel SARS-CoV-2, tant a escala nacional com en els països del
+         nostre entorn, ha provocat un ajornament en la data d’inici de l’activitat comercial i laboral de les empre-
+         ses que tenen l’activitat centrada principalment en el sector de la neu. Aquestes empreses han vist com
+         la seva planificació, tant pel que fa a la data d’obertura com al volum de personal per contractar durant la
+         temporada d’hivern, presenta una situació incerta.
+         El Govern no pot ser passiu davant d’aquesta situació i pretén donar resposta a la situació dels professionals
+         del sector de l’esquí i dels sectors que hi estan vinculats, que no han pogut iniciar l’activitat laboral. Així, el
+         Govern crea una prestació econòmica, de caràcter no contributiu, per desocupació involuntària de caràcter
+         temporal i excepcional per respondre a les necessitats econòmiques d’aquestes persones que actualment
+         es troben en una situació de desocupació involuntària, amb dificultats per satisfer les necessitats bàsiques
+         i de cobertura sanitària.
+         Aquest ajut per desocupació involuntària, temporal i excepcional, s’adreça a les persones assalariades que,
+         a partir de l’1 de desembre del 2020, de forma totalment aliena a la seva voluntat, no han pogut iniciar
+         l’activitat laboral en el sector de l’esquí o sectors vinculats, en règim de jornada legal ordinària de treball, i
+         la situació econòmica i social de les quals ha empitjorat com a conseqüència directa de l’ajornament de la
+         temporada d’esquí 2020-2021, motivat per la situació de crisi sanitària causada pel SARS-CoV-2.
+         Així mateix, la situació de desocupació l’ha d’haver causat la impossibilitat de formalitzar el contracte de
+         treball corresponent o, una vegada formalitzat, el fet que aquestes persones no han pogut fer efectiva la
+         incorporació al lloc de treball en haver-se ajornat la data d’inici de les activitats del sector de l’esquí o de
+         sectors vinculats per a la temporada d’hivern 2020-2021.
+         Per facilitar la tramitació de la prestació, s’han adaptat els requisits relatius al període de cotització a la Caixa
+         Andorrana de Seguretat Social, els quals han estat reduïts. També s’ha suprimit el període d’inscripció al
+         Servei d’Ocupació i el compromís d’inserció activa i s’ha escurçat el termini per resoldre la sol·licitud, que
+         passa de dos mesos a deu dies. També ha disminuït el volum de documentació que cal adjuntar.
+         La quantia de la prestació econòmica per desocupació involuntària és equivalent al salari mínim oficial
+         mensual, amb el topall màxim del llindar econòmic de cohesió social (LECS) personal o familiar, segons
+         correspongui. Així mateix, el Govern afilia les persones beneficiàries a la CASS com a cotitzadores a la branca
+         general i a la branca de jubilació, i els descompta el percentatge de cotització corresponent, d’acord amb
+         la legislació en matèria de seguretat social vigent, durant el temps que es percebi l’ajut.
+         Totes les persones susceptibles de beneficiar-se d’aquest ajut poden sol·licitar-lo amb l’entrada en vigor
+         d’aquest Decret, però es percep a partir de l’1 de desembre del 2020, llevat que la data d’inici del contracte
+         laboral sigui posterior; en aquest últim cas es percep a partir de la data de començament establerta al
+         contracte laboral.
+
+
+
+
+Govern
+                                                            www.bopa.ad
+                                                                                                         Dipòsit legal: AND.2-2015
+         Núm. 150                                  17 de desembre del 2020                                                2/5
+
+
+
+
+         Per a les persones que amb l’entrada en vigor d’aquest Decret no han pogut formalitzar el contracte laboral
+         per a la temporada d’esquí 2020-2021, la data d’inici de la prestació és la que figura al certificat de l’empresa
+         que les havia de contractar. En cap cas, l’inici de la prestació no pot ser anterior a l’1 de desembre del 2020.
+         La durada de la flexibilització de l’ajut per desocupació involuntària s’aplicarà a partir de l’1 de desembre del
+         2020 i es mantindrà fins que les empreses relacionades amb l’activitat de l’esquí no iniciïn amb normalitat
+         la temporada d’esquí 2020-2021. Una vegada començada l’activitat, aquest ajut queda extingit.
+         Ateses les consideracions esmentades, el Govern, a proposta del ministre d’Afers Socials, Habitatge i Joventut,
+         en la sessió del dia 16 de desembre del 2020, aprova aquest Decret de modificació temporal del Decret
+         del 7-10-20 d’aprovació del Reglament de les prestacions econòmiques dels serveis socials i sociosanitaris
+         amb el contingut següent:
+
+         Article 1. Addició de l’article 26 bis
+         S’addiciona un nou article 26 bis al Decret del 7-10-20 d’aprovació del Reglament de les prestacions eco-
+         nòmiques dels serveis socials i sociosanitaris, el qual queda redactat de la manera següent:
+
+         “Article 26 bis. Ajuts per desocupació involuntària durant la situació d’emergència sanitària ocasionada pel
+         SARS-CoV-2 per a les activitats relacionades amb la temporada d’esquí
+         1. Persones beneficiàries
+         Es poden beneficiar d’aquest ajut per desocupació involuntària les persones assalariades que, a partir de l’1
+         de desembre del 2020, de forma totalment aliena a la seva voluntat, no han pogut iniciar l’activitat laboral
+         en el sector de l’esquí o en sectors que hi estan vinculats, en règim de jornada legal ordinària de treball, i
+         la situació econòmica i social de les quals ha empitjorat com a conseqüència directa de l’ajornament de la
+         temporada d’esquí 2020-2021, motivat per la situació de crisi sanitària causada pel SARS-CoV-2.
+         En tot cas, la situació de desocupació l’ha d’haver causat la impossibilitat de formalitzar el contracte de
+         treball corresponent o, una vegada formalitzat, el fet que aquestes persones no han pogut fer efectiva la
+         incorporació al lloc de treball en haver-se ajornat la data d’inici de les activitats del sector de l’esquí o de
+         sectors que hi estan vinculats per a la temporada d’hivern 2020-2021.
+         2. Requisits generals
+         La persona sol·licitant ha d’acreditar el compliment dels requisits generals establerts en l’article 5 de la Llei
+         6/2014, del 24 d’abril, de serveis socials i sociosanitaris.
+         3. Requisits específics
+           a) Residència legal, efectiva i permanent a Andorra.
+           b) Haver estat contractada a Andorra, durant la temporada d’esquí 2019-2020, en règim de jornada le-
+           gal ordinària, en algun dels sectors d’ocupació afectats per l’ajornament de l’inici de la temporada d’es-
+           quí 2020-2021. El departament competent en matèria d’afers socials efectua d’ofici les comprovacions
+           necessàries per verificar el compliment d’aquest requisit.
+           c) Estar donada d’alta a la Caixa Andorrana de Seguretat Social com a persona assalariada en la darre-
+           ra feina realitzada.
+           d) Haver formalitzat un contracte laboral en règim de jornada legal ordinària per iniciar l’activitat en una
+           empresa vinculada al sector de l’esquí o en sectors que hi estan vinculats i que no s’hagi pogut incorpo-
+           rar al lloc de treball a causa de l’ajornament de l’obertura de la temporada d’esquí 2020-2021, o bé que
+           no s’hagi pogut dur a terme la contractació efectiva en règim de jornada legal ordinària de treball com a
+           conseqüència de l’ajornament de l’inici de la temporada d’esquí 2020-2021.
+           e) No haver complert l’edat mínima per accedir a la pensió de jubilació, d’acord amb la normativa vigent
+           en matèria de seguretat social, ni rebre cap pensió d’un organisme públic o privat, nacional o estranger,
+           en concepte de prejubilació, ni rebre cap altra pensió que, segons la normativa aplicable, no sigui com-
+
+
+
+Govern
+           patible amb l’exercici d’una activitat laboral.
+
+
+
+                                                          www.bopa.ad
+                                                                                                      Dipòsit legal: AND.2-2015
+         Núm. 150                                  17 de desembre del 2020                                                3/5
+
+
+
+
+           f) Estar inscrita en el Servei d’Ocupació com a demandant d’ocupació en situació de recerca. El departa-
+           ment competent en matèria d’afers socials efectua d’ofici la verificació del compliment d’aquest requisit.
+           g) Les persones sol·licitants de vint-i-sis anys d’edat o més han d’haver cotitzat com a assalariades a la
+           Caixa Andorrana de Seguretat Social un període mínim de divuit mesos al llarg dels darrers trenta mesos.
+           h) Les persones sol·licitants de fins a vint-i-cinc anys d’edat han d’haver cotitzat com a assalariades a la
+           Caixa Andorrana de Seguretat Social un període mínim de nou mesos.
+         4. Obligacions de les persones beneficiàries
+         Les persones beneficiàries d’aquest ajut per desocupació involuntària tenen l’obligació de justificar el compli-
+         ment dels requisits i les obligacions que pugui exigir la normativa aplicable, en concret els que s’estableixin
+         per a les persones usuàries del Servei d’Ocupació.
+         5. Quantia
+         La quantia de l’ajut és equivalent al salari mínim oficial mensual, amb el topall màxim del llindar econòmic
+         de cohesió social (LECS) personal o familiar, segons correspongui.
+         6. Naturalesa
+         El Govern afilia les persones beneficiàries a la CASS com a cotitzadores a la branca general i a la branca de
+         jubilació, i els descompta el percentatge de cotització corresponent, d’acord amb la legislació en matèria de
+         seguretat social vigent, durant el temps que es percebi l’ajut. En tot cas, són ajuts de caràcter no contributiu.
+         7. Efectivitat i durada
+         Totes les persones susceptibles de beneficiar-se d’aquest ajut poden sol·licitar-lo amb l’entrada en vigor
+         d’aquest Decret, però es percep a partir de l’1 de desembre del 2020, llevat que la data d’inici del contracte
+         laboral sigui posterior; en aquest últim cas es percep a partir de la data de començament establerta al
+         contracte laboral.
+         Per a les persones que amb l’entrada en vigor d’aquest Decret no han pogut formalitzar el contracte la-
+         boral per a la temporada d’esquí 2020-2021, la data d’inici de la prestació és la que figura al certificat de
+         l’empresa que les havia de contractar. En cap cas, el començament de la prestació no pot ser anterior a l’1
+         de desembre del 2020.
+         8. Subsidiarietat, compatibilitat i complementarietat de l’ajut
+         L’ajut per desocupació involuntària és subsidiari de qualsevol altra prestació a la qual pugui tenir dret la
+         persona sol·licitant, a excepció de les prestacions econòmiques de serveis socials i sociosanitaris, i és com-
+         patible amb altres prestacions o ajuts per a finalitats diferents, si bé es comptabilitza l’ajut per desocupació
+         involuntària com a ingrés. L’ajut per desocupació involuntària pot ser complementat, mitjançant convenis
+         de col·laboració, amb prestacions i ajuts dels comuns o d’altres entitats públiques o privades.
+         9. Presentació de la sol·licitud i documentació que cal adjuntar
+         Les persones que vulguin sol·licitar l’ajut per desocupació involuntària regulat en aquest Decret han de
+         presentar la sol·licitud corresponent al Servei de Tràmits del Govern, prèvia descàrrega del formulari al
+         portal web d’aquest Servei (www.tramits.ad/) i cita prèvia.
+         La persona sol·licitant ha d’acompanyar la sol·licitud de la documentació següent:
+           a) Passaport o document nacional d’identitat de la persona sol·licitant, si és estrangera.
+           b) Còpia del contracte acompanyat d’un certificat de l’empresa conforme no ha iniciat la relació laboral
+           de jornada legal ordinària com a conseqüència de l’ajornament de la data d’inici de la temporada d’es-
+           quí 2020-2021 (si escau).
+           c) Certificat de l’empresa que l’havia de contractar en què consti el compromís de contractació efecti-
+
+
+
+Govern
+           va per part de l’empresa (si escau) i en què s’indiqui: el nom de l’empresa, el lloc de treball per al qual la
+
+
+
+
+                                                          www.bopa.ad
+                                                                                                      Dipòsit legal: AND.2-2015
+         Núm. 150                                   17 de desembre del 2020                                                  4/5
+
+
+
+
+           persona sol·licitant havia de ser contractada en règim de jornada legal ordinària, el motiu pel qual no s’ha
+           pogut fer efectiva la contractació, la data prevista d’inici de l’activitat laboral, el salari fix mensual, les da-
+           des de la persona de contacte de l’empresa i el número de telèfon de contacte.
+           d) Document de declaració i consentiment de verificació de dades (sol·licitud A3T019).
+           e) Targeta en què consti el número de compte IBAN de la persona sol·licitant.
+         L’Administració pública no pot requerir l’aportació de documents emesos per la mateixa Administració
+         sol·licitant, a excepció dels documents d’identificació.
+         10. Procediment, organismes competents i comprovacions
+         El procediment de tramitació de les sol·licituds s’ha d’ajustar al que estableix el Codi de l’Administració
+         vigent, amb les especificacions que es regulen als apartats següents:
+           a) El Departament d’Afers Socials i Joventut, del Ministeri d’Afers Socials, Habitatge i Joventut, accepta de
+           manera provisional la sol·licitud acompanyada de la documentació prevista anteriorment i la tramita.
+           b) El Departament d’Afers Socials i joventut pot fer totes les comprovacions que consideri oportunes per
+           verificar l’exactitud de la sol·licitud i, amb aquesta finalitat, pot demanar a la persona sol·licitant que li fa-
+           ciliti tota la documentació que resulti adequada; també, i d’acord amb les autoritzacions rebudes, pot sol·
+           licitar a la CASS que li faciliti les dades de la persona sol·licitant que es trobin en el seu poder.
+           c) Sense perjudici del que estableix el paràgraf anterior, el procediment segueix les fases que es preve-
+           uen en el capítol vuitè del Decret del 7-10-20 d’aprovació del Reglament de les prestacions econòmiques
+           dels serveis socials i sociosanitaris. No obstant això, el període per resoldre la sol·licitud d’ajut per deso-
+           cupació involuntària no pot ser superior a deu dies hàbils.
+           d) Tot el procés de tramitació de les prestacions s’executa de forma coordinada entre el departament en-
+           carregat dels afers socials i el departament encarregat de l’ocupació: correspon al departament encarre-
+           gat dels afers socials la gestió i el pagament de l’ajut, i correspon al departament encarregat de l’ocupació
+           el control i el seguiment del conjunt de les obligacions en matèria d’ocupació.
+         11. Extinció
+         Aquest ajut s’extingeix en el moment en què la persona beneficiària trobi feina abans d’acabar-se el període
+         de percepció de l’ajut.
+         També es pot extingir per les causes específiques següents:
+           a) Si es constata que la persona beneficiària de l’ajut exerceix o ha exercit alguna activitat remunerada
+           durant el període de percepció de l’ajut.
+           b) Si refusa una oferta de treball adequada mentre la persona sigui beneficiària d’aquest ajut.
+           c) El compliment de l’edat mínima per accedir a la pensió de jubilació, d’acord amb la normativa en ma-
+           tèria de seguretat social, o la percepció d’una pensió d’un organisme públic o privat, nacional o estran-
+           ger, en concepte de prejubilació.
+           d) El fet de beneficiar-se d’una pensió que, segons la normativa aplicable, no sigui compatible amb l’exer-
+           cici d’una activitat laboral.
+           e) La comissió de qualsevol de les infraccions molt greus establertes en la legislació en matèria d’ocupació.
+         12. Durada de la flexibilització
+         Les disposicions establertes en aquest article són aplicables a partir del dia 1 de desembre del 2020 i es
+         mantindran fins que les empreses relacionades amb l’activitat de l’esquí no iniciïn amb normalitat la tem-
+         porada d’esquí 2020-2021. Una vegada començada l’activitat, la prestació d’aquest ajut queda extingida.
+
+
+
+
+Govern
+                                                            www.bopa.ad
+                                                                                                         Dipòsit legal: AND.2-2015
+         Núm. 150                                   17 de desembre del 2020                                                 5/5
+
+
+
+
+         13. Definicions
+         A efectes d’aquest Decret, es considera:
+           a) Jornada legal ordinària: la definida a l’article 54.1.a de la Llei de relacions laborals vigent.
+           b) Residència permanent: aquella en què la persona sol·licitant resideix de manera legal i efectiva durant
+           tot l’any al Principat d’Andorra.”
+
+         Disposició final
+         Aquest Decret entra en vigor el mateix dia de ser publicat al Butlletí Oficial del Principat d’Andorra.
+         Cosa que es fa pública per a coneixement general.
+
+         Andorra la Vella, 16 de desembre del 2020
+
+         Xavier Espot Zamora
+         Cap de Govern
+
+
+
+
+Govern
+                                                           www.bopa.ad
+                                                                                                        Dipòsit legal: AND.2-2015
+

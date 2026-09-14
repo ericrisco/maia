@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: jurisprudencia-ad
-timestamp: 2026-09-14T10:20:00Z
+timestamp: 2026-09-13T14:40:00Z
 tags: [treball, economia, societat, dret, cultura, turisme]
 ---
 
@@ -61,7 +61,7 @@ per part de l'empresa» (article 16.2).
 
 **La llei protegeix les vacances del menor tant com el seu temps d'escola.**
 
-## Un dret a l'ocupabilitat, no a un subsidi
+## El dret a l'ocupabilitat i la prestació per desocupació
 
 La Llei d'ocupació construeix tot un sistema —**Servei d'Ocupació**, **Estratègia
 andorrana per a l'ocupació**, **Observatori de les polítiques socials**— al
@@ -80,17 +80,19 @@ Hi ha fins i tot **experiències ocupacionals** de fins a **una setmana** en una
 empresa, sense contraprestació, amb el **Govern assumint l'assegurança d'accident
 i de responsabilitat civil** del demandant (article 22.5).
 
-**Buit registrat i important:** la **prestació econòmica per desocupació
-involuntària existeix** —la Llei de la seguretat social la cita expressament
-(article 224 bis)— **però la norma que la regula no és al recull de les 104**. El
-corpus **no pot dir quant és, quant dura ni qui hi té dret**, i **no ha
-d'afirmar que no existeixi**.
+**Buit parcialment tancat el 13-09-2026:** s'ha localitzat i llegit la norma
+reguladora de l'ajut: l'article 26 del Reglament de les prestacions econòmiques
+dels serveis socials i sociosanitaris, aprovat el 7-10-2020. La
+[lectura de l'ajut per desocupació involuntària](lajut-per-desocupacio-involuntaria.md)
+detalla la redacció de 2020 i la flexibilització temporal de 2021, amb els
+textos del BOPA conservats. Ja es poden citar aquelles regles amb data;
+**continua pendent verificar la cadena completa de modificacions i els
+requisits aplicables a una sol·licitud actual**.
 
-El que sí que consta és el negatiu: la CASS té un **règim especial** per a «les
-persones registrades al Servei d'Ocupació **que no reben** la prestació econòmica
-per desocupació involuntària» —majors de 18 i menors de 65, amb **tres anys de
-residència continuada** i, si passen dels 35, **36 mensualitats cotitzades**
-(article 224 bis de la Llei de la seguretat social).
+La CASS regula separadament les persones registrades al Servei d'Ocupació
+que **no reben** la prestació, a l'article 224 bis de la Llei de la seguretat
+social. Els seus requisits són els d'aquell règim especial d'afiliació, no
+els de l'ajut econòmic ([article 224 bis, instantània del 12-09-2026](../../../raw/lleis/seguretat-social.txt)).
 
 ## Els autònoms
 
@@ -142,8 +144,10 @@ sustentant-se principalment de l'art (article 3.3).
 
 ## Buits registrats
 
-- **La llei de la prestació per desocupació involuntària no és al recull.** És el
-  buit més gran d'aquest bloc.
+- **Desocupació: norma localitzada i redaccions de 2020–2021 llegides.** Vegeu
+  [l'ajut per desocupació involuntària](lajut-per-desocupacio-involuntaria.md).
+  Queda oberta la verificació completa de la vigència actual; el buit era
+  de documentació reglamentària, no prova d'absència de prestació.
 - **Els nivells d'ingressos** que decideixen qui és artista acreditat van a
   reglament i **no són al corpus**.
 - **Quants artistes acreditats hi ha**, quants autònoms al Registre i quantes

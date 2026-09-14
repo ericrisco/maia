@@ -162,7 +162,13 @@ I Goya no la converteix en nihilisme:
 2. **L'acomiadament dels mestres estrangers de l'estiu de 1996**: quants, per
    quina norma, i què se'n va dir. **Prioritari.**
 3. **Els edictes de contractació pública** de 1996-1997 i la seva redacció.
-4. **Qui era el síndic Álvarez** (vegeu més amunt), i **el ministre Goicoechea**.
+4. **Qui era el síndic Álvarez** (vegeu més amunt), i **el ministre
+   Goicoechea**. — **`obert`, confirmat.** **Cap dels dos noms no surt en cap
+   altre document del corpus** —**Goicoechea, en cap**; **«Álvarez» surt set
+   cops i totes set vegades és una altra persona**, sobretot
+   [Koldo Álvarez](../../esports/futbol/koldo-alvarez.md). **El corpus no té
+   cap sèrie de síndics generals ni de ministres**, i **aquest buit no és
+   d'aquesta fitxa sinó de [persones](../../persones/README.md).**
 5. **Si l'accés per temps de residència és realment del 1995** o hi ha
    precedents.
 

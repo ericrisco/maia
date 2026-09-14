@@ -110,5 +110,13 @@ que mana [la llei de l'esport](../../esports/competicio/la-llei-de-lesport.md).
   50 persones, quina és la bretxa salarial andorrana. La llei ordena mesurar;
   el corpus no té les mesures.
 - **La violència de gènere** té llei pròpia —la font la cita com a «LEVG»— i
-  **no és al recull de normes consolidades**. És un buit important.
+  **no és al recull de normes consolidades**. És un buit important. —
+  **`obert`, confirmat el 2026-09-14, i el corpus n'és més buit del que semblava:**
+  **de tot el corpus, l'única altra ocurrència de «violència de gènere» no és
+  una norma de protecció sinó una causa de secret** —la **lletra k** de les
+  excepcions de la llei de transparència, que protegeix la intimitat **«amb
+  menció expressa dels menors i de les víctimes de violència de gènere»**
+  ([el que no et deixen veure](../../institucions/govern/el-que-no-et-deixen-veure.md)).
+  **El corpus sap com s'amaga i no com es persegueix.**
+  `Requereix font externa: el text de la LEVG.`
 - **Si l'article 24 s'ha aplicat mai** en un judici andorrà, no consta.

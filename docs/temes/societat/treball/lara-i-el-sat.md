@@ -123,7 +123,18 @@ parapúblics.
 3. **Noms** dels socis fundadors de l'ARA i del SAT.
 4. **Què va ser de l'ARA** — existeix encara?
 5. **La segmentació social** dels col·lectius immigrats, descrita.
-6. **La comunitat filipina** a Andorra.
+6. **La comunitat filipina** a Andorra. — **`parcial`, i és el mateix buit que
+   declara [la piràmide de prestigi](../immigracio/la-piramide-de-prestigi.md).**
+   **La menció d'aquesta fitxa, del 1976, és la més antiga que el corpus en té**,
+   i **al seu voltant n'hi ha quatre més**: **509 persones el 2020**
+   ([la composició per nacionalitats](../demografia/la-composicio-per-nacionalitats.md)),
+   **associació pròpia, Filand** ([les comunitats](../immigracio/les-comunitats.md)),
+   **línia de recerca oberta a l'Arxiu d'Etnografia**
+   ([l'AEA](../../cultura/museus-i-arxius/larxiu-detnografia.md)) i **la
+   percepció de grup tancat**
+   ([per què tothom s'hi sentia integrat](../immigracio/per-que-tothom-shi-sentia-integrat.md)).
+   **Cinquanta anys de presència documentada, i cap paraula dita per la
+   comunitat mateixa.** **Comptat un sol cop, és un buit i no dos.**
 7. **Si el SAT existeix avui** i amb quin estatus.
 
 ## Related

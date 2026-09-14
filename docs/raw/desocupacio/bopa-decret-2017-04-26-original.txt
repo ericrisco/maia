@@ -1,0 +1,100 @@
+FORA_DEL_CORPUS — evidència local, no dataset
+Font: BOPA
+URL: https://documents.bopa.ad/bopa-documents/029027/pdf/GR20170427_11_17_25.pdf
+Publicació: Decret26-04-2017; BOPA27,03-05-2017; GR20170427_11_17_25
+Consulta: 2026-09-13
+Condicions: https://www.bopa.ad/AvisLegal ; text normatiu amb atribució, sentit i dates preservats. Sense suport implícit del publicador; gràfics i maquetació no reutilitzats.
+Extracció: pdftotext -layout; salts de pàgina conservats.
+Lectura: Dues pàgines llegides completes i dos renders vistos. Preàmbul i article únic, inclosa entrada en vigor. Text HTML BOPA també llegit; còpia PDF com a evidència principal.
+
+--- TEXT EXTRET ---
+
+         Núm. 27                                        3 de maig del 2017                                                   1/2
+
+
+
+
+         Reglaments
+
+         Decret
+         L’article 32 de la Llei 6/2014, del 24 d’abril, de serveis socials i sociosanitaris, estableix quins són els criteris
+         per considerat superat o no el barem de valoració patrimonial. Aquest barem és l’instrument que valora
+         el patrimoni de les persones sol·licitants de prestacions socials o dels seus familiars, a fi de determinar
+         l’accés a aquestes prestacions, modular-ne l’import i establir el copagament o la gratuïtat de determinats
+         serveis. L’article 32 esmentat es va modificar en virtut de la disposició final cinquena de la Llei 3/2017, del
+         9 de febrer, del pressupost per a l’exercici del 2017, amb la finalitat de garantir la sostenibilitat de la des-
+         pesa en relació amb les pensions de solidaritat, però sense deixar de garantir uns ingressos mínims a les
+         persones que les necessiten. I, també, amb l’objectiu que no se satisfessin pensions de solidaritat, que són
+         de caràcter no contributiu, a persones que disposen de recursos suficients, la qual cosa contravindria el
+         que estableix en aquest àmbit l’apartat 1 de l’article 26 de la Llei 6/2014.
+         Atès que l’apartat 2 de l’article 32 vigent de la Llei 6/2014 preveu que l’abast dels elements patrimonials
+         considerats en el barem i la determinació de la seva valoració es regulen per reglament, i que l’article 32
+         esmentat ja es desenvolupava mitjançant el número iii) de la lletra a) de l’apartat 2 de l’article 5 del Regla-
+         ment regulador de les prestacions econòmiques de serveis socials i sociosanitaris, del 18 de maig del 2016,
+         esdevé necessari canviar aquesta disposició reglamentària per adaptar-la a la reforma del nou apartat 2
+         de l’article 32 de la Llei 6/2014, amb les precisions que escaiguin als efectes d’aplicar el barem de valoració
+         patrimonial d’acord amb criteris d’equitat i justícia social.
+         Ateses les consideracions esmentades, a proposta del ministre d’Afers Socials, Justícia i Interior, el Govern,
+         en la sessió del 26 d’abril del 2017, aprova aquest Decret amb el contingut següent:
+
+         Article únic
+         S’aprova la modificació de l’article 5, apartat 2, lletra a), número iii) del Reglament regulador de les pres-
+         tacions econòmiques de serveis socials i sociosanitaris, que entrarà en vigor l’endemà que es publiqui al
+         Butlletí Oficial del Principat d’Andorra, i que queda redactat com segueix:
+
+         “Article 5. Principis i definicions
+         […]
+         2. Els conceptes emprats en aquest Reglament s’interpreten d’acord amb les definicions establertes a
+         l’article 2 de la Llei 6/2014, que s’apliquen segons els criteris següents:
+           a) Llindar econòmic de cohesió social (d’ara endavant, “LECS”) i barem de valoració patrimonial:
+         […]
+           iii) Per aplicar el barem de valoració patrimonial establert a l’article 32 de la Llei 6/2014, tal com ha estat
+           modificat per la disposició final setena de la Llei 2/2016, del 10 de març, del pressupost per a l’exerci-
+           ci del 2016, i la disposició final cinquena de la Llei 3/2017, del 9 de febrer, del pressupost per a l’exercici
+           del 2017, es tenen en compte els criteris següents:
+               - Es considera superat el barem de valoració patrimonial si el valor de mercat dels béns immobles, en què
+               no es computa l’habitatge habitual, és igual o superior a 10 vegades el LECS personal en còmput anual.
+               - També es considera superat el barem de valoració patrimonial si de forma cumulativa el valor dels
+
+
+
+Govern
+               actius financers i el valor dels béns mobles, en què no es computen els béns mobles d’ús personal i els
+
+
+
+
+                                                            www.bopa.ad
+                                                                                                         Dipòsit legal: AND.2-2015
+         Núm. 27                                      3 de maig del 2017                                                2/2
+
+
+
+
+             vehicles adaptats per a persones amb discapacitat, és igual o superior a 6,5 vegades el LECS personal
+             en còmput anual.
+             - Per determinar el valor de mercat dels béns immobles, en què no es computa l’habitatge habitual,
+             la persona sol·licitant ha d’aportar un informe de valoració emès per un expert independent o per
+             l’Administració a efectes tributaris, realitzat en un període no superior a l’any anterior a la presentació
+             de la sol·licitud.
+             - En el supòsit de propietats indivises, es distribueix el valor de l’immoble a parts iguals entre els pro-
+             pietaris, llevat que hi hagi proves en contra sobre la quota dels uns i dels altres.
+             - Per determinar el valor de mercat dels béns mobles, en què no es computen els béns mobles d’ús
+             personal i els vehicles adaptats per a persones amb discapacitat, l’òrgan gestor de les prestacions calcula
+             aquest valor a partir d’indicadors objectius. En tot cas la persona sol·licitant pot aportar els informes
+             de valoració que consideri oportuns.
+         […].”
+         Cosa que es fa pública per a coneixement general.
+
+         Andorra la Vella, 26 d’abril del 2017
+
+         Antoni Martí Petit
+         Cap de Govern
+
+
+
+
+Govern
+                                                          www.bopa.ad
+                                                                                                    Dipòsit legal: AND.2-2015
+

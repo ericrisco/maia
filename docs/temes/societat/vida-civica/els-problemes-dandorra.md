@@ -165,8 +165,25 @@ molt bona».
 - **Les xifres dels gràfics.** La major part de la sèrie és a figures i **l'OCR
   les ha perdudes**. **Prioritari**: llegir-les del PDF.
 - **Els resultats concrets** de les preguntes de 2002, 2003, 2004, 2007 i 2009.
-- **La cronologia de la protesta al carrer a Andorra.** **Prioritari** — el
-  corpus no en té res.
+- ~~**La cronologia de la protesta al carrer a Andorra.** **Prioritari** — el
+  corpus no en té res.~~ — **`incorrecte`: el corpus en té, i n'hi ha prou per
+  començar la cronologia**, comprovat el **2026-09-13**.
+
+  | Data | Què | On és al corpus |
+  | --- | --- | --- |
+  | **26 d'agost – 21 de setembre de 1933** | **La vaga de FHASA**, seguida majoritàriament per treballadors espanyols, coincidint amb la reclamació del **vot per a tots els homes andorrans majors de 25 anys**. **Hi entren els gendarmes.** **Acaba amb reforma del vot i expulsió dels vaguistes** | [el sindicalisme](../treball/el-sindicalisme.md), [la memòria de FHASA](../treball/la-memoria-de-fhasa.md) |
+  | **Setembre del 2018** | **Manifestació per la despenalització total de l'avortament**, que la font descriu com **«la primera de la història del país»** | [Vanessa Mendoza Cortés](../dones/vanessa-mendoza-cortes.md) |
+  | **2022** | **El dret de vaga s'escriu**: votació secreta, prohibició d'ocupar el centre de treball, i una llista de serveis essencials que **cobreix gairebé tota l'economia** | [el dret de vaga](../treball/el-dret-de-vaga.md) |
+
+  **I la cronologia porta de regal una tensió que el corpus registra sense
+  arbitrar**: **el 2018 es descriu com «la primera manifestació de la història
+  del país»** i **el 1933 hi va haver una vaga d'un mes amb gendarmes**. **Vaga
+  i manifestació no són el mateix**, i **pot ser que totes dues afirmacions
+  siguin certes** — **però ningú no ho ha escrit.** **El que segueix obert és
+  tot el que hi ha entremig**: **vuitanta-cinc anys sense cap episodi
+  documentat**, i **[la memòria de FHASA](../treball/la-memoria-de-fhasa.md)
+  dona la pista de per què**: **la memòria col·lectiva va col·locar la protesta
+  fora del país.**
 - **El forn incinerador**: l'antic, el nou, les dates i les deficiències.
 - **La xarxa de depuradores**: quan es fa i què cobreix.
 - **Si l'Observatori continua** després del 2016.

@@ -270,11 +270,53 @@ tenien **1.939 alumnes**, **més que tot el sistema públic espanyol del país**
 - **Quan tanca el col·legi d'Encamp.** La font diu que no en queda constància i
   que el 1921 encara funcionava. **Buit honest, deixat obert per la pròpia
   font.**
-- **La mare Anna M. Janer** i les **Germanes de la Sagrada Família d'Urgell**:
-  el corpus no en té res.
-- **Els bisbes Casañas, Guitart, Benlloch i Iglesias Navarri** com a actors
-  educatius. Vegeu [els bisbes d'Urgell](../../historia/edat-mitjana/els-bisbes-durgell.md).
-- **Es va signar mai el conveni?** L'estat de la qüestió després del 2000.
+- ~~**La mare Anna M. Janer** i les **Germanes de la Sagrada Família d'Urgell**:
+  el corpus no en té res.~~ — **`incorrecte` des del 2026-09-13: en té, i en
+  bona part en aquesta mateixa fitxa.** **Aquest article ja diu** que les
+  germanes van arribar a la Seu **vint-i-tres anys abans del 1882**,
+  **encapçalades per la mare Janer**, que **la mare Janer va demanar a la mare
+  Pilar Vila que pugés a Andorra amb quatre germanes més**, i que **el centre de
+  Santa Coloma és «l'únic centre al món que porta el nom de la fundadora»**.
+  **I [la cronologia escolar](./la-cronologia-escolar.md) ja donava aquest buit
+  per tancat citant aquesta fitxa.** **El que segueix obert és la congregació
+  fora d'Andorra**: qui era Anna M. Janer, quan i per què es funda l'institut.
+- ~~**Els bisbes Casañas, Guitart, Benlloch i Iglesias Navarri** com a actors
+  educatius.~~ — **`parcial`, i tots quatre ja actuaven en documents del
+  corpus.** **Tres, en aquesta fitxa mateixa; el quart, en un article de
+  teatre:**
+
+  | Bisbe | Què en té el corpus | On |
+  | --- | --- | --- |
+  | **Casañas** | **L'impuls i el suport** de l'obertura del primer col·legi, el 1882; els centres per a nenes es funden sota el **cardenal Casañas** | aquesta fitxa |
+  | **Benlloch** | **Fa construir l'edifici de Sant Julià** que serveix d'escola i de casa del comú — **l'actual edifici del Comú** | aquesta fitxa |
+  | **Iglesias Navarri** | **Inaugura el col·legi Sant Ermengol** el **17 d'octubre de 1966**, amb patronat **meitat Consell, meitat Mitra** | aquesta fitxa i [la cronologia escolar](./la-cronologia-escolar.md) |
+  | **Guitart** | **La declaració institucional més clara que el corpus té sobre els tres sistemes**, el **1935** | [La vida teatral](../../cultura/teatre/la-vida-teatral.md) |
+
+  > **La peça de Guitart val per si sola i era en un article de teatre.** Arran
+  > de la prohibició d'un drama al col·legi Meritxell de les Escaldes el
+  > **novembre del 1935**, el veguer francès el va acusar d'atacar l'ensenyament
+  > laic; **el bisbe ho va negar i «va proclamar el seu dret a defensar les
+  > ànimes», perquè «les escoles franceses i les espanyoles s'havien establert a
+  > Andorra en contra de la seva voluntat».**
+  >
+  > **Dit pel copríncep episcopal: els altres dos sistemes educatius del país hi
+  > eren contra la seva voluntat.** **És la frase que explica per què la resposta
+  > del bisbat va ser obrir escoles pròpies**, i **cap fitxa d'educació del
+  > corpus no la citava.**
+  >
+  > **I aquell article declara el mateix buit** —«el bisbe Guitart i la seva
+  > posició sobre les escoles»— **tenint-ne la prova a dins.**
+
+  **El que segueix obert** és la trajectòria educativa de cadascun fora
+  d'aquests episodis. Vegeu
+  [els bisbes d'Urgell](../../historia/edat-mitjana/els-bisbes-durgell.md).
+- **Es va signar mai el conveni?** L'estat de la qüestió després del 2000. —
+  **`obert`, confirmat el 2026-09-14, i és el mateix buit a tres articles**:
+  [el marc legal](./el-marc-legal-de-leducacio.md),
+  [l'escola Nostra Senyora de Meritxell](./lescola-nostra-senyora-de-meritxell.md)
+  i aquest. **Tots tres s'aturen l'any 2000 perquè la ponència de la Diada
+  Andorrana que els alimenta és d'aquell any.** **No són tres buits: és una data
+  de tall de font que es repeteix.**
 - **El col·legi Meritxell dels benedictins (1931-1943)** i **els jesuïtes**: què
   hi van fer i per què van marxar.
 - **Quantes nenes** hi van passar, en total. La font diu «milers» i no compta.

@@ -138,4 +138,16 @@ que arriben per **cessió obligatòria** dels habitatges buits— i que disposa 
   **només se n'han llegit dues**.
 - **Les majories concretes** de la propietat horitzontal (article 26) no s'han
   buidat: quines decisions demanen unanimitat i quines majoria.
-- **Quants habitatges té el parc públic** i quants n'adjudica l'INH, no consta.
+- ~~**Quants habitatges té el parc públic** i quants n'adjudica l'INH, no
+  consta.~~ — **`parcial`, tancat en part amb el corpus el 2026-09-14, i amb un
+  avís que val més que la xifra.** **La memòria d'Habitatge del 29 d'abril del
+  2026 diu que el Govern «disposarà de 458 habitatges»** —**en futur**, i
+  lligats a edificis a construir, reformar o acabar— **i la Llei 10/2026 fixa
+  l'objectiu de 650 al final de la legislatura**, sense que es pugui reconstruir
+  el pas d'una xifra a l'altra. **Del registre de sol·licitants: 1.120
+  sol·licituds i un 28% de favorables**, declarats a la memòria.
+  **Cap d'aquestes xifres no és un recompte d'adjudicacions ni de claus
+  lliurades**, que és exactament el que aquest buit demanava
+  ([els recomptes del parc públic el 2026](./els-recomptes-del-parc-public-el-2026.md)).
+  **El corpus registra el que la font permet dir i no converteix una previsió en
+  un inventari.**

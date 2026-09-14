@@ -64,7 +64,13 @@ l'agència pugui dir que no**. Compareu-ho amb el mecanisme paral·lel de
 
 - **Si l'AQUA ha estat reconeguda o registrada** per les xarxes europees de
   garantia de qualitat, **no consta** al text de la llei.
-- **Quants programes ha acreditat** i des de quan és operativa, tampoc.
+- **Quants programes ha acreditat** i des de quan és operativa, tampoc. —
+  **`obert`, confirmat el 2026-09-14, i el corpus hi apunta on es veuria**:
+  **els programes que l'AQUA acredita són els de
+  [la Universitat d'Andorra](./la-universitat-dandorra.md)**, **la fitxa de la
+  qual s'atura l'any 2000 i tampoc no en té les titulacions.**
+  **Les dues fitxes es reclamen la mateixa llista i cap de les dues no la
+  té.**
 - **Què passa amb els títols estrangers** impartits a Andorra —hi ha
   ensenyament superior espanyol i francès al país— **no s'ha comprovat** en
   aquesta lectura.

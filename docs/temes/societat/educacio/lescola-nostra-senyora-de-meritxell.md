@@ -239,7 +239,15 @@ Andorra **no sabrà que existeix**.
 - **Com és avui** — si continua, amb quin nom i amb quin model.
 - **La secció SES del Liceu Comte de Foix**
   ([el mapa escolar](./el-mapa-escolar-del-2000.md)): el circuit francès
-  d'ensenyament especialitzat, en paral·lel a aquest.
+  d'ensenyament especialitzat, en paral·lel a aquest. — **`obert`, confirmat el
+  2026-09-14, i registrat com a buit declarat des dels dos extrems**: **el mapa
+  escolar el declara mirant cap aquí i aquesta fitxa el declara mirant cap
+  allà.** **El que sí que el corpus pot datar és l'altra meitat del
+  paral·lelisme**: **la SEGPA del liceu s'obre el 1982**
+  ([l'ensenyament francès](./lensenyament-frances.md)) i **aquesta escola es
+  crea el 1970 i comença a funcionar el 1972 amb set alumnes.**
+  **Dotze anys de diferència entre els dos circuits, i el propi arriba
+  primer.**
 - **El Centre d'Acolliment d'Infants (CAI)**, l'altra institució que apareix
   només nomenada.
 - **Com es parla de la discapacitat a Andorra**: el corpus no té res, i el lèxic

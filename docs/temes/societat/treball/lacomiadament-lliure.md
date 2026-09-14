@@ -80,11 +80,26 @@ Aquesta és la cara laboral del que el corpus descriu per altres bandes:
 ## Buits registrats
 
 1. **La legislació laboral andorrana**, article a article. **Buit gran.**
-2. **Quan i si** es regula l'acomiadament amb compensació.
+2. ~~**Quan i si** es regula l'acomiadament amb compensació.~~ — **`resolt`**:
+   [el preu de l'acomiadament](./el-preu-de-lacomiadament.md). **Es regula, i
+   segueix sense caldre motiu**: **el que costa són 25 dies de sou per any
+   treballat, fins a un any sencer.** **Andorra no ha passat de l'acomiadament
+   lliure a l'acomiadament causal: ha passat de l'acomiadament lliure i gratuït
+   a l'acomiadament lliure i pagat.**
 3. **Xifres de rotació laboral** al comerç i l'hoteleria.
 4. **Com funciona avui** el lligam entre permís de treball i permís de
    residència.
-5. **El salari mínim** andorrà, sèrie històrica.
+5. **El salari mínim** andorrà, sèrie històrica. — **`obert`, confirmat, i és
+   el buit transversal més gran del corpus.** **Quatre articles hi depenen i cap
+   no té la xifra**: [l'execució forçosa](../../institucions/justicia/lexecucio-forcosa.md)
+   —on **l'embargament és impossible fins al salari mínim interprofessional**—,
+   [cotitzar sense cobrar l'ajut](./cotitzar-sense-cobrar-lajut-de-desocupacio.md),
+   [l'ajut per la feina que no havia començat](./lajut-per-la-feina-que-no-havia-comencat.md)
+   i [la formació professional](../educacio/la-formacio-professional.md), que ho
+   registra amb aquestes paraules. **I el corpus té fins i tot el salari mínim
+   de Luxemburg i de Malta, i no el d'Andorra**
+   ([els petits estats comparats](../../institucions/petits-estats/els-petits-estats-comparats.md)).
+   `Requereix font externa: el decret anual del salari mínim, o Estadística.`
 
 ## Related
 

@@ -81,11 +81,22 @@ Podem Andorra ni la seva dissolució del 2021.** **Buit obert.**
 
 ## El que falta
 
-- **Quan es legalitzen els sindicats a Andorra.** **La font dona la data de
-  fundació i no la de legalització.** **Buit prioritari**, perquè
-  **[la Transició Nacional](../../historia/historia-recent/la-transicio-nacional.md)
-  sosté que la denúncia dels sindicats il·legals al Consell d'Europa és el que
-  va desencadenar la Constitució.**
+- ~~**Quan es legalitzen els sindicats a Andorra.** **La font dona la data de
+  fundació i no la de legalització.**~~ — **`parcial` des del 2026-09-14, i la
+  resposta té dues meitats que no coincideixen.**
+  **[El sindicalisme](./el-sindicalisme.md)** dona la data constitucional:
+  **el 1993, l'article 18 de la Constitució legitima el dret d'associació
+  sindical**. **Però la llei de sindicats no havia arribat el 2002**, i
+  **[la cronologia legislativa](../../institucions/justicia/cronologia-legislativa.md)
+  encara hi registra «cap llei de sindicats»**. **Legalitzats per la Constitució
+  i sense llei pròpia en tot el període que el corpus cobreix.**
+  **El que segueix obert és quan s'aprova finalment aquella llei**, que
+  [el sindicalisme](./el-sindicalisme.md) declara amb les mateixes paraules —
+  **comptat un sol cop, és un buit i no dos**. **I la lectura de
+  [la Transició Nacional](../../historia/historia-recent/la-transicio-nacional.md)
+  hi encaixa**: **si la denúncia dels sindicats il·legals al Consell d'Europa va
+  desencadenar la Constitució, la Constitució és exactament on es van
+  legalitzar.**
 - **L'Associació de Residents a Andorra (ARA)**: cap fitxa, i és qui comença
   tot això el 1976.
 - **La Unió Sindical d'Andorra** i **Podem Andorra**.

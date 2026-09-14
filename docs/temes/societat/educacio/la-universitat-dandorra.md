@@ -203,7 +203,27 @@ del 1997 **no crea uns estudis: els aixopluga**. Vegeu
   9). El corpus té la referència i no el text.
 - **Què va passar amb el campus nou.**
 - **Quina és la Universitat d'Andorra avui**: centres, titulacions, nombre
-  d'estudiants. Aquesta fitxa **s'atura el 2000**. **Buit prioritari.**
+  d'estudiants. Aquesta fitxa **s'atura el 2000**. **Buit prioritari.** —
+  **`obert`, confirmat el 2026-09-14, i declarat també des de
+  [els tres sistemes](./els-tres-sistemes.md)**, que **demanava «la Universitat
+  d'Andorra avui» sense saber que aquesta fitxa existia.**
+  **El que aquella fitxa sí que pot deixar de demanar és la universitat com a
+  institució**: **la crea la Llei d'universitats del 20 d'agost del 1997.**
+  **El que cap de les dues no té és el 2026.**
+  **I el corpus hi registra la forma del problema, que travessa tota la branca i
+  és més precisa del que semblava**: **SET articles d'educació surten de la
+  MATEIXA ponència col·lectiva, la 13a Diada Andorrana de l'agost del 2000** —
+  aquest, [els tres sistemes](./els-tres-sistemes.md),
+  [l'ensenyament espanyol](./lensenyament-espanyol.md),
+  [l'ensenyament confessional](./lensenyament-confessional.md),
+  [l'Escola Andorrana](./lescola-andorrana.md),
+  [les associacions de pares](./les-associacions-de-pares.md) i
+  [la formació professional](./la-formacio-professional.md).
+  **No són set fitxes que s'aturin el 2000 per casualitat: són set capítols d'un
+  sol volum.** **Tot el que la branca d'educació sap del sistema educatiu
+  andorrà, el sap d'un congrés de tres dies.** **Els «Tot això el 2026» que
+  aquestes fitxes repeteixen són, en realitat, un sol buit.**
+  `Requereix font externa: el web de la Universitat d'Andorra o l'AQUA.`
 - **Quants estudiants andorrans hi ha a l'estranger** i on. La font diu que el
   ministeri en fa el seguiment — **doncs existeixen les xifres**.
 - **En quins temes Andorra pot «fer aportacions significatives al coneixement»**:

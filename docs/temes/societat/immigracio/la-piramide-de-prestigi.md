@@ -261,10 +261,24 @@ llengua catalana implica»**.
 4. **Les festes interculturals** del Pas de la Casa i d'Andorra la Vella.
 5. **D'on ve «pota negra»** i des de quan es diu.
 6. **Quantes candidatures amb cognoms no andorrans**, amb xifres.
-7. **La comunitat filipina i la índia**: 509 i 59 persones el 2020. **De la índia
-   ara se'n sap alguna cosa** —van ser «grans comerciants», avui són «una petita
-   minoria», i d'ella va sortir el capità de la selecció de futbol— **i de la
-   filipina, res**. Buit obert.
+7. ~~**La comunitat filipina i la índia**: 509 i 59 persones el 2020. (…) **i de
+   la filipina, res**.~~ — **`parcial`, i la filipina ja no és «res».** **Surt
+   en cinc documents més del corpus, i sempre com a exemple d'una altra cosa:**
+
+   | On | Què n'aporta |
+   | --- | --- |
+   | [L'ARA i el SAT](../treball/lara-i-el-sat.md) | **La menció més antiga que té el corpus: el 1976**, en la llista de comunitats que feien difícil l'associacionisme sindical **«per la forta segmentació social»** |
+   | [L'Arxiu d'Etnografia](../../cultura/museus-i-arxius/larxiu-detnografia.md) | **L'AEA la té com a línia de recerca pròpia**, dins el bloc asiàtic amb la índia |
+   | [La composició per nacionalitats](../demografia/la-composicio-per-nacionalitats.md) | **509 persones el 2020**, i la classificació **«vinguts per l'oferta de treball»** al costat del Marroc i la índia |
+   | [Les comunitats](./les-comunitats.md) | **Té associació: Filand, Associació de Filipins a Andorra** |
+   | [Per què tothom s'hi sentia integrat](./per-que-tothom-shi-sentia-integrat.md) | **És una de les tres comunitats que els enquestats perceben com a grup tancat**, amb la marroquina i la índia |
+
+   **Cinquanta anys de presència documentada, associació pròpia i una línia
+   d'arxiu oberta.** **El que segueix obert és qualsevol cosa dita per la
+   comunitat mateixa**: **totes cinc mencions parlen d'ella des de fora.**
+   **I el bessó d'aquest buit és a [l'ARA i el SAT](../treball/lara-i-el-sat.md)**,
+   que declara «la comunitat filipina a Andorra» amb aquestes mateixes
+   paraules. **Comptat un sol cop, és un buit i no dos.**
 
 ## Related
 

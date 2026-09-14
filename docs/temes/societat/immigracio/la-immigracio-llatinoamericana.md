@@ -146,8 +146,14 @@ que un model reproduirà sense saber-ho si no se li documenta.
 2. **Com ha evolucionat** el col·lectiu del 2002 ençà. **Vint-i-quatre anys.**
 3. **Xifres**: quants són, de quins països, amb quins permisos.
 4. Els **estereotips ètnics** documentats.
-5. **Testimoni directe** — hi ha entrevistes a
-   [l'AEA](../../cultura/museus-i-arxius/larxiu-detnografia.md).
+5. ~~**Testimoni directe** — hi ha entrevistes a
+   [l'AEA](../../cultura/museus-i-arxius/larxiu-detnografia.md).~~ —
+   **`obert`, i ara se sap exactament on és el material i per què el corpus no
+   el té.** **L'AEA té la comunitat llatinoamericana com a línia pròpia** i la
+   nomena **«argentins»**; **el que hi ha són entrevistes en arxiu, no
+   publicades**. **Això no és una lectura pendent: és treball de camp
+   pendent**, i el corpus el situa a **[parla](../../../parla/README.md)**, no
+   a bibliografia. `Requereix accés a l'arxiu.`
 6. Si la **política d'immigració** ha canviat.
 7. **El circuit dels dos hiverns**: existeix encara?
 

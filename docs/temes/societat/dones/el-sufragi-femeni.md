@@ -255,13 +255,76 @@ de cada moment i no pas a un programa preordenat»**
    afirmada.**
 8. **Testimoni oral** de dones que van votar el 14 de desembre de 1971. **En
    viuen.** Material de fase 3.
-9. La **llei de 1975** sobre drets civils de la dona casada.
+9. La **llei de 1975** sobre drets civils de la dona casada. — **`parcial`,
+   auditat el 2026-09-14, i el corpus en té tot menys el text.** **Hi és la
+   data, la matèria i el que significa**: **fins al 1975 la dona casada
+   andorrana no tenia plens drets civils**, i **la mateixa data és la de
+   l'entrada dels advocats als tribunals** —«dos dels drets més bàsics d'un
+   estat de dret arriben el mateix any»
+   ([cronologia legislativa](../../institucions/justicia/cronologia-legislativa.md)).
+   **I hi és la paradoxa que aquesta fitxa fabrica amb l'altra**: **les dones
+   podien ser elegides des del 1973 i no tenien plens drets dins del matrimoni
+   fins al 1975** — **es podia governar el país abans que la pròpia casa.**
+   **El que falta és l'articulat, i el mateix buit està declarat a tres llocs
+   alhora**: aquí, a la cronologia i a
+   [casar-se a Andorra](../familia/casar-se-a-andorra.md), **que la designa com
+   a norma que la llei d'avui substitueix.**
+   `Requereix font externa: el text del decret de 1975.`
 10. **El sufragi femení comunal** — anava alhora?
-11. **Roser Suñé** i la sindicatura del 2019.
+11. ~~**Roser Suñé** i la sindicatura del 2019.~~ — **`resolt` amb el corpus,
+    sense cap font nova.** **Roser Suñé i Pascuet, Andorra la Vella, 26 d'agost
+    del 1960**, **síndica general del 2 de maig del 2019 al 26 d'abril del
+    2023**, **la primera**: **el càrrec existeix des del 1419 i van caldre
+    sis-cents anys i quaranta-set mandats.** **Mestra i filòloga del català
+    abans que política** —magisteri a Blanquerna el 1980, filologia catalana a
+    la UB el 1983—, després **ambaixadora a Suècia, Noruega i Islàndia** i
+    **ministra d'Educació i Joventut del 2011 al 2015**; **candidata de
+    Demòcrates per Andorra** el 2019 ([fitxa](../../persones/roser-sune.md)).
 12. **Mercè Bonell**, **Maria Reig**, **Rosa Ferrer** i **Montse Gil**: qui eren,
-    per quin partit, quants anys. **Quatre noms i cap biografia.**
-13. **UL a Sant Julià de Lòria**: quina formació és.
+    per quin partit, quants anys. **Quatre noms i cap biografia.** —
+    **`parcial`, auditat el 2026-09-14: de quatre, una es mig-tanca, dues
+    guanyen un fil i una segueix sent només un nom.**
+
+    | Qui | Què en té el corpus | On |
+    | --- | --- | --- |
+    | **Mercè Bonell** | **Primera consellera general, 1984, per substitució.** Res més: ni partit, ni parròquia, ni a qui substituïa | [les persones](../../persones/README.md) |
+    | **Maria Reig i Moles (1951)** | **Empresària i política**, **filla de Serafí Reig i Ribó i de Maria Moles i Pasques**, **cosina d'Òscar Ribas Reig**, el primer cap de Govern, i **neboda de Julià Reig i Ribó**, síndic general dues vegades. **Única consellera de tot el període constituent** | [els Reig](../../economia/les-grans-families/els-reig.md) |
+    | **Rosa Ferrer** | Només la frase «l'únic element femení al Consell» | [les persones](../../persones/README.md) |
+    | **Montse Gil** | **Res.** Cap altra ocurrència a tot el corpus | — |
+
+    **Una advertència que el corpus no salta**: hi ha **una M. Rosa Ferrer,
+    andorrana de primera generació**, autora d'una ponència a la **3a Diada
+    Andorrana del 18 d'agost del 1990**
+    ([els andorrans de primera generació](../../institucions/nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md)).
+    **El corpus NO afirma que siguin la mateixa persona**: coincideix el nom i
+    l'època i **no hi ha cap font que les identifiqui.** `hipòtesi, no
+    verificada.`
+
+    **I un defecte registrat**: **el buit de Maria Reig està declarat des dels
+    dos extrems** —aquí, com a nom sense biografia, i a
+    [els Reig](../../economia/les-grans-families/els-reig.md) com a **«buit
+    prioritari»**— **i cap dels dos articles no sabia que l'altre el tenia
+    obert.** **Junts en fan una fitxa possible i cap dels dos sol no.**
+13. ~~**UL a Sant Julià de Lòria**: quina formació és.~~ — **`resolt` amb el
+    corpus.** **UL és Unió Laurediana**, **el partit parroquial de Sant Julià de
+    Lòria**, que **avui consta encara com a formació extraparlamentària viva**
+    ([l'arbre dels partits](../../politica/partits/larbre-dels-partits.md)).
+    **I el corpus hi afegeix per què costava de trobar**: **la font general de
+    partits declara que no inclou els partits parroquials**, **que són el gruix
+    de la història partidària d'Andorra fins al 1993**, **i la Unió Laurediana
+    n'és l'únic rastre que hi queda.**
 14. **Quantes dones hi ha hagut al Consell General per legislatura.** Cap sèrie.
+    — **`obert`, confirmat el 2026-09-14.** **El corpus té punts solts i cap
+    sèrie**: **1984 la primera per substitució, 1985 la primera electa, el
+    període constituent amb una sola consellera, i sis mesos de parlament en
+    femení el 2011**
+    ([el sistema electoral](../../politica/sistema-electoral/README.md)).
+    `Requereix font externa: les actes del Consell General, o Estadística.`
+
+> **Defecte d'estructura registrat el 2026-09-14, no corregit**: **aquesta
+> llista té dos punts numerats «8»**. **La numeració no s'ha tocat** —canviar-la
+> desplaçaria totes les referències externes que ja hi apunten per número—
+> **però queda escrit que els buits d'aquesta secció són quinze i no catorze.**
 
 ## Related
 

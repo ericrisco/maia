@@ -306,13 +306,57 @@ societat on es viu**:
 - **Les xifres d'alumnat per centre**: la font en dona quadres que el corpus no
   ha pogut extreure del PDF.
 - **Per què va tancar l'escola espanyola de Santa Coloma el setembre de 1992.**
-- **El col·legi Janer**: història, congregació, fundació.
-- **Col·legis del Pirineu** i l'arribada de l'escola privada al país.
-- **El Liceu Comte de Foix**: quan es funda i com creix.
+> **Auditats el 2026-09-14 contra la resta del corpus.** **Tres dels set eren
+> buits caducats**: **el corpus els havia tancat en altres articles de la
+> mateixa branca i aquesta llista no se n'havia assabentat.**
+
+- ~~**El col·legi Janer**: història, congregació, fundació.~~ — **`resolt`, i
+  fa temps.** **És el col·legi que les Germanes de la Sagrada Família d'Urgell
+  van obrir a Andorra la Vella el 1883**, **traslladat a SANTA COLOMA el 1968**
+  ([la cronologia escolar](./la-cronologia-escolar.md)). **La congregació va
+  arribar el 1882 amb l'impuls del bisbe Casañas**, **encapçalada per la mare
+  Pilar Vila amb quatre germanes més, enviades per la mare ANNA M. JANER**, i
+  **el centre de Santa Coloma és l'únic del món que porta el nom de la
+  fundadora** ([l'ensenyament confessional](./lensenyament-confessional.md)).
+  **El nom del col·legi és el nom d'ella.**
+- ~~**Col·legis del Pirineu** i l'arribada de l'escola privada al país.~~ —
+  **`parcial`**: **el corpus té fitxa pròpia de l'escola privada andorrana**,
+  [l'escola privada](./lescola-privada.md), **que en documenta l'inici de la
+  sèrie i declara que no en sap ni el preu ni si existeix encara.**
+- ~~**El Liceu Comte de Foix**: quan es funda i com creix.~~ — **`parcial`, i el
+  «com creix» ja és al corpus amb dates.** **No es funda: es fa gran per
+  capes**, i **l'edifici és l'última.**
+
+  | Any | Pas |
+  | --- | --- |
+  | **1956** | **Cours complémentaire** |
+  | **1972** | Es transforma en **CES** |
+  | **1974** | **Nous locals del Collège**, amb **dues seccions professionals** |
+  | **1979** | Obren les classes de **seconde** i **ES CONSTRUEIX EL LICEU** |
+  | **1982** | **Secció d'Educació Especialitzada (SEGPA)** |
+
+  ([l'ensenyament francès](./lensenyament-frances.md))
+  **I dues coses més que el corpus té escampades i que pertanyen aquí**: **la
+  Cambra de Comerç seu al seu consell d'administració**
+  ([l'Institut d'Estudis Andorrans](../../cultura/museus-i-arxius/linstitut-destudis-andorrans.md)),
+  i **als aiguats del novembre del 1982 va ser el centre que més va trigar a
+  tornar a la normalitat**
+  ([els aiguats](../../historia/historia-recent/els-aiguats-del-1982.md)) —
+  **el mateix any que s'hi obria la SEGPA.**
 - **La secció SES** del liceu i la seva relació amb
   [l'escola Nostra Senyora de Meritxell](./lescola-nostra-senyora-de-meritxell.md):
   **dos circuits d'educació especial en paral·lel**, un de francès i un
-  d'andorrà.
+  d'andorrà. — **`obert`, confirmat, i el mateix buit està declarat des dels dos
+  extrems**: **aquesta fitxa el declara mirant cap a l'escola Meritxell i
+  aquella el declara mirant cap al liceu**, **i cap de les dues no sabia que
+  l'altra l'havia obert.** **Junts descriuen la pregunta sencera i cap dels dos
+  sol no la pot tancar.** `Requereix font externa: el Liceu Comte de Foix o el
+  Ministeri d'Educació.`
+- **Per què va tancar l'escola espanyola de Santa Coloma el setembre de 1992.** —
+  **`obert`, confirmat**: **cap document del corpus no ho esmenta.**
+- **Tot això el 2026.** i **les xifres d'alumnat per centre** — **`obert`,
+  confirmat.** **L'extracció dels quadres del PDF segueix sent el coll
+  d'ampolla.**
 
 ## Related
 

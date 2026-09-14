@@ -133,8 +133,25 @@ vigent** (article 2.1) ni s'aplica **mentre s'exerceix el dret de vaga**
 
 ## Buits registrats
 
-- **Quants sindicats hi ha** a Andorra i si algun assoleix els llindars de
-  representativitat, no consta.
+- ~~**Quants sindicats hi ha** a Andorra i si algun assoleix els llindars de
+  representativitat, no consta.~~ — **`parcial` des del 2026-09-14, i amb una
+  dada que canvia la pregunta.** **[El sindicalisme](./el-sindicalisme.md)** dona
+  **disset organitzacions d'assalariats a l'assemblea constitutiva de la Unió de
+  Sindicats d'Andorra, el 20 de setembre del 2001**, i **la llista sectorial de
+  com van néixer**: APAAG (1993), Sindicat de Policia (1998), AFD (1999), i
+  entre el 2000 i el 2001 els penitenciaris, l'ANSC, l'APAAJ, l'ensenyament
+  públic i congregacional, els banders i les parapúbliques STA, FEDA i SAAS.
+  **El primer de tots és el SAT, del 8 de març del 1990.**
+
+  > **I hi ha un detall que afecta directament aquesta fitxa**: **totes van ser
+  > enregistrades com a *associacions***, **a l'espera de la llei de sindicats
+  > que la Constitució preveu i que el corpus no té constància que s'hagi
+  > aprovat** ([la cronologia legislativa](../../institucions/justicia/cronologia-legislativa.md)).
+  > **Si els llindars de representativitat d'aquesta llei de vaga es mesuren
+  > sobre «sindicats» i el que hi ha són associacions**, **la pregunta del buit
+  > no és quants n'hi ha sinó si n'hi ha cap en el sentit de la norma.**
+  > `deducció del corpus, no verificada contra cap resolució.`
+  **El recompte d'avui i els llindars segueixen oberts.**
 - **Quantes vagues s'han convocat** des del 2018, tampoc; ni si el Govern ha
   fixat mai serveis essencials.
 - **El Consell Econòmic i Social** no té fitxa al corpus.

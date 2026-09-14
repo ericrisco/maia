@@ -136,7 +136,31 @@ d'immigració (article 1).
   **sis impostos alhora**, i la peça que no s'esperava és que **un resident nou
   paga com un estranger** si no acredita tres anys de residència efectiva.
 - **El reglament del parc públic d'habitatge** del 21 d'agost del 2024, que la
-  llei cita per fixar els cinc anys, **no és al corpus**.
+  llei cita per fixar els cinc anys, **no és al corpus**. — **`obert`,
+  confirmat el 2026-09-14.** `Requereix font externa: el BOPA del 2024.`
+
+> **Auditats la resta el 2026-09-14.** **Els tres primers segueixen oberts, i
+> dos canvien de motiu.**
+>
+> - **«Si s'ha aplicat mai»** — **`obert`, i el corpus ara sap on es veuria si
+>   s'hagués aplicat**: **els habitatges cedits per aquesta via entren al parc
+>   públic i els adjudica l'INH**, que en té **sis mesos**
+>   ([llogar un pis](./llogar-un-pis.md)). **La memòria d'Habitatge del 2026 no
+>   n'esmenta cap**: parla de **comprar** immobles en desús i **arrendar-los**,
+>   no de cedir-los per incompliment de la funció social
+>   ([els recomptes del parc públic el 2026](./els-recomptes-del-parc-public-el-2026.md)).
+>   **Absència d'esment, no prova de no aplicació: el corpus no en dedueix res
+>   més.**
+> - **«Quants habitatges buits hi ha»** — **`obert`, confirmat, i és una xifra
+>   que no existeix enlloc del corpus.** **La llei els defineix i no els compta**,
+>   i **cap altre article del corpus no dona un recompte del parc d'habitatge
+>   andorrà**, ni buit ni ple.
+> - **«El preu estadístic de mercat per parròquia»** — **`obert`, i el corpus
+>   arrossega el mateix forat a tota la branca**: **no té cap preu absolut de
+>   l'habitatge andorrà, només variacions**
+>   ([la crisi de l'habitatge](./la-crisi-de-lhabitatge.md)).
+>   `Requereix font externa: la publicació del Govern que fixa el preu
+>   estadístic, o Estadística.`
 
 ## Related
 

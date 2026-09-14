@@ -61,15 +61,46 @@ andorrana. **I el corpus gairebé no en sap res.**
 
 ## El que falta
 
-- Els **partits**, un per un, i el **sistema electoral** explicat.
-- La **participació electoral**: quanta gent vota, de la que pot.
+> **Auditat contra la resta del corpus el 2026-09-13.** **Els dos primers buits
+> són vells: el corpus té catorze articles de política electoral i de partits
+> que no existien quan es van escriure.**
+
+- ~~Els **partits**, un per un, i el **sistema electoral** explicat.~~ —
+  **`incorrecte`.** **El corpus té una branca de partits**
+  —[els partits d'avui](../../politica/partits/els-partits-davui.md) (**set
+  partits, 28 escons, majoria absoluta de 16 per a DA**),
+  [l'arbre dels partits](../../politica/partits/larbre-dels-partits.md),
+  [qui paga un partit](../../politica/partits/qui-paga-un-partit.md)— **i una
+  de sistema electoral amb deu articles**, entre els quals
+  [els tres sistemes electorals](../../politica/sistema-electoral/els-tres-sistemes-electorals.md),
+  [com es compten els vots](../../politica/sistema-electoral/com-es-compten-els-vots.md),
+  [un elector per casa](../../politica/sistema-electoral/un-elector-per-casa.md) i
+  [el sufragi universal masculí](../../politica/sistema-electoral/el-sufragi-universal-masculi.md).
+- ~~La **participació electoral**: quanta gent vota, de la que pot.~~ —
+  **`resolt`, i amb les dues meitats de la pregunta.** **Quanta gent vota**:
+  [l'abstenció](../../politica/sistema-electoral/labstencio.md) — **del 80% de
+  participació abans de la Constitució al 66% el 2015**, amb la sèrie any per
+  any. **De la que pot**: [la desigualtat del
+  vot](../../politica/sistema-electoral/la-desigualtat-del-vot.md) — **794
+  electors a Canillo i 6.604 a Andorra la Vella, dos escons per a cadascuna**,
+  amb **desviacions de fins al 400% xifrades per l'OSCE el 2011**.
 - **El debat sobre el vot dels residents**: existeix necessàriament en un país
-  amb aquesta demografia. **Buit registrat, prioritari.**
+  amb aquesta demografia. **Buit registrat, prioritari.** — **`obert`,
+  confirmat.** **Cap document del corpus no el recull**, i **el corpus té tot el
+  que el faria inevitable**: **els andorrans són al voltant del 44% dels majors
+  de 18 anys**
+  ([la composició per nacionalitats](../demografia/la-composicio-per-nacionalitats.md)).
+  **Que un debat necessari no deixi rastre documental és, en si mateix, una
+  dada.**
 - **Visc.ad**, el portal de **Participació Ciutadana del Govern d'Andorra**,
   identificat en les cerques i **no obert**.
 - El **voluntariat** i com es mobilitza la gent.
 - **Com es discrepa en públic** en un país on tothom es coneix —
   [convencions socials](../../vida-quotidiana/convencions-socials/convencions-socials.md).
+  — **`obert`, i confirmat que ho seguirà sent per un motiu de mètode.**
+  **Aquella fitxa declara explícitament que aquesta branca «no s'omple
+  llegint»**: **el que aquí es demana no és a cap document, és a la conversa**.
+  **Va a [parla](../../../parla/README.md), no a bibliografia.**
 
 ## Related
 
