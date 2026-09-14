@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**910** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**911** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -955,6 +955,7 @@
 | [La presó sense llei](temes/institucions/justicia/la-preso-sense-llei.md) | `temes/institucions/justicia` | compilada | contemporania | no | `canturri-delinquencia-reinsercio-2007` |
 | [La sentència en llatí, la pena en català](temes/institucions/justicia/la-sentencia-en-llati-la-pena-en-catala.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [L'administració no paga multa](temes/institucions/justicia/ladministracio-no-paga-multa.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [Les fires d'Organyà eren vacances judicials](temes/institucions/justicia/les-fires-dorganya-eren-vacances-judicials.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Les fonts del dret](temes/institucions/justicia/les-fonts-del-dret.md) | `temes/institucions/justicia` | compilada | contemporania | no | `pujadas-dret-andorra` |
 | [Les lleis qualificades](temes/institucions/justicia/les-lleis-qualificades.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Les penes del Codi Penal](temes/institucions/justicia/les-penes-del-codi-penal.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
