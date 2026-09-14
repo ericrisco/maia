@@ -386,7 +386,7 @@ pàgina**. Falta l'URL de descàrrega, però ja **es poden citar amb rigor**.
 
 | Fitxer | Què és, verificat a dins | Procedència |
 | --- | --- | --- |
-| `becat-these-l2` | **Jean Becat, *L'Andorre. Mutations d'une économie montagnarde*.** Tesi **1993**, **edició 2019**, ICRESS — **Livre 2: La société et l'organisation traditionnelles de l'Andorre** (l'obra té sis llibres) | URL no registrada |
+| `becat-these-l2` | **Jean Becat, *L'Andorre. Mutations d'une économie montagnarde*.** Tesi **1993**, **edició 2019**, ICRESS — **Livre 2: La société et l'organisation traditionnelles de l'Andorre**. **L'obra té SET llibres, no sis** (corregit el 2026-09-13 contra el sumari imprès al fitxer mateix); **el 2 és l'únic que hi és.** Tesi d'Estat dirigida per **Jean Le Coz** i **Pierre Carrière**, defensada el **18 de desembre del 1993** a **Montpeller III** amb el títol *Les Pyrénées méditerranéennes, mutations d'une économie montagnarde: le cas de l'Andorre*. **Té fitxa:** [`becat-tesi-1993`](../fonts/becat-tesi-1993.md) | URL no registrada |
 | `becat-transhum` | **Joan Becat, *La vida pastoral tradicional d'Andorra: transhumància, contraban i migracions*.** En **català**, documentació per a ensenyants. **Té fitxa:** [`becat-vida-pastoral`](../fonts/becat-vida-pastoral.md) | URL no registrada |
 | `madriu-neolithic` | *Shifting occupation dynamics in the Madriu-Perafita-Claror valleys*, **Quaternary International 353 (2014) 140-152**, Elsevier | Revista i pàgines verificades |
 | `neolithic-pastoralism-pyrenees` | *Neolithic pastoralism and plant community interactions at high altitudes of the Pyrenees, southern Europe*, **Communications Earth & Environment**. **NO ÉS D'ANDORRA** — vegeu l'avís de sota | **DOI: 10.1038/s43247-025-02023-8**, imprès al fitxer |

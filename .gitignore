@@ -34,3 +34,11 @@ docs/raw/web/politica/*.html
 docs/raw/web/art/*.html
 docs/raw/web/esport/**/*.html
 docs/raw/web/esport/atletes/*.html
+
+# docs/raw/llengua-usos-linguistics/ — drets reservats (Govern i IEC).
+# Nomes es versiona el README amb la provinenca i els hash.
+docs/raw/llengua-usos-linguistics/*
+!docs/raw/llengua-usos-linguistics/README.md
+
+# docs/raw/relacions-exteriors/ — captures voluminoses
+docs/raw/relacions-exteriors/*.html
