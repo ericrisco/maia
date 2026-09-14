@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**849** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**850** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -902,6 +902,7 @@
 | [Cronologia legislativa del segle XX](temes/institucions/justicia/cronologia-legislativa.md) | `temes/institucions/justicia` | compilada | contemporania | no | `pujadas-dret-andorra` |
 | [Dos de tres, i les parts no ho saben](temes/institucions/justicia/dos-de-tres-i-les-parts-no-ho-saben.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Dos sous per lliura, perquè no s'apel·li](temes/institucions/justicia/dos-sous-per-lliura-perque-no-sapelli.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
+| [El Consell li va dir que suspengués](temes/institucions/justicia/el-consell-li-va-dir-que-suspengues.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [El dret supletori](temes/institucions/justicia/el-dret-supletori.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [El dret andorrà vigent](temes/institucions/justicia/el-dret-vigent.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El notariat](temes/institucions/justicia/el-notariat.md) | `temes/institucions/justicia` | compilada | contemporania | no | `rodriguez-minana-notaris` |

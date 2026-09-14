@@ -160,6 +160,19 @@ per la via de definir el costum.**
 3. **Les proves** que la veritat era «de vegades cruelment desfigurada» als
    dictàmens del Consell. **La font diu que se'n podrien donar i no en dona cap.**
    `obert, i és una limitació de la font.`
+
+   > **N'ha aparegut un cas concret, i no va en aquell sentit.** El **20 de març de
+   > 1885** el Consell General va ordenar a «**lo Batlle frances**», **amb
+   > dictamen previ de l'assessor**, **suspendre una execució i escoltar
+   > l'executat**, amb una doctrina —**que l'escriptura de ters porti aparellada
+   > l'execució no lleva al deutor el dret a ser escoltat**— **que Brutails mateix
+   > aprova dues pàgines més avall**. **El batlle va executar igualment el 30 de
+   > maig i l'apel·lació li va donar la raó el 6 de març de 1886**
+   > ([el Consell li va dir que suspengués](../justicia/el-consell-li-va-dir-que-suspengues.md)).
+   > **El corpus registra que el conflicte existeix amb data i text**, i **que en
+   > aquest cas el fons de la doctrina del Consell era, segons la font mateixa, el
+   > correcte.** `Això no resol qui tenia competència per dir-ho, que és la qüestió
+   > que queda oberta.`
 4. **Els *decrets-avis* que l'autor va fer servir**: **no en dona la llista ni el
    nombre** —«un cert nombre»— i **remet la seva història als capítols VI i
    VIII**. `localitzable sense sortir del fitxer.`
