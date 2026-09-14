@@ -164,6 +164,11 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **estatut ambiciós** | la norma **feta «a benefici de certas y determinadas personas y en dany de altras sens rahonable causa»**, o amb **«la sola mira de complaurer a algunes… persones»**: **prohibida i revocable per recurs**. Politar, apèndix, proposició 44 |
 | **ofici vil** | categoria d'exclusió per ser cònsol, exemplificada amb **carnissers, nuncis, trompetes i lacais**. Politar, apèndix, proposició 16 |
 | **mal caduc** | l'epilèpsia, causa d'exclusió dels oficis de la República al costat de la ceguesa, la mudesa i la sordesa greu. Politar, apèndix, proposició 20 |
+| **prendre església** | acollir-se a sagrat per escapar de la justícia. El *Ceremonial* mana **evitar les esglésies en el trasllat d'un pres**, fer-lo passar **«ben arrimat… a la paret contraria a la iglesia»**, i **posar un piquet armat davant la porta del temple** si el delicte és greu. Politar, llibre IV, cap. III, § I |
+| **embrutar paper** | fer procés, en la recomanació als rahonadors d'evitar-ho **«per que regularment ne hix mes mal»**. Politar, llibre IV, cap. III |
+| **guiat** · **assegurat** | les dues categories que, al costat dels **enquestats** i **manlleutats**, havien de comparèixer a les Corts **dins de tres dies** des de la publicació. Politar, llibre IV, cap. III |
+| **fiaduria** | l'obligació de la fiança: passat el termini de comparèixer, **«incorren les fianses a les penes de la fiaduria, vulgarment dit penes trencades»**. Politar, llibre IV, cap. III |
+| **cèdula de notificació** | l'avís que l'escrivà de les Corts feia i el **porter o nunci** lliurava als enquestats, manlleutats, fiances, guiats i assegurats. Politar, llibre IV, cap. III |
 | **ordinació** | norma d'un comú |
 | **foc i lloc** | impost parroquial |
 | **consòrcia** | unió de persones amb un interès comú que s'ajuden en cas de necessitat |

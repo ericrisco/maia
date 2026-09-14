@@ -392,12 +392,20 @@ I** és **conjectura** —«dire algunes de congruencia… **Y baste de congectu
 i al **capítol IV** és **raó**: el veguer del Bisbe pren una part **«per tenir ja
 de altra part lo salari»**. **Registrat, no arbitrat.**
 
-**Localitzat el 16-09-2026, i no és on el corpus el buscava.** El *Ceremonial*
-**és al mateix extracte de Brutails**, a partir de la **pàgina CLIV**, com a
-**llibre IV, capítol III**, amb un **paràgraf I** sobre **«lo modo y forma de
-traurer los reos a deposar y dels actes de tortura, practicat en les Valls»**
-([un cego malament judica de colors](../consell-general/un-cego-malament-judica-de-colors.md)).
-**Encara no s'ha destil·lat.**
+**Localitzat el 16-09-2026 i destil·lat el mateix dia.** El *Ceremonial* **és al
+mateix extracte de Brutails**, a partir de la **pàgina CLIV**, com a **llibre IV,
+capítol III**
+([ben arrimat a la paret contrària a l'església](./ben-arrimat-a-la-paret-contraria-a-lesglesia.md)).
+**El que hi guanya aquesta fitxa**: **per què el Jutge seu al mig dels dos
+veguers** —**«pera denotar que se administre la justicia en nom dels dos Senyors
+Princeps y demostrar que es consultor de un y altre Veguer»**—; **qui assistia a
+la tortura i com** —**els rahonadors sempre, asseguts a part; els batlles
+asseguts; els nuncis drets i descoberts**—; i **el termini que fa néixer les
+penes trencades**: **tres dies més el de la publicació de les Corts**, passats
+els quals **«incorren les fianses a les penes de la fiaduria… quedant los
+delictes en son enter estat»**. **Segueix obert el capítol 2 del mateix llibre
+IV**, el dels juraments, **que Brutails no reprodueix**; i **els paràgrafs II,
+III i IV del Ceremonial**, que **no s'han destil·lat**.
 
 **El *Ceremonial* no és al corpus**, i aquest capítol hi remet **quatre
 vegades**: *verbo Corts*, **llibre 4, capítol 3**, i el **paràgraf 1** per a la
