@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**814** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**815** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -909,6 +909,7 @@
 | [Quants notaris](temes/institucions/justicia/quants-notaris.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Qui nomena els jutges](temes/institucions/justicia/qui-nomena-els-jutges.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Resoldre sense judici](temes/institucions/justicia/resoldre-sense-judici.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [Si no dius a quin copríncep, tria l'altra part](temes/institucions/justicia/si-no-dius-a-quin-coprincep-tria-laltra-part.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Tretze dies](temes/institucions/justicia/tretze-dies.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Un corpus no és un organisme competent](temes/institucions/justicia/un-corpus-no-es-un-organisme-competent.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Un fadrí sense casa sí que es pot emparar](temes/institucions/justicia/un-fadri-sense-casa-si-que-es-pot-emparar.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |

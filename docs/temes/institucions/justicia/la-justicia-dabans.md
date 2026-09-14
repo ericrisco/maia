@@ -165,10 +165,32 @@ entre els seus membres, «en una divisió de funcions pròpies d'un govern». El
 1. **Els rahonadors** — origen, funcions reals, quan desapareixen.
 2. **El Tribunal de Visures** — composició i procediment.
 3. **El Tribunal Superior d'Andorra a Perpinyà** — quan es crea exactament, quan
-   s'extingeix.
+   s'extingeix. — **`parcial` des del 15-09-2026: la creació sí, l'extinció
+   no.** **Creat per decret del 13 de juliol del 1888**, publicat al *Journal
+   Officiel* del **20 de juliol del 1888**, i **la seva organització modificada
+   per un segon decret del 19 de gener del 1898**, al *JO* del **22 de gener del
+   1898**
+   ([si no dius a quin copríncep, tria l'altra part](./si-no-dius-a-quin-coprincep-tria-laltra-part.md)).
+   **No era una cort de cassació**: retenia el fons i la forma i sentenciava
+   definitivament. **El copríncep episcopal no en tenia cap equivalent**: per a
+   cada litigi nomenava **un prevere amb mandat especial**. **Abans havien estat
+   designats el Consell Sobirà del Rosselló i la Cour de Tolosa**, i el motiu
+   escrit de la primera designació és lingüístic: **era l'única cort sobirana de
+   França capaç d'entendre expedients en català**. **Segueix obert quan
+   s'extingeix**: Brutails escriu el 1904 i **el corpus no té cap norma de
+   supressió**, ni els textos dels dos decrets.
 4. **Casos concrets** jutjats sense advocat. **Hi ha memòria viva d'això.**
 5. **Les presons** andorranes d'aquell període.
-6. **Els delegats permanents** — qui eren i des d'on despatxaven.
+6. ~~**Els delegats permanents** — qui eren i des d'on despatxaven.~~ —
+   **Tancat el 15-09-2026.** El **delegat permanent del Govern francès per als
+   afers d'Andorra era el prefecte dels Pirineus Orientals**, i despatxava des
+   de la **Prefectura dels Pirineus Orientals, «siège de la Délégation»**, a
+   Perpinyà. **Rebia els recursos contra el Jutge d'Apel·lacions, es pronunciava
+   ell sol sobre l'admissibilitat —sense debat i sense sentir l'altra part— i
+   transmetia el dossier al Tribunal Superior**; i **signava les lletres
+   inhibitòries**, de les quals se'n feien **sis còpies**
+   ([si no dius a quin copríncep, tria l'altra part](./si-no-dius-a-quin-coprincep-tria-laltra-part.md)).
+   **El corpus té el formulari sencer** i **no el decret que el regula.**
 
 ## Related
 

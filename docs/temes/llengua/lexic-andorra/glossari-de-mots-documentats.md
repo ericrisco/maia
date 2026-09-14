@@ -82,6 +82,10 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **ampara de creu** | la tercera via de plet andorrana: embargament dels fruits d'una finca **especialment hipotecada**, marcat **plantant una creu**. **Només sobre fruit «segat y dallat y no dret»** i encara a la finca. **Practicada l'1 de juliol del 1822**, desapareguda el 1904 |
 | **signar penyores** | designar béns concrets dins d'un embargament i deixar-los **en poder del deutor com a dipositari**, que no els pot alienar i n'ha de retre compte. Si **no** s'han signat, **és el deutor qui tria què lliura** |
 | **judicador** | taxador. **Dos, jurats i pagats de la seva feina**, que estimen les penyores. **No s'ha comprovat si és el mateix ofici que el *prohom jurat* dels actes de possessió** |
+| **apòstols**, **apòstols reverencials** | les lletres que el jutge *a quo* atorga per deixar passar l'apel·lació. **Demanades «per primera, segona, tercera y tantas quantas vegadas segons dret sia menester»** en un escrit del **19 de novembre del 1784** ([font primària](../../institucions/justicia/si-no-dius-a-quin-coprincep-tria-laltra-part.md)). **Sentit deduït del context, no comprovat lexicogràficament** |
+| **lletres inhibitòries** | el paper que **atura l'execució d'una sentència mentre s'apel·la**. Del 1888 ençà, per la banda francesa **les signava el prefecte dels Pirineus Orientals** com a delegat permanent, i **se'n feien sis còpies** |
+| **tercera sala** | la **tercera instància** andorrana. **No és cassació**: reté el fons i la forma i sentencia definitivament |
+| **retractació** | la revisió excepcional d'una sentència ferma. **Documentada el 20-08-1760 i el 12-09-1760** com a «**revista**» i «**revistar**» davant del Consell General. **Procediment no fixat** |
 | **ordinació** | norma d'un comú |
 | **foc i lloc** | impost parroquial |
 | **consòrcia** | unió de persones amb un interès comú que s'ajuden en cas de necessitat |

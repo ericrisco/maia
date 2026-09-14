@@ -243,7 +243,16 @@ que té, i **la Instructa no diu si els deu dies eren hàbils o de calendari.**
 cap sentència de batlle** d'aquest període, ni cap consulta escrita.
 
 **No consta quin era el «Jutge ordinari Supremo»** ni per què podia ser a França
-o a Espanya. **El corpus té la conseqüència processal i no l'organigrama.**
+o a Espanya. **El corpus té la conseqüència processal i no l'organigrama.** —
+**`parcial` des del 15-09-2026.** **Que podia viure fora, consta**: el manuscrit
+de Palmitjavila diu que «**Lo Jutge ordinari, ara sie que habite en França o en
+Espanya, pot provehir dites provisions en lo lloch de sa habitacio, empero les
+intimes se deuen fer en la Vall y dins de ella**», i **els testimonis els ha de
+rebre el notari de la Cort dins de les Valls i no fora**. **El jutge era a fora;
+la prova, a dins.** I **per sobre d'ell hi havia la tercera instància de cada
+copríncep**
+([si no dius a quin copríncep, tria l'altra part](./si-no-dius-a-quin-coprincep-tria-laltra-part.md)).
+**Segueix obert per què el jutge residia a l'estranger** i **com es nomenava.**
 
 **La *Instructa* diu que havia d'anar al «capitol 5 del llibre 2 de la present
 obra».** **El corpus no sap de quina obra parla** —Brutails la publica solta— ni
