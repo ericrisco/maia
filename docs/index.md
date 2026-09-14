@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**838** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**839** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -849,6 +849,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [«Diria que sí»](temes/institucions/consell-general/diria-que-si.md) | `temes/institucions/consell-general` | compilada | historica | no | `brutails-coutume-1904` |
 | [El Consell de la Terra](temes/institucions/consell-general/el-consell-de-la-terra.md) | `temes/institucions/consell-general` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [El Consell General](temes/institucions/consell-general/el-consell-general.md) | `temes/institucions/consell-general` | compilada | contemporania | no | `bopa-ad` |
 | [El debat sobre el càlcul patrimonial de 2018](temes/institucions/consell-general/el-debat-sobre-el-calcul-patrimonial-de-2018.md) | `temes/institucions/consell-general` | compilada | contemporania | no | `consell-general-dcg-2018-7` |

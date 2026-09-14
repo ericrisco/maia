@@ -182,7 +182,21 @@ directament a l'agent dels coprínceps en una matèria del Consell**.
 3. **Les 8.000 pessetes per hectàrea** del tabac i els prats: d'on surten.
 4. **Si el tabac va començar a tributar**, i quan.
 5. **Els casos «tout récents»** en què una ordre als batlles va bloquejar el
-   Consell General. Brutails els esmenta i no en data cap.
+   Consell General. Brutails els esmenta i no en data cap. — **`parcial` des del
+   2026-09-16**: **segueix sense data**, **però el corpus ja en té la raó
+   estructural**, i és de la mateixa mà, unes pàgines abans:
+
+   > «**en tots els litigis, administratius i altres, l'execució és confiada als
+   > batlles, els quals són agents dels Cosenyors, nomenats per aquests** […] **el
+   > Consell General […] és sense força per portar a execució les seves pròpies
+   > decisions.**»
+   >
+   > — *Brutails, cap. II, p. 34, nota 1*
+
+   **El Consell General legislava i no executava**, i **l'únic braç executor del
+   país el nomenaven els coprínceps.** **Això no explica només aquests casos:
+   explica per què l'impost del 1902 va poder caure sense cap sentència.**
+   Vegeu [«Diria que sí»](./diria-que-si.md).
 6. **Els dos documents sencers**, de 1580 i 1603, i **com van acabar**. El corpus
    en té el plantejament i no el desenllaç.
 7. **Qui eren** Berthomeu Guiem, Bernat Ricart, Bernat Sucarana, Pere Vilar alias

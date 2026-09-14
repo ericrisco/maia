@@ -209,6 +209,37 @@ després d'aquest apèndix:
 **El buit no era del llibre: era de la lectura.** **Localitzat, no destil·lat.**
 **És la unitat següent.**
 
+## El dubte 1 és el passatge que un jutge francès va triar per desacreditar el Politar
+
+**Afegit el 2026-09-16 des de [Brutails](../../../fonts/brutails-coutume-1904.md),
+capítol II, p. 33 i nota 6** ([la unitat destil·lada](./diria-que-si.md)).
+
+Brutails es pregunta **si es pot recórrer contra una decisió administrativa del
+Consell General davant dels coprínceps**, i escriu:
+
+> «**La resposta no seria dubtosa si es prengués al peu de la lletra el que diu el
+> Politar.** **Malauradament, sobre aquest punt com sobre molts d'altres, en lloc
+> de registrar el costum, l'autor d'aquesta compilació raona *a priori*, segons
+> principis generals — la forma d'aquest passatge ho demostra amb nitidesa.**»
+
+**La nota remet a «P. 283», i la pàgina 283 del Politar és aquesta**: la
+paginació interna d'aquesta unitat és **[283]–[285]**, de manera que **el passatge
+atacat és el dubte 1 que aquesta fitxa reprodueix.**
+
+**El corpus pot, per primera vegada, comprovar una acusació de mètode contra la
+seva pròpia font**, i **la descripció és exacta**: **«Diria que si, per ser cert
+que…»** és **una deducció en primera persona a partir d'una regalia**, **no el
+registre d'un costum**. **Cap cas, cap data, cap precedent.**
+
+**I el dubte 2 ho confirma des de l'altre costat**: **on l'autor no té principi
+general, deixa la qüestió «de bona gana indecisa».**
+
+`El corpus no adopta la valoració de Brutails sobre el valor global del Politar:
+registra que la seva descripció d'aquest passatge concret és verificable i
+correcta. El Politar segueix sent font primària per al que declara ser —una
+compilació del segle XVIII—, amb l'avís que en alguns punts dedueix en comptes de
+registrar.`
+
 ## Buits registrats
 
 **El Manual Digest segueix sense ser al corpus**, i **sense ell no es poden

@@ -207,11 +207,21 @@ lectura que el corpus reté per al que ja té sobre
 que ja hi tenia escrit**: el Politar i el Manual Digest **no sempre diuen el
 mateix**.
 
+> **Quin passatge és, identificat el 2026-09-16.** La nota de Brutails remet a la
+> **pàgina 283 del Politar**, i **aquella pàgina és dins de l'extracte que el
+> corpus té destil·lat**: és **el dubte 1 de l'apèndix**, que pregunta **si els
+> Prínceps poden revocar un estatut del Consell General** i respon
+> **«Diria que si, per ser cert que als Princeps los queda llibre semblant
+> revocacio per sas regalias»**. **Primera persona, condicional i una raó
+> general**: **la descripció que Brutails fa de la forma del passatge és
+> exacta, i ara es pot comprovar**
+> ([«Diria que sí»](../../institucions/consell-general/diria-que-si.md)).
+
 ## Buits registrats
 
 1. **El text de la Reforma de 1866**, paràgraf per paràgraf. Brutails en cita els
-   §§ **1, 3, 5-10, 14, 15 i 16** —**la llista va créixer el 2026-09-16 amb els
-   §§ 8, 10 i 15**, llegits a la secció *Organisation administrative* del mateix
+   §§ **1, 3, 5-11, 14, 15 i 16** —**la llista va créixer el 2026-09-16 amb els
+   §§ 8, 10, 11 i 15**, llegits a la secció *Organisation administrative* del mateix
    capítol ([vuitanta pessetes per fer reunir el Consell General](../../institucions/consell-general/vuitanta-pessetes-per-fer-reunir-el-consell.md))—
    i **el corpus no en té cap de sencer**. **Prioritari.**
 

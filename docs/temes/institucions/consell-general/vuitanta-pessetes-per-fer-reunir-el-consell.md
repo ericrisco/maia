@@ -355,10 +355,15 @@ bisbe imprès dins de la llei— és documentat per una font independent.`
    `obert.`
 4. **El decret del Consell General del 16 d'octubre de 1900** que fixa la tarifa
    de la consignació. `obert, datat.`
-5. **El Politar, p. 252 i p. 240.** **Són dins de la peça justificativa XXXIV que
-   el corpus ja té destil·lada**; **cal comprovar si aquelles dues pàgines hi
-   són**, perquè **l'extracte de Brutails no reprodueix el Politar sencer.**
-   `obert, comprovable sense sortir del fitxer.`
+5. ~~**El Politar, p. 252 i p. 240.** Cal comprovar si aquelles dues pàgines són
+   dins de l'extracte.~~ — **TANCAT el 2026-09-16.** **Hi són.** Creuant la
+   paginació interna registrada de cada unitat amb els números que Brutails dona,
+   **les sis pàgines del Politar que cita en aquest capítol cauen totes dins de
+   l'extracte destil·lat**: **242** al llibre III cap. I, **250** i **252** al
+   llibre III cap. II, **275** i **280** a l'apèndix de les 44 proposicions, i
+   **283** al començament dels vuit dubtes
+   ([«Diria que sí»](./diria-que-si.md)). **El que queda obert és el contrast
+   línia a línia**, perquè **una destil·lació no és el text.**
 6. **Quants membres té el consell de parròquia.** **La font en dona dotze al text
    i deu a la nota**, **i no ho resol.** `divergència interna registrada, no
    arbitrada.`
