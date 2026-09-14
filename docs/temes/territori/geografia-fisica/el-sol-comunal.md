@@ -173,7 +173,10 @@ medieval que el seu costum](../../historia/antic-regim/landorra-es-mes-medieval-
    deixa definir**; i **el *condal*** a [els privilegis d'Andorra són tots
    moderns](../../historia/edat-mitjana/els-privilegis-dandorra-son-tots-moderns.md),
    **amb la hipòtesi de Riba i l'avís que els arxius d'Urgell ho resoldrien.**
-   **Queda el *violari*.**
+   — **TANCAT del tot el 2026-09-18**: **el *violari*** és a [nascut d'una prohibició
+   eclesiàstica, mort per decret
+   episcopal](../../economia/banca-i-fiscalitat/nascut-duna-prohibicio-eclesiastica-mort-per-decret-episcopal.md).
+   **Els quatre capítols ja estan llegits.**
 6. **Si la divisió en tres franges es pot cartografiar** amb la toponímia que el
    corpus ja té.
 
