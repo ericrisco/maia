@@ -37,8 +37,18 @@ explicar.
 
 ## El que falta
 
-- **La seva marca i posició** a Rio.
-- **Tota la resta de la carrera.**
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Pol_Arias.wiki`](../../../raw/web/esport/atletes/Pol_Arias.wiki)). **La resposta era dins del
+> corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
+> citava.**
+
+- **La seva marca i posició** a Rio. — **`obert`, confirmat, i el motiu és de
+  font**: **el bolcat és d'una línia** i només diu que va competir en **400 m
+  lliures** als Jocs de Rio del 2016. **Cap temps, cap posició.**
+- **Tota la resta de la carrera.** — **`obert`, confirmat, pel mateix motiu.**
+- **El que hi és**: **Pol Arias Dourdet, 8 d'agost del 1996, 175 cm i 80 kg.**
+  **El camp `birth_place` diu «Andorra» i cap parròquia**: **el buit del lloc
+  exacte és de font.**
 - **Per què s'atura la natació olímpica andorrana.**
 
 ## Related

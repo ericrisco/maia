@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: canturri-costumari-amades-1994
-timestamp: 2026-09-13T10:15:00Z
+timestamp: 2026-09-13T19:45:00Z
 tags: [danses, cultura-popular, folklore, metode, historiografia]
 ---
 
@@ -132,18 +132,70 @@ aquest projecte està refent avui.** La diferència que el corpus s'imposa és
 
 ## Buits registrats
 
+> **Auditats contra la resta del corpus el 2026-09-13.** **Dos d'aquests sis ja
+> tenien resposta parcial dins del corpus, i un la tenia dins d'aquest mateix
+> article.**
+
 - **Dotze dels catorze balls.** Cap fitxa. **Buit prioritari i molt ben
-  delimitat.**
+  delimitat.** — **`parcial`, i el compte és exacte.** **De les catorze, el
+  corpus en documenta tres i no dues**: el Contrapàs i la Marratxa tenen fitxa,
+  i **el Ball del porrer en té l'única descripció de vestuari que existeix al
+  corpus, aquí mateix, unes línies més amunt.** **Queden onze sense res.**
+  `Requereix font externa: Els balls d'Andorra, el recull de l'Esbart Laurèdia`,
+  registrat com a identificat i no consultat a
+  [la Passa](../ritus-de-pas/la-passa.md) — **la mateixa font que esperen quatre
+  buits més de la branca de [danses](./danses.md).**
 - **Si es ballen encara** i quins són recuperació moderna. Recordeu que
   **la sardana no s'introdueix a Andorra fins als anys trenta-quaranta**
   ([el cas Amades](../../historia/historiografia/el-cas-amades.md)): **antiguitat
-  aparent no és antiguitat.**
+  aparent no és antiguitat.** — **`parcial`, i el corpus ja té el cas net de les
+  dues categories:**
+
+  | Cas | Què és, documentat | On |
+  | --- | --- | --- |
+  | **La Marratxa** | **Dansa antiga, coreografia fixada als anys seixanta** de la memòria d'un sol home, i ballada des del **1963** | [La marratxa](./la-marratxa.md) |
+  | **El ball de l'Ossa d'Encamp** | **Farsa antiga, guió refet el 1959** per Sícoris, que **«encara és l'esquema de la representació»** | [El ball de l'ossa d'Encamp](./el-ball-de-lossa-dencamp.md) |
+  | **Les festes de l'ossa a la resta del país** | **Mortes els anys vint**, recuperades a Ordino el 1985 i el 2017 | [Les festes de l'ossa](./les-festes-de-lossa.md) |
+
+  **El patró és el mateix en els tres: el que es balla avui passa per una
+  intervenció datada del segle XX.** **Continua obert per als onze balls sense
+  fitxa.**
 - **El Ball de cònsols**: el nom apunta a una dansa institucional, lligada als
   [comuns](../../institucions/comuns-i-parroquies/les-set-parroquies.md). **Cap
-  informació.**
-- **La música**: Amades en dona partitures i gràfics que el corpus no ha vist.
-- **Josep Barrabés d'Encamp** i la família **Barrobes**.
-- **La comparació amb l'Aran i el Pallars**: per què Andorra hi surt tant.
+  informació.** — **`obert`, confirmat.** **El nom no apareix enlloc més del
+  corpus.** **Val la pena registrar que el corpus sí que té el fet institucional
+  que hi encaixaria**: [el contrapàs](./el-contrapas.md) es balla amb **el cònsol
+  i els consellers barrejats amb el veïnat**. **Que això tingui res a veure amb
+  el Ball de cònsols d'Amades no ho diu cap font**, i el corpus no ho afirma.
+- **La música**: Amades en dona partitures i gràfics que el corpus no ha vist. —
+  **`obert`, confirmat**, i **és el mateix buit que declaren
+  [les danses](./danses.md) i [el ball de l'ossa
+  d'Encamp](./el-ball-de-lossa-dencamp.md)**. **Tres articles, una sola mancança:
+  el corpus no té ni una partitura andorrana.**
+- **Josep Barrabés d'Encamp** i la família **Barrobes**. — **`obert`, confirmat.**
+  **Els dos cognoms no surten enlloc més del corpus**, ni a les fitxes de
+  persones ni a les de demografia. `Requereix font externa: els registres
+  parroquials d'Encamp, o la genealogia d'Amades.`
+- **La comparació amb l'Aran i el Pallars**: per què Andorra hi surt tant. —
+  **`parcial`, amb la resposta dins d'aquest mateix article.** **Canturri ja
+  n'apunta el mecanisme**: Amades **hi tenia família** —el darrer porrer «era
+  mig parent nostre», l'àvia paterna es deia **Baltasara Barrobes**— i la font
+  en treu la conseqüència, que **tenir parents a Andorra li devia facilitar els
+  contactes i l'obtenció d'informació.** **I hi ha un segon mecanisme que aquesta
+  fitxa no recollia i que [el cas
+  Amades](../../historia/historiografia/el-cas-amades.md) ja explica sencer** —
+  tal com surt del text original de la ponència, que el corpus té a
+  [`07a-1994-andorra-i-la-catalanitat.txt`](../../../raw/sac-diades/07a-1994-andorra-i-la-catalanitat.txt): Canturri
+  sospita que **Amades «hauria pogut tenir accés a algun arxiu»**, perquè
+  descriu les **ordinacions del gremi de paraires i teixidors de les Escaldes,
+  aprovades pel bisbe de la Seu el 1604** — **un document que el pare Cebrià
+  Baraut encara donava per inèdit el 1979**, als *Quaderns d'Estudis Andorrans.*
+  **Amades va publicar trenta anys abans una cosa que la historiografia andorrana
+  tenia per desconeguda.** **Parentiu i arxiu, doncs, i no només parentiu.**
+  **El que segueix obert és si això és tota la causa**: 63 citacions contra ~50 de l'Aran i ~62 de l'Alt Pallars **no
+  s'expliquen amb un parentiu sense comptar quantes n'hi ha per any i per
+  viatge**, cosa que exigiria el *Costumari* sencer. `Requereix font externa: el
+  Costumari català complet.`
 
 ## Related
 

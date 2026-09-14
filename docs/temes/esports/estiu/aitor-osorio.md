@@ -55,9 +55,25 @@ nedadors als Jocs?*
 
 ## El que falta
 
-- **Quan va ser president de la federació** i fins quan.
-- **La seva carrera fora d'Atlanta.**
-- **La Federació Andorrana de Natació**, sencera.
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Aitor_Osorio.wiki`](../../../raw/web/esport/atletes/Aitor_Osorio.wiki)). **La resposta era dins del
+> corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
+> citava.**
+
+- **Quan va ser president de la federació** i fins quan. — **`obert` pel que fa
+  a les dates, i el fet queda confirmat**: **el bolcat diu que «més tard» va
+  esdevenir president de la Federació Andorrana de Natació**, i **no en dona cap
+  any**. `Requereix font externa: la federació.`
+- ~~**La seva carrera fora d'Atlanta.**~~ — **`parcial`: el resultat d'Atlanta
+  es tanca i la resta de la carrera segueix sense existir al bolcat.** **Tenia
+  20 anys**, **va nedar els 200 m papallona**, **2:12.59 a la sèrie** i
+  **42è de la general**, sense classificar-se.
+- ~~**On va néixer**~~ — **`resolt`, i el corpus no ho havia preguntat però hi
+  era**: **Escaldes-Engordany**. **Nom complet: Joan Aitor Osorio Martí, 31
+  d'octubre del 1975.**
+- **La Federació Andorrana de Natació**, sencera. — **`obert`, confirmat, i és
+  un buit de branca**: **el corpus no té fitxa de cap federació esportiva
+  andorrana.** Vegeu [els esports](../README.md).
 
 ## Related
 

@@ -59,11 +59,55 @@ competeixen principalment per l'altre país**.
 **El corpus les escriu totes amb la condició al davant**, perquè **si no,
 qualsevol lector —o model— comptarà com a andorrà un palmarès que no ho és.**
 
+## El medaller, tal com el dona la font
+
+**Tancat el 2026-09-13 sense cap font nova.** **Les medalles eren a l'infobox del
+bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`,
+**i no s'havien destil·lat.**
+
+| Metall | Edició | Prova | Competició |
+| --- | --- | --- | --- |
+| 🥈 **Argent** | **1981** | 2nd | King's Cup |
+
+**1 medalla en total**: **1 d'argent**.
+
+**L'única a King's Cup.**
+
 ## El que falta
 
-- **Quin és el rècord d'Andorra de salt d'esquí** i quan el va fer.
-- **On va néixer**, i quina relació té amb Andorra.
-- **El salt d'esquí a Andorra**: hi ha trampolí? Hi ha hagut federació?
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Tomás_Cano.wiki`](../../../raw/web/esport/atletes/Tomás_Cano.wiki)).
+
+- **Quin és el rècord d'Andorra de salt d'esquí** i quan el va fer. —
+  **`obert` pel que fa a la xifra, i confirmat que el té.** **El bolcat diu que
+  és el posseïdor del rècord nacional andorrà i no en dona el metratge.**
+  **El que sí que dona són els seus salts d'època andorrana**: **58,5 i 60 m a
+  la Copa del Rei del 3 de febrer del 1991** (33è de 41), **60,5 i 60 m el
+  1992** (15è) i **64,5 i 62,5 m al Campionat d'Espanya del 1992, competint com
+  a andorrà** (4t). `Requereix font externa: la federació.`
+- ~~**On va néixer**, i quina relació té amb Andorra.~~ — **`resolt` pel que fa
+  a l'origen i `parcial` pel que fa a la relació.** **És d'ELX**, i **després
+  es va traslladar a Catalunya**; **el bolcat el tracta d'«espanyol i
+  andorrà»**, **competint principalment per Espanya**, i **el situa
+  representant Andorra a partir del 1991.**
+  **I hi ha la frase que val la fitxa**: **«va ser l'ÚNIC REPRESENTANT ANDORRÀ
+  en competicions internacionals oficials» de salt d'esquí**, i **va aconseguir
+  UN PUNT per a Andorra a la Copa d'Europa del 1992, a la Molina.**
+  **Un sol punt de Copa d'Europa és tot el que Andorra té en aquesta
+  disciplina.**
+- ~~**El salt d'esquí a Andorra**: hi ha trampolí? Hi ha hagut federació?~~ —
+  **`obert`, i el bolcat empeny cap al no.** **Cap dels seus salts, ni d'època
+  espanyola ni d'època andorrana, no es fa a Andorra**: **s'entrenava en
+  trampolins suïssos i espanyols** i **competia a la Molina, a Catalunya.**
+  **Un país amb rècord nacional de salt d'esquí i cap trampolí documentat.**
+  `deducció del corpus per absència, no verificada.`
+- **I la carrera espanyola, que la fitxa no tenia**: **primer espanyol que va
+  competir al Torneig dels Quatre Trampolins** (1978-79); **campió d'Espanya
+  cap al 1978-79** i **campió de Catalunya el 1981**; **rècord d'Espanya amb
+  85 m a Oberstdorf el desembre del 1979**; **millor resultat de Copa del Món,
+  48è a Holmenkollen el 1982**; **Mundial del 1982: 56è al trampolí normal i
+  48è al llarg**; **segon a la Copa del Rei del 1981**, el seu únic podi.
+  **Nascut el 4 de gener del 1961.** **Saltava amb esquís Elan.**
 
 ## Related
 

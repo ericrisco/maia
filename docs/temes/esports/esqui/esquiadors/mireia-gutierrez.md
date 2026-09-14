@@ -90,12 +90,40 @@ i millora el 19è de [Vicky Grau](./vicky-grau.md) a Nagano 1998.
 
 ## El que falta
 
-- **Els resultats de PyeongChang 2018.**
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Mireia_Gutiérrez.wiki`](../../../../raw/web/esport/alpins/Mireia_Gutiérrez.wiki)).
+
+- **Els resultats de PyeongChang 2018.** — **`obert` pel que fa als
+  resultats**, **i la participació queda confirmada**: **l'infobox li compta
+  TRES equips olímpics, 2010, 2014 i 2018.**
 - **Si va ser abanderada.** A Vancouver 2010 els abanderats van ser Lluís Marín
   i ella ([els Jocs](../../competicio/andorra-als-jocs-olimpics.md)) — **cal
-  confirmar-ho.**
-- **Què fa des del 2021.**
-- **El seu palmarès nacional** i els títols d'Andorra.
+  confirmar-ho.** — **`obert`, confirmat**: **el seu bolcat no ho diu**, i **el
+  de [Lluís Marín](./lluis-marin-tarroch.md) diu que l'abanderat de Vancouver
+  2010 va ser ELL**, sense esmentar-la. **El corpus no arbitra**: **deixa
+  escrit que una de les seves dues fonts dona un sol abanderat i l'altra no en
+  diu res.** `Divergència registrada, no arbitrada.`
+- ~~**Què fa des del 2021.**~~ — **`parcial`, i ara se sap què va passar el
+  2021**: **es va retirar el 2 DE MARÇ DEL 2021.** **Què ha fet des de llavors
+  segueix `obert`.**
+- **El seu palmarès nacional** i els títols d'Andorra. — **`obert`, confirmat**:
+  **el bolcat no en dona cap.**
+- **I la carrera en xifres, que la fitxa no tenia:**
+
+  | | |
+  | --- | --- |
+  | **Especialitat** | **eslàlom** |
+  | **Club** | **Esquí Club Ordino-Arcalís** |
+  | **Debut a la Copa del Món** | **14 de desembre del 2008** |
+  | **Temporades de Copa del Món** | **9 (2011-2019)** |
+  | **Mundials** | **5 (2009-2017)** |
+  | **Jocs Olímpics** | **3 (2010, 2014, 2018)** |
+  | **Retirada** | **2 de març del 2021** |
+  | **Naixement** | **Andorra la Vella, 9 d'octubre del 1988**, 1,62 m |
+
+  **Dotze anys entre el debut a la Copa del Món i la retirada.**
+  **És la primera esquiadora andorrana de qui el corpus té la carrera acotada
+  per les dues puntes.**
 
 ## Related
 

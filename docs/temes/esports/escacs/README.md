@@ -65,11 +65,49 @@ membre de l'Associació Francesa Internacional d'Escacs a més de la FIDE.**
 
 ## El que falta
 
+> **Auditat contra la resta del corpus el 2026-09-13.** **Tres dels quatre buits
+> d'aquesta llista estan declarats dues vegades dins de la mateixa branca**, i
+> això és, en si mateix, un defecte: **un buit comptat dos cops sembla dos buits,
+> i la feina per tancar-lo és la mateixa.** S'anota on és el bessó de cadascun.
+
 - **Sis campions d'Andorra sense fitxa**: Serni Ribera (3 títols), Daniel José
   Queraltó (2), Robert Alomà (2+1), Joan Mellado, Jordi Fluvià i Felipe Porras.
-- **Benet Pantebre**, que va crear l'Obert i el va dirigir divuit anys.
-- **Si hi ha lliga andorrana d'escacs**, i el Club Escacs Peona i Peó.
-- **Què va passar abans del 2000**, si la federació és del 1967.
+  — **`parcial`, i l'afirmació que s'havia escrit primer era falsa.** **Una
+  primera passada d'aquesta auditoria va dir que cap dels sis noms no sortia
+  enlloc més del corpus; és mentida, i la comprovació no s'havia fet.** **Tots
+  sis són a `raw/web/esport/estructura/`**, i **un té fitxa sencera**. Vegeu
+  [el campionat](./el-campionat.md), on s'ha destil·lat el que se'n sap.
+  **Bessó**: aquell article declara el mateix buit amb el compte — **entre tots
+  sis, onze campionats d'Andorra.**
+- **Benet Pantebre**, que va crear l'Obert i el va dirigir divuit anys. —
+  **`obert`, confirmat**, amb **bessó** a
+  [l'Obert internacional](./lobert-internacional.md). **I amb una coincidència
+  que el corpus registra i no resol:**
+
+  | Qui | On | Què hi fa |
+  | --- | --- | --- |
+  | **Benet Pantebre** | [L'Obert internacional](./lobert-internacional.md) | **Crea l'Obert el 1983** i **el dirigeix divuit anys** |
+  | **El «Sr. Pantebre»** | [Danses](../../costums/danses/danses.md), citant **Canturri** | **De l'Agrupació sardanista de les Valls**; **hi arriba la primera cobla** del país, **flabiol i tamborí** |
+  | **Pantebre (1997)** | [Glossari de mots documentats](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) | Autor d'***El parlar d'Andorra***, una de les fonts de base del lèxic andorrà |
+
+  > **Tres Pantebres en tres branques que no es toquen: escacs, sardanes i
+  > dialectologia.** **El corpus no afirma que siguin la mateixa persona ni que
+  > siguin famílies distintes** — **registra que el cognom travessa el corpus
+  > tres vegades i que cap document no els relaciona.** **Si fossin el mateix
+  > home o la mateixa casa, tres buits es tancarien alhora.**
+  > `Requereix font externa: qualsevol nota biogràfica de Benet Pantebre.`
+- **Si hi ha lliga andorrana d'escacs**, i el Club Escacs Peona i Peó. —
+  **`obert`, confirmat**, amb **bessó literal** a
+  [la federació](./la-federacio.md), que el declara amb les mateixes paraules.
+- ~~**Què va passar abans del 2000**, si la federació és del 1967.~~ —
+  **`parcial`, i el buit està mal plantejat: no és un buit d'escacs, és un buit
+  de quadre d'honor.** [La federació](./la-federacio.md) **sí que sap què va
+  passar abans del 2000**: **grup el 1948**, **federació el 7 de novembre del
+  1967**, **FIDE el 1979** — **dinou anys entre el grup i la federació i dotze
+  més fins a la FIDE**. **El que no existeix és el palmarès**: [el
+  campionat](./el-campionat.md) **comença el 2000, trenta-tres anys després de la
+  federació**, i **o no es va jugar, o la font no ho té.** **Formulat així, el
+  buit és més petit i es pot anar a buscar.**
 
 ## Related
 

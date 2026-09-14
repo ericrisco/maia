@@ -64,9 +64,25 @@ Vegeu [turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md).
 
 ## El que falta
 
-- **El seu temps i la cursa** de Seül.
-- **El seu resultat de Barcelona 1992.**
-- **Si va ser professional** i en quins equips.
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Emili_Pérez.wiki`](../../../raw/web/esport/atletes/Emili_Pérez.wiki)). **La resposta era dins del
+> corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
+> citava.**
+
+- **El seu temps i la cursa** de Seül. — **`obert`, confirmat, i el motiu és de
+  font**: **el bolcat només diu que va competir a Seül 1988 i a Barcelona 1992**,
+  sense prova, temps ni posició.
+- **El seu resultat de Barcelona 1992.** — **`obert`, confirmat, pel mateix
+  motiu.**
+- ~~**Si va ser professional** i en quins equips.~~ — **`parcial`: sí que ho va
+  ser, i una sola temporada.** **El bolcat li dona una única temporada
+  professional, el 1993**, en **un equip que hi consta només pel codi UCI
+  «FES»**. **El corpus no en desplega el nom**, perquè **el bolcat no el diu i
+  endevinar-lo seria inventar-lo.** **El mateix equip i el mateix codi
+  apareixen a [Xavier Pérez](./xavier-perez.md), el 1993-1994.**
+  `Requereix font externa: el registre d'equips de la UCI del 1993.`
+- ~~**On va néixer**~~ — **`resolt`**: **Escaldes-Engordany, 3 d'octubre del
+  1966.**
 - **El ciclisme andorrà sencer**: federació, curses, la Volta a Andorra.
 
 ## Related

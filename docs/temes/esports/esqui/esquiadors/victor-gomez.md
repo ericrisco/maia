@@ -61,8 +61,16 @@ comparteix Albertville, Lillehammer i Nagano. A Salt Lake City ja hi va amb
 
 - **Copes del Món i campionats del món**: cap dada.
 - **Si va ser abanderat**, i de quins Jocs.
-- **Qui és Aitor Osorio.**
-- **Què fa ara.**
+- ~~**Qui és Aitor Osorio.**~~ — **`resolt` amb el corpus, i era un buit
+  caducat**: **la fitxa existeix des del 2026-09-13.** **Joan Aitor Osorio
+  Martí, Escaldes-Engordany, 31 d'octubre del 1975**, **nedador**, **42è en
+  200 m papallona als Jocs d'Atlanta del 1996 amb 2:12.59** i **després
+  president de la Federació Andorrana de Natació**
+  ([fitxa](../../estiu/aitor-osorio.md)).
+- **Què fa ara.** — **`obert`, confirmat el 2026-09-13, i per un motiu que val
+  per a tota la branca: el bolcat és una instantània amb data**, i **una
+  instantània no diu què fa ningú avui**. **Aquest buit no es tanca destil·lant
+  millor: es tanca amb una font nova.** Vegeu [els esports](../../README.md).
 
 ## Related
 

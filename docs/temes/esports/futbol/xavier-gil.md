@@ -30,10 +30,35 @@ tags: [esports, futbol, seleccio]
 
 **Debut: 21 d'agost del 2002, entrant per [Justo Ruiz](./justo-ruiz.md) en una derrota amistosa 3-0 contra Islàndia.** **El corpus sap el dia, el substituït i el marcador**, cosa que de la majoria d'aquestes fitxes no pot dir.
 
+## La carrera, club per club
+
+**Tancat el 2026-09-13 sense cap font nova.** **El material era al corpus**, al
+bolcat de la mateixa font que ha donat aquesta fitxa:
+[`Xavier_Gil.wiki`](../../../raw/web/esport/atletes/Xavier_Gil.wiki).
+
+| Anys | Club | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2002-2003 | **FC Andorra** | — | — |
+| 2003-2004 | **FC Santa Coloma** | — | — |
+| 2004-2007 | **FC Andorra** | — | — |
+| 2007- | **FC Santa Coloma** | — | — |
+
+### Les seleccions, totes
+
+| Anys | Equip | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2001- | **Andorra** | 3 | 0 |
+
+
 ## El que falta
 
+
+> **Auditat el 2026-09-13.** **El buit de la carrera era fals**: la resposta era al
+> bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
+> quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
+
 - **Els altres dos partits.**
-- **La resta de la carrera.**
+- ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related
 

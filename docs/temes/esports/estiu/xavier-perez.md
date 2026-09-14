@@ -63,9 +63,28 @@ al circuit WTA.
 
 ## El que falta
 
-- **Els seus resultats olímpics**, que la font no dona.
-- **Quins equips professionals** va córrer.
-- **Si és germà d'Emili Pérez.**
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Xavier_Pérez.wiki`](../../../raw/web/esport/atletes/Xavier_Pérez.wiki)).
+
+- **Els seus resultats olímpics**, que la font no dona. — **`obert`, confirmat**:
+  **el bolcat només diu que va competir a Seül 1988 i a Barcelona 1992**, sense
+  prova ni posició.
+- ~~**Quins equips professionals** va córrer.~~ — **`parcial`, i el que apareix
+  val més que el nom de l'equip.** **Va ser professional el 1993 i el 1994**, en
+  **un equip que el bolcat identifica només pel codi UCI «FES»** —**el mateix
+  codi i el mateix any que [Emili Pérez](./emili-perez.md)**—, **i el corpus no
+  el desplega perquè endevinar-lo seria inventar-lo.**
+  **I hi ha un fet que la fitxa no tenia**: **va córrer el Giro d'Itàlia del
+  1993 i no el va acabar.** **Un andorrà a una gran volta el 1993.**
+  `Requereix font externa: el registre d'equips de la UCI del 1993.`
+- **Si és germà d'Emili Pérez.** — **`obert`, i el corpus no ho arbitra.** **Els
+  dos bolcats són independents i cap dels dos no esmenta l'altre.** **El que sí
+  que hi ha és un feix de coincidències que el corpus registra sense
+  concloure-hi res**: **tots dos es diuen Pérez Font, tots dos van néixer a
+  Escaldes-Engordany —ell el 15 de gener del 1968, l'Emili el 3 d'octubre del
+  1966—, tots dos van córrer Seül 1988 i Barcelona 1992, i tots dos van ser
+  professionals el 1993 al mateix equip.** **Cinc coincidències no són una font.**
+  `hipòtesi, no verificada.`
 - **El ciclisme andorrà**: vegeu també **[David
   Albós](../altres-esports/david-albos.md)**, ciclista de carretera de la
   **Agrupació Ciclista Andorrana**.

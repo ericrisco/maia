@@ -40,9 +40,36 @@ internacional d'un futbolista andorrà poden no tenir res a veure l'una amb
 l'altra.** Ferré n'és la prova més clara, i [Xavi Andorrà](./xavi-andorra.md) —
 24 internacionalitats, deu clubs— n'és el contrari.
 
+## La carrera, club per club
+
+**Tancat el 2026-09-13 sense cap font nova.** **El material era al corpus**, al
+bolcat de la mateixa font que ha donat aquesta fitxa:
+[`Marc_Ferré.wiki`](../../../raw/web/esport/atletes/Marc_Ferré.wiki).
+
+| Anys | Club | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2010-2019 | **FC Andorra** | 157 | 7 |
+| 2019-2020 | **UE Engordany** | 28 | 2 |
+| 2020-2021 | **UE Santa Coloma** | 19 | 0 |
+| 2021-2022 | **FC Ordino** | 9 | 0 |
+| 2022 | **Sant Julià** | 4 | 0 |
+| 2023- | **Penya Encardana** | 8 | 0 |
+
+**225 partits de club i 9 gols** en les **6 etapes** de què el bolcat en dona compte, sobre **6 en total**.
+
+*(Instantània del club del **24 de juny del 2023**.)*
+
+### Les seleccions, totes
+
+| Anys | Equip | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2018- | **Andorra** | 2 | 0 |
+
+
 ## El que falta
 
-- **Els seus dos partits**: quan, i contra qui.
+- **Els seus dos partits**: quan, i contra qui. — **`obert`**: el bolcat en dona
+  el compte i no el detall. **La carrera de club sí que hi és** (taula de dalt).
 
 ## Related
 

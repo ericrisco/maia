@@ -219,20 +219,53 @@ respon amb una pàgina de verificació antibot en comptes del document.**
 
 ## El que falta
 
-- **La tesi de Ysàs**, per una altra via.
+> **Auditat contra la resta del corpus el 2026-09-13.** **Un d'aquests buits ja
+> no era cert del tot**: el corpus tenia Sícoris fitxat com a escriptor en un
+> altre lloc, amb dates, i aquesta fitxa no ho sabia.
+
+- **La tesi de Ysàs**, per una altra via. — **`obert`, confirmat.** El servidor
+  de TDX segueix sent l'única via identificada.
 - **Francesc Perramon**, ***El ball de l'ossa d'Encamp a Andorra: anàlisi d'un
   ritual de pas pirenaic***, **Institut d'Estudis Andorrans, Andorra la Vella,
   1994.** **El títol ja diu «ritual de pas»: és la font que sosté aquesta
-  lectura i el corpus no la té.**
+  lectura i el corpus no la té.** — **`obert`, confirmat.**
 - **Tomàs Junoy i Arraut**, ***Relació sobre la Vall d'Andorra*** (1838) —
-  **la primera referència escrita de la farsa.** **Font primària.**
+  **la primera referència escrita de la farsa.** **Font primària.** —
+  **`parcial`.** **El corpus ja tenia l'obra situada i no ho havia dit
+  enlloc**: el material en brut del qual surt
+  [la literatura andorrana](../../cultura/literatura/literatura-andorrana.md)
+  ([`Literatura_andorrana-ca.wiki`](../../../raw/web/cultura2/Literatura_andorrana-ca.wiki))
+  posa la ***Relació sobre la vall de Andorra*** del **dominicà Fra Tomàs
+  Junoy** dins la **tradició de manuals històrics i institucionals** que arrenca
+  amb el [Manual Digest](../../historia/manual-digest/manual-digest.md) (1748) i
+  el [Politar](../../historia/manual-digest/el-politar.md) (1763), i **remet a
+  un estudi de la Biblioteca Nacional d'Andorra, «Fra Tomàs Junoy, *Lo
+  Peripatètic Solitari*», 2014**, que és **una via d'accés que el corpus no
+  havia registrat**. **El text de la *Relació* segueix sense ser al corpus.**
 - **Eugeni Casanova**, ***L'ós del Pirineu: crònica d'un extermini***, **Pagès,
-  2005 [1996]**, cap. «Andorra i l'Alt Urgell», p. 189-206.
+  2005 [1996]**, cap. «Andorra i l'Alt Urgell», p. 189-206. — **`obert`,
+  confirmat.**
 - ***Les festes d'interès cultural, patrimoni immaterial d'Andorra***, **Govern
   d'Andorra, 2019**, cap. «El carnaval d'Encamp. Contrabandistes i ossa,
-  essència pirinenca», p. 24-28, ISBN 978-99920-0-875-1.
-- **El guió de Sícoris**: **existeix el text?**
-- **La música.**
+  essència pirinenca», p. 24-28, ISBN 978-99920-0-875-1. — **`obert`,
+  confirmat.** **És l'única de les cinc obres que és d'edició oficial
+  andorrana**, i per tant la més assolible.
+- **El guió de Sícoris**: **existeix el text?** — **`parcial`.** **El guió, no.**
+  **L'home, sí, i el corpus el tenia documentat sense saber-ho:** *Sícoris* és
+  **Rossend Marsol Clua, 1922-2006**, que consta a la llista d'**autors i
+  autores d'Andorra** i **entre els qui «representen el departament de la poesia
+  andorrana»**
+  ([`Literatura_andorrana-ca.wiki`](../../../raw/web/cultura2/Literatura_andorrana-ca.wiki),
+  el material en brut de
+  [la literatura andorrana](../../cultura/literatura/literatura-andorrana.md)).
+  **Qui va refer la farsa d'Encamp el 1959 era un poeta publicat**, no només un
+  periodista local — i **va morir el 2006**, cosa que fixa el límit de qualsevol
+  recollida de testimoni directe. `Requereix font externa: el llegat de Rossend
+  Marsol Clua, o el fons del comú d'Encamp.`
+- **La música.** — **`obert`, confirmat.** **És el mateix buit que
+  [les danses](./danses.md) declara per a tota la branca**, i que
+  [els catorze balls](./els-catorze-balls.md) declara per a les partitures
+  d'Amades. **Tres articles, un sol buit.**
 
 ## Related
 

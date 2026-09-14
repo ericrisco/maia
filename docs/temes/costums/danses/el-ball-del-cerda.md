@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: premsa-andorrana
-timestamp: 2026-09-11T23:15:00Z
+timestamp: 2026-09-13T19:45:00Z
 tags: [danses, sant-julia-de-loria]
 ---
 
@@ -45,8 +45,39 @@ recuperació de les danses laurèdianes.
 
 ## El que falta
 
-Coreografia, música, vestuari, qui el balla, i el rastre documental. L'Esbart
-Laurèdia és la font òbvia i no s'ha consultat.
+> **Auditat contra la resta del corpus el 2026-09-13.** **El buit segueix
+> essencialment obert, però el corpus ja sap on és la resposta i ja té un
+> precedent que li dona forma.**
+
+- **Coreografia, música, vestuari, qui el balla, i el rastre documental.** —
+  **`obert`, confirmat.** Cap altre document del corpus no en diu res.
+- **L'Esbart Laurèdia és la font òbvia i no s'ha consultat.** — **`parcial`.**
+  **L'esbart no només és la font òbvia: el corpus ja n'ha identificat el llibre
+  i n'ha registrat que no l'ha llegit.** ***Els balls d'Andorra***, recull de
+  l'Esbart Laurèdia, consta com a **identificat i no consultat** a
+  [la Passa](../ritus-de-pas/la-passa.md). **Cinc buits de tres articles
+  d'aquesta branca hi van a parar** — vegeu el quadre a
+  [les festes de l'ossa](./les-festes-de-lossa.md).
+  `Requereix font externa: Els balls d'Andorra, Esbart Laurèdia.`
+
+### I una manera de llegir «van aparèixer fa cinquanta anys»
+
+**El corpus té ara un cas paral·lel documentat de la mateixa parròquia i del
+mateix esbart**, i canvia el que aquella frase pot voler dir:
+[la marratxa](./la-marratxa.md) **és una dansa antiga la coreografia de la qual
+es va fixar als anys seixanta** —Daniel Areny recollint la tonada de la memòria
+de Ricard Mas, Isidre Marbà harmonitzant-la, **l'Esbart Laurèdia interpretant-la
+des del 1963**.
+
+**Si una font secundària diu que les danses laurèdianes «van aparèixer fa
+cinquanta anys», la marratxa demostra que aquesta frase és compatible amb una
+dansa molt anterior**: el que apareix als seixanta és **la versió fixada**, no
+la dansa.
+
+**Això no resol el buit i el corpus no ho aplica al ball del Cerdà.** És
+`deducció del corpus` sobre **què pot significar la frase**, i **la distinció
+entre dansa recuperada i dansa creada segueix sense resoldre's per a aquest
+ball.**
 
 ## Related
 

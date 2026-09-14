@@ -52,9 +52,20 @@ diferència.**
 
 ## El que falta
 
-- **El seu resultat** a Barcelona 1992: la font no en dona ni punts ni posició.
-- **On va néixer.**
-- **Tota la resta de la carrera.**
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Joan_Besoli.wiki`](../../../raw/web/esport/atletes/Joan_Besoli.wiki)). **La resposta era dins del
+> corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
+> citava.**
+
+- ~~**El seu resultat** a Barcelona 1992: la font no en dona ni punts ni
+  posició.~~ — **`resolt`: 140 plats a la ronda de qualificació** i **29è lloc
+  ex aequo**, sense passar a semifinals. **La prova hi consta com a fossa
+  mixta**, que és **el detall que explica per què el corpus hi trobava dones i
+  homes a la mateixa llista de tir.**
+- **On va néixer.** — **`obert`, i el motiu és de font**: **el camp
+  `birth_place` del bolcat és buit.** **Data: 17 de setembre del 1959.**
+- **Tota la resta de la carrera.** — **`obert`, confirmat**: **el bolcat són
+  tres línies.**
 
 ## Related
 

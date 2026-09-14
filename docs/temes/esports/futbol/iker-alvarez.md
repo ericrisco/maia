@@ -55,11 +55,45 @@ a Tercera.
 **És la primera fitxa del corpus d'un futbolista andorrà format a la pedrera
 d'un club de primera divisió espanyola des de petit.**
 
+## La carrera, club per club
+
+**Tancat el 2026-09-13 sense cap font nova.** **El material era al corpus**, al
+bolcat de la mateixa font que ha donat aquesta fitxa:
+[`Iker_Álvarez.wiki`](../../../raw/web/esport/atletes/Iker_Álvarez.wiki).
+
+| Anys | Club | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2019-2021 | **Villarreal C** | 29 | 0 |
+| 2021-2025 | **Villarreal B** | 102 | 0 |
+| 2025- | **Córdoba** | 35 | 0 |
+
+**166 partits de club i 0 gols en total**, en **3 etapes**.
+
+*(Instantània del club del **31 de maig del 2026**.)*
+
+### Les seleccions, totes
+
+| Anys | Equip | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2015-2017 | **Andorra U17** | 8 | 0 |
+| 2017-2019 | **Andorra U19** | 8 | 0 |
+| 2018-2021 | **Andorra U21** | 11 | 0 |
+| 2021- | **Andorra** | 38 | 0 |
+
+*(Instantània de la selecció del **4 de juny del 2026**.)*
+
 ## El que falta
 
-- **Els anys i els partits de cada club.**
-- **La resta de la seva carrera internacional.**
-- **Si segueix jugant.**
+> **Auditat el 2026-09-13.** **Els dos primers buits d'aquesta llista eren
+> falsos**: la resposta era al bolcat de la font pròpia d'aquesta fitxa, dins del
+> corpus. **És el mateix cas a vint-i-nou fitxes de futbolistes** — vegeu
+> [futbol](./README.md).
+
+- ~~**Els anys i els partits de cada club.**~~ — **`resolt`** (taula de dalt).
+- ~~**La resta de la seva carrera internacional.**~~ — **`resolt` en part**: **el bolcat no en dona cap taula**, i la fitxa de la selecció absoluta en dona el compte a la taula de dalt. **Si el nombre de gols hi és 0, no en va fer cap.**
+- **Si segueix jugant.** — **`obert`, confirmat el 2026-09-13.** **La data de la
+  instantània del bolcat marca fins on arriba el que se'n sap**, i **no diu res
+  del que ha passat després.** Vegeu [futbol](../futbol/README.md).
 
 ## Related
 

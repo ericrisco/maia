@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: premsa-andorrana
-timestamp: 2026-09-11T23:00:00Z
+timestamp: 2026-09-13T19:45:00Z
 tags: [danses, andorra-la-vella, patrimoni-immaterial]
 ---
 
@@ -51,9 +51,35 @@ andorrana», és la dansa d'Andorra la Vella—, és **participativa** i és
 
 ## El que falta
 
-L'origen i la datació. La música i qui la compon o la conserva. La descripció
-figura per figura de les tretze parts. El paper de l'Esbart Dansaire i des de
-quan. **Buit registrat.**
+> **Auditat contra la resta del corpus el 2026-09-13.** **Una de les quatre
+> preguntes ja tenia mitja resposta a dos documents que aquesta fitxa no citava.**
+
+- **L'origen i la datació.** — **`obert`, confirmat.** **L'única datació que el
+  corpus té del contrapàs és indirecta i no serveix**: Amades el dona per
+  autòcton al *Costumari* ([els catorze balls](./els-catorze-balls.md)), i la
+  mateixa font avisa que **sortir al *Costumari* no vol dir que es ballés**.
+- **La música i qui la compon o la conserva.** — **`obert`, confirmat.**
+  **Contrasta amb [la marratxa](./la-marratxa.md)**, que sí que té la cadena
+  sencera —Ricard Mas, Daniel Areny, Isidre Marbà, anys seixanta. **Del
+  contrapàs el corpus només sap que es toca amb cobla en directe.**
+- **La descripció figura per figura de les tretze parts.** — **`obert`,
+  confirmat.** **El corpus no té la descripció de cap coreografia andorrana**;
+  la cosa més pròxima és la **descripció de vestuari del Ball del porrer** que
+  [els catorze balls](./els-catorze-balls.md) cita d'Amades.
+- **El paper de l'Esbart Dansaire i des de quan.** — **`parcial`.** **El paper,
+  sí:** [Andorra la Vella](../../territori/parroquies/andorra-la-vella/andorra-la-vella.md)
+  registra el contrapàs com a **patrimoni immaterial de la parròquia «que
+  interpreta l'Esbart Dansaire»**, i aquesta mateixa fitxa el descriu ballant
+  barrejat amb ciutadans i càrrecs electes. **El «des de quan», no** — però el
+  corpus n'acota l'època: [l'associacionisme
+  històric](../../societat/vida-civica/lassociacionisme-historic.md), citant
+  **Canturri**, situa **els esbarts entre les associacions que impulsen els
+  refugiats espanyols de la Guerra Civil i els andorrans retornats**, és a dir
+  **de la postguerra endavant**. `deducció del corpus`, no data.
+
+`Requereix font externa: Els balls d'Andorra, el recull de l'Esbart Laurèdia`
+— la mateixa font que esperen quatre buits més d'aquesta branca, registrada a
+[la Passa](../ritus-de-pas/la-passa.md).
 
 ## Related
 

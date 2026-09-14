@@ -41,6 +41,13 @@ Gairebé tot. **Ni per què només una prova, ni si va seguir competint, ni res
 fora dels Jocs.** **Ordino** és el que se'n sap del lloc, i ja és més que de la
 meitat dels seus companys.
 
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Santi_López.wiki`](../../../../raw/web/esport/alpins/Santi_López.wiki)).
+> **El bolcat confirma el buit tal com està escrit**: **dues línies, i l'únic
+> que hi ha de més que a la fitxa és la data completa —24 de març del 1975— i
+> que la prova de Lillehammer 1994 era el súper-G masculí.**
+> **`obert`, confirmat, i el motiu és de font.**
+
 ## Related
 
 - [Els esquiadors](./README.md)

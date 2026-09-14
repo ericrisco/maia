@@ -31,7 +31,7 @@ tags: [esports, futbol, dones, seleccio]
 
 ## El que falta
 
-- **El seu cognom al gol del 2014**, i la seva data de naixement.
+- **El seu cognom al gol del 2014**, i la seva data de naixement. — **`obert`, confirmat el 2026-09-13, i el motiu és de font, no de destil·lació**: **aquesta fitxa surt d'una llista de plantilla que es declara ella mateixa «non-exhaustive» i que porta etiqueta d'incompleta des de l'octubre del 2021** ([fitxa de font](../../../../fonts/wikipedia-futbol-femeni-andorra.md)). **Cap bolcat individual d'aquestes jugadores no és a `raw/`.** Vegeu [futbol femení](./README.md).
 
 ## Related
 

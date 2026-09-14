@@ -106,10 +106,24 @@ corpus té sobre la demanda d'anglès a Andorra**, i el país té
 ## Buits registrats
 
 1. **Anglicismes amb forma pròpia andorrana.**
-2. **Per quina via** arriben: castellà, francès, directament?
-3. **Dades actuals** de coneixement d'anglès a Andorra.
+2. **Per quina via** arriben: castellà, francès, directament? — **`parcial` des
+   del 2026-09-13, per a un àmbit.** Als esports d'hivern, **més del 82 % dels
+   manlleus vénen directament de l'anglès**; els del castellà surten **sobretot
+   en el discurs oral**, i els del francès són **manlleus ja consolidats**
+   (*forfet*) **o de llarga tradició local** (*randonnée*). I la causa no és
+   l'ambient lingüístic sinó **qui domina l'esport**:
+   [quan la paraula oficial arriba tard](./quan-la-paraula-oficial-arriba-tard.md).
+   **Un àmbit no és la llengua**: fora dels esports d'hivern, el buit segueix
+   sencer.
+3. **Dades actuals** de coneixement d'anglès a Andorra. — **`parcial`.**
+   L'indicador de coneixement de l'anglès passa de **1,9 el 1995 a 4,8 el 2022**,
+   i és **la llengua que més ha pujat de tota la sèrie**
+   ([la sèrie que no és una sèrie](../politica-linguistica/la-serie-que-no-es-una-serie.md)).
+   És autovaloració, no prova de nivell.
 4. **David Crystal**, font citada.
-5. **Una llista equivalent d'avui**, per comparar-la amb la del 2000.
+5. **Una llista equivalent d'avui**, per comparar-la amb la del 2000. — **`obert`,
+   i ara se sap on és.** L'estudi de terminologia té un **índex de termes
+   neològics que designen conceptes nous** (p. 309-316) que no s'ha buidat.
 
 ## Related
 

@@ -61,10 +61,25 @@ la Casa**, el poble andorrà de la frontera francesa; ell, **a Carcassona**.
 
 ## El que falta
 
-- **Els seus resultats de Vancouver 2010** fora dels 50 km.
-- **Quan va plegar.**
-- **Si té relació amb Laure Soulié.**
-- **El seu palmarès de Copa d'Europa i de campionats d'Andorra.**
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`François_Soulié.wiki`](../../../../raw/web/esport/atletes/François_Soulié.wiki)).
+
+- **Els seus resultats de Vancouver 2010** fora dels 50 km. — **`obert`,
+  confirmat**: **el bolcat només en dona el millor**, **47è als 50 km**, i
+  **diu que va anar a dos Jocs d'hivern sense dir quins dos.**
+- ~~**El seu palmarès de Copa d'Europa i de campionats d'Andorra.**~~ —
+  **`parcial`: hi ha els millors resultats de mundial i de Copa del Món, i no
+  hi ha res d'Andorra.** **Millor resultat als Mundials de la FIS: 51è en
+  esprint per equips a SAPPORO el 2007.** **Millor resultat de Copa del Món:
+  24è en esprint per equips a la Xina el 2007.**
+  **Els seus dos millors resultats internacionals són tots dos del 2007 i tots
+  dos per equips**: **en un esport individual, un fondista d'un país petit
+  puntua quan hi ha relleu.**
+- **Quan va plegar.** — **`obert`, confirmat**: **el bolcat diu «competeix des
+  del 1999» i no en dona final.**
+- **Si té relació amb Laure Soulié.** — **`obert`, no arbitrat**: vegeu
+  [Laure Soulié](./laure-soulie.md). **Ell va néixer a CARCASSONA, a l'Aude, el
+  22 de març del 1978**, **181 cm**, i **el bolcat el dona com a andorrà.**
 
 ## Related
 

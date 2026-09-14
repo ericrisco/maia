@@ -68,9 +68,21 @@ del país sencer, vista des de l'esport.
 
 ## El que falta
 
-- **Copes del Món i campionats del món**: cap dada.
-- **Quan va plegar i què fa ara.**
-- **La sèrie sencera d'abanderats.**
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Alex_Antor.wiki`](../../../../raw/web/esport/alpins/Alex_Antor.wiki)).
+
+- **Copes del Món i campionats del món**: cap dada. — **`obert`, confirmat**:
+  **el bolcat és de dues línies.**
+- **Quan va plegar i què fa ara.** — **`obert`, confirmat.**
+- ~~**La sèrie sencera d'abanderats.**~~ — **`parcial`, i hi aporta el seu**:
+  **va ser l'abanderat d'Andorra a la cerimònia d'obertura dels Jocs de Torí
+  del 2006.**
+- ~~**On va néixer**~~ — **`resolt`, i és un fet de branca**: **NARBONA, a
+  l'Aude, França**, l'1 d'abril del 1979, **187 cm**. **És el quart esquiador
+  d'aquesta subbranca nascut fora d'Andorra**, amb
+  [Marc Oliveras](./marc-oliveras.md) (Barcelona),
+  [Cande Moreno](./cande-moreno.md) (Córdoba) i
+  [François Soulié](./francois-soulie.md) (Carcassona).
 
 ## Related
 

@@ -36,11 +36,23 @@ de les dues dones, de qui la font no dona resultats.
 
 ## El que falta
 
-- **On va néixer.** La font deixa el camp buit.
-- **Copes del Món, campionats del món, campionats d'Andorra**: cap dada.
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Nahum_Orobitg.wiki`](../../../../raw/web/esport/alpins/Nahum_Orobitg.wiki)).
+
+- **On va néixer.** La font deixa el camp buit. — **`obert`, confirmat llegint
+  l'infobox sencer**: **no hi ha camp `birth_place`.** **Data: 18 de novembre
+  del 1971.**
+- **Copes del Món, campionats del món, campionats d'Andorra**: cap dada. —
+  **`obert`, confirmat**: **el bolcat és d'una línia.**
 - **Per què només dos Jocs**, quan els seus companys de generació en van fer
-  quatre.
-- **Què fa ara.**
+  quatre. — **`obert`, confirmat, i el contrast es pot datar**: **ell va fer el
+  1988 i el 1992**, mentre que **[Victor Gómez](./victor-gomez.md) i
+  [Vicky Grau](./vicky-grau.md) van arribar al 2002 i
+  [Gerard Escoda](./gerard-escoda.md) al 1998.** **Cap font no ho explica.**
+- **Què fa ara.** — **`obert`, confirmat el 2026-09-13, i per un motiu que val
+  per a tota la branca: el bolcat és una instantània amb data**, i **una
+  instantània no diu què fa ningú avui**. **Aquest buit no es tanca destil·lant
+  millor: es tanca amb una font nova.** Vegeu [els esports](../../README.md).
 
 ## Related
 

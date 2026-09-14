@@ -30,10 +30,42 @@ tags: [esports, futbol, seleccio]
 
 **«El 2021 va fitxar pel Pandurii Târgu Jiu de la Liga III romanesa, però la seva temporada es va acabar l'abril del 2022 per una lesió. El setembre del 2022, poc abans que el Pandurii Târgu Jiu es dissolgués, va tornar a Catalunya.»** **Una lesió i la dissolució del club, el mateix any.** El corpus ho escriu sencer perquè **descriu què vol dir buscar carrera des d'un microestat.**
 
+## La carrera, club per club
+
+**Tancat el 2026-09-13 sense cap font nova.** **El material era al corpus**, al
+bolcat de la mateixa font que ha donat aquesta fitxa:
+[`Eric_de_las_Heras.wiki`](../../../raw/web/esport/atletes/Eric_de_las_Heras.wiki).
+
+| Anys | Club | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2021-2022 | **Pandurii Târgu Jiu** | — | — |
+| 2022-2023 | **Reus** | 18 | 0 |
+| 2023-2026 | **Tamarite** | 62 | 4 |
+| 2026- | **Socuéllamos** | 0 | 0 |
+
+*(Instantània del club del **15 de febrer del 2026**.)*
+
+### Les seleccions, totes
+
+| Anys | Equip | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2018 | **Andorra U17** | 3 | 0 |
+| 2019 | **Andorra U19** | 3 | 0 |
+| 2019-2024 | **Andorra U21** | 24 | 1 |
+| 2024- | **Andorra** | 11 | 0 |
+
+*(Instantània de la selecció del **4 de juny del 2026**.)*
+
+
 ## El que falta
 
+
+> **Auditat el 2026-09-13.** **El buit de la carrera era fals**: la resposta era al
+> bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
+> quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
+
 - **Els seus tres partits.**
-- **La resta de la carrera.**
+- ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related
 

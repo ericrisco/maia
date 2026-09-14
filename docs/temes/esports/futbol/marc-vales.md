@@ -46,10 +46,52 @@ internacionals** — amb [Lima](./ildefons-lima.md),
 reté perquè és el recorregut típic dels futbolistes andorrans**: **la base
 espanyola de tercera i segona B, amb alguna sortida a l'estranger.**
 
+## La carrera, club per club
+
+**Tancat el 2026-09-13 sense cap font nova.** **El material era al corpus**, al
+bolcat de la mateixa font que ha donat aquesta fitxa:
+[`Marc_Vales.wiki`](../../../raw/web/esport/atletes/Marc_Vales.wiki).
+
+| Anys | Club | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2006-2007 | **FC Andorra** | 18 | 0 |
+| 2007-2008 | **Sabadell B** | — | — |
+| 2008 | **Ibiza-Eivissa B** | 13 | 1 |
+| 2009 | **Binéfar** | 12 | 1 |
+| 2009-2011 | **Atlético Monzón** | 58 | 7 |
+| 2011-2012 | **Atlético Baleares** | 19 | 2 |
+| 2012-2013 | **Real Madrid C** | 13 | 0 |
+| 2014 | **FC Andorra** | 6 | 1 |
+| 2014-2015 | **Zaragoza B** | 27 | 1 |
+| 2015-2016 | **Hospitalet** | 5 | 0 |
+| 2016-2018 | **SJK** | 38 | 0 |
+| 2018-2021 | **Sandefjord** | 66 | 4 |
+| 2022 | **Kedah Darul Aman** | 15 | 2 |
+| 2023 | **Real Unión** | 8 | 1 |
+| 2023-2024 | **CE Europa** | 21 | 1 |
+| 2024-2025 | **Atlètic Lleida** | 10 | 0 |
+| 2025- | **Europa FC** | 17 | 2 |
+
+**346 partits de club i 23 gols** en les **16 etapes** de què el bolcat en dona compte, sobre **17 en total**.
+
+*(Instantània del club del **21:53, 25 August 2026 (UTC)**.)*
+
+### Les seleccions, totes
+
+| Anys | Equip | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2008-2011 | **Andorra U21** | 4 | 0 |
+| 2008- | **Andorra** | 107 | 5 |
+
+*(Instantània de la selecció del **21:53, 30 August 2026 (UTC)**.)*
+
+
 ## El que falta
 
-- **Els anys de cada club.**
-- **Quants partits hi va jugar.**
+- ~~**Els anys de cada club.**~~ — **`resolt`** (taula de dalt, **disset
+  etapes**).
+- ~~**Quants partits hi va jugar.**~~ — **`resolt`** en les etapes de què el
+  bolcat en dona compte (taula de dalt).
 - **On juga ara.**
 
 ## Related

@@ -53,9 +53,25 @@ aquest. **No és una anècdota: és l'escala.**
 
 ## El que falta
 
-- **Tota la seva carrera fora d'Atenes**: europeus, mundials, Jocs dels Petits
-  Estats.
-- **Què fa ara.**
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Toni_Besolí.wiki`](../../../raw/web/esport/atletes/Toni_Besolí.wiki)). **La resposta era dins del
+> corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
+> citava.**
+
+- ~~**Tota la seva carrera fora d'Atenes**: europeus, mundials, Jocs dels Petits
+  Estats.~~ — **`obert`, confirmat, i Atenes es tanca sencer.** **Va ser l'únic
+  judoka de la delegació andorrana**, **en pes mitjà (90 kg)**, i **hi va
+  arribar per una invitació tripartida de la Federació Internacional de Judo**
+  —**no per classificació esportiva**, que és **el mateix mecanisme de
+  compensació per a països petits que
+  [Santiago Deu](./santiago-deu.md) i [Carolina Cerqueda](./carolina-cerqueda.md)
+  van rebre de la FINA.** **El combat va durar quaranta-set segons**: **ippon
+  del dominicà Vicbart Geraldino**, **dues vegades olímpic.**
+  **Quaranta-set segons de Jocs Olímpics.**
+- **Què fa ara.** — **`obert`, confirmat el 2026-09-13, i per un motiu que val
+  per a tota la branca: el bolcat és una instantània amb data**, i **una
+  instantània no diu què fa ningú avui**. **Aquest buit no es tanca destil·lant
+  millor: es tanca amb una font nova.** Vegeu [els esports](../README.md).
 - **El judo andorrà**: federació, clubs, quanta gent.
 
 ## Related

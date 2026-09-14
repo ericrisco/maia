@@ -88,12 +88,55 @@ l'Open d'Austràlia.
 
 ## El que falta
 
-- **La seva carrera professional sencera**: títols WTA i ITF, Fed Cup / Billie
-  Jean King Cup amb Andorra, resultats de Grand Slam absolut.
-- **Si ha estat o serà olímpica.**
-- **El tennis andorrà**: federació, clubs, la selecció. **El corpus no en té
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Victoria_Jiménez_Kasintseva.wiki`](../../../raw/web/esport/atletes/Victoria_Jiménez_Kasintseva.wiki)).
+
+> **Aquest és el bolcat més actualitzat de tota la branca: arriba al 8 d'agost
+> del 2026.** **I porta un fet que el corpus no tenia i que és el més gran de
+> l'esport andorrà d'aquest any.**
+
+- ~~**La seva carrera professional sencera**: títols WTA i ITF, Fed Cup / Billie
+  Jean King Cup amb Andorra, resultats de Grand Slam absolut.~~ —
+  **`parcial`, i el que es tanca és molt.**
+
+  | Quan | Què |
+  | --- | --- |
+  | **2020** | **Campiona júnior de l'OPEN D'AUSTRÀLIA**, la jugadora més jove del quadre. **Primera andorrana que guanya un títol júnior de Grand Slam** i **la campiona més jove d'una final de Grand Slam júnior des de Coco Gauff el 2018** |
+  | 2021 | Júnior: **quarts a Roland Garros, semifinals a Wimbledon, quarts a l'US Open** |
+  | **2021** | **Debut al quadre principal del circuit WTA a Madrid, amb quinze anys**: **la jugadora més jove i la primera andorrana en un quadre principal de la WTA**. Derrota amb Kiki Bertens |
+  | 2022 | **Primeres victòries al circuit WTA**, a l'Obert de Corea |
+  | **2024** | **Primera victòria en un WTA 1000**, a Madrid, contra Zhu Lin |
+  | **agost 2025** | **Es classifica per al quadre principal de l'US OPEN**: **primera andorrana o andorrà de la història en un quadre principal de Grand Slam** |
+  | **2026** | **Quarts de final a l'Obert de Mèrida**, guanyant **Yulia Putintseva** i la **vuitena cap de sèrie Magda Linette** |
+  | **16 de març del 2026** | **NÚMERO 89 DEL MÓN**: **primera persona d'Andorra, home o dona, que entra al top 100 de la WTA en tota l'era Open** |
+
+  **Vuit títols individuals del circuit júnior de l'ITF i un de dobles**;
+  **cinc títols individuals ITF i un de dobles** com a professional; **dues
+  finals de WTA 125**; **1.151.596 dòlars de premis.**
+  **El que segueix `obert` és la Billie Jean King Cup**: **el bolcat no
+  n'esmenta cap eliminatòria.**
+- **Si ha estat o serà olímpica.** — **`obert`, confirmat**: **el bolcat
+  compta els Jocs Olímpics dins del seu quadre de trajectòria i no li'n
+  registra cap.**
+- ~~**El seu pare, Joan Jiménez Guerra**, extennista professional andorrà.
+  **Buit registrat.**~~ — **`parcial`, i el detall és bo**: **va ser
+  professional i va arribar al número 505 del rànquing ATP**, i **és ell qui
+  l'entrena.** **La mare és Yulia Kasintseva, russa.** **El germà, Joan,
+  també juga a tennis.**
+  **Va néixer a Andorra la Vella el 9 d'agost del 2005**, **va viure a
+  Kentucky dels quatre als vuit anys**, **s'entrena a Barcelona** i **parla
+  català, castellà, anglès, francès i rus.**
+- ~~**El tennis andorrà**: federació, clubs, la selecció. **El corpus no en té
   res**, i la llista d'equips nacionals d'Andorra inclou tennis
-  ([els altres Jocs](../competicio/els-altres-jocs.md)).
+  ([els altres Jocs](../competicio/els-altres-jocs.md)).~~ — **`parcial`: «el
+  corpus no en té res» ha deixat de ser cert.** **La selecció masculina hi és
+  sencera** —vegeu [Èric Cervós](./eric-cervos.md)—: **Copa Davis des del
+  2000, 63 eliminatòries, 26-37, Grup IV d'Europa des del 2008, rànquing ITF
+  106, capità Laurent Recouderc, i el rècord de tot en mans de Jean-Baptiste
+  Poux-Gautier.** **La governa la Federació Andorrana de Tennis.**
+  **El que segueix `obert` són els clubs, la federació com a institució i la
+  Billie Jean King Cup femenina**, **que és justament la que caldria per a
+  aquesta fitxa.**
 - **El seu pare, Joan Jiménez Guerra**, extennista professional andorrà. **Buit
   registrat.**
 

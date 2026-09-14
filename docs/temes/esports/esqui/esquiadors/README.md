@@ -124,11 +124,51 @@ què va ser de dos**: [Roger Vidosa](./roger-vidosa.md) és preparador físic a
 Tolosa i [Kevin Esteve](./kevin-esteve-rigail.md) és golfista professional. **Dels
 altres dinou, res.**
 
+## Les claus de pas, que el corpus ja tenia
+
+**Trobades el 2026-09-13 auditant els buits d'aquesta subbranca.** **Vuit fitxes
+d'esquiador declaraven, amb les mateixes paraules, «la seva biografia d'atleta de
+la FIS, que la font cita i el corpus no ha consultat».** **El que el corpus no
+sabia és que ja en tenia els identificadors**: els bolcats de
+`docs/raw/web/esport/alpins/` **porten el número de FIS i el d'Olympedia a les
+plantilles d'enllaços externs.**
+
+**Setze dels vint-i-sis esquiadors amb bolcat en tenen almenys un:**
+
+| Esquiador | FIS | Olympedia |
+| --- | ---: | ---: |
+| [Sandra Grau](./sandra-grau.md) | **21456** | **81189** |
+| [Vicky Grau](./vicky-grau.md) | **21457** | **81190** |
+| [Gerard Escoda](./gerard-escoda.md) | **16026** | — |
+| [Santi López](./santi-lopez.md) | **35924** | **91907** |
+| [Nahum Orobitg](./nahum-orobitg.md) | **45345** | **96089** |
+| [Ramon Rossell](./ramon-rossell.md) | **52042** | — |
+| [Roger Vidosa](./roger-vidosa.md) | **64144** | **109904** |
+| [Mireia Gutiérrez](./mireia-gutierrez.md) | **94024** | **118433** |
+| [Kevin Esteve](./kevin-esteve-rigail.md) | **104295** | **118399** |
+| [Sofie Juárez](./sofie-juarez.md) | **127182** | **118466** |
+| [Miguel Font](./miguel-font.md) | **127196** | **85778** |
+| [Jordi Torres](./jordi-torres.md) | **230414** | **98336** |
+| [Antoni Naudi](./antoni-naudi.md) | **222405** | **95757** |
+| [Àlex Antor](./alex-antor.md) | — | **101799** |
+| [Antoine Crespo](./antoine-crespo.md) | — | **84899** |
+| [Claudina Rossel](./claudina-rossel.md) | — | **82225** |
+
+> **Això no tanca cap buit i els abarateix tots.** **Consultar la FIS deixa de
+> ser una cerca i passa a ser una consulta directa**, i **els números de Sandra i
+> Vicky Grau, 21456 i 21457, són consecutius** — **es van federar el mateix dia.**
+> `deducció del corpus`: cap font no ho diu.
+
+**Els altres deu bolcats no porten cap identificador**, i **confirmen el que les
+fitxes deien**: són **esborranys d'una línia**. **El buit era exacte.**
+
 ## El que tancaria aquesta subbranca
 
 - **Les biografies d'atleta de la FIS** (`fis-ski.com`), que cada entrada cita i
-  el corpus no ha consultat. **Hi són les temporades senceres.**
-- **Olympedia**, per als resultats que la Viquipèdia no dona.
+  el corpus no ha consultat. **Hi són les temporades senceres.** — **`obert`,
+  confirmat**, però **ara amb els números**: vegeu la taula de dalt.
+- **Olympedia**, per als resultats que la Viquipèdia no dona. — **`obert`,
+  confirmat**, i **amb catorze identificadors** a la taula de dalt.
 - **La Federació Andorrana d'Esquí (FAE)** i **la Federació Andorrana d'Esports
   Adaptats (FADEA)**.
 - **La premsa andorrana de cada època.**

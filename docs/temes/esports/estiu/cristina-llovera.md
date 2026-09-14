@@ -57,9 +57,29 @@ la mateixa arrel que **[Claudina Rossel](../esqui/esquiadors/claudina-rossel.md)
 
 ## El que falta
 
-- **La seva marca a Londres.**
-- **Si va tornar a competir** després del 2016.
-- **El seu palmarès als Jocs dels Petits Estats.**
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Cristina_Llovera.wiki`](../../../raw/web/esport/atletes/Cristina_Llovera.wiki)). **La resposta era dins del
+> corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
+> citava.**
+
+- ~~**La seva marca a Londres.**~~ — **`resolt`: 12,73 segons**, que el bolcat
+  registra com **la seva millor marca personal**, feta **a Londres el 2012**.
+  **I el corpus hi troba una coincidència que val la pena deixar escrita**:
+  **12,73 és exactament la mateixa marca que [Montserrat Pujol](./montserrat-pujol.md)
+  va córrer als Jocs de Pequín quatre anys abans.** **Dues velocistes
+  andorranes, dos Jocs diferents, el mateix temps.** **Coincidència registrada,
+  no interpretada.**
+- ~~**Si va tornar a competir** després del 2016.~~ — **`parcial`, i el bolcat
+  explica el 2016 en comptes de respondre'l**: **no va anar a Rio per una
+  lesió** — **una espondilòlisi, una petita fractura en una vèrtebra, dos mesos
+  abans dels Jocs**, que **la va deixar sense opcions**. **El que va passar
+  després del 2016 segueix `obert`**, **i l'infobox està actualitzat al 15
+  d'agost del 2012**: **el bolcat no pot respondre-ho.**
+- **El seu palmarès als Jocs dels Petits Estats.** — **`obert`, confirmat, i el
+  motiu és de font**: **el bolcat no té taula de competicions ni medaller.**
+- **Un fet que la fitxa no tenia**: **era la participant més jove de tota la
+  competició d'atletisme dels Jocs de Londres.** **Nascuda l'1 d'octubre del
+  1996 a Andorra la Vella**: **quinze anys i deu mesos.**
 
 ## Related
 

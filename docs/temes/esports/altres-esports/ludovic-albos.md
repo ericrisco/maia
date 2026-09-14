@@ -52,8 +52,46 @@ més** a la llista que aquesta branca va acumulant.
 
 ## El que falta
 
-Gairebé tot: **on va néixer, quins resultats, quan competia, si segueix.** **La
-font és una sola frase.**
+~~Gairebé tot: **on va néixer, quins resultats, quan competia, si segueix.**
+**La font és una sola frase.**~~
+
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Ludovic_Albós_Cavaliere.wiki`](../../../raw/web/esport/atletes/Ludovic_Albós_Cavaliere.wiki)).
+
+> **«La font és una sola frase» era fals.** **El bolcat porta biografia,
+> professió, any d'inici i vuit resultats internacionals amb noms de
+> companys.** **La fitxa s'havia escrit amb la primera línia.**
+
+- ~~**Quins resultats**~~ — **`resolt`.**
+
+  | Any | Resultat |
+  | --- | --- |
+  | **2007** | **9è**, Campionat d'Europa de cursa vertical |
+  | 2008 | 17è, Campionat del Món de cursa vertical |
+  | 2009 | 19è, Campionat d'Europa de cursa vertical |
+  | **2009** | **2n, cursa de La Serrera** |
+  | 2012 | **7è, Campionat d'Europa per equips**, amb **Joan Albós Cavaliere** |
+  | 2012 | 8è, Campionat d'Europa de relleus, amb **Xavier Comas Guixé**, **Guilad Dodo Perez** i **Joan Albós Cavaliere** |
+
+- ~~**Quan competia**~~ — **`resolt`: va començar a fer esquí de muntanya el
+  2006** i **va competir per primera vegada aquell mateix any al Gp Vallnord**;
+  **és membre de la selecció andorrana d'esquí de muntanya des del 2006.**
+- ~~**Si segueix**~~ — **`obert`, confirmat**: **l'últim resultat del bolcat és
+  del 2012.**
+- **On va néixer** — **`obert`, i el motiu és de font**: **l'infobox no té
+  `birth_place`.** **Data: 4 de maig del 1979.**
+- **I el que fa fora de la neu, que el corpus no tenia**: **és comptable expert
+  i assessor comercial**, **treballa en àrees comercials des del 1999**, i
+  **l'esquí de muntanya el fa en el seu temps lliure.** **Formació: FP2 de
+  tècnic administratiu comptable, diplomatura en turisme i llicenciatura en
+  administració d'empreses.**
+  **Un esportista de selecció nacional que competeix els caps de setmana.**
+  **Això no és una anècdota**: **és com funciona l'esport d'un país de
+  setanta-set mil habitants**, i **la fitxa de
+  [Xavier Capdevila](./xavier-capdevila.md), bomber, diu el mateix.**
+- **Els seus germans David i Joan també són esquiadors de muntanya de
+  competició** — **[David Albós](./david-albos.md)** és, a més, **set vegades
+  campió d'Andorra de contrarellotge en ciclisme.**
 
 ## Related
 

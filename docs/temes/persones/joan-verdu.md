@@ -103,6 +103,20 @@ i **base econòmica** ([turisme i neu](../../temes/economia/turisme-i-neu/turism
 pujar a un podi de Copa del Món per primer cop.** *(El corpus no té l'any de la
 primera estació i marca aquesta xifra com a pendent de comprovar.)*
 
+## El medaller, tal com el dona la font
+
+**Tancat el 2026-09-13 sense cap font nova.** **Les medalles eren a l'infobox del
+bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`,
+**i no s'havien destil·lat.**
+
+| Metall | Edició | Prova | Competició |
+| --- | --- | --- | --- |
+| 🥉 **Bronze** | **Innsbruck 2012** | Super-G | Winter Jocs Olímpics de la Joventut |
+
+**1 medalla en total**: **1 de bronze**.
+
+**L'única a Winter Jocs Olímpics de la Joventut.**
+
 ## Buits registrats
 
 1. **La font primària de la FIS** amb tots els seus resultats.

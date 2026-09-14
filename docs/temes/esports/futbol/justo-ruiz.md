@@ -39,11 +39,54 @@ Vitòria, també arribat a Andorra per fitxar pel FC Andorra— **i n'observa el
 patró**: **una part de la selecció andorrana dels anys 2000 són futbolistes
 bascos i espanyols que van fitxar pel FC Andorra i s'hi van nacionalitzar.**
 
+## La carrera, club per club
+
+**Tancat el 2026-09-13 sense cap font nova.** **El material era al corpus**, al
+bolcat de la mateixa font que ha donat aquesta fitxa:
+[`Justo_Ruiz.wiki`](../../../raw/web/esport/atletes/Justo_Ruiz.wiki).
+
+| Anys | Club | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 1987-1992 | **Bilbao Athletic** | 84 | 0 |
+| 1992-1993 | **Eibar** | 4 | 0 |
+| 1993-1994 | **Gimnàstic** | 5 | 0 |
+| 1994 | **Amurrio** | — | — |
+| 1994-1997 | **FC Andorra** | 79 | 4 |
+| 1997-1998 | **Figueres** | 30 | 0 |
+| 1998-1999 | **União Madeira** | 23 | 2 |
+| 1999-2004 | **FC Andorra** | 69 | 5 |
+| 2004-2008 | **Rànger's** | 64 | 36 |
+
+### Les seleccions, totes
+
+| Anys | Equip | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 1987 | **Spain U17** | 2 | 1 |
+| 1986-1988 | **Spain U18** | 11 | 1 |
+| 1988-1989 | **Spain U19** | 3 | 0 |
+| 1989-1990 | **Spain U20** | 4 | 0 |
+| 1991 | **Spain U21** | 1 | 0 |
+| 1991 | **Spain U23** | 2 | 0 |
+
+### Els gols internacionals, un per un
+
+| Quan | Contra | Marcador al gol | Resultat final | Competició |
+| --- | --- | ---: | ---: | --- |
+| 8 de setembre del 1999 | **Rússia** | 1-1 | 1-2 | Classificació per a l'Eurocopa 2000 |
+| 7 d'octubre del 2000 | **Estònia** | 1-2 | 1-2 | Classificació per al Mundial del 2002 |
+
 ## El que falta
 
-- **Els anys i els partits de cada club.**
-- **La resta de la seva carrera internacional.**
-- **Si segueix jugant.**
+> **Auditat el 2026-09-13.** **Els dos primers buits d'aquesta llista eren
+> falsos**: la resposta era al bolcat de la font pròpia d'aquesta fitxa, dins del
+> corpus. **És el mateix cas a vint-i-nou fitxes de futbolistes** — vegeu
+> [futbol](./README.md).
+
+- ~~**Els anys i els partits de cada club.**~~ — **`resolt`** (taula de dalt).
+- ~~**La resta de la seva carrera internacional.**~~ — **`resolt`**: **la carrera internacional sencera i els gols un per un**, amb data, rival, marcador i competició (taules de dalt).
+- **Si segueix jugant.** — **`obert`, confirmat el 2026-09-13.** **La data de la
+  instantània del bolcat marca fins on arriba el que se'n sap**, i **no diu res
+  del que ha passat després.** Vegeu [futbol](../futbol/README.md).
 
 ## Related
 

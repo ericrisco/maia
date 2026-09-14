@@ -42,9 +42,24 @@ Andorra.
 
 ## El que falta
 
-- **El seu palmarès de golf.** Tres circuits professionals i **cap resultat**.
-- **Si encara juga.**
-- **Els seus resultats d'esquí** fora dels Jocs.
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Kevin_Esteve.wiki`](../../../../raw/web/esport/alpins/Kevin_Esteve.wiki)).
+
+- ~~**El seu palmarès de golf.** Tres circuits professionals i **cap
+  resultat**.~~ — **`parcial`: hi ha UNA victòria professional, i el circuit.**
+  **Una victòria al TORO TOUR.** **I els circuits són quatre, no tres**:
+  **MENA Tour** (l'actual) i, com a anteriors, **Alps Tour**, **Professional
+  Golf Tour of India** i **Nordic Golf League.**
+- ~~**Si encara juga.**~~ — **`parcial`**: **el bolcat el dona com a
+  professional en actiu al MENA Tour** i **no porta data d'actualització.**
+- **Els seus resultats d'esquí** fora dels Jocs. — **`obert`, confirmat**: **el
+  bolcat no en dona cap.**
+- ~~**Per què va passar de l'esquí al golf**~~ — **`resolt`, i és el fet que
+  faltava a aquesta fitxa**: **es va fer professional del golf el 2015 DESPRÉS
+  DE TRENCAR-SE EL GENOLL EL 2014.** **No és una reconversió d'ofici: és una
+  lesió.**
+- **Naixement: Andorra, 27 de desembre del 1989**, **180 cm i 80 kg.**
+  **El camp `birth_place` diu «Andorra» i cap parròquia.**
 - **El golf andorrà sencer**: federació, camps, quanta gent.
 
 ## Related

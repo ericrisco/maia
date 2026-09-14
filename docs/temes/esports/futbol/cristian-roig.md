@@ -30,10 +30,32 @@ tags: [esports, futbol, seleccio]
 
 **«Va ser internacional amb Andorra el 1998.»** **Un sol partit, i el corpus en sap l'any.** És **dels primers anys de la selecció**, que va debutar el 1996 ([la selecció](./la-seleccio.md)).
 
+## La carrera, club per club
+
+**Tancat el 2026-09-13 sense cap font nova.** **El material era al corpus**, al
+bolcat de la mateixa font que ha donat aquesta fitxa:
+[`Cristian_Roig_Mauri.wiki`](../../../raw/web/esport/atletes/Cristian_Roig_Mauri.wiki).
+
+| Anys | Club | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 1997-2008 | **UE Sant Julià** | — | — |
+
+### Les seleccions, totes
+
+| Anys | Equip | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 1998 | **Andorra** | 1 | 0 |
+
+
 ## El que falta
 
+
+> **Auditat el 2026-09-13.** **El buit de la carrera era fals**: la resposta era al
+> bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
+> quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
+
 - Tot: **contra qui, els clubs i la resta.**
-- **La resta de la carrera.**
+- ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related
 

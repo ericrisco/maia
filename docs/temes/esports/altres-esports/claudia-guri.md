@@ -46,10 +46,45 @@ Risco](../../persones/eric-risco.md)**, judoka i jugador de rugbi.
 
 ## El que falta
 
-- **Quina prova** va fer a Pequín i amb quin resultat. **La font no ho diu.**
-- **On va néixer exactament**: la font posa el lloc dins del camp d'alçada.
-  **Errata registrada.**
-- **Si segueix competint.**
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Claudia_Guri.wiki`](../../../raw/web/esport/atletes/Claudia_Guri.wiki)).
+
+- ~~**Quina prova** va fer a Pequín i amb quin resultat. **La font no ho
+  diu.**~~ — **`parcial`, i la prova es dedueix del mateix bolcat sense forçar
+  res**: **la seva millor marca de salt de llargada a l'aire lliure és 5,59 m i
+  el bolcat la data «Pequín 2015»**, que és **exactament el Mundial on va ser
+  l'única representant d'Andorra**. **La prova era el salt de llargada i la
+  marca, 5,59 m.** **La posició segueix `obert`.**
+  `deducció del corpus a partir de la taula de marques personals, no del text.`
+- ~~**On va néixer exactament**: la font posa el lloc dins del camp d'alçada.
+  **Errata registrada.**~~ — **`resolt`, i l'errata també queda explicada**:
+  **el camp de l'infobox és inutilitzable, però la primera frase del text ho
+  diu**: **«nascuda l'1 de maig del 1995 a Escaldes»**. **El corpus s'havia
+  quedat a l'infobox.**
+- **I les seves marques personals senceres, que el corpus no tenia**, i que
+  **retraten una atleta combinada, no una saltadora:**
+
+  | A l'aire lliure | | En pista coberta | |
+  | --- | ---: | --- | ---: |
+  | 100 m tanques | 17.15 (Tbilissi 2014) | 800 m | 2:41.87 (Sabadell 2016) |
+  | Alçada | 1,79 (Tunis 2016) | 60 m tanques | 9.97 (Sabadell 2016) |
+  | Perxa | 2,40 (Marsa 2010) | Alçada | **1,80 (Sabadell 2017)** |
+  | Llargada | 5,59 (Pequín 2015) | Llargada | **5,68 (Antequera 2015)** |
+  | Triple | 12,16 (Castres 2015) | Triple | **12,40 (Antequera 2015)** |
+  | | | Pes | 8,74 (Sabadell 2015) |
+  | | | **Pentatló** | **3.222 punts (Sabadell 2016)** |
+
+  **Set proves diferents i un pentatló**: **el bolcat la descriu amb tres
+  events —alçada, llargada i triple— i les marques en donen set.**
+  **I les millors són totes del 2015 al 2017**, cosa que **matisa el buit de
+  «si segueix competint»**: **la darrera marca que el bolcat li registra és de
+  la temporada coberta del 2017.**
+- ~~**El bàsquet femení andorrà**~~ — **i aquí el bolcat dona un fil que el
+  corpus no tenia**: **abans de l'atletisme, Claudia Guri va ser jugadora de
+  bàsquet i va jugar a la selecció andorrana sub-16.** **El buit del bàsquet
+  femení segueix `obert`**, **però ara té un nom a dins.**
+- **Si segueix competint.** — **`obert`, confirmat el 2026-09-13.** **El bolcat
+  és una instantània amb data i no diu res del que ha passat després.**
 - **El bàsquet femení andorrà**: hi ha **tres seleccions femenines** i **cap
   fitxa**.
 

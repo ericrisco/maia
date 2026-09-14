@@ -44,8 +44,25 @@ branca.**
 
 ## El que falta
 
-- **La seva marca i posició reals** a Sydney.
-- **Tota la resta de la carrera.**
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Santiago_Deu.wiki`](../../../raw/web/esport/atletes/Santiago_Deu.wiki)). **La resposta era dins del
+> corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
+> citava.**
+
+- ~~**La seva marca i posició reals** a Sydney.~~ — **`resolt`, amb tot el
+  detall.** **200 m lliures**, **51è de la general**, sense passar a
+  semifinals. **A la sèrie 1 va acabar últim dels cinc**, **a 4,38 segons de
+  l'uzbek Oleg Tsvetkovskiy**, **amb 1:59.31**, que **és la millor marca de la
+  seva vida**. **Hi havia entrat amb un temps d'inscripció d'1:59.39.**
+  **Va nedar el millor temps de la seva vida per quedar últim de la sèrie**, i
+  **això és exactament el que descriu una plaça d'universalitat.**
+- ~~**Tota la resta de la carrera.**~~ — **`obert`, confirmat**: **el bolcat
+  només li dona aquesta prova i aquests Jocs.** **Santiago Deu Sandoval,
+  Andorra la Vella, 21 de març del 1980, migfondista de lliures.**
+- **La plaça d'universalitat queda confirmada per la font pròpia**: **la va
+  rebre de la FINA.** **És el mateix mecanisme que
+  [Carolina Cerqueda](./carolina-cerqueda.md) el 2004** i que **la invitació
+  tripartida de [Toni Besolí](./toni-besoli.md) el mateix any.**
 - **Quants dels olímpics andorrans hi han anat per plaça d'universalitat.**
   **Buit registrat i interessant.**
 

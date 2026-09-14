@@ -45,13 +45,66 @@ s'assembla als altres**, i **el corpus ho apunta per a
 l'equip olímpic andorrà dels anys dos mil ja porta **noms d'origen magrebí,
 argentí, francès i espanyol**, i **això és el país**.
 
+## El medaller, tal com el dona la font
+
+**Tancat el 2026-09-13 sense cap font nova.** **Les medalles eren a l'infobox del
+bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`,
+**i no s'havien destil·lat.**
+
+| Metall | Edició | Prova | Competició |
+| --- | --- | --- | --- |
+| 🥇 **Or** | **Liechtenstein 2011** | 200 m papallona | Jocs dels Petits Estats d'Europa |
+| 🥇 **Or** | **Malta 2003** | 400 m estils | Jocs dels Petits Estats d'Europa |
+| 🥈 **Argent** | **Liechtenstein 2011** | 200 m estils | Jocs dels Petits Estats d'Europa |
+| 🥈 **Argent** | **Malta 2003** | 200 m braça | Jocs dels Petits Estats d'Europa |
+| 🥈 **Argent** | **Malta 2003** | 200 m papallona | Jocs dels Petits Estats d'Europa |
+| 🥈 **Argent** | **Xipre 2009** | 200 m braça | Jocs dels Petits Estats d'Europa |
+| 🥈 **Argent** | **Xipre 2009** | 200 m papallona | Jocs dels Petits Estats d'Europa |
+| 🥈 **Argent** | **Xipre 2009** | 200 m estils | Jocs dels Petits Estats d'Europa |
+| 🥈 **Argent** | **Xipre 2009** | 400 m estils | Jocs dels Petits Estats d'Europa |
+| 🥉 **Bronze** | **Liechtenstein 2011** | 400 m estils | Jocs dels Petits Estats d'Europa |
+| 🥉 **Bronze** | **Liechtenstein 2011** | 200 m braça | Jocs dels Petits Estats d'Europa |
+| 🥉 **Bronze** | **Malta 2003** | 400 m lliure | Jocs dels Petits Estats d'Europa |
+| 🥉 **Bronze** | **Malta 2003** | 4x200 m lliure | Jocs dels Petits Estats d'Europa |
+| 🥉 **Bronze** | **Xipre 2009** | 100 m braça | Jocs dels Petits Estats d'Europa |
+
+**14 medalles en total**: **2 d'or**, **7 d'argent**, **5 de bronze**.
+
+**Totes als Jocs dels Petits Estats d'Europa.**
+
 ## El que falta
 
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Hocine_Haciane.wiki`](../../../raw/web/esport/atletes/Hocine_Haciane.wiki)). **La resposta era dins del
+> corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
+> citava.**
+
 - **Quins rècords d'Andorra té.** La font diu «record holding» i **no en dona
-  cap.**
-- **Les seves marques i posicions** de cap dels tres Jocs.
-- **On es va formar** i on nedava.
-- **Què fa ara.**
+  cap.** — **`obert`, confirmat llegint el bolcat sencer**: **hi torna a dir
+  «olympic and national record holding swimmer» i no en llista ni un.**
+  **Buit de font, declarat.**
+- **Les seves marques i posicions** de cap dels tres Jocs. — **`obert`,
+  confirmat, pel mateix motiu.**
+- ~~**On es va formar** i on nedava.~~ — **`parcial`: el club no hi és, i el
+  calendari internacional sencer, sí.** **El bolcat en dona la llista de
+  competicions, que la fitxa no tenia:**
+
+  | Competició | Edicions |
+  | --- | --- |
+  | **Jocs Olímpics** | **2004, 2008, 2012** |
+  | **Mundials** | **2003, 2005, 2009, 2011** |
+  | **Mundials en piscina curta** | **2010** |
+  | **Jocs Mediterranis** | **2009** |
+  | **Jocs dels Petits Estats** | **2001, 2003, 2005, 2007, 2009, 2011 — sis edicions seguides** |
+
+  **Catorze anys de selecció seguits, del 2001 al 2012**, i **abanderat
+  d'Andorra als Jocs d'Atenes del 2004.** **On es va formar segueix `obert`.**
+- ~~**On va néixer**~~ — **`resolt`**: **Andorra la Vella, 7 de juliol del
+  1986.**
+- **Què fa ara.** — **`obert`, confirmat el 2026-09-13, i per un motiu que val
+  per a tota la branca: el bolcat és una instantània amb data**, i **una
+  instantània no diu què fa ningú avui**. **Aquest buit no es tanca destil·lant
+  millor: es tanca amb una font nova.** Vegeu [els esports](../README.md).
 
 ## Related
 

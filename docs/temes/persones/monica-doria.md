@@ -94,6 +94,24 @@ d'Andorra**, per damunt del novè de
 sobre una sola persona. **Però les registra perquè cap font andorrana consultada
 les posa juntes.**
 
+## El medaller, tal com el dona la font
+
+**Tancat el 2026-09-13 sense cap font nova.** **Les medalles eren a l'infobox del
+bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`,
+**i no s'havien destil·lat.**
+
+| Metall | Edició | Prova | Competició |
+| --- | --- | --- | --- |
+| 🥇 **Or** | **Hohenlimburg 2017** | C1 | Campionat d'Europa júnior |
+| 🥇 **Or** | **Vaires-sur-Marne 2025** | C1 | Campionat d'Europa |
+| 🥈 **Argent** | **Oklahoma City 2026** | C1 | Campionat del Món |
+| 🥉 **Bronze** | **Augsburg 2022** | kayak cross | Campionat del Món |
+| 🥉 **Bronze** | **Ivrea 2022** | K1 | Campionat del Món sub-23 |
+| 🥉 **Bronze** | **Ivrea 2022** | kayak cross | Campionat del Món sub-23 |
+| 🥉 **Bronze** | **Solkan 2021** | C1 | Campionat d'Europa sub-23 |
+
+**7 medalles en total**: **2 d'or**, **1 d'argent**, **4 de bronze**.
+
 ## Buits registrats
 
 1. **Tota la font primària**: fitxa de la **ICF**, del **COA** i de la

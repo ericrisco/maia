@@ -87,12 +87,54 @@ partits, del 1997 al 2009**.
 després dels **[Font](../esqui/esquiadors/carlos-font.md)** a Lake Placid 1980
 i les **[Grau](../esqui/esquiadors/sandra-grau.md)** a l'esquí.
 
+## La carrera, club per club
+
+**Tancat el 2026-09-13 sense cap font nova.** **El material era al corpus**, al
+bolcat de la mateixa font que ha donat aquesta fitxa:
+[`Ildefons_Lima.wiki`](../../../raw/web/esport/atletes/Ildefons_Lima.wiki).
+
+| Anys | Club | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 1996-1999 | **FC Andorra** | 58 | 2 |
+| 1999-2000 | **Espanyol B** | 1 | 0 |
+| 2000-2001 | **Sant Andreu** | 25 | 2 |
+| 2001-2002 | **Ionikos** | 0 | 0 |
+| 2002 | **Pachuca** | 3 | 1 |
+| 2002-2003 | **Las Palmas** | 25 | 2 |
+| 2004 | **Poli Ejido** | 2 | 0 |
+| 2004-2005 | **Rayo Vallecano** | 34 | 1 |
+| 2005-2009 | **Triestina** | 80 | 1 |
+| 2009-2011 | **Bellinzona** | 43 | 4 |
+| 2011-2012 | **Triestina** | 17 | 2 |
+| 2012-2014 | **FC Andorra** | 45 | 15 |
+| 2014-2018 | **Santa Coloma** | 64 | 10 |
+| 2018-2022 | **Inter d'Escaldes** | 53 | 5 |
+| 2022-2023 | **FC Andorra B** | 13 | 0 |
+
+**463 partits de club i 45 gols** en les **15 etapes** de què el bolcat en dona compte, sobre **15 en total**.
+
+### Les seleccions, totes
+
+| Anys | Equip | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 1997-2023 | **Andorra** | 137 | 11 |
+
+
 ## El que falta
 
-- **Els seus clubs, un per un**, amb anys i partits.
+> **Auditat el 2026-09-13 contra el bolcat de la font pròpia.**
+
+- ~~**Els seus clubs, un per un**, amb anys i partits.~~ — **`resolt`**: **quinze
+  etapes** (taula de dalt), **a Andorra, Espanya, Grècia, Mèxic, Itàlia i
+  Suïssa**. **Els 15 gols al FC Andorra del 2012-2014 són el seu millor registre
+  de club**, i **contrasten amb els 2 dels seus tres primers anys al mateix
+  club, quinze anys abans.**
 - **Els seus onze gols**: contra qui i quan.
 - **El seu comiat**, el setembre del 2023 contra Suïssa.
-- **Què fa ara.**
+- **Què fa ara.** — **`obert`, confirmat el 2026-09-13, i per un motiu que val
+  per a tota la branca: el bolcat és una instantània amb data**, i **una
+  instantània no diu què fa ningú avui**. **Aquest buit no es tanca destil·lant
+  millor: es tanca amb una font nova.** Vegeu [futbol](../futbol/README.md).
 
 ## Related
 

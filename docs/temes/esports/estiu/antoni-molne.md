@@ -55,10 +55,27 @@ el 2004, escrius que el 2004 és el començament.
 
 ## El que falta
 
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Antoni_Molne.wiki`](../../../raw/web/esport/atletes/Antoni_Molne.wiki)). **La resposta era dins del
+> corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
+> citava.**
+
 - **On va néixer**: la font posa el lloc dins del camp d'alçada. **Errata
-  registrada.**
-- **El seu resultat d'Atlanta 1996.**
-- **La resta de la seva carrera.**
+  registrada.** — **`obert`, i l'errata queda confirmada llegint el bolcat**:
+  **el camp `birth_place` hi és buit.** **No és que el corpus no ho hagi
+  destil·lat: la font no ho té.**
+- ~~**El seu resultat d'Atlanta 1996.**~~ — **`resolt`**, **i el de Barcelona
+  1992 també, que la fitxa donava sense rival:**
+
+  | Jocs | Categoria | Com va anar |
+  | --- | --- | --- |
+  | **Barcelona 1992** | **superlleuger (60 kg)** | **Exempt a la primera ronda**; **perd amb l'italià Marino Cattefra** a la segona |
+  | **Atlanta 1996** | **65 kg** | **Exempt a la primera ronda**; **perd amb l'uzbek Timur Mukhamedkhanov** a la segona |
+
+  **Dues vegades el mateix guió**: **exempció, un sol combat, eliminat.**
+  **El bolcat li dona nom complet —Antoni Molné Oviedo— i sobrenom, «Tony».**
+- **La resta de la seva carrera.** — **`obert`, confirmat, i el motiu és de
+  font**: **el bolcat són cinc línies i no en diu res més.**
 
 ## Related
 

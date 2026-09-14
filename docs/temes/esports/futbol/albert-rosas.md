@@ -30,10 +30,46 @@ tags: [esports, futbol, seleccio]
 
 **Setze gols amb el Monzón la temporada 2021-22 de Tercera Federació**, i **l'1 d'agost del 2022 el FC Andorra el va renovar fins al 2025**. **És la xifra golejadora de club més alta que el corpus documenta de cap futbolista andorrà.**
 
+## La carrera, club per club
+
+**Tancat el 2026-09-13 sense cap font nova.** **El material era al corpus**, al
+bolcat de la mateixa font que ha donat aquesta fitxa:
+[`Albert_Rosas.wiki`](../../../raw/web/esport/atletes/Albert_Rosas.wiki).
+
+| Anys | Club | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2021- | **FC Andorra** | 5 | 0 |
+| 2021-2022 | **Atlético Monzón** *(cedit)* | 27 | 16 |
+| 2022-2023 | **Utebo** *(cedit)* | 16 | 10 |
+| 2023-2024 | **Betis B** *(cedit)* | 29 | 2 |
+| 2025 | **Atlético Baleares** *(cedit)* | 12 | 3 |
+| 2025- | **Logroñés** *(cedit)* | 28 | 16 |
+
+**117 partits de club i 47 gols en total**, en **6 etapes**.
+
+*(Instantània del club del **7 de maig del 2026**.)*
+
+### Les seleccions, totes
+
+| Anys | Equip | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2018 | **Andorra U17** | 3 | 1 |
+| 2019 | **Andorra U19** | 2 | 0 |
+| 2019-2024 | **Andorra U21** | 20 | 4 |
+| 2021- | **Andorra** | 27 | 5 |
+
+*(Instantània de la selecció del **31 de maig del 2026**.)*
+
+
 ## El que falta
 
+
+> **Auditat el 2026-09-13.** **El buit de la carrera era fals**: la resposta era al
+> bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
+> quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
+
 - **Els seus partits amb la selecció** i on juga ara.
-- **La resta de la carrera.**
+- ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related
 

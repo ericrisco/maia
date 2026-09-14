@@ -55,7 +55,15 @@ falta.**
 
 ## El que falta
 
-- **Qui és Benet Pantebre.** **Divuit anys dirigint-lo i el corpus no en té ni
+- **Qui és Benet Pantebre.** — **`obert`, confirmat el 2026-09-13, i amb una
+  pista que el corpus no sabia que tenia**: **el cognom Pantebre surt en dues
+  branques més** —**l'Agrupació sardanista de les Valls**, que porta la primera
+  cobla al país ([danses](../../costums/danses/danses.md)), i **l'autor d'*El
+  parlar d'Andorra* (1997)**
+  ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)).
+  **El corpus no afirma cap relació**; el quadre és a
+  [escacs](./README.md). **Text original del buit:** **Divuit anys dirigint-lo i
+  el corpus no en té ni
   una línia.** **Buit.**
 - **Qui l'organitzava abans del 2001**, si la federació el va agafar aleshores.
 - **Les altres trenta-sis edicions.**

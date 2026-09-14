@@ -60,10 +60,19 @@ Calgary 1988.** **La primera Grau obre i la segona hi és catorze anys.**
 
 ## El que falta
 
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Vicky_Grau.wiki`](../../../../raw/web/esport/alpins/Vicky_Grau.wiki)).
+
 - **Copes del Món i campionats del món.** **Zero dades.** Una esquiadora de
-  quatre Jocs competia tot l'any i **el corpus no en té ni una cursa**.
-- **Quan va plegar**, i què fa ara.
-- **El club.**
+  quatre Jocs competia tot l'any i **el corpus no en té ni una cursa**. —
+  **`obert`, confirmat, i és el contrast més fort de la subbranca**: **quatre
+  Jocs Olímpics —1992, 1994, 1998 i 2002— i un bolcat de dues línies.**
+- **Quan va plegar**, i què fa ara. — **`obert`, confirmat.**
+- **El club.** — **`obert`, confirmat**: **l'infobox no en té camp.**
+  **L'única esquiadora d'aquesta subbranca de qui el corpus té el club és
+  [Mireia Gutiérrez](./mireia-gutierrez.md).**
+- ~~**On va néixer**~~ — **`resolt`: SANT JULIÀ DE LÒRIA, 8 d'abril del 1975**,
+  com la seva germana [Sandra](./sandra-grau.md).
 
 ## Related
 

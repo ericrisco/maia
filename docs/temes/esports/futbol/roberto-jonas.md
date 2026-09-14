@@ -39,11 +39,59 @@ i **alguns hi debuten passats els trenta**.
 i un mes el 2003, i amb [Sergi Moreno](./sergi-moreno.md), amb 16 anys el
 2004**: **la mateixa selecció, en set anys, va passar de fer debutar homes de
 trenta-dos a fer debutar nens de setze.**
+## La carrera internacional, any per any
+
+**Tancat el 2026-09-13 sense cap font nova.** **El material era al corpus**, al
+bolcat de la mateixa font que ha donat aquesta fitxa:
+[`Roberto_Jonas.wiki`](../../../raw/web/esport/atletes/Roberto_Jonas.wiki).
+
+**El seu cas és diferent del de les altres vint-i-vuit fitxes de futbolistes
+auditades el mateix dia**: **el bolcat no dona cap club**, ni de formació ni
+professional. **El que dona és la selecció any per any**, i això no ho té cap
+altra fitxa del corpus.
+
+| Any | Partits | Gols |
+| --- | ---: | ---: |
+| **1999** | 4 | 0 |
+| **2000** | 5 | 0 |
+| **2001** | 6 | **1** |
+| **2002** | 6 | 0 |
+| **2003** | 5 | 0 |
+| **2004** | 4 | 0 |
+| **2005** | 1 | 0 |
+| **Total** | **30** | **1** |
+
+**Set temporades seguides amb la selecció, del 1999 al 2005**, i **el pic el
+2001-2002, amb sis partits cada any.**
+
+### El gol
+
+| Quan | Contra | Marcador al gol | Resultat final | On | Competició |
+| --- | --- | ---: | ---: | --- | --- |
+| **1 de setembre del 2001** | **Portugal** | 1-3 | **1-7** | Camp d'Esports, Lleida | Classificació per al Mundial del 2002 |
+
+> **Va marcar el seu únic gol internacional en una derrota per 1-7 contra
+> Portugal**, i **jugant a Lleida**. **Que un partit de classificació
+> «d'Andorra» es jugués en un camp espanyol** encaixa amb el que
+> [la lliga](./clubs-i-competicions/la-lliga.md) documenta per al futbol de club:
+> **el país no tenia instal·lacions pròpies per a tot.**
+
 ## El que falta
 
-- **Els anys i els partits de cada club.**
-- **Els seus gols internacionals, si en té.**
-- **Què fa ara.**
+> **Auditat el 2026-09-13.** **El segon buit era fals**: la resposta era al
+> bolcat de la font pròpia d'aquesta fitxa. **És el mateix cas a vint-i-nou
+> fitxes de futbolistes** — vegeu [futbol](./README.md).
+
+- **Els anys i els partits de cada club.** — **`obert`, i confirmat com a
+  excepció.** **El bolcat té els camps de club buits**: no és que no s'hagin
+  llegit, és que **la font no en dona cap.** `Requereix font externa: la
+  Federació Andorrana de Futbol, o una base de dades de jugadors.`
+- ~~**Els seus gols internacionals, si en té.**~~ — **`resolt`**: **un**, i amb
+  data, rival, marcador, seu i competició (taula de dalt).
+- **Què fa ara.** — **`obert`, confirmat el 2026-09-13, i per un motiu que val
+  per a tota la branca: el bolcat és una instantània amb data**, i **una
+  instantània no diu què fa ningú avui**. **Aquest buit no es tanca destil·lant
+  millor: es tanca amb una font nova.** Vegeu [futbol](../futbol/README.md).
 
 ## Related
 

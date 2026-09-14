@@ -36,9 +36,22 @@ delegacions.
 
 ## El que falta
 
-- **Les seves marques i posicions.** La font no en dona cap.
-- **Quan arriba a Andorra i des de quan hi competeix.**
-- **El club, els rècords nacionals, els Jocs dels Petits Estats.**
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Silvia_Felipo.wiki`](../../../raw/web/esport/atletes/Silvia_Felipo.wiki)). **La resposta era dins del
+> corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
+> citava.**
+
+- **Les seves marques i posicions.** La font no en dona cap. — **`obert`,
+  confirmat, i el motiu és de font**: **el bolcat és de dues línies** i només
+  diu que **va córrer els 1.500 m als Jocs de Sydney 2000 i d'Atenes 2004**.
+- ~~**Quan arriba a Andorra i des de quan hi competeix.**~~ — **`parcial`: el
+  quan no, l'origen sí.** **Va néixer a Barcelona el 4 de febrer del 1967**, i
+  **el bolcat la dona com a andorrana** sense dir des de quan. **És, amb
+  [Pol Moya](./pol-moya.md), el segon cas d'atleta olímpic andorrà nascut fora
+  que el corpus documenta.**
+- **El club, els rècords nacionals, els Jocs dels Petits Estats.** — **`obert`,
+  confirmat**: **cap dels tres no és al bolcat.** **Hi ha l'alçada, 162 cm, i
+  prou.**
 
 ## Related
 

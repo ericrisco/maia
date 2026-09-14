@@ -49,11 +49,31 @@ d'Andorra.
 
 ## El que falta
 
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Xavier_Cardelús.wiki`](../../../raw/web/esport/atletes/Xavier_Cardelús.wiki)).
+
 - **Els seus resultats.** El corpus té els equips i els anys i **cap
-  classificació**.
-- **Quin Gran Premi** va ser el seu debut com a wild card, i quan.
+  classificació**. — **`obert`, confirmat, i el motiu és de forma**: **el
+  bolcat té quatre taules de resultats per temporada i totes són de dades
+  tabulades que aquest bolcat no conserva.** **Hi ha els equips i no les
+  classificacions.**
+- ~~**Quin Gran Premi** va ser el seu debut com a wild card, i quan.~~ —
+  **`parcial`: l'any i l'equip sí, el Gran Premi no.** **Va debutar al
+  Mundial el 2018 com a wild card amb el Team Stylobike**, i **aquella mateixa
+  temporada, a la cursa d'Aragó, va passar al Marinelli Snipers Team en
+  substitució de Romano Fenati.** **La ronda del debut segueix `obert`.**
 - **El seu pare, Xavier Cardelús Maestre**: quan va córrer i on. **Buit
-  registrat.**
+  registrat.** — **`obert`, confirmat**: **el bolcat el nomena i el qualifica
+  d'«antic pilot de motociclisme», i prou.**
+- **I la carrera sencera, que el corpus tenia a mitges**: **Campionat d'Europa
+  FIM CEV de Moto2 des del 2015**; **Mundial de Supersport el 2017 amb el Race
+  Department ATK#25**; **Moto2 el 2018 (Stylobike i Marinelli Snipers), el 2019
+  amb el Sama Qatar Ángel Nieto Team —companys d'equip Jake Dixon, motos amb
+  motor Triumph de 765 cc i xassís KTM— i el 2024 amb Fantic Racing, al costat
+  d'Arón Canet**; i **el 2026 corre el Mundial de Supersport amb el Cerba
+  Yamaha Racing Team.**
+  **El bolcat arriba al 2026: sí que segueix competint.**
+  **Nascut a Andorra la Vella el 15 de maig del 1998.**
 - **El motociclisme i l'automobilisme andorrans**: federació, llicències,
   proves.
 

@@ -43,11 +43,63 @@ carrera de club dins del país**, i no al sistema espanyol.
 **I «Lusitanos» torna a ser un nom portuguès** —com el Casa de Portugal de
 **[Josep Gómes](./josep-gomes.md)**.
 
+## La carrera, club per club
+
+**Tancat el 2026-09-13 sense cap font nova.** **El material era al corpus**, al
+bolcat de la mateixa font que ha donat aquesta fitxa:
+`raw/web/esport/atletes/Cristian_Martínez_(Andorran_footballer).wiki`.
+
+| Anys | Club | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2007-2013 | **FC Andorra** | 140 | 77 |
+| 2013-2014 | **Lusitanos** | 18 | 9 |
+| 2014-2016 | **FC Santa Coloma** | 35 | 30 |
+| 2016-2019 | **FC Andorra** | 91 | 34 |
+| 2019-2021 | **Inter d'Escaldes** | 38 | 5 |
+| 2021-2022 | **FC Santa Coloma** | 15 | 0 |
+| 2022 | **UE Engordany** | 3 | 0 |
+| 2023 | **Ordino** | 9 | 0 |
+| 2023-2024 | **Atlètic Amèrica** | 0 | 0 |
+
+**349 partits de club i 155 gols** en les **9 etapes** de què el bolcat en dona compte, sobre **9 en total**.
+
+### Les seleccions, totes
+
+| Anys | Equip | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2005 | **Andorra U17** | 3 | 0 |
+| 2006-2007 | **Andorra U19** | 4 | 0 |
+| 2009-2010 | **Andorra U21** | 6 | 0 |
+| 2009-2021 | **Andorra** | 77 | 5 |
+
+
+### Els gols internacionals, un per un
+
+| Quan | Contra | On | Marcador al gol | Resultat final | Competició |
+| --- | --- | --- | ---: | ---: | --- |
+| **7 de setembre del 2010** | **Irlanda** | Aviva Stadium, Dublín | 1-2 | 1-3 | Classificació per a l'Eurocopa del 2012 |
+| **22 de febrer del 2017** | **San Marino** | Stadio Olimpico di Serravalle | **2-0** | **2-0** | Amistós |
+| **15 de novembre del 2018** | **Geòrgia** | Estadi Nacional, Andorra la Vella | 1-1 | **1-1** | Lliga de Nacions de la UEFA D 2018-19 |
+| **14 de novembre del 2019** | **Albània** | Elbasan Arena | 1-1 | **2-2** | Classificació per a l'Eurocopa del 2020 |
+| **14 de novembre del 2019** | **Albània** | Elbasan Arena | 2-1 | **2-2** | *(el segon gol del mateix partit)* |
+
+**Cinc gols, i quatre valen punts**: **una victòria a San Marino**, **dos empats**
+—Geòrgia i Albània— **i un doblet en un sol partit**. Vegeu
+[la selecció](./la-seleccio.md).
+
 ## El que falta
 
-- **Els seus cinc gols**: contra qui i quan.
-- **Els anys de cada club.**
-- **Si segueix jugant.**
+> **Auditat el 2026-09-13 contra el bolcat de la font pròpia.** **Els dos
+> primers buits eren falsos.**
+
+- ~~**Els seus cinc gols**: contra qui i quan.~~ — **`resolt`, tots cinc amb
+  data, rival, seu i competició** (taula de dalt). **I quatre valen punts**:
+  **la victòria a San Marino del 22 de febrer del 2017** i **els empats amb
+  Geòrgia i Albània**.
+- ~~**Els anys de cada club.**~~ — **`resolt`** (taula de dalt).
+- **Si segueix jugant.** — **`obert`, confirmat el 2026-09-13.** **La data de la
+  instantània del bolcat marca fins on arriba el que se'n sap**, i **no diu res
+  del que ha passat després.** Vegeu [futbol](../futbol/README.md).
 
 ## Related
 

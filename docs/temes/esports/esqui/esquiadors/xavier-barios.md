@@ -52,11 +52,27 @@ dels dos andorrans no va acabar cap cursa.
 
 ## El que falta
 
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Xavier_Barios.wiki`](../../../../raw/web/esport/alpins/Xavier_Barios.wiki)).
+
 - **Qui és.** **Ni data de naixement, ni lloc, ni nom complet.** És l'única
-  fitxa d'aquesta subbranca sense cap dada personal.
-- **Quina discapacitat** i des de quan competeix.
+  fitxa d'aquesta subbranca sense cap dada personal. — **`obert`, confirmat, i
+  el motiu és de font**: **aquest bolcat NO TÉ INFOBOX.** **És l'únic dels
+  trenta-un d'aquesta subbranca que no en porta.** **No és que el corpus no
+  hagi destil·lat les dades personals: és que no n'hi ha cap per destil·lar.**
+- ~~**Quina discapacitat** i des de quan competeix.~~ — **`parcial`: la classe
+  paralímpica sí, la discapacitat i la data no.** **El 2002 va competir en
+  CLASSE LW10** —**eslàlom gegant i eslàlom, sense acabar cap de les dues**— i
+  **el 2006, a Torí, en les proves d'ESQUÍ ASSEGUT**: **no va acabar
+  l'eslàlom** i **va ser 40è a l'eslàlom gegant.** **La LW10 és, precisament,
+  una classe d'esquí assegut**, de manera que **les dues edicions són
+  coherents**: **el corpus escriu la classe i no n'infereix el diagnòstic.**
+- **I el resultat que la fitxa no tenia**: **el 40è lloc de l'eslàlom gegant de
+  Torí 2006 és l'ÚNIC resultat completat que el corpus documenta d'un
+  paralímpic andorrà**: **de les quatre proves que va començar entre les dues
+  edicions, tres les va deixar sense acabar.**
 - **Miguel Llongueras**, el seu company del 2002, de qui el corpus no té ni
-  entrada.
+  entrada. — **`obert`, confirmat**: **no hi ha cap bolcat amb aquest nom.**
 - **La Federació Andorrana d'Esports Adaptats (FADEA).**
 
 ## Related

@@ -44,7 +44,10 @@ triar.**
 ## El que falta
 
 - **Els seus clubs** i els seus anys d'internacional.
-- **Què fa ara.**
+- **Què fa ara.** — **`obert`, confirmat el 2026-09-13, i per un motiu que val
+  per a tota la branca: el bolcat és una instantània amb data**, i **una
+  instantània no diu què fa ningú avui**. **Aquest buit no es tanca destil·lant
+  millor: es tanca amb una font nova.** Vegeu [futbol](../futbol/README.md).
 
 ## Related
 

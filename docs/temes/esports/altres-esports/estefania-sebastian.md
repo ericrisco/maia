@@ -44,6 +44,14 @@ d'atletisme, edició per edició.**
 Tot, tret del fet: **la marca, la posició, el lloc de naixement, el club i la
 resta de la carrera.**
 
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Estefania_Sebastian.wiki`](../../../raw/web/esport/atletes/Estefania_Sebastian.wiki)).
+> **Els cinc buits segueixen `obert` i tots cinc són de font, no de
+> destil·lació**: **el bolcat són dues línies i no en té cap camp més que el
+> nom, la nacionalitat, la prova —60 m— i la data de naixement, 5 de setembre
+> del 1982.** **Ni `birth_place`, ni club, ni marca, ni posició.**
+> **És, amb [Lea Ricart](./lea-ricart.md), el bolcat més buit de la branca.**
+
 ## Related
 
 - [Altres esports](./README.md)

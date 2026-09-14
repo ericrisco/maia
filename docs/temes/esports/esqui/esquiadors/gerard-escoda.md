@@ -60,10 +60,19 @@ delegació d'hivern d'Andorra dels anys noranta són, en gran part, ells tres.**
 
 ## El que falta
 
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> (`Gerard_Escoda_(alpine_skier).wiki`).
+
 - **Per què el van desqualificar dues vegades** —el gegant del 88 i el súper-G
-  del 92.
-- **Copes del Món i campionats del món**: cap dada.
-- **Quan va plegar i què fa ara.**
+  del 92. — **`obert`, confirmat**: **el bolcat és d'una línia i no esmenta cap
+  desqualificació.**
+- **Copes del Món i campionats del món**: cap dada. — **`obert`, confirmat.**
+- **Quan va plegar i què fa ara.** — **`obert`, confirmat.**
+- ~~**On va néixer**~~ — **`resolt`: ESCALDES-ENGORDANY, 8 de setembre del
+  1970.** **I el bolcat confirma els QUATRE Jocs —1988, 1992, 1994 i 1998—**,
+  que el fan, **amb [Vicky Grau](./vicky-grau.md) i
+  [Victor Gómez](./victor-gomez.md), un dels tres esquiadors andorrans de
+  quatre edicions que el corpus documenta.**
 
 ## Related
 

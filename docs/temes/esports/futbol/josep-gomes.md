@@ -43,10 +43,50 @@ convertida en club de futbol** — la mateixa que a
 [la 33a Diada](../../societat/demografia/la-composicio-per-nacionalitats.md)
 apareix com a segona comunitat estrangera del país, amb associacions pròpies.
 
+## La carrera, club per club
+
+**Tancat el 2026-09-13 sense cap font nova.** **El material era al corpus**, al
+bolcat de la mateixa font que ha donat aquesta fitxa:
+[`Josep_Gómes.wiki`](../../../raw/web/esport/atletes/Josep_Gómes.wiki).
+
+| Anys | Club | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2004-2006 | **FC Andorra** | 5 | 0 |
+| 2006-2009 | **Eivissa** | 47 | 0 |
+| 2009-2010 | **Ciudad Vícar** | 17 | 0 |
+| 2010-2011 | **San Rafael** | 33 | 0 |
+| 2011-2012 | **Carabanchel** | 0 | 0 |
+| 2012-2014 | **Fortuna** | 44 | 1 |
+| 2014-2015 | **Pennoise** | 2 | 1 |
+| 2015 | **UE Santa Coloma** | 7 | 0 |
+| 2015-2017 | **Illescas** | 59 | 0 |
+| 2017-2018 | **Villaverde San Andrés** | 6 | 0 |
+| 2018-2019 | **UE Santa Coloma** | 26 | 0 |
+| 2019-2022 | **Inter d'Escaldes** | 66 | 0 |
+| 2022-2025 | **FC Santa Coloma** | 33 | 0 |
+| 2025-2026 | **La Massana** | 12 | 0 |
+| 2026- | **Casa de Portugal** | 5 | 0 |
+
+**362 partits de club i 2 gols** en les **15 etapes** de què el bolcat en dona compte, sobre **15 en total**.
+
+*(Instantània del club del **17 de maig del 2026**.)*
+
+### Les seleccions, totes
+
+| Anys | Equip | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2006 | **Andorra U21** | 2 | 0 |
+| 2006- | **Andorra** | 88 | 0 |
+
+*(Instantània de la selecció del **31 de març del 2026**.)*
+
+
 ## El que falta
 
-- **Els anys de cada club.**
-- **Si continua jugant.**
+- ~~**Els anys de cada club.**~~ — **`resolt`** (taula de dalt, **quinze
+  etapes**).
+- **Si continua jugant.** — **`obert`**: **la instantània del bolcat marca fins
+  on arriba el que se'n sap.**
 - **La Primera Divisió andorrana i els seus clubs comunitaris.**
 
 ## Related

@@ -51,9 +51,20 @@ patró documentat.**
 
 ## El que falta
 
-- **El seu resultat** al Mundial del 2013.
-- **Si té el rècord absolut d'Andorra** dels 100 metres, o només el sub-23.
-- **On va néixer** exactament.
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Mikel_de_Sa.wiki`](../../../raw/web/esport/atletes/Mikel_de_Sa.wiki)).
+
+- **El seu resultat** al Mundial del 2013. — **`obert`, confirmat**: **el
+  bolcat diu que hi va córrer els 100 m i no en dona ni marca ni posició.**
+- ~~**Si té el rècord absolut d'Andorra** dels 100 metres, o només el sub-23.~~
+  — **`resolt`, i és el sub-23.** **El bolcat ho diu amb precisió**: **té el
+  rècord andorrà dels 100 metres a l'aire lliure en categoria sub-23**, amb
+  **11"20, fet a Barcelona el 2012.** **El rècord absolut no és seu, i el
+  corpus segueix sense saber de qui és.**
+- **On va néixer** exactament. — **`obert`, i el motiu és de font**: **el camp
+  `birth_place` diu «Andorra» i cap parròquia.** **És el mateix cas que a
+  [Francesc Gaset](../estiu/francesc-gaset.md) i
+  [Pol Arias](../estiu/pol-arias.md).** **Data: 6 de juliol del 1990.**
 
 ## Related
 

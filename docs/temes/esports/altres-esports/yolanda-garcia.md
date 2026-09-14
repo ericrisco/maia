@@ -46,10 +46,44 @@ pot federar.**
 
 **El corpus no ho afirma.** **No té ni una font sobre el taekwondo andorrà.**
 
+## El medaller, tal com el dona la font
+
+**Tancat el 2026-09-13 sense cap font nova.** **Les medalles eren a l'infobox del
+bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`,
+**i no s'havien destil·lat.**
+
+| Metall | Edició | Prova | Competició |
+| --- | --- | --- | --- |
+| 🥇 **Or** | **Zagreb 1994** | +70 kg | Campionat d'Europa |
+| 🥈 **Argent** | **Manila 1995** | Heavyweight | Campionat del Món |
+
+**2 medalles en total**: **1 d'or**, **1 d'argent**.
+
 ## El que falta
 
-- **On es va formar** i quan va marxar.
-- **La resta del seu palmarès.**
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Yolanda_García.wiki`](../../../raw/web/esport/atletes/Yolanda_García.wiki)).
+
+> **I l'auditoria hi troba una cosa que obliga a matisar la fitxa sencera.**
+> **El bolcat de la font pròpia la descriu com a «taekwondista ESPANYOLA,
+> nascuda a Andorra»**, i **el camp de nacionalitat de l'infobox diu
+> «Spanish».** **La fitxa del corpus la té dins de la branca andorrana.**
+> **El corpus no esborra res i no arbitra**: **deixa escrit que la seva pròpia
+> font la classifica com a espanyola nascuda a Andorra**, i **que no diu sota
+> quina bandera va guanyar les dues medalles.**
+> `Divergència registrada, no arbitrada.`
+> `Requereix font externa: la fitxa de la World Taekwondo o les actes dels
+> campionats del 1994 i del 1995.`
+
+- **On es va formar** i quan va marxar. — **`obert`, confirmat, i ara se sap
+  que és el buit central d'aquesta fitxa**: **si va marxar i quan és
+  precisament el que decidiria la qüestió de la bandera.** **El bolcat només
+  dona el lloc de naixement, «Andorra», sense parròquia, i la data: 18 de gener
+  del 1971.**
+- **El palmarès que el bolcat confirma**: **ARGENT en pes pesant al Campionat
+  del Món de taekwondo del 1995** i **OR al Campionat d'Europa del 1994.**
+- ~~**La resta del seu palmarès.**~~ — **`parcial` des del 2026-09-13**: el
+  medaller de dalt, tret de l'infobox del bolcat que el corpus ja tenia.
 - **El taekwondo andorrà**: federació, clubs, des de quan. **Buit prioritari**,
   i ara ja és el segon cop que surt.
 

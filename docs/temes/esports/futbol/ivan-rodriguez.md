@@ -29,10 +29,39 @@ tags: [esports, futbol, seleccio]
 
 **Tres anys a la Masia, dels deu als tretze.** **Representa Andorra en categories inferiors.** **És, amb [Marc Bernaus](./marc-bernaus.md) i [Jesús Lucendo](./jesus-lucendo.md), el tercer futbolista vinculat a Andorra que passa pel planter del Barça**, i **el més recent.**
 
+## La carrera, club per club
+
+**Tancat el 2026-09-13 sense cap font nova.** **El material era al corpus**, al
+bolcat de la mateixa font que ha donat aquesta fitxa:
+`raw/web/esport/atletes/Iván_Rodríguez_(footballer,_born_2006).wiki`.
+
+| Anys | Club | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2024- | **Andorra** | 29 | 0 |
+| 2025-2026 | **Villarreal B** *(cedit)* | 18 | 0 |
+| 2026- | **Huesca** *(cedit)* | 0 | 0 |
+
+**47 partits de club i 0 gols en total**, en **3 etapes**.
+
+*(Instantània del club del **25 de maig del 2026**.)*
+
+### Les seleccions, totes
+
+| Anys | Equip | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2021 | **Andorra U17** | 3 | 0 |
+| 2023 | **Andorra U19** | 3 | 0 |
+
+
 ## El que falta
 
+
+> **Auditat el 2026-09-13.** **El buit de la carrera era fals**: la resposta era al
+> bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
+> quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
+
 - **Si arriba a l'absoluta.**
-- **La resta de la carrera.**
+- ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related
 

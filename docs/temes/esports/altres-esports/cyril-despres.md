@@ -58,8 +58,25 @@ ral·lis del Mundial i el Dakar del 2020 en camió: **el motor és, a Andorra, u
 
 ## El que falta
 
-- **Des de quan viu a Andorra** i si hi segueix.
-- **Si ha competit mai amb llicència andorrana.**
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Cyril_Despres.wiki`](../../../raw/web/esport/atletes/Cyril_Despres.wiki)).
+
+- **Des de quan viu a Andorra** i si hi segueix. — **`obert`, confirmat, i el
+  motiu és de font**: **el bolcat el descriu com a «pilot francès de ral·lis i
+  resident a Andorra» i no en diu cap data.** **Va néixer a Nemours, França, el
+  24 de gener del 1974.**
+- **Si ha competit mai amb llicència andorrana.** — **`obert`, i el bolcat
+  empeny cap al no**: **el tracta sempre com a francès**, **li dona dos títols
+  mundials (2003 i 2009)** i **no esmenta Andorra en cap resultat.**
+  **El corpus no en dedueix que no ho hagi fet mai**: **deixa escrit que la
+  seva pròpia font no en documenta cap.**
+- **El palmarès sencer, que la fitxa no tenia**: **cinc Dakar en moto amb KTM
+  —2005, 2007, 2010, 2012 i 2013—**, **tres Red Bull Romaniacs (2004, 2005,
+  2007)**, **dos Erzberg Rodeo (2002 i 2003)**, **quatre Rallye du Maroc**,
+  **i, ja com a pilot de cotxe amb Peugeot, el Silk Way Rally del 2016 i del
+  2017.** **El 2015 va passar de la moto al cotxe** dins de l'equip Peugeot,
+  **al costat de Carlos Sainz i Stéphane Peterhansel**, i **va acabar 34è el
+  primer any i 7è el segon.**
 - **Quants esportistes d'elit resideixen a Andorra**, que és una dada que el
   país publica i el corpus no té.
 

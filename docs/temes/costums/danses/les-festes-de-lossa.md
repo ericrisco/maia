@@ -142,12 +142,63 @@ andorrana.** **Buit prioritari.**
 
 ## El que falta
 
-- **Les quatre obres de la bibliografia.**
-- **El text de la farsa**: què s'hi diu.
-- **Els documents i testimonis orals de l'Arxiu Nacional.**
-- **Per què va desaparèixer a totes les parròquies menys dues.**
-- **El carnaval d'Encamp**, que la font associa amb **contrabandistes**.
-- **La fotografia de Guillem d'Areny-Plandolit.**
+> **Auditat contra la resta del corpus el 2026-09-13.** **Dos d'aquests sis
+> buits ja no eren certs**: el corpus en tenia la resposta en un altre document
+> i ningú no havia connectat els dos. S'anoten en lloc d'esborrar-se.
+
+- **Les quatre obres de la bibliografia.** — **`obert`, confirmat.** Cap de les
+  quatre no apareix enlloc més del corpus.
+- ~~**El text de la farsa**: què s'hi diu.~~ — **`resolt` per a Encamp.**
+  **[El ball de l'ossa d'Encamp](./el-ball-de-lossa-dencamp.md) en transcriu
+  la descripció sencera de Joan Amades, *Costumari Català*, 1950, p. 674**:
+  els dallaires dallant el prat, la *fregona* damunt del ruc, la tunda amb el
+  picador de la rentadora, el rusc de cartó, el tret del caçador, i el ball a la
+  plaça fins al vespre. **Hi ha fins i tot la variant** amb el matrimoni ric i
+  la dona gràvida amb desig de mel. **Continua obert per a Ordino**: cap font
+  del corpus no transcriu el text de l'Última ossa.
+- **Els documents i testimonis orals de l'Arxiu Nacional.** — **`obert`,
+  confirmat.** El corpus en coneix l'existència i les set localitats, i no en té
+  cap peça.
+- **Per què va desaparèixer a totes les parròquies menys dues.** — **`parcial`.**
+  **La desaparició ja té causa dins d'aquest mateix article** (l'emigració dels
+  anys vint). **El que faltava era l'altra meitat: per què dues sí.** **Per a
+  Encamp el corpus la té**, a
+  [el ball de l'ossa d'Encamp](./el-ball-de-lossa-dencamp.md): **Rossend Marsol
+  Clua, *Sícoris*, en va refer el guió el 1959**, el va modernitzar amb
+  megafonia, **«va aconseguir implicar-hi el jovent del Principat»** i **alguns
+  rols han passat de generació en generació**. `font directa` d'aquell article.
+  **Per a Ordino no hi ha equivalent**: el corpus en té les represes (1985 i
+  2017) i no en té la causa, ni cap nom propi.
+- ~~**El carnaval d'Encamp**, que la font associa amb **contrabandistes**.~~ —
+  **`resolt`.** **[El ball de l'ossa d'Encamp](./el-ball-de-lossa-dencamp.md)
+  explica el binomi**: *Els contrabandistes* és una representació de finals del
+  XIX o principis del XX que **forma parella amb *L'ossa***, i les dues es fan en
+  dies consecutius; **el marc és [el carnaval
+  d'Encamp](../calendari-festiu/el-carnaval-dencamp.md)**, que ja tenia fitxa.
+  **El corpus tenia les tres peces i aquest article no en citava cap.**
+- **La fotografia de Guillem d'Areny-Plandolit.** — **`obert`, confirmat.** La
+  seva [fitxa](../../historia/segle-xix/guillem-dareny-plandolit.md) **no diu
+  enlloc que fos fotògraf**: aquesta és l'única menció de la seva obra
+  fotogràfica a tot el corpus. `Requereix font externa: el fons fotogràfic
+  d'Areny-Plandolit a l'Arxiu Nacional.`
+
+### La font que tanca mitja branca i ningú no ha consultat
+
+**`Requereix font externa`, i és la mateixa per a cinc buits de tres articles:**
+***Els balls d'Andorra*, el recull de l'Esbart Laurèdia**, registrat com a
+identificat i no consultat a [la Passa](../ritus-de-pas/la-passa.md).
+
+| Article | Buit que hi espera |
+| --- | --- |
+| [La Passa](../ritus-de-pas/la-passa.md) | Des de quan es fa, i com es formen les parelles |
+| [El ball del Cerdà](./el-ball-del-cerda.md) | Coreografia, música, vestuari, rastre documental |
+| [La marratxa](./la-marratxa.md) | El rastre documental i el vestuari |
+| [Danses](./danses.md) | Els esbarts, i les danses de les altres parròquies |
+| [Els catorze balls](./els-catorze-balls.md) | Dotze dels catorze balls d'Amades |
+
+**És una prioritat d'adquisició que cap article no podia veure tot sol**, perquè
+cadascun només veia el seu buit. Mateix patró que les actes del Consell General
+de 1928-1930 a la branca bancària.
 
 ## Related
 

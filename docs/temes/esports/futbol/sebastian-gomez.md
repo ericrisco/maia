@@ -44,11 +44,43 @@ selecció](./la-seleccio.md)).
 tercer cas de pare i fill futbolistes que el corpus troba**, amb
 **[Iker i Koldo Álvarez](./iker-alvarez.md)** i **[Xavier
 Cardelús](../altres-esports/xavier-cardelus.md)** al motociclisme.
+## La carrera, club per club
+
+**Tancat el 2026-09-13 sense cap font nova.** **El material era al corpus**, al
+bolcat de la mateixa font que ha donat aquesta fitxa:
+`raw/raw/web/esport/atletes/Sebastián_Gómez_(Andorran_footballer).wiki`.
+
+| Anys | Club | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2003-2007 | **FC Santa Coloma** | — | — |
+| 2007-2008 | **Principat** | — | — |
+| 2008-2009 | **Rànger's** | — | — |
+| 2009-2012 | **Sant Julià** | — | — |
+| 2012-2017 | **FC Andorra** | 158 | 16 |
+| 2017-2023 | **UE Engordany** | 132 | 24 |
+| 2023- | **Atlètic Amèrica** | 17 | 1 |
+
+*(Instantània del club del **29 de març del 2024**.)*
+
+### Les seleccions, totes
+
+| Anys | Equip | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2008- | **Andorra** | 32 | 0 |
+
 ## El que falta
 
-- **Els anys i els partits de cada club.**
-- **Els seus gols internacionals, si en té.**
-- **Què fa ara.**
+> **Auditat el 2026-09-13.** **Els dos primers buits d'aquesta llista eren
+> falsos**: la resposta era al bolcat de la font pròpia d'aquesta fitxa, dins del
+> corpus. **És el mateix cas a vint-i-nou fitxes de futbolistes** — vegeu
+> [futbol](./README.md).
+
+- ~~**Els anys i els partits de cada club.**~~ — **`resolt`** (taula de dalt).
+- ~~**Els seus gols internacionals, si en té.**~~ — **`resolt`**: **el bolcat no en dona cap taula**, i la fitxa de la selecció absoluta en dona el compte a la taula de dalt. **Si el nombre de gols hi és 0, no en va fer cap.**
+- **Què fa ara.** — **`obert`, confirmat el 2026-09-13, i per un motiu que val
+  per a tota la branca: el bolcat és una instantània amb data**, i **una
+  instantània no diu què fa ningú avui**. **Aquest buit no es tanca destil·lant
+  millor: es tanca amb una font nova.** Vegeu [futbol](../futbol/README.md).
 
 ## Related
 

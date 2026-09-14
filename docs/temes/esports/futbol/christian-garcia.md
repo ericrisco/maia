@@ -39,11 +39,47 @@ tags: [esports, futbol, seleccio]
 tercer cas d'expulsió que troba en aquesta branca** — amb
 **[Víctor Rodríguez](./victor-rodriguez.md)** (2015, el xiclet) i
 **[Óscar Sonejee](./oscar-sonejee.md)** (2007, amonestat amb Rooney).
+## La carrera, club per club
+
+**Tancat el 2026-09-13 sense cap font nova.** **El material era al corpus**, al
+bolcat de la mateixa font que ha donat aquesta fitxa:
+`raw/raw/web/esport/atletes/Christian_García_(Andorran_footballer).wiki`.
+
+| Anys | Club | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2018 | **Andorra** | 0 | 0 |
+| 2018-2019 | **Ordino** | 18 | 1 |
+| 2019-2020 | **UE Santa Coloma** | 16 | 3 |
+| 2020-2021 | **Alcorcón B** | 8 | 1 |
+| 2021 | **Tarazona** | 2 | 1 |
+| 2021-2022 | **Marchamalo** | 12 | 0 |
+| 2022-2026 | **UE Santa Coloma** | 69 | 8 |
+| 2026- | **Atlètic d'Escaldes** | 0 | 0 |
+
+**125 partits de club i 14 gols en total**, en **8 etapes**.
+
+### Les seleccions, totes
+
+| Anys | Equip | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2014-2015 | **Andorra U17** | 6 | 0 |
+| 2015-2017 | **Andorra U19** | 8 | 0 |
+| 2016-2020 | **Andorra U21** | 16 | 2 |
+| 2020- | **Andorra** | 30 | 0 |
+
 ## El que falta
 
-- **Els anys i els partits de cada club.**
-- **Els seus gols internacionals, si en té.**
-- **Què fa ara.**
+> **Auditat el 2026-09-13.** **Els dos primers buits d'aquesta llista eren
+> falsos**: la resposta era al bolcat de la font pròpia d'aquesta fitxa, dins del
+> corpus. **És el mateix cas a vint-i-nou fitxes de futbolistes** — vegeu
+> [futbol](./README.md).
+
+- ~~**Els anys i els partits de cada club.**~~ — **`resolt`** (taula de dalt).
+- ~~**Els seus gols internacionals, si en té.**~~ — **`resolt`**: **el bolcat no en dona cap taula**, i la fitxa de la selecció absoluta en dona el compte a la taula de dalt. **Si el nombre de gols hi és 0, no en va fer cap.**
+- **Què fa ara.** — **`obert`, confirmat el 2026-09-13, i per un motiu que val
+  per a tota la branca: el bolcat és una instantània amb data**, i **una
+  instantània no diu què fa ningú avui**. **Aquest buit no es tanca destil·lant
+  millor: es tanca amb una font nova.** Vegeu [futbol](../futbol/README.md).
 
 ## Related
 

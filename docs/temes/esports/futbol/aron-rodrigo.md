@@ -30,10 +30,43 @@ tags: [esports, futbol, seleccio]
 
 **El CD Mirandés juga a Segona divisió espanyola**, de manera que **Rodrigo és un dels futbolistes andorrans en actiu de nivell competitiu més alt** que el corpus documenta.
 
+## La carrera, club per club
+
+**Tancat el 2026-09-13 sense cap font nova.** **El material era al corpus**, al
+bolcat de la mateixa font que ha donat aquesta fitxa:
+[`Aron_Rodrigo.wiki`](../../../raw/web/esport/atletes/Aron_Rodrigo.wiki).
+
+| Anys | Club | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2022 | **{{Abbr** | 9 | 0 |
+| 2023-2024 | **Binéfar** | 31 | 4 |
+| 2024-2026 | **Huesca B** | 49 | 7 |
+| 2026- | **FC Andorra** | 0 | 0 |
+| 2026- | **Mirandés** *(cedit)* | 0 | 0 |
+
+**89 partits de club i 11 gols en total**, en **5 etapes**.
+
+*(Instantània del club del **8 de març del 2026**.)*
+
+### Les seleccions, totes
+
+| Anys | Equip | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2023-2025 | **Andorra U21** | 12 | 1 |
+| 2025- | **Andorra** | 11 | 0 |
+
+*(Instantània de la selecció del **7 de juny del 2026**.)*
+
+
 ## El que falta
 
+
+> **Auditat el 2026-09-13.** **El buit de la carrera era fals**: la resposta era al
+> bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
+> quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
+
 - **Els seus dotze partits** i si segueix cedit.
-- **La resta de la carrera.**
+- ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related
 

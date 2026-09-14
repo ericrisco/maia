@@ -165,17 +165,112 @@ partits o més amb Andorra.**
   Moldàvia dins de la llista**. **O la primera compta dins de les set, o hi ha
   hagut dues victòries contra Moldàvia.** **Registrat sense resoldre.**
 
-  **Segueixen faltant les dates de gairebé totes, i els marcadors.** **Buit
-  prioritari.**
-- **La Primera Divisió andorrana.** **El corpus no en té ni una línia**: ni
-  quants equips, ni des de quan, ni qui la guanya. I els noms dels clubs que
-  van sortint a les fitxes —**Casa de Portugal**, **Lusitanos**, **Inter Club
-  d'Escaldes**, **Sporting d'Escaldes**, **FC Santa Coloma**, **AC Escaldes**,
-  **FC Encamp**— **són un mapa de país i de comunitats que val la pena fer.**
-- **El FC Andorra**, que juga a la lliga espanyola i **apareix a gairebé totes
-  les fitxes**.
-- **La Federació Andorrana de Futbol.**
-- **La selecció femenina**, que existeix i **el corpus no en té ni un nom**.
+  **Segona actualització, 2026-09-13, i aquesta no ve de cap font nova**: **ve
+  de les fitxes dels jugadors mateixos.** Els bolcats de
+  `raw/web/esport/atletes/` porten les **taules de gols internacionals** de cinc
+  andorrans, amb **data, rival, marcador, seu i competició**. **Creuades, donen
+  sis victòries datades**, tres de les quals el corpus no tenia:
+
+  | Quan | Contra | Marcador | Competició | Qui hi va marcar |
+  | --- | --- | ---: | --- | --- |
+  | **26 d'abril del 2000** | **Bielorússia** | **2-0** | Amistós, a Aixovall | [Jesús Lucendo](./jesus-lucendo.md) |
+  | **9 de juny del 2017** | **Hongria** | **1-0** | Classificació per al Mundial del 2018, a l'Estadi Nacional | **[Marc Rebés](./marc-rebes.md)** |
+  | **21 de març del 2018** | **Liechtenstein** | **1-0** | Amistós, a la Línia de la Concepció | [Marc Rebés](./marc-rebes.md) |
+  | **25 de març del 2022** | **Saint Kitts i Nevis** | **1-0** | Amistós, a l'Estadi Nacional | [Jordi Aláez](./jordi-alaez.md) |
+  | **10 de juny del 2022** | **Liechtenstein** | **2-1** | Lliga de Nacions de la UEFA D | [Jesús Rubio](./jesus-rubio.md) i [Jordi Aláez](./jordi-alaez.md) |
+  | **4 de juny del 2026** | **Liechtenstein** | **2-0** | Amistós, a l'Estadi de la FAF d'Encamp | [Jordi Aláez](./jordi-alaez.md) |
+
+  **Tres coses noves:**
+
+  1. **La victòria contra Hongria ja té data**: **9 de juny del 2017**, i **gol
+     de Marc Rebés**. La taula de dalt la tenia com a *(data desconeguda)*.
+  2. **Hi ha una victòria que el corpus no tenia de cap manera**: **Saint Kitts
+     i Nevis**, **25 de març del 2022**. **No és cap dels set rivals que donava
+     l'altra font**, i **és el primer rival no europeu que el corpus li
+     coneix.**
+  3. **I una altra del 2026**: **Liechtenstein 2-0 a Encamp**, en **un estadi
+     que aquest article no anomena enlloc**, l'**Estadi de la FAF**.
+
+  ### Tercera actualització, el mateix dia: tres victòries més
+
+  **Tres fitxes més tenien taula de gols internacionals i no s'havien
+  destil·lat.** **Creuades, donen tres victòries que el corpus no tenia
+  datades, i totes tres contra el mateix rival:**
+
+  | Quan | Contra | Marcador | Competició | Qui hi va marcar |
+  | --- | --- | ---: | --- | --- |
+  | **22 de febrer del 2017** | **San Marino** | **2-0** | Amistós, a l'Stadio Olimpico di Serravalle | [Cristian Martínez](./cristian-martinez.md) |
+  | **12 d'octubre del 2021** | **San Marino** | **3-0** | Classificació per al Mundial del 2022, a Serravalle | [Marc Pujol](./marc-pujol.md) |
+  | **13 d'octubre del 2024** | **San Marino** | **2-0** | Amistós, a l'Estadi Nacional | [Marc Pujol](./marc-pujol.md) |
+
+  **San Marino és el rival contra qui Andorra ha guanyat més vegades de les que
+  el corpus pot datar**, **tres**, i **el 3-0 del 2021 és la victòria amb més
+  marge que el corpus li coneix.**
+
+  **I dos empats més, que tampoc no hi eren:**
+
+  | Quan | Contra | Marcador | Competició | Qui hi va marcar |
+  | --- | --- | ---: | --- | --- |
+  | **15 de novembre del 2018** | **Geòrgia** | **1-1** | Lliga de Nacions de la UEFA D, a l'Estadi Nacional | [Cristian Martínez](./cristian-martinez.md) |
+  | **14 de novembre del 2019** | **Albània** | **2-2** | Classificació per a l'Eurocopa del 2020, a l'Elbasan Arena | [Cristian Martínez](./cristian-martinez.md), **dos gols** |
+
+  **El 2-2 a Albània és un doblet d'un sol jugador en un sol partit**, i **és la
+  primera vegada que el corpus documenta un andorrà marcant dos cops en un
+  partit internacional.**
+
+  **Comptat tot**, **el corpus té ara nou victòries datades de les catorze**:
+  Bielorússia 2000, Hongria 2017, San Marino 2017, Liechtenstein 2018, Saint
+  Kitts i Nevis 2022, Liechtenstein 2022, San Marino 2021, San Marino 2024 i
+  Liechtenstein 2026.
+
+  ### I una contradicció que ara es pot escriure amb precisió
+
+  `Divergència registrada, no arbitrada:`
+
+  | Font del corpus | Què diu |
+  | --- | --- |
+  | **[Football in Andorra](../../../fonts/wikipedia-futbol-femeni-andorra.md)** | **La primera victòria competitiva va ser contra Moldàvia, l'11 d'octubre del 2019** |
+  | **El bolcat de [Marc Rebés](./marc-rebes.md)**, citant *The Telegraph* del 10 de juny del 2017 | El gol contra Hongria **«va donar a Andorra la seva primera victòria competitiva en 66 partits al llarg de gairebé 13 anys, i la segona victòria competitiva en total»** |
+
+  **Les dues no poden ser certes alhora.** Si el 2017 ja era **la segona
+  competitiva**, la del 2019 contra Moldàvia **no pot ser la primera**. **I la
+  frase del 2017 implica, a més, una victòria competitiva cap al 2004 que el
+  corpus no té enlloc.** `Requereix font externa: el palmarès oficial de la
+  selecció, o la base de dades de la UEFA.`
+
+  **Segueixen faltant les dates de la resta, i els marcadors.** **Buit
+  prioritari, però molt més petit que abans: de catorze, sis ja tenen data.**
+> **Auditat el 2026-09-13.** **Quatre dels sis buits d'aquesta llista havien
+> deixat de ser certs el mateix dia que es van escriure**: **el corpus els va
+> omplir hores després i ningú no va tornar aquí a ratllar-los.** **És el cas
+> més extrem d'aquesta auditoria**, i **val com a avís de mètode**: **un buit
+> escrit al matí pot ser fals a la tarda si la branca s'està construint.**
+
+- ~~**La Primera Divisió andorrana.** **El corpus no en té ni una línia**: ni
+  quants equips, ni des de quan, ni qui la guanya. I els noms dels clubs (…)
+  **són un mapa de país i de comunitats que val la pena fer.**~~ —
+  **`incorrecte`.** **[La lliga](./clubs-i-competicions/la-lliga.md)** en té els
+  **deu clubs** i el fet que la defineix: **cap estadi propi tret d'un, i un dels
+  sis camps és fora del país.** **I [els clubs](./clubs-i-competicions/els-clubs.md)
+  fa exactament el mapa que aquest buit demanava**: **un club nascut en una penya
+  madridista d'un restaurant, un fundat per immigrants portuguesos, un expulsat
+  set anys de la lliga i dos que es diuen igual a la mateixa parròquia.**
+- ~~**El FC Andorra**, que juga a la lliga espanyola i **apareix a gairebé totes
+  les fitxes**.~~ — **`incorrecte`.** **[El FC
+  Andorra](./clubs-i-competicions/fc-andorra.md)**: **fundat el 1942 en un
+  col·legi**, **el club més gran del país**, **juga a la lliga espanyola** i **és
+  de Gerard Piqué.**
+- ~~**La Federació Andorrana de Futbol.**~~ — **`incorrecte`.**
+  **[La Federació](./clubs-i-competicions/la-federacio.md)**: **fundada el
+  1994, un any després de la Constitució**, organitza lliga, copa i selecció, i
+  **és propietària dels camps** — cosa que explica el buit anterior.
+- ~~**La selecció femenina**, que existeix i **el corpus no en té ni un nom**.~~
+  — **`incorrecte`, i de llarg.** **El corpus en té la fitxa i quaranta noms**:
+  **[la selecció femenina](./femeni/la-seleccio-femenina.md)** i **quaranta
+  fitxes de jugadora** a [femení](./femeni/README.md). **I la dada que en surt
+  hauria de pujar al cos d'aquest article**: **dotze victòries en quaranta-set
+  partits** — **la selecció femenina andorrana guanya quatre vegades més sovint
+  que la masculina**, **en un país sense lliga femenina.**
 - **Les seleccions de base** —sub-21, sub-19, sub-17— i **el futbol sala,
   l'handbol, el rugbi i les altres vint seleccions nacionals**
   ([els altres Jocs](../competicio/els-altres-jocs.md)).

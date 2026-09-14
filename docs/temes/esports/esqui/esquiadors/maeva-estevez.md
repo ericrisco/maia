@@ -51,10 +51,25 @@ andorrans són caigudes**, i que això forma part de la disciplina.
 
 ## El que falta
 
-- **Els seus resultats dels Jocs de la Joventut del 2012.**
-- **Tota la carrera entre el 2012 i el 2022**: Copes del Món, mundials, res.
-- **Per què es va retirar el 2024**, amb 29 anys.
-- **El lloc de naixement**, que la font no dona.
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Maeva_Estévez.wiki`](../../../../raw/web/esport/atletes/Maeva_Estévez.wiki)).
+
+- ~~**Els seus resultats dels Jocs de la Joventut del 2012.**~~ — **`parcial`:
+  les proves sí, els resultats no.** **Hi va competir en HALFPIPE i SLOPESTYLE
+  femenins**, **que no són cap de les dues l'especialitat per la qual el corpus
+  la coneix** —**el boardercross**. **Un canvi d'especialitat entre els setze i
+  els vint-i-set anys que la fitxa no tenia.**
+- **Tota la carrera entre el 2012 i el 2022**: Copes del Món, mundials, res. —
+  **`obert`, confirmat**: **el bolcat no hi posa res entre els Jocs de la
+  Joventut del 2012 i els de Pequín del 2022.** **Deu anys en blanc.**
+- ~~**Els Jocs de Pequín del 2022**~~ — **`resolt`**: **boardercross femení**,
+  **31a de la general després de CAURE a la seva sèrie**, i **va ser
+  l'ABANDERADA d'Andorra a la cerimònia d'obertura.**
+- **Per què es va retirar el 2024**, amb 29 anys. — **`obert`, confirmat**: **el
+  bolcat dona la data de retirada, el 2024, i no el motiu.**
+- **El lloc de naixement**, que la font no dona. — **`obert`, confirmat llegint
+  l'infobox**: **no hi ha camp `birth_place`.** **Nom complet: Maeva Estévez
+  Baux, 2 de març del 1995.**
 
 ## Related
 

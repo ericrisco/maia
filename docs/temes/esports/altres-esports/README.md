@@ -112,25 +112,81 @@ una pràctica legal i comuna, i és com funciona.**
 
 ## El que falta, i és una branca sencera
 
-- **Els escacs andorrans.** **Tres** Grans Mestres i **cap fitxa de federació,
-  campionat o club**. **És un dels àmbits on un país de setanta-set mil
-  habitants pot competir de tu a tu, perquè no cal infraestructura.**
-- **El tennis andorrà**: federació, clubs, la selecció de Billie Jean King Cup.
-- **El bàsquet**: el **BC Andorra** juga a la lliga espanyola i **hi ha vuit
+> **Auditada la subbranca sencera el 2026-09-14, fitxa per fitxa.** **I la
+> troballa d'aquesta passada no és cap dada: és una CARPETA.**
+>
+> **`docs/raw/web/esport/estructura/` conté TRENTA-NOU bolcats d'institucions
+> esportives andorranes** —federacions, clubs, competicions, seleccions— **i
+> cap article del corpus no l'havia obert mai.** **Set dels nou buits d'aquesta
+> llista deien «el corpus no en té res» sobre coses que eren dins del corpus,
+> en aquella carpeta, des del principi.**
+>
+> **Això és un defecte de classe nova, i el corpus el bateja: el buit
+> institucional declarat contra material institucional que ja s'havia
+> descarregat.** **Les fitxes de persona s'havien auditat contra
+> `raw/web/esport/atletes/`; ningú no havia mirat `estructura/`.**
+
+- ~~**Els escacs andorrans.** **Tres** Grans Mestres i **cap fitxa de federació,
+  campionat o club**.~~ — **`resolt` en bona part**: **la FEVA (GEVA 1948,
+  federació 1967, FIDE 1979), el quadre d'honor complet del campionat nacional
+  2000-2024 i l'Obert Internacional d'Andorra —quaranta-tres edicions des del
+  1983— són al corpus.** Detall a [Josep Oms](./josep-oms.md).
+  **I hi apareixen cinc jugadors sense fitxa**, entre ells **Òscar de la Riva**,
+  **el millor escaquista de la història d'Andorra**, i **Daniel José Queraltó**,
+  **que va escriure el primer article de la Viquipèdia en català.**
+- ~~**El tennis andorrà**: federació, clubs, la selecció de Billie Jean King
+  Cup.~~ — **`parcial`**: **l'equip masculí de Copa Davis hi és sencer**
+  —**des del 2000, 63 eliminatòries, 26-37, Grup IV d'Europa, rànquing ITF
+  106**— amb **Jean-Baptiste Poux-Gautier** com a recordman absolut. Vegeu
+  [Èric Cervós](./eric-cervos.md). **La federació com a institució, els clubs i
+  la Billie Jean King Cup segueixen `obert`.**
+- ~~**El bàsquet**: el **BC Andorra** juga a la lliga espanyola i **hi ha vuit
   seleccions nacionals de bàsquet**, 3x3 incloses
-  ([els altres Jocs](../competicio/els-altres-jocs.md)). **Cap fitxa.**
-- **El motor**: federació, el ral·li d'Andorra, quants pilots.
-- **Els esports de gel.** Andorra té **pista de gel a Canillo** i **dues
+  ([els altres Jocs](../competicio/els-altres-jocs.md)). **Cap fitxa.**~~ —
+  **`parcial`**: **el club hi és sencer** —fundat el **12 de juny del 1970** com
+  a Club de Basket Les Escaldes, **ACB 1992-96 i 2014-**, **Poliesportiu
+  d'Andorra, 5.000 places**, palmarès i sis presidents— a
+  [el BC Andorra](./bc-andorra.md).
+  **I hi ha la regla que explica les seleccions**: **la FIBA Europa deixa jugar
+  els residents de quatre anys als països petits**
+  ([David Navarro](./david-navarro.md)).
+- **El motor**: federació, el ral·li d'Andorra, quants pilots. — **`parcial`**:
+  **hi ha [Xavier Cardelús](./xavier-cardelus.md)** —**Mundial de Supersport el
+  2026**— **i [Cyril Despres](./cyril-despres.md)**, **i a
+  `raw/web/esport/estructura/` hi ha el bolcat del Campionat d'Andorra de
+  trial, que encara no s'ha destil·lat.** **Buit barat.**
+- ~~**Els esports de gel.** Andorra té **pista de gel a Canillo** i **dues
   seleccions d'hoquei**, i el corpus només té
-  **[Melissandre Fuentes](./melissandre-fuentes.md)**.
-- **La gimnàstica.** Dues gimnastes internacionals i cap federació fitxada.
+  **[Melissandre Fuentes](./melissandre-fuentes.md)**.~~ — **`parcial`**: **el
+  corpus té ara els dos primers patinadors andorrans d'un campionat de la ISU
+  —Fuentes i [Marc Casal](./marc-casal.md), tots dos el 2002, tots dos de
+  Canillo— i el [Palau de Gel](./el-palau-de-gel.md) amb les xifres del comú.**
+  **I a `estructura/` hi ha sense obrir el bolcat de la selecció masculina
+  d'hoquei gel i el de la d'hoquei sobre patins.**
+- ~~**La gimnàstica.** Dues gimnastes internacionals i cap federació fitxada.~~
+  — **`parcial`**: **[Berta Miquel](./berta-miquel.md) és la primera gimnasta
+  andorrana classificada per a una final de la FIG (2024) i va guanyar tres
+  argents als Jocs dels Petits Estats de casa el 2025.** **La federació segueix
+  `obert`.**
 - **El taekwondo.** Hi surt **dues vegades** —[Yolanda
   García](./yolanda-garcia.md) el 1994-95 i [Naiara
   Liñán](../../persones/naiara-linan.md) el 2026— **i el corpus no sap si hi ha
-  relació entre les dues.**
+  relació entre les dues.** — **`obert`, i ara amb un matís que canvia la
+  pregunta**: **el bolcat de Yolanda García la descriu com a taekwondista
+  ESPANYOLA nascuda a Andorra**, i **no diu sota quina bandera va guanyar les
+  medalles.** `Divergència registrada, no arbitrada.`
 - **El pitch and putt**, que és selecció nacional i el corpus no sap ni què hi
   fa Andorra. I **[Kevin Esteve Rigail](../esqui/esquiadors/kevin-esteve-rigail.md)**,
-  esquiador olímpic reconvertit en **golfista professional**.
+  esquiador olímpic reconvertit en **golfista professional**. — **`obert`,
+  confirmat**: **no hi ha cap bolcat de golf ni de pitch and putt a
+  `raw/web/esport/`.**
+- **I un buit nou que surt d'aquesta passada, i és el més rendible de tots**:
+  **els trenta-nou bolcats de `raw/web/esport/estructura/` estan sense
+  destil·lar.** **Entre ells hi ha la Federació Andorrana de Futbol, la de
+  Rugbi, el Comitè Olímpic Andorrà, la Primera i la Segona Divisió, la Copa
+  Constitució, la Supercopa, les seleccions d'handbol, futsal, hoquei gel,
+  hoquei patins i bàsquet masculí i femení, i la selecció femenina de futbol.**
+  **Cap no necessita cap font externa.** **Buit prioritari de tota la branca.**
 
 ## Related
 

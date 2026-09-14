@@ -30,10 +30,42 @@ tags: [esports, futbol, seleccio]
 
 **«Nascut a Barcelona de pare andorrà i mare de Banyoles, a la província de Girona, Borra va créixer a Banyoles.»** **Va debutar amb Andorra el 2024.** **És un cas més de nacionalitat per filiació**, com [Albert Alavedra](./albert-alavedra.md) i [Pau Babot](./pau-babot.md).
 
+## La carrera, club per club
+
+**Tancat el 2026-09-13 sense cap font nova.** **El material era al corpus**, al
+bolcat de la mateixa font que ha donat aquesta fitxa:
+[`Biel_Borra.wiki`](../../../raw/web/esport/atletes/Biel_Borra.wiki).
+
+| Anys | Club | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2024-2025 | **L'Escala** | 28 | 1 |
+| 2025-2026 | **Vilassar de Mar** | 29 | 0 |
+| 2026- | **Olot** | 0 | 0 |
+
+**57 partits de club i 1 gol en total**, en **3 etapes**.
+
+*(Instantània del club del **10 de maig del 2026**.)*
+
+### Les seleccions, totes
+
+| Anys | Equip | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2022-2023 | **Andorra U19** | 5 | 1 |
+| 2022- | **Andorra U21** | 11 | 0 |
+| 2024- | **Andorra** | 14 | 0 |
+
+*(Instantània de la selecció del **4 de juny del 2026**.)*
+
+
 ## El que falta
 
+
+> **Auditat el 2026-09-13.** **El buit de la carrera era fals**: la resposta era al
+> bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
+> quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
+
 - **Els seus cinc partits.**
-- **La resta de la carrera.**
+- ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related
 

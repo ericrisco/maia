@@ -51,9 +51,54 @@ que el va superar [Ildefons Lima](./ildefons-lima.md) el 2022.**
 
 **Segueix jugant** a l'**Inter Club d'Escaldes**, segons la font.
 
+## La carrera, club per club
+
+**Tancat el 2026-09-13 sense cap font nova.** **El material era al corpus**, al
+bolcat de la mateixa font que ha donat aquesta fitxa:
+[`Juli_Sánchez.wiki`](../../../raw/web/esport/atletes/Juli_Sánchez.wiki).
+
+| Anys | Club | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 1995-1998 | **FC Andorra** | 29 | 0 |
+| 1998-1999 | **Camacha** | 5 | 0 |
+| 1999-2002 | **FC Andorra** | — | — |
+| 2002-2005 | **Balaguer** | — | — |
+| 2005-2006 | **Binéfar** | — | — |
+| 2006-2008 | **FC Andorra** | 31 | 12 |
+| 2008-2012 | **FC Santa Coloma** | — | — |
+| 2012-2013 | **Lusitanos** | 7 | 1 |
+| 2013-2016 | **FC Andorra** | 63 | 9 |
+| 2016-2017 | **UE Santa Coloma** | 11 | 3 |
+| 2017-2019 | **FC Santa Coloma** | 29 | 8 |
+| 2019- | **IC d'Escaldes** | 5 | 0 |
+
+**180 partits de club i 33 gols** en les **8 etapes** de què el bolcat en dona compte, sobre **12 en total**.
+
+*(Instantània del club del **15:10, 24 February 2020 (UTC)**.)*
+
+### Les seleccions, totes
+
+| Anys | Equip | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 1996-2019 | **Andorra** | 73 | 1 |
+
+
+### El gol internacional, datat
+
+| Quan | Contra | On | Marcador al gol | Resultat final | Competició |
+| --- | --- | --- | ---: | ---: | --- |
+| **26 d'abril del 2000** | **Bielorússia** | **Camp d'Esports d'Aixovall** | **2-0** | **2-0** | Amistós |
+
+**El marcador era 2-0 i el camp, el d'Aixovall.** Vegeu
+[la selecció](./la-seleccio.md).
+
 ## El que falta
 
-- **El marcador exacte** de la victòria contra Bielorússia i on es va jugar.
+> **Auditat el 2026-09-13 contra el bolcat de la font pròpia.**
+
+- ~~**El marcador exacte** de la victòria contra Bielorússia i on es va jugar.~~
+  — **`resolt`**: **2-0**, al **Camp d'Esports d'Aixovall**, **26 d'abril del
+  2000**, amistós (taula de dalt).
 - **Els seus clubs**: FC Andorra, CF Balaguer i CD Binéfar, segons la font, i
   **cap dada de temporades.**
 - **Quants anys tenia quan hi va debutar**: si va néixer el juny del 1978 i va

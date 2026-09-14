@@ -54,14 +54,44 @@ títol júnior**.
 resultats.** **Observació pròpia del corpus**, i **de les que val la pena que un
 model sàpiga**, perquè contradiu el que sembla obvi.
 
+## El medaller, tal com el dona la font
+
+**Tancat el 2026-09-13 sense cap font nova.** **Les medalles eren a l'infobox del
+bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`,
+**i no s'havien destil·lat.**
+
+| Metall | Edició | Prova | Competició |
+| --- | --- | --- | --- |
+| 🥇 **Or** | **Planica 2024** | Sprint lliure | Campionat del Món júnior |
+| 🥈 **Argent** | **Planica 2024** | 10 km individual classical | Campionat del Món júnior |
+| 🥈 **Argent** | **Schilpario 2025** | Sprint classical | Campionat del Món sub-23 |
+| 🥉 **Bronze** | **Planica 2024** | 20 km mass start lliure | Campionat del Món júnior |
+
+**4 medalles en total**: **1 d'or**, **2 d'argent**, **1 de bronze**.
+
 ## El que falta
 
-- **Els seus resultats de Copa del Món.** La font remet a la FIS i **el corpus
-  no els ha baixat**. **Buit prioritari**: és una esportista en actiu amb títol
-  mundial.
-- **On és exactament el club NEC** i què vol dir la sigla.
-- **Els seus resultats complets de Milano Cortina 2026.**
-- **La resta del mundial júnior del 2024**: on era, contra qui.
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Gina_del_Rio.wiki`](../../../../raw/web/esport/atletes/Gina_del_Rio.wiki)).
+
+- ~~**Els seus resultats de Copa del Món.**~~ — **`parcial`: no hi ha els
+  resultats i hi ha el volum, que el corpus no tenia.** **Tres temporades de
+  Copa del Món, del 2025 fins ara**, amb **25 SORTIDES INDIVIDUALS i 1 PER
+  EQUIPS**. **L'infobox està actualitzat al 22 de març del 2026.**
+  **Les classificacions per temporada hi són en taules que aquest bolcat no
+  conserva.** `Requereix font externa: la FIS.`
+- **On és exactament el club NEC** i què vol dir la sigla. — **`obert`,
+  confirmat**: **el bolcat dona la sigla i res més.**
+- **Els seus resultats complets de Milano Cortina 2026.** — **`obert`,
+  confirmat**: **el bolcat diu que hi va representar Andorra i no en dona cap
+  prova ni cap posició.**
+- ~~**La resta del mundial júnior del 2024**: on era, contra qui.~~ —
+  **`parcial`, i hi ha un segon títol que el corpus no tenia.** **El 2024 va
+  ser CAMPIONA DEL MÓN JÚNIOR d'esprint en estil lliure**, i **el 2025 va ser
+  SEGONA en esprint clàssic en categoria sub-23 als Mundials Júnior nòrdics.**
+  **Dos podis mundials en dos anys seguits i en les dues tècniques.**
+  **On i contra qui segueix `obert`.**
+- **Naixement: Sant Julià de Lòria, 26 de gener del 2004.**
 
 ## Related
 

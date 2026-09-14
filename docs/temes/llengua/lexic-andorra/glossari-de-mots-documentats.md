@@ -71,7 +71,9 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **manador -a** | pregoner |
 | **bander** | guarda forestal (≈ agent rural) |
 | **arrest** | acord comunal — del francès *arrêt*. Documentat al segle XVII: *Areste lo dit Consell...* |
-| **cot** | multa imposada per un consell per incompliment d'un deure |
+| **cot** | multa imposada per un consell per incompliment d'un deure. **Documentat viu el 1853**: un decret del copríncep episcopal castiga qui permeti balls «deshonestos» amb «deu lliuras barcelonesas **y lo cot de la terra**, partidoras per mitat entre la iglesia y lo Comu» ([font primària](../../historia/segle-xix/trenta-nou-anys-si-el-creditor-es-lesglesia.md)) |
+| **capsou** | contracte de bestiar: el prestador en transfereix el domini i es reserva la facultat de quitar, i cobra un rèdit anual **en producte de l'animal**. **Documentat el 1783 a l'Aldosa**; Brutails el donava per **desaparegut el 1904** ([font primària](../../economia/ramaderia-i-agricultura/linteres-es-paga-en-llana.md)) |
+| **parceria**, **aparceria** | el mateix contracte, **el nom que va sobreviure**. *Tenere in parceriam*, documentat a **Mosquera el 7 de desembre del 1419** |
 | **ordinació** | norma d'un comú |
 | **foc i lloc** | impost parroquial |
 | **consòrcia** | unió de persones amb un interès comú que s'ajuden en cas de necessitat |
@@ -156,15 +158,64 @@ resta del país. El lèxic andorrà no és uniforme dins d'Andorra.
 
 > **fer-se l'andorrà** — 'fer-se el desentès'
 
+## Comprovat contra el diccionari — 13-09-2026
+
+**La part d'aquesta llista que depèn del DIEC2 ja no depèn d'una font
+secundària.** La llista oficial de la incorporació —*Variants dialectals
+incorporades al DIEC2*, Oficines Lexicogràfiques de l'IEC, **28-03-2007**— s'ha
+llegit sencera i s'ha comprovat mot a mot contra el diccionari en línia:
+[la marca que no vol dir Andorra](./la-marca-que-no-vol-dir-andorra.md).
+
+**Tres coses que aquesta fitxa dona i que la comprovació no sosté:**
+
+1. **«Proposats el 2003».** El document oficial es data el **28-03-2007** i **no
+   dona cap any de proposta**. El 2003 no queda desmentit, però **no té font**.
+2. **`aconduir` = «menar (el bestiar)».** El DIEC2 **no diu això**: diu «Disposar
+   convenientment (les coses que han d'ésser transportades)» i, a l'accepció 3,
+   «Conduir 1 1» — que és el que hi posa també la llista oficial. El sentit
+   ramader pot ser el real a Andorra; **no ve del diccionari**.
+3. **`aute` «el DIEC2 el recull marcat com a andorrà».** El diccionari **no té
+   cap marca d'andorrà**: la marca `[AD]` que duu `aute` vol dir **«llenguatge
+   administratiu»**, i la duen igualment `compulsar`, `expedient` i `diligència`.
+   **Cap de les 78 marques d'àrea del DIEC2 no és geogràfica.**
+
+I una que sí que es confirma, amb el matís que faltava: **`cap de casa` és al
+diccionari dues vegades**, `4 4` 'Golfa' i `13 8` 'Membre principal de la
+família'. **La que la llista andorrana proposava és la primera: la golfa.**
+
 ## El que falta
 
 **Cada mot d'aquesta llista mereix comprovació independent**: si és viu avui, en
 quina parròquia, en quina generació, i amb quina pronúncia. Aquesta fitxa és
 **un índex de feina**, no una descripció de la parla real.
 
-Les fonts primàries segueixen sense obrir: el ***Vocabulari d'Andorra*** (1992),
-el ***DEA*** (2007), *El parlar d'Andorra* de **Pantebre** (1997) i l'estudi
-dialectològic de **Riera** (1992).
+Les fonts primàries **lexicogràfiques** segueixen sense obrir: el ***Vocabulari
+d'Andorra*** (1992), el ***DEA*** (2007), *El parlar d'Andorra* de **Pantebre**
+(1997) i l'estudi dialectològic de **Riera** (1992). **Sí que s'ha obert la font
+normativa**, i és la secció de sobre.
+
+**Quatre mots que aquesta llista no té i el corpus sí, des del 2026-09-13.**
+Surten del [llibre 2 de la tesi de Joan Becat](../../../fonts/becat-tesi-1993.md),
+que **els recull com a ús popular andorrà dins un text francès**:
+
+| Mot | Què vol dir, segons Becat | On és al corpus |
+| --- | --- | --- |
+| ***conco*** | **el cabaler que es queda a la casa i no es casa mai** — **terme pejoratiu** | [l'hereu i el cabaler](../../historia/antic-regim/lhereu-i-el-cabaler.md) |
+| ***poblador*** | **casa nova sortida d'una casa més gran**, sovint sobre el domini d'una borda; **calia autorització del Consell General** | ídem |
+| ***fer canvi*** | **matrimonis creuats entre dues o tres famílies**, que neutralitzen el pagament del dot | ídem |
+| ***andorrà de bragueta*** | **qui obté la nacionalitat casant-se amb una pubilla** (o a l'inrevés) | ídem |
+
+**Cap dels quatre no és a la llista del Servei de Política Lingüística**, i
+**tots quatre són d'un camp que aquesta fitxa no cobreix**: **el vocabulari de
+la casa i de l'herència**. **Avís de lectura**: **són mots citats dins una tesi
+de geografia en francès**, i **el corpus no els ha comprovat contra cap font
+lexicogràfica.** **No en dedueix que siguin exclusius d'Andorra.**
+
+**Localitzat però no llegit el 13-09-2026:** *El parlar d'Andorra dels segles
+XVII i XVIII*, de **Xavier Rull** (Govern d'Andorra, 2010, 121 pàgines), baixat
+del portal del Govern. **No és el Pantebre de 1997**: és una obra diferent, feta
+del buidatge de documents dels segles XVII i XVIII, i el corpus no la tenia
+localitzada.
 
 ## Related
 

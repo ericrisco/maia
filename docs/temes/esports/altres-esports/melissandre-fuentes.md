@@ -55,8 +55,23 @@ habitants.** **No és casualitat: és l'escala.**
 
 ## El que falta
 
-- **Els seus resultats internacionals.**
-- **Lydia Fuentes**, la germana.
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Melissandre_Fuentes.wiki`](../../../raw/web/esport/atletes/Melissandre_Fuentes.wiki)).
+
+- ~~**Els seus resultats internacionals.**~~ — **`parcial`**: **el bolcat en
+  dona la competició i no la posició.** **Va ser al Campionat del Món Júnior de
+  patinatge artístic del 2002**, i **el bolcat la qualifica de PRIMERA
+  PATINADORA que va representar Andorra en un campionat de la ISU** —**al
+  costat de [Marc Casal](./marc-casal.md), que ho va ser en categoria
+  masculina.** **Campiona d'Andorra el 2004 i el 2005.**
+- ~~**Lydia Fuentes**, la germana.~~ — **`parcial`**: **el bolcat confirma que
+  existeix i que és més jove**, i **diu que competeix internacionalment en
+  categoria júnior.** **Cap altra dada.** **Dues germanes patinadores
+  andorranes és un fet que el corpus no tenia.**
+- **La resta**: **nascuda a Canillo l'1 de març del 1988**, **165 cm**,
+  **entrenador Mikel Garcia**, **club «Orient Club Gel, Canillo»** — **vegeu la
+  discrepància amb el nom del club registrada a
+  [Marc Casal](./marc-casal.md).**
 - **El Palau de Gel de Canillo** i els esports de gel andorrans. **Buit
   prioritari.**
 - **Si segueix patinant.**

@@ -46,9 +46,21 @@ tanca.**
 
 ## El que falta
 
-- **Els seus resultats.**
-- **Confirmar el parentiu amb David Ramón.**
-- **Com un país sense mar té dos olímpics de 470.**
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Oscar_Ramón.wiki`](../../../raw/web/esport/atletes/Oscar_Ramón.wiki)). **La resposta era dins del
+> corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
+> citava.**
+
+- ~~**Els seus resultats.**~~ — **`resolt`: 27è a Barcelona 1992** —**amb un 2n
+  lloc a la cinquena regata com a millor parcial**— **i 27è a Atlanta 1996.**
+  **El mateix lloc exacte dues vegades.**
+- ~~**Confirmar el parentiu amb David Ramón.**~~ — **`resolt`: són germans i ell
+  és el gran** (**27 de juliol del 1971**; en David, **13 d'abril del 1974**),
+  **i van navegar junts la classe 470 als dos Jocs.**
+- **Com un país sense mar té dos olímpics de 470.** — **`obert` pel que fa a
+  l'explicació, i el bolcat hi afegeix el detall que la fa encara més estranya**:
+  **tots dos van néixer al Pas de la Casa**, **el poble més alt d'Andorra i el
+  més lluny de qualsevol costa.**
 
 ## Related
 

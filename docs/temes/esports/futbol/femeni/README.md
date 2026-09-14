@@ -119,6 +119,29 @@ Alexia també hi ha corregut.** **Tres persones de la mateixa família al Dakar.
 - **Les 37 jugadores que la federació declarava a la FIFA el 1997.** Cap nom.
 - **Alba**, l'autora del primer gol de la història. **Sense cognom.**
 
+### El buit que els inclou tots, registrat el 2026-09-13
+
+**Trenta-sis d'aquestes fitxes tenen un únic buit** —**«els seus N partits», «la
+carrera de club», «tot»**— **i cap no es pot tancar amb el que el corpus té**,
+per un motiu que val la pena dir un sol cop i no trenta-sis:
+
+> **Aquesta subbranca no té bolcat a `raw/`.**
+> **La branca masculina en té 193 fitxers** a `raw/web/esport/atletes/`, **un per
+> jugador**, i **d'aquí han sortit setanta taules de carrera el mateix dia**
+> ([futbol](../README.md)). **Aquí no n'hi ha cap.** **Ni tan sols de les cinc
+> jugadores amb biografia pròpia** —Teresa Morató, Marina Fernández, Maria
+> Ruzafa, Maria Moles i Margot Llobera—, **que són justament les que donen les
+> xifres més altes i les que entren en contradicció amb la llista
+> d'internacionals** ([fitxa de font](../../../../fonts/wikipedia-futbol-femeni-andorra.md)).
+
+**La diferència entre les dues branques no és de font: és d'arxiu.** **Les dues
+surten de la Viquipèdia; d'una se'n va guardar còpia i de l'altra no.**
+**Mentre no n'hi hagi, cap xifra d'aquesta subbranca no es pot tornar a
+comprovar sense sortir del corpus.**
+
+**Buit prioritari i barat**, i **és un sol buit, no trenta-sis**: **baixar els
+articles i posar-los a `raw/`.**
+
 ## Related
 
 - [Futbol](../README.md)

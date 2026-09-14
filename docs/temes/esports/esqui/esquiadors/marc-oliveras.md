@@ -73,11 +73,31 @@ el corpus documenta**, i millora els de [Roger Vidosa](./roger-vidosa.md).
 
 ## El que falta
 
-- **Els resultats del Mundial del 2015.**
-- **Copa del Món i Copa d'Europa.**
-- **Quan va plegar**, si ha plegat.
-- **On va estudiar** — hi va anar a la Universíada, per tant hi constava com a
-  universitari, i el corpus no sap de quina universitat.
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Marc_Oliveras.wiki`](../../../../raw/web/esport/alpins/Marc_Oliveras.wiki)).
+
+- **Els resultats del Mundial del 2015.** — **`obert`, confirmat**: **el
+  bolcat en dona la participació i no els resultats.**
+- ~~**Els resultats del Mundial del 2013 i dels Jocs del 2014**~~ — **`resolt`,
+  i el corpus no els tenia:**
+
+  | Any | Competició | Resultats |
+  | --- | --- | --- |
+  | **2013** | **Mundial de Schladming** | supercombinada **27è**, descens **43è**, **súper-G i gegant: no acaba** |
+  | **2014** | **Jocs de Sotxi** | combinada **31è**, súper-G **34è**, gegant **38è**, **eslàlom 40è** |
+
+  **Quatre proves als Jocs**, que és **la participació més ampla que el corpus
+  documenta d'un esquiador andorrà en una sola edició.**
+- **Copa del Món i Copa d'Europa.** — **`obert`, confirmat**: **cap de les dues
+  no és al bolcat.**
+- **Quan va plegar**, si ha plegat. — **`obert`, confirmat**: **l'últim resultat
+  del bolcat és del 2015.**
+- **On va estudiar** — **`obert`, confirmat**: **el bolcat confirma la
+  Universíada del 2015 i no diu de quina universitat.**
+- ~~**On va néixer**~~ — **`resolt`, i és un fet per a la branca**: **BARCELONA,
+  20 de desembre del 1991.** **És el tercer esquiador andorrà d'aquesta
+  subbranca nascut fora**, amb **[Alex Antor](./alex-antor.md) (Narbona)** i
+  **[Cande Moreno](./cande-moreno.md) (Córdoba, Argentina)**.
 
 ## Related
 

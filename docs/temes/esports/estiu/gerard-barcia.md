@@ -35,9 +35,19 @@ del corpus**, repetida prou vegades per merèixer una fitxa pròpia algun dia.
 
 ## El que falta
 
-- **El seu resultat** a Atlanta: ni punts ni posició.
-- **On va néixer.**
-- **Tota la resta de la carrera.**
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Gerard_Barcia.wiki`](../../../raw/web/esport/atletes/Gerard_Barcia.wiki)). **La resposta era dins del
+> corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
+> citava.**
+
+- ~~**El seu resultat** a Atlanta: ni punts ni posició.~~ — **`resolt`:
+  117 punts i 37è lloc**, **després de dos dies de tirada**, sense
+  classificar-se per a la final.
+- **On va néixer.** — **`obert`, i el motiu és de font**: **el camp
+  `birth_place` del bolcat és buit.** **Hi ha la data —9 de novembre del
+  1963— i no el lloc.**
+- **Tota la resta de la carrera.** — **`obert`, confirmat**: **el bolcat són
+  tres línies.**
 
 ## Related
 

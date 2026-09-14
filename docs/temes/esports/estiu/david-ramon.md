@@ -54,9 +54,29 @@ Jocs.**
 
 ## El que falta
 
-- **Els seus resultats**, que la font no dona.
-- **Confirmar el parentiu** i que navegaven junts.
-- **On s'entrena la vela andorrana.**
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`David_Ramón.wiki`](../../../raw/web/esport/atletes/David_Ramón.wiki)). **La resposta era dins del
+> corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
+> citava.**
+
+- ~~**Els seus resultats**, que la font no dona.~~ — **`resolt`: la font sí que
+  els dona, al bolcat.**
+
+  | Jocs | Classe | Resultat |
+  | --- | --- | --- |
+  | **Barcelona 1992** | **470** | **27è** després de les set regates; **millor resultat parcial: 2n a la cinquena regata** |
+  | **Atlanta 1996** | **470** | **27è** |
+
+  **El mateix lloc exacte dues vegades, amb quatre anys de diferència.**
+  **I un segon lloc en una regata olímpica**, que és el millor resultat puntual
+  que el corpus documenta de la vela andorrana.
+- ~~**Confirmar el parentiu** i que navegaven junts.~~ — **`resolt`:
+  [Oscar Ramón](./oscar-ramon.md) és el germà gran** —**1971 ell, 1974 en
+  David**— i **van navegar junts els dos Jocs, en 470 de dos tripulants.**
+- ~~**On van néixer**~~ — **`resolt` de passada, i és un fet en si mateix**:
+  **tots dos al Pas de la Casa.** **Els dos únics olímpics de vela que ha tingut
+  Andorra són germans i són del poble més alt i més lluny del mar del país.**
+- **On s'entrena la vela andorrana.** — **`obert`, confirmat.**
 
 ## Related
 

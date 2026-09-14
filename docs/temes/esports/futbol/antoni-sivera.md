@@ -30,10 +30,34 @@ tags: [esports, futbol, seleccio]
 
 **Vint-i-dos partits el situen just per sota del llindar dels vint-i-cinc** que la llista d'internacionals andorrans fa servir com a tall ([la selecció](./la-seleccio.md)). **Quaranta-set jugadors hi arriben; ell es queda a tres.**
 
+## La carrera, club per club
+
+**Tancat el 2026-09-13 sense cap font nova.** **El material era al corpus**, al
+bolcat de la mateixa font que ha donat aquesta fitxa:
+[`Antoni_Sivera.wiki`](../../../raw/web/esport/atletes/Antoni_Sivera.wiki).
+
+| Anys | Club | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2005-06 | **US Luzenac** | — | — |
+| 2006-07 | **FC Santa Coloma** | — | — |
+| 2007- | **FC Campello** | — | — |
+
+### Les seleccions, totes
+
+| Anys | Equip | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2004- | **Andorra** | 22 | 0 |
+
+
 ## El que falta
 
+
+> **Auditat el 2026-09-13.** **El buit de la carrera era fals**: la resposta era al
+> bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
+> quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
+
 - Tot: **les dates, els clubs i els partits.**
-- **La resta de la carrera.**
+- ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related
 

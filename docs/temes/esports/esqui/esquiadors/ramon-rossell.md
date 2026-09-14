@@ -43,9 +43,22 @@ un cognom de casa forta d'Andorra** i que **la grafia varia** —*Rossell* /
 
 ## El que falta
 
-- **Copes del Món i campionats**: cap dada.
-- **Si té relació amb Claudina Rossel** o amb **Casa Rossell**.
-- **Què fa ara.**
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Ramon_Rossell.wiki`](../../../../raw/web/esport/alpins/Ramon_Rossell.wiki)).
+
+- **Copes del Món i campionats**: cap dada. — **`obert`, confirmat**: **el
+  bolcat és d'una línia.**
+- **Si té relació amb Claudina Rossel** o amb **Casa Rossell**. — **`obert`, i
+  el corpus no ho arbitra.** **Ell va néixer a ANDORRA LA VELLA el 24 de juny
+  del 1971** i **[Claudina Rossel](./claudina-rossel.md) el 12 de juliol del
+  1969**, **sense lloc al seu bolcat.** **Els cognoms s'escriuen diferent
+  —Rossell amb dues eles, Rossel amb una— i cap font no els relaciona ni els
+  relaciona amb [Casa Rossell](../../../historia/antic-regim/README.md).**
+  `hipòtesi, no verificada.`
+- **Què fa ara.** — **`obert`, confirmat el 2026-09-13, i per un motiu que val
+  per a tota la branca: el bolcat és una instantània amb data**, i **una
+  instantània no diu què fa ningú avui**. **Aquest buit no es tanca destil·lant
+  millor: es tanca amb una font nova.** Vegeu [els esports](../../README.md).
 
 ## Related
 

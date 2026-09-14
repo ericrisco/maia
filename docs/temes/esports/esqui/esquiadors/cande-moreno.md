@@ -56,10 +56,28 @@ donar-la per establerta.
 
 ## El que falta
 
-- **Els seus resultats a Milano Cortina** fora del descens.
-- **Copa del Món, campionats del món, Copa d'Europa**: cap dada.
-- **Quan i com arriba a Andorra**, i des de quan hi competeix.
-- **Confirmar la caiguda** amb una font andorrana.
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Cande_Moreno.wiki`](../../../../raw/web/esport/alpins/Cande_Moreno.wiki)).
+
+- **Els seus resultats a Milano Cortina** fora del descens. — **`obert`,
+  confirmat**: **el bolcat només li dona el descens del 2026.**
+- ~~**Els seus resultats de Pequín 2022**~~ — **`resolt`, i el corpus no els
+  tenia**: **30a en súper-G** i **12a en COMBINADA.**
+  **Un dotzè lloc olímpic és, de llarg, el millor resultat que el corpus
+  documenta d'una esquiadora andorrana als Jocs.**
+- **Copa del Món, campionats del món, Copa d'Europa**: cap dada. — **`obert`,
+  confirmat**: **el bolcat no en té res.**
+- ~~**Quan i com arriba a Andorra**, i des de quan hi competeix.~~ —
+  **`parcial`: el «com» segueix obert i l'origen es tanca.** **Va néixer el 30
+  d'octubre del 2000 a CÓRDOBA, ARGENTINA.** **És la primera esportista
+  andorrana d'origen americà que el corpus documenta.**
+- ~~**Confirmar la caiguda**~~ — **`parcial`**: **la font pròpia ho diu**
+  —**no va acabar el descens del 2026 després de caure**— **i la confirmació
+  amb una font andorrana segueix `obert`.**
+- **I un fet d'abanderats que tanca part del buit de branca**: **a la cerimònia
+  d'obertura dels Jocs del 2026 Andorra va tenir TRES abanderats**: **ella,
+  Joan Verdú i Irineu Esteve.** Vegeu
+  [els abanderats](../../competicio/els-abanderats.md).
 
 ## Related
 

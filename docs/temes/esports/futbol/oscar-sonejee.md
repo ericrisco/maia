@@ -72,11 +72,47 @@ retirada va ser nomenat seleccionador»**, mentre la seva pròpia entrada diu qu
 seleccionador absolut des del 2010**. **El corpus no arbitra**: probablement la
 llista confon la sub-17 amb l'absoluta, però **no ho pot demostrar**.
 
+## La carrera, club per club
+
+**Tancat el 2026-09-13 sense cap font nova.** **El material era al corpus**, al
+bolcat de la mateixa font que ha donat aquesta fitxa:
+[`Óscar_Sonejee.wiki`](../../../raw/web/esport/atletes/Óscar_Sonejee.wiki).
+
+| Anys | Club | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 1997-2001 | **FC Andorra** | — | — |
+| 2001-2002 | **Sant Julià** | — | — |
+| 2002 | **FC Andorra** | — | — |
+| 2002-2003 | **La Seu** | — | — |
+| 2003-2008 | **FC Andorra** | — | — |
+| 2008-2012 | **FC Santa Coloma** | — | — |
+| 2012-2013 | **Lusitanos** | 13 | 0 |
+| 2013-2014 | **FC Andorra** | 26 | 3 |
+| 2014-2015 | **Lusitanos** | 17 | 3 |
+| 2015-2016 | **Sant Julià** | 14 | 3 |
+| 2016-2017 | **Lusitanos** | 4 | 0 |
+
+**74 partits de club i 9 gols** en les **5 etapes** de què el bolcat en dona compte, sobre **11 en total**.
+
+### Les seleccions, totes
+
+| Anys | Equip | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 1997-2015 | **Andorra** | 106 | 4 |
+
+
 ## El que falta
 
-- **Els seus clubs.** La font n'esmenta ofertes de l'**East Bengal** i el
-  **Churchill Brothers** de Goa el 2008, **de l'Índia, el país dels seus
-  pares**, i que va acabar triant el segon. **El corpus no sap si hi va anar.**
+> **Auditat el 2026-09-13 contra el bolcat de la font pròpia.**
+
+- ~~**Els seus clubs.** (…) **El corpus no sap si hi va anar.**~~ — **`resolt`,
+  i la resposta és que no.** **La taula de dalt no té cap club indi**: **el
+  2008 va passar de l'FC Andorra al FC Santa Coloma, on va estar fins al
+  2012.** **Les ofertes de l'East Bengal i del Churchill Brothers de Goa
+  existeixen a la font i no es van materialitzar.**
+  **Onze etapes en total**, **totes andorranes tret d'una: La Seu d'Urgell,
+  el 2002-03.** **El primer andorrà que va arribar als cent
+  partits internacionals gairebé no va sortir mai del país per jugar.**
 - **Els seus quatre gols.**
 - **Si va ser capità, i quan.**
 

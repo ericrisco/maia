@@ -64,11 +64,35 @@ afirma parentiu i registra la coincidència.**
 
 ## El que falta
 
-- **Confirmar el 9è lloc** i de quina competició era exactament.
-- **Tota la resta de la seva carrera**: quan comença, quan plega, quins altres
-  resultats.
-- **El biatló andorrà**: hi ha federació? Hi ha més biatletes?
-- **Si té relació amb François Soulié.**
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Laure_Soulié.wiki`](../../../../raw/web/esport/atletes/Laure_Soulié.wiki)).
+
+> **I el bolcat porta el fet que explica per què hi ha biatló andorrà.**
+
+- ~~**Confirmar el 9è lloc** i de quina competició era exactament.~~ —
+  **`resolt`: un individual de 15 km a RUHPOLDING (Alemanya), la temporada
+  2013-14**, i **el bolcat el dona com la seva millor classificació de la
+  carrera.**
+- ~~**Tota la resta de la seva carrera**: quan comença, quan plega, quins altres
+  resultats.~~ — **`parcial`, i el «quan comença» té una resposta que no és una
+  data sinó una explicació.** **LAURE SOULIÉ COMPETIA PER FRANÇA**, **perquè la
+  seva mare és francesa i ANDORRA NO TENIA EQUIP DE BIATLÓ.** **Competeix per
+  Andorra des del 2009** i **hi va anar als Jocs de Sotxi del 2014.**
+  **El bolcat la dona com a retirada** i **no en diu la data.**
+  **Els altres resultats segueixen `obert`.**
+- ~~**El biatló andorrà**: hi ha federació? Hi ha més biatletes?~~ —
+  **`parcial`, i la resposta és negativa i datada.** **Abans del 2009 Andorra
+  NO TENIA EQUIP**, i **per això una andorrana havia de competir per França.**
+  **Si n'hi ha hagut més després, segueix `obert`.**
+  **El corpus registra la forma**: **un país sense estructura no perd els seus
+  esportistes: els presta.** **És el mateix mecanisme, invertit, del
+  [BC Andorra](../../altres-esports/bc-andorra.md) i de la regla de la FIBA.**
+- **Si té relació amb François Soulié.** — **`obert`, i el corpus no ho
+  arbitra.** **[François Soulié](./francois-soulie.md) va néixer a Carcassona,
+  a l'Aude**, i **ella al PAS DE LA CASA, el 28 d'abril del 1987, amb mare
+  francesa.** **Mateix cognom i el mateix vincle francès per totes dues bandes.**
+  **Cap font no els relaciona.** `hipòtesi, no verificada.`
+  **160 cm i 49 kg.**
 
 ## Related
 

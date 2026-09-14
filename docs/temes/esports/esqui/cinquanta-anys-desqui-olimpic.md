@@ -228,11 +228,38 @@ significa, en la pràctica, tenir setanta-set mil habitants.
   [Ramón Rossell](./esquiadors/ramon-rossell.md) té relació amb [Claudina
   Rossel](./esquiadors/claudina-rossel.md), segueix obert** — i els cognoms
   s'escriuen diferent.
-- **Els abanderats** de totes les edicions anteriors al 2010.
-- **Per què Andorra va renunciar a places el 2014.**
-- **Els resultats de tots aquests esquiadors fora dels Jocs**: Copes del Món,
-  campionats del món, Universíades. **El corpus no en té cap.**
-- **La Federació Andorrana d'Esquí (FAE)**: cap fitxa.
+- ~~**Els abanderats** de totes les edicions anteriors al 2010.~~ —
+  **`parcial`, auditat el 2026-09-14: els bolcats n'han donat quatre que el
+  corpus no tenia.**
+
+  | Jocs | Abanderat | D'on surt |
+  | --- | --- | --- |
+  | **Torí 2006** | **[Alex Antor](./esquiadors/alex-antor.md)** | el seu bolcat |
+  | **Vancouver 2010** | **[Lluís Marín](./esquiadors/lluis-marin-tarroch.md)** | el seu bolcat |
+  | **Pequín 2022** | **[Maeva Estévez](./esquiadors/maeva-estevez.md)** | el seu bolcat |
+  | **Milà-Cortina 2026** | **[Cande Moreno](./esquiadors/cande-moreno.md), Joan Verdú i Irineu Esteve** — **tres alhora** | el bolcat de Moreno |
+
+  **I amb això arriba una divergència que el corpus registra i no arbitra**:
+  **aquesta branca tenia escrit que a Vancouver 2010 els abanderats van ser
+  Lluís Marín I Mireia Gutiérrez**, i **el bolcat de Marín en dona un de sol.**
+  **Les edicions anteriors al 2006 segueixen `obert`.**
+- **Per què Andorra va renunciar a places el 2014.** — **`obert`, confirmat**:
+  **cap bolcat d'esquiador no ho esmenta.**
+- ~~**Els resultats de tots aquests esquiadors fora dels Jocs**: Copes del Món,
+  campionats del món, Universíades. **El corpus no en té cap.**~~ —
+  **`parcial`, i «cap» ha deixat de ser cert**: **ara n'hi ha de vuit
+  esquiadors** — vegeu [els esquiadors](./README.md). **La Universíada del 2015
+  de [Marc Oliveras](./esquiadors/marc-oliveras.md) queda confirmada, sense
+  resultat.**
+- **La Federació Andorrana d'Esquí (FAE)**: cap fitxa. — **`obert`, confirmat**:
+  **no hi ha bolcat de la FAE enlloc de `raw/web/esport/`.**
+- **I dos parentius nous que aquesta fitxa pot afegir a la seva llista**:
+  **[Sandra](./esquiadors/sandra-grau.md) i
+  [Vicky Grau](./esquiadors/vicky-grau.md) van néixer totes dues a Sant Julià
+  de Lòria**, i **[Esteve Tomàs](./esquiadors/esteve-tomas.md) és el germà petit
+  de [Joan Tomàs Roca](../estiu/joan-tomas-roca.md), el tirador de cinc Jocs**
+  — **els dos germans van debutar als Jocs el mateix any, el 1976, l'un als
+  d'hivern i l'altre als d'estiu.**
 
 ## Related
 

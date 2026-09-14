@@ -49,13 +49,39 @@ CARRABINA D'AIRE**, que és tir de precisió en sala. **No és el mateix esport.
 **El corpus ho marca com a observació pròpia i n'obre un buit:** *quan i per què
 canvia la disciplina del tir andorrà?*
 
+## El medaller, tal com el dona la font
+
+**Tancat el 2026-09-13 sense cap font nova.** **Les medalles eren a l'infobox del
+bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`,
+**i no s'havien destil·lat.**
+
+| Metall | Edició | Prova | Competició |
+| --- | --- | --- | --- |
+| 🥉 **Bronze** | **Liechtenstein 2011** | 10 m carabina d'aire | Jocs dels Petits Estats d'Europa |
+
+**1 medalla en total**: **1 de bronze**.
+
+**L'única als Jocs dels Petits Estats d'Europa.**
+
 ## El que falta
 
-- **On va néixer**, el club, el palmarès.
+- **On va néixer** i el club — **`obert`, confirmat** —; ~~el palmarès~~ —
+  **`parcial` des del 2026-09-13**: **bronze de carabina d'aire de 10 m a
+  Liechtenstein 2011** (medaller de dalt). **És l'única medalla que la font li
+  dona.**
 - **Francesc Repiso Romero**, tirador a Atenes 2004, **de qui el corpus només
   té el nom i la posició**. **No hi ha entrada d'enciclopèdia.** **Buit
   registrat.**
-- **La federació andorrana de tir.**
+- **La federació andorrana de tir.** — **`obert`, confirmat, i és un buit de
+  branca**: **el corpus no té fitxa de cap federació esportiva andorrana.**
+
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Esther_Barrugués.wiki`](../../../raw/web/esport/atletes/Esther_Barrugués.wiki)).
+> **El bolcat són tres línies i confirma els buits en comptes de tancar-los.**
+> **El que sí que hi ha, i la fitxa no tenia**: **Esther Barrugués Alviñá, 16 de
+> maig del 1980**, **51a en carabina d'aire de 10 m als Jocs de Rio del 2016**,
+> **164 cm i 60 kg**. **El camp `birth_place` hi és buit**: **el buit «on va
+> néixer» és de font i no de destil·lació.**
 
 ## Related
 

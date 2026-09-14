@@ -38,11 +38,55 @@ andorrana**, i **el corpus el subratlla perquè es repeteix fitxa rere fitxa**:
 caps de setmana.**
 
 **Setanta-sis internacionalitats i cap gol.** **Segueix en actiu.**
+## La carrera, club per club
+
+**Tancat el 2026-09-13 sense cap font nova.** **El material era al corpus**, al
+bolcat de la mateixa font que ha donat aquesta fitxa:
+`raw/raw/web/esport/atletes/Marc_García_(footballer).wiki`.
+
+| Anys | Club | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2007-2009 | **Eivissa B** | 26 | 0 |
+| 2009-2010 | **Fraga** | 7 | 2 |
+| 2010-2011 | **Pomar** | 27 | 1 |
+| 2011-2012 | **Atlético Monzón** | 29 | 0 |
+| 2012-2013 | **Vic** | 30 | 2 |
+| 2013-2014 | **Llagostera** | 0 | 0 |
+| 2013 | **Palamós** *(cedit)* | 5 | 0 |
+| 2013-2014 | **Cerdanyola** *(cedit)* | 24 | 0 |
+| 2014-2016 | **Rubí** | 43 | 0 |
+| 2016-2017 | **Manlleu** | 25 | 0 |
+| 2017-2020 | **Granollers** | 47 | 0 |
+| 2020-2021 | **Montañesa** | 20 | 0 |
+| 2021-2022 | **Sant Andreu** | 19 | 0 |
+| 2022-2023 | **Engordany** | 23 | 0 |
+| 2023-2024 | **Ordino** | 30 | 1 |
+
+**355 partits de club i 6 gols en total**, en **15 etapes**.
+
+*(Instantània del club del **10 de maig del 2026**.)*
+
+### Les seleccions, totes
+
+| Anys | Equip | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2010- | **Andorra** | 80 | 0 |
+
+*(Instantània de la selecció del **29 de maig del 2026**.)*
+
 ## El que falta
 
-- **Els anys i els partits de cada club.**
-- **Els seus gols internacionals, si en té.**
-- **Què fa ara.**
+> **Auditat el 2026-09-13.** **Els dos primers buits d'aquesta llista eren
+> falsos**: la resposta era al bolcat de la font pròpia d'aquesta fitxa, dins del
+> corpus. **És el mateix cas a vint-i-nou fitxes de futbolistes** — vegeu
+> [futbol](./README.md).
+
+- ~~**Els anys i els partits de cada club.**~~ — **`resolt`** (taula de dalt).
+- ~~**Els seus gols internacionals, si en té.**~~ — **`resolt`**: **el bolcat no en dona cap taula**, i la fitxa de la selecció absoluta en dona el compte a la taula de dalt. **Si el nombre de gols hi és 0, no en va fer cap.**
+- **Què fa ara.** — **`obert`, confirmat el 2026-09-13, i per un motiu que val
+  per a tota la branca: el bolcat és una instantània amb data**, i **una
+  instantània no diu què fa ningú avui**. **Aquest buit no es tanca destil·lant
+  millor: es tanca amb una font nova.** Vegeu [futbol](../futbol/README.md).
 
 ## Related
 

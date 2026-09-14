@@ -118,11 +118,57 @@ queda en tota la branca d'esports.**
 
 ## El que falta
 
-- **Les marques.** Mig centenar de posicions i una dotzena de temps.
-- **Els rècords d'Andorra**, que quatre fitxes esmenten i cap no llista.
-- **Francesc Repiso Romero** (tir, Atenes 2004): nom sense entrada.
-- **Les federacions**: cap fitxa de cap.
-- **Els Jocs dels Petits Estats amb noms.**
+> **Auditada la subbranca sencera el 2026-09-14, fitxa per fitxa, contra els
+> bolcats de `docs/raw/web/esport/atletes/`.** **Vint-i-nou de les trenta-una
+> fitxes tenen bolcat propi**, **i quatre dels cinc buits d'aquesta llista
+> estaven declarats contra material que el corpus ja tenia.** **El defecte és el
+> mateix que s'havia trobat a quaranta-una fitxes de futbolista**: **la fitxa es
+> va escriure amb la primera frase del bolcat i no amb el bolcat.**
+>
+> **I hi ha un cas que val per tots**: **el bolcat de
+> [Víctor Martínez](./victor-martinez.md) hi era des del principi**, amb el nom
+> `Víctor_Martínez_(runner).wiki`. **El desambiguador entre parèntesis el feia
+> invisible a la cerca per nom**, **i el corpus va escriure dues vegades que no
+> existia.** **Un buit de cerca disfressat de buit de font.**
+
+- ~~**Les marques.** Mig centenar de posicions i una dotzena de temps.~~ —
+  **`parcial`, i el balanç s'ha girat.** **Ara el corpus té marca de gairebé
+  totes les actuacions olímpiques que els bolcats documenten**, més **els
+  rècords personals complets de tres atletes** —Bernadó, Moya i Víctor
+  Martínez—, **les cinc marques de Margarida Moreno als grans campionats** i
+  **els temps de Sabaté, Deu, Cerqueda i Osorio.** **El que segueix `obert` són
+  els bolcats curts**: **Gaset, Emili i Xavier Pérez, Pol Arias, Silvia Felipo,
+  Daniel García i Montserrat García no en donen cap.**
+- ~~**Els rècords d'Andorra**, que quatre fitxes esmenten i cap no llista.~~ —
+  **`parcial`, i ara dues fitxes en llisten set.**
+  **[Pol Moya](./pol-moya.md): cinc** —800 m 1:46.19, 1.000 m 2:23.34, 1.500 m
+  3:35.60, i en pista coberta 800 m 1:48.86 i 1.500 m 3:40.10.
+  **[Margarida Moreno](./margarida-moreno.md): dos**, **encara vigents des del
+  1990 i el 1991** —1,83 m d'alçada a l'aire lliure i 1,81 m en pista coberta.
+  **Segueixen `obert` els de [Hocine Haciane](./hocine-haciane.md)** (la font
+  diu que en té i no en diu cap), **els nou de
+  [Carolina Cerqueda](./carolina-cerqueda.md)** —**que ara se sap que són tres a
+  cada una de les tres proves de lliures**— **i els de
+  [Meritxell Sabaté](./meritxell-sabate.md)**, **dels quals se saben les quatre
+  proves i una sola marca.**
+- **Francesc Repiso Romero** (tir, Atenes 2004): nom sense entrada. —
+  **`obert`, confirmat**: **no hi ha cap bolcat amb aquest nom a
+  `docs/raw/web/esport/atletes/`.** **Buit de font.**
+- **Les federacions**: cap fitxa de cap. — **`parcial`, i el buit ha canviat de
+  forma.** **La llista sencera de les vint-i-sis federacions del COA ja hi és**
+  ([el Comitè Olímpic](../competicio/el-comite-olimpic.md)); **el que falta és
+  una fitxa per federació**, i **quatre fitxes d'aquesta subbranca la demanen
+  pel seu esport**: natació, tir, judo i boxa.
+- ~~**Els Jocs dels Petits Estats amb noms.**~~ — **`resolt` per a aquesta
+  subbranca.** **Els bolcats han donat el palmarès nominal de sis atletes**, i
+  **[els Jocs dels Petits Estats](../competicio/els-jocs-dels-petits-estats.md)
+  ja hi remet.** **Víctor Martínez deu medalles, Toni Bernadó dotze, Montserrat
+  Pujol sis, Laura Sallés sis, Mònica Ramírez cinc, Margarida Moreno tres.**
+- **Una divergència que el corpus registra i no arbitra**: **la taula d'aquesta
+  pàgina i la fitxa de [Mònica Ramírez](./monica-ramirez.md) li donen dos Jocs,
+  Londres 2012 i Rio 2016**, i **el bolcat de la seva pròpia font no esmenta Rio
+  enlloc.** **Cap de les dues afirmacions no s'esborra.**
+  `Requereix font externa: la llista d'inscrits de Rio 2016.`
 
 ## Related
 

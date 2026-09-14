@@ -50,10 +50,57 @@ d'error que una font secundària propaga.**
 **Del 2004 al 2022**, i **hi va entrar adolescent**. **Juga al Sporting
 d'Escaldes.**
 
+## La carrera, club per club
+
+**Tancat el 2026-09-13 sense cap font nova.** **El material era al corpus**, al
+bolcat de la mateixa font que ha donat aquesta fitxa:
+[`Sergi_Moreno.wiki`](../../../raw/web/esport/atletes/Sergi_Moreno.wiki).
+
+| Anys | Club | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2005-2006 | **Getafe B** | — | — |
+| 2006-2007 | **Ibiza-Eivissa** | — | — |
+| 2007-2010 | **Gimnástico Alcázar** | 87 | 6 |
+| 2010-2011 | **Hellín** | 17 | 0 |
+| 2011-2012 | **Forte dei Marmi** | — | — |
+| 2012 | **Vllaznia Shkodër** | 5 | 0 |
+| 2012-2013 | **Hellín** | 13 | 0 |
+| 2013-2014 | **Almansa** | 24 | 1 |
+| 2014-2015 | **Gżira United** | — | — |
+| 2015 | **Jumilla** | 11 | 0 |
+| 2015-2016 | **Yeclano** | 25 | 2 |
+| 2016-2017 | **Ontinyent** | 12 | 0 |
+| 2017 | **FC Andorra** | 16 | 1 |
+| 2017-2022 | **Inter d'Escaldes** | 108 | 11 |
+| 2022-2023 | **Hellín** | — | — |
+| 2023 | **Inter d'Escaldes** | 10 | 0 |
+| 2024 | **Esperança** | 24 | 1 |
+| 2025 | **Atlètic Club d'Escaldes** | 5 | 0 |
+| 2025 | **Hellín** | — | — |
+
+**357 partits de club i 22 gols** en les **13 etapes** de què el bolcat en dona compte, sobre **19 en total**.
+
+*(Instantània del club del **18 de abril del 2026**.)*
+
+### Les seleccions, totes
+
+| Anys | Equip | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2004-2025 | **Andorra** | 77 | 1 |
+
+*(Instantània de la selecció del **13 de novembre del 2025**.)*
+
+
 ## El que falta
 
-- **El seu gol.**
-- **Els seus clubs.**
+> **Auditat el 2026-09-13 contra el bolcat de la font pròpia.**
+
+- **El seu gol.** — **`obert`, i ara se sap que n'és un de sol en 77 partits.**
+  **El bolcat no porta taula de gols internacionals**, només el compte:
+  **1 gol**. `Requereix font externa: la FAF o una hemeroteca.`
+- ~~**Els seus clubs.**~~ — **`resolt`, i són dinou etapes** (taula de dalt).
+  **És, de totes les fitxes de futbolista del corpus, la carrera amb més
+  canvis de club**: **Espanya, Itàlia, Albània, Malta i Andorra.**
 - **El resultat del partit contra la Xina** del seu debut.
 
 ## Related

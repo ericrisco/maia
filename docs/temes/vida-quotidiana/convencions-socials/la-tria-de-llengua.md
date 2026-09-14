@@ -129,11 +129,28 @@ va arribar el 1990 i la televisió el 1995**
 - **Què fa la gent avui**, trenta anys després i amb la
   [Llei 6/2024](../../llengua/politica-linguistica/la-llei-de-la-llengua.md) que
   obliga a **saludar en català** a l'atenció al públic.
-- Les altres ponències d'aquesta Diada: **la integració dels immigrants
+- ~~Les altres ponències d'aquesta Diada: **la integració dels immigrants
   magribins** (Rachid Raguig), **el punt de vista d'un anglès** (Desmond Allen),
   **els nacionals francesos** (Jean Pujol), **les aspiracions dels residents
   espanyols** (Modest Mayoral) i **l'Associació de Dones Migrants d'Andorra**
-  (Carmen Barbero). **El corpus no té res de cap d'aquestes comunitats.**
+  (Carmen Barbero). **El corpus no té res de cap d'aquestes comunitats.**~~ —
+  **`incorrecte`, comprovat el 2026-09-13.** **Les cinc ponències estan
+  llegides, totes cinc tenen fitxa de font, i quatre han donat article propi.**
+
+  | Ponent | Fitxa de font | On s'ha destil·lat |
+  | --- | --- | --- |
+  | **Rachid Raguig** | dins [`pique-duro-problemes-socials-1997`](../../../fonts/pique-duro-problemes-socials-1997.md) | [La piràmide de prestigi](../../societat/immigracio/la-piramide-de-prestigi.md), [la societat segmentada](../../societat/immigracio/la-societat-segmentada.md), [les religions d'Andorra avui](../../costums/religiositat/les-religions-dandorra-avui.md) |
+  | **Desmond Allen** | [`allen-punt-de-vista-angles-1997`](../../../fonts/allen-punt-de-vista-angles-1997.md) | [Per què tothom s'hi sentia integrat](../../societat/immigracio/per-que-tothom-shi-sentia-integrat.md), [el rellotge dels vint-i-cinc anys](../../institucions/nacionalitat-i-residencia/el-rellotge-dels-vint-i-cinc-anys.md) |
+  | **Jean Pujol** | [`duro-pujol-no-integracio-1997`](../../../fonts/duro-pujol-no-integracio-1997.md) | [Qui podia ser andorrà el 1997](../../institucions/nacionalitat-i-residencia/qui-podia-ser-andorra-el-1997.md) |
+  | **Modest Mayoral** | [`mayoral-residents-espanyols-1997`](../../../fonts/mayoral-residents-espanyols-1997.md) | [El rellotge dels vint-i-cinc anys](../../institucions/nacionalitat-i-residencia/el-rellotge-dels-vint-i-cinc-anys.md) |
+  | **Carmen Barbero** | [`barbero-dones-migrants-1997`](../../../fonts/barbero-dones-migrants-1997.md) | [Les dones migrants el 1997](../../societat/immigracio/les-dones-migrants-el-1997.md) |
+
+  **Aquest buit és el cas més net del defecte que l'auditoria busca**: **no diu
+  una cosa que el corpus ignori, diu una cosa que el corpus ja havia fet i
+  aquesta fitxa no sabia.** **El que segueix obert és el que aquesta fitxa
+  demanaria de debò**: **què diuen aquelles ponències sobre la *llengua***.
+  **Les cinc es van llegir per parlar d'integració, de nacionalitat i de
+  gènere**, i **cap article no n'ha tret la part lingüística.**
 
 ## Related
 

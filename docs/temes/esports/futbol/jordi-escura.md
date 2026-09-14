@@ -49,11 +49,41 @@ fisioterapeuta.**
 fitxes d'aquesta branca i que gairebé mai no té resposta**, i **perquè la
 resposta és sorprenent**.
 
+## La carrera, club per club
+
+**Tancat el 2026-09-13 sense cap font nova.** **El material era al corpus**, al
+bolcat de la mateixa font que ha donat aquesta fitxa:
+[`Jordi_Escura.wiki`](../../../raw/web/esport/atletes/Jordi_Escura.wiki).
+
+| Anys | Club | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2000-2001 | **CE Europa** | 4 | 0 |
+| 2001-2002 | **FC Andorra** | 17 | 1 |
+| 2002-2003 | **Ascó** | 23 | 0 |
+| 2003-2004 | **CE Europa** | 7 | 0 |
+| 2004-2005 | **Mollerussa** | 12 | 1 |
+| 2005-2009 | **Benavent** | — | — |
+| 2009-2010 | **Balaguer** | 30 | 1 |
+| 2010-2013 | **Alcarràs** | — | — |
+
+### Les seleccions, totes
+
+| Anys | Equip | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 1998-2011 | **Andorra** | 65 | 0 |
+
 ## El que falta
 
-- **Els anys i els partits de cada club.**
-- **La resta de la seva carrera internacional.**
-- **Si segueix jugant.**
+> **Auditat el 2026-09-13.** **Els dos primers buits d'aquesta llista eren
+> falsos**: la resposta era al bolcat de la font pròpia d'aquesta fitxa, dins del
+> corpus. **És el mateix cas a vint-i-nou fitxes de futbolistes** — vegeu
+> [futbol](./README.md).
+
+- ~~**Els anys i els partits de cada club.**~~ — **`resolt`** (taula de dalt).
+- ~~**La resta de la seva carrera internacional.**~~ — **`resolt` en part**: **el bolcat no en dona cap taula**, i la fitxa de la selecció absoluta en dona el compte a la taula de dalt. **Si el nombre de gols hi és 0, no en va fer cap.**
+- **Si segueix jugant.** — **`obert`, confirmat el 2026-09-13.** **La data de la
+  instantània del bolcat marca fins on arriba el que se'n sap**, i **no diu res
+  del que ha passat després.** Vegeu [futbol](../futbol/README.md).
 
 ## Related
 

@@ -39,11 +39,47 @@ tags: [esports, futbol, seleccio]
 **El corpus ho destaca** perquè **és l'única fitxa de la branca on un futbolista
 andorrà juga fora d'Europa**, i **perquè trenca el patró que es repeteix a
 totes les altres**: Espanya, Andorra, i com a molt França o Portugal.
+## La carrera, club per club
+
+**Tancat el 2026-09-13 sense cap font nova.** **El material era al corpus**, al
+bolcat de la mateixa font que ha donat aquesta fitxa:
+[`Joan_Cervós.wiki`](../../../raw/web/esport/atletes/Joan_Cervós.wiki).
+
+| Anys | Club | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2017-2018 | **FC Andorra** | 33 | 1 |
+| 2018 | **Santboià** | 14 | 0 |
+| 2018-2019 | **FC Andorra** | 2 | 0 |
+| 2020-2021 | **Colorado Springs Switchbacks** | 15 | 1 |
+| 2021 | **Prat** | 1 | 0 |
+| 2021-2022 | **Castelldefels** | 27 | 0 |
+| 2022-2023 | **Rudar Prijedor** | 24 | 3 |
+| 2023- | **San Cristóbal** | 79 | 1 |
+
+**195 partits de club i 6 gols en total**, en **8 etapes**.
+
+### Les seleccions, totes
+
+| Anys | Equip | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2013-2014 | **Andorra U17** | 6 | 0 |
+| 2015-2016 | **Andorra U19** | 6 | 0 |
+| 2016-2020 | **Andorra U21** | 8 | 0 |
+| 2018- | **Andorra** | 73 | 1 |
+
 ## El que falta
 
-- **Els anys i els partits de cada club.**
-- **Els seus gols internacionals, si en té.**
-- **Què fa ara.**
+> **Auditat el 2026-09-13.** **Els dos primers buits d'aquesta llista eren
+> falsos**: la resposta era al bolcat de la font pròpia d'aquesta fitxa, dins del
+> corpus. **És el mateix cas a vint-i-nou fitxes de futbolistes** — vegeu
+> [futbol](./README.md).
+
+- ~~**Els anys i els partits de cada club.**~~ — **`resolt`** (taula de dalt).
+- ~~**Els seus gols internacionals, si en té.**~~ — **`resolt`**: **el bolcat no en dona cap taula**, i la fitxa de la selecció absoluta en dona el compte a la taula de dalt. **Si el nombre de gols hi és 0, no en va fer cap.**
+- **Què fa ara.** — **`obert`, confirmat el 2026-09-13, i per un motiu que val
+  per a tota la branca: el bolcat és una instantània amb data**, i **una
+  instantània no diu què fa ningú avui**. **Aquest buit no es tanca destil·lant
+  millor: es tanca amb una font nova.** Vegeu [futbol](../futbol/README.md).
 
 ## Related
 

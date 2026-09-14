@@ -43,10 +43,32 @@ millorar en quatre anys.**
 
 ## El que falta
 
-- **Els seus rècords d'Andorra**: quins, quants i amb quines marques. **La font
-  diu «nombrosos» i no en llista cap.** **Buit prioritari.**
-- **La seva posició a Sydney.**
-- **Quan va plegar i què fa ara.**
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Meritxell_Sabaté.wiki`](../../../raw/web/esport/atletes/Meritxell_Sabaté.wiki)). **La resposta era dins del
+> corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
+> citava.**
+
+- ~~**Els seus rècords d'Andorra**: quins, quants i amb quines marques. **La
+  font diu «nombrosos» i no en llista cap.** **Buit prioritari.**~~ —
+  **`parcial`: el «nombrosos» es converteix en quatre proves i una marca.**
+  **El bolcat diu de quines proves eren**: **400 i 800 m lliures** i **200 i 400
+  m estils.** **I en dona una de concreta: 2:23.24 als 200 m estils**, **rècord
+  d'Andorra i mínima B de la FINA**, feta **al Mare Nostrum de Barcelona** poc
+  abans de Sydney. **Les altres tres marques segueixen sense aparèixer.**
+- ~~**La seva posició a Sydney.**~~ — **`resolt`, i amb tot el detall.**
+  **35a de la general**, sense passar a semifinals. **A la sèrie 1 hi va
+  competir contra Marina Mulyayeva (Kazakhstan), Alexandra Zertsalova
+  (Kirguizistan) i Fernanda Cuadra (Nicaragua)**; **hi entrava amb el millor
+  temps de la sèrie i va acabar tercera amb 2:30.41** —**set segons i disset
+  centèsimes per sobre del seu propi rècord**.
+  **I el bolcat tanca també Atlanta 1996**: **42a amb 2:37.38**, **als setze
+  anys**, en la mateixa prova.
+  **Dos Jocs, la mateixa prova, i la millor marca de la seva vida feta fora dels
+  dos.**
+- **Quan va plegar i què fa ara.** — **`obert`, confirmat.** **El bolcat la
+  tracta com a exnedadora i el camp `updated` hi és buit.**
+- ~~**On va néixer**~~ — **`resolt`**: **Andorra la Vella, 8 de setembre del
+  1980.**
 
 ## Related
 

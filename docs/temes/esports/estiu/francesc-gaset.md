@@ -49,9 +49,21 @@ dels bons:** *per què Andorra va desfilar sota bandera olímpica a Moscou 1980?
 
 ## El que falta
 
-- **La resposta a la pregunta de dalt.**
-- **Els seus resultats de Los Angeles 1984.**
-- **Tota la seva carrera fora dels Jocs.**
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Francesc_Gaset_Fris.wiki`](../../../raw/web/esport/atletes/Francesc_Gaset_Fris.wiki)). **La resposta era dins del
+> corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
+> citava.**
+
+- **La resposta a la pregunta de dalt.** — **`obert`, confirmat.**
+- **Els seus resultats de Los Angeles 1984.** — **`obert`, confirmat, i el motiu
+  és de font**: **el bolcat són dues línies** i **no dona cap posició ni cap
+  punt de cap dels dos Jocs.**
+- **Tota la seva carrera fora dels Jocs.** — **`obert`, confirmat, pel mateix
+  motiu.**
+- **El que el bolcat sí que dona, i la fitxa no tenia**: **Francesc Gaset Fris,
+  26 d'abril del 1947**, **fossa olímpica**, **i va ser l'abanderat d'Andorra
+  als Jocs de Moscou del 1980**. **El `birth_place` diu «Andorra» i cap
+  parròquia**: **el buit del lloc de naixement és de font.**
 
 ## Related
 

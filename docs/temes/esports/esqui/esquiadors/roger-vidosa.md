@@ -84,12 +84,51 @@ Tolosa— **i quedar-se dins l'esport, però no dins l'esquí ni dins Andorra**.
 
 ## El que falta
 
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Roger_Vidosa.wiki`](../../../../raw/web/esport/alpins/Roger_Vidosa.wiki)).
+
 - **Copa d'Europa i Copa del Món**: la font dona posicions de Copa del Món
   (supercombinada 22, descens 46, súper-G 33) **sense dir de quina temporada
   són**. **El corpus no les publica com a resultats fins que no en sàpiga la
-  data.**
-- **Els seus deu triomfs FIS**: on i quan.
-- **Si va ser abanderat.**
+  data.** — **`obert`, confirmat, i la decisió es manté**: **el bolcat les dona
+  sense any i el corpus no les escriu com a resultats.** **De Copa d'Europa no
+  n'hi ha res.**
+- ~~**Els seus deu triomfs FIS**: on i quan.~~ — **`parcial`: el compte es
+  confirma i s'explica, i el on i el quan segueixen faltant.** **El bolcat
+  desglossa els podis FIS per disciplina:**
+
+  | Disciplina | 1r | 2n | 3r |
+  | --- | ---: | ---: | ---: |
+  | **Eslàlom** | **5** | 9 | 3 |
+  | **Eslàlom gegant** | **5** | 7 | 1 |
+  | **Total** | **10 victòries** | **16 segons** | **4 tercers** |
+
+  **Deu victòries i trenta podis.** **Ni una sola data.**
+- **Si va ser abanderat.** — **`obert`, confirmat**: **el bolcat no ho esmenta.**
+- ~~**Els resultats de Jocs i de mundials**~~ — **`resolt`, i el corpus els
+  pot escriure perquè aquests SÍ que porten any:**
+
+  | Any | Competició | Resultats |
+  | --- | --- | --- |
+  | **2005** | **Mundial de Bormio** | gegant **39è**, eslàlom **36è** |
+  | **2006** | **Jocs de Torí** | eslàlom **27è**, combinada **28a**, descens **50è** |
+  | **2007** | **Mundial d'Åre** | descens **46è**, súper-G **55è**, supercombinada **28a** |
+  | **2010** | **Jocs de Vancouver** | supercombinada **25a**, súper-G **33è**, descens **48è** |
+
+  **Dos Jocs i dos mundials en cinc anys**, i **l'única millora clara és la
+  supercombinada: de 28a a Torí a 25a a Vancouver.**
+- **I «què fa ara», que a tota aquesta subbranca s'havia declarat irresoluble
+  per principi, aquí el bolcat el respon sencer.** **Es va retirar l'abril del
+  2013.** **Després**: **instructor d'esquí a Andorra cinc mesos**, **a Leeds
+  (Regne Unit) deu mesos més**, **entrenador personal al The Gym Group de Leeds
+  durant un any des del juliol del 2013**, **un any d'estudis a la Universitat
+  Paul Sabatier**, i **des del desembre del 2014, preparador físic a la Track
+  League de Migdia-Pirineus, a la zona de Tolosa de Llenguadoc**, **on el
+  bolcat el situa encara.**
+  **Un esquiador olímpic andorrà que acaba fent de preparador físic a França.**
+  **El corpus registra que el dictamen de branca —«el bolcat és una instantània
+  i no diu què fa ningú»— no val per a tots els bolcats**, i **que aplicar-lo
+  sense obrir el fitxer és el mateix error que es va cometre al futbol.**
 
 ## Related
 

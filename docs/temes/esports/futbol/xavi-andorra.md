@@ -41,10 +41,42 @@ gentilici** — la manera com, fora del país, s'identificava qui en venia. Vege
 vint-i-cinc** amb què la llista d'internacionals andorrans fa el tall
 ([la selecció](./la-seleccio.md)). **És el cas més ajustat de tots.**
 
+## La carrera, club per club
+
+**Tancat el 2026-09-13 sense cap font nova.** **El material era al corpus**, al
+bolcat de la mateixa font que ha donat aquesta fitxa:
+[`Xavi_Andorrà.wiki`](../../../raw/web/esport/atletes/Xavi_Andorrà.wiki).
+
+| Anys | Club | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2004-2006 | **Andorra** | — | — |
+| 2006-2007 | **Benicarló** | — | — |
+| 2007-2008 | **Gimnástico Alcázar** | 29 | 0 |
+| 2008-2009 | **Binéfar** | 9 | 3 |
+| 2009-2012 | **Andorra** | — | — |
+| 2012-2013 | **IC d'Escaldes** | 11 | 3 |
+| 2013-2014 | **Andorra** | 25 | 0 |
+| 2014-2015 | **Lusitanos** | 11 | 2 |
+| 2015-2019 | **IC d'Escaldes** | 47 | 12 |
+| 2019- | **Andorra B** | 5 | 1 |
+
+**137 partits de club i 21 gols** en les **7 etapes** de què el bolcat en dona compte, sobre **10 en total**.
+
+*(Instantània del club del **18:04, 19 January 2020 (UTC)**.)*
+
+### Les seleccions, totes
+
+| Anys | Equip | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2005-2013 | **Andorra** | 24 | 0 |
+
+
 ## El que falta
 
 - **On va néixer.**
-- **Els seus vint-i-quatre partits**, i si va marcar mai.
+- **Els seus vint-i-quatre partits**, i si va marcar mai. — **`parcial`**:
+  **el bolcat en dona el compte de gols a la taula de seleccions** (taula de
+  dalt); **el detall dels partits, no.**
 
 ## Related
 

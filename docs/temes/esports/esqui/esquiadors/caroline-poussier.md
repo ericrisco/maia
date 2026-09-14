@@ -47,9 +47,17 @@ complet**, cosa que no passa amb cap altra dona andorrana d'aquells anys.
 
 ## El que falta
 
-- **Qui és.** Ni lloc de naixement, ni nom complet, ni res.
-- **Si va seguir competint** després del 1994.
-- **Copes del Món i campionats**: cap dada.
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Caroline_Poussier.wiki`](../../../../raw/web/esport/alpins/Caroline_Poussier.wiki)).
+
+- **Qui és.** Ni lloc de naixement, ni nom complet, ni res. — **`obert`,
+  confirmat, i el motiu és de font**: **l'infobox no té ni `birth_place` ni
+  `full_name`.** **És l'única esquiadora d'aquesta subbranca de qui el bolcat
+  no dona ni el segon cognom.** **L'únic que hi ha és la data: 13 de juliol del
+  1976.**
+- **Si va seguir competint** després del 1994. — **`obert`, confirmat.**
+- **Copes del Món i campionats**: cap dada. — **`obert`, confirmat**: **el
+  bolcat és d'una línia.**
 
 ## Related
 

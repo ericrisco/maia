@@ -49,10 +49,25 @@ demostrar**.
 
 ## El que falta
 
-- **El lloc de naixement** i el nom complet verificat.
-- **Quina discapacitat** i quina classe paralímpica.
-- **Quines dues proves** va córrer a Sotxi.
-- **Si va competir en altres competicions** fora dels Jocs.
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Xavier_Fernandez.wiki`](../../../../raw/web/esport/alpins/Xavier_Fernandez.wiki)).
+
+- **El lloc de naixement** i el nom complet verificat. — **`obert`, confirmat**:
+  **l'infobox no té ni `birth_place` ni `full_name`.** **Només la data: 19 de
+  novembre del 1972.**
+- **Quina discapacitat** i quina classe paralímpica. — **`obert`, confirmat**:
+  **el bolcat no en diu res**, **a diferència del de
+  [Xavier Barios](./xavier-barios.md), que almenys dona la classe LW10.**
+- **Quines dues proves** va córrer a Sotxi. — **`obert`, confirmat**: **el
+  bolcat dona les dues participacions —2010 i 2014— i cap prova.**
+- **Si va competir en altres competicions** fora dels Jocs. — **`obert`,
+  confirmat.**
+- **I el balanç de la subbranca paralímpica, que val la pena deixar escrit**:
+  **el corpus té DOS paralímpics andorrans, tots dos esquiadors, amb quatre
+  participacions entre els dos —2002, 2006, 2010 i 2014— i UN SOL resultat
+  completat.** **És, de tot l'esport andorrà, la branca amb menys informació
+  per participació.** **La Federació Andorrana d'Esports Adaptats (FADEA)
+  segueix sense fitxa i sense bolcat.**
 
 ## Related
 

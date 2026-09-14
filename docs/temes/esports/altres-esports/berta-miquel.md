@@ -55,12 +55,70 @@ anys triés aquest esport.**
 registrat**, i val la pena: **seria una fira internacional de vint mil
 participants en un país de setanta-set mil habitants.**
 
+## El medaller, tal com el dona la font
+
+**Tancat el 2026-09-13 sense cap font nova.** **Les medalles eren a l'infobox del
+bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`,
+**i no s'havien destil·lat.**
+
+| Metall | Edició | Prova | Competició |
+| --- | --- | --- | --- |
+| 🥈 **Argent** | **Andorra 2025** | All-Around | Jocs dels Petits Estats d'Europa |
+| 🥈 **Argent** | **Andorra 2025** | Ball | Jocs dels Petits Estats d'Europa |
+| 🥈 **Argent** | **Andorra 2025** | Ribbon | Jocs dels Petits Estats d'Europa |
+
+**3 medalles en total**: **3 d'argent**.
+
+**Totes als Jocs dels Petits Estats d'Europa.**
+
 ## El que falta
 
-- **Els seus resultats posteriors al 2022.**
-- **Maria González**, la seva companya d'equip.
-- **La federació andorrana de gimnàstica**, clubs i quanta gent.
-- **On entrena set hores al dia**, si a Andorra o fora.
+- **Els seus resultats posteriors al 2022.** — **`parcial` des del
+  2026-09-13**: el medaller de dalt en dona els que la font recull.
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Berta_Miquel.wiki`](../../../raw/web/esport/atletes/Berta_Miquel.wiki)).
+
+- ~~**Els seus resultats posteriors al 2022**~~ — **`resolt` el 2026-09-14, i
+  el bolcat arriba fins a aquest mateix any.**
+
+  | Any | Competició | Resultat |
+  | --- | --- | --- |
+  | 2020 | Europeu júnior, Kíiv | 23a al concurs general |
+  | 2022 | Copa del Món de Pamplona (debut sènior) | 26a |
+  | 2022 | Europeu, Tel Aviv (amb **Maria González**) | 57a; millor, **44a de cinta** |
+  | 2022 | Copa del Món, Cluj-Napoca | 40a |
+  | 2022 | **Mundial, Sofia** | 70a |
+  | 2023 | Europeu | 53a |
+  | 2023 | **Mundial, València** | 73a |
+  | **2024** | **Ritam Cup, Belgrad** | **PRIMERA GIMNASTA ANDORRANA CLASSIFICADA PER A UNA FINAL DE LA FIG** — final de cinta |
+  | 2024 | Europeu | 58a |
+  | **2025** | **Jocs dels Petits Estats, a casa** | **TRES ARGENTS**: general, pilota i cinta |
+  | 2025 | Europeu | 54a |
+  | 2026 | Copa del Món, Sofia | 74a |
+  | 2026 | Copa d'Europa, Bakú | 39a |
+  | 2026 | Europeu, Varna | 66a |
+  | 2026 | Copa del Món, Milà | 76a |
+
+  **I el bolcat ho diu amb totes les lletres**: **és la primera gimnasta
+  andorrana que es classifica per a una final en una competició de la Federació
+  Internacional de Gimnàstica.** **El corpus no ho tenia.**
+  **Dels tres argents del 2025 va dir que no s'esperava ser a la lluita per les
+  medalles.**
+- ~~**Maria González**, la seva companya d'equip.~~ — **`parcial`**: **el bolcat
+  la situa al costat seu a l'Europeu de Tel Aviv del 2022** i **no en diu res
+  més.** **Dues gimnastes andorranes al mateix Europeu és, en si mateix, un fet
+  que el corpus no tenia.**
+- **La federació andorrana de gimnàstica**, clubs i quanta gent. — **`obert`,
+  confirmat**: **el bolcat no l'esmenta.** **El que sí que dona és
+  l'entrenadora: Claudia Lopez**, i **la selecció des del 2017.**
+- ~~**On entrena set hores al dia**, si a Andorra o fora.~~ — **`obert` pel que
+  fa al lloc, i el bolcat n'explica l'origen**: **va provar diversos esports de
+  petita**, **va començar la gimnàstica als sis anys després de veure la World
+  Gymnaestrada**, **va triar la rítmica «perquè li semblava més elegant i li
+  permetria actuar més»**, i **als dotze va passar a entrenar-se
+  intensivament.** **Set hores al dia, gairebé cada dia de la setmana.**
+- ~~**On va néixer**~~ — **`resolt`**: **Andorra la Vella, 26 de març del
+  2006.**
 
 ## Related
 

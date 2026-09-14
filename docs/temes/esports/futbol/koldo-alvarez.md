@@ -71,6 +71,32 @@ andorrà.**
 **Dirigeix Andorra des del 2010.** **El corpus no té cap altre entrenador
 andorrà fitxat de cap esport.**
 
+## La carrera, club per club
+
+**Tancat el 2026-09-13 sense cap font nova.** **El material era al corpus**, al
+bolcat de la mateixa font que ha donat aquesta fitxa:
+[`Koldo_Álvarez.wiki`](../../../raw/web/esport/atletes/Koldo_Álvarez.wiki).
+
+| Anys | Club | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 1988-1989 | **Aurrerá** | — | — |
+| 1989-1993 | **Atlético Madrid B** | 52 | 0 |
+| 1990 | **Toledo** *(cedit)* | 15 | 0 |
+| 1991 | **Atlético Madrid** | 0 | 0 |
+| 1993-1994 | **Salamanca** | 0 | 0 |
+| 1994-2006 | **FC Andorra** | 362 | 0 |
+| 2007 | **Balaguer** | 10 | 0 |
+| 2007-2009 | **FC Andorra** | 40 | 0 |
+
+**479 partits de club i 0 gols** en les **7 etapes** de què el bolcat en dona compte, sobre **8 en total**.
+
+### Les seleccions, totes
+
+| Anys | Equip | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 1998-2009 | **Andorra** | 78 | 0 |
+
+
 ## El que falta
 
 - **El seu balanç com a seleccionador**: partits, victòries.

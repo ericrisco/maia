@@ -20,12 +20,42 @@ I el que el corpus té sobre esquí que viu en altres branques:
 
 ## Buits registrats i prioritaris
 
+> **Auditada la subbranca sencera el 2026-09-14 contra `raw/web/esport/alpins/`
+> i `raw/web/esport/atletes/`.** **Els bolcats d'aquesta subbranca es parteixen
+> en dos grups molt desiguals**: **setze són esborranys d'una o dues línies** i
+> **vuit porten carrera sencera.** **La passada anterior havia tractat tota la
+> subbranca com si fos del primer grup.**
+
 - L'**Escola Nacional Andorrana d'Esquí**, que té llei de creació pròpia i de
-  la qual el corpus només sap que existeix.
-- La **Federació Andorrana d'Esquí (FAE)**: cap fitxa.
-- **Els resultats de Copa del Món i de campionats del món** dels esquiadors
-  andorrans anteriors a Joan Verdú. **Parcialment obert**: ara el corpus en té
-  de [Roger Vidosa](./esquiadors/roger-vidosa.md), [Mireia
-  Gutiérrez](./esquiadors/mireia-gutierrez.md) i [Marc
-  Oliveras](./esquiadors/marc-oliveras.md). **Dels altres divuit, cap.**
-- **Les estacions**, una per una.
+  la qual el corpus només sap que existeix. — **`obert`, confirmat**: **no hi
+  ha cap bolcat seu ni a `alpins/` ni a `estructura/`.**
+- La **Federació Andorrana d'Esquí (FAE)**: cap fitxa. — **`obert`, confirmat,
+  i ara es pot dir amb precisió on NO és**: **`raw/web/esport/estructura/` té
+  trenta-nou bolcats d'institucions esportives andorranes i cap no és la FAE**
+  —**hi ha la de futbol, la de rugbi, la d'escacs i el Comitè Olímpic.**
+  **En un país que és una estació d'esquí, la federació d'esquí és l'única gran
+  federació sense bolcat.** `Requereix font externa.`
+- ~~**Els resultats de Copa del Món i de campionats del món** dels esquiadors
+  andorrans anteriors a Joan Verdú.~~ — **`parcial`, i el compte millora molt.**
+  **Ara el corpus en té de vuit**, no de tres:
+  **[Roger Vidosa](./esquiadors/roger-vidosa.md)** (mundials del 2005 i del
+  2007 amb totes les posicions, deu victòries FIS, dos Jocs detallats),
+  **[Mireia Gutiérrez](./esquiadors/mireia-gutierrez.md)** (nou temporades de
+  Copa del Món, cinc mundials, tres Jocs, debut i retirada datats),
+  **[Marc Oliveras](./esquiadors/marc-oliveras.md)** (mundial del 2013 i Jocs
+  del 2014, prova per prova),
+  **[Lluís Marín](./esquiadors/lluis-marin-tarroch.md)** (dos tercers llocs de
+  Copa del Món amb data),
+  **[François Soulié](./esquiadors/francois-soulie.md)** i
+  **[Laure Soulié](./esquiadors/laure-soulie.md)** (millors resultats de
+  mundial i de Copa del Món),
+  **[Gina del Rio](./esquiadors/gina-del-rio.md)** (campiona del món júnior el
+  2024 i argent sub-23 el 2025) i
+  **[Cande Moreno](./esquiadors/cande-moreno.md)** (12a olímpica en combinada).
+  **Dels altres, els bolcats són esborranys i no en tenen.**
+- **Les estacions**, una per una. — **`obert`, confirmat.**
+- **I un buit nou que surt d'aquesta passada**: **de trenta-un esquiadors, el
+  corpus només té el CLUB d'un** —l'Esquí Club Ordino-Arcalís de Mireia
+  Gutiérrez— **i el d'Arinsal-Pal de Roger Vidosa.** **Els clubs d'esquí
+  andorrans són la unitat organitzativa real d'aquest esport i el corpus no en
+  té cap fitxa.**

@@ -37,11 +37,53 @@ el 2025** i **el corpus no sap de qui n'era ni una**.
 **Ramírez n'aporta dues: dos bronzes a Budva, el 2019.** **La font no diu de
 quines proves.** **Buit registrat, i d'aquests n'hi ha centenars per omplir.**
 
+## El medaller, tal com el dona la font
+
+**Tancat el 2026-09-13 sense cap font nova.** **Les medalles eren a l'infobox del
+bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`,
+**i no s'havien destil·lat.**
+
+| Metall | Edició | Prova | Competició |
+| --- | --- | --- | --- |
+| 🥈 **Argent** | **Liechtenstein 2011** | 100 m esquena | Jocs dels Petits Estats d'Europa |
+| 🥈 **Argent** | **Liechtenstein 2011** | 200 m esquena | Jocs dels Petits Estats d'Europa |
+| 🥉 **Bronze** | **Budva 2019** | 50 m esquena | Jocs dels Petits Estats d'Europa |
+| 🥉 **Bronze** | **Budva 2019** | 100 m esquena | Jocs dels Petits Estats d'Europa |
+| 🥉 **Bronze** | **San Marino 2017** | 200 m esquena | Jocs dels Petits Estats d'Europa |
+
+**5 medalles en total**: **2 d'argent**, **3 de bronze**.
+
+**Totes als Jocs dels Petits Estats d'Europa.**
+
 ## El que falta
 
-- **De quines proves són els dos bronzes.**
-- **Els seus resultats de Rio 2016 i del Mundial del 2013.**
-- **Si segueix competint.**
+- ~~**De quines proves són els dos bronzes.**~~ — **`resolt`**, i **de pas
+  corregeix el compte: no en són dos, en són tres.** **50 m i 100 m esquena a
+  Budva 2019, i 200 m esquena a San Marino 2017** (medaller de dalt). **Els dos
+  argents també són d'esquena**, de Liechtenstein 2011. **Les cinc medalles que
+  la font li dona són totes de la mateixa especialitat.**
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Mònica_Ramírez.wiki`](../../../raw/web/esport/atletes/Mònica_Ramírez.wiki)). **La resposta era dins del
+> corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
+> citava.**
+
+- **Els seus resultats de Rio 2016 i del Mundial del 2013.** — **`obert`, i
+  l'auditoria hi troba una divergència que el corpus registra sense
+  arbitrar-la.** **El bolcat de la font pròpia d'aquesta fitxa no esmenta Rio
+  2016 enlloc**: **li dona Londres 2012 —42a a les sèries dels 100 m esquena—,
+  els 50 m lliures del Mundial del 2013 i els dos bronzes de Budva 2019, i
+  res més.** **La taula d'aquesta fitxa, en canvi, hi té una fila de Rio 2016
+  en 100 m lliures, sense resultat.** **El corpus no esborra la fila ni la
+  confirma**: **deixa escrit que la seva pròpia font no la sosté**, i que
+  **calen les llistes de participants de Rio per decidir-ho.**
+  `Divergència registrada, no arbitrada.`
+  `Requereix font externa: la llista d'inscrits de Rio 2016.`
+- **Del Mundial del 2013 el bolcat només diu la prova** —**50 m lliures**— **i
+  cap resultat.**
+- ~~**On va néixer**~~ — **`resolt`**: **Escaldes-Engordany, 27 de desembre del
+  1993.**
+- **Si segueix competint.** — **`obert`, confirmat el 2026-09-13.** **El bolcat
+  és una instantània amb data i no diu res del que ha passat després.**
 
 ## Related
 

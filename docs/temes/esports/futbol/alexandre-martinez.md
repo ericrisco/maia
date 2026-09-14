@@ -38,11 +38,33 @@ andorrà del mateix nom. **El corpus registra l'avís**: **és el segon cas de l
 branca on la font pròpia adverteix d'una homonímia** —l'altre és el de
 [Sergi Mas](../../cultura/arts-visuals/sergi-mas.md), fora d'aquesta branca.
 
+## La carrera, club per club
+
+**Tancat el 2026-09-13 sense cap font nova.** **El material era al corpus**, al
+bolcat de la mateixa font que ha donat aquesta fitxa:
+[`Alexandre_Martínez.wiki`](../../../raw/web/esport/atletes/Alexandre_Martínez.wiki).
+
+| Anys | Club | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2003-2005 | **Sant Julià** | — | — |
+| 2005-2007 | **Andorra** | 37 | 0 |
+| 2009-2021 | **UE Santa Coloma** | — | — |
+
+**37 partits de club i 0 gols** en les **1 etapes** de què el bolcat en dona compte, sobre **3 en total**.
+
+### Les seleccions, totes
+
+| Anys | Equip | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2010-2012 | **Andorra** | 7 | 0 |
+
+
 ## El que falta
 
 - **On va néixer.**
-- **Qui és Alexandre Martínez Palau.**
-- **Els seus set partits.**
+- **Qui és Alexandre Martínez Palau.** — **`obert`, confirmat.**
+- **Els seus set partits.** — **`obert`**: el bolcat en dona el compte i no el
+  detall. **El que sí que hi és ara és la carrera de club** (taula de dalt).
 
 ## Related
 

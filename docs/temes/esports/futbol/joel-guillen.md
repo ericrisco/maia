@@ -30,10 +30,43 @@ tags: [esports, futbol, seleccio]
 
 **Set clubs abans dels vint-i-cinc anys, tots de la Primera Catalana o de Tercera Federació.** **La font diu que a Monzón hi va jugar «al costat de compatriotes»**, i **el corpus ho subratlla**: **hi havia més d'un andorrà al mateix club de cinquena categoria espanyola** — **[Albert Rosas](./albert-rosas.md)** i **[Marc García](./marc-garcia.md)** també hi consten.
 
+## La carrera, club per club
+
+**Tancat el 2026-09-13 sense cap font nova.** **El material era al corpus**, al
+bolcat de la mateixa font que ha donat aquesta fitxa:
+[`Joel_Guillén.wiki`](../../../raw/web/esport/atletes/Joel_Guillén.wiki).
+
+| Anys | Club | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2019-2020 | **EFAC** | 12 | 1 |
+| 2020 | **Alpicat** | 1 | 1 |
+| 2020-2021 | **Mollerussa** | 8 | 0 |
+| 2021-2022 | **Tàrrega** | 23 | 0 |
+| 2022-2023 | **Monzón** | 22 | 1 |
+| 2023- | **Binéfar** | 58 | 0 |
+
+**124 partits de club i 3 gols en total**, en **6 etapes**.
+
+*(Instantània del club del **8 de març del 2026**.)*
+
+### Les seleccions, totes
+
+| Anys | Equip | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2022- | **Andorra** | 21 | 0 |
+
+*(Instantània de la selecció del **4 de juny del 2026**.)*
+
+
 ## El que falta
 
+
+> **Auditat el 2026-09-13.** **El buit de la carrera era fals**: la resposta era al
+> bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
+> quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
+
 - **Quins compatriotes** i els seus vint-i-un partits.
-- **La resta de la carrera.**
+- ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related
 

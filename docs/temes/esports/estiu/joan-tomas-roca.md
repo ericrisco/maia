@@ -60,11 +60,47 @@ anys de diferència entre les dues banderes**. Vegeu
 
 ## El que falta
 
-- **Els seus punts** de tots els Jocs tret de Montreal.
-- **Per què hi ha setze anys de buit** entre 1984 i 2000.
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> (`docs/raw/web/esport/atletes/Joan_Tomàs_(sport_shooter).wiki` — **sense enllaç: el nom de fitxer
+> porta parèntesis i el format d'enllaç del corpus no els admet**). **La resposta era dins del
+> corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
+> citava.**
+
+- ~~**Els seus punts** de tots els Jocs tret de Montreal.~~ — **`parcial`: hi
+  ha les cinc posicions i només dos marcadors.**
+
+  | Jocs | Posició | Punts |
+  | --- | --- | --- |
+  | **Mont-real 1976** | **33è** | **162** |
+  | **Moscou 1980** | **26è** | — |
+  | **Los Angeles 1984** | **26è** | — |
+  | **Sydney 2000** | **39è de 41** | — |
+  | **Londres 2012** | **33è de 34**, **als 61 anys** | — |
+
+  **Els seus millors Jocs són el 1980 i el 1984, tots dos amb un 26è lloc.**
+  **I va ser abanderat d'Andorra dues vegades**: **Los Angeles 1984 i Londres
+  2012** — **vint-i-vuit anys entre una bandera i l'altra.**
+- ~~**Per què hi ha setze anys de buit** entre 1984 i 2000.~~ — **`obert` pel
+  que fa a la causa, i el bolcat confirma que el buit és real i el subratlla**:
+  **«van passar setze anys abans que Tomàs tornés a l'escena olímpica».**
+  **La font el registra com a fet i no l'explica.** **Cinc Jocs en trenta-sis
+  anys.**
+- ~~**Si segueix vinculat a l'esport.**~~ — **`parcial`: el bolcat el situa
+  tirant per un club, i és espanyol.** **Tira pel Club de Mollet, a Barcelona**;
+  **està casat i té dos fills**; **treballa en assegurances.** **La data del
+  bolcat no hi consta, de manera que «segueix» no es pot afirmar en present.**
+- **I una carrera internacional sencera que la fitxa no tenia**: **nou Mundials
+  de l'ISSF**, amb **69è lloc el 2003** com a millor resultat, i **quinze
+  Europeus de l'ISSF**, amb **38è lloc el 2000**. **Va començar a tirar el 1971
+  i a competir el 1973.**
+- **I un parentiu que travessa la branca**: **el seu germà petit, Esteve Tomàs,
+  va córrer l'eslàlom gegant als Jocs d'Hivern de 1976** — **els mateixos Jocs
+  d'hivern de l'any en què ell debutava als d'estiu.** Vegeu
+  [l'esquí](../esqui/README.md).
 - **El tir andorrà**: federació, camps, quanta gent. **El tir és l'esport amb
-  què Andorra debuta als Jocs el 1976 i el corpus no en té cap fitxa.**
-- **Si segueix vinculat a l'esport.**
+  què Andorra debuta als Jocs el 1976 i el corpus no en té cap fitxa.** —
+  **`obert`, confirmat, i és el buit de branca més ben plantejat d'aquesta
+  subbranca.**
 
 ## Related
 

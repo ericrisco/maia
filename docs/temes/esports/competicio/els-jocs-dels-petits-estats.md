@@ -293,21 +293,63 @@ I la seva conclusió sobre què són aquests Jocs per al país:
 
 ## Buits registrats
 
-- **El Comitè Olímpic Andorrà**: quan es crea, quan entra al COI, qui el
+> **Auditats el 2026-09-14.** **Aquesta secció s'havia quedat enrere respecte
+> del propi corpus.** **Quatre dels vuit buits declaren que «no hi ha res al
+> corpus» sobre coses que el corpus ha escrit des de llavors**, **en articles
+> que no existien quan aquesta llista es va redactar.** **El defecte és
+> d'actualització, no de coneixement**: **un buit caducat és tan enganyós com un
+> buit fals**, perquè **fa buscar a fora el que ja és a dins.**
+
+- ~~**El Comitè Olímpic Andorrà**: quan es crea, quan entra al COI, qui el
   presideix. **Buit prioritari** — és la institució que fa possible tot això i el
-  corpus no en té res.
-- **Andorra als Jocs Olímpics** —d'estiu i d'hivern—: participacions, atletes,
-  resultats. **Res al corpus.**
+  corpus no en té res.~~ — **`resolt`: el corpus en té fitxa pròpia**,
+  [el Comitè Olímpic](./el-comite-olimpic.md), **amb les vint-i-sis federacions
+  del COA i les divuit que són olímpiques.** **Les dates de creació i d'entrada
+  al COI i la presidència segueixen `obert` allà.**
+- ~~**Andorra als Jocs Olímpics** —d'estiu i d'hivern—: participacions, atletes,
+  resultats. **Res al corpus.**~~ — **`resolt`, i «res al corpus» és avui el
+  contrari de la veritat.** **Hi ha
+  [Andorra als Jocs Olímpics](./andorra-als-jocs-olimpics.md),
+  [els abanderats](./els-abanderats.md), trenta-una fitxes
+  d'[olímpics d'estiu](../estiu/README.md) i trenta-una
+  d'[esquiadors](../esqui/esquiadors/README.md).**
 - **Els Jocs de 1991 i 2005 organitzats a Andorra**: com es van fer, quines
   instal·lacions, què hi va costar.
 - **Quin any organitzarà Andorra els tercers Jocs** (2021 o 2023), i què va
   passar realment.
-- **El medaller andorrà complet** de les setze edicions.
-- **Les federacions esportives andorranes**, esmentades i mai descrites.
+- **El medaller andorrà complet** de les setze edicions. — **`parcial`, i el
+  buit s'està tancant per l'altre extrem.** **Aquesta fitxa té medallers per
+  edició i cap nom**; **les fitxes d'esportista, en canvi, ja porten noms i
+  proves.** **Tres exemples que sols ja sumen vint-i-vuit medalles**:
+  **[Víctor Martínez](../estiu/victor-martinez.md), deu** (sis ors, en 800 i
+  1.500 m, del 1997 al 2007); **[Toni Bernadó](../estiu/antoni-bernado.md),
+  dotze** (vuit ors, en 5.000 i 10.000 m, del 1999 al 2017); i
+  **[Montserrat Pujol](../estiu/montserrat-pujol.md), sis** (un or, en salt de
+  llargada i triple salt, del 1997 al 2009). **Hi ha també
+  [Laura Sallés](../estiu/laura-salles.md), [Mònica Ramírez](../estiu/monica-ramirez.md),
+  [Margarida Moreno](../estiu/margarida-moreno.md),
+  [Esther Barrugués](../estiu/esther-barrugues.md),
+  [Pol Moya](../estiu/pol-moya.md) i
+  [Daniel García](../estiu/daniel-garcia-gonzalez.md).**
+  **El que falta ja no és el medaller: és sumar-lo.**
+- ~~**Les federacions esportives andorranes**, esmentades i mai descrites.~~ —
+  **`resolt`**: **la llista sencera de les vint-i-sis federacions del COA és a
+  [el Comitè Olímpic](./el-comite-olimpic.md).** **Descrites una per una,
+  segueix `obert`.**
 - **El treball de recerca d'Oriol Fernández Vilarrubla** sobre els Jocs, que la
   font cita com a bibliografia. **Font localitzada i no llegida.**
-- **L'himne andorrà**: el corpus no té fitxa de *El gran Carlemany*. Vegeu
-  [símbols](../../institucions/simbols/README.md).
+- ~~**L'himne andorrà**: el corpus no té fitxa de *El gran Carlemany*. Vegeu
+  [símbols](../../institucions/simbols/README.md).~~ — **`resolt`**: **la fitxa
+  existeix**, [El gran Carlemany](../../institucions/simbols/el-gran-carlemany.md).
+- **Els Jocs de 1991 i 2005 organitzats a Andorra** — **`parcial` pel que fa a
+  les xifres**: **aquesta mateixa fitxa ja té 14 medalles el 1991 i 38 el 2025 i
+  declara que del 2005 no en té la xifra.** **El que segueix `obert` és el com:
+  instal·lacions i cost.** **I hi ha un fil nou**: **tres dels esportistes
+  auditats el 2026-09-14 hi van fer les seves millors marques a casa**
+  —**[Montserrat Pujol](../estiu/montserrat-pujol.md) el 2005 (5,75 m i 12,20 m),
+  [Toni Bernadó](../estiu/antoni-bernado.md) el 2005 i
+  [Víctor Martínez](../estiu/victor-martinez.md) el 2005**—, i
+  **[Pol Moya](../estiu/pol-moya.md) hi va fer doblet el 2025.**
 
 
 ## Related

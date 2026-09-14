@@ -216,17 +216,97 @@ hagut necessitat», i **l'escola nacional pròpia no comença fins al 1982**,
 
 ## Buits registrats
 
-1. **El castell de Bragafolls**: on era, què se'n sap arqueològicament.
-2. **Les concòrdies de 1162 i 1176**, text i llista de signants.
-3. **La Carta Pobla** com a falsificació: qui la va fer i com es va detectar.
-4. **Simeón de Guinda y Apeztegui** i el 1714.
-5. **Les dues consultes al poble, 1976 i 1977**: pregunta, resultat, participació.
-6. **L'Assemblea Magna** del 1981.
-7. **L'afer Drozd i Janousek** (1989-91) i què va canviar.
-8. **Ràdio Andorra, Ràdio de les Valls i Sud Radio.** **Prioritari.**
+> **Auditats contra la resta del corpus el 2026-09-13.** **D'onze buits, sis
+> tenien resposta —sencera o a mitges— en altres branques**, i **un ha revelat
+> una divergència de dates que aquesta fitxa arrossegava sense saber-ho.**
+
+1. **El castell de Bragafolls**: on era, què se'n sap arqueològicament. —
+   **`obert`, confirmat.** **El corpus només en té la línia de
+   [la cronologia](../../historia/moments-historics/la-cronologia-dandorra.md)**
+   —**Borrell II el fa al terç final del segle X i els andorrans el
+   destrueixen**— **i ve de la mateixa font que aquesta fitxa.**
+   `Requereix font externa: arqueologia.`
+2. ~~**Les concòrdies de 1162 i 1176**, text i llista de signants.~~ —
+   **`obert` pel text, i amb una divergència de dates que cal dir.**
+   **[Els privilegis](../../historia/edat-mitjana/els-privilegis.md) les daten
+   el 1152 i el 1175**, seguint Bascompte, i **les anomena igual: «concòrdies»,
+   capitulacions de drets entre el bisbe i el capítol d'Urgell i la comunitat
+   andorrana.** **Aquesta fitxa en dona 1162 i 1176.** **Divergència registrada,
+   no arbitrada**: **deu anys de diferència en la primera i un any en la
+   segona.** **El text i els signants segueixen sense conèixer-se en cap de les
+   dues versions.**
+3. ~~**La Carta Pobla** com a falsificació: qui la va fer i com es va detectar.~~
+   — **`parcial`, i el corpus en té més del que aquesta fitxa suposava.**
+   **La data de fabricació**: **entre el 1133 i el 1162**, amb data pretesa del
+   **805** ([la cronologia](../../historia/moments-historics/la-cronologia-dandorra.md)).
+   **El debat, amb noms**: **Jordi Guillamet i altres en qüestionen
+   l'autenticitat; Antoni Morell i Jacques Descheemaeker la defensen**
+   ([els privilegis](../../historia/edat-mitjana/els-privilegis.md)). **I el
+   corpus la classifica ja com a falsa** a
+   [el nom d'Andorra](../../historia/origens/el-nom-dandorra.md), al costat de
+   l'acta de consagració d'Urgell. **El que segueix obert és exactament el que
+   el buit demanava: qui la va fabricar i com es va detectar.**
+4. ~~**Simeón de Guinda y Apeztegui** i el 1714.~~ — **`parcial`, i el corpus el
+   té en un altre paper que aquesta fitxa no sabia.** **[La revolta del tabac de
+   1733](../../economia/tabac/la-revolta-del-tabac-de-1733.md)** el documenta
+   **com el bisbe d'Urgell que, cap al 1728-1733 i sota pressió de l'intendent
+   general de Catalunya** —**que amenaçava de retirar les franquícies duaneres
+   del bestiar**— **prohibeix el conreu del tabac a Andorra**, **no el comerç**.
+   **El mateix home que aquesta fitxa recorda per reconèixer els andorrans com a
+   diferents dels espanyols i francesos el 1714 és, vint anys després, qui cedeix
+   a la pressió espanyola en el tabac.** **El corpus registra les dues cares i no
+   les arbitra.** **El que segueix obert és el 1714 mateix**, i
+   [persones](../../persones/README.md) el té com a buit amb aquestes paraules.
+5. ~~**Les dues consultes al poble, 1976 i 1977**: pregunta, resultat,
+   participació.~~ — **`parcial`, i amb una correcció de dates.** **El corpus té
+   [els primers referèndums](../sistema-electoral/els-primers-referendums.md)**,
+   i **en són tres, no dos, i les dates no són les d'aquesta fitxa**:
+   **28 d'octubre del 1977**, **16 de gener del 1978** i **1982**.
+   **Del primer se'n té tot el que el buit demanava**: **sis opcions**,
+   **1.937 vots sobre un cens de 3.206** —**60,4% de participació**—, i el
+   resultat: **l'Agrupament Democràtic d'Andorra, 34,9%**; **el Quart de les
+   Escaldes, 20,5%**; i **vots en blanc, 31,2%**, **la segona opció més votada**.
+   **Les tres propostes del Consell General van sumar el 4,3%.**
+   **Divergència registrada**: **aquesta fitxa parla de consultes el 1976 i el
+   1977; aquella les data el 1977 i el 1978.**
+6. ~~**L'Assemblea Magna** del 1981.~~ — **`parcial` des del 2026-09-13, i amb
+   fitxa pròpia**: [l'Assemblea Magna](../../institucions/consell-general/lassemblea-magna.md).
+   **Ara se sap què era** —**setanta-dues persones: els 28 consellers, els dos
+   síndics, els catorze cònsols i quatre persones més per parròquia**—, **que
+   només es convocava en crisi**, **que la Nova Reforma del 1866 la manté sense
+   anomenar-la** i **que va desaparèixer amb la Constitució del 1993**. **I que
+   la del 1980-81 no va ser l'única**: **n'hi va haver dues més, el 1974 i el
+   1975, sobre el rescat de les concessions de FHASA.** **El que segueix obert
+   són les actes.**
+7. ~~**L'afer Drozd i Janousek** (1989-91) i què va canviar.~~ — **`parcial`, i
+   la sentència és al corpus citada per article.** **[La
+   quèstia](../../institucions/coprincipat/la-questia.md)** treu **dues xifres
+   del tribut feudal andorrà** de **la sentència del Tribunal Europeu de Drets
+   Humans en l'afer Drozd i Janousek contra França i Espanya, del 26 de juny del
+   1992, §76**. **La data exacta del pronunciament, doncs, ja la té el corpus**,
+   i **és posterior al 1991 que aquest buit dona.** **El que segueix obert és
+   què va canviar**, encara que **la coincidència està registrada**: **la
+   sentència és del juny del 1992 i la Constitució, del març del 1993.**
+8. ~~**Ràdio Andorra, Ràdio de les Valls i Sud Radio.** **Prioritari.**~~ —
+   **`resolt` en bona part.** **El corpus té [Ràdio
+   Andorra](../../societat/mitjans/radio-andorra.md)** —**l'única emissora
+   privada francesa que va emetre tota la Segona Guerra Mundial sense caure ni
+   en mans dels aliats ni de Vichy**, i **el Consell General la va matar el
+   1981**—, **[RTVA](../../societat/mitjans/rtva.md)**, i fins i tot
+   **[el Museu de la Ràdio](../../cultura/museus-i-arxius/museus/el-museu-de-la-radio.md)**,
+   **previst per al 2015 i del qual el corpus no sap si va obrir**. **Sud Ràdio
+   hi surt, amb una divergència ja registrada** a la fitxa de Ràdio Andorra.
+   **El que segueix obert és Ràdio de les Valls**, **de la qual el corpus només
+   té el nom dins aquesta cronologia.**
 9. Els dos llibres de país: **Riberaygua (1946)** i **Puigoriol (1963)**.
 10. **El conveni postal de 1930** signat sense Andorra.
-11. **L'oficialitat del català el 1938**: quina norma, i per què just llavors.
+11. **L'oficialitat del català el 1938**: quina norma, i per què just llavors. —
+    **`obert`, confirmat.** **La [cronologia](../../historia/moments-historics/la-cronologia-dandorra.md)
+    la recull amb la mateixa frase i la mateixa font** —«abans no n'hi havia
+    hagut necessitat»— i **cap document de
+    [política lingüística](../../llengua/politica-linguistica/la-llei-de-la-llengua.md)
+    no esmenta el 1938.** **És un buit d'una sola font repetida dues vegades.**
+    `Requereix font externa: l'acord del Consell General del 1938.`
 
 ## Related
 

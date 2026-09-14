@@ -59,10 +59,38 @@ casa dos serveis.**
 
 ## El que falta
 
-- **Quan es va construir, i què va costar.**
-- **Què hi destina el Comú de Canillo avui.**
+> **Auditats el 2026-09-14 contra un bolcat que el corpus tenia i no havia
+> obert**:
+> [`Palau_de_Gel_d_Andorra-ca.wiki`](../../../raw/web/esport/estructura/Palau_de_Gel_d_Andorra-ca.wiki).
+
+- **Quan es va construir, i què va costar.** — **`obert`, confirmat**: **el
+  bolcat no dona ni any de construcció ni cost d'obra.** **És un esborrany
+  declarat com a tal.** `Requereix font externa: el Comú de Canillo.`
+- ~~**Què hi destina el Comú de Canillo avui.**~~ — **`parcial`, i amb xifres:**
+  **fins al 2011 el Comú de Canillo hi destinava UN MILIÓ D'EUROS l'any**, i
+  **es va reduir a SET-CENTS MIL** després **d'externalitzar-ne el gimnàs i el
+  restaurant.** **Pel Nadal del 2011 els usuaris van créixer un 20% respecte de
+  l'any anterior.** **«Avui» segueix `obert`**: **les xifres són del 2011 i el
+  bolcat no en té de posteriors.**
+  **El corpus subratlla la forma de la decisió**: **un comú redueix un terç la
+  despesa d'un equipament esportiu externalitzant-ne els serveis
+  complementaris, i no l'activitat esportiva.** Vegeu
+  [els comuns](../../institucions/comuns-i-parroquies/README.md).
 - **Si el patinatge artístic andorrà** —[Melissandre Fuentes](./melissandre-fuentes.md),
-  [Marc Casal](./marc-casal.md)— **s'hi entrena.**
+  [Marc Casal](./marc-casal.md)— **s'hi entrena.** — **`parcial`, i la resposta
+  s'acosta molt sense tocar-la.** **Tots dos patinadors van néixer a Canillo**,
+  **tots dos són del mateix club de Canillo** —escrit «Orient Club Gel» en un
+  bolcat i «Orient Club Sez» en l'altre, **discrepància registrada i no
+  arbitrada**— **i el Palau de Gel és l'única pista de gel que el corpus
+  documenta al país, i és a Canillo.** **Cap font no diu expressament que s'hi
+  entrenessin**, i **el corpus no ho escriu com a fet.**
+  `deducció del corpus, no verificada.`
+- **I el que el bolcat dona i la fitxa no tenia**: **no és només una pista.**
+  **Hi ha piscina climatitzada, espai de fitness amb gimnàs, sauna i mur
+  d'escalada, un espai d'empresa amb auditori i sales de reunions, espai
+  infantil, botigues i restaurants**, i **s'hi fan cursos, sessions nocturnes
+  amb música i kàrting sobre gel.** **És un centre lúdic amb una pista de gel a
+  dins**, i **això explica per què el comú hi posava un milió d'euros.**
 
 ## Related
 

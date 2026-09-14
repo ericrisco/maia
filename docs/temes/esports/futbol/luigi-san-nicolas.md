@@ -44,10 +44,40 @@ gran** (1993). **El corpus no afirma parentiu i registra la coincidència**, com
 fa amb [Vales](./eric-vales.md), [Vieira](./xavier-vieira.md) i
 [Pérez Font](../estiu/README.md).
 
+## La carrera, club per club
+
+**Tancat el 2026-09-13 sense cap font nova.** **El material era al corpus**, al
+bolcat de la mateixa font que ha donat aquesta fitxa:
+[`Luigi_San_Nicolás.wiki`](../../../raw/web/esport/atletes/Luigi_San_Nicolás.wiki).
+
+| Anys | Club | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2008-2011 | **FC Andorra** | 15 | 0 |
+| 2011-2012 | **CE Principat** | — | — |
+| 2012-2013 | **FC Santa Coloma** | 18 | 3 |
+| 2013-2014 | **FC Andorra** | 5 | 0 |
+| 2014-2015 | **FC Ordino** | 22 | 2 |
+| 2015-2017 | **FC Lusitanos** | 30 | 9 |
+| 2017-2020 | **UE Engordany** | 62 | 18 |
+| 2020- | **Atlètic d'Escaldes** | — | — |
+
+**152 partits de club i 32 gols** en les **6 etapes** de què el bolcat en dona compte, sobre **8 en total**.
+
+*(Instantània del club del **15:32, 6 April 2021 (UTC)**.)*
+
+### Les seleccions, totes
+
+| Anys | Equip | Partits | Gols |
+| --- | --- | ---: | ---: |
+| 2018- | **Andorra** | 5 | 0 |
+
+
 ## El que falta
 
-- **Els seus cinc partits.**
-- **Si és parent de Moisés San Nicolás.**
+- **Els seus cinc partits.** — **`obert`**: el bolcat en dona el compte i no el
+  detall. **La carrera de club sí que hi és** (taula de dalt).
+- **Si és parent de [Moisés San Nicolás](./moises-san-nicolas.md).** —
+  **`obert`, confirmat**: **els dos bolcats no s'esmenten l'un a l'altre.**
 
 ## Related
 

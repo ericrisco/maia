@@ -47,7 +47,30 @@ amb [Tomás Cano](./tomas-cano.md).
 - **El BC Andorra / MoraBanc Andorra**, sencer: quan es funda, quan puja a
   l'ACB, què hi ha fet. **Buit prioritari**: és **el club esportiu andorrà de
   més nivell competitiu** que el corpus coneix.
-- **Quantes temporades** hi va jugar Navarro.
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> (`David_Navarro_(basketball).wiki`).
+
+- ~~**Quantes temporades** hi va jugar Navarro.~~ — **`resolt`: quatre**,
+  **del 2013 al 2017**, **i en va ser el capità.** **Hi va arribar quan el club
+  es deia River Andorra**, i **el bolcat li atribueix el títol de la LEB Oro
+  2012-13 «la seva primera temporada»** —**una data que no encaixa amb el
+  fitxatge del 2013 i que el corpus registra sense arbitrar-la.**
+  `Divergència interna de la font, registrada.`
+- **I el fet d'aquesta fitxa que el corpus no tenia i que val per a tota la
+  branca de seleccions**: **David Navarro va poder jugar amb la selecció
+  andorrana després de viure quatre anys al país**, **per una norma especial
+  d'elegibilitat de la FIBA Europa per a països petits**, i **hi va debutar el
+  maig del 2017, als Jocs dels Petits Estats de San Marino.**
+  **El corpus té aquí, en una fitxa de jugador, la regla que explica com un
+  país de setanta-set mil habitants fa seleccions competitives** — vegeu
+  [el bàsquet](../seleccions/el-basquet.md).
+- **La carrera sencera, que la fitxa no tenia**: **Olesa (2001-03), Melilla,
+  Rosalía de Castro, Bàsquet Manresa —debut a l'ACB el 2005—, Ciudad de Vigo,
+  Clavijo, Sant Josep Girona, València (2011), Menorca, Valladolid, ANDORRA
+  (2013-17), Obradoiro (2017-20) i Ourense (2020-21).** **Vint anys de
+  carrera.** **Va néixer a Esparreguera, Catalunya, el 17 de maig del 1983**:
+  **és espanyol**, i **el corpus ho deixa escrit al costat de la regla de la
+  FIBA que el va fer internacional andorrà.**
 
 ## Related
 

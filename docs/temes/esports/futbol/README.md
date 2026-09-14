@@ -186,9 +186,74 @@ casos l'andorrana és la mare.** Vegeu
 [Joel Martínez](./joel-martinez.md) i [Richard Imbernón](./richard-imbernon.md).
 **Ja no és una observació: és un patró documentat.**
 
+## Vint-i-nou fitxes que declaraven un buit que el corpus ja tenia ple
+
+**Tancat el 2026-09-13, i és la troballa més gran d'aquesta auditoria en nombre
+de buits.**
+
+**Vint-i-nou fitxes de futbolista d'aquesta branca declaraven, amb les mateixes
+paraules, «els anys i els partits de cada club».** **Divuit hi afegien «els seus
+gols internacionals, si en té» i onze «la resta de la seva carrera
+internacional».** **Cinquanta-vuit buits comptats, i una sola causa.**
+
+**Les vint-i-nou tenen el seu bolcat a `docs/raw/web/esport/atletes/`, dins del
+corpus** — **193 fitxers `.wiki`**, **el mateix bolcat del qual surt cada
+fitxa** — **i totes vint-i-vuit hi porten
+la fitxa de club sencera a l'infobox**: anys, club, partits i gols, etapa per
+etapa, amb la data de la instantània. **La vint-i-novena**
+([Roberto Jonas](./roberto-jonas.md)) **té els camps de club buits i, en canvi,
+la selecció any per any**, cosa que cap altra no té.
+
+> **No era informació que faltés: era informació que no s'havia destil·lat.**
+> **La distància entre el buit i la resposta era zero fitxers.**
+
+**Ara les vint-i-nou porten la taula.** **El que segueix obert és el que els
+bolcats no diuen**: **què fan ara**, i **els gols internacionals dels qui no
+tenen taula de gols a la font** — que, quan la selecció absoluta hi marca 0
+gols, vol dir que no en van fer cap.
+
+**I la mateixa operació ha donat una cosa que no s'esperava**: **creuant les
+taules de gols de cinc jugadors surten sis victòries de la selecció amb data,
+rival i marcador**, **tres de les quals el corpus no tenia** — vegeu
+[la selecció](./la-seleccio.md).
+
+### I quaranta-una més, el mateix dia i pel mateix motiu
+
+**Segona passada, 2026-09-13.** **Una segona formulació del mateix buit
+—«la resta de la carrera»— sortia en quaranta-set fitxes més**, **quaranta-cinc
+d'aquesta branca i dues d'[altres esports](../altres-esports/README.md)**.
+**Quaranta-una tenen el bolcat amb la fitxa de club sencera i ara porten la
+taula.**
+
+**Les quatre que no, i el motiu és el mateix per a totes**: **el bolcat existeix
+però és un esborrany de mitja pàgina sense infobox de clubs** —
+[Àlex Rodríguez](./alex-rodriguez.md), [Alfonso Sánchez](./alfonso-sanchez.md),
+[Dani Ferron](./dani-ferron.md) i [Xavier Soria](./xavier-soria.md).
+**Aquí el buit era exacte.**
+
+**Comptat tot junt, la branca tenia 105 registres de buit amb una sola causa i
+zero informació absent**: **58 de la primera formulació i 47 de la segona.**
+**Setanta de resolts amb el material que ja hi havia.**
+
+> **Un defecte que la segona passada deixa documentat, i val per a tota la
+> branca**: **els bolcats de futbolistes andorrans no porten lloc de
+> naixement.** **Vuit fitxes declaren «on va néixer» com a buit**
+> —[Joan Toscano](./joan-toscano.md), [David Maneiro](./david-maneiro.md),
+> [Samir Bousenine](./samir-bousenine.md), [Àlex Somoza](./alex-somoza.md),
+> [Xavi Andorra](./xavi-andorra.md), [Alexandre Martínez](./alexandre-martinez.md),
+> [Moisès San Nicolás](./moises-san-nicolas.md) i
+> [Maria Moles](./femeni/maria-moles.md)— **i el camp `birth_place` dels
+> bolcats és buit o no hi és.** **No és un buit de destil·lació: és un buit de
+> la font**, i **es tanca en un sol lloc.**
+> `Requereix font externa: la fitxa de la FAF o del club.`
+
 ## El que falta
 
-- **Les tretze victòries que el corpus no coneix.**
+- **Les tretze victòries que el corpus no coneix.** — **`parcial` des del
+  2026-09-13: en són menys.** **Sis ja tenen data i marcador**, tretes de les
+  fitxes dels jugadors mateixos ([la selecció](./la-seleccio.md)), **i una
+  d'elles —Saint Kitts i Nevis, 25 de març del 2022— el corpus no la tenia de
+  cap manera.**
 - ~~**La Primera Divisió andorrana**, el **FC Andorra** i la **Federació
   Andorrana de Futbol**: cap fitxa de cap.~~ — **tancat el 2026-09-13** amb
   [clubs i competicions](./clubs-i-competicions/README.md). **El que hi ha trobat

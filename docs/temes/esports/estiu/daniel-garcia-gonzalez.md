@@ -55,11 +55,37 @@ fins que va aparèixer el primer:
 
 **I dels tres, el de millor resultat és García, amb diferència.**
 
+## El medaller, tal com el dona la font
+
+**Tancat el 2026-09-13 sense cap font nova.** **Les medalles eren a l'infobox del
+bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`,
+**i no s'havien destil·lat.**
+
+| Metall | Edició | Prova | Competició |
+| --- | --- | --- | --- |
+| 🥇 **Or** | **Luxemburg 2013** | 73 kg | Jocs dels Petits Estats d'Europa |
+
+**1 medalla en total**: **1 d'or**.
+
+**L'única als Jocs dels Petits Estats d'Europa.**
+
 ## El que falta
 
-- **Els seus combats de Londres**: contra qui, com hi va arribar novè.
-- **El seu resultat de Pequín.**
-- **El seu palmarès europeu i mundial**, i els Jocs dels Petits Estats.
+> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
+> ([`Daniel_García_González.wiki`](../../../raw/web/esport/atletes/Daniel_García_González.wiki)). **La resposta era dins del
+> corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
+> citava.**
+
+- **Els seus combats de Londres**: contra qui, com hi va arribar novè. —
+  **`obert`, confirmat, i el motiu és de font**: **el bolcat és de dues línies**
+  i **només diu que va competir en -66 kg a Pequín 2008 i a Londres 2012.**
+  **Cap rival, cap ronda, cap resultat.**
+- **El seu resultat de Pequín.** — **`obert`, confirmat, pel mateix motiu.**
+- ~~**On va néixer**~~ — **`resolt` de passada**: **Andorra la Vella, 9
+  d'octubre del 1984.**
+- **El seu palmarès europeu i mundial** — **`obert`, confirmat** —, i ~~els Jocs
+  dels Petits Estats~~ — **`resolt` el 2026-09-13**: **or a Luxemburg 2013, en
+  -73 kg** (medaller de dalt).
 - **La Federació Andorrana de Judo.**
 
 ## Related

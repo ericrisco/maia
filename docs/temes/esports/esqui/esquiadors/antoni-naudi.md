@@ -37,6 +37,10 @@ apareix a l'equip olímpic i al Consell General**.
 - **Qui era i qui és.** Ofici, club, família, si segueix vinculat a l'esquí.
 - **La seva biografia d'atleta de la FIS**, que la font cita i el corpus no ha
   consultat.
+  — **`obert`, confirmat el 2026-09-13, i ara amb la clau de pas**: el bolcat
+  d'aquesta mateixa font, dins del corpus, hi porta l'identificador —
+  **el número de FIS és `222405`** i **el d'Olympedia, `95757`**.
+  **Consultar-la deixa de ser una cerca.** Vegeu [els esquiadors](./README.md).
 
 ## Related
 
