@@ -119,6 +119,13 @@ Vegeu [l'hereu i el cabaler](./lhereu-i-el-cabaler.md) i [tan fecunds com el sò
 > per un rector**, **just després d'haver recollit l'acusació dels notaris que als
 > testaments dels rectors els llegats pius hi ocupen un gran lloc**. **Un cas no
 > prova una tendència**, i **la font no els relaciona.**
+>
+> **Confirmat el 2026-09-18.** **Cinc pàgines més endavant la font sí que ho
+> relaciona**: aquestes clàusules **«es troben sobretot als testaments redactats
+> pels rectors»**, **tot i que també n'ha trobat en testaments rebuts per notaris i
+> de data recent**. **I hi afegeix la tècnica**: **Déu, els sants i l'ànima tenen
+> personalitat jurídica i posseeixen per mitjà de tutors o curadors** ([la
+> institució no és pública](./la-institucio-no-es-publica.md)).
 
 ## El testament sacramental
 

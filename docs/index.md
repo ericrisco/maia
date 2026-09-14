@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**867** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**868** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -707,6 +707,7 @@
 | [Es va treure el barret perquè feia vent](temes/historia/antic-regim/es-va-treure-el-barret-perque-feia-vent.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Fas hereva la mia ànima](temes/historia/antic-regim/fas-hereva-la-mia-anima.md) | `temes/historia/antic-regim` | compilada | historica | no | `brutails-coutume-1904` |
 | [La casa als papers](temes/historia/antic-regim/la-casa-als-papers.md) | `temes/historia/antic-regim` | compilada | historica | no | `camiade-concepte-didentitat-1990` |
+| [La institució no és pública](temes/historia/antic-regim/la-institucio-no-es-publica.md) | `temes/historia/antic-regim` | compilada | historica | no | `brutails-coutume-1904` |
 | [La nissaga Perich, o per què una casa andorrana canvia de nom](temes/historia/antic-regim/la-nissaga-perich.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `wikipedia-familia-perich` |
 | [La quèstia](temes/historia/antic-regim/la-questia.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `vela-ordinacions-segle-xv` |
 | [L'antic règim](temes/historia/antic-regim/lantic-regim.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `iec-vocabulari-andorra` |
