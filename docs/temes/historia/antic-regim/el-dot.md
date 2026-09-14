@@ -124,6 +124,49 @@ I per això avui **la separació de béns és el règim supletori legal** — i 
 quedar quan el tradicional va desaparèixer.** Per això la creença és tan
 versemblant: **és certa sobre el present i falsa sobre el passat**.
 
+## Refet contra la font primària
+
+**El 2026-09-18** aquesta fitxa, **escrita des d'una font secundària**, s'ha
+contrastat amb **la secció «La dot» de *La Coutume d'Andorre* de J.-A. Brutails
+(1904), pàgines 123-129**
+([la unitat](./segons-lo-poder-de-la-casa-a-coneixenca-dels-amics.md)).
+
+**Què confirma la primària:**
+
+- **El dot és retornable**, i **la font en dona execucions reals** —**24 de març
+  de 1784**, el batlle **fa avaluar el dot d'una vídua i envia el reclamant en
+  possessió**— i **el 10 de setembre de 1785 una *agraduació* el col·loca al
+  primer rang dels crèdits**.
+- **La hipoteca dotal existia i pesava**: **tant que uns esposos que havien de
+  vendre l'immoble gravat es van creure obligats a demanar permís al batlle**,
+  quan **Brutails mateix no sap del cert si la hipoteca era legal o només d'estil**.
+
+**Què amplia:**
+
+- **Ni el costum ni el dret català no fixaven la quantia**: la decidien **«a
+  coneixença dels amics, segons lo poder de la casa»** —fórmula documentada el
+  **1467, 1470, 1500 i 1561**—, i **per això el dot d'una germana no obligava a
+  igualar el de l'altra**.
+- **El dot és una bestreta sobre la llegítima**, i **per sentència del 27 d'abril
+  de 1889 un dot fixat en testament té caràcter de llegítima paterna** i **per
+  tant no admet cap càrrega ni condició**.
+- **Dotze dots datats entre 1470 i 1875**, amb les seves compensacions: **la
+  sèrie que el buit 2 demanava.**
+- **Quan la dona és l'hereva el dot el porta l'home** —*exovar*, *aixovar*—, i
+  **està pitjor garantit**: **té hipoteca però no opció dotal ni *tenuta***.
+
+**On divergeix o matisa:**
+
+- **Sobre qui podia vendre**: aquesta fitxa presenta el dot com a protecció de la
+  dona; **la primària diu que «en general marit i dona figuren com a venedors»** i
+  **que de vegades és ella qui ven amb autorització d'ell** —**mentre que un altre
+  batlle va anul·lar una venda d'una dona per manca d'autorització marital**.
+  **La regla i la pràctica no coincideixen i el corpus no les arbitra.**
+- **Sobre el règim «mixt»**: la primària **no fa servir la parella dotal /
+  separació de béns**; descriu **comunitat convencional** *(agermanament)* i
+  **comunitat de guanys** *(millores migeres)* com les figures alternatives.
+  **Els dos marcs no es contradiuen, però no són el mateix mapa.**
+
 ## Buits registrats
 
 1. **Quan** desapareix el dot, com a costum i com a llei. **Cap data.**
