@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**914** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**915** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -931,6 +931,7 @@
 | [Cronologia legislativa del segle XX](temes/institucions/justicia/cronologia-legislativa.md) | `temes/institucions/justicia` | compilada | contemporania | no | `pujadas-dret-andorra` |
 | [De saig a batlle, el set de juny de 1456](temes/institucions/justicia/de-saig-a-batlle-el-set-de-juny-de-1456.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Deu dies de dret i tres de gràcia](temes/institucions/justicia/deu-dies-de-dret-i-tres-de-gracia.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
+| [Dissabte dotze de gener, dilluns vint-i-vuit](temes/institucions/justicia/dissabte-dotze-de-gener-dilluns-vint-i-vuit.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Dos de tres, i les parts no ho saben](temes/institucions/justicia/dos-de-tres-i-les-parts-no-ho-saben.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Dos sous per lliura, perquè no s'apel·li](temes/institucions/justicia/dos-sous-per-lliura-perque-no-sapelli.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Dotze sentències de tretze les escrivia un altre](temes/institucions/justicia/dotze-sentencies-de-tretze-les-escrivia-un-altre.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |

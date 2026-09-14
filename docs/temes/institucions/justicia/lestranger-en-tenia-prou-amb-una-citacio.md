@@ -215,8 +215,14 @@ d'appel»** i l'obertura de **«Du premier appel»** (p. 273-276) del capítol V
 1. **Quina parròquia, quin reglament i quan** en el *recurs de queixa* que els
    Cosenyors van acollir. **La font diu «recentment».** **Prioritari**: **és un
    precedent de control dels actes del Consell General.**
-2. **El final de la frase de la p. 276** sobre per què les mesures d'execució són
-   apel·lables a Andorra. **L'extracció la talla.** `Requereix la pàgina impresa.`
+2. ~~**El final de la frase de la p. 276** sobre per què les mesures d'execució
+   són apel·lables a Andorra.~~ — **Tancat el 21-09-2026**: **«*ja que, al costum
+   andorrà, **certes requestes són dispensades del procediment de judici i van
+   immediatament seguides d'execució***»**
+   ([dissabte dotze de gener, dilluns vint-i-vuit](./dissabte-dotze-de-gener-dilluns-vint-i-vuit.md)).
+   **Si hi ha requestes que s'executen sense judici, no poder apel·lar l'execució
+   voldria dir no poder apel·lar-les mai.** **Queda obert quines són exactament
+   aquestes requestes**: **la font en dona la categoria i no la llista.**
 3. **Els exemples de multes al batlle pel Jutge**, i **l'acord de tercera
    instància que reprèn els dos batlles.** **La font diu que n'hi ha i no en cita
    cap.**
