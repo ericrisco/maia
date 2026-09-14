@@ -220,9 +220,18 @@ n'ha llegit:**
 8. **El manuscrit del senyor Palmitjavila** —**setena tanda seguida**, i aquí
    és **l'única font de la finestra de Sant Miquel a Sant Miquel**. **Sense
    identificar ni datar.** **Prioritari per acumulació.**
-9. **Si la finestra de Sant Miquel a Sant Miquel es complia**, **i si hi ha Corts
-   documentades fora d'ella.** **El corpus té Corts obertes l'1 i el 3 de maig**
-   —**1484 i 1453**— **que hi cauen just al límit.**
+9. ~~**Si la finestra de Sant Miquel a Sant Miquel es complia**, **i si hi ha
+   Corts documentades fora d'ella.**~~ — **Tancat el 20-09-2026, i la resposta ja
+   era al corpus.** **No es complia, i el país ho protestava.** **El 17 de
+   setembre de 1516 el veguer i el jutge ordinari, reunits a la casa del Consell,
+   volien tenir Corts **abans de la festa de sant Miquel**, i els cònsols i
+   consellers hi van protestar dient que **poden tenir-les però que en endavant no
+   ho podran al·legar**; i **va tornar a passar el 16 de setembre de 1517**
+   ([manllevat de la justícia i promès de tornar](./manllevat-de-la-justicia-i-promes-de-tornar.md)).
+   **La finestra és real —el país la invoca— i s'incomplia per l'extrem
+   d'obertura**, **amb la mateixa fórmula de protesta que Andorra feia servir per
+   als lloctinents: admetre i negar el precedent.** **Segueix obert si hi ha Corts
+   documentades dins l'estiu**, **que és l'altra meitat de l'exclusió.**
 10. **Quins eren els «delictes de gravetat secundària»** que cada veguer jutjava
     sol, **i on era el llindar.**
 11. **Quants anys va estar impedit el veguer episcopal** «recentment» abans del

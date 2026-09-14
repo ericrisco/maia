@@ -248,6 +248,14 @@ font sobre ella mateixa:**
 4. **La resposta del bisbe Catalán de Ocón (1757-1762) al Consell General** sobre
    les funcions dels *rahonadors*. **La font només n'ha vist una anàlisi i diu
    que no en treu res.** `Requereix font externa: arxiu del bisbat.`
+   - **`parcial` des del 20-09-2026: sí que en treu una cosa, dues pàgines més
+     enllà.** **La carta «*especifica que les funcions de *procurador fiscal* no
+     poden ser confiades als *rahonadors*»** (p. 256, nota 4)
+     ([només per aquesta vegada](./nomes-per-aquesta-vegada-i-que-no-faci-precedent.md)).
+     **Una incompatibilitat, i coherent amb el circuit d'aquesta pàgina**: **qui
+     intercedeix per l'acusat i porta els comptes de les multes no pot ser qui
+     l'acusa.** **Segueix obert tot el que la carta digui de positiu sobre què
+     **sí** que feien.**
 5. **Qui feia d'agutzil als tribunals de visura**, si el *nunci* no hi servia.
    **La font ho exclou i no ho substitueix.**
 6. **El manuscrit del senyor Palmitjavila** —**novena tanda seguida**— i **el
