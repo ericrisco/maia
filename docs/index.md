@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**856** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**857** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1228,6 +1228,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Casar-se a Andorra](temes/societat/familia/casar-se-a-andorra.md) | `temes/societat/familia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Els drets dels infants](temes/societat/familia/els-drets-dels-infants.md) | `temes/societat/familia` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [En edat de fer testament](temes/societat/familia/en-edat-de-fer-testament.md) | `temes/societat/familia` | compilada | historica | no | `brutails-coutume-1904` |
 
 ## temes/societat/habitatge
 
