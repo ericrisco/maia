@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**857** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**858** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -711,6 +711,7 @@
 | [Les estratègies matrimonials](temes/historia/antic-regim/les-estrategies-matrimonials.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `camiade-migracions` |
 | [L'hereu i el cabaler](temes/historia/antic-regim/lhereu-i-el-cabaler.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `rodriguez-minana-notaris` |
 | [Primer la terra](temes/historia/antic-regim/primer-la-terra.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `brutails-coutume-1904` |
+| [Tan fecunds com el sòl és infèrtil](temes/historia/antic-regim/tan-fecunds-com-el-sol-es-infertil.md) | `temes/historia/antic-regim` | compilada | historica | no | `brutails-coutume-1904` |
 | [Una persona, un bou, un colomer](temes/historia/antic-regim/una-persona-un-bou-un-colomer.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `brutails-coutume-1904` |
 
 ## temes/historia/constitucio-1993

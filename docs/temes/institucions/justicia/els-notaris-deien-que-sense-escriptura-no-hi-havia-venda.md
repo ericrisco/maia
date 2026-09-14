@@ -215,9 +215,15 @@ les vendes judicials. Vegeu
    1904 queia en desús.`
 7. **«Lo dret de cinch sous»**: **en què consistia exactament** i **si la xifra
    era simbòlica o efectiva.** `obert, nou.`
-8. **Si a Andorra hi va haver mai *paumée*, anell de compromís o *brandon***, o
-   **si la font es limita a constatar que no els va veure.** `obert, i la
-   distinció importa.`
+8. ~~**Si a Andorra hi va haver mai *paumée*, anell de compromís o *brandon***, o
+   **si la font es limita a constatar que no els va veure.**~~ — **`parcial` des
+   del 2026-09-18, i la resposta és a la mateixa obra**: **a la p. 116**, una
+   declaració judicial **del segle XV** recull que la parella **«*doná jogos...
+   ço es anells*»** per recolzar una ***sposalla***. **L'anell de compromís no
+   era desconegut a Andorra: havia deixat d'existir** abans que Brutails
+   arribés. Vegeu [tan fecunds com el sòl és
+   infèrtil](../../historia/antic-regim/tan-fecunds-com-el-sol-es-infertil.md).
+   **La *paumée* i el *brandon* segueixen oberts.**
 
 **Un buit de la font no és un buit del món.** Que **Brutails no trobés aquells
 ritus** vol dir **que no els va veure el 1900**: **el corpus té folklore i costums
