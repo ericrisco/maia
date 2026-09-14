@@ -173,7 +173,14 @@ poder-los llogar, es van acabar oferint de franc perquè algú hi pugés.**
    ([dos de tres, i les parts no ho saben](../../institucions/justicia/dos-de-tres-i-les-parts-no-ho-saben.md)).
    **El que segueix obert és exactament el que demanava el buit: el contingut.**
    La *Instructa* **no diu què hi constava** i **el corpus no en té cap
-   exemplar.**
+   exemplar.** **I el 15-09-2026 hi apareix un nom de contracte veí**: un acte de
+   manlleuta del **12 d'octubre del 1797** descriu un treballador de Canillo que
+   tenia **«lo bestiar de llana» d'un pagès d'Agramunt «a mitg guany»** i el va
+   vendre sense permís
+   ([manllevat de la Justícia](../../institucions/justicia/manllevat-de-la-justicia-i-promes-de-tornar.md)).
+   **`A mig guany` reparteix el guany per meitat**, i **és un ramat de fora en
+   mans andorranes**, que és la figura que aquesta fitxa descriu sense contracte
+   al darrere. **El corpus no afirma que sigui el mateix que el `conlloc`.**
 5. **Si la transhumància de repoblament dels anys 1990 continua avui**, i amb
    quants caps.
 6. **Els *emprius* i els *cortons***: la diferència jurídica exacta entre uns i

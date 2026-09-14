@@ -162,7 +162,17 @@ entre els seus membres, «en una divisió de funcions pròpies d'un govern». El
 
 ## Buits registrats
 
-1. **Els rahonadors** — origen, funcions reals, quan desapareixen.
+1. **Els rahonadors** — origen, funcions reals, quan desapareixen. —
+   **`parcial` des del 15-09-2026: una funció real i datada.** El **1887**, un
+   home condemnat per **emissió de moneda falsa** a un any de presó i mil
+   pessetes de multa va quedar lliure sota fiança, i **amb el parer dels
+   rahonadors la presó es va commutar en un any de bandejament i mil pessetes
+   més**
+   ([manllevat de la Justícia](./manllevat-de-la-justicia-i-promes-de-tornar.md)).
+   **El seu parer intervenia en la commutació de penes.** I n'hi ha una segona,
+   per negació: **el bisbe Catalán de Ocón va especificar que les funcions de
+   `procurador fiscal` no se'ls podien encomanar**. **Segueixen oberts l'origen
+   i la data final.**
 2. **El Tribunal de Visures** — composició i procediment.
 3. **El Tribunal Superior d'Andorra a Perpinyà** — quan es crea exactament, quan
    s'extingeix. — **`parcial` des del 15-09-2026: la creació sí, l'extinció
@@ -180,7 +190,17 @@ entre els seus membres, «en una divisió de funcions pròpies d'un govern». El
    s'extingeix**: Brutails escriu el 1904 i **el corpus no té cap norma de
    supressió**, ni els textos dels dos decrets.
 4. **Casos concrets** jutjats sense advocat. **Hi ha memòria viva d'això.**
-5. **Les presons** andorranes d'aquell període.
+5. **Les presons** andorranes d'aquell període. — **`parcial` des del
+   15-09-2026: una, amb data.** Un acte de manlleuta del **12 d'octubre del
+   1797** diu que el fiat estava **«pres y detingut en la casa de la Vall»**
+   ([manllevat de la Justícia](./manllevat-de-la-justicia-i-promes-de-tornar.md)).
+   **Es tancava gent a l'edifici del Consell General.** **Segueix obert** si era
+   l'única, des de quan i fins quan. I **hi ha una via de detenció que no passava
+   per cap presó de la Justícia**: per **decisió del Consell General del 12 de
+   maig del 1866**, els cònsols podien capturar **«sia ab ferros, sia ab
+   arrest»** qui fes mal al bestiar o robés llenya o fruits, **detenir-lo «lo
+   temps que be los apareguie»** i **deixar-lo anar «sens recorrer a la Justicia
+   ni a manlleutarlos»**.
 6. ~~**Els delegats permanents** — qui eren i des d'on despatxaven.~~ —
    **Tancat el 15-09-2026.** El **delegat permanent del Govern francès per als
    afers d'Andorra era el prefecte dels Pirineus Orientals**, i despatxava des

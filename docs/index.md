@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**816** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**817** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -906,6 +906,7 @@
 | [Les penes del Codi Penal](temes/institucions/justicia/les-penes-del-codi-penal.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [L'execució forçosa](temes/institucions/justicia/lexecucio-forcosa.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [L'ordenament jurídic avui](temes/institucions/justicia/lordenament-juridic-avui.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [Manllevat de la Justícia, i promès de tornar](temes/institucions/justicia/manllevat-de-la-justicia-i-promes-de-tornar.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [«Mort, qui t'ha mort?»](temes/institucions/justicia/mort-qui-tha-mort.md) | `temes/institucions/justicia` | compilada | contemporania | no | `wikipedia-llegendes-andorra` |
 | [Quants notaris](temes/institucions/justicia/quants-notaris.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Qui nomena els jutges](temes/institucions/justicia/qui-nomena-els-jutges.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |

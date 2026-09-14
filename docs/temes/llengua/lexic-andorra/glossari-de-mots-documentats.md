@@ -91,6 +91,11 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **judicació** | la taxació i adjudicació de béns a un creditor, feta per **judicadors jurats**. **Els perits per a finques rústiques «se nombran casi sempre de entre las autoritats»**, per decret del Consell General del **20-12-1896** |
 | **agraduació** | l'ordenació dels creditors en una cessió de béns, per **«prioritat de temps y majoria de dret»** |
 | **postor** | qui fa una oferta en una subhasta. **Documentat en un acte del 26-05-1783** |
+| **manlleuta**, **manlleutat** | la fiança que treu un pres de la presó. **Literalment, «manllevat»: qui el fiava el prenia en préstec a la Justícia i prometia tornar-l'hi**, i els actes del **1551 i el 1553** ho diuen així —«**pren a maleuta la persona de**»— amb terminis de sis dies si era dins les Valls i deu si era a fora. **El mot va perdre aquest sentit poc abans del 1904** ([font primària](../../institucions/justicia/manllevat-de-la-justicia-i-promes-de-tornar.md)) |
+| **pena trencada** | la pena incorreguda pel manlleutat que no compareix |
+| **guiat** | l'acusat que ha rebut **un salconduit vàlid fins a les Corts següents**. El Politar el posa al costat del *manlleutat* |
+| **a mig guany** | contracte de bestiar **que reparteix el guany per meitat**. **Documentat el 12 d'octubre del 1797** entre un pagès d'Agramunt i un treballador de Canillo. **No consta si és el mateix que el `conlloc`** |
+| **fermansa** | fiador. A la manlleuta del 1797 **renuncia a la llei que mana executar primer el principal** i **a la que fa caure l'accessori si falta el principal**: **es pot anar contra ell directament** |
 | **ordinació** | norma d'un comú |
 | **foc i lloc** | impost parroquial |
 | **consòrcia** | unió de persones amb un interès comú que s'ajuden en cas de necessitat |
