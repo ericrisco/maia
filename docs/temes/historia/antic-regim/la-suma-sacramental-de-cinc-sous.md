@@ -142,7 +142,12 @@ secció següent ho diu:**
 
 > **Buit tancat en la seva part principal.** **Cinc sous era la quantitat amb què
 > es donava per complerta la llegítima**: **no un obsequi ni un oblit, sinó una
-> fórmula d'extinció.** **El corpus registra que això explica el llegat simbòlic
+> fórmula d'extinció.** **I la funció processal consta a la secció següent**:
+> **els cinc sous serveixen «per tenir un pretext d'escriure el seu nom» i per
+> «prevenir la nul·litat de què podria ser colpit el testament on tots els fills,
+> fins i tot els pòstums, no són anomenats»** ([domèstics d'un rang una mica més
+> elevat](./domestics-dun-rang-una-mica-mes-elevat.md)). **No paguen ningú:
+> permeten escriure'n el nom.** **El corpus registra que això explica el llegat simbòlic
 > de 1500 i de 1876**, i **manté separat el «sostre de cinc sous per tractar sol»
 > dels contractes de 1697 i 1831**, **que és una altra cosa**, i **el «dret de
 > cinch sous»** de l'aranzel, **que segueix obert**.
@@ -187,8 +192,14 @@ Andorra qui no té fills és menys lliure](./a-andorra-qui-no-te-fills-es-menys-
    Principat)* i **no en dona cap d'andorrana.**
 3. **L'ordre de magnitud de les llegítimes de 1874** —**750 contra 200**— segueix
    obert: **ara se'n sap la raó, no la mesura.**
-4. **Quantes accions de complement de llegítima van prosperar**, i **des de
-   quan s'admeten.** **La font diu «molt ben admeses» i no en data cap.**
+4. ~~**Quantes accions de complement de llegítima van prosperar**, i **des de
+   quan s'admeten.** **La font diu «molt ben admeses» i no en data cap.**~~ —
+   **`parcial` des del 2026-09-18: ara n'hi ha dues datades.** **19 de febrer de
+   1848**, sentència del batlle Jaume Casal **a favor de dos fills a qui el pare
+   havia donat 2 lliures «en via de colocacio de matrimoni»**, i **un arrest del
+   Jutge d'Apel·lacions en el mateix sentit el 1891** ([domèstics d'un rang una
+   mica més elevat](./domestics-dun-rang-una-mica-mes-elevat.md)). **Segueix sense
+   haver-hi sèrie.**
 5. **Què deia el Politar** sobre la impossibilitat del fill de demanar
    l'anul·lació del testament patern. `Requereix font externa: el Politar, la part
    que el corpus encara no ha obert.`
