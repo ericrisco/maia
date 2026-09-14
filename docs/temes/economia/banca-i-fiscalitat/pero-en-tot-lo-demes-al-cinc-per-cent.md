@@ -105,6 +105,13 @@ fos un descuit de l'autor.**
 > «*Considerant que **lo arrendament es contracte consensual, que queda per fet y
 > valido ab lo sol consentiment de las parts***.*»
 
+> **Divergència de data, registrada el 2026-09-18 i no arbitrada.** **La mateixa
+> obra data aquesta sentència dues vegades**: **«16 de juny de 1886» a la p. 87** i
+> **«16 de juny de 1888» a la p. 183, nota 1**, amb la mateixa doctrina. **El corpus
+> tenia la primera** ([els notaris deien que sense escriptura no hi havia
+> venda](../../institucions/justicia/els-notaris-deien-que-sense-escriptura-no-hi-havia-venda.md))
+> **i ara hi té les dues.**
+
 **I per això, diu la font, **no és habitualment objecte d'acte notarial**, i **el
 prenedor fa garantir per una caució el pagament puntual dels endarreriments
 vençuts, *arrendaments vensuts*.**

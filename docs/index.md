@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**885** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**886** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -969,6 +969,7 @@
 | [Un fadrí sense casa sí que es pot emparar](temes/institucions/justicia/un-fadri-sense-casa-si-que-es-pot-emparar.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Un pernil i dos formatges per dobla](temes/institucions/justicia/un-pernil-i-dos-formatges-per-dobla.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Una creu al prat, sis sous i sis diners](temes/institucions/justicia/una-creu-al-prat-sis-sous-i-sis-diners.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
+| [Una quitança per un preu que encara es devia](temes/institucions/justicia/una-quitanca-per-un-preu-que-encara-es-devia.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Y si no tenen, paciència](temes/institucions/justicia/y-si-no-tenen-paciencia.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 
 ## temes/institucions/nacionalitat-i-residencia

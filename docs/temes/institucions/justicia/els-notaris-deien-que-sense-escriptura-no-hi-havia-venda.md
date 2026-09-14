@@ -201,7 +201,18 @@ les vendes judicials. Vegeu
 ## Buits registrats
 
 1. **Les dues sentències de 1886** —**14 de maig** i **16 de juny**— que
-   declaren consensuals la venda i l'arrendament. `obert, datat.`
+   declaren consensuals la venda i l'arrendament. `obert, datat.` — **`parcial`
+   des del 2026-09-18, amb contingut i amb una divergència de data.** **De la del
+   14 de maig de 1886 ja se'n sap el raonament**: **la venda és perfecta des que
+   les parts es posen d'acord sobre l'objecte i el preu, i el batlle remet al
+   Digest**; **i hi ha una sentència germana del 17 d'octubre de 1885 que hi
+   afegeix que sense preu fixat no hi ha venda**, citant «*la ley 27, Pr. D., De
+   contrah. empt.*»
+   ([una quitança per un preu que encara es
+   devia](./una-quitanca-per-un-preu-que-encara-es-devia.md)).
+   **I la de l'arrendament la mateixa obra la data dues vegades**: **16 de juny de
+   1886 a la p. 87** i **16 de juny de 1888 a la p. 183, nota 1**, amb la mateixa
+   doctrina. **El corpus registra les dues i no arbitra.**
 2. **El decret del Consell General del 16 de març de 1887** que anul·la la
    sentència del suplent del Jutge d'Apel·lacions. `obert, datat i prioritari.`
 3. **Quines són «las lleys del pais»** que preveien expressament el jurament del
