@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**831** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**832** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -908,6 +908,7 @@
 | [La llei penitenciària](temes/institucions/justicia/la-llei-penitenciaria.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La pena de mort](temes/institucions/justicia/la-pena-de-mort.md) | `temes/institucions/justicia` | compilada | contemporania | no | `wikipedia-pena-de-mort-andorra` |
 | [La presó sense llei](temes/institucions/justicia/la-preso-sense-llei.md) | `temes/institucions/justicia` | compilada | contemporania | no | `canturri-delinquencia-reinsercio-2007` |
+| [La sentència en llatí, la pena en català](temes/institucions/justicia/la-sentencia-en-llati-la-pena-en-catala.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [L'administració no paga multa](temes/institucions/justicia/ladministracio-no-paga-multa.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Les fonts del dret](temes/institucions/justicia/les-fonts-del-dret.md) | `temes/institucions/justicia` | compilada | contemporania | no | `pujadas-dret-andorra` |
 | [Les lleis qualificades](temes/institucions/justicia/les-lleis-qualificades.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |

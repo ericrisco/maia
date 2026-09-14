@@ -183,6 +183,28 @@ en transitius pronominalitzats, el perfet es feia **amb *ser* i participi** —*
 arribat»**— i no amb *haver*. Avui això es manté a la Ribagorça, al Rosselló, a
 Menorca i a Mallorca; **d'Andorra ha desaparegut**.
 
+## Una cosa que sí que consta, i és d'ús
+
+**Afegit el 16-09-2026, des d'una font primària.** El ***Ceremonial* del
+Politar** —llibre IV, capítol III, paràgraf II— descriu la lectura pública de les
+sentències criminals majors i hi diu, de passada, una cosa de llengua:
+
+> «se li llegira la sentencia, **laqual, regularment per ser en lleti, li
+> explicara lo notari en catala la substancia de ella y la pena**»
+> ([la sentència en llatí, la pena en català](../../institucions/justicia/la-sentencia-en-llati-la-pena-en-catala.md))
+
+**La sentència escrita era en llatí i l'explicació oral al condemnat, en
+català**, **i el protocol ho preveu com a cas normal** —«regularment per ser en
+lleti»—, **no com a excepció.**
+
+**No és un tret de llengua**: no diu res de com es parlava. **És un fet d'ús
+documentat**: **quina llengua tenia el document i quina tenia la veu**, en un
+acte públic del segle XVIII.
+
+`El corpus no en dedueix res sobre el grau de llatinització de la resta de
+l'escriptura judicial andorrana: aquest text parla de les sentències criminals
+majors i de cap altra peça.`
+
 ## Buits registrats
 
 **S'ha destil·lat una quarta part del llibre.** Introducció (p. 7-12), lèxic

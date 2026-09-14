@@ -404,8 +404,11 @@ asseguts; els nuncis drets i descoberts**—; i **el termini que fa néixer les
 penes trencades**: **tres dies més el de la publicació de les Corts**, passats
 els quals **«incorren les fianses a les penes de la fiaduria… quedant los
 delictes en son enter estat»**. **Segueix obert el capítol 2 del mateix llibre
-IV**, el dels juraments, **que Brutails no reprodueix**; i **els paràgrafs II,
-III i IV del Ceremonial**, que **no s'han destil·lat**.
+IV**, el dels juraments, **que Brutails no reprodueix**. **El paràgraf II ja està
+destil·lat** —la lectura pública de les sentències majors, amb **el notari
+explicant en català la substància d'una sentència escrita en llatí**
+([la sentència en llatí, la pena en català](./la-sentencia-en-llati-la-pena-en-catala.md))—
+i **el III, que és on apareix l'executor que es feia venir de fora, encara no.**
 
 **El *Ceremonial* no és al corpus**, i aquest capítol hi remet **quatre
 vegades**: *verbo Corts*, **llibre 4, capítol 3**, i el **paràgraf 1** per a la
