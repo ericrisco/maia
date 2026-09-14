@@ -238,7 +238,12 @@ mateix**.
    > episcopal, «impresa al capdavant de la Reforma»**, que **té paràgrafs propis
    > i valor normatiu** —Brutails en treu del **§ 1** la renovació per meitat del
    > Consell General.
-2. **L'apèndix de la Reforma, pàgina 14**, amb l'obligació de mestre i mestra.
+2. **L'apèndix de la Reforma**, del qual el corpus coneix ara **dues pàgines
+   seguides de contingut**: **la 13**, on **ja es parla del projecte de codificar
+   els costums** que el Consell General encarregaria el **17 de desembre de
+   1868** *(Brutails, p. 56, nota 2)*, i **la 14**, amb **l'obligació de mestre i
+   mestra per parròquia**. **Segueix sense ser al corpus.** `obert, prioritari`
+   ([cinc respostes a la mateixa pregunta](../../institucions/justicia/cinc-respostes-a-la-mateixa-pregunta.md)).
 3. **En què consistien les «facilitats» de naturalització** per al cap de casa
    estranger.
 4. **Quan es va passar del vot per casa al vot per persona**, i amb quina norma.

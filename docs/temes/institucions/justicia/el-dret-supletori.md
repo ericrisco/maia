@@ -148,6 +148,27 @@ mais d'une commune origine**». Per a
 [la branca de llengua](../../llengua/manlleus/manlleus.md), és una llista de
 manlleus jurídics datada el 1904.
 
+## El mateix capítol diu per què la prelació no bastava
+
+**Afegit el 2026-09-16 des de [Brutails](../../../fonts/brutails-coutume-1904.md),
+capítol III, pp. 55-56** ([la unitat destil·lada](./cinc-respostes-a-la-mateixa-pregunta.md)).
+**Aquesta fitxa recull quin dret s'aplicava i en quin ordre.** Unes pàgines més
+avall, **el mateix autor explica per què saber-ho no resolia gaire:**
+
+> «**un grup tan restringit no té un nombre suficient de litigis per alimentar una
+> jurisprudència**», i aquella jurisprudència, «**no estant consignada en cap
+> recull metòdic, és indecisa i fluctuant**».
+
+I ho demostra amb **una pregunta corrent feta a qui l'havia de contestar**: quins
+drets té la vídua sobre els béns del marit. **Notables, antics batlles, batlles en
+exercici i juristes li van donar cinc respostes diferents.**
+
+**I contra la conclusió fàcil, la font s'hi oposa expressament**: que el costum
+andorrà s'assembli al català **no vol dir que no existeixi** —**Agramunt manllevava
+al costum de Barcelona el 1113 i Jaca al de Montpeller el 1134**—, i **el 1904 la
+diferència que compta és que «el dret català està molt escapçat, mentre que el
+costum andorrà és sempre viu».**
+
 ## Buits registrats
 
 > **Auditats contra la resta del corpus el 2026-09-13.** **Dos han canviat

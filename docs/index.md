@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**839** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**840** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -896,6 +896,7 @@
 | [Abrogats el 1839, aplicats el 1889](temes/institucions/justicia/abrogats-el-1839-aplicats-el-1889.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Ben arrimat a la paret contrària a l'església](temes/institucions/justicia/ben-arrimat-a-la-paret-contraria-a-lesglesia.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [«Cadàver, alça't que la Justícia et demana»](temes/institucions/justicia/cadaver-alsat-que-la-justicia-te-demana.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
+| [Cinc respostes a la mateixa pregunta](temes/institucions/justicia/cinc-respostes-a-la-mateixa-pregunta.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Cronologia legislativa del segle XX](temes/institucions/justicia/cronologia-legislativa.md) | `temes/institucions/justicia` | compilada | contemporania | no | `pujadas-dret-andorra` |
 | [Dos de tres, i les parts no ho saben](temes/institucions/justicia/dos-de-tres-i-les-parts-no-ho-saben.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Dos sous per lliura, perquè no s'apel·li](temes/institucions/justicia/dos-sous-per-lliura-perque-no-sapelli.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
