@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**846** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**847** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -925,6 +925,7 @@
 | [L'ordenament jurídic avui](temes/institucions/justicia/lordenament-juridic-avui.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Manllevat de la Justícia, i promès de tornar](temes/institucions/justicia/manllevat-de-la-justicia-i-promes-de-tornar.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [«Mort, qui t'ha mort?»](temes/institucions/justicia/mort-qui-tha-mort.md) | `temes/institucions/justicia` | compilada | contemporania | no | `wikipedia-llegendes-andorra` |
+| [Ni amb els seus peus ni amb els peus d'altri](temes/institucions/justicia/ni-amb-els-seus-peus-ni-amb-els-peus-daltri.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Nul per al jutge, vàlid per a la consciència](temes/institucions/justicia/nul-per-al-jutge-valid-per-a-la-consciencia.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Pagat un poc abans d'obrar](temes/institucions/justicia/pagat-un-poc-abans-dobrar.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Quants notaris](temes/institucions/justicia/quants-notaris.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |

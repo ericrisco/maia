@@ -203,6 +203,28 @@ jurats**— hi ha una nota final:
 **El primer creditor de qualsevol insolvència andorrana del 1740 és el
 procediment mateix.**
 
+## Una segona lectura del passatge de la presó per deutes
+
+**Afegit el 2026-09-17 des de [Brutails](../../../fonts/brutails-coutume-1904.md),
+capítol IV, p. 83** ([la unitat destil·lada](./ni-amb-els-seus-peus-ni-amb-els-peus-daltri.md)).
+**Aquesta fitxa llegeix el passatge del Politar sobre la presó per deutes com una
+garantia.** **La font primària més antiga en proposa la lectura contrària:**
+
+> «**Els legisladors catalans han proscrit, des del segle XIII, la constricció
+> corporal en matèria civil** […]. **Potser aquesta abolició és més recent a
+> Andorra, perquè l'autor del Politar troba encara útil d'especificar que no
+> s'empresona per deute civil.**»
+
+**Si al segle XVIII encara calia dir-ho, és que no era evident.** `Lectura de
+Brutails, registrada com a seva. El corpus no afirma que a Andorra s'empresonés
+per deute civil: registra que el text admet les dues lectures i que la font
+primària més antiga en proposa la segona. Buit prioritari: cap document d'un cas.`
+
+**I la mateixa pàgina documenta la via que sí que existia i que no era presó**:
+**l'*hostatge***, **una clàusula penal pactada** per la qual **el deutor havia
+d'estar-se tot el dia dins d'un cementiri fins a pagar**, **amb el batlle fent-la
+complir per mitjà del nunci** i **sense que això estalviés l'embargament**.
+
 ## Buits registrats
 
 **No consta quin és el «privilegi de la Vall» que prohibeix la presó per
