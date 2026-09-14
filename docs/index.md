@@ -1478,7 +1478,7 @@
 | [`bastida-universitat-andorra`](fonts/bastida-universitat-andorra.md) | Daniel Bastida i Obiols · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`becat-moviments-migratoris-1989`](fonts/becat-moviments-migratoris-1989.md) | Joan Becat · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`becat-risque-avalanche-2014`](fonts/becat-risque-avalanche-2014.md) | Joan Becat, autor; RECERC / ICRESS, Universitat de Perpinyà Via Domitia, editor | pendent | pendent |
-| [`becat-tesi-1993`](fonts/becat-tesi-1993.md) | Jean (Joan) Becat · ICRESS, Universitat de Perpinyà Via Domitia | pendent — reedició d'autor, sense llicència explícita identificada | pendent |
+| [`becat-tesi-1993`](fonts/becat-tesi-1993.md) | Jean (Joan) Becat · ICRESS, Universitat de Perpinyà Via Domitia | drets reservats — obra d'autor viu, reedició del 2019, sense llicència explícita identificada | False |
 | [`becat-vida-pastoral`](fonts/becat-vida-pastoral.md) | Joan (Jean) Becat | document de divulgació per a ensenyants; sense llicència explícita | pendent |
 | [`boladeres-ensenyament-espanyol`](fonts/boladeres-ensenyament-espanyol.md) | Antoni Boladeres i Sorribes · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`boletin-oficial-leon-1894`](fonts/boletin-oficial-leon-1894.md) | Diputación provincial de León (Espanya) · butlletí oficial | butlletí oficial espanyol de 1894; domini públic per antiguitat | si |

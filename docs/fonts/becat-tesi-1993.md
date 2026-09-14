@@ -6,8 +6,8 @@ titular: Jean (Joan) Becat · ICRESS, Universitat de Perpinyà Via Domitia
 autor: "Jean Becat, geògraf. Tesi de Doctorat d'Estat dirigida per Jean Le Coz i Pierre Carrière"
 publicacio: "Presentada i defensada públicament el 18 de desembre del 1993 a la Universitat Paul Valéry Montpeller III amb el títol «Les Pyrénées méditerranéennes, mutations d'une économie montagnarde: le cas de l'Andorre». Reedició sense modificacions, ICRESS, 2019, amb el títol «L'Andorre. Mutations d'une économie montagnarde»"
 url: "no registrada"
-llicencia: "pendent — reedició d'autor, sense llicència explícita identificada"
-redistribucio: pendent
+llicencia: "drets reservats — obra d'autor viu, reedició del 2019, sense llicència explícita identificada"
+redistribucio: no
 data_consulta: 2026-09-13
 abast: >
   Només el LLIBRE 2 de set, «La société et l'organisation traditionnelles de
@@ -33,6 +33,17 @@ notes: >
   PORTA TREBALL DE CAMP DATAT I CITABLE. Becat cita enquestes pròpies amb dia i
   mes (per exemple, el llevador del quart de la Cortinada, 15/04/1990). Això no
   és bibliografia: és font primària d'entrevista.
+  RESOLT EL 16-09-2026: LA REDISTRIBUCIÓ PASSA DE `pendent` A `no`. Les dues
+  preguntes obertes tenen resposta i és negativa: l'autor és viu i l'obra és una
+  reedició seva del 2019 —no hi ha domini públic per antiguitat—, i no s'ha
+  localitzat cap llicència oberta ni cap avís de reutilització. `pendent` volia
+  dir «no comprovat»; comprovat, és `no`. El corpus la cita amb atribució i
+  pàgina i no la reprodueix. Registre de drets: 02-DOCS/raw/sources/becat-tesi-1993.md.
+  CITAR-LA AMB PÀGINA. Les fitxes que en surten la citaven per capítol i secció.
+  La pàgina és resoluble sense sortir del fitxer: el peu de pàgina «J. Becat,
+  Andorre. Thèse 1993, édition 2019 - Livre 2…» va seguit del número de pàgina, i
+  el sumari imprès (pp. 7-11) dona la pàgina d'inici de cada secció. Les vuit
+  unitats registrades el 16-09-2026 ja porten el rang de pàgines.
   ESTÀ EN FRANCÈS. Les citacions catalanes que reprodueix (reformes, politars,
   informants) hi van en català dins un text francès. Cap fragment d'aquesta
   obra no és «veu originària».
