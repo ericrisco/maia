@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**880** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**881** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -756,6 +756,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Andorra a l'edat mitjana](temes/historia/edat-mitjana/andorra-a-ledat-mitjana.md) | `temes/historia/edat-mitjana` | compilada | contemporania | no | `viquipedia-ca` |
 | [Els bisbes d'Urgell](temes/historia/edat-mitjana/els-bisbes-durgell.md) | `temes/historia/edat-mitjana` | compilada | contemporania | no | `pujol-fet-religios` |
+| [Els privilegis d'Andorra són tots moderns](temes/historia/edat-mitjana/els-privilegis-dandorra-son-tots-moderns.md) | `temes/historia/edat-mitjana` | compilada | historica | no | `brutails-coutume-1904` |
 | [Els privilegis](temes/historia/edat-mitjana/els-privilegis.md) | `temes/historia/edat-mitjana` | compilada | contemporania | no | `bascompte-privilegis` |
 | [L'accés als comunals](temes/historia/edat-mitjana/lacces-als-comunals.md) | `temes/historia/edat-mitjana` | compilada | contemporania | no | `vela-ordinacions-segle-xv` |
 | [Un sol saig, i amb nom](temes/historia/edat-mitjana/un-sol-saig-i-amb-nom.md) | `temes/historia/edat-mitjana` | compilada | contemporania | no | `brutails-coutume-1904` |

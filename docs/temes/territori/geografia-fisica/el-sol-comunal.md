@@ -164,6 +164,16 @@ medieval que el seu costum](../../historia/antic-regim/landorra-es-mes-medieval-
 4. **Si el *Consell de les bohigues* encara existeix** en algun comú.
 5. **Les *terres de guarda***, els ***antoxans***, el ***condal*** i el
    ***violari***: capítols del mateix llibre que el corpus **encara no ha llegit**.
+   — **`parcial` des del 2026-09-18: tres dels quatre ja són llegits.**
+   **Les *terres de guarda*** a [aquesta opinió del poble era útil de
+   notar](./aquesta-opinio-del-poble-era-util-de-notar.md); **els *antoxans*** a
+   [la llei afavoreix la finca que presta la
+   servitud](../paisatge-construit/la-llei-afavoreix-la-finca-que-presta-la-servitud.md),
+   **on l'entrada del glossari es corregeix perquè la font diu que el mot no es
+   deixa definir**; i **el *condal*** a [els privilegis d'Andorra són tots
+   moderns](../../historia/edat-mitjana/els-privilegis-dandorra-son-tots-moderns.md),
+   **amb la hipòtesi de Riba i l'avís que els arxius d'Urgell ho resoldrien.**
+   **Queda el *violari*.**
 6. **Si la divisió en tres franges es pot cartografiar** amb la toponímia que el
    corpus ja té.
 
