@@ -29,6 +29,22 @@ el mateix cap vegada**, i que **encara és a l'Estatut de les professions**.
 Entre la tercera fila i la quarta hi ha **dos segles i mig**, i **un canvi de
 naturalesa**.
 
+> **El salt s'escurça el 19-09-2026, i el que hi havia al mig no és un buit
+> d'ofici sinó un canvi de nom.** **Brutails documenta els *saigs* encara vius el
+> 1433 i el 1434**, i **un *batlle* ja el 1471**, **i situa la decisió que els
+> canvia el nom el 7 de juny de 1456**
+> ([de saig a batlle](./de-saig-a-batlle-el-set-de-juny-de-1456.md)). **Entre el
+> saig comtal del 1390 i el batlle del 1471 hi ha vuitanta-un anys, no dos segles
+> i mig**: **el 1763 del Politar és la data en què se'n parla, no la data en què
+> va passar.**
+>
+> **I hi ha una cosa que el corpus donava per feta i no ho és**: **els *saigs* no
+> eren agutzils.** **Prenien decisions.** **El 15 de juliol de 1420 les Corts van
+> haver de reformar un *mandement* dels *saigs*** que prohibia, **sota pena de 10
+> sous**, **servir-se de certes monedes.** **Un executor de sentències alienes no
+> dicta prohibicions monetàries generals.** **El canvi de 1456, doncs, no va
+> convertir un subaltern en jutge: va posar un nom nou a qui ja jutjava.**
+
 El **1763** el saig **ja no existia com a càrrec**: era el nom vell del
 [batlle](./justicia.md), abolit per decisió dels comissionats dels prínceps —
 
@@ -105,6 +121,21 @@ Vegeu
      ([Tinga's pres per lo Príncep](./tingas-pres-per-lo-princep.md)). **No és
      que el Politar no ho dati: és que no ho omple.** `Requereix el privilegi
      mateix, o l'exemplar d'on copia Brutails.`
+   - **Tancat com a `parcial` el 19-09-2026: la data existeix, però no al Politar.**
+     **Brutails la dona** i **també en condicional**: «*segons **una anàlisi antiga
+     que subsisteix als arxius d'Encamp**, aquesta decisió seria **del 7 de juny de
+     1456***» (p. 225). **No és el document: és una anàlisi d'un document, i
+     Brutails no ha vist l'original.** **El corpus pren la data amb aquesta reserva**
+     ([de saig a batlle, el set de juny de 1456](./de-saig-a-batlle-el-set-de-juny-de-1456.md)).
+     **Encaixa amb la forquilla documental que la mateixa font aixeca**: **saigs
+     atestats el 1433 i el 1434, batlles atestats el 1471, el 1472 i el 1484.**
+     **Segueix obert**: **l'anàlisi mateixa, i l'original de la decisió.**
+     `Requereix font externa: l'arxiu comunal d'Encamp.`
+   - **I el 1456 data el tercer Areny.** Si la declaració dels comissaris és del **7
+     de juny de 1456**, **el plet amb Bernat de Areny** —que és el que la va
+     provocar, segons el Politar— **és d'aquella data o d'abans**. **El corpus ho
+     registra com a lectura seva**, **no com a afirmació de cap font**: **cap dels
+     dos textos no lliga la data amb el nom.**
 3. **Si hi ha continuïtat real o només reaparició del mot** entre el saig comtal
    del 1390 i el saig del 2023.
    - **Afegit el 14-09-2026, i obre una pregunta nova.** El saig comtal del
@@ -187,3 +218,4 @@ Vegeu
 - [El Llibre de la Terra](../consell-general/el-llibre-de-la-terra.md) — el saig comtal, el 1390.
 - [L'ordenament jurídic avui](./lordenament-juridic-avui.md) — on viu la llei del 2023.
 - [L'execució forçosa](./lexecucio-forcosa.md) — què fa i fins on arriba, avui.
+- [De saig a batlle, el set de juny de 1456](./de-saig-a-batlle-el-set-de-juny-de-1456.md) — la data, i el mecanisme de la sisena.

@@ -291,6 +291,24 @@ pertany a aquesta casa](../../institucions/consell-general/que-les-aygues-publiq
    anàlisi conservada als arxius d'Encamp.** **Prioritari i doble**: **cal l'anàlisi
    i cal l'original.**
    `Requereix font externa: l'arxiu comunal d'Encamp.`
+   - **Puja de prioritat el 19-09-2026: la mateixa anàlisi apareix una segona
+     vegada al llibre, amb un contingut diferent i molt més gros.** A la
+     p. 225 Brutails escriu que, **segons «una anàlisi antiga que subsisteix als
+     arxius d'Encamp»**, **la decisió que va canviar el nom dels *saigs* pel de
+     *batlles* «seria del 7 de juny de 1456»**
+     ([de saig a batlle](../../institucions/justicia/de-saig-a-batlle-el-set-de-juny-de-1456.md)).
+     **Mateixa data, mateixa procedència, mateixa reserva de la font.**
+   - **`hipòtesi del corpus`: podria ser un sol document amb diversos capítols.**
+     **Hi ha un indici que ho suggereix i el corpus no el converteix en prova**:
+     **el document de 1456 anul·la un permís d'obres «*sobre la casa d'en **Guilhem
+     del Areny***»**, i **la declaració dels comissaris que va rebatejar els saigs
+     va sortir, segons el Politar, d'un plet del Consell contra **Bernat de
+     Areny**, acusat entre altres coses de «*donant facultat pera edificar en
+     comunals*»** ([el saig](../../institucions/justicia/el-saig.md)). **Dos Arenys,
+     i les dues vegades el conflicte és sobre permisos d'obra.** **Cap de les dues
+     fonts no els identifica, i el corpus tampoc.** **El que el corpus afirma és
+     que l'anàlisi d'Encamp és ara doblement prioritària**: **tancaria dos buits
+     alhora.**
 3. **El *Manual Digest*, *Duptes* § 23**, i **el *Politar*, p. 280**: **la doctrina
    que els documents desmenteixen.** **El corpus té el Politar per extractes i
    aquesta pàgina no hi és.**
