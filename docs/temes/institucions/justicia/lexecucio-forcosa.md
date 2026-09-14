@@ -138,7 +138,15 @@ dividit en parts iguals** llevat que es provi el contrari (7.4).
 - **Quants saigs hi ha** i com es reparteixen la feina, no consta. La llei crea
   la **Cambra de Saigs** i el corpus no en té la composició.
 - **Els barems d'honoraris** els fixa un reglament que no és al corpus: **quant
-  costa executar una sentència a Andorra, no se sap**.
+  costa executar una sentència a Andorra, no se sap**. — **`parcial` des del
+  15-09-2026, i només per la banda històrica.** **El barem de l'ofici
+  antecessor sí que el té el corpus**, complet i a dues dates: l'**estima dels
+  drets del notari del 19 de novembre del 1657** i l'aranzel dels *drets al
+  senyor batlle* de la *Instructa* del **1740**, amb els repartiments entre
+  batlle, notari i nunci acte per acte
+  ([una creu al prat, sis sous i sis diners](./una-creu-al-prat-sis-sous-i-sis-diners.md)).
+  **El buit d'avui segueix intacte**: entre aquell aranzel i el reglament que
+  desplega la Llei del saig **no hi ha cap peça.**
 - **Quin és el salari mínim interprofessional** —la unitat sobre la qual descansa
   tota la protecció de l'article 8— **no és en aquestes lleis**.
 - **Si la causa de «conseqüències desproporcionades» s'ha invocat mai**, no

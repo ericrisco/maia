@@ -121,6 +121,14 @@ Vegeu
    torna, el nunci té continuïtat documentada.** **Cap font no ho afirma amb
    aquestes paraules.**
 
+   **Ampliat el 15-09-2026, i ara amb aranzel.** El nunci té **drets propis
+   tarifats** a l'**estima del notari del 19 de novembre del 1657** i a
+   l'aranzel de la *Instructa* del **1740**, i en tres dels quatre actes que es
+   reparteixen entre tres **cobra més que el batlle i més que el notari**
+   ([una creu al prat, sis sous i sis diners](./una-creu-al-prat-sis-sous-i-sis-diners.md)).
+   **La continuïtat documentada del nunci arriba, doncs, com a mínim al 1657**,
+   i **amb ofici retribuït, no honorífic.**
+
 ## Related
 
 - [La justícia](./justicia.md) — el batlle, l'altre fals amic.

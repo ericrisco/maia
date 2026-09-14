@@ -58,6 +58,15 @@ només existeix: es verifica contra la sèrie mateixa.**
 
 **Buit tancat.**
 
+> **I ara també es verifica contra un document que no és aquest.** L'aranzel de
+> justícia de la *Instructa als senyors batlles* del **1740** tarifa l'encant
+> d'una casa o heretat «**que se pague 12 rals**» i el reparteix **8 sous al
+> batlle, 8 al notari i 8 al nunci**. **8 + 8 + 8 = 24 sous**, i **12 rals = 24
+> sous** només si **1 ral = 2 sous** — que és el que dona **10 rals = 1 lliura**
+> amb la lliura a **20 sous**. **La conversió de l'apèndix queda confirmada per
+> una font interna del segle XVIII que no la cita**
+> ([una creu al prat, sis sous i sis diners](../../institucions/justicia/una-creu-al-prat-sis-sous-i-sis-diners.md)).
+
 ## Qui guardava els patrons
 
 I aquesta és la troballa que el corpus no anava a buscar:

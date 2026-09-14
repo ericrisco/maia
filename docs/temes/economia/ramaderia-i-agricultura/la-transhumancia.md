@@ -163,7 +163,17 @@ poder-los llogar, es van acabar oferint de franc perquè algú hi pugés.**
 1. **Les rutes concretes**: per on passaven, quins ports, quantes jornades.
 2. **Qui hi anava**: si els pastors eren de casa, llogats, o de fora.
 3. **E. Pée-Laby (1900)**, la font per a l'Arieja. El corpus no la té.
-4. **Els contractes de conlloc**: com s'escrivien i què hi constava.
+4. **Els contractes de conlloc**: com s'escrivien i què hi constava. —
+   **`parcial` des del 2026-09-15.** **El que s'ha tancat: que existien com a
+   figura judicial i de qui depenien.** La *Instructa als senyors batlles* del
+   **1740** els posa, amb aquest nom, entre les causes que toquen al batlle i no
+   a la jurisdicció política: «tota altra causa de particular a particular […]
+   **parceries, prefets, conllochs**», i afegeix que si el batlle no en sap
+   l'estil «**pendra experts que ab jurament digan lo estil**»
+   ([dos de tres, i les parts no ho saben](../../institucions/justicia/dos-de-tres-i-les-parts-no-ho-saben.md)).
+   **El que segueix obert és exactament el que demanava el buit: el contingut.**
+   La *Instructa* **no diu què hi constava** i **el corpus no en té cap
+   exemplar.**
 5. **Si la transhumància de repoblament dels anys 1990 continua avui**, i amb
    quants caps.
 6. **Els *emprius* i els *cortons***: la diferència jurídica exacta entre uns i

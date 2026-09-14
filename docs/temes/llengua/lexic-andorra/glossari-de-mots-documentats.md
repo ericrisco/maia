@@ -74,6 +74,11 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **cot** | multa imposada per un consell per incompliment d'un deure. **Documentat viu el 1853**: un decret del copríncep episcopal castiga qui permeti balls «deshonestos» amb «deu lliuras barcelonesas **y lo cot de la terra**, partidoras per mitat entre la iglesia y lo Comu» ([font primària](../../historia/segle-xix/trenta-nou-anys-si-el-creditor-es-lesglesia.md)) |
 | **capsou** | contracte de bestiar: el prestador en transfereix el domini i es reserva la facultat de quitar, i cobra un rèdit anual **en producte de l'animal**. **Documentat el 1783 a l'Aldosa**; Brutails el donava per **desaparegut el 1904** ([font primària](../../economia/ramaderia-i-agricultura/linteres-es-paga-en-llana.md)) |
 | **parceria**, **aparceria** | el mateix contracte, **el nom que va sobreviure**. *Tenere in parceriam*, documentat a **Mosquera el 7 de desembre del 1419** |
+| **conlloc** | contracte de bestiar. **Documentat el 1740** com a causa que toca al batlle, al costat de *parceries* i *prefets* ([font primària](../../institucions/justicia/dos-de-tres-i-les-parts-no-ho-saben.md)). **El corpus n'acredita l'existència judicial i no el contingut** |
+| **prefet** | tipus de contracte nomenat a la *Instructa als senyors batlles* del **1740** entre *parceries* i *conllochs*. **Cap font del corpus no el defineix** |
+| **prisia** | la presa per escrit d'un acte, abans de treure'l en forma. **Tarifada el 19 de novembre del 1657**: *prisia* d'un debitori **2 sous**, el mateix debitori tret en forma **10** ([font primària](../../institucions/justicia/una-creu-al-prat-sis-sous-i-sis-diners.md)) |
+| **capmàs** | l'estima notarial del **1657** exceptua els *capmassos* del preu únic de les actes de venda **i no en dona el preu**. **El corpus registra el mot i no el significat** |
+| **empara** | embargament. *Empara* i *penyora* són els noms antics del que el segle XIX ja diu *embarch*. **Tarifada a 17 sous i 6 diners el 1657 i el 1740** |
 | **ordinació** | norma d'un comú |
 | **foc i lloc** | impost parroquial |
 | **consòrcia** | unió de persones amb un interès comú que s'ajuden en cas de necessitat |
