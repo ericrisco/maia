@@ -200,6 +200,26 @@ magistrat: **l'existència d'una clàusula prova que la regla no hi és**, perqu
 de la font mateixa. `Regla derivada de dues seccions del mateix llibre. Brutails
 no les posa juntes; la juxtaposició és del corpus.`
 
+## El límit, que la secció següent hi posa
+
+**Afegit el 2026-09-17 des de la secció «Du serment», pp. 76-78**
+([la unitat destil·lada](./nul-per-al-jutge-valid-per-a-la-consciencia.md)).
+**Aquesta fitxa sosté que les renúncies són indicis preciosos del costum.** **La
+pàgina següent hi posa el límit com a acte jurídic:**
+
+> «**Encara que el jurament hagués estat prestat, la fórmula seria sense efecte:
+> el contracte valdria per ell mateix, en la mesura que ho ordena el costum, sense
+> que renúncies i juraments hi puguin afegir res ni canviar-hi res.**»
+
+**Com a indici de què regeix, valen; com a acte que canvia el dret d'un contracte,
+no.** I **de l'antic ús només en quedava una fórmula** —«**ab jurament**», «**ab
+jurament llargament**»— **que el 1904 «no respon a cap realitat».**
+
+`Això no desmenteix la regla dels indicis: la confirma pel revés. Si la fórmula
+persisteix quan la pràctica ha mort, el que la seva constància mesura és la
+inèrcia del formulari, no el dret viu — i per distingir-ho cal saber, com aquí,
+quan l'ús va deixar de practicar-se.`
+
 ## Buits registrats
 
 1. **Les dues vendes del 13 d'abril i el 15 de juny de 1788** amb la renúncia a
