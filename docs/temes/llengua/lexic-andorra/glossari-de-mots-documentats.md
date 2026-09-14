@@ -173,6 +173,25 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **boltejar a pausa** | tocar la campana major **lentament**, **des que la processó de l'execució sortia de l'església fins que hi tornava**. Politar, llibre IV, cap. III, § III |
 | **butxí** | l'executor de la justícia, **que no era andorrà**: un prohom de les Valls l'anava a buscar fora amb **escorta de sis o vuit homes armats**, i **se'l tenia «en una caseta ab guardas»** fins al dia. Politar, llibre IV, cap. III, § III |
 | **suplici** | el patíbul, que **es muntava cada vegada** amb mestres de cases, fusters i ferrers **manats sota pena de presó**. Politar, llibre IV, cap. III, § III |
+| **cortó** | **«un quartier, un lot pour l'afferme des pâturages»**: la unitat en què es repartia la muntanya entre els ramats. Brutails, *La Coutume d'Andorre*, 1904, p. 3 |
+| **rebaixants** | les parts baixes del terme, **«mieux garnis d'humus fertilisable»** i **«en très grande partie livrés à la culture»**, per oposició a les **muntanyes**. Brutails 1904, p. 3 |
+| **hermals** | les erms de l'obac, **«d'un vert sombre que piquent les touffes rouges des rhododendrons»**. Brutails 1904, p. 2-3 |
+| **capsada** · **sualada** | **el capdamunt** i **el peu** d'una peça de terra inclinada. Brutails 1904, p. 3 |
+| **ribàs** | el talús entre dos replans, **que pot venir que el terreny de dalt s'hagi aixecat o que el de baix hagi fugit avall**. Brutails 1904, p. 3 |
+| **amarge** | **la franja inculta** entre camps. **Brutails adverteix que sovint es confon amb el `ribàs`** i que «on emploie fréquemment les deux termes l'un pour l'autre». Brutails 1904, p. 3 |
+| **feixa** | el tros estret d'una terra escalonada; **n'hi havia de minúscules, molt altes i molt lluny, on calien hores per anar-hi i hores per baixar-ne quatre garbes a coll**. Brutails 1904, p. 3 |
+| **pleta** · **anda** | el parc on es tancava el bestiar de nit per femar, i **les andes** que el tancaven. Brutails 1904, p. 4 |
+| **capagual** · **peixera** | les preses d'aigua d'un rec. Brutails 1904, p. 4 |
+| **resclosa** · **astolador** | **la comporta** i **el vessador** d'un rec. Brutails 1904, p. 4 |
+| **riguera** · **claviguera** | la reguera **descoberta** i la **coberta**. Brutails 1904, p. 4 |
+| **sendera** · **callissa** · **pas** | un **corriol**; un **passatge amb assentament propi entre dues propietats**; i un **dret de pas a través de la finca d'un tercer**. **Brutails marca la distinció com a lectura seva**: «si j'ai bien saisi». Brutails 1904, p. 4 |
+| **cortal** | el nom que prenen a la muntanya la **borda**, l'**era** i el **cubert**: estable a baix, graner a dalt i el frontó obert cap al sol. Brutails 1904, p. 4 |
+| **dalhaire** · **rasclaire** | qui sega l'herba amb dalla i qui la regira i l'aplega amb rascle. Brutails 1904, p. 5 |
+| **orris** | les cabanes on s'aplegaven les ovelles per munyir-les; **«le temps dels orris»** és **el juliol**, quan es feien els formatges agres. Brutails 1904, p. 5 |
+| **trumfa** | patata. Brutails 1904, p. 6, al costat de *patates* |
+| **canemar** | camp de cànem: **el 1904 el topònim sobrevivia al conreu**, que ja gairebé no es feia. Brutails 1904, p. 6 |
+| **vi ranci** | vi de l'Urgell portat **en bots de pell de boc** i criat per solera, afegint vi nou al barril a mesura que es buida; **«le champagne de l'Andorre»**, amb què **es feien els brindis als banquets oficials**. Brutails 1904, p. 6 |
+| **paraire** | fabricant de drap; **els d'Escaldes tenien confraria sota l'advocació de sant Pere Màrtir**, amb **registre del 1669 al 1807**. Brutails 1904, p. 8 |
 | **ordinació** | norma d'un comú |
 | **foc i lloc** | impost parroquial |
 | **consòrcia** | unió de persones amb un interès comú que s'ajuden en cas de necessitat |
