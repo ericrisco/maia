@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**875** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**876** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -879,6 +879,7 @@
 | [L'Assemblea Magna](temes/institucions/consell-general/lassemblea-magna.md) | `temes/institucions/consell-general` | compilada | contemporania | no | `becat-tesi-1993` |
 | [L'estrany i el llot](temes/institucions/consell-general/lestrany-i-el-llot.md) | `temes/institucions/consell-general` | compilada | historica | no | `brutails-coutume-1904` |
 | [L'extensió dels poders](temes/institucions/consell-general/lextensio-dels-poders.md) | `temes/institucions/consell-general` | compilada | historica | no | `brutails-coutume-1904` |
+| [Que les aygües públiques pertany a aquesta casa](temes/institucions/consell-general/que-les-aygues-publiques-pertany-a-aquesta-casa.md) | `temes/institucions/consell-general` | compilada | historica | no | `brutails-coutume-1904` |
 | [«Segons les lleis i costums immemorials del país»](temes/institucions/consell-general/segons-les-lleis-i-costums-immemorials-del-pais.md) | `temes/institucions/consell-general` | compilada | historica | no | `brutails-coutume-1904` |
 | [Un cego malament judica de colors](temes/institucions/consell-general/un-cego-malament-judica-de-colors.md) | `temes/institucions/consell-general` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Vuitanta pessetes per fer reunir el Consell General](temes/institucions/consell-general/vuitanta-pessetes-per-fer-reunir-el-consell.md) | `temes/institucions/consell-general` | compilada | historica | no | `brutails-coutume-1904` |

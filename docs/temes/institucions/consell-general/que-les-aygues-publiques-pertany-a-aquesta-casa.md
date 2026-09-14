@@ -1,0 +1,258 @@
+---
+type: article
+title: Que les aygües públiques pertany a aquesta casa
+description: "El 1893 el Consell General va decretar que les aigües públiques eren seves; el 1881 els coprínceps havien acordat que les concessions eren d'ells. Un jurista francès de 1904 declara nul·les les concessions d'aigües, mines, carreteres i monopolis d'Andorra, amb l'argument que el Consell General només és un ajuntament."
+tema: temes/institucions/consell-general
+veu: compilada
+epoca: historica
+apte_llengua: false
+font: brutails-coutume-1904
+timestamp: 2026-09-18T18:30:00Z
+tags: [consell-general, coprincipat, sobirania, domini-public, aigua, mines, monopolis, tabac, concessions, segle-xix, font-primaria, prioritari]
+---
+
+# Que les aygües públiques pertany a aquesta casa
+
+## La unitat llegida
+
+La secció **«De la propriété des choses publiques»** (p. 163-166) del capítol VI,
+**«Les biens»**, de *La Coutume d'Andorre*, de **J.-A. Brutails** (1904), amb les
+notes ([font](../../../fonts/brutails-coutume-1904.md)).
+
+> **Aquesta secció és el desenvolupament dels punts 4 i 6 de l'acusació en sis
+> punts** que el corpus ja tenia resumida del capítol II ([l'extensió dels
+> poders](./lextensio-dels-poders.md)): **«disposa dels béns del domini públic»** i
+> **«concedeix monopolis»**. **Aquí hi ha els documents.**
+
+## L'opinió que ho canvia tot
+
+> **El dret dominial d'Andorra es modifica sota l'imperi d'aquesta opinió: que les
+> Valls estan constituïdes en un Estat, una República.**
+
+**No és una norma, és una opinió** — i la font en fa la causa del canvi jurídic.
+**D'aquesta opinió en surt un repartiment de competències que funcionava:**
+
+| Cosa pública | Qui la concedeix |
+|---|---|
+| **Mines** | **Les parròquies**, «**sota el control del Consell General**» |
+| **Aigües** | **El Consell General directament**, quan es tracta de **derivacions amb finalitat industrial en un riu que travessa diverses parròquies** |
+
+**El criteri de repartiment és territorial i no dominical**: **el que queda dins
+d'una parròquia el concedeix la parròquia; el que en travessa més d'una puja al
+Consell.** **La font no ho formula com a regla** —**la lectura és del corpus**—
+**però és el que descriuen els dos casos que dona.**
+
+### El decret que ho diu amb totes les lletres
+
+> **Decret del Consell General del 29 de març de 1893:**
+>
+> «*Decrete: **Que les aygues publiques y generals pertany a aquesta casa lo fer
+> concesions per extraviarlas dels seus causes naturals**.*»
+
+**«Aquesta casa» és el Consell General**, i el que es decreta no és una concessió:
+**és de qui és la competència de concedir.** **La font hi afegeix que aquesta
+atribució també resulta d'una llista de concessions establerta «recentment» pel
+mateix Consell** — **que el corpus no té.**
+
+## I la resposta del jurista, que és una declaració de nul·litat
+
+> «**Aquests hàbits no són admissibles des de cap punt de vista**; són igualment
+> en contradicció amb els principis de l'Europa occidental i amb les dades de la
+> història local.»
+>
+> «**Els consells de parròquia i el Consell General mateix no són sinó
+> municipalitats**; **res, absolutament res, no els autoritza a creure que
+> posseeixen, per ells mateixos o per delegació, la potestat senyorial o el poder
+> sobirà.**»
+
+**I la conseqüència, dita en primera persona:**
+
+> «**No soc, doncs, lluny de considerar com a nul·les i sense efecte les
+> concessions d'aigües, de mines i de carreteres i els monopolis atorgats durant
+> aquests darrers anys per les autoritats locals d'Andorra.**»
+
+> **Això és una tesi i és la tesi francesa**, com ja ho era la llista de sis punts.
+> **El corpus la registra sencera, amb el seu argument** —**les lleis antigues i
+> modernes de França i de Catalunya atribueixen la propietat de les aigües corrents
+> i de les mines al senyor o al sobirà**— **i no arbitra.** **El Consell General
+> sostenia el contrari**, i el corpus també ho té ([la qüestió
+> d'Andorra](../../historia/segle-xix/la-questio-dandorra.md)).
+
+**I hi ha una concessió que la font sí que admet, de passada**: **Andorra potser va
+obtenir antigament el *gaudi* de les aigües** —**«però es tracta com a molt d'un
+dret d'ús, no d'una propietat**, **i aquest dret d'ús no confereix al Consell la
+facultat de consentir retrocessions a estrangers**»—. **El jurista no nega que
+Andorra hi tingui un dret: nega que en tingui el domini, i d'aquí en treu que no el
+pot revendre.**
+
+## El document del bàndol contrari: l'acord dels coprínceps de 1881
+
+> **25 de febrer de 1881. Acord dels dos cosenyors:**
+>
+> «*Considerant que **els coprínceps, en raó de la seva sobirania**, tenen la
+> missió de prohibir tot el que revesteix un caràcter d'immoralitat, com també **la
+> facultat exclusiva de jutjar de l'oportunitat i de l'extensió de les concessions
+> legítimes de tota mena que poden ser o haver estat sol·licitades al Consell
+> General**.*»
+>
+> — publicat a la *Revue de droit international et de législation comparée*, 1881,
+> p. 223
+
+> **Aquesta és la peça que faltava.** **El corpus tenia l'acusació del 1904 i la
+> rèplica andorrana del 1894; ara té l'acte dels coprínceps que la precedeix totes
+> dues.** **I diu una cosa precisa**: **els coprínceps no reclamen el poder de
+> concedir; reclamen el poder de jutjar l'oportunitat i l'extensió del que el
+> Consell General concedeixi** —**i també del que ja hagi concedit** («*o haver
+> estat sol·licitades*»). **És un dret de veto retroactiu, no un dret de
+> concessió.** Vegeu [les tres sobiranies](../coprincipat/les-tres-sobiranies.md).
+
+## Andorra viu del contraban i té monopolis
+
+**Una nota que la font marca ella mateixa com a irònica**, i que és un fet
+comprovable:
+
+> «**És molt picant de constatar que Andorra, que es beneficia àmpliament del
+> contraban, té monopolis a casa seva.**»
+
+| Data | Què |
+|---|---|
+| **3 de febrer de 1898** | **Decret del Consell General** que **prohibeix a uns fabricants de tabac de treballar per a individus no autoritzats pel Consell** |
+| *(en curs el 1904)* | **«Es parla de concedir a una Companyia el monopoli dels tabacs.»** |
+
+**I els casinos, que la font compta a part:**
+
+> **La facultat d'autoritzar l'obertura d'una casa de joc és evidentment un dret
+> d'alta policia, una part d'aquell *merum imperium* que ningú no discuteix als
+> cosenyors o al sobirà.**
+
+> **El corpus registra que el 1904 hi havia concessions de casinos a Andorra**
+> —**la font les enumera entre les que considera nul·les**— i **no en té ni data ni
+> nom.** Vegeu [l'empresa del contraban](../../historia/contraban/lempresa-del-contraban.md).
+
+## Les pastures són un altre cas, i la font ho concedeix
+
+> **El problema es planteja diferentment per als pasturatges**: **són béns d'ús
+> públic, però susceptibles d'apropiació**; **els *quarts* i les parròquies se'n
+> poden fer propietaris i en poden disposar.**
+
+**I ho recolza amb dos documents:**
+
+| Data | Document | Reserva de la font |
+|---|---|---|
+| **13 de desembre de 1366** | **El veguer del Bisbe reconeix als habitants** «*que pugats **boyguar** en aquel* (els comunals) *et d'aquelz fer **pratz et comus he aygueres***», «*fer comus pratz e cloure aquelz*», **com antigament** | «**No cito aquest document sinó amb reserva: la font d'on prové m'inspira alguna desconfiança.**» |
+| **27 de juny de 1580** | **La parròquia de Canillo ven a carta de gràcia a un particular dos «trossos de montanya», la Portella i Ortafa** | «**No crec que hi intervingués cap autoritat.**» |
+
+> **Tanca a mitges un buit obert**: [el sòl
+> comunal](../../territori/geografia-fisica/el-sol-comunal.md) **preguntava per què
+> Brutails considera sospitós el document de 1366.** **La raó, ara, la tenim, i no
+> és el contingut**: **és la procedència**, «*la source d'où il provient*».
+> **Quina és aquesta procedència, no ho diu.**
+
+## L'embaràs de l'autor, que val com a document
+
+**Aquí la font fa una cosa que el corpus no li havia vist fer**: **es nega a
+publicar el que sap, i n'explica el motiu.**
+
+> «**Es comprèn l'embaràs que sento a tractar un tema delicat entre tots i a
+> proporcionar indicacions als *brasseurs d'affaires* que posen els ulls a
+> Andorra**; **em limitaré, doncs, a assenyalar**…»
+
+**I el que assenyala són tres clàusules:**
+
+| Concessió | Clàusula |
+|---|---|
+| **De mines, de cap al 1875** | **Prohibició de passar la concessió a un estranger** |
+| **La mateixa** | **Reserva, a profit del Consell General, del dret de reclamar una part dels beneficis** |
+| **Una altra, més recent** | **Dret de preferència concedit al concessionari sobre certs béns de les parròquies, els *quarts* o els particulars** |
+
+**I una quarta peça, del mateix bloc:**
+
+> **21 d'abril de 1883.** **El Consell General aprova el «*projecte de concessio a
+> **cens enfiteutich** dels minerals que existeixen en lo comú de Sant-Julia en lo
+> lloch nomenat …… y del dret de arrancarlos, extraurerlos, etc.*», fet pel comú de
+> Sant Julià a favor de** *(diversos noms, que el corpus no reprodueix)*.
+
+> **La concessió minera es feia en forma de contracte emfitèutic**: **no és una
+> autorització administrativa, és un cens.** **I qui la fa és el comú, i qui
+> l'aprova és el Consell General** — **exactament el repartiment que la secció
+> descriu.**
+
+## El domini públic andorrà no té les garanties dels altres
+
+> **El costum andorrà no envolta el domini públic de les garanties que el
+> protegeixen a les legislacions més completes**: **els consells donen hipoteca
+> sobre els béns de les parròquies i de la Vall i sobre les imposicions mateixes.**
+
+**El cas concret, de cap al 1889:**
+
+> **El Consell General, en rebre una caució, «*obliga tots los bens, reddits y
+> emoluments de la Corporacio que representa, mobles e inmobles, presents y
+> venidors*»**; **part de la suma es va repartir entre les parròquies, «*ab
+> obligacio de firmar la corresponent escriptura, ab hipoteca bastant per la sua
+> seguritat*».**
+
+**I la comparació, que és de la font**: «**Certs Estats afecten igualment les seves
+duanes al pagament de tal o tal crèdit.**»
+
+> **El corpus fa constar la tensió**: **el mateix autor que diu que el Consell
+> General «no és sinó una municipalitat» el compara aquí amb un Estat que hipoteca
+> les seves duanes.**
+
+## I el domini públic és per als andorrans
+
+> **El dret dominial està ordenat sobretot a profit dels andorrans**: **igual que en
+> dret romà, l'ús de les coses públiques no pertany rigorosament sinó als
+> ciutadans.**
+
+**I el cas que ho documenta és petit i concret:**
+
+> **20 de desembre de 1893. Decret del Consell General**: «*Que, **sen lo recorrent
+> estrangé, no li es permis lo pescar sens previa autorisacio de la autoritat***.*»
+
+> **Pescar en un riu d'Andorra sent estranger requeria autorització prèvia el
+> 1893.** **I la data cau nou mesos després del decret de les aigües del 29 de
+> març**: **el mateix any en què el Consell General es declara competent sobre les
+> aigües, en restringeix l'ús als no andorrans.** **La relació entre els dos
+> decrets és lectura del corpus**; **la font els cita separats i no els vincula.**
+> Vegeu [un de Canillo és foraster a
+> Encamp](../nacionalitat-i-residencia/un-de-canillo-es-foraster-a-encamp.md).
+
+## Buits registrats
+
+1. **La llista de concessions establerta pel Consell General**, que la font
+   invoca com a prova i no reprodueix. **Prioritària**: és l'inventari del que
+   estava concedit el 1904.
+   `Requereix font externa: els llibres d'acords del Consell General.`
+2. **El decret del 29 de març de 1893 sencer**, i **el del 20 de desembre de 1893**,
+   i **el del 3 de febrer de 1898** sobre el tabac.
+3. **L'acord dels coprínceps del 25 de febrer de 1881 sencer.** **El corpus en té
+   el considerant que la font cita** i **la referència de la revista on es va
+   publicar**, no el text.
+   `Requereix font externa: Revue de droit international et de législation comparée, 1881, p. 223.`
+4. **Si el monopoli dels tabacs es va arribar a concedir a una Companyia.** **El
+   1904 se'n parlava.**
+5. **Les concessions de casinos**: **quantes, quan i a qui.** **La font les compta
+   entre les nul·les i no en dona cap.**
+6. **La concessió de mines de cap al 1875** i **la més recent**, senceres. **La
+   font se'n nega a donar detalls i diu per què**: **per no informar els
+   *brasseurs d'affaires*.**
+7. **La concessió emfitèutica de Sant Julià del 21 d'abril de 1883**: **el lloc
+   és en blanc al text** («*en lo lloch nomenat ……*») i **els noms dels
+   concessionaris no els reprodueix.**
+8. **De quina font prové el document de 1366**, que és **la raó de la desconfiança
+   de l'autor**. — **Tanca a mitges el buit 3 de [el sòl
+   comunal](../../territori/geografia-fisica/el-sol-comunal.md)**: **la raó és la
+   procedència, no el contingut.**
+9. **La caució que el Consell General va rebre «fa uns quinze anys»**: **de qui,
+   per què i de quant.**
+10. **Si algú va impugnar mai cap d'aquestes concessions** davant de cap tribunal,
+    **o si la tesi de la nul·litat es va quedar en el llibre.**
+
+## Related
+
+- [L'extensió dels poders](./lextensio-dels-poders.md) — l'acusació en sis punts, de la qual aquesta unitat documenta el quart i el sisè.
+- [La qüestió d'Andorra](../../historia/segle-xix/la-questio-dandorra.md) — la tesi contrària, sostinguda pel Consell General.
+- [Les tres sobiranies](../coprincipat/les-tres-sobiranies.md) — el marc on cau l'acord de 1881.
+- [El sòl comunal](../../territori/geografia-fisica/el-sol-comunal.md) — les tres franges i el document de 1366.
+- [L'empresa del contraban](../../historia/contraban/lempresa-del-contraban.md) — el contraban del qual Andorra es beneficiava mentre concedia monopolis.
+- [Un de Canillo és foraster a Encamp](../nacionalitat-i-residencia/un-de-canillo-es-foraster-a-encamp.md) — qui és andorrà a efectes de gaudir del que és públic.

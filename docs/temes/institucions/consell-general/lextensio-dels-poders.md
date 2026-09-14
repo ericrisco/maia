@@ -98,6 +98,22 @@ général»**, i és **una acusació en sis punts**:
 > jutges, procediments, notaris, domini públic, impostos i monopolis. **Aquests
 > sis eren els punts de fricció el 1904.**
 
+### Els punts 4 i 6, documentats
+
+**Afegit el 2026-09-18.** **El capítol VI de la mateixa font desenvolupa els punts
+4 i 6 amb documents**, i el corpus els té a [que les aygües públiques pertany a
+aquesta casa](./que-les-aygues-publiques-pertany-a-aquesta-casa.md):
+
+- **Punt 4, el domini públic**: **decret del Consell General del 29 de març de
+  1893** —«*Que les aygues publiques y generals pertany a aquesta casa lo fer
+  concesions per extraviarlas dels seus causes naturals*»— i **l'acord dels
+  coprínceps del 25 de febrer de 1881**, que es reserva «**la facultat exclusiva
+  de jutjar de l'oportunitat i de l'extensió de les concessions**». **L'autor
+  declara nul·les les concessions d'aigües, mines, carreteres i monopolis.**
+- **Punt 6, els monopolis**: **decret del 3 de febrer de 1898** contra els
+  fabricants de tabac que treballessin per a no autoritzats, **el projecte de
+  monopoli del tabac a una Companyia** i **les concessions de casinos**.
+
 ### I el Consell General no podia executar res
 
 Brutails hi posa la peça que explica per què la disputa no era simètrica:
