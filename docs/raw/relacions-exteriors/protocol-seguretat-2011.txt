@@ -1,0 +1,161 @@
+EUR-Lex - 22011A0210(01) - EN
+|
+22011A0210(01)
+Protocol extending to customs security measures the Agreement in the form of an Exchange of Letters between the European Economic Community and the Principality of Andorra
+Official Journal L 036 , 10/02/2011 P. 003 - 007
+Protocol
+extending to customs security measures the Agreement in the form of an Exchange of Letters between the European Economic Community and the Principality of Andorra
+THE EUROPEAN UNION,
+of the one part, and
+THE PRINCIPALITY OF ANDORRA,
+of the other part,
+hereinafter referred to respectively as "the Union" and "the Principality of Andorra" and jointly as "the Contracting Parties",
+HAVING REGARD TO the Agreement in the form of an Exchange of Letters between the European Economic Community and the Principality of Andorra, signed in Luxembourg on 28 June 1990 (hereinafter "the Agreement");
+WHEREAS there is a need to maintain the existing level of facilitation of controls and formalities on the passage of goods at frontiers between the Union and the Principality of Andorra and so ensure the smooth flow of trade between the two Parties;
+WHEREAS the Contracting Parties undertake to guarantee in their respective territories an equivalent level of security through measures based on legislation in force in the Union;
+WHEREAS it is desirable that Andorra be consulted on the development of Union rules concerning customs security measures, that it take part in the relevant work of the Customs Code Committee and that it be notified of the implementation of such rules;
+WHEREAS the Contracting Parties are determined to improve security in the trade in goods entering or exiting their territories without hampering trade flows;
+WHEREAS, in the interests of the Contracting Parties, equivalent customs security measures should be introduced in respect of the transport of goods to or from third countries;
+WHEREAS, unlike the Agreement itself, the territorial scope of those customs security measures must be defined with reference to the respective customs territories of the Contracting Parties;
+WHEREAS those customs security measures must also apply to agricultural products (Chapters 1 to 24 of the Harmonised System), which are excluded from the customs union established between the Contracting Parties;
+WHEREAS those customs security measures concern the declaration of security data relating to goods prior to their entry and exit, the management of security risks and related customs controls and the allocation of authorised economic operator status for mutually recognised security purposes;
+WHEREAS the Principality of Andorra has an adequate level of personal data protection [1];
+WHEREAS in the case of customs security measures there should be provision for appropriate rebalancing measures, including suspension of the relevant provisions where the equivalence of customs security measures is no longer assured,
+AGREE AS FOLLOWS:
+Article 1
+In order to extend the scope of the Agreement to customs security measures, the following Title shall be inserted into the Agreement:
+"TITLE IIA
+ARRANGEMENT CONCERNING CUSTOMS SECURITY MEASURES
+CHAPTER I
+Customs security measures and monitoring their implementation
+Article 12a
+Territories covered
+This Title shall apply, on the one hand, to the Community customs territory and, on the other, to the customs territory of the Principality of Andorra.
+Article 12b
+Adoption of the Community acquis
+1. The Principality of Andorra shall adopt the customs security measures applied by the Union. "Customs security measures" shall mean the provisions concerning the declaration of goods prior to their entry to and exit from the customs territory, authorised economic operators, and customs security checks and security-related risk management, which are applicable in line with the relevant customs legislation in force at any time in the Union. The Joint Committee referred to in Article 17 shall draw up a detailed list of the provisions concerned.
+2. Notwithstanding their exclusion from the customs union between the Union and the Principality of Andorra pursuant to Article 2, the customs security measures shall also apply to the agricultural products covered by Chapters 1 to 24 of the Harmonised System.
+Article 12c
+General principles
+1. The Contracting Parties undertake to apply to the carriage of goods to and from third countries the customs security measures set out in Article 12b(1) and thus to ensure an equivalent level of security at their external borders.
+2. The Contracting Parties shall refrain from applying the customs security measures set out in Article 12b(1) to the carriage of goods between their customs territories.
+3. The Contracting Parties shall consult each other prior to the conclusion of any agreement with a third country relating to customs security measures in order to ensure consistency with this arrangement, particularly if the proposed agreement includes provisions that derogate from the customs security measures set out in this Title.
+Article 12d
+Place for lodging the declaration prior to entry and exit of goods
+1. The declaration prior to entry of goods shall be lodged with the competent authority of the Contracting Party into whose customs territory the goods are brought from third countries. That authority shall carry out a risk analysis based on data contained in the declaration and any customs security controls deemed necessary, including cases where goods are destined for the other Contracting Party.
+2. The declaration prior to exit of goods shall be lodged with the competent authority of the Contracting Party in whose customs territory the formalities for exportation or, where appropriate, exit to third countries are carried out. That competent authority shall carry out a risk analysis based on the data in that declaration together with the customs security controls deemed necessary.
+3. When goods destined for a third country leave the customs territory of a Contracting Party through the customs territory of the other Contracting Party, the declaration prior to the exit of the goods shall be lodged only with the competent authorities of the second Contracting Party.
+Article 12e
+Customs security controls and security-related risk management
+1. For the purpose of customs security controls, each Contracting Party shall establish a risk management framework, risk criteria and priority areas for security-related customs controls.
+2. The Contracting Parties shall recognise the equivalence of their security-related risk management systems.
+3. The Contracting Parties shall cooperate with a view to:
+- exchanging information with the aim of improving and strengthening their risk analysis and the effectiveness of security-related customs controls, and,
+- establishing in good time a common framework for risk management, common risk criteria and common priority areas for controls, and setting up an electronic system to implement such common management of risk.
+4. The Joint Committee shall adopt any other measure necessary for the application of this Article.
+Article 12f
+Monitoring the implementation of customs security measures
+1. The Joint Committee shall determine how the Contracting Parties are to monitor the implementation of this Title and to verify compliance with the customs security measures.
+2. That monitoring may take the form of:
+- regular assessments of the implementation of this Title, and in particular of the equivalence of customs security measures,
+- a review to improve the way in which it is applied or to amend its provisions so that it better fulfils its objectives,
+- the organisation of thematic meetings between experts of both Parties and audits of administrative procedures, including on-the-spot visits.
+3. The Joint Committee shall ensure that measures taken under this Article uphold the rights of the economic operators concerned.
+Article 12g
+Exchange of information concerning authorised economic operators
+The European Commission and the competent Andorran authorities shall regularly inform each other of the identities of their authorised economic operators for the purposes of security, and include the following information:
+(a) the Trader Identification Number (TIN) in a format compatible with Economic Operator Registration and Identification (EORI) legislation;
+(b) the names and addresses of authorised economic operators;
+(c) the number of the document granting the status of authorised economic operator;
+(d) current status (current, suspended, withdrawn);
+(e) periods of altered status;
+(f) the date on which the certificate becomes effective;
+(g) the authority which issued the certificate.
+Article 12h
+Protection of professional secrecy and personal data
+The information exchanged by the Contracting Parties as part of the measures provided for in this Title shall enjoy the protection extended to professional secrecy and personal data as defined in the relevant laws applicable in the territory of the recipient Contracting Party.
+In particular, that information may not be transferred to persons other than the competent bodies in the Contracting Party concerned, nor may it be used by those bodies for purposes other than those provided for in this Agreement.
+CHAPTER II
+Management of the arrangement
+Article 12i
+Development of law
+1. As soon as the Union draws up new legislation relating to customs security measures, it shall seek an informal opinion of Andorran experts.
+2. The Union shall enable Andorran experts to participate as observers for items concerning them in meetings of the Customs Code Committee, which assists the European Commission in the exercise of its implementing powers in matters covered by Title IIA. The provisions set out in Articles 66 to 68 of Decision No 1/2003 of the EC-Andorra Joint Committee [**] shall apply mutatis mutandis.
+3. When the European Commission sends its proposal to the European Parliament and/or to the Council of the European Union, or its draft implementing measures to the Member States, it shall send a copy to the Principality of Andorra.
+At the request of one of the Contracting Parties, a preliminary exchange of views may take place in the Joint Committee.
+4. In the phase prior to the adoption of the new Union legislation, and at the request of one of their number, the Contracting Parties shall consult each other again on the Joint Committee in a continuous process of information and consultation.
+5. The Contracting Parties shall cooperate during the information and consultation phase with a view to facilitating, at the end of the process, the simultaneous application by the Contracting Parties of the new legislation referred to in paragraph 1.
+Article 12j
+Agreements with third countries
+The Contracting Parties agree that agreements concluded by either of them with a third country in an area covered by Title IIA shall not create obligations for the other Party, unless the Joint Committee decides otherwise.
+Article 12k
+Rebalancing measures
+1. A Contracting Party may, after consultations within the Joint Committee, take appropriate rebalancing measures, including suspension of the provisions of Title IIA, if it finds that the other Party is not adhering to its conditions or if the equivalence of the Contracting Parties’ customs security measures is no longer assured.
+Where any delay could jeopardise the effectiveness of customs security measures, provisional protective measures may be taken, without prior consultation, provided that consultations are held immediately after their adoption.
+2. If the equivalence of the Contracting Parties’ customs security measures is no longer assured because the new legislation provided for in Article 12i has not been adopted by the Principality of Andorra, the Union may suspend the application of Title IIA, unless the Joint Committee, having considered how to continue its application, decides otherwise.
+3. The scope and duration of such measures shall be limited to what is necessary in order to remedy the situation and to secure a fair balance of rights and obligations under this Title. A Contracting Party may ask the Joint Committee to hold consultations about the proportionality of those measures. If the Joint Committee is unable to settle the dispute, it may, where appropriate, decide to submit it to arbitration in accordance with Article 18(2). No question of interpretation of the relevant provisions of Union law may be resolved within this framework.
+CHAPTER III
+Miscellaneous provisions concerning the arrangement relating to customs security measures
+Article 12l
+Revision
+If a Contracting Party wishes to have the arrangement revised, it shall submit a proposal to that effect to the other Party. The revision shall enter into force after the respective internal procedures of the Parties have been completed.
+Article 2
+This Protocol shall form an integral part of the Agreement.
+Article 3
+1. This Protocol shall be approved by the Contracting Parties in accordance with their own procedures. It shall enter into force on 1 January 2011, provided that the Contracting Parties have notified one another before that date that the requisite procedures have been completed.
+2. If this Protocol does not enter into force on 1 January 2011, it shall enter into force on the day following the date on which the Contracting Parties notify one another that the requisite procedures have been completed.
+3. Pending completion of the procedures referred to in paragraphs 1 and 2, the Contracting Parties shall apply this Protocol provisionally from 1 January 2011 or a later date agreed by them.
+Article 4
+Languages
+This Protocol shall be drawn up in duplicate in the Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish and Catalan languages, all texts being equally authentic.
+За Европейския съюз
+Por la Unión Europea
+Za Evropskou unii
+For Den Europæiske Union
+Für die Europäische Union
+Euroopa Liidu nimel
+Για την Ευρωπαϊκή Ένωση
+For the European Union
+Pour l'Union européenne
+Eiropas Savienības vārdā –
+Europos Sajungos vardu
+Az Európai Unió részéről
+Għall-Unjoni Ewropea
+Voor de Europese Unie
+W imieniu Unii Europejskiej
+Pela União Europeia
+Pentru Uniunea Europeană
+Za Európsku úniu
+Za Evropsko unijo
+Euroopan unionin puolesta
+För Europeiska unionen
+Per l'Unione europea
++++++ TIFF +++++
++++++ TIFF +++++
+За Княжество Андора
+Por el Principado de Andorra
+Za Andorrské knížectví
+For Fyrstendømmet Andorra
+Für das Fürstentum Andorra
+Andorra Vürstiriigi nimel
+Για το Πριγκιπάτο της Ανδόρας
+For the Principality of Andorra
+Pour la Principauté d'Andorre
+Per il Principato di Andorra
+Andoras Firstistes vārdā –
+Andoros Kunigaikštystės vardu
+Az Andorrai Hercegség részéről
+Għall-Prinċipat ta' Andorra
+Voor het Vorstendom Andorra
+W imieniu Księstwa Andory
+Pelo Principado de Andorra
+Pentru Principatul Andorra
+Za Andorrské kniežatstvo
+Za Kneževino Andoro
+Andorran ruhtinaskunnan puolesta
+För Furstendömet Andorra
+Pel Principat d'Andorra
++++++ TIFF +++++
+[1] Commission Decision 2010/625/EU of 19 October 2010 pursuant to Directive 95/46/EC of the European Parliament and of the Council on the adequate protection of personal data in Andorra (OJ L 277, 21.10.2010, p. 27).
+[**] OJ L 253, 7.10.2003, p. 3.".
+--------------------------------------------------

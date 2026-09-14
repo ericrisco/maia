@@ -1,0 +1,1225 @@
+
+
+
+
+	
+
+
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    
+    
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<meta name="description" content="&lt;p&gt;Benvinguts a la Seu electr&amp;ograve;nica del Consell General del Principat d&#39;Andorra, l&#39;entorn segur per a la comunicaci&amp;oacute; i intercanvi d&#39;informaci&amp;oacute; i prestaci&amp;oacute; de serveis electr&amp;ograve;nics del Consell General del Principat d&#39;Andorra. Aqu&amp;iacute; podreu trobar la informaci&amp;oacute; sobre serveis que s&amp;rsquo;ofereixen i consultar informaci&amp;oacute; com ara l&amp;rsquo;estat dels vostres expedients i altra informaci&amp;oacute;.&lt;/p&gt;">
+
+
+    
+    
+    <title> Avís legal - Consell General Principat d&#39;Andorra </title>
+
+    
+    
+
+<link rel="stylesheet" href="/css/jquery/jquery-ui/jquery-ui-1.14.0.css">
+
+
+
+    <link rel="stylesheet" href="/base2024/css/main.css" >
+    <link rel="stylesheet" href="/consellandorra/css/main.css">
+
+
+
+
+
+    <link rel="stylesheet" href="/configuration/css/9e516059-2df1-4eae-906b-2280d4c0d1c7">
+
+
+
+<link rel="stylesheet" href="/base2024/icons/css/font-awesome.css">
+
+
+    
+    
+<script>
+    function getCookie(name) {
+        // Split cookie string and get all individual name=value pairs in an array
+        let cookieArr = document.cookie.split(";");
+
+        // Loop through the array elements
+        for(let i = 0; i < cookieArr.length; i++) {
+            let cookiePair = cookieArr[i].split("=");
+
+            /* Removing whitespace at the beginning of the cookie name
+            and compare it with the given string */
+            if(name === cookiePair[0].trim()) {
+                // Decode the cookie value and return
+                return decodeURIComponent(cookiePair[1]);
+            }
+        }
+
+        // Return null if not found
+        return null;
+    }
+    function isGAEnabled() {
+        const cookies = getCookie('cb-enabled');
+        if (cookies != null && cookies !== "") {
+            const json = JSON.parse(cookies);
+            const analytics = json['analytics'] !== undefined ? json['analytics'] : false;
+            const ga = json['ga'] !== undefined ? json['ga'] : false;
+            return analytics || ga;
+        }
+        return false;
+    }
+
+    function isPiwikEnabled() {
+        const cookies = getCookie('cb-enabled');
+        if (cookies != null && cookies !== "") {
+            const json = JSON.parse(cookies);
+            const analytics = json['analytics'] !== undefined ? json['analytics'] : false;
+            const piwik = json['piwik'] !== undefined ? json['piwik'] : false;
+            return analytics || piwik;
+        }
+        return false;
+    }
+
+
+</script>
+
+<!-- Google Analytics -->
+
+
+
+<!-- Fi de Google Analytics -->
+
+<!-- PIWIK APDCAT -->
+
+
+
+
+
+
+
+<script src="/js/jquery/jquery-3.7.1.min.js"></script>
+<script src="/js/jquery/jquery-ui-1.14.0.min.js"></script>
+
+
+
+
+<script src="/js/jquery/jquery.treeview.js"></script>
+<link rel="stylesheet" href="/css/jquery/jquery.treeview/jquery.treeview.css">
+
+
+
+    <script
+            src="/js/jquery/jquery.ui.datepicker-ca.js"></script>
+
+
+
+    <link rel="stylesheet" href="/css/cookies.css">
+
+
+
+
+
+
+
+
+
+
+
+    <script>
+        //<![CDATA[
+        let nSinc = 0;
+        var horaOfi = 1789324635612;
+        var dataSeu = new Date(horaOfi);
+
+        setInterval("actualitzaHora()", 1000);
+
+        function actualitzaHora() {
+            nSinc++;
+            if (nSinc > 60) {
+                ajaxSincronitzaHora();
+            } else {
+
+                horaOfi = horaOfi + 1000;
+                dataSeu.setTime(horaOfi);
+
+                var hor = dataSeu.getHours();
+                if (hor < 10)
+                    hor = "0" + hor
+                var sec = dataSeu.getSeconds();
+                if (sec < 10)
+                    sec = "0" + sec
+                var min = dataSeu.getMinutes();
+                if (min < 10)
+                    min = "0" + min
+
+                jQuery('#horaOficialUpdate .horaOficialTime').html(hor + ":" + min + ":" + sec);
+            }
+
+
+        }
+
+        function ajaxSincronitzaHora() {
+            nSinc = 0;
+            const noString = false
+
+            jQuery.ajax({
+                cache: false,
+                timeout: 300000,
+                url: "/calendariPublic/getHoraOficial2?nSinc=" + nSinc + "&noString=" + noString,
+                success: function (data) {
+                    var foo = data.split('!');
+                    horaOfi = parseInt(foo[1]);
+                    jQuery('#horaOficialUpdate').html(foo[0]);
+                }
+            });
+            return false;
+        }
+
+        //]]>
+    </script>
+
+
+<script>
+    jQuery(document).ready(function () {
+        jQuery(".arbreTramits").treeview({
+            persist: "location",
+            collapsed: true,
+            unique: true
+        });
+    });
+</script>
+
+
+
+
+
+
+
+
+    
+    <link rel="shortcut icon" href="/consellandorra/images/favicon.ico" type="image/x-icon">
+
+    
+    
+
+    
+
+
+
+    
+    
+    <meta name="layout" content="publicLayout">
+    
+    
+
+
+
+</head>
+
+<body>
+
+
+
+
+<div class="bodyTop">
+    
+</div>
+
+
+
+<header>
+
+    
+        
+
+
+
+
+
+
+
+    
+
+
+    
+    
+
+
+
+    
+
+    
+        <div class="HEADER" id="HEADER_1">
+            
+                
+
+
+
+
+<div class="zone_1">
+    
+        
+        
+            
+
+<a class="" id="content_41" href="https://www.consellgeneral.ad/"
+   target="_blank">
+    <span>Web del Consell General</span>
+</a>
+
+        
+    
+        
+        
+            
+
+<a class="" id="content_59" href="https://registre.consellgeneral.ad/Ciutadania/"
+   target="_blank">
+    <span>Tràmits</span>
+</a>
+
+        
+    
+        
+        
+            
+
+<a class="" id="content_60" href="https://www.bopa.ad/"
+   target="_blank">
+    <span>BOPA / Portal jurídic</span>
+</a>
+
+        
+    
+</div>
+            
+                
+
+
+
+
+<div class="zone_2">
+    
+        
+        
+            
+
+
+
+    <a href="https://registre.consellgeneral.ad/Ciutadania/ValidarDocuments.aspx" class="validador" id="content_43" target=&quot;_blank&quot;>
+        <img src="/dynamicItem/icon/1201"
+             alt="Validador de documents" class="icon">
+        
+            <span>Validador de documents</span>
+        
+    </a>
+
+
+
+
+
+
+        
+    
+</div>
+            
+                
+
+
+
+
+<div class="zone_3">
+    
+        
+        
+            <div id="oficial-time">
+    <div id="horaOficialUpdate">
+        <span class='horaOficialText'>Data i hora oficial: </span><span class='horaOficialDate'>diumenge 13 de setembre de 2026, </span><span class='horaOficialTime notranslate'>18:37:15</span>
+    </div>
+</div>
+        
+    
+        
+        
+            
+
+
+
+    <a href="/dynamicItemPublic/mostrarContingut/42" class="ajuda" id="content_42" >
+        <img src="/dynamicItem/icon/1200"
+             alt="Ajuda" class="icon">
+        
+            <span>Ajuda</span>
+        
+    </a>
+
+
+
+
+
+
+        
+    
+</div>
+            
+        </div>
+    
+
+    
+
+    
+        <div class="HEADER" id="HEADER_2">
+            
+                
+
+
+
+
+<div class="zone_1">
+    
+        
+        
+            
+
+
+
+<a class="oficial-title" href="/" target="_self" rel="noopener noreferrer">
+    
+        <div class="logo">
+            <img src="/dynamicItem/icon/1276"
+                 alt="Consell General Principat d&#39;Andorra">
+        </div>
+    
+
+    <div class="title">
+        <h1>Seu electrònica </h1>
+
+        
+    </div>
+</a>
+
+        
+    
+</div>
+            
+                
+
+
+
+
+<div class="zone_2">
+    
+        
+        
+            
+
+
+<div class="dropdown menu-dropdown" data-open="false">
+    <script>
+    $(document).ready(function () {
+        
+        class Dropdown {
+            constructor(container) {
+                this.isOpen = false;
+                this.activeIndex = undefined;
+
+                this.container = container;
+                this.button = container.querySelector(".dropdown-button");
+                this.menu = container.querySelector(".dropdown-menu");
+                this.items = container.querySelectorAll(".dropdown-menu-item");
+            }
+
+            initEvents() {
+                this.button.addEventListener("click", this.toggle.bind(this));
+                document.addEventListener("click", this.onClickOutside.bind(this));
+                document.addEventListener("keydown", this.onKeyEvent.bind(this));
+            }
+
+            toggle() {
+                this.isOpen = !this.isOpen;
+                this.button.setAttribute("aria-expanded", this.isOpen);
+                this.menu.setAttribute("aria-hidden", !this.isOpen);
+                this.container.dataset.open = this.isOpen;
+            }
+
+            onClickOutside(e) {
+                if (!this.isOpen) return;
+
+                let targetElement = e.target;
+
+                do {
+                    if (targetElement == this.container) return;
+
+                    targetElement = targetElement.parentNode;
+                } while (targetElement);
+
+                this.toggle();
+            }
+
+            onKeyEvent(e) {
+                if (!this.isOpen) return;
+
+                if (e.key === "Tab") {
+                    this.toggle();
+                }
+
+                if (e.key === "Escape") {
+                    this.toggle();
+                    this.button.focus();
+                }
+
+                if (e.key === "ArrowDown") {
+                    this.activeIndex =
+                        this.activeIndex < this.items.length - 1 ? this.activeIndex + 1 : 0;
+                    this.items[this.activeIndex].focus();
+                }
+
+                if (e.key === "ArrowUp") {
+                    this.activeIndex =
+                        this.activeIndex > 0 ? this.activeIndex - 1 : this.items.length - 1;
+                    this.items[this.activeIndex].focus();
+                }
+            }
+        }
+
+        const dropdowns = document.querySelectorAll(".dropdown");
+        dropdowns.forEach((dropdown) => new Dropdown(dropdown).initEvents());
+    });
+</script>
+
+    <button class="menu-toggle dropdown-button" id="menu-toggle" aria-expanded="false">
+        <span class="screen-reader-text">Menú</span>
+        <svg class="icon icon-menu-toggle" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100">
+            <g class="svg-menu-toggle">
+                <path class="line line-1" d="M5 13h90v14H5z"/>
+                <path class="line line-2" d="M5 43h90v14H5z"/>
+                <path class="line line-3" d="M5 73h90v14H5z"/>
+            </g>
+        </svg>
+    </button>
+    <div class="dropdown-menu scale">
+        
+            <ul class="col" role="menu" aria-hidden="true">
+                
+                
+                    <li class="dropdown-menu-item" tabindex="-1" role="menuitem">
+                        
+
+    <a href="/dynamicItemPublic/mostrarContingut/7" class="link contingut_7 infoSeu">
+        <span style="">Què és la seu electrònica?</span>
+    </a>
+
+
+
+                    </li>
+                
+                    <li class="dropdown-menu-item" tabindex="-1" role="menuitem">
+                        
+
+    <a href="/dynamicItemPublic/mostrarContingut/31" class="link contingut_31 null">
+        <span style="">Formats de documents admesos</span>
+    </a>
+
+
+
+                    </li>
+                
+                    <li class="dropdown-menu-item" tabindex="-1" role="menuitem">
+                        
+
+    <a href="/dynamicItemPublic/mostrarContingut/9" class="link contingut_9 relacioCertificats">
+        <span style="">Relació de signatures electròniques i certificats digitals admesos</span>
+    </a>
+
+
+
+                    </li>
+                
+                    <li class="dropdown-menu-item" tabindex="-1" role="menuitem">
+                        
+
+    <a href="/dynamicItemPublic/mostrarContingut/12" class="link contingut_12 null">
+        <span style="">Calendari laboral i horari d'atenció al públic</span>
+    </a>
+
+
+
+                    </li>
+                
+            </ul>
+        
+            <ul class="col" role="menu" aria-hidden="true">
+                
+                
+                    <li class="dropdown-menu-item" tabindex="-1" role="menuitem">
+                        
+
+    <a href="/dynamicItemPublic/mostrarContingut/13" class="link contingut_13 null">
+        <span style="">Interrupcions previstes de la seu</span>
+    </a>
+
+
+
+                    </li>
+                
+            </ul>
+        
+    </div>
+
+</div>
+
+        
+    
+</div>
+            
+        </div>
+    
+
+    
+
+    
+        <div class="HEADER" id="HEADER_3">
+            
+                
+
+
+
+
+<div class="zone_1">
+    
+        
+        
+            
+
+
+
+
+
+
+<div class="header-searcher" style='background-image: url("/dynamicItem/icon/1226")'>
+    <div class="search-bar">
+        <form action="/cerca/index" method="get" >
+            <label for="search">Cerca per paraules</label>
+            <input type="text" name="q" minlength="3" id="search" class="header-navbar__searchInput"
+                   placeholder="">
+            <!-- Si existe el parametro codi -->
+            
+            <button type="submit" class="header-navbar__searchButton">Cercar</button>
+        </form>
+    </div>
+
+    
+</div>
+
+        
+    
+</div>
+            
+        </div>
+    
+
+
+
+
+
+    
+        <div id="filAriadna">
+            <div class="container">
+                <div id="molletes">
+                    <a href="/">Inici</a>&nbsp;<a href="/public/mostrar/avisLegal">Av&iacute;s legal</a>
+                </div>
+            </div>
+        </div>
+    
+
+
+
+</header>
+
+<div class="contenedor">
+
+    
+
+    
+    
+        <h2>Av&iacute;s legal</h2>
+    
+
+
+
+
+    
+    
+    
+    
+    
+
+
+    <main>
+        
+        
+
+<div class="areaTreballContent">
+    <div class='blocText'><h3>1. Dades Identificatives</h3>
+<p>Aquest portal &eacute;s el lloc web oficial del Consell General del Principat d&rsquo;Andorra, que &eacute;s el titular del domini consellgeneral.ad.</p>
+<p>Aquest lloc web i tots els seus continguts, incloent-hi els textos, imatges, so i qualsevol altre material s&oacute;n propietat del Consell General del Principat d&rsquo;Andorra, amb domicili al Carrer de la Vall 9-13, Andorra la Vella, AD 500 Principat d&rsquo;Andorra, adre&ccedil;a electr&ograve;nica <a href="mailto:consell.general@parlament.ad">consell.general@parlament.ad</a>, tel&egrave;fon +376 877 877 i fax +376 869 863 i n&uacute;mero d&rsquo;identificaci&oacute; fiscal U-800649-P, o de terceres persones que han autoritzat a l&rsquo;entitat per a usar aquests continguts.</p>
+<h3>2. Condicions d&rsquo;&uacute;s</h3>
+<p>Les seg&uuml;ents condicions tenen per objecte regular l&rsquo;&uacute;s del portal web del Consell General del Principat d&rsquo;Andorra:</p>
+<ul>
+<li>L&rsquo;acc&eacute;s i la navegaci&oacute; pel lloc web, o l&rsquo;&uacute;s dels serveis de la mateixa, us atribueix la condici&oacute; d&rsquo;usuari, fet que suposa l&rsquo;acceptaci&oacute; de les presents condicions d&rsquo;&uacute;s des del moment en que es produeix aquest acc&eacute;s.</li>
+<li>El portal web proporciona l&rsquo;acc&eacute;s a una pluralitat de continguts en l&iacute;nia, entre ells, informacions, serveis, procediments i tr&agrave;mits administratius pertanyents a l&rsquo;entitat.</li>
+<li>L&rsquo;usuari assumir&agrave; la responsabilitat de l&rsquo;&uacute;s que li doni al lloc web, que s&rsquo;est&eacute;n a l&rsquo;autenticaci&oacute; o registre que sigui necessari per a poder realitzar sol&middot;licituds telem&agrave;tiques a tr&agrave;mits administratius o accedir a determinats continguts.</li>
+<li>L&rsquo;usuari es compromet a fer un &uacute;s adequat i diligent dels continguts que s&rsquo;ofereixen al portal i, amb car&agrave;cter enunciatiu per&ograve; no limitador, a no emprar-los per a:
+<ul>
+<li>Inc&oacute;rrer en activitats il&middot;l&iacute;cites, il&middot;legals o contr&agrave;ries a la bona fe i a l&rsquo;ordre p&uacute;blic.</li>
+<li>Realitzar qualsevol acci&oacute; consistent en perjudicar, bloquejar, danyar, inutilitzar i/o sobrecarregar temporal o definitivament les funcionalitats, eines, continguts o infraestructura del lloc web.</li>
+<li>Introduir continguts injuriosos o calumniosos.</li>
+<li>Provocar danys als sistemes f&iacute;sics i l&ograve;gics d&rsquo;aquesta entitat, dels seus prove&iuml;dors o de terceres persones i/o introduir o difondre virus o sistemes f&iacute;sics o l&ograve;gics a la xarxa inform&agrave;tica.</li>
+<li>Fer intents d&rsquo;acc&eacute;s i &uacute;s dels comptes de correu electr&ograve;nic o noms d&rsquo;usuari i contrasenya d&rsquo;altres persones usu&agrave;ries.</li>
+</ul>
+</li>
+</ul>
+<p><br />La reutilitzaci&oacute; d&rsquo;alguns dels documents i elements gr&agrave;fics que cont&eacute; aquest lloc web pot estar limitada per raons de protecci&oacute; de drets de la propietat intel&middot;lectual, d&rsquo;acord amb la Llei de 10 de juny de 1999, sobre drets d&rsquo;autor i drets ve&iuml;ns, que pot suposar que en alguns casos s&rsquo;indiquin limitacions a la c&ograve;pia, difusi&oacute; o reutilitzaci&oacute;.</p>
+<p><br />No s&rsquo;autoritza en cap cas l&rsquo;&uacute;s de logotips, marques, escuts i s&iacute;mbols distintius del Consell General del Principat d&rsquo;Andorra en publicacions i webs que no siguin participats o patrocinats per aquesta entitat. Aquests elements d&rsquo;identitat gr&agrave;fica corporativa s&oacute;n propietat exclusiva del Consell General del Principat d&rsquo;Andorra i estan protegits per la legislaci&oacute; vigent aplicable.</p>
+<h3>3. Exempci&oacute; de responsabilitats</h3>
+<p>El Consell General del Principat d&rsquo;Andorra podr&agrave; modificar la informaci&oacute; continguda a la seu electr&ograve;nica sense previ av&iacute;s, aix&iacute; com la seva configuraci&oacute; i presentaci&oacute;. <br />L&rsquo;entitat no es far&agrave;, en cap cas, responsable dels danys i perjudicis derivats dels usos que els usuaris facin del portal web sense respectar el present av&iacute;s legal. Tampoc en els casos en que la responsabilitat no pugui ser atribu&iuml;ble a l&rsquo;ens, entre ells, a t&iacute;tol enunciatiu per&ograve; no limitatiu:</p>
+<ul>
+<li>Intromissions il&middot;leg&iacute;times fora del control de l&rsquo;entitat.</li>
+<li>La falta de disponibilitat de la seu electr&ograve;nica.</li>
+<li>La transmissi&oacute; de virus o programes maliciosos o lesius aliens a l&rsquo;entitat en els continguts, tot i haver adoptat totes les mesures tecnol&ograve;giques necess&agrave;ries per a evitar-ho.</li>
+<li>Danys derivats de l&rsquo;&uacute;s de la informaci&oacute; o programari continguts al lloc web.</li>
+</ul>
+<p>L&rsquo;entitat recomana a la persona usu&agrave;ria que recarregui els continguts de forma freq&uuml;ent amb la finalitat de rebre la informaci&oacute; de forma actualitzada. <br />El Consell General del Principat d&rsquo;Andorra en el moment d&rsquo;establir enlla&ccedil;os a sistemes externs, els ha comprovat i no t&eacute; coneixement que l&rsquo;activitat o informaci&oacute; a qu&egrave; es remet pugui ser il&middot;l&iacute;cita o lesionar b&eacute;ns o drets de terceres persones susceptibles d&rsquo;indemnitzaci&oacute;. No obstant aix&ograve;, l&rsquo;entitat no es far&agrave; responsable de la informaci&oacute; que es pugui obtenir mitjan&ccedil;ant aquests enlla&ccedil;os. <br />La informaci&oacute; facilitada a trav&eacute;s d&rsquo;aquest portal web no substitueix la publicitat legal de les lleis i els altres textos que hagin d&rsquo;&eacute;sser publicats formalment en el Butllet&iacute; Oficial del Principat d&rsquo;Andorra o en altres mitjans oficials, que s&oacute;n l&rsquo;&uacute;nic instrument fedatari de la seva autenticitat.</p>
+<h3>4. Pol&iacute;tica de Privacitat</h3>
+<p>El Consell General del Principat d&rsquo;Andorra tracta dades de car&agrave;cter personal a trav&eacute;s del seu portal web, &uacute;nica i exclusivament per als serveis que es sol&middot;licitin i d&rsquo;acord amb les seves compet&egrave;ncies, com estableix la Llei 29/2021, del 28 d&rsquo;octubre, qualificada de protecci&oacute; de dades personals. Pot consultar el detall del tractament de dades personals accedint a la pol&iacute;tica de privacitat de l&rsquo;entitat.</p>
+<h3>5. Pol&iacute;tica de Galetes</h3>
+<p>El Consell General del Principat d&rsquo;Andorra podr&agrave; instal&middot;lar galetes al navegador de l&rsquo;usuari amb la finalitat de poder oferir un millor servei. En cap cas les galetes s&rsquo;usaran per a recopilar informaci&oacute; de car&agrave;cter personal. Pot consultar el detall del seu &uacute;s accedint a la pol&iacute;tica de galetes de l&rsquo;entitat.</p>
+<h3>6. Legislaci&oacute; aplicable</h3>
+<p>La llei aplicable en cas de disputa o conflicte d&rsquo;interpretaci&oacute; dels termes que conformen aquest av&iacute;s legal, aix&iacute; com qualsevol q&uuml;esti&oacute; relacionada amb els serveis d&rsquo;aquest lloc web, &eacute;s la llei andorrana. L&rsquo;usuari i l&rsquo;entitat es comprometen a sotmetre qualsevol discrep&agrave;ncia o litigi que pugui sorgir a la jurisdicci&oacute; dels tribunals andorrans competents amb ren&uacute;ncia expressa a tot altre fur o jurisdicci&oacute;.</p></div>
+</div>
+
+    </main>
+</div>
+
+
+<footer>
+    
+    
+    
+
+
+
+    
+
+    
+        <div class="FOOTER" id="FOOTER_1">
+            
+                
+
+
+
+
+<div class="zone_1">
+    
+        
+        
+            <div class="titol_serveis" id="content_50">
+    <h2>Serveis</h2>
+</div>
+        
+    
+        
+        
+            
+
+
+<div class="serveis contingut_51">
+    
+        
+
+<a target=&quot;_self&quot; href="/normativaMilloradaAnunciPublic/categories/57"
+   class="iconLink contingut_67 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1193"
+                 alt="Butlletins per data" class="icon">
+        </div>
+    
+    <span style="">Butlletins per data</span>
+    
+</a>
+
+
+
+    
+        
+
+<a target=&quot;_self&quot; href="/normativaMilloradaAnunciPublic/categories/11"
+   class="iconLink contingut_68 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1192"
+                 alt="Iniciatives legislatives" class="icon">
+        </div>
+    
+    <span style="">Iniciatives legislatives</span>
+    
+</a>
+
+
+
+    
+        
+
+<a target=&quot;_self&quot; href="normativaMilloradaAnunciPublic/categories/26"
+   class="iconLink contingut_69 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1191"
+                 alt="Control i impuls de l&#39;acci&oacute; de Govern" class="icon">
+        </div>
+    
+    <span style="">Control i impuls de l&#39;acci&oacute; de Govern</span>
+    
+</a>
+
+
+
+    
+        
+
+<a target=&quot;_self&quot; href="/normativaMilloradaAnunciPublic/categories/38"
+   class="iconLink contingut_70 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1190"
+                 alt="Sessions p&uacute;bliques" class="icon">
+        </div>
+    
+    <span style="">Sessions p&uacute;bliques</span>
+    
+</a>
+
+
+
+    
+        
+
+<a target=&quot;_self&quot; href="/normativaMilloradaAnunciPublic/categories/52"
+   class="iconLink contingut_71 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1189"
+                 alt="Concursos p&uacute;blics" class="icon">
+        </div>
+    
+    <span style="">Concursos p&uacute;blics</span>
+    
+</a>
+
+
+
+    
+        
+
+<a target=&quot;_self&quot; href="/taulerAnuncisPublic/listPublicacions?cat.id=74"
+   class="iconLink contingut_72 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1188"
+                 alt="Demandes d&#39;informaci&oacute;" class="icon">
+        </div>
+    
+    <span style="">Demandes d&#39;informaci&oacute;</span>
+    
+</a>
+
+
+
+    
+        
+
+<a target=&quot;_self&quot; href="/normativaMilloradaAnunciPublic/categories/6"
+   class="iconLink contingut_73 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1187"
+                 alt="Actes del Ple" class="icon">
+        </div>
+    
+    <span style="">Actes del Ple</span>
+    
+</a>
+
+
+
+    
+        
+
+<a target=&quot;_self&quot; href="/normativaMilloradaAnunciPublic/categories/54"
+   class="iconLink contingut_74 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1186"
+                 alt="Oferta p&uacute;blica de Llocs de treball" class="icon">
+        </div>
+    
+    <span style="">Oferta p&uacute;blica de Llocs de treball</span>
+    
+</a>
+
+
+
+    
+        
+
+<a target=&quot;_self&quot; href="/normativaMilloradaAnunciPublic/categories/49"
+   class="iconLink contingut_75 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1185"
+                 alt="Organismes adscrits" class="icon">
+        </div>
+    
+    <span style="">Organismes adscrits</span>
+    
+</a>
+
+
+
+    
+        
+
+<a  href="/dynamicItemPublic/mostrarContingut/76"
+   class="iconLink contingut_76 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1184"
+                 alt="Transpar&egrave;ncia" class="icon">
+        </div>
+    
+    <span style="">Transpar&egrave;ncia</span>
+    
+</a>
+
+
+
+    
+        
+
+<a target=&quot;_blank&quot; href="https://seu.consellgeneral.ad/normativaMilloradaAnunciPublic/categories/51"
+   class="iconLink contingut_92 ">
+    
+        <div>
+            <img src="/dynamicItem/icon/1275"
+                 alt="Altres informacions" class="icon">
+        </div>
+    
+    <span style="">Altres informacions</span>
+    
+</a>
+
+
+
+    
+</div>
+        
+    
+</div>
+            
+        </div>
+    
+
+    
+
+    
+        <div class="FOOTER" id="FOOTER_2">
+            
+                
+
+
+
+
+<div class="zone_1">
+    
+        
+        
+            <div class="contacte default-footer" id="content_84">
+    <span class="contacte default-footer" id="content_84">
+    <div class="info-contacte">
+    <p class="info">
+        <span class="title">Consell General del Principat d'Andorra</span>
+        <span> Carrer de la Vall 9-13, Andorra la Vella, AD500</span>
+        <span>(Principat d'Andorra)</span>
+        <span>Tel. <a href="tel:+376877877" target="_blank" rel="noopener">+376 877 877</a></span>
+    </p>
+    <ul class="list-social-networks">
+        <li>
+            <a class="socialLink" href="https://x.com/consellgeneral" target="_blank" rel="noopener">
+                <span class="picto-twitter" title="Twitter" aria-hidden="true">
+                </span>
+                <span class="sr-only">Twitter</span>
+            </a>
+        </li>
+        <li>
+            <a class="socialLink" href="https://www.facebook.com/consellgeneral.ad/" target="_blank" rel="noopener">
+                <span class="picto-facebook" title="Facebook" aria-hidden="true">
+                </span>
+                <span class="sr-only">Facebook</span>
+            </a>
+        </li>
+        <li>
+            <a class="socialLink" href="https://www.instagram.com/consellgeneral/" target="_blank" rel="noopener">
+                <span class="picto-instagram" title="Instagram" aria-hidden="true">
+                </span>
+                <span class="sr-only">Instagram</span>
+            </a>
+        </li>
+        <li>
+            <a class="socialLink" href="https://www.youtube.com/@consellgeneral" target="_blank" rel="noopener">
+                <span class="picto-youtube" title="Youtube" aria-hidden="true">
+                </span>
+                <span class="sr-only">Youtube</span>
+            </a>
+        </li>
+    </ul>
+</div>
+</span>
+</div>
+        
+    
+</div>
+            
+                
+
+
+
+
+<div class="zone_2">
+    
+        
+        
+            
+
+
+<div class="footer-sitemap">
+    
+        <ul class="col">
+            
+            
+                <li class="sitemap-item">
+                    
+
+    <a href="/dynamicItemPublic/mostrarContingut/11" class="link contingut_11 mapaDeLaSeu">
+        <span style="">Mapa de la web</span>
+    </a>
+
+
+
+                </li>
+            
+                <li class="sitemap-item">
+                    
+
+    <a href="/dynamicItemPublic/mostrarContingut/89" class="link contingut_89 null">
+        <span style="">Accessibilitat</span>
+    </a>
+
+
+
+                </li>
+            
+                <li class="sitemap-item">
+                    
+
+    <a href="/dynamicItemPublic/mostrarContingut/90" class="link contingut_90 null">
+        <span style="">Avís Legal</span>
+    </a>
+
+
+
+                </li>
+            
+                <li class="sitemap-item">
+                    
+
+    <a href="/dynamicItemPublic/mostrarContingut/91" class="link contingut_91 null">
+        <span style="">Política de privacitat</span>
+    </a>
+
+
+
+                </li>
+            
+                <li class="sitemap-item">
+                    
+
+    <a href="/dynamicItemPublic/mostrarContingut/10" class="link contingut_10 null">
+        <span style="">Data i hora oficial de la Seu</span>
+    </a>
+
+
+
+                </li>
+            
+        </ul>
+    
+        <ul class="col">
+            
+            
+                <li class="sitemap-item">
+                    
+
+    <a href="/dynamicItemPublic/mostrarContingut/29" class="link contingut_29 null">
+        <span style="">Identificació dels canals d'accés als serveis</span>
+    </a>
+
+
+
+                </li>
+            
+                <li class="sitemap-item">
+                    
+
+    <a target="_BLANK" href="https://consellgeneral.3c-cloud.ad/000006/applications/Butlleti_Consell.NSF"
+       class="link contingut_2 ">
+        <span style="">Butlletí del Consell General anterior al 2023</span>
+    </a>
+
+
+
+                </li>
+            
+                <li class="sitemap-item">
+                    
+
+    <a href="/dynamicItemPublic/mostrarContingut/34" class="link contingut_34 politica-cookies">
+        <span style="">Política de cookies</span>
+    </a>
+
+
+
+                </li>
+            
+        </ul>
+    
+</div>
+
+        
+    
+</div>
+            
+        </div>
+    
+
+    
+
+    
+        <div class="FOOTER" id="FOOTER_3">
+            
+                
+
+
+
+
+<div class="zone_1">
+    
+        
+        
+            <div class="copyright">
+    <span>
+        © 2024 Consell General Principat d'Andorra
+    </span>
+</div>
+        
+    
+</div>
+            
+                
+
+
+
+
+<div class="zone_2">
+    
+        
+        
+            <div class="developedBy">
+    <span>Desenvolupat per</span>
+    <img	src="/base2024/images/ecity_espublico_WHITE.svg"
+            alt="Logo eCityclic"
+            title="Logo eCityclic"
+    >
+</div>
+
+        
+    
+</div>
+            
+        </div>
+    
+
+
+</footer>
+
+
+
+    
+
+<link rel="stylesheet" href="/css/cookies.css" >
+<script src="/js/cookies/customCookieMethods.js"></script>
+<div id="cookie-notice-popup" class="cookie-notice">
+    <div class="body">
+            <p>
+                L&apos;informem que en aquest lloc web utilitzem cookies tant pròpies com de tercers per oferir un millor servei, d&apos;acord amb els seus hàbits de navegació. <a class="text-primary" target="_blank" href="/contingutPublic/mostrar/politica-cookies">Consulta la política de cookies</a>
+            </p>
+
+            <div class="bottom">
+                
+
+                <div class="bottons">
+                    
+                        <button class="btn btn-danger" onclick="cookieRejected()">
+                            Rebutjar-les totes
+                        </button>
+                    
+
+                    
+                        <button class="btn" onclick="cookieAcceptSystem()">
+                            Acceptar-les totes
+                        </button>
+                    
+                </div>
+            </div>
+
+
+    </div>
+</div>
+
+
+
+    <script src="/js/cookies/jquery.cookie.js"></script>
+
+
+
+
+
+<!--CONTENIDO BOTTOM-->
+<div class="bodyBottom">
+    
+</div>
+
+
+
+</body>
+</html>
+
+
+
