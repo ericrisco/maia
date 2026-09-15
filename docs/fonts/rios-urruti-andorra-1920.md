@@ -75,5 +75,6 @@ propietari del repositori, no de qui llegeix.**
 | **Al lector i capítol I** | **destil·lat el 17-09-2026** |
 | **Capítol II** | **destil·lat el 17-09-2026** |
 | **Capítol III, obertura** | **destil·lat el 17-09-2026** |
+| **Capítol III, pp. 74-79** | **destil·lat el 17-09-2026** |
 | **Capítol III, resta, i capítol IV** | **sense llegir** |
 | **Apèndixs** | **sense llegir** — **prioritari**, l'autor hi situa l'originalitat del dret públic andorrà |

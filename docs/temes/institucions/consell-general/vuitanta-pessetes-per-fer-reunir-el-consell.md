@@ -342,6 +342,23 @@ composició del Consell General**. **No confirma que fos subreptici**, i el corp
 no ho afirma. `Registrat: el fet material que l'acusació suposava —un text del
 bisbe imprès dins de la llei— és documentat per una font independent.`
 
+## D'on podria venir aquest dret
+
+**Afegit el 17-09-2026.** **Aquesta fitxa tenia el dipòsit com una curiositat de
+procediment.** **Un jurista espanyol que va ser a Andorra el 1918 hi posa un
+origen:** **«*Hay, pues, **un residuo del derecho de iniciativa, que en las
+asambleas del Concejo abierto correspondía a todo Cap de Casa***.*»**
+
+> **Si és cert, el dipòsit no és una taxa: és el que va quedar d'un dret que
+> tothom tenia.** **Al Consell Obert qualsevol cap de casa podia demanar que
+> s'obrís l'assemblea; en desaparèixer l'assemblea i quedar un consell de
+> vint-i-quatre, el dret sobreviu convertit en pagament.**
+>
+> **El corpus ho registra com a interpretació de la font i no com a fet**: **no
+> cita cap text que ho lligui.** Vegeu
+> [els consellers hi dormien](../patrimoni-institucional/els-consellers-hi-dormien.md)
+> i [cap de casa, però de casa antiga](./cap-de-casa-pero-de-casa-antiga.md).
+
 ## Buits registrats
 
 1. **El text de la Reforma de 1866.** **Ara amb fitxa bibliogràfica completa**:

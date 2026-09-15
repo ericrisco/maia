@@ -40,6 +40,17 @@ Aquesta fitxa té una paraula ben documentada i cap dada de l'edifici:
   verificar i descriure: se'n diu que guarda l'arxiu i que cal una clau per
   parròquia per obrir-lo. **Cap font consultada ho confirma encara.**
 - La sala del Consell, la cúria, la capella, la cuina.
+
+> **Per què hi ha cuina — 17-09-2026.** **Un jurista espanyol que hi va ser el
+> 1918 descriu l'interior «*como una gran posada, con cocinas, cuadras y en el
+> piso alto un gran comedor*», i en dona la raó: **«*en ella se aposentan los
+> Consellers cuando acuden a celebrar los Consejos. **Allí viven**, y los gastos
+> que se originan son **de cuenta del Consejo general***».** **El parlament
+> andorrà era també l'alberg dels seus membres**, i **la casa només deixa de
+> semblar una masia per la sala de sessions i la capella.** **Descriu l'exterior
+> com un cub de pedra coronat d'espitlleres i barbacanes, amb l'escut i la data
+> **1580** al portal, «*tal vez la de la erección*».** Vegeu [els consellers hi
+> dormien](./els-consellers-hi-dormien.md).
 - Quan el Consell General en va marxar a la seu nova i què s'hi fa ara.
 - Els [set mil cinc-centes actes](../../cultura/museus-i-arxius/museus-i-arxius.md)
   que hi eren dipositades abans d'anar a l'Arxiu Nacional.
