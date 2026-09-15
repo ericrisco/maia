@@ -25,6 +25,7 @@ pel joc i va començar a sentir-se una nació.**
 | [Semblava que el bisbe patrocinava el joc](./semblava-que-el-bisbe-patrocinava-el-joc.md) | **Com va començar el conflicte**: una carretera, una casa portàtil i un casino. I la reclamació espanyola de **1864** |
 | [Ni són ni s'han de considerar espanyols](./ni-son-ni-shan-de-considerar-espanyols.md) | **Tres consellers presos al castell de la Seu**, i el Consell oferint reduir la seva pròpia sobirania |
 | [Quan la seu és vacant, Andorra torna a Roma](./quan-la-seu-es-vacant-andorra-torna-a-roma.md) | L'exposició **al Papa**: set precedents d'intervenció pontifícia, i una paraula per canviar |
+| [Sense abdicació de ningú](./sense-abdicacio-de-ningu.md) | La **proposta constitucional del 1894**: tres elements sobirans, majoria de dos i iniciativa per a tots tres |
 
 ## El fil que les travessa
 
