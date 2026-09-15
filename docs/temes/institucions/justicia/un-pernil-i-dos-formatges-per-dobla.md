@@ -382,10 +382,19 @@ què.** **El corpus no ho supleix.**
 que **convé pactar-ho**, i **no dona cap xifra ni cap cas.** **Tampoc consta
 d'on venia exactament ni si sempre era el mateix.**
 
-**La conversió de la dobla surt d'un sol lloc.** **5 lliures 12 sous**, en un
-exemple. **El corpus la registra i no la creua** amb les files del doble d'or de
+~~**La conversió de la dobla surt d'un sol lloc.**~~ — **Comprovada el
+24-09-2026 contra un document independent, i quadra al sou.** **Una venda a
+carta de gràcia de la Massana del **15 de juny de 1788*** *(peça justificativa
+XXI)* **diu que els prats venuts havien estat comprats abans de 1707 per **vuit
+dobles i onze lliures**, i **els torna a vendre per quaranta-quatre lliures i
+setze sous**.
+**`Càlcul del corpus`**: **8 × 5 ll. 12 s. = 8 × 5,6 ll. = 44,8 ll. = **44
+lliures 16 sous***. **Exacte.**
+**La dobla a 5 ll. 12 s. queda així atestada per una escriptura notarial i no
+només per l'aranzel d'un tribunal.** **El corpus segueix sense creuar-la** amb
 la taula de monedes de la pàgina 20, **que està mal extreta**
 ([les mesures i les monedes](../../economia/comerc/les-mesures-i-les-monedes.md)).
+**Vegeu** [vuit dies abans o vuit dies després](../../economia/banca-i-fiscalitat/vuit-dies-abans-o-vuit-dies-despres.md).
 
 **El mateix llibre dona dues versions de per què l'asimetria 3:1.** Al **capítol
 I** és **conjectura** —«dire algunes de congruencia… **Y baste de congectures**»—

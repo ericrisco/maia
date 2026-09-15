@@ -654,6 +654,10 @@ que **els recull com a ús popular andorrà dins un text francès**:
 | ***causes mixtes de jurisdicció espiritual*** | **les que tenen una cara civil i una d'eclesiàstica** — **la seducció sota paraula de casament hi entrava, i sense part civil anava al Vicari General d'Urgell** | ídem |
 | ***posar-se a cobert*** | **el motiu que la *Instructa* dona al batlle per informar sempre un Veguer**: **protecció personal seva** | ídem |
 | ***sospita probable*** | **el llindar que permetia als oficials de justícia demanar assistència armada i rondar de nit** | ídem |
+| ***benefici Velleià*** | **la protecció romana que impedia a la dona obligar-se pel deute d'altri** — **renunciable, però només després que **el notari l'hagués «cerciorada plenament» dels seus drets** | [vuit dies abans o vuit dies després](../../economia/banca-i-fiscalitat/vuit-dies-abans-o-vuit-dies-despres.md) |
+| ***lley que ajuda als engañats en més de la mitat*** | **la rescissió per lesió**: si el preu és menys de la meitat del valor, la venda es pot desfer — **renunciada per escrit, amb donació de l'excés** | ídem |
+| ***clàusula de constitut*** | **la que fa que el venedor posseeixi en nom del comprador**, sense lliurament material | ídem |
+| ***retrovenda a carta de gràcia*** | **la venda amb dret de recomprar reservat** — **el dret podia quedar reservat també a propietaris anteriors**, vuitanta-un anys després | ídem |
 
 **Cap dels quatre no és a la llista del Servei de Política Lingüística**, i
 **tots quatre són d'un camp que aquesta fitxa no cobreix**: **el vocabulari de

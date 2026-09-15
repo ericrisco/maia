@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**942** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**943** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -263,6 +263,7 @@
 | [Que no es puga quitar carregat, sinó buyt](temes/economia/banca-i-fiscalitat/que-no-es-puga-quitar-carregat-sino-buyt.md) | `temes/economia/banca-i-fiscalitat` | compilada | historica | no | `brutails-coutume-1904` |
 | [Si aquells vells títols donaven dret de rescat](temes/economia/banca-i-fiscalitat/si-aquells-vells-titols-donaven-dret-de-rescat.md) | `temes/economia/banca-i-fiscalitat` | compilada | historica | no | `brutails-coutume-1904` |
 | [Tenen un fill a França o a Amèrica](temes/economia/banca-i-fiscalitat/tenen-un-fill-a-franca-o-a-america.md) | `temes/economia/banca-i-fiscalitat` | compilada | historica | no | `brutails-coutume-1904` |
+| [Vuit dies abans o vuit dies després](temes/economia/banca-i-fiscalitat/vuit-dies-abans-o-vuit-dies-despres.md) | `temes/economia/banca-i-fiscalitat` | compilada | historica | no | `brutails-coutume-1904` |
 
 ## temes/economia/comerc
 
