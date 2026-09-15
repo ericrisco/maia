@@ -337,8 +337,17 @@ cap escriptura**, ni sap **si és el mateix que el `conlloc`**, que segueix
 declarat com a buit a
 [la transhumància](../../economia/ramaderia-i-agricultura/la-transhumancia.md).
 
-**Els tres parells de terminis per tornar el manlleutat no coincideixen** —10/10,
-6/10 i 3/6 dies— i **el corpus no els concilia.**
+~~**Els tres parells de terminis per tornar el manlleutat no coincideixen** —10/10,
+6/10 i 3/6 dies— i **el corpus no els concilia.**~~ — **Tancat en la seva part
+principal el 23-09-2026: ja se sap què distingeixen els dos números.**
+**L'acte del **8 de gener de 1553*** *(Brutails, p. 318, nota 2)* ho diu:
+**«*dins spay de **sis dies, si seran dins les Valls**, y, **si seran fora les
+Valls, deu dies***»**. **El parell no són dues opcions: és **un termini que depèn
+d'on és el manlleutat**.** **I el 10/10 s'explica sol**: **l'acte del 14 de
+desembre de 1551 dona deu dies sense distingir**, de manera que **el «parell» era
+un sol termini.**
+**Segueix obert per què els valors varien d'acte en acte** —**pot ser que es
+pactessin cas per cas**—, **cosa que la font no diu.** **Vegeu** [es deixaven escapar els presos](./es-deixaven-escapar-els-presos.md).
 
 **La data de l'acte del pescador no quadra**: **«24 d'agost del 1790 o 1730»**
 segons l'editor, **en un lligall del 1788**. **Registrat, no arbitrat.**

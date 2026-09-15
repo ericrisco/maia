@@ -629,6 +629,11 @@ que **els recull com a ús popular andorrà dins un text francès**:
 | ***factors i valedors*** | **els qui actuen per un i els qui el sostenen** — **els bàndols que entren en unes treves, al costat de parents i amics** | ídem |
 | ***instancia de part*** / ***instancia fiscal*** | **querella amb part civil** / **d'ofici** — **amb instància l'acusat va a la presó a despeses del querellant; sense, el querellant és remès al vicari general** | ídem |
 | ***mostres*** | **les peces que el batlle feia consignar en un registre destinat a les Corts**: **les queixes dels particulars o les conclusions de la instrucció** | ídem |
+| ***guiat*** | **l'acusat que ha rebut un salconduit** — **vàlid **fins a les Corts següents*** *(Politar)* | [es deixaven escapar els presos](../../institucions/justicia/es-deixaven-escapar-els-presos.md) |
+| ***fermança*** | **el fiador del fiador**: qui pren un pres a *maleuta* en dona al seu torn, **i tots s'obliguen ensems** | ídem |
+| ***arrest personal*** | **la detenció a casa pròpia o a casa del batlle**, amb **límits definits** i **sense sortir-ne sense llicència** | ídem |
+| ***ceps*** | **una de les ferramentes de presó andorranes**, al costat de les **manilles o *esposes*** i el **collar** | ídem |
+| ***capitans*** i ***deseners*** | **els qui feien les detencions per ordre del batlle** — **`organització no documentada`** | ídem |
 
 **Cap dels quatre no és a la llista del Servei de Política Lingüística**, i
 **tots quatre són d'un camp que aquesta fitxa no cobreix**: **el vocabulari de

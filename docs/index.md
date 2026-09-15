@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**930** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**931** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -955,6 +955,7 @@
 | [Els cònsols els lliuren amb els ulls tancats](temes/institucions/justicia/els-consols-els-lliuren-amb-els-ulls-tancats.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Els notaris deien que sense escriptura no hi havia venda](temes/institucions/justicia/els-notaris-deien-que-sense-escriptura-no-hi-havia-venda.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Els tribunals tancaven per la fira d'Organyà](temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
+| [Es deixaven escapar els presos](temes/institucions/justicia/es-deixaven-escapar-els-presos.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Es pot renunciar a una autorització, no a una prescripció](temes/institucions/justicia/es-pot-renunciar-a-una-autoritzacio-no-a-una-prescripcio.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Escrúpols quant a la forma, atreviments quant al fons](temes/institucions/justicia/escrupols-quant-a-la-forma-atreviments-quant-al-fons.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [La justícia](temes/institucions/justicia/justicia.md) | `temes/institucions/justicia` | compilada | contemporania | no | `viquipedia-ca` |
