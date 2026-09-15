@@ -270,6 +270,31 @@ contra del costum:**
 > **no sap si cap de les tres es va aplicar.** **La segona té una data comprovable al
 > darrere**: **Catalunya ja havia proscrit la perpetuïtat.**
 
+
+> **Ampliat el 24-09-2026: l'instrument està documentat, i el problema és més
+> gran del que la font diu.** **La peça justificativa XXIV** —***Reçu d'addicio
+> de preu***, **15 de juny de 1788**— **mostra com creixia el preu de rescatar
+> una finca venuda a carta de gràcia**: **el comprador hi afegeix diners, el
+> venedor promet tornar-los també quan vulgui recobrar, i «*per laqual nova
+> quantitat… **vull que los mencionats dos trossos de prat se considerian
+> venuts, y los vench de nou, en quant menester sia***»**, repetint per
+> referència tots els pactes de l'escriptura vella.
+>
+> **`Càlcul del corpus`**: **de 100 lliures el 1776 a 125 ll. 0 s. 6 d. el
+> 1788** — **un 25 % més en dotze anys.**
+>
+> **Per prestar més sobre una terra ja venuda no es feia un préstec nou: **es
+> tornava a vendre la mateixa terra**.** **Qualificant els diners de *preu* i no
+> de préstec, no hi ha interès ni cal garantia nova**: **tot es governa per
+> l'escriptura vella.**
+>
+> **El corpus hi afegeix una precisió que la font no fa**: **el problema no és
+> només que el retracte duri, és que **el preu del retracte creix amb el temps i
+> per actes separats***. **Per saber què costa recuperar una finca no n'hi ha
+> prou amb l'escriptura de venda: cal conèixer-les totes.** **I l'acte preveu
+> expressament que n'hi hagi més** —«*las altras quantitats que sobre ells
+> legitimament acreditia*». **Vegeu** [«y los vench de nou»](./y-los-vench-de-nou.md).
+
 ## Buits registrats
 
 1. **Si es va limitar mai la durada del dret de rescat a Andorra**, i **quan.**

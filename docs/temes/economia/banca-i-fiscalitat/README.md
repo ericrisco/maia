@@ -4,7 +4,7 @@ El sistema financer i el canvi de model.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (24)
+## Articles (25)
 - [Ab propris diners y per son propri us](./ab-propris-diners-y-per-son-propri-us.md) — La clàusula que el corpus havia llegit com un dret a tornar a casa vol dir una altra cosa: que no pots manllevar per rescatar.
 - [Abans dels bancs](./abans-dels-bancs.md) — Es prestava sense professionals, es cobraven interessos en espècie o en jornals, i el banc més pròxim era a la Seu.
 - [Banca i fiscalitat](./banca-i-fiscalitat.md) — El 2018 va desaparèixer el secret bancari.
@@ -29,3 +29,4 @@ El sistema financer i el canvi de model.
 - [Si aquells vells títols donaven dret de rescat](./si-aquells-vells-titols-donaven-dret-de-rescat.md) — Quan els notables ensenyaven els seus pergamins a Brutails, el que volien saber era si en sortia un dret de recompra a favor seu o en contra.
 - [Tenen un fill a França o a Amèrica](./tenen-un-fill-a-franca-o-a-america.md) — Andorrans que ho havien venut tot a carta de gràcia, passaven fam i no convertien la venda en definitiva perquè un fill emigrat podria un dia rescatar la casa.
 - [Vuit dies abans o vuit dies després](./vuit-dies-abans-o-vuit-dies-despres.md) — Una venda a carta de gràcia de 1788 limita el dret de recomprar a una finestra de disset dies l'any, al voltant de Nostra Senyora de març.
+- [«Y los vench de nou»](./y-los-vench-de-nou.md) — Per prestar més diners sobre una terra ja venuda a carta de gràcia no es feia un préstec nou: es tornava a vendre la mateixa terra.

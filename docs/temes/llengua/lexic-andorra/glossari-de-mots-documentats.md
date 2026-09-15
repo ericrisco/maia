@@ -658,6 +658,9 @@ que **els recull com a ús popular andorrà dins un text francès**:
 | ***lley que ajuda als engañats en més de la mitat*** | **la rescissió per lesió**: si el preu és menys de la meitat del valor, la venda es pot desfer — **renunciada per escrit, amb donació de l'excés** | ídem |
 | ***clàusula de constitut*** | **la que fa que el venedor posseeixi en nom del comprador**, sense lliurament material | ídem |
 | ***retrovenda a carta de gràcia*** | **la venda amb dret de recomprar reservat** — **el dret podia quedar reservat també a propietaris anteriors**, vuitanta-un anys després | ídem |
+| ***addició de preu*** | **diners afegits al preu d'una venda a carta de gràcia** — **pugen el que caldrà pagar per rescatar**, i el venedor «*ven de nou*» la mateixa finca per aquella quantitat | [«y los vench de nou»](../../economia/banca-i-fiscalitat/y-los-vench-de-nou.md) |
+| ***ayguas, assequias, rigueras y riguerons*** | **la fórmula que transfereix el reg i els seus canals amb la finca** | ídem |
+| ***mediant ribàs al mig*** | **el *ribàs* com a partió entre dos prats**, a les afrontacions | ídem |
 
 **Cap dels quatre no és a la llista del Servei de Política Lingüística**, i
 **tots quatre són d'un camp que aquesta fitxa no cobreix**: **el vocabulari de
