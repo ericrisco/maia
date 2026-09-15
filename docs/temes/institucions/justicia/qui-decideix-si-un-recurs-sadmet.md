@@ -277,8 +277,14 @@ institucions «l'air de former un véritable musée rétrospectif».**
    **Prioritari**, i **hauria de ser al *Journal officiel* del 20-07-1888.**
 2. **El decret del 19 de gener de 1898 sencer**, *JO* del **22-01-1898**. **Ara
    se'n coneix el contingut per citació; el text, no.**
-3. **Els annexos del llibre de Vilar**, amb **tres sentències del Tribunal
-   Superior d'Andorra**. **Prioritari, i és al mateix volum.**
+3. ~~**Els annexos del llibre de Vilar**, amb **tres sentències del Tribunal
+   Superior d'Andorra**.~~ — **`TANCAT EL 17-09-2026`**, pp. 173-180
+   ([va afegir a la sentència coses que ningú no havia
+   demanat](./va-afegir-a-la-sentencia-coses-que-ningu-no-havia-demanat.md)).
+   **I matisen una cosa d'aquesta fitxa**: **la tercera sentència no tanca
+   l'afer, sinó que delega el batlle francès perquè verifiqui un pagament**, de
+   manera que **«*l'affaire est immédiatement et définitivement close*» no és
+   sempre literal.** **També hi consta Izarn com a jutge i no com a suplent.**
 4. **Res no resol la contradicció d'aquesta fitxa.** **Caldria una sentència en
    què el Tribunal examinés o refusés d'examinar l'admissibilitat.** **El corpus
    no en té cap.**

@@ -130,3 +130,34 @@ la llista: *Las Cortes españolas de 1895 y las franquicias de Andorra*, Madrid,
 2. **Els capítols IV a IX**, sencers. El corpus n'ha llegit el I, el II i el III.
 3. **Les peces justificatives**: hi ha transcrits documents d'arxiu que el corpus
    no té per cap altra via.
+
+## Caveat de font: com es va fer possible el llibre — 17-09-2026
+
+**El prefaci de l'obra diu a qui deu l'autor haver-la pogut escriure, i els noms
+importen.**
+
+> «*MM. **Pams et Delcros**, député et sénateur des Pyrénées-Orientales, **l'un et
+> l'autre mes collègues au Tribunal supérieur**, et **le regretté Paul Vilar,
+> président du même tribunal**, ont employé **leur haute influence** à faire
+> aboutir mes démarches.*»
+
+> «*MM. J. Deffès et G. Lafargue, **délégués permanents du Gouvernement français
+> pour les affaires d'Andorre**, m'ont jadis fourni l'occasion de voir plusieurs
+> fois les Vallées et **d'en pénétrer les mystères**.*»
+
+**El corpus ja tenia que l'autor era jutge del Tribunal Superior d'Andorra —ho
+diu ell mateix al cos de l'obra— i que hi seia amb Charles Romeu, veguer de
+França.** Això hi afegeix dues coses:
+
+- **L'obra es va fer possible per la «alta influència» de dos parlamentaris dels
+  Pirineus Orientals que eren col·legues seus al mateix tribunal**, i **pel
+  president d'aquell tribunal**.
+- **L'accés repetit a les Valls l'hi van donar els delegats permanents del Govern
+  francès.**
+
+**Conseqüència per a la lectura**, i **no invalida res del que se n'ha
+destil·lat**: **les dues obres franceses de 1904 sobre Andorra —aquesta i la de
+Vilar— van sortir del mateix tribunal, amb el mateix suport i les mateixes
+persones al voltant.** **Quan coincideixen, això és concordança, no confirmació
+independent.** Vegeu [va afegir a la sentència coses que ningú no havia
+demanat](../temes/institucions/justicia/va-afegir-a-la-sentencia-coses-que-ningu-no-havia-demanat.md).
