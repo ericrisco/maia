@@ -217,5 +217,6 @@ n'ha fet, no consta.**
 - [La transhumància](./la-transhumancia.md) — el bestiar en moviment.
 - [El cens del bestiar de 1898-1900](./el-cens-del-bestiar-de-1898-1900.md) — quantes ovelles hi havia un segle després.
 - [Primer la terra](../../historia/antic-regim/primer-la-terra.md) — els decrets de 1785 contra la renúncia que aquest contracte conté.
+- [Deu lliures per testar](../../historia/segle-xix/deu-lliures-per-testar.md) — la mateixa pila de renúncies, vuitanta anys després, en un acte de família.
 - [Trenta-nou anys si el creditor és l'Església](../../historia/segle-xix/trenta-nou-anys-si-el-creditor-es-lesglesia.md) — el crèdit eclesiàstic, setanta anys després.
 - [Glossari de mots documentats](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) — on `capsou` encara no hi és.

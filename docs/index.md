@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**945** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**946** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -844,6 +844,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Cap on mirava Andorra](temes/historia/segle-xix/cap-on-mirava-andorra.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `brutails-coutume-1904` |
+| [Deu lliures per testar](temes/historia/segle-xix/deu-lliures-per-testar.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [El desenllaç de la qüestió duanera](temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `vilar-andorre-1904` |
 | [Els casalers i els anfochs](temes/historia/segle-xix/els-casalers-i-els-anfochs.md) | `temes/historia/segle-xix` | compilada | historica | no | `tarrene-influencies-multiculturals` |
 | [Guillem d'Areny-Plandolit](temes/historia/segle-xix/guillem-dareny-plandolit.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `viquipedia-ca` |

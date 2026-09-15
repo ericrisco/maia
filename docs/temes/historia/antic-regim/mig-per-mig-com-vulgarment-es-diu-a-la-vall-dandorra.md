@@ -163,6 +163,13 @@ raó sinó sobre quin dels tres patrimonis paga.**
    sentits i cap data de transició.**
 3. **Si *associament* i *agermanament* eren sinònims el 1904** o **dues figures
    distintes.** La font diu «se'n diu també» i **no els separa.**
+   **Estret el 2026-09-15, no tancat.** **El corpus ja té l'instrument**: la
+   **peça justificativa IX** del mateix volum, una donació recíproca entre
+   esposos de la dècada de 1860, **compleix les dues definicions alhora** —dona
+   **guanys** (definició d'*associament*) **i té reserva per testar** (el tret
+   amb què la font caracteritza l'*agermanament*). **L'única peça que podria
+   separar-los no els separa.** Vegeu [deu lliures per
+   testar](../segle-xix/deu-lliures-per-testar.md).
 4. **Què vol dir «*pro returnis*»** a l'acte de 1443.
 5. **Com es liquidaven de fet els *millorers***: **qui taxava el treball del marit
    i com es provava.** **El contracte posa la càrrega de la prova a ell** i **la
@@ -182,6 +189,7 @@ raó sinó sobre quin dels tres patrimonis paga.**
 - [Tan fecunds com el sòl és infèrtil](./tan-fecunds-com-el-sol-es-infertil.md) — per què la casa no es parteix.
 - [La casa als papers](./la-casa-als-papers.md) — la casa com a patrimoni distint.
 - [Els capítols matrimonials](./els-capitols-matrimonials.md) — on es pactava tot això.
+- [Deu lliures per testar](../segle-xix/deu-lliures-per-testar.md) — la peça justificativa IX: una donació recíproca entre esposos, sencera.
 - [El dot](./el-dot.md) — l'aportació que aquí es reclama de tornada.
 - [L'hereu pren el seu lloc i el seu nom](../../llengua/onomastica/lhereu-pren-el-seu-lloc-i-el-seu-nom.md) — el pubill que entra a la casa d'ella.
 - [El glossari de mots documentats](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) — on entren *mig per mig*, *millorers* i *agermanament*.

@@ -465,6 +465,10 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **peixena** | **DUES ACCEPCIONS REGISTRADES, NO ARBITRADES.** **(1)** zona aglevada on viu el bestiar a l'estiu. **(2) Sentit jurídic, de la font primària**: **el dret de pas i de pastura vana que els habitants d'una parròquia tenen sobre les terres que no són *de guarda***, **amb durada compresa entre la retirada de la collita i les sembres** —«*de dos en dos anys, del mes d'agost al mes de setembre de l'any següent*», **tretze mesos un any sí i un any no**. **La seva conseqüència és que el propietari no pot canviar la rotació de conreus ni sembrar farratge sense autorització del consell de parròquia.** Brutails 1904, p. 172 |
 | **peixeder** | lloc on els animals peixen |
 | **padral** | registre d'animals de renda |
+| **adot** | **dot**, amb a- protètica, tal com l'escriuen els notaris andorrans: «*la referida N. ab son **adot** y demes credits dotals*». Brutails 1904, peça justificativa IX, p. XIX |
+| **agermanament** · *agirmanamentum* | **comunitat convencional dels béns propis** entre esposos; **el 1904 ja era «molt rar»** en aquest sentit i havia passat a designar **la donació mútua entre esposos sense fills, amb reserva per testar**. Documentat des de l'**1 de maig de 1412**. Brutails 1904, pp. 121-122 |
+| **associament** | **donació recíproca de guanys entre esposos sense fills**. **La font el dona com a sinònim d'*agermanament* sense separar-ne les figures**; vegeu [deu lliures per testar](../../historia/segle-xix/deu-lliures-per-testar.md). Brutails 1904, p. 122, nota 2 |
+| **sobrevivint** | **el cònjuge que sobreviu a l'altre**, en la fórmula de la donació recíproca: «*quedian los mateixos a favor del **sobrevivint** a ses libres voluntats*». Brutails 1904, peça justificativa IX, p. XIX |
 | **rebaixant** | terreny comunal boscós per sota les pastures d'alta muntanya |
 | **fresa** | lloc on els peixos fresen (habitual en legislació de pesca) |
 
