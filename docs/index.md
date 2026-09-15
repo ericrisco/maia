@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**921** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**922** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -924,6 +924,7 @@
 | [Abrogats el 1839, aplicats el 1889](temes/institucions/justicia/abrogats-el-1839-aplicats-el-1889.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Al botxí per sos drets de penjar tres dones](temes/institucions/justicia/al-botxi-per-sos-drets-de-penjar-tres-dones.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Aquell príncep que és prevengut](temes/institucions/justicia/aquell-princep-que-es-prevengut.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
+| [Avui trec penyores, i no treia res](temes/institucions/justicia/avui-trec-penyores-i-no-treia-res.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Ben arrimat a la paret contrària a l'església](temes/institucions/justicia/ben-arrimat-a-la-paret-contraria-a-lesglesia.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [«Cadàver, alça't que la Justícia et demana»](temes/institucions/justicia/cadaver-alsat-que-la-justicia-te-demana.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Cesan los demes tribunals inferiors](temes/institucions/justicia/cesan-los-demes-tribunals-inferiors.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
