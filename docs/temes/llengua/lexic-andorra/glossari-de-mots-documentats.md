@@ -614,6 +614,13 @@ que **els recull com a ús popular andorrà dins un text francès**:
 | ***bander*** / ***bande jurat*** | **el guarda nomenat per la parròquia** que pot ***bandejar* i denunciar el *ban*** *(decret del Consell General, 24-11-1892)* | ídem |
 | ***arrests simples*** | **pena que es complia **a la plaça pública***, on **els amics venien a fer companyia al condemnat** | ídem |
 | ***estrañament*** | **el bandejament**, imposat el 1874 per dos i per tres anys a qui refusava el càrrec de síndic | ídem |
+| ***bandejar*** | **intimar el ban al pastor del ramat trobat a la pròpia finca**: «*Tintimo lo ban*» | [un vedell paga com una vaca](../../institucions/justicia/un-vedell-paga-com-una-vaca.md) |
+| ***ban de vista*** | **el ban constatat de lluny i intimat després**, quan **hi ha testimonis i el ramat és lluny** | ídem |
+| ***ban*** | **la sanció de tarifa fixa per bestiar intrús** — **es reparteix **per meitat entre el perjudicat i els cònsols***; de nit, el doble | ídem |
+| ***dany*** | **la reparació pel valor real del desperfecte**, l'altra via que el perjudicat pot triar en lloc del *ban* | ídem |
+| ***tala*** | **la decisió dels perits sobre la importància del dany** — **ha de ser coneguda dins de tres dies, no comptat el dia del *bandejament*** | ídem |
+| ***bestiar gros*** / ***bestiar menut*** | **classificació **per espècie i no per mida***: **un decret del 22-12-1886 precisa que els vedells paguen com les vaques** | ídem |
+| ***tardivalls*** | **un dels conreus protegits pel ban**, al costat del blat i les «*herbas maencas o artificials*» — **`significat no comprovat`** | ídem |
 
 **Cap dels quatre no és a la llista del Servei de Política Lingüística**, i
 **tots quatre són d'un camp que aquesta fitxa no cobreix**: **el vocabulari de

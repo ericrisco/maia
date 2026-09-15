@@ -4,7 +4,7 @@ Tribunal de Corts, Batllia, Consell Superior de la Justícia.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (93)
+## Articles (94)
 - [A les galeres d'Espanya, per la neu](./a-les-galeres-despanya-per-la-neu.md) — Els condemnats andorrans anaven a galeres espanyoles i el Politar en dona quatre raons, la segona meteorològica: a l'hivern, la tardor i la primavera no es podien dur a les de França perquè els Pirineus eren plens de neu.
 - [Abrogats el 1839, aplicats el 1889](./abrogats-el-1839-aplicats-el-1889.md) — Com es cobrava un deute a Andorra: la cessió de béns, l'adjudicació d'immobles i el dret de recomprar-los.
 - [Al botxí per sos drets de penjar tres dones](./al-botxi-per-sos-drets-de-penjar-tres-dones.md) — El compte de despeses del juny de 1604 per l'execució de dones acusades de bruixeria a Andorra, amb l'aranzel del botxí i el que van rendir les composicions.
@@ -90,6 +90,7 @@ Tribunal de Corts, Batllia, Consell Superior de la Justícia.
 - [Un decret que ningú no ha produït mai](./un-decret-que-ningu-no-ha-produit-mai.md) — Els tribunals andorrans van aplicar durant un segle un decret del bisbe Boltas de 1785 que ningú no ha vist mai, que un batlle declara conèixer només d'oïda, i que les parts amb més interès a trobar-lo no van poder produir en cap plet.
 - [Un fadrí sense casa sí que es pot emparar](./un-fadri-sense-casa-si-que-es-pot-emparar.md) — El manuscrit de procediment que Brutails publica: l'ampara està prohibida d'habitant a habitant dins i fora de les Valls, i només es pot fer contra forasters.
 - [Un pernil i dos formatges per dobla](./un-pernil-i-dos-formatges-per-dobla.md) — El capítol de les Corts al Politar: els veguers cobraven en pernils i formatges una part que no entrava als comptes, el país pagava de la seva butxaca el tribunal criminal dels coprínceps, i hi ha un protocol escrit per si els dos veguers treien l'espasa l'un contra l'altre.
+- [Un vedell paga com una vaca](./un-vedell-paga-com-una-vaca.md) — El ban per bestiar intrús anava per espècie i no per mida, de nit es pagava el doble, i la meitat se l'enduien els cònsols.
 - [Una creu al prat, sis sous i sis diners](./una-creu-al-prat-sis-sous-i-sis-diners.md) — L'aranzel de la justícia andorrana del 1740, amb el del notari del 1657 al costat.
 - [Una quitança per un preu que encara es devia](./una-quitanca-per-un-preu-que-encara-es-devia.md) — Els notaris andorrans escrivien a l'acte que el preu s'havia pagat per poder transferir la propietat, i després reconeixien que es devia.
 - [Una vegada de cada tres](./una-vegada-de-cada-tres.md) — Els batlles andorrans començaven oferint una transacció, i segons un notable experimentat la cosa reeixia prop d'un cop de cada tres.
