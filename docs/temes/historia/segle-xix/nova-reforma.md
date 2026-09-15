@@ -22,6 +22,15 @@ encapçalar la **Nova Reforma**, que va reformar l'organització del Consell
 El Consell General va quedar format per **24 consellers**, elegits pels
 **síndics**, i hi participaven **tots els caps de casa**.
 
+> **I què va desfer — 17-09-2026.** **Una font espanyola del 1918 diu que fins
+> aleshores **totes les parròquies tenien Consell Obert**, l'assemblea dels caps
+> de casa**, i que la reforma **«*modificó, al menos parcialmente, la estructura
+> de la organización de los Valles, ya que cambió en su base la vida civil de
+> Andorra*».** **El corpus tenia el que la reforma va crear i no el que va
+> substituir**, i **no dona per establert que l'aboleixi: la font diu «almenys
+> parcialment» i no cita cap article.** Vegeu
+> [cap de casa, però de casa antiga](../../institucions/consell-general/cap-de-casa-pero-de-casa-antiga.md).
+
 > **Què hi havia abans, i com es va imposar — 17-09-2026.** **Una font francesa
 > del 1904 dona el sistema que la Reforma substitueix**: **els 24 membres del
 > Consell General «*étaient recrutés par rang d'ancienneté dans le sein des six

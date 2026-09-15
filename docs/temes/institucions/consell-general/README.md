@@ -4,7 +4,8 @@ Síndic i subsíndic general, consellers generals, legislatures, el Diari de Ses
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (18)
+## Articles (20)
+- [Cap de casa, però de casa antiga](./cap-de-casa-pero-de-casa-antiga.md) — Fins al 1866 cada parròquia tenia Consell Obert, i per entrar-hi no bastava ser cap de casa: la casa havia de ser antiga i representar un foch.
 - [El Consell de la Terra](./el-consell-de-la-terra.md) — El parlament andorrà neix el 1419, es reunia sis cops l'any en dates com el Consell de l'Afor, i seia en rotlle.
 - [El Consell General](./el-consell-general.md) — Representació nacional i parroquial, òrgans i sessions contrastats amb la Constitució i el Reglament publicat el juny de 2026.
 - [El debat sobre el càlcul patrimonial de 2018](./el-debat-sobre-el-calcul-patrimonial-de-2018.md) — El Consell va aprovar la reforma amb 24 vots favorables i tres abstencions; el debat preserva posicions oposades sobre l'habilitació del reglament anterior.
@@ -23,6 +24,7 @@ Síndic i subsíndic general, consellers generals, legislatures, el Diari de Ses
 - [Vuitanta pessetes per fer reunir el Consell General](./vuitanta-pessetes-per-fer-reunir-el-consell.md) — L'organització administrativa d'Andorra descrita el 1904: tres graus de consell, qui hi seia i amb quin tractament, i el dret d'un particular a fer convocar el Consell General pagant una consignació —vuitanta pessetes si era d'aquí, tres pessetes per conseller i per dia si era de fora.
 - [«Diria que sí»](./diria-que-si.md) — Es podia recórrer contra una decisió del Consell General davant dels coprínceps? El Politar respon que sí i Brutails l'acusa de deduir-ho en comptes de registrar-ho.
 - [«Segons les lleis i costums immemorials del país»](./segons-les-lleis-i-costums-immemorials-del-pais.md) — El Consell General certificava per decret quin era el dret d'Andorra, amb una fórmula fixa.
+- [Si els dos senyors no s'entenien, decidia el poble](./si-els-dos-senyors-no-sentenien-decidia-el-poble.md) — El desacord dels dos cosenyors sobre una qüestió legislativa no mantenia el statu quo: el resolia el poble per referèndum. I abans del 1866 el Consell General era la reunió dels comuns.
 
 **Avís, 2026-09-13**: **aquest README diu «branca buida» i la branca ja no ho
 és.** Hi ha, com a mínim:

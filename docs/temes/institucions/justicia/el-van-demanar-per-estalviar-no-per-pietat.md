@@ -91,6 +91,15 @@ amb les notes ([font](../../../fonts/brutails-coutume-1904.md)).
 
 > **Tres coses que el corpus reté.**
 >
+> **I la qüestió es va resoldre el 1881 — 17-09-2026.** **Aquesta fitxa deixava
+> el dret de gràcia sense desenllaç perquè el condemnat de 1855 es va morir
+> abans.** **Una font espanyola del 1918 dona el precedent següent**: **«*aun
+> cuando con motivo de la revolución de 1881… el indulto de los condenados lo
+> hizo el Obispo, **Francia exigió y lo obtuvo que figurase igualmente que ella
+> también lo concedía***»**. **No hi ha norma: hi ha un precedent obtingut per
+> exigència**, i **l'ocasió datada és la revolució de 1881.** Vegeu
+> [cap de casa, però de casa antiga](../consell-general/cap-de-casa-pero-de-casa-antiga.md).
+
 > **Divergència sobre com va morir el condemnat de 1855 — 17-09-2026.** **Aquesta
 > fitxa té, d'una font andorrana, que la disputa del dret de gràcia es va resoldre
 > perquè el condemnat **va morir a la presó**.** **Una font francesa del 1904 diu
