@@ -202,10 +202,22 @@ carreteres**, **i la fractura institucional que en va sortir.**
 1. **El nom de la companyia estrangera**, **la data de la concessió** i **el text
    de l'escriptura**. **Res d'això consta.** **Prioritari.**
 2. **Qui era el president del Consell** que la font diu identificat amb la
-   companyia. **El corpus no el reprodueix**: **la font l'acusa i no el nomena**,
-   i **una acusació sense nom no es converteix en nom pel corpus.**
+   companyia. **`NOM PROPOSAT, NO PROVAT — 17-09-2026.`** **Una font francesa del
+   1904 diu que els especuladors van guanyar-se «*le syndic don Guilhem de
+   Plandolit y Areny, baron de Senaller, et par son canal, l'évêque Gaixal y
+   Estrada*».** **El corpus registra el nom i no tanca el buit**: **el text de
+   1894 diu «president del Consell» i el de 1904 diu «síndic»** —**probablement
+   el mateix càrrec, i «probablement» no és una identificació**—, **qui el nomena
+   és part interessada**, i **és una acusació de corrupció.** Vegeu
+   [el síndic va tornar i es va posar al capdavant del
+   motí](./el-sindic-va-tornar-i-es-va-posar-al-capdavant-del-moti.md).
 3. **Si es va arribar a jugar**, **quant de temps** i **què va passar amb la casa
-   portàtil.**
+   portàtil.** **`estret el 17-09-2026`**: **una font francesa diu que la
+   instal·lació eren barracots de fusta i un xalet rústic desmuntable a la
+   Solana, sota pretext de fonts termals, i que el segon síndic Molins va fer
+   anul·lar la concessió al·legant que no s'havia consultat França** —**els
+   obrers van deixar la Solana**. **Si s'hi va jugar, segueix sense constar per
+   cap de les dues fonts.**
 4. **La carta de Lluís XIII a M. d'Argenson del 14 de maig de 1642.** **Citada amb
    data i destinatari, sense arxiu.** **Prioritari**: és **el document més antic
    d'aquesta sèrie.**

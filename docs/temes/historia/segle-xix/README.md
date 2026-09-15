@@ -27,6 +27,7 @@ pel joc i va començar a sentir-se una nació.**
 | [Quan la seu és vacant, Andorra torna a Roma](./quan-la-seu-es-vacant-andorra-torna-a-roma.md) | L'exposició **al Papa**: set precedents d'intervenció pontifícia, i una paraula per canviar |
 | [Sense abdicació de ningú](./sense-abdicacio-de-ningu.md) | La **proposta constitucional del 1894**: tres elements sobirans, majoria de dos i iniciativa per a tots tres |
 | [El prefecte va ratllar la paraula república](./el-prefecte-va-ratllar-la-paraula-republica.md) | **1892**: Correus envia un cartell i el prefecte hi esmena el nom del país. I per què Vilar diu que Andorra no és ni república ni principat |
+| [El síndic va tornar i es va posar al capdavant del motí](./el-sindic-va-tornar-i-es-va-posar-al-capdavant-del-moti.md) | **L'afer del casino de 1866 vist des de França**: qui va anul·lar la concessió, amb quin argument, i què li va costar al síndic general |
 
 ## El fil que les travessa
 

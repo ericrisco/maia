@@ -196,6 +196,15 @@ temia perdre els privilegis duaners.»**
 
 **Va esclatar el 8 de desembre del 1880 i va durar fins al juny del 1881.**
 
+> **Divergència de data, registrada el 17-09-2026 i no arbitrada.** **Una font
+> francesa del 1904 dona el mateix inici —8 de desembre de 1880— i un final
+> diferent: «*ne se termina qu'en février 1881, après l'intervention
+> française*»**, i **data del 25 de febrer de 1881 les resolucions preses entre
+> els delegats francesos i el bisbe.** **Poden ser dues coses —el final dels
+> aldarulls i el final del procés polític— i el corpus no ho decideix.** Vegeu
+> [el síndic va tornar i es va posar al capdavant del
+> motí](./el-sindic-va-tornar-i-es-va-posar-al-capdavant-del-moti.md).
+
 **Qui**: **«la part del poble que patia més la crisi: jornalers, petits
 propietaris, cabalers»**, **armats i «amb el suport de les companyies de joc».**
 

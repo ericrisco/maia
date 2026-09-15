@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**968** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**969** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -853,6 +853,7 @@
 | [Deu lliures per testar](temes/historia/segle-xix/deu-lliures-per-testar.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [El desenllaç de la qüestió duanera](temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `vilar-andorre-1904` |
 | [El prefecte va ratllar la paraula república](temes/historia/segle-xix/el-prefecte-va-ratllar-la-paraula-republica.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `vilar-andorre-1904` |
+| [El síndic va tornar i es va posar al capdavant del motí](temes/historia/segle-xix/el-sindic-va-tornar-i-es-va-posar-al-capdavant-del-moti.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `vilar-andorre-1904` |
 | [Els casalers i els anfochs](temes/historia/segle-xix/els-casalers-i-els-anfochs.md) | `temes/historia/segle-xix` | compilada | historica | no | `tarrene-influencies-multiculturals` |
 | [Guillem d'Areny-Plandolit](temes/historia/segle-xix/guillem-dareny-plandolit.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `viquipedia-ca` |
 | [La Qüestió d'Andorra](temes/historia/segle-xix/la-questio-dandorra.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `wikipedia-questio-dandorra` |

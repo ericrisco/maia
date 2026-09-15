@@ -232,7 +232,20 @@ duanes al pagament de tal o tal crèdit.**»
    forsa de tal*»—, **va passar per l'aprovació del Bisbe**, i **el que hi afegia
    era el segon permís, el del consell de parròquia.** **Segueix sense data de dia i
    mes.**
-3. **L'acord dels coprínceps del 25 de febrer de 1881 sencer.** **El corpus en té
+3. **L'acord dels coprínceps del 25 de febrer de 1881 sencer.** **`parcial des
+   del 17-09-2026: ara en són dues clàusules i segueix sense text.`** **Una font
+   francesa del 1904 en dona la part que aquesta fitxa no tenia**, i **és la que
+   explica per què es va fer l'acord**: **després del considerant sobre la
+   facultat exclusiva de jutjar les concessions, els delegats declaren que «*des
+   d'ara i per sempre, resten absolutament prohibides tota mena de cases de joc a
+   Andorra, sigui quin sigui el nom que es donin i sigui quin sigui el pretext que
+   invoquin*»**, **per immoralitat i perquè «*tindrien per resultat comprometre la
+   tranquil·litat i la independència de les Valls*».** **La clàusula de les
+   concessions i la prohibició del joc són el mateix acte i responen al mateix
+   afer.** Vegeu
+   [el síndic va tornar i es va posar al capdavant del
+   motí](../../historia/segle-xix/el-sindic-va-tornar-i-es-va-posar-al-capdavant-del-moti.md).
+   **El corpus en té
    el considerant que la font cita** i **la referència de la revista on es va
    publicar**, no el text.
    `Requereix font externa: Revue de droit international et de législation comparée, 1881, p. 223.`
