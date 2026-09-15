@@ -4,7 +4,7 @@ El sistema financer i el canvi de model.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (19)
+## Articles (20)
 - [Ab propris diners y per son propri us](./ab-propris-diners-y-per-son-propri-us.md) — La clàusula que el corpus havia llegit com un dret a tornar a casa vol dir una altra cosa: que no pots manllevar per rescatar.
 - [Abans dels bancs](./abans-dels-bancs.md) — Es prestava sense professionals, es cobraven interessos en espècie o en jornals, i el banc més pròxim era a la Seu.
 - [Banca i fiscalitat](./banca-i-fiscalitat.md) — El 2018 va desaparèixer el secret bancari.
@@ -19,6 +19,7 @@ El sistema financer i el canvi de model.
 - [La supervisió financera](./la-supervisio-financera.md) — L'AFA supervisa bancs i assegurances alhora, amb independència de l'Administració general.
 - [La venda a carta de gràcia](./la-carta-de-gracia.md) — El crèdit d'un país sense bancs: es venia un tros de terra amb dret a recomprar-lo pel mateix preu.
 - [Nascut d'una prohibició eclesiàstica, mort per decret episcopal](./nascut-duna-prohibicio-eclesiastica-mort-per-decret-episcopal.md) — El censal era el nom que més tornava als textos andorrans, i el va matar el bisbe.
+- [«Per motiu de sa tant dilatada antiquedad»](./per-motiu-de-sa-tant-dilatada-antiquedad.md) — El 1788 es va redimir a Andorra un censal creat el 1456; l'escriptura original no es va trobar de tan vella que era, i es va pagar igual.
 - [Però en tot lo demés, al cinc per cent](./pero-en-tot-lo-demes-al-cinc-per-cent.md) — Un decret del Consell General de 1895 resol una divergència que el corpus tenia registrada i oberta: el tres i terç del bisbe seguia essent llei de la Vall per al censal, i per a tota la resta el Consell i les Corts aplicaven el cinc.
 - [Que no es puga quitar carregat, sinó buyt](./que-no-es-puga-quitar-carregat-sino-buyt.md) — Com es rescatava una finca venuda a carta de gràcia: només buida de blat, només en una finestra de vuit o quinze dies al voltant del 25 de març, i només per al teu propi ús.
 - [Què aprova el pressupost inicial de 2026](./que-aprova-el-pressupost-de-2026.md) — Els crèdits autoritzats, els ingressos previstos i el deute disposat són magnituds diferents; la llei inicial ho distingeix.

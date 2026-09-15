@@ -252,6 +252,23 @@ naturalesa, l'arrendament».**
 > **que la norma andorrana era viure en casa pròpia**, i **que Sant Julià era la
 > parròquia amb més lloguer.** **Ni l'una ni l'altra no venen amb xifres.**
 
+
+> **Ampliat el 24-09-2026: el cinc per cent anterior a 1854 ja té escriptures.**
+> **El corpus el tenia només per la redacció del decret que el substituïa**
+> —«*tres y ters per cent, **en lloch del cinch per cent***»—. **Dues peces
+> justificatives del mateix llibre, totes dues de 1788, el donen atestat:**
+>
+> | Peça | Capital | Pensió anual | **Tipus** |
+> |---|---:|---:|---:|
+> | **XVII** *(16-03-1788, Andorra la Vella)* | 7 ll. 10 s. | 7 s. 6 d. | **5,00 %** |
+> | **XVIII-XIX** *(13-04-1788, Sant Julià)* | 77 ll. | 3 ll. 17 s. | **5,00 %** |
+>
+> **`Càlcul del corpus`**: **7,5 sous sobre 150 sous** i **3,85 lliures sobre 77**
+> donen **exactament el 5 % totes dues**. **Dos censals de parròquies diferents,
+> amb capitals que es diferencien en més de deu vegades, al mateix tipus al
+> centèsim**: **el tipus no depenia de la quantia.**
+> **Vegeu** [«per motiu de sa tant dilatada antiquedad»](./per-motiu-de-sa-tant-dilatada-antiquedad.md).
+
 ## Buits registrats
 
 1. **Quantes cases llogades hi havia, i quantes a Sant Julià.** **La font ordena les
