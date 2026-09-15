@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**969** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**970** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -292,6 +292,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [FHASA](temes/economia/energia-i-serveis/fhasa.md) | `temes/economia/energia-i-serveis` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [La transició energètica](temes/economia/energia-i-serveis/la-transicio-energetica.md) | `temes/economia/energia-i-serveis` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [Van tallar els pals del telègraf](temes/economia/energia-i-serveis/van-tallar-els-pals-del-telegraf.md) | `temes/economia/energia-i-serveis` | compilada | contemporania | no | `vilar-andorre-1904` |
 
 ## temes/economia/les-grans-families
 

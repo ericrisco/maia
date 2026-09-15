@@ -41,6 +41,16 @@ trasllat va acabar el 1998**, **set anys després.**
 
 ## Per què hi ha un museu del correu a Andorra
 
+> **I ja era així el 1904 — afegit el 17-09-2026.** **Una font francesa d'aquell
+> any descriu el correu andorrà amb la mateixa estructura de doble dependència**:
+> **segells espanyols per a la correspondència cap a Espanya, francesos per a les
+> cartes francoandorranes, i cap segell andorrà.** **El que sí que era propi era
+> el servei interior**: **absolutament gratuït**, sense sobre ni franqueig
+> —«*il suffit de jeter à la boîte du village un carré de papier quelconque*»— i
+> **el portaven nens corrent pels camins de muntanya.** Vegeu
+> [van tallar els pals del
+> telègraf](../../../economia/energia-i-serveis/van-tallar-els-pals-del-telegraf.md).
+
 **Perquè el correu andorrà no és andorrà.**
 
 > **«Una de les primeres preguntes que acostumen a fer turistes i nouvinguts a

@@ -40,6 +40,7 @@ introduir el francès al país**.
 | **1890** | **Beques a dues andorranes** per formar-se de mestres a França |
 | **29 de juliol de 1895** | Obtenen el **certificat d'estudis primaris**; entren a l'*école normale* de Perpinyà |
 | **Octubre de 1900** | **Obren les dues primeres escoles**: Andorra la Vella i Sant Julià |
+| **Cap al 1904** | **Ja n'hi ha tres, i un curs de llengua francesa** — **la tercera escola no consta on ni quan va obrir** |
 | **1905** | **Tres famílies més accepten beques**: permetrà escoles a **Canillo, Encamp i Escaldes** |
 | **18 de juny de 1917** | **Primer decret** sobre creació d'escoles primàries públiques, «l'objecte del qual era **l'ensenyament de la llengua francesa al territori d'Andorra**» (complementat el **30 d'octubre de 1917**) |
 | **1952 i 1982** | Precisions sobre centres i estatus de funcionaris, **particularment els de nacionalitat andorrana** |

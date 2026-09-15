@@ -145,3 +145,20 @@ fires de l'Arieja i dels Pirineus Orientals**.
 
 Vegeu [les mateixes bèsties passaven dues vegades pel
 cens](../temes/economia/comerc/les-mateixes-besties-passaven-dues-vegades-pel-cens.md).
+
+## Quart element: la finalitat declarada del llibre — 17-09-2026
+
+La **conclusió** *(pp. 155-156)* diu per a què s'escriu. La suzeraineté de les
+Valls «*fait partie du **patrimoine moral de la France***», i:
+
+> «*Si petit que soit le pays où nous pouvons faire pénétrer pacifiquement, **avec
+> notre langue**, l'amour de notre civilisation et de notre histoire, nous devons
+> considérer **une pareille conquête** comme une des formes les plus hautes de la
+> vitalité de notre patrie.*»
+
+**La paraula és *conquête* i la via declarada és *notre langue*.** El capítol de
+la modernització —carretera, correu, telègraf, escoles, beques— **s'ha de llegir
+sabent que l'autor les presenta com a instruments d'aquesta penetració**. No
+invalida cap dada; fixa la finalitat amb què estan triades i ordenades. Vegeu
+[van tallar els pals del
+telègraf](../temes/economia/energia-i-serveis/van-tallar-els-pals-del-telegraf.md).
