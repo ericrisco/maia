@@ -646,6 +646,9 @@ que **els recull com a ús popular andorrà dins un text francès**:
 | ***asetiades*** | **una partida dels comptes de les Corts de 1488** que prenia el veguer de França — **`significat no comprovat`** | ídem |
 | ***estrenes*** | **el que els Veguers concedien al *nunci*, als batlles i al *greffier*** — **`imports no documentats`** | ídem |
 | ***pinyores*** | **les penyores que un particular podia prendre a qui trobava en delicte de pastura** — **1475** | ídem |
+| ***peseteros*** | **magistrats «necessitats i cobdiciosos» per als quals «*un crim era una bona ganga*»** — **mot que l'autor dona en cursiva, com a sentit** | [no és bo que el jutge es pagui de les despulles](../../institucions/justicia/no-es-bo-que-el-jutge-es-pagui-de-les-despulles.md) |
+| ***indemnisacio de lo robat*** | **la reparació a la víctima, **inscrita entre les costes del procés*** — **de 100 a 200 pessetes en una taxa de 1896** | ídem |
+| ***gastos*** | **les despeses del tribunal** en una taxa de costes criminals | ídem |
 
 **Cap dels quatre no és a la llista del Servei de Política Lingüística**, i
 **tots quatre són d'un camp que aquesta fitxa no cobreix**: **el vocabulari de

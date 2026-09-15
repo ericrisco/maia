@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**935** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**936** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -984,6 +984,7 @@
 | [«Mort, qui t'ha mort?»](temes/institucions/justicia/mort-qui-tha-mort.md) | `temes/institucions/justicia` | compilada | contemporania | no | `wikipedia-llegendes-andorra` |
 | [Ni amb els seus peus ni amb els peus d'altri](temes/institucions/justicia/ni-amb-els-seus-peus-ni-amb-els-peus-daltri.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [No en volien dos, de jutge: en volien un de comú](temes/institucions/justicia/no-en-volien-dos-de-jutge-en-volien-un-de-comu.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
+| [No és bo que el jutge es pagui de les despulles](temes/institucions/justicia/no-es-bo-que-el-jutge-es-pagui-de-les-despulles.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [No hi pot haver més que un sol veguer](temes/institucions/justicia/no-hi-pot-haver-mes-que-un-sol-veguer.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [No prohibia matar-los: els eximia de pagar](temes/institucions/justicia/no-prohibia-matar-los-els-eximia-de-pagar.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Només per aquesta vegada, i que no faci precedent](temes/institucions/justicia/nomes-per-aquesta-vegada-i-que-no-faci-precedent.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |

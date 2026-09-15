@@ -4,7 +4,7 @@ Tribunal de Corts, Batllia, Consell Superior de la Justícia.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (100)
+## Articles (101)
 - [A les galeres d'Espanya, per la neu](./a-les-galeres-despanya-per-la-neu.md) — Els condemnats andorrans anaven a galeres espanyoles i el Politar en dona quatre raons, la segona meteorològica: a l'hivern, la tardor i la primavera no es podien dur a les de França perquè els Pirineus eren plens de neu.
 - [Abrogats el 1839, aplicats el 1889](./abrogats-el-1839-aplicats-el-1889.md) — Com es cobrava un deute a Andorra: la cessió de béns, l'adjudicació d'immobles i el dret de recomprar-los.
 - [Al botxí per sos drets de penjar tres dones](./al-botxi-per-sos-drets-de-penjar-tres-dones.md) — El compte de despeses del juny de 1604 per l'execució de dones acusades de bruixeria a Andorra, amb l'aranzel del botxí i el que van rendir les composicions.
@@ -69,6 +69,7 @@ Tribunal de Corts, Batllia, Consell Superior de la Justícia.
 - [No en volien dos, de jutge: en volien un de comú](./no-en-volien-dos-de-jutge-en-volien-un-de-comu.md) — L'alternança en el nomenament del Jutge d'Apel·lacions no és el costum antic: és un apany.
 - [No hi pot haver més que un sol veguer](./no-hi-pot-haver-mes-que-un-sol-veguer.md) — El 1885 el Bisbe va nomenar un «veguer accidental» amb atribucions generals i el Consell General es va negar a rebre-li el jurament, invocant els Pareatges.
 - [No prohibia matar-los: els eximia de pagar](./no-prohibia-matar-los-els-eximia-de-pagar.md) — Es va escriure que l'únic límit al poder dels Veguers andorrans era no poder condemnar a mort els menors de dotze anys, però la carta de 1305 que se cita diu que els eximeix de multa per vessament de sang.
+- [No és bo que el jutge es pagui de les despulles](./no-es-bo-que-el-jutge-es-pagui-de-les-despulles.md) — La formulació final de la tesi de Brutails: que qui jutja cobri del condemnat i tingui interès, per petit que sigui, a declarar-lo culpable.
 - [Només per aquesta vegada, i que no faci precedent](./nomes-per-aquesta-vegada-i-que-no-faci-precedent.md) — El 4 de juny de 1516 el veguer i el jutge del Bisbe van cedir la jurisdicció criminal als prohoms i cònsols de les Valls per jutjar quatre dones, gratis i «només per aquesta vegada» perquè no en quedés precedent.
 - [Nul per al jutge, vàlid per a la consciència](./nul-per-al-jutge-valid-per-a-la-consciencia.md) — Quan una renúncia no valia, es reforçava amb un jurament sobre el Crucifix.
 - [Pagat un poc abans d'obrar](./pagat-un-poc-abans-dobrar.md) — El ceremonial d'execució del Politar.
