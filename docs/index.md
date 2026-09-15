@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**967** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**968** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -278,6 +278,7 @@
 | [Els horaris comercials](temes/economia/comerc/els-horaris-comercials.md) | `temes/economia/comerc` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La Cambra de Comerç i la formació](temes/economia/comerc/la-cambra-de-comerc-i-la-formacio.md) | `temes/economia/comerc` | compilada | contemporania | no | `escaler-cambra-de-comerc` |
 | [La duana](temes/economia/comerc/la-duana.md) | `temes/economia/comerc` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [Les mateixes bèsties passaven dues vegades pel cens](temes/economia/comerc/les-mateixes-besties-passaven-dues-vegades-pel-cens.md) | `temes/economia/comerc` | compilada | contemporania | no | `vilar-andorre-1904` |
 | [Les mesures i les monedes](temes/economia/comerc/les-mesures-i-les-monedes.md) | `temes/economia/comerc` | compilada | historica | no | `brutails-coutume-1904` |
 | [Muntar alguna cosa](temes/economia/comerc/muntar-alguna-cosa.md) | `temes/economia/comerc` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Quan el preu baixa](temes/economia/comerc/quan-el-preu-baixa.md) | `temes/economia/comerc` | compilada | contemporania | no | `jurisprudencia-ad` |

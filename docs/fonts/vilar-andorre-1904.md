@@ -110,3 +110,38 @@ travail**.*» **Romeu és el veguer francès, en el càrrec des del 1887.**
 **Segona marca de provinença del mateix volum**: l'exemplar digitalitzat porta la
 marca de llegat de la biblioteca de **J.-A. Brutails**. Vegeu [el veguer de França
 va corregir el llibre](../temes/institucions/coprincipat/el-veguer-de-franca-va-corregir-el-llibre.md).
+
+## Segon caveat: l'autor i els seus informadors són un sol cercle — 16-09-2026
+
+**A la pàgina 102, nota 1**, l'autor dona la composició del **Tribunal Superior
+d'Andorra** el 1904. Hi seuen, com a jutges, **Charles Romeu** —el veguer que li
+va corregir el llibre— **i J.-A. Brutails**, autor de *La Coutume d'Andorre*, que
+és **l'altra font francesa de 1904 d'aquest corpus**.
+
+**Conseqüència operativa:** **quan aquest llibre i el de Brutails coincideixen,
+això és concordança, no confirmació independent.** Els dos autors i l'informador
+seien o bé al mateix tribunal o bé l'un va revisar l'altre. Vegeu
+[qui decideix si un recurs s'admet](../temes/institucions/justicia/qui-decideix-si-un-recurs-sadmet.md),
+on totes dues fonts, tot i això, **es contradiuen**.
+
+## Tercer caveat: a la qüestió duanera, l'autor és part i legisla — 17-09-2026
+
+**A la pàgina 137, nota 1**, l'autor declara que, **com a conseller general del
+cantó de Mont-Louis**, va fer adoptar **el 5 d'octubre de 1904** pel **Conseil
+général des Pyrénées-Orientales** un vot que demana **un nou cens dels ramats
+andorrans, verificació severa dels certificats d'origen, i que l'entrada en
+franquícia només s'autoritzi en certes èpoques, per exemple després de les grans
+fires de l'Arieja i dels Pirineus Orientals**.
+
+**Conseqüència per al capítol II de la tercera part:**
+
+- **La part descriptiva i la part normativa surten de la mateixa ploma.** L'autor
+  recull la queixa dels seus electors —que el cens andorrà està inflat— **i, a la
+  mateixa pàgina, diu que ell n'ha fet votar la revisió.**
+- **El tercer punt del vot no és antifrau, és de mercat**: treu els andorrans de
+  les fires on competien amb els electors de l'autor.
+- **Les dates, decrets i citacions de premsa del capítol segueixen valent**; **la
+  caracterització del frau andorrà, no com a constatació neutra.**
+
+Vegeu [les mateixes bèsties passaven dues vegades pel
+cens](../temes/economia/comerc/les-mateixes-besties-passaven-dues-vegades-pel-cens.md).

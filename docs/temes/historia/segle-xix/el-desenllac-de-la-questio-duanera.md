@@ -411,6 +411,28 @@ El que sí que encaixa amb tot és que la intervenció del bisbe fos **davant la
 comissió de pressupostos, el 26 de juny**, i no al plenari. **Vilar escriu
 «Sénat» on la font primària diu «comissió».**
 
+## Qui escriu això va fer votar mesures contra Andorra
+
+**Afegit el 17-09-2026, i obliga a rellegir aquesta fitxa amb una advertència
+més.** **Aquesta fitxa ja marcava que l'autor «feia campanya per restringir les
+franquícies andorranes a França».** **Ara el corpus en té l'acte, datat i amb el
+contingut, escrit per ell mateix en nota a la p. 137:** **com a conseller general
+del cantó de Mont-Louis, va fer adoptar el 5 d'octubre de 1904 pel Consell
+General dels Pirineus Orientals un vot que demana un nou cens dels ramats
+andorrans, verificació severa dels certificats d'origen i que la franquícia només
+valgui en certes èpoques, «per exemple després de les grans fires de l'Arieja i
+dels Pirineus Orientals».**
+
+> **El tercer punt no és antifrau: és de mercat.** **I la mateixa pàgina on el
+> declara és la que recull la queixa dels seus electors** — **que els andorrans
+> els guanyen a les fires perquè no paguen drets.** Vegeu
+> [les mateixes bèsties passaven dues vegades pel
+> cens](../../economia/comerc/les-mateixes-besties-passaven-dues-vegades-pel-cens.md).
+
+**Res del que aquesta fitxa documenta no es retira.** **Les dates, els decrets i
+les citacions de premsa segueixen valent.** **El que queda marcat és la
+caracterització del frau andorrà.**
+
 ## Buits registrats
 
 1. **El text sencer de la carta pastoral del 21 d'agost de 1894.** El corpus en té

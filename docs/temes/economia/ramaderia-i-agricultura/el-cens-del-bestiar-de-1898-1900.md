@@ -137,6 +137,23 @@ llana**, i **diu per què**: no perquè dues fonts guanyin a una, sinó perquè
 **Vilar 1904 és, en aquest punt, l'erroni** — i és **la font que el corpus havia
 fet servir**.
 
+## Per què comptar el bestiar andorrà era una qüestió duanera
+
+**Afegit el 17-09-2026.** **El corpus tenia aquest cens com una dada econòmica.**
+**Una font francesa del 1904 mostra que comptar el bestiar andorrà tenia
+conseqüències duaneres directes**: **Andorra només podia entrar a França, en
+franquícia, «*un tiers, seulement, du bétail existant dans ce pays*»**. **De la
+xifra del cens depenia, literalment, la mida del privilegi.**
+
+**I hi ha dues acusacions de falsedat, de dos països i amb nou anys de
+diferència:** **els habitants dels cantons francesos fronterers deien que «*les
+mêmes bêtes sont passées plusieurs fois sous les yeux des recenseurs*»**, i **el
+bisbe d'Urgell va declarar el 1895 a Madrid que de mules no n'hi havia «ni la
+desena part»** de les 450 de l'article votat. **El corpus registra les dues i no
+arbitra.** Vegeu
+[les mateixes bèsties passaven dues vegades pel
+cens](../comerc/les-mateixes-besties-passaven-dues-vegades-pel-cens.md).
+
 ## Buits registrats
 
 1. **Comprovar la taula dels censos contra la pàgina impresa** de Brutails.
