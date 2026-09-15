@@ -182,6 +182,23 @@ al costum de Barcelona el 1113 i Jaca al de Montpeller el 1134**—, i **el 1904
 diferència que compta és que «el dret català està molt escapçat, mentre que el
 costum andorrà és sempre viu».**
 
+## I una dita que ho complica, recollida el 1918
+
+**Afegit el 17-09-2026, i la font mateixa diu que no ho va poder comprovar.**
+**Un jurista espanyol recull que a Andorra es deia que **el Tribunal de Perpinyà
+falla segons dret català i el bisbat d'Urgell segons dret romà**, i que **qui
+apel·lava triava tribunal segons quina doctrina l'afavoria.**
+
+> **Si fos cert, la ironia és completa:** **aquesta fitxa recull que els
+> andorrans deien seguir el dret romà i que el jutge francès sostenia que era el
+> català**; **segons aquella dita, el tribunal francès seria el que aplicava el
+> català i l'episcopal el romà**, **de manera que l'andorrà que volia dret romà
+> havia d'anar a la Seu.**
+>
+> **El corpus no ho dona per establert: és un «es diu» que qui el recull declara
+> no haver comprovat.** Vegeu [a Perpinyà amb dret català, a la Seu amb dret
+> romà](./a-perpinya-amb-dret-catala-a-la-seu-amb-dret-roma.md).
+
 ## Buits registrats
 
 > **Auditats contra la resta del corpus el 2026-09-13.** **Dos han canviat

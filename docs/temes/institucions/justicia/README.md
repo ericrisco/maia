@@ -6,6 +6,7 @@ Tribunal de Corts, Batllia, Consell Superior de la Justícia.
 
 ## Articles (104)
 - [A les galeres d'Espanya, per la neu](./a-les-galeres-despanya-per-la-neu.md) — Els condemnats andorrans anaven a galeres espanyoles i el Politar en dona quatre raons, la segona meteorològica: a l'hivern, la tardor i la primavera no es podien dur a les de França perquè els Pirineus eren plens de neu.
+- [A Perpinyà amb dret català, a la Seu amb dret romà](./a-perpinya-amb-dret-catala-a-la-seu-amb-dret-roma.md) — Es deia a Andorra que els dos tribunals suprems jutjaven amb drets diferents i que per això qui apel·lava triava; qui ho recull diu que no ho va poder comprovar.
 - [Abrogats el 1839, aplicats el 1889](./abrogats-el-1839-aplicats-el-1889.md) — Com es cobrava un deute a Andorra: la cessió de béns, l'adjudicació d'immobles i el dret de recomprar-los.
 - [Al botxí per sos drets de penjar tres dones](./al-botxi-per-sos-drets-de-penjar-tres-dones.md) — El compte de despeses del juny de 1604 per l'execució de dones acusades de bruixeria a Andorra, amb l'aranzel del botxí i el que van rendir les composicions.
 - [Aquell príncep que és prevengut](./aquell-princep-que-es-prevengut.md) — Qui decidia l'últim recurs andorrà? El que arribava primer.

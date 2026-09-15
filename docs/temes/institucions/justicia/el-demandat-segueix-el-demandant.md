@@ -237,6 +237,20 @@ Brutails** (1904), amb les notes
 | **Demandant** | ***agent*** |
 | **Demandat** | ***defenent*** o ***demanat*** |
 
+## El fonament de la regla
+
+**Afegit el 17-09-2026.** **Una font espanyola del 1918 dona la raó jurídica que
+aquesta fitxa no tenia:** **la intervenció d'un o altre batlle la decideix la
+voluntat de les parts** i **«*no es posible a uno de los dos Batlles establecer
+competencia de jurisdicción, porque **par in pari non habet imperium***»**.
+
+> **Entre iguals no hi ha imperi.** **Cap dels dos batlles no és superior a
+> l'altre, de manera que no poden dirimir entre ells qui és competent** — **i per
+> això ho ha de decidir la part.** **La regla no és una preferència processal: és
+> la conseqüència de la paritat dels dos senyors.** Vegeu
+> [a Perpinyà amb dret català, a la Seu amb dret
+> romà](./a-perpinya-amb-dret-catala-a-la-seu-amb-dret-roma.md).
+
 ## Buits registrats
 
 1. **La divergència «Reforma de 1866» / «Reforma de 1886».** **Registrada i no

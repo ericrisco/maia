@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**981** documents · **192** fonts · **39** aptes com a model de llengua · **124** temes amb contingut.
+**982** documents · **192** fonts · **39** aptes com a model de llengua · **124** temes amb contingut.
 
 ## fonts
 
@@ -962,6 +962,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [A les galeres d'Espanya, per la neu](temes/institucions/justicia/a-les-galeres-despanya-per-la-neu.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
+| [A Perpinyà amb dret català, a la Seu amb dret romà](temes/institucions/justicia/a-perpinya-amb-dret-catala-a-la-seu-amb-dret-roma.md) | `temes/institucions/justicia` | compilada | contemporania | no | `rios-urruti-andorra-1920` |
 | [Abrogats el 1839, aplicats el 1889](temes/institucions/justicia/abrogats-el-1839-aplicats-el-1889.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Al botxí per sos drets de penjar tres dones](temes/institucions/justicia/al-botxi-per-sos-drets-de-penjar-tres-dones.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Aquell príncep que és prevengut](temes/institucions/justicia/aquell-princep-que-es-prevengut.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
