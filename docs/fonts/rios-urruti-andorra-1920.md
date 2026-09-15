@@ -41,6 +41,20 @@ abans de la publicació.
 **font secundària —de vegades pamfletària— per a tot el que explica del passat
 andorrà.** La lectura ha de separar les dues coses.
 
+> **I el llibre declara la seva tesi a l'última pàgina — llegit el 16-09-2026.**
+> **No acaba descrivint: acaba demanant.** **Sosté que el domini públic andorrà
+> és de la comunitat andorrana i no dels senyors**, **refuta Brutails per nom i
+> per pàgina**, **avisa que «la codicia de las riquezas forestales e hidráulicas
+> de los Valles» farà que les concessions se'n vagin cap als sobirans**, i
+> **apel·la a França perquè la nació que el 1914 va invocar la llibertat dels
+> pobles no li negui aquell dret a un de petit.** Vegeu [sinó perquè siguin
+> sempre a l'emprament de tots els
+> pobles](../temes/institucions/consell-general/sino-perque-siguin-sempre-a-lemprament-de-tots-els-pobles.md).
+>
+> **Tot el que el volum diu sobre el domini públic, els comunals i les
+> concessions s'ha de llegir sabent-ho.** **El que va veure el 1918 segueix sent
+> testimoni; el que en conclou és una posició de part.**
+
 ## Qui li va obrir les portes
 
 L'obra agraeix nominalment **el jutge d'apel·lacions d'Andorra, Ferran Valls i
@@ -81,7 +95,8 @@ propietari del repositori, no de qui llegeix.**
 | **Capítol IV, seccions A i B** (els quarts i les parròquies, pp. 95-104) | **destil·lat el 16-09-2026** |
 | **Capítol IV, secció C, pp. 104-113** (el Consell de les Valls com a òrgan, i el síndic) | **destil·lat el 16-09-2026** |
 | **Capítol IV, pp. 113-117** (els serveis del Consell i els dos pressupostos de 1917) | **destil·lat el 16-09-2026** — **amb l'advertiment de la font: el pressupost no existia escrit i el van compondre davant seu** |
-| **Capítol IV, des de la p. 117 fins al final** | **sense llegir** — hi ha **la propietat i la comunitat**, **els emprius**, **les boïgues**, **la peixena**, **el retracte de veïnatge** i **l'autonomia administrativa d'Andorra** |
+| **Capítol IV, pp. 117-127** (la propietat i la comunitat, i la conclusió sobre el domini públic) | **destil·lat el 16-09-2026** |
+| **El volum** | **llegit de la primera pàgina a l'última**: «Al lector», capítols I-IV i apèndixs A, B i D. **Només queda l'apèndix C**, que és **el Pariatge**, del qual el corpus ja té el text per l'annex 1 de Vilar: **la feina pendent allà és el contrast entre dues transcripcions** |
 | **Apèndix D** (la Reforma del 22 d'abril de 1866, pp. 150-161) | **destil·lat el 15-09-2026** — tancava un buit declarat en quatre articles del corpus |
 | **Apèndix A** (donació d'Ermengol VI al bisbe Pere, 27 de gener de 1133, pp. 131-133) | **destil·lat el 15-09-2026** — tancava la secció de buit «Què va passar el 1133» de `els-privilegis` |
 | **Apèndix B** (concòrdia del 8 de gener de 1176, pp. 133-136) | **destil·lat el 15-09-2026** — tancava el buit 3 de `cap-de-casa-pero-de-casa-antiga`, marcat prioritari |

@@ -217,6 +217,49 @@ duanes al pagament de tal o tal crèdit.**»
 > Vegeu [un de Canillo és foraster a
 > Encamp](../nacionalitat-i-residencia/un-de-canillo-es-foraster-a-encamp.md).
 
+## La rèplica, setze anys després i amb nom
+
+**Afegit el 16-09-2026.** **Un catedràtic espanyol de dret polític contesta
+aquestes pàgines citant-les** —«*La coutume d'Andorre*, págs. 163-4»— i **les
+declara «*enteramente erróneo e incongruente con la justificación jurídica de los
+derechos de Francia*»** ([sinó perquè siguin sempre a l'emprament de tots els pobles](./sino-perque-siguin-sempre-a-lemprament-de-tots-els-pobles.md)).
+
+| L'argument d'aquí | La rèplica del 1920 |
+| --- | --- |
+| **El Consell i els comuns són un municipi, i el dret sobre el domini públic és del poder sobirà** | **La interpretació del dret andorrà «*no puede hacerse exclusivamente desde un punto de vista documental sino atendiendo también a la costumbre*»** |
+| **Ho confirma el document que va posar fi a la revolució de 1881** | **Aquella resolució es va dictar «*para poner paz en los Valles por los disturbios que originara la concesión*» del casino**: el seu esperit és de vigilància, no de subversió del dret consuetudinari |
+| *(implícit: França hi té un títol)* | **«*Francia no tiene en modo alguno derecho dominical que invocar*, ya que los a ella correspondientes están concretamente determinados en los Pareages»** |
+
+> **La tenalla és aquesta**: **si es decideix per documents, França no té títol
+> sobre el domini públic, perquè el Pariatge no l'hi dona; si es decideix pel
+> costum, Andorra guanya.** **I qui invoca el costum per a la resta dels seus
+> drets no el pot rebutjar aquí.**
+>
+> **I la rèplica es fa amb Brutails a la mà**, dues vegades: **li reconeix que el
+> costum té funció vital en dret** —«*el gran escritor francés Brutails, a quien
+> tanto deben los estudios medievalistas*»— i **cita un article seu de 1888,
+> *Étude historique sur la loi Stratae***, **per sostenir que l'usatge que dona
+> el domini públic als senyors està contradit pel no ús.**
+
+**I hi ha una clàusula del document de 1881 que aquesta fitxa no tenia, en
+català:**
+
+> «**Sobre cuanto ataña a *treballs publichs* podrà 'l Consell general admetrer
+> demandas en aquest sentit… però *no tindran sas resolucions efectes legals fins
+> y tant que, habentlas somés al beneplàcit dels Coprínceps, hagin obtingut la sua
+> sanció*.**»
+
+> **El corpus té ara dues clàusules del mateix acord, de dues fonts diferents i
+> en dues llengües**: **la reserva de la facultat de jutjar l'oportunitat i
+> l'extensió** (aquí, per Brutails) **i la sanció prèvia dels treballs públics**
+> (per Ríos Urruti). **El document sencer segueix sense veure's.**
+
+**I què va passar de fet:** **el 27 de març de 1929 la concessió hidroelèctrica
+la va atorgar el Consell General** ([FHASA](../../economia/energia-i-serveis/fhasa.md)).
+`El corpus no en dedueix causalitat: registra que la qüestió que aquestes dues
+fonts discutien es va resoldre a la pràctica, i en el sentit que la segona
+defensava.`
+
 ## Buits registrats
 
 1. **La llista de concessions establerta pel Consell General**, que la font

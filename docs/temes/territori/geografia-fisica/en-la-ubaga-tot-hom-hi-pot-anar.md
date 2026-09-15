@@ -51,6 +51,30 @@ protegir es reparteix; el que no, no cal.**
 > **fins a Sant Pere ningú no et pot treure del solà.** **La lectura és del
 > corpus**; **la font cita el decret i no el comenta.**
 
+## D'on ve el mot, i què deia un usatge
+
+**Afegit el 16-09-2026.** **El corpus ha trobat *empramentum* —la forma llatina
+d'*empriu*— en tres llocs anteriors a la definició de 1904 que dona aquesta
+fitxa**, i **en tots tres vol dir el mateix: el dret d'ús d'una col·lectivitat
+sobre el que no és seu en propietat.**
+
+| Quan | On | Què hi diu |
+| --- | --- | --- |
+| **1133** | **Donació d'Ermengol VI**, apèndix A de Ríos Urruti | el comte concedeix als andorrans **«*empramentum in meo honore*»** i **emparament**, «tan bé com mai no ho hàgiu tingut» ([per aquests malfets…](../../historia/edat-mitjana/per-aquests-malfets-i-per-la-redempcio-de-la-seva-anima.md)) |
+| **1176** | **Concòrdia amb el bisbe**, apèndix B | el bisbe es compromet a **no treure'ls «*adempramentum terre vestre*» ni la seva defensa** mentre acatin la justícia ([de cada casa, un home ben armat](../../historia/edat-mitjana/de-cada-casa-un-home-ben-armat.md)) |
+| **Usatges de Barcelona**, usatge ***Strata*** | citat el 1920 en l'edició d'Abadal i Valls | camins, aigües corrents, fonts vives, prats, pastures, boscos, garrigues i roques **«*sunt de potestatibus, non ut habeant per alodium vel teneant in dominii, sed ut sint omni tempore ad empramentum cunctorum illorum populorum*»** ([sinó perquè siguin sempre a l'emprament de tots els pobles](../../institucions/consell-general/sino-perque-siguin-sempre-a-lemprament-de-tots-els-pobles.md)) |
+
+> **L'usatge és el que canvia la mida del mot.** **No diu que el domini públic
+> sigui del poble: diu que és de les potestats *però no en domini*, i que hi és
+> perquè estigui sempre a l'emprament dels pobles.** **L'*empriu* no és, doncs,
+> una particularitat andorrana: és el nom general del dret d'ús sobre el que les
+> potestats tenen sense tenir-ho.**
+>
+> **El que sí que és andorrà és el que aquesta fitxa descriu**: **que el mot hagi
+> passat a designar també *la cosa* i les franges concretes entre parròquies.**
+> `Lectura del corpus sobre tres documents que té; la font del 1920 fa servir
+> l'usatge per a un altre argument i no diu això.`
+
 ## Què és exactament un empriu
 
 **El corpus tenia el mot. Ara en té la definició, i té dues cares:**
@@ -189,6 +213,13 @@ reglament.**
 
 > «**Però el que sobretot les ha aturades és que els recursos dels boscos estan
 > molt disminuïts.**»
+
+> **DIVERGÈNCIA DE DATA REGISTRADA — 16-09-2026.** **Una font espanyola del 1918
+> diu: «*Hasta el decreto episcopal de 1855 hacíase en común la explotación de
+> las maderas; a partir de esa fecha quedó prohibido*»** ([sinó perquè siguin
+> sempre a l'emprament de tots els pobles](../../institucions/consell-general/sino-perque-siguin-sempre-a-lemprament-de-tots-els-pobles.md)). **Brutails dona
+> 1853, amb dia, mes i peça justificativa; aquella dona 1855 i prou.** `El corpus
+> no arbitra.`
 
 > **Dues normes de dues autoritats diferents en tretze anys, i la font diu que el
 > que va funcionar va ser l'esgotament.** **Lliga amb el que la secció anterior ja
