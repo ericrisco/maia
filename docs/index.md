@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**927** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**928** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -967,6 +967,7 @@
 | [L'administració no paga multa](temes/institucions/justicia/ladministracio-no-paga-multa.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Les fires d'Organyà eren vacances judicials](temes/institucions/justicia/les-fires-dorganya-eren-vacances-judicials.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Les fonts del dret](temes/institucions/justicia/les-fonts-del-dret.md) | `temes/institucions/justicia` | compilada | contemporania | no | `pujadas-dret-andorra` |
+| [Les gallines del veí, a tot arreu menys al prat](temes/institucions/justicia/les-gallines-del-vei-a-tot-arreu-menys-al-prat.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Les lleis qualificades](temes/institucions/justicia/les-lleis-qualificades.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Les penes del Codi Penal](temes/institucions/justicia/les-penes-del-codi-penal.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Les sentències no les escrivien els batlles](temes/institucions/justicia/les-sentencies-no-les-escrivien-els-batlles.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |

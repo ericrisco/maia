@@ -4,7 +4,7 @@ Tribunal de Corts, Batllia, Consell Superior de la Justícia.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (92)
+## Articles (93)
 - [A les galeres d'Espanya, per la neu](./a-les-galeres-despanya-per-la-neu.md) — Els condemnats andorrans anaven a galeres espanyoles i el Politar en dona quatre raons, la segona meteorològica: a l'hivern, la tardor i la primavera no es podien dur a les de França perquè els Pirineus eren plens de neu.
 - [Abrogats el 1839, aplicats el 1889](./abrogats-el-1839-aplicats-el-1889.md) — Com es cobrava un deute a Andorra: la cessió de béns, l'adjudicació d'immobles i el dret de recomprar-los.
 - [Al botxí per sos drets de penjar tres dones](./al-botxi-per-sos-drets-de-penjar-tres-dones.md) — El compte de despeses del juny de 1604 per l'execució de dones acusades de bruixeria a Andorra, amb l'aranzel del botxí i el que van rendir les composicions.
@@ -54,6 +54,7 @@ Tribunal de Corts, Batllia, Consell Superior de la Justícia.
 - [La sentència en llatí, la pena en català](./la-sentencia-en-llati-la-pena-en-catala.md) — Les sentències criminals majors es llegien a la plaça pública i el condemnat s'hi agenollava.
 - [Les fires d'Organyà eren vacances judicials](./les-fires-dorganya-eren-vacances-judicials.md) — Una llista de feriats andorrans hi va afegir la sega, la recollida de les garbes fins al nou de setembre i les fires de la Seu, Organyà, Salàs i Bertí, «per ser ocupats la gen del pais».
 - [Les fonts del dret](./les-fonts-del-dret.md) — Fins a la Constitució, el dret andorrà bevia del dret romà, del canònic i del català anterior al 1714.
+- [Les gallines del veí, a tot arreu menys al prat](./les-gallines-del-vei-a-tot-arreu-menys-al-prat.md) — Un decret del Consell General de 1800 permet matar les gallines del veí a l'hort, al camp sembrat i on hi ha les garbes, però no al prat.
 - [Les lleis qualificades](./les-lleis-qualificades.md) — Andorra té una categoria de llei que necessita majoria absoluta per aprovar-se, i n'hi ha disset.
 - [Les penes del Codi Penal](./les-penes-del-codi-penal.md) — El sostre és de vint-i-cinc anys i no hi ha cadena perpètua.
 - [Les sentències no les escrivien els batlles](./les-sentencies-no-les-escrivien-els-batlles.md) — El jutge que va estudiar el dret andorrà comptava amb les sentències per fixar el costum i se'n va endur una decepció: les redactava un lletrat de fora, es guardaven en fulls solts a casa dels escrivans, i els formularis dels notaris eren tots catalans.

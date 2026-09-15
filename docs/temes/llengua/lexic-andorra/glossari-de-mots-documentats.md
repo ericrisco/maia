@@ -607,6 +607,13 @@ que **els recull com a ús popular andorrà dins un text francès**:
 | ***in albis*** | **la moneda en què sí que es podia comprar vi el 1420**, quan els saigs van prohibir fer-ho amb moneda de Barcelona — **`significat no comprovat`** | ídem |
 | ***jurats*** | **l'autoritat comunal a qui un saig podia imposar una pena de cinquanta lliures per fer adobar un camí**, **1420** | ídem |
 | ***despeses extrínseques*** | **les que una memòria de reforma de cap a 1869 proposava eliminar** del procediment en tercera instància | ídem |
+| ***cot*** | **alhora la infracció als reglaments de policia rural i la multa que la castiga** — **8 pessetes al *quart* i a la parròquia, 20 a la Terra** | [les gallines del veí, a tot arreu menys al prat](../../institucions/justicia/les-gallines-del-vei-a-tot-arreu-menys-al-prat.md) |
+| ***recot*** | **el doble del *cot***, degut **vuit dies després de la segona intimació** | ídem |
+| ***cot dels fallits*** | **la multa per no acudir a una convocatòria** *(Politar, p. 244)* — **l'única espècie de *cot* que no és territorial** | ídem |
+| ***degolla*** | **matar una bèstia del ramat trobat a la pròpia finca**, i retenir la resta fins que l'amo pagava el dany — **abolida per Lluís XIV el 24-08-1687** | ídem |
+| ***bander*** / ***bande jurat*** | **el guarda nomenat per la parròquia** que pot ***bandejar* i denunciar el *ban*** *(decret del Consell General, 24-11-1892)* | ídem |
+| ***arrests simples*** | **pena que es complia **a la plaça pública***, on **els amics venien a fer companyia al condemnat** | ídem |
+| ***estrañament*** | **el bandejament**, imposat el 1874 per dos i per tres anys a qui refusava el càrrec de síndic | ídem |
 
 **Cap dels quatre no és a la llista del Servei de Política Lingüística**, i
 **tots quatre són d'un camp que aquesta fitxa no cobreix**: **el vocabulari de

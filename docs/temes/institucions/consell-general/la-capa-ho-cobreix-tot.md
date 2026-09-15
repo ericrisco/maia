@@ -352,8 +352,20 @@ calendari del pagament i no el contracte.**
 **No consta l'import de cap `adot` per fera**, ni el criteri de «xichs y
 grossos». **El corpus té la pràctica i no la tarifa.**
 
-**No consta `cot y recot`**: el text els nomena junts **una sola vegada** i **no
-distingeix el segon del primer.** `Requereix una altra ocurrència.`
+~~**No consta `cot y recot`**: el text els nomena junts **una sola vegada** i **no
+distingeix el segon del primer.**~~ — **Tancat el 22-09-2026** *(Brutails,
+pp. 310-311)*. **El *recot* és **normalment el doble del *cot***, i el calendari
+és **vuit i vuit**: **manament desobeït → vuit dies → segona intimació → vuit
+dies → es deu el *recot***.
+**Els imports habituals són **8 pessetes** per al *cot del cuart* i el *cot de la
+parroquia* i **20 pessetes** per al *cot de la Terra***.
+**I hi ha el cas que ho confirma**: **el 1874 dos notables que refusaven el
+càrrec de síndics van ser condemnats a **45 lliures de *cot* i 90 de *recot***
+—**exactament el doble**— **i declarats no andorrans**, pena remesa tres mesos i
+mig després.
+**L'escalada val només per als manaments administratius**: **el que obre una
+visura no admet segona intimació, perquè hi ha cosa jutjada.**
+**Vegeu** [les gallines del veí, a tot arreu menys al prat](../../institucions/justicia/les-gallines-del-vei-a-tot-arreu-menys-al-prat.md).
 
 **No consta cap acta d'aprehensió de papers a casa d'un notari mort.** **El
 corpus té l'ordre permanent i cap execució.** `Requereix els llibres del Consell
