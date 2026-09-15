@@ -2,7 +2,7 @@
 
 > Generat per `scripts/registre_progres.py`. No l'editeu a mà.
 
-**203 fonts registrades · 965 articles destil·lats · 757 buits declarats oberts.**
+**204 fonts registrades · 966 articles destil·lats · 765 buits declarats oberts.**
 
 ## Fonts destil·lades
 
@@ -137,6 +137,7 @@
 | [`sorribes-evolucio-premsa-1994`](fonts/sorribes-evolucio-premsa-1994.md) | [Les capçaleres](temes/societat/mitjans/les-capcaleres.md) | 0 |
 | [`spl-coneixements-usos-linguistics-2009`](fonts/spl-coneixements-usos-linguistics-2009.md) | [Quaranta-vuit coma cinc, no quaranta-vuit coma sis](temes/llengua/politica-linguistica/quaranta-vuit-coma-cinc-no-quaranta-vuit-coma-sis.md) | 8 |
 | [`spl-coneixements-usos-linguistics-2014`](fonts/spl-coneixements-usos-linguistics-2014.md) | [Els nouvinguts tenien més català que els nascuts a Andorra](temes/llengua/politica-linguistica/els-nouvinguts-tenien-mes-catala-que-els-nascuts-a-andorra.md) | 8 |
+| [`spl-coneixements-usos-linguistics-2018`](fonts/spl-coneixements-usos-linguistics-2018.md) | [El dipòsit legal d'aquesta edició és AND. 000-2019](temes/llengua/politica-linguistica/el-diposit-legal-daquesta-edicio-es-and-000-2019.md) | 8 |
 | [`spl-coneixements-usos-linguistics-2022`](fonts/spl-coneixements-usos-linguistics-2022.md) | [La sèrie que no és una sèrie](temes/llengua/politica-linguistica/la-serie-que-no-es-una-serie.md) | 0 |
 | [`spl-variants-dialectals-diec2`](fonts/spl-variants-dialectals-diec2.md) | [La marca que no vol dir Andorra](temes/llengua/lexic-andorra/la-marca-que-no-vol-dir-andorra.md) | 0 |
 | [`tarrene-influencies-multiculturals`](fonts/tarrene-influencies-multiculturals.md) | [Els casalers i els anfochs](temes/historia/segle-xix/els-casalers-i-els-anfochs.md)<br>[La primera policia](temes/historia/segle-xx-primera-meitat/la-primera-policia.md)<br>[Les xifres que no quadren](temes/societat/demografia/les-xifres-que-no-quadren.md)<br>[Per on van entrar les idees](temes/historia/democratitzacio/per-on-van-entrar-les-idees.md) | 0 |

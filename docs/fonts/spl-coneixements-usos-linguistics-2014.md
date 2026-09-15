@@ -89,7 +89,7 @@ pregunta és multiresposta i el text no repeteix la restricció.)*
 |---|---|---|
 | **1995-2009** | 1a a 4a | [fitxa](./spl-coneixements-usos-linguistics-2009.md), **llegida sencera** |
 | **1995-2014** (aquesta) | 1a a 5a | **llegida sencera el 15-09-2026** |
-| **1995-2018** | 1a a 6a | **només la p. 32** — **l'única del fons sense obrir** |
+| **1995-2018** | 1a a 6a | [fitxa](./spl-coneixements-usos-linguistics-2018.md), **llegida sencera el 15-09-2026** |
 | **1995-2022** | 1a a 7a | [fitxa](./spl-coneixements-usos-linguistics-2022.md), llegida |
 
 ## Estat de lectura

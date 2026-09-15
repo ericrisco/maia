@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**997** documents · **196** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**998** documents · **197** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1207,6 +1207,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [«Andorra es castellanitza»](temes/llengua/politica-linguistica/andorra-es-castellanitza.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `debat-2a-diada-migracions` |
+| [El dipòsit legal d'aquesta edició és AND. 000-2019](temes/llengua/politica-linguistica/el-diposit-legal-daquesta-edicio-es-and-000-2019.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `spl-coneixements-usos-linguistics-2018` |
 | [El model del 2009, comprovat](temes/llengua/politica-linguistica/el-model-del-2009-comprovat.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `uda-model-sistemic-2010` |
 | [El que la llei de la llengua pot multar](temes/llengua/politica-linguistica/el-que-la-llei-pot-multar.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Els exàmens oficials de català](temes/llengua/politica-linguistica/els-examens-oficials-de-catala.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `marina-formacio-dadults` |
@@ -1764,6 +1765,7 @@
 | [`sorribes-evolucio-premsa-1994`](fonts/sorribes-evolucio-premsa-1994.md) | Rosa Mari Sorribes · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`spl-coneixements-usos-linguistics-2009`](fonts/spl-coneixements-usos-linguistics-2009.md) | Govern d'Andorra · Servei de Política Lingüística (encàrrec i edició) · Centre de Recerca Sociològica de l'Institut d'Estudis Andorrans (estudi) | drets reservats; cap llicència declarada al document ni al portal | no |
 | [`spl-coneixements-usos-linguistics-2014`](fonts/spl-coneixements-usos-linguistics-2014.md) | Govern d'Andorra · Servei de Política Lingüística (encàrrec i edició) · Centre de Recerca Sociològica de l'Institut d'Estudis Andorrans (estudi) | drets reservats; cap llicència declarada al document ni al portal | no |
+| [`spl-coneixements-usos-linguistics-2018`](fonts/spl-coneixements-usos-linguistics-2018.md) | Govern d'Andorra · Servei de Política Lingüística (encàrrec i edició) · Centre de Recerca Sociològica de l'Institut d'Estudis Andorrans (estudi) | drets reservats; cap llicència declarada al document ni al portal | no |
 | [`spl-coneixements-usos-linguistics-2022`](fonts/spl-coneixements-usos-linguistics-2022.md) | Govern d'Andorra · Servei de Política Lingüística (encàrrec i edició) · Andorra Recerca i Innovació (estudi) | drets reservats; cap llicència declarada al document ni al portal | no |
 | [`spl-variants-dialectals-diec2`](fonts/spl-variants-dialectals-diec2.md) | Institut d'Estudis Catalans (document) · Govern d'Andorra (portal que el publica) | drets reservats; cap llicència declarada ni al document ni al portal | no |
 | [`tarrene-influencies-multiculturals`](fonts/tarrene-influencies-multiculturals.md) | Claudine Tarrene i Fabresse · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |

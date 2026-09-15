@@ -308,6 +308,14 @@ manera que **la seva base sembla ser una altra**.
 > sense sotracs.** `Hipòtesi del corpus amb el càlcul a la vista`, a
 > [els nouvinguts tenien més català que els nascuts a
 > Andorra](./els-nouvinguts-tenien-mes-catala-que-els-nascuts-a-andorra.md).
+>
+> **I confirmada el mateix dia sobre l'edició original del 2018**, que **imprimeix
+> 75,4 % i 19,2 %** on la del 2022 en reprodueix 77,5 i 19,4: **amb els valors
+> originals les quatre opcions d'acció sumen 99,2**, que és el que s'espera d'una
+> base de subgrup; **amb els reproduïts, 101,5**
+> ([el dipòsit legal d'aquesta edició és AND. 000-2019](./el-diposit-legal-daquesta-edicio-es-and-000-2019.md)).
+> **La sèrie, amb els tres valors impresos a la seva edició original i el 2014
+> rebasat: 79,4 · 78,2 · 75,4 · 74,8.**
 
 **El detall que sí que es pot comparar, perquè el document el dona a part:**
 **entre els catalanoparlants, els que continuen en català són el 28 %.**

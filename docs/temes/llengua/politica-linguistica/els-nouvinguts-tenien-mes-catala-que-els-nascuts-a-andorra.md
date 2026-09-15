@@ -74,6 +74,17 @@ anys de residència»**:
 quinquenni**, i **el 2014 tenen el català com a única llengua materna gairebé el
 doble que els nascuts al país** —**64,1 % contra 33,3 %**.
 
+> **Quanta gent hi ha darrere d'aquest 64,1 %, afegit el 2026-09-15.**
+> **Aquesta edició no dona la base del segment.** **La següent sí**: l'edició
+> 1995-2018 escriu que **«augmenta el percentatge d'enquestats que fa menys de
+> cinc anys que viuen al país (del 4 % el 2014 al 13 % el 2018)»**
+> ([el dipòsit legal d'aquesta edició és AND. 000-2019](./el-diposit-legal-daquesta-edicio-es-and-000-2019.md)).
+> **El 4 % de 727 són unes 29 persones**; **el 64,1 % d'aquelles, uns dinou.**
+> `Càlcul del corpus.` **El fet no canvia i la seva precisió sí**: **el marge
+> declarat, ± 3,69 %, és per al conjunt i no per a un segment de vint-i-nou.**
+> *(El 2018 diu «menys de cinc anys» i aquest gràfic diu «5 o menys»: no és
+> exactament el mateix tall, i la base és un ordre de magnitud, no un recompte.)*
+
 **No és un canvi de llengua: és un canvi de qui arriba.** El text ho diu amb la
 xifra que ho explica:
 
@@ -320,8 +331,12 @@ s'arbitra.**
 
 ## Buits registrats
 
-- **L'edició 1995-2018 segueix llegida només per la seva pàgina 32.** És l'única
-  del fons que no s'ha obert sencera. **Ara és el buit concret de la sèrie.**
+- ~~**L'edició 1995-2018 segueix llegida només per la seva pàgina 32.** És
+  l'única del fons que no s'ha obert sencera.~~ — **`tancat` el mateix dia**:
+  llegida sencera
+  ([lectura](./el-diposit-legal-daquesta-edicio-es-and-000-2019.md)).
+  **Amb ella, les quatre edicions de l'enquesta que penja el portal estan
+  obertes.**
 - **Per què el valor del 2004 passa de 48,5 a 48,6 el 2016.** **La dècima té
   edició i pàgina; no té explicació.** Cap edició no ho comenta.
 - **El total d'assalariats i els disset sectors vénen del Departament

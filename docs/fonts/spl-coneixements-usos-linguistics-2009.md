@@ -107,11 +107,11 @@ d'entrevista, les dates de camp i el nombre d'enquestadors per a **1995, 1999,
 |---|---|---|
 | **1995-2009** (aquesta) | 1a a 4a | **llegida sencera el 15-09-2026** |
 | **1995-2014** | 1a a 5a | [fitxa](./spl-coneixements-usos-linguistics-2014.md), **llegida sencera el 15-09-2026** — **és on entra el 48,6** |
-| **1995-2018** | 1a a 6a | **només la p. 32**, llegida per arbitrar una discrepància |
+| **1995-2018** | 1a a 6a | [fitxa](./spl-coneixements-usos-linguistics-2018.md), **llegida sencera el 15-09-2026** |
 | **1995-2022** | 1a a 7a | [fitxa pròpia](./spl-coneixements-usos-linguistics-2022.md), llegida |
 
 **La dècima discrepant de l'indicador del 2004 entra a l'edició del 2016**, i
-**la del 1995-2018 és ara l'única del fons sense obrir.**
+**les quatre edicions de l'enquesta estan obertes des del 15-09-2026.**
 
 ## Estat de lectura
 

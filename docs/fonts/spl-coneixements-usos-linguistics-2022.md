@@ -36,8 +36,10 @@ des de la premsa i des d'un article acadèmic**. Aquesta fitxa obre el document.
 > **L'edició 1995-2014 també s'ha llegit sencera**
 > ([fitxa](./spl-coneixements-usos-linguistics-2014.md)): **és on entra la
 > dècima**, i **és la que declara per escrit que la millora del català del 2014
-> és «més conjuntural que estructural»**. **La del 1995-2018 és ara l'única del
-> fons sense obrir.**
+> és «més conjuntural que estructural»**. **I la 1995-2018 també**
+> ([fitxa](./spl-coneixements-usos-linguistics-2018.md)): **és on neix el gràfic
+> de l'indicador que aquesta edició reimprimeix**, i **dona 75,4 % on aquesta
+> edició en reprodueix 77,5 %.** **Les quatre edicions del fons estan obertes.**
 
 | Peça | Abast de lectura | Evidència |
 | --- | --- | --- |

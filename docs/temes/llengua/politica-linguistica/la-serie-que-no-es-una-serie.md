@@ -162,6 +162,14 @@ qual l'informe del 2022 construeix la seva conclusió principal**. El mateix
 gràfic surt igual a l'edició del 2018, de manera que **l'error ve d'abans i s'ha
 reimprès**.
 
+> **Confirmat a l'origen el 2026-09-15.** **Aquesta última frase es va escriure
+> havent llegit el text de la p. 32 de l'edició del 2018 i no el seu dibuix.**
+> **Ara el dibuix està vist, a 400 ppp**: **el gràfic d'aquella edició deixa la
+> línia verda del català a dalt el 2018 i li assigna el 57,6**, **al revés del
+> text que té a la mateixa pàgina**
+> ([el dipòsit legal d'aquesta edició és AND. 000-2019](./el-diposit-legal-daquesta-edicio-es-and-000-2019.md)).
+> **L'error neix el 2019 i es reimprimeix el 2023.**
+
 La sèrie correcta de l'indicador, doncs, és aquesta, amb les dues últimes
 columnes preses del text i no del dibuix, **i amb la casella del 2004 corregida
 el 2026-09-15 contra l'edició original de la quarta onada** —vegeu
@@ -188,6 +196,18 @@ presència del català és la més alta des de l'any 1995»**.
 millor indicador de català des que es mesura **i, alhora, la pitjor atenció
 exclusivament en català a la seva pròpia administració des que es mesura**.
 
+> **Matís obligat, afegit el 2026-09-15.** **Aquell mínim no es mesura sobre el
+> mateix àmbit que el precedeix.** Les conclusions de l'edició del 2018 declaren:
+> **«en aquesta enquesta s'hi han afegit àmbits com l'Hospital i els centres
+> d'atenció primària. Això ha fet baixar els percentatges d'ús del català –que,
+> per tant, no són del tot comparables amb els dels estudis anteriors»**
+> ([el dipòsit legal d'aquesta edició és AND. 000-2019](./el-diposit-legal-daquesta-edicio-es-and-000-2019.md)).
+> **Des del 2018, «Administració pública» inclou la sanitat**, que és **el sector
+> on el mateix informe diu que el català és menys present.** **Una part de la
+> caiguda és el canvi de perímetre, i el corpus no pot dir quina**: cap edició no
+> publica la sèrie sense els nous àmbits. **El fet no es retira; se li posa la
+> vora.**
+
 I no és l'únic lloc: l'informe també registra **«una presència inferior del
 català en el sector de la salut»** i **«una tendència a la baixa de l'atenció en
 català en espais com ara els restaurants, les botigues i els bars, pubs i
@@ -204,11 +224,23 @@ La pregunta, tal com la formula l'enquesta (p. 40):
 
 | Resposta | 2014 | 2018 | **2022** |
 | --- | --- | --- | --- |
-| **Continua en castellà** | 65,5 % | 77,5 % | **74,8 %** |
+| **Continua en castellà** | 65,5 % | **77,5 %** ⚠ | **74,8 %** |
 | Segueix en català | 17,5 % | 19,4 % | **20,6 %** |
 | Mai s'adreça a ningú en català | 13,6 % | 10,8 % | 11,6 % |
 | Demana si li poden parlar en català | 0,7 % | 3,5 % | 3,1 % |
 | Interromp la conversa | 0,1 % | 1,1 % | 0,3 % |
+| **No contesta** | 2,6 % | 3,0 % | 0,8 % |
+
+> ⚠ **La columna del 2018 no és la que imprimeix la seva pròpia edició.**
+> **Comprovat el 2026-09-15**: l'edició 1995-2018 dona **75,4 %** per a «continua
+> en castellà» i **19,2 %** per a «segueix en català», **i el seu text ho repeteix
+> amb lletres** —«el percentatge ha passat del 65,5 % al 75,4 %»—; **aquesta
+> edició del 2022 en reprodueix 77,5 % i 19,4 %.** **Les altres quatre files
+> coincideixen.** **Dos punts i una dècima de diferència a la fila principal**, i
+> **les quatre opcions d'acció sumen 99,2 amb els valors originals i 101,5 amb els
+> reproduïts** ([el dipòsit legal d'aquesta edició és AND. 000-2019](./el-diposit-legal-daquesta-edicio-es-and-000-2019.md)).
+> **És la segona discrepància de reproducció del fons**, després de la dècima de
+> l'indicador del 2004.
 
 > **Avís de base, afegit el 2026-09-15 i ampliat el mateix dia.** **Aquesta taula
 > té una fila que hi falta i una columna amb una base diferent de les altres
