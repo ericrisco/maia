@@ -4,7 +4,7 @@ Tribunal de Corts, Batllia, Consell Superior de la Justícia.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (85)
+## Articles (86)
 - [A les galeres d'Espanya, per la neu](./a-les-galeres-despanya-per-la-neu.md) — Els condemnats andorrans anaven a galeres espanyoles i el Politar en dona quatre raons, la segona meteorològica: a l'hivern, la tardor i la primavera no es podien dur a les de França perquè els Pirineus eren plens de neu.
 - [Abrogats el 1839, aplicats el 1889](./abrogats-el-1839-aplicats-el-1889.md) — Com es cobrava un deute a Andorra: la cessió de béns, l'adjudicació d'immobles i el dret de recomprar-los.
 - [Al botxí per sos drets de penjar tres dones](./al-botxi-per-sos-drets-de-penjar-tres-dones.md) — El compte de despeses del juny de 1604 per l'execució de dones acusades de bruixeria a Andorra, amb l'aranzel del botxí i el que van rendir les composicions.
@@ -12,6 +12,7 @@ Tribunal de Corts, Batllia, Consell Superior de la Justícia.
 - [Ben arrimat a la paret contrària a l'església](./ben-arrimat-a-la-paret-contraria-a-lesglesia.md) — El Ceremonial del Politar, que el corpus havia declarat absent quatre vegades.
 - [Cesan los demes tribunals inferiors](./cesan-los-demes-tribunals-inferiors.md) — Una doctrina andorrana sostenia que mentre el tribunal de les Corts està obert cessen tots els altres.
 - [Cinc respostes a la mateixa pregunta](./cinc-respostes-a-la-mateixa-pregunta.md) — Un jutge del Tribunal Superior va preguntar quins drets tenia la vídua sobre els béns del marit a notables, a antics batlles, als batlles en exercici i a juristes.
+- [Començava per l'execució i deliberava després](./comencava-per-lexecucio-i-deliberava-despres.md) — La frase amb què Brutails resumeix el procediment andorrà antic, i les quatre vies documentades que li donen la raó.
 - [Cronologia legislativa del segle XX](./cronologia-legislativa.md) — Els drets civils de la dona casada són del 1975; els advocats entren als tribunals el mateix any; el Govern es crea el 1981.
 - [De saig a batlle, el set de juny de 1456](./de-saig-a-batlle-el-set-de-juny-de-1456.md) — El Politar deixa en blanc la data del canvi de nom dels saigs a batlles i el corpus la perseguia des de fa sessions.
 - [Demanaves l'ordre i l'altre passava a ser demandant](./demanaves-lordre-i-laltre-passava-a-ser-demandant.md) — Al procediment de visura es començava fent que el cònsol prohibís alguna cosa al veí, sense examinar-ne el fonament i sense poder-s'hi negar.
