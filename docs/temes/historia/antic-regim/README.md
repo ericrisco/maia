@@ -8,6 +8,7 @@ Els segles XVI-XVIII. El Consell de la Terra com a institució.
 - [A Andorra qui no té fills és menys lliure](./a-andorra-qui-no-te-fills-es-menys-lliure.md) — A França un home sense fills disposava lliurement dels seus béns; a Andorra passava el contrari, perquè els fideïcomisos eren la regla.
 - [Domèstics d'un rang una mica més elevat](./domestics-dun-rang-una-mica-mes-elevat.md) — Els germans que no heretaven es quedaven treballant «a l'utilitat de la casa», i la font els descriu així.
 - [Dos capítols matrimonials de 1788](./dos-capitols-matrimonials-de-1788.md) — Dot de 170 lliures, creix de 25 i deu lliures per a cada germana.
+- [El dot va canviar de terra](./el-dot-va-canviar-de-terra.md) — El dot d'una dona no seia en una finca sinó en un valor: quan un tercer va rescatar la terra, els diners van servir per comprar-ne una altra on tornar-lo a assegurar.
 - [El dot](./el-dot.md) — El règim matrimonial andorrà tradicional no era la separació de béns, com sovint es creu: era el dotal.
 - [Els capítols matrimonials](./els-capitols-matrimonials.md) — «Prometen heretar a aquell o aquella que millor los apareixerà i més ben vist los serà.» La fórmula que resolia com triar un hereu encara no nascut.
 - [Els fills il·legítims no existeixen, deien](./els-fills-illegitims-no-existeixen-deien.md) — Els notables andorrans sostenien que un fill il·legítim no existia per al costum i no podia tenir drets.

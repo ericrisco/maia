@@ -176,7 +176,15 @@ contrastat amb **la secció «La dot» de *La Coutume d'Andorre* de J.-A. Brutai
    [dos capítols matrimonials de 1788](./dos-capitols-matrimonials-de-1788.md).
    **Amb un contracte no es fa una regla**: cal sèrie.
 3. **Qui aportava què**, estadísticament: aportaven més les dones o els homes?
-4. Com funcionava **la hipoteca dotal** a la pràctica; **si es van executar mai**.
+4. ~~Com funcionava **la hipoteca dotal** a la pràctica~~; **si es van executar
+   mai**. **Tancat a mitges el 15-09-2026.** **Com funcionava, consta**: una
+   escriptura del **19 d'octubre de 1788** mostra que **el dot no anava lligat a
+   una finca sinó a un valor**, i que **quan un tercer va rescatar la terra on
+   seia, els diners del rescat van servir expressament per recuperar-ne una
+   altra «*a fi de que lo adot… quedas assegurat*»**. Mostra també que
+   **alienar terra carregada de dot demanava decret del batlle**. **El que
+   segueix obert és si es va executar mai**: allà el dot **no es cobra, es
+   reallotja**. Vegeu [el dot va canviar de terra](./el-dot-va-canviar-de-terra.md).
 5. Els **pro-parents** — el mot i la figura.
 6. La relació entre el dot andorrà i el **dot català i balear**: l'autor els
    equipara i el corpus **no ho ha verificat**. **Segona opinió trobada:**
@@ -188,6 +196,7 @@ contrastat amb **la secció «La dot» de *La Coutume d'Andorre* de J.-A. Brutai
 ## Related
 
 - [Dos capítols matrimonials de 1788](./dos-capitols-matrimonials-de-1788.md) — un dot real, amb xifres.
+- [El dot va canviar de terra](./el-dot-va-canviar-de-terra.md) — la hipoteca dotal funcionant, el 1788.
 
 - [Els capítols matrimonials](./els-capitols-matrimonials.md) — on es fixava.
 - [L'hereu i el cabaler](./lhereu-i-el-cabaler.md) — qui arribava amb què.

@@ -238,6 +238,7 @@ l'adquirent per les reparacions, *adobs***.
 
 ## Related
 
+- [El dot va canviar de terra](../../historia/antic-regim/el-dot-va-canviar-de-terra.md) — aquestes mateixes condicions de rescat, pactades en una escriptura de 1788.
 - [Tenen un fill a França o a Amèrica](./tenen-un-fill-a-franca-o-a-america.md) — com es venia; aquesta unitat explica com es recuperava.
 - [La venda a carta de gràcia](./la-carta-de-gracia.md) — la fitxa general del contracte.
 - [Però en tot lo demés, al cinc per cent](./pero-en-tot-lo-demes-al-cinc-per-cent.md) — el 25 de març com a data d'entrada dels masovers.
