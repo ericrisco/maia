@@ -474,6 +474,8 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **lluir i quitar** | **redimir** una finca venuda a carta de gràcia: «*lluhi y quita a nos altres… la sobre dita pessa de terra… per la quantitat de noranta lliuras*». Brutails 1904, peça justificativa X, p. XX |
 | **balandran** · **bonete** | **la vestimenta d'un Beneficiat de la catedral d'Urgell**, usada el segle XIX **en lloc de toga i birret** per investir un llicenciat en medicina «per a les Valls d'Andorra» al palau episcopal. *La cuestión de Andorra*, 1894, p. 7 |
 | **soberanía práctica tradicional** | **la fórmula amb què el Consell General designa el seu propi títol el 1894**, oposada a la sobirania documental dels bisbes: es funda en documents **i en la necessitat de governar-se ells mateixos**, perquè els sobirans pretesos viuen fora i no tenen «*la fuerza pública para hacerse obedecer*». *La cuestión de Andorra*, 1894, p. 3 |
+| **guia** (*guía*) | **document de trànsit duaner** amb termini de validesa; el 1894 el bisbe d'Urgell amenaça de fer **subsistir «la limitación de las guías en los plazos trimestrales, ó más cortos, si el caso lo requiere»** com a represàlia política. *La cuestión de Andorra*, 1894, p. 11 |
+| **Príncep temporal** | **el títol amb què el Consell General encapçala la seva exposició al bisbe d'Urgell el 1894**, deliberadament **en lloc de «Príncep Sobirà»**, que és el que el bisbe reclamava. *La cuestión de Andorra*, 1894, p. 10 |
 | **rebaixant** | terreny comunal boscós per sota les pastures d'alta muntanya |
 | **fresa** | lloc on els peixos fresen (habitual en legislació de pesca) |
 

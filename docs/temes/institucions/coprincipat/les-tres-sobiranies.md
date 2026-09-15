@@ -169,8 +169,18 @@ va arribar el mateix any.
    > | **20 de novembre de 1822** | El bisbe **pressiona Lluís XVIII perquè faci valer els seus drets sobre les Valls, «fins i tot per la força»** |
    > | **1894** | **Mgr Casañas** formula **una reivindicació «encara més intransigent»** |
    >
-   > **El corpus segueix sense tenir cap d'aquests quatre textos** —per això el
-   > buit no es tanca— **però ja no té «tres versions del que pensava el bisbe i
+   > **ACTUALITZAT EL 15-09-2026: el corpus ja té el quart.** **L'escrit de
+   > Casañas del 12 d'agost de 1894** és reproduït en la seva «sección política»
+   > a la primera exposició del Consell General d'aquell mateix any, **pp. 10-11**:
+   > **dues condicions** —autorització prèvia per a telègrafs, carreteres i
+   > establiments de recreació i ensenyament, i **cap gestió amb cap govern sense
+   > el bisbe**, perquè «*el pueblo andorrano con el Obispo forman una sola
+   > entidad política*»— **i quatre represàlies econòmiques si no s'accepten**,
+   > totes sobre les guies, l'aranzel i el bestiar. **Citat pel seu adversari;
+   > l'original no s'ha vist.** Vegeu [o ho accepteu, o el bestiar passa a ser
+   > estranger](../../historia/segle-xix/o-ho-accepteu-o-el-bestiar-passa-a-ser-estranger.md).
+   >
+   > **Dels quatre, en falten tres** —per això el buit no es tanca— **però ja no té «tres versions del que pensava el bisbe i
    > cap document del bisbe»: en té quatre actes datats i atribuïts.** I la
    > novetat que compta: **dos d'ells diuen el contrari dels altres dos.**
    > **Brutails ho llegeix així: «és qüestió de circumstàncies i de temperament;
@@ -213,6 +223,7 @@ va arribar el mateix any.
 
 ## Related
 
+- [O ho accepteu, o el bestiar passa a ser estranger](../../historia/segle-xix/o-ho-accepteu-o-el-bestiar-passa-a-ser-estranger.md) — l'escrit de Casañas del 1894, reproduït.
 - [El coprincipat](./el-coprincipat.md) — la institució en litigi.
 - [La qüestió d'Andorra](../../historia/segle-xix/la-questio-dandorra.md) — la tesi andorrana, del 1894.
 - [La qüestió duanera de 1895](../../historia/segle-xix/la-questio-duanera-de-1895.md) — la tesi espanyola, en un discurs.
