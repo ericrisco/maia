@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**962** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**963** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -923,6 +923,7 @@
 | [Al Bisbe la dignitat, al de Foix el profit](temes/institucions/coprincipat/al-bisbe-la-dignitat-al-de-foix-el-profit.md) | `temes/institucions/coprincipat` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [El Concordat del 2008](temes/institucions/coprincipat/el-concordat-del-2008.md) | `temes/institucions/coprincipat` | compilada | contemporania | no | `serra-vatica-microestat` |
 | [El Coprincipat](temes/institucions/coprincipat/el-coprincipat.md) | `temes/institucions/coprincipat` | compilada | contemporania | no | `coprincep-frances` |
+| [El veguer de França va corregir el llibre](temes/institucions/coprincipat/el-veguer-de-franca-va-corregir-el-llibre.md) | `temes/institucions/coprincipat` | compilada | contemporania | no | `vilar-andorre-1904` |
 | [La quèstia](temes/institucions/coprincipat/la-questia.md) | `temes/institucions/coprincipat` | compilada | contemporania | no | `wikipedia-questia` |
 | [Les tres sobiranies](temes/institucions/coprincipat/les-tres-sobiranies.md) | `temes/institucions/coprincipat` | compilada | contemporania | no | `vilar-andorre-1904` |
 | [Qui deia que Andorra no era sobirana](temes/institucions/coprincipat/qui-deia-que-andorra-no-era-sobirana.md) | `temes/institucions/coprincipat` | compilada | contemporania | no | `massa-gran-carlemany-sobirania-1994` |

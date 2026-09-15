@@ -89,3 +89,24 @@ sostenia el mateix Consell General el 1894. Les tres, a
    lectura d'aquest llibre. **En aquest punt, aquesta font és l'errònia.** Vegeu
    [el cens del bestiar de 1898-1900](../temes/economia/ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md).
 3. **Les parts I i II**: història i règim polític. El corpus n'ha llegit la III **i, des del 2026-09-13, el capítol de la sobirania i la justícia dels cosenyors**. La història i el règim administratiu segueixen sense llegir.
+
+## Caveat de font, afegit el 16-09-2026
+
+**Aquest llibre va ser informat i corregit pel representant de França a Andorra en
+exercici.** A la **pàgina 90, nota 2**, l'autor escriu: «*Je suis personnellement
+très reconnaissant à M. **Charles Romeu** des renseignements intéressants qu'il a
+bien voulu me fournir et **des corrections précieuses qu'il a bien voulu faire à ce
+travail**.*» **Romeu és el veguer francès, en el càrrec des del 1887.**
+
+**Conseqüència per a qualsevol lectura d'aquesta obra:**
+
+- **On descriu la pràctica administrativa francesa, guanya autoritat**: ve de qui
+  l'aplicava.
+- **On sosté la tesi de la sobirania eminent francesa, no compta com a opinió
+  independent.**
+- **Explica per què l'autor sap detalls interns** —el sopar de gala del veguer, el
+  decret del Consell revisat el març de 1904— **que no són en cap altra font.**
+
+**Segona marca de provinença del mateix volum**: l'exemplar digitalitzat porta la
+marca de llegat de la biblioteca de **J.-A. Brutails**. Vegeu [el veguer de França
+va corregir el llibre](../temes/institucions/coprincipat/el-veguer-de-franca-va-corregir-el-llibre.md).
