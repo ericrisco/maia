@@ -39,11 +39,36 @@ naturalesa**.
 > va passar.**
 >
 > **I hi ha una cosa que el corpus donava per feta i no ho és**: **els *saigs* no
-> eren agutzils.** **Prenien decisions.** **El 15 de juliol de 1420 les Corts van
-> haver de reformar un *mandement* dels *saigs*** que prohibia, **sota pena de 10
-> sous**, **servir-se de certes monedes.** **Un executor de sentències alienes no
+> eren agutzils.** **Prenien decisions.** **El 15 de juliol de 1420 es va haver de
+> reformar un *mandement* dels *saigs*** que prohibia, **sota pena de 10 sous**,
+> **comprar vi amb moneda de Barcelona.** **Un executor de sentències alienes no
 > dicta prohibicions monetàries generals.** **El canvi de 1456, doncs, no va
 > convertir un subaltern en jutge: va posar un nom nou a qui ja jutjava.**
+
+> **CORRECCIÓ i ampliació, 22-09-2026.** **Aquest paràgraf deia que qui va
+> reformar el mandat eren **les Corts** i que la prohibició era de «servir-se de
+> certes monedes».** **Llegida la nota sencera** *(Brutails, p. 309, nota 4)*,
+> **totes dues coses s'han de rectificar:**
+>
+> - **Qui l'aixeca són **Tomàs Cubells, *vicarius* pel bisbe d'Urgell**, i
+>   **Francesc d'Apília, doctor en lleis i jutge ordinari**, **tots dos plegats**
+>   *(ambo insimul)* — **no les Corts.**
+> - **La prohibició era que **cap home ni dona de les Valls comprés vi amb moneda
+>   de Barcelona, si no era «*in albis*»**, sota pena de deu sous.**
+> - **Els saigs que l'havien posada tenen nom**: **Ramon del Areny i Joan de
+>   Riucort.** **Són dos, i actuen alhora.**
+>
+> **La conclusió no canvia i el suport és més fort**: **els saigs dictaven
+> prohibicions generals.** **I un mes més tard, el 17 d'agost de 1420, el mateix
+> Ramon de l'Areny **posa una pena de cinquanta lliures als jurats d'Andorra
+> perquè adobin un camí** abans de la festa de Santa Maria de setembre** —**un
+> manament d'obra pública a l'autoritat comunal, amb termini i amb pena.**
+>
+> **Sobre el nom**: **aquesta fitxa ja té «Ramon de l'Areny, saig comtal» el
+> 1390**. **El de 1420 porta el mateix nom i el mateix ofici trenta anys
+> després.** **El corpus no afirma que sigui la mateixa persona** —**pot ser ell
+> al final de la carrera o un fill**— **i registra que l'ofici es manté a la
+> mateixa casa almenys trenta anys.** **Vegeu** [no prohibia matar-los: els eximia de pagar](./no-prohibia-matar-los-els-eximia-de-pagar.md).
 
 El **1763** el saig **ja no existia com a càrrec**: era el nom vell del
 [batlle](./justicia.md), abolit per decisió dels comissionats dels prínceps —

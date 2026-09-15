@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**926** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**927** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -980,6 +980,7 @@
 | [Ni amb els seus peus ni amb els peus d'altri](temes/institucions/justicia/ni-amb-els-seus-peus-ni-amb-els-peus-daltri.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [No en volien dos, de jutge: en volien un de comú](temes/institucions/justicia/no-en-volien-dos-de-jutge-en-volien-un-de-comu.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [No hi pot haver més que un sol veguer](temes/institucions/justicia/no-hi-pot-haver-mes-que-un-sol-veguer.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
+| [No prohibia matar-los: els eximia de pagar](temes/institucions/justicia/no-prohibia-matar-los-els-eximia-de-pagar.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Només per aquesta vegada, i que no faci precedent](temes/institucions/justicia/nomes-per-aquesta-vegada-i-que-no-faci-precedent.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Nul per al jutge, vàlid per a la consciència](temes/institucions/justicia/nul-per-al-jutge-valid-per-a-la-consciencia.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Pagat un poc abans d'obrar](temes/institucions/justicia/pagat-un-poc-abans-dobrar.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |

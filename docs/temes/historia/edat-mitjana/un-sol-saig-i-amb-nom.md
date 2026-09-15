@@ -201,6 +201,26 @@ còpia: **aquesta peça és una de les que Brutails declara haver transcrit ell
 mateix** *(p. CLXVI)*. **No passa pel copista intermedi que afecta el Politar i
 la Instructa de 1740** ([fitxa de font](../../../fonts/brutails-coutume-1904.md)).
 
+
+> **Ampliat el 22-09-2026: aquest privilegi és un dels textos que la doctrina
+> andorrana va desnaturar, i el corpus ho pot verificar perquè en té les dues
+> bandes.** **Brutails, p. 308, nota 1**: **«*S'ha escrit que el poder dels
+> Veguers «no pateix cap altra restricció que la prohibició de pronunciar la mort
+> contra els infants de menys de dotze anys». **En realitat**, per la carta de
+> 1305, Gastó de Foix va dispensar **de multa** els menors de dotze anys culpables
+> de vessament de sang. **El *Politar* ha desnaturat aquest text en l'anàlisi que
+> n'ha donat**.*»**
+>
+> **Una exempció de pagar convertida en una limitació del poder de vida i mort.**
+> **Aquesta fitxa té el text primari i diu el que diu**: **exempció de multa,
+> amb el llindar escrit en masculí i en femení.**
+>
+> **És el segon cas documentat del mateix defecte** —**el primer és el *Manual
+> Digest* desnaturant un privilegi**
+> ([el Manual Digest va desnaturar el privilegi](../../institucions/justicia/el-manual-digest-va-desnaturar-el-privilegi.md))—
+> **i el primer que el corpus pot comprovar contra l'original.** **Vegeu**
+> [no prohibia matar-los: els eximia de pagar](../../institucions/justicia/no-prohibia-matar-los-els-eximia-de-pagar.md).
+
 ## Buits registrats
 
 **El pergamí no s'ha vist.** El corpus té **la transcripció de Brutails del 1904**

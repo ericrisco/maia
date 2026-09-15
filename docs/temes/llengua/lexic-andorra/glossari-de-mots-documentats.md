@@ -602,6 +602,11 @@ que **els recull com a ús popular andorrà dins un text francès**:
 | ***pobre de solemnitat*** | **l'indigent notori** — **a Andorra el 1904 la categoria existeix i **no eximeix de costes*** | ídem |
 | ***dietes*** | **les vacacions dels perits** — **«*encara un vell mot català*»**, a les *Constitucions*, IV, x | ídem |
 | ***declarants*** | **els testimonis** — **5 sous catalans, i el doble si presten jurament** | ídem |
+| ***pena trencada*** | **la pena en què s'incorre en desobeir un manament o un compromís pres davant de la justícia** — **no només, com es creia a Andorra el 1904, trencar la llibertat provisional** | [no prohibia matar-los: els eximia de pagar](../../institucions/justicia/no-prohibia-matar-los-els-eximia-de-pagar.md) |
+| ***asentada la mostra*** | **feta la comprovació** prèvia a executar una pena trencada, **en temps de Corts obertes** *(manuscrit de Palmitjavila)* | ídem |
+| ***in albis*** | **la moneda en què sí que es podia comprar vi el 1420**, quan els saigs van prohibir fer-ho amb moneda de Barcelona — **`significat no comprovat`** | ídem |
+| ***jurats*** | **l'autoritat comunal a qui un saig podia imposar una pena de cinquanta lliures per fer adobar un camí**, **1420** | ídem |
+| ***despeses extrínseques*** | **les que una memòria de reforma de cap a 1869 proposava eliminar** del procediment en tercera instància | ídem |
 
 **Cap dels quatre no és a la llista del Servei de Política Lingüística**, i
 **tots quatre són d'un camp que aquesta fitxa no cobreix**: **el vocabulari de
