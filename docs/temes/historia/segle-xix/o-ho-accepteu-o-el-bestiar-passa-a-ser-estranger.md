@@ -158,6 +158,15 @@ diuen això— **i no li dona valor de data.**
 > contrario, **ha sido siempre el Consejo general y sus
 > Síndicos, los que han sostenido oficialmente las relaciones extranjeras**…» *(p. 12)*
 
+> **I aquesta frase té una negació frontal al corpus — 17-09-2026.** **Un jurista
+> francès escriu el 1904 que «*il est absolument inexact*» que el Consell General
+> i el síndic hagin sostingut oficialment relacions exteriors ni contractat
+> convencions o tractats de comerç.** **No és una diferència de doctrina: és una
+> diferència sobre què va passar.** **El corpus registra les dues i no arbitra**,
+> i **fa constar que el que ho decidiria són els convenis mateixos, que no té**
+> ([els dos papers de la reivindicació
+> espanyola](../../institucions/relacions-exteriors/els-dos-papers-de-la-reivindicacio-espanyola.md)).
+
 **El que la font enumera com a exercici**: signar **convenis o concerts
 comercials amb Espanya i França**; **rebre queixes i resoldre'n qüestions tots
 sols**, sense protesta i **de vegades ajudats per un i altre copríncep**; i

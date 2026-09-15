@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**966** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**967** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1095,6 +1095,7 @@
 | [Andorra a la comissió on no vota](temes/institucions/relacions-exteriors/andorra-a-la-comissio-on-no-vota.md) | `temes/institucions/relacions-exteriors` | compilada | contemporania | no | `eur-lex-protocol-seguretat-duanera-2011` |
 | [Andorra és adequada](temes/institucions/relacions-exteriors/andorra-es-adequada.md) | `temes/institucions/relacions-exteriors` | compilada | contemporania | no | `eur-lex-adequacio-dades-andorra-2010` |
 | [El reconeixement internacional](temes/institucions/relacions-exteriors/el-reconeixement-internacional.md) | `temes/institucions/relacions-exteriors` | compilada | contemporania | no | `serra-vatica-microestat` |
+| [Els dos papers de la reivindicació espanyola](temes/institucions/relacions-exteriors/els-dos-papers-de-la-reivindicacio-espanyola.md) | `temes/institucions/relacions-exteriors` | compilada | contemporania | no | `vilar-andorre-1904` |
 | [L'acord d'associació amb la UE](temes/institucions/relacions-exteriors/lacord-dassociacio-amb-la-ue.md) | `temes/institucions/relacions-exteriors` | compilada | contemporania | no | `premsa-andorrana` |
 | [L'acord duaner del 1990](temes/institucions/relacions-exteriors/lacord-duaner-del-1990.md) | `temes/institucions/relacions-exteriors` | compilada | contemporania | no | `eur-lex-acord-ce-andorra-1990` |
 | [Qui parlava per Andorra](temes/institucions/relacions-exteriors/qui-parlava-per-andorra.md) | `temes/institucions/relacions-exteriors` | compilada | contemporania | no | `vilar-andorre-1904` |

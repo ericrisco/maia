@@ -175,6 +175,23 @@ tot l'anterior:
 
 > «...los habitantes **pobres, pero libres**, de aquellas rústicas montañas.»
 
+## D'on venia la franquícia que es discutia
+
+**Afegit el 17-09-2026.** **El corpus tenia l'afer del 1895 sense antiguitat.**
+**Una font francesa del 1904 dona el fonament documental que el diputat Carvajal
+invocava**: **dues provisions reials, de l'1 de juny de 1335 i del 27 de setembre
+de 1391**, que **prohibeixen percebre drets de duana sobre els productes de les
+Valls** i que **van ser confirmades pels reis de Castella i després pels
+Borbons**
+([els dos papers de la reivindicació
+espanyola](../../institucions/relacions-exteriors/els-dos-papers-de-la-reivindicacio-espanyola.md)).
+
+> **El que es votava el 1895 no era una franquícia nova: era restablir-ne una de
+> cinc-cents seixanta anys.** **I la mateixa font sosté que aquelles provisions
+> no proven cap dependència d'Andorra respecte d'Espanya**, sinó **l'exercici de
+> sobirania interior sobre la pròpia duana.** **El corpus registra el fonament i
+> la lectura contrària, i no té cap de les dues provisions.**
+
 ## Buits registrats
 
 1. ~~**Què va passar al Senat.**~~ **TANCAT:** l'article **va ser rebutjat per la

@@ -205,6 +205,13 @@ francès per escrit**.
    el corpus cita sempre de segona mà.
 6. **Què deia Espanya** d'aquesta doctrina francesa. El corpus té la reial ordre
    de 1894 i no té cap rèplica espanyola a la tesi de la suzeraineté.
+7. **Les dues provisions reials en què descansava la reivindicació espanyola**
+   —**1 de juny de 1335 i 27 de setembre de 1391**—, **senceres.** `Nou el
+   17-09-2026.` **La mateixa font declara que va buscar a l'Arxiu de la Corona
+   d'Aragó i que no hi ha res més**, i **les dues provisions només prohibeixen
+   cobrar duana sobre els productes de les Valls**
+   ([els dos papers de la reivindicació
+   espanyola](./els-dos-papers-de-la-reivindicacio-espanyola.md)).
 
 ## Related
 
