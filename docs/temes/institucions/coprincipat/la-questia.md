@@ -167,6 +167,19 @@ el 1993.**
 > rei és sobirà, però no ho és tot
 > sol](../../historia/antic-regim/el-rei-es-sobira-pero-no-ho-es-tot-sol.md).
 
+> **Afegit el 16-09-2026, i amb una divergència d'unitat.** **André Vilar,
+> *L'Andorre* (1904), p. 80**, dona **450 francs** per al bisbe —**aquesta fitxa
+> en dona 450 pessetes**— i **960 per a França**, i **hi afegeix el mecanisme de
+> pagament**: **per estalviar un desplaçament anual als tres delegats andorrans
+> que porten la suma al prefecte dels Pirineus Orientals, la part francesa només
+> es paga cada dos anys i puja així a 1.920 francs**. **I en lliurar-la, els
+> delegats presten jurament de fidelitat a França en mans del delegat permanent.**
+> **Vilar la qualifica de «la dépense importante et sacrée qui a son origine dans
+> les Paréages de 1278»**, i **la situa dins d'un pressupost total d'uns 30.000
+> francs l'any**: **càlcul del corpus, 1.410 sobre 30.000 és un 4,7 %**.
+> **Pessetes o francs canvia el que es paga i el corpus no ho arbitra.** Vegeu [a
+> Andorra sí que hi havia impost](../../economia/banca-i-fiscalitat/a-andorra-si-que-hi-havia-impost.md).
+
 ## Related
 
 - [El coprincipat](./el-coprincipat.md)

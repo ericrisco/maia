@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**961** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**962** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -241,6 +241,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [A Andorra sí que hi havia impost, i era sobre la renda](temes/economia/banca-i-fiscalitat/a-andorra-si-que-hi-havia-impost.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `vilar-andorre-1904` |
 | [Ab propris diners y per son propri us](temes/economia/banca-i-fiscalitat/ab-propris-diners-y-per-son-propri-us.md) | `temes/economia/banca-i-fiscalitat` | compilada | historica | no | `brutails-coutume-1904` |
 | [Abans dels bancs](temes/economia/banca-i-fiscalitat/abans-dels-bancs.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `cerqueda-banca` |
 | [Banca i fiscalitat](temes/economia/banca-i-fiscalitat/banca-i-fiscalitat.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `viquipedia-ca` |

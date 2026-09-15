@@ -5,6 +5,7 @@ El sistema financer i el canvi de model.
 **Veu per defecte d'aquesta branca:** `compilada`.
 
 ## Articles (25)
+- [A Andorra sí que hi havia impost, i era sobre la renda](./a-andorra-si-que-hi-havia-impost.md) — El 1904 el tòpic ja existia i la font el desmenteix: hi havia un impost d'una seixantena part de la renda, repartit per contadors parròquia per parròquia, i es deia quèstia perquè servia per pagar el tribut als cosenyors.
 - [Ab propris diners y per son propri us](./ab-propris-diners-y-per-son-propri-us.md) — La clàusula que el corpus havia llegit com un dret a tornar a casa vol dir una altra cosa: que no pots manllevar per rescatar.
 - [Abans dels bancs](./abans-dels-bancs.md) — Es prestava sense professionals, es cobraven interessos en espècie o en jornals, i el banc més pròxim era a la Seu.
 - [Banca i fiscalitat](./banca-i-fiscalitat.md) — El 2018 va desaparèixer el secret bancari.
