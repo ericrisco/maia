@@ -161,8 +161,28 @@ volum, el mateix any**. Bascompte porta **nota a peu**; Rodríguez i Rossa, no.
 | **Bascompte** | **«Venda»** dels **drets i usatges** sobre Andorra **i el lloc d'Arcavell** |
 
 **Cessió i venda no són el mateix acte jurídic**, i «tots els béns» i «drets i
-usatges» no són el mateix objecte. **Buit registrat, i decisiu**: d'aquest
-document penja la legitimitat del domini episcopal.
+usatges» no són el mateix objecte. ~~**Buit registrat, i decisiu**: d'aquest
+document penja la legitimitat del domini episcopal.~~
+
+> **`TANCAT` el 15-09-2026, i cap de les dues respostes no era la del document.**
+> **El text llatí sencer és a l'apèndix A de Ríos Urruti (1920), pp. 131-133**,
+> amb signatura d'arxiu —**Arxiu Capitular d'Urgell, Cartulari V, f. 493, *apud*
+> Baudon de Mony**— i el corpus el té llegit a [per aquests malfets i per la redempció de la seva ànima](./per-aquests-malfets-i-per-la-redempcio-de-la-seva-anima.md).
+>
+> **L'acte no té forma de venda ni de cessió: té forma de restitució
+> penitencial.** El comte **«recognoscit se de malefactis»** davant del bisbe i
+> del capítol, i dona **«pro his malefactis et pro redemtione anime sue
+> suorumque parentum»**. **Els mil dos-cents sous hi són, amb la mateixa xifra**,
+> però **el verb és del bisbe**: «*Unde prelibatus Petrus, episcopus, **donat
+> ei** mille ducentos solidos*». **Contradonació, no preu.**
+>
+> **I l'objecte són les tres coses alhora** —**«census, usaticos et alodia, totum
+> ad integrum, ad proprium alodium, sine ulla reservacione»**—, **amb un límit
+> territorial que cap de les dues fonts secundàries no dona**: **«de ipso
+> monasterio Sancti Saturnini ad amont»**.
+>
+> `El corpus no arbitra si és una venda dissimulada: registra la forma que l'acte
+> es dona a si mateix, i que «cessió» i «venda» són lectures posteriors.`
 
 ### C. Quin rei arbitra els pareatges
 
@@ -299,8 +319,11 @@ falta.** Vegeu [el contraban](../../historia/contraban/contraban.md) i
 
 ## Buits registrats
 
-1. **Els documents de 843, 860, 1001, 1133, 1170, 1186, 1213, 1266, 1280, 1303 i
-   1328.** Cap no s'ha vist. — **`obert`, i des del 2026-09-13 amb l'edició
+1. **Els documents de 843, 860, 1001, ~~1133~~, 1170, 1186, 1213, 1266, 1280,
+   1303 i 1328.** ~~Cap no s'ha vist.~~ — **El de 1133 s'ha llegit sencer el
+   15-09-2026** ([per aquests malfets i per la redempció de la seva ànima](./per-aquests-malfets-i-per-la-redempcio-de-la-seva-anima.md)).
+   **En queden deu**, i **dos més són a l'abast immediat**: **el del 8 de gener de
+   1176** i **el Pariatge**, apèndixs B i C del mateix volum de Ríos Urruti. — **`obert`, i des del 2026-09-13 amb l'edició
    localitzada dins del corpus**: **Ferran Valls i Taberner, *Privilegis i
    ordinacions de les Valls Pirinenques*, III, *Vall d'Andorra*, Barcelona,
    1920** —**reeditat el 1990 per les universitats de Saragossa i de Màlaga**—,

@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**984** documents · **192** fonts · **39** aptes com a model de llengua · **124** temes amb contingut.
+**985** documents · **192** fonts · **39** aptes com a model de llengua · **124** temes amb contingut.
 
 ## fonts
 
@@ -783,6 +783,7 @@
 | [Els privilegis d'Andorra són tots moderns](temes/historia/edat-mitjana/els-privilegis-dandorra-son-tots-moderns.md) | `temes/historia/edat-mitjana` | compilada | historica | no | `brutails-coutume-1904` |
 | [Els privilegis](temes/historia/edat-mitjana/els-privilegis.md) | `temes/historia/edat-mitjana` | compilada | contemporania | no | `bascompte-privilegis` |
 | [L'accés als comunals](temes/historia/edat-mitjana/lacces-als-comunals.md) | `temes/historia/edat-mitjana` | compilada | contemporania | no | `vela-ordinacions-segle-xv` |
+| [Per aquests malfets i per la redempció de la seva ànima](temes/historia/edat-mitjana/per-aquests-malfets-i-per-la-redempcio-de-la-seva-anima.md) | `temes/historia/edat-mitjana` | compilada | historica | no | `rios-urruti-andorra-1920` |
 | [Un sol saig, i amb nom](temes/historia/edat-mitjana/un-sol-saig-i-amb-nom.md) | `temes/historia/edat-mitjana` | compilada | contemporania | no | `brutails-coutume-1904` |
 
 ## temes/historia/guerres-i-neutralitat

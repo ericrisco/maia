@@ -92,7 +92,7 @@ Ara la seqüència és completa i té sentit per primera vegada:
 | Data | Fet |
 | --- | --- |
 | **988** | El bisbe **es fa propietari** dels alous d'Andorra |
-| **1133** | Rep **la resta dels béns comtals** |
+| **1133** | Rep **la resta dels béns comtals** — i **concedeix als andorrans, en el mateix document, *emprament* a les terres del comte i *emparament*** |
 | Segle XIII | Els **vescomtes de Castellbò**, i després els **comtes de Foix**, **li disputen** el domini |
 | **1278** | **[Pareatge](../pareatge/el-pareatge.md)** — es **reparteixen** el que el bisbe tenia |
 | **1288** | Segon pareatge |
@@ -131,8 +131,20 @@ fragmenta amb les herències**.
 1. **El document del 988** — existeix? on és? què diu exactament?
 2. **Quins «altres béns»** va rebre Borrell II a canvi. **Saber què valia
    Andorra és saber quant valia.**
-3. **El document de 1133** i el bisbe **Pere Berenguer**.
+3. ~~**El document de 1133**~~ i el bisbe **Pere Berenguer**. — **`tancat a
+   mitges` el 15-09-2026.** **El document s'ha llegit sencer**, en llatí i amb
+   signatura d'arxiu ([per aquests malfets i per la redempció de la seva
+   ànima](../edat-mitjana/per-aquests-malfets-i-per-la-redempcio-de-la-seva-anima.md)),
+   **i no diu «cessió de tots els béns»**: diu **censos, usatges i alous, tot
+   sencer, en alou propi i sense cap reserva**, **del monestir de Sant Serni cap
+   amunt**, **donats «pro his malefactis et pro redemtione anime sue»** amb
+   **mil dos-cents sous que el bisbe li dona a canvi**. **El que segueix obert és
+   el bisbe**: **el document diu «Petrus» i prou**; **«Pere Berenguer» és de
+   fonts secundàries.**
 4. Quins eren **els límits** d'aquells alous — coincidien amb l'Andorra d'avui?
+   — **Per al 1133 ja hi ha una referència**, i és l'única que aquell acte dona:
+   **«de ipso monasterio Sancti Saturnini ad amont»**, del monestir de Sant Serni
+   cap amunt. **On era i què tanca, segueix obert.**
 5. Si hi ha **historiografia crítica** sobre aquestes dues donacions, com n'hi ha
    sobre la Carta de Carlemany.
 6. **Qui era Borrell II** i per què s'hi desprenia.
