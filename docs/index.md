@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**931** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**932** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -958,6 +958,7 @@
 | [Es deixaven escapar els presos](temes/institucions/justicia/es-deixaven-escapar-els-presos.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Es pot renunciar a una autorització, no a una prescripció](temes/institucions/justicia/es-pot-renunciar-a-una-autoritzacio-no-a-una-prescripcio.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Escrúpols quant a la forma, atreviments quant al fons](temes/institucions/justicia/escrupols-quant-a-la-forma-atreviments-quant-al-fons.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
+| [Homes armats a la porta de l'església](temes/institucions/justicia/homes-armats-a-la-porta-de-lesglesia.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [La justícia](temes/institucions/justicia/justicia.md) | `temes/institucions/justicia` | compilada | contemporania | no | `viquipedia-ca` |
 | [La justícia abans de la Constitució](temes/institucions/justicia/la-justicia-dabans.md) | `temes/institucions/justicia` | compilada | contemporania | no | `pujadas-dret-andorra` |
 | [La llei del país que ningú del país no coneixia](temes/institucions/justicia/la-llei-del-pais-que-ningu-del-pais-no-coneixia.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |

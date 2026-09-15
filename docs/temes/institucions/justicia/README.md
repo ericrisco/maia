@@ -4,7 +4,7 @@ Tribunal de Corts, Batllia, Consell Superior de la Justícia.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (96)
+## Articles (97)
 - [A les galeres d'Espanya, per la neu](./a-les-galeres-despanya-per-la-neu.md) — Els condemnats andorrans anaven a galeres espanyoles i el Politar en dona quatre raons, la segona meteorològica: a l'hivern, la tardor i la primavera no es podien dur a les de França perquè els Pirineus eren plens de neu.
 - [Abrogats el 1839, aplicats el 1889](./abrogats-el-1839-aplicats-el-1889.md) — Com es cobrava un deute a Andorra: la cessió de béns, l'adjudicació d'immobles i el dret de recomprar-los.
 - [Al botxí per sos drets de penjar tres dones](./al-botxi-per-sos-drets-de-penjar-tres-dones.md) — El compte de despeses del juny de 1604 per l'execució de dones acusades de bruixeria a Andorra, amb l'aranzel del botxí i el que van rendir les composicions.
@@ -42,6 +42,7 @@ Tribunal de Corts, Batllia, Consell Superior de la Justícia.
 - [Es deixaven escapar els presos](./es-deixaven-escapar-els-presos.md) — Andorra no tenia presó organitzada ni personal penitenciari, i guardar un detingut era tan car que de vegades es tenia cura de deixar-lo fugir.
 - [Es pot renunciar a una autorització, no a una prescripció](./es-pot-renunciar-a-una-autoritzacio-no-a-una-prescripcio.md) — Les escriptures andorranes anaven carregades de renúncies a lleis romanes i catalanes.
 - [Escrúpols quant a la forma, atreviments quant al fons](./escrupols-quant-a-la-forma-atreviments-quant-al-fons.md) — Els actes notarials andorrans no sempre eren sincers ni legals, i qui els llegeix ha de saber-ho.
+- [Homes armats a la porta de l'església](./homes-armats-a-la-porta-de-lesglesia.md) — Els llibres vells de les Valls manaven posar un escamot armat a la porta dels santuaris per on passava l'escorta del reu, perquè no s'hi pogués acollir.
 - [L'administració no paga multa](./ladministracio-no-paga-multa.md) — La llei de dades andorrana multa de 500 a 100.000 euros.
 - [L'estranger en tenia prou amb una citació](./lestranger-en-tenia-prou-amb-una-citacio.md) — Quan qui demandava era foraster, el procediment andorrà s'abreujava: una sola citació valia per les tres, i amb quinze pessetes es podia obrir audiència fora dels feriats.
 - [L'execució forçosa](./lexecucio-forcosa.md) — Andorra ha posat l'execució de les sentències en mans de professionals privats que competeixen entre si però no poden dir que no.

@@ -624,7 +624,7 @@ que **els recull com a ús popular andorrà dins un text francès**:
 | ***paus i treves*** | **la treva jurada entre dos bàndols familiars** — **sis mesos**, pena de **cent ducats d'or**, jurada «*de mans y de boca*» davant els batlles, **1551 i 1603** | [tres dies d'escombre](../../institucions/justicia/tres-dies-descombre.md) |
 | ***tinencies*** | **la cua de vigència afegida al termini principal d'una treva**: «*sis meses, **ab deu dies de tinencies***», 1551 — **`significat no comprovat`** | ídem |
 | ***guiat i assegurat*** | **estar sota salvaguarda de la Justícia** — qui hi renuncia jura tornar «*no guiat ni asegurat*» | ídem |
-| ***escombre*** | **els tres dies de sortida que es donaven en tornar unes treves**, 1551 — **`el corpus té el mot en un altre context amb sentit aparentment distint i no els identifica`** | ídem |
+| ***escombre*** | **el termini de gràcia per sortir quan se't retira la protecció** — **tres dies**, atestat el **1551** (tornar unes treves) i el **1606** (desguiament en bloc abans de les Corts) — **`el corpus no l'identifica amb l'*escombre* dels camins`** | ídem |
 | ***bar i traïdor*** | **la infàmia que les parts s'aplicaven a si mateixes per endavant** si trencaven les treves, **renunciant a tota llei que les n'excusés** | ídem |
 | ***factors i valedors*** | **els qui actuen per un i els qui el sostenen** — **els bàndols que entren en unes treves, al costat de parents i amics** | ídem |
 | ***instancia de part*** / ***instancia fiscal*** | **querella amb part civil** / **d'ofici** — **amb instància l'acusat va a la presó a despeses del querellant; sense, el querellant és remès al vicari general** | ídem |
@@ -634,6 +634,9 @@ que **els recull com a ús popular andorrà dins un text francès**:
 | ***arrest personal*** | **la detenció a casa pròpia o a casa del batlle**, amb **límits definits** i **sense sortir-ne sense llicència** | ídem |
 | ***ceps*** | **una de les ferramentes de presó andorranes**, al costat de les **manilles o *esposes*** i el **collar** | ídem |
 | ***capitans*** i ***deseners*** | **els qui feien les detencions per ordre del batlle** — **`organització no documentada`** | ídem |
+| ***desguiar*** | **retirar el salconduit** — **la Cort ho feia **en bloc i per pregó** abans d'obrir les Corts, perquè el procurador fiscal pogués perseguir | [homes armats a la porta de l'església](../../institucions/justicia/homes-armats-a-la-porta-de-lesglesia.md) |
+| ***assetiar Corts*** | **convocar les Corts generals** — «*son estades **assetiades** Corts generals en la vila de Andorra*», 1606 | ídem |
+| ***asots*** | **la fustigació** — **cent assots a les espatlles**, pena abandonada abans de 1904 | ídem |
 
 **Cap dels quatre no és a la llista del Servei de Política Lingüística**, i
 **tots quatre són d'un camp que aquesta fitxa no cobreix**: **el vocabulari de

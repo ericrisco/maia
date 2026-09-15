@@ -232,9 +232,16 @@ ensenya on és la frontera:
    d'arxiu**, **i els noms afegits al marge de l'original.** **Prioritari**:
    **és el formulari complet d'una institució que el corpus només tenia
    resumida.**
-2. **Què són les ***tinencies*** i què és ***escombre*** en aquest context.
-   **El corpus té el mot *escombre* en un altre text amb un sentit aparentment
-   distint i no els identifica.** `Requereix comprovació lexicogràfica.`
+2. **Què són les ***tinencies***.** `Requereix comprovació lexicogràfica.`
+   ~~**I què és *escombre* en aquest context.**~~ — **Tancat el 23-09-2026 amb una
+   segona atestació independent.** **El pregó de convocatòria de Corts del **5 de
+   desembre de 1606*** *(Brutails, p. 320, nota 3)* **desguia en bloc totes les
+   persones que fossin *guiades* a les Valls**, **«*donantlos **tres dies
+   d'escombre del dia y hora present en avant comptadors***»**. ***Escombre* és
+   el termini de gràcia per sortir quan se't retira la protecció**, **i les dues
+   atestacions —1551 i 1606— donen la mateixa durada de tres dies.**
+   **El corpus manté que **no l'identifica amb l'*escombre* dels camins***.
+   **Vegeu** [homes armats a la porta de l'església](./homes-armats-a-la-porta-de-lesglesia.md).
 3. **Què volia dir exactament ser tingut i reputat per ***bar i traïdor***, i
    **quines conseqüències jurídiques efectives tenia** a Andorra.
    **Prioritari**: **el corpus té la clàusula i cap cas d'aplicació.**
