@@ -148,6 +148,19 @@ mais d'une commune origine**». Per a
 [la branca de llengua](../../llengua/manlleus/manlleus.md), és una llista de
 manlleus jurídics datada el 1904.
 
+> **Anotat el 22-09-2026: almenys un dels deu mots hi és mal datat, i ho diu el
+> mateix llibre.** **De *postor*, a la p. 300, nota 2**: «*aquest terme es troba
+> en un acte del **26 de maig de 1783**. **Fa temps que és castellà**; si més no,
+> ***postura*, amb el sentit de contracte, s'empra a les *Siete partidas****».
+>
+> **Documentat a Andorra cent anys abans de la Ley de enjuiciamiento civil de
+> 1881**, **i amb l'arrel a les *Siete partidas*.** **La llista es manté —és de
+> la font— amb la constatació que la datació col·lectiva no s'aguanta per a tots
+> els mots.**
+>
+> **Criteri que el corpus n'extreu**: **les atribucions de castellanisme d'aquest
+> autor s'han de comprovar una per una.** **Vegeu** [«Ara hoyats», i el termini no era mai el mateix](./ara-hoyats-i-el-termini-no-era-mai-el-mateix.md).
+
 ## El mateix capítol diu per què la prelació no bastava
 
 **Afegit el 2026-09-16 des de [Brutails](../../../fonts/brutails-coutume-1904.md),

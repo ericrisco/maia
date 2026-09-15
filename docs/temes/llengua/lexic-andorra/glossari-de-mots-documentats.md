@@ -590,6 +590,12 @@ que **els recull com a ús popular andorrà dins un text francès**:
 | ***nunci jurat*** | **l'oficial que crida els encants** — **Antoni Busquets, a la plaça de Canillo, 1580** | ídem |
 | ***stil de la Terra*** | **el procediment consuetudinari andorrà**, invocat com a fonament d'una petició al batlle: «*segons lo **stil de la Terra**, vos me metau en possessio*», **1472** | ídem |
 | ***judicadors*** | **els dos perits que taxen i tallen el tros de finca** — **triats «*casi sempre de entre las autoritats*»** *(decret del Consell General, 20-12-1896)* | ídem |
+| ***ara hoyats*** | **l'obertura del pregó judicial andorrà** — «*Ara hoyats **queus fem asaber de part de la honrada Cort, a tot hom generalment***» — **estable de 1477 al segle XIX** | [«Ara hoyats», i el termini no era mai el mateix](../../institucions/justicia/ara-hoyats-i-el-termini-no-era-mai-el-mateix.md) |
+| ***calament*** | **la preclusió**: qui no s'oposa dins el termini, «*li sera donat calament*» —**se li imposa silenci**— **1477 i 1487** | ídem |
+| ***precominatzacio*** | **el pregó fet per manament de la Cort**, *precominatio* — **1488** | ídem |
+| ***signar una quantitat*** | **assignar un crèdit a un tercer** en pagament del que se li deu: «*m'a **signat** ditta cantitat per serta cantitat que m' deu*», **1488** | ídem |
+| ***debitori*** | **el títol escrit del deute**, que es presenta per oposar-se a una distribució de béns — **1599** | ídem |
+| ***cessio de bens*** | **el lliurament de tot el patrimoni al batlle perquè es pagui els creditors per graus** — **no esborra el deute**: qui no cobra pot reclamar després | ídem |
 
 **Cap dels quatre no és a la llista del Servei de Política Lingüística**, i
 **tots quatre són d'un camp que aquesta fitxa no cobreix**: **el vocabulari de

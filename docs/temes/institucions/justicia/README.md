@@ -4,11 +4,12 @@ Tribunal de Corts, Batllia, Consell Superior de la Justícia.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (89)
+## Articles (90)
 - [A les galeres d'Espanya, per la neu](./a-les-galeres-despanya-per-la-neu.md) — Els condemnats andorrans anaven a galeres espanyoles i el Politar en dona quatre raons, la segona meteorològica: a l'hivern, la tardor i la primavera no es podien dur a les de França perquè els Pirineus eren plens de neu.
 - [Abrogats el 1839, aplicats el 1889](./abrogats-el-1839-aplicats-el-1889.md) — Com es cobrava un deute a Andorra: la cessió de béns, l'adjudicació d'immobles i el dret de recomprar-los.
 - [Al botxí per sos drets de penjar tres dones](./al-botxi-per-sos-drets-de-penjar-tres-dones.md) — El compte de despeses del juny de 1604 per l'execució de dones acusades de bruixeria a Andorra, amb l'aranzel del botxí i el que van rendir les composicions.
 - [Aquell príncep que és prevengut](./aquell-princep-que-es-prevengut.md) — Qui decidia l'últim recurs andorrà? El que arribava primer.
+- [«Ara hoyats», i el termini no era mai el mateix](./ara-hoyats-i-el-termini-no-era-mai-el-mateix.md) — El pregó amb què la Cort andorrana cridava els creditors es diu igual el 1477, el 1487, el 1488 i al segle XIX, i cada vegada dona un termini diferent.
 - [Avui trec penyores, i no treia res](./avui-trec-penyores-i-no-treia-res.md) — El nunci es presentava a casa del deutor i deia que prenia els béns embargats; no en prenia cap.
 - [Ben arrimat a la paret contrària a l'església](./ben-arrimat-a-la-paret-contraria-a-lesglesia.md) — El Ceremonial del Politar, que el corpus havia declarat absent quatre vegades.
 - [Cesan los demes tribunals inferiors](./cesan-los-demes-tribunals-inferiors.md) — Una doctrina andorrana sostenia que mentre el tribunal de les Corts està obert cessen tots els altres.

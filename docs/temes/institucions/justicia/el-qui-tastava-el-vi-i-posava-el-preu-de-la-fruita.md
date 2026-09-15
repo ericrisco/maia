@@ -221,6 +221,19 @@ si»** ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md))
 > ([qui demanava clemència portava els comptes](./qui-demanava-clemencia-portava-els-comptes.md)),
 > **però ningú no els hi obligava ni calia ser-ho per comparèixer per un altre.**
 
+
+> **Ampliat el 22-09-2026: els *pregoners* tenen sèrie, i amb noms.** **El corpus
+> els tenia per desapareguts i ara en té cinc atestacions entre 1412 i 1580**:
+> **Joan Teixidor**, *preco publicum et juratum Vallium Andorre* (**1412**);
+> **Pere Amill**, *preco publicus dictarum Vallium* (**1488**); **Antoni
+> Busquets**, *nunci jurat*, fent tres encants a la plaça de Canillo (**1580**);
+> **més el càrrec sense nom** a la **sentència de les Corts del 15-11-1533** i al
+> **pregó del 9-10-1487** a la plaça d'Andorra.
+>
+> **Era un ofici estable, amb jurament, i era qui donava publicitat als actes
+> judicials** —encants, crides als creditors, citacions—. **Quan va desaparèixer
+> segueix obert.** **Vegeu** [«Ara hoyats», i el termini no era mai el mateix](./ara-hoyats-i-el-termini-no-era-mai-el-mateix.md).
+
 ## Buits registrats
 
 1. **La nota de Bladé sobre els *mostasafs* d'Andorra**, *Recueil de l'Académie
