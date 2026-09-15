@@ -4,7 +4,8 @@ Portuguesa, espanyola, francesa, sud-americana. Qui viu a Andorra i des de quan.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (17)
+## Articles (18)
+- [A la segona convocatòria, no a la primera](./a-la-segona-convocatoria-no-a-la-primera.md) — Què va canviar el 2003 per treballar a l'Administració andorrana sense ser andorrà, i quan va arribar als portuguesos; amb la taula d'assalariats per sector del 2006 i l'avís que part de la recuperació del pes dels andorrans és un canvi de recompte.
 - [Apte per residir](./apte-per-residir.md) — Un servei mèdic de l'Estat ha de declarar-te apte abans de deixar-te viure aquí, i sobre el teu fitxer mèdic d'immigració no pots exercir ni oposició ni supressió.
 - [El diagnòstic de 1989](./el-diagnostic-de-1989.md) — Joan Becat va dir que els andorrans vivien en situació de gueto al seu propi país.
 - [El mercat de treball dual](./el-mercat-de-treball-dual.md) — Un segment primari d'andorrans i residents antics amb feina estable, i un segment secundari d'immigrats que sosté l'economia productiva.

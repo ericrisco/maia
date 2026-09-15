@@ -45,6 +45,22 @@ I la conclusió de Becat sobre què vol dir tenir una categoria així:
 
 **Una categoria estadística com a manera d'ajornar una decisió política.**
 
+> **I què se'n va fer — 16-09-2026.** **Un estudi del Servei de Política
+> Lingüística, amb dades del Cens Comunal del 2007, diu que «els "nats a
+> Andorra" (fills de pares estrangers que poden accedir a la nacionalitat als 18
+> anys) *es comptabilitzen ara com a andorrans*»** ([a la segona convocatòria, no a la primera](./a-la-segona-convocatoria-no-a-la-primera.md)).
+>
+> **La tercera columna que Becat descrivia el 1989 ha desaparegut cap a la
+> primera.** **Ja no van a part: van amb els andorrans.**
+>
+> **I això té una conseqüència sobre les xifres del país**, no només sobre la
+> categoria: **una part de la recuperació del pes dels andorrans a les sèries
+> de població és un canvi de recompte** ([la composició per
+> nacionalitats](../demografia/la-composicio-per-nacionalitats.md)).
+> `El corpus no sap en quin any es va fer el canvi ni a quin cens s'aplica per
+> primera vegada. El que té datat són els dos extrems: categoria a part el 1989,
+> dins dels andorrans el 2007.`
+
 Això lliga directament amb la maquinària que el corpus ja tenia documentada:
 **el Tribunal d'Assimilació**, **els andorrans de primera generació** i **la
 suspensió del 1975**

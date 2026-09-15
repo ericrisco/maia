@@ -12,7 +12,7 @@ notes: >
   Ajut a la investigació lingüística Lídia Armengol Vila 2006; dipòsit legal
   AND.1121-2010; ISBN 978-99920-0-583-5. El portal del Govern la titula «2006»,
   que és l'any de l'ajut i no el de l'edició. La lligadura «fi» surt corrompuda a
-  l'extracció, amb tres glifs comprovats.
+  l'extracció, amb quatre glifs comprovats.
 tema: fonts
 veu: compilada
 epoca: contemporania
@@ -81,11 +81,13 @@ resposta és que sí**, i **amb més d'un glif**:
 | `especíOics`, `conOiguració`, `GràOiques` | específics, configuració, Gràfiques |
 | `veriKicar`, `deKinim`, `diKicultats` | verificar, definim, dificultats |
 | `perSil`, `signiSicatives`, `conSirmades` | perfil, significatives, confirmades |
+| `abluència`, `bills`, `geogràbica`, `bilipins` | afluència, fills, geogràfica, filipins |
+| `abluència`, `bills`, `geogràbica`, `bilipins` | afluència, fills, geogràfica, filipins |
 
 > **Sempre és la seqüència «fi», i el glif canvia segons el bloc de maquetació
 > del llibre** —el nom de cada bloc surt a la capçalera de cada pàgina extreta
-> (`Joves i llengu?es_97_104`, `_105_118`…). **Tres glifs comprovats: `O`, `K` i
-> `S`.**
+> (`Joves i llengu?es_97_104`, `_105_118`, `_51_88`…). **Quatre glifs
+> comprovats: `O`, `K`, `S` i `b`.**
 >
 > **Cap citació d'aquesta peça no es pot prendre de l'extracció automàtica sense
 > reparar-la, i la reparació s'ha de dir.** **Les d'aquest corpus s'han llegit
@@ -133,7 +135,8 @@ participant al llibre**, i **aquest corpus només en fa servir agregats.**
 |---|---|
 | **Crèdits, índex i objectius** | **llegits** |
 | **2a part, §§1-3** (hipòtesis, metodologia i dinàmica dels sis grups, pp. 89-118) | **destil·lat el 16-09-2026** |
-| **1a part** (exploració teòrica i contextualització, pp. 19-88) | **sense llegir** — **prioritari el § 4**, sobre la població, la segmentació interna, la situació sociolingüística i els tres sistemes educatius |
+| **1a part, §§ 4.1 i 4.2** (la població d'Andorra i les línies de segmentació interna, pp. 51-62) | **destil·lat el 16-09-2026** |
+| **1a part, §§ 1-3 i 4.3-4.5** (pp. 19-50 i 62-88) | **sense llegir** — **prioritaris el § 4.3**, la situació sociolingüística, i el **§ 4.4**, els tres sistemes educatius |
 | **2a part, §4** (anàlisi dels vuit centres d'interès, pp. 119-244) | **sense llegir** |
 | **3a part** (conclusions, pp. 245 i seg.) | **sense llegir** |
 | **Annexos** (el qüestionari) | **sense llegir** |

@@ -100,7 +100,7 @@ concrets d'on ve la població d'Andorra**. Material per a
 
 | Restricció | Fins quan |
 | --- | --- |
-| **No andorrans o amb menys de 20 anys al país** no podien exercir **professions liberals** ni **concursar a les administracions públiques** | **Conveni trilateral amb França i Espanya, 2003**; ampliat a **Portugal, 2007** |
+| **No andorrans o amb menys de 20 anys al país** no podien exercir **professions liberals** ni **concursar a les administracions públiques** | **Conveni trilateral amb França i Espanya, 2003**; ampliat a **Portugal, 2007** — **i el que s'hi guanya és la *segona* convocatòria, no la primera; el termini per a professió liberal baixa de vint anys a deu** ([a la segona convocatòria, no a la primera](./a-la-segona-convocatoria-no-a-la-primera.md)) |
 | **Els extracomunitaris** només tenien permís si trobaven feina en sectors delimitats: **temporada d'esquí, cura de persones, servei domèstic** | Es relaxa **a final dels anys 90** |
 | **Obrir un negoci** estava limitat als andorrans, o calia que fossin **socis majoritaris** | Canvia amb l'obertura econòmica recent |
 
@@ -189,7 +189,17 @@ el 2012 **el país va perdre població**
    amb molta més cura». **Buit prioritari, i identificat per qui el pateix.** —
    **`obert`, confirmat.** `Requereix font externa: la CASS o Estadística.`
 2. **El conveni trilateral del 2003** i l'ampliació a Portugal del **2007**. —
-   **`obert`, confirmat.** **No surt en cap altre document del corpus.**
+   **`parcial` des del 16-09-2026, i amb el contingut i una divergència de
+   data.** **Un estudi del Servei de Política Lingüística el descriu en dues
+   notes al peu** ([a la segona convocatòria, no a la primera](./a-la-segona-convocatoria-no-a-la-primera.md)): **el conveni amb Espanya i França va entrar en
+   vigor l'1 de juliol del 2003** i **reconeix el dret de presentar-se *a la
+   segona convocatòria* d'un edicte públic en igualtat de condicions**, i **a la
+   primera només si ja es treballa dins de l'Administració**; **per als
+   portuguesos, «no és fins al setembre del 2008»**. **I el termini per exercir
+   una professió liberal passa de *més de vint anys* de residència a *deu*, per a
+   espanyols i francesos.** **La divergència de data —2007 aquí, setembre del
+   2008 allà— queda registrada sense arbitrar.** `El que segueix obert és el
+   text dels instruments.`
 3. **Les quotes d'immigració** any per any. — **`obert`, confirmat**, i **és el
    mateix buit que declaren [la llei d'immigració del
    2012](./la-llei-dimmigracio-del-2012.md) i [les comunitats](./les-comunitats.md)**.

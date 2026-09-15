@@ -45,6 +45,22 @@ entrevistes.
 | **De classe** | La divisòria econòmica clàssica |
 | **Nacional** | **L'origen** i **factors lingüístics** |
 
+> **Una altra font en compta tres — 16-09-2026.** **Un estudi del Servei de
+> Política Lingüística del 2010, seguint Batalla, Casals i Micó (2004) i Comas i
+> Pujadas (1997), divideix la segona fractura i n'aïlla una de legal**
+> ([a la segona convocatòria, no a la primera](./a-la-segona-convocatoria-no-a-la-primera.md)):
+> **juridicopolítica** —qui té la nacionalitat i qui no, i els drets i deures que
+> se'n deriven—, **socioeconòmica** i **lingüisticocultural**.
+>
+> **No és una contradicció: és un tall més fi**, i **l'eix legal és l'únic dels
+> tres que porta un número**: **«només una de cada quatre persones més grans de
+> 18 anys té drets polítics»**.
+>
+> `Registrat amb una reserva: l'estudi etnogràfic del 1993-1995 que aquesta fitxa
+> cita i la font de 2010 podrien remuntar tots dos a Comas i Pujadas. El corpus
+> no ho ha comprovat i no compta les dues descripcions com a testimonis
+> independents.`
+
 **Les dues alhora**, i **creuades**. L'estudi les exemplifica amb parells
 concrets:
 

@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**990** documents · **194** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**991** documents · **194** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1374,6 +1374,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [A la segona convocatòria, no a la primera](temes/societat/immigracio/a-la-segona-convocatoria-no-a-la-primera.md) | `temes/societat/immigracio` | compilada | contemporania | no | `margarit-monne-joves-i-llengues-2010` |
 | [Apte per residir](temes/societat/immigracio/apte-per-residir.md) | `temes/societat/immigracio` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El diagnòstic de 1989](temes/societat/immigracio/el-diagnostic-de-1989.md) | `temes/societat/immigracio` | compilada | contemporania | no | `becat-moviments-migratoris-1989` |
 | [El mercat de treball dual](temes/societat/immigracio/el-mercat-de-treball-dual.md) | `temes/societat/immigracio` | compilada | contemporania | no | `mico-interculturalitat` |

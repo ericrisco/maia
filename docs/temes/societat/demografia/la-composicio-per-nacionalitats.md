@@ -22,12 +22,34 @@ ser-ho per una llei, no per la demografia.**
 | --- | --- |
 | **1936** | **87%** |
 | **1983** | **17,5%** |
+| **1995** | **19,5%** — **afegit el 16-09-2026** |
+| **2007** | **36,62%** — **afegit el 16-09-2026**, Cens Comunal |
 | **2020** | **48,71%** |
 
 **Del 87 al 17,5 en quaranta-set anys.** I la recuperació posterior
 **no ve de néixer més andorrans**: ve de **l'obertura de l'accés a la
 nacionalitat del 1993**
 ([font](../../../fonts/mico-interculturalitat.md)).
+
+> **Dos punts nous i un avís que canvia com s'ha de llegir la corba —
+> 16-09-2026.** **Un estudi del Servei de Política Lingüística del 2010 dona
+> *1995: 19,5%* i *2007: 36,62%*, aquest segon amb la taula sencera del Cens
+> Comunal**, que **quadra**: 30.441 andorrans de 83.137 habitants
+> ([a la segona convocatòria, no a la primera](../immigracio/a-la-segona-convocatoria-no-a-la-primera.md)).
+>
+> **I hi afegeix dues coses que la corba sola no diu.** **La primera és una
+> divergència de data**: aquella font atribueix el gir **al canvi de legislació
+> del 1995** i aquesta fitxa **al del 1993**. `Registrades totes dues; el corpus
+> no té cap dels dos textos.`
+>
+> **La segona és de mètode i és més gran**: **«els "nats a Andorra" (fills de
+> pares estrangers que poden accedir a la nacionalitat als 18 anys) *es
+> comptabilitzen ara com a andorrans*».** **Una part de la pujada no és gent que
+> es fa andorrana: és gent que passa a comptar-se com a andorrana.**
+> **Cap tram d'aquesta taula no es pot llegir com una sèrie homogènia si la
+> definició de la categoria ha canviat pel mig**, i **el corpus no sap en quin
+> any es va fer el canvi ni a quin cens s'aplica per primera vegada.**
+> **Buit nou i prioritari.**
 
 ## La població total
 

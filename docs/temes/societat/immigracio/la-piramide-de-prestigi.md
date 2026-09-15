@@ -18,6 +18,14 @@ tags: [immigracio, societat, identitat, estereotips, racisme, lexic, debat-obert
 **Una escala on tots els grups nacionals d'Andorra estan ordenats de més a
 menys.**
 
+> **Una segona font la repeteix, i no és independent — 16-09-2026.** **Un estudi
+> del Servei de Política Lingüística del 2010 adopta la mateixa divisió i
+> classifica les cultures residents «de manera piramidal en funció del seu
+> prestigi social»**, **citant Batalla, Casals i *Micó*, *La immigració a
+> Andorra* (2004), del mateix centre** ([a la segona convocatòria, no a la primera](../immigracio/a-la-segona-convocatoria-no-a-la-primera.md)).
+> `Registrat com a concordança, no com a confirmació doble: és el mateix centre
+> i, en part, el mateix autor.`
+
 No és una acusació de ningú de fora: **la descriu el director del Centre de
 Recerca Sociològica de l'Institut d'Estudis Andorrans**
 ([font](../../../fonts/mico-interculturalitat.md)), i la prova que dona és
