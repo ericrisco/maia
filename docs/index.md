@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**970** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**971** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -852,6 +852,7 @@
 | [A qui pertany la jurisdicció de les Valls](temes/historia/segle-xix/a-qui-pertany-la-jurisdiccio-de-les-valls.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `la-cuestion-de-andorra-1894` |
 | [Cap on mirava Andorra](temes/historia/segle-xix/cap-on-mirava-andorra.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Deu lliures per testar](temes/historia/segle-xix/deu-lliures-per-testar.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `brutails-coutume-1904` |
+| [Dotze anys amb un sol copríncep](temes/historia/segle-xix/dotze-anys-amb-un-sol-coprincep.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `vilar-andorre-1904` |
 | [El desenllaç de la qüestió duanera](temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `vilar-andorre-1904` |
 | [El prefecte va ratllar la paraula república](temes/historia/segle-xix/el-prefecte-va-ratllar-la-paraula-republica.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `vilar-andorre-1904` |
 | [El síndic va tornar i es va posar al capdavant del motí](temes/historia/segle-xix/el-sindic-va-tornar-i-es-va-posar-al-capdavant-del-moti.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `vilar-andorre-1904` |

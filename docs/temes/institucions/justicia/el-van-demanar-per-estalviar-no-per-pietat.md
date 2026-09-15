@@ -91,6 +91,19 @@ amb les notes ([font](../../../fonts/brutails-coutume-1904.md)).
 
 > **Tres coses que el corpus reté.**
 >
+> **Divergència sobre com va morir el condemnat de 1855 — 17-09-2026.** **Aquesta
+> fitxa té, d'una font andorrana, que la disputa del dret de gràcia es va resoldre
+> perquè el condemnat **va morir a la presó**.** **Una font francesa del 1904 diu
+> que **«*le condamné mourut des blessures qu'il avait reçues lors de son
+> arrestation*»**.** **Les dues coincideixen en el fet decisiu —va morir abans que
+> el dret de gràcia quedés resolt— i no en la causa de la mort.** **Registrades
+> totes dues, cap arbitrada.** **I la mateixa font afegeix que el veguer
+> episcopal va dimitir per no haver de denunciar el seu copríncep**, i que **el 23
+> de gener de 1855 el Consell, a desig de Napoleó III expressat pel seu
+> representant, va reservar formalment la necessitat d'un acord per a la gràcia**
+> ([dotze anys amb un sol
+> copríncep](../../historia/segle-xix/dotze-anys-amb-un-sol-coprincep.md)).
+
 > **Afegit el 16-09-2026: on era l'instrument, i quant havia servit.** **Una
 > segona font francesa del 1904 diu que **l'instrument d'execució és al palau de
 > les Valls** i que **«il n'a, jusqu'à présent, servi qu'une fois ou deux, il y a

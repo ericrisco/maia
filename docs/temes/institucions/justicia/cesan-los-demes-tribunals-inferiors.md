@@ -58,6 +58,17 @@ Coutume d'Andorre*, de **J.-A. Brutails** (1904), amb les notes
 | **19 de maig de 1874** | «*Atenent que **la causa fou presentada devant l'Honorable senyor batlle, pero en tribunal de Corts obert**, y considerant que dit Honorable senyor batlle, **inseguint las lleys y consuetut de la Vall, no podia donar lletras de apelacio per lo tribunal ordinari, sino solament per lo tribunal de Corts**…*» |
 | **25 d'agost de 1877** | «***Durant la sua obertura** [de les Corts], **cesan los demes tribunals inferiors**.*» |
 
+> **I la finestra té causa des del 17-09-2026, i és més ampla del que semblava.**
+> **Del 1868 al 1880 el bisbe d'Urgell no va tenir veguer a Andorra**: **el
+> vescomte de Foix, veguer de França, va quedar sol representant dels dos
+> cosenyors**, i **una font francesa del 1904 escriu que durant aquells dotze anys
+> «*l'Andorre n'eut plus qu'un seul suzerain, le Gouvernement français*»**
+> ([dotze anys amb un sol
+> copríncep](../../historia/segle-xix/dotze-anys-amb-un-sol-coprincep.md)).
+> **Que un sol veguer tingués el tribunal el 1874 i el 1877 no era una anomalia
+> processal: era l'estat normal del país.** **El corpus segueix sense afirmar
+> causalitat entre aquell estat i la doctrina**, **però ja no li falta el marc.**
+
 > **Les dues dates cauen dins la finestra 1874-1877 que el corpus acaba
 > d'establir per a la paràlisi judicial.** **El corpus ho registra com a
 > coincidència documentada i **no afirma causalitat**: **ni que la doctrina es

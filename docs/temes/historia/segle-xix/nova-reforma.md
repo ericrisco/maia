@@ -22,6 +22,22 @@ encapçalar la **Nova Reforma**, que va reformar l'organització del Consell
 El Consell General va quedar format per **24 consellers**, elegits pels
 **síndics**, i hi participaven **tots els caps de casa**.
 
+> **Què hi havia abans, i com es va imposar — 17-09-2026.** **Una font francesa
+> del 1904 dona el sistema que la Reforma substitueix**: **els 24 membres del
+> Consell General «*étaient recrutés par rang d'ancienneté dans le sein des six
+> conseils de paroisse*»**, i **els reformadors volien que a cada parròquia els
+> quatre membres fossin «*spécialement élus par le suffrage de tous les caps de
+> casa*».** **Es passava d'antiguitat a elecció.**
+>
+> **I sobre la forma**: **el bisbe en va fer la base d'un Plan de Réforme «*qu'il
+> prétendit imposer, le 31 mai 1866, aux autorités andorranes, au nom de sa
+> souveraineté absolue*»**, cosa que la font qualifica de «*grande faute*»
+> perquè **«*on imposa ce qui aurait dû être seulement proposé*»**. **Això no
+> confirma ni desmenteix l'acusació de 1894 sobre l'aprovació episcopal afegida**,
+> **però descriu el mateix gest que aquella acusació suposa**, i **aporta un vot a
+> la data disputada: 31 de maig.** Vegeu
+> [dotze anys amb un sol copríncep](./dotze-anys-amb-un-sol-coprincep.md).
+
 ## Què significa «tots els caps de casa»
 
 Que la unitat política no era la persona sinó **la casa**. Qui tenia veu era qui

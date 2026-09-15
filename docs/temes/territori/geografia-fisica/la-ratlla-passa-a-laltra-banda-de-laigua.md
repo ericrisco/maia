@@ -199,10 +199,26 @@ estades de l'autor.
 
 ## Buits registrats
 
-**El conflicte de la Solana no és al corpus.** **No consta què reclamaven
-l'Hospitalet i Merens, des de quan, davant de quin tribunal, ni com va acabar.**
-**Brutails diu «depuis des siècles» i «d'interminables procès» i no en cita cap.**
-`Buit nou i prioritari.`
+~~**El conflicte de la Solana no és al corpus.**~~ — **`TANCAT EL 17-09-2026`**,
+per una segona font francesa del mateix any. **Què reclamaven**: els límits entre
+Andorra i els habitants de **Mérens (Arieja)** no estaven ben determinats i entre
+pastors andorrans i francesos hi havia **«*luttes sanglantes*» pels pasturatges**.
+**Des de quan i davant de qui**: **el 1766 i el 1767**, **l'intendant de Perpinyà
+va nomenar un baró de Las Courbières** per fixar els límits d'Andorra —«*terre
+souveraine, comme on disait alors*»— i del comtat de Foix. **Com va acabar**:
+**va adjudicar la Solana als andorrans, estenent els límits del seu territori
+fins a l'Hospitalet.**
+
+> **El traçat anormal no és una supervivència medieval: és una decisió
+> administrativa francesa de 1766-67.** **I la font hi afegeix una acusació que
+> el corpus registra sense donar-la per provada** —**que el comissari va ser
+> «*rétribué largement*» pel síndic andorrà i que els de Mérens «*ne purent lui
+> compter les mille louis qu'il leur demandait*»**. Vegeu
+> [dotze anys amb un sol
+> copríncep](../../historia/segle-xix/dotze-anys-amb-un-sol-coprincep.md).
+
+**Segueix obert l'expedient mateix de la comissió**, i **si el suborn consta en
+algun lloc.**
 
 **No consta el traçat exacte d'aquell tros de frontera**, ni **on són els ports
 de Framiquel i de Soldeu** respecte a la divisòria, ni **quants quilòmetres

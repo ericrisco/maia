@@ -162,3 +162,30 @@ sabent que l'autor les presenta com a instruments d'aquesta penetració**. No
 invalida cap dada; fixa la finalitat amb què estan triades i ordenades. Vegeu
 [van tallar els pals del
 telègraf](../temes/economia/energia-i-serveis/van-tallar-els-pals-del-telegraf.md).
+
+## Recompte de cobertura del volum — 17-09-2026
+
+**Fet comparant els rangs de pàgina de les entrades del registre de recerca amb
+la paginació impresa de l'exemplar.**
+
+**Catorze unitats registrades**, que cobreixen **pp. 24-30, 34-40, 51-57, 64-84,
+87-114, 123-128 i 135-156**.
+
+**Trams del volum sense unitat al registre:**
+
+| Tram | Què hi ha | Estat |
+|---|---|---|
+| **pp. 13-23** | **capítol I de la primera part, «Avant les paréages»** | **sense unitat.** Una fitxa antiga cita pp. 10-11 d'aquest volum |
+| **pp. 31-33** | final del capítol dels pareatges | **sense unitat** |
+| **pp. 41-50** | **segona meitat d'«Après les paréages»**: la comissió de límits del baró de Las Courbières i l'adjudicació de la Solana | ~~sense unitat~~ — **destil·lat el 17-09-2026** a [dotze anys amb un sol copríncep](../temes/historia/segle-xix/dotze-anys-amb-un-sol-coprincep.md) |
+| **pp. 58-63** | final del capítol de la forma del govern | **sense unitat** |
+| **pp. 85-86** | frontissa entre el capítol II i el III de la segona part | **sense unitat** |
+| **pp. 115-122** | obertura de la tercera part i primeres pàgines de la qüestió de la sobirania | **sense unitat**; el contingut —la carta de Casañas del 12-08-1894 i el manifest— **el corpus el té en castellà, de l'original** |
+| **pp. 129-134** | final del capítol de la sobirania | **sense unitat de registre**, però **distil·lat** a `qui-parlava-per-andorra.md`, escrit abans que aquesta font entrés al registre per unitats |
+| **després de la p. 156** | **els annexos**, amb còpia de **tres sentències del Tribunal Superior d'Andorra** | **sense llegir. Prioritari** |
+
+**Integritat de la paginació:** de 144 pàgines entre la 13 i la 156, **113 porten
+capçalera detectable**. Les 39 que no en porten **no són forats**: la majoria són
+**obertures de capítol**, que no en duen mai, i la resta és **soroll d'OCR** —
+diverses d'aquelles pàgines estan citades literalment en fitxes d'aquest corpus.
+**Cap indici de pàgina absent a l'exemplar.**
