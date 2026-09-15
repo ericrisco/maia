@@ -4,12 +4,13 @@ El sistema financer i el canvi de model.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (20)
+## Articles (21)
 - [Ab propris diners y per son propri us](./ab-propris-diners-y-per-son-propri-us.md) — La clàusula que el corpus havia llegit com un dret a tornar a casa vol dir una altra cosa: que no pots manllevar per rescatar.
 - [Abans dels bancs](./abans-dels-bancs.md) — Es prestava sense professionals, es cobraven interessos en espècie o en jornals, i el banc més pròxim era a la Seu.
 - [Banca i fiscalitat](./banca-i-fiscalitat.md) — El 2018 va desaparèixer el secret bancari.
 - [Blanqueig i actius digitals](./blanqueig-i-actius-digitals.md) — La llei antiblanqueig obliga advocats, notaris, marxants d'art i fins i tot qui lloga per més de 10.000 euros al mes.
 - [Del divuit de març al dos d'abril](./del-divuit-de-marc-al-dos-dabril.md) — Als protocols del notari Soldevila la finestra per rescatar una finca venuda a carta de gràcia va sovint del 18 de març al 2 d'abril.
+- [Dotze renúncies en una sola escriptura](./dotze-renuncies-en-una-sola-escriptura.md) — L'acta de creació d'un censal andorrà de 1788 desactiva, una per una, dotze proteccions que el dret donava al deutor i al seu fiador.
 - [El Banc Agrícol](./el-banc-agricol.md) — El primer banc andorrà neix el 30 de desembre de 1930 per gestionar les nòmines dels obrers de FHASA.
 - [El cas BPA](./el-cas-bpa.md) — El 2015 els Estats Units van assenyalar un banc andorrà i el país el va desmuntar en un any.
 - [El superàvit que finança habitatge i hospital](./el-superavit-que-financa-habitatge-i-hospital.md) — La Llei 10/2026 autoritza 40,15 milions amb tresoreria de 2025 i modifica el còmput del límit de dèficit.

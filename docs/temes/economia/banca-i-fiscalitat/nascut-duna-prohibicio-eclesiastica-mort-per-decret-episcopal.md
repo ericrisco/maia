@@ -249,10 +249,15 @@ Caldes**.
    decret episcopal de 1854 el va derogar expressament.** **Registrat, no arbitrat.**
 3. **Què va respondre el Govern francès** a la sol·licitud d'aprovació de desembre
    de 1833. **La font no ho diu.**
-4. **Les peces justificatives p. XXIX (creació de censal del 13-01-1788), p. XXXII
-   (acte de rescat del 16-03-1788), p. XXXIII (encarregament del 13-04-1788) i
-   p. XXXVIII (vitalici de 1870-1880)**, del mateix volum, **que el corpus encara no
-   ha llegit.** **A l'abast.**
+4. ~~**Les peces justificatives p. XXIX (creació de censal del 13-01-1788), p. XXXII
+   (acte de rescat del 16-03-1788), p. XXXIII (encarregament del 13-04-1788)**~~ —
+   **totes tres llegides el 24-09-2026**, i **el corpus té ara el cicle sencer d'un
+   censal andorrà en un sol any**: **creació** (peça XVI) a [dotze renúncies en una sola escriptura](./dotze-renuncies-en-una-sola-escriptura.md),
+   **redempció i transferència** (peces XVII i XVIII-XIX) a [«per motiu de sa tant dilatada antiquedad»](./per-motiu-de-sa-tant-dilatada-antiquedad.md).
+   **El tipus del cinc per cent hi consta tres vegades**, **una d'elles escrita a
+   l'acta**: «*a for o raho de cinch per cent*».
+   **Segueix pendent** **la peça p. XXXVIII (vitalici de 1870-1880)**. **A
+   l'abast.**
 5. **Com va acabar la petició de rescat en dues *lluïcions* del 23 de gener de
    1783.**
 6. **Els actes de creació de censal sense hipoteca de 1412, 1420, 1461 i 1754**,
