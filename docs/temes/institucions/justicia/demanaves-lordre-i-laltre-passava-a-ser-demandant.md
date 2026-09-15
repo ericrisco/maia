@@ -300,9 +300,15 @@ registrar**
    les confronta.**
 8. **Quan i en quin plet va pledejar el veguer episcopal davant del Tribunal
    Superior de Perpinyà.**
-9. **Si la proposta de redacció de l'autor es va arribar a adoptar.** **El corpus
-   no té cap versió posterior del decret de 1888** —**quarta tanda que ho
-   reclama.**
+9. **Si la proposta de redacció de l'autor es va arribar a adoptar.**
+   **`estret el 16-09-2026, i en sentit negatiu.`** **El corpus ja té el
+   contingut del decret modificatiu del 19 de gener de 1898**, per una segona
+   font francesa del mateix any
+   ([qui decideix si un recurs s'admet](./qui-decideix-si-un-recurs-sadmet.md)):
+   **només toca la composició i el quòrum del tribunal**, i **no diu res dels
+   terminis ni dels dies feriats.** **L'única modificació documentada del decret
+   de 1888 no recull l'esmena que l'autor proposava**, i **el text sencer de
+   totes dues normes segueix sense veure's.**
 10. **La constitució de renda del 19 de desembre de 1628** amb la clàusula «*cum
     facultate variandi*».
 

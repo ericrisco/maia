@@ -80,6 +80,7 @@ Tribunal de Corts, Batllia, Consell Superior de la Justícia.
 - [Podies denunciar un cònsol, però no demandar-lo](./podies-denunciar-un-consol-pero-no-demandar-lo.md) — A la justícia política andorrana, portar una autoritat als tribunals per un deute personal exigia autorització prèvia; perseguir-la criminalment, no.
 - [Propter angustiam loci](./propter-angustiam-loci.md) — Les dispenses de consanguinitat per casar-se eren molt freqüents a Andorra, i les fórmules en donaven la raó: «per l'estretor del lloc».
 - [Quants notaris](./quants-notaris.md) — Andorra va tenir un sol notari durant segles.
+- [Qui decideix si un recurs s'admet](./qui-decideix-si-un-recurs-sadmet.md) — Els dos francesos que el 1904 van escriure sobre la justícia andorrana no diuen el mateix sobre l'admissió del darrer recurs civil: un la dona per tancada pel prefecte, l'altre diu que és contrària a totes les regles.
 - [Qui demanava clemència portava els comptes](./qui-demanava-clemencia-portava-els-comptes.md) — Els rahonadors intercedien pel reu pobre i alhora duien la comptabilitat de les Corts.
 - [Qui nomena els jutges](./qui-nomena-els-jutges.md) — Cada copríncep designa un dels cinc membres del Consell Superior de la Justícia.
 - [Resoldre sense judici](./resoldre-sense-judici.md) — Andorra té mediació, arbitratge i taxes judicials que no s'apliquen al penal.

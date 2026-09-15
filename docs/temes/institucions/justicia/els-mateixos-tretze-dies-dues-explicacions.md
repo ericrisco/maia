@@ -241,6 +241,17 @@ als mateixos honors que els veguers.**
 > contrària**: **un jutge sense llei, sense termini i sense residència al país.**
 > `Les dues lectures registrades; la font només en fa una.`
 
+## I els mateixos tretze dies governen el tercer grau
+
+**Afegit el 16-09-2026.** **Les pàgines següents de la mateixa font** *(p. 103)*
+donen **tretze dies, sota pena de forclusió**, també **per al recurs davant del
+Tribunal Superior de Perpinyà**, **comptats des que el batlle llegeix la
+sentència a les parts**
+([qui decideix si un recurs s'admet](./qui-decideix-si-un-recurs-sadmet.md)).
+**La xifra no és d'un grau: travessa tota l'escala civil andorrana.** **I això
+no decideix la divergència d'aquesta fitxa**: **segueix sense saber-se si els
+tretze surten de deu més tres de gràcia o de deu amb els feriats descomptats.**
+
 ## Buits registrats
 
 1. **El text que fixa el termini d'apel·lació**, per decidir entre les dues

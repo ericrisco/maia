@@ -201,6 +201,12 @@ entre els seus membres, «en una divisió de funcions pròpies d'un govern». El
    per un segon decret del 19 de gener del 1898**, al *JO* del **22 de gener del
    1898**
    ([si no dius a quin copríncep, tria l'altra part](./si-no-dius-a-quin-coprincep-tria-laltra-part.md)).
+   **I des del 16-09-2026 se'n coneix la composició**: **cinc membres**, **el
+   president del tribunal civil de Perpinyà i el veguer de França de dret**, i
+   **tres per decret, l'últim triat per preferència entre qui conegués la llengua
+   i els usos andorrans**; **el decret de 1898 hi afegeix que tres ja fan judici
+   vàlid**
+   ([qui decideix si un recurs s'admet](./qui-decideix-si-un-recurs-sadmet.md)).
    **No era una cort de cassació**: retenia el fons i la forma i sentenciava
    definitivament. **El copríncep episcopal no en tenia cap equivalent**: per a
    cada litigi nomenava **un prevere amb mandat especial**. **Abans havien estat

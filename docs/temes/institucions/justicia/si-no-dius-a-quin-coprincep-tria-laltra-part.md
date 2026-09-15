@@ -66,6 +66,24 @@ judicial. Per llegir-lo s'ha d'anar al cos de l'obra: **pàgines 236-238**
 > registra que el mateix principi de prevenció governa el primer grau**, **on el
 > demandant tria a quin dels dos batlles s'adreça.**
 
+> **I el decret té text, i el corpus ja en té una part — 16-09-2026.** **Una
+> segona font francesa del 1904 en transcriu el visto i els articles 1 i 2**:
+> **es funda en l'acte de 1278 i en la successió dels comtes de Foix**, i **el
+> tribunal té cinc membres**, dos de dret —**el president del tribunal civil de
+> Perpinyà i el veguer de França**— i tres per decret, **l'últim dels quals
+> «choisi de préférence parmi les personnes au courant de la langue et des usages
+> andorrans».** **El decret de 1898 hi afegeix que tres dels cinc ja fan judici
+> vàlid i que si en són quatre s'absté el darrer de la llista.** **I la mateixa
+> font dona els noms dels jutges del 1904**, **on Brutails seu al costat de
+> Charles Romeu, veguer de França.**
+>
+> **I sobre l'admissibilitat, les dues fonts no diuen el mateix.** **Aquesta
+> fitxa recull que l'autor la troba «contrària a totes les regles» i proposa que
+> el Tribunal la pugui revisar**; **l'altra la dona per definitiva i escriu que
+> «le seul fait qu'il lui a été confié indique qu'il était recevable».** **El
+> corpus registra les dues i no arbitra**
+> ([qui decideix si un recurs s'admet](./qui-decideix-si-un-recurs-sadmet.md)).
+
 ## El que diu el formulari
 
 > «Nous, **Préfet des Pyrénées-Orientales, Délégué permanent du Gouvernement
