@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**959** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**960** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -881,6 +881,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [A Andorra es pot perseguir els funcionaris](temes/institucions/comuns-i-parroquies/a-andorra-es-pot-perseguir-els-funcionaris.md) | `temes/institucions/comuns-i-parroquies` | compilada | contemporania | no | `vilar-andorre-1904` |
 | [«Avuy s'encanta los llibres dels comuns»](temes/institucions/comuns-i-parroquies/avuy-sencanta-los-llibres-dels-comuns.md) | `temes/institucions/comuns-i-parroquies` | compilada | historica | no | `brutails-coutume-1904` |
 | [El sometent](temes/institucions/comuns-i-parroquies/el-sometent.md) | `temes/institucions/comuns-i-parroquies` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Els diners dels comuns](temes/institucions/comuns-i-parroquies/els-diners-dels-comuns.md) | `temes/institucions/comuns-i-parroquies` | compilada | contemporania | no | `jurisprudencia-ad` |

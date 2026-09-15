@@ -5,6 +5,7 @@ Els set comuns, cònsol major i cònsol menor, i què decideix cadascú. La parr
 **Veu per defecte d'aquesta branca:** `compilada`.
 
 ## Articles (8)
+- [A Andorra es pot perseguir els funcionaris](./a-andorra-es-pot-perseguir-els-funcionaris.md) — Per ser cònsol calia tenir terra prou important per respondre d'una mala gestió, i l'auditoria del comú s'elegia en una votació on les autoritats tenien prohibit votar.
 - [El sometent](./el-sometent.md) — Un economista va dir el 2007 que la figura estava «totalment diluïda».
 - [Els diners dels comuns](./els-diners-dels-comuns.md) — El 38% del que l'Estat transfereix a les parròquies es reparteix a parts iguals: Canillo cobra el mateix que Andorra la Vella.
 - [La taba i el mostassà](./la-taba-i-el-mostassa.md) — El comú arrendava per subhasta la fleca, la taverna, la tenda i la carnisseria.
