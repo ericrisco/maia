@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**925** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**926** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1009,6 +1009,7 @@
 | [Una creu al prat, sis sous i sis diners](temes/institucions/justicia/una-creu-al-prat-sis-sous-i-sis-diners.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Una quitança per un preu que encara es devia](temes/institucions/justicia/una-quitanca-per-un-preu-que-encara-es-devia.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Una vegada de cada tres](temes/institucions/justicia/una-vegada-de-cada-tres.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
+| [Vaig entendre per què els terminis es respectaven tant](temes/institucions/justicia/vaig-entendre-per-que-els-terminis-es-respectaven-tant.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Y si no tenen, paciència](temes/institucions/justicia/y-si-no-tenen-paciencia.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 
 ## temes/institucions/nacionalitat-i-residencia

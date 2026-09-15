@@ -4,7 +4,7 @@ Tribunal de Corts, Batllia, Consell Superior de la Justícia.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (90)
+## Articles (91)
 - [A les galeres d'Espanya, per la neu](./a-les-galeres-despanya-per-la-neu.md) — Els condemnats andorrans anaven a galeres espanyoles i el Politar en dona quatre raons, la segona meteorològica: a l'hivern, la tardor i la primavera no es podien dur a les de França perquè els Pirineus eren plens de neu.
 - [Abrogats el 1839, aplicats el 1889](./abrogats-el-1839-aplicats-el-1889.md) — Com es cobrava un deute a Andorra: la cessió de béns, l'adjudicació d'immobles i el dret de recomprar-los.
 - [Al botxí per sos drets de penjar tres dones](./al-botxi-per-sos-drets-de-penjar-tres-dones.md) — El compte de despeses del juny de 1604 per l'execució de dones acusades de bruixeria a Andorra, amb l'aranzel del botxí i el que van rendir les composicions.
@@ -95,3 +95,4 @@ Tribunal de Corts, Batllia, Consell Superior de la Justícia.
 - [«Cadàver, alça't que la Justícia et demana»](./cadaver-alsat-que-la-justicia-te-demana.md) — L'acta notarial de l'aixecament d'un cadàver a Sant Julià de Lòria el 1801, sencera.
 - [«Mort, qui t'ha mort?»](./mort-qui-tha-mort.md) — El nunci preguntava tres vegades al cadàver qui l'havia matat, i responia ell mateix: «Ni ou ni castanya, senyal que és ben mort».
 - [«Si això fos el costum, ningú no aniria al notari»](./si-aixo-fos-el-costum-ningu-no-aniria-al-notari.md) — Nou de cada deu testaments andorrans deien el mateix, i això no feia llei.
+- [Vaig entendre per què els terminis es respectaven tant](./vaig-entendre-per-que-els-terminis-es-respectaven-tant.md) — El batlle andorrà cobrava dues pessetes per cada audiència en què la causa es cridava i s'examinava, i un jurista francès que hi va assistir el 1904 en va treure la conclusió.

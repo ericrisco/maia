@@ -288,9 +288,16 @@ tres.**
    nombre de compromisos.** **Prioritari**: seria la sèrie documental de l'arbitratge
    andorrà.
    `Requereix font externa: l'arxiu notarial.`
-2. **La demostració que la justícia era «odiosament fiscal».** **La font l'anuncia
-   per més endavant en aquest mateix capítol**, i **fins que no en llegeixi les
-   xifres el corpus no dona la tesi per provada.** `Unitats següents.`
+2. ~~**La demostració que la justícia era «odiosament fiscal».**~~ — **Tancat el
+   22-09-2026, i la font la salda a les pp. 303-305.** **La xifra és que **els
+   emoluments del jutge al civil pujaven a un terç de l'objecte del litigi***,
+   més accessoris, i **que el dret es deia *la justicia***; **el *Politar*
+   torna a prohibir drets tan alts però **admet el principi de les percepcions
+   proporcionals***, **que el 1904 encara viu**: **10 % per al Jutge
+   d'Apel·lacions** *(decret del Consell General, 19-05-1890)* **i 10 % a la
+   tercera instància d'Urgell fins fa poc.** **Vegeu** [vaig entendre per què els terminis es respectaven tant](./vaig-entendre-per-que-els-terminis-es-respectaven-tant.md).
+   **Queda obert** **quant valia aquell terç en casos reals**: **el corpus té la
+   proporció i cap liquidació.**
 3. **Els estatuts del sindicat del riu d'Andorra**, i **el plet que va seguir la
    declaració d'incompetència del seu *bureau*.**
 4. **Els quatre contractes matrimonials de 1649, 1697, 1784 i 1796**, senceres les
@@ -300,7 +307,13 @@ tres.**
 6. **El plet de 1885** sobre la forma de les sentències arbitrals, **i com va
    acabar.** **La font diu què proposaria ella i no diu què es va decidir.**
 7. **D'on surt «una vegada de cada tres».** **És d'un notable, no d'un recompte**, i
-   **el corpus no té cap sèrie amb què comprovar-ho.**
+   **el corpus no té cap sèrie amb què comprovar-ho.** — **Anotat el 22-09-2026**: **el corpus no en té la
+   freqüència però ara en té el preu.** **«*Quan el batlle aconsegueix conciliar
+   els litigants, és ús que aquests paguin el dinar d'aquest magistrat i del seu
+   greffier*»** *(p. 304)*, **mentre que no conciliar costava dues pessetes per
+   audiència, cada tres setmanes.** **`Lectura del corpus`, marcada com a seva**:
+   **l'incentiu econòmic del batlle anava en contra de la conciliació.** **La font
+   no ho diu.**
 8. **El Politar, p. 211**, sobre la temptativa de conciliació del batlle. **El corpus
    no té aquesta pàgina.**
 9. **Si les clàusules d'arbitratge familiar es van arribar a declarar nul·les mai.**

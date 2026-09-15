@@ -89,6 +89,36 @@ quòrum— (p. 244-246, fins a l'*assessor* del Consell General) del capítol VI
 > coneguda.** **Això és lectura del corpus, no de la font**, i **no resol si els
 > graus eren tres o quatre.**
 
+> **Ampliat el 22-09-2026: l'aranzel de les visures comprova la composició, i
+> ho fa amb diners.** **La p. 306 dona les despeses fixes** —**18 pessetes en
+> primera instància, 36 en segona, 78 o 80 en tercera**, sempre **3 pessetes per
+> jutge i 6 al *greffier*** (o 8 a la tercera). **`Càlcul del corpus`:**
+>
+> | Instància | Total | Menys el greffier | **÷ 3 = jutges** |
+> |---|---:|---:|---:|
+> | Primera | 18 | 12 | **4** |
+> | Segona | 36 | 30 | **10** |
+> | Tercera | 78 | 72 | **24** |
+> | Tercera *(variant)* | 80 | 72 | **24** |
+>
+> **4, 10 i 24**: **exactament la composició de l'article 13 de la Reforma de
+> 1866 que aquesta fitxa dona.** **L'aranzel i la norma coincideixen sense
+> haver-se citat**, i **les dues variants de la tercera instància es resolen
+> soles** —**la diferència no és en el tribunal sinó en el que cobra el
+> secretari.**
+>
+> **Què fa això amb la divergència del *Politar*.** **L'aranzel de 1904 no conté
+> ni el 6 ni el 12.** **El corpus segueix sense arbitrar** —**un aranzel de 1904
+> no diu res del que el *Politar* descrivia al segle XVIII**— **però queda
+> establert que **el 1904 el sistema de costes pressuposa tres graus i no
+> quatre**.** **Vegeu** [vaig entendre per què els terminis es respectaven tant](./vaig-entendre-per-que-els-terminis-es-respectaven-tant.md).
+>
+> **I una regla del decret del 29 de maig de 1786**: **aquestes xifres no es
+> redueixen si falta un jutge** —«*encara que faltia algun jutge, dega pagar la
+> part que pert tot lo gasto de tots los jutges competents*»— **llevat dels
+> recusats per sospita.** **Absentar-se no estalvia res a les parts; ser recusat,
+> sí.**
+
 ## Com es deien a si mateixos aquests tribunals
 
 | Data | Fórmula que consta a la sentència |

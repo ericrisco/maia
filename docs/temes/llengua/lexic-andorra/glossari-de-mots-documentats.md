@@ -596,6 +596,12 @@ que **els recull com a ús popular andorrà dins un text francès**:
 | ***signar una quantitat*** | **assignar un crèdit a un tercer** en pagament del que se li deu: «*m'a **signat** ditta cantitat per serta cantitat que m' deu*», **1488** | ídem |
 | ***debitori*** | **el títol escrit del deute**, que es presenta per oposar-se a una distribució de béns — **1599** | ídem |
 | ***cessio de bens*** | **el lliurament de tot el patrimoni al batlle perquè es pagui els creditors per graus** — **no esborra el deute**: qui no cobra pot reclamar després | ídem |
+| ***la justicia*** | **el dret que cobrava el jutge al civil** — **pujava a **un terç de l'objecte del litigi***, més accessoris | [vaig entendre per què els terminis es respectaven tant](../../institucions/justicia/vaig-entendre-per-que-els-terminis-es-respectaven-tant.md) |
+| ***jornal*** | **la indemnització per cada jornada presa pel procediment** — **5 sous catalans (0,66 pta) per als de les Valls i 3 pessetes per als domiciliats a l'estranger** | ídem |
+| ***taxacio de costes*** | **la liquidació de les despeses del plet** — **«*exposada a variacions una mica arbitràries*»** | ídem |
+| ***pobre de solemnitat*** | **l'indigent notori** — **a Andorra el 1904 la categoria existeix i **no eximeix de costes*** | ídem |
+| ***dietes*** | **les vacacions dels perits** — **«*encara un vell mot català*»**, a les *Constitucions*, IV, x | ídem |
+| ***declarants*** | **els testimonis** — **5 sous catalans, i el doble si presten jurament** | ídem |
 
 **Cap dels quatre no és a la llista del Servei de Política Lingüística**, i
 **tots quatre són d'un camp que aquesta fitxa no cobreix**: **el vocabulari de
