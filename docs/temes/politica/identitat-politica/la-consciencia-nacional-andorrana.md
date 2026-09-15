@@ -84,6 +84,15 @@ Pol hi veu **una victòria andorrana amagada**, i el raonament val la pena:
 
 - Al **primer pariatge** els andorrans aconsegueixen del comte de Foix
   l'exempció de la **intestia** i l'**eixorquia**, a més de la cugúcia.
+  **`Definits el 17-09-2026`**, des dels Usatges i per una font espanyola de
+  1918: **la intestia és el dret del senyor quan el pagès mor intestat —un terç
+  si deixa muller i fills, la meitat si només deixa fills o només muller, tot si
+  no hi ha parents—; l'exorquia és heretar dels qui moren sense fills «la part
+  que correspondria a tots els fills junts»; i la cugúcia és relativa a
+  l'adulteri —meitat per meitat entre marit i senyor si es fa sense voluntat del
+  marit, tot al senyor si hi consent o hi instiga, i res si la dona hi és forçada.**
+  Vegeu [el que es dona en feu és el domini
+  útil](../../historia/pareatge/el-que-es-dona-en-feu-es-el-domini-util.md).
 - Al **segon**, després de deu anys de queixes, aconsegueixen «**el mateix que
   van aconseguir amb el castell de Bragafolls, prop de 300 anys abans**»: que
   **no s'hi torni a fer cap castell** — però ara **amb garantia**, perquè **cap

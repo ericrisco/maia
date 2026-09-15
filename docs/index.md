@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**978** documents · **192** fonts · **39** aptes com a model de llengua · **124** temes amb contingut.
+**979** documents · **192** fonts · **39** aptes com a model de llengua · **124** temes amb contingut.
 
 ## fonts
 
@@ -854,6 +854,7 @@
 | [Afirmats en principi, sacrificats en l'aplicació](temes/historia/pareatge/afirmats-en-principi-sacrificats-en-laplicacio.md) | `temes/historia/pareatge` | compilada | historica | no | `vilar-andorre-1904` |
 | [El bisbe té sostre i el comte no](temes/historia/pareatge/el-bisbe-te-sostre-i-el-comte-no.md) | `temes/historia/pareatge` | compilada | historica | no | `vilar-andorre-1904` |
 | [El Pareatge](temes/historia/pareatge/el-pareatge.md) | `temes/historia/pareatge` | compilada | contemporania | no | `palau-marti-identitat-andorrana-1994` |
+| [El que es dona en feu és el domini útil](temes/historia/pareatge/el-que-es-dona-en-feu-es-el-domini-util.md) | `temes/historia/pareatge` | compilada | historica | no | `rios-urruti-andorra-1920` |
 | [No una imitació, sinó una caricatura](temes/historia/pareatge/no-una-imitacio-sino-una-caricatura.md) | `temes/historia/pareatge` | compilada | contemporania | no | `brutails-coutume-1904` |
 
 ## temes/historia/segle-xix

@@ -23,8 +23,20 @@ dècada**. Cadascun diu **de qui és Andorra**. **Cap dels tres diu el mateix.**
 | **1895** | [L'apèndix de Carvajal](../../historia/segle-xix/la-questio-duanera-de-1895.md) | Un **diputat espanyol**, a les Corts | Andorra és **«una espècie de feu... dins de la sobirania nacional espanyola»** |
 | **1904** | [L'Andorre](../../../fonts/vilar-andorre-1904.md) | Un **jurista francès**, conseller general dels Pirineus Orientals | França hi exerceix **«un droit de suzeraineté»** |
 
+| **1918** | [El que es dona en feu és el domini útil](../../historia/pareatge/el-que-es-dona-en-feu-es-el-domini-util.md) | Un **catedràtic espanyol de dret polític**, a Granada | **El Pariatge no dona sobirania al comte sinó domini útil**, i **la resta queda al bisbe**; **el títol francès val igualment, però pel costum, no pel document** |
+
 **Tres estats, tres tesis, deu anys.** I una quarta part —el copríncep episcopal—
 que, segons totes tres, **es creia sobirà pel seu compte**.
+
+> **I una quarta tesi, catorze anys després — 17-09-2026.** **És la primera que
+> arriba de fora de França i de fora d'Andorra**, i **la primera que discuteix
+> amb categories de dret històric en comptes de política.** **Diu que del
+> document no en surt cap cosenyoria amb igualtat de drets**, i **tot seguit
+> concedeix que el títol de la casa de Foix és indubtable igualment «*porque el
+> alma de la Constitución andorrana es… la costumbre*», que va anar «*dando por
+> buenas las invasiones del Conde de Foix en el derecho del otro señor*».**
+> **No és una quarta variant de les tres: és una manera diferent de plantejar la
+> pregunta** — **no qui té el títol, sinó què constitueix el dret.**
 
 **Són quatre documents i segueixen sent tres tesis**: la reial ordre de 1894 i el
 discurs de Carvajal de 1895 diuen **el mateix**, i la novetat és **qui ho diu i
