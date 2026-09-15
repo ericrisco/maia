@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**954** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**955** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -857,6 +857,7 @@
 | [No obeïu cap ordre que no vingui dels dos](temes/historia/segle-xix/no-obeiu-cap-ordre-que-no-vingui-dels-dos.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `la-cuestion-de-andorra-1894` |
 | [La Nova Reforma de 1866](temes/historia/segle-xix/nova-reforma.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `viquipedia-ca` |
 | [O ho accepteu, o el bestiar passa a ser estranger](temes/historia/segle-xix/o-ho-accepteu-o-el-bestiar-passa-a-ser-estranger.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `la-cuestion-de-andorra-1894` |
+| [Quan la seu és vacant, Andorra torna a Roma](temes/historia/segle-xix/quan-la-seu-es-vacant-andorra-torna-a-roma.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `la-cuestion-de-andorra-1894` |
 | [Se li reconeixerà com als seus antecessors](temes/historia/segle-xix/se-li-reconeixera-com-als-seus-antecessors.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `la-cuestion-de-andorra-1894` |
 | [Semblava que el bisbe patrocinava el joc](temes/historia/segle-xix/semblava-que-el-bisbe-patrocinava-el-joc.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `la-cuestion-de-andorra-1894` |
 | [Trenta-nou anys si el creditor és l'Església](temes/historia/segle-xix/trenta-nou-anys-si-el-creditor-es-lesglesia.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `brutails-coutume-1904` |

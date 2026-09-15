@@ -13,6 +13,19 @@ tags: [historia, economia, societat, politica]
 
 # La Qüestió d'Andorra
 
+> **Aquesta fitxa està escrita des d'una font secundària, i s'està refent.**
+> **Des del 15-09-2026 el corpus té la font primària del conflicte**: *La cuestión
+> de Andorra*, **les exposicions que el Consell General va elevar al bisbe
+> d'Urgell i al Sant Pare el 18 d'octubre de 1894**, impreses a Barcelona aquell
+> any ([font](../../../fonts/la-cuestion-de-andorra-1894.md)). **El que aquella
+> font documenta es va traslladant a fitxes pròpies**, començant per [se li
+> reconeixerà com als seus antecessors](./se-li-reconeixera-com-als-seus-antecessors.md),
+> [semblava que el bisbe patrocinava el joc](./semblava-que-el-bisbe-patrocinava-el-joc.md)
+> —l'origen del conflicte— i [quan la seu és vacant, Andorra torna a
+> Roma](./quan-la-seu-es-vacant-andorra-torna-a-roma.md). **Aquesta fitxa no s'ha
+> esborrat**: es manté com a síntesi i s'anota a mesura que la primària la
+> confirma o la desplaça.
+
 ## El buit que això tanca
 
 **El corpus va obrir aquest nom el mateix dia, a

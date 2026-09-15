@@ -259,6 +259,17 @@ tot.**
    parròquia](./el-rector-notari-ordinari-de-la-parroquia.md). **Segueix obert
    si es conserva i on.**
 
+> **Afegit el 16-09-2026: la regla de 1607 té un origen, i és pontifici.**
+> *La cuestión de Andorra* (1894), **p. 30**, escrita pel Consell General en una
+> exposició al Papa, compta entre les intervencions de la Santa Seu en el temporal
+> de les Valls que **el papa Pau V**, **«á petición de los Cónsules y Consejeros
+> de los Valles»**, va acordar **que els dos cosenyors havien de triar per notari
+> de les Valls «uno de los dos que en lo sucesivo presentaría el Consejo
+> General»**, i **«que dicho Notario ejerza con Autoridad Apostólica»**. **No és
+> un ús consolidat: és una concessió demanada a Roma i obtinguda.** **El text de
+> l'acord no s'ha vist.** Vegeu [quan la seu és vacant, Andorra torna a
+> Roma](../../historia/segle-xix/quan-la-seu-es-vacant-andorra-torna-a-roma.md).
+
 ## Related
 
 - [El notariat](./el-notariat.md) — la fitxa que això completa.
