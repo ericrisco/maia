@@ -26,6 +26,7 @@ pel joc i va començar a sentir-se una nació.**
 | [Ni són ni s'han de considerar espanyols](./ni-son-ni-shan-de-considerar-espanyols.md) | **Tres consellers presos al castell de la Seu**, i el Consell oferint reduir la seva pròpia sobirania |
 | [Quan la seu és vacant, Andorra torna a Roma](./quan-la-seu-es-vacant-andorra-torna-a-roma.md) | L'exposició **al Papa**: set precedents d'intervenció pontifícia, i una paraula per canviar |
 | [Sense abdicació de ningú](./sense-abdicacio-de-ningu.md) | La **proposta constitucional del 1894**: tres elements sobirans, majoria de dos i iniciativa per a tots tres |
+| [El prefecte va ratllar la paraula república](./el-prefecte-va-ratllar-la-paraula-republica.md) | **1892**: Correus envia un cartell i el prefecte hi esmena el nom del país. I per què Vilar diu que Andorra no és ni república ni principat |
 
 ## El fil que les travessa
 
