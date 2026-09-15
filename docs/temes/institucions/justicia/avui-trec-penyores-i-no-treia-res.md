@@ -245,9 +245,16 @@ feia alguna cosa:**
    descriu una tendència i no dona cap recompte d'execucions.**
 4. **El quadern del *nunci* de 1821-1823** —**segona tanda que el reclama**—, ara
    amb tres assentaments identificats.
-5. **La constitució de renda vitalícia inembargable** *(Pièces justificatives,
-   p. XXXVIII)*, **i si la inembargabilitat dels aliments existia com a norma o
-   només com a pacte.**
+5. ~~**La constitució de renda vitalícia inembargable** *(Pièces justificatives,
+   p. XXXVIII)*~~ — **llegida el 24-09-2026**, i **la segona part del buit té
+   resposta parcial: en aquella escriptura la inembargabilitat opera **com a
+   pacte***. **El text no invoca cap llei**: diu «***Volent dit X.** que la
+   referida pencio anual en ningun temps ni per pretest algun puga estar subjecte
+   a embarch, **per considerarse com a pencio alimenticia***». **És una voluntat
+   de part amb la raó adjunta**, **i la fórmula és de qualificació —«per
+   considerar-se com a»— i no d'invocació.** **Segueix obert si la
+   inembargabilitat dels aliments existia com a categoria jurídica andorrana.**
+   **Vegeu** [«per considerar-se com a pensió alimentícia»](../../economia/banca-i-fiscalitat/per-considerarse-com-a-pencio-alimenticia.md).
 6. **El *Politar*, pp. 220 i 231**, amb **l'aranzel dels drets dels batlles** i
    **la regla dels dos anys que fa vacants els béns embargats.**
 7. **Si els nou dies corren des de la primera o de la segona fórmula.** **La font

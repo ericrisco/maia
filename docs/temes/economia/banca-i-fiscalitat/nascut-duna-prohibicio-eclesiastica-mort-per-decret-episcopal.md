@@ -262,8 +262,17 @@ Caldes**.
    1783.**
 6. **Els actes de creació de censal sense hipoteca de 1412, 1420, 1461 i 1754**,
    i **què era exactament l'*ostatge*** que garantia el de 1412.
-7. **Quan va desaparèixer el violari.** **La font diu «crec que ja no existeix» i
-   els seus exemples són de 1628 i 1639.**
+7. ~~**Quan va desaparèixer el violari.**~~ — **Matisat el 24-09-2026 pel mateix
+   volum.** **La peça justificativa XX**, que l'editor titula «*Constitution d'un
+   **violari***» i data **1870-1880**, **és una renda constituïda «*per via de
+   violari o vitalici*»** sobre dues vides. **Dos segles i mig després dels
+   exemples de 1628 i 1639, i trenta anys abans que l'autor escrigui que ja no
+   existeix.** **El corpus no en fa una contradicció**: **l'afirmació és
+   defensable llegida com «ja no existeix com a figura distinta del vitalici» i
+   no ho és llegida com «el mot ha desaparegut».** `Registrat, no arbitrat.`
+   **I permet el càlcul**: **el tipus va passar del **14,29 %** de 1628 al
+   **6,73 %** de cap al 1875** —60 lliures sobre 891—, **que segueix essent el
+   doble del tipus legal del censal posterior a 1854.** **Vegeu** [«per considerar-se com a pensió alimentícia»](./per-considerarse-com-a-pencio-alimenticia.md).
 8. **Per què posar la vida d'un infant aliè al contracte «disminuïa l'àlea».**
    **La font ho afirma i no ho explica.**
 9. **Quants censals hi havia el 1904** i **quants se n'havien creat abans del 1854.**

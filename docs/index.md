@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**941** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**942** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -256,6 +256,7 @@
 | [La supervisió financera](temes/economia/banca-i-fiscalitat/la-supervisio-financera.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [L'oligopoli bancari: del 1951 al segle XXI](temes/economia/banca-i-fiscalitat/loligopoli-bancari.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `wikipedia-anys-daurats` |
 | [Nascut d'una prohibició eclesiàstica, mort per decret episcopal](temes/economia/banca-i-fiscalitat/nascut-duna-prohibicio-eclesiastica-mort-per-decret-episcopal.md) | `temes/economia/banca-i-fiscalitat` | compilada | historica | no | `brutails-coutume-1904` |
+| [«Per considerar-se com a pensió alimentícia»](temes/economia/banca-i-fiscalitat/per-considerarse-com-a-pencio-alimenticia.md) | `temes/economia/banca-i-fiscalitat` | compilada | historica | no | `brutails-coutume-1904` |
 | [«Per motiu de sa tant dilatada antiquedad»](temes/economia/banca-i-fiscalitat/per-motiu-de-sa-tant-dilatada-antiquedad.md) | `temes/economia/banca-i-fiscalitat` | compilada | historica | no | `brutails-coutume-1904` |
 | [Però en tot lo demés, al cinc per cent](temes/economia/banca-i-fiscalitat/pero-en-tot-lo-demes-al-cinc-per-cent.md) | `temes/economia/banca-i-fiscalitat` | compilada | historica | no | `brutails-coutume-1904` |
 | [Què aprova el pressupost inicial de 2026](temes/economia/banca-i-fiscalitat/que-aprova-el-pressupost-de-2026.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `govern-pressupost-2026` |
