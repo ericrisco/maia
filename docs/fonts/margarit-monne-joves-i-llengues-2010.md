@@ -129,6 +129,31 @@ característiques principals per poder mantenir el seu anonimat i alhora permetr
 que l'investigador sàpiga en cada cas qui està parlant».** **No hi ha cap nom de
 participant al llibre**, i **aquest corpus només en fa servir agregats.**
 
+## Dos defectes d'edició, comprovats sobre la pàgina impresa
+
+**No són d'extracció: són del llibre.** **Comprovats el 16-09-2026 sobre les
+pàgines renderitzades a 150 ppp.**
+
+1. **A la pàgina 66 hi ha dos gràfics idèntics sota dos títols diferents.**
+   **El titulat «Nivell de parla de cada llengua» i el titulat «Nivell
+   d'expressió escrita de cada llengua» porten les mateixes cinc barres —8,5,
+   5,7, 4,2, 1,9, 1,6—, la mateixa llegenda i la mateixa etiqueta d'eix.**
+   **El text de la pàgina 65 dona uns altres números per a la parla** —9,2, 7,2,
+   5,1, 2,1, 1,8—, **que no surten enlloc.** **El gràfic del nivell de parla no és
+   al llibre**, i **aquella figura no es pot citar.**
+2. **A la pàgina 63, la nota 10 no sosté el text que acompanya.** **El text i els
+   peus dels quatre gràfics citen *Coneixements i usos lingüístics de la població
+   d'Andorra, 2004*; la nota cita *Coneixements i usos lingüístics de la població
+   escolar a Andorra*, del 2002.** **Són dos estudis, dues poblacions i dos
+   anys.** **La quarta onada del 2004 de l'enquesta de població existeix**
+   —comprovat sobre l'edició 1995-2009, DL AND. 908-2011—, **de manera que el
+   text cita bé i la nota està mal col·locada.** `Conclusió del corpus.`
+
+> **És el segon cas d'aquesta mena al fons del Servei de Política Lingüística**:
+> el primer és el gràfic de l'indicador de l'edició 1995-2022, que no diu el
+> mateix que el text de la seva pàgina. **Dues peces de catorze; el corpus no en
+> fa un patró.**
+
 ## Estat de lectura
 
 | Tram | Estat |
@@ -136,7 +161,8 @@ participant al llibre**, i **aquest corpus només en fa servir agregats.**
 | **Crèdits, índex i objectius** | **llegits** |
 | **2a part, §§1-3** (hipòtesis, metodologia i dinàmica dels sis grups, pp. 89-118) | **destil·lat el 16-09-2026** |
 | **1a part, §§ 4.1 i 4.2** (la població d'Andorra i les línies de segmentació interna, pp. 51-62) | **destil·lat el 16-09-2026** |
-| **1a part, §§ 1-3 i 4.3-4.5** (pp. 19-50 i 62-88) | **sense llegir** — **prioritaris el § 4.3**, la situació sociolingüística, i el **§ 4.4**, els tres sistemes educatius |
+| **1a part, § 4.3** (la situació sociolingüística, pp. 62-72) | **destil·lat el 16-09-2026** |
+| **1a part, §§ 1-3, 4.4 i 4.5** (pp. 19-50 i 72-88) | **sense llegir** — **prioritari el § 4.4**, els tres sistemes educatius |
 | **2a part, §4** (anàlisi dels vuit centres d'interès, pp. 119-244) | **sense llegir** |
 | **3a part** (conclusions, pp. 245 i seg.) | **sense llegir** |
 | **Annexos** (el qüestionari) | **sense llegir** |

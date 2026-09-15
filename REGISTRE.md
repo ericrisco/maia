@@ -2,7 +2,7 @@
 
 > Generat per `scripts/registre_progres.py`. No l'editeu a mà.
 
-**201 fonts registrades · 959 articles destil·lats · 718 buits declarats oberts.**
+**201 fonts registrades · 960 articles destil·lats · 718 buits declarats oberts.**
 
 ## Fonts destil·lades
 
@@ -89,7 +89,7 @@
 | [`lluelles-aspectes-socioeconomics-1997`](fonts/lluelles-aspectes-socioeconomics-1997.md) | [L'economia el 1997](temes/economia/transformacio-economica/leconomia-el-1997.md)<br>[Les estadístiques que no hi havia](temes/societat/demografia/les-estadistiques-que-no-hi-havia.md) | 0 |
 | [`lopez-escenaris-de-futur`](fonts/lopez-escenaris-de-futur.md) | [La desigualtat del vot](temes/politica/sistema-electoral/la-desigualtat-del-vot.md) | 0 |
 | [`margarit-escenari-escolar-2017`](fonts/margarit-escenari-escolar-2017.md) | [El que decideix si un escolar parla català](temes/societat/educacio/el-que-decideix-si-un-escolar-parla-catala.md) | 0 |
-| [`margarit-monne-joves-i-llengues-2010`](fonts/margarit-monne-joves-i-llengues-2010.md) | [A la segona convocatòria, no a la primera](temes/societat/immigracio/a-la-segona-convocatoria-no-a-la-primera.md)<br>[El primer grup no va arribar a ser un grup](temes/llengua/contacte-de-llengues/el-primer-grup-no-va-arribar-a-ser-un-grup.md) | 0 |
+| [`margarit-monne-joves-i-llengues-2010`](fonts/margarit-monne-joves-i-llengues-2010.md) | [A la segona convocatòria, no a la primera](temes/societat/immigracio/a-la-segona-convocatoria-no-a-la-primera.md)<br>[El primer grup no va arribar a ser un grup](temes/llengua/contacte-de-llengues/el-primer-grup-no-va-arribar-a-ser-un-grup.md)<br>[Un de cada cinc no sabia quina era la llengua oficial](temes/llengua/contacte-de-llengues/un-de-cada-cinc-no-sabia-quina-era-la-llengua-oficial.md) | 0 |
 | [`marina-formacio-dadults`](fonts/marina-formacio-dadults.md) | [Els exàmens oficials de català](temes/llengua/politica-linguistica/els-examens-oficials-de-catala.md)<br>[La formació d'adults](temes/societat/educacio/la-formacio-dadults.md) | 14 |
 | [`martinez-benazet-professions-liberals`](fonts/martinez-benazet-professions-liberals.md) | [La reacreditació dels metges](temes/societat/sanitat/la-reacreditacio-dels-metges.md) | 7 |
 | [`mas-educacio-artistica`](fonts/mas-educacio-artistica.md) | [Les escoles d'art comunals](temes/cultura/arts-visuals/les-escoles-dart-comunals.md) | 6 |
