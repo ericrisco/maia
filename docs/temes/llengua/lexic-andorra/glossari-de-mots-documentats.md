@@ -637,6 +637,11 @@ que **els recull com a ús popular andorrà dins un text francès**:
 | ***desguiar*** | **retirar el salconduit** — **la Cort ho feia **en bloc i per pregó** abans d'obrir les Corts, perquè el procurador fiscal pogués perseguir | [homes armats a la porta de l'església](../../institucions/justicia/homes-armats-a-la-porta-de-lesglesia.md) |
 | ***assetiar Corts*** | **convocar les Corts generals** — «*son estades **assetiades** Corts generals en la vila de Andorra*», 1606 | ídem |
 | ***asots*** | **la fustigació** — **cent assots a les espatlles**, pena abandonada abans de 1904 | ídem |
+| ***tornar la fama*** | **la pena del difamador**: **demanar excuses en públic**, **el diumenge en sortir de missa major**, **davant de testimonis designats pels jutges** — encara aplicada el **1897** | [tornar la fama, el diumenge en sortir de missa](../../institucions/justicia/tornar-la-fama-el-diumenge-en-sortir-de-missa.md) |
+| ***reprehensio*** | **la reprimenda en audiència**, encara usada el 1904 | ídem |
+| ***composar*** | **pagar una quantitat per posar fi a l'acció** — **25 sous** en una difamació de **1488** | ídem |
+| ***enmetzinar*** | **emmetzinar** — **una dona perseguida per haver *enmetzinat* anyells** | ídem |
+| ***alcavot*** i ***bagassa*** | **les figures que el **1488** algú va penjar en un ram a la porta d'altri**, i que van motivar una *mostra* per difamació | ídem |
 
 **Cap dels quatre no és a la llista del Servei de Política Lingüística**, i
 **tots quatre són d'un camp que aquesta fitxa no cobreix**: **el vocabulari de

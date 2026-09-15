@@ -208,6 +208,24 @@ manera:**
 > **I el manuscrit Palmitjavila torna a ser aquí l'autoritat**: **quarta tanda
 > seguida.** **Segueix sense identificar ni datar.**
 
+
+> **Ampliat el 23-09-2026: la regla de fons dels balls andorrans.** **Brutails,
+> p. 322**: **«*Existeix a Andorra un ús sens dubte destinat a impedir els
+> flirteigs: **als balls públics, es pot demanar a un cavaller la seva parella de
+> ball, i ell l'ha de deixar tot seguit***.»** **És una regla d'igualació
+> forçosa: ningú no pot monopolitzar una parella.**
+>
+> **El motiu que la font hi atribueix —impedir els flirteigs— el corpus el marca
+> com a conjectura de l'autor**: **diu «sens dubte» i no cita cap norma.**
+>
+> **I hi ha el cas, de cap al 1894**: **un jove va demanar la parella a un altre,
+> que s'hi va negar dient que tot just l'havia convidada; el primer el va
+> desafiar a sortir i **li va clavar un ganivet a la cuixa**.** **L'agressor:
+> **vint dies d'arrest al peu de la creu de la plaça, de 10 a 4**, indemnització i
+> tres quarts de les despeses.** **I la víctima: **dos dies d'arrest i un quart de
+> les despeses**.** **Per què se la condemna, la font no ho diu.**
+> **Vegeu** [tornar la fama, el diumenge en sortir de missa](./tornar-la-fama-el-diumenge-en-sortir-de-missa.md).
+
 ## Buits registrats
 
 1. **El cas dels joves i el ball**: **sense data, sense lloc i sense saber què van

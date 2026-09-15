@@ -173,6 +173,27 @@ llibre passen per la mà d'un copista intermedi que Brutails nomena.**
 > ([dues portes, sis panys i un secret](../patrimoni-institucional/dues-portes-sis-panys-i-un-secret.md)).
 > **Segueix sense dir l'exemplar. Ara sap qui el va copiar.**
 
+
+> **Ampliat el 23-09-2026: la pena de galeres ja té sentències datades.**
+> **Brutails, pp. 321 i 323, notes**, en dona tres:
+>
+> | Data | La pena |
+> |---|---|
+> | **Abril de 1630** | **Assots pels carrers de la vila d'Andorra** i **galeres del rei Catòlic **per tota la vida***, amb **lliurament físic al lloctinent i capità general de Catalunya**, i **tortura prèvia «*en cap de socis*»** per saber els còmplices |
+> | **Març de 1644** | **Cent assots**, **marca amb «*les armes de dita Vall*» a l'espatlla esquerra** a la plaça d'Andorra, i **desterrament perpetu** |
+> | **26 de novembre de 1742** | **Fustigació, marca i deu anys de galeres** |
+>
+> **Dues durades diferents** —**perpètua el 1630, deu anys el 1742**—: **el corpus
+> registra que la pena de galeres apareix a Andorra amb durada variable i no com
+> a pena fixa.** **Són dos casos i no fan sèrie.**
+>
+> **I el trasllat de destinació té data atribuïda**: **segons M. Moras, els
+> condemnats van deixar d'anar a Espanya i van passar a establiments francesos
+> «*des de 1868, època en què el copríncep espanyol va refusar de participar en
+> l'administració de la justícia*».** **El corpus ho té **per una atribució de
+> Brutails a una obra de tercers**, no per document, i no ho adopta.**
+> **Vegeu** [tornar la fama, el diumenge en sortir de missa](./tornar-la-fama-el-diumenge-en-sortir-de-missa.md).
+
 ## Buits registrats
 
 **No consta a quines galeres o presidis anaven**, ni **quants andorrans hi van

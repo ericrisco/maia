@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**932** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**933** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1002,6 +1002,7 @@
 | [Si només volien ballar, era un altre tribunal](temes/institucions/justicia/si-nomes-volien-ballar-era-un-altre-tribunal.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Té raó el més fort o el més avisat](temes/institucions/justicia/te-rao-el-mes-fort-o-el-mes-avisat.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Tinga's pres per lo Príncep](temes/institucions/justicia/tingas-pres-per-lo-princep.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
+| [Tornar la fama, el diumenge en sortir de missa](temes/institucions/justicia/tornar-la-fama-el-diumenge-en-sortir-de-missa.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Tres dies d'escombre](temes/institucions/justicia/tres-dies-descombre.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Tres dies, deu dies o un mes, segons els camins](temes/institucions/justicia/tres-dies-deu-dies-o-un-mes-segons-els-camins.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Tretze dies, i ja hi eren el 1904](temes/institucions/justicia/tretze-dies-i-ja-hi-eren-el-1904.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
