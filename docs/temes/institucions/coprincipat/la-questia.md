@@ -156,6 +156,17 @@ el 1993.**
 - **Les cròniques dels lliuraments del 1991 i del 1992.**
 - **Si es va pagar mai en fruits**, i **què.**
 
+> **Afegit el 16-09-2026: una xifra anterior, i en una altra unitat.**
+> **André Vilar, *L'Andorre* (1904), p. 36**, diu que **Lluís XIV va confirmar
+> els privilegis d'Andorra a càrrec de pagar anualment un tribut de 973 lliures
+> 10 sous** i **«de conserver ladite vallée dans notre obéissance»**, i en dona
+> la signatura: **lletres patents de Lluís XIV, Arxius de Perpinyà, C 2098**.
+> **La condició no és només fiscal: és de fidelitat.** **El corpus no converteix
+> aquesta xifra als 960 francs moderns ni afirma que siguin la mateixa
+> obligació**; **registra les dues amb la seva data i la seva unitat.** Vegeu [el
+> rei és sobirà, però no ho és tot
+> sol](../../historia/antic-regim/el-rei-es-sobira-pero-no-ho-es-tot-sol.md).
+
 ## Related
 
 - [El coprincipat](./el-coprincipat.md)

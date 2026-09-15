@@ -185,7 +185,13 @@ I el raonament que l'envolta:
 | **Van passar sis segles des dels Pariatges sense donar-se mai aquell títol** |
 | **El títol, transcrit després a les butlles de preconització dels bisbes d'Urgell**, «**ha traído poco á poco la triste situación actual**» |
 
-> **Dues fonts independents coincideixen en l'home i en l'any.** **Brutails, el
+> **CORRECCIÓ, 16-09-2026: aquí deia «dues fonts independents» i no s'ha
+> establert que ho siguin.** **Brutails i Vilar escriuen tots dos el 1904, sobre
+> el conflicte de 1894 i amb la literatura d'aquell conflicte a la vista**;
+> **poden haver llegit l'imprès del Consell General.** **La coincidència reforça
+> el fet i no prova dues observacions separades.** `Registrat com a concordança.`
+>
+> **Dues fonts coincideixen en l'home i en l'any.** **Brutails, el
 > 1904, data el 2 de març de 1762 «un decret estrany» de Catalán de Ocón per
 > convertir la cosenyoria en sobirania exclusiva**
 > ([les tres sobiranies](../../institucions/coprincipat/les-tres-sobiranies.md));

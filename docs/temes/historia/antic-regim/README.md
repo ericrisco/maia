@@ -10,6 +10,7 @@ Els segles XVI-XVIII. El Consell de la Terra com a institució.
 - [Dos capítols matrimonials de 1788](./dos-capitols-matrimonials-de-1788.md) — Dot de 170 lliures, creix de 25 i deu lliures per a cada germana.
 - [El dot va canviar de terra](./el-dot-va-canviar-de-terra.md) — El dot d'una dona no seia en una finca sinó en un valor: quan un tercer va rescatar la terra, els diners van servir per comprar-ne una altra on tornar-lo a assegurar.
 - [El dot](./el-dot.md) — El règim matrimonial andorrà tradicional no era la separació de béns, com sovint es creu: era el dotal.
+- [El rei és sobirà, però no ho és tot sol](./el-rei-es-sobira-pero-no-ho-es-tot-sol.md) — El 1745 França ha d'explicar per escrit què és Andorra perquè un recaptador espanyol volia cobrar el vuit per cent als rectors, i la resposta és la doctrina francesa sencera amb signatura d'arxiu.
 - [Els capítols matrimonials](./els-capitols-matrimonials.md) — «Prometen heretar a aquell o aquella que millor los apareixerà i més ben vist los serà.» La fórmula que resolia com triar un hereu encara no nascut.
 - [Els fills il·legítims no existeixen, deien](./els-fills-illegitims-no-existeixen-deien.md) — Els notables andorrans sostenien que un fill il·legítim no existia per al costum i no podia tenir drets.
 - [Els néts abans que el fill](./els-nets-abans-que-el-fill.md) — Un testament andorrà de 1521 institueix hereu un nét, i només si moren tots els néts passa al fill i després a la filla.

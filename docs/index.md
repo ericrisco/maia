@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**957** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**958** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -718,6 +718,7 @@
 | [Dos capítols matrimonials de 1788](temes/historia/antic-regim/dos-capitols-matrimonials-de-1788.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [El dot va canviar de terra](temes/historia/antic-regim/el-dot-va-canviar-de-terra.md) | `temes/historia/antic-regim` | compilada | historica | no | `brutails-coutume-1904` |
 | [El dot](temes/historia/antic-regim/el-dot.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `rodriguez-minana-notaris` |
+| [El rei és sobirà, però no ho és tot sol](temes/historia/antic-regim/el-rei-es-sobira-pero-no-ho-es-tot-sol.md) | `temes/historia/antic-regim` | compilada | historica | no | `vilar-andorre-1904` |
 | [Els capítols matrimonials](temes/historia/antic-regim/els-capitols-matrimonials.md) | `temes/historia/antic-regim` | compilada | contemporania | no | `rodriguez-minana-notaris` |
 | [Els fills il·legítims no existeixen, deien](temes/historia/antic-regim/els-fills-illegitims-no-existeixen-deien.md) | `temes/historia/antic-regim` | compilada | historica | no | `brutails-coutume-1904` |
 | [Els néts abans que el fill](temes/historia/antic-regim/els-nets-abans-que-el-fill.md) | `temes/historia/antic-regim` | compilada | historica | no | `brutails-coutume-1904` |
