@@ -184,6 +184,15 @@ la practicava**, i amb el mateix criteri: **un blanc es veu; un any inventat, no
    Brutails del 1904**: **«serà prudent no acceptar aquests textos sinó sota
    benefici de revisió»**. **Això afecta totes les citacions d'aquesta fitxa.**
 
+> **Afegit el 15-09-2026.** **La *cisena* té un privilegi d'origen, i el corpus
+> ja en sap l'autor.** *La cuestión de Andorra* (1894), **p. 20**, parla del
+> «**llamado privilegio de Sisena, dado por el Sr. Obispo Urries y restaurado más
+> tarde por el Obispo Capella**», i hi posa una objecció que no és de contingut
+> sinó de forma: **«en cuyo documento habla sólo la Mitra, sin contar con su igual
+> el Conde»**. **Un privilegi unilateral.** **El text no s'ha vist i no en consta
+> la data.** Vegeu [van deixar d'apel·lar a França per
+> comoditat](../segle-xix/van-deixar-dapelar-a-franca-per-comoditat.md).
+
 ## Related
 
 - [El Manual Digest](./manual-digest.md) — l'altre costumari, quinze anys abans.

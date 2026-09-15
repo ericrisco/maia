@@ -21,6 +21,7 @@ pel joc i va començar a sentir-se una nació.**
 | [O ho accepteu, o el bestiar passa a ser estranger](./o-ho-accepteu-o-el-bestiar-passa-a-ser-estranger.md) | **L'escrit del bisbe del 12 d'agost de 1894**: dues condicions i quatre represàlies sobre el bestiar |
 | [A qui pertany la jurisdicció de les Valls](./a-qui-pertany-la-jurisdiccio-de-les-valls.md) | La pregunta del **1775**, l'enquesta jurada del **1347** i els actes de sobirania francesos, datats |
 | [No obeïu cap ordre que no vingui dels dos](./no-obeiu-cap-ordre-que-no-vingui-dels-dos.md) | Un **decret de 1715** copiat sencer, i per què **un privilegi primer es practica i després es concedeix** |
+| [Van deixar d'apel·lar a França per comoditat](./van-deixar-dapelar-a-franca-per-comoditat.md) | El dret d'apel·lació que no es feia servir, i **qui va ser el primer a dir-se Príncep Sobirà** |
 
 ## El fil que les travessa
 

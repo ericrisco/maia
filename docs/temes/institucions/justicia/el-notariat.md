@@ -140,6 +140,16 @@ L'autor enumera què més podria haver triat per il·lustrar la tesi, i la llist
    **que la figura servia per encobrir préstecs amb interès**, prohibits per
    l'Església. **El censal segueix obert.**
 
+> **Afegit el 15-09-2026.** **La provisió de la notaria és dels dos senyors, i
+> ho és *ab antiquo*.** *La cuestión de Andorra* (1894), **p. 20**, cita en llatí
+> l'informació-concòrdia de **1347**: «***Constitutio ac destitutio** Notarii
+> Curiae dictae Vallis **pertinet et pertinuit ab antiquo** ad praedictos Dominos
+> Comitem et Episcopum*». **Nomenar-lo i destituir-lo**, i el document de 1347 no
+> ho presenta com a novetat. **El Consell General ho invoca perquè els bisbes s'hi
+> havien oposat alguna vegada.** **El text sencer de la concòrdia segueix sense
+> veure's.** Vegeu [van deixar d'apel·lar a França per
+> comoditat](../../historia/segle-xix/van-deixar-dapelar-a-franca-per-comoditat.md).
+
 ## Related
 
 - [Quants notaris](./quants-notaris.md) — la sèrie, de 1443 al 2021.

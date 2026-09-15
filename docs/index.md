@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**951** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**952** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -858,6 +858,7 @@
 | [O ho accepteu, o el bestiar passa a ser estranger](temes/historia/segle-xix/o-ho-accepteu-o-el-bestiar-passa-a-ser-estranger.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `la-cuestion-de-andorra-1894` |
 | [Se li reconeixerà com als seus antecessors](temes/historia/segle-xix/se-li-reconeixera-com-als-seus-antecessors.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `la-cuestion-de-andorra-1894` |
 | [Trenta-nou anys si el creditor és l'Església](temes/historia/segle-xix/trenta-nou-anys-si-el-creditor-es-lesglesia.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `brutails-coutume-1904` |
+| [Van deixar d'apel·lar a França per comoditat](temes/historia/segle-xix/van-deixar-dapelar-a-franca-per-comoditat.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `la-cuestion-de-andorra-1894` |
 
 ## temes/historia/segle-xx-primera-meitat
 
