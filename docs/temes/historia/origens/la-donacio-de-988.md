@@ -52,6 +52,16 @@ Pareatge, si el Pareatge el que fa és repartir-se una cosa que ja tenia.
 Andorra hi apareix com **el que era per a ells: una propietat**, valorable i
 intercanviable.
 
+> **I en els documents veïns, el mot estava en disputa — 17-09-2026.** **Una
+> butlla de Benet VIII de 1013 al·ludeix a una donació del comte als bisbes feta
+> entre 951 i 954** i diu «*et ipsos **allaudes** de valle andorra qui fuerunt de
+> Siniefredo, comite*». **Una font francesa del 1904 registra que aquell mot es
+> traduïa de dues maneres segons qui**: **«biens-fonds» (Brutails) o «alleux»
+> (Baudon de Mony)** — **i que, tradueixis com tradueixis, «*on ne peut cependant
+> trouver dans ce texte un abandon de souveraineté*».** **Això no toca el document
+> del 988, que és un altre acte**, **però situa la definició de sota en un terreny
+> que no era pacífic.** Vegeu [villa, o tota la vall](./villa-o-tota-la-vall.md).
+
 ### 2. Un alou no és un feu
 
 L'**alou** és **propietat lliure**, sense senyor superior ni obligacions

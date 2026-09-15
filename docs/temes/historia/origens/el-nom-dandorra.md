@@ -92,6 +92,21 @@ hereva de les explotacions agràries de la romanitat tardana. Carles el Calb hi
 cedia **les propietats fiscals amb els pagesos dependents** i **tots els recursos
 públics: prats, pastures, boscos, muntanyes i aigües**.
 
+> **La lectura no és pacífica — 17-09-2026.** **Una font francesa del 1904
+> registra que el text del 843 estava «*contesté dans son texte*»** i que **els
+> dos historiadors rivals el llegien diferent**: **Trias, «*in pago Urgellensi
+> qui vocatur vallis Andorra*»** —**sense *villa***—; **Brutails, «*in pago Orgel
+> «Villa» quae vocatur vallis Andorra*»**. **«*La divergence est importante*»**,
+> escriu, **i la variant només afecta la primera part del text.** **El que hi
+> havia en joc era si Carles el Calb va cedir «*des terres (villa), une propriété,
+> une ferme, tout au plus un village*» o bé «*l'Andorre entière*».**
+>
+> **El raonament que segueix descansa en la lectura de Brutails.** **El corpus no
+> el retira** —**el document del 903 el sosté per una altra via i aquell no consta
+> discutit**— **però fa constar que la paraula era matèria de polèmica el 1891 i
+> que el corpus no té ni la còpia ni el debat.** Vegeu
+> [villa, o tota la vall](./villa-o-tota-la-vall.md).
+
 ## El gir de Gascón: dos Andorres alhora
 
 Aquí ve el raonament fi, i depèn **d'un detall de gramàtica llatina**.

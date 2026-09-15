@@ -13,6 +13,7 @@ historiografia n'ha fet.**
 | [On eren els andosins](./on-eren-els-andosins.md) | Un llibre del 2024 els situa entre Berga i Oliana |
 | [La fundació per Carlemany](./la-fundacio-per-carlemany.md) | L'altre pilar del relat, i els seus problemes |
 | [La donació de 988](./la-donacio-de-988.md) | El document que sí que existeix |
+| [Villa, o tota la vall](./villa-o-tota-la-vall.md) | Les dues paraules discutides sobre les quals descansen dos articles d'aquesta branca |
 
 ## El que aquesta branca ha après
 

@@ -175,7 +175,7 @@ la paginació impresa de l'exemplar.**
 
 | Tram | Què hi ha | Estat |
 |---|---|---|
-| **pp. 13-23** | **capítol I de la primera part, «Avant les paréages»** | **sense unitat.** Una fitxa antiga cita pp. 10-11 d'aquest volum |
+| **pp. 13-23** | **capítol I de la primera part, «Avant les paréages»** | ~~sense unitat~~ — **destil·lat el 17-09-2026** a [villa, o tota la vall](../temes/historia/origens/villa-o-tota-la-vall.md), amb el retrat de país de les pp. 9-11 |
 | **pp. 31-33** | final del capítol dels pareatges | **sense unitat** |
 | **pp. 41-50** | **segona meitat d'«Après les paréages»**: la comissió de límits del baró de Las Courbières i l'adjudicació de la Solana | ~~sense unitat~~ — **destil·lat el 17-09-2026** a [dotze anys amb un sol copríncep](../temes/historia/segle-xix/dotze-anys-amb-un-sol-coprincep.md) |
 | **pp. 58-63** | final del capítol de la forma del govern | **sense unitat** |

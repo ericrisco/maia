@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**971** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**972** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -836,6 +836,7 @@
 | [La donació del 988](temes/historia/origens/la-donacio-de-988.md) | `temes/historia/origens` | compilada | contemporania | no | `pujol-fet-religios` |
 | [La fundació per Carlemany](temes/historia/origens/la-fundacio-per-carlemany.md) | `temes/historia/origens` | compilada | contemporania | no | `viquipedia-ca` |
 | [On eren els andosins](temes/historia/origens/on-eren-els-andosins.md) | `temes/historia/origens` | compilada | contemporania | no | `wikipedia-andosins` |
+| [Villa, o tota la vall](temes/historia/origens/villa-o-tota-la-vall.md) | `temes/historia/origens` | compilada | historica | no | `vilar-andorre-1904` |
 
 ## temes/historia/pareatge
 
