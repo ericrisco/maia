@@ -642,6 +642,10 @@ que **els recull com a ús popular andorrà dins un text francès**:
 | ***composar*** | **pagar una quantitat per posar fi a l'acció** — **25 sous** en una difamació de **1488** | ídem |
 | ***enmetzinar*** | **emmetzinar** — **una dona perseguida per haver *enmetzinat* anyells** | ídem |
 | ***alcavot*** i ***bagassa*** | **les figures que el **1488** algú va penjar en un ram a la porta d'altri**, i que van motivar una *mostra* per difamació | ídem |
+| ***composició*** | **al criminal andorrà, **la commutació d'una pena**, no la transacció amb la víctima** — **es podia composar una pena **incorreguda i no pronunciada*** | [el veguer de França pagava les Corts de la seva butxaca](../../institucions/justicia/el-veguer-de-franca-pagava-les-corts-de-la-seva-butxaca.md) |
+| ***asetiades*** | **una partida dels comptes de les Corts de 1488** que prenia el veguer de França — **`significat no comprovat`** | ídem |
+| ***estrenes*** | **el que els Veguers concedien al *nunci*, als batlles i al *greffier*** — **`imports no documentats`** | ídem |
+| ***pinyores*** | **les penyores que un particular podia prendre a qui trobava en delicte de pastura** — **1475** | ídem |
 
 **Cap dels quatre no és a la llista del Servei de Política Lingüística**, i
 **tots quatre són d'un camp que aquesta fitxa no cobreix**: **el vocabulari de

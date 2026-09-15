@@ -392,6 +392,36 @@ I** és **conjectura** —«dire algunes de congruencia… **Y baste de congectu
 i al **capítol IV** és **raó**: el veguer del Bisbe pren una part **«per tenir ja
 de altra part lo salari»**. **Registrat, no arbitrat.**
 
+> **Tercera versió, i de fora del país, el 23-09-2026.** **Una carta del **baró de
+> Breteuil al Contrôleur général, del 12 de maig de 1788*** *(Arxius Nacionals,
+> H 721; Brutails, p. 324, nota 2)* **dona una explicació causal**:
+>
+> «*Le viguier nommé par le Roi **n'a aucuns gages ni appointemens**. Il jouit
+> seulement **des amendes**… **dont le produit, rare et incertain, est destiné aux
+> frais de la tenue des assises, qui sont à la charge du viguier de France, **à
+> cause de sa préséance sur celui de l'évêque d'Urgel***. **En cas d'insuffisance
+> du produit des amendes, c'est au Viguier à y suppléer**.*»
+>
+> **El veguer de França s'endú tres quarts perquè **les despeses de les assises
+> van al seu càrrec**, i hi van **per raó de la precedència**.** **La preeminència
+> es paga.** **I si les multes no arriben, hi posa del seu.**
+>
+> **El corpus té ara tres versions i segueix sense arbitrar**, **fent constar que
+> aquesta és l'única de font externa i l'única amb signatura d'arxiu**, i que
+> **les tres poden ser compatibles.**
+>
+> **I la conseqüència que la carta documenta**: **la plaça de veguer de França era
+> **vacant des de 1768** —vint anys— i Breteuil proposa de donar-la **sense exigir
+> finança**.** **Vegeu** [el veguer de França pagava les Corts de la seva butxaca](./el-veguer-de-franca-pagava-les-corts-de-la-seva-butxaca.md).
+
+> **I una divergència nova sobre el repartiment de la *truita*, del mateix dia.**
+> **Aquesta fitxa té del *Politar* que els Veguers se la parteixen «*lo mitat
+> quiscun*».** **El manuscrit de M. Palmitjavila** *(Brutails, p. 325, nota 6)*
+> **atribueix **tres quarts dels pernils i formatges al veguer de França i un
+> quart al de la Mitra**.** `Registrat, no arbitrat.` **El corpus fa constar que
+> la versió del 3/4 concorda amb el repartiment de les multes en diners, i que
+> això és un argument de coherència i no una prova.**
+
 **Localitzat el 16-09-2026 i destil·lat el mateix dia.** El *Ceremonial* **és al
 mateix extracte de Brutails**, a partir de la **pàgina CLIV**, com a **llibre IV,
 capítol III**
