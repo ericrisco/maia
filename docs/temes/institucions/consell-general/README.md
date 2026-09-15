@@ -36,3 +36,4 @@ Síndic i subsíndic general, consellers generals, legislatures, el Diari de Ses
 - [El debat sobre el càlcul patrimonial de 2018](./el-debat-sobre-el-calcul-patrimonial-de-2018.md)
 - [La proposta de pressupost d'Andorra Digital](./la-proposta-de-pressupost-dandorra-digital.md)
 - [La resposta sobre l'ajut de l'esquí](./la-resposta-sobre-lajut-de-lesqui.md)
+- [Si els dos senyors no s'entenien, decidia el poble](./si-els-dos-senyors-no-sentenien-decidia-el-poble.md) — Segons Vilar, el desacord dels dos cosenyors sobre una qüestió legislativa no mantenia el statu quo: el resolia el poble per referèndum. I abans del 1866 el Consell General era la reunió dels comuns.

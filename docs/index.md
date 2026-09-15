@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**960** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**961** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -911,6 +911,7 @@
 | [Només es pagaran les cases](temes/institucions/consell-general/nomes-es-pagaran-les-cases.md) | `temes/institucions/consell-general` | compilada | historica | no | `brutails-coutume-1904` |
 | [Que les aygües públiques pertany a aquesta casa](temes/institucions/consell-general/que-les-aygues-publiques-pertany-a-aquesta-casa.md) | `temes/institucions/consell-general` | compilada | historica | no | `brutails-coutume-1904` |
 | [«Segons les lleis i costums immemorials del país»](temes/institucions/consell-general/segons-les-lleis-i-costums-immemorials-del-pais.md) | `temes/institucions/consell-general` | compilada | historica | no | `brutails-coutume-1904` |
+| [Si els dos senyors no s'entenien, decidia el poble](temes/institucions/consell-general/si-els-dos-senyors-no-sentenien-decidia-el-poble.md) | `temes/institucions/consell-general` | compilada | contemporania | no | `vilar-andorre-1904` |
 | [Un cego malament judica de colors](temes/institucions/consell-general/un-cego-malament-judica-de-colors.md) | `temes/institucions/consell-general` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Vuitanta pessetes per fer reunir el Consell General](temes/institucions/consell-general/vuitanta-pessetes-per-fer-reunir-el-consell.md) | `temes/institucions/consell-general` | compilada | historica | no | `brutails-coutume-1904` |
 
