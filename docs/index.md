@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**995** documents · **194** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**996** documents · **195** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1214,6 +1214,7 @@
 | [La llei de la llengua](temes/llengua/politica-linguistica/la-llei-de-la-llengua.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `govern-andorra-web` |
 | [La sèrie històrica del català a Andorra](temes/llengua/politica-linguistica/la-serie-historica.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `molla-catala-andorra` |
 | [La sèrie que no és una sèrie](temes/llengua/politica-linguistica/la-serie-que-no-es-una-serie.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `spl-coneixements-usos-linguistics-2022` |
+| [Quaranta-vuit coma cinc, no quaranta-vuit coma sis](temes/llengua/politica-linguistica/quaranta-vuit-coma-cinc-no-quaranta-vuit-coma-sis.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `spl-coneixements-usos-linguistics-2009` |
 | [Qui parla què](temes/llengua/politica-linguistica/qui-parla-que.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `govern-andorra-web` |
 
 ## temes/llengua/registres
@@ -1760,6 +1761,7 @@
 | [`serra-vatica-microestat`](fonts/serra-vatica-microestat.md) | Jaume Serra i Serra · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`societat-andorrana-ciencies`](fonts/societat-andorrana-ciencies.md) | Societat Andorrana de Ciències (Andorra) | publicació acadèmica en accés obert | pendent |
 | [`sorribes-evolucio-premsa-1994`](fonts/sorribes-evolucio-premsa-1994.md) | Rosa Mari Sorribes · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`spl-coneixements-usos-linguistics-2009`](fonts/spl-coneixements-usos-linguistics-2009.md) | Govern d'Andorra · Servei de Política Lingüística (encàrrec i edició) · Centre de Recerca Sociològica de l'Institut d'Estudis Andorrans (estudi) | drets reservats; cap llicència declarada al document ni al portal | no |
 | [`spl-coneixements-usos-linguistics-2022`](fonts/spl-coneixements-usos-linguistics-2022.md) | Govern d'Andorra · Servei de Política Lingüística (encàrrec i edició) · Andorra Recerca i Innovació (estudi) | drets reservats; cap llicència declarada al document ni al portal | no |
 | [`spl-variants-dialectals-diec2`](fonts/spl-variants-dialectals-diec2.md) | Institut d'Estudis Catalans (document) · Govern d'Andorra (portal que el publica) | drets reservats; cap llicència declarada ni al document ni al portal | no |
 | [`tarrene-influencies-multiculturals`](fonts/tarrene-influencies-multiculturals.md) | Claudine Tarrene i Fabresse · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |

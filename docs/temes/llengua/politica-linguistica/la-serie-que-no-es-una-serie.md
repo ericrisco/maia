@@ -41,6 +41,16 @@ enumera **quatre canvis** enmig de la sèrie.
 
 **Cap d'aquests quatre canvis no és menor per a una enquesta sobre llengua.**
 
+> **La taula original, onada a onada, s'ha llegit el 2026-09-15** a l'annex de
+> l'edició 1995-2009
+> ([quaranta-vuit coma cinc, no quaranta-vuit coma sis](./quaranta-vuit-coma-cinc-no-quaranta-vuit-coma-sis.md)),
+> **i diu dues coses que aquesta agrupació de tres columnes no deia**:
+> **la mostra més gran de tota la sèrie és la primera** —**1.016 el 1995**,
+> contra 671, 677 i 821—, **i amb ella el millor marge d'error, ± 3,1 %**; i
+> **l'estratificació canvia a cada onada**, amb la situació laboral usada
+> **només el 1999** i el 2009 **sense estratificar gairebé de res**, corregit
+> després per ponderació. **Estratificar i ponderar no són la mateixa operació.**
+
 - **Presencial a telefònica.** A una enquesta personal la persona veu
   l'enquestador i el sent parlar. **En una enquesta sobre en quina llengua
   parles, la llengua de l'enquestador és part de l'instrument.** El mode va
@@ -143,11 +153,13 @@ gràfic surt igual a l'edició del 2018, de manera que **l'error ve d'abans i s'
 reimprès**.
 
 La sèrie correcta de l'indicador, doncs, és aquesta, amb les dues últimes
-columnes preses del text i no del dibuix:
+columnes preses del text i no del dibuix, **i amb la casella del 2004 corregida
+el 2026-09-15 contra l'edició original de la quarta onada** —vegeu
+[quaranta-vuit coma cinc, no quaranta-vuit coma sis](./quaranta-vuit-coma-cinc-no-quaranta-vuit-coma-sis.md):
 
 | Indicador lingüístic | 1995 | 1999 | 2004 | 2009 | 2014 | 2018 | 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Català** | 56,3 | 53,9 | 48,6 | 48,2 | **57,7** | **56,8** | **59,3** |
+| **Català** | 56,3 | 53,9 | **48,5** | 48,2 | **57,7** | **56,8** | **59,3** |
 | **Castellà** | 50,0 | 58,2 | 60,8 | 59,1 | 56,4 | **57,6** | 54,7 |
 
 ## El rècord més alt i el més baix, el mateix any
@@ -188,6 +200,14 @@ La pregunta, tal com la formula l'enquesta (p. 40):
 | Demana si li poden parlar en català | 0,7 % | 3,5 % | 3,1 % |
 | Interromp la conversa | 0,1 % | 1,1 % | 0,3 % |
 
+> **Avís de base, afegit el 2026-09-15.** **Aquesta taula no es pot allargar cap
+> enrere amb la xifra del 2009.** L'edició 1995-2009 dona **79,4 % que canvien de
+> llengua**, però **sobre una base de 429 persones: només les que inicien una
+> conversa en català**, que són el 52,3 % de la mostra. **Aquesta taula, en canvi,
+> inclou la categoria «mai s'adreça a ningú en català», de manera que la seva base
+> és tota la població.** **Posar 79,4 al costat de 65,5 seria fabricar una sèrie**
+> ([quaranta-vuit coma cinc, no quaranta-vuit coma sis](./quaranta-vuit-coma-cinc-no-quaranta-vuit-coma-sis.md)).
+
 **Tres de cada quatre canvien.** I això passa el mateix any que el 47,5 % diu que
 **comença sempre** les converses en català. **Començar en català i mantenir-lo
 són dues coses diferents**, i l'enquesta les mesura per separat perquè ho són.
@@ -204,6 +224,14 @@ a 10— dona el **2022**:
 | --- | --- | --- | --- | --- | --- |
 | **2022** | **8,3** | **9,3** | 5,3 | 3,1 | 4,8 |
 | 1995 | 7,3 | 8,9 | 5,3 | 1,3 | 1,9 |
+
+> **Les cinc xifres del 1995 s'han verificat el 2026-09-15 contra l'edició
+> original de la quarta onada, i coincideixen.** Allà hi ha, a més, **la sèrie
+> sencera de 1995 a 2009 per a les cinc llengües**, i **l'indicador d'ús**, que
+> aquesta fitxa no tenia
+> ([quaranta-vuit coma cinc, no quaranta-vuit coma sis](./quaranta-vuit-coma-cinc-no-quaranta-vuit-coma-sis.md)).
+> **El que en surt: el coneixement declarat del català no es mou en catorze anys
+> —7,3 · 7,4 · 7,3 · 7,4— mentre l'ús cau de 3,4 a 2,9 sobre cinc.**
 
 **A l'únic estat del món on el català és l'única llengua oficial, la població
 declara saber més castellà que català**, i ho ha declarat a les set onades. La
@@ -233,11 +261,34 @@ comprovat si existeix una fe d'errates**. I **no s'ha comprovat si l'error tamb�
 afecta les onades del 2014 i anteriors**: només s'han contrastat les edicions del
 2018 i del 2022.
 
-**Les quatre onades anteriors són al disc i no s'han obert**, llevat de la
+~~**Les quatre onades anteriors són al disc i no s'han obert**, llevat de la
 pàgina 32 de la del 2018. Les xifres de 1995, 1999, 2004, 2009 i 2014 que
 apareixen aquí són **les que reprodueix l'onada del 2022**, no les de les seves
 edicions originals. **Un valor reproduït set anys després no és un valor
-comprovat.**
+comprovat.**~~ — **`parcial` des del 2026-09-15, i la regla era bona.**
+
+**S'ha obert l'edició original de la quarta onada**, *Coneixements i usos
+lingüístics (1995-2009)*, ISBN 978-99920-0-615-3, DL AND. 908-2011
+([fitxa](../../../fonts/spl-coneixements-usos-linguistics-2009.md)), i s'han
+comprovat **trenta-vuit valors de sèrie**
+([lectura](./quaranta-vuit-coma-cinc-no-quaranta-vuit-coma-sis.md)):
+
+| | |
+| --- | ---: |
+| **Confirmats exactament** | **37** |
+| **Desmentits** | **1** |
+
+**El desmentit és l'indicador lingüístic del català del 2004**: **l'edició
+original imprimeix 48,5 al gràfic i 48,5 al text**, i **el text hi afegeix
+l'aritmètica** —«ha baixat 0,3 punts, en passar d'una mitjana de 48,5 a 48,2»—,
+que **només quadra amb 48,5**. **La taula de dalt s'ha corregit.**
+
+**I la sèrie de llengua inicial queda verificada al seu document original per a
+les quatre primeres onades**: vint-i-quatre valors, vint-i-quatre coincidències.
+
+**El que segueix `obert`: les edicions de 2014 i 2018**, que són al disc i
+segueixen sense obrir-se. **Sense elles no es pot saber en quina reedició es va
+introduir la dècima.**
 
 **El marge d'error és més gran que bona part del que es comenta.** ± 3,65 punts.
 Variacions com el −1 punt de l'ús habitual del català, el +3,2 % de l'ús
@@ -268,3 +319,4 @@ d'aquesta font no entra en cap dataset.**
 - [El que la llei de la llengua pot multar](./el-que-la-llei-pot-multar.md) — què és sancionable de l'atenció al públic que aquí cau.
 - [Andorra es castellanitza](./andorra-es-castellanitza.md) — la mateixa por, dita el 1989.
 - [La marca que no vol dir Andorra](../lexic-andorra/la-marca-que-no-vol-dir-andorra.md)
+- [Quaranta-vuit coma cinc, no quaranta-vuit coma sis](./quaranta-vuit-coma-cinc-no-quaranta-vuit-coma-sis.md) — l'edició original de la quarta onada, oberta per comprovar aquestes xifres.

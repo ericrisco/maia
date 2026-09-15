@@ -27,6 +27,15 @@ Política Lingüística**, cada quatre anys, des del 1995. Set onades: **1995, 1
 Fins ara el corpus en citava les xifres **des de la pàgina del portal del Govern,
 des de la premsa i des d'un article acadèmic**. Aquesta fitxa obre el document.
 
+> **I des del 15-09-2026 el corpus també té l'edició original de la quarta
+> onada**, *(1995-2009)*, DL AND. 908-2011
+> ([fitxa](./spl-coneixements-usos-linguistics-2009.md)), **oberta expressament
+> per comprovar les xifres que aquesta reprodueix**. **Trenta-set valors
+> confirmats i un desmentit**: l'indicador lingüístic del català del 2004, que
+> **aquesta edició imprimeix 48,6 i l'original imprimeix 48,5 dues vegades**.
+> **Les edicions de 2014 i 2018 segueixen sense obrir**, i sense elles no se sap
+> en quina reedició es va introduir la dècima.
+
 | Peça | Abast de lectura | Evidència |
 | --- | --- | --- |
 | Edició 1995-2022 (48 p.) | p. 7, 10-12, 16, 38, 39-40, 41-42, 44-45 llegides i destil·lades; p. 17-37 en extracte | `docs/raw/llengua-usos-linguistics/cu_22_web-indicador_dusos_linguistics_compressed-1-.pdf` |
