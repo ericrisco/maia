@@ -19,8 +19,22 @@ El **1866**, **Guillem d'Areny i Plandolit**, noble i propietari andorrà, va
 encapçalar la **Nova Reforma**, que va reformar l'organització del Consell
 ([Viquipèdia](../../../fonts/viquipedia-ca.md)).
 
-El Consell General va quedar format per **24 consellers**, elegits pels
-**síndics**, i hi participaven **tots els caps de casa**.
+El Consell General va quedar format per **24 consellers**, ~~elegits pels
+**síndics**~~, i hi participaven **tots els caps de casa**.
+
+> **CORRECCIÓ DEL CORPUS SOBRE SI MATEIX — 15-09-2026.** **«Elegits pels síndics»
+> és fals, i venia de la Viquipèdia.** **El text de la llei diu el contrari**, dues
+> vegades: **«Dret la votació a tots los caps de casa per elegir los vint y quatre
+> individuos que componen lo Consell general»** *(base I)* i **«Per nombrar los
+> quatre del Consell general tindrán també vot tots los electors de cada
+> parroquia»** *(art. 7è)*. **Els elegeixen els caps de casa, quatre per
+> parròquia.** Vegeu [que no s'hi hagi mirat amb menyspreu ni
+> indiferència](./que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md).
+>
+> **I la novetat de la llei no era el sufragi** —que ja era dels caps de casa—
+> **sinó la base II: «Dits vint y quatre membres deurán ser elegits separadament
+> dels Consells de parroquia.»** **Abans sortien dels consells de parròquia per
+> antiguitat.** **La Reforma els en separa**, i **això és el canvi estructural.**
 
 > **I què va desfer — 17-09-2026.** **Una font espanyola del 1918 diu que fins
 > aleshores **totes les parròquies tenien Consell Obert**, l'assemblea dels caps
@@ -172,6 +186,20 @@ amb el copríncep episcopal, amb els períodes datats i l'origen documentat.
 > redactó aquel Sr. Obispo, sino el pueblo andorrano*». **El text sencer del
 > decret segueix sense veure's.** Vegeu [no obeïu cap ordre que no vingui dels
 > dos](./no-obeiu-cap-ordre-que-no-vingui-dels-dos.md).
+
+> **El text imprès de la Reforma, llegit — 15-09-2026.** **Ja no cal anar-lo a
+> buscar: és a l'apèndix D de Ríos Urruti i el corpus el té article per article**
+> ([que no s'hi hagi mirat amb menyspreu ni
+> indiferència](./que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md)).
+> **Dues dates noves en surten**: **la sol·licitud dels andorrans és del 14
+> d'abril de 1866** —«*han acudit a Nos en sol·licitut de 14 del corrent Abril*»—
+> i **el decret és del 22**; **vuit dies**. **I el motiu que el bisbe hi escriu és
+> més dur del que aquesta fitxa tenia**: sense reforma radical els abusos «*no's
+> corretgirán may, e irritats d'això los pobles, podria allò convertirse en una
+> **anarquia** y originarse la **ruina** de nostres estimades valls d'Andorra*».
+>
+> **El que segueix obert és l'imprès original** —*Plan de reforma…*, Seu d'Urgell,
+> 1866, 16 pàgines—: **el corpus en té una transcripció de 1920, no l'edició.**
 
 > **El text imprès de la Reforma existeix i se sap on és — 15-09-2026.**
 > **Fernando de los Ríos Urruti el reprodueix a l'apèndix D del seu llibre de

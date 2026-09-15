@@ -340,9 +340,18 @@ tot.**
    cinc de sis d'aquelles transaccions no es van fer davant de notari sinó davant
    d'un tribunal**, cosa que canvia la lectura de la xifra. **El que segueix
    obert és el procediment**: qui el formava, què hi passava i per què s'hi
-   anava en comptes d'anar al notari. `Requereix font externa: el Vocabulari
-   d'Andorra (1992) o el Diccionari enciclopèdic d'Andorra (2007), que el
-   glossari cita i el corpus no ha obert.`
+   anava en comptes d'anar al notari. — **`resolt` el 15-09-2026, i no ha calgut
+   cap diccionari: ho diu la llei.** **L'article 13è de la Reforma del 1866**
+   organitza la visura **en tres instàncies, i cap no la falla un jutge**: **la
+   primera, els dos cònsols de la parròquia i dos consellers**; **la segona, els
+   deu cònsols de les cinc parròquies restants**; **la tercera, el Consell General
+   amb el seu assessor**. **El dipòsit va al cònsol major o menor en primera
+   instància i al síndic en segona i tercera.** **Per això no s'anava al notari:
+   no era un acte a documentar, era un plet a resoldre, i el tribunal competent
+   era l'autoritat comunal.** Vegeu [que no s'hi hagi mirat amb menyspreu ni
+   indiferència](../../historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md).
+   `Segueix obert quantes se'n van fallar i si cap va arribar a tercera
+   instància.`
 6. ~~**El registre d'Anton Montanya**, rector de Sant Julià, i si es
    conserva.~~ — **`parcial` des del 2026-09-17.** **Què és i quan comença,
    consta**: és un ***manual* d'actes diversos —vendes, quitances— començat el

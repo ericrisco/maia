@@ -51,6 +51,18 @@ altra cosa:**
 
 > «…**car, en Andorre, on peut poursuivre les fonctionnaires**.»
 
+> **I des del 15-09-2026 el corpus té l'article que ho permet.** **L'article 16è
+> de la Reforma del 1866**, llegit al text
+> ([que no s'hi hagi mirat amb menyspreu ni
+> indiferència](../../historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md)):
+> **per deutes contrets com a particulars es pot citar l'autoritat «sens ninguna
+> llisencia previa»**; **pels contrets com a autoritat cal llicència** —**del
+> síndic** per citar cònsols i membres del Consell General, **del Consell
+> General** per citar els síndics—, **però «deurán donar dita llisencia» quan el
+> reclamant ensenyi que els terminis han vençut**, i **si la neguen es va al
+> Príncep Sobirà**. **No és immunitat: és un filtre amb condició objectiva i
+> recurs a sobre.**
+
 > **La terra no s'exigeix com a mostra de rang: s'exigeix com a garantia
 > executable.** **Si el càrrec respon del seu mandat amb els seus béns, cal que en
 > tingui.**
@@ -101,7 +113,7 @@ altra cosa:**
 | **Lloc i dia** | **al burg principal**, el dia que fixen **els principals caps de família, els ancians** |
 | **Mesa** | un president —**generalment un dels cònsols o el seu delegat**—, **dos assessors i un secretari**, presos entre els membres restants del consell *(art. 4)* |
 | **Horari** | **obre a les 10:30 i tanca a les 4** |
-| **Forma del vot** | **escrit o oral** *(art. 5)* |
+| **Forma del vot** | **escrit o oral** *(art. 5)* — **confirmat pel text: «per escrit o de paraula»** |
 | **Ordre** | **els ciutadans que tenen mandat voten els últims** |
 | **Escrutini** | **el fan ells**, i **proclamen els electes** |
 | **Majoria** | **absoluta a la primera volta** *(art. 4)*; **rarament en calia una segona** |

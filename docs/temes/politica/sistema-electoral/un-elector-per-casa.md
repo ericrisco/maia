@@ -217,6 +217,41 @@ mateix**.
 > exacta, i ara es pot comprovar**
 > ([«Diria que sí»](../../institucions/consell-general/diria-que-si.md)).
 
+## El text de la llei, llegit — 15-09-2026
+
+**El buit número 1 d'aquesta fitxa era «el text de la Reforma de 1866, paràgraf
+per paràgraf», marcat `prioritari`. Es tanca**: és a **l'apèndix D** de Ríos
+Urruti, *Vida e instituciones del pueblo de Andorra*, Madrid, 1920
+([font](../../../fonts/rios-urruti-andorra-1920.md)), en català i sencer
+([que no s'hi hagi mirat amb menyspreu ni indiferència](../../historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md)).
+
+**I es tanca esmenant tres coses d'aquesta pàgina.**
+
+| El que aquí deia | El que diu l'article |
+| --- | --- |
+| El foraster casat amb pubilla té **«facilitats particulars per naturalitzar-se»** *(§ 1)* | **L'article 1r no parla de naturalització: li dona el dret de ser elector**, i **amb condicions**: **tres anys d'habitar el país** i **que no es provi que ha mirat «am despresi o ab indiferencia les coses y asumptos del país»**, **a judici de l'Honorable Comú i amb recurs al Príncep Sobirà** |
+| **«Es votava en veu alta»** *(§§ 5 a 7)* | **«Los electors farán constar devant la presidencia per escrit o de paraula quí son y per quí voten»** *(art. 5è)*. **Escrit o de paraula** |
+| **«fins a l'edat de la *jubilacio*, seixanta anys»** *(§§ 9 i 10)* | **Els articles 9è i 10è diuen «l'edat de jubilació» i no donen cap número.** **El seixanta és de Brutails i de Vilar, no de la llei** |
+
+> **La segona esmena no toca la conclusió d'aquesta fitxa, i convé dir-ho:**
+> **el vot no era secret de cap de les dues maneres.** L'elector havia de fer
+> constar **qui és i per qui vota**. **Escriure-ho no el feia anònim: el feia
+> constar.**
+>
+> **I hi ha un defecte propi que aquesta anotació ha de registrar:** **el corpus
+> tenia les dues versions de la forma del vot en dues fitxes seves** —aquesta,
+> amb Brutails, i [a Andorra es pot perseguir els
+> funcionaris](../../institucions/comuns-i-parroquies/a-andorra-es-pot-perseguir-els-funcionaris.md),
+> amb Vilar, que ja deia **«escrit o oral» *(art. 5)***— **i no les havia
+> confrontat mai.** **El text primari ha calgut per resoldre-ho, però la
+> contradicció es podia veure sense ell.**
+
+**I dos buits més d'aquesta llista queden tocats:** **el 3** —en què consistien
+les «facilitats»— **es tanca desmentint la pregunta**; i **el 6** —si les
+parròquies tenien mestre i mestra— **guanya el text de l'obligació**, que és una
+disposició final sense número: **«Cuidará tant prompte com sía possible de posar
+un mestre de noys y un de noyes en cada paroquia.»**
+
 ## Buits registrats
 
 1. **El text de la Reforma de 1866**, paràgraf per paràgraf. Brutails en cita els
@@ -263,3 +298,4 @@ mateix**.
 - [Les set parròquies](../../institucions/comuns-i-parroquies/les-set-parroquies.md) — que el 1904 eren sis.
 - [El Politar](../../historia/manual-digest/el-politar.md) — i l'avís de mètode de Brutails.
 - [L'educació](../../societat/educacio/educacio.md) — l'obligació de mestre i mestra.
+- [que no s'hi hagi mirat amb menyspreu ni indiferència](../../historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md) — el text de la llei, article per article.

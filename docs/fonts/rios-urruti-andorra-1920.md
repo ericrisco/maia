@@ -79,4 +79,5 @@ propietari del repositori, no de qui llegeix.**
 | **Capítol III, pp. 81-86** | **destil·lat el 17-09-2026** |
 | **Capítol III, pp. 87-93** (els notaris i la determinació del caràcter jurídic) | **destil·lat el 15-09-2026** — **el capítol III queda llegit sencer** |
 | **Capítol IV** | **sense llegir** — hi ha **els quarts**, **el pressupost de 1917** i **les boïgues** |
-| **Apèndixs** | **sense llegir** — **prioritari**, l'autor hi situa l'originalitat del dret públic andorrà, i **l'apèndix D conté el text de la Reforma del 1866 per paràgrafs numerats**, que és un buit declarat en quatre articles del corpus |
+| **Apèndix D** (la Reforma del 22 d'abril de 1866, pp. 150-161) | **destil·lat el 15-09-2026** — tancava un buit declarat en quatre articles del corpus |
+| **Apèndixs A, B i C** | **sense llegir** — **prioritari**. **A**: donació d'Armengol VI al bisbe Pere, **27 de gener de 1133**. **B**: acord entre el bisbe Arnau de Perexens i els habitants de la vall, **8 de gener de 1176** — **és un cap de sèrie registrat del corpus**. **C**: el **Pariatge del 8 de setembre de 1278**. **Tots tres citats *apud* Baudon de Mony**, amb signatura d'arxiu |

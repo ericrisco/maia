@@ -293,17 +293,27 @@ qui ho escriu és el catedràtic que hi va anar a estudiar-ho.**
 
 ## Buits registrats
 
-1. **El text del Pla de Reforma del 1866**, imprès. **Segueix sent el buit més
-   rendible de tota aquesta sèrie**: el corpus el cita ja per **quatre fonts
-   diferents** i no l'ha llegit mai. **I ara se'n sap una còpia concreta**:
-   l'**apèndix D** d'aquest mateix llibre, que l'autor cita per paràgrafs
-   —**«Véase apéndice D, 4.º y 5.º»** i **«El párrafo 8.º de la Reforma, apéndice
-   D»**. **Prioritari i assolible: és dins d'un volum que el corpus té obert.**
-2. **La fórmula catalana exacta del preàmbul i de les bases.** L'autor la dona
-   entre cometes —**«señor Bisbe d'Urgell y noble Compte de Foix, Princeps
-   soberans pro indivis»**— i **no diu de quin paràgraf.** **El decret de Caixal
-   que el corpus té la dona en castellà i atribuïda als Pariatges.** **Són dues
-   versions del mateix títol i el corpus no sap quina és la del text aprovat.**
+1. ~~**El text del Pla de Reforma del 1866**, imprès.~~ — **`llegit` el mateix
+   dia, 15-09-2026.** L'**apèndix D** d'aquest volum el porta sencer, en català,
+   i el corpus el té article per article a [que no s'hi hagi mirat amb menyspreu
+   ni
+   indiferència](../../historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md).
+   **El que segueix obert és l'imprès original** —*Plan de reforma…*, Seu
+   d'Urgell, 1866, 16 pàgines—: **una transcripció de 1920 no és l'edició, i si
+   difereixen el corpus no ho pot saber.**
+2. ~~**La fórmula catalana exacta del preàmbul i de les bases.**~~ — **`resolt`
+   el 15-09-2026, i el text fa la crítica d'aquest autor més forta del que ell la
+   va fer.** **Al preàmbul, la fórmula «Princeps soberans pro indivis» hi és, però
+   hi és dins de les cometes amb què el bisbe cita els Pariatges**: «*Ordenant-se
+   en los Pareatges d'Andorra… que… los veguers del Iltre. Sr. Bisbe d'Urgell y
+   del Noble Compte de Foix, **Princeps soberans pro indivis** de les valls
+   d'Andorra, exerceixin en comú y junts lo govern…*». **No és una fórmula que el
+   document es doni: és una fórmula que el document atribueix al text del 1278.**
+   **I el que es repeteix als articles no és el plural sinó el singular
+   «Princep Soberá»**, com a **autoritat de recurs** —articles 1r, 5è, 11è i
+   16è—, i **a la titulatura i a la signatura del bisbe**: «*Josep Bisbe d'Urgell,
+   Princep soberá de les valls d'Andorra*». `Registrat: la frase «se repite en las
+   bases» és certa per al títol singular i no per a la fórmula plural.`
 3. **La norma per la qual l'Estat espanyol nomenava el bisbe d'Urgell «en calidad
    de patrono» el 1918.** **Citada sense referència.** `Requereix font externa: el
    règim de patronat vigent a Espanya abans de 1931.`
@@ -319,8 +329,16 @@ qui ho escriu és el catedràtic que hi va anar a estudiar-ho.**
    **i no pot dir qui és qui aquí.**
 6. **Si existia cap norma andorrana sobre reunió, associació o culte el 1918.**
    **L'afirmació que no n'hi havia és d'autor i no porta prova.**
-7. **Quan apareix per primera vegada el títol de «príncep» aplicat als cosenyors
-   d'Andorra**, i **en quin document.** **El corpus el té el 1866 i no abans.**
+7. **CORRECCIÓ DEL CORPUS SOBRE SI MATEIX — 15-09-2026.** ~~Aquí deia que el
+   corpus té el títol de príncep el 1866 i no abans.~~ **És fals.** **El corpus el
+   té el 1762**, i amb nom: *La cuestión de Andorra* (1894), **p. 21**, nota —
+   «**El Obispo Catalán de Ocón fué el primero que usó en 1762 el título de
+   Príncipe Soberano**»—, i **Brutails data el 2 de març de 1762 un decret del
+   mateix bisbe** ([van deixar d'apel·lar a França per
+   comoditat](../../historia/segle-xix/van-deixar-dapelar-a-franca-per-comoditat.md)).
+   **El que segueix obert, i és una altra pregunta**, és **quan apareix la fórmula
+   en plural aplicada als dos cosenyors alhora** —*Prínceps sobirans pro
+   indivís*— **i si cap text anterior al 1866 l'atribueix als Pariatges.**
 8. **Si algú va respondre a aquest llibre** des d'Andorra o des de França. **Un
    volum que diu que dir-se príncep d'Andorra afalaga una vanitat pueril és un
    volum que convida a resposta**, i **el corpus no en té cap notícia.**

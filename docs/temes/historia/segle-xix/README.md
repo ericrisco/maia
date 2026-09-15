@@ -29,6 +29,7 @@ pel joc i va començar a sentir-se una nació.**
 | [El prefecte va ratllar la paraula república](./el-prefecte-va-ratllar-la-paraula-republica.md) | **1892**: Correus envia un cartell i el prefecte hi esmena el nom del país. I per què Vilar diu que Andorra no és ni república ni principat |
 | [El síndic va tornar i es va posar al capdavant del motí](./el-sindic-va-tornar-i-es-va-posar-al-capdavant-del-moti.md) | **L'afer del casino de 1866 vist des de França**: qui va anul·lar la concessió, amb quin argument, i què li va costar al síndic general |
 | [Dotze anys amb un sol copríncep](./dotze-anys-amb-un-sol-coprincep.md) | **1868-1880**: el bisbe sense veguer i el vescomte de Foix sol representant dels dos senyors. Amb el comissari que va moure la frontera el 1767 i la qüèstia refusada per feudal el 1793 |
+| [Que no s'hi hagi mirat amb menyspreu ni indiferència](./que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md) | **El text de la Reforma del 1866**, article per article: el requisit de conducta per votar, les visures en tres instàncies, la llicència per demandar les autoritats i l'ordre d'anar a buscar el costum a les cases particulars |
 
 ## El fil que les travessa
 

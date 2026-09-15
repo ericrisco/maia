@@ -114,6 +114,30 @@ explícit: **que tots els veïns sàpiguen com obren.**
 
 > **El (sic) és de Brutails**, sobre `deret` per *dret*.
 
+> **L'encàrrec del 1868 no és el començament — 15-09-2026.** **La Reforma del 22
+> d'abril de 1866 ja mana el mateix**, dos anys i vuit mesos abans, **i no a cinc
+> persones sinó a tots els comuns**: han de **«descubrir y manifestar los
+> fonaments en que s'apoyen tants y tants usos, costums y consuetuts»**,
+> consultant **«los llibres com a manuals, decrets, manuscrits, documents sueltos,
+> fallos de tribunals y la tradició racional»**; **el Consell General ha d'obrir
+> l'arxiu general**, i **batlles i veguers han d'aportar «tot lo que sàpiguen y
+> posseesquin»**. **El que no es trobi als arxius «pot buscarse en altres cases
+> particulars, en les que los seus amos han estat sindichs, veguers y batlles»**,
+> preguntant **«les persones mes antigues y que passen per mes practiques de la
+> vall»**. **I diu per a què:** **«Aquestos treballs ja adelantats suplirán
+> interinament un Codich general y serán al mateix temps materials indispensables
+> per arribar un dia a completar aquell.»**
+>
+> **Amb un avís que fa la disposició executable i no retòrica:** qui es guardi els
+> seus papers es quedarà sense el seu dret — **quan s'hagi consignat una pràctica
+> racional per suplir les regles especials que ell tenia, «de res los serviria
+> haver fet aquella reserva, puig serien regles que en dret y llei havien ja
+> caducat»**.
+>
+> **L'encàrrec del 1868 és, doncs, l'execució d'un mandat del 1866, no una idea
+> nova.** Vegeu [que no s'hi hagi mirat amb menyspreu ni
+> indiferència](../../historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md).
+
 **No es va fer.** Brutails ho diu en una frase: «**Aquest projecte no va tenir
 continuació**», i per això **les indicacions d'aquest estudi vénen de fonts
 múltiples.**
@@ -260,7 +284,11 @@ dues coses que aquell mateix decenni es discuteixen**. Vegeu
    esborrany**, i **on és**. `obert.`
 10. **L'Apèndix de la Reforma de 1866**: **ara se'n coneixen dues pàgines de
     contingut, la 13 i la 14**, i **segueix sense ser al corpus.** `obert,
-    prioritari.`
+    prioritari.` — **Precisió del 15-09-2026**: **el text de la Reforma sí que
+    s'ha llegit**, a l'apèndix D de Ríos Urruti, **i l'obligació de mestre i
+    mestra que Brutails situava a la pàgina 14 hi és**, com a disposició final.
+    **L'*Apèndix* que Brutails cita segueix sent una peça distinta i no consta en
+    aquella transcripció.**
 11. **El delme del Capítol**: **quina part era i des de quan**. **El conflicte hi
     va esclatar i la font no en dona la fracció.** `obert.`
 
