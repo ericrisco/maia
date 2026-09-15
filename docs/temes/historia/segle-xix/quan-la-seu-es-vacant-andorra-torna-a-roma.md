@@ -226,6 +226,31 @@ I la frase que en treu la conseqüència:
 > món on manava com a príncep**, i **això el feia a la vegada el més proper i el
 > més interessat.**
 
+## Una possible explicació de la divergència de dates
+
+**Afegit el 17-09-2026, i marcat com a hipòtesi del corpus.** **El text del
+Pariatge de 1278, llegit als annexos de Vilar, porta al § X un termini**:
+**tot allò s'ha de confirmar pel Papa «*dans les quatre années*», a costa del
+bisbe, sota pena de 50.000 sous de Melgueil per al comte, amb el rei d'Aragó de
+garant** ([el bisbe té sostre i el comte no](../pareatge/el-bisbe-te-sostre-i-el-comte-no.md)).
+
+**El corpus ja havia registrat que «el termini de quatre anys i la confirmació
+de 1282 quadrarien», sense afirmar-ho.** **El que el text afegeix és una
+excepció que el resum no duia:**
+
+> **«*Mais si, dans ce délai de quatre ans, il se produisait une vacance dans la
+> Cour de Rome, c'est-à-dire qu'il n'y eut pas de Pape, la durée de cette vacance
+> ne sera pas comptée dans les quatre années accordées.*»**
+
+> **El termini es podia allargar legalment.** **Una confirmació posterior al 1282
+> no implica per si mateixa incompliment ni pena**, **si entremig hi va haver seu
+> vacant.** **I la pena té xifra: 50.000 sous de Melgueil.**
+>
+> **El corpus no decideix entre 1282 i 1288**: **no té cronologia pontifícia
+> verificada i no n'inventa cap.** **El que hi guanya és que la divergència deixa
+> de ser un xoc de dates i passa a tenir un mecanisme documentat que la podria
+> explicar.**
+
 ## Buits registrats
 
 1. **Per què signen dos «Síndics Generals Presidents» alhora** i **quin era el

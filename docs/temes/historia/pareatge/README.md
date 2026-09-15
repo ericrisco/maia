@@ -13,6 +13,7 @@ exactament i què va deixar obert durant set segles.
 | --- | --- |
 | [El Pareatge](./el-pareatge.md) | La cadena feudal, l'homenatge que no es va tornar a fer i el que hi diu la bibliografia moderna. **Escrita des de fonts secundàries**, amb la lectura primària de Brutails afegida a sobre. |
 | [Afirmats en principi, sacrificats en l'aplicació](./afirmats-en-principi-sacrificats-en-laplicacio.md) | **El contingut del Pariatge article per article**, el termini de quatre anys per obtenir la butlla amb el rei d'Aragó de fiador, i per què el bisbe hi guanya el títol i el comte les rendes |
+| [El bisbe té sostre i el comte no](./el-bisbe-te-sostre-i-el-comte-no.md) | **El text del Pariatge sencer**, en traducció francesa del 1904: tretze paràgrafs, la talla sense límit del comte, les dues clàusules que prohibeixen que una absència faci precedent, i la pena de 50.000 sous. |
 | [No una imitació, sinó una caricatura](./no-una-imitacio-sino-una-caricatura.md) | Les pàgines històriques del capítol II de Brutails (1904), **font primària**: el fals de Carlemany, què diu i què no diu el Pareatge, i els dos trets que enganyen sobre la condició d'Andorra. |
 
 **Pendent, i és el buit central de la branca:** **el text del Pareatge de 1278 i

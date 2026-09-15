@@ -182,7 +182,9 @@ la paginació impresa de l'exemplar.**
 | **pp. 85-86** | frontissa entre el capítol II i el III de la segona part | **sense unitat** |
 | **pp. 115-122** | obertura de la tercera part i primeres pàgines de la qüestió de la sobirania | **sense unitat**; el contingut —la carta de Casañas del 12-08-1894 i el manifest— **el corpus el té en castellà, de l'original** |
 | **pp. 129-134** | final del capítol de la sobirania | **sense unitat de registre**, però **distil·lat** a `qui-parlava-per-andorra.md`, escrit abans que aquesta font entrés al registre per unitats |
-| **després de la p. 156** | **els annexos**, amb còpia de **tres sentències del Tribunal Superior d'Andorra** | **sense llegir. Prioritari** |
+| **pp. 159-173** | **annex 1r: el text sencer del Pariatge de 1278**, traduït del text del Ministeri de Justícia de París | **destil·lat el 17-09-2026** a [el bisbe té sostre i el comte no](../temes/historia/pareatge/el-bisbe-te-sostre-i-el-comte-no.md) |
+| **pp. 173-181** | **annex 2n: tres sentències del Tribunal Superior d'Andorra**, una per cada desenllaç | **sense llegir. Prioritari** |
+| **pp. 181-185** | **bibliografia** | **sense llegir** |
 
 **Integritat de la paginació:** de 144 pàgines entre la 13 i la 156, **113 porten
 capçalera detectable**. Les 39 que no en porten **no són forats**: la majoria són

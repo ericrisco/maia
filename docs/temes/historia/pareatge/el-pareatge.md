@@ -93,6 +93,15 @@ Vegeu [el coprincipat](../../institucions/coprincipat/el-coprincipat.md) i
 
 ## Qui més hi signava: el rei de Catalunya-Aragó
 
+> **Amb quina xifra — 17-09-2026.** **El corpus ja tenia que hi és com a fiador
+> del compromís de confirmació pontifícia**
+> ([afirmats en principi, sacrificats en l'aplicació](./afirmats-en-principi-sacrificats-en-laplicacio.md)).
+> **El text del document en dona la quantitat, que el resum no duia**: **50.000
+> sous de Melgueil** deguts al comte si el Papa no confirma en quatre anys, **i el
+> rei accepta expressament la responsabilitat per ell i pels seus successors**,
+> obligant-se solidàriament amb el bisbe. Vegeu [el bisbe té sostre i el comte
+> no](./el-bisbe-te-sostre-i-el-comte-no.md).
+
 **Palau i Martí hi afegeix un tercer nom que el corpus no tenia.**
 
 > «En aquesta època, **la sobirania d'Andorra requeia a Catalunya**. **Pere II**
@@ -287,9 +296,15 @@ que buscava en el Pareatge «la base de la condició internacional d'Andorra».
 - **L'estudi de Mérignhac**, *Bulletin du Comité des travaux historiques*, secció
   de ciències econòmiques i socials, **Congrés de 1899, p. 267**. Citat i
   criticat, no llegit.
-- **El text del Pareatge**, sencer. El corpus el té **descrit i no llegit** —
-  **i des del 2026-09-13 en sap l'extensió**: **onze articles, dels quals sis
-  sobre Andorra i cinc sobre altres territoris.**
+- ~~**El text del Pareatge**, sencer.~~ — **`TANCAT EN TRADUCCIÓ EL
+  17-09-2026`**, **i obert en original.** **Els annexos de Vilar (1904),
+  pp. 159-173, en donen el text sencer en francès**, «*traduction d'après le texte
+  du Ministère de la Justice, Bibliothèque du Comité de Législation étrangère,
+  Paris*» ([el bisbe té sostre i el comte no](./el-bisbe-te-sostre-i-el-comte-no.md)).
+  **El corpus segueix sense el llatí**, i **cap citació d'aquella traducció no
+  serveix per a un argument que depengui d'una paraula.**
+  **I hi ha divergència d'extensió**: **aquesta fitxa tenia onze articles i el
+  text en porta tretze, § I a § XIII.** **Registrada, no arbitrada.**
 - **La contrasignatura de Pere II**. **Prioritari.**
 - **La carta de Pere II als andorrans del 25 de desembre de 1283**, sencera.
   **Prioritari.**

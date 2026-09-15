@@ -235,8 +235,17 @@ Pariatges**, **comte Gastó i bisbe Pere de Narbona**, **tretze conclusions**—
 
 ## Buits registrats
 
-1. **El text del Pariatge.** **Tercera font que el descriu i cap que el
-   transcrigui.** **Prioritari.**
+1. ~~**El text del Pariatge.**~~ — **`TANCAT EN TRADUCCIÓ EL 17-09-2026.`**
+   **Els annexos del mateix volum, pp. 159-173, en donen el text sencer en
+   francès**, traduït «*d'après le texte du Ministère de la Justice, Bibliothèque
+   du Comité de Législation étrangère, Paris*»
+   ([el bisbe té sostre i el comte no](./el-bisbe-te-sostre-i-el-comte-no.md)).
+   **Segueix obert l'original llatí**, i **cap citació de la traducció no serveix
+   per a un argument que depengui d'una paraula.** **El text porta tretze
+   paràgrafs i aquesta fitxa en resumia set matèries**: **la comparació mostra
+   que el resum de l'autor deixava fora les clàusules contra el precedent, la
+   prohibició d'emprar els andorrans l'un contra l'altre, i les exclusions
+   nominals.**
 2. **Què era el «sou de Meigniel»** en què es taxa el topall de 4.000 de la talla
    episcopal. **El corpus no té aquesta moneda.** `Requereix numismàtica o una
    taula de canvi medieval.`
@@ -255,7 +264,11 @@ Pariatges**, **comte Gastó i bisbe Pere de Narbona**, **tretze conclusions**—
    general.** **Dues fonts, dues respostes.**
 9. **Si el rei d'Aragó va haver de pagar mai res** per la fiança. **El termini de
    quatre anys i la confirmació de 1282 quadrarien; el corpus no ho afirma perquè
-   la data de la butlla està en divergència.**
+   la data de la butlla està en divergència.** **`Precisat el 17-09-2026 amb el
+   text a la mà:`** **la pena és de 50.000 sous de Melgueil**, i **el § X exclou
+   del còmput dels quatre anys el temps de vacant a la Cort de Roma**, **de manera
+   que una confirmació posterior al 1282 no implicaria per si mateixa que s'hagués
+   meritat la pena.**
 10. **Quantes vegades es va exigir la talla dins del topall dels 4.000 sous**, i
     **si el topall es va respectar.**
 
