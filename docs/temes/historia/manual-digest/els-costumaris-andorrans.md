@@ -102,9 +102,10 @@ I una que va sortir del país:
 > transcripció que Bonaventura Moles va fer el 1879**, **la mateixa que el jutge
 > que els servia els extractes deia d'acceptar «*sous bénéfice de revision*».**
 > **El nom del dipòsit balla entre les dues fonts** —«*comparée*» en una,
-> «*étrangère*» en l'altra—, **i la bibliografia hi posa un cognom per a l'autor
-> del Politar: «l'abbé Puigt»**, que **el corpus registra sense donar-lo per
-> establert.** Vegeu [tot venia de la mateixa
+> «*étrangère*» en l'altra—, **i el mateix volum escriu el nom de l'autor del Politar de
+> dues maneres**: **«l'abbé Puig» al cos (p. 60) i «l'abbé Puigt» a la
+> bibliografia**, **que és la grafia que aquesta fitxa ja tenia de l'exemplar de
+> la Casa de la Vall.** Vegeu [tot venia de la mateixa
 > prestatgeria](../historiografia/tot-venia-de-la-mateixa-prestatgeria.md).
 
 ## El títol complet del Manual Digest

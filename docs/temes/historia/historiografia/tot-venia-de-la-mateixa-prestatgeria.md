@@ -64,16 +64,31 @@ registrada; poden ser dos noms d'una mateixa institució o un error d'un dels do
 **La fitxa bibliogràfica diu: «*L'ABBÉ PUIGT. — Le Politar Andorra (résumé du
 précédent), manuscrit catalan de 1763*».**
 
-> **El corpus té el Politar com a obra «*rédigée en 1763 par le curé de las
-> Escaldas*», sense nom**, i **la mateixa font ho diu així al cos del llibre**
-> *(p. 15, nota 2)*. **A la bibliografia hi posa un cognom: Puigt.**
+> **CORRECCIÓ DEL CORPUS SOBRE SI MATEIX — 17-09-2026, el mateix dia.**
+> **Quan es va escriure aquest paràgraf deia que el corpus no tenia el nom de
+> l'autor del Politar. És fals, i es retira.**
 >
-> **El corpus el registra i no el dona per establert.** **Tres raons:** **és un
-> cognom en una bibliografia i no una atribució raonada**; **l'exemplar és OCR i
-> la grafia podria ser defectuosa** —**Puig és el que s'esperaria en català**—;
-> i **el corpus no té cap altra font que nomeni l'autor.**
+> **El corpus el té des d'abans**, i del títol mateix del manuscrit:
+> [els costumaris andorrans](../manual-digest/els-costumaris-andorrans.md)
+> **transcriu l'exemplar de la Casa de la Vall** —**«*lo any 1763, per lo
+> Reverent **Anton Puigt***»**— i **l'edició del 1983**, que l'abreuja
+> **«Rnt An. Pg. Preb. de les Caldes»**. **L'error va ser meu: no vaig
+> comprovar-ho abans d'escriure.**
 >
-> `Buit que passa d'obert a «hi ha un cognom proposat».`
+> **El que aquesta entrada bibliogràfica aporta, doncs, no és el nom sinó una
+> grafia més**, i **el mateix volum en dona una altra al cos** *(p. 60)*:
+> **«*l'abbé **Puig**, curé des Escaldas*»**.
+>
+> | Font | Com l'escriu |
+> |---|---|
+> | **Exemplar de la Casa de la Vall**, via Brutails | **Puigt** |
+> | **Edició del 1983** | **Pg.** (abreujat) |
+> | **Aquesta bibliografia** | **Puigt** |
+> | **El cos d'aquest mateix volum** | **Puig** |
+>
+> **Tres fonts escriuen Puigt i una Puig, i dues d'elles són el mateix llibre.**
+> `El corpus no arbitra la grafia i fa constar que el nom no està en dubte: Anton
+> Puig o Puigt, prevere de les Escaldes.`
 
 **I la mateixa entrada diu què és el Politar respecte del Manual Digest:**
 **«*résumé du précédent*»**, cosa que **el corpus ja sostenia**.
