@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**949** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**950** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -844,6 +844,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [A qui pertany la jurisdicció de les Valls](temes/historia/segle-xix/a-qui-pertany-la-jurisdiccio-de-les-valls.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `la-cuestion-de-andorra-1894` |
 | [Cap on mirava Andorra](temes/historia/segle-xix/cap-on-mirava-andorra.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Deu lliures per testar](temes/historia/segle-xix/deu-lliures-per-testar.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [El desenllaç de la qüestió duanera](temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `vilar-andorre-1904` |

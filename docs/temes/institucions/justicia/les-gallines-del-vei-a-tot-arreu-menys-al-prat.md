@@ -197,6 +197,16 @@ final d'un decret** —«*baix pena del cot de la Terra*»—
 
 ## La *degolla*, i el rei de França que la va abolir
 
+> **Segona font, afegida el 15-09-2026.** *La cuestión de Andorra* (1894), **p. 14**,
+> descriu **el mateix acte des de la banda andorrana**: el rei de França va donar
+> **«una órden soberana prohibiendo matar las cabezas de ganado que de una
+> parroquia entrasen en los pastos de la otra»**, i va manar practicar **«lo que
+> aún hoy se practica»** — **prendre el bestiar com a penyora i prova del delicte
+> i multar l'infractor**. **Dues fonts independents, una francesa de 1904 i una
+> andorrana de 1894, donen el mateix acte i el mateix règim substitutiu**, i
+> **cap de les dues no el transcriu**. Vegeu [a qui pertany la jurisdicció de les
+> Valls](../../historia/segle-xix/a-qui-pertany-la-jurisdiccio-de-les-valls.md).
+
 > **Era antigament l'ús en tota aquesta regió que **el propietari d'una finca
 > matés una de les bèsties del ramat que hi trobava**. **Aquest *dret de degolla*
 > s'exercia sobretot de parròquia a parròquia**, quan els ramats sortien de les

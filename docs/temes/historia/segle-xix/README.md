@@ -19,6 +19,7 @@ pel joc i va començar a sentir-se una nació.**
 | [Cap on mirava Andorra](./cap-on-mirava-andorra.md) | França o Espanya, i per què cap de les dues |
 | [Se li reconeixerà com als seus antecessors](./se-li-reconeixera-com-als-seus-antecessors.md) | **El Consell General escrivint**: què és de debò un privilegi, i l'indult del 1855 dia a dia |
 | [O ho accepteu, o el bestiar passa a ser estranger](./o-ho-accepteu-o-el-bestiar-passa-a-ser-estranger.md) | **L'escrit del bisbe del 12 d'agost de 1894**: dues condicions i quatre represàlies sobre el bestiar |
+| [A qui pertany la jurisdicció de les Valls](./a-qui-pertany-la-jurisdiccio-de-les-valls.md) | La pregunta del **1775**, l'enquesta jurada del **1347** i els actes de sobirania francesos, datats |
 
 ## El fil que les travessa
 

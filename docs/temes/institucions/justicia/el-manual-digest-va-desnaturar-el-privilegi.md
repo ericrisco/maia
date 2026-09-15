@@ -248,6 +248,18 @@ jurisdiccions és aquí sencera:**
 10. **Si la pràctica d'embargar abans de tot debat tenia cap límit**, **i qui
     l'autoritzava.**
 
+> **Afegit el 15-09-2026.** *La cuestión de Andorra* (1894), **p. 16**, en dona
+> **el preàmbul i el format**: **catorze articles**, donats **junts** pel bisbe
+> **Francesc de Tovia** i **Joan comte de Foix**, sobre **rendes de l'Església,
+> aigües, herbes i pesca, i drets d'entrada de bestiar estranger**, signats a
+> **Auvret (França)**. I el preàmbul diu d'on surt: **«habernos suplicado las
+> Autoridades andorranas por escrito y separadamente, que proveyéramos para hacer
+> respetar costumbres antiguas de las Valles»**. **Les autoritats andorranes van
+> suplicar als dos senyors per separat i els dos van respondre junts**, i el text
+> es promulga **«como privilegios dados perpetuamente»**. **El text dels catorze
+> articles segueix sense veure's.** Vegeu [a qui pertany la jurisdicció de les
+> Valls](../../historia/segle-xix/a-qui-pertany-la-jurisdiccio-de-les-valls.md).
+
 ## Related
 
 - [Els cònsols els lliuren amb els ulls tancats](./els-consols-els-lliuren-amb-els-ulls-tancats.md) — el buit que aquí es tanca.

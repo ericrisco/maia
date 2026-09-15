@@ -43,6 +43,19 @@ I la font hi afegeix immediatament:
 d'Andorra, atorga un privilegi **pel qual es prohibeix l'actuació del Tribunal
 de la Inquisició, introduït pel bisbe d'Urgell, a Andorra**.
 
+> **Afegit el 15-09-2026, des d'una segona font.** *La cuestión de Andorra*
+> (1894), **pp. 13-14**, escrita pel **Consell General**, data i motiva aquell
+> privilegi: **cap al 1589** —el primer any del regnat d'Enric IV, cosa que
+> **tanca la data impossible de 1501** que aquesta fitxa ja havia detectat—, i
+> **surt d'un requeriment del Consell de les Valls sobre el delme d'herbes i de
+> ferro** que el bisbe i els canonges volien cobrar «*que nunca habían
+> cobrado*». **La limitació de la Inquisició hi va entrar de passada**: el rei
+> «*también mandó que el Tribunal de la Inquisición, implantado en los Valles por
+> los Obispos, no absorbiese ciertas atribuciones propias de los Tribunales
+> andorranos, y fué obedecido su mandato*». **No és un favor concedit: és una
+> demanda atesa.** Vegeu [a qui pertany la jurisdicció de les
+> Valls](../../historia/segle-xix/a-qui-pertany-la-jurisdiccio-de-les-valls.md).
+
 I la frase que fa que aquesta fitxa existeixi:
 
 > **«Per primer i únic cop en la història d'Andorra, el privilegi d'un consenyor
