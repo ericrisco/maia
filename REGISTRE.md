@@ -2,7 +2,7 @@
 
 > Generat per `scripts/registre_progres.py`. No l'editeu a mà.
 
-**202 fonts registrades · 964 articles destil·lats · 749 buits declarats oberts.**
+**203 fonts registrades · 965 articles destil·lats · 757 buits declarats oberts.**
 
 ## Fonts destil·lades
 
@@ -136,6 +136,7 @@
 | [`societat-andorrana-ciencies`](fonts/societat-andorrana-ciencies.md) | [El Consell de la Terra](temes/institucions/consell-general/el-consell-de-la-terra.md)<br>[El canvi climàtic a Andorra](temes/territori/clima-i-muntanya/el-canvi-climatic.md)<br>[El nom d'Andorra](temes/historia/origens/el-nom-dandorra.md)<br>[Els andorrans de primera generació](temes/institucions/nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md)<br>[Els passadors](temes/historia/guerres-i-neutralitat/els-passadors.md)<br>[FHASA](temes/economia/energia-i-serveis/fhasa.md)<br>[L'Andorra dels anys cinquanta vista per un foraster](temes/vida-quotidiana/convencions-socials/landorra-dels-anys-cinquanta.md)<br>[La Societat Andorrana de Ciències](temes/cultura/museus-i-arxius/la-societat-andorrana-de-ciencies.md)<br>[La llegenda negra dels passadors](temes/historia/historiografia/la-llegenda-negra-dels-passadors.md)<br>[La lògica pastoral dels límits](temes/territori/geografia-fisica/la-logica-pastoral-dels-limits.md)<br>[La tria de llengua](temes/vida-quotidiana/convencions-socials/la-tria-de-llengua.md)<br>[Les Diades andorranes](temes/historia/historiografia/les-diades-andorranes.md)<br>[Les comunitats](temes/societat/immigracio/les-comunitats.md)<br>[Les vagues de FHASA](temes/historia/segle-xx-primera-meitat/les-vagues-de-fhasa.md) | 8 |
 | [`sorribes-evolucio-premsa-1994`](fonts/sorribes-evolucio-premsa-1994.md) | [Les capçaleres](temes/societat/mitjans/les-capcaleres.md) | 0 |
 | [`spl-coneixements-usos-linguistics-2009`](fonts/spl-coneixements-usos-linguistics-2009.md) | [Quaranta-vuit coma cinc, no quaranta-vuit coma sis](temes/llengua/politica-linguistica/quaranta-vuit-coma-cinc-no-quaranta-vuit-coma-sis.md) | 8 |
+| [`spl-coneixements-usos-linguistics-2014`](fonts/spl-coneixements-usos-linguistics-2014.md) | [Els nouvinguts tenien més català que els nascuts a Andorra](temes/llengua/politica-linguistica/els-nouvinguts-tenien-mes-catala-que-els-nascuts-a-andorra.md) | 8 |
 | [`spl-coneixements-usos-linguistics-2022`](fonts/spl-coneixements-usos-linguistics-2022.md) | [La sèrie que no és una sèrie](temes/llengua/politica-linguistica/la-serie-que-no-es-una-serie.md) | 0 |
 | [`spl-variants-dialectals-diec2`](fonts/spl-variants-dialectals-diec2.md) | [La marca que no vol dir Andorra](temes/llengua/lexic-andorra/la-marca-que-no-vol-dir-andorra.md) | 0 |
 | [`tarrene-influencies-multiculturals`](fonts/tarrene-influencies-multiculturals.md) | [Els casalers i els anfochs](temes/historia/segle-xix/els-casalers-i-els-anfochs.md)<br>[La primera policia](temes/historia/segle-xx-primera-meitat/la-primera-policia.md)<br>[Les xifres que no quadren](temes/societat/demografia/les-xifres-que-no-quadren.md)<br>[Per on van entrar les idees](temes/historia/democratitzacio/per-on-van-entrar-les-idees.md) | 0 |

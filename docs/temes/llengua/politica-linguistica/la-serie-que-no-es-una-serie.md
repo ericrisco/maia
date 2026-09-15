@@ -91,6 +91,16 @@ després del 39,5 % del 2014 **hi ha una recaiguda al 35,7 % el 2018**. La corba
 no és una V: és **una V més fonda amb una segona baixada**, i amb tres
 columnes no es veu cap de les dues coses.
 
+> **I la recaiguda estava anunciada.** **L'edició del 2014 atribueix la seva
+> pròpia pujada a la crisi** —al retorn d'immigrants portuguesos i a l'arribada
+> d'espanyols de Catalunya, **el 93 % dels arribats feia cinc anys o menys**— i
+> **escriu que «aquests canvis demogràfics semblen més conjunturals que
+> estructurals»**, amb la condició explícita: **«en un futur context de
+> creixement econòmic potser caldrà reforçar el paper actiu dels organismes
+> públics oficials»**
+> ([els nouvinguts tenien més català que els nascuts a Andorra](./els-nouvinguts-tenien-mes-catala-que-els-nascuts-a-andorra.md)).
+> **Quatre anys abans que passés.**
+
 **I el castellà quasi no es mou.** De 43,2 % a 43,9 % entre el 1999 i el 2018:
 **set dècimes en dinou anys**. El que puja i baixa contra el català **no és el
 castellà, és el portuguès** —de 10,7 % a 18,6 % i de tornada a 13,5 %— i
@@ -200,13 +210,28 @@ La pregunta, tal com la formula l'enquesta (p. 40):
 | Demana si li poden parlar en català | 0,7 % | 3,5 % | 3,1 % |
 | Interromp la conversa | 0,1 % | 1,1 % | 0,3 % |
 
-> **Avís de base, afegit el 2026-09-15.** **Aquesta taula no es pot allargar cap
-> enrere amb la xifra del 2009.** L'edició 1995-2009 dona **79,4 % que canvien de
-> llengua**, però **sobre una base de 429 persones: només les que inicien una
-> conversa en català**, que són el 52,3 % de la mostra. **Aquesta taula, en canvi,
-> inclou la categoria «mai s'adreça a ningú en català», de manera que la seva base
-> és tota la població.** **Posar 79,4 al costat de 65,5 seria fabricar una sèrie**
-> ([quaranta-vuit coma cinc, no quaranta-vuit coma sis](./quaranta-vuit-coma-cinc-no-quaranta-vuit-coma-sis.md)).
+> **Avís de base, afegit el 2026-09-15 i ampliat el mateix dia.** **Aquesta taula
+> té una fila que hi falta i una columna amb una base diferent de les altres
+> dues.**
+>
+> **La fila que hi falta és «No contesta»**, que l'edició del 2022 imprimeix a la
+> mateixa figura: **2,6 % (2014) · 3,0 % (2018) · 0,8 % (2022)**.
+>
+> **Amb ella, la columna del 2014 suma exactament 100** i **les del 2018 i 2022
+> sumen 115,3 i 111,2**. `Comprovació del corpus.` **A les dues últimes, les
+> quatre opcions d'acció sumen prop de 100 entre elles**, que és el que
+> s'esperaria si van **sobre el subgrup que s'adreça en català** —**la base que
+> l'edició del 2009 imprimeix en lletres: «persones que inicien una conversa en
+> català (429)»**.
+>
+> **`Hipòtesi del corpus`:** **el 2014 és l'única columna calculada sobre tota la
+> mostra.** **Rebasant-la** —65,5 ÷ 83,8 = **78,2 %**— **la sèrie queda 79,4
+> (2009) · 78,2 (2014) · 77,5 (2018) · 74,8 (2022) i baixa sense sotracs.**
+>
+> **El corpus retira, doncs, la lectura que hi hagués un salt de dotze punts
+> entre el 2014 i el 2018**: **és molt probablement un canvi de denominador, no
+> un canvi de conducta.** Vegeu
+> [els nouvinguts tenien més català que els nascuts a Andorra](./els-nouvinguts-tenien-mes-catala-que-els-nascuts-a-andorra.md).
 
 **Tres de cada quatre canvien.** I això passa el mateix any que el 47,5 % diu que
 **comença sempre** les converses en català. **Començar en català i mantenir-lo
@@ -320,3 +345,4 @@ d'aquesta font no entra en cap dataset.**
 - [Andorra es castellanitza](./andorra-es-castellanitza.md) — la mateixa por, dita el 1989.
 - [La marca que no vol dir Andorra](../lexic-andorra/la-marca-que-no-vol-dir-andorra.md)
 - [Quaranta-vuit coma cinc, no quaranta-vuit coma sis](./quaranta-vuit-coma-cinc-no-quaranta-vuit-coma-sis.md) — l'edició original de la quarta onada, oberta per comprovar aquestes xifres.
+- [Els nouvinguts tenien més català que els nascuts a Andorra](./els-nouvinguts-tenien-mes-catala-que-els-nascuts-a-andorra.md) — la cinquena onada, que anuncia per escrit la recaiguda del 2018.

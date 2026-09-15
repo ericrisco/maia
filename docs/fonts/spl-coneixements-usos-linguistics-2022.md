@@ -33,8 +33,11 @@ des de la premsa i des d'un article acadèmic**. Aquesta fitxa obre el document.
 > per comprovar les xifres que aquesta reprodueix**. **Trenta-set valors
 > confirmats i un desmentit**: l'indicador lingüístic del català del 2004, que
 > **aquesta edició imprimeix 48,6 i l'original imprimeix 48,5 dues vegades**.
-> **Les edicions de 2014 i 2018 segueixen sense obrir**, i sense elles no se sap
-> en quina reedició es va introduir la dècima.
+> **L'edició 1995-2014 també s'ha llegit sencera**
+> ([fitxa](./spl-coneixements-usos-linguistics-2014.md)): **és on entra la
+> dècima**, i **és la que declara per escrit que la millora del català del 2014
+> és «més conjuntural que estructural»**. **La del 1995-2018 és ara l'única del
+> fons sense obrir.**
 
 | Peça | Abast de lectura | Evidència |
 | --- | --- | --- |

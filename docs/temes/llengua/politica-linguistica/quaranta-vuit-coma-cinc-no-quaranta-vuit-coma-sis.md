@@ -99,9 +99,12 @@ edicions.** No és una arbitració per preferència: **l'edició del 2009 és
 internament coherent amb el seu propi valor i l'altra no es pot comprovar contra
 res.**
 
-> **El que això no diu.** **No s'ha comprovat quin valor porten les edicions de
-> 2014 i 2018**, que són al disc i segueixen sense obrir. **La dècima pot venir
-> d'una d'aquelles dues reedicions o de la del 2022.** `Buit obert.`
+> **Tancat la mateixa jornada.** **La dècima entra a l'edició 1995-2014**, DL
+> AND. 188-2016, **al gràfic de la seva pàgina impresa 26**, i es reimprimeix el
+> 2018 i el 2022 ([els nouvinguts tenien més català que els nascuts a
+> Andorra](./els-nouvinguts-tenien-mes-catala-que-els-nascuts-a-andorra.md)).
+> **Cap edició no explica el canvi ni torna a fer la resta que el text del 2009
+> feia.** **El que segueix `obert` és per què.**
 
 ### I la sèrie del castellà, confirmada
 
@@ -292,9 +295,19 @@ corpus.`
 
 **I per això aquesta xifra no s'enganxa amb la sèrie que el corpus ja té.** La
 taula del 2014-2022 **inclou una categoria «mai s'adreça a ningú en català»**, de
-manera que **la seva base és tota la població i la del 2009 no ho és**.
+manera que **la seva base sembla ser una altra**.
 **Posar 79,4 % · 65,5 % · 77,5 % · 74,8 % en una fila seria fabricar una sèrie.**
 **El corpus no ho fa i deixa la de 2009 a part, amb la seva base.**
+
+> **Ampliat el mateix dia.** **La lectura de l'edició 1995-2014 mostra que el
+> problema de base no és del 2009: és del 2014.** Allà **les sis opcions sumen
+> exactament 100** i van sobre tota la mostra; **al 2018 i al 2022 sumen 115,3 i
+> 111,2**, perquè **les quatre opcions d'acció van sobre el subgrup que s'adreça
+> en català** —que és **la base que aquesta edició del 2009 imprimeix en
+> lletres**. **Rebasant el 2014, la sèrie queda 79,4 · 78,2 · 77,5 · 74,8 i baixa
+> sense sotracs.** `Hipòtesi del corpus amb el càlcul a la vista`, a
+> [els nouvinguts tenien més català que els nascuts a
+> Andorra](./els-nouvinguts-tenien-mes-catala-que-els-nascuts-a-andorra.md).
 
 **El detall que sí que es pot comparar, perquè el document el dona a part:**
 **entre els catalanoparlants, els que continuen en català són el 28 %.**
@@ -346,11 +359,20 @@ pàgines renderitzades a 150 ppp.**
    porten la llegenda de quatre colors.`
 2. **A la pàgina 12, el gràfic i el text de la mateixa pàgina donen dos valors
    diferents.** El percentatge de temps que s'utilitza el **francès el 2004** és
-   **7,0 %** al gràfic i **8,3 %** al text. **L'aritmètica afavoreix el text**: la
-   columna del 2009 suma **100,0** exactament; la del 2004 suma **98,9 amb 7,0** i
-   **100,2 amb 8,3**, i **un arrodoniment de sis valors a una decimal no pot
-   desviar la suma 1,1 punts**. `Càlcul del corpus.` **El corpus cita 8,3 % i
-   registra que el gràfic en diu 7,0.**
+   **7,0 %** al gràfic i **8,3 %** al text.
+
+   > **CORRECCIÓ, el mateix dia.** **Aquesta fitxa deia primer que «l'aritmètica
+   > afavoreix el text»**, perquè la columna del 2004 suma 98,9 amb 7,0 i 100,2
+   > amb 8,3, i la del 2009 tanca a 100,0 exacte. **L'argument no s'aguanta.**
+   > **L'edició següent, la de 1995-2014, té una columna del 2014 que suma 98,0**
+   > —47,0 + 37,5 + 5,2 + 5,4 + 2,1 + 0,8—, **de manera que aquestes columnes no
+   > han de sumar 100.** `Comprovació del corpus.` **I aquella edició torna a
+   > imprimir 7,0 % al seu gràfic.**
+   >
+   > **El corpus retira la inclinació i registra les dues xifres sense
+   > arbitrar-les**: **7,0 % al gràfic de dues edicions, 8,3 % al text d'una.**
+   > Vegeu [els nouvinguts tenien més català que els nascuts a
+   > Andorra](./els-nouvinguts-tenien-mes-catala-que-els-nascuts-a-andorra.md).
 3. **A la pàgina 19, l'enumeració de les situacions socioeconòmiques en declara
    vuit i en llista nou**, amb **«quan van a comprar en una botiga» repetit** al
    quart lloc i a l'últim. **Els gràfics que segueixen en despleguen vuit**, de
@@ -384,9 +406,12 @@ lectura del cap de Govern que el seu propi informe corregeix a l'interior.**
 
 ## Buits registrats
 
-- **Les edicions de 2014 i 2018 segueixen sense obrir**, i són al disc. **La
-  dècima de l'indicador del 2004 no es pot situar sense elles.** **Buit
-  prioritari, i ara concret**: no és «comprovar-les», és **mirar una casella**.
+- ~~**Les edicions de 2014 i 2018 segueixen sense obrir**, i són al disc. **La
+  dècima de l'indicador del 2004 no es pot situar sense elles.**~~ — **`parcial`
+  el mateix dia.** **L'edició 1995-2014 s'ha llegit sencera i és on entra el
+  48,6** ([lectura](./els-nouvinguts-tenien-mes-catala-que-els-nascuts-a-andorra.md)).
+  **El que segueix `obert` és l'edició 1995-2018**, de la qual el corpus només ha
+  llegit la pàgina 32; **és l'única del fons sense obrir.**
 - **L'informe exhaustiu del qual aquest llibret és un resum.** El document ho diu
   de si mateix, igual que el del 2022: **«un recull sintètic extret d'un informe
   més exhaustiu i detallat que podeu consultar al web www.catala.ad».** **Catorze
