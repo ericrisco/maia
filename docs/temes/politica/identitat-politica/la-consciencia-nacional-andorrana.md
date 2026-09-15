@@ -105,6 +105,7 @@ més**».
 | --- | --- |
 | **1419** | Es reconeix el **Consell de la Terra** |
 | **1659** | Al **tractat dels Pirineus**, les valls **no queden afectades** pel nou traçat de fronteres |
+| **1864** | **DIVERGÈNCIA REGISTRADA.** Un **dictamen del Consejo de Estado espanyol**, basat en un altre del **Consejo Real** de cap al 1852, fa saber a Andorra que **«por el Tratado de los Pirineos de Noviembre de 1659, tenía España derechos evidentes de dominio, jurisdicción y propiedad sobre todos los Valles»** (*La cuestión de Andorra*, 1894, p. 23). **El corpus no té cap dels dos textos i no arbitra**; registra que **hi va haver una tesi espanyola d'annexió fonamentada en aquell tractat**, amb data i amb òrgan. Vegeu [semblava que el bisbe patrocinava el joc](../../historia/segle-xix/semblava-que-el-bisbe-patrocinava-el-joc.md) |
 | **1714** | A la **guerra de Successió**, se'n surten «gràcies al copríncep episcopal **Simeón de Guinda y Apeztegui**, que es reconeix amb els andorrans com a **diferent dels espanyols i francesos**» |
 | **1748** | **Manual Digest**, d'Antoni Fiter i Rossell |
 | **1764** | **Politar Andorrà** |

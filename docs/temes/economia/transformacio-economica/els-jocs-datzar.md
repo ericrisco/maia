@@ -125,4 +125,16 @@ sense ànim de lucre —**però només fins a 5.000 euros per sessió o sorteig*
 - **El Consell Regulador Andorrà del Joc** (títol III) i el **Servei
   d'Inspecció** (títol V) queden per llegir.
 - **Què hi havia abans d'aquesta llei** —quan i com es va autoritzar el joc a
-  Andorra— és una història que el corpus encara no té.
+  Andorra— és una història que el corpus encara no té. **Té el començament, des
+  del 15-09-2026.** *La cuestión de Andorra* (1894), **pp. 24-25**, narra que **la
+  primera concessió per construir carreteres a Andorra**, feta a una **companyia
+  estrangera** i decretada **pel bisbe oficiant de president honorari del Consell
+  General**, obligava a fer **un llarg tram de carretera abans d'aixecar cap
+  edifici**; que la companyia, **després de simular que hi treballava**, hi va
+  traslladar **una casa portàtil** per **començar el joc «á estilo de Spa y
+  Mónaco»** i finançar la carretera amb els guanys; i que **el bisbe es va posar
+  del costat de la companyia contra el Consell**, de manera que **«á las gentes
+  poco enteradas les parecía que el Consejo General se oponía al juego y que el
+  Sr. Obispo lo patrocinaba»**. **Ni la companyia, ni la data de la concessió, ni
+  si es va arribar a jugar, no consten.** Vegeu [semblava que el bisbe patrocinava
+  el joc](../../historia/segle-xix/semblava-que-el-bisbe-patrocinava-el-joc.md).
