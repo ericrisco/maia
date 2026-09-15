@@ -272,9 +272,15 @@ sencera, amb el que la font hi afegeix:**
 
 ## Buits registrats
 
-1. **El final de la frase de la p. 287** sobre per què no és jurídic que el Consell
-   General reparteixi jurisdiccions. **L'extracció la talla.**
-   `Requereix la pàgina impresa.`
+1. ~~**El final de la frase de la p. 287** sobre per què no és jurídic que el
+   Consell General reparteixi jurisdiccions.~~ — **Tancat el 21-09-2026**: «*res
+   no és menys jurídic que prestar al Consell, **quan existeix una autoritat
+   superior i desinteressada**, un paper en què és **alhora jutge i part***»
+   ([el Manual Digest va desnaturar el privilegi](./el-manual-digest-va-desnaturar-el-privilegi.md)).
+   **El que hi faltava era l'argument, no la conclusió**: **la font no diu només
+   que el Consell sigui part, diu que n'hi ha una altra que no ho és i que per
+   això no cal.** **Que aquella autoritat siguin els coprínceps és lectura del
+   corpus: la font no els anomena aquí.**
 2. **Els decrets del Consell General del 18 de juny i del 2 de juliol de 1887**,
    **i per què es va rectificar en catorze dies.** **Prioritari**: **és una
    deliberació andorrana sobre el còmput dels feriats, un any abans que el decret

@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**919** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**920** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -940,6 +940,7 @@
 | [El demandat segueix el demandant](temes/institucions/justicia/el-demandat-segueix-el-demandant.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [El dret supletori](temes/institucions/justicia/el-dret-supletori.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [El dret andorrà vigent](temes/institucions/justicia/el-dret-vigent.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [El Manual Digest va desnaturar el privilegi](temes/institucions/justicia/el-manual-digest-va-desnaturar-el-privilegi.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [El notariat](temes/institucions/justicia/el-notariat.md) | `temes/institucions/justicia` | compilada | contemporania | no | `rodriguez-minana-notaris` |
 | [El procés penal](temes/institucions/justicia/el-proces-penal.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El qui tastava el vi i posava el preu de la fruita](temes/institucions/justicia/el-qui-tastava-el-vi-i-posava-el-preu-de-la-fruita.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
