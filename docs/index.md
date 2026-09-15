@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**986** documents · **192** fonts · **39** aptes com a model de llengua · **124** temes amb contingut.
+**987** documents · **192** fonts · **39** aptes com a model de llengua · **124** temes amb contingut.
 
 ## fonts
 
@@ -1110,6 +1110,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Quan la parròquia no nomena metge, el quart ho pot fer](temes/institucions/quarts-i-veinats/quan-la-parroquia-no-nomena-metge-el-quart-ho-pot-fer.md) | `temes/institucions/quarts-i-veinats` | compilada | contemporania | no | `rios-urruti-andorra-1920` |
 | [Quarts i veïnats](temes/institucions/quarts-i-veinats/quarts-i-veinats.md) | `temes/institucions/quarts-i-veinats` | compilada | contemporania | no | `consell-general-web` |
 
 ## temes/institucions/relacions-exteriors

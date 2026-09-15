@@ -161,7 +161,14 @@ medieval que el seu costum](../../historia/antic-regim/landorra-es-mes-medieval-
    pratz et comus he aygueres*», «*fer comus pratz e cloure aquelz*», **com
    antigament**. Vegeu [que les aygües públiques pertany a aquesta
    casa](../../institucions/consell-general/que-les-aygues-publiques-pertany-a-aquesta-casa.md).
-4. **Si el *Consell de les bohigues* encara existeix** en algun comú.
+4. **Si el *Consell de les bohigues* encara existeix** en algun comú. — **`parcial`
+   des del 16-09-2026**: **el 1918 encara es feia, i era un dels cinc consells
+   ordinaris de l'any de cada parròquia**, al costat dels dels Innocents, de les
+   talles, de la Pasqua de l'Esperit Sant i de Sant Miquel ([quan la parròquia no
+   nomena metge, el quart ho pot
+   fer](../../institucions/quarts-i-veinats/quan-la-parroquia-no-nomena-metge-el-quart-ho-pot-fer.md)).
+   **El que segueix obert és si existeix avui**, i **quin dia de l'any queia**,
+   que és l'únic dels cinc que la font no situa.
 5. **Les *terres de guarda***, els ***antoxans***, el ***condal*** i el
    ***violari***: capítols del mateix llibre que el corpus **encara no ha llegit**.
    — **`parcial` des del 2026-09-18: tres dels quatre ja són llegits.**

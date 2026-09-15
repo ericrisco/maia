@@ -28,6 +28,15 @@ No són el mateix a tot el país, i aquest és el detall que no se sap des de fo
 Les altres tres parròquies —Encamp, Andorra la Vella i Escaldes-Engordany— no
 tenen aquesta divisió.
 
+> **Una font del 1918 no compta igual — 16-09-2026.** **Fernando de los Ríos
+> Urruti escriu que «no existe el Quart en todas las parroquias, pues *hay dos,
+> Encamp y Canillo, que carecen de él*»** (./quan-la-parroquia-no-nomena-metge-el-quart-ho-pot-fer.md).
+> **Coincideix amb aquesta fitxa en Encamp i no en la resta.** `Hipòtesi del
+> corpus, no de la font: si a Canillo la institució es diu veïnat, qui compta
+> quarts no n'hi trobarà cap.` **El que no es reconcilia és Andorra la Vella**,
+> que aquí consta sense divisió i que aquella font no esmenta. **Escaldes-Engordany
+> queda fora: el 1918 no era parròquia.**
+
 ## Per què importa
 
 El quart no és una subdivisió administrativa moderna dibuixada sobre un mapa.
@@ -52,9 +61,25 @@ De les set parròquies, **Canillo és la més rica en béns comunals**.
 
 1. **La presidència era rotatòria i per torn de cases**, un any cadascú. No és un
    càrrec electe ni hereditari: **toca**.
+
+   > **DIVERGÈNCIA REGISTRADA — 16-09-2026.** **Ríos Urruti, el 1918, diu que
+   > l'òrgan executiu del quart és unipersonal i que correspon «*si hay algún
+   > cónsul en el Quart, a él, y si no, a uno de los consejeros que hubiese sido
+   > nombrado para representar al Quart en el órgano de gobierno parroquial*»**
+   > (./quan-la-parroquia-no-nomena-metge-el-quart-ho-pot-fer.md). **Un sistema és rotatori i domèstic; l'altre deriva del
+   > càrrec.** `El corpus no arbitra: poden ser dues èpoques, dos quarts, o dues
+   > funcions distintes —presidir i executar—, i cap de les dues fonts no diu de
+   > quin quart parla.`
 2. Administraven **els béns comuns** — cosa que la fitxa ja apuntava.
 3. **Contractaven el mestre i el metge.** És a dir: **educació i sanitat
    contractades al nivell del poble**, segles abans que hi hagués res públic.
+
+   > **Amb una condició, segons una altra font — 16-09-2026.** **«*Cuando la
+   > parroquia no designa médico o maestro, el Quart lo puede hacer*»**
+   > (./quan-la-parroquia-no-nomena-metge-el-quart-ho-pot-fer.md). **No és una competència paral·lela: és de reserva.** **El
+   > quart actua quan el comú no ha actuat.** **I encaixa amb l'obligació que la
+   > Reforma del 1866 posa al comú** —un mestre i una mestra per parròquia— **i
+   > amb el fet que el 1899 va caldre recordar-la per decret.**
 
 Canturri hi situa també els quarts i els veïnats dins la sèrie de formes
 associatives andorranes, al costat de les consòrcies i les confraries — vegeu

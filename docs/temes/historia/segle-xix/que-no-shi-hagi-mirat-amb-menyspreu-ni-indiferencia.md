@@ -218,6 +218,23 @@ càlcul tanca.**
 > mateix article ho demostra.** `Càlcul del corpus sobre el text, i es pot
 > refer: 2 cònsols + 8 a l'urna = 10; se'n treuen 5, que és la meitat.`
 >
+> **COMPLETAT EL 16-09-2026, i el corpus ja tenia la meitat d'això.**
+> [Vuitanta pessetes per fer reunir el
+> Consell](../../institucions/consell-general/vuitanta-pessetes-per-fer-reunir-el-consell.md)
+> **ja registrava, de Brutails i del 1904, que «la xifra no la fixa expressament
+> la Reforma» i que «l'article 8 dona a suposar que el nombre total de membres
+> del consell de parròquia, cònsols inclosos, és de deu»**, **i que Canillo
+> n'elegia divuit.** **Aquesta fitxa presentava la inferència com a seva i no ho
+> era del tot: el que hi afegeix és el càlcul explícit sobre el text llatí de
+> l'article, que Brutails no tenia a la mà.**
+>
+> **I això obre una qüestió d'independència de fonts, no de xifres:** **Brutails
+> el 1904 i Ríos Urruti el 1918 fan *la mateixa inferència sobre el mateix
+> article* i posen *la mateixa excepció de Canillo*.** `Dues coincidències
+> exactes no són dues observacions separades: pot ser que el segon hagi llegit el
+> primer. Registrat com a concordança, com es va fer amb les tres autoritats
+> franceses de 1904.`
+>
 > **El que queda obert és la divergència amb Vilar**, que el 1904 descriu
 > **catorze**. **Poden ser dues coses** —que els comuns creixessin, o que Vilar
 > compti els sortints— **i el corpus no arbitra.** **Ríos, catorze anys després,
@@ -476,10 +493,16 @@ el sufragi**, que ja era dels caps de casa.
 8. **Si els comuns van complir la disposició d'anar a buscar els costums**, i **si
    en va quedar cap inventari.** **Prioritari**: **seria la llista dels papers que
    el 1866 hi havia a les cases.**
-9. **Què eren «los quatre o cinch consells sapiguts de cada any»** de l'article 12è.
-   **Ríos Urruti en dona cinc, amb nom i data, al capítol IV** —Innocents, talles,
-   Pasqua de l'Esperit Sant, Sant Miquel i boïgues—, **i aquell capítol encara no
-   està destil·lat.** `Es tanca amb la tanda següent.`
+9. ~~**Què eren «los quatre o cinch consells sapiguts de cada any»** de l'article
+   12è.~~ — **`TANCAT` el 16-09-2026**, amb el capítol IV del mateix volum
+   destil·lat ([quan la parròquia no nomena metge, el quart ho pot fer](../../institucions/quarts-i-veinats/quan-la-parroquia-no-nomena-metge-el-quart-ho-pot-fer.md)). **Són cinc, «cada uno es para una especial cosa»**,
+   i **es convoquen «los sabuts y manats a toch de campana»**: **dels Innocents**
+   (28 de desembre, presa de possessió de les noves autoritats), **de les talles**
+   (el dimarts abans de Carnaval: arrendaments, ús dels comunals, **pagament de la
+   quèstia** i atencions imprevistes), **de la Pasqua de l'Esperit Sant** (donar a
+   conèixer les mesures d'interès general), **de Sant Miquel** (fer els
+   arrendaments) i **de les bohigues** (concedir comunals per rompre).
+   `Segueix obert quin dia cau el de les bohigues, que és l'únic sense data.`
 10. **Si hi va haver mai un «Codich general»**, o si la codificació anunciada
     el 1866 i encarregada el 1868 **no va arribar mai a res.**
 

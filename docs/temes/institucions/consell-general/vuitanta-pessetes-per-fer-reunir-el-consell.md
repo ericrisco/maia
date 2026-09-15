@@ -128,6 +128,24 @@ més**, **divuit**, «**si no m'equivoco**».
 fixa expressament la Reforma**, i **l'article 8 dona a suposar que el nombre total
 de membres del consell de parròquia, cònsols inclosos, és de deu** — **cosa que no
 lliga amb «un cònsol major, un segon cònsol i deu consellers», que fan dotze.**
+
+> **La mateixa observació, catorze anys després, i el text que la resol —
+> 16-09-2026.** **Ríos Urruti, el 1918, escriu literalment que «*el párrafo 8.º
+> de la Reforma… da a entender que el número de consejeros es de diez; pero
+> Canillo tiene más*»**, i **descriu el comú com a deu consellers**
+> ([quan la parròquia no nomena metge, el quart ho pot
+> fer](../quarts-i-veinats/quan-la-parroquia-no-nomena-metge-el-quart-ho-pot-fer.md)).
+> **I el text de l'article 8è, que el corpus ja té llegit, ho resol amb
+> aritmètica**: mana posar a sort **tots els membres del comú excepte els dos
+> cònsols**, diu que **són vuit** els que van a l'urna i que **se'n treuen
+> cinc** — **2 + 8 = 10, i 5 és la meitat**
+> ([que no s'hi hagi mirat amb menyspreu ni
+> indiferència](../../historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md)).
+>
+> **Però dues fonts que fan la mateixa inferència sobre el mateix article i posen
+> la mateixa excepció de Canillo no són dues observacions independents.**
+> `Registrat com a concordança, no com a confirmació: pot ser que el segon hagi
+> llegit el primer.` **El que sí que és independent és el text de la llei.**
 `Contradicció interna de la font, registrada i no arbitrada.`
 
 ### El Consell General
