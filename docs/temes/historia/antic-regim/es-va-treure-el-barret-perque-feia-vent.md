@@ -165,6 +165,21 @@ posició**, i **no ho pot sostenir amb cap diccionari ni amb cap altra font**.
 `Requereix comprovació lexicogràfica.` **El mot no és al
 [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md).**
 
+> **Ampliat el 22-09-2026: el ritu és vuitanta anys més antic del que aquesta
+> fitxa tenia.** **Un acte del 18 d'abril de 1472** *(Brutails, p. 298, nota 1)*
+> mostra **el batlle, el substitut del notari, els testimonis i el requeridor
+> anant al lloc**, i **el batlle introduint el requeridor per la mà dreta i
+> lliurant-li un grapat de terra**. **Els dos gestos centrals d'aquestes peces
+> —la mà dreta i el grapat de terra— ja hi són el 1472.** **La peça més antiga
+> d'aquesta fitxa era del 9 de març de 1552.**
+>
+> **I el 1472 el que precedeix la possessió és un encant d'immobles**, «*e s'en
+> ha fets **tres enquants, segons costum de la Terra**»: **els tres encants que
+> aquesta fitxa tenia per la norma del segle XVII, atestats en acte el 1472.**
+> **El mateix dia n'hi ha una segona possessió, a favor d'un fiador** que havia
+> pagat dotze lliures pel deutor principal. **Vegeu**
+> [com no s'haja trobat qui més hi haja donat que jo](../../institucions/justicia/com-no-shaja-trobat-qui-mes-hi-haja-donat-que-yo.md).
+
 **No consta si la tramesa en possessió a distància era regular o excepcional.**
 **El corpus té un cas del 1552 i tres casos on el batlle hi va anar**, i això no
 autoritza cap generalització. **Brutails la titula «à distance», que és una
@@ -186,6 +201,17 @@ entrega de pocessio»—, els immobles **s'encanten tres vegades amb deu dies
 entre encant i encant**, i el desposseït té **un any i un dia** per recuperar la
 finca pagant quantitat i despeses; **passat el termini, ja no la recupera encara
 que pagui.**
+
+> **Els deu dies ara tenen acte, i és anterior al manuscrit.** **19 de juliol de
+> 1580**, requeriment al batlle per un camp lliurat per 131 ducats: **«*se sien
+> fets tres encants en la plassa de Canillo per Antoni Busquets, nuntio jurat…
+> so es **de deu en deu dies un encant, conforme se use en estes Valls***»**
+> *(Brutails, p. 298, nota 1)*. **El manuscrit del segle XVII escrivia una
+> pràctica que el 1580 ja es donava per usada.**
+>
+> **I un desajust amb el 1904 que el corpus no arbitra**: **el cos de la p. 300
+> dona l'interval mínim en **nou dies** per als immobles.** **Deu el 1580, nou el
+> 1904.** `Registrat, no arbitrat.`
 
 **El `cortal dels P.` no s'ha localitzat**, ni cap de les finques d'aquestes
 quatre peces. **Els topònims hi són abreujats o són noms de casa**, i el corpus

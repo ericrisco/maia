@@ -305,9 +305,16 @@ llibre:**
 7. **L'*Instructa*, peces justificatives p. LV** —**quinzena citació**— sobre el
    parell i la bèstia de càrrega. **Prioritari**: **la font la qualifica, amb
    l'obra d'Anton Picart, d'únic escrit oficial del dret andorrà.**
-8. **Els documents de 1412, 1461 i 1635 sencers**, i **qui era el pregoner públic
-   i jurat de les Valls** —**si era un ofici permanent o una designació per
-   encant.**
+8. **Els documents de 1412, 1461 i 1635 sencers.**
+   ~~**Qui era el pregoner públic i jurat de les Valls.**~~ — **CORRECCIÓ,
+   22-09-2026: aquest buit estava mal declarat.** **La mateixa nota que el corpus
+   citava dona el nom**: **Joan Teixidor**, *preco publicum et juratum Vallium
+   Andorre*, **1412**. **El corpus no havia llegit la nota fins al final.**
+   **Queda obert només si era ofici permanent o designació per encant**, i el
+   corpus n'hi afegeix **un segon** —**Antoni Busquets, nunci jurat, fent tres
+   encants a la plaça de Canillo el 1580**— **i una tercera menció del càrrec
+   sense nom**, a la **sentència de les Corts del 15 de novembre de 1533**.
+   **Vegeu** [com no s'haja trobat qui més hi haja donat que jo](./com-no-shaja-trobat-qui-mes-hi-haja-donat-que-yo.md).
 9. **Les constitucions catalanes de 1291 i 1298** sobre els béns que es toquen en
    darrer lloc, i **si la inspiració que la font apunta és demostrable o és una
    conjectura seva.** **Ella hi posa «potser».**

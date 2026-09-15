@@ -585,6 +585,11 @@ que **els recull com a ús popular andorrà dins un text francès**:
 | ***eines del ofici*** | **les eines del ofici del deutor** — **protegides només **si el deutor té terra per cultivar**, segons l'*Instructa*; **no són inembargables en absolut** | ídem |
 | ***preco públic i jurat*** | ***preco publicum et juratum Vallium Andorre*** — **el pregoner de les Valls**, **ofici amb jurament**, **fent l'encant judicial a la Massana el 1412** | ídem |
 | ***enquant públic*** | **la subhasta judicial** — «*enquantu publico de la Maçana*», **1412** | ídem |
+| ***fer tres enquants*** | **el nombre d'encants que calia per poder requerir la possessió** — «*s'en ha fets tres enquants, **segons costum de la Terra**», **1472**; **de deu en deu dies**, **1580** | [com no s'haja trobat qui més hi haja donat que jo](../../institucions/justicia/com-no-shaja-trobat-qui-mes-hi-haja-donat-que-yo.md) |
+| ***postor*** | **el qui fa una oferta a l'encant** — **si no n'hi ha cap que superi el creditor, el bé se li adjudica** | ídem |
+| ***nunci jurat*** | **l'oficial que crida els encants** — **Antoni Busquets, a la plaça de Canillo, 1580** | ídem |
+| ***stil de la Terra*** | **el procediment consuetudinari andorrà**, invocat com a fonament d'una petició al batlle: «*segons lo **stil de la Terra**, vos me metau en possessio*», **1472** | ídem |
+| ***judicadors*** | **els dos perits que taxen i tallen el tros de finca** — **triats «*casi sempre de entre las autoritats*»** *(decret del Consell General, 20-12-1896)* | ídem |
 
 **Cap dels quatre no és a la llista del Servei de Política Lingüística**, i
 **tots quatre són d'un camp que aquesta fitxa no cobreix**: **el vocabulari de

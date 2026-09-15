@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**923** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**924** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -929,6 +929,7 @@
 | [«Cadàver, alça't que la Justícia et demana»](temes/institucions/justicia/cadaver-alsat-que-la-justicia-te-demana.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Cesan los demes tribunals inferiors](temes/institucions/justicia/cesan-los-demes-tribunals-inferiors.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Cinc respostes a la mateixa pregunta](temes/institucions/justicia/cinc-respostes-a-la-mateixa-pregunta.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
+| [Com no s'haja trobat qui més hi haja donat que jo](temes/institucions/justicia/com-no-shaja-trobat-qui-mes-hi-haja-donat-que-yo.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Començava per l'execució i deliberava després](temes/institucions/justicia/comencava-per-lexecucio-i-deliberava-despres.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Cronologia legislativa del segle XX](temes/institucions/justicia/cronologia-legislativa.md) | `temes/institucions/justicia` | compilada | contemporania | no | `pujadas-dret-andorra` |
 | [De saig a batlle, el set de juny de 1456](temes/institucions/justicia/de-saig-a-batlle-el-set-de-juny-de-1456.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
