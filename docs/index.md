@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**943** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**944** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -259,6 +259,7 @@
 | [«Per considerar-se com a pensió alimentícia»](temes/economia/banca-i-fiscalitat/per-considerarse-com-a-pencio-alimenticia.md) | `temes/economia/banca-i-fiscalitat` | compilada | historica | no | `brutails-coutume-1904` |
 | [«Per motiu de sa tant dilatada antiquedad»](temes/economia/banca-i-fiscalitat/per-motiu-de-sa-tant-dilatada-antiquedad.md) | `temes/economia/banca-i-fiscalitat` | compilada | historica | no | `brutails-coutume-1904` |
 | [Però en tot lo demés, al cinc per cent](temes/economia/banca-i-fiscalitat/pero-en-tot-lo-demes-al-cinc-per-cent.md) | `temes/economia/banca-i-fiscalitat` | compilada | historica | no | `brutails-coutume-1904` |
+| [Quatre pàgines que no hi són](temes/economia/banca-i-fiscalitat/quatre-pagines-que-no-hi-son.md) | `temes/economia/banca-i-fiscalitat` | compilada | historica | no | `brutails-coutume-1904` |
 | [Què aprova el pressupost inicial de 2026](temes/economia/banca-i-fiscalitat/que-aprova-el-pressupost-de-2026.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `govern-pressupost-2026` |
 | [Que no es puga quitar carregat, sinó buyt](temes/economia/banca-i-fiscalitat/que-no-es-puga-quitar-carregat-sino-buyt.md) | `temes/economia/banca-i-fiscalitat` | compilada | historica | no | `brutails-coutume-1904` |
 | [Si aquells vells títols donaven dret de rescat](temes/economia/banca-i-fiscalitat/si-aquells-vells-titols-donaven-dret-de-rescat.md) | `temes/economia/banca-i-fiscalitat` | compilada | historica | no | `brutails-coutume-1904` |

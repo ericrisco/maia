@@ -4,7 +4,7 @@ El sistema financer i el canvi de model.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (23)
+## Articles (24)
 - [Ab propris diners y per son propri us](./ab-propris-diners-y-per-son-propri-us.md) — La clàusula que el corpus havia llegit com un dret a tornar a casa vol dir una altra cosa: que no pots manllevar per rescatar.
 - [Abans dels bancs](./abans-dels-bancs.md) — Es prestava sense professionals, es cobraven interessos en espècie o en jornals, i el banc més pròxim era a la Seu.
 - [Banca i fiscalitat](./banca-i-fiscalitat.md) — El 2018 va desaparèixer el secret bancari.
@@ -23,6 +23,7 @@ El sistema financer i el canvi de model.
 - [«Per considerar-se com a pensió alimentícia»](./per-considerarse-com-a-pencio-alimenticia.md) — Una escriptura de cap al 1875 fa inembargable una renda vitalícia perquè les parts ho volen, i porta el nom d'una figura que el mateix autor donava per extingida.
 - [«Per motiu de sa tant dilatada antiquedad»](./per-motiu-de-sa-tant-dilatada-antiquedad.md) — El 1788 es va redimir a Andorra un censal creat el 1456; l'escriptura original no es va trobar de tan vella que era, i es va pagar igual.
 - [Però en tot lo demés, al cinc per cent](./pero-en-tot-lo-demes-al-cinc-per-cent.md) — Un decret del Consell General de 1895 resol una divergència que el corpus tenia registrada i oberta: el tres i terç del bisbe seguia essent llei de la Vall per al censal, i per a tota la resta el Consell i les Corts aplicaven el cinc.
+- [Quatre pàgines que no hi són](./quatre-pagines-que-no-hi-son.md) — L'evidència que el corpus llegeix d'aquest llibre té dos forats de dues pàgines, i cauen al mig de la peça que documenta la venda combinada amb arrendament.
 - [Que no es puga quitar carregat, sinó buyt](./que-no-es-puga-quitar-carregat-sino-buyt.md) — Com es rescatava una finca venuda a carta de gràcia: només buida de blat, només en una finestra de vuit o quinze dies al voltant del 25 de març, i només per al teu propi ús.
 - [Què aprova el pressupost inicial de 2026](./que-aprova-el-pressupost-de-2026.md) — Els crèdits autoritzats, els ingressos previstos i el deute disposat són magnituds diferents; la llei inicial ho distingeix.
 - [Si aquells vells títols donaven dret de rescat](./si-aquells-vells-titols-donaven-dret-de-rescat.md) — Quan els notables ensenyaven els seus pergamins a Brutails, el que volien saber era si en sortia un dret de recompra a favor seu o en contra.
