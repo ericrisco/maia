@@ -247,7 +247,14 @@ ensenya on és la frontera:
    **Prioritari**: **el corpus té la clàusula i cap cas d'aplicació.**
 4. **L'*Instructa* de 1740, peces justificatives p. LIII** —**dissetena
    citació**—, **amb el règim de la denúncia amb instància i sense.**
-   **Prioritari.**
+   **Prioritari.** — **CORRECCIÓ, 23-09-2026: aquest buit estava mal formulat.**
+   **La *Instructa* **no** és un document sense llegir**: el corpus la té
+   destil·lada des del 15-09-2026 a
+   [dos de tres, i les parts no ho saben](./dos-de-tres-i-les-parts-no-ho-saben.md)
+   i a [una creu al prat, sis sous i sis diners](./una-creu-al-prat-sis-sous-i-sis-diners.md).
+   **El recompte de «citacions sense llegir» era erroni.** **El que quedava per
+   fer —i s'ha fet— era comprovar passatge per passatge els llocs que el cos de
+   l'obra en cita.** **Vegeu** [«si la part instant ho vol»](./si-la-part-instant-ho-vol.md).
 5. **El decret episcopal del 30 de setembre de 1853, article 5**, *(Peces
    justificatives, p. II)*, **sobre l'obligació dels cònsols d'informar els
    Veguers.**

@@ -4,7 +4,7 @@ Tribunal de Corts, Batllia, Consell Superior de la Justícia.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (102)
+## Articles (103)
 - [A les galeres d'Espanya, per la neu](./a-les-galeres-despanya-per-la-neu.md) — Els condemnats andorrans anaven a galeres espanyoles i el Politar en dona quatre raons, la segona meteorològica: a l'hivern, la tardor i la primavera no es podien dur a les de França perquè els Pirineus eren plens de neu.
 - [Abrogats el 1839, aplicats el 1889](./abrogats-el-1839-aplicats-el-1889.md) — Com es cobrava un deute a Andorra: la cessió de béns, l'adjudicació d'immobles i el dret de recomprar-los.
 - [Al botxí per sos drets de penjar tres dones](./al-botxi-per-sos-drets-de-penjar-tres-dones.md) — El compte de despeses del juny de 1604 per l'execució de dones acusades de bruixeria a Andorra, amb l'aranzel del botxí i el que van rendir les composicions.
@@ -83,6 +83,7 @@ Tribunal de Corts, Batllia, Consell Superior de la Justícia.
 - [Qui nomena els jutges](./qui-nomena-els-jutges.md) — Cada copríncep designa un dels cinc membres del Consell Superior de la Justícia.
 - [Resoldre sense judici](./resoldre-sense-judici.md) — Andorra té mediació, arbitratge i taxes judicials que no s'apliquen al penal.
 - [Si dos consellers són parents, desapareix una instància](./si-dos-consellers-son-parents-desapareix-una-instancia.md) — Els tribunals de visura exigien quòrum de meitat més un, i en pobles on gairebé tothom és parent sovint dos membres del consell de parròquia no podien seure.
+- [«Si la part instant ho vol»](./si-la-part-instant-ho-vol.md) — La Instructa de 1740 fa la quarta facultativa a instància del creditor, mentre que el privilegi de 1608 la manava «ni més ni manco».
 - [Si no dius a quin copríncep, tria l'altra part](./si-no-dius-a-quin-coprincep-tria-laltra-part.md) — La tercera instància andorrana abans del 1993: el Tribunal Superior de Perpinyà, creat per decret francès el 13 de juliol del 1888, i un prevere amb mandat especial per part del bisbe.
 - [Si no hi ha botxí, el fa el porter](./si-no-hi-ha-botxi-el-fa-el-porter.md) — Porter, nunci, cursor i bastoner eren quatre noms d'una sola persona, i el nom depenia del que estigués fent.
 - [Si només volien ballar, era un altre tribunal](./si-nomes-volien-ballar-era-un-altre-tribunal.md) — Uns joves a qui impedien ballar en un lloc van escriure al Consell General, i la resposta separa dues justícies: si reclamaven la propietat del lloc era un afer civil; si només reclamaven el dret de ballar-hi, eren els tribunals de veheduria.

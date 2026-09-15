@@ -304,7 +304,14 @@ llibre:**
 6. **El decret del Consell General del 23 de març de 1880** sencer.
 7. **L'*Instructa*, peces justificatives p. LV** —**quinzena citació**— sobre el
    parell i la bèstia de càrrega. **Prioritari**: **la font la qualifica, amb
-   l'obra d'Anton Picart, d'únic escrit oficial del dret andorrà.**
+   l'obra d'Anton Picart, d'únic escrit oficial del dret andorrà.** — **CORRECCIÓ, 23-09-2026: aquest buit estava mal formulat.**
+   **La *Instructa* **no** és un document sense llegir**: el corpus la té
+   destil·lada des del 15-09-2026 a
+   [dos de tres, i les parts no ho saben](./dos-de-tres-i-les-parts-no-ho-saben.md)
+   i a [una creu al prat, sis sous i sis diners](./una-creu-al-prat-sis-sous-i-sis-diners.md).
+   **El recompte de «citacions sense llegir» era erroni.** **El que quedava per
+   fer —i s'ha fet— era comprovar passatge per passatge els llocs que el cos de
+   l'obra en cita.** **Vegeu** [«si la part instant ho vol»](./si-la-part-instant-ho-vol.md).
 8. **Els documents de 1412, 1461 i 1635 sencers.**
    ~~**Qui era el pregoner públic i jurat de les Valls.**~~ — **CORRECCIÓ,
    22-09-2026: aquest buit estava mal declarat.** **La mateixa nota que el corpus

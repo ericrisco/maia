@@ -219,7 +219,14 @@ s'endevina:
    té cinc atestacions entre 1412 i 1580 i cap de posterior.**
 6. **L'*Instructa*, peces justificatives p. LI** —**setzena citació**—, **que dona
    per a la cessió de béns un procediment que l'autor diu «*un poc diferent*» del
-   que ell exposa**, **i no diu en què.** **Prioritari.**
+   que ell exposa**, **i no diu en què.** **Prioritari.** — **CORRECCIÓ, 23-09-2026: aquest buit estava mal formulat.**
+   **La *Instructa* **no** és un document sense llegir**: el corpus la té
+   destil·lada des del 15-09-2026 a
+   [dos de tres, i les parts no ho saben](./dos-de-tres-i-les-parts-no-ho-saben.md)
+   i a [una creu al prat, sis sous i sis diners](./una-creu-al-prat-sis-sous-i-sis-diners.md).
+   **El recompte de «citacions sense llegir» era erroni.** **El que quedava per
+   fer —i s'ha fet— era comprovar passatge per passatge els llocs que el cos de
+   l'obra en cita.** **Vegeu** [«si la part instant ho vol»](./si-la-part-instant-ho-vol.md).
 7. **Les peces justificatives p. LXII**, **extracte d'un procediment sobre la
    reclamació d'un creditor en una cessió de béns.**
 8. **La constitució catalana de 1311** *(Constitucions, VII, xiv, 1, p. 440)*,

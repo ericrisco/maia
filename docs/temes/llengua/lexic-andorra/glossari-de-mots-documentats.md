@@ -649,6 +649,11 @@ que **els recull com a ús popular andorrà dins un text francès**:
 | ***peseteros*** | **magistrats «necessitats i cobdiciosos» per als quals «*un crim era una bona ganga*»** — **mot que l'autor dona en cursiva, com a sentit** | [no és bo que el jutge es pagui de les despulles](../../institucions/justicia/no-es-bo-que-el-jutge-es-pagui-de-les-despulles.md) |
 | ***indemnisacio de lo robat*** | **la reparació a la víctima, **inscrita entre les costes del procés*** — **de 100 a 200 pessetes en una taxa de 1896** | ídem |
 | ***gastos*** | **les despeses del tribunal** en una taxa de costes criminals | ídem |
+| ***ressenya*** / ***mostra d'armes*** | **la revista d'armes de les parròquies** — **el dia en què els batlles instruïen els *capitans* i *deseners* en matèria de policia** | [«si la part instant ho vol»](../../institucions/justicia/si-la-part-instant-ho-vol.md) |
+| ***averia de carrey*** | **la bèstia de transport**, distingida de ***lo parell de llaurar*** a la llista del que el batlle podia reservar al pagès | ídem |
+| ***causes mixtes de jurisdicció espiritual*** | **les que tenen una cara civil i una d'eclesiàstica** — **la seducció sota paraula de casament hi entrava, i sense part civil anava al Vicari General d'Urgell** | ídem |
+| ***posar-se a cobert*** | **el motiu que la *Instructa* dona al batlle per informar sempre un Veguer**: **protecció personal seva** | ídem |
+| ***sospita probable*** | **el llindar que permetia als oficials de justícia demanar assistència armada i rondar de nit** | ídem |
 
 **Cap dels quatre no és a la llista del Servei de Política Lingüística**, i
 **tots quatre són d'un camp que aquesta fitxa no cobreix**: **el vocabulari de
