@@ -117,6 +117,27 @@ trencava l'hostatge** *(p. 85)*.
 | **El mateix dia** | **Llibertat sota fiança**: l'inculpat promet constituir-se presoner quan sigui requerit, i **«ne preste sagrament per homenatge de mans y de bocha»** en mà i poder **d'un dels Veguers**, **«en nom y per part dels Consenyors de lesdites Valls de Andorra»** |
 | **5 de setembre de 1603** | **La Justícia imposa una treva de sis mesos entre particulars**, **sota pena de 100 ducats**, amb **jurament i homenatge «de mans y de bocha»** davant el mateix batlle, **en nom dels Cosenyors** |
 
+> **Ampliat el 22-09-2026: la treva de 1603 no era un cas, era un formulari.**
+> **El mateix llibre transcriu, a la p. 314, nota 5, **un acte de treves del 19 de
+> setembre de 1551***: **mateixa durada de sis mesos**, **mateixa pena de cent
+> ducats**, **mateix «*sagrament y homenatge de mans y de boca*»** davant **els
+> batlles de les Valls, en nom dels senyors**. **Cinquanta-dos anys abans i amb
+> les mateixes clàusules.**
+>
+> **I aclareix «*no guiat ni asegurat*».** **L'acte de 1551 diu que, si les treves
+> s'han de tornar, es tornen en poder dels batlles **«*guiats y asegurats ab tres
+> dies d'escombre*»*** —**és a dir sota salvaguarda, amb tres dies per sortir.**
+> **`Lectura del corpus`, feta sobre els dos textos**: ***guiat i assegurat* és
+> estar sota salvaguarda de la Justícia**, **i el fuster de 1603 hi renuncia.**
+>
+> **Amb dues diferències que el corpus registra i no arbitra**: **el de 1551 és
+> **pactat per les parts i rebut pels batlles**** —«*Nosaltres… fermen bonas y
+> leals trevas*»— **i el de 1603 és **imposat per la Justícia***; **i el de 1551
+> hi afegeix **sis mesos més deu dies de *tinencies*** i **la clàusula d'infàmia**:
+> qui la trenca vol ser «*agut y reputat per **bar y traydor** y enemic dels
+> senyors de les Valls*», renunciant a tota llei que l'excusés.
+> **Vegeu** [tres dies d'escombre](./tres-dies-descombre.md).
+
 **«De mans y de bocha».**
 
 **El corpus ja té aquesta fórmula, i en un altre lloc:** al **Pareatge de 1278**,

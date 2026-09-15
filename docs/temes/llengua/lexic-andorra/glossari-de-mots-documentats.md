@@ -621,6 +621,14 @@ que **els recull com a ús popular andorrà dins un text francès**:
 | ***tala*** | **la decisió dels perits sobre la importància del dany** — **ha de ser coneguda dins de tres dies, no comptat el dia del *bandejament*** | ídem |
 | ***bestiar gros*** / ***bestiar menut*** | **classificació **per espècie i no per mida***: **un decret del 22-12-1886 precisa que els vedells paguen com les vaques** | ídem |
 | ***tardivalls*** | **un dels conreus protegits pel ban**, al costat del blat i les «*herbas maencas o artificials*» — **`significat no comprovat`** | ídem |
+| ***paus i treves*** | **la treva jurada entre dos bàndols familiars** — **sis mesos**, pena de **cent ducats d'or**, jurada «*de mans y de boca*» davant els batlles, **1551 i 1603** | [tres dies d'escombre](../../institucions/justicia/tres-dies-descombre.md) |
+| ***tinencies*** | **la cua de vigència afegida al termini principal d'una treva**: «*sis meses, **ab deu dies de tinencies***», 1551 — **`significat no comprovat`** | ídem |
+| ***guiat i assegurat*** | **estar sota salvaguarda de la Justícia** — qui hi renuncia jura tornar «*no guiat ni asegurat*» | ídem |
+| ***escombre*** | **els tres dies de sortida que es donaven en tornar unes treves**, 1551 — **`el corpus té el mot en un altre context amb sentit aparentment distint i no els identifica`** | ídem |
+| ***bar i traïdor*** | **la infàmia que les parts s'aplicaven a si mateixes per endavant** si trencaven les treves, **renunciant a tota llei que les n'excusés** | ídem |
+| ***factors i valedors*** | **els qui actuen per un i els qui el sostenen** — **els bàndols que entren en unes treves, al costat de parents i amics** | ídem |
+| ***instancia de part*** / ***instancia fiscal*** | **querella amb part civil** / **d'ofici** — **amb instància l'acusat va a la presó a despeses del querellant; sense, el querellant és remès al vicari general** | ídem |
+| ***mostres*** | **les peces que el batlle feia consignar en un registre destinat a les Corts**: **les queixes dels particulars o les conclusions de la instrucció** | ídem |
 
 **Cap dels quatre no és a la llista del Servei de Política Lingüística**, i
 **tots quatre són d'un camp que aquesta fitxa no cobreix**: **el vocabulari de
