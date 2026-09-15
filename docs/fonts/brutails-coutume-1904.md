@@ -161,3 +161,22 @@ Vilar— van sortir del mateix tribunal, amb el mateix suport i les mateixes
 persones al voltant.** **Quan coincideixen, això és concordança, no confirmació
 independent.** Vegeu [va afegir a la sentència coses que ningú no havia
 demanat](../temes/institucions/justicia/va-afegir-a-la-sentencia-coses-que-ningu-no-havia-demanat.md).
+
+## La finalitat declarada de l'encàrrec — 17-09-2026
+
+**L'altra font francesa de 1904 diu per a què el govern francès va encarregar
+aquesta obra** *(Vilar, *L'Andorre*, p. 59, nota 1)*:
+
+> «*Le gouvernement français a chargé **M. Brutails, archiviste de la Gironde,
+> d'étudier la coutume **en vue d'une codification***. Ce travail vient d'être
+> publié.*»
+
+**El corpus ja sabia que l'autor escrivia en missió oficial.** Això hi afegeix
+**la finalitat**: **no descriure el costum, sinó aixecar-ne acta amb vista a
+codificar-lo.**
+
+**Conseqüència per a la lectura, i no en retira res:** **un codificador ha de
+decidir què és regla i què és desviació.** Quan aquesta obra qualifica un ús
+d'abusiu, de mal fundat o de recent, **ho fa des d'aquesta posició**, no com a
+observador neutre. Vegeu
+[«Predicar miserias y flaquesas de las Valls»](../temes/historia/manual-digest/predicar-miserias-y-flaquesas-de-las-valls.md).

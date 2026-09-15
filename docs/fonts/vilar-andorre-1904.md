@@ -176,11 +176,11 @@ la paginació impresa de l'exemplar.**
 | Tram | Què hi ha | Estat |
 |---|---|---|
 | **pp. 13-23** | **capítol I de la primera part, «Avant les paréages»** | ~~sense unitat~~ — **destil·lat el 17-09-2026** a [villa, o tota la vall](../temes/historia/origens/villa-o-tota-la-vall.md), amb el retrat de país de les pp. 9-11 |
-| **pp. 31-33** | final del capítol dels pareatges | **sense unitat** |
+| **pp. 30-33** | final del capítol dels pareatges | **destil·lat el 17-09-2026** a [«Predicar miserias y flaquesas de las Valls»](../temes/historia/manual-digest/predicar-miserias-y-flaquesas-de-las-valls.md) |
 | **pp. 41-50** | **segona meitat d'«Après les paréages»**: la comissió de límits del baró de Las Courbières i l'adjudicació de la Solana | ~~sense unitat~~ — **destil·lat el 17-09-2026** a [dotze anys amb un sol copríncep](../temes/historia/segle-xix/dotze-anys-amb-un-sol-coprincep.md) |
-| **pp. 58-63** | final del capítol de la forma del govern | **sense unitat** |
-| **pp. 85-86** | frontissa entre el capítol II i el III de la segona part | **sense unitat** |
-| **pp. 115-122** | obertura de la tercera part i primeres pàgines de la qüestió de la sobirania | **sense unitat**; el contingut —la carta de Casañas del 12-08-1894 i el manifest— **el corpus el té en castellà, de l'original** |
+| **pp. 57-63** | final del capítol de la forma del govern | **destil·lat el 17-09-2026**, mateixa fitxa |
+| **pp. 84-86** | frontissa entre el capítol II i el III de la segona part | **destil·lat el 17-09-2026**, mateixa fitxa |
+| **pp. 115-122** | obertura de la tercera part i primeres pàgines de la qüestió de la sobirania | **declarat cobert el 17-09-2026**: el contingut —la carta de Casañas del 12-08-1894 i el manifest— **el corpus el té en castellà, de l'original**, i la traducció francesa no hi afegeix res |
 | **pp. 129-134** | final del capítol de la sobirania | **sense unitat de registre**, però **distil·lat** a `qui-parlava-per-andorra.md`, escrit abans que aquesta font entrés al registre per unitats |
 | **pp. 159-173** | **annex 1r: el text sencer del Pariatge de 1278**, traduït del text del Ministeri de Justícia de París | **destil·lat el 17-09-2026** a [el bisbe té sostre i el comte no](../temes/historia/pareatge/el-bisbe-te-sostre-i-el-comte-no.md) |
 | **pp. 173-180** | **annex 2n: tres sentències del Tribunal Superior d'Andorra**, una per cada desenllaç | **destil·lat el 17-09-2026** a [va afegir a la sentència coses que ningú no havia demanat](../temes/institucions/justicia/va-afegir-a-la-sentencia-coses-que-ningu-no-havia-demanat.md) |

@@ -94,6 +94,13 @@ I una que va sortir del país:
 
 **El 1879 els dos costumaris andorrans es van copiar i enviar a París.**
 
+> **I amb quina forma jurídica — 17-09-2026.** **L'altra font francesa del mateix
+> any precisa que el que hi ha al ministeri de Justícia és «*une **copie
+> authentique, certifiée par le syndic Moles et le préfet de l'Ariège** en
+> 1879*»** ([«Predicar miserias y flaquesas de las Valls»](./predicar-miserias-y-flaquesas-de-las-valls.md)).
+> **No és una transcripció qualsevol: hi van posar la fe pública de les dues
+> bandes.**
+
 > **I què se'n va fer — 17-09-2026.** **Vint-i-cinc anys després, aquell dipòsit
 > és la base d'un llibre francès sobre Andorra**: **la bibliografia de Vilar
 > (1904) cita la mateixa biblioteca per al Manual Digest, per al Politar **i per

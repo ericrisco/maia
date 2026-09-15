@@ -255,9 +255,14 @@ Pariatges**, **comte Gastó i bisbe Pere de Narbona**, **tretze conclusions**—
    adversari— i segueix sense trobar-se.** **Prioritari.**
 5. **La butlla de Martí IV.** **Dues dates registrades i cap document.**
    **Prioritari.**
-6. **La informació feta a la cort d'Andorra el 1404**, i **la signatura completa
-   dels Arxius de Perpinyà**. **La nota queda truncada.** **Prioritari, i és la
-   pista d'arxiu més concreta que la sèrie ha donat.**
+6. **La informació feta a la cort d'Andorra el 1404.** **`SIGNATURA COMPLETADA
+   EL 17-09-2026`**, a les pàgines següents del mateix volum: **«*Copie de la dite
+   information faite par ordre de Bernard d'Espagne, seigneur de Ramafort,
+   sénéchal, et de Bernard d'Héliot, juge ordinaire du Comté de Foix (Archives de
+   Perpignan. **Série C. — 2098, liasse**)*»**
+   ([«Predicar miserias y flaquesas de las Valls»](../manual-digest/predicar-miserias-y-flaquesas-de-las-valls.md)).
+   **Sèrie, número i lligall.** **El document en si segueix sense veure's**, i
+   **és la pista d'arxiu més precisa que el corpus té.**
 7. **Bernat d'Espanya, senyor de Ramafort, senescal**, i **Bernat d'Héliot, jutge
    ordinari del comtat de Foix**: **quan exercien i què més en queda.**
 8. **A qui es va presentar l'escrit de concòrdia de 1347**: **cúria o consell

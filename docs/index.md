@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**975** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**976** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -821,6 +821,7 @@
 | [El Politar andorrà, llegit](temes/historia/manual-digest/el-politar.md) | `temes/historia/manual-digest` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Els costumaris andorrans](temes/historia/manual-digest/els-costumaris-andorrans.md) | `temes/historia/manual-digest` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [El Manual Digest](temes/historia/manual-digest/manual-digest.md) | `temes/historia/manual-digest` | compilada | contemporania | no | `viquipedia-ca` |
+| [«Predicar miserias y flaquesas de las Valls, pues es axi»](temes/historia/manual-digest/predicar-miserias-y-flaquesas-de-las-valls.md) | `temes/historia/manual-digest` | compilada | historica | no | `vilar-andorre-1904` |
 
 ## temes/historia/moments-historics
 
