@@ -66,7 +66,16 @@ registre propi — i el corpus ja té branques separades per a
 - Quanta producció pròpia hi ha i quanta és aliena.
 - El marc legal de RTVA i qui la governa.
 - L'audiència: quanta gent d'Andorra mira i escolta RTVA, contra mitjans
-  espanyols i francesos.
+  espanyols i francesos. — **`parcial` des del 2026-09-15: hi ha l'ordre i no
+  hi ha els números.** Un estudi del Servei de Política Lingüística resumeix així
+  l'Observatori del CRES sobre mitjans
+  ([lectura](../../llengua/contacte-de-llengues/els-matrimonis-mixtos-es-dedueixen-del-bilinguisme.md)):
+  **el canal de televisió més vist és en castellà**; **a continuació hi ha una
+  cadena catalana**; **la televisió andorrana «té també una gran audiència,
+  sobretot les notícies»**; i **els mitjans francesos tenen «una audiència més
+  baixa però també representativa»**. **Cap xifra, cap any, cap mostra**: la font
+  remet a `http://www.iea.ad/cres/recerca/acabades/mitjans.htm`.
+  `Requereix font externa: l'IEA/CRES.`
 - Els altres mitjans del país: **Diari d'Andorra**, **El Periòdic**,
   **Altaveu**, **Bondia**, **Ara Andorra**, **Fòrum.ad** — **cadascun mereix
   fitxa**, i tots són font de català d'Andorra escrit contemporani. —

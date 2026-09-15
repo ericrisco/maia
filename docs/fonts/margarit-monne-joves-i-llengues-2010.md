@@ -7,7 +7,7 @@ url: https://www.govern.ad/documents/d/guest/jovesillengua?download=true
 llicencia: drets reservats; dos titulars declarats a la pàgina de crèdits, cap llicència oberta
 redistribucio: "no"
 data_consulta: 2026-09-13
-abast: Crèdits, índex i objectius llegits. Segona part, apartats 1 a 3 —hipòtesis (p. 89-96), metodologia (p. 97-104) i dinàmica dels sis grups de discussió (p. 105-118)— llegits sencers i destil·lats. Primera part, apartat 4 sencer llegit i destil·lat —la població d'Andorra i les línies de segmentació (p. 51-62), la situació sociolingüística (p. 62-72) i els sistemes educatius (p. 72-77)—. Primera part apartats 1-3 i 4.5 (p. 19-50 i 78-88), anàlisi dels vuit centres d'interès (p. 119-244), conclusions (p. 245 i seg.) i annexos, sense llegir.
+abast: Crèdits, índex i objectius llegits. Segona part, apartats 1 a 3 —hipòtesis (p. 89-96), metodologia (p. 97-104) i dinàmica dels sis grups de discussió (p. 105-118)— llegits sencers i destil·lats. Primera part, apartat 4 sencer llegit i destil·lat en quatre unitats —la població d'Andorra i les línies de segmentació (p. 51-62), la situació sociolingüística (p. 62-72), els sistemes educatius (p. 72-77) i les relacions interlingüístiques (p. 78-88)—. Primera part apartats 1-3 (p. 19-50), anàlisi dels vuit centres d'interès (p. 119-244), conclusions (p. 245 i seg.) i annexos, sense llegir.
 notes: >
   Ajut a la investigació lingüística Lídia Armengol Vila 2006; dipòsit legal
   AND.1121-2010; ISBN 978-99920-0-583-5. El portal del Govern la titula «2006»,
@@ -181,6 +181,22 @@ participant al llibre**, i **aquest corpus només en fa servir agregats.**
 > mateix que el text de la seva pàgina. **Dues peces de catorze; el corpus no en
 > fa un patró.**
 
+## El que aquest llibre aporta i el que només transporta
+
+**Registrat el 15-09-2026, després de llegir l'apartat 4 sencer.** **La primera
+part és, en bona mesura, un estat de la qüestió**: recull xifres d'altres estudis
+—l'enquesta de població del Servei, l'estudi escolar del 2002, Bastida, el Cens
+Comunal, Areny, l'Observatori del CRES— **i hi aplica marcs teòrics forans**
+(Haarmann, Ballarín, Bastardas, Querol, Turell).
+
+**El corpus reté les xifres i els documents amb la seva pàgina, i deixa fora el
+bastiment teòric**, que no és un fet andorrà comprovable. **La conseqüència
+pràctica és que gairebé tot el que s'ha destil·lat d'aquesta primera part és
+citació de segona mà**, i **cada peça porta la seva advertència**: el gràfic del
+2007 d'Areny, la nota informe del 1972, el projecte lingüístic del 1989, els dos
+convenis amb referència de BOPA, les xifres del Cens Comunal i les de l'Observatori.
+**Cap d'aquestes fonts primàries no és al repositori.**
+
 ## Estat de lectura
 
 | Tram | Estat |
@@ -190,7 +206,8 @@ participant al llibre**, i **aquest corpus només en fa servir agregats.**
 | **1a part, §§ 4.1 i 4.2** (la població d'Andorra i les línies de segmentació interna, pp. 51-62) | **destil·lat el 16-09-2026** |
 | **1a part, § 4.3** (la situació sociolingüística, pp. 62-72) | **destil·lat el 16-09-2026** |
 | **1a part, § 4.4** (els sistemes educatius, pp. 72-77) | **destil·lat el 15-09-2026** — **en dos articles**: [educació](../temes/societat/educacio/els-andorrans-estudiaven-sobretot-en-escoles-franceses.md) i [demografia](../temes/societat/demografia/tres-quartes-parts-del-creixement-van-arribar-de-fora.md) |
-| **1a part, §§ 1-3 i 4.5** (pp. 19-50 i 78-88) | **sense llegir** — **prioritari el § 4.5**, les relacions interlingüístiques |
+| **1a part, § 4.5** (les relacions interlingüístiques, pp. 78-88) | **destil·lat el 15-09-2026** — [lectura](../temes/llengua/contacte-de-llengues/els-matrimonis-mixtos-es-dedueixen-del-bilinguisme.md). **Amb això l'apartat 4 sencer queda llegit** |
+| **1a part, §§ 1-3** (pp. 19-50) | **sense llegir** — marc teòric: llengua, cultura i identitat; adquisició de segona llengua; la identitat |
 | **2a part, §4** (anàlisi dels vuit centres d'interès, pp. 119-244) | **sense llegir** |
 | **3a part** (conclusions, pp. 245 i seg.) | **sense llegir** |
 | **Annexos** (el qüestionari) | **sense llegir** |

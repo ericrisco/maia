@@ -221,6 +221,39 @@ real**, perquè **entre els majors de 18 anys els andorrans són al voltant del
 la nacionalitat del 5 d'octubre del 1995**
 ([la normativa migratòria](./la-normativa-migratoria.md)).
 
+## Quants eren, i de qui eren fills — 15-09-2026
+
+**Becat va descriure la categoria el 1989 i va dir que no es podia saber qui
+eren.** **El Registre del Cens Comunal del desembre del 2007 en dona la mida i la
+filiació**, citat per Margarit i Monné
+([lectura](../../llengua/contacte-de-llengues/els-matrimonis-mixtos-es-dedueixen-del-bilinguisme.md)):
+
+> **«dels 30.441 andorrans registrats als cens dels comuns, 5.384 (el 17,69%)
+> són nascuts andorrans.»**
+
+| Origen dels pares | % del col·lectiu | Nombre implícit |
+| --- | ---: | ---: |
+| **Espanyol** | **41,7** | ≈ 2.245 |
+| **Portuguès** | **31,2** | ≈ 1.680 |
+| **Nascuts al Principat** | **10,7** | ≈ 576 |
+| **No declarat a la font** | **16,4** | ≈ 883 |
+
+`Nombres calculats pel corpus sobre 5.384; la font només dona percentatges, i els
+tres que dona sumen 83,6.`
+
+**Un de cada deu té els pares nascuts a Andorra.** I **el registre mateix
+adverteix per què compta aquest col·lectiu a part**: **«el fenomen dels nascuts
+andorrans desvirtua lleugerament els indicadors demogràfics perquè els pares
+tenen una nacionalitat diferent de la dels fills».** **És exactament el problema
+que Becat plantejava el 1989, dit per l'administració que porta el registre.**
+
+**I posa un sostre a la pregunta que aquesta fitxa deixava oberta.** Si tot aquest
+col·lectiu és el que abans anava a part, **la recuperació del pes dels andorrans
+el 2007 —36,62 %— seria del 30,14 % sense ells: sis punts i mig.** `Càlcul del
+corpus: (30.441 − 5.384) ÷ 83.137.` **És un màxim, no una mesura**: **el llibre
+fa servir «nats a Andorra» i «nascuts andorrans» en apartats diferents i enlloc no
+diu que siguin la mateixa categoria.**
+
 ## Buits registrats
 
 > **Auditats contra la resta del corpus el 2026-09-13.** **Dels sis, un era
@@ -231,7 +264,11 @@ la nacionalitat del 5 d'octubre del 1995**
    quants són, quan desapareix.~~ — **`parcial`, i les tres preguntes tenen ara
    dues respostes i mitja.** **Quan apareix: 1975**, i ja era en aquesta fitxa
    (Ros Pascuet). **Quants són: més de 7.000 a principi dels anys 90**
-   ([la composició per nacionalitats](../demografia/la-composicio-per-nacionalitats.md)).
+   ([la composició per nacionalitats](../demografia/la-composicio-per-nacionalitats.md)),
+   **i 5.384 el desembre del 2007**, amb el col·lectiu ja fos dins la casella
+   «andorrans» — **el 17,69 % dels 30.441 andorrans registrats al Cens Comunal**
+   ([els matrimonis mixtos es dedueixen del bilingüisme](../../llengua/contacte-de-llengues/els-matrimonis-mixtos-es-dedueixen-del-bilinguisme.md)).
+   **Dos punts de sèrie i divuit anys entre ells.**
    **Quan desapareix: no desapareix, es fon dins «andorrana»** — secció de dalt.
    **El que segueix obert és la sèrie any per any.**
    `Requereix font externa: els censos i padrons del Departament d'Estadística.`

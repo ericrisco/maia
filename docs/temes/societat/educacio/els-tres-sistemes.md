@@ -41,6 +41,17 @@ anys, i **l'escola va anar primera**.
 | **Espanyol** (laic i congregacional) | **castellà** | **Ministeri d'Educació i Ciència de Madrid** |
 | **Francès** | **francès** | **Ministeri d'Educació Nacional francès** |
 
+> **Divergència registrada el 2026-09-15, i no arbitrada.** **Aquesta taula dona
+> el castellà com a llengua vehicular de tot el sistema espanyol, laic i
+> congregacional**, amb l'excepció d'«algun col·legi de monges» que el cos de
+> l'article esmenta més avall. **Margarit i Monné (2010) diuen el contrari sense
+> excepcions**: **«el català és la llengua vehicular en el sistema andorrà i en el
+> congregacional espanyol»**
+> ([els matrimonis mixtos es dedueixen del bilingüisme](../../llengua/contacte-de-llengues/els-matrimonis-mixtos-es-dedueixen-del-bilinguisme.md)).
+> **Set anys separen les dues afirmacions**; pot ser un canvi real, un abast
+> diferent —«algun» contra «el sistema»— o un error. **Les dues queden escrites.**
+> `Requereix el projecte lingüístic dels centres congregacionals.`
+
 **Dos dels tres sistemes escolars d'un estat sobirà depenen de ministeris
 estrangers.** No és una anècdota administrativa: és **la peculiaritat més gran
 de l'estructura educativa andorrana** i explica bona part de la història

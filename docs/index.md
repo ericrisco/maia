@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**994** documents · **194** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**995** documents · **194** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1137,6 +1137,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Contacte de llengües](temes/llengua/contacte-de-llengues/contacte-de-llengues.md) | `temes/llengua/contacte-de-llengues` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 | [El primer grup no va arribar a ser un grup](temes/llengua/contacte-de-llengues/el-primer-grup-no-va-arribar-a-ser-un-grup.md) | `temes/llengua/contacte-de-llengues` | compilada | contemporania | no | `margarit-monne-joves-i-llengues-2010` |
+| [Els matrimonis mixtos es dedueixen del bilingüisme perquè no se'n tenen dades](temes/llengua/contacte-de-llengues/els-matrimonis-mixtos-es-dedueixen-del-bilinguisme.md) | `temes/llengua/contacte-de-llengues` | compilada | contemporania | no | `margarit-monne-joves-i-llengues-2010` |
 | [Nacionalitat no és llengua](temes/llengua/contacte-de-llengues/nacionalitat-no-es-llengua.md) | `temes/llengua/contacte-de-llengues` | compilada | contemporania | no | `serra-llengues-i-identitats-2024` |
 | [Un de cada cinc no sabia quina era la llengua oficial](temes/llengua/contacte-de-llengues/un-de-cada-cinc-no-sabia-quina-era-la-llengua-oficial.md) | `temes/llengua/contacte-de-llengues` | compilada | contemporania | no | `margarit-monne-joves-i-llengues-2010` |
 
