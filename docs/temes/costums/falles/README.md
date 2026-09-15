@@ -4,5 +4,5 @@ Sant Joan i les variants per parròquia. Patrimoni immaterial de la UNESCO.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-> Branca buida. El contingut arriba a la fase 2 (`temes/`) i a la fase 3 (`parla/`),
-> amb investigació profunda i la font citada a cada afirmació.
+## Articles (1)
+- [Les falles](./falles.md) — Fer girar el foc la nit més curta.

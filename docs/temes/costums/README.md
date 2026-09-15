@@ -4,5 +4,15 @@ L'any andorrà, festa a festa.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-> Branca buida. El contingut arriba a la fase 2 (`temes/`) i a la fase 3 (`parla/`),
-> amb investigació profunda i la font citada a cada afirmació.
+## Subbranques
+- [Calendari festiu](./calendari-festiu/README.md)
+- [Caramelles](./caramelles/README.md)
+- [Danses](./danses/README.md)
+- [Falles](./falles/README.md)
+- [Festes majors](./festes-majors/README.md)
+- [Gegants](./gegants/README.md)
+- [Meritxell](./meritxell/README.md)
+- [Religiositat](./religiositat/README.md)
+- [Ritus de pas](./ritus-de-pas/README.md)
+- [Sant Antoni](./sant-antoni/README.md)
+

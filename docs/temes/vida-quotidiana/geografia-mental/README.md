@@ -4,5 +4,5 @@
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-> Branca buida. El contingut arriba a la fase 2 (`temes/`) i a la fase 3 (`parla/`),
-> amb investigació profunda i la font citada a cada afirmació.
+## Articles (1)
+- [La geografia mental](./geografia-mental.md) — Com divideix el país un andorrà quan parla: parròquies altes i baixes, baixar a la Seu, pujar a França.

@@ -4,5 +4,6 @@ Català, castellà, francès, portuguès. El multilingüisme real i com es barre
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-> Branca buida. El contingut arriba a la fase 2 (`temes/`) i a la fase 3 (`parla/`),
-> amb investigació profunda i la font citada a cada afirmació.
+## Articles (2)
+- [Contacte de llengües](./contacte-de-llengues.md) — Quatre llengües en un país de 85.000 persones, i un sistema escolar triple que les reparteix.
+- [Nacionalitat no és llengua](./nacionalitat-no-es-llengua.md) — Un estudi oficial classifica Andorra en nou grups etnolingüístics en lloc de per passaport, i avisa que les seves xifres no es poden comparar amb l'enquesta d'usos lingüístics.

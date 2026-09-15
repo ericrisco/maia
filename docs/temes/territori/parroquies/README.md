@@ -4,5 +4,12 @@ Una branca per parròquia. Cadascuna té festes, danses i toponímia pròpies.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-> Branca buida. El contingut arriba a la fase 2 (`temes/`) i a la fase 3 (`parla/`),
-> amb investigació profunda i la font citada a cada afirmació.
+## Subbranques
+- [Andorra la Vella](./andorra-la-vella/README.md)
+- [Canillo](./canillo/README.md)
+- [Encamp](./encamp/README.md)
+- [Escaldes-Engordany](./escaldes-engordany/README.md)
+- [La Massana](./la-massana/README.md)
+- [Ordino](./ordino/README.md)
+- [Sant Julià de Lòria](./sant-julia-de-loria/README.md)
+

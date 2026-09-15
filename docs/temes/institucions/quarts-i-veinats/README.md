@@ -4,5 +4,5 @@ Les subdivisions sota la parròquia i els béns comunals. Probablement el terme 
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-> Branca buida. El contingut arriba a la fase 2 (`temes/`) i a la fase 3 (`parla/`),
-> amb investigació profunda i la font citada a cada afirmació.
+## Articles (1)
+- [Quarts i veïnats](./quarts-i-veinats.md) — Les divisions sota la parròquia, on viu la forma més antiga d'organització andorrana.

@@ -4,5 +4,11 @@ Què es menja, quan, i com se'n diu.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-> Branca buida. El contingut arriba a la fase 2 (`temes/`) i a la fase 3 (`parla/`),
-> amb investigació profunda i la font citada a cada afirmació.
+## Subbranques
+- [Begudes](./begudes/README.md)
+- [Calendari gastronòmic](./calendari-gastronomic/README.md)
+- [Història alimentària](./historia-alimentaria/README.md)
+- [Plats](./plats/README.md)
+- [Productes](./productes/README.md)
+- [Rebosteria](./rebosteria/README.md)
+

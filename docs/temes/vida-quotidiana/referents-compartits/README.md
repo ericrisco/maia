@@ -4,5 +4,5 @@ El que tothom sap i ningú explica. Si un model ho falla, se li nota de seguida.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-> Branca buida. El contingut arriba a la fase 2 (`temes/`) i a la fase 3 (`parla/`),
-> amb investigació profunda i la font citada a cada afirmació.
+## Articles (1)
+- [Referents compartits](./referents-compartits.md) — El que un andorrà pot donar per sabut quan parla amb un altre andorrà.

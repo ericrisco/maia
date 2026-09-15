@@ -4,5 +4,8 @@ Els noms de lloc i el que expliquen de qui hi vivia i de què hi feia.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-> Branca buida. El contingut arriba a la fase 2 (`temes/`) i a la fase 3 (`parla/`),
-> amb investigació profunda i la font citada a cada afirmació.
+## Articles (4)
+- [El substrat als noms de lloc](./el-substrat-als-noms-de-lloc.md) — Canillo s'escriu kanillave l'any 860 i caniyoll el 1295.
+- [L'Hortó no és cap hort](./lhorto-no-es-cap-hort.md) — Els noms de lloc andorrans que semblen horts són a 1.500 metres i sempre en vessants d'esllavissada.
+- [La toponímia andorrana](./toponimia-andorrana.md) — Menys del 10% dels noms de lloc són d'arrel preromana — molt menys del que se sol dir.
+- [Les tautologies toponímiques](./les-tautologies.md) — El roc del Quer vol dir «el roc del Roc», i el port de Rat, «el port del Port».

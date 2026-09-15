@@ -4,5 +4,5 @@ L'escudella i les benediccions.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-> Branca buida. El contingut arriba a la fase 2 (`temes/`) i a la fase 3 (`parla/`),
-> amb investigació profunda i la font citada a cada afirmació.
+## Articles (1)
+- [Les escudelles de Sant Antoni](./escudelles-de-sant-antoni.md) — El 17 de gener es beneeixen els animals i es reparteix escudella al carrer; a Canillo no se'n diu escudella, se'n diu vianda.

@@ -4,5 +4,6 @@ El procés, el contingut, i què va canviar de veritat.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-> Branca buida. El contingut arriba a la fase 2 (`temes/`) i a la fase 3 (`parla/`),
-> amb investigació profunda i la font citada a cada afirmació.
+## Articles (2)
+- [La Constitució de 1993](./constitucio-1993.md) — L'any que la sobirania va passar dels coprínceps al poble andorrà.
+- [Vuit dies i no més de quinze](./vuit-dies-i-no-mes-de-quinze.md) — La Constitució andorrana dona als coprínceps entre vuit i quinze dies per sancionar una llei, i preveu expressament què passa si un dels dos no la signa: entra en vigor igualment.

@@ -4,5 +4,7 @@ Inventari tancat de lèxic marcat amb la seva equivalència en català central. 
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-> Branca buida. El contingut arriba a la fase 2 (`temes/`) i a la fase 3 (`parla/`),
-> amb investigació profunda i la font citada a cada afirmació.
+## Articles (3)
+- [Glossari de mots andorrans documentats](./glossari-de-mots-documentats.md) — La llista completa de mots que el Servei de Política Lingüística ha proposat al diccionari normatiu, amb definició i estat.
+- [La marca que no vol dir Andorra](./la-marca-que-no-vol-dir-andorra.md) — Al diccionari normatiu, la marca [AD] no vol dir «Andorra»: vol dir «llenguatge administratiu».
+- [Lèxic andorrà](./lexic-andorra.md) — Inventari del vocabulari marcat d'Andorra amb el seu equivalent en català general, i els falsos amics que fan caure qui ve de fora.
