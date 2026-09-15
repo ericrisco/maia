@@ -29,6 +29,23 @@ tags: [historia, economia, societat]
 
 *(Font: Departament d'Estadística d'Andorra.)*
 
+> **El repartiment d'aquest creixement, afegit el 2026-09-15.** **Aquesta fitxa
+> dona el relat i no el mecanisme.** Una sèrie quinquennal que el corpus ha
+> incorporat
+> ([tres quartes parts del creixement van arribar de fora](../../societat/demografia/tres-quartes-parts-del-creixement-van-arribar-de-fora.md))
+> **el parteix en creixement natural i migratori**: **entre 1955 i 2007 el país
+> guanya 76.948 habitants, 19.162 per naixements i 57.786 per migració** —
+> **el 75,1 %**. `Càlcul del corpus.` **Aquella sèrie dona 8.392 per al 1960, que
+> és el valor d'aquesta taula.**
+>
+> **I un any que aquesta taula no pot mostrar:** **el quinquenni 1995-2000 té
+> saldo migratori negatiu, −711**, l'únic de tota la sèrie. **Els anys daurats
+> tenen final, i cau just abans del canvi de segle.**
+
+> **Nota de procedència.** **Aquesta fitxa es va compilar des d'una font
+> secundària** (`wikipedia-anys-daurats`). **Segueix pendent de refer-se contra
+> les sèries del Departament d'Estadística**, que és qui les publica.
+
 **I la població de nacionalitat andorrana passa de ser el 70% a ser-ne el 30%.**
 
 > **La font ho resumeix en una frase que el corpus reté:** **«Andorra va viure

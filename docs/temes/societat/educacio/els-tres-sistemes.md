@@ -70,6 +70,37 @@ seva llengua familiar, l'aprenen en l'àmbit de les relacions informals**», i e
 francès «té una presència social minoritària» i per això l'escola **n'afavoreix
 la presència**. Vegeu [l'Escola Andorrana](./lescola-andorrana.md).
 
+### I onze anys abans, el criteri escrit
+
+**Afegit el 2026-09-15.** **El projecte lingüístic de l'Escola Andorrana, amb
+data del 2 de maig del 1989, diu el mateix i no ho diu igual**, citat per
+Margarit i Monné ([els andorrans estudiaven sobretot en escoles
+franceses](./els-andorrans-estudiaven-sobretot-en-escoles-franceses.md)):
+
+> «**Encara que la llengua pròpia de l'escola sigui la catalana, caldrà assegurar
+> un bon coneixement de les llengües castellana i francesa, ja que també són
+> llengües de relació de treball a Andorra.** Així mateix, es dotaran els recursos
+> necessaris per fer possible que els alumnes puguin estudiar **una quarta llengua
+> viva**.»
+
+**El francès rep el mateix tracte especial que dirà la directora el 2000**, i
+**pel mateix motiu: «la poca presència d'aquesta llengua en el context familiar i
+social de la majoria de l'alumnat».** **Però el castellà no.** El document del
+1989 no diu que s'ajorni: diu que **«la majoria de l'alumnat coneix suficientment
+els registres col·loquials»** i que per això **«s'ha d'accentuar l'ensenyament
+dels registres formals»**, científics i tècnics, «que faciliten l'accés als
+estudis superiors».
+
+**La distinció no és quan s'ensenya el castellà, sinó quin castellà s'ensenya**:
+**el col·loquial el posa el carrer i el formal el posa l'escola.** **Dues fonts
+independents —el projecte del 1989 i la directora general el 2000— descriuen la
+mateixa política amb dues justificacions que no són la mateixa**, i el corpus les
+registra totes dues.
+
+**I l'anglès hi és com a quarta llengua des del 1989**, per la inserció social,
+la intercomunicació «entre els pobles» i **«l'ús eficaç de les noves
+tecnologies»** — **una frase del 1989 que anomena les tecnologies «noves».**
+
 ## La conseqüència lingüística
 
 Molla ho diu sense pal·liatius: els sistemes educatius forans **han suposat un

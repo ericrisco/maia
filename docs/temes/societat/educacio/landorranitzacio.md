@@ -102,7 +102,24 @@ va haver de fer **per la via del conveni**— i això deixa marca.
 ## Buits registrats
 
 - **El text de la Nota Informe de l'Andorranització (1972).** El corpus no l'ha
-  llegit. **Buit prioritari**: és un document fundacional i deu ser curt.
+  llegit. **Buit prioritari**: és un document fundacional i deu ser curt. —
+  **`parcial` des del 2026-09-15: n'hi ha un paràgraf citat literalment.**
+  **Margarit i Monné en reprodueixen aquest fragment** ([els andorrans estudiaven
+  sobretot en escoles franceses](./els-andorrans-estudiaven-sobretot-en-escoles-franceses.md)):
+
+  > «**Els ensenyaments espanyol i francès** (dignes de tota lloança i
+  > consideració en si mateixos i de tota reconeixença per part dels andorrans
+  > que en són beneficiaris) **han estat pensats i programats per súbdits dels
+  > seus respectius països i no per andorrans.** Es tracta, doncs, **d'afegir als
+  > respectius programes d'ensenyament** (quelcom de diferent i exclusiu per als
+  > infants d'Andorra) **els elements necessaris per transmetre, conservar i
+  > enfortir el caràcter i l'esperit andorrans a tots els infants, sigui quin
+  > sigui el pla d'estudis escollit**.»
+
+  **El parèntesi és la troballa**: **el document elogia els dos sistemes abans de
+  dir que no estan pensats per a andorrans.** **La cortesia és dins la frase que
+  fa la crítica.** **El document sencer, amb signatura i data exacta, segueix
+  `obert`.**
 - **Quantes hores** de formació andorrana, per nivell i per sistema. La font en
   dona un quadre que el corpus no ha pogut llegir (és una taula al PDF).
 - **Qui són els professors de Formació Andorrana** i quants són.

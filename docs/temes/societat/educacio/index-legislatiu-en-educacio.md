@@ -87,6 +87,20 @@ signar el **11 de gener** (els dos espanyols) i el **19 de març** (el francès)
 ([el marc legal](./el-marc-legal-de-leducacio.md)), i **surten publicats junts**:
 el paquet educatiu del 1993 és **una sola operació**.
 
+### Una norma que aquest índex no recull
+
+**Afegida el 2026-09-15.** **El conveni de cooperació educativa entre el
+Principat d'Andorra i la República Portuguesa**, que **instaura l'ensenyament del
+portuguès a la primera ensenyança** —voluntari, gratuït, **fora de l'horari
+lectiu**, **una hora setmanal** i **a partir del segon cicle, als vuit anys**—
+**no és a cap de les tres taules d'aquesta fitxa.** Referència que en dona la
+font que el cita: **BOPA núm. 7, any 13, 17.01.2001**, **sense verificar contra
+el butlletí**. Vegeu [els andorrans estudiaven sobretot en escoles
+franceses](./els-andorrans-estudiaven-sobretot-en-escoles-franceses.md).
+
+**Aquest índex es presenta com a complet i no ho és.** **Quaranta-vuit entrades i
+almenys una norma internacional en matèria educativa que hi falta.**
+
 **I l'entrada 30 té data:** França no reconeix el batxillerat andorrà fins a
 **l'abril del 1997** — **dos anys després que el batxillerat existís** (1995).
 Les dues primeres promocions es van graduar **abans que el títol valgués a

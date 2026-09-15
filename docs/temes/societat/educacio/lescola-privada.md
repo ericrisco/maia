@@ -116,6 +116,14 @@ s'anuncia una escola privada a Andorra l'any 2000.**
 - **Quantes escoles privades hi ha avui** a Andorra. Aquesta fitxa documenta
   **l'inici d'una sèrie**, no el seu estat.
 
+> **Els 45 alumnes d'aquesta escola expliquen una diferència entre dues fonts.**
+> **Afegit el 2026-09-15.** La taula escolar de Margarit i Monné per al mateix
+> curs dona **9.318 alumnes al país** i la de Roser Bastida en dona **9.363**
+> ([el mapa escolar del 2000](./el-mapa-escolar-del-2000.md)). **9.363 − 9.318 =
+> 45**: **la primera taula no té fila per a l'escola privada.** `Comprovació del
+> corpus.` **El curs que s'obre Col·legis del Pirineu, l'estadística escolar
+> encara no li havia fet lloc a la graella.**
+
 ## Related
 
 - [El mapa escolar del 2000](./el-mapa-escolar-del-2000.md)

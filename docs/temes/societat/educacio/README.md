@@ -4,11 +4,12 @@ El triple sistema —andorrà, espanyol i francès— conviuen al mateix país. 
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (21)
+## Articles (22)
 - [Educació — el sistema triple](./educacio.md) — Tres sistemes escolars nacionals en un país de 85.000 habitants, i el propi és el més jove dels tres.
 - [El mapa escolar del 2000](./el-mapa-escolar-del-2000.md) — Centre per centre, qui ensenyava què a Andorra el curs 1999-2000.
 - [El marc legal de l'educació](./el-marc-legal-de-leducacio.md) — Un article de Constitució, dues lleis, dos tractats internacionals i una llista de lleis menors: com es fixa per escrit un sistema educatiu de tres caps.
 - [El que decideix si un escolar parla català](./el-que-decideix-si-un-escolar-parla-catala.md) — No és la llengua materna ni la nacionalitat: són els anys de residència.
+- [Els andorrans estudiaven sobretot en escoles franceses](./els-andorrans-estudiaven-sobretot-en-escoles-franceses.md) — El curs 1999-2000, de cada cent alumnes de nacionalitat andorrana, 37 anaven a escola francesa, 29 a l'andorrana, 25 a la congregacional i 9 a l'espanyola.
 - [Els tres sistemes educatius](./els-tres-sistemes.md) — Andorra no va tenir escola pròpia fins al 1982.
 - [L'andorranització](./landorranitzacio.md) — El 1972 Andorra no podia fer escola pròpia, i va fer una altra cosa: entrar a les escoles dels altres.
 - [L'AQUA](./laqua.md) — El 2025 Andorra crea una agència de qualitat de l'ensenyament superior, i li prohibeix el càrrec a consellers generals, càrrecs públics i dirigents de partits, sindicats i patronals.

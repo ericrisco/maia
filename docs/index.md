@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**992** documents · **194** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**994** documents · **194** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1308,6 +1308,7 @@
 | [Les tres migracions](temes/societat/demografia/les-tres-migracions.md) | `temes/societat/demografia` | compilada | contemporania | no | `armengol-migracions-segle-xix` |
 | [Les xifres que no quadren](temes/societat/demografia/les-xifres-que-no-quadren.md) | `temes/societat/demografia` | compilada | contemporania | no | `tarrene-influencies-multiculturals` |
 | [Qui compta com a resident](temes/societat/demografia/qui-compta-com-a-resident.md) | `temes/societat/demografia` | compilada | contemporania | no | `estadistica-ad` |
+| [Tres quartes parts del creixement van arribar de fora](temes/societat/demografia/tres-quartes-parts-del-creixement-van-arribar-de-fora.md) | `temes/societat/demografia` | compilada | contemporania | no | `margarit-monne-joves-i-llengues-2010` |
 
 ## temes/societat/dones
 
@@ -1328,6 +1329,7 @@
 | [El mapa escolar del 2000](temes/societat/educacio/el-mapa-escolar-del-2000.md) | `temes/societat/educacio` | compilada | contemporania | no | `bastida-roser-ensenyament-andorra` |
 | [El marc legal de l'educació](temes/societat/educacio/el-marc-legal-de-leducacio.md) | `temes/societat/educacio` | compilada | contemporania | no | `bastida-roser-ensenyament-andorra` |
 | [El que decideix si un escolar parla català](temes/societat/educacio/el-que-decideix-si-un-escolar-parla-catala.md) | `temes/societat/educacio` | compilada | contemporania | no | `margarit-escenari-escolar-2017` |
+| [Els andorrans estudiaven sobretot en escoles franceses](temes/societat/educacio/els-andorrans-estudiaven-sobretot-en-escoles-franceses.md) | `temes/societat/educacio` | compilada | contemporania | no | `margarit-monne-joves-i-llengues-2010` |
 | [Els tres sistemes educatius](temes/societat/educacio/els-tres-sistemes.md) | `temes/societat/educacio` | compilada | contemporania | no | `molla-catala-andorra` |
 | [Índex legislatiu en educació](temes/societat/educacio/index-legislatiu-en-educacio.md) | `temes/societat/educacio` | compilada | contemporania | no | `bastida-roser-ensenyament-andorra` |
 | [La cronologia escolar](temes/societat/educacio/la-cronologia-escolar.md) | `temes/societat/educacio` | compilada | contemporania | no | `bastida-roser-ensenyament-andorra` |

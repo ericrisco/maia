@@ -300,6 +300,32 @@ societat on es viu**:
 **Els dos són, en el fons, política d'integració amb forma d'escola.** Vegeu
 [la societat segmentada](../immigracio/la-societat-segmentada.md).
 
+## La segona dimensió, tancada el 2026-09-15
+
+**Aquesta fitxa compta els alumnes per centre. No en deia la nacionalitat.**
+
+**Margarit i Monné publiquen la mateixa estadística escolar del curs 1999-2000
+creuada per nacionalitat** ([els andorrans estudiaven sobretot en escoles
+franceses](./els-andorrans-estudiaven-sobretot-en-escoles-franceses.md)), i
+**el gran total que en donen no és el d'aquesta fitxa**:
+
+> **9.363 (aquí) − 9.318 (allà) = 45**, **que són exactament els 45 alumnes de
+> Col·legis del Pirineu**, la privada que obre aquell curs
+> ([l'escola privada](./lescola-privada.md)). **Aquella taula parteix el sistema
+> espanyol en públic (1.594) i congregacional (1.939) i deixa la privada fora de
+> la graella**; **1.594 + 1.939 + 45 = 3.578**, el sistema espanyol d'aquesta
+> fitxa. `Comprovació del corpus.`
+
+**Els sistemes francès (3.585) i andorrà (2.200) coincideixen a l'alumne.** **No
+és confirmació independent: les dues fonts diuen venir de les mateixes
+estadístiques escolars 1999-2000.**
+
+**I el que la nacionalitat afegeix, que aquesta fitxa no podia veure:** **el
+55,6 % dels alumnes del sistema francès eren de nacionalitat andorrana i només el
+9,5 % de francesa**; **les escoles congregacionals eren un 68,5 % andorranes,
+pràcticament el mateix que l'Escola Andorrana (70,3 %)**; i **només tres de cada
+deu alumnes andorrans del país estudiaven al sistema andorrà.**
+
 ## Buits registrats
 
 - **Tot això el 2026.** Aquesta fitxa és del 2000. **Buit prioritari.**

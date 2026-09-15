@@ -34,6 +34,26 @@ tags: [demografia, immigracio, segle-xx, xifres, fhasa, transformacio-economica]
 *(Sis columnes: la taula de la font és anterior a la creació d'Escaldes-Engordany
 com a parròquia el 1978.)*
 
+> **Avís aritmètic, afegit el 2026-09-15.** **La fila del 1960 d'aquesta taula no
+> suma el seu propi total.** 404 + 806 + 532 + 581 + 4.777 + 1.392 = **8.492**,
+> contra els **8.792** impresos a la columna de totals. `Comprovació del corpus
+> sobre aquesta transcripció.` **La fila del 1955 sí que quadra**: 448 + 630 +
+> 431 + 516 + 3.142 + 1.012 = **6.179**.
+>
+> **I una tercera xifra per al mateix any.** **Dues fonts del corpus donen 8.392
+> habitants el 1960**: **el Departament d'Estadística**
+> ([els anys daurats](../../historia/historia-recent/els-anys-daurats.md)) i
+> **la sèrie de població de Margarit i Monné**
+> ([tres quartes parts del creixement van arribar de fora](./tres-quartes-parts-del-creixement-van-arribar-de-fora.md)),
+> **on 8.392 és coherent amb el creixement vegetatiu i migratori de la seva
+> pròpia fila**. **Per al 1955, les dues sèries disten deu habitants** —6.179
+> aquí, **6.189** allà, que és també la xifra de
+> [la normativa migratòria](../immigracio/la-normativa-migratoria.md).
+>
+> **El corpus no arbitra i no toca aquesta taula.** **La comprovació que s'ha
+> pogut fer és sobre la transcripció, no sobre la pàgina de Camiade**, que ningú
+> no ha tornat a mirar. `Requereix rellegir la font.`
+
 ### El que aquesta taula diu i que no es veu al total
 
 **Mentre el país creix, quatre parròquies es buiden.**

@@ -4,7 +4,7 @@ Una població d'unes 85.000 persones i tot el que això implica.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (9)
+## Articles (10)
 - [Demografia](./demografia.md) — 90.021 residents estimats i 94.596 registrats el juliol de 2026; origen, nacionalitat i llengua demanen dades diferents.
 - [Dues maneres de comptar la població](./dues-maneres-de-comptar-la-poblacio.md) — El juliol de 2026 Encamp perd població registrada i en guanya d'estimada; les dues sèries oficials compten de manera diferent.
 - [La composició per nacionalitats](./la-composicio-per-nacionalitats.md) — Els andorrans passen del 87% de la població el 1936 al 17,5% el 1983 i tornen al 48,7% el 2020.
@@ -14,3 +14,4 @@ Una població d'unes 85.000 persones i tot el que això implica.
 - [Les tres migracions](./les-tres-migracions.md) — Estacional a la verema de l'Hérault, temporera a les mines de talc de Luzenac, i definitiva per als germans que no heretaven.
 - [Les xifres que no quadren](./les-xifres-que-no-quadren.md) — Onze xifres de població d'Andorra entre 1832 i 1932, de set autors diferents.
 - [Qui compta com a resident](./qui-compta-com-a-resident.md) — El cens comunal compta amb un llindar de 183 dies i el concepte estadístic europeu amb un de dotze mesos; la metodologia oficial declara que només s'hi apropa fins on és permès.
+- [Tres quartes parts del creixement van arribar de fora](./tres-quartes-parts-del-creixement-van-arribar-de-fora.md) — Entre 1955 i 2007 Andorra guanya 76.948 habitants: 19.162 per naixements i 57.786 per migració.

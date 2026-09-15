@@ -230,7 +230,29 @@ l'altra**, perquè podria correspondre a l'aprovació o a una altra publicació.
   **Defecte registrat, del tipus «buit declarat contra la font pròpia del
   document»**: **abans de declarar un buit cal comprovar si el cos de l'article
   ja el cobreix.**
-- **El quadre d'alumnes per nacionalitat i centre**, sencer i sense OCR.
+- **El quadre d'alumnes per nacionalitat i centre**, sencer i sense OCR. —
+  **`parcial` des del 2026-09-15: la nacionalitat ja hi és, el centre no.**
+  **Margarit i Monné publiquen la taula creuada del mateix curs 1999-2000**
+  ([els andorrans estudiaven sobretot en escoles
+  franceses](./els-andorrans-estudiaven-sobretot-en-escoles-franceses.md)),
+  **per sistema i per nacionalitat**, i **quadra en les dues direccions**. El que
+  diu de les escoles públiques espanyoles:
+
+  | Nacionalitat | Alumnes al sistema espanyol públic, 1999-2000 |
+  | --- | ---: |
+  | Andorrana | 478 |
+  | **Espanyola** | **714** |
+  | Francesa | **3** |
+  | Portuguesa | 358 |
+  | Altres | 41 |
+  | **Total** | **1.594** |
+
+  **Els espanyols hi són el 44,8 %.** `Càlcul del corpus: 714 ÷ 1.594.`
+  **Aquesta fitxa deia, des de Boladeres, que «aproximadament la meitat» dels
+  878 alumnes d'infantil i primària no eren espanyols.** **Les dues xifres
+  apunten igual i no són comparables directament**: **878 és només infantil i
+  primària i 1.594 inclou l'ESO de la Margineda i el batxillerat d'Aixovall.**
+  **El que segueix `obert` és el desglossament per centre.**
 - **Quants mestres espanyols** hi ha hagut, i si algun s'hi ha quedat.
 - **Tot això el 2026.**
 

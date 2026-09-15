@@ -195,8 +195,26 @@ sectors vedats.
 | **Població, 1955** | **6.189** habitants |
 | **Població, 1996** | **64.479** habitants |
 | **Multiplicador en quaranta anys** | **més de deu** |
-| **Aportació estimada dels fluxos migratoris** | **més de 45.000 habitants** |
+| **Aportació estimada dels fluxos migratoris** | **més de 45.000 habitants** — **ara amb els sumands, vegeu més avall** |
 | **Estrangers sobre el total, 1996** | **68,5 %** |
+
+### Els «més de 45.000», desglossats
+
+**Afegit el 2026-09-15.** **Ros Pascuet dona el total estimat i no els sumands.**
+**Una sèrie de població publicada per Margarit i Monné els dona**
+([tres quartes parts del creixement van arribar de
+fora](../demografia/tres-quartes-parts-del-creixement-van-arribar-de-fora.md)),
+**quinquenni a quinquenni, i arrenca del mateix 6.189 del 1955**:
+
+> 1.800 + 4.319 + 4.632 + 5.119 + 7.194 + 7.123 + 7.964 + 6.866 = **45.017**,
+> creixement migratori acumulat **de 1955 a 1995**.
+>
+> `Càlcul del corpus.`
+
+**Quaranta anys de sumands donen la xifra que Ros Pascuet arrodoneix a «més de
+45.000» per a quaranta-un.** **El corpus no en fa una confirmació independent**:
+**les dues peces poden venir del mateix departament d'estadística.** **El que sí
+que hi ha és un total i els seus sumands, i quadren.**
 
 I la comparació europea, amb dades de **1995**:
 
