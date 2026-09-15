@@ -4,7 +4,7 @@ Tribunal de Corts, Batllia, Consell Superior de la Justícia.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (103)
+## Articles (104)
 - [A les galeres d'Espanya, per la neu](./a-les-galeres-despanya-per-la-neu.md) — Els condemnats andorrans anaven a galeres espanyoles i el Politar en dona quatre raons, la segona meteorològica: a l'hivern, la tardor i la primavera no es podien dur a les de França perquè els Pirineus eren plens de neu.
 - [Abrogats el 1839, aplicats el 1889](./abrogats-el-1839-aplicats-el-1889.md) — Com es cobrava un deute a Andorra: la cessió de béns, l'adjudicació d'immobles i el dret de recomprar-los.
 - [Al botxí per sos drets de penjar tres dones](./al-botxi-per-sos-drets-de-penjar-tres-dones.md) — El compte de despeses del juny de 1604 per l'execució de dones acusades de bruixeria a Andorra, amb l'aranzel del botxí i el que van rendir les composicions.
@@ -89,6 +89,7 @@ Tribunal de Corts, Batllia, Consell Superior de la Justícia.
 - [Si només volien ballar, era un altre tribunal](./si-nomes-volien-ballar-era-un-altre-tribunal.md) — Uns joves a qui impedien ballar en un lloc van escriure al Consell General, i la resposta separa dues justícies: si reclamaven la propietat del lloc era un afer civil; si només reclamaven el dret de ballar-hi, eren els tribunals de veheduria.
 - [Tinga's pres per lo Príncep](./tingas-pres-per-lo-princep.md) — El capítol dels batlles al Politar: es detenia «per lo Princep» i mai pel Rei ni pel Bisbe, perquè la jurisdicció és per indivís.
 - [Tornar la fama, el diumenge en sortir de missa](./tornar-la-fama-el-diumenge-en-sortir-de-missa.md) — Qui difamava un altre podia provar el que havia dit, i si no ho provava havia de demanar-li excuses en públic a la sortida de missa major.
+- [Trenta-dues citacions i cinc pàgines](./trenta-dues-citacions-i-cinc-pagines.md) — Brutails cita el manuscrit de Palmitjavila trenta-dues vegades i en publica cinc pàgines, i diu de passada que es va redactar sota el règim notarial de 1607.
 - [Tres dies d'escombre](./tres-dies-descombre.md) — Dues famílies andorranes que s'havien ferit van jurar treves per sis mesos el 1551, i si les tornaven tenien tres dies de sortida sota salvaguarda.
 - [Tres dies, deu dies o un mes, segons els camins](./tres-dies-deu-dies-o-un-mes-segons-els-camins.md) — El termini per presentar les inhibitòries que aturaven l'execució el fixava el batlle cas per cas: tres dies el 1580, deu el 1828, un mes el 1841.
 - [Tretze dies](./tretze-dies.md) — El termini processal per excel·lència del dret andorrà no és de quinze dies ni de deu: és de tretze dies hàbils, i apareix 116 vegades al Codi de Procediment Civil.

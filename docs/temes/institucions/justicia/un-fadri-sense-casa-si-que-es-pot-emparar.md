@@ -327,10 +327,22 @@ del manuscrit.** És la clàusula que decideix a qui protegeix tot el sistema.
 Brutails diu a la introducció que **el senyor Palmitjavila pare li va posar a les
 mans «des textes fort curieux»**, i **no en dona signatura ni descripció.**
 
-**La datació no és segura i el corpus en té dues.** La capçalera de la peça diu
-**«XVIIe siècle (?)»**, amb interrogant de l'editor; a la pàgina 36 Brutails
-atribueix **al segle XVI** un manuscrit del mateix propietari. **No s'arbitra**,
-i **no es dona per establert que siguin el mateix.**
+~~**La datació no és segura i el corpus en té dues.**~~ — **Tancat en la seva
+part principal el 23-09-2026, i pel mateix llibre.** **A la p. 97, parlant dels
+notaris, Brutails diu que el règim instituït per **una carta de febrer de 1607**
+—els Cosenyors trien alternativament el notari d'una llista de dos noms del
+Consell General— **«era el règim en vigor quan va ser redactat el manuscrit de
+M. Palmitjavila»**.** **El manuscrit és, doncs, **posterior al febrer de
+1607***, cosa que **exclou el segle XVI** i concorda amb la capçalera de l'editor
+i amb la creença que l'autor expressa a propòsit de l'*hostatge* («*que je crois
+du XVIIe siècle*»).
+**I dissol la contradicció aparent**: **les atribucions al segle XVI usen
+l'article indefinit** —«**Un** manuscrit de M. Palmitjavila»— **i les altres el
+definit** —«**le** manuscrit». **El corpus no afirma que siguin dos textos
+diferents**, **i fa constar que la font els tracta gramaticalment com a coses
+distintes** i que **el propietari tenia més d'un text antic**: l'obra parla de
+«*des textes fort curieux*», en plural.
+**Segueix obert el *terminus ante quem*.** **Vegeu** [trenta-dues citacions i cinc pàgines](./trenta-dues-citacions-i-cinc-pagines.md).
 
 **Divergència entre el text i la seva pròpia glossa**: el manuscrit diu «**de
 habitant a habitant**» i Brutails ho resumeix com a prohibit «**entre andorrans
