@@ -173,6 +173,21 @@ amb el copríncep episcopal, amb els períodes datats i l'origen documentat.
 > decret segueix sense veure's.** Vegeu [no obeïu cap ordre que no vingui dels
 > dos](./no-obeiu-cap-ordre-que-no-vingui-dels-dos.md).
 
+> **El text imprès de la Reforma existeix i se sap on és — 15-09-2026.**
+> **Fernando de los Ríos Urruti el reprodueix a l'apèndix D del seu llibre de
+> 1920**, i el cita **per paràgrafs numerats**: **«Véase apéndice D, 4.º y 5.º»**
+> per al procediment electoral, i **«El párrafo 8.º de la Reforma, apéndice D»**
+> per al nombre de consellers
+> ([font](../../../fonts/rios-urruti-andorra-1920.md)). **És el buit més citat
+> d'aquesta sèrie i resulta que és dins d'un volum que el corpus ja té obert.**
+> `Prioritari i assolible.`
+>
+> **I del preàmbul se'n sap ja una frase**: **que hi diu «señor Bisbe d'Urgell y
+> noble Compte de Foix, Princeps soberans pro indivis»**, i **que això mateix es
+> repeteix a les bases** — cosa que **el mateix autor qualifica d'ampliació que
+> cap text no autoritza**. Vegeu [una ampliació no autoritzada pels
+> textos](../../institucions/coprincipat/una-ampliacio-no-autoritzada-pels-textos.md).
+
 ## Related
 
 - [La qüestió d'Andorra](./la-questio-dandorra.md) — el conflicte que ve tot seguit, i l'acusació sobre aquesta llei.
@@ -182,3 +197,4 @@ amb el copríncep episcopal, amb els períodes datats i l'origen documentat.
 - [El Consell General](../../institucions/consell-general/el-consell-general.md) — la institució reformada.
 - [El sufragi universal masculí](../../politica/sistema-electoral/el-sufragi-universal-masculi.md) — el graó següent, que es va treure i es va tornar a posar.
 - [Un elector per casa](../../politica/sistema-electoral/un-elector-per-casa.md) — el mecanisme electoral que aquesta llei estableix, paràgraf per paràgraf.
+- [Una ampliació no autoritzada pels textos](../../institucions/coprincipat/una-ampliacio-no-autoritzada-pels-textos.md) — el preàmbul d'aquesta Reforma, discutit el 1920.

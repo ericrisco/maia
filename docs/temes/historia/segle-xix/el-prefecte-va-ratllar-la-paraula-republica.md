@@ -171,6 +171,35 @@ una de les seves senyories i no personalment sobre totes les terres.**
 > el mateix autor cita el mateix tractat amb la mateixa data i sense rei.**
 > `Registrat.`
 
+## La mateixa conclusió, setze anys després i per un altre camí
+
+**Afegit el 15-09-2026.** **Un catedràtic espanyol de dret polític arriba
+exactament al mateix lloc** —**ni república ni principat, sinó una senyoria amb
+dos senyors**— **sense fer servir cap dels arguments d'aquesta pàgina**
+([una ampliació no autoritzada pels
+textos](../../institucions/coprincipat/una-ampliacio-no-autoritzada-pels-textos.md)).
+
+| | **Vilar, 1904** | **Ríos Urruti, 1920** |
+| --- | --- | --- |
+| **Contra «república»** | **El règim és un feu, no un alou**; el feu només pot produir poder concedit | **Tres proves de funcionament**: la cosa pública no l'ordenen els òrgans populars; **la norma que designa els titulars supremes és d'un altre Estat**; **no hi ha òrgan constituent** |
+| **Contra «principat»** | **Si ho fos, seria sobirà, com Mònaco** | **El principat és una monarquia petita**, i **cap classificació clàssica ni moderna no serveix per a l'Edat Mitjana** |
+| **Què és, doncs** | **Una senyoria** | **Una senyoria amb dos senyors** — i si s'hagués de dir amb un mot monàrquic, **diarquia**, que tampoc no s'aguanta |
+| **Qui hi guanya** | **Ni el bisbe ni el cap de l'Estat francès poden al·legar sobirania** | **Ningú per títol; el títol el dona el consentiment del poble** |
+
+> **Dos juristes de dos estats diferents, amb dues formacions diferents,
+> coincideixen en la conclusió i no en cap premissa.** **El corpus ho registra
+> com a coincidència, no com a confirmació**: **cap dels dos no cita l'altre**,
+> i **els dos escriuen contra el mateix mot de moda.**
+
+**I hi ha un punt on el segon respon, sense saber-ho, la lectura d'aquesta
+pàgina.** Aquí Vilar treu del Pariatge **una regla de competències residuals**
+—tot el que no és enumerat és del govern local. **Ríos Urruti fa la lectura
+simètrica i la porta cap a l'altra banda**: **els poders que el bisbe concedeix
+limiten també la seva pròpia autoritat**, «tanto más cuanto que **son poderes
+perdurables** los que concede y **sobre los que no puede su voluntad ejercer
+modificación alguna**». **Tots dos llegeixen el document com una llista tancada;
+l'un en treu què queda a baix, l'altre què deixa de tenir el de dalt.**
+
 ## Buits registrats
 
 1. **La carta del director de Correus dels Pirineus Orientals**, de **novembre de
@@ -205,3 +234,4 @@ una de les seves senyories i no personalment sobre totes les terres.**
 - [Les tres sobiranies](../../institucions/coprincipat/les-tres-sobiranies.md) — les altres posicions de la mateixa dècada.
 - [El Coprincipat](../../institucions/coprincipat/el-coprincipat.md) — la institució discutida.
 - [Onomàstica](../../llengua/onomastica/onomastica.md) — els noms del país.
+- [Una ampliació no autoritzada pels textos](../../institucions/coprincipat/una-ampliacio-no-autoritzada-pels-textos.md) — la mateixa conclusió, del 1920 i per dret constitucional.

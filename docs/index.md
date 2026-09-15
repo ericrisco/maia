@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**982** documents · **192** fonts · **39** aptes com a model de llengua · **124** temes amb contingut.
+**983** documents · **192** fonts · **39** aptes com a model de llengua · **124** temes amb contingut.
 
 ## fonts
 
@@ -944,6 +944,7 @@
 | [La quèstia](temes/institucions/coprincipat/la-questia.md) | `temes/institucions/coprincipat` | compilada | contemporania | no | `wikipedia-questia` |
 | [Les tres sobiranies](temes/institucions/coprincipat/les-tres-sobiranies.md) | `temes/institucions/coprincipat` | compilada | contemporania | no | `vilar-andorre-1904` |
 | [Qui deia que Andorra no era sobirana](temes/institucions/coprincipat/qui-deia-que-andorra-no-era-sobirana.md) | `temes/institucions/coprincipat` | compilada | contemporania | no | `massa-gran-carlemany-sobirania-1994` |
+| [Una ampliació no autoritzada pels textos](temes/institucions/coprincipat/una-ampliacio-no-autoritzada-pels-textos.md) | `temes/institucions/coprincipat` | compilada | contemporania | no | `rios-urruti-andorra-1920` |
 
 ## temes/institucions/govern
 

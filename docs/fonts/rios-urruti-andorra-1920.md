@@ -77,5 +77,6 @@ propietari del repositori, no de qui llegeix.**
 | **Capítol III, obertura** | **destil·lat el 17-09-2026** |
 | **Capítol III, pp. 74-79** | **destil·lat el 17-09-2026** |
 | **Capítol III, pp. 81-86** | **destil·lat el 17-09-2026** |
-| **Capítol III, resta, i capítol IV** | **sense llegir** |
-| **Apèndixs** | **sense llegir** — **prioritari**, l'autor hi situa l'originalitat del dret públic andorrà |
+| **Capítol III, pp. 87-93** (els notaris i la determinació del caràcter jurídic) | **destil·lat el 15-09-2026** — **el capítol III queda llegit sencer** |
+| **Capítol IV** | **sense llegir** — hi ha **els quarts**, **el pressupost de 1917** i **les boïgues** |
+| **Apèndixs** | **sense llegir** — **prioritari**, l'autor hi situa l'originalitat del dret públic andorrà, i **l'apèndix D conté el text de la Reforma del 1866 per paràgrafs numerats**, que és un buit declarat en quatre articles del corpus |

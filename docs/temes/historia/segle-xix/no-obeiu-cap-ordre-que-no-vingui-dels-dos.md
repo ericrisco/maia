@@ -141,6 +141,30 @@ observar les lleis, usos i costums, i a més
 > redactó aquel Sr. Obispo, sino el pueblo andorrano»**. Vegeu [la Nova Reforma de
 > 1866](./nova-reforma.md).
 
+### I un jurista del 1920 diu que aquell títol no el dona cap text
+
+**Afegit el 15-09-2026.** El decret de Caixal presenta **«Príncipes Soberanos pro
+indiviso»** com una cosa **ordenada als Pariatges**. **Fernando de los Ríos
+Urruti, el 1920, diu el contrari**: que la fórmula **«señor Bisbe d'Urgell y
+noble Compte de Foix, Princeps soberans pro indivis»** és al **preàmbul de la
+Reforma del 1866 i repetida a les bases**, i que preguntar-se si és **«una
+ampliación no autorizada por los textos»** té una sola resposta: **«sin duda»**
+([una ampliació no autoritzada pels
+textos](../../institucions/coprincipat/una-ampliacio-no-autoritzada-pels-textos.md)).
+
+> **El corpus no arbitra qui té raó sobre què diu el Pariatge**, perquè **no té
+> el Pariatge en llatí**: té les seves clàusules enumerades per dues fonts del
+> segle XX, i **en cap de les dues no hi surt el títol de príncep ni el de
+> sobirà.** `Registrat com a lectura del corpus sobre el que ha llegit, no com a
+> afirmació sobre l'original.`
+>
+> **I el que fa interessant la divergència és qui la sosté:** **el títol el
+> reclama el copríncep en un decret seu**, i **qui el hi nega és un catedràtic
+> d'un país que aquell mateix decret no esmenta.** **El que el segon hi afegeix
+> —que el títol val igualment perquè un poble hi ha assentit— és exactament
+> l'argument que el Consell General feia servir el 1894 per a la seva pròpia
+> sobirania pràctica.** Vegeu [la qüestió d'Andorra](./la-questio-dandorra.md).
+
 ## Primer es practiquen, després es concedeixen
 
 La doctrina dels privilegis, enunciada sencera *(pp. 17-18)*:
@@ -266,3 +290,4 @@ I la regla que el Consell subratlla:
 - [El Pariatge](../pareatge/el-pareatge.md) — el 8 de setembre de 1278.
 - [Homes armats a la porta de l'església](../../institucions/justicia/homes-armats-a-la-porta-de-lesglesia.md) — les sessions de Corts, vistes per Brutails.
 - [El Consell de la Terra](../../institucions/consell-general/el-consell-de-la-terra.md) — la institució que nomena la comissió.
+- [Una ampliació no autoritzada pels textos](../../institucions/coprincipat/una-ampliacio-no-autoritzada-pels-textos.md) — qui nega, el 1920, que els Pariatges donin aquell títol.

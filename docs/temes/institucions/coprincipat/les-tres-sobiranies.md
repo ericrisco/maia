@@ -135,6 +135,29 @@ I totes tres **es contradiuen en el mateix punt**: **el copríncep episcopal**.
 **Els tres el descriuen diferent i els tres diuen que el bisbe s'equivoca sobre
 ell mateix.**
 
+### I la quarta tesi acaba negant els dos noms del país — 15-09-2026
+
+**El mateix catedràtic tanca el seu capítol III negant que Andorra sigui ni
+república ni principat**, amb **tres raons que no són de dret feudal sinó de dret
+constitucional**: que la cosa pública no l'ordenen els òrgans populars, **que la
+norma que designa qui ocupa les funcions supremes és una norma d'un altre país**,
+i **que el poble d'Andorra no té òrgan constituent**.
+
+**I hi afegeix una cosa que cap de les tres tesis d'aquesta fitxa no fa: es
+contradiu a propòsit i ho diu.** Set pàgines després d'escriure que dir-se
+príncep d'Andorra **«no tiene el más leve asomo de justificación científica»**,
+admet que el preàmbul de la Reforma del 1866 els diu **«Princeps soberans pro
+indivis»**, que això és **«una ampliación no autorizada por los textos —sin
+duda»**, i que **val igualment**, perquè **«infinita mayor fuerza tiene en el
+mundo del Derecho el asentimiento de un pueblo que los textos anacrónicos»**.
+
+> **Això desplaça el debat sencer d'aquesta fitxa.** **Les tres tesis de 1894-1904
+> discuteixen qui té el títol. Aquesta diu que el títol no decideix res**: **el
+> que fa dret és el consentiment.** **I per aquest criteri, la tesi que guanya el
+> 1993 no guanya per haver trobat el document bo, sinó per la mateixa raó que ell
+> donava el 1920.** Vegeu [una ampliació no autoritzada pels
+> textos](./una-ampliacio-no-autoritzada-pels-textos.md).
+
 ## Per què això importa avui
 
 Perquè la qüestió no es va resoldre per argument: **es va resoldre el 1993**, amb
@@ -246,3 +269,4 @@ va arribar el mateix any.
 - [L'ordenament jurídic avui](../justicia/lordenament-juridic-avui.md) — l'article 1.3, en context.
 - [Qui deia que Andorra no era sobirana](./qui-deia-que-andorra-no-era-sobirana.md) — els mateixos arguments, discutits per nom a la literatura acadèmica.
 - [Qui parlava per Andorra](../relacions-exteriors/qui-parlava-per-andorra.md) — la sentència Vives de 1859, i el tractat de límits de 1863 que ningú no esperava.
+- [Una ampliació no autoritzada pels textos](./una-ampliacio-no-autoritzada-pels-textos.md) — la quarta tesi, sencera i contradient-se en veu alta.

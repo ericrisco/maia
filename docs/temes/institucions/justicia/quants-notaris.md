@@ -25,6 +25,7 @@ hagut i hi ha a Andorra»**. La resposta va de **un** a **quatre** i acaba en un
 | **Des de febrer de 1607** | Un | Els cosenyors el trien **alternativament**, d'una **llista de dos noms** que els sotmet **el Consell General** |
 | **1763** (Politar) | **Un i substituts** | |
 | **1904** | **Quatre** | **Dos nomenats per cada cosenyor** |
+| **1918** | **Dos** — un a **Andorra la Vella**, un a **Encamp** | **Els nomenen els senyors**, i tria **el senyor que havia nomenat l'anterior del càrrec** |
 | **2021** | **Mínim quatre**, **màxim un per cada 10.000 habitants** | **Per acord del Govern** |
 
 I els primers noms documentats, que el corpus no tenia:
@@ -37,6 +38,95 @@ I els primers noms documentats, que el corpus no tenia:
 
 **El 1475 el cosenyor laic és el príncep de Viana**, no el rei de França. Vegeu
 [el Pariatge](../../historia/pareatge/el-pareatge.md).
+
+## El graó del 1918: de quatre a dos, i per acord dels coprínceps
+
+**Afegit el 15-09-2026 des de** **Fernando de los Ríos Urruti**, *Vida e
+instituciones del pueblo de Andorra*, Madrid, **1920**, **pp. 87-88**
+([font](../../../fonts/rios-urruti-andorra-1920.md)). **La sèrie tenia un salt de
+1904 a 2021 i ara té el punt del mig.**
+
+> «Los Notarios, **funcionarios más numerosos antes que hoy**. **Hace unos meses
+> habían quedado reducidos a dos**, uno con residencia en **Andorra la Vieja** y
+> otro en **Encamp**. **La supresión de Notarios se hizo de acuerdo entre Francia
+> y el Obispo.**»
+
+> **Catorze anys després que un jutge del Tribunal Superior escrivís que quatre
+> eren «beaucoup trop», en queden dos.** **I la reducció no la va decidir el
+> Consell General ni el mercat: la van acordar els dos cosenyors.**
+>
+> **El corpus no diu que la frase de Brutails en fos la causa.** **Diu que
+> l'opinió i el fet van en la mateixa direcció i que entre l'una i l'altre hi ha
+> catorze anys.** **La data exacta de la supressió no consta**: la font diu
+> **«hace unos meses»**, i el llibre és de **1920** amb estada de camp declarada
+> **el 1918**.
+
+### Com es nomenaven, i una divergència amb el que el corpus tenia
+
+> «**Los Notarios se nombran por los señores y es uno u otro el que lo designa,
+> según quien hubiese nombrado al que ocupaba la vacante que se trata de cubrir,
+> respetándose el derecho del señor que nombró al antecesor.**»
+
+**Això no és el sistema que el corpus tenia escrit.** El
+**capítol VI del llibre II del Politar** —vegeu el buit 2 més avall— diu que el
+nomenen **«alternativament per vida»** el bisbe i el comte, sobre **la *doena***
+de dos noms que proposa el Consell General.
+
+| Font | Qui tria |
+| --- | --- |
+| **Politar, 1763** | **Alternativament** els dos cosenyors, **sobre llista de dos noms del Consell General** |
+| **Ríos Urruti, 1918-1920** | **El senyor que havia nomenat el titular anterior d'aquella plaça.** **Cap esment de la doena ni del Consell General** |
+
+**El corpus no arbitra.** **Poden ser dos sistemes successius, o pot ser que el
+segon sigui com el primer va acabar funcionant plaça per plaça.** `Hipòtesi del
+corpus, marcada com a tal: una alternança per càrrec i no per torn produiria
+exactament la regla del 1918. No hi ha cap text que ho digui.` **El que sí que és
+un fet registrat és que en la descripció del 1918 el Consell General ja no hi
+surt** — cosa que **continua la línia que Brutails descrivia el 1904**, més avall
+en aquesta mateixa fitxa.
+
+### Com s'hi entrava
+
+> «**Para ser Notario se sufre un ligero examen de nociones notariales en la Seo o
+> Perpiñán.**»
+
+**Hi havia un examen, era lleuger, i es feia fora.** **A la Seu o a Perpinyà** —és
+a dir, **a la seu de cadascun dels dos cosenyors**, i no a Andorra. **Això
+completa el que el corpus tenia de Brutails**: que els quatre notaris del 1904
+**havien fet les pràctiques a Catalunya**. **La pràctica era catalana i la prova
+podia ser francesa.**
+
+### El protocol existia per llei i no el mirava ningú
+
+> «El Notario tiene **funciones de auxiliar de la justicia**, con cuyo carácter
+> **da fe de cuanto se desarrolla ante el Tribunal, redacta las providencias**,
+> etc., y además cumple con la misión de **dar fe de los actos celebrados entre
+> particulares** que quieren someterse a la fe pública. **Todo ello es sumamente
+> rudimentario, y aun cuando en derecho están obligados a llevar Protocolo y
+> presentarlo anualmente al Consejo general, en verdad no hay fiscalización.**»
+
+> **L'obligació de portar protocol i presentar-lo cada any al Consell General
+> existia el 1918.** **I la font diu que no es fiscalitzava.**
+>
+> **Això toca directament el buit 3 d'aquesta fitxa.** La llei del 2021 organitza
+> el traspàs dels protocols a l'Arxiu General i a l'Arxiu Nacional; **el Politar
+> descriu l'escrivania del segle XVIII podrint-se per terra; i ara una font del
+> 1918 diu que el control anual existia sobre el paper i no a la pràctica.**
+> **Tres segles, tres testimonis, i cap dels tres diu que el fons es guardés
+> bé.** `El corpus no en dedueix quantes minutes s'han perdut: no ho pot saber.`
+
+**I el detall lingüístic, que confirma Brutails i hi afegeix la raó:**
+
+> «**Los formularios que usan son catalanes**, lo que, lejos de ser extraño, es
+> muy lógico, puesto que **de un Derecho catalán algo primitivo y falto de las
+> evoluciones que pudiera haber impuesto una esencial transformación en la
+> economía, es de lo que se trata en Andorra**.»
+
+**Brutails, el 1904, constatava que els formularis eren catalans.** **Aquest
+autor, el 1918, hi posa la causa**: no és un manlleu, és que **el dret que
+s'aplica és dret català** —i, segons ell, **un dret català que no ha evolucionat
+perquè l'economia no l'ha obligat a fer-ho.** `Registrat com a explicació
+d'autor.` Vegeu [el dret supletori](./el-dret-supletori.md).
 
 ## Quatre eren massa, i quatre és el mínim
 
@@ -186,7 +276,11 @@ tot.**
 ## Buits registrats
 
 1. **Quants notaris hi ha avui, de fet.** La llei en fixa el mínim i el sostre;
-   **el corpus no té el nombre real**.
+   **el corpus no té el nombre real**. — **I des del 15-09-2026 se sap que el
+   mínim legal d'avui és el doble del que hi va haver el 1918**: **la sèrie no és
+   creixent.**
+   `Buit nou: la data i la forma de l'acord entre França i el bisbe que va
+   suprimir notaris cap al 1918, i quants se'n van suprimir.`
 2. **La carta de febrer de 1607**, sencera. — **`parcial` des del 15-09-2026, i
    el mecanisme ja té nom andorrà.** El **capítol VI del llibre II del Politar**
    descriu el sistema en vigor: **el nomenen «alternativament per vida» el Bisbe
@@ -278,3 +372,4 @@ tot.**
 - [L'ordenament jurídic avui](./lordenament-juridic-avui.md) — on la Constitució calla.
 - [Dos capítols matrimonials de 1788](../../historia/antic-regim/dos-capitols-matrimonials-de-1788.md) — dos dels actes que els notaris redactaven.
 - [El Pariatge](../../historia/pareatge/el-pareatge.md) — els cosenyors que els nomenaven.
+- [Una ampliació no autoritzada pels textos](../coprincipat/una-ampliacio-no-autoritzada-pels-textos.md) — l'altra meitat de la unitat del 1920 que ha donat el graó del 1918.
