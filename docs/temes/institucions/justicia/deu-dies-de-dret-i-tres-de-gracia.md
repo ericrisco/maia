@@ -264,6 +264,24 @@ sentència de batlle **de 1890**:
     540-549 i 734) que la font qualifica de «parentiu manifest, **col·lateral**».
     **El corpus no té aquesta llei.**
 
+> **DIVERGÈNCIA AFEGIDA EL 16-09-2026, I NO ARBITRADA.** **André Vilar,
+> *L'Andorre* (1904), p. 97**, arriba als mateixos tretze dies per un altre camí:
+> **«Ce délai… est de 10 jours, en principe, de 13 jours au moins en pratique,
+> car il faut décompter dans le calcul de ce délai tous les jours fériés, *los
+> feriats*, tellement nombreux en Andorre qu'il n'y a guère de semaine qui n'en
+> comprenne quelqu'un.»**
+>
+> **Per a Brutails, el tres és una institució —dies de gràcia— i els feriats
+> s'hi sumen a part, fins a «almenys quinze dies plens».** **Per a Vilar, el
+> tres és el que resulta de descomptar els feriats dels deu.**
+>
+> **I la conseqüència no és la mateixa:** **si són dies de gràcia, tretze és
+> fix; si són feriats descomptats, tretze és una mitjana i el termini real
+> varia segons quan comença.** **Brutails cita text i Vilar no; Vilar va ser
+> corregit pel veguer francès.** **Cap dels dos arguments no decideix**, i **el
+> corpus segueix sense el text del termini.** Vegeu [els mateixos tretze dies,
+> dues explicacions](./els-mateixos-tretze-dies-dues-explicacions.md).
+
 ## Related
 
 - [Tretze dies](./tretze-dies.md) — el termini al Codi vigent, ara amb desglossament.

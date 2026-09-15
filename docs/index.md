@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**963** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**964** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -980,6 +980,7 @@
 | [El van demanar per estalviar, no per pietat](temes/institucions/justicia/el-van-demanar-per-estalviar-no-per-pietat.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [El veguer de França pagava les Corts de la seva butxaca](temes/institucions/justicia/el-veguer-de-franca-pagava-les-corts-de-la-seva-butxaca.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Els cònsols els lliuren amb els ulls tancats](temes/institucions/justicia/els-consols-els-lliuren-amb-els-ulls-tancats.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
+| [Els mateixos tretze dies, dues explicacions](temes/institucions/justicia/els-mateixos-tretze-dies-dues-explicacions.md) | `temes/institucions/justicia` | compilada | contemporania | no | `vilar-andorre-1904` |
 | [Els notaris deien que sense escriptura no hi havia venda](temes/institucions/justicia/els-notaris-deien-que-sense-escriptura-no-hi-havia-venda.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Els tribunals tancaven per la fira d'Organyà](temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Es deixaven escapar els presos](temes/institucions/justicia/es-deixaven-escapar-els-presos.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |

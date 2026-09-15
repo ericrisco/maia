@@ -450,6 +450,8 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **contador** | **el funcionari nomenat pel Consell General, un per parròquia, que anava al lloc a prendre la informació per establir i repartir l'impost proporcionalment a les rendes de cadascú**. Vilar 1904, p. 81 |
 | **quèstia** (*quistia*) | **DUES ACCEPCIONS, LLIGADES.** **(1)** el **tribut** que Andorra paga als dos cosenyors des dels Pariatges. **(2)** **l'impost andorrà sobre la renda que el finança**, **d'una seixantena part aproximadament**, que **pren el mateix nom perquè es percep per pagar-lo**; **l'excedent va a les caixes de l'Estat**. Vilar 1904, pp. 80-81 |
 | **junta** | **la secció o comissió que el Consell General treia del seu si per als afers poc importants**, **més sovint de sis membres, un per parròquia**. Vilar 1904, p. 82 |
+| **gambetto** | **el gran mantell negre del vestit de cerimònia del batlle**, amb tricorni. Vilar 1904, p. 93 |
+| **lletres de defensa** | **l'ordre que el jutge d'apel·lacions enviava al batlle, en assabentar-se d'una apel·lació, per aturar l'execució de la sentència**. Vilar 1904, p. 98 |
 | **càrrega** | **mesura de capacitat equivalent a 120 litres**, segons la font. La dotació en espècie de cada cura andorrana era de **12 càrregues de sègol i 5 de vi**. Vilar 1904, p. 70, nota 1 |
 | **rendableté** | *(mot francès del dret feudal)* **obligació de lliurar al senyor, en pau com en guerra, les places fortes del feu**; **era una de les clàusules del Pareatge de 1278**. Brutails 1904, p. 26 |
 | **talla a mercè** *(taille à merci)* | **talla que el senyor podia fixar a voluntat**, sense quantitat pactada; **el Pareatge en regulava la lleva**. Brutails 1904, p. 26 |
