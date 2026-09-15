@@ -142,7 +142,20 @@ noms que els sotmet el Consell General**.
 **La font diu que el Pariatge de 1278 va rebre l'aprovació del papa Martí IV
 «en 1288»** *(p. 30)*.
 
-**Martí IV va ser papa entre 1281 i 1285.** **El 1288 ja no ho era.**
+> **CORRECCIÓ DEL CORPUS SOBRE SI MATEIX, 16-09-2026.** **Aquesta fitxa afirmava
+> aquí que Martí IV va ser papa entre 1281 i 1285 i que per tant el 1288 era
+> impossible.** **Aquella data no sortia de cap font del corpus: es va escriure
+> de memòria**, i **el mètode ho prohibeix expressament.** **L'afirmació queda
+> retirada.**
+>
+> **El que el corpus sí que té és una segona font que dona una altra data.**
+> **André Vilar, *L'Andorre* (1904), p. 29**, escriu: «**Le Paréage fut confirmé
+> en 1282 par une bulle du pape Martin IV**». Vegeu [afirmats en principi,
+> sacrificats en l'aplicació](../pareatge/afirmats-en-principi-sacrificats-en-laplicacio.md).
+>
+> **Dues fonts, dues dates —1282 i 1288— per a la mateixa butlla del mateix papa.**
+> **Registrades totes dues; el corpus no arbitra**, i **no té ni la butlla ni cap
+> cronologia pontifícia verificada.**
 
 > **Segona incoherència de data d'aquest volum**, després de **«En 1727, Luis
 > XIV»** ([a qui pertany la jurisdicció de les

@@ -304,6 +304,18 @@ que buscava en el Pareatge «la base de la condició internacional d'Andorra».
 - **Si la sobirania catalana sobre Andorra** al segle XIII està establerta o és
   lectura de l'autora.
 
+> **Afegit el 16-09-2026, des d'un jurista que escriu noranta anys abans.**
+> **André Vilar, *L'Andorre* (1904), pp. 26-28**, dedica el capítol dels paréages
+> a aquesta mateixa qüestió i **confirma el fet i discuteix la conseqüència**.
+> Concedeix el punt de dret sense reserves —«**Qui fait hommage est vassal**»— i
+> tot seguit l'explica: **el comte era, per les armes, vencedor del bisbe quan el
+> pariatge va intervenir**, i per això **«les droits épiscopaux sont affirmés en
+> principe, sacrifiés dans l'application»**. **Que no es tornés a exigir
+> l'homenatge «n'influe en rien sur la question de droit féodal».** **Aquesta
+> fitxa ho llegeix com a abandonament de la suzerania; Vilar, com a no-exercici
+> que no extingeix el dret.** **Registrades les dues lectures.** Vegeu [afirmats
+> en principi, sacrificats en l'aplicació](./afirmats-en-principi-sacrificats-en-laplicacio.md).
+
 ## Related
 
 - [El Coprincipat](../../institucions/coprincipat/el-coprincipat.md) — què va sortir d'aquí.
