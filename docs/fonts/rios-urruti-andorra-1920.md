@@ -1,7 +1,17 @@
 ---
-type: source
-title: "Fernando de los Ríos Urruti — Vida e instituciones del pueblo de Andorra (1920)"
-description: "Un catedràtic de dret polític de Granada va fer treball de camp a Andorra cap al 1918 i en va publicar un estudi institucional en castellà, el primer que ell mateix va poder trobar publicat fora de Catalunya."
+type: font
+id: rios-urruti-andorra-1920
+title: Fernando de los Ríos Urruti, «Vida e instituciones del pueblo de Andorra. Una supervivencia señorial» (Madrid, 1920)
+titular: Junta para Ampliación de Estudios e Investigaciones Científicas · Centro de Estudios Históricos (edició); Fernando de los Ríos Urruti (textos)
+url: ""
+llicencia: sense llicència ni estat de drets declarats a l'ítem digital; termini espanyol per a defuncions anteriors a 1987, vuitanta anys post mortem
+redistribucio: pendent
+data_consulta: 2026-09-13
+abast: Volum llegit de la primera pàgina a l'última llevat de l'apèndix C, que és el Pariatge i del qual el corpus ja té el text per l'annex 1 de Vilar. Tretze unitats destil·lades.
+notes: >
+  Catedràtic de dret polític de Granada; treball de camp cap al 1918 i text
+  signat a Granada el desembre d'aquell any. El llibre declara la seva tesi a
+  l'última pàgina i no és un observador neutre en matèria de domini públic.
 tema: fonts
 veu: compilada
 epoca: contemporania

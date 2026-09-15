@@ -2,13 +2,7 @@
 
 # Índex del cervell andorrà
 
-**990** documents · **192** fonts · **39** aptes com a model de llengua · **124** temes amb contingut.
-
-## fonts
-
-| Document | Tema | Veu | Època | Apte | Font |
-| --- | --- | --- | --- | --- | --- |
-| [Fernando de los Ríos Urruti — Vida e instituciones del pueblo de Andorra (1920)](fonts/rios-urruti-andorra-1920.md) | `fonts` | compilada | contemporania | no | `` |
+**990** documents · **194** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1142,6 +1136,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Contacte de llengües](temes/llengua/contacte-de-llengues/contacte-de-llengues.md) | `temes/llengua/contacte-de-llengues` | compilada | contemporania | no | `iec-vocabulari-andorra` |
+| [El primer grup no va arribar a ser un grup](temes/llengua/contacte-de-llengues/el-primer-grup-no-va-arribar-a-ser-un-grup.md) | `temes/llengua/contacte-de-llengues` | compilada | contemporania | no | `margarit-monne-joves-i-llengues-2010` |
 | [Nacionalitat no és llengua](temes/llengua/contacte-de-llengues/nacionalitat-no-es-llengua.md) | `temes/llengua/contacte-de-llengues` | compilada | contemporania | no | `serra-llengues-i-identitats-2024` |
 
 ## temes/llengua/dialectologia
@@ -1708,6 +1703,7 @@
 | [`lluelles-aspectes-socioeconomics-1997`](fonts/lluelles-aspectes-socioeconomics-1997.md) | Maria Jesús Lluelles Larrosa · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`lopez-escenaris-de-futur`](fonts/lopez-escenaris-de-futur.md) | Pere López i Agràs · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`margarit-escenari-escolar-2017`](fonts/margarit-escenari-escolar-2017.md) | Govern d'Andorra · Ministeri de Cultura, Joventut i Esports · Servei de Política Lingüística (edició) i Estel Margarit i Viñals (textos) | drets reservats; dos titulars declarats a la pàgina de crèdits, cap llicència oberta | no |
+| [`margarit-monne-joves-i-llengues-2010`](fonts/margarit-monne-joves-i-llengues-2010.md) | Govern d'Andorra · Ministeri d'Educació i Cultura · Servei de Política Lingüística (edició) i Estel Margarit i Viñals i Alexandra Monné i Bellmunt (textos) | drets reservats; dos titulars declarats a la pàgina de crèdits, cap llicència oberta | no |
 | [`marina-formacio-dadults`](fonts/marina-formacio-dadults.md) | Joan Ramon Marina i Amat · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`martinez-benazet-professions-liberals`](fonts/martinez-benazet-professions-liberals.md) | Joan Martínez i Benazet · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mas-educacio-artistica`](fonts/mas-educacio-artistica.md) | Roger Mas i Canalis · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
@@ -1745,6 +1741,7 @@
 | [`pujol-fet-religios`](fonts/pujol-fet-religios.md) | Mn. Joan Pujol i Balcells · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`rabassa-alteracio-parlars-1994`](fonts/rabassa-alteracio-parlars-1994.md) | Lídia Rabassa · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`ribes-gastronomia-andorrana`](fonts/ribes-gastronomia-andorrana.md) | M. Dolors Ribes i Rogé · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`rios-urruti-andorra-1920`](fonts/rios-urruti-andorra-1920.md) | Junta para Ampliación de Estudios e Investigaciones Científicas · Centro de Estudios Históricos (edició); Fernando de los Ríos Urruti (textos) | sense llicència ni estat de drets declarats a l'ítem digital; termini espanyol per a defuncions anteriors a 1987, vuitanta anys post mortem | pendent |
 | [`rodriguez-minana-notaris`](fonts/rodriguez-minana-notaris.md) | Joan Carles Rodríguez i Miñana · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`rodriguez-rossa-creacio-artistica`](fonts/rodriguez-rossa-creacio-artistica.md) | Francesc Rodríguez i Rossa · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`ros-pascuet-normativa-migratoria-1997`](fonts/ros-pascuet-normativa-migratoria-1997.md) | Francesca Ros Pascuet · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
