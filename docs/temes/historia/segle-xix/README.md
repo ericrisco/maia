@@ -23,6 +23,7 @@ pel joc i va començar a sentir-se una nació.**
 | [No obeïu cap ordre que no vingui dels dos](./no-obeiu-cap-ordre-que-no-vingui-dels-dos.md) | Un **decret de 1715** copiat sencer, i per què **un privilegi primer es practica i després es concedeix** |
 | [Van deixar d'apel·lar a França per comoditat](./van-deixar-dapelar-a-franca-per-comoditat.md) | El dret d'apel·lació que no es feia servir, i **qui va ser el primer a dir-se Príncep Sobirà** |
 | [Semblava que el bisbe patrocinava el joc](./semblava-que-el-bisbe-patrocinava-el-joc.md) | **Com va començar el conflicte**: una carretera, una casa portàtil i un casino. I la reclamació espanyola de **1864** |
+| [Ni són ni s'han de considerar espanyols](./ni-son-ni-shan-de-considerar-espanyols.md) | **Tres consellers presos al castell de la Seu**, i el Consell oferint reduir la seva pròpia sobirania |
 
 ## El fil que les travessa
 

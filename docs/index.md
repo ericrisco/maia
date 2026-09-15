@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**953** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**954** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -853,6 +853,7 @@
 | [La Qüestió d'Andorra](temes/historia/segle-xix/la-questio-dandorra.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `wikipedia-questio-dandorra` |
 | [La qüestió duanera de 1895](temes/historia/segle-xix/la-questio-duanera-de-1895.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `diario-sesiones-corts-1895` |
 | [La reial ordre de setembre de 1894](temes/historia/segle-xix/la-reial-ordre-de-setembre-de-1894.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `boletin-oficial-leon-1894` |
+| [Ni són ni s'han de considerar espanyols](temes/historia/segle-xix/ni-son-ni-shan-de-considerar-espanyols.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `la-cuestion-de-andorra-1894` |
 | [No obeïu cap ordre que no vingui dels dos](temes/historia/segle-xix/no-obeiu-cap-ordre-que-no-vingui-dels-dos.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `la-cuestion-de-andorra-1894` |
 | [La Nova Reforma de 1866](temes/historia/segle-xix/nova-reforma.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `viquipedia-ca` |
 | [O ho accepteu, o el bestiar passa a ser estranger](temes/historia/segle-xix/o-ho-accepteu-o-el-bestiar-passa-a-ser-estranger.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `la-cuestion-de-andorra-1894` |

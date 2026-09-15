@@ -192,6 +192,22 @@ n'ha llegit:**
 1. **Qui era el bisbe d'Urgell que va trencar relacions amb Andorra cap al
    1874**, **i quan exactament.** **La font el descriu —«la violència del qual és
    llegendària a la regió»— i **no el nomena ni el data**.** **Prioritari.**
+   - **Segona font, afegida el 16-09-2026, que dona el mecanisme i no el nom.**
+     *La cuestión de Andorra* (1894), **p. 25**, escrita pel **Consell General**,
+     narra que **el bisbe va retirar tots els seus empleats de l'ordre judicial**,
+     deixant «*suspensa la jurisdicción más eficaz*»; que **el Consell es va
+     dirigir al copríncep francès** perquè conservés l'ordre públic i **processés
+     els dos caps del moviment**; que els representants francesos hi van posar
+     **molt de recel «por verles ligados con el Sr. Obispo, con toda clase de
+     relaciones»**; que **tres representants del Consell enviats en comissió al
+     Palau episcopal van ser detinguts per ordre del bisbe i tancats al castell de
+     la Seu**; i que **el veguer francès va acabar obrint procés ell sol**,
+     **«conformando el procedimiento á los casos excepcionales… ya que para este
+     caso especial no había antecedentes»**, amb **una multa i un curt
+     desterrament** per resultat. **La campanya, diu, «empezó… el antecesor de
+     V. E. I.»** — **el predecessor de Casañas—, i no el nomena.** **El corpus no
+     el converteix en nom.** Vegeu [ni són ni s'han de considerar
+     espanyols](../../historia/segle-xix/ni-son-ni-shan-de-considerar-espanyols.md).
 2. **L'ordre al batlle francès d'admetre les apel·lacions** i **la suspensió que
    el Bisbe hi va respondre**: **textos i dates.**
 3. **Quant va durar la paràlisi**, **quantes presons preventives s'hi van
@@ -242,6 +258,7 @@ n'ha llegit:**
 
 ## Related
 
+- [Ni són ni s'han de considerar espanyols](../../historia/segle-xix/ni-son-ni-shan-de-considerar-espanyols.md) — la mateixa crisi, narrada pel Consell General.
 - [No hi pot haver més que un sol veguer](./no-hi-pot-haver-mes-que-un-sol-veguer.md) — el Pareatge amb un sol veguer, i el veto de 1885.
 - [No en volien dos, de jutge](./no-en-volien-dos-de-jutge-en-volien-un-de-comu.md) — l'alternança que fa coincidir tres peces en un sol copríncep.
 - [El Consell li va dir que suspengués](./el-consell-li-va-dir-que-suspengues.md) — l'altra suspensió, la de dins.
