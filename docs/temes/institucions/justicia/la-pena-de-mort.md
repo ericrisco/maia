@@ -67,6 +67,33 @@ Andorra probablement estava malalta i probablement no va tenir un judici just.**
 > 1860. El garrot el féu comprar el copríncep Josep Caixal perquè el considerà
 > més humà que la forca.»**
 
+> **AVÍS, 23-09-2026: aquesta fitxa està escrita des d'una enciclopèdia i una
+> font contemporània la contradiu en el motiu.** **Brutails, *La Coutume
+> d'Andorre* (1904), p. 326**, diu:
+>
+> > **«*Els condemnats a mort antigament eren penjats. El senyor **Pallerola**,
+> > veguer episcopal, ha tingut l'amabilitat d'assenyalar-me **una súplica del
+> > Consell General al Bisbe, de data 23 de novembre de 1854**, **exposant que la
+> > penjada era costosa** i demanant, **per esperit d'economia**, que fos
+> > substituïda pel garrot*.»**
+>
+> | | Aquesta fitxa *(enciclopèdia)* | **Brutails, 1904** |
+> |---|---|---|
+> | **Qui ho demana** | **El copríncep** | **El Consell General** |
+> | **Per què** | **Perquè és més humà** | **Perquè penjar surt car** |
+> | **Quan** | «Mitjan segle XIX» | **23 de novembre de 1854** |
+>
+> `Registrat, no arbitrat.` **El corpus no declara que l'enciclopèdia
+> s'equivoqui**: **fa constar que té dues versions incompatibles del motiu i de
+> la iniciativa**, **que la de 1904 ve d'un document datat**, i **que aquella font
+> tampoc no el transcriu** —**el coneix perquè l'hi van assenyalar.**
+>
+> **I la mateixa pàgina hi afegeix el que aquesta fitxa no tenia**: **l'instrument
+> es guardava «*en un cofre del menjador del Consell General*»** —amb l'incís de
+> dubte de l'autor, «si no recordo malament»— **i el 1904 es podia dir, «*amb
+> certs andorrans*», que **la pena de mort era virtualment abolida***.
+> **Vegeu** [el van demanar per estalviar, no per pietat](./el-van-demanar-per-estalviar-no-per-pietat.md).
+
 **Un bisbe va comprar un garrot per pietat.**
 
 **El corpus ho registra amb aquesta sequedat perquè és el que la font diu, i

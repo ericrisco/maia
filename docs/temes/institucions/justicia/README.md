@@ -4,7 +4,7 @@ Tribunal de Corts, Batllia, Consell Superior de la Justícia.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (99)
+## Articles (100)
 - [A les galeres d'Espanya, per la neu](./a-les-galeres-despanya-per-la-neu.md) — Els condemnats andorrans anaven a galeres espanyoles i el Politar en dona quatre raons, la segona meteorològica: a l'hivern, la tardor i la primavera no es podien dur a les de França perquè els Pirineus eren plens de neu.
 - [Abrogats el 1839, aplicats el 1889](./abrogats-el-1839-aplicats-el-1889.md) — Com es cobrava un deute a Andorra: la cessió de béns, l'adjudicació d'immobles i el dret de recomprar-los.
 - [Al botxí per sos drets de penjar tres dones](./al-botxi-per-sos-drets-de-penjar-tres-dones.md) — El compte de despeses del juny de 1604 per l'execució de dones acusades de bruixeria a Andorra, amb l'aranzel del botxí i el que van rendir les composicions.
@@ -36,6 +36,7 @@ Tribunal de Corts, Batllia, Consell Superior de la Justícia.
 - [El recurs d'empara](./el-recurs-dempara.md) — L'última porta per defensar un dret fonamental a Andorra.
 - [El saig](./el-saig.md) — Vuit segles i tres oficis diferents amb el mateix nom: el cobrador del bisbe el 1266, el jutge fins que li van canviar el nom, i el professional que executa sentències des del 2023.
 - [El Tribunal Constitucional](./el-tribunal-constitucional.md) — Quatre magistrats: un per cada copríncep i dos pel Consell General.
+- [El van demanar per estalviar, no per pietat](./el-van-demanar-per-estalviar-no-per-pietat.md) — Una súplica del Consell General al Bisbe del 23 de novembre de 1854 diu que penjar sortia car i que el garrot el demanaven per esperit d'economia.
 - [El veguer de França pagava les Corts de la seva butxaca](./el-veguer-de-franca-pagava-les-corts-de-la-seva-butxaca.md) — Una carta del baró de Breteuil de 1788 diu que el veguer nomenat pel rei no tenia sou, que només cobrava de les multes, i que si no arribaven hi posava del seu.
 - [Els cònsols els lliuren amb els ulls tancats](./els-consols-els-lliuren-amb-els-ulls-tancats.md) — El Politar recomanava extrema circumspecció en lliurar els manaments de visura; el 1904 els cònsols els expedien «per dir-ho així, amb els ulls tancats».
 - [Els notaris deien que sense escriptura no hi havia venda](./els-notaris-deien-que-sense-escriptura-no-hi-havia-venda.md) — El dret andorrà era poc formalista, i qui deia el contrari en vivia.

@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**934** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**935** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -952,6 +952,7 @@
 | [El recurs d'empara](temes/institucions/justicia/el-recurs-dempara.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El saig](temes/institucions/justicia/el-saig.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [El Tribunal Constitucional](temes/institucions/justicia/el-tribunal-constitucional.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [El van demanar per estalviar, no per pietat](temes/institucions/justicia/el-van-demanar-per-estalviar-no-per-pietat.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [El veguer de França pagava les Corts de la seva butxaca](temes/institucions/justicia/el-veguer-de-franca-pagava-les-corts-de-la-seva-butxaca.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Els cònsols els lliuren amb els ulls tancats](temes/institucions/justicia/els-consols-els-lliuren-amb-els-ulls-tancats.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Els notaris deien que sense escriptura no hi havia venda](temes/institucions/justicia/els-notaris-deien-que-sense-escriptura-no-hi-havia-venda.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
