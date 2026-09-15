@@ -111,6 +111,18 @@ popular.**
 >
 > **I el 1688 la fórmula del batlle francès era una altra:** **«qui t'a morta?
 > Lo Rey t'o demana»**. **La crida nomena la sobirania de qui la pronuncia.**
+>
+> **I n'hi ha una quarta, del 1897 — 16-09-2026.** **Ch. Romeu, veguer de França
+> a Andorra, la va publicar a *Le Tour du Monde* aquell any**, i **una font
+> francesa del 1904 la reprodueix**: **«*Mort! qui t'a mort?*»**, repetida al cap
+> d'uns segons; **després, passant de la pregunta a la injunció, «*Mort! Alsa te
+> que la justicia te mane!*»**; **i, girant-se cap al batlle i abaixant la veu,
+> «*Es mort qui no respon!*»** **La tercera línia és nova al corpus**: **l'acta
+> del 1801 diu que ningú no responia, i aquesta és la frase amb què es tancava
+> l'acte.** **Ara en són quatre de versions i cap no és igual que una altra**, i
+> **la de 1897 torna a invocar la Justícia, no el Rei.** `De segona mà: l'article
+> de 1897 segueix sense llegir-se.` Vegeu
+> [el jutge que seia i no votava](./el-jutge-que-seia-i-no-votava.md).
 - ~~**El nunci**: el corpus no en té fitxa pròpia.~~ — **`parcial`, i el corpus
   en té més del que sabia.** **Fitxa, cap; però el nunci surt en cinc papers
   diferents repartits per quatre articles**, i **no estaven connectats:**

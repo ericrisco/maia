@@ -177,6 +177,19 @@ entre els seus membres, «en una divisió de funcions pròpies d'un govern». El
    rahonadors** «per rahonar sos privilegis y als **pobres enquestats y
    manlleutats**»
    ([al Bisbe la dignitat, al de Foix el profit](../coprincipat/al-bisbe-la-dignitat-al-de-foix-el-profit.md)).
+   **I una quarta, del 16-09-2026, que és la definició i no una funció
+   solta:** **el decret de Catalán de Ocón, citat per una font francesa del
+   1904, els defineix per exclusió** —**no entren al tribunal «*ni com a jutges
+   ni com a ministres de la justícia, ni per concloure com a fiscals contra els
+   acusats, ni per defensar-ne la causa com a advocats*»**, cosa que **és dels
+   legistes**— **i els dona el que sí que són: «*simples procuradors honorables
+   del públic*», encarregats d'exposar i postular sobre la pena o el perdó**,
+   **perquè és sobre la seva exposició que els veguers jutgen.** **Van néixer
+   d'un conflicte del 1762**: **el Consell General els volia jutges de debò i
+   els veguers s'hi negaven.** **I la mateixa font avisa contra l'error de
+   veure-hi només advocats d'ofici**: **abans que res han de fer respectar el
+   costum**, i **als plets civils s'entremeten per afavorir les transaccions**
+   ([el jutge que seia i no votava](./el-jutge-que-seia-i-no-votava.md)).
    **El rahonador és un prohom que raona**, i **el que està protegit és que
    pugui fer-ho per als privilegis de les Valls i per als presos pobres.**
    **I el 15-09-2026 les funcions reals queden tancades**, amb el text del

@@ -29,6 +29,7 @@ Tribunal de Corts, Batllia, Consell Superior de la Justícia.
 - [El demandat segueix el demandant](./el-demandat-segueix-el-demandant.md) — A Andorra l'axioma processal anava al revés: qui triava el tribunal era qui demandava, i el demandat l'havia de seguir.
 - [El dret andorrà vigent](./el-dret-vigent.md) — 104 lleis i 8.956 articles.
 - [El dret supletori](./el-dret-supletori.md) — Els andorrans deien que el seu dret supletori era el romà.
+- [El jutge que seia i no votava](./el-jutge-que-seia-i-no-votava.md) — Als Corts hi havia tres magistrats i només en deliberaven dos; el tercer, si el cridaven per desempatar, havia d'agafar una de les dues opinions i no en podia proposar una de seva.
 - [El Manual Digest va desnaturar el privilegi](./el-manual-digest-va-desnaturar-el-privilegi.md) — El 1305 Gastó de Foix va dispensar les dones andorranes de la fiança judicial quan el marit la fes per elles.
 - [El notariat](./el-notariat.md) — La figura del notari andorrà es remunta al segon Pareatge, del 6 de desembre de 1288.
 - [El procés penal](./el-proces-penal.md) — Quaranta-vuit hores de detenció màxima, cap jurat popular en tot el codi, i responsabilitat penal a partir dels dotze anys.

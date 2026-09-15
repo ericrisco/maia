@@ -91,6 +91,16 @@ amb les notes ([font](../../../fonts/brutails-coutume-1904.md)).
 
 > **Tres coses que el corpus reté.**
 >
+> **Afegit el 16-09-2026: on era l'instrument, i quant havia servit.** **Una
+> segona font francesa del 1904 diu que **l'instrument d'execució és al palau de
+> les Valls** i que **«il n'a, jusqu'à présent, servi qu'une fois ou deux, il y a
+> de longues années»**, i que **si calgués vindria un botxí espanyol** a aplicar
+> el garrot «comme en Espagne».** **Concorda amb aquesta fitxa sobre el model
+> espanyol**, i **afegeix que Andorra no tenia ni botxí propi ni presó**: **les
+> penes de presó es complien a França**
+> ([el jutge que seia i no votava](./el-jutge-que-seia-i-no-votava.md)).
+> `Cap de les dues fonts data cap execució.`
+
 > **La primera és el lloc de custòdia**: **el garrot es guardava **en un cofre del
 > menjador del Consell General**.** **L'instrument d'execució vivia dins la casa
 > del parlament, i la font ho diu amb un incís de dubte** —**«si no recordo

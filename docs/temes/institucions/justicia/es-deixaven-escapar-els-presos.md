@@ -299,6 +299,17 @@ amb les notes ([font](../../../fonts/brutails-coutume-1904.md)).
 > **`El corpus no diu que això s'apliqués mai.`** **Té la decisió i cap cas.**
 > **I no consta si es va derogar.**
 
+> **Per què no hi havia establiment — 16-09-2026.** **Una segona font francesa
+> del 1904 dona la raó estructural que aquesta fitxa descrivia pels seus efectes:**
+> **«*L'Andorre n'est pas outillée pour la répression: elle est obligée de faire
+> appel à l'étranger*».** **Les penes de presó es complien a França**; **a Andorra
+> només s'hi podien fer detencions molt curtes o preventives**, i **el pres es
+> confiava «à la garde de quelques citoyens désignés par les autorités»** — **que
+> és exactament la custòdia cara que aquesta fitxa documenta.** **I per a la pena
+> de mort hauria vingut un botxí espanyol.** **El corpus no té cap conveni que
+> reguli la presó a França ni cap xifra de persones.** Vegeu
+> [el jutge que seia i no votava](./el-jutge-que-seia-i-no-votava.md).
+
 ## Buits registrats
 
 1. **Si la decisió del Consell General del 12 de maig de 1866 es va aplicar mai,

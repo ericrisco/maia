@@ -222,8 +222,17 @@ la més precisa de totes:**
    1877**, sencers. **Prioritari**: **cauen dins la crisi i el corpus només en té
    la frase citada.**
 4. **Si la doctrina de la suspensió dels tribunals inferiors va acabar
-   imposant-se**, **i quan.** **La font diu que «la jurisprudència s'orienta en
-   aquest sentit» el 1904 i el corpus no té res de posterior.**
+   imposant-se**, **i quan.** **`TANCAT QUANT AL FET, OBERT QUANT A LA DATA —
+   16-09-2026.`** **Una segona font francesa del mateix 1904 la dona per
+   aplicada**: **totes les causes, correccionals o criminals, es porten al
+   tribunal de Corts**, que **té sessió anual a Andorra la Vella el març o
+   l'abril**. **I en dona el motiu i l'instigador**: **la decisió es va prendre
+   «en vue d'éviter tout risque de conflit»** i **a instància del Consell General
+   de les Valls** — **el mateix cos que havia decretat la doctrina el 1874 i el
+   1877.** **De retruc va regularitzar les sessions d'un tribunal que abans només
+   es convocava quan hi havia causa.** **La data segueix sense fixar: la font diu
+   «depuis déjà quelques années».** Vegeu
+   [el jutge que seia i no votava](./el-jutge-que-seia-i-no-votava.md).
 5. **Quantes vegades el Consell General va refusar d'obrir les Corts**, **i amb
    quin motiu.** **La font diu que ha passat i no dona cap cas.**
 6. **La deliberació del Consell del 26 de febrer de 1886**, sencera, **i els
