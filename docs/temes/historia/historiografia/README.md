@@ -13,3 +13,4 @@ Qui ha escrit la història d'Andorra, amb quines fonts i amb quins buits.
 - [Les Diades andorranes](./les-diades-andorranes.md) — Trenta-nou volums monogràfics de recerca andorrana, un per any des del 1988.
 - [Les tres fases de la historiografia andorrana](./les-tres-fases.md) — La descoberta (1749-1950), la mirada interior (1950-2000), la fragmentació (2000-avui).
 - [Lídia Armengol i Vila](./lidia-armengol-vila.md) — Historiadora andorrana que va lluitar per restaurar la llengua i la cultura del seu país, morta als 43 anys.
+- [Tot venia de la mateixa prestatgeria](./tot-venia-de-la-mateixa-prestatgeria.md) — La bibliografia de Vilar cita el Pariatge, el Manual Digest i el Politar des de la mateixa biblioteca de París, que és on van anar a parar les còpies enviades el 1879.

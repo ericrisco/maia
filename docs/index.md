@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**974** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**975** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -811,6 +811,7 @@
 | [Les tres fases de la historiografia andorrana](temes/historia/historiografia/les-tres-fases.md) | `temes/historia/historiografia` | compilada | contemporania | no | `villaro-estat-questio-historiografia` |
 | [L'estat de la qüestió de les evasions](temes/historia/historiografia/lestat-de-la-questio-de-les-evasions.md) | `temes/historia/historiografia` | compilada | contemporania | no | `esteves-exili-i-evasions` |
 | [Lídia Armengol i Vila](temes/historia/historiografia/lidia-armengol-vila.md) | `temes/historia/historiografia` | compilada | contemporania | no | `viquipedia-ca` |
+| [Tot venia de la mateixa prestatgeria](temes/historia/historiografia/tot-venia-de-la-mateixa-prestatgeria.md) | `temes/historia/historiografia` | compilada | contemporania | no | `vilar-andorre-1904` |
 
 ## temes/historia/manual-digest
 

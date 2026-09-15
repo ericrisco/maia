@@ -94,6 +94,19 @@ I una que va sortir del país:
 
 **El 1879 els dos costumaris andorrans es van copiar i enviar a París.**
 
+> **I què se'n va fer — 17-09-2026.** **Vint-i-cinc anys després, aquell dipòsit
+> és la base d'un llibre francès sobre Andorra**: **la bibliografia de Vilar
+> (1904) cita la mateixa biblioteca per al Manual Digest, per al Politar **i per
+> al text del Pariatge que tradueix a l'annex**.** **Quan aquells autors citen els
+> costumaris, no citen l'original d'Ordino ni el de la Casa de la Vall: citen la
+> transcripció que Bonaventura Moles va fer el 1879**, **la mateixa que el jutge
+> que els servia els extractes deia d'acceptar «*sous bénéfice de revision*».**
+> **El nom del dipòsit balla entre les dues fonts** —«*comparée*» en una,
+> «*étrangère*» en l'altra—, **i la bibliografia hi posa un cognom per a l'autor
+> del Politar: «l'abbé Puigt»**, que **el corpus registra sense donar-lo per
+> establert.** Vegeu [tot venia de la mateixa
+> prestatgeria](../historiografia/tot-venia-de-la-mateixa-prestatgeria.md).
+
 ## El títol complet del Manual Digest
 
 Brutails el transcriu, i val la pena tenir-lo sencer:

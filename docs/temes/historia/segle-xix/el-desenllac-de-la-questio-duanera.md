@@ -453,6 +453,14 @@ caracterització del frau andorrà.**
    aquest diari**, i creia que sí. Vegeu el [README de `raw/`](../../../raw/README.md).
 3b. **La verificació caràcter a caràcter** de les citacions d'OCR contra el PDF.
    L'OCR de premsa del 1895 té errors sistemàtics.
+3c. **`PISTA NOVA I PRIORITÀRIA — 17-09-2026`**: **existeix un opuscle imprès el
+   mateix 1895 que diu contenir el compte rendut dels debats «*à la Chambre, au
+   Sénat et devant la Commission extraparlementaire*» sobre les franquícies
+   duaneres andorranes** — ***Las cortes españolas de 1895 y las franquicias de
+   Andorra*, Madrid, Hernandez, 1895**. **És, per la seva descripció, el lloc on
+   hauria de ser la sessió del 26 de juny que aquesta fitxa reclama al buit 2.**
+   Vegeu [tot venia de la mateixa
+   prestatgeria](../historiografia/tot-venia-de-la-mateixa-prestatgeria.md).
 4. ~~**Quantes mules hi havia realment a Andorra el 1895.**~~ **TANCAT el
    2026-09-13, i no dona la raó a ningú.** Els censos duaners francesos de
    **1898, 1899 i 1900** que publica Brutails donen un **terç mitjà de 55 mules**
