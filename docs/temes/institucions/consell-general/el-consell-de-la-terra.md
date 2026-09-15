@@ -308,6 +308,23 @@ Les sessions es dividien en **ordinàries —«consells sabuts»—** i
 **S'evitava al màxim convocar consells durant l'estiu**, perquè **era el moment
 de més activitat als camps**.
 
+> **Una collació que confirma aquesta taula, i per una via inesperada —
+> 16-09-2026.** **Ríos Urruti, el 1920, descriu aquests mateixos consells llegint
+> el mateix capítol del Politar**, i **en llista cinc noms i sis ordres del dia**
+> ([definir el costum és legislar](./definir-el-costum-es-legislar.md)). **El nom que li falta és el de Sant Andreu** — **i el seu
+> cinquè ordre del dia és exactament el de Sant Andreu: «pagar la otra mitad del
+> sueldo a los empleados de nombramiento del Consejo y cobrar los estranys».**
+>
+> **La correspondència entre nom i ordre del dia que aquesta fitxa va establir el
+> 16-09-2026 queda comprovada contra una lectura aliena del mateix text.** `No és
+> un testimoni independent —tots dos llegeixen el Politar— però sí una collació
+> de dues lectures.`
+>
+> **I dues coses que aquella font hi afegeix**: **que el Consell de l'Afor
+> «parece que ha caído en desuso»** cap al 1918, i **que el de Tots Sants «sólo
+> tiene lugar cuando toca pagar la questia a Francia»**, cosa que **dona suport a
+> la lectura bianual que aquesta taula marcava amb avís.**
+
 **I des del 16-09-2026 el corpus sap què es feia a cadascun.** El **capítol II
 del llibre III del Politar** dona **l'ordre del dia dels sis**
 ([la capa ho cobreix tot](./la-capa-ho-cobreix-tot.md)): **Setmana Santa**,

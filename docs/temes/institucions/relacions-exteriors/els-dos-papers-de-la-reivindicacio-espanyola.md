@@ -232,7 +232,13 @@ llegir París:**
 6. **L'obra de Joan de Déu Trias**, *Constitución política y personal
    internacional del Principado de Andorra* (1890). **Tercera tanda que surt
    citada i segueix sense llegir-se.** **Prioritari**: **és l'autoritat
-   episcopal que totes dues fonts franceses combaten.**
+   episcopal que totes dues fonts franceses combaten.** — **Actualitzat el
+   16-09-2026**: **una font espanyola del 1920 el cita per una pàgina i una tesi
+   concretes** —**p. 8**, on **sosté que el Consell General data del segle
+   XIII**, contra **Pallerola**, que el situa **no abans del segle XV**
+   ([definir el costum és
+   legislar](../consell-general/definir-el-costum-es-legislar.md)). **El llibre
+   segueix sense obrir-se, i ja van sis tandes.**
 7. **Què va respondre Espanya** a la tesi francesa de la suzeraineté. **Segueix
    obert des de [qui parlava per Andorra](./qui-parlava-per-andorra.md).**
 

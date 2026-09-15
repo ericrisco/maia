@@ -4,8 +4,9 @@ Síndic i subsíndic general, consellers generals, legislatures, el Diari de Ses
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (20)
+## Articles (21)
 - [Cap de casa, però de casa antiga](./cap-de-casa-pero-de-casa-antiga.md) — Fins al 1866 cada parròquia tenia Consell Obert, i per entrar-hi no bastava ser cap de casa: la casa havia de ser antiga i representar un foch.
+- [Definir el costum és legislar](./definir-el-costum-es-legislar.md) — Què és exactament un decret del Consell General, segons un catedràtic de dret polític del 1918; i una collació amb el Politar que ensenya quin consell de l'any li falta a la seva llista.
 - [El Consell de la Terra](./el-consell-de-la-terra.md) — El parlament andorrà neix el 1419, es reunia sis cops l'any en dates com el Consell de l'Afor, i seia en rotlle.
 - [El Consell General](./el-consell-general.md) — Representació nacional i parroquial, òrgans i sessions contrastats amb la Constitució i el Reglament publicat el juny de 2026.
 - [El debat sobre el càlcul patrimonial de 2018](./el-debat-sobre-el-calcul-patrimonial-de-2018.md) — El Consell va aprovar la reforma amb 24 vots favorables i tres abstencions; el debat preserva posicions oposades sobre l'habilitació del reglament anterior.

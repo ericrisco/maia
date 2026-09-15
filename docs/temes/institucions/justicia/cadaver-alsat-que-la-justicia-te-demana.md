@@ -206,6 +206,17 @@ del corpus: l'arrest del 1783 no ho diu amb aquestes paraules`. **La divergènci
 sobre si `visura` és el tribunal o el desplaçament segueix oberta**: **el Politar
 nomena els homes, no l'acte.**
 
+> **I una font del 1920 tria el desplaçament, amb raó donada.** **Ríos Urruti
+> escriu que se'n diu *veeduria* o *visura* «*porque se trasladan al sitio objeto
+> de litigio*», i hi afegeix que el mateix passava amb els àrbitres, perquè
+> **àrbitre** es creu derivat de ***ad = bitere***, «ha d'anar» — **i anar on?
+> «Sin duda al lugar que ha dado origen a la cuestión»**
+> ([definir el costum és
+> legislar](../consell-general/definir-el-costum-es-legislar.md)).
+> `El corpus no verifica l'etimologia i registra la posició: el nom vindria de
+> l'acte de traslladar-se, no del tribunal.` **També dona les altres dues sales
+> amb nom: «los seis de Concell» i «los 24 de Concell».**
+
 ## Buits registrats
 
 **El manuscrit Palmitjavila no és al corpus.** D'ell surt la frase que explica

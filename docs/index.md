@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**987** documents · **192** fonts · **39** aptes com a model de llengua · **124** temes amb contingut.
+**988** documents · **192** fonts · **39** aptes com a model de llengua · **124** temes amb contingut.
 
 ## fonts
 
@@ -916,6 +916,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Cap de casa, però de casa antiga](temes/institucions/consell-general/cap-de-casa-pero-de-casa-antiga.md) | `temes/institucions/consell-general` | compilada | contemporania | no | `rios-urruti-andorra-1920` |
+| [Definir el costum és legislar](temes/institucions/consell-general/definir-el-costum-es-legislar.md) | `temes/institucions/consell-general` | compilada | contemporania | no | `rios-urruti-andorra-1920` |
 | [«Diria que sí»](temes/institucions/consell-general/diria-que-si.md) | `temes/institucions/consell-general` | compilada | historica | no | `brutails-coutume-1904` |
 | [El Consell de la Terra](temes/institucions/consell-general/el-consell-de-la-terra.md) | `temes/institucions/consell-general` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [El Consell General](temes/institucions/consell-general/el-consell-general.md) | `temes/institucions/consell-general` | compilada | contemporania | no | `bopa-ad` |
