@@ -64,6 +64,20 @@ grafies i els seus anys.
 | **MAS D'ALINS** | **post 860** *helinse*; **1176** *elinç*; s. XII *helinse*; **1270** *lins* |
 | **ENGORDANY** | **949** *engordan*; **1040** *engorday*; **1119** *egordan*; **1233** *dangorday*; **1258** *engordainn* |
 | **SORNÀS** | **1052** *surnas*; **1176** *surnass* |
+
+> **D'on podrien sortir les formes del 1176 — 15-09-2026.** **El corpus ha llegit
+> el text de la concòrdia del 8 de gener de 1176 entre els homes d'Andorra i el
+> bisbe d'Urgell** ([de cada casa, un home ben
+> armat](../../historia/edat-mitjana/de-cada-casa-un-home-ben-armat.md)) **i no hi
+> ha cap topònim**: el cos del document parla de parròquies sense nomenar-les.
+> **El que sí que hi ha és la declaració del copista que l'original porta «els
+> signes i subscripcions de tots els homes de la vall d'Andorra»**, que aquella
+> còpia no reprodueix. `Hipòtesi del corpus, marcada com a tal: si les formes de
+> 1176 d'aquesta taula surten d'un document del 1176, el candidat natural és
+> aquella llista de signants, on cada home aniria designat pel seu lloc —com
+> passa a la carta del 1133, on cinc andorrans signen «de Annorra», «de la
+> Magaña», «de Ordinau», «de Canillan» i «de Encampo».` **El corpus no sap quin
+> document va fer servir l'estudi toponímic i no ho dona per establert.**
 | **AIXIRIVALL** | **1073** *ciroval*; **1132-1210** *cirival*; **1748** *xirovall* |
 | **BIXESSARRI** | **1119-1137** *bexessarri*; **1162** *bixasarri*; **1176** *bixesarre*; **1210** *bexesari*; **1213** *bixeare*; **1235** *bixesari*; **1246** *bixesare*; **1257** *beseare*; **1260** *bixesesarre*; **1263** *bixesarrei* |
 | **ARINSAL** | **1162** *arensall / arenseu*; **1275** *arensau* |

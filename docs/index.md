@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**985** documents · **192** fonts · **39** aptes com a model de llengua · **124** temes amb contingut.
+**986** documents · **192** fonts · **39** aptes com a model de llengua · **124** temes amb contingut.
 
 ## fonts
 
@@ -779,6 +779,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Andorra a l'edat mitjana](temes/historia/edat-mitjana/andorra-a-ledat-mitjana.md) | `temes/historia/edat-mitjana` | compilada | contemporania | no | `viquipedia-ca` |
+| [De cada casa, un home ben armat](temes/historia/edat-mitjana/de-cada-casa-un-home-ben-armat.md) | `temes/historia/edat-mitjana` | compilada | historica | no | `rios-urruti-andorra-1920` |
 | [Els bisbes d'Urgell](temes/historia/edat-mitjana/els-bisbes-durgell.md) | `temes/historia/edat-mitjana` | compilada | contemporania | no | `pujol-fet-religios` |
 | [Els privilegis d'Andorra són tots moderns](temes/historia/edat-mitjana/els-privilegis-dandorra-son-tots-moderns.md) | `temes/historia/edat-mitjana` | compilada | historica | no | `brutails-coutume-1904` |
 | [Els privilegis](temes/historia/edat-mitjana/els-privilegis.md) | `temes/historia/edat-mitjana` | compilada | contemporania | no | `bascompte-privilegis` |

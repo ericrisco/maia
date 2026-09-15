@@ -81,4 +81,5 @@ propietari del repositori, no de qui llegeix.**
 | **Capítol IV** | **sense llegir** — hi ha **els quarts**, **el pressupost de 1917** i **les boïgues** |
 | **Apèndix D** (la Reforma del 22 d'abril de 1866, pp. 150-161) | **destil·lat el 15-09-2026** — tancava un buit declarat en quatre articles del corpus |
 | **Apèndix A** (donació d'Ermengol VI al bisbe Pere, 27 de gener de 1133, pp. 131-133) | **destil·lat el 15-09-2026** — tancava la secció de buit «Què va passar el 1133» de `els-privilegis` |
-| **Apèndixs B i C** | **sense llegir** — **prioritari**. **B**: acord entre el bisbe Arnau de Perexens i els habitants de la vall, **8 de gener de 1176** — **és un cap de sèrie registrat del corpus**. **C**: el **Pariatge del 8 de setembre de 1278**. **Tots dos citats *apud* Baudon de Mony**, amb signatura d'arxiu |
+| **Apèndix B** (concòrdia del 8 de gener de 1176, pp. 133-136) | **destil·lat el 15-09-2026** — tancava el buit 3 de `cap-de-casa-pero-de-casa-antiga`, marcat prioritari |
+| **Apèndix C** (el Pariatge del 8 de setembre de 1278) | **sense llegir**. **El corpus ja té el text del Pariatge per l'annex 1 de Vilar (1904)**: la feina d'aquest apèndix és **el contrast entre dues transcripcions del mateix document**, no una lectura nova |

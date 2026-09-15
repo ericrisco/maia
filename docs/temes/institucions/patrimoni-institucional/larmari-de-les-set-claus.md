@@ -155,6 +155,22 @@ que la unitat de les sis parròquies neix **de la resistència a la feudalitzaci
 hi ha cap cap de casa de Soldeu, **o no n'hi havia, o no hi van voler ser**. Cap
 de les dues coses no és petita. **Buit registrat.**
 
+> **Comprovat el que es podia comprovar, i no es podia — 15-09-2026.** **El
+> corpus ha llegit el text de la concòrdia del 1176 sencer**, en llatí, a
+> **l'apèndix B de Ríos Urruti (1920)** ([de cada casa, un home ben armat](../../historia/edat-mitjana/de-cada-casa-un-home-ben-armat.md)).
+> **No hi ha cap llista de caps de casa**: hi signen **el bisbe i el vescomte de
+> Castellbò**, i **el copista declara que l'original porta «*signa et
+> subscriptiones omnium hominum vallis Andorre et multorum testium*»**. **La
+> llista existeix i no és en aquesta còpia.** **L'absència de Soldeu segueix sent
+> un buit, i ara se sap exactament on s'ha d'anar a comprovar**: a l'Arxiu de la
+> Corona d'Aragó (cartes d'Alfons I, núm. 191), a l'Arxiu Capitular d'Urgell
+> (cartulari I, núm. 848) o a la col·lecció Doat de la Bibliothèque Nationale
+> (vol. 161, ff. 264-272).
+>
+> **I la lectura d'Anglada queda confirmada pel document mateix**: no cal
+> entreveure-hi discòrdia, perquè **el text s'obre dient «*longa contencio fuit…
+> inter homines vallis Andorre*»**.
+
 I la primera petició coneguda dels síndics andorrans és **per poder comerciar**.
 Encaixa amb tot el que el corpus té sobre
 [el comerç](../../economia/comerc/comerc.md) i

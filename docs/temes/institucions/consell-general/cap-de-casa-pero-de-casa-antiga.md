@@ -63,7 +63,7 @@ Ríos Urruti**, *Vida e instituciones del pueblo de Andorra*, 1920 —**escrit e
 
 | Quan | On surt el *foch* |
 |---|---|
-| **1176** | **acord entre els homes d'Andorra i el bisbe d'Urgell** — els serveis feudals s'hi relacionen amb *domos*, *foch* o *fumo* |
+| **1176** | **acord entre els homes d'Andorra i el bisbe d'Urgell** — els serveis feudals s'hi relacionen amb *domos*, *foch* o *fumo*. **Llegit el 15-09-2026: el text diu *de unaquaque domo unus bene armatus* i no hi surt ni *foch* ni *fumo*** ([de cada casa, un home ben armat](../../historia/edat-mitjana/de-cada-casa-un-home-ben-armat.md)) |
 | **1359** | **les Corts de Cervera** fan comptar la població de Catalunya **per *foch***, després de les grans pestes |
 
 > **El document de 1176 és, per al corpus, el més antic de l'armari de les set
@@ -253,9 +253,16 @@ actos que tienen inmediata transcendencia jurídica para ellos*»**:
    decidia.** **Nou i prioritari: és el llindar del cos polític andorrà.**
 2. **Si la Reforma de 1866 va abolir el Consell Obert**, **i amb quin article.**
    **La font diu «al menos parcialmente» i no en cita cap.**
-3. **L'acord de 1176 entre els homes d'Andorra i el bisbe**, sencer. **El corpus
-   sap que és el document més antic del seu armari i ara en sap la matèria.**
-   **Prioritari.**
+3. ~~**L'acord de 1176 entre els homes d'Andorra i el bisbe**, sencer.~~ —
+   **`TANCAT` el 15-09-2026**: és **l'apèndix B de Ríos Urruti (1920), pp.
+   133-136**, en llatí i amb tres signatures d'arxiu ([de cada casa, un home ben armat](../../historia/edat-mitjana/de-cada-casa-un-home-ben-armat.md)).
+   **I una correcció que en surt:** aquesta fitxa deia, d'una font secundària, que
+   **els serveis feudals del 1176 s'hi relacionen amb *domos*, *foch* o *fumo***.
+   **Al text hi ha *domo*** —«*vadat de unaquaque **domo** unus bene armatus*»—
+   **i no hi ha ni *foch* ni *fumo*.** `La font secundària pot estar parlant de la
+   sèrie i no d'aquest document; el corpus registra el que el text diu.`
+   **El que segueix obert és la llista de signants de l'original**, que aquesta
+   còpia declara i no porta.
 4. **L'apèndix C de la mateixa obra**, d'on surt el text de la ciutadania.
    **A l'abast: és al mateix volum.**
 5. **Qui era José de Riba**, veguer episcopal, **i què se n'ha fet, de l'original
