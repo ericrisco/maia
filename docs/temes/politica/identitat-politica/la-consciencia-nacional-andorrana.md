@@ -252,6 +252,20 @@ hagut necessitat», i **l'escola nacional pròpia no comença fins al 1982**,
    **com el bisbe d'Urgell que, cap al 1728-1733 i sota pressió de l'intendent
    general de Catalunya** —**que amenaçava de retirar les franquícies duaneres
    del bestiar**— **prohibeix el conreu del tabac a Andorra**, **no el comerç**.
+   **ACTUALITZAT EL 15-09-2026: l'arc té ara el seu punt de partida amb data.**
+   *La cuestión de Andorra* (1894), **p. 16**, **copia sencer** un decret seu:
+   **Balaguer, 3 de febrer de 1715**, secretari **Pedro Vizent**, pel qual
+   **ordena als cònsols de les Valls que no obeeixin cap ordre que no vingui dels
+   dos sobirans**, i **nomena l'adversari: els ministres subdelegats de
+   l'intendent general del Principat de Catalunya**, que s'intrometien «*en la
+   Jurisdicción y autoridad temporal de esos Valles, ofendiendo su independencia,
+   exempción y regalía*». **S'hi titula «Príncipe Soberano con el Rey
+   Cristianísimo» i «Con-Soberanos».** **El mateix intendent general a qui el
+   1715 mana desobeir és el qui cap al 1730 li arrenca la prohibició del tabac, i
+   l'instrument de pressió és el bestiar les dues vegades.** **El corpus no
+   explica el gir: en registra els dos extrems.** Vegeu [no obeïu cap ordre que no
+   vingui dels dos](../../historia/segle-xix/no-obeiu-cap-ordre-que-no-vingui-dels-dos.md).
+
    **El mateix home que aquesta fitxa recorda per reconèixer els andorrans com a
    diferents dels espanyols i francesos el 1714 és, vint anys després, qui cedeix
    a la pressió espanyola en el tabac.** **El corpus registra les dues cares i no

@@ -478,6 +478,8 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **Príncep temporal** | **el títol amb què el Consell General encapçala la seva exposició al bisbe d'Urgell el 1894**, deliberadament **en lloc de «Príncep Sobirà»**, que és el que el bisbe reclamava. *La cuestión de Andorra*, 1894, p. 10 |
 | **pro indiviso** | **la fórmula del règim andorrà de sobirania**: els dos coprínceps la tenen **en comú i sense dividir**. Formulada com a pregunta jurada el **1347** —«*Vallis Andorrae… **est communis pro indiviso** Comitibus et Episcopis?*»— i com a condició de validesa dels actes dels veguers, que podien arribar a la pena de mort **«con tal que lo hicieran pro indiviso»**. *La cuestión de Andorra*, 1894, pp. 14-15 |
 | **causar estat** (*causó estado*) | **quedar una resolució ferma i fer jurisprudència**. Dit de la resolució dels comtes del **1288** sobre una qüestió de muntanyes entre Andorra i Sant Julià. *La cuestión de Andorra*, 1894, p. 13 |
+| **condominus** · **con-soberano** | **cosenyor**: el títol amb què els bisbes d'Urgell **s'anomenaven ells mateixos** abans del segle XIX. **Andreu Capella, 1604**: «*Episcopus Urgellensis, **Condominus** jurisdictionis et dominationis nostrarum Vallium Andorrae*». **Simeó de Guinda, 1715**: «**Con-Soberanos** de esos Valles». *La cuestión de Andorra*, 1894, p. 16 |
+| **regalia** (*regalía*) | **el conjunt de drets propis de la sobirania**, usat el 1715 al costat d'**independència** i **exempció** per designar el que els subdelegats de l'intendent general de Catalunya ofenien. *La cuestión de Andorra*, 1894, p. 16 |
 | **rebaixant** | terreny comunal boscós per sota les pastures d'alta muntanya |
 | **fresa** | lloc on els peixos fresen (habitual en legislació de pesca) |
 

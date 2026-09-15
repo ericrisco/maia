@@ -193,6 +193,16 @@ i de [la neutralitat](../../historia/guerres-i-neutralitat/guerres-i-neutralitat
 7. **Si el Consell General va tornar a jutjar mai res.** Mas diu que se n'ha
    conservat **una sola sentència**: no diu que només en dictés una.
 
+> **Afegit el 15-09-2026.** **El mateix bisbe havia manat exactament el
+> contrari, i està datat.** *La cuestión de Andorra* (1894), **p. 16**, copia
+> sencer un decret de **Simeó de Guinda** donat a **Balaguer el 3 de febrer de
+> 1715** que **ordena als cònsols andorrans no obeir cap ordre que no vingui dels
+> dos coprínceps**, i que **nomena els subdelegats de l'intendent general del
+> Principat de Catalunya** com els qui s'intrometien en la jurisdicció de les
+> Valls. **Quinze anys abans de cedir-hi, els havia declarat sense títol.** Vegeu
+> [no obeïu cap ordre que no vingui dels
+> dos](../../historia/segle-xix/no-obeiu-cap-ordre-que-no-vingui-dels-dos.md).
+
 ## Related
 
 - [El tabac](./tabac.md) — la fitxa que això corregeix.

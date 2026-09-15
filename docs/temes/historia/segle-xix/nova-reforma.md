@@ -137,6 +137,17 @@ com a no investigada, **ja té fitxa**:
 [La qüestió d'Andorra](./la-questio-dandorra.md) — un quart de segle de conflicte
 amb el copríncep episcopal, amb els períodes datats i l'origen documentat.
 
+> **Afegit el 15-09-2026, i ve del bisbe mateix.** **El decret de Caixal del 22
+> d'abril de 1866**, posat al capdavant del Pla de Reforma i citat a *La cuestión
+> de Andorra* (1894), **p. 17**, acaba manant observar les lleis, usos i costums
+> i, a més, «**las siguientes bases y su práctica aplicación que la referida
+> inmensa mayoría de los Andorranos nos han presentado**». **El bisbe diu ell
+> mateix que les bases li van ser presentades pels andorrans**, cosa que sosté
+> des del seu propi document l'afirmació del Consell que la Reforma «*no la
+> redactó aquel Sr. Obispo, sino el pueblo andorrano*». **El text sencer del
+> decret segueix sense veure's.** Vegeu [no obeïu cap ordre que no vingui dels
+> dos](./no-obeiu-cap-ordre-que-no-vingui-dels-dos.md).
+
 ## Related
 
 - [La qüestió d'Andorra](./la-questio-dandorra.md) — el conflicte que ve tot seguit, i l'acusació sobre aquesta llei.
