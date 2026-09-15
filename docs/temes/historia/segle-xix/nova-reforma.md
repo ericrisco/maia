@@ -59,6 +59,12 @@ Dues coses hi ha, i totes dues importen:
 Es comprova d'una manera concreta: **comparant l'original del Consell amb
 l'imprès de la Seu**. Buit registrat.
 
+> **Afegit el 15-09-2026:** **la resta d'aquell escrit de 1894 ja és al corpus**, a
+> [se li reconeixerà com als seus antecessors](./se-li-reconeixera-com-als-seus-antecessors.md).
+> **El mateix document diu també què és de debò un privilegi, com va contestar el
+> Consell a un bisbe que exigia ser reconegut sobirà, i què va passar amb l'indult
+> del 1855.**
+
 ### I el 1904 una font independent descriu l'imprès
 
 **Afegit el 2026-09-16 des de [La Coutume d'Andorre](../../../fonts/brutails-coutume-1904.md),

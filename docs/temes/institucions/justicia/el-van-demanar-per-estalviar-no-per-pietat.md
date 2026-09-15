@@ -198,6 +198,19 @@ amb les notes ([font](../../../fonts/brutails-coutume-1904.md)).
 3. **El cas de l'indult de 1854**: **qui era el condemnat, per quin delicte, i
    quant va durar la discussió.** **Consta que va morir a la presó i no quan.**
    **Prioritari.**
+   **Tancat a mitges el 15-09-2026**, per la banda andorrana. *La cuestión de
+   Andorra* (1894), **pàgina 6**, dona la seqüència: el bisbe indulta **tot sol,
+   «para constituir precedente»**, sense comunicar-ho **ni al copríncep francès
+   ni al Tribunal de Corts**; el Consell hi envia **una comissió de protesta**;
+   **el veguer episcopal dimiteix**; i **el 23 de gener de 1855**, en l'acte de
+   donar possessió al veguer episcopal nou, **s'adverteix que per ordre del
+   copríncep francès el sentenciat queda a disposició del Consell** i **no
+   s'entregarà als veguers fins que aquell no resolgui la qüestió de l'indult**.
+   **El condemnat va morir poques setmanes després, de les ferides que tenia.**
+   **La discussió, doncs, seguia oberta el 23-01-1855. Qui era i per quin
+   delicte, segueix obert**, i **això és l'al·legació d'una part**. Vegeu [se li
+   reconeixerà com als seus
+   antecessors](../../historia/segle-xix/se-li-reconeixera-com-als-seus-antecessors.md).
 4. **El rapport del veguer de França sobre aquell afer** *(Arxius de l'Arieja,
    Andorre, lligall 2)*. **Prioritari, i és el mateix lligall que el corpus té
    marcat amb tretze peces registrades i cap consultada.**
@@ -219,5 +232,6 @@ amb les notes ([font](../../../fonts/brutails-coutume-1904.md)).
 - [La pena de mort](./la-pena-de-mort.md) — la fitxa escrita des d'una enciclopèdia, que aquesta contradiu en el motiu.
 - [Es deixaven escapar els presos](./es-deixaven-escapar-els-presos.md) — la presó que no existia, i les mateixes cadenes.
 - [El veguer de França pagava les Corts de la seva butxaca](./el-veguer-de-franca-pagava-les-corts-de-la-seva-butxaca.md) — el cost com a criteri de decisió judicial.
+- [Se li reconeixerà com als seus antecessors](../../historia/segle-xix/se-li-reconeixera-com-als-seus-antecessors.md) — la versió andorrana de l'indult, amb dates.
 - [Tornar la fama, el diumenge en sortir de missa](./tornar-la-fama-el-diumenge-en-sortir-de-missa.md) — la maniobra del Consell General de 1886, de la mateixa forma que la de 1855.
 - [Aquell príncep que és prevengut](./aquell-princep-que-es-prevengut.md) — l'equilibri entre coprínceps, que aquí es juga al dret de gràcia.

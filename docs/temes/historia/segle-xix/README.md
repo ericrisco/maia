@@ -17,6 +17,7 @@ pel joc i va començar a sentir-se una nació.**
 | [La Reial Ordre de setembre de 1894](./la-reial-ordre-de-setembre-de-1894.md) | El text que el va desencadenar |
 | [El desenllaç de la qüestió duanera](./el-desenllac-de-la-questio-duanera.md) | Com va acabar |
 | [Cap on mirava Andorra](./cap-on-mirava-andorra.md) | França o Espanya, i per què cap de les dues |
+| [Se li reconeixerà com als seus antecessors](./se-li-reconeixera-com-als-seus-antecessors.md) | **El Consell General escrivint**: què és de debò un privilegi, i l'indult del 1855 dia a dia |
 
 ## El fil que les travessa
 

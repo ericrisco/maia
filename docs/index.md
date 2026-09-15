@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**947** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**948** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -853,6 +853,7 @@
 | [La qüestió duanera de 1895](temes/historia/segle-xix/la-questio-duanera-de-1895.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `diario-sesiones-corts-1895` |
 | [La reial ordre de setembre de 1894](temes/historia/segle-xix/la-reial-ordre-de-setembre-de-1894.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `boletin-oficial-leon-1894` |
 | [La Nova Reforma de 1866](temes/historia/segle-xix/nova-reforma.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `viquipedia-ca` |
+| [Se li reconeixerà com als seus antecessors](temes/historia/segle-xix/se-li-reconeixera-com-als-seus-antecessors.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `la-cuestion-de-andorra-1894` |
 | [Trenta-nou anys si el creditor és l'Església](temes/historia/segle-xix/trenta-nou-anys-si-el-creditor-es-lesglesia.md) | `temes/historia/segle-xix` | compilada | contemporania | no | `brutails-coutume-1904` |
 
 ## temes/historia/segle-xx-primera-meitat
