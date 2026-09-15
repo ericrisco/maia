@@ -231,8 +231,18 @@ feia alguna cosa:**
    desenllaç.** **La font el situa «fa una vintena d'anys» i no el
    documenta.** **Prioritari**: **és el cas extrem de l'embargament com a
    coacció.**
-3. **Per què els deutors preferien abandonar terra que mobles.** **La font
-   enuncia la regla i encara no l'explica.**
+3. ~~**Per què els deutors preferien abandonar terra que mobles.**~~ — **Tancat
+   el 22-09-2026, i amb dues raons.** **La primera, de subsistència**: «*un
+   dissortat que posseeix just l'indispensable **queda reduït a la mendicitat si
+   se li pren la provisió de blat***». **La segona, jurídica**: «***un immoble
+   alienat en justícia pot ser recobrat indefinidament***; el propietari està
+   tant més disposat a desprendre-se'n com que **conserva l'esperança de
+   rescatar-lo**» *(p. 295)*. **És el retracte perpetu**
+   ([la carta de gràcia](../../economia/banca-i-fiscalitat/la-carta-de-gracia.md)):
+   **la terra torna i el blat no.** **Vegeu**
+   [m'és estat forçat de prendre immobles](./mes-estat-forsat-de-pendre-inmobles.md).
+   **Queda obert si aquesta preferència es va traduir en fets**: **la font
+   descriu una tendència i no dona cap recompte d'execucions.**
 4. **El quadern del *nunci* de 1821-1823** —**segona tanda que el reclama**—, ara
    amb tres assentaments identificats.
 5. **La constitució de renda vitalícia inembargable** *(Pièces justificatives,
@@ -246,7 +256,9 @@ feia alguna cosa:**
    cap norma ho va autoritzar.**
 9. **Si *embarch* és realment d'importació castellana.** **La font diu «sembla
    ser» i el corpus no ho ha comprovat contra cap diccionari.**
-10. **Els documents de 1461, 1821, 1822, 1823 i 1833** sencers.
+10. **Els documents de 1461, 1821, 1822, 1823 i 1833** sencers. **Del de 1461 el
+    corpus ja té tres renúncies**: **a *fermar dret*, als terminis i —des del
+    22-09-2026— **a la inembargabilitat de les bèsties de llaurar***.
 
 ## Related
 

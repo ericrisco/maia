@@ -4,7 +4,7 @@ Tribunal de Corts, Batllia, Consell Superior de la Justícia.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (87)
+## Articles (88)
 - [A les galeres d'Espanya, per la neu](./a-les-galeres-despanya-per-la-neu.md) — Els condemnats andorrans anaven a galeres espanyoles i el Politar en dona quatre raons, la segona meteorològica: a l'hivern, la tardor i la primavera no es podien dur a les de França perquè els Pirineus eren plens de neu.
 - [Abrogats el 1839, aplicats el 1889](./abrogats-el-1839-aplicats-el-1889.md) — Com es cobrava un deute a Andorra: la cessió de béns, l'adjudicació d'immobles i el dret de recomprar-los.
 - [Al botxí per sos drets de penjar tres dones](./al-botxi-per-sos-drets-de-penjar-tres-dones.md) — El compte de despeses del juny de 1604 per l'execució de dones acusades de bruixeria a Andorra, amb l'aranzel del botxí i el que van rendir les composicions.
@@ -56,6 +56,7 @@ Tribunal de Corts, Batllia, Consell Superior de la Justícia.
 - [Les penes del Codi Penal](./les-penes-del-codi-penal.md) — El sostre és de vint-i-cinc anys i no hi ha cadena perpètua.
 - [Les sentències no les escrivien els batlles](./les-sentencies-no-les-escrivien-els-batlles.md) — El jutge que va estudiar el dret andorrà comptava amb les sentències per fixar el costum i se'n va endur una decepció: les redactava un lletrat de fora, es guardaven en fulls solts a casa dels escrivans, i els formularis dels notaris eren tots catalans.
 - [Li vaig preguntar què feien: «no gran cosa»](./li-vaig-preguntar-que-feien-no-gran-cosa.md) — Els rahonadors eren dos consellers generals delegats a seguir les Corts, i Brutails va preguntar a un andorrà que n'havia vistes moltes què hi feien exactament: «pas grand chose».
+- [M'és estat forçat de prendre immobles](./mes-estat-forsat-de-pendre-inmobles.md) — Abans de 1785 l'execució d'un deute andorrà anava primer pels béns mobles, i prendre terra era el darrer recurs que calia excusar per escrit.
 - [Manllevat de la Justícia, i promès de tornar](./manllevat-de-la-justicia-i-promes-de-tornar.md) — L'acte de manlleuta del 12 d'octubre del 1797 i el que hi ha al darrere: qui fiava un pres l'havia pres en préstec a la Justícia i prometia tornar-l'hi.
 - [Ni amb els seus peus ni amb els peus d'altri](./ni-amb-els-seus-peus-ni-amb-els-peus-daltri.md) — L'hostatge: qui devia diners es comprometia per contracte a estar-se tot el dia dins d'un cementiri determinat fins a pagar, i això no li estalviava l'embargament.
 - [No en volien dos, de jutge: en volien un de comú](./no-en-volien-dos-de-jutge-en-volien-un-de-comu.md) — L'alternança en el nomenament del Jutge d'Apel·lacions no és el costum antic: és un apany.

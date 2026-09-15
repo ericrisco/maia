@@ -59,6 +59,25 @@ s'executen primer els mobles, el deutor **queda «sin ausilio para poder
 subsistir»** encara que li quedi el camp. **Es toca primer el patrimoni que no
 alimenta.**
 
+> **Ampliat el 22-09-2026, i ara se sap de què és l'ordre invers.** **Quan es va
+> escriure aquesta fitxa, el corpus tenia el decret com una protecció i no tenia
+> contra què.** **El mateix llibre, a la p. 295, dona la regla anterior**: «*a
+> l'edat mitjana i fins i tot després, el costum… **era més aviat favorable al
+> creditor**: prescrivia, sembla, **de procedir primer a l'execució sobre els
+> mobles***». **El decret de 1785 no afegeix una protecció: capgira l'ordre
+> vigent.**
+>
+> **I l'ordre vell té documents**: **1412**, «*cum non essent bona mobilia pro
+> quibus satisfieri potuissent*», i **tres actes de 1635** on el creditor
+> s'excusa —«***m'es estat forsat de pendre inmobles***»— de quedar-se terra.
+> **Vegeu** [m'és estat forçat de prendre immobles](../../institucions/justicia/mes-estat-forsat-de-pendre-inmobles.md).
+>
+> **I la raó del deutor era una altra que la del decret.** **El decret invoca la
+> subsistència; la p. 295 hi afegeix que **un immoble alienat en justícia es pot
+> recobrar indefinidament** i el deutor «conserva l'esperança de rescatar-lo».**
+> **El retracte perpetu explica per què el deutor ja preferia lliurar terra abans
+> que el decret l'hi manés.**
+
 I la garantia es tanca per dalt i per baix: **pena de 50 lliures**, **nul·litat
 de tot el que s'hagi obrat**, i una clàusula que val per tot el decret:
 
@@ -193,9 +212,16 @@ embargats hasta la suma de 80 lliuras barcelonesas, y per lo restant…
 adjudicantse als acrehedors bens inmobles**» — **que és una de les tres maneres
 que Brutails considera contràries al text dels decrets**
 ([abrogats el 1839, aplicats el 1889](../../institucions/justicia/abrogats-el-1839-aplicats-el-1889.md)).
-**Segueix obert amb quina norma es van abrogar el 1839**, i **cap de les peces de
-possessió del [1783 i del 1788](./es-va-treure-el-barret-perque-feia-vent.md) no
-invoca cap d'aquests decrets.**
+~~**Segueix obert amb quina norma es van abrogar el 1839**~~ — **tancat
+parcialment el 22-09-2026**: **una decisió del bisbe d'Urgell successor de
+Boltas, del **20 d'octubre de 1839**, **datada de Montpeller**, **fonamentada en
+què els decrets eren inaplicables**** *(p. 295)*. **Segueix obert el text
+mateix**: **el llibre només la coneix per una anàlisi que li va llegir en veu
+alta el veguer episcopal Pallerola**, i **no diu què feia el bisbe a Montpeller**.
+**Vegeu** [m'és estat forçat de prendre immobles](../../institucions/justicia/mes-estat-forsat-de-pendre-inmobles.md).
+**I cap de les peces de possessió del
+[1783 i del 1788](./es-va-treure-el-barret-perque-feia-vent.md) no invoca cap
+d'aquests decrets.**
 
 **No consta què va passar amb el termini de tres anys.** El decret del **4
 d'agost de 1854**, setanta anys després, torna a fixar terminis de prescripció
@@ -208,10 +234,15 @@ contra «totas y cualsevols disposicions que se oposian».
 una `terra emfitèutica`** en el dret andorrà d'aquest període. El corpus els cita
 perquè els decrets els enumeren; **no els distingeix.**
 
-**El «beneficio» irrenunciable no s'ha comprovat en cap contracte.** Els dos
-decrets prohibeixen expressament que el deutor hi renunciï, cosa que **suggereix
-que abans s'hi renunciava per clàusula**; **el corpus no té cap escriptura
-anterior al 1785 que ho mostri.**
+~~**El «beneficio» irrenunciable no s'ha comprovat en cap contracte.**~~ —
+**tancat parcialment el 22-09-2026.** **El corpus ja té una escriptura anterior
+al 1785 on el deutor renuncia per clàusula a un benefici del costum**: **la
+creació de censal del **12 de març de 1461**, on el prestatari **renuncia a la
+inembargabilitat de les bèsties de llaurar i altres privilegiades*** *(p. 295)*.
+**És la tercera renúncia que el corpus registra del mateix document.**
+**El buit segueix obert per al benefici concret**: **el que es renuncia el 1461
+és la inembargabilitat del parell, no la regla de l'ordre mobles/immobles, que el
+1461 encara no existia.** **És una renúncia anàloga, no la mateixa.**
 
 ## Related
 

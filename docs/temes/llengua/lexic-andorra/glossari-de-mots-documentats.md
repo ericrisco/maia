@@ -579,6 +579,12 @@ que **els recull com a ús popular andorrà dins un text francès**:
 | ***poblador*** | **casa nova sortida d'una casa més gran**, sovint sobre el domini d'una borda; **calia autorització del Consell General** | ídem |
 | ***fer canvi*** | **matrimonis creuats entre dues o tres famílies**, que neutralitzen el pagament del dot | ídem |
 | ***andorrà de bragueta*** | **qui obté la nacionalitat casant-se amb una pubilla** (o a l'inrevés) | ídem |
+| ***al quart manco*** | **un quart per sota de la taxació** — **preu al qual el creditor havia de prendre les penyores** des del privilegi del **19 de maig de 1608**; **abans, els mobles es depreciaven un terç** | [m'és estat forçat de prendre immobles](../../institucions/justicia/mes-estat-forsat-de-pendre-inmobles.md) |
+| ***lo parell*** | **la parella de bèsties de llaurar** — **el darrer bé amb què se solien cobrar els creditors** *(decret del Consell General, 23-03-1880)* | ídem |
+| ***averies*** | **bestiar de càrrega**, al costat del *parell* i les *eines del ofici* a la llista del que es toca en darrer lloc | ídem |
+| ***eines del ofici*** | **les eines del ofici del deutor** — **protegides només **si el deutor té terra per cultivar**, segons l'*Instructa*; **no són inembargables en absolut** | ídem |
+| ***preco públic i jurat*** | ***preco publicum et juratum Vallium Andorre*** — **el pregoner de les Valls**, **ofici amb jurament**, **fent l'encant judicial a la Massana el 1412** | ídem |
+| ***enquant públic*** | **la subhasta judicial** — «*enquantu publico de la Maçana*», **1412** | ídem |
 
 **Cap dels quatre no és a la llista del Servei de Política Lingüística**, i
 **tots quatre són d'un camp que aquesta fitxa no cobreix**: **el vocabulari de

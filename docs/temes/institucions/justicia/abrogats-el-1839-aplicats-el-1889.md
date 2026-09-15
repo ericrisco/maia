@@ -56,8 +56,28 @@ vegades** *(pàgina 296, nota 4)*:
 | **Juny del 1889** | **«Atteste qu'ils sont la loi du pays»** |
 
 **Cinquanta anys després d'abrogar-los, el parlament del país atesta que són la
-llei.** **El corpus ho registra com a dada i no ho explica**: **no consta amb
-quina norma es van abrogar el 1839**, ni per què.
+llei.**
+
+> **Ampliat el 22-09-2026: la norma de 1839 ja té autor, data, lloc i
+> fonament.** **La p. 295 del mateix llibre diu que **el successor del prelat els
+> va revocar per una decisió del 20 d'octubre de 1839, datada de Montpeller,
+> basada en què aquests decrets eren inaplicables**.**
+>
+> **Un copríncep episcopal derogant dret andorrà des de Montpeller**, fora del
+> bisbat i fora del país. **La font no diu què hi feia.**
+>
+> **I ho diu amb una cautela que el corpus manté**: «*Dec a l'amabilitat del
+> senyor **Pallerola, veguer episcopal**, de conèixer aquest decret, **del qual
+> m'ha llegit una anàlisi***». **Notícia de tercera mà** —original → anàlisi →
+> lectura en veu alta → llibre—, **que és exactament el problema de mètode que
+> aquest llibre repeteix.**
+>
+> **La mateixa pàgina hi afegeix el veredicte**: «*en realitat, eren aplicats
+> abans de 1839 i ho han estat des de llavors: **a títol de llei o de costum,
+> segueixen sempre en vigor***». **La font no tria entre llei i costum**, i **la
+> tria decidiria si el 1889 el Consell General atestava una llei o consagrava un
+> costum nou.** `Registrat, no arbitrat.`
+> **Vegeu** [m'és estat forçat de prendre immobles](./mes-estat-forsat-de-pendre-inmobles.md).
 
 > **La lliçó de mètode es repeteix.** El corpus ja havia après, amb el Reglament
 > de l'Arxiu Nacional, que **la vigència s'ha de cercar i no llegir**. Aquí és
@@ -70,6 +90,10 @@ El decret d'agost del 1785 surt **quatre vegades com a l'11 d'agost** —a la
 capçalera de la peça justificativa, a la llista de decrets de la pàgina 56 i
 dues vegades més al cos— i **una vegada com al 21 d'agost**, a la pàgina 296.
 **Registrat i no arbitrat.** **El corpus no corregeix l'imprès.**
+
+> **Recompte actualitzat el 22-09-2026**: **la pàgina 295 en dona una segona
+> ocurrència del **21 d'agost***. **Quatre a onze, dues a vint-i-una.**
+> **El corpus segueix sense arbitrar i sense corregir l'imprès.**
 
 ## Els vuitanta lliures, i tres maneres d'equivocar-s'hi
 
@@ -468,9 +492,16 @@ c'est grand dommage.»** `Valoració seva, registrada com a seva.`
 
 ## Buits registrats
 
-**No consta amb quina norma es van abrogar els tres decrets el 1839**, ni per
-què, ni com es concilia l'abrogació amb les declaracions posteriors del Consell
-General. **És el buit més important d'aquesta fitxa.**
+~~**No consta amb quina norma es van abrogar els tres decrets el 1839**, ni per
+què.~~ — **Tancat parcialment el 22-09-2026**: **decisió del bisbe d'Urgell
+successor, del **20 d'octubre de 1839**, **datada de Montpeller**, per
+**inaplicabilitat*** *(p. 295)*. **Segueix obert**: **el text de la decisió**
+—**el llibre només la coneix per una anàlisi llegida en veu alta pel veguer
+episcopal Pallerola**—, **què feia el bisbe a Montpeller**, i **com es concilia
+l'abrogació amb les declaracions posteriors del Consell General**, que **la font
+resol dient «a títol de llei o de costum» sense triar.**
+`Requereix l'Arxiu Capitular de la Seu d'Urgell.` **Segueix sent el buit més
+important d'aquesta fitxa.**
 
 **La data del decret d'agost del 1785 no és unívoca dins del llibre**: **11
 d'agost** quatre vegades i **21 d'agost** una. **Registrat, no arbitrat.**

@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**922** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**923** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -973,6 +973,7 @@
 | [Li vaig preguntar què feien: «no gran cosa»](temes/institucions/justicia/li-vaig-preguntar-que-feien-no-gran-cosa.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [L'ordenament jurídic avui](temes/institucions/justicia/lordenament-juridic-avui.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Manllevat de la Justícia, i promès de tornar](temes/institucions/justicia/manllevat-de-la-justicia-i-promes-de-tornar.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
+| [M'és estat forçat de prendre immobles](temes/institucions/justicia/mes-estat-forsat-de-pendre-inmobles.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [«Mort, qui t'ha mort?»](temes/institucions/justicia/mort-qui-tha-mort.md) | `temes/institucions/justicia` | compilada | contemporania | no | `wikipedia-llegendes-andorra` |
 | [Ni amb els seus peus ni amb els peus d'altri](temes/institucions/justicia/ni-amb-els-seus-peus-ni-amb-els-peus-daltri.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [No en volien dos, de jutge: en volien un de comú](temes/institucions/justicia/no-en-volien-dos-de-jutge-en-volien-un-de-comu.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
