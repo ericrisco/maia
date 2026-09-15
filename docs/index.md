@@ -2,7 +2,13 @@
 
 # Índex del cervell andorrà
 
-**976** documents · **192** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**978** documents · **192** fonts · **39** aptes com a model de llengua · **124** temes amb contingut.
+
+## fonts
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Fernando de los Ríos Urruti — Vida e instituciones del pueblo de Andorra (1920)](fonts/rios-urruti-andorra-1920.md) | `fonts` | compilada | contemporania | no | `` |
 
 ## parla/oral
 
@@ -807,6 +813,7 @@
 | [El Diccionari enciclopèdic d'Andorra](temes/historia/historiografia/el-diccionari-enciclopedic.md) | `temes/historia/historiografia` | compilada | contemporania | no | `premsa-andorrana` |
 | [La historiografia andorrana](temes/historia/historiografia/historiografia.md) | `temes/historia/historiografia` | compilada | contemporania | no | `viquipedia-ca` |
 | [La llegenda negra dels passadors](temes/historia/historiografia/la-llegenda-negra-dels-passadors.md) | `temes/historia/historiografia` | compilada | contemporania | no | `societat-andorrana-ciencies` |
+| [L'editor dels privilegis era jutge d'apel·lacions](temes/historia/historiografia/leditor-dels-privilegis-era-jutge-dapellacions.md) | `temes/historia/historiografia` | compilada | contemporania | no | `rios-urruti-andorra-1920` |
 | [Les Diades andorranes](temes/historia/historiografia/les-diades-andorranes.md) | `temes/historia/historiografia` | compilada | contemporania | no | `societat-andorrana-ciencies` |
 | [Les tres fases de la historiografia andorrana](temes/historia/historiografia/les-tres-fases.md) | `temes/historia/historiografia` | compilada | contemporania | no | `villaro-estat-questio-historiografia` |
 | [L'estat de la qüestió de les evasions](temes/historia/historiografia/lestat-de-la-questio-de-les-evasions.md) | `temes/historia/historiografia` | compilada | contemporania | no | `esteves-exili-i-evasions` |

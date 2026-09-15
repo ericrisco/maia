@@ -207,7 +207,17 @@ rei impostor de 1934.** El corpus ho registra sense treure'n conclusions.
 **Afegit el 2026-09-13 des del [llibre 2 de la tesi de Joan
 Becat](../../../fonts/becat-tesi-1993.md)**, que **cita Valls i Taberner amb
 pàgina** — **la mateixa edició que aquesta fitxa tenia localitzada i no
-oberta.** *(Els regestos van en el català de Valls i Taberner, tal com Becat els
+oberta.**
+
+> **I qui era l'editor, quan editava — 17-09-2026.** **Un catedràtic espanyol que
+> va fer treball de camp a Andorra cap al 1918 agraeix l'ajuda «*del joven y
+> erudito **juez de apelación de Andorra** don Fernando Valls Taberner, del
+> Archivo de la Corona de Aragón*».** **Ferran Valls i Taberner preparava
+> l'edició dels privilegis andorrans mentre tenia càrrec judicial a Andorra.**
+> **El corpus ho registra d'una sola frase i sense comprovar**, i **no en treu cap
+> reserva sobre l'edició**: **fa constar que no és una mirada externa.** Vegeu
+> [l'editor dels privilegis era jutge
+> d'apel·lacions](../historiografia/leditor-dels-privilegis-era-jutge-dapellacions.md). *(Els regestos van en el català de Valls i Taberner, tal com Becat els
 reprodueix.)*
 
 | Any | Què | Referència |

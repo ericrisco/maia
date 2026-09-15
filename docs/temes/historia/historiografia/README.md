@@ -7,6 +7,7 @@ Qui ha escrit la història d'Andorra, amb quines fonts i amb quins buits.
 ## Articles (8)
 - [El cas Amades](./el-cas-amades.md) — Com el costumari català es va colar dins d'Andorra fent-se passar per andorrà, i qui ho va destapar.
 - [El Diccionari enciclopèdic d'Andorra](./el-diccionari-enciclopedic.md) — 2.195 entrades, 200 biografies, 520 pàgines i 800 imatges.
+- [L'editor dels privilegis era jutge d'apel·lacions](./leditor-dels-privilegis-era-jutge-dapellacions.md) — Ferran Valls i Taberner editava els privilegis andorrans el 1920 mentre era jutge d'apel·lacions d'Andorra. Amb el cens del 1920 de primera mà i la negació del contraban.
 - [L'estat de la qüestió de les evasions](./lestat-de-la-questio-de-les-evasions.md) — Un treball universitari del 2015 llegeix tot el que s'ha escrit sobre les evasions per Andorra i diu, obra per obra, què hi falla.
 - [La historiografia andorrana](./historiografia.md) — Un país que es va escriure a si mateix el 1748, i dos documents fundacionals que són falsos.
 - [La llegenda negra dels passadors](./la-llegenda-negra-dels-passadors.md) — Cada dècada algú redescobreix que els andorrans robaven i mataven jueus.

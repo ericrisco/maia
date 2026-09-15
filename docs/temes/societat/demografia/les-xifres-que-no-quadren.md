@@ -33,7 +33,7 @@ honestament avui.
 | **1897** | **5.210** | Combarnou *(possiblement Brutails)* | ídem |
 | **1900** | **5.231** | Micó | [la composició per nacionalitats](./la-composicio-per-nacionalitats.md) |
 | **1912** | **6.100** | **Pallerola** — **el veguer episcopal** | [font](../../../fonts/tarrene-influencies-multiculturals.md) · [qui era](../../societat/mitjans/la-censura-de-premsa.md) |
-| **1920** | **4.309** | **De Los Ríos Urruti** | ídem |
+| **1920** | **4.309** | **De Los Ríos Urruti** | **de primera mà des del 17-09-2026**: [font](../../../fonts/rios-urruti-andorra-1920.md). **224 espanyols i dos francesos**, i **l'autor declara «un error, me dicen, de 40 a 50 almas»** |
 | **1930** | **4.142** | **Moreno** | ídem |
 | **1930** | **4.042** | bisbat d'Urgell | [FHASA](../../economia/energia-i-serveis/fhasa.md) |
 | **1932** | **4.039** | **Comarnous** i **Camiade** | [les onades migratòries](./les-onades-migratories.md) |
