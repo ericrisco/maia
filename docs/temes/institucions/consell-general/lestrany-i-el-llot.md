@@ -72,7 +72,7 @@ comerciants forasters a Sant Julià per fer-ne una font d'ingressos**.
 | **Per persona o cap de bestiar gros** | **5 sous catalans** = **0,67 pessetes** |
 | **Per ovella o cabra** | **6 diners** = **0,06 pessetes** |
 | **Qui hi cau, en concret** | Els ramats que **els ariegesos** pugen a les muntanyes andorranes a l'estiu |
-| **Què rendia** | **Unes 900 pessetes l'any** |
+| **Què rendia** | **Unes 900 pessetes l'any** — **i unes mil el 1918**, amb l'advertiment que **«en parte alguna está registrada la partida»**: la xifra la donen **«los prácticos y autoridades»**, no cap llibre ([el pressupost no existia, i el van fer davant seu](../../economia/banca-i-fiscalitat/el-pressupost-no-existia-i-el-van-fer-davant-seu.md)) |
 
 **Nou-centes pessetes l'any era el pressupost ordinari d'un estat.**
 
@@ -127,6 +127,16 @@ segells, de quin any, i què se'n va fer.
 **Una derrama idèntica per a totes les parròquies, tinguessin el que tinguessin.**
 I com que Encamp i Canillo eren riques i Sant Julià no, **la mateixa xifra
 ofegava unes i en deixava altres amb marge per malgastar**.
+
+> **DIVERGÈNCIA FRONTAL REGISTRADA — 16-09-2026.** **Catorze anys després, una
+> font espanyola diu el contrari**: **«*A menudo no bastan estos ingresos
+> normales y entonces se hacen llot, que cada parroquia paga en proporción de su
+> riqueza*»** ([el pressupost no existia, i el van fer davant seu](../../economia/banca-i-fiscalitat/el-pressupost-no-existia-i-el-van-fer-davant-seu.md)). **Igual contra proporcional.**
+>
+> **El corpus no arbitra.** **Poden ser dues coses successives** —i llavors entre
+> 1904 i 1918 hi hauria hagut una reforma del repartiment que el corpus no té
+> documentada— **o pot ser que un dels dos descrigui la regla i l'altre la
+> pràctica.** `Registrades totes dues amb la seva pàgina.`
 
 **És exactament la mateixa estructura que el corpus té documentada al segle XXI**
 en un altre terreny: cada parròquia posa **dos consellers generals** tingui 794
@@ -238,7 +248,10 @@ parroquia»**.
    [l'extensió dels poders](./lextensio-dels-poders.md).
 2. **Els segells de correus** emesos pel Consell General i mai posats en curs.
 3. **El cataclisme** a les valls veïnes, i l'estat dels boscos andorrans el 1904.
-4. **Quant rendia el llot**, i amb quina freqüència s'enviava.
+4. **Quant rendia el llot**, i amb quina freqüència s'enviava. — **`parcial`**:
+   el 1918 es fa **«a menudo… cuando no bastan estos ingresos normales»**, és a
+   dir **quan cal**, no amb periodicitat fixa. **La xifra segueix sense
+   constar.**
 5. **El manuscrit de M. Palmitjavila**, que Brutails atribueix al segle XVI i que
    esmenta l'estrany. — **`parcial` des del 15-09-2026, i amb una divergència de
    data que el corpus no arbitra.** El corpus ja té **un extracte d'un manuscrit
@@ -250,7 +263,11 @@ parroquia»**.
    **l'extracte publicat no esmenta l'estrany.**
 6. **Quan es va suprimir l'estrany**, i quan la quèstia als coprínceps.
 7. **Les xifres del pressupost de cada parròquia**: Brutails les qualifica i no
-   les dona.
+   les dona. — **`explicat` el 16-09-2026, encara que no tancat**: **«*Los
+   Consejos parroquiales no hacen presupuestos*»**, diu la font del 1918
+   ([el pressupost no existia, i el van fer davant seu](../../economia/banca-i-fiscalitat/el-pressupost-no-existia-i-el-van-fer-davant-seu.md)). **Podria ser que no les donés perquè no existien.** **El que
+   sí que consta és d'on venien els diners**: **els arrendaments de les terres
+   comunals sobrants, fets en pública subhasta.**
 8. **El Politar, pàgines 262-263** (qui paga quèstia i qui estrany) i **281** (el
    poder dels coprínceps de regular matèries pròpies del Consell), contra
    l'original.

@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**988** documents · **192** fonts · **39** aptes com a model de llengua · **124** temes amb contingut.
+**989** documents · **192** fonts · **39** aptes com a model de llengua · **124** temes amb contingut.
 
 ## fonts
 
@@ -256,6 +256,7 @@
 | [Dotze renúncies en una sola escriptura](temes/economia/banca-i-fiscalitat/dotze-renuncies-en-una-sola-escriptura.md) | `temes/economia/banca-i-fiscalitat` | compilada | historica | no | `brutails-coutume-1904` |
 | [El Banc Agrícol](temes/economia/banca-i-fiscalitat/el-banc-agricol.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `cerqueda-banca` |
 | [El cas BPA](temes/economia/banca-i-fiscalitat/el-cas-bpa.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `premsa-andorrana` |
+| [El pressupost no existia, i el van fer davant seu](temes/economia/banca-i-fiscalitat/el-pressupost-no-existia-i-el-van-fer-davant-seu.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `rios-urruti-andorra-1920` |
 | [El superàvit que finança habitatge i hospital](temes/economia/banca-i-fiscalitat/el-superavit-que-financa-habitatge-i-hospital.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `bopa-ad` |
 | [Els altres impostos](temes/economia/banca-i-fiscalitat/els-altres-impostos.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Els tipus impositius](temes/economia/banca-i-fiscalitat/els-tipus-impositius.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `jurisprudencia-ad` |

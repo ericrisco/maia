@@ -248,7 +248,15 @@ secretari del Consell General.**
 ## Buits registrats
 
 1. **Quant recaptava l'impost de la *quistia*** i **quants contribuents tenia.**
-   **La font dona el tipus i no la xifra.** **Prioritari.**
+   **La font dona el tipus i no la xifra.** **Prioritari.** — **`parcial` el
+   16-09-2026, i la xifra que s'hi acosta ve amb una advertència.** **El
+   pressupost d'ingressos de 1917 dona 11.320 pessetes de «contribución sobre
+   agricultura, industria y comercio»**, que **és la partida principal i la fixen
+   les autoritats de cada parròquia «*según la estimación que hacen de la riqueza
+   de cada cual*»** ([el pressupost no existia, i el van fer davant seu](./el-pressupost-no-existia-i-el-van-fer-davant-seu.md)). **Ni cadastre ni declaració: la valoració és
+   discrecional.** **I aquella taula no és un document comptable**: **el
+   pressupost andorrà no existia escrit, i el van compondre davant del qui el
+   demanava.** **El nombre de contribuents segueix sense constar.**
 2. **Com determinaven els `contadors` la renda de cadascú**, i **si hi havia
    recurs contra el seu repartiment.**
 3. **El decret del Consell General en matèria de pastures revisat pel Tribunal de

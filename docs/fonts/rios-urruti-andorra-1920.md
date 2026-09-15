@@ -80,7 +80,8 @@ propietari del repositori, no de qui llegeix.**
 | **Capítol III, pp. 87-93** (els notaris i la determinació del caràcter jurídic) | **destil·lat el 15-09-2026** — **el capítol III queda llegit sencer** |
 | **Capítol IV, seccions A i B** (els quarts i les parròquies, pp. 95-104) | **destil·lat el 16-09-2026** |
 | **Capítol IV, secció C, pp. 104-113** (el Consell de les Valls com a òrgan, i el síndic) | **destil·lat el 16-09-2026** |
-| **Capítol IV, secció C, des de la p. 113** | **sense llegir** — hi ha **els serveis del Consell**, **el pressupost d'ingressos i despeses de 1917**, **l'administració de les terres comunals** i **les boïgues** |
+| **Capítol IV, pp. 113-117** (els serveis del Consell i els dos pressupostos de 1917) | **destil·lat el 16-09-2026** — **amb l'advertiment de la font: el pressupost no existia escrit i el van compondre davant seu** |
+| **Capítol IV, des de la p. 117 fins al final** | **sense llegir** — hi ha **la propietat i la comunitat**, **els emprius**, **les boïgues**, **la peixena**, **el retracte de veïnatge** i **l'autonomia administrativa d'Andorra** |
 | **Apèndix D** (la Reforma del 22 d'abril de 1866, pp. 150-161) | **destil·lat el 15-09-2026** — tancava un buit declarat en quatre articles del corpus |
 | **Apèndix A** (donació d'Ermengol VI al bisbe Pere, 27 de gener de 1133, pp. 131-133) | **destil·lat el 15-09-2026** — tancava la secció de buit «Què va passar el 1133» de `els-privilegis` |
 | **Apèndix B** (concòrdia del 8 de gener de 1176, pp. 133-136) | **destil·lat el 15-09-2026** — tancava el buit 3 de `cap-de-casa-pero-de-casa-antiga`, marcat prioritari |
