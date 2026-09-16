@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-15T09:00:00Z
+timestamp: 2026-09-16T10:00:00Z
 tags: [segle-xix, familia, matrimoni, patrimoni, dret, notariat, lexic, privacitat, font-primaria, prioritari]
 ---
 
@@ -234,8 +234,15 @@ Vegeu [el notariat](../../institucions/justicia/el-notariat.md).
    i **la font registra un contracte del 1865-1870 que sí que hi entrava**
    —donació recíproca «tant si guardaven viduïtat com si no» (pàgina 121, nota 4).
    **El corpus té els dos casos i no en dedueix cap regla.**
-8. **Si `agermanament` o `associament` són vius avui**, i **si són als
-   diccionaris amb marca andorrana.** `Requereix consulta lexicogràfica.`
+8. ~~**Si `agermanament` o `associament` són vius avui**, i **si són als
+   diccionaris amb marca andorrana.**~~ — **`resolt` el 16-09-2026**
+   ([font](../../../fonts/diec2.md)). **Tots dos són al diccionari normatiu i
+   cap dels dos no hi porta marca andorrana**: `agermanament` hi és «acció
+   d'agermanar» i `associament` «acció d'associar-se», **totes dues amb la sola
+   marca `[LC]`**, llengua comuna. **El mot és viu i la figura jurídica no hi
+   és**: el DIEC2 registra el nom d'acció del verb, **no** la donació entre
+   esposos sense fills que defineix Brutails. Els dos sentits que aquesta fitxa
+   compara **no es poden separar per diccionari**.
 9. **Els actes andorrans de donació entre cònjuges anteriors al segle XIX.** La
    font en cita **un del 16 de novembre de 1788** —donació entre vius de tots els
    béns del marit a la dona— **i no en transcriu el text.**

@@ -96,3 +96,18 @@ corrompuda**: el mateix parell de lletres hi apareix com a `-`, `4`, `5`, `7`,
 passatges, no per citar-los.** Les citacions del corpus s'han verificat sobre
 `pag-*.png`, renderitzats a 150 ppp amb `pdftoppm`: pàgines PDF 11, 102, 105,
 108 i 112 (impreses 10, 101, 104, 107 i 111).
+
+## Consultes al DCVB del 16-09-2026
+
+Mateix criteri que el DIEC2: **no es versionen**. Fitxa de drets del corpus a
+`docs/fonts/dcvb.md`; al harness encara no en té, perquè fins avui el DCVB no
+s'havia consultat.
+
+| Fitxer | Entrada consultada | URL | SHA-256 |
+| --- | --- | --- | --- |
+| `dcvb-andorra-2026-09-16.html` | `ANDORRA` i `ANDORRÀ` | `https://dcvb.iec.cat/results.asp?Word=andorrà` | `6aee8739…d3937` |
+| `dcvb-cap-2026-09-16.html` | `CAP` | `https://dcvb.iec.cat/results.asp?Word=cap` | `74f14451…b8545` |
+
+**No s'ha localitzat l'avís legal del domini**: `infolegal.asp` i
+`avislegal.asp` tornen 404. Per això la redistribució de la font queda
+`pendent`.

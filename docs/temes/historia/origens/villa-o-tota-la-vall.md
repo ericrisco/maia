@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: vilar-andorre-1904
-timestamp: 2026-09-17T02:30:00Z
+timestamp: 2026-09-16T10:00:00Z
 tags: [historia, origens, edat-mitjana, historiografia, coprincipat, bisbe-durgell, llengua, toponimia, font-primaria, prioritari]
 ---
 
@@ -328,8 +328,19 @@ faisait l'Andorran*».**
     **Vénen per OCR.**
 11. **Si l'entrada dels drets a la casa de Foix es data el 1202, el 1206 o el
     1208.** **Divergència oberta.**
-12. **Qualsevol atestació de «fer l'andorrà» anterior al 1904**, i **si és al
-    DCVB o al DIEC2.** `Requereix consulta lexicogràfica.`
+12. ~~**Qualsevol atestació de «fer l'andorrà» anterior al 1904**, i **si és al
+    DCVB o al DIEC2.**~~ — **`resolt` el 16-09-2026**, la meitat de diccionaris.
+    **Al DCVB hi és** ([font](../../../fonts/dcvb.md)), s.v. `ANDORRÀ`: «**Fer
+    l'andorrà**: fer el desentès, dissimular», i **la localitza a Girona i
+    Llofriu, no a Andorra**, amb dues atestacions literàries —Casaponce,
+    *Faules* 62, i Bosch, *Rec.* 49—. La mateixa entrada en dona el sentit que
+    la sosté: `ANDORRÀ` **2, «pobre vagabund»**, que el DCVB atribueix al
+    diccionari de Labèrnia. **Al DIEC2 no hi és**
+    ([font](../../../fonts/diec2.md)): l'entrada `andorrà` només recull «natural
+    d'Andorra» i «relatiu al Principat», **sense cap locució**. **Segueix oberta
+    la datació**: el DCVB no data les seves atestacions i el corpus **no ha vist
+    cap de les tres edicions** que cita, així que **no pot acreditar que cap
+    sigui anterior al 1904**.
 
 ## Related
 

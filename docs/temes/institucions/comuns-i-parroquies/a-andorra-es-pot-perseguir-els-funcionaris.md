@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: vilar-andorre-1904
-timestamp: 2026-09-16T13:00:00Z
+timestamp: 2026-09-16T10:00:00Z
 tags: [comuns, parroquies, consols, eleccions, dret, boscos, pastures, esglesia, segle-xix, font-primaria, prioritari]
 ---
 
@@ -280,8 +280,16 @@ la instrucció primària dels infants»**, i **ensenyen sobretot el catecisme.**
 2. **Les dues convencions de 1903** que van extingir els delmes capitular i
    episcopal —**13 d'abril** i **8 de maig**— i **d'on surt la xifra de 4.685
    pessetes.** **Prioritari.**
-3. **Què vol dir exactament `caps grossos`** i **si el mot és viu.** `Requereix
-   consulta lexicogràfica.`
+3. **Què vol dir exactament `caps grossos`** i **si el mot és viu.** —
+   **`parcial` el 16-09-2026**: **el sentit andorrà no és a cap dels dos
+   diccionaris.** El DIEC2 ([font](../../../fonts/diec2.md)) **no té entrada**
+   `cap gros` ni `cap-gros`. El DCVB ([font](../../../fonts/dcvb.md)) recull
+   `cap gros` **només en sentits sense relació amb el càrrec**: com a insult
+   —entre les fórmules per dir que algú és beneit (Vallès), i el refrany «Cap
+   gros, cap talòs» (Empordà)—, com a **larva de granota** i com a **catxalot**.
+   **El càrrec que descriu aquesta fitxa —l'excònsol que substitueix de ple
+   dret— no consta lexicografiat enlloc**, i **si el mot és viu avui segueix
+   obert**: cap dels dos diccionaris no el documenta a Andorra.
 4. **Quan es va crear la figura dels delegats als comptes** i **si van arribar a
    fer perseguir cap cònsol.** **La font en dona la facultat, no cap cas.**
 5. **L'arrendament de la muntanya de Canillo a l'Hospitalet**: **quina muntanya,

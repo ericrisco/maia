@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-15T11:00:00Z
+timestamp: 2026-09-16T10:00:00Z
 tags: [antic-regim, familia, dot, dones, patrimoni, carta-de-gracia, notariat, dret, lexic, segle-xviii, font-primaria, prioritari]
 ---
 
@@ -215,7 +215,15 @@ I els venedors **renuncien «a la lley que ajuda als engañats en mes de la mita
    ha cap acte posterior al corpus.**
 9. **El sentit de `fadiga` com a tanteig en altres documents andorrans.** **El
    corpus en té una sola atestació** i **el sentit processal, en té més d'una.**
-   `Requereix consulta lexicogràfica i més actes notarials.`
+   — **la meitat lexicogràfica, `resolta` el 16-09-2026**
+   ([font](../../../fonts/diec2.md)): **el diccionari normatiu recull el sentit
+   de tanteig i no recull l'altre.** `fadiga` hi és «**1** f. `[HIH]` `[DR]`
+   `[AD]` Tanteig. **2** f. `[LC]` `[MD]` Fatiga», i **la denegació de justícia
+   no hi surt en cap accepció**. Les marques són història, dret i llenguatge
+   administratiu: `[AD]` **no vol dir Andorra**, vegeu [la marca que no vol dir
+   Andorra](../../llengua/lexic-andorra/la-marca-que-no-vol-dir-andorra.md).
+   **Segueix obert el que demanava actes**: més atestacions andorranes del sentit
+   de tanteig. `Requereix més actes notarials.`
 10. **Brutails no dona signatura d'arxiu** d'aquesta peça, com de cap acte notarial
     del volum. `Requereix els protocols d'Ignasi Soldevila.`
 

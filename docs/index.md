@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**998** documents · **197** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**999** documents · **198** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1117,6 +1117,7 @@
 | [Andorra a la comissió on no vota](temes/institucions/relacions-exteriors/andorra-a-la-comissio-on-no-vota.md) | `temes/institucions/relacions-exteriors` | compilada | contemporania | no | `eur-lex-protocol-seguretat-duanera-2011` |
 | [Andorra és adequada](temes/institucions/relacions-exteriors/andorra-es-adequada.md) | `temes/institucions/relacions-exteriors` | compilada | contemporania | no | `eur-lex-adequacio-dades-andorra-2010` |
 | [El reconeixement internacional](temes/institucions/relacions-exteriors/el-reconeixement-internacional.md) | `temes/institucions/relacions-exteriors` | compilada | contemporania | no | `serra-vatica-microestat` |
+| [Els comisos sempre s'efectuen en benefici de l'Estat andorrà](temes/institucions/relacions-exteriors/els-comisos-sempre-en-benefici-de-lestat-andorra.md) | `temes/institucions/relacions-exteriors` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Els dos papers de la reivindicació espanyola](temes/institucions/relacions-exteriors/els-dos-papers-de-la-reivindicacio-espanyola.md) | `temes/institucions/relacions-exteriors` | compilada | contemporania | no | `vilar-andorre-1904` |
 | [L'acord d'associació amb la UE](temes/institucions/relacions-exteriors/lacord-dassociacio-amb-la-ue.md) | `temes/institucions/relacions-exteriors` | compilada | contemporania | no | `premsa-andorrana` |
 | [L'acord duaner del 1990](temes/institucions/relacions-exteriors/lacord-duaner-del-1990.md) | `temes/institucions/relacions-exteriors` | compilada | contemporania | no | `eur-lex-acord-ce-andorra-1990` |
@@ -1663,6 +1664,7 @@
 | [`coprincep-frances`](fonts/coprincep-frances.md) | Representació del Copríncep Francès a Andorra | informació institucional pública | si |
 | [`costa-globalitzacio-llengues`](fonts/costa-globalitzacio-llengues.md) | Ferran Costa i Marimon · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`dalleres-coprincipat-parlamentari`](fonts/dalleres-coprincipat-parlamentari.md) | Josep Dallerès i Codina · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`dcvb`](fonts/dcvb.md) | Institut d'Estudis Catalans | drets reservats; no s'ha localitzat cap avís legal publicat al domini de consulta | pendent |
 | [`de-la-parte-immigracio-cultura`](fonts/de-la-parte-immigracio-cultura.md) | Isabel de la Parte i Cano · Joan Micó i Ibáñez · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`debat-2a-diada-migracions`](fonts/debat-2a-diada-migracions.md) | Societat Andorrana de Ciències · CREC, Universitat de Perpinyà | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`deu-tradicio-coral`](fonts/deu-tradicio-coral.md) | Marta Deu i Pedrerol · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
