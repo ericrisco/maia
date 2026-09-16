@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-16T15:30:00Z
+timestamp: 2026-09-16T17:00:00Z
 tags: [justicia, dret, notariat, lexic, antic-regim, segle-xviii, segle-xix, font-primaria, prioritari]
 ---
 
@@ -186,8 +186,28 @@ amb autor. El corpus les registra com a seves.`
    aquesta fitxa reprodueix a la taula ve del cos de l'obra, no de la peça**, i
    **el text sencer de la peça segueix sense llegir**: `requereix un altre
    exemplar del volum`.
-2. **Les fórmules del notari Soldevila** als actes del **13 d'abril i 19 d'octubre
-   de 1788**, **peces justificatives pp. XXI i XXXV**. `obert, localitzat.`
+2. ~~**Les fórmules del notari Soldevila** als actes del **13 d'abril i 19
+   d'octubre de 1788**, **peces justificatives pp. XXI i XXXV**.~~ — **`resolt`
+   el 16-09-2026** (PDF 45 i 59). **Les dues pàgines confirmen que la fórmula
+   d'aquesta fitxa és de notari i no d'acte**: **la mateixa cadena hi torna,
+   paraula per paraula.**
+   **A la p. XXI**: «**nos desapoderam del domini de dita cosa venuda y
+   transpassam aquella a la enunciada compradora, ab promesa que fem de
+   entregarli possessio y facultat que li donam de pendrersela de sa propia
+   authoritat, ab clausula de constitut, cessio de tots nostres drets y
+   accions**» — **preu de cinquanta-una lliures i nou sous barcelonins.**
+   **I el que segueix la fórmula també és fix**: la renúncia «**a la excepcio
+   del preu no convingut, a la lley que ajuda als engañats en mes de la mitat**»,
+   la donació del sobrevalor, i la promesa d'evicció «**sempre y en tot cas,
+   pensat e impensat**».
+   **A la p. XXXV**, sobre una venda amb censal, **hi torna la mateixa clàusula
+   d'evicció i de renúncia**, amb l'afegit que **el comprador succeeix en els
+   drets del creditor un cop quitat el censal**, **constituït procurador «com en
+   fet propi»** — **la mateixa fórmula de la p. XXI aplicada a una altra
+   figura.**
+   **La conclusió que el corpus n'extreu**: **«pendre-se-la de sa pròpia
+   autoritat» no descriu un acte de força sinó una clàusula d'estil**, i **el que
+   varia entre actes és el preu i la cosa, no les paraules.**
 3. **L'acte del 12 de març de 1788**, sencer. **Sense signatura d'arxiu a la
    font.** `obert.`
 4. **L'instrument «d'una dotzena d'anys enrere»** —**cap al 1892**— on la confusió

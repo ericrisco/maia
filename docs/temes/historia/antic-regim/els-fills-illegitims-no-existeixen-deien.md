@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-18T15:00:00Z
+timestamp: 2026-09-16T17:00:00Z
 tags: [antic-regim, herencia, marmessors, filiacio, casa, justicia, esglesia, segle-xv, segle-xviii, segle-xix, font-primaria, prioritari]
 ---
 
@@ -185,8 +185,23 @@ la consciència](../../institucions/justicia/nul-per-al-jutge-valid-per-a-la-con
    l'Ariège, Andorre, lligall 2.`
 3. **L'arbitratge que va donar l'herència al fill natural**: **sense data, sense
    parts, i no és sentència.**
-4. **Què era un *visor*** al costat dels marmessors. **Un sol cas, de 1442, i cap
-   altra menció.**
+4. **Què era un *visor*** al costat dels marmessors. — **`parcial` el
+   16-09-2026.** **Lexicogràficament no es tanca**: **el
+   [DCVB](../../../fonts/dcvb.md) no té entrada `visor`** —només `VISORI`,
+   adjectiu, «pertanyent a la vista»— i **el [DIEC2](../../../fonts/diec2.md) no
+   el recull amb aquest sentit.**
+   **El que sí que es pot fer és situar el mot dins el vocabulari andorrà, i hi
+   encaixa.** **La mateixa arrel és viva a la justícia de les Valls**: **la peça
+   justificativa XXXII del mateix volum** és un «**Acte de visura de un cadaver
+   de un home incognit**» del **12 de setembre de 1801**, a Sant Julià de Lòria,
+   davant del batlle **Nicolau Torres Pal**; i **els tribunals de *visures*** —la
+   vedueria— **jutgen justament allò que s'ha d'anar a veure.**
+   **En andorrà, doncs, *visura* i *visori* són l'acte d'anar a veure amb
+   efectes jurídics.** **Que el *visorem* del testament de 1442 —«cui dono
+   plenam potestatem... videndi et distribuendi»— sigui de la mateixa família és
+   una lectura del corpus i no un fet acreditat**: **són tres-cents cinquanta
+   anys de distància i el testament és en llatí.** **El buit es tanca de debò
+   amb un segon testament andorrà que nomeni *visor*, que el corpus no té.**
 5. **Quantes vegades es van nomenar *marmessors de pietat***, i **si el
    nomenament el podia demanar algú altre que un capellà.** **Els dos casos que hi
    ha els presenten un rector i un vicari perpetu.**
