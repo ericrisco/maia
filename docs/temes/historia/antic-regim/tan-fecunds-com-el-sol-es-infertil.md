@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-18T00:00:00Z
+timestamp: 2026-09-16T20:15:00Z
 tags: [antic-regim, familia, matrimoni, casa, esglesia, justicia, dones, segle-xvi, segle-xviii, segle-xix, font-primaria, prioritari]
 ---
 
@@ -316,8 +316,16 @@ Vegeu [els ritus de pas](../../costums/ritus-de-pas/ritus-de-pas.md).
 7. **Si les *sposalles* van deixar mai rastre escrit**, atès que **els notaris no
    en rebien actes**. La prova documental que hi ha és **una declaració judicial
    del segle XV**, no un contracte.
-8. **Què eren els *jogos*** exactament, i **si el mot designava qualsevol regal o
-   una categoria concreta**.
+8. **Què eren els *jogos*** exactament. — **`obert`, i el 16-09-2026 amb els dos
+   diccionaris consultats i buits.** **Ni el [DIEC2](../../../fonts/diec2.md) ni
+   el [DCVB](../../../fonts/dcvb.md) no tenen `jogos`**; **el DCVB té `JOC`**
+   amb els sentits corrents de joc i entreteniment, **cap d'ells de regal ni
+   d'aportació matrimonial.**
+   **Per tant `jogos` no és un mot de la llengua descrita: és un mot d'aquests
+   documents**, com `asetiada` o `assecle`. **El que el corpus en pot dir és el
+   que en diu el context** —**acompanyaven una *sposalla***— **i prou.**
+   **Es tanca amb actes matrimonials andorrans, no amb lexicografia**:
+   `requereix capítols matrimonials del mateix fons`.
 9. **Què vol dir «de caball o dot»** al contracte de 1551, i **si el *cavall* era
    una aportació amb nom propi diferent del dot**.
 10. **Si la desproporció de 1551 —25 lliures contra 160— era corrent**, o un cas.

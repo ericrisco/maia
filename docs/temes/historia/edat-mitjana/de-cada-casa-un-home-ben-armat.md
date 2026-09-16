@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: rios-urruti-andorra-1920
-timestamp: 2026-09-16T14:00:00Z
+timestamp: 2026-09-16T20:15:00Z
 tags: [edat-mitjana, bisbe-durgell, feudalisme, dret, fiscalitat, ramaderia, esglesia, parroquies, lexic, comunals, font-primaria, prioritari]
 ---
 
@@ -425,7 +425,18 @@ admeten i no ho neguen; es comprometen a acatar la sentència.**
 4. **Què són la *levate* i el *mers*** que se separen del delme abans de
    barrejar-lo. **Dues deduccions amb nom i sense explicació.**
 5. **Què són les *potacions* i les *beratiques*** que els andorrans cobraven per
-   lliurar el delme, **i si el mot sobreviu en alguna forma.**
+   lliurar el delme. — **`obert`, i el 16-09-2026 confirmat que no és
+   lexicogràfic.** **`potació` no és al [DCVB](../../../fonts/dcvb.md) ni al
+   [DIEC2](../../../fonts/diec2.md)**, i **tampoc `levata`**, la tercera
+   deducció de la mateixa frase.
+   **Els tres mots són del document i no de la llengua**, i **el que els
+   identificaria és el context fiscal, no el diccionari**: **són deduccions que
+   es prenien del delme abans de partir-lo**, i **la font les enumera sense
+   definir-ne cap.** `Requereix documentació decimal del bisbat d'Urgell.`
+   **I el corpus reté per què importa**: **la frase on surten és una renúncia**
+   —«**com que reconeixem que injustament preníem *potacions* o *beratiques*…**»—,
+   **de manera que no eren drets sinó abusos admesos**, i **això és el que les
+   fa interessants, tinguin el nom que tinguin.**
 6. **La *leuda*, `resolta` el 16-09-2026**; **la *vista* i la *parada*
    segueixen obertes.** **El [DCVB](../../../fonts/dcvb.md) dona `lleuda`** —grafia antiga
    `leuda`— com a «**tribut que es pagava per l'entrada de mercaderies dins una

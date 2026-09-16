@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-16T11:00:00Z
+timestamp: 2026-09-16T20:15:00Z
 tags: [justicia, justicia-politica, veheduria, visura, servituds, quarts, consell-general, segle-xvi, segle-xvii, segle-xix, font-primaria, prioritari]
 ---
 
@@ -256,9 +256,16 @@ manera:**
    i no ho explica.**
 8. **Fins on arriba la submissió voluntària** en aquesta jurisdicció: **quan
    jutja per imperi i quan per compromís de les parts.**
-9. **Què són ***antipeu*** i ***vicrono*** al text de 1364. **Ni el corpus ni la
-   font els glossen**, i **la còpia és sospitosa, de manera que podrien ser
-   corrupcions.**
+9. **Què són ***antipeu*** i ***vicrono*** al text de 1364. — **`obert`, i el
+   16-09-2026 amb la via lexicogràfica descartada.** **`antipeu` no és al
+   [DCVB](../../../fonts/dcvb.md) ni al [DIEC2](../../../fonts/diec2.md).**
+   **Això reforça la hipòtesi que aquesta fitxa ja plantejava**: **que siguin
+   corrupcions de còpia**, no mots. **El text que els conté és llatí de
+   cancelleria** —«*inter universitatem unius loci et universitatem alterius de
+   antipeu vel de…*»— i **una còpia sospitosa d'un original de 1364**.
+   **El corpus no proposa cap esmena**: **esmenar un mot llatí que no es pot
+   contrastar amb l'original és inventar-lo.** `Requereix l'original de 1364 o
+   una altra còpia.`
 10. **Els *bans y tales* i les *rigueres*** de la llista del manuscrit: **si el
     corpus els té documentats en altres fonts amb el mateix abast.**
 
