@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: wikipedia-atletes-andorrans
-timestamp: 2026-09-13T13:26:00Z
+timestamp: 2026-09-17T20:00:00Z
 tags: [esports, futbol, seleccio]
 ---
 
@@ -94,9 +94,18 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 
 - ~~**Els anys i els partits de cada club.**~~ — **`resolt`** (taula de dalt).
 - ~~**La resta de la seva carrera internacional.**~~ — **`resolt`**: **la carrera internacional sencera i els gols un per un**, amb data, rival, marcador i competició (taules de dalt).
-- **Si segueix jugant.** — **`obert`, confirmat el 2026-09-13.** **La data de la
-  instantània del bolcat marca fins on arriba el que se'n sap**, i **no diu res
-  del que ha passat després.** Vegeu [futbol](../futbol/README.md).
+- ~~**Si segueix jugant.**~~ — **`resolt` el 17-09-2026**: **sí.** **És a la
+  convocatòria d'Andorra per a l'amistós contra Kosovo del 7 de juny del 2026**,
+  com a **defensa** del **Atlètic Club d'Escaldes**
+  ([selecció](https://en.wikipedia.org/wiki/Andorra_national_football_team),
+  llegida dues vegades). **Data de naixement que hi consta: 9 de setembre del 1994.**
+
+  **El que això tanca i el que no.** **Tanca la pregunta per a ell**: una
+  convocatòria internacional del juny del 2026 **prova que seguia jugant**.
+  **No es pot fer la inferència contrària per a ningú**: **no ser a la
+  convocatòria no prova que s'hagi plegat**, perquè es pot jugar al club sense
+  ser internacional. **Els altres onze futbolistes d'aquesta branca segueixen
+  oberts per aquest motiu**, no per manca de consulta.
 
 ## Related
 
