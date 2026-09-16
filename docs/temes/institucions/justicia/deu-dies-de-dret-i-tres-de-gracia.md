@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-21T09:00:00Z
+timestamp: 2026-09-16T15:45:00Z
 tags: [justicia, procediment, terminis, tretze-dies, proves, testimonis, jurament, batlles, continuitat, segle-xvi, segle-xviii, segle-xix, segle-xx, font-primaria, prioritari]
 ---
 
@@ -258,8 +258,22 @@ sentència de batlle **de 1890**:
    batlle a partit *per fadiga de dret*.**
 8. **Quantes sentències de batlle per sota de 10 lliures es van escriure malgrat
    tot**, **si n'hi ha cap.**
-9. **L'*Instructa*, Pièces justificatives p. XLVIII** —**vuitena citació**—, sobre
-   les fases del procés.
+9. ~~**L'*Instructa*, Pièces justificatives p. XLVIII** —**vuitena citació**—,
+   sobre les fases del procés.~~ — **`resolt` el 16-09-2026** (PDF 68). **La
+   peça XXVI és la *Instructa als senyors batlles* de 1740**, i **el volum en
+   diu una cosa que el corpus no tenia: es va fer «per la direcsio de cert
+   Batlle en les Corts se tingueren lo any 1740»** — **no és un codi, és el
+   manual d'un batlle concret.**
+   **Les fases que hi dona, per ordre**: el batlle fa venir les parts **a casa
+   seva** el dia assenyalat; **si la part citada no compareix sense justa causa
+   li pot aplicar la contumàcia, «castigantlo ab preso, si li apareyx»**; la part
+   agent dedueix pretensió, títols, testimonis o raons; la part rea respon; **i
+   si aquesta resposta és «de poca entitat y substancia», per això mateix serà
+   condemnada** i **se li negaran les lletres apel·latòries per temerària**.
+   **I aquí hi ha la garantia que el corpus reté**: **si la part requesta el
+   batlle per la negativa, el batlle ha de respondre «al peu de la requesta les
+   rahons que tindra per la negacio de ella»** — **la denegació d'apel·lació
+   s'ha de motivar per escrit i al mateix document.**
 10. **La comparació amb la *Ley de enjuiciamiento civil* espanyola** (arts.
     540-549 i 734) que la font qualifica de «parentiu manifest, **col·lateral**».
     **El corpus no té aquesta llei.**

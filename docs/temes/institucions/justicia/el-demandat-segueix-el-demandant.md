@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-16T15:00:00Z
+timestamp: 2026-09-16T15:45:00Z
 tags: [justicia, procediment, batlles, nunci, terminis, casa-de-la-vall, terceria, rebeldia, segle-xvi, segle-xviii, segle-xix, font-primaria, prioritari]
 ---
 
@@ -262,8 +262,15 @@ competencia de jurisdicción, porque **par in pari non habet imperium***»**.
 3. **Què passava si el veí més pròxim no transmetia la citació.**
 4. **El conveni o la base jurídica** de l'assistència judicial amb França que la
    font descriu com a pràctica corrent. **No en cita cap.**
-5. **L'*Instructa*, Pièces justificatives p. XLVIII** —**setena citació**— i **el
-   *Politar*, pp. 208 i 209**, sobre les audiències dels batlles.
+5. **L'*Instructa*, Pièces justificatives p. XLVIII, `resolta` el 16-09-2026**
+   (PDF 68); **el *Politar*, pp. 208 i 209, segueix obert.** **La regla de les
+   audiències, literal**: els batlles, el dia destinat als verbals, **«se faran
+   venir les parts litigants en casa sua»**, i només en surten **«en lo cas que
+   ells vulgan de son pler y grat anar a la casa de aquells»** o **quan cal
+   inspecció ocular de la cosa en qüestió.**
+   **Confirma el que aquesta fitxa sosté** —**la justícia no té seu: la seu és
+   la casa del batlle**— **i hi afegeix que sortir-ne era facultat seva, «de son
+   pler y grat», no dret de les parts.**
 6. ~~**El manuscrit del senyor Palmitjavila**, **Pièces justificatives p.
    LVII**, segons el qual al judici verbal **la citació pot fer-la el demandant
    assistit d'un testimoni**.~~ — **`resolt` el 16-09-2026** (PDF 77). **El

@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-21T14:00:00Z
+timestamp: 2026-09-16T15:45:00Z
 tags: [justicia, procediment, apellacio, terminis, batlles, jutge-dapellacions, territori, segle-xvi, segle-xviii, segle-xix, font-primaria, prioritari]
 ---
 
@@ -240,9 +240,25 @@ arriben, el rellotge corre.**
    de juny de 1845** al prefecte de l'Arieja *(Archives de l'Ariège, Andorre,
    lligall 2 — **dotzena peça registrada i cap consultada**)*.
    `Requereix font externa: Archives départementales de l'Ariège.`
-6. **L'*Instructa*, Pièces justificatives pp. XLVIII i XLIX** —**novena i desena
-   citació**— i **el *Politar*, pp. 212 i 213.** **Prioritat màxima**: **la font
-   les declara els únics escrits oficials del dret andorrà.**
+6. **L'*Instructa*, Pièces justificatives pp. XLVIII i XLIX, `resolta` el
+   16-09-2026** (PDF 68-69); **el *Politar*, pp. 212 i 213, segueix obert.**
+   **El text dona el que aquesta fitxa porta al títol, i amb els mots de la
+   font**: el batlle **«estimara prudentment lo temps haura menester la part
+   apellant per portar las inhibitorias del Jutge Supremo, estimantlo de la
+   distancia, temps, disposicions de camins y altres coses que poden impedir lo
+   facil recurs del Jutge»**.
+   **El termini no era una xifra: era una estimació del batlle, cas per cas, i
+   els camins hi entraven com a criteri escrit.** **I la peça en dona els
+   marges**: les lletres d'apel·lació es donen **dins de deu dies** des de la
+   sentència verbal —termini **«estilat de temps immemorial en la Curia de
+   Andorra»**—, i després **la suspensió de l'execució es manté «encara que un o
+   dos mesos»**, **assenyaladament si el jutge és a França o a Espanya però
+   lluny.** **La distància del jutge, no la del litigant, és el que allarga el
+   termini.**
+   **I una cosa més que el corpus no tenia**: **davant d'una causa «dificultosa
+   e intrincada» el batlle consulta un advocat** —i si no en queda satisfet, un
+   segon— **«sens dir empero a les parts que vulga consultar, pues no deu
+   donarlos semblant satisfacio»**. **La consulta era obligatòriament secreta.**
 7. **El manuscrit del senyor Palmitjavila** —**onzena tanda seguida**—, **ara amb
    nota marginal pròpia sobre els terminis.**
 8. **Els documents de 1580, 1783, 1793, 1828, 1841 i 1858** sencers.
