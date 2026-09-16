@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-20T21:00:00Z
+timestamp: 2026-09-16T14:30:00Z
 tags: [justicia, procediment, terminis, feriats, calendari, procuradors, consell-general, agricultura, fires, segle-xv, segle-xix, font-primaria, prioritari]
 ---
 
@@ -142,6 +142,61 @@ de **J.-A. Brutails** (1904), amb les notes
 > font indirecta de dret processal.** **El corpus ho registra i fa constar que la
 > font no diu quina reforma ni quan.**
 
+### La peça, transcrita
+
+**Llegida la peça justificativa p. LX el 16-09-2026** (PDF 80 de
+`docs/raw/llibres/brutails-coutume.pdf`). **És la peça XXVIII, titulada
+*Liste des feriats*, i el corpus la transcriu sencera perquè fins ara només en
+tenia la descripció del cos de l'obra, en francès:**
+
+> «**Son dias feriats per los tribunals en las presents Valls de Andorra:**
+>
+> **1r** Tots los diumenges;
+>
+> **2n** En lo mes de febrer, la festivitat de la Mare de Deu; en lo mes de
+> mars, lo dia de sant Joseph y lo de la Mare de Deu; en maitg, lo dia de la
+> Ascensio y lo de Corpus; en juny, lo dia de sant Pere; en setembre, la
+> Nativitat de la Mare de Deu; en desembre, lo dia de la Purisima Concepcio;
+>
+> **3r** De desde lo dia de Carnaval fins pasada la segona semana de Cuaresma,
+> **per raho de la fira de Salas**;
+>
+> **4t** De desde lo diumenge dels Ramaus fins pasat lo diumenge de Cuasimodo;
+>
+> **5è** Lo dia de sant Jaume, o sia 25 de juliol, fins lo dia 17 de agost;
+>
+> **6è** Desde lo dia de tots los Sants fins lo dia 6 de novembre, **per raho de
+> la fira de la Seu de Urgell**;
+>
+> **7è** De desde lo 27 de novembre fintes lo 4 de decembre **per raho de la
+> fira de Organya**;
+>
+> **7è** *(sic)* De desde lo 21 de desembre, o sia lo dia de sant Tomas, fins lo
+> endema de la festivitat dels Reys.
+>
+> **Andorra, 25 novembre de 1902. Estebe Ricart, batlle. Juan Calvet, batlle.**»
+
+**La transcripció aporta tres coses que la descripció del cos no donava.**
+
+> **Primera: la data i els noms.** **La llista és del 25 de novembre de 1902** i
+> **la signen Estebe Ricart i Juan Calvet, batlles.** **És un document de dos
+> anys abans del llibre**, no una consuetud sense data.
+>
+> **Segona: quines fires justifiquen quins dies.** **La peça ho diu de tres dels
+> vuit períodes** —**Salàs** al Carnaval, **la Seu d'Urgell** per Tots Sants i
+> **Organyà** del 27 de novembre al 4 de desembre— i **no ho diu de la resta**,
+> que són litúrgics. **La fira no és una excusa afegida al calendari religiós:
+> és el motiu escrit.**
+>
+> **Tercera, i és la que toca aquesta fitxa de ple: el paràgraf d'Organyà es va
+> afegir després.** **Brutails ho anota al peu**: aquest apartat **«ha estat
+> afegit després, en una crida»**, i **va seguit d'una segona empremta del segell
+> del Consell General.** **Per això hi ha dos apartats numerats 7è**, i l'editor
+> hi posa el *(sic)*. **El corpus no dedueix quan es va afegir** —el document
+> està datat una sola vegada— **però sí que registra que la fira d'Organyà no
+> entrava a la llista original i que algú la va fer entrar amb prou autoritat per
+> tornar-hi a posar el segell.**
+
 ### La llista
 
 **Les Pièces justificatives (p. LX) porten la nomenclatura, **fixada pels dos
@@ -262,8 +317,12 @@ Andorra:**
 1. **L'*Instructa* de les Corts de 1740** i **el treball d'Anton Picart**. **La
    font els declara **els únics escrits oficials del dret andorrà**.** **Sisena i
    tercera citació respectivament, i cap dels dos llegit.** **Prioritat màxima.**
-2. **La llista de feriats de les Pièces justificatives, p. LX**, **que el corpus
-   té descrita al cos i no transcrita.** **Prioritari.**
+2. ~~**La llista de feriats de les Pièces justificatives, p. LX**, **que el
+   corpus té descrita al cos i no transcrita.**~~ — **`resolt` el 16-09-2026**:
+   **transcrita sencera** a [la peça, transcrita](#la-peça-transcrita), amb la
+   data —**25 de novembre de 1902**—, **els noms dels dos batlles**, **les tres
+   fires que la peça declara com a motiu** i **la nota que el paràgraf d'Organyà
+   es va afegir després, amb un segon segell.**
 3. **La llista manuscrita «que podia remuntar al segle XVIII»** amb l'addició de
    la sega i les fires, **i les llistes de Josep Picart i de Palmitjavila**, que
    la font declara **sense caràcter d'autenticitat.** **Prioritari**: **són les

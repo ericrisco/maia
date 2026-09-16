@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-22T17:00:00Z
+timestamp: 2026-09-16T14:45:00Z
 tags: [justicia, procediment, cessio-de-bens, pregoners, edat-mitjana, antic-regim, consell-general, segle-xv, segle-xvi, segle-xix, lexic, font-primaria, prioritari]
 ---
 
@@ -227,8 +227,35 @@ s'endevina:
    **El recompte de «citacions sense llegir» era erroni.** **El que quedava per
    fer —i s'ha fet— era comprovar passatge per passatge els llocs que el cos de
    l'obra en cita.** **Vegeu** [«si la part instant ho vol»](./si-la-part-instant-ho-vol.md).
-7. **Les peces justificatives p. LXII**, **extracte d'un procediment sobre la
-   reclamació d'un creditor en una cessió de béns.**
+   — **I el 16-09-2026 s'ha llegit la pàgina LI mateixa** (PDF 71). **El
+   procediment que hi dona la *Instructa* per a la cessió de béns és aquest**:
+   el batlle hi va **amb el notari** a fer **inventari** de mobles i immobles,
+   els **segresta** en mans d'un tercer o del mateix cedent, **fixa edictes** de
+   citació als llocs acostumats donant **trenta dies** als creditors, **s'informa
+   pel seu compte** dels crèdits mentre corren els edictes, **fa notificar cada
+   creditor pel *nunci*** i n'aixeca acta, i **passats els trenta dies gradua els
+   creditors** per dret de prelació, amb **dos estimadors jurats**. **I si després
+   apareixen creditors que no han comparegut**, els averigua igualment i els fa
+   estimar béns. **El detall que la fitxa reté**: **el batlle, el notari i el
+   *nunci* es poden hipotecar béns pels seus drets abans que cap creditor.**
+   **En què és «un poc diferent» del que exposa el cos de l'obra, el corpus no
+   ho arbitra**: caldria confrontar-ho frase a frase amb el capítol, i **això no
+   s'ha fet.**
+7. ~~**Les peces justificatives p. LXII**, **extracte d'un procediment sobre la
+   reclamació d'un creditor en una cessió de béns.**~~ — **`resolt` el
+   16-09-2026** (PDF 82). **La pàgina no porta un extracte sinó dues peces
+   senceres.** **La XXX** és **l'edicte que informa el públic d'una cessió de
+   béns**, datat pel volum entre **1870 i 1880**, **de part del batlle episcopal
+   Pere Casal, àlies Regi**: diu que el cedent «**ha depositat en poder de dit
+   honorable Batlle y sa curia tota la sua heretat y bens**» i **dona trenta
+   dies** als creditors, «**tant ecclesiastichs com seculars**», per comparèixer
+   amb els seus títols, **amb la promesa que se'ls guardarà «la prioritat de
+   temps y majoria de dret»**. **La XXXI** és la **judicació i tramesa en
+   possessió** posterior a una cessió, de **1830-1840**, **i és la que un
+   creditor presenta quan s'hi ha oposat.** **Els noms hi van abreujats per
+   l'editor** i el corpus manté l'abreujament. **Segueix obert** l'expedient
+   sencer de cap d'aquestes dues cessions: **el volum en dona la fórmula, no el
+   cas.**
 8. **La constitució catalana de 1311** *(Constitucions, VII, xiv, 1, p. 440)*,
    que és **on la font situa el nom de la cessió de béns.**
 9. **Qui era Johan P., difunt el 1477, i Guillem R., de Sespony, difunt el
