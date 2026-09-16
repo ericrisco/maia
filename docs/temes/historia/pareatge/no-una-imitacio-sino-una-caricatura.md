@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-16T09:00:00Z
+timestamp: 2026-09-16T16:15:00Z
 tags: [pareatge, historiografia, coprincipat, sobirania, edat-mitjana, font-primaria, dret, prioritari]
 ---
 
@@ -459,11 +459,25 @@ l'òrgan.**
    facsímil** —*La Vanguardia* del **13 d'agost de 1896** i el *Bulletin
    historique et philologique* de **1896**— i **cap reproducció**. `obert,
    localitzat.`
-2. **La peça justificativa núm. II d'aquest mateix llibre**: **el privilegi
-   concedit als andorrans pel comte de Foix el 22 de març de 1305** *(n. s.)*,
-   **pàgina IV de les peces justificatives**. **És al fitxer que el corpus ja
-   té.** **Brutails en treu que el Bisbe era exclòs de l'administració de les
-   Valls en aquella data.** `obert, prioritari, unitat següent.`
+2. ~~**La peça justificativa núm. II d'aquest mateix llibre**: **el privilegi
+   concedit als andorrans pel comte de Foix el 22 de març de 1305** *(n. s.)*.~~
+   — **`resolt` el 16-09-2026** (pàgines IV-V, PDF 28-29). **La data és al
+   document**: «**XI kalendas aprilis, anno Domini millesimo CCC IIII**»,
+   **22 de març de 1304 de l'estil antic, 1305 del nostre.**
+   **I el que Brutails en treu es pot ara comprovar sobre el text.** **El
+   privilegi el dona el comte tot sol** i **hi disposa coses que són
+   d'administració de justícia**: que els andorrans **no obeeixin sinó un sol
+   saig** —**nomenat: Bernat de Lareyu**— **i, mort ell, el que el comte hi
+   posi**; que **no obeeixin sinó un sol veguer i un sol lloctinent seu**; i
+   que es limiti a divuit diners diaris el que poden cobrar els portadors de
+   lletres de deute. **El bisbe no hi surt.**
+   **El corpus reté la distinció i no l'esborra**: **que el bisbe no aparegui en
+   aquest document no és el mateix que estar-ne exclòs.** **L'exclusió és la
+   lectura de Brutails**; **el que el document acredita és que el comte hi
+   legisla sol.**
+   **Procedència**: **Archives des Basses-Pyrénées, E 459**, amb els passatges
+   entre claudàtors **reconstituïts d'una còpia de 1666** de la col·lecció Doat,
+   t. 178, fol. 1-5.
 3. **La carta de delimitació del bisbat d'Urgell** que s'ha llegit com a cessió
    d'Andorra. `obert.`
 4. **Les peces «de les quals s'ha tret penosament una teoria favorable a la

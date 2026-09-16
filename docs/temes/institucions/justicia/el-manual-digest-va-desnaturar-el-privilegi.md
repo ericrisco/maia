@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-21T22:00:00Z
+timestamp: 2026-09-16T16:15:00Z
 tags: [justicia, procediment, execucio, fianca, embargament, manual-digest, politar, dones, segle-xiii, segle-xiv, segle-xvi, segle-xix, font-primaria, prioritari]
 ---
 
@@ -227,9 +227,28 @@ jurisdiccions és aquí sencera:**
 
 ## Buits registrats
 
-1. **El privilegi de 1305 de Gastó de Foix**, *Pièces justificatives p. V*, **i la
-   p. 180 del *Politar*.** **Prioritari i doble**: **el corpus té la
-   desnaturalització afirmada i no té cap dels dos textos.**
+1. **El privilegi de 1305, `resolt` el 16-09-2026** (pàgines IV-V de les peces
+   justificatives, PDF 28-29, la datació llegida com a imatge); **la p. 180 del
+   *Politar* segueix oberta.**
+   **La data que el corpus donava queda confirmada al document**: «**Quod est
+   actum XI kalendas aprilis, anno Domini millesimo CCC IIII**» — **onze
+   calendes d'abril, o sia el 22 de març**, de l'any **1304** de l'estil antic,
+   **que és el 1305 del nostre**. **La «(n. s.)» que aquesta fitxa arrossegava
+   no era una cautela: era exacta.**
+   **I el que el privilegi concedeix, en tres punts que el corpus reté**:
+   **primer**, els portadors de lletres que vinguin a Andorra a reclamar deutes
+   **no poden cobrar més de divuit diners** de moneda corrent a Andorra **per dia
+   d'anada i altres tants per dia de tornada**; **segon**, els andorrans **no han
+   d'obeir sinó UN saig** —**«nisi uno sagioni, videlicet Bernardo de
+   Lareyu»**— i, mort ell, el que el comte hi posi, **ni sinó un sol veguer i un
+   sol lloctinent**; **tercer**, **cap dona casada de la terra no està obligada a
+   *firmare jus* mentre el seu marit ho vulgui fer per ella.**
+   **La procedència és de les que el corpus vol tenir escrites**: **Archives des
+   Basses-Pyrénées, E 459**, i **els passatges entre claudàtors els va
+   reconstituir l'autor amb una còpia de 1666 de la col·lecció Doat, t. 178,
+   fol. 1-5**, d'una transcripció que deu a un confrare seu. **El text que el
+   corpus llegeix no és sencer d'original: és original més còpia de 1666, i
+   l'edició ho marca.**
 2. **Quina guerra impedia sortir el 1551** i **on és exactament Campcardós.**
    **El corpus no ho afirma de memòria.**
 3. **El final de l'acte del 10 d'octubre de 1551** amb la pena de cinquanta
