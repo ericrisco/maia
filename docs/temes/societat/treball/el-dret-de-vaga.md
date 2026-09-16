@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: jurisprudencia-ad
-timestamp: 2026-09-14T09:40:00Z
+timestamp: 2026-09-16T20:30:00Z
 tags: [treball, drets, sindicalisme, societat, dret, economia]
 ---
 
@@ -157,5 +157,26 @@ vigent** (article 2.1) ni s'aplica **mentre s'exerceix el dret de vaga**
 - **El Consell Econòmic i Social** no té fitxa al corpus.
 - **La normativa específica dels cossos especials** —que decideix si els policies
   andorrans es poden sindicar— **no és al recull**.
-- **El tancament patronal (*lockout*)**, si la llei el regula, no s'ha localitzat
-  en el que s'ha llegit.
+- ~~**El tancament patronal (*lockout*)**, si la llei el regula, no s'ha
+  localitzat en el que s'ha llegit.~~ — **`resolt` el 16-09-2026: sí que el
+  regula, i en un capítol sencer.** **La Llei del conflicte col·lectiu hi
+  dedica el capítol tercer, articles 24 a 30**
+  (`docs/raw/lleis/conflicte-collectiu.txt`). **El corpus en reté el que el
+  distingeix de la vaga:**
+  **És una mesura de conflicte col·lectiu decidida unilateralment per
+  l'empresa**, i **només es pot exercir si ja hi ha vaga o conflicte
+  irregular** i **a més concorre un dels tres supòsits taxats**: perill evident
+  per a la seguretat de persones o béns, ocupació il·legal del centre de
+  treball, o **tanta inassistència que no es puguin fer ni els treballs de
+  manteniment per reprendre l'activitat.**
+  **I hi ha una prohibició que en diu el sentit**: **no es pot tancar per
+  impedir o limitar una vaga, ni per sancionar-ne una de feta** (article 26).
+  **El tancament és defensiu per definició legal, no una arma de resposta.**
+  **Procediment**: **avís al ministeri i als assalariats amb dos dies hàbils
+  d'antelació**, i **si el ministeri considera que no hi ha causa, ho resol per
+  escrit en un dia hàbil i la resolució és de compliment obligatori**, sense
+  que el recurs en suspengui l'execució. **Si no diu res, s'entén autoritzat.**
+  **Efectes**: **no extingeix la relació laboral, la suspèn** —i suspèn el
+  salari—; **l'assalariat es manté d'alta a la CASS amb suspensió de
+  cotització**, i **no té dret a prestació per baixa mèdica si la baixa comença
+  dins del tancament**, llevat d'accident de treball.

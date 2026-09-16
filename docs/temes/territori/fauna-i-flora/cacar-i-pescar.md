@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: jurisprudencia-ad
-timestamp: 2026-09-13T13:00:00Z
+timestamp: 2026-09-16T20:30:00Z
 tags: [territori, fauna, caça, pesca, dret, societat, associacionisme]
 ---
 
@@ -106,7 +106,18 @@ i els ecosistemes aquàtics»** (article 4).
   als convenis internacionals (article 3). El corpus té el marc i no la llista.
 - **Quants isards hi ha**, i si el llindar dels 300 s'ha arribat a incomplir mai,
   no consta.
-- **Quins vedats existeixen** —que són llei— no s'han localitzat.
+- **Quins vedats existeixen** —que són llei— **`obert`, i el 16-09-2026 se sap
+  per què no es troben.** **La mateixa Llei de caça ho diu a l'article 14**
+  (`docs/raw/lleis/caca.txt`): **els vedats de caça són «zones geogràfiques,
+  determinades per llei»**, **i aquesta Llei no en determina cap** — **només
+  en defineix la figura i el règim.**
+  **La llista, doncs, no és en aquest text sinó en les lleis que creen cada
+  vedat**, que el corpus no té. **I la Llei n'estableix una segona categoria que
+  va per una altra via**: **els *vedats temporals de caça*, que es determinen
+  per ordre ministerial** (article 15), **no per llei.**
+  **Per tant són dues cerques diferents i no una**: `requereix les lleis de
+  creació de cada vedat` i `requereix les ordres ministerials de vedats
+  temporals`.
 - **Els articles de la Llei de pesca arriben amb el títol malmès** a la font: en
   molts casos el títol repeteix la primera frase de l'article, truncada. El text
   és sencer; **l'encapçalament no és fiable** i el corpus cita pel número.
