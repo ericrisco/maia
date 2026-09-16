@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: wikipedia-esquiadors-andorrans
-timestamp: 2026-09-13T09:38:00Z
+timestamp: 2026-09-17T19:00:00Z
 tags: [esports, esqui, jocs-olimpics, abanderats]
 ---
 
@@ -73,7 +73,25 @@ del país sencer, vista des de l'esport.
 
 - **Copes del Món i campionats del món**: cap dada. — **`obert`, confirmat**:
   **el bolcat és de dues línies.**
-- **Quan va plegar i què fa ara.** — **`obert`, confirmat.**
+- **Quan va plegar i què fa ara.** — **`parcial` el 17-09-2026**, i **la meitat
+  que es tanca ve de la base de dades de la
+  [FIS](../../../../fonts/fis-ski-db.md), no de cap arxiu**: la seva fitxa
+  d'esquí alpí el dona com a **«not active»**, i el **darrer resultat que hi
+  consta és un 2n lloc en eslàlom a Pal, el 14 de gener de 2007.**
+  **Plegar de competir, doncs, després del 2007** —i **el bolcat de la
+  Viquipèdia, que s'aturava als Jocs del 2006, es quedava un any curt.**
+
+  **El que segueix obert és «què fa ara»**: **una base de resultats esportius no
+  ho pot dir** i el corpus no ho anirà a buscar a xarxes personals.
+  `Requereix una font biogràfica, no esportiva.`
+
+  > **Una precaució de mètode, registrada perquè afecta tota la branca.** **La
+  > mateixa fitxa, llegida dues vegades, va donar dues «darreres temporades»
+  > diferents** —2007 i 2013/14—, **mentre que l'estat «not active» i el resultat
+  > de Pal es van repetir igual les dues vegades.** **El corpus reté només el que
+  > va coincidir**, i **descarta la «darrera temporada».** **És el mateix defecte
+  > que llegir una capa d'OCR en comptes de la pàgina: qui extreu pot inventar
+  > precisió que la font no dona.**
 - ~~**La sèrie sencera d'abanderats.**~~ — **`parcial`, i hi aporta el seu**:
   **va ser l'abanderat d'Andorra a la cerimònia d'obertura dels Jocs de Torí
   del 2006.**
