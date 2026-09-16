@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-16T14:00:00Z
+timestamp: 2026-09-16T15:00:00Z
 tags: [justicia, procediment, batlles, nunci, terminis, casa-de-la-vall, terceria, rebeldia, segle-xvi, segle-xviii, segle-xix, font-primaria, prioritari]
 ---
 
@@ -264,10 +264,18 @@ competencia de jurisdicción, porque **par in pari non habet imperium***»**.
    font descriu com a pràctica corrent. **No en cita cap.**
 5. **L'*Instructa*, Pièces justificatives p. XLVIII** —**setena citació**— i **el
    *Politar*, pp. 208 i 209**, sobre les audiències dels batlles.
-6. **El manuscrit del senyor Palmitjavila**, **Pièces justificatives p. LVII**,
-   segons el qual al judici verbal **la citació pot fer-la el demandant assistit
-   d'un testimoni**. **Desena tanda que aquest manuscrit surt**, i **ara el corpus
-   sap que n'hi ha text a les peces justificatives.** **Prioritari.**
+6. ~~**El manuscrit del senyor Palmitjavila**, **Pièces justificatives p.
+   LVII**, segons el qual al judici verbal **la citació pot fer-la el demandant
+   assistit d'un testimoni**.~~ — **`resolt` el 16-09-2026** (PDF 77). **El
+   text confirma la lectura i hi afegeix les condicions**: el manament del
+   batlle, verbal o escrit, «**s'sol fer per lo nuncio o per la matexa part
+   interesada en paraula del Batlle y en presencia de un testimoni, en pena de
+   sinch sous, ab asignacio de dia sert**».
+   **Quatre condicions, doncs, i cap no és menor**: **la part cita en nom del
+   batlle** —«en paraula del Batlle»—, **amb un testimoni present**, **sota pena
+   de cinc sous** i **assenyalant dia cert**. **No és que la justícia
+   s'externalitzi: és que el demandant hi fa de missatger amb fórmula
+   obligatòria.**
 7. **La deliberació del Consell General del 16 de desembre de 1768** sencera.
 8. **Els documents del segle XV, de 1603, de 1552** *(enviament en possessió,
    Pièces justificatives p. VII)* **i de 1793.**

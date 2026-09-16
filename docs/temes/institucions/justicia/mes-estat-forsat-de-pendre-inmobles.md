@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-22T13:00:00Z
+timestamp: 2026-09-16T15:00:00Z
 tags: [justicia, procediment, execucio, embargament, antic-regim, carta-de-gracia, coprincipat, consell-general, segle-xv, segle-xvii, segle-xviii, segle-xix, font-primaria, prioritari]
 ---
 
@@ -303,8 +303,17 @@ llibre:**
    1461 encara no existia.
 6. **El decret del Consell General del 23 de març de 1880** sencer.
 7. **L'*Instructa*, peces justificatives p. LV** —**quinzena citació**— sobre el
-   parell i la bèstia de càrrega. **Prioritari**: **la font la qualifica, amb
-   l'obra d'Anton Picart, d'únic escrit oficial del dret andorrà.** — **CORRECCIÓ, 23-09-2026: aquest buit estava mal formulat.**
+   parell i la bèstia de càrrega. — **`resolt` el 16-09-2026** (PDF 75). **El
+   text és aquest**: «**pot lo Batlle reservar al pages lo parell de llaurar y la
+   averia de carrey, mediant li quedie heretat per conrear, altrament no**».
+   **I la condició és el que importa i el que el corpus no tenia**: **la reserva
+   no és incondicional.** **El pagès conserva el parell i la bèstia de càrrega
+   només si li queda heretat per conrear**; **si no li'n queda, no els conserva.**
+   **L'eina es protegeix perquè serveixi, no perquè sigui seva.**
+   **La mateixa pàgina precisa la quarta**: el batlle pot fer perdre la quarta
+   part de tot el que va a l'encant públic, **«si la part instant ho vol»**, **a
+   excepció d'or, plata, metall, blat i grans**, que s'han de rebre al seu just
+   valor i **no perden la quarta.** — **CORRECCIÓ, 23-09-2026: aquest buit estava mal formulat.**
    **La *Instructa* **no** és un document sense llegir**: el corpus la té
    destil·lada des del 15-09-2026 a
    [dos de tres, i les parts no ho saben](./dos-de-tres-i-les-parts-no-ho-saben.md)

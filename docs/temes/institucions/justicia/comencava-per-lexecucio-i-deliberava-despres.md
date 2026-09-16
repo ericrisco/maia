@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-16T14:00:00Z
+timestamp: 2026-09-16T15:00:00Z
 tags: [justicia, procediment, execucio, embargament, nunci, consols, estrangers, segle-xvi, segle-xvii, segle-xix, font-primaria, prioritari]
 ---
 
@@ -246,9 +246,17 @@ embargats) del capítol VIII de *La Coutume d'Andorre*, de **J.-A. Brutails**
    **és una sèrie processal continuada i el corpus només en té tres exemples.**
 4. **Quan va desaparèixer l'embargament per creu**, **i si en queda cap rastre
    material o toponímic.**
-5. **Fins on arribava la prohibició d'embargar entre andorrans establerts**: **què
-   vol dir «establert»**, i **què es podia embargar aleshores** —**el 1840 s'embarga
-   un salari, que no és moble ni bestiar ni muntura.**
+5. **Què vol dir «establert», `resolt` el 16-09-2026** sobre la peça
+   justificativa p. LIX (PDF 79). **El text andorrà ho diu amb altres
+   paraules i amb una excepció que el resum francès no recull**: «**La ampara es
+   prohibida en las presents Valls y fora de elles de habitant a habitant, si no
+   que sie fadri y no tinga casa.**»
+   **Per tant «establert» vol dir tenir casa**, no tenir veïnatge ni
+   nacionalitat: **la protecció l'empara qui té casa, i el fadrí que no en té
+   queda fora.** **El que protegeix no és ser andorrà: és ser cap de casa.**
+   **Segueix obert què es podia embargar aleshores**: **el 1840 s'embarga un
+   salari**, que no és moble ni bestiar ni muntura, i **la peça no preveu aquest
+   cas.**
 6. **Els documents de 1551, 1604, 1635, 1821, 1828, 1840 i 1891** sencers.
 7. **L'ordenança catalana de 1421** contra els abusos d'embargament.
 8. **Si les vint-i-quatre hores per *refermar* l'embargament del cònsol consten

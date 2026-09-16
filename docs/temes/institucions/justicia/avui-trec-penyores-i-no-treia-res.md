@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-22T11:00:00Z
+timestamp: 2026-09-16T15:00:00Z
 tags: [justicia, procediment, execucio, embargament, nunci, moneda, ritual, segle-xv, segle-xix, font-primaria, prioritari]
 ---
 
@@ -224,9 +224,28 @@ feia alguna cosa:**
 
 ## Buits registrats
 
-1. **Les Pièces justificatives, pp. LV, LVII-LVIII i LIX**, amb **l'extracte del
-   manuscrit de Palmitjavila** sobre els tres actes de l'execució. **Prioritat
-   màxima** —**catorzena tanda**— i **ara amb pàgines exactes.**
+1. ~~**Les Pièces justificatives, pp. LV, LVII-LVIII i LIX**, amb **l'extracte
+   del manuscrit de Palmitjavila** sobre els tres actes de l'execució.~~ —
+   **`resolt` el 16-09-2026** (PDF 75, 77-79). **És la peça XXVII, *Extrait d'un
+   manuscrit sur la procédure en Andorre*, i no dona tres actes: dona tres
+   MANERES de judici.**
+   **Primera, el *judici verbal***: compareixen les dues parts, el batlle escolta
+   i sentencia; si condemna, mana pagar **sota pena de cinc sous**; si absol,
+   **«pose silenci a la part que demane»**. **Segona, la *via de penyorar***:
+   el creditor presenta el seu acte, el batlle va a casa del deutor i **si no hi
+   ha ningú fa la penyora a la porta, havent picat primer, davant d'un
+   testimoni**. **Tercera, la *ampara de creu en les pocessions***: es clava una
+   creu **al fruit** de la possessió hipotecada, i **només al fruit ja segat o
+   dallat, mai dret.**
+   **I el que la peça aporta i el corpus no tenia és el calendari de la
+   liquidació**: **nou dies** per pagar després de la penyora, **tres dies** per
+   recobrar les penyores abans de l'encant, **deu dies entre cada un dels tres
+   encants** si el bé és immoble, i, **un cop desallotjat el propietari, un any
+   i un dia per recobrar la cosa pagant deute i despeses** — **passat aquest
+   termini l'adquirent és amo «sens poder esser molestat, encara que li paguen la
+   quantitat y gastos».**
+   **Segueix obert** el text de les pàgines **LVI i LX** aplicat a aquesta fitxa,
+   i **els documents dels casos concrets**, que la peça no dona.
 2. **El cas del canal embargat**: **data, parròquia, sindicat de reg i
    desenllaç.** **La font el situa «fa una vintena d'anys» i no el
    documenta.** **Prioritari**: **és el cas extrem de l'embargament com a
