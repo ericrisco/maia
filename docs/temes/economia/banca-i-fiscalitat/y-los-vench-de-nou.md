@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-24T11:00:00Z
+timestamp: 2026-09-16T18:00:00Z
 tags: [economia, carta-de-gracia, retracte, credit, propietat, notariat, antic-regim, segle-xviii, font-primaria, prioritari]
 ---
 
@@ -176,8 +176,20 @@ tags: [economia, carta-de-gracia, retracte, credit, propietat, notariat, antic-r
 2. **L'escriptura de venda del 8 de desembre de 1776** en poder de Tomàs
    Palmitjavila, notari públic d'Encamp. **Prioritari**: **és la que conté els
    pactes que l'addició «vol tenir per expressats i repetits».**
-3. **De què surten els «*vint y cinch lliuras **y sis diners**»*.** **La xifra té
-   forma de liquidació d'un compte i el corpus no en sap l'origen.**
+3. **De què surten els «*vint y cinch lliuras **y sis diners**»*.** — **`obert`,
+   confirmat el 16-09-2026 llegint la peça sencera** (peça XXIV, *Reçu d'addicio
+   de preu*, pàgines XLIV-XLV, PDF 66-67). **La font no en dona l'origen.**
+   **El que la peça sí que diu, i el corpus ho reté perquè tanca la forma de
+   l'operació**: la quantitat **«a est efecte me ha donat y confesso haber
+   cobrat de ell en diner comptant»**, i **el venedor promet que, si algun dia
+   vol recobrar els dos trossos de prat, a més del preu de la venda i de «las
+   altras quantitats que sobre ells legitimament acreditia», li restituirà
+   també aquestes vint-i-cinc lliures i sis diners.**
+   **Per tant no és una liquidació de comptes anteriors: és preu nou**, que
+   **s'acumula al rescat.** **Però per què just aquesta xifra —i amb sis diners
+   de cua— la peça no ho explica**, i **cap altra peça del volum no hi torna.**
+   `Requereix l'escriptura de venda del 8 de desembre de 1776`, que és la que
+   aquesta addició «vol tenir per expressada».
 4. **Si es van fer més addicions de preu sobre els mateixos prats**, **i si el
    rescat es va arribar a exercir.** **L'escriptura preveu expressament «*las
    altras quantitats que sobre ells legitimament acreditia*».**

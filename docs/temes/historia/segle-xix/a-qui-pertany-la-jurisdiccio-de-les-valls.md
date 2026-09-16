@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: la-cuestion-de-andorra-1894
-timestamp: 2026-09-15T17:00:00Z
+timestamp: 2026-09-16T18:00:00Z
 tags: [segle-xix, coprincipat, sobirania, consell-general, edat-mitjana, antic-regim, inquisicio, ramaderia, font-primaria, prioritari]
 ---
 
@@ -256,8 +256,21 @@ matèries i el lloc de signatura.**
 
 ## Buits registrats
 
-1. **El nom del lloc «Auvret»**, on es va signar la llei de 1433. **No s'ha
-   identificat** i **pot ser una lectura d'OCR o una grafia del 1894.**
+1. **El nom del lloc «Auvret»**, on es va signar la llei de 1433. — **mitja
+   pregunta `resolta` el 16-09-2026**: **no és una lectura d'OCR.** **La pàgina
+   impresa** (p. 23 del volum, PDF 29 de
+   `docs/raw/llibres/la-cuestion-de-andorra-1894.pdf`, llegida com a imatge)
+   **diu «Auvret (Francia)» amb totes les lletres**, i **la data completa: «á 6
+   de Agosto de 1433 ante testigos calificados, y por el Obispo en Septiembre
+   del mismo año ante testigos de Dignidad».**
+   **O sigui que la grafia és de l'autor del 1894**, no del digitalitzador, i
+   **el que queda obert és identificar el lloc**, que **ja no és una qüestió de
+   lectura sinó de geografia històrica**: `requereix toponímia de l'antic comtat
+   de Foix`.
+   **I el corpus reté el que la mateixa frase aporta**: **la llei es va signar en
+   dos temps i en dos llocs** —el comte a Auvret l'agost, **el bisbe el setembre
+   i davant de testimonis d'una altra categoria, «de Dignidad»**—, cosa que
+   **encaixa amb el que aquesta fitxa diu de com es feien els privilegis.**
 2. **El text de la llei de 1433**, els seus **catorze articles**. **La font en
    dona el preàmbul, tres matèries i la clàusula final.** **Prioritari**, i
    **enllaça amb una divergència que el corpus ja té oberta.**

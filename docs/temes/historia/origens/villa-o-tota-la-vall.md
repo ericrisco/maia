@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: vilar-andorre-1904
-timestamp: 2026-09-16T10:00:00Z
+timestamp: 2026-09-16T17:45:00Z
 tags: [historia, origens, edat-mitjana, historiografia, coprincipat, bisbe-durgell, llengua, toponimia, font-primaria, prioritari]
 ---
 
@@ -232,21 +232,33 @@ matrimoni, la carta, o la successió efectiva.`
 > un arbitratge, després dels bons oficis del rei d'Aragó i el bisbe de
 > València.** **Es van triar «*amicabiles compositores*».**
 
-| Els sis |
-|---|
-| **Xalbert, bisbe de València** |
-| **Bonat de Lavagne, canonge** |
-| **Ramon de Besalú, ardiaca** |
-| **Ramon d'Urgell**, senyor |
-| **Isarn de Faujaus**, senyor |
-| **Guillem de Josa**, senyor |
+| Els sis, **com els imprimeix la font** | Condició |
+|---|---|
+| **Xalbert**, bisbe de València | eclesiàstic |
+| **Bonat de Lavagne**, canonge | eclesiàstic |
+| **Raymond de Besalu**, ardiaca | eclesiàstic |
+| **Raymond d'Urgel** | senyor |
+| **Isarme Faujaus** | senyor |
+| **Guillaume de Josa** | senyor |
 
-**I **van seure a la Seu d'Urgell**.**
+**I **van seure a Urgell**, i van dictar «*le 6 des ides de septembre de l'an du
+seigneur 1278*».**
 
+> **Comprovats contra la pàgina impresa el 16-09-2026** (p. 23, PDF 29, llegida
+> com a imatge). **Els sis noms coincideixen amb l'extracció. Cap error d'OCR.**
+> **Regenerable amb** `pdftoppm -f 29 -l 29 -r 300 -png
+> docs/raw/llibres/vilar-andorre-1904.pdf`.
+>
+> **I una correcció del corpus sobre si mateix.** **Aquesta taula donava «Isarn
+> de Faujaus», «Ramon de Besalú» i «Ramon d'Urgell».** **La font no diu això**:
+> diu **Isarme Faujaus**, **Raymond de Besalu** i **Raymond d'Urgel**. **El
+> corpus havia catalanitzat els noms sense dir-ho**, i **en un cas
+> —*Isarme* → *Isarn de*— no és una grafia, és un nom diferent.** **Ara la taula
+> dona la forma impresa**, que és l'única que el corpus pot acreditar.
+>
 > **Tres eclesiàstics i tres laics, i la seu de l'arbitratge era la ciutat del
 > bisbe.** **El corpus ho registra sense treure'n cap conclusió sobre el
-> resultat**, i **fa constar que els noms vénen per OCR d'un exemplar amb errors
-> i que caldria comprovar-los contra el text del Pariatge.**
+> resultat.**
 
 ## Dues coses del retrat de país
 
@@ -324,7 +336,14 @@ faisait l'Andorran*».**
    reconeixement de 1150.** **Nous.**
 9. **La llista dels altres béns cedits pel mateix acte del 843** al Rosselló, el
    Conflent i la Cerdanya. **Comprovaria l'argument estructural de la font.**
-10. **Els noms dels sis àrbitres del Pariatge**, **comprovats contra el text.**
+10. ~~**Els noms dels sis àrbitres del Pariatge**, **comprovats contra el
+    text.**~~ — **`resolt` el 16-09-2026 contra la pàgina impresa de Vilar**
+    (p. 23): **cap error d'OCR**, i **una catalanització que feia el corpus
+    mateix, retirada.** **Segueix obert comprovar-los contra el text del
+    Pariatge**, que és una altra cosa: **Vilar en dona la seva lectura, no
+    l'original**, i **el corpus no té el text del Pariatge** —la font el situa a
+    la biblioteca del comitè de legislació estrangera del ministeri de Justícia
+    francès. `Requereix el text del Pariatge.`
     **Vénen per OCR.**
 11. **Si l'entrada dels drets a la casa de Foix es data el 1202, el 1206 o el
     1208.** **Divergència oberta.**
