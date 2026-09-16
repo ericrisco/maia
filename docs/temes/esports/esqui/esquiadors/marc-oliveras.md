@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: wikipedia-esquiadors-andorrans
-timestamp: 2026-09-13T09:44:00Z
+timestamp: 2026-09-17T20:15:00Z
 tags: [esports, esqui, jocs-olimpics, mundials, universiada]
 ---
 
@@ -90,8 +90,21 @@ el corpus documenta**, i millora els de [Roger Vidosa](./roger-vidosa.md).
   documenta d'un esquiador andorrà en una sola edició.**
 - **Copa del Món i Copa d'Europa.** — **`obert`, confirmat**: **cap de les dues
   no és al bolcat.**
-- **Quan va plegar**, si ha plegat. — **`obert`, confirmat**: **l'últim resultat
-  del bolcat és del 2015.**
+- **Quan va plegar**, si ha plegat. — **`parcial` el 17-09-2026.** **El «si»
+  queda respost: sí.** La fitxa de la [FIS](../../../../fonts/fis-ski-db.md) el
+  dona com a **«not active»**, i **això es va repetir igual en dues lectures**.
+  **L'any de naixement hi quadra amb el del corpus: 1991.**
+
+  **El «quan» no es tanca, i el motiu val la pena escriure'l.** **Les dues
+  lectures de la mateixa fitxa van donar dos «darrers resultats» diferents**:
+  una, **un 20è en supergegant a El Colorado (Xile) el 12-09-2018**; l'altra,
+  **un DNF en eslàlom a Soldeu el 10-04-2019**. **No són el mateix i el corpus
+  no en tria cap.** **El que sí que estableixen totes dues és que va seguir
+  competint fins al 2018 com a mínim**, i **per tant que el bolcat, que
+  s'aturava el 2015, es quedava tres anys curt.**
+
+  `Requereix la llista de resultats sencera de la fitxa, llegida com a pàgina i
+  no com a resum.`
 - **On va estudiar** — **`obert`, confirmat**: **el bolcat confirma la
   Universíada del 2015 i no diu de quina universitat.**
 - ~~**On va néixer**~~ — **`resolt`, i és un fet per a la branca**: **BARCELONA,
