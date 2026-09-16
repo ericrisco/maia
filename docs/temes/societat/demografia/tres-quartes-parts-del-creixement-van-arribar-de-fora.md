@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: margarit-monne-joves-i-llengues-2010
-timestamp: 2026-09-15T12:10:00Z
+timestamp: 2026-09-16T13:30:00Z
 tags: [demografia, immigracio, xifres, segle-xx, dades, prioritari]
 ---
 
@@ -169,9 +169,27 @@ què sosté cadascun:
   + 3.142 + 1.012 = **6.179**.
 
 **Del 1955 les dues fonts disten deu habitants** (6.189 i 6.179); **del 1960,
-quatre-cents.** **La comprovació que es pot fer aquí és sobre la transcripció del
-corpus, no sobre la pàgina de Camiade**, que ningú no ha tornat a mirar. **Fins
-que no es faci, la contradicció queda oberta i les tres xifres queden escrites.**
+quatre-cents.**
+
+> **Reverificat sobre la pàgina impresa el 16-09-2026** (p. 85 del volum de la
+> 2a Diada, PDF 88 de
+> `docs/raw/sac-diades/02a-1989-els-moviments-migratoris-a-andorra.pdf`, llegida
+> com a imatge). **Les trenta-cinc xifres de la taula coincideixen amb la
+> transcripció del corpus. Cap error d'extracció.**
+>
+> **Per tant l'error és de la font.** **La fila del 1960 de Camiade no suma a la
+> pàgina impresa**: sis columnes que fan **8.492** sota un total imprès de
+> **8.792**, **tres-cents habitants de diferència**. **Les altres quatre files
+> sumen totes**, cosa que descarta un criteri diferent de recompte i **apunta a
+> una errada d'una sola cel·la o del total.**
+>
+> **El corpus no la corregeix**: **no es pot saber quina de les set xifres és la
+> dolenta**, i **el text de Camiade fa servir el 8.792** —diu que la població
+> «pràcticament es dobla, passa de 4.039 a 8.792»—, de manera que **el total
+> imprès és el que ella sosté**, quadri o no amb les seves columnes.
+>
+> **Regenerable amb** `pdftoppm -f 88 -l 88 -r 300 -png
+> docs/raw/sac-diades/02a-1989-els-moviments-migratoris-a-andorra.pdf`.
 
 ## Buits registrats
 
@@ -188,9 +206,12 @@ que no es faci, la contradicció queda oberta i les tres xifres queden escrites.
 - **La sèrie és quinquennal fins al 1995 i després salta a 2000, 2004 i 2007.**
   **Els anys intermedis no hi són**, i el corpus **no pot situar en quin any
   concret es va girar el saldo migratori.**
-- **La taula de Camiade, reverificada sobre la pàgina impresa.** El corpus té una
-  fila que no suma i **no ha tornat a la font.** `Requereix rellegir
-  [la fitxa de Camiade](../../../fonts/camiade-migracions.md).`
+- ~~**La taula de Camiade, reverificada sobre la pàgina impresa.**~~ — **`resolt`
+  el 16-09-2026**: **la transcripció del corpus és exacta** i **la fila del 1960
+  no suma ja a l'imprès** (8.492 de columnes sota un total de 8.792). **L'error
+  és de la font** ([fitxa](../../../fonts/camiade-migracions.md)). **Segueix
+  obert quina cel·la falla**: la font no dona d'on treu la taula, i **sense el
+  cens original de 1960 per parròquies no es pot arbitrar.**
 - **El 2007 no és el final.** La sèrie s'atura tres anys abans de la publicació
   del llibre i **dinou abans d'avui**. Vegeu
   [demografia](./demografia.md) per a les xifres del 2026.
