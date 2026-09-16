@@ -7,7 +7,7 @@ veu: originaria
 epoca: contemporania
 apte_llengua: true
 font: consell-general-constituent
-timestamp: 2026-09-14T01:50:00Z
+timestamp: 2026-09-16T18:45:00Z
 tags: [parla, testimoni, historia-oral, constitucio-1993, encamp, marcadors-discursius, transcripcio-no-verificada]
 ---
 
@@ -65,7 +65,7 @@ de YouTube i **no autoritza redistribuir**. Es registra `redistribucio: pendent`
 [00:00:56.620 --> 00:01:03.620] El fet que Andorra es volgués donar una Constitució va ser per causes múltiples.
 [00:01:04.260 --> 00:01:15.580] Una és, per dir alguna cosa, homologar Andorra com a estat de dret davant la comunitat internacional, política internacional.
 [00:01:16.220 --> 00:01:21.860] Però un altre fet intern, que és el que jo potser em va motivar més,
-[00:01:21.860 --> 00:01:32.600] és acabar amb les pràctiques abusives que hi havia en aquell moment dels [?beguers] i delegats permanents dels coprínceps.
+[00:01:21.860 --> 00:01:32.600] és acabar amb les pràctiques abusives que hi havia en aquell moment dels beguers i delegats permanents dels coprínceps.
 [00:01:34.000 --> 00:01:40.260] No sé si això els meus companys n'han parlat, però la meva motivació, us ho dic clar,
 [00:01:40.760 --> 00:01:46.080] va ser acabar amb el virreinat i els abusos tan grans que hi havia.
 [00:01:46.610 --> 00:01:50.930] O sigui, els beguers i els delegats permanents, suposo que quan Andorra era pobra,
@@ -1482,11 +1482,35 @@ batejar una llei.
 
 1. **Les 376 marques no s'han verificat.** És la peça amb més marques en termes
    absoluts del corpus.
-2. **`[?beguers]`**: sense resoldre, i és el dubte més interessant de la tanda.
+2. ~~**`[?beguers]`**: sense resoldre.~~ — **`resolt` el 16-09-2026 pel context
+   institucional, no per la fonètica.** **El mot és *veguers***: el parlant els
+   nomena sis vegades sempre al costat dels **«delegats permanents dels
+   coprínceps»**, diu que l'objectiu era **«acabar amb el virreinat»** i que
+   **«els beguers s'han eliminat»** — **són els veguers, els representants
+   permanents dels coprínceps** que la Constitució de 1993 va suprimir. Vegeu
+   [el coprincipat](../../temes/institucions/coprincipat/el-coprincipat.md).
+   **La transcripció NO es corregeix.** **La branca és `veu: originaria` i la
+   regla és la fidelitat**: **el parlant diu [b] i el text ha de conservar el que
+   es va dir.** **El que s'ha resolt és la identificació, no la grafia**, i **la
+   marca `[?…]` es retira** perquè ja no hi ha dubte de què és.
+   **I obre un buit que val la pena**: **la realització [b] de la *v* de
+   *veguer*** — sistemàtica en aquest parlant i sense cap `[?…]` a les altres
+   cinc ocurrències — **no està descrita enlloc del corpus.** `Requereix la
+   branca de fonètica`, vegeu
+   [dialectologia](../../temes/llengua/fonetica/README.md).
 3. **`[?Derrescaldes]`** (×3) no s'ha identificat: sembla un nom de grup polític
    i podria ser mal sentit.
 4. **`[?aminitat]`** és *unanimitat*; **`[?copríncipes]`** és forma castellanitzada
    i **no se sap si és seva o de la màquina**.
 5. **De la persona no consta** ni generació, ni llengua primera, ni ofici.
-6. **`sigut` segueix sense contrastar amb català no andorrà.** Quatre parlants
-   d'aquí no diuen res sobre si és d'aquí.
+6. ~~**`sigut` segueix sense contrastar amb català no andorrà.**~~ — **`resolt`
+   el 16-09-2026: no és un tret andorrà.** **Al
+   [DIEC2](../../fonts/diec2.md) la consulta de `sigut` resol a l'entrada
+   `ésser`**, o sigui que **el diccionari normatiu el tracta com a forma d'aquell
+   verb i no com a mot a part**; i **al [DCVB](../../fonts/dcvb.md) no hi ha cap
+   entrada `sigut`**, que és el que s'espera d'una forma verbal i no d'un mot
+   dialectal.
+   **Conclusió per al corpus**: **`sigut` és participi col·loquial de la llengua
+   general**, **no material de variant andorrana**, i **no ha d'entrar a
+   l'inventari de lèxic marcat.** **Que quatre parlants d'aquí el diguin no el
+   fa d'aquí** — **era exactament el risc que aquest buit assenyalava.**
