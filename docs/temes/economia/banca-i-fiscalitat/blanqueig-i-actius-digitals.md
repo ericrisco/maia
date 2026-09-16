@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: jurisprudencia-ad
-timestamp: 2026-09-14T14:00:00Z
+timestamp: 2026-09-17T09:00:00Z
 tags: [economia, banca, dret, tecnologia, relacions-exteriors, societat]
 ---
 
@@ -92,7 +92,29 @@ supervisor queda dins de la llei, no fora.**
   blanqueig) **no s'han llegit**.
 - **La UIFAND** —Unitat d'Intel·ligència Financera— apareix citada per altres
   lleis del recull però **no té fitxa al corpus** ni llei pròpia entre les 104.
-- **Les zones franques** andorranes, que la llei de blanqueig dona per
-  existents, **no surten enlloc més del corpus**.
+- ~~**Les zones franques** andorranes, que la llei de blanqueig dona per
+  existents, **no surten enlloc més del corpus**.~~ — **`resolt` el 17-09-2026:
+  el Codi de Duana les regula, i amb secció pròpia** (secció tercera del règim
+  de zona franca, articles 243-246; `docs/raw/lleis/codi-duana.txt`).
+  **Qui les crea**: **el Govern**, que **designa determinades parts del territori
+  duaner** com a zona franca i **en fixa el perímetre i els punts d'accés i de
+  sortida**.
+  **Com són**: **han d'estar voltades**, i **perímetre i accessos queden sotmesos
+  a vigilància duanera**; **persones, mercaderies i mitjans de transport que hi
+  entren o en surten poden ser controlats.**
+  **Què s'hi pot fer**: **qualsevol activitat industrial, comercial o de serveis**
+  —amb notificació prèvia a la Duana i **autorització prèvia per construir-hi**—,
+  i **la Duana pot prohibir-hi activitats o excloure'n persones que «no ofereixin
+  la seguretat necessària».**
+  **El detall que lliga amb aquesta fitxa**: **el Codi distingeix les mercaderies
+  *incloses en el règim de zona franca* de les *posades en lliure disposició*
+  que hi entren**, i **aquestes segones s'hi poden emmagatzemar, traslladar,
+  transformar o consumir sense entrar al règim.** **És exactament aquesta
+  porositat la que explica per què la llei de blanqueig hi posa obligacions
+  pròpies** —als qui hi comercien amb obres d'art, i als gestors i operadors de
+  la zona.
+  **El que segueix obert és si n'hi ha cap de designada**: **el Codi en dona el
+  règim i cap zona concreta**, i **el corpus no té cap decret de designació.**
+  `Requereix els decrets del Govern.`
 - **Les 10 versions** de la llei de blanqueig **no s'han comparat**: serien la
   cronologia de com Andorra s'ha anat adaptant a les exigències internacionals.
