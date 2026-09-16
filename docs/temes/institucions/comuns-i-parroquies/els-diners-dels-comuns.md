@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: jurisprudencia-ad
-timestamp: 2026-09-13T17:20:00Z
+timestamp: 2026-09-17T09:15:00Z
 tags: [institucions, comuns-i-parroquies, economia, fiscalitat, dret, turisme]
 ---
 
@@ -107,8 +107,17 @@ el 38% és difícil de moure.
 
 ## Buits registrats
 
-- **Quant es transfereix avui**, no consta: la llei dona la xifra del **2018** i
-  una regla d'indexació. El corpus no té la sèrie del PIB per calcular-ho.
+- **Quant es transfereix avui**, no consta: la llei dona la xifra del **2018**
+  —**55.000.000 d'euros**— i una regla d'indexació. **Comprovat el 17-09-2026 a
+  la font** (`docs/raw/lleis/transferencies-comuns.txt`, articles 4 i 5): **la
+  revisió no és per IPC sinó «a raó de la taxa de variació de l'avanç del
+  producte interior brut anual»**, aplicada sobre l'import de l'any anterior.
+  **Això vol dir que el finançament comunal segueix el PIB i no els preus**, i
+  **que pot DISMINUIR**: la llei ho diu expressament, «s'incrementa anualment,
+  o disminueix, si escau». **El corpus reté aquesta asimetria** —**és una
+  indexació que no té terra**— i **el buit es manté obert per a la xifra
+  d'avui**: `requereix la sèrie d'avanç del PIB del Departament
+  d'Estadística`.
 - **Què cobra cada comú** tampoc: la fórmula hi és, les dades d'entrada
   —població, superfície, pernoctacions— no.
 - **La partida de solidaritat** (6,75%, article 17) és l'única sense criteri

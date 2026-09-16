@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: jurisprudencia-ad
-timestamp: 2026-09-14T18:55:00Z
+timestamp: 2026-09-17T09:15:00Z
 tags: [cultura, patrimoni, dret, institucions, parroquies, propietat]
 ---
 
@@ -60,7 +60,26 @@ expliquen els articles d'arquitectura i patrimoni construït del corpus.
 - **Quants béns d'interès cultural hi ha declarats** i quants inventariats, no
   consta.
 - **Si mai s'ha exercit el tempteig o el retracte**, tampoc.
-- **El patrimoni immaterial**: la llei el nomena i li dona secció a l'Inventari,
-  però **el corpus no n'ha llegit el règim**.
+- ~~**El patrimoni immaterial**: la llei el nomena i li dona secció a
+  l'Inventari, però **el corpus no n'ha llegit el règim**.~~ — **`resolt` el
+  17-09-2026** (`docs/raw/lleis/patrimoni-cultural.txt`). **El règim és curt i
+  asimètric, i val la pena dir per què.**
+  **Ubicació**: **l'Inventari general té quatre seccions** —béns d'interès
+  cultural, immobles inventariats, mobles inventariats i, **la quarta, els béns
+  immaterials.**
+  **Qui hi entra**: **els béns immaterials hi són inclosos «per l'òrgan del
+  ministeri titular de la cultura competent en matèria de patrimoni
+  etnològic»** —**no per resolució del ministre**, que és la via dels immobles,
+  ni per pertànyer a una categoria taxada, que és la via dels mobles. **Tres
+  portes diferents per a tres classes de bé.**
+  **Què obliga el ministeri a fer-ne**: **documentar-los mitjançant la inclusió
+  a l'Inventari**, **fomentar-ne la conservació i l'estudi** i **donar suport a
+  les entitats que els mantenen i els difonen.**
+  **I aquí hi ha la diferència que aquesta fitxa ha de retenir**: **el dret de
+  tempteig no els pot afectar.** **Un bé immaterial no es ven ni es transmet**,
+  de manera que **la protecció no és una preferència de compra sinó una
+  obligació de suport a qui el practica.** **La llei protegeix els mobles
+  comprant-los i els immaterials finançant les entitats que els mantenen
+  vius.**
 - **El patrimoni arqueològic i les troballes casuals** —qui és propietari del que
   apareix cavant— **no s'ha comprovat** en aquesta lectura.
