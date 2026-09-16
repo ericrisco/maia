@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-20T18:00:00Z
+timestamp: 2026-09-16T14:00:00Z
 tags: [justicia, corts, apellacio, terminis, batlles, jutge-dapellacions, coprincipat, continuitat, segle-xvi, segle-xvii, segle-xix, font-primaria, prioritari]
 ---
 
@@ -262,8 +262,13 @@ el corpus no ho ha comprovat lexicogràficament.»**
 6. **Els documents de 1492, 1533, 1580, 1599, 1601, 1606 i 1623** sencers.
 7. **Si hi ha cap cas de revisió d'una sentència de les Corts.** **La font no
    n'ha trobat cap i pregunta si n'hi hauria d'haver.**
-8. **Què és exactament una *comanda* al procediment català** i **per què era
-   litigi privilegiat.** **El corpus no la té al glossari amb aquest sentit.**
+8. **Què és exactament una *comanda* al procediment català** segueix obert.
+   **El sentit general, documentat el 16-09-2026** ([DCVB](../../../fonts/dcvb.md)):
+   **`comanda` és l'acte i efecte de comanar** —encàrrec—, i **en una de les
+   seves accepcions, la custòdia d'una persona o cosa encomanada**. **El
+   diccionari no en dona el sentit processal**, i **per què era litigi
+   privilegiat no ho respon cap dels dos diccionaris**: **`requereix doctrina
+   processal catalana`**, no lexicografia.
 9. **Si el document de 1623 val com a prova que la doctrina de la suspensió dels
    tribunals inferiors és més antiga del que la font diu.** **El corpus registra
    la tensió i no la resol.**

@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-16T11:00:00Z
+timestamp: 2026-09-16T14:00:00Z
 tags: [justicia, procediment, execucio, embargament, nunci, consols, estrangers, segle-xvi, segle-xvii, segle-xix, font-primaria, prioritari]
 ---
 
@@ -253,8 +253,13 @@ embargats) del capítol VIII de *La Coutume d'Andorre*, de **J.-A. Brutails**
 7. **L'ordenança catalana de 1421** contra els abusos d'embargament.
 8. **Si les vint-i-quatre hores per *refermar* l'embargament del cònsol consten
    en cap norma.** **La font diu «m'han dit».**
-9. **Què és una ***rossina*** i què és un ***cavalló***. **El corpus no els té al
-   glossari.**
+9. ~~**Què és una ***rossina*** i què és un ***cavalló***.~~ — **`resolt` el
+   16-09-2026** ([DCVB](../../../fonts/dcvb.md)). **`cavalló`**: **munt d'un cert nombre de
+   garbes —generalment deu— que es fa a mesura que es va segant i es deixa enmig
+   del camp** per carregar-lo després. **És exactament el que la font embarga**:
+   el *nunci* hi posava una creu. **`rossina`**: **bèstia morta; esquelet de
+   bèstia**, documentat a la Plana de Vic. **Cap dels dos no és mot andorrà
+   exclusiu**, i **el DCVB no els localitza a Andorra.**
 10. **Si l'*embarch preventiu* durava fins al final del procés al criminal.**
     **La font ho creu i no ho documenta.**
 

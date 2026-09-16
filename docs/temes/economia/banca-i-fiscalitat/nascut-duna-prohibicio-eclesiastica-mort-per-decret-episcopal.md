@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-19T01:30:00Z
+timestamp: 2026-09-16T14:00:00Z
 tags: [banca-i-fiscalitat, censal, violari, interes, credit, esglesia, coprincipat, notariat, segle-xv, segle-xviii, segle-xix, font-primaria, prioritari]
 ---
 
@@ -260,8 +260,14 @@ Caldes**.
    l'abast.**
 5. **Com va acabar la petició de rescat en dues *lluïcions* del 23 de gener de
    1783.**
-6. **Els actes de creació de censal sense hipoteca de 1412, 1420, 1461 i 1754**,
-   i **què era exactament l'*ostatge*** que garantia el de 1412.
+6. **Els actes de creació de censal sense hipoteca de 1412, 1420, 1461 i 1754**
+   segueixen oberts. ~~I **què era exactament l'*ostatge***~~ — **`resolt` el
+   16-09-2026** ([DCVB](../../../fonts/dcvb.md)): **`ostatge`** —també escrit *hostatge*—
+   és **la persona lliurada a l'altra part com a penyora del compliment d'un
+   pacte**, el que en castellà és un *rehén*. **Documentat a Jaume I, Desclot i
+   actes de 1390 i 1404.** **Vol dir que el censal de 1412 no el garantia una
+   cosa: el garantia algú.** **El que segueix obert és qui**, i **si a Andorra
+   l'ostatge era real o ja una fórmula del notari.**
 7. ~~**Quan va desaparèixer el violari.**~~ — **Matisat el 24-09-2026 pel mateix
    volum.** **La peça justificativa XX**, que l'editor titula «*Constitution d'un
    **violari***» i data **1870-1880**, **és una renda constituïda «*per via de

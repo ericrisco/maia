@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-17T23:00:00Z
+timestamp: 2026-09-16T14:00:00Z
 tags: [familia, infants, tutela, dret, justicia, batlles, antic-regim, segle-xviii, segle-xix, font-primaria, prioritari]
 ---
 
@@ -240,8 +240,14 @@ gràcia](../../economia/banca-i-fiscalitat/la-carta-de-gracia.md).
 6. **Si els menors de vint-i-cinc anys podien plaidejar**, i des de quan.
    **Usatges i pràctica andorrana no coincideixen** i **la font no en cita cap
    sentència.**
-7. **Què era el *peculi* d'un menor a Andorra**, i **si el salari d'un fill era
-   seu o del pare**.
+7. **Què era el *peculi* d'un menor a Andorra** segueix obert; **el sentit
+   general, `resolt` el 16-09-2026** ([DCVB](../../../fonts/dcvb.md)): **`peculi`** són
+   **els béns monetaris que algú té particularment**, i **el diccionari el
+   documenta amb les Costums de Tortosa parlant del *peculi adventici* del «fill
+   famílies»** —**els béns que li són deixats o donats**—, que és justament la
+   figura d'aquesta fitxa. **El que el corpus no pot dir és si Andorra seguia
+   aquesta distinció**, ni **si el salari d'un fill era seu o del pare**: cap
+   font del corpus no ho toca.
 8. **Si l'emancipació va arribar a regular-se mai**, o va continuar sent
    excepcional.
 9. **Quantes tuteles hi va haver i com es controlaven**: la font dona **fiança i

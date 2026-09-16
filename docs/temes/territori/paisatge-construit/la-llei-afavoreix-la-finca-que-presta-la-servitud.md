@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-18T22:30:00Z
+timestamp: 2026-09-16T14:00:00Z
 tags: [servituds, propietat, camins, murs, antoixa, mesures, visura, canillo, lexic, segle-xviii, segle-xix, font-primaria, prioritari]
 ---
 
@@ -222,8 +222,15 @@ sigui *antoixà* seu.** **Es discuteix el fet, no el dret.**
    servent, **sencera**, i **si el principi consta en alguna norma escrita.**
 3. **Les sentències de visura de 1875 i de 1886**: **sense identificació de parts**,
    i **la del mur de la presó sense data de dia.**
-4. **Què són les *merseries***, el conreu sobre el qual el decret de 1885 regula el
-   pas. **La font no ho diu i el corpus no ho té.**
+4. **Què són les *merseries*** — **`parcial` el 16-09-2026.** **El
+   [DCVB](../../../fonts/dcvb.md) té una accepció que hi encaixa i que el corpus registra
+   com a hipòtesi, no com a fet**: `merceria` **2**, «**terra que es deixa per a
+   sembrar-hi llegums i patates**», **localitzada a Esterri** —Pallars Sobirà,
+   **la vall del costat**. **Que sigui el mateix mot és una lectura del corpus**:
+   **el diccionari no el documenta a Andorra** i **la grafia del decret és
+   *merseries*, no *merceries*.** **L'altra accepció** —comerç de mercer— **no
+   té sentit en un decret de pas de conreu.** **Es tanca de debò amb un segon
+   testimoni andorrà del mot**, que el corpus no té.
 5. **Els decrets del 24-11-1885, 23-11-1877, 27-05-1879, 15-04-1886 i 05-04-1887**,
    sencers.
 6. **El Politar, p. 209, 263 i 266**, que **el corpus no té** i que **són les tres

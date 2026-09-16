@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-20T22:30:00Z
+timestamp: 2026-09-16T14:00:00Z
 tags: [justicia, procediment, batlles, nunci, terminis, casa-de-la-vall, terceria, rebeldia, segle-xvi, segle-xviii, segle-xix, font-primaria, prioritari]
 ---
 
@@ -271,8 +271,14 @@ competencia de jurisdicción, porque **par in pari non habet imperium***»**.
 7. **La deliberació del Consell General del 16 de desembre de 1768** sencera.
 8. **Els documents del segle XV, de 1603, de 1552** *(enviament en possessió,
    Pièces justificatives p. VII)* **i de 1793.**
-9. **Què és una *tapa*** al document del segle XV, i **què és un *garberó*** i un
-   ***testó***. **El corpus no els té al glossari.**
+9. **Què és una *tapa*** al document del segle XV. — **segueix obert**: el
+   [DCVB](../../../fonts/dcvb.md) en dona una desena d'accepcions i **cap no s'imposa per al
+   context**; **no es tria per versemblança.** ~~**Què és un *garberó*** i un
+   ***testó***.~~ — **`resolt` el 16-09-2026.** **`garberó`**: **diminutiu de
+   *garbera***, el munt de garbes. **`testó`**: **moneda dels segles XVI i
+   XVII**, d'origen italià, francès i anglès; **a Catalunya era sobretot el nom
+   d'una moneda de ral de vuit que corria al segle XVII**, i el DCVB en documenta
+   l'ús el 1609 parlant de «reals testons» trasquilats i falsos.
 10. **Quan va deixar la rebel·lia de comportar la pèrdua del dret d'apel·lació.**
     **La font diu «encara no fa gaire» i no ho data.**
 11. **Per què les audiències dels batlles no són públiques**, **i si ho van ser

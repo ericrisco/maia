@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: rios-urruti-andorra-1920
-timestamp: 2026-09-16T00:30:00Z
+timestamp: 2026-09-16T14:00:00Z
 tags: [edat-mitjana, bisbe-durgell, feudalisme, dret, fiscalitat, ramaderia, esglesia, parroquies, lexic, comunals, font-primaria, prioritari]
 ---
 
@@ -426,9 +426,14 @@ admeten i no ho neguen; es comprometen a acatar la sentència.**
    barrejar-lo. **Dues deduccions amb nom i sense explicació.**
 5. **Què són les *potacions* i les *beratiques*** que els andorrans cobraven per
    lliurar el delme, **i si el mot sobreviu en alguna forma.**
-6. **Què són la *leuda*, la *vista* i la *parada*** com a bases de tribut.
-   **El corpus té *lleuda* com a dret de mercat**; **de *vista* i *parada* no en
-   té res en aquest sentit.**
+6. **La *leuda*, `resolta` el 16-09-2026**; **la *vista* i la *parada*
+   segueixen obertes.** **El [DCVB](../../../fonts/dcvb.md) dona `lleuda`** —grafia antiga
+   `leuda`— com a «**tribut que es pagava per l'entrada de mercaderies dins una
+   vila o altre lloc**», el *lezda* castellà, **documentat des del 1197** i en
+   franquícies de 1309 i de Pere IV. **Precisa el que el corpus tenia**: no és
+   genèricament un «dret de mercat», **és un dret d'ENTRADA de mercaderia**.
+   **De *vista* i de *parada* amb sentit tributari, cap dels dos diccionaris no
+   en dona res**: **`requereix documentació fiscal medieval`.**
 7. **«*Trevam vero Domini que inter nos facta fuerit redirigamus semper ad
    stagnum, sicut antecessorum nostrorum et vestrorum consuetudinis fuit.*»**
    **La Treva de Déu apareix amb una fórmula que el corpus no sap llegir**:

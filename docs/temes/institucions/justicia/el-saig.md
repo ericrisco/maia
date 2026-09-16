@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-13T01:20:00Z
+timestamp: 2026-09-16T14:00:00Z
 tags: [justicia, lexic, batlle, historia-del-dret, dret-vigent, continuitat]
 ---
 
@@ -209,8 +209,16 @@ Vegeu
      **i fa constar que la recurrència ja és prou densa per merèixer
      comprovació**: **cinc aparicions, tres segles, un sol ofici.**
 4. **La Cambra de Saigs**: quants n'hi ha i des de quan.
-5. **Què vol dir *saig* en català general**, segons el diccionari normatiu. Sense
-   això, la columna del fals amic està incompleta.
+5. ~~**Què vol dir *saig* en català general**, segons el diccionari normatiu.~~
+   — **`resolt` el 16-09-2026** ([DIEC2](../../../fonts/diec2.md)). **El diccionari
+   normatiu en dona dues coses i totes dues importen aquí.** **Accepció 1**,
+   amb marques `[AD]` `[HIH]` `[LC]`: «**oficial de justícia que tenia al seu
+   càrrec de fer les citacions, d'executar els embargaments o bé d'executar les
+   penes a què eren condemnats els reus**» — **la mateixa figura que descriu
+   aquesta fitxa.** **I la columna del fals amic ja es pot omplir**: **accepció
+   2, `saig` és un ocell** —*canari* i *llavió*—, **que és el que entén qui no
+   ve del dret.** **El [DCVB](../../../fonts/dcvb.md) hi afegeix l'antiguitat**: el
+   documenta al segle XIII i a Llull, amb la grafia *sag* i *sayg*.
 6. **El nunci**: si el nom també és una represa d'un ofici antic. — **`parcial`
    des del 2026-09-13.** **Represa, probablement no: el nunci no s'ha aturat
    mai.** El corpus el documenta **fent de càrrec comunal en un ritu viu fins al

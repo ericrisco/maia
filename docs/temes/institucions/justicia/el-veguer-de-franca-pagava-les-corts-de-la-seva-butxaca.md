@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-16T12:30:00Z
+timestamp: 2026-09-16T14:00:00Z
 tags: [justicia, dret-penal, veguers, corts, coprincipat, franca, pareatge, costes, gastronomia, segle-xv, segle-xvii, segle-xviii, font-primaria, prioritari]
 ---
 
@@ -349,8 +349,13 @@ capítol IV, «*per tenir ja de altra part lo salari*»**
    **L'interrogant és de l'editor.**
 7. **El *Politar*, p. 203**, sobre el deure dels *rahonadors* d'impedir les
    composicions en espècie.
-8. **Què eren les ***estrenes*** que els Veguers donaven al *nunci*, als batlles
-   i al *greffier*.** **El corpus té el nom i cap import.**
+8. ~~**Què eren les ***estrenes***.~~ — **`resolt` el 16-09-2026**
+   ([DCVB](../../../fonts/dcvb.md)): **una *estrena* és una gratificació o regal** —en
+   moneda o en espècie— **que es fa per celebrar el començament d'una cosa o una
+   festa anyal**, i **també allò que es dona de més a més del preu contractat**.
+   **No és sou ni dret d'ofici: és propina**, i **això encaixa amb el que diu
+   aquesta fitxa** —que aquells oficis no tenien retribució fixa. **Segueix
+   obert l'import**, que la font no dona.
 9. **Qui eren les dues noies de 1475 i com va acabar l'home a qui van trencar el
    cap.** **El corpus té la composició i no el desenllaç per a ell.**
 10. **Si composar era possible en tots els delictes** o **només en alguns**.
