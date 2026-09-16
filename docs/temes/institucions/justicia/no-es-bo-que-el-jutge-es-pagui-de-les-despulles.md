@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-23T15:00:00Z
+timestamp: 2026-09-16T12:00:00Z
 tags: [justicia, dret-penal, costes, sobirania, coprincipat, franca, jurisprudencia, segle-xix, lexic, font-primaria, prioritari]
 ---
 
@@ -66,8 +66,50 @@ després és la Conclusió.**
 >
 > **El corpus **no ho llegeix com un error***: **la font diu «comprenen» i
 > enumera vuit o nou conceptes, de manera que les tres xifres que dona són
-> **una selecció, no la suma**.** **Ho registra perquè, si mai es llegeix
-> l'imprès, la comprovació ja està feta i el que falta està quantificat.**
+> **una selecció, no la suma**.**
+
+> **Comprovat sobre la pàgina impresa el 16-09-2026** (p. 327, PDF 515).
+> **La lectura del corpus era correcta i el buit no era d'extracció**:
+> **l'imprès dona exactament aquestes quatre xifres i cap més.** **Les 715,50
+> pessetes no estan desglossades a la font**, i no hi ha cap tall d'OCR que les
+> amagui. **El que enumera la p. 327 són els conceptes, sense import**:
+> instrucció, ferraments del pres, honoraris de l'advocat, manteniment de la
+> guàrdia, despeses de la sessió —viatge i manutenció del tribunal—, drets dels
+> escrivans i del *nunci*, indemnització a la víctima, de vegades honoraris
+> d'un assessor, i les despeses d'execució de la sentència.
+>
+> **Un segon procés, de comparació**: una causa que acaba en **20 pessetes de
+> multa** genera **51,50 pessetes de despeses**. **Les despeses valen més del
+> doble de la pena.**
+
+## La nota dels batlles, sencera
+
+**La nota de 291,25 pessetes que presenten els batlles per despeses d'execució**
+detalla sis conceptes (p. 327, nota 3):
+
+| Concepte | Import |
+|---|---:|
+| Peritatges per valorar immobles **no construïts** | **32,00 ptes** |
+| Peritatges per valorar immobles **construïts** | **32,00 ptes** |
+| Vacacions per a la subhasta a la plaça | **81,00 ptes** |
+| Anuncis de subhasta, **tres vegades** | **60,00 ptes** |
+| **Quatre** avisos del *nunci* als pèrits | **1,40 ptes** |
+| Acte de venda en subhasta | **5,00 ptes** |
+| **Suma dels sis** | **211,40 ptes** |
+
+> **`Càlcul del corpus`**: **211,40 de 291,25**. **Queden 79,85 pessetes sense
+> concepte**, i **la font ho avisa**: diu que aquests conceptes **«hi
+> figuren»**, no que siguin tota la nota.
+>
+> **I una correcció al mateix corpus**: **la línia de «58,50» que aquesta fitxa
+> donava per existent no existeix.** **És un artefacte de l'OCR** —la capa de
+> text del PDF hi encavalca una xifra que a la pàgina no hi és—, **comprovat
+> llegint la pàgina com a imatge.** **Regenerable amb**
+> `pdftoppm -f 515 -l 515 -r 300 -png docs/raw/llibres/brutails-coutume.pdf`.
+>
+> **El que la nota deixa veure**: **el gruix no són els peritatges, és la
+> subhasta.** **Vacacions i anuncis sumen 141 de 211** — **dos terços del que
+> es pot identificar se'n va a vendre els béns, no a valorar-los.**
 
 **I l'autor hi afegeix la seva valoració:**
 
@@ -291,12 +333,19 @@ i 1859, V, 89.)*
 
 ## Buits registrats
 
-1. **El procés de les 1.285,50 pessetes**: **el desglossament sencer.** **El
-   corpus té tres partides que en sumen 570 i **715,50 sense explicar**.**
-   `Requereix la pàgina impresa.` **Prioritari.**
-2. **La nota de 291,25 pessetes dels batlles**, sencera: **l'extracció trenca dos
-   conceptes que valen 27,75 pessetes** i **un tercer de 58,50 del qual no consta
-   la rúbrica.** `Requereix la pàgina impresa.`
+1. ~~**El procés de les 1.285,50 pessetes**: **el desglossament sencer.**~~ —
+   **`resolt` el 16-09-2026 sobre la pàgina impresa** (p. 327, PDF 515).
+   **No era un buit d'extracció: és un límit de la font.** **L'imprès dona
+   aquestes quatre xifres i cap més**, i **les 715,50 pessetes no les desglossa
+   ningú.** **El que segueix obert** és el document original de la taxa —la
+   font el resumeix i no el transcriu—, que **`requereix arxiu andorrà`**.
+2. ~~**La nota de 291,25 pessetes dels batlles**, sencera.~~ — **`resolt` el
+   16-09-2026 llegint la pàgina com a imatge**, perquè **la capa de text del PDF
+   hi és defectuosa**. **Sis conceptes que sumen 211,40**, vegeu [la nota dels
+   batlles, sencera](#la-nota-dels-batlles-sencera). **La línia de 58,50 que
+   aquest buit donava per existent no existeix**: **era un artefacte d'OCR.**
+   **Segueix obert** el concepte de les **79,85 pessetes** restants, que la font
+   no enumera.
 3. **L'afer de la multa de 20 pessetes amb 51,50 de despeses**: **data,
    jurisdicció i delicte.**
 4. **La sentència de 1896 amb la rúbrica «*Indemnisacio de lo robat*»** de 100 a

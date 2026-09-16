@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-23T11:00:00Z
+timestamp: 2026-09-16T12:30:00Z
 tags: [justicia, dret-penal, veguers, corts, coprincipat, franca, pareatge, costes, gastronomia, segle-xv, segle-xvii, segle-xviii, font-primaria, prioritari]
 ---
 
@@ -250,29 +250,52 @@ capítol IV, «*per tenir ja de altra part lo salari*»**
 
 | Concepte | Import |
 |---|---:|
-| **«*Sumen totes les punycions de les Corts*»** | **23 ll. 1 s.** |
+| **«*Sumen totes les punycions de les Corts*»** | **24 ll. 1 s.** |
 | **«*Ay de despesses*»** | **15 ll. 10 s.** |
-| **«*Reste quiti a Mossè l'Veguer de la Seu*»** | **2 ll. 1 s. 6 d.** |
+| **«*Reste quiti a Mossè l'Veguer de la Seu*»** | **2 ll. 2 s. 6 d.** |
 | **«*Sume a Mossè de Miglos, quiti*»** | **6 ll. 8 s.** |
 | **«*Sumen les asetiades lesquals pren Mossè de Miglos*»** | **1 ll. 7 s. 6 d.** |
 | **«*Sumen les letres respongues a la part de Mossè de Miglos*»** | **17 s. 6 d.** |
 
-**`Càlcul del corpus`, i es dona sencer perquè no tanca.**
+> **Dues d'aquestes xifres estan corregides el 16-09-2026 contra la pàgina
+> impresa llegida com a imatge** (p. 326, nota 1; PDF 514). **La capa de text
+> del volum en llegia malament dues**: `XXIIII` com a **23** i `II s.` com a
+> **1 s.** **Regenerable amb**
+> `pdftoppm -f 514 -l 514 -r 300 -png docs/raw/llibres/brutails-coutume.pdf`.
 
-> **El romanent declarat**: **23 ll. 1 s. − 15 ll. 10 s. = **7 ll. 11 s.***
->
-> **La suma del que cobren els dos veguers**: **2 ll. 1 s. 6 d. + 6 ll. 8 s. =
-> **8 ll. 9 s. 6 d.***
->
-> **Els dos veguers cobren **18 sous i 6 diners més del que queda** després de les
-> despeses.** **El corpus no ho concilia** i **no atribueix la diferència a cap
-> causa**: **pot ser que les *asetiades* i les *letres* siguin partides a part,
-> pot ser un error d'extracció, pot ser que les despeses es prenguessin després.**
-> `Requereix la pàgina impresa.`
+**`Càlcul del corpus`, i ara sí que tanca.**
 
-> **Però la proporció sí que és visible.** **`Càlcul del corpus`**: **6 ll. 8 s. ÷
-> 2 ll. 1 s. 6 d. = **3,08***. **El veguer de Miglos cobra **tres vegades** el de
-> la Seu.**
+> **El romanent declarat**: **24 ll. 1 s. − 15 ll. 10 s. = **8 ll. 11 s.***
+>
+> **La suma del que cobren els dos veguers**: **2 ll. 2 s. 6 d. + 6 ll. 8 s. =
+> **8 ll. 10 s. 6 d.***
+>
+> **La diferència és de **6 diners***, **mig sou**, i no de 18 sous i 6 diners
+> com aquesta fitxa havia registrat. **El descuadrament era de l'OCR, no de la
+> comptabilitat de 1488.**
+
+> **I la proporció del Pareatge es veu en la xifra.** **`Càlcul del corpus`**,
+> tot en diners —**20 sous la lliura, 12 diners el sou**—:
+>
+> | | Diners | Part |
+> |---|---:|---:|
+> | **Romanent** | **2.052 d** | |
+> | **Mossè de Miglos** (França) | **1.536 d** | **74,9 %** |
+> | **Veguer de la Seu** (episcopal) | **510 d** | **24,9 %** |
+> | **Sense assignar** | **6 d** | **0,3 %** |
+>
+> **Tres quarts i un quart**, com marca el [Pareatge de
+> 1278](../../historia/pareatge/el-que-es-dona-en-feu-es-el-domini-util.md).
+> **El veguer de França cobra 6 diners més del triple exacte** del de la Seu
+> —**1.536 contra 1.530**—, i **en queden 6 sense repartir**. **El corpus no
+> arbitra si és la mateixa moneda comptada dues vegades o dos arrodoniments
+> independents**: **són dues xifres iguals i el document no les relaciona.**
+
+> **Les *asetiades* i les *letres respongues* són partides a part.** **La font
+> les suma **després** del *quiti* de Miglos**, cosa que confirma que **no hi
+> són dins**: el veguer de França cobrava **el seu tres quarts i, a més, aquests
+> dos conceptes**. **El que la font no diu enlloc és què són**: ni defineix
+> *asetiada* ni explica què vol dir que unes lletres siguin *respongues*.
 >
 > **És la proporció del Pareatge de 1278 que el *Politar* prescriu, **observable
 > en un compte de 1488***, **dos segles i mig abans del *Politar*.**
@@ -302,9 +325,20 @@ capítol IV, «*per tenir ja de altra part lo salari*»**
    l'única de font externa.**
 2. **Per què la vegueria francesa va estar vacant des de 1768**, **i quan es va
    tornar a proveir.** **Prioritari.**
-3. **Els comptes de les Corts de 1488**, **sencers i des de l'imprès**: **la suma
-   que el corpus té no tanca per 18 sous i 6 diners**, i **no consta què són les
-   *asetiades* ni les *letres respongues*.** `Requereix la pàgina impresa.`
+3. ~~**Els comptes de les Corts de 1488**, **sencers i des de l'imprès**: **la
+   suma que el corpus té no tanca per 18 sous i 6 diners**.~~ — **`resolt` el
+   16-09-2026 llegint la pàgina com a imatge** (p. 326, nota 1). **El
+   descuadrament era d'OCR**: `XXIIII` llegit **23** i `II s.` llegit **1 s.**
+   **Amb les xifres de l'imprès la diferència baixa a 6 diners** i **la
+   proporció 3:1 del Pareatge queda visible en la xifra.**
+   **Segueix obert què són les *asetiades* i les *letres respongues***: **la
+   font en dona l'import i no en dona la definició.** **Comprovat el 16-09-2026
+   que `asetiada` no és a cap dels dos diccionaris**
+   ([DIEC2](../../../fonts/diec2.md), [DCVB](../../../fonts/dcvb.md)): el DIEC2
+   només té `assetiar`, «posar en el seu seti», i **el DCVB no troba l'entrada**.
+   **El mot és del document i no de la llengua descrita**, i **tancar-lo demana
+   documentació fiscal medieval, no lexicogràfica.** També **segueixen oberts els
+   6 diners** que no s'assignen a ningú.
 4. **Els sis casos de composició** —**18-05-1471, 1475, 26-03-1488, 1488/89,
    02-08-1606 i 11-12-1606**— **sencers.** **Prioritari**: **cap no porta
    signatura d'arxiu.**
