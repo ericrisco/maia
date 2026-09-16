@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-22T09:00:00Z
+timestamp: 2026-09-16T11:00:00Z
 tags: [justicia, procediment, execucio, embargament, nunci, consols, estrangers, segle-xvi, segle-xvii, segle-xix, font-primaria, prioritari]
 ---
 
@@ -180,11 +180,17 @@ embargats) del capítol VIII de *La Coutume d'Andorre*, de **J.-A. Brutails**
 
 > **Quan es tracta de béns **que han de ser consumits abans del final del
 > litigi**, **d'un porc que cal matar, de garbes que s'han d'engarberar**, **la
-> part embargada demana l'autorització al batlle**, que…
+> part embargada demana l'autorització al batlle**, **que l'atorga sota
+> caució**.
 
-> **L'extracció talla aquí.** `Requereix la pàgina impresa.` **El que queda
-> establert és el problema**: **l'embargament dura un mes i la collita i el porc
-> no esperen.** **I qui ha de demanar permís per salvar-los és **l'embargat**.**
+> **Llegit sencer sobre la pàgina impresa el 16-09-2026** (p. 292, PDF 479).
+> **La paraula que faltava és «caució»**, i canvia el sentit de la regla:
+> **l'embargat no rep un permís, rep una condició**. **Per salvar el que es fa
+> malbé ha de garantir-ne abans el valor**.
+>
+> **El que ja quedava establert és el problema**: **l'embargament dura un mes i
+> la collita i el porc no esperen.** **I qui ha de demanar permís per salvar-los
+> és **l'embargat**.**
 
 ## Entre andorrans, no
 
@@ -225,8 +231,12 @@ embargats) del capítol VIII de *La Coutume d'Andorre*, de **J.-A. Brutails**
 
 ## Buits registrats
 
-1. **El final de la frase de la p. 292** sobre què fa el batlle quan cal consumir
-   els béns embargats. **L'extracció la talla.** `Requereix la pàgina impresa.`
+1. ~~**El final de la frase de la p. 292** sobre què fa el batlle quan cal
+   consumir els béns embargats.~~ — **`resolt` el 16-09-2026 sobre la pàgina
+   impresa** (p. 292, PDF 479 de `docs/raw/llibres/brutails-coutume.pdf`).
+   **El batlle atorga l'autorització sota caució.** **Segueix obert** de quina
+   mena era la caució i qui la fixava: la font diu «sous caution» i no ho
+   desenvolupa.
 2. **Les Pièces justificatives, pp. LVI-LX**: **l'extracte del manuscrit de
    Palmitjavila**, amb **la classificació dels procediments** i **la prohibició
    d'embargar entre andorrans establerts** (p. LIX). **Prioritat màxima**:

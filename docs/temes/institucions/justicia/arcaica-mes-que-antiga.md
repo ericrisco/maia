@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-23T17:00:00Z
+timestamp: 2026-09-16T11:00:00Z
 tags: [justicia, dret, metodologia, sobirania, coprincipat, dret-catala, dret-roma, dret-canonic, comuns, segle-xix, font-primaria, prioritari]
 ---
 
@@ -239,10 +239,22 @@ tandes.**
 
 ## L'Erratum, que tanca una xifra
 
-> **«**El senyor **Palmitjavila fill** ha tingut l'amabilitat de comunicar-me
-> **una expedició original del decret del 4 d'agost de 1854**, que és publicat a
-> les Peces justificatives, pp. XXVIII-XXIX. **És ben bé vint-i-cinc
-> anualitats…**»**
+> **«P. 193.** El senyor **Palmitjavila fill** ha tingut l'amabilitat de
+> comunicar-me **una expedició original del decret del 4 d'agost de 1854**, que
+> és publicat a les Peces justificatives, pp. XXVIII-XXIX. **És ben bé
+> vint-i-cinc anualitats que els laics poden reclamar com a màxim. El termini de
+> prescripció quedava doncs fixat, segons els termes d'aquest decret, en
+> vint-i-sis anys.**»
+
+> **Llegit sencer sobre l'imprès el 16-09-2026** (p. 336 impresa, PDF 523).
+> **L'Erratum no rectifica una xifra: en rectifica dues**, i la segona el corpus
+> no la tenia.
+>
+> **El cos de l'obra, a la p. 193, diu que la prescripció s'adquireix «per
+> vint-i-nou anys contra un laic i per trenta-nou anys contra una església».**
+> **L'Erratum deixa el termini per al laic en vint-i-sis anys**, no
+> vint-i-nou. **Quan la font es contradiu amb ella mateixa, mana l'Erratum**:
+> és posterior i l'autor l'escriu havent vist l'original que abans no tenia.
 
 > **El corpus té aquest decret** —**el que fixa terminis de prescripció de
 > **vint-i-cinc pensions per al creditor secular i trenta-nou anys per a les
@@ -268,9 +280,16 @@ tandes.**
    **`Divergència interna al cos, registrada i no arbitrada.`**
    **Prioritari**: **és la segona del llibre que no és en nota, i la primera que
    és una qualificació jurídica i no una data.**
-2. **L'Erratum sencer.** **L'extracció el talla a «*C'est bien vingt-cinq
-   annuités*» i no consta què rectifica exactament de la p. 193.**
-   `Requereix la pàgina impresa.` **Prioritari.**
+2. ~~**L'Erratum sencer.** **L'extracció el talla a «*C'est bien vingt-cinq
+   annuités*» i no consta què rectifica exactament de la p. 193.**~~ —
+   **`resolt` el 16-09-2026 sobre la pàgina impresa** (p. 336, PDF 523 del
+   volum a `docs/raw/llibres/brutails-coutume.pdf`). **Rectifica dues coses de
+   la p. 193**: confirma **vint-i-cinc anualitats** com a màxim reclamable pels
+   laics i **rebaixa el termini de prescripció de vint-i-nou a vint-i-sis
+   anys**. Vegeu [l'Erratum, que tanca una xifra](#lerratum-que-tanca-una-xifra).
+   **El que segueix obert** és si el decret del 4 d'agost de 1854 tal com el
+   publiquen les Peces justificatives (pp. XXVIII-XXIX) **diu vint-i-sis o
+   vint-i-nou**: el corpus no ha llegit aquelles pàgines.
 3. **La campanya de les Corts contra els usurers del 75 %**: **quan, amb quins
    documents i amb quin resultat.** **La font l'esmenta a la Conclusió i el
    corpus no té la unitat que la documenti.** **Prioritari.**

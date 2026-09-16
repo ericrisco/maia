@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-19T21:00:00Z
+timestamp: 2026-09-16T11:00:00Z
 tags: [justicia, justicia-politica, veheduria, visura, servituds, quarts, consell-general, segle-xvi, segle-xvii, segle-xix, font-primaria, prioritari]
 ---
 
@@ -230,9 +230,18 @@ manera:**
 
 1. **El cas dels joves i el ball**: **sense data, sense lloc i sense saber què van
    fer després.** **La font el dona com a «al llarg d'aquests darrers anys».**
-2. **La resta de la frase de la p. 244** sobre què eren «en realitat» els
-   processos de veí a veí i les servituds. **L'extracció la talla.**
-   `Requereix la pàgina impresa.`
+2. ~~**La resta de la frase de la p. 244** sobre què eren «en realitat» els
+   processos de veí a veí i les servituds.~~ — **`resolt` el 16-09-2026 sobre
+   la pàgina impresa** (nota 3, començada a la p. 243 i acabada a la p. 244).
+   **La frase sencera**: el Politar (pp. 251-252) i l'*Instructa* als batlles
+   (Peces justificatives, p. L) **tracten com a sinònims** els processos de veí
+   a veí i els de servituds rústiques i urbanes, i Brutails hi afegeix que
+   aquesta sinonímia **«resulta potser d'haver volgut posar d'acord els textos
+   antics i els usos actuals; en realitat, les dues coses devien, en origen,
+   ser molt diferents»**. **És una hipòtesi de l'autor, no una troballa
+   documental**: diu «potser» i «devien», i **no dona cap document que separi
+   les dues figures**. **Segueix obert** quines eren originàriament, que la
+   font no ho diu.
 3. **Les doleances dels habitants d'Andorra a les Corts de maig de 1364**, **en
    una còpia millor que la que la font titlla de sospitosa.** **Prioritari**:
    **és el text que dataria el sistema al segle XIV.**

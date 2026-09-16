@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-21T12:00:00Z
+timestamp: 2026-09-16T11:00:00Z
 tags: [justicia, procediment, apellacio, terminis, tretze-dies, feriats, batlles, notaris, segle-xvi, segle-xviii, segle-xix, segle-xx, font-primaria, prioritari]
 ---
 
@@ -160,9 +160,16 @@ exemple datat. El corpus el refà.**
 >
 > **Això és un error**: **el jutge *a quo* no és, en aquesta circumstància, **una
 > mena de distribuïdor automàtic***; **no solament pot refusar les lletres
-> d'apel·lació per raons tretes de les regles…**
+> d'apel·lació per raons tretes de les regles de procediment —valor mínim del
+> litigi, apel·lació fora de termini, etcètera—, sinó que encara li és permès
+> **apreciar els fets** i **rebutjar l'apel·lació manifestament frívola i
+> temerària**.**
 
-> **L'extracció talla aquí.** `Requereix la pàgina impresa.`
+> **Llegit sencer sobre la pàgina impresa el 16-09-2026** (p. 278, PDF 465).
+> **Les raons són de dues menes i la font les separa**: unes de **procediment**
+> —quantia, termini—, i una de **fons**, apreciar els fets per rebutjar el
+> recurs temerari. **La segona és la que desmenteix el «distribuïdor
+> automàtic»**.
 >
 > **El que queda establert és la tensió**: **les instàncies superiors volen que el
 > pas pel jutge de sota sigui automàtic, i la font sosté que no ho és.** **I el
@@ -247,9 +254,13 @@ exemple datat. El corpus el refà.**
 1. **Amb quin fonament el batlle podia empresonar un ciutadà **sobre una simple
    sospita***, **amb quin termini i amb quin control.** **La font ho diu com a
    argument i no cita cap norma.** **Prioritari.**
-2. **El final de la frase de la p. 278** sobre per quines raons el jutge *a quo*
-   pot refusar les lletres d'apel·lació. **L'extracció la talla.**
-   `Requereix la pàgina impresa.`
+2. ~~**El final de la frase de la p. 278** sobre per quines raons el jutge *a
+   quo* pot refusar les lletres d'apel·lació.~~ — **`resolt` el 16-09-2026
+   sobre la pàgina impresa** (p. 278, PDF 465). **Raons de procediment** —valor
+   mínim del litigi, apel·lació tardana, etcètera— **i, a més, l'apreciació
+   dels fets per rebutjar l'apel·lació manifestament frívola i temerària.**
+   **Segueix obert** si algun *apostoli refutatorii* andorrà es conserva: la
+   font en dona la figura i cap cas datat.
 3. **Les lletres d'apel·lació de 1902** que només mencionen deu dies. **Són dels
    documents més moderns que aquest llibre cita.**
 4. **El decret del Consell General del 21 de desembre de 1895**, i **quina és «la
