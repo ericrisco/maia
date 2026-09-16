@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-18T10:00:00Z
+timestamp: 2026-09-16T16:45:00Z
 tags: [antic-regim, herencia, hereu, casa, propietat, credit, consell-general, justicia, segle-xv, segle-xix, font-primaria, prioritari]
 ---
 
@@ -281,7 +281,22 @@ d'una tanda diferent**:
    **la font diu «diversos».**
 6. **Quantes institucions amb pluralitat d'hereus hi ha**: **la font en dona tres**
    i **adverteix que una potser és un *ab intestat*.**
-7. **Què vol dir «*a arbitre de bon baro*»** com a mesura de l'usdefruit.
+7. **Què vol dir «*a arbitre de bon baro*»** com a mesura de l'usdefruit. —
+   **`parcial` el 16-09-2026.** **Lexicogràficament, res**: **la locució no és
+   ni al [DIEC2](../../../fonts/diec2.md) ni al [DCVB](../../../fonts/dcvb.md)**
+   —l'entrada `BARÓ` del DCVB és el topònim i el títol nobiliari, i **no recull
+   cap locució jurídica**.
+   **Però el document diu què hi fa.** **A la peça justificativa VII** (pàgina
+   XI, PDF 35) **la fórmula apareix com l'alternativa a donar garantia**: el
+   donador es reserva l'usdefruit «**per raho del qual no sia obligat en algun
+   temps a prestar caucio alguna, ans be puga usar de aquell a arbitre de bon
+   baro**».
+   **O sigui: l'usufructuari no ha de dipositar caució, i en contrapartida se
+   l'obliga a un estàndard de conducta.** **El que substitueix la garantia real
+   és una mesura de comportament.** **El corpus no afirma d'on ve la fórmula**
+   —sona a l'*arbitrium boni viri* del dret romà, **i això el corpus no ho pot
+   acreditar amb cap font que tingui**— i **el buit queda obert per aquesta
+   banda**: `requereix doctrina de dret civil català o romà`.
 8. **Si el pacte de «cinc sous en amunt» era una xifra estàndard** o **cada
    contracte en posava una.** **La font diu «per exemple, 5 sous».**
 

@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-19T00:30:00Z
+timestamp: 2026-09-16T16:45:00Z
 tags: [banca-i-fiscalitat, interes, usura, censal, arrendament, parceria, ramaderia, tabac, sant-julia, segle-xviii, segle-xix, font-primaria, prioritari]
 ---
 
@@ -283,8 +283,23 @@ naturalesa, l'arrendament».**
    resultat.** **I si els «préstecs al 75 %» tenen cap expedient al darrere.**
 5. **Els decrets del 30 d'agost de 1892 i els actes del 19-03-1874 i 16-03-1898**,
    sencers.
-6. **El *capsou* del 9 de juny de 1783**, **que és peça justificativa núm. XI del
-   mateix volum** i **el corpus encara no ha llegit.** **A l'abast.**
+6. ~~**El *capsou* del 9 de juny de 1783**, **peça justificativa núm. XI del
+   mateix volum.**~~ — **`resolt` el 16-09-2026** (peça XI, pàgina XXII, PDF 46).
+   **És un *bail à cheptel* i el corpus en reté tots els termes.**
+   **Qui el fa**: quatre pagesos del lloc de **l'Aldosa**, parròquia de **la
+   Massana**, **com a administradors de la capella de Sant Ermengol**. **Què
+   donen**: **deu ovelles de la capella**, **estimades a vint rals cadascuna**.
+   **A qui**: **Jacinto M. i F., pagès de l'Aldosa**, «**y als seus y a qui ell
+   voldra**». **Amb què**: **pacte de gràcia de redimir** —carta de gràcia— i
+   **una renda anual fixa**: **una lliura de llana o bé tres sous barcelonins
+   per cap**, **pagadors cada any el 24 de maig**.
+   **El que el corpus en treu i no tenia**: **el capsou no és un préstec de
+   diners amb interès, és una cessió de bestiar amb renda en espècie o en
+   diner**, i **la renda es fixa per cap, no sobre el valor**. **Deu ovelles a
+   vint rals fan dues-centes rals de capital**, i **la renda de tres sous per
+   cap no és un percentatge d'aquell capital: és un lloguer del bestiar.**
+   **I la propietat es transfereix**: els administradors es «desapoderen del
+   domini» i el traspassen, **salvada sempre la facultat de quitar.**
 7. **L'acte del 7 de desembre de 1419** de Mosquera, **cinquanta bèsties de llana**:
    **d'on surt.**
 8. **L'acte de 1670** de venda de la tercera part dels fruits.

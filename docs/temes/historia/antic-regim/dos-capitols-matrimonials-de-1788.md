@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-13T05:10:00Z
+timestamp: 2026-09-16T16:45:00Z
 tags: [antic-regim, dot, hereu, familia, dret, segle-xviii, font-primaria, lexic]
 ---
 
@@ -147,8 +147,21 @@ cases. **El corpus no ho fa**, per dues raons que hi consten:
    són **números sense magnitud**.
 4. **Els noms sencers.** Brutails els va abreujar; **els originals han de ser a
    l'escrivania**.
-5. **Si la clàusula d'alimentar «treballant empero estos a utilitat y profit»** era
-   de fórmula o es negociava.
+5. ~~**Si la clàusula d'alimentar «treballant empero estos a utilitat y
+   profit»** era de fórmula o es negociava.~~ — **`resolt` el 16-09-2026 a
+   favor de la fórmula**, comptant-ne les apraricions al volum sencer.
+   **La clàusula surt en dos actes diferents**, i **el segon no és a les peces
+   justificatives sinó al cos de l'obra** (p. 129): **un cas en què la mare i el
+   marit d'ella instituïen hereu l'espòs reservant-se l'usdefruit vitalici, amb
+   la condició que el nou matrimoni treballés «*a utilitat y profit delsdits
+   donadors*».**
+   **El que ho decideix és el plural.** **Aquí hi ha dos donadors i la fórmula
+   s'hi adapta —*delsdits donadors*—, mentre que al capítol de 1788 n'hi ha un i
+   diu *de dit donador*.** **Una clàusula que es declina segons quants en
+   signen, i que per la resta és idèntica paraula per paraula, és una fórmula de
+   notari, no un pacte negociat entre les parts.**
+   **El que segueix obert** és **si alguna parella la va fer treure**: el corpus
+   no té cap capítol matrimonial andorrà d'aquests anys que NO la porti.
 6. **L'*aixovar***: què hi entrava, exactament, i com es distingia del dot.
 
 ## Related
