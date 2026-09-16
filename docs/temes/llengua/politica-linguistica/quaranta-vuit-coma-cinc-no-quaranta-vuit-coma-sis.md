@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: spl-coneixements-usos-linguistics-2009
-timestamp: 2026-09-15T15:00:00Z
+timestamp: 2026-09-17T13:00:00Z
 tags: [llengua, sociolinguistica, dades, metodologia, serie-historica, discrepancia, verificacio, prioritari]
 ---
 
@@ -439,12 +439,46 @@ lectura del cap de Govern que el seu propi informe corregeix a l'interior.**
   que no són els de les onades** —1995, 1999, 2004, 2009—: **tres de les quatre
   referències demogràfiques són d'un any abans de l'enquesta.** El corpus **no té
   aquelles publicacions.**
-- **El capítol d'usos lingüístics d'aquesta edició (pp. 12-22) no s'ha destil·lat
-  sencer.** S'han retingut les sèries, les bases i els defectes; **els divuit
-  gràfics de barres apilades per situació** —banc, metge, perruqueria, botiga,
-  restaurant, taxi, bar, grans magatzems, amb quatre onades i dues perspectives
-  cadascun— **no s'han transcrit.** **És el mateix buit que la fitxa del 2022
-  declara per al seu propi capítol d'usos.**
+- ~~**El capítol d'usos lingüístics d'aquesta edició (pp. 12-22) no s'ha
+  destil·lat sencer.** Els divuit gràfics de barres apilades per situació no
+  s'han transcrit.~~ — **`resolt` el 17-09-2026, i per una via que val la pena
+  explicar perquè estalvia la feina a qui vingui després.**
+
+  **Els valors d'aquests divuit gràfics JA ERAN al corpus.** **L'edició del 2018
+  reimprimeix les mateixes onades 1995-2009 dels mateixos vuit àmbits**, i
+  **s'han transcrit totes** ([les disset pàgines de gràfics del
+  2018](./el-diposit-legal-daquesta-edicio-es-and-000-2019.md#els-nou-àmbits-socioeconòmics)).
+  **El que calia no era tornar-los a copiar: era comprovar que són els mateixos.**
+
+  **Comprovació feta sobre la pàgina renderitzada** (`pages-2009/`, **pàgina
+  impresa = pàgina del PDF − 1**): **176 valors contrastats un a un** —les dues
+  graelles de «a casa» senceres (48) i quatre àmbits complets amb les seves
+  quatre onades i les dues perspectives: **perruqueria, botiga, restaurant i
+  taxi/autobús** (128)—. **Cap discrepància. Ni una.**
+
+  **I això és una troballa, no un trànsit.** **El corpus té documentats dos casos
+  en què aquest fons SÍ que altera el seu propi passat**: **el 48,5 que passa a
+  48,6** (aquest mateix article) i **el 75,4 que el 2022 reimprimeix com a 77,5**.
+  **Ara se sap que la deriva és puntual i no sistemàtica**: **en 176 valors de
+  sèrie enrere, les edicions es reprodueixen exactes.** **Les dues dècimes
+  discrepants són anomalies identificades, no la punta d'un problema general.**
+
+  **Tres coses que aquesta edició té i la del 2018 no:**
+
+  1. **L'àmbit s'hi diu «METGE / DENTISTA».** **És la confirmació independent del
+     canvi de disseny** que el 2018 declara quan el substitueix per «metge
+     generalista i especialista» — **i per tant la caiguda de 20 punts d'aquell
+     àmbit el 2018 té, efectivament, una causa de qüestionari documentada a les
+     dues edicions.**
+  2. **Una sèrie que només existeix en prosa**: «*Quant a la llengua més
+     utilitzada [al restaurant], no hi ha canvis significatius: **castellà (51 %),
+     català (35 %), català i castellà (8 %), francès (2 %) i portuguès (2 %)***».
+     **Cap gràfic del fons no la dibuixa**, i **suma 98.**
+  3. **Una errata de data**: la pàgina 20 escriu **«(32% el 2044)»** on vol dir
+     **2004**.
+
+  **Segueix obert el capítol d'usos de l'edició del 2022** (pp. 17-37), **que és
+  l'única que encara aporta onades no transcrites.**
 - **Drets tancats.** **Cap llicència declarada**, ni al document ni al portal.
   **Res d'aquesta font no entra en cap dataset**, i el PDF **no es versiona**.
 

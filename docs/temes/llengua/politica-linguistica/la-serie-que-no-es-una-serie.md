@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: spl-coneixements-usos-linguistics-2022
-timestamp: 2026-09-14T00:40:00Z
+timestamp: 2026-09-17T14:00:00Z
 tags: [llengua, sociolinguistica, dades, metodologia, serie-historica, discrepancia, prioritari]
 ---
 
@@ -299,6 +299,153 @@ I el detall que no s'endevina: els qui declaren **menys** coneixement de català
 vivien; el 2022 són **els qui fa entre 11 i 15 anys que resideixen a Andorra**,
 amb un 6,6.
 
+## El capítol d'usos lingüístics, destil·lat (pp. 17-37)
+
+**Vint-i-una pàgines llegides sobre la pàgina renderitzada a 200 ppp**
+(`docs/raw/llengua-usos-linguistics/pages-2022/`, **pàgina impresa = pàgina del
+PDF − 2**; els renders **no es versionen**, R014). **Aquesta edició afegeix
+l'onada del 2022 a set onades**, i **és l'única del fons que en porta cap de
+nova**: les altres tres ja estaven transcrites.
+
+### Primer: el back-series es reprodueix exacte
+
+**Abans de cap xifra nova.** **Tots els valors 1995-2018 d'aquesta edició s'han
+contrastat un a un amb els de l'edició del 2018**, ja al corpus. **Cap
+discrepància**, en cap dels nou àmbits, ni a l'indicador d'ús, ni al percentatge
+de temps, ni a l'Administració.
+
+**Això tanca una pregunta oberta del corpus.** Aquest fons **té dues derives
+documentades** —**el 48,5 que passa a 48,6** i **el 75,4 que aquesta mateixa
+edició reimprimeix com a 77,5**— i **fins avui no se sabia si eren la punta d'un
+problema general.** **No ho són**: **en centenars de valors de sèrie enrere, les
+quatre edicions són idèntiques.** **Les dues derives són anomalies aïllades i
+segueixen sense explicació.**
+
+### Percentatge de temps que utilitza cada llengua (p. 17)
+
+| Llengua | 2004 | 2009 | 2014 | 2018 | 2022 |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| **Català** | 40,5 | 42,1 | 47,0 | 45,9 | **48,1** |
+| **Castellà** | **43,0** | 41,5 | 37,5 | 39,1 | 37,4 |
+| Francès | 7,0 | 6,9 | 5,2 | 6,5 | 5,2 |
+| Portuguès | 5,5 | 7,5 | 5,4 | 3,9 | 4,2 |
+| Anglès | 1,2 | 1,0 | 2,1 | 3,2 | **4,0** |
+| Altres | 1,7 | 1,0 | 0,8 | 0,7 | 1,2 |
+
+**El 2022 el català arriba al 48,1 %**, **per damunt del 47,0 % del 2014**:
+**és el màxim de la sèrie**, i **vol dir que el sotrac del 2018 en aquesta
+mesura es va revertir.** **El castellà toca mínim (37,4 %)** i **l'anglès arriba
+al 4,0 %, quadruplicant el seu valor del 2009.**
+
+**I un moviment que el corpus reté perquè és de base, no de llengua**: **la
+gent que no fa servir mai el català passa de l'11,5 % (2018) al 9,1 %.**
+
+### El que el 2022 fa a casa (p. 18-19)
+
+| A casa | 2018 | 2022 | |
+| --- | ---: | ---: | --- |
+| **Sempre català** | 29,3 | **37,9** | **+8,6** — el segon valor més alt de la sèrie, després del 41,2 % del 1995 |
+| Sempre castellà | 24,4 | ~25,4 | +1 |
+| Català i castellà | 16,8 | **10,8** | **−6,0** |
+| **Llengua més utilitzada: català** | 33,9 | **40,1** | +6,2 |
+| Llengua més utilitzada: castellà | 30,4 | 27,6 | −2,8 |
+
+**El bilingüisme a casa es desinfla i les dues exclusives creixen.** **És
+exactament el moviment contrari al del 2018**, i **el document no el comenta com
+a tal.**
+
+### L'indicador d'ús, set onades i la seva fórmula
+
+> **Indicador d'ús = (freqüència d'ús a casa + freqüència d'ús amb els amics +
+> freqüència d'ús a la feina en les relacions internes) / 3**, escala 1-5.
+
+| Llengua | 1995 | 1999 | 2004 | 2009 | 2014 | 2018 | 2022 |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| **Català** | **3,4** | 3,2 | 2,9 | 2,9 | 3,2 | 3,2 | 3,3 |
+| **Castellà** | 2,7 | 3,1 | **3,2** | **3,2** | 3,0 | 3,0 | 2,9 |
+| Francès | 1,4 | 1,4 | 1,4 | 1,4 | 1,3 | 1,3 | 1,3 |
+| Portuguès | 1,3 | 1,3 | 1,4 | **1,5** | **1,5** | 1,4 | 1,4 |
+
+**La distància entre català i castellà el 2022 és de 0,4 punts**, **la més gran
+des del 1995**. **Compte**: aquest és l'***indicador d'ús***, escala 1-5, **i no
+és l'*indicador lingüístic*** de la p. 40, escala 0-100, **que és el del gràfic
+defectuós** que aquest article documenta.
+
+### Els nou àmbits, les set onades, «sempre català»
+
+**L'ATENEN:**
+
+| Àmbit | 1995 | 1999 | 2004 | 2009 | 2014 | 2018 | 2022 |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Banc / assegurances / gestoria | 72,0 | 74,6 | 73,4 | 77,7 | **84,5** | 78,3 | 78,2 |
+| Administració pública | 80,5 | 82,9 | 74,7 | 82,2 | **91,5** | 62,2 | 61,2 |
+| Metge | 56,0 | 53,4 | 54,0 | 53,8 | **66,9** | 46,3 | 42,9 |
+| Botiga | 36,0 | 26,0 | 24,4 | 50,0 | **51,8** | 40,5 | 37,4 |
+| Perruqueria / barberia | **42,4** | 36,3 | 31,1 | 32,1 | 42,0 | 32,3 | 33,9 |
+| Restaurant | 34,8 | 30,0 | 21,2 | 25,0 | **35,5** | 22,7 | 22,4 |
+| Taxi / autobús | 29,4 | 24,7 | 18,2 | 26,0 | 20,4 | 20,2 | **32,6** |
+| Bar / pub / discoteca | **24,8** | 22,9 | 15,3 | 13,9 | 17,2 | 16,3 | 15,1 |
+| Grans magatzems | 12,4 | 9,6 | 9,3 | 5,5 | **15,1** | 8,6 | 10,4 |
+
+**PARLA:**
+
+| Àmbit | 1995 | 1999 | 2004 | 2009 | 2014 | 2018 | 2022 |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Banc / assegurances / gestoria | 67,2 | 67,8 | 66,4 | 69,6 | **76,7** | 74,0 | 74,1 |
+| Administració pública | 72,7 | 69,7 | 64,0 | 70,1 | **80,6** | 61,6 | 63,5 |
+| Metge | 57,6 | 50,4 | 49,6 | 51,1 | **65,7** | 46,5 | 44,4 |
+| Botiga | 46,0 | 27,4 | 25,5 | 48,7 | **53,5** | 42,3 | 43,2 |
+| Perruqueria / barberia | 42,7 | 36,9 | 30,7 | 33,7 | 42,2 | 33,4 | 35,5 |
+| Restaurant | 38,2 | 29,3 | 22,1 | 29,9 | **36,2** | 28,4 | 30,8 |
+| Taxi / autobús | 34,9 | 26,2 | 19,9 | 34,3 | 29,5 | 27,8 | **42,1** |
+| Bar / pub / discoteca | **33,2** | 23,6 | 16,7 | 20,4 | 26,0 | 20,8 | 25,9 |
+| Grans magatzems | **29,2** | 13,3 | 10,4 | 18,3 | 17,3 | 18,3 | 24,5 |
+
+**Desglossat, el 2022** (`parla → l'atenen`):
+
+| Àmbit, 2022 | Sempre cat. | Sempre cast. | Cat. i cast. | Altres |
+| --- | --- | --- | --- | --- |
+| Banc / gestoria | 74,1 → 78,2 | 16,8 → 8,6 | 6,9 → 11,6 | 2,2 → 1,6 |
+| Administració | 63,5 → 61,2 | 22,2 → 1,8 | 11,7 → 34,7 | 2,6 → 2,2 |
+| Metge | 44,4 → 42,9 | 20,5 → 14,8 | 30,0 → 36,9 | 5,1 → 5,4 |
+| Botiga | 43,2 → 37,4 | 25,3 → 20,6 | 29,4 → 38,9 | 2,0 → 3,0 |
+| Perruqueria | 35,5 → 33,9 | 50,4 → 50,7 | 7,8 → 8,7 | 6,2 → 6,7 |
+| Restaurant | 30,8 → 22,4 | 31,5 → 32,1 | 32,7 → 38,6 | 5,1 → 6,9 |
+| Taxi / autobús | 42,1 → 32,6 | 33,4 → 38,7 | 15,6 → 15,6 | 8,9 → 13,1 |
+| Bar / pub / discoteca | 25,9 → 15,1 | 39,4 → 41,7 | 29,5 → 35,8 | 5,2 → 7,3 |
+| Grans magatzems | 24,5 → 10,4 | 38,0 → 43,4 | 33,5 → 36,7 | 4,0 → 9,4 |
+
+### Les quatre coses que la setena onada estableix
+
+**1. El 2014 segueix sent el sostre.** **Amb el 2022 a la taula, el 2014 continua
+sent el màxim de tota la sèrie en sis dels nou àmbits** —banc, Administració,
+metge, botiga, restaurant i grans magatzems—; **el 1995 ho és a la perruqueria i
+al bar**, i **el taxi és l'únic àmbit el màxim del qual és el 2022**. **La
+regularitat que el corpus va registrar amb sis onades es manté amb set.**
+
+**2. L'Administració es queda al nivell nou, no torna.** **El 2022 dona 61,2 %
+d'atenció sempre en català, pràcticament igual que el 62,2 % del 2018**, i
+**aquesta és la primera onada que comparteix perímetre amb la del 2018** —tots
+dos inclouen els CAP i l'Hospital. **El que era un valor solt ara és un nivell
+sostingut per dues mesures.** **Segueix sense poder-se repartir quant de la
+caiguda és perímetre i quant és conducta** —`requereix les taules per àmbit`—,
+**però ja no es pot dir que el 62,2 % del 2018 fos un accident.**
+
+**3. Els dos pics d'«altres situacions» del 2018 es desfan.** **Al taxi
+l'atenció en cap de les dues llengües oficials passa del 21,6 % (2018) al 13,1 %
+i als grans magatzems del 20,0 % al 9,4 %.** **I al taxi, alhora, l'atenció en
+català fa el salt més gran de tot el fons: del 20,2 % al 32,6 %**, **màxim
+històric de l'àmbit.** **El corpus no sap què va passar al transport entre el
+2018 i el 2022** i ho registra com el moviment més gran i menys explicat del
+capítol. `Requereix les desagregacions de l'informe exhaustiu.`
+
+**4. El bilingüisme guanya el taulell.** **El 2022 «català i castellà» és la
+categoria més gran de l'atenció en quatre àmbits** —botiga (38,9 %), restaurant
+(38,6 %), metge (36,9 %) i grans magatzems (36,7 %)— **i a l'Administració passa
+del 31,5 % al 34,7 %**. **El 2018 només ho era al restaurant.** **La tendència
+del capítol no és que es perdi català: és que el monolingüisme d'atenció, en
+qualsevol de les dues llengües, s'està acabant.**
+
 ## Buits registrats
 
 **Això no és l'estudi.** El document ho diu de si mateix: és **«un recull
@@ -306,10 +453,15 @@ sintètic extret d'un informe més exhaustiu i detallat»** que remet a
 `www.catala.ad`. **Aquell informe no s'ha localitzat.** Les desagregacions, el
 qüestionari i les bases hi són, i el corpus no els té.
 
-**El capítol d'usos lingüístics, p. 17-37, no s'ha destil·lat.** Vint-i-una
-pàgines —llar, fills, amics, feina, atenció al públic, administració, salut,
-comerç— i és el gruix del document. Les xifres d'ús que aquesta fitxa dona
-venen **de les conclusions**, no de les taules.
+~~**El capítol d'usos lingüístics, p. 17-37, no s'ha destil·lat.** Vint-i-una
+pàgines i és el gruix del document.~~ — **`resolt` el 17-09-2026**: és ara
+[al cos d'aquest article](#el-capítol-dusos-lingüístics-destillat-pp-17-37).
+**Les xifres d'ús d'aquesta fitxa ja no venen de les conclusions sinó de les
+taules**, i **tot el back-series 1995-2018 s'ha contrastat, valor a valor, amb
+l'edició del 2018: cap discrepància.** **Amb això les quatre edicions del fons
+tenen el capítol d'usos destil·lat.** **El que segueix sense localitzar és
+l'informe exhaustiu de `www.catala.ad`**, que és on són les desagregacions, el
+qüestionari i les bases.
 
 **La discrepància del gràfic de l'indicador queda registrada, no esmenada al
 document.** El corpus la resol per a les seves pròpies taules amb el text de les
