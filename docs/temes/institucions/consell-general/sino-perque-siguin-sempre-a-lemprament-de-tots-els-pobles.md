@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: rios-urruti-andorra-1920
-timestamp: 2026-09-16T16:30:00Z
+timestamp: 2026-09-17T12:00:00Z
 tags: [consell-general, coprincipat, sobirania, domini-public, aigua, comunals, usatges, historiografia, font-primaria, prioritari]
 ---
 
@@ -287,9 +287,20 @@ català** *(p. 125)*:
 2. **L'article de Brutails *Étude historique sur la loi Stratae***, *Revue
    historique du droit français et étranger*, **1888**. **Font nova per al corpus,
    i del mateix autor que ja hi és en tres obres.**
-3. **L'usatge *Strata* en l'edició d'Abadal i Valls**, i **quina és la seva
-   numeració**: **l'exemplar dona «el Usaje 71 y 2» amb OCR defectuós i el corpus
-   no en dedueix el número.** `Registrat sense resoldre.`
+3. ~~**L'usatge *Strata* en l'edició d'Abadal i Valls**, i **quina és la seva
+   numeració**: l'exemplar dona «el Usaje 71 y 2» amb OCR defectuós.~~ —
+   **`resolt` el 17-09-2026 llegint la pàgina impresa** (p. 124, render
+   `docs/raw/llibres/rios-urruti-pages/p-132.png`). **És l'usatge 72**, i
+   **«71 y 2» no era cap numeració: era el `7` de `72` llegit com una `y`.**
+   **El corpus s'havia posat a deduir un número a partir d'un artefacte
+   d'extracció.**
+
+   **I de passada es corregeix el nom.** El text imprès diu **«llamado *Strate*
+   por la palabra con que comienza»**, i l'incipit és efectivament **«*Strate et
+   vie publice…*»**. **El buit el va registrar com a *Strata*, que no és ni el
+   que diu Ríos ni el que diu Brutails**: Brutails titula el seu article
+   ***loi Stratae***. **Tres formes del mateix nom en tres llocs**, i **només una
+   —*Strate*— és la paraula amb què l'usatge comença.**
 4. **Vives**, *Usajes y demás derechos en Cataluña*, I, p. 260; **Balari**, pp.
    319-320; **Costa**, *Colectivismo agrario*, pp. 257 i seg.; **Du Cange**,
    entrades *Bosiga* i *Scalia*. **Cap dels quatre no és al corpus.**
