@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-13T16:50:00Z
+timestamp: 2026-09-16T13:15:00Z
 tags: [economia, comerc, institucions, consell-general, antic-regim, preus, sanitat, font-primaria]
 ---
 
@@ -74,7 +74,7 @@ en una llista de dates. **És la sèrie de preus més llarga que té el corpus.*
 | 11 d'agost de 1748 | **48 rals** |
 | 13 d'agost de 1750 | 4 ll. 16 s. |
 | 18 d'agost de 1751 | 5 ll. 12 s. |
-| 27 d'agost de 1758 | *(…)* ll. 10 s. |
+| 27 d'agost de 1758 | 4 ll. 10 s. |
 | 10 d'agost de 1762 | 4 ll. 14 s. |
 | 11 de setembre de 1764 | **10 ll.** |
 | 20 d'octubre de 1765 | 6 ll. |
@@ -98,13 +98,21 @@ en una llista de dates. **És la sèrie de preus més llarga que té el corpus.*
 | **abril de 1793** | **15 ll. 12 s.** |
 | **maig de 1793** | **15 ll. 4 s.** |
 
-> **Avisos, i són tres.** **(1)** És **OCR de xifres**, i la fitxa de la font ja
-> adverteix que «les taules arrosseguen soroll»: **s'ha de comprovar contra la
-> pàgina impresa**. **(2)** Les **dues primeres entrades van en rals** i la resta
+> **Comprovada sencera contra la pàgina impresa el 16-09-2026** (p. 43, nota 3;
+> PDF 229, llegida com a imatge). **Les vint-i-cinc entrades coincideixen** i
+> **l'entrada de 1758, que havia perdut la xifra de lliures a l'extracció, és
+> `4 ll. 10 s.`** **Cap altra correcció.** **Regenerable amb**
+> `pdftoppm -f 229 -l 229 -r 300 -png docs/raw/llibres/brutails-coutume.pdf`.
+>
+> **Un avís que es manté**: les **dues primeres entrades van en rals** i la resta
 > en **lliures i sous**. **La conversió ja la té el corpus** —**10 rals = 1
 > lliura**, i per tant 33 rals = **3 ll. 6 s.** i 48 rals = **4 ll. 16 s.**— i és
-> a [les mesures i les monedes](./les-mesures-i-les-monedes.md). **(3)** L'entrada
-> de **1758 ha perdut la xifra de lliures** a l'extracció.
+> a [les mesures i les monedes](./les-mesures-i-les-monedes.md).
+>
+> **I una precisió que la pàgina impresa aporta i el corpus no tenia**: **la
+> sèrie no és de preus en general, és del *cours de la charge de blé*** —el preu
+> de la càrrega de blat— **fixat pel Consell**, i **Brutails el treu del *Manual*
+> del notari Mathias Ribot**, que diu que en conté molts més d'anàlegs.
 
 **El que sí que es veu, i es veu molt, és el 1793.**
 
@@ -181,8 +189,12 @@ s'hi aplicava. Vegeu
 
 ## Buits registrats
 
-1. **Comprovar la sèrie de preus contra la pàgina impresa.** **Prioritari**: és
-   OCR de xifres, amb dues unitats barrejades i una entrada incompleta.
+1. ~~**Comprovar la sèrie de preus contra la pàgina impresa.**~~ — **`resolt` el
+   16-09-2026** (p. 43, nota 3, llegida com a imatge). **Les vint-i-cinc
+   entrades coincideixen** i **l'entrada incompleta de 1758 queda tancada en
+   `4 ll. 10 s.`** **El que segueix obert és el *Manual* de Mathias Ribot**, que
+   segons la font conté moltes més fixacions de preu com aquestes: **el corpus
+   no l'ha vist** i **no sap on és.**
 2. ~~**La conversió entre rals i lliures/sous** a l'Andorra del set-cents, per
    poder llegir la sèrie sencera.~~ **TANCAT el 2026-09-13: deu rals fan una
    lliura.** Vegeu [les mesures i les monedes](./les-mesures-i-les-monedes.md).

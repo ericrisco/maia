@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-13T15:40:00Z
+timestamp: 2026-09-16T13:00:00Z
 tags: [economia, ramaderia, duanes, segle-xix, demografia, metode, correccio, font-primaria]
 ---
 
@@ -40,10 +40,13 @@ franquícia**, i França admetia «le tiers des existences constatées».
 | **1900** | 272 | 60 | 49 | 1.080 | 6.000 | 363 |
 | **Terç mitjà admès en franquícia** | **268** | **55** | **50** | **1.018** | **5.600** | **501** |
 
-> **Avís d'OCR.** És **una taula de xifres passada per OCR**, i la fitxa de la
-> font ja avisa que «les taules arrosseguen soroll». Les columnes són coherents
-> entre elles i amb la fila de mitjanes, però **s'han de comprovar contra la
-> pàgina impresa** abans de donar-les per definitives.
+> **Comprovada contra la pàgina impresa el 16-09-2026** (p. 8 impresa, PDF 194
+> de `docs/raw/llibres/brutails-coutume.pdf`, llegida com a imatge).
+> **Les vint-i-quatre xifres coincideixen. Cap correcció.** **L'avís d'OCR que
+> hi havia aquí queda retirat**: aquesta taula ja no és provisional.
+>
+> **Regenerable amb**
+> `pdftoppm -f 194 -l 194 -r 300 -png docs/raw/llibres/brutails-coutume.pdf`.
 
 ## Quant bestiar tenia Andorra, doncs
 
@@ -156,7 +159,12 @@ cens](../comerc/les-mateixes-besties-passaven-dues-vegades-pel-cens.md).
 
 ## Buits registrats
 
-1. **Comprovar la taula dels censos contra la pàgina impresa** de Brutails.
+1. ~~**Comprovar la taula dels censos contra la pàgina impresa** de Brutails.~~
+   — **`resolt` el 16-09-2026**: llegida la p. 8 com a imatge, **les
+   vint-i-quatre xifres coincideixen** i no calia cap correcció. **El que
+   segueix obert és la font de Brutails**: **no diu d'on treu aquests censos**
+   —ni qui els va aixecar, ni amb quin procediment—, i **sense això no se sap
+   si compten caps o declaracions.**
    **Prioritari**: és OCR de xifres.
 2. **Si la discrepància de Vilar és d'impremta o d'autor.** El corpus té el text
    de 1904 i el de 1908 i **no ha vist cap dels dos originals en paper**.
