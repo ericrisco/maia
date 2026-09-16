@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: jurisprudencia-ad
-timestamp: 2026-09-13T01:45:00Z
+timestamp: 2026-09-17T10:00:00Z
 tags: [llengua, politica-linguistica, dret-vigent, sancions, variant-andorrana, turisme]
 ---
 
@@ -177,9 +177,32 @@ registra i no ho corregeix: **buit registrat**, a comprovar contra el BOPA.
    corpus no en té cap.
 3. **El Pla d'acció nacional per la llengua** vigent.
 4. **Els informes anuals** de l'article 31: n'hi ha hagut, i què diuen.
-5. **La lletra j)** de l'article 41.7.
-6. **Qui forma la comissió de toponímia** de l'article 15 i quines grafies ha
-   fixat.
+5. ~~**La lletra j)** de l'article 41.7.~~ — **`resolt` el 17-09-2026: no
+   existeix.** **L'enumeració dels membres permanents del Consell Nacional per
+   la Llengua va a), b), c), d), e), f), g), h), i), **k)**, l)**
+   (`docs/raw/lleis/llengua-oficial.txt`). **Salta de la i a la k.**
+   **El corpus no ho arbitra**: **pot ser una errata de la Llei, una errata de
+   la consolidació, o una lletra suprimida en una modificació sense
+   renumerar.** **El que sí que registra és que el text consolidat que circula
+   té un forat**, i **que qui citi «l'article 41.7.j» estarà citant una lletra
+   que no hi és.** `Requereix el BOPA de publicació per saber de quina de les
+   tres es tracta.`
+6. ~~**Qui forma la comissió de toponímia** de l'article 15.~~ — **`resolt` el
+   17-09-2026.** **La formen «representants del Govern i dels comuns i experts
+   en la matèria»**, i **li correspon determinar la grafia dels noms oficials
+   dels territoris, dels nuclis de població, de les urbanitzacions i de les vies
+   INTERURBANES**, que proposen el Govern i els comuns.
+   **La divisió que el corpus reté**: **les vies urbanes no hi són.** **Els noms
+   dels carrers els determina cada comú pel seu compte**, només subjecte a la
+   normativa del català. **La toponímia del territori és nacional; la dels
+   carrers, comunal.**
+   **I l'abast de la decisió és més ample del que sembla**: **les denominacions
+   aprovades «són les legals dins el territori andorrà»**, i **s'hi han
+   d'ajustar la retolació, la publicitat, l'etiquetatge i la documentació de les
+   administracions, les empreses i les persones jurídiques.** **Fixar una grafia
+   obliga el sector privat.**
+   **Segueix obert quines grafies ha fixat**, que no és a la Llei: `requereix
+   les disposicions de la comissió`.
 7. **Què es va fer de l'article 7** des del 2024: si hi ha hagut cap estudi o cap
    mesura de protecció de la variant andorrana. **Aquest corpus, de fet, és una
    resposta possible a aquell article.**
