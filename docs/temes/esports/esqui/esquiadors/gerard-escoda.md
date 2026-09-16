@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: wikipedia-esquiadors-andorrans
-timestamp: 2026-09-13T09:26:00Z
+timestamp: 2026-09-17T19:30:00Z
 tags: [esports, esqui, jocs-olimpics]
 ---
 
@@ -67,7 +67,20 @@ delegació d'hivern d'Andorra dels anys noranta són, en gran part, ells tres.**
   del 92. — **`obert`, confirmat**: **el bolcat és d'una línia i no esmenta cap
   desqualificació.**
 - **Copes del Món i campionats del món**: cap dada. — **`obert`, confirmat.**
-- **Quan va plegar i què fa ara.** — **`obert`, confirmat.**
+- **Quan va plegar i què fa ara.** — **`parcial` el 17-09-2026**, amb la fitxa
+  de la [FIS](../../../../fonts/fis-ski-db.md) **llegida dues vegades i
+  coincident les dues**: **«not active»**, i **el darrer registre que hi consta
+  és un eslàlom a Chamrousse (França) el 27 de març del 1999, amb DNF.**
+  **L'any de naixement hi quadra amb el del corpus: 1970.**
+
+  **Dues precisions que el corpus no vol perdre.** **La primera**: **un DNF no
+  és un resultat, és una cursa no acabada**, de manera que **el que la data fixa
+  és l'última vegada que va PRENDRE la sortida**, no l'últim cop que va acabar.
+  **La segona**: **entre els seus últims Jocs (1998) i aquesta sortida només hi
+  ha un any**, cosa que **encaixa amb una retirada cap al 1999** i **no ho
+  demostra**.
+
+  **Segueix obert «què fa ara»**: `requereix una font biogràfica, no esportiva.`
 - ~~**On va néixer**~~ — **`resolt`: ESCALDES-ENGORDANY, 8 de setembre del
   1970.** **I el bolcat confirma els QUATRE Jocs —1988, 1992, 1994 i 1998—**,
   que el fan, **amb [Vicky Grau](./vicky-grau.md) i
