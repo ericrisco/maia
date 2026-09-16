@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-23T19:00:00Z
+timestamp: 2026-09-16T16:00:00Z
 tags: [justicia, dret-penal, procediment, execucio, policia-rural, jurisdiccio-eclesiastica, coprincipat, segle-xviii, lexic, font-primaria, prioritari]
 ---
 
@@ -266,12 +266,26 @@ sí.**
 2. **Si «reservar **al pages** lo parell de llaurar» limita la protecció als
    pagesos** o **és una designació genèrica.** **El corpus no ho afirma.**
 3. **Què era la ***ressenya* o *mostra d'armes*** de les parròquies: **cada quan
-   es feia, qui hi havia d'anar i amb què.** **Prioritari**: **és el dia en què
-   es donava la instrucció de policia, i el corpus no en té la institució.**
+   es feia, qui hi havia d'anar i amb què.** — **`obert`, confirmat el
+   16-09-2026 sobre la peça mateixa** (p. LIII, PDF 73). **La *Instructa* la
+   nomena i no la defineix**: diu que als oficials de justícia se'ls manarà
+   observar allò «**en lo dia de les ressenyes o mostras de armas**», **i res
+   més.** **No és un buit d'extracció ni de lectura: la font no en dona la
+   institució.** **`Requereix ordinacions de milícia o actes de consell`**, no
+   aquest volum.
 4. **Què eren exactament un ***capità*** i un ***desener***** dins la milícia
    parroquial, **i com es nomenaven.** **`parcial`**: **ara se'n coneixen les
    funcions de policia i no l'organització.**
 5. **Si es va aplicar mai la captura de qui exercís jurisdicció sense tenir-la.**
+   — **`obert`, confirmat el 16-09-2026** (p. LIII, PDF 73). **La peça en dona
+   la regla i cap cas**: si els batlles troben «**alguna persona que sens tenir
+   jurisdicsio dins les presents Valls la exercesque en ellas**», **seran
+   promptes a la captura** i n'informaran els veguers.
+   **I la pàgina en dona una de germana que el corpus reté**: davant d'un
+   requeriment de captura, **fins i tot d'una persona estrangera**, el batlle
+   l'executa **però «de ninguna manera» entrega la persona capturada**: la posa
+   **en custòdia amb guardes de la terra, a despeses de qui l'ha requerida**.
+   **Detenien per a altri i no lliuraven a ningú.**
    **El corpus té la norma i cap cas.**
 6. **Si el Vicari General d'Urgell conserva causes de seducció andorranes.**
    **Prioritari**: **és una jurisdicció sencera sobre matèria andorrana de la qual

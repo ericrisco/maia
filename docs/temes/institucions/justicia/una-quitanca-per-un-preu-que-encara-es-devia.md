@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-19T04:30:00Z
+timestamp: 2026-09-16T16:00:00Z
 tags: [justicia, notariat, venda, arres, contraban, evicció, batlle, segle-xvi, segle-xviii, segle-xix, font-primaria, prioritari]
 ---
 
@@ -224,9 +224,21 @@ curadors.**
 
 1. **Les sentències del 17-10-1885, 14-05-1886 i 14-05-1892**, senceres, i **de qui
    eren les finques.**
-2. **La *Instructa* als batlles**, **peça justificativa p. LIV del mateix volum**,
-   **que el corpus encara no ha llegit.** **A l'abast**, i **ja hi ha sortit dues
-   vegades** —els vicis redhibitoris aquí, i els contractes de bestiar del 1740.
+2. ~~**La *Instructa* als batlles**, **peça justificativa p. LIV del mateix
+   volum**, **que el corpus encara no ha llegit.**~~ — **`resolt` el 16-09-2026**
+   (PDF 74). **La rúbrica és *Coses de vendes en lo dret civil* i la regla és
+   aquesta, literal**: si la cavalcadura té una tara **externa i visible** —«**un
+   bony en alguna part, ossos trencats, faltas en les dents o en los ulls, com
+   sie cosa que se pugue veurer**»— **la venda no s'irrita**; si té un vici
+   **intern i notable**, **«fa invalido lo contracte»** i **el batlle rescindeix,
+   obligant a tornar la bèstia i a restituir «les arres o la paga»**.
+   **El criteri no és la gravetat del defecte: és si es podia veure.** **El que
+   el comprador podia comprovar, se'l queda; el que no es veia, desfà la venda.**
+   **I la mateixa pàgina dona la tarifa del batlle**, que el corpus no tenia:
+   **5 sous** de dieta d'una parròquia a una altra —**i igual per al notari**—,
+   **5 sous per cada verbal**, **1 sou de penyorar**, **1 sou i 6 diners de
+   lliurar o de signar penyores i de la intima**, i **5 sous de l'empara** i de
+   firmar una publicació de béns per anar a l'encant.
 3. **Quina era la indemnització per desdir-se havent donat arres.** **La font diu
    que el costum és vague i que «potser» és l'import de les arres.** **Sense
    resoldre.**
