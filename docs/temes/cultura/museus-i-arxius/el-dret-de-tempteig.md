@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: jurisprudencia-ad
-timestamp: 2026-09-17T09:15:00Z
+timestamp: 2026-09-17T09:30:00Z
 tags: [cultura, patrimoni, dret, institucions, parroquies, propietat]
 ---
 
@@ -81,5 +81,21 @@ expliquen els articles d'arquitectura i patrimoni construït del corpus.
   obligació de suport a qui el practica.** **La llei protegeix els mobles
   comprant-los i els immaterials finançant les entitats que els mantenen
   vius.**
-- **El patrimoni arqueològic i les troballes casuals** —qui és propietari del que
-  apareix cavant— **no s'ha comprovat** en aquesta lectura.
+- ~~**El patrimoni arqueològic i les troballes casuals** —qui és propietari del
+  que apareix cavant— **no s'ha comprovat**.~~ — **`resolt` el 17-09-2026**
+  (`docs/raw/lleis/patrimoni-cultural.txt`). **La resposta és tallant: ningú.**
+  **El producte de les intervencions arqueològiques i paleontològiques i les
+  troballes casuals «es consideren de domini públic»** i **s'han de posar a
+  disposició del ministeri**, que els destina a un museu o centre adequat.
+  **Però hi ha compensació, i és generosa**: **qui ho descobreix i qui és amo
+  del terreny tenen dret, cadascun, a una quarta part del valor dels béns** —i
+  **si n'hi ha més d'un de cada, es reparteixen la seva quarta.** **La meitat
+  del valor se'n va, doncs, als particulars, i l'objecte no.**
+  **I hi ha una exclusió que és tota la lògica de la norma**: **no són troballes
+  casuals les que resulten d'una intervenció arqueològica, «tant si són
+  autoritzades com si són il·legals».** **Qui excava no cobra**, ni amb permís
+  ni sense. **La compensació premia l'atzar, no la cerca.**
+  **Amb el deure que hi va lligat**: **trobar restes obliga a aturar l'obra des
+  del primer indici** i a comunicar-ho, i **si la suspensió passa de dos mesos i
+  el promotor és privat, té dret a indemnització**; **el ministeri ha de
+  resoldre en sis mesos com a màxim.**
