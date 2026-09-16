@@ -59,6 +59,11 @@ impost sobre estades turístiques, seguretat de les xarxes, representació digit
 d'actius, protecció en matèria d'habitatge, Estatut de l'Artista, accés
 electrònic a la justícia, sancions internacionals i sectors agroramaders.
 
+> **Dues d'aquestes normes ja tenen fitxa pròpia al corpus**: **la de sancions
+> internacionals** ([vigilar i sancionar](../../economia/comerc/vigilar-i-sancionar.md))
+> i, del 2021, **la de cooperació judicial internacional en matèria penal**
+> ([els comisos sempre s'efectuen en benefici de l'Estat andorrà](../relacions-exteriors/els-comisos-sempre-en-benefici-de-lestat-andorra.md)).
+
 **Un país de 80.000 habitants reescrivint-se l'administració en dotze mesos.**
 
 ## La capa que no porta any: l'esquelet

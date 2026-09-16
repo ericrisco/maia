@@ -72,6 +72,49 @@ Qui en sigui objecte està **obligat a aplicar les restriccions** i a facilitar
 informació als òrgans de control (article 4), i incomplir-ho obre **expedient
 sancionador** sense perjudici del penal (article 7).
 
+## La llei germana, llegida sencera — 15-09-2026
+
+**La peça del 2021 que hi ha darrere d'aquesta del 2022 ja és al corpus**: la
+**Llei 32/2021 de cooperació judicial internacional en matèria penal**, **40
+articles**
+([els comisos sempre s'efectuen en benefici de l'Estat andorrà](../../institucions/relacions-exteriors/els-comisos-sempre-en-benefici-de-lestat-andorra.md)).
+
+**Les dues dibuixen el mateix país des de dos costats**: **la del 2022 deixa que
+el Govern apliqui sancions per decret**, **la del 2021 deixa que un jutge
+estranger arribi als comptes d'aquí** —**i totes dues reserven una sortida per
+l'interès nacional**: la del 2022 en forma d'excepció al decret, la del 2021 en
+forma de condició prèvia (article 4.h, «que la comunicació no perjudiqui la
+sobirania, la seguretat, l'ordre públic o altres interessos essencials del
+Principat»).
+
+## El que aquesta fitxa no diu de la Llei 5/2022
+
+**Afegit el 15-09-2026, després de llegir-ne els vuit articles sencers.** El cos
+d'aquesta fitxa cobreix els articles 1 a 4 i 7. **El règim sancionador i la
+publicitat, no:**
+
+- **Article 5**: **el mateix decret que imposa la mesura pot encomanar-ne el
+  control a altres institucions públiques.** **L'òrgan de control es tria cas per
+  cas.**
+- **Article 6**: els òrgans de control **poden cooperar amb autoritats
+  estrangeres** i **les dades intercanviades només es poden tractar per a les
+  finalitats d'aquesta Llei.**
+- **Article 7.1**: **si existeix un règim sancionador sectorial, l'incompliment
+  «és considerat molt greu»** — **la llei no gradua: imposa la categoria
+  màxima.**
+- **Article 7.2**: **si no hi ha normativa sectorial, multa de fins a
+  1.000.000 €**, graduada per la gravetat, **pel guany obtingut** o **pel
+  perjudici reputacional ocasionat a l'Estat**. **La reputació de l'Estat és un
+  criteri legal per fixar l'import d'una multa.**
+- **Article 7.3**: **els incompliments prescriuen als tres anys.**
+- **Article 8**: **el decret ha de portar un annex amb el nom de la persona o
+  entitat i una breu motivació**, i **el recurs es presenta davant del mateix
+  Govern** que ha dictat la mesura, en els termes del Codi de l'Administració.
+
+**El criteri del «perjudici reputacional» és la peça que no s'endevina**, i és
+coherent amb un país la banca del qual viu de la seva homologació
+([el cas BPA](../banca-i-fiscalitat/el-cas-bpa.md)).
+
 ## Buits registrats
 
 - **Quantes empreses de seguretat privada hi ha inscrites**, no consta.
