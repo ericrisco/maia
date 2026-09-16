@@ -7,7 +7,7 @@ veu: originaria
 epoca: contemporania
 apte_llengua: true
 font: consell-general-constituent
-timestamp: 2026-09-16T18:45:00Z
+timestamp: 2026-09-17T18:00:00Z
 tags: [parla, testimoni, historia-oral, constitucio-1993, encamp, marcadors-discursius, transcripcio-no-verificada]
 ---
 
@@ -1502,7 +1502,12 @@ batejar una llei.
    i podria ser mal sentit.
 4. **`[?aminitat]`** és *unanimitat*; **`[?copríncipes]`** és forma castellanitzada
    i **no se sap si és seva o de la màquina**.
-5. **De la persona no consta** ni generació, ni llengua primera, ni ofici.
+5. **De la persona no consta** ni generació ni llengua primera. — **L'ofici,
+   `resolt` el 17-09-2026**: el README de la peça a `docs/raw/parla/cg-constituent-reig/`
+   la identifica com a **consellera general**, i el mateix article ja ho pressuposa
+   quan diu que és «un càrrec públic electe». **Era al material de partida i el buit
+   el demanava igualment.** **Generació, origen i llengua primera segueixen oberts**:
+   `requereix el Consell General, que va fer l'enregistrament`.
 6. ~~**`sigut` segueix sense contrastar amb català no andorrà.**~~ — **`resolt`
    el 16-09-2026: no és un tret andorrà.** **Al
    [DIEC2](../../fonts/diec2.md) la consulta de `sigut` resol a l'entrada
