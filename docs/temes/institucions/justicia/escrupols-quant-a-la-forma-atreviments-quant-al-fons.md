@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-17T20:00:00Z
+timestamp: 2026-09-16T20:00:00Z
 tags: [justicia, notariat, dret, arxius, consell-general, credit, antic-regim, segle-xviii, segle-xix, font-primaria, prioritari]
 ---
 
@@ -307,8 +307,21 @@ Tres coses que aquesta taula diu i que no s'endevinen:
    diuen que sí i els pràctics que no**, i **la font no ho tanca**.
 7. **La sentència del 27 de novembre de 1868**: **la data porta un interrogant de
    l'autor mateix.**
-8. **Què era exactament la *curia*** el despatx del notari, i **si el mot tenia
-   també el sentit de tribunal**. La font l'usa com a sinònim de *étude*.
+8. ~~**Què era exactament la *curia***, i **si el mot tenia també el sentit de
+   tribunal**.~~ — **`resolt` el 16-09-2026** ([DCVB](../../../fonts/dcvb.md)):
+   **sí que el tenia, i és el sentit principal.** L'entrada `CÚRIA` dona **«cort
+   de justícia, tribunal»**, amb una atestació de 1650 que parla de la «cúria
+   ecclesiàstica», i abans els sentits romans —la divisió de la tribu i la cort
+   del príncep.
+   **Això vol dir que quan la font l'usa com a sinònim d'*étude* —el despatx del
+   notari— no està fent servir un mot de notaria: està fent servir un mot de
+   tribunal.** **I el corpus ho lliga amb el que ja té**: **el notari andorrà
+   escrivia dins d'una *cúria*** —les escriptures s'inscrivien «**en los llibres
+   dels tersos de las Curias**»
+   ([dotze renúncies](../../economia/banca-i-fiscalitat/dotze-renuncies-en-una-sola-escriptura.md))—
+   **i el batlle hi tenia la seva.** **El despatx i el tribunal es deien igual
+   perquè eren la mateixa institució vista per dues bandes.**
+   **El corpus no afirma que fossin el mateix local**: això la font no ho diu.
 9. **Si hi havia a Andorra una hipoteca general positiva**, o si se sobreentenia.
    **La font planteja la pregunta i declara que no té resposta.**
 

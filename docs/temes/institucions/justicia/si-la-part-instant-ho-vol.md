@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-16T16:00:00Z
+timestamp: 2026-09-16T20:00:00Z
 tags: [justicia, dret-penal, procediment, execucio, policia-rural, jurisdiccio-eclesiastica, coprincipat, segle-xviii, lexic, font-primaria, prioritari]
 ---
 
@@ -290,8 +290,18 @@ sí.**
 6. **Si el Vicari General d'Urgell conserva causes de seducció andorranes.**
    **Prioritari**: **és una jurisdicció sencera sobre matèria andorrana de la qual
    el corpus no té ni un sol expedient.** `Requereix l'Arxiu Diocesà d'Urgell.`
-7. **Què vol dir «*averia de carrey*»** i **si es distingia sempre de «*lo
-   parell de llaurar*»**. `Requereix comprovació lexicogràfica.`
+7. ~~**Què vol dir «*averia de carrey*»**~~ — **`resolt` el 16-09-2026**
+   ([DCVB](../../../fonts/dcvb.md)). **`averia`** hi és com a **«bèstia de
+   treball, sia cavallina, sia bovina»**, i també com a «animal de peu rodó» i
+   «bestiar boví», segons les comarques; **`carreig`** és **«acte i efecte de
+   carrejar»**. **Per tant l'*averia de carrey* és la bèstia de tir que serveix
+   per traginar**, i **el *parell de llaurar* és la parella que llaura**:
+   **dues funcions, no dues espècies.** **El mateix animal podia fer les dues
+   coses**, i **el que la *Instructa* protegeix són les dues funcions alhora**,
+   no un nombre de caps.
+   **Segueix obert si la distinció es mantenia sempre**, que és la segona meitat
+   de la pregunta: **el corpus té una sola atestació de la parella de termes** i
+   **no pot dir si algun acte n'embarga una i deixa l'altra.**
 8. **Si el manuscrit de M. Palmitjavila** —**que segueix sense llegir-se**—
    **tracta els mateixos punts.** **A diferència de la *Instructa*, aquest sí que
    és un buit real del corpus.**

@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-24T03:00:00Z
+timestamp: 2026-09-16T20:00:00Z
 tags: [economia, censals, credit, fiances, notariat, esglesia, herencies, antic-regim, segle-xviii, font-primaria, prioritari]
 ---
 
@@ -239,10 +239,22 @@ comptar.**
 
 ## Buits registrats
 
-1. **Els «*llibres dels tersos de las Curias*»**, **on s'inscrivien aquestes
-   escriptures.** **Prioritari**: **seria una sèrie sencera de contractes
-   andorrans garantits, i el corpus no en té cap.**
-   `Requereix l'Arxiu Nacional o les corts.`
+1. **Els «*llibres dels tersos de las Curias*»** — **la sèrie segueix sense
+   veure's, però el 16-09-2026 se sap què hi anava i se'n té el formulari.**
+   **El mot**: el [DCVB](../../../fonts/dcvb.md) remet `ters` a **`terç`**, i
+   **l'*escriptura de terç* és l'instrument pel qual les parts se sotmetien a la
+   jurisdicció del batlle sota pena de terç.**
+   **I el corpus ja en té la fórmula**, sense haver-la anat a buscar: **la peça
+   justificativa XX de *La Coutume d'Andorre*** (pàgina XXXIX, PDF 63) **acaba
+   amb aquestes paraules**: «**subjectantse a for y jurisdiccio dels honorables
+   Batlles de les presents Valls de Andorra y del altre de ells, y fent y
+   firmant escriptura de ters en los llibres corresponents, y ab jurament**».
+   **Per tant els llibres dels tersos són els registres on cada contracte
+   deixava constància d'aquesta submissió**, i **el que hi hauria és exactament
+   el que aquest buit deia: una sèrie de contractes andorrans garantits.**
+   **El buit no es tanca** —**la sèrie no s'ha vist**— **però deixa de ser una
+   pregunta i passa a ser una petició concreta**: `requereix l'Arxiu Nacional o
+   les corts`, **i ara se sap quin tipus de document s'hi busca.**
 2. **El testament del 10 de juny de 1770** atorgat en poder del mateix Reverend
    Salvador Areny, **i si la pràctica que el marmessor col·loqui a censal els
    diners de la marmessoria era regulada.** **La font no hi fa cap comentari.**
