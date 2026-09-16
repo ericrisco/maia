@@ -7,7 +7,7 @@ veu: originaria
 epoca: contemporania
 apte_llengua: true
 font: ari-capsules
-timestamp: 2026-09-13T21:45:00Z
+timestamp: 2026-09-16T19:45:00Z
 tags: [parla, testimoni, pagesia, eines, lexic-marcat, canillo, transcripcio-no-verificada]
 ---
 
@@ -183,6 +183,17 @@ diferents i totes dues es resolen escoltant**, no raonant.
    `[?armats]` → probablement **ramats** (00:02:32); `[?tallalles]` →
    probablement **dallaires** (00:06:38); `[?bacanyà]` → probablement **bacallà**
    (00:02:53). **No s'han corregit.**
+   — **Contrastats amb el [DCVB](../../fonts/dcvb.md) el 16-09-2026, i dos
+   guanyen suport.** **`euga`** hi és, remetent a `egua`: **la forma existeix i
+   no cal suposar error.** **I `dallaire` hi és amb una dada que el corpus no
+   tenia i que val per ella mateixa**: **el DCVB en dona la pronúncia
+   `daʎáјɾe` explícitament per a Andorra**, al costat de la Ribagorça, el
+   Pallars, el Pla d'Urgell i la Ribera d'Ebre, **i la separa de la `dəʎáјɾə`
+   del Rosselló, Barcelona, el Penedès i Tarragona.**
+   **Això no confirma què va dir el parlant** —segueix fent falta l'escolta—
+   **però sí que situa la forma esperable a Andorra**, i **és la primera vegada
+   que el corpus té una pronúncia andorrana documentada per a un mot d'ofici.**
+   `Requereix la branca de fonètica.`
 3. **Sense lectura de cap mena**: `[?faça]` (00:01:56, «abans dels treballs de
    ???»), `[?bun]` (00:08:04, «un ??? d'herba»), `[?Madreta]` (00:01:09, un dit
    de la mà), «sobre l'anglera» (00:11:52).

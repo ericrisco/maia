@@ -7,7 +7,7 @@ veu: originaria
 epoca: contemporania
 apte_llengua: true
 font: ari-capsules
-timestamp: 2026-09-14T03:10:00Z
+timestamp: 2026-09-16T19:45:00Z
 tags: [parla, danses, contrapas, vestit-tradicional, lexic-marcat, transcripcio-no-verificada]
 ---
 
@@ -306,8 +306,13 @@ està verificada contra l'àudio.**
 1. **Les 197 marques no s'han verificat.**
 2. **`esbar` i `ar` no són evidència fonètica.** Veure sobre. **No s'han de citar
    com a pronúncia documentada.**
-3. **`[?pobilla]`** seria interessant —*pubilla* amb **o**— i és **dubtosa**. No
-   es reclama.
+3. **`[?pobilla]`** — **`obert`, i el 16-09-2026 contrastat: no és forma
+   documentada.** **El [DCVB](../../fonts/dcvb.md) no té cap entrada `pobilla`**,
+   i **el corpus escriu *pubilla* onze vegades**. **Per tant, o és una realització
+   del parlant que el diccionari descriptiu no recull, o és la màquina.**
+   **Amb una sola ocurrència i sense escolta, el corpus no ho decideix** i
+   **manté que no es reclama com a tret andorrà.** **Es tanca escoltant**, com
+   la resta de marques d'aquesta peça.
 4. **Els noms propis cauen**: `mestre [?Orelleta]`, `esbar d'en [?Saire]` (que és
    *Esbart Dansaire*), `[?Vars] Santana` i `[?Vall] de [?Santana]` per *Ball de
    Santa Anna*, `la [?Marratxa]`. **Cap no s'ha verificat.**

@@ -7,7 +7,7 @@ veu: originaria
 epoca: contemporania
 apte_llengua: true
 font: ari-capsules
-timestamp: 2026-09-14T04:25:00Z
+timestamp: 2026-09-16T19:45:00Z
 tags: [parla, cases, ordino, patrimoni, lexic-marcat, possiblement-llegida, transcripcio-no-verificada]
 ---
 
@@ -385,5 +385,14 @@ campanes, i val la pena dir-ho: **no totes les tandes de tema donen collita**.
 4. **`Calpal`** hauria de ser **Cal Pal**, dues paraules. La màquina l'ajunta
    sempre, i és **el tercer topònim andorrà que parteix o ajunta malament**,
    després de *en Gordany* (tanda 2) i *Comú d'en Camp* (tanda 13).
-5. **`[?escoter]`** com a cognom de la família **no s'ha verificat**.
+5. **`[?escoter]`** com a cognom de la família — **`parcial` el 16-09-2026.**
+   **El [DCVB](../../fonts/dcvb.md) documenta `ESCOTER` com a llinatge**, i
+   l'enumera a Belianes, els Omells, Alcover, Barberà, l'Espluga, Figuerola,
+   Montbrió, Rojals, Tarragona i el Campello; **i com a ofici**, «teixidor
+   d'escot», a Mallorca. **Per tant el cognom existeix i la lectura de la
+   màquina és plausible.**
+   **El que NO acredita el diccionari és Andorra**: **cap de les localitats que
+   enumera no hi és**, i **el corpus no té cap altra atestació d'aquest llinatge
+   a les Valls.** **El buit es tanca de debò amb un document de casa**:
+   `requereix el capbreu o els protocols de la Massana`.
 6. **De la persona no consta res**: ni si és d'Ordino, ni generació, ni ofici.
