@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-17T11:00:00Z
+timestamp: 2026-09-16T15:30:00Z
 tags: [justicia, dret, notariat, lexic, antic-regim, segle-xviii, segle-xix, font-primaria, prioritari]
 ---
 
@@ -179,9 +179,13 @@ amb autor. El corpus les registra com a seves.`
 
 ## Buits registrats
 
-1. **La peça justificativa núm. XXIII**, *Autre vente à réméré combinée avec bail
-   (1875 environ)*, **p. XLIII**. **És al fitxer que el corpus té.** `obert,
-   localitzat, unitat pendent.`
+1. **La peça justificativa núm. XXIII**, *Autre vente à réméré combinée avec
+   bail (1875 environ)*, **p. XLIII**. — **CORRECCIÓ del 16-09-2026: NO és al
+   fitxer que el corpus té.** **La pàgina XLIII falta a l'exemplar
+   digitalitzat**, juntament amb la XLII, la XLVI i la XLVII. **La citació que
+   aquesta fitxa reprodueix a la taula ve del cos de l'obra, no de la peça**, i
+   **el text sencer de la peça segueix sense llegir**: `requereix un altre
+   exemplar del volum`.
 2. **Les fórmules del notari Soldevila** als actes del **13 d'abril i 19 d'octubre
    de 1788**, **peces justificatives pp. XXI i XXXV**. `obert, localitzat.`
 3. **L'acte del 12 de març de 1788**, sencer. **Sense signatura d'arxiu a la

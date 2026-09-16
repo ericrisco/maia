@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-19T09:30:00Z
+timestamp: 2026-09-16T15:30:00Z
 tags: [banca-i-fiscalitat, carta-de-gracia, credit, calendari, notariat, fadiga, procediment, segle-xviii, font-primaria, prioritari]
 ---
 
@@ -158,9 +158,23 @@ ho diu ella mateixa i hi posa una xifra:**
    criteri del jutge.** **Amb això el càlcul no es pot fer.**
 2. **Cap sentència que apliqui aquella indemnització.** **El corpus té la regla i
    cap cas.**
-3. **La peça justificativa p. XL** *(acte del 15 de juny de 1788)* del mateix volum,
-   **que és on la font remet per a la finestra del 18 de març al 2 d'abril.** **A
-   l'abast i no llegida.** **Prioritària**: és la prova documental de la data.
+3. ~~**La peça justificativa p. XL** *(acte del 15 de juny de 1788)*, **que és on
+   la font remet per a la finestra del 18 de març al 2 d'abril.**~~ — **`resolt`
+   el 16-09-2026** (PDF 64 de `docs/raw/llibres/brutails-coutume.pdf`). **La
+   clàusula hi és, literal**: «**que nos altres dits venedors no pugam quitar
+   dits dos trossos de prat sino vuit antes o vuit dias despues de
+   Nostra-Senyora de mars de quiscun any**».
+   **La finestra no està escrita en dates: està escrita en una festa i vuit
+   dies a cada banda.** **La Mare de Déu de març és l'Anunciació, el 25**, i
+   **d'aquí surten el 17-18 de març i el 2 d'abril** que aquesta fitxa
+   calculava. **El corpus reté la diferència**: **el document no diu «del 18 de
+   març al 2 d'abril»**, diu **vuit dies abans i vuit després d'una festa**, i
+   **qui l'havia de complir comptava a partir del calendari litúrgic, no d'un
+   número.**
+   **La peça aporta a més el preu i el pacte**: la venda i transportació és de
+   **quaranta-quatre lliures i setze sous** barcelonesos, i **la finestra s'hi
+   afegeix com a «pacte novament añadit»** sobre un acte de retrovenda anterior
+   —o sigui que **no venia del contracte original.**
 4. **Quantes vendes a carta de gràcia portaven finestra de rescat** i **quantes no.**
    **La font diu «sovint» i no compta.**
 5. **El conflicte sobre les notes marginals d'anul·lació**: **la font hi remet i el

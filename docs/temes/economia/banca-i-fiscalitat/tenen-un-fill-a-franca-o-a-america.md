@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-19T05:30:00Z
+timestamp: 2026-09-16T15:30:00Z
 tags: [banca-i-fiscalitat, carta-de-gracia, credit, casa, emigracio, usura, notariat, judicacio, segle-xv, segle-xviii, segle-xix, font-primaria, prioritari]
 ---
 
@@ -249,9 +249,20 @@ gràcia es presumeix simulada quan el venedor resta en possessió de la finca.**
    taxació prèvia**. **El corpus en té l'altra obligació** —la presentació anual de
    minutes— **i sap que aquella «és sense efecte».**
 3. **El decret del Consell General del 12 de desembre de 1888**, sencer.
-4. **Les peces justificatives p. XXXIX (venda del 15-06-1788), p. XLI (18-12-1788) i
-   p. XLIII (venda de cap al 1875 sense taxació)** del mateix volum, **que el corpus
-   encara no ha llegit.** **A l'abast.**
+4. **Les peces justificatives p. XXXIX, p. XLI i p. XLIII.** — **`parcial` el
+   16-09-2026: dues llegides, una inexistent.**
+   **p. XXXIX** (PDF 63): **hi comença la peça XXI, *Vente à réméré* del 15 de
+   juny de 1788**, entre **Martí M. àlies P. i Maria M. àlies P., cònjuges de la
+   Massana**, i **Joseph M. àlies S., pagès del lloc d'Ers**, amb pacte de gràcia
+   de redimir.
+   **p. XLI** (PDF 65): **hi acaba la XXI —davant del notari Ignasi Soldevila— i
+   hi comença la XXII, *Vente à réméré combinée avec un bail au profit du
+   vendeur*, del 18 de desembre de 1788**, de **Domingo T., pagès d'Ansalonga,
+   parròquia d'Ordino**, que hi entra «**per desahogo de las mias obligacions**».
+   **p. XLIII**: **no existeix a l'exemplar digitalitzat.** **La venda de cap al
+   1875 sense taxació —peça XXIII— queda il·legible**, i el buit passa a
+   **`requereix un altre exemplar del volum`**. Vegeu
+   [quatre pàgines que no hi són](./quatre-pagines-que-no-hi-son.md).
 5. **Si la presumpció catalana de simulació** —venedor que resta en possessió—
    **s'aplicava a Andorra.** **La font enuncia les dues coses i no les confronta.**
 6. **Quants casos de tornada a la massa hi va haver** per venda sense taxació.

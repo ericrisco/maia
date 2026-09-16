@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-17T19:00:00Z
+timestamp: 2026-09-16T15:30:00Z
 tags: [justicia, notariat, dret, consell-general, coprincipat, antic-regim, segle-xix, font-primaria, prioritari]
 ---
 
@@ -277,9 +277,12 @@ cuant se ha reclamat*»—, **27 de maig** i **21 de novembre de 1893**.
 1. **Qui va guanyar el plet del *cancellar***, i **què diuen els decrets del 27 de
    maig i del 21 de novembre de 1893**. La font en cita un i **només n'anomena
    dos**.
-2. **La peça justificativa XXIII** de *La Coutume d'Andorre*, en text: **la venda
-   de l'andorrà domiciliat a França feta «segons afirma»**. **És un lead registrat
-   i encara no obert.**
+2. **La peça justificativa XXIII** de *La Coutume d'Andorre*, en text: **la
+   venda de l'andorrà domiciliat a França feta «segons afirma»**. — **`obert`, i
+   el 16-09-2026 se'n sap el motiu**: **la peça és a la pàgina XLIII, que no
+   existeix a l'exemplar digitalitzat que el corpus té.** **No és un lead sense
+   obrir: és un lead que aquest exemplar no pot obrir.**
+   `Requereix un altre exemplar del volum.`
 3. **El lligall 13 dels Arxius de l'Arieja, Andorra** —el del cas de 1882 del
    bisbe contra el notari francès. El corpus ja té obert **el lligall 2** per
    [altres casos](./nul-per-al-jutge-valid-per-a-la-consciencia.md).

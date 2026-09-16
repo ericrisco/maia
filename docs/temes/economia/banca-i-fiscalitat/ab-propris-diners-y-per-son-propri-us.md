@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-19T08:30:00Z
+timestamp: 2026-09-16T15:30:00Z
 tags: [banca-i-fiscalitat, carta-de-gracia, credit, propietat, batlle, monedes, segle-xvi, segle-xviii, segle-xix, font-primaria, prioritari]
 ---
 
@@ -205,8 +205,19 @@ part d'hort que Z ja té, sinó sobre la resta dels béns.**
    quina forma tenien.** **Un dret real conferit per escriptura privada.**
 4. **L'equivalència de 25 unces per 400 duros**: **si val per a tot el segle XIX o
    només per a aquella data.** `Requereix una sèrie de canvis.`
-5. **La peça justificativa p. XLV** *(cessió de retracte del 10 d'agost de 1788)*
-   del mateix volum. **A l'abast i no llegida.**
+5. **La peça justificativa p. XLV** *(cessió de retracte del 10 d'agost de
+   1788)*. — **`parcial` el 16-09-2026, i el «a l'abast» era fals.** **Llegida
+   la p. XLV** (PDF 67): **la peça XXV, *Cession d'un droit de réméré*, del 10
+   d'agost de 1788, només hi COMENÇA** —hi consten la rúbrica, la data i
+   l'encapçalament «*Dia 10 del mes de agost, any, &c., de 1788, en la vila de
+   Andorra, &c.*»— **i el cos segueix a la pàgina XLVI, que NO és a l'exemplar
+   digitalitzat.** **És una de les quatre pàgines que hi falten**, vegeu
+   [quatre pàgines que no hi són](./quatre-pagines-que-no-hi-son.md).
+   **Aquesta peça no es pot llegir amb el material que el corpus té**, i el buit
+   passa de «no llegida» a **`requereix un altre exemplar del volum`**.
+   **El que sí que dona la p. XLV** és el final de la peça XXIV, un **augment de
+   preu de vint-i-cinc lliures i sis diners** sobre una venda anterior, **amb la
+   fórmula «los vench de nou»** i el notari **Ignasi Soldevila**.
 6. **Com acaba la frase sobre l'ordre lògic i cronològic** a la p. 210, nota 1:
    **el corpus n'ha llegit el principi i l'exemple i no el desenllaç.**
 7. **Quantes vendes portaven la clàusula «*ab propris diners*»**, i **si era pacte

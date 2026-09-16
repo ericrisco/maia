@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-19T06:30:00Z
+timestamp: 2026-09-16T15:30:00Z
 tags: [banca-i-fiscalitat, carta-de-gracia, credit, agricultura, batlle, judicacio, calendari, segle-xviii, segle-xix, font-primaria, prioritari]
 ---
 
@@ -221,8 +221,16 @@ l'adquirent per les reparacions, *adobs***.
 2. **Les sentències sobre *millores necessàries*** que **la font diu que existeixen
    «m'han dit» i no cita.**
 3. **Les sentències del 10-10-1840, 12-05-1855 i 06-08-1863**, senceres.
-4. **La peça justificativa p. XLVI** *(venda del 10 d'agost de 1788)* del mateix
-   volum, **no llegida.** **A l'abast.**
+4. **La peça justificativa p. XLVI** *(venda del 10 d'agost de 1788)*. —
+   **CORRECCIÓ del 16-09-2026: no és a l'abast.** **La pàgina XLVI no és a
+   l'exemplar digitalitzat que el corpus té**: és una de les quatre que hi
+   falten —**XLII, XLIII, XLVI i XLVII**—, comptades el 16-09-2026 mapant la
+   paginació romana de l'apèndix contra les pàgines del PDF. Vegeu
+   [quatre pàgines que no hi són](./quatre-pagines-que-no-hi-son.md).
+   **La peça que hi havia d'anar és la XXV, *Cession d'un droit de réméré***,
+   que **comença al peu de la pàgina XLV i es talla allà mateix.**
+   **El buit queda obert i canvia de naturalesa**: no és una lectura pendent,
+   és **`requereix un altre exemplar del volum`.**
 5. **Si la clàusula «*no lo pugan quitar sino per son propri us*» era corrent**
    o **excepcional.** **La font en dona dos casos del mateix any.** — **I el seu
    sentit queda fixat el 2026-09-18**: **prohibeix manllevar per rescatar, no
