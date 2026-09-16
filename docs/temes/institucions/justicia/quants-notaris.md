@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-13T05:35:00Z
+timestamp: 2026-09-17T10:30:00Z
 tags: [justicia, notariat, dret-vigent, costum, coprincipat, historia-del-dret]
 ---
 
@@ -330,8 +330,20 @@ tot.**
    `Requereix font externa: les condicions de consulta del fons notarial de
    l'Arxiu Nacional d'Andorra.` Vegeu
    [museus i arxius](../../cultura/museus-i-arxius/museus-i-arxius.md).
-4. **Quin costum** invoca l'article 2.1.a de la Llei del notariat, i on consta.
-   **És la pregunta de sempre, feta a una llei de fa cinc anys.**
+4. **Quin costum** invoca l'article 2.1.a de la Llei del notariat. — **`resolt`
+   el 17-09-2026 en el sentit que es podia resoldre: la llei no en nomena cap.**
+   **El text diu que els notaris donen fe pública dels actes i contractes que
+   autoritzen «amb subjecció a les lleis i la normativa aplicable restant i,
+   **subsidiàriament, d'acord amb el costum**»** (`docs/raw/lleis/notariat.txt`).
+   **El costum hi entra com a font RESIDUAL i sense identificar.** **La llei no
+   remet a cap recopilació, ni al Politar, ni als usos d'una parròquia**: **diu
+   «el costum» i deixa que qui apliqui la norma el trobi.**
+   **I això és, literalment, la pregunta de sempre feta per una llei de fa cinc
+   anys**: **el mateix problema que el corpus documenta al segle XIX
+   —invocar un costum que ningú no ha escrit— segueix viu al dret vigent.**
+   **El que queda obert ja no és què diu la llei sinó què s'ha considerat costum
+   en la pràctica notarial**: `requereix resolucions o dictàmens del Col·legi de
+   Notaris`.
 5. ~~**Les *visures***: cinc de sis transaccions de 1875-1877 n'eren. **El corpus
    no sap què és una visura.**~~ — **`parcial`, i el corpus sí que ho sabia.**
    El [glossari de mots

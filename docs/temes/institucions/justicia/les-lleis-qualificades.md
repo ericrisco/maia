@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: jurisprudencia-ad
-timestamp: 2026-09-12T22:40:00Z
+timestamp: 2026-09-17T10:30:00Z
 tags: [justicia, dret, consell-general, constitucio-1993, parlamentarisme, institucions]
 ---
 
@@ -88,8 +88,20 @@ però **el gruix del contingut és de fa quinze anys**: coherent amb el fet que
   i aquest recompte surt del títol de les normes, no d'aquell inventari. **Pot
   haver-hi matèries reservades sense llei qualificada aprovada, i el corpus no
   ho sap.**
-- **Falta la llei qualificada de competències comunals**, que l'article 57.3
-  cita expressament com una de les tres de doble majoria. **No és al fons.**
+- **Falta la llei qualificada de competències comunals** al fons. **Però la
+  regla que la governa queda `resolta` el 17-09-2026 amb el text constitucional
+  al davant** (`docs/raw/lleis/constitucio.txt`, article 57.3): **les lleis
+  qualificades s'aproven per majoria absoluta dels membres del Consell General**,
+  **llevat de quatre** —**l'electoral i de referèndum, la de competències
+  comunals i la de transferències als Comuns**— **que requereixen el vot
+  favorable de la majoria absoluta dels consellers elegits en circumscripció
+  parroquial I la dels elegits en circumscripció nacional.**
+  **El corpus corregeix aquí el seu propi enunciat**: **no en són tres, en són
+  quatre**, perquè **la Constitució compta «l'electoral i de referèndum» com una
+  sola llei i aquest buit la comptava com una.** **La doble majoria protegeix
+  exactament el que toca les parròquies**, i **per això les tres que hi entren
+  a més de l'electoral són totes de règim comunal.**
+  **Segueix obert el text de la llei mateixa**: `requereix el BOPA`.
 - **No s'ha comprovat cap votació real.** Que la regla existeixi no diu com s'ha
   aplicat ni si alguna llei qualificada ha decaigut per no arribar-hi.
 

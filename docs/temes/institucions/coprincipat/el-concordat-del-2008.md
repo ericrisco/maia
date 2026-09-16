@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: serra-vatica-microestat
-timestamp: 2026-09-13T08:15:00Z
+timestamp: 2026-09-17T10:30:00Z
 tags: [institucions, coprincipat, religio, dret, relacions-exteriors]
 ---
 
@@ -127,7 +127,25 @@ representant de l'Estat.**
 
 - **El text del Concordat del 2008** (BOPA núm. 47, 11.6.2008). **Localitzat i no
   llegit. Buit prioritari.**
-- **L'article 11.3 de la Constitució**, literal.
+- ~~**L'article 11.3 de la Constitució**, literal.~~ — **`resolt` el
+  17-09-2026** (`docs/raw/lleis/constitucio.txt`). **Són dos paràgrafs i tots
+  dos importen aquí:**
+  > «La Constitució garanteix a l'Església Catòlica l'exercici lliure i públic de
+  > les seves activitats i el manteniment de les relacions de **col·laboració
+  > especial** amb l'Estat **d'acord amb la tradició andorrana**.
+  >
+  > La Constitució reconeix a les entitats de l'Església Catòlica que tenen
+  > personalitat jurídica **d'acord amb les seves pròpies normes** la plena
+  > capacitat jurídica dins de l'àmbit de l'ordenament general andorrà.»
+
+  **Dues coses que el corpus reté.** **La primera**: el fonament de la
+  col·laboració no és una raó d'Estat ni un concordat previ, **és «la tradició
+  andorrana»** — **la Constitució remet a un fet històric, no a un principi.**
+  **La segona, i és la que dona sentit al Concordat de 2008**: **les entitats
+  eclesiàstiques obtenen personalitat jurídica per les seves pròpies normes** i
+  **l'ordenament andorrà els la reconeix**, en comptes de conferir-la. **No és
+  una autorització, és un reconeixement**, i **per això calia un tractat que en
+  digués l'abast.**
 - **Els articles 3 i 4** de la Constitució, literals.
 - **El diari de sessions** del Consell General sobre la proposició de llei del
   2014 — **font primària nomenada per la font**.
