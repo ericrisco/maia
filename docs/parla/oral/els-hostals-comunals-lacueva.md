@@ -7,7 +7,7 @@ veu: originaria
 epoca: contemporania
 apte_llengua: true
 font: ari-capsules
-timestamp: 2026-09-14T04:00:00Z
+timestamp: 2026-09-16T19:00:00Z
 tags: [parla, hostals, oficis, institucions, lexic-marcat, possiblement-llegida, transcripcio-no-verificada]
 ---
 
@@ -413,9 +413,22 @@ doni per bones.
 ## Buits registrats
 
 1. **Les 122 marques no s'han verificat.**
-2. **`[?etapa]` per *taba* i `Mostafa` per *mostassà*** són errors de màquina
-   pràcticament segurs —el corpus té les formes bones de la seva pròpia obra—
-   però **no s'han corregit**.
+2. **`[?etapa]` per *taba* i `Mostafa` per *mostassà*** — **identificació
+   `resolta` el 16-09-2026 pel contingut, no per l'escolta; la transcripció
+   segueix sense corregir, com mana la fidelitat d'aquesta branca.**
+   **`Mostafa` és el *mostassà* sense marge de dubte**: el que la parlant en
+   descriu —**que controli que l'hostaler compleixi les condicions de la
+   taverna, que verifiqui pesos i mesures, que tasti el vi i comprovi la
+   qualitat del pa i de la carn**— **és, punt per punt, el càrrec que el corpus
+   ja té documentat** a [la taba i el
+   mostassà](../../temes/institucions/comuns-i-parroquies/la-taba-i-el-mostassa.md).
+   **No és una hipòtesi de so: és una coincidència de funcions.**
+   **El corpus reté per què la màquina hi cau**: **`mostassà` no és al DIEC2 amb
+   aquest sentit** —l'entrada `mostassa` és la planta— i **un model entrenat en
+   català general no té el càrrec al vocabulari**, de manera que **el
+   substitueix pel nom propi que més se li assembla.** **És un cas de llibre del
+   que la fase 3 vol evitar**: **l'ASR no sent malament, sent cap a allò que
+   coneix**, i **el que perd és justament el lèxic institucional andorrà.**
 3. **Pot ser llegida.** Si ho és, **no serveix com a mostra de llengua parlada**,
    encara que el lèxic segueixi valent.
 4. **`[?l'Hosana] Suïssa`** és probablement *Lausana*. Sense verificar.
