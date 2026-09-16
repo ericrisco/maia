@@ -7,7 +7,7 @@ veu: originaria
 epoca: contemporania
 apte_llengua: true
 font: consell-general-constituent
-timestamp: 2026-09-13T23:30:00Z
+timestamp: 2026-09-16T19:15:00Z
 tags: [parla, testimoni, historia-oral, constitucio-1993, ordino, lexic-marcat, transcripcio-no-verificada]
 ---
 
@@ -237,8 +237,12 @@ Aquesta tanda existeix, en bona part, per haver-ho pogut comprovar.
    sembla, i en una peça que és gairebé tota citació d'altri **no es pot saber
    del cert on acaba la seva veu i on comença la que cita**. Per a un corpus de
    parla això no és un detall.
-3. **`[?escor]`** (×2) és quasi segur **escó** —el seient al Consell—, i de fet
-   whisper l'escriu bé una tercera vegada. **No s'ha corregit.**
+3. ~~**`[?escor]`** (×2) és quasi segur **escó**.~~ — **`resolt` el 16-09-2026
+   per evidència interna**: **la mateixa màquina escriu *escó* correctament una
+   tercera vegada dins d'aquesta peça.** **Quan un transcriptor dona dues formes
+   per al mateix so i una és una paraula existent en el context i l'altra no,
+   el dubte es tanca sense escoltar.** **El mot és *escó*, el seient al Consell**,
+   i **la transcripció es queda com està.**
 4. **Noms mal sentits**: `l'Enric Dolça` per *Enric Dolsa*, `l'Andreu [?Gaspar]`
    per *Andreu Gaspà*, `[?l'espot]` per *l'espot* publicitari o per *Espot*.
 

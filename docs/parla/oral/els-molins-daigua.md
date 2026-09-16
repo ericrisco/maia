@@ -7,7 +7,7 @@ veu: originaria
 epoca: contemporania
 apte_llengua: true
 font: ari-capsules
-timestamp: 2026-09-14T09:50:00Z
+timestamp: 2026-09-16T19:15:00Z
 tags: [parla, molins, oficis, aigua, tecnica, transcripcio-no-verificada]
 ---
 
@@ -580,8 +580,14 @@ parlants**.
 3. **Les 3,9 paraules per segment.** El parlant fa el doble de pauses que la
    ponent de la #70. **No s'ha comprovat si és manera de parlar, tema tècnic o
    qualitat de la gravació de confinament.**
-4. **El nom.** La màquina escriu `[?Alnuart]` on el títol diu *Alan Ward*. La
-   fitxa es queda amb el títol; **el nom no s'ha sentit.**
+4. **El nom.** — **`resolt` el 16-09-2026 per la font mateixa.** **La màquina
+   escriu `[?Alnuart]` al punt on el parlant es presenta, i el títol de la
+   càpsula, publicat per qui la va editar, diu *Alan Ward*.** **Coincideixen la
+   posició —«Em dic …», 00:00:14— i el nombre de síl·labes**, i **no hi ha cap
+   altra persona a la peça.** **El nom és Alan Ward.**
+   **El corpus manté el que ja feia bé**: **la fitxa es queda amb la forma del
+   títol i la transcripció conserva la de la màquina**, perquè **el que s'ha
+   acreditat és qui parla, no què es va sentir.**
 5. **Parròquia, generació, de casa o vingut, llengua primera: cap consta.** El
    nom no és d'arrel catalana i **el corpus no en dedueix res**: ni que sigui
    vingut, ni que el català no li sigui primer. Es registra el buit, no la

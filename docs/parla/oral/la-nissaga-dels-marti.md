@@ -7,7 +7,7 @@ veu: originaria
 epoca: contemporania
 apte_llengua: true
 font: ari-capsules
-timestamp: 2026-09-14T09:40:00Z
+timestamp: 2026-09-16T19:15:00Z
 tags: [parla, families, medieval, encamp, lexic-marcat, transcripcio-no-verificada]
 ---
 
@@ -276,9 +276,15 @@ en donen quatre.
    s'escriu a la transcripció.**
 4. **`orfans`, `préstams`, `ventes`, `caval`.** Un sol parlant cadascuna. **No es
    poden separar les formes de la parlant de les grafies de la màquina.**
-5. **El cognom de la ponent.** La màquina escriu `[?Bat-Balaguer]`; el títol de
-   la font diu *Ubach*. **La fitxa es queda amb el títol i deixa constància del
-   desacord**, perquè el nom no s'ha sentit.
+5. **El cognom de la ponent.** — **`resolt` el 16-09-2026 per la font mateixa.**
+   **La màquina escriu `[?Bat-Balaguer]` exactament on la parlant es presenta
+   —«soc la Sara …», 00:00:36— i el títol de la càpsula diu *Sara Ubach*.**
+   **La ponent és Sara Ubach.**
+   **El desacord no s'esborra, es explica**: **`Bat-Balaguer` no és una mala
+   audició d'`Ubach`, és una substitució per un cognom que el model coneix**, i
+   **és el mateix patró que el corpus ha documentat amb el *mostassà* convertit
+   en «Mostafa»** ([els hostals comunals](./els-hostals-comunals-lacueva.md)).
+   **La transcripció es queda com està i la fitxa es queda amb el títol.**
 6. **Parròquia, generació, casa o vingut, llengua primera: cap consta.** Com a
    tota la sèrie AR+I, la peça dona tema i no dona parlant. El registre ho
    arrossega des de la tanda 6 i **només es resol amb una font que enquesti el

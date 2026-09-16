@@ -7,7 +7,7 @@ veu: originaria
 epoca: contemporania
 apte_llengua: true
 font: consell-general-constituent
-timestamp: 2026-09-14T00:05:00Z
+timestamp: 2026-09-16T19:15:00Z
 tags: [parla, testimoni, historia-oral, constitucio-1993, sant-julia-de-loria, registre-formal, transcripcio-no-verificada]
 ---
 
@@ -322,7 +322,13 @@ corpus ha trobat fins ara. `inclús` el segueix, amb tres parlants.
 ## Buits registrats
 
 1. **212 marques sense verificar**, la pitjor proporció del corpus.
-2. **`[?enredarits]`** (00:00:50) és quasi segur *endarrerits*. Marcat, no corregit.
+2. ~~**`[?enredarits]`** (00:00:50) és quasi segur *endarrerits*.~~ —
+   **`resolt` el 16-09-2026 per la peça mateixa**: **el títol de la font és
+   «Ens havíem quedat una mica endarrerits»**, que és **la mateixa frase, sencera
+   i escrita per qui la va publicar**. **No cal escoltar res**: la font en dona
+   la forma en el seu propi títol. **La transcripció no es corregeix** —branca de
+   `veu: originaria`— i **la marca de dubte es retira**, perquè el dubte ja no hi
+   és.
 3. **`[?L'ADES]`** (×2) no s'ha pogut identificar: pot ser una sigla real, pot ser
    mal sentida. **Queda sense resoldre.**
 4. **«30 i escaig d'anys»** (00:00:21) és ambigu —edat o durada— i va marcat.
