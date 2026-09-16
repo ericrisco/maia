@@ -7,7 +7,7 @@ veu: originaria
 epoca: contemporania
 apte_llengua: true
 font: ari-capsules
-timestamp: 2026-09-14T01:15:00Z
+timestamp: 2026-09-16T19:30:00Z
 tags: [parla, molins, oficis, aigua, lexic-marcat, transcripcio-no-verificada]
 ---
 
@@ -250,11 +250,26 @@ tenia com a entrada. **Tret confirmat en parla, no novetat lèxica.**
 ## Buits registrats
 
 1. **Les 79 marques no s'han verificat.**
-2. **`assecle` no s'ha pogut contrastar amb cap diccionari** en aquesta sessió.
-   Podria ser *assecle*, podria ser una forma de *sèquia*, podria ser mal sentit
-   —tot i que tres de les quatre ocurrències són netes. **Sense resoldre.**
-3. **`[?secla]`** (00:10:42) és probablement la mateixa paraula amb una altra
-   grafia de la màquina. **Dues grafies, una paraula, i no se sap quina és.**
+2. **`assecle`, contrastat el 16-09-2026 amb els dos diccionaris: no hi és.**
+   **Ni al [DCVB](../../fonts/dcvb.md) ni al [DIEC2](../../fonts/diec2.md).**
+   **I això el converteix en el candidat a andorranisme més seriós d'aquesta
+   peça**, per tres raons que es poden escriure: **surt quatre vegades**, **tres
+   de les quatre ocurrències són netes**, i **la parlant el glossa ella mateixa**
+   —«**un assecle o rec**» (00:07:31)—, de manera que **el significat no depèn de
+   la nostra lectura sinó de la seva.**
+   **El que segueix obert és l'etimologia i l'extensió**: **si és viu fora
+   d'Andorra i des de quan.** `Requereix un segon testimoni i recerca
+   lexicogràfica més enllà dels dos diccionaris normatiu i descriptiu.`
+3. **`[?secla]`** (00:10:42) — **`resolt` el 16-09-2026, i al revés del que
+   aquest buit suposava: no és un error de màquina.** **El DCVB té `SECLA` com a
+   entrada pròpia, remetent a `sèquia`** —«excavació llarga i estreta... per a
+   conduir aigua d'un riu o torrent, sia per a regar, **per a moure molins**»—,
+   que és exactament el sentit d'aquesta peça.
+   **Per tant hi ha dues formes documentades i una que no ho està**: `secla` al
+   diccionari, `sèquia` al diccionari, i **`assecle` enlloc**. **El corpus
+   registra la hipòtesi que les tres són la mateixa paraula** —amb l'article
+   aglutinat a *assecle*— **i no l'afirma**: **cap font del corpus no ho
+   documenta**, i **la parlant no les usa mai en la mateixa frase.**
 4. **`[?Tobira]`** (×4), el molí d'Andorra la Vella, **no s'ha identificat**.
 5. **Del parlant no consta gairebé res**: ni parròquia, ni generació, ni origen.
    Sap els mots **per recerca**, no necessàriament per haver-los viscut, i això
