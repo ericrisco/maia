@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: vilar-andorre-1904
-timestamp: 2026-09-16T09:00:00Z
+timestamp: 2026-09-16T17:30:00Z
 tags: [antic-regim, coprincipat, sobirania, franca, espanya, fiscalitat, esglesia, arxius, font-primaria, prioritari]
 ---
 
@@ -267,9 +267,20 @@ mateixa família.`
 1. **Els dos edictes d'incorporació**: **Enric IV, juliol de 1607**, i **Lluís
    XIII, 19 d'octubre de 1620**. **Citats i no vistos**, i **del segon només se'n
    té la frase transcrita.** **Prioritari.**
-2. **L'any exacte de l'homenatge de Montauban** i **el de l'acte sobre el delme i
-   la Inquisició**. **L'extracció dona «158^» i «i58p»** i **el corpus no
-   endevina xifres.** `Requereix la pàgina renderitzada o un altre exemplar.`
+2. ~~**L'any exacte de l'homenatge de Montauban** i **el de l'acte sobre el delme
+   i la Inquisició**. **L'extracció dona «158^» i «i58p».**~~ — **`resolt` el
+   16-09-2026 renderitzant la pàgina** (PDF 41 de
+   `docs/raw/llibres/vilar-andorre-1904.pdf`, nota 1, llegida com a imatge).
+   **Les tres dates de la nota són 1587, 1589 i 1591**: **Enric IV, trobant-se a
+   Montauban el 1587, rep l'homenatge dels diputats d'Andorra i el tribut**; **per
+   un acte de 1589 toca el delme i vigila que el tribunal de la Inquisició
+   implantat pels bisbes no envaeixi les atribucions dels tribunals andorrans**;
+   i **en un document de 1591 s'afirma «seigneur souverain d'Andorre».**
+   **Regenerable amb** `pdftoppm -f 41 -l 41 -r 300 -png
+   docs/raw/llibres/vilar-andorre-1904.pdf`.
+   **El corpus reté el que les tres dates fan juntes**: **en quatre anys el mateix
+   rei cobra tribut, legisla sobre el delme i es titula senyor sobirà** — **la
+   sèrie és l'argument de Vilar, no una il·lustració.**
 3. **L'informe de d'Audon, governador del comtat de Foix.** **Citat sense data ni
    signatura.**
 4. **Les lletres patents d'Enric IV** sobre allotjaments i requises — *Arxius de
