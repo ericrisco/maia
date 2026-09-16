@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: rios-urruti-andorra-1920
-timestamp: 2026-09-16T04:30:00Z
+timestamp: 2026-09-16T16:30:00Z
 tags: [consell-general, coprincipat, sobirania, domini-public, aigua, comunals, usatges, historiografia, font-primaria, prioritari]
 ---
 
@@ -293,8 +293,20 @@ català** *(p. 125)*:
 4. **Vives**, *Usajes y demás derechos en Cataluña*, I, p. 260; **Balari**, pp.
    319-320; **Costa**, *Colectivismo agrario*, pp. 257 i seg.; **Du Cange**,
    entrades *Bosiga* i *Scalia*. **Cap dels quatre no és al corpus.**
-5. **Quan es va prohibir l'explotació en comú de les fustes**: **1853 segons
-   Brutails, amb peça justificativa; 1855 segons aquesta font, sense.**
+5. **Quan es va prohibir l'explotació en comú de les fustes**: **`resolt` el
+   16-09-2026 a favor del 1853, amb el document al davant** (peça justificativa
+   I, article 8, PDF 27). **El decret del 30 de setembre de 1853 del bisbe Josep
+   Caixal i Estradé hi és, i prohibeix «fer repartos vehinals dels productos de
+   las vendas de fusta o de altres bens del Comu sens expresa autorisacio y
+   llicencia nostra».**
+   **Brutails té data i text; l'altra font té data i cap document.** **El corpus
+   es queda amb la que es pot llegir**, i **registra la divergència en lloc
+   d'esborrar-la**: **la de 1855 pot ser una confirmació posterior, una altra
+   norma o un error**, i **això no es pot arbitrar sense veure què al·lega.**
+   **I una precisió que canvia l'enunciat del buit**: **el decret no prohibeix
+   l'explotació en comú.** **Prohibeix repartir-ne els diners entre els veïns**,
+   que no és el mateix — i **carrega la devolució sobre els béns propis dels
+   cònsols i consellers que ho facin.**
 6. **Els «hechos que nos han sido citados por las autoridades de los Valls
    relativos a concesiones de aguas, minas, carreteras, monopolios»**, que ell
    invoca com a prova del dret andorrà. **No en dona cap.** **Prioritari: serien

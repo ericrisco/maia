@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-18T19:30:00Z
+timestamp: 2026-09-16T16:30:00Z
 tags: [comunals, empriu, pastures, ramaderia, quarts, parroquies, limits, bosc, lexic, segle-xvi, segle-xix, font-primaria, prioritari]
 ---
 
@@ -292,9 +292,24 @@ definició** ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentat
 
 ## Buits registrats
 
-1. **El decret episcopal del 30 de setembre de 1853**, sencer. **La font el remet a
-   les seves pròpies peces justificatives, núm. 1, § 8**, **que el corpus encara no
-   ha llegit.** **Prioritari i a l'abast**: és dins del mateix volum.
+1. **El decret episcopal del 30 de setembre de 1853, `parcial` el 16-09-2026**
+   (peça justificativa I, pàgines I-III, PDF 25-27). **L'article 8, que és el
+   que aquesta fitxa citava de segona mà, diu això**:
+   > «**Prohibim als Consuls, Consellers y als Comuns fer repartos vehinals dels
+   > productos de las vendas de fusta o de altres bens del Comu sens expresa
+   > autorisacio y llicencia nostra**», i **si ho fan «no sols quedara nula y de
+   > ningun efecte, sino que estaran obligats a reposar en los fondos del Comu
+   > las partidas que se hauran repartit, pagantlas de sos bens propis**».
+   **Dues coses que el corpus no tenia.** **El que es prohibeix no és vendre
+   fusta: és REPARTIR-NE els diners entre els veïns**, i **la sanció recau sobre
+   el patrimoni personal dels cònsols i consellers**, no sobre el comú. **I el
+   mateix article deixa oberta una excepció**: poden «**socorrer, segons se ha
+   acostumat, las necessitats particulars dels pobres en sas malaltias**».
+   **El decret no és sols això.** **Qui el signa és Josep Caixal i Estradé,
+   bisbe d'Urgell**, i **el volum el titula *Décret sur les ventes à réméré, la
+   police des étrangers, l'emploi des recettes communales, les auberges, les
+   danses*.** **Segueixen oberts els articles que aquesta fitxa no necessita**,
+   que el corpus ha llegit i no destil·la aquí.
 2. **La Reforma de 1866**, p. 12-13 de l'apèndix del mateix volum. **Segueix com a
    lead obert des de fa tandes.**
 3. **La data de la sentència Encamp-Andorra: 1760 o 1780**, i **si són una o dues.**

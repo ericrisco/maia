@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-23T03:00:00Z
+timestamp: 2026-09-16T16:30:00Z
 tags: [justicia, dret-penal, procediment, paus-i-treves, coprincipat, consell-general, segle-xvi, segle-xviii, segle-xix, lexic, font-primaria, prioritari]
 ---
 
@@ -255,9 +255,20 @@ ensenya on és la frontera:
    **El recompte de «citacions sense llegir» era erroni.** **El que quedava per
    fer —i s'ha fet— era comprovar passatge per passatge els llocs que el cos de
    l'obra en cita.** **Vegeu** [«si la part instant ho vol»](./si-la-part-instant-ho-vol.md).
-5. **El decret episcopal del 30 de setembre de 1853, article 5**, *(Peces
+5. ~~**El decret episcopal del 30 de setembre de 1853, article 5**, *(Peces
    justificatives, p. II)*, **sobre l'obligació dels cònsols d'informar els
-   Veguers.**
+   Veguers.**~~ — **`resolt` el 16-09-2026** (PDF 26). **El text és aquest**:
+   > «**Com a vegadas quedan sens castich alguns crims per que no arriban al
+   > coneixement de la autoritat competent, ordenam y baix la sua responsabilitat
+   > manam als Consuls o als que a estos substituescan en las parroquias que
+   > inmediatament de haber tingut lloch en sas respectivas parroquias alguna
+   > ocurrencia desgraciada o algun crim o delicte, per petit que sia, ne donen
+   > coneixement de ofici a algun dels Senyors Veguers.**»
+   **Tres precisions que el resum no donava.** **El motiu és declarat**: que hi
+   ha crims que queden sense càstig perquè no arriben a l'autoritat. **L'avís és
+   *de ofici***, no a instància de ningú. **I l'abast és total**: **«per petit
+   que sia»**, i **inclou l'«ocurrencia desgraciada»**, és a dir **també el que
+   no és delicte.**
 6. **El *Politar*, pp. 198, 215, 216, 217 i 239** —**cinc pàgines més**, **entre
    elles la que tracta la presó i la llibertat sota fiança en matèria
    d'*estupros***.
