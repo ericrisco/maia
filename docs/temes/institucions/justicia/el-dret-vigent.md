@@ -143,8 +143,32 @@ un**.
   corpus no en té ni una línia.
 - **Ni els tractats internacionals ni la jurisprudència.** Saber què diu el dret
   és saber també què n'han dit els tribunals.
-- **La Llei d'inversió estrangera falta.** La font la marca amb vigència no
+- ~~**La Llei d'inversió estrangera falta.** La font la marca amb vigència no
   confirmada i la seva pàgina retorna error. És l'única de les 105 que no s'ha
-  pogut llegir.
+  pogut llegir.~~ — **`resolt` el 17-09-2026 des del
+  [BOPA](../../../fonts/bopa.md)**: és la **Llei 10/2012, del 21 de juny,
+  d'inversió estrangera al Principat d'Andorra**, butlletí **33 del 2012**
+  (`docs/raw/lleis/bopa/llei-10-2012-inversio-estrangera.txt`). **La 105a
+  llegida.**
+
+  **La seva disposició derogatòria és una cronologia de l'obertura econòmica
+  andorrana**, i comença molt abans del que el corpus tenia:
+
+  > Queden derogades **l'Ordinació número 3 de Foment, relativa a les
+  > autoritzacions comercials a estrangers, del 25 de juny de 1976**; la **Llei
+  > 2/2008**, del 8 d'abril, d'inversions estrangeres; la **Llei 36/2008** que
+  > la modificava; i **l'article 9 de la Llei 93/2010** de promoció de
+  > l'activitat econòmica.
+
+  **El règim que la Llei del 2012 substitueix era del 1976 i es deia «Ordinació
+  número 3 de Foment».** **Trenta-sis anys amb una ordinació.**
+
+  **I l'exposició de motius diu per què es fa el canvi el 2012**, encadenant-lo
+  amb la resta de la reforma: la liberalització «**juntament amb la signatura de
+  convenis de doble imposició, després de la recent aplicació d'una fiscalitat
+  directa** sobre les societats i les activitats econòmiques», per «competir en
+  igualtat de condicions amb les economies veïnes». **Obrir la inversió no és
+  una mesura aïllada: és la tercera pota d'un canvi de model que comença amb
+  l'impost de societats.**
 - **Les dates són les del títol, no les d'entrada en vigor.** Una llei del 2022
   pot haver entrat en vigor el 2023, i el recompte per dècades no ho recull.

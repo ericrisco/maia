@@ -319,7 +319,37 @@ assembla força al que aquest corpus intenta fer amb text.
 - **El jardí botànic de Sant Julià de Lòria.**
 - **Els resultats de *Consum cultural i oci* (2000).**
 - **La biblioteca científica d'ús públic**: si existeix i on és.
-- **El text de la llei de 1976** i el de la **llei del 16 d'octubre de 1996**.
+- ~~**El text de la llei de 1976** i el de la **llei del 16 d'octubre de
+  1996**.~~ — **`parcial` el 17-09-2026**: **la del 1996 és al
+  [BOPA](../../../fonts/bopa.md)**, butlletí **77 del 1996**
+  (`docs/raw/lleis/bopa/llei-1996-estatuts-institut-estudis-andorrans.txt`);
+  **la del 1976 no hi pot ser, perquè el BOPA comença el 1989.**
+
+  **No és una llei de creació sinó una llei de modificació d'Estatuts**, i
+  **es declara provisional a la seva pròpia exposició de motius**: «Aquesta
+  normativa, **de caire provisional**, ha d'ésser un dels pilars que, junt amb
+  la reglamentació del Govern, conformaran la Llei que **en un futur es
+  realitzarà**.» **Trenta anys després, aquella llei futura no consta.**
+
+  **Els set articles que reescriu donen l'estructura que el corpus no tenia:**
+
+  | | |
+  | --- | --- |
+  | **Què és** (art. 1 i 3) | **Institució de recerca, docent i cultural** creada pel Consell General, **amb personalitat jurídica pròpia** |
+  | **Qui el presideix** (art. 5) | **El ministre d'Educació**, per càrrec. **No és un president escollit** |
+  | **Qui el governa** (art. 6.a) | Un **Comitè Directiu**: el ministre, el director, **els responsables de les delegacions a l'estranger**, els caps de departament i **un representant del sector privat** |
+  | **Qui posa el privat** (art. 6.c) | **El Comitè Executiu de la Cambra de Comerç, Indústria i Serveis d'Andorra** |
+  | **Com decideix** (art. 6.d) | **Majoria de dues terceres parts** |
+
+  **Dues peces que val la pena retenir.** **L'article 4 preveu expressament
+  delegacions a l'estranger** amb convenis amb universitats —**i l'article 6.a
+  els dona seient al Comitè Directiu**—: **l'IEA es dissenya des del primer dia
+  com una institució amb peus fora del país**, cosa que explica
+  els tres dissenyadors externs que aquesta fitxa ja registrava. **I el
+  representant del sector privat el nomena la Cambra de Comerç**: **la recerca
+  pública andorrana té, per llei, una cadira reservada al comerç.**
+
+  `Requereix la llei del 1976, que és anterior al BOPA.`
 - **Qui dirigeix l'IEA avui** i quina n'és l'estructura.
 - **Antoni Calvo Armengol** (UPF), **Martí Boada** (UAB/CREA) i **Joan Manuel
   Vilaplana** (UB): els tres dissenyadors externs de la recerca andorrana.
