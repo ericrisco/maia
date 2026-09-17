@@ -122,3 +122,55 @@ fins i tot les subvencions atorgades sense publicitat ni concurrència.
   per quina se n'adjudica cap.**
 - **El Codi de l'Administració té 147 articles i n'hem llegit dos.** És la norma
   general de tot el dret administratiu andorrà i queda majoritàriament per llegir.
+  — **`parcial` el 17-09-2026**: **recorregut sencer i buidat pel que aquesta
+  fitxa necessita** (`docs/raw/lleis/codi-administracio.txt`, **Llei 14/2023
+  de text consolidat**). **Deu capítols**, dels quals el setè —procediment— i
+  el vuitè —recursos— són els que decideixen com et va davant d'una
+  finestreta.
+
+  **El silenci administratiu andorrà és negatiu per defecte i positiu per
+  excepció** (article 39): **«excepcionalment, decisió d'acceptació en els
+  casos en què així ho estableixi una norma de manera expressa»** i
+  **«generalment, decisió de rebuig […] quan l'Administració deixa la
+  sol·licitud sense resposta durant un termini de dos mesos»**. **I el silenci
+  no tanca la porta a l'Administració**: **«àdhuc després de l'expiració
+  d'aquest termini, l'Administració pot prendre una decisió favorable al
+  sol·licitant».**
+
+  **Dos mesos és el rellotge de tot.** **Dos mesos de silenci fan la decisió
+  tàcita de refús** (article 39); **dos mesos sense resoldre un recurs
+  administratiu el fan desestimat i obren la via judicial** (article 131); i
+  **dos mesos de paràlisi imputable a l'administrat caduquen l'expedient i
+  l'arxiven**, amb advertència prèvia (article 122).
+
+  **Per anar al jutjat cal haver recorregut abans** (article 132), **amb tres
+  excepcions**: **els actes que resolen un recurs**, **els actes presumptes per
+  silenci** i **els que una llei exceptuï expressament.**
+
+  **La càrrega de la prova va contra qui recorre** (article 40): **«les dades
+  contingudes en l'acte administratiu gaudeixen de presumpció d'exactitud. En
+  cas de recurs, la prova de la inexactitud ha d'ésser aportada pel
+  recurrent.»** **I l'Administració «sempre pot corregir els errors materials»**,
+  amb el límit que la correcció no pot canviar el contingut, el sentit ni
+  l'abast de l'acte.
+
+  **Hi ha una via extraordinària que la fitxa no tenia** (article 136): el
+  **recurs de revisió contra actes ja ferms**, en tres casos —**documents de
+  valor essencial ignorats o posteriors que evidenciïn l'error**, **documents o
+  testimonis declarats falsos per sentència ferma**, i **resolucions dictades
+  per prevaricació, corrupció, tràfic d'influències, violència «o qualsevol
+  altra conducta punible, declarada en sentència judicial ferma»**. **El
+  termini és de tres mesos des que es coneixen els documents o des que la
+  sentència és ferma**, i **es presenta davant del mateix Govern, Consell de
+  Comú o consell d'administració de qui va dictar l'acte.**
+
+  **I una regla de rang que val per a tot el corpus** (article 123.2): **només
+  són infracció administrativa les vulneracions establertes com a tals «per una
+  llei o per una ordinació comunal»**, i **els reglaments poden especificar o
+  graduar «però no poden establir noves infraccions o sancions ni alterar la
+  naturalesa ni els límits» de les legals.**
+
+  `Requereix, encara, els capítols de contractes administratius (quart), de
+  responsabilitat administrativa (cinquè) i de béns de les persones públiques
+  (sisè), que inclou els béns comunals i que aquesta lectura només ha
+  localitzat.`
