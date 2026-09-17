@@ -189,7 +189,58 @@ el 38% és difícil de moure.
   60.2) i n'exigeix la doble majoria (article 57.3)** —**vegeu
   [les lleis qualificades](../justicia/les-lleis-qualificades.md)**.
 - **Què cobra cada comú** tampoc: la fórmula hi és, les dades d'entrada
-  —població, superfície, pernoctacions— no.
+  —població, superfície, pernoctacions— no. — **`parcial` el 17-09-2026, i cal
+  dir exactament què s'ha tancat i què no.**
+
+  **La transferència de l'Estat a cada comú segueix sense xifra**: **ni la llei
+  del pressupost ni les ordinacions comunals la publiquen desglossada.**
+
+  **El que sí que publica el [BOPA](../../../fonts/bopa.md) és el pressupost
+  sencer de cada comú**, perquè **cada Consell de Comú n'aprova l'ordinació i
+  l'ha de publicar.** **Les set del 2026**
+  (`docs/raw/lleis/bopa/pressupostos-comunals-2026/`):
+
+  | Parròquia | Pressupost de despeses 2026 |
+  | --- | ---: |
+  | **Andorra la Vella** | **60.470.147,11 €** |
+  | **Escaldes-Engordany** | **46.563.058,50 €** |
+  | **Encamp** | **45.647.534,61 €** |
+  | **Canillo** | **30.167.215,00 €** |
+  | **la Massana** | **28.975.500,00 €** |
+  | **Sant Julià de Lòria** | **24.086.164,28 €** |
+  | **Ordino** | **21.089.794,00 €** |
+  | **Total dels set** | **≈ 257 milions d'euros** |
+
+  `suma del corpus sobre les set ordinacions; cada xifra és la que diu la seva.`
+
+  **Tres coses que la taula deixa veure.**
+
+  **La primera: la distància entre la primera i l'última és de menys de tres a
+  u.** **Andorra la Vella gasta 60 milions i Ordino 21.** **Per a parròquies amb
+  poblacions que difereixen molt més que això, el sistema de transferències fa
+  justament el que la llei diu que ha de fer** —**compensar**—, i la partida de
+  solidaritat inversament proporcional a la població n'és la peça explícita.
+
+  **La segona: Encamp gasta gairebé tant com Escaldes, i Canillo més que Sant
+  Julià**, **tots dos molt per damunt del que la seva població faria esperar.**
+  **El corpus no ho atribueix a cap causa**: `requereix la població de cada
+  parròquia i l'estat d'ingressos detallat per poder-ho dir.` **El que sí que
+  consta és que la fórmula de transferències reparteix un 5,5% per
+  pernoctacions turístiques**
+  ([els pisos turístics](../../economia/turisme-i-neu/els-pisos-turistics.md)),
+  **i que aquests pressupostos són consolidats amb societats comunals**:
+  **Canillo hi inclou el Complex Social i Esportiu del Palau de Gel, SAU**, i
+  **Sant Julià de Lòria, Camprabassa, SA**, amb **6.976.804 €** propis.
+
+  **La tercera: alguns comuns pressuposten dèficit i ho diuen.** **Ordino
+  declara un dèficit pressupostari de 4,85 milions** i **Andorra la Vella
+  1.488.917,22 €**, **tots dos finançats amb romanent de tresoreria d'exercicis
+  anteriors.** **El pressupost comunal andorrà no és necessàriament
+  equilibrat.**
+
+  `Segueix obert el que el buit demanava: quant transfereix l'Estat a cada
+  parròquia. Requereix la liquidació del Govern o l'estat d'ingressos detallat
+  de cada comú, que les ordinacions publiquen només per totals.`
 - ~~**La partida de solidaritat** (6,75%, article 17) és l'única sense criteri
   automàtic i **no s'ha llegit**.~~ — **`resolt` el 17-09-2026**, llegida al
   material que el corpus ja tenia (`docs/raw/lleis/transferencies-comuns.txt`).
