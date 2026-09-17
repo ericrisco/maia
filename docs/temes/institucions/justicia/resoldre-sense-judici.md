@@ -132,8 +132,43 @@ matèria penal» (article 1). En un estat encaixat entre dues jurisdiccions gran
   d'honoraris, i el Govern els ha d'aprovar** (art. 34). **Queda per llegir** el
   règim disciplinari (arts. 20-32) i el **Registre de Disposicions de Darrera
   Voluntat**.
-- **Els requisits de col·legiació** dels advocats (article 7) i el **Col·legi
-  Oficial d'Advocats** no s'han buidat. — **`obert`, confirmat.**
+- ~~**Els requisits de col·legiació** dels advocats (article 7) i el **Col·legi
+  Oficial d'Advocats** no s'han buidat. — **`obert`, confirmat.**~~ —
+  **`resolt` el 17-09-2026** (`docs/raw/lleis/advocacia.txt`, **Llei 48/2014**,
+  article 7).
+
+  **Hi ha dos règims de col·legiació i tots dos donen membre de ple dret**:
+  **exercent** i **no exercent** (article 7.1). **Exercir sense col·legiar-se
+  com a exercent no és possible**, i **exercir vol dir «la prestació,
+  habitualment remunerada, dels serveis d'assistència, consell i defensa
+  jurídica dels drets aliens»** (article 7.3) —**el consell jurídic de pagament
+  hi entra, encara que no es trepitgi cap jutjat.**
+
+  **Per entrar al Col·legi, sigui quin sigui el règim** (article 7.2): **ser
+  andorrà o acreditar residència efectiva i permanent** —**o, si es treballa
+  exclusivament per compte d'altri, una autorització de treball fronterer**—,
+  **estar en plena possessió dels drets civils i polítics** (referida a l'estat
+  d'origen si no s'és andorrà), i **tenir el nivell 7 del Marc andorrà de
+  qualificacions**: **primer i segon cicle de dret, acumulativament, lliurats o
+  reconeguts pel Govern.**
+
+  **Per exercir, sis condicions més** (article 7.4), i **dues no depenen del
+  Col·legi**: **l'autorització d'exercici de professió titulada del Govern** i
+  **l'admissió a actuar davant els tribunals andorrans de l'article 98 de la
+  Llei qualificada de la Justícia**. **Les altres quatre són el certificat
+  d'aptitud del Col·legi, no estar incapacitat, no estar en causa
+  d'incompatibilitat i no haver estat condemnat.**
+
+  **La condemna té un tracte precís i limitat** (article 7.4.a): **només
+  inhabiliten els delictes majors dolosos comesos «com a conseqüència o en el
+  marc de l'exercici de la professió»**, aquí o a l'estranger, **i només mentre
+  no es cancel·lin els antecedents.** **Si la condemna arriba després
+  d'admetre'l**, **la Junta de Govern el suspèn per resolució motivada, amb
+  quinze dies d'al·legacions**, i **ho ha de comunicar al Consell Superior de
+  la Justícia i als presidents de la Batllia, del Tribunal de Corts i del
+  Tribunal Superior.** **La suspensió s'aixeca quan s'acrediti la cancel·lació
+  dels antecedents.** `Requereix saber quants advocats col·legiats hi ha i si
+  aquesta suspensió s'ha aplicat mai.`
 - ~~**Els imports de les taxes judicials** són als articles 4 i següents i **no
   s'han llegit**: el corpus sap qui no paga, no quant paguen els altres.~~ —
   **`resolt`, i el buit estava mal adreçat: no són a l'article 4, són a
