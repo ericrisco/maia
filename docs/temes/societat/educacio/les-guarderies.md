@@ -142,6 +142,49 @@ No és dret intern: són **dos tractats**.
 2005 se'n justifica com a condició del treball dels pares i de la igualtat de la
 dona.**
 
+## El reglament del 1995, i el que va canviar el 2005
+
+**Hi ha hagut dos reglaments**: el del **30 de novembre de 1995** (BOPA del
+5-12-1995 segons l'API, 6.12.1995 segons l'índex) i el del **27 d'abril del
+2005**
+([evidència](../../../raw/lleis/bopa/reglament-guarderies-infantils-1995.txt)).
+**L'ocupació màxima no ha canviat en trenta anys: 2,5 m² per infant.** El que ha
+canviat és qui els cuida.
+
+| | **1995** | **2005** |
+| --- | --- | --- |
+| Fins a 12 mesos | 1 responsable per **7** infants | 1 professional per **7** |
+| D'1 a 2 anys | 1 per **10** | — |
+| D'1 a 3 anys | — | 1 per **10** |
+| De 2 a 6 anys | 1 per **20** | — |
+| De 3 a 9 anys | — | 1 per **15** |
+| Ocupació | **2,5 m²** per infant | **2,5 m²** per infant |
+| Màxim per aula | no en fixa | **20**, o **30** si tenen 3-9 anys |
+| Mínim absolut | no en fixa | **dos professionals educatius** |
+| Vàters | 1 per cada **10 nens de 3 a 6 anys** | 1 per cada **10 majors de 2 anys** |
+
+**El canvi que compta és el tram gran.** El 1995, un sol adult podia tenir cura
+de **vint** infants d'entre dos i sis anys; el 2005 el tram es parteix i el
+màxim baixa a **quinze**, i per als d'1 a 3 anys a deu. **La ràtio dels nadons,
+en canvi, és exactament la mateixa: set.**
+
+**El 1995 ja hi havia un registre.** El **Registre de Guarderies Infantils** del
+ministeri d'Afers Socials, on s'inscriuen totes les autoritzades «amb les dades
+d'identificació, les característiques més rellevants i els serveis que presta», i
+les guarderies han de **penjar en lloc visible** l'autorització del Govern i la
+inscripció. I qualsevol **ampliació superior al 10%** de la capacitat, canvi
+d'espais, de domicili, de titularitat o de direcció **s'ha de comunicar al comú i
+al ministeri**.
+
+**Les titulacions per dirigir-ne una**, el 1995: **medicina, pedagogia,
+psicologia, infermeria, magisteri, puericultura, treball social, educació
+social** o equivalents. **Vuit portes d'entrada, i cap d'específica de primera
+infància.**
+
+**I dues regles d'edifici que el 2005 no repeteix:** dues sortides obligatòries a
+partir de **vint infants simultanis**, i **rampa interior obligatòria** a les
+guarderies de més de cent infants amb dos nivells.
+
 ## Buits registrats
 
 - **Quantes guarderies hi ha, quantes places i quants infants**, no consta.
@@ -149,8 +192,9 @@ dona.**
 - **Si les multes s'han actualitzat des del 1995**, no consta: l'article 14 ho
   ordenava «periòdicament» i **el corpus no en té cap decret**.
 - **Si s'ha revocat mai una autorització**, ni quantes sancions s'han imposat.
-- **El reglament del 30 de novembre de 1995**, anterior al del 2005, **no s'ha
-  llegit**; consta al BOPA del 5-12-1995.
+- ~~**El reglament del 30 de novembre de 1995**, anterior al del 2005, **no s'ha
+  llegit**.~~ — **`resolt` el 17-09-2026** — vegeu
+  [El reglament del 1995, i el que va canviar el 2005](#el-reglament-del-1995-i-el-que-va-canviar-el-2005).
 - **Els capítols III, IV i VI del reglament del 2005** —condicions
   higienicosanitàries, personal i titulacions, condicions funcionals— **no s'han
   buidat aquí**.

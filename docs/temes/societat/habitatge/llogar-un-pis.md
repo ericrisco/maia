@@ -134,8 +134,36 @@ que arriben per **cessió obligatòria** dels habitatges buits— i que disposa 
   es paga.
 - **L'arrendament de local de negoci** —que la llei també cobreix, amb renda
   variable segons facturació (article 66)— no s'ha desenvolupat aquí.
-- **La resta de la Llei 41/2022** és un paquet de modificacions d'altres normes i
-  **només se n'han llegit dues**.
+- ~~**La resta de la Llei 41/2022** és un paquet de modificacions d'altres
+  normes i **només se n'han llegit dues**.~~ — **`resolt` el 17-09-2026: són
+  dinou disposicions finals, i dotze modifiquen una altra norma**
+  ([evidència](../../../raw/lleis/bopa/llei-41-2022-arrendaments.txt)).
+
+  | | Disposició final | Què fa |
+  | --- | --- | --- |
+  | 1a | **Llei del dret a l'habitatge i a la propietat privada** | Encarrega al Govern **un projecte de llei en dos anys** que desenvolupi els **articles 33 i 27 de la Constitució** |
+  | 2a | Articles qualificats | L'**article 26** (propietat horitzontal) passa a ser **llei qualificada** |
+  | 3a | **Protocol de desnonaments** | Afers Socials, Habitatge i Justícia han d'aprovar **en un any** un protocol sobre vulnerabilitat derivada del desnonament |
+  | 4a i 5a | Llei 14/2021 del **notariat** | |
+  | 6a | Llei 44/2014 de l'**embargament** | |
+  | 7a | Reglament de **prestacions econòmiques dels serveis socials** | |
+  | 8a | Llei 15/2022 d'**arrendaments de finques urbanes** | |
+  | 9a | Llei 29/2008 del **cadastre** | |
+  | 10a | Llei 9/2007 del **cens** | |
+  | 11a | **Habitatges buits** | El Govern ha d'aprovar, **sis mesos després d'identificar-los**, un programa per **investigar per què estan sense ús** i incentivar-ne el lloguer |
+  | 12a | Llei d'**agents i gestors immobiliaris** del 2000 | |
+  | 13a | Llei 3/2019 de **mesures urgents d'arrendament** | |
+  | 14a | Llei 11/2012 de l'**IGI** | |
+  | 15a | Llei 19/2021 d'**impostos especials** | |
+  | 16a | **Animals de companyia abandonats dins un domicili** | El Govern ha d'instaurar **en tres mesos** protocols entre cossos especials perquè no quedin desatesos |
+  | 17a-18a | Habilitació normativa i textos consolidats | |
+  | 19a | **Entrada en vigor: l'1 de gener del 2023** |
+
+  **Una llei d'arrendaments que toca el notariat, l'embargament, el cadastre, el
+  cens, dos impostos i els animals de companyia.** I **encarrega tres coses amb
+  data**: la llei del dret a l'habitatge (dos anys), el protocol de desnonaments
+  (un any) i el protocol dels animals (tres mesos). `Requereix comprovar si
+  aquestes tres s'han fet.`
 - **Les majories concretes** de la propietat horitzontal (article 26) no s'han
   buidat: quines decisions demanen unanimitat i quines majoria.
 - ~~**Quants habitatges té el parc públic** i quants n'adjudica l'INH, no
