@@ -126,8 +126,28 @@ temporals o descarregar sales, amb **la mateixa consideració que les ordinàrie
 - **Quants batlles i magistrats hi ha** en total, no consta.
 - **Quants magistrats són de nacionalitat espanyola o francesa** avui, tampoc:
   és la xifra que diria si la transitòria segona és residual o estructural.
-- **Les 22 versions no s'han comparat.** És la tercera llei més retocada del
-  recull i el corpus no en té la història.
+- ~~**Les 22 versions no s'han comparat.** És la tercera llei més retocada del
+  recull i el corpus no en té la història.~~ — **`parcial` el 17-09-2026**: **les
+  tres darreres sí**, baixades del [BOPA](../../../fonts/bopa.md) amb una
+  auditoria de vigència sobre les normes originals que el corpus tenia.
+
+  | Reforma | Què hi va canviar |
+  | --- | --- |
+  | **Llei 38/2022, de l'1 de desembre** (`llei-38-2022-mod-justicia.txt`) | **La reforma gran dels trenta anys**, 87 KB de text. **Suprimeix el complement de productivitat** (art. 11); **fa que sigui el Ple del Tribunal Superior i no la jurisdicció administrativa qui revisi les decisions dels presidents de jurisdiccions** (art. 17); **obliga a motivar la idoneïtat en les designacions al Consell Superior de la Justícia** (art. 20); i **crea l'article 25 bis**: **declaració de patrimoni dels seus membres** i **prohibició, durant dos anys després del mandat, d'intervenir en assumptes sobre els quals hagin decidit** |
+  | **Llei 25/2023, del 20 de desembre** (`llei-25-2023-mod-justicia-i-tribunal-constitucional.txt`) | **Baixa l'edat de jubilació de batlles i magistrats de setanta a seixanta-cinc anys**, alineant-la amb la funció pública i la CASS, **amb continuïtat voluntària fins als setanta-cinc** si el mandat no ha acabat. **També toca el Codi de procediment penal** |
+  | **Llei 1/2025, del 16 de gener** (`llei-1-2025-mod-normes-justicia.txt`) | **Set capítols i vint-i-cinc articles que modifiquen sis normes alhora** —la de justícia del 1993, la transitòria de procediments judicials del 1993, la d'accés electrònic del 2022, la del Ministeri Fiscal del 1996, el Codi de procediment civil i el de procediment penal—. **La peça central és la figura del magistrat substitut**, perquè el Tribunal de Corts i el Superior es puguin formar sempre |
+
+  **La raó de l'article 25 bis és la que no s'endevina**: **fins al 2022 els
+  membres del Consell Superior de la Justícia no havien de declarar patrimoni ni
+  tenien porta giratòria tancada.** **La llei diu, amb aquestes paraules, que
+  «el fet que aquests principis siguin obvis no eximeix que s'hagin
+  d'explicitar».**
+
+  **I la jubilació és el cas invers del que el corpus sol trobar**: **un
+  privilegi de règim especial suprimit per igualar-lo a la norma general**, amb
+  l'argument que «aquesta diferència de règim no té cap justificació».
+
+  **Segueixen sense comparar les altres dinou versions.**
 - ~~**El Tribunal de Corts i la Batllia** tenen capítols propis que no s'han
   llegit.~~ — **`resolt` el 17-09-2026** (`docs/raw/lleis/llei-qualificada-justicia.txt`,
   articles 47 a 54).
