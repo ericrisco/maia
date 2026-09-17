@@ -135,6 +135,49 @@ als **titulars efectius d'una participació que permeti una influència
 significativa i determinant**, sempre que l'il·lícit sigui imputable a la seva
 conducta dolosa o negligent.
 
+## La comptabilitat: sis anys, dos llibres i una multa que depèn de quanta gent tens
+
+**Qui és empresari, a efectes comptables, és més gent del que sembla.** L'article
+1 de la **Llei 30/2007 de la comptabilitat dels empresaris** (48 articles) hi
+inclou **les persones físiques que fan activitats empresarials o professionals**,
+**les societats mercantils i les altres persones jurídiques «en tot cas»**, i
+**qualsevol entitat, amb personalitat jurídica o sense, que sigui una unitat
+econòmica o un patrimoni separat** i faci aquestes activitats.
+
+**Els llibres obligatoris són dos**: el **llibre diari** i el **llibre
+d'inventaris i comptes anuals** (article 13). **La documentació s'ha de guardar
+sis anys** des de l'últim tancament anual (article 7), **i el deure sobreviu a
+l'empresa**: es manté encara que la persona física cessi, **passa als hereus en
+cas de traspàs** i **als liquidadors si la societat es dissol** (article 8).
+
+**La comptabilitat és confidencial i només tres poden fer-la ensenyar.**
+L'article 9 en declara el principi i l'article 10 hi posa els únics que en poden
+requerir l'exhibició: **el batlle o tribunal, d'ofici o a instància de part**, i
+**el Ministeri de Finances i l'AFA** per a les seves funcions. I encara amb una
+condició de lloc: **l'exhibició es fa a l'establiment de l'empresari i amb la
+seva presència** o la de qui designi (article 11).
+
+**Les multes es gradúen pel nombre de treballadors.** És el detall més
+característic de la llei (article 42.4): **grau mínim fins a 10 treballadors**,
+**grau mig d'11 a 25**, **grau màxim per damunt de 25**.
+
+| Grau | Multa | Prescripció |
+| --- | --- | --- |
+| **Lleu** | **90 a 600 €** | un any |
+| **Greu** | **601 a 2.000 €** | dos anys |
+| **Molt greu** | **2.001 a 6.000 €**, i **4.002 a 12.000 €** si es reincideix | tres anys |
+
+**No tenir els llibres obligatoris és molt greu**, i també **no nomenar auditor**
+quan cal. **Negar-se a exhibir la comptabilitat** i **no dipositar els comptes al
+Registre de Societats** són greus. **Les sancions accessòries pesen més que la
+multa**: per a les greus i molt greus es pot **prohibir durant tres anys
+contractar amb les administracions públiques, rebre'n ajudes i subvencions o
+beneficiar-se de règims fiscals preferents**; i **la sanció per no dipositar
+comptes fa inadmissible qualsevol sol·licitud al Registre de Societats** —amb
+quatre excepcions: cessament d'administradors, revocació de poders, dissolució i
+nomenament de liquidadors—. **Qui sanciona és el ministre** per a les lleus i
+greus, **i el Govern per a les molt greus** (article 45).
+
 ## Buits registrats
 
 - **Els òrgans i el govern de les societats**: la part d'administradors,
@@ -155,7 +198,12 @@ conducta dolosa o negligent.
   quadrats, i el que passa si te'ls passes](#dos-mil-cinc-cents-metres-quadrats-i-el-que-passa-si-tels-passes)».
   `Queden els capítols de noms comercials i rètols, franquícies, horaris
   comercials i publicitat exterior.`
-- **La comptabilitat dels empresaris** (48 articles) només s'ha identificat.
+- ~~**La comptabilitat dels empresaris** (48 articles) només s'ha identificat.~~ —
+  **`resolt` el 17-09-2026** a «[La comptabilitat: sis anys, dos llibres i una
+  multa que depèn de quanta gent tens](#la-comptabilitat-sis-anys-dos-llibres-i-una-multa-que-depen-de-quanta-gent-tens)»
+  (`docs/raw/lleis/comptabilitat-empresaris.txt`, **Llei 30/2007**). `Queden els
+  capítols de comptes anuals i de consolidació —articles 16 a 39—, que són
+  tècnica comptable i no règim jurídic.`
 - **La competència efectiva i protecció del consumidor** (58 articles): el seu
   **títol IV**, el que dona drets a qui compra, ja és al corpus a
   [comprar i reclamar](../../vida-quotidiana/com-funciona-tot/comprar-i-reclamar.md).
