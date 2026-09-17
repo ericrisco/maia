@@ -361,7 +361,38 @@ Tabacalera Andorrana, SA, el 1899.**
 - **El llibret *La Qüestió d'Andorra*** del Consell General, i **els que van fer
   els profrancesos i els probisbe.**
 - **La biblioteca de Guillem d'Areny-Plandolit.**
-- **El decret del bisbe Boltàs** sobre el tabac.
+- ~~**El decret del bisbe Boltàs** sobre el tabac.~~ — **`parcial` el
+  17-09-2026: el decret com a tal segueix sense aparèixer, i les dues meitats de
+  la frase que el resumeix ja estan datades i documentades**, des dels [llibres
+  d'actes del Consell General](../../../fonts/actes-historiques-consell-general.md).
+
+  **La prohibició del comerç: 29 de maig de 1786**, al Consell de Sancogesma.
+  **Invocant Fra Josep Boltàs** i el desig de manifestar amor i fidelitat **a
+  les corones de França i d'Espanya**, es fa manament **a tots els naturals,
+  domiciliats i refugiats** a les Valls que
+
+  > **«en pena de desterro perpètuo de ellas, se abstingan del comers de tabaco,
+  > introduhint-lo a Fransa o España, ab la advertència que esta matèria se
+  > portarà ab tot vigor»**
+
+  **Desterrament perpetu**, i **la pena s'estén als refugiats**, que és qui més
+  podia viure del pas.
+
+  **El permís de conreu: 28 de juliol de 1791.** El Consell resol, porta per
+  porta i sota pena del cot de la Terra, que
+
+  > **«ningú puga fer ni véndrer tabaco als estrangers, però si que podran
+  > fer-ne per son propi us»**
+
+  **La frase que el corpus tenia de segona mà —«prohibia el comerç però no el
+  cultiu»— es llegeix ara als dos actes que la componen, i amb cinc anys de
+  diferència entre ells.** **Primer es tanca la venda i després s'obre el
+  conreu**, i **el que queda al mig és exactament l'espai del paquetaire**: **es
+  pot plantar i no es pot vendre, de manera que qui en treu profit és qui el
+  passa.**
+
+  `Requereix el decret episcopal mateix; el que hi ha són els acords del Consell
+  que l'apliquen.`
 - **La banca Duvivier de París.**
 - **Joan Pla i Calvo** i **Pere Baró i Mas**, el síndic i el subsíndic
   revolucionaris. **Cap fitxa de cap.**

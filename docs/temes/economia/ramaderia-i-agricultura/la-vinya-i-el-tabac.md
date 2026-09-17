@@ -146,7 +146,17 @@ abandonades i vi importat— **i registra la de Tor al costat.**
 
 ## Buits registrats
 
-1. **Quan i com es legalitza** el conreu del tabac.
+1. **Quan i com es legalitza** el conreu del tabac. — **`parcial` el
+   17-09-2026, i la primera obertura té data**: **el 28 de juliol de 1791** el
+   Consell General resol **«que ningú puga fer ni véndrer tabaco als
+   estrangers, però si que podran fer-ne per son propi us»**
+   ([les actes](../../../fonts/actes-historiques-consell-general.md), Llibre
+   IV). **Seixanta anys després de la primera prohibició**, i **cinc anys
+   després que el mateix Consell amenacés amb desterrament perpetu qui en
+   comerciés** ([la qüestió d'Andorra](../../historia/segle-xix/la-questio-dandorra.md)).
+
+   **Es legalitza el conreu per a ús propi, no la venda.** `Requereix la
+   legalització de la venda, que segueix oberta.`
 2. **Quines parròquies** exactament, i quantes feixes.
 3. ~~**Què deia el Consell** del tabac il·legal mentre ho era.~~ — **`resolt` el
    17-09-2026**: **ho deia cinc vegades en dos anys, i cada vegada perquè la
