@@ -69,13 +69,23 @@ es va convertir en una vinculació definitiva.»**
 
 | Obra | Quan | On |
 | --- | --- | --- |
-| **La nova imatge de la Mare de Déu de Meritxell** | després del **1972** | Santuari de Meritxell |
+| **La nova imatge de la Mare de Déu de Meritxell** | **encarregada l'19 de setembre del 1972**, **onze dies després de l'incendi** *(actes del Consell, 17-09-2026)* | Santuari de Meritxell |
 | **Projecte i disseny del mobiliari de la sala del Consell General i la sala de justícia**; decoració del despatx de Sindicatura i del vestíbul | **1961** | **Casa de la Vall** |
 | Mural ***Les Benaurances*** | | façana de l'església parroquial d'**Escaldes-Engordany** |
 | Font monumental ***Garlandes i llorer*** | | Sant Julià de Lòria |
 | Monuments a **mossèn Cinto Verdaguer** | | Ordino i Escaldes-Engordany |
 | Monument a **Arnaldeta de Caboet** | | Prat del Roure, Escaldes-Engordany |
 | Monument al **Consell de la Terra**, en bronze i pedra | | — |
+
+**I l'encàrrec de Meritxell ja té data exacta.** Les [actes del Consell
+General](../../../fonts/actes-historiques-consell-general.md) situen la
+seqüència sencera en dotze dies: **el santuari es crema el 8 de setembre del
+1972** —**el dia de Meritxell**—, **l'endemà, el 9, la Junta extraordinària de
+consellers majors acorda proposar al Consell la construcció d'un nou
+santuari**, i **el 19 de setembre s'encarrega a Sergi Mas la imatge de la Mare
+de Déu** *(ANA ASC 9.488, fol. 1.414)*.
+
+**El país va decidir refer la seva patrona abans de tenir on posar-la.**
 
 **El del 1961 val la pena mirar-lo dues vegades.** Forma part de **la reforma
 de la Casa de la Vall dirigida per Manuel Humbert i Rafael Benet**, i vol dir
