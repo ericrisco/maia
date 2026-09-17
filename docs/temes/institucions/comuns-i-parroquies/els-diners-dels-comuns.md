@@ -118,6 +118,39 @@ el 38% és difícil de moure.
   indexació que no té terra**— i **el buit es manté obert per a la xifra
   d'avui**: `requereix la sèrie d'avanç del PIB del Departament
   d'Estadística`.
+
+  **Provat també per la via del pressupost, i no serveix.** **La Llei 1/2026
+  del pressupost per a l'exercici del 2026** ([BOPA](../../../fonts/bopa.md))
+  **cita les transferències dues vegades i no en dona l'import**: **remet als
+  subconceptes 46220 i 76200 «d'acord amb l'article 1 de la Llei 18/2017»**.
+  **La xifra és als annexos numèrics, que el butlletí no publica en text.**
+  **La via del pressupost queda descartada, no pendent.**
+- **La llei que fixa aquestes transferències va néixer amb una part declarada
+  inconstitucional, i el corpus no ho tenia.** — **Registrat el 17-09-2026 des
+  del [BOPA](../../../fonts/bopa.md).**
+
+  **La sentència del Tribunal Constitucional del 14 de març del 2018 (causa
+  2017-1-L)** va estimar parcialment un recurs d'inconstitucionalitat contra la
+  **Llei 18/2017** i **va declarar inconstitucionals els preceptes de les
+  partides de «política d'inversió sostenible» i de «compromisos adquirits»**,
+  que formaven els **«recursos de redistribució sostenible»** i que
+  **«suposaven al voltant d'un tretze per cent de la quantia total a transferir
+  als comuns»**. **Ho diu l'exposició de motius de la llei que va venir a
+  reparar-ho**, la **Llei 22/2018, del 18 d'octubre**
+  (`docs/raw/lleis/bopa/llei-22-2018-mod-transferencies-comuns.txt`), **que
+  suprimeix aquelles partides i reordena l'articulat sencer.**
+
+  **El repartiment que aquesta fitxa descriu —38, 21, 16, 12,75, 5,50 i 6,75—
+  és, doncs, el que va quedar després de la sentència**, i **es publica com a
+  text consolidat pel Decret legislatiu del 18 de setembre del 2019**
+  (`docs/raw/lleis/bopa/decret-legislatiu-2019-text-consolidat-transferencies-comuns.txt`).
+
+  **I hi va haver un règim pont**: **per als exercicis 2018 i 2019**, la
+  partida a parts iguals va ser del **32,75%** i la de solidaritat del **12%**
+  —**no del 38% i el 6,75%**—, amb **1 punt addicional per als comuns que el
+  2015 tinguessin un endeutament entre el 190% i el 200%** de la mitjana
+  d'ingressos, **segons informe del Tribunal de Comptes.** `Requereix la
+  sentència 2017-1-L sencera i saber qui va presentar el recurs.`
 - **Què cobra cada comú** tampoc: la fórmula hi és, les dades d'entrada
   —població, superfície, pernoctacions— no.
 - ~~**La partida de solidaritat** (6,75%, article 17) és l'única sense criteri
