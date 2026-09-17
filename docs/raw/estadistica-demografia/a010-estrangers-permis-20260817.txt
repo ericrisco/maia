@@ -1,0 +1,1088 @@
+                                              NP-1800_20121018
+
+                                     Ministeri de Finances i Funció Pública
+
+                                           Departament d’Estadística
+                                              www.estadistica.ad
+
+
+
+
+             A010. Estadística d’estrangers amb permís de residència. Febrer - Abril del 2026
+                    A020. Estadística d’autoritzacions de treball. Febrer - Abril del 2026
+                                    Data de publicació: dilluns, 17/08/2026
+                                             www.estadistica.ad
+
+
+
+
+         Resum:
+
+         A 30 d’abril del 2026:
+
+             •   Els permisos de residència i treball representaven 43.155 autoritzacions en vigor, amb
+                 una variació respecte al mateix dia de l’any anterior del +2,0%.
+             •   Un total de 10.345 persones tenien un permís de residència. Aquestes autoritzacions
+                 augmenten respecte al mateix període anterior, amb una variació anual del +3,3%.
+             •   Es comptabilitzaven un total de 1.966 permisos de treball fronterer en vigor. La variació
+                 anual augmenta en un 3,2%.
+             •   Hi havia un total de 4.099 autoritzacions de treball temporal en vigor. Aquestes
+                 autoritzacions augmenten un 4,8% respecte a l’any anterior.
+             •   Es registraven 203 autoritzacions de treball temporal per a empreses estrangeres en
+                 vigor. Aquest tipus de permís presenta una variació anual positiva del 4,1%.
+
+
+
+
+         Nota: Per les seves particularitats, les autoritzacions temporals d’hivern, que autoritzen a
+         treballar i a residir temporalment al Principat d'Andorra seran objecte de publicacions
+         específiques encara que estan comptabilitzades en aquesta publicació.
+
+
+
+
+NP_A010-A020_20260817                                                                                        Pàg. 1 de 16
+               A010. Estadística d’estrangers amb permís de residència. Febrer - Abril del 2026
+                      A020. Estadística d’autoritzacions de treball. Febrer - Abril del 2026
+
+
+
+         Índex:
+
+         1. Dades originals ......................................................................................................................... 3
+         2. Dades ajustades estacionalment ............................................................................................. 6
+         3. Gràfics ...................................................................................................................................... 7
+         4. Detall de les dades pel període Febrer - Abril del 2026......................................................... 10
+         5. Nota metodològica ................................................................................................................. 15
+         6. Dates de les publicacions previstes ....................................................................................... 16
+
+
+
+
+NP_A010-A020_20260817                                                                                                                                          Pàg. 2 de 16
+             A010. Estadística d’estrangers amb permís de residència. Febrer - Abril del 2026
+                    A020. Estadística d’autoritzacions de treball. Febrer - Abril del 2026
+
+
+         1. Dades originals
+
+         Durant el període Febrer - Abril del 2026 s’han acordat un total de 1.284 autoritzacions inicials,
+         el que representa una variació negativa del 22,2% respecte al mateix període anterior.
+
+         Pel que fa a les autoritzacions prorrogables, se n’han autoritzat 939, un 32,8% menys que al
+         mateix període anterior. De permisos de residència i treball, se n’acorden 515, equivalent a una
+         variació anual del -43,1%. Els permisos de residència suposen 352 autoritzacions, un -12,4%
+         respecte al mateix període anterior. S’han acordat 65 permisos per treballadors fronterers, un
+         11,0% menys que al mateix període anterior.
+
+         Quant a les autoritzacions temporals, les de treball temporal són 197 i augmenten un 72,8%
+         respecte al mateix període anterior. Les autoritzacions temporals per a empreses estrangeres
+         són 116, augmenten un 9,4%, i les de treball temporal per recerca i estudis, pràctiques
+         formatives i entrenaments esportius (29 autoritzacions) tenen una variació del -9,4% respecte al
+         mateix període anterior. S’han atorgat 3 autoritzacions de treballador fronterer temporal.
+
+                   Tipus d'autoritzacions                                                                      Feb 2025 -   Feb 2026 -   Variació
+                                                                                                                                                    Variació
+                   (dades trimestrals)                                                                          Abr 2025     Abr 2026    absoluta
+                                                    Residència i treball                                             905          515        -390     -43,1%
+                                                    Residència                                                       402          352         -50     -12,4%
+                                                    Fronterer                                                         73            65         -8     -11,0%
+                                                    Treball sense residència                                          17             7        -10     -58,8%
+
+
+
+
+                     Inicials per tipus
+                                                    Autoritzacions prorrogables                                     1.397         939        -458     -32,8%
+                                                    Temporal                                                         114          197          83     72,8%
+                                                    Temporal per a empreses estrangeres                              106          116          10       9,4%
+                                                    Temporal per recerca i estudis, pràctiques formatives i
+                                                                                                                      32            29         -3      -9,4%
+                                                    entrenaments esportius
+                                                    Fronterer temporal                                                  1            3          2    200,0%
+                                                    Autoritzacions temporals                                         253          345          92     36,4%
+                                                    Total                                                           1.650        1.284       -366     -22,2%
+
+
+
+
+         Quant a la distribució de les autoritzacions inicials segons la Classificació Nacional
+         d’Ocupacions (CNO), els grups amb una variació positiva més significativa són “Operadors
+         d'instal·lacions i maquinària, i muntadors” amb un +84,8% (28 autoritzacions més que al mateix
+         període anterior) i “Personal directiu de les empreses i de les administracions públiques” amb
+         un +39,2% (20 autoritzacions més). Els grups amb les variacions absolutes i negatives més
+         significatives són “Tècnics i professionals de suport” amb un -43,2% (108 autoritzacions inicials
+         menys) i “Artesans i treballadors qualificats de les indústries manufactureres, la construcció i la
+         mineria, llevat dels operadors d'instal·lacions i maquinària” amb un -30,4% (75 autoritzacions
+         inicials menys).
+
+                    Autoritzacions inicials acordades                                                          Feb 2025 -   Feb 2026 -   Variació
+                                                                                                                                                    Variació
+                    (dades trimestrals)                                                                         Abr 2025     Abr 2026    absoluta
+                                                    Personal directiu de les empreses i de les
+                                                                                                                      51           71         20      39,2%
+                                                    administracions públiques
+                                                    Tècnics i professionals científics i intel·lectuals               75           70          -5     -6,7%
+                                                    Tècnics i professionals de suport                                250          142        -108    -43,2%
+                                                    Empleats administratius                                           59           24         -35    -59,3%
+
+
+
+
+                            Inicials per grup CNO
+                                                    Treballadors de serveis de restauració, personals,
+                                                                                                                     241          187         -54    -22,4%
+                                                    protecció i venedors de comerços
+                                                    Treballadors qualificats en activitats agrícoles i
+                                                                                                                       2            1          -1    -50,0%
+                                                    pesqueres
+                                                    Artesans i treballadors qualificats de les indústries
+                                                    manufactureres, la construcció i la mineria, llevat dels         247          172         -75    -30,4%
+                                                    operadors d'instal·lacions i maquinària
+                                                    Operadors d'instal·lacions i maquinària, i muntadors              33           61         28      84,8%
+                                                    Treballadors no qualificats                                      150          143          -7     -4,7%
+                                                    No especificat                                                   542          413        -129    -23,8%
+                                                    Total d'autoritzacions inicials                                1.650        1.284        -366    -22,2%
+
+
+
+
+NP_A010-A020_20260817                                                                                                                                          Pàg. 3 de 16
+             A010. Estadística d’estrangers amb permís de residència. Febrer - Abril del 2026
+                    A020. Estadística d’autoritzacions de treball. Febrer - Abril del 2026
+
+
+         Les autoritzacions en vigor a 30 d’abril del 2026 són 59.997, fet que equival a una variació
+         anual positiva del 2,4%, de les quals 55.566 són autoritzacions prorrogables, un 2,2% més de
+         les que hi havia el 30 d’abril del 2025.
+
+         Pel que fa a les autoritzacions de residència i treball, són 43.155, i les de residència són
+         10.345, el que representa una variació anual positiva del 2,0% i del 3,3%, respectivament. Les
+         autoritzacions per treball fronterer són 1.966, és a dir, 61 més que al mateix període anterior
+         (+3,2%).
+
+         Quant a les autoritzacions temporals, les de treball temporal són 4.099 (+4,8%) i les de treball
+         temporal per a empreses estrangeres són 203, amb una variació positiva del 4,1%.
+
+         Durant el període Febrer - Abril del 2026, el nombre de baixes del país se situa en 284, un
+         +27,9% respecte al mateix període anterior.
+
+                   Tipus d'autoritzacions                                                                    Feb 2025 -    Feb 2026 -         Variació
+                                                                                                                                                                   Variació
+                   (dades darrer dia del trimestre)                                                           Abr 2025      Abr 2026          absoluta
+                                                  Residència i treball                                          42.318         43.155                837              2,0%
+                                                  Residència                                                    10.010         10.345                335              3,3%
+                                                  Fronterer                                                      1.905          1.966                  61             3,2%
+                                                  Treball sense residència                                         117             100                -17           -14,5%
+
+
+
+
+                        En vigor per tipus
+                                                  Autoritzacions prorrogables                                   54.350         55.566              1.216              2,2%
+                                                  Temporal                                                       3.911          4.099                188              4,8%
+                                                  Temporal per a empreses estrangeres                              195             203                  8             4,1%
+                                                  Temporal per recerca i estudis, pràctiques formatives i
+                                                                                                                   100              94                 -6            -6,0%
+                                                  entrenaments esportius
+                                                  Fronterer temporal                                                  27            35                  8            29,6%
+                                                  Autoritzacions temporals                                       4.233          4.431                198              4,7%
+                                                  Total                                                         58.583         59.997              1.414              2,4%
+                   Baixes país                                                                                     222             284                 62            27,9%
+                   Nota: les dades d'autoritzacions en vigor són les dades registrades el darrer dia del trimestre. Les baixes són les acumulades del trimestre.
+
+
+
+
+         Pel que fa a la distribució de les autoritzacions en vigor segons la Classificació Nacional
+         d’Ocupacions (CNO), els grups amb variacions absolutes i positives que més destaquen són
+         “Tècnics i professionals de suport” amb un +4,1% (242 autoritzacions més respecte al mateix
+         període anterior) i “Treballadors de serveis de restauració, personals, protecció i venedors de
+         comerços” amb un +1,8% (199 autoritzacions en vigor més). L’únic grup amb una variació
+         negativa és “Treballadors qualificats en activitats agrícoles i pesqueres” amb un -9,8% (9
+         autoritzacions en vigor menys).
+
+
+                   Autoritzacions en vigor                                                                   Feb 2025 -    Feb 2026 -         Variació
+                                                                                                                                                                   Variació
+                   (dades trimestrals)                                                                        Abr 2025      Abr 2026          absoluta
+                                                  Personal directiu de les empreses i de les
+                                                                                                                 1.332          1.441                109              8,2%
+                                                  administracions públiques
+                                                  Tècnics i professionals científics i intel·lectuals            3.208          3.250                 42              1,3%
+                                                  Tècnics i professionals de suport                              5.955          6.197                242              4,1%
+                                                  Empleats administratius                                        3.075          3.077                   2             0,1%
+
+
+
+
+                          En vigor per grup CNO
+                                                  Treballadors de serveis de restauració, personals,
+                                                                                                                11.166         11.365                199              1,8%
+                                                  protecció i venedors de comerços
+                                                  Treballadors qualificats en activitats agrícoles i
+                                                                                                                      92            83                 -9            -9,8%
+                                                  pesqueres
+                                                  Artesans i treballadors qualificats de les indústries
+                                                  manufactureres, la construcció i la mineria, llevat dels       4.626          4.792                166              3,6%
+                                                  operadors d'instal·lacions i maquinària
+                                                  Operadors d'instal·lacions i maquinària, i muntadors           1.504          1.561                 57              3,8%
+                                                  Treballadors no qualificats                                    7.346          7.521                175              2,4%
+                                                  No especificat                                                20.279         20.710                431              2,1%
+                                                  Total d'autoritzacions inicials                               58.583         59.997             1.414               2,4%
+                   Nota: les dades d'autoritzacions en vigor són les dades registrades el darrer dia del trimestre.
+
+
+
+
+NP_A010-A020_20260817                                                                                                                                                         Pàg. 4 de 16
+             A010. Estadística d’estrangers amb permís de residència. Febrer - Abril del 2026
+                    A020. Estadística d’autoritzacions de treball. Febrer - Abril del 2026
+
+
+         En aquesta taula es mostren les dades acumulades en els 12 darrers mesos per les
+         autoritzacions inicials i la mitjana de les dades del mateix període per les autoritzacions en
+         vigor, així com la seva evolució respecte al mateix període anterior:
+
+
+                   Tipus d'autoritzacions                                                            Mai 2024 -      Mai 2025 -           Variació
+                                                                                                                                                         Variació
+                   (dades acumulades)                                                                 Abr 2025        Abr 2026            absoluta
+                                           Residència i treball                                            3.459            3.189                -270      -7,8%
+                                           Residència                                                      1.582            1.562                  -20     -1,3%
+                                           Fronterer                                                         252               285                 33      13,1%
+                                           Treball sense residència                                           69                40                 -29    -42,0%
+
+
+
+
+                      Inicials per tipus
+                                           Autoritzacions prorrogables                                     5.362            5.076                -286      -5,3%
+                                           Temporal                                                        5.709            5.705                   -4     -0,1%
+                                           Temporal per a empreses estrangeres                               560               427               -133     -23,8%
+                                           Temporal per recerca i estudis, pràctiques formatives i
+                                                                                                             132               128                  -4     -3,0%
+                                           entrenaments esportius
+                                           Fronterer temporal                                                 31                39                  8      25,8%
+                                           Autoritzacions temporals                                        6.432            6.299                -133      -2,1%
+                                           Total                                                         11.794            11.375                -419      -3,6%
+                   Tipus d'autoritzacions                                                            Mai 2024 -      Mai 2025 -           Variació
+                                                                                                                                                         Variació
+                   (dades acumulades - mitjana)                                                       Abr 2025        Abr 2026            absoluta
+                                           Residència i treball                                          41.739            43.087                1.348      3,2%
+                                           Residència                                                      9.792           10.181                 389       4,0%
+                                           Fronterer                                                       1.874            1.945                  70       3,8%
+                                           Treball sense residència                                          111               115                  5       4,1%
+
+
+
+
+                      En vigor per tipus
+                                           Autoritzacions prorrogables                                   53.515            55.327                1.812      3,4%
+                                           Temporal                                                        2.396            2.427                  30       1,3%
+                                           Temporal per a empreses estrangeres                               317               201               -116     -36,6%
+                                           Temporal per recerca i estudis, pràctiques formatives i
+                                                                                                              64                68                  4       6,6%
+                                           entrenaments esportius
+                                           Fronterer temporal                                                 14                17                  3      21,2%
+                                           Autoritzacions temporals                                        2.792            2.713                  -79     -2,8%
+                                           Total                                                         56.307            58.040                1.733      3,1%
+                   Baixes país                                                                               986            1.084                  98       9,9%
+                   Les dades incials i les baixes corresponen a dades acumulades però les dades en vigor corresponen a la mitjana del període.
+
+
+
+
+NP_A010-A020_20260817                                                                                                                                               Pàg. 5 de 16
+                             A010. Estadística d’estrangers amb permís de residència. Febrer - Abril del 2026
+                                    A020. Estadística d’autoritzacions de treball. Febrer - Abril del 2026
+
+
+         2. Dades ajustades estacionalment
+
+         Quant a les dades mensuals ajustades, un cop eliminades les variacions causades pels efectes
+         del calendari i del període de l’any en què ens trobem, es constata en les autoritzacions inicials
+         una tendència a la baixa en els darrers dos mesos que en aquest període se situa en un -0,3%.
+         El nombre d’autoritzacions en vigor presenta una tendència lleugerament a la baixa en el darrer
+         mes, tot i que positiva, i se situa en un +0,3%. Pel que fa a les baixes del país, presenten una
+         tendència a la baixa en els darrers cinc mesos, que registra un -0,8%.
+
+
+          Tipus d'autoritzacions
+                                                                                                  nov-25            des-25            gen-26              feb-26      mar-26   abr-26
+          (Variacions mensuals dades ajustades)
+                                  Autoritzacions prorrogables
+                                  Residència i treball                                              -3,6%             -3,2%             -2,5%             -1,5%        -0,4%    0,7%
+                                  Residència                                                        -1,0%             -0,3%              0,4%              1,1%        1,6%     1,8%
+                                  Fronterer                                                         -0,3%             -0,2%              0,0%              0,1%        0,0%    -0,4%
+
+
+
+
+             Inicials per tipus
+                                  Treball sense residència                                        -24,7%            -29,3%             -30,1%            -19,3%        0,7%    15,4%
+                                  Autoritzacions temporals
+                                  Temporal                                                           0,4%              0,1%             -0,2%             -0,4%        -0,6%   -0,8%
+                                  Temporal per a empreses estrangeres                                0,1%              0,2%              0,9%              1,8%        1,9%     0,9%
+                                  Temporal per recerca i estudis, pràctiques formatives i
+                                                                                                     0,2%              0,5%              0,7%              0,5%        0,1%    -0,4%
+                                  entrenaments esportius
+                                  Fronterer temporal                                                 2,0%              0,9%             -0,2%             -1,1%        -2,0%   -2,7%
+                                  Total                                                             -0,4%             -0,1%              0,1%              0,1%        -0,1%   -0,3%
+                                  Autoritzacions prorrogables
+                                  Residència i treball                                               0,1%              0,1%              0,1%              0,0%        0,0%     0,0%
+                                  Residència                                                         0,2%              0,2%              0,2%              0,3%        0,3%     0,2%
+                                  Fronterer                                                          0,4%              0,3%              0,2%              0,2%        0,2%     0,2%
+
+
+
+
+             En vigor per tipus
+                                  Treball sense residència                                          -3,2%             -4,2%             -4,4%             -4,1%        -3,4%   -2,7%
+                                  Autoritzacions temporals
+                                  Temporal                                                           1,3%              0,9%              0,3%             -0,3%        -0,9%   -1,2%
+                                  Temporal per a empreses estrangeres                                0,8%              1,6%              2,0%              3,4%        4,7%     4,7%
+                                  Temporal per recerca i estudis, pràctiques formatives i
+                                                                                                    -1,1%             -1,1%             -1,0%             -1,0%        -1,0%   -1,2%
+                                  entrenaments esportius
+                                  Fronterer temporal                                                 3,7%              4,1%              3,8%              2,5%        0,6%    -1,3%
+                                  Total                                                             -1,4%              0,3%              0,4%              0,4%        0,4%     0,3%
+          Baixes país                                                                                2,0%              1,5%              0,9%              0,3%        -0,3%   -0,8%
+          Nota: Les dades ajustades donen una visió complementària de l’evolució mensual de les dades, sense la influència dels festius, ponts o altres efectes
+          estacionals i de calendari. Les sèries ajustades estacionalment s’han calculat utilitzant una metodologia harmonitzada. Vegeu nota metodològica al final.
+
+
+
+
+NP_A010-A020_20260817                                                                                                                                                                   Pàg. 6 de 16
+                                                                                                                                                                                                                                                 100   120   140   160   180                                                                                       0   100   200   300   400   500   600   700   800   900   1.000   1.100
+                                                                    0   5   10   15   20   25   30   35   40   45   50   55                                                                                              0   20   40   60   80
+                                                                                                                                                                                                                                                                                                                                                        abr-23
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               3. Gràfics
+                                                         abr-23                                                                                                                                               abr-23
+NP_A010-A020_20260817
+
+
+                                                         mai-23                                                                                                                                               mai-23                                                                                                                                    mai-23
+                                                          jun-23                                                                                                                                               jun-23                                                                                                                                    jun-23
+                                                           jul-23                                                                                                                                               jul-23                                                                                                                                    jul-23
+                                                         ago-23                                                                                                                                               ago-23                                                                                                                                    ago-23
+                                                          set-23                                                                                                                                               set-23                                                                                                                                    set-23
+                                                          oct-23                                                                                                                                               oct-23                                                                                                                                    oct-23
+                                                         nov-23                                                                                                                                               nov-23                                                                                                                                    nov-23
+                                                         des-23                                                                                                                                               des-23                                                                                                                                    des-23
+                                                         gen-24                                                                                                                                               gen-24                                                                                                                                    gen-24
+                                                         feb-24                                                                                                                                               feb-24                                                                                                                                    feb-24
+                        Fronterers                                                                                                                                           Residència
+                                                         mar-24                                                                                                                                               mar-24                                                                                                                                    mar-24
+                                                                                                                                                                                                                                                                               Autoritzacions inicials de residència
+
+
+
+                                                         abr-24                                                                                                                                               abr-24                                                                                                                                    abr-24
+                                                                                                                                                                                                                                                                                                                       Residència i treball
+                                                                                                                              Autoritzacions inicials de treball fronterer
+
+
+
+                                                         mai-24                                                                                                                                               mai-24                                                                                                                                    mai-24
+                                                                                                                                                                                                                                                                                                                                                                                                                                             Autoritzacions inicials de residència i treball
+
+
+
+                                                          jun-24                                                                                                                                               jun-24                                                                                                                                    jun-24
+                                                           jul-24                                                                                                                                               jul-24                                                                                                                                    jul-24
+                                                         ago-24                                                                                                                                               ago-24                                                                                                                                    ago-24
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            A010. Estadística d’estrangers amb permís de residència. Febrer - Abril del 2026
+
+
+
+                                                          set-24                                                                                                                                               set-24                                                                                                                                    set-24
+                                                          oct-24                                                                                                                                               oct-24                                                                                                                                    oct-24
+                                                         nov-24                                                                                                                                               nov-24                                                                                                                                    nov-24
+                                                         des-24                                                                                                                                               des-24                                                                                                                                    des-24
+                                                         gen-25                                                                                                                                               gen-25                                                                                                                                    gen-25
+                                                         feb-25                                                                                                                                               feb-25                                                                                                                                    feb-25
+                                                         mar-25                                                                                                                                               mar-25                                                                                                                                    mar-25
+                                                         abr-25                                                                                                                                               abr-25                                                                                                                                    abr-25
+                                                         mai-25                                                                                                                                               mai-25                                                                                                                                    mai-25
+                                                          jun-25                                                                                                                                               jun-25                                                                                                                                    jun-25
+                                                           jul-25                                                                                                                                               jul-25                                                                                                                                    jul-25
+                                                         ago-25                                                                                                                                               ago-25                                                                                                                                    ago-25
+                        Dades ajustades estacionalment                                                                                                                       Dades ajustades estacionalment
+
+
+                                                          set-25                                                                                                                                               set-25                                                                                                                                    set-25
+                                                                                                                                                                                                                                                                                                                       Dades ajustades estacionalment
+
+
+                                                          oct-25                                                                                                                                               oct-25                                                                                                                                    oct-25
+                                                         nov-25                                                                                                                                               nov-25                                                                                                                                    nov-25
+                                                         des-25                                                                                                                                               des-25                                                                                                                                    des-25
+                                                         gen-26                                                                                                                                               gen-26                                                                                                                                    gen-26
+                                                         feb-26                                                                                                                                               feb-26                                                                                                                                    feb-26
+                                                         mar-26                                                                                                                                               mar-26                                                                                                                                    mar-26
+                                                         abr-26                                                                                                                                               abr-26
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   A020. Estadística d’autoritzacions de treball. Febrer - Abril del 2026
+
+
+                                                                                                                                                                                                                                                                                                                                                        abr-26
+
+
+
+
+Pàg. 7 de 16
+                                                                    8.600   8.800   9.000   9.200   9.400   9.600   9.800   10.000   10.200   10.400   10.600                                                                                                       35.000   36.000   37.000   38.000   39.000   40.000   41.000   42.000   43.000   44.000                                                                                                      0   15   30   45   60   75   90   105   120   135   150
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      abr-23
+                                                         abr-23                                                                                                                                                                                          abr-23
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      mai-23
+NP_A010-A020_20260817
+
+                                                         mai-23                                                                                                                                                                                          mai-23
+                                                                                                                                                                                                                                                                                                                                                                                                                                                       jun-23
+                                                          jun-23                                                                                                                                                                                          jun-23
+                                                                                                                                                                                                                                                                                                                                                                                                                                                        jul-23
+                                                           jul-23                                                                                                                                                                                          jul-23
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      ago-23
+                                                         ago-23                                                                                                                                                                                          ago-23
+                                                                                                                                                                                                                                                                                                                                                                                                                                                       set-23
+                                                          set-23                                                                                                                                                                                          set-23
+                                                                                                                                                                                                                                                                                                                                                                                                                                                       oct-23
+                                                          oct-23                                                                                                                                                                                          oct-23
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      nov-23
+                                                         nov-23                                                                                                                                                                                          nov-23
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      des-23
+                                                         des-23                                                                                                                                                                                          des-23
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      gen-24
+                                                         gen-24                                                                                                                                                                                          gen-24
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      feb-24
+                                                         feb-24                                                                                                                                                                                          feb-24
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      mar-24
+                        Residència
+                                                         mar-24                                                                                                                                                                                          mar-24
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      abr-24
+                                                         abr-24                                                                                                                                                                                          abr-24
+                                                                                                                                                                                                                        Residència i treball
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      mai-24
+                                                         mai-24                                                                                                                                                                                          mai-24
+                                                                                                                                                                                                                                                                                                                                                                                                                                                       jun-24
+                                                          jun-24                                                                                                                                                                                          jun-24
+                                                                                                                                                                                                                                                                                                                                                              Autoritzacions en vigor de residència i treball
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                        jul-24
+                                                           jul-24                                                                                                                                                                                          jul-24
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Autoritzacions inicials per empreses estrangeres
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      ago-24
+                                                                                                                                                                                                                                                                                                                                                                                                                Temporal per a empreses estrangeres
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              A010. Estadística d’estrangers amb permís de residència. Febrer - Abril del 2026
+
+
+                                                         ago-24                                                                                                                                                                                          ago-24
+                                                                                                                                                                Autoritzacions en vigor de residència (sense treball)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                       set-24
+                                                          set-24                                                                                                                                                                                          set-24
+                                                                                                                                                                                                                                                                                                                                                                                                                                                       oct-24
+                                                          oct-24                                                                                                                                                                                          oct-24
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      nov-24
+                                                         nov-24                                                                                                                                                                                          nov-24
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      des-24
+                                                         des-24                                                                                                                                                                                          des-24
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      gen-25
+                                                         gen-25                                                                                                                                                                                          gen-25
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      feb-25
+                                                         feb-25                                                                                                                                                                                          feb-25
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      mar-25
+                                                         mar-25                                                                                                                                                                                          mar-25
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      abr-25
+                                                         abr-25                                                                                                                                                                                          abr-25
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      mai-25
+                                                         mai-25                                                                                                                                                                                          mai-25
+                                                                                                                                                                                                                                                                                                                                                                                                                                                       jun-25
+                                                          jun-25                                                                                                                                                                                          jun-25
+                                                                                                                                                                                                                                                                                                                                                                                                                                                        jul-25
+                                                           jul-25                                                                                                                                                                                          jul-25
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      ago-25
+                                                         ago-25                                                                                                                                                                                          ago-25
+                                                                                                                                                                                                                                                                                                                                                                                                                                                       set-25
+                        Dades ajustades estacionalment
+
+
+                                                          set-25                                                                                                                                                                                          set-25
+                                                                                                                                                                                                                                                                                                                                                                                                                                                       oct-25
+                                                                                                                                                                                                                        Dades ajustades estacionalment
+
+
+                                                          oct-25                                                                                                                                                                                          oct-25
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      nov-25
+                                                         nov-25                                                                                                                                                                                          nov-25
+                                                                                                                                                                                                                                                                                                                                                                                                                Dades ajustades estacionalment
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      des-25
+                                                         des-25                                                                                                                                                                                          des-25
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      gen-26
+                                                         gen-26                                                                                                                                                                                          gen-26
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      feb-26
+                                                         feb-26                                                                                                                                                                                          feb-26
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      mar-26
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     A020. Estadística d’autoritzacions de treball. Febrer - Abril del 2026
+
+
+                                                         mar-26                                                                                                                                                                                          mar-26
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      abr-26
+                                                         abr-26                                                                                                                                                                                          abr-26
+
+
+
+
+Pàg. 8 de 16
+                                                                   0   15   30   45   60   75   90   105   120   135   150                                                                         0   70   140   210   280   350   420   490   560   630   700                                                                                                  1.700   1.750   1.800   1.850   1.900   1.950   2.000
+                                                         abr-23                                                                                                                         abr-23                                                                                                                                                        abr-23
+                                                         mai-23                                                                                                                         mai-23                                                                                                                                                        mai-23
+NP_A010-A020_20260817
+
+
+                                                         jun-23                                                                                                                          jun-23                                                                                                                                                        jun-23
+                                                          jul-23                                                                                                                          jul-23                                                                                                                                                        jul-23
+                                                                                                                             Baixes registrades
+
+                                                         ago-23                                                                                                                         ago-23                                                                                                                                                        ago-23
+                                                         set-23                                                                                                                          set-23                                                                                                                                                        set-23
+                                                         oct-23                                                                                                                          oct-23                                                                                                                                                        oct-23
+                                                         nov-23                                                                                                                         nov-23                                                                                                                                                        nov-23
+                                                         des-23                                                                                                                         des-23                                                                                                                                                        des-23
+                                                         gen-24                                                                                                                         gen-24                                                                                                                                                        gen-24
+                                                         feb-24                                                                                                                         feb-24                                                                                                                       Fronterers                       feb-24
+                                                         mar-24                                                                                                                         mar-24                                                                                                                                                        mar-24
+                                                         abr-24                                                                                                                         abr-24                                                                                                                                                        abr-24
+                        Baixes registrades
+
+                                                         mai-24                                                                                                                         mai-24                                                                                                                                                        mai-24
+                                                                                                                                                                                                                                                                                                                                                                                                                         Autoritzacions en vigor de treball fronterer
+
+
+
+
+                                                         jun-24                                                                                                                          jun-24                                                                                                                                                        jun-24
+                                                          jul-24                                                                                                                          jul-24                                                                                                                                                        jul-24
+                                                         ago-24                                                                                                                         ago-24                                                                                                                                                        ago-24
+                                                                                                                                                                                                                                                                  Autoritzacions en vigor per empreses estrangeres
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                        A010. Estadística d’estrangers amb permís de residència. Febrer - Abril del 2026
+                                                                                                                                                  Temporal per a empreses estrangeres
+
+
+
+
+                                                         set-24                                                                                                                          set-24                                                                                                                                                        set-24
+                                                         oct-24                                                                                                                          oct-24                                                                                                                                                        oct-24
+                                                         nov-24                                                                                                                         nov-24                                                                                                                                                        nov-24
+                                                         des-24                                                                                                                         des-24                                                                                                                                                        des-24
+                                                         gen-25                                                                                                                         gen-25                                                                                                                                                        gen-25
+                                                         feb-25                                                                                                                         feb-25                                                                                                                                                        feb-25
+                                                         mar-25                                                                                                                         mar-25                                                                                                                                                        mar-25
+                                                         abr-25                                                                                                                         abr-25                                                                                                                                                        abr-25
+                                                         mai-25                                                                                                                         mai-25                                                                                                                                                        mai-25
+                                                         jun-25                                                                                                                          jun-25                                                                                                                                                        jun-25
+                                                          jul-25                                                                                                                          jul-25                                                                                                                                                        jul-25
+                                                         ago-25                                                                                                                         ago-25                                                                                                                                                        ago-25
+                                                                                                                                                                                                                                                                                                                     Dades ajustades estacionalment
+
+
+                                                         set-25                                                                                                                          set-25                                                                                                                                                        set-25
+                        Dades ajustades estacionalment
+
+
+
+                                                         oct-25                                                                                                                          oct-25                                                                                                                                                        oct-25
+                                                         nov-25                                                                                                                         nov-25                                                                                                                                                        nov-25
+                                                                                                                                                  Dades ajustades estacionalment
+
+
+                                                         des-25                                                                                                                         des-25                                                                                                                                                        des-25
+                                                         gen-26                                                                                                                         gen-26                                                                                                                                                        gen-26
+                                                         feb-26                                                                                                                         feb-26                                                                                                                                                        feb-26
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                               A020. Estadística d’autoritzacions de treball. Febrer - Abril del 2026
+
+
+                                                         mar-26                                                                                                                         mar-26                                                                                                                                                        mar-26
+                                                         abr-26                                                                                                                         abr-26                                                                                                                                                        abr-26
+
+
+
+
+Pàg. 9 de 16
+             A010. Estadística d’estrangers amb permís de residència. Febrer - Abril del 2026
+                    A020. Estadística d’autoritzacions de treball. Febrer - Abril del 2026
+
+
+         4. Detall de les dades pel període Febrer - Abril del 2026
+
+         Durant el període Febrer - Abril del 2026 s’han acordat un total de 1.284 autoritzacions
+         d’immigració inicials: 515 (40,1%) en règim de residència i treball, 352 (27,4%) en règim de
+         residència i 197 (15,3%) són autoritzacions temporals.
+
+         Per nacionalitats, “Altres nacionalitats” és el col·lectiu més representat amb un total de 565
+         autoritzacions (44,0%), seguits dels espanyols amb 544 autoritzacions (42,4%). Els francesos i
+         els portuguesos representen l’11,1% i el 2,5%, respectivament.
+
+                                         Autoritzacions inicials acordades durant el trimestre per tipus i nacionalitat
+
+                  Tipus d'autorització                               Espanyola       Francesa      Portuguesa           Altres          Total
+
+                                                                            221              66             22             206           515
+                  Residència i treball
+                                                                          42,9%           12,8%           4,3%            40,0%         100%
+                                                                            143              60               1            148           352
+                  Residència
+                                                                          40,6%           17,0%           0,3%            42,0%         100%
+                                                                             56               1               1               7           65
+                  Fronterer
+                                                                          86,2%            1,5%           1,5%            10,8%         100%
+                                                                              3               4                                            7
+                  Treball sense residència
+                                                                          42,9%           57,1%                                         100%
+                                                                            423            131              24             361           939
+                  Autoritzacions prorrogables
+                                                                          45,0%           14,0%           2,6%            38,4%         100%
+                                                                             43               7               3            144           197
+                  Temporal
+                                                                          21,8%            3,6%           1,5%            73,1%         100%
+                                                                             61               3               4             48           116
+                  Temporal per a empreses estrangeres
+                                                                          52,6%            2,6%           3,4%            41,4%         100%
+                  Temporal per recerca i estudis, pràctiques                 15               2               1             11            29
+                  formatives i entrenaments esportius                     51,7%            6,9%           3,4%            37,9%         100%
+                                                                              2                                               1            3
+                  Fronterer temporal
+                                                                          66,7%                                           33,3%         100%
+                                                                            121              12               8            204           345
+                  Total autoritzacions temporals
+                                                                          35,1%            3,5%           2,3%            59,1%         100%
+                                                                            544            143              32             565          1.284
+                  Total
+                                                                          42,4%           11,1%           2,5%            44,0%         100%
+                  * Dades provisionals
+
+
+
+
+         D’aquestes 565 autoritzacions inicials d’altres nacionalitats, 108 (19,1%) corresponen a
+         persones de nacionalitat colombiana, 101 (17,9%) a persones amb nacionalitat argentina i 58
+         (10,3%) a persones amb nacionalitat peruana. El 52,7% restant correspon a persones d’altres
+         nacionalitats.
+
+                              Autoritzacions inicials acordades durant el trimestre per tipus i pel col·lectiu d'altres nacionalitats
+
+                  Tipus d'autorització                               Argentina     Colombiana         Peruana           Altres          Total
+
+                                                                             38              43             32              93           206
+                  Residència i treball
+                                                                          18,4%           20,9%          15,5%            45,1%         100%
+                                                                             20              17             15              96           148
+                  Residència
+                                                                          13,5%           11,5%          10,1%            64,9%         100%
+                                                                                              1                               6            7
+                  Fronterer
+                                                                                          14,3%                           85,7%         100%
+
+                  Treball sense residència
+
+                                                                             58              61             47             195           361
+                  Autoritzacions prorrogables
+                                                                          16,1%           16,9%          13,0%            54,0%         100%
+                                                                             43              37               6             58           144
+                  Temporal
+                                                                          29,9%           25,7%           4,2%            40,3%         100%
+                                                                                              9               5             34            48
+                  Temporal per a empreses estrangeres
+                                                                                          18,8%          10,4%            70,8%         100%
+                  Temporal per recerca i estudis, pràctiques                                  1                             10            11
+                  formatives i entrenaments esportius                                      9,1%                           90,9%         100%
+                                                                                                                              1            1
+                  Fronterer temporal
+                                                                                                                        100,0%          100%
+                                                                             43              47             11             103           204
+                  Total autoritzacions temporals
+                                                                          21,1%           23,0%           5,4%            50,5%         100%
+                                                                            101             108             58             298           565
+                  Total
+                                                                          17,9%           19,1%          10,3%            52,7%         100%
+                  * Dades provisionals
+
+
+
+
+NP_A010-A020_20260817                                                                                                                           Pàg. 10 de 16
+             A010. Estadística d’estrangers amb permís de residència. Febrer - Abril del 2026
+                    A020. Estadística d’autoritzacions de treball. Febrer - Abril del 2026
+
+
+         Al final del període Febrer - Abril del 2026 hi ha hagut un total de 53.500 autoritzacions de
+         residència i treball i residència en vigor, és a dir, un 89,2% del total.
+
+         Els treballadors fronterers totalitzen 1.966 autoritzacions i representen el 3,3% de les
+         autoritzacions de treball en vigor.
+
+         La majoria de les autoritzacions de treball temporal (85,0%) són del grup d’“Altres
+         nacionalitats”. Els espanyols estan particularment presents en els treballadors fronterers, amb
+         el 90,2% de representació, i en les autoritzacions de residència i treball, amb el 45,0% de
+         representació. A més, suposen el 43,3% del total de les autoritzacions en vigor, mentre que el
+         grup d’“Altres nacionalitats” registra una representació total del 33,6%, els portuguesos del
+         15,3% i els francesos del 7,9% restant.
+
+
+                                                   Autoritzacions en vigor per tipus i nacionalitat al final del trimestre
+
+                  Tipus d'autorització                                           Espanyola             Francesa          Portuguesa   Altres    Total
+
+                                                                                       19.441                3.170            8.475   12.069   43.155
+                  Residència i treball
+                                                                                         45,0%                7,3%            19,6%    28,0%    100%
+                                                                                        3.948                1.409             602     4.386   10.345
+                  Residència
+                                                                                         38,2%               13,6%             5,8%    42,4%    100%
+                                                                                        1.773                    40             74       79     1.966
+                  Fronterer
+                                                                                         90,2%                2,0%             3,8%     4,0%    100%
+                                                                                            57                   39                        4     100
+                  Treball sense residència
+                                                                                         57,0%               39,0%                      4,0%    100%
+                                                                                       25.219                4.658            9.151   16.538   55.566
+                  Autoritzacions prorrogables
+                                                                                         45,4%                8,4%            16,5%    29,8%    100%
+                                                                                           553                   37             23     3.486    4.099
+                  Temporal
+                                                                                         13,5%                0,9%             0,6%    85,0%    100%
+                                                                                           108                       4          10       81      203
+                  Temporal per a empreses estrangeres
+                                                                                         53,2%                2,0%             4,9%    39,9%    100%
+                  Temporal per recerca i estudis, pràctiques                                45                       9            1      39       94
+                  formatives i entrenaments esportius                                    47,9%                9,6%             1,1%    41,5%    100%
+                                                                                            27                       2                     6      35
+                  Fronterer temporal
+                                                                                         77,1%                5,7%                     17,1%    100%
+                                                                                           733                   52             34     3.612    4.431
+                  Autoritzacions temporals
+                                                                                         16,5%                1,2%             0,8%    81,5%    100%
+                                                                                       25.952                4.710            9.185   20.150   59.997
+                  Total
+                                                                                         43,3%                7,9%            15,3%    33,6%    100%
+                  Nota: les dades d'autoritzacions en vigor són les dades registrades el darrer dia del trimestre.
+
+
+
+
+NP_A010-A020_20260817                                                                                                                                   Pàg. 11 de 16
+             A010. Estadística d’estrangers amb permís de residència. Febrer - Abril del 2026
+                    A020. Estadística d’autoritzacions de treball. Febrer - Abril del 2026
+
+
+         Quant al detall de les autoritzacions en vigor pel col·lectiu d’altres nacionalitats, les nacionalitats
+         més representades són els argentins amb un total de 5.163 autoritzacions al final del període
+         febrer - abril del 2026 , seguida pels colombians i els peruans amb 2.270 i 1.170 autoritzacions
+         en vigor, respectivament. Dins del subgrup de les autoritzacions de residència i treball,
+         destaquen les 3.093 concedides a persones de nacionalitat argentina, que representen el
+         25,6% del total de les autoritzacions de residència i treball del col·lectiu. En el subgrup de les
+         temporals destaquen les 1.741 autoritzacions concedides a argentins, que representen el
+         49,9% del total d’aquestes autoritzacions.
+
+
+                                     Autoritzacions en vigor per tipus i pel col·lectiu d'altres nacionalitats al final del trimestre
+
+                   Tipus d'autorització                                            Argentina        Colombiana            Peruana   Altres    Total
+
+                                                                                         3.093                1.545           936    6.495   12.069
+                   Residència i treball
+                                                                                          25,6%               12,8%          7,8%    53,8%    100%
+                                                                                            320                 248           104    3.714    4.386
+                   Residència
+                                                                                           7,3%                5,7%          2,4%    84,7%    100%
+                                                                                               3                  10            8      58       79
+                   Fronterer
+                                                                                           3,8%               12,7%         10,1%    73,4%    100%
+                                                                                               3                                         1       4
+                   Treball sense residència
+                                                                                          75,0%                                      25,0%    100%
+                                                                                         3.419                1.803         1.048   10.268   16.538
+                   Autoritzacions prorrogables
+                                                                                          20,7%               10,9%          6,3%    62,1%    100%
+                                                                                         1.741                  452           108    1.185    3.486
+                   Temporal
+                                                                                          49,9%               13,0%          3,1%    34,0%    100%
+                                                                                                                  12           12      57       81
+                   Temporal per a empreses estrangeres
+                                                                                                              14,8%         14,8%    70,4%    100%
+                   Temporal per recerca i estudis, pràctiques                                  1                      3         2      33       39
+                   formatives i entrenaments esportius                                     2,6%                7,7%          5,1%    84,6%    100%
+                                                                                               2                                         4       6
+                   Fronterer temporal
+                                                                                          33,3%                                      66,7%    100%
+                                                                                         1.744                  467           122    1.279    3.612
+                   Autoritzacions temporals
+                                                                                          48,3%               12,9%          3,4%    35,4%    100%
+                                                                                         5.163                2.270         1.170   11.547   20.150
+                   Total
+                                                                                          25,6%               11,3%          5,8%    57,3%    100%
+                   Nota: les dades d'autoritzacions en vigor són les dades registrades el darrer dia del trimestre.
+
+
+
+
+NP_A010-A020_20260817                                                                                                                                 Pàg. 12 de 16
+                 A010. Estadística d’estrangers amb permís de residència. Febrer - Abril del 2026
+                        A020. Estadística d’autoritzacions de treball. Febrer - Abril del 2026
+
+
+         Quant als trams d’edat de les persones amb autoritzacions d’immigració en vigor, la part més
+         important (62,5%) es concentra en el tram de 26 a 59 anys, és a dir, que es troben en edat de
+         treballar.
+
+         Les autoritzacions de residència difereixen significativament de la resta pel caràcter no laboral
+         que tenen. Així, el 45,7% d’aquestes autoritzacions es troben en el tram de menys de 18 anys i
+         el 25,1% en el tram superior o igual als 60 anys.
+
+
+                                                                                Autoritzacions en vigor per tipus i tram d'edat
+                                                                                 Menys de 18           De 18 a 25         De 26 a 39       De 40 a 59       Més de 59
+                 Tipus d'autorització                                                                                                                                                Total
+                                                                                       anys                 anys               anys             anys            anys
+                                                                                            115              2.317              11.716           18.578           10.429            43.155
+                 Residència i treball
+                                                                                           0,3%               5,4%               27,1%            43,0%            24,2%              100%
+                                                                                          4.728                749                 778            1.491            2.599            10.345
+                 Residència
+                                                                                          45,7%               7,2%                7,5%            14,4%            25,1%              100%
+                                                                                                               156                 531            1.032              247             1.966
+                 Fronterer
+                                                                                                              7,9%               27,0%            52,5%            12,6%              100%
+                                                                                               1                    1               28               64                6               100
+                 Treball sense residència
+                                                                                           1,0%               1,0%               28,0%            64,0%             6,0%              100%
+                                                                                          4.844              3.223              13.053           21.165           13.281            55.566
+                 Autoritzacions prorrogables
+                                                                                           8,7%               5,8%               23,5%            38,1%            23,9%              100%
+                                                                                                               998               2.522              525               54             4.099
+                 Temporal
+                                                                                                             24,3%               61,5%            12,8%             1,3%              100%
+                                                                                                                24                  58              110               11               203
+                 Temporal per a empreses estrangeres
+                                                                                                             11,8%               28,6%            54,2%             5,4%              100%
+                 Temporal per recerca i estudis, pràctiques                                  36                 48                   7                2                1                94
+                 formatives i entrenaments esportius                                      38,3%              51,1%                7,4%             2,1%             1,1%              100%
+                                                                                                                    5               10               18                2                35
+                 Fronterer temporal
+                                                                                                             14,3%               28,6%            51,4%             5,7%              100%
+                                                                                             36              1.075               2.597              655               68             4.431
+                 Autoritzacions temporals
+                                                                                           0,8%              24,3%               58,6%            14,8%             1,5%              100%
+                                                                                          4.880              4.298              15.650           21.820           13.349            59.997
+                 Total
+                                                                                           8,1%               7,2%               26,1%            36,4%            22,2%              100%
+                 Nota: les dades d'autoritzacions en vigor són les dades registrades el darrer dia del trimestre.
+
+
+
+
+         El 47,0% de les persones que gaudeixen d’una autorització d’immigració en vigor estan
+         registrades des de fa més de 10 anys. Aquesta proporció passa a ser del 24,8% en les
+         autoritzacions de residència, mentre que el 51,2% porten 5 anys o menys registrats al
+         Departament d’Immigració. Aquesta casuística s’explica perquè és una categoria que agrupa
+         molts menors.
+
+                                                            Autoritzacions en vigor per tipus i temps inscrit al registre d’immigració
+                                                                         Menys d'1                                  De 6 a 10       D'11 a 15       De 16 a 20       Més de 20
+         Tipus d'autorització                                                              D'1 a 5 anys                                                                                       Total
+                                                                              any                                       anys            anys             anys            anys
+                                                                                 2.650             12.102               5.591            2.391            3.610            16.811            43.155
+         Residència i treball
+                                                                                   6,1%             28,0%               13,0%             5,5%             8,4%             39,0%             100%
+                                                                                 1.132              4.165               2.485            1.349             563               651             10.345
+         Residència
+                                                                                  10,9%             40,3%               24,0%            13,0%             5,4%              6,3%             100%
+                                                                                   226                695                301               93              135               516              1.966
+         Fronterer
+                                                                                  11,5%             35,4%               15,3%             4,7%             6,9%             26,2%             100%
+                                                                                    35                  49                10                 4                                  2              100
+         Treball sense residència
+                                                                                  35,0%             49,0%               10,0%             4,0%                               2,0%             100%
+                                                                                 4.043             17.011               8.387            3.837            4.308            17.980            55.566
+         Total autoritzacions prorrogables
+                                                                                   7,3%             30,6%               15,1%             6,9%             7,8%             32,4%             100%
+         Nota: s'exclouen de la taula les autoritzacions de treball temporal.
+         Nota: les dades d'autoritzacions en vigor són les dades registrades el darrer dia del trimestre.
+
+
+
+
+NP_A010-A020_20260817                                                                                                                                                                                 Pàg. 13 de 16
+             A010. Estadística d’estrangers amb permís de residència. Febrer - Abril del 2026
+                    A020. Estadística d’autoritzacions de treball. Febrer - Abril del 2026
+
+
+         S’han registrat un total de 284 baixes del país al registre d’immigració durant el trimestre. El
+         55,6% de les baixes són d’espanyols, seguit del grup d’“Altres nacionalitats” (25,4%) i dels
+         francesos i portuguesos amb un 11,6% i un 7,4%, respectivament. Un total de 219 baixes
+         (77,1%) corresponen a autoritzacions de residència i treball i 52 baixes (18,3%) corresponen a
+         autoritzacions de residència.
+
+
+                                      Baixes registrades durant el trimestre per tipus i nacionalitat
+
+               Tipus d'autorització                      Espanyola       Francesa     Portuguesa        Altres   Total
+
+                                                                132              23             19         45     219
+               Residència i treball
+                                                              60,3%           10,5%           8,7%      20,5%    100%
+                                                                 20              10              1         21      52
+               Residència
+                                                              38,5%           19,2%           1,9%      40,4%    100%
+                                                                  6                              1          6      13
+               Altres
+                                                              46,2%                           7,7%      46,2%    100%
+                                                                158              33             21         72     284
+               Total
+                                                              55,6%           11,6%           7,4%      25,4%    100%
+
+
+
+
+NP_A010-A020_20260817                                                                                                    Pàg. 14 de 16
+             A010. Estadística d’estrangers amb permís de residència. Febrer - Abril del 2026
+                    A020. Estadística d’autoritzacions de treball. Febrer - Abril del 2026
+
+
+         5. Nota metodològica
+
+             •   Font. Les dades presentades en aquesta nota de premsa provenen del registre del
+                 Departament d’Immigració tractades i revisades pel Departament d’Estadística del
+                 Govern d’Andorra. Estan disponibles en la nostra web: http://www.estadistica.ad en
+                 l’apartat Estadístiques i Dades/ Població i migració/Servei d'immigració.
+
+             •   Definicions.
+
+                        o   Autorització inicial: Primera autorització acordada a una persona per un tipus
+                            d’autorització. Engloba els nous immigrants i les persones ja registrades que
+                            sol·liciten un canvi de categoria. Es sumen les autoritzacions acordades durant
+                            el mes o el trimestre.
+                        o   Autorització en vigor: Correspon a les persones gaudint d’un permís
+                            d’immigració en vigor per residir o treballar legalment al Principat. Es
+                            comptabilitzen l’últim dia del mes o del trimestre.
+                        o   Baixes registrades: Són les baixes voluntàries del país tramitades via el
+                            Departament d’Immigració. No s’inclouen les baixes de temporers. Es sumen
+                            les baixes registrades durant el mes o el trimestre.
+                        o   Fronterer: Autoritza a treballar al país de forma permanent durant el període
+                            de l’autorització, però ha de pernoctar de forma habitual fora del territori
+                            andorrà.
+                        o   Residència: Autoritza a residir al Principat d'Andorra, inclou els reagrupaments
+                            familiars sense treball i les residències sense activitat lucrativa (que inclouen
+                            les antigues residències passives).
+                        o   Residència i treball: Autoritza a residir i a treballar al país de manera
+                            permanent i efectiva durant la vigència de l’autorització. Inclou les
+                            autoritzacions especifiques al personal d’ensenyament desplaçat, les
+                            autoritzacions regulades per les quotes i els reagrupaments familiars amb
+                            treball.
+                        o   Temporal per a empreses estrangeres: Autoritza a residir i executar
+                            únicament els treballs concrets fins un màxim de 6 mesos. S’exclouen
+                            d’aquesta partida tots aquells casos en què siguin notificacions a immigració
+                            per dies, setmanes o fins a un mes de treball, ja que no es defineixen com a
+                            una autorització.
+                        o   Temporal per recerca i estudis, en pràctiques formatives i entrenaments
+                            esportius: Autoritza a estudiar o a efectuar recerques de caràcter científic o
+                            similar i a residir al país únicament mentre durin els estudis o les recerques per
+                            als quals ha rebut aquesta autorització.
+                        o   Treball sense residència: Autoritza a la persona a treballar al país però no a
+                            residir-hi.
+
+             •   Metodologia.
+
+                 Les dades presentades en aquesta nota de premsa provenen del registre del
+                 Departament d’Immigració. Són dades provisionals pel fet que els registres
+                 d’immigració poden ser objecte d’actualitzacions retroactives. Per aquesta raó tècnica,
+                 les dades que es tracten en aquesta nota de premsa corresponen a l’anterior trimestre
+                 donat que aquestes dades són subjectes a actualitzacions periòdiques.
+                 Per les seves particularitats, les autoritzacions temporals, que autoritzen a treballar i a
+                 residir temporalment al Principat d'Andorra i que inclouen les autoritzacions de la
+                 temporada d’hivern, seran objecte d’una publicació especifica al final de cada
+                 temporada.
+
+                 Càlcul de les sèries mensuals ajustades estacionalment: a partir del mes de gener
+                 del 2010, i per tal d’adaptar-se als formats i les metodologies de càlcul amb estàndards
+                 internacionals, el Departament d’Estadística aplica la desestacionalització de totes les
+                 sèries mensuals basada en la metodologia X12 ARIMA de l’Eurostat i del US Census
+                 Bureau. Aquesta metodologia permet estimar la sèrie ajustada de l’efecte del calendari
+                 i efectes estacionals per tal de poder comparar les dades mensuals amb mesos d’anys
+
+
+
+NP_A010-A020_20260817                                                                                            Pàg. 15 de 16
+             A010. Estadística d’estrangers amb permís de residència. Febrer - Abril del 2026
+                    A020. Estadística d’autoritzacions de treball. Febrer - Abril del 2026
+
+
+                 anteriors (per exemple, no s’haurien de comparar les dades originals d’un mes de maig
+                 amb Setmana Santa amb el mateix mes de maig sense Setmana Santa, o no serien
+                 comparables les xifres d’un mes amb cinc caps de setmana i les xifres del mateix mes
+                 d’un altre any amb quatre caps de setmana).
+
+                 Els valors resultants són estimacions provisionals, subjectes als ajustaments en funció
+                 de l’evolució dels nous valors mensuals de la sèrie. Per a més detall de la informació
+                 es pot consultar la nota metodològica a la pàgina web https://bit.ly/3addfLD.
+
+             •   Referències metodològiques.
+
+                 Eurostat:
+                 L’Eurostat (en anglès: Statistical Office of the European Communities) és
+                 l’oficina estadística de la Comissió Europea, que produeix dades sobre la Unió
+                 Europea (UE) i promou l’harmonització dels mètodes estadístics dels estats membres.
+                 https://joinup.ec.europa.eu/software/demetraplus/description
+
+                 US Census Bureau:
+                 L'Oficina del Cens dels Estats Units (de l’anglès United States Census Bureau) forma
+                 part del Departament de Comerç dels Estats Units. És l’organisme governamental que
+                 s’encarrega principalment dels censos de població als Estats Units, amb l’objectiu de
+                 proporcionar dades sobre població i economia. http://www.census.gov
+
+             •   Citació. Per a qualsevol utilització posterior de la informació continguda en aquesta
+                 nota de comunicació gràcies de citar “Dades del Departament d’Immigració, tractades
+                 pel Departament d’Estadística en la Nota de Premsa ref. NP_A010-A020_20260817”.
+
+             •   Marc Legal. D’acord amb les previsions de la Llei del Pla d’estadística 2026-2029 i el
+                 seu desplegament en el Programa estadístic per a l’any 2026, el present informe dona
+                 resposta a les següents activitats estadístiques del Programa: A010. Estadística
+                 d’estrangers amb permís de residència. A020. Estadística d’autoritzacions de treball
+
+             •   Difusió.    Dades      disponibles   al  web     www.estadistica.ad,      a   l’apartat
+                 Estadístiques/Dades/Població i migració/Servei d’immigració. Per estar informat en
+                 qualsevol moment de les noves publicacions us podeu inscriure a la nostra “Alerta
+                 informativa” a la nostra web. També hi podeu trobar l’històric de les notes de premsa
+                 d’aquest tema: http://www.estadistica.ad
+
+                 Amb l’objectiu de maximitzar la difusió de la informació estadística d’Andorra, les Notes
+                 de Premsa del Departament d’Estadística es podran seguir també per Twitter
+                 (actualment X)
+
+
+
+
+         6. Dates de les publicacions previstes
+
+             Nota de premsa A010. Estadística d’estrangers amb permís de residència. Març - Maig del
+             2026, A020. Estadística d’autoritzacions de treball. Març - Maig del 2026: 10 de setembre
+             del 2026
+
+
+
+
+NP_A010-A020_20260817                                                                                        Pàg. 16 de 16
+

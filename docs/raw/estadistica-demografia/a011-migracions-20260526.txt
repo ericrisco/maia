@@ -1,0 +1,450 @@
+                                   A011 Estadística de migracions. Any 2025
+                                     Data de publicació: dimarts, 26/05/2026
+                                              www.estadistica.ad
+
+
+
+         Resum
+
+         L’any 2025 el saldo migratori del Principat d’Andorra amb l’exterior va ser positiu en 1.829
+         persones, un 2,4% inferior al de l’any 2024, quan el saldo migratori va ser de 1.874 persones.
+
+         Un total de 4.727 persones provinents d’altres països van establir-se al Principat. Aquesta xifra
+         és un 3,0% superior a la de l’any anterior, quan van arribar 4.591 persones. Destaquen, per sobre
+         de la resta de nacionalitats, els immigrants espanyols i els d’altres nacionalitats, que representen
+         el 34,7% i el 46,6% del total d’immigrants respectivament.
+
+         D’altra banda, van marxar del país 2.898 persones, un +6,7% respecte a l’any anterior, quan van
+         marxar 2.717 persones. Per característiques demogràfiques, els que més han migrat són homes,
+         espanyols o d’altres nacionalitats, i amb una edat compresa entre els 20 i els 39 anys.
+
+         El saldo migratori per trams d’edat és negatiu en les edats més elevades, el que significa que a
+         partir dels 70 anys han marxat més persones de les que han arribat. Tanmateix, els saldos
+         migratoris més elevats es troben en les franges d’edat entre 20 i 49 anys. Finalment, el saldo
+         migratori per nacionalitat es mostra negatiu, igual que va succeir l’any passat, per als andorrans
+         i portuguesos. En canvi, el saldo migratori d’altres nacionalitats i dels espanyols són els més
+         elevats.
+
+
+
+
+NP_A011_20260526                                                                                      Pàgina 1 de 9
+                                             A011 Estadística de migracions. Any 2025
+
+
+
+         Índex
+
+         1.   Immigrants ............................................................................................................................. 3
+         2.   Emigrants .............................................................................................................................. 5
+         3.   Saldo migratori ...................................................................................................................... 7
+         4.   Nota metodològica................................................................................................................. 9
+         5.   Dates de les publicacions previstes ...................................................................................... 9
+
+
+
+
+NP_A011_20260526                                                                                                                              Pàgina 2 de 9
+                                    A011 Estadística de migracions. Any 2025
+
+
+         1. Immigrants
+
+
+         1.1 Històric del nombre d'immigrants
+                                                2021      2022     2023     2024    2025      V. 2024/2025
+                         Total                  3.536    4.270    6.045    4.591    4.727            3,0%
+
+
+
+
+         1.2 Històric del nombre d'immigrants per sexe
+                                     2021    2022       2023     2024     2025     V. 2024/2025 Percentatge 2025
+           Femení                    1.398   1.673      2.606    1.819    1.929             6,0%             40,8%
+           Masculí                   2.138   2.597      3.439    2.772    2.798             0,9%             59,2%
+           Total                     3.536   4.270      6.045    4.591    4.727              3,0%            100,0%
+
+
+
+
+         1.3 Històric del nombre d'immigrants per tram d'edat
+                                     2021    2022       2023     2024     2025     V. 2024/2025 Percentatge 2025
+            0 - 9 anys                 247      232      325      255      296          16,1%                 6,3%
+            10 - 19 anys               222      285      323      321      302              -5,9%             6,4%
+            20 - 29 anys               895   1.027      1.661    1.151    1.137             -1,2%            24,1%
+            30 - 39 anys               904   1.171      1.926    1.340    1.391             3,8%             29,4%
+            40 - 49 anys               626      751      985      779      802              3,0%             17,0%
+            50 - 59 anys               368      484      517      489      496              1,4%             10,5%
+            60 - 69 anys               192      213      228      178      213          19,7%                 4,5%
+            70 - 79 anys                53       67       59       57       66          15,8%                 1,4%
+            80 - 89 anys                23       29       18       16       22          37,5%                 0,5%
+            90 i més anys                6       11        3        5        2          -60,0%                0,0%
+            Total                    3.536   4.270      6.045    4.591    4.727             3,0%             100,0%
+
+
+
+
+         1.4 Històric del nombre d'immigrants per parròquia de destí
+                                     2021    2022       2023     2024     2025     V. 2024/2025 Percentatge 2025
+            Canillo                    514      650      943      647      699              8,0%             14,8%
+            Encamp                     430      611     1011      701      728              3,9%             15,4%
+            Ordino                     221      307      359      304      336          10,5%                 7,1%
+            La Massana                 625      686      897      677      705              4,1%             14,9%
+            Andorra La Vella           877   1033       1370     1086     1060              -2,4%            22,4%
+            Sant Julià de Lòria        275      289      377      363      364              0,3%              7,7%
+            Escaldes - Engordany       594      694     1088      813      835              2,7%             17,7%
+            Total                    3.536   4.270      6.045    4.591    4.727             3,0%             100,0%
+
+
+
+
+         1.5 Històric del nombre d'immigrants per nombre de membres a la llar de destí
+                                     2021    2022       2023     2024     2025     V. 2024/2025 Percentatge 2025
+           1 membre                  1.889   2.424      3.697    2.671    2.770             3,7%             58,6%
+           2 membres                  760       864     1.106     972      956              -1,6%            20,2%
+           3 membres                  385       419      572      418      477          14,1%                10,1%
+           4 o més membres            502       563      670      530      524              -1,1%            11,1%
+           Total                     3.536   4.270      6.045    4.591    4.727              3,0%            100,0%
+
+
+
+
+NP_A011_20260526                                                                                                  Pàgina 3 de 9
+                                      A011 Estadística de migracions. Any 2025
+
+
+         1.6 Històric del nombre d'immigrants per nacionalitat
+                                       2021   2022    2023    2024     2025    V. 2024/2025 Percentatge 2025
+           1. Andorrana                228     216     231       226    209          -7,5%             4,4%
+           2. Espanyola               1.649   1.794   1.598   1.502    1.642         9,3%             34,7%
+           3. Francesa                 346     412     407       353    470         33,1%              9,9%
+           4. Portuguesa               154     207     199       146    204         39,7%              4,3%
+           5. Altres                  1.159   1.641   3.610   2.364    2.202         -6,9%            46,6%
+           Total                      3.536   4.270   6.045   4.591    4.727          3,0%           100,0%
+
+
+
+
+         1.7 Històric del nombre d'immigrants per situació de residència
+                                       2021   2022    2023    2024     2025    V. 2024/2025 Percentatge 2025
+           Andorrans                    228    216     231       226    209          -7,5%             4,4%
+           Residència                   758    821     937       896    967          7,9%             20,5%
+           Residència i treball       1.679   1.915   2.076   2.905    2.905         0,0%             61,5%
+           Residència i treball per
+                                        27      33      32       31      31          0,0%              0,7%
+           personal d'ensenyament
+           Residència i treball per
+                                        540    642     436       305    305          0,0%              6,5%
+           compte propi
+           Altres                       304    643    2.333      228    310         36,0%              6,6%
+           Total                      3.536   4.270   6.045   4.591    4.727          3,0%           100,0%
+
+
+
+
+NP_A011_20260526                                                                                           Pàgina 4 de 9
+                                     A011 Estadística de migracions. Any 2025
+
+
+         2.    Emigrants
+
+
+         2.1 Històric del nombre d'emigrants
+                                                 2021     2022     2023     2024    2025      V. 2024/2025
+                           Total                2.135    2.390    2.638    2.717    2.898            6,7%
+
+
+
+
+         2.2 Històric del nombre d'emigrants per sexe
+                                      2021     2022     2023     2024     2025     V. 2024/2025 Percentatge 2025
+              Femení                   920     1.000    1.081    1.148    1.239             7,9%             42,8%
+              Masculí                1.215     1.390    1.557    1.569    1.659             5,7%             57,2%
+              Total                  2.135     2.390    2.638    2.717    2.898             6,7%             100,0%
+
+
+
+
+         2.3 Històric del nombre d'emigrants per tram d'edat
+                                      2021     2022     2023     2024     2025     V. 2024/2025 Percentatge 2025
+              0 - 9 anys               123      136      115      103      168          63,1%                 5,8%
+              10 - 19 anys             141      140      137      165      176              6,7%              6,1%
+              20 - 29 anys             409      542      555      663      638              -3,8%            22,0%
+              30 - 39 anys             463      535      621      677      741              9,5%             25,6%
+              40 - 49 anys             378      398      457      422      469          11,1%                16,2%
+              50 - 59 anys             298      270      347      307      332              8,1%             11,5%
+              60 - 69 anys             167      206      212      209      191              -8,6%             6,6%
+              70 - 79 anys              79       87       87       84       89              6,0%              3,1%
+              80 - 89 anys              55       52       75       67       61              -9,0%             2,1%
+              90 i més anys             22       24       32       20       33          65,0%                 1,1%
+              Total                  2.135     2.390    2.638    2.717    2.898             6,7%             100,0%
+
+
+
+
+         2.4 Històric del nombre d'emigrants per parròquia de destí
+                                      2021     2022     2023     2024     2025     V. 2024/2025 Percentatge 2025
+              Canillo                  214      282      298      382      341          -10,7%               11,8%
+              Encamp                   369      350      398      443      430              -2,9%            14,8%
+              Ordino                   148      140      187      154      202          31,2%                 7,0%
+              La Massana               281      363      423      414      424              2,4%             14,6%
+              Andorra La Vella         519      621      635      675      714              5,8%             24,6%
+              Sant Julià de Lòria      208      213      242      221      334          51,1%                11,5%
+              Escaldes - Engordany     396      421      455      428      453              5,8%             15,6%
+              Total                  2.135     2.390    2.638    2.717    2.898             6,7%             100,0%
+
+
+
+
+         2.5 Històric del nombre d'emigrants per nombre de membres a la llar de destí
+                                      2021     2022     2023     2024     2025     V. 2024/2025 Percentatge 2025
+              1 membre                 866     1.098    1.320    1.464    1.435             -2,0%            49,5%
+              2 membres                484      505      545      529      564              6,6%             19,5%
+              3 membres                338      390      344      336      389          15,8%                13,4%
+              4 o més membres          447      397      430      388      510          31,4%                17,6%
+              Total                  2.135     2.390    2.639    2.717    2.898             6,7%             100,0%
+
+
+
+
+NP_A011_20260526                                                                                                  Pàgina 5 de 9
+                                       A011 Estadística de migracions. Any 2025
+
+
+         2.6 Històric del nombre d'emigrants per nacionalitat
+                                        2021   2022    2023     2024   2025    V. 2024/2025 Percentatge 2025
+            1. Andorrana                 357    344     509     319     459         43,9%             15,8%
+            2. Espanyola                 854   1.031   1.074    957    1.024         7,0%             35,3%
+            3. Francesa                  198    281     213     296     216         -27,0%             7,5%
+            4. Portuguesa                314    272     284     265     269          1,5%              9,3%
+            5. Altres                    412    462     558     880     930          5,7%             32,1%
+            Total                      2.135   2.390   2.638   2.717   2.898          6,7%           100,0%
+
+
+
+
+         2.7 Històric del nombre d'emigrants per situació de residència
+                                        2021   2022    2023     2024   2025    V. 2024/2025 Percentatge 2025
+            Andorrans                    357    344     509     319     459         43,9%             15,8%
+            Residència                   319    348     292     345     350          1,4%             12,1%
+            Residència i treball       1.285   1.360   1.420   1.621   1.678         3,5%             57,9%
+            Residència i treball per
+                                         21      39      42      27       31        14,8%              1,1%
+            personal d'ensenyament
+            Residència i treball per
+                                         97     108     164     159     135         -15,1%             4,7%
+            compte propi
+            Altres                       56     191     211     246     245          -0,4%             8,5%
+            Total                      2.135   2.390   2.638   2.717   2.898          6,7%           100,0%
+
+
+
+
+NP_A011_20260526                                                                                           Pàgina 6 de 9
+                                       A011 Estadística de migracions. Any 2025
+
+
+         3.   Saldo migratori
+
+
+         3.1 Històric del saldo migratori
+                                                 2021       2022    2023    2024    2025    V. 2024/2025
+                    Total                        1.401      1.880   3.407   1.874   1.829          -2,4%
+
+
+
+
+         3.2 Històric del saldo migratori per sexe
+                                                 2021       2022    2023    2024    2025    V. 2024/2025
+                    Femení                           478     673    1.525    671     690           2,8%
+                    Masculí                          923    1.207   1.882   1.203   1.139         -5,3%
+                    Total                        1.401      1.880   3.407   1.874   1.829          -2,4%
+
+
+
+
+         3.3 Històric del saldo migratori per tram d'edat
+                                                 2021       2022    2023    2024    2025    V. 2024/2025
+                    0 - 9 anys                       124      96     210     152     128         -15,8%
+                    10 - 19 anys                     81      145     186     156     126         -19,2%
+                    20 - 29 anys                     486     485    1.106    488     499           2,3%
+                    30 - 39 anys                     441     636    1.305    663     650          -2,0%
+                    40 - 49 anys                     248     353     528     357     333          -6,7%
+                    50 - 59 anys                     70      214     170     182     164          -9,9%
+                    60 - 69 anys                     25        7      16      -31     22        -171,0%
+                    70 - 79 anys                     -26      -20     -28     -27     -23        -14,8%
+                    80 - 89 anys                     -32      -23     -57     -51     -39        -23,5%
+                    90 i més anys                    -16      -13     -29     -15     -31        106,7%
+                    Total                        1.401      1.880   3.407   1.874   1.829          -2,4%
+
+
+
+
+         3.4 Històric del saldo migratori per parròquia de destí
+                                                 2021       2022    2023    2024    2025    V. 2024/2025
+                    Canillo                          300     368     645     265     358          35,1%
+                    Encamp                           61      261     613     258     298          15,5%
+                    Ordino                           73      167     172     150     134         -10,7%
+                    La Massana                       344     323     474     263     281           6,8%
+                    Andorra La Vella                 358     412     735     411     346         -15,8%
+                    Sant Julià de Lòria              67       76     135     142      30         -78,9%
+                    Escaldes - Engordany             198     273     633     385     382          -0,8%
+                    Total                        1.401      1.880   3.407   1.874   1.829          -2,4%
+
+
+
+
+         3.5 Històric del saldo migratori per nombre de membres a la llar de destí
+                                                 2021       2022    2023    2024    2025    V. 2024/2025
+                    1 membre                     1.023      1.326   2.377   1.207   1.335         10,6%
+                    2 membres                        276     359     561     443     392         -11,5%
+                    3 membres                        47       29     228      82      88           7,3%
+                    4 o més membres                  55      166     240     142      14         -90,1%
+                    Total                        1.401      1.880   3.406   1.874   1.829          -2,4%
+
+
+
+
+NP_A011_20260526                                                                                           Pàgina 7 de 9
+                                          A011 Estadística de migracions. Any 2025
+
+
+         3.6 Històric del saldo migratori per nacionalitat
+                                                          2021     2022          2023        2024        2025    V. 2024/2025
+                     1. Andorrana                         -129      -128          -278         -93        -250         168,8%
+                     2. Espanyola                         795        763           524        545         618              13,4%
+                     3. Francesa                          148        131           194         57         254          345,6%
+                     4. Portuguesa                        -160        -65          -85        -119         -65         -45,4%
+                     5. Altres                            747     1.179          3.052       1.484       1.272         -14,3%
+                     Total                               1.401    1.880          3.407       1.874       1.829              -2,4%
+
+
+
+
+         3.7   Històric del saldo migratori per situació de residència
+                                                          2021     2022          2023        2024        2025    V. 2024/2025
+                     Andorrans                            -129      -128          -278         -93        -250         168,8%
+                     Residència                           439        473           645        551         617              12,0%
+                     Residència i Treball                 394        555           656       1.284       1.227              -4,4%
+                     Residència i Treball per
+                                                            6          -6          -10          4           0         -100,0%
+                     personal d'ensenyament
+                     Residència i Treball per
+                                                          443        534           272        146         170              16,4%
+                     compte propi
+                     Altres                                248      452          2.122         -18          65        -461,1%
+                     Total                               1.401    1.880          3.407       1.874       1.829              -2,4%
+
+
+
+         3.8 Gràfics
+                                                                   Migració anual
+
+                                                                        6.045
+
+                                                                                                4.591              4.727
+                                                 4.270
+                                 3.536
+
+
+
+
+                                 -2.135
+                                                 -2.390
+                                                                        -2.638                  -2.717             -2.898
+
+                                 2021            2022                   2023                    2024               2025
+
+                                                                 Immigració      Emigració
+
+
+
+
+                                                                   Migració anual
+
+
+
+                                                                        3.407
+
+
+
+
+                                                1.880                                            1.874                1.829
+
+                             1.401
+
+
+
+
+                             2021               2022                    2023                      2024                2025
+
+                                                                     Saldo migratori
+
+
+
+
+NP_A011_20260526                                                                                                                    Pàgina 8 de 9
+                                    A011 Estadística de migracions. Any 2025
+
+
+         4.   Nota metodològica
+
+
+         •    Font: Elaboració pròpia a partir de les dades de la població estimada.
+
+         •    Definicions
+
+                   Immigració: Altes registrades al cens de població durant un any determinat per canvi de
+                   residència quan el país de procedència és estranger i la destinació és qualsevol de les
+                   poblacions del Principat d’Andorra. La immigració inclou l’arribada tant de persones de
+                   nacionalitat andorrana com estrangera que procedeixen de l’estranger.
+
+                   Emigració: Baixes registrades al cens de població durant un any determinat per canvi
+                   de residència quan el país de destinació és estranger i la procedència és qualsevol de
+                   les poblacions del Principat d’Andorra. L’emigració inclou la sortida de persones tant de
+                   nacionalitat andorrana com estrangera amb destí a l’estranger.
+
+                   Saldo migratori: Diferència entre la immigració i l’emigració
+
+         •    Metodologies i referències metodològiques. La legislació europea en el camp de les
+              estadístiques demogràfiques obliga a seguir les definicions de conceptes acordades entre
+              els estats membres per tal d’assegurar la comparabilitat internacional de les dades. Les
+              definicions es poden trobar en el punt anterior i en l’enllaç:
+
+              https://ec.europa.eu/eurostat/web/migration-asylum/international-migration-
+              citizenship/methodology.
+
+              Per tal de realitzar el càlcul es comparen les poblacions estimades de desembre dels anys
+              2024 i 2025 i s’eliminen els naixements de famílies residents registrats de la suposada
+              població immigrant així com les defuncions de persones residents registrades de la suposada
+              població emigrant.
+
+         •    Citació. Per a qualsevol utilització de la informació continguda en aquesta nota de premsa,
+              preguem citeu: “Dades de migracions, elaborades i tractades pel Departament d’Estadística
+              per a la Nota de Premsa ref. “NP_A011_20260526”.
+
+         •    Marc legal. D’acord amb les previsions de la Llei del Pla d’estadística 2026-2029 i el seu
+              desplegament en el Programa estadístic per a l’any 2026, aquest informe dona resposta a
+              l’activitat estadística: A011: Estadística de migracions
+
+         •    Difusió.      Dades      disponibles    al   web      www.estadistica.ad,        a    l’apartat
+              Estadístiques/Dades/Població i migració/ Estadístiques de migracions i nacionalitat. Per
+              estar informat en qualsevol moment de les noves publicacions us podeu inscriure a la nostra
+              “Alerta informativa” a la nostra web. També hi podeu trobar l’històric de les notes de premsa
+              d’aquest tema: http://www.estadistica.ad
+
+              Amb l’objectiu de maximitzar la difusió de la informació estadística d’Andorra, les Notes de
+              Premsa del Departament d’Estadística es podran seguir també per Twitter (actualment X)
+
+
+
+         5.   Dates de les publicacions previstes
+
+                   -   Nota de premsa A011. Estadística de migracions. 1r trimestre del 2026: 7 d’agost del
+                       2026
+
+
+
+
+NP_A011_20260526                                                                                      Pàgina 9 de 9
+

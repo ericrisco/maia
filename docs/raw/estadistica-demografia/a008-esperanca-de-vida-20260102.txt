@@ -1,0 +1,395 @@
+                               A008. Esperança de vida de la població. Any 2024
+                                   Data de publicació: divendres, 02/01/2026
+                                             www.estadistica.ad
+
+
+         Resum
+
+         L'esperança de vida correspon a la mitjana d'anys que encara resten per viure per a una persona
+         que ha assolit una edat exacta, si en el temps que li resta de vida fos sotmesa a les condicions de
+         mortalitat actuals (les probabilitats específiques de morir a cada edat). En el cas particular de
+         l'esperança de vida a l'edat zero, o esperança de vida en néixer, representa la durada de vida
+         mitjana d'una generació fictícia sotmesa a les condicions de mortalitat del període.
+
+         Les taules d’esperança de vida s’obtenen per edat simple i per trams de 5 anys, els valors de
+         l’esperança de vida en néixer i l’esperança de vida als 65 anys són els indicadors més habituals i
+         amb els que s’estableixen comparatives internacionals.
+
+         Per la casuística d’Andorra, els resultats anuals poden distorsionar la seva interpretació a
+         conseqüència de l’aleatorietat de les defuncions pròpia de poblacions de mida petita, per tant, i
+         malgrat obtenir l’esperança de vida anual, es recomana utilitzar la mitjana dels darrers cinc anys
+         com a indicador.
+
+         Així doncs, l’esperança de vida a Andorra l’any 2024 se situa en 84,1 anys. Desagregant aquesta
+         xifra per sexe, l’esperança de vida dels homes és de 81,4 anys, mentre que la de les dones arriba
+         als 86,7 anys. D’acord amb la tendència observada en els darrers anys, l’esperança de vida
+         femenina continua sent superior a la masculina, amb una diferència de 5,3 anys.
+
+         Pel que fa a la mitjana del període dels darrers cinc anys, l’esperança de vida global és de 83,7
+         anys. En aquest cas, la xifra és de 81,1 anys per als homes i de 86,2 anys per a les dones, fet que
+         representa una diferència de 5,1 anys.
+
+
+
+
+NP_A008_20260102                                                                                         Pàgina 1 de 8
+                                        A008. Esperança de vida de la població. Any 2024
+
+
+
+
+         Índex
+
+
+         1.   Esperança de vida en néixer. Període 2020-2024 ..................................................................... 3
+         2.   Esperança de vida als 65 anys. Període 2020-2024.................................................................. 3
+         3.   Esperança de vida per edat. Període 2020-2024 ....................................................................... 4
+         4.   Taula comparativa d’Andorra amb altres països ........................................................................ 7
+         5.   Nota metodològica ...................................................................................................................... 8
+         6.   Dates de les properes publicacions previstes ............................................................................ 8
+
+
+
+
+NP_A008_20260102                                                                                                                                   Pàgina 2 de 8
+                              A008. Esperança de vida de la població. Any 2024
+
+
+
+         1. Esperança de vida en néixer. Període 2020-2024
+
+
+                                  Any                      Global    Home         Dona
+                                  2020                       82,5      79,4        85,7
+                                  2021                       83,7      81,3        86,0
+                                  2022                       83,5      81,1        85,7
+                                  2023                       84,6      82,1        86,9
+                                  2024                       84,1      81,4        86,7
+                                  Mitjana 2020-2024          83,7      81,1        86,2
+
+
+
+                                         Esperança de vida en néixer per sexe
+                   90
+                   88
+                   86
+                   84
+                   82
+                   80
+                   78
+                   76
+                   74
+                   72
+                   70
+                           2020           2021              2022                2023      2024
+                                                   Home                Dona
+
+
+
+
+         2. Esperança de vida als 65 anys. Període 2020-2024
+
+
+                                  Any                      Global Home            Dona
+                                  2020                       20,4      18,3        22,2
+                                  2021                       21,1      19,0        22,9
+                                  2022                       21,0      19,0        22,9
+                                  2023                       21,6      19,6        23,4
+                                  2024                       21,8      19,8        23,5
+                                  Mitjana 2020-2024          21,2      19,1        23,0
+
+
+                                         Esperança de vida als 65 anys per sexe
+                   25
+
+
+                   20
+
+
+                   15
+
+
+                   10
+
+
+                    5
+
+
+                    0
+                           2020           2021              2022                2023      2024
+                                                  Home                 Dona
+
+
+
+
+NP_A008_20260102                                                                                 Pàgina 3 de 8
+                             A008. Esperança de vida de la població. Any 2024
+
+
+
+         3. Esperança de vida per edat. Període 2020-2024
+
+
+                                    Mitjana 2020-2024
+                                    Edat            Global   Home    Dona
+                                    0 anys            83,7    81,1   86,2
+                                    1-4 anys          82,8    80,3   85,2
+                                    5-9 anys          78,8    76,3   81,2
+                                    10-14 anys        73,9    71,4   76,3
+                                    15-19 anys        68,9    66,4   71,3
+                                    20-24 anys        64,0    61,5   66,4
+                                    25-29 anys        59,0    56,6   61,4
+                                    30-34 anys        54,1    51,7   56,4
+                                    35-39 anys        49,1    46,7   51,5
+                                    40-44 anys        44,3    41,9   46,5
+                                    45-49 anys        39,4    37,1   41,7
+                                    50-54 anys        34,6    32,2   36,8
+                                    55-59 anys        29,9    27,6   32,0
+                                    60-64 anys        25,4    23,1   27,4
+                                    65-69 anys        21,2    19,1   23,0
+                                    70-74 anys        17,2    15,4   18,7
+                                    75-79 anys        13,4    11,9   14,5
+                                    80-84 anys         9,9     8,8   10,7
+                                    85-89 anys         6,9     6,1    7,4
+                                    90 i més anys      4,6     4,1    4,8
+
+
+                                  Esperança de vida per edat. Mitjana 2020-2024
+          90
+          80
+          70
+          60
+          50
+          40
+          30
+          20
+          10
+           0
+
+
+
+
+NP_A008_20260102                                                                  Pàgina 4 de 8
+                   A008. Esperança de vida de la població. Any 2024
+
+
+
+
+                    Esperança de vida per sexe i edat. Mitjana 2020-2024
+          90
+          80
+          70
+          60
+          50
+          40
+          30
+          20
+          10
+           0
+
+
+
+                                      Home            Dona
+
+
+
+
+                      Esperança de vida per edat. Evolució 2020-2024
+          90
+          80
+          70
+          60
+          50
+          40
+          30
+          20
+          10
+           0
+
+
+
+                      2020        2021        2022        2023         2024
+
+
+
+
+NP_A008_20260102                                                              Pàgina 5 de 8
+                   A008. Esperança de vida de la població. Any 2024
+
+
+
+
+                   Esperança de vida per edat. Homes. Evolució 2020-2024
+           90
+           80
+           70
+           60
+           50
+           40
+           30
+           20
+           10
+            0
+
+
+
+                       2020       2021       2022        2023       2024
+
+
+
+
+                   Esperança de vida per edat. Dones. Evolució 2020-2024
+          90
+          80
+          70
+          60
+          50
+          40
+          30
+          20
+          10
+           0
+
+
+
+                      2020        2021       2022       2023        2024
+
+
+
+
+NP_A008_20260102                                                           Pàgina 6 de 8
+                                      A008. Esperança de vida de la població. Any 2024
+
+
+
+         4. Taula comparativa d’Andorra amb altres països
+
+
+                                             Esperança de vida en néixer per sexe i país
+             Any 2024        Andorra       Espanya    França Portugal Luxemburg Liechtenstein                         UE-27
+             Homes              81,1           81,3      80,2       79,8          81,2   82,5                          79,2
+             Dones              86,2           86,6      85,9       85,4          85,9   86,8                          84,4
+             Global             83,7           84,0      83,1       82,7          83,5   84,7                          81,7
+             Per Andorra, mitjana 2020-2024. Resta de països, dades estimades extretes d'Eurostat.
+
+
+
+                                                  Esperança de vida en néixer per sexe i país
+
+                                 88
+
+                                 86
+
+                                 84
+
+                                 82
+
+                                 80
+
+                                 78
+
+                                 76
+
+                                 74
+
+                                 72
+
+                                 70
+                                                     Homes                                   Dones
+
+
+                                       Andorra   Espanya     França   Portugal   Luxemburg   Liechtenstein    UE-27
+
+
+
+
+                                      Esperança de vida als 65 anys per sexe i país
+             Any 2024        Andorra Espanya    França Portugal Luxemburg Liechtenstein                               UE-27
+             Homes              19,1     19,9      20,0        19,4         19,7    20,2                               18,7
+             Dones              23,0     23,9      23,7        22,9         22,9    23,9                               22,1
+             Global             21,2     22,0      22,0        21,3         21,4    22,0                               20,4
+             Per Andorra, mitjana 2020-2024. Resta de països, dades estimades extretes d'Eurostat.
+
+
+
+                                                 Esperança de vida als 65 anys per sexe i país
+
+                                 30
+
+
+                                 25
+
+
+                                 20
+
+
+                                 15
+
+
+                                 10
+
+
+                                  5
+
+
+                                  0
+                                                     Homes                                   Dones
+
+                                       Andorra   Espanya     França   Portugal   Luxemburg    Liechtenstein   UE-27
+
+
+
+
+NP_A008_20260102                                                                                                              Pàgina 7 de 8
+                                  A008. Esperança de vida de la població. Any 2024
+
+
+
+         5. Nota metodològica
+
+             •     Font: Dades dels registres administratius disponibles, tractades pel Departament
+                   d’Estadística del Govern d’Andorra.
+
+             •     Definicions.
+
+                       o   Esperança de vida en néixer: L'esperança de vida en néixer es defineix com la
+                           mitjana d'anys que pot esperar viure un nounat si està sotmès al llarg de la seva
+                           vida a les condicions de mortalitat actuals (probabilitats de defunció per a cada
+                           edat).
+
+                       o   Esperança de vida al l’edat X: L'esperança de vida als X anys s'interpreta com el
+                           nombre d'anys que, de mitjana, pot esperar viure una generació de persones de X
+                           anys si les condicions de mortalitat per edat de l'any o del període especificat no
+                           varien durant la resta de la seva vida.
+
+             •     Metodologia i referències metodològiques: Per resoldre el subregistre de defuncions
+                   que es produeix a Andorra s’ha realitzat una estimació de les defuncions que falten en les
+                   sèries andorranes, aplicant la taxa bruta de mortalitat d'Espanya a la població estimada a
+                   partir dels 60 anys, que és on s’observa una major incidència del subregistre.
+
+             •     Citació: Per qualsevol utilització de la informació continguda en aquesta nota de premsa,
+                   preguem la citació següent: “Dades tractades pel Departament d’Estadística per a la nota
+                   de premsa referència NP_A008_20260102”
+
+             •     Marc legal. D’acord amb les previsions de la Llei del Pla d’estadística 2022-2025 i el seu
+                   desplegament en el Programa estadístic per a l’any 2025, aquest informe dona resposta a
+                   l’activitat estadística: A008. Esperança de vida de la població.
+
+             •     Difusió. Dades disponibles al web www.estadistica.ad, a l’apartat
+                   Estadístiques/Dades/Població i migració/Indicadors demogràfics i esperança de
+                   vida/Esperança de vida. Per estar informat en qualsevol moment de les noves
+                   publicacions us podeu inscriure a la nostra “Alerta informativa”. Amb l’objectiu de
+                   maximitzar la difusió de la informació estadística d’Andorra, les notes de premsa del
+                   Departament d’Estadística es podran seguir també per Twitter (actualment X).
+
+         _______________________________________________________________________
+
+         6. Dates de les properes publicacions previstes
+
+             Nota interna: A008. Esperança de vida. Any 2025: 4t trimestre del 2026
+
+
+
+
+NP_A008_20260102                                                                                           Pàgina 8 de 8
+

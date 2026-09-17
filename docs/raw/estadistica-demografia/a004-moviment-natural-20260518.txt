@@ -1,0 +1,794 @@
+     A004 Estadística del moviment natural de població - A006 Estadística de matrimonis,
+      divorcis, separacions i nul·litats - A007 Indicadors demogràfics bàsics. Any 2025
+                            Data de publicació: dilluns, 18/05/2026
+                                        www.estadistica.ad
+
+
+
+
+Resum
+
+Les taxes d’aquesta nota informativa estan basades en les dades de la població estimada a
+31/12/2025 de 89.058 persones, publicades el dia 26/01/2026.
+
+L’any 2025 es van comptabilitzar 508 naixements dins de la població resident al Principat, 272
+nenes i 236 nens. La distribució dels naixements de l’any 2025 per mes és força uniforme, amb
+una mitjana de 42,8 naixements per mes. Destaca però el mes de gener amb un total de 51
+naixements.
+
+En set de cada deu naixements, la mare es trobava en la franja d’edat d’entre 30 i 44 anys.
+Més concretament, el 42,1% es tenien entre 30 i 34 anys mentre que un 28,3% tenien entre 35
+i 39 anys.
+
+L’edat mitjana de les mares va ser de 33,00 anys, amb una taxa de fecunditat de 24,65 nadons
+per 1.000 dones de 15 a 49 anys.
+
+L’indicador conjuntural de fecunditat és de 0,83.
+
+El mateix any es van comptabilitzar 386 defuncions de residents, 187 dones i 199 homes, un
++3,5% respecte a l’any anterior. Durant l’any 2025, el mes de març ha estat el mes en que s’ha
+registrat un major nombre de defuncions, amb un total de 46.
+
+L’edat mitjana dels difunts va ser de 80,33 anys per les dones i 74,19 anys pels homes, amb
+una taxa de mortalitat total de 4,33 difunts per cada 1.000 habitants.
+
+Durant l’any es van registrar 474 casaments, 429 civils i 45 eclesiàstics. Per altra banda, es van
+registrar un total de 226 divorcis i 10 separacions.
+
+
+
+
+   NP_A004_A006_A007_20260518                                                        Pàgina 1 de 14
+   A004 Estadística del moviment natural de població - A006 Estadística de matrimonis,
+    divorcis, separacions i nul·litats - A007 Indicadors demogràfics bàsics. Any 2025
+
+
+
+    Índex
+
+1. Naixements .............................................................................................................................. 3
+   1.1. Evolució naixements per parròquia .................................................................................. 3
+   1.2. Naixements per parròquia i sexe ...................................................................................... 3
+   1.3. Naixements per edat de la mare ...................................................................................... 4
+   1.4. Naixements per estat civil dels pares ............................................................................... 4
+   1.5. Indicadors de natalitat per nacionalitat de la mare ........................................................... 5
+   1.6. Naixements per mes de naixement .................................................................................. 6
+2. Defuncions ............................................................................................................................... 6
+   2.1. Evolució defuncions per lloc de l’enterrament .................................................................. 6
+   2.2. Evolució defuncions per parròquia de residència............................................................. 6
+   2.3. Defuncions per estat civil .................................................................................................. 7
+   2.4. Defuncions per parròquia i sexe ....................................................................................... 7
+   2.5. Defuncions per edat i sexe ............................................................................................... 8
+   2.6. Indicadors de mortalitat per nacionalitat i per sexe .......................................................... 8
+   2.7. Defuncions per mes de defunció ...................................................................................... 9
+3. Casaments ............................................................................................................................. 10
+   3.1. Casaments per tipus i parròquia..................................................................................... 10
+   3.2. Casaments per tipus i any .............................................................................................. 10
+4. Divorcis i separacions ............................................................................................................ 11
+5. Creixement vegetatiu per parròquia ....................................................................................... 11
+6. Comparacions internacionals ................................................................................................. 12
+7. Nota metodològica ................................................................................................................. 14
+8. Dates de les publicacions previstes ....................................................................................... 14
+
+
+
+
+    NP_A004_A006_A007_20260518                                                                                              Pàgina 2 de 14
+  A004 Estadística del moviment natural de població - A006 Estadística de matrimonis,
+   divorcis, separacions i nul·litats - A007 Indicadors demogràfics bàsics. Any 2025
+
+
+1. Naixements
+
+L’any 2025, el nombre de naixements al Principat va ser de 508, xifra que suposa un 1,4% més
+que a l’any anterior. La taxa de natalitat es va situar en 5,70 naixements per cada 1.000
+habitants, mentre que la taxa de fecunditat va ser de 24,65. El 56,7% de les mares estaven
+casades al moment del naixement i l’edat mitjana era de 33,00 anys.
+
+
+   1.1. Evolució naixements per parròquia
+
+                                                                                                                                                                            Variació
+    Parròquia                         2016               2017      2018        2019              2020       2021        2022            2023        2024        2025
+                                                                                                                                                                          2024/2025
+    Canillo                                 31             40        31             35             35          37             38           39          40            45       12,5%
+    Encamp                                  92            78         82             75           101           68             76          78          87             66       -24,1%
+    Ordino                                  46            49         35             33             38          25             36          25          25             36       44,0%
+    La Massana                              73            74         64             79             76          75             62          67          81             74        -8,6%
+    Andorra la Vella                   189               178        174         141              153         130          136            102         116         136          17,2%
+    Sant Julià de Lòria                     76            63         57             63             50          62             56          57          53             57        7,5%
+    Escaldes-Engordany                 127               106        100         113                86        106              98          90          99             94        -5,1%
+    Total de naixements                634                588       543         539               539        503          502            458         501         508           1,4%
+
+
+
+
+   1.2. Naixements per parròquia i sexe
+
+
+                                                                                                                                    Sant Julià de        Escaldes-
+                                  Canillo                Encamp            Ordino          La Massana      Andorra la Vella                                                     Total
+                                                                                                                                           Lòria        Engordany
+                          Nens    Nenes          Nens     Nenes    Nens    Nenes         Nens     Nenes     Nens    Nenes          Nens Nenes       Nens Nenes        Nens     Nenes
+    Total per sexe           21       24            32        34      18       18           37        37       62       74            21       36      45       49      236       272
+    % per sexe            4,1%     4,7%          6,3%      6,7%    3,5%     3,5%         7,3%      7,3%    12,2%    14,6%          4,1%    7,1%     8,9%     9,6%     46,5%    53,5%
+    Total per parròquia               45                      66               36                     74               136                     57               94                508
+    % per parròquia                8,9%                   13,0%             7,1%                  14,6%             26,8%                 11,2%             18,5%               100%
+    Taxa de natalitat               6,97                    4,88             6,34                   6,09              5,48                   5,56             5,82               5,70
+    Taxa de natalitat
+                                    7,06                    5,91             5,45                   6,25              5,18                  5,75             6,32                5,85
+    (2021-2025)
+
+
+
+
+                                            Distribució dels naixements per parròquia
+
+                                                            Escaldes-                                   Canillo; 8,9%
+                                                           Engordany;
+                                                              18,5%
+
+                                                                                                                          Encamp; 13,0%
+
+
+
+                                     Sant Julià de
+                                     Lòria; 11,2%                                                                                     Ordino; 7,1%
+
+
+
+                                                                                                                        La Massana;
+                                                                                                                           14,6%
+                                             Andorra la Vella;
+                                                 26,8%
+
+
+
+
+   NP_A004_A006_A007_20260518                                                                                                                               Pàgina 3 de 14
+A004 Estadística del moviment natural de població - A006 Estadística de matrimonis,
+ divorcis, separacions i nul·litats - A007 Indicadors demogràfics bàsics. Any 2025
+
+
+1.3. Naixements per edat de la mare
+
+
+
+                                         15-19*          20-24       25-29       30-34      35-39         40-44      >= 45       Total
+ Total                                        1             23           86        214        144            33          7         508
+ % per edat de la mare                    0,2%           4,5%        16,9%      42,1%      28,3%          6,5%       1,4%        100%
+ Taxa de fecunditat                        0,46          10,37        31,19      68,13      44,71          9,74       1,89       24,65
+ Taxa de fecunditat
+                                           0,69          10,75       32,69       65,86      50,54         12,03       1,29       25,02
+ (2021-2025)
+ * Inclou els naixements en mares de menys de 15 anys si n'hi ha.
+
+
+
+
+                                          Distribució dels naixements per edat de la mare
+
+                         250
+
+
+                         200
+
+
+
+
+       Nre. naixements
+                         150
+
+
+                         100
+
+
+                          50
+
+
+                           0
+                               15-19*      20-24             25-29            30-34         35-39            40-44           >= 45
+
+                                                                       Edat de la mare
+
+  * Inclou els naixements en mares de menys de 15 anys, si n'hi ha.
+
+
+
+
+1.4. Naixements per estat civil dels pares
+
+                                                                                                                                 Variació
+   Estat civil pare              2016   2017      2018      2019      2020     2021      2022   2023       2024      2025
+                                                                                                                               2024/2025
+   Casat                          357   326        318       294       283      274      262        247     265      287            8,3%
+   Solter                         228   212        173       186       206      179      187        167     197      188           -4,6%
+   Divorciat                       24    18         22        30        22       22       18         22      13       15           15,4%
+   Separat                         14     9         15         9         8       10        7          5       6        3          -50,0%
+   Vidu                                              1                            1        0          0       1        0         -100,0%
+   No consta                       11    23         14        20        20       17       28         17      19       15          -21,1%
+   Total general                  634   588        543       539       539      503      502        458     501      508            1,4%
+
+
+                                                                                                                                 Variació
+   Estat civil mare              2016   2017      2018      2019      2020     2021      2022   2023       2024      2025
+                                                                                                                               2024/2025
+   Casada                         359   328        315       296       278      266      259        251     266      288            8,3%
+   Soltera                        232   215        193       208       224      206      204        171     194      202            4,1%
+   Divorciada                      25    26         19        16        20       16       17         27      24       11          -54,2%
+   Separada                        12     9         14         6         8        5       11          4       7        4          -42,9%
+   Vídua                            1                          1                           1          1       0        1                -
+   No consta                        5    10          2        12         9       10       10          4      10        2          -80,0%
+   Total general                  634   588        543       539       539      503      502        458     501      508            1,4%
+
+
+
+
+NP_A004_A006_A007_20260518                                                                                            Pàgina 4 de 14
+A004 Estadística del moviment natural de població - A006 Estadística de matrimonis,
+ divorcis, separacions i nul·litats - A007 Indicadors demogràfics bàsics. Any 2025
+
+1.5. Indicadors de natalitat per nacionalitat de la mare
+
+
+    Indicadors de natalitat per nacionalitat de la mare (any 2025)
+                                             Andorrana Espanyola           Francesa Portuguesa       Altres          Total
+    Nombre de naixements                             194            130         13            45        126           508
+    Taxa de fecunditat                              21,05          32,27      21,89         25,64     25,14          24,65
+    Taxa de natalitat                                4,87           6,19       3,16          5,34      8,03           5,70
+    Indicador conjuntural de fecunditat              0,81           1,01       0,71          1,23      0,81           0,83
+    Edat mitjana de la mare                         32,68          34,24      34,23         31,27     32,70          33,00
+
+
+
+    Indicadors de natalitat per nacionalitat de la mare (acumulat 2021-2025)
+                                             Andorrana Espanyola           Francesa Portuguesa       Altres          Total
+    Nombre de naixements                             884            689         58           260        581          2.472
+    Taxa de fecunditat                              19,38          34,18      19,81         25,73     29,10          25,02
+    Taxa de natalitat                                4,52           6,75       3,05          6,00      9,31           5,85
+    Indicador conjuntural de fecunditat              0,76           1,15       0,72          1,16      0,90           0,87
+    Edat mitjana de la mare                         32,97          33,84      33,79         32,08     33,09          33,17
+
+
+
+                                     Taxa de natalitat per nacionalitat de la mare
+   20
+
+
+
+
+   15    14,12
+
+
+        11,20
+
+
+   10   10,57                                                                                                          8,03
+        8,67
+                                                                                                                      6,19
+        6,53
+                                                                                                                      5,70
+    5                                                                                                                 5,34
+        4,04                                                                                                          4,87
+                                                                                                                      3,16
+
+    0
+           2016         2017      2018       2019           2020       2021      2022        2023     2024         2025
+
+
+                Andorrana           Espanyola               Francesa           Portuguesa           Altres            Total
+
+
+
+
+NP_A004_A006_A007_20260518                                                                                   Pàgina 5 de 14
+  A004 Estadística del moviment natural de població - A006 Estadística de matrimonis,
+   divorcis, separacions i nul·litats - A007 Indicadors demogràfics bàsics. Any 2025
+
+  1.6. Naixements per mes de naixement
+
+
+                                                                                                                   Variació
+                                Mes                             2021 2022 2023 2024 2025
+                                                                                                                 2024/2025
+                                Gener                                42       37      36         49     51            4,1%
+                                Febrer                               32       44      38         38     38            0,0%
+                                Març                                 50       55      40         36     39            8,3%
+                                Abril                                43       41      25         36     44           22,2%
+                                Maig                                 40       44      44         57     42          -26,3%
+                                Juny                                 35       47      46         32     47           46,9%
+                                Juliol                               47       40      47         37     41           10,8%
+                                Agost                                40       43      41         48     42          -12,5%
+                                Setembre                             48       43      31         39     46           17,9%
+                                Octubre                              36       33      35         40     34          -15,0%
+                                Novembre                             34       38      38         48     44           -8,3%
+                                Desembre                             56       37      37         41     40           -2,4%
+                                Total de naixements              503          502     458    501       508            1,4%
+
+
+
+
+2. Defuncions
+
+  L’any 2025, el nombre de defuncions al Principat va ser de 386, un 3,5% més que a l’any
+  anterior. El 84,2% dels enterraments van tenir lloc a Andorra i l’edat mitjana va ser de 77,16
+  anys (80,33 en dones i 74,19 en homes).
+
+
+  2.1. Evolució defuncions per lloc de l’enterrament
+
+
+                                                                                                                                              Variació
+     Lloc de l'enterrament            2016     2017      2018        2019      2020         2021      2022        2023    2024       2025
+                                                                                                                                             2024/2025
+     Andorra                            280      282     290         257            371     334        318         305        320    325          1,6%
+     Estranger                           30       40       43         38            42           45     45           42       44      44          0,0%
+     No consta                             0       1        2             6          6           7           8       10        9      17         88,9%
+     Total defuncions                   310      323     335         301            419     386        371         357        373    386          3,5%
+
+
+
+
+  2.2. Evolució defuncions per parròquia de residència
+
+                                                                                                                                                   Variació
+   Parròquia                 2016      2017       2018      2019          2020            2021        2022         2023       2024     2025
+                                                                                                                                                 2024/2025
+   Canillo                       5        11        12           7             15           16          14           15         14          11      -21,4%
+   Encamp                       44        32        40          33             42           50          42           42         47          46       -2,1%
+   Ordino                       13        12        10          10             21           15           9           17         15          13      -13,3%
+   La Massana                   28        40        31          35             33           33          37           28         31          22      -29,0%
+   Andorra la Vella            111       128       131       108              150         131         127           129        137      149           8,8%
+   Sant Julià de Lòria          34        38        46          31             70           46          59           56         47          46       -2,1%
+   Escaldes-Engordany           75        62        65          77             88           95          83           70         82          99      20,7%
+   Total de defuncions        310       323        335        301      419       386       371        357                      373      386           3,5%
+  *Residència establerta en base a la població estimada i a les adreces declarades al Registre Civil.
+
+
+
+
+  NP_A004_A006_A007_20260518                                                                                                         Pàgina 6 de 14
+A004 Estadística del moviment natural de població - A006 Estadística de matrimonis,
+ divorcis, separacions i nul·litats - A007 Indicadors demogràfics bàsics. Any 2025
+
+                                           Distribució de les defuncions per parròquia
+
+
+                                                                       Canillo; 2,8%
+
+                                                                                                    Encamp; 11,9%
+
+
+                          Escaldes-                                                                            Ordino; 3,4%
+                       Engordany; 25,6%
+                                                                                                                     La Massana; 5,7%
+
+
+
+
+                       Sant Julià de Lòria;
+                             11,9%                                                                              Andorra la Vella;
+                                                                                                                    38,6%
+
+
+
+
+2.3. Defuncions per estat civil
+
+                                                                                                                                 Variació
+                                  Any*             2019     2020     2021         2022         2023           2024     2025
+                                                                                                                               2024/2025
+                            Casat/ada               131     180        158         169             154        155      162          4,5%
+                            Vidu/Vídua              107     133        147         103             119        116      132         13,8%
+                            Solter/a                  33      56        33             56          35          50       43        -14,0%
+                            Divorciat/ada             16      18        13             21          12          20       18        -10,0%
+                            Separat/ada                8      13            7          6             7          5         7        40,0%
+                            No consta                  6      19        28             16          30          27       24        -11,1%
+                            Total                   301     419        386         371             357        373      386          3,5%
+                           *Dades d’estat civil disponibles a partir del 2019.
+
+
+
+
+2.4. Defuncions per parròquia i sexe
+
+                                                                                                                       Sant Julià de  Escaldes-
+                                 Canillo           Encamp          Ordino        La Massana         Andorra la Vella                            Total per gènere
+                                                                                                                              Lòria  Engordany
+                         Homes   Dones Homes        Dones Homes    Dones Homes         Dones Homes             Dones Homes Dones Homes Dones Homes Dones
+ Total per sexe              7         4      27       19      9       4          12         10          76       73      18       28      50      49      199     187
+ % per sexe               1,8%     1,0%     7,0%     4,9%   2,3%    1,0%        3,1%    2,6%        19,7%      18,9%    4,7%    7,3%    13,0%   12,7%    51,6%   48,4%
+ % per parròquia                   2,8%             11,9%           3,4%                5,7%                   38,6%            11,9%           25,6%            100%
+ Total per parròquia                 11                46             13                     22                  149               46              99              386
+ Taxa de mortalitat                 1,70             3,40            2,29                   1,81                6,00             4,49             6,13            4,33
+
+
+
+
+NP_A004_A006_A007_20260518                                                                                                                      Pàgina 7 de 14
+A004 Estadística del moviment natural de població - A006 Estadística de matrimonis,
+ divorcis, separacions i nul·litats - A007 Indicadors demogràfics bàsics. Any 2025
+
+2.5. Defuncions per edat i sexe
+
+                                                                                              Total
+                                                                  Homes           Dones                         %
+                                             Edat                                           difunts
+                                              0-9                        2             1            3     0,8%
+                                            10-19                        0             2            2     0,5%
+                                            20-29                        2             0            2     0,5%
+                                            30-39                        3             2            5     1,3%
+                                            40-49                        5             1            6     1,6%
+                                            50-59                       18           12            30     7,8%
+                                            60-69                       37           24            61     15,8%
+                                            70-79                       42           28            70     18,1%
+                                            80-89                       60           60          120      31,1%
+                                            90-99                       30           52            82     21,2%
+                                          100 o més                      0             5            5     1,3%
+                                             Total                    199           187          386      100%
+
+
+
+
+                                             Distribució de les defuncions per tram d'edat i sexe
+
+
+                      100 o més
+
+                          90-99
+
+                          80-89
+
+
+
+     Trams d'edat
+                          70-79
+
+                          60-69
+
+                          50-59
+
+                          40-49
+
+                          30-39
+
+                    Menys de 30
+
+                                  0          10             20               30             40            50           60          70
+                                                                         Nre. de defuncions
+
+                                                                    Dones                        Homes
+
+
+
+
+2.6. Indicadors de mortalitat per nacionalitat i per sexe
+
+
+ Indicadors de mortalitat per nacionalitat i per sexe (any 2025)
+                                      Andorrans     Espanyols    Francesos Portuguesos           Altres        Total   Homes       Dones
+ Defuncions totals                          139          183            10            22            32          386         199         187
+ Taxa de mortalitat                        3,49          8,71         2,43          2,61          2,04          4,33        4,30        4,37
+ Edat mitjana de defunció                 75,94         80,89        78,00         63,14         70,53         77,16     74,19      80,33
+
+
+ Indicadors de mortalitat per nacionalitat i per sexe (acumulat 2021-2025)
+                                      Andorrans   Espanyols      Francesos Portuguesos           Altres        Total    Homes      Dones
+ Defuncions totals                          708          832            72           118           143         1.873     1.007          866
+ Taxa de mortalitat                        3,62          8,15         3,78           2,73          2,29         4,43        4,62        4,24
+ Edat mitjana de defunció                 75,75         78,80        78,17          62,79        73,80         76,23     73,31      79,63
+
+
+
+
+NP_A004_A006_A007_20260518                                                                                             Pàgina 8 de 14
+A004 Estadística del moviment natural de població - A006 Estadística de matrimonis,
+ divorcis, separacions i nul·litats - A007 Indicadors demogràfics bàsics. Any 2025
+
+
+                                         Taxa de mortalitat per nacionalitat
+     10
+
+      9
+                                                                                                                   8,71
+      8   7,97
+
+      7
+
+      6
+          5,39
+      5
+          4,24
+                                                                                                                   4,33
+      4
+          3,28                                                                                                     3,49
+      3
+          2,54                                                                                                     2,61
+      2                                                                                                            2,43
+          1,52
+      1                                                                                                            2,04
+
+      0
+            2016         2017    2018        2019     2020         2021       2022     2023         2024       2025
+
+
+
+             Andorrana           Espanyola          Francesa              Portuguesa          Altres            Total
+
+
+
+
+2.7. Defuncions per mes de defunció
+
+                                                                                         Variació
+                         Mes                        2021 2022 2023 2024 2025
+                                                                                       2024/2025
+                         Gener                        52     41     32     41    40        -2,4%
+                         Febrer                       36     36     30     25    33        32,0%
+                         Març                         26     39     23     35    46        31,4%
+                         Abril                        43     27     22     29    29         0,0%
+                         Maig                         32     19     27     33    34         3,0%
+                         Juny                         19     29     32     33    24       -27,3%
+                         Juliol                       29     31     33     30    41        36,7%
+                         Agost                        28     28     34     23    24         4,3%
+                         Setembre                     26     23     40     28    22       -21,4%
+                         Octubre                      27     30     27     31    33         6,5%
+                         Novembre                     26     27     31     30    19       -36,7%
+                         Desembre                     42     41     29     35    41        17,1%
+                         Total de defuncions        386      371   357    373   386         3,5%
+
+
+
+
+NP_A004_A006_A007_20260518                                                                                 Pàgina 9 de 14
+  A004 Estadística del moviment natural de població - A006 Estadística de matrimonis,
+   divorcis, separacions i nul·litats - A007 Indicadors demogràfics bàsics. Any 2025
+
+3. Casaments
+
+L’any 2025 es van celebrar 474 casaments, dels quals 429 eren civils i 45 eclesiàstics. Dels
+matrimonis civils, 20 van ser entre persones del mateix sexe.
+
+   3.1. Casaments per tipus i parròquia
+
+                                                                                     Andorra la   Sant Julià Escaldes-
+     Casaments                   Canillo     Encamp            Ordino La Massana                                               Espanya       França        Altres    Total
+                                                                                         Vella     de Lòria Engordany
+     Eclesiàstics                      6              8             2            4            5            8         5                4             0           3       45
+     % per parròquia              13,3%          17,8%          4,4%         8,9%       11,1%        17,8%      11,1%             8,9%           0,0%       6,7%     100%
+     Civils                           32             66            21           63          91            42        61               24             6          23      429
+     % per parròquia               7,5%          15,4%          4,9%        14,7%       21,2%          9,8%     14,2%             5,6%           1,4%       5,4%     100%
+     Total                            38             74            23           67          96            50        66               28             6          26      474
+
+                                                                  Casaments per tipus i parròquia
+           100
+                                                                                                                                                  Eclesiàstics
+                                                                                                                                                  Civils
+            80
+
+
+
+            60
+
+
+
+            40
+
+
+
+            20
+
+
+
+             0
+                       Canillo      Encamp          Ordino       La Massana Andorra la       Sant Julià   Escaldes-      Espanya          França           Altres
+                                                                              Vella           de Lòria    Engordany
+
+
+
+
+   3.2. Casaments per tipus i any
+
+                                                                                                                                                                 Variació
+                                        2016        2017         2018       2019        2020       2021          2022     2023            2024          2025
+                                                                                                                                                               2024/2025
+    Casaments civils
+                                           244          268        252        279         201        320         299       338            377           409         8,5%
+    diferent sexe
+    Casaments civils
+                                            9              6            9       12           5        11          11           10          14            20         42,9%
+    mateix sexe
+    Casaments civils                       253          274        261        291         206        331         310       348            391           429         9,7%
+    Casaments
+                                           42             46        32          34         20         24          39           39          47            45         -4,3%
+    eclesiàstics
+    Total                                  295          320        293        325         226        355         349       387            438           474         8,2%
+    Nota: El novembre del 2014 s’aprova la llei 34/2014, qualificada de les unions civils i de modificació de la Llei qualificada del matrimoni,
+    pel que s’aproven els casaments civils del mateix sexe.
+
+
+
+                                                          Evolució del nombre de casaments per tipus
+     450
+                                                                                                                                                             429
+     400
+
+     350
+
+     300
+
+     250
+              253
+     200
+
+     150
+
+     100
+              42
+      50                                                                                                                                                     45
+       0
+                 2016            2017            2018           2019         2020          2021           2022          2023          2024              2025
+
+                                                 Casaments civils                                   Casaments eclesiàstics
+
+
+
+
+   NP_A004_A006_A007_20260518                                                                                                                     Pàgina 10 de 14
+  A004 Estadística del moviment natural de població - A006 Estadística de matrimonis,
+   divorcis, separacions i nul·litats - A007 Indicadors demogràfics bàsics. Any 2025
+
+4. Divorcis i separacions
+
+L’any 2025 es van tramitar 10 separacions i 226 divorcis, xifres que suposen unes variacions
+anuals del -23,1% i del +7,1%, respectivament.
+
+
+                                                                                                            Variació
+                 Any                      2021          2022           2023            2024           2025
+                                                                                                           2024/2025
+                 Divorcis                 143            139            223            211             226     7,1%
+                 Separacions              145             99             40              13            10      -23,1%
+                 TOTAL                    288            238            263            224             236       5,4%
+
+
+                                               Divorcis i Separacions. 2021-2025
+    250
+
+
+    200
+
+
+    150
+
+                                                                      223                                                 226
+    100                                                                                          211
+
+               145     143                 139
+     50                              99
+
+                                                                40                        13                       10
+      0
+                  2021                 2022                      2023                         2024                     2025
+
+                                                       Separacions          Divorcis
+
+
+
+
+5. Creixement vegetatiu per parròquia
+
+
+                                                                                                               Taxa
+                                                                                       Creixement                              % de
+                               Població 2025      Naixements         Defuncions                          creixement
+                                                                                         vegetatiu                       creixement
+                                                                                                             natural
+    Canillo                            6.457               45                 11                34               5,3            0,53%
+    Encamp                            13.520               66                 46                20               1,5            0,15%
+    Ordino                             5.679               36                 13                23               4,1            0,41%
+    La Massana                        12.148               74                 22                52               4,3            0,43%
+    Andorra la Vella                  24.836              136                 149               -13             -0,5            -0,05%
+    Sant Julià de Lòria               10.256               57                 46                11               1,1            0,11%
+    Escaldes-Engordany                16.162               94                 99                 -5             -0,3            -0,03%
+    Total                             89.058              508                 386              122               1,4            0,14%
+
+
+
+
+   NP_A004_A006_A007_20260518                                                                                   Pàgina 11 de 14
+  A004 Estadística del moviment natural de població - A006 Estadística de matrimonis,
+   divorcis, separacions i nul·litats - A007 Indicadors demogràfics bàsics. Any 2025
+
+6. Comparacions internacionals
+
+L’edat mitjana de les mares en el moment del naixement del primer fill a Europa l’any 2024 (la
+dada més actualitzada) va ser de 31,3, mentre que al Principat, pel 2024, va ser de 33,1 anys.
+
+
+
+
+   Font de cartografies: Eurostat
+
+
+
+
+   NP_A004_A006_A007_20260518                                                     Pàgina 12 de 14
+  A004 Estadística del moviment natural de població - A006 Estadística de matrimonis,
+   divorcis, separacions i nul·litats - A007 Indicadors demogràfics bàsics. Any 2025
+
+L’indicador conjuntural de fecunditat a Europa per a l’any 2024 (la dada més actualitzada) va
+ser de l’1,34, mentre que al Principat, pel 2024, va ser de 0,84.
+
+
+
+
+   Font de cartografies: Eurostat
+
+
+
+
+   NP_A004_A006_A007_20260518                                                   Pàgina 13 de 14
+  A004 Estadística del moviment natural de població - A006 Estadística de matrimonis,
+   divorcis, separacions i nul·litats - A007 Indicadors demogràfics bàsics. Any 2025
+
+7. Nota metodològica
+
+  •    Font. Dades del Registre civil de Govern i del Cens de comuns.
+
+  •     Població de referència. Les taxes estimades en aquesta nota d’informació estan
+  basades en les dades de població estimada publicades el dia 26/01/2026. Contempla, per
+  tant, una població resident de 89.058 persones.
+
+  •    Nota. Per als naixements es comptabilitzen únicament aquells en els què ambdós
+  pares, o en el seu defecte, la mare, consten com a residents al país i ho han declarat així al
+  Registre Civil. Per a les defuncions, únicament es comptabilitzen aquells traspassos en els
+  quals la persona constava com a resident en el moment del fet.
+
+  •    Definicions.
+       -   Taxa de natalitat: nombre de naixements per 1.000 habitants.
+       -   Taxa de fecunditat: Nombre de nascuts vius per cada 1.000 dones entre 15 i 49
+           anys.
+       -   Indicador conjuntural de fecunditat: suma de les taxes de fecunditat de l'any per
+           edat de la mare (14 – 49 anys) = fecunditat de renovació. L'índex indica el nombre
+           mitjà de nens que tindrà una dona durant la seva vida.
+       -   Taxa de defunció o de mortalitat: nombre de defuncions per 1.000 habitants.
+       -   Taxa de nupcialitat: nombre de matrimonis per 1.000 habitants.
+       -   Taxa de dependència senil: Ràtio de la població de 65 anys i més sobre la
+           població de 15 a 64 anys.
+
+  •    Dades internacionals: taules i mapes disponibles a la web de l’Eurostat:
+  http://ec.europa.eu/eurostat/data/database
+  •   Citació. Per a qualsevol utilització de la informació continguda en aquesta nota de
+  premsa, preguem citeu: “Dades del Registre civil de Govern i del Cens de comuns, tractades
+  pel   Departament       d’Estadística    per     a    la     Nota    de    Premsa      ref.
+  NP_A004_A006_A007_20260518”.
+
+  •    Marc legal. D’acord amb les previsions de la Llei del Pla d’estadística 2026-2029 i el
+  seu desplegament en el Programa estadístic per a l’any 2026, aquest informe dona resposta
+  a les activitats estadístiques: A004: Estadística del moviment natural de població, A006:
+  Estadística de matrimonis, divorcis, separacions i nul·litats, i A007: Indicadors demogràfics
+  bàsics.
+
+  •    Difusió. Dades disponibles al web www.estadistica.ad, a l’apartat Estadístiques i
+  dades/ Població i migració/Població. Per estar informat en qualsevol moment de les noves
+  publicacions us podeu inscriure a la nostra “Alerta informativa” a la nostra web. També hi
+  podeu trobar l’històric de les notes de premsa d’aquest tema: http://www.estadistica.ad
+
+  Amb l’objectiu de maximitzar la difusió de la informació estadística d’Andorra, les Notes de
+  Premsa del Departament d’Estadística es podran seguir també per Twitter (actualment X).
+
+   _________________________________________________________________________
+
+
+8. Dates de les publicacions previstes
+
+  Nota de premsa: A004. Estadística del moviment natural de població. A006. Estadística de
+  matrimonis, divorcis, separacions i nul·litats. A007 Indicadors demogràfics bàsics. Any 2026:
+  Maig del 2027
+
+
+
+
+  NP_A004_A006_A007_20260518                                                      Pàgina 14 de 14
+

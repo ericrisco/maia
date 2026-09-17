@@ -191,6 +191,41 @@ quatre-cents.**
 > **Regenerable amb** `pdftoppm -f 88 -l 88 -r 300 -png
 > docs/raw/sac-diades/02a-1989-els-moviments-migratoris-a-andorra.pdf`.
 
+## La sèrie continua: 2021-2025, i el saldo segueix positiu
+
+La taula del llibre s'atura el 2007. El Departament d'Estadística en publica la
+continuació cada any (activitat **A011**), i la sèrie viva és aquesta:
+
+| | 2021 | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- | --- |
+| **Immigrants** | 3.536 | 4.270 | **6.045** | 4.591 | **4.727** |
+| **Emigrants** | 2.135 | 2.390 | 2.638 | 2.717 | **2.898** |
+| **Saldo migratori** | **1.401** | 1.880 | **3.407** | 1.874 | **1.829** |
+
+**El 2023 és un pic i no una tendència.** Aquell any van arribar **6.045**
+persones —un terç més que qualsevol altre any de la sèrie— i el saldo va ser de
+**3.407**. El 2024 i el 2025 tornen a la banda dels 1.800.
+
+**Marxa cada vegada més gent.** Els emigrants pugen **cada any** de la sèrie: de
+**2.135 el 2021 a 2.898 el 2025**, un **+35,7%** en quatre anys. **El saldo es
+manté perquè l'entrada aguanta, no perquè la sortida s'aturi.**
+
+**El saldo per edats diu on és el país.** El 2025 és **positiu de 0 a 69 anys** i
+**negatiu a partir dels 70**: **−23** entre 70 i 79. Els gruixos són **20-29
+(+499)** i **30-39 (+650)**: **el 63% del saldo té entre vint i trenta-nou anys**.
+
+**I hi ha dues nacionalitats amb saldo negatiu**: **els andorrans i els
+portuguesos**. Entre els immigrants del 2025, els **andorrans** que hi tornen
+són **209** (−7,5%), i els grups que creixen són els **francesos** (**470**,
++33,1%) i els **portuguesos** (**204**, +39,7%) — però **hi surt més gent
+d'aquests dos passaports de la que n'entra**. Els que sostenen el saldo són
+**altres nacionalitats (46,6% dels immigrants)** i **espanyols (34,7%)**.
+
+**Qui marxa**: sobretot **homes**, **espanyols o d'altres nacionalitats**, i
+**d'entre 20 i 39 anys** — el mateix perfil dels que arriben.
+
+**Els homes són el 59,2% dels immigrants** i el **62,3% del saldo**.
+
 ## Buits registrats
 
 - **La font d'aquesta sèrie.** **El peu de taula és el de la taula del costat i
@@ -212,9 +247,13 @@ quatre-cents.**
   és de la font** ([fitxa](../../../fonts/camiade-migracions.md)). **Segueix
   obert quina cel·la falla**: la font no dona d'on treu la taula, i **sense el
   cens original de 1960 per parròquies no es pot arbitrar.**
-- **El 2007 no és el final.** La sèrie s'atura tres anys abans de la publicació
-  del llibre i **dinou abans d'avui**. Vegeu
-  [demografia](./demografia.md) per a les xifres del 2026.
+- ~~**El 2007 no és el final.** La sèrie s'atura tres anys abans de la publicació
+  del llibre i **dinou abans d'avui**.~~ — **`resolt` el 17-09-2026 per la via
+  d'Estadística** (activitat **A011**, nota del 26-05-2026): vegeu
+  [La sèrie continua: 2021-2025](#la-serie-continua-2021-2025-i-el-saldo-segueix-positiu).
+  `Segueix obert el tram 2008-2020: la nota publicada només porta cinc anys
+  enrere, i per als anteriors cal sondejar les notes velles de la mateixa
+  activitat.` Vegeu també [demografia](./demografia.md).
 
 ## Related
 
