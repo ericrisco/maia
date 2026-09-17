@@ -166,13 +166,62 @@ I una observació del corpus sobre el **criteri aristotèlic dels càrrecs curts
 **vint-i-tres anys** amb
 [Francesc Cairat](../../persones/francesc-cairat.md).
 
+## El desequilibri, mesurat: un vot d'Ordino val 4,3 vots de la capital
+
+La font explica el mecanisme i no el quantifica. Amb la població estimada del
+**juliol del 2026** (Departament d'Estadística, activitat **A001**) es pot
+mesurar.
+
+**Catorze dels vint-i-vuit consellers surten de la circumscripció parroquial, i
+cada parròquia n'elegeix dos, sigui quina sigui la seva mida:**
+
+| Parròquia | Població (07/2026) | % del país | Habitants per conseller parroquial |
+| --- | --- | --- | --- |
+| **Ordino** | 5.816 | 6,5% | **2.908** |
+| Canillo | 6.593 | 7,3% | 3.297 |
+| Sant Julià de Lòria | 10.318 | 11,5% | 5.159 |
+| La Massana | 12.350 | 13,7% | 6.175 |
+| Encamp | 13.710 | 15,2% | 6.855 |
+| Escaldes-Engordany | 16.350 | 18,2% | 8.175 |
+| **Andorra la Vella** | **24.884** | **27,6%** | **12.442** |
+| **Total** | **90.021** | 100% | 6.430 de mitjana |
+
+`Les poblacions i els percentatges són els publicats; la darrera columna és el
+quocient entre població i dos consellers, càlcul del corpus.`
+
+**La ràtio entre l'extrem alt i el baix és de 4,28.** Un conseller d'Ordino
+representa **2.908 persones** i un d'Andorra la Vella **12.442**. **En la meitat
+parroquial del Consell, un habitant d'Ordino pesa quatre vegades i tres dècimes
+el que pesa un habitant de la capital.**
+
+**I el desequilibri no és entre alta i baixa muntanya, sinó entre la capital i la
+resta.** Cinc parròquies de set estan per sota de la mitjana. **Andorra la Vella
+sola té més habitants que Canillo, Ordino i Sant Julià de Lòria juntes**
+—**24.884 contra 22.727**— i hi té **dos consellers parroquials contra sis**.
+
+**Sobre el conjunt dels vint-i-vuit, l'efecte es dilueix a la meitat**, perquè
+**els altres catorze surten d'una llista nacional única** on cada vot val igual.
+Comptant-los tots, un conseller equival a **3.215 habitants** de mitjana, i la
+distorsió que queda és la que la Constitució va voler conservar: **el pes que les
+parròquies tenien al Consell de la Terra**
+([el Consell de la Terra](../../institucions/consell-general/el-consell-de-la-terra.md)).
+
+**El creixement recent va en la direcció d'eixamplar-lo.** Entre el juliol del
+2025 i el del 2026 la població creix a totes les parròquies **menys a Andorra la
+Vella, que és la que menys creix** (+0,5%), mentre **Canillo fa +5,0%** i
+**Ordino +3,2%**. **El desequilibri es redueix per la banda de dalt, no per la de
+baix.**
+
 ## Buits registrats
 
 1. **Per què Andorra no ha passat mai de 28** havent-hi marge fins a 42. Cap
    font ho explica.
 2. **El debat constituent sobre el nombre**: qui va proposar 28 i qui 42.
-3. **Les xifres de població per parròquia** avui, per mesurar el
-   desequilibri real.
+3. ~~**Les xifres de població per parròquia** avui, per mesurar el
+   desequilibri real.~~ — **`resolt` el 17-09-2026 per la via d'Estadística**
+   (activitat **A001**, juliol del 2026): vegeu
+   [El desequilibri, mesurat](#el-desequilibri-mesurat-un-vot-dordino-val-43-vots-de-la-capital).
+   **La ràtio és de 4,28 a la meitat parroquial del Consell.**
 4. **Comparar els criteris d'Aristòtil amb les màximes del Manual Digest.**
 5. **Quines qüestions exactament** requereixen majoria de consellers
    parroquials.
