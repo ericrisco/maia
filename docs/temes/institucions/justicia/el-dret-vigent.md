@@ -135,6 +135,57 @@ que fins ahir tenia el dret romà i el dret català anterior al 1714 com a fonts
 subsidiàries **no és que hagi modernitzat el seu ordenament; és que se n'ha fet
 un**.
 
+## L'any del títol no és l'any en què la llei mana
+
+**Es van llegir les clàusules d'entrada en vigor de seixanta-dues lleis** —les que
+el corpus tenia només com a instantània consolidada, i que per això no en
+portaven cap— als originals del [BOPA](../../../fonts/bopa.md)
+(`docs/raw/lleis/bopa-originals/`). **Cinquanta-cinc en tenen una de llegible**, i
+es reparteixen així:
+
+- **trenta-sis diuen «l'endemà»**: la llei mana l'endemà de sortir al Butlletí;
+- **quinze l'ajornen** quinze dies, un mes, tres mesos, sis mesos o **dos anys**;
+- **quatre fixen una data**, i sempre és **l'1 de gener**.
+
+**En quinze de les cinquanta-cinc, l'any efectiu no és el del títol.** Per dues
+raons diferents, i totes dues compten:
+
+| Llei | publicada al BOPA | entra en vigor | any efectiu |
+| --- | --- | --- | --- |
+| Llei 34/2008 | 2009-01-20 | al cap de tres mesos | **2009** |
+| Llei 92/2010 | 2011-01-18 | l'endemà | **2011** |
+| Llei 95/2010 | 2011-01-25 | l'endemà | **2011** |
+| Llei 19/2016 | 2016-12-21 | l'1 de gener del 2017 | **2017** |
+| Llei 33/2018 | 2019-01-09 | l'1 de gener del 2019 | **2019** |
+| Llei 32/2018 | 2019-01-09 | l'1 de gener del 2019 | **2019** |
+| Llei 37/2018 | 2019-01-22 | al cap de quinze dies | **2019** |
+| Llei 34/2018 | 2019-01-22 | l'endemà | **2019** |
+| Llei 29/2021 | 2021-11-16 | al cap de sis mesos | **2022** |
+| Llei 33/2021 | 2021-12-28 | al cap de sis mesos | **2022** |
+| Llei 36/2021 | 2022-01-03 | l'1 de gener del 2022 | **2022** |
+| Llei 7/2022 | 2022-04-19 | al cap de dos anys | **2024** |
+| Llei 46/2022 | 2023-01-10 | l'endemà | **2023** |
+| Llei 43/2022 | 2023-01-10 | l'endemà | **2023** |
+| Llei 44/2022 | 2023-01-10 | l'endemà | **2023** |
+
+**La primera raó és la publicació, no la llei.** Una llei aprovada al desembre es
+publica al gener: la **Llei 92/2010** i la **95/2010** manen el 2011, la
+**32/2018**, la **33/2018**, la **34/2018** i la **37/2018** manen el 2019, i la
+**34/2008** no arriba fins al 2009. **El desfasament el fa el calendari
+d'aprovació de final d'any**, que empeny la publicació al gener següent.
+
+**La segona és la vacatio, i n'hi ha una d'excepcional.** La **Llei 7/2022
+d'accés electrònic de l'Administració de justícia** es va publicar el 19 d'abril
+del 2022 i **entra en vigor al cap de dos anys**, l'abril del 2024, **excepte les
+disposicions finals primera i segona, que manen l'endemà**. És la vacatio més
+llarga del conjunt. Les de sis mesos —**protecció de dades** (29/2021),
+**transparència** (33/2021), **procediment contenciós administratiu** (9/2022)—
+són la forma normal de donar temps a preparar-se.
+
+**Què vol dir per al recompte per dècades d'aquesta fitxa.** Que és un recompte
+**per any de títol**, i que **sobre aquesta mostra falla en un cas de cada
+quatre**. La taula s'ha generat llegint cada clàusula, no deduint-la.
+
 ## Buits registrats
 
 - **Els reglaments no hi són.** Una llei andorrana sovint no s'entén sense el
@@ -230,5 +281,10 @@ un**.
   igualtat de condicions amb les economies veïnes». **Obrir la inversió no és
   una mesura aïllada: és la tercera pota d'un canvi de model que comença amb
   l'impost de societats.**
-- **Les dates són les del títol, no les d'entrada en vigor.** Una llei del 2022
-  pot haver entrat en vigor el 2023, i el recompte per dècades no ho recull.
+- ~~**Les dates són les del títol, no les d'entrada en vigor.** Una llei del 2022
+  pot haver entrat en vigor el 2023, i el recompte per dècades no ho recull.~~ —
+  **`parcial` el 17-09-2026** a «[L'any del títol no és l'any en què la llei
+  mana](#lany-del-titol-no-es-lany-en-que-la-llei-mana)»: **mesurat sobre
+  seixanta-dues lleis**, el desfasament és **de quinze sobre cinquanta-cinc**.
+  `Requereix fer-ho sobre el cos sencer i no sobre aquesta mostra, cosa que
+  demana baixar l'original de cada llei del corpus.`
