@@ -219,9 +219,48 @@ que es parlaran; no diu què faran.**
   de les Nacions Unides el 28 de juliol de 1993**
   ([font](../../../fonts/valls-enquesta-andorranitat-1994.md)). **Això data el
   discurs, no l'acte d'admissió**, i el corpus **no els confon**.
-- **Les altres organitzacions internacionals** de què Andorra és membre o
+- ~~**Les altres organitzacions internacionals** de què Andorra és membre o
   observador. **La mateixa font n'afegeix una**: **Andorra hi consta com a
-  membre de ple dret de la UNESCO** el 1994. **Sense any d'ingrés.**
+  membre de ple dret de la UNESCO** el 1994. **Sense any d'ingrés.**~~ —
+  **`parcial` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**, que **no
+  publica cap llista de pertinences però sí l'acte d'entrar a cadascuna**:
+  **cada adhesió passa pel Consell General i es publica.**
+
+  **Les que el Butlletí acredita, amb la data de l'acte andorrà:**
+
+  | Any | Organització | Instrument |
+  | ---: | --- | --- |
+  | **2000** | **Organització d'Aviació Civil Internacional** | adhesió al Conveni de Chicago sobre l'aviació civil internacional |
+  | **2001** | **Cort Penal Internacional** | ratificació de l'Estatut de Roma *(i, el 2004, l'acord de privilegis i immunitats)* |
+  | **2002** | **EUTELSAT** | Conveni per a la creació de l'Organització europea de telecomunicacions per satèl·lit |
+  | **2004** | **Organització Mundial del Turisme** | acord relatiu a l'estatut |
+  | **2004** | **Unió Llatina** | adhesió al Conveni de creació |
+  | **2004** | **Organització Internacional de la Francofonia** | adhesió |
+  | **2004** | **Oficina Internacional d'Exposicions** | Conveni de París del 1928 |
+  | **2005** | **FAO** | adhesió a l'Acta constitutiva |
+  | **2006** | **Secretaria General Iberoamericana** | Conveni de Santa Cruz de la Sierra |
+  | **2007** | **Conferència Iberoamericana** | Conveni de Bariloche |
+  | **2010** | **Agència Internacional de l'Energia Atòmica** | acord publicat per edicte |
+  | **2020** | **Fons Monetari Internacional** | **Llei 10/2020, del 5 d'octubre, d'adhesió del Principat d'Andorra al FMI** |
+
+  **Dues coses que la sèrie diu.**
+
+  **La primera: el gruix és del 2004 al 2007.** **Vuit de les dotze
+  incorporacions cauen en quatre anys**, i **són de dos tipus molt clars**: **les
+  de l'òrbita iberoamericana i francòfona** —Unió Llatina, Francofonia, SEGIB,
+  Conferència Iberoamericana— **i les tècniques i penals** que la pressió
+  internacional demanava. **Andorra entra al món per les dues portes que té.**
+
+  **La segona: el FMI arriba el 2020**, **vint-i-set anys després del
+  reconeixement**, i **hi entra per llei pròpia, no per ratificació d'un
+  conveni.** **És l'ingrés més tardà i el que més diu d'una economia que fins
+  llavors havia viscut fora del sistema financer multilateral**
+  ([el cas BPA](../../economia/banca-i-fiscalitat/el-cas-bpa.md)).
+
+  `Segueix obert el que el Butlletí no pot donar: la llista completa de
+  pertinences i observadories a data d'avui, i l'any d'ingrés a l'ONU i a la
+  UNESCO, que no són actes publicats a Andorra sinó resolucions d'aquells
+  organismes.`
 - ~~**Com veien els andorrans aquella doctrina francesa** entre 1971 i 1993.~~
   **Obert encara per als anys de vigència, però ja hi ha la mirada del dia
   després**: per a Reig, l'Estat i el reconeixement «**han estat els somnis de
