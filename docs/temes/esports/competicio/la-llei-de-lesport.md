@@ -112,6 +112,40 @@ ensenya abans que l'aula, no és un detall menor.
   **subvencions** (capítol segon del títol II), tampoc.
 - **Quants esportistes d'alt nivell** hi ha a la llista anual, i si algú ha fet
   servir mai els mèrits de l'article 55.4, no consta.
-- **La [Llei d'esports electrònics](../../institucions/justicia/el-dret-vigent.md)**
+- ~~**La [Llei d'esports electrònics](../../institucions/justicia/el-dret-vigent.md)**
   (Llei 8/2021, 44 articles) és al recull i **queda per llegir**: Andorra té llei
-  pròpia d'esports electrònics.
+  pròpia d'esports electrònics.~~ — **`resolt` el 17-09-2026**, llegida al
+  [BOPA](../../../fonts/bopa.md), butlletí **58 del 2021**
+  (`docs/raw/lleis/bopa/llei-8-2021-esports-electronics.txt`). **I el que hi ha
+  no és una llei d'esport: és una llei de protecció de menors amb forma de llei
+  d'esport.**
+
+  **L'objecte ho diu de dret**: ordenar els esports electrònics **«amb
+  l'establiment d'un sistema que garanteixi uns nivells elevats de protecció a
+  tots els ciutadans, particularment els menors»**, i **promoure'ls com a sector
+  econòmic.** **Les dues finalitats hi van juntes i en aquest ordre.**
+
+  | | |
+  | --- | --- |
+  | **Qui hi ha** | **Clubs professionals i no professionals**, **jugadors i tècnics** de cada mena, **organitzadors de competicions**, **àrbitres i jutges**, i **federacions** |
+  | **Qui mana** | **La Comissió Andorrana d'Esports Electrònics** |
+  | **Qui parla** | **El Comitè Andorrà de Promoció dels Esports Electrònics**, que **es reuneix almenys un cop l'any** i **presenta propostes a la Comissió** |
+  | **Els menors** | **Cal autorització prèvia dels pares o tutors** per participar en competicions, **professionals o no**, i **s'hi aplica la Llei 14/2019 dels drets dels infants i els adolescents** |
+  | **Els videojocs no aptes** | **L'organitzador ha d'informar el públic** i **publicar la classificació PEGI**, **avisant que les imatges poden ferir la sensibilitat dels espectadors** |
+
+  **I permetre que hi jugui un menor sense l'autorització dels pares és una
+  infracció tipificada.**
+
+  **Dues coses que la llei diu de si mateixa i val la pena retenir.** **Que el
+  Govern hi ha de desenvolupar plans de salut mental**: l'exposició de motius
+  remet al **Pla Especial de Salut Mental** i demana **programes de prevenció
+  per a escoles i famílies** i **una estructura assistencial per a adults i
+  adolescents** contra **les addiccions a les tecnologies**
+  ([la salut mental](../../societat/sanitat/la-salut-mental.md)).
+
+  **I que la llei es declara incompleta**: la disposició final segona
+  **encomana al Govern un projecte de llei de relacions laborals de les
+  professions digitals**, perquè **la 8/2021 no diu res de tècnics, creadors de
+  contingut, comentaristes —*casters*— ni analistes**, i **el marc laboral
+  existent «ha quedat obsolet quan parlem d'aquestes professions».**
+  `Requereix saber si aquella llei encomanada es va arribar a fer.`
