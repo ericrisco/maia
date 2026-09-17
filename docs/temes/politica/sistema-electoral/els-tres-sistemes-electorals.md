@@ -173,8 +173,56 @@ revocar acords del parlament**
    primera de la Llei de Referèndum de la Constitució
    ([el referèndum constitucional del 1993](./el-referendum-constitucional-de-1993.md)).
    `Requereix el text, que no és al BOPA perquè el butlletí comença el 1989.`
-3. **Els partits polítics andorrans.** **Prioritari.**
-4. **Resultats electorals**, cap.
+3. ~~**Els partits polítics andorrans.** **Prioritari.**~~ — **`resolt` el
+   17-09-2026**: **el corpus ja té la branca sencera** —
+   [els partits d'avui](../partits/els-partits-davui.md),
+   [l'arbre dels partits](../partits/larbre-dels-partits.md) i
+   [qui paga un partit](../partits/qui-paga-un-partit.md)— **i des d'avui
+   també una llista comprovada per una via independent.**
+
+   **Els noms que apareixen als edictes de donacions del Tribunal de Comptes**
+   (`docs/raw/politica/donacions-partits/`), **amb l'interval en què hi surten:**
+
+   | Formació | Hi surt |
+   | --- | --- |
+   | **Partit Demòcrates per Andorra (DA)** | 2019-2026, **a set edictes** |
+   | **Partit Liberal d'Andorra** | 2019-2021 |
+   | **Partit Socialdemòcrata** —abans «Partit Polític Socialdemòcrata», després «d'Andorra (PS)» | 2019-2026 |
+   | **Partit Unió Laurediana (UL)** | 2025-2026 |
+   | **Partit Acció per Andorra** | 2024 |
+   | **Andorra Endavant** | 2023 |
+   | **Agrupament Encampadà** | 2022 |
+   | **Units per al Progrés** | 2016 i 2026 |
+   | **Ciutadans Compromesos**, **Acció Comunal d'Ordino**, **Desperta Laurèdia**, **Consens per Escaldes-Engordany** | només com a candidatures comunals del 2015 |
+
+   **Dues coses que aquesta via dona i el registre de partits no.** **La
+   primera: la distinció entre partit i agrupació.** **La llei sotmet al mateix
+   règim de finançament «les agrupacions de persones, inscrites o no en el
+   Registre d'associacions, que s'hagin presentat a unes eleccions i hagin
+   obtingut representació»**, de manera que **Agrupament Encampadà o Desperta
+   Laurèdia hi consten al costat dels partits sense ser-ho.** **A Andorra, una
+   candidatura local que treu representació queda regulada com un partit.**
+
+   **La segona: el canvi de nom queda datat.** **El «Partit Polític
+   Socialdemòcrata» del 2019 és el «Partit Socialdemòcrata d'Andorra (PS)» del
+   2023 ençà**, i **la sèrie ho mostra sense que cap font ho expliqui.**
+
+   `Requereix la llista oficial del Registre de partits polítics, que existeix i
+   no es publica` (vegeu [el finançament dels partits](./el-financament-dels-partits.md)).
+4. ~~**Resultats electorals**, cap.~~ — **`parcial` el 17-09-2026, i el motiu
+   pel qual no es pot tancar del tot és legal, no documental.**
+
+   **El [BOPA](../../../fonts/bopa.md) publica els decrets de proclamació
+   d'electes de totes les eleccions generals des del 1993 i no hi posa cap
+   xifra**, **perquè l'article 57.2 de la llei electoral només exigeix els
+   noms.** **Els recomptes sí que hi són per a les eleccions anteriors al
+   1993**, **quan els feia el comú**
+   ([la desigualtat del vot](./la-desigualtat-del-vot.md), on hi ha els nou
+   decrets i les taules pre-1993).
+
+   **El corpus té, doncs, els electes de cada legislatura i no els vots que els
+   van elegir.** `Requereix font externa: el Servei d'Estadística o la premsa,
+   perquè la publicació oficial no en dona cap.`
 5. ~~**El Reglament del Consell General**, criticat per tots dos autors i no
    descrit per cap font del corpus.~~ — **`resolt` el 17-09-2026, i el corpus
    el tenia sense saber-ho.** **Ara n'hi ha quatre textos sencers**, baixats del
