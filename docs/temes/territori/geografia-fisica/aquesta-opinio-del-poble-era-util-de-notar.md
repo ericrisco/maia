@@ -99,6 +99,7 @@ bestiar hi penetri».**
 | Data | Document |
 |---|---|
 | **7 de juny de 1456** | Reconeix als habitants el dret de «*dar licencias sobre **los edificis e altres coses fedores***» i **anul·la un permís concedit pels Veguers «*sobre la casa d'en Guilhem del Areny*»** |
+| **25 de maig de 1480** | **Interrogatori del veguer episcopal al Consell General sencer**, i **resposta unànime que no hi ha tal privilegi** (vegeu més avall) |
 | **27 de març de 1752** | Prohibició a tot habitant o estranger de «*pugue **edificarse casa ni ferse poblador**… sens expressa licencia del Concell de la Vall*», **sota pena del *cot de la Terra*** i de ser privat «*de tots usos de boscos comunals y **demes coses privables per est Concell***» |
 | **19 de maig de 1864** | Decret del Consell General: **vista la sol·licitud i el permís del comú de la Massana**, dona «*lo corresponent permis per **edificar la borda**, com dins se demana*» |
 | **8 de maig de 1883** | El requeridor **justificarà l'autorització del comú**, i **el Síndic, per delegació del Consell, resoldrà** |
@@ -110,6 +111,45 @@ bestiar hi penetri».**
 > «en Guilhem del Areny» del 1456 i la casa d'Areny-Plandolit**
 > ([fitxa](../../cultura/museus-i-arxius/museus/casa-dareny-plandolit.md)):
 > **coincidència de cognom, quatre segles, i cap document que els encadeni.**
+
+### El 1480 algú va anar a preguntar-ho, i ho va preguntar a tothom alhora
+
+**Afegit el 17-09-2026** des de les [actes històriques del Consell
+General](../../../fonts/actes-historiques-consell-general.md) *(ANA, TCN, núm.
+62, fols. 89-89v)*. **És el document que confirma l'ús, i té una forma
+insòlita.**
+
+**El 25 de maig de 1480, a casa de Guillem Cassany**, **Joan Mercer, veguer
+episcopal, i Joan Saferrera, lloctinent del jutge**, **interroguen el Consell
+General en ple** —**cònsols i consellers de les sis parròquies, nomenats un per
+un**— sobre si tenien per privilegi
+
+> «*que **negú pugua edificar cortall en comú e penre del comú per a son hús de
+> sa pròpria necessitat sens lisència de la universitat***».
+
+**I responen tots alhora**:
+
+> «*qui **unanimiter** respondentes dixerunt que **no y ha negú qui hage memòria
+> que negú se pugua penre ne apropriar res de comú ne menys edificar cortall ne
+> cortalls sens lisènsia de la universitat** hon se istalaran, **e asò tenen per
+> privelegi***».
+
+**El privilegi no és poder edificar: és que ningú no pugui.** **La pregunta
+esperava un dret d'ús privat i la resposta en va fer un de col·lectiu.**
+
+**I hi ha un testimoni afegit que val per la seva antiguitat**: **el batlle
+Guillem Moles**, que **declara haver regit la batllia «per spacium treginta
+annorum et plus»** —**trenta anys i més**—, **respon exactament el mateix.**
+**Un batlle que hi era des dels anys cinquanta diu que mai no ha vist el
+contrari**, cosa que **porta el costum enrere fins a tocar el document de
+1456.**
+
+> **El corpus no identifica els Arenys.** **Però registra que a la llista de
+> consellers d'Encamp del 1480 hi ha *Bertrandus Areny* com a cònsol i
+> *Raymundus Areny* com a conseller**, **asseguts al Consell que respon que
+> ningú no pot edificar al comú** —**vint-i-quatre anys després que un permís
+> d'obres «sobre la casa d'en Guilhem del Areny» fos anul·lat.** **Coincidència
+> de cognom i de matèria, registrada i no convertida en prova.**
 
 **I el *cot de la Terra* i les «*coses privables per est Concell*» el corpus ja els
 té** ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)):
