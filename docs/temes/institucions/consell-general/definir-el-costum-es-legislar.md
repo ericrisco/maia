@@ -302,7 +302,57 @@ font és un present** *(pp. 108-109)*:
 4. **Per què la jurisdicció de veeduria abasta les mitgeres urbanes.** **Buit
    heretat, i l'autor el declara: «no lo sabemos».**
 5. **Quan va caure en desús el Consell de l'Afor.** **La font diu «parece» i no
-   dona data.**
+   dona data.** — **`parcial` el 17-09-2026: ara hi ha una data de la qual ja no
+   n'hi ha cap més.** Font: els [llibres d'actes del Consell
+   General](../../../fonts/actes-historiques-consell-general.md).
+
+   **L'últim afor que consta a les actes és el del 6 de juliol de 1795.**
+   **El Llibre IV arriba al 1864 i no en porta cap més.** **Entre el 1795 i el
+   «parece que ha caído en desuso» del 1918 hi ha, doncs, seixanta-nou anys
+   d'actes sense un sol afor.** `Requereix saber si es va fer i no es va
+   assentar; el que consta és que va deixar d'assentar-se el 1795.`
+
+   **I el que hi havia abans era una màquina que funcionava cada any.** **Del
+   1744 al 1795 les actes en porten la sèrie sencera**, i **el preu del blat
+   fiat es fixava en rals o lliures barcelonines per càrrega**:
+
+   | Any | Afor del blat fiat |
+   | --- | --- |
+   | **1744** | 33 rals |
+   | **1745** | 3 lliures 4 sous |
+   | **1746** | 36 rals |
+   | **1747** | 42 rals |
+   | **1748** | 48 rals |
+   | **1750** | 4 lliures 16 sous |
+   | **1752** | 8 lliures |
+   | **1753** | 5 lliures 12 sous |
+   | **1754** | 4 lliures 10 sous |
+   | **1755** i **1756** | 3 lliures 6 sous |
+   | **1757** | 5 lliures 6 sous |
+   | **1758** | 4 lliures 10 sous |
+   | **1759** | 5 lliures 10 sous |
+   | **1790** | **10 lliures** |
+
+   **La sèrie no puja sola: oscil·la.** **El 1752 val vuit lliures i tres anys
+   després tres i mitja**; **el 1790 ja en val deu.** **No és un preu
+   administrat: és la constatació anual del que havia valgut el blat.**
+
+   **Dues coses més que les actes corregeixen.** **Primera, el dia**: aquesta
+   fitxa diu «a l'estiu, dia indeterminat que fixa el Síndic», i **la sèrie ho
+   confirma i l'eixampla** —**els afors cauen del juny al novembre**, amb el
+   gruix a l'**agost i setembre**. **Segona, que el Consell ho tenia per
+   obligació antiga**: el del **17 d'agost de 1790** es fa **«segons lo estil
+   immemorial de las presents Valls»**, i el del **1745** es justifica **«no
+   obstant la consuetut de fer-se l'afor al blat fiat en quiscun any»** —
+   **quan se n'apartaven, ho havien d'explicar.**
+
+   **I el que s'aforava no era només el blat.** **Als llibres I i II el verb
+   *aforar* cobreix tot el mercat**: **el vi per cortó** —de set a catorze
+   diners segons l'any—, **el pa per unces que n'ha de pesar la peça** —«*lo
+   sègell que ajen de donar los ostes nou onses y lo forment*»—, **les truites
+   per lliura** —setze diners el febrer del 1620— **i fins i tot les perdius**,
+   «*a reall les groses*». **El Consell General posava preu al peix de riu i a
+   la caça**, i **ho feia amb el mostassàs vigilant-ho a cada parròquia.**
 6. **Du Cange, *Glossarium*, entrada *Cotus***, que la font cita per al mot
    *cot*. **El corpus no el té.**
 7. **Els *manadors*** com a càrrec: **el corpus no en té res** fora d'aquesta
