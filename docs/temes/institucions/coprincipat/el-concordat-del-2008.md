@@ -277,6 +277,63 @@ desplegar-se— sinó **la via per la qual les altres confessions obtenen
 personalitat jurídica sense tractat.** **L'Església la té per concordat; les
 altres, per registre.**
 
+## El diari de sessions del 2014, i què hi diuen les dues bandes
+
+La font remetia al diari de sessions i el corpus no l'havia obert. **És el Diari
+Oficial del Consell General núm. 10/2014, sessió ordinària del 19 de juny del
+2014**, punt únic: **debat sobre l'orientació política global del Govern**.
+
+**La proposició de llei de què es parla té nom**: la **Proposició de llei de
+despenalització de la interrupció voluntària de l'embaràs en tres supòsits** —
+**perill per a la salut de la mare, malformació extrema del fetus i violació**.
+**No es va debatre: la majoria la va tombar**, i darrere hi havia **4.655
+signatures** recollides per la plataforma ciutadana **«Sí als nostres drets»**.
+
+**La posició de l'oposició** posa el copríncep episcopal al centre, i el contrasta
+amb el francès:
+
+> «després que vostè i la seva majoria haguéssiu **refusat discutir la Proposició
+> de llei de despenalització de la interrupció voluntària de l'embaràs, en tres
+> supòsits**, **cedint així a les pressions**, que havíeu rebut i acatat, per a
+> rebutjar-ho. […] Sortosament el **copríncep François Hollande** ens va recordar
+> dijous a la Casa de la Vall i divendres, a la plaça del Poble, que **no volia
+> "interferir en el funcionament de la democràcia andorrana"** i que el copríncep
+> francès **"mai no interferirà en la política interior d'Andorra"** […].
+> Declaracions clares, precises i concretes de respecte al paper atorgat als
+> coprínceps en la Constitució **que contrasten positivament amb les reiterades
+> interferències del copríncep episcopal en l'àmbit legislatiu**.»
+
+**I hi afegeix un segon fet**: al Consell General dels Joves **se li va negar el
+dret de debatre la qüestió**.
+
+**La posició del Cap de Govern no nega la interferència: nega que modificar el
+Codi Penal unilateralment sigui legítim sense el pacte constitucional.**
+
+> «que s'introdueixi doncs una modificació del Codi Penal […] que s'introdueixi
+> **unilateralment sense tenir en compte el pacte constitucional**, sense tenir en
+> compte algun precepte de la Constitució, home, **ho trobo també desequilibrat i
+> poc ajustat al que seria un debat polític entre persones que respecten les
+> estructures de l'Estat** […]. **nosaltres pensem que la virtualitat del
+> Coprincipat té encara un paper molt rellevant i per molts anys.**»
+
+**Això és exactament el mecanisme que aquesta fitxa descriu, vist des de dins.**
+L'ambaixador escriurà el 2015 que un «**marc legal votat lliurement pel parlament
+andorrà suposarà un canvi de règim polític**»; el **2014 el Cap de Govern ja
+havia dit al ple que fer-ho «unilateralment» és «desequilibrat»**, i **l'oposició
+ja havia dit que la majoria cedia a pressions**. **Les tres frases són la mateixa
+frase, dita des de tres llocs.**
+
+**I hi ha una data que el corpus no tenia**: **l'any anterior**, el 2013, el
+mateix orador ja havia dit al mateix debat que «**guanyava posicions el
+convenciment que el sistema polític establert amb la Constitució estava
+esgotant-se**», i que caldria «**un nou disseny institucional en matèria
+constitucional**» — cosa que el Cap de Govern li retreu explícitament el 2014.
+
+`Font: Diari Oficial del Consell General núm. 10/2014
+([PDF](../../../raw/consell-general/dcg-2014/dcg-10-2014.pdf),
+[text](../../../raw/consell-general/dcg-2014/dcg-10-2014-raw.txt)). Drets del
+Diari **pendents de determinar**; **no entra en cap dataset**.`
+
 ## Buits registrats
 
 - ~~**El text del Concordat del 2008** (BOPA núm. 47).~~ — **`resolt` el
@@ -332,8 +389,11 @@ altres, per registre.**
   una autorització, és un reconeixement**, i **per això calia un tractat que en
   digués l'abast.**
 - **Els articles 3 i 4** de la Constitució, literals.
-- **El diari de sessions** del Consell General sobre la proposició de llei del
-  2014 — **font primària nomenada per la font**.
+- ~~**El diari de sessions** del Consell General sobre la proposició de llei del
+  2014 — **font primària nomenada per la font**.~~ — **`resolt` el 18-09-2026**:
+  és el **DCG núm. 10/2014, sessió del 19 de juny**, i la proposició és la de
+  **despenalització de la interrupció voluntària de l'embaràs en tres supòsits**.
+  Vegeu [El diari de sessions del 2014](#el-diari-de-sessions-del-2014-i-que-hi-diuen-les-dues-bandes).
 - **Què ha passat des del 2015** amb aquest debat. **Buit prioritari i
   sensible**: el corpus el deixa obert i **no anticipa cap desenllaç**.
 - **L'episodi Sarkozy**: data, context i com es va resoldre.
