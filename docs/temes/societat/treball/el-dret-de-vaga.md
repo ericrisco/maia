@@ -155,8 +155,52 @@ vigent** (article 2.1) ni s'aplica **mentre s'exerceix el dret de vaga**
 - **Quantes vagues s'han convocat** des del 2018, tampoc; ni si el Govern ha
   fixat mai serveis essencials.
 - **El Consell Econòmic i Social** no té fitxa al corpus.
-- **La normativa específica dels cossos especials** —que decideix si els policies
-  andorrans es poden sindicar— **no és al recull**.
+- ~~**La normativa específica dels cossos especials** —que decideix si els
+  policies andorrans es poden sindicar— **no és al recull**.~~ — **`resolt` el
+  17-09-2026 des del [BOPA](../../../fonts/bopa.md)**, i **la resposta és doble:
+  sí a sindicar-se, no a la vaga.**
+
+  **La norma és el text refós de la Llei qualificada del Cos de Policia**
+  (`docs/raw/lleis/bopa/decret-legislatiu-2017-text-refos-cos-de-policia.txt`),
+  **que hi dedica una secció sencera —«Drets sindicals», articles 81 a 86**.
+
+  > «Els membres del Cos de Policia **tenen dret de constituir organitzacions
+  > sindicals** per defensar els seus interessos, així com d'afiliar-s'hi i
+  > participar-hi activament» (article 81).
+
+  **Amb una restricció que els aïlla de la resta del món sindical**: **«només es
+  podran afiliar a organitzacions sindicals formades exclusivament per membres
+  del mateix Cos»** (article 82). **Un policia andorrà no es pot afiliar a un
+  sindicat general.**
+
+  **I la vaga els està prohibida sense excepció:**
+
+  > «A l'objecte d'assegurar la prestació continuada dels seus serveis, **que no
+  > admeten interrupció i són essencials per la comunitat**, els membres del Cos
+  > de Policia **no poden exercir en cap cas el dret de vaga**, **ni accions
+  > substitutives d'aquest dret o concertades** que puguin alterar el
+  > funcionament normal dels serveis» (article 83.2).
+
+  **La llei no fixa serveis mínims per a la policia: en suprimeix el dret.** **I
+  tanca també la porta del costat**: **els prohibeix manifestar-se o defensar
+  públicament els seus interessos professionals fent servir l'arma, l'uniforme,
+  les divises o el material operatiu** (article 83.3). **Es poden manifestar,
+  però de paisà.**
+
+  **I el sindicalisme dels cossos especials és una realitat legal recent i
+  creixent.** **La Llei 21/2025, del 13 de novembre**
+  (`docs/raw/lleis/bopa/llei-21-2025-cossos-especials.txt`) **dona a «cada
+  associació sindical» un representant amb veu i vot als comitès tècnics de
+  selecció**, i **ho fa cos per cos**: **Policia, Cos Penitenciari, Prevenció i
+  Extinció d'Incendis i Salvaments, Duana, Banders, Educació, carrera
+  diplomàtica** i **el personal de l'Administració de Justícia.** **Vuit
+  col·lectius amb associacions sindicals reconegudes per llei.**
+  `Requereix comprovar si la prohibició de vaga que pesa sobre la policia pesa
+  també sobre els altres set: el corpus només ha llegit la llei del Cos de
+  Policia.`
+
+  `Requereix saber quantes associacions sindicals de cos hi ha constituïdes i
+  amb quin nom, que la llei suposa i no enumera.`
 - ~~**El tancament patronal (*lockout*)**, si la llei el regula, no s'ha
   localitzat en el que s'ha llegit.~~ — **`resolt` el 16-09-2026: sí que el
   regula, i en un capítol sencer.** **La Llei del conflicte col·lectiu hi
