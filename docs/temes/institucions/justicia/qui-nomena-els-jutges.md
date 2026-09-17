@@ -128,8 +128,41 @@ temporals o descarregar sales, amb **la mateixa consideració que les ordinàrie
   és la xifra que diria si la transitòria segona és residual o estructural.
 - **Les 22 versions no s'han comparat.** És la tercera llei més retocada del
   recull i el corpus no en té la història.
-- **El Tribunal de Corts i la Batllia** tenen capítols propis que no s'han
-  llegit.
+- ~~**El Tribunal de Corts i la Batllia** tenen capítols propis que no s'han
+  llegit.~~ — **`resolt` el 17-09-2026** (`docs/raw/lleis/llei-qualificada-justicia.txt`,
+  articles 47 a 54).
+
+  **La Batllia és la primera instància de tot llevat del penal de fons.**
+  **Mínim dotze batlles més el president** (article 47), que **ho és alhora del
+  Tribunal de Batlles**, i **el substitueix el batlle amb més antiguitat i, si
+  empaten, el de més edat.** **Els batlles jutgen en primera instància tots els
+  processos excepte els penals que són del Tribunal de Corts**, **instrueixen
+  individualment els processos penals** i **exerceixen la jurisdicció
+  voluntària**. **El batlle de guàrdia és qui tramita l'hàbeas corpus i la
+  tutela urgent de drets fonamentals** (articles 9.3 i 41.1 de la Constitució).
+  **I no poden delegar res que sigui jurisdiccional.**
+
+  **La Batllia està partida en sis seccions** (article 50.3): **Civil General**,
+  **Civil Especialitzada**, **Administrativa**, **Menors**, **Instrucció
+  General** i **Instrucció Especialitzada**. **Col·legiadament són tres
+  batlles amb debats secrets i decisió per majoria; en civil, administratiu i
+  menors resol un de sol** (article 49).
+
+  **El Tribunal de Corts és el penal, i fa tres feines alhora** (article 52):
+  **jutja en primera instància delictes majors, menors i contravencions**
+  —**col·legiadament els delictes, unipersonalment les contravencions**—;
+  **resol unipersonalment les apel·lacions contra les resolucions dels batlles
+  en instrucció**; i **el seu president és la jurisdicció de vigilància
+  penitenciària i d'aplicació de les penes.** **Un president i un mínim de
+  quatre magistrats** (article 53.1).
+
+  **I hi ha una cadena de suplències que travessa tota l'organització**: **els
+  batlles poden ser habilitats per actuar al Tribunal de Corts**, i **els
+  magistrats del Tribunal de Corts, al Tribunal Superior de Justícia**, «quan
+  no sigui possible per qualsevol causa la formació del Tribunal amb els seus
+  propis membres» (article 53.2 i 53.4), **sempre per acord del Consell
+  Superior de la Justícia.** **En un país de dotze batlles, la suplència no és
+  una excepció: és una peça de disseny.**
 - **El règim disciplinari dels jutges** (títol V, capítols segon a quart) queda
   pendent.
 - **El [Tribunal Constitucional](les-lleis-qualificades.md)** no forma part de
