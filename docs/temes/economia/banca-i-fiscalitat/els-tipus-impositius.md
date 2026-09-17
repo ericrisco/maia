@@ -146,15 +146,67 @@ del 2015** també. **Les consolidacions es fan per tandes, no impost a impost**:
 el que el corpus té com «24, 22 i 14 versions» és el recompte d'un consolidador
 comercial que compta cada retoc indirecte, **no lleis del Butlletí**.
 
+## Què va canviar cada llei modificadora
+
+**Les sis són al corpus** (`docs/raw/lleis/bopa/impostos/`) i cadascuna té una
+raó escrita al preàmbul.
+
+**IGI — Llei 29/2012, quatre mesos després de la llei.** Corregeix **«algunes
+deficiències tècniques»** i fa dos canvis de fons: permet que reglamentàriament
+es pugui **traslladar l'impost sense consignar la quota separadament de la base**
+quan el destinatari és un consumidor final, i **deixa deduir l'IMI i l'IAC
+suportats sobre les existències que es tinguessin el dia que l'IGI va entrar en
+vigor** —una mesura de transició per no gravar dues vegades el mateix estoc.
+
+**IGI — Llei 11/2013: el règim de béns usats.** L'IGI havia provocat **«un
+augment injustificat de la tributació indirecta en el sector de la compravenda de
+béns usats»**: qui compra un bé a un particular i el revèn havia de repercutir
+l'impost **sobre tot el preu**, mentre que qui només fa d'intermediari el
+repercuteix sobre la comissió. La llei hi introdueix un **règim especial
+opcional** que fa tributar **només la comissió**, determinada objectivament; qui
+s'hi acull **l'ha d'aplicar a totes les seves compres a particulars**, i pot
+renunciar-hi després. La mateixa llei declara **no subjectes els serveis de
+mediació d'assegurances**, perquè ja tributen per l'impost sobre la prestació de
+serveis d'assegurança del 2002.
+
+**IGI — Llei 10/2014**: un ajust de manteniment, sobre els articles 15, 18, 58,
+70, 80 i 81 entre d'altres, **«aspectes del seu funcionament que requereixen ser
+ajustats»**.
+
+**IRPF — Llei 42/2014, set mesos abans que l'impost s'apliqués.** La Llei 5/2014
+s'havia d'aplicar **a partir de l'1 de gener del 2015**; la modificació arriba
+l'11 de desembre del 2014, **abans que ningú hi hagués tributat mai**.
+
+**Societats — Llei 17/2011, un any després de la llei.** Corregeix deficiències
+tècniques i decideix una qüestió que afecta totes les societats del país: **si els
+estatuts obliguen a retribuir l'òrgan d'administració, aquesta retribució és
+sempre deduïble**, perquè la relació administrador-societat **és mercantil**; i la
+mateixa renda tributa com a **activitat econòmica** —per societats si el
+perceptor és persona jurídica, per IRPF si és física. També **inclou la Cambra de
+Comerç com a entitat parcialment exempta**.
+
+**Societats — Llei 6/2018: la que ve de fora.** No neix d'una deficiència tècnica
+sinó d'un compromís internacional. El preàmbul diu que Andorra, **«com a membre
+del Marc Inclusiu de BEPS»**, s'ha compromès a adaptar la normativa a **l'Acció 5
+del projecte BEPS de l'OCDE**, que és **«un estàndard mínim, és a dir, una mesura
+d'implementació obligada»**. El que hi toca són els **règims especials**
+—explotació internacional d'actius intangibles, comerç internacional, gestió
+financera intragrup, tinença de participacions en societats estrangeres—, que
+l'OCDE considera **susceptibles de «generar un risc potencial d'erosió de les
+bases de tributació» i de permetre «la deslocalització artificial de
+beneficis»**. **És l'única de les sis que no decideix Andorra sola.**
+
 ## Buits registrats
 
 - ~~**Aquestes lleis són joves i han canviat molt**: 24, 22 i 14 versions. **Cap
   comparació de versions**: el corpus té els tipus d'avui i no la seva
-  història.~~ — **`parcial` el 17-09-2026** a «[Les vint-i-quatre versions no són
+  història.~~ — **`resolt` el 17-09-2026** a «[Les vint-i-quatre versions no són
   vint-i-quatre lleis](#les-vint-i-quatre-versions-no-son-vint-i-quatre-lleis)»:
   **la cadena del Butlletí són sis lleis modificadores en total per als tres
-  impostos, i tretze textos refosos**. `El contingut de cada modificació —quin
-  tipus va canviar i quan— segueix sense buidar-se: demana llegir les sis lleis.`
+  impostos, i tretze textos refosos**. **I les sis lleis estan
+  llegides** a «[Què va canviar cada llei
+  modificadora](#que-va-canviar-cada-llei-modificadora)». `Cap de les sis no
+  canvia un tipus de gravamen: els tipus d'aquesta fitxa són els originals.`
 - **Els tipus es poden modificar per llei del pressupost** en diversos supòsits;
   els d'aquesta fitxa són els de la instantània.
 - **Quant recapta cada impost**, no consta. Sense això, els tipus no diuen com
