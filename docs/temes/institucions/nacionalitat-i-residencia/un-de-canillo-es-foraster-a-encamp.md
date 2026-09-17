@@ -256,7 +256,46 @@ capella**. Vegeu [la religiositat](../../costums/religiositat/religiositat.md).
    El 1904 era **una tendència**, no una norma escrita. **Entre això i el codi de
    1977 el corpus no té res.**
 5. **Si la naturalització «sense decisió»** va deixar rastre documental, i **com
-   es provava aleshores la condició d'andorrà**.
+   es provava aleshores la condició d'andorrà**. — **`parcial` el 17-09-2026, i
+   pel cantó contrari: el que sí que va deixar rastre és com s'admetia
+   l'estranger.** Font: el **Llibre IV d'actes del Consell General**
+   ([actes](../../../fonts/actes-historiques-consell-general.md)).
+
+   **L'edicte del 23 de març de 1775**, donat «en la Casa de la Vall» i signat
+   pel notari i secretari **Tomàs Palmitjavila**, **estableix un procediment
+   d'admissió al domicili que el corpus no tenia**:
+
+   > Els cònsols i oficials de justícia han de vetllar **«de què no se
+   > establésia ni domicilie persona alguna en sas jurisdiccions sens
+   > cerciorar-se primer de sa vida y costums, offici y circunstàncias»**;
+   > **si els semblen recomanables o suficients, poden concedir la detenció
+   > *interinament***, **fent-ho constar per escrit a la primera Junta del
+   > Consell General**, **que l'aprovarà o la denegarà.**
+
+   **Hi ha, doncs, un permís provisional del comú i una ratificació del
+   parlament**, **el 1775**. **I una sanció per al funcionari que no ho
+   compleixi**: **a més de penes arbitràries, la privació del seu ofici i de
+   tot càrrec a les Valls.**
+
+   **El motiu declarat de l'edicte no és la identitat sinó el contraban.** Es fa
+   perquè no s'ha pogut aconseguir
+
+   > «lo total **extermini de gent vaga y mal entretinguda** que, **sens fixar
+   > domicili ni dedicar-se al treball de son respectiu ofici** […] sols viu y
+   > se ocupa **en negocis il·licits, defraudant las rendas reals de Fransa y
+   > Espanya** mediant la introducció de gèneros prohibits»
+
+   **i l'edicte diu obertament de qui és la culpa**: **«de la condecendència y
+   omissió dels cònsols y officials de justícia en dissimular y permétrer se
+   establesca y domicilie […] qualsevol estranger sens mirà de son offici,
+   costums y circunstàncias».** **El control d'estrangeria andorrà neix, segons
+   el seu propi text, d'un problema de duanes i d'una acusació als comuns.**
+
+   **I setze anys després, el 28 de juliol de 1791, el Consell tanca l'altra
+   porta**: **cap natural de les Valls no pot vendre ni llogar casa a
+   estrangers sense permís i llicència del Consell General, sota pena del cot
+   de la Terra.** **Primer es controla qui entra i després qui li dona
+   sostre.**
 6. **El brevet de ciutadà andorrà**: **quants se'n van concedir i a qui**, i **si
    la figura sobreviu**. `Requereix font externa: els llibres d'acords del Consell
    General.`
