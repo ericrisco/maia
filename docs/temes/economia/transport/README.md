@@ -44,13 +44,95 @@ neu**
 
 **El transport no és un tema tècnic d'aquest país: és la seva condició.**
 
+## El que sí que es pot mesurar avui: la frontera i l'autobús
+
+Les fitxes d'aquesta branca són històriques. **El present el mesura el
+Departament d'Estadística cada mes**, i el corpus ja en té les dues sèries que
+toquen directament el que aquí falta.
+
+### La frontera: quatre milions de vehicles l'any, i tres de cada quatre per Espanya
+
+Activitat **A118. Flux de vehicles**, nota del **24-08-2026**. **Entrades al país
+en els darrers dotze mesos: 4.052.858 vehicles**, un **−5,4%**.
+
+**Acumulat de gener a juliol del 2026**, i la comparació és el que importa:
+
+| Frontera | 2025 | 2026 | Variació |
+| --- | --- | --- | --- |
+| **Espanya** — turismes | 1.555.589 | 1.556.291 | **0,0%** |
+| Espanya — vehicles pesants | 90.523 | 97.150 | **+7,3%** |
+| **Total Espanya** | 1.646.112 | **1.653.441** | **+0,4%** |
+| **França** — turismes | 698.439 | **565.466** | **−19,0%** |
+| França — vehicles pesants | 16.728 | 14.617 | −12,6% |
+| **Total França** | 715.167 | **580.083** | **−18,9%** |
+
+**Tres de cada quatre vehicles entren per Espanya** —**1.653.441 contra 580.083**,
+el **74,0%**—, i
+**la frontera francesa perd gairebé una cinquena part del trànsit en un sol any**
+mentre l'espanyola es manté plana. **El país s'està reorientant cap al sud sense
+que cap norma ho hagi decidit.**
+
+**I hi ha una excepció que va en direcció contrària**: els **vehicles pesants per
+Espanya pugen un 7,3%** mentre els turismes no es mouen. **Entra més mercaderia i
+no més gent.**
+
+### L'autobús: sis-centes mil validacions al mes, i nou de cada deu subvencionades
+
+Activitat **A239. Ús del transport públic**, nota del **24-08-2026**. **A 31 de
+juliol del 2026 el servei tenia onze línies: vuit de regulars i tres de
+nocturnes.**
+
+| | Juliol 2026 | Variació anual |
+| --- | --- | --- |
+| **Validacions de títol** | **615.523** | +2,9% |
+| **Viatges subvencionats pel Govern** | **554.473** | +4,8% |
+| **% subvencionat** | **90,1%** | des del 88,5% |
+| **Import subvencionat del mes** | **631.510 €** | +4,8% |
+
+**Acumulat de gener a juliol del 2026**: **4.856.340 validacions** (+0,8%), amb el
+**83,7%** subvencionades i **4.625.718 €** d'import.
+
+**Nou de cada deu viatges d'autobús del país els paga en part el Govern**, i el
+percentatge puja. **Dues empreses el reparteixen**: **Coopalsa en gestiona el
+71,4%** de les validacions i **Nadal el 28,6%**.
+
+### La mobilitat elèctrica, publicada per primera vegada el 2026
+
+Activitat **A240. Mobilitat sostenible**, **primera edició**, nota del
+**06-07-2026**, dades de l'any 2025:
+
+| | 2023 | 2024 | 2025 | |
+| --- | --- | --- | --- | --- |
+| Usuaris de **Cicland** | — | 565 | **686** | +21,4% |
+| Trajectes de Cicland | 29.889 | 37.453 | **41.873** | +11,8% |
+| Matriculacions de **100% elèctrics** | 177 | 207 | **275** | +32,9% |
+| Matriculacions d'**híbrids** | 904 | 984 | **1.384** | +40,7% |
+| Parc de 100% elèctrics | — | 1.080 | **1.331** | +23,2% |
+| Parc d'híbrids | — | 3.803 | **5.118** | +34,6% |
+
+`Els valors del 2023 de Cicland i del 2024 d'usuaris són deduïts dels
+percentatges que la nota publica; els altres són xifres publicades.`
+
+**Els trajectes de bicicleta pública creixen un 40,1% en dos anys** i **les
+matriculacions d'híbrids són cinc vegades les d'elèctrics purs**: **la
+transició andorrana passa, ara mateix, per l'híbrid.**
+
 ## El que falta
 
 - **Les carreteres.** **La CG-1, la CG-2 i la resta**: cap fitxa.
 - **El túnel d'Envalira** i **el túnel del Cadí**, que va tancar l'aeroport.
 - **L'heliport d'Andorra la Vella.**
-- **El transport públic** i **la mobilitat interna.**
-- **La frontera**: quant temps es triga, quants vehicles hi passen.
+- **El transport públic** i **la mobilitat interna.** — **`parcial` el
+  17-09-2026**: les xifres hi són (**onze línies, 615.523 validacions al juliol
+  del 2026, el 90,1% subvencionades**), vegeu
+  [L'autobús](#lautobus-sis-centes-mil-validacions-al-mes-i-nou-de-cada-deu-subvencionades).
+  `Segueix obert el relat: qui presta el servei des de quan, com es va muntar i
+  què cobreix el conveni amb les dues empreses.`
+- **La frontera**: quant temps es triga, quants vehicles hi passen. —
+  **`parcial` el 17-09-2026**: **quants hi passen ja consta**
+  —**4.052.858 entrades en dotze mesos**, vegeu
+  [La frontera](#la-frontera-quatre-milions-de-vehicles-lany-i-tres-de-cada-quatre-per-espanya)—;
+  `el temps d'espera segueix sense font.`
 - **El [projecte d'aeroport propi](../../historia/historia-recent/els-anys-daurats.md)**,
   que la font descriu com **«un desig mitigat»** que torna a la premsa des dels
   anys 2000.

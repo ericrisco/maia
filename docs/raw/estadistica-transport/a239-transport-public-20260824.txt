@@ -1,0 +1,409 @@
+                        A239. Estadística de l’ús del transport públic. Juliol del 2026
+                                   Data de publicació: dilluns, 24/08/2026
+                                              www.estadistica.ad
+
+
+
+
+         Resum
+
+         En data 31 de juliol del 2026, el servei de transport públic d’Andorra oferia onze línies, de les
+         quals vuit són regulars i tres nocturnes.
+
+         El nombre de validacions de títol efectuades durant el mes de juliol ha estat de 615.523, un
+         2,9% més respecte al mateix mes de l’any anterior. Aproximadament, una de cada tres
+         validacions de títol s’ha gestionat per Nadal, mentre que dues de cada tres les ha gestionat
+         Coopalsa.
+
+         El nombre de validacions del títol efectuades durant els darrers set mesos ha estat de
+         4.856.340, xifra que equival a un augment del 0,8% respecte al mateix període de l’any
+         anterior. El 28,6% s’han fet als autobusos gestionats per Nadal, mentre que el 71,4% restant
+         s’han dut a terme als autobusos gestionats per Coopalsa.
+
+
+
+
+NP_A239_20260824                                                                                             Pàgina 1 de 9
+                                 A239. Estadística de l’ús del transport públic. Juliol del 2026
+
+
+         Índex
+
+         1. Oferta del servei ........................................................................................................................ 3
+            1.1. Nombre de línies ................................................................................................................ 3
+            1.2. Nombre d’expedicions diàries ............................................................................................ 3
+         2. Demanda del servei .................................................................................................................. 4
+            2.1. Nombre de validacions del títol .......................................................................................... 4
+         3. Subvencions .............................................................................................................................. 5
+            3.1. Viatges subvencionats ....................................................................................................... 5
+            3.2. Import total de les subvencions ......................................................................................... 5
+         4. Gràfics ....................................................................................................................................... 6
+         5. Nota metodològica .................................................................................................................... 8
+         5. Dates de les properes publicacions previstes ........................................................................... 9
+
+
+
+
+NP_A239_20260824                                                                                                                                                Pàgina 2 de 9
+                            A239. Estadística de l’ús del transport públic. Juliol del 2026
+
+
+         1. Oferta del servei
+
+
+            1.1. Nombre de línies
+
+         El sistema de transport públic d’Andorra disposa, a juliol del 2026, d’onze línies d’autobús.
+         D’aquestes, vuit són línies regulars i tres són línies nocturnes. Respecte al mateix mes de l’any
+         anterior, el nombre de línies no ha variat.
+
+
+                                                                                             Variació
+            Oferta del servei                                  jul-25           jul-26                       Variació
+                                                                                             absoluta
+            Nombre de línies regulars                               8                8                0         0,0%
+            Nombre de línies nocturnes                              3                3                0         0,0%
+            Nombre de línies totals                                11               11                0         0,0%
+
+
+
+            1.2. Nombre d’expedicions diàries
+
+         Els dies laborables del mes de juliol s’han fet, de mitjana, 691 viatges, mentre que els dissabtes
+         s’han fet 473 i els diumenges o festius 435 expedicions. La mitjana de viatges fets el juliol del
+         2026 ha disminuït un 6,1% en els dies laborables, ha augmentat un 0,6% els dissabtes i un
+         0,5% en els diumenges o festius.
+
+
+                                                                                             Variació
+            Expedicions diàries (mitjana)                      jul-25           jul-26                       Variació
+                                                                                             absoluta
+            Expedicions en dies laborables                        736             691              -45         -6,1%
+            Expedicions en dissabte                               470             473                3          0,6%
+            Expedicions en diumenge o festius                     433             435                 2         0,5%
+
+
+         Segons les dades de gener a juliol, les expedicions en dies laborables ascendeixen, de
+         mitjana, a 787, amb un creixement del 8,5% respecte al mateix període de l’any anterior.
+         D’altra banda, les expedicions en dissabte registren un augment del 7,6%, fins a assolir les
+         502 de mitjana. Finalment, les expedicions en diumenge o festius augmenten un 14,3%,
+         amb una mitjana de 473 expedicions.
+
+
+                                                      gen 2025 a gen 2026 a               Variació
+         Expedicions diàries (mitjana)                                                                     Variació
+                                                        jul 2025   jul 2026               absoluta
+         Expedicions en dies laborables                        726              787              61           8,5%
+         Expedicions en dissabte                               467              502              36           7,6%
+         Expedicions en diumenge o festiu                      414              473              59          14,3%
+         Nota: Les diferències absolutes poden no quadrar degut als decimals del càlcul de les mitjanes.
+
+
+
+
+NP_A239_20260824                                                                                                        Pàgina 3 de 9
+                         A239. Estadística de l’ús del transport públic. Juliol del 2026
+
+
+
+         2. Demanda del servei
+
+
+            2.1. Nombre de validacions del títol
+
+         El nombre total de validacions del títol, sigui en format físic o digital, és de 615.523 per al mes
+         de juliol del 2026. Si s’analitza segons la companyia que ofereix el servei: Nadal ha efectuat
+         179.869 validacions de títol, un 4,6% més respecte al mateix mes de l’any anterior, mentre que
+         Coopalsa n’ha efectuat 435.654, és a dir, un +2,3% interanual. La variació del nombre total de
+         viatges respecte al mateix mes de l’any anterior és del +2,9%, que correspon a 17.610
+         validacions més.
+
+
+                                                                                     Variació
+           Validacions                                   jul-25         jul-26                   Variació
+                                                                                     absoluta
+           Validacions Nadal                          171.970        179.869           7.899        4,6%
+           Validacions Coopalsa                       425.943        435.654           9.711        2,3%
+           Nombre total de viatges                    597.913        615.523          17.610        2,9%
+
+
+
+                                           Validacions del mes de juliol
+
+
+
+
+                                                                     179.869
+
+
+
+
+                                            435.654
+
+
+
+
+                                          Validacions Nadal   Validacions Coopalsa
+
+
+
+
+         Pel que fa a l’acumulat de validacions corresponents als set primers mesos de l’any, el
+         volum total se situa en 4.856.340 viatges, fet que representa un augment del 0,8% respecte
+         del mateix període de l’any anterior (4.817.678 viatges).
+
+         En relació amb la distribució per companyia, les validacions de l’empresa Nadal
+         ascendeixen a 1.387.153, amb un creixement del 4,1% interanual. D’altra banda, les
+         validacions de Coopalsa registren una disminució del -0,5%, amb 3.469.187 viatges.
+
+
+                                                    gen 2025 a gen 2026 a             Variació
+             Validacions (acumulades)                                                             Variació
+                                                      jul 2025   jul 2026             absoluta
+             Validacions Nadal                        1.332.106      1.387.153          55.047        4,1%
+             Validacions Coopalsa                     3.485.572      3.469.187         -16.385       -0,5%
+             Nombre total de viatges                  4.817.678      4.856.340         38.662        0,8%
+
+
+
+
+NP_A239_20260824                                                                                               Pàgina 4 de 9
+                        A239. Estadística de l’ús del transport públic. Juliol del 2026
+
+
+
+         3. Subvencions
+
+            3.1. Viatges subvencionats
+
+         El nombre de viatges subvencionats pel Govern durant el mes de juliol del 2026 ha estat de
+         554.473, cosa que representa un 90,1% del total de viatges fets per les línies d’autobús
+         d’Andorra. Les dades del mateix mes de l’any anterior reflecteixen que un 88,5% dels
+         viatges van ser subvencionats. Així doncs, la variació és lleugerament positiva, d’un 1,8%.
+
+
+                                                                           Variació
+           Viatges subvencionats                    jul-25       jul-26                   Variació
+                                                                           absoluta
+           Viatges subvencionats totals            528.967     554.473       25.506          4,8%
+           Total de viatges                        597.913     615.523       17.610          2,9%
+           % de viatges subvencionats totals        88,5%       90,1%            1,6         1,8%
+
+
+         Pel que fa a l’acumulat de viatges subvencionats corresponents als set primers mesos de
+         l’any, el 83,7% dels viatges han estat subvencionats, fet que suposa un increment de l’1,6%
+         respecte del mateix període de l’any anterior, quan el 82,4% dels viatges van ser
+         subvencionats.
+
+
+           Viatges subvencionats               gen 2025 a gen 2026 a       Variació
+                                                                                          Variació
+           (acumulats)                           jul 2025   jul 2026       absoluta
+           Viatges subvencionats total          3.971.721    4.066.797       95.076          2,4%
+           Total de viatges                     4.817.678    4.856.340       38.662          0,8%
+           % de viatges subvencionats totals       82,4%        83,7%           1,3          1,6%
+
+
+
+            3.2. Import total de les subvencions
+
+         L’import total subvencionat per al mes de juliol del 2026 ha estat de 631.510 €, cosa que
+         implica una diferència negativa de 50.586 € respecte al mes de juny. La variació interanual
+         de l’import subvencionat és de +28.951 €, i això equival a una variació positiva del 4,8%.
+
+         L’import subvencionat acumulat des del mes de gener ascendeix a 4.625.718 €, fet que
+         equival a un +2,3% en comparació al mateix període de l’any anterior, quan l’import
+         subvencionat va ser de 4.520.618 €.
+
+
+
+
+NP_A239_20260824                                                                                       Pàgina 5 de 9
+                                A239. Estadística de l’ús del transport públic. Juliol del 2026
+
+
+         4. Gràfics
+
+
+                                                             Nombre de validacions per empresa
+
+                                                                                    572.211                  584.263
+                600.000                                                  547.610                   552.300
+
+                                                               480.998                                                      457.185
+                500.000                            461.613
+                                                                                                                                                   450.569
+                                        425.456
+                                                                                                                                      417.005
+                             376.468
+                400.000                                                                                                                                     435.654
+
+                300.000
+                                                   214.891 209.524                                           218.897
+                                        196.336                          190.746 198.293 189.703                        196.802 198.167 205.422
+                                                                                                                                                           179.869
+                200.000
+                             145.823
+
+                100.000
+
+
+                       0
+                             ago-25      set-25     oct-25      nov-25    des-25     gen-26         feb-26   mar-26      abr-26       mai-26     jun-26     jul-26
+
+
+
+                                                                         Viatges Nadal              Viatges Coopalsa
+
+
+
+
+                                       Viatges subvencionats sobre viatges totals dels darrers 12 mesos
+
+             ago-25                                                             522.291
+                                                  449.828
+              set-25                                                                                     621.792
+                                                                               566.275
+              oct-25                                                                                                   676.504
+                                                                                            620.433
+             nov-25                                                                                                      690.522
+                                                                                         600.254
+             des-25                                                                                                                    738.356
+                                                                               562.931
+             gen-26                                                                                                                             770.504
+                                                                                  580.863
+             feb-26                                                                                                                    742.003
+                                                                           558.254
+             mar-26                                                                                                                                   803.160
+                                                                                                   638.833
+             abr-26                                                                                               653.987
+                                                                                568.850
+             mai-26                                                                                     615.172
+                                                                               565.710
+              jun-26                                                                                              655.991
+                                                                                     599.814
+              jul-26                                                                                    615.523
+                                                                          554.473
+                   300.000                400.000                   500.000                  600.000                   700.000                   800.000
+
+
+                                                            Total de viatges                   Viatges subvencionats
+
+
+
+
+NP_A239_20260824                                                                                                                                                      Pàgina 6 de 9
+                            A239. Estadística de l’ús del transport públic. Juliol del 2026
+
+
+                                          Import subvencionat en els darrers 12 mesos
+
+             ago-25                                                        512.686,74 €
+
+             set-25                                                                           643.877,77 €
+
+             oct-25                                                                                    705.332,70 €
+
+             nov-25                                                                                 682.414,15 €
+
+             des-25                                                                           640.766,64 €
+
+             gen-26                                                                              660.816,52 €
+
+             feb-26                                                                          635.090,90 €
+
+             mar-26                                                                                          726.509,96 €
+
+             abr-26                                                                            646.797,15 €
+
+             mai-26                                                                           642.896,80 €
+
+             jun-26                                                                                 682.096,03 €
+
+              jul-26                                                                         631.510,45 €
+
+                       0€    100.000 €   200.000 €   300.000 €     400.000 €     500.000 €       600.000 €       700.000 €
+
+
+                                                          Total Subvenció en €
+
+
+
+
+NP_A239_20260824                                                                                                             Pàgina 7 de 9
+                           A239. Estadística de l’ús del transport públic. Juliol del 2026
+
+
+         5. Nota metodològica
+
+             •     Font. Dades de l’Àrea de Transports de la Secretaria d’Estat de Transició Energètica,
+                   Transports i Mobilitat, tractades i revisades pel Departament d’Estadística del Govern
+                   d’Andorra.
+
+             •     Definicions.
+                           - Validacions del títol (o validació de l'abonament) en el transport públic,
+                              com ara l'autobús, és l'acció obligatòria d'apropar la targeta de transport,
+                              abonament o suport digital a una màquina validadora en el moment
+                              d'accedir al vehicle.
+
+             •     Altres consideracions.
+
+                   Nota.
+
+                       •   La qualitat de les dades disponibles està condicionada per la disponibilitat
+                           dels GPS dels autobusos. D’aquesta manera, el total de validacions és una
+                           xifra exacta, però el repartiment per línies pot no ser exacte. Actualment es
+                           disposa del 85-90% de dades.
+
+                       •   La qualitat de les dades per línies en milers de viatgers disponibles està
+                           condicionada per la disponibilitat dels GPS dels busos, i en aquest cas, per a
+                           l’any 2025, s’ha fet un repartiment proporcional, prenent com a referència
+                           dies tipus, quan no hi ha prou dades disponibles. Per aquest motiu la qualitat
+                           d’aquestes dades s’ha de considerar com una aproximació. Per a l’any 2026,
+                           s’afegeix una sèrie estadística “sense dades” per indicar les validacions
+                           sense dades GPS.
+
+                       •   Amb el reordenament de línies al juliol es va modificar notablement l’equilibri
+                           de les línies a la vall d’Orient i a la vall del Nord. Arran del canvi a temporada
+                           alta al novembre, també es va experimentar un reequilibri a la vall d’Orient
+                           (tot això sense tenir en compte l’estacionalitat de la demanda).
+
+                       •   No s’ofereixen dades acumulades dels darrers dotze mesos respecte al
+                           mateix període anterior perquè les dades disponibles encara no construeixen
+                           tot l’històric.
+
+             •     Citació. Per a qualsevol utilització de la informació continguda en aquesta nota de
+                   premsa, preguem citeu: “Dades del Dpt. d’Indústria, tractades pel Departament
+                   d’Estadística per a la Nota de Premsa ref. NP_A239_20260824”.
+
+             •     Marc legal. D’acord amb les previsions de la Llei del Pla d’estadística 2026-2029 i el
+                   seu desplegament en el Programa estadístic per a l’any 2026, aquest informe dona
+                   resposta a l’activitat estadística: A239. Estadística de l’ús del transport públic.
+
+             •     Difusió. Dades disponibles al web www.estadistica.ad, a l’apartat Estadístiques/Dades/
+                   Estadístiques sectorials/ Transport/. Per estar informat en qualsevol moment de les
+                   noves publicacions us podeu inscriure a la nostra “Alerta informativa” a la nostra web.
+                   També hi podeu trobar l’històric de les notes de premsa d’aquest tema:
+                   http://www.estadistica.ad
+
+                   Amb l’objectiu de maximitzar la difusió de la informació estadística d’Andorra, les Notes
+                   de Premsa del Departament d’Estadística es podran seguir també per Twitter
+                   (actualment X).
+
+
+
+
+NP_A239_20260824                                                                                                Pàgina 8 de 9
+                        A239. Estadística de l’ús del transport públic. Juliol del 2026
+
+
+         5. Dates de les properes publicacions previstes
+
+             Nota de premsa A239. Estadística de l’ús del transport públic. Agost del 2026: 30 de
+             setembre del 2026
+
+
+
+
+NP_A239_20260824                                                                                    Pàgina 9 de 9
+
