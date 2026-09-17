@@ -322,15 +322,87 @@ el corpus la reté com a **posició**, no com a descripció neutra.
 
 ## Buits registrats
 
-1. **El text de cap d'aquestes normes no s'ha llegit.** Hi ha **vint-i-cinc
+1. ~~**El text de cap d'aquestes normes no s'ha llegit.** Hi ha **vint-i-cinc
    disposicions amb òrgan i data exacta**: és **la llista de cerca més accionable
-   que té el corpus** per anar al butlletí o a l'Arxiu.
+   que té el corpus** per anar al butlletí o a l'Arxiu.~~ — **`parcial` el
+   17-09-2026**, i **la llista ha resultat tan accionable com deia, per a la
+   meitat que cau dins del Butlletí.**
+
+   **Nou normes llegides senceres**: **les vuit quotes del 1989 al 1997** i **la
+   Llei del 4 de novembre de 1993** (vegeu el punt 5). **El tall és net i és una
+   propietat de la font, no de la llista**: **el [BOPA](../../../fonts/bopa.md)
+   comença el 1989**, de manera que **les setze disposicions anteriors —dels
+   decrets del Consell de la Terra del segle XVIII al Decret de bases del 1980 i
+   les seves complementàries del 1984— no hi són i requereixen l'Arxiu
+   Nacional.**
+
+   `Requereix, doncs, l'Arxiu per a tot el que és anterior al 1989, i el corpus
+   ja no ho ha de buscar al Butlletí.`
 2. **Les màximes 41 i 42 del Manual Digest**, i el **núm. 41 de l'*Apéndice
    Misceláneo***: el corpus **no en té el text**.
 3. **Què va passar el 1988** perquè no s'aprovés cap quota.
 4. **Les quotes del 1985, 1993-94 endavant per nacionalitat**: l'autora només
    dona el repartiment 40/40/20 per al període 1984-1987.
-5. **Quantes persones hi havia a cada quota.** Hi ha els criteris i no les xifres.
+5. ~~**Quantes persones hi havia a cada quota.** Hi ha els criteris i no les
+   xifres.~~ — **`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**,
+   que **publica totes les quotes des del seu primer any**. **Nou documents,
+   del 1989 al 1997**, baixats a `docs/raw/lleis/bopa/quotes-immigracio/`.
+
+   | Període | Prorrogables | Temporals | Temporada d'hivern | Altres |
+   | --- | ---: | ---: | ---: | --- |
+   | **1989** (12-06) | **250** | **5.000** | — | **fronterers: sense límit** |
+   | **1989-90 hivern** (30-11) | **50** | **950** | — | **80 tècnics d'esquí, oberts a totes les nacionalitats** |
+   | **1990** (13-07) | *per empresa, no per sector* | — | **125 tècnics d'esquí** | **500 per a empreses noves** |
+   | **1991** (26-06) | **909** | **750** | — | **la xifra 909 són les baixes del país registrades el 1990** |
+   | **1992** (13-07) | **250** | **850** | — | **400 per a empreses noves** |
+   | **1993-94** (04-11, **llei**) | **250** | **400** | **950**, de les quals **150 per a tècnics de fora de la CE/EFTA** | **quota zero de residents sense treball** |
+   | **1995-96** (30-06) | **500** UE/EFTA + **150** altament qualificats + **20** de fora | **800** | **800** | |
+   | **1996-97** (16-10) | **500** + **150** + **15** de fora | **800** | **800** + **175 tècnics de fora** | |
+   | **1997-98** (30-07) | **900** + **150** + **25** de fora | **500** | **800** + **175 tècnics de fora** | |
+
+   **Cinc coses que les xifres diuen i els criteris no deien.**
+
+   **La primera: el 1989 la quota temporera era de cinc mil persones**, **vint
+   vegades la de permisos prorrogables** —**250**—, i **repartida per sectors**:
+   **construcció 1.575, hoteleria 1.550, comerç 1.050, indústria 485, serveis
+   300 i agricultura 40.** **Dos sectors se'n enduien el 62%.**
+
+   **La segona: el 1991 la quota no és una decisió sinó una resta.** «Les baixes
+   definitives del país, oficialment registrades durant l'any 1990, i que sumen
+   la quantitat total de **909** […] Per tant, **la Quota d'Immigració serà de
+   909 autoritzacions prorrogables**.» **El país es fixa com a sostre el nombre
+   de gent que se n'ha anat.** **És la política de creixement zero escrita com a
+   aritmètica.**
+
+   **La tercera: el 1990 canvia qui reparteix.** «El repartiment de les places
+   es farà, **no per sectors econòmics com abans, sinó per empreses**», calculat
+   sobre el personal que cada empresa havia tingut l'any anterior, **més 500
+   places per a les de nova creació**. **De planificar sectors es passa a
+   repartir entre patrons.**
+
+   **La quarta: els tècnics d'esquí són l'única escletxa oberta al món.** **El
+   1989 són 80 autoritzacions «excepcionalment obertes a totes les
+   nacionalitats»**, el 1990 **125**, el 1993-94 **150** i el 1996-98 **175**.
+   **Mentre la resta del sistema es tanca als països de la CE i l'EFTA, els
+   monitors i els *pisteurs* poden venir d'on sigui**, i **el nombre puja cada
+   any.** **Una excepció d'immigració escrita per a una sola indústria**
+   ([la neu](../../economia/turisme-i-neu/turisme-i-neu.md)).
+
+   **La cinquena: la residència sense treball es tanca del tot el 1993.**
+   **«Es fixa una quota zero per a aquest tipus d'autoritzacions»** (article 7
+   de la Llei del 4 de novembre de 1993)
+   ([la residència passiva](../../institucions/nacionalitat-i-residencia/la-residencia-passiva.md)).
+   **El mateix any en què Andorra aprova la Constitució, tanca la porta al
+   resident que no ve a treballar**, **i la reobrirà amb la Llei qualificada de
+   residències passives del 30 de juny de 1995.**
+
+   **I una dada de context que dona la llei del 1997**: **1.224 baixes
+   registrades al Servei d'Immigració durant el 1996**, que és la base sobre la
+   qual es projecten les xifres d'aquell any.
+
+   `Requereix les quotes del 1980 al 1988, anteriors al Butlletí, i la del 1994-95,
+   que no apareix a la cerca: entre la llei del novembre del 1993 —que cobria fins
+   al maig del 1994— i la del juny del 1995 hi ha un any sense norma localitzada.`
 6. ~~**Les revisions mèdiques dels immigrants** (reglament del 15.06.1993): què
    comprovaven i amb quines conseqüències.~~ **PARCIALMENT TANCAT**: segons
    l'ADMA, el protocol excloïa **no sols malalties infectocontagioses o defectes
