@@ -130,9 +130,43 @@ l'Organització Internacional del Treball**.
 
 ## Buits registrats
 
-1. **Quan s'aprova finalment la llei de sindicats.** El corpus s'atura el 2002.
-   **Buit prioritari** — cal portar aquesta fitxa al present.
-2. **L'article 18 de la Constitució**, text literal.
+1. ~~**Quan s'aprova finalment la llei de sindicats.** El corpus s'atura el 2002.
+   **Buit prioritari** — cal portar aquesta fitxa al present.~~ — **`resolt` el
+   17-09-2026 al [BOPA](../../../fonts/bopa.md).** **Van caldre quinze anys des
+   de la Constitució.**
+
+   | Data | Norma |
+   | --- | --- |
+   | **18 de desembre del 2008** | **Llei 33/2008, qualificada de llibertat sindical** (`docs/raw/lleis/bopa/llei-33-2008-llibertat-sindical.txt`) |
+   | **6 de desembre del 2018** | **Llei 32/2018, qualificada d'acció sindical i patronal** —la vigent (`docs/raw/lleis/bopa/llei-32-2018-accio-sindical-i-patronal.txt`) |
+
+   **La Constitució és del 1993 i la llei que desplega el dret de l'article 18
+   és del 2008.** **El 2002, quan la font d'aquesta fitxa es queixava que el
+   SAT no era reconegut com a sindicat dins del país, faltaven encara sis anys
+   de llei.** **La fitxa ja no s'atura el 2002.** `Requereix llegir el
+   contingut de totes dues, i sobretot què hi va canviar el 2018: la llei del
+   2008 fa 17.000 caràcters i la del 2018 en fa 44.000.`
+2. ~~**L'article 18 de la Constitució**, text literal.~~ — **`resolt` el
+   17-09-2026** (`docs/raw/lleis/bopa/constitucio-1993-bopa-24.txt`):
+
+   > «Es reconeix el dret de creació i funcionament d'organitzacions
+   > empresarials, professionals i sindicals. **Sense perjudici de la seva
+   > vinculació amb organismes internacionals, aquestes organitzacions han
+   > d'ésser d'àmbit andorrà, disposar d'autonomia pròpia sense dependències
+   > orgàniques estrangeres i funcionar democràticament.**»
+
+   **Tres condicions, i la segona és la que explica aquesta fitxa sencera**:
+   **àmbit andorrà**, **autonomia sense dependència orgànica estrangera** i
+   **funcionament democràtic**. **La Constitució permet la vinculació
+   internacional i prohibeix la dependència**, que és exactament la frontera
+   on es movia el SAT, reconegut a Europa i no aquí.
+
+   **I val la pena llegir-hi al costat l'article 19**, que no demana llei
+   qualificada sinó llei a seques: «Els treballadors i els empresaris tenen
+   dret a la defensa dels seus interessos econòmics i socials. **La llei
+   regularà les condicions d'exercici d'aquest dret per garantir el
+   funcionament dels serveis essencials de la comunitat.**» **El dret de vaga
+   no s'hi anomena; el que s'hi anomena és el límit.**
 3. ~~**Què és el CRES**~~ — **tancat**: és el **Centre de Recerca Sociològica**
    de l'IEA, creat la primavera del 2000 amb un director i dos becaris per
    «proporcionar elements als gestors públics». Vegeu
@@ -141,7 +175,36 @@ l'Organització Internacional del Treball**.
 4. **Quants afiliats** tenien i tenen.
 5. **Quan es reconeix legalment el SAT.**
 6. El **Reglament laboral** i la **Llei d'associacions** que el SAT volia
-   reformar.
+   reformar. — **`parcial` el 17-09-2026**: **totes dues localitzades, i una
+   d'elles diu una cosa gran.**
+
+   **La Llei qualificada d'associacions és del 29 de desembre del 2000**
+   (`docs/raw/lleis/bopa/llei-29-12-2000-associacions.txt`), **modificada per
+   la Llei 32/2007 quant a l'article 33**, i **substituïda avui per la Llei
+   20/2023**. **Quan el SAT en demanava la reforma, era una llei acabada de
+   fer.**
+
+   **El Reglament Laboral és preconstitucional i anterior al BOPA**, de manera
+   que **el text base no hi és**; **el que hi ha és la Llei de modificació del
+   Reglament Laboral, aprovada el 13 de juliol de 1990** «en la continuació de
+   la sessió tradicional de Sancogesma»
+   (`docs/raw/lleis/bopa/llei-13-7-1990-mod-reglament-laboral.txt`). **I el que
+   fa és la reforma laboral més gran del període:**
+
+   > «**La durada legal de la jornada de treball vigent a Andorra era, fins ara,
+   > de 44 hores setmanals. Es pretén reduir-la a 40.**»
+
+   **Quaranta-quatre hores fins al 13 de juliol de 1990.** La llei toca els
+   articles **12, 13, 17, 19, 32, 33 i 37** del Reglament, i **compensa la
+   reducció ampliant el màxim d'hores extraordinàries** perquè «el nombre total
+   d'hores treballades no variï respecte del que era vigent», **amb la
+   salvaguarda que «la realització d'hores extraordinàries no pot ésser
+   imposada al treballador, sinó que requereix el seu consentiment exprés»**.
+
+   **Això data el punt de partida del sindicalisme andorrà amb precisió**: **el
+   SAT es funda el 8 de març de 1990 i la jornada baixa a 40 hores quatre
+   mesos després.** `Requereix el text del Reglament Laboral originari, que és
+   anterior al BOPA, i saber si la coincidència de dates és casualitat.`
 7. **CSI-Pirimed** — el Consell Sindical Interregional dels Pirineus
    Mediterranis.
 
