@@ -113,6 +113,21 @@ documents a tot el Butlletí i tots dos són lleis, cap acte de declaració.**
 **En tots dos casos la via queda descartada, no pendent**, i **això val tant com
 trobar el document.**
 
+## Un tercer defecte del mateix tipus, trobat el 17-09-2026
+
+**La cerca torna, per a alguns documents, la URL d'UNA PÀGINA i no la del
+document.** **Es reconeix perquè el nom de fitxer porta un prefix numèric**:
+`1_319A.html` en comptes de `319A.html`.
+
+**Es baixa sense cap error i el fitxer sembla sencer.** **Només es nota perquè
+el text comença a mitja frase.** Comprovat amb la **Llei transitòria de
+procediments judicials**: **la pàgina fa 24.487 caràcters i el document,
+82.964.**
+
+**És el mateix defecte que el BOM d'UTF-16 i que el PDF servit sense extensió**:
+**el fitxer sembla baixat.** **El client ja prova primer el nom sense prefix i
+només cau a la pàgina si aquell no existeix.**
+
 ## Related
 
 - [El Concordat del 2008](../temes/institucions/coprincipat/el-concordat-del-2008.md) — el primer buit que aquesta via va tancar.
