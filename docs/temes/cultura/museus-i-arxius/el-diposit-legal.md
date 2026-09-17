@@ -154,6 +154,20 @@ obligació**, si el que produeix és publicació.
   remet**, que és exactament el buit que el corpus ja tenia obert a
   [sèries senceres, no](./series-senceres-no.md).
 
+  > **Vigència comprovada el mateix dia, segons la regla nova.** **La 9/2003 va
+  > ser modificada per la Llei 15/2014, del 24 de juliol**
+  > (`docs/raw/lleis/bopa/llei-15-2014-mod-patrimoni-cultural.txt`), **que en
+  > toca els articles 2, 3.2, 4.1, 12, 13.2, 14.2, 15 i 16** —**tots del règim
+  > dels béns d'interès cultural i dels entorns de protecció**— **i cap del
+  > capítol quart.** **La lectura d'aquí es manté.**
+  >
+  > **El que la 15/2014 sí que canvia, i val la pena per a altres fitxes**:
+  > **el silenci administratiu passa a ser positiu** en les autoritzacions
+  > d'obres de l'article 14, **l'expedient de declaració caduca als nou mesos**
+  > i **no es pot tornar a iniciar en tres anys**, i **els criteris de la zona 1
+  > de l'entorn de protecció vinculen el comú immediatament** mentre que **els
+  > de la zona 2 són només propostes que el comú pot acceptar o no.**
+
   **I el preàmbul dona la cadena normativa anterior, que el corpus no tenia**:
   **les ordinacions del 13 de juliol de 1964, del 4 de juny de 1970 i del 5 de
   juliol de 1988**, i **la Llei de protecció del patrimoni cultural-natural del
