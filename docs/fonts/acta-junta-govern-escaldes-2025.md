@@ -70,12 +70,12 @@ un segle o de fa trenta anys.
 ## Buits registrats
 
 1. **L'URL** de publicació de l'acta.
-2. **L'Ordinació del 20-3-2025 d'ajut per al foment i suport del petit comerç**,
-   i el seu **annex 1**, que és el que decideix qui cobra i qui no. El corpus en
-   té els efectes i no en té el text.
+2. ~~**L'Ordinació del 20-3-2025 d'ajut per al foment i suport del petit
+   comerç**, i el seu **annex 1**, que és el que decideix qui cobra i qui no.~~
+   `resolt`
 
    **`resolt` el 17-09-2026 des del [BOPA](./bopa.md)**, butlletí **34 del
-   2025** (`docs/raw/societat/bopa/ordinacio-2025-petit-comerc-escaldes.txt`).
+   2025** ([evidència](../raw/societat/bopa/ordinacio-2025-petit-comerc-escaldes.txt)). **I n'hi ha una segona per al 2026**, del 24 de febrer ([evidència](../raw/societat/bopa/ordinacio-2026-petit-comerc-escaldes.txt)).
    **Les ordinacions comunals es publiquen al Butlletí i no calia demanar-les al
    Comú.**
 

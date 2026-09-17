@@ -218,11 +218,20 @@ passen per la mateixa taula, el mateix dia, amb el mateix format d'acord.** Aix�
 
 ## Buits registrats
 
-1. **L'Ordinació del 20-3-2025** i el seu **annex 1**. **Prioritari**: és la
-   norma que decideix qui cobra l'ajut, i el corpus només en veu els efectes.
+1. ~~**L'Ordinació del 20-3-2025** i el seu **annex 1**. **Prioritari**: és la
+   norma que decideix qui cobra l'ajut, i el corpus només en veu els efectes.~~
+   `resolt`
 
    **`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**, butlletí **34 del
-   2025** (`docs/raw/societat/bopa/ordinacio-2025-petit-comerc-escaldes.txt`).
+   2025**
+   ([evidència](../../../raw/societat/bopa/ordinacio-2025-petit-comerc-escaldes.txt)),
+   **i n'hi ha una segona per al 2026**, del 24 de febrer
+   ([evidència](../../../raw/societat/bopa/ordinacio-2026-petit-comerc-escaldes.txt)).
+   **Entre l'una i l'altra només canvien tres coses**: l'antiguitat mínima de
+   l'activitat (autoritzada abans del **2022** → abans del **2023**), l'exercici
+   de referència dels ingressos (**2024** → **2025**) i el termini de sol·licitud,
+   que **s'avança del 31 de juliol al 30 de juny**. **La bonificació segueix sent
+   del 25%**, i els llindars de facturació, els mateixos.
    **Les ordinacions comunals es publiquen al Butlletí i no calia demanar-les al
    Comú.**
 
