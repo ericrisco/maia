@@ -138,7 +138,48 @@ va haver de fer **per la via del conveni**— i això deixa marca.
 
   **Els tres fan servir la mateixa formulació sense saber-ho: «el país
   explicant-se als seus nens».** **I els tres diuen que són documents públics
-  del Govern.** `Requereix font externa: el BOPA i el Ministeri d'Educació.`
+  del Govern.**
+
+  **`parcial` el 17-09-2026, i el que canvia és que ara se sap on són.**
+  **Els programes de Formació Andorrana es publiquen al
+  [BOPA](../../../fonts/bopa.md) com a decrets, un per programa, i n'hi ha
+  dos-cents quaranta-quatre documents** —del **Decret del programa d'educació
+  maternal del 10-9-1997** al **Decret 438/2025 del programa de ciències
+  humanes i socials del batxillerat**. **No calia demanar-los a ningú.**
+
+  **Llegit el primer complet**: el **Decret del 7-10-1998 del programa de
+  primera ensenyança**
+  (`docs/raw/societat/formacio-andorrana/decret-1998-programa-primera-ensenyanca.txt`).
+
+  **Primer, dona l'origen amb data**: **«El Consell General, amb la nota-informe
+  sobre l'andorranització del juny de 1972 [...] crea el servei de formació
+  andorrana.»** **Juny del 1972, i l'instrument és una nota-informe, no una
+  llei.**
+
+  **Segon, diu exactament què s'hi ensenya**, i són **tres àrees, dues
+  obligatòries i una opcional**:
+
+  | Àrea | | Blocs |
+  | --- | --- | --- |
+  | **Llengua catalana** | obligatòria | llengua oral · llengua escrita · anàlisi i reflexió sobre la llengua |
+  | **Medi** | obligatòria | configuració del paisatge · **ocupació i transformació del territori** · **formes d'organització política i social** · activitats artístiques i manifestacions culturals |
+  | **Música** | **opcional** | percepció i comprensió · expressió musical · llenguatge musical |
+
+  **Tercer, el bloc que més importa aquí és el tercer de medi**, i **el seu
+  contingut són tres línies**: **les institucions andorranes, l'Administració
+  pública i l'evolució històrica.** **Entre els procediments hi ha
+  «introducció al treball amb documents històrics, com a fonts que permeten la
+  reconstrucció del passat» i «programació de visites a testimonis arqueològics»
+  —a nens de sis a dotze anys.**
+
+  **I quart, el programa es declara a si mateix «prescriptiu i orientador»**:
+  **prescriptiu «com a manament dels poders públics i de la societat
+  andorrana»**, **orientador «tot respectant el principi de llibertat de
+  càtedra».** **El país s'explica als seus nens amb un programa que reconeix
+  per escrit que és una ordre i alhora no ho és del tot.**
+
+  `Requereix buidar els altres 243 decrets de programa, que ara se sap que són
+  tots al BOPA.`
 - **Si algun centre s'hi va resistir**, i què va passar.
 
 ## Related

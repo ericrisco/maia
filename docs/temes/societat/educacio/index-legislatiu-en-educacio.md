@@ -185,10 +185,53 @@ seguretat.** El corpus prefereix un total sòlid a un desglossament inventat.
 
   **Els tres fan servir la mateixa formulació sense saber-ho: «el país
   explicant-se als seus nens».** **I els tres diuen que són documents públics
-  del Govern.** `Requereix font externa: el BOPA i el Ministeri d'Educació.`
-- **La Llei de l'Escola Andorrana del 2 de maig de 1989**, que no té número de
-  BOPA a la llista i per tant és anterior a la sèrie consultable — **cal buscar-la
-  a les actes del Consell General**.
+  del Govern.**
+
+  **`parcial` el 17-09-2026**: **els decrets de programa són tots al
+  [BOPA](../../../fonts/bopa.md)** —**244 documents**, del **10-9-1997** al
+  **desembre del 2025**— **i el primer ja és destil·lat** a
+  [l'andorranització](./landorranitzacio.md). `Requereix buidar-ne els altres
+  243, que ara se sap on són.`
+- ~~**La Llei de l'Escola Andorrana del 2 de maig de 1989**, que no té número de
+  BOPA a la llista i per tant és anterior a la sèrie consultable.~~ —
+  **`resolt` el 17-09-2026, i la premissa era falsa**: **sí que és a la sèrie
+  consultable.** **El BOPA comença el 1989 i aquesta llei surt al butlletí
+  núm. 9, del 19 de maig del 1989** —**el corpus havia donat per anterior una
+  cosa que hi és per dos mesos**
+  (`docs/raw/societat/escola-andorrana/llei-1989-escola-andorrana.txt`).
+
+  **El preàmbul és el document ideològic més explícit que el corpus té sobre
+  per què existeix l'escola andorrana**, i **diu coses que cap fitxa no deia**:
+
+  > «**quina enorme riquesa ens confereix set segles d'independència i de
+  > neutralitat**»
+  >
+  > «**no tenim riqueses naturals, la nostra riquesa és l'home**, forjat per una
+  > cultura i una història multiseculars»
+  >
+  > «En la nostra civilització, **humanista i cristiana**, l'infant ha d'ésser
+  > educat sobretot per a ell mateix»
+
+  **I dona la data exacta de l'origen de tot plegat**: **«la Nota-Informe sobre
+  l'andorranització que aprovà el Consell General en data 6 de juny de 1972»**
+  —**el 6, que el decret del 1998 deixava només en «juny»**.
+
+  **Tres peces d'estructura que el corpus no tenia:**
+
+  | | |
+  | --- | --- |
+  | **Les llengües** | L'objectiu prioritari és **el català oral i escrit amb «un ús matisat i ric»**; **castellà i francès com a coneixement gradual assegurat**; i **una quarta llengua viva** que el Govern ha de dotar de recursos (art. 3.j i 3.k) |
+  | **El C.A.D.E.** | **Consell Andorrà de l'Ensenyament**, màxim òrgan de participació, que **ha d'elaborar un informe anual sobre el sistema educatiu** i **avaluar periòdicament les escoles** (art. 14) |
+  | **Els experts estrangers** | L'article 16.2 permet **incorporar al C.A.D.E. experts estrangers de reconegut prestigi** nomenats pel Govern |
+
+  **La llei es declara a si mateixa provisional**: **«No és la fi sinó el
+  començament d'un procés»**, i **es dona un any per redactar la Llei General de
+  l'Educació, tres mesos per a les normes de funcionament i sis per publicar el
+  Sistema Educatiu Andorrà.** **La Llei d'ordenament del sistema educatiu no
+  arriba fins al 1994: cinc anys, no un.**
+
+  `Requereix saber si el C.A.D.E. va arribar a fer mai l'informe anual de
+  l'article 14.4.`
 - **El decret d'avaluació del sistema educatiu (36)**: si Andorra s'avalua a si
   mateixa, els resultats existeixen.
 - **L'annex 3 sencer**, amb els docents per sistema.

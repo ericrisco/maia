@@ -132,10 +132,30 @@ amb inacció andorrana—, **el text vigent remet simplement als poders de l'art
 
 ## Buits registrats
 
-**No s'ha comprovat si la Llei qualificada 15/2003 segueix vigent.** **Tota
-aquesta decisió reposa sobre ella.** Si s'ha substituït, **la base de fet de
-l'adequació ha canviat** i el corpus no en sap res. `Requereix el BOPA i la
-comprovació de vigència de la LQPDP.` **És la unitat següent òbvia d'aquest
+~~**No s'ha comprovat si la Llei qualificada 15/2003 segueix vigent.**~~ —
+**`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**, butlletí
+**119 del 2021**, i **la resposta és que no**:
+
+> **Llei 29/2021, disposició derogatòria primera.** «Queda derogada tota
+> disposició que s'oposi al que estableix a aquesta Llei de dades personals, i,
+> **en especial, la Llei 15/2003, del 18 de desembre, qualificada de protecció
+> de dades personals**.»
+
+**La Llei 15/2003 està derogada des del maig del 2022** —la 29/2021 entra en
+vigor sis mesos després de publicar-se—, **i amb ella la disposició derogatòria
+segona deixa sense efecte el Registre públic d'inscripció de fitxers.**
+
+**Això vol dir que la base de fet sobre la qual reposa l'adequació del 2010 ja
+no existeix**, i **el corpus registra la conseqüència sense arbitrar-la**: **la
+decisió d'adequació segueix citant una llei derogada.** **No en dedueix que
+l'adequació hagi decaigut** —**això depèn del règim de revisió de la Comissió,
+no del text d'aquesta fitxa**— **però sí que el supòsit que la decisió descriu
+ja no és el dret vigent andorrà.**
+
+`Requereix saber si la Comissió Europea ha revisat l'adequació d'Andorra
+després del 2021.`
+
+**És la unitat següent òbvia d'aquest
 àmbit.**
 
 **La llacuna de les decisions automatitzades: tancada el 2026-09-14.** El
