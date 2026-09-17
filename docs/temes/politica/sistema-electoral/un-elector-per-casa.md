@@ -282,7 +282,31 @@ un mestre de noys y un de noyes en cada paroquia.»**
 3. **En què consistien les «facilitats» de naturalització** per al cap de casa
    estranger.
 4. **Quan es va passar del vot per casa al vot per persona**, i amb quina norma.
-5. **Quan es va deixar de votar de viva veu.**
+5. **Quan es va deixar de votar de viva veu.** — **`parcial` el 17-09-2026, i
+   la data és molt més tardana del que semblava.** El que el
+   [BOPA](../../../fonts/bopa.md) documenta **no és el vot oral sinó la
+   identificació oral de l'elector**, i **es deroga el 10 d'octubre de 1989**,
+   per una llei dels **Delegats Permanents dels Coprínceps** signada a la Seu
+   d'Urgell i Perpinyà (`docs/raw/lleis/bopa/llei-1989-modifica-decret-reforma-1866.txt`):
+
+   > «**Es deroga la facultat de què l'elector s'identifiqui "de paraula" a
+   > l'hora de votar**, segons s'estableix en el paràgraf segon del 5º del
+   > Decret de 22 d'abril de 1866, entenent-se des d'ara que **la necessària
+   > identificació de l'elector en el moment de votar ha de fer-se
+   > documentalment**» (article 2).
+
+   **Tres coses que això estableix.** **Que el paràgraf 5 de la Reforma del 1866
+   encara era dret vigent el 1989** —**cent vint-i-tres anys**—; que **fins
+   aleshores es podia entrar a votar i dir qui eres**, sense document; i que
+   **el canvi el fa el copríncep, no el Consell General**. **Els avisos del
+   1989, 1991, 1992 i 1993 que recorden que cal ensenyar el passaport són la
+   conseqüència pràctica d'aquest article**, i el corpus els té localitzats al
+   BOPA.
+
+   **El que segueix obert és el vot oral pròpiament dit**: `Requereix el text
+   del paràgraf 5 sencer de la Reforma del 1866 per saber si el vot també era
+   de viva veu o només la identificació.` **És el buit 1 d'aquesta mateixa
+   llista.**
 6. **Si les parròquies tenien mestre i mestra el 1899**, i quantes.
 7. **La *gambeto***: si se'n conserva cap, i des de quan es fa servir.
 

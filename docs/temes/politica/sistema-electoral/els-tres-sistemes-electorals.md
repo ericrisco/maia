@@ -127,9 +127,49 @@ revocar acords del parlament**
 
 ## Buits registrats
 
-1. **El text de la Llei electoral** en qualsevol de les tres versions.
+1. ~~**El text de la Llei electoral** en qualsevol de les tres versions.~~ —
+   **`parcial` el 17-09-2026**, i **el que ha aparegut canvia el relat
+   d'aquesta fitxa.** Al [BOPA](../../../fonts/bopa.md) hi ha **la versió
+   vigent sencera** —**Llei 44/2022, de text consolidat, 78 articles**
+   (`docs/raw/lleis/bopa/llei-44-2022-regim-electoral-consolidat.txt`),
+   descrita a
+   [com es compten els vots](./com-es-compten-els-vots.md)— i **dos documents
+   del sistema anterior**. **El text íntegre de la «Llei Electoral»
+   preconstitucional segueix sense localitzar**: `Requereix el Butlletí del
+   Consell General o l'Arxiu Nacional; al BOPA, que comença el 1989, només hi
+   ha les modificacions.`
 2. **Quan exactament canvia el sistema «prepreconstitucional»** al dels vuitanta.
-   Dallerès diu «inicis dels anys vuitanta» i no data.
+   Dallerès diu «inicis dels anys vuitanta» i no data. — **`parcial` el
+   17-09-2026, i amb una troballa que obliga a matisar la fitxa.** **El Decret
+   de Reforma del 22 d'abril de 1866 encara era la norma electoral el 1989.**
+
+   **La prova és una llei dels Delegats Permanents dels Coprínceps**, signada a
+   **la Seu d'Urgell i Perpinyà el 10 d'octubre de 1989** per **Roger Gros** i
+   **Nemesi Marquès**, publicada al **BOPA núm. 24 del 19-10-1989**
+   (`docs/raw/lleis/bopa/llei-1989-modifica-decret-reforma-1866.txt`). Diu, amb
+   aquestes paraules: «**modifiquem el Decret de reforma del 22 d'abril del
+   1866** en els punts concrets a què es refereixen les disposicions
+   següents». **Tres articles:**
+
+   | | |
+   | --- | --- |
+   | **1** | **Es deroga el requisit de «ser vehi de la parròquia respectiva»** per ser elector, que venia dels apartats 1r i 3r del Decret del 1866 |
+   | **2** | **Es deroga que l'elector pugui identificar-se «de paraula» a l'hora de votar**; **des d'ara la identificació ha de fer-se documentalment** |
+   | **3** | **Tancades les llistes, ningú més no s'hi inscriu** —ni qui obtingui la nacionalitat per decret posterior—, **llevat de resolució ferma d'un recurs** |
+
+   **Un mes i mig després**, el **24 d'octubre de 1989**, la Comissió Permanent
+   del Consell General **va haver de reescriure l'article 12 de la «Llei
+   Electoral»** perquè contradeia l'article 3 d'aquella llei dels Delegats, i
+   ho va fer **per urgència, «atesa la proximitat de les eleccions»** del 10 de
+   desembre (`docs/raw/lleis/bopa/llei-24-10-1989-mod-article-12-llei-electoral.txt`).
+
+   **Dues coses queden establertes.** **Que el 1989 convivien dues fonts de dret
+   electoral de rang distint** —el Decret del 1866 modificat pels Delegats i una
+   «Llei Electoral» del Consell General— i que **harmonitzar-les es feia cas per
+   cas**. I **que el copríncep encara legislava en matèria electoral quatre anys
+   abans de la Constitució**. **Per tant «el sistema dels vuitanta» no
+   substitueix el del 1866: s'hi superposa.** `Segueix obert quan es promulga
+   aquella «Llei Electoral» i quin número té.`
 3. **Els partits polítics andorrans.** **Prioritari.**
 4. **Resultats electorals**, cap.
 5. **El Reglament del Consell General**, criticat per tots dos autors i no
