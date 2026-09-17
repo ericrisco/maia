@@ -219,11 +219,56 @@ cada cop menys gent** ([l'abstenció](../sistema-electoral/labstencio.md)).
 
 ## Buits registrats
 
-1. **El text del Reglament del Consell General**, i el de la reforma del **7 de
-   febrer de 2019**.
+1. ~~**El text del Reglament del Consell General**, i el de la reforma del **7 de
+   febrer de 2019**.~~ — **`resolt` el 17-09-2026 al
+   [BOPA](../../../fonts/bopa.md)**, i **amb una notícia que aquesta fitxa no
+   podia tenir: el Reglament s'ha tornat a refer el 2026.**
+
+   | Data | Text | Mida |
+   | --- | --- | --- |
+   | **3 de setembre de 1993** | **Reglament del Consell General** —el primer, per mandat de la disposició transitòria primera de la Constitució (`docs/raw/lleis/bopa/reglament-consell-general-1993.txt`) | 69.609 car. |
+   | **7 de febrer del 2019** | **Reglament del Consell General** —el que la font d'aquesta fitxa comenta (`docs/raw/lleis/bopa/reglament-consell-general-2019.txt`) | 94.598 car. |
+   | 23 de març del 2020 | Reforma puntual (`docs/raw/lleis/bopa/reforma-reglament-consell-general-2020.txt`) | 3.150 car. |
+   | 22 de desembre del 2022 | Reforma puntual (`docs/raw/lleis/bopa/reforma-reglament-consell-general-2022.txt`) | 1.246 car. |
+   | **4 de juny del 2026** | **Reglament del Consell General** —**el vigent** (`docs/raw/lleis/bopa/reglament-consell-general-2026.txt`) | **168.391 car.** |
+
+   **El Reglament ha triplicat de mida en trenta-tres anys**, i **les dues
+   vegades que ha crescut de debò ho ha fet reescrivint-se sencer, no
+   esmenant-se.** **Les reformes del 2020 i del 2022 són de tres mil i mil
+   dos-cents caràcters: puntuals.**
 2. **Què va passar amb els altres quinze punts** de la reforma.
 3. **Les enquestes del CRES** sobre valoració institucional. **Prioritari.**
-4. **Les vuit comissions legislatives permanents**: quines són.
+4. ~~**Les vuit comissions legislatives permanents**: quines són.~~ — **`resolt`
+   el 17-09-2026, i ara són nou.** **L'article 45 del Reglament vigent**, del 4
+   de juny del 2026, al costat de **l'article 46 del de 1993**:
+
+   | 1993 | 2026 |
+   | --- | --- |
+   | Interior | **Justícia, Interior i Afers institucionals** |
+   | Política Exterior | Política Exterior |
+   | Economia (Agricultura, Indústria, Comerç i Turisme) | Economia (Agricultura, Indústria, Comerç i Turisme) |
+   | Finances i Pressupost | Finances i Pressupost |
+   | Política Territorial i Urbanisme | **Política Territorial, Urbanisme i Medi Ambient** |
+   | **Sanitat i Medi Ambient** | **Sanitat** |
+   | Afers Socials | **Afers Socials i Igualtat** |
+   | Educació, Recerca, Cultura i Esports | **Ensenyament, Recerca, Cultura, Joventut i Esports** |
+   | — | **Supervisió de la sostenibilitat de les pensions de la CASS** |
+
+   **Tres canvis diuen alguna cosa.** **El medi ambient es muda**: era amb
+   sanitat i ara és amb urbanisme —**de problema de salut a problema de
+   territori**. **La justícia apareix**, que el 1993 no tenia comissió pròpia.
+   **I n'hi ha una de novena que no és sectorial sinó d'un sol problema**:
+   **la sostenibilitat de les pensions de la CASS.** `Requereix saber quan es
+   crea aquella comissió i per quin debat.`
+
+   **El límit d'acumulació també ha pujat**: **un conseller podia ser membre de
+   tres comissions el 1993 i pot ser-ho de quatre el 2026**, **amb un mínim de
+   cinc consellers per comissió que no ha canviat.** **Nou comissions de cinc
+   fan 45 seients mínims; vint-i-vuit consellers amb quatre places cadascun en
+   donen 112.** **El mínim legal, doncs, no obliga ningú a acumular**: **el que
+   força l'acumulació, si n'hi ha, són els grups parlamentaris petits, que han
+   de cobrir nou comissions amb pocs membres.** `Requereix la composició real
+   d'una legislatura per veure quants consellers en fan tres o quatre.`
 5. **La comissió d'enquesta del cas BPA**: composició, conclusions.
 6. **Si hi ha hagut mai una ILP** a Andorra, i quantes.
 7. **El Tribunal de Comptes** i **el Raonador del Ciutadà**: citats i no
