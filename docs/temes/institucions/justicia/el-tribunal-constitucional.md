@@ -123,9 +123,49 @@ exclusiva permanent, hi ha retribució per activitat.
 
   **La forma de la sèrie diu alguna cosa**: **nou recursos entre el 1993 i el
   2002**, **cap entre el 2003 i el 2016** —**catorze anys sense**— i **set del
-  2017 ençà.** `Requereix les altres dues vies —el procés incidental i
-  l'empara—, que no s'han comptat, i la matèria de cada causa, que només es té
-  per a tres.`
+  2017 ençà.**
+
+  **I les altres vies també es deixen comptar, pel mateix mètode.** **Cada causa
+  del Tribunal porta un codi `<any>-<número>-<sigla>`** i **el número és
+  correlatiu dins de l'any**, de manera que **el número més alt publicat és el
+  recompte.** **Les tres vies jurisdiccionals, senceres:**
+
+  | Via | Sigla | Causes | Repartiment |
+  | --- | --- | ---: | --- |
+  | **Recurs directe d'inconstitucionalitat** | **-L** | **16** | 1993-2002: nou · 2003-2016: **cap** · 2017-2022: set |
+  | **Procés incidental d'inconstitucionalitat** | **-PI** | **11** | **cap abans del 2010**; 2010 (quatre), 2011, 2014 (dos), 2017 (dos), 2021, 2025 |
+  | **Conflicte de competències constitucionals** | **-CC** | **16** | 2003, **2005-2008 (catorze)**, i **2018** |
+  | **Recurs d'empara** | **-RE** | **més de 1.350 des del 2000** | [el recurs d'empara](./el-recurs-dempara.md), amb la sèrie any per any |
+
+  **Tres coses que la taula diu i que no s'endevinen.**
+
+  **La primera**: **el procés incidental —el que arriba des d'un jutge ordinari
+  enmig d'un plet— no es fa servir fins al 2010**, **disset anys després de la
+  Constitució**, i **llavors se'n presenten quatre de cop.** `Requereix saber
+  què va canviar el 2010, que el corpus no té.`
+
+  **La segona**: **els conflictes de competències es concentren en quatre
+  anys.** **Catorze dels setze són del 2005 al 2008**, **un és del 2003** i
+  **un del 2018.** **És el patró d'un conflicte institucional concret que
+  s'obre i es tanca**, no el d'un mecanisme d'ús regular
+  ([els diners dels comuns](../comuns-i-parroquies/els-diners-dels-comuns.md),
+  on el corpus en treballa el fons).
+
+  **La tercera**: **les tres vies "grans" sumen quaranta-tres causes en
+  trenta-tres anys**, **i l'empara sola en porta més de mil tres-centes.**
+  **El Tribunal Constitucional andorrà és, en volum, un tribunal de drets
+  fonamentals amb una feina de control de normes gairebé simbòlica.**
+
+  > **Cautela, i és la mateixa de sempre**: **el Butlletí no publicava
+  > sistemàticament les resolucions del Tribunal fins al 2000.** **Per a les
+  > vies -PI i -CC, que no tenen cap causa anterior a aquell any, no es pot
+  > descartar que n'hi hagués i no es publiquessin.** **Per a la via -L sí que
+  > es pot**, perquè **el recompte coincideix exactament amb la llista que el
+  > propi Tribunal fa a la sentència 2021-2-L**.
+
+  `Requereix la matèria de cada causa, que el corpus només té per a quatre: les
+  dues del 2017 sobre transferències als comuns, la del 2021 sobre les mesures
+  sanitàries i la del 2022 sobre el nom del matrimoni.`
 
 - **Afegit el 17-09-2026: qui pot recórrer no és només una qüestió de
   nombre.** **La sentència 2021-2-L és la peça doctrinal més forta que el
