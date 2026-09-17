@@ -163,8 +163,52 @@ temporals o descarregar sales, amb **la mateixa consideració que les ordinàrie
   propis membres» (article 53.2 i 53.4), **sempre per acord del Consell
   Superior de la Justícia.** **En un país de dotze batlles, la suplència no és
   una excepció: és una peça de disseny.**
-- **El règim disciplinari dels jutges** (títol V, capítols segon a quart) queda
-  pendent.
+- ~~**El règim disciplinari dels jutges** (títol V, capítols segon a quart) queda
+  pendent.~~ — **`resolt` el 17-09-2026** (`docs/raw/lleis/llei-qualificada-justicia.txt`,
+  **capítol sisè del títol V**, articles 79 a 87 —**el corpus l'havia situat al
+  capítol equivocat**).
+
+  **Qui exigeix la responsabilitat és el Consell Superior de la Justícia**, i
+  **el pot posar en marxa gairebé qualsevol** (article 80): **el mateix
+  Consell**, **la persona perjudicada**, **«un ciutadà que tingui coneixement
+  dels fets»**, **el Ministeri Fiscal** o **el president del tribunal
+  corresponent**.
+
+  **El Consell instrueix amb un dels seus membres** (article 81.1), **que es pot
+  abstenir o ser recusat**, i **resol el mateix Consell «de forma motivada»**;
+  **aquella resolució sobre la recusació no admet recurs.**
+
+  **El catàleg de sancions** (article 85):
+
+  | Falta | Sanció |
+  | --- | --- |
+  | **Lleu** | Amonestació escrita i/o **multa de fins a 600 €** |
+  | **Greu** | **Suspensió de fins a sis mesos** i/o **multa de 600 a 6.000 €** |
+  | **Molt greu** | **Suspensió de fins a un any o separació del càrrec**, i/o **multa de 6.000 a 12.000 €** |
+
+  **Les dues faltes lleus són reveladores** (article 84 bis): **la falta de
+  respecte «quan no revesteixi especial gravetat»** i **«l'incompliment
+  injustificat dels terminis per dictar les resolucions»**. **Que un jutge
+  trigui massa és, literalment, una falta disciplinària.**
+
+  **Les sancions triguen molt a prescriure** —**dos, quatre i sis anys** segons
+  el grau (article 85.3)— i **es fan constar a l'expedient personal**
+  (article 85 ter.2).
+
+  **La graduació té sis criteris** (article 85 bis), **i l'últim és singular**:
+  **«que els mateixos fets hagin estat sancionats en l'àmbit penal»** compta
+  per graduar la sanció disciplinària.
+
+  **I la relació amb el penal està resolta amb una regla dura** (article 79.2):
+  **si apareixen indicis de delicte, el Consell ho comunica al jutjat i suspèn
+  l'expedient**; **si ja hi ha procés penal pels mateixos fets, l'expedient
+  s'obre igualment i se suspèn tot seguit**; i **«la declaració de fets provats
+  que pugui fer el tribunal penal és vinculant per al Consell Superior de la
+  Justícia»**, que només en pot fer una qualificació jurídica diferent.
+
+  **L'expedientat té set drets escrits** (article 79 bis), **inclosa la
+  presumpció d'innocència, el dret a no declarar contra si mateix i el dret a
+  advocat de lliure elecció** —**«a càrrec seu»**.
 - ~~**El [Tribunal Constitucional](les-lleis-qualificades.md)** no forma part de
   l'organització judicial i té llei pròpia (96 articles), també per llegir.~~ —
   **`resolt` el 17-09-2026** (`docs/raw/lleis/llei-tribunal-constitucional.txt`).
