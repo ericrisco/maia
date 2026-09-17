@@ -221,6 +221,68 @@ Vegeu
      ([Tinga's pres per lo Príncep](./tingas-pres-per-lo-princep.md)).
      **El nom de l'ofici, el seu termini i el dret de terna del parlament
      andorrà tenen tots tres el mateix origen: els abusos d'un sol saig.**
+   - **I el 17-09-2026 el corpus deixa de tenir el 1390 de referència i en té
+     els dos documents sencers**, des de les [actes històriques del Consell
+     General](../../../fonts/actes-historiques-consell-general.md). **Són dos,
+     de cinc dies de diferència, i junts diuen més que qualsevol dels dos.**
+
+     **El 23 de febrer de 1390, al porxo de Santa Eulàlia d'Encamp**, reunits
+     «*pro vista*», **els sis jurats de les sis parròquies** presenten a **Ramon
+     de l'Areny, d'Encamp, saig de les Valls pel comte de Foix**, una carta del
+     veguer comtal **Arnau de Quos** que en du una altra de dins, del comte
+     **Gastó** —**Gastó Febus**— **datada a Masseres el 15 de febrer**:
+
+     > «A la **suplicacion de las gentz d'Andore** dizentz que **nostre sarchant
+     > los recuse pagar las questas** et autres cars que·s fen en lor loc […]
+     > **vos mandam que lo dut sarchant conpelliatz** et conpellir fassatz **a
+     > pagar e contribuir a las questas** […] **en pene de L libres de Morlés**.»
+
+     **El saig no cobrava la quèstia: es negava a pagar-la.** **I qui el
+     denuncia són els andorrans, al seu propi senyor.** **Ramon de l'Areny
+     obeeix** i s'ofereix «*promptum et paratum*» a complir-ho punt per punt.
+
+     **Cinc dies després, el 28 de febrer, els mateixos jurats van a veure
+     l'altre saig.** **Perquè n'hi havia dos**: **Pere Tomàs, saig del bisbe
+     d'Urgell a les valls d'Andorra.** La mateixa carta del veguer comtal li
+     ordenava:
+
+     > «**A vós, en Pere Thomàs, mandam que so que vós avetz pres de las gentz
+     > d'Andora per la questa** que Ramon de l'Areyn era quiti, **ajatz a redre
+     > et restituir** […] **car vós ni·ls autres, dengú no avetz re que vezer a
+     > las questas de mossèn**.»
+
+     **I Pere Tomàs diu que no**:
+
+     > «*respondit et dixit quod **non erat ausus hec facere sine licencia et
+     > mandato domini baiuli Sedis Urgellensis et vicarii vallium Andore pro
+     > dicto domino Urgellensi episcopo***» — **que no gosava fer-ho sense
+     > llicència i manament del batlle de la Seu i veguer episcopal, per ordre
+     > de qui ho havia cobrat.**
+
+     **Tres coses que el corpus no tenia.** **Que el 1390 hi havia dos saigs
+     alhora, un per senyor**, cosa que explica per què el mot podia designar
+     dues coses a la vegada. **Que un manament del veguer comtal no obligava
+     l'oficial episcopal**, i que aquest ho diu sense embuts: **la
+     jurisdicció compartida es trenca pel mig quan es demana diners.** **I que
+     els andorrans, per fer complir una cosa, havien d'anar a cada meitat per
+     separat i podien guanyar-ne només una.**
+
+     **I una quarta, que lliga amb el 1456.** **El conflicte del 1390 és el
+     mateix conflicte del 1456**: **un Areny, saig, que no vol pagar la
+     quèstia.** El Politar diu de Bernat de Areny «*diferents extorcions que
+     aquest habia usat contra del Concell de la Vall, **no volent pagar
+     quisties***». **Seixanta-sis anys abans, el reproche a Ramon de l'Areny
+     era literalment el mateix.** **El corpus no afirma parentiu**; **registra
+     que el mateix ofici, la mateixa casa i la mateixa negativa surten dues
+     vegades**, i **que la segona és la que va fer canviar el nom de l'ofici.**
+
+     **Nota de llengua, que no és secundària**: **l'instrument el redacta en
+     llatí el notari Tomàs Calhani, «notari públic de les valls d'Andorra pels
+     senyors bisbe d'Urgell i comte de Foix»** —**un sol notari per als dos
+     senyors**—, **i les cartes del comte i del veguer hi van inserides en
+     occità**. **Un document andorrà del 1390 amb tres llengües dins i cap
+     d'elles és el català.**
+
    - **I és un tercer Areny.** **El corpus en té tres en el mateix ofici**:
      **Bernat de Lareyu (1305)**, **Ramon de l'Areny (1390)** i **aquest Bernat
      de Areny**, **que és el que va fer que l'ofici deixés de dir-se saig**.
