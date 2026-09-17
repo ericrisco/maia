@@ -69,7 +69,7 @@ es va convertir en una vinculació definitiva.»**
 
 | Obra | Quan | On |
 | --- | --- | --- |
-| **La nova imatge de la Mare de Déu de Meritxell** | **encarregada l'19 de setembre del 1972**, **onze dies després de l'incendi** *(actes del Consell, 17-09-2026)* | Santuari de Meritxell |
+| **La nova imatge de la Mare de Déu de Meritxell** | **encarregada el 19 de setembre del 1972**, **onze dies després de l'incendi** *(actes del Consell, 17-09-2026)* | Santuari de Meritxell |
 | **Projecte i disseny del mobiliari de la sala del Consell General i la sala de justícia**; decoració del despatx de Sindicatura i del vestíbul | **1961** | **Casa de la Vall** |
 | Mural ***Les Benaurances*** | | façana de l'església parroquial d'**Escaldes-Engordany** |
 | Font monumental ***Garlandes i llorer*** | | Sant Julià de Lòria |
