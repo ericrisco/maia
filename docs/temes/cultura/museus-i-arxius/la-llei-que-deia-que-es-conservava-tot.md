@@ -193,6 +193,76 @@ Prohibits al Joc**:
 justificació d'un termini de conservació feta amb esperança de vida, publicada
 al butlletí oficial.
 
+## Dues-centes vint-i-tres taules, i cap del 2019
+
+**Els edictes de la CAD i de la CAAD s'han llegit.** Són **vint-i-sis edictes
+estatals** entre el **25 de juny del 2015** i el **18 de novembre del 2025**, més
+una correcció d'errata i un edicte comunal
+([evidència](../../../raw/lleis/bopa/avaluacio-documental/)). Contenen, comptades
+per número d'expedient, **223 taules d'avaluació documental**.
+
+| Any de la taula | Taules | Qui la va establir |
+| --- | --- | --- |
+| 2014 | 22 | CAD |
+| 2015 | 6 | CAD |
+| 2016 | 14 | CAD / CAAD |
+| 2017 | 36 | CAAD |
+| 2018 | 8 | CAAD |
+| **2019** | **cap** | — |
+| 2020 | 14 | CAAD |
+| 2021 | **59** | CAAD |
+| 2022 | 32 | CAAD |
+| 2023 | 11 | CNAAD |
+| 2024 | 17 | CNAAD |
+| 2025 | 4 | CNAAD |
+| **Total** | **223** | |
+
+**Les trenta-dues de la CNAAD són el 14% del total.** Les altres **191** són de
+la CAD i de la CAAD, i segueixen vigents per la disposició derogatòria del Decret
+455/2022.
+
+**El 2019 no hi ha cap taula.** Cap expedient d'aquell any no apareix a cap
+edicte. I **el 2021 n'hi ha cinquanta-nou**, més que qualsevol altre any i més
+que tota l'etapa de la CNAAD junta.
+
+**La sèrie és contínua excepte en dos punts**: falten els expedients **8 i 9 del
+2016** i els **13 a 17 del 2021**. La resta va de l'1 al màxim sense forats, cosa
+que fa el recompte comprovable: no és una suma de documents, és una numeració
+correlativa verificada.
+
+**El que es publica pot ser molt vell.** L'edicte del **9 de desembre del 2020**
+en porta cinquanta-vuit de cop: trenta-sis del 2017, vuit del 2018 i catorze del
+2020. Entre elles, taules decretades pel Govern en **sessió del 31 d'octubre del
+2018** i publicades **vint-i-cinc mesos després**. **Mentrestant no eren
+executives**, perquè la publicació al BOPA és el que les fa públiques.
+
+**I hi ha hagut una taula publicada dues vegades.** L'edicte del 29 de juny del
+2023 va donar el número **TNAAD 06/2023** a una taula que ja el tenia; la
+**correcció d'errata de l'11 d'octubre del 2023** la renumera a **TNAAD
+11/2023**. És l'únic error de numeració de tota la sèrie.
+
+## Qui les aprova va deixar de ser el Govern
+
+**El canvi de nom de l'òrgan amaga un canvi de poder.** Els edictes ho diuen amb
+les seves pròpies fórmules:
+
+| Etapa | Qui estableix la taula | Qui la fa executiva |
+| --- | --- | --- |
+| **CAD**, fins al 2015 | la Comissió | «Les resolucions de la CAD **han de ser aprovades pel Govern** perquè siguin plenament executives» |
+| **CAAD**, 2015-2022 | la Comissió | «**El Govern**, en la sessió del …, **decreta** / acorda les taules d'avaluació documental següents» |
+| **CNAAD**, des del 2023 | la Comissió | «D'acord amb l'article 25.1, apartat e, de la Llei 33/2021, **la CNAAD estableix** la taula d'avaluació documental següent» |
+
+**Fins al 2022 el Govern decretava què s'eliminava i què es conservava.** Des del
+2023 la comissió ho estableix ella mateixa, i el Govern només hi apareix com a
+organisme avaluat. **El que va canviar amb la Llei 33/2021 no és el nom: és qui
+decideix la destrucció dels papers de l'Estat.**
+
+**I un comú hi té unitat pròpia.** L'edicte del **29 de febrer del 2016** publica
+les taules de la **Unitat d'Avaluació Documental (UAD) del Comú de Canillo**,
+creada per l'**article 27 del reglament del Servei d'Arxiu del Comú de Canillo**
+del 21 de març del 2013, i aprovades **pel Consell de Comú**, no pel Govern.
+**És l'únic comú que publica les seves taules al Butlletí.**
+
 ## Qui pregunta dura un any
 
 I la darrera taula publicada, **TNAAD 004/25**, del **18 de novembre del 2025**:
@@ -289,11 +359,14 @@ al ministeri de Cultura.`
 la cadena exacta i el servei en va retornar **disset**. **No s'ha establert per
 què**, i per tant **no es diu que aquests siguin tots els que existeixen**.
 
-**Quantes taules d'avaluació documental hi ha vigents a Andorra, no consta.** Les
-de la CAD i la CAAD segueixen vigents per la disposició derogatòria del Decret
-455/2022, i **el corpus només n'ha comptat les trenta-dues de la CNAAD**. Els
-edictes de la CAD i la CAAD del **2015, 2016, 2017, 2021 i 2022** estan
-identificats i **no s'han llegit**. `Unitat pendent.`
+~~Quantes taules d'avaluació documental hi ha vigents a Andorra, no consta~~
+`resolt` el 17-09-2026: **dues-centes vint-i-tres**, comptades una a una als
+vint-i-sis edictes del BOPA. La sèrie és a la secció
+[Dues-centes vint-i-tres taules](#dues-centes-vint-i-tres-taules-i-cap-del-2019).
+
+`Requereix confirmar quantes segueixen vigents: dues-centes vint-i-tres és el
+nombre de publicades, i el corpus no ha comprovat que cap no hagi estat
+reemplaçada per una reavaluació posterior del mateix procediment.`
 
 **El projecte de llei d'arxius i gestió de documents no s'ha localitzat**, ni cap
 llei aprovada. **Tampoc s'ha comprovat si es va arribar a presentar a tràmit
