@@ -169,9 +169,46 @@ folklore, és una categoria aranzelària vigent.
 - **Els tipus de l'alcohol i dels hidrocarburs** no s'han extret; ni **quant val
   l'element de CO₂**.
 - **L'IRNR** només s'ha identificat, no llegit.
-- **Les finances comunals** (115 articles): com pressuposten i gasten els comuns
+- ~~**Les finances comunals** (115 articles): com pressuposten i gasten els comuns
   els diners que reben ([els diners dels comuns](../../institucions/comuns-i-parroquies/els-diners-dels-comuns.md))
-  **queda per llegir**.
+  **queda per llegir**.~~ — **`resolt` el 17-09-2026**
+  (`docs/raw/lleis/finances-comunals.txt`, **Llei 36/2021**, set títols).
+  **El que decideix el marge real d'un comú són tres regles.**
+
+  **Primera, el sostre de deute** (article 56): **el total de les operacions
+  d'endeutament no pot passar del 200% de la mitjana dels ingressos liquidats
+  dels tres anys anteriors**, **excloent-ne el mateix endeutament i la venda de
+  patrimoni**; **i el deute a curt termini, del 40%** d'aquella mateixa
+  mitjana. **Passat el sostre, el comú no pot formalitzar endeutament net**, i
+  **si hi ha «risc greu d'incompliment» cal formular i aprovar un pla
+  d'equilibri financer.**
+
+  **Segona, el pressupost s'ha d'aprovar en equilibri o superàvit**
+  (article 77.4), **«dins del marc pressupostari general del període de
+  mandat»** —**l'estabilitat es mesura per mandat, no per any.**
+
+  **Tercera, i és la que es nota**: **què passa si es tanca amb romanent de
+  tresoreria negatiu** (article 91). **El Ple del Comú ha de reduir despeses
+  del nou pressupost «en la primera sessió que dugui a terme» per una quantia
+  igual al dèficit.** **Si no pot reduir, pot endeutar-se per l'import
+  equivalent**, dins dels límits de l'article 56. **I si no fa ni una cosa ni
+  l'altra, el pressupost de l'any següent s'ha d'aprovar amb un superàvit
+  inicial no inferior al dèficit.** **No hi ha sortida sense correcció.**
+
+  **I si no s'aprova el pressupost a temps** (article 78): **queda prorrogat
+  automàticament «per dotzenes parts»** el de l'any anterior, **només quant a
+  despeses corrents**, amb el text de l'ordinació i les bases d'execució.
+  **Les inversions ja aprovades com a plurianuals les poden posar en vigor els
+  cònsols amb acord previ del Ple** —**i els presidents dels consells
+  d'administració de les societats públiques comunals, també.**
+
+  **El pressupost comunal és una ordinació**: **l'aprovació del projecte pel
+  Ple «en comporta la conversió en ordinació del pressupost comunal»**
+  (article 77.2), **que és per això que el BOPA en publica una cada any per
+  parròquia** ([el dret vigent](../../institucions/justicia/el-dret-vigent.md)).
+
+  `Requereix els capítols d'impostos comunals i d'impostos estatals compartits
+  (títol II, capítols IV i V), que aquesta lectura només ha localitzat.`
 - **Quant recapta cada figura**, com sempre, no consta.
 
 ## Related
