@@ -1,0 +1,1453 @@
+            A047. Estadística de la distribució personal de la renda.
+                 A163. Enquesta de condicions de vida (ECV).
+       A164. Estadística sobre risc de pobresa i exclusió social. Any 2024
+                                  Data publicació: dilluns, 28/07/2025
+                                          www.estadistica.ad
+
+
+Resum
+L’any 2024, la mitjana d’ingressos disponibles equivalents va ser de 37.335 € (+3,2% respecte del
+2023), mentre que la mediana es va situar en 28.883 € (+7,6% en comparació amb el 2023). Per grups
+d’edat, la mitjana dels ingressos disponibles equivalents de les persones menors de 16 anys va ser
+de 33.405 € (-1,4% respecte del 2023), de les d’entre 16 i 64 anys de 37.981 € (+1,9% respecte de
+l’any anterior), i de les de 65 anys i més de 37.717 € (+16,2% en comparació amb el 2023). Segons
+la tipologia de llar, la mitjana dels ingressos disponibles equivalents d’un adult va ser de 40.416 €; les
+d’un adult amb persones dependents de 25.244 €; les de dos o més adults amb persones dependents
+de 36.829 €, i les de dos o més adults sense persones dependents de 38.852 €.
+
+La desigualtat en la distribució dels ingressos, mesurada a través de l’índex de Gini, es va situar l’any
+2024 en un valor de 38,4, mentre que l’any 2023 era de 40. Sense tenir en compte les prestacions
+socials ni les pensions, l’índex de Gini de l’any 2024 s’eleva fins a 47,1, una dècima més que el valor
+registrat l’any anterior, i si es consideren les pensions però s’exclouen les prestacions socials, l’índex
+de Gini de 2024 es va reduir fins a 41,5, la qual cosa representa 0,8 punts menys que el de 2023.
+
+La població en risc de pobresa és un indicador que mesura la pobresa, comparant els ingressos d’una
+persona respecte a la resta de la població. Aquest indicador es calcula com el tant per cent de
+persones amb ingressos per sota del llindar de risc pobresa (60% de la mediana dels ingressos
+disponibles equivalents de la població). L’any 2024, la taxa de risc de pobresa va ser del 16,4%,
+mentre que l’any 2023 era del 13,6%.
+
+Altres indicadors de pobresa són la taxa de pobresa relativa i la taxa de pobresa severa, que es
+mesuren com el tant per cent de persones amb ingressos disponibles equivalents per sota del 50% i
+el 40% de la mediana, respectivament. L’any 2024, aquests indicadors van situar-se en un 8,8% i
+4,2%, respectivament, ambdós per sota dels valors registrats l’any 2023, que van ser del 9,8% i 7,4%,
+respectivament.
+
+La bretxa relativa de risc de pobresa (Relative median at-risk-of-poverty gap) mesura la intensitat de
+la pobresa i es calcula com la diferència entre la mediana de la renda disponible equivalent de les
+persones per sota del llindar de risc de pobresa i el llindar de risc de pobresa, expressada en
+percentatge del mateix llindar.
+                        A047-A163-A164. Enquesta de condicions de vida. Any 2024
+
+
+L’any 2024, la mediana dels ingressos de les persones en risc de pobresa va ser de 14.148 €, un
+43,0% superiors als de l’any 2023, amb la qual cosa la bretxa relativa de risc de pobresa es va situar
+en el 18,4, més de 20 punts per sota de l’any 2023 (38,6). Pel que fa a la població en situació de
+pobresa relativa (ingressos inferiors al 50% de la mediana), l’indicador es va establir en un 17,8, més
+de 19 punts per sota de l’any 2023 (37,3), mentre que per a les persones en situació de pobresa
+severa (ingressos per sota del 40% de la mediana), la bretxa va ser del 44,9, més d’un punt per sobre
+de l’any 2023 (43,5).
+
+Quant a indicadors relacionats amb el benestar de la població, hi ha entre d’altres, la taxa de persones
+en situació de privació material severa, la capacitat per arribar a final de mes i la sobrecàrrega dels
+costos de l’habitatge. Respecte a la població en situació de privació material severa, l’any 2024 va
+afectar el 5,0% de la població andorrana, un valor inferior en 2,3 punts percentuals al registrat l’any
+anterior (7,3%). Pel que fa a la capacitat per arribar a final de mes, l’any 2024 el 68,6% hi arribava
+amb facilitat, mentre que l’any 2023 aquest indicador es situava en 66,4%. L’indicador de
+sobrecàrrega dels costos de l’habitatge es calcula com el percentatge de persones que habiten en
+llars on les despeses destinades a l’habitatge, com el lloguer, els interessos hipotecaris, l’aigua, la
+llum, la comunitat, entre d’altres, superen el 40% dels ingressos percebuts. L’any 2024, el 9,4% de la
+població es trobava en situació de sobrecàrrega dels costos de l’habitatge, un punt i una dècima
+menys que l’any anterior.
+
+L’indicador de persones que resideixen en llars amb baixa intensitat laboral mesura el percentatge de
+menors de 60 anys que viuen en llars on la intensitat laboral és inferior al 20%. Aquesta intensitat es
+defineix com la ràtio entre els mesos efectivament treballats pels membres en edat laboral i el total de
+mesos potencialment treballats. L’any 2024, l’1,4% de la població menor de 60 anys residia en llars
+amb baixa intensitat laboral. Per tipus de llar, les incidències més altes es van registrar en llars d’un
+adult amb persones dependents (4,9%) i en llars d’un adult (2,8%).
+
+L’indicador AROPE de risc de pobresa o exclusió social es calcula considerant la població que
+compleix almenys una de les següents condicions: estar en risc de pobresa, patir privació material
+severa o presentar baixa intensitat laboral. L’any 2024, el 19,4% de la població es trobava en alguna
+d’aquestes situacions, un increment de cinc dècimes respecte al 2023.
+
+
+
+
+NP-ECV_20250728                                                                      Pàgina 2 de 29
+                              A047-A163-A164. Enquesta de condicions de vida. Any 2024
+
+
+
+
+Índex
+1.   Distribució personal de la renda ........................................................................................... 4
+2.   Indicadors de pobresa ........................................................................................................ 10
+3.   Privacions materials ............................................................................................................ 14
+4.   Condicions de vida ............................................................................................................. 18
+5.   Indicador AROPE de risc de pobresa o exclusió social ..................................................... 20
+6.   Comparació amb els països de l’entorn ............................................................................. 21
+7.   Nota metodològica .............................................................................................................. 26
+8.   Data prevista de les pròximes publicacions ....................................................................... 29
+
+
+
+
+NP-ECV_20250728                                                                                                     Pàgina 3 de 29
+                         A047-A163-A164. Enquesta de condicions de vida. Any 2024
+
+
+1. Distribució personal de la renda
+
+Segons l’enquesta de l’any 2024, basada en dades d’ingressos de l’any 2023, la mitjana dels
+ingressos disponibles equivalents de la població d’Andorra va ser 37.335 €, mentre que la mediana
+es va situar en 28.883 €. Aquestes xifres representen increments respectius del 3,2% i del 7,6% en
+comparació amb l’any anterior.
+
+Pel que fa al desglossament per sexe, la mitjana dels ingressos disponibles equivalents de les dones,
+va ser 33.895 €, amb un descens del 0,1% respecte al 2023; mentre que la mediana va assolir els
+28.641 €, creixent un 8,9% respecte a l’any anterior. En el cas dels homes, la mitjana es va situar en
+40.534 € i la mediana en 29.315 €, amb increments del 6,0% i del 6,5%, respectivament.
+
+
+                      Ingressos disponibles equivalents segons sexe (€)
+          45.000                                              40.534
+          40.000                                     38.243
+                                                                                          36.161 37.335
+          35.000   33.945 33.895
+                                            28.641                               29.315                            28.883
+          30.000                   26.307                               27.536                            26.837
+          25.000
+          20.000
+          15.000
+          10.000
+           5.000
+               0
+                      Mitjana           Mediana         Mitjana           Mediana           Mitjana           Mediana
+                                Dones                             Homes                               Total
+
+                                                          2023         2024
+
+
+
+La distribució dels ingressos disponibles equivalents varia segons els grups d’edat. L’any 2024, la
+mitjana dels ingressos disponibles equivalents per als menors de 16 anys va ser de 33.405 € i la
+mediana de 27.837 €. Per al grup de persones d’entre 16 i 64 anys, la mitjana es va situar en
+37.981 € i la mediana en 29.924 €, mentre que per a la població de 65 anys i més, la mitjana va ser
+de 37.717 € i la mediana de 26.354 €. En comparació amb l’any anterior, es van observar diferències
+entre les franges d’edat. D’una banda, s’observa un augment tant de la mitjana com de la mediana en
+els grups d’entre 16 i 64 anys (+1,9% i +7,4%, respectivament) i de 65 anys i més (+16,2% i +11,0%,
+respectivament). En canvi, pels menors de 16 anys, la mitjana disminueix un 1,4%, mentre que la
+mediana augmenta un 10,0%.
+
+
+
+
+NP-ECV_20250728                                                                                                Pàgina 4 de 29
+                          A047-A163-A164. Enquesta de condicions de vida. Any 2024
+
+
+
+                 Ingressos disponibles equivalents per grups d'edat (€)
+        40.000                                                37.981                              37.717
+                                                     37.285
+        35.000   33.864 33.405                                                           32.469
+                                                                                29.924
+        30.000                              27.837                     27.859
+                                   25.302                                                                           26.354
+                                                                                                           23.734
+        25.000
+        20.000
+        15.000
+        10.000
+         5.000
+             0
+                     Mitjana         Mediana            Mitjana           Mediana          Mitjana           Mediana
+                       Menors de 16 anys                  Entre 16 i 64 anys                      65 anys i més
+
+                                                          2023         2024
+
+
+L’anàlisi de la mitjana i la mediana dels ingressos disponibles equivalents per persona segons la
+tipologia de la llar, reflecteix un creixement en la majoria dels casos l’any 2024, en comparació amb
+les dades de l’enquesta del 2023. Per a les llars formades per un adult, la mitjana dels ingressos va
+ser de 40.416 €, mentre que la mediana es va situar en 25.848 €. Pel que fa a les llars formades per
+un adult amb persones dependents, la mitjana va ser de 25.244 € i la mediana de 19.792 €. Les llars
+formades per dos o més adults amb persones dependents van registrar una mitjana de 36.829 € i una
+mediana de 28.647 €; mentre que per a les llars formades per dos o més adults sense persones
+dependents, la mitjana va ser de 38.852 € i la mediana de 31.442 €.
+
+
+                  Ingressos disponibles equivalents per tipus de llar (€)
+        45.000       40.416                                     41.267
+                                                                                            38.852
+        40.000 35.144                                                 36.829
+                                                                                       33.051
+        35.000                                                                                    28.850 31.442
+        30.000                                                            27.536 28.647
+                          23.919 25.848 26.305 25.244
+        25.000
+                                                  19.920 19.792
+        20.000
+        15.000
+        10.000
+         5.000
+             0
+                  Mitjana     Mediana     Mitjana     Mediana    Mitjana     Mediana      Mitjana    Mediana
+                        Un adult            Un adult amb persones Dos o més adults amb              Dos o més adults
+                                                 dependents       persones dependents               sense persones
+                                                                                                      dependents
+
+                                                          2023         2024
+
+
+
+Classificant les dades segons el règim de tinença, les persones amb habitatge principal en propietat,
+van registrar uns ingressos mitjans de 47.755 €, mentre que aquelles que resideixen en llars de lloguer
+van tenir uns ingressos mitjans de 30.526 €. Quant a les medianes, es van situar en 36.008 € i
+26.793 €, respectivament.
+
+
+
+
+NP-ECV_20250728                                                                                              Pàgina 5 de 29
+                       A047-A163-A164. Enquesta de condicions de vida. Any 2024
+
+
+
+                    Ingressos disponibles equivalents segons règims de
+                                        tinença (€)
+        50.000     47.451 47.755
+        45.000
+        40.000
+                                                         36.008
+        35.000                                  31.760                            30.526
+        30.000                                                           28.703
+                                                                                                              26.793
+        25.000                                                                                       24.260
+
+        20.000
+        15.000
+        10.000
+         5.000
+             0
+                       Mitjana                    Mediana                   Mitjana                    Mediana
+                                    Propietat                                              Lloguer
+
+                                                          2023    2024
+
+
+
+Respecte a la capacitat econòmica per arribar a final de mes, les persones que residien en llars on hi
+arribaven amb certes dificultats o moltes dificultats van registrar l’any 2024 uns ingressos disponibles
+equivalents de 23.495 € de mitjana i 21.833 € de mediana. En canvi, en les llars on hi arribaven amb
+certes o moltes facilitats aquests valors van ser de 43.664 € i 33.092 €, respectivament.
+
+
+                      Ingressos disponibles equivalents segons les
+                         capacitats per arribar a final de mes (€)
+        50.000
+                                                                                  43.664
+        45.000                                                           42.023
+        40.000
+                                                                                                              33.092
+        35.000                                                                                       30.981
+        30.000
+        25.000      23.756 23.495                        21.833
+                                                20.843
+        20.000
+        15.000
+        10.000
+         5.000
+             0
+                       Mitjana                    Mediana                   Mitjana                    Mediana
+                       Amb certes o moltes dificultats                      Amb certes o moltes facilitats
+
+                                                          2023    2024
+
+
+
+
+NP-ECV_20250728                                                                                               Pàgina 6 de 29
+                             A047-A163-A164. Enquesta de condicions de vida. Any 2024
+
+
+    1.1. Impacte de les transferències socials en la distribució personal de la renda
+
+L’impacte de les transferències socials en la distribució personal de la renda es mesura mitjançant
+diferents indicadors relacionats amb la renda personal, segons tres situacions d’ingressos: incloent
+tots els ingressos, excloent dels ingressos les prestacions socials i excloent dels ingressos les
+prestacions socials i les pensions.
+
+Les persones de 65 anys i més són les més afectades si es tenen en compte o no les prestacions
+socials i les pensions. La mediana dels ingressos disponibles equivalents d’aquest grup, incloent-hi
+prestacions socials i pensions, es va situar en 26.354 €. Si no s’inclouen les prestacions socials ni les
+pensions, la mediana es redueix fins a 6.736 €. En canvi, si només es descompten les prestacions
+socials però es mantenen les pensions, la mediana dels ingressos és de 26.064 €.
+
+                                                                              2023       2024        Variació
+                               Mediana incloent prestacions socials i
+                                                                             25.302 €   27.837 €      10,0%
+                               pensions
+                               Mediana sense incloure prestacions socials,
+        Menors de 16 anys                                                    23.256 €   27.095 €      16,5%
+                               però incloent pensions
+                               Mediana sense incloure prestacions socials
+                                                                             23.201 €   27.068 €      16,7%
+                               ni pensions
+                               Mediana incloent prestacions socials i
+                                                                             27.859 €   29.924 €      7,4%
+                               pensions
+                               Mediana sense incloure prestacions socials,
+        Entre 16 i 64 anys                                                   26.509 €   28.503 €      7,5%
+                               però incloent pensions
+                               Mediana sense incloure prestacions socials
+                                                                             25.818 €   28.237 €      9,4%
+                               ni pensions
+                               Mediana incloent prestacions socials i
+                                                                             23.734 €   26.354 €      11,0%
+                               pensions
+                               Mediana sense incloure prestacions socials,
+        65 anys i m és                                                       21.014 €   26.064 €      24,0%
+                               però incloent pensions
+                               Mediana sense incloure prestacions socials
+                                                                             7.451 €    6.736 €       -9,6%
+                               ni pensions
+                               Mediana incloent prestacions socials i
+                                                                             26.837 €   28.883 €      7,6%
+                               pensions
+                               Mediana sense incloure prestacions socials,
+        Total                                                                25.581 €   28.066 €      9,7%
+                               però inclouent pensions
+                               Mediana sense incloure prestacions socials
+                                                                             23.919 €   26.313 €      10,0%
+                               ni pensions
+
+
+
+
+NP-ECV_20250728                                                                                    Pàgina 7 de 29
+                             A047-A163-A164. Enquesta de condicions de vida. Any 2024
+
+
+La mitjana dels ingressos disponibles equivalents de les persones de 65 anys i més va ser de
+37.717 € si es tenen en compte les prestacions socials i les pensions, mentre que si no s’hi inclouen
+ni les prestacions socials ni les pensions, aquesta mitjana es redueix fins a 20.334 €. En canvi, si
+només es descompten les prestacions socials, la mitjana dels ingressos per aquest grup poblacional
+es va situar en 36.639 €.
+
+                                                                                2023       2024        Variació
+                               Mitjana incloent prestacions socials i
+                                                                               33.864 €   33.405 €      -1,4%
+                               pensions
+                               Mitjana sense incloure prestacions socials,
+        Menors de 16 anys                                                      32.382 €   31.767 €      -1,9%
+                               però incloent pensions
+                               Mitjana sense incloure prestacions socials ni
+                                                                               32.251 €   31.527 €      -2,2%
+                               pensions
+                               Mitjana incloent prestacions socials i
+                                                                               37.285 €   37.981 €      1,9%
+                               pensions
+                               Mitjana sense incloure prestacions socials,
+        Entre 16 i 64 anys                                                     35.299 €   36.302 €      2,8%
+                               però incloent pensions
+                               Mitjana sense incloure prestacions socials ni
+                                                                               34.443 €   35.443 €      2,9%
+                               pensions
+                               Mitjana incloent prestacions socials i
+                                                                               32.469 €   37.717 €      16,2%
+                               pensions
+                               Mitjana sense incloure prestacions socials,
+        65 anys i m és                                                         30.553 €   36.639 €      19,9%
+                               però incloent pensions
+                               Mitjana sense incloure prestacions socials ni
+                                                                               15.064 €   20.334 €      35,0%
+                               pensions
+                               Mitjana incloent prestacions socials i
+                                                                               36.161 €   37.335 €      3,2%
+                               pensions
+                               Mitjana sense incloure prestacions socials,
+        Total                                                                  34.251 €   35.748 €      4,4%
+                               però incloent pensions
+                               Mitjana sense incloure prestacions socials ni
+                                                                               31.443 €   32.760 €      4,2%
+                               pensions
+
+
+
+
+    1.2. Mesura de les desigualtats dels ingressos de la població
+
+Distribuir la població per quintils d’ingressos implica ordenar la població de menys a més ingressos
+disponibles equivalents i formar grups que representin el 20% de població total (quintils). D’aquesta
+manera, el quintil 1 agrupa el 20% de la població amb menys ingressos, mentre que el quintil 5
+correspon al 20% de la població amb més ingressos.
+
+L’any 2024, el llindar d’ingressos entre el quintil 1 i el quintil 2 va ser 18.840 €, un augment del +2,2%
+respecte al 2023. D’altra banda, el llindar que separa el quintil 4 del quintil 5 es va situar en 46.370 €,
+amb un increment del +10,7% respecte a l’any anterior. Pel que fa a la distribució dels ingressos per
+quintil, el 20% de la població amb menys ingressos concentrava el 6,1% dels ingressos totals (enfront
+del 6,5% el 2023), mentre que el 20% de la població amb més ingressos acumulava el 45,7% del total
+(en comparació amb el 47,5% el 2023).
+
+                                         2023                                             2024
+                                            Ingressos totals                                 Ingressos totals
+                         Límit superior (€)                               Límit superior (€)
+                                                   (%)                                              (%)
+          Quintil 1              18.442 €          6,5                            18.840 €          6,1
+          Quintil 2              23.734 €         11,6                            26.129 €         12,2
+          Quintil 3              30.529 €         14,9                            32.221 €         15,5
+          Quintil 4              41.894 €         19,5                            46.370 €         20,4
+          Quintil 5                               47,5                                             45,7
+
+
+
+
+NP-ECV_20250728                                                                                      Pàgina 8 de 29
+                          A047-A163-A164. Enquesta de condicions de vida. Any 2024
+
+
+La desigualtat en la repartició dels ingressos es pot analitzar amb l’indicador S80/S20, que calcula la
+ràtio entre el total d’ingressos del quintil superior i el quintil inferior. S’interpreta com la relació entre la
+renda disponible del 20% de la població amb més ingressos i el 20% de la població amb menys
+ingressos. L’any 2024, Andorra presentava un S80/S20 de 7,1, dues dècimes menys que l’any 2023.
+
+El coeficient de Gini també és una mesura de la desigualtat en la distribució dels ingressos, respecte
+a una distribució completament equitativa. Aquest coeficient relaciona les quotes acumulades de la
+població ordenades segons el nivell de renda disponible equivalent amb la part acumulada de la renda
+total equivalent que reben. Pren el valor 0 en cas d’equitat perfecta i 1 en cas de desigualtat perfecta.
+L’índex de Gini s’obté multiplicant aquest coeficient per 100.
+
+L’any 2024, l’índex de Gini es va situar en 38,4, mentre que l’any 2023 era de 40,0. Per les persones
+menors de 18 anys, aquest índex va ser de 32,6 el 2024. Si es consideren els ingressos excloent les
+prestacions socials però incloent les pensions, l’índex de Gini va disminuir de 42,3 el 2023 a 41,5 el
+2024. En canvi, si no es tenen en compte les prestacions socials ni les pensions, l’índex es va
+incrementar lleugerament, passant de 47,0 a 47,1.
+
+
+                                                     Índex de Gini
+          50                                    47                                              47,1
+          45                        42,3                                                41,5
+                         40                                                 38,4
+          40
+          35
+          30
+          25
+          20
+          15
+          10
+           5
+           0
+                                    2023                                                2024
+
+                     Incloent en els ingressos les prestacions socials i les pensions
+                     Sense incloure en els ingressos les prestacions socials, però incloent les pensions
+                     Sense incloure en els ingressos les prestacions socials ni les pensions
+
+
+
+
+NP-ECV_20250728                                                                                        Pàgina 9 de 29
+                          A047-A163-A164. Enquesta de condicions de vida. Any 2024
+
+
+2. Indicadors de pobresa
+
+
+2.1.     Llindars de pobresa1
+
+El llindar dels ingressos de les persones en risc de pobresa es defineix com el 60% de la mediana
+dels ingressos disponibles equivalents de la població. A banda d’aquest llindar, també es calculen el
+de pobresa relativa i el d’incidència severa, que corresponen al 50% i al 40% de la mediana dels
+ingressos, respectivament. L’any 2024, aquests llindars van ser de 17.330 €, 14.442 € i 11.553 €
+respectivament.
+
+Aquests llindars també es poden calcular per a col·lectius específics de la població comparant els
+ingressos d’aquest grup amb el 60%, 50% i 40% de la mediana dels ingressos del col·lectiu. El llindar
+de risc de pobresa de les llars formades per un adult era 15.509 € l’any 2024; el llindar de pobresa
+relativa era de 12.924 €, i el d’incidència severa, de 10.339 €. A partir d’aquests llindars, es poden
+establir els ingressos mínims que han de tenir les llars perquè els seus membres es trobin en situació
+de risc de pobresa, de pobresa relativa o de pobresa severa. Per exemple, en una llar formada per
+dos adults i dues persones menors de 14 anys, els membres es troben en risc de pobresa si els
+ingressos disponibles equivalents de la llar són inferiors a 36.392 €, en risc de pobresa relativa quan
+els ingressos són inferiors a 30.327 € i en risc de pobresa severa si són inferiors a 24.261 €.
+
+                                                     2023                                  2024
+                                                              Dos adults                            Dos adults
+                                     Població      Un adult      i dos   Poblacio        Un adult      i dos
+                                                                nens*                                 nens*
+   Llindar del 60% de la mediana       16.102 €    14.351 €    33.814 €  17.330 €        15.509 €    36.392 €
+   Llindar del 50% de la mediana       13.418 €    11.960 €     28.178 €    14.442 €     12.924 €    30.328 €
+   Llindar del 40% de la mediana       10.735 €     9.568 €     22.543 €    11.553 €     10.339 €    24.261 €
+   *Menors de 14 anys
+
+
+
+
+2.2.     Taxa de risc de pobresa
+
+La taxa de risc de pobresa representa el percentatge de la població amb ingressos disponibles
+equivalents inferiors al 60% de la mediana dels ingressos de la població. Aquest indicador també es
+pot calcular per col·lectius específics de la població comparant els ingressos d’aquest grup amb el
+60% de la mediana dels ingressos del col·lectiu.
+
+L’any 2024, la taxa de risc de pobresa era 16,4%, mentre que l’any 2023 va ser 13,6%. La taxa de
+pobresa relativa, va ser del 8,8% l’any 2024, lleugerament inferior al 9,8% del 2023. Finalment, la taxa
+de pobresa severa, va disminuir, passant del 7,4% el 2023 al 4,2% l’any 2024.
+
+
+
+
+1 Les dades dels llindars del 2023 s’han actualitzat respecte a la nota de publicació de l’any anterior.
+
+
+
+NP-ECV_20250728                                                                             Pàgina 10 de 29
+                            A047-A163-A164. Enquesta de condicions de vida. Any 2024
+
+
+                                                                              Població per sota el llindar (%)
+                                                                                   2023              2024
+   Població en risc de pobresa (per sota el 60% de la mediana)                     13,6              16,4
+   Població en pobresa relativa (per sota el 50% de la mediana)                     9,8               8,8
+   Població en pobresa severa (per sota el 40% de la mediana)                       7,4               4,2
+
+
+2.3.      Població en risc de pobresa abans de prestacions socials (excloent-ne i incloent-hi
+pensions) per grups d’edat
+
+Si considerem els ingressos que inclouen les prestacions socials i pensions, l’any 2024, el 19,3% de
+les persones menors de 16 anys es trobaven en risc de pobresa. En el cas de les persones d’entre
+16 i 64 anys, aquest percentatge era del 14,7%, mentre que per al grup de 65 anys i més, ascendia
+al 22,5%.
+
+Per valorar l’impacte de les prestacions socials i pensions en el risc de pobresa de la població, es pot
+calcular la taxa excloent aquests conceptes dels ingressos.
+
+Si s’exclouen dels ingressos les prestacions socials i les pensions, l’any 2024 la taxa de risc de
+pobresa de la població era del 24,5%. Per grups d’edat, el 61,6% de les persones de 65 anys i més
+es trobava en risc de pobresa, mentre que aquest percentatge baixava fins al 20,1% en les persones
+menors de 16 anys.
+
+Si s’exclouen dels ingressos les prestacions socials, però es mantenen les pensions, la taxa de risc
+de pobresa de la població era del 20,7%. Per grups d’edat, el 25,4% de les persones de 65 anys i
+més es trobava en risc de pobresa, mentre que en el cas de les persones menors de 16 anys aquest
+percentatge era del 23,7%.
+
+
+                                                                                          2023           2024
+
+                             Incloent prestacions socials i pensions                      12,1%         19,3%
+                             Sense incloure prestacions socials, però incloent
+       Menors de 16 anys                                                                  21,6%         23,7%
+                             pensions
+                             Sense incloure prestacions socials ni pensions               22,0%         20,1%
+
+                             Incloent prestacions socials i pensions                      11,8%         14,7%
+
+                             Sense incloure prestacions socials, però incloent
+       Entre 16 i 64 anys                                                                 18,2%         19,2%
+                             pensions
+                             Sense incloure prestacions socials ni pensions               20,7%         18,0%
+
+                             Incloent prestacions socials i pensions                      22,0%         22,5%
+                             Sense incloure prestacions socials, però incloent
+       65 anys i més                                                                      32,4%         25,4%
+                             pensions
+                             Sense incloure prestacions socials ni pensions               71,6%         61,6%
+
+                             Incloent prestacions socials i pensions                      13,6%         16,4%
+
+                             Sense incloure prestacions socials, però incloent
+       Total                                                                              20,6%         20,7%
+                             pensions
+                             Sense incloure prestacions socials ni pensions               28,0%         24,5%
+
+
+
+
+NP-ECV_20250728                                                                               Pàgina 11 de 29
+                             A047-A163-A164. Enquesta de condicions de vida. Any 2024
+
+
+
+
+2.4.         Població en risc de pobresa segons la situació ocupacional
+
+L’any 2024 la taxa de risc de pobresa de la població major de 16 anys es va situar en el 16,0%.
+Segmentant aquesta població segons l’activitat laboral principal, l’any 2024 el 11,5% de les persones
+que estaven ocupades es trobaven en risc de pobresa. Aquest percentatge era del 27,2% en el
+segment de persones sense feina, incloent-hi jubilats i prejubilats. D’aquest últim grup, el 26,1% es
+trobava en risc de pobresa.
+
+
+                                                                      Població en risc de pobresa (%)
+                                                                          2023            2024
+                Amb feina                                                  9,1            11,5
+                Sense feina (incloent-hi jubilats i prejubilats)           24,8           27,2
+                Jubilats o prejubilats                                     22,1           26,1
+
+
+2.5.         Població en risc de pobresa segons el tipus de llar
+
+Segons el tipus de llar, l’any 2024 la taxa de risc de pobresa més alta va correspondre a les llars
+formades per un adult amb persones dependents, amb una taxa del 33,2%, davant del 25,1% registrat
+el 2023. Les llars d’un adult van presentar una taxa de risc de pobresa del 24,5% el 2024, en
+comparació amb el 21,0% de l’any anterior. En el cas de les llars formades per dos adults o més amb
+persones dependents, la taxa va ser del 13,5% l’any 2024, mentre que el 2023 era del 10,2%.
+Finalment, les llars de dos adults o més sense persones dependents van registrar una taxa del 14,1%
+el 2024, enfront del 12,6% de l’any anterior.
+
+
+                          Població en risc de pobresa segons el tipus de llar
+                                                 (%)
+   35,0                                              33,2
+   30,0
+                            24,5              25,1
+   25,0            21,0
+   20,0
+                                                                                  13,5              14,1
+   15,0                                                                                      12,6
+                                                                          10,2
+   10,0
+       5,0
+       0,0
+                     Un adult            Un adult amb persones Dos adults o més amb       Dos adults o més
+                                              dependents       persones dependents        sense persones
+                                                                                            dependents
+
+                                                       2023        2024
+
+
+
+
+NP-ECV_20250728                                                                               Pàgina 12 de 29
+                       A047-A163-A164. Enquesta de condicions de vida. Any 2024
+
+
+2.6.    Bretxa relativa de risc de pobresa o poverty gap
+
+La bretxa relativa de risc de pobresa (Relative median at-risk-of-poverty gap) mesura la intensitat de
+la pobresa i es calcula com la diferència entre la mediana de la renda disponible equivalent de les
+persones per sota del llindar de risc de pobresa i el llindar de risc de pobresa, expressada en
+percentatge del mateix llindar. L’any 2024, la mediana dels ingressos de les persones en risc de
+pobresa va ser 14.148 €, un 43% superiors als de l’any 2023, amb la qual cosa, la bretxa relativa de
+risc de pobresa es va situar en el 18,4, més de 20 punts per sota de l’any 2023 (38,6). Pel que fa a la
+població en situació de pobresa relativa (ingressos inferiors al 50% de la mediana), l’indicador es va
+establir en un 17,8, més de 19 punts per sota de l’any 2023 (37,3), mentre que per a les persones en
+situació de pobresa severa (ingressos per sota del 40% de la mediana), la bretxa va ser del 44,9, més
+d’un punt per sobre de l’any 2023 (43,5).
+
+
+
+
+                                                           Poverty Gap (%)
+                                                         2023          2024
+                      Llindar del 60% de la mediana       38,6         18,4
+                      Llindar del 50% de la mediana       37,3         17,8
+                      Llindar del 40% de la mediana       43,5         44,9
+
+
+
+
+NP-ECV_20250728                                                                   Pàgina 13 de 29
+                                 A047-A163-A164. Enquesta de condicions de vida. Any 2024
+
+
+3. Privacions materials
+
+3.1.        Privació material severa
+
+Una persona es considera en situació de privació material severa si es troba en almenys quatre de
+les vuit situacions següents:
+
+       -    No pot permetre’s anar de vacances almenys una setmana a l’any.
+       -    No pot permetre’s una alimentació que contingui carn, pollastre o peix almenys cada dos
+            dies.
+       -    No pot permetre’s mantenir l’habitatge a una temperatura adequada.
+       -    No té capacitat per afrontar unes despeses imprevistes (1.295 €2).
+       -    Ha tingut algun retard en el pagament de despeses relacionades amb l’habitatge.
+            (hipoteca o lloguer, rebuts, etc.) en els darrers dotze mesos.
+       -    No pot permetre’s disposar d’un automòbil.
+       -    No pot permetre’s disposar d’un ordinador.
+       -    No pot reemplaçar els mobles quan estan desgastats o malmesos.
+
+
+L’any 2024 el 5,0% de la població andorrana es trobava en una situació de privació material severa,
+dos punts i tres dècimes inferior a la taxa de l’any anterior.
+
+Segons el tipus de llar, les persones més afectades per la privació material severa eren aquelles que
+vivien en llars formades per un adult (11,3%), seguides per les persones que vivien en llars d’un adult
+amb persones dependents (10,3%). En comparació amb l’any 2023, la proporció de persones en
+situació de privació material severa que vivien en les llars formades per un adult amb persones
+dependents va disminuir 5,5 punts percentuals i les llars formades per un adult van disminuir de 3,4
+punts percentuals.
+
+
+                                                Privació material severa (%)
+            18,0
+                                                 15,8
+            16,0         14,7
+            14,0
+            12,0                11,3
+                                                        10,3
+            10,0
+                                                                                                                      7,3
+             8,0
+                                                                                               6,3
+             6,0                                                                                      4,3                    5,0
+                                                                       4,3
+             4,0                                                               2,8
+             2,0
+             0,0
+                          Un adult            Un adult amb         Dos adults o més Dos adults o més                    Total
+                                               persones             amb persones    sense persones
+                                              dependents             dependents       dependents
+
+                                                                    2023     2024
+
+
+
+
+2 L’import s’ha calculat amb el llindar nacional de risc de pobresa per ingressos disponibles equivalents de l’any anterior dividit per 12.
+
+
+
+
+NP-ECV_20250728                                                                                                        Pàgina 14 de 29
+                                  A047-A163-A164. Enquesta de condicions de vida. Any 2024
+
+
+Segons el nombre de privacions, l’any 2024 el 64,7% de les persones no presentava cap privació
+material de la llista dels vuit conceptes descrits. El 11,0% de les persones patia una privació, mentre
+que el 11,8% patien dues privacions. Les persones amb tres privacions o menys representaven el
+95,0% de la població de l’any 2024.
+
+
+
+
+3.2.        Privacions relacionades amb la qualitat de vida
+
+        -   No pot permetre’s anar de vacances almenys una setmana a l’any.
+        -   No pot permetre’s una alimentació que contingui carn, pollastre o peix almenys cada dos dies.
+        -   No pot permetre’s mantenir l’habitatge a una temperatura adequada durant els mesos més
+            freds.
+
+L’any 2024, el 10,7% de la població no es podia permetre fer una setmana de vacances a l’any, el
+2,9% no es podia permetre una alimentació que contingués carn, peix o pollastre cada dos dies i el
+8,1% de la població no podia mantenir l’habitatge a una temperatura adequada els mesos més freds
+de l’any. Les persones més afectades per aquestes privacions eren les que vivien en llars d’un adult
+o en llars formades per un adult amb persones dependents. En comparació amb l’any 2023, la
+proporció de persones amb privacions relacionades amb la qualitat de vida va disminuir en 1,2 punts
+percentuals per a la impossibilitat de fer vacances, 0,3 punts per a l’alimentació i 3,4 punts per a la
+temperatura de l’habitatge.
+
+
+                                                 2023                               2024                               Diferència
+
+                                    Vacances Alimentació Calefacció   Vacances   Alimentació   Calefacció   Vacances Alimentació Calefacció
+                                       (%)       (%)         (%)         (%)         (%)           (%)         (%)       (%)         (%)
+
+Un adult                              20,0       7,8        17,9        20,5         7,0         14,3          0,5       -0,8       -3,6
+
+
+Un adult amb persones dependents      22,6       3,5        22,6        27,1         1,5         13,6          4,5       -2,0       -9,0
+
+Dos o més adults amb persones
+                                       7,8       2,4         8,8        8,7          2,0          6,8          0,9       -0,4       -2,0
+dependents
+Dos o més adults sense persones
+                                      11,4       2,3        10,3        7,0          2,7          6,7         -4,4        0,4       -3,6
+dependents
+
+Total                                 11,9       3,2        11,5        10,7         2,9          8,1         -1,2       -0,3       -3,4
+
+
+
+
+NP-ECV_20250728                                                                                                  Pàgina 15 de 29
+                         A047-A163-A164. Enquesta de condicions de vida. Any 2024
+
+
+
+
+3.3.       Privacions monetàries
+
+Les privacions monetàries inclouen la impossibilitat de respondre a despeses imprevistes, com ara
+1.295 € i retards en el pagament de rebuts relacionats amb l’habitatge principal.
+
+El 28,3% de la població no podia fer front a unes despeses imprevistes de 1.295 €, mentre que el
+4,8% va tenir retards en el pagament de rebuts. Les persones que vivien en llars formades per un
+adult amb persones dependents van ser les més afectades per aquestes privacions. Comparant amb
+el 2023, la proporció de persones amb retards en els pagaments va disminuir 0,9 punts percentuals.
+En canvi, la proporció de persones que no podien afrontar una despesa imprevista va augmentar en
+0,8 punts percentuals.
+
+
+                                             2023                      2024                      Diferència
+
+                                                    Haver                 Haver tingut              Haver tingut
+                                    Fer front a               Fer front a               Fer front a
+                                                tingut algun              algun retard              algun retard
+                                    despeses                  despeses                  despeses
+                                                  retard en                    en                        en
+                                   imprevistes               imprevistes               imprevistes
+                                                pagaments                 pagaments                 pagaments
+                                        (%)                       (%)                       (%)
+                                                     (%)                      (%)                       (%)
+
+Un adult                              33,1          6,4         35,7          5,0          2,6            -1,4
+
+
+Un adult amb persones dependents      54,9          21,0        58,1          8,8          3,2            -12,2
+
+Dos o més adults amb persones
+                                      24,7          6,4         27,2          3,6          2,5            -2,8
+dependents
+Dos o més adults sense persones
+                                      23,9          2,4         22,4          5,3         -1,5                2,9
+dependents
+
+Total                                 27,5          5,7         28,3          4,8          0,8            -0,9
+
+
+
+3.4.       Privacions de béns de consum duradors
+
+Les privacions de béns duradors estan relacionades amb l’equipament de la llar. Aquestes privacions
+es donen quan no es pot permetre disposar d’automòbil o ordinador, o quan no es poden reemplaçar
+els mobles.
+
+La principal privació relacionada amb béns duradors l’any 2024 va ser el fet de no poder reemplaçar
+els mobles, que va afectar el 19,5% de la població. Respecte a altres privacions, el 4,0% de la població
+no podia permetre’s disposar d’automòbil i el 2,2% no podia disposar d’ordinador.
+
+En comparació amb el 2023, les privacions relacionades amb el fet de disposar d’ordinador i de
+reemplaçar els mobles van augmentar en 0,2 i 1,7 punts percentuals, respectivament.
+
+
+
+
+NP-ECV_20250728                                                                          Pàgina 16 de 29
+                                  A047-A163-A164. Enquesta de condicions de vida. Any 2024
+
+
+                                                    2023                             2024                                  Diferència
+
+                                                          Reemplaçar                           Reemplaçar                               Reemplaçar
+                                    Automòbil   Ordinador              Automòbil   Ordinador                Automòbil     Ordinador
+                                                          els mobles                           els mobles                               els mobles
+                                       (%)         (%)                    (%)         (%)                      (%)           (%)
+                                                              (%)                                  (%)                                      (%)
+
+Un adult                               9,5          5,7       24,2        8,5         7,3         26,2          -1,0          1,6           2,0
+
+
+Un adult amb persones dependents      11,1          3,9       44,0        8,2         1,4         48,8          -2,9         -2,5           4,8
+
+Dos o més adults amb persones
+                                       1,8          0,5       14,8        2,7          .          17,4          0,9          -0,5           2,6
+dependents
+Dos o més adults sense persones
+                                       4,9          1,9       14,5        3,2         2,8         14,8          -1,7          0,9           0,3
+dependents
+
+Total                                  4,7          2,0       17,8        4,0         2,2         19,5          -0,7          0,2           1,7
+
+
+
+
+3.5.       Capacitat per arribar a final de mes
+
+Pel que fa a la capacitat per arribar a final de mes, l’any 2024 el 31,4% de la població hi arribava amb
+dificultats, mentre que el 68,6% hi arribava amb facilitat. Les persones que hi arribaven amb més
+dificultats eren les que vivien en llars formades per un adult amb persones dependents (66,6%).
+
+
+                                                           2023                                2024                           Diferència
+
+                                            Amb          Amb                          Amb                                 Amb               Amb
+                                                                                                  Amb facilitat
+                                         dificultats   facilitat        No         dificultats                         dificultats        facilitat
+                                                                                                   (certes o
+                                          (certes o   (certes o      contesta*      (certes o                           (certes o        (certes o
+                                                                                                  moltes) (%)
+                                         moltes) (%) moltes) (%)                   moltes) (%)                         moltes) (%)      moltes) (%)
+
+Un adult                                     34,5          61,7         3,8           38,2               61,8              3,7              0,1
+
+
+Un adult amb persones dependents             68,1          31,9                       66,6               33,4             -1,5              1,5
+
+Dos o més adults amb persones
+                                             29,7          69,2         1,0           30,6               69,4              0,9              0,2
+dependents
+Dos o més adults sense persones
+                                             26,3          71,6         2,5           24,4               75,6             -1,9              4,0
+dependents
+
+Total                                        31,7          66,4         1,9           31,4               68,6             -0,4              2,3
+
+*Hi ha 32 persones de la mostra que no han contestat
+
+
+
+
+NP-ECV_20250728                                                                                                    Pàgina 17 de 29
+                           A047-A163-A164. Enquesta de condicions de vida. Any 2024
+
+
+4. Condicions de vida
+
+4.1.    Estat de salut
+
+L’any 2024, el 58,1% de la població d’entre 16 i 64 anys percebia el seu estat de salut com a “bo”,
+mentre que el 23,6% considerava que gaudia d’un estat de salut “molt bo”. Només el 0,8% d’aquest
+grup manifestava tenir un estat de salut “molt dolent”. Pel que fa a les persones de 65 anys i més, la
+majoria, un 45,4%, valorava el seu estat de salut com a “bo”, seguit d’un 33,9% que el considerava
+“regular”. Únicament el 7,3% d’aquest grup tenia la percepció de gaudir d’un estat de salut “molt bo”,
+mentre que un 1,1%, considerava que el seu estat de salut era “molt dolent”.
+
+
+                                       Estat de salut segons edat (%)
+        70,0
+        60,0              56,1 58,1                                              53,7
+        50,0                                                                        45,4
+
+        40,0                                                                                    33,9
+                                                                                            29,9
+        30,0   26,0
+                   23,6
+        20,0                          14,6 13,9                                                              11,3
+                                                                                                       9,7
+        10,0                                                           4,9 7,3
+                                                  2,4 3,0                                                           1,9 1,1
+                                                            0,8 0,8
+         0,0
+               Molt bo      Bo        Regular     Dolent     Molt     Molt bo      Bo       Regular    Dolent        Molt
+                                                            dolent                                                  dolent
+                              Entre 16 i 64 anys                                          Majors de 65
+
+                                                            2023      2024
+
+
+
+4.2.     Persones que resideixen en llars amb baixa intensitat laboral
+
+L’indicador de persones que resideixen en llars amb baixa intensitat laboral mesura el percentatge de
+menors de 60 anys que viuen en llars on la intensitat laboral és inferior al 20%. Aquesta intensitat es
+defineix com la ràtio entre els mesos efectivament treballats pels membres en edat laboral i el total de
+mesos potencials de treballar.
+
+L’any 2024, l’1,4% de la població menor de 60 anys residia en llars amb baixa intensitat laboral. Per
+tipus de llar, les incidències més altes es van registrar en llars d’un adult amb persones dependents
+amb el 4,9% i en llars d’un adult amb el 2,8%.
+
+                                                                             Persones residint en llars amb
+                                                                               baixa intensitat laboral (%)
+                                                                                   2023                      2024
+          Un adult                                                                  2,2                       2,8
+          Un adult amb persones dependents                                          4,3                       4,9
+          Dos o més adults amb persones dependents                                  0,9                         .
+          Dos o més adults sense persones dependents                                2,5                       1,7
+          Total                                                                     1,9                       1,4
+
+
+
+
+NP-ECV_20250728                                                                                               Pàgina 18 de 29
+                           A047-A163-A164. Enquesta de condicions de vida. Any 2024
+
+
+4.3.    Sobrecàrrega dels costos de l’habitatge
+
+L’indicador de sobrecàrrega dels costos de l’habitatge es calcula com el percentatge de persones que
+habiten en llars on les despeses destinades a l’habitatge, com el lloguer, els interessos hipotecaris,
+l’aigua, la llum, la comunitat, entre d’altres, superen el 40% dels ingressos percebuts.
+
+L’any 2024, el 9,4% de la població es trobava en situació de sobrecàrrega dels costos de l’habitatge,
+un punt i una dècima menys que l’any anterior. Les llars més afectades per aquesta situació van ser
+les de lloguer, amb una taxa del 13,0%, inferior al 13,8% registrat l’any 2023.
+
+
+
+
+                  Població amb sobrecàrrega dels costos de l'habitatge
+                                         (%)
+        16,0                                                              13,8
+        14,0                                                                     13,0
+        12,0                                                                                  10,5
+                                                                                                       9,4
+        10,0
+         8,0
+                               6,1
+         6,0                                    5,0
+                     4,5
+         4,0
+         2,0                                           1,1
+         0,0
+               Propietat amb hipoteca         Propietat sense               Lloguer             Total
+                                                 hipoteca
+
+                                                         2023      2024
+
+
+
+Segons els quintils d’ingressos, l’any 2024, el 39,5% de la població del primer quintil es trobava en
+sobrecàrrega dels costos de l’habitatge, mentre que l’any 2023 aquest percentatge era del 43,5%.
+
+Pel que fa al segon quintil, el percentatge de la població en aquesta situació era inferior a l’any anterior
+en un 1,3%. Aquest percentatge disminuïa a mesura que augmentaven els quintils d’ingressos.
+
+
+                  Població amb sobrecàrrega dels costos de l'habitatge
+                             segons quintil d'ingressos (%)
+        50,0
+                   43,5
+        45,0
+                           39,5
+        40,0
+        35,0
+        30,0
+        25,0
+        20,0
+        15,0
+        10,0                            6,9
+                                               5,6
+         5,0                                                 0,6   0,9            0,9   0,9      0,9    0,6
+         0,0
+                   Quintil 1            Quintil 2            Quintil 3            Quintil 4      Quintil 5
+
+                                                         2023      2024
+
+
+
+
+NP-ECV_20250728                                                                                  Pàgina 19 de 29
+                       A047-A163-A164. Enquesta de condicions de vida. Any 2024
+
+
+5. Indicador AROPE de risc de pobresa o exclusió social
+
+L’indicador AROPE de risc de pobresa o exclusió social es calcula considerant la població que
+compleix almenys una de les següents condicions:
+
+    -   Risc de pobresa (ingressos disponibles equivalents inferiors al 60% de la mediana).
+    -   Població en llars sense feina o amb baixa intensitat laboral (els membres en edat laboral han
+        treballat menys del 20% del seu potencial de treball durant l’any anterior a l’enquesta).
+    -   Privació material severa (carència d’almenys quatre conceptes d’una llista de vuit).
+
+Segons la definició anterior, el 19,4% de la població es trobava en risc de pobresa o exclusió social;
+és a dir, es trobava en almenys alguna de les tres situacions presentades, cinc dècimes per sobre de
+la dada del 2023.
+
+Les interseccions entre subpoblacions permeten observar la relació que hi ha entre els tres indicadors
+en la taxa AROPE.
+
+
+
+
+NP-ECV_20250728                                                                   Pàgina 20 de 29
+                      A047-A163-A164. Enquesta de condicions de vida. Any 2024
+
+
+6. Comparació amb els països de l’entorn
+
+En la comparació d’Andorra amb els països de l’entorn es presenten els resultats obtinguts dels anys
+2023 i 2024, comparats amb Espanya, França i la Unió Europea.
+
+6.1.    Indicadors de desigualtat: S80/S20 i índex de Gini
+
+Pel que fa a l’indicador S80/S20, Andorra registra l’any 2024 una reducció de −0,2 respecte l’any
+2023. A Espanya la reducció és de −0,1, mentre que a França i a la UE27 els valors es mantenen
+estables.
+
+Quant a l’índex de Gini, a Andorra, Espanya i UE27 disminueix i a França augmenta.
+
+
+                                                                    2023   2024   Diferència
+
+                       S80/S20                                       7,3    7,1           -0,2
+            Andorra
+                       Índex de Gini (0-100)                        40,0   38,4           -1,6
+                       S80/S20                                       5,5    5,4           -0,1
+            Espanya
+                       Índex de Gini (0-100)                        31,5   31,2           -0,3
+                       S80/S20                                       4,6    4,7            0,0
+             França
+                       Índex de Gini (0-100)                        29,7   30,0            0,3
+                       S80/S20                                       4,7    4,7            0,0
+              UE27
+                       Índex de Gini (0-100)                        29,6   29,3           -0,3
+
+
+
+
+6.2.    Indicadors de risc de pobresa, privació material severa, baixa intensitat laboral i
+AROPE
+
+Pel que fa a la taxa de risc de pobresa a Andorra i França, entre els anys 2023 i 2024 aquesta
+augmenta, mentre a la Unió Europea es manté estable i Espanya, disminueix.
+
+La privació material severa va disminuir tant a Andorra, com a Espanya, a França i a la Unió Europea.
+
+
+NP-ECV_20250728                                                                   Pàgina 21 de 29
+                                   A047-A163-A164. Enquesta de condicions de vida. Any 2024
+
+
+Quant a la baixa intensitat laboral, va disminuir tant a Andorra com als països de l’entorn i al conjunt
+de la UE27.
+
+Finalment, i pel que fa a l’indicador AROPE, a Andorra i França va créixer i a Espanya i la UE27 va
+decréixer.
+
+                                                                                                               2023                   2024 Diferència
+
+                            Llindar del 60% de la mediana de la població (€)                                 16.102                 17.330                    7,6
+                            Taxa de risc de pobresa (%)                                                         13,6                   16,4                   2,8
+                            Privació material severa (%)                                                          7,3                    5,0               -2,3
+        Andorra
+                            Baixa intensitat laboral (menors de 60) (%)                                           1,9                    1,4               -0,5
+                            AROPE (Risc de pobresa o exclusió social)                                           18,9                   19,4                   1,0
+                            Llindar del 60% de la mediana de la població (€)                                 10.990                 11.584                    5,4
+                            Taxa de risc de pobresa (%)                                                         20,2                   19,7                -0,5
+        Espanya             Privació material severa (%)                                                        10,1                     9,7               -0,4
+                            Baixa intensitat laboral (menors de 60) (%)                                           8,4                    8,0               -0,4
+                            AROPE (Risc de pobresa o exclusió social)                                           26,5                   25,8                -0,7
+                            Llindar del 60% de la mediana de la població (€)                                 14.507                 15.334                    5,7
+                            Taxa de risc de pobresa (%)                                                         15,4                   15,9                   0,5
+         França             Privació material severa (%)                                                          6,8                    6,6               -0,2
+                            Baixa intensitat laboral (menors de 60) (%)                                           9,2                    8,7               -0,5
+                            AROPE (Risc de pobresa o exclusió social)                                           20,4                   20,5                   0,1
+                            Llindar del 60% de la mediana de la població (€)*
+                            Taxa de risc de pobresa (%)                                                         16,2                   16,2                   0,0
+              UE27          Privació material severa (%)                                                          9,0                    8,2               -0,8
+                            Baixa intensitat laboral (menors de 60) (%)                                           8,0                    7,9               -0,1
+                            AROPE (Risc de pobresa o exclusió social)                                           21,3                   21,0                -0,3
+
+
+
+                                                 Indicadors de risc de pobresa o exclusió social
+       30,0
+
+
+
+
+       25,0
+
+
+
+
+       20,0
+
+
+
+
+       15,0
+
+
+
+
+       10,0
+
+
+
+
+        5,0
+
+
+
+
+        0,0
+               Andorra Espanya França     UE27 Andorra Espanya França     UE27 Andorra Espanya França            UE27 Andorra Espanya França        UE27
+                     Taxa de risc de pobresa        Privació material severa          Baixa intensitat laboral (menors de AROPE (Risc de pobresa o exclusió
+                                                                                                       60)                             social)
+
+                                                                               2023       2024
+
+
+
+
+NP-ECV_20250728                                                                                                                        Pàgina 22 de 29
+                               A047-A163-A164. Enquesta de condicions de vida. Any 2024
+
+
+6.3.      Percentatges de població segons privació
+
+Pel que fa a les privacions materials, l’any 2024, les despeses imprevistes van ser la privació més
+significativa en tots els països. A Andorra el percentatge de persones amb aquesta privació es va
+situar al 28,3%, mentre que a Espanya al 35,9%, a França al 29,4% i a la Unió Europea al 30,0%.
+
+
+                                       Andorra                 Espanya                 França                   UE27
+
+                                2023    2024     Dif.   2023    2024     Dif.   2023   2024     Dif.    2023    2024     Dif.
+Vacances (%)                    11,9    10,7     -1,2   33,2    33,4     0,2    25,1    22,0    -3,1     28,5   27,0     -1,5
+Alimentació (%)                  3,2     2,9     -0,3   6,4      6,1     -0,3   12,2    10,2    -2,0     9,5     8,5     -1,0
+Calefacció (%)                  11,5     8,1     -3,4   20,8    17,5     -3,3   12,1    11,8    -0,3     10,6    9,2     -1,4
+                           1
+Despeses imprevistes (%)        27,5    28,3     0,8    37,2    35,9     -1,3   29,4    29,4    0,0      31,2   30,0     -1,2
+Retard en pagaments (%)          5,7     4,8     -0,9   13,6    14,2     0,6    10,0    10,6    0,6      9,3     9,2     -0,1
+Ordinador (%)                    2,0     4,0     2,0    6,1      6,3     0,2    2,9     3,0     0,1      3,7     3,7     0,0
+Automòbil (%)                    4,7     2,2     -2,5   5,2      5,3     0,1    3,4     3,6     0,2      5,6     5,6     0,0
+Mobles (%)                      17,8    19,5     1,7    30,0    27,7     -2,3   17,1    18,2    1,1      21,2   20,2     -1,0
+
+
+
+
+6.4.      Sobrecàrrega dels costos d’habitatge
+
+Tant a Andorra com als països veïns, l’any 2024, el percentatge de població amb sobrecàrrega de
+costos de l’habitatge va ser més elevat en el cas de la població que viu de lloguer. En el cas d’ Andorra
+van ser el 13,0%, a Espanya el 21,5%, a França el 15,7% i a la Unió Europea el 16,1%.
+
+
+
+
+NP-ECV_20250728                                                                                        Pàgina 23 de 29
+                    A047-A163-A164. Enquesta de condicions de vida. Any 2024
+
+
+                                                          2023   2024   Diferència
+                            1.Propietat amb hipoteca       4,5    6,1           1,6
+                            2.Propietat sense hipoteca     5,0    1,1          -3,8
+                  Andorra
+                            3.Lloguer                     13,8   13,0          -0,8
+                            Total                         10,5    9,4          -1,2
+                            1.Propietat amb hipoteca       4,4    4,3          -0,1
+                            2.Propietat sense hipoteca     2,6    2,2          -0,4
+                  Espanya
+                            3.Lloguer                     24,2   21,5          -2,7
+                            Total                          8,2    7,8          -0,4
+                            1.Propietat amb hipoteca       0,9    1,1           0,2
+                            2.Propietat sense hipoteca     1,7    1,4          -0,3
+                  França
+                            3.Lloguer                     15,1   15,7           0,6
+                            Total                          6,5    7,0           0,5
+                            1.Propietat amb hipoteca       5,3    5,0          -0,3
+                            2.Propietat sense hipoteca     4,9    4,4          -0,5
+                   UE27
+                            3.Lloguer                     17,5   16,1          -1,4
+                            Total                          8,8    8,2          -0,6
+
+
+
+
+NP-ECV_20250728                                                                Pàgina 24 de 29
+                  A047-A163-A164. Enquesta de condicions de vida. Any 2024
+
+
+
+
+NP-ECV_20250728                                                              Pàgina 25 de 29
+                        A047-A163-A164. Enquesta de condicions de vida. Any 2024
+
+
+7. Nota metodològica
+
+7.1.    Font
+
+Dades generades a partir de l’Enquesta de condicions de vida (en endavant, “ECV”) realitzada pel
+Departament d’Estadística del Govern d’Andorra i disponibles al web www.estadistica.ad.
+
+La informació recollida mitjançant l’enquesta es complementa amb informació provinent de registres
+administratius tributaris i de prestacions socials.
+
+7.2.    Definicions
+
+Mediana: mesura d’estadística descriptiva que es refereix al valor central (50%) del conjunt de dades,
+ordenades de menys a més. La mediana, a diferència de la mitjana, no és sensible a les dades
+extremes.
+
+Quintil d’ingrés: es calcula ordenant la població en funció dels ingressos, de menys a més, per després
+dividir-la en cinc parts iguals de nombre d’individus. Amb això s’obtenen cinc quintils, el primer dels
+quals correspon al 20% de població més pobre, i així successivament fins al cinquè quintil, que
+representa el 20% de població més rica.
+
+Llar (privada): persona o conjunt de persones que ocupen un habitatge familiar principal o una part, i
+que consumeixen o comparteixen aliments o altres béns amb càrrec a un mateix pressupost.
+
+Persona dependent: tots els menors de 18 anys es consideren persones dependents, així com les
+persones entre 18 i 24 anys econòmicament inactives, un dels pares de les quals, com a mínim, és
+membre de la llar.
+
+Renda disponible: és la renda de què poden fer ús les famílies després de fer transferències a altres
+llars i de respondre a les obligacions tributàries i a les cotitzacions a la seguretat social.
+
+Ingressos per unitat de consum o renda equivalent: és un concepte internacional que s’utilitza per
+tenir en compte les economies d’escala que es produeixen dins d’una llar, de manera que es
+consideren els beneficis d’estalvi per l’ús compartit de béns i equipaments de la llar. La totalitat dels
+ingressos nets (disponibles) de la llar es divideix entre les unitats de consum equivalents de la llar
+utilitzant l’escala de l’OCDE modificada, i s’obtenen els ingressos per unitat de consum. L’escala de
+l’OCDE modificada atorga 1 al primer adult (de 14 anys o més), 0,5 a partir del segon adult (de
+14 anys o més) i 0,3 als menors de 14 anys.
+
+Prestacions socials: les prestacions socials són les transferències corrents rebudes per les llars durant
+el període de referència dels ingressos. Aquestes prestacions provenen d’entitats estatals i
+institucions sense ànim de lucre. Perquè una transferència es consideri una prestació social cal que
+la seva cobertura sigui obligatòria per llei per al grup en qüestió o que es basi en el principi de
+solidaritat social. Les pensions (per exemple, de jubilació o de supervivència) no s’inclouen en les
+prestacions socials i es comptabilitzen com a ingressos (abans de prestacions socials).
+
+
+
+
+NP-ECV_20250728                                                                       Pàgina 26 de 29
+                       A047-A163-A164. Enquesta de condicions de vida. Any 2024
+
+
+Ingressos abans de prestacions socials (incloent-hi o excloent-ne pensions): són els ingressos abans
+d’incloure-hi les prestacions socials. Els ingressos abans de prestacions socials incloent-hi pensions
+descompten dels ingressos de la llar totes les prestacions socials i també les pensions (per exemple,
+de jubilació). En els ingressos abans de prestacions excloent-ne pensions no es descompten les
+pensions dels ingressos de la llar.
+
+Coeficient de Gini: és un indicador de desigualtat que mesura la distribució d’una variable (en aquest
+cas de la renda disponible equivalent) respecte a una distribució perfectament igual. Per obtenir-lo,
+es calcula la proporció acumulada de població ordenada pels ingressos equivalents amb la proporció
+acumulada dels ingressos rebuts per la població. El seu valor oscil·la en una escala de 0 (igualtat
+completa) i 100 (desigualtat completa).
+
+S80/S20: l’indicador S80/S20 correspon a la proporció entre els ingressos (disponibles equivalents)
+totals rebuts pel 20% de la població amb ingressos més elevats (quintil superior) i els ingressos
+(disponibles equivalents) que rep el 20% de la població amb els ingressos més baixos (quintil inferior).
+
+Llindars de pobresa: els llindars de pobresa es calculen com un percentatge de la mediana o mitjana
+dels ingressos disponibles equivalents. La definició més habitual és el llindar de risc de pobresa que
+correspon al 60% de la mediana dels ingressos disponibles equivalents. Altres indicadors habituals
+són el 40%, el 50% o el 70% de la mediana.
+
+Bretxa relativa de risc de pobresa: o poverty gap, es refereix a la intensitat del risc de pobresa. La
+bretxa mesura la diferència entre els ingressos de les persones per sota el llindar de pobresa respecte
+al llindar. Concretament, es calcula com la diferència entre la renda disponible mitjana equivalent per
+a les persones per sota el llindar de risc de pobresa i el llindar de risc de pobresa, expressat com a
+percentatge del llindar de risc de pobresa.
+
+Privació material severa: es refereix a la situació en què una persona es troba forçosament
+incapacitada per pagar almenys quatre dels nou conceptes següents:
+
+    -   No pot permetre’s anar de vacances almenys una setmana a l’any.
+    -   No pot permetre’s una alimentació que contingui carn, pollastre o peix almenys cada dos
+        dies.
+    -   No pot permetre’s mantenir l’habitatge a una temperatura adequada.
+    -   No té capacitat per respondre a unes despeses imprevistes (1.295 €).
+    -   Ha tingut algun retard en el pagament de despeses relacionades amb l’habitatge
+        (hipoteca o lloguer, rebuts, etc.) en els darrers dotze mesos.
+    -   No pot permetre’s disposar d’un automòbil.
+    -   No pot permetre’s disposar d’un ordinador.
+    -   No pot reemplaçar els mobles quan estan desgastats o malmesos.
+
+Baixa intensitat laboral: aquest indicador fa referència a les persones que viuen en llars la intensitat
+laboral de les quals s’ha situat per sota el 20% del seu potencial de treball. Es calcula el percentatge
+de persones d’entre 0 i 59 anys que viuen en llars en què els membres en edat laboral han treballat
+menys del 20% del seu potencial de treball durant l’any anterior.
+
+
+
+
+NP-ECV_20250728                                                                    Pàgina 27 de 29
+                        A047-A163-A164. Enquesta de condicions de vida. Any 2024
+
+
+AROPE (at-risk-of-poverty or social exclusion): o risc de pobresa o exclusió social és un indicador dins
+de l’estratègia Europa 2030 que calcula el percentatge de persones que es troben en risc de pobresa,
+o en privació material severa o en llars amb baixa intensitat laboral. En el cas d’estar incloses en dos
+o més condicions, les persones es comptabilitzen una sola vegada.
+
+Sobrecàrrega dels costos de l’habitatge: una llar es troba en situació de sobrecàrrega dels costos de
+l’habitatge quan les despeses anuals relacionades amb l’habitatge (netes de les prestacions socials
+relacionades amb l’habitatge) superen el 40% dels ingressos disponibles (nets de les prestacions
+socials d’habitatge). Les despeses de la llar inclouen lloguer, interessos de préstec hipotecari, aigua,
+llum, calefacció, assegurança, etc.
+
+Habitatge en cessió gratuïta: quan la llar no paga lloguer perquè l’habitatge ha estat facilitat per un
+familiar o una persona que no és membre de la llar, per una institució, empresa o altres. No s’inclou
+aquí el cas en què la llar pagui un lloguer, encara que després li sigui restituït per qualsevol institució,
+empresa o persona que no sigui membre de la llar.
+
+7.3.     Metodologia
+
+L’Enquesta de condicions de vida (ECV) és una enquesta anual dirigida a les llars. L’ECV és una
+operació estadística harmonitzada dins de la Unió Europea anomenada European Statistics on
+Income and Living Conditions (EU-SILC). Aquesta enquesta proporciona indicadors relacionats amb
+els ingressos i la distribució de la renda, la pobresa i privacions econòmiques, i altres indicadors
+relacionats amb les condicions de vida.
+
+Les dades s’obtenen d’una enquesta presencial que es duu a terme a una mostra d’unes 800 llars i
+els membres que pertanyen a aquestes llars de 16 anys o més el 31 de desembre de l’any anterior a
+l’entrevista.
+
+L’enquesta té un disseny de panel rotant, en què la mostra està formada per quatre submostres
+independents. Cada submostra és un panel de quatre anys de duració, i anualment es renova un dels
+panels. Les submostres se seleccionen mitjançant un mostreig aleatori estratificat per parròquia.
+
+L’enquesta es compon per una fitxa de la llar (recull informació dels membres que componen la llar),
+un qüestionari de la llar (recull informació de la llar) i un qüestionari individual que responen els
+membres de 16 anys o més (recull informació individual).
+
+Els ingressos recollits a l’enquesta es refereixen als de l’any anterior al de realització de l’enquesta.
+Per exemple, l’any 2024 es demana informació sobre tots els ingressos que ha percebut la llar durant
+l’any 2023.
+
+
+
+7.4.     Revisió metodològica
+
+En l’edició del 2020 es contrastaven els ingressos declarats a l’enquesta amb les dades declarades a
+l’IRPF, però no es tenia dades de les persones amb ingressos inferiors a 24.000 €. Així, la declaració
+d’ingressos de l’enquesta tendia a una infravaloració de les declaracions.
+
+
+
+
+NP-ECV_20250728                                                                       Pàgina 28 de 29
+                             A047-A163-A164. Enquesta de condicions de vida. Any 2024
+
+
+En l’edició del 2021, s’han revisat els resultats amb nous registres administratius que permetien
+contrastar les dades declarades a l’enquesta amb les dades de fonts administratives.
+
+En aquesta nota, quan es parla de la Unió Europea es refereix a la Unió Europea dels 27 països. S’ha
+canviat respecte a les notes anteriors (Unió Europea 28), ja que l’any 2020 es va oficialitzar la sortida
+de la Gran Bretanya com a membre de la Unió Europea.
+
+7.5.          Referències metodològiques
+
+D’acord amb les previsions de la Llei del Pla d’estadística 2022-2025 i el seu desplegament en el
+Programa estadístic per a l’any 2025, el present informe dona resposta a l’activitat estadística:
+
+       -      A047: Estadística de distribució personal de la renda
+       -      A163: Enquesta de condicions de vida
+       -      A164: Estadística sobre risc de pobresa i exclusió social
+
+A escala internacional, l’enquesta segueix les recomanacions i normatives de l’Eurostat dins el
+projecte EU-SILC. Els reglaments i les referències internacionals principals són els següents:
+
+       -      Reglament (CE) núm. 1177/2003 del Parlament Europeu i del Consell, del 16 de juny del
+              2003, relatiu a les estadístiques comunitàries sobre la renda i les condicions de vida (EU-
+              SILC). És el reglament marc, la legislació central que estableix tot l’instrument.
+       -      Reglament (CE) núm. 1553/2005 del Parlament Europeu i del Consell, del 7 de setembre del
+              2005, pel qual es modifica el Reglament (CE) número 1177/2003, relatiu a les estadístiques
+              comunitàries sobre la renda i les condicions de vida (EU-SILC).
+
+A partir d’aquests reglaments es desenvolupen altres reglaments que proporcionen especificacions
+addicionals respecte a definicions, variables objectiu, aspectes de mostreig, informes de qualitat, etc.
+A més, anualment, un reglament determina un mòdul que s’ha d’afegir a l’enquesta, que proporcionarà
+informació transversal sobre una qüestió d’interès especial.
+
+
+
+8. Data prevista de les pròximes publicacions
+
+       - Nota premsa “A047. Estadística de la distribució personal de la renda; A163. Enquesta de
+           condicions de vida (ECV); A164. Estadística sobre risc de pobresa i exclusió social. Any 2025”:
+           1r semestre del 2026.
+
+
+
+
+NP-ECV_20250728                                                                          Pàgina 29 de 29
+

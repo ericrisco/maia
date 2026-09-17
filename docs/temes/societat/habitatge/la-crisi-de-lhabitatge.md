@@ -79,6 +79,36 @@ I hi ha una tensió de fons amb el
 [creixement sostenible](../../economia/transformacio-economica/transformacio-economica.md)
 que el nom mateix de la llei reconeix.
 
+## Dues xifres oficials que el corpus no tenia
+
+**Qui lloga guanya disset mil euros menys que qui és propietari.** Ho diu
+l'**Enquesta de condicions de vida del 2024**, publicada pel Departament
+d'Estadística el **28 de juliol del 2025**
+(`docs/raw/estadistica-renda/a047-a163-a164-20250728.txt`): classificant per
+règim de tinença, **les persones amb habitatge principal en propietat van
+registrar uns ingressos mitjans de 47.755 €** i **les que resideixen en llars de
+lloguer, 30.526 €**. En medianes, **36.008 € i 26.793 €**. **La diferència és de
+17.229 € de mitjana i de 9.215 € de mediana.**
+
+**I el 9,4% de la població gasta més del 40% dels seus ingressos en
+l'habitatge.** És l'indicador de **sobrecàrrega dels costos de l'habitatge**, que
+compta lloguer, interessos hipotecaris, aigua, llum i comunitat. **El 2024 va
+baixar un punt i una dècima respecte del 2023.**
+
+**El context que les emmarca.** L'any 2024 la **mitjana d'ingressos disponibles
+equivalents** va ser de **37.335 €** i la **mediana de 28.883 €**; la **taxa de
+risc de pobresa va pujar del 13,6% al 16,4%**; l'**índex de Gini va baixar de 40
+a 38,4** —**i puja a 47,1 si no es compten prestacions socials ni pensions**—; i
+l'indicador **AROPE de risc de pobresa o exclusió social va ser del 19,4%**.
+
+**Cap d'aquestes xifres és un preu de lloguer.** Diuen **quant guanya qui lloga**
+i **quina part se n'emporta l'habitatge**, no **quant val un pis**. Per a això
+segueix fent falta la sèrie de preus del lloguer del mateix Departament, que
+publica dades de contractes des del registre d'arrendaments.
+
+> Dades del Departament d'Estadística del Govern d'Andorra, publicació del
+> 28-07-2025, sota llicència CC BY 4.0. Tractament propi.
+
 ## El que falta
 
 > **Auditats el 2026-09-14 contra el corpus.** **Tres dels sis eren buits de
@@ -107,11 +137,15 @@ que el nom mateix de la llei reconeix.
   ([l'impost contra l'especulació](./limpost-contra-lespeculacio.md)).
   **La resta de l'articulat segueix sense llegir.**
 - **Preus absoluts, no només variacions: quant costa de llogar un pis a Andorra
-  la Vella.** — **`obert`, confirmat.** **El corpus té variacions i
-  proporcions i cap import**, i el mateix li passa a la llei d'arrendaments,
-  que **diu com es revisa la renda i no quant es paga**
-  ([llogar un pis](./llogar-un-pis.md)).
-  `Requereix font externa: Estadística, sèrie de preus del lloguer.`
+  la Vella.** — **`parcial` el 17-09-2026, i la via d'Estadística queda
+  oberta.** **El corpus ja té dues xifres oficials** —l'ingrés mitjà de qui lloga
+  i la sobrecàrrega dels costos de l'habitatge— a «[Dues xifres oficials que el
+  corpus no tenia](#dues-xifres-oficials-que-el-corpus-no-tenia)», **però cap
+  d'elles no és un preu**. `Requereix la nota de premsa de la sèrie de preus del
+  lloguer del Departament d'Estadística, que no s'ha localitzat pel cercador; les
+  notes es publiquen a sig.govern.ad amb el patró
+  Files/Documents/Notes_premsa_noticies/<CODI>_<DATA>_A.pdf i la secció és
+  «Habitatges i edificis».`
 - **Quanta gent treballa a Andorra i viu fora, xifra oficial.** — **`obert`, i
   ara se sap que probablement no existeix.** **El corpus té la raó
   estadística i la raó històrica del buit, per separat:**
