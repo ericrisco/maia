@@ -89,11 +89,62 @@ president.** **O la llista és incompleta, o la Federació Andorrana d'Handbol n
 comitè paralímpic del país** ([els altres Jocs](./els-altres-jocs.md)). **El
 mateix dubte.**
 
+## Quants diners hi ha, el 2026
+
+Era la meitat que faltava del buit del pressupost: **el «com» es tancava amb el
+reglament de subvencions i el «quant» no.** **Ara sí**, des del **llibre del
+pressupost del 2026**
+(`docs/raw/pressupost-2026/llibre-llei-pressupost-2026.txt`), **funció 08.1.0.01
+«Promoció i foment de l'esport»**.
+
+| Partida | 2026 | Pluriennals |
+| --- | ---: | ---: |
+| **PR0070. Federacions i clubs** | **8.127.176,14 €** | 301.475,43 € |
+| PR0172. Instal·lacions esportives | 1.331.995,55 € | 106.163,65 € |
+| PR0001. Serveis generals | 365.972,92 € | 32.000,00 € |
+| IN0094. Eficiència energètica del pavelló poliesportiu | 0,00 € | **6.000.000,00 €** |
+| **Total «Promoció i foment de l'esport»** | **9.825.144,61 €** | **6.439.639,08 €** |
+
+**I dins dels vuit milions de federacions i clubs:**
+
+| Subconcepte | 2026 |
+| --- | ---: |
+| **48210. Federacions i clubs esportius** | **5.278.369,70 €** |
+| **48217. Subvenció esport professional** | **2.000.000,00 €** |
+| 48220. A institucions sense finalitat de lucre | 5.000,00 € |
+| altres línies del mateix programa | 843.806,44 € |
+| **Total PR0070** | **8.127.176,14 €** |
+
+`Comprovacions del corpus.` **Les quatre files sumen exactament el total del
+programa**, i **les quatre partides de la funció sumen exactament els
+9.825.144,61 € de «Promoció i foment de l'esport».**
+
+### Les tres coses que la xifra ensenya
+
+**L'esport andorrà rep del Govern 9,8 milions d'euros el 2026**, **i vuit de
+cada deu van a federacions i clubs.**
+
+**Dos milions d'aquests vuit són una sola línia dita «Subvenció esport
+professional»**, **que és el 24,6% del programa de federacions i clubs.** `El
+llibre no diu qui la cobra: dona el nom del subconcepte i l'import.`
+
+**I hi ha sis milions compromesos per a exercicis futurs en una sola obra**, la
+**eficiència energètica del pavelló poliesportiu**, **que el 2026 no té ni un
+euro assignat.** **És, de tot el programa d'esports, la partida més gran, i és
+tota a futur.**
+
+**La Secretaria d'Estat d'Esports i Joventut sencera** —esport i joventut
+juntes— **té 10.514.003,13 €**, dins d'un **Ministeri de Cultura, Joventut i
+Esports de 22.447.828,32 €.**
+
 ## El que falta
 
 - **Quan es va fundar el COA**, i qui el presideix.
-- **El pressupost**, i com es reparteix entre federacions. — **`parcial` el
-  17-09-2026: el «com» es tanca, el «quant» no.** El **Decret 141/2023, del
+- ~~**El pressupost**, i com es reparteix entre federacions.~~ — **`resolt` el
+  2026-09-18: el «com» es va tancar el 17-09 amb el reglament de subvencions i
+  el «quant» es tanca ara** —**9.825.144,61 € el 2026, dels quals 8.127.176,14
+  a federacions i clubs**, a dalt. **El que segueix sota és el detall dels
+  criteris.** El **Decret 141/2023, del
   29-3-2023**, aprova el **Reglament de subvencions i altres ajuts a l'esport**
   ([BOPA](../../../fonts/bopa.md), butlletí 47 del 2023,
   `docs/raw/esports/bopa/`), i **l'article 14 llista els vuit criteris**, dits

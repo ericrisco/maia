@@ -138,10 +138,67 @@ activat sovint. Per a aquesta fitxa importa perquè explica **per què la Llei
 18/2017 va canviar el sistema**: fixar un import base i una indexació al PIB **és
 la manera d'evitar la votació anual que el 2017 va fracassar**.
 
+## Quant es transfereix el 2026
+
+**82.095.632,94 euros.** Surt del **llibre del pressupost del 2026**
+(`docs/raw/pressupost-2026/llibre-llei-pressupost-2026.txt`), **funció 01.8,
+«Transferències de caràcter general entre diferents nivells de govern»**,
+**programa PR0033 «Transferències als comuns»**.
+
+| Concepte | Import 2026 |
+| --- | ---: |
+| **46220. Transferències comunals** *(corrents)* | **49.446.755,16 €** |
+| **76200. Transferències Comuns** *(capital)* | **29.040.157,78 €** |
+| **Subtotal de la Llei 18/2017** | **78.486.912,94 €** |
+| 46210. Tinença de vehicles *(part que reverteix als comuns)* | 3.600.000,00 € |
+| altres | 8.720,00 € |
+| **Total del programa PR0033** | **82.095.632,94 €** |
+
+`Comprovacions del corpus.` **Els quatre imports sumen exactament el total del
+programa**, i **el subtotal de transferències corrents del llibre —53.046.755,16
+€— és exactament 3.600.000 + 49.446.755,16.** **I l'article 32 de la mateixa
+llei de pressupost diu quins subconceptes corresponen a la llei de
+transferències**: **el 46220 i el 76200**, i **no el 46210**, que és tributari.
+
+### El que això diu de la indexació
+
+**La llei fixava 55.000.000 d'euros per al 2018** i **els indexa cada any a la
+taxa de variació de l'avanç del PIB**.
+
+> **55.000.000 € (2018) → 78.486.912,94 € (2026)**
+> **+42,7% en vuit anys**, que és **un 4,55% anual acumulat.**
+
+**La indexació al PIB ha funcionat a favor dels comuns.** El corpus tenia
+registrat que **la regla pot fer baixar la xifra** —la llei ho diu
+expressament— i **en vuit anys no ha passat cap any que baixés prou perquè el
+resultat net fos negatiu.**
+
+**I hi ha una segona via de diners que aquesta fitxa no tenia**: **3,6 milions
+de la taxa de tinença de vehicles reverteixen als comuns**, **fora de la llei de
+transferències.**
+
+### Per què el corpus havia descartat aquesta via
+
+**El buit deia «la via del pressupost queda descartada, no pendent».** **Era
+fals, i l'error és de fitxer, no de raonament.**
+
+El que es va mirar va ser **el text de la Llei 1/2026 publicat al BOPA**, que
+efectivament **remet als subconceptes i no en dona l'import**. **El que no es va
+mirar és el llibre del pressupost**, que **el corpus ja tenia baixat** a
+`docs/raw/pressupost-2026/` **i que sí que porta els annexos numèrics sencers.**
+
+**La regla que en surt**: **quan una llei remet a un annex, l'annex és un fitxer
+diferent**, i **abans de declarar tancada una via cal comprovar que s'ha mirat
+el document on hi ha la dada, no el que hi remet.**
+
 ## Buits registrats
 
-- **Quant es transfereix avui**, no consta: la llei dona la xifra del **2018**
-  —**55.000.000 d'euros**— i una regla d'indexació. **Comprovat el 17-09-2026 a
+- ~~**Quant es transfereix avui**, no consta: la llei dona la xifra del **2018**
+  —**55.000.000 d'euros**— i una regla d'indexació.~~ **`resolt` el 2026-09-18:
+  78.486.912,94 € el 2026** pels dos subconceptes de la Llei 18/2017, **i
+  82.095.632,94 € comptant-hi la taxa de vehicles**. Vegeu més amunt. **El que
+  segueix sota és el raonament original i la via que s'havia donat per
+  descartada per error.** **Comprovat el 17-09-2026 a
   la font** (`docs/raw/lleis/transferencies-comuns.txt`, articles 4 i 5): **la
   revisió no és per IPC sinó «a raó de la taxa de variació de l'avanç del
   producte interior brut anual»**, aplicada sobre l'import de l'any anterior.
@@ -152,12 +209,14 @@ la manera d'evitar la votació anual que el 2017 va fracassar**.
   d'avui**: `requereix la sèrie d'avanç del PIB del Departament
   d'Estadística`.
 
-  **Provat també per la via del pressupost, i no serveix.** **La Llei 1/2026
-  del pressupost per a l'exercici del 2026** ([BOPA](../../../fonts/bopa.md))
-  **cita les transferències dues vegades i no en dona l'import**: **remet als
-  subconceptes 46220 i 76200 «d'acord amb l'article 1 de la Llei 18/2017»**.
-  **La xifra és als annexos numèrics, que el butlletí no publica en text.**
-  **La via del pressupost queda descartada, no pendent.**
+  ~~**Provat també per la via del pressupost, i no serveix.**~~ **Corregit el
+  2026-09-18.** **El diagnòstic era bo i la conclusió, precipitada.** **La Llei
+  1/2026 publicada al BOPA** ([BOPA](../../../fonts/bopa.md)) **remet als
+  subconceptes 46220 i 76200 i no en dona l'import**, això és cert. **Però els
+  annexos numèrics sí que són al corpus**, al **llibre del pressupost**
+  (`docs/raw/pressupost-2026/llibre-llei-pressupost-2026.txt`), **baixat des de
+  feia dies.** **La via no estava descartada: estava sense mirar el fitxer on hi
+  havia la dada.**
 - **La llei que fixa aquestes transferències va néixer amb una part declarada
   inconstitucional, i el corpus no ho tenia.** — **Registrat el 17-09-2026 des
   del [BOPA](../../../fonts/bopa.md).**
