@@ -140,6 +140,55 @@ el 1993.**
 > **El corpus no té cap crònica d'aquells dos actes.** **Buit obert, i és el
 > tipus de buit que es pot tancar: hi havia premsa, i queda gent que hi era.**
 
+## El tribut, al revés: 707.499,60 € el 2026
+
+**La quèstia s'acaba el 1993. El que la Constitució posa al seu lloc va en
+direcció contrària.**
+
+**El pressupost del 2026 hi té una partida amb nom propi**, i el llibre en dona
+la fitxa sencera:
+
+| | |
+| --- | --- |
+| **Títol de la línia** | **«Copríncep Episcopal - Copríncep Francés»** |
+| Subconcepte | **40200 — Als coprínceps** |
+| Import 2026 | **707.499,60 €** |
+| Qui la gestiona | **Secretaria General** (unitat 110) |
+| Funció | **01.1.1.02 — Activitat legislativa** |
+| Base legal | **Constitució del Principat d'Andorra, del 28 d'abril de 1993, article 47** |
+
+([Llibre del pressupost 2026](../../../raw/pressupost-2026/llibre-llei-pressupost-2026.txt),
+classificació per contribucions i subconcepte 40200.)
+
+> **Durant set-cents quinze anys Andorra va pagar als senyors. Des del 1993
+> paga als caps d'Estat, i ho fa per mandat constitucional.**
+>
+> **La diferència no és de sentit: és de fonament.** **La quèstia era un dret
+> senyorial sobre la terra; la dotació de l'article 47 és una línia
+> pressupostària que el Consell General vota cada any** —i que, com qualsevol
+> altra, **podria no votar.**
+
+**La xifra és conjunta**: **una sola línia per als dos coprínceps**, sense
+repartiment publicat. I **no varia amb els pluriennals**: la columna de
+compromisos futurs hi marca **0,00**.
+
+**Per posar-hi escala**, dins del mateix article pressupostari 40 —«Als
+coprínceps, Consell General i Tribunal Constitucional», **13.103.724,26 €**—:
+
+| Destinatari | Import 2026 |
+| --- | ---: |
+| **Consell General** | **8.362.060,39 €** |
+| Consell Superior de la Justícia | 3.130.457,89 € |
+| Tribunal Constitucional | 903.706,38 € |
+| **Els dos coprínceps** | **707.499,60 €** |
+
+**Els dos caps d'Estat costen menys que el Tribunal Constitucional més
+seixanta-quatre mil euros, i el 5,4% del que costa el Consell General.**
+
+`El corpus no té encara com es reparteix aquesta xifra entre els dos
+coprínceps, ni des de quin any existeix la partida, ni el text literal de
+l'article 47 de la Constitució.`
+
 ## El que falta
 
 - **Joan Becat**, *«Emergència i reconeixement d'Andorra com a Estat»*,
@@ -155,6 +204,10 @@ el 1993.**
 - **Per què els andorrans van demanar el restabliment del 1806.**
 - **Les cròniques dels lliuraments del 1991 i del 1992.**
 - **Si es va pagar mai en fruits**, i **què.**
+- **El text literal de l'article 47 de la Constitució**, que és la base de la
+  dotació actual dels coprínceps.
+- **Com es reparteixen els 707.499,60 € entre els dos coprínceps**, i **des de
+  quin any hi és la partida.**
 
 > **Afegit el 16-09-2026: una xifra anterior, i en una altra unitat.**
 > **André Vilar, *L'Andorre* (1904), p. 36**, diu que **Lluís XIV va confirmar

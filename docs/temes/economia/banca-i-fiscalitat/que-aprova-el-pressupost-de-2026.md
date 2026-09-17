@@ -148,6 +148,121 @@ Ministeri de Cultura, Joventut i Esports**, i **menys que el que l'Estat preveu
 recaptar amb l'impost sobre les emissions de CO₂ i l'impost d'allotjament
 junts.**
 
+## A qui van les transferències, pel seu nom
+
+**Els 327.003.280,20 € de transferències corrents no van a conceptes: van a
+entitats amb nom.** El llibre les llista subconcepte per subconcepte, i **la
+llista és el mapa de qui depèn del pressupost de l'Estat.**
+
+**Article 41 — organismes autònoms i entitats parapúbliques: 117.461.402,88 €**
+
+| Entitat | Import 2026 | Pluriennals |
+| --- | ---: | ---: |
+| **Caixa Andorrana de Seguretat Social** | **59.464.161,61 €** | 0,00 |
+| **SAAS** | **49.156.701,03 €** | **8.073.619,20 €** |
+| Universitat d'Andorra | 4.994.890,00 € | 0,00 |
+| Agència Estatal de Resolució d'Entitats Bancàries | 1.751.323,79 € | 0,00 |
+| Cambra de Comerç | 936.983,61 € | 0,00 |
+| Institut de l'Habitatge d'Andorra | 353.972,30 € | 0,00 |
+| EFPEM | 290.542,76 € | 0,00 |
+| Institut Andorrà de les Dones | 185.982,37 € | 0,00 |
+| Agència Andorrana Antidopatge | 182.239,48 € | 0,00 |
+| Fòrum Nacional de la Joventut d'Andorra | 144.605,93 € | 0,00 |
+
+**La CASS i el SAAS són el 92,5% d'aquest article.** **Les altres vuit entitats
+juntes —8.840.540,24 €— no arriben al 15% del que rep la CASS sola.**
+
+**Article 44 — empreses públiques, fundacions i altres ens: 31.205.860,77 €**
+
+| Entitat | Import 2026 | Pluriennals |
+| --- | ---: | ---: |
+| **Andorra Turisme, SAU** | **21.028.411,79 €** | **12.749.244,00 €** |
+| RTVA, SA | 5.349.092,69 € | 0,00 |
+| ADI, SAU | 2.607.700,82 € | 0,00 |
+| Fundació Andorra Recerca i Innovació | 1.694.850,47 € | 0,00 |
+| Fundació Museu Andorra | 460.000,00 € | 0,00 |
+| Ramaders d'Andorra, SA | 65.805,00 € | 0,00 |
+
+**Andorra Turisme rep el 67,4% de tot aquest article** i **gairebé quatre
+vegades el que rep la ràdio i la televisió públiques.** **És l'única d'aquestes
+sis amb compromisos pluriennals**, i en té **12,7 milions.**
+
+**I a l'extrem oposat, Ramaders d'Andorra, SA rep 65.805 €**: **el 0,3% del que
+rep Andorra Turisme**, i **menys que el lloguer anual d'una de les cinc seus
+que el SAAS té arrendades.**
+
+**Article 48 — famílies i institucions sense ànim de lucre, les línies amb nom
+propi**
+
+| Destinatari | Import 2026 |
+| --- | ---: |
+| **Fundació Privada Nostra Senyora de Meritxell** | **13.370.368,00 €** |
+| **Col·legi Janer i Sagrada Família** | **6.867.598,23 €** |
+| **Col·legi Sant Ermengol** | **5.757.270,00 €** |
+| Federacions i clubs esportius | 5.365.032,70 € |
+| Subvenció esport professional | 2.000.000,00 € |
+| A institucions sense finalitat de lucre (genèric) | 1.464.035,08 € |
+| ONCA | 185.000,00 € |
+| Comissió Nacional Andorrana per a la UNESCO | 131.593,34 € |
+| Escena Nacional d'Andorra | 100.000,00 € |
+| Patrimoni Religiós o de Culte | 64.000,00 € |
+| JONCA | 25.000,00 € |
+| Subvenció Transport Prades | 23.969,89 € |
+| Universitat d'Andorra *(línia secundària)* | 3.286,90 € |
+
+**L'orquestra nacional i la jove orquestra juntes —210.000 €— són l'1,6% del
+que rep la Fundació Meritxell**, i **l'Escena Nacional d'Andorra en rep
+100.000: la meitat de l'ONCA.**
+
+**Article 46 — corporacions locals: 53.073.955,16 €**
+
+| Concepte | Import 2026 |
+| --- | ---: |
+| **Transferències comunals** | **49.446.755,16 €** |
+| Tinença de vehicles | 3.600.000,00 € |
+| Tractament informàtic | 27.200,00 € |
+
+`Aquesta xifra no és la mateixa que els 78.486.912,94 € de transferències als
+comuns que recull [Els diners dels comuns](../../institucions/comuns-i-parroquies/els-diners-dels-comuns.md):
+aquella suma capítols diferents, i aquesta és només el capítol 4. El corpus no
+ha reconciliat encara les dues vies de càlcul.`
+
+**Article 47 — empreses privades: 21.195.567,33 €, amb 101.300.833,97 € de
+compromisos futurs**
+
+| Concepte | Import 2026 | Pluriennals |
+| --- | ---: | ---: |
+| **Línies de Transport Nacional Regular de Viatgers** | **11.685.655,46 €** | **93.423.469,91 €** |
+| A altres empreses privades | 8.216.350,67 € | 5.388.832,06 € |
+| Suport a la digitalització a empreses | 500.000,00 € | 0,00 |
+| Gestió de l'escorxador (ENA) | 346.661,28 € | 0,00 |
+| Concessió de l'Heliport Nacional | 265.000,00 € | 2.346.532,00 € |
+| Foment de la bicicleta elèctrica | 156.899,92 € | 142.000,00 € |
+| SECNOA | 25.000,00 € | 0,00 |
+
+**L'autobús és el 55,1% del que l'Estat transfereix a empreses privades**, i
+**el 92,2% de tot el que hi té compromès per als anys següents.** Vegeu
+[El que ja està compromès](el-que-ja-esta-compromes.md).
+
+## El deute: 15,5 milions d'interessos el 2026, 210,4 pendents
+
+**El capítol 3 —despeses financeres— és de 16.766.213,55 € el 2026**, però **la
+columna de pluriennals en porta 211.851.302,41.**
+
+| Concepte | 2026 | Pluriennals |
+| --- | ---: | ---: |
+| **Interessos de deute públic** | **15.475.000,00 €** | **210.404.041,10 €** |
+| Interessos de préstecs | 432.057,26 € | 347.261,31 € |
+| Interessos de pòlissa de crèdit | 580.000,00 € | 0,00 |
+| Comissions de serveis bancaris | 279.156,29 € | 1.100.000,00 € |
+
+**Els interessos ja compromesos del deute públic —210,4 milions— són tretze
+vegades i mitja el que se'n paga aquest any**, i **més del quart del pressupost
+sencer del 2026.** **Això és el preu del deute, no el deute.**
+
+`El corpus no té encara a quants anys s'estén aquesta xifra ni sobre quin
+principal es calcula.`
+
 ## Buits registrats
 
 - **Contrast BOPA tancat per als articles 1, 2 i 18:** mateix text després
