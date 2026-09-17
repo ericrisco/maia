@@ -168,8 +168,11 @@ revocar acords del parlament**
    «Llei Electoral» del Consell General— i que **harmonitzar-les es feia cas per
    cas**. I **que el copríncep encara legislava en matèria electoral quatre anys
    abans de la Constitució**. **Per tant «el sistema dels vuitanta» no
-   substitueix el del 1866: s'hi superposa.** `Segueix obert quan es promulga
-   aquella «Llei Electoral» i quin número té.`
+   substitueix el del 1866: s'hi superposa.** **I ara se'n sap el nom**: és **la Llei Electoral del
+   **13 de juliol i del 2 d'octubre de 1987**, citada per la disposició final
+   primera de la Llei de Referèndum de la Constitució
+   ([el referèndum constitucional del 1993](./el-referendum-constitucional-de-1993.md)).
+   `Requereix el text, que no és al BOPA perquè el butlletí comença el 1989.`
 3. **Els partits polítics andorrans.** **Prioritari.**
 4. **Resultats electorals**, cap.
 5. **El Reglament del Consell General**, criticat per tots dos autors i no

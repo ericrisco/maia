@@ -32,6 +32,82 @@ comissió tripartita formada pel Consell General i els coprínceps.**
 | **Participació** | **6.910** | — | **75,74 %** |
 | **Votants registrats** | **9.123** | — | — |
 
+## La llei que el va regular, llegida
+
+**Trobada al [BOPA](../../../fonts/bopa.md) el 17-09-2026**: **Llei de
+Referèndum de la Constitució del Principat d'Andorra, del 5 de febrer de 1993**
+(BOPA del 04-02-1993, `docs/raw/lleis/bopa/llei-5-2-1993-referendum-de-la-constitucio.txt`).
+**Deu articles i dues disposicions finals.** **No la fa el Consell General**:
+la signen, «en nom i representació d'ambdós Coprínceps», **els Delegats
+Permanents Nemesi Marquès i Pierre Steinmetz, a la Seu d'Urgell i Perpinyà.**
+
+**La pregunta, literal** (article 5):
+
+> «**Voteu a favor del Projecte de Constitució del Principat d'Andorra,
+> elaborat en concertació amb els serveis dels Coprínceps i adoptat pel Consell
+> General en sessió extraordinària celebrada el 2 de febrer de 1993?**»
+
+**El vot en blanc era vot nul.** L'article 6 no deixa marge:
+
+> «Es consideraran **vots nuls i sense cap efecte** els sobres electorals que
+> continguin **paperetes blanques**, més d'una papereta, paperetes esmenades i
+> aquelles on figurin inscripcions o altres marques.»
+
+**Això explica per què la taula de resultats d'aquesta fitxa agrupa «nuls o en
+blanc» en una sola casella de 301**: **el 1993 no eren dues categories.**
+**Hi havia paperetes blanques a la taula i el seu ús comptava com a nul** —
+**una cosa i la contrària alhora**, i **la llei vigent d'avui ja no ho fa així**
+([com es compten els vots](./com-es-compten-els-vots.md)).
+
+**El calendari del cens, amb data per a cada pas:**
+
+| Data del 1993 | Què |
+| --- | --- |
+| **10 de febrer** | Cada comú publica la **llista provisional d'electors** al tauler d'edictes |
+| **15 de febrer** | Últim dia per demanar la inscripció per escrit |
+| **18 de febrer** | Els comuns han de resoldre |
+| **23 de febrer** | Últim dia de recurs davant el **Govern** |
+| **25 de febrer** | El Govern resol |
+| **1 de març** | Es publiquen les **llistes definitives** |
+| **5 de març** | Últim dia de recurs al **Tribunal Administratiu i Fiscal** |
+| **13 de març** | Últim dia perquè una sentència encara canviï la llista |
+| **14 de març** | **Referèndum** |
+
+**Trenta-dos dies entre la primera llista i la votació**, i **el tribunal podia
+afegir o treure un elector el dia abans.**
+
+**I l'article 2 va obrir el cens**: «no seran d'aplicació les previsions de
+l'**article 14 de la Llei Electoral**» —és a dir, **per a aquest referèndum es
+va desactivar una restricció d'inscripció que sí que regia a les eleccions**.
+`Requereix el text de l'article 14 per saber a qui va deixar votar.`
+
+**Els interventors els posava qualsevol elector**: per formar part de la mesa
+n'hi havia prou amb **un nomenament escrit avalat per vint electors de la
+parròquia** (article 7). **No calia ser de cap candidatura, perquè no n'hi
+havia.**
+
+**El recompte el va fer la Comissió Permanent del Consell General i el va
+proclamar el síndic general** (article 9) —**no el cap de Govern**, com passa
+avui. **La regla d'aprovació és la mateixa que segueix vigent**: «quedarà
+aprovat **si el nombre de vots afirmatius supera el nombre de vots negatius**».
+**Sense quòrum de participació.**
+
+### I de passada, el nom de la llei electoral d'aleshores
+
+**La disposició final primera la cita**, i **és la peça que el corpus buscava**:
+
+> «**La Llei Electoral del 13 de juliol i del 2 d'octubre de 1987**, així com la
+> Llei de modificació de l'article 12 de la Llei Electoral, del 24 d'octubre de
+> 1989, seran d'aplicació en tot allò que no hagi estat previst i que no
+> s'oposi a la present Llei.»
+
+**El «sistema dels vuitanta» que
+[els tres sistemes electorals](./els-tres-sistemes-electorals.md) no sabia
+datar té data: 13 de juliol i 2 d'octubre de 1987.** **Dues dates per a una
+sola llei** —presumiblement dues sessions d'aprovació—, i **el text encara no
+és al corpus**: `Requereix el Butlletí del Consell General del 1987; el BOPA
+comença el 1989 i no el conté.`
+
 ## Una contradicció que no ho era
 
 **El corpus tenia, a
@@ -177,6 +253,9 @@ Vegeu [la política lingüística](../../llengua/politica-linguistica/README.md)
 - **L'*Especial Constitució* d'*El Periòdic d'Andorra*** del 14 de març del
   2017, **en PDF** — **dues pàgines citades, revista no llegida.**
 - **La memòria de reforma del 1978** i **el decret del 1981**: **textos.**
+- ~~La llei que va regular el referèndum.~~ — **`resolt` el 17-09-2026**, vegeu
+  més amunt. **I n'obre una de nova**: **l'article 14 de la Llei Electoral del
+  1987**, que aquell referèndum va desactivar expressament.
 
 ## Related
 
