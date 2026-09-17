@@ -171,8 +171,59 @@ ni al Vaticà.**
   **I situa el moment legal del canvi el 2013**, `sense que això vulgui dir que
   la pràctica s'acabés aleshores: una prohibició data la norma, no el
   comportament.` `Requereix quan comença la pràctica i si continua.`
-- **La llei andorrana de nacionalitat** i els seus terminis, literals. El corpus
-  no els té.
+- ~~**La llei andorrana de nacionalitat** i els seus terminis, literals. El corpus
+  no els té.~~ — **`resolt` el 17-09-2026 al [BOPA](../../../fonts/bopa.md)**,
+  amb **la cadena sencera i els terminis vigents**.
+
+  **La cadena normativa**, segons l'exposició de motius de la darrera reforma:
+
+  | Data | Norma |
+  | --- | --- |
+  | **17 de juny de 1939** | **Decret de nacionalitat andorrana d'origen i modes de la seva adquisició** —**la primera norma, preconstitucional** |
+  | 3 de setembre de 1993 | Llei qualificada de la nacionalitat, per mandat de l'article 7 de la Constitució |
+  | 21 de desembre de 1994 | Llei de modificació |
+  | **5 d'octubre de 1995** | **Llei qualificada de la nacionalitat** —**la que encara és la base** (`docs/raw/lleis/bopa/llei-qualificada-nacionalitat-1995.txt`) |
+  | **27 de maig del 2004** | **Llei 10/2004**: obre la naturalització per residència |
+  | 27 d'octubre del 2006 | Llei 15/2006: equipara fills biològics i adoptats |
+  | **7 de maig del 2026** | **Llei 8/2026**: reforma vint-i-dos articles (`docs/raw/lleis/bopa/llei-8-2026-mod-nacionalitat.txt`) |
+
+  **El termini general ha baixat una vegada i només una.** **La llei del 1995
+  el va fixar en vint-i-cinc anys** —«acredita haver tingut la seva residència
+  principal i permanent al Principat d'Andorra durant **els vint-i-cinc anys**
+  que precedeixen la presentació de la seva demanda»— **i la Llei 10/2004 el va
+  posar en vint**, on segueix.
+
+  **Els terminis vigents, després de la reforma del 2026:**
+
+  | Via | Residència exigida |
+  | --- | --- |
+  | **Naturalització general** (art. 11.1) | **20 anys**, **ara «de forma interrompuda o ininterrompudament»**, **més els 5 anys immediatament anteriors a la sol·licitud de manera principal i efectiva** |
+  | **Escolaritzats** (art. 11.2) | **10 anys** de residència **i 10 cursos escolars** en centres que imparteixin programes de formació andorrana |
+  | **Matrimoni** (art. 10.1) | **5 anys**, **abans o després** del casament |
+  | **Néts d'andorrà** | **15 anys ininterromputs** |
+  | **Qui havia perdut la nacionalitat** | **15 anys** |
+  | **Fills nascuts a l'estranger** d'andorrà també nascut a l'estranger | el progenitor ha d'acreditar **10 anys** |
+
+  **Tres condicions que no són de temps i que la fitxa no tenia.** **El
+  matrimoni exigeix que la convivència es mantingui fins que es resolgui
+  l'expedient**: trencar-la abans «fonamenta desestimar la sol·licitud i
+  l'arxivament de l'expedient» (art. 10.2). **Una condemna dolosa d'un any o
+  més de presó, o dues condemnes doloses, tanquen aquesta via mentre no es
+  cancel·lin els antecedents** (art. 10.3). **I el Govern pot denegar-la «per
+  raons d'ordre públic o d'interès nacional»** (art. 10.4), **sense més
+  concreció.** **A més, la nacionalitat obtinguda per matrimoni no es pot
+  tornar a transmetre per un altre matrimoni fins als vint anys de
+  residència** (art. 10.5).
+
+  **I una categoria que no s'assembla a res**: l'**article 14** dona la
+  nacionalitat andorrana **pel temps que s'exerceix el càrrec** a **els
+  representants personals dels coprínceps**, **el secretari general dels
+  Serveis del Copríncep Episcopal i el director del Gabinet del Representant
+  Personal del Copríncep Francès**, **els magistrats del Tribunal
+  Constitucional, del Tribunal Superior i del Tribunal de Corts**, i **els
+  clergues amb ofici eclesiàstic a les parròquies**. **No és transmissible ni
+  per matrimoni ni per filiació i no dona accés als drets polítics.**
+  **Andorrans mentre duri la feina, i sense vot.**
 - **Els drets econòmics dels estrangers a Andorra**: quin percentatge de societat
   podien posseir i des de quan.
 - **La bibliografia internacional sobre microestats**, que aquesta és l'única
