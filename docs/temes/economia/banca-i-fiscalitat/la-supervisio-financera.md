@@ -75,9 +75,43 @@ banc.**
 ## Buits registrats
 
 - **Quants bancs hi ha** i quina mida tenen, no consta al corpus.
-- **La supervisió prudencial** (116 articles sobre solvència, liquiditat, capital
+- ~~**La supervisió prudencial** (116 articles sobre solvència, liquiditat, capital
   de nivell 1 i 2) **no s'ha llegit**: el corpus sap qui supervisa, no amb quins
-  ràtios.
+  ràtios.~~ — **`resolt` el 17-09-2026** pel que fa als ràtios
+  (`docs/raw/lleis/supervisio-prudencial.txt`, **Llei 35/2018**). **Els
+  números que el corpus buscava són aquests:**
+
+  | Requisit | Xifra | Article |
+  | --- | --- | --- |
+  | **Coixí de conservació del capital** | **2,5%** de l'exposició total al risc, en capital de nivell 1 ordinari | 57.1 |
+  | **Coixí anticíclic** | **entre 0% i 2,5%**, en fraccions de **0,25 punts**, **i l'AFA el pot posar per damunt del 2,5%** | 58.4 |
+  | **Coixí per a entitats d'importància sistèmica (EIS)** | **fins al 3%**, i **més del 3% amb autorització prèvia del ministeri de Finances i informe preceptiu de l'AFA** | 59.2 i 59.2 bis |
+  | **Cobertura de liquiditat** | **mínim el 100%**, calculat per aguantar **trenta dies** de tensió | 81.1 i 81.4 |
+
+  **La liquiditat es reporta cada mes a l'AFA**, «expressades en una única
+  divisa, independentment de la seva denominació real» (article 81.5).
+
+  **Qui és entitat d'importància sistèmica es defineix per reglament**, sobre
+  almenys alguns de quatre criteris (article 59.1): **la mida**, **la
+  importància per a l'economia andorrana**, **la importància de les activitats
+  transfrontereres** i **la interconnexió amb el sistema financer**. **En un
+  país amb pocs bancs, el tercer criteri és el que hi afegeix Andorra: hi pot
+  haver una entitat petita i sistèmica.**
+
+  **I el que passa quan no s'arriba** és el més concret de tot (article 63):
+  **l'entitat té cinc dies hàbils** —**ampliables a deu per l'AFA**— **per
+  presentar un pla de conservació del capital** amb **previsió d'ingressos,
+  despeses i balanç**, **mesures per apujar els ràtios** i **un calendari
+  d'augment dels fons propis**. **L'AFA l'aprova només si «és raonablement
+  previsible» que serveixi.**
+
+  **Dues coses que la llei deixa fora d'ella mateixa i el corpus registra**:
+  **la metodologia del ràtio de palanquejament va a reglament** (article 84.2),
+  i **diversos apartats del text consolidat consten com a «sense contingut»**
+  —**els articles 57.3, 58.3 i 85 sencer**—, **cosa que indica supressions per
+  modificacions posteriors que el text refós no ha renumerat.**
+  `Requereix el reglament del palanquejament i saber quines entitats han estat
+  declarades EIS.`
 - ~~**La Llei 7/2024** (160 articles) sobre organització i funcionament de les
   entitats operatives és **la norma financera més llarga del recull** i queda
   sencera per llegir.~~ — **`resolt` el 17-09-2026**, recorreguda sencera
