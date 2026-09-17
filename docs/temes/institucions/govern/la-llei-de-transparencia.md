@@ -117,7 +117,37 @@ Documentació** (capítol cinquè).
   [el que no et deixen veure](./el-que-no-et-deixen-veure.md). Una de les dotze
   causes no té equivalent enlloc: **les relacions amb els coprínceps i els seus
   serveis**. Queda per llegir **l'article 12**, de protecció de dades.
-- **El títol IV, de govern obert**, queda per llegir. **La Comissió Nacional
+- ~~**El títol IV, de govern obert**, queda per llegir.~~ — **`resolt` el
+  17-09-2026**, llegit al material que el corpus ja tenia
+  (`docs/raw/lleis/transparencia.txt`). **Són els articles 29 a 32, i el que
+  val la pena no són els principis sinó les excepcions.**
+
+  **L'article 29 enumera sis principis** i exigeix **«un model híbrid, digital i
+  presencial»** —**la llei no deixa que el govern obert sigui només un web.**
+  **L'article 30.4 obliga cada administració a dotar-se d'una plataforma de
+  govern obert.**
+
+  **L'article 31.3 és el que ho fa exigible**, i té quatre deures concrets:
+  informar **amb antelació suficient**, subministrar la informació **«d'una
+  forma adequada, sistemàtica i entenedora»**, **valorar el resultat del procés
+  participatiu en el moment de decidir** —**«si escau»**—, i **informar de les
+  decisions i dels motius.**
+
+  **«Si escau» és la frase que buida l'apartat c).** **Els altres tres deures
+  són incondicionals i el de tenir en compte el resultat, no.**
+
+  **I l'article 31.4 exclou tres blocs de tota l'obligació de participar**, el
+  primer dels quals és **el que més s'usa a la pràctica**:
+
+  | | |
+  | --- | --- |
+  | **a)** | **Les actuacions que es tramiten o s'aproven amb caràcter d'urgència** |
+  | **b)** | Les que tenen com a únic objectiu la seguretat i salut pública |
+  | **c)** | Les que poden donar lloc als límits d'accés a la informació de la mateixa Llei |
+
+  **Declarar la urgència exclou la participació**, i **la llei no posa cap
+  condició a qui la declara.** `Requereix saber amb quina freqüència s'invoca
+  la urgència de l'article 31.4.a); és una dada d'execució.` **La Comissió Nacional
   d'Accés i Avaluació de la Documentació, llegida el 14-09-2026**
   ([El registre del que ja no hi és](../../cultura/museus-i-arxius/el-registre-del-que-ja-no-hi-es.md)):
   és **l'òrgan que aprova els procediments d'eliminació de documentació**, i els
