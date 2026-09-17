@@ -150,6 +150,51 @@ romana»**. **Cap decisió no és vàlida si no la prenen tots dos.**
 **El bloqueig mutu com a garantia de llibertat.** Vegeu
 [el Coprincipat](../coprincipat/el-coprincipat.md).
 
+## El document que hi posa el punt final — 3 de juny de 1993
+
+**Afegit el 17-09-2026 des del [BOPA](../../../fonts/bopa.md).** **Aquesta
+fitxa parlava del reconeixement i no tenia el paper que el fa.** **És el
+*Tractat de bon veïnatge, d'amistat i de cooperació entre el Principat
+d'Andorra, la República francesa i el Regne d'Espanya*, signat el 3 de juny de
+1993** —**un mes just després que la Constitució entrés en vigor**—, publicat
+al butlletí del **20 de juliol de 1993** i **aprovat pel Consell General el 4 de
+novembre**
+(`docs/raw/lleis/bopa/tractat-bon-veinatge-1993-07-20.txt`).
+
+**L'article primer té una sola frase:**
+
+> «**La República francesa i el Regne d'Espanya reconeixen el Principat
+> d'Andorra com a Estat sobirà.**»
+
+**I l'article segon en dona la conseqüència pràctica**: **els dos estats
+estableixen relacions diplomàtiques amb Andorra** i **«faciliten la participació
+del Principat a les conferències i organitzacions internacionals i també el seu
+accés als convenis internacionals».** **El que
+[qui parlava per Andorra](./qui-parlava-per-andorra.md) descriu com a impedit
+—obrir consolats, ser-hi per compte propi— queda desbloquejat per aquest
+article.**
+
+**El preu hi és escrit.** **L'article 5è és una obligació unilateral d'Andorra**:
+
+> «El Principat d'Andorra es compromet a **no emprendre, ja sigui des del seu
+> territori o en el seu territori, res que pugui atemptar contra la seguretat
+> interior i exterior** de la República francesa o del Regne d'Espanya o contra
+> els seus compromisos internacionals en aquest àmbit.»
+
+**I dos articles preveuen que Andorra encara no es pugui representar sola.**
+**L'article 6è**: si no assegura la seva protecció diplomàtica en un estat
+tercer, **la demana a França o a Espanya**, i les modalitats es fixen «**segons
+un principi d'equilibri**» entre les dues. **L'article 7è**: **on Andorra no
+tingui consolat, els seus súbdits poden acollir-se a la protecció consular dels
+veïns.** **La paritat del Coprincipat, traduïda a dret internacional.**
+
+**La garantia territorial de l'article 3r és de consulta, no d'intervenció**:
+França i Espanya «respecten la sobirania i la independència […] i també la
+integritat del seu territori», i en cas de violació o amenaça es comprometen a
+**«dur a terme, entre ells i amb el Govern andorrà, consultes per tal
+d'examinar les mesures que podrien revelar-se necessàries»**. **El tractat diu
+que es parlaran; no diu què faran.**
+
 ## Buits registrats
 
 - **La sentència de la Cour de Cassation de 1971** sencera: número, parts,
