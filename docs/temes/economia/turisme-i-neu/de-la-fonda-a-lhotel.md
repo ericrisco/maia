@@ -121,6 +121,57 @@ Que el centre termal fos a **Escaldes** no és casual: el nom ho diu. Vegeu
 **Buit registrat:** la història del **termalisme** andorrà — quan comença, qui hi
 venia, què en queda. El corpus no en té fitxa i és un eix sencer.
 
+## El parc hoteler d'avui, i que ja no creix
+
+El Departament d'Estadística el compta cada any (activitat **A125**). **L'any
+2025**: **218 allotjaments** de modalitat hotelera i apartaments turístics
+—**163 hotels**, 29 apartaments turístics, 15 aparthotels, 8 hostals o
+residències i 3 pensions— amb **29.661 llits**.
+
+**Per parròquia**, nombre d'establiments i **llits el 2025**:
+
+| Parròquia | Establiments | Llits |
+| --- | --- | --- |
+| Encamp | **51** | 5.823 |
+| Canillo | 43 | **6.091** |
+| La Massana | 34 | — |
+| Andorra la Vella | 32 | — |
+| Escaldes-Engordany | 27 | — |
+| Ordino | 23 | 1.767 |
+| Sant Julià de Lòria | **8** | — |
+| **Total** | **218** | **29.661** |
+
+**La xifra que no s'esperaria de llegir és que el parc s'encongeix.** Els llits
+van de **31.211 el 2021 a 29.661 el 2025**: **−5,0% en quatre anys**. I el gràfic
+de la mateixa nota arrenca el **2014** amb uns **34.000 llits**: **el país té
+menys places hoteleres que fa una dècada**.
+
+**I l'encongiment és de gamma alta.** Els llits de **quatre estrelles** cauen de
+**15.181 el 2014 a 13.129 el 2025**; els de **cinc** són **2.124**, per sota dels
+2.497 del 2023. **Els que creixen són els d'una i dues estrelles**: de **4.560**
+el 2014 a **3.565** el 2025 després d'un mínim, i els de tres es mantenen a
+**10.527**.
+
+**El parc real és molt més gran que l'hoteler.** A part dels 218 establiments hi
+ha **165 altres allotjaments turístics classificats**, i els que pesen són els
+**habitatges d'ús turístic**: **107 empreses d'explotació (EGHUT)** que gestionen
+**2.358 habitatges** i **11.403 llits**. Amb tot plegat, **més de 42.201 places**
+—sense comptar-hi els refugis no guardats, els càmpings ni les zones d'acampada.
+
+**També hi ha 28 refugis de muntanya** —**21 d'ells no guardats**—, **17
+allotjaments rurals**, **6 albergs de joventut**, **5 càmpings**, **1 zona
+d'acampada** i **1 casa de colònies**.
+
+**Els habitatges d'ús turístic també baixen**: de **2.716 el 2022 a 2.358 el
+2025**, i els seus llits de **12.969 a 11.403**. **Des de la Llei 16/2017 la
+classificació per estrelles dels HUT és voluntària**, i per això **2.090 dels
+2.358 no en tenen cap**.
+
+**Quanta gent ve, per contrast.** L'enquesta de moviments turístics a les
+fronteres (**A123**) dona **685.096 visitants el novembre del 2025** i **768.866
+el desembre** (+12,2%). **Un sol mes d'hivern porta més visitants que vint-i-cinc
+vegades la població del país.**
+
 ## Buits registrats
 
 1. **Quins van ser els intents fallits** de gran centre turístic: qui els
@@ -128,7 +179,11 @@ venia, què en queda. El corpus no en té fitxa i és un eix sencer.
 2. **Els primers hotels balnearis** d'Escaldes: noms i dates.
 3. **El termalisme** com a branca.
 4. **Quan arriben els esports d'hivern** i quina estació és la primera.
-5. **Xifres**: places hoteleres per dècades.
+5. **Xifres**: places hoteleres per dècades. — **`parcial` el 17-09-2026 per la
+   via d'Estadística** (activitat **A125**): vegeu
+   [El parc hoteler d'avui, i que ja no creix](#el-parc-hoteler-davui-i-que-ja-no-creix).
+   `La sèrie publicada arrenca el 2014; per dècades anteriors encara cal una
+   altra font.`
 6. **Quines famílies** hoteleres continuen, i des de quin hostal comunal.
 7. **L'Hostal Valira**, on es va allotjar Skossyreff el 1934, «recentment
    inaugurat».

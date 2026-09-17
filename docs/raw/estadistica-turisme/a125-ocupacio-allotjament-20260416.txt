@@ -1,0 +1,376 @@
+                              A125. Estadística d’ocupació de l’allotjament turístic. Any 2025
+                                           Data de publicació: dijous, 16/04/2026
+                                                    www.estadistica.ad
+
+
+
+
+         Resum
+
+
+
+         El nombre total d’allotjaments turístics de la modalitat hotelera (inclou hotels, aparthotels,
+         hostals, residències i pensions) i de la modalitat apartaments turístics classificats del 2025 se
+         situa en 218 i el nombre total de llits és de 29.661. D’aquests allotjaments turístics, 163 són
+         hotels, 29 apartaments turístics, 15 aparthotels, 8 hostals o residències i 3 pensions.
+
+         Per altra banda, també hi ha classificats 165 altres allotjaments turístics, entre els quals
+         destaquen les 107 empreses d’explotació d’habitatges d’ús turístic (EGHUT), que representen
+         2.358 habitatges d’ús turístic (HUT) i un total d’11.403 llits; 17 allotjaments rurals, 28 refugis de
+         muntanya (dels quals 21 són refugis no guardats), 5 càmpings, 6 albergs de joventut, 1 zona
+         d’acampada i 1 casa de colònies.
+
+         En total, es troben més de 40.000 places disponibles (42.201) entre els diferents tipus
+         d’allotjaments del país1.
+
+
+
+
+         1
+             Sense incloure les places de refugis de muntanya no guardats, ni càmpings ni zones d’acampada.
+
+
+
+
+NP_A125_20260416                                                                                                 Pàgina 1 de 8
+                             A125. Estadística d’ocupació de l’allotjament turístic. Any 2025
+
+
+
+
+         Índex
+
+         1. Allotjaments turístics (modalitat hotelera i apartaments turístics) per parròquia .......................... 3
+         2. Allotjaments turístics (modalitat hotelera i apartaments turístics) per tipologia i categoria .......... 4
+         3. Evolució del nombre de llits disponibles (modalitat hotelera i apartaments turístics) ................... 5
+         4. Altres modalitats d’allotjaments turístics ....................................................................................... 6
+         5. Nota metodològica ........................................................................................................................ 7
+         6. Dates de les publicacions previstes .............................................................................................. 8
+
+
+
+
+NP_A125_20260416                                                                                                                                   Pàgina 2 de 8
+                       A125. Estadística d’ocupació de l’allotjament turístic. Any 2025
+
+
+         1. Allotjaments turístics (modalitat hotelera i apartaments turístics) per parròquia
+
+
+                                            Allotjaments turístics per parròquia
+
+                    Parròquies                           2021          2022       2023              2024      2025
+                    Canillo                                43            45          43              43         43
+                    Encamp                                 47            53          51              51         51
+                    Ordino                                 24            24          22              23         23
+                    La Massana                             35            33          33              34         34
+                    Andorra la Vella                       31            34          33              33         32
+                    Sant Julià de Lòria                      8            9            9               8         8
+                    Escaldes-Engordany                     28            28          27              27         27
+                    Total                                 216          226         218              219        218
+
+                       Inclou hotels, hostals o residències, pensions, aparthotels i apartaments turístics.
+
+
+                                             Nombre de llits en allotjaments turístics
+
+                        Parròquies                         2021         2022        2023            2024      2025
+                        Canillo                            6.742        7.037      6.685            6.560     6.091
+                        Encamp                             5.343        6.155      5.842            5.790     5.823
+                        Ordino                             1.920        1.944      1.711            1.768     1.767
+                        La Massana                         5.110        4.581      4.832            4.818     4.824
+                        Andorra la Vella                   5.901        5.961      5.995            5.705     5.578
+                        Sant Julià de Lòria                  771         906          906            856       952
+                        Escaldes-Engordany                 5.424        5.152      4.670            4.796     4.626
+                        Total                            31.211        31.736     30.641        30.293      29.661
+                       Inclou hotels, hostals o residències, pensions, aparthotels i apartaments turístics.
+
+
+
+         La dada sobre el nombre total de llits és el resultat de la suma de les capacitats que cada
+         establiment ha declarat omplint el full de serveis i de preus. Aquesta declaració és fa mitjançant
+         el Registre d’Ocupació d’Allotjaments Turístics (ROAT). La reducció de capacitat en 632 llits
+         correspon sobretot a una disminució del nombre de llits en hotels (-532), apartaments turístics
+         (-86), pensions (-50) i hostals o residències (-24) tot i que hi ha hagut un augment en llits pel
+         que fa als aparthotels (+60).
+
+
+                                        Distribució dels allotjaments turístics
+
+                                                           Escaldes-
+                                                           Engordany
+                                                             12,4%
+                                                                                 Canillo
+                                         Sant Julià de                           19,7%
+                                            Lòria
+                                             3,7%
+
+
+
+
+                                      Andorra la
+                                        Vella
+                                        14,7%
+                                                                                           Encamp
+                                                                                            23,4%
+
+                                          La Massana
+                                             15,6%
+
+                                                                        Ordino
+                                                                        10,6%
+
+
+
+
+NP_A125_20260416                                                                                                      Pàgina 3 de 8
+                      A125. Estadística d’ocupació de l’allotjament turístic. Any 2025
+
+
+         2. Allotjaments turístics (modalitat hotelera i apartaments turístics) per tipologia i
+         categoria
+
+
+
+                                         Allotjaments turístics per tipologia i categoria
+
+                                                           2021        2022         2023        2024          2025
+                       Pensió                                  5            4           4           4            3
+                       Hostal o residència                     9            9           8           8            8
+                       Apartament turístic                    24          27          25           29           29
+                       ✰                                       2            2           3           4            4
+                       ✰✰                                      9          11          10            8            8
+                       ✰✰✰                                    12          13          11           16           16
+                       ✰✰✰✰                                    1            1           1           1            1
+                       Aparthotel                             19          19          16           15           15
+                       ✰                                       2            2           1           1            1
+                       ✰✰                                      3            3           3           3            3
+                       ✰✰✰                                    10          10            9           9            9
+                       ✰✰✰✰                                    3            3           2           1            1
+                       ✰✰✰✰✰                                   1            1           1           1            1
+                       Hotel                                 159         167         165         163           163
+                       ✰                                       0            2           2           2            2
+                       ✰✰                                     20          23          22           21           23
+                       ✰✰✰                                    74          79          77           76           74
+                       ✰✰✰✰                                   59          54          54           54           55
+                       ✰✰✰✰✰                                   6            9         10           10            9
+                       Total establiments                    216         226         218         219           218
+                       Inclou hotels, hostals o residències, pensions, aparthotels i apartaments turístics.
+
+
+
+
+NP_A125_20260416                                                                                                     Pàgina 4 de 8
+                           A125. Estadística d’ocupació de l’allotjament turístic. Any 2025
+
+
+         3. Evolució del nombre de llits disponibles (modalitat hotelera i apartaments turístics)
+
+
+
+                                                  Nombre de llits en allotjaments turístics per categoria
+
+                               Estrelles                           2021            2022           2023       2024       2025
+                               Sense categoria                       508            430           382         390           316
+                               ✰ i ✰✰                              3.061           4.041      3.724          3.360      3.565
+                               ✰✰✰                                10.309          11.089     10.492         10.756     10.527
+                               ✰✰✰✰                               15.556          13.742     13.546         13.322     13.129
+                               ✰✰✰✰✰                               1.777           2.434      2.497          2.465      2.124
+                               Total                              31.211          31.736     30.641         30.293     29.661
+                            Inclou hotels, hostals o residències, pensions, aparthotels i apartaments turístics.
+
+
+
+
+                                Evolució del nombre de llits per categoria de l'allotjament turístic
+                                            (modalitat hotelera i apartament turístic)
+           18.000
+
+           16.000      15.181
+
+
+           14.000                                                                                                            13.129
+
+
+           12.000
+                       12.369                                                                                                 10.527
+           10.000
+
+            8.000
+
+            6.000
+                       4.560
+                                                                                                                                  3.565
+            4.000
+
+                       1.909                                                                                                      2.124
+            2.000
+                                                                                                                                  316
+                   0
+                        2014      2015        2016        2017   2018      2019     2020   2021     2022     2023    2024     2025
+                                        Sense categoria           ✰ i ✰✰             ✰✰✰             ✰✰✰✰             ✰✰✰✰✰
+
+
+
+
+NP_A125_20260416                                                                                                                        Pàgina 5 de 8
+                       A125. Estadística d’ocupació de l’allotjament turístic. Any 2025
+
+
+         4. Altres modalitats d’allotjaments turístics
+
+
+
+                                                      Habitatges d'ús turístic
+
+                                                           2021       2022        2023       2024        2025
+                         Empreses                            83         102        108         108        107
+                         Habitatges                       2.593       2.716      2.652       2.622      2.358
+                         Sense categoria*                 2.523       2.619      2.440       2.331      2.090
+                         ✰                                     0          0           0           0          0
+                         ✰✰                                    0          0           0           0          0
+                         ✰✰✰                                 60          71          74         74          74
+                         ✰✰✰✰                                  4          3           2           1          1
+                         ✰✰✰✰✰                                 6         23        136         216        193
+                         Llits                           12.323     12.969      12.730     12.621      11.403
+                         Sense categoria*                11.960     12.470      11.586     11.082       9.990
+                         ✰                                     0          0           0           0          0
+                         ✰✰                                    0          0           0           0          0
+                         ✰✰✰                                297         341        358         358        358
+                         ✰✰✰✰                                26          22          12           6          6
+                         ✰✰✰✰✰                               40         136        774       1.175      1.049
+                             * Amb la nova Llei 16/2017, la classificació dels HUT per estrelles es voluntària.
+
+
+
+                                                         Altres allotjaments
+
+                                                           2021       2022        2023       2024        2025
+                         Zona d'acampada                       1          1           1          1           1
+                         Càmpings                              5          5           5          5           5
+                         ✰                                     3          3           3          3           3
+                         ✰✰                                    2          2           2          2           2
+                         Cases de Colònies                     1          1           1          1           1
+                         Refugis de Muntanya                  28         29          29         28          28
+                         Sense categoria                      22         22          24         21          21
+                         ✰                                     0          0           0          2           2
+                         ✰✰                                    6          7           5          5           5
+                         Albergs de Joventut                   2          5           5          5           6
+                         Allotjaments rurals*                  9         12          12         14          17
+                         1 espiga                              0          0           0          0           0
+                         3 espigues                            3          6           6          7           7
+                         4 espigues                            6          6           6          7          10
+                         Total                                46         53          53         54          58
+                             * Per als allotjaments rurals, la classificació és per espigues en comptes d’estrelles.
+                             ** Els refugis no guardats s’inclouen en els refugis sense categoria.
+
+         A partir de l’entrada en vigor de la Llei 16/2017, general de l’allotjament turístic, els apartaments
+         moblats per a vacances es denominen habitatges d’ús turístic (HUT).
+         A diferència dels establiments classificats en els punts anteriors, els apartaments moblats per
+         vacances, anomenats HUT a partir del 3 d’agost del 2017, es classifiquen majoritàriament com
+         a “sense categoria”.
+
+
+
+NP_A125_20260416                                                                                                       Pàgina 6 de 8
+                         A125. Estadística d’ocupació de l’allotjament turístic. Any 2025
+
+
+         5. Nota metodològica
+
+             •     Font. L’Àrea de Turisme del Ministeri de Turisme del Govern d’Andorra gestiona la
+                   classificació dels allotjaments turístics del Principat. La reglamentació vigent classifica
+                   els establiments per categories (estrelles). Les dades presentades són dels
+                   establiments classificats a 31 de desembre de cada any, tractades i revisades pel
+                   Departament d’Estadística i disponibles al web www.estadistica.ad en el banc de dades
+                   dins de l’apartat “Hoteleria i turisme/Hosteleria”.
+
+                   La dada sobre el nombre total de llits és el resultat de la suma de les capacitats que
+                   cada establiment ha declarat omplint el full de serveis i de preus. Aquesta declaració és
+                   fa mitjançant el ROAT.
+
+
+             •     Definicions.
+
+                    -   En la nota de premsa s’utilitza el concepte d’allotjament turístic per referir-se a
+                        qualsevol tipologia i categoria d’allotjament: hotels, aparthotels, pensions, etc.
+                        distingint també quan s’escau entre establiments hotelers i apartaments turístics.
+                    -   En les sèries de la base de dades (http://www.estadistica.ad) s’utilitza el concepte
+                        “Allotjaments turístics” i “Altres allotjaments turístics”.
+                    -   Dins el web www.turisme.ad podeu trobar més detall i també les sol·licituds per a
+                        la classificació dels allotjaments turístics del país.
+
+             •     Legislació.
+
+                    -   BOPA 14 – 29/05/2002           Decret de 22-5-2002 pel qual s’aprova el Reglament
+                        regulador de les reclamacions en matèria d’allotjaments turístics.
+                    -   BOPA 46 any 2018 (1 d'agost de 2018) Decret del 25-07-2018 d’aprovació del
+                        Reglament regulador de la classificació dels establiments d’allotjament turístic de
+                        la modalitat hotelera.
+                    -   BOPA 19 - 24/04/2013           Decret del 17-04-2013 pel qual s’aprova el Reglament
+                        d’aplicació de la Llei 8/2012 del 17 de maig, de modificació de la Llei general de
+                        l’allotjament turístic del 30 de juny del 1998 per a la classificació dels allotjaments
+                        rurals i per a la utilització del segell oficial de control i garantia “Placa de
+                        classificació casa/borda rural d’Andorra”.
+                    -   BOPA 20 - 02/05/2013           Annex I del Reglament - Criteris Constructius per a
+                        edificis destinats a l’allotjament turístic rural.
+                    -   BOPA 60 - 18/12/2013           Decret de l’11-12-2013 de modificació de l’article 5 i
+                        dels annexos 2 i 3 del Decret del 17-04-2013 del Reglament d’aplicació de la Llei
+                        8/2012, del 17 de maig, de modificació de la Llei general de l’allotjament turístic,
+                        del 30 de juny del 1998, per a la classificació dels allotjaments rurals i per a la
+                        utilització del segell oficial de control i garantia “Placa de classificació casa/borda
+                        rural d’Andorra”.
+                    -   BOPA 52 – 02/08/2017 Llei 16/2017, del 13 de juliol, general de l’allotjament
+                        turístic.
+                    -   BOPA 25 - 02/05/2018 Decret del 25 d’abril del 2018 d’aprovació del reglament de
+                        funcionament del registre d’habitatges d’ús turístic (HUT) i d’empreses de gestió
+                        d’habitatges d’ús turístic (EGHUT).
+                    -   BOPA 25 - 02/05/2018 Decret del 25 d’abril del 2018 d’aprovació del reglament
+                        regulador de la classificació dels habitatges d’ús turístic (HUT)
+                    -   BOPA 11 - 06/02/2019 Decret del 30-01-2019 de modificació del Reglament de
+                        funcionament del Registre d’Habitatges d’Ús Turístic (HUT) i d’Empreses de
+                        Gestió d’Habitatges d’Ús Turístic (EGHUT).
+                    -   BOPA 25 - 02/05/2018 Decret del 25 d’abril del 2018 pel qual s’aprova el
+                        Reglament del Registre d’Ocupació d’Allotjaments Turístics (ROAT).
+
+
+
+NP_A125_20260416                                                                                                  Pàgina 7 de 8
+                         A125. Estadística d’ocupació de l’allotjament turístic. Any 2025
+
+
+             •     Metodologies. Les dades d’allotjaments turístics classificats a final d’any pel
+                   Departament de Turisme s’agrupen i es tracten segons les diferents sèries definides
+                   pel Departament d’Estadística. A la web www.visitandorra.com podeu trobar el llistat
+                   dels establiments classificats.
+
+             •     Citació. Per a qualsevol utilització de la informació continguda en aquesta nota de
+                   premsa, preguem citeu: “Dades del Ministeri de Turisme, tractades pel Departament
+                   d’Estadística per a la Nota de Premsa ref. NP_A125_20260416”.
+
+             •     Marc legal. D’acord amb les previsions de la Llei del Pla d’estadística 2026-2029 i el
+                   seu desplegament en el Programa estadístic per a l’any 2026, aquest informe dona
+                   resposta a l’activitat estadística: A125. Estadística d’ocupació de l’allotjament turístic.
+
+             •     Difusió.    Dades      disponibles   al  web      www.estadistica.ad,     a     l’apartat
+                   Estadístiques/Dades/Estadístiques sectorials/Hoteleria i turisme. Per estar informat en
+                   qualsevol moment de les noves publicacions us podeu inscriure a la nostra “Alerta
+                   informativa” a la nostra web. També hi podeu trobar l’històric de les notes de premsa
+                   d’aquest tema: http://www.estadistica.ad
+
+                   Amb l’objectiu de maximitzar la difusió de la informació estadística d’Andorra, les Notes
+                   de Premsa del Departament d’Estadística es podran seguir també per Twitter
+                   (actualment X)
+
+
+
+         6. Dates de les publicacions previstes
+
+         Nota de premsa. A125 Estadística d’ocupació de l’allotjament turístic. Allotjaments turístics. Any
+         2026: 1r trimestre del 2027
+
+
+
+
+NP_A125_20260416                                                                                                 Pàgina 8 de 8
+

@@ -1,0 +1,566 @@
+             A123. Enquesta de moviments turístics a les fronteres.
+
+                               Novembre i desembre 2025
+                              Data de publicació: dijous 19/02/2026
+
+                                       www.estadistica.ad
+
+
+
+Resum
+
+
+
+Al novembre del 2025, el nombre de visitants va ser de 685.096, mentre que al desembre va
+augmentar un 12,2% fins a assolir un total de 768.866.
+
+Durant els darrers dos mesos de l’any 2025 van entrar al país un total de 1.453.962 visitants,
+dels quals 665.086 van ser turistes i 788.876 excursionistes.
+
+Al novembre van entrar 223.841 turistes i 461.255 excursionistes, que corresponen al 32.7 % i
+67,3% respectivament del total de visitants del mes. En canvi, al mes de desembre es van
+comptabilitzar 441.245 turistes (57,4%) i 327.621 excursionistes (42,6%), fet que mostra un
+increment de la proporció de turistes en relació amb el mes anterior.
+
+Durant els darrers mesos de l’any 2025, s’ha dut a terme una revisió metodològica amb l’objectiu
+d’adaptar el càlcul del nombre de visitants tenint en compte dades més ajustades. La revisió ha
+estat validada mitjançant comparacions amb dades oficials i controls interns de qualitat, garantint
+que les estimacions publicades reflecteixin amb major precisió la realitat estadística. A la secció
+3 d’aquest informe, s’expliquen els canvis que s’han produït al aplicar aquesta revisió
+metodològica.
+                                           A123. Enquesta de moviments turístics a les fronteres.
+
+
+
+         Índex
+
+         1.   Moviments turístics a les fronteres ....................................................................................... 3
+         2.   Característiques socioeconòmiques ..................................................................................... 5
+           2.1 Tipus de relació dels visitants ............................................................................................. 5
+           2.2 Trams d’edat dels visitants.................................................................................................. 6
+           2.3 Motius de visita ................................................................................................................... 6
+           2.4 Característiques de les pernoctacions ................................................................................ 7
+           2.5 Característiques de l’allotjament dels turistes..................................................................... 9
+         3.   Revisió metodològica .......................................................................................................... 11
+         4    Nota Metodològica .............................................................................................................. 12
+         5.   Dates de les publicacions previstes ................................................................................... 16
+
+
+
+
+NP-A123_20260219                                                                                                                             Pàg. 2 de 16
+                                   A123. Enquesta de moviments turístics a les fronteres.
+
+
+
+           1. Moviments turístics a les fronteres
+
+
+         Al novembre de 2025 van entrar al país un total de 685.096 visitants, dels quals 461.255 van ser
+         excursionistes (67,3%) i 223.841 turistes (32,7%). Pel que fa al país de residència, els visitants
+         espanyols van representar el 47,5% del total, seguits pels visitants francesos amb un 40,4%,
+         mentre que els visitants d’altres procedències van suposar el 12,1% restant.
+
+         Al desembre, en canvi, el volum va créixer fins als 768.866 visitants, amb una proporció invertida
+         de la tipologia dels visitants, els turistes van ser majoritaris (57,4%) i els excursionistes van
+         representar el 42,6%. En relació amb el país de residència, els espanyols van concentrar el
+         62,8% del total, els francesos el 24,9%, i els visitants d’altres procedències el 12,4%.
+
+
+
+
+                                                                        nov-25        des-25
+
+                        Visitants                                         685.096       768.866
+                             Visitants espanyols                          333.347       482.640
+                             Visitants francesos                          297.895       191.185
+                             Visitants d'altres nacionalitats              53.854           95.041
+                        Turistes                                          223.841       441.245
+                             Turistes espanyols                           166.540       326.417
+                             Turistes francesos                            41.144           38.477
+                             Turistes d'altres nacionalitats               16.157           76.351
+                        Excursionistes                                    461.255       327.621
+                             Excursionistes espanyols                     166.807       156.223
+                             Excursionistes francesos                     256.751       152.708
+                             Excursionistes d'altres nacionalitats         37.697           18.690
+
+
+
+         En el període comprès entre novembre i desembre del 2025, es van comptabilitzar un total de
+         1.453.962 visitants, amb 665.086 turistes (45,7%) i 788.876 excursionistes (54,3%).
+
+         En termes acumulats dels darrers dos mesos de l’any 2025, pel que fa al país de residència, els
+         visitants espanyols van representar el 56,1% del total, els francesos el 33,6%, mentre que els
+         visitants d’altres procedències van suposar el 10,2% restant.
+
+
+
+
+NP-A123_20260219                                                                                     Pàg. 3 de 16
+                                    A123. Enquesta de moviments turístics a les fronteres.
+
+
+
+
+                                                                   nov-25        des-25       Total
+
+                   Visitants                                        685.096        768.866   1.453.962
+                       Visitants espanyols                          333.347        482.640    815.987
+                       Visitants francesos                          297.895        191.185    489.080
+                       Visitants d'altres nacionalitats               53.854        95.041    148.895
+                   Turistes                                         223.841        441.245    665.086
+                       Turistes espanyols                           166.540        326.417    492.957
+                       Turistes francesos                             41.144        38.477     79.621
+                       Turistes d'altres nacionalitats                16.157        76.351     92.508
+                   Excursionistes                                   461.255        327.621    788.876
+                       Excursionistes espanyols                     166.807        156.223    323.030
+                       Excursionistes francesos                     256.751        152.708    409.459
+                       Excursionistes d'altres nacionalitats          37.697        18.690     56.387
+
+
+
+
+NP-A123_20260219                                                                                         Pàg. 4 de 16
+                               A123. Enquesta de moviments turístics a les fronteres.
+
+
+
+
+             2. Característiques socioeconòmiques
+
+
+          2.1 Tipus de relació dels visitants
+
+
+
+
+                                                       nov-25     des-25
+
+                                         Família          31,3%       43,4%
+                                         Parella          41,7%       34,0%
+                                         Amics            17,5%       15,2%
+                                         Sols              8,4%       6,5%
+                                         Altres            1,2%       0,9%
+
+
+
+
+NP-A123_20260219                                                                        Pàg. 5 de 16
+                                      A123. Enquesta de moviments turístics a les fronteres.
+
+
+
+          2.2 Trams d’edat dels visitants
+
+
+                             Global          Espanyols         Francesos            Altres
+                      Novembre Desembre Novembre Desembre Novembre Desembre Novembre     Desembre
+         0 a 5 anys        2,0%      2,5%    2,4%       3,1%   1,1%       1,7%   3,3%         2,1%
+         6 a 14 anys       3,2%      6,0%    4,5%       7,6%   1,3%       2,5%   3,3%        10,0%
+         15 a 24 anys      7,2%     11,9%    7,7%      13,9%   7,0%       9,5%   5,1%         8,0%
+         25 a 44 anys     31,2%     35,7%   34,4%      37,9%  26,4%      30,2%  32,9%        45,7%
+         45 a 64 anys     34,7%     29,8%   35,3%      27,8%  33,8%      33,6%  35,0%        27,3%
+         65 i +           21,7%     14,0%   15,7%       9,7%  30,4%      22,5%  20,4%         6,9%
+
+
+
+
+          2.3 Motius de visita
+
+
+         Pel que fa al motiu principal de la visita, tant al novembre com al desembre va ser les compres,
+         que van representar el 51,5% dels visitants al novembre i el 42,3% al desembre. En el cas dels
+         turistes, al novembre les compres van ser també el motiu predominant, mentre que al desembre
+         el principal motiu de la seva estada va ser la de practicar esport.
+
+
+                                                                   GLOBAL             Excursionistes       Turistes
+                                                             Novembre    Desembre   Novembre Desembre Novembre Desembre
+         Practicar esport (escalada, btt, trekking… )             2,9%     23,2%         0,9%  6,0%        4,5%  34,1%
+         Oci cultural (esdeveniments, visites a museus...)        7,2%     7,5%          0,6%  0,7%       12,5%  11,7%
+         Benestar, salut, termalisme                             11,3%     7,8%          1,1%  0,6%       19,6%  12,4%
+         Gastronomia                                              1,9%     0,6%          0,1%  0,1%        3,4%   0,9%
+         Visita a familiars i amics                               7,5%     5,0%          1,4%  1,7%       12,5%   7,1%
+         Natura (passejar a la muntanya… )                       10,2%     8,4%          1,7%  4,5%       17,2%  10,8%
+         Compres                                                 51,5%     42,3%        86,0%  79,0%      23,4%  19,1%
+         Treball (no fronterer)                                   3,4%     1,1%          3,0%  1,4%        3,7%   0,9%
+         Negocis, congressos, fires                               0,6%     0,4%          0,4%  0,7%        0,8%   0,2%
+         De pas                                                   2,7%     2,9%          4,3%  4,7%        1,4%   1,7%
+         Altres                                                   0,8%     0,9%          0,5%  0,7%        1,0%   1,1%
+
+
+
+
+NP-A123_20260219                                                                                           Pàg. 6 de 16
+                                A123. Enquesta de moviments turístics a les fronteres.
+
+
+
+
+          2.4 Característiques de les pernoctacions
+
+
+         Pernoctació mitjana dels turistes segons la seva nacionalitat.
+
+
+                                                         nov-25    des-25
+                                          Espanyols       2,3       2,8
+                                          Francesos       2,4       2,8
+                                          Altres          2,8       3,8
+                                          Global          2,4       3,0
+
+
+
+
+NP-A123_20260219                                                                         Pàg. 7 de 16
+                                A123. Enquesta de moviments turístics a les fronteres.
+
+
+
+
+         Pernoctacions per tipus d’allotjament
+
+
+
+
+         Pernoctacions per zona d’allotjament
+
+
+
+
+NP-A123_20260219                                                                         Pàg. 8 de 16
+                                   A123. Enquesta de moviments turístics a les fronteres.
+
+
+
+
+          2.5 Característiques de l’allotjament dels turistes
+
+
+         Tipus de l’allotjament dels turistes
+
+
+
+                                                     GLOBAL             Entrada per Sant Julià     Entrada pel Pas
+
+
+                                                nov-25       des-25       nov-25       des-25     nov-25        des-25
+         Hotel, aparthotel o apartament
+                                                     83%          85%          85%          85%       74%            84%
+         Turístic
+         Habitatge d’amics, familiars o propi        10%          11%          10%          11%       12%            10%
+
+         Altres (càmping, acampada lliure..)          7%           4%           5%          4%        14%             6%
+
+
+
+
+NP-A123_20260219                                                                                           Pàg. 9 de 16
+                                      A123. Enquesta de moviments turístics a les fronteres.
+
+
+
+         Categoria de l’allotjament dels turistes
+
+
+                                                              GLOBAL
+                                          ✰               ✰✰  ✰✰✰      ✰✰✰✰ ✰✰✰✰✰ Nc/Sense
+                               nov-25              1%      8%      26%       56% 6%     4%
+                               des-25              1%      7%      33%       50% 4%     4%
+                                                        Entrada per Sant Julià
+                                          ✰           ✰✰      ✰✰✰      ✰✰✰✰ ✰✰✰✰✰ Nc/Sense
+                               nov-25              1%      6%      26%       57% 6%     4%
+                               des-25              1%      7%      34%       51% 3%     3%
+                                                                Entrada pel Pas
+                                          ✰           ✰✰      ✰✰✰      ✰✰✰✰ ✰✰✰✰✰ Nc/Sense
+                               nov-25              1%    15%       23%       51% 8%     3%
+                               des-25              0%      8%      27%       49% 8%     9%
+
+
+
+
+         Zona d’allotjament dels turistes
+
+
+                                                 Global              Entrada per Sant Julià    Entrada pel Pas de la Casa
+
+                                        nov-25            des-25     nov-25        des-25        nov-25        des-25
+
+                   Canillo                 10,2%             15,5%        9,0%         13,4%         15,5%         22,3%
+                   Encamp                   5,9%              9,4%        5,7%          7,8%          6,9%         14,6%
+                   Ordino                   4,1%              4,8%        4,4%          5,2%          2,8%          3,5%
+                   La Massana              14,1%             14,1%       14,6%         14,9%         11,9%         11,3%
+                   Andorra la Vella        29,4%             23,4%       30,0%         23,5%         26,7%         23,1%
+                   Sant Julià               2,8%              2,4%        3,0%          2,6%          1,9%          1,9%
+                   Escaldes                30,5%             25,3%       32,0%         28,9%         23,7%         13,3%
+                   Pas de la Casa           2,9%              3,0%        1,2%          1,7%         10,6%          7,1%
+
+
+
+
+NP-A123_20260219                                                                                                            Pàg. 10 de 16
+                                               A123. Enquesta de moviments turístics a les fronteres.
+
+
+
+                   3. Revisió metodològica
+
+
+                   Durant els darrers mesos de l’any 2025 s’ha dut a terme una revisió metodològica amb
+                   l’objectiu d’adaptar el càlcul del nombre de visitants a una font de dades facilitada per Andorra
+                   Telecom. Aquesta revisió ha estat validada mitjançant comparacions amb dades oficials i
+                   controls interns de qualitat, garantint que les estimacions publicades reflecteixin amb més
+                   precisió la realitat estadística.
+
+                   A principis del 2025, Andorra Telecom va confirmar al Departament d’Estadística que la millor
+                   manera d’estimar el nombre de visitants a partir de les dades que proporciona és de
+                   prescindir dels senyals M2M1 i utilitzar exclusivament els senyals de telèfons mòbils
+                   intel·ligents. Fins al desembre del 2024, en els càlculs es tenien en compte ambdues
+                   tipologies de senyals (mòbils i M2M).
+
+                   A partir de gener del 2025, la metodologia de càlcul del nombre de visitants s’adapta per fer
+                   servir únicament els senyals dels telèfons mòbils, fet que aporta més precisió.
+
+                   Atès que des de l’any 2022, es disposa per part d’Andorra Telecom, del nombre de senyals
+                   diferenciats entre senyals mòbils i M2M, el Departament d’Estadística ha pogut recalcular les
+                   dades de visitants dels anys 2022, 2023 i 2024 utilitzant exclusivament els senyals de
+                   telèfons mòbils intel·ligents. Aquest ajust metodològic permet obtenir variacions anuals més
+                   precises i assegurar la comparabilitat amb les dades del 2025.
+
+                   Les publicacions de l’any 2025 ja incorporaven aquesta nova metodologia i, per tant, han
+                   estat calculades i publicades només amb els senyals dels telèfons mòbils. A partir d’ara, la
+                   sèrie recalculada dels anys 2022, 2023 i 2024 es publicarà al web d’Estadística sota la
+                   denominació Visitants (metodologia 2025).
+
+                   Les taules següents mostren la comparació de les dades publicades i les recalculades dels
+                   anys 2022 a 2024, així com les diferències percentuals respecte a les publicacions anteriors.
+                   També s’hi inclouen les dades de l’any 2025 segons aquesta nova metodologia.
+
+
+
+
+                 Any 2024        Gener     Febrer     Març      Abril     Maig      Juny      Juliol      Agost      Setembre    Octubre    Novembre    Desembre     Total
+        Dades publicades         776.061    721.120   809.812   598.126   551.334   922.933   955.660    1.244.031     797.285    672.213     773.387     824.694   9.646.656
+        Dades nova metodologia   727.689    676.670   763.824   564.955   516.595   885.243   912.439    1.187.598     757.431    634.358     732.552     767.685   9.127.039
+        Diferència                 -6,2%      -6,2%     -5,7%     -5,5%     -6,3%     -4,1%     -4,5%        -4,5%       -5,0%      -5,6%       -5,3%       -6,9%        -5,4%
+
+
+
+
+                 Any 2025        Gener     Febrer     Març      Abril     Maig      Juny      Juliol      Agost      Setembre    Octubre    Novembre    Desembre     Total
+        Dades nova metodologia   758.035    732.645   646.580   644.829   513.621   843.422   924.738    1.163.583     801.066    711.859     685.096     768.866   9.194.340
+        Variació anyal              4,2%       8,3%    -15,3%     14,1%     -0,6%     -4,7%       1,3%       -2,0%        5,8%      12,2%       -6,5%        0,2%        0,7%
+
+
+
+
+                   Amb la nova metodologia, el nombre de visitants anuals dels anys 2022 al 2024 s’ajusten a
+                   la baixa (-3,7%, -4,6% i -5,4%, respectivament).
+
+
+
+          1
+           Els senyals M2M (Machine to Machine) corresponen a dispositius que es connecten automàticament a la xarxa mòbil per transmetre
+          dades sense intervenció humana. Són habituals en sensors, comptadors intel·ligents, alarmes o dispositius de seguiment.
+
+
+
+
+NP-A123_20260219                                                                                                                                        Pàg. 11 de 16
+                             A123. Enquesta de moviments turístics a les fronteres.
+
+
+
+
+         Dades acumulades:
+
+
+
+
+NP-A123_20260219                                                                      Pàg. 12 de 16
+                                   A123. Enquesta de moviments turístics a les fronteres.
+
+
+
+         4    Nota Metodològica
+
+
+             •     Font: Dades generades a partir de l’enquesta de turisme realitzada pel Departament
+                   d’Estadística del Govern d’Andorra i disponibles al web www.estadistica.ad en el banc
+                   de dades dins de l’apartat “Hoteleria i turisme”. En aquest apartat trobaran:
+                       - Les dades en nombre absolut
+                                  1. Sèries de 1999 a abril 2009 (metodologia 2002)
+                                  2. Sèries de maig 2009 a desembre 2011 (metodologia 2009)
+                                  3. Sèries de febrer 2011 a data d’avui (metodologia 2012)
+                       - Índex turístic (Sèries de 1999 a octubre 2012)
+
+             •     Definicions: Els visitants agrupen els turistes, que són els visitants que passen com a
+                   mínim una nit al país, i els excursionistes, que són els visitants que només passen el dia
+                   al país sense pernoctar-hi.
+
+             •     Metodologia:
+                   Les dades de visitants s’obtenen a partir de l’enquesta de turisme realitzada sobre una
+                   mostra dels visitants i el seu creuament amb les càmeres de detecció automàtica
+                   d’entrada de vehicles per frontera de l’Agència de Mobilitat.
+
+                   El mes de maig del 2009 es va realitzar un canvi metodològic en l’enquesta i elaboració
+                   dels resultats del nombre de visitants. Aquest canvi està explicat en la Nota de Premsa
+                   P-1050_20100202 (Met.), publicada el 02/02/2010.
+
+                   El mes de maig del 2011 l’enquesta la realitzen conjuntament el CRES, Andorra Turisme
+                   i el Departament d’Estadística, a partir d’aquesta data s’ha treballat en la millora
+                   metodològica plasmada en la informació publicada:
+                        1. A partir del mes de maig 2011:
+                           o  Ampliació dels dies i hores de recollida de les enquestes.
+                        2. A partir del mes de desembre del 2011:
+                           o  Identificació i no inclusió dels treballadors fronterers com a excursionistes.
+                           o  Identificació i inclusió dels visitants entrats al país mitjançant autobusos
+                              discrecionals de matrícula andorrana.
+                           o  Enquesta específica als autobusos de matrícula no andorrana per identificar
+                              l’origen i característiques dels visitants transportats.
+                        3. A partir del mes de desembre del 2014:
+                           o  Millora de l’estimació dels visitants que entren amb autobusos, en tenir en
+                              compte tots els tipus de serveis de transport públic internacional de viatgers
+                              (regulars i discrecionals).
+                           o  Millora de l’estimació de l’entrada de visitants d’altres procedències, que
+                              entren amb cotxes de lloguer amb matrícula espanyola per la frontera de
+                              Sant Julià de Lòria.
+
+                   El mes de desembre del 2016, el Departament d’Estadística assumeix el treball de camp
+                   de les enquestes turístiques.
+                   A partir del mes de desembre s’incorporen les millores a la recollida de dades:
+                      o Harmonització i adaptació de les variables de les enquestes a les recomanacions
+                          internacionals.
+                      o Augment de la mostra enquestada per als diferents qüestionaris.
+                      o Control més acurat de les dades recollides.
+                      o Millora de la reactivitat davant de les incidències diàries del treball de camp.
+
+                   A petició dels diferents actors de l’activitat turística del Principat i com a millora del càlcul
+                   de les pernoctacions efectuada pel Departament d’Estadística, el mes de gener de 2024,
+                   s’incorporen millores a l’estimació de les pernoctacions per tipus d’habitatge, aquesta
+                   revisió inclou:
+                      o   El tractament de les pernoctacions, inclou tant les pernoctacions dels turistes que
+                          han visitat el país en vehicle lleuger com en autobús.
+                      o   Aquesta revisió inclou l’històric de les dades des del mes de desembre 2016.
+
+
+NP-A123_20260219                                                                                            Pàg. 13 de 16
+                                  A123. Enquesta de moviments turístics a les fronteres.
+
+
+
+                     o   Per a la correcta classificació de la tipologia, s’ha tingut en compte la classificació
+                         de la base de dades del Ministeri de Turisme.
+                     o   Amb relació a la zona, durant la revisió s’han agrupat la zona Encamp i la zona
+                         Pas de la Casa a la sèrie Pernoctacions per zona d’allotjament (metodologia
+                         2012). Encamp.
+                     o   Canvi a la sèrie “PERNOCTACIONS PER TIPUS D'ALLOTJAMENT”
+                         (METODOLOGIA 2012) 02050610000
+                         Pernoctacions per tipus d’allotjament. Habitatge propi o de lloguer, desapareix i es
+                         creen dues sèries diferents:
+                                     1. Pernoctacions per tipus d’allotjament (Metodologia 2012).
+                                        HABITATGE D'ÚS TURÍSTIC
+                                     2. Pernoctacions per tipus d’allotjament (Metodologia 2012).
+                                        HABITATGE DE PROPIETAT
+                         Especificació del tipus d’allotjament que està inclòs en les noves sèries:
+                               Pernoctacions per tipus d’allotjament (Metodologia 2012). Hotel
+                                           Hostals o residències
+                                           Hotels
+                                           Pensions
+                               Pernoctacions per tipus d’allotjament (Metodologia 2012). Aparthotel
+                                           Aparthotels
+                                           Borda/ Casa rural
+                               Pernoctacions per tipus d’allotjament (Metodologia 2012). Apartament turístic
+                                           Apartaments turístics
+                               Pernoctacions per tipus d’allotjament (Metodologia 2012). Càmping
+                                           Càmping i zona d’acampada
+                               Pernoctacions per tipus d’allotjament (Metodologia 2012). Habitatge d’amics
+                               o familiars
+                                           Habitatge d’amics o familiars
+                               Pernoctacions per tipus d’allotjament (Metodologia 2012). Habitatge d’ús
+                               turístic
+                                           Habitatge d’ús turístic (HUT’S + EGHUT)
+                               Pernoctacions per tipus d’allotjament (Metodologia 2012). Habitatge de
+                               propietat
+                                           Habitatge de propietat
+                               Pernoctacions per tipus d’allotjament (Metodologia 2012). Altres
+                                           Albergs
+                                           Cases de colònies
+                                           Refugis de muntanya
+                               Pernoctacions per tipus d’allotjament (Metodologia 2012). No sap o no
+                               contesta.
+                     o   Canvi a la sèrie “PERNOCTACIONS PER ZONA D'ALLOTJAMENT”
+                         (METODOLOGIA 2012) 020506100003
+                         Agrupació de les zones Pas de la Casa i Encamp per parròquia, a partir del mes
+                         de desembre 2016, amb la revisió les dades de la sèrie “Pernoctacions per zona
+                         d’allotjament” (metodologia 2012). Pas de la Casa, canviarà a 0.
+
+                   A finals de l’any 2025, les dades han estat sotmeses a un procés de revisió metodològica
+                   i validació per tal d’assegurar la seva coherència amb les noves dades més ajustades.
+
+                   Fruit d’aquesta revisió, es publica una nova sèrie metodològica que incorpora les millores
+                   derivades de l’ús exclusiu dels senyals actius de telèfons intel·ligents com a base per al
+                   càlcul de visitants. Aquesta nova sèrie, que arrenca amb dades calibrades des de l’any
+                   2022, permetrà garantir la comparabilitat interanual.
+
+                   Les dades quedaran així integrades dins la nova sèrie metodològica, consolidant la
+                   continuïtat i la qualitat de la informació estadística publicada.
+
+
+
+
+NP-A123_20260219                                                                                         Pàg. 14 de 16
+                                  A123. Enquesta de moviments turístics a les fronteres.
+
+
+
+
+             •     Dades sociodemogràfiques:
+                   A partir de les enquestes als visitants a la frontera, s’obté més informació sobre els
+                   visitants. Les dades sociodemogràfiques reflecteixen els perfils dels visitants que entren
+                   amb vehicles lleugers excepte la pernoctació mitjana que engloba també els visitants
+                   entrats en autobusos.
+
+
+             •     Nota:
+                       •   D’acord amb les previsions de la Llei del Pla d’estadística 2022-2025 i el seu
+                           desplegament en el Programa estadístic per a l’any 2025, el present informe
+                           dona resposta a l’activitat estadística:
+                              ▪ A123 Estadística de moviments turístics en les fronteres
+
+             •     Referències metodològiques:
+
+                   EUROSTAT:
+                             L'Eurostat (en anglès: Statistical Office of the European Communities) és
+                   l'oficina estadística de la Comissió Europea, que produeix dades sobre la Unió
+                   Europea (UE) i promou l’harmonització dels mètodes estadístics dels estats membres.
+                   https://joinup.ec.europa.eu/software/demetraplus/description
+
+
+
+                   U.S. CENSUS BUREAU:
+                           L'Oficina del Cens dels Estats Units (de l'anglès United States Census Bureau)
+                   forma part del Departament de Comerç dels Estats Units. És l’organisme governamental
+                   que s’encarrega del Cens als Estats Units. El seu objectiu és donar una font de dades
+                   de qualitat sobre la població d'EUA i la seva economia.
+                   http://www.census.gov
+
+
+
+
+NP-A123_20260219                                                                                      Pàg. 15 de 16
+                                A123. Enquesta de moviments turístics a les fronteres.
+
+
+
+              5. Dates de les publicacions previstes
+
+
+          -   Nota de premsa “A123. Enquesta de moviments turístics a les fronteres. Gener 2026”: 26 de
+              febrer de 2026.
+
+
+
+
+NP-A123_20260219                                                                                Pàg. 16 de 16
+
