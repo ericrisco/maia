@@ -165,5 +165,53 @@ temporals o descarregar sales, amb **la mateixa consideració que les ordinàrie
   una excepció: és una peça de disseny.**
 - **El règim disciplinari dels jutges** (títol V, capítols segon a quart) queda
   pendent.
-- **El [Tribunal Constitucional](les-lleis-qualificades.md)** no forma part de
-  l'organització judicial i té llei pròpia (96 articles), també per llegir.
+- ~~**El [Tribunal Constitucional](les-lleis-qualificades.md)** no forma part de
+  l'organització judicial i té llei pròpia (96 articles), també per llegir.~~ —
+  **`resolt` el 17-09-2026** (`docs/raw/lleis/llei-tribunal-constitucional.txt`).
+  **Vegeu també [el Tribunal Constitucional](./el-tribunal-constitucional.md).**
+
+  **Són quatre magistrats i cadascun deu el càrrec a algú diferent**
+  (article 10.1): **un per cada copríncep** i **dos elegits pel Consell
+  General**, aquests **per majoria de tres cinquenes parts dels consellers de
+  dret**. **Han de tenir més de vint-i-cinc anys i «experiència reconeguda i
+  coneixements acreditats en el camp jurídic o institucional»**, i **la
+  designació «ha de contenir la motivació suficient que avali la idoneïtat de
+  la persona»** (article 10.3). **Els nomena formalment el copríncep i es
+  publica al BOPA.**
+
+  **El mandat és de vuit anys amb renovació esglaonada**: **cada dos anys cessa
+  un magistrat i el substitueix un designat pel mateix òrgan que va elegir el
+  cessant** (article 14.1-2). **Qui entra per cobrir una vacant anticipada ho
+  fa només pel temps que resta.** **El Tribunal, doncs, mai no es renova
+  sencer, i el torn preserva l'equilibri d'origen dels nomenaments.**
+
+  **I si cal nomenar algú que no sigui andorrà, la llei ho resol donant-li la
+  nacionalitat** (article 11): **«posseeix durant el seu mandat l'estatut de
+  nacionalitat de funció»**, que és la figura de l'article 14 de la
+  [llei de nacionalitat](../nacionalitat-i-residencia/la-politica-de-nacionalitat.md).
+
+  **Les incompatibilitats són quatre i la quarta és oberta** (article 12): cap
+  altre càrrec públic estatal ni parroquial, **cap activitat de
+  «representació, gestió, assessorament o defensa d'interessos privats de
+  tercers dins del territori d'Andorra»**, **cap càrrec directiu en partits,
+  sindicats o associacions, nacionals o estrangers**, i **«qualsevol altra
+  activitat que pugui posar en perill la independència i la imparcialitat»**.
+
+  **L'article 13 té una peça que no s'endevina**: si un magistrat se sent
+  menyscabat en la seva independència **«per l'acció de qualsevol òrgan públic
+  o pels particulars»**, **ho ha de comunicar al president del Tribunal perquè
+  aquest «sol·liciti l'auxili de la jurisdicció ordinària»**. **El Tribunal
+  Constitucional no es defensa sol: demana empara als tribunals ordinaris.**
+
+  **L'empara té un límit que convé conèixer** (article 85): **protegeix els
+  drets dels capítols tercer i quart del títol II de la Constitució**, **llevat
+  del de l'article 22**, que és **el del resident estranger davant la no
+  renovació de la residència i l'expulsió**. **Llegit el text constitucional**
+  (`docs/raw/lleis/bopa/constitucio-1993-bopa-24.txt`): l'article 22 diu que
+  l'expulsió o la no renovació «només es podrà acordar per les causes i segons
+  els termes previstos en la llei, en virtut de resolució judicial ferma, si la
+  persona interessada exerceix el dret a la jurisdicció». **És l'únic dret del
+  títol II que queda fora de l'empara constitucional**, i **el que en queda
+  fora és, precisament, el de qui no és andorrà davant de la seva expulsió.**
+  `Requereix el debat parlamentari de la llei del Tribunal Constitucional per
+  saber amb quin argument es va excloure.`
